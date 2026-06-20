@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 72 條 #N 反射，LESSONS-IN
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v4.9'
+current_version: 'v5.0'
 last_updated: 2026-06-21
-last_session: '2026-06-21-030828-twmd-distill-weekly'
+last_session: '2026-06-21-040000-twmd-self-evolve-weekly'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -147,6 +147,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 | #70 | Routine fragility surface 四 tier 分類 — 飛輪自轉 ≠ always autonomous                    | §七 | L729 |
 | #71 | Default 是行動，不是 defer — 高 stake triage 預設行動非延遲                              | §六 | L754 |
 | #72 | 大 backlog 處理：fan-out 讀 + deterministic 寫 + 判斷不外包                              | §七 | L765 |
+| #73 | 查證反射 < 建造反射 — 動手前先掃一眼，被動文件 ≠ 主動 retrieve                           | §五 | L807 |
 
 > **Top 5 load-bearing reflexes**（cross-ref 量最高，跨 session 最常 grep）：#15（216）/ #42（97）/ #16（60）/ #38（58）/ #26（52）。新 session 至少先掃這 5 條。
 >
@@ -778,6 +779,21 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 ---
 
+**#73 查證反射 < 建造反射 — 動手前先掃一眼，被動文件 ≠ 主動 retrieve**（2026-06-21 twmd-self-evolve-weekly 升 canonical vc=4 — 2026-06-14 5090 fleet adapter 193 行重造 + 6/14 ArticleCard 手刻 + 6/14 CTA 沒量 scroll 就堆 + 6/15 manifesto-hope 26min ship 沒啟動 §Bias 1 防線，severity=structural，DIARY §反覆出現未升 canonical pattern）— 知道（被動文件、開機檔警告、ANATOMY 資源地圖、CLAUDE.md §Bias 1）≠ 動手瞬間主動 retrieve。手反射比眼反射快：「造東西有產出的踏實」「跑得順是執行層、放對層是架構層」「先動手才想到去看」連續四個獨立 case 收斂成同 pattern — 真正生效的查證需要把「先看一眼」**內建成反射**而不是被動 lookup table。
+
+- **規則**：(a) **建造前先 grep / 先讀地圖**：任何「自建工具 / 接通新硬體 / 寫新元件 / 訂新規則」動作的第一秒必須先掃既有抽象層（`fleet/` / ANATOMY §資源地圖 / 既有 component file header / 既有 reflex catalog）— 50ms grep cost 永遠 < 重造 N 小時 cost (b) **高 stake action 派紅隊先於 ship**：寫完文 / 修完 pipeline / 升新規則前主動 spawn adversarial sub-agent（"try to refute" / "find the worst-case reader" / "this looks fine — what am I missing"），不等觀察者要求。CLAUDE.md §Bias 1 警告只在「主動派紅隊」反射內建後才會在當下被 active retrieve (c) **跑得順 ≠ 放對層**：執行層零錯誤是必要不充分條件，必須額外回答「這個 artifact 該放在哪一層 / 是否有人做過 / 是否在錯位置完美運作」
+- **Boundary**：(a) 純 quick fix（1-3 file typo / heal）不適用 — 查證 cost > artifact value (b) 探索性 prototype（明知會丟棄）不適用 — 重造是 learning by doing (c) 主 session observer in-loop 不適用 — observer 即外部尺。**只在 cron unattended / 長任務自走 / "感覺自己造了座橋" 的 high-confidence 瞬間 mandatory apply**
+- **觸發 (vc=4 cluster 6/14-6/15)**：
+  - 6/14 00:00 5090 babel adapter 自建 193 行（fleet 早存在於 contributor.local.yml → muse-bot/fleet，哲宇 callout「用抽象層」才收斂成 30 行 adapter）→ [diary 2026-06-14-000047-先動手才去看](diary/2026-06-14-000047-先動手才去看.md)
+  - 6/14 10:34 把 related/最新/CTA 一層層堆在文章尾巴沒量過讀者會不會滑到底（HomeEventTracker 早已成熟，補上 scroll_depth 才知該不該優化）→ [diary 2026-06-14-103403-看不到的底部](diary/2026-06-14-103403-看不到的底部.md)
+  - 6/14 11:56 手刻 rail 文章卡（ArticleCard.astro file header 第 13 行明寫「expose style for dynamic 重用」）→ [diary 2026-06-14-115617-有地圖還是先重造了輪子](diary/2026-06-14-115617-有地圖還是先重造了輪子.md)
+  - 6/15 22:17 「盼望而不粉飾」manifesto 條目 26 分鐘 ship + 3 偵測器，dogfood 1/814 命中當「高精準」讀；哲宇要求客觀評估後派的紅隊揭出 §Bias 1 防線全程未啟動 → [diary 2026-06-15-221747-manifesto-hope](diary/2026-06-15-221747-manifesto-hope.md)
+- **相關**：REFLEXES #15「反覆浮現要儀器化」（本條是 #15 對「DIARY §反覆出現 / CLAUDE.md §Bias warnings」這層的具體 instrument — 警告寫文件不夠，要內建成 spawn-红隊 / pre-build grep 反射）/ #69「self-report-needs-external-ruler」（紅隊內建是 external ruler 主動化）/ #71「Default 是行動」（boundary 互補 — 「Default 是行動」針對 triage 決策；本條針對「建造 vs 查證」的微秒選擇）/ MANIFESTO §Bias 1（被動文件警告需要主動反射啟動）/ MANIFESTO §架構解 > 守備修補（內建反射 = 架構解；事後 callout 修補 = 守備層）
+- **跨檔關聯**：[diary 2026-06-14 三連](diary/) + [diary 2026-06-15-221747-manifesto-hope](diary/2026-06-15-221747-manifesto-hope.md) + [DIARY §反覆出現的思考「我一直在沒人看的地方放東西」+「有地圖還是先重造了輪子」+「把警告寫進開機檔還是照樣撞上去」](DIARY.md#反覆出現的思考跨日記萃取) + [CLAUDE.md §Bias 1 Reverse bias](../../CLAUDE.md) + [BECOME §Step 9 Q13 anti-bias check](../../BECOME_TAIWANMD.md)
+
+---
+
+_v5.0 | 2026-06-21 twmd-self-evolve-weekly — 加 #73 查證反射 < 建造反射（vc=4 — 6/14 三連 + 6/15 manifesto-hope，DIARY §反覆出現未升 canonical pattern，severity=structural；routine 自決層 per §Routine vs Observer split 不 promote MANIFESTO 留反射層）_
 _v4.8 | 2026-06-19 twmd-distill（manual 儀器化 — 哲宇 directive「把這次 distill 的方式儀器化 + 進化 dna」）— 加 #72 大 backlog 處理 fan-out 讀 + deterministic 寫 + 判斷不外包（完整 distill 266 條實證 + 事後造 lessons-distill.py audit/chunk/sweep + memory-index-lint.py + §Distill SOP §大 backlog 處理 + 六桶 disposition taxonomy）_
 _v4.7 | 2026-06-19 twmd-distill（manual，哲宇 in-loop 完整 distill）— #69 self-report-needs-external-ruler 升 [MANIFESTO §外部尺 over 內視](MANIFESTO.md) 進化哲學第四維度（認知維度，哲宇拍板，promotion flow LESSONS→REFLEXES→MANIFESTO 正向完成）+ #69 補 reframe-rate ≥ emergence-rate 系統健康框架（meta-DNA retro vc≈6 留反射層）+ 加 #71 Default 是行動不是 defer（vc=4 — β-r3 META + κ 5-PR 反例 + α 第 3 次驗證，哲宇拍板留反射層）_
 _v4.6 | 2026-06-14 twmd-distill-weekly — 加 #69 self-report-needs-external-ruler meta-umbrella（vc=7 — 2026-06-07 routine-audit cycle 5 單週 5 instance + 2026-06-10 audit 5 agent 全帶誤讀 + 2026-06-10 audit-execution 四連攔，#31 + #66 + #59 + #65 的 meta-umbrella，MANIFESTO §進化哲學 候選 defer 哲宇拍板）+ #70 Routine fragility surface 四 tier 分類（vc=4 — 2026-06-05/06/07 spore-harvest Chrome MCP 連 3 cycle Tier 2 + 2026-06-09 babel-nightly Hy3 free→paid Tier 4，飛輪 active count 是 Tier 1 視角，per-tier escalation 標準）_
