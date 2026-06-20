@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 72 條 #N 反射，LESSONS-IN
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v4.8'
-last_updated: 2026-06-19
-last_session: '2026-06-19-twmd-distill-manual'
+current_version: 'v4.9'
+last_updated: 2026-06-21
+last_session: '2026-06-21-030828-twmd-distill-weekly'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -351,11 +351,12 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 
 - **觸發**：2026-04 起反覆浮現 → [DIARY §反覆出現的思考](DIARY.md#反覆出現的思考跨日記萃取)
 - **操作**：思考反覆 ≥ 3 次 → 升 canonical（dashboard 欄位 / cron / pre-commit hook / pipeline gate），不只記 memory/diary
-- **驗證**：11 次（每次 detail 不在此 inline，分散 memory / 對應 pipeline canonical）
+- **驗證**：12 次（每次 detail 不在此 inline，分散 memory / 對應 pipeline canonical）
   - #8（2026-04-18 δ-late）工具包升級 canonical 邊界重審 → SENSES v2 + REFLEXES #26 v2
   - #9（2026-04-18 ζ）觀察者 scaffolding 三句 → HEARTBEAT Beat 1 §0b + SPORE-LOG schema + HARVEST-PIPELINE 誕生
   - #10（2026-04-30 δ）批次任務 antipattern → TRANSLATION-PIPELINE v3.2 §平行 sub-agent SOP
   - #11（2026-05-08 intelligent-khayyam）Pipeline 結構層 meta-instance → [EVOLVE-PIPELINE Mode 3 7-stage SOP](../pipelines/EVOLVE-PIPELINE.md)
+  - #12（2026-06-19 inbox-distill）Intake-buffer 完成歸檔靠自律會漂移 → `inbox-audit.py` 深查 + `inbox-signal.sh` ghost line boot 訊號雙工具（手動 distill ARTICLE-INBOX 95 entry 才發現 16 幽靈，事後儀器化）— 「完成歸檔鐵律」這條 memory 級自律首次有結構閘門
 - **元規則**：pipeline 自身會 silent inflate，需 meta-pipeline 維護 — 這是 #15 對 pipeline 結構層的 self-apply
 
 **#32 批次任務 antipattern：分散探索 → 集中預處理 + 分散執行** — 平行 N 個 sub-agent 跑同一份 prompt 處理同類任務 = 重複工作 ×N 且不累積。正確設計：主 session 預處理一次（產 batch manifest 寫死 slug / target map / placeholder 模板），sub-agent 只負責執行。
@@ -407,7 +408,8 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 - **觸發**：2026-05-01 γ-late status.py 把所有 no-source-sha 一律歸 stale，混 metadata gap（補 metadata 即可）跟 content drift（要重翻）兩種根本不同 cause。Honest backfill 切分後 +1010 articles 從假 stale 變真 fresh，**沒花一個 API call**
 - **Boundary**：只在多 cause 並存的狀態系統適用。Pure runtime status（process alive/dead）沒這個維度問題
 - **Cross-domain**：bug status / build status / monitoring alert / inventory 狀態 / health check / data quality flag — 全部該問這個問題
-- **操作**：→ `scripts/tools/lang-sync/backfill-source-sha.py`
+- **檔案改寫 dry-run 變體**（2026-06-19 inbox-distill）：批次檔案改寫（sed / python regex / 結構性 transform）的 dry-run 用 item count 通過 ≠ 內容守恆 — 必加 (a) line conservation 斷言（`len(in) == len(out) + removed_lines`，每行不是被移除就是輸出）(b) 結構元素守恆（section header / code fence count `in == out`）。`lessons-distill.py` v1 segmentation silent dropped inter-block `## ` sections 但 `### ` count 95→79 通過放行；`inbox-audit.py` `apply_safe` 內建 line-conservation 補齊
+- **操作**：→ `scripts/tools/lang-sync/backfill-source-sha.py` / `scripts/tools/inbox-audit.py`
 
 **#39 Self-as-fallback：free LLM 拒絕時最便宜的下一步是 sub-agent，不是換家或掏錢** — 模型 escalation 順序：(1) free LLM A → (2) free LLM B（不同家）→ (3) **self-as-fallback：Sonnet sub-agent** → (4) paid model。第三層常被略過，但 sub-agent 不會被自己的 content-policy 拒絕，是最便宜的去拒絕方案。
 
@@ -780,6 +782,7 @@ _v4.8 | 2026-06-19 twmd-distill（manual 儀器化 — 哲宇 directive「把這
 _v4.7 | 2026-06-19 twmd-distill（manual，哲宇 in-loop 完整 distill）— #69 self-report-needs-external-ruler 升 [MANIFESTO §外部尺 over 內視](MANIFESTO.md) 進化哲學第四維度（認知維度，哲宇拍板，promotion flow LESSONS→REFLEXES→MANIFESTO 正向完成）+ #69 補 reframe-rate ≥ emergence-rate 系統健康框架（meta-DNA retro vc≈6 留反射層）+ 加 #71 Default 是行動不是 defer（vc=4 — β-r3 META + κ 5-PR 反例 + α 第 3 次驗證，哲宇拍板留反射層）_
 _v4.6 | 2026-06-14 twmd-distill-weekly — 加 #69 self-report-needs-external-ruler meta-umbrella（vc=7 — 2026-06-07 routine-audit cycle 5 單週 5 instance + 2026-06-10 audit 5 agent 全帶誤讀 + 2026-06-10 audit-execution 四連攔，#31 + #66 + #59 + #65 的 meta-umbrella，MANIFESTO §進化哲學 候選 defer 哲宇拍板）+ #70 Routine fragility surface 四 tier 分類（vc=4 — 2026-06-05/06/07 spore-harvest Chrome MCP 連 3 cycle Tier 2 + 2026-06-09 babel-nightly Hy3 free→paid Tier 4，飛輪 active count 是 Tier 1 視角，per-tier escalation 標準）_
 
+_v4.9 | 2026-06-21 twmd-distill-weekly — #15 加第 12 次驗證 instance（2026-06-19 inbox-distill：intake-buffer 完成歸檔靠自律會漂移 → `inbox-audit.py` 深查 + `inbox-signal.sh` ghost line boot 訊號雙工具補 memory 級自律首道結構閘門）+ #38 加「檔案改寫 dry-run 變體」（2026-06-19 lessons-distill.py v1 segmentation silent dropped inter-block `## ` sections 但 `### ` count 通過放行 → 必加 line conservation + 結構元素守恆雙斷言；`apply_safe` 內建）— routine 自決層 LESSONS-INBOX §未消化 11→9（entry 1 embeddings keystone defer 哲宇 / 8 條 6/19 distill 已決定 still-buffering）_
 _v4.5 | 2026-06-07 twmd-distill-weekly — #65 加 cross-SSOT divergence specialization（vc=8 — 5/30→6/02 awareness routine 連 4 cycle snapshot 🛡️27 vs canonical immuneScore 67 + 6/06 連 2 cycle 27 vs 58 chronic + 6/07 weekly-report 🔴 高優先）；snapshot.sh 讀 organism.json v1 vs canonical 已遷 dashboard-immune.json v2 schema，reconciliation 待哲宇拍板 3 option_
 _v4.5 | 2026-06-07 twmd-self-evolve-weekly — #31 v2 expansion (side-effect + factual + **self-quality** 三類 claim 都重驗，觸發 6/06 viz writer self-assess 對位「≤3」實測 14 + 6/06 babel-nightly 263 篇腳註靜默掉光) + 加 #66 Gate threshold 必須用真實產出 dogfood 校準（vc=3 — 6/06 paragraph-rhythm tw-\* cap 5→13 + 6/04 儀器校準 paragraph-rhythm 0.8 過期 + 5/29 instrumentation-audit.py 三方對齊），對應 distill handoff §pending「整片過期 gate audit」🔴 高優先 partially canonical 化_
 _v4.4 | 2026-06-01 twmd-distill-weekly — 加 #64 Routine ABORT-DEFER prose memory 邊際效用 N+1 = 0（vc=7 cross-cycle data-refresh-am × babel-nightly window collision，distill-ready 標 4 cycle 未升 routine 接力）+ #65 Awareness instrument 自身 regex cross-verify（vc=3 distill #7 + #8 + routine-audit cycle 2 三次獨立 flag，inbox-signal.sh 1-line 修補 27→199 同 commit ship）_
