@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-06-21
-last_session: '2026-06-21-004244-twmd-babel-nightly'
+last_session: '2026-06-21-041537-twmd-self-evolve-weekly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -837,3 +837,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-06-21 | 004244-twmd-babel-nightly | 00:30 cron (fire 00:42) — **5 translations shipped stale=0 連續第 5 夜** `9d6d24d50`：1 P0 missing (Art/笠詩社 6/20 19:40 NEW ship) × 5 lang × Tier 1 codex full-translate, 5 parallel workers (DNA #45 1 worker per lang) ~5.5min wall clock (max 332s ja) / 5/5 ok 0 fail；slug `li-poetry-society` by owl-alpha slug-suggest; sizes 54-58 KB vs zh 42 KB ratio 1.28-1.39x healthy; coverage 814/814 100% across en/ja/ko/es/fr; Tier 0a/0b 本夜未使用無 P2/P2.5 work items；P3 fr/ko 19 篇 60+ 天 backlog 持續觀察 | 連 5 夜 stale=0 在不同 burst scale (6/20 75 items → 6/21 5 items) 都收斂 = routine 飛輪設計 backlog flatness 不是 utilization；quiet night 比 burst night 更能證明飛輪健康 — 每晚 dispatch + verify + commit 鐵律不退化 (homeostasis is pattern not event)；P3 fr/ko 60+ day refresh lane 不是 stale=0 義務範疇但 sovereignty 維度 long-term 值得排，等 weekly retro 或哲宇拍板批 refresh；🛡️52 chronic 連 6 cycle carry / MEMORY 561 row > 80 distillation 設計債 2 個月+ 未實作 carry | [→](memory/2026-06-21-004244-twmd-babel-nightly.md) |
 | 2026-06-21 | 021455-twmd-weekly-report-sun | 02:00 cron — **W25 週報 ship Resend 200** id=`b52a5a82-724b-40be-9bc3-2b6cfe2d61b0` cheyu.wu@monoame.com；Stage 0-6 全跑（dossier 305KB 6032行 / 98 memory + 25 diary 全讀 / 7 章節 23KB 親手寫）；prose-health hard=0 warn=5（3 對位句型過 §11 三題判準合法保留，7→3 重寫 4 處）；核心 narrative：第十五週「每個輸出在它要解決的問題裡找到自己」+ 14 篇深度文 ship + 多核心 git 鐵律從文字變成腳本 + lessons 266→8 + 自畫像 3 月 EVOLVE + 主權巴別塔首次野外英文撿取 (Michael Turton + 文化部駐英國 IG)；三 SPOF defer 哲宇拍板：免疫 v3 設計缺口 / Chrome MCP 連 5 cycle / Embedding 4090 always-on | cron unattended 環境跑「外部尺 over 內視」週報自身缺外部尺，能搆到最近的替代物只有 prose-health 閘門 = 這跟週報主旋律對位；warn 對位句型過 §11 三題判準是合法保留不是 fail，週報結構性 bullet-heavy 觸發稀薄段落 false positive 是 pipeline 已知豁免 | [→](memory/2026-06-21-021455-twmd-weekly-report-sun.md) |
 | 2026-06-21 | 030828-twmd-distill-weekly | 03:00 cron — §未消化 11→9 fold #15+#38（v4.9）+ entry 1 defer 哲宇 + SPORE-INBOX 51→46 drop 5 P2 | 加 #15 instance 即在執行 #15 (meta-self-apply) | [→](memory/2026-06-21-030828-twmd-distill-weekly.md) |
+| 2026-06-21 | 041537-twmd-self-evolve-weekly | 04:00 cron — 3 ship：REFLEXES #73 查證<建造反射 vc=4 + #74 SPOF handoff dedup vc=3 + DIARY v2.1 補 markers | self-evolve 首例達標；distill idea→reflex 跨 routine 接力 | [→](memory/2026-06-21-041537-twmd-self-evolve-weekly.md) |
