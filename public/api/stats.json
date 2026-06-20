@@ -1,5 +1,5 @@
 {
-  "totalArticles": 4885,
+  "totalArticles": 4886,
   "totalCategories": 20,
   "estimatedContributors": 61,
   "totalTags": 6069,
@@ -78,7 +78,7 @@
     },
     {
       "name": "Art",
-      "count": 40
+      "count": 41
     },
     {
       "name": "resources",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4885,
+    "zh-TW": 4886,
     "en": 0
   },
-  "lastUpdated": "2026-06-19T22:11:23.053Z",
-  "stars": 1059,
-  "forks": 155,
-  "zhPages": 811,
+  "lastUpdated": "2026-06-20T15:09:10.046Z",
+  "stars": 1060,
+  "forks": 156,
+  "zhPages": 812,
   "enPages": 818,
-  "totalPages": 811
+  "totalPages": 812
 }

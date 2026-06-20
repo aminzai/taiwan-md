@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T06:11:31.693288",
+  "lastUpdated": "2026-06-20T23:09:16.576564",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 52,
@@ -30,7 +30,7 @@
       "weight": 3.0
     },
     "T2": {
-      "total": 354,
+      "total": 355,
       "reviewed": 84,
       "pct": 23.7,
       "weight": 1.5
@@ -43,8 +43,8 @@
     }
   },
   "pluginPassDetail": {
-    "total_files": 813,
-    "hard_pass_files": 813,
+    "total_files": 814,
+    "hard_pass_files": 814,
     "hard_pass_pct": 100.0,
     "warn_pass_files": 0,
     "warn_pass_pct": 0.0,
@@ -52,13 +52,13 @@
   },
   "citationDetail": {
     "grades": {
-      "A": 635,
+      "A": 636,
       "B": 11,
       "C": 152,
       "D": 4,
       "F": 9
     },
-    "files_with_grade": 811
+    "files_with_grade": 812
   },
   "freshnessDetail": {
     "editorial_days_old": 5,
@@ -67,7 +67,7 @@
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 19,
+    "new_articles_7d": 18,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
@@ -206,7 +206,7 @@
   },
   "externalRulersDetail": {
     "ruledArticles": 30,
-    "totalArticles": 811,
+    "totalArticles": 812,
     "rulerSources": {
       "factcheckReports": true,
       "readerErrataCommits90d": true,

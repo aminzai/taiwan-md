@@ -1,7 +1,68 @@
 {
-  "generatedAt": "2026-06-19T22:11:24.906Z",
+  "generatedAt": "2026-06-20T15:09:11.928Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "2a6a7e8fed9795a4abab4b99b04f02d87e37d2d3",
+      "date": "2026-06-20T22:05:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-20-220314-twmd-maintainer-pm — no-op empty cycle vc=2 ascending (1 PR #1170 pending contributor 32hr / 8 issues / broken-link 0.36% / build green)",
+      "articles": []
+    },
+    {
+      "hash": "4600c08e1eda80a26d6c825b0f2f3b8f726a6471",
+      "date": "2026-06-20T19:44:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-20-190713-twmd-rewrite-daily — 笠詩社 60 年 NEW ship + SPORE chain deferred (Chrome MCP 連 5 cycle 結構性 blocker)",
+      "articles": []
+    },
+    {
+      "hash": "9b7fd2c8c187223a1b20089027e910af1f8182a1",
+      "date": "2026-06-20T19:40:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] rewrite: 笠詩社 60 年 NEW — 一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊",
+      "articles": [
+        {
+          "url": "/art/笠詩社",
+          "name": "笠詩社"
+        }
+      ]
+    },
+    {
+      "hash": "360be2d014a86b6ab9b51f9a0bc57678e3fdf5a7",
+      "date": "2026-06-20T08:43:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-20-084145-twmd-maintainer-am — no-op empty cycle vc=1 (1 PR pending contributor / 8 issues classified / broken-link 0.36% / build green)",
+      "articles": []
+    },
+    {
+      "hash": "8bb5e2db2d11aaac112acf93aa0ab4d6c2b7d8f0",
+      "date": "2026-06-20T07:08:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 0 new feedback + 4 archive 留言 sync — #1152 等 close-resolution 落 git 主權層",
+      "articles": []
+    },
+    {
+      "hash": "940db1ba3de04949f2adc5cd3d6ab396f5cf7054",
+      "date": "2026-06-20T06:56:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-20-065423-twmd-spore-harvest-am — 12 events full audience flywheel + OVERDUE 4→0 + 平台反轉首發",
+      "articles": []
+    },
+    {
+      "hash": "7ded7040093b5ff5541e6c811054fde98b73d674",
+      "date": "2026-06-20T06:54:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 6 spores × 2 平台 = 12 events — 4 OVERDUE 完成 + #144 報導者 D+4 94K viral 持續 + 1 Bucket B candidate (政策跨黨派 registry)",
+      "articles": []
+    },
+    {
+      "hash": "4886123b351394dbe1291df5202d7e6869e49731",
+      "date": "2026-06-20T06:14:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: am 14-step data refresh — 三源全綠 + Step 11 11/11 fresh + immune 52 flat + spore OVERDUE 0→4",
+      "articles": []
+    },
     {
       "hash": "241502d1deeab013707db9f99dc0a47bf631e9c6",
       "date": "2026-06-20T05:12:53+08:00",
