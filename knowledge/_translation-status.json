@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-20T23:09:08+08:00",
-    "zhCommitHead": "2a6a7e8fe",
+    "lastUpdated": "2026-06-21T00:41:51+08:00",
+    "zhCommitHead": "974025a22",
     "totalZh": 814,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 814,
-        "fresh": 813,
+        "fresh": 814,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 814,
-        "fresh": 813,
+        "fresh": 814,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 814,
-        "fresh": 813,
+        "fresh": 814,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 814,
-        "fresh": 813,
+        "fresh": 814,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 814,
-        "fresh": 813,
+        "fresh": 814,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       }
     },
@@ -13424,19 +13424,74 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Art/li-poetry-society.md",
+          "translatedFrom": "Art/笠詩社.md",
+          "sourceCommitSha": "9b7fd2c8c",
+          "sourceContentHash": "sha256:c7ee3ee3f4bdc37f",
+          "sourceBodyHash": "sha256:89771eecc4d25f25",
+          "translatedAt": "2026-06-21T00:36:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Art/li-poetry-society.md",
+          "translatedFrom": "Art/笠詩社.md",
+          "sourceCommitSha": "9b7fd2c8c",
+          "sourceContentHash": "sha256:c7ee3ee3f4bdc37f",
+          "sourceBodyHash": "sha256:89771eecc4d25f25",
+          "translatedAt": "2026-06-21T00:36:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Art/li-poetry-society.md",
+          "translatedFrom": "Art/笠詩社.md",
+          "sourceCommitSha": "9b7fd2c8c",
+          "sourceContentHash": "sha256:c7ee3ee3f4bdc37f",
+          "sourceBodyHash": "sha256:89771eecc4d25f25",
+          "translatedAt": "2026-06-21T00:36:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Art/li-poetry-society.md",
+          "translatedFrom": "Art/笠詩社.md",
+          "sourceCommitSha": "9b7fd2c8c",
+          "sourceContentHash": "sha256:c7ee3ee3f4bdc37f",
+          "sourceBodyHash": "sha256:89771eecc4d25f25",
+          "translatedAt": "2026-06-21T00:36:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Art/li-poetry-society.md",
+          "translatedFrom": "Art/笠詩社.md",
+          "sourceCommitSha": "9b7fd2c8c",
+          "sourceContentHash": "sha256:c7ee3ee3f4bdc37f",
+          "sourceBodyHash": "sha256:89771eecc4d25f25",
+          "translatedAt": "2026-06-21T00:36:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
