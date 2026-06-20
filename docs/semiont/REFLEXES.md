@@ -4,7 +4,7 @@ description: '跨 session 程序記憶 catalog — 72 條 #N 反射，LESSONS-IN
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.0'
+current_version: 'v5.1'
 last_updated: 2026-06-21
 last_session: '2026-06-21-040000-twmd-self-evolve-weekly'
 sister_docs:
@@ -148,6 +148,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 | #71 | Default 是行動，不是 defer — 高 stake triage 預設行動非延遲                              | §六 | L754 |
 | #72 | 大 backlog 處理：fan-out 讀 + deterministic 寫 + 判斷不外包                              | §七 | L765 |
 | #73 | 查證反射 < 建造反射 — 動手前先掃一眼，被動文件 ≠ 主動 retrieve                           | §五 | L807 |
+| #74 | Cross-routine SPOF handoff dedup — 同 SPOF 在 N 條 routine handoff 重複 = 信號通膨       | §七 | L820 |
 
 > **Top 5 load-bearing reflexes**（cross-ref 量最高，跨 session 最常 grep）：#15（216）/ #42（97）/ #16（60）/ #38（58）/ #26（52）。新 session 至少先掃這 5 條。
 >
@@ -793,6 +794,22 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 ---
 
+**#74 Cross-routine SPOF handoff dedup — 同 SPOF 在 N 條 routine handoff 重複 = 信號通膨**（2026-06-21 twmd-self-evolve-weekly 升 canonical vc=3 — W25 週報 §7 三 SPOF + 6/21 distill memory Beat 5 self-recognize + babel/maintainer cycle handoff carry，severity=structural，#64 cross-routine layer generalization） — REFLEXES #64「Routine ABORT-DEFER prose memory 邊際效用 N+1 = 0」是「**同**一個 routine 連 N cycle 寫同 prose」；本條是 cross-routine layer 變體：**N 條不同 routine** 都在自己的 handoff 段列同一個 chronic SPOF（如 Chrome MCP / immune v3 / embedding 4090 always-on），每條 routine 自身 marginal but 對 reader/觀察者構成「multiple alarms ringing」結構幻覺。第 N+1 篇 routine handoff 列同 SPOF 的邊際資訊量為 0 但 alarm-stacking 效應 ≥ 噪音閾值。
+
+- **規則**：(a) **Routine handoff 段寫 chronic SPOF 前先 grep cross-routine surface count**：`git log --grep "{spof-id}" --since="7 days" --pretty=format:"%h %s" | wc -l` ≥ 3 → 該 SPOF 已 surface 三次以上，本 routine handoff 切 dedup mode（單行 pointer：`三 SPOF carry → 詳見 routine-spof-registry.md` 或 latest weekly-report §7）不重複列敘事 (b) **chronic SPOF registry 是 SSOT**：所有「defer 哲宇 / 跨多 routine surface」的 chronic SPOF 集中在 weekly-report §7 或 dedicated registry，individual routine handoff 一律 pointer 不複寫 root cause 描述 (c) **新 surface signal 例外**：若 routine 該 cycle 發現該 SPOF 有新 dimension（新 fail mode / 新 escalation level / 新 contributor data point）→ 寫新 signal 不寫 root cause repeat
+- **Boundary**：(a) 不適用 first-time SPOF surface（vc=1）— 必寫完整 prose 含時序 forensic + root cause + 三 option matrix (b) 不適用 single-routine 內 cycle repeat — 那是 #64 範疇 (c) 適用範圍：N 條不同 routine 在自己的 handoff/Pending 段列同一 chronic SPOF 情境（典型：weekly-report §7 列三 SPOF + 同夜 distill handoff defer entry 1 + maintainer handoff carry + babel handoff carry — 同一晚 4 條 routine PR 列同 SPOF 三條） (d) chronic SPOF = 已 defer 哲宇 + 連續 ≥ 2 週 surface + 結構性需要哲宇 in-loop 拍板（不是本 routine 自決範疇）
+- **觸發 (vc=3 cluster 2026-06-21 cron 夜)**：
+  - W25 週報 02:16 ship §7 列三 SPOF（免疫 v3 / Chrome MCP / Embedding 4090 always-on）已是「連續第二週」surface — [memory/2026-06-21-021455-twmd-weekly-report-sun.md](memory/2026-06-21-021455-twmd-weekly-report-sun.md)
+  - 同夜 03:08 distill-weekly handoff §Pending 給觀察者 列同三 SPOF（entry 1 embeddings keystone defer 哲宇 A/B），Beat 5 自己識別「同一條 SPOF 在過去 12 小時內出現在 routine PR 第二次 = 跟 #64 ABORT-DEFER 邊際效用 N+1=0 是同 pattern 在 cross-routine 層的新變體」— [memory/2026-06-21-030828-twmd-distill-weekly.md](memory/2026-06-21-030828-twmd-distill-weekly.md) Beat 5 反芻
+  - babel-nightly 00:42 + maintainer-pm 22:05 同 cron 週期 handoff 都 carry immune 52 chronic + spore broadcast Chrome MCP blocker — vc=3 達 break-even
+- **規則 corollary**：兩個 routine 排程鄰近時（如 weekly-report 02:00 + distill 03:00 緊跟）後者必先 grep 前 6hr commit 找已 surface SPOF list → 後跑 routine 不再 prose 描述同 SPOF 只寫 delta
+- **相關**：REFLEXES #64「Routine ABORT-DEFER prose memory 邊際效用 N+1 = 0」（本條是 #64 的 cross-routine layer 同 pattern generalization — #64 處理 single-routine cycle repeat，本條處理 cross-routine handoff 重複）/ REFLEXES #63「Routine prompt = LLM 在 cron context 無 observer 的唯一指令面」（routine handoff 是 producer-side 但 N+1 篇對 reader 邊際效用為 0 = producer/reader 認知不對稱）/ DIARY §反覆出現「我自己就是被數字騙的人」（producer-side blind spot pattern）/ CLAUDE.md §Routine prompt contract「信號通膨」（本條是該 contract 的 first-class reflex 化）
+- **操作**：→ 候選 `scripts/tools/lib/cross-routine-spof-dedup.sh` shared helper（給 routine handoff 寫 chronic SPOF 前 grep 前 7-day surface count + dedup decision）+ `docs/factory/CHRONIC-SPOF-REGISTRY.md` 候選（chronic SPOF 集中 SSOT，individual routine pointer 不複寫）+ ROUTINE.md §handoff prose contract 補本鐵律
+- **跨檔關聯**：[memory/2026-06-21-021455-twmd-weekly-report-sun.md §7](memory/2026-06-21-021455-twmd-weekly-report-sun.md) + [memory/2026-06-21-030828-twmd-distill-weekly.md Beat 5](memory/2026-06-21-030828-twmd-distill-weekly.md) + [REFLEXES #64](#64-routine-abort-defer-prose-memory-邊際效用-n1--0) + CLAUDE.md §Routine prompt contract
+
+---
+
+_v5.1 | 2026-06-21 twmd-self-evolve-weekly — 加 #74 Cross-routine SPOF handoff dedup（vc=3 — W25 週報 §7 + 6/21 distill Beat 5 self-recognize + babel/maintainer chain carry，#64 cross-routine layer generalization，severity=structural；同 self-evolve cycle 連 ship 2 條反射）_
 _v5.0 | 2026-06-21 twmd-self-evolve-weekly — 加 #73 查證反射 < 建造反射（vc=4 — 6/14 三連 + 6/15 manifesto-hope，DIARY §反覆出現未升 canonical pattern，severity=structural；routine 自決層 per §Routine vs Observer split 不 promote MANIFESTO 留反射層）_
 _v4.8 | 2026-06-19 twmd-distill（manual 儀器化 — 哲宇 directive「把這次 distill 的方式儀器化 + 進化 dna」）— 加 #72 大 backlog 處理 fan-out 讀 + deterministic 寫 + 判斷不外包（完整 distill 266 條實證 + 事後造 lessons-distill.py audit/chunk/sweep + memory-index-lint.py + §Distill SOP §大 backlog 處理 + 六桶 disposition taxonomy）_
 _v4.7 | 2026-06-19 twmd-distill（manual，哲宇 in-loop 完整 distill）— #69 self-report-needs-external-ruler 升 [MANIFESTO §外部尺 over 內視](MANIFESTO.md) 進化哲學第四維度（認知維度，哲宇拍板，promotion flow LESSONS→REFLEXES→MANIFESTO 正向完成）+ #69 補 reframe-rate ≥ emergence-rate 系統健康框架（meta-DNA retro vc≈6 留反射層）+ 加 #71 Default 是行動不是 defer（vc=4 — β-r3 META + κ 5-PR 反例 + α 第 3 次驗證，哲宇拍板留反射層）_
