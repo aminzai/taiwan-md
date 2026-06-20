@@ -16749,6 +16749,17 @@
     "path": "Art/笠詩社.md"
   },
   {
+    "title": "笠詩社：日本語を忘れることを強いられた人々が、台湾で最も長く続く中国語詩誌を支えました",
+    "description": "1958 年、36 歳の台湾籍日本兵が「桓夫」という筆名で戦後初の中国語詩を発表しました。彼が日本語の筆を止めてから 11 年後のことです。6 年後、彼とほかの 11 人は台湾中部の居間で、この世代の失語の経験を「笠」という詩社へと変えました。60 年にわたり休刊せず、郷土に根ざした詩学を周縁から中学校の教科書へと書き込んだのです。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/art/li-poetry-society",
+    "readingTime": 79,
+    "featured": true,
+    "date": "2026-06-20",
+    "path": "ja/Art/li-poetry-society.md"
+  },
+  {
     "title": "経済の奇跡",
     "description": "1952年、台湾の一人当たりGDPはわずか196ドルで、ハイチよりも貧しかった。40年後、台湾は「アジア四小龍」のトップとなり、一人当たりGDPは1万ドルを超えた。しかし、この「奇跡」の代償は何だったのか。台湾の「金が足元を洗う」と称賛される時代を語るとき、加工輸出区で毎日12時間働いた女性労働者や、生涯の貯蓄を小さな工場に賭けた経営者たちのことは、ほとんど語られない。",
     "category": "ja",
@@ -40081,6 +40092,17 @@
     "path": "es/People/li-mei-shu.md"
   },
   {
+    "title": "Li Poetry Society: A Group Forced to Forget Japanese Sustained Taiwan's Longest-Running Chinese-Language Poetry Journal",
+    "description": "In 1958, a 36-year-old Taiwanese soldier in the Japanese army published his first postwar Chinese-language poem under the pen name “Huanfu,” 11 years after he had stopped writing in Japanese. Six years later, he and eleven others gathered in a living room in central Taiwan and turned their generation's experience of linguistic loss into a poetry society called “Li” — a journal that has never ceased publication in 60 years, carrying nativist poetics from the margins into junior-high Mandarin textbooks.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/art/li-poetry-society",
+    "readingTime": 188,
+    "featured": true,
+    "date": "2026-06-20",
+    "path": "en/Art/li-poetry-society.md"
+  },
+  {
     "title": "Li-ang: Lukang 1952, la pionera de la literatura feminista taiwanesa con \"La mujer del verdugo",
     "description": "Nacida en abril de 1952 en Lukang, condado de Changhua, con el nombre de nacimiento Shih Shu-duan. En 1983, \"La mujer del verdugo\" se publicó en serie en el United Daily News, conmocionando el mundo literario taiwanés por su tratamiento de la violencia doméstica. En 1991 publicó \"El jardín de los senderos que se bifurcan\". En 2004 recibió la condecoración de Caballero de la Orden de las Artes y las Letras de Francia. Sus obras han sido traducidas al inglés, francés, alemán, japonés y otros idiomas, y es una de las escritoras taiwanesas con mayor reconocimiento internacional.",
     "category": "es",
@@ -46201,6 +46223,28 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "en/History/social-movements-during-japanese-rule.md"
+  },
+  {
+    "title": "Sociedad Poética Li: un grupo obligado a olvidar el japonés sostuvo la revista de poesía en chino más longeva de Taiwán",
+    "description": "En 1958, un soldado taiwanés del ejército japonés de 36 años publicó, bajo el seudónimo “Huanfu”, el primer poema en chino de la posguerra, 11 años después de haber dejado de escribir en japonés. Seis años más tarde, él y otras once personas, en una sala de estar del centro de Taiwán, convirtieron la experiencia de afasia de esa generación en una sociedad poética llamada “Li”: 60 años sin interrumpir su publicación, llevando la poética local desde los márgenes hasta los libros de texto de secundaria.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/art/li-poetry-society",
+    "readingTime": 188,
+    "featured": true,
+    "date": "2026-06-20",
+    "path": "es/Art/li-poetry-society.md"
+  },
+  {
+    "title": "Société poétique Li : un groupe contraint d'oublier le japonais a porté la plus ancienne revue de poésie en chinois de Taïwan",
+    "description": "En 1958, un soldat taïwanais de l'armée japonaise âgé de 36 ans publia, sous le nom de plume « Huanfu », le premier poème en chinois de l'après-guerre, onze ans après avoir cessé d'écrire en japonais. Six ans plus tard, avec onze autres personnes réunies dans un salon du centre de Taïwan, il transforma l'expérience d'aphasie de cette génération en une société poétique appelée « Li » : une revue qui n'a jamais cessé de paraître depuis soixante ans et qui a fait entrer la poétique locale, longtemps marginale, dans les manuels de collège.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/art/li-poetry-society",
+    "readingTime": 193,
+    "featured": true,
+    "date": "2026-06-20",
+    "path": "fr/Art/li-poetry-society.md"
   },
   {
     "title": "Sodagreen : il leur a fallu vingt ans pour comprendre que leur propre nom pouvait aussi se plaider au tribunal",
@@ -59363,6 +59407,17 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "ko/Geography/sun-moon-lake.md"
+  },
+  {
+    "title": "리 시사(笠詩社): 일본어를 잊도록 강요받은 사람들이 타이완 최장수 중국어 시 전문지를 떠받치다",
+    "description": "1958년, 36세의 타이완인 일본군 병사가 필명 「환푸」로 전후 첫 중국어 시를 발표했다. 그가 일본어로 쓰던 펜을 멈춘 지 11년 뒤였다. 6년 뒤 그는 다른 열한 명과 함께 타이완 중부의 한 거실에서, 이 세대의 실어 경험을 「리(笠)」라는 시사로 바꾸었다. 60년 동안 한 번도 휴간하지 않은 이 시사는 본토 시학을 주변부에서 중학교 교과서 안으로 써 넣었다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/art/li-poetry-society",
+    "readingTime": 90,
+    "featured": true,
+    "date": "2026-06-20",
+    "path": "ko/Art/li-poetry-society.md"
   },
   {
     "title": "리양",

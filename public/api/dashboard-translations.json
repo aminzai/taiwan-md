@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T15:09:16.613Z",
+  "lastUpdated": "2026-06-20T22:11:38.278Z",
   "languages": [
     "zh-TW",
     "en",
@@ -18,64 +18,64 @@
       "deficit": 0
     },
     "en": {
-      "total": 813,
-      "percentage": 99.9,
-      "fresh": 813,
+      "total": 814,
+      "percentage": 100,
+      "fresh": 814,
       "metadataStale": 0,
       "stale": 0,
-      "missing": 1,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.9,
-      "bodyFreshPct": 99.9
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "ja": {
-      "total": 813,
-      "percentage": 99.9,
-      "fresh": 813,
+      "total": 814,
+      "percentage": 100,
+      "fresh": 814,
       "metadataStale": 0,
       "stale": 0,
-      "missing": 1,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.9,
-      "bodyFreshPct": 99.9
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "ko": {
-      "total": 813,
-      "percentage": 99.9,
-      "fresh": 813,
+      "total": 814,
+      "percentage": 100,
+      "fresh": 814,
       "metadataStale": 0,
       "stale": 0,
-      "missing": 1,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.9,
-      "bodyFreshPct": 99.9
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "es": {
-      "total": 813,
-      "percentage": 99.9,
-      "fresh": 813,
+      "total": 814,
+      "percentage": 100,
+      "fresh": 814,
       "metadataStale": 0,
       "stale": 0,
-      "missing": 1,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.9,
-      "bodyFreshPct": 99.9
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "fr": {
-      "total": 813,
-      "percentage": 99.9,
-      "fresh": 813,
+      "total": 814,
+      "percentage": 100,
+      "fresh": 814,
       "metadataStale": 0,
       "stale": 0,
-      "missing": 1,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.9,
-      "bodyFreshPct": 99.9
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     }
   },
   "matrix": {
@@ -120,39 +120,39 @@
     "art": {
       "zh-TW": 41,
       "en": {
-        "count": 40,
-        "fresh": 40,
+        "count": 41,
+        "fresh": 41,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "ja": {
-        "count": 40,
-        "fresh": 40,
+        "count": 41,
+        "fresh": 41,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
-        "count": 40,
-        "fresh": 40,
+        "count": 41,
+        "fresh": 41,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "es": {
-        "count": 40,
-        "fresh": 40,
+        "count": 41,
+        "fresh": 41,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "fr": {
-        "count": 40,
-        "fresh": 40,
+        "count": 41,
+        "fresh": 41,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       }
     },
     "culture": {
@@ -612,23 +612,7 @@
       }
     }
   },
-  "missing": {
-    "en": [
-      "Art/笠詩社：一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊.md"
-    ],
-    "ja": [
-      "Art/笠詩社：一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊.md"
-    ],
-    "ko": [
-      "Art/笠詩社：一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊.md"
-    ],
-    "es": [
-      "Art/笠詩社：一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊.md"
-    ],
-    "fr": [
-      "Art/笠詩社：一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊.md"
-    ]
-  },
+  "missing": {},
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],

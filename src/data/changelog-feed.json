@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-06-20T15:09:11.928Z",
+  "generatedAt": "2026-06-20T22:11:33.547Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "3bb1fbb2f1004225c96fa5d9e1f78fcc000997c5",
+      "date": "2026-06-21T05:09:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-21-050815-twmd-embeddings-nightly — fleet down graceful skip (連續第 4 夜) 索引維持 06-17 snapshot",
+      "articles": []
+    },
+    {
+      "hash": "6d00aa4afc401d2067926a2ddb0cb98d2c504144",
+      "date": "2026-06-21T04:21:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-21-041537-twmd-self-evolve-weekly — 3 ship 收官",
+      "articles": []
+    },
+    {
+      "hash": "438dbcce816954ae82bc714790da9ccd06d0e644",
+      "date": "2026-06-21T04:18:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: DIARY §反覆出現 5 entries 補 [→canonical] markers + 新 entry #74",
+      "articles": []
+    },
+    {
+      "hash": "a8b5f6475ddbf1a617f9b35773c6545cb72276ac",
+      "date": "2026-06-21T04:17:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: REFLEXES #74 Cross-routine SPOF handoff dedup — #64 cross-routine layer 變體",
+      "articles": []
+    },
+    {
+      "hash": "088ece6b1b6d3730ae43b98c3bcf58c85fda85af",
+      "date": "2026-06-21T04:15:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: REFLEXES #73 查證反射 < 建造反射 — vc=4 cluster 升 canonical",
+      "articles": []
+    },
+    {
+      "hash": "a44f48547e4517fb9fdd1232930713f578df8690",
+      "date": "2026-06-21T03:19:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-distill-weekly: §未消化 11→9 fold 2 + SPORE-INBOX 51→46 auto-drop 5 — 2026-06-21",
+      "articles": []
+    },
+    {
+      "hash": "98a91938956de851b3f64b13f72a4250f46075bc",
+      "date": "2026-06-21T02:16:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-weekly-report-sun: W25 週報 ship — Resend 200 id b52a5a82",
+      "articles": []
+    },
+    {
+      "hash": "6fc36cd117ca5fa03d61db5eaff83619b877e0e8",
+      "date": "2026-06-21T01:12:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-news-lens: W25 三源 + 5 P1 candidates — SC 雙源高 demand 補位",
+      "articles": []
+    },
+    {
+      "hash": "dce8e11f4917a47a9f8db47cf97d8c44d317a9a8",
+      "date": "2026-06-21T00:44:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-21-004244-twmd-babel-nightly — 5 translations 笠詩社 P0 × 5 lang stale=0 連續第五夜 + Tier1 codex 5 parallel 5.5min + P3 fr/ko 19 篇 carry",
+      "articles": []
+    },
+    {
+      "hash": "9d6d24d507d25ad9ffc76b3a0fe07f5d9c1989f4",
+      "date": "2026-06-21T00:42:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 5 translations shipped — 笠詩社 P0 missing × 5 lang stale=0 連續第五夜 — 2026-06-21",
+      "articles": []
+    },
+    {
+      "hash": "974025a22a44ebf84f299f0a651a98d203731f90",
+      "date": "2026-06-20T23:11:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-20-231003-twmd-data-refresh-pm — pm 14-step 三源全綠 + Step 11 11/11 fresh 連 23d + immune 52 chronic 5 cycle flat",
+      "articles": []
+    },
+    {
+      "hash": "425897f87bc1834e73ce3b756c980089b9be1b20",
+      "date": "2026-06-20T23:09:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: pm 14-step data refresh — 三源全綠 + Step 11 11/11 fresh + immune 52 chronic flat + spore OVERDUE 0 carry",
+      "articles": []
+    },
     {
       "hash": "2a6a7e8fed9795a4abab4b99b04f02d87e37d2d3",
       "date": "2026-06-20T22:05:59+08:00",
