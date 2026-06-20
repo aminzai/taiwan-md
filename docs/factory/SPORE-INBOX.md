@@ -1398,6 +1398,101 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 
 ---
 
+### 紀政 — SC 高曝光人物 EXISTING-ARTICLE spore（女子徑賽傳奇 + 銅牌記憶）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/紀政.md](../../knowledge/People/紀政.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC 7d query 「紀政」792 imp / 5 clicks / CTR 0.63% / pos 9.8 + SC page 1114 imp / 11 clicks / pos 8.8 — 雙源高 demand，第一頁邊緣排名 CTR 失效)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **數字 hook**：1968 墨西哥 100 公尺跨欄 10.4 秒——這個秒數讓她變成第一個拿奧運獎牌的台灣女運動員，比中華台北回到奧會早八年
+  2. **身份 hook**：當過國大代表、立委、體育署長、推過希望工程——但讓她被一整代台灣人記住的，是 56 年前那條跨欄道
+- **時效**: 無（evergreen 人物 + SC 穩態高 demand）
+- **敏感度**: 中（涉及威權時期國族敘事 + 1976 中華台北 frame 起點之一）
+- **必驗事實**: 1968 銅牌賽事與秒數、紀政路跑年份、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC 穩態高 demand 可隨時抽，跟其他 People 類錯開 ≥ 1 天
+- **Notes**: from news-lens weekly 2026-06-21 (event: SC 7d 紀政 query 792 imp pos 9.8 + SC page 1114 imp pos 8.8 雙源確認)；跟 sport 系 #154 體育與奧運（6/19 ship）有 cluster 連結但人物 anchor 完全 separate，無 14d 重複
+
+---
+
+### 小虎隊 — SC 高曝光低 CTR 補位 EXISTING-ARTICLE spore（rank 1.9 但 CTR 0.13% 失效）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/Music/小虎隊.md](../../knowledge/Music/小虎隊.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC 7d query 「小虎隊」751 imp / 1 click / CTR 0.13% / pos 1.9 + SC page /music/小虎隊/ 1282 imp / 1 click / pos 4.6 — 第二名排名 CTR 卻只有 0.13% = title/description 失效，spore 補社群 reach)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **場景 hook**：1988 中視大廣場主持節目找三個新人陪舞——隔年三個人有了自己的合約，再五年解散一次又重組三次，最後一次重組是去拍春晚
+  2. **數字 hook**：三個人、四個團員（兩任「小帥虎」）、出片 9 張、解散 2 次、上春晚 1 次、跨四個世代不退場
+- **時效**: 無（穩態 80s/90s mandopop nostalgia query）
+- **敏感度**: 低
+- **必驗事實**: 出道時間、解散與重組時間軸、春晚年份、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC 穩態高 demand，跟 Music 類錯開 ≥ 1 天
+- **Notes**: from news-lens weekly 2026-06-21 (event: SC 7d 小虎隊 751 imp pos 1.9 query + 1282 imp page，rank 第二但 CTR 失效雙源 cross-confirm)；同 cluster 也可考慮升級 metadata 但 spore 反應週期短 (≤7d) 比改 frontmatter 快 surface reach
+
+---
+
+### 吳百福 — SC 高 demand 身份 spore EXISTING-ARTICLE（日清拉麵創辦人 + 台南出身）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/吳百福.md](../../knowledge/People/吳百福.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC 7d query 「吳百福」461 imp / 5 clicks / CTR 1.08% / pos 3.4 + SC page /people/吳百福/ 1090 imp / 14 clicks / pos 4.8 — 雙源穩態高 demand)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **身份 hook**：每天全球有兩億包泡麵被吃掉——發明它的人叫吳百福，台南嘉義人，48 歲那年在大阪自家後院搭了一間小工房
+  2. **反差 hook**：日本叫他「安藤百福」，網上維基稱他「日本企業家」——但他到 1966 年才入籍日本，前 56 年的他姓吳，在台灣長大
+- **時效**: 無（evergreen 人物）
+- **敏感度**: 中（殖民身份 + 國籍轉換敘事）
+- **必驗事實**: 1958 雞汁拉麵發明年份、入籍日本日期、出生地（嘉義朴子）、台南早年事業時間軸、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC 穩態 demand 可隨時抽
+- **Notes**: from news-lens weekly 2026-06-21 (event: SC 7d 吳百福 461 imp pos 3.4 + 1090 imp page 雙源 cross-confirm + 識別「安藤百福」frame 在中文搜尋仍以「吳百福」為主)
+
+---
+
+### 清法戰爭 — SC 高曝光歷史 spore EXISTING-ARTICLE（1884 滬尾之役 + 法國占基隆）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/History/清法戰爭.md](../../knowledge/History/清法戰爭.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC page /history/清法戰爭/ 3251 imp / 6 clicks / CTR 0.18% / pos 5.7 — 高 demand 但 CTR 0.18% 嚴重低於 page 5.7 預期 → metadata/title 失效，spore 補社群 reach + cross-check metadata)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **場景 hook**：1884 年 10 月法國艦隊封鎖基隆港八個月，當時的清軍統帥是劉銘傳——基隆失守、滬尾守住，這場戰役直接催生兩年後的台灣建省
+  2. **問句 hook**：法國為什麼會打到淡水？答案不在台灣，在越南——這是中法越南戰爭打到一半轉場的衍生戰場，台灣只是被波及
+- **時效**: 無（evergreen 歷史 + SC 高曝光低 CTR）
+- **敏感度**: 中（涉及清帝國 vs 殖民地敘事 + 法國史料 cross-language）
+- **必驗事實**: 1884 年封鎖時長、滬尾之役勝負方、清法越南條約年份（1885）、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 跟 History 類錯開 ≥ 1 天
+- **Notes**: from news-lens weekly 2026-06-21 (event: SC page 3251 imp pos 5.7 CTR 0.18% — 排名健康但 CTR 嚴重失效，spore 是 immediate reach + metadata review 後續分派 EVOLVE / SEO 優化)
+
+---
+
+### 笠詩社 — 趁熱 60 年弧線 spore EXISTING-ARTICLE（6/20 NEW ship + SPORE chain blocker recovery）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/Art/笠詩社.md](../../knowledge/Art/笠詩社.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: commit 9b7fd2c8c 2026-06-20 NEW ship 「笠詩社 60 年」+ SPORE chain deferred (Chrome MCP 連 5 cycle 結構性 blocker, see 4600c08e1 memory) — news-lens 補位讓 P1 落地 SPORE-INBOX 待 Chrome MCP 恢復後 PICK 抽走)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **數字 hook**：60 年——這是台灣存活最久的中文詩刊，創辦那年是 1964，台灣還在戒嚴，創辦的 12 個人有一半小時候只會寫日文
+  2. **身份 hook**：被迫忘掉日文、再學中文寫詩——這群人創了《笠》，名字取自台灣農民的笠帽，社徽是顆稻穀
+- **時效**: 趁熱 ≤ 7 天（6/20 ship D+1 起算，windows 7d）
+- **敏感度**: 中（涉及國族語言切換史 + 殖民/戒嚴跨層）
+- **必驗事實**: 1964 創刊年份、12 位創社成員、刊物連續發行期數、article lastVerified（fresh）
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: Chrome MCP blocker 解除後立即 PICK，跨 People/Art 類錯開
+- **Notes**: from news-lens weekly 2026-06-21 (event: 6/20 NEW ship article 趁熱窗口 + spore-publish blocker recovery 路徑)；不期待 routine 自動 ship（受 Chrome MCP 結構性 blocker 影響），但 PICK 抽到時 hook anchor 已備齊，blueprint 也好生
+
+---
+
 ## 📜 已發歷史
 
 → 完整紀錄見 [SPORE-LOG.md §發文紀錄](SPORE-LOG.md) + [SPORE-HARVESTS/](SPORE-HARVESTS/) batch logs。本檔不存 done 痕跡（per 完成歸檔鐵律）。
