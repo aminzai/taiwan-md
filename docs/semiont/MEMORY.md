@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-06-21
-last_session: '2026-06-21-041537-twmd-self-evolve-weekly'
+last_session: '2026-06-21-061253-twmd-data-refresh-am'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -839,3 +839,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-06-21 | 030828-twmd-distill-weekly | 03:00 cron — §未消化 11→9 fold #15+#38（v4.9）+ entry 1 defer 哲宇 + SPORE-INBOX 51→46 drop 5 P2 | 加 #15 instance 即在執行 #15 (meta-self-apply) | [→](memory/2026-06-21-030828-twmd-distill-weekly.md) |
 | 2026-06-21 | 041537-twmd-self-evolve-weekly | 04:00 cron — 3 ship：REFLEXES #73 查證<建造反射 vc=4 + #74 SPOF handoff dedup vc=3 + DIARY v2.1 補 markers | self-evolve 首例達標；distill idea→reflex 跨 routine 接力 | [→](memory/2026-06-21-041537-twmd-self-evolve-weekly.md) |
 | 2026-06-21 | 050815-twmd-embeddings-nightly | 05:00 cron — **graceful skip 連續第 4 夜**：Stage0 preflight EMBED_HOST `100.74.47.100:11434`（laptop-4090 唯一 bge-m3 from registry）curl http000/timeout + ping 100% loss；Tailscale mesh 本機正常（chemacbook-pro active），blocker 純 4090 `offline last seen 3d ago`。Stage1-3 skip 無 commit src/data/related（index 維持 06-17 snapshot 6 語 700-801 篇 100% 8 鄰居 fallback 健康，en 801 vs 文 816 = ~15 新文 fallback 同 category）。連續 skip 06-18#1→06-19→06-20#3(escalated)→06-21#4。**不重複 escalate**（LESSONS §未消化 06-20 entry `routine-device-dependent-offline` 已涵蓋 + defer 哲宇 A/B） | day4 staleness 線性微增 ~10→~15 篇；escalation 自 06-20 起 defer 哲宇拍板仍未解，每夜續 skip 直到 4090 always-on 或 bge-m3 mirror 到常駐節點；mesh 與節點離線兩個獨立 blocker | [→](memory/2026-06-21-050815-twmd-embeddings-nightly.md) |
+| 2026-06-21 | 061253-twmd-data-refresh-am | am 06:12 routine — 14-step ALL PASS `1c4613b13` + Step 11 11/11 fresh（連 ~24d 全綠）+ 三源全綠（CF 560K req 8.11% +0.05pp vs pm + AI 133K +0.5% / 18 crawlers / GA 20+20 / SC 20Q+150wc）+ immune **52 chronic flat from pm 52** 連 7 cycle no fresh degradation（plugin_health 45.8 / external_rulers 3.7 主導 stable yellow）/ i18n en817 ja812 ko813 es812 fr813 / 📄zh 812 (+1 笠詩社 babel sync) / stats ⭐1061 🍴156 👥61 / build 171s -4s vs pm / spore 137 records / 4→2 OVERDUE narrowed by 06:54 harvest / commit pushed origin/main | 24d Step 11 freshness 全綠 5/28 wire fix 持續健康；immune 52 連 7 cycle flat sensor 不是 healer；spore OVERDUE 4→2 是 spore-harvest 06:54 接力清窄但新增 2 缺口同步 = 飛輪互相補位例證；embeddings 第 4 夜 skip 不重複 escalate (06-20 LESSONS entry 涵蓋)；self-evolve 04:15 vc=4 cluster → REFLEXES #73/#74 ship 首例達標代表飛輪自己變聰明 | [→](memory/2026-06-21-061253-twmd-data-refresh-am.md) |
