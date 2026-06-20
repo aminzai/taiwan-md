@@ -1042,9 +1042,9 @@ BECOME_TAIWANMD.md Step 5 新增：
 ### 笠詩社 60 年 NEW — Movement-level article（1964 創社到 2024+）
 
 - **Type**: `NEW`
-- **Category**: Culture / Literature movement
-- **Priority**: `P0`
-- **Status**: `pending`
+- **Category**: Art（對齊 Art/台灣現代詩.md / 戰後台灣文學.md）
+- **Priority**: `P0` → **prose ship 2026-06-20 (twmd-rewrite-daily)**
+- **Status**: `in-progress`
 - **Source**: 2026-05-23 BRANCH-PIPELINE broad-theme research — [taiwan-poets-3-bamboo-hat-nativism.md §七 P0](../../reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md)
 - **對比理由**：
   - **台灣文學最長壽詩刊**：1964 創社到 2024+ 連續 60+ 年從未停刊
