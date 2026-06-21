@@ -847,3 +847,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-06-21 | 115925-plurk-reach | observer 觸發 Plurk 受眾研究：taiwan.md 自 day-1 起 4 波自發傳播、~70 台灣資深噗友、6 月爆款我是OO人；報告 da9e78ad2 | 破解 search2+date 游標查詢可儀器化；差點以水面 30 則交差被哲宇逼出完整圖；4 對外建議 defer 哲宇 | [→](memory/2026-06-21-115925-plurk-reach.md) |
 | 2026-06-21 | 122656-manual | 沈伯洋 EVOLVE ship 99af61e49 — 10 視覺(6圖+2中央社影片+timeline+民調bars)+5/13市長徵召增補內文；prod驗綠 | tw-\* viz density-free→「10+」乾淨解=媒體+viz不塞Tier-C(vc=1) | [→](memory/2026-06-21-122656-manual.md) |
 | 2026-06-21 | 122005-cicada-deepen | Cicada 深度研究 EVOLVE：3-agent fan-out + 主 session verbatim 復驗 → 方法論新章 + 凝視氣候維度 + 那個男人獎項校準 | agent 研究／主 session 逐字查證分工；gate 綠+人審 ≠ 無事實錯 | [→](memory/2026-06-21-122005-cicada-deepen.md) |
+| 2026-06-21 | 125927-prettier-url-fix | 兩 spawned task：prettier-cjk-url 修 13 檔已壞 caption + link-url-mangle gate；Cicada 巡演 10-11→6 月幻覺更正 | 儀器化先於普查：silent→loud gate > 一次清 60 檔 | [→](memory/2026-06-21-125927-prettier-url-fix.md) |
