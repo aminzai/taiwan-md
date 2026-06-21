@@ -434,9 +434,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **instances**：
   - 2026-06-21 kuma-academy（首次，政治文）：Sonnet verifier fetch 抓 `[^20]`/`[^22]` 政治 footnote swap + hero imageSource 幻覺 + 2 句 paraphrase 戴 verbatim 引號。
   - 2026-06-21 幾米-evolve（**非政治 People 文 — 證明範圍不限 A 級/政治**）：主 session ship 前自跑 fetch-verify 4 條高風險 cite，抓 2 錯——`[^16]` 月亮忘記了三事件 mis-cite 到一篇講抗癌的 ltn 文（內容對、source 掛錯）、`[^32]` 田中央丟丟噹森林 mis-cite 到只講火車移置的 lym.gov.tw 頁。命中率 50%。同一 root cause：orchestrator §7 URL list cluster-precise 非 atom-precise。
-- **可能層級**：操作規則（REWRITE Stage 3.5 **所有 depth 文**強制 fetch-based，不限 A 級/政治）+ 通用反射（讀 ≠ 驗）
+  - 2026-06-21 kuma-academy PR #1170 JOIN（**contributor 投稿，非自產 — 證明範圍含外部 PR 審核**）：idlccp1984 AI 工具編 9 個假 join.gov.tw slug URL（真實是 UUID），9 條腳註標題讀起來都對、上個 maintainer review 也只標「死連結」，curl 才知全 404 且是 fabrication；fetch-verify 找回 9 個真實 UUID 全換 + merge。第 3 次驗證跨「政治自產文 / 非政治自產文 / 外部 PR」三種 context，root cause 一致。
+- **可能層級**：操作規則（REWRITE Stage 3.5 + MAINTAINER PR review **所有 depth 文 + 外部投稿** citation 強制 fetch-based，不限 A 級/政治）+ 通用反射（讀 ≠ 驗）
 - **相關**：REFLEXES #31（sub-agent claim 是線索不是 oracle）/ #42 / #73（查證反射<建造反射）；2026-06-16 stage2-quote-context-collapse → REWRITE §Stage 2.5 source-fidelity gate（本案是該 gate 在 Stage 3.5 驗證端的延伸 worked example）
-- **verification_count**: 2
+- **verification_count**: 3（≥3 達 distill 量門檻 — 下次 distill 可升 REFLEXES：「所有 depth 文 + 外部 PR 審核的 citation 必 fetch-verify 逐 URL，careful read 抓不到 URL drift」；跨 3 session 3 context 收斂）
 - **severity**: structural（影響所有 depth article 的 ship 安全 — 範圍從「A 級/政治」擴大到「所有 depth」）
 - **Pointer**：[memory/2026-06-21-135235-kuma-academy.md](memory/2026-06-21-135235-kuma-academy.md) / [memory/2026-06-21-154735-幾米-evolve.md](memory/2026-06-21-154735-幾米-evolve.md)
 
