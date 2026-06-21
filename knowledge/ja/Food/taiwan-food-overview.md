@@ -23,10 +23,10 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: true
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:ca3079f9c00d31cf'
-sourceBodyHash: 'sha256:c5fac90142ae7a6b'
-translatedAt: '2026-06-14T00:35:00+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:5170de2db0a4b0df'
+sourceBodyHash: 'sha256:9da2f70ce1ba4f1f'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 台湾美食総覧：純粋に台湾だけの料理は一つもなく、どの料理も最も台湾らしいです
@@ -51,7 +51,7 @@ _饒河街観光夜市の夜。台湾美食を最も象徴する「夜」の現�
 最も下にある層は原住民族です。16 族はそれぞれ独自の食べ方を持っていますが、共通するのは**「その場にあるもの」**です。山がどこにあるか、海がどこにあるか、どの季節にどの食材があるか。アミ族（阿美族）は自らを「草を食べる民族」と呼び、食用野草は 200 種を超えます。彼らの「十心菜」は、黄藤心、林投心、ビンロウ心、ススキ心、月桃心、サトウキビ心、ヤシ心という七種の植物の若茎を料理に用います[^5]。パイワン族（排湾族）の「吉拿富」（cinavu）は、月桃の葉とホオズキ類の葉で粟と豚肉を包む祭典食です。また、片岩の石板が均一に熱を帯びる特性を利用して山豚肉を焼く「石板焼き肉」も発展させました[^6]。プユマ族（卑南族）は夏に binaleng を飲みます。野生のミニトマトとタケノコを発酵させた酸辣湯です[^7]。タイヤル族（泰雅族）の馬告（山胡椒）は、乾燥すると黒胡椒の粒のような形になり、黒胡椒、ショウガ、レモンの三つの香りが重なります。ミシュランガイドは 2018 年、これを「知っておくべき台湾原住民族の食材 5 種」に加えました[^8]。
 
 ![パイワン族の伝統食、吉拿富（cinavu）。月桃の葉とホオズキ類の葉で粟と豚肉を包む](/article-images/food/taiwan-food-cinavu-paiwan-beiyeh-2024.webp)
-*吉拿富（cinavu）はパイワン族、ルカイ族（魯凱族）、プユマ族の祭典食であり、月桃の葉で山と海の記憶を閉じ込める料理です。Photo: Sin-siōng, 2024, CC BY-SA 4.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:排灣族飲食*北葉部落吉拿富-02.jpg).\_
+_吉拿富（cinavu）はパイワン族、ルカイ族（魯凱族）、プユマ族の祭典食であり、月桃の葉で山と海の記憶を閉じ込める料理です。Photo: Sin-siōng, 2024, CC BY-SA 4.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:排灣族飲食*北葉部落吉拿富-02.jpg)._
 
 その上の層には、清代に福建、広東から海を渡って来たホーロー系住民と客家人がいます。
 

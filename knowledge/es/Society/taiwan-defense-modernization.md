@@ -20,10 +20,10 @@ lastVerified: 2026-04-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣國防與軍事現代化.md'
-sourceCommitSha: '1e180a591'
-sourceContentHash: 'sha256:131eb7c08a7bc21b'
-sourceBodyHash: 'sha256:467330e7b6444cf1'
-translatedAt: '2026-05-28T05:08:34+08:00'
+sourceCommitSha: 'e1b5668a'
+sourceContentHash: 'sha256:88d0dbdb8874357c'
+sourceBodyHash: 'sha256:22e1d83beded6641'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 > **Panorama en 30 segundos:** La guerra ruso-ucraniana de 2022 transformó la lógica defensiva de Taiwán. En 2024, el servicio militar obligatorio se restableció en un año tras haberse reducido a cuatro meses. En 2025, el ejercicio Han Kuang n.º 41 duró diez días y nueve noches —el más largo de su historia— y movilizó a 20 000 reservistas. En noviembre del mismo año, el gobierno de Lai Ching-te presentó un presupuesto especial de 1,25 billones de dólares taiwaneses para adquirir 200 000 drones. Pero en esa misma lista, la mayor parte del dinero seguía destinándose a tanques, aviones de combate y submarinos: el equipamiento tradicional más caro. El exjefe del Estado Mayor Conjunto Li Hsi-ming lo resumió con una sonrisa amarga: "Si un tanque puede considerarse un arma asimétrica, ¿qué otra cosa no lo sería." Taiwán camina simultáneamente por dos caminos de defensa, y ambos se contradicen mutuamente.
@@ -157,6 +157,7 @@ Los F-16V Block 70, originalmente programados para 2024, se retrasaron hasta 202
 - [Desarrollo de la industria espacial en Taiwán](/technology/台灣太空產業發展) — De satélites civiles a comunicaciones de defensa: el espacio como nuevo campo de batalla para la resiliencia defensiva.
 - [Reunión Zheng-Xi de 2026: diez minutos del reencuentro de líderes del Kuomintang y el PCCh tras una década](/society/2026鄭習會與國共十年再會) — Cuando Zheng Lihwen propone "arreglos institucionales para prevenir la guerra", detrás se esconde la pugna política del presupuesto especial de defensa.
 - [Shen Po-yang](/people/沈伯洋) — Cofundador de la Academia Oso Negro, que refuerza la resiliencia de la defensa nacional mediante educación civil; tras siete años investigando la guerra cognitiva del PCCh, fue imputado por China bajo el cargo de "delito de secesión".
+- [Academia Oso Negro](/society/黑熊學院) — Educación civil de defensa de todo el pueblo, surgida desde la sociedad civil; una segunda línea de resiliencia más allá de la defensa estatal, una escuela que aspira a que algún día no necesite existir.
 - [Cho Jung-tai](/people/卓榮泰) — Principal impulsor en el Yuan Ejecutivo del presupuesto especial de defensa de 1,25 billones; proponente del "Escudo de Taiwán" y las "Tres buenas pelotas".
 - [Lu Shiow-yen](/people/盧秀燕) — Vicepresidenta del Kuomintang / alcaldesa de Taichung; adoptó una posición intermedia de "800 000 a 1 billón" en la controversia de compras militares de 2026.
 - [Hsu Chiao-hsin](/people/徐巧芯) — Legisladora del Kuomintang / principal impulsora de la versión de 800 000 millones en compras militares; arquetipo político que chocó repetidamente con Lai Ching-te en la sala de interrogatorios.

@@ -26,10 +26,10 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/新竹縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:499e7dcb301a6ddb'
-sourceBodyHash: 'sha256:8df9daddb901affe'
-translatedAt: '2026-06-16T17:05:54Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:eefcd1a536e4ddf5'
+sourceBodyHash: 'sha256:a716f79b2442afc5'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Le comté de Hsinchu : 235 ans de culte des Yimin et le revenu par habitant le plus élevé de Taïwan, le long de la même rivière Touqian
@@ -106,7 +106,7 @@ En se dirigeant vers le canton de Jianshi, un autre monde du comté de Hsinchu a
 Le comté de Hsinchu compte deux cantons de montagne : le canton de Wufeng (Saisiyat + Atayal) et le canton de Jianshi (principalement Atayal). La population Saisiyat dans le comté de Hsinchu est de 1 560 personnes, vivant dans les villages de Da'ai et Huayuan du canton de Wufeng ; la population Atayal est de 15 876 personnes, représentant environ 18,66 % de la population Atayal du comté, principalement dans le canton de Jianshi[^22]. Ces deux cantons, en tant que cantons de montagne et zones d'autonomie des peuples autochtones, ne figurent pas parmi les zones clés de développement culturel hakka annoncées par le Conseil des affaires hakka en 2010 (11 cantons et districts : Zhubei, Zhudong, Xinpu, Guanxi, Hukou, Xinfeng, Qionglin, Hengshan, Beipu, Baoshan, Emei)[^23].
 
 ![Groupe d'arbres géants de Smangus, altitude 1 500 mètres. En 1991, le chef Icyeh-Sulung rêva d'une divinité à Balin, après quoi les membres de la tribu trouvèrent le groupe d'arbres géants de cyprès de Taiwan dans la montagne profonde. Les deuxième et troisième plus grands arbres de cyprès de Taiwan se trouvent tous deux dans cette zone. La route carrossable vers l'extérieur fut ouverte en 1995, et le conseil tribal Tnunan fut fondé en 2004, établissant la « constitution » de « terre commune, coexistence coopérative ».](https://upload.wikimedia.org/wikipedia/commons/2/2f/Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4_-_panoramio_%283%29.jpg)
-_Groupe d'arbres géants de Smangus. Photo : utilisateur panoramio via Wikimedia. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4*-\_panoramio*%283%29.jpg).\_
+_Groupe d'arbres géants de Smangus. Photo : utilisateur panoramio via Wikimedia. CC BY 3.0 via Wikimedia Commons._
 
 Smangus (en atayal Qalang Smangus) est situé dans le village de Yufeng, canton de Jianshi, à une altitude d'environ 1 500 mètres, et est l'une des tribus autochtones les plus reculées de Taïwan. L'électricité n'y fut installée qu'en 1979[^24]. En 1991, le chef Icyeh-Sulung (Yi-Qie Su-Long) rêva d'une divinité à Balin, puis raconta à la tribu d'aller chercher des cyprès de Taiwan dans la montagne profonde ; « **comme les ancêtres l'avaient recommandé, ils trouvèrent le plus grand cyprès de Taiwan dans la forêt de cyprès de la montagne profonde** »[^25]. Les deuxième et troisième plus grands arbres de cyprès de Taiwan se trouvent tous deux dans la zone des arbres géants de Smangus. En juin 1995, la route carrossable vers l'extérieur fut ouverte, et « **Smangus entra officiellement en contact avec la société globale** »[^26].
 
@@ -146,7 +146,7 @@ Le magazine _Commonwealth_ cite un résident local de Zhubei : « **Les prix de 
 ## L'usine TSMC Baoshan phase 2, à côté du culte des Yimin
 
 ![Gare de Neiwan, 2016, village de Neiwan, canton de Hengshan. Gare terminus de la ligne secondaire de Neiwan, construite dans les années 1950 pour desservir l'industrie forestière et minière, puis reconvertie en site touristique dans les années 1990 après le déclin de ces industries. Les bandes dessinées de Liu Xingqin, *A-San Ge et Da Shen Po*, se déroulent dans cette région.](https://upload.wikimedia.org/wikipedia/commons/4/43/%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99_%2827648470482%29.jpg)
-_Gare de Neiwan. Photo : billy1125. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99*%2827648470482%29.jpg).*
+_Gare de Neiwan. Photo : billy1125. CC BY 2.0 via Wikimedia Commons._
 
 La contradiction contemporaine du comté de Hsinchu n'a pas d'événement dramatique. Ce sont deux points sur la carte qui brillent simultanément.
 

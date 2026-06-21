@@ -28,10 +28,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/永康街.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:97d1cb2148bf09ca'
-sourceBodyHash: 'sha256:457045b9eebdff05'
-translatedAt: '2026-06-16T17:05:07Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:86be5fe44de05439'
+sourceBodyHash: 'sha256:ad35178eae665c53'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Calle Yongkang: donde vivieron profesores japoneses, llegaron refugiados de China continental y hoy es el Taipéi de turistas japoneses y coreanos
@@ -148,7 +148,7 @@ A partir de 1995, en el callejón 15 de la calle Yongkang apareció **Ice Monste
 Desde la tienda de aceites Din Tai Fung de 1958, Yongkang Beef Noodles de 1963 fundado por un veterano de Shanxi y Dongmen Dumpling House de 1953 fundado por un veterano de Shandong, hasta el hielo de mango de Ice Monster en 1995 y el relevo de Smoothie House en 2000, **la línea temporal del mapa gastronómico de la calle Yongkang coincide casi por completo con la línea temporal de la migración de origen continental a Taiwán**: entre 1947 y 1955, veteranos llegados de distintas provincias de China llevaron sus comidas de masa y fideos a estas calles de Taipéi; 60 años después, eso se convirtió en la etiqueta turística “gastronomía de la calle Yongkang”.
 
 ![Paisaje diurno de locales en la calle Yongkang, con Din Tai Fung Yongkang, hielo de mango, cafés hipster y librerías.](/article-images/geography/yongkang-street-shopfronts-2024.webp)
-*Paisaje diurno de locales en la calle Yongkang, marzo de 2024. Foto: MAm ROFOW 022, CC0 vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW*台灣*Taiwan*台北*Taipei*大安區*Da%27An*永康街*Yongkang_Street_March_2024_R12S_650.jpg).*
+_Paisaje diurno de locales en la calle Yongkang, marzo de 2024. Foto: MAm ROFOW 022, CC0 vía Wikimedia Commons._
 
 ## Transformación posterior a los años noventa: cultura hipster, café, Instagram y alquileres
 

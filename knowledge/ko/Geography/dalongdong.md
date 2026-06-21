@@ -31,10 +31,10 @@ lastVerified: '2026-05-21'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/大龍峒.md'
-sourceCommitSha: 31a05c44
-sourceContentHash: 'sha256:c079976dbbfa6288'
-sourceBodyHash: 'sha256:f620f505d46f863a'
-translatedAt: '2026-06-14T00:35:00+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:6d18e9e22ea3f7db'
+sourceBodyHash: 'sha256:53b18682028046a0'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 다룽둥: 보안궁의 향, 공묘의 종, 위안산의 청천백일, 세 시대의 타이베이 신앙
@@ -188,7 +188,7 @@ _보안궁 반룡 석주. Photo: panoramio contributor, [CC BY 3.0 via Wikimedia
 1879년 천싱쥐가 첫 타이베이 공묘를 세운 일에서 1907년 일본인의 철거, 1925년 천페이건과 구셴룽의 토지 기증 재건, 1939년 전체 완공, 1971년 시정부 인수, 그리고 2026년 다룽초등학교 6학년 학생들의 팔일무까지. 한 사원이 제국에서 일제, 전후, 당대를 잇는 축선을 완주하는 데 147년이 걸렸다.
 
 ![타이베이 공묘 대성전과 뜰, 1927년 착공, 1929년 대성전 낙성(왕진무 시디파 시공), 1939년 전체 완공. 천페이건이 2,000여 평을 기증하고 구셴룽이 다시 1,000여 평을 사들여 헌납함으로써 다룽둥 새 터가 마련되었다.](/article-images/geography/dalongdong-confucius-temple-2014.webp)
-_타이베이 공자묘. Photo: panoramio contributor, [CC BY 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Taipei_Confucius_Temple_%E5%8F%B0%E5%8C%97%E5%AD%94%E5%BB%9F\*-\_panoramio.jpg).\_
+_타이베이 공자묘. Photo: panoramio contributor, CC BY 3.0 via Wikimedia._
 
 ## 비행기가 신궁을 들이받은 그 오후
 

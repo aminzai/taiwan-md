@@ -22,10 +22,10 @@ lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/認知作戰.md'
-sourceCommitSha: 'ab47ff39'
-sourceContentHash: 'sha256:63574f6b87e6dc7a'
+sourceCommitSha: 'e1b5668a'
+sourceContentHash: 'sha256:c0eb85e49c561e22'
 sourceBodyHash: 'sha256:53132f584b9b6657'
-translatedAt: '2026-06-07T00:37:31+08:00'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 > **En 30 secondes :**
@@ -239,6 +239,7 @@ Le champ de bataille ultime de la guerre cognitive est **la relation de confianc
 - [Histoire de la migration des communautés en ligne taïwanaises](/technology/台灣網路社群遷徙史) — Comprendre le rôle de plateformes comme PTT, Dcard et Threads dans la guerre cognitive
 - [Médias taïwanais et liberté de la presse](/society/台灣媒體與新聞自由) — Écosystème médiatique et responsabilité des plateformes dans la guerre cognitive
 - [Shen Po-yang](/people/沈伯洋) — L'un des principaux chercheurs en guerre cognitive, devenu en 2025 le premier homme politique élu taïwanais poursuivi par la Chine pour « crime de sécession »
+- [Black Bear Academy](/society/黑熊學院) — Organisation civile qui intègre l'identification de la guerre cognitive dans son camp de base de défense civile, formant les citoyens ordinaires à conserver leur discernement face à la désinformation et à la guerre psychologique
 - [Pomme de terre empoisonnée : au-delà de 200 ppm, il y a aussi 30 ppm, 14 jours et 15 ans de cicatrices de sécurité alimentaire](/society/毒馬鈴薯認知作戰) — Anatomie de la manière dont le récit de « lettre de soumission » du Bureau des affaires de Taïwan en avril 2026 a précisément marché sur 15 ans de cicatrices de sécurité alimentaire depuis l'affaire des plastifiants de 2011
 - [Taïwan et Eswatini](/society/台灣與史瓦帝尼) — Scénario concret des opérations linguistiques chinoises (« rat », « sortie en douce par le passage », « risée internationale ») : la réaction lors de la visite de Lai Ching-te en mai 2026
 - [Paraguay et Taïwan](/society/巴拉圭與台灣) — Face à la tentation du marché chinois et à la séduction politique, comment Taïwan maintient sa seule relation diplomatique en Amérique du Sud par une coopération à long terme

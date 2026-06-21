@@ -21,10 +21,10 @@ readingTime: 28
 lastVerified: 2026-04-23
 lastHumanReview: false
 translatedFrom: 'Society/認知作戰.md'
-sourceCommitSha: 'ab47ff39'
-sourceContentHash: 'sha256:63574f6b87e6dc7a'
+sourceCommitSha: 'e1b5668a'
+sourceContentHash: 'sha256:c0eb85e49c561e22'
 sourceBodyHash: 'sha256:53132f584b9b6657'
-translatedAt: '2026-05-01T14:48:26+08:00'
+translatedAt: '2026-06-22T00:30:00+08:00'
 sporeLinks:
   - id: 41
     platform: 'threads'
@@ -244,6 +244,7 @@ AI偽医師の動画を転送したお年寄りは、家族の健康を心配し
 - [台湾インターネットコミュニティ移住史](/technology/台灣網路社群遷徙史) — PTT・Dcard・Threadsなどのプラットフォームが認知戦においてどう機能するかを理解する
 - [台湾メディアと報道の自由](/society/台灣媒體與新聞自由) — ニュース生態と認知戦のプラットフォーム責任
 - [沈伯洋](/people/沈伯洋) — 認知戦争の主要研究者の一人。2025年に中国から「国家分裂罪」で立件された台湾初の民選政治家
+- [黑熊学院](/society/黑熊學院) — 認知作戦識別を民防の基礎研修に組み込んだ民間組織。普通の人々が偽情報と心理戦の中で判断力を保つ方法を教える
 - [毒じゃがいも：200ppmの外側に、30ppm・14日間・15年間の食品安全の傷](/society/毒馬鈴薯認知作戰) — 2026年4月に国台辦の「忠誠の証」的なナラティブが、2011年の可塑剤事件以来15年間の食品安全の傷跡にどれほど精密に乗っかったかの解剖
 
 ## 参考資料

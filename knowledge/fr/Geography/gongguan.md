@@ -33,10 +33,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/公館.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:d4a87d0d4d9ecb17'
-sourceBodyHash: 'sha256:18162eee72c09bc5'
-translatedAt: '2026-06-16T00:44:26+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:bcc022be65ff89b5'
+sourceBodyHash: 'sha256:b3b5dbb9d7dd34fc'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Gongguan : laboratoire de l'Empire japonais, salon clandestin sous la loi martiale, escalopes de poulet frit des étudiants de NTU, trois siècles en 500 mètres
@@ -99,7 +99,7 @@ L'origine du nom d'après-guerre de la rue Wenzhou fait l'objet de deux explicat
 Le véritable rôle historique de la rue Wenzhou ne tient toutefois pas à son nom, mais au fait qu'après la guerre elle devint le berceau du libéralisme taïwanais.
 
 ![Étroite allée 16 de la rue Wenzhou ; de part et d'autre, la structure des maisons en bois datant des logements de professeurs de l'université impériale sous la période japonaise, entre 1928 et 1945, est encore conservée, formant l'un des ensembles de résidences officielles japonaises de haut rang les plus complets de Taipei](/article-images/geography/gongguan-wenzhou-street-lane-16-2021.webp)
-_Août 2021, allée 16 de la rue Wenzhou. Photo : Kiyoteru Awaji, 2021-08-09. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WenZhou_Street,_Taipei_(at*Lane_16).jpg) (CC BY 4.0).*
+_Août 2021, allée 16 de la rue Wenzhou. Photo : Kiyoteru Awaji, 2021-08-09. License via Wikimedia Commons (CC BY 4.0)._
 
 ## Wistaria Tea House : la résidence officielle de 1950, la maison de thé de 1981
 
@@ -228,7 +228,7 @@ La singularité de Gongguan tient au fait que les six couches matérielles — *
 > **📝 Note curatoriale :** La carte alimentaire du quartier commerçant de Gongguan est très différente de celle des autres quartiers de Taipei. Ce n'est pas une zone touristique comme Ximending, ni une zone de boîtes de nuit comme Xinyi, ni une zone de cafés de jeunes intellectuels comme Yongkang. C'est le « **distributeur automatique de NTU** » : prix moyen de 80 à 150 dollars taïwanais, portions grandes, possibilité de s'asseoir pour étudier, fonctionnement 24 heures sur 24. Pourquoi cette forme ? Parce qu'il sert les étudiants de NTU, de l'Université nationale des sciences et technologies de Taïwan et du campus de Gongguan de l'Université normale nationale de Taïwan : environ 50 000 personnes au total, dont une grande partie prend chaque jour un ou deux repas à Gongguan. Cette pression dense et continue de consommation étudiante empêche les commerces de pratiquer des prix élevés ou de s'orienter entièrement vers le tourisme : ils doivent être « bon marché + copieux + rapides ». La structure à deux couches « université + logements » planifiée par l'université impériale sous la période japonaise a ajouté après la guerre une couche de salons intellectuels, puis après 1980 une couche de librairies, et après 1999 une couche de consommation de masse : c'est l'empilement de ces quatre couches qui produit la densité de 2026.
 
 ![Quartier commerçant de Gongguan au crépuscule ; la section 4 de la route Roosevelt, qui s'étend vers le sud depuis le portail de NTU, est l'un des axes de plus forte densité de snacks du sud de Taipei ; après l'ouverture de la ligne Xindian du métro en 1999, elle a formé une écologie complète de consommation étudiante](/article-images/geography/gongguan-commercial-district-2011.webp)
-_Octobre 2011, quartier commerçant de Gongguan, Taipei. Photo : panoramio user, 2011-10-31. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E5%B8%82_%E5%85%AC%E9%A4%A8%E5%95%86%E5%9C%88*Gongguan*-_panoramio.jpg) (CC BY-SA 3.0)._
+_Octobre 2011, quartier commerçant de Gongguan, Taipei. Photo : panoramio user, 2011-10-31. License via Wikimedia Commons (CC BY-SA 3.0)._
 
 ## Trois siècles en 500 mètres, sur le même axe
 

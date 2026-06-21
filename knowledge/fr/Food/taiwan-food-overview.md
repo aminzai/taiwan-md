@@ -23,10 +23,10 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: true
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:ca3079f9c00d31cf'
-sourceBodyHash: 'sha256:c5fac90142ae7a6b'
-translatedAt: '2026-06-14T00:35:00+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:5170de2db0a4b0df'
+sourceBodyHash: 'sha256:9da2f70ce1ba4f1f'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Panorama de la cuisine taïwanaise : aucun plat n'est purement taïwanais, chaque plat est pleinement taïwanais
@@ -51,7 +51,7 @@ Pour voir le socle de la cuisine taïwanaise, il faut replacer le regard à l'é
 La couche la plus profonde est autochtone. Les seize peuples ont chacun leur manière de manger, mais leur point commun est le **« sur place »** : où se trouvent la montagne et la mer, quels aliments à quelle saison. Les Amis se disent « le peuple qui mange de l'herbe » : ils connaissent plus de deux cents légumes sauvages comestibles ; leur « plat des dix cœurs » utilise dans la cuisine les jeunes tiges de sept plantes, dont le cœur de rotin jaune, de pandanus, de palmier d'arec, d'herbe à éléphant, d'alpinia, de canne à sucre et de cocotier[^5]. Chez les Paiwan, le « cinavu » enveloppe millet et porc dans des feuilles d'alpinia et de faux physalis ; c'est un aliment rituel. Ils ont aussi développé la « viande grillée sur pierre », utilisant la diffusion régulière de la chaleur par les dalles de schiste pour griller le sanglier[^6]. En été, les Puyuma boivent le binaleng, une soupe aigre et piquante où de petites tomates sauvages fermentent avec des pousses de bambou[^7]. Le maqaw des Atayal, ou poivre des montagnes, ressemble une fois séché à des grains de poivre noir et combine des arômes de poivre noir, de gingembre et de citron ; le guide Michelin l'a inclus en 2018 dans les « cinq ingrédients autochtones de Taïwan à connaître »[^8].
 
 ![Aliment traditionnel paiwan, le cinavu, fait de millet et de porc enveloppés dans des feuilles d'alpinia et de faux physalis](/article-images/food/taiwan-food-cinavu-paiwan-beiyeh-2024.webp)
-*Le cinavu est un aliment rituel des Paiwan, Rukai et Puyuma ; les feuilles d'alpinia y scellent la mémoire des montagnes et de la mer. Photo : Sin-siōng, 2024, CC BY-SA 4.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:排灣族飲食*北葉部落吉拿富-02.jpg).\_
+_Le cinavu est un aliment rituel des Paiwan, Rukai et Puyuma ; les feuilles d'alpinia y scellent la mémoire des montagnes et de la mer. Photo : Sin-siōng, 2024, CC BY-SA 4.0 via Wikimedia Commons._
 
 La couche supérieure est celle des Minnan et des Hakka venus par la mer depuis le Fujian et le Guangdong sous les Qing.
 

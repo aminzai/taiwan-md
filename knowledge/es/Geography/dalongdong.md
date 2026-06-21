@@ -31,10 +31,10 @@ lastVerified: '2026-05-21'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/大龍峒.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:c079976dbbfa6288'
-sourceBodyHash: 'sha256:f620f505d46f863a'
-translatedAt: '2026-06-16T00:44:26+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:6d18e9e22ea3f7db'
+sourceBodyHash: 'sha256:53b18682028046a0'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Dalongdong: el incienso del templo Baoan, la campana del templo de Confucio y el Cielo Azul con Sol Blanco de Yuanshan, tres épocas de fe en Taipéi
@@ -188,7 +188,7 @@ Hoy, cada 28 de septiembre, Día del Maestro y natalicio de Confucio, a la hora 
 Desde que Chen Xingju levantó el primer templo de Confucio de Taipéi en 1879, pasando por la demolición japonesa de 1907, la donación de tierras de Chen Peigen y Koo Hsien-jung para reconstruirlo en 1925, la terminación de 1939, la gestión municipal desde 1971 y los alumnos de sexto grado de la primaria Dalong bailando bayi en 2026, un templo necesitó 147 años para recorrer el eje que va del imperio a la época japonesa, de la posguerra a la contemporaneidad.
 
 ![Salón Dacheng y patio del templo de Confucio de Taipéi. Las obras comenzaron en 1927; el salón Dacheng, construido por Wang Jinmu, de la escuela Xidi, quedó terminado en 1929; el conjunto se completó en 1939. El nuevo emplazamiento de Dalongdong fue posible gracias a la donación de más de 2.000 ping por Chen Peigen y a la compra y donación de más de 1.000 ping por Koo Hsien-jung.](/article-images/geography/dalongdong-confucius-temple-2014.webp)
-_Templo de Confucio de Taipéi. Photo: panoramio contributor, [CC BY 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Taipei_Confucius_Temple_%E5%8F%B0%E5%8C%97%E5%AD%94%E5%BB%9F*-\_panoramio.jpg).*
+_Templo de Confucio de Taipéi. Photo: panoramio contributor, CC BY 3.0 via Wikimedia._
 
 ## La tarde en que un avión se estrelló contra el santuario
 

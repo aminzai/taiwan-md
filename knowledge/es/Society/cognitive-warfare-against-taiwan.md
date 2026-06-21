@@ -22,10 +22,10 @@ lastVerified: 2026-04-23
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/認知作戰.md'
-sourceCommitSha: 'ab47ff39'
-sourceContentHash: 'sha256:63574f6b87e6dc7a'
+sourceCommitSha: 'e1b5668a'
+sourceContentHash: 'sha256:c0eb85e49c561e22'
 sourceBodyHash: 'sha256:53132f584b9b6657'
-translatedAt: '2026-06-07T00:37:31+08:00'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 > **Resumen en 30 segundos:**
@@ -239,6 +239,7 @@ El campo de batalla definitivo de la guerra cognitiva es **la relación de confi
 - [Historia de la migración de comunidades en línea en Taiwán](/technology/台灣網路社群遷徙史) — Comprender el papel de plataformas como PTT, Dcard y Threads en la guerra cognitiva
 - [Medios de comunicación y libertad de prensa en Taiwán](/society/台灣媒體與新聞自由) — El ecosistema mediático y la responsabilidad de las plataformas en la guerra cognitiva
 - [Shen Po-yang](/people/沈伯洋) — Uno de los principales investigadores de la guerra cognitiva, y en 2025 la primera persona elegida en Taiwán en ser formalmente procesada por China por el delito de «secesión»
+- [Academia Oso Negro](/society/黑熊學院) — Organización civil que integra la identificación de la guerra cognitiva en su campamento básico de defensa civil, y enseña a personas comunes a mantener el criterio frente a la desinformación y la guerra psicológica
 - [Patata tóxica: más allá de 200 ppm, quedan 30 ppm, 14 días y 15 años de cicatrices en seguridad alimentaria](/society/毒馬鈴薯認知作戰) — Anatomía de cómo la narrativa de «prueba de lealtad» de la Oficina de Asuntos de Taiwán en abril de 2026 pisó con precisión las cicatrices de 15 años de seguridad alimentaria desde el escándalo de plastificantes de 2011
 - [Taiwán y Esuatini](/society/台灣與史瓦帝尼) — Escenario concreto de operaciones lingüísticas chinas como «rata», «infiltración furtiva» o «hazmerreír internacional»: la reacción durante la visita de Lai Ching-te en mayo de 2026
 - [Paraguay y Taiwán](/society/巴拉圭與台灣) — Bajo la tentación del mercado chiano y la coacción política, cómo Taiwán sostiene a su único aliado diplomático en Sudamérica mediante cooperación a largo plazo

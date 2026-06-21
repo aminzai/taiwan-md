@@ -26,10 +26,10 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/新竹縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:499e7dcb301a6ddb'
-sourceBodyHash: 'sha256:8df9daddb901affe'
-translatedAt: '2026-06-16T17:03:25Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:eefcd1a536e4ddf5'
+sourceBodyHash: 'sha256:a716f79b2442afc5'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Hsinchu County: A 235-Year Yimin Faith and Taiwan’s Highest Per Capita Income Along the Same Touqian River
@@ -106,7 +106,7 @@ Walk into Jianshi Township, and another world of Hsinchu County appears.
 Hsinchu County has two mountain Indigenous townships: Wufeng Township, with Saisiyat and Atayal people, and Jianshi Township, mainly Atayal. Within Hsinchu County, the Saisiyat population is 1,560, living in Da’ai and Huayuan villages in Wufeng Township; the Atayal population is 15,876, about 18.66% of all Atayal people in the county, mainly in Jianshi Township[^22]. Because these two townships are mountain Indigenous townships with Indigenous self-governance, they were not included in the Hakka Affairs Council’s 2010 announcement of key Hakka cultural development areas. Those 11 townships and cities are Zhubei, Zhudong, Xinpu, Guanxi, Hukou, Xinfeng, Qionglin, Hengshan, Beipu, Baoshan, and Emei[^23].
 
 ![Smangus giant trees, elevation 1,500 meters. In 1991, after headman Icyeh-Sulung dreamed of a divine message in Baling, tribal members found giant red cypress trees deep in the mountains. Taiwan’s second- and third-largest sacred red cypress trees are both in this area. In 1995, the external vehicle road opened. In 2004, the tribal council Tnunan was established, setting down a constitution of “land held in common, cooperative coexistence.”](https://upload.wikimedia.org/wikipedia/commons/2/2f/Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4_-_panoramio_%283%29.jpg)
-_Smangus giant trees. Photo: panoramio user via Wikimedia. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4*-\_panoramio*%283%29.jpg).\_
+_Smangus giant trees. Photo: panoramio user via Wikimedia. CC BY 3.0 via Wikimedia Commons._
 
 Smangus, Atayal Qalang Smangus, is located in Yufeng Village, Jianshi Township, at an elevation of about 1,500 meters. It is one of Taiwan’s most remote Indigenous communities. Electricity arrived only in 1979[^24]. In 1991, headman Icyeh-Sulung dreamed of a divine message in Baling. After returning, he told tribal members to search deep in the mountains for red cypress: “**Just as the ancestors had instructed, they found the largest red cypress giants in the deep cypress forest**”[^25]. Taiwan’s second- and third-largest sacred red cypress trees are both in the Smangus sacred-tree area. In June 1995, the external vehicle road opened, and “**Smangus formally connected with society as a whole**”[^26].
 
@@ -146,7 +146,7 @@ CommonWealth Magazine quoted one Zhubei local resident: “**Zhubei housing pric
 ## TSMC’s Baoshan Phase II Beside Yimin Faith
 
 ![Neiwan Station, 2016, Neiwan Village, Hengshan Township. The terminal station of the Neiwan Line, built in the 1950s to serve forestry and mining. After mining and forestry declined in the 1990s, it transformed toward tourism. Liu Hsing-chin’s comics Brother A-San and Auntie are set locally.](https://upload.wikimedia.org/wikipedia/commons/4/43/%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99_%2827648470482%29.jpg)
-_Neiwan Railway Station. Photo: billy1125. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99*%2827648470482%29.jpg).*
+_Neiwan Railway Station. Photo: billy1125. CC BY 2.0 via Wikimedia Commons._
 
 Hsinchu County’s contemporary contradiction has no dramatized event. It is two points on a map lit at the same time.
 

@@ -29,10 +29,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/四四南村.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:48350666b07ad604'
-sourceBodyHash: 'sha256:d1d5c9161c22bb16'
-translatedAt: '2026-06-16T17:05:54Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:e3cf0ff2d18ee6c2'
+sourceBodyHash: 'sha256:ceea55d78cdbac6b'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Si Si Nan Cun : le village militaire de l’arsenal devenu parc culturel et créatif près de Taipei 101
@@ -154,7 +154,7 @@ Sortez de la place de Si Si Nan Cun et marchez 200 mètres vers le sud : vous ar
 Le contraste entre les deux ensembles bâtis est l’un des paysages les plus photographiés de Taipei, dans la catégorie « histoire contre modernité ». D’un côté, les maisons basses aux tuiles rouges construites par des techniciens du Shandong arrivés de Qingdao en 1948 ; de l’autre, le gratte-ciel de 508 mètres achevé en 2004[^19]. L’horizontalité basse du village militaire face à la verticalité de Taipei 101 ; la brique rouge du village face au mur-rideau de verre de Taipei 101 ; la cloche de l’arsenal face aux feux d’obstacle aérien de Taipei 101.
 
 ![Maisons basses de Si Si Nan Cun et Taipei 101 dans le même cadre. Les toits rouges des logements familiaux de 1948 et le gratte-ciel de 508 mètres achevé en 2004 composent l’un des paysages de contraste « histoire contre modernité » les plus photographiés par les touristes étrangers à Taipei.](/article-images/geography/sisi-south-village-taipei-101-2017.webp)
-_Mars 2017, Si Si Nan Cun et Taipei 101 dans le même cadre. Photo : Hal Maa. [Licence via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buildings_at_Four_Four_South_Village_%28%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91%29*at_9_March_2017_in_Taipei%2C_showing_Taipei_101*%28%E8%87%BA%E5%8C%97101%29*and_a_new_skyscraper_being_built_in_the_background.jpg) (CC BY-SA 4.0).*
+_Mars 2017, Si Si Nan Cun et Taipei 101 dans le même cadre. Photo : Hal Maa. Licence via Wikimedia Commons (CC BY-SA 4.0)._
 
 Géographiquement, ces deux constructions se trouvent sur le même ancien site du 44e arsenal.
 

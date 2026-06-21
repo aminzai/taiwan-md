@@ -29,10 +29,10 @@ lastVerified: '2026-05-21'
 lastHumanReview: 'false'
 featured: 'false'
 translatedFrom: 'Geography/中山北路條通.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:09cf41707223de25'
-sourceBodyHash: 'sha256:1cbd8f5ebc585b28'
-translatedAt: '2026-06-16T00:44:26+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:c8a39341eabfac41'
+sourceBodyHash: 'sha256:8e3e2179e3d0c9c2'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Los tiao-tong de la calle Zhongshan Norte: la ruta hacia el santuario que trazaron los japoneses y que al final volvió a manos de empresas japonesas
@@ -161,7 +161,7 @@ Después de recorrer la historia de la cultura tiao-tong de la calle Zhongshan N
 **Grand Hotel de Taipéi** (número 1 del tramo cuatro de la calle Zhongshan Norte, Yuanshan). Entre 1901 y 1944, este terreno fue el Santuario de Taiwán (luego elevado a Gran Santuario de Taiwán); en 1944 fue demolido después de ser impactado por un avión japonés (según la leyenda, un avión propio se estrelló por error)[^28]. El 10 de mayo de 1952, la «Asociación de Amistad de Taiwán», dirigida por Soong Mei-ling, tomó el antiguo terreno del Santuario de Taiwán y lo convirtió en el «Taiwan Grand Hotel», luego rebautizado como «Grand Hotel de Taipéi»[^28]. En 1963 se completaron todos los cimientos del hotel, y en 1973 quedó terminado el edificio de 14 plantas de estilo palaciego chino con tejas rojas diseñado por Yang Cho-cheng; desde entonces, el Grand Hotel de Taipéi se convirtió en uno de los edificios más emblemáticos de Taipéi. **Del lugar sagrado más alto del Imperio japonés a la puerta de recepción nacional de la República de China (Taiwán)**: el mismo terreno pasó del culto al hotel, pero su significado político de «máximo rango» nunca desapareció.
 
 ![Vista lejana del Grand Hotel de Taipéi en 2012; el edificio rojo de estilo palaciego chino se alza sobre el antiguo terreno del Santuario de Taiwán. Tras la demolición del santuario en 1944, el gobierno nacionalista lo transformó en 1952 en el «Taiwan Grand Hotel»; en 1973 se completó el edificio de 14 plantas diseñado por Yang Cho-cheng, que se convirtió en un hito de Taipéi](/article-images/geography/zhongshan-grand-hotel-2012.webp)
-_Grand Hotel de Taipéi, 11 de marzo de 2012. Foto: lienyuan lee. [CC BY 3.0 vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Grand_Hotel_%E5%8F%B0%E5%8C%97%E5%9C%93%E5%B1%B1%E9%A3%AF%E5%BA%97*-\_panoramio.jpg).*
+_Grand Hotel de Taipéi, 11 de marzo de 2012. Foto: lienyuan lee. CC BY 3.0 vía Wikimedia Commons._
 
 **Museo de Bellas Artes de Taipéi** (número 181 del tramo tres de la calle Zhongshan Norte). Desde el 1 de noviembre de 1955 y durante casi 30 años, este fue el cuartel general en Yuanshan del Comando de Defensa de Taiwán de Estados Unidos (USTDC): entre 1955 y 1979, este terreno fue el centro de mando estadounidense en Taiwán dentro del teatro del Pacífico, y desde la oficina ubicada aquí el contralmirante Linder emitió la orden de arriar la bandera el 26 de abril de 1979[^6]. Tras la retirada estadounidense de 1979, el terreno quedó vacío algunos años; el 24 de diciembre de 1983 abrió oficialmente el Museo de Bellas Artes de Taipéi en el antiguo predio del USTDC. **Un cuartel general estadounidense convertido en el primer museo público de arte moderno de Taiwán**: no hay transformación que explique con mayor claridad la dirección de la sociedad taiwanesa posterior a 1979, de periferia militar a sujeto cultural.
 

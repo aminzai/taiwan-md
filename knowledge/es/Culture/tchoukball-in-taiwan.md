@@ -20,7 +20,7 @@ translatedFrom: 'Culture/巧固球.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:01a29994f0cdcf17'
 sourceBodyHash: 'sha256:620db6741686fb51'
-translatedAt: '2026-05-02T08:50:00+08:00'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Tchoukball: el campeón mundial invisible de Taiwán durante 43 años

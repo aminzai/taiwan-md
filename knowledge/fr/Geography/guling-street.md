@@ -29,10 +29,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:333ceed2a40fb5ff'
-sourceBodyHash: 'sha256:3ec0507273818a67'
-translatedAt: '2026-06-16T17:05:54Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:cf36b43868cfc58f'
+sourceBodyHash: 'sha256:cafaccb40b199771'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Guling Street : la rue des livres laissée par les Japonais, l’adolescent d’Edward Yang, le palais du gouvernement nationaliste
@@ -165,7 +165,7 @@ _Le Théâtre de Guling Street le 3 août 2008. Photo : Peter Bronski, domaine p
 ## L’étang de lotus de 1921 est toujours là
 
 ![L’étang de lotus du Jardin botanique de Taipei, d’environ 1 hectare, l’un des plus anciens bassins paysagers artificiels de Taipei. Le jardin fut créé en 1896 par le Bureau de la production de l’administration japonaise sous le nom de « pépinière de Taipei », officiellement renommé « Jardin botanique de Taipei » en 1921, puis repris après-guerre par l’Institut de recherche forestière ; l’étang de lotus est resté au même endroit depuis plus de 100 ans.](/article-images/geography/guling-street-botanical-lotus-2013.webp)
-*L’étang de lotus du Jardin botanique de Taipei en juin 2013. Photo : 玄史生 (panoramio), CC BY 3.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Lotus_Pond_in_Taipei_Botanical_Garden*台北植物園荷花池*-\_panoramio.jpg>).*
+_L’étang de lotus du Jardin botanique de Taipei en juin 2013. Photo : 玄史生 (panoramio), CC BY 3.0 via Wikimedia Commons._
 
 La rue du livre de Guling Street a été démantelée, les étals ont été déplacés, le propriétaire de la deuxième génération de la librairie Songlin a plus de soixante-dix ans, mais l’étang de lotus du Jardin botanique de Taipei voisin est toujours au même endroit.
 

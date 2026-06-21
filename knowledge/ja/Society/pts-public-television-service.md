@@ -19,10 +19,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 16
 translatedFrom: 'Society/公視.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:b3bb62c6b702b9bd'
-sourceBodyHash: 'sha256:e2bbce2eb6bb7a5c'
-translatedAt: '2026-06-16T17:05:15Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:0005eee4bd863414'
+sourceBodyHash: 'sha256:de293f816b2012e3'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 > **30秒でわかる概要：**
@@ -69,7 +69,7 @@ translatedAt: '2026-06-16T17:05:15Z'
 ## 誰も見ていない局が、国民全体の集合的癒やしを生み出した
 
 ![公共テレビ、客家電視台、原住民族電視台の3局のアナウンサーデスク。2010年中華民国国慶日に公共テレビビル内で行われた共同放送の現場。多言語チャンネルの版図を象徴する](/article-images/society/pts-tbs-newscaster-desk-2010.webp)
-_2010年10月10日中華民国国慶日、公共テレビ、客家電視台、原住民族電視台の3局のアナウンサーが公共広報グループビルの共同放送デスクに立つ。Photo: Solomon203. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Public_Television_Service,_Hakka_TV,_and_Taiwan_Indigious_TV_newscaster_desk_on_Double_Ten_Day_2010.jpg)._
+_2010年10月10日中華民国国慶日、公共テレビ、客家電視台、原住民族電視台の3局のアナウンサーが公共広報グループビルの共同放送デスクに立つ。Photo: Solomon203. CC BY 3.0 via Wikimedia Commons._
 
 PTSメインチャンネルの全日平均視聴率は長期的に0.5を下回っています。この数字は長らく「PTSは誰も見ていない」という論拠として引用されており、監察院（監査院）の2024年糾正案件でも、PTSの地上波テレビにおける市場占有率の順位が停滞していることが指摘されています[^14]。
 
@@ -116,7 +116,7 @@ PTS第4期董事會は968日間にわたり任期延長を余儀なくされ、�
 ## TaiwanPlusと見えないファイアウォール
 
 ![蔡英文総統が公共テレビTaiwanPlusチャンネル開局記者会見に出席し、挨拶を行う場面。2022年10月3日、国際英語チャンネルが正式に開始](/article-images/society/pts-taiwanplus-launch-2022.webp)
-_2022年10月3日、蔡英文総統が公共テレビTaiwanPlus 24時間365日国際英語チャンネルの開局記者会見に出席し、挨拶を行う前の現場。Photo: 簡至宏 / 中華民国総統府. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:10.03_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96TaiwanPlus%E9%A0%BB%E9%81%93%E9%96%8B%E6%92%AD%E8%A8%98%E8%80%85%E6%9C%83%E3%80%8D\*(52400876416).jpg).\_
+_2022年10月3日、蔡英文総統が公共テレビTaiwanPlus 24時間365日国際英語チャンネルの開局記者会見に出席し、挨拶を行う前の現場。Photo: 簡至宏 / 中華民国総統府. CC BY 2.0 via Wikimedia Commons.jpg)._
 
 2021年、文化部は5.8億台湾元を投じてTaiwanPlus計画を開始し、2022年10月3日に24時間365日国際英語テレビ局として正式に開局しました[^30]。当初、PTSが提案を受けて引き受けた際、「政府の宣伝ツール」や「政府によるPTSへの干渉」として強い反発を受け、文化部は撤回して中央通訊社（中央通信社）に実行を変更しました。2022年8月、NCC（国家通訊傳播委員会）がプラットフォームのPTSへの移管を発表しました[^31]。3年間（2021〜2023年）でTaiwanPlusは約30億台湾元を消費し、審計部（監査部）は台湾マーケティング計画の目標を達成していないと評価しました。開局1年後（2022年中）のAPPダウンロード数は数万にとどまり、計画目標の100万を大幅に下回りました[^32]。
 

@@ -29,10 +29,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/四四南村.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:48350666b07ad604'
-sourceBodyHash: 'sha256:d1d5c9161c22bb16'
-translatedAt: '2026-06-16T17:03:25Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:e3cf0ff2d18ee6c2'
+sourceBodyHash: 'sha256:ceea55d78cdbac6b'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 44 South Village: An Arsenal Dependents’ Village, Now a Cultural and Creative Park Beside Taipei 101
@@ -154,7 +154,7 @@ Walk 200 meters south out of the 44 South Village plaza, and there is Taipei 101
 The contrast between the two buildings is one of Taipei’s most photographed “history versus modernity” juxtaposed landscapes. Red-tile bungalows built by Shandong technicians from Qingdao in 1948 stand beside a 508-meter supertall completed in 2004[^19]. The village’s low horizontality against Taipei 101’s verticality; the village’s red brick against Taipei 101’s glass curtain wall; the arsenal bell of the village against Taipei 101’s aviation warning light.
 
 ![44 South Village bungalows alongside Taipei 101. The red-tile roofs of 1948 dependents’ housing and the 508-meter supertall completed in 2004 share the frame — one of Taipei’s most photographed “history versus modernity” contrast landscapes among foreign tourists.](/article-images/geography/sisi-south-village-taipei-101-2017.webp)
-_March 2017, 44 South Village and Taipei 101 in the same frame. Photo: Hal Maa. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buildings_at_Four_Four_South_Village_%28%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91%29*at_9_March_2017_in_Taipei%2C_showing_Taipei_101*%28%E8%87%BA%E5%8C%97101%29*and_a_new_skyscraper_being_built_in_the_background.jpg) (CC BY-SA 4.0).*
+_March 2017, 44 South Village and Taipei 101 in the same frame. Photo: Hal Maa. License via Wikimedia Commons (CC BY-SA 4.0)._
 
 Geographically, these two buildings stand on the same former 44th Arsenal site.
 

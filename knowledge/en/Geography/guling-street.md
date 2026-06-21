@@ -29,10 +29,10 @@ lastVerified: '2026-05-21'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:333ceed2a40fb5ff'
-sourceBodyHash: 'sha256:3ec0507273818a67'
-translatedAt: '2026-06-16T17:03:25Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:cf36b43868cfc58f'
+sourceBodyHash: 'sha256:cafaccb40b199771'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Guling Street: The Book Street the Japanese Left Behind, Edward Yang's Adolescents, and the Nationalist Government's Palaces
@@ -165,7 +165,7 @@ _Guling Street Avant-garde Theatre on August 3, 2008. Photo: Peter Bronski, Publ
 ## The Lotus Pond from 1921 Is Still There
 
 ![The lotus pond at the Taipei Botanical Garden, about 1 hectare in area, is one of Taipei's earliest artificial landscape ponds. The Botanical Garden was established by the Japanese colonial Bureau of Productive Industries in 1896 as the "Taipei Nursery," officially renamed the "Taipei Botanical Garden" in 1921, and has been managed since the war by the Taiwan Forestry Research Institute. The lotus pond has been in place for more than 100 years.](/article-images/geography/guling-street-botanical-lotus-2013.webp)
-*The lotus pond at the Taipei Botanical Garden in June 2013. Photo: 玄史生 (panoramio), CC BY 3.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Lotus_Pond_in_Taipei_Botanical_Garden*台北植物園荷花池*-\_panoramio.jpg>).*
+_The lotus pond at the Taipei Botanical Garden in June 2013. Photo: 玄史生 (panoramio), CC BY 3.0 via Wikimedia Commons._
 
 Guling Street's book street has been dismantled, the book stalls have moved, and the second-generation owner of Songlin Bookstore is in his seventies, but the lotus pond at the adjacent Taipei Botanical Garden is still in the same place.
 

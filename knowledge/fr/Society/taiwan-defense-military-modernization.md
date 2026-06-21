@@ -20,10 +20,10 @@ lastVerified: 2026-04-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣國防與軍事現代化.md'
-sourceCommitSha: '1e180a591'
-sourceContentHash: 'sha256:131eb7c08a7bc21b'
-sourceBodyHash: 'sha256:467330e7b6444cf1'
-translatedAt: '2026-05-28T05:08:35+08:00'
+sourceCommitSha: 'e1b5668a'
+sourceContentHash: 'sha256:88d0dbdb8874357c'
+sourceBodyHash: 'sha256:22e1d83beded6641'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 > **En bref (30 secondes) :** La guerre russo-ukrainienne de 2022 a transformé la logique de défense de Taïwan. En 2024, le service militaire est passé de quatre mois à un an. En 2025, l'exercice Han Kuang 41 a duré dix jours et neuf nuits — un record — avec la mobilisation de 20 000 réservistes. En novembre de la même année, le gouvernement de Lai Ching-te a proposé un budget spécial de 1 250 milliards de dollars taïwanais pour l'acquisition de 200 000 drones. Mais sur cette même liste, la majorité des fonds était encore destinée aux chars, avions de combat et sous-marins — des équipements conventionnels coûteux. L'ancien chef d'état-major Hsi-ming Lee a réagi avec un amer sourire : « Si un char peut être considéré comme une arme asymétrique, qu'est-ce qui ne le serait pas ? » Taïwan emprunte simultanément deux voies de défense, et ces deux voies se contredisent.
@@ -157,6 +157,7 @@ Les F-16V Block 70, initialement prévus pour 2024, ont été retardés à parti
 - [Développement de l'industrie spatiale taïwanaise](/technology/台灣太空產業發展) — Des satellites civils aux communications de défense, l'espace est un nouveau champ de bataille pour la résilience défensive de Taïwan
 - [Rencontre Zheng-Xi 2026 : dix minutes pour une rencontre décennale entre dirigeants du Kuomintang et du PCC](/society/2026鄭習會與國共十年再會) — Lorsque Zheng Lianwen évoque des « arrangements institutionnels de prévention de la guerre », c'est le revers politique de la bataille pour le budget spécial de défense
 - [Shen Bo-yang](/people/沈伯洋) — Co-fondateur de l'Académie Black Bear, renforçant la résilience de la défense nationale par l'éducation civile ; après sept ans de recherche sur la guerre cognitive du PCC, il a été poursuivi par la Chine pour « crime de sécession »
+- [Académie Black Bear](/society/黑熊學院) — Éducation de défense civile pour tous, initiée par la société civile, une autre ligne de résilience au-delà de la défense de l'État, une école qui espère qu'un jour elle n'aura plus à exister
 - [Cho Jung-tai](/people/卓榮泰) — Principal promoteur du budget spécial de défense de 1 250 milliards au sein de la présidence du Yuan exécutif, auteur des concepts « Bouclier de Taïwan » et « Trois bons lancers »
 - [Lu Shiow-yen](/people/盧秀燕) — Vice-présidente du Kuomintang / maire de Taichung, adoptant une position intermédiaire de « 800 milliards à 1 000 milliards » dans le débat sur les achats militaires de 2026
 - [Hsu Chiao-hsin](/people/徐巧芯) — Députée du Kuomintang / principale promotrice de la version 800 milliards pour les achats militaires, archétype politique des confrontations répétées avec Lai Ching-te à la tribune des questions

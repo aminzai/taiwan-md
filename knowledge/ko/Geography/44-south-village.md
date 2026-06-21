@@ -29,10 +29,10 @@ lastVerified: '2026-05-21'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/四四南村.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:48350666b07ad604'
-sourceBodyHash: 'sha256:d1d5c9161c22bb16'
-translatedAt: '2026-06-16T16:55:29Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:e3cf0ff2d18ee6c2'
+sourceBodyHash: 'sha256:ceea55d78cdbac6b'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 쓰쓰난춘: 병공창의 군인 가족촌, 지금은 101 옆 문화창의 단지
@@ -154,7 +154,7 @@ _2016년 11월, 쓰쓰난춘 보존 관사의 붉은 벽돌 단층집 세부. Ph
 두 건물의 대비는 타이베이에서 가장 자주 사진으로 찍히는 “역사 vs 현대”의 병렬 경관이다. 1948년 칭다오에서 온 산둥 기술공이 지은 붉은 기와 단층집과 2004년 준공된 508미터 초고층 건물[^19]. 군인 가족촌의 낮음과 101의 수직성, 군인 가족촌의 붉은 벽돌과 101의 유리 커튼월, 군인 가족촌의 병공창 종소리와 101의 항공장애등.
 
 ![쓰쓰난춘 단층집과 타이베이 101이 나란히 보인다. 1948년 관사의 붉은 기와지붕과 2004년 준공된 508미터 초고층 건물이 한 화면에 잡힌다. 타이베이에서 외국 관광객이 가장 자주 촬영하는 “역사 vs 현대” 대비 경관이다.](/article-images/geography/sisi-south-village-taipei-101-2017.webp)
-_2017년 3월, 쓰쓰난춘과 타이베이 101이 같은 화면에 들어온 모습. Photo: Hal Maa. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buildings_at_Four_Four_South_Village_%28%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91%29*at_9_March_2017_in_Taipei%2C_showing_Taipei_101*%28%E8%87%BA%E5%8C%97101%29*and_a_new_skyscraper_being_built_in_the_background.jpg) (CC BY-SA 4.0).*
+_2017년 3월, 쓰쓰난춘과 타이베이 101이 같은 화면에 들어온 모습. Photo: Hal Maa. License via Wikimedia Commons (CC BY-SA 4.0)._
 
 지리적으로 이 두 건물은 같은 제44병공창 옛터 위에 서 있다.
 

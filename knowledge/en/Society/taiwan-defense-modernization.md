@@ -20,10 +20,10 @@ lastVerified: 2026-04-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣國防與軍事現代化.md'
-sourceCommitSha: '1e180a591'
-sourceContentHash: 'sha256:131eb7c08a7bc21b'
-sourceBodyHash: 'sha256:467330e7b6444cf1'
-translatedAt: '2026-06-07T00:37:30+08:00'
+sourceCommitSha: 'e1b5668a'
+sourceContentHash: 'sha256:88d0dbdb8874357c'
+sourceBodyHash: 'sha256:22e1d83beded6641'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 > **30-second overview:** The 2022 Russia-Ukraine war changed Taiwan's defense logic. In 2024, conscription was restored from four months to one year. In 2025, the Han Kuang 41 exercise ran for ten days and nine nights, the longest in its history, mobilizing 20,000 reservists. In November that same year, the Lai Ching-te administration proposed a NT$1.25 trillion special budget to procure 200,000 drones. Yet on the same list, most of the money was still allocated to tanks, fighter jets, submarines, and other expensive conventional equipment. Former Chief of the General Staff Lee Hsi-ming said with a wry smile: "If even tanks can be asymmetric weapons, then what is not an asymmetric weapon?" Taiwan is walking two defense paths at once, and those two paths conflict with each other.
@@ -157,6 +157,7 @@ F-16V Block 70 deliveries were originally scheduled for 2024, but because of U.S
 - [Development of Taiwan's Space Industry](/technology/台灣太空產業發展) — From civilian satellites to defense communications, space is the new battlefield of Taiwan's defense resilience
 - [The 2026 Cheng-Xi Meeting: Ten Minutes Between KMT and CCP Leaders After Ten Years](/society/2026鄭習會與國共十年再會) — When Cheng Li-wun proposed "institutional arrangements to prevent war," behind it lay the political battle over the special defense budget
 - [Shen Pao-yang](/people/沈伯洋) — Co-founder of Kuma Academy, strengthening Taiwan's whole-of-society defense resilience through civil-defense education; after seven years studying CCP cognitive warfare, he was placed under investigation by China for "splitting the state"
+- [Hēixióng Academy (Kuma Academy)](/society/黑熊學院) — Civilian-initiated whole-of-society defense education; the second resilience line outside state defense, a school that hopes one day not to need to exist
 - [Cho Jung-tai](/people/卓榮泰) — The Executive Yuan's chief promoter of the NT$1.25 trillion special defense budget, and the proposer of the "Taiwan Shield" and "three good pitches"
 - [Lu Shiow-yen](/people/盧秀燕) — KMT vice chair and Taichung mayor, who took a middle-range position of "NT$800 billion to NT$1 trillion" in the 2026 arms-procurement controversy
 - [Hsu Chiao-hsin](/people/徐巧芯) — KMT legislator and chief promoter of the NT$800 billion arms-procurement version, a political archetype of repeated clashes with Lai Ching-te during legislative questioning

@@ -14,7 +14,7 @@ lastVerified: 2026-04-05
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1eeea7390de68e10'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
-translatedAt: '2026-04-14T19:13:02+08:00'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Bahamut

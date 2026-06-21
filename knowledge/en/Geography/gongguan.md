@@ -33,10 +33,10 @@ lastVerified: '2026-05-21'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/公館.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:d4a87d0d4d9ecb17'
-sourceBodyHash: 'sha256:18162eee72c09bc5'
-translatedAt: '2026-06-16T00:44:26+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:bcc022be65ff89b5'
+sourceBodyHash: 'sha256:b3b5dbb9d7dd34fc'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Gongguan: The Japanese Empire's Laboratory, Martial-Law-Era Underground Salons, and NTU Students' Fried Chicken Cutlets: Three Centuries in 500 Meters
@@ -99,7 +99,7 @@ There have long been two explanations for the postwar naming of Wenzhou Street. 
 Yet Wenzhou Street's real historical role lies not in what the street was called, but in how, after the war, it became the cradle of Taiwan liberalism.
 
 ![The narrow Lane 16 of Wenzhou Street still preserves the structure of the wooden residences from the 1928-1945 Japanese-period imperial-university faculty dormitory era, making it one of Taipei's most intact surviving clusters of higher-ranking Japanese official residences](/article-images/geography/gongguan-wenzhou-street-lane-16-2021.webp)
-_August 2021, Lane 16, Wenzhou Street. Photo: Kiyoteru Awaji, 2021-08-09. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WenZhou_Street,_Taipei_(at*Lane_16).jpg) (CC BY 4.0).*
+_August 2021, Lane 16, Wenzhou Street. Photo: Kiyoteru Awaji, 2021-08-09. License via Wikimedia Commons (CC BY 4.0)._
 
 ## Wistaria Tea House: The Official Residence of 1950, the Teahouse of 1981
 
@@ -228,7 +228,7 @@ Gongguan's special quality lies in the fact that all six material layers of "**c
 > **Curator's note:** Gongguan's food map is very different from other Taipei commercial districts. It is not a tourist district like Ximending, not a club district like Xinyi, not a youth-culture cafe district like Yongkang Street. It is an **NTU student ATM**: average prices of NT$80-150, large portions, places where one can sit and read, and 24-hour operation. Why did it grow this way? Because it serves students from NTU, National Taiwan University of Science and Technology, and National Taiwan Normal University's Gongguan campus: about 50,000 people across three universities, each needing one to two meals a day in Gongguan on average. Long-term, dense student consumption pressure means Gongguan's shops cannot set high prices and cannot become purely tourist-oriented; they must be "inexpensive + large portion + fast." The Japanese-period imperial university's two-layer structure of "campus + dormitories" was joined after the war by a layer of scholars' salons, after 1980 by a bookstore layer, and after 1999 by a mass-consumption layer. Only with all four layers stacked together did the density of 2026 take shape.
 
 ![Gongguan commercial district at dusk. Section 4 of Roosevelt Road, extending south from NTU's main gate, is one of southern Taipei's highest-density axes for snacks; after the MRT Xindian line opened in 1999, it formed a complete student-consumption ecology](/article-images/geography/gongguan-commercial-district-2011.webp)
-_October 2011, Gongguan commercial district, Taipei. Photo: panoramio user, 2011-10-31. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E5%B8%82_%E5%85%AC%E9%A4%A8%E5%95%86%E5%9C%88*Gongguan*-_panoramio.jpg) (CC BY-SA 3.0)._
+_October 2011, Gongguan commercial district, Taipei. Photo: panoramio user, 2011-10-31. License via Wikimedia Commons (CC BY-SA 3.0)._
 
 ## Three Centuries in 500 Meters, on the Same Axis
 

@@ -21,7 +21,7 @@ translatedFrom: 'Culture/巴哈姆特.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1eeea7390de68e10'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
-translatedAt: '2026-05-01T13:44:02+08:00'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Bahamut

@@ -1,226 +1,338 @@
 ---
-title: 'Cicada: Fifteen Years of Field Recordings from Typhoon Morakot 2009 to the Source of the Danda River 2022'
-description: "Founded in Taipei in 2009, Cicada is a fully instrumental, vocally silent independent band. Founding pianist Jesy Chiang (M.A. in Art History, Taipei National University of the Arts) wrote the first batch of songs after watching news coverage of Typhoon Morakot that year. Over the next fifteen years, they turned Taiwan's vanishing coastlines, marine ecology, mountain forests, and river headwaters into albums without a single human voice. Their 2022 album *Residing above the River's Source* is the product of a 15-day, 120-kilometer expedition through the Central Mountain Range; their film score received Japan's Academy Prize. In 2024, *Returning* revisited the western coastline — the gaps between mountain and water, forest and land."
-translatedFrom: 'People/Cicada.md'
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:fe41f66467969b5d'
-sourceBodyHash: 'sha256:94ae560f9807778b'
-translatedAt: '2026-05-01T12:53:58+08:00'
+title: 'Cicada: Sixteen Years of Field Recordings from Typhoon Morakot in 2009 to Cross-Hemispheric Glaciers in 2025'
+description: 'Founded in Taipei in 2009, Cicada is an all-instrumental, vocal-free independent band. Founding pianist Jesy Chiang (M.A. in Art History, Taipei National University of the Arts) wrote the first batch of pieces after seeing news coverage of Typhoon Morakot that year. Over the next sixteen years, they turned Taiwan’s disappearing coasts, marine ecology, mountain forests, and stream sources into a series of wordless albums, moving from the west coast (Coastland, 2013) to the Pacific off the east coast (Light Shining Through the Sea, 2015) and onward to the stream sources of the Central Mountain Range (Seeking the Sources of Streams, 2022, a 15-day, 120-kilometer expedition). They scored the Japanese film A Man and received the Japan Academy Film Prize for Outstanding Achievement in Music. In 2025, Gazing the Shades of White took their fieldwork beyond Taiwan for the first time, following glaciers through Greenland, Iceland, and New Zealand before returning to Xueshan to look for traces left by ancient glaciers.'
 date: 2026-04-18
-tags:
-  - 'People'
-  - 'Cicada'
-  - 'Jesy Chiang'
-  - 'instrumental'
-  - 'post-classical'
-  - 'neoclassical'
-  - 'independent music'
-  - 'environmental music'
-  - 'ecology'
-  - 'Taiwan Wild at Heart'
-  - 'Scattered Time'
-  - 'Hiking in the Mist'
-  - "Residing above the River's Source"
-  - 'Ishikawa Kei'
-  - 'Golden Melody Awards'
-category: People
-subcategory: 音樂與表演
 author: 'Taiwan.md'
-featured: false
-readingTime: 15
-lastVerified: 2026-04-18
+category: 'People'
+subcategory: '音樂與表演'
+tags:
+  [
+    'People',
+    'Cicada',
+    'Jesy Chiang',
+    'instrumental',
+    'post-classical',
+    'neoclassical',
+    'independent music',
+    'environmental music',
+    'ecology',
+    'Society of Wilderness',
+    'Pieces',
+    'Hiking in the Mist',
+    'Seeking the Sources of Streams',
+    'Gazing the Shades of White',
+    'Light Shining Through the Sea',
+    'flau',
+    'glaciers',
+    'Kei Ishikawa',
+    'Golden Melody Awards',
+  ]
+readingTime: 24
+lastVerified: 2026-06-21
 lastHumanReview: true
-researchReport: reports/research/2026-04/Cicada.md
-perspectives:
-  - author: 'xo61j4'
-    text: "I stumbled on 'Traces of the Giant Tree' and loved it — added it to my playlist immediately. Love how it completely immerses you in a forest atmosphere. Had no idea their entire compositional thread circles around Taiwan."
-    dimension: 'entry point'
+featured: false
+translatedFrom: 'People/Cicada.md'
+sourceCommitSha: '306126901'
+sourceContentHash: 'sha256:15544a92bbe3fa66'
+sourceBodyHash: 'sha256:2a1b1a8f267d23c2'
+translatedAt: '2026-06-22T00:40:58+08:00'
 ---
 
-> **30-second overview:** Cicada is a fully instrumental independent band founded in Taipei in 2009, led by pianist Jesy Chiang (Taipei National University of the Arts M.A. in Art History), with a four-person lineup of piano, violin, cello, and acoustic guitar. Starting with the White Wabbit Records debut _Scattered Time_ in 2011, all works released over 15 years have contained no human voice. Their themes move from western coastline erosion (_Coastland_, 2013), to marine ecology (_Where Have You Gone_, 2017), to mountain forests (_Hiking in the Mist_, 2019), to river headwaters (_Residing above the River's Source_, 2022 — a 15-day, 120-kilometer expedition through the Central Mountain Range). Their 2024 15th-anniversary retrospective _Returning_ revisited the coastal theme. Their film score _A Man_ received Japan's Academy Prize; they completed a full Japan tour in 2024; they have shared a stage with Icelandic composer Ólafur Arnalds. Core methodology: **let nature speak for itself**.
+> **30-second overview:** Cicada is an all-instrumental independent band founded in Taipei in 2009 and led by pianist Jesy Chiang (M.A. in Art History, Taipei National University of the Arts). The four-piece lineup includes piano, violin, cello, and acoustic guitar. Since their 2011 debut _Pieces_ on White Wabbit Records, everything they have released over sixteen years has been without vocals. Their themes have moved from west-coast erosion (_Coastland_, 2013), the east coast and the Pacific (_Light Shining Through the Sea_, 2015), marine ecology (_White Forest_, 2017), and mountain forests (_Hiking in the Mist_, 2019) to stream sources (_Seeking the Sources of Streams_, 2022, a 15-day, 120-kilometer expedition through the Central Mountain Range). Their 2024 fifteenth-anniversary self-selected compilation _Coastland Revisited_ reinterpreted coastal themes; in 2025, _Gazing the Shades of White_ went beyond Taiwan for the first time, following glaciers across the Northern and Southern Hemispheres before returning to Xueshan to seek traces of ancient glaciers. They scored the Japanese film _A Man_ and received the Japan Academy Film Prize for Outstanding Achievement in Music; in 2024 they completed a full Japan tour and have shared the stage with Icelandic composer Ólafur Arnalds. Their core method: **letting nature speak for itself**.
 
-Jesy Chiang learned something during scuba diving training in Orchid Island (Lanyu):
+![Cui Pond below Xueshan’s main peak, Taiwan’s highest alpine lake, its surface calm, surrounded by Taiwan junipers and scree slopes, with Xueshan’s ridgeline in the distance.](/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp)
+_Cui Pond below Xueshan’s main peak, Taiwan’s highest alpine lake, surrounded by Taiwan junipers. Cicada’s 2025 \_Gazing the Shades of White_ followed glaciers around more than half the planet, and finally returned here, one of Taiwan’s few glacial relic sites. Photo: Blackjack633 / Wikimedia Commons, CC BY-SA 4.0 (source link in image sources at the end).\_
 
-> **✦** "The only thing you can control is your breath."[^1]
+During dive training on Lanyu, Jesy Chiang learned one sentence:
 
-This sentence does not appear in any Cicada album (their songs have no lyrics), but it is the best key to understanding this band's 15 years of creative work. Once you've submerged underwater wearing a diving mask, all surface-level control fails: you cannot go faster, cannot go slower, cannot explain yourself. You can only be honest with yourself and keep breathing.
+> **✦** “The only thing you can control is your breathing.”[^1]
 
-This realization later became the philosophical foundation of all of Cicada's musical work. They let instruments become translators for nature — not narrators providing commentary over it.
+That sentence does not appear on any Cicada album; their songs have no lyrics. But it is the best key to understanding fifteen years of the band’s work. When you sink underwater wearing a diving mask, every surface-level form of control fails: you cannot be fast, cannot be slow, cannot explain yourself. You can only be honest with yourself and keep breathing.
 
-> **📝 Curator's note**
-> The Mandarin music world typically handles "nature" in two ways: lyrical (writing sea waves as longing) or advocacy (shouting about protecting the environment). Cicada takes a third path: sonic documentary. Treating nature as the subject of an interview, not as a backdrop for projection.
+That realization later became the philosophical foundation of all Cicada’s musical work. They turn instruments into translators of nature, without adding narration on nature’s behalf.
 
-### The Typhoon Morakot News in 2009
+> **📝 Curator’s note**
+> In Mandopop, “nature” is usually handled in two ways: lyricism (turning ocean waves into longing) or advocacy (calling for environmental protection). Cicada takes a third route: sound documentary. Nature becomes the interview subject, not a background onto which feelings are projected.
 
-The first seed of the story fell in August 2009.
+### The Typhoon Morakot News Report in 2009
 
-From August 7-9 that year, Typhoon Morakot made landfall in Taiwan, causing the worst typhoon disaster since World War II. Xiaolin village was completely obliterated, multiple mudslides struck the Kaohsiung mountain areas, and several river courses were rerouted. News footage showed entire villages swept away.
+The story’s first seed was planted in August 2009.
 
-Jesy Chiang watched that news and began composing.[^2]
+From August 7 to 9 that year, the moderate Typhoon Morakot struck Taiwan, causing the country’s deadliest typhoon disaster since World War II. Xiaolin Village was wiped out; mudslides struck many parts of mountainous Kaohsiung; multiple rivers changed course. News footage showed entire villages being swept away.
 
-The timing is crucial. Cicada was founded in 2009, almost simultaneously with Morakot. A band that carries the gene of "documenting disaster" from its very first note — this determined that all works over the next 15 years would not be "lyrical nature" but "nature as witnessed."
+Jesy Chiang watched those reports and began composing.[^2]
 
-### The Art History Graduate Student Who Played Piano
+The timing matters. Cicada was founded in 2009, almost in step with Morakot. A band that carried the gene of “documenting disaster” from its first notes would, over the next fifteen years, make work that was not “lyrical nature” but “witnessed nature.”
 
-Jesy Chiang's background differs from most musicians.
+### The Pianist with a Master’s in Art History from TNUA
 
-She holds a **Master's degree in Art History** (specializing in art criticism) from Taipei National University of the Arts — her background is not in traditional piano conservatory training.[^3] This credential determined that her compositional methodology is entirely different from classical musicians: she treats composition as **narrative construction**, not abstract form. She completes a piano solo draft first, then uses abstract imagery (for example, "a bird flying over") to let other band members translate into specific instrumental techniques.[^3]
+Jesy Chiang’s background differs from that of most musicians.
 
-She described her composition process as intuitive in interviews:
+She holds a **master’s degree in art history** from Taipei National University of the Arts, specializing in art criticism, rather than coming from a traditional conservatory piano background.[^3] That education shaped a compositional method entirely different from that of classical musicians: she treats composition as **narrative construction**, not abstract form. She first completes a solo piano draft, then uses abstract images, such as “a bird flying past,” for the other members to translate into concrete instrumental techniques.[^3]
 
-> "I'm very intuitive — when I sit at the piano and the rhythm aligns with the inner imagery, the motif emerges naturally."[^1]
+In interviews, she has described her creative process as intuitive:
 
-Describing the water-current rhythm of the title track from 2022's _Residing above the River's Source_, she said:
+> “I’m very intuitive: when I sit at the piano and the rhythm aligns with the image inside me, the motif naturally appears.”[^1]
 
-> "When you encounter a rock, the feeling is 'whoa?' — and then you flow around the side."[^1]
+Describing the water-flow rhythm in the title track of 2022’s _Seeking the Sources of Streams_, she said:
 
-This mode of description is very art-history: treating sound as visual imagery, treating rhythm as narrative verb. Her other profession is **publishing editor**. She has run both jobs in parallel for 15 years — editing books by day, composing by night. This dual daily routine prefigures the pace of Cicada's consistent output over the years: slow, steady, each album with a distinct theme.
+> “When you encounter a rock, it feels like, ‘Whoa?’ And then you flow past it from the side.”[^1]
 
-The current Cicada lineup consists of four people: **Jesy Chiang** (piano, composition, lead), **Hsu Kang-kai** (violin), **Yang Ting-chen** (nickname Peach, cello; a professional performer who attended a music-focused elementary school and graduated from a music university), and **Hsün Yu-yang** (nickname Xiao Cai, acoustic guitar).[^4]
+This way of speaking is very art-history-department: treating sound as visual imagery and rhythm as a narrative verb. Her other profession is **publishing editor**. She has done both jobs for fifteen years, editing books by day and composing by night. That dual-working life foreshadows Cicada’s long-standing production rhythm: slow, steady, and with a theme for every album.
 
-Through all 15 years, not a single song has contained a human voice.
+The current Cicada has four members: **Jesy Chiang** (piano, composition, bandleader), **Hsu Kang-kai** (violin), **Yang Ting-chen** (nickname Peach, cello; a professional performer who attended music classes in elementary school and graduated from a music university), and **Hsün Yu-Yang** (nickname Hsiao Tsai, acoustic guitar).[^4]
 
-### Telephone Poles Growing from the Water on the Western Coast
+Across the entire fifteen years, not one song has included vocals.
 
-In 2011, White Wabbit Records released Cicada's first full-length album, _Scattered Time_, recorded at Lirifeng Studio on a vintage piano with multi-track simultaneous recording.[^5] The album's style had not yet fully developed — the original version had an "indie rock flavor" and was occasionally categorized as post-rock by critics; it was not until the 2020 reissue that it was reworked into a pure neo-classical version.[^5] This detail matters: it took Cicada almost ten years to polish their sound into its final form.
+### Utility Poles Growing Out of the Water on the West Coast
 
-The 2013 album _Coastland_ was the turning point.
+In 2011, White Wabbit Records released Cicada’s first full-length album, _Pieces_, recorded on a vintage piano at Lirifeng Studio using multitrack live recording.[^5] The album’s style had not yet fully formed. The original version had an “indie rock flavor” and was sometimes classified by critics as post-rock; only the 2020 reissue became a purely neo-classical version.[^5] This detail matters: Cicada spent nearly a decade refining their own sound.
 
-Shifting from personal relationship themes to territorial issues, Jesy Chiang chose a subject rarely seen in Taiwan's media landscape — the degradation of the western coastline. Land subsidence, salinification from aquaculture, rising sea levels — these problems had been accumulating for decades, occasionally reported once in the media then forgotten. That year the band personally visited four specific sites along the coastline: Fangyuan in Changhua, Chenglong Wetlands in Kouhu, Mailiao, and Budai in Chiayi, traveling south along the border between land and sea.[^6] Jesy Chiang, looking back at that field research trip, left behind one very precise impression:
+_ Coastland_ (2013) was the turning point.
 
-> "The western coast has a grey tone — telephone poles grow out of the water — it's hard to feel pure happiness."[^6]
+Moving from personal relationships to territorial issues, Jesy Chiang chose a subject rarely visible in Taiwan’s media: the degradation of the west coast. Land subsidence, salinization from aquaculture, and sea-level rise had been accumulating for decades, with media attention appearing only briefly before disappearing again. That year, the band personally visited four specific places: Fangyuan in Changhua, Chenglong Wetlands in Kouhu, Yunlin, Mailiao, and Budai in Chiayi, moving south along the coastal land-sea boundary.[^6] Looking back on that field research, Chiang left one precise impression:
 
-"Telephone poles growing out of the water" is a concrete, visual object: once land subsidence and rising sea levels set in, telephone poles that once stood on land end up protruding from the sea. The disappearance of Taiwan's western coastland, the subsiding aquaculture land, the salinifying farmland — these processes are all **concrete enough to photograph**, not abstract environmental concerns.
+> “The west coast has a gray tone. Utility poles grow out of the water. It’s hard to feel pure happiness.”[^6]
 
-Cicada documented this scene in instrumentation. No lyrics saying "our land is disappearing," no chanting "protect the coast" — only piano, violin, cello, and acoustic guitar simulating the soundscape of sea wind, tides, salt, and ruins.
+“Utility poles growing out of the water” is a concrete, visual object: after land subsidence and sea-level rise, poles that were once on land now appear to be thrusting up from the sea. The disappearance of land on Taiwan’s west coast, aquaculture-induced subsidence, and farmland salinization are processes **concrete enough to photograph**, not abstract environmental issues.
 
-### The Scuba Diving Training in Orchid Island
+Cicada documented this scene through instrumental music. There are no lyrics saying “our land is disappearing,” no slogan shouting “protect the coast,” only piano, violin, cello, and acoustic guitar simulating the soundscape of sea wind, tides, salt, and ruins.
 
-From _Coastland_ to the 2017 album _Where Have You Gone_ (White Forest), the band's lens shifted from the land's surface to the ocean floor.[^7] The trigger was a training session: Jesy Chiang joined volunteer training with Taiwan Wild at Heart Legal Defense Association, learned scuba diving for the first time, dived into the sea off Orchid Island for the first time, and personally entered a coral reef ecosystem for the first time. Every subject animal (Chinese white dolphin, dolphins, coral, sea turtles, city cats, highland birds) on [_Where Have You Gone_](https://www.youtube.com/watch?v=gMmOmU5J3U8) corresponded to a scene she witnessed underwater.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/eRjISXfltXM" title="Cicada - 匯流向海 into the Ocean《邊境消逝》" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-"The only thing you can control is your breath" is the realization she came to during this training.[^1] This understanding later became the structural foundation of all Cicada music: **you cannot control nature — you can only respond to it with your instruments**.
+_Cicada’s official channel, “into the Ocean,” from 2013’s \_Coastland_, the band’s most-viewed work. The strings write the process by which degraded west-coast land eventually flows back into the sea.\_
 
-Tracks like "Fly" use instruments to simulate the rhythm of dolphins swimming, the extension of humpback whale long calls, the light and shadow of coral reefs.[^8] At the time, the conflict between offshore wind development and Chinese white dolphin habitat was a focal environmental issue in Taiwan — Cicada engaged in no advocacy activities, simply preserving the **sounds** of that period of history.
+### From the West Coast to the East Coast
 
-### The Sudden Downpour at Jiaming Lake
+_Coastland_ followed the west coast. Two years later, in 2015, Cicada turned the camera across the Central Mountain Range to the other side of the country: _Light Shining Through the Sea_ writes Taiwan’s east coast and the Pacific that surrounds eastern Taiwan.[^19]
 
-In June 2018, the band hiked to Jiaming Lake.[^9] During that trek they encountered a violent rainstorm. That rain later became an important piece on the 2019 album _Hiking in the Mist_ — the track "Sudden Downpour."
+If the west coast’s keyword is “degradation” (land subsidence, utility poles growing out of the water), the east coast’s keyword is “openness.” Jesy Chiang uses music to simulate the sea in its many states: elusive currents, long waves held high, broken waves beside reefs, and foam repeatedly brushing the shore. It is still the sea, but the west is gray-toned disappearance, while the east is brightness shining down through the surface.
 
-This process reveals Cicada's field methodology: **the anchor point of each work is a specific present-tense moment**, not a conceptual "mountain" or "forest." After the 2018 Jiaming Lake trip, the band members continued hiking Qilai South Peak and Hehuan North Peak, each trek becoming source material for a particular song.[^9]
+The album also planted a line easily overlooked: it was the starting point of Cicada’s relationship with the Japanese label flau, with one track selected for flau’s compilation _Ocean_. A Taiwanese instrumental band had already begun finding its place in Japan’s environmental-music circles in 2015. Ten years later, _Gazing the Shades of White_ would bring that line back to the surface.[^19]
 
-Guitarist Hsün Yu-yang (Xiao Cai) later described the qualitative change in the band during this phase with a very precise term:
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/2k0fMZFXc2E" title="Cicada - 越過海岸山脈 Over Coastal Range《仰望海平面》Light Shining Through the Sea" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-> "Like a documentary."[^10]
+_Cicada’s official channel, “Over Coastal Range,” from 2015’s \_Light Shining Through the Sea_, one of the band’s most-viewed singles. The camera crosses the Coastal Mountain Range from the west coast and lands on the Pacific in eastern Taiwan.\_
 
-This phrase creates a clear contrast with Cicada's earlier aesthetic. The early _Scattered Time_ (2011) was "impressionistic of mountain-climbing" — band members looking back at mountains through the filter of their own emotions; _Hiking in the Mist_ began turning toward "documentary-style," stepping back to let the mountain speak for itself. On the surface it appears to be a change in mode of expression; what truly changed was the **relationship between creator and subject**: from lyrical subject to witness.
+### The Dive Training on Lanyu
 
-[_Hiking in the Mist_](https://www.youtube.com/watch?v=gt6YA7spbeQ) was nominated for Best Instrumental Album Producer at the 31st Golden Melody Awards.[^10] This was the first formal recognition in the Golden Melody Award system for a fully instrumental, vocally silent band that doesn't use idol distribution channels.
+From _Coastland_ to 2017’s _White Forest_, the band’s camera moved from land to the seabed.[^7] The trigger was a training program: Jesy Chiang joined the Society of Wilderness’s volunteer training, learned to dive for the first time, entered the sea off Lanyu for the first time, and personally entered a coral-reef ecosystem for the first time. Each of the focal animals in [_White Forest_](https://www.youtube.com/watch?v=gMmOmU5J3U8), including the Taiwanese white dolphin, dolphins, corals, sea turtles, urban cats, and alpine birds, corresponds to a scene she witnessed during a dive.
 
-### Tanhsiwan, Tsuitsuiku, the Danda River Source, Fairyland
+“The only thing you can control is your breathing” was the realization she gained during this training.[^1] That awareness became the structural basis of all Cicada’s music afterward: **you cannot control nature; you can only respond to it with your instruments**.
 
-The 2022 album _Residing above the River's Source_ represents the ultimate expression of Cicada's field methodology.
+Pieces such as “Fly” use instruments to simulate the rhythm of dolphins swimming, the extended long tones of humpback whales, and the light and shadow of coral reefs.[^8] At the time, conflicts between offshore wind development and the habitat of the Taiwanese white dolphin were a major environmental issue in Taiwan. Cicada did not intervene in advocacy campaigns; they simply preserved the **sound** of that history.
 
-Jesy Chiang led the band members on a **15-day, 120-kilometer** trekking expedition, crossing four valleys of the Central Mountain Range: **Tanhsiwan → Tsuitsuiku → Danda River Source → Fairyland**.[^11] The expedition's destination was special — they were seeking the **headwaters of a river**, not a mountain summit.
+### The Sudden Rain at Jiaming Lake
 
-This choice of subject is itself a major aesthetic leap for Cicada. From coastline (2013), ocean (2017), mountain forest (2019), to river headwaters (2022), the places they document became increasingly deep, increasingly hidden. Jesy Chiang returned from the expedition with a realization:
+In June 2018, the band hiked to Jiaming Lake.[^9] During that trek, they encountered a rainstorm. That rain later became “Shower,” an important piece on 2019’s _Hiking in the Mist_.
 
-> "The river's source is not a single location — it is the collective sum of pools throughout the valley plus underground flows."[^11]
+This process reveals Cicada’s fieldwork method: **the anchor of a work is a concrete present-tense moment**, not the conceptual idea of “mountain” or “forest.” After that Jiaming Lake trip in 2018, the members continued hiking to Qilai South Peak and Hehuan North Peak, with each trek becoming material for a specific song.[^9]
 
-This understanding is precisely reflected in the musical structure. The title track of [_Residing above the River's Source_](https://www.youtube.com/watch?v=yM15Y3e_pBU) runs 11 minutes, containing temporal variations that mimic water flowing around stones, the texture of forest birds, the timbre of wind through the trees — it writes the sounds of an entire **watershed**, not a single point. The album has 9 tracks ranging from 1 to 11 minutes in length, presenting different scenes from the expedition.[^11]
+Jesy Chiang herself described this shift most accurately. She has said directly that her creation is like making a documentary: once she finds the subject she wants to document, she immerses herself in it, waits for events to happen, and gathers every flash of inspiration along the way; the members’ work is to discover, beyond the core of the composition, things that have not yet been found but need to exist.[^10]
 
-The band ran a FlyingV crowdfunding campaign to complete this album, releasing it on December 27, 2022. A music film was produced simultaneously, filmed on-site in the mountains.[^12]
+This stands in clear contrast with Cicada’s earlier aesthetics. Early _Pieces_ (2011) was “mountaineering impressionist,” with the members looking back at mountains through their own emotional filters; with _Hiking in the Mist_, they began taking a step back and letting the mountains speak for themselves. On the surface, it was a change in expression. What truly changed was **the relationship between creators and subject matter**: from lyrical subject to witness.
 
-> **📝 Curator's note**
-> The numbers "15 days, 120 kilometers, four valleys" are themselves an MRI image of Cicada's methodology: a complete geographic documentary, not a casual day trip.
+[_Hiking in the Mist_](https://www.youtube.com/watch?v=N8IWlIVktp0) was nominated for Best Instrumental Album Producer at the 31st Golden Melody Awards.[^10] This marked the first formal recognition within the Golden Melody Awards system for an all-instrumental, vocal-free band outside the idol industry.
 
-### Ishikawa Kei's _A Man_
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/wDlyIutBXq4" title="Cicada - 降落在金黃色草坡 Sunlit Grassland《走入有霧的森林》" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-Between 2021 and 2023, Cicada took on the film score for Japanese director **Ishikawa Kei's** film _A Man_ (Aru Otoko / ある男).[^13] After the film's 2022 release, it received recognition at multiple major Japanese film festivals, becoming one of the most highly anticipated works of that year.
+_Cicada’s official channel, “Sunlit Grassland,” from 2019’s Golden Melody-nominated \_Hiking in the Mist_. Acoustic guitar and strings descend onto the alpine grass slopes around Jiaming Lake.\_
 
-Jesy Chiang's observation about this collaboration:
+### “I Want It to Feel Like a Bird Flying Toward Us”
 
-> "I realized that the band's authentic sound itself was the reason he was attracted to us."[^13]
+Cicada’s scores often lack conventional performance markings. Jesy Chiang’s interpretation of a musical passage might be a single abstract sentence: “I want it to feel like a bird flying toward us.” When the members receive the score, they have to translate that feeling into something actually audible on bowed strings, adding dynamics, changing technique, and turning “a bird” into sound.[^10] Acoustic guitarist Hsün Yu-Yang (Hsiao Tsai) once explained how he translated one image: “Chieh wanted me to become a little insect, flying around independently in my own small world. So I started imagining that if I were a little ladybug, there would be the sound of wings, and I would walk and stop, trying to see the world from a more microscopic angle and weave cute sounds with the guitar.”[^11]
 
-This was Cicada's first cross-border entry into mainstream commercial cinema, and the mode of collaboration itself was distinctive: Ishikawa Kei didn't ask them to change their style for the film — he placed the band's existing sonic aesthetic directly into the film. What he was seeking was a **methodology**, not a film composer.
+Not everyone accepts this approach without friction. Violinist Hsu Kang-kai is the rationalist in the band, and he cannot stand having to tell a story before everything else: “I really hate always talking about _fu_ [feeling]. Put everyone together first, then talk to me about _fu_. Every time, she [Jesy Chiang] insists on telling the story first. If you start from the story, it’s too slow, too abstract.”[^22] One person composes through imagery; another wants to assemble the notes first before talking about feeling. This tension has not been smoothed away. Instead, it is why Cicada’s sound can be both delicate and structurally firm.
 
-From October to November 2024, Cicada completed a Japan tour: Tokyo (Oct. 20), Nagoya (Oct. 10), Omotesando ARC (Nov. 4), Unit Dome Festival (Oct. 27).[^14] During the tour the Japanese Agency for Cultural Affairs supported free admission for students; there was also a Taiwanese mini-market at the same venues. The scale of this tour confirmed their standing in Japan's post-classical circles.
+After more than a decade of practice, the four instruments have each developed their own ability to simulate nature: Cicada’s guitar makes the sound of wind, the violin makes the flapping of flocks of birds, and the cello makes the sound of streamwater moving through land.[^10] Here, instruments become nature’s vocal cords.
 
-### What Is "In Between"
+For these sounds to truly feel as if they come from the same site, even the recording method has to change. Cicada could easily use the most efficient industrial standard and record each part separately, but they insist on live recording together to “ensure that every player can hear one another in the moment, which is to ensure that everything from the low-frequency deep sea to the high-frequency sea spray comes from the same instant.”[^22] And for a band with no drums and no rhythm section, how should tempo be held? The answer is to return the metronome’s work to human beings: the members guide one another through eye contact and nods, on the condition that they have practiced precisely with a metronome beforehand, so that the machine can be put away during performance.[^23]
 
-On July 19, 2024, Cicada released _Returning_ (Coastland Revisited), their **15th-anniversary retrospective collection**.[^15]
+The clearest illustration of this method is a mountain. On the 2018 Jiaming Lake trip, three members brought back three entirely different kinds of material: Kang-kai remembered the afternoon rainstorm on the way back to the mountain hut; Ting-chen’s strongest impression was of lively mice in the hut at night; another member liked the mist filling the mid-elevation forest road.[^24] One mountain, several different pairs of ears, and finally an album assembled from them. This is how Cicada can tell stories without writing a single lyric: each thing caught on site is handed to the appropriate instrument for translation.
 
-This is not an entirely new album — it is a **reinterpretation** of existing tracks from _Coastland_ (2013 western coast), _Gazing at the Sea Level_, _Where Have You Gone_ (2017 ocean), and other earlier albums. Why this move at the 15th anniversary? Jesy Chiang's answer explains it:
+### Tanxiwan, Cuicui Valley, the Source of the Danda River, Fairyland
 
-> "After focusing on river sources, I began to focus on 'in between' — between mountain and mountain, between mountain and water, between forest and land."[^15]
+_Seeking the Sources of Streams_ (2022) is the fullest expression of Cicada’s fieldwork method.
 
-This "in between" represents the final stage of Cicada's 15-year methodology. They have already documented specific places (coastline, ocean, mountain, river headwaters); what they now wish to document is **the gap between place and place**: those spots that cannot be named, the process of connecting one place to another.
+Jesy Chiang led the members on a **15-day, 120-kilometer** trekking expedition through four valleys in the Central Mountain Range: **Tanxiwan → Cuicui Valley → the source of the Danda River → Fairyland**.[^11] The expedition’s goal was unusual: they were going to **the source of a river**, not to a mountain summit.
 
-Reinterpreting the coastal pieces written 11 years ago is the concrete practice of this "in between" concept: from the band that had just begun field work in 2013, to the band bearing 15 years of methodology in 2024, what is the "in between" period? This album is the answer.
+This subject choice itself was a major leap in Cicada’s aesthetics. From coasts (2013), oceans (2017), and mountain forests (2019) to stream sources (2022), the places the band documents have become deeper and more hidden. Chiang returned from the expedition with one realization:
 
-### The Cicada's Philosophy of Witnessing
+> “A stream source is not a single place. It is the entire valley’s pools plus its underground water flow.”[^11]
 
-To understand why Cicada is unique, one must start from the philosophical foundation of their entire methodology.
+That understanding is precisely reflected in the musical structure. The title track of [_Seeking the Sources of Streams_](https://www.youtube.com/watch?v=yM15Y3e_pBU) runs eleven minutes and contains changing durations for water flowing around rocks, textures of forest birds, and the timbres of wind among trees. It writes the sound of an entire **watershed**, not a single point. The album has nine tracks ranging from one to eleven minutes, presenting different scenes from the expedition.[^11]
 
-Most musical works that deal with "nature" or "environment" themes use one of two approaches: **lyrical** (writing sea waves as longing) or **advocacy** (using lyrics to call for protecting the environment). Cicada takes a third path: **sonic documentation**. Band members describe their role in natural contexts as like **elements** — wind, whale, tree, flowing water.[^1] Instruments serve as nature's vocal cords.
+The band completed the album through crowdfunding on FlyingV and released it on December 27, 2022. A music film shot on site in the mountains was released at the same time.[^12]
 
-This philosophy has concrete correspondences in the music: guitar creates wind sounds, violin simulates the beating of bird wings, cello is the low frequency of water flowing over land; temporal values correspond to the rhythm of water flowing around stones and the arc of bird flight; textural density corresponds to different ecosystems — sparse in deep ocean, dense in forest, rhythmic in rivers. The recording arrangements for each album conform to these rules.
+> **📝 Curator’s note**
+> “15 days, 120 kilometers, four valleys” is itself an MRI image of Cicada’s method: a full geographical documentary, not a casual walk.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/W2HBuO5SC40" title="Cicada - 巨木曾在的痕跡 Remains of Ancient Trees《棲居在溪源之上》" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Cicada’s official channel, “Remains of Ancient Trees,” from 2022’s \_Seeking the Sources of Streams_, one of the band’s most widely heard recent pieces. The acoustic guitar’s pulse is the trace of giant trees that once stood in the cypress forest.\_
+
+### Kei Ishikawa’s _A Man_
+
+In 2022, Cicada took on the score for Japanese director **Kei Ishikawa**’s film _A Man_ (_Aru Otoko_). It was the band’s first international commission. The opportunity came about simply: the members had seen and liked Ishikawa’s previous film _Listen to the Universe_, while Ishikawa wanted an Asian sound. His instruction to Cicada was only one sentence: what he wanted most was the most Cicada-like sound.[^13]
+
+The film tells the story of a man living inside someone else’s life. Jesy Chiang’s solution is hidden in the intervals: she deliberately separated two notes by a seventh to express the condition of being clearly someone else while still retaining something of oneself.[^13] The following year, this refusal to alter themselves for the film was recognized: at the 46th Japan Academy Film Prize, _A Man_ won eight major awards including Picture of the Year, and Cicada received the Outstanding Achievement in Music award for the score.[^26]
+
+Film scoring was not entirely new to Cicada. As early as 2017, they had written the soundtrack for director Chen Hung-i’s feature _The Last Painting_. Jesy Chiang wrote sixteen pieces in one stretch, joined the project before the screenplay was finalized, and some members even appeared in the film.[^21] What made _A Man_ different was that it was Cicada’s first entry into a mainstream film industry across national borders. Ishikawa’s use of them was also unusual: he barely asked Cicada to change anything for the film. The band’s entire aesthetic was placed directly into the movie. For him, Cicada’s way of turning nature into sound was itself what he wanted.
+
+In June 2024, Cicada completed a Japan tour: Hayakawa Soko in Kumamoto (June 1-2), Musashino Civic Cultural Hall in Tokyo (June 7), Sanda in Hyogo (June 8), and finally the planetarium at Subaru Hall in Tondabayashi, Osaka (June 9).[^14] This tour followed _A Man_’s Japan Academy Film Prize wins and was the band’s third visit to Japan, confirming their established position in Japan’s post-classical scene.
+
+### What Is “Between”?
+
+On July 19, 2024, Cicada released _Coastland Revisited_, the band’s **fifteenth-anniversary self-selected compilation**.[^15]
+
+It is not an entirely new album. It is a **reinterpretation** of pieces from earlier albums including _Coastland_ (2013, west coast), _Light Shining Through the Sea_, and _White Forest_ (2017, ocean). Why choose this act for the fifteenth anniversary? Jesy Chiang’s explanation gives the answer:
+
+> “After focusing on stream sources, I began to pay attention to ‘between’: between mountain and mountain, between mountain and water, between forest and land.”[^15]
+
+This “between” is the final stage of Cicada’s fifteen-year method. They have already documented concrete places: coasts, oceans, mountains, and stream sources. Now they want to document **the gaps between places**: sites without names, the process that connects one place to another.
+
+Reinterpreting coastal pieces written eleven years earlier is the concrete practice of this “between” concept. What lies between the band that had just begun fieldwork in 2013 and the band carrying fifteen years of method in 2024? This album is the answer.
+
+### _Gazing the Shades of White_: Leaving Taiwan for the First Time
+
+For fifteen years, the places Cicada documented were all in Taiwan. In October 2025, that changed for the first time.
+
+_Gazing the Shades of White_ is the band’s first album to take its fieldwork beyond national borders, released by the Japanese label flau, the same label connected to _Light Shining Through the Sea_ ten years earlier.[^20] In autumn 2024, Jesy Chiang personally flew to Iceland and Greenland to visit sites of glacial melt.[^25] She put it directly: “Over the past 10 years, we have continued composing for Taiwan’s mountains and seas. This time, we wanted to expand our view outward and connect to other island countries that seem distant.”[^25]
+
+The journey followed ice: Greenland’s Ilulissat Icefjord, where massive ice bodies float on the sea; Iceland’s highlands, where glaciers meet traces of volcanic lava, and broken ice quietly melts into time. But Chiang did not only want to record grandeur. She said the real “motivation that brought me here was that all of these places are undergoing dramatic change,” and that she wanted to use music to “strengthen the desire to protect.”[^25]
+
+How does climate change enter a song without lyrics? In the title track, “Gazing the Shades of White,” Chiang uses a single note, “B,” to refer to floating ice, then uses violin arpeggios to chase the speed of climate change, moving from slow to urgent and pressing toward the irreversible tipping point.[^25] You hear no sentence saying “the glaciers are melting,” but that acceleration and irreversibility are written entirely into the strings.
+
+Then the camera turns back to Taiwan.
+
+At the album’s end, Chiang brings this cross-hemispheric glacier journey back to Xueshan. The scree slopes of Xueshan’s cirque and the Taiwan junipers beside Cui Pond are among the few recognized glacial relics in Taiwan’s high mountains, dating from the Last Glacial Period more than 20,000 years ago.[^27] The album’s “Junipers by the Glacier Lake” is written about this place. A subject that sounds least “Taiwanese,” glaciers in the polar regions and New Zealand, ultimately lands on Taiwan’s own mountains.
+
+They traveled so far, yet the point of arrival remains Taiwan. What Cicada has written for sixteen years has never been “Taiwan” as an abstract theme, but places personally walked as the ground of composition. When that ground expands to the disappearing ice of the entire planet, returning home makes it possible to see the glacial relic on Xueshan that most Taiwanese people have never heard of.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/QTAcuOhr2KU" title="Cicada - 凝視白色的邊界 Gazing the Shades of White (Official MV)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Cicada’s official channel, official MV for the title track “Gazing the Shades of White,” 2025. The images show glaciers and snowlines in Greenland, Iceland, New Zealand, and Taiwan’s Xueshan._
+
+### The Witnessing Philosophy of Cicada
+
+To understand why Cicada is distinctive, one has to begin with the philosophical basis of their entire method.
+
+Most musical works that handle “nature” or “environment” use one of two approaches: **lyricism** (turning ocean waves into longing) or **advocacy** (using lyrics to call for environmental protection). Cicada takes a third path: **sound documentation**. The members describe their role within natural contexts as resembling **elements**: wind, whales, trees, flowing water.[^1] The instruments’ job is to serve as nature’s vocal cords.
+
+This philosophy has concrete musical correspondences: changes in duration correspond to the rhythm of water flowing around rocks and the arcs of bird flight; textural density corresponds to different ecosystems, with the deep sea sparse, the forest dense, and rivers rhythmic. The recording arrangement for every album matches this rule.
 
 ### Those Places Are Still There
 
-Fifteen years, approximately nine albums — Cicada has left behind a rare practice in Mandarin independent music: **a fully instrumental, vocally silent band that refuses idol distribution channels, using personally visited places as the foundation of musical creation**. From the telephone poles growing out of the western coast, to breathing beneath the coral reefs of Orchid Island, to the sudden downpour at Jiaming Lake, to the cypress forests at the Danda River source — they have used instrumentation to write Taiwan's specific geography into a sonic archive that can be repeatedly listened to.
+Across sixteen years and roughly ten albums, Cicada has left behind a rare practice in Sinophone independent music: **an all-instrumental, vocal-free band that refuses the idol route and uses places they have personally walked as the foundation of musical creation**. From utility poles growing out of the water on the west coast, to breathing beneath Lanyu’s coral reefs, to that sudden rain at Jiaming Lake, to the cypress forest at the source of the Danda River, and finally to ancient glacial relics atop Xueshan, they have used instrumental music to write concrete geography into a sound archive that can be heard again and again.
 
-This archive will outlive advocacy-style environmental songs. Because it does not depend on the issues of the era, does not depend on crowd emotion — it depends only on one simple fact: those places are still there, waiting to be walked again, to be documented again.
+This archive will outlive advocacy-style environmental songs. It does not depend on topical issues or collective emotion, only on a simple fact: those places are still there, waiting to be walked again, documented again.
 
-In Taiwan of 2026, the environment continues to retreat: coastlines continue to erode, coral continues to bleach, forests continue to fall. And Cicada's next backpack is already being packed.
+Only by _Gazing the Shades of White_ has that fact begun to crack. Taiwan’s coasts are still eroding, corals are still bleaching, mountain forests are still under pressure; and the glaciers of Greenland and Iceland are disappearing from the map at even greater speed. Some places may not wait for the next visit. When Cicada records them, what is being recorded is already a present tense in the act of disappearing.
 
-The name "Cicada" was always a declaration of this work: don't look for us with your eyes — use your ears.
+The name Cicada was the declaration of this work all along: do not look for us with your eyes; use your ears.
+
+### Works Chronology: Sixteen Years of Sound Archives
+
+From 2011 to 2025, Cicada’s official albums and film scores. Representative tracks on the official channel are in parentheses; click through to listen directly.
+
+- **2011 _Pieces_** (White Wabbit Records; 2020 neo-classical reissue) — [Pieces](https://www.youtube.com/watch?v=2ijtYd6VGyY), [Farewell](https://www.youtube.com/watch?v=KU28BTLeonQ), [Lake's End](https://www.youtube.com/watch?v=lXK3l1MKZM4)
+- **2013 _Coastland_** (west-coast degradation) — [into the Ocean](https://www.youtube.com/watch?v=eRjISXfltXM), [Blooms in Dark](https://www.youtube.com/watch?v=A2drYr5DMaY), [Flapping Wings](https://www.youtube.com/watch?v=F1gP_IKBkSE)
+- **2015 _Light Shining Through the Sea_** (east coast and Pacific) — [Over Coastal Range](https://www.youtube.com/watch?v=2k0fMZFXc2E), [Ocean Foam](https://www.youtube.com/watch?v=QpRuSDvorBc), [Rolling Waves](https://www.youtube.com/watch?v=o8BDZKuH-tg)
+- **2017 _The Last Painting_** (Taiwanese film score) — [The Last Painting Main Theme](https://www.youtube.com/watch?v=neEH7zgwusU), [The Black Eyes](https://www.youtube.com/watch?v=GlXmzLzDoPA)
+- **2017 _White Forest_** (marine ecology) — [Fly](https://www.youtube.com/watch?v=gMmOmU5J3U8), [Whale Family](https://www.youtube.com/watch?v=n9cOdGbuq9g), [Dolphins Leap](https://www.youtube.com/watch?v=leplfKMIHkI)
+
+After 2019, the places moved from mountain forests and stream sources all the way to glaciers in the Northern and Southern Hemispheres:
+
+- **2019 _Hiking in the Mist_** (nominated at the 31st Golden Melody Awards) — [Hiking in the Mist](https://www.youtube.com/watch?v=N8IWlIVktp0), [Sunlit Grassland](https://www.youtube.com/watch?v=wDlyIutBXq4)
+- **2022 _Seeking the Sources of Streams_** (15-day, 120-kilometer Central Mountain Range expedition) — [Seeking the Sources of Streams title track](https://www.youtube.com/watch?v=yM15Y3e_pBU), [Remains of Ancient Trees](https://www.youtube.com/watch?v=W2HBuO5SC40)
+- **2022 _A Man_ / _Aru Otoko_** (directed by Kei Ishikawa; Japanese film score)
+- **2024 _Coastland Revisited_** (fifteenth-anniversary self-selected compilation) — [Coastland Revisited fifteenth-anniversary compilation preview](https://www.youtube.com/watch?v=WrJY5l6UwOI), [Fifteenth-anniversary concert, Cloud Gate Theater Live](https://www.youtube.com/watch?v=wS8vyGAuK4A)
+- **2025 _Gazing the Shades of White_** (glaciers in the Northern and Southern Hemispheres; released by flau) — [Gazing the Shades of White](https://www.youtube.com/watch?v=QTAcuOhr2KU), [Embraced by Aoraki](https://www.youtube.com/watch?v=qveRQel127k), [Journey of Drifting Ice](https://www.youtube.com/watch?v=YDsxRuJ1bic)
+
+Full albums, MVs, and performance records are available on [Cicada’s official YouTube channel](https://www.youtube.com/@Cicadatw).[^18]
 
 **Further reading:**
 
-- Waa Wei — belonging to the same 2010s independent music ecosystem, taking the vocal rather than instrumental path
-- Chthonic — emerging in the same period but taking the outward-facing angry band path as a counterpoint
-- Sunset Rollercoaster — within the post-rock spectrum, taking the vocal narrative path
-- Lu Kuang-chung — another path in independent music
-- Pop Music and the Golden Melody Awards — the institutional context of Cicada's Best Instrumental Album nominations
-- Taiwan Independent Music — the independent music spectrum post-2010s
-- Taiwan Forest Ecosystems — the landscape context of Cicada's _Hiking in the Mist_ and _Residing above the River's Source_
-- Taiwan Marine Ecology — the ecological background for the band's 2017 ocean-themed album
-- Taiwan Mountains and Climbing Culture — the context for Jesy Chiang's mountaineering philosophy
+- [Waa Wei](/people/魏如萱) — Part of the same 2010s independent music ecosystem, but following a vocal rather than instrumental path
+- [No Party for Cao Dong](/people/草東沒有派對) — A comparison case from the same era, but following the path of an outward-facing, angry band
+- [Constant & Change](/people/康士坦的變化球) — Also on the post-rock spectrum, but following a vocal narrative path
+- [Crowd Lu](/people/盧廣仲) — Another path through independent music
+- [Popular Music and the Golden Melody Awards](/music/流行音樂與金曲獎) — The institutional context of Cicada’s Golden Melody nomination for Best Instrumental Album
+- [Taiwan Independent Music](/music/台灣獨立音樂) — The independent-music spectrum after the 2010s
+- [Taiwan’s Forest Ecosystems](/nature/台灣森林生態系) — The landscapes behind Cicada’s _Hiking in the Mist_ and _Seeking the Sources of Streams_
+- [Taiwan’s Marine Ecology](/nature/台灣海洋生態) — The ecological background of the band’s 2017 ocean-themed album
+- [Taiwan’s Mountains and Mountaineering Culture](/nature/台灣山岳與登山文化) — The context of Jesy Chiang’s mountaineering philosophy
 
 ## References
 
-[^1]: [Jesy Chiang's compositional methodology and scuba diving epiphany — IN IN TO MUSIC](https://inintomusic.asia/cicada-interview/) — Jesy Chiang describes her methodology: "I'm very intuitive — when I sit at the piano and the rhythm aligns with the inner imagery, the motif emerges naturally"; describing _Residing above the River's Source_ water-current rhythm: "When you encounter a rock, the feeling is 'whoa?' — and then you flow around the side"; Orchid Island scuba diving epiphany: "The only thing you can control is your breath" and "You must be honest with yourself."
+[^1]: [Jesy Chiang’s creative method and diving realization - IN IN TO MUSIC](https://inintomusic.asia/cicada-interview/) — Jesy Chiang describes her creative method: “I’m very intuitive: when I sit at the piano and the rhythm aligns with the image inside me”; describes the water-flow rhythm in _Seeking_: “When you encounter a rock, it feels like, ‘Whoa?’ And then you flow past it from the side”; Lanyu diving realization: “The only thing you can control is your breathing” and “You have to be honest with yourself.”
 
-[^2]: [Cicada's founding and 2009 Typhoon Morakot trigger — Filmaholic interview](https://filmaholic.tw/people/6447820afd897800016ff354/) — In 2009 Jesy Chiang began composing after watching Typhoon Morakot news; Cicada was founded almost simultaneously with Morakot in 2009; the gene of "documenting disaster" determined the style of all subsequent 15 years of work.
+[^2]: [Cicada’s founding and the 2009 Typhoon Morakot trigger - Filmaholic interview](https://filmaholic.tw/people/6447820afd897800016ff354/) — In 2009, Jesy Chiang began composing after watching news about Typhoon Morakot; Cicada was founded in 2009 almost in step with Morakot; the gene of “documenting disaster” shaped the style of the next fifteen years of work.
 
-[^3]: [Jesy Chiang's Taipei National University of the Arts art history M.A. background — Amouter ghost](https://amouter.ghost.io/mei-yi-ci-deng-shan-du-shi-yi-ci-hui-dao-zi-ji-de-lian-xi-zhuan-fang-cicada-gang-qin-shou-jiang-zhi-jie/) — Jesy Chiang's M.A. in art history (art criticism specialization) from TNUA, not a traditional piano conservatory background; treats composition as narrative construction rather than abstract form; dual profession: publishing editor + Cicada pianist.
+[^3]: [Jesy Chiang’s TNUA art-history master’s background - Amouter ghost](https://amouter.ghost.io/mei-yi-ci-deng-shan-du-shi-yi-ci-hui-dao-zi-ji-de-lian-xi-zhuan-fang-cicada-gang-qin-shou-jiang-zhi-jie/) — Jesy Chiang holds an M.A. in Art History from Taipei National University of the Arts, specializing in art criticism, rather than coming from a traditional piano conservatory background; she treats composition as narrative construction rather than abstract form; dual profession: publishing editor + Cicada pianist.
 
-[^4]: [Cicada current 4-person lineup — White Wabbit Records official page](https://news.wwr.com.tw/site/artists/cicada) — Current four members: Jesy Chiang (piano, composition, lead), Hsu Kang-kai (violin), Yang Ting-chen (cello; attended music-focused elementary school, graduated from music university), Hsün Yu-yang (Xiao Cai, acoustic guitar); stable lineup since 2022.
+[^4]: [Cicada’s current four-member lineup - White Wabbit Records official page](https://news.wwr.com.tw/site/artists/cicada) — Current four members: Jesy Chiang (piano, composition, leadership), Hsu Kang-kai (violin), Yang Ting-chen (cello; elementary-school music class + music-university graduate), Hsün Yu-Yang (Hsiao Tsai, acoustic guitar); stable lineup since 2022.
 
-[^5]: [_Scattered Time_ 2011 debut and 2020 reissue — VERSE White Wabbit 10th anniversary](https://www.verse.com.tw/article/cicada_band_white_wabbit_records) — 2011 debut full-length _Scattered Time_ released by White Wabbit, recorded on vintage piano at Lirifeng Studio; original version had "indie rock flavor" occasionally categorized as post-rock; 2020 reissue reworked into pure neo-classical version.
+[^5]: [_Pieces_ 2011 debut and 2020 reissue - VERSE, White Wabbit tenth anniversary](https://www.verse.com.tw/article/cicada_band_white_wabbit_records) — 2011 first full-length _Pieces_ released by White Wabbit; recorded on a vintage piano at Lirifeng Studio; original version had an “indie rock flavor” and was sometimes categorized as post-rock; 2020 reissue changed to a purely neo-classical version.
 
-[^6]: [_Coastland_ 2013 western coast field research — HK01](https://www.hk01.com/%E6%89%AD%E8%80%B3%E4%BB%94/420184/cicada-%E5%B1%B1%E6%9E%97%E7%9A%84%E5%95%9F%E7%99%BC-%E8%AD%9C%E5%87%BA%E5%B3%B6%E5%B6%BC%E6%A8%82%E9%9F%B3) — 2013 _Coastland_ western coastline erosion theme; visited Fangyuan in Changhua, Chenglong Wetlands in Kouhu, Mailiao, and Budai in Chiayi; Jesy Chiang quote: "The western coast has a grey tone — telephone poles grow out of the water — it's hard to feel pure happiness."
+[^6]: [_Coastland_ 2013 west-coast fieldwork - HK01](https://www.hk01.com/%E6%89%AD%E8%80%B3%E4%BB%94/420184/cicada-%E5%B1%B1%E6%9E%97%E7%9A%84%E5%95%9F%E7%99%BC-%E8%AD%9C%E5%87%BA%E5%B3%B6%E5%B6%BC%E6%A8%82%E9%9F%B3) — 2013 _Coastland_ focused on west-coast erosion; visited Fangyuan in Changhua, Chenglong Wetlands in Kouhu, Yunlin, Mailiao, and Budai in Chiayi; Jesy Chiang quote: “The west coast has a gray tone. Utility poles grow out of the water. It’s hard to feel pure happiness.”
 
-[^7]: [_Where Have You Gone_ 2017 ocean theme — VeryMulan](https://www.verymulan.com/story/%E5%B3%B6%E5%B6%BC%E5%BF%98%E4%BA%86%E6%B5%B7%E6%B4%8B%E3%80%80%E4%BD%86cicada%E8%A8%98%E5%BE%97-14223.html) — _Where Have You Gone_ released 2017-11-23; subject animals: Chinese white dolphin, coral, sea turtles, city cats, highland birds; Jesy Chiang participated in Taiwan Wild at Heart volunteer training and dived at Orchid Island, forming the field basis for this ocean-themed album.
+[^7]: [_White Forest_ 2017 ocean theme - VeryMulan](https://www.verymulan.com/story/%E5%B3%B6%E5%B6%BC%E5%BF%98%E4%BA%86%E6%B5%B7%E6%B4%8B%E3%80%80%E4%BD%86cicada%E8%A8%98%E5%BE%97-14223.html) — _White Forest_ released on 2017-11-23; focal animals include Taiwanese white dolphin, coral, sea turtle, urban cat, and alpine bird; Jesy Chiang’s participation in Society of Wilderness training and dive trip to Lanyu formed the field basis for this ocean-themed album.
 
-[^8]: [_Where Have You Gone_ "Fly" official track — Cicada YouTube](https://www.youtube.com/watch?v=gMmOmU5J3U8) — 2017 representative track "Fly" uses instruments to simulate dolphins swimming, humpback whale long calls, coral reef light and shadow; at the time, the conflict between offshore wind development and Chinese white dolphin habitat was a focal environmental issue in Taiwan; Cicada engaged in no advocacy, only preserving sonic records.
+[^8]: [_White Forest_ “Fly” official track - Cicada YouTube](https://www.youtube.com/watch?v=gMmOmU5J3U8) — 2017 representative track “Fly” uses instruments to simulate dolphins swimming, humpback whale long tones, and coral-reef light and shadow; at the time, conflicts between offshore wind development and Taiwanese white dolphin habitat were a focus of Taiwan’s environmental issues, and Cicada did not engage in advocacy but preserved a sound record.
 
-[^9]: ["Sudden Downpour" writing scene at Jiaming Lake — Amouter interview](https://amouter.ghost.io/mei-yi-ci-deng-shan-du-shi-yi-ci-hui-dao-zi-ji-de-lian-xi-zhuan-fang-cicada-gang-qin-shou-jiang-zhi-jie/) — June 2018 the band encountered a violent rainstorm during a Jiaming Lake hike, which became the writing scene for "Sudden Downpour" on 2019's _Hiking in the Mist_; they subsequently hiked Qilai South Peak and Hehuan North Peak, each trek becoming material for a specific song; work anchor points are specific present-tense moments, not concepts.
+[^9]: [The Jiaming Lake rainstorm writing site for “Shower” - Amouter interview](https://amouter.ghost.io/mei-yi-ci-deng-shan-du-shi-yi-ci-hui-dao-zi-ji-de-lian-xi-zhuan-fang-cicada-gang-qin-shou-jiang-zhi-jie/) — In June 2018, the band encountered a rainstorm while hiking to Jiaming Lake, which became the writing site for “Shower” on 2019’s _Hiking in the Mist_; later hikes to Qilai South Peak and Hehuan North Peak each became material for particular songs; the works are anchored in concrete present moments rather than concepts.
 
-[^10]: [_Hiking in the Mist_ 2019 nomination at Golden Melody 31 + Hsün Yu-yang "like a documentary" description — Filmaholic](https://filmaholic.tw/people/6447820afd897800016ff354/) — 2019 _Hiking in the Mist_ nominated for Golden Melody 31 Best Instrumental Album Producer; band member Hsün Yu-yang (Xiao Cai) described the band after _Residing above the River's Source_ as "like a documentary" (relative to the earlier "impressionistic of mountain-climbing"), marking the band's methodology shift from impression to documentation.
+[^10]: [Cicada and Jesy Chiang’s creative view, “like making a documentary,” plus _Hiking in the Mist_ nomination at the 31st Golden Melody Awards - Filmaholic](https://filmaholic.tw/people/6447820afd897800016ff354/) — Jesy Chiang describes creation as “like making a documentary. Once I find the subject I want to discuss and document, I immerse myself in it and wait for events to happen”; the members’ work is “beyond the core of the creation, to discover things that have not yet been found but necessarily exist”; her interpretation of music may be “I want it to feel like a bird flying toward us,” then concretized by the members; the article summarizes Cicada’s “guitar making the sound of wind, violin making the flapping of flocks of birds, cello making the sound of streamwater moving through land.” 2019’s _Hiking in the Mist_ was nominated for Best Instrumental Album Producer at the 31st Golden Melody Awards. Verbatim rechecked 2026-06-21.
 
-[^11]: [_Residing above the River's Source_ 15-day 120-kilometer Central Mountain Range four-valley expedition — VERSE](https://www.verse.com.tw/article/2022-cicada-album) — 2022 Jesy Chiang led band members on 15-day 120-kilometer trekking expedition, crossing four valleys of the Central Mountain Range: Tanhsiwan → Tsuitsuiku → Danda River Source → Fairyland; Jesy Chiang's realization "the river's source is not a single location — it is the collective sum of pools throughout the valley plus underground flows"; 9 tracks ranging from 1 to 11 minutes presenting different scenes from the journey.
+[^11]: [_Seeking the Sources of Streams_ 15-day, 120-kilometer expedition through four valleys in the Central Mountain Range - VERSE](https://www.verse.com.tw/article/2022-cicada-album) — In 2022, Jesy Chiang led the members on a 15-day, 120-kilometer trekking expedition through four valleys in the Central Mountain Range: Tanxiwan → Cuicui Valley → the source of the Danda River → Fairyland; Chiang’s realization: “A stream source is not a single place. It is the entire valley’s pools plus its underground water flow”; nine tracks ranging from one to eleven minutes present different scenes from the journey.
 
-[^12]: [_Residing above the River's Source_ FlyingV crowdfunding + music film — Cicada Bandcamp](https://cicada.bandcamp.com/) — Released 2022-12-27, completed via FlyingV crowdfunding; simultaneously released a music film shot on-site in the mountains; the complete realization of Cicada's documentary aesthetic.
+[^12]: [_Seeking the Sources of Streams_ FlyingV crowdfunding + music film - Cicada Bandcamp](https://cicada.bandcamp.com/) — Released 2022-12-27, completed through FlyingV crowdfunding; an eponymous music film shot on site in the mountains was released at the same time; the full realization of Cicada’s documentary-style aesthetics.
 
-[^13]: [Ishikawa Kei's _A Man_ film score receives Japan Academy Prize — Filmaholic](https://filmaholic.tw/people/6447820afd897800016ff354/) — Japanese director Ishikawa Kei selected Cicada for the score of _A Man_ (Aru Otoko); the film received Japan Academy Prize recognition; Jesy Chiang's insight: "I realized that the band's authentic sound itself was the reason he was attracted to us."
+[^13]: [Official Cicada interview for the film _A Man_ - Shochiku](https://movies.shochiku.co.jp/a-man/news/cicada/) — Kei Ishikawa chose Cicada to score _A Man_ (_Aru Otoko_), the band’s first international commission; the opportunity came because the members had seen Ishikawa’s previous _Listen to the Universe_; the director’s instruction: “一番欲しいのは、Cicadaらしい音” (what I want most is Cicada-like sound); because of the film’s theme of “living someone else’s life,” Jesy Chiang deliberately separated two notes by a seventh (original: “7度ずらして”) to express “他人なんだけどまだ自分が残っている” (clearly someone else, yet still retaining oneself). Verbatim rechecked 2026-06-21.
 
-[^14]: [2024 Cicada Japan tour — Songkick / official IG](https://www.songkick.com/artists/9298194-cicada-taiwan) — October-November 2024 Japan tour: Tokyo Oct. 20 / Nagoya Oct. 10 / Omotesando ARC Nov. 4 / Unit Dome Festival Oct. 27; Japanese Agency for Cultural Affairs supported free admission for students; Taiwanese mini-market at same venues.
+[^14]: [FLAU Cicada Japan Tour 2024 - flau official](https://flau.jp/event/cicada-japan-tour-2024/) — June 2024 Japan tour, following _A Man_’s Japan Academy Film Prize recognition (flau notes this was the band’s third visit to Japan): June 1-2 Hayakawa Soko, Kumamoto; June 7 Musashino Civic Cultural Hall, Tokyo; June 8 Sanda Satonone Hall, Hyogo; June 9 Subaru Hall planetarium, Tondabayashi, Osaka. [Songkick](https://www.songkick.com/artists/9298194-cicada-taiwan) also lists this June itinerary plus a July 27 Taipei show. The original 2026-04 text incorrectly stated October-November; corrected on 2026-06-21 according to flau’s official page.
 
-[^15]: [_Returning_ 2024 15th-anniversary retrospective "in between" concept — Cicada official](https://www.youtube.com/watch?v=WrJY5l6UwOI) — _Returning_ 15th-anniversary retrospective released 2024-07-19 (not a new album), reinterpreting tracks from _Coastland_, _Gazing at the Sea Level_, and _Where Have You Gone_; Jesy Chiang's concept: "After focusing on river sources, I began to focus on 'in between' — between mountain and mountain, between mountain and water, between forest and land."
+[^15]: [_Coastland Revisited_ 2024 fifteenth-anniversary self-selected compilation and the concept of “between” - Cicada official](https://www.youtube.com/watch?v=WrJY5l6UwOI) — 2024-07-19 _Coastland Revisited_, fifteenth-anniversary self-selected compilation (not a wholly new album), reinterpreting tracks from _Coastland_, _Light Shining Through the Sea_, and _White Forest_; Jesy Chiang’s concept: “After focusing on stream sources, I began to pay attention to ‘between’: between mountain and mountain, between mountain and water, between forest and land.”
 
-[^16]: [Cicada x Ólafur Arnalds 2010 Asia tour shared stage — White Wabbit Records](https://news.wwr.com.tw/site/artists/cicada) — In 2010 Cicada was selected to share the stage on Icelandic composer Ólafur Arnalds's Asia tour; style comparison: Arnalds neo-classical + post-rock + ambient + Nordic folk vs. Cicada "delicate and sensitive contemporary classical with Eastern inspiration."
+[^16]: [Cicada × Ólafur Arnalds shared stage on 2010 Asia tour - White Wabbit Records](https://news.wwr.com.tw/site/artists/cicada) — In 2010, Cicada was chosen to share the stage with Icelandic composer Ólafur Arnalds on his Asia tour; style comparison: Arnalds’s neo-classical + post-rock + ambient + Nordic folk versus Cicada’s “delicate and sensitive contemporary classical with Eastern inspiration.”
 
-[^17]: [Cicada six-city Russia tour + mainland China + Singapore AXEAN Festival](https://news.wwr.com.tw/site/artists/cicada) — 2019 six-city Russia tour + Tchaikovsky International Competition; mainland China multi-city tour including Beijing, Xi'an, Shanghai, Hangzhou, Nanjing, Wuhan, Guangzhou, Shenzhen; 2023 Singapore AXEAN Festival "Sounds of Taiwan" representative.
+[^17]: [Cicada’s six-city Russia tour + China + Singapore AXEAN Festival](https://news.wwr.com.tw/site/artists/cicada) — 2019 six-city Russia tour + International Tchaikovsky Competition; multiple-city China tour including Beijing, Xi’an, Shanghai, Hangzhou, Nanjing, Wuhan, Guangzhou, and Shenzhen; represented “Sounds of Taiwan” at Singapore’s AXEAN Festival in 2023.
 
-[^18]: [Cicada official YouTube channel](https://www.youtube.com/@Cicada-Taiwan) — Cicada official YouTube channel, complete albums + MVs + performance records; _Residing above the River's Source_ official MV, _Hiking in the Mist_ full album, _Returning_ 15th-anniversary preview and other complete audiovisual links.
+[^18]: [Cicada official YouTube channel @Cicadatw](https://www.youtube.com/@Cicadatw) — Cicada’s official YouTube channel (channelId UCLDw8SU0rik3vQyW2K-m8_w), with complete albums, MVs, performance records, and behind-the-scenes footage. All embedded iframe videos and works-chronology links in this article are from this official channel and were individually verified as official uploads on 2026-06-21.
+
+[^19]: [_Light Shining Through the Sea_ - Cicada / Bandcamp](https://cicada.bandcamp.com/album/light-shining-through-the-sea) — Released in 2015, themed around Taiwan’s east coast and the Pacific surrounding eastern Taiwan; official description: “using music to simulate the sea in its many states, including elusive currents, long waves held high, broken waves beside reefs, and foam repeatedly brushing the shore”; one track was selected for Japanese label flau’s compilation _Ocean_, the starting point of Cicada’s collaboration with flau. Representative track “Over Coastal Range” has more than 230,000 views on the official channel.
+
+[^20]: [_Gazing the Shades of White_ - Cicada / flau](https://cicada.bandcamp.com/album/gazing-the-shades-of-white) — Released 2025-10-30 by Japanese label flau (FLAU111), eight tracks total. Official description: “following ice, crossing the Northern and Southern Hemispheres,” with the journey passing Greenland’s Ilulissat Icefjord, the Icelandic highlands, and New Zealand’s Aoraki, finally returning to Taiwan’s Xueshan to seek traces left by ancient glaciers; tracks include “Embraced by Aoraki” and “Junipers by the Glacier Lake.” Official [album preview](https://www.youtube.com/watch?v=nP8LkXUhtew) and [title-track MV](https://www.youtube.com/watch?v=QTAcuOhr2KU) were both verified as official-channel uploads on 2026-06-21.
+
+[^21]: [Cicada _The Last Painting_ film-score interview - Blow Music](https://blow.streetvoice.com/36545/) — The soundtrack for director Chen Hung-i’s 2017 feature film _The Last Painting_ (a murder-suspense social-realist film released 2017-09-22) was composed by Cicada; Jesy Chiang wrote sixteen pieces, all performed by the members, joined before the screenplay was finalized, and some members appeared in the film; the OST was released by A Good Day Records. This was Cicada’s film-score work before taking on Kei Ishikawa’s _A Man_ internationally; official track “The Last Painting Main Theme” and others are on the [official channel](https://www.youtube.com/watch?v=neEH7zgwusU).
+
+[^22]: [Cicada _Light Shining Through the Sea_ interview: live recording and members - BIOS monthly](https://www.biosmonthly.com/article/6769) — Records Cicada’s insistence on live recording together to “ensure that every player can hear one another in the moment, which is to ensure that everything from the low-frequency deep sea to the high-frequency sea spray comes from the same instant”; violinist Hsu Kang-kai said, “I really hate always talking about _fu_. Put everyone together first, then talk to me about _fu_. Every time, she insists on telling the story first. If you start from the story, it’s too slow, too abstract”; cellist Ting-chen (Peach): “Many things can be overcome by breathing slowly.” Verbatim rechecked 2026-06-21.
+
+[^23]: [How Cicada keeps tempo without a rhythm section - roomie / every little d](https://www.roomie.tw/posts/75835) — Cicada has no drums and no rhythm section, “taking control of tempo back from the metronome”; during performance, members use eye contact and nods to guide one another and achieve real interaction and human texture among the four instruments, but only after practicing precisely with a metronome beforehand. Checked 2026-06-21.
+
+[^24]: [Cicada _Hiking in the Mist_ interview - Blow Music](https://blow.streetvoice.com/47614/) — The rainstorm encountered during the 2018 Jiaming Lake hike became the writing site for “Shower”; on the same mountain trip, three members brought back different materials: Kang-kai remembered the afternoon rainstorm on the way back to the mountain hut, Ting-chen remembered the lively mice in the hut at night, and then-guitarist Hsieh Wei remembered mist filling the mid-elevation forest road; Jesy Chiang discussed how transformation requires capturing “a bodily feeling.” Verbatim rechecked 2026-06-21.
+
+[^25]: [Cicada creative statement for _Gazing the Shades of White_ - CNA information platform](https://www.cna.com.tw/postwrite/chi/416951) — In autumn 2024, Jesy Chiang personally visited Iceland and Greenland to witness glacial melt; statement: “Over the past 10 years, we have continued composing for Taiwan’s mountains and seas. This time, we wanted to expand our view outward and connect to other island countries that seem distant”; “the motivation that brought me here was that all of these places are undergoing dramatic change”; “strengthen the desire to protect”; the title track uses the note “B” to refer to floating ice, and violin arpeggios to symbolize the speed of climate change moving from slow to urgent, approaching an irreversible tipping point. Verbatim rechecked 2026-06-21.
+
+[^26]: [46th Japan Academy Film Prize results - Japan Academy Film Prize official](https://www.japan-academy-prize.jp/prizes/?t=46) — 46th edition (2023): _A Man_ (_Aru Otoko_) won multiple top awards including Picture of the Year; Cicada’s _A Man_ score was listed alongside Yoshihiro Ike, Masaru Takami, and FUKUSHIGE MARI for “Outstanding Achievement in Music” (the nomination-level award, four recipients listed); the “Best Music” prize that year went to RADWIMPS / Kazuma Jinnouchi for _Suzume_. That is: the film won Picture of the Year, and Cicada’s score received Outstanding Achievement in Music, not Best Music.
+
+[^27]: [Xueshan cirques and Taiwan’s glacial landforms - National Museum of Natural Science](https://epub.nmns.edu.tw/i401-1/) — Xueshan Cirque No. 1 is “the representative of Taiwan’s largest and most complete glacial landform” (citing Lin Chao-chi, 1957); during the Last Glacial Period (about 27,000 to 18,000 years ago), Taiwan’s high mountains developed mountain glaciers and glacial landforms; Cui Pond is a cirque lake, and the surrounding area is Taiwan’s largest pure stand of Taiwan juniper. Taiwan’s high-mountain glacial relics were long debated in scholarship, and were confirmed after Wang Hsin and others conducted detailed investigations of glacial erosion evidence in 1998.
+
+## Image Sources
+
+This article uses one CC BY-SA 4.0 licensed image, cached under `public/article-images/people/` to avoid hotlinking the source server:
+
+- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Photo: Blackjack633, CC BY-SA 4.0 (hero, Cui Pond on Xueshan)
+
+All videos embedded in the article are official MVs uploaded by [Cicada’s official YouTube channel @Cicadatw](https://www.youtube.com/@Cicadatw), embedded via iframe; copyright belongs to the band and record labels, and use follows YouTube’s standard embed terms.

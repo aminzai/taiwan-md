@@ -28,10 +28,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/永康街.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:97d1cb2148bf09ca'
-sourceBodyHash: 'sha256:457045b9eebdff05'
-translatedAt: '2026-06-16T16:55:29Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:86be5fe44de05439'
+sourceBodyHash: 'sha256:ad35178eae665c53'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 융캉제: 일본 교수들이 살았고, 외성인들이 피난해 왔으며, 지금은 일본·한국 관광객의 타이베이가 된 거리
@@ -148,7 +148,7 @@ _딘타이펑 신이점 외관, 2023년. Photo: Yu tptw, CC BY-SA 4.0 via [Wikim
 1958년 기름가게였던 딘타이펑, 1963년 산시 노병의 융캉우육면, 1953년 산둥 노병의 둥먼교자관, 1995년 빙관의 망고빙수, 2000년 스무시의 계승까지, **융캉제 음식 지도의 시간축은 외성인의 타이완 이주 시간축과 거의 겹친다**. 1947-1955년 중국 각 성에서 밀려든 퇴역 군인들이 고향의 밀가루 음식을 타이베이의 이 몇 거리로 가져왔고, 60년 뒤 그것은 “융캉제 미식”이라는 관광 표지가 되었다.
 
 ![융캉제 낮 시간의 가게 거리 풍경. 딘타이펑 융캉점, 망고빙수, 문청 카페, 서점이 나란히 있다.](/article-images/geography/yongkang-street-shopfronts-2024.webp)
-*융캉제 낮 시간의 가게 거리 풍경, 2024년 3월. Photo: MAm ROFOW 022, CC0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW*台灣*Taiwan*台北*Taipei*大安區*Da%27An*永康街*Yongkang_Street_March_2024_R12S_650.jpg).*
+_융캉제 낮 시간의 가게 거리 풍경, 2024년 3월. Photo: MAm ROFOW 022, CC0 via Wikimedia Commons._
 
 ## 1990년대 이후의 전환: 문청, 커피, IG, 임대료
 

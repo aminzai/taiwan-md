@@ -29,10 +29,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:333ceed2a40fb5ff'
-sourceBodyHash: 'sha256:3ec0507273818a67'
-translatedAt: '2026-06-16T16:55:29Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:cf36b43868cfc58f'
+sourceBodyHash: 'sha256:cafaccb40b199771'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 구링제: 일본인이 남긴 책 거리, 에드워드 양의 소년, 국민정부의 궁전
@@ -165,7 +165,7 @@ _2008년 8월 3일의 구링제 소극장. Photo: Peter Bronski, Public domain v
 ## 1921년의 연꽃 연못은 아직 있다
 
 ![타이베이식물원 연꽃 연못. 부지는 약 1헥타르이며, 타이베이에서 가장 이른 인공 경관 연못 가운데 하나다. 식물원은 1896년 일제시대 식산국이 ‘타이베이 묘포’로 창설했고, 1921년 정식으로 ‘타이베이식물원’으로 이름을 바꾸었다. 전후에는 임업시험소가 접수해 지금까지 관리하고 있으며, 연꽃 연못은 100년 넘게 제자리에 있다.](/article-images/geography/guling-street-botanical-lotus-2013.webp)
-*2013년 6월의 타이베이식물원 연꽃 연못. Photo: 玄史生 (panoramio), CC BY 3.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Lotus_Pond_in_Taipei_Botanical_Garden*台北植物園荷花池*-\_panoramio.jpg>).*
+_2013년 6월의 타이베이식물원 연꽃 연못. Photo: 玄史生 (panoramio), CC BY 3.0 via Wikimedia Commons._
 
 구링제의 책 거리는 철거되었고, 책 노점은 옮겨졌으며, 2대 쑹린서국 주인은 70대가 넘었다. 그러나 옆의 타이베이식물원 연꽃 연못은 아직 그 자리에 있다.
 

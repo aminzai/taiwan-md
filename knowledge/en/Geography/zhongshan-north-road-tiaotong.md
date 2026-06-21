@@ -29,10 +29,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/中山北路條通.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:09cf41707223de25'
-sourceBodyHash: 'sha256:1cbd8f5ebc585b28'
-translatedAt: '2026-06-14T16:37:40Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:c8a39341eabfac41'
+sourceBodyHash: 'sha256:8e3e2179e3d0c9c2'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Zhongshan North Road Tiaotong: A Road the Japanese Built to Reach a Shrine, Ultimately Taken Back by Japanese Firms
@@ -161,7 +161,7 @@ After telling the story of Zhongshan North Road and Tiaotong culture, locals wil
 **The Grand Hotel** (No. 1, Section 4, Zhongshan North Road, Yuanshan). From 1901 to 1944, this site was Taiwan Shrine, later elevated to Taiwan Grand Shrine. After a Japanese aircraft, according to legend one of Japan’s own planes, crashed into it in 1944, it was dismantled[^28]. On 1952-05-10, the Taiwan Friendship Association led by Soong Mei-ling took over the former Taiwan Shrine site and rebuilt it as the Taiwan Hotel, later renamed the Grand Hotel[^28]. The hotel’s foundation was fully completed in 1963, and in 1973 the 14-story red-tiled Chinese palace-style building designed by Yang Cho-cheng was completed. From then on, the Grand Hotel became one of Taipei’s most iconic buildings. **From the Japanese empire’s highest sacred site to the Republic of China’s ceremonial national gateway**, the same plot of land moved from worship to hotel, but its political meaning of “highest rank” never disappeared.
 
 ![Distant view of the Grand Hotel in 2012, with its red Chinese palace-style tower standing on the former Taiwan Shrine site. After the shrine was dismantled in 1944, the Nationalist government rebuilt the site as the “Taiwan Hotel” in 1952; in 1973, the 14-story building designed by Yang Cho-cheng was completed and became a Taipei landmark](/article-images/geography/zhongshan-grand-hotel-2012.webp)
-_The Grand Hotel, March 11, 2012. Photo: lienyuan lee. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Grand_Hotel_%E5%8F%B0%E5%8C%97%E5%9C%93%E5%B1%B1%E9%A3%AF%E5%BA%97*-\_panoramio.jpg).*
+_The Grand Hotel, March 11, 2012. Photo: lienyuan lee. CC BY 3.0 via Wikimedia Commons._
 
 **Taipei Fine Arts Museum** (No. 181, Section 3, Zhongshan North Road). Beginning on 1955-11-01, this site served for nearly 30 years as the Yuanshan headquarters of the United States Taiwan Defense Command. From 1955 to 1979, it was the U.S. military’s Taiwan command in the Pacific theater. It was from an office here that Rear Admiral Linder issued the order for the final flag-lowering ceremony on 1979-04-26[^6]. After U.S. forces withdrew in 1979, the land sat idle for several years. On 1983-12-24, the Taipei Fine Arts Museum formally opened on the former USTDC site. **A U.S. military command became Taiwan’s first public museum of modern art.** No transformation more cleanly explains the direction of Taiwanese society after 1979: from military periphery to cultural subject.
 

@@ -21,10 +21,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/猴硐.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:3f0a9e089e5a7c77'
-sourceBodyHash: 'sha256:9f5e19f53148b08d'
-translatedAt: '2026-06-16T17:05:54Z'
+sourceCommitSha: '11b9ab5c'
+sourceContentHash: 'sha256:da37ca4aa7f65da7'
+sourceBodyHash: 'sha256:e86f8f550c13eab0'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 > **En 30 secondes :**

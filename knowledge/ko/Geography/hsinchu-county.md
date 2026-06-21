@@ -26,10 +26,10 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/新竹縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:499e7dcb301a6ddb'
-sourceBodyHash: 'sha256:8df9daddb901affe'
-translatedAt: '2026-06-16T17:05:51Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:eefcd1a536e4ddf5'
+sourceBodyHash: 'sha256:a716f79b2442afc5'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 신주현: 235년의 의민 신앙과 대만 최고 1인당 소득이 같은 터우첸강에 살다
@@ -106,7 +106,7 @@ _베이푸 뢰차. Photo: 總統府. [CC BY 2.0 via Wikimedia Commons](https://c
 신주현의 산지향은 두 곳이다. 우펑향(사이샤족 + 타이야족)과 젠스향(타이야족 중심)이다. 신주현 내 사이샤족 인구는 1,560명으로 우펑향 다아이촌과 화위안촌에 거주한다. 타이야족 인구는 15,876명으로 현 전체 타이야족 인구의 약 18.66%를 차지하며, 주로 젠스향에 있다[^22]. 이 두 향은 산지향이자 원주민족 자치 지역이기 때문에 2010년 하카위원회가 공고한 하카 문화 중점 발전구에는 포함되지 않았다. 해당 11개 향진시는 주베이, 주둥, 신푸, 관시, 후커우, 신펑, 충린, 헝산, 베이푸, 바오산, 어메이이다[^23].
 
 ![스마쿠스 거목군, 해발 1,500미터. 1991년 두목 Icyeh-Sulung이 바링에서 신탁을 꿈꾼 뒤, 부족민들은 깊은 산속에서 홍회 거목군을 찾아냈다. 대만 제2, 제3의 홍회 신목이 모두 이 구역에 있다. 1995년 외부 연결 차량 도로가 개통되었고, 2004년 부락 의회 Tnunan이 성립해 “토지 공유, 협력 공생”의 헌법을 세웠다.](https://upload.wikimedia.org/wikipedia/commons/2/2f/Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4_-_panoramio_%283%29.jpg)
-_스마쿠스 거목군. Photo: panoramio user via Wikimedia. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4*-\_panoramio*%283%29.jpg).\_
+_스마쿠스 거목군. Photo: panoramio user via Wikimedia. CC BY 3.0 via Wikimedia Commons._
 
 스마쿠스(타이야어 Qalang Smangus)는 젠스향 위펑촌에 있으며, 해발 약 1,500미터의 대만에서 가장 외진 원주민 부락 가운데 하나이다. 전력 공급은 1979년에야 이루어졌다[^24]. 1991년 두목 Icyeh-Sulung(이제쑤룽)이 바링에서 신탁의 꿈을 꾸고 돌아온 뒤, 부족민들에게 깊은 산으로 가 홍회를 찾으라고 말했다. “**선조들이 당부한 바로 그대로, 그들은 깊은 산의 편백 숲에서 가장 큰 홍회 거목을 찾아냈다**”[^25]. 대만에서 두 번째, 세 번째로 큰 홍회 신목이 모두 스마쿠스 신목 구역에 있다. 1995년 6월 외부 연결 차량 도로가 개통되었고, “**스마쿠스는 공식적으로 전체 사회와 접속했다**”[^26].
 
@@ -146,7 +146,7 @@ _후커우 옛거리. Photo: Whhalbert. [CC BY-SA 3.0 via Wikimedia Commons](htt
 ## 의민 신앙 옆의 TSMC 바오산 2공장
 
 ![네이완역, 2016년, 헝산향 네이완촌. 네이완 지선의 종착역으로, 1950년대 임업과 광업을 지원하기 위해 건설되었고, 1990년대 광업과 임업이 쇠퇴한 뒤 관광화로 전환되었다. 류싱친의 만화 《아산거와 다선포》는 이 지역을 배경으로 한다.](https://upload.wikimedia.org/wikipedia/commons/4/43/%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99_%2827648470482%29.jpg)
-_네이완 기차역. Photo: billy1125. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99\*%2827648470482%29.jpg).\_
+_네이완 기차역. Photo: billy1125. CC BY 2.0 via Wikimedia Commons._
 
 신주현의 당대 모순에는 극적인 사건이 없다. 그것은 지도 위의 두 점이 동시에 켜져 있는 일이다.
 

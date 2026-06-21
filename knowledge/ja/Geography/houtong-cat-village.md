@@ -21,10 +21,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/猴硐.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:3f0a9e089e5a7c77'
-sourceBodyHash: 'sha256:9f5e19f53148b08d'
-translatedAt: '2026-06-16T17:04:12Z'
+sourceCommitSha: '11b9ab5c'
+sourceContentHash: 'sha256:da37ca4aa7f65da7'
+sourceBodyHash: 'sha256:e86f8f550c13eab0'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 > **30 秒概観：**
@@ -113,7 +113,7 @@ CNN の選出後 2-3 年の間に、猴硐は大量遺棄の時期に入りま�
 この 2 つの発言を並べて読むと、「私がいなければだめだ、対、ますます良くなっている」＋「人がケアされてこそ、動物もより良くなる」という構図が浮かびます。それは、「単一のレンズが一つの山あいの町を救った」というロマン化された語りへの彼女の反省です。レンズは山あいの町を救い上げることができます。しかし、そのレンズが生み出した善意の後始末まではできません。
 
 ![基隆河谷の山あいの町の景観。猴硐駅付近を橋の上から見下ろし、平渓線の鉄道が河谷に沿って通っています](/article-images/geography/houtong-keelung-river-2016.webp)
-_基隆河谷の景観。猴硐付近の展望階段から山あいの町を見下ろしています。平渓線の鉄道が河谷に沿って通り、背景には雲霧に溶け込む山稜があります。この山あいの町の運命は、1990 年の瑞三操業停止から、2009 年の猫夫人のレンズ、2026 年に猫の数が 30 匹余りとなるまで、この川、この鉄道、この山々が形づくる地景と切り離せません。Photo: CharlieDigital. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stairway_to_Keelung_River_near_Houtong_Cat_Village_20160401.jpg)._
+_基隆河谷の景観。猴硐付近の展望階段から山あいの町を見下ろしています。平渓線の鉄道が河谷に沿って通り、背景には雲霧に溶け込む山稜があります。この山あいの町の運命は、1990 年の瑞三操業停止から、2009 年の猫夫人のレンズ、2026 年に猫の数が 30 匹余りとなるまで、この川、この鉄道、この山々が形づくる地景と切り離せません。Photo: CharlieDigital. CC BY-SA 4.0 via Wikimedia Commons._
 
 ## TNVR による修復：189 匹の不妊化から、猫公所「銅鑼焼」初代所長へ
 

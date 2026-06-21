@@ -29,10 +29,10 @@ lastVerified: '2026-05-21'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:333ceed2a40fb5ff'
-sourceBodyHash: 'sha256:3ec0507273818a67'
-translatedAt: '2026-06-16T17:05:07Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:cf36b43868cfc58f'
+sourceBodyHash: 'sha256:cafaccb40b199771'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Calle Guling: la calle de libros que dejaron los japoneses, el adolescente de Edward Yang y los palacios del Gobierno nacionalista
@@ -165,7 +165,7 @@ _El Pequeño Teatro de la Calle Guling el 3 de agosto de 2008. Photo: Peter Bron
 ## El estanque de lotos de 1921 sigue allí
 
 ![Estanque de lotos del Jardín Botánico de Taipéi, de aproximadamente 1 hectárea, uno de los primeros estanques paisajísticos artificiales de Taipéi. El Jardín Botánico fue creado en 1896 por la Oficina de Producción del periodo japonés como “Vivero de Taipéi”; en 1921 recibió oficialmente el nombre de “Jardín Botánico de Taipéi”. Después de la guerra fue administrado por el Instituto de Investigación Forestal hasta hoy. El estanque de lotos lleva más de 100 años en el mismo lugar.](/article-images/geography/guling-street-botanical-lotus-2013.webp)
-*Estanque de lotos del Jardín Botánico de Taipéi en junio de 2013. Photo: 玄史生 (panoramio), CC BY 3.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Lotus_Pond_in_Taipei_Botanical_Garden*台北植物園荷花池*-\_panoramio.jpg>).*
+_Estanque de lotos del Jardín Botánico de Taipéi en junio de 2013. Photo: 玄史生 (panoramio), CC BY 3.0 via Wikimedia Commons._
 
 La calle de libros de Guling fue desmantelada, los puestos se mudaron y la segunda generación de la librería Songlin ya tiene más de setenta años, pero el estanque de lotos del Jardín Botánico de Taipéi, al lado, sigue en el mismo lugar.
 

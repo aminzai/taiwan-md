@@ -21,10 +21,10 @@ readingTime: 28
 lastVerified: 2026-04-23
 lastHumanReview: false
 translatedFrom: 'Society/認知作戰.md'
-sourceCommitSha: 'ab47ff39'
-sourceContentHash: 'sha256:63574f6b87e6dc7a'
+sourceCommitSha: 'e1b5668a'
+sourceContentHash: 'sha256:c0eb85e49c561e22'
 sourceBodyHash: 'sha256:53132f584b9b6657'
-translatedAt: '2026-04-30T22:33:56+08:00'
+translatedAt: '2026-06-22T00:30:00+08:00'
 sporeLinks:
   - id: 41
     platform: 'threads'
@@ -246,6 +246,7 @@ The ultimate battleground of cognitive warfare is **the relationship of trust it
 - [Taiwan Online Community Migration](/en/technology/taiwan-online-community-migration/) — Understanding the role of platforms like PTT, Dcard, and Threads in cognitive warfare
 - Taiwan Media and Press Freedom (台灣媒體與新聞自由) — News ecosystem and platforms' responsibility in cognitive warfare
 - [Puma Shen](/en/people/puma-shen/) — One of the leading researchers on cognitive warfare; in 2025, the first elected Taiwanese politician to be placed under criminal investigation by China for "the crime of secession"
+- [Hēixióng Academy (Kuma Academy)](/society/黑熊學院) — Civilian organization that folds cognitive-warfare detection into its civil-defense basic course, training ordinary people to keep judgment under disinformation and psychological operations
 - [Poisoned Potatoes: Beyond the 200 ppm — There's 30 ppm, 14 Days, and 15 Years of Food-Safety Scars](/en/society/poisoned-potato-cognitive-warfare-taiwan/) — A dissection of how the TAO's April 2026 "offering" narrative stepped precisely onto the 15-year food-safety scar accumulated since the 2011 plasticizer scandal
 
 ## References

@@ -29,10 +29,10 @@ lastVerified: '2026-05-21'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/中山北路條通.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:09cf41707223de25'
-sourceBodyHash: 'sha256:1cbd8f5ebc585b28'
-translatedAt: '2026-06-16T00:44:26+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:c8a39341eabfac41'
+sourceBodyHash: 'sha256:8e3e2179e3d0c9c2'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Tiaotong de Zhongshan Nord : la route vers le sanctuaire tracée par les Japonais a finalement été reprise par les maisons de commerce japonaises
@@ -161,7 +161,7 @@ Après avoir parcouru l'histoire de Zhongshan Nord et de la culture tiaotong, le
 **Le Grand Hotel de Taipei** (1, section 4 de Zhongshan Nord, Yuanshan). De 1901 à 1944, ce terrain était celui du sanctuaire de Taïwan, ensuite élevé au rang de Taiwan Jingū ; après un accident impliquant un avion japonais en 1944, selon la légende un avion japonais s'y serait écrasé par erreur, il fut démoli[^28]. Le 1952-05-10, l'Association de fraternité de Taïwan dirigée par Soong Mei-ling prit en charge le terrain de l'ancien sanctuaire et le transforma en « Taiwan Hotel », ensuite rebaptisé « Grand Hotel de Taipei »[^28]. Les fondations de l'hôtel furent entièrement achevées en 1963 ; en 1973, le bâtiment de 14 étages à tuiles rouges, conçu par Yang Cho-cheng dans un style palatial chinois, fut inauguré et devint l'un des bâtiments les plus emblématiques de Taipei. **Du plus haut lieu sacré de l'empire japonais à la porte d'accueil de la République de Chine**, le même terrain est passé du culte à l'hôtellerie, mais sa signification politique de « plus haut niveau » n'a jamais disparu.
 
 ![Vue lointaine du Grand Hotel de Taipei en 2012 : la tour rouge de style palatial chinois se dresse sur l'ancien terrain du sanctuaire de Taïwan. Après la démolition du sanctuaire en 1944, le gouvernement nationaliste transforma le site en « Taiwan Hotel » en 1952 ; en 1973, le bâtiment de 14 étages conçu par Yang Cho-cheng fut achevé et devint un repère de Taipei](/article-images/geography/zhongshan-grand-hotel-2012.webp)
-_Grand Hotel de Taipei, 11 mars 2012. Photo : lienyuan lee. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Grand_Hotel_%E5%8F%B0%E5%8C%97%E5%9C%93%E5%B1%B1%E9%A3%AF%E5%BA%97*-\_panoramio.jpg).*
+_Grand Hotel de Taipei, 11 mars 2012. Photo : lienyuan lee. CC BY 3.0 via Wikimedia Commons._
 
 **Musée des Beaux-Arts de Taipei** (181, section 3 de Zhongshan Nord). À partir du 1955-11-01 et pendant 30 ans, ce fut le siège de Yuanshan du commandement américain de défense de Taïwan, USTDC : de 1955 à 1979, ce terrain fut le poste de commandement américain de Taïwan dans le théâtre du Pacifique, et c'est depuis un bureau de ce site que le contre-amiral Linder donna l'ordre de la dernière descente du drapeau le 1979-04-26[^6]. Après le retrait américain de 1979, le terrain resta quelques années à l'abandon ; le 1983-12-24, le musée des Beaux-Arts de Taipei ouvrit officiellement sur l'ancien terrain de l'USTDC. **Un commandement militaire américain devenu le premier musée public d'art moderne de Taïwan** : aucune transformation ne dit plus clairement la direction prise par la société taïwanaise après 1979, d'une périphérie militaire vers un sujet culturel.
 

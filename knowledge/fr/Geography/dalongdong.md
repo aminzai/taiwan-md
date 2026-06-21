@@ -31,10 +31,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/大龍峒.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:c079976dbbfa6288'
-sourceBodyHash: 'sha256:f620f505d46f863a'
-translatedAt: '2026-06-16T00:44:26+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:6d18e9e22ea3f7db'
+sourceBodyHash: 'sha256:53b18682028046a0'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Dalongdong : l’encens du Baoan Temple, la cloche du temple de Confucius, le ciel bleu au soleil blanc de Yuanshan, trois époques de croyance à Taipei
@@ -188,7 +188,7 @@ Aujourd’hui, chaque 28 septembre, fête des enseignants et anniversaire de Con
 De la construction du premier temple de Confucius de Taipei par Chen Xingju en 1879 à sa démolition par les Japonais en 1907, du don de terrain de Chen Peigen et Koo Hsien-jung en 1925 à l’achèvement de 1939, de la prise en charge municipale en 1971 jusqu’aux élèves de sixième année de Dalong qui dansent le _bayi_ en 2026 : il aura fallu 147 ans à ce temple pour parcourir l’axe qui va de l’empire à l’époque japonaise, puis à l’après-guerre et au présent.
 
 ![Dacheng Hall et cour du temple de Confucius de Taipei ; les travaux commencèrent en 1927, le Dacheng Hall fut achevé en 1929 sous la direction de Wang Jinmu de l’école Xidi, et l’ensemble fut terminé en 1939. Le nouveau site de Dalongdong fut rendu possible par le don de plus de 2 000 ping de Chen Peigen et de plus de 1 000 ping achetés et offerts par Koo Hsien-jung.](/article-images/geography/dalongdong-confucius-temple-2014.webp)
-_Temple de Confucius de Taipei. Photo : contributeur panoramio, [CC BY 3.0 via Wikimedia](https://commons.wikimedia.org/wiki/File:Taipei_Confucius_Temple_%E5%8F%B0%E5%8C%97%E5%AD%94%E5%BB%9F*-\_panoramio.jpg).*
+_Temple de Confucius de Taipei. Photo : contributeur panoramio, CC BY 3.0 via Wikimedia._
 
 ## L’après-midi où un avion percuta le sanctuaire
 

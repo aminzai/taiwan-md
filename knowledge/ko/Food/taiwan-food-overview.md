@@ -23,10 +23,10 @@ lastVerified: '2026-05-18'
 lastHumanReview: 'false'
 featured: 'true'
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: 31a05c44
-sourceContentHash: 'sha256:ca3079f9c00d31cf'
-sourceBodyHash: 'sha256:c5fac90142ae7a6b'
-translatedAt: '2026-06-14T00:35:00+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:5170de2db0a4b0df'
+sourceBodyHash: 'sha256:9da2f70ce1ba4f1f'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 대만 음식 총람: 순수하게 대만적인 요리는 없지만, 모든 요리가 가장 대만적이다
@@ -51,7 +51,7 @@ _라오허제 관광야시장의 밤, 대만 음식에서 가장 대표적인 �
 가장 아래층은 원주민이다. 16개 민족은 각자 고유한 식사 방식을 지녔지만, 공통점은 **“현장에서 얻는다”**는 것이다. 산이 어디에 있는지, 바다가 어디에 있는지, 어느 계절에 어떤 음식이 나는지가 중요했다. 아메이족은 스스로를 “풀을 먹는 민족”이라 부르며, 식용 야생 채소가 200종을 넘는다. 그들의 “십심채”는 황등 심, 임투 심, 빈랑 심, 억새 심, 월도 심, 사탕수수 심, 야자 심 등 일곱 식물의 어린 줄기를 요리에 쓴다[^5]. 파이완족의 “지나푸”(cinavu)는 월도 잎과 가산장 잎으로 조와 돼지고기를 싼 제례 음식이다. 이들은 또한 편암 석판이 열을 고르게 받는 성질을 이용해 산돼지고기를 굽는 “석판구이”도 발전시켰다[^6]. 베이난족은 여름에 야생 방울토마토와 죽순을 함께 발효시킨 새콤매콤한 탕 binaleng을 마신다[^7]. 타이야족의 마가오(산후추)는 말리면 생김새가 검은 후추 알갱이와 비슷하고, 흑후추, 생강, 레몬의 세 가지 향을 결합한다. 미쉐린 가이드는 2018년 이를 “알아두어야 할 대만 원주민 식재료 다섯 가지”에 포함했다[^8].
 
 ![파이완족 전통 음식 지나푸(cinavu), 월도 잎과 가산장 잎으로 조와 돼지고기를 싼다](/article-images/food/taiwan-food-cinavu-paiwan-beiyeh-2024.webp)
-*지나푸(cinavu)는 파이완, 루카이, 베이난족의 제례 음식으로, 월도 잎으로 산과 바다의 기억을 봉한다. Photo: Sin-siōng, 2024, CC BY-SA 4.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:排灣族飲食*北葉部落吉拿富-02.jpg).\_
+_지나푸(cinavu)는 파이완, 루카이, 베이난족의 제례 음식으로, 월도 잎으로 산과 바다의 기억을 봉한다. Photo: Sin-siōng, 2024, CC BY-SA 4.0 via Wikimedia Commons._
 
 그 위층에는 청대에 푸젠과 광둥에서 바다를 건너온 민난인과 객가인이 있다.
 

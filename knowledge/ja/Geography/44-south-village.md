@@ -29,10 +29,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/四四南村.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:48350666b07ad604'
-sourceBodyHash: 'sha256:d1d5c9161c22bb16'
-translatedAt: '2026-06-16T17:04:12Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:e3cf0ff2d18ee6c2'
+sourceBodyHash: 'sha256:ceea55d78cdbac6b'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 四四南村：兵器工場の眷村、現在は台北101そばの文創園区
@@ -42,7 +42,7 @@ translatedAt: '2026-06-16T17:04:12Z'
 ## 週末午後3時、広場にある二つの台北
 
 ![四四南村の全景。保存された4棟のレンガ壁・赤瓦屋根の平屋が芝生広場を囲み、背景には2013年当時建設中だった信義計画区の高層ビルが見えます。1948年の眷舎と21世紀の鉄骨ガラス建築が並んでいます。](/article-images/geography/sisi-south-village-overview-2013.webp)
-_2013年9月、四四南村の全景。Photo: Men1399. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91.jpg) (CC BY-SA 3.0)._
+_2013年9月、四四南村の全景。Photo: Men1399. License via Wikimedia Commons (CC BY-SA 3.0)._
 
 台北の人に「四四南村はどこにありますか」と聞けば、おそらく「101のそばにある、眷村らしい雰囲気の小さな公園」と答えるでしょう。
 
@@ -126,7 +126,7 @@ _2013年9月、四四南村の全景。Photo: Men1399. [License via Wikimedia Co
 - **D館**：芸術文化、書店、劇場の空間
 
 ![四四南村信義公民会館A棟の外観。2007年の赤レンガ・赤瓦の平屋です。眷村の路地はすでに広場に置き換えられていますが、建物自体は1948-1949年の建設当初の低い形態を保っています。](/article-images/geography/sisi-south-village-buildings-2007.webp)
-_2007年5月、四四南村に保存された眷舎の外観。Photo: Prattflora. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Forty-four-south-village.JPG) (CC BY-SA 3.0)._
+_2007年5月、四四南村に保存された眷舎の外観。Photo: Prattflora. License via Wikimedia Commons (CC BY-SA 3.0)._
 
 B館に入ると、正面には四四南村の歴史的軌跡を示す常設展があります。壁の古写真には、山東出身の年配女性たちが広場で布団を干し、工員が仕事を終えて工場区域の入口から村へ戻り、子どもたちが路地で羽根蹴りをしている姿が写っています。1962年の福利社の集合写真には、「四四廠福利合作社」の文字が読み取れます。当時、どの眷村にも福利社があり、売るものは村内の出身省の嗜好に合わせて調整されていました。四四南村の福利社が売っていたのは、山東饅頭、山東餃子、山東煎餅でした。
 
@@ -154,7 +154,7 @@ _2016年11月、四四南村に保存された眷舎の赤レンガ平屋の細�
 二つの建物の対比は、台北で最もよく写真に撮られる「歴史 vs 現代」の並列景観です。1948年に青島から来た山東出身の技工が建てた赤瓦の平屋と、2004年に完成した508メートルの超高層ビル[^19]。眷村の低さと101の垂直性、眷村の赤レンガと101のガラスカーテンウォール、眷村の兵器工場の鐘の音と101の航空障害灯。
 
 ![四四南村の平屋と台北101が並んでいます。1948年の眷舎の赤瓦屋根と、2004年に完成した508メートルの超高層ビルが同じ画面に入ります。台北で外国人観光客が最もよく撮影する「歴史 vs 現代」の対比景観です。](/article-images/geography/sisi-south-village-taipei-101-2017.webp)
-_2017年3月、四四南村と台北101が同じ画面に入っています。Photo: Hal Maa. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buildings_at_Four_Four_South_Village_%28%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91%29*at_9_March_2017_in_Taipei%2C_showing_Taipei_101*%28%E8%87%BA%E5%8C%97101%29*and_a_new_skyscraper_being_built_in_the_background.jpg) (CC BY-SA 4.0).*
+_2017年3月、四四南村と台北101が同じ画面に入っています。Photo: Hal Maa. License via Wikimedia Commons (CC BY-SA 4.0)._
 
 地理的には、この二つの建物は同じ四四兵工廠の旧跡に立っています。
 

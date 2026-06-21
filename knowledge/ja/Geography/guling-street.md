@@ -29,10 +29,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/牯嶺街.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:333ceed2a40fb5ff'
-sourceBodyHash: 'sha256:3ec0507273818a67'
-translatedAt: '2026-06-16T17:04:12Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:cf36b43868cfc58f'
+sourceBodyHash: 'sha256:cafaccb40b199771'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 牯嶺街：日本人が残した書店街、楊徳昌の少年、国民政府の宮殿
@@ -54,7 +54,7 @@ translatedAt: '2026-06-16T17:04:12Z'
 1.2 キロメートルに三つの帝国が入り、残る書店は一軒だけです。これが牯嶺街の密度です。
 
 ![2022 年の牯嶺街小劇場外観。赤レンガ 2 階建ての建物は、もとは日本統治時代の 1906 年前後に建てられた台湾総督府医学校官舎で、戦後の 1954 年に台北市警察局第七分局へ改められ、2 階建てレンガ造鉄筋コンクリートへ増築されました。1995 年に中正第二分局が移転した後、劇場に転用され、2014 年に歴史建築として公告されました。](/article-images/geography/guling-street-theatre-2022.webp)
-_2022 年 6 月の牯嶺街小劇場、台北市中正区牯嶺街 5 巷 2 号。Photo: Yu tptw, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guling_Street_Avant-garde_Theatre_2022.jpg)._
+_2022 年 6 月の牯嶺街小劇場、台北市中正区牯嶺街 5 巷 2 号。Photo: Yu tptw, CC BY-SA 4.0 via Wikimedia Commons._
 
 ## 佐久間町、児玉町、龍口街と呼ばれた旧道
 
@@ -75,7 +75,7 @@ _2022 年 6 月の牯嶺街小劇場、台北市中正区牯嶺街 5 巷 2 号�
 「龍口街」と呼ばれ、のちに「佐久間町」となり、さらに「龍津街」と呼ばれた日本人住宅街は、「牯嶺街」という外省人の古書露店集積地へ変わりました。名前は変わりましたが、家屋はおおむね変わらず、住む人が半分入れ替わったのです。
 
 ![1916 年に台湾勧業共進会が台北植物園の敷地で開催された際の会場の一角。植物園は 1896 年に日本統治時代の殖産局が「台北苗圃」として創設し、1911 年に林業試験場へ改制、1921 年に正式に「台北植物園」へ改名されました。台湾初の植物園であり、戦後は林業試験所が現在まで管理しています。](/article-images/geography/guling-street-botanical-garden-1916.webp)
-_1916 年勧業共進会の植物園会場。Public domain via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1916年勸業共進會植物園場址.jpg)._
+_1916 年勧業共進会の植物園会場。Public domain via Wikimedia Commons._
 
 ## ボーイスカウトナイフ、アメリカ広報文化交流局、あの 7 刀
 
@@ -118,7 +118,7 @@ _1916 年勧業共進会の植物園会場。Public domain via [Wikimedia Common
 三代目の松林書局は、いまも牯嶺街 5 巷一帯に立っています。第一世代の蔡木林が 1945 年に開店し、1980 年代に二代目の蔡鏡輝へ譲りました。十数坪の 2 階建て店舗には 10 万冊近い本があります。蔡鏡輝が本を探しに来た客に言う言葉は、多くの報道に書き込まれています。「目録はここにあります。どの本が欲しいか言ってくれれば、探してきます。」占い、人相、中医学、歴史の本が最もよく売れています[^8]。
 
 ![国立歴史博物館の 2024 年 2 月 22 日の正門近景。博物館は 1955-12-04 に「国立歴史文物美術館」として創立され、1957 年に国立歴史博物館へ改名されました。1964 年に中国明清宮殿式建築へ改築され、2018-07-01 に閉館整備を開始しました。当初 3 年の予定でしたが、感染症流行による人手不足で 6 年に延び、2024-02-21 に正式に再開しました。](/article-images/geography/guling-street-history-museum-gate-2024.webp)
-_2024 年 2 月の再開当週の国立歴史博物館正門、台北市中正区南海路 49 号。Photo: 阿道, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Main_Gate_of_the_National_Museum_of_History,_Taipei._20240222.jpg)._
+_2024 年 2 月の再開当週の国立歴史博物館正門、台北市中正区南海路 49 号。Photo: 阿道, CC BY-SA 4.0 via Wikimedia Commons._
 
 ## 南海学園：中国宮殿を日本の苗圃の上に建てる
 
@@ -160,12 +160,12 @@ _2024 年 2 月の再開当週の国立歴史博物館正門、台北市中正�
 2000 年に龍福里の里長、鄭珍珍が始めた年次市集で、2026 年には第 25 回を迎えています。**台湾で最も歴史のあるクリエイティブ市集**であり、古書露店、独立出版、アートジン、絵本装幀が並びます。市集は文化部と台北市文化局の支援を受けています。**ここは牯嶺街が最後に「通り全体が本になる」瞬間です**。市集の二、三日のあいだには、1960 年代に露店商で通りが埋まっていた書店街の生態の縮図を見ることができます[^32][^33]。
 
 ![2008 年の牯嶺街小劇場外観。赤レンガ 2 階建て建築と周辺の緑。劇場は 2001 年に正式命名され、2014 年に歴史建築として公告されました。](/article-images/geography/guling-street-theatre-2008.webp)
-_2008 年 8 月 3 日の牯嶺街小劇場。Photo: Peter Bronski, Public domain via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Guling_Street_Avant-garde_Theatre_20080803.jpg)._
+_2008 年 8 月 3 日の牯嶺街小劇場。Photo: Peter Bronski, Public domain via Wikimedia Commons._
 
 ## 1921 年の蓮池はいまも残っています
 
 ![台北植物園の蓮池。敷地は約 1 ヘクタールで、台北で最も早い時期の人工景観池の一つです。植物園は 1896 年に日本統治時代の殖産局が「台北苗圃」として創設し、1921 年に正式に「台北植物園」へ改名されました。戦後は林業試験所が現在まで管理し、蓮池は同じ場所に 100 年以上残っています。](/article-images/geography/guling-street-botanical-lotus-2013.webp)
-*2013 年 6 月の台北植物園蓮池。Photo: 玄史生 (panoramio), CC BY 3.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Lotus_Pond_in_Taipei_Botanical_Garden*台北植物園荷花池*-\_panoramio.jpg>).*
+_2013 年 6 月の台北植物園蓮池。Photo: 玄史生 (panoramio), CC BY 3.0 via Wikimedia Commons._
 
 牯嶺街の書店街は取り壊され、書籍露店は移転し、二代目の松林書局は 70 代になりました。しかし隣の台北植物園の蓮池は、いまも同じ場所にあります。
 

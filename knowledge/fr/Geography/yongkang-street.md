@@ -28,10 +28,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/永康街.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:97d1cb2148bf09ca'
-sourceBodyHash: 'sha256:457045b9eebdff05'
-translatedAt: '2026-06-16T17:05:54Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:86be5fe44de05439'
+sourceBodyHash: 'sha256:ad35178eae665c53'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Rue Yongkang : Taipei où ont vécu des professeurs japonais, où des Waishengren ont trouvé refuge, et qui attire aujourd’hui les touristes japonais et coréens
@@ -148,7 +148,7 @@ Din Tai Fung est le représentant international de la rue Yongkang, mais la cart
 Du commerce d’huile Din Tai Fung de 1958 à Yongkang Beef Noodles fondé en 1963 par un ancien soldat du Shanxi, de Dongmen Dumpling House fondé en 1953 par un ancien soldat du Shandong à Ice Monster et sa glace à la mangue en 1995, puis Smoothie House en 2000, **la chronologie gastronomique de Yongkang recoupe presque exactement celle de la migration waishengren vers Taïwan** : les vétérans arrivés de différentes provinces chinoises entre 1947 et 1955 apportèrent leurs pâtes de blé natales dans ces rues de Taipei ; 60 ans plus tard, elles devinrent l’étiquette touristique de la « cuisine de la rue Yongkang ».
 
 ![Paysage de boutiques de la rue Yongkang en journée, avec le Din Tai Fung Yongkang, les glaces à la mangue, les cafés hipsters et les librairies.](/article-images/geography/yongkang-street-shopfronts-2024.webp)
-*Paysage de boutiques de la rue Yongkang en journée, mars 2024. Photo : MAm ROFOW 022, CC0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW*台灣*Taiwan*台北*Taipei*大安區*Da%27An*永康街*Yongkang_Street_March_2024_R12S_650.jpg).*
+_Paysage de boutiques de la rue Yongkang en journée, mars 2024. Photo : MAm ROFOW 022, CC0 via Wikimedia Commons._
 
 ## Transformation après les années 1990 : hipsters, café, Instagram, loyers
 

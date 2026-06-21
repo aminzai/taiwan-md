@@ -19,10 +19,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/公視.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:b3bb62c6b702b9bd'
-sourceBodyHash: 'sha256:e2bbce2eb6bb7a5c'
-translatedAt: '2026-06-16T17:05:07Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:0005eee4bd863414'
+sourceBodyHash: 'sha256:de293f816b2012e3'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 > **Resumen en 30 segundos:**
@@ -116,7 +116,7 @@ Pero este estado intermedio de 17 años en sí mismo plantea una pregunta: ¿el 
 ## TaiwanPlus y el firewall invisible
 
 ![La presidenta Tsai Ingwen asiste a la conferencia de prensa de inauguración del canal TaiwanPlus de PTS, 3 de octubre de 2022, inicio oficial del canal internacional en inglés 24/7](/article-images/society/pts-taiwanplus-launch-2022.webp)
-_3 de octubre de 2022. La presidenta Tsai Ingwen asiste a la conferencia de prensa de inauguración del canal internacional en inglés 24/7 de TaiwanPlus de PTS, imagen del lugar antes de su discurso. Foto: Chien Chihhong / Oficina Presidencial de la República de China. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:10.03_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96TaiwanPlus%E9%A0%BB%E9%81%93%E9%96%8B%E6%92%AD%E8%A8%98%E8%80%85%E6%9C%83%E3%80%8D\*(52400876416).jpg).\_
+_3 de octubre de 2022. La presidenta Tsai Ingwen asiste a la conferencia de prensa de inauguración del canal internacional en inglés 24/7 de TaiwanPlus de PTS, imagen del lugar antes de su discurso. Foto: Chien Chihhong / Oficina Presidencial de la República de China. CC BY 2.0 via Wikimedia Commons._
 
 En 2021, el Ministerio de Cultura lanzó el plan TaiwanPlus con 580 millones de dólares taiwaneses; el 3 de octubre de 2022 se actualizó a canal internacional en inglés 24/7 con inicio oficial de transmisiones[^30]. Inicialmente, cuando PTS (Public Television Service) asumió la propuesta, enfrentó una fuerte acusación de ser "herramienta de propaganda gubernamental" + "intervención del gobierno en PTS"; el Ministerio de Cultura retiró la propuesta y pasó a ser ejecutada por la Agencia Central de Noticias; en agosto de 2022, la NCC anunció la transferencia de la plataforma de regreso a PTS[^31]. En tres años (2021-2023), TaiwanPlus consumió cerca de 3.000 millones de dólares taiwaneses; la Oficina de Auditoría evaluó que no cumplía los objetivos del plan de marketing de Taiwán; un año después de su lanzamiento (mediados de 2022), las descargas de la APP eran solo de decenas de miles, muy por debajo del objetivo de un millón[^32].
 

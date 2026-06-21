@@ -33,10 +33,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/公館.md'
-sourceCommitSha: 31a05c44
-sourceContentHash: 'sha256:d4a87d0d4d9ecb17'
-sourceBodyHash: 'sha256:18162eee72c09bc5'
-translatedAt: '2026-06-14T00:35:00+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:bcc022be65ff89b5'
+sourceBodyHash: 'sha256:b3b5dbb9d7dd34fc'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 궁관: 일본제국의 연구실, 계엄기의 지하 살롱, 타이완대 학생의 닭튀김 스테이크, 500미터 안의 세 세기
@@ -99,7 +99,7 @@ _2017년 9월, 국립타이완대학 교문. Photo: 寺人孟子, 2017-09-24. [L
 하지만 원저우제의 진정한 역사적 역할은 이 거리가 무슨 이름으로 불렸는지가 아니라, 전후 타이완 자유주의의 요람이 되었다는 데 있다.
 
 ![원저우제 16항의 좁은 골목. 양쪽에는 여전히 1928-1945년 일본 통치기 제국대 교수 숙소 시기의 목조 주택군 구조가 남아 있으며, 타이베이에 현존하는 가장 완전한 일본식 고등관사 취락 가운데 하나다](/article-images/geography/gongguan-wenzhou-street-lane-16-2021.webp)
-_2021년 8월, 원저우제 16항. Photo: Kiyoteru Awaji, 2021-08-09. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WenZhou_Street,_Taipei_(at*Lane_16).jpg) (CC BY 4.0).*
+_2021년 8월, 원저우제 16항. Photo: Kiyoteru Awaji, 2021-08-09. License via Wikimedia Commons (CC BY 4.0)._
 
 ## 쯔텅루: 1950년의 관사, 1981년의 찻집
 
@@ -228,7 +228,7 @@ _2016년 3월, 바오짱옌 관음정. Photo: panoramio user, 2016-03-16. [Licen
 > **📝 큐레이터 노트:** 궁관 상권의 음식 지형은 다른 타이베이 상권과 매우 다르다. 관광지, 시먼딩, 도 아니고, 클럽 지역, 신이구, 도 아니며, 문청 카페 지역, 융캉제, 도 아니다. 그것은 “**타이완대 학생 ATM**”이다. 평균 단가 80-150위안, 양이 많고, 앉아서 공부할 수 있으며, 24시간 돌아간다. 왜 이렇게 자랐을까. 타이완대, 타이완과기대, 타이완사범대 궁관 캠퍼스의 학생들을 서비스하기 때문이다. 세 대학의 총인원은 약 5만 명이고, 매일 평균 1-2끼를 궁관에서 먹어야 한다. 장기간 밀집된 학생 소비 압력이 궁관의 점포를 고가로도, 순수 관광 지향으로도 갈 수 없게 만들었다. 반드시 “저렴함 + 큰 양 + 빠른 속도”여야 했다. 일본 통치기 제국대가 계획한 “학교 + 숙소”의 이중 구조에 전후 학자 살롱층이 더해지고, 1980년 이후 서점층이 더해지며, 1999년 이후 대중 소비층이 더해졌다. 네 층이 포개져야 2026년의 그 밀도가 형성된다.
 
 ![저녁 무렵의 궁관 상권. 타이완대 교문에서 남쪽으로 뻗는 뤄쓰푸로 4단은 타이베이 남구에서 간식 밀도가 가장 높은 축선 가운데 하나이며, 1999년 MRT 신뎬선 개통 뒤 완전한 학생 소비 생태를 형성했다](/article-images/geography/gongguan-commercial-district-2011.webp)
-_2011년 10월, 타이베이시 궁관 상권. Photo: panoramio user, 2011-10-31. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E5%B8%82_%E5%85%AC%E9%A4%A8%E5%95%86%E5%9C%88*Gongguan*-_panoramio.jpg) (CC BY-SA 3.0)._
+_2011년 10월, 타이베이시 궁관 상권. Photo: panoramio user, 2011-10-31. License via Wikimedia Commons (CC BY-SA 3.0)._
 
 ## 500미터, 세 세기, 같은 축선
 

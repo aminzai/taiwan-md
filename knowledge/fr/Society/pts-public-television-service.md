@@ -19,10 +19,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 16
 translatedFrom: 'Society/公視.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:b3bb62c6b702b9bd'
-sourceBodyHash: 'sha256:e2bbce2eb6bb7a5c'
-translatedAt: '2026-06-16T17:05:54Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:0005eee4bd863414'
+sourceBodyHash: 'sha256:de293f816b2012e3'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 > **En 30 secondes :**
@@ -116,7 +116,7 @@ Mais cet état intermédiaire de 17 ans soulève une question en soi : dans le p
 ## TaiwanPlus et le pare-feu invisible
 
 ![La présidente Tsai Ing-wen prononce un discours lors de la conférence de presse de lancement de la chaîne TaiwanPlus de PTS, le 3 octobre 2022, date du lancement officiel de la chaîne internationale anglophone 24h/24](/article-images/society/pts-taiwanplus-launch-2022.webp)
-_Le 3 octobre 2022, la présidente Tsai Ing-wen prononce un discours lors de la conférence de presse de lancement de la chaîne internationale anglophone 24h/24 TaiwanPlus de PTS, avant son allocution. Photo : Chien Chih-hong / Bureau présidentiel de la République de Chine. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:10.03_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%85%AC%E5%85%B1%E9%9B%BB%E8%A6%96TaiwanPlus%E9%A0%BB%E9%81%93%E9%96%8B%E6%92%AD%E8%A8%98%E8%80%85%E6%9C%83%E3%80%8D\*(52400876416).jpg).\_
+_Le 3 octobre 2022, la présidente Tsai Ing-wen prononce un discours lors de la conférence de presse de lancement de la chaîne internationale anglophone 24h/24 TaiwanPlus de PTS, avant son allocution. Photo : Chien Chih-hong / Bureau présidentiel de la République de Chine. CC BY 2.0 via Wikimedia Commons._
 
 En 2021, le ministère de la Culture a lancé le projet TaiwanPlus avec 580 millions de dollars taïwanais ; le 3 octobre 2022, il a été mis à niveau en chaîne internationale anglophone 24h/24[^30]. Initialement, lorsque PTS avait repris la proposition, de vives protestations l'avaient accusé d'être un « outil de propagande gouvernementale » + « ingérence gouvernementale dans PTS » ; le ministère de la Culture avait retiré le projet et l'avait confié à l'Agence centrale de presse ; en août 2022, la NCC avait annoncé le transfert de la plateforme de retour à PTS[^31]. En trois ans (2021-2023), TaiwanPlus a englouti près de 3 milliards, et la Cour des comptes a évalué que les objectifs du projet de promotion de Taïwan n'avaient pas été atteints ; un an après le lancement (mi-2022), l'application n'avait été téléchargée que quelques dizaines de milliers de fois, loin de l'objectif d'un million[^32].
 

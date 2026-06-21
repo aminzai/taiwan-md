@@ -28,10 +28,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/永康街.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:97d1cb2148bf09ca'
-sourceBodyHash: 'sha256:457045b9eebdff05'
-translatedAt: '2026-06-16T17:03:25Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:86be5fe44de05439'
+sourceBodyHash: 'sha256:ad35178eae665c53'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Yongkang Street: Where Japanese Professors Once Lived, Mainlanders Fled to, and Japanese and Korean Tourists Now Find Their Taipei
@@ -148,7 +148,7 @@ Beginning in 1995, **Ice Monster**, now closed since 2009, appeared in Lane 15, 
 From Din Tai Fung’s 1958 oil shop, Yongkang Beef Noodles’ 1963 Shanxi veteran, and Dongmen Dumpling House’s 1953 Shandong veteran, to Ice Monster’s 1995 mango ice and Smoothie House’s 2000 succession, **the timeline of Yongkang Street’s food map almost completely overlaps with the timeline of mainlander migration to Taiwan**. Retired soldiers who arrived from various Chinese provinces between 1947 and 1955 brought their hometown wheat foods into these few Taipei streets, and 60 years later those foods became the tourism label “Yongkang Street cuisine.”
 
 ![Daytime shopfront street scene on Yongkang Street, with Din Tai Fung Yongkang, mango ice, hipster cafes, and bookstores side by side.](/article-images/geography/yongkang-street-shopfronts-2024.webp)
-*Daytime shopfront street scene on Yongkang Street, March 2024. Photo: MAm ROFOW 022, CC0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW*台灣*Taiwan*台北*Taipei*大安區*Da%27An*永康街*Yongkang_Street_March_2024_R12S_650.jpg).*
+_Daytime shopfront street scene on Yongkang Street, March 2024. Photo: MAm ROFOW 022, CC0 via Wikimedia Commons._
 
 ## Transformation After the 1990s: Hipsters, Coffee, Instagram, Rent
 

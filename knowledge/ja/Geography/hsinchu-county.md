@@ -26,10 +26,10 @@ lastVerified: 2026-05-18
 lastHumanReview: true
 featured: false
 translatedFrom: 'Geography/新竹縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:499e7dcb301a6ddb'
-sourceBodyHash: 'sha256:8df9daddb901affe'
-translatedAt: '2026-06-16T17:05:15Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:eefcd1a536e4ddf5'
+sourceBodyHash: 'sha256:a716f79b2442afc5'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # 新竹県：235年の義民信仰と台湾最高の1人当たり所得が、同じ頭前渓沿いにあります
@@ -49,7 +49,7 @@ translatedAt: '2026-06-16T17:05:15Z'
 ## 1788年冬、200体余りの遺骨をあの丘陵に合葬しました
 
 ![褒忠亭義民廟正面、2018年5月、新埔鎮枋寮里。客家義民信仰の中心廟で、乾隆53年（1788）冬に着工し、55年（1790）に正庁が完成、56年（1791）に廟全体が竣工しました。](/article-images/geography/hsinchu-county-hero.webp)
-_褒忠亭義民廟正面、2018-05-27。Photo: Outlookxp。[CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg)._
+_褒忠亭義民廟正面、2018-05-27。Photo: Outlookxp。CC BY-SA 4.0 via Wikimedia Commons._
 
 義民廟がなぜ235年の歴史を持つのかを理解するには、視点を乾隆51年（1786年）秋に戻す必要があります。
 
@@ -76,7 +76,7 @@ _褒忠亭義民廟正面、2018-05-27。Photo: Outlookxp。[CC BY-SA 4.0 via Wi
 金広福が南へ開墾した範囲には、現在の北埔郷、宝山郷、峨眉郷が含まれます。その後、粤籍墾首4代、閩籍墾首3代にわたり、1835年から1886年に劉銘伝の裁隘政策が実施されるまで、計52年続きました。呉三連台湾史料基金会の評価は重いものです。「**金広福墾号の成立は、先民が守勢から攻勢へ転じ、消極的な防御を積極的開拓へ改めて再出発したものであり、閩客協力の特例であり、さらに新竹地区内山開拓事業の終結者でもあった**」としています[^13]。
 
 ![姜阿新洋楼、北埔郷。バロック風の店舗兼住宅洋楼で、1946年に着工し、1949年に竣工しました。戦後第2世代の茶業隆盛期を示す建築です（日治時代の建築ではありません）。2021年の台湾ドラマ『茶金』のロケ地です。](https://upload.wikimedia.org/wikipedia/commons/2/24/%E5%A7%9C%E9%98%BF%E6%96%B0%E6%B4%8B%E6%A8%93.jpg)
-_姜阿新洋楼外観。Photo: Ckfhouse。[CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%A7%9C%E9%98%BF%E6%96%B0%E6%B4%8B%E6%A8%93.jpg)._
+_姜阿新洋楼外観。Photo: Ckfhouse。CC BY-SA 4.0 via Wikimedia Commons._
 
 北埔老街は、金広福が残した都市組織です。慈天宮、金広福公館、姜阿新洋楼、天水堂が並び、「**小さな古い集落の街区に、古跡と歴史建築が七つもある**」（VERSE誌）場所です[^14]。金広福公館は1983年に公告された一級国定古跡で、二進一院の四合院形式をとり、右外横屋は1935年の新竹台中大地震後に日本式建築へ改築され、左外横屋は清代の構成を保っています[^15]。
 
@@ -91,7 +91,7 @@ _姜阿新洋楼外観。Photo: Ckfhouse。[CC BY-SA 4.0 via Wikimedia Commons](
 雪山山脈の南西側、香山丘陵、湖口台地がラッパ状の沖積平野を囲み、北東季節風が入ると地形に拘束されて強まり、毎年旧暦9月下旬（およそ陽暦10月中旬）から「九降風」と呼ばれる乾いた冷たい強風が吹き始めます。風速は毎秒20メートルに達することがあります[^17]。九降風は三つのものを新竹県の特産にしました。新竹ビーフン（竹北一帯では、水に浸したビーフンを竹棚に掛け、北風で乾かすと日干しより均一に乾きます）、新埔干し柿（旱坑里で9-12月に天日干しされ、少なくとも170年の歴史があり、7-9日かけて、へた取り、皮むき、天日干し、風乾、整形を行います）、関西仙草（北風で乾かしてから収穫し、仙草ゼリーや温かい仙草に加工されます。新竹県関西鎮は台湾全体の仙草生産量の6割以上を占めます）です[^18]。
 
 ![北埔擂茶、2023年4月。客家擂茶は、陶鉢で茶葉、ゴマ、ピーナッツなど十数種類の食材をすりつぶす伝統的な客家飲料で、戦後の北埔観光化の過程で、新竹県で最も識別度の高い客家食体験となりました。](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
-_北埔擂茶。Photo: 總統府。[CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)._
+_北埔擂茶。Photo: 總統府。CC BY 2.0 via Wikimedia Commons._
 
 新埔にはもう一つ、板条街があります。中正路、和平街、成功街一帯には200軒以上の板条店が集まり、「**北の新埔、南の美濃**」という言い方があります[^19]。客家板条は客家料理を象徴する食べ物で、河洛人が言う「粄条」と同じものを別表記したものです。
 
@@ -106,7 +106,7 @@ _北埔擂茶。Photo: 總統府。[CC BY 2.0 via Wikimedia Commons](https://com
 新竹県の山地郷は二つあります。五峰郷（サイシャット族＋タイヤル族）と尖石郷（主にタイヤル族）です。新竹県内のサイシャット族人口は1560人で、五峰郷大隘村と花園村に居住しています。タイヤル族人口は1万5876人で、県内タイヤル族人口の約18.66%を占め、主に尖石郷にいます[^22]。この二つの郷は山地郷であり、原住民族自治の地域であるため、2010年に客家委員会が公告した客家文化重点発展区（11郷鎮市：竹北、竹東、新埔、関西、湖口、新豊、芎林、横山、北埔、宝山、峨眉）には含まれていません[^23]。
 
 ![スマングス巨木群、標高1500メートル。1991年、頭目Icyeh-Sulungが巴陵で神託の夢を見た後、族人は深山でベニヒ巨木群を見つけました。台湾第2、第3の大きさのベニヒ神木はいずれもこの区域にあります。1995年に外部連絡用の車道が開通し、2004年に部落議会Tnunanが成立し、「土地共有、協力共生」の憲法を定めました。](https://upload.wikimedia.org/wikipedia/commons/2/2f/Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4_-_panoramio_%283%29.jpg)
-_スマングス巨木群。Photo: panoramio user via Wikimedia. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4*-\_panoramio*%283%29.jpg).\_
+\_スマングス巨木群。Photo: panoramio user via Wikimedia. CC BY 3.0 via Wikimedia Commons.\_
 
 スマングス（タイヤル語 Qalang Smangus）は尖石郷玉峰村に位置し、標高は約1500メートルです。台湾で最も辺境にある原住民部落の一つです。電力が供給されたのは1979年になってからでした[^24]。1991年、頭目Icyeh-Sulung（倚岕穌隆）は巴陵で神託の夢を見て、戻ってから族人に深山へベニヒを探しに行くよう告げました。「**先祖たちが言い聞かせたとおり、彼らは深山のヒノキ林で最大のベニヒ巨木を見つけた**」のです[^25]。台湾第2、第3の大きさのベニヒ神木はいずれもスマングス神木区にあります。1995年6月に外部連絡用の車道が開通し、「**スマングスは正式に全体社会と接続した**」とされます[^26]。
 
@@ -135,7 +135,7 @@ _スマングス巨木群。Photo: panoramio user via Wikimedia. [CC BY 3.0 via 
 しかし、竹北を本当に転換させたのは、2007年1月5日に開業した台湾高速鉄道新竹駅（六家駅）でした。
 
 ![湖口老街、新竹県湖口郷、全長約300メートル。劉銘伝が「大湖口火車碼頭」を設けたことで繁栄し、日治大正年間に現在の赤煉瓦・ローマバロック風牌楼へ整備されました。鉄道路線の調整後に商業は衰退し、老街は大正年間の姿のまま凍結され、結果として完整に保存されました。](https://upload.wikimedia.org/wikipedia/commons/c/c1/Hukou_Old_St.jpg)
-_湖口老街。Photo: Whhalbert。[CC BY-SA 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hukou_Old_St.jpg)._
+_湖口老街。Photo: Whhalbert。CC BY-SA 3.0 via Wikimedia Commons._
 
 高速鉄道新竹駅は竹北市の高速鉄道特区にあり、新竹科学園区から車で約10分です。2007年の開業時、竹北の人口は約12万人でした。2025年9月末には竹北市の人口は220,662人、ほぼ22万人となり、18年間で人口が倍増しました[^35]。竹北高速鉄道特区は、「新竹科学園区の高所得層を大量に磁石のように引き寄せる」住宅地にもなりました。
 
@@ -146,7 +146,7 @@ _湖口老街。Photo: Whhalbert。[CC BY-SA 3.0 via Wikimedia Commons](https://
 ## 義民信仰の隣にあるTSMC宝山第2工場
 
 ![内湾駅、2016年、横山郷内湾村。内湾支線の終着駅で、1950年代に林業・鉱業に奉仕するため建設されました。1990年代に鉱業・林業が衰退した後、観光化へ転換しました。劉興欽の漫画『阿三哥與大嬸婆』は当地を背景にしています。](https://upload.wikimedia.org/wikipedia/commons/4/43/%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99_%2827648470482%29.jpg)
-_内湾駅。Photo: billy1125。[CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99*%2827648470482%29.jpg).*
+_内湾駅。Photo: billy1125。CC BY 2.0 via Wikimedia Commons._
 
 新竹県の現代的矛盾には、劇的な事件があるわけではありません。それは地図上の二つの点が同時に光っている状態です。
 

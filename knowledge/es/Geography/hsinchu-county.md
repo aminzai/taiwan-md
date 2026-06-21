@@ -26,10 +26,10 @@ lastVerified: 2025-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: Geography/新竹縣.md
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:499e7dcb301a6ddb'
-sourceBodyHash: 'sha256:8df9daddb901affe'
-translatedAt: '2026-06-16T17:05:07Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:eefcd1a536e4ddf5'
+sourceBodyHash: 'sha256:a716f79b2442afc5'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Condado de Hsinchu: 235 años de fe en los Yi-min y el ingreso per cápita más alto de Taiwán, conviviendo junto al mismo río Touqian
@@ -106,7 +106,7 @@ Al llegar al municipio de Jianshi, aparece otro mundo del Condado de Hsinchu.
 Los municipios de montaña del condado son dos: el municipio de Wufeng (SaySiyat + Atayal) y el municipio de Jianshi (predominantemente Atayal). La población SaySiyat en el Condado de Hsinchu es de 1,560 personas, residentes en los pueblos de Daai y Huayuan en el municipio de Wufeng; la población Atayal es de 15,876 personas, aproximadamente el 18.66% de la población Atayal del condado, principalmente en el municipio de Jianshi[^22]. Estos dos municipios, al ser zonas de montaña con autonomía indígena, no fueron incluidos en las zonas clave de desarrollo cultural Hakka anunciadas por el Consejo Hakka en 2010 (los 11 municipios son Zhubei, Zhudong, Xinpu, Guanxi, Hukou, Xinfeng, Qionglin, Hengshan, Beipu, Baoshan y Emei)[^23].
 
 ![Grupo de árboles gigantes de Smangus, a 1,500 metros de altitud. En 1991, el jefe tribal Icyeh-Sulung tuvo una visión profética en Balong, tras la cual los miembros de la tribu encontraron el grupo de secuoyas gigantes en las montañas profundas. La segunda y tercera secuoyas más grandes de Taiwán se encuentran en esta zona. En 1995 se abrió la carretera de acceso; en 2004 se fundó el consejo tribal Tnunan, estableciendo una "constitución" de "tierra compartida, coexistencia cooperativa".](https://upload.wikimedia.org/wikipedia/commons/2/2f/Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4_-_panoramio_%283%29.jpg)
-_Grupo de árboles gigantes de Smangus. Foto: usuario de panoramio via Wikimedia. [CC BY 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4*-\_panoramio*%283%29.jpg).\_
+_Grupo de árboles gigantes de Smangus. Foto: usuario de panoramio via Wikimedia. CC BY 3.0 via Wikimedia Commons._
 
 Smangus (en Atayal, Qalang Smangus) se encuentra en el pueblo de Yufeng, municipio de Jianshi, a una altitud de aproximadamente 1,500 metros, siendo una de las tribus indígenas más remotas de Taiwán. No tuvo suministro eléctrico hasta 1979[^24]. En 1991, el jefe tribal Icyeh-Sulung (Yijue Sulong) tuvo una visión profética en Balong, y al regresar dijo a los miembros de la tribu que fueran a buscar secuoyas en las montañas profundas; "**tal como los ancestros les habían indicado, encontraron la secuoya más grande en el bosque de secuoyas de las montañas profundas**"[^25]. La segunda y tercera secuoyas más grandes de Taiwán se encuentran en la zona de árboles gigantes de Smangus. En junio de 1995 se abrió la carretera de acceso vehicular, y "**Smangus se conectó formalmente con la sociedad en general**"[^26].
 
@@ -146,7 +146,7 @@ La revista _CommonWealth_ cita las palabras de un residente local de Zhubei: "**
 ## El Templo de los Yi-min junto a la Fase II de Baoshan de TSMC
 
 ![Estación de tren de Neiwan, 2016, pueblo de Neiwan, municipio de Hengshan. Estación terminal de la línea secundaria de Neiwan, construida en la década de 1950 para servir a la industria forestal y minera, y reconvertida al turismo en la década de 1990 tras el declive de ambas industrias. Los cómics de Liu Xingqin, *Ah San Ge y la Tía Da Shen Po*, están ambientados en esta zona.](https://upload.wikimedia.org/wikipedia/commons/4/43/%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99_%2827648470482%29.jpg)
-_Estación de tren de Neiwan. Foto: billy1125. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99*%2827648470482%29.jpg).*
+_Estación de tren de Neiwan. Foto: billy1125. CC BY 2.0 via Wikimedia Commons._
 
 La contradicción contemporánea del Condado de Hsinchu no tiene eventos dramáticos. Son dos puntos en el mapa que brillan simultáneamente.
 

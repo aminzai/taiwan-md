@@ -29,10 +29,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/四四南村.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:48350666b07ad604'
-sourceBodyHash: 'sha256:d1d5c9161c22bb16'
-translatedAt: '2026-06-16T17:05:07Z'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:e3cf0ff2d18ee6c2'
+sourceBodyHash: 'sha256:ceea55d78cdbac6b'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Sisi Nan Cun: la aldea de dependientes del arsenal que hoy es un parque cultural junto al Taipei 101
@@ -154,7 +154,7 @@ Al salir de la plaza de Sisi Nan Cun y caminar 200 metros hacia el sur se llega 
 El contraste entre ambos edificios es uno de los paisajes más fotografiados de Taipéi bajo la fórmula “historia vs. modernidad”: los bungalows de teja roja construidos por técnicos de Shandong llegados desde Qingdao en 1948, junto al rascacielos de 508 metros terminado en 2004[^19]. La horizontalidad de la aldea frente a la verticalidad del 101; el ladrillo rojo de la aldea frente al muro cortina de vidrio del 101; la campana del arsenal frente a las luces de advertencia aérea del 101.
 
 ![Bungalows de Sisi Nan Cun junto al Taipei 101. Los tejados rojos de las viviendas de 1948 y el rascacielos de 508 metros terminado en 2004 entran en el mismo encuadre: una de las escenas de contraste “historia vs. modernidad” más fotografiadas por turistas extranjeros en Taipéi.](/article-images/geography/sisi-south-village-taipei-101-2017.webp)
-_Marzo de 2017, Sisi Nan Cun y el Taipei 101 en el mismo encuadre. Photo: Hal Maa. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buildings_at_Four_Four_South_Village_%28%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91%29*at_9_March_2017_in_Taipei%2C_showing_Taipei_101*%28%E8%87%BA%E5%8C%97101%29*and_a_new_skyscraper_being_built_in_the_background.jpg) (CC BY-SA 4.0).*
+_Marzo de 2017, Sisi Nan Cun y el Taipei 101 en el mismo encuadre. Photo: Hal Maa. License via Wikimedia Commons (CC BY-SA 4.0)._
 
 Geográficamente, ambos edificios están sobre el mismo antiguo terreno del 44.º Arsenal.
 

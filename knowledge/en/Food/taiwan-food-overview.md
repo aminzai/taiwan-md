@@ -23,10 +23,10 @@ lastVerified: '2026-05-18'
 lastHumanReview: false
 featured: true
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:ca3079f9c00d31cf'
-sourceBodyHash: 'sha256:c5fac90142ae7a6b'
-translatedAt: '2026-06-14T00:35:00+08:00'
+sourceCommitSha: 'fe48ea49'
+sourceContentHash: 'sha256:5170de2db0a4b0df'
+sourceBodyHash: 'sha256:9da2f70ce1ba4f1f'
+translatedAt: '2026-06-22T00:30:00+08:00'
 ---
 
 # Taiwanese Food Overview: No Dish Is Purely Taiwanese, and Every Dish Is Taiwanese to the Core
@@ -51,7 +51,7 @@ To see the base layer of Taiwanese food, one has to look back to an era when no 
 The deepest layer is Indigenous. Each of the sixteen officially recognized peoples has its own way of eating, but what they share is **“in place”**: where the mountains are, where the sea is, and which foods belong to which season. The Amis call themselves “the people who eat grass,” with more than two hundred edible wild vegetables; their “ten-heart vegetable” dish uses the tender stems of seven plants: rattan heart, pandanus heart, betel nut palm heart, silvergrass heart, shell ginger heart, sugarcane heart, and coconut heart[^5]. The Paiwan dish “cinavu” wraps millet and pork in shell ginger leaves and false physalis leaves; it is festival food. They also developed “slate-grilled meat,” using the even heat of schist slabs to grill wild boar[^6]. In summer, the Puyuma drink binaleng, a sour-spicy soup made by fermenting wild cherry tomatoes with bamboo shoots[^7]. The Atayal spice maqaw, or mountain pepper, looks like black peppercorns after drying and combines the aromas of black pepper, ginger, and lemon. In 2018, the Michelin Guide included it among “five Taiwanese Indigenous ingredients you should know”[^8].
 
 ![Paiwan traditional food cinavu, made by wrapping millet and pork in shell ginger leaves and false physalis leaves](/article-images/food/taiwan-food-cinavu-paiwan-beiyeh-2024.webp)
-*Cinavu is festival food among the Paiwan, Rukai, and Puyuma, sealing memories of mountain and sea inside shell ginger leaves. Photo: Sin-siōng, 2024, CC BY-SA 4.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:排灣族飲食*北葉部落吉拿富-02.jpg).\_
+\*Cinavu is festival food among the Paiwan, Rukai, and Puyuma, sealing memories of mountain and sea inside shell ginger leaves. Photo: Sin-siōng, 2024, CC BY-SA 4.0 via Wikimedia Commons.\_
 
 Above that layer are Minnan and Hakka people who crossed the sea from Fujian and Guangdong during the Qing period.
 
