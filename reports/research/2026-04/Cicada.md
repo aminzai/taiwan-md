@@ -385,5 +385,6 @@ _EVOLVE Addendum v3.0 — Chrome MCP 官方頻道深掃 + 跨源驗證 — 2026-
 - 「台灣的 Arnalds／Frahm／坂本龍一」獨立外媒零證據（只樂團 press bio 同台履歷，不可寫成樂評定論）。
 - 俄羅斯 6 城市名未證（只「6 城」可寫，且是去「觀賞」柴可夫斯基大賽，非參賽/演出）。
 - 那個男人獎項：禁寫「Cicada 奪最優秀音樂賞」（實為優秀音樂賞，入圍層級）。
+- ✅ **2024 日本巡演日期 RESOLVED（2026-06-21 prettier-url-fix session 查證）**：原文 ^14 寫「10-11 月（東京 10-20／名古屋 10-10／原宿 ARC 11-04／Unit Dome 10-27）」=**原始 2026-04 研究幻覺**。[flau 官方](https://flau.jp/event/cicada-japan-tour-2024/) 與 [Songkick](https://www.songkick.com/artists/9298194-cicada-taiwan)（即 ^14 原引來源）皆列 **2024 年 6 月**：6/1-6/2 熊本早川倉庫、6/7 東京武藏野公會堂、6/8 兵庫三田、6/9 大阪富田林天文館 + 7/27 台北場；無任何 10-11 月場次。文章 + ^14 已依官方更正為 6 月。
 
 _EVOLVE Addendum v4.0 — 3-agent 深度研究 + 主 session verbatim 復驗 — 2026-06-21-122005-cicada-deepen_
