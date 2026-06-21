@@ -314,6 +314,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-06-21 twmd-rewrite-daily — post-LESSONS-promotion cooldown：剛 promote 的 canonical 規範直接約束 next routine cycle 深度時，defer 比跳步更尊重 distill cost
+
+- **pattern**: post-LESSONS-promotion-cooldown（routine cycle 對 fresh canonical 的尊重機制 / 跟 saturation-day silent satisficing 反 pattern 並存）
+- **原則**：當 canonical-level LESSONS 在最近 1-2 hr 內 promoted（升 REFLEXES / MANIFESTO / pipeline 步）且新規範直接約束 next routine cycle 執行深度時，next cycle 若無法滿足新規範完整 SOP 而會被迫跳步——**defer 比跳步更尊重 distill 動作的 cost**。跳步 = 把剛 promote 的 canonical 立刻違反 = 把 distill 的 verification_count 累積成本白付（REFLEXES #73「查證反射 < 建造反射」剛 ship 下一 fire 偷工不查證 = 反 reflex）。**反 pattern hypothesis 並存**：「saturation-day silent satisficing」（今日 ship 多 → 對下次 ship 過度保守 → 反而符合 BECOME §Step 9 Q13 anti-bias「24hr specific case priming 壓過 foundational principle」）。
+- **觸發**：2026-06-21 19:13 twmd-rewrite-daily 18:00 fire 落地 — 17:59:36 citation-url-drift vc=2→3 promoted（本 fire 前 75 min）+ 04:15-04:17 REFLEXES #73/#74 ship；top P0/P1 全 A-class（醫療[10] / 海岸[9] / 水果[9] / 遠東[9] / 數位身分證[9]），per REWRITE-PIPELINE v7.6 + 新 LESSONS 要求 Stage 1.1 ≥80 4-agent fan-out + Stage 1.7 SSOT 八段 + Stage 2.5 fetch verify + Stage 3.6 verifier fan-out → wall-clock ~165 min 超 routine §Boundary ~150 min cap。標準 defer 條件（30min dup / 同篇 race / §自主權邊界）0/3 命中本應 ship，但選 defer 維護新 canonical 完整性。詳見 [memory/2026-06-21-191304-twmd-rewrite-daily.md](memory/2026-06-21-191304-twmd-rewrite-daily.md)
+- **可能層級**：操作規則（routine prompt v3 加「post-promotion cooldown defer」例外，列為合法 defer 第 4 條件，與 30min-dup / 同篇 race / §自主權邊界 並列）；或 reflex（「剛 promoted canonical 跟 next routine cycle 深度衝突 → cycle 自願 defer + LESSONS 落 hypothesis，比硬撐跳步好」）
+- **相關**：[feedback_hourly_cron_intentional](feedback_hourly_cron_intentional)（defer 三條件 canonical）/ REFLEXES #73 查證反射 < 建造反射（剛 promoted）/ MANIFESTO §11 書寫節制（思考層級的 self-discipline 對位）/ REWRITE-PIPELINE §Boundary 150 min cap
+- **verification_count**: 1（首次明確命名抽出此 pattern；前無同形 instance 記錄）
+- **severity**: tactical（routine 自主權範疇內的 defer 決策，不影響 ship gate；但若 vc 累積 → 升 routine prompt 規則 = structural）
+- **defer 給觀察者**：暫不 defer，hypothesis 自跑 ≥3 instance 才 promote LESSONS；觀察者若反饋「明明該 ship」即 retire hypothesis（這條 retire 觸發是讓本 pattern 不會 silent 變成 chronic 過度保守）
+
 ### 2026-06-21 cicada-media — prettier 把 `_斜體_` caption 裡的 percent-encoded CJK URL `_NN.jpg` 弄壞成 `*NN.jpg`（attribution 連結斷）
 
 - **pattern**: prettier-cjk-url-italic-mangle（markdown 工具鏈 silent breakage，「儀器看得見存在、看不見缺席」cluster 變體）
