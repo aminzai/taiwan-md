@@ -230,3 +230,54 @@ verification:
 ---
 
 _Stage 1 Research Report v2.0 — 26+ sources per REWRITE-PIPELINE v2.17 — 2026-04-18_
+
+---
+
+# EVOLVE Addendum v3.0 — 影音素材深掃 + 2 新專輯（2026-06-21）
+
+> 觸發：哲宇 directive「補充影音素材，10+ 作品跟影片，專輯相關素材也都補充，有作品就外連結 YouTube 跟代表作品坎入」。
+> 方法：Chrome MCP 深掃官方 YouTube 頻道 rendered DOM（Step 1.9.0），逐一驗證官方上傳。
+
+## 官方頻道更正（REFLEXES #16/#31）
+
+- ❌ 舊 footnote ^18 寫 `@Cicada-Taiwan` → **404 不存在**（AI hallucinated handle）。
+- ✅ 正確官方頻道：**`@Cicadatw`**，channelId `UCLDw8SU0rik3vQyW2K-m8_w`（從已知官方 MV yM15Y3e_pBU 的 ytInitialPlayerResponse.videoDetails.channelId 反查確認）。
+- 全頻道 60 支影片掃描，每支標題含「(Official MV)」或官方演出/幕後標記 → 全部官方上傳，embeddability HTTP 200 + ytInitialPlayerResponse playable。
+
+## 重大新發現（原 2026-04 報告未涵蓋）
+
+1. **《凝視白色的邊界》Gazing the Shades of White（2025-10-30，flau FLAU111 發行）** — 樂團第一張把田野推出國境的專輯，8 首曲。官方描述（逐字）：「循冰而行，跨越南北半球」，旅程經格陵蘭伊盧利薩特峽灣、冰島高地、紐西蘭 Aoraki，最後回到台灣雪山尋找古冰川的痕跡。跨源驗證：cicada.bandcamp.com / flau.bandcamp.com / acloserlisten.com 樂評（2025-11-14）/ discogs / rateyourmusic 一致。
+2. **《仰望海平面》Light Shining Through the Sea（2015）** — 東海岸與太平洋主題（vs《邊境消逝》西海岸）。官方描述（逐字）：「以音樂模擬海的各種樣態，包括難以捉摸的海流、高高撐起的長浪、礁岩旁的碎浪、來回撫觸岸灘的浪沫」。其中一首選入 flau 合輯《Ocean》= Cicada × flau 合作起點（2015，早於 2025 凝視白色的邊界十年）。
+3. **《自畫像》The Last Painting OST（2017）** — 國片電影配樂，5 曲（Main Theme / 黑色的眼睛 / 第二/三/四幅畫）。早於《那個男人》的電影配樂作品（後者仍是第一次「跨國」）。
+
+## 媒體授權矩陣
+
+### iframe 內嵌（5 支官方 MV，沿時間軸 narrative arc）
+
+| 曲目                                      | video ID    | 出處專輯            | 官方頻道驗證 | 用途                 |
+| ----------------------------------------- | ----------- | ------------------- | ------------ | -------------------- |
+| 匯流向海 into the Ocean                   | eRjISXfltXM | 邊境消逝 2013       | @Cicadatw ✓  | iframe（最高點閱）   |
+| 越過海岸山脈 Over Coastal Range           | 2k0fMZFXc2E | 仰望海平面 2015     | @Cicadatw ✓  | iframe（新章節）     |
+| 降落在金黃色草坡 Sunlit Grassland         | wDlyIutBXq4 | 走入有霧的森林 2019 | @Cicadatw ✓  | iframe（金曲）       |
+| 巨木曾在的痕跡 Remains of Ancient Trees   | W2HBuO5SC40 | 棲居在溪源之上 2022 | @Cicadatw ✓  | iframe（讀者點名曲） |
+| 凝視白色的邊界 Gazing the Shades of White | QTAcuOhr2KU | 凝視白色的邊界 2025 | @Cicadatw ✓  | iframe（新章節結尾） |
+
+### inline 外連（作品年表，25+ 曲，全官方頻道）
+
+涵蓋 10 張專輯/OST：散落的時光 2011 / 邊境消逝 2013 / 仰望海平面 2015 / 自畫像 OST 2017 / 不在的你們 2017 / 走入有霧的森林 2019 / 棲居在溪源之上 2022 / 那個男人 2022 / 回返 2024 / 凝視白色的邊界 2025。
+
+### 圖片
+
+| 媒體檔                                  | 來源                             | 授權         | 來源 URL                                             | 用途 |
+| --------------------------------------- | -------------------------------- | ------------ | ---------------------------------------------------- | ---- |
+| cicada-cuichi-xueshan-glacial-lake.webp | Blackjack633 / Wikimedia Commons | CC BY-SA 4.0 | commons.wikimedia.org/wiki/File:翠池\_汪大智\_05.jpg | hero |
+
+> hero 選 Tier B 脈絡圖（翠池 = 雪山冰河遺跡）而非樂團照（無 CC 授權）；呼應全器樂無人聲樂團「不要用眼睛找我們、用耳朵」的去人像 identity，且扣回 2025《凝視白色的邊界》回到雪山的結尾。album art 為 flau / 小白兔 廠牌版權，採 video-rich（5 官方 MV）而非 album-cover fair-use。
+
+## 事實校準（absolute-facts 自檢）
+
+- 「雪山唯一/僅存古冰川遺跡」→ 軟化為「少數之一」「上一個冰河期留下的痕跡」（南湖大山亦有圈谷，官方描述也未宣稱唯一）。
+- 「首度走出台灣」「第一張把田野推出國境」→ 官方描述「十餘年皆台灣，此張循冰跨半球」框架支持，保留。
+- 「那個男人第一次跨國電影工業」→ 保留（自畫像 2017 為國片，不衝突）。
+
+_EVOLVE Addendum v3.0 — Chrome MCP 官方頻道深掃 + 跨源驗證 — 2026-06-21-091617-cicada-media_
