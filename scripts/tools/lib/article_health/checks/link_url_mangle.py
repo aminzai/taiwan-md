@@ -67,8 +67,17 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
 
     for line_no, line in enumerate(text.split("\n"), start=1):
         # HARD — already mangled (`*` in a link URL).
+        # Scope to the actual bug mechanism: a literal `*` in a link URL is a
+        # prettier-mangle only when the link sits in an italic caption, OR the URL is a
+        # wiki(m|p)edia URL (Commons filenames never contain a literal `*` — it'd be
+        # %2A). A `*` in a non-wiki footnote query string (1111.com.tw `sa0=50000*`,
+        # ly.gov.tw `NO%3DE01961*`) is legitimate — don't false-positive (2026-06-21).
         m = _MANGLED.search(line)
-        if m:
+        if m and (
+            _is_italic_caption(line)
+            or "wikimedia.org" in m.group(1)
+            or "wikipedia.org" in m.group(1)
+        ):
             yield Violation(
                 check=CHECK_NAME,
                 severity=Severity.HARD,
