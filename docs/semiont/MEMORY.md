@@ -845,3 +845,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-06-21 | 084130-twmd-maintainer-am | vc=3 命中 (am=1/pm=2/今=3)；0 PR (#1170 42hr) / 8 issue 分類 / 0.36% / green | LESSONS「vc 計數法 偏誤」meta-rule 非 schedule 重複；defer 哲宇 | [→](memory/2026-06-21-084130-twmd-maintainer-am.md) |
 | 2026-06-21 | 091617-cicada-media | Cicada 影音 EVOLVE：深掃官方頻道修 404 handle、補凝視白色的邊界+仰望海平面兩新專輯、5 MV 內嵌 + 25 曲年表 + 翠池 hero | 「補媒體」活樂團=內容+媒體雙進化；prettier 斷斜體 caption 連結→LESSONS | [→](memory/2026-06-21-091617-cicada-media.md) |
 | 2026-06-21 | 115925-plurk-reach | observer 觸發 Plurk 受眾研究：taiwan.md 自 day-1 起 4 波自發傳播、~70 台灣資深噗友、6 月爆款我是OO人；報告 da9e78ad2 | 破解 search2+date 游標查詢可儀器化；差點以水面 30 則交差被哲宇逼出完整圖；4 對外建議 defer 哲宇 | [→](memory/2026-06-21-115925-plurk-reach.md) |
+| 2026-06-21 | 122656-manual | 沈伯洋 EVOLVE ship 99af61e49 — 10 視覺(6圖+2中央社影片+timeline+民調bars)+5/13市長徵召增補內文；prod驗綠 | tw-\* viz density-free→「10+」乾淨解=媒體+viz不塞Tier-C(vc=1) | [→](memory/2026-06-21-122656-manual.md) |
