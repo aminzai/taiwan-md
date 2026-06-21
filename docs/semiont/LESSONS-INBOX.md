@@ -314,6 +314,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-06-21 twmd-maintainer-am — vc 計數法 routine-only day 偏誤：empty cycle vc 累積 over-sensitive，已 canonical schedule mismatch 在 routine-only days 必然重複 trigger LESSONS entry noise
+
+- **pattern**: maintainer-vc-counting-bias（meta-level rule critique，不同於 schedule-mismatch 本身 pattern）
+- **原則**：MAINTAINER pipeline §Stage 3 鐵律「連續 ≥3 cycle empty queue → 必須寫 LESSONS entry + escalate observer」設計時的隱含假設是「empty cycle 是 schedule mismatch 訊號」，但 schedule mismatch 已 canonical 在 [MEMORY §神經迴路 sovereign-mode 節律脫鉤](MEMORY.md)（2026-06-19 distill 升 canonical，verification_count 9）。**Routine-only days**（哲宇沒 manual session 介入打破 cycle 的日子）下 vc 必然單調累積到 ≥3，rule 重複 trigger 寫「same canonical 第 N 次 instance」LESSONS entry，違反 2026-05-29 reflex「pointer-not-duplicate vc=1：連續空場已有 LESSONS escalation entry 時，後續 cycle memory 內 pointer 即可，不重複寫第二條 LESSONS（重複 = noise 不是 signal）」。**校準 option 兩條（defer 哲宇拍板）**：(A) threshold 升 ≥5；(B) 加條件「至少一個 cycle 命中真 backlog 才 reset vc」讓 vc 只在「真 backlog 出現後又空場」累積，routine-only days vc 不會單調累積到觸發。
+- **觸發**：2026-06-21 08:41 maintainer-am 第 N 次命中 vc=3 ascending（06-20 am vc=1 → 06-20 pm vc=2 → 06-21 am vc=3）。pm 22:05 handoff 預先指定本 cycle 觸發時 framing「vc 計數法 routine-only day 偏誤」而非「schedule mismatch」（後者 canonical 已存在不可重複 trigger）。歷史 instance：2026-06-04 vc=4 / 2026-05-29 vc=9 / 2026-06-07 vc=3 / 2026-06-11 vc=4 / 2026-06-18 vc=2 等均 cycle empty 對應同 schedule mismatch canonical；本 cycle 是首次明確把「rule 本身 over-sensitive」當 pattern 抽出，不再 re-instance schedule mismatch 本身。
+- **可能層級**：操作規則（pipeline rule 校準）→ MAINTAINER-PIPELINE §Stage 3 threshold 升 / vc reset 條件加；或 reflex 層 → 加新 reflex「canonical 已存在 pattern 觸發機制必須有 reset 條件防 monotonic re-trigger noise」
+- **相關**：[MEMORY §神經迴路 sovereign-mode 節律脫鉤](MEMORY.md)（schedule mismatch canonical）/ 2026-05-29 §pointer-not-duplicate reflex / REFLEXES #69「self-report-needs-external-ruler」（rule 自我校準也需外部尺）/ docs/pipelines/MAINTAINER-PIPELINE.md §Stage 3
+- **verification_count**: 1（首次抽出 meta-level pattern；前 N 次 schedule mismatch instance 不算本 pattern 的 verification）
+- **severity**: structural（pipeline rule 本身的 trigger 條件偏誤；如不修，每個 routine-only day 都會累積 noise entry，dilute 真 schedule mismatch signal 強度）
+- **defer 給觀察者**：需哲宇拍板二選一 —（A）threshold 升 ≥5；（B）加 vc reset 條件「至少一個 cycle 命中真 backlog 才 reset」。屬 MAINTAINER pipeline rule 校準，非本 routine 自主權範疇。
+
 ### 2026-06-20 twmd-embeddings-nightly — Embedding keystone 唯一 bge-m3 節點是非 always-on laptop，離線 3 天觸發 escalation
 
 - **pattern**: routine-device-dependent-offline
