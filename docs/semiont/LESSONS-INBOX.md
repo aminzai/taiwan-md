@@ -314,6 +314,28 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-06-22 twmd-babel-nightly — ollama-translate.py 路徑解析 bug：en_path 開頭 `knowledge/` 時 lang 被偵測為 "knowledge" → model 收到「Translate to knowledge」 → 直接吐英文蓋掉 ja 檔
+
+- **pattern**: tool-input-shape-mismatch-silent-wrong-output（cascade tier 平常不走 → bug 沉睡 → cascade 全動員時才被踩到的 fault-tolerance gap）
+- **原則**：`scripts/tools/lang-sync/ollama-translate.py:135` `lang = group["articles"][0]["en_path"].split("/")[0]` 假設 en_path 不含 `knowledge/` 前綴，但 manifest 由 `prepare-batch.py` 生成時 en_path = `knowledge/ja/People/jimmy-liao.md` → split[0] = `"knowledge"` → `LANG_NAMES.get("knowledge", "knowledge")` → model prompt `"Translate to knowledge"` → 模型放棄理解目標語言，直接複製英文/隨機輸出。**完全 silent**（無 exception、無 warning），output 還是 markdown frontmatter 完整、size 41963 bytes 看起來健康，但實際內容 0 個假名 = 100% 英文 garbage 覆蓋 stale 但仍是日文的原檔
+- **觸發**：2026-06-22 01:25 cascade Tier 4 fall-through ja 幾米 first attempt — Ollama subprocess `📋 Translating 1 article(s) to **knowledge** via Ollama qwen3.6:35b-a3b-coding-nvfp4` 提示「knowledge」是 dead giveaway 但 cron 模式無觀察者攔截。發現後 `git checkout HEAD -- knowledge/ja/People/jimmy-liao.md` 還原 + 手動 patch manifest `knowledge/ja/...` → `ja/...` 後重跑 ok ratio 1.23
+- **可能層級**：(a) tooling 修補 — `ollama-translate.py` 加 `--lang` flag override 像 `codex-translate.py` / 或 split 時 strip `knowledge/` 前綴；(b) reflex — 「cascade 罕用 tier 第一次跑命中 bug 是 fault-tolerance gap 的 expected scenario」(routine 飛輪 stress test 是 bug 浮現的健康路徑)；(c) ground truth verify 補閘門 — `audit-quality.py` 應該對非中文目標語檔案 grep target-lang 字元 ≥ N (ja → 假名計數 / ko → 한글 / es+fr → 拉丁特殊字元) 否則 hard fail
+- **相關**：[memory/2026-06-22-013049-twmd-babel-nightly.md](memory/2026-06-22-013049-twmd-babel-nightly.md) Finding 2 / REFLEXES #38 silent killer pattern (mismatch dimension 不發聲) / SQUEEZE-MODELS-MAX-PIPELINE §第一性原理 (4-tier cascade 設計)
+- **verification_count**: 1（首次明確踩到此 bug；過去 5 夜 Tier 0a+1 解掉就沒走 Tier 4 → bug 沉睡未被觸發）
+- **severity**: structural（silent wrong output 是 data integrity 級別 — 若無人發現會 ship 100% 英文當 ja 進 production；幸 cron 模式下我自己 verify 抓到）
+- **defer 給觀察者**：暫不 defer，hypothesis 自跑 ≥3 instance 才 promote（或下次 weekly self-evolve 加 quality_gate 抽樣命中即 fast-track）
+
+### 2026-06-22 twmd-babel-nightly — codex CLI subscription burst quota：19 call 後第 20 call 起 quota cut（"Reading prompt from stdin... exit 1" 8-22s 秒 fail）— large-batch 夜應預設 Tier 0a + Tier 2 雙線，不死撐 codex
+
+- **pattern**: cloud-subscription-burst-quota-1tier-only（routine 飛輪在 ≥25 call 夜 codex Tier 1 单一回退會打穿 quota，cascade design 必須提前 split）
+- **原則**：codex CLI subscription（research preview tier）有 burst quota cap，今晚 5 parallel × 17m46s 跑 19 call 後第 20 call 觸發 quota cut，誤判為 stdin race → 降到 2x2 parallel pairs 重試結果 4/4 仍秒 fail (8-22s)，跟第一波最後 fail 形狀完全一樣。**這證明問題是 subscription quota，不是 concurrency race**。routine 義務鐵律「不主動 defer」下要繼續推 stale=0 = 必須走 Tier 2 cascade
+- **觸發**：2026-06-22 01:08 5 parallel codex worker 跑 17m46s ship 19/25 — 後 6 fail 全在最後 2 dispatch position (en 全 ok / ja+ko 末 2 fail / es+fr 末 1 fail)；retry 2x2 pairs 4/4 仍秒 fail；最終 Tier 2 gpt-oss-120b 接 5/6 + Tier 2 owl-alpha 1/2 + Tier 4 Ollama 1/1 才把 6 件清完
+- **可能層級**：(a) routine prompt 規則 — 「Tier 1 codex call count ≥ 20 預判 quota 風險，超過 15 call 預設併行 Tier 0a + Tier 2 雙線而非死撐 codex」；(b) reflex — 「cascade tier 用量 prediction 應 based on call count，不是 article size」；(c) tooling — `prepare-batch.py` / `prioritize-batch.py` 應 expose `--tier-strategy split-at-N-call` flag
+- **相關**：[memory/2026-06-22-013049-twmd-babel-nightly.md](memory/2026-06-22-013049-twmd-babel-nightly.md) Finding 3 / SQUEEZE-MODELS-MAX-PIPELINE §Tier 1 cascade / DNA #45 (cloud Tier 1+ 1 worker per lang 5 simultaneous safe baseline) — 今晚證明 5 parallel 安全但**總 call count** 才是 quota 約束
+- **verification_count**: 1（首次明確抓到 codex subscription quota 邊界值 ~19-20 call/hour；過去 5 夜 babel 最多 75 work item 但 Tier 0a 接掉大半，codex 實際 call 從未超過 5-10）
+- **severity**: tactical（routine 義務鐵律下 cascade 會自動接住，但每晚 6 cascade rounds 是 routine wall clock 2-3x cost — 若預先 split 可降至 1-2 round）
+- **defer 給觀察者**：暫不 defer，hypothesis 自跑 ≥3 instance 才 promote；觀察者若反饋「codex subscription 量化邊界」即可 fast-track 升 routine prompt 規則
+
 ### 2026-06-21 twmd-rewrite-daily — post-LESSONS-promotion cooldown：剛 promote 的 canonical 規範直接約束 next routine cycle 深度時，defer 比跳步更尊重 distill cost
 
 - **pattern**: post-LESSONS-promotion-cooldown（routine cycle 對 fresh canonical 的尊重機制 / 跟 saturation-day silent satisficing 反 pattern 並存）
