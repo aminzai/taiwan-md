@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-06-21
-last_session: '2026-06-21-084130-twmd-maintainer-am'
+last_session: '2026-06-21-231111-twmd-data-refresh-pm'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -853,3 +853,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-06-21 | 191304-twmd-rewrite-daily | 18:00 routine — deliberate defer article ship；今日已 5 articles + infra + 17:59 LESSONS citation-drift vc=3 promoted 75min 前，本 cycle full SOP（≥80 search 4-agent + Stage 2.5 fetch verify + 3.6 verifier fan-out + SPORE chain）超 150min cap | post-LESSONS-promotion cooldown pre-hypothesis vc=1：剛 promote LESSONS 下一 cycle 跳步 = 反 reflex；next hourly fire fresh context 接手 | [→](memory/2026-06-21-191304-twmd-rewrite-daily.md) |
 | 2026-06-21 | 211355-twmd-routine-audit-weekly | 21:00 cron cycle 7 — 7-day window 249 commit / 0 destructive collision 連 7 cycle / 22 heal 8.8% velocity；ROUTINE-AUDIT v1.0 6 stage 全跑；ship reports/routine-audit-2026-06-21.md (250 行) + 2 LESSONS vc++（maintainer-vc-counting-bias 1→2 cross-week / routine-device-dependent-offline 1→2 同 family 合併 embeddings+Chrome MCP） | 主軸：儀器化先於普查三層落地（pre-push gate / link-url-mangle / fetch-verify）+ device-dependent SPOF 同 family 合併視角；citation-url-drift vc=3 distill-ready carry；audit 自身成熟形狀從 surface 新 pattern 轉向「飛輪健康週度體檢」 | [→](memory/2026-06-21-211355-twmd-routine-audit-weekly.md) |
 | 2026-06-21 | 220407-twmd-maintainer-pm | 22:00 cron — 0 PR (#1170 已 merged 16:14) / 8 issues carry / broken-link 0.36% / build green；vc=4 ascending pointer-not-duplicate（不重寫 LESSONS）；AM handoff 預設 #1170 holding comment 自動 retire | handoff pending 不是 promise 是 hypothesis — 起跑第一動作仍要 ground truth 重核；empty cycle 本身是 healthy sentinel report（AM LESSONS framing 持續成立） | [→](memory/2026-06-21-220407-twmd-maintainer-pm.md) |
+| 2026-06-21 | 231111-twmd-data-refresh-pm | pm 23:11 routine — 14-step ALL PASS `c2a673162` + Step 11 11/11 fresh 連 25d + 三源全綠（CF 497K req 404 8.55% +0.44pp vs am within-day variance / AI 133K flat / GA 20+20 / SC 20Q+150wc）+ immune **52→50 fresh -2 7 cycle chronic flat 首次破**（plugin_health 45.8→48.0 +2.2 改善但 tool_freshness 40 + review_coverage 26.7 兩低分維度退化抵消）/ i18n en817 ja812 ko813 es812 fr813 / 📄zh 814 (+2 幾米 + 黑熊學院) / stats ⭐1061 🍴156 👥61 / build 177s +6s vs am / spore OVERDUE 2 carry（Day 1 abort 未清）/ commit pushed origin/main | 25d Step 11 freshness 全綠 5/28 wire fix 持續健康；immune 7 cycle chronic flat 破口不是來自原 defer 兩維度（plugin_health 反而 +2.2 改善）而是次弱維度悄滑 — 「最弱卡住 + 次弱滑」混在總分裡掩蓋局部進步/局部退化交叉訊號；CF AI 133K flat 在 5 manual EVOLVE ship + 1 PR merge 高密度創作日尾端 = crawler 抓取 lag 明早 am 才會反映 | [→](memory/2026-06-21-231111-twmd-data-refresh-pm.md) |
