@@ -1,28 +1,28 @@
 {
-  "totalArticles": 4893,
+  "totalArticles": 4903,
   "totalCategories": 20,
   "estimatedContributors": 61,
-  "totalTags": 6074,
+  "totalTags": 6071,
   "categories": [
     {
       "name": "es",
-      "count": 814
+      "count": 816
     },
     {
       "name": "ko",
-      "count": 815
+      "count": 817
     },
     {
       "name": "fr",
-      "count": 815
-    },
-    {
-      "name": "ja",
-      "count": 814
+      "count": 817
     },
     {
       "name": "en",
-      "count": 819
+      "count": 821
+    },
+    {
+      "name": "ja",
+      "count": 816
     },
     {
       "name": "History",
@@ -104,7 +104,7 @@
     },
     {
       "name": "文學",
-      "count": 34
+      "count": 32
     },
     {
       "name": "ODM",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4893,
+    "zh-TW": 4903,
     "en": 0
   },
-  "lastUpdated": "2026-06-21T15:09:16.451Z",
+  "lastUpdated": "2026-06-21T22:11:36.528Z",
   "stars": 1061,
   "forks": 156,
   "zhPages": 814,
-  "enPages": 819,
+  "enPages": 821,
   "totalPages": 814
 }

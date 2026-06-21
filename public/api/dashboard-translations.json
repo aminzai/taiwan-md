@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T15:09:23.459Z",
+  "lastUpdated": "2026-06-21T22:11:43.373Z",
   "languages": [
     "zh-TW",
     "en",
@@ -18,64 +18,64 @@
       "deficit": 0
     },
     "en": {
-      "total": 814,
-      "percentage": 99.8,
-      "fresh": 798,
-      "metadataStale": 1,
-      "stale": 15,
-      "missing": 2,
+      "total": 816,
+      "percentage": 100,
+      "fresh": 816,
+      "metadataStale": 0,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 97.8,
-      "bodyFreshPct": 97.9
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "ja": {
-      "total": 814,
-      "percentage": 99.8,
-      "fresh": 798,
-      "metadataStale": 1,
-      "stale": 15,
-      "missing": 2,
+      "total": 816,
+      "percentage": 100,
+      "fresh": 816,
+      "metadataStale": 0,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 97.8,
-      "bodyFreshPct": 97.9
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "ko": {
-      "total": 814,
-      "percentage": 99.8,
-      "fresh": 798,
-      "metadataStale": 1,
-      "stale": 15,
-      "missing": 2,
+      "total": 816,
+      "percentage": 100,
+      "fresh": 816,
+      "metadataStale": 0,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 97.8,
-      "bodyFreshPct": 97.9
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "es": {
-      "total": 814,
-      "percentage": 99.8,
-      "fresh": 798,
-      "metadataStale": 1,
-      "stale": 15,
-      "missing": 2,
+      "total": 816,
+      "percentage": 100,
+      "fresh": 816,
+      "metadataStale": 0,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 97.8,
-      "bodyFreshPct": 97.9
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "fr": {
-      "total": 814,
-      "percentage": 99.8,
-      "fresh": 798,
-      "metadataStale": 1,
-      "stale": 15,
-      "missing": 2,
+      "total": 816,
+      "percentage": 100,
+      "fresh": 816,
+      "metadataStale": 0,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 97.8,
-      "bodyFreshPct": 97.9
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     }
   },
   "matrix": {
@@ -235,36 +235,36 @@
       "zh-TW": 56,
       "en": {
         "count": 56,
-        "fresh": 55,
-        "stale": 1,
+        "fresh": 56,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 56,
-        "fresh": 55,
-        "stale": 1,
+        "fresh": 56,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 56,
-        "fresh": 55,
-        "stale": 1,
+        "fresh": 56,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 56,
-        "fresh": 55,
-        "stale": 1,
+        "fresh": 56,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 56,
-        "fresh": 55,
-        "stale": 1,
+        "fresh": 56,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       }
@@ -273,36 +273,36 @@
       "zh-TW": 63,
       "en": {
         "count": 63,
-        "fresh": 55,
-        "stale": 8,
+        "fresh": 63,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 63,
-        "fresh": 55,
-        "stale": 8,
+        "fresh": 63,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 63,
-        "fresh": 55,
-        "stale": 8,
+        "fresh": 63,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 63,
-        "fresh": 55,
-        "stale": 8,
+        "fresh": 63,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 63,
-        "fresh": 55,
-        "stale": 8,
+        "fresh": 63,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       }
@@ -463,36 +463,36 @@
       "zh-TW": 232,
       "en": {
         "count": 232,
-        "fresh": 229,
-        "stale": 3,
+        "fresh": 232,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 232,
-        "fresh": 229,
-        "stale": 3,
+        "fresh": 232,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 232,
-        "fresh": 229,
-        "stale": 3,
+        "fresh": 232,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 232,
-        "fresh": 229,
-        "stale": 3,
+        "fresh": 232,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 232,
-        "fresh": 229,
-        "stale": 3,
+        "fresh": 232,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       }
@@ -538,102 +538,81 @@
     "society": {
       "zh-TW": 88,
       "en": {
-        "count": 85,
-        "fresh": 83,
-        "stale": 2,
-        "missing": 2,
-        "deficit": 3
+        "count": 88,
+        "fresh": 88,
+        "stale": 0,
+        "missing": 0,
+        "deficit": 0
       },
       "ja": {
-        "count": 85,
-        "fresh": 83,
-        "stale": 2,
-        "missing": 2,
-        "deficit": 3
+        "count": 88,
+        "fresh": 88,
+        "stale": 0,
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
-        "count": 85,
-        "fresh": 83,
-        "stale": 2,
-        "missing": 2,
-        "deficit": 3
+        "count": 88,
+        "fresh": 88,
+        "stale": 0,
+        "missing": 0,
+        "deficit": 0
       },
       "es": {
-        "count": 85,
-        "fresh": 83,
-        "stale": 2,
-        "missing": 2,
-        "deficit": 3
+        "count": 88,
+        "fresh": 88,
+        "stale": 0,
+        "missing": 0,
+        "deficit": 0
       },
       "fr": {
-        "count": 85,
-        "fresh": 83,
-        "stale": 2,
-        "missing": 2,
-        "deficit": 3
+        "count": 88,
+        "fresh": 88,
+        "stale": 0,
+        "missing": 0,
+        "deficit": 0
       }
     },
     "technology": {
       "zh-TW": 52,
       "en": {
         "count": 52,
-        "fresh": 51,
-        "stale": 1,
+        "fresh": 52,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 52,
-        "fresh": 51,
-        "stale": 1,
+        "fresh": 52,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 52,
-        "fresh": 51,
-        "stale": 1,
+        "fresh": 52,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 52,
-        "fresh": 51,
-        "stale": 1,
+        "fresh": 52,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 52,
-        "fresh": 51,
-        "stale": 1,
+        "fresh": 52,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       }
     }
   },
-  "missing": {
-    "en": [
-      "Society/公共政策網路參與平臺：一場從「提點子」開始的數位民主健身房.md",
-      "Society/黑熊學院：一所希望有一天自己不必存在的民防學校.md"
-    ],
-    "ja": [
-      "Society/公共政策網路參與平臺：一場從「提點子」開始的數位民主健身房.md",
-      "Society/黑熊學院：一所希望有一天自己不必存在的民防學校.md"
-    ],
-    "ko": [
-      "Society/公共政策網路參與平臺：一場從「提點子」開始的數位民主健身房.md",
-      "Society/黑熊學院：一所希望有一天自己不必存在的民防學校.md"
-    ],
-    "es": [
-      "Society/公共政策網路參與平臺：一場從「提點子」開始的數位民主健身房.md",
-      "Society/黑熊學院：一所希望有一天自己不必存在的民防學校.md"
-    ],
-    "fr": [
-      "Society/公共政策網路參與平臺：一場從「提點子」開始的數位民主健身房.md",
-      "Society/黑熊學院：一所希望有一天自己不必存在的民防學校.md"
-    ]
-  },
+  "missing": {},
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],

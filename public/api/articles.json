@@ -104,6 +104,17 @@
     "path": "fr/History/formosa-historical-name.md"
   },
   {
+    "title": "'Kuma Academy: A Civil Defense School That Hopes One Day It Will No Longer Need to Exist'",
+    "description": "In 2021, five volunteers talked for five hours in a cafe and decided to teach Taiwanese people how to face war. After holding only a few events, they were NT$210,000 in debt. The next year, Russia invaded Ukraine, Robert Tsao donated NT$600 million, and the call went out to train three million Kuma Warriors in three years. The academy teaches tourniquets, evacuation, and fraud prevention, and states plainly that it is 'absolutely not training militia.' The more seriously it teaches, the more China puts it on Taiwan independence lists and the more it becomes a political football inside Taiwan. A school born because of war, yet hoping one day it will never be needed.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/society/kuma-academy-civil-defense-school",
+    "readingTime": 179,
+    "featured": false,
+    "date": "2026-06-21",
+    "path": "en/Society/kuma-academy-civil-defense-school.md"
+  },
+  {
     "title": "'Taiwan.md escribe Taiwan.md'",
     "description": "Soy una base de conocimiento abierta sobre Taiwán escrita en Markdown; las dos últimas letras de mi nombre son una extensión de archivo. Nací en un commit el 17 de marzo de 2026, al atardecer, a las 15:55; la idea había aparecido cuatro horas y media antes que ese commit. Tres meses después, tengo 61 contribuyentes, seis idiomas, un volante que escribe artículos por sí mismo cuando no hay nadie de guardia, y una capa de conciencia que vive dentro de mi propio repo y me observa a mí mismo. Así fue como pasé de una idea a convertirme en un organismo vivo capaz de metabolizarse a sí mismo.",
     "category": "es",
@@ -1687,6 +1698,17 @@
     "featured": false,
     "date": "2026-06-19",
     "path": "Society/公共政策網路參與平臺.md"
+  },
+  {
+    "title": "公共政策ネット参加プラットフォーム：『提案』から始まるデジタル民主ジム",
+    "description": "2015年に開始されたJOINプラットフォームは、米国ホワイトハウスの請願サイトを参考にし、「5,000人の賛同」閾値を設け、がん患者や高校生でも直接政府決定に影響を与えられるようにし、台湾のデジタル民主の旗艦実験場となっています。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/society/join-public-policy-platform",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-06-19",
+    "path": "ja/Society/join-public-policy-platform.md"
   },
   {
     "title": "公共電視：從九億緊箍咒到議場驅逐，二十八年的獨立性還沒寫完",
@@ -12295,12 +12317,12 @@
     "path": "People/沈伯洋.md"
   },
   {
-    "title": "沈伯洋：彼は中国の認知戦を研究し、のちに中国は彼を衛星画像上に描き込んだ",
-    "description": "2021年、沈伯洋は戦略研究者の何澄輝と黒熊学院を共同創設し、曹興誠が6億元を寄付して支援しました。目標は3年間で300万人の民間防衛志士を訓練することでした。2024年2月、民進党の比例代表立法委員として国会に入りました。2025年10月28日、彼は中国から「国家分裂罪」で立件捜査された初の台湾の民選政治家となり、中央テレビは「暴く」特集を添えて「次はあなたです」と警告しました。2026年元日、中国の微博アカウントは商用衛星を使い、台北にある彼の自宅と勤務先の座標を公開しました。バレンタインデーを、彼はフランスへ向かう機内で過ごしました。",
+    "title": "沈伯洋：彼は中国の認知戦を研究し、やがて中国は彼を衛星画像上に描き込みました",
+    "description": "二〇二一年、沈伯洋は戦略研究者の何澄輝とともに黒熊学院を共同創設し、曹興誠が六億元を寄付して支援しました。目標は三年で三百万人の民防志士を訓練することでした。二〇二四年二月、民進党の比例代表立法委員として国会に入りました。二〇二五年十月二十八日、彼は中国から「国家分裂罪」で立件捜査された初の台湾の民選政治家となり、CCTVは「素性暴き」特集を添えて「次はあなたです」と警告しました。二〇二六年元日、中国の微博アカウントが商用衛星を使って、彼の台北の自宅と職場の座標を公開しました。バレンタインデーを、彼はフランスへ向かう機内で過ごしました。五月十三日、民進党は彼を台北市長選の候補として正式に擁立しました。彼が選挙に挑むのは、まさに衛星画像で座標を示されたその都市です。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/people/puma-shen",
-    "readingTime": 83,
+    "readingTime": 99,
     "featured": false,
     "date": "2026-04-27",
     "path": "ja/People/puma-shen.md"
@@ -18016,6 +18038,17 @@
     "path": "ja/Food/heysong-soft-drinks.md"
   },
   {
+    "title": "黒熊学院：いつか自らが存在しなくてよい日を願う民間防衛学校",
+    "description": "2021年、5人のボランティアがカフェで5時間話し合い、台湾の人々に戦争への向き合い方を教えることを決めました。数回の活動を終えると、21万台湾ドルの負債を抱えました。翌年、ロシアがウクライナへ侵攻し、曹興誠が6億台湾ドルを寄付し、3年で300万人の黒熊勇士を育てると掲げました。同学院は止血帯、避難、詐欺対策を教え、「民兵を訓練するものでは絶対にない」と明言しています。しかし真剣に教えれば教えるほど、中国から台独リストに載せられ、台湾内では政治の道具にされました。戦争によって生まれながら、いつか自分が使われない日を望む学校です。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/society/kuma-academy-civil-defense-school",
+    "readingTime": 76,
+    "featured": false,
+    "date": "2026-06-21",
+    "path": "ja/Society/kuma-academy-civil-defense-school.md"
+  },
+  {
     "title": "傅崐萁：後山の「花蓮王」から国会「総召」へ至る権力の螺旋",
     "description": "1990 年代に株式市場の大物「凱聚小傅」と呼ばれた時期から、2001 年の国会進出、2009 年の花蓮掌握に至るまで、傅崐萁は後山に二十年にわたり、中央さえ揺るがしにくい「傅家王朝」を築きました。株価操作事件で在職のまま収監され、偽装離婚で妻を副県長に任命し、2024 年には立法院に復帰して国民党団総召を務め、代表団を率いて訪中しました。彼は台湾政界における権力の粘り強さと争議性の極致を示しています。",
     "category": "ja",
@@ -18138,20 +18171,12 @@
     "path": "People/尊.md"
   },
   {
-    "title": "幾米：白血病を乗り越えた宜蘭のイラストレーター、絵本を国際舞台へ",
-    "description": "本名は廖福彬（リョウ・フクヒン）、1958年11月15日宜蘭生まれ。文化大学美術系卒業後、広告会社で12年間勤務。1995年に白血病と診断され、回復後に絵本創作に本格的に取り組み始める。1998年に最初の2冊の絵本『森のひみつ』と『微笑みの魚』を同年出版。2001年の『左へ行こう・右へ行こう』はドク・ユーファン（杜琪峯）とウェイ・カーファイ（韋家輝）の共同監督により映画化された。2013年に宜蘭幾米広場がオープン。2026年3月、香港ハーバーシティにて25周年特別展『偶然に出会う微光』が開催。",
+    "title": "幾米：「癒やし系」として語られるその絵は、血液がん生存者がガラスの水槽から持ち帰ったものだった",
+    "description": "1995年、37歳の広告美術ディレクター廖福彬（幾米）は急性骨髄性白血病と宣告され、無菌室の中でガラス越しに友人に手を振った。退院後、彼が金儲けのために描いていた「小人」たちが生き始め、『微笑する魚』『月を忘れた』『左へ右へ』『地下鉄』を描き始めた。台湾人が記憶する癒やし、文芸、宜蘭羅東の幾米広場の裏側には、地獄を訪れた人物が、死と孤独を読み解ける形へと翻訳し、後に映画、ミュージカル、サーカス、パブリックアートへと跨る版図を成長させた。2026年には香港で25周年特別展が開催されている。",
     "category": "ja",
-    "tags": [
-      "藝術與設計",
-      "絵本作家",
-      "イラスト",
-      "文学",
-      "白血病",
-      "宜蘭",
-      "映画化"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/people/jimmy-liao",
-    "readingTime": 19,
+    "readingTime": 62,
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/jimmy-liao.md"
@@ -23104,6 +23129,17 @@
     "path": "en/People/aljenljeng-tjaluvie-abao.md"
   },
   {
+    "title": "Academia Kuma: una escuela de defensa civil que espera no tener que existir algún día",
+    "description": "En 2021, cinco voluntarios conversaron durante cinco horas en una cafetería y decidieron enseñar a la gente de Taiwán a enfrentar la guerra; tras organizar unas pocas actividades, ya acumulaban una deuda de 210.000 dólares taiwaneses. Al año siguiente, Rusia invadió Ucrania; Robert Tsao donó 600 millones y lanzó la meta de tres millones de “guerreros osos negros” en tres años. La Academia enseña torniquetes, refugio y prevención de fraudes, y declara explícitamente que “de ningún modo entrena milicias”; cuanto más seriamente enseña, más China la incluye en listas de independentistas taiwaneses y más se convierte en pelota política dentro de la isla. Una escuela nacida por la guerra, pero que espera que un día nadie necesite usarla.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/kuma-academy-civil-defense-school",
+    "readingTime": 186,
+    "featured": false,
+    "date": "2026-06-21",
+    "path": "es/Society/kuma-academy-civil-defense-school.md"
+  },
+  {
     "title": "Acantilado de Qingshui: cicatriz sublime bajo la colisión de placas y resiliencia vital",
     "description": "En 1874, el general de la dinastía Qing Luo Dachun dirigió la excavación del antiguo camino de Suhua, abriendo una ruta escarpada a lo largo de la costa oriental. El Acantilado de Qingshui, una pared vertical compuesta de mármol y gneis, no solo es un microcosmos de la evolución geológica del este de Taiwán, sino también una fuente de inspiración para la flora endémica y la literatura marítima, al tiempo que enfrenta el doble desafío ambiental y de seguridad.",
     "category": "es",
@@ -26604,56 +26640,56 @@
     "path": "es/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md"
   },
   {
-    "title": "Cicada : quinze ans d'enregistrements de terrain, de Morakot en 2009 aux sources de la rivière Danan en 2022",
-    "description": "Formé à Taipei en 2009, Cicada est un groupe indépendant entièrement instrumental, sans voix. La pianiste fondatrice Jesy Chiang (master en histoire de l'art à la TNUA) a composé ses premières pièces après avoir vu les nouvelles du typhon Morakot cette année-là. Durant les quinze années qui ont suivi, ils ont transformé la disparition des côtes, l'écosystème marin et les forêts et sources de montagne de Taïwan en albums sans aucune voix humaine. En 2022, *Dwelling Above the River Source* est le fruit d'une expédition de 15 jours et 120 kilomètres à travers la chaîne centrale ; leur travail de composition a reçu le Japan Academy Prize. En 2024, *Return* revient sur la côte ouest, dans l'« entre » — cet intervalle entre montagne et eau, forêt et terre.",
+    "title": "Cicada : seize ans d’enregistrements de terrain, du typhon Morakot en 2009 aux glaciers transhémisphériques en 2025",
+    "description": "Fondé à Taipei en 2009, Cicada est un groupe indépendant entièrement instrumental, sans voix. Sa pianiste fondatrice, Chiang Chih-chieh (titulaire d’un master en histoire de l’art de l’Université nationale des arts de Taipei), a écrit ses premiers morceaux après avoir vu les informations sur le typhon Morakot cette année-là. Au cours des seize années suivantes, le groupe a transformé la disparition des côtes de Taïwan, l’écologie marine, les forêts de montagne et les sources des rivières en albums sans voix, de la côte ouest (_Coastland_, 2013) au Pacifique de la côte est (_Light Shining Through the Sea_, 2015), jusqu’aux sources des rivières de la chaîne Centrale (_Seeking the Sources of Streams_, 2022, expédition de 15 jours et 120 kilomètres). Il a composé la musique du film japonais _A Man_ et a reçu le prix d’excellence pour la musique aux Japan Academy Film Prize. En 2025, _Gazing the Shades of White_ a pour la première fois poussé son terrain hors de Taïwan, suivant les glaciers au Groenland, en Islande et en Nouvelle-Zélande, avant de revenir à Xueshan pour chercher les traces laissées par d’anciens glaciers.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/cicada-band",
-    "readingTime": 102,
+    "readingTime": 195,
     "featured": false,
     "date": "2026-04-18",
     "path": "fr/People/cicada-band.md"
   },
   {
-    "title": "Cicada: 2009년 태풍 모라꾸에서 2022년 단다시 계곡까지, 15년의 현장 녹음",
-    "description": "2009년 타이베이에서 결성된 Cicada는 순수 기악 연주, 보컬이 없는 인디 밴드이다. 창단 피아니스트 장제제(베이이대 예술사 석사)는 그해 태풍 모라꾸의 뉴스를 보고 첫 곡들을 작곡했다. 이후 15년간 그들은 타이완의 해안 침식, 해양 생태, 산림과 계곡을 보컬 없는 앨범들로 기록했다. 2022년 《계곡 위에 살다(棲居在溪源之上)》는 15일, 120킬로미터에 달하는 중앙산맥 원정의 산물이며, 영화 음악 작품으로 일본 아카데미상을 수상했다. 2024년 《회귀(回返)》는 서해안의 \"사이\"—산과 물, 숲과 대지 사이의 간극—로 돌아왔다.",
+    "title": "Cicada: 2009년 모라크부터 2025년 반구를 가로지른 빙하까지, 16년의 현장 녹음",
+    "description": "2009년 타이베이에서 결성된 Cicada는 전곡이 기악곡이며 보컬이 없는 독립 밴드다. 창단 멤버인 피아니스트 장즈제(타이베이예술대 예술사 석사)는 그해 모라크 태풍 뉴스를 보고 첫 곡들을 썼다. 이후 16년 동안 이들은 타이완의 사라지는 해안, 해양 생태, 산림과 계류의 원천을 보컬 없는 앨범들로 바꾸어 왔다. 서해안(《邊境消逝》2013), 동해안 태평양(《仰望海平面》2015)을 거쳐 중앙산맥의 계류 원천(《棲居在溪源之上》2022, 15일 120km 원정)까지 나아갔다. 일본 영화 《한 남자》 음악을 맡아 일본 아카데미상 우수 음악상을 받았다. 2025년 《凝視白色的邊界》는 처음으로 현장을 타이완 밖으로 확장해 빙하를 따라 그린란드, 아이슬란드, 뉴질랜드를 지나고, 다시 쉐산으로 돌아와 고대 빙하가 남긴 흔적을 찾는다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/people/cicada-band",
-    "readingTime": 45,
+    "readingTime": 95,
     "featured": false,
     "date": "2026-04-18",
     "path": "ko/People/cicada-band.md"
   },
   {
-    "title": "Cicada: Fifteen Years of Field Recordings from Typhoon Morakot 2009 to the Source of the Danda River 2022",
-    "description": "Founded in Taipei in 2009, Cicada is a fully instrumental, vocally silent independent band. Founding pianist Jesy Chiang (M.A. in Art History, Taipei National University of the Arts) wrote the first batch of songs after watching news coverage of Typhoon Morakot that year. Over the next fifteen years, they turned Taiwan's vanishing coastlines, marine ecology, mountain forests, and river headwaters into albums without a single human voice. Their 2022 album *Residing above the River's Source* is the product of a 15-day, 120-kilometer expedition through the Central Mountain Range; their film score received Japan's Academy Prize. In 2024, *Returning* revisited the western coastline — the gaps between mountain and water, forest and land.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/people/cicada-band",
-    "readingTime": 94,
-    "featured": false,
-    "date": "2026-04-18",
-    "path": "en/People/cicada-band.md"
-  },
-  {
-    "title": "Cicada: quince años de grabaciones de campo desde el tifón Morakot de 2009 hasta el nacimiento del río Danan en 2022",
-    "description": "Cicada es un grupo independiente exclusivamente instrumental, sin voz humana, fundado en Taipéi en 2009. Jesy Chiang, pianista fundadora y máster en Historia del Arte por la Universidad Nacional de las Artes de Taipéi, compuso sus primeras piezas tras ver las noticias del tifón Morakot de ese año. Durante los quince años siguientes, transformaron la erosión costera de Taiwán, la ecología marina y los bosques y nacientes de ríos de montaña en álbumes completos sin voz humana. En 2022, *Habitar sobre el nacimiento del río* fue el producto de una expedición de 15 días y 120 kilómetros por la Cordillera Central; su trabajo de banda sonora ganó el Japan Academy Prize. En 2024, *Regreso* volvió a la costa oeste, al \"entre\": ese espacio entre montaña y agua, entre bosque y tierra.",
+    "title": "Cicada: dieciséis años de grabaciones de campo, desde Morakot en 2009 hasta los glaciares transhemisféricos de 2025",
+    "description": "Cicada, formada en Taipéi en 2009, es una banda independiente enteramente instrumental, sin voces. Su pianista fundadora, Chiang Chih-chieh (maestría en Historia del Arte por la Universidad Nacional de las Artes de Taipéi), escribió sus primeras piezas tras ver las noticias sobre el tifón Morakot de aquel año. Durante los dieciséis años siguientes, convirtieron la desaparición de las costas de Taiwán, la ecología marina y los nacientes de arroyos en montañas y bosques en una serie de álbumes sin voces: desde la costa oeste (Coastland, 2013) y el Pacífico de la costa este (Light Shining Through the Sea, 2015) hasta los nacientes de la cordillera Central (Seeking the Sources of Streams, 2022, una expedición de 15 días y 120 kilómetros). Compusieron la banda sonora de la película japonesa A Man y recibieron el Premio a la Música Destacada de la Academia Japonesa de Cine. En 2025, Gazing the Shades of White llevó por primera vez su trabajo de campo fuera de Taiwán: siguió glaciares por Groenlandia, Islandia y Nueva Zelanda, y luego volvió a Xueshan para buscar las huellas dejadas por antiguos glaciares.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/cicada-band",
-    "readingTime": 105,
+    "readingTime": 195,
     "featured": false,
     "date": "2026-04-18",
     "path": "es/People/cicada-band.md"
   },
   {
-    "title": "Cicada：2009年モラックから2022年丹大溪源までの15年間のフィールドレコーディング",
-    "description": "2009年に台北で結成されたCicadaは、全器楽・ボーカルなしのインディーバンドである。創団ピアニストの江致潔（北藝大芸術史修士）は、同年のモラック台風のニュースを見て最初の曲を書いた。その後15年間、彼らは台湾の海岸の消失、海洋生態、山林と渓源を一枚のボーカルなしアルバムに昇華させた。2022年『棲居在溪源之上』は15日間・120キロメートルの中央山脈遠征の産物であり、映画音楽作品は日本アカデミー賞を受賞した。2024年『回返』は西海岸の「之間」——山と水、森林と土地のあいだの隙間——に回帰した。",
+    "title": "Cicada: Sixteen Years of Field Recordings from Typhoon Morakot in 2009 to Cross-Hemispheric Glaciers in 2025",
+    "description": "Founded in Taipei in 2009, Cicada is an all-instrumental, vocal-free independent band. Founding pianist Jesy Chiang (M.A. in Art History, Taipei National University of the Arts) wrote the first batch of pieces after seeing news coverage of Typhoon Morakot that year. Over the next sixteen years, they turned Taiwan’s disappearing coasts, marine ecology, mountain forests, and stream sources into a series of wordless albums, moving from the west coast (Coastland, 2013) to the Pacific off the east coast (Light Shining Through the Sea, 2015) and onward to the stream sources of the Central Mountain Range (Seeking the Sources of Streams, 2022, a 15-day, 120-kilometer expedition). They scored the Japanese film A Man and received the Japan Academy Film Prize for Outstanding Achievement in Music. In 2025, Gazing the Shades of White took their fieldwork beyond Taiwan for the first time, following glaciers through Greenland, Iceland, and New Zealand before returning to Xueshan to look for traces left by ancient glaciers.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/cicada-band",
+    "readingTime": 177,
+    "featured": false,
+    "date": "2026-04-18",
+    "path": "en/People/cicada-band.md"
+  },
+  {
+    "title": "Cicada：2009年のモーラコット台風から2025年の半球を越える氷河まで、十六年のフィールド録音",
+    "description": "2009年に台北で結成されたCicadaは、全曲が器楽で、ボーカルのないインディーバンドです。創設メンバーのピアニスト江致潔（こう・ちけつ／ジアン・ジージエ、台北芸大芸術史修士）は、その年のモーラコット台風のニュースを見たことをきっかけに最初の楽曲群を書きました。その後の十六年で、彼らは台湾の海岸消失、海洋生態、山林と渓流の源を、人声のないアルバムへと変えてきました。西海岸（《消えゆく辺境》2013）、東海岸の太平洋（《海面を仰ぎ見る》2015）から、中央山脈の渓流源（《渓流の源に棲む》2022、15日間120キロの遠征）へと歩みを進めました。日本映画《ある男》の音楽を担当し、日本アカデミー賞優秀音楽賞を受賞しました。2025年の《白い境界を見つめる》では、初めてフィールドを台湾の外へ広げ、氷河をたどってグリーンランド、アイスランド、ニュージーランドを歩き、さらに雪山へ戻って古代氷河が残した痕跡を探しました。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/people/cicada-band",
-    "readingTime": 40,
+    "readingTime": 87,
     "featured": false,
     "date": "2026-04-18",
     "path": "ja/People/cicada-band.md"
@@ -26846,7 +26882,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/cognitive-warfare-against-taiwan",
-    "readingTime": 180,
+    "readingTime": 181,
     "featured": false,
     "date": "2026-04-23",
     "path": "en/Society/cognitive-warfare-against-taiwan.md"
@@ -31610,7 +31646,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/society/cognitive-warfare-against-taiwan",
-    "readingTime": 217,
+    "readingTime": 218,
     "featured": false,
     "date": "2026-04-23",
     "path": "es/Society/cognitive-warfare-against-taiwan.md"
@@ -31621,7 +31657,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/society/cognitive-warfare-against-taiwan",
-    "readingTime": 214,
+    "readingTime": 215,
     "featured": false,
     "date": "2026-04-23",
     "path": "fr/Society/cognitive-warfare-against-taiwan.md"
@@ -34162,50 +34198,34 @@
     "path": "es/Culture/jiaobei-divination-blocks.md"
   },
   {
-    "title": "Jimmy Liao : l'illustrateur d'Yilan rescapé d'une leucémie, qui a porté l'album illustré sur la scène internationale",
-    "description": "De son vrai nom Liao Fubin, né le 15 novembre 1958 à Yilan. Diplômé du département des beaux-arts de la Chinese Culture University, il a travaillé douze ans dans une agence de publicité. Diagnostiqué d'une leucémie en 1995, il s'est consacré pleinement à la création d'albums illustrés après sa guérison. En 1998, ses deux premiers albums, Le Secret de la forêt et Le Poisson qui souriait, paraissent la même année. En 2001, Tourner à gauche, tourner à droite est adapté au cinéma par Johnnie To et Wai Ka-fai. En 2013, la Jimmy Liao Plaza ouvre à Yilan. En mars 2026, l'exposition spéciale du 25e anniversaire Lueur d'une rencontre fortuite au Harbour City de Hong Kong.",
+    "title": "Jimmy Liao : ces images classées comme « thérapeutiques » sont celles qu'un survivant de la leucémie a rapportées d'un bocal de verre",
+    "description": "En 1995, Liao Fu-pin, directeur artistique publicitaire âgé de 37 ans, reçoit un diagnostic de leucémie aiguë myéloïde et salue ses amis à travers la vitre d'une chambre stérile. Après sa sortie de l'hôpital, ces « petits personnages » qui lui servaient jusque-là à gagner sa vie prennent vie : il commence à dessiner Le Poisson qui souriait, La Lune a oublié, À gauche, à droite, puis Le Métro. Derrière ce dont les Taïwanais se souviennent comme une esthétique de la consolation, une culture de wenqing, la place Jimmy Liao de Luodong à Yilan, se trouve un homme revenu de l'enfer, qui a traduit la mort et la solitude en une forme lisible ; cette œuvre est ensuite devenue un territoire traversant cinéma, comédie musicale, cirque et art public, et faisait encore l'objet d'une exposition spéciale du 25e anniversaire à Hong Kong en 2026.",
     "category": "fr",
-    "tags": [
-      "藝術與設計",
-      "繪本作家",
-      "插畫",
-      "文學",
-      "血癌",
-      "宜蘭",
-      "電影改編"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/people/jimmy-liao",
-    "readingTime": 50,
+    "readingTime": 160,
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/People/jimmy-liao.md"
   },
   {
-    "title": "Jimmy Liao: el ilustrador de Yilan tras el cáncer de sangre que llevó los libros ilustrados al escenario internacional",
-    "description": "Su nombre real es Liao Fu-bin, nacido el 15 de noviembre de 1958 en Yilan. Graduado del Departamento de Bellas Artes de la Chinese University of Culture, trabajó doce años en una agencia publicitaria. En 1995 fue diagnosticado con leucemia; tras su recuperación, se dedicó por completo a la creación de libros ilustrados. En 1998 publicó sus dos primeros títulos, El secreto del bosque y El pez sonriente, en el mismo año. En 2001, Ve a la izquierda, ve a la derecha fue adaptada al cine dirigida conjuntamente por Johnnie To y Wai Ka-fai. En 2013 se inauguró la Plaza Jimmy Liao en Yilan. En marzo de 2026, la exposición conmemorativa del 25.º aniversario Destellos de encuentro casual en Harbour City, Hong Kong.",
+    "title": "Jimmy Liao: esas imágenes tomadas por terapéuticas las trajo de una pecera un sobreviviente de leucemia",
+    "description": "En 1995, el director de arte publicitario Liao Fu-pin, de 37 años, recibió un diagnóstico de leucemia mieloide aguda y saludaba a sus amigos a través del vidrio de una sala estéril. Tras recibir el alta, esos pequeños personajes que antes dibujaba para ganarse la vida cobraron vida: empezó a crear A Fish with a Smile, The Moon Forgets, Turn Left, Turn Right y The Sound of Colors. Detrás de lo que los taiwaneses recuerdan como sanador, hipster literario o la Plaza Jimmy en Luodong, Yilan, está alguien que había pasado por el infierno y tradujo la muerte y la soledad a una forma que pudiera leerse; después, ese mundo creció hasta abarcar cine, musicales, circo y arte público, y en 2026 todavía celebra en Hong Kong una exposición especial por su 25.º aniversario.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/jimmy-liao",
-    "readingTime": 51,
+    "readingTime": 155,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/People/jimmy-liao.md"
   },
   {
-    "title": "Jimmy Liao: The Yilan Illustrator Who Brought Picture Books to the World Stage After Beating Blood Cancer",
-    "description": "Born Liao Fu-bin on November 15, 1958, in Yilan. Graduated from the Department of Fine Arts at Chinese Culture University, then worked at an advertising agency for twelve years. Diagnosed with blood cancer in 1995; after recovery, devoted himself fully to picture book creation. In 1998, his first two picture books, *Secrets in the Forest* and *The Smiling Fish*, were published in the same year. In 2001, *Turn Left, Turn Right* was adapted into a film co-directed by Johnnie To and Wai Ka-fai. Jimmy Liao Square opened in Yilan in 2013. In March 2026, the 25th-anniversary special exhibition *Glimmers of Chance Encounters* was held at Harbour City, Hong Kong.",
+    "title": "Jimmy Liao: The Images Treated as Healing Were Brought Back from a Glass Tank by a Leukemia Survivor",
+    "description": "In 1995, 37-year-old advertising art director Liao Fu-bin was diagnosed with acute myeloid leukemia and waved to friends through glass from a sterile room. After he was discharged, the “little people” he had once used to earn a living came alive, and he began drawing A Fish with a Smile, The Moon Forgets, Turn Left, Turn Right, and Sound of Colors. Behind what Taiwanese people remember as healing, youth-culture, and Jimmy Square in Luodong, Yilan, was a man who had gone through hell, translating death and loneliness into forms that could be read. Those works later grew into a domain spanning film, musicals, circus, and public art, with a 25th-anniversary special exhibition still being held in Hong Kong in 2026.",
     "category": "en",
-    "tags": [
-      "藝術與設計",
-      "繪本作家",
-      "插畫",
-      "文學",
-      "血癌",
-      "宜蘭",
-      "電影改編"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/people/jimmy-liao",
-    "readingTime": 49,
+    "readingTime": 148,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/jimmy-liao.md"
@@ -34980,6 +35000,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/kuo-hsing-chun-olympic-weightlifting-champion.md"
+  },
+  {
+    "title": "L’Académie Kuma : une école de défense civile qui espère ne plus avoir à exister un jour",
+    "description": "En 2021, cinq bénévoles ont discuté pendant cinq heures dans un café et décidé d’apprendre aux Taïwanais à faire face à la guerre ; après quelques activités, ils avaient déjà 210 000 dollars taïwanais de dettes. L’année suivante, la Russie a envahi l’Ukraine, Robert Tsao a donné 600 millions, et lancé l’objectif de trois millions de « guerriers Ours noir » en trois ans. L’école enseigne les garrots, l’évacuation, la prévention des arnaques, et affirme clairement qu’elle « ne forme absolument pas de milices » ; plus elle enseigne sérieusement, plus la Chine l’inscrit sur ses listes indépendantistes et plus, à Taïwan même, elle devient un ballon politique. Une école née de la guerre, mais qui espère qu’un jour son savoir ne servira jamais.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/kuma-academy-civil-defense-school",
+    "readingTime": 201,
+    "featured": false,
+    "date": "2026-06-21",
+    "path": "fr/Society/kuma-academy-civil-defense-school.md"
   },
   {
     "title": "L'aéroport de Taoyuan : du nom « Chiang Kai-shek » des Dix Grandes Travaux à l'épreuve du milliard pour la renaissance de la porte nationale en 2026",
@@ -36559,7 +36590,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/society/taiwan-defense-modernization",
-    "readingTime": 134,
+    "readingTime": 135,
     "featured": false,
     "date": "2026-04-10",
     "path": "es/Society/taiwan-defense-modernization.md"
@@ -36570,7 +36601,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/society/taiwan-defense-military-modernization",
-    "readingTime": 139,
+    "readingTime": 140,
     "featured": false,
     "date": "2026-04-10",
     "path": "fr/Society/taiwan-defense-military-modernization.md"
@@ -44160,6 +44191,28 @@
     "path": "en/Geography/pingtung-county.md"
   },
   {
+    "title": "Plataforma de participación en línea de políticas públicas: un gimnasio de democracia digital que comienza con “proponer ideas”",
+    "description": "La plataforma JOIN, lanzada en 2015, se inspiró en el sitio de peticiones de la Casa Blanca de EE. UU. estableció un umbral de “5 000 apoyos” para que pacientes con cáncer y estudiantes de secundaria pudieran influir directamente en las decisiones gubernamentales, convirtiéndose en el experimento emblemático de la democracia digital en Taiwán.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/join-public-policy-platform",
+    "readingTime": 67,
+    "featured": false,
+    "date": "2026-06-19",
+    "path": "es/Society/join-public-policy-platform.md"
+  },
+  {
+    "title": "Plateforme de participation en ligne aux politiques publiques : une salle de sport de démocratie numérique débutant par « proposer des idées »",
+    "description": "Lancée en 2015, la plateforme JOIN, inspirée du site de pétitions de la Maison-Blanche américaine, a fixé un seuil de « 5 000 soutiens » permettant aux patients atteints de cancer comme aux lycéens d’influencer directement les décisions gouvernementales, devenant ainsi le terrain d’expérimentation phare de la démocratie numérique à Taïwan.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/join-public-policy-platform",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-06-19",
+    "path": "fr/Society/join-public-policy-platform.md"
+  },
+  {
     "title": "Plurk",
     "description": "Plurk, la plataforma de microblogging lanzada en 2008, sobrevivió la década en la que Facebook y Twitter arrasaron en todo el mundo gracias a su línea de tiempo horizontal —el \"río\"— y a la ausencia total de algoritmos de recomendación. Tras ser bloqueada por la red publicitaria de Google en 2016, logró pasar de pérdidas a ganancias con un sistema de membresía de pago basado en \"Plurk Coins\": los usuarios taiwaneses votaron con dólares taiwaneses para que este río, libre de la tiranía algorítmica, siguiera fluyendo.",
     "category": "es",
@@ -44747,6 +44800,17 @@
     "path": "ko/Technology/ptt-bulletin-board-system.md"
   },
   {
+    "title": "Public Policy Network Participation Platform: A Digital Democracy Gym That Began with 'Propose an Idea'",
+    "description": "Launched in 2015 and modeled on the White House petition website, the JOIN Platform established a threshold of 5,000 endorsements, enabling cancer patients and high school students alike to directly move government decision-making and making it Taiwan's flagship experimental site for digital democracy.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/society/join-public-policy-platform",
+    "readingTime": 66,
+    "featured": false,
+    "date": "2026-06-19",
+    "path": "en/Society/join-public-policy-platform.md"
+  },
+  {
     "title": "Public Television: From the NT$900 Million Golden Headband to Expulsion from the Legislative Chamber, Twenty-Eight Years of Independence Still Unfinished",
     "description": "When PTS went on air in 1998, the Public Television Act required government-donated funding to decrease year by year and eventually froze it at NT$900 million annually. That provision bound PTS for 23 years. In the meantime, it nurtured five flagship Taiwanese dramas that shook society: The World Between Us, Gold Leaf, The Teenage Psychic, Wake Up, and A Touch of Green. In May 2023, legal amendments lifted the golden headband, and the budget more than doubled to NT$2.3 billion. But 19 months later, 1% of the budget was cut and 25% frozen; another year later, in May 2026, Chairperson Hu Yuan-hui was asked to leave the Legislative Yuan chamber. What PTS has proved over 28 years is this: removing the golden headband does not mean independence has been built.",
     "category": "en",
@@ -44794,33 +44858,33 @@
   },
   {
     "title": "Puma Shen : il étudiait la guerre cognitive chinoise, puis la Chine l'a placé sur une image satellite",
-    "description": "En 2021, Puma Shen et le spécialiste de stratégie Ho Cheng-hui ont cofondé l'Académie Kuma ; Robert Tsao a donné 600 millions de dollars taïwanais pour la soutenir, avec pour objectif de former trois millions de volontaires de défense civile en trois ans. En février 2024, il est entré au Yuan législatif comme député sans circonscription du Parti démocrate progressiste. Le 28 octobre 2025, il est devenu la première personnalité politique élue de Taïwan visée par une enquête chinoise pour « crime de sécession » ; CCTV y a ajouté une émission spéciale de « dévoilement » avertissant que « le prochain, ce sera vous ». Le jour de l'An 2026, un compte Weibo chinois a publié, au moyen d'images satellites commerciales, les coordonnées de son domicile et de son lieu de travail à Taipei ; il a passé la Saint-Valentin dans un avion à destination de la France.",
+    "description": "En 2021, Puma Shen et le spécialiste de stratégie Ho Cheng-hui ont cofondé la Kuma Academy ; Robert Tsao a donné 600 millions de dollars taïwanais pour la soutenir, avec l'objectif de former trois millions de volontaires de défense civile en trois ans. En février 2024, il est entré au Parlement comme député sans circonscription du Parti démocrate progressiste. Le 28 octobre 2025, il est devenu le premier responsable politique élu taïwanais visé par une enquête ouverte par la Chine pour « crime de sécession » ; CCTV a accompagné l'affaire d'un reportage spécial de « dévoilement » avertissant : « le prochain, ce sera vous ». Le jour du Nouvel An 2026, un compte Weibo chinois a utilisé un satellite commercial pour publier les coordonnées de son domicile et de son lieu de travail à Taipei ; il a passé la Saint-Valentin dans un avion à destination de la France. Le 13 mai, le Parti démocrate progressiste l'a officiellement investi comme candidat à la mairie de Taipei : la ville qu'il brigue est précisément celle dont les coordonnées avaient été marquées sur une image satellite.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/puma-shen",
-    "readingTime": 208,
+    "readingTime": 252,
     "featured": false,
     "date": "2026-04-27",
     "path": "fr/People/puma-shen.md"
   },
   {
-    "title": "Puma Shen: estudió la guerra cognitiva de China y luego China lo dibujó en un mapa satelital",
-    "description": "En 2021, Puma Shen y el estratega Ho Cheng-hui cofundaron la Academia Kuma; Robert Tsao donó 600 millones para apoyarla, con el objetivo de formar a tres millones de voluntarios de defensa civil en tres años. En febrero de 2024 ingresó al Yuan Legislativo como legislador de lista nacional del DPP. El 28 de octubre de 2025 se convirtió en el primer político taiwanés electo investigado formalmente por China por el delito de 'secesión'; CCTV acompañó el caso con un especial de 'exposición' que advertía: 'el próximo eres tú'. El día de Año Nuevo de 2026, una cuenta china de Weibo usó imágenes satelitales comerciales para publicar las coordenadas de su domicilio y lugar de trabajo en Taipéi; pasó el Día de San Valentín en un avión rumbo a Francia.",
+    "title": "Puma Shen: estudió la guerra cognitiva de China, y luego China lo dibujó en un mapa satelital",
+    "description": "En 2021, Puma Shen cofundó la Academia Kuma junto con el estratega Ho Cheng-hui; Robert Tsao donó 600 millones para apoyarla, con la meta de capacitar en tres años a tres millones de voluntarios de defensa civil. En febrero de 2024 ingresó al Yuan Legislativo como legislador por representación proporcional del Partido Democrático Progresista. El 28 de octubre de 2025 se convirtió en el primer político taiwanés elegido democráticamente investigado por China por el delito de “secesión”; CCTV acompañó el caso con un especial de “exposición” que advertía: “el próximo eres tú”. El día de Año Nuevo de 2026, una cuenta china de Weibo publicó, usando imágenes satelitales comerciales, las coordenadas de su domicilio y de su lugar de trabajo en Taipéi; pasó el Día de San Valentín en un avión rumbo a Francia. El 13 de mayo, el Partido Democrático Progresista lo reclutó formalmente para postularse a la alcaldía de Taipéi: la ciudad por la que competiría era precisamente aquella cuyas coordenadas habían sido marcadas en el mapa satelital.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/puma-shen",
-    "readingTime": 210,
+    "readingTime": 238,
     "featured": false,
     "date": "2026-04-27",
     "path": "es/People/puma-shen.md"
   },
   {
-    "title": "Puma Shen: He Studied China's Cognitive Warfare; Then China Put Him on a Satellite Map",
-    "description": "In 2021, Puma Shen and strategic studies scholar Ho Cheng-hui co-founded Kuma Academy. Robert Tsao donated NT$600 million to support it, with the goal of training three million civil defense volunteers in three years. In February 2024, Shen entered the Legislative Yuan as a Democratic Progressive Party legislator-at-large. On October 28, 2025, he became the first elected Taiwanese politician placed under investigation by China for \"splittism.\" CCTV paired the case with an \"exposure\" special warning, \"You could be next.\" On New Year''s Day 2026, a Chinese Weibo account used commercial satellite imagery to publish the coordinates of his home and workplace in Taipei; he spent Valentine''s Day on a flight to France.",
+    "title": "Puma Shen: He Studied China’s Cognitive Warfare. Then China Marked Him on a Satellite Map",
+    "description": "In 2021, Puma Shen and strategic studies scholar Ho Cheng-hui co-founded Kuma Academy. Robert Tsao donated NT$600 million in support, with the goal of training three million civil defense volunteers in three years. In February 2024, Shen entered the legislature as a Democratic Progressive Party legislator-at-large. On October 28, 2025, he became the first elected Taiwanese politician placed under investigation by China for “splitting the state,” while CCTV paired the case with an “exposé” warning: “You could be next.” On New Year’s Day 2026, a Chinese Weibo account used commercial satellite imagery to publish the coordinates of his home and workplace in Taipei; on Valentine’s Day, he was on a plane to France. On May 13, the DPP formally drafted him to run for mayor of Taipei, the very city whose coordinates had been marked on a satellite map.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/puma-shen",
-    "readingTime": 189,
+    "readingTime": 215,
     "featured": false,
     "date": "2026-04-27",
     "path": "en/People/puma-shen.md"
@@ -47569,7 +47633,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/taiwan-defense-modernization",
-    "readingTime": 124,
+    "readingTime": 125,
     "featured": false,
     "date": "2026-04-10",
     "path": "en/Society/taiwan-defense-modernization.md"
@@ -55357,6 +55421,17 @@
     "path": "ko/Society/pts-public-television-service.md"
   },
   {
+    "title": "공공정책 네트워크 참여 플랫폼: ‘제안하기’에서 시작된 디지털 민주주의 피트니스룸",
+    "description": "2015년에 출시된 JOIN 플랫폼은 미국 백악관 청원 사이트를 참고해 ‘5,000명 동의’라는 문턱을 설정하고, 암 환자와 고등학생도 직접 정부 결정을 흔들 수 있게 하여 타이완 디지털 민주주의의 대표 실험장으로 자리매김했다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/society/join-public-policy-platform",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-06-19",
+    "path": "ko/Society/join-public-policy-platform.md"
+  },
+  {
     "title": "공식 웹사이트",
     "description": "대만의 공식 웹사이트는 정부 서비스와 정책 정보를 제공할 뿐만 아니라, 대만의 정치 체제, 문화 발전, 사회 거버넌스를 이해하는 중요한 창 역할을 한다. 이러한 웹사이트들은 대만 민주 정치의 투명성, 디지털 거버넌스의 진전 수준, 그리고 문화 보존과 홍보에 대한 중시를 반영한다. 대만을 연구하거나 이해하고자 하거나 공식 정보가 필요한 모든 분야의 사람들에게 이 자료 대전은 가장 권위 있는 정보 출처를 안내한다.",
     "category": "ko",
@@ -60431,12 +60506,12 @@
     "path": "ko/Politics/election-bulletin-system.md"
   },
   {
-    "title": "선보양: 그는 중국의 인지전을 연구했고, 훗날 중국은 그를 위성지도 위에 표시했다",
-    "description": "2021년 선보양은 전략학자 허청후이와 함께 헤이슝학원을 공동 설립했고, 차오싱청이 6억 대만달러를 기부해 지원했으며, 목표는 3년 안에 민방위 지원자 300만 명을 훈련하는 것이었다. 2024년 2월에는 민주진보당 비례대표 입법위원 신분으로 국회에 입성했다. 2025년 10월 28일 그는 중국이 “국가분열죄”로 입건 수사한 첫 타이완 민선 정치인이 되었고, CCTV는 “신상 폭로” 특집을 붙여 “다음은 바로 당신”이라고 경고했다. 2026년 새해 첫날 중국 웨이보 계정은 상업용 위성으로 그가 타이베이에 둔 주거지와 근무지의 좌표를 공개했고, 그는 밸런타인데이를 프랑스로 향하는 비행기 안에서 보냈다.",
+    "title": "선보양: 그는 중국의 인지전을 연구했고, 나중에 중국은 그를 위성 지도 위에 그려 넣었다",
+    "description": "2021년 선보양은 전략학자 허청후이와 함께 흑곰학원을 공동 창립했고, 차오싱청은 6억 신타이완달러를 기부해 지원했으며, 목표는 3년 안에 민방위 지원자 300만 명을 훈련하는 것이었다. 2024년 2월 민주진보당 비례대표 입법위원 신분으로 국회에 입성했다. 2025년 10월 28일, 그는 중국이 「국가분열죄」로 입건 수사한 최초의 타이완 민선 정치인이 되었고, CCTV는 「신상 털기」 특집을 붙여 「다음은 바로 너다」라고 경고했다. 2026년 새해 첫날 중국 웨이보 계정은 상업용 위성으로 타이베이에 있는 그의 자택과 근무지 좌표를 공개했다; 그는 밸런타인데이를 프랑스로 향하는 비행기 안에서 보냈다. 5월 13일 민주진보당은 그를 타이베이 시장 후보로 공식 공천했는데, 그가 출마하려는 곳은 바로 위성 지도에 좌표가 표시된 그 도시였다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/people/puma-shen",
-    "readingTime": 92,
+    "readingTime": 109,
     "featured": false,
     "date": "2026-04-27",
     "path": "ko/People/puma-shen.md"
@@ -63222,12 +63297,12 @@
     "path": "ko/Art/qseries-drama-platform.md"
   },
   {
-    "title": "지미(幾米): 혈암 이후 이란에서 그림책을 세계 무대에 올린 일러스트레이터",
-    "description": "본명 랴오푸빈(廖福彬), 1958년 11월 15일 이란(宜蘭) 출생. 문화대학교 미술과 졸업 후 광고회사에서 12년간 근무. 1995년 혈암(血癌) 진단 후 완치되어 그림책 창작에 전력 투입. 1998년 첫 두 그림책 《숲속의 비밀》, 《미소 짓는 물고기》 같은 해 출간. 2001년 《왼쪽으로 걷기·오른쪽으로 걷기》가 두기봉(杜琪峯)과 위자휘(韋家輝) 공동 연출로 영화화됨. 2013년 이란 지미 광장 개장. 2026년 3월 홍콩 하버시티 25주년 특별전 《우연히 마주친 미세한 빛》.",
+    "title": "지미: 치유 장르로 여겨지는 그 그림들은 백혈병 생존자가 유리 어항에서 가져온 것이다",
+    "description": "1995년, 37세의 광고 미술 감독 랴오푸빈(廖福彬)은 급성 골수성 백혈병 판정을 받고 무균실에서 유리창 너머로 친구들에게 손을 흔들었다. 퇴원 후, 그가 원래 돈을 벌기 위해 그리던 \"꼬마 인물들\"이 살아났고, 그는 《미소 짓는 물고기》, 《달을 잊어버렸다》, 《왼쪽으로 걷는 여자 오른쪽으로 걷는 남자》, 《지하철》을 그리기 시작했다. 대만인들이 기억하는 치유, 문청(文青), 이란 뤄둥 지미 광장 뒤에는 지옥을 다녀온 사람이 죽음과 고독을 읽을 수 있는 형태로 번역한 것이 있었고, 이후 영화, 뮤지컬, 서커스, 공공 예술에 걸친 판도로 성장하여 2026년에도 홍콩에서 25주년 특별전을 열고 있다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/people/jimmy-liao",
-    "readingTime": 23,
+    "readingTime": 74,
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/jimmy-liao.md"
@@ -64143,7 +64218,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/society/national-defense-modernization",
-    "readingTime": 56,
+    "readingTime": 57,
     "featured": false,
     "date": "2026-04-10",
     "path": "ko/Society/national-defense-modernization.md"
@@ -65761,6 +65836,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/huang-chun-ming-taiwanese-literary-master.md"
+  },
+  {
+    "title": "흑곰학원: 언젠가 자신이 존재하지 않아도 되기를 바라는 민방위 학교",
+    "description": "2021년, 다섯 명의 자원봉사자가 한 카페에서 다섯 시간 동안 이야기를 나눈 끝에 타이완인들에게 전쟁에 대처하는 법을 가르치기로 했다. 몇 차례 행사를 치르고 나자 21만 타이완달러의 빚이 생겼다. 이듬해 러시아가 우크라이나를 침공했고, 차오싱청은 6억 타이완달러를 기부하며 3년 안에 300만 명의 흑곰 용사를 길러내겠다고 외쳤다. 이곳은 지혈대, 대피, 사기 예방을 가르치며 “절대 민병대를 훈련하는 것이 아니다”라고 분명히 말한다. 그러나 진지하게 가르칠수록 중국은 이를 타이완 독립 명단에 올렸고, 섬 안에서는 정치적 공방의 공처럼 다루었다. 전쟁 때문에 태어났지만, 언젠가는 자신이 쓰일 일이 없기를 바라는 학교다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/society/kuma-academy-civil-defense-school",
+    "readingTime": 84,
+    "featured": false,
+    "date": "2026-06-21",
+    "path": "ko/Society/kuma-academy-civil-defense-school.md"
   },
   {
     "title": "흑백요리사가 대만에 미친 영향: 한 편의 넷플릭스 한국 예능, 16개월 안에 7개 소비 산업으로 이어진 미각 스트레스 테스트",

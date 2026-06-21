@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-06-21T15:09:18.206Z",
+  "generatedAt": "2026-06-21T22:11:38.292Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "d868128ad6b8c871cd2b5f7259ee8e184bcf92f7",
+      "date": "2026-06-22T05:11:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: trim embeddings-nightly index row 301→≤150 (index-lint gate)",
+      "articles": []
+    },
+    {
+      "hash": "b26a3ee12b4796890feb8b1fe1949f6adaa9bf3e",
+      "date": "2026-06-22T05:10:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-22-050853-twmd-embeddings-nightly — fleet-down graceful skip 連續第 5 夜 + LESSONS vc 2→3 達 distill 門檻",
+      "articles": []
+    },
+    {
+      "hash": "07251f60945119d72b1be5d048cc44859c94652f",
+      "date": "2026-06-22T05:08:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: LESSONS routine-device-dependent-offline vc 2→3 — embeddings-nightly 連續第 5 夜 fleet-down skip",
+      "articles": []
+    },
+    {
+      "hash": "c929ae1ad01099e7615d21a1e5c9cf17ac735e74",
+      "date": "2026-06-22T01:35:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: LESSONS-INBOX +2 — twmd-babel-nightly self-evolution vc=1×2 (ollama-translate.py path-detection bug silent wrong-output + codex subscription burst quota cut at ~20 call)",
+      "articles": []
+    },
+    {
+      "hash": "a3b08aa0c90c26a732d3ee947b6e4dbda0887bac",
+      "date": "2026-06-22T01:33:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-22-013049-twmd-babel-nightly — 100 translations 4-tier cascade 全動員首例 + Tier 4 Ollama backbone 接住 ja 幾米 + LESSONS candidate 2 條 (ollama lang-detection bug / codex subscription quota cut)",
+      "articles": []
+    },
+    {
+      "hash": "29686eb5fa0081a7d5da1d5a25c53ec5ac4f8024",
+      "date": "2026-06-22T01:30:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 100 translations shipped — stale=0 across 5 lang via 4-tier cascade — 2026-06-22",
+      "articles": []
+    },
+    {
+      "hash": "c2854e61127ea5f78d16acc72e626f7ed5a3c812",
+      "date": "2026-06-21T23:13:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-21-231111-twmd-data-refresh-pm — pm 14-step ALL PASS + Step 11 連 25d 全綠 + immune 52→50 fresh -2（7 cycle chronic flat 首次破，plugin_health +2.2 改善但次弱維度悄滑抵消）+ 高密度創作日尾端",
+      "articles": []
+    },
+    {
+      "hash": "c2a6731620828f7c1aeb7e774563bb69b334f635",
+      "date": "2026-06-21T23:10:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: pm 14-step data refresh — 三源全綠 + Step 11 11/11 fresh 連 25d + immune 52→50 fresh -2 (plugin_health 45.8→48.0 +2.2 但其他維度退化抵消) + babel stale=0",
+      "articles": []
+    },
     {
       "hash": "f3e4e6ed0f7bcdd5a8b1ca042e27c4750aea58a5",
       "date": "2026-06-21T22:06:01+08:00",
