@@ -415,6 +415,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **severity**: tactical（影響 spore platform allocation 預設選擇）
 - **Pointer**：[batch-2026-05-08-15-spores.md §Pattern 觀察 #1](../factory/SPORE-HARVESTS/batch-2026-05-08-15-spores.md)
 
+### 2026-06-21 plurk-reach — 抓取/研究的完成判準：問「這是全部，還是端點願意給我的上限？」
+
+- **原則**：資料抓取/研究的「完成」不等於「拿到一批乾淨資料」。先問「我看到的是全部，還是端點/工具願意回的上限？」satisficing 在 AI 把局部處理得很乾淨時最隱形——一份細緻的局部比粗糙的局部更危險，因為它不讓你起疑。對策：抓到固定數量（30/100/整數上限）就主動懷疑是 cap，去找分頁/游標/時間窗驗證真實總量；報告明確標 silent-cap limitation。
+- **觸發**：2026-06-21 Plurk 受眾研究，curl 打 search2 端點拿 30 則就準備收尾報「就 30 則」，哲宇一句「往下滑」逼我去拆 date 游標，才發現 reach 是 day-1 起四波、三個月的河（每窗鎖 30，真實總量逾百）。差點把水面 30 則當全貌交差。
+- **可能層級**：反射層候選（research/fetch 完成判準）——#73 查證反射 < 建造反射 的 completeness 維度延伸 + Workflow「no silent caps」原則的內化
+- **相關**：REFLEXES #73 / #16（peer 是線索不是 source）
+- **verification_count**: 1（首次記錄，需更多 case 累積才能稱 pattern）
+- **severity**: structural（影響所有抓取/研究任務的完成判準）
+- **Pointer**：[diary/2026-06-21-115925-plurk-reach.md](diary/2026-06-21-115925-plurk-reach.md) + [reports/plurk-reach-research-2026-06-21.md](../../reports/plurk-reach-research-2026-06-21.md)
+
 ---
 
 ## ✅ 已消化（保留 pointer）
