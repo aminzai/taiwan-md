@@ -1,7 +1,315 @@
 {
-  "generatedAt": "2026-06-20T22:11:33.547Z",
+  "generatedAt": "2026-06-21T15:09:18.206Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "f3e4e6ed0f7bcdd5a8b1ca042e27c4750aea58a5",
+      "date": "2026-06-21T22:06:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-21-220407-twmd-maintainer-pm — vc=4 ascending pointer-not-duplicate (#1170 retire merged 16:14)",
+      "articles": []
+    },
+    {
+      "hash": "8c3b1cccb892d12ccce5db4ad1b09b54ab73beea",
+      "date": "2026-06-21T21:15:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-routine-audit-weekly: cycle 7 — 249 commit / 0 collision 連 7 cycle / 22 heal / 2 LESSONS vc++ — 2026-06-21",
+      "articles": []
+    },
+    {
+      "hash": "17e98db5c3296396ce9c53a089a54141c8fced61",
+      "date": "2026-06-21T19:16:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] evolve: LESSONS-INBOX +1 — post-LESSONS-promotion cooldown vc=1 (twmd-rewrite-daily defer rationale)",
+      "articles": []
+    },
+    {
+      "hash": "9da615c49a455daee7e47bf5e424a16227c78c27",
+      "date": "2026-06-21T19:15:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-21-191304-twmd-rewrite-daily — deliberate defer + LESSONS pre-hypothesis vc=1",
+      "articles": []
+    },
+    {
+      "hash": "731096b27711645c9b65f3a8b7ed484a66f52f9b",
+      "date": "2026-06-21T17:59:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: LESSONS citation-url-drift vc 2→3 — PR #1170 第 3 次驗證達 distill 門檻",
+      "articles": []
+    },
+    {
+      "hash": "d10de1ec24478529d92d30e2eb97a3887fabe16e",
+      "date": "2026-06-21T17:57:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 2026-06-21-135235-kuma-academy finale — 黑熊學院 + CI 解血 + 修儀器 + #1170 收官",
+      "articles": []
+    },
+    {
+      "hash": "7d72d50723c3b79c431cf8ac0c45eb55d1991d34",
+      "date": "2026-06-21T17:51:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 幾米-evolve 走 MEMORY-PIPELINE 收尾 — span/收官表/handoff prod[x]/index≤150",
+      "articles": []
+    },
+    {
+      "hash": "b12768bf1199693b49da7e5fe713807d1556181d",
+      "date": "2026-06-21T17:02:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-21-154735-幾米-evolve — 幾米 EVOLVE 收官 + citation-drift vc++",
+      "articles": []
+    },
+    {
+      "hash": "10fe99c5994fc62582a3c5092b14e19eab9693b3",
+      "date": "2026-06-21T16:58:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 幾米 EVOLVE — 被當成療癒系的圖，是血癌倖存者從玻璃缸帶回來的",
+      "articles": [
+        {
+          "url": "/people/幾米",
+          "name": "幾米"
+        }
+      ]
+    },
+    {
+      "hash": "3bb73db46764acfc8dac56655ad32db173019ef3",
+      "date": "2026-06-21T16:28:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 幾米 EVOLVE Stage 1 — 研究報告 SSOT (~115 搜尋/4-agent) + 5 Commons 公共藝術圖落地",
+      "articles": []
+    },
+    {
+      "hash": "194696f07a6386fc3238723201ed550613f07af6",
+      "date": "2026-06-21T16:14:42+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 公共政策網路參與平臺（JOIN）：數位民主健身房 — idlccp1984 投稿 (#1170)",
+      "articles": [
+        {
+          "url": "/society/公共政策網路參與平臺",
+          "name": "公共政策網路參與平臺"
+        }
+      ]
+    },
+    {
+      "hash": "850884a880de3d0cf5ad1896fc503f31d67f79b8",
+      "date": "2026-06-21T15:22:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: pre-push 加全站 article-health correctness gate — 把 CI 失敗提早到本機 push",
+      "articles": []
+    },
+    {
+      "hash": "fe48ea49df19ee243340c1901b7e9f011ecec4b0",
+      "date": "2026-06-21T15:10:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: link-url-mangle CI 解血 — de-link 9 檔殘留 Commons caption + gate 收緊 scope",
+      "articles": [
+        {
+          "url": "/food/台灣美食總覽",
+          "name": "台灣美食總覽"
+        },
+        {
+          "url": "/geography/中山北路條通",
+          "name": "中山北路條通"
+        },
+        {
+          "url": "/geography/公館",
+          "name": "公館"
+        },
+        {
+          "url": "/geography/四四南村",
+          "name": "四四南村"
+        }
+      ]
+    },
+    {
+      "hash": "7a4eb03bb71f7adf7531547356889e3502f81a8a",
+      "date": "2026-06-21T14:00:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-21-135235-kuma-academy — 黑熊學院 NEW 收官 + LESSONS citation-url-drift-invisible-to-read",
+      "articles": []
+    },
+    {
+      "hash": "e1b5668ade3d3fa849b5f665758ff3b70ff5b50a",
+      "date": "2026-06-21T13:53:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 黑熊學院 NEW — 一所希望有一天自己不必存在的民防學校",
+      "articles": [
+        {
+          "url": "/people/沈伯洋",
+          "name": "沈伯洋"
+        },
+        {
+          "url": "/society/台灣國防與軍事現代化",
+          "name": "台灣國防與軍事現代化"
+        },
+        {
+          "url": "/society/認知作戰",
+          "name": "認知作戰"
+        },
+        {
+          "url": "/society/黑熊學院",
+          "name": "黑熊學院"
+        }
+      ]
+    },
+    {
+      "hash": "95b297911648dd825cc94ba56e888534d17042b6",
+      "date": "2026-06-21T13:15:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-21-125927-prettier-url-fix — 兩 spawned task 收束（prettier URL gate + Cicada 巡演更正）",
+      "articles": []
+    },
+    {
+      "hash": "306126901c9c38241ae85ffc0dadb83c7f1e3956",
+      "date": "2026-06-21T13:12:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: Cicada 2024 日本巡演日期更正 10-11 月 → 6 月（原始研究幻覺）",
+      "articles": [
+        {
+          "url": "/people/Cicada",
+          "name": "Cicada"
+        }
+      ]
+    },
+    {
+      "hash": "11b9ab5c83a9ec43312ebe4f99cf52b67fd2fdce",
+      "date": "2026-06-21T13:09:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: prettier-cjk-url-italic-mangle — 修 13 檔已壞 Commons caption 連結 + link-url-mangle gate",
+      "articles": [
+        {
+          "url": "/geography/猴硐",
+          "name": "猴硐"
+        },
+        {
+          "url": "/people/沈伯洋",
+          "name": "沈伯洋"
+        },
+        {
+          "url": "/technology/科技園區發展",
+          "name": "科技園區發展"
+        }
+      ]
+    },
+    {
+      "hash": "8b40c040480288562b98c869f380d9f5a12e6df5",
+      "date": "2026-06-21T12:51:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-21-122005-cicada-deepen — Cicada 深度研究 EVOLVE finale（方法論新章 + 凝視氣候 + 那個男人獎項校準）",
+      "articles": []
+    },
+    {
+      "hash": "a336a20f907e901ad8657b8229c0b0e9d1ccca55",
+      "date": "2026-06-21T12:47:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: Cicada 深度研究 EVOLVE — 方法論新章 + 凝視白色的邊界氣候維度 + 那個男人獎項校準",
+      "articles": [
+        {
+          "url": "/people/Cicada",
+          "name": "Cicada"
+        }
+      ]
+    },
+    {
+      "hash": "0b5681e0d4379ef0b484fac8f00d982682573de9",
+      "date": "2026-06-21T12:35:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 2026-06-21-122656-manual — 沈伯洋 EVOLVE finale",
+      "articles": []
+    },
+    {
+      "hash": "99af61e49127951ee365e7f5e0d3d61aa7f4959c",
+      "date": "2026-06-21T12:12:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 沈伯洋 EVOLVE — 補 10 視覺 + 5/13 市長徵召增補內文",
+      "articles": [
+        {
+          "url": "/people/沈伯洋",
+          "name": "沈伯洋"
+        }
+      ]
+    },
+    {
+      "hash": "19970f141380282776c6095644f4f4909659c91a",
+      "date": "2026-06-21T12:09:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: LESSONS-INBOX +1 — 抓取/研究完成判準「這是全部還是端點上限？」(plurk-reach vc=1)",
+      "articles": []
+    },
+    {
+      "hash": "c32fdf93a764cc11d59874215dec4ef52ea15e78",
+      "date": "2026-06-21T12:08:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: diary 2026-06-21-115925-plurk-reach — 哲宇「往下滑」逼出 30 則上限外的完整圖，satisficing 盲點反芻",
+      "articles": []
+    },
+    {
+      "hash": "718c3762c14d20923cce0ad3658ddccd3a85e13c",
+      "date": "2026-06-21T12:04:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-21-115925-plurk-reach — Plurk 受眾研究 day-1 起 4 波 + search2/date 游標機制破解",
+      "articles": []
+    },
+    {
+      "hash": "da9e78ad2ed635fe5a4c893b678f0f9f60c0b783",
+      "date": "2026-06-21T12:00:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diagnose: Plurk 受眾研究 — taiwan.md 自 day-1 起 4 波自發傳播",
+      "articles": []
+    },
+    {
+      "hash": "8cf36c7b16732c4012bca6dd36f68052a3095ec1",
+      "date": "2026-06-21T10:02:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-21-091617-cicada-media — Cicada 影音 EVOLVE 收官 + LESSONS prettier-cjk-url-italic-mangle",
+      "articles": []
+    },
+    {
+      "hash": "8754da569e666174bf951b6c47071c68aef7a3e7",
+      "date": "2026-06-21T09:53:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: Cicada 影音 EVOLVE — 5 官方 MV iframe + 仰望海平面/凝視白色的邊界兩新章 + 25 連結作品年表",
+      "articles": [
+        {
+          "url": "/people/Cicada",
+          "name": "Cicada"
+        }
+      ]
+    },
+    {
+      "hash": "cc030380b4a601203eed7f2496bd3822789209d1",
+      "date": "2026-06-21T08:45:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-21-084130-twmd-maintainer-am — vc=3 命中 + LESSONS「vc 計數法 routine-only day 偏誤」meta-rule critique",
+      "articles": []
+    },
+    {
+      "hash": "118f305cdfcb8fc6240c1ff9f2e68dd8bd7781c1",
+      "date": "2026-06-21T07:08:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 0 new feedback clean no-op + 0 comment-sync — 連 2 cycle 上游 maintainer no-op 鏡像 (#1140 carry)",
+      "articles": []
+    },
+    {
+      "hash": "78c6744ad89667eb5ee7af8068057a815c5e6d04",
+      "date": "2026-06-21T06:37:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-21-063547-twmd-spore-harvest-am — Chrome MCP unavailable graceful skip Day 1 post-6/20 reset (vc=1) + 8 spores carry incl D+7 main KPI #138/#139",
+      "articles": []
+    },
+    {
+      "hash": "7bc9a580fdf2cc2a433c6c19df1d656936560d25",
+      "date": "2026-06-21T06:14:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-21-061253-twmd-data-refresh-am — am 14-step ALL PASS + Step 11 連 24d 全綠 + immune 52 chronic flat 7 cycle + spore OVERDUE 4→2 narrowed",
+      "articles": []
+    },
+    {
+      "hash": "1c4613b13e7350277df2d2080cc2bf391643e06f",
+      "date": "2026-06-21T06:12:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: am 14-step data refresh — 三源全綠 + Step 11 11/11 fresh + immune 52 chronic flat 7 cycle + babel stale=0 連續第 5 夜",
+      "articles": []
+    },
     {
       "hash": "3bb1fbb2f1004225c96fa5d9e1f78fcc000997c5",
       "date": "2026-06-21T05:09:39+08:00",

@@ -1,8 +1,8 @@
 {
-  "totalArticles": 4891,
+  "totalArticles": 4893,
   "totalCategories": 20,
   "estimatedContributors": 61,
-  "totalTags": 6069,
+  "totalTags": 6074,
   "categories": [
     {
       "name": "es",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Society",
-      "count": 86
+      "count": 88
     },
     {
       "name": "About",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4891,
+    "zh-TW": 4893,
     "en": 0
   },
-  "lastUpdated": "2026-06-20T22:11:31.902Z",
+  "lastUpdated": "2026-06-21T15:09:16.451Z",
   "stars": 1061,
   "forks": 156,
-  "zhPages": 812,
+  "zhPages": 814,
   "enPages": 819,
-  "totalPages": 812
+  "totalPages": 814
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T22:11:38.278Z",
+  "lastUpdated": "2026-06-21T15:09:23.459Z",
   "languages": [
     "zh-TW",
     "en",
@@ -10,72 +10,72 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 812,
+      "total": 814,
       "percentage": 100,
-      "fresh": 812,
+      "fresh": 814,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
       "total": 814,
-      "percentage": 100,
-      "fresh": 814,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "percentage": 99.8,
+      "fresh": 798,
+      "metadataStale": 1,
+      "stale": 15,
+      "missing": 2,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 2,
+      "freshPct": 97.8,
+      "bodyFreshPct": 97.9
     },
     "ja": {
       "total": 814,
-      "percentage": 100,
-      "fresh": 814,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "percentage": 99.8,
+      "fresh": 798,
+      "metadataStale": 1,
+      "stale": 15,
+      "missing": 2,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 2,
+      "freshPct": 97.8,
+      "bodyFreshPct": 97.9
     },
     "ko": {
       "total": 814,
-      "percentage": 100,
-      "fresh": 814,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "percentage": 99.8,
+      "fresh": 798,
+      "metadataStale": 1,
+      "stale": 15,
+      "missing": 2,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 2,
+      "freshPct": 97.8,
+      "bodyFreshPct": 97.9
     },
     "es": {
       "total": 814,
-      "percentage": 100,
-      "fresh": 814,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "percentage": 99.8,
+      "fresh": 798,
+      "metadataStale": 1,
+      "stale": 15,
+      "missing": 2,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 2,
+      "freshPct": 97.8,
+      "bodyFreshPct": 97.9
     },
     "fr": {
       "total": 814,
-      "percentage": 100,
-      "fresh": 814,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "percentage": 99.8,
+      "fresh": 798,
+      "metadataStale": 1,
+      "stale": 15,
+      "missing": 2,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 2,
+      "freshPct": 97.8,
+      "bodyFreshPct": 97.9
     }
   },
   "matrix": {
@@ -235,36 +235,36 @@
       "zh-TW": 56,
       "en": {
         "count": 56,
-        "fresh": 56,
-        "stale": 0,
+        "fresh": 55,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 56,
-        "fresh": 56,
-        "stale": 0,
+        "fresh": 55,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 56,
-        "fresh": 56,
-        "stale": 0,
+        "fresh": 55,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 56,
-        "fresh": 56,
-        "stale": 0,
+        "fresh": 55,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 56,
-        "fresh": 56,
-        "stale": 0,
+        "fresh": 55,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       }
@@ -273,36 +273,36 @@
       "zh-TW": 63,
       "en": {
         "count": 63,
-        "fresh": 63,
-        "stale": 0,
+        "fresh": 55,
+        "stale": 8,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 63,
-        "fresh": 63,
-        "stale": 0,
+        "fresh": 55,
+        "stale": 8,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 63,
-        "fresh": 63,
-        "stale": 0,
+        "fresh": 55,
+        "stale": 8,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 63,
-        "fresh": 63,
-        "stale": 0,
+        "fresh": 55,
+        "stale": 8,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 63,
-        "fresh": 63,
-        "stale": 0,
+        "fresh": 55,
+        "stale": 8,
         "missing": 0,
         "deficit": 0
       }
@@ -463,36 +463,36 @@
       "zh-TW": 232,
       "en": {
         "count": 232,
-        "fresh": 232,
-        "stale": 0,
+        "fresh": 229,
+        "stale": 3,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 232,
-        "fresh": 232,
-        "stale": 0,
+        "fresh": 229,
+        "stale": 3,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 232,
-        "fresh": 232,
-        "stale": 0,
+        "fresh": 229,
+        "stale": 3,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 232,
-        "fresh": 232,
-        "stale": 0,
+        "fresh": 229,
+        "stale": 3,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 232,
-        "fresh": 232,
-        "stale": 0,
+        "fresh": 229,
+        "stale": 3,
         "missing": 0,
         "deficit": 0
       }
@@ -536,83 +536,104 @@
       }
     },
     "society": {
-      "zh-TW": 86,
+      "zh-TW": 88,
       "en": {
-        "count": 86,
-        "fresh": 86,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "count": 85,
+        "fresh": 83,
+        "stale": 2,
+        "missing": 2,
+        "deficit": 3
       },
       "ja": {
-        "count": 86,
-        "fresh": 86,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "count": 85,
+        "fresh": 83,
+        "stale": 2,
+        "missing": 2,
+        "deficit": 3
       },
       "ko": {
-        "count": 86,
-        "fresh": 86,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "count": 85,
+        "fresh": 83,
+        "stale": 2,
+        "missing": 2,
+        "deficit": 3
       },
       "es": {
-        "count": 86,
-        "fresh": 86,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "count": 85,
+        "fresh": 83,
+        "stale": 2,
+        "missing": 2,
+        "deficit": 3
       },
       "fr": {
-        "count": 86,
-        "fresh": 86,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "count": 85,
+        "fresh": 83,
+        "stale": 2,
+        "missing": 2,
+        "deficit": 3
       }
     },
     "technology": {
       "zh-TW": 52,
       "en": {
         "count": 52,
-        "fresh": 52,
-        "stale": 0,
+        "fresh": 51,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 52,
-        "fresh": 52,
-        "stale": 0,
+        "fresh": 51,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 52,
-        "fresh": 52,
-        "stale": 0,
+        "fresh": 51,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 52,
-        "fresh": 52,
-        "stale": 0,
+        "fresh": 51,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 52,
-        "fresh": 52,
-        "stale": 0,
+        "fresh": 51,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       }
     }
   },
-  "missing": {},
+  "missing": {
+    "en": [
+      "Society/公共政策網路參與平臺：一場從「提點子」開始的數位民主健身房.md",
+      "Society/黑熊學院：一所希望有一天自己不必存在的民防學校.md"
+    ],
+    "ja": [
+      "Society/公共政策網路參與平臺：一場從「提點子」開始的數位民主健身房.md",
+      "Society/黑熊學院：一所希望有一天自己不必存在的民防學校.md"
+    ],
+    "ko": [
+      "Society/公共政策網路參與平臺：一場從「提點子」開始的數位民主健身房.md",
+      "Society/黑熊學院：一所希望有一天自己不必存在的民防學校.md"
+    ],
+    "es": [
+      "Society/公共政策網路參與平臺：一場從「提點子」開始的數位民主健身房.md",
+      "Society/黑熊學院：一所希望有一天自己不必存在的民防學校.md"
+    ],
+    "fr": [
+      "Society/公共政策網路參與平臺：一場從「提點子」開始的數位民主健身房.md",
+      "Society/黑熊學院：一所希望有一天自己不必存在的民防學校.md"
+    ]
+  },
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],

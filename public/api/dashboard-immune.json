@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-21T06:11:38.241057",
+  "lastUpdated": "2026-06-21T23:09:23.421932",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
-  "immuneScore": 52,
+  "immuneScore": 50,
   "status": "漂移 — 多維度退化中",
   "components": {
-    "review_coverage": 26.8,
+    "review_coverage": 26.7,
     "plugin_pass_rate": 70.0,
-    "plugin_health": 45.8,
-    "citation_density": 90.8,
-    "tool_freshness": 60,
+    "plugin_health": 48.0,
+    "citation_density": 90.9,
+    "tool_freshness": 40,
     "drift_velocity": 90.0,
     "external_rulers": 3.7
   },
@@ -24,9 +24,9 @@
   },
   "tierBreakdown": {
     "T1": {
-      "total": 364,
+      "total": 366,
       "reviewed": 104,
-      "pct": 28.6,
+      "pct": 28.4,
       "weight": 3.0
     },
     "T2": {
@@ -43,8 +43,8 @@
     }
   },
   "pluginPassDetail": {
-    "total_files": 814,
-    "hard_pass_files": 814,
+    "total_files": 816,
+    "hard_pass_files": 816,
     "hard_pass_pct": 100.0,
     "warn_pass_files": 0,
     "warn_pass_pct": 0.0,
@@ -52,30 +52,30 @@
   },
   "citationDetail": {
     "grades": {
-      "A": 636,
+      "A": 638,
       "B": 11,
       "C": 152,
       "D": 4,
       "F": 9
     },
-    "files_with_grade": 812
+    "files_with_grade": 814
   },
   "freshnessDetail": {
-    "editorial_days_old": 6,
-    "avg_plugin_days_old": 32.8,
-    "plugin_count": 24,
+    "editorial_days_old": 999,
+    "avg_plugin_days_old": 31.5,
+    "plugin_count": 25,
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 17,
+    "new_articles_7d": 18,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
   "pluginHealthDetail": {
-    "plugin_count": 24,
-    "fresh_count": 11,
+    "plugin_count": 25,
+    "fresh_count": 12,
     "drifted_count": 13,
-    "editorial_age_days": 6,
+    "editorial_age_days": 0,
     "drift_thresholds": {
       "editorial_recent_days": 14,
       "plugin_stale_days": 30
@@ -147,6 +147,11 @@
         "drifted": true
       },
       {
+        "plugin": "link_url_mangle",
+        "plugin_age_days": 0,
+        "drifted": false
+      },
+      {
         "plugin": "media_richness",
         "plugin_age_days": 14,
         "drifted": false
@@ -206,7 +211,7 @@
   },
   "externalRulersDetail": {
     "ruledArticles": 30,
-    "totalArticles": 812,
+    "totalArticles": 814,
     "rulerSources": {
       "factcheckReports": true,
       "readerErrataCommits90d": true,
