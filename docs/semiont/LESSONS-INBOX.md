@@ -322,8 +322,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-06-21 Cicada 影音 EVOLVE，翠池 hero caption `_…[CC BY-SA 4.0 via Wikimedia Commons](…File:翠池_汪大智_05.jpg)._` → prettier → `…BA*05.jpg).*`。
 - **可能層級**：操作規則（EDITORIAL §媒體編織 / REWRITE Step 4.3 caption 寫法加「caption 不放 CJK-URL 連結，連結走 §圖片來源」）；或 reflex（「pre-commit prettier 之後必跑 link-target，不信 commit 前狀態」）
 - **相關**：diary cluster「儀器只看得見存在、看不見缺席」（2026-06-10/12）/ REWRITE Step 4.3.6 caption 空行 check（同類 markdown-render silent breakage）/ link-target check
-- **verification_count**: 1（首見）
-- **severity**: structural（任何帶連結的 CJK Commons 圖 caption 都會重現；斷連結 silent，不 fail build）
+- **✅ 已儀器化 + canonical（2026-06-21 prettier-url-fix session）**：(1) 新 `article-health.py --check=link-url-mangle`（HARD 抓已壞 `*`-URL / WARN 抓 at-risk `_NN`-in-italic-caption；pre-commit profile `checks="*"` 已 wired，silent breakage 變 loud gate）；(2) EDITORIAL §媒體編織 加 canonical 註；(3) audit 修 13 檔已壞（科技園區發展／猴硐／沈伯洋 × lang），de-link 後 prettier-stable + link-target 綠。**carry**：~47 at-risk 檔（16 篇 × lang）de-link sweep 因 13+47=60 > §自主權邊界 50 檔，flag 哲宇拍板（spawn_task；instrument 已護住不會 silent 復發）。
+- **verification_count**: 2（cicada-media 首見 + audit 證 13 檔跨 6 篇已壞、~47 at-risk = 廣域非單點）→ 已升儀器化，distill 時可移 §已消化
+- **severity**: structural（任何帶連結的 CJK Commons 圖 caption 都會重現；斷連結 silent，不 fail build → 已用 link-url-mangle HARD gate 堵）
 
 ### 2026-06-21 twmd-maintainer-am — vc 計數法 routine-only day 偏誤：empty cycle vc 累積 over-sensitive，已 canonical schedule mismatch 在 routine-only days 必然重複 trigger LESSONS entry noise
 

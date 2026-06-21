@@ -130,7 +130,7 @@ The progress curve looked like this:
 It took 8 years to go from 274 to 30+. This was achieved through sterilization, adoption, and the passage of time as cats aged naturally.
 
 ![Close-up of a Houtong street cat, a calico looking back at the camera on a street, wet stone steps in the background](/article-images/geography/houtong-calico-cat-2015.webp)
-_A Houtong street cat in 2015 — a calico looking back at the camera on stone steps. From the New Taipei City Animal Protection Office's TNVR launch in 2015 to the present, every registered cat has a number and a microchip record. This is what Houtong's mountain town can truly leave behind, beyond the "Cat Paradise" brand. Photo: Sun Taro. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2015-05-03_feral_calico_cat_at_Houtong_(cropped*2022).jpg).*
+_A Houtong street cat in 2015 — a calico looking back at the camera on stone steps. From the New Taipei City Animal Protection Office's TNVR launch in 2015 to the present, every registered cat has a number and a microchip record. This is what Houtong's mountain town can truly leave behind, beyond the "Cat Paradise" brand. Photo: Sun Taro. CC BY-SA 2.0 via Wikimedia Commons._
 
 In 2021, the New Taipei City Animal Protection Office established the "Houtong Cat Office Preparatory Office" in a former Taiwan Railways Administration dormitory, with an exterior painted in "Ruifang Gold" tones echoing the mining landscape.[^26] It was officially unveiled on April 29, 2024, with an orange cat named "Dorayaki" voted in as the first director.[^27] At the time, there were 172 registered cats.
 

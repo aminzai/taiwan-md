@@ -1206,6 +1206,8 @@ WebFetch 工具對中文網站經常返回**英文 paraphrase 而非中文原文
 
 **找 Tier A 成果圖的 source 技巧**（這次驗證）：機構官網的專案頁／新聞稿頁（如 `tdri.org.tw/zh-TW/news/N`）通常掛著最完整的官方專案紀錄照（editor_image），比媒體外電圖乾淨好抓；新聞報導裡標「X 提供」的 press image 也是乾淨的 fair use 主體（那是當事機構提供給媒體作編輯報導用的圖）。下載一律 cache 本地、清 EXIF GPS、不熱連結。
 
+> ⚠️ **caption 不放 percent-encoded CJK Commons URL 連結**（2026-06-21 儀器化）：圖片 caption 包在 `_斜體_` 裡，若內嵌 `[來源](commons-url)` 且檔名是 percent-encoded 中文 + 結尾 `_NN.jpg`（如 `…翠池_汪大智_05.jpg`），pre-commit 的 prettier 會把 URL 的 `_NN` 跟 caption 收尾的 `_` 配成一對斜體標記、改寫成 `*NN` → **連結 404**（純 ASCII 檔名因 CommonMark intraword-underscore 規則不爆；`<…>` 角括號在斜體內也救不了）。**caption 只留純文字授權標示**（`Photo: X / Wikimedia Commons, CC BY-SA 4.0`），可點連結放文末 `## 圖片來源`（非斜體，prettier 不動）。儀器：`article-health.py --check=link-url-mangle`（HARD 抓已壞 `*`-URL、WARN 抓 at-risk `_NN`-in-caption；pre-commit `checks="*"` 已 wired）。誕生：cicada-media hero caption 被靜默弄壞，audit 揭 13 檔已壞（科技園區發展／猴硐／沈伯洋 ×lang）+ ~47 at-risk。LESSONS pattern `prettier-cjk-url-italic-mangle`。
+
 **總量 baseline — length-scaled 圖文配比 band**（2026-06-04 哲宇 directive「提升媒體素材要求」升級）：
 
 媒體素材的「夠不夠」不是固定張數，是**隨字數縮放的密度 band**。depth article 目標 **圖+影片 ≈ 1 媒體 / 1.1k 字**（含 hero），落在 **0.7–1.2 / 1k CJK** 的健康帶；**長文（≥ 7000 字）朝 圖+影片 ≥ 8**。太少 = 立體呈現不足（讀者疲勞），太多 = 替代敘事節奏（atomization）。

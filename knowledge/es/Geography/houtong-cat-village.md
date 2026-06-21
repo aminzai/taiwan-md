@@ -130,7 +130,7 @@ La curva de progreso fue la siguiente:
 De 274 a poco más de 30 tomó 8 años. Se logró mediante esterilización, adopción y el tiempo del envejecimiento natural de los gatos.
 
 ![Primer plano de un gato callejero de Houtong, un calicó tricolor mirando hacia la cámara en una calle, con escaleras de piedra húmedas de fondo](/article-images/geography/houtong-calico-cat-2015.webp)
-_Un gato callejero de Houtong en 2015 — un calicó tricolor mira hacia la cámara frente a unas escaleras de piedra. Desde que la Oficina de Protección Animal de la Nueva Taipei inició el TNVR en 2015, cada gato registrado tiene un número y un microchip. Esto es lo que el pueblo de montaña de Houtong puede conservar realmente más allá de la marca "paraíso de los gatos". Foto: Sun Taro. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2015-05-03_feral_calico_cat_at_Houtong_(cropped*2022).jpg).*
+_Un gato callejero de Houtong en 2015 — un calicó tricolor mira hacia la cámara frente a unas escaleras de piedra. Desde que la Oficina de Protección Animal de la Nueva Taipei inició el TNVR en 2015, cada gato registrado tiene un número y un microchip. Esto es lo que el pueblo de montaña de Houtong puede conservar realmente más allá de la marca "paraíso de los gatos". Foto: Sun Taro. CC BY-SA 2.0 via Wikimedia Commons._
 
 En 2021, la Oficina de Protección Animal de la Nueva Taipei estableció la "Oficina Preparatoria de la Oficina Gatuna de Houtong", en una antigua residencia ferroviaria, con la fachada pintada en tono "oro de Ruifang" como homenaje al paisaje minero[^26]. El 29 de abril de 2024 se inauguró oficialmente, y el gato naranja "Dorayaki" fue elegido como primer director por votación[^27]. En ese momento había 172 gatos registrados.
 
