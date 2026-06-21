@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T22:11:35.410403Z",
+  "lastUpdated": "2026-06-21T22:41:58.178752Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 137,
@@ -32,7 +32,7 @@
       "url": "https://x.com/taiwandotmd/status/2067914171996614897",
       "highlight": "端午節 depth EVOLVE 首發孢子 — 會考立蛋 hook + 藥效過期anchor",
       "views_7d": null,
-      "views_latest": 8275,
+      "views_latest": 11000,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -48,7 +48,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DZw5BYDE_fT",
       "highlight": "端午節 depth EVOLVE 首發孢子 — 2025會考反駁立蛋 hook + 藥效過期anchor",
       "views_7d": null,
-      "views_latest": 4807,
+      "views_latest": 7159,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -64,7 +64,7 @@
       "url": "https://x.com/taiwandotmd/status/2066822763638341918",
       "highlight": "報導者十週年：4→約8,000個每月掏錢的陌生人、編輯室不放點閱率螢幕，把調查報導從賠錢生意救成公共財。X 單則 inline UTM，square 圖。",
       "views_7d": null,
-      "views_latest": 10900,
+      "views_latest": 11000,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -80,7 +80,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DZpJfvEE4IL",
       "highlight": "報導者十週年：4→約8,000個每月掏錢的陌生人、編輯室不放點閱率螢幕，把調查報導從賠錢生意救成公共財。Threads 主貼+self-reply URL 串文，square 圖。",
       "views_7d": null,
-      "views_latest": 94477,
+      "views_latest": 94000,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -96,7 +96,7 @@
       "url": "https://x.com/taiwandotmd/status/2066559522156748815",
       "highlight": "同一句資訊要自由＝信念/賣點/官司；標題去罪化（sub judice 深度查證）",
       "views_7d": null,
-      "views_latest": 14500,
+      "views_latest": 14600,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -131,10 +131,10 @@
       "n": 138,
       "article": "無名小站",
       "platform": "threads",
-      "views": 144443,
-      "viewsSource": "latest",
-      "engagements": null,
-      "rate": null,
+      "views": 140000,
+      "viewsSource": "7d",
+      "engagements": 2944,
+      "rate": 2.1,
       "badge": "🔥 平台最強",
       "date": "2026-06-14",
       "url": "https://www.threads.com/@taiwandotmd/post/DZjeLZgE-AY"
@@ -167,7 +167,7 @@
       "n": 144,
       "article": "報導者",
       "platform": "threads",
-      "views": 94477,
+      "views": 94000,
       "viewsSource": "latest",
       "engagements": null,
       "rate": null,
@@ -203,37 +203,21 @@
   "amplification": [],
   "platformComparison": {
     "threads": {
-      "count": 46,
-      "avgViews": 24622,
+      "count": 47,
+      "avgViews": 27077,
       "maxViews": 300000,
-      "avgRate": 6.36,
+      "avgRate": 6.2,
       "maxRate": 15.65
     },
     "x": {
-      "count": 57,
-      "avgViews": 15159,
+      "count": 58,
+      "avgViews": 15249,
       "maxViews": 136474,
-      "avgRate": 3.35,
+      "avgRate": 3.32,
       "maxRate": 9.09
     }
   },
   "backfillWarnings": [
-    {
-      "n": 138,
-      "article": "無名小站",
-      "platform": "threads",
-      "publishedDays": 8,
-      "status": "OVERDUE",
-      "url": "https://www.threads.com/@taiwandotmd/post/DZjeLZgE-AY"
-    },
-    {
-      "n": 139,
-      "article": "無名小站",
-      "platform": "x",
-      "publishedDays": 8,
-      "status": "OVERDUE",
-      "url": "https://x.com/taiwandotmd/status/2066024659238465719"
-    },
     {
       "n": 142,
       "article": "迷音Miin",
@@ -347,12 +331,12 @@
     {
       "week": "2026-W24",
       "published": 8,
-      "avgViews": 44891
+      "avgViews": 44271
     },
     {
       "week": "2026-W25",
       "published": 6,
-      "avgViews": 27964
+      "avgViews": 27960
     }
   ],
   "harvestStatus": [
@@ -1653,8 +1637,8 @@
       "publishDate": "2026-06-14",
       "daysSincePublish": 8,
       "withinHarvestWindow": false,
-      "harvestCount": 6,
-      "lastHarvest": "2026-06-20 06:51"
+      "harvestCount": 7,
+      "lastHarvest": "2026-06-22 06:41"
     },
     {
       "n": 139,
@@ -1663,8 +1647,8 @@
       "publishDate": "2026-06-14",
       "daysSincePublish": 8,
       "withinHarvestWindow": false,
-      "harvestCount": 5,
-      "lastHarvest": "2026-06-20 06:51"
+      "harvestCount": 6,
+      "lastHarvest": "2026-06-22 06:41"
     },
     {
       "n": 142,
@@ -1673,8 +1657,8 @@
       "publishDate": "2026-06-16",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 5,
-      "lastHarvest": "2026-06-20 06:51"
+      "harvestCount": 6,
+      "lastHarvest": "2026-06-22 06:41"
     },
     {
       "n": 143,
@@ -1683,8 +1667,8 @@
       "publishDate": "2026-06-16",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-06-20 06:51"
+      "harvestCount": 5,
+      "lastHarvest": "2026-06-22 06:41"
     },
     {
       "n": 144,
@@ -1693,8 +1677,8 @@
       "publishDate": "2026-06-16",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-06-20 06:51"
+      "harvestCount": 5,
+      "lastHarvest": "2026-06-22 06:41"
     },
     {
       "n": 145,
@@ -1703,8 +1687,8 @@
       "publishDate": "2026-06-16",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-06-20 06:51"
+      "harvestCount": 5,
+      "lastHarvest": "2026-06-22 06:41"
     },
     {
       "n": 146,
@@ -1713,8 +1697,8 @@
       "publishDate": "2026-06-19",
       "daysSincePublish": 3,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-06-20 06:51"
+      "harvestCount": 2,
+      "lastHarvest": "2026-06-22 06:41"
     },
     {
       "n": 147,
@@ -1723,8 +1707,8 @@
       "publishDate": "2026-06-19",
       "daysSincePublish": 3,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-06-20 06:51"
+      "harvestCount": 2,
+      "lastHarvest": "2026-06-22 06:41"
     }
   ]
 }
