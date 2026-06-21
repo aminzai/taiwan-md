@@ -426,6 +426,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **severity**: structural（影響所有抓取/研究任務的完成判準）
 - **Pointer**：[diary/2026-06-21-115925-plurk-reach.md](diary/2026-06-21-115925-plurk-reach.md) + [reports/plurk-reach-research-2026-06-21.md](../../reports/plurk-reach-research-2026-06-21.md)
 
+### 2026-06-21 kuma-academy — A 級/政治文 Stage 3.5 必須 fetch-based adversarial verify，careful read 抓不到 citation-URL drift
+
+- **pattern**: citation-url-drift-invisible-to-read
+- **原則**：讀 prose 品質跟驗 source fidelity 是兩種不同的認知動作。footnote 指向哪個 URL 不影響句子讀起來對不對，所以 orchestrator 連讀兩遍 prose 對 citation-URL drift 完全隱形；只有真的 fetch 每個 URL 逐字比對的 adversarial agent 抓得到。root cause 常在上游：research-report §7 URL list 若只在 cluster 層精準（同一群報導都對）、atom 層不精（哪一篇講哪個 fact 給錯），會直接傳染成 writer footnote mis-map。對策：A 級/政治文 Stage 3.5 強制 fetch-based 逐 URL 比對（不可用 careful read 替代）；research-report URL list 要求 per-atom precise，不是 cluster-precise。
+- **觸發**：2026-06-21 黑熊學院 NEW。對政治文做了兩遍仔細 prose 審查、抓 spine、修對位句，自覺完整；Sonnet verifier fetch 每個 URL 後抓到 `[^20]`/`[^22]` 政治 footnote 整個 swap（國台辦 2024-10-14 ↔ 重慶立案 2025-10-28）、hero `imageSource` 純幻覺檔名、2 句 paraphrase 戴 verbatim 引號、嘖嘖募資數字 source 之間兜不攏——全是 careful read 沒抓到的。
+- **instances**：（首次）
+- **可能層級**：操作規則（REWRITE Stage 3.5 A 級強制 fetch-based）+ 通用反射（讀 ≠ 驗）
+- **相關**：REFLEXES #31（sub-agent claim 是線索不是 oracle）/ #42；2026-06-16 stage2-quote-context-collapse → REWRITE §Stage 2.5 source-fidelity gate（本案是該 gate 在 Stage 3.5 驗證端的延伸 worked example）
+- **verification_count**: 1
+- **severity**: structural（影響所有 A 級/政治 article 的 ship 安全）
+- **Pointer**：[memory/2026-06-21-135235-kuma-academy.md](memory/2026-06-21-135235-kuma-academy.md)
+
 ---
 
 ## ✅ 已消化（保留 pointer）
