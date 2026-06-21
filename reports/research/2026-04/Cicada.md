@@ -281,3 +281,109 @@ _Stage 1 Research Report v2.0 — 26+ sources per REWRITE-PIPELINE v2.17 — 202
 - 「那個男人第一次跨國電影工業」→ 保留（自畫像 2017 為國片，不衝突）。
 
 _EVOLVE Addendum v3.0 — Chrome MCP 官方頻道深掃 + 跨源驗證 — 2026-06-21-091617-cicada-media_
+
+---
+
+# EVOLVE Addendum v4.0 — 深度研究：方法論 / 團員聲音 / 2025 氣候維度 / 獎項校準（2026-06-21）
+
+> 觸發：哲宇 directive「深度研究補一些研究跟段落」。方法：3 個 general-purpose research agent 平行 fan-out（凝視 2025+氣候 / 方法論+團員 / 國際+電影配樂），合計 ~80 次 web 查；主 session 對所有寫進 article 的直引以中文 verbatim prompt WebFetch 親自復驗（2026-06-21）。
+
+## 寫進文章的補充（4 處）
+
+1. **新章節「我想要有一隻鳥飛過來的感覺」**（methodology）— 致潔給抽象意象→團員翻成技法、罡愷理性派張力、樂器→自然 verbatim、同步錄音「同一個片刻」、不用節拍器、同一趟山三人三素材。
+2. **凝視白色的邊界深化** — 2024 秋親赴冰島格陵蘭 + 動機逐字 + 同名曲氣候手法（B音/小提琴琶音/臨界點）+ 雪山科學精確化。
+3. **那個男人獎項校準 + 深化** — 石川慶「Cicadaらしい音」+ 7 度音程手法 + 獎項精確（片最優秀作品賞 / Cicada 優秀音樂賞，非最優秀）。
+4. **嘉明湖章「像紀錄片」歸屬更正** — 從巽洋改為江致潔（釀電影逐字證實是致潔說的）。
+
+## §引語庫（2026-06-21 中文 verbatim WebFetch 親驗，Ctrl-F ✓）
+
+| 逐字原文                                                                                                                                                                                 | 誰 / 場合                              | URL                                                    | 驗證                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------ | --------------------------------- |
+| 我很討厭一直講 Fu，先把大家組合在一起，再來跟我說 Fu 嘛，每次她（江致潔）都一定要先講故事，如果從故事來，就太慢、太抽象了。                                                              | 罡愷（小提琴），BIOS《仰望海平面》專訪 | https://www.biosmonthly.com/article/6769               | ✓                                 |
+| 他們當然可以選擇採取高效率的工業規格進行分軌錄音，但 Cicada 仍然堅持著同步錄音，確保每位樂手都能在當下聽見彼此，就是確保從低頻的深海到高頻的浪花都來自同一個片刻。                       | BIOS 記者敘述（同步錄音設計意圖）      | https://www.biosmonthly.com/article/6769               | ✓                                 |
+| 慢慢呼吸就能克服很多事情，當我放下那份緊張，才開始能注意別人，注意魚。                                                                                                                   | 庭禎/桃子（大提琴），BIOS              | https://www.biosmonthly.com/article/6769               | ✓                                 |
+| 致潔希望我成為一隻小蟲，獨立在自己的小世界飛來飛去，我就開始想像如果自己是一隻小瓢蟲，會有翅膀的聲音、會走走停停，試著用比較微觀的角度去看世界，並用吉他編織出可愛的聲音。               | 巽洋/小蔡（木吉他），VERSE《棲居》     | https://www.verse.com.tw/article/2022-cicada-album     | ✓                                 |
+| 致潔直言自己的創作像是在拍紀錄片，找到自己想談論、紀錄的主題，就讓自己浸淫其中，等待事件發生，蒐集過程裡的一切靈光，而團員的工作則是在創作的核心以外，發掘還沒被找到、卻必要存在的東西。 | 江致潔，釀電影（記者整理其自述）       | https://filmaholic.tw/people/6447820afd897800016ff354/ | ✓                                 |
+| 後來，Cicada 的吉他做出了風聲，小提琴做出了群鳥振翅的拍動聲，大提琴做出了溪水流經土地的流水聲                                                                                            | 釀電影（敘述 Cicada 樂器聲景）         | https://filmaholic.tw/people/6447820afd897800016ff354/ | ✓                                 |
+| 致潔對音樂的詮釋可能會是：『我想要有一隻鳥飛過來的感覺』                                                                                                                                 | 江致潔，釀電影                         | https://filmaholic.tw/people/6447820afd897800016ff354/ | ✓                                 |
+| 過去10年，我們持續為台灣的山與海創作。這次想將視野向外拓展，連結至其他看似遙遠的島國。                                                                                                   | 江致潔，中央社《凝視白色的邊界》       | https://www.cna.com.tw/postwrite/chi/416951            | ✓                                 |
+| 促使我前來的動機是因為這些都正在發生劇變。／強化想要守護的意念。                                                                                                                         | 江致潔，中央社                         | https://www.cna.com.tw/postwrite/chi/416951            | ✓                                 |
+| 江致潔以音符「B音」指涉浮冰，以小提琴琶音象徵氣候變遷的速度，從緩慢到急促，象徵逼近臨界點且無法逆行的流徙。                                                                              | 中央社敘述（同名曲手法）               | https://www.cna.com.tw/postwrite/chi/416951            | ✓                                 |
+| 2024年秋天，Cicada團長江致潔前往冰島與格陵蘭，親身走訪冰川消融的現場。                                                                                                                   | 中央社敘述                             | https://www.cna.com.tw/postwrite/chi/416951            | ✓                                 |
+| 一番欲しいのは、Cicadaらしい音 ／ 他人なんだけどまだ自分が残っている（7度ずらして）                                                                                                      | 江致潔，映画『ある男』官方訪談（日文） | https://movies.shochiku.co.jp/a-man/news/cicada/       | ✓（日文逐字；文章用中譯不加引號） |
+
+## §findings 校準（falsification 收穫）
+
+- **那個男人獎項（五源含官方 DB 一致）**：第 46 屆日本電影學院賞，《ある男》得**最優秀作品賞**（片，8 項最優秀）；**Cicada 得「優秀音楽賞」**（入圍層級 4 名並列）；該屆**最優秀音楽賞**由 RADWIMPS／陣内一真《すずめの戸締まり》獲得。官方 DB：https://www.japan-academy-prize.jp/prizes/?t=46 。**禁寫「Cicada 奪最優秀音樂賞」「替那個男人拿最佳配樂」。**
+- **自畫像**：陳宏一導演**劇情片**（非紀錄片，原 v2 假設更正），16 曲，劇本定稿前加入，OST 風和日麗發行。https://blow.streetvoice.com/36545/
+- **像紀錄片**：逐字出處是江致潔（釀電影），非巽洋——原文章 [^10] 歸屬更正。
+- **雪山科學**：精確為「末次冰期（約 2 萬 7 千–1 萬 8 千年前）」；台灣高山冰河遺跡學界長期爭論、1998 年王鑫等確認；翠池維基用「推斷/可能」措辭。NMNS：https://epub.nmns.edu.tw/i401-1/ 。文章寫「少數被認定的冰河遺跡」帶這層保留。
+- **紐西蘭旅程年份未證**：只有冰島+格陵蘭有「2024 秋」明確背書；NZ（Brewster Glacier / Aoraki）僅作專輯敘事，field-trip 年份未證——文章只寫「2024 秋親赴冰島與格陵蘭」不寫死三地同行。
+- **flau 2015 結緣**：flau 2015 發的是合輯《Ocean》（選自《邊境消逝》＋《仰望海平面》），非單獨《仰望海平面》。
+
+## §搜尋日誌（3 agent fan-out，~80 query，中英日三語）
+
+- Agent A（凝視 2025 / 氣候 / flau / 雪山科學）：27 query，中英並重；一手 CNA / Chinatimes / acloserlisten / flau.bandcamp / flau.jp / NMNS / 維基翠池。
+- Agent B（方法論 / 團員）：34 query；一手 BIOS / VERSE / 釀電影 / Blow 47614+65158 / roomie / the2010s（英）/ China Daily（英）。
+- Agent C（國際 / 電影配樂 / 獎項）：18+ query，中日英；一手 松竹官方 / japan-academy-prize 官方 DB / RADWIMPS 官網 / Blow 36545 / 大河票務 / TAICCA。
+- 主 session 復驗：BIOS / VERSE / CNA / Filmaholic 四源中文 verbatim WebFetch 親驗上表 11 條引語（2026-06-21）。
+
+## §參考文獻（v4.0 distinct 來源，標語言/類型）
+
+**中文一手訪談**
+
+- [BIOS monthly《仰望海平面》專訪](https://www.biosmonthly.com/article/6769) [中][一手]
+- [VERSE《棲居在溪源之上》](https://www.verse.com.tw/article/2022-cicada-album) [中][一手]
+- [VERSE《散落的時光》小白兔十週年](https://www.verse.com.tw/article/cicada_band_white_wabbit_records) [中][一手]
+- [釀電影 Filmaholic 專訪](https://filmaholic.tw/people/6447820afd897800016ff354/) [中][一手]
+- [Blow 吹音樂《走入有霧的森林》](https://blow.streetvoice.com/47614/) [中][一手]
+- [Blow 吹音樂《棲居》團員變動](https://blow.streetvoice.com/65158/) [中][一手]
+- [Blow 吹音樂《自畫像》電影配樂](https://blow.streetvoice.com/36545/) [中][一手]
+- [roomie / every little d 不用節拍器](https://www.roomie.tw/posts/75835) [中][一手]
+- [vocus《回返》專訪](https://vocus.cc/article/66ab0b06fd897800017ddade) [中][一手]
+- [verymulan 潛水/海洋專訪](https://www.verymulan.com/story/島嶼忘了海洋　但cicada記得-14223.html) [中][一手]
+- [HK01 扭耳仔 山林啟發](https://www.hk01.com/扭耳仔/420184/cicada-山林的啟發-譜出島嶼樂音) [中][一手]
+- [inwesternmusic 硬要聽 上集](https://inwesternmusic.com/2026/02/cicada-interview-growth-collection-part-1.html) [中][一手]
+
+**中文新聞/科學**
+
+- [中央社《凝視白色的邊界》創作自述](https://www.cna.com.tw/postwrite/chi/416951) [中][一手]
+- [中時 Cicada 音樂會報導](https://www.chinatimes.com/realtimenews/20260602002356-260404) [中]
+- [Nextapple Cicada 冰川專輯](https://news.nextapple.com/entertainment/20260129/78ADF8FCB06861DA62D208D8B25C6071) [中]
+- [大河票務 2019 中國巡演 8 城](https://www.dahepiao.com/news1/yanchu/20191111101775.html) [中]
+- [國立自然科學博物館 雪山圈谷冰河地形](https://epub.nmns.edu.tw/i401-1/) [中][一手][學術]
+- [國教院/科教館 台灣的冰河孑遺奇景](https://www.ntsec.edu.tw/liveSupply/detail.aspx?a=6829&cat=6841&lid=6903) [中][學術]
+
+**英文/國際**
+
+- [Taipei Times — Cicada《Pieces》樂評（David Chen）](https://www.taipeitimes.com/News/feat/archives/2011/12/20/2003521170) [英]
+- [a closer listen — Gazing the Shades of White 樂評](https://acloserlisten.com/2025/11/14/cicada-gazing-the-shades-of-white/) [英][一手]
+- [a closer listen — ACL 2025 Top Ten Modern Composition](https://acloserlisten.com/2025/12/17/acl-2025-top-ten-modern-composition/) [英]
+- [the2010s — Cicada Q&A](https://www.the2010s.net/cicada) [英][一手]
+- [China Daily — Cicada《Ocean》（Sun Ye）](http://www.chinadaily.com.cn/culture/2015-12/09/content_22667574.htm) [英][一手]
+- [Sputnikmusic — Seeking the Sources of Streams 樂評](https://www.sputnikmusic.com/review/86108/Cicada-Taiwan-Seeking-the-Sources-of-Streams/) [英]
+- [campus.sg — AXEAN Festival 2023 Cicada/NIO 專訪](https://www.campus.sg/interview-sound-of-taiwan-nio-and-cicada-at-axean-festival-2023-campus-sg/) [英]
+- [TAICCA 文策院 — Sound of Taiwan AXEAN 2023](https://en.taicca.tw/article/73f4697b) [英][一手]
+- [flau — Gazing the Shades of White (Bandcamp)](https://flau.bandcamp.com/album/gazing-the-shades-of-white) [英][一手]
+- [Cicada Bandcamp（官方 bio + 團名由來）](https://cicada.bandcamp.com/) [英][一手]
+- [flau.jp — Cicada artist 頁](http://flau.jp/artist/cicada/) [英/日][一手]
+
+**日文一手/官方**
+
+- [映画『ある男』Cicada 官方訪談 - 松竹](https://movies.shochiku.co.jp/a-man/news/cicada/) [日][一手]
+- [第 46 回日本電影學院賞 官方受賞 DB](https://www.japan-academy-prize.jp/prizes/?t=46) [日][一手][官方]
+- [RADWIMPS 官網（最優秀音樂賞佐證）](https://radwimps.jp/news/14207/) [日][一手]
+- [flau records substack（官方文案 + 海外巡演）](https://flaurecords.substack.com/p/cicada-gazing-the-shades-of-white) [日/英][一手]
+
+## 不採信清單 / 護欄（反例，搜了沒找到也要記）
+
+以下是搜了沒找到、或找到但不採信、不可寫的 negative findings：
+
+- 紐西蘭田野旅行年份/人員未證（只冰島格陵蘭有 2024 秋背書，不寫死三地同行）。
+- 本專輯具體錄音 engineer/分軌 credits 未公開。
+- 本專輯**未**入圍第 37 屆金曲獎演奏類（勿寫入圍/獲獎）。
+- 「台灣的 Arnalds／Frahm／坂本龍一」獨立外媒零證據（只樂團 press bio 同台履歷，不可寫成樂評定論）。
+- 俄羅斯 6 城市名未證（只「6 城」可寫，且是去「觀賞」柴可夫斯基大賽，非參賽/演出）。
+- 那個男人獎項：禁寫「Cicada 奪最優秀音樂賞」（實為優秀音樂賞，入圍層級）。
+
+_EVOLVE Addendum v4.0 — 3-agent 深度研究 + 主 session verbatim 復驗 — 2026-06-21-122005-cicada-deepen_
