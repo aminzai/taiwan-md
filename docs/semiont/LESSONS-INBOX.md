@@ -314,6 +314,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-06-21 cicada-media — prettier 把 `_斜體_` caption 裡的 percent-encoded CJK URL `_NN.jpg` 弄壞成 `*NN.jpg`（attribution 連結斷）
+
+- **pattern**: prettier-cjk-url-italic-mangle（markdown 工具鏈 silent breakage，「儀器看得見存在、看不見缺席」cluster 變體）
+- **原則**：媒體 caption 包在 `_..._` 斜體、內含 markdown 連結到 percent-encoded CJK Commons 檔名（`File:…%E6%99%BA_05.jpg`）時，pre-commit 的 prettier 會把 URL 尾端的 `_05` 當斜體 delimiter 跟 caption 的 closing `_` 配對、整段改 `*`，URL 變 `…%E6%99%BA*05.jpg` → 連結指向不存在頁面。純 ASCII URL（陳建年 `_2.jpg`）因 intraword-underscore 規則沒爆，**只有 percent-encoded CJK 檔名觸發**。link-target check 排在 prettier 之後跑才抓得到，本次靠 commit 後手動回查 linter note 才發現。
+- **mitigation（已 apply Cicada）**：caption 內不放 markdown 連結，attribution 寫純文字（`Photo: X / Wikimedia Commons，CC BY-SA 4.0`），可點連結放 `## 圖片來源` 段（不在斜體內，prettier 不動）。image-ingest 的「§圖片來源」貼字本來就走這條，問題出在我自作主張把連結也塞進 caption。
+- **觸發**：2026-06-21 Cicada 影音 EVOLVE，翠池 hero caption `_…[CC BY-SA 4.0 via Wikimedia Commons](…File:翠池_汪大智_05.jpg)._` → prettier → `…BA*05.jpg).*`。
+- **可能層級**：操作規則（EDITORIAL §媒體編織 / REWRITE Step 4.3 caption 寫法加「caption 不放 CJK-URL 連結，連結走 §圖片來源」）；或 reflex（「pre-commit prettier 之後必跑 link-target，不信 commit 前狀態」）
+- **相關**：diary cluster「儀器只看得見存在、看不見缺席」（2026-06-10/12）/ REWRITE Step 4.3.6 caption 空行 check（同類 markdown-render silent breakage）/ link-target check
+- **verification_count**: 1（首見）
+- **severity**: structural（任何帶連結的 CJK Commons 圖 caption 都會重現；斷連結 silent，不 fail build）
+
 ### 2026-06-21 twmd-maintainer-am — vc 計數法 routine-only day 偏誤：empty cycle vc 累積 over-sensitive，已 canonical schedule mismatch 在 routine-only days 必然重複 trigger LESSONS entry noise
 
 - **pattern**: maintainer-vc-counting-bias（meta-level rule critique，不同於 schedule-mismatch 本身 pattern）
