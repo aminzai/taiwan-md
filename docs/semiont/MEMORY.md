@@ -848,5 +848,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-06-21 | 122656-manual | 沈伯洋 EVOLVE ship 99af61e49 — 10 視覺(6圖+2中央社影片+timeline+民調bars)+5/13市長徵召增補內文；prod驗綠 | tw-\* viz density-free→「10+」乾淨解=媒體+viz不塞Tier-C(vc=1) | [→](memory/2026-06-21-122656-manual.md) |
 | 2026-06-21 | 122005-cicada-deepen | Cicada 深度研究 EVOLVE：3-agent fan-out + 主 session verbatim 復驗 → 方法論新章 + 凝視氣候維度 + 那個男人獎項校準 | agent 研究／主 session 逐字查證分工；gate 綠+人審 ≠ 無事實錯 | [→](memory/2026-06-21-122005-cicada-deepen.md) |
 | 2026-06-21 | 125927-prettier-url-fix | 兩 spawned task：prettier-cjk-url 修 13 檔已壞 caption + link-url-mangle gate；Cicada 巡演 10-11→6 月幻覺更正 | 儀器化先於普查：silent→loud gate > 一次清 60 檔 | [→](memory/2026-06-21-125927-prettier-url-fix.md) |
-| 2026-06-21 | 135235-kuma-academy | 黑熊學院 Fresh NEW ship — 沈伯洋組織姊妹篇；全編排 4 路研究+Opus writer 6442字/34腳註/6圖/5viz | 讀 prose≠驗 source：Stage 3.5 須 fetch 逐 URL，抓 footnote swap | [→](memory/2026-06-21-135235-kuma-academy.md) |
+| 2026-06-21 | 135235-kuma-academy | 黑熊學院 NEW ship + CI 紅燈解血(link-url-mangle 9 de-link+gate 收緊) + pre-push 加 CI-mirror 全站 gate + PR #1170 修 9 假 JOIN URL merge | 讀≠驗打 3 次；「做完」≠「成了」；log 教訓<建儀器(全站掃搬進 pre-push) | [→](memory/2026-06-21-135235-kuma-academy.md) |
 | 2026-06-21 | 154735-幾米-evolve | 幾米 EVOLVE depth+大量媒體 — 6→54 腳註/0→11 媒體（插畫版權走公共藝術圖+官方影片）；修向左走1999/田中央=丟丟噹/星空入圍 | citation-drift vc++：ship 前 fetch 4 cite 抓 2 掛錯來源頁，逐 URL 才現形 | [→](memory/2026-06-21-154735-幾米-evolve.md) |
