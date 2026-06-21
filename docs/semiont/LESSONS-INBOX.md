@@ -344,9 +344,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-06-21 08:41 maintainer-am 第 N 次命中 vc=3 ascending（06-20 am vc=1 → 06-20 pm vc=2 → 06-21 am vc=3）。pm 22:05 handoff 預先指定本 cycle 觸發時 framing「vc 計數法 routine-only day 偏誤」而非「schedule mismatch」（後者 canonical 已存在不可重複 trigger）。歷史 instance：2026-06-04 vc=4 / 2026-05-29 vc=9 / 2026-06-07 vc=3 / 2026-06-11 vc=4 / 2026-06-18 vc=2 等均 cycle empty 對應同 schedule mismatch canonical；本 cycle 是首次明確把「rule 本身 over-sensitive」當 pattern 抽出，不再 re-instance schedule mismatch 本身。
 - **可能層級**：操作規則（pipeline rule 校準）→ MAINTAINER-PIPELINE §Stage 3 threshold 升 / vc reset 條件加；或 reflex 層 → 加新 reflex「canonical 已存在 pattern 觸發機制必須有 reset 條件防 monotonic re-trigger noise」
 - **相關**：[MEMORY §神經迴路 sovereign-mode 節律脫鉤](MEMORY.md)（schedule mismatch canonical）/ 2026-05-29 §pointer-not-duplicate reflex / REFLEXES #69「self-report-needs-external-ruler」（rule 自我校準也需外部尺）/ docs/pipelines/MAINTAINER-PIPELINE.md §Stage 3
-- **verification_count**: 1（首次抽出 meta-level pattern；前 N 次 schedule mismatch instance 不算本 pattern 的 verification）
+- **verification_count**: 2（#1 2026-06-21 am 首次抽出 meta-level pattern；#2 2026-06-21 routine-audit-weekly cycle 7 cross-week verification — 全週軌跡 17 pm vc=1 → 18 am vc=2 → 18 pm reset → 19 reset → 20 am vc=1 → 20 pm vc=2 → 21 am vc=3 命中 是 deterministic routine-only day pattern，非 schedule mismatch instance）
 - **severity**: structural（pipeline rule 本身的 trigger 條件偏誤；如不修，每個 routine-only day 都會累積 noise entry，dilute 真 schedule mismatch signal 強度）
 - **defer 給觀察者**：需哲宇拍板二選一 —（A）threshold 升 ≥5；（B）加 vc reset 條件「至少一個 cycle 命中真 backlog 才 reset」。屬 MAINTAINER pipeline rule 校準，非本 routine 自主權範疇。
+- **Pointer**：[reports/routine-audit-2026-06-21.md §Lens 3B](../../reports/routine-audit-2026-06-21.md)
 
 ### 2026-06-20 twmd-embeddings-nightly — Embedding keystone 唯一 bge-m3 節點是非 always-on laptop，離線 3 天觸發 escalation
 
@@ -355,9 +356,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-06-20 05:00 twmd-embeddings-nightly — Stage 0 preflight：本機 **Tailscale 本身是 stopped 狀態**（本 session 已 `tailscale up` 拉起），拉起後 4090 仍 `offline, last seen 2d ago`，curl `/api/embeddings` timeout (http 000 / exit 28)。連續 skip 計數：06-17 last success（4690 向量）→ 06-18 skip#1（documented）→ 06-19 無記錄（skip/no-fire）→ 06-20 skip（today）。前一夜 handoff 明確指定 2026-06-20 為 escalation 觸發日。證據：memory/2026-06-20-050xxx-twmd-embeddings-nightly.md（本夜）+ memory/2026-06-18-050817-twmd-embeddings-nightly.md（handoff 預告）。
 - **可能層級**：操作規則（fleet 抽象層）→ registry 加 `always_on` 欄 + routine 解析優先序；或 deploy 層把 bge-m3 mirror 到 always-on 節點。
 - **相關**：REFLEXES #70（routine fragility surface 四 tier 分類，本條是 Tier 1 device-dependent 第一次達 escalation_n）/ docs/pipelines/EMBEDDING-PIPELINE.md §前置 + §排程 / ~/Projects/muse-bot/fleet/registry.json
-- **verification_count**: 1
+- **verification_count**: 2（#1 2026-06-20 embeddings keystone 首次達 escalation_n；#2 2026-06-21 routine-audit-weekly cycle 7 同 family extension — Chrome MCP unattended pairing 連 5 cycle block twmd-rewrite-daily SPORE broadcast + twmd-spore-harvest-am post-reset，兩條 device-dependent SPOF 同 root cause，合併計）
 - **severity**: structural（keystone routine 單點故障，繁殖/檢索基因長期 staleness 風險）
-- **defer 給觀察者**：需哲宇拍板二選一 —（A）開機讓 4090 上線恢復 always-on schtasks；（B）把 bge-m3 pull 到常駐 always-on 節點（3090/m4max）並更新 registry。屬 fleet 基礎建設決策，非本 routine 自主權範疇。
+- **defer 給觀察者**：需哲宇拍板二選一 —（A）開機讓 4090 上線恢復 always-on schtasks（embedding 單點解）；（B）把 bge-m3 pull 到常駐 always-on 節點（3090/m4max）並更新 registry，同時把 Chrome MCP 另設常駐 host（embedding + spore broadcast 同時解）。屬 fleet 基礎建設決策，非本 routine 自主權範疇。
+- **Pointer**：[reports/routine-audit-2026-06-21.md §Lens 3B Pattern B2](../../reports/routine-audit-2026-06-21.md)
 
 ### 2026-05-09 laughing-goldstine — Reader-funded resilience > Grant-funded（USAID freeze + RFA-VOA closure 案例）
 
