@@ -547,6 +547,88 @@ export const dataUI = {
     'data.company.hiwin-technologies': 'HIWIN 上銀科技',
     'data.company.novatek': 'Novatek 聯詠科技',
 
+    // Top-50 new entrants + AI-era sectors + fell-off + /companies page (ja)
+    'data.company.elite-material': 'Elite Material 台光電',
+    'data.company.accton': 'Accton 智邦',
+    'data.company.avc': 'AVC 奇鋐',
+    'data.company.chroma-ate': 'Chroma ATE 致茂',
+    'data.company.hon-precision': 'Hon Precision 鴻勁',
+    'data.company.jentech': 'Jentech 健策',
+    'data.company.gold-circuit': 'Gold Circuit 金像電',
+    'data.company.nanya-technology': 'Nanya Technology 南亞科',
+    'data.company.yageo': 'Yageo 國巨',
+    'data.company.nan-ya-pcb': 'Nan Ya PCB 南電',
+    'data.company.taishin-shinkong': 'Taishin Shin Kong 台新新光金',
+    'data.company.global-unichip': 'Global Unichip 創意',
+    'data.company.bizlink': 'BizLink 貿聯',
+    'data.company.zhen-ding': 'Zhen Ding 臻鼎',
+    'data.company.sinopac-financial': 'SinoPac 永豐金',
+    'data.company.winbond': 'Winbond 華邦電',
+    'data.company.winway': 'WinWay 穎崴',
+    'data.company.king-slide': 'King Slide 川湖',
+    'data.company.kyec': 'KYEC 京元電子',
+    'data.company.kgi-financial': 'KGI 凱基金',
+    'data.sector.networking': 'ネットワーク機器',
+    'data.sector.cooling': '放熱',
+    'data.sector.testing': '検査・測定',
+    'data.fellOff.china-steel':
+      '鉄鋼市況の低迷と長年の赤字 — AIの追い風に乗れず',
+    'data.fellOff.htc': 'スマートフォン事業の崩壊、VR／XRも規模に達せず',
+    'data.fellOff.taiwan-cement':
+      'セメント本業の不振、蓄電への転換はまだ本格化せず',
+    'data.fellOff.far-eastern-new-century':
+      'ポリエステル・化繊市況の下降、AIの題材を欠く伝統産業',
+    'data.fellOff.giant-manufacturing': '自転車の在庫調整、売上は3年連続で減少',
+    'data.companies.meta.title': '台湾トップ50企業 — AI時代の地殻変動',
+    'data.companies.meta.description':
+      '時価総額・売上高・従業員数で見る台湾の上場企業トップ50のインタラクティブなバブルチャート。AIサプライチェーンがランキングをどう塗り替えたか（2026年6月時点）。',
+    'data.companies.hero.title': '台湾トップ50企業',
+    'data.companies.hero.subtitle':
+      'バブルの面積は時価総額 — 2,300万人の島の企業地図',
+    'data.companies.hero.description':
+      'バブルが大きいほど時価総額が大きい。色はセクターを表す。売上高や従業員数に切り替えたり、セクターをクリックして絞り込んだり、バブルをドラッグして動かせる。',
+    'data.companies.snapshot':
+      '📊 出典：台湾証券取引所（TWSE）、2025年通期決算、年次報告書 · 2026年6月時点（概算、投資助言ではない）',
+    'data.companies.story.title': 'AIブームが島全体を再評価した',
+    'data.companies.story.p1':
+      'わずか2年で、AIへの大規模投資が台湾の企業ランキングを書き換えた。TSMC一社で市場全体の43.8%を占め — 39%から上昇 — 上位10銘柄で約61%に達する。',
+    'data.companies.story.p2':
+      'TSMCに続く上昇株はすべてAIサプライチェーンだ。Delta 台達電が2位に躍進し（AI電源で1年に約5倍）、MediaTek 聯發科が急騰、そしてPCB・基板、放熱、検査、ネットワークの一群 — Elite Material 台光電、AVC 奇鋐、Chroma 致茂、Accton 智邦、Yageo 國巨 — がトップ50に駆け上がり、旧来の顔ぶれ約20社を押し出した。',
+    'data.companies.table.heading': '📋 全ランキング',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': '企業',
+    'data.companies.table.sector': 'セクター',
+    'data.companies.table.marketCap': '時価総額（億 TWD）',
+    'data.companies.table.revenue': '2025年売上高（億 TWD）',
+    'data.companies.table.employees': '従業員数',
+    'data.companies.table.founded': '設立',
+    'data.companies.insights.heading': '🔍 主な洞察',
+    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.label':
+      '台湾の時価総額合計に占めるTSMCの割合',
+    'data.companies.insights.card1.detail':
+      '39%から上昇 — 一社で他の上場企業すべての約5分の4に相当',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label': '市場に占める上位10銘柄の割合',
+    'data.companies.insights.card2.detail': '少数の大型株への極端な集中',
+    'data.companies.insights.card3.number': '~20',
+    'data.companies.insights.card3.label':
+      'AIサプライチェーンからの新規参入企業',
+    'data.companies.insights.card3.detail':
+      'PCB・基板、放熱、検査、ネットワーク — 2年前には存在しなかった',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label': 'トップ50に入る金融持株会社',
+    'data.companies.insights.card4.detail':
+      '統合後、指数の安定したバラスト（重し）',
+    'data.companies.fellOff.title': '📉 リストから脱落した企業',
+    'data.companies.fellOff.intro':
+      'AIによる再評価には敗者もいる。鉄鋼、セメント、繊維、自転車、かつてのスマートフォンの花形 — これらの誰もが知る名前は、資本がAIチェーンに殺到するなかでトップ50から滑り落ちた。',
+    'data.companies.fellOff.marketCapNow': '現在の時価総額',
+    'data.companies.method.heading': '📝 注記',
+    'data.companies.method.body':
+      '時価総額は、TSMC（約59兆台湾ドル／43.8%）を基準とした市場全体に対する各銘柄のTWSE指数構成比（2026年6月）から算出した。売上高は2025年通期の連結ベース（金融持株会社については保険を含む連結営業収益）。従業員数は概算で、可能な場合はグループ・連結ベースだが — 定義は企業によって異なるため、棒グラフは正確な比較ではなく桁数の目安として読んでほしい。',
+    'data.companies.related': '📖 関連記事',
+
     // Category 1: Government Open Data
     'data.category.1.title': '政府オープンデータ',
     'data.category.1.description':
@@ -920,6 +1002,86 @@ export const dataUI = {
     'data.company.inventec': '잉예다',
     'data.company.hiwin-technologies': 'HIWIN 상인과기',
     'data.company.novatek': 'Novatek 롄용과기',
+
+    // Top-50 new entrants + AI-era sectors + fell-off + /companies page (ko)
+    'data.company.elite-material': 'Elite Material 台光電',
+    'data.company.accton': 'Accton 智邦',
+    'data.company.avc': 'AVC 奇鋐',
+    'data.company.chroma-ate': 'Chroma ATE 致茂',
+    'data.company.hon-precision': 'Hon Precision 鴻勁',
+    'data.company.jentech': 'Jentech 健策',
+    'data.company.gold-circuit': 'Gold Circuit 金像電',
+    'data.company.nanya-technology': 'Nanya Technology 南亞科',
+    'data.company.yageo': 'Yageo 國巨',
+    'data.company.nan-ya-pcb': 'Nan Ya PCB 南電',
+    'data.company.taishin-shinkong': 'Taishin Shin Kong 台新新光金',
+    'data.company.global-unichip': 'Global Unichip 創意',
+    'data.company.bizlink': 'BizLink 貿聯',
+    'data.company.zhen-ding': 'Zhen Ding 臻鼎',
+    'data.company.sinopac-financial': 'SinoPac 永豐金',
+    'data.company.winbond': 'Winbond 華邦電',
+    'data.company.winway': 'WinWay 穎崴',
+    'data.company.king-slide': 'King Slide 川湖',
+    'data.company.kyec': 'KYEC 京元電子',
+    'data.company.kgi-financial': 'KGI 凱基金',
+    'data.sector.networking': '네트워킹',
+    'data.sector.cooling': '냉각',
+    'data.sector.testing': '테스트 및 계측',
+    'data.fellOff.china-steel': '철강 경기 침체, 수년간 적자 — AI 순풍 없음',
+    'data.fellOff.htc': '스마트폰 붕괴; VR/XR은 끝내 규모에 이르지 못함',
+    'data.fellOff.taiwan-cement':
+      '핵심 시멘트 부진; 에너지 저장 전환은 아직 규모 미달',
+    'data.fellOff.far-eastern-new-century':
+      '폴리에스터/섬유 경기 하락; 구경제, AI 스토리 없음',
+    'data.fellOff.giant-manufacturing': '자전거 재고 과잉; 3년 연속 매출 감소',
+    'data.companies.meta.title': '대만 50대 기업 — AI 시대의 재편',
+    'data.companies.meta.description':
+      '시가총액, 매출, 종업원 수 기준 대만 상장 50대 기업의 인터랙티브 버블 차트 — 그리고 AI 공급망이 어떻게 순위를 다시 썼는지 (2026/06 스냅샷).',
+    'data.companies.hero.title': '대만 50대 기업',
+    'data.companies.hero.subtitle':
+      '버블 면적으로 본 시가총액 — 2,300만 인구 섬의 기업 지도',
+    'data.companies.hero.description':
+      '버블이 클수록 시가총액이 큼. 색상 = 업종. 매출 또는 종업원 수로 전환하고, 업종을 클릭해 필터링하고, 버블을 끌어보세요.',
+    'data.companies.snapshot':
+      '📊 출처: TWSE, 2025년 연간 매출 공시, 연차보고서 · 스냅샷 2026/06 (근사치, 투자 조언 아님)',
+    'data.companies.story.title': 'AI 붐이 섬 전체를 다시 가격 매겼다',
+    'data.companies.story.p1':
+      '불과 2년 만에 AI 구축이 대만의 기업 순위를 다시 썼다. TSMC 한 곳이 이제 전체 시장의 43.8%를 차지하며 — 39%에서 상승 — 상위 10개 종목이 그 약 61%를 이룬다.',
+    'data.companies.story.p2':
+      'TSMC 뒤를 잇는 상승 기업들은 모두 AI 공급망이다: Delta는 AI 전력에 힘입어 1년 만에 약 5배 올라 2위로 도약했고, MediaTek가 급등했으며, PCB/기판, 냉각, 테스트, 네트워킹 기업들의 물결 — Elite Material, AVC, Chroma, Accton, Yageo — 이 50위 안에 진입하며 기존 강자 약 20곳을 밀어냈다.',
+    'data.companies.table.heading': '📋 전체 순위',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': '기업',
+    'data.companies.table.sector': '업종',
+    'data.companies.table.marketCap': '시가총액 (億 TWD)',
+    'data.companies.table.revenue': '2025년 매출 (億 TWD)',
+    'data.companies.table.employees': '종업원 수',
+    'data.companies.table.founded': '설립',
+    'data.companies.insights.heading': '🔍 핵심 인사이트',
+    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.label':
+      '대만 전체 시가총액에서 TSMC가 차지하는 비중',
+    'data.companies.insights.card1.detail':
+      '39%에서 상승 — 한 기업이 나머지 모든 상장사의 약 5분의 4에 해당',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label':
+      '시장에서 상위 10개 종목이 차지하는 비중',
+    'data.companies.insights.card2.detail': '소수의 대형주에 극도로 집중',
+    'data.companies.insights.card3.number': '~20',
+    'data.companies.insights.card3.label': 'AI 공급망에서 새로 진입한 기업',
+    'data.companies.insights.card3.detail':
+      'PCB/기판, 냉각, 테스트, 네트워킹 — 2년 전에는 없었음',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label': '50위 안의 금융지주회사',
+    'data.companies.insights.card4.detail': '통합 이후, 지수의 안정적인 무게추',
+    'data.companies.fellOff.title': '📉 명단에서 탈락한 기업',
+    'data.companies.fellOff.intro':
+      'AI 재평가에는 패자도 있다. 철강, 시멘트, 섬유, 자전거, 한때의 스마트폰 스타 — 이 익숙한 이름들은 자본이 AI 체인으로 몰리면서 50위 밖으로 밀려났다.',
+    'data.companies.fellOff.marketCapNow': '현재 시가총액',
+    'data.companies.method.heading': '📝 참고',
+    'data.companies.method.body':
+      '시가총액은 TSMC(약 NT$59조 / 43.8%)를 기준으로 한 전체 시장 대비 각 종목의 TWSE 지수 비중(2026/06)에서 산출되었다. 매출은 2025년 연결 기준 전체 연간 실적(금융지주의 경우 보험을 포함한 연결 영업수익)이다. 종업원 수는 근사치이며 가능한 경우 그룹/연결 기준으로, 기업마다 정의가 다르므로 막대는 정확한 비교가 아닌 자릿수 수준으로 읽어야 한다.',
+    'data.companies.related': '📖 관련 읽을거리',
 
     // Category 1: Government Open Data
     'data.category.1.title': '정부 공개 데이터',
@@ -1727,6 +1889,95 @@ export const dataUI = {
     'data.company.inventec': 'Inventec 英業達',
     'data.company.hiwin-technologies': 'HIWIN Technologies 上銀科技',
     'data.company.novatek': 'Novatek 聯詠科技',
+
+    // Top-50 new entrants + AI-era sectors + fell-off + /companies page (fr)
+    'data.company.elite-material': 'Elite Material 台光電',
+    'data.company.accton': 'Accton 智邦',
+    'data.company.avc': 'AVC 奇鋐',
+    'data.company.chroma-ate': 'Chroma ATE 致茂',
+    'data.company.hon-precision': 'Hon Precision 鴻勁',
+    'data.company.jentech': 'Jentech 健策',
+    'data.company.gold-circuit': 'Gold Circuit 金像電',
+    'data.company.nanya-technology': 'Nanya Technology 南亞科',
+    'data.company.yageo': 'Yageo 國巨',
+    'data.company.nan-ya-pcb': 'Nan Ya PCB 南電',
+    'data.company.taishin-shinkong': 'Taishin Shin Kong 台新新光金',
+    'data.company.global-unichip': 'Global Unichip 創意',
+    'data.company.bizlink': 'BizLink 貿聯',
+    'data.company.zhen-ding': 'Zhen Ding 臻鼎',
+    'data.company.sinopac-financial': 'SinoPac 永豐金',
+    'data.company.winbond': 'Winbond 華邦電',
+    'data.company.winway': 'WinWay 穎崴',
+    'data.company.king-slide': 'King Slide 川湖',
+    'data.company.kyec': 'KYEC 京元電子',
+    'data.company.kgi-financial': 'KGI 凱基金',
+    'data.sector.networking': 'Réseaux',
+    'data.sector.cooling': 'Refroidissement',
+    'data.sector.testing': 'Test et mesure',
+    'data.fellOff.china-steel':
+      "Récession de l'acier, des années de pertes — aucun vent porteur de l'IA",
+    'data.fellOff.htc':
+      "Effondrement du smartphone ; la VR/XR n'a jamais atteint l'échelle",
+    'data.fellOff.taiwan-cement':
+      "Cœur de métier du ciment fragile ; le virage vers le stockage d'énergie pas encore à l'échelle",
+    'data.fellOff.far-eastern-new-century':
+      'Cycle polyester/fibres en baisse ; vieille économie, aucun récit IA',
+    'data.fellOff.giant-manufacturing':
+      "Surstock de vélos ; chiffre d'affaires en baisse trois années de suite",
+    'data.companies.meta.title':
+      "Les 50 premières entreprises de Taïwan — la redistribution de l'ère de l'IA",
+    'data.companies.meta.description':
+      "Un graphique à bulles interactif des 50 plus grandes entreprises cotées de Taïwan par capitalisation boursière, chiffre d'affaires et effectifs — et comment la chaîne d'approvisionnement de l'IA a réécrit le classement (instantané 2026/06).",
+    'data.companies.hero.title': 'Les 50 premières entreprises de Taïwan',
+    'data.companies.hero.subtitle':
+      "La capitalisation boursière comme aire de bulle — la carte des entreprises d'une île de 23 millions d'habitants",
+    'data.companies.hero.description':
+      "Plus la bulle est grande, plus la capitalisation boursière est élevée. La couleur indique le secteur. Basculez vers le chiffre d'affaires ou les effectifs, cliquez sur un secteur pour filtrer, faites glisser les bulles.",
+    'data.companies.snapshot':
+      "📊 Source : TWSE, déclarations de chiffre d'affaires annuel 2025, rapports annuels · Instantané 2026/06 (approximatif, ne constitue pas un conseil en investissement)",
+    'data.companies.story.title': "Le boom de l'IA a revalorisé toute l'île",
+    'data.companies.story.p1':
+      "En à peine deux ans, l'essor de l'IA a réécrit le classement des entreprises de Taïwan. TSMC représente à lui seul désormais 43,8 % de l'ensemble du marché — contre 39 % auparavant — et les 10 premières valeurs en constituent environ 61 %.",
+    'data.companies.story.p2':
+      "Derrière TSMC, les gagnants relèvent tous de la chaîne d'approvisionnement de l'IA : Delta a bondi à la 2e place (multiplié par environ 5 en un an grâce à l'alimentation pour l'IA), MediaTek s'est envolé, et une vague de noms du PCB/substrat, du refroidissement, du test et des réseaux — Elite Material, AVC, Chroma, Accton, Yageo — a grimpé dans le top 50, en écartant une vingtaine des anciens acteurs.",
+    'data.companies.table.heading': '📋 Classement complet',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': 'Entreprise',
+    'data.companies.table.sector': 'Secteur',
+    'data.companies.table.marketCap': 'Capitalisation boursière (億 TWD)',
+    'data.companies.table.revenue': "Chiffre d'affaires 2025 (億 TWD)",
+    'data.companies.table.employees': 'Effectifs',
+    'data.companies.table.founded': 'Fondée',
+    'data.companies.insights.heading': '🔍 Points clés',
+    'data.companies.insights.card1.number': '43,8 %',
+    'data.companies.insights.card1.label':
+      'Part de TSMC dans la capitalisation boursière totale de Taïwan',
+    'data.companies.insights.card1.detail':
+      'Contre 39 % auparavant — une seule entreprise ≈ quatre cinquièmes de tout le reste des sociétés cotées',
+    'data.companies.insights.card2.number': '61 %',
+    'data.companies.insights.card2.label':
+      'Part des 10 premières valeurs dans le marché',
+    'data.companies.insights.card2.detail':
+      'Concentration extrême sur une poignée de grandes capitalisations',
+    'data.companies.insights.card3.number': '~20',
+    'data.companies.insights.card3.label':
+      "Nouveaux entrants issus de la chaîne d'approvisionnement de l'IA",
+    'data.companies.insights.card3.detail':
+      'PCB/substrat, refroidissement, test, réseaux — absents il y a deux ans',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label':
+      'Sociétés holding financières dans le top 50',
+    'data.companies.insights.card4.detail':
+      "Après consolidation, le lest stable de l'indice",
+    'data.companies.fellOff.title': '📉 Qui est sorti de la liste',
+    'data.companies.fellOff.intro':
+      "La revalorisation par l'IA fait aussi des perdants. Ces noms familiers — acier, ciment, textiles, vélos, une ancienne star du smartphone — sont sortis du top 50 à mesure que les capitaux affluaient vers la chaîne de l'IA.",
+    'data.companies.fellOff.marketCapNow': 'Capitalisation boursière actuelle',
+    'data.companies.method.heading': '📝 Notes',
+    'data.companies.method.body':
+      "La capitalisation boursière est dérivée de la pondération de chaque valeur dans l'indice TWSE (2026/06) par rapport à un marché total ancré sur TSMC (≈59 000 Md NT$ / 43,8 %). Le chiffre d'affaires est le consolidé de l'exercice complet 2025 (pour les holdings financières, le chiffre d'affaires opérationnel consolidé incluant l'assurance). Les effectifs sont approximatifs, sur une base de groupe/consolidée lorsqu'elle est disponible — les définitions varient d'une entreprise à l'autre, donc lisez les barres comme des ordres de grandeur, et non comme des comparaisons exactes.",
+    'data.companies.related': '📖 Lectures associées',
+
     'data.category.1.title': 'Données ouvertes gouvernementales',
     'data.category.1.description':
       'Jeux de données structurés et plateformes statistiques publiés par les agences gouvernementales',
@@ -2086,6 +2337,95 @@ export const dataUI = {
     'data.company.inventec': 'Inventec 英業達',
     'data.company.hiwin-technologies': 'HIWIN Technologies 上銀科技',
     'data.company.novatek': 'Novatek 聯詠科技',
+
+    // Top-50 new entrants + AI-era sectors + fell-off + /companies page (es)
+    'data.company.elite-material': 'Elite Material 台光電',
+    'data.company.accton': 'Accton 智邦',
+    'data.company.avc': 'AVC 奇鋐',
+    'data.company.chroma-ate': 'Chroma ATE 致茂',
+    'data.company.hon-precision': 'Hon Precision 鴻勁',
+    'data.company.jentech': 'Jentech 健策',
+    'data.company.gold-circuit': 'Gold Circuit 金像電',
+    'data.company.nanya-technology': 'Nanya Technology 南亞科',
+    'data.company.yageo': 'Yageo 國巨',
+    'data.company.nan-ya-pcb': 'Nan Ya PCB 南電',
+    'data.company.taishin-shinkong': 'Taishin Shin Kong 台新新光金',
+    'data.company.global-unichip': 'Global Unichip 創意',
+    'data.company.bizlink': 'BizLink 貿聯',
+    'data.company.zhen-ding': 'Zhen Ding 臻鼎',
+    'data.company.sinopac-financial': 'SinoPac 永豐金',
+    'data.company.winbond': 'Winbond 華邦電',
+    'data.company.winway': 'WinWay 穎崴',
+    'data.company.king-slide': 'King Slide 川湖',
+    'data.company.kyec': 'KYEC 京元電子',
+    'data.company.kgi-financial': 'KGI 凱基金',
+    'data.sector.networking': 'Redes',
+    'data.sector.cooling': 'Refrigeración',
+    'data.sector.testing': 'Pruebas y medición',
+    'data.fellOff.china-steel':
+      'Caída del acero, años de pérdidas — sin impulso de la IA',
+    'data.fellOff.htc':
+      'Colapso de los smartphones; la RV/RX nunca alcanzó escala',
+    'data.fellOff.taiwan-cement':
+      'Cemento básico débil; el giro hacia almacenamiento de energía aún sin escala',
+    'data.fellOff.far-eastern-new-century':
+      'Ciclo del poliéster/fibra a la baja; economía tradicional, sin relato de IA',
+    'data.fellOff.giant-manufacturing':
+      'Exceso de inventario de bicicletas; ingresos a la baja durante tres años seguidos',
+    'data.companies.meta.title':
+      'Las 50 mayores empresas de Taiwán — La reorganización de la era de la IA',
+    'data.companies.meta.description':
+      'Un gráfico de burbujas interactivo de las 50 mayores empresas cotizadas de Taiwán por capitalización bursátil, ingresos y plantilla — y cómo la cadena de suministro de la IA reescribió la clasificación (instantánea 2026/06).',
+    'data.companies.hero.title': 'Las 50 mayores empresas de Taiwán',
+    'data.companies.hero.subtitle':
+      'La capitalización bursátil como área de la burbuja — el mapa corporativo de una isla de 23 millones de personas',
+    'data.companies.hero.description':
+      'Burbuja más grande = mayor capitalización bursátil. Color = sector. Cambia a ingresos o plantilla, haz clic en un sector para filtrar, arrastra las burbujas.',
+    'data.companies.snapshot':
+      '📊 Fuente: TWSE, declaraciones de ingresos anuales de 2025, informes anuales · Instantánea 2026/06 (aproximada, no es asesoramiento de inversión)',
+    'data.companies.story.title': 'El auge de la IA revaloró toda la isla',
+    'data.companies.story.p1':
+      'En apenas dos años, el despliegue de la IA reescribió la clasificación corporativa de Taiwán. TSMC por sí sola representa ahora el 43,8% de todo el mercado — frente al 39% anterior — y las 10 mayores acciones suponen alrededor del 61% de este.',
+    'data.companies.story.p2':
+      'Detrás de TSMC, las que suben son todas de la cadena de suministro de la IA: Delta saltó al puesto n.º 2 (subió ~5 veces en un año gracias a la energía para IA), MediaTek se disparó, y una oleada de nombres de PCB/sustratos, refrigeración, pruebas y redes — Elite Material, AVC, Chroma, Accton, Yageo — escaló hasta las 50 primeras, desplazando a unas 20 de las veteranas.',
+    'data.companies.table.heading': '📋 Clasificación completa',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': 'Empresa',
+    'data.companies.table.sector': 'Sector',
+    'data.companies.table.marketCap': 'Capitalización bursátil (億 TWD)',
+    'data.companies.table.revenue': 'Ingresos 2025 (億 TWD)',
+    'data.companies.table.employees': 'Empleados',
+    'data.companies.table.founded': 'Fundación',
+    'data.companies.insights.heading': '🔍 Claves principales',
+    'data.companies.insights.card1.number': '43,8%',
+    'data.companies.insights.card1.label':
+      'Cuota de TSMC en la capitalización bursátil total de Taiwán',
+    'data.companies.insights.card1.detail':
+      'Frente al 39% anterior — una sola empresa ≈ cuatro quintas partes de todo lo demás cotizado',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label':
+      'Las 10 mayores acciones como cuota del mercado',
+    'data.companies.insights.card2.detail':
+      'Concentración extrema en un puñado de grandes valores',
+    'data.companies.insights.card3.number': '~20',
+    'data.companies.insights.card3.label':
+      'Nuevas incorporaciones de la cadena de suministro de la IA',
+    'data.companies.insights.card3.detail':
+      'PCB/sustratos, refrigeración, pruebas, redes — ausentes hace dos años',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label':
+      'Sociedades holding financieras entre las 50 primeras',
+    'data.companies.insights.card4.detail':
+      'Tras la consolidación, el lastre estable del índice',
+    'data.companies.fellOff.title': '📉 Quién quedó fuera de la lista',
+    'data.companies.fellOff.intro':
+      'La revaloración por la IA también tiene perdedores. Estos nombres conocidos — acero, cemento, textiles, bicicletas, una antigua estrella de los smartphones — se quedaron fuera de las 50 primeras a medida que el capital se concentraba en la cadena de la IA.',
+    'data.companies.fellOff.marketCapNow': 'Capitalización bursátil actual',
+    'data.companies.method.heading': '📝 Notas',
+    'data.companies.method.body':
+      'La capitalización bursátil se deriva de la ponderación de cada acción en el índice TWSE (2026/06) frente a un mercado total anclado en TSMC (≈59 bln NT$ / 43,8%). Los ingresos son consolidados de todo el año 2025 (para las holding financieras, ingresos operativos consolidados incluyendo seguros). La plantilla es aproximada, sobre una base de grupo/consolidada cuando está disponible — las definiciones varían entre empresas, así que interpreta las barras como órdenes de magnitud, no como comparaciones exactas.',
+    'data.companies.related': '📖 Lecturas relacionadas',
+
     'data.category.1.title': 'Datos Abiertos del Gobierno',
     'data.category.1.description':
       'Conjuntos de datos estructurados y plataformas estadísticas publicados por agencias gubernamentales',
