@@ -54,6 +54,99 @@ export const dataUI = {
     'data.company.hiwin-technologies': 'HIWIN Technologies 上銀科技',
     'data.company.novatek': 'Novatek 聯詠科技',
 
+    // Top-50 new entrants (2026 AI supply-chain repricing)
+    'data.company.elite-material': 'Elite Material 台光電',
+    'data.company.accton': 'Accton 智邦',
+    'data.company.avc': 'AVC 奇鋐',
+    'data.company.chroma-ate': 'Chroma ATE 致茂',
+    'data.company.hon-precision': 'Hon Precision 鴻勁',
+    'data.company.jentech': 'Jentech 健策',
+    'data.company.gold-circuit': 'Gold Circuit 金像電',
+    'data.company.nanya-technology': 'Nanya Technology 南亞科',
+    'data.company.yageo': 'Yageo 國巨',
+    'data.company.nan-ya-pcb': 'Nan Ya PCB 南電',
+    'data.company.taishin-shinkong': 'Taishin Shin Kong 台新新光金',
+    'data.company.global-unichip': 'Global Unichip 創意',
+    'data.company.bizlink': 'BizLink 貿聯',
+    'data.company.zhen-ding': 'Zhen Ding 臻鼎',
+    'data.company.sinopac-financial': 'SinoPac 永豐金',
+    'data.company.winbond': 'Winbond 華邦電',
+    'data.company.winway': 'WinWay 穎崴',
+    'data.company.king-slide': 'King Slide 川湖',
+    'data.company.kyec': 'KYEC 京元電子',
+    'data.company.kgi-financial': 'KGI 凱基金',
+
+    // New AI-era sectors
+    'data.sector.networking': 'Networking',
+    'data.sector.cooling': 'Cooling',
+    'data.sector.testing': 'Test & Measurement',
+
+    // Fell-off-the-list reasons (displaced by the AI supply chain)
+    'data.fellOff.china-steel':
+      'Steel downturn, years of losses — no AI tailwind',
+    'data.fellOff.htc': 'Smartphone collapse; VR/XR never reached scale',
+    'data.fellOff.taiwan-cement':
+      'Weak core cement; energy-storage pivot not yet at scale',
+    'data.fellOff.far-eastern-new-century':
+      'Polyester/fiber cycle down; old-economy, no AI story',
+    'data.fellOff.giant-manufacturing':
+      'Bicycle inventory glut; revenue down three years running',
+
+    // Standalone /companies page
+    'data.companies.meta.title':
+      "Taiwan's Top 50 Companies — The AI-Era Reshuffle",
+    'data.companies.meta.description':
+      "An interactive bubble chart of Taiwan's 50 largest listed companies by market cap, revenue and headcount — and how the AI supply chain rewrote the rankings (2026/06 snapshot).",
+    'data.companies.hero.title': "Taiwan's Top 50 Companies",
+    'data.companies.hero.subtitle':
+      'Market cap as bubble area — the corporate map of a 23-million-person island',
+    'data.companies.hero.description':
+      'Bigger bubble = larger market cap. Color = sector. Toggle to revenue or headcount, click a sector to filter, drag the bubbles around.',
+    'data.companies.snapshot':
+      '📊 Source: TWSE, 2025 full-year revenue filings, annual reports · Snapshot 2026/06 (approximate, not investment advice)',
+    'data.companies.story.title': 'The AI Boom Repriced the Whole Island',
+    'data.companies.story.p1':
+      "In barely two years, the AI buildout rewrote Taiwan's corporate ranking. TSMC alone now accounts for 43.8% of the entire market — up from 39% — and the top 10 stocks make up about 61% of it.",
+    'data.companies.story.p2':
+      'Behind TSMC, the risers are all AI supply chain: Delta jumped to #2 (up ~5× in a year on AI power), MediaTek surged, and a wave of PCB/substrate, cooling, testing and networking names — Elite Material, AVC, Chroma, Accton, Yageo — climbed into the top 50, pushing out roughly 20 of the old guard.',
+    'data.companies.table.heading': '📋 Full Ranking',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': 'Company',
+    'data.companies.table.sector': 'Sector',
+    'data.companies.table.marketCap': 'Market Cap (億 TWD)',
+    'data.companies.table.revenue': '2025 Revenue (億 TWD)',
+    'data.companies.table.employees': 'Employees',
+    'data.companies.table.founded': 'Founded',
+    'data.companies.insights.heading': '🔍 Key Insights',
+    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.label':
+      "TSMC's share of Taiwan's total market cap",
+    'data.companies.insights.card1.detail':
+      'Up from 39% — one company ≈ four-fifths of everything else listed',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label':
+      'Top 10 stocks as share of the market',
+    'data.companies.insights.card2.detail':
+      'Extreme concentration in a handful of large caps',
+    'data.companies.insights.card3.number': '~20',
+    'data.companies.insights.card3.label':
+      'New entrants from the AI supply chain',
+    'data.companies.insights.card3.detail':
+      'PCB/substrate, cooling, testing, networking — absent two years ago',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label':
+      'Financial holding companies in the top 50',
+    'data.companies.insights.card4.detail':
+      'Post-consolidation, the steady ballast of the index',
+    'data.companies.fellOff.title': '📉 Who Fell Off the List',
+    'data.companies.fellOff.intro':
+      'The AI repricing has losers too. These household names — steel, cement, textiles, bicycles, a former smartphone star — slipped out of the top 50 as capital crowded into the AI chain.',
+    'data.companies.fellOff.marketCapNow': 'Market cap now',
+    'data.companies.method.heading': '📝 Notes',
+    'data.companies.method.body':
+      "Market cap is derived from each stock's TWSE index weighting (2026/06) against a total market anchored on TSMC (≈NT$59tn / 43.8%). Revenue is full-year 2025 consolidated (for financial holdings, consolidated operating revenue including insurance). Headcount is approximate, on a group/consolidated basis where available — definitions vary across firms, so read the bars as orders of magnitude, not exact comparisons.",
+    'data.companies.related': '📖 Related reading',
+
     // Category 1: Government Open Data
     'data.category.1.title': 'Government Open Data',
     'data.category.1.description':
@@ -163,14 +256,14 @@ export const dataUI = {
     'data.enterprise.story.p1':
       "Taiwan punches far above its weight in the global economy. This country of 23 million people produces over 60% of the world's semiconductors, 92% of the most advanced chips, and houses the supply chain nerve center for everything from iPhones to Tesla vehicles.",
     'data.enterprise.story.p2':
-      "The interactive bubble chart below reveals Taiwan's economic DNA — where TSMC alone represents 39% of Taiwan's total market capitalization, equivalent to the combined value of two-thirds of all other listed companies. Behind the \"Silicon Shield\" narrative lies a concentrated ecosystem of precision manufacturing, from Foxconn's massive electronics assembly to ASE's semiconductor packaging empire.",
+      "The interactive bubble chart below reveals Taiwan's economic DNA — where TSMC alone represents 43.8% of Taiwan's total market capitalization, equivalent to the combined value of four-fifths of all other listed companies. Behind the \"Silicon Shield\" narrative lies a concentrated ecosystem of precision manufacturing, from Foxconn's massive electronics assembly to ASE's semiconductor packaging empire.",
     'data.enterprise.controls.sizeLabel': 'Bubble size by:',
     'data.enterprise.controls.marketCap': 'Market Cap',
     'data.enterprise.controls.revenue': 'Revenue',
     'data.enterprise.controls.employees': 'Employees',
     'data.enterprise.controls.filterAll': 'All',
     'data.enterprise.insights.heading': '🔍 Key Insights',
-    'data.enterprise.insights.card1.number': '39%',
+    'data.enterprise.insights.card1.number': '43.8%',
     'data.enterprise.insights.card1.label':
       "TSMC's share of Taiwan's total market cap",
     'data.enterprise.insights.card1.detail':
@@ -185,7 +278,7 @@ export const dataUI = {
       'Semiconductor-related companies in top 50',
     'data.enterprise.insights.card3.detail':
       'Cementing the "Silicon Shield" — semiconductors are Taiwan\'s national defense',
-    'data.enterprise.insights.card4.number': '9',
+    'data.enterprise.insights.card4.number': '12',
     'data.enterprise.insights.card4.label': 'Financial institutions in top 50',
     'data.enterprise.insights.card4.detail':
       'Post-consolidation, financial sector provides stability',
@@ -551,14 +644,14 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'ひとつの島がどうやってグローバルサプライチェーンを支えているのか？',
     'data.enterprise.story.p2':
-      'TSMCの時価総額2,670億ドルからFoxconnの87万人の従業員まで、台灣上位50社がこの島の経済的背骨を形成しています。12の半導体企業が「シリコンの盾」の名を証明し、9つの金融持株会社が安定を支え、大手OEMがグローバルなデジタルライフをつないでいます。バブルチャートで台灣が世界人口の2%で世界GDPの4%を創出する秘密を探ってみましょう。',
+      'TSMCの時価総額2,670億ドルからFoxconnの87万人の従業員まで、台灣上位50社がこの島の経済的背骨を形成しています。12の半導体企業が「シリコンの盾」の名を証明し、12の金融持株会社が安定を支え、大手OEMがグローバルなデジタルライフをつないでいます。バブルチャートで台灣が世界人口の2%で世界GDPの4%を創出する秘密を探ってみましょう。',
     'data.enterprise.controls.sizeLabel': 'バブルサイズ：',
     'data.enterprise.controls.marketCap': '時価総額',
     'data.enterprise.controls.revenue': '売上高',
     'data.enterprise.controls.employees': '従業員数',
     'data.enterprise.controls.filterAll': 'すべて',
     'data.enterprise.insights.heading': '主要インサイト',
-    'data.enterprise.insights.card1.number': '39%',
+    'data.enterprise.insights.card1.number': '43.8%',
     'data.enterprise.insights.card1.label':
       'TSMCが台灣株式市場の時価総額に占める割合',
     'data.enterprise.insights.card1.detail':
@@ -572,7 +665,7 @@ export const dataUI = {
     'data.enterprise.insights.card3.label': '半導体企業が上位50入り',
     'data.enterprise.insights.card3.detail':
       '「シリコンの盾」を実証 -- 半導体は台灣の国防',
-    'data.enterprise.insights.card4.number': '9社',
+    'data.enterprise.insights.card4.number': '12社',
     'data.enterprise.insights.card4.label': '金融業が上位50入り',
     'data.enterprise.insights.card4.detail': '金融持株会社統合後の安定基盤',
     'data.enterprise.exploreLink': 'ランキング全体を見る →',
@@ -923,14 +1016,14 @@ export const dataUI = {
     'data.enterprise.story.p1':
       '하나의 섬이 어떻게 글로벌 공급망을 지탱하는가?',
     'data.enterprise.story.p2':
-      'TSMC의 2,670억 시가총액에서 Foxconn의 87만 직원까지, 타이완 상위 50대 기업이 이 섬의 경제 척추를 이룹니다. 12개 반도체 기업이 "실리콘 방패"라는 이름을 증명하고, 9개 금융지주가 금융 안정을 지탱하며, 대형 OEM이 글로벌 디지털 생활을 연결합니다. 버블 차트로 타이완이 세계 인구의 2%로 글로벌 GDP의 4%를 창출하는 비결을 탐험해보세요.',
+      'TSMC의 2,670억 시가총액에서 Foxconn의 87만 직원까지, 타이완 상위 50대 기업이 이 섬의 경제 척추를 이룹니다. 12개 반도체 기업이 "실리콘 방패"라는 이름을 증명하고, 12개 금융지주가 금융 안정을 지탱하며, 대형 OEM이 글로벌 디지털 생활을 연결합니다. 버블 차트로 타이완이 세계 인구의 2%로 글로벌 GDP의 4%를 창출하는 비결을 탐험해보세요.',
     'data.enterprise.controls.sizeLabel': '버블 크기:',
     'data.enterprise.controls.marketCap': '시가총액',
     'data.enterprise.controls.revenue': '매출',
     'data.enterprise.controls.employees': '직원 수',
     'data.enterprise.controls.filterAll': '전체',
     'data.enterprise.insights.heading': '핵심 인사이트',
-    'data.enterprise.insights.card1.number': '39%',
+    'data.enterprise.insights.card1.number': '43.8%',
     'data.enterprise.insights.card1.label':
       'TSMC가 타이완 총 시가총액에서 차지하는 비중',
     'data.enterprise.insights.card1.detail':
@@ -944,7 +1037,7 @@ export const dataUI = {
     'data.enterprise.insights.card3.label': '반도체 기업 상위 50 진입',
     'data.enterprise.insights.card3.detail':
       '"실리콘 방패" 입증 — 반도체는 타이완의 국방',
-    'data.enterprise.insights.card4.number': '9개',
+    'data.enterprise.insights.card4.number': '12개',
     'data.enterprise.insights.card4.label': '금융업 상위 50 진입',
     'data.enterprise.insights.card4.detail': '금융지주 통합 후의 안정적 기반',
     'data.enterprise.exploreLink': '전체 순위 보기 →',
@@ -1202,6 +1295,87 @@ export const dataUI = {
     'data.company.hiwin-technologies': '上銀科技',
     'data.company.novatek': '聯詠科技',
 
+    // Top-50 new entrants (2026 AI supply-chain repricing)
+    'data.company.elite-material': '台光電 Elite Material',
+    'data.company.accton': '智邦 Accton',
+    'data.company.avc': '奇鋐 AVC',
+    'data.company.chroma-ate': '致茂 Chroma',
+    'data.company.hon-precision': '鴻勁 Hon Precision',
+    'data.company.jentech': '健策 Jentech',
+    'data.company.gold-circuit': '金像電 Gold Circuit',
+    'data.company.nanya-technology': '南亞科 Nanya',
+    'data.company.yageo': '國巨 Yageo',
+    'data.company.nan-ya-pcb': '南電 Nan Ya PCB',
+    'data.company.taishin-shinkong': '台新新光金 Taishin',
+    'data.company.global-unichip': '創意 GUC',
+    'data.company.bizlink': '貿聯 BizLink',
+    'data.company.zhen-ding': '臻鼎 Zhen Ding',
+    'data.company.sinopac-financial': '永豐金 SinoPac',
+    'data.company.winbond': '華邦電 Winbond',
+    'data.company.winway': '穎崴 WinWay',
+    'data.company.king-slide': '川湖 King Slide',
+    'data.company.kyec': '京元電子 KYEC',
+    'data.company.kgi-financial': '凱基金 KGI',
+
+    // New AI-era sectors
+    'data.sector.networking': '網通',
+    'data.sector.cooling': '散熱',
+    'data.sector.testing': '測試',
+
+    // Fell-off-the-list reasons (displaced by the AI supply chain)
+    'data.fellOff.china-steel': '鋼鐵景氣低迷、連年虧損，沒搭上 AI',
+    'data.fellOff.htc': '智慧型手機潰敗，VR／XR 沒撐起規模',
+    'data.fellOff.taiwan-cement': '水泥本業疲弱，轉型儲能尚未放量',
+    'data.fellOff.far-eastern-new-century': '聚酯化纖景氣向下，傳產缺 AI 題材',
+    'data.fellOff.giant-manufacturing': '自行車庫存去化，營收連三年衰退',
+
+    // Standalone /companies page
+    'data.companies.meta.title': '台灣前 50 大企業 — AI 時代的洗牌',
+    'data.companies.meta.description':
+      '用互動泡泡圖看台灣市值前 50 大上市企業的市值、營收與員工數，以及 AI 供應鏈如何重寫排行榜（2026/06 snapshot）。',
+    'data.companies.hero.title': '台灣前 50 大企業',
+    'data.companies.hero.subtitle': '泡泡面積即市值，2300 萬人島嶼的產業版圖',
+    'data.companies.hero.description':
+      '泡泡越大＝市值越高，顏色代表產業。可切換營收／員工數、點產業標籤篩選、拖曳泡泡。',
+    'data.companies.snapshot':
+      '📊 資料來源：TWSE、2025 全年營收公告、各公司年報 · snapshot 2026/06（近似值，不構成投資建議）',
+    'data.companies.story.title': 'AI 浪潮把整座島重新定價',
+    'data.companies.story.p1':
+      '短短兩年，AI 建置就重寫了台灣的企業排行。台積電一家就佔了全市場 43.8%（從 39% 一路墊高），前 10 大權值股合計約 61%。',
+    'data.companies.story.p2':
+      'TSMC 之後，漲上來的全是 AI 供應鏈：台達電靠 AI 電源一年衝上第 2（市值翻約 5 倍），聯發科爆量，台光電、奇鋐、致茂、智邦、國巨一票 PCB／載板、散熱、測試、網通名字擠進前 50，把約 20 家舊面孔換了下去。',
+    'data.companies.table.heading': '📋 完整排名',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': '企業',
+    'data.companies.table.sector': '產業',
+    'data.companies.table.marketCap': '市值（億 TWD）',
+    'data.companies.table.revenue': '2025 營收（億 TWD）',
+    'data.companies.table.employees': '員工數',
+    'data.companies.table.founded': '成立',
+    'data.companies.insights.heading': '🔍 關鍵洞察',
+    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.label': '台積電佔台股總市值比重',
+    'data.companies.insights.card1.detail':
+      '從 39% 墊高，一家約等於其餘全部加起來的五分之四',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label': '前 10 大權值股佔總市值',
+    'data.companies.insights.card2.detail': '高度集中在少數大型股',
+    'data.companies.insights.card3.number': '約 20',
+    'data.companies.insights.card3.label': '兩年內因 AI 供應鏈新進榜',
+    'data.companies.insights.card3.detail':
+      'PCB／載板、散熱、測試、網通，兩年前還不在榜上',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label': '前 50 大裡的金控數',
+    'data.companies.insights.card4.detail': '整併後，指數裡最穩的壓艙石',
+    'data.companies.fellOff.title': '📉 誰掉出了榜',
+    'data.companies.fellOff.intro':
+      'AI 重新定價也有輸家。這些國民級的名字——鋼鐵、水泥、紡織、自行車、曾經的手機巨星——在資金湧入 AI 鏈時，滑出了前 50。',
+    'data.companies.fellOff.marketCapNow': '目前市值',
+    'data.companies.method.heading': '📝 方法說明',
+    'data.companies.method.body':
+      '市值由各股 2026/06 在 TWSE 的指數權重，乘上以台積電（約 NT$59 兆／43.8%）錨定的大盤總市值推算。營收為 2025 全年合併營收（金控採合併營業收入，含保險）。員工數為近似值，盡量取集團／合併基準，但各家認列範圍不一，員工數那一軸請當數量級看，別當精準對比。',
+    'data.companies.related': '📖 延伸閱讀',
+
     // Category 1: Government Open Data
     'data.category.1.title': '政府開放資料',
     'data.category.1.description': '政府機關釋出的結構化資料集與統計平台',
@@ -1289,14 +1463,14 @@ export const dataUI = {
     'data.enterprise.title': '🏢 企業版圖',
     'data.enterprise.story.p1': '一座島嶼如何撐起全球供應鏈？',
     'data.enterprise.story.p2':
-      '從台積電的 2,670 億市值到鴻海的 87 萬員工，台灣前 50 大企業構成了這座島嶼的經濟脊椎。 12 家半導體企業印證「矽盾」之名，9 家金控撐起金融穩定，代工巨頭串聯起全球數位生活。用泡泡圖探索台灣如何以 2% 全球人口，創造 4% 全球 GDP。',
+      '從台積電的 2,670 億市值到鴻海的 87 萬員工，台灣前 50 大企業構成了這座島嶼的經濟脊椎。 12 家半導體企業印證「矽盾」之名，12 家金控撐起金融穩定，代工巨頭串聯起全球數位生活。用泡泡圖探索台灣如何以 2% 全球人口，創造 4% 全球 GDP。',
     'data.enterprise.controls.sizeLabel': '泡泡大小：',
     'data.enterprise.controls.marketCap': '市值',
     'data.enterprise.controls.revenue': '營收',
     'data.enterprise.controls.employees': '員工數',
     'data.enterprise.controls.filterAll': '全部',
     'data.enterprise.insights.heading': '關鍵洞察',
-    'data.enterprise.insights.card1.number': '39%',
+    'data.enterprise.insights.card1.number': '43.8%',
     'data.enterprise.insights.card1.label': '台積電佔台股總市值',
     'data.enterprise.insights.card1.detail':
       '一家公司 ≈ 其餘千家上市公司的 2/3',
@@ -1306,7 +1480,7 @@ export const dataUI = {
     'data.enterprise.insights.card3.number': '12 家',
     'data.enterprise.insights.card3.label': '半導體企業入榜',
     'data.enterprise.insights.card3.detail': '印證「矽盾」—— 半導體是台灣國防',
-    'data.enterprise.insights.card4.number': '9 家',
+    'data.enterprise.insights.card4.number': '12 家',
     'data.enterprise.insights.card4.label': '金融業入榜前 50',
     'data.enterprise.insights.card4.detail': '金控整併後的穩定力量',
     'data.enterprise.exploreLink': '查看完整排名 →',
@@ -1654,14 +1828,14 @@ export const dataUI = {
     'data.enterprise.story.p1':
       "Taiwan pèse bien plus lourd que son poids dans l'économie mondiale. Ce pays de 23 millions d'habitants produit plus de 60 % des semi-conducteurs mondiaux, 92 % des puces les plus avancées, et abrite le centre névralgique de la chaîne d'approvisionnement pour tout, des iPhones aux véhicules Tesla.",
     'data.enterprise.story.p2':
-      "Le graphique interactif à bulles ci-dessous révèle l'ADN économique de Taiwan — où TSMC à elle seule représente 39 % de la capitalisation boursière totale de Taiwan, équivalente à la valeur combinée des deux tiers de toutes les autres sociétés cotées. Derrière le récit du « Bouclier de silicium » se cache un écosystème concentré de fabrication de précision, de l'assemblage électronique massif de Foxconn à l'empire du conditionnement de semi-conducteurs d'ASE.",
+      "Le graphique interactif à bulles ci-dessous révèle l'ADN économique de Taiwan — où TSMC à elle seule représente 43,8 % de la capitalisation boursière totale de Taiwan, équivalente à la valeur combinée des quatre cinquièmes de toutes les autres sociétés cotées. Derrière le récit du « Bouclier de silicium » se cache un écosystème concentré de fabrication de précision, de l'assemblage électronique massif de Foxconn à l'empire du conditionnement de semi-conducteurs d'ASE.",
     'data.enterprise.controls.sizeLabel': 'Taille des bulles selon :',
     'data.enterprise.controls.marketCap': 'Capitalisation boursière',
     'data.enterprise.controls.revenue': "Chiffre d'affaires",
     'data.enterprise.controls.employees': 'Employés',
     'data.enterprise.controls.filterAll': 'Tous',
     'data.enterprise.insights.heading': '🔍 Points clés',
-    'data.enterprise.insights.card1.number': '39 %',
+    'data.enterprise.insights.card1.number': '43.8 %',
     'data.enterprise.insights.card1.label':
       'Part de TSMC dans la capitalisation boursière totale de Taiwan',
     'data.enterprise.insights.card1.detail':
@@ -1676,7 +1850,7 @@ export const dataUI = {
       'Entreprises liées aux semi-conducteurs dans le top 50',
     'data.enterprise.insights.card3.detail':
       'Consolidant le « Bouclier de silicium » — les semi-conducteurs sont la défense nationale de Taiwan',
-    'data.enterprise.insights.card4.number': '9',
+    'data.enterprise.insights.card4.number': '12',
     'data.enterprise.insights.card4.label':
       'Institutions financières dans le top 50',
     'data.enterprise.insights.card4.detail':
@@ -2008,14 +2182,14 @@ export const dataUI = {
     'data.enterprise.story.p1':
       'Taiwán supera con creces su peso en la economía global. Este país de 23 millones de personas produce más del 60 % de los semiconductores mundiales, el 92 % de los chips más avanzados, y alberga el centro neurálgico de la cadena de suministro para todo, desde iPhones hasta vehículos Tesla.',
     'data.enterprise.story.p2':
-      'El gráfico interactivo de burbujas a continuación revela el ADN económico de Taiwán — donde solo TSMC representa el 39 % de la capitalización de mercado total de Taiwán, equivalente al valor combinado de dos tercios de todas las demás empresas cotizadas. Detrás de la narrativa del "Escudo de Silicio" se encuentra un ecosistema concentrado de manufactura de precisión, desde el ensamblaje masivo de electrónica de Foxconn hasta el imperio de empaquetado de semiconductores de ASE.',
+      'El gráfico interactivo de burbujas a continuación revela el ADN económico de Taiwán — donde solo TSMC representa el 43,8 % de la capitalización de mercado total de Taiwán, equivalente al valor combinado de cuatro quintas partes de todas las demás empresas cotizadas. Detrás de la narrativa del "Escudo de Silicio" se encuentra un ecosistema concentrado de manufactura de precisión, desde el ensamblaje masivo de electrónica de Foxconn hasta el imperio de empaquetado de semiconductores de ASE.',
     'data.enterprise.controls.sizeLabel': 'Tamaño de burbuja según:',
     'data.enterprise.controls.marketCap': 'Cap. de Mercado',
     'data.enterprise.controls.revenue': 'Ingresos',
     'data.enterprise.controls.employees': 'Empleados',
     'data.enterprise.controls.filterAll': 'Todos',
     'data.enterprise.insights.heading': '🔍 Hallazgos Clave',
-    'data.enterprise.insights.card1.number': '39 %',
+    'data.enterprise.insights.card1.number': '43.8 %',
     'data.enterprise.insights.card1.label':
       'Porción de TSMC en la cap. de mercado total de Taiwán',
     'data.enterprise.insights.card1.detail':
@@ -2030,7 +2204,7 @@ export const dataUI = {
       'Empresas relacionadas con semiconductores en el top 50',
     'data.enterprise.insights.card3.detail':
       'Consolidando el "Escudo de Silicio" — los semiconductores son la defensa nacional de Taiwán',
-    'data.enterprise.insights.card4.number': '9',
+    'data.enterprise.insights.card4.number': '12',
     'data.enterprise.insights.card4.label':
       'Instituciones financieras en el top 50',
     'data.enterprise.insights.card4.detail':

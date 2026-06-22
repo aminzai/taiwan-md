@@ -151,12 +151,16 @@ const navConfig = [
       currentPath.startsWith(mcpPath);
   }
   // 2026-06-10: /opendata（OpenData 策展）lives under 數據 subnav.
+  // 2026-06-23: /companies（企業地圖完整版）also lives under 數據 subnav.
   if (item.path === '/data') {
     const opendataPath = navHref('/opendata');
+    const companiesPath = navHref('/companies');
     active =
       active ||
       currentPath.startsWith('/opendata') ||
-      currentPath.startsWith(opendataPath);
+      currentPath.startsWith(opendataPath) ||
+      currentPath.startsWith('/companies') ||
+      currentPath.startsWith(companiesPath);
   }
   // elections/2026 also exists only as single-lang page for MVP
   const singleLangPaths = ['/elections/2026'];
@@ -422,6 +426,12 @@ const categoryList = [
                         >
                           🗂️ {t('nav.data.curation')}
                         </a>
+                        <a
+                          href={navHref('/companies')}
+                          class="dropdown-item dropdown-section-header"
+                        >
+                          🏢 {t('nav.data.enterprise')}
+                        </a>
                         <div class="dropdown-divider" />
                         <a
                           href={`${navHref('/data')}#global`}
@@ -440,12 +450,6 @@ const categoryList = [
                           class="dropdown-item"
                         >
                           📊 {t('nav.data.opendata')}
-                        </a>
-                        <a
-                          href={`${navHref('/data')}#enterprise`}
-                          class="dropdown-item"
-                        >
-                          🏢 {t('nav.data.enterprise')}
                         </a>
                       </div>
                     </div>
@@ -711,6 +715,13 @@ const categoryList = [
                       onclick="document.querySelector('.nav-mobile').classList.remove('open')"
                     >
                       🗂️ {t('nav.data.curation')}
+                    </a>
+                    <a
+                      href={navHref('/companies')}
+                      class="nav-link nav-sub-link"
+                      onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+                    >
+                      🏢 {t('nav.data.enterprise')}
                     </a>
                   </div>
                 )}
