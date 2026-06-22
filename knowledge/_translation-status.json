@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-22T06:11:34+08:00",
-    "zhCommitHead": "d868128ad",
-    "totalZh": 816,
+    "lastUpdated": "2026-06-22T23:08:55+08:00",
+    "zhCommitHead": "45dde391f",
+    "totalZh": 817,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
-        "total_zh": 816,
-        "fresh": 816,
-        "stale": 0,
+        "total_zh": 817,
+        "fresh": 814,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 816,
-        "fresh": 816,
-        "stale": 0,
+        "total_zh": 817,
+        "fresh": 814,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 816,
-        "fresh": 816,
-        "stale": 0,
+        "total_zh": 817,
+        "fresh": 814,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "es": {
-        "total_zh": 816,
-        "fresh": 816,
-        "stale": 0,
+        "total_zh": 817,
+        "fresh": 814,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 816,
-        "fresh": 816,
-        "stale": 0,
+        "total_zh": 817,
+        "fresh": 814,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       }
     },
@@ -9177,10 +9177,10 @@
     },
     "Technology/Computex.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:4a673b61d3e24bb9",
-        "bodyHash": "sha256:9b3f0ed2efd5fc46"
+        "lastCommit": "81e82684",
+        "lastModified": "2026-06-22T22:57:53+08:00",
+        "contentHash": "sha256:61a81bd86d128a32",
+        "bodyHash": "sha256:245fe840b0ecd828"
       },
       "translations": {
         "en": {
@@ -9194,8 +9194,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Technology/computex-taipei.md",
@@ -9208,8 +9210,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Technology/computex-taipei.md",
@@ -9222,8 +9226,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Technology/computex-taipei.md",
@@ -9236,8 +9242,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Technology/computex-taipei.md",
@@ -9250,8 +9258,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -10212,6 +10222,31 @@
           "footnoteDefs": 13,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Technology/NVIDIA在台灣.md": {
+      "zh": {
+        "lastCommit": "81e82684",
+        "lastModified": "2026-06-22T22:57:53+08:00",
+        "contentHash": "sha256:b56a9c2f52721e09",
+        "bodyHash": "sha256:4f355b3d3c9b0f43"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -34937,10 +34972,10 @@
     },
     "People/黃仁勳.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:588ff4df368e93d2",
-        "bodyHash": "sha256:7536fcd6ada53909"
+        "lastCommit": "81e82684",
+        "lastModified": "2026-06-22T22:57:53+08:00",
+        "contentHash": "sha256:bbe4bc242ba53503",
+        "bodyHash": "sha256:bd3b73995765d878"
       },
       "translations": {
         "en": {
@@ -34954,8 +34989,10 @@
           "translationLastModified": "2026-06-10T12:21:10+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/People/jensen-huang.md",
@@ -34968,8 +35005,10 @@
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/People/jensen-huang.md",
@@ -34982,8 +35021,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/People/jensen-huang.md",
@@ -34996,8 +35037,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/People/jensen-huang.md",
@@ -35010,8 +35053,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },

@@ -1,7 +1,90 @@
 {
-  "generatedAt": "2026-06-21T22:11:38.292Z",
+  "generatedAt": "2026-06-22T15:08:59.424Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "45dde391f59aaa7c8b7c8a3ab4062ba9890526e7",
+      "date": "2026-06-22T23:04:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-22-143854-nvidia-taiwan — NVIDIA 在台灣 NEW ship finale",
+      "articles": []
+    },
+    {
+      "hash": "81e8268424defcd07fdd14696f949fde982f2ea5",
+      "date": "2026-06-22T22:57:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: NVIDIA 在台灣 NEW — 全世界最貴的公司，沒有一顆晶片是自己做的",
+      "articles": [
+        {
+          "url": "/people/黃仁勳",
+          "name": "黃仁勳"
+        },
+        {
+          "url": "/technology/Computex",
+          "name": "Computex"
+        },
+        {
+          "url": "/technology/NVIDIA在台灣",
+          "name": "NVIDIA在台灣"
+        }
+      ]
+    },
+    {
+      "hash": "fe09b231ff463dfb8442acfb9649b75c2f862164",
+      "date": "2026-06-22T22:11:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-22-220516-twmd-rewrite-daily — deliberate defer (state-dirty + time-slipped)",
+      "articles": []
+    },
+    {
+      "hash": "947a05a24e8bf56b452bbe1afec0517cca6dffb5",
+      "date": "2026-06-22T22:06:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-22-220356-twmd-maintainer-pm — post am-reset fresh empty cycle vc=1 (am 已 cover Stage 4 label sanity check / 0 PR / build green / broken-link 0.36%)",
+      "articles": []
+    },
+    {
+      "hash": "165cae1192191002d9b6ec795056a03155ae7b89",
+      "date": "2026-06-22T08:42:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-22-083922-twmd-maintainer-am — vc reset 真 backlog #1172/#1171 補 label+reply（昨 am vc=3 / pm vc=4 連續 miss 同 contributor 3 天 zero-reply enhancement issues — Stage 4 gate「open issues 都有 label」從後往前 sanity check 抓出）",
+      "articles": []
+    },
+    {
+      "hash": "6102387d93308813410d32241d30c643631eab75",
+      "date": "2026-06-22T07:09:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 0 new feedback clean no-op 連 3 cycle — backend 配置 dry-run=--commit 一致 + comment-sync=0 上游靜默鏡像 (#1140 carry)",
+      "articles": []
+    },
+    {
+      "hash": "6448f04e17ff0fb87b20c07c7c8ed54a3cd9dff9",
+      "date": "2026-06-22T06:44:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-22-064231-twmd-spore-harvest-am — Chrome MCP Day 3 reconnect + 8 spores ship + 0 Bucket A 連 6 cycle (Error Boundary vc=3 distill threshold) + 端午節 X-over-Threads reversal vc=2 站穩",
+      "articles": []
+    },
+    {
+      "hash": "cadd10fadc0074e8afd11100b14374a7192f001a",
+      "date": "2026-06-22T06:42:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 8 spores harvested — 2026-06-22",
+      "articles": []
+    },
+    {
+      "hash": "f47f3af2eb8c1b9e16f461125f7c83fae71dd417",
+      "date": "2026-06-22T06:15:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-22-061236-twmd-data-refresh-am — am 14-step ALL PASS + Step 11 連 26d 全綠 + immune 50→52 fresh +2 recovery (tool_freshness 40→60 +20 swing 主導 pm 7 cycle chronic flat 首破後 overnight 反彈) + babel 4-tier cascade 首例全動員 LESSONS +2 + embeddings vc 2→3 達 distill 門檻 carry",
+      "articles": []
+    },
+    {
+      "hash": "be485b6712111c63f0510c05093cdcec18486623",
+      "date": "2026-06-22T06:12:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: am 14-step data refresh — 三源全綠 + Step 11 11/11 fresh 連 26d + immune 50→52 fresh +2 recovery (tool_freshness 40→60 +20 swing 主導 + plugin_health 48.0 carry) + babel stale=0 連續第 6 夜",
+      "articles": []
+    },
     {
       "hash": "d868128ad6b8c871cd2b5f7259ee8e184bcf92f7",
       "date": "2026-06-22T05:11:01+08:00",

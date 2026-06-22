@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T22:11:43.373Z",
+  "lastUpdated": "2026-06-22T15:09:04.840Z",
   "languages": [
     "zh-TW",
     "en",
@@ -10,72 +10,72 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 814,
+      "total": 815,
       "percentage": 100,
-      "fresh": 814,
+      "fresh": 815,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
       "total": 816,
-      "percentage": 100,
-      "fresh": 816,
+      "percentage": 99.9,
+      "fresh": 814,
       "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "stale": 2,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 1,
+      "freshPct": 99.6,
+      "bodyFreshPct": 99.6
     },
     "ja": {
       "total": 816,
-      "percentage": 100,
-      "fresh": 816,
+      "percentage": 99.9,
+      "fresh": 814,
       "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "stale": 2,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 1,
+      "freshPct": 99.6,
+      "bodyFreshPct": 99.6
     },
     "ko": {
       "total": 816,
-      "percentage": 100,
-      "fresh": 816,
+      "percentage": 99.9,
+      "fresh": 814,
       "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "stale": 2,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 1,
+      "freshPct": 99.6,
+      "bodyFreshPct": 99.6
     },
     "es": {
       "total": 816,
-      "percentage": 100,
-      "fresh": 816,
+      "percentage": 99.9,
+      "fresh": 814,
       "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "stale": 2,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 1,
+      "freshPct": 99.6,
+      "bodyFreshPct": 99.6
     },
     "fr": {
       "total": 816,
-      "percentage": 100,
-      "fresh": 816,
+      "percentage": 99.9,
+      "fresh": 814,
       "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "stale": 2,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 1,
+      "freshPct": 99.6,
+      "bodyFreshPct": 99.6
     }
   },
   "matrix": {
@@ -463,36 +463,36 @@
       "zh-TW": 232,
       "en": {
         "count": 232,
-        "fresh": 232,
-        "stale": 0,
+        "fresh": 231,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 232,
-        "fresh": 232,
-        "stale": 0,
+        "fresh": 231,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 232,
-        "fresh": 232,
-        "stale": 0,
+        "fresh": 231,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 232,
-        "fresh": 232,
-        "stale": 0,
+        "fresh": 231,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 232,
-        "fresh": 232,
-        "stale": 0,
+        "fresh": 231,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       }
@@ -574,45 +574,61 @@
       }
     },
     "technology": {
-      "zh-TW": 52,
+      "zh-TW": 53,
       "en": {
         "count": 52,
-        "fresh": 52,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "fresh": 51,
+        "stale": 1,
+        "missing": 1,
+        "deficit": 1
       },
       "ja": {
         "count": 52,
-        "fresh": 52,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "fresh": 51,
+        "stale": 1,
+        "missing": 1,
+        "deficit": 1
       },
       "ko": {
         "count": 52,
-        "fresh": 52,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "fresh": 51,
+        "stale": 1,
+        "missing": 1,
+        "deficit": 1
       },
       "es": {
         "count": 52,
-        "fresh": 52,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "fresh": 51,
+        "stale": 1,
+        "missing": 1,
+        "deficit": 1
       },
       "fr": {
         "count": 52,
-        "fresh": 52,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "fresh": 51,
+        "stale": 1,
+        "missing": 1,
+        "deficit": 1
       }
     }
   },
-  "missing": {},
+  "missing": {
+    "en": [
+      "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md"
+    ],
+    "ja": [
+      "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md"
+    ],
+    "ko": [
+      "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md"
+    ],
+    "es": [
+      "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md"
+    ],
+    "fr": [
+      "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md"
+    ]
+  },
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],

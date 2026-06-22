@@ -1,5 +1,5 @@
 {
-  "totalArticles": 4903,
+  "totalArticles": 4904,
   "totalCategories": 20,
   "estimatedContributors": 61,
   "totalTags": 6071,
@@ -66,7 +66,7 @@
     },
     {
       "name": "Technology",
-      "count": 52
+      "count": 53
     },
     {
       "name": "Lifestyle",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4903,
+    "zh-TW": 4904,
     "en": 0
   },
-  "lastUpdated": "2026-06-21T22:11:36.528Z",
-  "stars": 1061,
+  "lastUpdated": "2026-06-22T15:08:57.760Z",
+  "stars": 1063,
   "forks": 156,
-  "zhPages": 814,
+  "zhPages": 815,
   "enPages": 821,
-  "totalPages": 814
+  "totalPages": 815
 }
