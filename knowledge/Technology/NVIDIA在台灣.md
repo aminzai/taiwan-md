@@ -22,6 +22,7 @@ featured: true
 lastVerified: 2026-06-22
 lastHumanReview: false
 researchReport: 'reports/research/2026-06/NVIDIA在台灣.md'
+relatedDiary: ['2026-06-22-143854-nvidia-taiwan']
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
 ---
 
