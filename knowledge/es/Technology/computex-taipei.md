@@ -23,9 +23,9 @@ lastVerified: 2026-06-04
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4a673b61d3e24bb9'
-sourceBodyHash: 'sha256:9b3f0ed2efd5fc46'
+sourceCommitSha: '81e82684'
+sourceContentHash: 'sha256:61a81bd86d128a32'
+sourceBodyHash: 'sha256:245fe840b0ecd828'
 translatedAt: '2026-06-16T17:04:27Z'
 ---
 
@@ -209,6 +209,7 @@ No se volvió más inteligente que las demás. Simplemente creció en el lugar c
 - [Desarrollo de la inteligencia artificial en Taiwán y estrategias futuras](/technology/台灣人工智慧發展與未來策略) — Del hardware de la cadena de suministro a las aplicaciones de IA: la posición y las decisiones de Taiwán en esta ola
 - [La industria robótica de Taiwán](/technology/台灣機器人產業) — La base de la cadena de suministro robótica taiwanesa detrás de la «IA física» y la inteligencia encarnada que Computex 2026 puso en primer plano
 - [Desarrollo de la cadena industrial del vehículo eléctrico en Taiwán](/technology/台灣電動車產業鏈發展) — Cómo el mismo grupo de fabricantes electrónicos por contrato pasó de ensamblar computadoras a ensamblar autos y robots
+- [NVIDIA en Taiwán: la empresa más valiosa del mundo no fabrica ni un solo chip por sí misma](/technology/NVIDIA在台灣) — Detrás de aquel muro con los logos de 55 proveedores taiwaneses: la relación de poder entre NVIDIA y la cadena de suministro de Taiwán, y la historia de una ciudad que despejó un terreno para ella
 
 ## Fuentes de las imágenes
 

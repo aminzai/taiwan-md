@@ -1,272 +1,336 @@
 ---
-title: "No Party For Cao Dong: Twelve Years from Yangmingshan's Cao Dong Street to Two Golden Melody Awards for Best Band"
-description: "At the 28th Golden Melody Awards in 2017, a four-piece band that self-funded the pressing of 2,000 CDs decisively defeated Mayday to win three awards. They vanished for seven years, spanning drummer Fanfan's (Cai Yifan) passing in a quarantine hotel in 2021 and two years of silence. They returned in 2023 with the album 'He Wei' (Wa He), and at the 35th Golden Melody Awards in 2024, they swept the Album of the Year, Best Mandarin Album, and Best Band triple crown. The manager accepted the awards on their behalf, stating: 'No Party For Cao Dong has never been just the 4 people standing on stage.'"
+title: '차오둥메이유파이두이: 양밍산 차오둥제에서 두 차례 금곡상 최우수 밴드까지의 12년'
+description: '2017년 제28회 금곡상에서 자비로 CD 2,000장을 찍은 4인조 밴드가 메이데이를 압도적으로 꺾고 3관왕을 차지했다. 그들은 7년 동안 사라졌고, 그 시간은 2021년 드러머 판판이 방역 호텔에서 세상을 떠난 일과 2년의 침묵을 가로질렀다. 2023년 《와허》로 돌아왔고, 2024년 제35회 금곡상에서 올해의 앨범 + 최우수 중국어 앨범 + 최우수 밴드 3관왕을 차지했다. 매니저는 대리 수상하며 말했다. “차오둥은 단 한 번도 무대 위에 선 4명만을 뜻한 적이 없다.”'
 date: 2026-04-18
-tags:
-  [
-    'People',
-    'No Party For Cao Dong',
-    'Wu Du',
-    'Fanfan',
-    'Cai Yifan',
-    'Yang Shixuan',
-    'Band',
-    'Golden Melody Awards',
-    'Best Band',
-    'Nu Er',
-    'He Wei',
-    'Indie Music',
-    'Post-Rock',
-    'Loser Generation',
-  ]
-subcategory: 'Music and Performance'
 author: 'Taiwan.md'
 category: 'People'
-readingTime: 17
-lastVerified: 2026-04-18
+subcategory: '音樂與表演'
+tags:
+  [
+    '인물',
+    '차오둥메이유파이두이',
+    '우두',
+    '판판',
+    '차이이판',
+    '양스쉬안',
+    '밴드',
+    '금곡상',
+    '최우수 밴드',
+    '추뉴얼',
+    '와허',
+    '인디 음악',
+    '포스트록',
+    '루저 세대',
+  ]
+readingTime: 18
+lastVerified: 2026-06-22
 lastHumanReview: true
+featured: false
 translatedFrom: 'People/草東沒有派對.md'
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:c93963fdd3e6600a'
-sourceBodyHash: 'sha256:5d39f10852397392'
-translatedAt: '2026-06-10T16:42:09Z'
+sourceCommitSha: 'e79c30b8d'
+sourceContentHash: 'sha256:ee418e919ecc7897'
+sourceBodyHash: 'sha256:f40e32cfe1b0be26'
+translatedAt: '2026-06-23T00:40:06+08:00'
 ---
 
-> **30-Second Overview:** No Party For Cao Dong is a four-piece indie band formed in 2012 at the intersection of Jianxian Street and Cao Dong Street in Yangmingshan, Taipei. In 2016, they self-funded the pressing of 2,000 handmade CDs, which sold out in three days; at the 28th Golden Melody Awards in 2017, they decisively won Best Band (defeating Mayday), Best New Artist, and Song of the Year for [〈Big Wind Blows〉](https://www.youtube.com/watch?v=HqmpIQ9l-uA) with first-round votes of 19, 19, and 18. In October 2021, drummer Fanfan (Cai Yifan, aged 26) passed away in a quarantine hotel in Taipei, and the band fell into nearly two years of silence. On May 20, 2023, they released their second album, _He Wei_ (Wa He) — the term "He Wei" appears in the _Records of the Grand Historian: Biographies of Confucian Scholars_, with the extended meaning "broken tiles joined together, though aggregated, are not uniform" originating from the Tang Dynasty scholar Yan Shigu's commentary on the _Book of Han: Biographies of Li, Lu, Zhu, Liu, and Shusun_. [^19] In 2024, with _He Wei_, they won the triple crown at the 35th Golden Melody Awards: Album of the Year, Best Mandarin Album, and Best Band; on the night of the awards, the band was absent, and their manager accepted the awards on their behalf, declaring: "No Party For Cao Dong has never been just the 4 people standing on stage." This is a twelve-year story, centered on **loss, silence, return, loss again, silence again, and return again**.
+> **30 秒概覽：** 草東沒有派對是 2012 年在台北陽明山「建賢街與草東街路口」成立的四人獨立樂團。2016 年自費壓 2,000 張手工 CD 三天賣光；2017 年第 28 屆金曲獎以第一輪 19、19、18 票壓倒性奪下最佳樂團（擊敗五月天）、最佳新人、年度歌曲（[〈大風吹〉](https://www.youtube.com/watch?v=HqmpIQ9l-uA)）三座。2021 年 10 月 30 日鼓手凡凡（蔡憶凡，26 歲）在台北防疫旅館過世，樂團陷入將近兩年沉默。2023 年 5 月 20 日發行第二張專輯《瓦合》——「瓦合」見於《史記．儒林列傳》，延伸義「破瓦相合，雖聚合而不齊同」源自唐朝顏師古對《漢書．酈陸朱劉叔孫傳》的註釋。[^19]2024 年以《瓦合》拿下第 35 屆金曲獎年度專輯 + 最佳華語專輯 + 最佳樂團三冠；領獎當晚樂團缺席，由經紀人代領宣告：「草東沒有派對從來都不是只有站在舞台上的 4 個人。」這是一個十二年的故事，核心是**失去、沉默、回來，再失去、再沉默、再回來**。
 
-On the evening of June 29, 2024, at the 35th Golden Melody Awards. No Party For Cao Dong took home three major awards: Album of the Year, Best Mandarin Album, and Best Band. But no one went on stage. [^1]
+2024년 6월 29일 밤, 제35회 금곡상 시상식. 차오둥메이유파이두이는 세 개의 대상을 받았다. 올해의 앨범, 최우수 중국어 앨범, 최우수 밴드였다. 그러나 아무도 무대에 오르지 않았다.[^1]
 
-The band was performing at the Bubble Island Music Festival in Guiyang, China, that night, and was not present at the venue. Their manager went on stage to accept the awards on their behalf and said:
+밴드는 그날 밤 중국 구이양 버블 아일랜드 음악제에서 공연하고 있었고, 현장에 있지 않았다. 그들을 대신해 무대에 오른 사람은 매니저였고, 그는 이렇게 말했다.
 
-> "In our hearts, No Party For Cao Dong has never been just the 4 people standing on stage, but everyone who wholeheartedly participates in these six characters." [^1]
+> 「在我們心中，草東沒有派對從來都不是只有站在舞台上的 4 個人，而是齊心參與這 6 個字的每一個人。」[^1]
 
-That sentence caused silence in the venue. Everyone who knows their story knows that this "not just 4 people" is not a perfunctory thank-you speech from an artist, but a direct acknowledgment by a band to a member who passed away three years ago.
+그 말은 현장을 조용하게 만들었다. 그들의 이야기를 아는 사람이라면 누구나 안다. “4명만이 아니다”라는 이 말은 예의상 하는 감사 인사가 아니라, 3년 전 세상을 떠난 한 멤버를 향한 밴드의 직접적인 인정이었다.
 
-This is the best entry point to understanding the twelve-year story of No Party For Cao Dong: not the night they defeated Mayday in 2017, but the night they themselves were absent in 2024.
+이것이 차오둥메이유파이두이의 12년을 이해하는 가장 좋은 입구다. 2017년 그들이 메이데이를 이긴 밤이 아니라, 2024년 그들 자신이 그 자리에 없었던 밤이다.
 
-📝 **Curator's Note:** Cao Dong's story is not a band history of "rise, success, maintenance." It is a story of "explosion, disappearance, returning once, being interrupted by death again, and returning again." Understanding this rhythm is key to understanding why they are the most important voice in Taiwanese indie music over the last decade.
+📝 큐레이터 노트: 차오둥의 이야기는 “부상, 성공, 유지”의 밴드사가 아니다. “폭발, 소멸, 한 번의 귀환, 다시 죽음으로 끊김, 다시 한 번의 귀환”의 이야기다. 이 리듬을 이해해야만, 그들이 왜 지난 10년 중화권 인디 음악에서 가장 중요한 목소리인지 이해할 수 있다.
 
-### High School Classmates Riding Bikes in Yangmingshan
+```tw-timeline
+12년: 두 차례 정상 사이에 놓인 하나의 죽음
+2012 | 양밍산 차오둥제 | 타이베이예술대학 학생들이 젠셴제 길목에서 밴드를 결성하고, dance-punk에서 출발
+2016 | 수제 CD 2,000장 | 《추뉴얼》이 사흘 만에 매진, 문화부 보조금, 음반사 없음
+2017 | “이 사람들 천재야” | 제28회 금곡상 1차 투표에서 압도적 3관왕, 메이데이 격파
+2021 | 투더우, 14년, 15시간 | 드러머 판판이 방역 호텔에서 사망, 26세, 밴드는 거의 2년간 침묵
+2023 | 〈침대〉의 7년 기다림 | 7년 동안 공연해 온 옛 노래로 복귀, 《와허》를 판판에게 헌정
+2024 | 아무도 무대에 오르지 않음 | 제35회 금곡상에서 다시 3관왕, 밴드는 구이양에 있었고 매니저가 대리 수상
+출처: 본문은 위키백과, 역대 금곡상 수상 명단, 밴드 인터뷰를 정리
+```
 
-The story begins on June 9, 2012. [^2] At the intersection of Jianxian Street and Cao Dong Street in Yangmingshan, Taipei (specifically near Yonggong Road 245 Lane 34), several students with backgrounds from the National Taipei University of the Arts, who usually loved playing instruments, gathered there. Wu Du (real name Lin Gengyou) and Zhu Zhu (Zhan Weizhu) were high school classmates who often rode bikes and played skateboards together in Yangmingshan.
+## 양밍산에서 오토바이를 타고 어슬렁거리던 고등학교 동창들
 
-The band's name went through three stages of evolution: initially called "Cao Dong Street Left Turn," then "Cao Dong Street Party," and finally settled on "No Party For Cao Dong" in 2014. [^2] The first version was dance-punk inspired by Two Door Cinema Club; after the name change in 2014, the music direction also shifted: from dance-punk to grunge and post-rock inspired by Nirvana.
+이야기는 2012년 6월 9일 시작된다.[^2] 타이베이 양밍산, 젠셴제와 차오둥제의 교차로, 정확히는 융궁로 245항 34농 부근이었다. 타이베이예술대학 배경을 지니고 평소 악기를 만지기 좋아하던 몇몇 학생들이 그곳에 모였다. 우두, 본명 린겅유, 와 주주, 잔웨이주는 고등학교 동창으로, 함께 양밍산에서 오토바이를 타고 어슬렁거리거나 보드를 타곤 했다.
 
-The act of renaming itself was a declaration: the party was over.
+![차오둥메이유파이두이 네 멤버의 흑백 단체 사진. 네 사람의 실루엣이 억새가 양옆에 우거지고 먼 언덕으로 이어지는 텅 빈 아스팔트길 위에 흩어져 있다](/article-images/people/caodong-band-road.webp)
 
-### Liu Li, Sam, Fanfan: The Band Between Four Drummers
+_차오둥메이유파이두이 공식 홍보 단체 사진. 네 사람의 실루엣이 언덕으로 이어지는 빈 길 위에 흩어져 있다. 그들의 작품에서 사람을 아주 작게 배치할 때 자주 나타나는 그 소외감과 닮아 있다. Photo: 공식 홍보 사진／Apple Music._
 
-To understand Cao Dong's current four-piece lineup, one must first understand how their lineup evolved.
+밴드 이름은 세 단계의 변화를 거쳤다. 처음에는 “차오둥제 좌회전”이었고, 이후 “차오둥제 파티”가 되었으며, 2014년에 마침내 “차오둥메이유파이두이”, 곧 “차오둥에는 파티가 없다”로 굳어졌다.[^2] 첫 번째 버전은 Two Door Cinema Club의 영향을 받은 dance-punk였다. 2014년 이름을 바꾼 뒤 음악의 방향도 함께 변했다. dance-punk에서 Nirvana의 영향을 받은 그런지와 포스트록으로 옮겨갔다.
 
-The first-generation drummer was **Liu Li**, who later switched to full-time music video production and film creation. He actually didn't leave Cao Dong; his role just changed from drummer to recorder. [^2] The second-generation bassist was **Sam**, after whom the band was interrupted for nearly a year due to his military service.
+이름을 바꾼 일 자체가 하나의 선언이었다. 파티는 끝났다.
 
-In 2016, the drummer position was taken over by **Fanfan** (Cai Yifan), who came from another indie band, Triple Deer. Fanfan's official debut with Cao Dong was the performance at "Bu Dou Ma Sheng 2.0" on May 21, 2016. [^2]
+## 류리, Sam, 판판: 네 명의 드러머 사이에 있는 그 밴드
 
-In 2023, the original bassist Yang Shixuan announced an indefinite pause from front-stage activities; the original drummer Niao Ren (Huang Shiwei) returned to take over. The current lineup (as of 2026) consists of four people:
+현재 차오둥의 4인 편성을 이해하려면, 먼저 그들의 라인업이 어떻게 변화했는지 이해해야 한다.
 
-- **Wu Du** (Lin Gengyou): Vocals, Guitar, Main Songwriter
-- **Zhu Zhu** (Zhan Weizhu): Rhythm Guitar, Backing Vocals
-- **Niao Ren** (Huang Shiwei): Drums
-- **Dennis** (Zhang Haotang): Bass
+초대 드러머는 **류리**였고, 이후 그는 밴드 영상 제작과 영화 창작을 전업으로 삼았다. 그는 사실 차오둥을 떠난 것이 아니라, 드러머에서 기록자로 역할이 바뀐 것이다.[^2] 2대 베이시스트는 **Sam**이었고, 이후 병역 때문에 밴드는 거의 1년 동안 중단되었다.
 
-The most crucial position (drummer) changed four times in 12 years. And the third one, Fanfan, passed away in 2021.
+2016년 드러머 자리는 **판판**, 차이이판, 이 이어받았다. 그는 또 다른 인디 밴드 Triple Deer 출신이었다. 판판이 차오둥과 함께 공식적으로 처음 등장한 무대는 2016년 5월 21일 “부두마성더 2.0” 공연이었다.[^2]
 
-### That Handmade CD of 2,000 Copies
+2023년, 원래 베이시스트였던 양스쉬안은 무기한으로 전면 활동을 중단한다고 발표했다. 원 드러머 냐오런, 황스웨이, 이 복귀해 자리를 이어받았다. 현재, 2026년, 라인업은 네 명이다.
 
-On February 19, 2016, the digital version of _Nu Er_ (The Servile) was released; on March 11, the physical CD was released, pressing only 2,000 copies, all handmade, distributed only in 11 independent coffee shops and record stores across Taiwan. [^3]
+- **우두**(린겅유): 보컬, 기타, 주요 작사·작곡
+- **주주**(잔웨이주): 리듬 기타, 코러스
+- **냐오런**(황스웨이): 드럼
+- **Dennis**(장하오탕): 베이스
 
-Sold out in three days.
+그 가운데 가장 중요한 자리, 드러머는 12년 동안 네 번 바뀌었다. 그리고 세 번째였던 판판은 2021년에 세상을 떠났다.
 
-The album contains 12 songs, totaling 38 minutes and 57 seconds. The producer was Li Xiaozu, who brought in American mixing engineer Andy Baker and Georgia mastering engineer Joel Hatstat. The entire production period lasted four months. [^3] The album funding came from Ministry of Culture subsidies, with no record label, no manager, and no mainstream distribution channels.
+## 그 2,000장의 수제 CD
 
-There is an abnormal detail in the musical design of this album: [〈Big Wind Blows〉](https://www.youtube.com/watch?v=HqmpIQ9l-uA) specially processed the overlay of live audience vocals with studio recordings — creating two coexisting "spaces" in the song: the space of being watched, and the space of solitude. [^3] This technical choice foreshadowed the band's entire aesthetic: **on the surface, shouting to the world; inside, talking to oneself.**
+2016년 2월 19일 《추뉴얼》 디지털판이 발매되었다. 3월 11일 실물 CD가 발매되었는데, 단 2,000장만 찍었고 모두 수작업으로 제작되었으며 타이완 전역 11곳의 독립 카페와 음반점에만 배포되었다.[^3]
 
-### 〈Big Wind Blows〉 as a Wound Assessment
+사흘 만에 매진되었다.
 
-Six months after the release of [〈Big Wind Blows〉](https://www.youtube.com/watch?v=HqmpIQ9l-uA), YouTube views broke 95,000; within a year, it broke 500,000. [^4] But the impact of this song lies not in the numbers, but in it becoming a common language for a generation.
+앨범 전체는 12곡, 38분 57초였다. 프로듀서는 리샤오주였고, 미국 믹싱 엔지니어 Andy Baker와 조지아주의 마스터링 엔지니어 Joel Hatstat이 참여했다. 전체 제작 기간은 4개월이었다.[^3] 앨범 경비는 문화부 보조금에서 나왔고, 음반사도, 매니저도, 주류 유통망도 없었다.
 
-This song was written against the backdrop of the trauma of the 2015 Taiwanese anti-high school curriculum micro-adjustment movement: in that movement, students took to the streets, and student leaders committed suicide. [^5] Wu Du compressed these memories, along with his personal experiences of school bullying, into one song.
+이 앨범의 음악 설계에는 특이한 세부가 하나 있다. [〈다펑추이〉](https://www.youtube.com/watch?v=HqmpIQ9l-uA)는 현장 관객의 목소리와 스튜디오 녹음의 겹침을 특별히 처리했다. 노래 안에 두 종류의 “공간”이 동시에 존재하게 한 것이다. 바라보이는 공간과 홀로 있는 공간이다.[^3] 이 기술적 선택은 이후 밴드 전체의 미학을 예고했다. **겉으로는 세계를 향해 외치지만, 안쪽에서는 혼잣말을 한다**.
 
-The lyrics superficially resemble the musical chairs game of the children's song 〈Big Wind Blows〉, but underneath lie three different layers of story: the generational metaphor of resource competition, the sense of existence trapped by time ("blame it on time / it gave the starting point / blame it on time / it gave the ending"), and Wu Du's personal experience of being bullied. [^5]
+## 〈다펑추이〉라는 상처 확인
 
-Later, music critic Ma Shifang positioned Cao Dong's generation as the "**Loser Generation**":
+2018년 2월 14일, 초대 드러머 류리가 연출한 [〈다펑추이〉](https://www.youtube.com/watch?v=HqmpIQ9l-uA) 공식 MV가 YouTube에 공개되었다. 2020년 4월까지 이 MV는 누적 조회수 540만 회를 넘었고, 더 이른 시기에 StreetVoice에 올라온 demo도 21만 회 청취를 기록했다.[^4] 그러나 이 노래의 영향력은 숫자에 있지 않았다. 그것은 한 세대의 공통 언어가 되었다는 데 있다.
 
-> "The lyrics are sharp as knives, and at its core is a nihilism with no way out, becoming a favorite quote for the youth of the 'collapse generation' to recite." [^6]
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/HqmpIQ9l-uA" title="草東沒有派對 - 大風吹 Simon Says【Official Music Video】" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-This positioning became fact over the next decade: National Taiwan University of Science and Technology's "Song That Best Represents My Generation" vote placed 〈Big Wind Blows〉 in the top ranks for six consecutive years; MC HotDog sampled this song; Li Mingcong, Assistant Professor at the Department of Sociology, National Taiwan University, opened the course "Sociology of Losers" in Autumn 2017, with 600+ students filling the classroom. [^7] A song can achieve these things not because it is good-sounding, but because it **spoke the words for an entire generation that they themselves had not spoken**.
+_〈다펑추이〉 공식 MV, 초대 드러머 류리 연출, 2018. 드럼 자리에서 물러난 그는 카메라로 이 노래를 한 세대의 공동 기억으로 남겼다. Source: 차오둥메이유파이두이 공식 YouTube 채널._
 
-### The Night "These Are Geniuses"
+이 노래는 2015년 타이완 반고교 교육과정 미세조정 운동의 상처를 배경으로 쓰였다. 그 운동에서는 학생들이 거리로 나섰고, 학생 지도자가 스스로 목숨을 끊었다.[^5] 우두는 이러한 기억과 자신의 학교 폭력 경험을 압축해 하나의 가사로 만들었다.
 
-On June 24, 2017, at the 28th Golden Melody Awards. No Party For Cao Dong was nominated for 6 awards and won 3, and it was a first-round decisive victory: Best New Artist 19 votes, Best Band 19 votes, Song of the Year 〈Big Wind Blows〉 18 votes. [^6]
+가사 표면에는 동요 〈다펑추이〉의 의자 뺏기 놀이가 있다. 그 아래에는 서로 다른 세 층의 이야기가 있다. 자원 경쟁의 세대적 은유, 시간에 갇힌 존재감, “시간을 탓해 / 그것이 출발점을 주었고 / 시간을 탓해 / 그것이 끝점을 주었으니”, 그리고 우두 개인의 괴롭힘 경험이다.[^5]
 
-The Jury Chair, Huang Yunling, described this band as the "**Explosion of the闷 (Muffled) Generation**": "Bringing a huge impact, breaking everyone's understanding of sound." [^6]
+이후 음악평론가 마스팡은 차오둥의 세대적 위치를 “**루저 세대**”라고 규정했다.
 
-The most story-rich detail at the time was Mayday's Ashin's reaction. After hearing Cao Dong's songs, he told Martha backstage: "Should we go get to know them? These guys are geniuses!" [^8]
+> 「詞刀刀見血，骨子裡是絕無出路的虛無，成為『崩世代』青年人樂於傳誦的佳句。」[^6]
 
-The media quickly simplified the story into "generational succession": an indie band that self-funded CD pressing defeated the giant of Taiwanese rock. But Ashin himself did not buy into this narrative: "It has nothing to do with generational succession. It's tiring to always be positive and optimistic; it's great to occasionally have a different kind of energy to vent." [^8]
+이 규정은 이후 10년 동안 사실이 되었다. 타이완과기대 “내 세대를 가장 잘 대표하는 노래 한 곡” 투표는 6년 연속 〈다펑추이〉를 상위권에 올렸다. MC HotDog은 이 노래를 샘플링했다. 타이완대 사회학과 조교수 리밍충이 2017년 가을 개설한 “실패자의 사회학” 수업에는 학생 600명 이상이 몰려 강의실이 터져 나갔다.[^7] 한 곡이 이런 일을 해낼 수 있었던 것은 그저 듣기 좋았기 때문이 아니다. 그것은 **한 세대 전체가 자신들 입으로 말하지 못했던 말을 대신해 주었기 때문**이다.
 
-When Wu Du went on stage to accept the award, he also rejected this narrative. When accepting the Best Band award, he said: "This award belongs to everyone." With tears in his eyes when accepting Best New Artist, he said: "I am lucky that there is always a group of people, within this nihilism, constantly striving to find their own voice." And regarding Mayday:
+## “이 사람들 천재야”라고 했던 그 밤
 
-> "I don't look at this from a competitive mindset; Mayday's status is irreplaceable." [^8]
+2017년 6월 24일, 제28회 금곡상 시상식. 차오둥메이유파이두이는 6개 부문 후보에 올라 3개 부문을 수상했다. 그것도 1차 투표에서 압도적으로 이겼다. 최우수 신인 19표, 최우수 밴드 19표, 올해의 노래 〈다펑추이〉 18표였다.[^6]
 
-Two generations of bands gave each other's positions on the same night; this should have been the highlight of the evening. But the media grabbed the headline of "defeating Mayday," missing this moment of **mutual acknowledgment**.
+```tw-stat
+자비 제작 밴드의 세 숫자
+2,000장 | 사흘 만에 매진된 수제 CD | 《추뉴얼》 2016, 문화부 보조금, 음반사 없음
+3관왕 | 제28회 금곡상 1차 투표 압도적 승리 | 최우수 신인／최우수 밴드／올해의 노래, 메이데이 격파
+2회 | 금곡상 최우수 밴드 | 2017년과 2024년, 그 사이에 판판의 죽음과 2년의 침묵
+출처: 역대 금곡상 수상 명단
+```
 
-📝 **Curator's Note:** Cao Dong and Mayday have never been rivals. They are two answers from two generations on "what rock can do": Mayday says public embrace, Cao Dong says private pain. Both answers are correct.
+심사위원회 주석 황윈링은 이 밴드를 “**답답한 세대의 폭발**”이라고 묘사했다. “거대한 충격을 가져왔고, 사람들이 소리에 대해 갖고 있던 인식을 깨뜨렸다.”[^6]
 
-### Potato, 14 Years, 15 Hours
+당시 가장 이야깃거리가 된 세부는 메이데이 아신의 반응이었다. 그는 차오둥의 노래를 들은 뒤 백스테이지에서 마사에게 말했다. “가서 알아볼까, 이 사람들 천재야!”[^8]
 
-October 30, 2021.
+언론은 곧 이야기를 “세대교체”로 단순화했다. 자비로 CD를 찍은 인디 밴드가 중화권 록의 거인을 꺾었다는 식이었다. 그러나 아신 자신은 이 서사를 받아들이지 않았다. “세대교체와는 무관하다. 언제나 긍정적이고 적극적인 것도 피곤하다. 가끔은 다른 에너지를 분출하는 것도 아주 좋다.”[^8]
 
-Drummer Cai Yifan (Fanfan) was found dead in a quarantine hotel in Taipei, aged 26. [^9] She had returned from a tour in mainland China on October 25 and checked into the hotel, expecting a 14-day quarantine. Her beloved dog "Potato" had come to her when she was 14, accompanying her for 12 years. In late October, Potato was already a 14-year-old old dog, critically ill.
+우두 역시 수상 무대에서 이 서사를 거부했다. 그는 최우수 밴드상을 받을 때 “이 상은 모두의 것”이라고 말했다. 최우수 신인상 무대에서는 눈물이 맺힌 채 “다행히도 늘 한 무리의 사람들이 이 허무 속에서 계속 자기만의 목소리를 찾으려 애쓰고 있다”고 말했다. 그리고 메이데이에 대해서는 이렇게 말했다.
 
-On the evening of October 29, Fanfan, while in quarantine, wrote her last public text on Instagram:
+> 「不是競爭心態來看這件事，五月天的地位是無可取代的。」[^8]
 
-> "What pains me the most is that I am in quarantine and cannot accompany you by your side, nor can I see you for the last time. I have cried until I broke down, not knowing how to face all this... The first thing my sister will do after her quarantine ends is take all her luggage and run to your side, to accompany you in the last moments of your life. Sister loves you." [^9]
+두 세대의 밴드가 같은 밤 서로에게 자리를 내주었다. 그것이 그날 밤의 절정이어야 했다. 그러나 언론이 붙잡은 것은 “메이데이를 꺾었다”는 제목이었고, 이 **상호 인정**의 순간은 붙잡지 못했다.
 
-15 hours later, she was found dead in the hotel room.
+📝 큐레이터 노트: 차오둥과 메이데이는 애초에 상대가 아니었다. 그들은 두 세대가 “록은 무엇을 할 수 있는가”라는 질문에 내놓은 두 가지 답이다. 메이데이는 공적 포옹이라고 답했고, 차오둥은 사적인 고통이라고 답했다. 두 답 모두 옳다.
 
-18 days later, on November 17, 2021, Wu Du publicly wrote to Fanfan on Instagram:
+## 투더우, 14년, 15시간
 
-> "For days, my thoughts have been chaotic, trapped in a cycle of self-doubt and regret... It is a great regret that I could not provide better companionship." [^10]
+2021년 10월 30일.
 
-The band entered nearly two years of complete silence. No new songs, no interviews, no performances. In 2023, original bassist Yang Shixuan announced an indefinite hiatus from the band. [^2] During that time, Cao Dong seemed to have completely ended.
+드러머 차이이판, 판판, 이 타이베이의 한 방역 호텔에서 숨진 채 발견되었다. 26세였다.[^9] 그는 10월 25일 중국 대륙 투어를 마치고 타이완으로 돌아와 호텔에 입소했으며, 14일 격리 예정이었다. 그의 반려견 “투더우”는 그가 14세 때 곁에 온 개였고, 12년 동안 그와 함께했다. 10월 하순, 투더우는 이미 14세의 노견이었고 위독했다.
 
-📝 **Curator's Note:** A band entering a quarantine hotel after a tour and losing a bandmate is a narrative unique to the COVID era. It is not a heroic death, but a loss under administrative rules: quarantine policies separated Fanfan from her dying dog, causing her to be alone when death occurred.
+10월 29일 밤, 격리 중이던 판판은 Instagram에 마지막 공개 글을 남겼다.
 
-### The Seven-Year Wait for 〈Bed〉
+> 「我最心痛的就是，我在隔離無法陪伴在側，甚至無法見到最後一面，已經哭到崩潰的我也不知道面對這一切⋯姊姊隔離結束第一件事就是領著所有行李往你身邊奔去，陪伴你人生的最後，姊姊愛你。」[^9]
 
-On April 7, 2023, No Party For Cao Dong released the single [〈Bed〉](https://www.youtube.com/watch?v=yq5KovCxq8o) and a lyric video. [^11] This was the band's first new song since Fanfan's passing.
+15시간 뒤, 그는 호텔 방에서 숨진 채 발견되었다.
 
-But this song had actually **been performed live for seven years**. It started being performed in 2016, but was never recorded. [^11] The reason this song was chosen as the return single at this point in 2023 was not because it was written well, but because it had been with them for seven years, **existing before this loss**.
+18일 뒤인 2021년 11월 17일, 우두는 Instagram에 판판에게 보내는 글을 공개했다.
 
-〈Bed〉 is not a elegy. It does not directly mention Fanfan, nor does it contain tears or accusations. Its narrative is low: the state of a person lying in bed, unable to wake up and unable to sleep, sung in a tone with almost no emotional fluctuation.
+> 「連日思緒混亂，困在自我懷疑與遺憾的循環之中⋯很遺憾沒能給予更好地陪伴。」[^10]
 
-The band used the low pressure of "can't go back to that time" to process loss, rather than using dramatic grief. This choice itself is why Cao Dong is Cao Dong: they never consume tragedy.
+밴드는 거의 2년에 가까운 완전한 침묵에 들어갔다. 신곡도, 인터뷰도, 공연도 없었다. 2023년에는 원 베이시스트 양스쉬안이 무기한 휴식에 들어간다고 발표했다.[^2] 그 시기 차오둥은 완전히 끝난 것처럼 보였다.
 
-### Broken Tiles Joined: Two Layers of Allusion from _Records of the Grand Historian_ to Yan Shigu's Commentary in _Book of Han_
+📝 큐레이터 노트: 한 밴드가 투어를 마친 뒤 격리 호텔에 들어갔다가 동료를 잃는 일은 COVID 시대만의 서사다. 영웅적인 죽음이 아니라 행정 규칙 아래에서 발생한 상실이다. 격리 정책은 판판을 곧 죽어 가던 반려견과 갈라놓았고, 죽음이 일어났을 때 그는 혼자였다.
 
-On May 20, 2023, _He Wei_ (Wa He) was released, seven years after _Nu Er_. [^12]
+## 〈침대〉의 7년 기다림
 
-The allusion for the album title "He Wei" has two layers, a detail worth distinguishing precisely because it defines what the album title truly intends to say.
+2023년 4월 7일, 차오둥메이유파이두이는 싱글 [〈침대〉](https://www.youtube.com/watch?v=yq5KovCxq8o)와 가사 영상을 발표했다.[^11] 판판이 세상을 떠난 뒤 밴드가 처음으로 발표한 신곡이었다.
 
-First layer: The characters "**He Wei**" appear in the _Records of the Grand Historian: Biographies of Confucian Scholars_ — "Chen She rose from a commoner, driving a crowd of He Wei (broken tiles) exiled convicts, and within a month became King of Chu." [^12]
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/yq5KovCxq8o" title="草東沒有派對 - 床 Lie【Official Lyric Video】" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-Second layer (more critical): The extended meaning "**Broken tiles joined together, though aggregated, are not uniform**" actually **does not appear in the original text of the _Records of the Grand Historian_**. It originates from the Tang Dynasty **Yan Shigu**'s commentary on the _Book of Han: Biographies of Li, Lu, Zhu, Liu, and Shusun_. [^19]
+_〈침대〉 공식 가사 영상, 2023. 이미 7년 동안 현장에서 연주해 온 노래가 판판을 잃은 뒤 밴드가 낸 첫 목소리가 되었다. Source: 차오둥메이유파이두이 공식 YouTube 채널._
 
-Cai Yu fully verified these two layers of allusion in her 2023 review of the _He Wei_ album. [^19] This distinction is important because the literal meaning "a group of broken tiles gathering together" alone is merely the derogatory meaning of "a motley crew"; adding Yan Shigu's extended commentary "though aggregated, are not uniform" becomes **broken individuals aggregating together, but retaining their own irregularity**. This layer of commentary is the actual semantic direction Cao Dong chose for this name — not "repairing the break," not "unity," but **coexisting with the break**.
+그러나 이 노래는 사실 **이미 그들이 7년 동안 현장에서 연주해 온 곡**이었다. 2016년부터 연주되었지만 줄곧 녹음되지 않았다.[^11] 2023년이라는 시점에 이 노래를 복귀 싱글로 선택한 이유는 그것이 잘 쓰인 노래라서가 아니라, 이미 그들과 7년을 함께 걸어왔고 **이번 상실보다 더 일찍 존재했기 때문**이다.
 
-Producer Zhou Yidun said in an interview about the choice of this word:
+〈침대〉는 추모곡이 아니다. 판판을 직접 언급하지도, 눈물도, 고발도 없다. 서사는 낮다. 한 사람이 침대에 누워 깨어나지 못하고 잠들지도 못하는 상태를 거의 감정의 기복이 없는 말투로 끝까지 노래한다.
 
-> "This is an album expressing regret, and various disappointments in life." [^13]
+밴드는 “그때로 돌아갈 수 없다”는 낮은 압력으로 상실을 처리했다. 극적인 슬픔을 사용하지 않았다. 이 선택 자체가 차오둥이 차오둥인 이유다. 그들은 비극을 소비한 적이 없다.
 
-The album's title page reads: "Dedicated to Fanfan." [^12] The last new song is [〈But〉](https://www.youtube.com/watch?v=ovTiSA9T-RU) (English name: Damn): the vocalist almost shouts "I love you," dedicated to Fanfan. [^13]
+## 깨진 기와가 서로 맞물림: 《사기》에서 《한서》 안사고 주석까지의 두 층의 고사
 
-In interviews related to the _He Wei_ album, Wu Du said verbatim about how the band continued to write music after Fanfan's passing:
+2023년 5월 20일, 《와허》가 발매되었다. 《추뉴얼》 이후 7년 만이었다.[^12]
 
-> "Life is inherently fragile; the death of all things is never an end, but a continuation of companionship in another form." [^19]
+![차오둥메이유파이두이의 2023년 두 번째 스튜디오 앨범 《와허》(The Clod) 표지](/article-images/people/caodong-the-clod-2023.webp)
 
-This sentence explains why the _He Wei_ album sounds less like "getting over grief" and more like **living within grief while continuing to make music**.
+_《와허》(2023) 앨범 표지. 앨범명은 《사기》에서 나온 고사이며, 속표지에는 “삼가 이 앨범을 판판에게 바친다”라고 적혀 있다. 밴드가 판판을 잃은 뒤 낸 첫 정규 작품이다._
 
-### 〈Cauldron〉 and 〈Empty〉: The Only Remaining Critical Works
+앨범명 “와허”의 고사는 두 층으로 되어 있다. 이 세부는 정확히 구분할 필요가 있다. 그것이 앨범 제목이 진정 말하려는 바를 규정하기 때문이다.
 
-The density of social critique in the works on _Nu Er_ was high: 〈Lan Ni〉 (Mud), 〈Yong Gan De Ren〉 (Brave People), 〈Da Feng Chui〉 (Big Wind Blows), 〈Wo Men〉 (Us) — music critic Cai Yu calculated that in _He Wei_, works where one can clearly feel "critique and collision with society" **remain only two**: 〈Cauldron〉 and 〈Empty〉. [^19]
+첫 번째 층: “**와허**”라는 두 글자는 《사기·유림열전》에 보인다. “진섭이 필부의 몸으로 일어나, 기와처럼 모인 유배 병사들을 몰아 한 달 만에 초나라 왕이 되었다”는 대목이다.[^12]
 
-The chorus of 〈Cauldron〉 is the moment in this album closest to the sharp knife feel of Cao Dong in 2017:
+두 번째 층, 더 중요한 층: “**깨진 기와가 서로 맞물리듯, 모였다고는 하나 고르거나 같지는 않다**”라는 확장 해석은 사실 **《사기》 원문에는 없다**. 그것은 《한서·역륙주류숙손전》에 대한 당나라 **안사고**의 주석에서 나온다.[^19]
 
-> "So we smashed the dye vat / smashed the dye vat / only to see the vast sea / yet you and I still do not know where we are" [^19]
+차이위는 2023년 《와허》 앨범 평론에서 이 두 층의 고사를 온전히 고증했다.[^19] 이 구분이 중요한 이유는 문자 그대로 “깨진 기와 조각들이 함께 모인다”만 보면 단순히 “오합지중”이라는 폄의가 되기 때문이다. 여기에 안사고의 “모였다고는 하나 고르거나 같지는 않다”는 확장이 더해져야 비로소 **깨진 개체들이 함께 모이되, 각자의 고르지 않음을 보존한다**는 뜻이 된다. 이 주석의 층위야말로 차오둥이 이 이름을 고른 실제 의미 방향이다. “파열의 수리”도 아니고, “일치단결”도 아니다. **파열을 지닌 채 계속 공존하는 것**이다.
 
-The preceding sections build anticipation with delayed guitar effects and fast drum beats, finally dragging heavy guitar sounds, forming an acoustic contrast of "expectation and disappointment." [^19] The main hook of the chorus, "smash the dye vat," is placed at the end, a structural arrangement not present in _Nu Er_.
+프로듀서 저우이둔은 인터뷰에서 이 단어의 선택을 이렇게 말했다.
 
-The direction of other songs on _He Wei_, summarized by Cai Yu: **"After 〈Ren Dong Shan〉 (Human Cave Mountain), it presents a trend of inward closing, compared to the past where we raised the banner of 'world-weariness' to shout and collide with the 'dream' but could not fulfill the system, it is like two different scenes."** [^19]
+> 「這是一張表達遺憾，與人生中各種失望的專輯。」[^13]
 
-This direction from "world-weariness outward" to "world-weariness inward" is a structural turning point for Cao Dong over twelve years. Cai Yu summarizes this as the "**End of the Youth Generation**": Cao Dong, along with their fans, is preparing to move to the next stage. [^19] No longer writing social critique like "Mud," they turn to writing songs about "Daydream," "Bed," "Old Zhang," "Sprout," "But," focusing on the emotional gaps between oneself and loved ones.
+앨범 속표지에는 “삼가 이 앨범을 판판에게 바친다”라고 쓰여 있다.[^12] 마지막 신곡은 [〈단〉](https://www.youtube.com/watch?v=ovTiSA9T-RU), 영어명 Damn, 이다. 보컬은 거의 절규하듯 “사랑해”를 부르며 판판에게 바친다.[^13]
 
-📝 **Curator's Note:** _He Wei_ is not an album that has become weaker; it is an album that has moved from "speaking for the generation" to "processing one's own heart." The courage Cao Dong showed in making this turn is something the Cao Dong of 2017 with 〈Big Wind Blows〉 could not do.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/ovTiSA9T-RU" title="草東沒有派對 - 但 Damn【Official Video】" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-Music critics later also defined _He Wei_ as "**an album of suicide survivors**." [^14] The first three songs continuously push the theme of death (drowning, self-destruction imagery); the middle instrumental Interlude creates a "floating and elusive" atmosphere; the ending turns away from anger to "calmly mourn"; the last song, the vocalist "almost shouts" to express nostalgia and the determination to continue surviving.
+_〈단〉(Damn), 2023. 《와허》의 마지막 신곡으로, 보컬은 거의 절규하듯 판판에게 “사랑해”라고 말한다. Source: 차오둥메이유파이두이 공식 YouTube 채널._
 
-### The Moment the Manager Accepted the Awards
+우두는 판판 사망 이후 밴드가 어떻게 계속 음악을 쓸 수 있었는지에 대해 《와허》 앨범 관련 인터뷰에서 이런 말을 남겼다.
 
-On June 29, 2024, at the 35th Golden Melody Awards. No Party For Cao Dong was nominated for Best Band, a group the media called the "Group of Death" — the other groups included Fire EX, Gossip, and five other strong bands. [^15] Cao Dong won three awards: Album of the Year, Best Mandarin Album, Best Band (for the second time). [^1]
+> 「生命本就如此脆弱，萬物的死亡從不是結束，而是另種形式陪伴的延續。」[^19]
 
-But the band was performing at the Bubble Island Music Festival in Guiyang, China, that night, and was not present at the Golden Melody ceremony. The manager went on stage to accept the awards, saying the sentence "No Party For Cao Dong has never been just the 4 people standing on stage, but everyone who wholeheartedly participates in these six characters" [^1] was interpreted at the time as "including the deceased band member Fanfan."
+이 말은 왜 《와허》라는 앨범이 “슬픔을 지나왔다”처럼 들리지 않는지 설명한다. 그것은 **슬픔 속에 살면서 계속 음악을 만드는 것**이다.
 
-This "absentee winning" itself is a statement from Cao Dong: **We do not treat winning awards as the climax of life.** They continued performing in Guiyang, turning the Best Band acceptance into a "ceremony of absence."
+## 〈항아리〉와 〈공〉: 남아 있는 비판적 작품
 
-In the history of Taiwanese pop music, a band winning the Golden Melody Best Band award twice is already rare: Cao Dong's two wins were separated by seven years, spanning one member's death and two years of nearly complete silence. From the high-profile moment of defeating Mayday in 2017 to the low-key moment of the manager accepting awards in 2024, this band is redefining the word "success" in its own way.
+《추뉴얼》에는 사회비판적 작품의 밀도가 높았다. 〈란니〉, 〈용감한 사람〉, 〈다펑추이〉, 〈우리〉. 음악평론가 차이위의 계산에 따르면, 《와허》에서 “사회에 대한 비판과 충돌”을 뚜렷하게 느낄 수 있는 작품은 **단 두 곡**, 〈항아리〉와 〈공〉뿐이다.[^19]
 
-### Why They Don't Accept Interviews
+```tw-versus
+《추뉴얼》 2016: 바깥으로 | 《와허》 2023: 안쪽으로
+한 세대를 대신해 외치는 분노 | 자기 자신과 지극히 가까운 이의 상실을 처리
+사회비판 4곡(란니／용감한 사람／다펑추이／우리) | 단 2곡(항아리／공)
+루저 세대의 공통 언어 | 판판에게 바치는 “자살 유족” 앨범
+출처: 순성입좌 평론, 차이위, 2023
+```
 
-From their debut to now, No Party For Cao Dong has rarely given formal interviews. [^16] Wu Du has given very few interviews (mainly in 2016 to Blow吹 Music), but the band as a whole has adopted a nearly closed attitude towards the media.
+〈항아리〉의 후렴은 이 앨범에서 2017년의 차오둥이 지녔던 예리한 칼날에 가장 가까운 순간이다.
 
-This is not coolness; it is a professional ethic. They refuse to shape themselves into a "consumable personality": refusing to sell daily life on Instagram, refusing variety show crossovers, refusing to turn Fanfan's death into narrative capital. Wu Du's sentence summarizes their creative attitude:
+> 「於是砸了染缸／砸了染缸／才看見大海茫茫／而你我仍不知身在何方」[^19]
 
-> "Many of our works sound violent, but actually they are full of... love." [^16]
+앞부분은 딜레이 기타 음향과 질주하는 드럼감으로 기대를 쌓아 올리고, 마지막에는 무거운 기타음이 끌려가며 “기대와 낙차”의 음향 대비를 만든다.[^19] 후렴의 가장 큰 hook인 “염색 항아리를 부쉈다”는 마지막에 눌려 있다. 이는 《추뉴얼》에는 없던 구조적 배치다.
 
-This is the key difference between Cao Dong and most Taiwanese bands of the late 2010s: **they believe the content of the songs should be larger than the personality of the singer.** Fans can recognize the chords of 〈Big Wind Blows〉, but may not necessarily recognize Wu Du's face; this is a distance the band deliberately preserved.
+《와허》의 다른 곡들이 향하는 방향을 차이위의 말로 요약하면 이렇다. **“〈인둥산〉 이후 안쪽으로 닫히는 형세를 보이며, 과거 ‘염세’의 깃발을 흔들고 ‘꿈’을 향해 돌진했으나 실현할 수 없었던 체제와 충돌하던 모습과 비교하면 완전히 다른 풍경이다.”**[^19]
 
-### This Is an Album of Suicide Survivors
+“바깥으로 투사된 염세”에서 “안쪽으로 향하는 염세”로의 이 방향은 차오둥 12년의 구조적 전환이다. 차이위는 이를 “**청년 세대의 종결**”로 정리했다. 차오둥과 그들의 팬들은 다음 단계로 나아갈 준비를 하고 있다는 것이다.[^19] 더 이상 〈란니〉식의 사회비판을 쓰지 않고, 〈백일몽〉, 〈침대〉, 〈라오장〉, 〈싹〉, 〈단〉처럼 자기 자신과 지극히 가까운 이 사이의 감정적 틈을 향한 노래로 옮겨간다.
 
-Twelve years. Four drummers. Two albums. Two Golden Melody Best Band awards. One death. Two years of silence. One manager acceptance.
+📝 큐레이터 노트: 《와허》는 약해진 앨범이 아니라, “세대를 대변하기”에서 “자기 내면을 처리하기”로 옮겨간 앨범이다. 차오둥이 이 전환을 감행한 용기는 2017년 〈다펑추이〉 버전의 차오둥으로는 할 수 없었던 것이다.
 
-What No Party For Cao Dong left behind is not "a story of rise," but **a story of how to piece oneself back together in the midst of loss**. The dance-punk youths of Cao Dong Street in Yangmingshan in 2012, self-funding the pressing of 2,000 CDs in 2016, winning the Golden Melody triple crown defeating Mayday in 2017, losing drummer Fanfan in 2021, returning with 〈Bed〉 in 2023, and taking the Golden Melody 35 triple crown with the word "He Wei" (a term for losers in the _Records of the Grand Historian_) in 2024.
+이후 평론가들은 《와허》를 “**자살 유족의 앨범**”으로 정의하기도 했다.[^14] 앞의 세 곡은 죽음이라는 주제를 계속 밀고 나가고, 익사와 자기 파괴의 이미지를 사용한다. 중간의 기악 Interlude는 “부유하고 붙잡을 수 없는” 분위기를 만든다. 말미의 전환부는 분노를 내려놓고 “고요히 애도”하는 쪽으로 향한다. 마지막 곡 〈단〉에서 보컬은 거의 절규에 가깝게 그리움과 계속 살아가겠다는 결심을 표현한다.
 
-They also proved something even more difficult: **a band can lose a member and still survive, but the way they survive will not be the same as before.** The name _He Wei_ itself says it all. Incomplete, un-repaired, just **joined**: continuing to be together with the break.
+## 매니저가 대리 수상한 그 순간
 
-The manager said on the Golden Melody stage in 2024:
+2024년 6월 29일, 제35회 금곡상. 차오둥메이유파이두이가 후보에 오른 최우수 밴드 부문은 언론에서 “죽음의 조”라고 불렸다. 같은 부문에는 Fire EX., Accusefive 등 여섯 팀의 실력파 밴드가 있었다.[^15] 차오둥은 올해의 앨범, 최우수 중국어 앨범, 최우수 밴드, 두 번째 수상, 세 개를 가져갔다.[^1]
 
-> "In our hearts, No Party For Cao Dong has never been just the 4 people standing on stage."
+그러나 밴드는 그날 밤 중국 구이양 버블 아일랜드 음악제에서 공연하고 있었고, 금곡상 시상식 현장에는 없었다. 매니저가 대신 무대에 올랐다. 그가 말한 “차오둥메이유파이두이는 단 한 번도 무대 위에 선 4명만을 뜻한 적이 없으며, 이 여섯 글자에 마음을 모아 참여한 모든 사람을 뜻한다”[^1]는 말은 그 순간 “세상을 떠난 멤버 판판을 포함한다”는 뜻으로 읽혔다.
 
-At that moment, no one in the audience laughed, no one stood up to cheer. Everyone was silent for five seconds.
+이 “부재 속 수상” 자체가 차오둥의 하나의 성명이다. **우리는 수상을 인생의 climax로 삼지 않는다**. 그들은 구이양에서 계속 공연했고, 최우수 밴드 수상은 “부재의 의식”이 되었다.
 
-Then the camera turned to the next award.
+중화권 대중음악사에서 한 밴드가 금곡상 최우수 밴드를 두 차례 수상하는 일은 이미 드물다. 차오둥은 그 사이에 7년을 두었고, 한 멤버의 죽음을 건넜으며, 거의 완전한 2년의 침묵을 건넜다. 2017년 메이데이를 꺾은 그 고조된 순간에서 2024년 매니저가 대리 수상한 그 낮은 순간까지, 이 밴드는 자기 방식으로 “성공”이라는 단어를 다시 정의하고 있다.
 
-**Further Reading**:
+## 왜 그들은 인터뷰를 받아들이지 않는가
 
-- [Wu Dai-xuan](/people/魏如萱) — Belonging to the 2010s indie music ecosystem, a control group for female vocal paths
-- [Constant's Variations](/people/康士坦的變化球) — Belonging to the post-rock spectrum, but taking a vocal narrative path as a control
-- [Cicada](/people/Cicada) — Taking a fully instrumental, no-vocal path, exactly opposite to Cao Dong's "lyrics as sociology"
-- [Lu Guangzhong](/people/盧廣仲) — Another "song-type singer" path in indie music
-- [Pop Music and Golden Melody Awards](/music/流行音樂與金曲獎) — The stage coordinates for Cao Dong winning Best Band twice
-- [Taiwan Indie Music](/music/台灣獨立音樂) — The evolution of indie music from Natural Volcano to Cao Dong to Gossip
-- [Taiwan Pop Music](/music/台灣流行音樂) — The environment of the Taiwanese pop music industry
+차오둥메이유파이두이는 데뷔 이후 지금까지 정식 인터뷰가 적었다.[^16] 우두는 극소수의 인터뷰, 주로 2016년 Blow 취음악, 에 응한 적이 있지만, 밴드 전체는 미디어에 대해 거의 폐쇄적인 태도를 취해 왔다.
 
-## References
+이것은 멋 부림이 아니라 일종의 직업 윤리다. 그들은 자신들을 “소비 가능한 인격”으로 만드는 일을 거부한다. Instagram에서 일상을 팔지 않고, 예능으로 영역을 넓히지 않으며, 판판의 죽음을 서사 자본으로 만들지 않는다. 우두의 한 문장은 그들의 창작 태도를 요약한다.
 
-[^1]: [Golden Melody 35 No Party For Cao Dong Absent, Manager Accepts Speech - CNA](https://www.cna.com.tw/news/amov/202406290232.aspx) — 2024-06-29 At the 35th Golden Melody Awards, No Party For Cao Dong won the triple crown of Album of the Year, Best Mandarin Album, and Best Band with _He Wei_; the band was unable to attend as they were performing at the Bubble Island Music Festival in Guiyang, China, that night; the manager's acceptance speech: "No Party For Cao Dong has never been just the 4 people standing on stage, but everyone who wholeheartedly participates in these six characters."
+> 「我們很多作品聽起來暴力，但其實都是充滿了⋯愛。」[^16]
 
-[^2]: [No Party For Cao Dong - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D) — Formed on 2012-06-09 at the intersection of Jianxian Street and Cao Dong Street in Yangmingshan, Taipei; band name evolved in three stages: Cao Dong Street Left Turn → Cao Dong Street Party → No Party For Cao Dong (settled in 2014); lineup evolution includes Liu Li (first-generation drummer turned to video), Sam (interrupted by military service), Fanfan (took over in 2016 from Triple Deer), Yang Shixuan indefinite hiatus in 2023.
+이것이 차오둥이 2010년대 후반 타이완 밴드 다수와 구별되는 핵심이다. **그들은 노래의 내용이 가수의 인격보다 커야 한다고 믿는다**. 팬들은 〈다펑추이〉의 코드를 알아들을 수 있지만, 우두의 얼굴은 알아보지 못할 수도 있다. 그것은 밴드가 의도적으로 남겨 둔 거리다.
 
-[^3]: [Nu Er Album Production Details - Scientific American Taiwan](https://www.scimonth.com.tw/archives/2456) — Digital release on 2016-02-19, physical release on 3-11; 2,000 handmade CDs sold out in three days; producer Li Xiaozu, American mixing engineer Andy Baker, Georgia mastering engineer Joel Hatstat; 〈Big Wind Blows〉 used live audience vocal and studio overlay technology; production period 4 months.
+## 이 앨범은 자살 유족의 앨범이다
 
-[^4]: [No Party For Cao Dong Discogs](https://www.discogs.com/release/12302049-%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D-%E9%86%9C%E5%A5%B4%E5%85%92-The-Servile) — 〈Big Wind Blows〉 YouTube views broke 95,000 six months after release, broke 500,000 within a year, becoming one of the most widely spread singles in Taiwanese indie music in the 2010s.
+12년. 네 명의 드러머. 두 장의 앨범. 두 차례 금곡상 최우수 밴드. 한 번의 죽음. 2년의 침묵. 한 번의 매니저 대리 수상.
 
-[^5]: [〈Big Wind Blows〉 Lyrics and 2015 Anti-Curriculum Micro-adjustment Movement Interpretation - VERSE](https://www.verse.com.tw/article/chorus-10-caodong) — 〈Big Wind Blows〉 lyrics were written against the backdrop of the 2015 Taiwanese anti-high school curriculum micro-adjustment movement (at that time students took to the streets, student leaders committed suicide); lyrics have three layers of meaning: musical chairs game (resource competition), generational dilemma (time trapped), Wu Du's personal school bullying experience.
+차오둥메이유파이두이가 남긴 것은 “하나의 부상 서사”가 아니다. 그것은 **상실 속에서 어떻게 자기 자신을 다시 맞추어 가는가에 관한 이야기**다. 2012년 양밍산 차오둥제의 dance-punk 소년들, 2016년 자비로 찍은 CD 2,000장, 2017년 금곡상 3관왕과 메이데이 격파, 2021년 드러머 판판의 상실, 2023년 〈침대〉로의 복귀, 2024년 《사기》 속 패배자의 어휘인 《와허》로 제35회 금곡상 3관왕을 차지한 일.
 
-[^6]: [Ma Shifang "Loser Generation" Cao Dong Review - One Little Day](https://onelittleday.com.tw/%E3%80%8C%E9%AD%AF%E8%9B%87%E4%B8%96%E4%BB%A3%E3%80%8D%E7%9A%84%E8%99%9B%E7%84%A1%E8%88%87%E6%86%A4%E6%80%92%E2%94%80%E2%94%80%E6%88%91%E8%81%BD%E3%80%8C%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE) — Ma Shifang positioned Cao Dong's generationality as "Loser Generation": "The lyrics are sharp as knives, and at its core is a nihilism with no way out, becoming a favorite quote for the youth of the 'collapse generation' to recite"; compared with Zhang Xuan "lyrics and melody咬合 (bite/fit)". 2017 Golden Melody 28 Huang Yunling Chair called it "Explosion of the闷 (Muffled) Generation", Cao Dong first-round decisive triple crown (19/19/18 votes).
+그들은 더 어려운 사실도 증명했다. **한 밴드는 한 멤버를 잃고도 살아남을 수 있지만, 살아남은 모습은 예전과 같을 수 없다**. 《와허》라는 이름 자체가 이 일을 이미 다 말한다. 완전하지 않고, 수리하지 않으며, 그저 **합**한다. 파열을 지닌 채 계속 함께 있는 것이다.
 
-[^7]: [〈Big Wind Blows〉 Cultural Phenomenon - PanSci + Vision Magazine](https://pansci.asia/archives/140522) — 〈Big Wind Blows〉 defined as representative work of "Loser Generation" / "Collapse Generation"; National Taiwan University of Science and Technology "Song That Best Represents My Generation" vote top ranks for 6 consecutive years; MC HotDog sampled; Li Mingcong (NTU Sociology) 2017 Autumn "Sociology of Losers" course 600+ students filled.
+2024년 금곡상 무대에서 매니저는 말했다.
 
-[^8]: [Mayday Ashin "Genius" Comment Full Source - Business Today](https://www.businesstoday.com.tw/article/category/154769/post/201706290007/) — After hearing Cao Dong's songs, Ashin told Martha: "Should we go get to know them? These guys are geniuses!"; facing generational succession controversy: "It has nothing to do with generational succession. It's tiring to always be positive and optimistic; it's great to occasionally have a different kind of energy to vent." Wu Du Golden Melody 28 acceptance: "Mayday's status is irreplaceable."
+> 「在我們心中，草東沒有派對從來都不是只有站在舞台上的 4 個人。」
 
-[^9]: [Cao Dong Drummer Fanfan Passed Away During Quarantine + IG Original Text - China Times News Network](https://www.chinatimes.com/realtimenews/20211030003228-260404) — 2021-10-30 Cai Yifan (Fanfan, 26 years old) was found dead in a Taipei quarantine hotel; returned from mainland China tour on 10-25 and checked in; 10-29 evening IG breakdown post "The first thing my sister will do after her quarantine ends is take all her luggage and run to your side, to accompany you in the last moments of your life. Sister loves you"; 14-year-old beloved dog "Potato" accompanied her for 12 years critically ill, she could not return home to accompany the last journey.
+그 순간 객석에서는 아무도 웃지 않았고, 아무도 일어나 환호하지 않았다. 모두가 5초 동안 조용했다.
 
-[^10]: [Wu Du IG Message to Fanfan - Mirror Media](https://www.mirrormedia.mg/story/20211031ent003) — 2021-11-17 18 days after Fanfan's passing, vocalist Wu Du publicly wrote on Instagram: "For days, my thoughts have been chaotic, trapped in a cycle of self-doubt and regret... It is a great regret that I could not provide better companionship."
+그리고 카메라는 다음 상으로 넘어갔다.
 
-[^11]: [〈Bed〉 2023 Return Single Seven-Year Live History - HackaZine](https://hackazine-tw.com/no-party-for-cao-dong-the-clod/) — 2023-04-07 Band released first single 〈Bed〉 and lyric video after Fanfan's passing; this song had actually been performed live since 2016, waiting seven years to be recorded and released. Public statement new album dedicated to Fanfan.
+**더 읽을거리**:
 
-[^12]: [He Wei Album Concept and Records of the Grand Historian Allusion - Vocus](https://vocus.cc/article/64704f92fd897800015188e3) — 2023-05-20 _He Wei_ released, seven years after _Nu Er_; album title "He Wei" characters appear in _Records of the Grand Historian: Biographies of Confucian Scholars_ "Chen She rose from a commoner, driving a crowd of He Wei (broken tiles) exiled convicts, and within a month became King of Chu"; extended meaning "broken tiles joined" complete allusion seen in [^19] (Cai Yu verification from _Book of Han_ Yan Shigu commentary); title page "Dedicated to Fanfan"; 〈But〉 (Damn) is the last new song, singing "I love you" dedicated to Fanfan.
+- [웨이루쉬안](/people/魏如萱) — 2010년대 인디 음악 생태계에 함께 속하며, 여성 보컬 경로의 대비 사례
+- [캉스탄더볜화추](/people/康士坦的變化球) — 포스트록 스펙트럼에 함께 속하지만, 보컬 서사 경로를 걷는 대비 사례
+- [Cicada](/people/Cicada) — 전곡 기악, 무보컬 경로를 걷는 밴드로, 차오둥의 “가사 즉 사회학”과 정반대
+- [루광중](/people/盧廣仲) — 인디 음악의 또 다른 “작품형 싱어송라이터” 경로
+- [대중음악과 금곡상](/music/流行音樂與金曲獎) — 차오둥이 두 차례 최우수 밴드를 수상한 무대 좌표
+- [타이완 인디 음악](/music/台灣獨立音樂) — 자연권에서 차오둥, Accusefive까지 이어지는 인디 음악의 진화
+- [타이완 대중음악](/music/台灣流行音樂) — 중화권 대중음악 산업 환경
 
-[^13]: [Zhou Yidun Producer Interview: Cao Dong is "An Album Expressing Regret" - Blow吹 Music](https://blow.streetvoice.com/68312/) — Producer Zhou Yidun interprets _He Wei_: "This is an album expressing regret, and various disappointments in life." And self-reports production philosophy: "The thing I worry least about is the sound quality itself; I care about whether the result matches the musician's vision, and whether they feel comfortable in the collaboration. 'Cao Dong's attitude towards music is completely honest.'"
+## 이미지 출처
 
-[^14]: [He Wei "Suicide Survivor Album" Review - Vocus](https://vocus.cc/article/64704f92fd897800015188e3) — Music critic defines _He Wei_ as "an album of suicide survivors"; first three songs continuously push the theme of death (drowning, self-destruction imagery); middle instrumental Interlude creates "floating and elusive" atmosphere; ending turns away from anger to "calmly mourn"; last song vocalist "almost shouts" to express nostalgia and determination to continue surviving.
+본문의 이미지 3장은 모두 “합리적 사용에 따른 편집 논평”(fair use editorial commentary)으로 수록했으며, `public/article-images/people/`에 캐시되어 있고 원본 서버를 핫링크하지 않는다.
 
-[^15]: [Golden Melody 35 "Group of Death" Best Band Competition Analysis - The News Lens](https://www.thenewslens.com/article/204361) — 35th Golden Melody Awards Best Band nomination combination (Cao Dong, Fire EX, Gossip, etc. 6 groups) called by media "Group of Death"; analysis of the competitive context of Cao Dong emerging with triple crown with _He Wei_.
+- [차오둥메이유파이두이 공식 홍보 단체 사진](https://music.apple.com/tw/artist/1110664089) — © 차오둥메이유파이두이, 공식 홍보 사진, Apple Music을 통해 배포. Fair use editorial commentary.
+- [《추뉴얼》(2016) 앨범 표지](https://music.apple.com/tw/album/1676735354) — © 스피유한공사, 차오둥메이유파이두이 자영 레이블. Fair use editorial commentary.
+- [《와허》(2023) 앨범 표지](https://music.apple.com/tw/album/1679883738) — © 헤이피국유한공사, 차오둥메이유파이두이 자영 레이블. Fair use editorial commentary.
 
-[^16]: [Wu Du Creative Philosophy — 2016 Blow吹 Music Full Interview](https://blow.streetvoice.com/16090/) — Wu Du's few 2016 formal interviews: creative process "When this character is sometimes, mostly us (projection), we take material from people and things around us"; musical intent "Actually there is no special setting to do what"; emotional core "Actually it is all full of... love"; explanation for violent appearance: "Sounds violent, but actually it is all full of... love, opposing violence."
+본문에 삽입된 공식 영상 〈다펑추이〉, 〈침대〉, 〈단〉은 모두 밴드 공식 YouTube 채널 [@nopartyforcaodong](https://www.youtube.com/@nopartyforcaodong)에서 제공되며, YouTube 표준 플레이어로 삽입했다.
 
-[^17]: [Cao Dong 2018 Global Tour - Hypebeast](https://hypebeast.com/hk/2018/12/no-party-for-cao-dong-taiwan-concerts-2019) — 2018 Band resumed global 40+ tour; Europe: 12-14 London, 12-16 Berlin, 12-20 Amsterdam; Japan, US SXSW + South by Southwest, Mainland. 2019-01-05 Taipei final added show closed.
+## 참고 자료
 
-[^18]: [Nu Er Album Structure - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%86%9C%E5%A5%B4%E5%85%92_%28%E5%B0%88%E8%BC%AF%29) — _Nu Er_ 12 tracks complete list: Intro / Nu / Lan Ni (Mud) / Yong Gan De Ren (Brave People) / Da Feng Chui (Big Wind Blows) / Ai Ma (Emma) / Deng (Wait) / Gui (Ghost) / Zai (In) / Shan Hai (Mountains and Seas) / Wo Men (Us) / Qing Ge (Love Song); 38 minutes 57 seconds; representative work self-produced by band, Ministry of Culture subsidy, independent distribution.
+[^1]: [제35회 금곡상 차오둥메이유파이두이 불참, 매니저 대리 수상 소감 - 중앙사](https://www.cna.com.tw/news/amov/202406290232.aspx) — 2024-06-29 제35회 금곡상에서 차오둥메이유파이두이는 《와허》로 올해의 앨범, 최우수 중국어 앨범, 최우수 밴드 3관왕을 차지했다. 밴드는 그날 밤 중국 구이양 버블 아일랜드 음악제에서 공연해 참석할 수 없었고, 매니저가 대리 수상하며 “차오둥메이유파이두이는 단 한 번도 무대 위에 선 4명만이 아니라, 이 여섯 글자에 마음을 모아 참여한 모든 사람”이라고 말했다.
 
-[^19]: [Album Review | No Party For Cao Dong _He Wei_ | Now Just Knowing the Taste of Sorrow, Big Wind Blows into Human Cave Mountain - Xun Sheng Ru Zuo](https://songstoryworks.com/albumreviews-no-party-for-cao-dong-the-clod/) — Author Cai Yu 2023-09-16 review fully verifies two layers of source for "He Wei" allusion: "He Wei" characters from _Records of the Grand Historian: Biographies of Confucian Scholars_ + extended meaning "meaning like broken tiles joined together, though aggregated, are not uniform" from Tang Dynasty Yan Shigu's commentary on _Book of Han: Biographies of Li, Lu, Zhu, Liu, and Shusun_; full quote of Wu Du verbatim "Life is inherently fragile; the death of all things is never an end, but a continuation of companionship in another form"; 〈Cauldron〉 lyrics verbatim quote and music structure analysis; _He Wei_ vs _Nu Er_ critique work density comparison (former 4首批判 → latter only 〈Cauldron〉 〈Empty〉 2 works); core argument "After 〈Ren Dong Shan〉 it presents a trend of inward closing" + "End of the Youth Generation". This review 2026-04-18 Cai Yu in Taiwan.md Cao Dong Spore #33 Threads comment section actively pointed out this article's original draft mistakenly wrote "Records of the Grand Historian 'broken tiles joined'", and provided this original text verification — this article's second version (2026-04-19) has fully corrected the allusion source according to its verification.
+[^2]: [차오둥메이유파이두이 - 위키백과](https://zh.wikipedia.org/zh-tw/%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D) — 2012-06-09 타이베이 양밍산 젠셴제와 차오둥제 교차로에서 결성. 밴드명은 차오둥제 좌회전 → 차오둥제 파티 → 차오둥메이유파이두이, 2014년 확정, 의 세 단계로 변화했다. 라인업 변화에는 류리, 초대 드러머에서 영상 담당으로 전환, Sam, 병역으로 중단, 판판, 2016년 Triple Deer에서 합류, 2023년 양스쉬안 무기한 휴식 등이 포함된다.
+
+[^3]: [《추뉴얼》 앨범 제작 세부 - 과학월간](https://www.scimonth.com.tw/archives/2456) — 2016-02-19 디지털 발매, 3-11 실물 발매. 수제 CD 2,000장이 사흘 만에 매진되었다. 프로듀서 리샤오주, 미국 믹싱 엔지니어 Andy Baker, 조지아주 마스터링 엔지니어 Joel Hatstat 참여. 〈다펑추이〉는 현장 관객 음성과 스튜디오 녹음을 겹치는 기술을 사용했으며, 제작 기간은 4개월이었다.
+
+[^4]: [〈다펑추이〉(노래) - 위키백과](https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E9%A2%A8%E5%90%B9_%28%E6%AD%8C%E6%9B%B2%29) — 〈다펑추이〉 공식 MV는 2018-02-14 YouTube에 공개되었고, 밴드 전 드러머 류리가 감독했다. 2020-04-19 기준 MV는 누적 조회수 5,410,374회를 기록했고, StreetVoice의 demo 버전은 214,727회 청취를 기록했다. 2010년대 타이완 인디 음악에서 가장 널리 퍼진 싱글 중 하나다.
+
+[^5]: [〈다펑추이〉 가사와 2015년 반교육과정 미세조정 운동 해석 - VERSE](https://www.verse.com.tw/article/chorus-10-caodong) — 〈다펑추이〉 가사는 2015년 타이완 반고교 교육과정 미세조정 운동의 배경에서 쓰였다. 당시 학생들이 거리로 나섰고 학생 지도자가 스스로 목숨을 끊었다. 가사는 세 층의 의미를 지닌다. 의자 뺏기 놀이, 자원 경쟁, 세대적 곤경, 시간에 갇힘, 우두 개인의 학교 폭력 경험이다.
+
+[^6]: [마스팡 “루저 세대” 차오둥 평론 - One Little Day](https://onelittleday.com.tw/%E3%80%8C%E9%AD%AF%E8%9B%87%E4%B8%96%E4%BB%A3%E3%80%8D%E7%9A%84%E8%99%9B%E7%84%A1%E8%88%87%E6%86%A4%E6%80%92%E2%94%80%E2%94%80%E6%88%91%E8%81%BD%E3%80%8C%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE) — 마스팡은 차오둥의 세대성을 “루저 세대”로 규정하며 “가사는 칼칼이 피를 보고, 그 뼛속에는 출구 없는 허무가 있어 ‘붕괴 세대’ 청년들이 즐겨 전하는 문장이 되었다”고 했다. 장쉬안과 비교해 “가사와 곡의 맞물림”을 논했다. 2017년 제28회 금곡상에서 주석 황윈링은 “답답한 세대의 폭발”이라고 했고, 차오둥은 1차 투표에서 압도적 3관왕, 19/19/18표, 을 차지했다.
+
+[^7]: [〈다펑추이〉 문화 현상 - 범과학 + 원견잡지](https://pansci.asia/archives/140522) — 〈다펑추이〉는 “루저 세대” / “붕괴 세대”의 대표작으로 정의되었다. 타이완과기대 “내 세대를 가장 잘 대표하는 노래 한 곡” 투표에서 6년 연속 상위권에 올랐고, MC HotDog이 샘플링했으며, 리밍충, 타이완대 사회학과, 의 2017년 가을 “실패자의 사회학” 수업에는 학생 600명 이상이 몰렸다.
+
+[^8]: [메이데이 아신 “천재” 발언 전체 출처 - 금주간](https://www.businesstoday.com.tw/article/category/154769/post/201706290007/) — 아신은 차오둥의 노래를 들은 뒤 마사에게 “가서 알아볼까, 이 사람들 천재야!”라고 말했다. 세대교체 논란에 대해서는 “세대교체와는 무관하다. 언제나 긍정적이고 적극적인 것도 피곤하다. 가끔은 다른 에너지를 분출하는 것도 아주 좋다”고 했다. 우두는 제28회 금곡상 수상 소감에서 “메이데이의 지위는 대체될 수 없다”고 말했다.
+
+[^9]: [차오둥 드러머 판판 격리 중 사망 + IG 원문 - 중국시보 뉴스망](https://www.chinatimes.com/realtimenews/20211030003228-260404) — 2021-10-30 차이이판, 판판, 26세, 이 타이베이 방역 호텔에서 숨진 채 발견되었다. 10-25 중국 대륙 투어를 마치고 타이완으로 돌아와 입소했다. 10-29 밤 IG에 무너진 심경을 담은 글 “언니가 격리 끝나자마자 모든 짐을 들고 네 곁으로 달려가 네 인생의 마지막을 함께할게, 언니가 사랑해”를 남겼다. 14세 반려견 “투더우”는 그와 12년을 함께했고 위독했으나, 그는 집에 돌아가 마지막 길을 함께할 수 없었다.
+
+[^10]: [우두가 IG에 남긴 판판에게 보내는 메시지 - 경주간](https://www.mirrormedia.mg/story/20211031ent003) — 2021-11-17, 판판 사망 18일 뒤, 보컬 우두는 Instagram에 “며칠째 생각이 혼란스럽고, 자기 의심과 후회의 순환 속에 갇혀 있다……더 나은 동행을 해 주지 못해 매우 유감이다”라고 공개적으로 썼다.
+
+[^11]: [〈침대〉 2023 복귀 싱글의 7년 현장 역사 - HackaZine](https://hackazine-tw.com/no-party-for-cao-dong-the-clod/) — 2023-04-07 밴드는 판판 사망 이후 첫 싱글 〈침대〉와 가사 영상을 발표했다. 이 노래는 사실 2016년부터 현장에서 이미 연주되었고, 7년을 기다린 뒤 녹음 발매되었다. 새 앨범을 판판에게 바친다는 공개 성명도 있었다.
+
+[^12]: [《와허》 앨범 콘셉트와 《사기》 고사 - 방격자 Vocus](https://vocus.cc/article/64704f92fd897800015188e3) — 2023-05-20 《와허》 발매, 《추뉴얼》 이후 7년 만이었다. 앨범명 “와허” 두 글자는 《사기·유림열전》의 “陳涉起匹夫，驅瓦合謫戍，旬月以王楚”에 보인다. 확장 의미 “깨진 기와가 서로 맞물림”의 전체 고사는 별도로 [^19], 차이위 고증에 따르면 《한서》 안사고 주석에서 나온다. 속표지에는 “삼가 이 앨범을 판판에게 바친다”라고 쓰였고, 〈단〉(Damn)은 마지막 신곡으로 “사랑해”를 부르며 판판에게 바친다.
+
+[^13]: [프로듀서 저우이둔 인터뷰: 차오둥은 “후회를 표현하는 앨범” - Blow 취음악](https://blow.streetvoice.com/68312/) — 프로듀서 저우이둔은 《와허》를 “후회와 인생의 여러 실망을 표현하는 앨범”이라고 해석했다. 또 자신의 제작 철학을 “내가 가장 덜 걱정하는 것은 음질 그 자체다. 내가 관심을 두는 것은 결과가 음악인의 비전과 맞는지, 그리고 그들이 협업 속에서 편안함을 느끼는지다”라고 설명했다. “차오둥이 음악을 대하는 모습은 완전히 정직하다”고도 했다.
+
+[^14]: [《와허》 “자살 유족 앨범” 평론 - 방격자 Vocus](https://vocus.cc/article/64704f92fd897800015188e3) — 평론은 《와허》를 “자살 유족의 앨범”으로 정의했다. 앞의 세 곡은 죽음의 주제, 익사와 자기 파괴 이미지를 계속 밀고 나가고, 중간 기악 Interlude는 “부유하고 붙잡을 수 없는” 분위기를 조성한다. 말미의 전환부는 분노를 내려놓고 “고요히 애도”하는 쪽으로 향하며, 마지막 곡에서 보컬은 “거의 절규하듯” 그리움과 계속 살아갈 결심을 표현한다.
+
+[^15]: [제35회 금곡상 “죽음의 조” 최우수 밴드 경쟁 분석 - TNL 관건평론망](https://www.thenewslens.com/article/204361) — 제35회 금곡상 최우수 밴드 후보군, 차오둥, Fire EX., Accusefive 등 6팀, 은 언론에서 “죽음의 조”라고 불렸다. 차오둥이 《와허》로 두각을 드러내 3관왕을 차지한 경쟁 맥락을 분석했다.
+
+[^16]: [우두 창작 철학 — 2016 Blow 취음악 전체 인터뷰](https://blow.streetvoice.com/16090/) — 우두의 드문 2016년 정식 인터뷰. 창작 과정에 대해 “이 인물이 때로는, 대부분은 우리 자신, 의 투사일 때 주변 사람과 일에서 소재를 취한다”고 말했고, 음악적 의도에 대해서는 “사실 특별히 무엇을 하겠다고 설정한 것은 없다”고 했다. 정서적 핵심은 “사실 모두……사랑으로 가득하다”였고, 폭력적으로 들리는 외양에 대해서는 “폭력적으로 들리지만 사실은 모두 사랑으로 가득하고, 폭력에 반대한다”고 설명했다.
+
+[^17]: [차오둥 2018 글로벌 투어 - Hypebeast](https://hypebeast.com/hk/2018/12/no-party-for-cao-dong-taiwan-concerts-2019) — 2018년 밴드 복귀 뒤 전 세계 40회 이상 투어. 유럽: 12-14 런던, 12-16 베를린, 12-20 암스테르담. 일본, 미국 SXSW + North by Northeast, 중국 대륙. 2019-01-05 타이베이 최종 추가 공연으로 마무리했다.
+
+[^18]: [《추뉴얼》 앨범 구성 - 위키백과](https://zh.wikipedia.org/zh-tw/%E9%86%9C%E5%A5%B4%E5%85%92_%28%E5%B0%88%E8%BC%AF%29) — 《추뉴얼》 12곡 전체 목록: Intro / 추 / 란니 / 용감한 사람 / 다펑추이 / 아이마 / 덩 / 구이 / 짜이 / 산하이 / 우리 / 정가. 38분 57초. 밴드가 자비로 제작하고 문화부 보조금을 받아 독립 유통망으로 발매한 대표적 작품이다.
+
+[^19]: [앨범 평론｜차오둥메이유파이두이 《와허》｜이제야 수심의 맛을 알다, 큰바람이 인둥산으로 불어든다 - 순성입좌](https://songstoryworks.com/albumreviews-no-party-for-cao-dong-the-clod/) — 저자 차이위의 2023-09-16 평론은 “와허” 고사의 두 층 출처를 완전히 고증했다. 《사기·유림열전》의 “와허” 두 글자 + 확장 의미 “깨진 기와가 서로 맞물리는 것과 같아, 모였다고는 하나 고르거나 같지 않다”는 당나라 안사고가 《한서·역륙주류숙손전》에 붙인 주석에서 나온다. 우두의 원문 “생명은 본래 이처럼 취약하고, 만물의 죽음은 결코 끝이 아니라 다른 형태의 동행이 이어지는 것”을 온전히 인용했다. 〈항아리〉 가사 축자 인용과 음악 구조 분석, 《와허》 vs 《추뉴얼》의 비판적 작품 밀도 비교, 전자는 4곡의 비판 → 후자는 〈항아리〉 〈공〉 2곡뿐, 핵심 논점 “〈인둥산〉 이후 안쪽으로 닫히는 형세” + “청년 세대의 종결”을 제시했다. 이 평론의 저자 차이위는 2026-04-18 Taiwan.md 차오둥 포자 #33 Threads 댓글란에서 본문 초고가 “‘《사기》의 ‘깨진 기와가 서로 맞물림’”이라고 잘못 썼다고 직접 지적했고, 이 원문 고증을 제공했다. 본문 2판, 2026-04-19, 은 그 고증에 따라 고사 출처를 전면 수정했다.

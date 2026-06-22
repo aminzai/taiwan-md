@@ -23,9 +23,9 @@ lastVerified: 2026-06-04
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4a673b61d3e24bb9'
-sourceBodyHash: 'sha256:9b3f0ed2efd5fc46'
+sourceCommitSha: '81e82684'
+sourceContentHash: 'sha256:61a81bd86d128a32'
+sourceBodyHash: 'sha256:245fe840b0ecd828'
 translatedAt: '2026-06-16T16:40:09Z'
 ---
 
@@ -209,6 +209,7 @@ Il n'est pas devenu plus intelligent que les autres. Il a simplement poussé au 
 - [Développement et stratégie future de l'intelligence artificielle à Taïwan](/technology/台灣人工智慧發展與未來策略) — De la chaîne d'approvisionnement matérielle aux applications d'IA, la position et les choix de Taïwan dans cette vague
 - [L'industrie robotique taïwanaise](/technology/台灣機器人產業) — L'« IA physique » et l'intelligence incarnée mises en avant par Computex 2026, et les fondations de la chaîne d'approvisionnement robotique taïwanaise
 - [Développement de la chaîne industrielle taïwanaise du véhicule électrique](/technology/台灣電動車產業鏈發展) — Comment les mêmes sous-traitants électroniques passent de l'assemblage d'ordinateurs à celui de voitures et de robots
+- [NVIDIA à Taïwan : l'entreprise la plus chère du monde n'a fabriqué aucune de ses puces elle-même](/technology/NVIDIA在台灣) — Derrière ce mur de 55 logos de fournisseurs taïwanais : la relation de pouvoir entre NVIDIA et la chaîne d'approvisionnement taïwanaise, et l'histoire d'une ville qui a libéré un terrain pour elle
 
 ## Sources des images
 

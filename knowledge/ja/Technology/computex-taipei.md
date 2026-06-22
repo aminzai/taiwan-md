@@ -23,9 +23,9 @@ lastVerified: 2026-06-04
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4a673b61d3e24bb9'
-sourceBodyHash: 'sha256:9b3f0ed2efd5fc46'
+sourceCommitSha: '81e82684'
+sourceContentHash: 'sha256:61a81bd86d128a32'
+sourceBodyHash: 'sha256:245fe840b0ecd828'
 translatedAt: '2026-06-16T17:04:12Z'
 ---
 
@@ -209,6 +209,7 @@ Computex が他より賢くなったわけではありません。正しい場�
 - [台湾の人工知能発展と未来戦略](/technology/台灣人工智慧發展與未來策略) — ハードウェア・サプライチェーンから AI 応用まで、この波の中で台湾が占める位置と選択
 - [台湾ロボット産業](/technology/台灣機器人產業) — Computex 2026 が主軸に据えた「フィジカル AI」と身体化された知能、台湾ロボット・サプライチェーンの基盤
 - [台湾電気自動車産業チェーンの発展](/technology/台灣電動車產業鏈發展) — 同じ電子受託製造企業群が、コンピュータの組み立てから自動車、ロボットの組み立てへどう広がっているか
+- [NVIDIA と台湾：世界一高い会社、そのチップは一枚も自社では作っていない](/technology/NVIDIA在台灣) — 55 社の台湾サプライヤーのロゴが並ぶあの壁の裏側、NVIDIA と台湾サプライチェーンの力関係、そしてひとつの都市が NVIDIA のために土地を空けた物語
 
 ## 画像出典
 

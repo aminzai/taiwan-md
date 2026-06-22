@@ -30,9 +30,9 @@ sporeLinks:
     date: '2026-06-01'
     url: 'https://x.com/taiwandotmd/status/2061379958304584103'
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4a673b61d3e24bb9'
-sourceBodyHash: 'sha256:9b3f0ed2efd5fc46'
+sourceCommitSha: '81e82684'
+sourceContentHash: 'sha256:61a81bd86d128a32'
+sourceBodyHash: 'sha256:245fe840b0ecd828'
 translatedAt: '2026-06-16T17:03:25Z'
 ---
 
@@ -214,6 +214,7 @@ It did not become smarter than its rivals; it simply grew in the right place. Ex
 - [Taiwan AI Development and Future Strategy](/technology/台灣人工智慧發展與未來策略) — From hardware supply chain to AI applications, Taiwan’s position in this wave.
 - [Taiwan Robotics Industry](/technology/台灣機器人產業) — The “embodied AI” focus of Computex 2026 and the domestic robotics supply chain.
 - [Taiwan Electric‑Vehicle Industry Chain Development](/technology/台灣電動車產業鏈發展) — The same electronics OEMs that assemble computers now extend to cars and robots.
+- [NVIDIA in Taiwan: The World’s Most Valuable Company Doesn’t Make a Single Chip Itself](/technology/NVIDIA在台灣) — Behind that wall of 55 Taiwanese supplier logos: NVIDIA’s power relationship with Taiwan’s supply chain, and how one city cleared land for it.
 
 **Image Credits**
 

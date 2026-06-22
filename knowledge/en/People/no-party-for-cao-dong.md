@@ -1,316 +1,336 @@
 ---
-title: 'No Party for Cao Dong: Twelve Years from a Yangmingshan Street Corner to Two Golden Melody Best Band Awards'
-description: "At the 28th Golden Melody Awards in 2017, a four-piece band that self-pressed 2,000 CDs swept three trophies, decisively defeating Mayday. They vanished for seven years — a span that crossed drummer Fan Fan's death in a quarantine hotel in 2021 and two years of silence. In 2023 they returned with *Whe·Re*, and at the 35th Golden Melody Awards in 2024 they claimed a triple crown: Album of the Year, Best Mandarin Album, and Best Band. Their manager accepted on their behalf: 'No Party for Cao Dong has never been only the 4 people standing on stage.'"
+title: 'No Party for Cao Dong: Twelve Years from Cao Dong Street on Yangmingshan to Two Golden Melody Best Band Wins'
+description: "At the 28th Golden Melody Awards in 2017, a four-piece band that had self-funded a pressing of 2,000 CDs overwhelmingly defeated Mayday and won three awards. They disappeared for seven years, a period that spanned drummer Fanfan's death in a quarantine hotel in 2021 and two years of silence. In 2023 they returned with The Clod; at the 35th Golden Melody Awards in 2024 they won the triple crown of Album of the Year, Best Mandarin Album, and Best Band, with their manager accepting on their behalf: “No Party for Cao Dong has never been only the four people standing onstage.”"
 date: 2026-04-18
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '音樂與表演'
 tags:
   [
     'People',
     'No Party for Cao Dong',
     'Wudu',
-    'Fan Fan',
-    'Tsai Yi-Fan',
-    'Yang Shih-Hsuan',
-    'band',
+    'Fanfan',
+    'Tsai Yi-fan',
+    'Yang Shih-hsuan',
+    'Band',
     'Golden Melody Awards',
     'Best Band',
-    'Ugly Girl',
-    'Whe·Re',
-    'independent music',
-    'post-rock',
-    'loser generation',
+    'The Servile',
+    'The Clod',
+    'Independent Music',
+    'Post-rock',
+    'Loser Generation',
   ]
-category: People
-subcategory: 音樂與表演
-author: 'Taiwan.md'
-featured: false
-readingTime: 17
-lastVerified: 2026-04-18
+readingTime: 18
+lastVerified: 2026-06-22
 lastHumanReview: true
-researchReport: reports/research/2026-04/草東沒有派對.md
-sporeLinks:
-  - id: 33
-    platform: 'threads'
-    date: '2026-04-18'
-    url: 'https://www.threads.com/@taiwandotmd/post/DXQ_in_Ew0*'
-  - id: 34
-    platform: 'x'
-    date: '2026-04-18'
-    url: 'https://x.com/taiwandotmd/status/2045412116665172331'
-translatedFrom: People/草東沒有派對.md
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:c93963fdd3e6600a'
-sourceBodyHash: 'sha256:5d39f10852397392'
-translatedAt: '2026-06-10T16:43:34Z'
-perspectives:
-  - author: 'songstoryworks (Tsai-Yu)'
-    text: "'Whe·Re' (瓦合) appears in the Shiji (Records of the Grand Historian), Confucian Scholars section. The extended meaning — 'like broken tiles fitted together, though gathered they are not uniform' — comes from Tang dynasty scholar Yan Shigu's annotation to the Book of Han, Biographies of Li, Lu, Zhu, Liu, and Shusun. The extended meaning derives from the Book of Han, and the annotation was not written until the Tang dynasty."
-    dimension: 'Allusion verification (professional music critic)'
-    source: 'Threads spore #33 comment, 2026-04-18 23:09 (with link to original review at songstoryworks.com; article v2 revised comprehensively on 2026-04-19 based on this research)'
-  - author: 'ste_ven_1487'
-    text: "Who is bassist Huang Shih-Hsuan — isn't it Yang Shih-Hsuan?"
-    dimension: 'Factual correction (reader catch)'
-    source: "Threads spore #33 comment, 2026-04-18 ~19:00 (triggered a commit fix within 3 hours changing 'Huang Shih-Hsuan' to 'Yang Shih-Hsuan' — first live verification of reader-driven fact correction)"
-  - author: 'r3dlin'
-    text: 'Broken tiles fitted together, gathered yet not uniform'
-    dimension: 'Allusion expansion (reader supplement)'
-    source: "Threads spore #33 comment, 2026-04-18 18:32 (with image captioned 'I take this as a reminder to myself')"
-  - author: 'tiongkhola'
-    text: 'Watching AI write about its own story 🤔'
-    dimension: 'AI authorship skepticism × Tagging the subject'
-    source: 'Threads spore #33 comment, 2026-04-18 17:28 (tagged @leo666789 — original drummer Liu Li; first real-person tag verification of MANIFESTO §5 v2 documentary writing)'
-  - author: 'guangze_zunwang_'
-    text: 'No Party for Cao Dong in my headphones / an endless road ahead / some answers / you have to ride far to understand'
-    dimension: "Poetic resonance (reader's personal scene)"
-    source: 'Threads spore #33 comment, 2026-04-19 ~23:00 (quoting own poem from 2026-03-26 + #NoParyforCaoDong tag)'
-  - author: 'qzop78335'
-    text: 'Now I want to listen to Cao Dong again'
-    dimension: 'Ripple effect (listening intention triggered)'
-    source: 'Threads spore #33 comment, 2026-04-19 ~23:00'
-  - author: 'yang__1211'
-    text: "I don't understand what the last paragraph is trying to say"
-    dimension: 'Reader confusion (comprehension barrier at ending)'
-    source: "Threads spore #33 comment, 2026-04-18 ~22:00 (possibly referring to the article ending with the manager's acceptance speech)"
-  - author: 'ceider_01101'
-    text: 'Enjoy good music, friends 😌'
-    dimension: 'Diffusion recommendation'
-    source: 'Threads spore #33 comment, 2026-04-18 16:39'
+featured: false
+translatedFrom: 'People/草東沒有派對.md'
+sourceCommitSha: 'e79c30b8d'
+sourceContentHash: 'sha256:ee418e919ecc7897'
+sourceBodyHash: 'sha256:f40e32cfe1b0be26'
+translatedAt: '2026-06-23T00:40:05+08:00'
 ---
 
-> **30-second overview:** No Party for Cao Dong is a four-piece independent band founded in 2012 at the intersection of Jianxian Street and Caodong Street in Yangmingshan, Taipei. In 2016 they self-pressed 2,000 handmade CDs that sold out in three days; in 2017 at the 28th Golden Melody Awards they won Best Band (defeating Mayday), Best New Artist, and Song of the Year ([〈The Big Wind Blows〉](https://www.youtube.com/watch?v=HqmpIQ9l-uA)) with first-round votes of 19, 19, and 18. On October 30, 2021, drummer Fan Fan (Tsai Yi-Fan, age 26) was found dead in a Taipei quarantine hotel, and the band fell into nearly two years of silence. On May 20, 2023, they released their second album _Whe·Re_ (瓦合) — "whe·re" (瓦合) appears in the Shiji's "Confucian Scholars" chapter, and its extended meaning "broken tiles fitted together, though gathered they are not uniform" comes from Tang dynasty scholar Yan Shigu's annotation to the Book of Han.[^19] In 2024 _Whe·Re_ won the 35th Golden Melody Awards' Album of the Year, Best Mandarin Album, and Best Band — a triple crown. The band was absent that evening; their manager accepted on their behalf and declared: "No Party for Cao Dong has never been only the 4 people standing on stage." This is a twelve-year story whose core is **loss, silence, return — then loss again, silence again, return again**.
+> **30-second overview:** No Party for Cao Dong is a four-piece independent band founded in 2012 at the "intersection of Jianxian Street and Cao Dong Street" on Yangmingshan in Taipei. In 2016, they self-funded 2,000 handmade CDs and sold them out in three days; at the 28th Golden Melody Awards in 2017, they won Best Band, defeating Mayday, Best New Artist, and Song of the Year, [“Simon Says”](https://www.youtube.com/watch?v=HqmpIQ9l-uA), by overwhelming first-round vote counts of 19, 19, and 18. On October 30, 2021, drummer Fanfan (Tsai Yi-fan, age 26) died in a Taipei quarantine hotel, and the band fell into nearly two years of silence. On May 20, 2023, they released their second album, _The Clod_. The term _wahe_ appears in “Biographies of Confucian Scholars” in _Records of the Grand Historian_; its extended meaning, “broken tiles joined together, gathered but not made uniform,” comes from the Tang dynasty scholar Yan Shigu’s annotation to “Biographies of Li, Lu, Zhu, Liu, Shusun” in the _Book of Han_.[^19] In 2024, _The Clod_ won the 35th Golden Melody Awards triple crown of Album of the Year, Best Mandarin Album, and Best Band; the band was absent on the night of the ceremony, and their manager accepted on their behalf, declaring: “No Party for Cao Dong has never been only the four people standing onstage.” This is a twelve-year story whose core is **loss, silence, return; then loss again, silence again, return again**.
 
-On the evening of June 29, 2024, at the 35th Golden Melody Awards ceremony, No Party for Cao Dong took home three major trophies: Album of the Year, Best Mandarin Album, and Best Band. But no one walked on stage.[^1]
+On the evening of June 29, 2024, at the 35th Golden Melody Awards ceremony, No Party for Cao Dong won three major awards: Album of the Year, Best Mandarin Album, and Best Band. But no one went onstage.[^1]
 
-The band was performing that night at Bubble Island Music Festival in Guiyang, China, and was not present. Their manager stepped up in their place and said:
+The band was performing that night at the Bubble Island Music Festival in Guiyang, China, and was not present at the ceremony. Their manager went onstage in their place and said:
 
-> "In our hearts, No Party for Cao Dong has never been only the 4 people standing on stage, but every person who wholeheartedly participates in those 6 characters."[^1]
+> “In our hearts, No Party for Cao Dong has never been only the four people standing onstage, but every person who has joined together in these six characters.”[^1]
 
-Those words landed in silence. Everyone who knew their story understood that "not only 4 people" was not a rote acceptance speech — it was a band's direct acknowledgment of a member who had died three years earlier.
+That line brought a quiet over the room. Everyone who knew their story understood that “not only four people” was not a routine artist’s thank-you. It was a band’s direct recognition of a member who had died three years earlier.
 
-This is the best entry point for understanding No Party for Cao Dong's twelve years: not the night in 2017 when they beat Mayday, but the night in 2024 when they didn't show up to collect their own awards.
+This is the best entry point for understanding No Party for Cao Dong’s twelve years: not the night in 2017 when they defeated Mayday, but the night in 2024 when they themselves were not there.
 
-📝 Curator's note: Cao Dong's story is not the arc of "rise, success, sustain." It is the story of "explosion, disappearance, return — interrupted by death — then return again." Understanding this rhythm is the only way to understand why they are the most important voice in Mandarin independent music over the past decade.
+📝 Curator’s note: Cao Dong’s story is not a band history of “rise, success, maintenance.” It is a story of “explosion, disappearance, one return, then interruption by death, then another return.” Only by understanding this rhythm can one understand why they have been the most important voice in Mandarin-language independent music over the past decade.
 
-### High school classmates drifting around Yangmingshan on motorcycles
+```tw-timeline
+Twelve years: between two crowns, a death
+2012 | Cao Dong Street on Yangmingshan | Students from the Taipei National University of the Arts circle formed a band at the Jianxian Street intersection, starting from dance-punk
+2016 | 2,000 handmade CDs | The Servile sold out in three days, with Ministry of Culture funding and no record company
+2017 | “These guys are geniuses” | An overwhelming first-round triple win at the 28th Golden Melody Awards, defeating Mayday
+2021 | Tudou, 14 years, 15 hours | Drummer Fanfan died in a quarantine hotel at 26; the band was silent for nearly two years
+2023 | The seven-year wait for “Lie” | They returned with an old song they had performed for seven years; The Clod was dedicated to Fanfan
+2024 | No one onstage | They won three more awards at the 35th Golden Melody Awards; the band was in Guiyang, and their manager accepted for them
+Source: Compiled from Wikipedia, Golden Melody Awards winner lists, and band interviews
+```
 
-The story begins on June 9, 2012.[^2] At the intersection of Jianxian Street and Caodong Street on Yangmingshan in Taipei (near Lane 34, Alley 245, Yonggong Road), a group of students with arts-school backgrounds who loved playing instruments gathered together. Wudu (birth name Lin Keng-Yu) and Zhuzhu (Chan Wei-Zhu) were high school classmates who often rode motorcycles together around Yangmingshan and messed around with instruments.
+## High School Classmates Wandering Yangmingshan on Scooters
 
-The band's name went through three stages: it started as "Left Turn at Caodong Street," then became "Caodong Street Party," and finally settled into "No Party for Cao Dong" in 2014.[^2] The first version was a dance-punk sound inspired by Two Door Cinema Club; after the 2014 rename, the music shifted: from dance-punk toward grunge and post-rock influenced by Nirvana.
+The story began on June 9, 2012.[^2] At the intersection of Jianxian Street and Cao Dong Street on Yangmingshan in Taipei, near Lane 245, Alley 34 of Yonggong Road, several students with Taipei National University of the Arts backgrounds who liked to mess around with instruments gathered there. Wudu (real name Lin Keng-yu) and Chu Chu (Chan Wei-chu) were high school classmates who often wandered around Yangmingshan together on scooters and skateboarded.
 
-The name change itself was a declaration: the party is over.
+![A black-and-white group photo of the four members of No Party for Cao Dong, four figures scattered on an empty asphalt road lined with silvergrass and stretching toward distant hills](/article-images/people/caodong-band-road.webp)
 
-### Liu Li, Sam, Fan Fan: the band across four drummers
+_Official promotional group photo of No Party for Cao Dong: four figures scattered on an empty road stretching toward the hills, matching the estranged way their work often makes people appear very small. Photo: Official promotional image / Apple Music._
 
-To understand Cao Dong's current four-person lineup, you first need to understand how the lineup evolved.
+The band’s name went through three stages of evolution: at first it was “Turn Left on Cao Dong Street,” then “Cao Dong Street Party,” and in 2014 it finally settled into “No Party for Cao Dong.”[^2] The first version was dance-punk inspired by Two Door Cinema Club; after the 2014 name change, the music changed direction as well, shifting from dance-punk toward Nirvana-inspired grunge and post-rock.
 
-The original drummer was **Liu Li**, who later shifted to full-time work in band filmmaking and cinema production. He never actually left Cao Dong — his role just changed from drummer to documentarian.[^2] The second bassist was **Sam**, who caused the band to halt for almost a year when he was called up for mandatory military service.
+The name change itself was a declaration: the party was over.
 
-In 2016, the drummer position was taken over by **Fan Fan** (Tsai Yi-Fan), who came from another independent band, Triple Deer. Fan Fan's official debut with Cao Dong was at the "Not Born the Same" 2.0 concert on May 21, 2016.[^2]
+## Liu Li, Sam, Fanfan: The Band Between Four Drummers
 
-In 2023, original bassist Yang Shih-Hsuan announced an indefinite suspension from public activity; original drummer Niaoren (Huang Shih-Wei) came back to fill in. The current (2026) lineup is four people:
+To understand Cao Dong’s current four-person lineup, one first has to understand how that lineup evolved.
 
-- **Wudu** (Lin Keng-Yu): lead vocals, guitar, primary songwriter
-- **Zhuzhu** (Chan Wei-Zhu): rhythm guitar, backing vocals
-- **Niaoren** (Huang Shih-Wei): drums
-- **Dennis** (Chang Hao-Tang): bass
+The first drummer was **Liu Li**, who later shifted to working full-time on band video production and filmmaking. In fact, he never really left Cao Dong; his role simply changed from drummer to documentarian.[^2] The second-generation bassist was **Sam**; later, the band paused for nearly a year because he had to perform military service.
 
-The most important position in the middle — drummer — changed four times in 12 years. And the third one, Fan Fan, died in 2021.
+In 2016, the drummer’s seat was taken over by **Fanfan** (Tsai Yi-fan), who came from another independent band, Triple Deer. Fanfan’s official appearance with Cao Dong was at the “Not All Born by Mom 2.0” show on May 21, 2016.[^2]
 
-### Those 2,000 handmade CDs
+In 2023, original bassist Yang Shih-hsuan announced an indefinite pause from front-stage activities; former drummer Birdman (Huang Shih-wei) returned to take over again. The current lineup in 2026 is four people:
 
-On February 19, 2016, _Ugly Girl_ (醜奴兒) was released digitally; on March 11 the physical CD dropped, pressed only 2,000 copies, all handmade, stocked exclusively at 11 independent coffee shops and record stores across Taiwan.[^3]
+- **Wudu** (Lin Keng-yu): vocals, guitar, main songwriter
+- **Chu Chu** (Chan Wei-chu): rhythm guitar, backing vocals
+- **Birdman** (Huang Shih-wei): drums
+- **Dennis** (Chang Hao-tang): bass
 
-Sold out in three days.
+The most important position in the middle, drummer, changed hands four times in twelve years. The third of them, Fanfan, died in 2021.
 
-The album has 12 songs, 38 minutes and 57 seconds. Producer: Li Hsiao-Tsu; mixing engineer: Andy Baker (USA); mastering engineer: Joel Hatstat (Georgia, USA). Total production time: four months.[^3] Funding came from a Ministry of Culture grant — no label, no management, no mainstream distribution.
+## The Handmade CD Pressing of 2,000
 
-One unusual sonic detail in this album's design: [〈The Big Wind Blows〉](https://www.youtube.com/watch?v=HqmpIQ9l-uA) specifically layers live audience voices over studio-recorded tracks — allowing two kinds of "space" to coexist in the same song: the space of being watched, and the space of being alone.[^3] This technical choice foreshadowed the band's entire aesthetic: **the surface addresses the world, the interior is self-talk**.
+The digital version of _The Servile_ was released on February 19, 2016; the physical CD was released on March 11. Only 2,000 copies were pressed, all handmade, and they were stocked only at 11 independent cafes and record shops across Taiwan.[^3]
 
-### "The Big Wind Blows" as wound documentation
+They sold out in three days.
 
-[〈The Big Wind Blows〉](https://www.youtube.com/watch?v=HqmpIQ9l-uA) hit 95,000 YouTube views six months after release and broke 500,000 within a year.[^4] But the song's impact lies not in numbers but in how it became the common language of a generation.
+The full album has 12 tracks and runs 38 minutes and 57 seconds. It was produced by Lee Hsiao-tsu, with American mixing engineer Andy Baker and Georgia mastering engineer Joel Hatstat brought in. The entire production period lasted four months.[^3] The album was funded by a Ministry of Culture grant, with no record company, no manager, and no mainstream distribution channel.
 
-The song was written against the backdrop of the 2015 Taiwan anti-curriculum-adjustment movement: students took to the streets; a student leader died by suicide.[^5] Wudu compressed those memories, along with his own experience of school bullying, into a single set of lyrics.
+One unusual detail in the album’s musical design appears in [“Simon Says”](https://www.youtube.com/watch?v=HqmpIQ9l-uA): it specially layers live audience voices with studio recording, letting two “spaces” exist simultaneously within the song, the space of being watched and the space of being alone.[^3] This technical choice foreshadowed the band’s later aesthetic as a whole: **on the surface, shouting at the world; inside, talking to oneself**.
 
-On the surface the lyrics reference the children's game "Musical Chairs" (大風吹); underneath are three distinct stories: a generational metaphor of resource competition, an existential feeling of being trapped in time ("Blame it on time / it gave us a starting point / blame it on time / it gave us an ending point"), and Wudu's personal experience of being bullied.[^5]
+## “Simon Says” as Wound Inspection
 
-Music critic Ma Shih-Fang later framed Cao Dong's generation as the **"loser generation"**:
+On February 14, 2018, the official music video for [“Simon Says”](https://www.youtube.com/watch?v=HqmpIQ9l-uA), directed by first drummer Liu Li, went online on YouTube. By April 2020, the video had accumulated more than 5.4 million views, and even the earlier demo posted on StreetVoice had 210,000 listens.[^4] But the song’s influence does not lie in the numbers. It lies in its becoming a shared language for a generation.
 
-> "Lyrics sharp as knives, a bottomless nihilism at their core — they became verse cherished and shared by the 'collapsing generation' of youth."[^6]
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/HqmpIQ9l-uA" title="草東沒有派對 - 大風吹 Simon Says【Official Music Video】" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-This framing became fact over the following decade: at NTUST, a poll asking "which song best represents my generation" placed 〈The Big Wind Blows〉 at the top for six consecutive years; MC HotDog sampled the song; NTU sociology assistant professor Li Ming-Tsung's Fall 2017 course "Sociology of Failure" packed 600+ students into a room.[^7] A song can do all of this not because it sounds good, but because it **speaks what an entire generation could not say for themselves**.
+_Official music video for “Simon Says,” directed by first drummer Liu Li (2018). Having left the drummer’s seat, he used the camera to preserve this song as a generation’s shared memory. Source: No Party for Cao Dong official YouTube channel._
 
-### The night of "these people are geniuses"
+The song was written against the traumatic backdrop of Taiwan’s 2015 movement against high school curriculum guideline adjustments: students took to the streets, and a student leader died by suicide.[^5] Wudu compressed those memories, along with his own experience of school bullying, into a set of lyrics.
 
-June 24, 2017: the 28th Golden Melody Awards. No Party for Cao Dong was nominated for 6 awards and won 3, with first-round votes that were overwhelmingly decisive: Best New Artist 19 votes, Best Band 19 votes, Song of the Year 〈The Big Wind Blows〉 18 votes.[^6]
+On the surface, the lyrics refer to the children’s game _Da Feng Chui_, similar to musical chairs; underneath are three different layers of story: a generational metaphor for competition over resources, a sense of existence trapped by time (“Blame it on time / it gave a beginning / blame it on time / it gave an end”), and Wudu’s personal experience of being bullied.[^5]
 
-Awards committee chair Huang Yun-Ling described the band as **"an outburst from the suffocated generation"**: "They brought a tremendous impact, shattering everyone's understanding of what sound can be."[^6]
+Later, music critic Ma Shih-fang positioned Cao Dong’s generation as the “**loser generation**”:
 
-The most storied detail from that night was Mayday frontman Ashin's reaction. After hearing Cao Dong's songs, he told bassist Masa backstage: "Should we go say hi? These people are geniuses!"[^8]
+> “The lyrics cut with every line; at their core is a nihilism with absolutely no way out, becoming lines that youths of the ‘collapsing generation’ delight in passing around.”[^6]
 
-The media quickly simplified the story to "generational handover": an independent band that self-pressed their CDs beat the giants of Mandarin rock. But Ashin himself rejected that narrative: "It has nothing to do with generational handover. Always being positive and upbeat is exhausting — it's also great to have a different kind of energy to let loose sometimes."[^8]
+Over the following decade, that positioning became fact: a National Taiwan University of Science and Technology poll on “the song that best represents my generation” placed “Simon Says” near the top for six consecutive years; MC HotDog sampled the song; and the “Sociology of Losers” course opened in fall 2017 by National Taiwan University Department of Sociology assistant professor Lee Ming-tsung packed the classroom with more than 600 students.[^7] A song can do these things not because it sounds good, but because it **said for an entire generation what they had not said aloud themselves**.
 
-When Wudu accepted the Best Band award, he also refused the narrative. He said: "This award belongs to everyone." At Best New Artist, fighting back tears: "We're very fortunate that there's always a group of people, amid all this nothingness, who keep working hard to find their own sound." And on Mayday:
+## The Night of “These Guys Are Geniuses”
 
-> "We're not looking at this as a competition. Mayday's place is irreplaceable."[^8]
+On June 24, 2017, at the 28th Golden Melody Awards ceremony, No Party for Cao Dong was nominated in six categories and won three, all by overwhelming first-round victories: Best New Artist with 19 votes, Best Band with 19 votes, and Song of the Year for “Simon Says” with 18 votes.[^6]
 
-Two generations of bands in the same evening, each making room for the other — this should have been the emotional peak of the night. But the media grabbed the "beat Mayday" headline and missed the **moment of mutual recognition**.
+```tw-stat
+Three numbers for a self-funded band
+2,000 copies | Handmade CDs sold out in three days | The Servile, 2016, Ministry of Culture funding, no record company
+3 awards | Overwhelming first-round wins at the 28th Golden Melody Awards | Best New Artist / Best Band / Song of the Year, defeating Mayday
+2 wins | Golden Melody Best Band | 2017 and 2024, separated by Fanfan’s death and two years of silence
+Source: Golden Melody Awards winner lists
+```
 
-📝 Curator's note: Cao Dong and Mayday were never rivals. They are two answers from two generations to the question "what can rock do?": Mayday says it's a public embrace; Cao Dong says it's a private pain. Both answers are correct.
+Jury chair Kay Huang described the band as “**the explosion of a muted generation**”: “They brought an enormous impact and broke people’s understanding of sound.”[^6]
 
-### Potato, 14 years, 15 hours
+The most narratively charged detail at the time was the reaction of Mayday’s Ashin. After hearing Cao Dong’s songs, he told Masa backstage: “Should we go meet them? These guys are geniuses!”[^8]
+
+The media quickly simplified the story into “generational succession”: an independent band that had self-funded its CDs defeated the giant of Mandarin-language rock. But Ashin himself did not buy that narrative: “It has nothing to do with generational succession. Being forever positive and proactive is tiring too; occasionally having a different energy to release is also great.”[^8]
+
+When Wudu went onstage to accept the awards, he also rejected that narrative. When accepting Best Band, he said, “This award belongs to everyone.” For Best New Artist, with tears in his eyes, he said, “We are very lucky that there is always a group of people who, amid all this nothingness, keep trying to find a voice that belongs to themselves.” And regarding Mayday:
+
+> “This is not something to view through a competitive mindset. Mayday’s position is irreplaceable.”[^8]
+
+Two generations of bands yielded space to each other on the same night. That should have been the climax of the evening. But the media seized the “defeated Mayday” headline and missed the moment of **mutual recognition**.
+
+📝 Curator’s note: Cao Dong and Mayday were never opponents. They are two generations’ two answers to the question of “what can rock do?” Mayday says it is a public embrace; Cao Dong says it is private pain. Both answers are correct.
+
+## Tudou, 14 Years, 15 Hours
 
 October 30, 2021.
 
-Drummer Tsai Yi-Fan (Fan Fan) was found dead in a Taipei quarantine hotel at age 26.[^9] She had returned from a mainland tour on October 25 and checked into the hotel, expecting to quarantine for 14 days. Her dog "Potato" had come into her life when she was 14 and had been with her for 12 years. In late October, Potato was 14 years old and critically ill.
+Drummer Tsai Yi-fan, known as Fanfan, was found dead in a Taipei quarantine hotel. She was 26.[^9] She had returned to Taiwan on October 25 after a China tour and checked into the hotel for a scheduled 14-day quarantine. Her beloved dog, Tudou, had come into her life when she was 14 and had accompanied her for 12 years. By late October, Tudou was already a 14-year-old elderly dog in critical condition.
 
-On the evening of October 29, quarantined Fan Fan wrote her last public words on Instagram:
+On the night of October 29, while in quarantine, Fanfan wrote her final public post on Instagram:
 
-> "What breaks my heart most is that I'm in quarantine and can't be by your side, can't even see you one last time. I've cried myself to breaking and I don't know how to face any of this... The first thing Older Sister will do when quarantine ends is grab all her luggage and run to your side, to be with you in the last of your life. Older Sister loves you."[^9]
+> “What hurts me most is that I’m in quarantine and can’t be by your side, and can’t even see you one last time. I’ve already cried to the point of breaking down and don’t know how to face all of this... The first thing your big sister will do when quarantine ends is carry all my luggage and run to your side, to accompany you through the end of your life. Big sister loves you.”[^9]
 
 Fifteen hours later, she was found dead in her hotel room.
 
-Eighteen days after that, on November 17, 2021, Wudu wrote publicly to Fan Fan on Instagram:
+Eighteen days later, on November 17, 2021, Wudu publicly wrote to Fanfan on Instagram:
 
-> "My thoughts have been in chaos for days, trapped in a loop of self-doubt and regret... I'm sorry I couldn't give better companionship."[^10]
+> “My thoughts have been chaotic for days, trapped in a cycle of self-doubt and regret... I am deeply sorry I could not give you better company.”[^10]
 
-The band went into nearly two years of complete silence. No new music, no interviews, no performances. In 2023, original bassist Yang Shih-Hsuan announced an indefinite hiatus.[^2] During that period, Cao Dong looked like it was entirely over.
+The band entered nearly two years of complete silence. No new songs, no interviews, no performances. In 2023, original bassist Yang Shih-hsuan announced an indefinite hiatus from the band.[^2] During that period, Cao Dong looked as if it had ended completely.
 
-📝 Curator's note: A band entering quarantine after a tour and losing a bandmate — this is a narrative unique to the COVID era. Not a heroic death, but a loss under administrative rules: quarantine policy separated Fan Fan from her dying dog, so that when death came she was alone.
+📝 Curator’s note: A band entering a quarantine hotel after a tour and then losing a teammate is a story particular to the COVID era. It is not a heroic death, but a loss under administrative rules: quarantine policy separated Fanfan from her dying dog and left her alone when death occurred.
 
-### Seven years of waiting for "Bed"
+## The Seven-Year Wait for “Lie”
 
-On April 7, 2023, No Party for Cao Dong released the single [〈Bed〉](https://www.youtube.com/watch?v=yq5KovCxq8o) with a lyric video.[^11] This was the first new song from the band since Fan Fan's death.
+On April 7, 2023, No Party for Cao Dong released the single [“Lie”](https://www.youtube.com/watch?v=yq5KovCxq8o) and its lyric video.[^11] It was the band’s first new song since Fanfan’s death.
 
-But this song had actually **been in their live sets for seven years**. They'd been performing it since 2016 but never recorded it.[^11] The reason they chose this song as the comeback single in 2023 wasn't that it was well-written — it was because it had already traveled with them for seven years, **pre-existing this loss**.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/yq5KovCxq8o" title="草東沒有派對 - 床 Lie【Official Lyric Video】" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-〈Bed〉 is not an elegy. It doesn't directly reference Fan Fan, contains no tears, no accusations. The narrative stays low: a person lying in bed unable to wake up but unable to sleep either, sung in a tone almost entirely without emotional peaks.
+_Official lyric video for “Lie” (2023): a song already performed live for seven years became the band’s first voice after losing Fanfan. Source: No Party for Cao Dong official YouTube channel._
 
-The band processed loss through low pressure — "there's no going back to that time" — rather than dramatic grief. This choice is exactly what makes Cao Dong Cao Dong: **they never exploit tragedy**.
+But the song had in fact **already been performed live by them for seven years**. They began playing it in 2016; it simply had never been recorded.[^11] The reason they chose this song as their return single in 2023 was not because it was well written, but because it had already walked with them for seven years and **existed before this loss**.
 
-### Broken tiles fitted together: the two-layer allusion from the Shiji to Yan Shigu's annotation to the Book of Han
+“Lie” is not an elegy. It does not directly mention Fanfan, has no tears, and makes no accusation. Its narrative is quiet: a person lying in bed, unable to wake up and unable to sleep, sung through in a tone with almost no emotional fluctuation.
 
-On May 20, 2023, _Whe·Re_ was released, seven years after _Ugly Girl_.[^12]
+The band handled loss through this low pressure of “there is no returning to that time,” not through dramatic grief. That choice itself is why Cao Dong is Cao Dong: they have never consumed tragedy.
 
-The album title's allusion has two layers — a distinction worth clarifying precisely, because it defines what the title actually means.
+## Broken Tiles Joined Together: Two Layers of Allusion from Records of the Grand Historian to Yan Shigu’s Annotation to the Book of Han
 
-First layer: the characters **"瓦合"** (whe·re) appear in the Shiji's "Confucian Scholars" chapter — "Chen She rose from among commoners, driving together disbanded conscripts (瓦合謫戍) and became king of Chu within a month."[^12]
+On May 20, 2023, _The Clod_ was released, seven years after _The Servile_.[^12]
 
-Second layer (more critical): the extended meaning **"like broken tiles fitted together, though gathered they are not uniform"** is **not in the Shiji original text**. It comes from Tang dynasty scholar **Yan Shigu**'s annotation to the Book of Han's "Biographies of Li, Lu, Zhu, Liu, and Shusun."[^19]
+![Cover of No Party for Cao Dong’s 2023 second studio album The Clod](/article-images/people/caodong-the-clod-2023.webp)
 
-Music critic Tsai-Yu (采郁) fully documented both layers of this allusion in her 2023 review of _Whe·Re_.[^19] The distinction matters because the literal meaning — "a group of broken tiles gathered together" — taken alone is just the pejorative "rabble" (烏合之眾); it is only with Yan Shigu's extension "though gathered they are not uniform" that it becomes **broken individuals gathered together, each retaining their own irregularity**. This annotative layer is what Cao Dong actually points to in choosing this name — not "repairing the fracture," not "uniting as one," but **continuing to coexist while remaining broken**.
+_Cover of \_The Clod_ (2023). The album title comes from _Records of the Grand Historian_; the front matter reads, “We dedicate this album to Fanfan,” making it the band’s first complete work after losing her.\_
 
-Producer Chou Yi-Tun said in an interview:
+The allusion behind the album title _wahe_ has two layers. This detail is worth distinguishing precisely because it defines what the album title is really trying to say.
 
-> "This is an album expressing regret and the various disappointments of life."[^13]
+The first layer: the two characters **瓦合** appear in “Biographies of Confucian Scholars” in _Records of the Grand Historian_: “Chen She rose from commoner status, drove together a ragtag group of conscripted border guards, and within a month became king of Chu.”[^12]
 
-The album's dedication page reads: "This album is dedicated to Fan Fan."[^12] The final new track is [〈Damn〉](https://www.youtube.com/watch?v=ovTiSA9T-RU): the vocalist nearly screams "I love you," dedicated to Fan Fan.[^13]
+The second and more crucial layer: the extended gloss “**like broken tiles joined together; though gathered, they are not uniform**” is in fact **not in the original text of _Records of the Grand Historian_**. It comes from the Tang dynasty scholar **Yan Shigu’s** annotation to “Biographies of Li, Lu, Zhu, Liu, Shusun” in the _Book of Han_.[^19]
 
-In an interview related to _Whe·Re_, Wudu spoke of how the band continued making music after Fan Fan's death:
+In her 2023 review of _The Clod_, Tsai Yu fully traced these two layers of allusion.[^19] The distinction matters because, taken alone, the literal sense “a group of broken tiles gathered together” is merely the derogatory sense of “a mob.” Only with Yan Shigu’s extension, “though gathered, they are not uniform,” does it become **broken individuals gathered together while retaining their own irregularities**. This annotative layer is the actual semantic direction of Cao Dong’s choice of title: not “repairing what is broken,” not “united as one,” but **continuing to coexist while carrying rupture**.
 
-> "Life is inherently fragile. The death of all things is never an end, but the continuation of companionship in another form."[^19]
+Producer Chou Yi-tun said of the choice of this term in an interview:
 
-This sentence explains why _Whe·Re_ doesn't sound like "getting through grief" — it sounds like **continuing to make music while living inside grief**.
+> “This is an album expressing regret and all kinds of disappointments in life.”[^13]
 
-### 〈Urn〉 and 〈Empty〉: the only remaining critical works
+The album’s front matter reads: “We dedicate this album to Fanfan.”[^12] The final new song is [“Damn”](https://www.youtube.com/watch?v=ovTiSA9T-RU), whose vocalist almost screams “I love you,” dedicating it to Fanfan.[^13]
 
-_Ugly Girl_ was dense with social critique: 〈Mud〉, 〈The Brave〉, 〈The Big Wind Blows〉, 〈Us〉 — music critic Tsai-Yu counted it up and found that in _Whe·Re_, works where you can clearly feel "critique and confrontation with society" have been reduced **to just two: 〈Urn〉 and 〈Empty〉**.[^19]
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/ovTiSA9T-RU" title="草東沒有派對 - 但 Damn【Official Video】" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-The chorus of 〈Urn〉 is the moment on this album that comes closest to the sharp-knife feeling of 2017 Cao Dong:
+_“Damn” (2023): the final new song on \_The Clod_, with the vocalist nearly screaming “I love you” to Fanfan. Source: No Party for Cao Dong official YouTube channel.\_
 
-> "So I smashed the dyeing vat / smashed the dyeing vat / only to see the sea stretching vast / and you and I still don't know where we stand"[^19]
+When Wudu spoke in interviews related to _The Clod_ about how the band continued making music after Fanfan’s death, he gave one verbatim line:
 
-The preceding section builds anticipation through delay-guitar effects and accelerating drum rhythms, then drags out a heavy guitar tone, forming a sonic contrast of "expectation and disappointment."[^19] The song's biggest hook — "smashed the dyeing vat" — lands at the very end, a structural arrangement absent from _Ugly Girl_.
+> “Life is inherently so fragile; the death of all things is never an end, but the continuation of companionship in another form.”[^19]
 
-The direction of _Whe·Re_'s other tracks, summarized in Tsai-Yu's words: **"From 〈Cavern Mountain〉 onward the album turns inward and closes off — compared to the past of raising the 'world-weary' banner and shouting, of colliding against a system that couldn't fulfill 'dreams,' it's like two completely different landscapes."**[^19]
+That line explains why _The Clod_ does not sound like “getting through grief.” It is **continuing to make music while living inside grief**.
 
-This shift from "world-weary and outward-projecting" to "world-weary and inward-turning" is a structural turn in Cao Dong's twelve years. Tsai-Yu frames it as **"the end of the youth generation"**: Cao Dong along with their audience are preparing to enter the next phase.[^19] No longer writing social critiques in the style of 〈Mud〉 — instead writing songs like 〈White Daydream〉, 〈Bed〉, 〈Old Zhang〉, 〈Sprout〉, and 〈Damn〉 that face the emotional gaps between themselves and their nearest people.
+## “Tank” and “Air”: The Remaining Works of Critique
 
-📝 Curator's note: _Whe·Re_ is not a weakened album. It's an album that moved from "speaking for a generation" to "processing one's own interior." The courage Cao Dong summoned for this turn is something the 〈The Big Wind Blows〉-era Cao Dong of 2017 could not have managed.
+The density of social critique in _The Servile_ is high: “Wimpish,” “The Brave,” “Simon Says,” “Us.” Music critic Tsai Yu counted that in _The Clod_, the works in which one can clearly feel “critique and collision with society” are **only two songs**: “Tank” and “Air.”[^19]
 
-Music critics later also defined _Whe·Re_ as **"an album by suicide loss survivors."**[^14] The first three tracks progressively advance themes of death (drowning, self-destruction imagery); the middle instrumental interlude creates an atmosphere of "ethereal and ungraspable"; the ending turns away from anger toward "quiet mourning"; the final track 〈Damn〉 has the vocalist nearly screaming, expressing longing and the determination to keep living.
+```tw-versus
+The Servile, 2016: outward | The Clod, 2023: inward
+Anger that shouted for a generation | Dealing with one’s own loss and the loss of loved ones
+4 socially critical songs (Wimpish / The Brave / Simon Says / Us) | Only 2 left (Tank / Air)
+The shared language of the loser generation | An album by “suicide survivors” dedicated to Fanfan
+Source: Music review by Songstoryworks (Tsai Yu), 2023
+```
 
-### The moment the manager accepted on their behalf
+The chorus of “Tank” is the moment on this album closest to the sharp blade Cao Dong wielded in 2017:
 
-June 29, 2024: the 35th Golden Melody Awards. The Best Band category in which No Party for Cao Dong was nominated was dubbed the "group of death" by the media — also in the group were Fire EX, Sunset Rollercoaster, and four other powerhouse bands.[^15] Cao Dong took three trophies: Album of the Year, Best Mandarin Album, and Best Band (second time).[^1]
+> “And so we smashed the dye vat / smashed the dye vat / only then saw the vast sea / while you and I still do not know where we are”[^19]
 
-But the band was performing that evening at Bubble Island Music Festival in Guiyang, China — not at the ceremony. The manager accepted on stage and said the words "No Party for Cao Dong has never been only the 4 people standing on stage, but every person who wholeheartedly participates in those 6 characters"[^1] — which in the moment was understood to mean "including deceased member Fan Fan."
+The earlier section builds anticipation through delayed guitar effects and racing drums, then finally drags in a heavy guitar sound, forming a sonic contrast between “expectation and disappointment.”[^19] The chorus’s biggest hook, “smashed the dye vat,” is held until the end. This is a structural arrangement absent from _The Servile_.
 
-The "absent victory" itself was a statement from Cao Dong: **we do not treat winning awards as the climax of our lives**. They kept performing in Guiyang, turning the Best Band acceptance into a "ritual of absence."
+Tsai Yu summarized the direction of the other songs on _The Clod_ this way: **“After ‘Cave Mountain,’ it shows a tendency toward inward closure, entirely different from the earlier scene of raising the banner of ‘world-weariness’ and shouting, colliding with a system in which ‘dreams’ cannot be redeemed.”**[^19]
 
-In the history of Mandarin popular music, a band winning Best Band at Golden Melody twice is already rare. Cao Dong's second win came seven years after their first, spanning one member's death and two years of near-total silence. From the high-profile moment of beating Mayday in 2017 to the low-key moment of the manager accepting on their behalf in 2024, this band is redefining the meaning of "success" on its own terms.
+This turn from “world-weariness projected outward” to “world-weariness turned inward” is a structural pivot in Cao Dong’s twelve years. Tsai Yu summarized it as “**the end of the youth generation**”: Cao Dong and their listeners are preparing to move toward the next stage.[^19] They no longer write social critiques in the mode of “Wimpish,” but turn toward songs such as “Daydream,” “Lie,” “Old Chang,” “Bud,” and “Damn,” which face the emotional gaps between the self and loved ones.
 
-### Why they don't do interviews
+📝 Curator’s note: _The Clod_ is not a weaker album. It is an album that moves from “speaking for a generation” to “dealing with one’s own interior.” The courage Cao Dong shows in making this turn is something the 2017 “Simon Says” version of Cao Dong could not have done.
 
-From debut to the present, No Party for Cao Dong has done almost no formal press interviews.[^16] Wudu has given extremely few interviews (primarily to Blow Music in 2016), but the band as a whole maintains a near-closed posture toward the media.
+Critics later also defined _The Clod_ as “**an album by suicide survivors**.”[^14] The first three songs continually advance the theme of death, with images of drowning and self-destruction; the mid-album instrumental interlude creates an atmosphere that is “drifting and impossible to grasp”; the ending turn abandons anger and instead “mourns calmly”; in the final song, “Damn,” the vocalist nearly screams in an expression of longing and the resolve to keep living.
 
-This is not cool posturing — it is professional ethics. They refuse to mold themselves into "consumable personalities": they refuse to sell daily life on Instagram, refuse crossover variety show appearances, refuse to turn Fan Fan's death into narrative capital. One of Wudu's quotes sums up their creative stance:
+## The Moment Their Manager Accepted the Award
 
-> "Many of our works sound violent, but they're actually all full of... love."[^16]
+On June 29, 2024, at the 35th Golden Melody Awards, the Best Band category in which No Party for Cao Dong was nominated was called by the media a “group of death”: the nominees also included Fire EX. and Accusefive, among six strong bands.[^15] Cao Dong won three awards: Album of the Year, Best Mandarin Album, and Best Band for the second time.[^1]
 
-This is the key distinction between Cao Dong and most Taiwanese bands of the late 2010s: **they believe the content of a song should be larger than the personality of the singer**. A fan can recognize the chords of 〈The Big Wind Blows〉 without necessarily recognizing Wudu's face — and that distance is something the band intentionally preserves.
+But the band was performing that night at the Bubble Island Music Festival in Guiyang, China, and was not at the Golden Melody ceremony. Their manager accepted onstage for them and said, “No Party for Cao Dong has never been only the four people standing onstage, but every person who has joined together in these six characters.”[^1] At the time, this was interpreted as including the late member Fanfan.
 
-### This is an album by suicide loss survivors
+This “winning in absence” was itself a Cao Dong statement: **we do not treat awards as life’s climax**. They continued performing in Guiyang, turning the Best Band acceptance into a “ritual of absence.”
 
-Twelve years. Four drummers. Two albums. Two Golden Melody Best Band awards. One death. Two years of silence. One manager accepting on their behalf.
+In the history of Mandarin-language popular music, it is already rare for a band to win Golden Melody Best Band twice. Cao Dong’s two wins were separated by seven years, by the death of a member, and by two years of almost complete silence. From the high-profile moment in 2017 when they defeated Mayday to the low-key moment in 2024 when their manager accepted for them, this band is redefining the word “success” in its own way.
 
-What No Party for Cao Dong leaves behind is not "a rise story" — it is **a story about how to piece yourself back together in loss**. The dance-punk kids on Yangmingshan's Caodong Street in 2012; the self-pressed 2,000-CD triple-crown Golden Melody beaters of 2016–17; the band that lost drummer Fan Fan in 2021; the 2023 return with 〈Bed〉; and the 2024 triple crown at Golden Melody 35 with _Whe·Re_ — a word for losers from the Shiji.
+## Why They Do Not Accept Interviews
 
-They have also proven something harder: **a band can lose a member and survive, but the survival will not look like it did before**. The name _Whe·Re_ says it all on its own. Incomplete, unrepaired — just **together**: continuing on with the fractures.
+Since their debut, No Party for Cao Dong has rarely given formal interviews.[^16] Wudu has given a very small number of interviews, mainly to Blow Music in 2016, but the band as a whole has taken an almost closed attitude toward the media.
 
-The manager said on the Golden Melody stage in 2024:
+This is not coolness. It is a form of professional ethics. They refuse to shape themselves into “consumable personalities”: they refuse to sell everyday life on Instagram, refuse variety-show crossover, and refuse to turn Fanfan’s death into narrative capital. One sentence from Wudu summarizes their creative attitude:
 
-> "In our hearts, No Party for Cao Dong has never been only the 4 people standing on stage."
+> “Many of our works sound violent, but they are actually full of... love.”[^16]
 
-In that moment, no one in the hall laughed or stood up to cheer. Everyone went quiet for five seconds.
+This is what distinguishes Cao Dong from most Taiwan bands of the late 2010s: **they believe the content of the song should be larger than the singer’s personality**. Fans may recognize the chords of “Simon Says” but not necessarily Wudu’s face. That is a distance the band has deliberately preserved.
 
-Then the camera cut to the next award.
+## This Is an Album by Suicide Survivors
 
-**Further reading:**
+Twelve years. Four drummers. Two albums. Two Golden Melody Best Band awards. One death. Two years of silence. One manager accepting an award.
 
-- [Wei Ru-Xuan](/en/people/waa-wei-singer) (zh only) — also belongs to the 2010s independent music ecosystem; the counterpart along the female vocal path
-- [Constant and Change](/en/people/constant-and-change-band) — also on the post-rock spectrum, but taking the lyrical narration path
-- [Cicada](/en/people/cicada-band) (zh only) — takes the all-instrumental no-vocal path, the exact opposite of Cao Dong's "lyrics as sociology"
-- [Crowd Lu](/en/people/crowd-lu-indie-folk-treasure) (zh only) — another path in independent music: the compositional singer across the three major awards
-- [Popular Music and Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) (zh only) — the stage coordinates where Cao Dong won Best Band twice
-- [Taiwan Independent Music](/en/music/indie-music-scene) (zh only) — the independent music evolution from 1976 to Cao Dong to Sunset Rollercoaster
-- [Taiwan Popular Music](/en/music/pop-music-and-golden-melody-awards) (zh only) — the Mandarin popular music industry environment
+What No Party for Cao Dong has left behind is not “a rise story,” but **a story about how to piece oneself back together amid loss**. The dance-punk youths of Cao Dong Street on Yangmingshan in 2012; the self-funded pressing of 2,000 CDs in 2016; the 2017 Golden Melody triple crown that defeated Mayday; the loss of drummer Fanfan in 2021; the 2023 return with “Lie”; the 2024 Golden Melody triple crown with _The Clod_, a term for the defeated from _Records of the Grand Historian_.
+
+They also proved something more difficult: **a band can lose a member and live on, but the way it lives on will not look the same as before**. The title _The Clod_ already says all of this. Incomplete, unrepaired, and still **joined**: continuing together while carrying rupture.
+
+On the Golden Melody stage in 2024, their manager said:
+
+> “In our hearts, No Party for Cao Dong has never been only the four people standing onstage.”
+
+At that moment, no one in the audience laughed, and no one stood to cheer. Everyone was quiet for five seconds.
+
+Then the camera turned to the next award.
+
+**Further reading**:
+
+- [Waa Wei](/people/魏如萱) — A comparison within the same 2010s independent music ecosystem, through a female vocal pathway
+- [Constant & Change](/people/康士坦的變化球) — A comparison within the post-rock spectrum, but with a vocal narrative pathway
+- [Cicada](/people/Cicada) — A fully instrumental, no-vocal pathway, the opposite of Cao Dong’s “lyrics as sociology”
+- [Crowd Lu](/people/盧廣仲) — Another “work-centered singer” path in independent music
+- [Popular Music and the Golden Melody Awards](/music/流行音樂與金曲獎) — The stage coordinates for Cao Dong’s two Best Band wins
+- [Taiwan Independent Music](/music/台灣獨立音樂) — The evolution of independent music from Natural Q to Cao Dong to Accusefive
+- [Taiwan Pop Music](/music/台灣流行音樂) — The industry environment of Mandarin-language popular music
+
+## Image Sources
+
+The three images in this article are included under “fair use editorial commentary,” cached in `public/article-images/people/`, and do not hotlink to source servers:
+
+- [Official promotional group photo of No Party for Cao Dong](https://music.apple.com/tw/artist/1110664089) — © No Party for Cao Dong (official promotional photo, distributed through Apple Music). Fair use editorial commentary.
+- [_The Servile_ (2016) album cover](https://music.apple.com/tw/album/1676735354) — © Stone Paper Co., Ltd. (No Party for Cao Dong’s self-operated label). Fair use editorial commentary.
+- [_The Clod_ (2023) album cover](https://music.apple.com/tw/album/1679883738) — © Black Skin Co., Ltd. (No Party for Cao Dong’s self-operated label). Fair use editorial commentary.
+
+The embedded official videos for “Simon Says,” “Lie,” and “Damn” all come from the band’s official YouTube channel, [@nopartyforcaodong](https://www.youtube.com/@nopartyforcaodong), and are embedded through YouTube’s standard player.
 
 ## References
 
-[^1]: [Golden Melody 35: No Party for Cao Dong absent, manager delivers acceptance speech - CNA](https://www.cna.com.tw/news/amov/202406290232.aspx) — June 29, 2024: No Party for Cao Dong's _Whe·Re_ wins Album of the Year, Best Mandarin Album, and Best Band triple crown at the 35th Golden Melody Awards; the band was performing in Guiyang, China and could not attend; manager's acceptance: "No Party for Cao Dong has never been only the 4 people standing on stage, but every person who wholeheartedly participates in those 6 characters."
+[^1]: [No Party for Cao Dong absent from 35th Golden Melody Awards; manager accepts award - CNA](https://www.cna.com.tw/news/amov/202406290232.aspx) — On 2024-06-29, at the 35th Golden Melody Awards, No Party for Cao Dong won the triple crown of Album of the Year, Best Mandarin Album, and Best Band for _The Clod_; the band was performing that night at the Bubble Island Music Festival in Guiyang, China and could not attend, so their manager accepted on their behalf and said: “No Party for Cao Dong has never been only the four people standing onstage, but every person who has joined together in these six characters.”
 
-[^2]: [No Party for Cao Dong - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D) — Founded June 9, 2012 at the intersection of Jianxian Street and Caodong Street on Yangmingshan, Taipei; band name evolved in three stages from "Left Turn at Caodong Street" to "Caodong Street Party" to "No Party for Cao Dong" (finalized 2014); lineup changes including Liu Li (original drummer, became videographer), Sam (service interruption), Fan Fan (joined 2016 from Triple Deer), Yang Shih-Hsuan (announced indefinite hiatus 2023).
+[^2]: [No Party for Cao Dong - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D) — Founded on 2012-06-09 at the intersection of Jianxian Street and Cao Dong Street on Yangmingshan in Taipei; the band name evolved in three stages from Turn Left on Cao Dong Street → Cao Dong Street Party → No Party for Cao Dong (settled in 2014); lineup changes include Liu Li (first drummer, later shifted to video), Sam (military-service interruption), Fanfan (joined in 2016 from Triple Deer), and Yang Shih-hsuan’s indefinite hiatus in 2023.
 
-[^3]: [_Ugly Girl_ album production details - Science Monthly](https://www.scimonth.com.tw/archives/2456) — Digital release February 19, 2016; physical CD released March 11; 2,000 handmade CDs sold out in three days; producer Li Hsiao-Tsu, US mixing engineer Andy Baker, Georgia mastering engineer Joel Hatstat; 〈The Big Wind Blows〉 uses live audience voice layered with studio recording; production period 4 months.
+[^3]: [_The Servile_ album production details - Science Monthly](https://www.scimonth.com.tw/archives/2456) — Digital release on 2016-02-19 and physical release on 3-11; 2,000 handmade CDs sold out in three days; producer Lee Hsiao-tsu, American mixing engineer Andy Baker, Georgia mastering engineer Joel Hatstat; “Simon Says” uses a layering technique combining live audience voices and studio recording; production period of four months.
 
-[^4]: [No Party for Cao Dong Discogs](https://www.discogs.com/release/12302049-%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D-%E9%86%9C%E5%A5%B4%E5%85%92-The-Servile) — 〈The Big Wind Blows〉 YouTube views: broke 95,000 six months after release, broke 500,000 within a year, becoming one of the most widely shared Taiwan independent music singles of the 2010s.
+[^4]: [“Simon Says” (song) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E9%A2%A8%E5%90%B9_%28%E6%AD%8C%E6%9B%B2%29) — The official music video for “Simon Says” was released on YouTube on 2018-02-14, directed by former band drummer Liu Li; as of 2020-04-19, the video had accumulated 5,410,374 views, and the demo version on StreetVoice had reached 214,727 listens, making it one of the most widely circulated singles in 2010s Taiwan independent music.
 
-[^5]: [Lyrics and 2015 anti-curriculum-adjustment movement reading - VERSE](https://www.verse.com.tw/article/chorus-10-caodong) — 〈The Big Wind Blows〉 lyrics written against the backdrop of the 2015 Taiwan anti-high-school-curriculum-adjustment movement (students took to the streets; a student leader died by suicide); lyrics carry three layers of meaning: musical chairs game (resource competition), generational predicament (trapped in time), Wudu's personal school bullying experience.
+[^5]: [Lyrics of “Simon Says” and interpretation through the 2015 anti-curriculum-adjustment movement - VERSE](https://www.verse.com.tw/article/chorus-10-caodong) — The lyrics of “Simon Says” were written against the backdrop of Taiwan’s 2015 movement against high school curriculum guideline adjustments, when students took to the streets and a student leader died by suicide. The lyrics carry three layers of meaning: a musical-chairs game (resource competition), generational predicament (trapped by time), and Wudu’s personal experience of school bullying.
 
-[^6]: [Ma Shih-Fang "loser generation" Cao Dong critique - One Little Day](https://onelittleday.com.tw/%E3%80%8C%E9%AD%AF%E8%9B%87%E4%B8%96%E4%BB%A3%E3%80%8D%E7%9A%84%E8%99%9B%E7%84%A1%E8%88%87%E6%86%A4%E6%80%92%E2%94%80%E2%94%80%E6%88%91%E8%81%BD%E3%80%8C%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE) — Ma Shih-Fang frames Cao Dong's generation as the "loser generation": "Lyrics sharp as knives, a bottomless nihilism — cherished verse shared by the 'collapsing generation'"; compared with Chang Hsuan's "lyric-melody mesh." Golden Melody 28 chair Huang Yun-Ling called it "an outburst from the suffocated generation"; Cao Dong's first-round triple crown (19/19/18 votes).
+[^6]: [Ma Shih-fang’s “loser generation” Cao Dong review - One Little Day](https://onelittleday.com.tw/%E3%80%8C%E9%AD%AF%E8%9B%87%E4%B8%96%E4%BB%A3%E3%80%8D%E7%9A%84%E8%99%9B%E7%84%A1%E8%88%87%E6%86%A4%E6%80%92%E2%94%80%E2%94%80%E6%88%91%E8%81%BD%E3%80%8C%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE) — Ma Shih-fang positioned Cao Dong generationally as the “loser generation”: “The lyrics cut with every line; at their core is a nihilism with absolutely no way out, becoming lines that youths of the collapsing generation delight in passing around”; he compared their “fit between lyrics and music” with Deserts Chang. At the 28th Golden Melody Awards in 2017, jury chair Kay Huang called them “the explosion of a muted generation,” and Cao Dong won an overwhelming first-round triple crown (19/19/18 votes).
 
-[^7]: [〈The Big Wind Blows〉 as cultural phenomenon - PanSci + Global Views Monthly](https://pansci.asia/archives/140522) — 〈The Big Wind Blows〉 defined as representative work of the "loser generation"/"collapsing generation"; at NTUST, voted #1 "song that represents my generation" for 6 consecutive years; MC HotDog sampled it; Li Ming-Tsung (NTU Sociology) 2017 fall course "Sociology of Failure" packed 600+ students.
+[^7]: [“Simon Says” as cultural phenomenon - PanSci + Global Views Monthly](https://pansci.asia/archives/140522) — “Simon Says” was defined as a representative work of the “loser generation” / “collapsing generation”; it ranked near the top for six consecutive years in National Taiwan University of Science and Technology’s “the song that best represents my generation” poll; MC HotDog sampled it; Lee Ming-tsung’s fall 2017 “Sociology of Losers” course in the Department of Sociology at National Taiwan University overflowed with more than 600 students.
 
-[^8]: [Mayday Ashin "geniuses" quote full source - Business Today](https://www.businesstoday.com.tw/article/category/154769/post/201706290007/) — Ashin heard Cao Dong and told Masa: "Should we go say hi? These people are geniuses!"; on generational handover controversy: "It has nothing to do with generational handover — always being positive is exhausting, it's also great to let loose with different energy sometimes." Wudu at Golden Melody 28: "Mayday's place is irreplaceable."
+[^8]: [Full source for Mayday Ashin’s “geniuses” comment - Business Today](https://www.businesstoday.com.tw/article/category/154769/post/201706290007/) — After Ashin heard Cao Dong’s songs, he said to Masa: “Should we go meet them? These guys are geniuses!”; regarding the generational-succession controversy: “It has nothing to do with generational succession. Being forever positive and proactive is tiring too; occasionally having a different energy to release is also great.” Wudu at the 28th Golden Melody Awards: “Mayday’s position is irreplaceable.”
 
-[^9]: [Cao Dong drummer Fan Fan dies during quarantine + IG original text - China Times](https://www.chinatimes.com/realtimenews/20211030003228-260404) — October 30, 2021: Tsai Yi-Fan (Fan Fan, age 26) found dead in Taipei quarantine hotel; returned from mainland tour on Oct 25 and checked in; Oct 29 evening IG breakdown post: "The first thing Older Sister will do when quarantine ends is grab all her luggage and run to your side, to be with you in the last of your life, Older Sister loves you"; 14-year-old dog "Potato" who had been with her 12 years was critically ill, she couldn't return home for a final farewell.
+[^9]: [Cao Dong drummer Fanfan dies during quarantine + original IG post - China Times News](https://www.chinatimes.com/realtimenews/20211030003228-260404) — On 2021-10-30, Tsai Yi-fan (Fanfan, 26) was found dead in a Taipei quarantine hotel; she had returned to Taiwan from a China tour on 10-25 and checked in; on the evening of 10-29, she posted a devastated IG message: “The first thing your big sister will do when quarantine ends is carry all my luggage and run to your side, to accompany you through the end of your life. Big sister loves you”; her beloved dog “Tudou,” who had been with her for 12 years since she was 14, was critically ill, and she could not return home to accompany him at the end.
 
-[^10]: [Wudu's IG message to Fan Fan - Mirror Media](https://www.mirrormedia.mg/story/20211031ent003) — November 17, 2021, 18 days after Fan Fan's death: lead vocalist Wudu publicly wrote on Instagram: "My thoughts have been in chaos for days, trapped in a loop of self-doubt and regret... I'm sorry I couldn't give better companionship."
+[^10]: [Wudu’s IG message to Fanfan - Mirror Media](https://www.mirrormedia.mg/story/20211031ent003) — On 2021-11-17, 18 days after Fanfan’s death, vocalist Wudu publicly wrote on Instagram: “My thoughts have been chaotic for days, trapped in a cycle of self-doubt and regret... I am deeply sorry I could not give you better company.”
 
-[^11]: [〈Bed〉 2023 comeback single seven-year live history - HackaZine](https://hackazine-tw.com/no-party-for-cao-dong-the-clod/) — April 7, 2023: band releases first single 〈Bed〉 and lyric video since Fan Fan's death; the song had actually been in live sets since 2016, waiting seven years before being recorded. Public statement that the new album is dedicated to Fan Fan.
+[^11]: [“Lie” 2023 return single and seven-year live history - HackaZine](https://hackazine-tw.com/no-party-for-cao-dong-the-clod/) — On 2023-04-07, the band released its first single after Fanfan’s death, “Lie,” along with a lyric video; the song had actually been performed live since 2016 and waited seven years before being recorded and released. The band publicly stated that the new album was dedicated to Fanfan.
 
-[^12]: [_Whe·Re_ album concept and Shiji allusion - Vocus](https://vocus.cc/article/64704f92fd897800015188e3) — May 20, 2023: _Whe·Re_ released, seven years after _Ugly Girl_; album title "瓦合" appears in Shiji's "Confucian Scholars" chapter: "Chen She rose from among commoners, driving 瓦合謫戍 (whe·re conscripts)"; the extended meaning "broken tiles fitted together" draws on [^19] (Tsai-Yu's research tracing it to the Book of Han's Yan Shigu annotation); dedication page "This album is dedicated to Fan Fan"; 〈Damn〉 is the final new track, singing "I love you" to Fan Fan.
+[^12]: [_The Clod_ album concept and _Records of the Grand Historian_ allusion - Vocus](https://vocus.cc/article/64704f92fd897800015188e3) — _The Clod_ was released on 2023-05-20, seven years after _The Servile_; the album title _wahe_ appears in “Biographies of Confucian Scholars” in _Records of the Grand Historian_: “Chen She rose from commoner status, drove together a ragtag group of conscripted border guards, and within a month became king of Chu”; the full extended allusion of “broken tiles joined together” is separately documented in [^19] (Tsai Yu traces it to Yan Shigu’s annotation to the _Book of Han_); the front matter reads “We dedicate this album to Fanfan”; “Damn” is the final new song and sings “I love you” for Fanfan.
 
-[^13]: [Producer Chou Yi-Tun interview: Cao Dong is "an album of regret" - Blow Music](https://blow.streetvoice.com/68312/) — Producer Chou Yi-Tun interprets _Whe·Re_: "This is an album expressing regret and the various disappointments of life." Self-described production philosophy: "What I worry least about is the sound itself; what I care about is whether the result matches the musician's vision and whether they feel comfortable in the collaboration." "Cao Dong faces music in a completely honest way."
+[^13]: [Producer Chou Yi-tun interview: Cao Dong’s album “expresses regret” - Blow Music](https://blow.streetvoice.com/68312/) — Producer Chou Yi-tun interprets _The Clod_: “This is an album expressing regret and all kinds of disappointments in life.” He also describes his production philosophy: “What I worry about least is sound quality itself; what I care about is whether the result matches the musicians’ vision and whether they feel comfortable in the collaboration.” “The way Cao Dong faces music is completely honest.”
 
-[^14]: [_Whe·Re_ "suicide loss survivors' album" critique - Vocus](https://vocus.cc/article/64704f92fd897800015188e3) — Critics define _Whe·Re_ as "an album by suicide loss survivors"; the first three tracks progressively advance themes of death (drowning, self-destruction imagery); the middle instrumental interlude creates "ethereal and ungraspable" atmosphere; the ending turns away from anger toward "quiet mourning"; the final track has the vocalist "nearly screaming" to express longing and the determination to keep living.
+[^14]: [_The Clod_ as an “album by suicide survivors” review - Vocus](https://vocus.cc/article/64704f92fd897800015188e3) — The review defines _The Clod_ as “an album by suicide survivors”; the first three songs continually advance the theme of death, with images of drowning and self-destruction; the mid-album instrumental interlude creates a “drifting and impossible to grasp” atmosphere; the ending turn abandons anger and instead “mourns calmly”; the final song has the vocalist “nearly screaming” to express longing and the resolve to keep living.
 
-[^15]: [Golden Melody 35 "group of death" Best Band competition analysis - The News Lens](https://www.thenewslens.com/article/204361) — The 35th Golden Melody Awards Best Band nominees (Cao Dong, Fire EX, Sunset Rollercoaster, and 3 others) dubbed "group of death" by media; analysis of the competitive context in which Cao Dong's _Whe·Re_ broke through for a triple crown.
+[^15]: [35th Golden Melody Awards “group of death” Best Band competition analysis - The News Lens](https://www.thenewslens.com/article/204361) — The Best Band nominees at the 35th Golden Melody Awards, including Cao Dong, Fire EX., Accusefive, and three other strong groups, were called by the media a “group of death”; analysis of the competitive context in which Cao Dong emerged with three awards for _The Clod_.
 
-[^16]: [Wudu creative philosophy — 2016 Blow Music full interview](https://blow.streetvoice.com/16090/) — Wudu's one of few 2016 formal interviews: creative process "when the character sometimes, mostly is ourselves (a projection), we draw from people and things around us"; musical intention "we didn't particularly set out to do anything"; emotional core "they're actually all full of... love"; on the violent exterior: "they sound violent, but they're actually all full of love, anti-violence."
+[^16]: [Wudu’s creative philosophy — full 2016 Blow Music interview](https://blow.streetvoice.com/16090/) — One of Wudu’s few formal interviews, from 2016: creative process, “When this character is sometimes, mostly, a projection of ourselves, we draw material from the people and things around us”; musical intention, “We actually did not especially set out to do anything”; emotional core, “They are actually all full of... love”; explanation of the violent exterior: “They sound violent, but they are actually full of love and opposed to violence.”
 
-[^17]: [Cao Dong 2018 world tour - Hypebeast](https://hypebeast.com/hk/2018/12/no-party-for-cao-dong-taiwan-concerts-2019) — 2018 band comeback world tour of 40+ shows; Europe: Dec 14 London, Dec 16 Berlin, Dec 20 Amsterdam; Japan, US SXSW + South by Southwest, mainland China. Jan 5 2019 final Taipei show.
+[^17]: [Cao Dong 2018 global tour - Hypebeast](https://hypebeast.com/hk/2018/12/no-party-for-cao-dong-taiwan-concerts-2019) — After returning in 2018, the band toured globally with more than 40 shows; Europe: 12-14 London, 12-16 Berlin, 12-20 Amsterdam; Japan, the United States at SXSW and North by Northeast, and China. The tour closed with an additional final Taipei show on 2019-01-05.
 
-[^18]: [_Ugly Girl_ album structure - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%86%9C%E5%A5%B4%E5%85%92_%28%E5%B0%88%E8%BC%AF%29) — _Ugly Girl_ full tracklist of 12 songs: Intro / Ugly / Mud / The Brave / The Big Wind Blows / Emma / Wait / Ghost / In / Mountain and Sea / Us / Love Song; 38 minutes 57 seconds; self-funded with Ministry of Culture grant, released through independent channels.
+[^18]: [_The Servile_ album structure - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%86%9C%E5%A5%B4%E5%85%92_%28%E5%B0%88%E8%BC%AF%29) — Complete 12-track list for _The Servile_: Intro / Ugly / Wimpish / The Brave / Simon Says / Emma / Waiting / Ghost / In / Mountain Sea / Us / Love Song; 38 minutes and 57 seconds; a representative work self-funded by the band, supported by a Ministry of Culture grant, and released through independent channels.
 
-[^19]: [Album review: No Party for Cao Dong's _Whe·Re_ — "Now I finally know the taste of sorrow, the big wind blows into Cavern Mountain" - songstoryworks](https://songstoryworks.com/albumreviews-no-party-for-cao-dong-the-clod/) — Author Tsai-Yu (采郁), September 16, 2023: full documentation of the two-layer allusion in "瓦合": the characters from Shiji's "Confucian Scholars" + the extended meaning "like broken tiles fitted together, though gathered they are not uniform" from Tang dynasty Yan Shigu's annotation to the Book of Han's "Biographies of Li, Lu, Zhu, Liu, and Shusun"; full Wudu verbatim quote "Life is inherently fragile, the death of all things is never an end but the continuation of companionship in another form"; 〈Urn〉 lyric-by-lyric analysis with musical structure; _Whe·Re_ vs _Ugly Girl_ critical work density comparison (4 critical tracks → only 〈Urn〉〈Empty〉); core thesis "from 〈Cavern Mountain〉 onward the album turns inward" + "the end of the youth generation." This review: on 2026-04-18, Tsai-Yu proactively pointed out in the Threads comments section of Taiwan.md's Cao Dong spore #33 that the original article erroneously wrote "Shiji 'broken tiles fitted together'" and provided this original text as evidence — the second version (2026-04-19) fully corrected the allusion sourcing based on her research.
+[^19]: [Album review | No Party for Cao Dong, _The Clod_ | Now truly knowing the taste of sorrow, a great wind blows into Cave Mountain - Songstoryworks](https://songstoryworks.com/albumreviews-no-party-for-cao-dong-the-clod/) — Tsai Yu’s 2023-09-16 review fully traces the two-layer source of the _wahe_ allusion: the two characters _wahe_ from “Biographies of Confucian Scholars” in _Records of the Grand Historian_ + the extended meaning “like broken tiles joined together; though gathered, they are not uniform” from Tang dynasty scholar Yan Shigu’s annotation to “Biographies of Li, Lu, Zhu, Liu, Shusun” in the _Book of Han_; fully quotes Wudu’s verbatim line, “Life is inherently so fragile; the death of all things is never an end, but the continuation of companionship in another form”; quotes and analyzes the lyrics and musical structure of “Tank”; compares the density of critical works in _The Clod_ and _The Servile_ (the latter has 4 critical songs → the former only “Tank” and “Air,” 2 songs); core arguments include “after ‘Cave Mountain,’ it shows a tendency toward inward closure” + “the end of the youth generation.” On 2026-04-18, Tsai Yu proactively pointed out in the Taiwan.md Cao Dong spore #33 Threads comments that the original draft of this article had wrongly written that “broken tiles joined together” came from _Records of the Grand Historian_, and provided the original review as textual evidence. This article’s second version (2026-04-19) was comprehensively revised according to that textual research.

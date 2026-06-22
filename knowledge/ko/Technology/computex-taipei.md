@@ -23,9 +23,9 @@ lastVerified: 2026-06-04
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4a673b61d3e24bb9'
-sourceBodyHash: 'sha256:9b3f0ed2efd5fc46'
+sourceCommitSha: '81e82684'
+sourceContentHash: 'sha256:61a81bd86d128a32'
+sourceBodyHash: 'sha256:245fe840b0ecd828'
 translatedAt: '2026-06-16T16:38:41Z'
 ---
 
@@ -209,6 +209,7 @@ NVIDIA의 AI 칩 하나가 데이터센터에서 작동할 수 있는 서버 한
 - [타이완 인공지능 발전과 미래 전략](/technology/台灣人工智慧發展與未來策略) — 하드웨어 공급망에서 AI 응용까지, 타이완이 이 물결 속에서 차지하는 위치와 선택
 - [타이완 로봇 산업](/technology/台灣機器人產業) — Computex 2026이 내세운 “피지컬 AI”와 체화 지능, 타이완 로봇 공급망의 기반
 - [타이완 전기차 산업사슬의 발전](/technology/台灣電動車產業鏈發展) — 같은 전자 위탁생산 업체들이 어떻게 컴퓨터 조립에서 자동차와 로봇 조립으로 확장하는가
+- [NVIDIA와 타이완: 세계에서 가장 비싼 회사, 그러나 칩 한 장도 자기 손으로 만들지 않는다](/technology/NVIDIA在台灣) — 55개 타이완 공급망 로고가 걸린 그 벽 뒤편 — NVIDIA와 타이완 공급망의 권력관계, 그리고 한 도시가 NVIDIA를 위해 땅을 비워준 이야기
 
 ## 이미지 출처
 
