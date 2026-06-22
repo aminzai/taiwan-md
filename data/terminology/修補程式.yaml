@@ -1,22 +1,22 @@
 id: 修補程式
 category: tech
 subcategory: 軟體與程式開發
-fork_type: B
+fork_type: C
 
 display:
   taiwan: 修補程式
   china: 補丁
 
 etymology:
-  origin: ""
-  taiwan_path: 台灣用法
-  china_path: 中國用法
-  fork_point: ""
+  origin: 修正軟體漏洞或錯誤的 patch。台灣說「修補程式」（也說「更新檔」），中國取 patch 的「補丁」意象（在破洞上縫一塊布）直譯。
 
-notes: ""
+usage:
+  example: 這款遊戲昨天出了修補程式，把之前一直閃退的問題修好了。
+
+notes: ''
 
 sources:
-  - "ThunderKO C2T / 《大陸用語檢索手冊》1997"
+  - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
 
-added: "2026-03-30"
-updated: "2026-03-30"
+added: '2026-03-30'
+updated: '2026-06-22'

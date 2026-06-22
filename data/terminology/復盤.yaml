@@ -1,15 +1,23 @@
 id: 復盤
-category: daily-life
-fork_type: semantic
+category: business
+subcategory: 職場與商業
+fork_type: E
 
 display:
   taiwan: 檢討
   china: 復盤
 
+etymology:
+  origin: 「復盤」原是圍棋術語（也稱「復局」），指對局結束後把整盤棋重排一遍、逐手檢視得失。中國商業圈借來指事後系統性的回顧。台灣傳統上說「檢討、回顧」，但「復盤」近年隨商業書與 Podcast 進入台灣，屬於兩邊都聽得懂、正在分歧的詞。
+
+usage:
+  example: 專案結束後我們開了一次檢討會，把這次做得好和該改的地方都列出來。
+
 notes: ''
 
 sources:
   - 'google-sheets-crowdsource'
+  - '維基百科：復盤（圍棋術語）'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-06-22'

@@ -1,25 +1,25 @@
 id: 網際網路
 category: tech
 subcategory: 網路與通訊
-fork_type: B
+fork_type: C
 
 display:
   taiwan: 網際網路
   china: 互聯網
 
 etymology:
-  origin: ""
-  taiwan_path: 台灣用法
-  china_path: 中國用法
-  fork_point: ""
+  origin: Internet 的譯名。台灣沿用 1990 年代學術網路時期的「網際網路」（強調網路與網路之間互連），中國普遍說「互聯網」。口語上兩邊也都直接說「網路／上網」。
 
+usage:
+  example: 這家咖啡廳沒有 Wi-Fi，連不上網際網路，只能先開手機熱點。
 
 detection:
   severity: A
-notes: ""
+notes: ''
 
 sources:
-  - "ThunderKO C2T / 《大陸用語檢索手冊》1997"
+  - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
+  - '教育部重編國語辭典：網際網路'
 
-added: "2026-03-30"
-updated: "2026-03-30"
+added: '2026-03-30'
+updated: '2026-06-22'

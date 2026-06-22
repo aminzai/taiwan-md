@@ -1,22 +1,23 @@
 id: 啟用
-category: daily
-subcategory: 日常生活
-fork_type: B
+category: tech
+subcategory: 軟體與程式開發
+fork_type: C
 
 display:
   taiwan: 啟用
   china: 激活
 
 etymology:
-  origin: ""
-  taiwan_path: 台灣用法
-  china_path: 中國用法
-  fork_point: ""
+  origin: 軟體、會員資格或 SIM 卡的「activate」。兩邊都是 activate 的翻譯，中國取「激」（激發、啟動），台灣統一說「啟用」（開始使用）。
 
-notes: ""
+usage:
+  example: 新手機插卡後，要先到電信 App 啟用門號才能打電話。
+
+notes: ''
 
 sources:
-  - "ThunderKO C2T / 《大陸用語檢索手冊》1997"
+  - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
+  - '教育部重編國語辭典：啟用'
 
-added: "2026-03-30"
-updated: "2026-03-30"
+added: '2026-03-30'
+updated: '2026-06-22'

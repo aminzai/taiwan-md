@@ -79,6 +79,11 @@ interface RawEntry {
     fork_point?: string;
     fork_cause?: string;
   };
+  usage?: {
+    example?: string; // a natural Taiwan-context example sentence
+    note?: string; // register / exception note
+    exceptions?: string; // legacy field name → folded into note
+  };
   notes?: string;
   sources?: string[];
   added?: string;
@@ -102,6 +107,8 @@ interface TermProps {
   chinaPath: string;
   forkPoint: string;
   forkCause: string;
+  usageExample: string;
+  usageNote: string;
   notes: string;
   sources: string[];
   updated: string;
@@ -158,6 +165,8 @@ export async function getStaticPaths() {
     chinaPath: string;
     forkPoint: string;
     forkCause: string;
+    usageExample: string;
+    usageNote: string;
     notes: string;
     sources: string[];
     updated: string;
@@ -203,6 +212,8 @@ export async function getStaticPaths() {
       chinaPath: flat(d.etymology?.china_path),
       forkPoint: flat(d.etymology?.fork_point),
       forkCause: flat(d.etymology?.fork_cause),
+      usageExample: flat(d.usage?.example),
+      usageNote: flat(d.usage?.note || d.usage?.exceptions),
       notes: flat(d.notes),
       sources: (d.sources ?? []).filter(Boolean).map((s) => String(s)),
       updated: (d.updated ?? d.added ?? '').toString().trim(),
@@ -254,6 +265,8 @@ export async function getStaticPaths() {
       chinaPath: e.chinaPath,
       forkPoint: e.forkPoint,
       forkCause: e.forkCause,
+      usageExample: e.usageExample,
+      usageNote: e.usageNote,
       notes: e.notes,
       sources: e.sources,
       updated: e.updated,
@@ -292,6 +305,8 @@ const taiwanPath = scrub(p.taiwanPath);
 const chinaPath = scrub(p.chinaPath);
 const forkPoint = scrub(p.forkPoint);
 const forkCause = scrub(p.forkCause);
+const usageExample = scrub(p.usageExample);
+const usageNote = scrub(p.usageNote);
 const hasRealEtymology = Boolean(
   origin || forkPoint || forkCause || taiwanPath || chinaPath,
 );
@@ -338,10 +353,15 @@ const taiwanAlts = p.taiwan
   .split(/\s*\/\s*/)
   .slice(1)
   .join('、');
-const leadAnswer =
-  `「${p.china}」是中國大陸的用法，在台灣通常說「${taiwanPrimary}」` +
-  (taiwanAlts ? `（也說${taiwanAlts}）` : '') +
-  '。';
+// fork E「正在分歧」= both sides use it; don't overclaim it as purely mainland.
+const isDiverging = p.forkKey === 'E';
+const leadAnswer = isDiverging
+  ? `「${p.china}」是兩岸正在分歧的詞，雙方大致都聽得懂；台灣這邊多半說「${taiwanPrimary}」` +
+    (taiwanAlts ? `（也說${taiwanAlts}）` : '') +
+    '。'
+  : `「${p.china}」是中國大陸的用法，在台灣通常說「${taiwanPrimary}」` +
+    (taiwanAlts ? `（也說${taiwanAlts}）` : '') +
+    '。';
 const leadExtra = showFork && forkBlurb ? forkBlurb : '';
 
 // ── FAQ (2026-06-22) ────────────────────────────────────────────────────────
@@ -352,7 +372,9 @@ const faqEntries = [
   { q: `「${p.china}」台灣怎麼說？`, a: `台灣通常說「${p.taiwan}」。` },
   {
     q: `「${p.china}」算中國用語嗎？`,
-    a: `是，「${p.china}」是中國大陸的常見說法，台灣慣用「${taiwanPrimary}」。`,
+    a: isDiverging
+      ? `「${p.china}」兩岸都在用、正在分歧，台灣這邊習慣說「${taiwanPrimary}」。`
+      : `是，「${p.china}」是中國大陸的常見說法，台灣慣用「${taiwanPrimary}」。`,
   },
 ];
 
@@ -526,6 +548,23 @@ const faqLD = {
                 </div>
               ))}
             </dl>
+          </section>
+        )
+      }
+
+      <!-- usage example — how a Taiwanese actually says it -->
+      {
+        usageExample && (
+          <section class="mb-8">
+            <h2 class="mb-2 text-[1.05rem] font-bold text-[#1a1a2e]">
+              台灣人會這樣說
+            </h2>
+            <blockquote class="m-0 rounded-xl border-l-[3px] border-[#27ae60] bg-white px-5 py-4 text-[0.98rem] leading-[1.85] text-[#333]">
+              {usageExample}
+            </blockquote>
+            {usageNote && (
+              <p class="mt-2 text-[0.85rem] text-[#94a3b8]">{usageNote}</p>
+            )}
           </section>
         )
       }

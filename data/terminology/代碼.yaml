@@ -1,10 +1,17 @@
 id: 代碼
-category: technology
-fork_type: semantic
+category: tech
+subcategory: 軟體與程式開發
+fork_type: C
 
 display:
   taiwan: 程式碼
   china: 代碼
+
+etymology:
+  origin: 指程式的原始碼（source code）。台灣說「程式碼」，中國說「代碼」。台灣的「代碼」另有用途（錯誤代碼、區域代碼），指 source code 時用「程式碼」較精準。
+
+usage:
+  example: 他把這段程式碼貼到 GitHub，請大家幫忙看哪裡有 bug。
 
 notes: ''
 
@@ -12,4 +19,4 @@ sources:
   - 'google-sheets-crowdsource'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-06-22'

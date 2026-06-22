@@ -1,10 +1,17 @@
 id: 關注
-category: daily-life
-fork_type: semantic
+category: daily
+subcategory: 網路與社群
+fork_type: C
 
 display:
   taiwan: 追蹤
   china: 關注
+
+etymology:
+  origin: 社群平台上訂閱某個帳號的動態（follow）。台灣說「追蹤」，中國說「關注」。台灣的「關注」保留原意（關心某個議題），社群上的這個動作則說「追蹤」。
+
+usage:
+  example: 我追蹤了那個插畫家的 IG，他每次更新我都不想錯過。
 
 notes: ''
 
@@ -12,4 +19,4 @@ sources:
   - 'google-sheets-crowdsource'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-06-22'

@@ -1,0 +1,22 @@
+id: 調研
+category: business
+subcategory: 職場與商業
+
+display:
+  taiwan: 調查研究 / 調查
+  china: 調研
+
+etymology:
+  origin: 「調研」是「調查研究」的縮寫，中國公務與商業場合常用。台灣不縮寫，依情境說「調查研究」或直接說「調查」（如市場調查、田野調查）。
+
+usage:
+  example: 進新市場前，業務部先做了三個月的市場調查，才決定要不要投。
+
+notes: ''
+
+sources:
+  - '漢典：調研'
+  - '教育部重編國語辭典：調查'
+
+added: '2026-06-22'
+updated: '2026-06-22'
