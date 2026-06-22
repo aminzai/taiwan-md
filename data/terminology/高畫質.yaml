@@ -1,30 +1,30 @@
 id: 高畫質
-category: daily
-subcategory: 日常生活
-fork_type: B
+category: tech
+subcategory: 媒體與影音
+fork_type: C
 
 display:
   taiwan: 高畫質
   china: 高清
 
 etymology:
-  origin: ""
-  taiwan_path: 台灣用法
-  china_path: 中國用法
-  fork_point: ""
+  origin: 影像、影片的 high-definition（HD）。台灣說「高畫質」（強調「畫質」），中國說「高清」（高清晰度的縮寫）。
 
+usage:
+  example: 這部片有高畫質版本，用大電視看細節清楚很多。
 
 detection:
   severity: B
   false_positives:
-    - pattern: "高清愿"
-      note: "人名高清愿（裕隆集團創辦人之一），含「高清」字串"
-    - pattern: "清高"
-      note: "「高潔的人」，"高""清" 倒序組合"
-notes: ""
+    - pattern: '高清愿'
+      note: '人名高清愿（統一企業創辦人），含「高清」字串'
+    - pattern: '清高'
+      note: '「清高」指高潔的人，是「高清」的倒序組合'
+
+notes: ''
 
 sources:
-  - "ThunderKO C2T / 《大陸用語檢索手冊》1997"
+  - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
 
-added: "2026-03-30"
-updated: "2026-03-30"
+added: '2026-03-30'
+updated: '2026-06-22'
