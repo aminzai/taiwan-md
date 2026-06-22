@@ -272,29 +272,89 @@ const forkLabel = p.forkKey ? forkTypeLabels[p.forkKey] : '';
 const forkColor = p.forkKey ? forkTypeColors[p.forkKey] : '#94a3b8';
 const forkBlurb = p.forkKey ? forkTypeBlurbs[p.forkKey] : '';
 
+// ── Placeholder scrubbing (2026-06-22) ──────────────────────────────────────
+// ~1,655 legacy entries (1997/ThunderKO import) carry literal filler in the
+// etymology paths ("台灣用法" / "中國用法"). Rendered as 詞源 they are visible junk
+// on 71% of per-term pages. Treat them as empty so hasEtymology / etymologyRows
+// (and the fork honesty gate below) ignore them.
+const PLACEHOLDERS = new Set([
+  '台灣用法',
+  '台灣用語',
+  '中國用法',
+  '中國用語',
+  '用法',
+  '無',
+]);
+const scrub = (s: string) =>
+  PLACEHOLDERS.has((s || '').trim()) ? '' : (s || '').trim();
+const origin = scrub(p.origin);
+const taiwanPath = scrub(p.taiwanPath);
+const chinaPath = scrub(p.chinaPath);
+const forkPoint = scrub(p.forkPoint);
+const forkCause = scrub(p.forkCause);
+const hasRealEtymology = Boolean(
+  origin || forkPoint || forkCause || taiwanPath || chinaPath,
+);
+
+// ── fork_type honesty gate (2026-06-22) ─────────────────────────────────────
+// 1,716 entries default to fork_type B「1949 分流」but 93% carry zero etymology
+// evidence, and many are plainly internet-era terms (視頻/激活/內捲). Asserting a
+// specific historical claim (1949) with no evidence is worse than saying nothing.
+// Show the fork blurb only when (a) the entry has supporting etymology, or
+// (b) the classification is a "soft" one (E 正在分歧 / F 同詞不同語感) that makes no
+// falsifiable historical claim. A/B/C/D specific claims require evidence.
+const forkIsSoft = p.forkKey === 'E' || p.forkKey === 'F';
+const showFork = Boolean(p.forkKey) && (hasRealEtymology || forkIsSoft);
+
 // SEO title — tuned to「{china} 台灣怎麼說」. Kept ≤ ~60 chars.
 const seoTitle = `「${p.china}」台灣怎麼說？台灣用語是「${taiwanPrimary}」`;
-const seoDesc = forkBlurb
-  ? `中國說「${p.china}」，台灣說「${p.taiwan}」。${forkBlurb}查兩岸用語差異與詞源，就上 Taiwan.md 用語保存計畫。`
-  : `中國說「${p.china}」，台灣說「${p.taiwan}」。查兩岸用語差異與詞源，就上 Taiwan.md 用語保存計畫。`;
+// seoDesc gates the fork blurb on showFork (never assert an unsupported 1949 claim
+// in the snippet) and folds in the「算不算中國用語」intent.
+const seoDesc =
+  `中國說「${p.china}」，台灣說「${taiwanPrimary}」。` +
+  (showFork && forkBlurb ? forkBlurb : '') +
+  `查「${p.china}」算不算中國用語、台灣用語怎麼說 — Taiwan.md 用語保存計畫。`;
 
-// Has any etymology sub-part to show?
-const hasEtymology = Boolean(
-  p.origin || p.forkPoint || p.forkCause || p.taiwanPath || p.chinaPath,
-);
+// Has any etymology sub-part to show? (uses scrubbed values — placeholders gone)
+const hasEtymology = hasRealEtymology;
 
 // Etymology rows — only non-empty parts (never an empty label / dangling colon).
 const etymologyRows: { label: string; value: string }[] = [];
-if (p.origin) etymologyRows.push({ label: '詞源', value: p.origin });
-if (p.taiwanPath)
-  etymologyRows.push({ label: '台灣這邊', value: p.taiwanPath });
-if (p.chinaPath) etymologyRows.push({ label: '中國那邊', value: p.chinaPath });
-if (p.forkPoint) etymologyRows.push({ label: '分歧點', value: p.forkPoint });
-if (p.forkCause)
-  etymologyRows.push({ label: '為什麼會分歧', value: p.forkCause });
+if (origin) etymologyRows.push({ label: '詞源', value: origin });
+if (taiwanPath) etymologyRows.push({ label: '台灣這邊', value: taiwanPath });
+if (chinaPath) etymologyRows.push({ label: '中國那邊', value: chinaPath });
+if (forkPoint) etymologyRows.push({ label: '分歧點', value: forkPoint });
+if (forkCause) etymologyRows.push({ label: '為什麼會分歧', value: forkCause });
 
 // URL helper for sources: treat http(s) as link, everything else as citation.
 const isUrl = (s: string) => /^https?:\/\//i.test(s.trim());
+
+// ── Direct-answer lead (2026-06-22) ─────────────────────────────────────────
+// Always true: by the inclusion rule the china term is the mainland usage and
+// taiwan is the local word. A prose answer high in the body gives Google a real
+// snippet (the thin pages had none) and answers both「{china}台灣用語」and the
+// 「是支語嗎」intent in plain, non-judgmental language.
+const taiwanAlts = p.taiwan
+  .split(/\s*\/\s*/)
+  .slice(1)
+  .join('、');
+const leadAnswer =
+  `「${p.china}」是中國大陸的用法，在台灣通常說「${taiwanPrimary}」` +
+  (taiwanAlts ? `（也說${taiwanAlts}）` : '') +
+  '。';
+const leadExtra = showFork && forkBlurb ? forkBlurb : '';
+
+// ── FAQ (2026-06-22) ────────────────────────────────────────────────────────
+// Visible Q&A that mirrors the FAQPage JSON-LD (schema must match visible text).
+// Answers the「算中國用語嗎 / 是支語嗎」query class neutrally — states the fact
+// (it is a mainland usage), leaves the value judgment to the reader (REFLEXES #28).
+const faqEntries = [
+  { q: `「${p.china}」台灣怎麼說？`, a: `台灣通常說「${p.taiwan}」。` },
+  {
+    q: `「${p.china}」算中國用語嗎？`,
+    a: `是，「${p.china}」是中國大陸的常見說法，台灣慣用「${taiwanPrimary}」。`,
+  },
+];
 
 // JSON-LD: DefinedTerm — the cleanest schema for a single definitional lookup.
 const definedTermLD = {
@@ -314,6 +374,17 @@ const definedTermLD = {
   inLanguage: 'zh-TW',
   url: `https://taiwan.md/terminology/${encodeURIComponent(p.id)}`,
 };
+
+// JSON-LD: FAQPage — targets the「{china}台灣怎麼說 / 算中國用語嗎」question intent.
+const faqLD = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqEntries.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
 ---
 
 <Layout title={seoTitle} description={seoDesc}>
@@ -326,7 +397,7 @@ const definedTermLD = {
       titleVariant="inherit"
       titleSize="md"
       containerWidth="narrow"
-      padding="default"
+      padding="compact"
     >
       <Fragment slot="eyebrow">用語保存計畫 ・ 兩岸用語對照</Fragment>
       <Fragment slot="title">
@@ -345,7 +416,7 @@ const definedTermLD = {
 
       <div class="mt-6 flex flex-wrap justify-center gap-2">
         {
-          forkLabel && (
+          showFork && forkLabel && (
             <span
               class="inline-flex items-center rounded-full border px-3 py-[0.3rem] text-[0.8rem] font-semibold"
               style={`background:${forkColor}22;color:#fff;border-color:${forkColor}88`}
@@ -410,9 +481,15 @@ const definedTermLD = {
         </div>
       </div>
 
-      <!-- fork_type explanation -->
+      <!-- Direct answer — prose lead: SERP snippet + 台灣用語/算中國用語嗎 intent -->
+      <p class="mb-8 text-[1.05rem] leading-[1.9] text-[#333]">
+        <span class="font-semibold text-[#1a1a2e]">{leadAnswer}</span>
+        {leadExtra && <span class="text-[#555]">{leadExtra}</span>}
+      </p>
+
+      <!-- fork_type explanation (gated: no unsupported historical claims) -->
       {
-        forkLabel && forkBlurb && (
+        showFork && forkLabel && forkBlurb && (
           <section class="mb-8">
             <h2 class="mb-2 flex items-center gap-2 text-[1.05rem] font-bold text-[#1a1a2e]">
               <span
@@ -488,6 +565,25 @@ const definedTermLD = {
             </a>
           )
         }
+      </section>
+
+      <!-- FAQ — visible Q&A mirroring the FAQPage JSON-LD -->
+      <section class="mb-8">
+        <h2 class="mb-3 text-[1.05rem] font-bold text-[#1a1a2e]">常見問題</h2>
+        <dl class="m-0 flex flex-col gap-3">
+          {
+            faqEntries.map((f) => (
+              <div class="rounded-xl border border-[#eee] bg-white p-4">
+                <dt class="mb-1 text-[0.92rem] font-bold text-[#1a1a2e]">
+                  {f.q}
+                </dt>
+                <dd class="m-0 text-[0.92rem] leading-[1.75] text-[#444]">
+                  {f.a}
+                </dd>
+              </div>
+            ))
+          }
+        </dl>
       </section>
 
       <!-- CTA: whole-paragraph converter -->
@@ -585,5 +681,10 @@ const definedTermLD = {
   <script
     type="application/ld+json"
     set:html={JSON.stringify(definedTermLD, null, 2)}
+  />
+  <!-- FAQPage JSON-LD — 台灣怎麼說 / 算中國用語嗎 question intent -->
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify(faqLD, null, 2)}
   />
 </Layout>
