@@ -307,6 +307,14 @@ const forkPoint = scrub(p.forkPoint);
 const forkCause = scrub(p.forkCause);
 const usageExample = scrub(p.usageExample);
 const usageNote = scrub(p.usageNote);
+// Attribution-only notes (來源：… / CC0 credit) are metadata, not content — don't
+// render them as a 補充 section (leaked on ~230 caris-import entries, e.g. 辣眼睛).
+// Real source attribution still lives in the sources[] list below.
+const notesClean =
+  /^(來源|出處|資料來源|圖片來源|credit)/i.test((p.notes || '').trim()) ||
+  /CC0|caris-events|invade/i.test(p.notes || '')
+    ? ''
+    : p.notes;
 const hasRealEtymology = Boolean(
   origin || forkPoint || forkCause || taiwanPath || chinaPath,
 );
@@ -569,13 +577,13 @@ const faqLD = {
         )
       }
 
-      <!-- notes (only if present) -->
+      <!-- notes (only if real content — attribution-only notes scrubbed) -->
       {
-        p.notes && (
+        notesClean && (
           <section class="mb-8">
             <h2 class="mb-2 text-[1.05rem] font-bold text-[#1a1a2e]">補充</h2>
             <p class="m-0 text-[0.92rem] leading-[1.8] text-[#444]">
-              {p.notes}
+              {notesClean}
             </p>
           </section>
         )
