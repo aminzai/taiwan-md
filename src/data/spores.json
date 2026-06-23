@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-06-22T06:41:58+08:00",
+  "_generated": "2026-06-23T08:53:48+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 137,
@@ -6884,16 +6884,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DZnPRd1k-F4",
       "template": "A2 首尾呼應（「資訊要自由」motif）",
       "metrics": {
-        "views": 30000,
+        "views": 35000,
         "likes": 2055,
         "reposts": 228,
         "comments": 24,
         "shares": 129
       },
       "metricsAsOf": {
-        "dPlus": 6,
-        "harvestDate": "2026-06-22 06:41",
-        "batch": "batch-2026-06-22-8-spores",
+        "dPlus": 7,
+        "harvestDate": "2026-06-23 06:30",
+        "batch": "batch-2026-06-23-6-spores",
         "source": "harvest"
       },
       "history": [
@@ -6956,6 +6956,16 @@
           "reposts": 228,
           "comments": 24,
           "shares": 129
+        },
+        {
+          "dPlus": 7,
+          "harvestDate": "2026-06-23 06:30",
+          "batch": "batch-2026-06-23-6-spores",
+          "views": 35000,
+          "likes": 2055,
+          "reposts": 228,
+          "comments": 24,
+          "shares": 129
         }
       ]
     },
@@ -6970,17 +6980,17 @@
       "url": "https://x.com/taiwandotmd/status/2066559522156748815",
       "template": "A2 首尾呼應（「資訊要自由」motif）",
       "metrics": {
-        "views": 14600,
+        "views": 14646,
         "likes": 569,
         "reposts": 118,
         "comments": 5,
         "shares": 53
       },
       "metricsAsOf": {
-        "dPlus": 6,
-        "harvestDate": "2026-06-22 06:41",
-        "batch": "batch-2026-06-22-8-spores",
-        "source": "harvest"
+        "dPlus": 7,
+        "harvestDate": "2026-06-23 06:30",
+        "batch": "batch-2026-06-23-6-spores",
+        "source": "harvest+backfill"
       },
       "history": [
         {
@@ -7032,6 +7042,16 @@
           "reposts": 118,
           "comments": 5,
           "shares": 53
+        },
+        {
+          "dPlus": 7,
+          "harvestDate": "2026-06-23 06:30",
+          "batch": "batch-2026-06-23-6-spores",
+          "views": 14646,
+          "likes": 569,
+          "reposts": 118,
+          "comments": 5,
+          "shares": null
         }
       ]
     },
@@ -7046,16 +7066,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DZpJfvEE4IL",
       "template": "B 冷知識型 + 問題入口",
       "metrics": {
-        "views": 94000,
+        "views": 90000,
         "likes": 14000,
-        "reposts": 778,
+        "reposts": 780,
         "comments": 75,
         "shares": 217
       },
       "metricsAsOf": {
-        "dPlus": 6,
-        "harvestDate": "2026-06-22 06:41",
-        "batch": "batch-2026-06-22-8-spores",
+        "dPlus": 7,
+        "harvestDate": "2026-06-23 06:30",
+        "batch": "batch-2026-06-23-6-spores",
         "source": "harvest"
       },
       "history": [
@@ -7108,6 +7128,16 @@
           "reposts": 778,
           "comments": 75,
           "shares": 217
+        },
+        {
+          "dPlus": 7,
+          "harvestDate": "2026-06-23 06:30",
+          "batch": "batch-2026-06-23-6-spores",
+          "views": 90000,
+          "likes": 14000,
+          "reposts": 780,
+          "comments": 75,
+          "shares": 217
         }
       ]
     },
@@ -7122,17 +7152,17 @@
       "url": "https://x.com/taiwandotmd/status/2066822763638341918",
       "template": "B 冷知識型 + 問題入口",
       "metrics": {
-        "views": 11000,
+        "views": 11068,
         "likes": 624,
         "reposts": 112,
         "comments": 5,
         "shares": 33
       },
       "metricsAsOf": {
-        "dPlus": 6,
-        "harvestDate": "2026-06-22 06:41",
-        "batch": "batch-2026-06-22-8-spores",
-        "source": "harvest"
+        "dPlus": 7,
+        "harvestDate": "2026-06-23 06:30",
+        "batch": "batch-2026-06-23-6-spores",
+        "source": "harvest+backfill"
       },
       "history": [
         {
@@ -7184,6 +7214,16 @@
           "reposts": 112,
           "comments": 5,
           "shares": 33
+        },
+        {
+          "dPlus": 7,
+          "harvestDate": "2026-06-23 06:30",
+          "batch": "batch-2026-06-23-6-spores",
+          "views": 11068,
+          "likes": 624,
+          "reposts": 112,
+          "comments": 5,
+          "shares": null
         }
       ]
     },
@@ -7198,16 +7238,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DZw5BYDE_fT",
       "template": "B 冷知識型",
       "metrics": {
-        "views": 7159,
+        "views": 7161,
         "likes": 105,
-        "reposts": 7,
+        "reposts": 6,
         "comments": 7,
         "shares": 15
       },
       "metricsAsOf": {
-        "dPlus": 3,
-        "harvestDate": "2026-06-22 06:41",
-        "batch": "batch-2026-06-22-8-spores",
+        "dPlus": 4,
+        "harvestDate": "2026-06-23 06:30",
+        "batch": "batch-2026-06-23-6-spores",
         "source": "harvest"
       },
       "history": [
@@ -7230,6 +7270,16 @@
           "reposts": 7,
           "comments": 7,
           "shares": 15
+        },
+        {
+          "dPlus": 4,
+          "harvestDate": "2026-06-23 06:30",
+          "batch": "batch-2026-06-23-6-spores",
+          "views": 7161,
+          "likes": 105,
+          "reposts": 6,
+          "comments": 7,
+          "shares": 15
         }
       ]
     },
@@ -7244,17 +7294,17 @@
       "url": "https://x.com/taiwandotmd/status/2067914171996614897",
       "template": "B 冷知識型",
       "metrics": {
-        "views": 11000,
+        "views": 11254,
         "likes": 151,
         "reposts": 19,
         "comments": 2,
         "shares": 21
       },
       "metricsAsOf": {
-        "dPlus": 3,
-        "harvestDate": "2026-06-22 06:41",
-        "batch": "batch-2026-06-22-8-spores",
-        "source": "harvest"
+        "dPlus": 4,
+        "harvestDate": "2026-06-23 06:30",
+        "batch": "batch-2026-06-23-6-spores",
+        "source": "harvest+backfill"
       },
       "history": [
         {
@@ -7276,6 +7326,16 @@
           "reposts": 19,
           "comments": 2,
           "shares": 21
+        },
+        {
+          "dPlus": 4,
+          "harvestDate": "2026-06-23 06:30",
+          "batch": "batch-2026-06-23-6-spores",
+          "views": 11254,
+          "likes": 151,
+          "reposts": 19,
+          "comments": 2,
+          "shares": null
         }
       ]
     }
