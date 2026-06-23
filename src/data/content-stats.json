@@ -13,7 +13,7 @@
     "People": 1160,
     "Politics": 55,
     "Society": 440,
-    "Technology": 260,
+    "Technology": 264,
     "resources": 10
   },
   "dailyGrowth": [
@@ -388,7 +388,11 @@
     {
       "date": "2026-06-22",
       "count": 2
+    },
+    {
+      "date": "2026-06-23",
+      "count": 1
     }
   ],
-  "updated": "2026-06-22"
+  "updated": "2026-06-23"
 }

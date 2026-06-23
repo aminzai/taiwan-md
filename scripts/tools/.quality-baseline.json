@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-06-22T15:08:58Z",
+  "timestamp": "2026-06-23T00:40:30Z",
   "total": 817,
   "flagged": 327,
   "files": [
@@ -826,8 +826,8 @@
     },
     {
       "file": "people/草東沒有派對.md",
-      "score": 4,
-      "reasons": "空洞詞7個; 連續bullet4行; 塑膠句2個; 破折號7個"
+      "score": 5,
+      "reasons": "空洞詞7個; 連續bullet4行; 塑膠句2個; 破折號12個"
     },
     {
       "file": "people/楊勇緯.md",

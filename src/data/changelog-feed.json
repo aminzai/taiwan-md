@@ -1,7 +1,169 @@
 {
-  "generatedAt": "2026-06-22T15:08:59.424Z",
+  "generatedAt": "2026-06-23T00:40:31.690Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "01e1c7a56bc03969fa8b7b79cdd48a31f9d292b1",
+      "date": "2026-06-23T00:55:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-23-005257-twmd-babel-nightly — 20 translations / Tier 0a inline + Tier 1 codex 全綠 / REFLEXES #9 mid-batch 又驗",
+      "articles": []
+    },
+    {
+      "hash": "c9fbd822c4ce27aeed35aaef38c1b00333b2e523",
+      "date": "2026-06-23T00:52:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 20 translations shipped — stale=0 across 5 lang via Tier 0a inline + Tier 1 codex parallel — 2026-06-23",
+      "articles": []
+    },
+    {
+      "hash": "e0a0a0596030439ff5949a5235c42ca2a354f9a0",
+      "date": "2026-06-23T00:49:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 2026-06-23-004154-companies-i18n — /companies 6 語企業地圖收官（finale）",
+      "articles": []
+    },
+    {
+      "hash": "51f0404d5955069fff644af9a261416feeb79d5d",
+      "date": "2026-06-23T00:40:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: /companies i18n 補 ja/ko/es/fr 母語字串（6 語齊全）",
+      "articles": []
+    },
+    {
+      "hash": "b38f1e71b267095bc8677d27e53bf2c3ebe2b94f",
+      "date": "2026-06-23T00:22:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: /companies 企業地圖 i18n 化 + 2026 AI 重定價數據刷新",
+      "articles": []
+    },
+    {
+      "hash": "1e27bdd0534402b94e14d8712fdf9723ff269ce7",
+      "date": "2026-06-23T00:14:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 2026-06-22-225922-terminology-evolve — 一個排第一名卻沒人點的頁面",
+      "articles": []
+    },
+    {
+      "hash": "67e5b368452472f87a85d89fffd82d2f7e5aa748",
+      "date": "2026-06-23T00:10:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 2026-06-22-143854-nvidia-taiwan — 寫完一篇文，回頭發現它改寫了鄰居那篇能說的話",
+      "articles": [
+        {
+          "url": "/technology/NVIDIA在台灣",
+          "name": "NVIDIA在台灣"
+        }
+      ]
+    },
+    {
+      "hash": "10c3ab230633e454435293827c14d1475b4da90b",
+      "date": "2026-06-23T00:03:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-22-225922-terminology-evolve — 四層全實作 ship finale",
+      "articles": []
+    },
+    {
+      "hash": "d33d1b0e078464473022c64bd9127c20042c6cc7",
+      "date": "2026-06-23T00:00:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 高畫質.yaml 修 YAML 語法錯誤 + 去 placeholder + 加肉",
+      "articles": []
+    },
+    {
+      "hash": "8b01ab81e7398a9840f02193771f93a1dc856751",
+      "date": "2026-06-22T23:57:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-22-143854-黃仁勳-evolve — 人物文 surgical EVOLVE 收官（修錯字+補崛起+去重 NVIDIA在台灣）",
+      "articles": []
+    },
+    {
+      "hash": "a061300c85a9db07c28b0f94a8f00d69d6e0efb1",
+      "date": "2026-06-22T23:56:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 用語 per-term — 補充段過濾屬名 notes（誠信 render）",
+      "articles": []
+    },
+    {
+      "hash": "b0c18e0a08061fe802b3a024191134faac17027a",
+      "date": "2026-06-22T23:54:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 黃仁勳 EVOLVE — 修錯字(羅彩秀→羅采秀) + 補 2022-25 崛起 + 蘇姿丰雙帝國 + 2026 夜市人味 + 去重 NVIDIA在台灣",
+      "articles": [
+        {
+          "url": "/people/黃仁勳",
+          "name": "黃仁勳"
+        }
+      ]
+    },
+    {
+      "hash": "1425e0e835339754f36cc19edfecb9fc13ec6f3c",
+      "date": "2026-06-22T23:50:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 用語 per-term P3 加肉 — usage 例句模組 + 數據驅動 enrich 9 詞",
+      "articles": []
+    },
+    {
+      "hash": "a83b51669e99f70b91d4e09bd073cd9a2d75be8c",
+      "date": "2026-06-22T23:36:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: terminology-demand-rank.py — 用語需求驅動 enrich 排序器",
+      "articles": []
+    },
+    {
+      "hash": "0dbc2fc08b6d18cfa7e5626721f480e26a678d13",
+      "date": "2026-06-22T23:31:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 用語 per-term 頁 template 進化 P0-P2 — 止血 + SERP 轉換",
+      "articles": []
+    },
+    {
+      "hash": "3a8d544d3f797e8e171b686216345ae75b9735e2",
+      "date": "2026-06-22T23:27:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-22-143854-nvidia-taiwan 補走 MEMORY-PIPELINE（/twmd-memory）",
+      "articles": []
+    },
+    {
+      "hash": "dc639960d1636b5ca7fb621bd7f1047e6f471e5c",
+      "date": "2026-06-22T23:25:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-22-223108-草東-media-evolve — 草東 媒體+視覺化 EVOLVE 收官（ship e79c30b8d）",
+      "articles": []
+    },
+    {
+      "hash": "e79c30b8deeb514540e8b9f2613403e560f12c00",
+      "date": "2026-06-22T23:16:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 草東沒有派對 媒體+視覺化 EVOLVE",
+      "articles": [
+        {
+          "url": "/people/草東沒有派對",
+          "name": "草東沒有派對"
+        }
+      ]
+    },
+    {
+      "hash": "3a398f7b3ee95263240f08c92051e2b8a20496e6",
+      "date": "2026-06-22T23:17:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diagnose: 用語頁面進化 GA/SC 觀察 + 四層策略 report 歸檔",
+      "articles": []
+    },
+    {
+      "hash": "c582cba463c351b70d1677e6de27604341e1630c",
+      "date": "2026-06-22T23:12:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-22-231024-twmd-data-refresh-pm — pm 14-step ALL PASS + Step 11 連 27d 全綠 + immune 52→52 stable (chronic flat 重啟第 1 cycle) + sensor 時間常數 ~24hr 形狀",
+      "articles": []
+    },
+    {
+      "hash": "cccf6a3707610049880d0bd6abad6ce4c1e86cb8",
+      "date": "2026-06-22T23:09:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: pm 14-step data refresh — 三源全綠 + Step 11 11/11 fresh 連 27d + immune 52 stable (am 同分) + plugin_health 48.0 持平 / external_rulers 3.7 + chronic flat 重啟第 1 cycle / vitals 📄zh 815 / babel +2 en (817→819) / stats ⭐1063 🍴156 👥61 / build 173s -4s vs am",
+      "articles": []
+    },
     {
       "hash": "45dde391f59aaa7c8b7c8a3ab4062ba9890526e7",
       "date": "2026-06-22T23:04:17+08:00",

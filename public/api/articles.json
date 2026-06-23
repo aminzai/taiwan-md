@@ -4422,6 +4422,17 @@
     "path": "ja/Society/taiwans-labeling-in-international-standards.md"
   },
   {
+    "title": "台湾におけるNVIDIA：世界で最も高価な企業は、一つのチップも自社で作っていません",
+    "description": "2025年5月のComputexで、黄仁勲（こう・じんくん／ジェンスン・フアン）は革ジャンを着て登壇し、背面スクリーンには台湾企業55社のロゴが一斉に点灯しました。米国企業が公衆の面前で、この島全体の産業を自らの身体として名指ししたのです。1996年に張忠謀（ちょう・ちゅうぼう／モリス・チャン）へ送ったあの手紙から、時価総額が5兆米ドルを突破し、台北市政府が44.34億元を支払って土地を確保するまで、NVIDIAはその身体全体を台湾に預けてきました。台湾はその結果、世界が切ることのできないスイッチを握っています。しかし粗利はわずか5%、水と電力は吸い上げられ、戦争リスクは島の上に置かれています。離れられないことは、台湾が決定権を持つことと同じではありません。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/technology/nvidia-in-taiwan",
+    "readingTime": 118,
+    "featured": true,
+    "date": "2026-06-22",
+    "path": "ja/Technology/nvidia-in-taiwan.md"
+  },
+  {
     "title": "台湾におけるThreads：Twitterの代替から「脆」文化の主戦場へ",
     "description": "世界のユーザーがThreadsへの熱意を冷ましていくなか、台湾はまったく異なる道を歩みました。350万人のユーザー、世界第2位の市場、利用時間は世界首位です。ここはZ世代が本音を発し、政治家が「庶民の場へ降り」、ミームが熱狂するデジタル公共広場となり、台湾のソーシャルメディア生態系を再定義しています。",
     "category": "ja",
@@ -15703,10 +15714,21 @@
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/people/%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D",
-    "readingTime": 39,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-04-18",
     "path": "People/草東沒有派對.md"
+  },
+  {
+    "title": "草東沒有派對：陽明山の草東街から二度の金曲賞最優秀バンド賞までの十二年",
+    "description": "2017 年の第 28 回金曲賞で、自費で 2,000 枚の CD をプレスした四人組バンドが、五月天を圧倒して三冠を獲得しました。彼らは七年間姿を消し、その間にドラマー凡凡が 2021 年に防疫ホテルで亡くなり、二年の沈黙が続きました。2023 年に《瓦合》で復帰し、2024 年の第 35 回金曲賞で年間アルバム + 最優秀華語アルバム + 最優秀バンド賞の三冠を獲得しました。マネージャーは代理受賞でこう述べました。「草東は決して、舞台に立つ 4 人だけではありません。」",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/no-party-for-cao-dong",
+    "readingTime": 64,
+    "featured": false,
+    "date": "2026-04-18",
+    "path": "ja/People/no-party-for-cao-dong.md"
   },
   {
     "title": "起源の物語 — Taiwan.md の誕生",
@@ -18734,7 +18756,7 @@
       "GPU"
     ],
     "url": "https://taiwan.md/people/%E9%BB%83%E4%BB%81%E5%8B%B3",
-    "readingTime": 24,
+    "readingTime": 39,
     "featured": true,
     "date": "2026-03-25",
     "path": "People/黃仁勳.md"
@@ -18902,12 +18924,12 @@
     "path": "ja/People/david-wong.md"
   },
   {
-    "title": "黄仁勳",
-    "description": "ケンタッキー州の寄宿学校から五兆ドル規模の帝国へ――トイレ掃除をしていた台南出身の少年が、十年後に訪れる未来に賭けた物語",
+    "title": "黄仁勲",
+    "description": "ケンタッキーの寄宿学校から5兆ドル帝国へ――トイレ掃除をしていた台南の少年はいかにして10年後に到来する未来に賭けたのか",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/people/jensen-huang",
-    "readingTime": 30,
+    "readingTime": 51,
     "featured": true,
     "date": "2026-03-25",
     "path": "ja/People/jensen-huang.md"
@@ -27084,7 +27106,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/technology/computex-taipei",
-    "readingTime": 165,
+    "readingTime": 166,
     "featured": true,
     "date": "2026-06-01",
     "path": "fr/Technology/computex-taipei.md"
@@ -27095,7 +27117,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/technology/computex-taipei",
-    "readingTime": 79,
+    "readingTime": 80,
     "featured": true,
     "date": "2026-06-01",
     "path": "ko/Technology/computex-taipei.md"
@@ -27106,7 +27128,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/technology/computex-taipei",
-    "readingTime": 162,
+    "readingTime": 163,
     "featured": true,
     "date": "2026-06-01",
     "path": "es/Technology/computex-taipei.md"
@@ -27128,7 +27150,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/technology/computex-taipei",
-    "readingTime": 75,
+    "readingTime": 76,
     "featured": true,
     "date": "2026-06-01",
     "path": "ja/Technology/computex-taipei.md"
@@ -34012,33 +34034,33 @@
   },
   {
     "title": "Jensen Huang",
-    "description": "From a Kentucky reform school to history's first $5 trillion company — how a toilet-scrubbing boy from Tainan bet on a future that took a decade to arrive",
+    "description": "From a Kentucky boarding school to a five-trillion-dollar empire: how a Tainan boy who cleaned toilets bet on a future that would not arrive for another decade",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/jensen-huang",
-    "readingTime": 60,
+    "readingTime": 98,
     "featured": true,
     "date": "2026-03-25",
     "path": "en/People/jensen-huang.md"
   },
   {
     "title": "Jensen Huang",
-    "description": "De un internado en Kentucky a un imperio de cinco billones de dólares: cómo un niño de Tainan que limpiaba baños apostó por un futuro que tardaría una década en llegar",
+    "description": "De un internado en Kentucky a un imperio de cinco billones de dólares: cómo un niño de Tainan que limpiaba baños apostó por un futuro que llegaría diez años después",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/jensen-huang",
-    "readingTime": 65,
+    "readingTime": 109,
     "featured": true,
     "date": "2026-03-25",
     "path": "es/People/jensen-huang.md"
   },
   {
     "title": "Jensen Huang",
-    "description": "De l'internat du Kentucky à l'empire des cinq mille milliards — comment un garçon de Tainan qui récurait des toilettes a parié sur un avenir qui n'existait pas encore",
+    "description": "De l'internat du Kentucky à un empire de cinq mille milliards de dollars : comment un garçon de Tainan qui nettoyait des toilettes a parié sur un avenir qui n'arriverait que dix ans plus tard",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/jensen-huang",
-    "readingTime": 66,
+    "readingTime": 114,
     "featured": true,
     "date": "2026-03-25",
     "path": "fr/People/jensen-huang.md"
@@ -43109,59 +43131,37 @@
     "path": "ko/Technology/into-the-cellar-taiwan-game-podcast.md"
   },
   {
-    "title": "No Party for Cao Dong: de la calle Caodong en la montaña Yangming a dos premios Golden Melody al Mejor Grupo en doce años",
-    "description": "En los Golden Melody 28 de 2017, un cuarteto que autofinanció una tirada de 2.000 CD venció aplastantemente a Mayday y se llevó tres estatuillas. Desaparecieron durante siete años, un periodo que abarca la muerte de la baterista Fan Fan en un hotel de cuarentena en 2021 y dos años de silencio. En 2023 regresaron con *The Clod*, y en los Golden Melody 35 de 2024 lograron el triplete de Álbum del Año + Mejor Álbum en Mandarín + Mejor Grupo. Su manager recogió el premio en su nombre: «No Party for Cao Dong nunca ha sido solo las 4 personas sobre el escenario.»",
+    "title": "No Party for Cao Dong : douze ans, de la rue Caodong à Yangmingshan à deux prix Golden Melody du meilleur groupe",
+    "description": "Aux 28e Golden Melody Awards en 2017, un quatuor qui avait pressé à ses frais 2 000 CD a écrasé Mayday et remporté trois prix. Ils ont disparu pendant sept ans, traversant la mort de la batteuse Fan-Fan en 2021 dans un hôtel de quarantaine et deux années de silence. En 2023, ils sont revenus avec 《瓦合》 ; aux 35e Golden Melody Awards en 2024, ils ont remporté le triplé album de l'année + meilleur album en mandarin + meilleur groupe, leur manager recevant les prix à leur place : « 草東從來不只是站在舞台上的 4 個人。 »",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/no-party-for-cao-dong",
+    "readingTime": 140,
+    "featured": false,
+    "date": "2026-04-18",
+    "path": "fr/People/no-party-for-cao-dong.md"
+  },
+  {
+    "title": "No Party for Cao Dong: doce años desde la calle Caodong de Yangmingshan hasta dos Premios Golden Melody a Mejor Banda",
+    "description": "En los Golden Melody 28 de 2017, una banda de cuatro integrantes que había financiado por cuenta propia 2.000 CD derrotó de manera abrumadora a Mayday y se llevó tres premios. Desaparecieron durante siete años, atravesando la muerte de la baterista Fanfan en 2021 en un hotel de cuarentena y dos años de silencio. En 2023 regresaron con The Clod; en los Golden Melody 35 de 2024 obtuvieron la triple corona de Álbum del Año + Mejor Álbum en Mandarín + Mejor Banda, y su mánager recibió los premios en su nombre: «No Party for Cao Dong nunca ha sido solamente las 4 personas que están sobre el escenario».",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/no-party-for-cao-dong",
-    "readingTime": 130,
+    "readingTime": 151,
     "featured": false,
     "date": "2026-04-18",
     "path": "es/People/no-party-for-cao-dong.md"
   },
   {
-    "title": "No Party For Cao Dong: From Cao Dong Street in Yangmingshan to Two Golden Melody Awards for Best Band in Twelve Years",
-    "description": "At the 28th Golden Melody Awards in 2017, a four-piece band that self-funded the pressing of 2,000 CDs decisively defeated Mayday to win three awards. They vanished for seven years, spanning the death of drummer Fanfan in a quarantine hotel in 2021 and two years of silence. They returned in 2023 with the album 'Wa He' (The Clod), and at the 35th Golden Melody Awards in 2024, they won the triple crown of Album of the Year, Best Mandarin Album, and Best Band. The manager accepted the awards on their behalf, stating: 'No Party For Cao Dong has never been just the 4 people standing on stage.'",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/people/no-party-for-cao-dong",
-    "readingTime": 122,
-    "featured": false,
-    "date": "2026-04-18",
-    "path": "ja/People/no-party-for-cao-dong.md"
-  },
-  {
-    "title": "No Party for Cao Dong: Twelve Years from a Yangmingshan Street Corner to Two Golden Melody Best Band Awards",
-    "description": "At the 28th Golden Melody Awards in 2017, a four-piece band that self-pressed 2,000 CDs swept three trophies, decisively defeating Mayday. They vanished for seven years — a span that crossed drummer Fan Fan's death in a quarantine hotel in 2021 and two years of silence. In 2023 they returned with *Whe·Re*, and at the 35th Golden Melody Awards in 2024 they claimed a triple crown: Album of the Year, Best Mandarin Album, and Best Band. Their manager accepted on their behalf: 'No Party for Cao Dong has never been only the 4 people standing on stage.'",
+    "title": "No Party for Cao Dong: Twelve Years from Cao Dong Street on Yangmingshan to Two Golden Melody Best Band Wins",
+    "description": "At the 28th Golden Melody Awards in 2017, a four-piece band that had self-funded a pressing of 2,000 CDs overwhelmingly defeated Mayday and won three awards. They disappeared for seven years, a period that spanned drummer Fanfan's death in a quarantine hotel in 2021 and two years of silence. In 2023 they returned with The Clod; at the 35th Golden Melody Awards in 2024 they won the triple crown of Album of the Year, Best Mandarin Album, and Best Band, with their manager accepting on their behalf: “No Party for Cao Dong has never been only the four people standing onstage.”",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/no-party-for-cao-dong",
-    "readingTime": 118,
+    "readingTime": 142,
     "featured": false,
     "date": "2026-04-18",
     "path": "en/People/no-party-for-cao-dong.md"
-  },
-  {
-    "title": "No Party For Cao Dong: Twelve Years from Yangmingshan's Cao Dong Street to Two Golden Melody Awards for Best Band",
-    "description": "At the 28th Golden Melody Awards in 2017, a four-piece band that self-funded the pressing of 2,000 CDs decisively defeated Mayday to win three awards. They vanished for seven years, spanning drummer Fanfan's (Cai Yifan) passing in a quarantine hotel in 2021 and two years of silence. They returned in 2023 with the album 'He Wei' (Wa He), and at the 35th Golden Melody Awards in 2024, they swept the Album of the Year, Best Mandarin Album, and Best Band triple crown. The manager accepted the awards on their behalf, stating: 'No Party For Cao Dong has never been just the 4 people standing on stage.'",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/people/no-party-for-cao-dong",
-    "readingTime": 123,
-    "featured": false,
-    "date": "2026-04-18",
-    "path": "ko/People/no-party-for-cao-dong.md"
-  },
-  {
-    "title": "No Party for Cao Douze : de la rue Cao Dong au mont Yangming à deux prix du meilleur groupe aux Golden Melody Awards en douze ans",
-    "description": "Lors des 28e Golden Melody Awards en 2017, un groupe de quatre musiciens autoproduisant 2 000 CD a battu Mayday de manière écrasante et remporté trois trophées. Ils ont disparu pendant sept ans, traversant la mort du batteur Fan Fan (Cai Yifan) en 2021 dans un hôtel de quarantaine et deux ans de silence. En 2023, ils sont revenus avec *The Clod*, et lors des 35e Golden Melody Awards en 2024, ils ont remporté le triple prix : album de l'année + meilleur album mandarin + meilleur groupe. Le manager a accepté en leur nom : « No Party for Cao Dong n'a jamais été seulement les 4 personnes sur scène. »",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/people/no-party-for-cao-dong",
-    "readingTime": 133,
-    "featured": false,
-    "date": "2026-04-18",
-    "path": "fr/People/no-party-for-cao-dong.md"
   },
   {
     "title": "No Sleep Without Entering the Cellar: Thirty Years of Taiwan's Gaming Community",
@@ -43240,6 +43240,50 @@
     "featured": true,
     "date": "2026-06-22",
     "path": "Technology/NVIDIA在台灣.md"
+  },
+  {
+    "title": "NVIDIA à Taïwan : l'entreprise la plus chère du monde ne fabrique elle-même aucune puce",
+    "description": "En mai 2025, à Computex, Jensen Huang apparaît en blouson de cuir ; derrière lui, les logos de 55 entreprises taïwanaises s'allument d'un seul coup : une société américaine désigne publiquement toute l'industrie de l'île comme son propre corps. De la lettre adressée à Morris Chang en 1996 à une capitalisation boursière franchissant les cinq billions de dollars, jusqu'aux 4,434 milliards de dollars taïwanais déboursés par la municipalité de Taipei pour lui dégager un terrain, NVIDIA a déposé tout son corps à Taïwan. Taïwan tient ainsi l'interrupteur que le monde entier ne peut pas éteindre ; mais ses marges ne sont que de 5 %, son eau et son électricité sont aspirées, et le risque de guerre est placé sur l'île : être indispensable ne signifie pas que Taïwan décide.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/technology/nvidia-in-taiwan",
+    "readingTime": 260,
+    "featured": true,
+    "date": "2026-06-22",
+    "path": "fr/Technology/nvidia-in-taiwan.md"
+  },
+  {
+    "title": "NVIDIA en Taiwán: la empresa más valiosa del mundo no fabrica ni uno solo de sus chips",
+    "description": "En Computex de mayo de 2025, Jensen Huang apareció con su chaqueta de cuero y, en la pantalla de fondo, se encendieron de una vez los logos de 55 empresas taiwanesas: una compañía estadounidense nombraba públicamente a toda la industria de la isla como su propio cuerpo material. Desde aquella carta enviada a Morris Chang en 1996 hasta superar los cinco billones de dólares de valor de mercado y ver al Gobierno de Taipéi desembolsar 4,434 millones de dólares taiwaneses para despejarle un terreno, NVIDIA ha depositado todo su cuerpo en Taiwán. Por eso Taiwán sostiene un interruptor que el mundo no puede apagar, pero sus márgenes brutos son de apenas 5%, se le drenan el agua y la electricidad, y el riesgo de guerra queda cargado sobre la isla: que no puedan prescindir de ella no significa que Taiwán tenga la última palabra.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/technology/nvidia-in-taiwan",
+    "readingTime": 251,
+    "featured": true,
+    "date": "2026-06-22",
+    "path": "es/Technology/nvidia-in-taiwan.md"
+  },
+  {
+    "title": "NVIDIA in Taiwan: The World's Most Valuable Company Does Not Make a Single Chip Itself",
+    "description": "At Computex in May 2025, Jensen Huang walked onstage in a leather jacket as the backdrop lit up with the logos of 55 Taiwanese companies: an American company publicly named an entire island's industries as its own physical body. From the 1996 letter to Morris Chang, to a market value breaking US$5 trillion, to the Taipei City Government spending NT$4.434 billion to clear a parcel of land for it, NVIDIA has lodged its entire body in Taiwan. Taiwan therefore holds the switch the world cannot turn off. Yet its gross margin is only 5%, its water and electricity are drained, and war risk is placed on the island: being indispensable to NVIDIA does not mean Taiwan calls the shots.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/technology/nvidia-in-taiwan",
+    "readingTime": 245,
+    "featured": true,
+    "date": "2026-06-22",
+    "path": "en/Technology/nvidia-in-taiwan.md"
+  },
+  {
+    "title": "NVIDIA의 타이완: 세계에서 가장 비싼 회사는 칩 하나도 직접 만들지 않는다",
+    "description": "2025년 5월 Computex에서 황런쉰은 가죽 재킷을 입고, 무대 뒤 스크린에는 타이완 기업 55곳의 로고가 한꺼번에 켜졌다. 한 미국 기업이 공개석상에서 섬 전체의 산업을 자기 몸의 일부로 호명한 순간이었다. 1996년 장중머우에게 보낸 그 편지에서부터 시가총액 5조 달러 돌파, 타이베이시 정부가 44억 3,400만 대만달러를 들여 그 회사를 위한 부지를 비워낸 일까지, NVIDIA는 자기 몸 전체를 타이완에 맡겨 두었다. 그 덕분에 타이완은 전 세계가 끌 수 없는 스위치를 쥐게 되었지만, 매출총이익률은 5%에 그치고, 물과 전기는 고갈되며, 전쟁 위험은 섬 위에 얹힌다. 그것 없이는 안 된다는 사실이 곧 타이완이 결정권을 쥐었다는 뜻은 아니다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/technology/nvidia-in-taiwan",
+    "readingTime": 132,
+    "featured": true,
+    "date": "2026-06-22",
+    "path": "ko/Technology/nvidia-in-taiwan.md"
   },
   {
     "title": "Ocho voces en armonía: un fósil viviente que desafía la visión occidental de la historia musical",
@@ -63567,6 +63611,17 @@
     "path": "ko/People/tzuyu.md"
   },
   {
+    "title": "차오둥메이유파이두이: 양밍산 차오둥제에서 두 차례 금곡상 최우수 밴드까지의 12년",
+    "description": "2017년 제28회 금곡상에서 자비로 CD 2,000장을 찍은 4인조 밴드가 메이데이를 압도적으로 꺾고 3관왕을 차지했다. 그들은 7년 동안 사라졌고, 그 시간은 2021년 드러머 판판이 방역 호텔에서 세상을 떠난 일과 2년의 침묵을 가로질렀다. 2023년 《와허》로 돌아왔고, 2024년 제35회 금곡상에서 올해의 앨범 + 최우수 중국어 앨범 + 최우수 밴드 3관왕을 차지했다. 매니저는 대리 수상하며 말했다. “차오둥은 단 한 번도 무대 위에 선 4명만을 뜻한 적이 없다.”",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/no-party-for-cao-dong",
+    "readingTime": 70,
+    "featured": false,
+    "date": "2026-04-18",
+    "path": "ko/People/no-party-for-cao-dong.md"
+  },
+  {
     "title": "차우크볼: 대만의 숨겨진 43년 세계 챔피언",
     "description": "1977년 한 대만 교수가 영국에서 네트 프레임을 들고 돌아왔고, 스위스에서 발명된 \"신사의 공\"은 뜻밖에도 대만 학교에 뿌리를 내렸다. 40여 년이 지난 지금, 대만 팀은 세계 1위를 굳건히 지키고 국제 협회도 가오슝에 있지만, 여전히 대부분의 대만인에게는 낯선 비인기 종목으로 남아 있다.",
     "category": "ko",
@@ -65737,8 +65792,8 @@
     "path": "ko/People/david-wong.md"
   },
   {
-    "title": "황런쉰(黃仁勳)",
-    "description": "켄터키 기숙학교에서 5조 달러 제국까지 — 화장실을 청소하던 타이난 소년이 10년 뒤에야 증명될 미래에 어떻게 모든 것을 걸었는가",
+    "title": "황런쉰",
+    "description": "켄터키 기숙학교에서 5조 달러 제국까지 - 화장실을 청소하던 타이난 소년은 어떻게 10년 뒤에야 도래할 미래에 베팅했는가",
     "category": "ko",
     "tags": [
       "인물",
@@ -65751,7 +65806,7 @@
       "GPU"
     ],
     "url": "https://taiwan.md/ko/people/jensen-huang",
-    "readingTime": 34,
+    "readingTime": 57,
     "featured": true,
     "date": "2026-03-25",
     "path": "ko/People/jensen-huang.md"
