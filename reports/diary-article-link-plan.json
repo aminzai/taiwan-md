@@ -1,0 +1,3673 @@
+[
+  {
+    "diary": "2026-04-04-ζ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-04-η",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-04-θ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-04",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-05-β",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-05-δ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-05-ζ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-06-ι",
+    "tier": "C",
+    "articles": ["茄子蛋"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["茄子蛋"],
+      "slug": null
+    },
+    "candidates": {
+      "茄子蛋": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-06-κ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-07-β",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-07-δ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-07-ζ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-08-β",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-08-γ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-08-δ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-08-ε",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-08-ζ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-09-γ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-10",
+    "tier": "C",
+    "articles": [
+      "動物園與展演動物倫理",
+      "台灣流浪動物文化",
+      "台灣災難醫療體系",
+      "VH",
+      "台灣醫療與全民健保",
+      "台灣動物用藥爭議",
+      "台灣國防與軍事現代化"
+    ],
+    "signals": {
+      "window": {},
+      "cocommit": [
+        "VH",
+        "動物園與展演動物倫理",
+        "台灣動物用藥爭議",
+        "台灣流浪動物文化",
+        "台灣災難醫療體系",
+        "台灣醫療與全民健保"
+      ],
+      "memory": ["台灣國防與軍事現代化"],
+      "slug": null
+    },
+    "candidates": {
+      "動物園與展演動物倫理": ["cocommit"],
+      "台灣流浪動物文化": ["cocommit"],
+      "台灣災難醫療體系": ["cocommit"],
+      "VH": ["cocommit"],
+      "台灣醫療與全民健保": ["cocommit"],
+      "台灣動物用藥爭議": ["cocommit"],
+      "台灣國防與軍事現代化": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": [
+      "動物園與展演動物倫理",
+      "台灣流浪動物文化",
+      "台灣災難醫療體系",
+      "VH",
+      "台灣醫療與全民健保",
+      "台灣動物用藥爭議"
+    ]
+  },
+  {
+    "diary": "2026-04-11-α",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-11-β",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-11-δ",
+    "tier": "C",
+    "articles": ["台灣國樂", "台灣獸迷文化"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["台灣國樂", "台灣獸迷文化"],
+      "slug": null
+    },
+    "candidates": {
+      "台灣國樂": ["memory"],
+      "台灣獸迷文化": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-11-ε",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-11-ζ",
+    "tier": "C",
+    "articles": ["鄭麗文"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["鄭麗文"],
+      "slug": null
+    },
+    "candidates": {
+      "鄭麗文": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-12-ζ2",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-12-ι",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-12",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-13-α",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-13-α2",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-14-η",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-14-θ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-14-ι",
+    "tier": "C",
+    "articles": ["李洋"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["李洋"],
+      "slug": null
+    },
+    "candidates": {
+      "李洋": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-14-κ",
+    "tier": "C",
+    "articles": ["周子瑜"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["周子瑜"],
+      "slug": null
+    },
+    "candidates": {
+      "周子瑜": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-14-κ2",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-14-λ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-14-μ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-14-ν",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-15-β",
+    "tier": "C",
+    "articles": ["小虎隊"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["小虎隊"],
+      "slug": null
+    },
+    "candidates": {
+      "小虎隊": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-17-β",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-17-γ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-17-δ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-18-δ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-18-ζ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-19-α",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-19-β",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-19-β2",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-19-γ",
+    "tier": "B",
+    "articles": ["台灣動漫文化"],
+    "signals": {
+      "window": {},
+      "cocommit": ["台灣動漫文化"],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {
+      "台灣動漫文化": ["cocommit"]
+    },
+    "already_linked": [],
+    "to_write": ["台灣動漫文化"]
+  },
+  {
+    "diary": "2026-04-19-ε",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-20-α",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-20-β",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-20-ε",
+    "tier": "C",
+    "articles": ["王新仁"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["王新仁"],
+      "slug": null
+    },
+    "candidates": {
+      "王新仁": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-21-β",
+    "tier": "C",
+    "articles": ["紀柏豪"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["紀柏豪"],
+      "slug": null
+    },
+    "candidates": {
+      "紀柏豪": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-21-γ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-22-α",
+    "tier": "C",
+    "articles": ["台灣太空產業發展", "台灣迷因", "林琪兒", "馬英九"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["台灣太空產業發展", "台灣迷因", "林琪兒", "馬英九"],
+      "slug": null
+    },
+    "candidates": {
+      "台灣太空產業發展": ["memory"],
+      "台灣迷因": ["memory"],
+      "林琪兒": ["memory"],
+      "馬英九": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-22-β",
+    "tier": "A",
+    "articles": ["馬英九迷因", "台灣新媒體藝術"],
+    "signals": {
+      "window": {},
+      "cocommit": ["馬英九迷因"],
+      "memory": ["台灣新媒體藝術", "馬英九迷因"],
+      "slug": null
+    },
+    "candidates": {
+      "馬英九迷因": ["cocommit", "memory"],
+      "台灣新媒體藝術": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": ["馬英九迷因"]
+  },
+  {
+    "diary": "2026-04-23-α",
+    "tier": "C",
+    "articles": ["台灣新媒體藝術"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["台灣新媒體藝術"],
+      "slug": null
+    },
+    "candidates": {
+      "台灣新媒體藝術": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-23-γ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-23-δ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-24-α",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-24-β",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-24-β2",
+    "tier": "C",
+    "articles": [
+      "林琪兒",
+      "認知作戰",
+      "半導體產業",
+      "科技園區發展",
+      "台海危機與兩岸關係發展",
+      "造山者世紀的賭注"
+    ],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [
+        "半導體產業",
+        "台海危機與兩岸關係發展",
+        "林琪兒",
+        "科技園區發展",
+        "認知作戰",
+        "造山者世紀的賭注"
+      ],
+      "slug": null
+    },
+    "candidates": {
+      "林琪兒": ["memory"],
+      "認知作戰": ["memory"],
+      "半導體產業": ["memory"],
+      "科技園區發展": ["memory"],
+      "台海危機與兩岸關係發展": ["memory"],
+      "造山者世紀的賭注": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-26-β8",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-26-γ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-27-γ-late",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-27-γ",
+    "tier": "C",
+    "articles": ["台灣民歌運動"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["台灣民歌運動"],
+      "slug": null
+    },
+    "candidates": {
+      "台灣民歌運動": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-27-ε",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-28-ζ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-28-η",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-28-θ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-28-ι",
+    "tier": "C",
+    "articles": ["壞特"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["壞特"],
+      "slug": null
+    },
+    "candidates": {
+      "壞特": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-28-κ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-29-α",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-29-β",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-29-δ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-30-α",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-30-γ",
+    "tier": "C",
+    "articles": ["特有種", "台灣獼猴", "福爾摩沙鳥類學", "黑冠麻鷺"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["台灣獼猴", "特有種", "福爾摩沙鳥類學", "黑冠麻鷺"],
+      "slug": null
+    },
+    "candidates": {
+      "特有種": ["memory"],
+      "台灣獼猴": ["memory"],
+      "福爾摩沙鳥類學": ["memory"],
+      "黑冠麻鷺": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-04-30-δ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-01-β",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-01-γ-late",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-01-γ-late2",
+    "tier": "C",
+    "articles": ["伊斯蘭教在台灣"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["伊斯蘭教在台灣"],
+      "slug": null
+    },
+    "candidates": {
+      "伊斯蘭教在台灣": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-01-γ-late3",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-01-γ-late4",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-01-γ-late5",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-01-γ-late7",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-01-γ",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-02-bench-owl",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-02-lang-sync-day-complete",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-02-sleepy-colden",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-02-γ-late",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-02",
+    "tier": "C",
+    "articles": [
+      "台灣與史瓦帝尼",
+      "想想論壇",
+      "台灣邦交國與國際外交",
+      "毒馬鈴薯認知作戰",
+      "認知作戰",
+      "賴清德",
+      "太陽花學運",
+      "2026鄭習會與國共十年再會",
+      "蔡英文"
+    ],
+    "signals": {
+      "window": {},
+      "cocommit": [
+        "2026鄭習會與國共十年再會",
+        "台灣與史瓦帝尼",
+        "台灣邦交國與國際外交",
+        "太陽花學運",
+        "想想論壇",
+        "毒馬鈴薯認知作戰",
+        "蔡英文",
+        "認知作戰",
+        "賴清德"
+      ],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {
+      "台灣與史瓦帝尼": ["cocommit"],
+      "想想論壇": ["cocommit"],
+      "台灣邦交國與國際外交": ["cocommit"],
+      "毒馬鈴薯認知作戰": ["cocommit"],
+      "認知作戰": ["cocommit"],
+      "賴清德": ["cocommit"],
+      "太陽花學運": ["cocommit"],
+      "2026鄭習會與國共十年再會": ["cocommit"],
+      "蔡英文": ["cocommit"]
+    },
+    "already_linked": [],
+    "to_write": [
+      "台灣與史瓦帝尼",
+      "想想論壇",
+      "台灣邦交國與國際外交",
+      "毒馬鈴薯認知作戰",
+      "認知作戰",
+      "賴清德",
+      "太陽花學運",
+      "2026鄭習會與國共十年再會",
+      "蔡英文"
+    ]
+  },
+  {
+    "diary": "2026-05-03-cross-lang-baseline",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-03-gallant-payne",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-03-magical-feynman-babel",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-03-musing-chaplygin",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-03-objective-khorana-day2-evening",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-03-sleepy-colden-build-perf",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-04-161254-jovial-feistel-editorial-v5.6",
+    "tier": "C",
+    "articles": ["黃少雍"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["黃少雍"],
+      "slug": null
+    },
+    "candidates": {
+      "黃少雍": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-04-angry-shamir-2-mining-mode",
+    "tier": "C",
+    "articles": ["當代藝術", "鄭文琦"],
+    "signals": {
+      "window": {},
+      "cocommit": ["當代藝術", "鄭文琦"],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {
+      "當代藝術": ["cocommit"],
+      "鄭文琦": ["cocommit"]
+    },
+    "already_linked": [],
+    "to_write": ["當代藝術", "鄭文琦"]
+  },
+  {
+    "diary": "2026-05-04-angry-shamir-nml-mirror",
+    "tier": "C",
+    "articles": ["當代藝術", "鄭文琦"],
+    "signals": {
+      "window": {},
+      "cocommit": ["當代藝術", "鄭文琦"],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {
+      "當代藝術": ["cocommit"],
+      "鄭文琦": ["cocommit"]
+    },
+    "already_linked": [],
+    "to_write": ["當代藝術", "鄭文琦"]
+  },
+  {
+    "diary": "2026-05-04-exciting-burnell-build-perf-mirror",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-04-magical-feynman-stale-classifier",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-05-001804-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-05-162921-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-08-162637-elegant-ptolemy",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-09-014522-laughing-goldstine",
+    "tier": "C",
+    "articles": ["李洋"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["李洋"],
+      "slug": null
+    },
+    "candidates": {
+      "李洋": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-09-133952-laughing-goldstine",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-09-161508-laughing-goldstine",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-09-202256-brave-kirch",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-09-221337-laughing-goldstine",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-09-222920-brave-kirch-editorial",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-10-104255-nice-shamir",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-10-113538-twmd-self-evolve-weekly",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-10-121135-explore-page",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-10-233800-sad-shockley-cognitive-flow",
+    "tier": "B",
+    "articles": ["醫療法"],
+    "signals": {
+      "window": {},
+      "cocommit": ["醫療法"],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {
+      "醫療法": ["cocommit"]
+    },
+    "already_linked": [],
+    "to_write": ["醫療法"]
+  },
+  {
+    "diary": "2026-05-11-113350-admiring-cohen-shoulu",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-11-161037-kind-mirzakhani",
+    "tier": "C",
+    "articles": [
+      "荷西明鄭時期",
+      "台灣島史觀",
+      "19世紀的樟腦戰爭",
+      "福爾摩沙",
+      "三個外國人看乙未"
+    ],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [
+        "19世紀的樟腦戰爭",
+        "三個外國人看乙未",
+        "台灣島史觀",
+        "福爾摩沙",
+        "荷西明鄭時期"
+      ],
+      "slug": null
+    },
+    "candidates": {
+      "荷西明鄭時期": ["memory"],
+      "台灣島史觀": ["memory"],
+      "19世紀的樟腦戰爭": ["memory"],
+      "福爾摩沙": ["memory"],
+      "三個外國人看乙未": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-11-161600-twmd-rewrite-daily",
+    "tier": "A",
+    "articles": ["台灣鐵道史", "台灣無人機產業"],
+    "signals": {
+      "window": {},
+      "cocommit": ["台灣鐵道史"],
+      "memory": ["台灣無人機產業", "台灣鐵道史"],
+      "slug": null
+    },
+    "candidates": {
+      "台灣鐵道史": ["cocommit", "memory"],
+      "台灣無人機產業": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": ["台灣鐵道史"]
+  },
+  {
+    "diary": "2026-05-11-221105-twmd-babel-nightly",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-11-225859-cranky-newton",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-12-000238-admiring-montalcini",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-12-015230-src-content-migration",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-13-000320-prebuild-chain-v2-finale",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-13-011548-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-13-050000-twmd-maintainer-pm",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-13-210341-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-16-011113-manual",
+    "tier": "B",
+    "articles": ["唐鳳", "台灣災難志工文化"],
+    "signals": {
+      "window": {},
+      "cocommit": ["唐鳳"],
+      "memory": ["台灣災難志工文化"],
+      "slug": null
+    },
+    "candidates": {
+      "唐鳳": ["cocommit"],
+      "台灣災難志工文化": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": ["唐鳳"]
+  },
+  {
+    "diary": "2026-05-16-050400-babel-nightly",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-17-041804-twmd-self-evolve-weekly",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-17-050440-twmd-babel-nightly",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-17-120720-routine-audit-weekly",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-17-130440-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-18-002727-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-18-004535-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-18-115619-manual-finale",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-18-140415-manual-map-evolution",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-19-014951-manual-peer-pansci",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-19-071317-twmd-spore-harvest-am-passive-immunity",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-21-130933-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-21-215830-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-22-000751-twmd-rewrite-daily",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-22-050000-twmd-babel-nightly",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-22-074458-wave3-finale",
+    "tier": "C",
+    "articles": ["葉廷皓", "許倬雲", "江賢二", "台灣BIM與營建科技"],
+    "signals": {
+      "window": {},
+      "cocommit": ["台灣BIM與營建科技", "江賢二", "葉廷皓", "許倬雲"],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {
+      "葉廷皓": ["cocommit"],
+      "許倬雲": ["cocommit"],
+      "江賢二": ["cocommit"],
+      "台灣BIM與營建科技": ["cocommit"]
+    },
+    "already_linked": [],
+    "to_write": ["葉廷皓", "許倬雲", "江賢二", "台灣BIM與營建科技"]
+  },
+  {
+    "diary": "2026-05-22-090755-wave4-county-cache",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-22-091401-session-arc-finale",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-22-121707-manual-silent-default",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-22-121707-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-23-050000-twmd-babel-nightly",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-23-215140-manual",
+    "tier": "C",
+    "articles": ["臺灣漫遊錄"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["臺灣漫遊錄"],
+      "slug": null
+    },
+    "candidates": {
+      "臺灣漫遊錄": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-23-220053-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-24-040000-twmd-self-evolve-weekly",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-24-225255-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-25-063038-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-25-074243-confident-bose",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-26-210649-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-26-230513-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-27-122151-manual",
+    "tier": "C",
+    "articles": ["半導體產業", "台灣美食總覽"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["半導體產業", "台灣美食總覽"],
+      "slug": null
+    },
+    "candidates": {
+      "半導體產業": ["memory"],
+      "台灣美食總覽": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-27-142135-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-27-160701-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-27-180000-politics-hub-elections",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-27-200532-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-28-122038-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-28-180543-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-28-222438-manual",
+    "tier": "C",
+    "articles": ["周蕙"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["周蕙"],
+      "slug": null
+    },
+    "candidates": {
+      "周蕙": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-29-125036-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-05-29-144438-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-01-105713-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-01-130850-manual",
+    "tier": "C",
+    "articles": ["Computex"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["Computex"],
+      "slug": null
+    },
+    "candidates": {
+      "Computex": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-01-134740-feedback-login-system",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-01-170717-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-01-232507-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-03-080759-twmd-rewrite-daily-discipline-vs-intent",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-03-171250-manual-species-discipline",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-03-205113-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-03-213602-charming-greider",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-03-235954-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-04-102449-深度研究-設計研究院",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-04-151548-天下雜誌-儀器校準",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-04-151548-天下雜誌",
+    "tier": "B",
+    "articles": ["天下雜誌"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": "天下雜誌"
+    },
+    "candidates": {
+      "天下雜誌": ["slug"]
+    },
+    "already_linked": [],
+    "to_write": ["天下雜誌"]
+  },
+  {
+    "diary": "2026-06-04-232402-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-05-105142-manual-analysis-mirror",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-05-105142-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-05-124537-loop-twmd-rewrite",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-05-174805-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-05-182013-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-06-142142-視覺化系統",
+    "tier": "C",
+    "articles": ["視覺化模組型錄"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["視覺化模組型錄"],
+      "slug": null
+    },
+    "candidates": {
+      "視覺化模組型錄": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-06-153433-viz驗證文",
+    "tier": "C",
+    "articles": ["用數據看台灣22縣市"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["用數據看台灣22縣市"],
+      "slug": null
+    },
+    "candidates": {
+      "用數據看台灣22縣市": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-06-154929-子代物種譜系",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-06-155849-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-06-181016-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-07-124521-carousel-charts",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-07-153821-複雜生活節",
+    "tier": "A",
+    "articles": ["複雜生活節"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["複雜生活節"],
+      "slug": "複雜生活節"
+    },
+    "candidates": {
+      "複雜生活節": ["memory", "slug"]
+    },
+    "already_linked": [],
+    "to_write": ["複雜生活節"]
+  },
+  {
+    "diary": "2026-06-07-230624-seo-freshness",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-08-175613-世代論",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-09-010031-嘻哈饒舌-round2",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-09-010031-嘻哈饒舌",
+    "tier": "C",
+    "articles": ["台灣嘻哈與饒舌發展", "壞特"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["台灣嘻哈與饒舌發展", "壞特"],
+      "slug": null
+    },
+    "candidates": {
+      "台灣嘻哈與饒舌發展": ["memory"],
+      "壞特": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-09-101056-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-10-113753-audit",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-10-131325-latest-ui",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-10-131606-opendata",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-10-184059-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-11-083358-莫那魯道",
+    "tier": "C",
+    "articles": ["莫那·魯道"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["莫那·魯道"],
+      "slug": null
+    },
+    "candidates": {
+      "莫那·魯道": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-12-182013-flywheel-evolution",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-12-225752-viz-evolution",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-13-002414-refactor-article-opus",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-13-002414-refactor-article",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-13-155142-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-13-164000-converter-evolution",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-13-170434-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-13-173505-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-13-174425-persona-stage0",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-13-181608-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-13-183725-深度研究-台灣國片",
+    "tier": "C",
+    "articles": ["台灣電影"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["台灣電影"],
+      "slug": null
+    },
+    "candidates": {
+      "台灣電影": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-13-190738-跨黨派好政策",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-14-000047-先動手才去看",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-14-000047-用念頭找到台灣",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-14-000047-看不見缺席",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-14-012924-xiaohudui-evolve",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-14-013210-呂冠緯-evolve",
+    "tier": "A",
+    "articles": ["呂冠緯"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["呂冠緯"],
+      "slug": "呂冠緯"
+    },
+    "candidates": {
+      "呂冠緯": ["memory", "slug"]
+    },
+    "already_linked": [],
+    "to_write": ["呂冠緯"]
+  },
+  {
+    "diary": "2026-06-14-014200-quotepath",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-14-020335-multicore-git",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-14-103403-看不到的底部",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-14-115617-有地圖還是先重造了輪子",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-14-154636-無名小卒勘誤",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-15-210606-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-15-221747-manifesto-hope",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-16-182658-健康閘門放行假指控",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-16-211251-跑了不等於到了",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-16-213045-external-pickup",
+    "tier": "C",
+    "articles": ["台灣少子化危機"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["台灣少子化危機"],
+      "slug": null
+    },
+    "candidates": {
+      "台灣少子化危機": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-18-062503-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-18-070253-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-19-102712-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-19-103421-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-19-113115-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-19-115522-manual-relatedDiary",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-19-115522-manual",
+    "tier": "C",
+    "articles": ["taiwan-md"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["taiwan-md"],
+      "slug": null
+    },
+    "candidates": {
+      "taiwan-md": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-19-123349-manual",
+    "tier": "C",
+    "articles": ["文章如何誕生"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["文章如何誕生"],
+      "slug": null
+    },
+    "candidates": {
+      "文章如何誕生": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-19-123909-inbox-distill",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-21-115925-plurk-reach",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-21-122656-manual",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-21-135235-kuma-academy",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-22-143854-nvidia-taiwan",
+    "tier": "C",
+    "articles": ["NVIDIA在台灣"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": ["NVIDIA在台灣"],
+      "slug": null
+    },
+    "candidates": {
+      "NVIDIA在台灣": ["memory"]
+    },
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-22-225922-terminology-evolve",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-23-004154-companies-i18n",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-24-142554-龜山島-rewrite",
+    "tier": "A",
+    "articles": ["龜山島", "大安溪倚天劍"],
+    "signals": {
+      "window": {},
+      "cocommit": ["龜山島"],
+      "memory": ["大安溪倚天劍"],
+      "slug": "龜山島"
+    },
+    "candidates": {
+      "龜山島": ["cocommit", "slug"],
+      "大安溪倚天劍": ["memory"]
+    },
+    "already_linked": ["龜山島"],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-24-153210-大安溪倚天劍-rewrite",
+    "tier": "A",
+    "articles": ["大安溪倚天劍"],
+    "signals": {
+      "window": {},
+      "cocommit": ["大安溪倚天劍"],
+      "memory": [],
+      "slug": "大安溪倚天劍"
+    },
+    "candidates": {
+      "大安溪倚天劍": ["cocommit", "slug"]
+    },
+    "already_linked": ["大安溪倚天劍"],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-24-龜山島-evolve",
+    "tier": "B",
+    "articles": ["龜山島"],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": "龜山島"
+    },
+    "candidates": {
+      "龜山島": ["slug"]
+    },
+    "already_linked": ["龜山島"],
+    "to_write": []
+  },
+  {
+    "diary": "2026-06-24-龜山島-勘誤",
+    "tier": "META",
+    "articles": [],
+    "signals": {
+      "window": {},
+      "cocommit": [],
+      "memory": [],
+      "slug": null
+    },
+    "candidates": {},
+    "already_linked": [],
+    "to_write": []
+  }
+]

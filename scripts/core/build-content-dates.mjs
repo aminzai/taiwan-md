@@ -91,6 +91,18 @@ const SPORE_POINTER =
 const MEDIA_ONLY =
   /(WebP 全站遷移|媒體增補|媒體落地|影像後處理|image-ingest|land-media|migrate-images|圖片以 ?WebP|babel year-mangle)/i;
 
+// relatedDiary back-link commits touch article frontmatter only — pointing an
+// article at the reflection-diary written alongside it is NOT a content change
+// (exactly like sporeLinks above). Without this, the 2026-06-24 retroactive
+// back-fill of historical diary↔article links (sync-diary-links.py /
+// analyze-diary-article-links.py) would set every back-filled article's /latest
+// position + sitemap lastmod to the back-fill day — the same anti-pattern the
+// SPORE_POINTER + MEDIA_ONLY guards exist to prevent (user directive 2026-06-24:
+// 集體回補 relatedDiary 不要動到文章編輯日期 / 不影響「最新文章」頁面). Errs
+// conservative (stale-but-true), never fake-fresh.
+const RELATED_DIARY =
+  /(relatedDiary|relatedDiary 回扣|relatedDiary 集體回補|sync-diary-links)/i;
+
 function knowledgePathToUrl(p) {
   const parts = p.split('/');
   if (parts[0] !== 'knowledge') return null;
@@ -154,7 +166,8 @@ function main() {
       cosmetic =
         COSMETIC.test(subject) ||
         SPORE_POINTER.test(subject) ||
-        MEDIA_ONLY.test(subject);
+        MEDIA_ONLY.test(subject) ||
+        RELATED_DIARY.test(subject);
     } else if (token.startsWith('knowledge/') && token.endsWith('.md')) {
       if (cosmetic) {
         skipped++;

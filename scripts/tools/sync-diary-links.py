@@ -89,6 +89,38 @@ def _normalize_slug(slug: str) -> str:
     return s.strip()
 
 
+# Greek session letters → latin, MUST mirror src/lib/semiont-diary.ts transliterateGreek
+# exactly: the diary /semiont/diary/{slug} route + RelatedDiaries.astro resolve by the
+# transliterated slug, so a raw-Greek slug in relatedDiary silently renders nothing.
+_GREEK_MAP = {
+    "α": "alpha", "β": "beta", "γ": "gamma", "δ": "delta", "ε": "epsilon", "ζ": "zeta",
+    "η": "eta", "θ": "theta", "ι": "iota", "κ": "kappa", "λ": "lambda", "μ": "mu",
+}
+
+
+def _translit_greek(greek: str) -> str:
+    if not greek:
+        return ""
+    base, suffix = greek[0], greek[1:]
+    if base not in _GREEK_MAP:
+        return greek.lower()  # non-Greek handle: route lowercases ASCII, CJK unaffected
+    return _GREEK_MAP[base] + suffix.replace("+", "-plus").replace(" ", "")
+
+
+def route_slug(filename_stem: str) -> str:
+    """diary filename stem → the slug the site routes/resolves it under.
+
+    Ports semiont-diary.ts: slug = date + ('-' + transliterateGreek(rest)). For a
+    Greek session (2026-04-21-β) this differs from the filename (→ 2026-04-21-beta);
+    for timestamp/CJK/descriptive handles it equals the lowercased stem.
+    """
+    m = re.match(r"^(\d{4}-\d{2}-\d{2})(?:-(.+))?$", filename_stem)
+    if not m:
+        return filename_stem
+    date, rest = m.group(1), m.group(2) or ""
+    return date + ("-" + _translit_greek(rest) if rest else "")
+
+
 def find_article_path(slug_or_path: str) -> Path | None:
     """Find knowledge/{Cat}/{slug}.md (zh canonical). Accepts slug or knowledge/ path."""
     # If a path was passed, use it directly when it exists.
@@ -268,6 +300,12 @@ def main() -> int:
         print(f"  ⚠️  diary file not found: docs/semiont/diary/{args.diary}.md — aborting (typo?)")
         return 2
 
+    # The STORED slug must match the site route (Greek transliterated); the file check
+    # above uses the raw filename. They differ only for Greek-session diaries.
+    diary_slug = route_slug(args.diary)
+    if diary_slug != args.diary:
+        print(f"  slug:  {diary_slug}  (transliterated from {args.diary})")
+
     targets = list(args.article)
     if args.auto:
         added, modified = _git_added_articles(args.auto)
@@ -290,18 +328,18 @@ def main() -> int:
             print(f"  ✗ {slug}: article not found in knowledge/")
             continue
         rel = path.relative_to(REPO)
-        changed, _, after = update_article(path, args.diary, args.excerpt)
+        changed, _, after = update_article(path, diary_slug, args.excerpt)
         mirror = src_content_mirror(path)
         if not changed:
             print(f"  ＝ {rel}: already linked (no-op)")
         else:
-            print(f"  ✓ {rel}: + relatedDiary[{args.diary}]")
+            print(f"  ✓ {rel}: + relatedDiary[{diary_slug}]")
             if args.apply:
                 path.write_text(after, encoding="utf-8")
             changed_any = True
         # mirror (independent — may already match or be absent)
         if mirror:
-            m_changed, _, m_after = update_article(mirror, args.diary, args.excerpt)
+            m_changed, _, m_after = update_article(mirror, diary_slug, args.excerpt)
             if m_changed:
                 print(f"     ↳ mirror {mirror.relative_to(REPO)}")
                 if args.apply:
