@@ -93,6 +93,17 @@
     "path": "es/Society/commonwealth-magazine.md"
   },
   {
+    "title": "'Espada Yitian del río Da'an: el árbol más alto de Asia Oriental, oculto durante setecientos años en un lugar al que no podemos llegar'",
+    "description": "Durante el Año Nuevo Lunar de 2023, el equipo de Buscadores de Árboles remontó el río durante siete días y, en una quebrada profunda en la cabecera del río Da'an, casi inaccesible para los seres humanos, dejó caer una cinta métrica desde la copa de un taiwania: 84,1 metros, el árbol más alto de Asia Oriental. Era 4,6 metros más alto que la predicción del LiDAR láser. Una isla golpeada cada año por tifones, con derrumbes e inundaciones, en teoría no debería conservar una forma de vida de tal altura; pero precisamente porque creció en un valle fluvial al que los humanos no podían llegar, evitó la gran tala y resistió setecientos años. Esa misma condición de «inaccesible» le permitió sobrevivir y también nos obligó a escanear toda la isla con láser para verlo por primera vez ese año.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/nature/daan-river-yitian-sword",
+    "readingTime": 225,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "es/Nature/daan-river-yitian-sword.md"
+  },
+  {
     "title": "'Formose' : comment les Occidentaux ont « découvert » une île déjà habitée",
     "description": "En 1704, un Français qui n'était jamais allé en Asie se présenta devant la Royal Society de Londres et, avec une écriture et une religion qu'il avait lui-même inventées, convainquit l'assemblée de savants qu'il était « Formosan ». Cette supercherie dura dix ans. Mais la question la plus vaste est celle-ci : lorsque les Européens disent avoir « découvert Formose », les peuples austronésiens de l'île y vivaient déjà depuis six mille ans. De qui la « découverte » est-elle le récit ?",
     "category": "fr",
@@ -1270,6 +1281,17 @@
     "featured": false,
     "date": "2026-04-23",
     "path": "ja/Technology/softstar-twin-classics.md"
+  },
+  {
+    "title": "大安渓の倚天剣：東アジアで最も高い木は、私たちの届かない場所に七百年隠れていました",
+    "description": "2023 年の旧正月、「找樹的人」チームは大安渓を 7 日間遡行し、源流部のほとんど誰も到達できない深い谷で、一本の台湾杉の樹冠から巻き尺を垂らしました。84.1 メートル、東アジアで最も高い木です。これは航空機搭載 LiDAR の予測より 4.6 メートルも高い数値でした。毎年台風に襲われ、崩れ、浸水する島に、本来ならこれほど高い生命が残っているはずはありません。しかしそれは、人間が到達できない渓谷に生えていたからこそ、大規模伐採を逃れ、七百年を生き延びました。同じ「到達できなさ」がそれを生かし、また私たちがレーザーで島全体を走査して初めて、この年にその存在を見せたのです。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/nature/daan-river-yitian-sword",
+    "readingTime": 92,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "ja/Nature/daan-river-yitian-sword.md"
   },
   {
     "title": "大安溪倚天劍：東亞最高的樹，藏在我們到不了的地方七百年",
@@ -15957,6 +15979,17 @@
     "path": "ja/Geography/kaohsiung-city.md"
   },
   {
+    "title": "亀山島：宜蘭の人が毎日見つめる家の方角、島の人は帰れない家",
+    "description": "黄陳裕阿嬤は亀山島から頭城へ移って三十年以上になりますが、毎晩夢に見るのはいまも島での暮らしです。対岸に暮らす宜蘭の人にとって、亀山島は蘭陽八景の筆頭であり、雪山トンネルを出たときに「もうすぐ家です」と感じる座標です。しかし実際に亀山島で暮らした島民にとって、それは 1970 年代に補償のない集落移転によって引き換えにされた、代々住み続けた故郷でした。見えているのに上陸できない。上陸できても住めない。作家の呉敏顕は 1975 年、この島を「一個即將被人們淡忘的島嶼」と書きました。半世紀後、島は忘れられてはいません。記憶されているのは風景と伝説であり、忘れられているのはそこに住んでいた人びとです。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/geography/gueishan-island",
+    "readingTime": 86,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "ja/Geography/gueishan-island.md"
+  },
+  {
     "title": "偏遠地區學校教育發展條例全解：國家花了 175 億，還是擋不住人口重力",
     "description": "2016 年 11 月 21 日，立法院三讀通過《偏遠地區學校教育發展條例》全文 21 條。這部法律的存在本身是國家對自己制度失能的正式承認。八年過去，政府在偏鄉硬體投入累計 175 億元、18.6 億元改善師生宿舍。但 113 學年全國一口氣有 18 所國小停辦，是台灣教育史上最多的一年；屏東縣四年裁併七校；全國廢校率還在上升。條例救了法律，但擋不住人口重力。",
     "category": "Society",
@@ -24627,7 +24660,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/nature/tawny-fish-owl",
-    "readingTime": 110,
+    "readingTime": 111,
     "featured": false,
     "date": "2026-05-04",
     "path": "es/Nature/tawny-fish-owl.md"
@@ -31685,6 +31718,17 @@
     "path": "fr/People/gwei-lun-mei-versatile-taiwanese-actress.md"
   },
   {
+    "title": "Gueishan Island: The Direction of Home That Yilan People See Every Day, and the Home Island Residents Cannot Return To",
+    "description": "Grandmother Huang Chen-yu moved from Gueishan Island to Toucheng more than thirty years ago, yet every night she still dreams of life on the island. For Yilan people on shore, Gueishan Island is the foremost of the Eight Views of Lanyang and the landmark at the Snow Mountain Tunnel exit that says, \"almost home.\" For the Gueishan Islanders who actually lived there, it is an ancestral home exchanged in the 1970s through a relocation without compensation. Visible but unreachable; reachable but unlivable. In 1975, writer Wu Min-hsien called it \"an island soon to be forgotten.\" Half a century later, it has not been forgotten; what is remembered is the scenery and legend, while those who lived there have been forgotten.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/geography/gueishan-island",
+    "readingTime": 218,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "en/Geography/gueishan-island.md"
+  },
+  {
     "title": "Guerra cognitiva: la fase de industrialización de la IA en el campo de información de Taiwán",
     "description": "En diciembre de 2024, el documental sobre la unificación china superó los 2 millones de visualizaciones; en el cuarto trimestre de 2025, 1076 cuentas oficiales de medios del Partido Comunista Chino publicaron 560 000 vídeos en Douyin e identificaron a 57 personas taiwanesas mediante reconocimiento facial; en octubre de 2025, la policía de Chongqing abrió un caso contra Shen Po-yang por el delito de \"secesión\". La guerra cognitiva ha entrado en una nueva fase de industrialización mediante IA y de \"usar taiwaneses para criticar a Taiwán\", pero el propio término \"guerra cognitiva\" también soporta en el interior de Taiwán la tensión de su uso indebido.",
     "category": "es",
@@ -33638,6 +33682,17 @@
     "path": "Technology/IG.md"
   },
   {
+    "title": "Île Guishan : le repère du retour que les habitants de Yilan regardent chaque jour, et le foyer où les insulaires ne peuvent plus revenir",
+    "description": "Depuis que grand-mère Huang Chenyu a quitté l'île Guishan pour Toucheng il y a plus de trente ans, elle rêve encore chaque nuit de la vie sur l'île. Pour les habitants de Yilan installés sur la côte, l'île Guishan est le premier des huit paysages de Lanyang, le repère du « on arrive à la maison » à la sortie du tunnel de Hsuehshan ; pour les véritables habitants de Guishan, c'est le foyer ancestral qu'un déplacement de village sans indemnisation leur a pris dans les années 1970. Visible, mais inaccessible ; accessible, mais inhabitable. En 1975, l'écrivain Wu Min-hsien la décrivait comme « une île que les gens allaient bientôt oublier » ; un demi-siècle plus tard, elle n'a pas été oubliée, mais ce dont on se souvient, ce sont les paysages et les légendes, tandis que ceux qui y vivaient ont été oubliés.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/geography/gueishan-island",
+    "readingTime": 237,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "fr/Geography/gueishan-island.md"
+  },
+  {
     "title": "Imágenes de saludo para mayores: la ternura digital y el campo de batalla informativo detrás de las flores de loto y Buda",
     "description": "Las \"imágenes de saludo para mayores\" no solo son la prueba de que los adultos mayores de Taiwán cruzan la brecha digital, sino también un vehículo de intercambio emocional en las plataformas sociales; sin embargo, su formato singular se ha convertido en un caldo de cultivo para la desinformación y ha evolucionado hacia una cultura de memes única entre las generaciones más jóvenes.",
     "category": "es",
@@ -33829,6 +33884,17 @@
     "featured": true,
     "date": "2026-06-13",
     "path": "en/Art/invisible-nation.md"
+  },
+  {
+    "title": "Isla Gueishan: la dirección del hogar que la gente de Yilan mira todos los días, y el hogar al que quienes vivían en la isla ya no pueden volver",
+    "description": "La abuela Huang Chen-yu se mudó de la isla Gueishan a Toucheng hace más de treinta años, pero cada noche sigue soñando con la vida en la isla. Para la gente de Yilan en tierra firme, la isla Gueishan es la primera de las Ocho Vistas de Lanyang y el punto de referencia que, al salir del túnel de Hsuehshan, dice «ya casi llegamos a casa»; para los verdaderos isleños de Gueishan, es el hogar ancestral que una reubicación sin compensación les quitó en la década de 1970. Se ve, pero no se puede subir; se puede subir, pero no se puede vivir allí. En 1975, el escritor Wu Min-hsien la llamó «una isla a punto de ser olvidada por la gente». Medio siglo después no ha sido olvidada: lo que se recuerda son sus paisajes y leyendas; lo que se ha olvidado son las personas que vivían en ella.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/geography/gueishan-island",
+    "readingTime": 226,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "es/Geography/gueishan-island.md"
   },
   {
     "title": "Islam in Taiwan: From Quanzhou Guo-clan Ancestors to the Faith Mosaic of 300,000 Migrant Workers",
@@ -34765,7 +34831,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/nature/tawny-fish-owl",
-    "readingTime": 113,
+    "readingTime": 114,
     "featured": false,
     "date": "2026-05-04",
     "path": "fr/Nature/tawny-fish-owl.md"
@@ -35261,6 +35327,17 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "fr/Society/encyclopedia-of-taiwan.md"
+  },
+  {
+    "title": "L’épée Yitian du fleuve Daan : l’arbre le plus haut d’Asie de l’Est, caché depuis sept cents ans dans un lieu que nous ne pouvions atteindre",
+    "description": "Au Nouvel An lunaire 2023, l’équipe des « chercheurs d’arbres » a remonté des torrents pendant sept jours jusqu’à une gorge profonde, presque inaccessible, près de la source du fleuve Daan. Là, elle a fait descendre un ruban à mesurer depuis la cime d’un Taïwania : 84,1 mètres, l’arbre le plus haut d’Asie de l’Est. Il dépassait de 4,6 mètres la prédiction du LiDAR laser. Une île frappée chaque année par les typhons, sujette aux glissements de terrain et aux crues, ne devrait en principe pas conserver une forme de vie d’une telle hauteur ; pourtant, c’est précisément parce qu’il poussait dans une vallée inaccessible aux humains qu’il a échappé aux grandes coupes et tenu sept siècles. Ce même « impossible à atteindre » lui a permis de survivre, et nous a contraints à balayer toute l’île au laser pour l’apercevoir pour la première fois cette année-là.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/nature/daan-river-yitian-sword",
+    "readingTime": 219,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "fr/Nature/daan-river-yitian-sword.md"
   },
   {
     "title": "L'esprit open source à Taïwan — Ces ingénieurs qui codent par passion",
@@ -51007,7 +51084,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/nature/tawny-fish-owl",
-    "readingTime": 101,
+    "readingTime": 102,
     "featured": false,
     "date": "2026-05-04",
     "path": "en/Nature/tawny-fish-owl.md"
@@ -51467,6 +51544,17 @@
     "featured": false,
     "date": "2026-05-27",
     "path": "en/Politics/city-councilor-system-taiwan.md"
+  },
+  {
+    "title": "The Daan River Heaven Sword: East Asia's Tallest Tree Hid for Seven Hundred Years in a Place We Could Not Reach",
+    "description": "During the 2023 Lunar New Year, the Tree Finder team spent seven days tracing the Daan River upstream. In a deep valley near its headwaters, a place almost no one can reach, they lowered a tape measure from the crown of a Taiwania tree: 84.1 meters, the tallest tree in East Asia. It was 4.6 meters taller than LiDAR had predicted. On a country swept by typhoons every year, where slopes collapse and floods surge, life of this height should not, in theory, still exist. Yet precisely because it grew in a valley humans could not reach, it escaped the era of large-scale logging and survived for seven hundred years. The same inaccessibility that kept it alive also meant that only after scanning all of Taiwan with lasers did we see it for the first time that year.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/nature/daan-river-yitian-sword",
+    "readingTime": 196,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "en/Nature/daan-river-yitian-sword.md"
   },
   {
     "title": "Thé de Sanxia : de l’inflexion spiralée du « Qingxin Ganzai » à la montée en valeur miellée du thé d’été",
@@ -55702,6 +55790,17 @@
     "path": "ko/People/gwei-lun-mei-versatile-taiwanese-actress.md"
   },
   {
+    "title": "구이산다오: 이란 사람들이 날마다 바라보는 집의 방향, 섬사람들은 돌아갈 수 없는 집",
+    "description": "황천위 할머니는 구이산다오에서 터우청으로 이주한 지 30여 년이 지났지만, 밤마다 꿈속에서는 여전히 섬에서의 생활을 본다. 육지의 이란 사람들에게 구이산다오는 란양팔경의 으뜸이자 쉐산터널 출구에서 “이제 곧 집이다”라고 느끼게 하는 좌표다. 그러나 실제로 구이산다오에 살았던 섬 주민들에게 그것은 1970년대 보상 없는 이주로 맞바꿔진 대대로 살아온 고향이다. 보이지만 올라갈 수 없고, 올라갈 수는 있지만 살 수는 없다. 작가 우민셴은 1975년에 이 섬을 “곧 사람들에게 잊힐 섬”이라고 썼다. 반세기가 지난 뒤 섬은 잊히지 않았다. 기억되는 것은 풍경과 전설이고, 잊힌 것은 그 위에 살았던 사람들이다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/geography/gueishan-island",
+    "readingTime": 99,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "ko/Geography/gueishan-island.md"
+  },
+  {
     "title": "구천현녀: 황제의 군사(軍師)에서 대만 청소년 진두(陣頭) 수호신까지",
     "description": "고졸 학력의 묘회 단장이 문화부 심사위원들에게 수십 년간 무시당한 끝에, 11년을 공부해 박사 학위를 받았다. 그 뒤에는 4천 년 전 황제에게 병법을 가르쳤다는 여신이 있었다.",
     "category": "ko",
@@ -56133,6 +56232,17 @@
     "featured": false,
     "date": "2026-05-21",
     "path": "ko/Geography/dalongdong.md"
+  },
+  {
+    "title": "다안강 의천검: 동아시아에서 가장 높은 나무, 우리가 닿지 못한 곳에 700년 숨어 있던 생명",
+    "description": "2023년 음력 설, ‘나무를 찾는 사람들’ 팀은 7일 동안 계곡을 거슬러 올라 다안강 발원지의 거의 아무도 닿을 수 없는 깊은 골짜기에서 한 그루 타이완삼나무의 수관에서 줄자를 내려뜨렸다. 84.1미터, 동아시아 최고 높이의 나무였다. 이는 레이저 라이다의 예측보다도 4.6미터 더 높았다. 해마다 태풍이 지나가고, 무너지고 잠기는 이 섬에는 원래 이런 높이의 생명이 남아 있기 어렵다. 그러나 그것은 바로 인간이 닿을 수 없는 계곡에서 자랐기 때문에 대규모 벌채를 피하고 700년을 버텼다. 같은 ‘닿을 수 없음’이 그것을 살아남게 했고, 또한 우리가 레이저로 섬 전체를 훑은 뒤에야 이 해 처음으로 그것을 보게 했다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/nature/daan-river-yitian-sword",
+    "readingTime": 103,
+    "featured": false,
+    "date": "2026-06-24",
+    "path": "ko/Nature/daan-river-yitian-sword.md"
   },
   {
     "title": "다이쯔잉 (戴資穎, Tai Tzu-ying)",
@@ -65757,7 +65867,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/nature/tawny-fish-owl",
-    "readingTime": 52,
+    "readingTime": 53,
     "featured": false,
     "date": "2026-05-04",
     "path": "ko/Nature/tawny-fish-owl.md"
@@ -66084,7 +66194,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/nature/tawny-fish-owl",
-    "readingTime": 47,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-05-04",
     "path": "ja/Nature/tawny-fish-owl.md"

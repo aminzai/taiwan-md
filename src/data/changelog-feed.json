@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-06-24T15:09:42.735Z",
+  "generatedAt": "2026-06-24T22:12:21.546Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "d8e3f6465864f1d2bb467c297a58cbafb92cd287",
+      "date": "2026-06-25T05:08:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-25-050756-twmd-embeddings-nightly — fleet-down graceful skip 連續第 8 夜 (4090 http 000 / ping 100% loss / staleness 8d / vc=3 封頂不 re-inflate 欠哲宇 A/B)",
+      "articles": []
+    },
+    {
+      "hash": "244ced555734ab3e618a324c2132b25bc71da55d",
+      "date": "2026-06-25T01:00:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-25-005801-twmd-babel-nightly — 80 translations 三層 tier 並行首次乾淨示範 (Tier 0b 63 + Tier 0a 7 + Tier 1 10) / 連 8 夜 stale=0 / commit count typo vc=1 LESSONS",
+      "articles": []
+    },
+    {
+      "hash": "28dd8787f1e409577a12827ba494649e23dc3a26",
+      "date": "2026-06-25T00:57:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 73 translations shipped — stale=0 across 5 lang via Tier 0b bump (63) + Tier 0a inline diff-patch (10) + Tier 1 codex (10) — 2026-06-25",
+      "articles": []
+    },
+    {
+      "hash": "fc31f103bd6ef69f1f8441b0db1c0273227cfba5",
+      "date": "2026-06-24T23:12:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-24-231109-twmd-data-refresh-pm — pm 14-step 三源全綠 + 11/11 fresh 連 30d + 兩條 silent trend signal (CF 404 11.99→11.81 -0.18 升勢首次回檔 + immune 51 chronic flat 第 4 cycle)",
+      "articles": []
+    },
+    {
+      "hash": "7ee4aa0cd042dede63ff091ecb546e16198efb50",
+      "date": "2026-06-24T23:10:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: pm 14-step data refresh — 三源全綠 + Step 11 11/11 fresh 連 30d + immune 51→51 chronic flat 重啟第 4 cycle (plugin_health 36 持平 / external_rulers 3.8) + CF 404 11.99→11.81 -0.18 4-cycle 升勢首次回檔 + AI 132K -8K post-NVIDIA decay 第 2 cycle + i18n stable en820 ja815 ko816 es815 fr816 / 📄zh 817 / stats ⭐1064 持平 / build 184s; 14-step PASS no stale handling needed; co-occurrence am 12:53 manual catch-up + pm 22:04 cron 雙跑同日 (am cron miss → 12:51 catch-up 連 maintainer+data-refresh，pm cron 22:04 準時 fire)",
+      "articles": []
+    },
     {
       "hash": "11239eee433155c523fd35291096a92c40a147bc",
       "date": "2026-06-24T22:04:53+08:00",

@@ -44,11 +44,11 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 7,
     "commitHash": "4ae85c87",
@@ -75,11 +75,11 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "ff92f386",
