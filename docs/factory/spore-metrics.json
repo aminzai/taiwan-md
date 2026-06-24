@@ -4781,6 +4781,18 @@
       "source": "chrome_mcp"
     },
     {
+      "spore": 138,
+      "dPlus": 11,
+      "at": "2026-06-25 06:38",
+      "batch": "batch-2026-06-25-8-spores",
+      "views": 140000,
+      "likes": 2379,
+      "reposts": 144,
+      "comments": 215,
+      "shares": 206,
+      "source": "chrome_mcp"
+    },
+    {
       "spore": 139,
       "dPlus": 1,
       "at": "2026-06-15 06:47",
@@ -4846,6 +4858,18 @@
       "at": "2026-06-22 06:41",
       "batch": "batch-2026-06-22-8-spores",
       "views": 20400,
+      "likes": 359,
+      "reposts": 65,
+      "comments": 13,
+      "shares": 57,
+      "source": "chrome_mcp"
+    },
+    {
+      "spore": 139,
+      "dPlus": 11,
+      "at": "2026-06-25 06:38",
+      "batch": "batch-2026-06-25-8-spores",
+      "views": 20462,
       "likes": 359,
       "reposts": 65,
       "comments": 13,
@@ -5201,6 +5225,18 @@
       "source": "harvest"
     },
     {
+      "spore": 146,
+      "dPlus": 6,
+      "at": "2026-06-25 06:38",
+      "batch": "batch-2026-06-25-8-spores",
+      "views": 7183,
+      "likes": 105,
+      "reposts": 6,
+      "comments": 7,
+      "shares": 15,
+      "source": "chrome_mcp"
+    },
+    {
       "spore": 147,
       "dPlus": 1,
       "at": "2026-06-20 06:51",
@@ -5235,6 +5271,42 @@
       "comments": 2,
       "shares": null,
       "source": "harvest"
+    },
+    {
+      "spore": 147,
+      "dPlus": 6,
+      "at": "2026-06-25 06:38",
+      "batch": "batch-2026-06-25-8-spores",
+      "views": 11470,
+      "likes": 151,
+      "reposts": 19,
+      "comments": 2,
+      "shares": 22,
+      "source": "chrome_mcp"
+    },
+    {
+      "spore": 148,
+      "dPlus": 1,
+      "at": "2026-06-25 06:38",
+      "batch": "batch-2026-06-25-8-spores",
+      "views": 5633,
+      "likes": 135,
+      "reposts": 8,
+      "comments": 9,
+      "shares": 9,
+      "source": "chrome_mcp"
+    },
+    {
+      "spore": 149,
+      "dPlus": 1,
+      "at": "2026-06-25 06:38",
+      "batch": "batch-2026-06-25-8-spores",
+      "views": 1111,
+      "likes": 37,
+      "reposts": 4,
+      "comments": 0,
+      "shares": 4,
+      "source": "chrome_mcp"
     }
   ]
 }
