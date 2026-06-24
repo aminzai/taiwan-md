@@ -2108,17 +2108,28 @@ python3 scripts/tools/article-health.py knowledge/{Category}/{sibling}.md --chec
 
 如果收官時寫了反芻 diary（`/twmd-diary`），把那篇 diary 的 slug 加進本文 frontmatter `relatedDiary`。文章底部會渲染成可點的日記區塊，讓讀者看見「寫這篇的時候，這個系統在想什麼」。
 
+**不要手動編輯 frontmatter，跑工具**（v2.2 儀器化，2026-06-24 龜山島 callout — 手動補沒閘門 → 漏掉）：
+
+```bash
+python3 scripts/tools/sync-diary-links.py --diary {diary slug} --article {本文 slug} --apply
+```
+
+idempotent，自動寫 `knowledge/` + `src/content/` mirror、dedup、apostrophe-safe。產出的 frontmatter：
+
 ```yaml
 relatedDiary:
   - 2026-06-19-115522-manual # 只給 slug；title／摘要／日期由 RelatedDiaries.astro build-time 自動 resolve
-  - { slug: 2026-04-13-alpha2, excerpt: '想覆寫摘要時改用物件形式' }
+  - {
+      slug: 2026-04-13-alpha2,
+      excerpt: '想覆寫摘要時改用物件形式（--excerpt）',
+    }
 ```
 
-- slug = 日記檔名去 `.md`（希臘字母 transliterate，對應 `/semiont/diary/{slug}`）
-- array 可多篇：一篇文章跨多次 session EVOLVE，每次反芻都掛得上來
+- slug = 日記檔名去 `.md`（希臘字母 transliterate；CJK／描述式 handle 原樣保留，對應 `/semiont/diary/{slug}`）
+- array 可多篇：一篇文章跨多次 session EVOLVE，每次反芻都掛得上來（工具 append/merge 不覆蓋舊的）
 - schema 在 `src/content.config.ts`，渲染 `src/components/RelatedDiaries.astro`（對位 SporeFootprint）；取代舊的單篇 `diaryLink` / `diaryExcerpt`
 - 延續 [MANIFESTO](../semiont/MANIFESTO.md)「我讓你看著我看著我自己」，把文章的生產過程攤給讀者看
-- 反向回扣寫在 [DIARY-PIPELINE Stage 5](DIARY-PIPELINE.md)（寫完 diary 那刻順手補，記憶最新）
+- 反向回扣 HARD step + 工具 canonical 在 [DIARY-PIPELINE Stage 5](DIARY-PIPELINE.md)（寫完 diary 那刻就跑，記憶最新；`/twmd-finale` 自動跑）
 
 ### Step 5.4: Astro redirect 5 lang + 刪舊檔（Merge variant only）
 

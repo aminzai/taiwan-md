@@ -66,6 +66,7 @@ allowed-tools:
    - 讀 DIARY-PIPELINE.md
    - 寫 `docs/semiont/diary/{session-id}.md`（紀實散文文體）
    - 更新 `docs/semiont/DIARY.md` 索引
+   - **🔗 article-session 自動回扣**（v2.2，DIARY-PIPELINE Stage 5 HARD）：如果本 session 寫了 / EVOLVE 了 `knowledge/` 文章，跑 `python3 scripts/tools/sync-diary-links.py --diary {diary slug} --article {Step 1 盤點到的新文章 slug} --apply` 把 diary 寫回文章 frontmatter `relatedDiary`，讀者才看得到「寫這篇時在想什麼」。Step 1 的「New articles shipped this session」就是 `--article` 來源。
 
    **判準**：本 session 反芻內容如果在思考更大的問題（超出描述本次做了什麼的層級）就值得寫進日記；否則 skip。
 
