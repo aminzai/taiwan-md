@@ -314,6 +314,24 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-06-24 211808-manual — 衍生關係 frontmatter 指標的編輯日期中性化是一類可複用 pattern（content-dates 排除組）
+
+- **pattern**: derived-pointer-date-neutral
+- **原則**：指向衍生關係的 frontmatter 指標（sporeLinks / 媒體增補 / relatedDiary…）寫進文章不是內容事件，回補/同步 commit 必須被 `build-content-dates.mjs` 排除，否則整批文章 /latest 位置 + sitemap lastmod 被設成回補日。新增這類指標時的 reflex：先問「它需不需要一組 content-dates 排除？」
+- **觸發**：2026-06-24 relatedDiary 回溯集體回補，哲宇 directive 明訂「不動編輯日期」。發現 `build-content-dates.mjs` 早有 SPORE_POINTER + MEDIA_ONLY 兩組同源排除（後者註解就是哲宇 6/13「補圖不該把文章擠到最新文章今天」）→ 加第四組 RELATED_DIARY 即解，pre/post diff 5413 URL 零變動。memory/2026-06-24-211808-manual.md
+- **instances**：sporeLinks（2026-06-10）/ MEDIA_ONLY 補圖（2026-06-13 哲宇 directive）/ relatedDiary（2026-06-24 哲宇 directive）= 同一 pattern 第 3 次具象
+- **可能層級**：通用反射（內容架構：衍生資料不污染內容新鮮度訊號）
+- **verification_count**: 3
+
+### 2026-06-24 211808-manual — git co-commit 歸因要正向 ARTICLE_WRITE 過濾，負向排除清單擋不掉 bundle 假陽性
+
+- **pattern**: cocommit-positive-filter
+- **原則**：用「session-id 出現在哪些 commit」回溯歸因（哪篇日記配哪篇文章）時，光靠負向排除 spore/babel 清單會漏接 bundle 假陽性（一個 evolve commit 同時動了無關文章 / 一個 spore commit 帶 session-id）。改用正向 marker（subject 必須含 rewrite/EVOLVE/NEW 才算 article-write）精度才穩。延伸：git 能證明某 session 動過某文章，但「日記是否在講這篇」要 agent 讀內容才判得準，regex 做不到。
+- **觸發**：2026-06-24 relatedDiary 回溯，falsify 抓到周蕙(spore 重貼)/外省人(bundle 進巴別塔 evolve)/李洋 μ-ν(孢子曲線 session) 三個假配對。memory/2026-06-24-211808-manual.md
+- **可能層級**：通用反射（回溯歸因 / sub-agent 判讀）
+- **相關**：REFLEXES #31（orchestrator re-verify）/ #16（peer 是線索不是 source）
+- **verification_count**: 1
+
 ### 2026-06-22 twmd-babel-nightly — ollama-translate.py 路徑解析 bug：en_path 開頭 `knowledge/` 時 lang 被偵測為 "knowledge" → model 收到「Translate to knowledge」 → 直接吐英文蓋掉 ja 檔
 
 - **pattern**: tool-input-shape-mismatch-silent-wrong-output（cascade tier 平常不走 → bug 沉睡 → cascade 全動員時才被踩到的 fault-tolerance gap）
