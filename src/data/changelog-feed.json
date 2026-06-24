@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-06-23T00:40:31.690Z",
+  "generatedAt": "2026-06-24T04:51:47.506Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "9174b8399855f1d069e6cf379ddd518d40b5edea",
+      "date": "2026-06-24T12:51:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-24-125028-twmd-maintainer-am — #1173 dreamline2 i18n elections switcher fix merged + 中文感謝 reply / 08:30 cron miss → 12:50 manual catch-up",
+      "articles": []
+    },
+    {
+      "hash": "844a5c23b84f4cd84e2456edee35d721ed6860fb",
+      "date": "2026-06-24T13:50:05+09:00",
+      "author": "Wilson Chen",
+      "message": "fix(i18n): restore 2026 elections language switching (#1173)",
+      "articles": []
+    },
+    {
+      "hash": "55cbece5ffbba1f68e0f910369e14285692ee266",
+      "date": "2026-06-23T08:57:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-23-085441-twmd-spore-harvest-am — 6 events ship + reversal vc=3 站穩 + 連 7 cycle 0 Bucket A vc=3 carry 第 2 cycle",
+      "articles": []
+    },
+    {
+      "hash": "a95b9a20af1632237b1cc9da172f0ea0532d152b",
+      "date": "2026-06-23T08:55:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-23-085219-twmd-embeddings-nightly — fleet-down graceful skip 連續第 6 夜 — 4090 http 000 / 索引留 06-17 snapshot 不壞頁 / vc=3 封頂不 re-inflate 欠哲宇 A/B",
+      "articles": []
+    },
+    {
+      "hash": "3912cb41c46237f26c53d65b1ae1cf23721c6ece",
+      "date": "2026-06-23T08:54:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 6 spores harvested — 2026-06-23",
+      "articles": []
+    },
+    {
+      "hash": "6a7a93d26b0f3fc0736a8405af30c9ae8f72e1c6",
+      "date": "2026-06-23T08:51:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: am 14-step data refresh — 三源全綠 + Step 11 11/11 fresh 連 28d + immune 52→51 fresh -1 chronic flat 重啟第 2 cycle (plugin_health 48→36 -12 lead drop / review_coverage 26.7→26.5) + CF 404 11.89% 連升 3 cycle (8.55→10.85→11.89 /48hr) + AI 140K +3K post-NVIDIA + babel 隔夜進帳 en820 ja815 ko816 es815 fr816 / 📄zh 815 stable / stats ⭐1063 持平 / build 176s",
+      "articles": []
+    },
+    {
+      "hash": "18c4b25613983e421ce68fad025cb78d00d6ea3c",
+      "date": "2026-06-23T08:48:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: clean no-op 連 4 cycle — 0 new / 0 archive sync / 0 issue — env 可達 backend 靜默鏡像 — 2026-06-23",
+      "articles": []
+    },
+    {
+      "hash": "e149660b0bc08739363ae8ff9ddefef94240a552",
+      "date": "2026-06-23T08:41:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-23-084000-twmd-maintainer-am — vc 重置補 #615/#280 chronic 無 label（昨 am sanity check 沒撈到底）",
+      "articles": []
+    },
     {
       "hash": "01e1c7a56bc03969fa8b7b79cdd48a31f9d292b1",
       "date": "2026-06-23T00:55:22+08:00",

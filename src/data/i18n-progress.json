@@ -7,37 +7,33 @@
       "zh": 817,
       "en": 0
     },
-    "fr": {
-      "zh": 818,
-      "en": 0
-    },
     "ja": {
       "zh": 817,
-      "en": 0
-    },
-    "Society": {
-      "zh": 88,
-      "en": 89
-    },
-    "ko": {
-      "zh": 818,
       "en": 0
     },
     "People": {
       "zh": 232,
       "en": 233
     },
-    "Art": {
-      "zh": 41,
-      "en": 42
+    "Economy": {
+      "zh": 54,
+      "en": 55
+    },
+    "fr": {
+      "zh": 818,
+      "en": 0
+    },
+    "Culture": {
+      "zh": 64,
+      "en": 66
+    },
+    "ko": {
+      "zh": 818,
+      "en": 0
     },
     "Food": {
       "zh": 56,
       "en": 57
-    },
-    "Economy": {
-      "zh": 54,
-      "en": 55
     },
     "History": {
       "zh": 46,
@@ -51,34 +47,38 @@
       "zh": 63,
       "en": 61
     },
-    "Culture": {
-      "zh": 64,
-      "en": 66
+    "Politics": {
+      "zh": 11,
+      "en": 11
     },
     "Technology": {
       "zh": 53,
       "en": 52
     },
+    "Society": {
+      "zh": 88,
+      "en": 89
+    },
+    "Art": {
+      "zh": 41,
+      "en": 42
+    },
     "Lifestyle": {
       "zh": 28,
       "en": 28
-    },
-    "About": {
-      "zh": 8,
-      "en": 8
     },
     "Nature": {
       "zh": 37,
       "en": 38
     },
-    "Politics": {
-      "zh": 11,
-      "en": 11
-    },
     "resources": {
       "zh": 2,
       "en": 2
+    },
+    "About": {
+      "zh": 8,
+      "en": 8
     }
   },
-  "updated": "2026-06-23"
+  "updated": "2026-06-24"
 }
