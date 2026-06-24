@@ -36,6 +36,8 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-01'
     url: 'https://x.com/taiwandotmd/status/2061379958304584103'
+relatedDiary:
+  - 2026-06-01-130850-manual
 ---
 
 # Computex：三大國際電腦展收了兩個，剩下的那個長在台北
