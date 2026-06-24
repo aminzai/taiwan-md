@@ -21,7 +21,7 @@ lastHumanReview: false
 featured: false
 image: '/article-images/people/mona-rudao-seediq-leaders-1931.webp'
 translatedFrom: 'People/莫那·魯道.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'bb411ee0'
 sourceContentHash: 'sha256:0b1a3c6909f4b2bd'
 sourceBodyHash: 'sha256:06471c32d8e8a9fd'
 translatedAt: '2026-06-14T00:35:00+08:00'

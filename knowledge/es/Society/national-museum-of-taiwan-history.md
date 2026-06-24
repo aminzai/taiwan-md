@@ -17,7 +17,7 @@ lastVerified: 2026-05-11
 lastHumanReview: true
 featured: true
 translatedFrom: 'Society/國立臺灣歷史博物館.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'bb411ee0'
 sourceContentHash: 'sha256:0a19013fbe675c85'
 sourceBodyHash: 'sha256:16078470c5f07551'
 translatedAt: '2026-06-16T16:54:57Z'

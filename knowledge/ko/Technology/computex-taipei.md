@@ -23,7 +23,7 @@ lastVerified: 2026-06-04
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: '81e82684'
+sourceCommitSha: 'bb411ee0'
 sourceContentHash: 'sha256:61a81bd86d128a32'
 sourceBodyHash: 'sha256:245fe840b0ecd828'
 translatedAt: '2026-06-16T16:38:41Z'

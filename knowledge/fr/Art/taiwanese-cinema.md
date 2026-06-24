@@ -23,7 +23,7 @@ lastVerified: 2026-06-13
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: '5c0270599'
+sourceCommitSha: 'bb411ee0'
 sourceContentHash: 'sha256:231f74765e63f2a2'
 sourceBodyHash: 'sha256:9f66d5babc12e260'
 translatedAt: '2026-06-17T01:18:26+08:00'

@@ -11,10 +11,12 @@ featured: false
 lastVerified: 2026-06-14
 lastHumanReview: false
 translatedFrom: 'Culture/無名小站.md'
-sourceCommitSha: '9c871ad3b'
-sourceContentHash: 'sha256:3bfc85b8b38c3bbd'
-sourceBodyHash: 'sha256:099ed09358783f59'
+sourceCommitSha: 'bb411ee0'
+sourceContentHash: 'sha256:374cf68002e5c922'
+sourceBodyHash: 'sha256:74e768331f7f3a8b'
 translatedAt: '2026-06-16T18:19:09Z'
+relatedDiary:
+  - 2026-06-14-154636-無名小卒勘誤
 ---
 
 # 우밍샤오잔(無名小站): 주워 온 컴퓨터, 팔려나간 청춘, 그리고 아무도 장송하지 않은 소멸

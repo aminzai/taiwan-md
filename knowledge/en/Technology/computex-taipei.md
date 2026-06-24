@@ -30,7 +30,7 @@ sporeLinks:
     date: '2026-06-01'
     url: 'https://x.com/taiwandotmd/status/2061379958304584103'
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: '81e82684'
+sourceCommitSha: 'bb411ee0'
 sourceContentHash: 'sha256:61a81bd86d128a32'
 sourceBodyHash: 'sha256:245fe840b0ecd828'
 translatedAt: '2026-06-16T17:03:25Z'

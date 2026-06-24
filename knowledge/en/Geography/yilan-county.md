@@ -26,8 +26,8 @@ lastVerified: '2026-05-18'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/宜蘭縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:334a9bc575e37be7'
+sourceCommitSha: 'e27a20a4'
+sourceContentHash: 'sha256:a11b339547d8ad31'
 sourceBodyHash: 'sha256:9fcd1f01c87f0494'
 translatedAt: '2026-06-16T17:03:25Z'
 ---

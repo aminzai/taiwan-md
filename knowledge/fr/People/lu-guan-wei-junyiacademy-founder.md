@@ -22,7 +22,7 @@ lastVerified: 2026-06-14
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/呂冠緯.md'
-sourceCommitSha: 'df2e75589'
+sourceCommitSha: 'bb411ee0'
 sourceContentHash: 'sha256:cb74fb52bd858441'
 sourceBodyHash: 'sha256:ede8a39e93d2585c'
 translatedAt: '2026-06-17T02:19:12+08:00'

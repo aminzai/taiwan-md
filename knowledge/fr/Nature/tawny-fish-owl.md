@@ -22,9 +22,9 @@ lastVerified: 2026-05-12
 lastHumanReview: false
 featured: false
 translatedFrom: 'Nature/黃魚鴞.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:e7ee784435375331'
-sourceBodyHash: 'sha256:88027a3e0b96dfe3'
+sourceCommitSha: '3c781dba'
+sourceContentHash: 'sha256:f082c2bfc65ade6e'
+sourceBodyHash: 'sha256:2a057438270935d7'
 translatedAt: '2026-05-12T11:51:05+08:00'
 ---
 
@@ -147,6 +147,7 @@ Et maintenant, sur un Michelia formosana à 1 800 mètres, deux oisillons appren
 - [Saumon masou de Formose](/nature/櫻花鉤吻鮭) — Les deux espèces partagent l’écosystème de la rivière Qijiawan ; Sun Yuan-hsun a été chargé par Shei-Pa, à la même période, d’étudier ces deux espèces, qui forment deux extrémités d’une même communauté d’habitat
 - [Ours noir de Taïwan](/nature/台灣黑熊) — Également suivi de longue date par l’Institut de conservation de la faune sauvage de l’Université nationale des sciences et technologies de Pingtung, il dépend lui aussi d’environnements de moyenne altitude comportant de vieux arbres géants
 - [Écosystèmes forestiers de Taïwan](/nature/台灣森林生態系) — Avec l’importance des arbres géants de plus de 1 mètre de diamètre à hauteur de poitrine et de la proportion de forêt naturelle, le kétoupa à pattes jaunes est l’emblème le plus spectaculaire des « oiseaux des vieux arbres »
+- [Épée Yitian de la rivière Da-an](/nature/大安溪倚天劍) — Un autre vieil arbre géant caché au fond de Shei-Pa, survivant précisément parce que « les humains ne peuvent pas y accéder » ; ce type de forêt primaire de vallée de source non aménagée, où le taiwania pousse jusqu’à devenir l’arbre le plus haut d’Asie de l’Est, est précisément l’habitat dont dépend le kétoupa à pattes jaunes
 - [Parcs nationaux de Taïwan](/nature/台灣國家公園) — Les trois grands parcs nationaux de Shei-Pa, Taroko et Yushan sont les derniers bastions des populations stables de kétoupas à pattes jaunes, un cas concret du système d’aires protégées
 
 ## Références

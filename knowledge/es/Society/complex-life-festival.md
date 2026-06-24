@@ -21,7 +21,7 @@ lastVerified: 2026-06-07
 lastHumanReview: false
 image: '/article-images/society/complex-festival-onsite-program.webp'
 translatedFrom: 'Society/複雜生活節.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'bb411ee0'
 sourceContentHash: 'sha256:6286f5188247616e'
 sourceBodyHash: 'sha256:c3b8f174f9377cb1'
 translatedAt: '2026-06-14T00:35:00+08:00'

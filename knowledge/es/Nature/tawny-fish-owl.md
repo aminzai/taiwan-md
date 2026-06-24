@@ -22,9 +22,9 @@ lastVerified: 2026-05-12
 lastHumanReview: false
 featured: false
 translatedFrom: 'Nature/黃魚鴞.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:e7ee784435375331'
-sourceBodyHash: 'sha256:88027a3e0b96dfe3'
+sourceCommitSha: '3c781dba'
+sourceContentHash: 'sha256:f082c2bfc65ade6e'
+sourceBodyHash: 'sha256:2a057438270935d7'
 translatedAt: '2026-05-12T11:51:05+08:00'
 ---
 
@@ -147,6 +147,7 @@ Y ahora, sobre una Michelia a 1.800 metros, dos polluelos están aprendiendo a a
 - [Salmón kokanee de Formosa](/nature/櫻花鉤吻鮭) — Ambas especies comparten el ecosistema del arroyo Qijiawan; Sun Yuan-hsun recibió en el mismo periodo encargos de Shei-Pa para estudiar las dos especies, dos extremos de una misma comunidad de hábitat
 - [Oso negro taiwanés](/nature/台灣黑熊) — También es una especie seguida durante largo tiempo por el Instituto de Conservación de Vida Silvestre de la Universidad Nacional de Ciencia y Tecnología de Pingtung, y depende de ambientes de media altitud con árboles viejos y gigantes
 - [Ecosistema forestal de Taiwán](/nature/台灣森林生態系) — En la proporción de bosque natural y árboles gigantes de más de 1 metro de diámetro a la altura del pecho, el búho pescador leonado es el emblema más dramático de las “aves de árboles viejos”
+- [Espada Yitian del río Da-an](/nature/大安溪倚天劍) — Otro viejo árbol gigante escondido en las profundidades de Shei-Pa, sobreviviente precisamente porque «las personas no pueden llegar»; ese tipo de bosque primario en valles de cabecera sin intervenir, donde la taiwania crece hasta convertirse en el árbol más alto de Asia Oriental, es precisamente el hábitat del que depende el búho pescador leonado
 - [Parques nacionales de Taiwán](/nature/台灣國家公園) — Shei-Pa, Taroko y Yushan, los tres grandes parques nacionales, son el último bastión de poblaciones estables de búho pescador leonado y un caso concreto del sistema de áreas protegidas
 
 ## Referencias

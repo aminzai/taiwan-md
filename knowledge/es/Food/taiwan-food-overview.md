@@ -24,7 +24,7 @@ lastHumanReview: false
 featured: true
 image: '/article-images/food/taiwan-food-overview-raohe-night-market-2023.webp'
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: 'fe48ea49'
+sourceCommitSha: 'bb411ee0'
 sourceContentHash: 'sha256:5170de2db0a4b0df'
 sourceBodyHash: 'sha256:9da2f70ce1ba4f1f'
 translatedAt: '2026-06-22T00:30:00+08:00'
