@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T04:51:52.700Z",
+  "lastUpdated": "2026-06-24T15:09:48.251Z",
   "organs": [
     {
       "id": "heart",
@@ -10,9 +10,9 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 29,
-        "articlesLast30Days": 145,
-        "totalArticles": 815
+        "articlesLast7Days": 33,
+        "articlesLast30Days": 149,
+        "totalArticles": 817
       }
     },
     {
@@ -26,17 +26,17 @@
       "version": "v2-2026-05-16",
       "metrics": {
         "humanReviewedCount": 205,
-        "totalArticles": 815,
-        "humanReviewedPercent": 25.2,
+        "totalArticles": 817,
+        "humanReviewedPercent": 25.1,
         "v2Status": "漂移 — 多維度退化中",
         "v2Components": {
-          "review_coverage": 26.5,
+          "review_coverage": 26.4,
           "plugin_pass_rate": 70,
           "plugin_health": 36,
           "citation_density": 90.9,
           "tool_freshness": 60,
           "drift_velocity": 90,
-          "external_rulers": 3.7
+          "external_rulers": 3.8
         }
       }
     },
@@ -80,11 +80,11 @@
       "nameZh": "繁殖系統",
       "metaphor": "社群繁殖力",
       "emoji": "🧫",
-      "score": 100,
+      "score": 88,
       "trend": "up",
       "metrics": {
-        "recentContributors": 5,
-        "recentSpores": 14,
+        "recentContributors": 4,
+        "recentSpores": 8,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 179179,
         "hasBlockbuster": true
@@ -113,7 +113,7 @@
       "trend": "up",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 815,
+          "zh-TW": 817,
           "en": 820,
           "ja": 815,
           "ko": 816,
@@ -138,7 +138,7 @@
             },
             "articles": {
               "count": 820,
-              "pct": 101
+              "pct": 100
             },
             "score": 100
           },

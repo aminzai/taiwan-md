@@ -1,9 +1,9 @@
 {
-  "_generated": "2026-06-23T08:53:48+08:00",
+  "_generated": "2026-06-24T15:25:50+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 137,
-    "articles": 66,
+    "spores": 139,
+    "articles": 67,
     "withMetrics": 127
   },
   "spores": [
@@ -7338,6 +7338,46 @@
           "shares": null
         }
       ]
+    },
+    {
+      "id": 148,
+      "slug": "龜山島",
+      "articlePath": "knowledge/Geography/龜山島.md",
+      "articleUrl": "/geography/龜山島/",
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-06-24",
+      "url": "https://www.threads.com/@taiwandotmd/post/DZ9ZXvIEwhI",
+      "template": "A2 首尾呼應",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
+    },
+    {
+      "id": 149,
+      "slug": "龜山島",
+      "articlePath": "knowledge/Geography/龜山島.md",
+      "articleUrl": "/geography/龜山島/",
+      "lang": "zh",
+      "platform": "x",
+      "date": "2026-06-24",
+      "url": "https://x.com/taiwandotmd/status/2069674287964037412",
+      "template": "A2 首尾呼應",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
     }
   ],
   "byArticle": {
@@ -7406,6 +7446,7 @@
     "黃山料": [128, 129],
     "黃魚鴞": [59, 60],
     "黑冠麻鷺": [53, 54],
-    "齊柏林": [2]
+    "齊柏林": [2],
+    "龜山島": [148, 149]
   }
 }

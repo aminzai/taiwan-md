@@ -1,5 +1,5 @@
 {
-  "totalArticles": 4909,
+  "totalArticles": 4911,
   "totalCategories": 20,
   "estimatedContributors": 61,
   "totalTags": 6071,
@@ -58,7 +58,7 @@
     },
     {
       "name": "Geography",
-      "count": 63
+      "count": 64
     },
     {
       "name": "Economy",
@@ -69,12 +69,12 @@
       "count": 53
     },
     {
-      "name": "Lifestyle",
-      "count": 28
+      "name": "Nature",
+      "count": 38
     },
     {
-      "name": "Nature",
-      "count": 37
+      "name": "Lifestyle",
+      "count": 28
     },
     {
       "name": "Art",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4909,
+    "zh-TW": 4911,
     "en": 0
   },
-  "lastUpdated": "2026-06-24T04:51:45.849Z",
+  "lastUpdated": "2026-06-24T15:09:41.065Z",
   "stars": 1064,
   "forks": 156,
-  "zhPages": 815,
+  "zhPages": 817,
   "enPages": 822,
-  "totalPages": 815
+  "totalPages": 817
 }

@@ -1,26 +1,58 @@
 {
-  "lastUpdated": "2026-06-24T04:51:44.818600Z",
+  "lastUpdated": "2026-06-24T15:09:40.077551Z",
   "schemaVersion": "1.1",
   "totals": {
-    "count": 137,
+    "count": 139,
     "platforms": {
-      "threads": 71,
-      "x": 62,
+      "threads": 72,
+      "x": 63,
       "other": 4
     },
     "languages": {
-      "zh": 130,
+      "zh": 132,
       "en": 7
     },
     "templates": {
       "B": 45,
       "A": 32,
       "D": 4,
-      "A2": 50,
+      "A2": 52,
       "other": 6
     }
   },
   "recent": [
+    {
+      "n": 149,
+      "date": "2026-06-24",
+      "platform": "x",
+      "article": "龜山島",
+      "articleSlug": "龜山島",
+      "category": "geography",
+      "template": "A2 首尾呼應",
+      "url": "https://x.com/taiwandotmd/status/2069674287964037412",
+      "highlight": "黃陳裕阿嬤每天夢見龜山島 — 看得到上不去 vs 回不去的雙鄉愁",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
+    {
+      "n": 148,
+      "date": "2026-06-24",
+      "platform": "threads",
+      "article": "龜山島",
+      "articleSlug": "龜山島",
+      "category": "geography",
+      "template": "A2 首尾呼應",
+      "url": "https://www.threads.com/@taiwandotmd/post/DZ9ZXvIEwhI",
+      "highlight": "黃陳裕阿嬤每天夢見龜山島 — 看得到上不去 vs 回不去的雙鄉愁",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
     {
       "n": 147,
       "date": "2026-06-19",
@@ -67,38 +99,6 @@
       "views_latest": 11068,
       "engagements_7d": 741,
       "rate_7d": 6.69,
-      "backfilled": true
-    },
-    {
-      "n": 144,
-      "date": "2026-06-16",
-      "platform": "threads",
-      "article": "報導者",
-      "articleSlug": "報導者",
-      "category": "Society",
-      "template": "B 冷知識型 + 問題入口",
-      "url": "https://www.threads.com/@taiwandotmd/post/DZpJfvEE4IL",
-      "highlight": "報導者十週年：4→約8,000個每月掏錢的陌生人、編輯室不放點閱率螢幕，把調查報導從賠錢生意救成公共財。Threads 主貼+self-reply URL 串文，square 圖。",
-      "views_7d": 90000,
-      "views_latest": 90000,
-      "engagements_7d": 15072,
-      "rate_7d": 16.75,
-      "backfilled": true
-    },
-    {
-      "n": 143,
-      "date": "2026-06-16",
-      "platform": "x",
-      "article": "迷音Miin",
-      "articleSlug": "迷音Miin",
-      "category": "technology",
-      "template": "A2 首尾呼應（「資訊要自由」motif）",
-      "url": "https://x.com/taiwandotmd/status/2066559522156748815",
-      "highlight": "同一句資訊要自由＝信念/賣點/官司；標題去罪化（sub judice 深度查證）",
-      "views_7d": 14646,
-      "views_latest": 14646,
-      "engagements_7d": 692,
-      "rate_7d": 4.72,
       "backfilled": true
     }
   ],
@@ -233,6 +233,22 @@
       "publishedDays": 5,
       "status": "waiting",
       "url": "https://x.com/taiwandotmd/status/2067914171996614897"
+    },
+    {
+      "n": 148,
+      "article": "龜山島",
+      "platform": "threads",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://www.threads.com/@taiwandotmd/post/DZ9ZXvIEwhI"
+    },
+    {
+      "n": 149,
+      "article": "龜山島",
+      "platform": "x",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://x.com/taiwandotmd/status/2069674287964037412"
     }
   ],
   "noUrlHistorical": [
@@ -267,11 +283,6 @@
   ],
   "weeklyPulse": [
     {
-      "week": "2026-W18",
-      "published": 12,
-      "avgViews": 29325
-    },
-    {
       "week": "2026-W19",
       "published": 13,
       "avgViews": 6328
@@ -305,6 +316,11 @@
       "week": "2026-W25",
       "published": 6,
       "avgViews": 28188
+    },
+    {
+      "week": "2026-W26",
+      "published": 2,
+      "avgViews": 0
     }
   ],
   "harvestStatus": [
@@ -1677,6 +1693,26 @@
       "withinHarvestWindow": true,
       "harvestCount": 3,
       "lastHarvest": "2026-06-23 06:30"
+    },
+    {
+      "n": 148,
+      "article": "龜山島",
+      "platform": "threads",
+      "publishDate": "2026-06-24",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
+    },
+    {
+      "n": 149,
+      "article": "龜山島",
+      "platform": "x",
+      "publishDate": "2026-06-24",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
     }
   ]
 }

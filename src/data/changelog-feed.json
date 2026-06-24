@@ -1,7 +1,294 @@
 {
-  "generatedAt": "2026-06-24T04:51:47.506Z",
+  "generatedAt": "2026-06-24T15:09:42.735Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "11239eee433155c523fd35291096a92c40a147bc",
+      "date": "2026-06-24T22:04:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-24-220315-twmd-maintainer-pm — empty cycle vc=3 routine-only day pattern (pointer-not-duplicate)",
+      "articles": []
+    },
+    {
+      "hash": "1577f907c6cc0a6a4f468b5e6b1839b964de13ee",
+      "date": "2026-06-24T21:26:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: LESSONS-INBOX +2 — derived-pointer-date-neutral (vc3) + cocommit-positive-filter",
+      "articles": []
+    },
+    {
+      "hash": "1ca255d914009f7103b421cfea34cee0e286d621",
+      "date": "2026-06-24T21:25:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 2026-06-24-211808-manual — 幫每篇文章找回寫它的那天，才發現大部分日子沒有文章",
+      "articles": []
+    },
+    {
+      "hash": "5c9277c3681a15e6a11640aa9271e3c00df30de5",
+      "date": "2026-06-24T21:21:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-24-211808-manual — relatedDiary 回溯集體回補 finale",
+      "articles": []
+    },
+    {
+      "hash": "c203f6dcaf7f961dd94b6e3ca14576cd7d377b48",
+      "date": "2026-06-24T21:17:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: content-dates.json regen — relatedDiary 集體回補後 /latest 零位移驗證",
+      "articles": []
+    },
+    {
+      "hash": "bb411ee07029fdd0b76a76e56d9a8747012af0a9",
+      "date": "2026-06-24T21:16:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: relatedDiary 集體回補 12 篇 — 回溯日記↔文章配對（深掃判讀，不動編輯日期）",
+      "articles": [
+        {
+          "url": "/art/台灣電影",
+          "name": "台灣電影"
+        },
+        {
+          "url": "/art/紀柏豪",
+          "name": "紀柏豪"
+        },
+        {
+          "url": "/culture/無名小站",
+          "name": "無名小站"
+        },
+        {
+          "url": "/food/台灣美食總覽",
+          "name": "台灣美食總覽"
+        }
+      ]
+    },
+    {
+      "hash": "78e85f874d69676aba7f7e7e1362327d1f855c1f",
+      "date": "2026-06-24T21:16:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 日記↔文章回溯回補工具鏈 — analyzer + Greek slug fix + content-dates relatedDiary 排除",
+      "articles": []
+    },
+    {
+      "hash": "4ae85c87ee6849b4bbaf48728215707d40d31a27",
+      "date": "2026-06-24T20:43:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 2026-06-24-142554-龜山島-rewrite — CORRECTION 接認知層收官 + 勘誤 diary（在地知識沒身體）",
+      "articles": [
+        {
+          "url": "/geography/龜山島",
+          "name": "龜山島"
+        }
+      ]
+    },
+    {
+      "hash": "0c6d13067293ffd5666646e7ffdb0af21e42fc14",
+      "date": "2026-06-24T20:33:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] wire: CORRECTION-PIPELINE v1.0 接進認知層 5 處（哲宇 directive）",
+      "articles": []
+    },
+    {
+      "hash": "2a7a46300ac9b92497e80d1b982b49577cc7a161",
+      "date": "2026-06-24T20:23:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-24-142554-龜山島-rewrite — 補方向勘誤 + CORRECTION-PIPELINE v1.0 記錄",
+      "articles": []
+    },
+    {
+      "hash": "22b3e551a5977ea7d765e0e57b3affab24cbb657",
+      "date": "2026-06-24T20:22:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: CORRECTION-PIPELINE v1.0 — 勘誤端到端 SOP + 【勘誤通知】正式格式（哲宇 directive）",
+      "articles": []
+    },
+    {
+      "hash": "2320c29b486ef4ef5684d9b0366497ff7622bae2",
+      "date": "2026-06-24T20:10:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 龜山島 方向勘誤 — 出雪隧回宜蘭龜山島在左不在右（讀者 D+0 callout）",
+      "articles": [
+        {
+          "url": "/geography/龜山島",
+          "name": "龜山島"
+        }
+      ]
+    },
+    {
+      "hash": "4a33e9e81d4d3000fa370dcd14003e9145c01891",
+      "date": "2026-06-24T19:11:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-24-191014-twmd-rewrite-daily — DEFERRED post-finale saturation",
+      "articles": []
+    },
+    {
+      "hash": "ff92f3866a608b55e4135bb7fd811bc8c2f5fb21",
+      "date": "2026-06-24T18:22:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 2026-06-24-153210-大安溪倚天劍-rewrite — NEW 深度文收官（finale）+ relatedDiary 回扣（dogfood sync-diary-links）",
+      "articles": [
+        {
+          "url": "/nature/大安溪倚天劍",
+          "name": "大安溪倚天劍"
+        }
+      ]
+    },
+    {
+      "hash": "3c781dbaccb8a1cd2732f1d9cdc04ee1d18d4e74",
+      "date": "2026-06-24T18:11:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 大安溪倚天劍 NEW — 東亞最高的樹，藏在我們到不了的地方七百年（84.1m 台灣杉/找樹的人/隱蔽即倖存）",
+      "articles": [
+        {
+          "url": "/nature/大安溪倚天劍",
+          "name": "大安溪倚天劍"
+        },
+        {
+          "url": "/nature/黃魚鴞",
+          "name": "黃魚鴞"
+        }
+      ]
+    },
+    {
+      "hash": "f78cbf90bbaad641a12113da9ac980a7dc0d7c1d",
+      "date": "2026-06-24T17:03:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 2026-06-24-142554-龜山島-rewrite — EVOLVE 補圖+段落 finale + diary（dogfood sync-diary-links v2.2）",
+      "articles": [
+        {
+          "url": "/geography/龜山島",
+          "name": "龜山島"
+        }
+      ]
+    },
+    {
+      "hash": "a38c96994d9083ab2e0330e8077a622b73418fc7",
+      "date": "2026-06-24T16:53:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 龜山島 EVOLVE — 眼鏡洞「龜山夜市」走私 + 龜尾聚落砂洲 + 燈塔 + 怪方蟹/海蝕洞 圖（哲宇 directive）",
+      "articles": [
+        {
+          "url": "/geography/龜山島",
+          "name": "龜山島"
+        }
+      ]
+    },
+    {
+      "hash": "9583822bd038d07d0dbc2ef301a3ccb6839332c5",
+      "date": "2026-06-24T16:04:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 大安溪倚天劍 Stage 0-1 research SSOT — 東亞第一高樹（falsify 岩石→台灣杉）+ 5-agent fan-out ~129 搜尋 / gate PASS 63 源",
+      "articles": []
+    },
+    {
+      "hash": "9bb3a15d0bea1af188cd593696f019b0cc8553e6",
+      "date": "2026-06-24T15:29:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-24-142554-龜山島-rewrite — 補 DIARY-PIPELINE v2.2 relatedDiary 回扣進化記錄",
+      "articles": []
+    },
+    {
+      "hash": "d9514475dcb4589117cfe32927c02baed527c4c3",
+      "date": "2026-06-24T15:27:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: DIARY-PIPELINE v2.2 — article-session relatedDiary 回扣儀器化 (sync-diary-links.py)",
+      "articles": [
+        {
+          "url": "/geography/龜山島",
+          "name": "龜山島"
+        }
+      ]
+    },
+    {
+      "hash": "4e69bf56376bf7bc982efd33456001f9920feea0",
+      "date": "2026-06-24T15:07:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-24-142554-龜山島-rewrite — finale 補孢子 phase（#148/#149 ship）+ handoff 三態更新",
+      "articles": []
+    },
+    {
+      "hash": "cd7598155b4257ce01aa452d3c3cb830e83023b2",
+      "date": "2026-06-24T14:57:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] 孢子 #148/#149: 龜山島 — 黃陳裕阿嬤回不去的家（Threads + X ship）",
+      "articles": [
+        {
+          "url": "/geography/龜山島",
+          "name": "龜山島"
+        }
+      ]
+    },
+    {
+      "hash": "8f5f00e56773f4570e5c7dcb8452c870b32d420c",
+      "date": "2026-06-24T14:31:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 2026-06-24-142554-龜山島-rewrite — 龜山島 NEW 深度文收官（finale）",
+      "articles": []
+    },
+    {
+      "hash": "e27a20a4a375137f5d2b38105364b5bfbe3717d9",
+      "date": "2026-06-24T14:24:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 龜山島 NEW — 宜蘭人天天看著的家的方向，島上的人卻回不去的家",
+      "articles": [
+        {
+          "url": "/geography/宜蘭縣",
+          "name": "宜蘭縣"
+        },
+        {
+          "url": "/geography/龜山島",
+          "name": "龜山島"
+        }
+      ]
+    },
+    {
+      "hash": "50408a63e2390235d59c285255dbd711a128049b",
+      "date": "2026-06-24T13:07:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-24-130515-twmd-embeddings-nightly — fleet-down graceful skip 連續第 7 夜 (4090 http 000 / ping 100% loss / staleness 7d / vc=3 封頂不 re-inflate 欠哲宇 A/B)",
+      "articles": []
+    },
+    {
+      "hash": "7862194f75de6caab083f15429687f334bddc84e",
+      "date": "2026-06-24T13:06:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: clean no-op 連 5 cycle — 0 new / 0 issue / 0 archive sync — backend 可達靜默鏡像 — 07:00 cron miss → 13:04 launchd backlog 第 5 道",
+      "articles": []
+    },
+    {
+      "hash": "d3193d454b1acf751f1086e99c6c21e3cbb072b6",
+      "date": "2026-06-24T13:01:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-24-125942-twmd-maintainer-pm — pm cron 12:59 manual catch-up empty cycle vc=2 (6/22 vc=1 → 6/23 silent miss → 6/24 vc=2)",
+      "articles": []
+    },
+    {
+      "hash": "bad5194ff4407c562704cca0efd3073829b475a1",
+      "date": "2026-06-24T13:00:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel-nightly: 0 translations — stale=0 entry state / 連 8 夜義務達成 / 0 tier fired healthy no-op — 2026-06-24",
+      "articles": []
+    },
+    {
+      "hash": "c5311acf661b294d9bdc63bbc7fb4c1ba188dc15",
+      "date": "2026-06-24T12:59:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-24-125449-twmd-rewrite-daily — DEFERRED (pre-canonical + prime-time + satiation)",
+      "articles": []
+    },
+    {
+      "hash": "2f3355d17819f27b7b31610e709626bbd4c063d9",
+      "date": "2026-06-24T12:56:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-24-125431-twmd-data-refresh-pm — DEFERRED duplicate fire",
+      "articles": []
+    },
+    {
+      "hash": "00fa932bcdd78cc7c154ce7039985dbe660cc7cd",
+      "date": "2026-06-24T12:53:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: am 14-step data refresh — 三源全綠 + Step 11 11/11 fresh 連 29d + immune 51→51 chronic flat 重啟第 3 cycle (plugin_health 36→36 止血 / review_coverage 26.5 持平) + CF 404 11.99% 連升 4 cycle (8.55→10.85→11.89→11.99 / 96hr trend confirmed vc=1) + AI 130K -10K post-NVIDIA decay + i18n stable en820 ja815 ko816 es815 fr816 / 📄zh 815 / stats ⭐1064 +1 / build 181s; schedule sentinel co-occurrence maintainer+data-refresh 雙 cron 早晨 miss → 12:50/12:51 manual catch-up",
+      "articles": []
+    },
     {
       "hash": "9174b8399855f1d069e6cf379ddd518d40b5edea",
       "date": "2026-06-24T12:51:28+08:00",

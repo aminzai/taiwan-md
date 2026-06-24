@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-24T12:51:52.666244",
+  "lastUpdated": "2026-06-24T23:09:48.214692",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 51,
   "status": "漂移 — 多維度退化中",
   "components": {
-    "review_coverage": 26.5,
+    "review_coverage": 26.4,
     "plugin_pass_rate": 70.0,
     "plugin_health": 36.0,
     "citation_density": 90.9,
     "tool_freshness": 60,
     "drift_velocity": 90.0,
-    "external_rulers": 3.7
+    "external_rulers": 3.8
   },
   "componentWeights": {
     "review_coverage": 0.25,
@@ -30,21 +30,21 @@
       "weight": 3.0
     },
     "T2": {
-      "total": 356,
+      "total": 357,
       "reviewed": 84,
-      "pct": 23.6,
+      "pct": 23.5,
       "weight": 1.5
     },
     "T3": {
-      "total": 93,
+      "total": 94,
       "reviewed": 18,
-      "pct": 19.4,
+      "pct": 19.1,
       "weight": 0.5
     }
   },
   "pluginPassDetail": {
-    "total_files": 817,
-    "hard_pass_files": 817,
+    "total_files": 819,
+    "hard_pass_files": 819,
     "hard_pass_pct": 100.0,
     "warn_pass_files": 0,
     "warn_pass_pct": 0.0,
@@ -52,13 +52,13 @@
   },
   "citationDetail": {
     "grades": {
-      "A": 639,
+      "A": 641,
       "B": 11,
       "C": 152,
       "D": 4,
       "F": 9
     },
-    "files_with_grade": 815
+    "files_with_grade": 817
   },
   "freshnessDetail": {
     "editorial_days_old": 3,
@@ -67,7 +67,7 @@
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 13,
+    "new_articles_7d": 14,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
@@ -210,8 +210,8 @@
     "note": "Phase 7 v1 — per-plugin drift only. Future: per-section EDITORIAL, false-positive-rate, longitudinal violation trend."
   },
   "externalRulersDetail": {
-    "ruledArticles": 30,
-    "totalArticles": 815,
+    "ruledArticles": 31,
+    "totalArticles": 817,
     "rulerSources": {
       "factcheckReports": true,
       "readerErrataCommits90d": true,
