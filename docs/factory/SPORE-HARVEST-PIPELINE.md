@@ -232,6 +232,8 @@ Taiwan.md 的進化動力過去主要在 author 層（REWRITE-PIPELINE 內部審
 
 ## 🪣 5-Bucket Reply Classifier（v3.0 — 判斷依據 SSOT）
 
+> 🔗 **本節是孢子留言的勘誤入口（分桶 + Chrome MCP reply 機制）。端到端勘誤 SOP + 【勘誤通知】正式格式 canonical 在 [CORRECTION-PIPELINE.md](../pipelines/CORRECTION-PIPELINE.md)** — Bucket A（可追溯事實錯）/ C（場景推導錯）確認後委派那條走 TRIAGE→VERIFY→FIX→NOTIFY→LOG。
+
 每一條留言**分桶之前不行動**。Bucket 決定處置 + 是否 trigger article EVOLVE + 是否 draft reply。
 
 | Bucket | 名稱                            | 訊號特徵                                                                                                                  | Action                                                                                     | 對外回覆？        |

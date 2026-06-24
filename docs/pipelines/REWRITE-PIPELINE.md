@@ -361,6 +361,8 @@ Step 0.2 萃取既有素材後**強制**分成三類：
 
 ### Step 0.2-bis: 拆除防火牆（Teardown Firewall）— callout-triggered EVOLVE 強制 🔥🧱
 
+> 🔗 **callout-triggered 勘誤的端到端流程（分類→查證→修→通知→記錄 + 【勘誤通知】格式）canonical 在 [CORRECTION-PIPELINE.md](CORRECTION-PIPELINE.md)。本 step 是其中「需要全文重寫時的拆除防火牆」那一塊**——讓 callout 不污染觀點與正文。
+>
 > **觸發**：EVOLVE 的觸發來源是「外部錯誤 callout」（讀者 / 領域專家 / peer / 我自己的 factcheck 發現「舊文錯了 A↔B」），而不是單純「品質提升」。
 >
 > **背景**：2026-06-01 配樂專業讀者 peilinwu0702 第二輪 callout。第一輪指出 `台灣影視配樂` 作曲家↔作品大量誤植 → 走 EVOLVE 重寫 → 事實層確實修對了（25 footnote 全一手）→ **但讀者第二輪罵的是「整篇充滿 AI 道歉 / AI 澄清、架構從頭就有問題」**。診斷：[reports/reader-callout-pipeline-diagnosis-2026-06-01.md](../../reports/reader-callout-pipeline-diagnosis-2026-06-01.md)。
