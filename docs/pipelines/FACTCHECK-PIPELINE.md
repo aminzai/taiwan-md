@@ -10,6 +10,7 @@ sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'PEER-INGESTION-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
+  - 'CORRECTION-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
   - '../semiont/DNA.md'

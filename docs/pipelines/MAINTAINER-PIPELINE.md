@@ -267,6 +267,8 @@ gh run list --limit 5 --workflow="i18n Smoke Test" --json conclusion,status,crea
 | 📋 **[Content] 主題建議**     | title `[Content]` prefix / body 含 cron-generated 標記 / contributor 列「現有 / 建議新增 / 優先序」三段結構 | **Step 2.1.1 sub-flow** + Step 3.6.b 4-route templates |
 
 > **`from-feedback` label（2026-06-01 新增）**：issue 帶 `from-feedback` label = 站上讀者回報經 `twmd-feedback-triage` 自動轉入（讀者原話 verbatim + provenance）。**走一般 issue 流程,不另設分支**：`needs-verification`（勘誤）→ 當 Bug/Content 處理修事實;`bug` → Step 3.5;`content`（newtopic）→ Step 2.1.1 [Content] digest 4-route dedupe。差別只在**回覆時對象是讀者**（用讀者語言、敘事化、列接下來要做的事,per feedback_contributor_reply_humanize),且回覆仍是**人類 gate**（§自主權邊界）。完整來源 pipeline：[FEEDBACK-TRIAGE-PIPELINE.md](FEEDBACK-TRIAGE-PIPELINE.md)。
+>
+> **勘誤類 issue（`needs-verification` / 讀者指出事實或方向錯誤）→ 委派 [CORRECTION-PIPELINE.md](CORRECTION-PIPELINE.md)**（2026-06-24 新增）：不要在 MAINTAINER 內臨機處理。CORRECTION 是勘誤端到端 SSOT — 第一性原理「錯誤邊界=可追溯性」（可溯→公開更正 / 杜撰→撤回）、TRIAGE→VERIFY→FIX→NOTIFY→LOG 五階、【勘誤通知】正式 reply 格式、reply 5 鐵律、16 案例表。MAINTAINER 只負責把 issue 分類 + 路由進去;修事實 + 回覆讀者的 SOP 全在 CORRECTION。回覆仍是**人類 gate**。
 
 #### 人物文章知名度門檻
 
@@ -712,7 +714,7 @@ WebFetch URL → 驗證該 URL 是否真的提到 footnote 旁邊的 claim。若
 12. **對真人 UGC 負評**：用匿名 / 低觸及貼文當具名在世真人的負評來源（例：黃氏兄弟拿 28-view 匿名 Threads 當哲哲「家長式領導」負評）= **名譽風險最高** → default 刪除，除非找到可靠媒體源並軟化
 13. **數字概括 drift**：子集數字被擴用到母集、倍率 / 百分比偽精度（例：「假日 130 萬」→「每日」；「八成市佔（威利）」歸給菱利；「約 8 倍」誇成「30 倍」；13.5% → 13.86%）→ 對 base 數字 cross-source 驗算
 
-**Default action**：紅旗看到時 default 是 polish 不是 close（per §Close 前 hard gate）。**紅旗 1-8（frontmatter/結構層）**對應 polish 都 < 10 min/篇；**紅旗 9-13（內容/來源層）**需 FACTCHECK 研究＋換源，不是 10-min quick fix → 走 §Footnote source audit + [FACTCHECK-PIPELINE](FACTCHECK-PIPELINE.md) Quick/Full Mode。AI 生成 batch（≥ 5 PR 連發）的可重複 immune workflow：merge-first → 隔離 worktree → 平行逐篇 audit → 平行修正 → 主 session verify（article-health 0-hard + footnote-url network + 政治篇逐行讀 diff）→ PR merge-back。完整 worked example：[reports/factcheck/2026-06/_BATCH8-SUMMARY.md](../../reports/factcheck/2026-06/_BATCH8-SUMMARY.md)。
+**Default action**：紅旗看到時 default 是 polish 不是 close（per §Close 前 hard gate）。**紅旗 1-8（frontmatter/結構層）**對應 polish 都 < 10 min/篇；**紅旗 9-13（內容/來源層）**需 FACTCHECK 研究＋換源，不是 10-min quick fix → 走 §Footnote source audit + [FACTCHECK-PIPELINE](FACTCHECK-PIPELINE.md) Quick/Full Mode。AI 生成 batch（≥ 5 PR 連發）的可重複 immune workflow：merge-first → 隔離 worktree → 平行逐篇 audit → 平行修正 → 主 session verify（article-health 0-hard + footnote-url network + 政治篇逐行讀 diff）→ PR merge-back。完整 worked example：[reports/factcheck/2026-06/\_BATCH8-SUMMARY.md](../../reports/factcheck/2026-06/_BATCH8-SUMMARY.md)。
 
 ### Step 3.5: Polish / Heal commit
 
