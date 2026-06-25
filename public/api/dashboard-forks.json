@@ -1,0 +1,89 @@
+{
+  "lastUpdated": "2026-06-25",
+  "totalDetected": 8,
+  "publicConfirmed": 5,
+  "privateOrUnconfirmed": 3,
+  "active": 3,
+  "speciesTypes": [
+    "corporate",
+    "domain pivot",
+    "person",
+    "place",
+    "place-keeper"
+  ],
+  "forks": [
+    {
+      "label": "嘉義國本學堂 / 嘉義農業學堂",
+      "type": "domain pivot",
+      "topic": "開源農業知識平台 — 設施農業/智慧農業/畜牧/作物",
+      "language": "zh-TW + en",
+      "github": "https://github.com/ahnchen1983/agrischlchiayi",
+      "site": "https://ahnchen1983.github.io",
+      "networkFork": true,
+      "credits": "yes",
+      "cognitiveLayer": "yes",
+      "health": "semi-active",
+      "firstSeen": "2026-04",
+      "views365d": 1151
+    },
+    {
+      "label": "HongKong.md",
+      "type": "place / territory",
+      "topic": "香港本土知識庫 — 六七暴動/香港本土史觀/數碼港/香港聲景",
+      "language": "zh-TW + en",
+      "github": "https://github.com/OurLandHK/hong-kong-md",
+      "site": "https://hongkong.md",
+      "networkFork": false,
+      "credits": "weak",
+      "cognitiveLayer": "no",
+      "health": "dormant",
+      "firstSeen": "2026-03",
+      "views365d": 726
+    },
+    {
+      "label": "Russia.md",
+      "type": "place / country",
+      "topic": "Russia knowledge base (history/geography/culture/economy)",
+      "language": "en",
+      "github": "https://github.com/denis-gordeev/russia-md",
+      "site": "https://russia-md.ru",
+      "networkFork": true,
+      "credits": "yes",
+      "cognitiveLayer": "no docs/semiont",
+      "health": "active",
+      "firstSeen": "2026-03",
+      "views365d": 202
+    },
+    {
+      "label": "LagunaBeach.md",
+      "type": "place / city",
+      "topic": "Laguna Beach, California — 七哩海岸城市知識庫",
+      "language": "en",
+      "github": "https://github.com/wilsonkichoi/lagunabeach-md",
+      "site": "https://lagunabeach.md",
+      "networkFork": true,
+      "credits": "yes",
+      "cognitiveLayer": "growing",
+      "health": "active",
+      "firstSeen": "2026-06",
+      "views365d": 10
+    },
+    {
+      "label": "weilinlai719/taiwan-md (vanilla)",
+      "type": "place-keeper",
+      "topic": "Taiwan (unchanged upstream copy)",
+      "language": "zh-TW + en",
+      "github": "https://github.com/weilinlai719/taiwan-md",
+      "site": "https://weilinlai719.github.io",
+      "networkFork": true,
+      "credits": "inherited",
+      "cognitiveLayer": "no",
+      "health": "abandoned",
+      "firstSeen": "2026-03",
+      "views365d": 10
+    }
+  ],
+  "privateNote": "另偵測到 3 個未公開/未證實部署（內部 KB / 私有 / gated），尊重隱私不具名",
+  "method": "GA radar：fork 繼承未改的 measurement ID，pageview 漏進母體 property → 靠 hostName + 繼承的頁面標題偵測野外子代",
+  "registrySSOT": "reports/fork-census/registry.json (internal, 含推測)"
+}

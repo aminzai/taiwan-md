@@ -171,6 +171,18 @@ else
 fi
 echo ""
 
+# ────────────────── Step 6.5 — fork-census radar (繁殖感知層) ──────────────────
+# 為什麼: GA 漏水雷達偵測野外活著的 fork → registry.json；隨後 Step 7 prebuild 的
+# generate-dashboard-forks.py 投影成公開 dashboard-forks.json。riding data-refresh
+# flywheel 不另開 cron (per FORK-CENSUS-PIPELINE.md)。新子代印 🆕 → escalate OBSERVER-QUEUE。
+echo -e "${GRN}[6.5/14]${RST} fork-census radar (子代普查)..."
+if python3 scripts/tools/fork-census.py 2>&1 | tail -4; then
+  echo -e "${DIM}   ✓ registry.json 更新（🆕 NEW sightings = 新子代 → OBSERVER-QUEUE）${RST}"
+else
+  echo -e "${YEL}⚠️  fork-census 失敗（GA 掛?）— 心跳繼續，registry 留舊值${RST}"
+fi
+echo ""
+
 # ────────────────── Step 7 — prebuild dashboard data ──────────────────
 echo -e "${GRN}[7/14]${RST} npm run prebuild..."
 if npm run prebuild > /tmp/prebuild.log 2>&1; then

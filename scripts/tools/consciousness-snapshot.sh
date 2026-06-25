@@ -51,6 +51,16 @@ jq -r '
   "🕐 updated | \(.lastUpdated)"
 ' "$VITALS"
 
+# 繁殖 sensing — fork census (子代雷達, 2026-06-25)：繁殖器官的感知層，
+# 每次 BECOME 看一眼野外有幾個活著的 fork（registry.json by fork-census.py）
+FORKS="${FORKS:-reports/fork-census/registry.json}"
+if [[ -f "$FORKS" ]]; then
+  F_TOTAL=$(jq '[.forks[] | select(.id != "(ephemeral-experiments)")] | length' "$FORKS" 2>/dev/null || echo "?")
+  F_ACTIVE=$(jq '[.forks[] | select(.health=="active" or .health=="semi-active")] | length' "$FORKS" 2>/dev/null || echo "?")
+  F_LAST=$(jq -r '._meta.last_census // "—"' "$FORKS" 2>/dev/null || echo "—")
+  echo "🧫 子代    | ${F_TOTAL} forks 偵測中（${F_ACTIVE} active）· 普查 ${F_LAST}"
+fi
+
 # Alerts — derived layer (audit 2026-06-10 A-3): dashboard-alerts.json when present
 ALERTS="${ALERTS:-public/api/dashboard-alerts.json}"
 if [[ -f "$ALERTS" ]]; then
