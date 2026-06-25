@@ -22,10 +22,10 @@ featured: true
 lastVerified: 2026-04-26
 lastHumanReview: true
 translatedFrom: 'Lifestyle/台灣交通系統.md'
-sourceCommitSha: '7678a430'
-sourceContentHash: 'sha256:f05e6146f7a532ed'
-sourceBodyHash: 'sha256:9a046555ce3577ad'
-translatedAt: '2026-06-10T16:45:50Z'
+sourceCommitSha: '755eeda4'
+sourceContentHash: 'sha256:beaa2c8eefc377c5'
+sourceBodyHash: 'sha256:7b8c052d67180597'
+translatedAt: '2026-06-25T16:41:02Z'
 category: Lifestyle
 datasets:
   - id: '14208'
@@ -165,6 +165,7 @@ L'histoire maritime est encore plus spectaculaire. Des années 1980 aux années 
 
 **Pour aller plus loin** :
 
+- [Le système de bus de Taïwan](/lifestyle/台灣的公車系統) — comment se déplacent les « personnes sans volant » sur une île à scooters, et pourquoi ce système s'effondre d'abord dans les zones rurales
 - [La culture des supérettes taïwanaises](/lifestyle/台灣便利商店文化) — une autre infrastructure qui tourne 24 heures sur 24, comme le système de transport
 - [La culture du scooter à Taïwan](/lifestyle/台灣機車文化) — derrière 14 millions de scooters : conception urbaine, politique de classe et guerre des droits routiers
 - [Le développement de la chaîne industrielle des véhicules électriques à Taïwan](/technology/台灣電動車產業鏈發展) — au-delà de Gogoro, le rôle de Taïwan dans la chaîne d'approvisionnement mondiale des véhicules électriques

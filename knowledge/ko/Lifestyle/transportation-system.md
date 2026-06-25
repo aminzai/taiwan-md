@@ -22,10 +22,10 @@ featured: true
 lastVerified: 2026-04-26
 lastHumanReview: true
 translatedFrom: Lifestyle/台灣交通系統.md
-sourceCommitSha: '7678a430'
-sourceContentHash: 'sha256:f05e6146f7a532ed'
-sourceBodyHash: 'sha256:9a046555ce3577ad'
-translatedAt: '2026-06-10T16:42:09Z'
+sourceCommitSha: '755eeda4'
+sourceContentHash: 'sha256:beaa2c8eefc377c5'
+sourceBodyHash: 'sha256:7b8c052d67180597'
+translatedAt: '2026-06-26T00:00:00Z'
 category: Lifestyle
 ---
 
@@ -150,6 +150,7 @@ YouBike 2.0의 도입으로 정류장이 지하 케이블에 연결될 필요가
 
 **더 읽기:**
 
+- [대만의 버스 시스템](/lifestyle/台灣的公車系統) — 오토바이 섬에서 "운전대 없는 사람들"이 어떻게 이동하는가, 그리고 이 시스템이 시골에서 먼저 무너지고 있는 이야기
 - [대만 편의점 문화](/lifestyle/台灣便利商店文化) — 교통 시스템과 마찬가지로 24시간 멈추지 않는 또 하나의 인프라
 - [대만 오토바이 문화](/lifestyle/台灣機車文化) — 1,400만 대 오토바이 뒤의 도시 설계, 계급 정치, 그리고 도로 사용권 전쟁
 - [대만 전기차 산업 사슬 발전](/technology/台灣電動車產業鏈發展) — Gogoro 너머, 대만의 전기차 글로벌 공급망에서의 역할

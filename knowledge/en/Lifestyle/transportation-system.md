@@ -37,10 +37,10 @@ featured: true
 lastVerified: 2026-04-26
 lastHumanReview: true
 translatedFrom: 'Lifestyle/台灣交通系統.md'
-sourceCommitSha: '7678a430'
-sourceContentHash: 'sha256:f05e6146f7a532ed'
-sourceBodyHash: 'sha256:9a046555ce3577ad'
-translatedAt: '2026-06-10T16:43:34Z'
+sourceCommitSha: '755eeda4'
+sourceContentHash: 'sha256:beaa2c8eefc377c5'
+sourceBodyHash: 'sha256:7b8c052d67180597'
+translatedAt: '2026-06-26T00:40:00+08:00'
 category: Lifestyle
 ---
 
@@ -165,6 +165,7 @@ The maritime story is more dramatic. From the 1980s through the 2000s, Kaohsiung
 
 **Further Reading:**
 
+- [Taiwan's Bus System](/lifestyle/台灣的公車系統) — How "people without steering wheels" move on a motorcycle island, and the story of how this system is collapsing in rural areas first
 - [Taiwan's Convenience Store Culture](/lifestyle/台灣便利商店文化) — Another round-the-clock infrastructure, like the transportation system
 - [Taiwan's Scooter Culture](/lifestyle/台灣機車文化) — The urban design, class politics, and road rights battles behind 14 million scooters
 - [Taiwan's Electric Vehicle Industry Chain](/technology/台灣電動車產業鏈發展) — Beyond Gogoro: Taiwan's role in the global EV supply chain

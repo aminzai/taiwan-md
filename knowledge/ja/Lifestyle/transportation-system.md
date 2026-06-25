@@ -23,10 +23,10 @@ lastVerified: 2026-04-26
 lastHumanReview: true
 featured: true
 translatedFrom: 'Lifestyle/台灣交通系統.md'
-sourceCommitSha: '7678a430b'
-sourceContentHash: 'sha256:f05e6146f7a532ed'
-sourceBodyHash: 'sha256:9a046555ce3577ad'
-translatedAt: '2026-06-12T00:53:02+08:00'
+sourceCommitSha: '755eeda4'
+sourceContentHash: 'sha256:beaa2c8eefc377c5'
+sourceBodyHash: 'sha256:7b8c052d67180597'
+translatedAt: '2026-06-26T00:40:32+08:00'
 ---
 
 # 台湾交通システム：90分に圧縮された島の物語
@@ -150,6 +150,7 @@ YouBike 2.0の導入により、ステーションを地下ケーブルに接続
 
 **関連記事**：
 
+- [台湾のバスシステム](/lifestyle/台灣的公車系統) —— バイク島で「ハンドルを持たない人」がどう移動するか、そして地方から先に崩れつつあるこのシステムの話
 - [台湾コンビニ文化](/lifestyle/台灣便利商店文化) —— 交通システムと同じく24時間休まないもう一つのインフラ
 - [台湾バイク文化](/lifestyle/台灣機車文化) —— 1,400万台のバイクの背後にある都市設計、階級政治、そして道路使用権をめぐる戦い
 - [台湾の電動車産業チェーン発展](/technology/台灣電動車產業鏈發展) —— Gogoro以外に、台湾が電動車グローバルサプライチェーンで果たす役割

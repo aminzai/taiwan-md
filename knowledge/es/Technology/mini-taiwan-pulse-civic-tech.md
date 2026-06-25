@@ -1,245 +1,310 @@
 ---
-title: 'Mini Taiwan Pulse: Cómo un analista de datos convirtió el pulso del transporte de Taiwán en pistas de luz 3D que respiran'
-description: 'El 24 de febrero de 2026, un analista de datos llamado Migu Cheng abrió el repositorio mini-taiwan-pulse. Seis semanas después, 193 commits y 241 estrellas: una persona conectó datos abiertos de FlightRadar24, TDX, SEGIS y CWA, y usó Three.js para dibujar Taiwán como pistas de luz 3D que respiran. La infraestructura de datos abiertos de Taiwán está entre las mejores de Asia, pero pocos pueden ver ese océano de datos. La tecnología cívica se extiende desde los hackatones colectivos de g0v hasta proyectos personales de fin de semana, y la visualización en sí misma es una forma de participación.'
+title: "'Mini Taiwan Pulse: con mirada curatorial, dibujar Taiwán como un mapa que respira'"
+description: 'En 2026, el analista de datos Migu superpuso datos abiertos dispersos de Taiwán —aviones, barcos, trenes, autobuses y camiones de basura— hasta convertirlos en un mapa que respira. El trabajo pesado de extraer datos quedó en manos de la IA; pero decidir qué capas juntar, qué colores usar y cuál hacer brillar dependió de una mirada curatorial formada en planificación urbana.'
 date: 2026-04-19
-category: Technology
+author: 'Taiwan.md'
+category: 'Technology'
 subcategory: '公民科技'
-tags: [Technology, 公民科技, 開放資料, 資料視覺化, 開源專案, TDX, Three.js]
-readingTime: 12
-lastVerified: 2026-04-19
+tags:
+  [
+    'Tecnología',
+    'tecnología cívica',
+    'datos abiertos',
+    'visualización de datos',
+    'proyecto de código abierto',
+    'TDX',
+    'Three.js',
+    'inteligencia artificial',
+    'agente de IA',
+    'SIG',
+  ]
+readingTime: 20
+lastVerified: 2026-06-25
 lastHumanReview: true
 featured: false
-translatedFrom: Technology/mini-taiwan-pulse.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:67b51d615cc671f3'
-sourceBodyHash: 'sha256:e36cd08c05108020'
-translatedAt: 2026-05-01T20:54:23+08:00
+translatedFrom: 'Technology/mini-taiwan-pulse.md'
+sourceCommitSha: '905aa4a82'
+sourceContentHash: 'sha256:93ceaae8bc44512f'
+sourceBodyHash: 'sha256:941fb85e8f2fbb98'
+translatedAt: '2026-06-26T00:38:47+08:00'
 ---
 
-# Mini Taiwan Pulse: Cómo un analista de datos convirtió el pulso del transporte de Taiwán en pistas de luz 3D que respiran
+# Mini Taiwan Pulse: con mirada curatorial, dibujar Taiwán como un mapa que respira
 
-> **Resumen en 30 segundos:** El 24 de febrero de 2026, un desarrollador cuyo perfil de GitHub se llama `ianlkl11234s` y cuya bio dice "Senior Data Analyst, Exploring AI automation in daily work" —Migu Cheng[^1]— abrió un repositorio llamado mini-taiwan-pulse. Seis semanas después, el repositorio acumuló 193 commits y 241 estrellas[^2], integrando datos abiertos de vuelos de FlightRadar24, posiciones AIS de embarcaciones, horarios ferroviarios de TDX, demografía de aldeas de SEGIS y cuadrículas meteorológicas de CWA, todo unido mediante esferas luminosas, estelas de luz y columnas 3D de Three.js en 23 capas conmutables de forma independiente. No es un proyecto gubernamental, ni producto de una subvención, ni un prototipo de hackatón de fin de semana: es el tiempo libre de una persona convirtiendo el océano de datos de Taiwán en un paisaje visible.
+Un día a comienzos de 2026, un analista de datos llamado Migu convirtió un archivo CSV en GeoJSON y lo arrastró a una herramienta del navegador llamada Kepler.gl. Sin escribir media línea de código, apareció en la pantalla el primer mapa de Taiwán.
 
-## Un repositorio de una persona, el pulso de una isla
+En la universidad había estudiado planificación urbana y entonces había tocado un poco de SIG (sistemas de información geográfica; en términos simples, herramientas que hacen que los datos vivan sobre un mapa). Después de entrar al mundo laboral siguió el camino del análisis de datos, y hacía mucho que no volvía a trabajar con mapas. Aquel día, al arrastrar el CSV a Kepler.gl y ver cómo Taiwán crecía en la pantalla, lo que le vino a la mente fue una sorpresa muy sencilla:
 
-En el historial de commits de GitHub del 24 de febrero de 2026, el primer commit de `ianlkl11234s/mini-taiwan-pulse` llegó. El inicio del README dice:
+> “Resulta que Taiwán tiene tantos datos; resulta que convertirlos en mapa no es tan difícil.”[^1]
 
-> Con datos abiertos, siente el pulso de Taiwán. Los vuelos en el cielo trazan arcos, las embarcaciones navegan de ida y vuelta sobre el mar, los trenes corren puntuales sobre las vías — esta isla respira en cada instante.[^3]
+La frase no parece gran cosa. Después se convirtió en la semilla de todo un conjunto de cosas.
 
-Hasta el último push del 9 de abril, el repositorio acumuló 193 commits, 241 estrellas y 12 forks[^2]. El autor, Migu Cheng, solo dejó una línea en su perfil: "Senior Data Analyst. Exploring AI automation in daily work." Sin empresa, sin blog, sin Twitter[^1].
+> **Resumen en 30 segundos:** Migu (GitHub `ianlkl11234s`) empezó a fines de 2025 a crear más de una decena de proyectos de visualización con datos abiertos de Taiwán. El más popular, mini-taiwan-pulse, acumuló 375 estrellas en GitHub y superpone cinco tipos de datos en tiempo real —cielo, mar, tierra, calles y recolección de basura— en un mapa animado[^2]. Pero en una charla de junio de 2026 para la comunidad sciwork, planteó el problema sin rodeos: sólo el gobierno central de Taiwán tiene alrededor de cincuenta mil conjuntos de datos abiertos, dispersos además en más de veinte plataformas municipales y de condado; “el cerebro humano no alcanza a revisarlos todos”. Su respuesta no fue pedir a más personas que ayudaran a revisarlos, sino entregar los datos completos a un sistema orquestado por agentes de IA, capaz de crecer por sí mismo, donde las personas sólo se encargan de formular las preguntas y validar los resultados[^3].
 
-Lo que hace este repositorio no es sencillo. Conecta todas las siguientes fuentes de datos en un mismo mapa 3D:
+Este artículo trata de cómo una persona pasó de la ingenuidad de arrastrar un CSV a soltar el control para dejar que un sistema creciera por él.
 
-| Capa de datos                             | Fuente                                                                         | Escala                                                        |
-| ----------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| Posición de vuelos en tiempo real         | API de FlightRadar24[^4]                                                       | 14 aeropuertos en Taiwán, más de 1.500 vuelos                 |
-| Posicionamiento AIS de embarcaciones      | Sistema internacional AIS de identificación automática                         | Aguas circundantes a Taiwán, estela con retardo de 30 minutos |
-| Horarios ferroviarios                     | Horarios públicos + OSM Overpass[^5]                                           | TRA/THSR/metro de cuatro áreas metropolitanas, 333 trenes     |
-| Estaciones de transporte público          | TDX Servicio de circulación de datos de transporte[^6]                         | Autobuses, autocares, YouBike, ciclovías                      |
-| Estadísticas de población por aldea       | SEGIS del Ministerio del Interior[^7]                                          | 7.748 aldeas, hexágonos H3 res7+res8                          |
-| Cuadrículas meteorológicas                | Datos abiertos de la Administración Central de Meteorología[^8]                | Resolución 0,03°, malla 120×67                                |
-| Alertas de desastres                      | Feed CAP de NCDR[^9]                                                           | Tifones, terremotos, inundaciones                             |
-| Marcadores geográficos de noticias        | RSS de la Agencia Central de Noticias + geocodificación con API de Gemini[^10] | Noticias principales/secundarias diarias                      |
-| Límites de aeropuertos/puertos/estaciones | API Overpass de OSM[^5]                                                        | 14 aeropuertos, 535 estaciones                                |
+## Cómo el GitHub de una sola persona se convirtió en una galaxia
 
-Luego utiliza Three.js r172 sobre un mapa base de Mapbox GL JS v3, superponiendo seis `CustomLayer` independientes: los aviones son esferas luminosas multicapa con estelas de degradado en forma de cometa; las embarcaciones usan `InstancedMesh` para renderizado por lotes, con una estela de 30 minutos como degradado de color por vértice; 265 rutas OD de TRA y 333 trenes clasificados por tipo en 6 colores; cada uno de los 36 faros tiene un haz cónico 3D giratorio[^3].
+Si uno mira sólo el proyecto mini-taiwan-pulse, es fácil imaginar a Migu como un ingeniero aficionado: se entusiasmó un fin de semana, hizo una demo y, por casualidad, se volvió viral.
 
-Estas pistas de luz se superponen con mezcla aditiva (additive blending): las zonas donde múltiples rutas se cruzan se iluminan naturalmente, y la intensidad del tráfico no necesita gráficos estadísticos — basta con mirar la luz.
+Esa imagen falla en dos puntos.
 
-## El océano de datos de Taiwán, por qué pocos pueden verlo
+Primero, lo que hizo está lejos de ser un solo proyecto. Al abrir su GitHub, desde diciembre de 2025 todo aparece densamente poblado por visualizaciones de datos abiertos de Taiwán: lo primero fue una prueba de concepto sobre cobertura de autobuses; luego, a fines de diciembre, un proyecto de aprendizaje llamado `mini-taiwan-learning-project` se hizo popular antes que los demás, y hoy suma 189 estrellas. En febrero hizo puntos en tiempo real de AIS marítimo, creó `flight-arc-graph` (56 estrellas), que dibuja cada despegue y aterrizaje como un arco; recién a fines de febrero llegó mini-taiwan-pulse, seguido por un atlas de Taiwan Railways, órbitas satelitales, cámaras CCTV en tiempo real, un panel de situación que concentra todos los datos llamado `mini-taiwan-info`... y así hasta junio[^2]. Más de diez repositorios conectados entre sí. Él mismo les dio un nombre: la galaxia “Mini Taiwan”.
 
-La infraestructura de datos abiertos de Taiwán está entre las mejores de Asia. La Plataforma de Datos Abiertos del Gobierno (data.gov.tw) se lanzó en 2013 y acumula más de cien mil conjuntos de datos[^11]; el servicio TDX del Ministerio de Transporte integró en 2022 cinco plataformas (carreteras, ferrocarril, aviación, navegación y ciclismo) en una única puerta de entrada con API de datos estáticos y dinámicos de transporte a escala nacional[^6]; el SEGIS del Ministerio del Interior ofrece capas espaciales de estadísticas demográficas a nivel de aldea[^7]; la Administración Central de Meteorología, el Centro Nacional de Ciencia y Tecnología para la Reducción de Desastres, la Administración de Energía del Ministerio de Economía y el Sistema de Información en Tiempo Real de Embarcaciones en Aguas de Taiwán operan sus propias API[^8][^9].
+![Panel de situación Mini Taiwan Info, que concentra datos abiertos de múltiples temas —población, transporte ferroviario, navegación, recursos hídricos, bomberos, salud— en un panel de monitoreo de un tema por página](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
 
-Los datos existen. El problema es que **están dispersos en distintas plataformas, con formatos de API diferentes, granularidades espaciales distintas y frecuencias temporales diversas**. Alguien que quiera ver "cómo está Taiwán ahora mismo" tiene que escribir sus propios scrapers, procesar OData, procesar CAP XML, procesar GeoJSON, procesar hexágonos H3, y solo entonces puede empezar con la "visualización".
+_Otro miembro de la galaxia, Mini Taiwan Info: concentra datos abiertos dispersos en un panel de monitoreo de situación, con población, transporte ferroviario, navegación, recursos hídricos, bomberos y salud, un tema por página. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
 
-> **📝 Nota del curador**
-> El movimiento de datos abiertos tiene dos indicadores que se confunden fácilmente: **cuántos datos hay** (cuántas API abrió el gobierno) y **cuántos datos se ven** (cuántas visualizaciones, aplicaciones y historias existen). Taiwán es un alumno ejemplar en el primer indicador, pero en el segundo ha dependido durante mucho tiempo del esfuerzo disperso de la comunidad g0v y de algunos medios de noticias comerciales. Esta brecha es la posición más significativa de Mini Taiwan Pulse: no llena un vacío de datos, sino de visibilidad.
+Si ordenamos estos proyectos por estrellas, queda claro que no sólo uno se volvió popular.
 
-En 2012, g0v (Gobierno Cero) surgió en un hackatón en la Academia Sinica, con el lema "escribir programas para transformar la sociedad". Desde el primer hackatón que visualizó el presupuesto general del gobierno, hasta que en 2020 Wu Zhanwei conectó en 72 horas las existencias de mascarillas en más de 6.000 farmacias del seguro nacional de salud, generando la reputación internacional de Taiwán como "salvar la nación con el teclado"[^12], g0v acumuló más de 59 hackatones, más de 7.200 participantes y más de 950 proyectos propuestos[^13].
+```tw-bars
+GitHub de Migu: no sólo un repo se volvió popular (estrellas de GitHub)
+*mini-taiwan-pulse | 375 | buque insignia
+mini-taiwan-learning-project | 189 | se volvió viral antes que pulse
+flight-arc-graph | 56 | trayectorias aéreas
+tw-ship-viz | 11 | barcos
+mini-tw-cctv | 6 | imágenes en tiempo real
+satellite-arc | 6 | satélites
+Fuente: API de GitHub, 2026-06-25
+```
 
-Pero la narrativa de g0v es colectiva: es una comunidad, una cultura de sábados por la mañana donde la gente llega con sus portátiles. Mini Taiwan Pulse muestra otra forma de tecnología cívica: **un fin de semana de una persona, un git log de una persona**. Migu Cheng puso su enlace de GitHub al final del README, sin presentación de equipo, sin Discord, sin patrocinadores. Entre los 193 commits hay refactorizaciones, correcciones de rendimiento y registros del evento de saturación de E/S del 9 de abril de 2026[^14]; el historial de commits de este repositorio se lee como un diario de ingeniería.
+El segundo error está escondido en esas tres palabras: “una sola persona”. Volveremos a desarmarlas en un momento. Primero veamos cómo creció la galaxia.
 
-## Tres capas de pulso: cielo, mar y tierra
+```tw-timeline
+2025-12 | Primera prueba | PoC de cobertura de autobuses, primer intento con datos abiertos de Taiwán
+2025-12 | learning-project se adelanta | Visualización ferroviaria de Taipéi, viral antes del proyecto insignia (189★)
+2026-02 | Nace el buque insignia | Abre mini-taiwan-pulse, que evoluciona de JSON estático a base de datos espacio-temporal
+2026-06 | Se despliega todo el sistema | Charla sciwork 2026: entregar los datos abiertos a un sistema criado por agentes
+```
 
-Mini Taiwan Pulse divide los objetos en movimiento en tres capas:
+## El mismo método, del metro al sistema solar
 
-### Cielo: estelas de luz de vuelos
+El propio buque insignia también estaba creciendo. El mini-taiwan-pulse inicial tenía tres capas: cielo, mar y tierra. Para la versión de su charla, ya era una “co-moción de cinco pulsos”: aviones en el cielo, barcos en el mar, trenes sobre la tierra, autobuses en las calles y camiones de basura en la recolección, cinco tipos de datos en tiempo real con frecuencias distintas superpuestos sobre un mismo mapa que respira. En su presentación dijo que era la primera vez que el proyecto “evolucionaba de JSON estático a base de datos espacio-temporal”[^3]. Sólo en la capa de calles, afirmó, conectó más de 5.700 autobuses de TDX, actualizando sus posiciones cada 30 segundos.
 
-14 aeropuertos de Taiwán, aproximadamente 1.500 aviones simultáneos. Cada avión es una esfera luminosa multicapa, con una animación de respiración tipo luz anticolisión roja. La estela de degradado en forma de cometa detrás del avión sigue una paleta de colores por altitud en tema oscuro (naranja cálido a azul frío) y colores aleatorios en tema claro[^3]. Los datos provienen de la API pública de FlightRadar24, una red global de seguimiento de vuelos compuesta por receptores ADS-B[^4], con una densidad de cobertura muy alta en el espacio aéreo circundante a Taiwán.
+![DAY 0, el primer mapa: convertir un CSV en GeoJSON y arrastrarlo a Kepler.gl; sin escribir código, aparece el primer mapa de Taiwán](/article-images/technology/mini-taiwan-kepler-day0-2026.webp)
 
-### Mar: estelas de embarcaciones
+_El “DAY 0” de su charla: convertir un CSV en GeoJSON y arrastrarlo a Kepler.gl. Cero líneas de código y ya tenía el primer mapa de Taiwán, punto de partida de toda la galaxia. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
 
-Las embarcaciones utilizan datos AIS (Automatic Identification System), un sistema de transmisión de posición en tiempo real obligatorio de la Organización Marítima Internacional para grandes buques comerciales. Mini Taiwan Pulse marca las posiciones con esferas luminosas InstancedMesh en azul verdoso, con una estela de 30 minutos; el sistema filtra automáticamente saltos GPS anómalos y MMSI inválidos para asegurar que los puntos de luz sean embarcaciones reales[^3].
+La primera chispa de esta galaxia fue una visualización ferroviaria de Taipéi que llamó “Mini Taipei”. Superpuso los tres sistemas sobre rieles —MRT, Taiwan Railways y tren de alta velocidad— en un mapa animado, con los trenes corriendo sobre las líneas según los horarios. Dijo que en ese momento recién “experimentó el encanto de lo dinámico”, con más de trescientos trenes moviéndose a la vez en pantalla[^3]. Así, un horario estático se convirtió en la respiración de una ciudad.
 
-### Tierra: seis sistemas ferroviarios
+![Mini Taipei superpone MRT, Taiwan Railways y tren de alta velocidad en un mapa animado, con más de trescientos trenes corriendo sobre las líneas según el horario](/article-images/technology/mini-taiwan-taipei-rail-2026.webp)
 
-Esta es probablemente la parte más compleja de todo el proyecto. TRA, THSR, Metro de Taipéi, Metro de Kaohsiung, Tren Ligero de Kaohsiung y Metro de Taichung: seis sistemas ferroviarios operando simultáneamente, cada tren como una esfera luminosa coloreada según su tipo, con TRA y THSR mostrando además una estela de 3 minutos de retardo.
+_Mini Taipei: MRT, Taiwan Railways y tren de alta velocidad en el mismo encuadre, con más de trescientos trenes corriendo sobre las líneas según el horario. Dijo que fue la primera vez que “experimentó el encanto de lo dinámico”. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
 
-El procesamiento de TRA es especialmente complejo: emparejamiento de rutas OD (origen-destino), inferencia de "golden track", rutas divergentes como el triángulo de Changhua requieren un motor dedicado, y el README lo denomina directamente "motor específico para TRA"[^3]. Esto no es simplemente dibujar horarios sobre un mapa, sino inferir la posición real de los trenes en las vías a partir de datos textuales de horarios.
+Desde entonces, como si se hubiera vuelto adicto, aplicó el mismo método de “convertir datos en movimiento” a escalas cada vez mayores. Sobre el mar, conectó puntos AIS en tiempo real de la autoridad portuaria y marítima, y con esferas de luz azul verdosa más una estela degradada de treinta minutos dibujó el rumbo de los barcos en aguas alrededor de Taiwán.
 
-> **📝 Nota del curador**
-> Las "rutas triangulares" de TRA (como las de Changhua, Taichung y Nangang) son un detalle que solo los entusiastas del ferrocarril notarían: los trenes pueden entrar y salir desde múltiples direcciones, no son simples rutas A→B. La mayoría de las visualizaciones ferroviarias simplifican estos tramos; Mini Taiwan Pulse escribió un motor dedicado para manejarlos. Esta es una señal de "profundidad curatorial": el autor no solo conecta datos, sino que respeta la complejidad original de los datos.
+![Barcos en aguas alrededor de Taiwán dibujados con puntos AIS en tiempo real de la autoridad portuaria y marítima, esferas luminosas azul verdosas y estelas degradadas de treinta minutos](/article-images/technology/mini-taiwan-ships-ais-2026.webp)
 
-Además de los tres capas de objetos en movimiento, el proyecto superpone 23 capas estáticas y analíticas conmutables: columnas de luz 3D para 535 estaciones (altura proporcional normalizada a las paradas diarias), haces cónicos 3D giratorios para 36 faros, red de carreteras adaptable al zoom (autopistas en rojo / carreteras provinciales en naranja / ciclovías en verde), mapa de calor hexagonal H3 de simulación de flujo de personas (cambio día/noche, escalas de color Plasma/Viridis), panel de 9 indicadores demográficos (cantidad/estructura/carga), superficie ondulada 3D de temperaturas por cuadrícula CWA, codificación de color de congestión en autopistas, escala de severidad de alertas de desastres NCDR, y marcadores geográficos de eventos noticiosos de CNA[^3].
+_El pulso marítimo: puntos AIS en tiempo real de la autoridad portuaria y marítima, esferas luminosas azul verdosas y estelas degradadas de treinta minutos para dibujar los barcos en aguas alrededor de Taiwán. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
 
-En total: 10 categorías, 23 capas, 6 estilos de mapa base de Mapbox, navegación por fecha + línea de tiempo con reproducción acelerada de 30× a 3600×. Todo esto contenido en un repositorio GitHub de una sola persona.
+Luego empujó el mismo método más allá de la Tierra. Con parámetros orbitales TLE públicos calculó posiciones satelitales, dibujó trayectorias de satélites sobre Taiwán y, de paso, lo extendió a todo el sistema solar. En la presentación lo dijo de manera directa: “El mismo método, mientras haya datos, puede extenderse indefinidamente”[^3]. En ese momento uno entiende que lo que lo fascina en realidad es “convertir datos en algo visible”; el mapa fue apenas su primera forma.
 
-## Curaduría técnica: qué tan difícil es hacer que los datos sean "en tiempo real"
+![Visualización de órbitas satelitales calculadas con TLE públicos; el mismo método se extiende desde la superficie de Taiwán hasta el espacio](/article-images/technology/mini-taiwan-satellite-2026.webp)
 
-Crear un sitio web de visualización con mapa no es difícil; el "hola mundo" de Mapbox se ejecuta en quince minutos. Lo difícil es que sea **en tiempo real, fluido y capaz de manejar más de 56.000 celdas hexagonales para las más de 7.000 aldeas de Taiwán**.
+_El mismo método llevado más allá de la Tierra: calcular órbitas satelitales con TLE públicos y extenderlo luego a todo el sistema solar. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
 
-Mini Taiwan Pulse tiene tres decisiones arquitectónicas dignas de mención:
+## Superponer islas: las brechas emergen solas
 
-### 1. Patrón Overlay Registry
+Poco a poco, lo interesante dejó de ser “puntos en tiempo real que se mueven” y pasó a ser “superponer datos que originalmente no tenían relación para que las brechas aparezcan solas”. Dentro de esta galaxia hay varios proyectos dedicados a eso. Uno de ellos lo llamó “agricultura × agua”: superpone en un solo mapa las islas de tres organismos —agricultura, recursos hídricos y prevención de desastres—, mostrando en el mismo encuadre tierras agrícolas, ríos, acequias, diques y potencial de inundación. Para que ese mapa combinado pudiera correr en el navegador, usó un formato llamado PMTiles junto con HTTP range requests, reduciendo datos que originalmente pesaban 400 MB a una carga de apenas unos 5 MB en el navegador[^3].
 
-Todas las capas estáticas de Mapbox GL (aeropuertos, estaciones, puertos, faros, carreteras, campos de viento) se gestionan de forma unificada mediante un `overlayRegistry.ts` **basado en configuración**: un array de configuración (`sourceUrl` + función `paint`), un `overlayManager.ts` para operaciones CRUD, y un `useEffect` que controla la visibilidad y el cambio de tema de todos los overlays. Añadir un overlay solo requiere modificar tres archivos[^3].
+![Mapa integrado agricultura × agua: superpone tierras agrícolas, ríos, acequias, diques y potencial de inundación, datos abiertos dispersos en distintos organismos](/article-images/technology/mini-taiwan-farm-water-2026.webp)
 
-Esta es una arquitectura clásica de "UI basada en datos", no especialmente llamativa, pero para un sistema de 23 capas es la clave de si se puede mantener o no.
+_Agricultura × agua: superpone las islas de datos de agricultura, recursos hídricos y prevención de desastres en un solo mapa, con tierras agrícolas, ríos, acequias, diques y potencial de inundación en el mismo encuadre. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
 
-### 2. Incrustación de Three.js CustomLayer
+Otro proyecto superpone hospitales, clínicas, farmacias, DEA y puntos de cuidados de largo plazo sobre densidad de población, y luego dibuja isócronas. Según él, eso permite “ver la accesibilidad y también ver los desiertos médicos”, es decir, qué lugares tienen a la población a una distancia irrazonable del recurso sanitario más cercano.
 
-Mapbox GL por sí solo no es bueno dibujando objetos 3D. Mini Taiwan Pulse utiliza la interfaz `CustomLayer` de Mapbox para incrustar la escena de Three.js en el mismo contexto WebGL, con seis `CustomLayer` independientes gestionando vuelos, embarcaciones, ferrocarril, faros, columnas de luz de estaciones y ondas 3D de temperatura, compartiendo la matriz de cámara y controlando cada una su interruptor de renderizado[^3].
+![Mapa de accesibilidad a recursos médicos: hospitales, clínicas, farmacias, DEA y puntos de cuidados de largo plazo superpuestos sobre población, con isócronas que hacen emerger los desiertos médicos](/article-images/technology/mini-taiwan-medical-2026.webp)
 
-Esta es la forma estándar de integrar Mapbox + Three.js (bibliotecas de terceros como threebox y three-geo siguen este camino[^15]). Mini Taiwan Pulse escribe los CustomLayer a mano en lugar de depender de threebox, a costa de tener que manejar la matriz de proyección y la configuración de iluminación manualmente, pero con la ventaja de tener control total sobre el flujo de renderizado.
+_Recursos médicos: hospitales, clínicas, farmacias, DEA y puntos de cuidados de largo plazo superpuestos sobre población, más isócronas, para “ver la accesibilidad y también ver los desiertos médicos”. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
 
-### 3. Patrón de preagregación con Supabase pg_cron
+En la línea de desastres trabajó con más detalle: radar meteorológico, niveles de embalses, precipitación y alertas de desastre, todos datos con frecuencias de actualización distintas, se unifican en la capa inferior sobre una misma línea de tiempo. El usuario sólo tiene que arrastrar esa línea y todas las capas se reproducen en sincronía. Dónde empezó una lluvia intensa, cómo subió el embalse, cuándo se emitió una alerta: todo se une en una cadena causal en la misma pantalla.
 
-Esta es la decisión más ingenieril de todo el proyecto. El pooler de Supabase tiene un **límite estricto de 2 minutos en statement_timeout** para llamadas a la API[^16], lo que significa que si tu consulta SQL tarda más de 2 minutos, la conexión se corta. Para un sistema que necesita consultar trayectorias de embarcaciones, trayectorias de vuelos y congestión de autopistas diariamente, consultar las tablas originales directamente chocaría contra este muro.
+![Línea de tiempo de lluvias intensas y desastres: radar meteorológico, embalses, precipitación y alertas de desastre, con frecuencias distintas, unificados sobre una línea de tiempo y reproducidos en sincronía](/article-images/technology/mini-taiwan-disaster-2026.webp)
 
-La solución de Mini Taiwan Pulse es: **tabla normal + función de actualización diaria + pg_cron para actualización programada + RPC SELECT ligera**. Cada consulta temporal de alta frecuencia tiene su tabla de preagregación correspondiente, actualizada cada 10-30 minutos mediante `pg_cron` integrado en Supabase[^17]; el frontend solo lee resultados de la tabla preagregada, manteniéndose consistentemente en el rango de milisegundos:
+_Lluvias intensas y desastres: radar meteorológico, embalses, precipitación y alertas de desastre se unifican por debajo en una misma línea de tiempo; al arrastrarla, todo se reproduce en sincronía. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
 
-| RPC                          | Antes            | Después |
-| ---------------------------- | ---------------- | ------- |
-| `get_ship_trails`            | timeout          | 123ms   |
-| `get_flight_trails`          | timeout          | 126ms   |
-| `get_freeway_congestion_day` | al límite de 60s | 302ms   |
-| `get_disaster_alerts_day`    | 13,2s            | 110ms   |
-| `get_temperature_frames`     | 551ms            | 107ms   |
+También está flight-arc, donde cada despegue y aterrizaje se dibuja como un arco. La misma API, alimentada con aeropuertos distintos, hace emerger una “huella” diferente para cada aeropuerto: Taoyuan, Haneda en Tokio, Fráncfort, cada uno con su propia forma. Mencionó especialmente Atlanta, el aeropuerto más transitado del mundo: cinco pistas paralelas más rutas de espera superpuestas crean una geometría “como un circuito de carreras”; dijo que esa imagen dibujaba 1.839 trayectorias[^3].
 
-Esta tabla aparece directamente en el README[^3], con enlace al informe de inventario. Para lectores familiarizados con arquitecturas Postgres + tiempo real, estas líneas son más convincentes que cualquier captura de pantalla: indican que el autor encontró un cuello de botella real de producción y eligió la solución correcta.
+![Mapa de trayectorias de todos los despegues y aterrizajes de Atlanta durante un período; cinco pistas paralelas más rutas de espera superponen una geometría similar a un circuito de carreras](/article-images/technology/mini-taiwan-flight-arc-atlanta-2026.webp)
 
-> **📝 Nota del curador**
-> Las decisiones técnicas de Mini Taiwan Pulse son casi todas "soluciones aburridas correctas": CustomLayer de Mapbox + Three.js, hexágonos H3 de código abierto de Uber[^18], escalas de color perceptualmente uniformes (Plasma/Viridis/Inferno), normalización log1p + gamma para distribuciones de cola pesada, preagregación con Supabase pg_cron. No hay técnicas de visualización inventadas, ni el framework de moda más reciente; cada decisión tiene antecedentes documentados. Esta sensación de ingeniería estable "sin sorpresas" es la cualidad más escasa en un proyecto independiente.
+_Su flight-arc superpone todos los despegues y aterrizajes de Atlanta durante un período: cinco pistas paralelas más rutas de espera dibujan una geometría parecida a un circuito de carreras. Dijo que el flujo mismo es una forma. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
 
-## La definición de tecnología cívica se está redefiniendo
+> 📝 **Nota curatorial**
+> Si hace dos años alguien hubiera dicho “una persona creó el mapa de datos abiertos en tiempo real más completo de Taiwán”, la frase siguiente probablemente habría sido “seguro terminó agotado”. Esa intuición ata escala y mano de obra: cuanto más se hace, más se desgasta la persona. La galaxia de Migu merece atención precisamente porque afloja ese vínculo. Una sola persona empuja al mismo tiempo más de diez repositorios y el proyecto insignia sigue sumando funciones; detrás hay un cambio más fundamental: hacia la etapa final, cada vez más commits ya no los tecleaba él. Cómo se produjo esa “una sola persona” es el verdadero tema de este artículo.
 
-La palabra "tecnología cívica" en Taiwán se asocia más frecuentemente con g0v, una comunidad "centrada en la transparencia de la información, los resultados abiertos y la colaboración abierta, que se preocupa por los asuntos públicos a través del poder de las bases populares"[^19]. El énfasis de esta definición está en lo **colectivo**: hackatones, colaboración, coescritura, revisiones de PR, evaluaciones de subvenciones.
+## Cincuenta y dos mil ochocientos noventa y un registros: el cerebro humano no alcanza
 
-Pero Mini Taiwan Pulse muestra otra forma contemporánea de tecnología cívica: **una persona, un bucle de fin de semana, una licencia MIT**.
+Hasta aquí la historia todavía fluye con facilidad: una persona talentosa hace cada vez más cosas, y cada vez mejor. El giro aparece a mitad de su charla, cuando deja de hablar de “qué hice” y empieza a hablar de “contra qué pared choqué”.
 
-Desde la visualización del presupuesto en el primer hackatón de g0v en 2012, hasta el mapa de mascarillas de Wu Zhanwei en 2020, hasta el mini-taiwan-pulse de Migu Cheng en 2026. En un extremo del espectro está la cultura presencial de colaboración colectiva; en el otro, la lenta acumulación de commits individuales. Entre ambos extremos hay varios grados de mezcla: equipos pequeños con mantenimiento de varios años, proyectos de estudiantes, código abierto subcontratado por licitaciones gubernamentales, y las becas de innovación en tecnología cívica g0v de la Open Culture Foundation (OCF)[^20].
+Mostró una diapositiva titulada “Por qué Agentic OSINT”. Allí desplegó una cifra: data.gov.tw tiene alrededor de 52.891 conjuntos de datos; si se suman las plataformas abiertas de los veintidós condados y ciudades, incluyendo duplicados, aparecen otras sesenta o setenta mil entradas; y eso sin contar datos en manos de organizaciones civiles, ONG e instituciones académicas que nunca entraron en catálogos gubernamentales. Su conclusión fue breve:
 
-Todos estos proyectos comparten la misma premisa: **el gobierno abrió los datos, el resto depende de nosotros**. El papel del gobierno es el de constructor de infraestructuras de datos como TDX, data.gov.tw, SEGIS y CWA, mientras que el papel de la comunidad cívica es hacer que esos datos "se vean", a través de visualizaciones, wrappers de API, artículos tutoriales, servicios aplicados y paneles de supervisión ciudadana.
+> “Tu cerebro humano no alcanza a revisarlos todos.”[^3]
 
-La posición de Mini Taiwan Pulse en este espectro es clara: no es un proyecto de servicio (no busca resolver un problema específico), ni un proyecto de herramientas (no busca que otros reutilicen una biblioteca), es un **proyecto de demostración**. Quienes vean este repositorio pensarán: "así que los datos abiertos conectados pueden verse así", "TDX + Three.js + Supabase pueden lograr este nivel", "una persona sola puede hacer todo esto".
+Ese es el eje de toda la historia. La persona que en la primera mitad arrastraba un CSV y exclamaba “resulta que hay tantos datos” ahora chocaba de frente con la otra cara de ese “tantos datos”: sólo las más de cincuenta mil entradas de data.gov.tw exigirían, aun leyendo cien por día, más de quinientos días seguidos para revisar una vez el catálogo, y eso sólo para el catálogo central. Hay tantos datos que una sola persona no los agota ni en una vida, mucho menos los hace conversar entre sí. El esfuerzo individual toca aquí un techo.
 
-> **📝 Nota del curador**
-> Lo que más escasea en el ecosistema de datos abiertos de Taiwán no son las API ni los ingenieros, sino **demuestras que presenten los datos de forma atractiva y comprensible para el público general**. Mini Taiwan Pulse eligió el tema de mayor dificultad (escala nacional + múltiples fuentes de datos + actualización en tiempo real + visualización 3D) y un desarrollador independiente lo llevó al punto de poder compartirlo. La cifra de 241 estrellas no importa por su valor absoluto, sino porque demuestra que este camino es viable.
+Lo que Migu realmente entendió fue la frase siguiente. Que haya demasiados datos para revisarlos, para él, era una señal para cambiar de herramienta:
 
-## Cosas que podrían hacerse
+> “Sólo cuando los datos pueden ser vistos por un LLM, el agente puede ayudarte a descubrir ‘qué datos deberían verse juntos’.”[^3]
 
-Mini Taiwan Pulse es actualmente una obra de demostración, no un producto:
+La palabra clave es “juntos”. Aunque una persona memorizara los nombres de los cincuenta mil conjuntos de datos, difícilmente recordaría que un “mapa de potencial de incendio” debe combinarse con “zonas de difícil rescate”, o que “puntos de hospitales” deben superponerse con “densidad de población” para revelar desiertos médicos. El valor de los datos no está en cada registro aislado, sino en sus combinaciones; y las combinaciones posibles son una permutación astronómica de cincuenta mil elementos. Ese es precisamente el lugar donde el cerebro humano no alcanza y donde las máquinas sí son fuertes.
 
-- **No ha publicado releases**: 193 commits pero 0 etiquetas de release; el despliegue es Docker + Nginx auto-hospedado[^3]
-- **Algunas fuentes de datos requieren solicitar claves API propias**: la API comercial de FlightRadar24, la clave API de la plataforma de datos abiertos de CWA y la autenticación de miembro TDX (flujo OIDC Client Credentials) deben configurarse por el lector[^6]
-- **La URL de demostración pública aún no se ha revelado**: el README no incluye enlace a demo en vivo; para ver los efectos actualmente hay que clonar y ejecutar localmente
-- **Solo 1 issue abierto y 0 PR**: la colaboración comunitaria aún no ha arrancado; esta es la etapa típica de un proyecto de demostración
+> 📝 **Nota curatorial**
+> La narrativa habitual de datos abiertos tiene una división clara de tareas. Después del hackatón de 2012 en Academia Sinica bajo el lema “escribir código para transformar la sociedad”, g0v la mostró de manera ejemplar: el gobierno se encarga de abrir los datos, la comunidad cívica de hacerlos visibles. En 2020, el mapa de mascarillas, donde Howard Wu y otros convirtieron en 72 horas los datos de inventario de la Administración Nacional del Seguro de Salud en un mapa consultable por toda la ciudadanía, fue una de las expresiones más conmovedoras de esa división[^4]. La lectura antigua pondría a Migu como prolongación de esa línea: g0v es colectivo; él, individual; una versión de una sola persona del mapa de mascarillas.
+>
+> Pero esa comparación se queda en la superficie y además invierte la causalidad. Que Migu, una sola persona, pueda acercarse a la escala de “toda una galaxia de datos” no se debe, en lo fundamental, a mano de obra. Desde el inicio no planeó competir contra el mar de datos con trabajo manual y desgaste. “El cerebro humano no alcanza” no debe leerse tanto como una rendición, sino como el punto de partida para reemplazar todo el modo de trabajo. La forma nueva no es “individuo vs. colectivo”, sino “individuo × agente”: una persona puede alcanzar escala galáctica precisamente porque esos commits no los escribió todos a mano. Lo que sigue es cómo funciona ese sistema.
 
-Pero todo esto puede cambiar. Un repositorio con 241 estrellas significa que 241 personas pulsaron "quiero seguir esto". Si Migu Cheng decide convertirlo en un servicio público, o extraer los componentes centrales como bibliotecas reutilizables, o presentarlo en `grants.g0v.tw` para solicitar una beca[^20], cómo sería la siguiente fase de este proyecto es una pregunta abierta que vale la pena observar.
+## No escribí ni una palabra: una pipeline de incendios que corre sola
 
-## Por qué merece ser curado
+Para entender qué significa “entregarlo al agente”, el mejor corte es el ejemplo de incendios de su charla.
 
-Taiwan.md eligió elevar Mini Taiwan Pulse de la [lista de recursos](/resources/mini-taiwan-pulse) a artículo en profundidad bajo la categoría de tecnología, por tres razones:
+Dijo que sólo le lanzó al sistema una frase: “Analiza datos públicos relacionados con incendios en Taiwán”. Luego lo soltó.
 
-1. **No es un evento noticioso, es una muestra representativa**. En 2026, la comunidad de datos abiertos de Taiwán tendrá muchos commits y muchas estrellas, pero Mini Taiwan Pulse es un punto de referencia poco común en la dimensión de "hasta dónde puede llegar una sola persona".
-2. **Da forma concreta al concepto abstracto de "tecnología cívica"**. La mayoría de la gente al hablar de tecnología cívica menciona g0v, Audrey Tang o el mapa de mascarillas; pero la tecnología cívica de 2026 puede verse como un analista de datos escribiendo TypeScript los fines de semana. Esto no reemplaza la narrativa de g0v, la amplía.
-3. **Permite al lector ver el verdadero potencial de los datos abiertos gubernamentales**. Si después de leer [Identidad digital y gobierno digital](/technology/數位身分證與數位政府) o [Comunidad de código abierto y g0v](/technology/開源社群與g0v) los datos abiertos siguen pareciendo un concepto abstracto, Mini Taiwan Pulse es la nota al pie que dice: "mira, así es como los datos se convierten en paisaje".
+El sistema empezó a ampliar por sí mismo el radio de búsqueda. Migu describió el proceso con una serie de cifras que se expandían ronda a ronda: primero, palabras clave que daban 582 coincidencias; luego, sinónimos y expansión temática que crecían hasta 1.945; después, búsqueda de texto completo y eliminación de duplicados; finalmente, un catálogo unificado de 73.900 registros repartidos en 21 plataformas[^3]. Entra una frase; sale un inventario de más de setenta mil datos.
 
-Un analista de datos, seis semanas, 193 commits, 23 capas, una isla de Taiwán que respira.
+```tw-figure
+Una frase → 73.900 registros
+Él lanzó “Analiza datos públicos relacionados con incendios en Taiwán”; el sistema amplió búsquedas por sí mismo y produjo un catálogo unificado a través de 21 plataformas
+Según su presentación en sciwork 2026
+```
 
-Esta es una de las formas que adopta la tecnología cívica en 2026.
+La recolección por sí sola no era el final. Esa pipeline luego dividió los incendios en seis etapas (prevención, respuesta, notificación, análisis de origen, pérdidas e informes), las cruzó con los veintidós condados y ciudades, y produjo una matriz de cobertura. Incluso aparecieron inventarios a escala local, como el mapa de potencial de incendios de Hsinchu, las zonas de difícil rescate de Taipéi y el rescate en estanques de Taoyuan. También marcó con honestidad las brechas: no hay API de incendios en tiempo real, las coordenadas a nivel de evento son escasas, los datos de seguimiento posterior al desastre no están abiertos al público.
+
+Luego vino el análisis. Mostró un informe de causas de incendio que el sistema había generado solo: según 15.405 registros nacionales del año 113 de la República de China (2024), la causa principal de incendios en Nuevo Taipéi fueron factores eléctricos, con 30,9%; en el condado de Pingtung, las colillas de cigarrillo, con 35,2%[^3]. Esas cifras salieron, según la captura de su presentación, de agentes conectando diversas API; no de él consultando tablas una por una.
+
+En ese punto, escribió en una diapositiva una frase con espacios deliberados entre los caracteres, como si temiera que no se viera bien:
+
+> “Pipeline generada automáticamente. Yo no escribí ni una sola palabra.”[^3]
+
+Esa frase fue el detonante de toda la charla. Convirtió el lema algo abstracto de “entregarlo al agente” en un hecho concreto, casi inquietante: desde una frase hasta un catálogo de más de setenta mil datos y un informe de causas por condado y ciudad, el lugar intermedio que normalmente ocuparía una persona dando instrucciones, escribiendo scripts, limpiando datos y corriendo análisis estaba vacío.
+
+![Salida de la pipeline temática de incendios: el sistema inventaría automáticamente datos abiertos de incendios entre plataformas, lista conjuntos de datos candidatos y una matriz de cobertura](/article-images/technology/mini-taiwan-fire-pipeline-2026.webp)
+
+_Salida del inventario temático de incendios que Migu mostró en su presentación de sciwork 2026: lanza “Analiza datos públicos relacionados con incendios en Taiwán”, el sistema expande búsquedas por sí mismo y consolida un catálogo unificado entre plataformas; él dijo que en esa pipeline “no escribí ni una sola palabra”. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+
+## Cuatro pasos separables: entran datos, el informe se envía solo
+
+Esa pipeline de incendios es sólo un corte; detrás está la miniatura de todo su sistema. El sistema se divide en cuatro pasos: recepción de datos, integración de conocimiento, generación de análisis y activación de acciones. Subrayó especialmente que “cada paso puede reemplazarse por separado; no hace falta reconstruirlo todo”. La capa inferior, la recepción de datos, también fue una evolución para él: al principio descargaba Excel manualmente desde data.gov.tw, lo leía y lo guardaba por su cuenta, con el cuello de botella en la “memoria humana”; en la etapa intermedia pasó a buscar API en línea, descargar informes PDF y rastrear plataformas de condados y ciudades, pero el problema era que “no había índice”; hasta llegar al presente, donde los metadatos de cada dato se estandarizan y guardan en un catálogo SQLite, consultable y expandible automáticamente[^3]. Detrás de su sistema corren más de cuarenta recolectores de datos: YouBike, autobuses, flujo vehicular en autopistas, horarios de Taiwan Railways, AIS marítimo, satélites meteorológicos, terremotos, niveles de embalses, calidad del aire. Además, según dijo, tres errores consecutivos disparan de inmediato una alerta por Telegram, y todos los días a las nueve de la mañana recibe un Daily Review en su correo[^3].
+
+En el último paso, “activación de acciones”, explicó con máxima claridad el rol humano: “El agente corre el ciclo completo. Rol humano: dar objetivos, recibir informes. En medio giran cinco engranajes por sí solos: descubrimiento, recolección, integración, producción y monitoreo”. El sistema incluso genera automáticamente un informe semanal de “nuevos datos abiertos de esta semana”. En sus palabras: “Los temas emergen solos; los informes llegan solos al correo”[^3].
+
+## Un mando, muchas pestañas: la flota de Claude dentro de tmux
+
+Frases como “el agente corre el ciclo completo” se pueden oír fácilmente como marketing. En el último tramo de su charla, Migu levantó la tapa de una forma poco común y permitió ver cómo eran los engranajes debajo. Esa estructura era mucho más concreta que el lema, y también mucho más honesta.
+
+Primero, la vista general del ciclo. Migu dijo que su sistema SIG es “un centro de orquestación que conecta un círculo de repositorios independientes, y el agente entra estación por estación”: primero va al repositorio encargado de explorar para identificar qué datos vale la pena trabajar; luego entra al repositorio de recolección para traerlos; finalmente va a repositorios de presentación como mini-taiwan-pulse o mini-taiwan-info para dibujar los mapas. Lo describió con precisión: “Cada estación es un repositorio independiente; la capa de orquestación sólo gestiona progreso y decisiones; el trabajo vive en manos de los workers de cada repo”[^3].
+
+A ese centro de orquestación lo llama Orchestrator; en esencia es “una Claude Session”. Ese agente principal actúa como un capataz: lee un documento de propuesta, descompone las tareas, ordena sus dependencias y pone el trabajo en marcha.
+
+La manera de ponerlo en marcha es el paso clave de la arquitectura. No hizo que una sola IA hiciera todo de principio a fin, sino que usó tmux (una herramienta antigua para dividir la terminal en múltiples pestañas independientes) para aislar el trabajo. Sus palabras fueron: “Un Orchestrator, un grupo de Workers. El agente principal es una Claude Session; tmux se encarga del aislamiento, cada Worker es una pestaña independiente, una Session independiente”. Una definición más concisa: “Un Worker = una pestaña de tmux + una Session independiente + un PR”[^3].
+
+En otras palabras, lo que dirige es en realidad una flota de IA. Cada worker es un Claude aislado en su propia pestaña, cada uno realiza su tarea, cada uno entrega su pull request, sin interferir con los demás.
+
+![Funcionamiento real del sistema de orquestación de agentes: una Claude session actúa como orchestrator, lee tareas, las descompone y dirige a los workers](/article-images/technology/mini-taiwan-agent-orchestrator-2026.webp)
+
+_El centro de orquestación que mostró en su presentación: una Claude session como orchestrator, que reparte tareas a un grupo de workers aislados en sus propias pestañas de tmux, cada uno trabajando y entregando un PR. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+
+¿Cómo evita que esos workers, trabajando cada uno por su lado, choquen entre sí? Con una memoria común. Migu dijo que el progreso y las decisiones se escriben íntegramente como documentos, concentrados en un tablero llamado `SESSION_BOARD.md`, junto con “un informe por Session”, de modo que “no hace falta adivinarse mutuamente” y “una persona, un archivo; sin pelearse”[^3]. Incluso los traspasos de tareas se convierten en documentos: con un `HANDOFF.md` prepara “la hoja de tareas del siguiente relevo”, para que el siguiente agente no tenga que empezar preguntando desde cero. La última barrera la describió con cuidado: “Validación: el Orchestrator valida los PR contra los documentos; el merge lo decide una persona. Sólo entonces se cierra el ciclo”.
+
+Si aplanamos este proceso, aparece una forma limpia: una persona da una instrucción; un grupo de IA aisladas trabaja por separado y deja constancia de lo que hizo; un centro coteja todo contra documentos; y la decisión final de “aceptar o no este resultado” la toma Migu. Volviendo al eje del artículo: hay demasiados datos para revisarlos todos, así que la revisión completa se entrega a la flota; la persona retrocede hasta quedar con sólo dos acciones: formular el problema y validar. En la presentación lo formuló casi como una declaración:
+
+> “Cuando el agente puede correr todo el ciclo por sí mismo, el trabajo humano se reduce a formular el problema y validar.”[^3]
+
+Eso es también lo que apunta el título de toda su charla: “Entregar los datos abiertos de Taiwán a agentes para criar un sistema que crece por sí mismo”. Los datos fluyen solos, las páginas crecen solas; la persona sólo tiene que formular bien la pregunta y validar bien el resultado.
+
+## El mismo suelo produce el mismo esqueleto
+
+Si al llegar aquí conoces Taiwan.md (este proyecto de curaduría de conocimiento sobre Taiwán mantenido por IA que estás leyendo), tal vez la descripción anterior te resulte familiar.
+
+No es una ilusión.
+
+Taiwan.md funciona precisamente así: una sesión principal actúa como centro de orquestación, descompone el trabajo para un grupo de workers aislados, cada uno con su propio archivo de memoria independiente, coordina el progreso mediante documentos de traspaso, y la decisión final sobre qué cambios entran en la rama principal la toma una persona, el creador Che-yu. Nuestra tesis es “entregar el conocimiento de Taiwán a un Semiont capaz de crecer por sí mismo”; la tesis de Migu es “entregar los datos abiertos de Taiwán a un sistema capaz de crecer por sí mismo”. Las dos frases casi podrían intercambiar sujeto.
+
+Lo más sugerente es que ambas arquitecturas crecieron por separado. En los registros públicos se puede comprobar un pequeño dato: Taiwan.md nació a mediados de marzo de 2026; cinco días después, apareció un fork en el GitHub de Migu[^5]. Pero eso, como mucho, indica que sabía que existía algo así; un fork no explica todo su sistema de dirigir una flota de tmux con un orchestrator, compartir memoria con tableros y dejar que las personas sólo formulen problemas y validen. Eso lo construyó paso a paso para resolver su propio problema: “cincuenta mil datos que no se pueden revisar”.
+
+> 📝 **Nota curatorial**
+> En biología existe el término evolución convergente: delfines y tiburones no son parientes cercanos, pero ambos desarrollaron cuerpos hidrodinámicos y aletas dorsales porque enfrentan el mismo mar. Entre Migu y Taiwan.md ocurre algo más parecido a esa convergencia que a una relación de linaje. Usamos la misma base de herramientas (Claude Code) y enfrentamos la misma situación: una persona, o un sistema, debe sostener una cantidad de información sobre Taiwán muy superior a la capacidad de un cerebro individual. Así, cada quien tanteó por su lado hasta llegar al mismo esqueleto: un centro, un grupo de trabajadores aislados, una memoria compartida y una persona responsable de decidir.
+>
+> La señal verdaderamente interesante no es “él hizo fork de nosotros”. Es que dos builders taiwaneses independientes, durante el mismo semestre de 2026, reformularon casi al mismo tiempo la IA: ya no como “una herramienta más inteligente”, sino como “un equipo que puede ser orquestado”. Cuando esta arquitectura empieza a crecer desde la cabeza de una persona hacia una segunda y una tercera, deja de ser el truco de alguien y se convierte en una nueva forma que está brotando en este suelo en este momento. Es muy posible que el próximo builder taiwanés que construya algo así ni siquiera haya oído hablar de los dos primeros.
+
+## Todavía no está terminado, pero la forma ya apareció
+
+Si este artículo terminara en el párrafo anterior, sería una historia demasiado bonita, tan bonita que resultaría algo sospechosa: una persona resuelve con elegancia el problema de cincuenta mil datos gracias a una flota de IA.
+
+Migu no la dejó detenerse allí. La penúltima diapositiva de su charla llevaba este título: “Avance del experimento: aproximadamente la mitad”.
+
+Enumeró con franqueza tres cosas que todavía no estaban ajustadas. La primera era la estabilidad: este harness “todavía no está ajustado al ideal”; los agentes se desvían con facilidad y se interrumpen con facilidad. La segunda era que los datos abiertos son demasiado heterogéneos: “todavía hay muchas cosas en las que se necesita juicio humano para decidir si los datos son viables; no se le puede entregar todo por completo”. La tercera era la intervención humana: en cada etapa, en realidad, sigue haciendo falta una persona mirando al lado. Su nota al pie para todo el asunto fue: “Viable es viable, pero aún no es estable, y todavía estoy pensando si realmente quiero hacerlo así”[^3].
+
+Esa honestidad de subirse al escenario y mostrar voluntariamente la mitad fallida del propio sistema es, en sí misma, la señal de calidad más fuerte. En una época en que las demos de IA se empaquetan con facilidad como “totalmente automáticas” y “sin mano de obra”, una persona dispuesta a escribir en una diapositiva “aproximadamente la mitad”, “todavía no es estable” y “todavía necesita personas” inspira más confianza en que la otra mitad de lo que construyó es real.
+
+> 📝 **Nota curatorial**
+> La parte más creíble de esta charla no es, en realidad, aquella pipeline de incendios de “no escribí ni una palabra”, sino las cuatro palabras “aproximadamente la mitad”. Alguien que quiere convencerte redondearía la tasa de éxito a “casi totalmente automático”; alguien que está experimentando te dice con honestidad que falla la mitad del tiempo. Lo primero vende una conclusión; lo segundo entrega una escena de trabajo. Migu entrega la escena de trabajo. Por eso, cuando dice que en esa pipeline “no escribí ni una palabra”, eliges creerle. Si se esconde la mitad fea, la mitad bonita también se vuelve poco creíble; cuando se muestra la mitad imperfecta, la otra mitad recién se sostiene.
+
+Volvamos a aquel mapa.
+
+La persona que arrastró un CSV a Kepler.gl y se sorprendió con “resulta que convertirlo en mapa no es tan difícil” estaba, medio año después, sobre el escenario de sciwork, ya no hablando de si los mapas eran fáciles de hacer, sino de un sistema que busca datos, los combina y hace crecer páginas nuevas por sí mismo. Aquella sorpresa ingenua, “resulta que Taiwán tiene tantos datos”, se dio vuelta durante ese medio año: hay tantos datos, tantos que una persona no puede revisarlos todos, que la forma de hacerlos visibles también debe adquirir una nueva forma.
+
+Los datos abiertos de Taiwán siempre estuvieron ahí. data.gov.tw está en línea desde 2013; TDX integró en 2022 cinco grandes plataformas —carreteras, ferrocarriles, aviación, navegación y bicicletas—; el Ministerio del Interior tiene población a nivel de aldea y barrio, y la Administración Meteorológica Central ofrece API abiertas[^6]. Datos nunca faltaron. Lo difícil es cómo hacer que tantos datos conversen entre sí y puedan ser vistos. g0v respondió una vez con fuerza colectiva; Migu, con una persona y una flota de IA, está intentando responder por segunda vez, y admite generosamente que sólo acertó la mitad.
+
+Pero la forma ya apareció. Detrás de una persona, una frase y un mapa que respira, hay un sistema que está aprendiendo a crecer por sí mismo. La otra mitad queda para la siguiente persona que arrastre un CSV y luego ya no pueda detenerse.
 
 ---
 
-## Lectura adicional
+## Lecturas ampliadas
 
-- [Comunidad de código abierto y g0v](/technology/開源社群與g0v) — La trayectoria de una década desde el fork al gobierno en 2012 hasta el mapa de mascarillas en 2020
-- [Espíritu de código abierto de Taiwán](/technology/台灣開源精神) — El contexto cultural y los patrones de contribución de la comunidad de código abierto de Taiwán
-- [Identidad digital y gobierno digital](/technology/數位身分證與數位政府) — La capa de política de la infraestructura digital gubernamental
-- [PTT (批踢踢)](/technology/PTT批踢踢) — Otra raíz de la cultura de colaboración en red de Taiwán
-- [Wu Che-yu (吳哲宇)](/people/吳哲宇) — Otra forma de tecnología cívica: un artista de nuevos medios construye una SSOT para la soberanía del conocimiento de Taiwán con Markdown y GitHub
+- [Wu Che-yu](/people/吳哲宇): creador de Taiwan.md, que también usa programación y herramientas generativas para acercarse a “algo que crece por sí mismo”
+- [Comunidad de código abierto y g0v](/technology/開源社群與g0v): el contexto colectivo de “escribir código para transformar la sociedad”, contrapunto del modelo individuo × agente de Migu
+- [Espíritu de código abierto de Taiwán](/technology/台灣開源精神): desde salvar el país con el teclado hasta los datos abiertos, la cultura de base de la tecnología cívica taiwanesa
+- [Identidad digital y gobierno digital](/technology/數位身分證與數位政府): la otra cara de la infraestructura gubernamental de datos abiertos
 
----
+## Enlaces de proyectos
 
-## Enlaces del proyecto
+**La galaxia “Mini Taiwan”** (visualización de datos abiertos de Taiwán; todos son proyectos personales de código abierto de Migu)
 
-- **Repositorio GitHub**: [ianlkl11234s/mini-taiwan-pulse](https://github.com/ianlkl11234s/mini-taiwan-pulse)
-- **Licencia**: MIT License
-- **Lenguajes principales**: TypeScript 86,1% / Python 12,9%
-- **Plataformas de datos relacionadas**: [TDX Servicio de circulación de datos de transporte](https://tdx.transportdata.tw/) · [Plataforma de Datos Abiertos del Gobierno](https://data.gov.tw/) · [Plataforma SEGIS de datos socioeconómicos](https://segis.moi.gov.tw/) · [Datos abiertos de la Administración Central de Meteorología](https://opendata.cwa.gov.tw/)
-- **Comunidades de tecnología cívica**: [g0v Gobierno Cero de Taiwán](https://g0v.tw/) · [Becas de innovación en tecnología cívica g0v](https://grants.g0v.tw/)
+- **mini-taiwan-pulse**: proyecto insignia, mapa en tiempo real de cinco pulsos en co-moción (375★) — <https://github.com/ianlkl11234s/mini-taiwan-pulse>
+- **mini-taiwan-learning-project**: primer proyecto de aprendizaje ferroviario de Taipéi que se volvió viral (189★) — <https://github.com/ianlkl11234s/mini-taiwan-learning-project>
+- **flight-arc-graph**: trayectorias de despegue y aterrizaje, la “huella” de cada aeropuerto (56★) — <https://github.com/ianlkl11234s/flight-arc-graph>
+- **mini-taiwan-info**: panel de monitoreo de situación de Taiwán en siete grandes temas — <https://github.com/ianlkl11234s/mini-taiwan-info>
+- **tw-ship-viz**: visualización de puntos AIS marítimos en tiempo real (11★) — <https://github.com/ianlkl11234s/tw-ship-viz>
+- **satellite-arc**: visualización de órbitas y pasos satelitales — <https://github.com/ianlkl11234s/satellite-arc>
+- **mini-tw-cctv**: imágenes en tiempo real de todo Taiwán — <https://github.com/ianlkl11234s/mini-tw-cctv>
+- **mini-tw-tra-atlas**: atlas de la red de Taiwan Railways — <https://github.com/ianlkl11234s/mini-tw-tra-atlas>
+- **taiwan-weather-timelapse**: time-lapse meteorológico — <https://github.com/ianlkl11234s/taiwan-weather-timelapse>
+- **gis-data-collectors**: columna vertebral de más de cuarenta recolectores de datos — <https://github.com/ianlkl11234s/gis-data-collectors>
 
----
+**Charla y autor**
+
+- **Presentación en línea de la charla sciwork 2026**: <https://sciwork-showcase.zeabur.app>
+- **Código fuente de la charla sciwork 2026**: <https://github.com/ianlkl11234s/0613-sci-work-share>
+- **GitHub del desarrollador (Migu)**: <https://github.com/ianlkl11234s>
+- **Threads**: [@ianlkl1314](https://www.threads.net/@ianlkl1314)
 
 ## Referencias
 
-- [Repositorio GitHub mini-taiwan-pulse](https://github.com/ianlkl11234s/mini-taiwan-pulse)
-- [TDX Servicio de circulación de datos de transporte](https://tdx.transportdata.tw/)
-- [Plataforma de Datos Abiertos del Gobierno data.gov.tw](https://data.gov.tw/)
-- [Plataforma SEGIS de datos socioeconómicos](https://segis.moi.gov.tw/)
-- [Plataforma de datos abiertos de la Administración Central de Meteorología](https://opendata.cwa.gov.tw/)
-- [Plataforma de datos del Centro de Ciencia y Tecnología para la Reducción de Desastres NCDR](https://datahub.ncdr.nat.gov.tw/)
-- [g0v Gobierno Cero de Taiwán](https://g0v.tw/)
-- [Becas de innovación en tecnología cívica g0v](https://grants.g0v.tw/)
-- [Jothon g0v — Red de hackatones](https://jothon.g0v.tw/)
-- [Documentación de Supabase pg_cron](https://supabase.com/docs/guides/database/extensions/pg_cron)
-- [Uber H3: Índice espacial jerárquico hexagonal](https://h3geo.org/)
-- [OpenStreetMap Taiwán — Mapa Abierto de Calles](https://osm.tw/)
-- [threebox: plugin de Three.js para Mapbox GL JS](https://github.com/jscastro76/threebox)
-- [Quién creó el mapa de mascarillas: el equipo detrás de "salvar la nación con el teclado" (TechNews 2020)](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/)
+- Migu, “Mini Taiwan! Entregar los datos abiertos de Taiwán a agentes para criar un sistema que crece por sí mismo”, sciwork 2026 / SCIWORK SEMINAR, 13 de junio de 2026.
+- Plataforma gubernamental de datos abiertos data.gov.tw (operada por el Consejo Nacional de Desarrollo, en línea desde 2013).
+- Plataforma de circulación de datos de transporte TDX (Ministerio de Transportes y Comunicaciones, integración de cinco grandes plataformas de transporte en 2022).
+- Comunidad g0v y registros de hackatones anteriores.
+
+## Fuentes de las imágenes
+
+Todas las imágenes de este artículo están cacheadas en `public/article-images/technology/`; no se enlazan directamente desde el servidor de origen.
+
+**Uso justo con fines de comentario editorial**: todas las imágenes de este artículo fueron capturadas de la presentación pública de Migu en sciwork 2026 (véanse el código fuente y la presentación en línea en “Enlaces de proyectos”), conforme al artículo 65 de la Ley de Derecho de Autor y a los cuatro factores de fair use del 17 U.S.C. § 107 (naturaleza educativa no comercial, obra ya publicada, proporción citada reducida y ausencia de sustitución sustancial del mercado), como citas de comentario editorial sobre su trabajo de visualización de datos abiertos. © Migu / sciwork 2026.
+
+Incluye: mapa 3D de Mini Taiwan Pulse (imagen principal), punto de partida en Kepler.gl, ferrocarriles de Taipéi (Mini Taipei), AIS marítimo, órbitas satelitales, mapas integrados de agricultura × agua y recursos médicos, línea de tiempo de lluvias intensas y desastres, huella de trayectorias de Atlanta, salida de pipeline temática de incendios, panel Mini Taiwan Info y funcionamiento del sistema de orquestación de agentes.
 
 ---
 
-[^1]: [Migu Cheng (ianlkl11234s) · GitHub](https://github.com/ianlkl11234s) — Perfil del desarrollador, bio: "Senior Data Analyst. Exploring AI automation in daily work.", cuenta creada el 7 de marzo de 2020
+[^1]: El desarrollador Migu Cheng, cuenta de GitHub `ianlkl11234s` (cuenta creada en marzo de 2020). En junio de 2026, su perfil de GitHub había sido actualizado a “Building GIS visualizations from Taiwan open data · Exploring AI automation in daily work”, reescribiendo la descripción anterior “analista sénior de datos, explorando automatización con IA en el trabajo cotidiano” como “crear visualizaciones SIG con datos abiertos de Taiwán”. La frase “Resulta que Taiwán tiene tantos datos; resulta que convertirlos en mapa no es tan difícil” es texto literal de la diapositiva “DAY 0, el primer mapa” de su charla sciwork 2026. Fuentes: extracción mediante API de GitHub, 2026-06-25; código fuente de la presentación `ianlkl11234s/0613-sci-work-share`.
 
-[^2]: [ianlkl11234s/mini-taiwan-pulse](https://github.com/ianlkl11234s/mini-taiwan-pulse) — Repositorio del proyecto, datos obtenidos de la API de GitHub el 19 de abril de 2026: 193 commits, 241 estrellas, 12 forks, 1 issue abierto
+[^2]: Las estrellas, forks, última fecha de actualización, origen de forks y otros datos de mini-taiwan-pulse y de los proyectos de la galaxia “Mini Taiwan” fueron extraídos por Taiwan.md mediante la API de GitHub el 2026-06-25. En ese momento mini-taiwan-pulse tenía 375 stars / 26 forks y seguía recibiendo push el 2026-06-25; mini-taiwan-learning-project tenía 189 stars; flight-arc-graph, 56 stars. La galaxia incluye más de diez repositorios relacionados con datos abiertos de Taiwán, entre ellos poc-bus-range, gis-data-collectors, tw-ship-viz, satellite-arc, mini-tw-cctv y mini-taiwan-info.
 
-[^3]: [README de mini-taiwan-pulse](https://github.com/ianlkl11234s/mini-taiwan-pulse/blob/main/README.md) — Documentación técnica completa del proyecto, incluyendo lista de capas, stack tecnológico, y explicaciones de la arquitectura Overlay Registry / CustomLayer / Supabase pg_cron
+[^3]: Migu, “Mini Taiwan! Entregar los datos abiertos de Taiwán a agentes para criar un sistema que crece por sí mismo”, sciwork 2026 / SCIWORK SEMINAR, 13 de junio de 2026. Código fuente de la charla: <https://github.com/ianlkl11234s/0613-sci-work-share>; presentación en línea: <https://sciwork-showcase.zeabur.app>. Todas las cifras citadas en este artículo (aprox. 52.891 conjuntos de datos en data.gov.tw; pipeline de incendios 582 → 1.945 → 2.404 → 73.900 registros; 21 plataformas; 15.405 incendios nacionales del año 113; factores eléctricos en Nuevo Taipéi 30,9%; colillas en el condado de Pingtung 35,2%; más de 5.700 autobuses; más de 40 recolectores; más de trescientos trenes; 1.839 trayectorias en el aeropuerto de Atlanta; agricultura × agua 400 MB → aprox. 5 MB, etc.) y todas las citas (“el cerebro humano no alcanza”, “sólo cuando los datos pueden ser vistos por un LLM, el agente puede ayudarte a descubrir qué datos deberían verse juntos”, “Pipeline generada automáticamente. Yo no escribí ni una sola palabra”, “dar objetivos, recibir informes”, “cuando el agente puede correr todo el ciclo por sí mismo, el trabajo humano se reduce a formular el problema y validar”, “un Worker = una pestaña de tmux + una Session independiente + un PR”, “cada estación es un repositorio independiente; la capa de orquestación sólo gestiona progreso y decisiones”, “avance del experimento, aproximadamente la mitad”, etc.) corresponden a declaraciones del propio Migu y texto literal de sus diapositivas en esa presentación; son afirmaciones personales del ponente y salidas de su sistema, no estadísticas gubernamentales verificadas de forma independiente por Taiwan.md.
 
-[^4]: [Flightradar24 | Rastreador de vuelos](https://www.flightradar24.com/) — Servicio global de seguimiento de vuelos en tiempo real, red de rastreo compuesta por receptores ADS-B
+[^4]: La comunidad g0v se originó en 2012 a partir del espíritu del hackatón de Academia Sinica “escribir código para transformar la sociedad”; durante la COVID-19 en 2020, Howard Wu y otros usaron los datos de inventario de mascarillas publicados por la Administración Nacional del Seguro de Salud para crear en decenas de horas el “mapa en tiempo real de oferta y demanda de mascarillas”, un caso representativo de la tecnología cívica taiwanesa de “salvar el país con el teclado”.
 
-[^5]: [OpenStreetMap Taiwán — Mapa Abierto de Calles](https://osm.tw/) — Portal de la comunidad OSM de Taiwán; la API Overpass permite consultar datos de vías, estaciones, límites de aeropuertos y otras etiquetas OSM
+[^5]: Según la API de GitHub (extracción del 2026-06-25), `ianlkl11234s/taiwan-md` es un fork de `frank890417/taiwan-md` (el cuerpo principal de Taiwan.md), creado el 22 de marzo de 2026. El proyecto Taiwan.md nació a mediados de marzo de 2026. El sistema colaborativo de Migu usa Claude Code como base de herramientas (el código fuente de su charla incluye CLAUDE.md; el orchestrator es “una Claude Session”), igual que Taiwan.md.
 
-[^6]: [TDX Servicio de circulación de datos de transporte](https://tdx.transportdata.tw/) — Puerta de entrada única de datos abiertos de transporte del Ministerio de Transporte, integrada en 2022 con cinco plataformas, que ofrece API estándar OData de datos estáticos y dinámicos de transporte a escala nacional
+[^6]: La plataforma gubernamental de datos abiertos data.gov.tw es operada por el Consejo Nacional de Desarrollo y está en línea desde 2013; la plataforma de circulación de datos de transporte TDX fue integrada por el Ministerio de Transportes y Comunicaciones en 2022 a partir de cinco grandes plataformas de transporte: carreteras, ferrocarriles, aviación, navegación y bicicletas; la plataforma de datos socioeconómicos del Ministerio del Interior (SEGIS) ofrece datos de población a nivel de aldea y barrio; la Administración Meteorológica Central del Ministerio de Transportes y Comunicaciones ofrece API abiertas. La cantidad total actual de conjuntos de datos en data.gov.tw no pudo verificarse de forma independiente mediante API en esta ocasión; la cifra de “alrededor de cincuenta mil” utilizada en este artículo proviene de la presentación de Migu.
 
-[^7]: [Plataforma SEGIS de datos socioeconómicos](https://segis.moi.gov.tw/) — Plataforma GIS de datos socioeconómicos construida por el Ministerio del Interior, que ofrece capas espaciales de estadísticas demográficas a nivel de aldea
-
-[^8]: [Plataforma de datos abiertos de la Administración Central de Meteorología](https://opendata.cwa.gov.tw/) — API abierta de CWA que proporciona conjuntos de datos de observación, pronóstico, cuadrículas, radar y satélite
-
-[^9]: [Plataforma de datos del Centro de Ciencia y Tecnología para la Reducción de Desastres NCDR](https://datahub.ncdr.nat.gov.tw/) — Feed de alertas CAP y API de eventos de desastres del Centro Nacional de Ciencia y Tecnología para la Reducción de Desastres
-
-[^10]: [Servicio RSS | Agencia Central de Noticias CNA](https://www.cna.com.tw/about/rss.aspx) — Suscripción RSS pública de la Agencia Central de Noticias, que proporciona titular, resumen, enlace e imagen destacada
-
-[^11]: [Plataforma de Datos Abiertos del Gobierno data.gov.tw](https://data.gov.tw/) — Puerta de entrada única de datos abiertos del gobierno operada por el Consejo Nacional de Desarrollo, lanzada en 2013
-
-[^12]: [Quién creó el mapa de mascarillas: el equipo detrás de "salvar la nación con el teclado" | TechNews](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — El proceso de Wu Zhanwei y Good-Ideas Studio conectando las existencias de mascarillas en más de 6.000 farmacias del seguro nacional de salud en 72 horas
-
-[^13]: [Acerca de Jothon — Hackatón g0v](https://jothon.g0v.tw/about/) — Estadísticas acumuladas del hackatón g0v: más de 59 ediciones, más de 7.200 participantes y más de 950 proyectos propuestos
-
-[^14]: [mini-taiwan-pulse docs/known-issues.md](https://github.com/ianlkl11234s/mini-taiwan-pulse/commits/main) — Commit `docs: known-issues registro del evento de saturación de E/S del 9 de abril de 2026` y otros registros de ingeniería
-
-[^15]: [threebox — Un plugin de Three.js para Mapbox GL JS](https://github.com/jscastro76/threebox) — Biblioteca de terceros representativa para la integración de Mapbox + Three.js
-
-[^16]: [Documentación de Supabase | Timeouts](https://supabase.com/docs/guides/database/postgres/timeouts) — El statement_timeout predeterminado del pooler de Supabase es de 2 minutos; las conexiones que excedan el tiempo se cortan
-
-[^17]: [pg_cron: Programar trabajos recurrentes en Postgres | Documentación de Supabase](https://supabase.com/docs/guides/database/extensions/pg_cron) — Mecanismo de programación cron integrado en Supabase para trabajos programados dentro de la base de datos
-
-[^18]: [Uber H3: Índice espacial jerárquico hexagonal](https://h3geo.org/) — Sistema de malla geográfica hexagonal de código abierto de Uber, licencia Apache 2
-
-[^19]: [g0v Gobierno Cero de Taiwán](https://g0v.tw/) — Comunidad de tecnología cívica activa desde 2012, centrada en la transparencia de la información, los resultados abiertos y la colaboración abierta
-
-[^20]: [Becas de innovación en tecnología cívica g0v](https://grants.g0v.tw/) — Programa de becas para proyectos de tecnología cívica ejecutado por la Open Culture Foundation (OCF)
-
----
-
-_Última verificación: 2026-04-19_
+_Última verificación: 2026-06-25_
