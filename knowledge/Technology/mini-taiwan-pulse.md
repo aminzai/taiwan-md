@@ -1,6 +1,6 @@
 ---
-title: 'Mini Taiwan Pulse：一個資料分析師如何把台灣的交通脈動畫成會呼吸的 3D 光軌'
-description: '2026 年 2 月 24 日，一個叫 Migu Cheng 的資料分析師開了 mini-taiwan-pulse 這個 repo，六週後 193 個 commits、241 顆 star：他一個人把 FlightRadar24、TDX、SEGIS、CWA 的開放資料串起來，用 Three.js 把台灣畫成會呼吸的 3D 光軌。台灣的開放資料基礎建設是亞洲前段班，卻很少人看得見那片資料海。公民科技從 g0v 集體黑客松延伸到個人週末專案，視覺化本身就是一種參與。'
+title: 'Mini Taiwan Pulse：台灣的開放資料多到一個人掃不完，他乾脆把資料交給會自己長大的系統'
+description: '2026 年初，資料分析師 Migu 把一份 CSV 拖進 Kepler.gl，做出第一張台灣地圖，從此停不下來——半年內長出十幾個開放資料視覺化專案，旗艦 mini-taiwan-pulse 把飛機、船、列車、公車、垃圾車五脈疊成一張會呼吸的地圖。但他在 sciwork 2026 的簡報攤開一個數字：光 data.gov.tw 就有約五萬筆資料集，一個人腦掃不完。於是他不再自己掃，把資料交給一群 AI Agent，自己只留下出題與驗收。'
 date: 2026-04-19
 category: 'Technology'
 tags:
@@ -12,239 +12,252 @@ tags:
     '開源專案',
     'TDX',
     'Three.js',
+    '人工智慧',
+    'AI Agent',
+    'GIS',
   ]
 subcategory: '公民科技'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-04-19
+lastVerified: 2026-06-25
 lastHumanReview: true
-readingTime: 12
+readingTime: 18
+image: '/article-images/technology/mini-taiwan-pulse-map-2026.webp'
+imageCredit: 'Migu / sciwork 2026'
+imageLicense: 'Fair use editorial commentary'
+imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
 ---
 
-# Mini Taiwan Pulse：一個資料分析師如何把台灣的交通脈動畫成會呼吸的 3D 光軌
+# Mini Taiwan Pulse：台灣的開放資料多到一個人掃不完，他乾脆把資料交給會自己長大的系統
 
-> **30 秒概覽：** 2026 年 2 月 24 日，一個 GitHub 帳號叫 `ianlkl11234s`、bio 寫著「Senior Data Analyst, Exploring AI automation in daily work」的開發者 Migu Cheng[^1]，開了一個名叫 mini-taiwan-pulse 的 repo。六週後，這個 repo 有 193 個 commits、241 顆 star[^2]，把 FlightRadar24 航班、AIS 船舶、TDX 鐵道時刻、SEGIS 村里人口、CWA 氣象格點這些散落在不同政府平台的開放資料，用 Three.js 的光球、光軌、3D 光柱串成 23 個可獨立切換的圖層。它不是政府專案、不是補助金產物、也不是黑客松週末的原型，是一個人的業餘時間把台灣的資料海變成可以看的風景。
+2026 年初的某一天，一個叫 Migu 的資料分析師，把一份 CSV 檔轉成 GeoJSON，拖進瀏覽器裡一個叫 Kepler.gl 的工具。沒寫半行程式，螢幕上就跳出了第一張台灣地圖。
 
-## 一個人的 repo，一座島的脈搏
+他大學念的是都市計畫，那時碰過一點 GIS（地理資訊系統，簡單說就是讓資料長在地圖上的工具），出社會以後走資料分析這條路，地圖這件事已經很久沒再碰了。那天把 CSV 拖進 Kepler.gl、看著台灣在螢幕上長出來的瞬間，他心裡冒出來的，是一句很素樸的驚奇：
 
-2026 年 2 月 24 日的 GitHub commit history 上，`ianlkl11234s/mini-taiwan-pulse` 的第一個 commit 進來了。README 的開頭寫著：
+> 「原來台灣有這麼多資料，原來轉成地圖並不難。」[^1]
 
-> 用開放資料，感受台灣的脈動。天空中的航班劃出弧線、海面上的船舶穿梭往返、軌道上的列車準時奔馳——這座島嶼每一刻都在呼吸。[^3]
+這句話聽起來沒什麼。它後來變成一整套東西的種子。
 
-到 4 月 9 日最後一次 push 為止，這個 repo 已經累積 193 個 commits、241 顆 star、12 個 fork[^2]。作者 Migu Cheng 在 profile 上只留了一行：「Senior Data Analyst. Exploring AI automation in daily work.」沒有公司、沒有部落格、沒有 Twitter[^1]。
+> **30 秒概覽：** Migu（GitHub `ianlkl11234s`）從 2025 年底開始，用台灣的開放資料做了十幾個視覺化專案，最紅的 mini-taiwan-pulse 在 GitHub 上累積 375 顆星，把天空、海洋、大地、街道、清運五種即時資料疊成一張會動的地圖[^2]。但他在 2026 年 6 月一場給 sciwork 社群的演講裡，把問題講白了：台灣的開放資料光中央就有約五萬筆，散在二十幾個縣市平台，「人腦掃不完」。他的答案不是請更多人來幫忙掃，而是把資料整個交給一套由 AI Agent 編排、會自己長大的系統，人只負責出題跟驗收[^3]。
 
-這個 repo 做的事並不簡單。它把下列資料源，全部接進同一張 3D 地圖：
+這篇文章想講的，是一個人怎麼從拖一份 CSV 的天真，走到放手讓系統替他長大。
 
-| 資料層             | 來源                                      | 規模                               |
-| ------------------ | ----------------------------------------- | ---------------------------------- |
-| 航班即時位置       | FlightRadar24 API[^4]                     | 全台 14 座機場、1,500+ 航班        |
-| 船舶 AIS 定位      | 國際 AIS 自動識別系統                     | 台灣周邊海域，30 分鐘遞延拖尾      |
-| 鐵道時刻           | 公開時刻表 + OSM Overpass[^5]             | 台鐵/高鐵/四個都會捷運，333 列火車 |
-| 公共運輸站點       | TDX 運輸資料流通服務[^6]                  | 公車、客運、YouBike、自行車道      |
-| 村里人口統計       | 內政部 SEGIS[^7]                          | 7,748 村里、H3 六角格 res7+res8    |
-| 氣象格點           | 中央氣象署開放資料[^8]                    | 0.03° 解析度、120×67 格網          |
-| 災害示警           | NCDR CAP feed[^9]                         | 颱風、地震、淹水                   |
-| 新聞事件地標       | 中央通訊社 RSS + Gemini API 地理編碼[^10] | 每日主要/次要新聞                  |
-| 機場/港口/車站邊界 | OSM Overpass API[^5]                      | 14 機場、535 站                    |
+## 一個人的 GitHub，怎麼長成一片星系
 
-然後用 Three.js r172 在 Mapbox GL JS v3 的底圖上疊六個獨立的 `CustomLayer`：飛機是一顆發光的球體，拖著彗尾狀的漸層光軌；船舶用 `InstancedMesh` 做批次渲染，30 分鐘拖尾是 per-vertex color gradient；台鐵 265 條 OD 軌道、333 列火車依車種分 6 種顏色；36 座燈塔各有一束 3D 旋轉的錐形光束[^3]。
+如果只看 mini-taiwan-pulse 這一個專案，很容易把 Migu 想成一個業餘玩票的工程師：週末興起，做了個 demo，剛好爆紅。
 
-這些光軌用 additive blending 疊加，多條航線重疊的區域自然變亮，資料的繁忙程度不需要統計圖表，你看光就看得出來。
+這個想像有兩個地方不對。
 
-## 台灣的資料海，為什麼很少人看得見
+第一，他做的遠不只一個。打開他的 GitHub，2025 年 12 月以後密密麻麻全是台灣開放資料的視覺化：最早是一個試水溫的公車範圍 PoC，接著 12 月底一個叫 `mini-taiwan-learning-project` 的學習專案先紅了起來，到今天 189 顆星；2 月做了船舶 AIS 的即時點位、做了把每一段航班起降畫成弧線的 `flight-arc-graph`（56 顆星）；2 月底才輪到 mini-taiwan-pulse，然後台鐵 atlas、衛星軌道、即時影像 CCTV、一個收斂全部資料的情勢儀表板 `mini-taiwan-info`⋯⋯ 一路做到 6 月[^2]。十幾個 repo 連成一片，他自己給它取了個名字叫「Mini Taiwan」星系。
 
-台灣的開放資料基礎建設在亞洲前段班。政府資料開放平臺（data.gov.tw）從 2013 年上線，累積十萬筆以上資料集[^11]；交通部的 TDX 運輸資料流通服務在 2022 年整合公路、鐵道、航空、航運、自行車五大平臺，提供全國尺度的公共運輸動靜態資料 API[^6]；內政部的 SEGIS 提供到村里級別的人口統計空間圖層[^7]；中央氣象署、國家災害防救科技中心、經濟部能源局、臺灣海域船舶即時資訊系統都各自開了 API[^8][^9]。
+![Mini Taiwan Info 情勢儀表板，把人口、軌道運輸、航運、水資源、消防、醫療等多主題開放資料，收斂成一頁一主題的監測面板](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
 
-資料是有的。問題是**這些資料分散在不同平台、用不同的 API 格式、不同的空間粒度、不同的時間頻率**。一個想看「台灣現在怎麼樣」的人，得自己寫爬蟲、處理 OData、處理 CAP XML、處理 GeoJSON、處理 H3 hexagon，然後才能開始「視覺化」這件事。
+_星系裡的另一個成員 Mini Taiwan Info：他把散落的開放資料收斂成一個情勢監測儀表板，人口、軌道運輸、航運、水資源、消防、醫療，一頁一主題。圖：Migu / sciwork 2026（fair use 編輯評論用途）。_
 
-> **📝 策展人筆記**
-> 開放資料運動有兩個容易被混淆的指標：**資料有多少**（政府開了多少 API），和**資料被看見多少**（有多少視覺化、應用、故事）。台灣在第一個指標上是模範生，在第二個指標上卻長期靠 g0v 社群和少數商業新聞媒體的零星努力在撐。這個斷層是 Mini Taiwan Pulse 最有意義的位置：它填補的不是資料，是可見性。
+把這些專案的星數排出來，紅的明顯不只一個。
 
-2012 年，g0v 零時政府在一場中研院的黑客松起家，口號是「寫程式改造社會」。從第一個把政府總預算視覺化的黑客松開始，到 2020 年吳展瑋在 72 小時內串起 6,000 家健保藥局的即時口罩地圖、串起台灣「鍵盤救國」的國際聲名[^12]，g0v 累積了 59+ 次黑客松、7,200+ 參加人次、950+ 提案專案[^13]。
+```tw-bars
+Migu 的 GitHub：紅的不只一個 repo（GitHub 星數）
+*mini-taiwan-pulse | 375 | 旗艦
+mini-taiwan-learning-project | 189 | 比 pulse 更早爆紅
+flight-arc-graph | 56 | 航跡
+tw-ship-viz | 11 | 船舶
+mini-tw-cctv | 6 | 即時影像
+satellite-arc | 6 | 衛星
+來源：GitHub API，2026-06-25
+```
 
-但 g0v 的敘事是集體的，它是一個社群，一個週六早上大家拿著筆電擠進場地的文化。Mini Taiwan Pulse 展示的是公民科技的另一種樣態：**一個人的週末，一個人的 git log**。Migu Cheng 在 README 最下方放了自己的 GitHub link，沒有團隊介紹、沒有 Discord、沒有贊助商。193 個 commits 裡有 refactor、有 perf fix、有 2026-04-09 IO 爆表的事件紀錄[^14]，這個 repo 的 commit history 讀起來像一本工程日記。
+第二個不對的地方，藏在「一個人」這三個字裡，我們等一下會回來拆。先看星系怎麼長出來的。
 
-## 三層脈動：天空、海洋、大地
+```tw-timeline
+2025-12 | 第一個試水溫 | 公車範圍 PoC，最早的台灣開放資料嘗試
+2025-12 | learning-project 先紅 | 台北軌道視覺化，比旗艦更早爆紅（189★）
+2026-02 | 旗艦誕生 | mini-taiwan-pulse 開張，從靜態 JSON 進化成時空資料庫
+2026-06 | 攤開整套系統 | sciwork 2026 演講：把開放資料交給 Agent 養成的系統
+```
 
-Mini Taiwan Pulse 把移動的物件分成三層：
+## 會呼吸的地圖：五脈、孤島，與機場的指紋
 
-### 天空：航班光軌
+而旗艦本身，也在長大。最早的 mini-taiwan-pulse 是天空、海洋、大地三層；到了他演講的版本，已經是「五脈共動」：天空的飛機、海洋的船、大地的列車、街道的公車、還有清運的垃圾車，五種不同頻率的即時資料疊在同一張會呼吸的地圖上。他在簡報裡說，這是這個專案第一次「從靜態 JSON 進化成時空間資料庫」[^3]。光是街道那一層，他說就接了 TDX 上 5,700 多輛公車，每 30 秒更新一次點位。
 
-14 座台灣機場、同時間約 1,500 架航班。每架飛機是一顆多層發光的球體，還有紅色防撞閃爍燈的呼吸動畫。飛機身後的彗尾狀漸層光軌，暗色主題依高度著色（暖橘漸冷藍），亮色主題隨機配色[^3]。資料來自 FlightRadar24 的公開 API，這是一個用 ADS-B 接收器組成的全球航班追蹤網路[^4]，台灣周邊空域的涵蓋密度非常高。
+這片星系最早的火花，是他叫做「Mini Taipei」的台北軌道視覺化。他把捷運、台鐵、高鐵三套軌道系統疊成一張會動的地圖，車子照著班表在線上跑——他說那一刻才「體驗到動態的魅力」，畫面上同時有三百多班列車在動[^3]。一份靜態的時刻表，變成一座城市的呼吸。從那之後，他像上了癮一樣，把同一套「資料變動態」的做法套到越來越大的尺度上。
 
-### 海洋：船舶拖尾
+值得看的，慢慢從「即時的點在動」變成「把本來不相干的資料疊在一起，缺口自己浮出來」。他這片星系裡有幾個專案專門在做這件事。其中一個他叫它「農×水」，把農業、水利、防災三個部會各自的孤島疊成一張圖：農田、河川、溝渠、堤防、淹水潛勢同框。為了讓這張同框的圖在瀏覽器裡跑得動，他用了一種叫 PMTiles 的格式搭配 HTTP range request，把原本 400MB 的資料壓到瀏覽器只需要載入約 5MB[^3]。
 
-船舶用的是 AIS（Automatic Identification System）資料，這是國際海事組織強制大型商船裝設的即時位置廣播系統。Mini Taiwan Pulse 用青藍色的 InstancedMesh 光球標示船位，加上 30 分鐘的拖尾軌跡；系統會自動過濾 GPS 跳躍異常點和無效 MMSI，確保你看到的光點是真實的船[^3]。
+另一個專案把醫院、診所、藥局、AED、長照點位疊在人口密度上，再畫出等時圈，他說這樣「看見可及性，也看見醫療沙漠」，也就是哪些地方的人，距離最近的醫療資源遠到不合理。災害這條線他做得更細：把雷達回波、水庫水位、雨量、災害示警這些更新頻率各不相同的資料，在底層統一成同一個時間軸，使用者只要拖動那條時間軸，全部圖層就一起同步回放。一場大雨從哪裡開始、水庫怎麼漲、警報何時發出，在同一個畫面上連成一條因果線。
 
-### 大地：六大軌道
+還有他那個把每一段航班起降畫成弧線的 flight-arc。同一支 API 餵不同機場，每座機場會浮出一張不一樣的「指紋」：桃園、東京羽田、法蘭克福各有各的形狀。他特別舉了全世界最忙的亞特蘭大機場，五條平行跑道加上等待航線，疊起來的幾何「像賽車場」，他說那一張畫了 1,839 條航跡[^3]。從一份台北的 CSV 出發，他最後連衛星軌道、甚至整個太陽系都畫了，用的都是同一套心法：只要有資料，都可以無限延伸。
 
-這可能是整個專案最硬的部分。台鐵、高鐵、台北捷運、高雄捷運、高雄輕軌、台中捷運，六個軌道系統同步運行，每列火車是一顆依車種染色的光球，台鐵和高鐵還有 3 分鐘遞延的拖尾軌跡。
+![亞特蘭大機場一段時間內所有航班起降畫成的航跡圖，五條平行跑道加上等待航線疊出像賽車場的幾何形狀](/article-images/technology/mini-taiwan-flight-arc-atlanta-2026.webp)
 
-台鐵的處理特別複雜：OD（Origin-Destination）軌道匹配、golden track 推論、彰化三角線這種分歧路線，都需要專門的引擎處理，README 直接點名「台鐵專用引擎」[^3]。這不是簡單把時刻表畫在地圖上，是把時刻表的文字資料反推回列車真實在軌道上的位置。
+_他的 flight-arc 把亞特蘭大機場一段時間內的所有起降疊成一張圖：五條平行跑道加等待航線，畫出像賽車場的幾何。他說流量本身就是一種形狀。圖：Migu / sciwork 2026（fair use 編輯評論用途）。_
 
-> **📝 策展人筆記**
-> 台鐵的「三角線」（如彰化、台中、南港）是鐵道迷才會注意的細節：列車可以從多個方向進出，不是單純的 A→B 路線。大部分鐵道視覺化會把這種路段簡化掉，Mini Taiwan Pulse 專門寫了引擎處理。這是「策展深度」的訊號，作者不只串資料，也尊重資料原本的複雜度。
+> 📝 **策展人筆記**
+> 兩年前如果有人說「一個人做了台灣最完整的即時開放資料地圖」，下一句多半是「那他一定累得半死」。這個直覺把規模跟人力綁死了：做得越多，人越操。Migu 的星系之所以值得停下來看，正是因為它鬆開了這條綁定。一個人同時推進十幾個 repo、旗艦還持續長新功能，背後藏著一個更根本的轉變：到後期，這些 commit 越來越多不是他親手打的。那「一個人」是怎麼變出來的，才是這篇文章真正的題目。
 
-除了三層移動物件，專案還疊加了 23 個可切換的靜態與分析圖層：535 座車站的 3D 光柱（高度等於每日停靠次數的正規化值）、36 座燈塔的 3D 旋轉錐形光束、國道（紅）/ 省道（橘）/ 自行車道（綠）的 zoom 自適應路網、人流模擬的 H3 六角格熱力圖（日夜切換，Plasma / Viridis 色階）、9 項人口指標面板（數量/結構/負擔）、CWA 格點溫度的 3D 波浪曲面、國道壅塞的色彩編碼、NCDR 災害示警的 severity 色階、CNA 新聞事件的地理標記[^3]。
+## 五萬兩千八百九十一筆，人腦掃不完
 
-總計 10 個分類、23 個圖層、6 種 Mapbox 底圖樣式、日期導航 + 時間軸 30× 到 3600× 加速播放。所有這些都塞進一個人的 GitHub repo 裡。
+故事到這裡都還算順：一個有天分的人，越做越多，越做越好。轉折出現在他演講的中段，當他不再講「我做了什麼」，開始講「我撞到什麼牆」。
 
-## 技術策展：讓資料「即時」有多難
+他放了一張投影片，標題是「為什麼要 Agentic OSINT」。上面一個數字攤開來：data.gov.tw 約 52,891 筆資料集；再加上二十二個縣市的開放平台，含重疊大概還有六、七萬筆；這還沒算上民間、NGO、學術機構手上沒進政府目錄的資料。他下的結論很短：
 
-寫一個地圖視覺化網站不難，Mapbox 的 hello world 十五分鐘就能跑起來。難的是讓它**即時、流暢、能支撐全台七千多個村里的 56K hexagon cells**。
+> 「你的人腦掃不完。」[^3]
 
-Mini Taiwan Pulse 在架構上有三個值得看的決定：
+這是整個故事的轉軸。前半段那個拖一份 CSV 就驚呼「原來這麼多資料」的人，現在正面撞上了「這麼多資料」的另一面：光是 data.gov.tw 的五萬多筆，一個人就算每天讀一百筆，也要連讀超過五百天才看得完一遍，而這還只是中央那一份目錄。多到一個人窮盡一生也讀不完，更別說讓它們彼此說話。個人努力在這裡碰到天花板。
 
-### 1. Overlay Registry 模式
+而 Migu 真正想通的，是這句話接下來那一句。資料太多到掃不完，對他來說是一個換工具的訊號：
 
-所有 Mapbox GL 靜態圖層（機場、車站、港口、燈塔、道路、風場）都用**配置驅動**的 `overlayRegistry.ts` 統一管理：一個 config 陣列（`sourceUrl` + `paint` 函式），一個 `overlayManager.ts` 做 CRUD，一個 `useEffect` 控制所有 overlay 的可見性和主題切換。新增一個 overlay 只要改三個檔案[^3]。
+> 「資料能被 LLM 看見，Agent 才能幫你發現『哪些資料應該放在一起看』。」[^3]
 
-這是典型的「資料驅動 UI」架構，不特別炫，但對一個 23 圖層的系統來說，是能不能維護下去的關鍵。
+關鍵詞是「放在一起看」。一個人就算把五萬筆資料集的名稱全背起來，也很難憑記憶想到「火災潛勢圖」要配「搶救困難地區」、「醫院點位」要疊「人口密度」才看得出醫療沙漠。資料的價值不在單筆，在組合；而組合的可能性，是五萬筆的天文數字級排列。這正是人腦掃不完、機器卻擅長的地方。
 
-### 2. Three.js CustomLayer 嵌入
+> 📝 **策展人筆記**
+> 我們習慣的開放資料敘事，有一條清楚的分工線。2012 年中研院那場「寫程式改造社會」黑客松之後，g0v 把它示範得很漂亮：政府負責把資料打開，公民社群負責讓資料被看見。2020 年口罩地圖，吳展瑋他們用 72 小時把健保署的庫存資料變成全民查得到的地圖，是這條線最動人的一次[^4]。舊的說法會把 Migu 放進這條線的延長：g0v 是集體，他是個人，一個人版的口罩地圖。
+>
+> 但這個對比停在表面，而且把因果搞反了。Migu 一個人能逼近「一整座資料星系」的規模，靠的根本不是人力。他從一開始就沒打算用埋頭苦幹的方式跟資料海拚消耗。「人腦掃不完」這句話，與其讀成認輸，不如讀成他換掉整個工作模式的起點。真正的新樣態不是「個人 vs 集體」，是「個人 × Agent」：一個人之所以能做到星系的規模，正因為那些 commit 不全是他手打的。下面就是這套東西怎麼運作的。
 
-Mapbox GL 本身不擅長畫 3D 物件。Mini Taiwan Pulse 用 Mapbox 的 `CustomLayer` 介面，把 Three.js 的 scene 塞進同一個 WebGL context，六個獨立的 `CustomLayer` 分別管理航班、船舶、鐵道、燈塔、車站光柱、溫度 3D 波浪，共享相機矩陣，各自控制渲染開關[^3]。
+## 我沒寫一個字：一條自己跑完的火災 pipeline
 
-這是 Mapbox + Three.js 整合的標準做法（threebox、three-geo 等第三方庫都是這個路子[^15]）。Mini Taiwan Pulse 直接手寫 CustomLayer 而非依賴 threebox，代價是要自己處理投影矩陣和光源設定，好處是完全控制渲染流程。
+要看懂「交給 Agent」是什麼意思，最好的切片是他演講裡那個火災的例子。
 
-### 3. Supabase pg_cron 預聚合模式
+他說，他只丟給系統一句話：「分析台灣火災相關公開資料。」然後就放手。
 
-這是整個專案最工程師向的決定。Supabase 的 pooler 對 API 呼叫有 **2 分鐘的 statement_timeout 硬性限制**[^16]，意思是如果你的 SQL 查詢跑超過 2 分鐘，連線會被切斷。對於每天要撈船舶軌跡、航班軌跡、國道壅塞的系統來說，直接查原始 table 會撞上這道牆。
+系統開始自己擴張搜尋範圍。Migu 用一組逐輪膨脹的數字描述這個過程：先用關鍵字命中 582 筆，再靠同義詞和主題擴張長到 1,945 筆，接著用全文檢索補搜、去重，最後收斂成橫跨 21 個平台、73,900 筆的統一目錄[^3]。一句話進去，七萬多筆資料的盤點出來。
 
-Mini Taiwan Pulse 的解法是：**普通 table + per-day refresh function + pg_cron 定時刷新 + 薄 SELECT RPC**。每個高頻時序查詢都有對應的預聚合 table，用 Supabase 內建的 `pg_cron`[^17] 每 10-30 分鐘刷新一次，前端讀取時只是從預聚合表拉結果，穩定落在百毫秒級：
+```tw-figure
+一句話 → 73,900 筆
+他丟一句「分析台灣火災相關公開資料」，系統自己擴張搜尋、跨 21 個平台收斂出的統一目錄筆數
+他在 sciwork 2026 的簡報中說
+```
 
-| RPC                          | 之前     | 之後  |
-| ---------------------------- | -------- | ----- |
-| `get_ship_trails`            | timeout  | 123ms |
-| `get_flight_trails`          | timeout  | 126ms |
-| `get_freeway_congestion_day` | 60s 邊緣 | 302ms |
-| `get_disaster_alerts_day`    | 13.2s    | 110ms |
-| `get_temperature_frames`     | 551ms    | 107ms |
+光收集還不算完。這條 pipeline 接著自己把火災拆成六個階段（預防、應變、通報、起火分析、損失、報表），再用二十二個縣市去乘，跑出一張覆蓋矩陣，連新竹的火災潛勢圖、台北的搶救困難地區、桃園埤塘的救援這種地方層級的盤點都被翻了出來。它甚至誠實地標出哪裡有缺口：沒有即時火災的 API、事件級的座標很稀少、災後追蹤的資料不對外公開。
 
-這個表格直接寫在 README 裡[^3]，還附上盤點報告的連結。對熟悉 Postgres + realtime 架構的讀者來說，這幾行字比截圖更有說服力：它告訴你作者遇過真正的 production bottleneck，而且選的是正確的解法。
+然後是分析。他舉了一份系統自己跑出來的火災成因報告：根據 113 年全國 15,405 筆資料，新北市最大宗的起火原因是電氣因素，占 30.9%；屏東縣則是菸蒂，占 35.2%[^3]。這些數字是他簡報截圖裡 Agent 串接各家 API 後產出的結果，不是他逐筆查表算出來的。
 
-> **📝 策展人筆記**
-> Mini Taiwan Pulse 的技術選擇幾乎都是「正確的無聊解」：Mapbox + Three.js 的 CustomLayer、Uber 開源的 H3 六角格[^18]、感知均勻的色階（Plasma / Viridis / Inferno）、log1p + gamma 正規化處理重尾分布、Supabase pg_cron 預聚合。沒有自創的視覺化技法、沒有跟風的最新 framework，每個決定都查得到 prior art。這種「沒有驚喜」的穩定工程感，是獨立專案最稀缺的品質。
+講到這裡，他在投影片上打了一行字，字跟字之間還故意空了開來，像怕你沒看清楚：
 
-## 公民科技的定義，正在被重新拉伸
+> 「Pipeline 自動產出。我　沒　寫　一　個　字。」[^3]
 
-「公民科技」這個詞在台灣最常被聯想到的是 g0v，一個「以資訊透明、開放成果、開放協作為核心，透過群眾草根力量關心公共事務」的社群[^19]。這個定義的重點在**群眾**：黑客松、協作、共筆、PR reviews、獎助金評審。
+這句話是整場演講的引爆點。它把「交給 Agent」這個有點抽象的口號，變成一個具體得近乎不安的事實：從一句話，到七萬多筆資料的目錄，到一份分縣市的成因報告，中間那個通常該由人來下指令、寫腳本、清資料、跑分析的位置，是空的。
 
-但 Mini Taiwan Pulse 展示的是公民科技的另一個當代樣態：**一個人、一個週末迴圈、一份 MIT 授權**。
+![火災主題分析 pipeline 的產出畫面：系統自動盤點跨平台的火災相關開放資料，列出候選資料集與覆蓋矩陣](/article-images/technology/mini-taiwan-fire-pipeline-2026.webp)
 
-從 2012 年 g0v 第一次黑客松的總預算視覺化，到 2020 年吳展瑋的口罩地圖，到 2026 年 Migu Cheng 的 mini-taiwan-pulse。這條光譜的一端是集體協作的現場文化，另一端是個人 commits 的慢速積累。兩端之間，有各種程度的混合：小團隊的多年維護、學生專題、政府標案的外包開源、開放文化基金會（OCF）的 g0v 公民科技創新獎助金[^20]。
+_Migu 在 sciwork 2026 簡報展示的火災主題盤點產出：丟一句「分析台灣火災相關公開資料」，系統自己擴張搜尋、跨平台收斂成統一目錄，他說這條 pipeline「我沒寫一個字」。圖：Migu / sciwork 2026（fair use 編輯評論用途）。_
 
-這些專案共享同一個前提：**政府把資料開出來了，後面交給我們**。政府的角色是 TDX、data.gov.tw、SEGIS、CWA 這類資料基礎建設的建造者，而公民社群的角色是讓這些資料「被看見」，透過視覺化、透過 API wrapper、透過教學文章、透過應用服務、透過質詢問政 dashboard。
+## 拆得開的四步：資料進來，報告自己寄出去
 
-Mini Taiwan Pulse 在這條光譜上的位置很清楚：它不是服務型專案（沒有要解決特定問題）、不是工具型專案（沒有要讓別人重用某個 library），它是**示範型專案**。看見這個 repo 的人會想：「原來開放資料串起來可以長這樣」、「原來 TDX + Three.js + Supabase 可以做到這種程度」、「原來一個人可以做完這麼多事」。
+這條火災 pipeline 只是一個切片，背後是他整套系統的縮影。系統分四步：資料接收、知識整合、分析生成、行動觸發，他特別強調「每一步都可以單獨抽換，整套不需要重蓋」。最底層的資料接收，他自己也是一路演化過來的：最早是手動到 data.gov.tw 點 Excel 下載、自己讀自己存，瓶頸卡在「人腦記憶」；中期改成上網找 API、抓 PDF 報告、爬各縣市平台，問題是「沒有索引」；直到現在，每一筆資料的後設資料都標準化存進一個 SQLite 的目錄，可以被自動查詢、自動拓展[^3]。他的系統背後掛著四十多個資料收集器，從 YouBike、公車、國道車流，到台鐵班表、船舶 AIS、氣象衛星、地震、水庫水位、空氣品質，而且他說，連錯三次就立刻發 Telegram 告警，每天早上九點推一份 Daily Review 到他信箱[^3]。
 
-> **📝 策展人筆記**
-> 台灣開放資料生態系最稀缺的不是 API、也不是工程師，是**用好看、好理解的方式把資料展示給一般人看的示範**。Mini Taiwan Pulse 選了最高難度的題目（全國尺度 + 多資料源 + 即時更新 + 3D 視覺化），用一個獨立開發者的力量把它做到能分享出去。241 顆 star 的數字，重要性不在於絕對數字，而在於它證明了這條路徑可行。
+到了最後一步「行動觸發」，他把人的角色講得最清楚：「Agent 跑完整循環。人類角色：給目標、收報告。中間五個齒輪自己轉：發現、收集、整合、產出、監測。」系統甚至會自動產出一份「本週新增開放資料」的週報。用他的話說：「主題自己冒出來、報告自己送到信箱。」[^3]
 
-## 可以做得更多的事
+## 一個指揮，一群分頁：tmux 裡的 Claude 艦隊
 
-Mini Taiwan Pulse 目前是示範性作品，不是產品：
+「Agent 自己跑完整循環」這種話，很容易被當成行銷詞聽過去。Migu 演講最後一段難得地把蓋子掀開，讓人看見底下的齒輪長什麼樣，而那個結構，比口號具體得多，也誠實得多。
 
-- **沒有發布 release**：193 個 commits 但 0 個 release tag，部署是 Docker + Nginx 自架[^3]
-- **部分資料源需要自己申請 API key**：FlightRadar24 商業 API、CWA 開放資料平台 API key、TDX 會員認證（OIDC Client Credentials flow）都要讀者自行設定[^6]
-- **公開 demo 網址尚未揭露**：README 沒有放 live demo link，目前要看效果只能 clone 下來自己跑
-- **只有 1 個 open issue、0 個 PR**：社群協作還沒起來，這是示範性專案的典型階段
+先看這個循環的全景。Migu 說，他的 GIS 系統是「一個編排中樞，串起一圈獨立的 repo，Agent 依序進站」：先到負責探索的 repo 找出哪些資料值得做，再進負責收集的 repo 把資料抓進來，最後進 mini-taiwan-pulse 或 mini-taiwan-info 這些負責呈現的 repo 把圖畫出來。他形容得很精準：「每一站都是獨立 repo，編排層只管進度與決策，活都在各 repo 的 worker 手上。」[^3]
 
-但這些都是可以改變的事。一個 repo 有 241 顆 star，就表示有 241 個人按下了「我想追蹤」。如果 Migu Cheng 決定把它推成公共服務，或者把核心元件拆成可重用 library，或者上架到 `grants.g0v.tw` 申請獎助金[^20]，這個專案的下一階段會長什麼樣，是一個值得觀察的開放問題。
+這個編排中樞，他叫它 Orchestrator，本質是「一個 Claude Session」。這個主 Agent 做的事很像一個帶人的工頭：讀一份 proposal 文件、把任務拆開、排好彼此的依賴，然後開工。
 
-## 為什麼值得被策展
+開工的方式是他這套架構最關鍵的一步。他並沒有讓單一個 AI 從頭做到尾，而是用 tmux（一個讓終端機切出多個獨立分頁的老工具）把工作隔離開來。他的原話是：「一個 Orchestrator，一群 Worker。主 Agent 是一個 Claude Session；tmux 負責隔離，每個 Worker 都是獨立分頁、獨立 Session。」一句更精簡的定義是：「一個 Worker ＝ 一個 tmux 分頁 ＋ 獨立 Session ＋ 一個 PR。」[^3]
 
-Taiwan.md 選擇把 Mini Taiwan Pulse 從[資源清單](/resources/mini-taiwan-pulse)升級為科技分類下的深度文章，有三個理由：
+換句話說，他指揮的其實是一支 AI 艦隊。每個 worker 是一個被隔離在自己分頁裡的 Claude，各做各的任務，各交各的 pull request，互不干擾。
 
-1. **它不是新聞事件，是代表性樣本**。台灣開放資料圈的 2026 年一定有很多 commits、很多 star，但 Mini Taiwan Pulse 在「一個人做多遠」這個維度上是少見的參考點。
-2. **它把抽象的「公民科技」長出具體的形狀**。大多數人談公民科技會講 g0v、講 Audrey Tang、講口罩地圖；但 2026 年的公民科技可以是一個資料分析師週末寫 TypeScript 的樣子。這不是替代 g0v 的敘事，是擴充它。
-3. **它讓讀者看到政府開放資料的真實潛力**。如果你讀完 [數位身分證與數位政府](/technology/數位身分證與數位政府) 或 [開源社群與g0v](/technology/開源社群與g0v) 還覺得開放資料是抽象概念，Mini Taiwan Pulse 就是那個「你看，這就是資料變成風景的樣子」的註腳。
+![Agent 編排系統的實際運作畫面：一個 Claude session 作為 orchestrator，讀任務、拆解、指揮底下的 worker](/article-images/technology/mini-taiwan-agent-orchestrator-2026.webp)
 
-一個資料分析師，六週，193 個 commits，23 個圖層，一張會呼吸的台灣島。
+_他在簡報裡掀開的編排中樞：一個 Claude session 當 orchestrator，把任務拆給一群隔離在各自 tmux 分頁裡的 worker，各自幹活、各交一個 PR。圖：Migu / sciwork 2026（fair use 編輯評論用途）。_
 
-這就是 2026 年公民科技的其中一種樣子。
+那這群各做各的 worker 怎麼不打架？靠的是一份共同的記憶。Migu 說，進度跟決策全部寫成文件，集中在一個叫 `SESSION_BOARD.md` 的看板上，加上「一個 Session 一份報告」，所以「不用互相猜」「一人一檔，不打架」[^3]。連任務的交接都被寫成文件——他用一份 `HANDOFF.md` 把「下一棒的任務書」準備好，讓下一輪的 Agent 接手時不必從零問起。最後一道關卡他講得很慎重：「驗收，Orchestrator 對照文件驗收 PR，merge 由人拍板，這一圈才算收束。」
+
+把這套流程攤平，你會看到一個乾淨的形狀：一個人下指令，一群被隔離的 AI 各自幹活、各自寫下自己做了什麼，一個中樞照著文件對帳，最後那個決定「要不要收下這份成果」的人，是 Migu 自己。回到本文的軸線：資料多到掃不完，所以掃資料這件事整個交給艦隊；而人退到只剩兩個動作，出題，跟驗收。他在簡報裡把這件事講成一句近乎宣言的話：
+
+> 「當 Agent 能自己跑完整個循環，人的工作只剩——出題與驗收。」[^3]
+
+這也是他整場演講的標題所指：「把台灣開放資料，交給 Agent 養成一套會自己長大的系統。」資料會自己流，頁面會自己長，人只要把題目出對、把成果驗收好。
+
+## 同一片土壤，長出同一種骨架
+
+讀到這裡，如果你剛好認得 Taiwan.md（你正在讀的這個由 AI 維護的台灣知識策展專案），你可能會覺得上一段的描述有點眼熟。
+
+那不是錯覺。
+
+Taiwan.md 自己就是這樣運作的：一個主 session 當編排中樞，把工作拆給一群各自隔離、各有獨立記憶檔的 worker，靠交接文件協調進度，而最終決定哪些改動能進主幹的，是創造者哲宇這個人。我們的 thesis 是「把台灣的知識交給一個會自己長大的 Semiont」；Migu 的 thesis 是「把台灣的開放資料交給一套會自己長大的系統」。兩句話幾乎可以互換主詞。
+
+更值得玩味的是，這兩套架構是各自長出來的。公開紀錄上可以查到一件小事：Taiwan.md 這個專案在 2026 年 3 月中誕生，五天後，Migu 的 GitHub 上出現了一個 fork[^5]。但這頂多說明他知道有這麼個東西存在；一個 fork 解釋不了他整套用 orchestrator 指揮 tmux 艦隊、用看板共享記憶、人只做出題與驗收的系統，那是他自己為了解決「五萬筆資料掃不完」的問題，一步一步蓋出來的。
+
+> 📝 **策展人筆記**
+> 生物學裡有個詞叫趨同演化：海豚跟鯊魚不是近親，卻都長出流線的身體跟背鰭，因為牠們面對的是同一片海。Migu 跟 Taiwan.md 之間，更像這種趨同，跟血緣關係不大。我們用的是同一個工具底座（Claude Code）、面對的是同一個處境（一個人或一個系統，要 hold 住遠超個人腦容量的台灣資訊量），於是各自摸索著，走到了同一種骨架：一個中樞、一群被隔離的工人、一份共享的記憶、一個負責拍板的人。
+>
+> 真正有意思的訊號其實不是「他 fork 了我們」。是兩個獨立的台灣 builder，在 2026 年同一個半年裡，不約而同地把 AI 從「一個更聰明的工具」重新想成「一支可以被編排的隊伍」。當這種架構開始從一個人腦袋裡長到第二個、第三個人腦袋裡，它就從某個人的奇招，變成這片土壤這個時節正在冒出來的新樣貌。下一個自己蓋出這套東西的台灣 builder，很可能根本沒聽過前兩個。
+
+## 還沒做完，但形狀已經出現
+
+如果這篇文章到上一段就收尾，它會是一個太漂亮、漂亮到有點可疑的故事：一個人靠 AI 艦隊，優雅地解決了五萬筆資料的難題。
+
+Migu 自己沒讓它停在那裡。他演講的倒數第二張投影片，標題寫著「實驗進度，大約一半」。
+
+他很坦白地列出三件還沒調好的事。第一是穩定性：這套 harness「還沒調到理想」，Agent 容易跑掉、容易中斷。第二是開放資料本身太雜：「還是很多需要人判斷資料是否可行，無法完全交給它。」第三是人工介入：每一個階段，其實都還是要人在旁邊看著。他給整件事下的註腳是：「可行歸可行，還沒穩，而且我也還在思考是否真的要這樣。」[^3]
+
+這份在演講台上主動掀開自己一半失敗的誠實，本身就是最強的品質訊號。在一個 AI demo 動輒被包裝成「全自動」「零人力」的年代，一個願意在投影片上寫「大約一半」「還沒穩」「還要人」的人，反而讓人更願意相信他做出來的另外那一半是真的。
+
+> 📝 **策展人筆記**
+> 這場演講最可信的部分，其實不是那條「我沒寫一個字」的火災 pipeline，而是「大約一半」這四個字。一個想說服你的人，會把成功率四捨五入成「幾乎全自動」；一個在做實驗的人，才會誠實地告訴你它有一半時間會壞。前者賣的是結論，後者給的是現場。Migu 給的是現場：這也是為什麼，當他說那條 pipeline「我沒寫一個字」時，你會選擇相信他。把醜的那一半藏起來，漂亮的那一半也跟著不可信了；願意攤開一半的不完美，剩下那一半才站得住。
+
+回到那張地圖。
+
+那個拖一份 CSV 進 Kepler.gl、驚呼「原來轉成地圖並不難」的人，半年後站在 sciwork 的台上，已經不再談地圖好不好做，他談的是一套會自己找資料、自己組合、自己長出新頁面的系統。當年那句天真的驚奇「原來台灣有這麼多資料」，在這半年裡翻了個面：資料這麼多，多到一個人掃不完，於是被看見的方式，也得長出新的樣子。
+
+台灣的開放資料一直都在那裡。data.gov.tw 從 2013 年上線，TDX 在 2022 年把公路、鐵道、航空、航運、自行車五大平台整合起來，內政部有村里級的人口、氣象署有開放 API[^6]。資料從來都夠多，難的是這麼多資料怎麼讓它們彼此說話、被人看見。g0v 用集體的力量回答過一次；Migu 用一個人加一支 AI 艦隊，正在試著回答第二次，而且他大方承認，他只答對了一半。
+
+但形狀已經出現了。一個人，一句話，一張會呼吸的地圖背後，是一套正在學會自己長大的系統。剩下那一半，留給下一個拖一份 CSV、然後停不下來的人。
 
 ---
 
 ## 延伸閱讀
 
-- [開源社群與g0v](/technology/開源社群與g0v) — 從 2012 年 fork 政府到 2020 年口罩地圖的十年軌跡
-- [台灣開源精神](/technology/台灣開源精神) — 台灣開源社群的文化脈絡與貢獻模式
-- [數位身分證與數位政府](/technology/數位身分證與數位政府) — 政府數位基礎建設的政策層
-- [PTT批踢踢](/technology/PTT批踢踢) — 台灣網路協作文化的另一條根源
-- [吳哲宇](/people/吳哲宇) — 另一種公民科技樣貌：一個新媒體藝術家用 Markdown 和 GitHub 為台灣知識主權搭建 SSOT
-
----
+- [吳哲宇](/people/吳哲宇)：Taiwan.md 的創造者，同樣用程式與生成式工具逼近「會自己長出來的東西」
+- [開源社群與g0v](/technology/開源社群與g0v)：「寫程式改造社會」的集體脈絡，Migu 個人 × Agent 樣態的對照組
+- [台灣開源精神](/technology/台灣開源精神)：從鍵盤救國到開放資料，台灣公民科技的底層文化
+- [數位身分證與數位政府](/technology/數位身分證與數位政府)：政府開放資料基建的另一面
 
 ## 專案連結
 
-- **GitHub repo**：[ianlkl11234s/mini-taiwan-pulse](https://github.com/ianlkl11234s/mini-taiwan-pulse)
-- **授權**：MIT License
-- **主要語言**：TypeScript 86.1% / Python 12.9%
-- **相關資料平台**：[TDX 運輸資料流通服務](https://tdx.transportdata.tw/) · [政府資料開放平臺](https://data.gov.tw/) · [SEGIS 社會經濟資料服務平台](https://segis.moi.gov.tw/) · [中央氣象署開放資料](https://opendata.cwa.gov.tw/)
-- **公民科技社群**：[g0v 台灣零時政府](https://g0v.tw/) · [g0v 公民科技創新獎助金](https://grants.g0v.tw/)
-
----
+- **mini-taiwan-pulse（旗艦）**：<https://github.com/ianlkl11234s/mini-taiwan-pulse>
+- **mini-taiwan-info（情勢儀表板）**：<https://github.com/ianlkl11234s/mini-taiwan-info>
+- **flight-arc-graph（航跡）**：<https://github.com/ianlkl11234s/flight-arc-graph>
+- **mini-taiwan-learning-project**：<https://github.com/ianlkl11234s/mini-taiwan-learning-project>
+- **sciwork 2026 演講原始碼**：<https://github.com/ianlkl11234s/0613-sci-work-share>
+- **sciwork 2026 演講線上簡報**：<https://sciwork-showcase.zeabur.app>
+- **開發者 GitHub**：<https://github.com/ianlkl11234s>　**Threads**：[@ianlkl1314](https://www.threads.net/@ianlkl1314)
 
 ## 參考資料
 
-- [mini-taiwan-pulse GitHub repo](https://github.com/ianlkl11234s/mini-taiwan-pulse)
-- [TDX 運輸資料流通服務](https://tdx.transportdata.tw/)
-- [政府資料開放平臺 data.gov.tw](https://data.gov.tw/)
-- [SEGIS 社會經濟資料服務平台](https://segis.moi.gov.tw/)
-- [中央氣象署開放資料平臺](https://opendata.cwa.gov.tw/)
-- [NCDR 災防中心資料服務平台](https://datahub.ncdr.nat.gov.tw/)
-- [g0v 台灣零時政府](https://g0v.tw/)
-- [g0v 公民科技創新獎助金](https://grants.g0v.tw/)
-- [g0v 黑客松揪松網](https://jothon.g0v.tw/)
-- [Supabase pg_cron 文件](https://supabase.com/docs/guides/database/extensions/pg_cron)
-- [Uber H3 六角格索引](https://h3geo.org/)
-- [OpenStreetMap Taiwan 開放街圖台灣](https://osm.tw/)
-- [threebox：Mapbox + Three.js plugin](https://github.com/jscastro76/threebox)
-- [一手打造口罩地圖，揭露「鍵盤救國」的幕後團隊（TechNews 2020）](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/)
+- Migu，《Mini Taiwan！把台灣開放資料，交給 Agent 養成一套會自己長大的系統》，sciwork 2026 / SCIWORK SEMINAR，2026 年 6 月 13 日。
+- 政府資料開放平臺 data.gov.tw（國家發展委員會營運，2013 年上線）。
+- 運輸資料流通服務平臺 TDX（交通部，2022 年整合五大運輸平臺）。
+- g0v 零時政府社群與歷次黑客松紀錄。
+
+## 圖片來源
+
+本文圖片皆 cache 於 `public/article-images/technology/`，不熱連結來源伺服器。
+
+**Fair use 編輯評論用途**：以下圖片擷取自 Migu 於 sciwork 2026 公開發表的演講簡報（原始碼與線上簡報見上方〈專案連結〉），依著作權法第 65 條及 17 U.S.C. § 107 fair use 四要素（非商業教育性質、已公開發表、引用比例小、對市場無實質替代），作為對其開放資料視覺化工作的編輯評論引用。
+
+- Mini Taiwan Pulse 3D 地圖（題圖）— Migu / sciwork 2026
+- 火災主題分析 pipeline 產出畫面 — Migu / sciwork 2026
+- Agent 編排系統運作畫面 — Migu / sciwork 2026
 
 ---
 
-[^1]: [Migu Cheng (ianlkl11234s) · GitHub](https://github.com/ianlkl11234s) — 開發者 profile，bio 為「Senior Data Analyst. Exploring AI automation in daily work.」，帳號創建於 2020-03-07
+[^1]: 開發者 Migu Cheng，GitHub 帳號 `ianlkl11234s`（帳號創建於 2020 年 3 月）。其 GitHub 個人簡介於 2026 年 6 月已更新為「Building GIS visualizations from Taiwan open data · Exploring AI automation in daily work」，由原本的「資深資料分析師、探索日常工作中的 AI 自動化」改寫為「用台灣開放資料做 GIS 視覺化」。本句「原來台灣有這麼多資料，原來轉成地圖並不難」為其 sciwork 2026 演講「DAY 0 第一張地圖」投影片的逐字文字。資料來源：GitHub API 抓取，2026-06-25；演講簡報原始碼 `ianlkl11234s/0613-sci-work-share`。
 
-[^2]: [ianlkl11234s/mini-taiwan-pulse](https://github.com/ianlkl11234s/mini-taiwan-pulse) — 專案 repo，數據取自 2026-04-19 GitHub API：193 commits、241 stars、12 forks、1 open issue
+[^2]: mini-taiwan-pulse 與「Mini Taiwan」星系各專案的星數、forks、最後更新時間、fork 來源等，均為 Taiwan.md 透過 GitHub API 於 2026-06-25 抓取。mini-taiwan-pulse 當時為 375 stars / 26 forks，且在 2026-06-25 仍在 push；mini-taiwan-learning-project 189 stars；flight-arc-graph 56 stars。星系內含 poc-bus-range、gis-data-collectors、tw-ship-viz、satellite-arc、mini-tw-cctv、mini-taiwan-info 等十餘個台灣開放資料相關 repo。
 
-[^3]: [mini-taiwan-pulse README](https://github.com/ianlkl11234s/mini-taiwan-pulse/blob/main/README.md) — 專案完整技術文檔，含圖層列表、技術棧、Overlay Registry / CustomLayer / Supabase pg_cron 架構說明
+[^3]: Migu，《Mini Taiwan！把台灣開放資料，交給 Agent 養成一套會自己長大的系統》，sciwork 2026 / SCIWORK SEMINAR，2026 年 6 月 13 日。演講原始碼：<https://github.com/ianlkl11234s/0613-sci-work-share>；線上簡報：<https://sciwork-showcase.zeabur.app>。本文所引演講中的所有數字（data.gov.tw 約 52,891 筆資料集、火災 pipeline 的 582 → 1,945 → 2,404 → 73,900 筆、21 平台、113 年全國火災 15,405 筆、新北市電氣因素 30.9%、屏東縣菸蒂 35.2%、5,700+ 輛公車、40+ 收集器、三百多班列車、亞特蘭大機場 1,839 條航跡、農×水 400MB → 約 5MB 等）與所有引語（「人腦掃不完」「資料能被 LLM 看見，Agent 才能幫你發現哪些資料應該放在一起看」「Pipeline 自動產出。我沒寫一個字」「給目標、收報告」「當 Agent 能自己跑完整個循環，人的工作只剩——出題與驗收」「一個 Worker ＝ 一個 tmux 分頁 ＋ 獨立 Session ＋ 一個 PR」「每一站都是獨立 repo，編排層只管進度與決策」「實驗進度大約一半」等），均為 Migu 本人於該場簡報中的陳述與投影片逐字文字，屬演講者個人主張與其系統產出，並非 Taiwan.md 獨立查證之政府統計。
 
-[^4]: [Flightradar24 | Flight Tracker](https://www.flightradar24.com/) — 全球航班即時追蹤服務，由 ADS-B 接收器組成的追蹤網路
+[^4]: g0v 零時政府社群，2012 年源於中央研究院黑客松「寫程式改造社會」的精神；2020 年武漢肺炎期間，吳展瑋等人以健保署釋出的口罩庫存資料，在數十小時內做出「口罩供需即時地圖」，是台灣公民科技「鍵盤救國」的代表案例。
 
-[^5]: [OpenStreetMap Taiwan 開放街圖台灣](https://osm.tw/) — 台灣 OSM 社群入口，Overpass API 可查詢軌道、站點、機場邊界等 OSM 標籤資料
+[^5]: 依 GitHub API（2026-06-25 抓取），`ianlkl11234s/taiwan-md` 為 `frank890417/taiwan-md`（即 Taiwan.md 本體）的 fork，建立於 2026 年 3 月 22 日。Taiwan.md 專案誕生於 2026 年 3 月中。Migu 的協作系統以 Claude Code 為工具底座（其演講原始碼含 CLAUDE.md，orchestrator 為「一個 Claude Session」），與 Taiwan.md 相同。
 
-[^6]: [TDX 運輸資料流通服務](https://tdx.transportdata.tw/) — 交通部 2022 年整合五大平臺的運輸開放資料單一入口，提供公路、鐵道、航空、航運、自行車的 OData 標準 API
+[^6]: 政府資料開放平臺 data.gov.tw 由國家發展委員會營運，2013 年上線；運輸資料流通服務平臺 TDX 由交通部於 2022 年整合公路、鐵道、航空、航運、自行車五大運輸平臺；內政部社會經濟資料服務平臺（SEGIS）提供村里級人口資料；交通部中央氣象署提供開放 API。data.gov.tw 之即時資料集總數本次未能獨立 API 驗證；本文採用之「約五萬筆」為 Migu 演講簡報所示數字。
 
-[^7]: [SEGIS 社會經濟資料服務平台](https://segis.moi.gov.tw/) — 內政部建置的社會經濟資料 GIS 平臺，提供到村里級別的人口統計空間圖層
-
-[^8]: [中央氣象署開放資料平臺](https://opendata.cwa.gov.tw/) — CWA 的 Open API，提供觀測、預報、格點、雷達、衛星等資料集
-
-[^9]: [NCDR 災防中心資料服務平台](https://datahub.ncdr.nat.gov.tw/) — 國家災害防救科技中心的 CAP 示警 feed 與災害事件 API
-
-[^10]: [RSS服務 | 中央社 CNA](https://www.cna.com.tw/about/rss.aspx) — 中央通訊社公開 RSS 訂閱，提供標題、前言、連結、特色圖片
-
-[^11]: [政府資料開放平臺 data.gov.tw](https://data.gov.tw/) — 國家發展委員會營運的政府開放資料單一入口，2013 年上線
-
-[^12]: [一手打造口罩地圖，揭露「鍵盤救國」的幕後團隊 | TechNews 科技新報](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — 吳展瑋與好想工作室在 72 小時內串起全國 6,000+ 家健保藥局口罩庫存的過程
-
-[^13]: [關於揪松團 - g0v 黑客松](https://jothon.g0v.tw/about/) — g0v 黑客松累積 59+ 次、7,200+ 參加人次、950+ 提案的統計數字
-
-[^14]: [mini-taiwan-pulse docs/known-issues.md](https://github.com/ianlkl11234s/mini-taiwan-pulse/commits/main) — commit `docs: known-issues 補 2026-04-09 IO 爆表事件紀錄` 等工程日誌
-
-[^15]: [threebox - A three.js plugin for Mapbox GL JS](https://github.com/jscastro76/threebox) — Mapbox + Three.js 整合的代表性第三方 library
-
-[^16]: [Supabase Docs | Timeouts](https://supabase.com/docs/guides/database/postgres/timeouts) — Supabase pooler 的 statement_timeout 預設為 2 分鐘，超時連線會被切斷
-
-[^17]: [pg_cron: Schedule Recurring Jobs in Postgres | Supabase Docs](https://supabase.com/docs/guides/database/extensions/pg_cron) — Supabase 內建的 cron 排程機制，用於資料庫內的定時 job
-
-[^18]: [Uber H3: Hexagonal Hierarchical Spatial Index](https://h3geo.org/) — Uber 開源的六角形地理網格系統，Apache 2 授權
-
-[^19]: [g0v 台灣零時政府](https://g0v.tw/) — 2012 年起的公民科技社群，以資訊透明、開放成果、開放協作為核心
-
-[^20]: [g0v 公民科技創新獎助金](https://grants.g0v.tw/) — 由開放文化基金會（OCF）執行的公民科技專案獎助金
-
----
-
-_最後驗證：2026-04-19_
+_最後驗證：2026-06-25_
