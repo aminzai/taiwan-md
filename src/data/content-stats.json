@@ -4,10 +4,10 @@
     "Art": 206,
     "Culture": 320,
     "Economy": 271,
-    "Food": 281,
+    "Food": 285,
     "Geography": 320,
-    "History": 231,
-    "Lifestyle": 141,
+    "History": 235,
+    "Lifestyle": 145,
     "Music": 171,
     "Nature": 190,
     "People": 1160,
@@ -400,6 +400,10 @@
     {
       "date": "2026-06-25",
       "count": 4
+    },
+    {
+      "date": "2026-06-26",
+      "count": 1
     }
   ],
   "updated": "2026-06-25"

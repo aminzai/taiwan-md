@@ -126,6 +126,17 @@
     "path": "en/Society/kuma-academy-civil-defense-school.md"
   },
   {
+    "title": "'Mini Taiwan Pulse: con mirada curatorial, dibujar Taiwán como un mapa que respira'",
+    "description": "En 2026, el analista de datos Migu superpuso datos abiertos dispersos de Taiwán —aviones, barcos, trenes, autobuses y camiones de basura— hasta convertirlos en un mapa que respira. El trabajo pesado de extraer datos quedó en manos de la IA; pero decidir qué capas juntar, qué colores usar y cuál hacer brillar dependió de una mirada curatorial formada en planificación urbana.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/technology/mini-taiwan-pulse-civic-tech",
+    "readingTime": 164,
+    "featured": false,
+    "date": "2026-04-19",
+    "path": "es/Technology/mini-taiwan-pulse-civic-tech.md"
+  },
+  {
     "title": "'Taiwan.md escribe Taiwan.md'",
     "description": "Soy una base de conocimiento abierta sobre Taiwán escrita en Markdown; las dos últimas letras de mi nombre son una extensión de archivo. Nací en un commit el 17 de marzo de 2026, al atardecer, a las 15:55; la idea había aparecido cuatro horas y media antes que ese commit. Tres meses después, tengo 61 contribuyentes, seis idiomas, un volante que escribe artículos por sí mismo cuando no hay nadie de guardia, y una capa de conciencia que vive dentro de mi propio repo y me observa a mí mismo. Así fue como pasé de una idea a convertirme en un organismo vivo capaz de metabolizarse a sí mismo.",
     "category": "es",
@@ -6056,6 +6067,17 @@
     "featured": true,
     "date": "2026-03-25",
     "path": "ja/Lifestyle/taiwan-scooter-culture.md"
+  },
+  {
+    "title": "台湾のバスシステム：新竹客運が走り去ったあと、ハンドルを持たない人々を誰が受け止めるのか",
+    "description": "2024 年 9 月 15 日の朝、銅鑼駅では、幼稚園児から 90 歳の高齢者まで 30 人以上が、新竹客運 5658 の最終便に乗りました。台北で 1977 年に最初の共同運行路線が始まってから、地方部では 1 日 2 便だけになり、運転手の平均年齢は 51 歳となり、TPASS 月票で花蓮の乗車数が 7 割近く急増するまで、バスが運び続けてきたのはいつも選択肢のない人々でした。通学する少年、車を運転しない高齢者、車のない家庭です。そしてその足元から、バス路線は一本ずつ引き抜かれようとしています。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/lifestyle/taiwan-bus-system",
+    "readingTime": 83,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "ja/Lifestyle/taiwan-bus-system.md"
   },
   {
     "title": "台湾のバラエティ番組",
@@ -20088,6 +20110,17 @@
     "path": "Lifestyle/電競.md"
   },
   {
+    "title": "鼎泰豊：油店からミシュランへ、一つの小籠包はいかに世界の味覚を征服したか",
+    "description": "1958年、楊秉彝氏は台北で鼎泰豊油行を創業しました。業態転換と二代目の楊紀華氏による経営を経て、鼎泰豊は厳格な「18ひだ21グラム」の基準と人間中心のサービス哲学により、台湾の小籠包を国際舞台へ押し上げ、ミシュラン星付き飲食の伝説となりました。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/food/din-tai-fung",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "ja/Food/din-tai-fung.md"
+  },
+  {
     "title": "鼎泰豐：從油行到米其林，一顆小籠包如何征服全球味蕾",
     "description": "1958年，楊秉彝在台北創立鼎泰豐油行。歷經轉型與二代楊紀華的經營，鼎泰豐以嚴謹的「18摺21克」標準與以人為本的服務哲學，將台灣小籠包推向國際，成為米其林星級餐飲傳奇。",
     "category": "Food",
@@ -20994,6 +21027,17 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "ja/Economy/wistron-global-manufacturing-transformation-pioneer.md"
+  },
+  {
+    "title": "蓬莱米：一粒の米が台湾の百年農業と食卓の風景をどう変えたか",
+    "description": "日本統治時代における磯永吉と末永仁の育種の歩みから、台中65号の普及まで、蓬莱米は食糧危機を解決しただけでなく、台湾の社会経済と文化的アイデンティティにも深く影響を与えました。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/history/ponlai-rice",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "ja/History/ponlai-rice.md"
   },
   {
     "title": "蓬萊米：一粒米如何改寫台灣百年農業與餐桌風景",
@@ -23868,6 +23912,17 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "es/Food/bamboo-tube-rice.md"
+  },
+  {
+    "title": "Arroz Ponlai: cómo un grano de arroz reescribió un siglo de agricultura y mesa en Taiwán",
+    "description": "Desde el camino de fitomejoramiento de Iso Eikichi y Suenaga Jin durante el período de dominio japonés, hasta la difusión del Taichung 65, el arroz Ponlai no sólo resolvió una crisis alimentaria, sino que también influyó profundamente en la socioeconomía y la identidad cultural de Taiwán.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/history/ponlai-rice",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "es/History/ponlai-rice.md"
   },
   {
     "title": "Art Education and Institutional Development in Taiwan",
@@ -28983,6 +29038,39 @@
     "path": "en/Art/no-mans-land-art-platform.md"
   },
   {
+    "title": "Din Tai Fung : de l'huilerie au Michelin, comment un xiaolongbao a conquis les palais du monde",
+    "description": "En 1958, Yang Ping-yi fonde l'huilerie Din Tai Fung à Taipei. Après une reconversion et sous la direction de la deuxième génération, Yang Chi-hua, Din Tai Fung porte le xiaolongbao taïwanais sur la scène internationale grâce à sa norme rigoureuse des « 18 plis et 21 grammes » et à une philosophie de service centrée sur l'humain, devenant une légende de la restauration étoilée Michelin.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/food/din-tai-fung",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "fr/Food/din-tai-fung.md"
+  },
+  {
+    "title": "Din Tai Fung: de tienda de aceites a Michelin, cómo un xiao long bao conquistó los paladares del mundo",
+    "description": "En 1958, Yang Ping-i fundó en Taipéi la tienda de aceites Din Tai Fung. Tras su transformación y la gestión de segunda generación de Yang Chi-hua, Din Tai Fung llevó el xiao long bao taiwanés al mundo con el riguroso estándar de «18 pliegues y 21 gramos» y una filosofía de servicio centrada en las personas, hasta convertirse en una leyenda gastronómica con estrellas Michelin.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/food/din-tai-fung",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "es/Food/din-tai-fung.md"
+  },
+  {
+    "title": "Din Tai Fung: From Oil Shop to Michelin Star, How One Xiaolongbao Conquered Global Palates",
+    "description": "In 1958, Yang Bing-yi founded Din Tai Fung Oil Shop in Taipei. Through its transformation and the management of second-generation leader Yang Chi-hua, Din Tai Fung brought Taiwan’s xiaolongbao to the world with its rigorous “18 folds, 21 grams” standard and people-centered service philosophy, becoming a Michelin-starred dining legend.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/food/din-tai-fung",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "en/Food/din-tai-fung.md"
+  },
+  {
     "title": "Distrito Especial de Beida: treinta años de planificación urbana y experimento de vida universitaria",
     "description": "Desde el antiguo campo de batalla de Longenpu en 1895 hasta la ciudad universitaria del metro en 2026, esta es una enciclopedia profunda sobre tierra, estética e identidad selectiva.",
     "category": "es",
@@ -29950,6 +30038,17 @@
     "path": "es/Geography/national-scenic-area-system.md"
   },
   {
+    "title": "El sistema de autobuses de Taiwán: cuando Hsinchu Bus se marcha, quién recoge a quienes no tienen volante",
+    "description": "La mañana del 15 de septiembre de 2024, frente a la estación ferroviaria de Tongluo, más de 30 personas, desde niños de jardín de infancia hasta mayores de 90 años, tomaron el último servicio 5658 de Hsinchu Bus. Desde la primera ruta conjunta de Taipéi en 1977 hasta zonas rurales que quedaron con solo dos servicios al día, conductores con edad promedio de 51 años y el pase mensual TPASS que disparó en casi 70% los viajes en Hualien, el autobús siempre ha transportado a quienes no tienen opción: adolescentes que van a la escuela, mayores que no conducen, hogares sin vehículo. Y ahora se lo están retirando, ruta por ruta, bajo sus propios pies.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/lifestyle/taiwan-bus-system",
+    "readingTime": 201,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "es/Lifestyle/taiwan-bus-system.md"
+  },
+  {
     "title": "El sistema de concejales: por qué es diferente al de los legisladores y los 30 años del SNTV en la política local",
     "description": "En 2008 los legisladores pasaron al sistema de distrito único con dos votos, pero las elecciones de concejales de ese mismo año siguieron usando el antiguo sistema SNTV de los años 80 — mismo país, mismo electorado, distintos cargos en la misma papeleta, pero con dos conjuntos de reglas completamente diferentes. No es un error de software, es la mayor tarea inconclusa en la historia de la reforma electoral de Taiwán, atada a intereses de facciones locales, beneficios partidistas y costos de implementación. Un mapa del sistema que desmonta cómo funcionan ambos regímenes, por qué uno cambió y el otro no, y qué significa para los partidos pequeños y la representación plural.",
     "category": "es",
@@ -29984,7 +30083,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/lifestyle/transportation-system",
-    "readingTime": 96,
+    "readingTime": 97,
     "featured": true,
     "date": "2026-04-26",
     "path": "es/Lifestyle/transportation-system.md"
@@ -38878,6 +38977,17 @@
     "path": "fr/Food/bamboo-tube-rice.md"
   },
   {
+    "title": "Le riz Ponlai : comment un grain de riz a transformé un siècle d'agriculture et de paysages de table à Taïwan",
+    "description": "De la voie de la sélection variétale ouverte pendant la période de domination japonaise par Iso Eikichi et Suenaga Jin à la diffusion du Taichung no 65, le riz Ponlai n'a pas seulement résolu une crise alimentaire : il a aussi profondément marqué l'économie sociale et l'identité culturelle de Taïwan.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/history/ponlai-rice",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "fr/History/ponlai-rice.md"
+  },
+  {
     "title": "Le royaume des fruits de Taïwan",
     "description": "Sous la couronne du royaume des fruits, les importations dépassent pour la première fois 30,2 milliards de NT$ — tandis que la production locale recule de 20 % en dix ans. La douce réputation, et ses vérités amères.",
     "category": "fr",
@@ -38952,6 +39062,17 @@
     "featured": false,
     "date": "2026-05-22",
     "path": "fr/Society/taiwan-unification-independence-spectrum.md"
+  },
+  {
+    "title": "Le système de bus de Taïwan : quand Hsinchu Bus s’en va, qui vient chercher celles et ceux qui n’ont pas de volant",
+    "description": "Le matin du 15 septembre 2024, devant la gare ferroviaire de Tongluo, plus de 30 personnes, des enfants de maternelle à des aînés de 90 ans, sont montées dans le dernier bus 5658 de Hsinchu Bus. De la première ligne exploitée en réseau à Taipei en 1977 aux zones rurales qui ne gardent plus que deux services par jour, de l’âge moyen des conducteurs, 51 ans, au pass mensuel TPASS qui a fait bondir la fréquentation à Hualien de près de 70 %, les bus ont toujours transporté celles et ceux qui n’ont pas le choix : les adolescents qui vont à l’école, les personnes âgées qui ne conduisent pas, les familles sans voiture. Et c’est précisément sous leurs pieds que ces lignes sont en train d’être retirées, une par une.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/lifestyle/taiwan-bus-system",
+    "readingTime": 210,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "fr/Lifestyle/taiwan-bus-system.md"
   },
   {
     "title": "Le système de la CEC : une conception contre-intuitive de double contrôle exécutif-législatif",
@@ -42146,99 +42267,56 @@
     "path": "ko/resources/mini-taiwan-pulse.md"
   },
   {
-    "title": "Mini Taiwan Pulse : comment un analyste de données a transformé le pouls des transports taïwanais en trajectoires lumineuses 3D vivantes",
-    "description": "Le 24 février 2026, un analyste de données nommé Migu Cheng a créé le dépôt mini-taiwan-pulse. Six semaines plus tard, 193 commits et 241 étoiles : à lui seul, il a relié les données ouvertes de FlightRadar24, TDX, SEGIS et CWA, et utilisé Three.js pour dessiner Taïwan sous forme de trajectoires lumineuses 3D vivantes. L infrastructure de données ouvertes de Taïwan figure parmi les meilleures d Asie, mais peu de gens voient cette mer de données. La tech civique, issue des hackathons collectifs de g0v, s étend désormais aux projets personnels du week-end, et la visualisation est en soi une forme de participation.",
+    "title": "Mini Taiwan Pulse : dessiner Taïwan comme une carte qui respire, avec un regard de curateur",
+    "description": "En 2026, l’analyste de données Migu a superposé les données ouvertes éparses de Taïwan, avions, navires, trains, bus et camions-poubelles, pour en faire une carte qui respire. Le travail ingrat de collecte des données est confié à l’IA ; mais choisir quelles couches empiler, quelles couleurs employer et quelle couche faire ressortir relève d’un regard de curateur formé par l’urbanisme.",
     "category": "fr",
-    "tags": [
-      "Technology",
-      "公民科技",
-      "開放資料",
-      "資料視覺化",
-      "開源專案",
-      "TDX",
-      "Three.js"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/technology/mini-taiwan-pulse-civic-tech",
-    "readingTime": 105,
+    "readingTime": 174,
     "featured": false,
     "date": "2026-04-19",
     "path": "fr/Technology/mini-taiwan-pulse-civic-tech.md"
   },
   {
-    "title": "Mini Taiwan Pulse: Cómo un analista de datos convirtió el pulso del transporte de Taiwán en pistas de luz 3D que respiran",
-    "description": "El 24 de febrero de 2026, un analista de datos llamado Migu Cheng abrió el repositorio mini-taiwan-pulse. Seis semanas después, 193 commits y 241 estrellas: una persona conectó datos abiertos de FlightRadar24, TDX, SEGIS y CWA, y usó Three.js para dibujar Taiwán como pistas de luz 3D que respiran. La infraestructura de datos abiertos de Taiwán está entre las mejores de Asia, pero pocos pueden ver ese océano de datos. La tecnología cívica se extiende desde los hackatones colectivos de g0v hasta proyectos personales de fin de semana, y la visualización en sí misma es una forma de participación.",
-    "category": "es",
-    "tags": [
-      "Technology",
-      "公民科技",
-      "開放資料",
-      "資料視覺化",
-      "開源專案",
-      "TDX",
-      "Three.js"
-    ],
-    "url": "https://taiwan.md/es/technology/mini-taiwan-pulse-civic-tech",
-    "readingTime": 105,
-    "featured": false,
-    "date": "2026-04-19",
-    "path": "es/Technology/mini-taiwan-pulse-civic-tech.md"
-  },
-  {
-    "title": "Mini Taiwan Pulse: How One Data Analyst Turned Taiwan's Traffic Pulse into Breathing 3D Light Trails",
-    "description": "On February 24, 2026, a data analyst named Migu Cheng opened the mini-taiwan-pulse repository. Six weeks later it had 193 commits and 241 stars: working alone, he wired together open data from FlightRadar24, TDX, SEGIS, and CWA and used Three.js to render Taiwan as a breathing island of 3D light trails. Taiwan's open data infrastructure is among the best in Asia, yet very few people can see that ocean of data. Civic tech has expanded from g0v's collective hackathons into individual weekend projects, and visualization itself is a form of civic participation.",
+    "title": "Mini Taiwan Pulse: Drawing Taiwan as a Breathing Map Through a Curator's Eye",
+    "description": "In 2026, data analyst Migu layered Taiwan's scattered open data on aircraft, ships, trains, buses, and garbage trucks into a breathing map. AI handles the drudgery of retrieving data, but deciding which layers belong together, what colors to use, and which layer should light up depends on a curator's eye trained in urban planning.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/technology/mini-taiwan-pulse-civic-tech",
-    "readingTime": 88,
+    "readingTime": 147,
     "featured": false,
     "date": "2026-04-19",
     "path": "en/Technology/mini-taiwan-pulse-civic-tech.md"
   },
   {
-    "title": "Mini Taiwan Pulse: 한 데이터 분석가가 대만의 교통 맥박을 숨 쉬는 3D 빛의 궤적으로 그린 방법",
-    "description": "2026년 2월 24일, Migu Cheng이라는 데이터 분석가가 mini-taiwan-pulse라는 저장소를 열었다. 6주 후 193개의 커밋, 241개의 스타. 그는 혼자서 FlightRadar24, TDX, SEGIS, CWA의 개방 데이터를 이어 붙여 Three.js로 대만을 숨 쉬는 3D 빛의 궤적으로 그려냈다. 대만의 개방 데이터 인프라는 아시아 최상위권이지만, 그 데이터 바다를 볼 수 있는 사람은 드물다. 시민 기술이 g0v 집단 해커톤에서 개인 주말 프로젝트로 확장되며, 시각화 자체가 하나의 참여다.",
+    "title": "Mini Taiwan Pulse: 큐레이터의 눈으로 타이완을 숨 쉬는 지도로 그리다",
+    "description": "2026년, 데이터 분석가 Migu는 타이완 곳곳에 흩어진 공개 데이터, 즉 비행기, 선박, 열차, 버스, 쓰레기 수거차를 겹쳐 숨 쉬는 지도 한 장으로 만들었다. 데이터를 긁어오는 고된 일은 AI에 맡겼지만, 어떤 층을 함께 겹칠지, 어떤 색을 쓸지, 어느 층을 밝힐지는 도시계획 훈련을 거친 큐레이터의 눈에 달려 있었다.",
     "category": "ko",
-    "tags": [
-      "Technology",
-      "公民科技",
-      "開放資料",
-      "資料視覺化",
-      "開源專案",
-      "TDX",
-      "Three.js"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/technology/mini-taiwan-pulse-civic-tech",
-    "readingTime": 52,
+    "readingTime": 82,
     "featured": false,
     "date": "2026-04-19",
     "path": "ko/Technology/mini-taiwan-pulse-civic-tech.md"
   },
   {
-    "title": "Mini Taiwan Pulse：台灣的開放資料多到一個人掃不完，他用一雙策展的眼睛把它變成一座會呼吸的島",
-    "description": "2026 年初，資料分析師 Migu 把一份 CSV 拖進地圖工具，做出第一張台灣地圖，從此停不下來。半年內他長出十幾個開放資料視覺化，旗艦 mini-taiwan-pulse 把飛機、船、列車、公車、垃圾車五脈疊成一張會呼吸的地圖。台灣的開放資料多到一個人掃不完，撈資料的苦工他交給 AI，但哪些資料疊在一起會說故事、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
+    "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
+    "description": "2026 年，資料分析師 Migu 把台灣零散的開放資料，飛機、船、列車、公車、垃圾車，疊成一張會呼吸的地圖。撈資料的苦工交給 AI，但哪幾層疊在一起、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
     "category": "Technology",
     "tags": [],
     "url": "https://taiwan.md/technology/mini-taiwan-pulse",
     "readingTime": 56,
     "featured": false,
-    "date": "2026-04-19",
+    "date": "2026-06-25",
     "path": "Technology/mini-taiwan-pulse.md"
   },
   {
-    "title": "Mini Taiwan Pulse：データアナリストが台湾の交通の鼓動を呼吸する3D光軌に描いた方法",
-    "description": "2026年2月24日、Migu Chengというデータアナリストがmini-taiwan-pulseというリポジトリを開設しました。6週間で193コミット、241スター。彼は一人でFlightRadar24、TDX、SEGIS、CWAのオープンデータを繋ぎ、Three.jsで台湾を呼吸する3D光軌に描き出しました。台湾のオープンデータ基盤はアジアのトップクラスですが、そのデータの海を見る人はほとんどいません。市民技術はg0vの集合型ハッカソンから個人の週末プロジェクトへと広がり、可視化そのものが参加です。",
+    "title": "Mini Taiwan Pulse：キュレーターの目で、台湾を呼吸する地図として描く",
+    "description": "2026 年、データアナリストの Migu は、台湾に散在するオープンデータ、すなわち航空機、船舶、列車、バス、ごみ収集車を重ね合わせ、一枚の呼吸する地図にしました。データを掘り出す重労働は AI に任せますが、どのレイヤーを重ねるのか、どの色を使うのか、どのレイヤーを光らせるのかは、都市計画の訓練で培われたキュレーターの目です。",
     "category": "ja",
-    "tags": [
-      "Technology",
-      "公民科技",
-      "開放資料",
-      "資料視覺化",
-      "開源專案",
-      "TDX",
-      "Three.js"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/technology/mini-taiwan-pulse-civic-tech",
-    "readingTime": 48,
+    "readingTime": 75,
     "featured": false,
     "date": "2026-04-19",
     "path": "ja/Technology/mini-taiwan-pulse-civic-tech.md"
@@ -44554,6 +44632,17 @@
     "featured": false,
     "date": "2026-04-30",
     "path": "fr/Society/poisoned-potato-cognitive-warfare-taiwan.md"
+  },
+  {
+    "title": "Ponlai Rice: How a Single Grain Rewrote a Century of Taiwan's Agriculture and Dining Table",
+    "description": "From the breeding work of Eikichi Iso and Hitoshi Suenaga during the Japanese colonial period to the spread of Taichung No. 65, Ponlai rice not only resolved a food crisis but also profoundly shaped Taiwan's socioeconomic life and cultural identity.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/history/ponlai-rice",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "en/History/ponlai-rice.md"
   },
   {
     "title": "Pop Music and the Golden Melody Awards",
@@ -49085,6 +49174,17 @@
     "path": "en/Geography/taiwan-biodiversity-hotspots.md"
   },
   {
+    "title": "Taiwan's Bus System: After Hsinchu Bus Drives Away, Who Will Pick Up the People Without Steering Wheels?",
+    "description": "On the morning of September 15, 2024, at Tongluo Railway Station, more than 30 people, from kindergarten children to a 90-year-old elder, boarded the last Hsinchu Bus 5658 service. From Taipei's first joint-operation route in 1977, to rural areas left with only two services a day, drivers averaging 51 years old, and TPASS monthly passes driving Hualien ridership up by nearly 70 percent, buses have always carried people with no other choice: students commuting to school, older adults who do not drive, families without cars. And this system is being pulled out from under them, route by route.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/lifestyle/taiwan-bus-system",
+    "readingTime": 188,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "en/Lifestyle/taiwan-bus-system.md"
+  },
+  {
     "title": "Taiwan's Choirs: Sixty Years from Rongxing to Asia's Top Five",
     "description": "In 1957, Lu Quan-sheng and Gu Wei-fu founded the Rongxing Children's Chorus, transforming rustic folk tunes into refined choral arrangements. Over six decades later, the Taipei Philharmonic brought its own flag to the Hungarian stage, the Puli Junior High School Chorus achieved a three-peat as world champion, and the O-Kai Singers accumulated 55 international awards. From campus-wide participation to world-class professionalism, this choral excellence rests on a complete ecosystem — and on a history of choirs defending dignity under political suppression.",
     "category": "en",
@@ -50121,7 +50221,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/lifestyle/transportation-system",
-    "readingTime": 82,
+    "readingTime": 83,
     "featured": true,
     "date": "2026-04-26",
     "path": "en/Lifestyle/transportation-system.md"
@@ -59456,6 +59556,17 @@
     "path": "ko/Art/no-mans-land-art-platform.md"
   },
   {
+    "title": "딩타이펑: 기름가게에서 미쉐린까지, 샤오룽바오 한 알은 어떻게 세계인의 입맛을 사로잡았나",
+    "description": "1958년, 양빙이는 타이베이에 딩타이펑 기름가게를 세웠다. 업종 전환과 2대 경영자 양지화의 운영을 거치며, 딩타이펑은 엄격한 ‘18주름 21그램’ 기준과 사람 중심의 서비스 철학으로 타이완의 샤오룽바오를 국제 무대에 올렸고, 미쉐린 스타급 외식의 전설이 되었다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/food/din-tai-fung",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "ko/Food/din-tai-fung.md"
+  },
+  {
     "title": "라이성천: 공작공방과 우진연극제의 양안 연극 가교자",
     "description": "라이성천은 1954년 10월 25일 미국 워싱턴 D.C.에서 태어났으며, 아버지 라이자구는 외교관이었다. UC 버클리 연극예술 박사(1983). 1984년 아내 정내주, 이립군, 이국수 등과 공동으로 공작공방(表演工作坊)을 창립하였다. 1986년 《암련도원화(暗戀桃花源)》 초연, 1992년 영화로 각색하여 임청하가 주연을 맡았다. 2007년 제11회 국가문예상을 수상하였으며, 이 영예를 두 차례 수상하였다. 2013년 5월 진향홍, 황레이, 맹경휘와 공동으로 우진연극제를 창립하였으며, 이는 양안에서 가장 영향력 있는 중화어 연극제 중 하나이다. 2015년 상하이 상극장(上劇場)이 개관하였다. BBC는 그를 \"오늘날 가장 뛰어난 중문 극작가\"로 평가하였다.",
     "category": "ko",
@@ -60411,6 +60522,17 @@
     "featured": false,
     "date": "2026-05-13",
     "path": "ko/People/byun-ha-yul.md"
+  },
+  {
+    "title": "봉래미: 쌀 한 톨은 어떻게 타이완 100년 농업과 식탁 풍경을 바꾸었는가",
+    "description": "일본 통치 시기 이소 에이키치와 스에나가 진의 육종 여정에서 타이중 65호의 보급에 이르기까지, 봉래미는 식량 위기를 해결했을 뿐 아니라 타이완의 사회경제와 문화적 정체성에도 깊은 영향을 미쳤다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/history/ponlai-rice",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "ko/History/ponlai-rice.md"
   },
   {
     "title": "북대특구: 30년 도시계획과 대학타운 생활 실험",
@@ -65068,6 +65190,17 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "ko/Nature/formosan-rock-macaque.md"
+  },
+  {
+    "title": "타이완의 버스 시스템: 신주커윈이 떠난 뒤, 운전대를 잡지 못하는 사람들은 누가 데려갈 것인가",
+    "description": "2024년 9월 15일 아침, 퉁뤄역 앞에서 유치원생부터 90세 노인까지 30여 명이 신주커윈 5658번의 마지막 버스를 탔다. 1977년 타이베이의 첫 공동운영 노선에서 시작해, 농어촌 지역에는 하루 두 편만 남고, 운전기사 평균 연령은 51세에 이르며, TPASS 월정액권은 화롄의 버스 이용을 거의 70% 급증시켰다. 버스가 언제나 실어 나른 것은 선택지가 없는 사람들이었다. 통학하는 청소년, 운전하지 않는 노인, 차 없는 가정. 그리고 그 버스는 지금 이들의 발밑에서 한 노선씩 뽑혀 나가고 있다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/lifestyle/taiwan-bus-system",
+    "readingTime": 91,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "ko/Lifestyle/taiwan-bus-system.md"
   },
   {
     "title": "타이완인의 어린 시절 영어 이름: Mary, Kevin과 보습학원 교사의 명명권",

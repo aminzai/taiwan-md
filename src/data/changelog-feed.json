@@ -1,7 +1,80 @@
 {
-  "generatedAt": "2026-06-25T15:09:39.197Z",
+  "generatedAt": "2026-06-25T22:12:01.144Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "d240042c3d2de4c4d7569e6e5ea5bc852958339e",
+      "date": "2026-06-26T05:09:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-26-050759-twmd-embeddings-nightly — fleet-down graceful skip 連續第 9 夜",
+      "articles": []
+    },
+    {
+      "hash": "2d698440c08f42fdb8e9c94cfa8fb87b7afe4fea",
+      "date": "2026-06-26T00:59:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-26-005618-twmd-babel-nightly — 25 translations (Tier 0a 5 + Tier 1 codex 20) 連 9 夜 stale=0 / es sub-agent URL convention drift vc=1 article-health 接住手動 fix / 4 codex one-shot 無 fallback",
+      "articles": []
+    },
+    {
+      "hash": "5bc8a20724c11719874dfcbf0f2f20c533330553",
+      "date": "2026-06-26T00:56:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 25 translations shipped — stale=0 across 5 lang via Tier 1 codex 20 (3 NEW: 鼎泰豐/蓬萊米/台灣的公車系統 × 5 lang + 1 stale EVOLVE: mini-taiwan-pulse-civic-tech × 5 lang) + Tier 0a Sonnet diff-patch 5 (台灣交通系統 → +1 公車系統 bullet × 5 lang) — 2026-06-26",
+      "articles": []
+    },
+    {
+      "hash": "f40b13ac145e3d7d2d517389aa10b7a8e02470c7",
+      "date": "2026-06-26T00:02:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-25-203919-manual finale — 補 EVOLVE 後的補圖/策展reframe/孢子 phase + LESSONS post-ship-verify",
+      "articles": []
+    },
+    {
+      "hash": "905aa4a82fdceba098f35f1dc4118e1ab720fd26",
+      "date": "2026-06-25T23:54:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] 孢子 #150/#151: mini-taiwan-pulse — 用策展的眼睛把台灣畫成會呼吸的地圖（Threads + X ship）",
+      "articles": [
+        {
+          "url": "/technology/mini-taiwan-pulse",
+          "name": "mini-taiwan-pulse"
+        }
+      ]
+    },
+    {
+      "hash": "6b1cd9a472a11ec7bc5d9d9edddc52d6d874d98d",
+      "date": "2026-06-25T23:45:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-25-204254-公車系統 補 MEMORY-PIPELINE 合規 + LESSONS-INBOX intake",
+      "articles": []
+    },
+    {
+      "hash": "0fe24abb4a7c19ec5dc4715dfdf8993916e7075c",
+      "date": "2026-06-25T23:34:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: mini-taiwan-pulse 標題/描述收短 — 標題卡太擠（哲宇 callout）",
+      "articles": [
+        {
+          "url": "/technology/mini-taiwan-pulse",
+          "name": "mini-taiwan-pulse"
+        }
+      ]
+    },
+    {
+      "hash": "b383228ae8e4d2d588e1c1ec43be7745d59cc46a",
+      "date": "2026-06-25T23:13:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-25-231123-twmd-data-refresh-pm — pm 14-step 三源全綠 + 12/12 fresh 連 30d + 三 sensor 同步轉折 (CF 404 noise +0.10pp / AI U 形觸頂回落第 4 cycle / immune 51→50 漂移加深第一步) + fork-census 3 sightings registry update 全已知不升 OBSERVER-QUEUE",
+      "articles": []
+    },
+    {
+      "hash": "668cadf99c4e5bfb8b79e7cfc217ec44adb59c60",
+      "date": "2026-06-25T23:11:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: pm 14-step data refresh — 三源全綠 + Step 11 12/12 fresh 連 30d + immune 51→50 一步漂移加深 (plugin_health 36 持平 / external_rulers 3.7→3.8 微升) + CF 404 11.74→11.84 +0.10pp am-reversal 後微升回升 + AI 134K→132K -2K U形觸頂回落第 4 cycle + i18n stable en822 ja817 ko818 es817 fr818 / 📄zh 817→820 +3 (公車系統 from pull + 龜山島/倚天劍 carry) / stats ⭐1064→1065 +1 / build 175s→174s -1s; fork-census 3 sightings (LagunaBeach/Malaysia/weilinlai719 vanilla); 14-step PASS no stale handling needed; 6/19 視覺化型錄-recat + 端午節.md 殘留髒 tree 第 7 天未觸碰 (#6/#35 scope)",
+      "articles": []
+    },
     {
       "hash": "195a578994ae1207e04d79d809d870abbd8c5ce0",
       "date": "2026-06-25T22:11:11+08:00",

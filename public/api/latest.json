@@ -1,8 +1,17 @@
 {
-  "_generated": "2026-06-25T15:09:53.716Z",
+  "_generated": "2026-06-25T22:12:15.901Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
+        "desc": "2026 年，資料分析師 Migu 把台灣零散的開放資料，飛機、船、列車、公車、垃圾車，疊成一張會呼吸的地圖。撈資料的苦工交給 AI，但哪幾層疊在一起、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
+        "category": "technology",
+        "href": "/technology/mini-taiwan-pulse",
+        "date": "2026-06-25T23:54:22+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/mini-taiwan-pulse-map-2026.webp"
+      },
       {
         "title": "蓬萊米：一粒米如何改寫台灣百年農業與餐桌風景",
         "desc": "從日治時期磯永吉與末永仁的育種之路，到台中65號的普及，蓬萊米不僅解決了糧食危機，更深刻影響了台灣的社會經濟與文化認同。",
@@ -38,15 +47,6 @@
         "date": "2026-06-25T22:01:29+08:00",
         "readingTime": 24,
         "image": "/article-images/lifestyle/scooters-and-bus-taipei-1996.webp"
-      },
-      {
-        "title": "Mini Taiwan Pulse：台灣的開放資料多到一個人掃不完，他用一雙策展的眼睛把它變成一座會呼吸的島",
-        "desc": "2026 年初，資料分析師 Migu 把一份 CSV 拖進地圖工具，做出第一張台灣地圖，從此停不下來。半年內他長出十幾個開放資料視覺化，旗艦 mini-taiwan-pulse 把飛機、船、列車、公車、垃圾車五脈疊成一張會呼吸的地圖。台灣的開放資料多到一個人掃不完，撈資料的苦工他交給 AI，但哪些資料疊在一起會說故事、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
-        "category": "technology",
-        "href": "/technology/mini-taiwan-pulse",
-        "date": "2026-06-25T21:42:41+08:00",
-        "readingTime": 20,
-        "image": "/article-images/technology/mini-taiwan-pulse-map-2026.webp"
       },
       {
         "title": "龜山島：宜蘭人天天看著的家的方向，島上的人卻回不去的家",

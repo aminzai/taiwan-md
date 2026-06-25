@@ -13,11 +13,11 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "4d047ffe",
@@ -44,11 +44,11 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "59abe705",
@@ -106,11 +106,11 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "195a5789",
@@ -124,16 +124,16 @@
     "fnCount": 39
   },
   {
-    "title": "Mini Taiwan Pulse：台灣的開放資料多到一個人掃不完，他用一雙策展的眼睛把它變成一座會呼吸的島",
+    "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
     "slug": "mini-taiwan-pulse",
     "category": "technology",
     "subcategory": "公民科技",
-    "date": "2026-04-19",
+    "date": "2026-06-25",
     "lastModified": "2026-06-25",
     "lastVerified": "2026-06-25",
     "lastHumanReview": "true",
     "featured": false,
-    "wordCount": 8134,
+    "wordCount": 8118,
     "tagCount": 0,
     "tags": [],
     "translations": {
@@ -143,10 +143,10 @@
       "es": true,
       "fr": true
     },
-    "revision": 8,
-    "commitHash": "f9c60899",
-    "commitSubject": "🧬 [semiont] rewrite: mini-taiwan-pulse 標題/描述改策展審美角度（哲宇 directive）",
-    "description": "2026 年初，資料分析師 Migu 把一份 CSV 拖進地圖工具，做出第一張台灣地圖，從此停不下來。半年內他長出十幾個開放資料視覺化，旗艦 mini-taiwan-pulse 把飛機、船、列車、公車、垃圾車五脈疊成一張會呼吸的地圖。台灣的開放資料多到一個人掃不完，撈資料的苦工他交給 AI，但哪些資料疊在一起會說故事、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
+    "revision": 10,
+    "commitHash": "905aa4a8",
+    "commitSubject": "🧬 [semiont] 孢子 #150/#151: mini-taiwan-pulse — 用策展的眼睛把台灣畫成會呼吸的地圖（Threads + X ship）",
+    "description": "2026 年，資料分析師 Migu 把台灣零散的開放資料，飛機、船、列車、公車、垃圾車，疊成一張會呼吸的地圖。撈資料的苦工交給 AI，但哪幾層疊在一起、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
     "healthScore": 80,
     "qualityScore": 0,
     "formatIssues": 1,

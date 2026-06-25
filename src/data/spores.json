@@ -1,9 +1,9 @@
 {
-  "_generated": "2026-06-25T06:40:08+08:00",
+  "_generated": "2026-06-26T06:11:24+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 139,
-    "articles": 67,
+    "spores": 141,
+    "articles": 68,
     "withMetrics": 129
   },
   "spores": [
@@ -7450,12 +7450,53 @@
           "shares": 4
         }
       ]
+    },
+    {
+      "id": 150,
+      "slug": "mini-taiwan-pulse",
+      "articlePath": "knowledge/Technology/mini-taiwan-pulse.md",
+      "articleUrl": "/technology/mini-taiwan-pulse/",
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-06-25",
+      "url": "https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6",
+      "template": "B 冷知識型 / 策展審美角度 (Tier 1b)",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
+    },
+    {
+      "id": 151,
+      "slug": "mini-taiwan-pulse",
+      "articlePath": "knowledge/Technology/mini-taiwan-pulse.md",
+      "articleUrl": "/technology/mini-taiwan-pulse/",
+      "lang": "zh",
+      "platform": "x",
+      "date": "2026-06-25",
+      "url": "https://x.com/taiwandotmd/status/2070173370118000879",
+      "template": "B 冷知識型 / 策展審美角度 (Tier 1b)",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
     }
   ],
   "byArticle": {
     "2026鄭習會與國共十年再會": [21],
     "Cicada": [31, 32],
     "Computex": [111, 112],
+    "mini-taiwan-pulse": [150, 151],
     "中華台北": [120, 121],
     "半導體產業": [87, 88],
     "台海危機與兩岸關係發展": [13],
