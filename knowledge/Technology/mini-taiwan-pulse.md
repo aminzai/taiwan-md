@@ -21,7 +21,7 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-25
 lastHumanReview: true
-readingTime: 18
+readingTime: 20
 image: '/article-images/technology/mini-taiwan-pulse-map-2026.webp'
 imageCredit: 'Migu / sciwork 2026'
 imageLicense: 'Fair use editorial commentary'
@@ -78,17 +78,53 @@ satellite-arc | 6 | 衛星
 2026-06 | 攤開整套系統 | sciwork 2026 演講：把開放資料交給 Agent 養成的系統
 ```
 
-## 會呼吸的地圖：五脈、孤島，與機場的指紋
+## 同一套做法，從捷運畫到太陽系
 
 而旗艦本身，也在長大。最早的 mini-taiwan-pulse 是天空、海洋、大地三層；到了他演講的版本，已經是「五脈共動」：天空的飛機、海洋的船、大地的列車、街道的公車、還有清運的垃圾車，五種不同頻率的即時資料疊在同一張會呼吸的地圖上。他在簡報裡說，這是這個專案第一次「從靜態 JSON 進化成時空間資料庫」[^3]。光是街道那一層，他說就接了 TDX 上 5,700 多輛公車，每 30 秒更新一次點位。
 
-這片星系最早的火花，是他叫做「Mini Taipei」的台北軌道視覺化。他把捷運、台鐵、高鐵三套軌道系統疊成一張會動的地圖，車子照著班表在線上跑——他說那一刻才「體驗到動態的魅力」，畫面上同時有三百多班列車在動[^3]。一份靜態的時刻表，變成一座城市的呼吸。從那之後，他像上了癮一樣，把同一套「資料變動態」的做法套到越來越大的尺度上。
+![DAY 0 第一張地圖：把一份 CSV 轉成 GeoJSON 拖進 Kepler.gl，沒寫程式就跳出第一張台灣地圖](/article-images/technology/mini-taiwan-kepler-day0-2026.webp)
 
-值得看的，慢慢從「即時的點在動」變成「把本來不相干的資料疊在一起，缺口自己浮出來」。他這片星系裡有幾個專案專門在做這件事。其中一個他叫它「農×水」，把農業、水利、防災三個部會各自的孤島疊成一張圖：農田、河川、溝渠、堤防、淹水潛勢同框。為了讓這張同框的圖在瀏覽器裡跑得動，他用了一種叫 PMTiles 的格式搭配 HTTP range request，把原本 400MB 的資料壓到瀏覽器只需要載入約 5MB[^3]。
+_他演講裡的「DAY 0」：把一份 CSV 轉成 GeoJSON 拖進 Kepler.gl，零行程式就有了第一張台灣地圖，是整片星系的起點。圖：Migu / sciwork 2026（fair use 編輯評論用途）。_
 
-另一個專案把醫院、診所、藥局、AED、長照點位疊在人口密度上，再畫出等時圈，他說這樣「看見可及性，也看見醫療沙漠」，也就是哪些地方的人，距離最近的醫療資源遠到不合理。災害這條線他做得更細：把雷達回波、水庫水位、雨量、災害示警這些更新頻率各不相同的資料，在底層統一成同一個時間軸，使用者只要拖動那條時間軸，全部圖層就一起同步回放。一場大雨從哪裡開始、水庫怎麼漲、警報何時發出，在同一個畫面上連成一條因果線。
+這片星系最早的火花，是他叫做「Mini Taipei」的台北軌道視覺化。他把捷運、台鐵、高鐵三套軌道系統疊成一張會動的地圖，車子照著班表在線上跑，他說那一刻才「體驗到動態的魅力」，畫面上同時有三百多班列車在動[^3]。一份靜態的時刻表，就這樣變成一座城市的呼吸。
 
-還有他那個把每一段航班起降畫成弧線的 flight-arc。同一支 API 餵不同機場，每座機場會浮出一張不一樣的「指紋」：桃園、東京羽田、法蘭克福各有各的形狀。他特別舉了全世界最忙的亞特蘭大機場，五條平行跑道加上等待航線，疊起來的幾何「像賽車場」，他說那一張畫了 1,839 條航跡[^3]。從一份台北的 CSV 出發，他最後連衛星軌道、甚至整個太陽系都畫了，用的都是同一套心法：只要有資料，都可以無限延伸。
+![Mini Taipei 把捷運、台鐵、高鐵三套軌道疊成一張會動的地圖，三百多班列車照班表在線上奔跑](/article-images/technology/mini-taiwan-taipei-rail-2026.webp)
+
+_Mini Taipei：捷運、台鐵、高鐵三套軌道同框，三百多班列車照著班表在線上跑。他說這是他第一次「體驗到動態的魅力」。圖：Migu / sciwork 2026（fair use 編輯評論用途）。_
+
+從那之後，他像上了癮一樣，把同一套「資料變動態」的做法套到越來越大的尺度上。海面上，他接了航港局的 AIS 即時點位，用青藍色的光球加上三十分鐘的漸層拖尾，畫出台灣周邊海域那些船的去向。
+
+![用航港局 AIS 即時點位畫出的台灣周邊海域船舶，青藍光球加三十分鐘漸層拖尾](/article-images/technology/mini-taiwan-ships-ais-2026.webp)
+
+_海洋那一脈：航港局的 AIS 即時點位，青藍光球加三十分鐘漸層拖尾，畫出台灣周邊海域的船。圖：Migu / sciwork 2026（fair use 編輯評論用途）。_
+
+然後他把同一套做法推到了地球之外。用公開的 TLE 軌道參數推算衛星的位置，他畫出衛星過境台灣的軌跡，再順手延伸到整個太陽系。他在簡報裡講得很白：「同一套做法，只要有資料，都可以無限延伸。」[^3]那一刻你會意識到，他著迷的其實是「把資料變成看得見的東西」這件事本身，地圖只是它最早的樣子。
+
+![用公開 TLE 推算的衛星軌道視覺化，同一套方法從台灣地表一路延伸到太空](/article-images/technology/mini-taiwan-satellite-2026.webp)
+
+_同一套做法推到地球之外：用公開 TLE 推算衛星軌道，再延伸到整個太陽系。圖：Migu / sciwork 2026（fair use 編輯評論用途）。_
+
+## 把孤島疊起來：缺口自己浮出來
+
+慢慢地，值得看的東西從「即時的點在動」，變成「把本來不相干的資料疊在一起，缺口自己浮出來」。他這片星系裡有幾個專案專門在做這件事。其中一個他叫它「農×水」，把農業、水利、防災三個部會各自的孤島疊成一張圖：農田、河川、溝渠、堤防、淹水潛勢同框。為了讓這張同框的圖在瀏覽器裡跑得動，他用了一種叫 PMTiles 的格式搭配 HTTP range request，把原本 400MB 的資料壓到瀏覽器只需要載入約 5MB[^3]。
+
+![農×水整合圖：把農田、河川、溝渠、堤防、淹水潛勢這些散在不同部會的開放資料疊進同一張圖](/article-images/technology/mini-taiwan-farm-water-2026.webp)
+
+_農×水：把農業、水利、防災三個部會各自的孤島疊成一張圖，農田、河川、溝渠、堤防、淹水潛勢同框。圖：Migu / sciwork 2026（fair use 編輯評論用途）。_
+
+另一個專案把醫院、診所、藥局、AED、長照點位疊在人口密度上，再畫出等時圈，他說這樣「看見可及性，也看見醫療沙漠」，也就是哪些地方的人，距離最近的醫療資源遠到不合理。
+
+![醫療資源可及性圖：把醫院、診所、藥局、AED、長照點位疊在人口上並畫出等時圈，醫療沙漠自己浮現](/article-images/technology/mini-taiwan-medical-2026.webp)
+
+_醫療資源：把醫院、診所、藥局、AED、長照點位疊在人口上、再畫出等時圈，「看見可及性，也看見醫療沙漠」。圖：Migu / sciwork 2026（fair use 編輯評論用途）。_
+
+災害這條線他做得更細：把雷達回波、水庫水位、雨量、災害示警這些更新頻率各不相同的資料，在底層統一成同一個時間軸，使用者只要拖動那條時間軸，全部圖層就一起同步回放。一場大雨從哪裡開始、水庫怎麼漲、警報何時發出，在同一個畫面上連成一條因果線。
+
+![大雨與災害的時間軸：雷達回波、水庫、雨量、災害示警不同頻率統一在一條時間軸上同步回放](/article-images/technology/mini-taiwan-disaster-2026.webp)
+
+_大雨與災害：雷達回波、水庫、雨量、災害示警在底層統一成同一條時間軸，一拖就全部同步回放。圖：Migu / sciwork 2026（fair use 編輯評論用途）。_
+
+還有他那個把每一段航班起降畫成弧線的 flight-arc。同一支 API 餵不同機場，每座機場會浮出一張不一樣的「指紋」：桃園、東京羽田、法蘭克福各有各的形狀。他特別舉了全世界最忙的亞特蘭大機場，五條平行跑道加上等待航線，疊起來的幾何「像賽車場」，他說那一張畫了 1,839 條航跡[^3]。
 
 ![亞特蘭大機場一段時間內所有航班起降畫成的航跡圖，五條平行跑道加上等待航線疊出像賽車場的幾何形狀](/article-images/technology/mini-taiwan-flight-arc-atlanta-2026.webp)
 
@@ -223,13 +259,25 @@ Migu 自己沒讓它停在那裡。他演講的倒數第二張投影片，標題
 
 ## 專案連結
 
-- **mini-taiwan-pulse（旗艦）**：<https://github.com/ianlkl11234s/mini-taiwan-pulse>
-- **mini-taiwan-info（情勢儀表板）**：<https://github.com/ianlkl11234s/mini-taiwan-info>
-- **flight-arc-graph（航跡）**：<https://github.com/ianlkl11234s/flight-arc-graph>
-- **mini-taiwan-learning-project**：<https://github.com/ianlkl11234s/mini-taiwan-learning-project>
-- **sciwork 2026 演講原始碼**：<https://github.com/ianlkl11234s/0613-sci-work-share>
+**「Mini Taiwan」星系**（台灣開放資料視覺化，皆為 Migu 個人開源專案）
+
+- **mini-taiwan-pulse**：旗艦，五脈共動的即時地圖（375★）— <https://github.com/ianlkl11234s/mini-taiwan-pulse>
+- **mini-taiwan-learning-project**：最早爆紅的台北軌道學習專案（189★）— <https://github.com/ianlkl11234s/mini-taiwan-learning-project>
+- **flight-arc-graph**：航班起降軌跡，每座機場的「指紋」（56★）— <https://github.com/ianlkl11234s/flight-arc-graph>
+- **mini-taiwan-info**：七大主題的台灣情勢監測儀表板 — <https://github.com/ianlkl11234s/mini-taiwan-info>
+- **tw-ship-viz**：船舶 AIS 即時點位視覺化（11★）— <https://github.com/ianlkl11234s/tw-ship-viz>
+- **satellite-arc**：衛星軌道與過境視覺化 — <https://github.com/ianlkl11234s/satellite-arc>
+- **mini-tw-cctv**：全台即時影像 — <https://github.com/ianlkl11234s/mini-tw-cctv>
+- **mini-tw-tra-atlas**：台鐵路網 atlas — <https://github.com/ianlkl11234s/mini-tw-tra-atlas>
+- **taiwan-weather-timelapse**：氣象縮時 — <https://github.com/ianlkl11234s/taiwan-weather-timelapse>
+- **gis-data-collectors**：背後四十多個資料收集器的骨幹 — <https://github.com/ianlkl11234s/gis-data-collectors>
+
+**演講與本人**
+
 - **sciwork 2026 演講線上簡報**：<https://sciwork-showcase.zeabur.app>
-- **開發者 GitHub**：<https://github.com/ianlkl11234s>　**Threads**：[@ianlkl1314](https://www.threads.net/@ianlkl1314)
+- **sciwork 2026 演講原始碼**：<https://github.com/ianlkl11234s/0613-sci-work-share>
+- **開發者 GitHub（Migu）**：<https://github.com/ianlkl11234s>
+- **Threads**：[@ianlkl1314](https://www.threads.net/@ianlkl1314)
 
 ## 參考資料
 
@@ -242,11 +290,9 @@ Migu 自己沒讓它停在那裡。他演講的倒數第二張投影片，標題
 
 本文圖片皆 cache 於 `public/article-images/technology/`，不熱連結來源伺服器。
 
-**Fair use 編輯評論用途**：以下圖片擷取自 Migu 於 sciwork 2026 公開發表的演講簡報（原始碼與線上簡報見上方〈專案連結〉），依著作權法第 65 條及 17 U.S.C. § 107 fair use 四要素（非商業教育性質、已公開發表、引用比例小、對市場無實質替代），作為對其開放資料視覺化工作的編輯評論引用。
+**Fair use 編輯評論用途**：本文所有圖片均擷取自 Migu 於 sciwork 2026 公開發表的演講簡報（原始碼與線上簡報見上方〈專案連結〉），依著作權法第 65 條及 17 U.S.C. § 107 fair use 四要素（非商業教育性質、已公開發表、引用比例小、對市場無實質替代），作為對其開放資料視覺化工作的編輯評論引用。© Migu / sciwork 2026。
 
-- Mini Taiwan Pulse 3D 地圖（題圖）— Migu / sciwork 2026
-- 火災主題分析 pipeline 產出畫面 — Migu / sciwork 2026
-- Agent 編排系統運作畫面 — Migu / sciwork 2026
+涵蓋：Mini Taiwan Pulse 3D 地圖（題圖）、Kepler.gl 起點、台北軌道（Mini Taipei）、船舶 AIS、衛星軌道、農×水與醫療資源整合圖、大雨與災害時間軸、亞特蘭大航跡指紋、火災主題 pipeline 產出、Mini Taiwan Info 儀表板、Agent 編排系統運作畫面。
 
 ---
 
