@@ -28,6 +28,15 @@ imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
 relatedDiary:
   - 2026-06-25-203919-manual-mirror
+sporeLinks:
+  - id: 150
+    platform: 'threads'
+    date: '2026-06-25'
+    url: 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'
+  - id: 151
+    platform: 'x'
+    date: '2026-06-25'
+    url: 'https://x.com/taiwandotmd/status/2070173370118000879'
 ---
 
 # Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖
