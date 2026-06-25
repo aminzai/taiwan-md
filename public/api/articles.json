@@ -7688,6 +7688,17 @@
     "path": "Society/台灣的年級生世代.md"
   },
   {
+    "title": "台灣的公車系統：當新竹客運開走以後，誰來接那些沒有方向盤的人",
+    "description": "2024 年 9 月 15 日早上，銅鑼火車站，30 多人從幼兒園小朋友等到 90 歲長者，搭新竹客運 5658 最後一班。從台北 1977 年第一條聯營路線，到偏鄉一天剩兩班、駕駛平均年齡 51 歲、TPASS 月票讓花蓮搭乘暴增近七成，公車載的始終是沒得選的人：通學的少年、不開車的長者、無車的家庭，而它正從這些人腳下被一條一條抽走。",
+    "category": "Lifestyle",
+    "tags": [],
+    "url": "https://taiwan.md/lifestyle/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%85%AC%E8%BB%8A%E7%B3%BB%E7%B5%B1",
+    "readingTime": 57,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "Lifestyle/台灣的公車系統.md"
+  },
+  {
     "title": "台灣的斜槓世代——一人多職的生存與選擇",
     "description": "當碩士學歷只換得來一間台北套房的租金，斜槓不是選擇，是活下去的數學題",
     "category": "Society",
@@ -20077,6 +20088,17 @@
     "path": "Lifestyle/電競.md"
   },
   {
+    "title": "鼎泰豐：從油行到米其林，一顆小籠包如何征服全球味蕾",
+    "description": "1958年，楊秉彝在台北創立鼎泰豐油行。歷經轉型與二代楊紀華的經營，鼎泰豐以嚴謹的「18摺21克」標準與以人為本的服務哲學，將台灣小籠包推向國際，成為米其林星級餐飲傳奇。",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/food/%E9%BC%8E%E6%B3%B0%E8%B1%90",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "Food/鼎泰豐.md"
+  },
+  {
     "title": "嘉義火雞肉飯：一碗三十元的城市身分證",
     "description": "二戰後美軍把火雞帶進嘉義，一個叫林添壽的師傅把火雞肉切絲淋上滷汁蓋在白飯上。七十年後，這碗三十元的飯成了農糧署票選台灣十大招牌飯第一名。嘉義人可以為了「哪家最好吃」吵一整個過年，但有一件事他們不吵：火雞肉飯就是嘉義的。",
     "category": "Food",
@@ -20972,6 +20994,17 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "ja/Economy/wistron-global-manufacturing-transformation-pioneer.md"
+  },
+  {
+    "title": "蓬萊米：一粒米如何改寫台灣百年農業與餐桌風景",
+    "description": "從日治時期磯永吉與末永仁的育種之路，到台中65號的普及，蓬萊米不僅解決了糧食危機，更深刻影響了台灣的社會經濟與文化認同。",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/history/%E8%93%AC%E8%90%8A%E7%B1%B3",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "History/蓬萊米.md"
   },
   {
     "title": "蔡依林",
@@ -42181,12 +42214,12 @@
     "path": "ko/Technology/mini-taiwan-pulse-civic-tech.md"
   },
   {
-    "title": "Mini Taiwan Pulse：一個資料分析師如何把台灣的交通脈動畫成會呼吸的 3D 光軌",
-    "description": "2026 年 2 月 24 日，一個叫 Migu Cheng 的資料分析師開了 mini-taiwan-pulse 這個 repo，六週後 193 個 commits、241 顆 star：他一個人把 FlightRadar24、TDX、SEGIS、CWA 的開放資料串起來，用 Three.js 把台灣畫成會呼吸的 3D 光軌。台灣的開放資料基礎建設是亞洲前段班，卻很少人看得見那片資料海。公民科技從 g0v 集體黑客松延伸到個人週末專案，視覺化本身就是一種參與。",
+    "title": "Mini Taiwan Pulse：台灣的開放資料多到一個人掃不完，他用一雙策展的眼睛把它變成一座會呼吸的島",
+    "description": "2026 年初，資料分析師 Migu 把一份 CSV 拖進地圖工具，做出第一張台灣地圖，從此停不下來。半年內他長出十幾個開放資料視覺化，旗艦 mini-taiwan-pulse 把飛機、船、列車、公車、垃圾車五脈疊成一張會呼吸的地圖。台灣的開放資料多到一個人掃不完，撈資料的苦工他交給 AI，但哪些資料疊在一起會說故事、用什麼顏色、讓哪一層亮起來，靠的是一雙都市計畫訓練出來的策展眼睛。",
     "category": "Technology",
     "tags": [],
     "url": "https://taiwan.md/technology/mini-taiwan-pulse",
-    "readingTime": 42,
+    "readingTime": 56,
     "featured": false,
     "date": "2026-04-19",
     "path": "Technology/mini-taiwan-pulse.md"

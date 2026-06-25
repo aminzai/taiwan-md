@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-25T06:12:17+08:00",
-    "zhCommitHead": "d8e3f6465",
-    "totalZh": 819,
+    "lastUpdated": "2026-06-25T23:09:35+08:00",
+    "zhCommitHead": "195a57899",
+    "totalZh": 822,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
-        "total_zh": 819,
-        "fresh": 819,
-        "stale": 0,
+        "total_zh": 822,
+        "fresh": 817,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 819,
-        "fresh": 819,
-        "stale": 0,
+        "total_zh": 822,
+        "fresh": 817,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 819,
-        "fresh": 819,
-        "stale": 0,
+        "total_zh": 822,
+        "fresh": 817,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "es": {
-        "total_zh": 819,
-        "fresh": 819,
-        "stale": 0,
+        "total_zh": 822,
+        "fresh": 817,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 819,
-        "fresh": 819,
-        "stale": 0,
+        "total_zh": 822,
+        "fresh": 817,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 3,
         "orphan": 0
       }
     },
@@ -10697,10 +10697,10 @@
     },
     "Technology/mini-taiwan-pulse.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:67b51d615cc671f3",
-        "bodyHash": "sha256:e36cd08c05108020"
+        "lastCommit": "f9c60899",
+        "lastModified": "2026-06-25T21:42:41+08:00",
+        "contentHash": "sha256:3fb65b0d38f162f7",
+        "bodyHash": "sha256:58a7b0305fade1f8"
       },
       "translations": {
         "en": {
@@ -10714,8 +10714,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 4,
+          "diffSummary": "+201 -140"
         },
         "ja": {
           "path": "ja/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -10728,8 +10730,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 4,
+          "diffSummary": "+201 -140"
         },
         "ko": {
           "path": "ko/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -10742,8 +10746,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 4,
+          "diffSummary": "+201 -140"
         },
         "es": {
           "path": "es/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -10756,8 +10762,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 4,
+          "diffSummary": "+201 -140"
         },
         "fr": {
           "path": "fr/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -10770,8 +10778,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 4,
+          "diffSummary": "+201 -140"
         }
       }
     },
@@ -15897,10 +15907,10 @@
     },
     "Lifestyle/台灣交通系統.md": {
       "zh": {
-        "lastCommit": "7678a430",
-        "lastModified": "2026-06-10T12:01:13+08:00",
-        "contentHash": "sha256:f05e6146f7a532ed",
-        "bodyHash": "sha256:9a046555ce3577ad"
+        "lastCommit": "755eeda4",
+        "lastModified": "2026-06-25T22:01:29+08:00",
+        "contentHash": "sha256:beaa2c8eefc377c5",
+        "bodyHash": "sha256:7b8c052d67180597"
       },
       "translations": {
         "en": {
@@ -15914,8 +15924,10 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Lifestyle/transportation-system.md",
@@ -15928,8 +15940,10 @@
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Lifestyle/transportation-system.md",
@@ -15942,8 +15956,10 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Lifestyle/transportation-system.md",
@@ -15956,8 +15972,10 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Lifestyle/transportation-system.md",
@@ -15970,8 +15988,10 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -16132,6 +16152,31 @@
           "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Lifestyle/台灣的公車系統.md": {
+      "zh": {
+        "lastCommit": "195a5789",
+        "lastModified": "2026-06-25T22:11:11+08:00",
+        "contentHash": "sha256:6fd747b2b0893c21",
+        "bodyHash": "sha256:a1e49238035eece5"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -47495,6 +47540,31 @@
         }
       }
     },
+    "Food/鼎泰豐.md": {
+      "zh": {
+        "lastCommit": "4d047ffe",
+        "lastModified": "2026-06-25T22:14:00+08:00",
+        "contentHash": "sha256:bb2620bf409796b4",
+        "bodyHash": "sha256:301051f2bc6e8d30"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "Food/阿婆鐵蛋.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -51732,6 +51802,31 @@
           "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "History/蓬萊米.md": {
+      "zh": {
+        "lastCommit": "59abe705",
+        "lastModified": "2026-06-25T22:15:50+08:00",
+        "contentHash": "sha256:3c85e554c80495b9",
+        "bodyHash": "sha256:39ddb75027efa4b4"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },

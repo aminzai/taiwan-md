@@ -1,7 +1,7 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-06-24T22:12:20Z",
-  "total": 819,
+  "timestamp": "2026-06-25T15:09:38Z",
+  "total": 822,
   "flagged": 327,
   "files": [
     {
@@ -223,11 +223,6 @@
       "file": "technology/國家文化記憶庫.md",
       "score": 6,
       "reasons": "年份2個; 空洞詞5個; 未人工審核; 塑膠句1個; 稀薄段落×3"
-    },
-    {
-      "file": "technology/mini-taiwan-pulse.md",
-      "score": 6,
-      "reasons": "連續bullet4行; 後段清單堆砌45%; 稀薄段落×2"
     },
     {
       "file": "technology/海底電纜.md",
@@ -1268,6 +1263,11 @@
       "file": "history/源興牛與牛肉湯的歷史.md",
       "score": 8,
       "reasons": "空洞詞6個; 未人工審核; 塑膠句2個; 破折號10個; 後段清單堆砌31%; 無腳註"
+    },
+    {
+      "file": "history/蓬萊米.md",
+      "score": 6,
+      "reasons": "年份3個; 空洞詞5個; 未人工審核; 塑膠句5個"
     },
     {
       "file": "history/台灣出國史.md",

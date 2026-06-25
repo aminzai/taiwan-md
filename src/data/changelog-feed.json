@@ -1,7 +1,228 @@
 {
-  "generatedAt": "2026-06-24T22:12:21.546Z",
+  "generatedAt": "2026-06-25T15:09:39.197Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "195a578994ae1207e04d79d809d870abbd8c5ce0",
+      "date": "2026-06-25T22:11:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 2026-06-25-204254-公車系統 — 台灣的公車系統 NEW ship finale + relatedDiary 回扣",
+      "articles": [
+        {
+          "url": "/lifestyle/台灣的公車系統",
+          "name": "台灣的公車系統"
+        }
+      ]
+    },
+    {
+      "hash": "ed8c45ad7427dd8388176902d50970cabac02d58",
+      "date": "2026-06-25T22:17:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-25-220236-twmd-maintainer-pm finale — Handoff 已執行 5/5 (2 hold + 2 merge+heal + 1 issue reply)",
+      "articles": []
+    },
+    {
+      "hash": "59abe705e3e507ce2328aeddd796e0286ca0378e",
+      "date": "2026-06-25T22:15:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 蓬萊米 frontmatter +featured:false + tag quotes + canonical order (ci-deploy gate fix)",
+      "articles": [
+        {
+          "url": "/history/蓬萊米",
+          "name": "蓬萊米"
+        }
+      ]
+    },
+    {
+      "hash": "4d047ffede67bff73d8c5cdff89bef48e2d10934",
+      "date": "2026-06-25T22:14:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 鼎泰豐 author Manus→Contributors + 'Food' subcategory='精緻餐飲' + footnote canonical / 蓬萊米 path knowledge/→History/ + subcategory='殖民與帝國' + frontmatter quotes + footnote canonical (PR #1176 #1177 post-merge)",
+      "articles": [
+        {
+          "url": "/food/鼎泰豐",
+          "name": "鼎泰豐"
+        },
+        {
+          "url": "/history/蓬萊米",
+          "name": "蓬萊米"
+        }
+      ]
+    },
+    {
+      "hash": "3d57b20cc480c324abb7053a65cb89e343ad9f29",
+      "date": "2026-06-25T22:09:53+08:00",
+      "author": "idlccp1984",
+      "message": "feat(content): 蓬萊米 — 一粒米如何改寫台灣百年農業與餐桌風景 (#1176)",
+      "articles": []
+    },
+    {
+      "hash": "93178aa0094edb66531a3d023cdb73736b38ac6a",
+      "date": "2026-06-25T22:09:38+08:00",
+      "author": "idlccp1984",
+      "message": "feat(content): 鼎泰豐 — 從油行到米其林，一顆小籠包如何征服全球味蕾 (#1177)",
+      "articles": [
+        {
+          "url": "/food/鼎泰豐",
+          "name": "鼎泰豐"
+        }
+      ]
+    },
+    {
+      "hash": "755eeda4778b8b3b497f90aeb07b78f66a71e8af",
+      "date": "2026-06-25T22:01:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣的公車系統 NEW — 機車島上「沒有方向盤的人」，和正在從他們腳下先停駛的系統",
+      "articles": [
+        {
+          "url": "/lifestyle/台灣交通系統",
+          "name": "台灣交通系統"
+        },
+        {
+          "url": "/lifestyle/台灣的公車系統",
+          "name": "台灣的公車系統"
+        }
+      ]
+    },
+    {
+      "hash": "e840d56ff9e92b3383e7be03a925f3270a3f13eb",
+      "date": "2026-06-25T21:16:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣的公車系統 Stage 0-1 research SSOT — NEW 文（機車島上沒方向盤的人）",
+      "articles": []
+    },
+    {
+      "hash": "f9c60899a49fd64b8221d87d55a4e7d0807206c0",
+      "date": "2026-06-25T21:42:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: mini-taiwan-pulse 標題/描述改策展審美角度（哲宇 directive）",
+      "articles": [
+        {
+          "url": "/technology/mini-taiwan-pulse",
+          "name": "mini-taiwan-pulse"
+        }
+      ]
+    },
+    {
+      "hash": "b47510ddb46f2ede1c43af8fbfcdbe2fd3a5d9dd",
+      "date": "2026-06-25T21:01:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: mini-taiwan-pulse 補圖 + 完整專案連結 — 更完整地介紹 Migu（哲宇 directive）",
+      "articles": [
+        {
+          "url": "/technology/mini-taiwan-pulse",
+          "name": "mini-taiwan-pulse"
+        }
+      ]
+    },
+    {
+      "hash": "18d4070797598603dd3c2839bcf136ec564a234b",
+      "date": "2026-06-25T20:48:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 2026-06-25-203919-manual — mini-taiwan-pulse EVOLVE 收官 + 趨同演化反芻",
+      "articles": [
+        {
+          "url": "/technology/mini-taiwan-pulse",
+          "name": "mini-taiwan-pulse"
+        }
+      ]
+    },
+    {
+      "hash": "a2a39b6fffec0f54b283f718bfbefbea533d7416",
+      "date": "2026-06-25T20:34:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: mini-taiwan-pulse EVOLVE — 從「一個 repo」到「會自己長大的開放資料系統」",
+      "articles": [
+        {
+          "url": "/technology/mini-taiwan-pulse",
+          "name": "mini-taiwan-pulse"
+        }
+      ]
+    },
+    {
+      "hash": "9acf78a3825b0bf3ea8acfdab77cde1690edb3c7",
+      "date": "2026-06-25T20:02:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: mini-taiwan-pulse EVOLVE Stage 1 research — Migu Cheng 星系 + sciwork 2026 演講全文 verbatim",
+      "articles": []
+    },
+    {
+      "hash": "0614887d1aeb1314f32e7c9ea5dc25e7f2f265a6",
+      "date": "2026-06-25T19:27:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 活著的子代 census 移到 /semiont/speciation（繁殖頁的家）",
+      "articles": []
+    },
+    {
+      "hash": "33caa0e2631dd6cf119a56152401704a6a6a313f",
+      "date": "2026-06-25T19:12:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-25-190718-twmd-rewrite-daily — DEFERRED post-finale saturation + dirty tree vc=3",
+      "articles": []
+    },
+    {
+      "hash": "411fb9f17d465439cd2b8500450d75524dfec9bd",
+      "date": "2026-06-25T18:20:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: fork-census 第二階段接神經系統 — DNA/consciousness/pipeline/飛輪/dashboard 常態 section",
+      "articles": []
+    },
+    {
+      "hash": "6b7f352c0cf0d4efdc197eee9c8609175924061a",
+      "date": "2026-06-25T18:19:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: /semiont 子代普查常態 section — 繁殖器官的公開面孔",
+      "articles": []
+    },
+    {
+      "hash": "7dcfe200915c6faf69bf24640463f11f37dacc4a",
+      "date": "2026-06-25T18:09:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: fork-census 接神經系統 — 繁殖感知基因 + consciousness 子代感知 + data-refresh 飛輪 + 公開 dashboard JSON",
+      "articles": []
+    },
+    {
+      "hash": "576bf700b84d9ea20db339b095e5225e9fbda993",
+      "date": "2026-06-25T17:55:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: fork-census 雷達 — GA 漏水普查 ~8 子代 + lagunabeach 深度解剖",
+      "articles": []
+    },
+    {
+      "hash": "29ca17a488a37eebce4d55df2d3a8f04b7c9bc95",
+      "date": "2026-06-25T08:41:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-25-083948-twmd-maintainer-am — empty cycle vc=4 carry pointer-not-duplicate (canonical maintainer-vc-counting-bias)",
+      "articles": []
+    },
+    {
+      "hash": "07a0adbc3d5451be4334891ed87277563582359f",
+      "date": "2026-06-25T07:08:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: clean no-op 連 6 cycle — 0 new / 0 issue / 0 archive sync — backend 可達靜默鏡像 — 07:00 cron 準時 fire launchd 早晨 window 恢復",
+      "articles": []
+    },
+    {
+      "hash": "c2093a64d69ba0d06ccc7d837e386931d30d1265",
+      "date": "2026-06-25T06:41:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 6 events D+1/D+6/D+11 + 0 Bucket A 連 8 cycle — 2026-06-25",
+      "articles": []
+    },
+    {
+      "hash": "cd39e9a11e1e921d9b6bb14d4befabb082e3b3cb",
+      "date": "2026-06-25T06:15:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-25-061353-twmd-data-refresh-am — am 14-step 三源全綠 + 11/11 fresh 連 30d + 兩條 sensor 轉折確認 (CF 404 11.99→11.74 -0.25pp 升勢回檔 vc=2 reversal 成立 4 升+2 跌 + AI 134K U 形觸底反彈第 3 cycle 140→130→134)",
+      "articles": []
+    },
+    {
+      "hash": "0fcd6dabb8034aeebb13a3665686a364e914544a",
+      "date": "2026-06-25T06:13:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: am 14-step data refresh — 三源全綠 + Step 11 11/11 fresh 連 30d + immune 51→51 chronic flat 重啟第 5 cycle (plugin_health 36 持平 / external_rulers 3.8 持平) + CF 404 11.99→11.74 -0.25pp 升勢回檔第 2 cycle vc=2 轉折確認 + AI 134K +4K 反彈 vs post-NVIDIA decay + i18n stable en820 ja815 ko816 es815 fr816 / 📄zh 817 / stats ⭐1064 持平 / build 175s -6s; 14-step PASS no stale handling needed; 6/19 視覺化型錄-recat 殘留髒 tree 未觸碰 (#6/#35 scope)",
+      "articles": []
+    },
     {
       "hash": "d8e3f6465864f1d2bb467c297a58cbafb92cd287",
       "date": "2026-06-25T05:08:45+08:00",
