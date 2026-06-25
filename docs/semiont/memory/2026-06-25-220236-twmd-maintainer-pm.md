@@ -98,13 +98,18 @@ status: 'canonical'
 
 ## Handoff 三態
 
-**Pending（本 session 動作）**：
+**Pending（本 session 動作 — 全 done）**：
 
-- [ ] #1174 滿月習俗 — comment hold (虛構連結 [^9][^10])
-- [ ] #1178 烏坵 — comment hold (frontmatter + markdown link)
-- [ ] #1176 蓬萊米 — merge + path heal + footnote-format-fix
-- [ ] #1177 鼎泰豐 — merge + author heal
-- [ ] #1175 issue — reply + label `enhancement` + `content`
+- [x] #1174 滿月習俗 — comment hold ([虛構連結 [^9][^10]](https://github.com/frank890417/taiwan-md/pull/1174#issuecomment-4800225492))
+- [x] #1178 烏坵 — comment hold ([frontmatter catastrophic + nested markdown link](https://github.com/frank890417/taiwan-md/pull/1178#issuecomment-4800228068))
+- [x] #1176 蓬萊米 — merge `3d57b20cc` + heal `4d047ffed` + `59abe705e` (path knowledge/→History/ + subcategory '殖民與帝國' + featured:false + tag quotes + footnote canonical) + [thank-you](https://github.com/frank890417/taiwan-md/pull/1176#issuecomment-4800292459)
+- [x] #1177 鼎泰豐 — merge `93178aa00` + heal `4d047ffed` (author Manus→Contributors + subcategory '精緻餐飲' + footnote canonical) + [thank-you](https://github.com/frank890417/taiwan-md/pull/1177#issuecomment-4800291191)
+- [x] #1175 issue — [reply](https://github.com/frank890417/taiwan-md/issues/1175#issuecomment-4800294851) + label `enhancement,content` — 留 哲宇 拍板合併方向（保留鹽/鹹當 canonical / redirect / 兩篇強化交叉引用）
+
+**新 Handoff（給下個 session）**：
+
+- [ ] #1174 / #1178 等 contributor re-push 修正後再 merge（comment 已給明確 actionable）
+- [ ] #1175 待 哲宇 拍板鹽酥雞/鹹酥雞合併方向（自主權邊界 ≥1 lastHumanReview=true 文章 deletion）
 
 **Blocked**：
 
