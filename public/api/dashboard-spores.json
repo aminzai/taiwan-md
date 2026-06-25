@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T22:11:58.461235Z",
+  "lastUpdated": "2026-06-25T22:40:41.762463Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 141,
@@ -32,10 +32,10 @@
       "url": "https://x.com/taiwandotmd/status/2070173370118000879",
       "highlight": "Migu 用都市計畫的眼睛把台灣零散開放資料策展成會呼吸的地圖；AI 是苦工，審美是主角",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 197,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 150,
@@ -48,10 +48,10 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6",
       "highlight": "Migu 用都市計畫的眼睛把台灣零散開放資料策展成會呼吸的地圖；AI 是苦工，審美是主角",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 2425,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 149,
@@ -64,7 +64,7 @@
       "url": "https://x.com/taiwandotmd/status/2069674287964037412",
       "highlight": "黃陳裕阿嬤每天夢見龜山島 — 看得到上不去 vs 回不去的雙鄉愁",
       "views_7d": null,
-      "views_latest": 1111,
+      "views_latest": 1373,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -80,7 +80,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DZ9ZXvIEwhI",
       "highlight": "黃陳裕阿嬤每天夢見龜山島 — 看得到上不去 vs 回不去的雙鄉愁",
       "views_7d": null,
-      "views_latest": 5633,
+      "views_latest": 6925,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -95,10 +95,10 @@
       "template": "B 冷知識型",
       "url": "https://x.com/taiwandotmd/status/2067914171996614897",
       "highlight": "端午節 depth EVOLVE 首發孢子 — 會考立蛋 hook + 藥效過期anchor",
-      "views_7d": null,
-      "views_latest": 11470,
-      "engagements_7d": null,
-      "rate_7d": null,
+      "views_7d": 11500,
+      "views_latest": 11500,
+      "engagements_7d": 194,
+      "rate_7d": 1.69,
       "backfilled": true
     }
   ],
@@ -203,37 +203,21 @@
   "amplification": [],
   "platformComparison": {
     "threads": {
-      "count": 49,
-      "avgViews": 28523,
+      "count": 50,
+      "avgViews": 28096,
       "maxViews": 300000,
-      "avgRate": 6.59,
+      "avgRate": 6.44,
       "maxRate": 16.75
     },
     "x": {
-      "count": 60,
-      "avgViews": 15170,
+      "count": 61,
+      "avgViews": 15109,
       "maxViews": 136474,
-      "avgRate": 3.44,
+      "avgRate": 3.4,
       "maxRate": 9.09
     }
   },
   "backfillWarnings": [
-    {
-      "n": 146,
-      "article": "端午節",
-      "platform": "threads",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://www.threads.com/@taiwandotmd/post/DZw5BYDE_fT"
-    },
-    {
-      "n": 147,
-      "article": "端午節",
-      "platform": "x",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://x.com/taiwandotmd/status/2067914171996614897"
-    },
     {
       "n": 148,
       "article": "龜山島",
@@ -326,17 +310,17 @@
     {
       "week": "2026-W24",
       "published": 8,
-      "avgViews": 44280
+      "avgViews": 44271
     },
     {
       "week": "2026-W25",
       "published": 6,
-      "avgViews": 28228
+      "avgViews": 28234
     },
     {
       "week": "2026-W26",
       "published": 4,
-      "avgViews": 3372
+      "avgViews": 2730
     }
   ],
   "harvestStatus": [
@@ -1637,8 +1621,8 @@
       "publishDate": "2026-06-14",
       "daysSincePublish": 12,
       "withinHarvestWindow": false,
-      "harvestCount": 8,
-      "lastHarvest": "2026-06-25 06:38"
+      "harvestCount": 9,
+      "lastHarvest": "2026-06-26 06:40"
     },
     {
       "n": 139,
@@ -1647,8 +1631,8 @@
       "publishDate": "2026-06-14",
       "daysSincePublish": 12,
       "withinHarvestWindow": false,
-      "harvestCount": 7,
-      "lastHarvest": "2026-06-25 06:38"
+      "harvestCount": 8,
+      "lastHarvest": "2026-06-26 06:40"
     },
     {
       "n": 142,
@@ -1697,8 +1681,8 @@
       "publishDate": "2026-06-19",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-06-25 06:38"
+      "harvestCount": 5,
+      "lastHarvest": "2026-06-26 06:40"
     },
     {
       "n": 147,
@@ -1707,8 +1691,8 @@
       "publishDate": "2026-06-19",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-06-25 06:38"
+      "harvestCount": 5,
+      "lastHarvest": "2026-06-26 06:40"
     },
     {
       "n": 148,
@@ -1717,8 +1701,8 @@
       "publishDate": "2026-06-24",
       "daysSincePublish": 2,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-06-25 06:38"
+      "harvestCount": 2,
+      "lastHarvest": "2026-06-26 06:40"
     },
     {
       "n": 149,
@@ -1727,8 +1711,8 @@
       "publishDate": "2026-06-24",
       "daysSincePublish": 2,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-06-25 06:38"
+      "harvestCount": 2,
+      "lastHarvest": "2026-06-26 06:40"
     },
     {
       "n": 150,
@@ -1737,8 +1721,8 @@
       "publishDate": "2026-06-25",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-06-26 06:40"
     },
     {
       "n": 151,
@@ -1747,8 +1731,8 @@
       "publishDate": "2026-06-25",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-06-26 06:40"
     }
   ]
 }
