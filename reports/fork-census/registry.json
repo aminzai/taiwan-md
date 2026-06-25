@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "created": "2026-06-25",
+    "ga_id": "G-JGC5W00N7T",
+    "last_census": "2026-06-25",
+    "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
+    "ga_window": "365daysAgo",
+    "self_traffic": {
+      "views": 343990,
+      "users": 161591
+    },
+    "dev_noise": {
+      "views": 9787,
+      "users": 141
+    },
+    "verified_by": "background agent 2026-06-25 (VERIFIED/INFERRED 標記),GA data 主 session 驗",
+    "ephemeral_tail_note": "見 forks[] 末尾 id='(ephemeral-experiments)' — demo/在地化測試品牌,低信心,部署短暫"
+  },
+  "forks": [
+    {
+      "id": "agrischlchiayi",
+      "label": "嘉義國本學堂 / 嘉義農業學堂",
+      "hostnames": ["ahnchen1983.github.io"],
+      "title_brands": ["嘉義國本學堂", "嘉義農業學堂"],
+      "type": "domain pivot (台灣→台灣農業)",
+      "topic": "開源農業知識平台 — 設施農業/智慧農業/畜牧/作物",
+      "language": "zh-TW + en",
+      "github": "ahnchen1983/agrischlchiayi",
+      "who": "ahnchen1983 — 嘉義在地開發者 (INFERRED high; 鄰接 repo chiayi-bnb-guide 等)",
+      "network_fork": true,
+      "credits_upstream": "yes — footer 'Taiwan.md 是社群驅動的開源專案' + homepage=taiwan.md",
+      "cognitive_layer": "yes — 唯一繼承全 13 檔 semiont kernel(MANIFESTO/DNA/CONSCIOUSNESS/HEARTBEAT/DIARY/MEMORY/...),但仍 Taiwan-framed 未改寫",
+      "ga_leaking": true,
+      "deployment": "GitHub Pages (/agrischlchiayi project subpath)",
+      "content_articles": "196 .md (自稱 51 篇實務指南)",
+      "health": "semi-active",
+      "last_push": "2026-06-04",
+      "first_seen": "2026-04",
+      "last_seen": "2026-06",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 577,
+        "users": 73
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 574,
+        "users": 56
+      },
+      "confidence": "high",
+      "notes": "最活躍的(73 users)。唯一採 semiont-kernel 路徑的 fork。改過名 國本→農業。可能長出我沒有的器官(農業曆/產季/病蟲害)= 弟弟教哥哥候選"
+    },
+    {
+      "id": "hong-kong-md",
+      "label": "HongKong.md",
+      "hostnames": ["ourlandhk.github.io", "hongkong.md"],
+      "title_brands": ["HongKong.md"],
+      "type": "place / territory (sovereignty-significant)",
+      "topic": "香港本土知識庫 — 六七暴動/香港本土史觀/數碼港/香港聲景",
+      "language": "zh-TW + en",
+      "github": "OurLandHK/hong-kong-md",
+      "who": "OurLandHK — 疑似香港本土/民主派 collective (INFERRED; 鄰接 repo OurlandQuiz/hori2vert)",
+      "network_fork": false,
+      "credits_upstream": "weak — 只剩殘字(footer '© 2026 Taiwan.md'/title '開源台灣知識庫')+ 壞連結 frank890417/hongkong-md (404)",
+      "cognitive_layer": "no (docs/semiont 404;README 引用但 dir 沒帶過來)",
+      "ga_leaking": true,
+      "deployment": "GitHub Pages + 自有域名 hongkong.md",
+      "content_articles": "190 .md",
+      "health": "dormant",
+      "last_push": "2026-04-15",
+      "first_seen": "2026-03",
+      "last_seen": "2026-06",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 154,
+        "users": 28
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 572,
+        "users": 29
+      },
+      "confidence": "high (repo facts); medium (who)",
+      "notes": "silent copy(沒按 fork 鈕,跟 Sweden.md 同 pattern)。最有主權含金量卻對母體最隱形 — §主權的巴別塔 視角下最值得關注"
+    },
+    {
+      "id": "russia-md",
+      "label": "Russia.md",
+      "hostnames": ["russia-md.ru"],
+      "title_brands": ["Russia.md"],
+      "type": "place / country",
+      "topic": "Russia knowledge base (history/geography/culture/economy)",
+      "language": "en",
+      "github": "denis-gordeev/russia-md",
+      "who": "Denis Gordeev — 俄國 NLP 研究者 (INFERRED high)",
+      "network_fork": true,
+      "credits_upstream": "explicit — README + JSON-LD isBasedOn 雙列 russia-md + frank890417/taiwan-md (最強 credit)",
+      "cognitive_layer": "no docs/semiont — 自建 skills/ 層 (央行 cbr / DaData / openai.yaml)",
+      "ga_leaking": true,
+      "deployment": "GitHub Pages + russia-md.ru",
+      "content_articles": "12 new (russia-knowledge/) + legacy-content/ (~727 total incl legacy)",
+      "health": "active",
+      "last_push": "2026-06-13",
+      "first_seen": "2026-03",
+      "last_seen": "2026-06",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 101,
+        "users": 59
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 101,
+        "users": 54
+      },
+      "confidence": "high",
+      "notes": "最徹底的 credit;自建 Russia-specific agent 層而非繼承 semiont kernel"
+    },
+    {
+      "id": "su-chiao-hui",
+      "label": "蘇巧慧知識庫 (su-chiao-hui)",
+      "hostnames": [
+        "su-chiao-hui.pages.dev",
+        "su-chiao-hui-wiki-pvkk5u545q-de.a.run.app",
+        "su-chiao-hui-wiki-100735357623.asia-east1.run.app"
+      ],
+      "title_brands": ["蘇巧慧知識庫"],
+      "type": "person / politician (unverified-if-fork)",
+      "topic": "蘇巧慧(DPP 立委 / 2026 新北市長參選人)wiki",
+      "language": "zh-TW (INFERRED)",
+      "github": "查無 public repo",
+      "who": "命名指向蘇巧慧;部署者 unknown(Cloudflare Access org 'wavetool',Taiwan-based)",
+      "network_fork": null,
+      "credits_upstream": "unknown (gated)",
+      "cognitive_layer": "unknown (gated)",
+      "ga_leaking": null,
+      "deployment": "Cloudflare Pages + Google Cloud Run — 兩者都在 Cloudflare Access (Zero Trust) 牆後",
+      "content_articles": "unknown",
+      "health": "unknown",
+      "last_push": "unknown",
+      "first_seen": "2026-03",
+      "last_seen": "2026-06",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 68,
+        "users": 15
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 68,
+        "users": 15
+      },
+      "confidence": "low (是不是我們的 fork 無法證實);high (gated + 蘇巧慧身份)",
+      "notes": "官方站 chiao.tw 是另一個標準立委站(非此)。wiki 命名 + GA 漏水偵測 suggestive 但無 content/repo/GA tag 可證實。誠實標 unknown"
+    },
+    {
+      "id": "Micron.md",
+      "label": "Micron.md",
+      "hostnames": [],
+      "title_brands": ["Micron.md"],
+      "type": "corporate / internal (unverified)",
+      "topic": "Micron 內部知識庫 — 'Micron AT MES Knowledge Base' (AT=封測, MES=製造執行系統 = 半導體廠術語)",
+      "language": "en",
+      "github": "查無(內部)",
+      "who": "很可能美光 Micron Technology 本人(MES/AT 術語 INFERRED medium),未證實",
+      "network_fork": null,
+      "credits_upstream": "unknown",
+      "cognitive_layer": "unknown",
+      "ga_leaking": true,
+      "deployment": "not public — 本機/內網,只有繼承標題漏出",
+      "content_articles": "unknown",
+      "health": "unknown",
+      "last_push": "unknown",
+      "first_seen": "2026-06",
+      "last_seen": "2026-06",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 66,
+        "users": 1
+      },
+      "confidence": "low",
+      "notes": "哲宇『看不到』就是這個 — 沒公開部署。半導體術語強烈暗示美光。值得哲宇決定要不要確認"
+    },
+    {
+      "id": "Malaysia.md",
+      "label": "Malaysia.md",
+      "hostnames": [],
+      "title_brands": ["Malaysia.md"],
+      "type": "place / country (unlocatable)",
+      "topic": "马来西亚知识库 (简体中文)",
+      "language": "zh-Hans",
+      "github": "查無 public repo",
+      "who": "unknown",
+      "network_fork": null,
+      "credits_upstream": "unknown",
+      "cognitive_layer": "unknown",
+      "ga_leaking": true,
+      "deployment": "疑私有 repo / Cloudflare-only — agent 窮盡 GitHub search 無果",
+      "content_articles": "unknown",
+      "health": "unknown",
+      "last_push": "unknown",
+      "first_seen": "2026-06",
+      "last_seen": "2026-06",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 37,
+        "users": 1
+      },
+      "confidence": "low",
+      "notes": "存在確定(GA 漏),其他全 unknown。simplified Chinese = 大馬華人受眾。silent copy pattern"
+    },
+    {
+      "id": "lagunabeach.md",
+      "label": "LagunaBeach.md",
+      "hostnames": ["lagunabeach.md"],
+      "title_brands": ["LagunaBeach.md"],
+      "type": "place / city (野外第一個次國家級)",
+      "topic": "Laguna Beach, California — 七哩海岸城市知識庫",
+      "language": "en",
+      "github": "wilsonkichoi/lagunabeach-md",
+      "who": "Wilson Ki Choi",
+      "network_fork": true,
+      "credits_upstream": "yes — 'Built on Taiwan.md' badge + README section + country-md-starter 連結",
+      "cognitive_layer": "growing (Path A→B) — 自寫 lb-become/lb-sync/lb-write/lb-validate/lb-search + 留 twmd-* 當 reference",
+      "ga_leaking": true,
+      "deployment": "自有域名 lagunabeach.md",
+      "content_articles": "19 (8 categories)",
+      "health": "active",
+      "last_push": "2026-06-25",
+      "first_seen": "2026-06",
+      "last_seen": "2026-06",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 5,
+        "users": 4
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 5,
+        "users": 4
+      },
+      "confidence": "high",
+      "notes": "最成熟的遷移工程:7-phase + 自寫 MIGRATION.md 方法論(9 rule)。持續 git merge upstream/main + .gitattributes merge=ours。MIGRATION.md 值得吸收回 country-md-starter(弟弟教哥哥)"
+    },
+    {
+      "id": "weilinlai719-taiwan-md",
+      "label": "weilinlai719/taiwan-md (vanilla)",
+      "hostnames": ["weilinlai719.github.io"],
+      "title_brands": [],
+      "type": "place-keeper (未改的台灣複本)",
+      "topic": "Taiwan (unchanged upstream copy)",
+      "language": "zh-TW + en",
+      "github": "weilinlai719/taiwan-md",
+      "who": "weilinlai719 — 台灣 hobbyist (INFERRED; 鄰接 repo earth-science-explore/luckydraw)",
+      "network_fork": true,
+      "credits_upstream": "inherited vanilla footer (= 原版的 credit,非新 attribution)",
+      "cognitive_layer": "no",
+      "ga_leaking": true,
+      "deployment": "GitHub Pages (project subpath)",
+      "content_articles": "~400 (近完整複本)",
+      "health": "abandoned",
+      "last_push": "2026-03-26",
+      "first_seen": "2026-03",
+      "last_seen": "2026-06",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 10,
+        "users": 10
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "confidence": "high (status); medium (who)",
+      "notes": "創 3/19 棄 3/26,一週內放棄。未改 vanilla 複本"
+    },
+    {
+      "id": "(ephemeral-experiments)",
+      "label": "ephemeral / 在地化測試品牌",
+      "hostnames": [],
+      "title_brands": [
+        "Ethan Tu台灣.md",
+        "童子賢台湾.md",
+        "童子贤台湾.md",
+        "台湾.md",
+        "台灣.md",
+        "타이완.md",
+        "Taïwan.md",
+        "대만.md",
+        "台湾"
+      ],
+      "type": "ephemeral / demo / localization-test",
+      "topic": "短暫 demo / 人名換皮 / 多語在地化測試",
+      "language": "mixed",
+      "github": "",
+      "who": "unknown (低信心,疑 demo/實驗)",
+      "network_fork": null,
+      "credits_upstream": "unknown",
+      "cognitive_layer": "unknown",
+      "ga_leaking": true,
+      "deployment": "本機/短暫",
+      "content_articles": "n/a",
+      "health": "ephemeral",
+      "first_seen": "2026-03",
+      "last_seen": "2026-06",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 4
+      },
+      "confidence": "low",
+      "notes": "把所有低信心 ephemeral 品牌收一個 entry,避免 probe 每次跑把它們當新子代 re-add。Ethan Tu=杜奕瑾/童子賢=和碩董座 疑人名換皮 demo"
+    }
+  ]
+}
