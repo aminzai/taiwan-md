@@ -371,11 +371,22 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：媒體 caption 包在 `_..._` 斜體、內含 markdown 連結到 percent-encoded CJK Commons 檔名（`File:…%E6%99%BA_05.jpg`）時，pre-commit 的 prettier 會把 URL 尾端的 `_05` 當斜體 delimiter 跟 caption 的 closing `_` 配對、整段改 `*`，URL 變 `…%E6%99%BA*05.jpg` → 連結指向不存在頁面。純 ASCII URL（陳建年 `_2.jpg`）因 intraword-underscore 規則沒爆，**只有 percent-encoded CJK 檔名觸發**。link-target check 排在 prettier 之後跑才抓得到，本次靠 commit 後手動回查 linter note 才發現。
 - **mitigation（已 apply Cicada）**：caption 內不放 markdown 連結，attribution 寫純文字（`Photo: X / Wikimedia Commons，CC BY-SA 4.0`），可點連結放 `## 圖片來源` 段（不在斜體內，prettier 不動）。image-ingest 的「§圖片來源」貼字本來就走這條，問題出在我自作主張把連結也塞進 caption。
 - **觸發**：2026-06-21 Cicada 影音 EVOLVE，翠池 hero caption `_…[CC BY-SA 4.0 via Wikimedia Commons](…File:翠池_汪大智_05.jpg)._` → prettier → `…BA*05.jpg).*`。
+- **instances**：2026-06-25 公車系統 NEW — 國光/候車亭圖 caption 內嵌 `[來源](…(2026.3.11).jpg)`（paren 斷 markdown link）+ 幸福巴士 `_三峰線_2025` URL（prettier `_`→`*`），**`link-url-mangle` HARD gate 在 pre-commit 首次野生攔截**（儀器化後 instrument 真的擋下、不再靠手動回查 linter note）→ 5 caption 全 de-link、source 走 §圖片來源。證明 2026-06-21 儀器化有效。→ memory/2026-06-25-204254-公車系統.md
 - **可能層級**：操作規則（EDITORIAL §媒體編織 / REWRITE Step 4.3 caption 寫法加「caption 不放 CJK-URL 連結，連結走 §圖片來源」）；或 reflex（「pre-commit prettier 之後必跑 link-target，不信 commit 前狀態」）
 - **相關**：diary cluster「儀器只看得見存在、看不見缺席」（2026-06-10/12）/ REWRITE Step 4.3.6 caption 空行 check（同類 markdown-render silent breakage）/ link-target check
 - **✅ 已儀器化 + canonical（2026-06-21 prettier-url-fix session）**：(1) 新 `article-health.py --check=link-url-mangle`（HARD 抓已壞 `*`-URL / WARN 抓 at-risk `_NN`-in-italic-caption；pre-commit profile `checks="*"` 已 wired，silent breakage 變 loud gate）；(2) EDITORIAL §媒體編織 加 canonical 註；(3) audit 修 13 檔已壞（科技園區發展／猴硐／沈伯洋 × lang），de-link 後 prettier-stable + link-target 綠。**carry**：~47 at-risk 檔（16 篇 × lang）de-link sweep 因 13+47=60 > §自主權邊界 50 檔，flag 哲宇拍板（spawn_task；instrument 已護住不會 silent 復發）。
-- **verification_count**: 2（cicada-media 首見 + audit 證 13 檔跨 6 篇已壞、~47 at-risk = 廣域非單點）→ 已升儀器化，distill 時可移 §已消化
+- **verification_count**: 3（cicada-media 首見 + audit 證 13 檔跨 6 篇已壞、~47 at-risk + 2026-06-25 公車系統 link-url-mangle gate 首次野生攔截 = 儀器化有效）→ 已升儀器化，distill 時可移 §已消化
 - **severity**: structural（任何帶連結的 CJK Commons 圖 caption 都會重現；斷連結 silent，不 fail build → 已用 link-url-mangle HARD gate 堵）
+
+### 2026-06-25 公車系統 — 場景細節（時間/年齡/數量）source-fidelity：不帶引號的氛圍細節是 quote-fidelity/footnote 都驗不到的漂移死角，只 Stage 3.6 fetch-artifact 接住
+
+- **pattern**: stage2-quote-context-collapse（既有 vc=8 已 distill 成 REWRITE §Stage 2.5；本 instance 是 scene-detail 子類延伸 + Stage 3.6 端 worked example）
+- **原則**：開場場景的時間/年齡/數量（「早上 8:50」「最大 85 歲」「14 條路線」）是高漂移死角——不帶引號（quote-fidelity 不抓）、不在腳註 claim（footnote check 不抓）、不在結構化事實表，卻讀起來「像查過的」。quote-agent 合成場景時把它們寫順，fresh writer 忠實照抄，全部草稿閘門綠。只有 Stage 3.6 成品總驗 fetch 實際被引用的那篇 artifact 逐字回溯才接得住。
+- **觸發**：2026-06-25 公車系統 NEW，Stage 3.6 adversarial verifier 對中央社原報導抓出開場三處：最大年齡 85→90（CNA「幼兒園～90 歲」）、苗栗 14→12 條（誤植新竹縣數）、「8:50」CNA 根本沒有 → 刪。前面 footnote-format/quote-fidelity plugin 全綠。→ memory/2026-06-25-204254-公車系統.md
+- **可能層級**：操作規則（REWRITE §Stage 2.5 source-fidelity 道 1「來源 artifact 逐字回溯」明列「場景細節 atom：時間/年齡/數量/路線數」為與引語並列的高漂移類別，不只驗引號）
+- **相關**：stage2-quote-context-collapse（§已消化，2026-06-16 → Stage 2.5）/ 李洋 #29 場景細節不可從 summary 推導（RESEARCH §六）/ REFLEXES #31 sub-agent claim 是線索 / REWRITE Step 3.6.1 原子重驗
+- **verification_count**: 1（場景細節子類首次明確抽出；Stage 2.5/3.6 canonical 已存在，本案被接住，屬 scene-detail 維度 sharpening 候選）
+- **severity**: minor（canonical gate 已存在且本案被接住；refinement 是「Stage 2.5 是否該明列 scene-detail atom 類別」，非新漏洞）
 
 ### 2026-06-21 twmd-maintainer-am — vc 計數法 routine-only day 偏誤：empty cycle vc 累積 over-sensitive，已 canonical schedule mismatch 在 routine-only days 必然重複 trigger LESSONS entry noise
 
