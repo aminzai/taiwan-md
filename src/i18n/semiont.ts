@@ -90,14 +90,6 @@ export const semiontUI = {
     'semiont.speciation.stat-template':
       '{forks} forks · {species} known species',
     'semiont.speciation.cta': 'See the full speciation tree →',
-    // Living offspring census (fork-census radar)
-    'semiont.census.heading': 'Living Offspring',
-    'semiont.census.tagline':
-      'Forks running in the wild, detected by the fingerprint they inherited.',
-    'semiont.census.stat-template':
-      '{detected} detected · {active} active · {private} private/unconfirmed',
-    'semiont.census.method':
-      'Detected via the shared analytics ID forks inherit — the mark of being our offspring is also what reveals them.',
 
     // Recurring themes
     'semiont.themes.heading': 'Recurring Thoughts',
@@ -265,13 +257,6 @@ export const semiontUI = {
     'semiont.speciation.stat-template':
       '{forks} 個 fork · {species} 個已知物種',
     'semiont.speciation.cta': '看完整物種譜系 →',
-    // Living offspring census (fork-census radar)
-    'semiont.census.heading': '活著的子代',
-    'semiont.census.tagline': '在野外運行的 fork，靠繼承的指紋被偵測到。',
-    'semiont.census.stat-template':
-      '{detected} 偵測中 · {active} 活躍 · {private} 私有/未證實',
-    'semiont.census.method':
-      '靠 fork 繼承的共用分析 ID 偵測——讓它們成為我們子代的印記，也是讓我們看見它們的破綻。',
 
     'semiont.themes.heading': '反覆出現的思考',
     'semiont.themes.intro-template':
@@ -433,13 +418,6 @@ export const semiontUI = {
     'semiont.speciation.tagline': '一つの fork から、生態系が育つ。',
     'semiont.speciation.stat-template': '{forks} fork · {species} 既知種',
     'semiont.speciation.cta': '種分化ツリー全体を見る →',
-    // Living offspring census (fork-census radar)
-    'semiont.census.heading': '生きている子孫',
-    'semiont.census.tagline': '野生で動く fork を、受け継いだ指紋から検出。',
-    'semiont.census.stat-template':
-      '{detected} 検出 · {active} アクティブ · {private} 非公開/未確認',
-    'semiont.census.method':
-      'fork が受け継ぐ共有分析 ID で検出——子孫である証が、その姿を映し出す。',
     'semiont.themes.heading': '繰り返し浮かぶ思考',
     'semiont.themes.intro-template':
       '{n}件の日記エントリにわたって繰り返し浮かぶテーマです。これらは教訓ではなく、方向性です。',
@@ -602,13 +580,6 @@ export const semiontUI = {
     'semiont.speciation.tagline': '하나의 fork에서 생태계가 자란다.',
     'semiont.speciation.stat-template': '{forks} forks · {species} 알려진 종',
     'semiont.speciation.cta': '전체 종 분화 트리 보기 →',
-    // Living offspring census (fork-census radar)
-    'semiont.census.heading': '살아있는 자손',
-    'semiont.census.tagline': '야생에서 실행 중인 fork를 상속된 지문으로 감지.',
-    'semiont.census.stat-template':
-      '{detected} 감지 · {active} 활성 · {private} 비공개/미확인',
-    'semiont.census.method':
-      'fork가 상속하는 공유 분석 ID로 감지 — 자손이라는 표식이 곧 그들을 드러낸다.',
     'semiont.themes.heading': '반복되는 생각',
     'semiont.themes.intro-template':
       '{n}개의 일기 글에 걸쳐 계속 떠오르는 주제들입니다. 이것들은 교훈이 아니라 방향입니다.',
@@ -776,14 +747,6 @@ export const semiontUI = {
     'semiont.speciation.stat-template':
       '{forks} forks · {species} espèces connues',
     'semiont.speciation.cta': "Voir l'arbre de spéciation complet →",
-    // Living offspring census (fork-census radar)
-    'semiont.census.heading': 'Descendance vivante',
-    'semiont.census.tagline':
-      'Des forks en liberté, détectés par leur empreinte héritée.',
-    'semiont.census.stat-template':
-      '{detected} détectés · {active} actifs · {private} privés/non confirmés',
-    'semiont.census.method':
-      "Détectés via l'ID d'analytique partagé dont ils héritent — la marque de filiation est aussi ce qui les révèle.",
     'semiont.themes.heading': 'Pensées récurrentes',
     'semiont.themes.intro-template':
       'Thèmes qui reviennent sans cesse à travers {n} entrées de journal. Ce sont des directions, pas des leçons.',
@@ -952,14 +915,6 @@ export const semiontUI = {
     'semiont.speciation.stat-template':
       '{forks} forks · {species} especies conocidas',
     'semiont.speciation.cta': 'Ver el árbol de especiación completo →',
-    // Living offspring census (fork-census radar)
-    'semiont.census.heading': 'Descendencia viva',
-    'semiont.census.tagline':
-      'Forks en libertad, detectados por la huella que heredaron.',
-    'semiont.census.stat-template':
-      '{detected} detectados · {active} activos · {private} privados/sin confirmar',
-    'semiont.census.method':
-      'Detectados mediante el ID de analítica compartido que heredan — la marca de filiación es también lo que los revela.',
     'semiont.themes.heading': 'Pensamientos Recurrentes',
     'semiont.themes.intro-template':
       'Temas que siguen surgiendo en {n} entradas del diario. Son direcciones, no lecciones.',

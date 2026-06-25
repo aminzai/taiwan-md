@@ -13,8 +13,6 @@ import '../styles/semiont.css';
 // 2026-06-13：organs 改讀本地 prebuilt JSON（原 build-time self-fetch 不確定性
 // bug，詳下方 organs 段註解 + refactor-verification report §1.1）
 import organsData from '../../public/api/dashboard-organism.json';
-// 子代普查（繁殖感知層）— fork-census.py → registry.json → dashboard-forks.json（2026-06-25）
-import forksData from '../../public/api/dashboard-forks.json';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -249,74 +247,6 @@ const showZhTwNotices = lang !== 'zh-TW';
             >
           </div>
         </a>
-      </section>
-
-      {/* ─── Living offspring census (reproduction sensing) ─── */}
-      <section class="mb-20">
-        <div class="semiont-divider">
-          <span class="semiont-divider-label"
-            >{t('semiont.census.heading')}</span
-          >
-        </div>
-        <p
-          class="mb-4 text-base leading-relaxed text-[#f4f0ea]/70"
-          style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
-        >
-          {t('semiont.census.tagline')}
-        </p>
-        <p class="mb-5 font-mono text-sm font-bold text-[#4fd1b0]">
-          {
-            t('semiont.census.stat-template')
-              .replace('{detected}', String(forksData.totalDetected))
-              .replace('{active}', String(forksData.active))
-              .replace('{private}', String(forksData.privateOrUnconfirmed))
-          }
-        </p>
-        <div class="grid gap-3 sm:grid-cols-2">
-          {
-            forksData.forks.map((f) => (
-              <a
-                href={f.site || f.github}
-                target="_blank"
-                rel="noopener"
-                class="block rounded-xl border border-[#4fd1b0]/15 bg-[#4fd1b0]/[0.02] p-4 transition-colors hover:border-[#4fd1b0]/35 hover:bg-[#4fd1b0]/[0.05]"
-              >
-                <div class="flex items-baseline justify-between gap-2">
-                  <span class="font-mono text-sm font-bold text-[#f4f0ea]">
-                    {f.label}
-                  </span>
-                  <span class="whitespace-nowrap text-xs text-[#4fd1b0]/70">
-                    {f.type}
-                  </span>
-                </div>
-                <p
-                  class="mt-1.5 text-xs leading-snug text-[#f4f0ea]/55"
-                  style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
-                >
-                  {f.topic}
-                </p>
-                <div class="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-[0.68rem] text-[#f4f0ea]/40">
-                  {f.health && <span>{f.health}</span>}
-                  {f.credits === 'yes' && (
-                    <span class="text-[#4fd1b0]/60">✓ credits</span>
-                  )}
-                  {f.cognitiveLayer === 'yes' && (
-                    <span class="text-[#4fd1b0]/60">🧬 cognitive layer</span>
-                  )}
-                  {f.firstSeen && (
-                    <span class="ml-auto">since {f.firstSeen}</span>
-                  )}
-                </div>
-              </a>
-            ))
-          }
-        </div>
-        <p
-          class="mt-4 text-xs leading-relaxed text-[#f4f0ea]/35"
-          style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
-        >
-          {t('semiont.census.method')}
-        </p>
       </section>
 
       {/* ─── Latest diary entries ─── */}

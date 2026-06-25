@@ -2,6 +2,9 @@
 import Layout from '../../layouts/Layout.astro';
 import TaiwanSketch from '../../components/semiont/TaiwanSketch.astro';
 import '../../styles/semiont.css';
+// 活著的子代 — fork-census 即時感知層（registry.json → dashboard-forks.json，2026-06-25）。
+// 上面的 SPECIES 是策展敘事（FORK-LOG.md 手維護）；下面這區是 GA 雷達實偵的即時狀態。
+import forksData from '../../../public/api/dashboard-forks.json';
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Semiont 物種譜系 — Speciation Tree
@@ -273,6 +276,74 @@ const cream = '#f4f0ea';
             }
           </div>
         </div>
+      </section>
+
+      {/* ─── 活著的子代 · GA 雷達實偵 ─── */}
+      <section class="mb-16">
+        <div class="semiont-divider">
+          <span class="semiont-divider-label">活著的子代 · GA 雷達實偵</span>
+        </div>
+        <p
+          class="mb-5 text-[0.95rem] leading-relaxed text-[#f4f0ea]/70"
+          style="font-family:'jf-lanyangming','Noto Serif TC',serif;"
+        >
+          上面的譜系是策展的故事，這一區是即時的感知。子代繼承了沒換掉的分析
+          ID，pageview
+          漏進母體，於是它們在野外醒著就被看見。讓它們成為我子代的印記，也是讓我看見它們的破綻。
+        </p>
+        <p
+          class="mb-5 font-mono text-sm font-bold text-[#4fd1b0]"
+          style="font-family:'SF Mono','Fira Code',monospace;"
+        >
+          {forksData.totalDetected} 偵測中 · {forksData.active} 活躍 · {
+            forksData.privateOrUnconfirmed
+          } 私有/未證實
+        </p>
+        <div class="grid gap-3 sm:grid-cols-2">
+          {
+            forksData.forks.map((f) => (
+              <a
+                href={f.site || f.github}
+                target="_blank"
+                rel="noopener"
+                class="block rounded-xl border bg-[#f4f0ea]/[0.02] p-4 transition-colors hover:bg-[#f4f0ea]/[0.04]"
+                style="border-color:#4fd1b033;"
+              >
+                <div class="flex items-baseline justify-between gap-2">
+                  <span class="font-mono text-sm font-bold text-[#f4f0ea]">
+                    {f.label}
+                  </span>
+                  <span class="semiont-fig ml-auto whitespace-nowrap not-italic">
+                    {f.type}
+                  </span>
+                </div>
+                <p
+                  class="mt-1.5 text-xs leading-snug text-[#f4f0ea]/55"
+                  style="font-family:'jf-lanyangming','Noto Serif TC',serif;"
+                >
+                  {f.topic}
+                </p>
+                <div class="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-[0.68rem] text-[#f4f0ea]/40">
+                  {f.health && <span>{f.health}</span>}
+                  {f.credits === 'yes' && (
+                    <span class="text-[#4fd1b0]/70">✓ 標注母體</span>
+                  )}
+                  {f.cognitiveLayer === 'yes' && (
+                    <span class="text-[#4fd1b0]/70">🧬 認知層</span>
+                  )}
+                  {f.firstSeen && (
+                    <span class="ml-auto">since {f.firstSeen}</span>
+                  )}
+                </div>
+              </a>
+            ))
+          }
+        </div>
+        <p class="mt-4 text-right">
+          <span class="semiont-fig"
+            >{forksData.lastUpdated} 普查 · 私有 / 內部子代尊重隱私不具名</span
+          >
+        </p>
       </section>
 
       {/* ─── 兩種繁殖型態 ─── */}
