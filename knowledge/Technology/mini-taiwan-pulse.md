@@ -26,6 +26,8 @@ image: '/article-images/technology/mini-taiwan-pulse-map-2026.webp'
 imageCredit: 'Migu / sciwork 2026'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
+relatedDiary:
+  - 2026-06-25-203919-manual-mirror
 ---
 
 # Mini Taiwan Pulse：台灣的開放資料多到一個人掃不完，他乾脆把資料交給會自己長大的系統
