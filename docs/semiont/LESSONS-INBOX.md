@@ -314,6 +314,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-06-25 203919-manual — spore post-ship verify 要查 post URL，不查 profile feed（propagation lag 差點重發）
+
+孢子 #150 Threads 發完，去 @taiwandotmd profile feed 連刷三次（含 hard reload）都找不到新貼文 → 誤判「沒發成功」、差點重發整則（哲宇貼出實際 post URL `DaA6aTRk7e6` 才確認其實秒發成功）。根因：profile feed 有 propagation / cache lag，但貼文本身發布即成功。這是 SPORE-HARVEST pitfall #6「duplicate ship」的鏡像——pitfall #6 是「以為失敗（dialog state）其實成功」導致重發，本案是「以為失敗（feed 沒出現）其實成功」也險些重發，同一根因：**post-ship verify 驗證對象選錯**。
+
+**修補方向**：post-ship verify 不靠 profile feed 列表（會 lag），改**直接 navigate 剛發的 canonical post URL** 驗 hook / 圖 / UTM。Threads 發完 dialog 關閉 ≈ 成功訊號，但要拿到 post URL 才算 verify pass（不要用 feed 列表判斷成敗）。SPORE-PIPELINE §SHIP step 5 + SPORE-HARVEST pitfall #6 可加這條。
+
+同 session 附帶小教訓（不單獨開 entry）：多段中文 JXA clipboard paste 時，觀察者同時在剪貼別的東西會洗掉 clipboard → 殘缺貼上；不是結構 bug，是長 session 人機共用 clipboard 的競爭，重貼前先確認 clipboard 內容。
+
+- **severity**: operational（near-miss，未實際重發）
+- **verification_count**: 1（首次記錄；SPORE-HARVEST pitfall #6 是相反方向的 prior art，可一起 distill）
+
+---
+
 ### 2026-06-24 211808-manual — 衍生關係 frontmatter 指標的編輯日期中性化是一類可複用 pattern（content-dates 排除組）
 
 - **pattern**: derived-pointer-date-neutral
