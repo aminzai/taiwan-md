@@ -512,11 +512,25 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   - 2026-06-21 kuma-academy（首次，政治文）：Sonnet verifier fetch 抓 `[^20]`/`[^22]` 政治 footnote swap + hero imageSource 幻覺 + 2 句 paraphrase 戴 verbatim 引號。
   - 2026-06-21 幾米-evolve（**非政治 People 文 — 證明範圍不限 A 級/政治**）：主 session ship 前自跑 fetch-verify 4 條高風險 cite，抓 2 錯——`[^16]` 月亮忘記了三事件 mis-cite 到一篇講抗癌的 ltn 文（內容對、source 掛錯）、`[^32]` 田中央丟丟噹森林 mis-cite 到只講火車移置的 lym.gov.tw 頁。命中率 50%。同一 root cause：orchestrator §7 URL list cluster-precise 非 atom-precise。
   - 2026-06-21 kuma-academy PR #1170 JOIN（**contributor 投稿，非自產 — 證明範圍含外部 PR 審核**）：idlccp1984 AI 工具編 9 個假 join.gov.tw slug URL（真實是 UUID），9 條腳註標題讀起來都對、上個 maintainer review 也只標「死連結」，curl 才知全 404 且是 fabrication；fetch-verify 找回 9 個真實 UUID 全換 + merge。第 3 次驗證跨「政治自產文 / 非政治自產文 / 外部 PR」三種 context，root cause 一致。
-- **可能層級**：操作規則（REWRITE Stage 3.5 + MAINTAINER PR review **所有 depth 文 + 外部投稿** citation 強制 fetch-based，不限 A 級/政治）+ 通用反射（讀 ≠ 驗）
-- **相關**：REFLEXES #31（sub-agent claim 是線索不是 oracle）/ #42 / #73（查證反射<建造反射）；2026-06-16 stage2-quote-context-collapse → REWRITE §Stage 2.5 source-fidelity gate（本案是該 gate 在 Stage 3.5 驗證端的延伸 worked example）
-- **verification_count**: 3（≥3 達 distill 量門檻 — 下次 distill 可升 REFLEXES：「所有 depth 文 + 外部 PR 審核的 citation 必 fetch-verify 逐 URL，careful read 抓不到 URL drift」；跨 3 session 3 context 收斂）
+  - 2026-06-26 聲景 #574（**fresh Opus writer 幻覺，非 URL drift 而是「無中生有的具體 detail」— 證明乾淨 context + 驗證過的 research report 仍不免疫**）：writer 在握有完整 §8 verbatim 的乾淨 context 下，仍長出 research report 沒有、CNA 來源也沒有的「2014 年李明璁市府顧問任內向文化局提案」+「給愛麗絲 1810」。主 session ship 前 re-fetch [^7]/[^3] 抓修。**新 sub-pattern**：同一 CNA URL 兩次 WebFetch（research agent vs 主 session）給不同答案 → research agent 回報的 verbatim 本身也是 claim 非 oracle，不是只有 writer 要驗、research 合成層也要。caught-before-ship。
+- **可能層級**：操作規則（REWRITE Stage 3.5 + MAINTAINER PR review **所有 depth 文 + 外部投稿** citation 強制 fetch-based，不限 A 級/政治；**含 writer 新增的具體 atom 對 research report cross-check + 高 stake atom 主 session re-fetch**）+ 通用反射（讀 ≠ 驗）
+- **相關**：REFLEXES #31（sub-agent claim 是線索不是 oracle — 本 instance 把範圍從「agent 自報全綠」擴到「research agent 的 verbatim + writer 新增的具體 detail」）/ #42 / #73（查證反射<建造反射）；2026-06-16 stage2-quote-context-collapse → REWRITE §Stage 2.5 source-fidelity gate
+- **verification_count**: 4（跨 4 session 4 context：政治自產 / 非政治自產 / 外部 PR / fresh-writer 幻覺。下次 distill 升 REFLEXES：「所有 depth 文 + 外部 PR + sub-agent 產出的 citation/具體 atom 必 fetch-verify，careful read 與『乾淨 context』都抓不到」）
 - **severity**: structural（影響所有 depth article 的 ship 安全 — 範圍從「A 級/政治」擴大到「所有 depth」）
 - **Pointer**：[memory/2026-06-21-135235-kuma-academy.md](memory/2026-06-21-135235-kuma-academy.md) / [memory/2026-06-21-154735-幾米-evolve.md](memory/2026-06-21-154735-幾米-evolve.md)
+
+---
+
+### 2026-06-26 manual（issue triage）— stale issue（已解未 close）= 對外失聯，跟「做了不記=沒做」對稱
+
+- **pattern**: resolved-issue-left-open-invisible-completion
+- **原則**：已完成的工作如果對應 issue 沒 close，等於對外界隱形——contributor 以為沒人理、可能重複開新 issue，維護 organ 的熵堆在「看起來還沒做、其實早做完」的 gap 裡。這跟 §神經迴路「做了不記=沒做」是同一結構的兩面：一個對自己失憶（沒寫 memory），一個對外界失聯（沒 close issue）。
+- **觸發**：2026-06-26 處理 9 open issue，其中 **#1172a（前往文章按鈕）早在 #1143 做好**（/changelog 實測 2327 顆按鈕）、**#1059 核心 3 bug 早在 #1080 修好**（暗色 TOC 實測亮藍）。兩個都還開著，contributor #1172 等於重複提了已實作的功能。查證才發現「不是要做，是要 close」。
+- **可能層級**：操作規則（MAINTAINER-PIPELINE Stage 3.6 issue act：每次 triage 先問「這 issue 描述的功能/bug 是否已經在某 commit/PR 解掉了？」→ 已解則 close + 附 commit ref，跟「reply 必附 commit hash」同源）。可造橋：maintainer routine 加一步「grep open issue 標題 keyword vs 近期 commit / 既有 component」偵測 stale。
+- **相關**：feedback_reply_to_contributors（close 必 reply）/ §神經迴路「做了不記=沒做」（本條是其對外鏡像）/ MAINTAINER §close 前 hard gate（那條防「該 merge 卻 close」，本條防「該 close 卻留開」）
+- **verification_count**: 1（首次明確；但 #1172a + #1059 同 session 兩 instance）
+- **severity**: process（影響 contributor 信任 + issue backlog 噪音，非 ship 安全）
+- **Pointer**：[memory/2026-06-26-181414-manual.md](memory/2026-06-26-181414-manual.md)
 
 ---
 
