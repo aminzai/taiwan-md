@@ -314,6 +314,21 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-06-26 twmd-rewrite-daily — rewrite-daily-post-manual-recency-collision：daily cron 跟 manual rewrite 缺 timestamp-recency 互斥，連 4 cycle saturated defer
+
+- **pattern**: `rewrite-daily-post-manual-recency-collision`（saturation-defer 家族，跟 6/21 `post-LESSONS-promotion-cooldown` 同 family 但機制獨立）
+- **原則**：daily rewrite cron 設計假設「每天 18:00 沒人 ship」，但 manual session high-productivity day（≥1 NEW rewrite + multi-issue evolve）已 fully consume 當日 REWRITE 飛輪 throughput。若 cron 仍照常 fire 跑 EVOLVE：(a) 違反 pipeline §Cron 鐵律「每批最多 1 篇」(b) post-finale token-thin → 品質 risk (c) performative ship 反劣化判斷品質。**routine prompt 該補：last-4hr manual rewrite recency check 當第 4 合法 defer signal**（與 30min-dup / 同篇 race / §自主權邊界 並列）。
+- **觸發**：連 4 cycle defer chain：6/22 + 6/24×2 + 6/25 (vc=3 explicit) + 6/26 (vc=4 LESSONS-fired) — 6/25 memory §Handoff 明寫「下次 fire 若再 defer = vc=4 routine-prompt-contract 入鏡」，本 fire 兌現預測。6/26 specific saturation：18:54 manual diary finale → 19:07 cron fire（**13 min**），manual 已 ship 聲景 NEW + 2 PR deep-heal + 9 issue evolve = 4x daily quota
+- **反 pattern 警示**：4 cycle defer 也可能是「saturation-day silent satisficing」（per [feedback_hourly_cron_intentional](feedback_hourly_cron_intentional) + 6/21 entry §反 pattern hypothesis）。falsification 條件：哲宇明說「明明該 ship」即 retire pattern。但本 cycle 6/26 daily cron 在 NEW rewrite + 4x daily evolve 後 13 min 又 fire 仍 ship → 違反 §Cron 鐵律 1 篇上限 = 非 falsification
+- **可能層級**：(a) routine prompt 規則（`twmd-rewrite-daily` SKILL.md 補「last-4hr manual rewrite recency check」當第 4 合法 defer signal）；(b) reflex（「daily cron 設計假設 manual idle，high-productivity manual day 後 fire 該 defer 給飛輪 breathing room」）；(c) operational sentinel（routine-status.sh 加「past-4hr manual ship count」當 cron pre-fire signal）
+- **mitigation 路徑**：哲宇拍板「manual-recency-defer」入 routine prompt 即可 ship，本 entry promote 是預防 vc=5/6/7 累積 chronic noise
+- **相關**：[feedback_hourly_cron_intentional](feedback_hourly_cron_intentional)（hourly fire intent vs daily fire saturation 兩種 pattern 已在 6/25 memory 明文區分）/ [2026-06-21 post-LESSONS-promotion-cooldown](#2026-06-21-twmd-rewrite-daily--post-lessons-promotion-cooldown剛-promote-的-canonical-規範直接約束-next-routine-cycle-深度時defer-比跳步更尊重-distill-cost) §反 pattern hypothesis 並存 / REWRITE-PIPELINE §Cron 鐵律「每批最多 1 篇」+ §Boundary 150 min cap / REFLEXES #7 先有再求好 / MANIFESTO §自主權邊界
+- **verification_count**: 4（6/22 + 6/24×2 + 6/25 + 6/26 同 pattern 連續 instance；6/25 entry 已 explicit 寫「下次 = vc=4」threshold 預測）
+- **severity**: structural（routine 設計層 gap，4 cycle 連 defer 揭 routine prompt 缺 manual-recency awareness；non-action = vc 繼續累積 noise）
+- **defer 給觀察者**：是 — routine prompt 規則 promotion 需哲宇拍板「是否新增 last-4hr manual rewrite recency check 第 4 合法 defer signal」或反向 retire 改 default-ship。詳 [memory/2026-06-26-190712-twmd-rewrite-daily.md](memory/2026-06-26-190712-twmd-rewrite-daily.md)
+
+---
+
 ### 2026-06-25 203919-manual — spore post-ship verify 要查 post URL，不查 profile feed（propagation lag 差點重發）
 
 孢子 #150 Threads 發完，去 @taiwandotmd profile feed 連刷三次（含 hard reload）都找不到新貼文 → 誤判「沒發成功」、差點重發整則（哲宇貼出實際 post URL `DaA6aTRk7e6` 才確認其實秒發成功）。根因：profile feed 有 propagation / cache lag，但貼文本身發布即成功。這是 SPORE-HARVEST pitfall #6「duplicate ship」的鏡像——pitfall #6 是「以為失敗（dialog state）其實成功」導致重發，本案是「以為失敗（feed 沒出現）其實成功」也險些重發，同一根因：**post-ship verify 驗證對象選錯**。
