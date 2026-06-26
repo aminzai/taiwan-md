@@ -130,20 +130,47 @@ const speechLang = speechLangMap[lang] || 'en-US';
       return (l || '').replace(/_/g, '-').toLowerCase();
     }
 
+    // #280: 朗讀語音不適。原本只回傳第一個語言相符的 voice，但多數 OS（macOS/iOS/
+    // Android）會把最機械的預設音色排在前面，使用者裝的 enhanced / Siri 高品質語音
+    // 反而被跳過。改成在語言相符的 voice 中「評分挑最好」。
+    function scoreVoice(v) {
+      var n = (v.name || '').toLowerCase();
+      var s = 0;
+      if (/enhanced|premium|natural|neural/.test(n)) s += 4; // 高品質神經語音
+      if (/siri/.test(n)) s += 3; // Apple Siri 音色通常最自然
+      if (/compact|eloquence|fred|albert|zarvox|低|robot/.test(n)) s -= 3; // 低保真變體
+      if (v.default) s += 1;
+      return s;
+    }
+
     function pickVoice(bcp47) {
       var voices = synth.getVoices();
       if (!voices || !voices.length) return null;
       var want = normLang(bcp47);
       var primary = want.split('-')[0];
-      var i;
+      var i, vl;
+      var matches = [];
       for (i = 0; i < voices.length; i++) {
-        if (normLang(voices[i].lang) === want) return voices[i];
+        if (normLang(voices[i].lang) === want) matches.push(voices[i]);
       }
-      for (i = 0; i < voices.length; i++) {
-        var vl = normLang(voices[i].lang);
-        if (vl === primary || vl.indexOf(primary + '-') === 0) return voices[i];
+      if (!matches.length) {
+        for (i = 0; i < voices.length; i++) {
+          vl = normLang(voices[i].lang);
+          if (vl === primary || vl.indexOf(primary + '-') === 0)
+            matches.push(voices[i]);
+        }
       }
-      return null;
+      if (!matches.length) return null;
+      var best = matches[0];
+      var bestScore = scoreVoice(matches[0]);
+      for (i = 1; i < matches.length; i++) {
+        var sc = scoreVoice(matches[i]);
+        if (sc > bestScore) {
+          best = matches[i];
+          bestScore = sc;
+        }
+      }
+      return best;
     }
 
     function getArticleText() {
