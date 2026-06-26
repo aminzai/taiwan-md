@@ -191,6 +191,20 @@ export default defineConfig({
     // 2026-06-19: 立蛋.md Merge 進 端午節.md（idlccp1984 #1167/#1168 同日初稿，
     // 立蛋「迷信 vs 科學」吸納為端午節對比模組）。立蛋為當日新建 zh-TW only，1 lang redirect。
     '/culture/立蛋': '/culture/端午節/',
+    // 2026-06-26: 台灣鹹酥雞.md 合併進 台灣鹽酥雞.md（idlccp1984 #1175，同一食物不同
+    // 拼法；鹽酥雞 canonical — 10 footnote + 已含「鹽/鹹」naming section + 在 Food Hub）。
+    // 6-lang redirect（鹹酥雞 譯名 salt-and-pepper-fried-chicken → 鹽酥雞 popcorn-chicken-redux）。
+    '/food/台灣鹹酥雞': '/food/台灣鹽酥雞/',
+    '/en/food/taiwanese-salt-and-pepper-fried-chicken':
+      '/en/food/taiwanese-popcorn-chicken-redux/',
+    '/ja/food/taiwanese-salt-and-pepper-fried-chicken':
+      '/ja/food/taiwanese-popcorn-chicken-redux/',
+    '/ko/food/taiwanese-salt-and-pepper-fried-chicken':
+      '/ko/food/taiwanese-popcorn-chicken-redux/',
+    '/es/food/taiwanese-salt-and-pepper-fried-chicken':
+      '/es/food/taiwanese-popcorn-chicken-redux/',
+    '/fr/food/taiwanese-salt-and-pepper-fried-chicken':
+      '/fr/food/taiwanese-popcorn-chicken-redux/',
     // /about/創辦人/ → /people/吳哲宇/ (Google top-5 結果但 404)
     '/about/創辦人': '/people/吳哲宇/',
     // /en/people/mayday/ → /en/people/mayday-band/ (51 req/day)
