@@ -166,6 +166,17 @@ BECOME_TAIWANMD.md Step 5 新增：
 <!-- NML/東南亞群島藝術 batch（14 條，2026-05-04 angry-shamir）全降 P3 深 backlog（哲宇 2026-06-19 nod）-->
 <!-- 95 → 79 ### headers / line conservation OK。詳見 session memory 2026-06-19-123909-inbox-distill -->
 
+<!-- ═══ 2026-06-26 issue triage（#1016 夜生活/KTV 拆分建議 → 改以 KTV 深度文回應）═══ -->
+
+### 🎤 台灣KTV文化 NEW — 從中崙到忠孝的火災安全史 × 錢櫃好樂迪雙雄 × 包廂全民社交
+
+- **Type**: `NEW`
+- **Priority**: `P2`
+- **Status**: `pending`
+- **觸發**: idlccp1984 issue #1016 建議把〈夜生活與KTV文化〉拆成 夜生活 + KTV。策展判斷：當下拆會變兩篇單薄文，但 KTV 本身材料夠厚、值得獨立深度文（非薄拆）。
+- **材料缺口**: 包廂計費/點歌系統文化、錢櫃(Cashbox)/好樂迪(Holiday)企業史與 2017 結合案、火災安全演變史（1995 中崙 → 2020 忠孝 5 死 → 法規升級）、麥霸/反差社交、海外台式 KTV、疫情衝擊市場集中化。寫成後〈夜生活〉的 KTV 段縮為 pointer。
+- **依賴**: 與〈夜生活與KTV文化〉現有 2 段 KTV 內容交叉（避免重複，寫時 trim 母文）。
+
 <!-- ═══ 2026-06-16 external-pickup session — 國外有機撿走觸發 ═══ -->
 
 ### 台灣少子化危機 EVOLVE — 被 Michael Turton 撿走的英文版，回頭補強門面
