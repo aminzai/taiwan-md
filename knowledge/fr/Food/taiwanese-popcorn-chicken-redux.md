@@ -2,24 +2,33 @@
 title: 'Le poulet sel et poivre taïwanais (鹽酥雞)'
 description: "En 1975, Chen Ting-zhi, un restaurateur de Tainan ruiné, installe sa charrette à Ximending avec une marinade familiale secrète. Cinquante ans plus tard, le salt-and-pepper chicken est devenu l'une des rares spécialités de rue taïwanaises capables de survivre sans marché nocturne ni enseigne — rien qu'une charrette et une cuve d'huile. CNN l'a classé deux fois parmi les incontournables de Taïwan, mais la façon la plus authentique de le manger reste la même : attendre à minuit sur un trottoir que le sachet en papier soit tendu."
 date: 2026-04-01
-tags: ['street food', 'marché nocturne', 'friture', 'cuisine taïwanaise']
+tags:
+  [
+    'poulet sel et poivre',
+    'salt-and-pepper chicken',
+    'street food',
+    'marché nocturne',
+    'friture',
+    'culture du grignotage nocturne',
+    'basilic thaï',
+  ]
 subcategory: 'Classiques de rue'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
-featured: false
-lastVerified: 2026-04-01
+featured: true
+lastVerified: 2026-06-26
 translatedFrom: 'Food/台灣鹽酥雞.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:a54abab6676ccb01'
-sourceBodyHash: 'sha256:bf15a5bb73dd04e3'
-translatedAt: '2026-05-16T22:35:54Z'
+sourceCommitSha: '539c393a'
+sourceContentHash: 'sha256:ff821213812f38cb'
+sourceBodyHash: 'sha256:e39ae3ebbe8cb44c'
+translatedAt: '2026-06-27T00:35:00Z'
 ---
 
 > **En 30 secondes :** Le salt-and-pepper chicken (鹽酥雞, _yán sū jī_) est la référence absolue de la friture populaire à Taïwan. En 1975, Chen Ting-zhi installe son premier étal à Ximending, Taipei : des morceaux de poulet marinés selon une recette de famille, frits jusqu'au croustillant parfait, puis saupoudrés de sel au poivre et de basilic thaï[^1]. Cinquante ans plus tard, les étals fleurissent à chaque coin de rue, dans chaque marché nocturne et chaque quartier résidentiel. CNN l'a deux fois sélectionné parmi les « aliments indispensables de Taïwan »[^2]. Mais ce qui rend ce plat vraiment unique, ce n'est pas son goût — c'est son rôle d'infrastructure nocturne : pas de boutique, pas d'enseigne, une charrette, une cuve d'huile, une poignée de basilic, et c'est parti.
 
 En 1975, Chen Ting-zhi pousse sa charrette dans les rues de Ximending, à Taipei.
 
-Il avait tenté sa chance dans la restauration. Ça n'avait pas marché. Il lui reste quelques blancs de poulet et la technique de marinade héritée de sa mère[^3]. Il découpe la volaille en petits morceaux, les laisse s'imprégner d'une préparation secrète, les enrobe de farine et les fait frire jusqu'à obtenir une belle couleur dorée. Puis il saupoudre de sel au poivre. Ce geste, des dizaines de milliers de vendeurs ambulants le répéteront des milliards de fois à travers tout Taïwan.
+Il avait tenté sa chance dans la restauration. Ça n'avait pas marché. Il lui reste quelques blancs de poulet et la technique de marinade héritée de sa mère[^3]. Il découpe la volaille en petits morceaux, les laisse s'imprégner d'une préparation secrète, les enrobe de farine et les fait frire jusqu'à obtenir une belle couleur dorée. Puis il saupoudre de sel au poivre, un geste que des dizaines de milliers de vendeurs ambulants répéteront des milliards de fois à travers tout Taïwan.
 
 Chen finira par fonder la marque « Taiwan's First Salt-and-Pepper Chicken » et développer un système de franchise à coût nul, dont le cœur est sa poudre d'assaisonnement maison[^4]. Ce modèle peut sembler banal aujourd'hui, mais dans le Taïwan des années 1970, transformer un étal de rue en réseau national était une démarche tout à fait exceptionnelle.
 
@@ -41,13 +50,21 @@ Approchez-vous d'un étal : vous découvrez toute une rangée d'ingrédients —
 
 > 📝 **Note de curation :** Ce système « vous choisissez, je fris » est quasi introuvable ailleurs dans la street food mondiale. Ce n'est pas un fast-food au poulet (où vous commandez sur un menu imposé), ni un self-service (où vous vous servez et mangez directement). C'est une boutique de friture personnalisée en temps réel — chaque sachet est une combinaison unique.
 
-Le basilic thaï, c'est l'âme du plat. Ce parfum herbacé qui éclate instantanément dans l'huile brûlante est ce qui distingue le salt-and-pepper chicken de toutes les autres recettes de poulet frit au monde. Un salt-and-pepper chicken sans basilic, c'est comme un hamburger sans oignon : techniquement possible, mais spirituellement incomplet.
+Le basilic thaï, c'est l'âme du plat. Celui de Taïwan a un parfum plus prononcé que le basilic italien : à la seconde où il touche l'huile brûlante, ses notes herbacées et une légère pointe piquante explosent ensemble — c'est cela qui distingue le salt-and-pepper chicken de toutes les autres recettes de poulet frit au monde. Le moment où on l'ajoute compte aussi : trop tôt, le parfum s'évapore ; trop tard, il ne s'imprègne pas. Les anciens le saupoudrent juste après la sortie du panier et laissent la chaleur résiduelle libérer les arômes. Un salt-and-pepper chicken sans basilic, c'est comme un hamburger sans oignon : techniquement possible, mais spirituellement incomplet.
+
+## Salt-and-pepper chicken vs karaage japonais : deux philosophies dans un morceau de poulet frit
+
+À première vue, ce sont deux fritures de poulet. En réalité, le salt-and-pepper chicken taïwanais et le karaage japonais (からあげ) empruntent des chemins presque opposés.
+
+Le karaage cherche la pureté de l'ingrédient lui-même : le poulet est mariné dans la sauce soja, le gingembre et l'ail râpés, enrobé d'une fine pellicule de pâte, puis frit jusqu'à devenir croustillant à l'extérieur et tendre à l'intérieur. L'assaisonnement reste sobre, pour laisser la saveur du poulet jouer le premier rôle. Il s'inscrit le plus souvent dans un teishoku — un repas en set —, mangé tranquillement, assis dans un restaurant.
+
+Le salt-and-pepper chicken prend la direction inverse. C'est littéralement une mise en scène sensorielle d'ensemble : le piquant du sel au poivre, le parfum du basilic, la mordant de l'ail haché — les goûts s'empilent couche par couche, et l'intensité est précisément ce qu'on recherche. En plus, il n'apparaît presque jamais seul. On en mange en marchant, on partage un sachet entre amis au marché nocturne, on l'accompagne d'un thé aux perles. L'un est un plat posé sur la table ; l'autre est un médium social qu'on tient au creux de la main.
 
 ## Une infrastructure nocturne
 
 Le salt-and-pepper chicken est l'une des rares spécialités taïwanaises à n'avoir pas besoin d'un marché nocturne pour exister[^6].
 
-Au coin d'une ruelle résidentielle, devant une école, à la sortie d'une station de métro — partout où des gens passent, une charrette peut surgir. Les horaires d'ouverture commencent généralement en fin d'après-midi, avec un pic entre vingt-deux heures et une heure du matin. À Taïwan, « j'ai envie de salt-and-pepper chicken ce soir » n'est pas une question de recherche : dans un rayon de cinq cents mètres autour de vous, il y en a presque certainement un étal.
+Au coin d'une ruelle résidentielle, devant une école, à la sortie d'une station de métro, partout où des gens passent, une charrette peut surgir. Les horaires d'ouverture commencent généralement en fin d'après-midi, avec un pic entre vingt-deux heures et une heure du matin. À Taïwan, « j'ai envie de salt-and-pepper chicken ce soir » n'est pas une question de recherche : dans un rayon de cinq cents mètres autour de vous, il y en a presque certainement un étal.
 
 La marque « Taiwan Salt-and-Pepper Chicken » (distincte de la chaîne de Chen Ting-zhi) a même transformé ce modèle de charrette en empire : trois points de vente qui totalisent plus de 150 millions de dollars taïwanais de chiffre d'affaires annuel, avec un laboratoire de production centrale construit à Dazhi, Taipei[^7]. La majorité des étals, cependant, restent à l'échelle d'un individu, une charrette, une cuve d'huile.
 
@@ -63,13 +80,19 @@ Mais la relation des Taïwanais avec ce plat n'a jamais reposé sur des considé
 
 ## De Ximending au reste du monde
 
-En 1992, KFC lance ses « Popcorn Chicken » — de petits morceaux de poulet frit en bouchée[^6]. La réaction de nombreux Taïwanais fut immédiate : « Mais c'est exactement du salt-and-pepper chicken ! »
+En 1992, KFC lance ses « Popcorn Chicken », de petits morceaux de poulet frit en bouchée[^6]. La réaction de nombreux Taïwanais fut immédiate : « Mais c'est exactement du salt-and-pepper chicken ! »
 
-CNN a intégré ce plat à deux reprises dans ses classements taïwanais — « 40 aliments indispensables à Taïwan » et « Les meilleurs plats de Taïwan » en 2015 — le qualifiant de « dangereusement addictif » (_dangerously addictive_)[^2]. En 2024, le BBC, dans son guide gastronomico-politique de Taïwan, liste le _crispy-fried Taiwanese popcorn chicken_ parmi les incontournables des marchés nocturnes[^9]. Dans les communautés taïwanaises à l'étranger, les étals de 鹹酥雞 évoluent du snack de quartier chinois vers la marque indépendante — les quatre caractères eux-mêmes sont devenus un argument de vente.
+CNN a intégré ce plat à deux reprises dans ses classements taïwanais — « 40 aliments indispensables à Taïwan » et « Les meilleurs plats de Taïwan » en 2015 — le qualifiant de « dangereusement addictif » (_dangerously addictive_)[^2]. En 2024, le BBC, dans son guide gastronomico-politique de Taïwan, liste le _crispy-fried Taiwanese popcorn chicken_ parmi les incontournables des marchés nocturnes[^9]. Dans les communautés taïwanaises à l'étranger, les étals de 鹹酥雞 évoluent du snack de quartier chinois vers la marque indépendante, les quatre caractères eux-mêmes sont devenus un argument de vente.
 
 Une chronique recettes du The News Lens International fournit un autre indice révélateur : le terme anglais « popcorn chicken » est désormais un nom de catégorie universel, mais la plupart des gens ignorent que son modèle original vient de Taïwan[^10].
 
 Il y a cinquante ans, Chen Ting-zhi ne se doutait probablement pas que sa charrette de restaurateur raté allait devenir le réconfort nocturne le plus fiable de toute une île. Le salt-and-pepper chicken n'a rien d'une cuisine sophistiquée. Sa raison d'être est bien plus simple : peu importe l'heure, peu importe où vous vous trouvez, la cuve d'huile au coin de la rue vous attend toujours.
+
+## Pour aller plus loin
+
+- [Culture des marchés nocturnes](/food/夜市文化) — le principal terrain de circulation du salt-and-pepper chicken, scène centrale de l'écosystème du grignotage nocturne taïwanais
+- [Culture du petit-déjeuner taïwanais](/food/台灣早餐文化) — de l'aube à la nuit profonde, mise en miroir des deux grands moments alimentaires de Taïwan
+- [Culture des supérettes à Taïwan](/lifestyle/台灣便利商店文化) — étals de salt-and-pepper chicken et supérettes composent ensemble le paysage alimentaire 24 h sur 24 de l'île
 
 ## Références
 

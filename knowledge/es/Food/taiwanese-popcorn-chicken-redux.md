@@ -4,22 +4,25 @@ description: 'En 1975, Chen Ting-chih, un hombre de Tainan que había fracasado 
 date: 2026-04-01
 tags:
   [
+    'pollo salado crujiente',
+    'pollo salobre crujiente',
     'aperitivos callejeros',
     'mercados nocturnos',
     'fritura',
-    'gastronomía taiwanesa',
+    'cultura del aperitivo nocturno',
+    'albahaca tailandesa',
   ]
 subcategory: '經典小吃'
 category: 'Food'
 author: 'Taiwan.md Contributors'
-featured: false
-lastVerified: 2026-04-01
+featured: true
+lastVerified: 2026-06-26
 lastHumanReview: true
 translatedFrom: Food/台灣鹽酥雞.md
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:a54abab6676ccb01'
-sourceBodyHash: 'sha256:bf15a5bb73dd04e3'
-translatedAt: '2026-05-16T22:35:47Z'
+sourceCommitSha: '539c393a'
+sourceContentHash: 'sha256:ff821213812f38cb'
+sourceBodyHash: 'sha256:e39ae3ebbe8cb44c'
+translatedAt: '2026-06-27T00:35:00Z'
 ---
 
 > **Resumen en 30 segundos:** El pollo salado crujiente (鹽酥雞, _yánsūjī_) es el aperitivo frito más representativo de Taiwán. En 1975, Chen Ting-chih instaló el primer puesto en la calle de Ximending, en Taipéi, y popularizó los trozos de pollo frito con un adobo especial, espolvoreados con sal de pimienta y albahaca tailandesa (_hóng tiān jiǔ_). Medio siglo después, los puestos de pollo salado crujiente se encuentran en cada esquina, mercado nocturno y barrio residencial de la isla. CNN lo eligió dos veces entre los "alimentos que Taiwán no puede perder", pero lo verdaderamente singular no es su sabor, sino su existencia como "infraestructura nocturna": no necesita local ni letrero, basta un carrito, una olla de aceite y un manojo de albahaca tailandesa para abrir.
@@ -48,7 +51,15 @@ Al acercarte a un puesto, ves una hilera entera de ingredientes: trozos de pollo
 
 > **📝 Nota editorial:** Este modelo de "tú eliges, yo frío" es prácticamente único entre los aperitivos callejeros del mundo. No es una pollería (donde solo puedes pedir lo que hay en el menú) ni es un buffet (donde te sirves y comes). Es una tienda de fritura personalizada en tiempo real: la bolsa que recibe cada persona es siempre una combinación distinta.
 
-La albahaca tailandesa (_hóng tiān jiǔ_, 九層塔) es el alma del plato. Ese aroma herbáceo que estalla al instante en el aceite caliente es lo que distingue al pollo salado crujiente de cualquier otro pollo frito del mundo. Un pollo salado crujiente sin albahaca tailandesa es como una hamburguesa sin cebolla: técnicamente posible, pero espiritualmente incompleto.
+La albahaca tailandesa (_hóng tiān jiǔ_, 九層塔) es el alma del plato. El aroma de la albahaca taiwanesa es más intenso que el del basílico italiano, y en el instante en que cae al aceite caliente la fragancia herbácea estalla mezclada con un ligero picor: ese es el rasgo que distingue al pollo salado crujiente de cualquier otro pollo frito del mundo. El momento de añadirla también importa: demasiado pronto y el aroma se pierde, demasiado tarde y no se integra. Los veteranos la espolvorean justo al sacar la fritura y dejan que el calor residual libere el perfume. Un pollo salado crujiente sin albahaca tailandesa es como una hamburguesa sin cebolla, técnicamente posible, pero espiritualmente incompleto.
+
+## Pollo salobre crujiente vs. karaage japonés: dos filosofías de pollo frito
+
+Aunque ambos son pollo frito, el pollo salado crujiente taiwanés y el karaage japonés (からあげ) siguen caminos casi opuestos.
+
+El karaage japonés busca la pureza del ingrediente: el pollo se marina con salsa de soja, jengibre rallado y ajo machacado, se cubre con una capa fina de almidón y se fríe hasta quedar crujiente por fuera y jugoso por dentro. El sazonado es contenido y deja que el umami del pollo sea el protagonista. Suele formar parte de un _teishoku_ (定食) y se come tranquilamente, dentro de un restaurante.
+
+El pollo salado crujiente va exactamente en la dirección contraria. Es una función de los sentidos a pleno volumen: la sal de pimienta pica, la albahaca tailandesa perfuma, el ajo picado muerde, los sabores se apilan capa sobre capa, y lo que se busca es precisamente la intensidad. Además, casi nunca aparece solo: lo comes mientras caminas, te repartes una bolsa con los amigos en el mercado nocturno, lo acompañas con una bebida agitada en mano. Uno es un plato que se posa sobre una mesa, el otro es un mediador social que se aprieta en el puño.
 
 ## Infraestructura nocturna
 
@@ -70,13 +81,19 @@ Pero la relación de los taiwaneses con el pollo salado crujiente nunca se ha co
 
 ## De Ximending al mundo
 
-En 1992, KFC lanzó sus "nuggets de pollo" (_popcorn chicken_): trozos de pollo frito del tamaño de un bocado. La reacción inicial de muchos taiwaneses al ver el producto fue: "¿Esto no es exactamente pollo salado crujiente?"
+En 1992, KFC lanzó sus "nuggets de pollo" (_popcorn chicken_), trozos de pollo frito del tamaño de un bocado. La reacción inicial de muchos taiwaneses al ver el producto fue: "¿Esto no es exactamente pollo salado crujiente?"
 
-CNN incluyó el pollo salado crujiente tanto en su lista de 2015 "40 alimentos que Taiwán no puede perder" como en la de "Los mejores alimentos de Taiwán", describiéndolo como "peligrosamente adictivo" (_dangerously addictive_). La BBC, en su guía gastronómica sobre la política taiwanesa de 2024, también incluyó el _crispy-fried Taiwanese popcorn chicken_ entre los imprescindibles de los mercados nocturnos (台灣夜市小吃文化). En las comunidades chinas de ultramar, los puestos de pollo salado crujiente están pasando de ser un aperitivo más del barrio chino a convertirse en marcas independientes: las cuatro palabras "台灣鹹酥雞" (_pollo salado crujiente taiwanés_) son ya un argumento de venta en sí mismas.
+CNN incluyó el pollo salado crujiente tanto en su lista de 2015 "40 alimentos que Taiwán no puede perder" como en la de "Los mejores alimentos de Taiwán", describiéndolo como "peligrosamente adictivo" (_dangerously addictive_). La BBC, en su guía gastronómica sobre la política taiwanesa de 2024, también incluyó el _crispy-fried Taiwanese popcorn chicken_ entre los imprescindibles de los mercados nocturnos (台灣夜市小吃文化). En las comunidades chinas de ultramar, los puestos de pollo salado crujiente están pasando de ser un aperitivo más del barrio chino a convertirse en marcas independientes, y las cuatro palabras "台灣鹹酥雞" (_pollo salado crujiente taiwanés_) son ya un argumento de venta en sí mismas.
 
 La edición en inglés de The News Lens ofrece otra pista: el nombre en inglés del plato, _popcorn chicken_, se ha convertido en una denominación de categoría global, pero la mayoría de la gente desconoce que su prototipo original proviene de Taiwán.
 
 Hace cincuenta años, Chen Ting-chih probablemente no imaginó que aquel carrito callejero de un restaurador fracasado se convertiría en el consuelo nocturno más fiable de toda una isla. El pollo salado crujiente no es un plato refinado; su razón de ser es que, sin importar la hora ni el lugar, aquella olla de aceite en la esquina siempre te está esperando.
+
+## Lecturas relacionadas
+
+- [Cultura de los mercados nocturnos](/food/夜市文化) — El principal escenario de circulación del pollo salado crujiente y el núcleo del ecosistema del aperitivo nocturno taiwanés
+- [Cultura del desayuno en Taiwán](/food/台灣早餐文化) — De la madrugada a la medianoche, el contraste entre las dos franjas alimentarias más importantes de Taiwán
+- [La cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — Los puestos de pollo salado crujiente y las tiendas de conveniencia componen juntos el paisaje gastronómico de las 24 horas en Taiwán
 
 ## Referencias
 

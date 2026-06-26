@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-26T23:09:32+08:00",
-    "zhCommitHead": "16bd50c9b",
+    "lastUpdated": "2026-06-27T01:00:43+08:00",
+    "zhCommitHead": "3729ff82c",
     "totalZh": 825,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 825,
-        "fresh": 820,
-        "stale": 1,
+        "fresh": 825,
+        "stale": 0,
         "metadata_stale": 0,
-        "missing": 4,
+        "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 825,
-        "fresh": 820,
-        "stale": 1,
+        "fresh": 825,
+        "stale": 0,
         "metadata_stale": 0,
-        "missing": 4,
+        "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 825,
-        "fresh": 820,
-        "stale": 1,
+        "fresh": 825,
+        "stale": 0,
         "metadata_stale": 0,
-        "missing": 4,
+        "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 825,
-        "fresh": 820,
-        "stale": 1,
+        "fresh": 825,
+        "stale": 0,
         "metadata_stale": 0,
-        "missing": 4,
+        "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 825,
-        "fresh": 820,
-        "stale": 1,
+        "fresh": 825,
+        "stale": 0,
         "metadata_stale": 0,
-        "missing": 4,
+        "missing": 0,
         "orphan": 0
       }
     },
@@ -48706,72 +48706,72 @@
         "en": {
           "path": "en/Food/taiwanese-popcorn-chicken-redux.md",
           "translatedFrom": "Food/台灣鹽酥雞.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:a54abab6676ccb01",
-          "sourceBodyHash": "sha256:bf15a5bb73dd04e3",
-          "translatedAt": "2026-05-16T22:19:17Z",
+          "sourceCommitSha": "539c393a",
+          "sourceContentHash": "sha256:ff821213812f38cb",
+          "sourceBodyHash": "sha256:e39ae3ebbe8cb44c",
+          "translatedAt": "2026-06-27T00:35:00Z",
           "translationLastCommit": "68c3ec3a",
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwanese-popcorn-chicken-redux.md",
           "translatedFrom": "Food/台灣鹽酥雞.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:a54abab6676ccb01",
-          "sourceBodyHash": "sha256:bf15a5bb73dd04e3",
-          "translatedAt": "2026-05-16T22:35:34Z",
+          "sourceCommitSha": "539c393a",
+          "sourceContentHash": "sha256:ff821213812f38cb",
+          "sourceBodyHash": "sha256:e39ae3ebbe8cb44c",
+          "translatedAt": "2026-06-27T00:35:00Z",
           "translationLastCommit": "68c3ec3a",
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/taiwanese-popcorn-chicken-redux.md",
           "translatedFrom": "Food/台灣鹽酥雞.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:a54abab6676ccb01",
-          "sourceBodyHash": "sha256:bf15a5bb73dd04e3",
-          "translatedAt": "2026-05-16T22:35:46Z",
+          "sourceCommitSha": "539c393a",
+          "sourceContentHash": "sha256:ff821213812f38cb",
+          "sourceBodyHash": "sha256:e39ae3ebbe8cb44c",
+          "translatedAt": "2026-06-27T00:35:00Z",
           "translationLastCommit": "68c3ec3a",
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwanese-popcorn-chicken-redux.md",
           "translatedFrom": "Food/台灣鹽酥雞.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:a54abab6676ccb01",
-          "sourceBodyHash": "sha256:bf15a5bb73dd04e3",
-          "translatedAt": "2026-05-16T22:35:47Z",
+          "sourceCommitSha": "539c393a",
+          "sourceContentHash": "sha256:ff821213812f38cb",
+          "sourceBodyHash": "sha256:e39ae3ebbe8cb44c",
+          "translatedAt": "2026-06-27T00:35:00Z",
           "translationLastCommit": "68c3ec3a",
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwanese-popcorn-chicken-redux.md",
           "translatedFrom": "Food/台灣鹽酥雞.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:a54abab6676ccb01",
-          "sourceBodyHash": "sha256:bf15a5bb73dd04e3",
-          "translatedAt": "2026-05-16T22:35:54Z",
+          "sourceCommitSha": "539c393a",
+          "sourceContentHash": "sha256:ff821213812f38cb",
+          "sourceBodyHash": "sha256:e39ae3ebbe8cb44c",
+          "translatedAt": "2026-06-27T00:35:00Z",
           "translationLastCommit": "68c3ec3a",
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -55504,19 +55504,74 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/disney-and-taiwan.md",
+          "translatedFrom": "History/迪士尼.md",
+          "sourceCommitSha": "1ed7ed388",
+          "sourceContentHash": "sha256:5cc3c5f96a34e51e",
+          "sourceBodyHash": "sha256:ad7b91e555067f88",
+          "translatedAt": "2026-06-27T00:54:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/disney-and-taiwan.md",
+          "translatedFrom": "History/迪士尼.md",
+          "sourceCommitSha": "1ed7ed388",
+          "sourceContentHash": "sha256:5cc3c5f96a34e51e",
+          "sourceBodyHash": "sha256:ad7b91e555067f88",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/disney-and-taiwan.md",
+          "translatedFrom": "History/迪士尼.md",
+          "sourceCommitSha": "1ed7ed388",
+          "sourceContentHash": "sha256:5cc3c5f96a34e51e",
+          "sourceBodyHash": "sha256:ad7b91e555067f88",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/disney-and-taiwan.md",
+          "translatedFrom": "History/迪士尼.md",
+          "sourceCommitSha": "1ed7ed388",
+          "sourceContentHash": "sha256:5cc3c5f96a34e51e",
+          "sourceBodyHash": "sha256:ad7b91e555067f88",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/disney-and-taiwan.md",
+          "translatedFrom": "History/迪士尼.md",
+          "sourceCommitSha": "1ed7ed388",
+          "sourceContentHash": "sha256:5cc3c5f96a34e51e",
+          "sourceBodyHash": "sha256:ad7b91e555067f88",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -56969,19 +57024,74 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/wuqiu.md",
+          "translatedFrom": "Geography/烏坵.md",
+          "sourceCommitSha": "bce742694",
+          "sourceContentHash": "sha256:2935ce10538c2b78",
+          "sourceBodyHash": "sha256:79946e3edca12d9c",
+          "translatedAt": "2026-06-27T00:54:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Geography/wuqiu.md",
+          "translatedFrom": "Geography/烏坵.md",
+          "sourceCommitSha": "bce742694",
+          "sourceContentHash": "sha256:2935ce10538c2b78",
+          "sourceBodyHash": "sha256:79946e3edca12d9c",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Geography/wuqiu.md",
+          "translatedFrom": "Geography/烏坵.md",
+          "sourceCommitSha": "bce742694",
+          "sourceContentHash": "sha256:2935ce10538c2b78",
+          "sourceBodyHash": "sha256:79946e3edca12d9c",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Geography/wuqiu.md",
+          "translatedFrom": "Geography/烏坵.md",
+          "sourceCommitSha": "bce742694",
+          "sourceContentHash": "sha256:2935ce10538c2b78",
+          "sourceBodyHash": "sha256:79946e3edca12d9c",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Geography/wuqiu.md",
+          "translatedFrom": "Geography/烏坵.md",
+          "sourceCommitSha": "bce742694",
+          "sourceContentHash": "sha256:2935ce10538c2b78",
+          "sourceBodyHash": "sha256:79946e3edca12d9c",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -61794,19 +61904,74 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/manyue-month-old-baby-celebration.md",
+          "translatedFrom": "Culture/滿月習俗.md",
+          "sourceCommitSha": "8f7ec7d5a",
+          "sourceContentHash": "sha256:071279c0b606b84b",
+          "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
+          "translatedAt": "2026-06-27T00:54:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/manyue-month-old-baby-celebration.md",
+          "translatedFrom": "Culture/滿月習俗.md",
+          "sourceCommitSha": "8f7ec7d5a",
+          "sourceContentHash": "sha256:071279c0b606b84b",
+          "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/manyue-month-old-baby-celebration.md",
+          "translatedFrom": "Culture/滿月習俗.md",
+          "sourceCommitSha": "8f7ec7d5a",
+          "sourceContentHash": "sha256:071279c0b606b84b",
+          "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/manyue-month-old-baby-celebration.md",
+          "translatedFrom": "Culture/滿月習俗.md",
+          "sourceCommitSha": "8f7ec7d5a",
+          "sourceContentHash": "sha256:071279c0b606b84b",
+          "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/manyue-month-old-baby-celebration.md",
+          "translatedFrom": "Culture/滿月習俗.md",
+          "sourceCommitSha": "8f7ec7d5a",
+          "sourceContentHash": "sha256:071279c0b606b84b",
+          "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -63419,19 +63584,74 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/taiwan-soundscape.md",
+          "translatedFrom": "Culture/台灣聲景.md",
+          "sourceCommitSha": "9aeb171e8",
+          "sourceContentHash": "sha256:0c33e898d4ba7e93",
+          "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
+          "translatedAt": "2026-06-27T00:54:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/taiwan-soundscape.md",
+          "translatedFrom": "Culture/台灣聲景.md",
+          "sourceCommitSha": "9aeb171e8",
+          "sourceContentHash": "sha256:0c33e898d4ba7e93",
+          "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/taiwan-soundscape.md",
+          "translatedFrom": "Culture/台灣聲景.md",
+          "sourceCommitSha": "9aeb171e8",
+          "sourceContentHash": "sha256:0c33e898d4ba7e93",
+          "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/taiwan-soundscape.md",
+          "translatedFrom": "Culture/台灣聲景.md",
+          "sourceCommitSha": "9aeb171e8",
+          "sourceContentHash": "sha256:0c33e898d4ba7e93",
+          "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/taiwan-soundscape.md",
+          "translatedFrom": "Culture/台灣聲景.md",
+          "sourceCommitSha": "9aeb171e8",
+          "sourceContentHash": "sha256:0c33e898d4ba7e93",
+          "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
+          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
