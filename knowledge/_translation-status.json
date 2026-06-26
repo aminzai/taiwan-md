@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-26T06:11:57+08:00",
-    "zhCommitHead": "d240042c3",
-    "totalZh": 822,
+    "lastUpdated": "2026-06-26T23:09:32+08:00",
+    "zhCommitHead": "16bd50c9b",
+    "totalZh": 825,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
-        "total_zh": 822,
-        "fresh": 822,
-        "stale": 0,
+        "total_zh": 825,
+        "fresh": 820,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 822,
-        "fresh": 822,
-        "stale": 0,
+        "total_zh": 825,
+        "fresh": 820,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 822,
-        "fresh": 822,
-        "stale": 0,
+        "total_zh": 825,
+        "fresh": 820,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "es": {
-        "total_zh": 822,
-        "fresh": 822,
-        "stale": 0,
+        "total_zh": 825,
+        "fresh": 820,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 822,
-        "fresh": 822,
-        "stale": 0,
+        "total_zh": 825,
+        "fresh": 820,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 4,
         "orphan": 0
       }
     },
@@ -48697,10 +48697,10 @@
     },
     "Food/台灣鹽酥雞.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:a54abab6676ccb01",
-        "bodyHash": "sha256:bf15a5bb73dd04e3"
+        "lastCommit": "539c393a",
+        "lastModified": "2026-06-26T17:19:28+08:00",
+        "contentHash": "sha256:ff821213812f38cb",
+        "bodyHash": "sha256:e39ae3ebbe8cb44c"
       },
       "translations": {
         "en": {
@@ -48714,8 +48714,8 @@
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ja": {
           "path": "ja/Food/taiwanese-popcorn-chicken-redux.md",
@@ -48728,8 +48728,8 @@
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ko": {
           "path": "ko/Food/taiwanese-popcorn-chicken-redux.md",
@@ -48742,8 +48742,8 @@
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "es": {
           "path": "es/Food/taiwanese-popcorn-chicken-redux.md",
@@ -48756,8 +48756,8 @@
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "fr": {
           "path": "fr/Food/taiwanese-popcorn-chicken-redux.md",
@@ -48770,8 +48770,8 @@
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         }
       }
     },
@@ -51090,86 +51090,6 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
-        }
-      }
-    },
-    "Food/台灣鹹酥雞.md": {
-      "zh": {
-        "lastCommit": "85926aa3",
-        "lastModified": "2026-05-17T00:31:47+08:00",
-        "contentHash": "sha256:19740acf787fc53e",
-        "bodyHash": "sha256:eaf89ac01bb318f9"
-      },
-      "translations": {
-        "en": {
-          "path": "en/Food/taiwanese-salt-and-pepper-fried-chicken.md",
-          "translatedFrom": "Food/台灣鹹酥雞.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:19740acf787fc53e",
-          "sourceBodyHash": "sha256:eaf89ac01bb318f9",
-          "translatedAt": "2026-05-17T06:02:00Z",
-          "translationLastCommit": "cf90406b",
-          "translationLastModified": "2026-05-17T06:12:59+08:00",
-          "inferred": false,
-          "footnoteDefs": 2,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
-        },
-        "ja": {
-          "path": "ja/Food/taiwanese-salt-and-pepper-fried-chicken.md",
-          "translatedFrom": "Food/台灣鹹酥雞.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:19740acf787fc53e",
-          "sourceBodyHash": "sha256:eaf89ac01bb318f9",
-          "translatedAt": "2026-05-17T05:33:00Z",
-          "translationLastCommit": "cf90406b",
-          "translationLastModified": "2026-05-17T06:12:59+08:00",
-          "inferred": false,
-          "footnoteDefs": 2,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
-        },
-        "ko": {
-          "path": "ko/Food/taiwanese-salt-and-pepper-fried-chicken.md",
-          "translatedFrom": "Food/台灣鹹酥雞.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:19740acf787fc53e",
-          "sourceBodyHash": "sha256:eaf89ac01bb318f9",
-          "translatedAt": "2026-05-17T05:33:00Z",
-          "translationLastCommit": "cf90406b",
-          "translationLastModified": "2026-05-17T06:12:59+08:00",
-          "inferred": false,
-          "footnoteDefs": 2,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
-        },
-        "es": {
-          "path": "es/Food/taiwanese-salt-and-pepper-fried-chicken.md",
-          "translatedFrom": "Food/台灣鹹酥雞.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:19740acf787fc53e",
-          "sourceBodyHash": "sha256:eaf89ac01bb318f9",
-          "translatedAt": "2026-05-17T05:33:00Z",
-          "translationLastCommit": "cf90406b",
-          "translationLastModified": "2026-05-17T06:12:59+08:00",
-          "inferred": false,
-          "footnoteDefs": 2,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
-        },
-        "fr": {
-          "path": "fr/Food/taiwanese-salt-and-pepper-fried-chicken.md",
-          "translatedFrom": "Food/台灣鹹酥雞.md",
-          "sourceCommitSha": "85926aa3b",
-          "sourceContentHash": "sha256:19740acf787fc53e",
-          "sourceBodyHash": "sha256:eaf89ac01bb318f9",
-          "translatedAt": "2026-06-07T02:26:08+08:00",
-          "translationLastCommit": "5136ed19",
-          "translationLastModified": "2026-06-07T05:26:41+08:00",
-          "inferred": false,
-          "footnoteDefs": 2,
           "status": "fresh",
           "reason": "same-commit"
         }
@@ -55575,6 +55495,31 @@
         }
       }
     },
+    "History/迪士尼.md": {
+      "zh": {
+        "lastCommit": "1ed7ed38",
+        "lastModified": "2026-06-26T22:07:25+08:00",
+        "contentHash": "sha256:5cc3c5f96a34e51e",
+        "bodyHash": "sha256:ad7b91e555067f88"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "Geography/北大特區.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -57012,6 +56957,31 @@
           "footnoteDefs": 6,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Geography/烏坵.md": {
+      "zh": {
+        "lastCommit": "bce74269",
+        "lastModified": "2026-06-26T14:19:40+08:00",
+        "contentHash": "sha256:2935ce10538c2b78",
+        "bodyHash": "sha256:79946e3edca12d9c"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -61815,6 +61785,31 @@
         }
       }
     },
+    "Culture/滿月習俗.md": {
+      "zh": {
+        "lastCommit": "8f7ec7d5",
+        "lastModified": "2026-06-26T16:28:00+08:00",
+        "contentHash": "sha256:071279c0b606b84b",
+        "bodyHash": "sha256:1d9b4f6d77ed0f1e"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "Culture/擲筊.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -63412,6 +63407,31 @@
           "footnoteDefs": 9,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Culture/台灣聲景.md": {
+      "zh": {
+        "lastCommit": "9aeb171e",
+        "lastModified": "2026-06-26T18:54:01+08:00",
+        "contentHash": "sha256:0c33e898d4ba7e93",
+        "bodyHash": "sha256:efd1cd3b8e9f03d6"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },

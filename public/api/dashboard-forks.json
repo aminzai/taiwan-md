@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25",
+  "lastUpdated": "2026-06-26",
   "totalDetected": 8,
   "publicConfirmed": 5,
   "privateOrUnconfirmed": 3,
@@ -66,7 +66,7 @@
       "cognitiveLayer": "growing",
       "health": "active",
       "firstSeen": "2026-06",
-      "views365d": 44
+      "views365d": 50
     },
     {
       "label": "weilinlai719/taiwan-md (vanilla)",

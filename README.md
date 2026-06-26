@@ -48,21 +48,21 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 820   |
-| 🇹🇼 Chinese (zh-TW)             | 820   |
-| 🇺🇸 English (en)                | 827   |
-| 🇯🇵 日本語 (ja)                 | 822   |
-| 🇰🇷 한국어 (ko)                 | 823   |
-| 🇪🇸 Español (es)                | 822   |
-| 🇫🇷 Français (fr)               | 823   |
+| 📄 Total articles (zh-TW SSOT) | 823   |
+| 🇹🇼 Chinese (zh-TW)             | 823   |
+| 🇺🇸 English (en)                | 826   |
+| 🇯🇵 日本語 (ja)                 | 821   |
+| 🇰🇷 한국어 (ko)                 | 822   |
+| 🇪🇸 Español (es)                | 821   |
+| 🇫🇷 Français (fr)               | 822   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 61    |
-| ⭐ GitHub Stars                | 1065  |
+| ⭐ GitHub Stars                | 1068  |
 | 🍴 Forks                       | 156   |
-| 📅 Articles last 7 days        | 36    |
-| 📅 Articles last 30 days       | 151   |
+| 📅 Articles last 7 days        | 39    |
+| 📅 Articles last 30 days       | 150   |
 
 <!-- STATS:END -->
 

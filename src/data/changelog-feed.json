@@ -1,13 +1,228 @@
 {
-  "generatedAt": "2026-06-25T22:12:01.144Z",
+  "generatedAt": "2026-06-26T15:09:36.596Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "16bd50c9b76f30ee8af64f8344b4dc300350be93",
+      "date": "2026-06-26T22:10:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-26-220826-twmd-maintainer-pm — issue #1180 contributor deep-heal 迪士尼 31 footnote canonical + humanized reply",
+      "articles": []
+    },
+    {
+      "hash": "1ed7ed38805132c868c34ce9c2b7a6f8301dd6d4",
+      "date": "2026-06-26T22:07:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 迪士尼 footnote canonical [N]→[^N] + ≥10字描述 (issue #1180 contributor 回應)",
+      "articles": [
+        {
+          "url": "/history/迪士尼",
+          "name": "迪士尼"
+        }
+      ]
+    },
+    {
+      "hash": "4beff6d20aa72a6a0eb71241a383c632d34353c0",
+      "date": "2026-06-26T19:13:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-26-190712-twmd-rewrite-daily — DEFERRED post-manual-finale saturation vc=4 → LESSONS promote",
+      "articles": []
+    },
+    {
+      "hash": "9aeb171e87534a022eab355d3b6286c7d758e1de",
+      "date": "2026-06-26T18:54:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 2026-06-26-181414-manual — 早上修別人編的腳註，下午接住自己寫手編的同一種腳註",
+      "articles": [
+        {
+          "url": "/culture/台灣聲景",
+          "name": "台灣聲景"
+        }
+      ]
+    },
+    {
+      "hash": "5d0eddbbb1e0a4589be3fb47f15202ec3cc8adbf",
+      "date": "2026-06-26T18:18:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-26-181414-manual — 2 PR deep-heal + 9 issue 逐條進化 (含聲景 #574 REWRITE)",
+      "articles": []
+    },
+    {
+      "hash": "d80c9347e5a7a6a9ba7ef8ee989fcd582e0a4959",
+      "date": "2026-06-26T18:12:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣聲景 NEW 深度文 ship (issue #574 投稿者協作)",
+      "articles": [
+        {
+          "url": "/culture/台灣聲景",
+          "name": "台灣聲景"
+        }
+      ]
+    },
+    {
+      "hash": "d980c78e2f4cbdfa2685e5235364bd91b15ac7d2",
+      "date": "2026-06-26T17:34:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: /changelog + /latest 長列表 content-visibility 跳過離屏渲染 (issue #1171)",
+      "articles": []
+    },
+    {
+      "hash": "72249ac3657a3533bb5c227875aab8728e22b4d9",
+      "date": "2026-06-26T17:31:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 朗讀挑最高品質語音而非第一個相符 (issue #280)",
+      "articles": []
+    },
+    {
+      "hash": "008d5317d7dbacd9768083897b43b97bcf19b328",
+      "date": "2026-06-26T17:28:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: ARTICLE-INBOX +台灣KTV文化 P2 (issue #1016 拆分→獨立深度文回應)",
+      "articles": []
+    },
+    {
+      "hash": "539c393a5941dea1dcb0dd522d9208a20d3d8ce2",
+      "date": "2026-06-26T17:19:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] immune: 鹹酥雞 合併進 鹽酥雞 canonical + 6-lang redirect (issue #1175)",
+      "articles": [
+        {
+          "url": "/food/台灣鹹酥雞",
+          "name": "台灣鹹酥雞"
+        },
+        {
+          "url": "/food/台灣鹽酥雞",
+          "name": "台灣鹽酥雞"
+        }
+      ]
+    },
+    {
+      "hash": "1f73f023078ca63f5165094602f406bc1294102a",
+      "date": "2026-06-26T16:55:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 用語誤判白名化 吸引眼球/博取眼球/糾結 (issue #1140)",
+      "articles": []
+    },
+    {
+      "hash": "8f7ec7d5a3a1f14f09d86aad70650c80366b02c9",
+      "date": "2026-06-26T16:28:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 滿月習俗 footnote de-fabrication + frontmatter (PR #1174 post-merge)",
+      "articles": [
+        {
+          "url": "/culture/滿月習俗",
+          "name": "滿月習俗"
+        }
+      ]
+    },
+    {
+      "hash": "a436f261cf856b6b8a248de393ab96fb4e601ae2",
+      "date": "2026-06-26T14:49:11+08:00",
+      "author": "idlccp1984",
+      "message": "Create 滿月習俗.md (#1174)",
+      "articles": [
+        {
+          "url": "/culture/滿月習俗",
+          "name": "滿月習俗"
+        }
+      ]
+    },
+    {
+      "hash": "bce7426944c02a7f5e625497df164dbbb888d77c",
+      "date": "2026-06-26T14:19:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 烏坵 frontmatter + footnote re-source (PR #1178 post-merge)",
+      "articles": [
+        {
+          "url": "/geography/烏坵",
+          "name": "烏坵"
+        }
+      ]
+    },
+    {
+      "hash": "2aa68485938a2d849aa417fd112a63a1ce19320f",
+      "date": "2026-06-26T14:14:59+08:00",
+      "author": "idlccp1984",
+      "message": "Create 烏坵.md (#1178)",
+      "articles": [
+        {
+          "url": "/geography/烏坵",
+          "name": "烏坵"
+        }
+      ]
+    },
+    {
+      "hash": "a18148f203b5393ee8861fbc07851d17802e6617",
+      "date": "2026-06-26T08:47:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-26-084208-twmd-maintainer-am — 1 PR merge+heal (#1179 迪士尼) / 2 PR carry hold (#1174 #1178) / vc=0",
+      "articles": []
+    },
+    {
+      "hash": "2b94068a11d3672d96ae0d713eab28adfdbce2f7",
+      "date": "2026-06-26T08:45:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 迪士尼 +featured:false +subcategory='社會與日常史' +cjk-punct (PR #1179 post-merge)",
+      "articles": [
+        {
+          "url": "/history/迪士尼",
+          "name": "迪士尼"
+        }
+      ]
+    },
+    {
+      "hash": "6c19207c72fb6feeda8299f9fd856ab7e1750c56",
+      "date": "2026-06-26T08:43:57+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1179 from idlccp1984/patch-600213",
+      "articles": []
+    },
+    {
+      "hash": "6a177e0906242ca365772eaa2327ac8153de4246",
+      "date": "2026-06-26T07:09:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: clean no-op 連 7 cycle — 0 new / 0 issue / 0 archive sync — backend 可達靜默鏡像 — 07:00 cron 準時 fire (07:06 +7min) launchd 早晨 window 連 2 日健康 + 6/19 髒 tree 第 8 天 spawn housekeeping chip",
+      "articles": []
+    },
+    {
+      "hash": "ebd27cabd504ef2500fcfbf4b2c7f68dff9c7ecc",
+      "date": "2026-06-26T06:44:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 8 events D+0 acute + D+2 trend + D+7 finalize + D+12 long-tail — 2026-06-26",
+      "articles": []
+    },
+    {
+      "hash": "14fb327db67f892c80e7bf9ca0c3a6267ecac5e9",
+      "date": "2026-06-26T06:15:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-26-061325-twmd-data-refresh-am — am 14-step ALL PASS 連 31d fresh + CF 404 reversal vc=3 成立 (4 升+3 跌) + AI U 形 第 4 cycle 微升 130-134K mid-baseline plateau 確立 + immune 50 chronic decay 加深第 2 cycle (next pm 若 49 = vc=2 升 LESSONS 跨「感知到卻沒 action」紀律邊界)",
+      "articles": []
+    },
+    {
+      "hash": "9c86c1bb94627c6e42564c13daafd06e4a3131ae",
+      "date": "2026-06-26T06:13:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: am 14-step data refresh — 三源全綠 + Step 11 12/12 fresh 連 31d + immune 50→50 chronic flat 加深第 2 cycle (plugin_health 36 持平 / external_rulers 3.8 持平) + CF 404 11.84→11.64 -0.20pp am-reversal 續第 3 cycle vc=3 (升勢回檔成立 4 升+3 跌) + AI 132K→133K +1K U形 第 4 cycle 微升 + i18n babel 隔夜 +3 each lang en825 ja820 ko821 es820 fr821 / 📄zh 820 持平 / stats ⭐1065 持平 / build 174s→176s +2s; fork-census 3 sightings (LagunaBeach/Malaysia/weilinlai719 vanilla) 全已知不升 OBSERVER-QUEUE; 14-step PASS no stale handling needed; 6/19 視覺化型錄-recat + 端午節.md 殘留髒 tree 第 8 天未觸碰 (#6/#35 scope)",
+      "articles": []
+    },
     {
       "hash": "d240042c3d2de4c4d7569e6e5ea5bc852958339e",
       "date": "2026-06-26T05:09:15+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] memory: 2026-06-26-050759-twmd-embeddings-nightly — fleet-down graceful skip 連續第 9 夜",
       "articles": []
+    },
+    {
+      "hash": "f85e61c0f686ba05cba591d0702160c190ca456a",
+      "date": "2026-06-26T04:56:37+08:00",
+      "author": "idlccp1984",
+      "message": "Create 迪士尼.md",
+      "articles": [
+        {
+          "url": "/history/迪士尼",
+          "name": "迪士尼"
+        }
+      ]
     },
     {
       "hash": "2d698440c08f42fdb8e9c94cfa8fb87b7afe4fea",

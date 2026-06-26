@@ -1,32 +1,32 @@
 {
-  "totalArticles": 4939,
+  "totalArticles": 4937,
   "totalCategories": 20,
   "estimatedContributors": 61,
-  "totalTags": 6068,
+  "totalTags": 6077,
   "categories": [
     {
       "name": "es",
-      "count": 822
+      "count": 821
     },
     {
       "name": "ko",
-      "count": 823
-    },
-    {
-      "name": "fr",
-      "count": 823
-    },
-    {
-      "name": "en",
-      "count": 827
-    },
-    {
-      "name": "ja",
       "count": 822
     },
     {
+      "name": "fr",
+      "count": 822
+    },
+    {
+      "name": "en",
+      "count": 826
+    },
+    {
+      "name": "ja",
+      "count": 821
+    },
+    {
       "name": "History",
-      "count": 47
+      "count": 48
     },
     {
       "name": "Politics",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Culture",
-      "count": 64
+      "count": 66
     },
     {
       "name": "People",
@@ -54,11 +54,11 @@
     },
     {
       "name": "Food",
-      "count": 57
+      "count": 56
     },
     {
       "name": "Geography",
-      "count": 64
+      "count": 65
     },
     {
       "name": "Economy",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4939,
+    "zh-TW": 4937,
     "en": 0
   },
-  "lastUpdated": "2026-06-25T22:11:59.483Z",
-  "stars": 1065,
+  "lastUpdated": "2026-06-26T15:09:35.005Z",
+  "stars": 1068,
   "forks": 156,
-  "zhPages": 820,
-  "enPages": 827,
-  "totalPages": 820
+  "zhPages": 823,
+  "enPages": 826,
+  "totalPages": 823
 }

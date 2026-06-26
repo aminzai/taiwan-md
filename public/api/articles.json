@@ -5728,23 +5728,6 @@
     "path": "ja/Nature/cetaceans-of-taiwan.md"
   },
   {
-    "title": "台湾の鹹酥雞（シェンスージー）",
-    "description": "台湾で最も広く親しまれている夜食文化——鹹酥雞屋台の社会学から揚げ物美学の進化まで",
-    "category": "ja",
-    "tags": [
-      "鹹酥雞",
-      "夜食文化",
-      "揚げ物",
-      "九層塔",
-      "夜市"
-    ],
-    "url": "https://taiwan.md/ja/food/taiwanese-salt-and-pepper-fried-chicken",
-    "readingTime": 13,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "ja/Food/taiwanese-salt-and-pepper-fried-chicken.md"
-  },
-  {
     "title": "台湾のAI日常――人工知能が街角に浸透するまで",
     "description": "台湾人は毎日十数回AIとやり取りしているが、大半の人は自分がAIと話していることに気づいていない",
     "category": "ja",
@@ -9932,6 +9915,23 @@
     "path": "Music/台灣聲音地景.md"
   },
   {
+    "title": "台灣聲景：垃圾車的古典樂、捷運的鳥鳴，和一座只聽見卻很少聆聽的島",
+    "description": "同一年，台北捷運一邊找雷光夏、李欣芸把進站音樂變成藝術，一邊把關門警示音的旋律拿掉、改回鳥鳴聲。聲音同時被美學化與功能化。台灣用《噪音管制法》要消除的這些聲音，其實是我們辨認「這裡是家」的地標。一個聲景研究碩士的提問：理解台灣，可以從問「我們習慣忽略什麼聲音」開始。",
+    "category": "Culture",
+    "tags": [
+      "聲景",
+      "聆聽",
+      "城市文化",
+      "感知",
+      "台北捷運"
+    ],
+    "url": "https://taiwan.md/culture/%E5%8F%B0%E7%81%A3%E8%81%B2%E6%99%AF",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "Culture/台灣聲景.md"
+  },
+  {
     "title": "台灣殯葬文化與生死觀",
     "description": "從孝女白琴的哭聲到詠愛園的樹葬——台灣人花了五十年從土葬走向火葬，又花十年從靈骨塔走向一棵樹下。",
     "category": "Culture",
@@ -10077,23 +10077,6 @@
     "path": "Nature/台灣獼猴.md"
   },
   {
-    "title": "台灣鹹酥雞",
-    "description": "台灣最普遍的宵夜文化，從鹹酥雞攤的社會學到炸物美學的進化",
-    "category": "Food",
-    "tags": [
-      "鹹酥雞",
-      "宵夜文化",
-      "炸物",
-      "九層塔",
-      "夜市"
-    ],
-    "url": "https://taiwan.md/food/%E5%8F%B0%E7%81%A3%E9%B9%B9%E9%85%A5%E9%9B%9E",
-    "readingTime": 9,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "Food/台灣鹹酥雞.md"
-  },
-  {
     "title": "台灣麵包與烘焙",
     "description": "從吳寶春的世界冠軍到85度C的國際擴張，探索台式麵包的獨特魅力",
     "category": "Food",
@@ -10181,14 +10164,17 @@
     "description": "1975 年，一個餐廳經營失敗的台南人陳廷智在西門町擺起推車，用祖傳醃料炸雞塊。五十年後，鹽酥雞成了台灣少數不需要夜市、不需要店面、只靠一台推車和一鍋油就能存活的小吃——CNN 兩度將它列入台灣必吃清單，但它最正宗的吃法，永遠是半夜在路邊等那個紙袋。",
     "category": "Food",
     "tags": [
+      "鹽酥雞",
+      "鹹酥雞",
       "小吃",
       "夜市",
       "炸物",
-      "台灣美食"
+      "宵夜文化",
+      "九層塔"
     ],
     "url": "https://taiwan.md/food/%E5%8F%B0%E7%81%A3%E9%B9%BD%E9%85%A5%E9%9B%9E",
-    "readingTime": 11,
-    "featured": false,
+    "readingTime": 13,
+    "featured": true,
     "date": "2026-04-01",
     "path": "Food/台灣鹽酥雞.md"
   },
@@ -15016,6 +15002,17 @@
     "path": "ja/Music/eggplant-egg-band.md"
   },
   {
+    "title": "迪士尼與台灣：從宏廣代工、月眉遺憾到IP在地化的奇幻旅程",
+    "description": "從1980年代撐起好萊塢動畫半邊天的「東方迪士尼」宏廣，到兩度與迪士尼樂園擦身而過，甚至《玩具總動員3》曾計畫以台灣為場景，以及史迪奇騎機車的在地化形象，台灣與迪士尼的連結遠比想像中深厚且多元。",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/history/%E8%BF%AA%E5%A3%AB%E5%B0%BC",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "History/迪士尼.md"
+  },
+  {
     "title": "郁永河",
     "description": "1697年，一個杭州書生自願跑到瘴癘之地台灣採硫磺，從台南徒步走到北投，寫下台灣最早的北部紀實文學",
     "category": "People",
@@ -15604,6 +15601,23 @@
     "featured": false,
     "date": "2026-06-01",
     "path": "ja/History/taiwan-defunct-amusement-parks.md"
+  },
+  {
+    "title": "烏坵：離島中的離島，被遺忘的軍事孤島與核廢陰影",
+    "description": "烏坵是台灣最偏遠的行政區，由大坵、小坵組成。這座行政隸屬金門、交通命脈卻繫於台中的孤島，曾是國共對峙的前線游擊基地。本文深度解析烏坵嶼燈塔復燈的主體性意義、興化語文化的傳承，以及長達二十年的核廢料場址公投爭議，展現這座邊緣島嶼在國家敘事中的孤獨與韌性。",
+    "category": "Geography",
+    "tags": [
+      "金門",
+      "烏坵",
+      "核廢料",
+      "燈塔",
+      "戰地政務"
+    ],
+    "url": "https://taiwan.md/geography/%E7%83%8F%E5%9D%B5",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "Geography/烏坵.md"
   },
   {
     "title": "特有種",
@@ -20284,6 +20298,23 @@
     "featured": false,
     "date": "2026-05-18",
     "path": "Geography/彰化縣.md"
+  },
+  {
+    "title": "滿月習俗：從「喊利鷂」到彌月禮，台灣育兒文化的百年演變",
+    "description": "2026 年的台灣，滿月禮已演變為精緻的法式蛋糕與公益餅乾，背後卻藏著一段從「老鷹口中搶孩子」的驚險文化史。從剃頭禮、做膽、娘家頭尾禮，到神祕的客家「喊利鷂」，再到現代的彌月禮盒與紅包行情，滿月始終承載著台灣社會對新生命最溫柔的保護契約，也記錄著育兒文化從家族導向走向社交導向的百年變遷。",
+    "category": "Culture",
+    "tags": [
+      "滿月",
+      "習俗",
+      "喊利鷂",
+      "剃頭",
+      "彌月禮"
+    ],
+    "url": "https://taiwan.md/culture/%E6%BB%BF%E6%9C%88%E7%BF%92%E4%BF%97",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "Culture/滿月習俗.md"
   },
   {
     "title": "漯底山",
@@ -38886,17 +38917,6 @@
     "path": "fr/Technology/tamsui-river-bridge.md"
   },
   {
-    "title": "Le poulet frit au sel et poivre de Taïwan",
-    "description": "La culture de la collation nocturne la plus répandue à Taïwan, de la sociologie des stands de poulet frit à l'évolution de l'esthétique de la friture",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/food/taiwanese-salt-and-pepper-fried-chicken",
-    "readingTime": 39,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "fr/Food/taiwanese-salt-and-pepper-fried-chicken.md"
-  },
-  {
     "title": "Le poulet sel et poivre taïwanais (鹽酥雞)",
     "description": "En 1975, Chen Ting-zhi, un restaurateur de Tainan ruiné, installe sa charrette à Ximending avec une marinade familiale secrète. Cinquante ans plus tard, le salt-and-pepper chicken est devenu l'une des rares spécialités de rue taïwanaises capables de survivre sans marché nocturne ni enseigne — rien qu'une charrette et une cuve d'huile. CNN l'a classé deux fois parmi les incontournables de Taïwan, mais la façon la plus authentique de le manger reste la même : attendre à minuit sur un trottoir que le sachet en papier soit tendu.",
     "category": "fr",
@@ -44610,17 +44630,6 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "fr/Economy/taiwan-international-trade-policy.md"
-  },
-  {
-    "title": "Pollo frito con sal y pimienta taiwanés",
-    "description": "La cultura de la cena tardía más extendida en Taiwán: de la sociología del puesto de pollo frito a la evolución de la estética de los fritos",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/food/taiwanese-salt-and-pepper-fried-chicken",
-    "readingTime": 38,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "es/Food/taiwanese-salt-and-pepper-fried-chicken.md"
   },
   {
     "title": "Pommes de terre toxiques : au-delà de 200 ppm, il y a aussi 30 ppm, 14 jours et 15 ans de cicatrices de sécurité alimentaire",
@@ -50853,17 +50862,6 @@
     "featured": true,
     "date": "2026-03-24",
     "path": "en/Art/taiwanese-prose.md"
-  },
-  {
-    "title": "Taiwanese Salt-and-Pepper Fried Chicken",
-    "description": "Taiwan's most pervasive late-night food culture — from the sociology of the fried chicken stall to the evolution of deep-fried aesthetics",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/food/taiwanese-salt-and-pepper-fried-chicken",
-    "readingTime": 36,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Food/taiwanese-salt-and-pepper-fried-chicken.md"
   },
   {
     "title": "Taiwanese Screen Scoring: From Laying Emotion Under Images to Unearthing an Island's Own Sound",
@@ -65004,23 +65002,6 @@
     "featured": false,
     "date": "2026-05-17",
     "path": "ko/History/resolution-on-taiwans-future.md"
-  },
-  {
-    "title": "타이완 젠수지: 야식 문화의 정수",
-    "description": "타이완에서 가장 보편적인 야식 문화, 젠수지 포장마차의 사회학부터 튀김 미학의 진화까지",
-    "category": "ko",
-    "tags": [
-      "젠수지",
-      "야식문화",
-      "튀김",
-      "구층탑(바질)",
-      "야시장"
-    ],
-    "url": "https://taiwan.md/ko/food/taiwanese-salt-and-pepper-fried-chicken",
-    "readingTime": 16,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "ko/Food/taiwanese-salt-and-pepper-fried-chicken.md"
   },
   {
     "title": "타이완 채식 문화",

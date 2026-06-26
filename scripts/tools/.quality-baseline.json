@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-06-25T22:12:00Z",
-  "total": 822,
-  "flagged": 327,
+  "timestamp": "2026-06-26T15:09:35Z",
+  "total": 825,
+  "flagged": 329,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -1175,11 +1175,6 @@
       "reasons": "年份僅0個; 無URL來源; 空洞詞7個; 未人工審核; 塑膠句2個; 稀薄段落×7"
     },
     {
-      "file": "food/台灣鹽酥雞.md",
-      "score": 4,
-      "reasons": "塑膠句1個; 破折號19個"
-    },
-    {
       "file": "food/台灣咖啡產業.md",
       "score": 9,
       "reasons": "空洞詞7個; 塑膠句2個; 破折號7個; 稀薄段落×3; 品質衰退前22%後10%; 無腳註"
@@ -1375,6 +1370,11 @@
       "reasons": "未人工審核; 連續bullet4行; 塑膠句4個; 破折號7個; 無腳註"
     },
     {
+      "file": "history/迪士尼.md",
+      "score": 6,
+      "reasons": "年份4個; 空洞詞10個; 未人工審核; 稀薄段落×7"
+    },
+    {
       "file": "geography/北大特區.md",
       "score": 5,
       "reasons": "未人工審核; 教科書開場; 套路結尾"
@@ -1408,6 +1408,11 @@
       "file": "geography/漯底山.md",
       "score": 6,
       "reasons": "年份2個; 未人工審核; 後段清單堆砌38%; 稀薄段落×2"
+    },
+    {
+      "file": "geography/烏坵.md",
+      "score": 5,
+      "reasons": "未人工審核; 教科書開場; 稀薄段落×2"
     },
     {
       "file": "geography/清水斷崖.md",
@@ -1518,6 +1523,11 @@
       "file": "culture/原住民神話.md",
       "score": 6,
       "reasons": "年份僅1個; 塑膠句5個"
+    },
+    {
+      "file": "culture/滿月習俗.md",
+      "score": 7,
+      "reasons": "年份僅1個; 未人工審核; 連續bullet5行; 稀薄段落×2"
     },
     {
       "file": "culture/擲筊.md",
