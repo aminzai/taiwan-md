@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-06-26T15:09:36.596Z",
+  "generatedAt": "2026-06-26T22:11:45.835Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "b38f21a67db4024b7c765ba01adcbc129084d048",
+      "date": "2026-06-27T05:09:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-27-050726-twmd-embeddings-nightly — Stage 0 fleet-down graceful skip 連續第 10 夜 (4090 http_code=000 + ping 100% loss) 索引留 d474c977e 06-17 snapshot staleness 10d ~26 篇 fallback 同 category 不壞頁 / vc 封頂 3 不 re-inflate / 只欠哲宇 A/B",
+      "articles": []
+    },
+    {
+      "hash": "327751199f1f58c07fb3fecbc6e2d5c39245eff1",
+      "date": "2026-06-27T01:06:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-27-010207-twmd-babel-nightly — 25 translations 連 10 夜 stale=0 + 3 LESSONS candidate (bash GROUPS builtin / prepare-batch --lang all race / Tier 0a self-verify softgate vc=2 promotion-ready)",
+      "articles": []
+    },
+    {
+      "hash": "cbf4f2324ddfbe27c5f4912b1206c22a354cf57e",
+      "date": "2026-06-27T01:01:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 25 translations shipped — stale=0 → 0→0 across 5 lang via Tier 1 codex 20 (4 P0 NEW: 台灣聲景/滿月習俗/烏坵/迪士尼 × 5 lang) + Tier 0a Sonnet diff-patch 5 (鹽酥雞 +鹹酥雞vs日式唐揚 section + 延伸閱讀 × 5 lang) + ja legacy footnote-format heal — 2026-06-27",
+      "articles": []
+    },
+    {
+      "hash": "3729ff82cd4402741545b04ae7a1648eaf46dada",
+      "date": "2026-06-26T23:13:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-26-231025-twmd-data-refresh-pm — pm 14-step ALL PASS 連 31d Step 11 12/12 fresh + CF 404 reversal vc=4 LESSONS candidate (4 cycle 累積 -1.14pp) + AI U 形 plateau 第 5 cycle 鎖定 + immune 50 chronic 第 3 cycle 持平未跨閾值",
+      "articles": []
+    },
+    {
+      "hash": "9d0fc14ac340fb05760946bd213024b2895f5291",
+      "date": "2026-06-26T23:13:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: pm 14-step data refresh — 三源全綠 + Step 11 12/12 fresh 連 31d 第 32 cycle + CF 404 11.64→10.9 -0.74pp am-reversal 加深第 4 cycle vc=4 (4 cycle 累積 -1.14pp) + AI 132K -1K U 形 plateau 第 5 cycle 鎖定 130-134K mid-baseline + immune 50→50 chronic 第 3 cycle 持平未跨 49 升 LESSONS 閾值 (plugin_health 36 持平 / external_rulers 3.8 持平 / review_coverage 26.5→26.2 微跌) + i18n zh 820→823 +3 (聲景 #574 + 鼎泰豐/蓬萊米 carry) en824 ja819 ko820 es819 fr820 / stats ⭐1065→1068 +3 / build 176s→183s +7s; fork-census 3 sightings (LagunaBeach/Malaysia/weilinlai719 vanilla) 全已知不升 OBSERVER-QUEUE; 14-step PASS no stale handling needed; 6/19 視覺化型錄-recat + 端午節.md 殘留髒 tree 第 8 天 auto-stash + restore 跨 cycle 不阻塞 (#6/#35 scope housekeeping chip am 已 spawn 等哲宇)",
+      "articles": []
+    },
     {
       "hash": "16bd50c9b76f30ee8af64f8344b4dc300350be93",
       "date": "2026-06-26T22:10:29+08:00",

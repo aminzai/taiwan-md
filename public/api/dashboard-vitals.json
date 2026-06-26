@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T15:09:41.465Z",
+  "lastUpdated": "2026-06-26T22:11:50.722Z",
   "totalArticles": 823,
   "contributors": 61,
   "stars": 1068,
@@ -11,10 +11,10 @@
   "avgRevision": 8,
   "languageCoverage": {
     "zh-TW": 823,
-    "en": 824,
-    "ja": 819,
-    "ko": 820,
-    "es": 819,
-    "fr": 820
+    "en": 828,
+    "ja": 823,
+    "ko": 824,
+    "es": 823,
+    "fr": 824
   }
 }

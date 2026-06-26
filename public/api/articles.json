@@ -5413,14 +5413,17 @@
     "description": "1975年、レストラン経営に失敗した台南出身の陳廷智が西門町に屋台を出し、伝統の漬けダレで鶏肉を揚げた。50年後、塩酥雞は夜市も店舗も必要とせず、一台の屋台と一つの油鍋だけで成り立つ台湾の数少ない屋台小吃となった——CNNは二度にわたり台湾の必食べリストに選出したが、最も本格的な食べ方は、深夜に道端であの紙袋を待つことである。",
     "category": "ja",
     "tags": [
+      "塩酥雞",
+      "鹹酥雞",
       "小吃",
       "夜市",
       "揚げ物",
-      "台湾料理"
+      "夜食文化",
+      "タイバジル"
     ],
     "url": "https://taiwan.md/ja/food/taiwanese-popcorn-chicken-redux",
-    "readingTime": 14,
-    "featured": false,
+    "readingTime": 17,
+    "featured": true,
     "date": "2026-04-01",
     "path": "ja/Food/taiwanese-popcorn-chicken-redux.md"
   },
@@ -5921,6 +5924,23 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "ja/Music/taiwan-soundscape.md"
+  },
+  {
+    "title": "台湾のサウンドスケープ：ごみ収集車のクラシック音楽、MRTの鳥の声、そして聞こえてはいてもほとんど聴かれていない島",
+    "description": "同じ年に、台北MRTは雷光夏、李欣芸に依頼して入線メロディを芸術に変える一方、ドア閉鎖警告音から旋律を取り除き、鳥の鳴き声に戻しました。音は同時に美学化され、機能化されました。台湾が『騒音管制法』によって消そうとしてきたこれらの音は、実は私たちが「ここが家だ」と識別するためのランドマークです。サウンドスケープ研究の修士が投げかける問いは、台湾を理解することは「私たちはどんな音を無視することに慣れているのか」と問うことから始められる、というものです。",
+    "category": "ja",
+    "tags": [
+      "サウンドスケープ",
+      "聴取",
+      "都市文化",
+      "知覚",
+      "台北MRT"
+    ],
+    "url": "https://taiwan.md/ja/culture/taiwan-soundscape",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "ja/Culture/taiwan-soundscape.md"
   },
   {
     "title": "台湾のストリート・グラフィティ：深夜のアウトローから西門町の都市の光へ",
@@ -15620,6 +15640,23 @@
     "path": "Geography/烏坵.md"
   },
   {
+    "title": "烏坵：離島の中の離島、忘れられた軍事孤島と核廃棄物の影",
+    "description": "烏坵は台湾で最も辺境にある行政区で、大坵と小坵から成ります。この島は行政上は金門に属しながら、交通の生命線は台中に結びついており、かつて国共対峙の前線ゲリラ基地でした。本稿では、烏坵嶼灯台の再点灯が持つ主体性の意味、興化語文化の継承、そして二十年にわたる核廃棄物処分場候補地をめぐる住民投票論争を深く分析し、この周縁の島が国家叙事の中で抱える孤独としなやかな強さを描きます。",
+    "category": "ja",
+    "tags": [
+      "金門",
+      "烏坵",
+      "核廃棄物",
+      "灯台",
+      "戦地政務"
+    ],
+    "url": "https://taiwan.md/ja/geography/wuqiu",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "ja/Geography/wuqiu.md"
+  },
+  {
     "title": "特有種",
     "description": "台灣豐富的特有種生物：島嶼地理學、垂直氣候帶與長期隔離演化的共同產物，也是全球生物多樣性研究的重要田野場域",
     "category": "Nature",
@@ -18437,6 +18474,23 @@
     "featured": false,
     "date": "2026-03-22",
     "path": "ja/Lifestyle/hot-spring-culture.md"
+  },
+  {
+    "title": "満月習俗：「喊利鷂」から弥月礼まで、台湾の育児文化の百年の変遷",
+    "description": "2026年の台湾では、満月礼は精巧なフランス菓子や公益団体のクッキーへと変化しています。しかしその背後には、「タカの口から子どもを奪い返す」ような、緊迫した文化史が隠れています。剃髪礼、做胆、母方の実家から贈る頭尾礼、神秘的な客家の「喊利鷂」から、現代の弥月ギフトボックスや祝い金の相場まで、満月は一貫して、台湾社会が新しい生命に差し出してきた最もやさしい保護の契約を担い、育児文化が家族志向から社交志向へと移り変わる百年の変遷を記録しています。",
+    "category": "ja",
+    "tags": [
+      "満月",
+      "習俗",
+      "喊利鷂",
+      "剃髪",
+      "弥月礼"
+    ],
+    "url": "https://taiwan.md/ja/culture/manyue-month-old-baby-celebration",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "ja/Culture/manyue-month-old-baby-celebration.md"
   },
   {
     "title": "無名小站：拾ってきたパソコン、売り渡された青春、そして誰も弔わなかった消滅",
@@ -27876,6 +27930,28 @@
     "path": "es/Music/choir.md"
   },
   {
+    "title": "Costumbres del primer mes: de «gritar al águila» a los regalos de manyue, un siglo de evolución de la crianza en Taiwán",
+    "description": "En el Taiwán de 2026, los regalos por el primer mes del bebé se han transformado en refinados pasteles franceses y galletas benéficas, pero detrás de ellos se oculta una historia cultural dramática: la de «arrebatar al niño de la boca del águila». Desde el rito del primer corte de cabello, el «hacer valor», los regalos de ropa de la familia materna y el misterioso rito hakka de «gritar al águila», hasta las modernas cajas de regalo de manyue y las tarifas habituales de sobres rojos, el primer mes siempre ha encarnado el pacto de protección más tierno de la sociedad taiwanesa hacia una nueva vida, y también registra un siglo de transformación de la cultura de crianza, de una orientación familiar a una orientación social.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/culture/manyue-month-old-baby-celebration",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "es/Culture/manyue-month-old-baby-celebration.md"
+  },
+  {
+    "title": "Coutumes du premier mois : de « l'appel au milan » aux cadeaux de miyue, un siècle d'évolution de la culture taïwanaise de la petite enfance",
+    "description": "À Taïwan en 2026, le rite du premier mois est devenu affaire de gâteaux français raffinés et de biscuits solidaires ; il dissimule pourtant une histoire culturelle saisissante, celle d'un enfant que l'on arrache « au bec de l'aigle ». Du rite du rasage des premiers cheveux, du « renforcement du courage » et des cadeaux de la famille maternelle, jusqu'au mystérieux « appel au milan » hakka, puis aux coffrets de miyue et aux usages contemporains des enveloppes rouges, le premier mois demeure porteur du plus tendre pacte de protection que la société taïwanaise conclut avec une vie nouvelle, tout en retraçant un siècle de transformations des pratiques d'éducation, passées d'un horizon familial à un horizon social.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/culture/manyue-month-old-baby-celebration",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "fr/Culture/manyue-month-old-baby-celebration.md"
+  },
+  {
     "title": "Crise climatique et transition vers le zéro émission nette à Taïwan : le jour où le référendum sur la centrale nucléaire no 3 a échoué, le choix des limites physiques ne faisait que commencer",
     "description": "Référendum du 23 août 2025 sur la prolongation de la centrale nucléaire no 3 : 4,34 millions de voix favorables, 74 % de oui, mais un taux de participation de 29,53 % insuffisant pour atteindre le seuil. Le référendum a échoué ; le lendemain, Lai Ching-te a posé trois principes, et sept mois plus tard, le 27 mars 2026, Taipower déposait une demande de prolongation auprès du Conseil de sûreté nucléaire. 98 % de l'énergie importée, 9 000 milliards de dollars taïwanais pour le zéro émission nette, un objectif géothermique de 200 MW dont seuls 7,4 MW construits, la septième capacité mondiale d'éolien en mer, le site de stockage définitif d'Onkalo, le nucléaire de quatrième génération de TerraPower : la question énergétique de cette île n'a jamais été une question politique, mais une question de limites physiques.",
     "category": "fr",
@@ -29102,6 +29178,39 @@
     "path": "en/Food/din-tai-fung.md"
   },
   {
+    "title": "Disney and Taiwan: A Magical Journey from Wang Film Productions’ Outsourcing, the Yamay Regret, to IP Localization",
+    "description": "From Wang Film Productions, the “Disney of the East” that helped sustain Hollywood animation in the 1980s, to Taiwan twice narrowly missing out on a Disney park, even the once-planned Taiwan setting for Toy Story 3 and localized images of Stitch riding a scooter, Taiwan’s links with Disney are far deeper and more varied than many imagine.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/history/disney-and-taiwan",
+    "readingTime": 75,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "en/History/disney-and-taiwan.md"
+  },
+  {
+    "title": "Disney et Taïwan : de la sous-traitance de Wang Film au regret de Yamay, un voyage fantastique dans la localisation des IP",
+    "description": "De Wang Film Productions, surnommée le « Disney d’Orient » pour avoir soutenu une grande partie de l’animation hollywoodienne à partir des années 1980, aux deux occasions manquées avec Disneyland, en passant par Toy Story 3 qui avait un temps prévu de situer son intrigue à Taïwan et par l’image localisée de Stitch à scooter, les liens entre Taïwan et Disney sont bien plus profonds et variés qu’on ne l’imagine.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/history/disney-and-taiwan",
+    "readingTime": 81,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "fr/History/disney-and-taiwan.md"
+  },
+  {
+    "title": "Disney y Taiwán: un viaje fantástico desde la subcontratación de Wang Film y el revés de Yamay hasta la localización de IP",
+    "description": "Desde Wang Film, el «Disney de Oriente» que en la década de 1980 sostuvo buena parte de la animación de Hollywood, hasta las dos ocasiones en que Taiwán estuvo cerca de tener un parque Disney, pasando por el plan inicial de ambientar Toy Story 3 en Taiwán y la imagen localizada de Stitch en motocicleta, los vínculos entre Taiwán y Disney son mucho más profundos y diversos de lo que suele imaginarse.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/history/disney-and-taiwan",
+    "readingTime": 75,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "es/History/disney-and-taiwan.md"
+  },
+  {
     "title": "Distrito Especial de Beida: treinta años de planificación urbana y experimento de vida universitaria",
     "description": "Desde el antiguo campo de batalla de Longenpu en 1895 hasta la ciudad universitaria del metro en 2026, esta es una enciclopedia profunda sobre tierra, estética e identidad selectiva.",
     "category": "es",
@@ -29997,8 +30106,8 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/food/taiwanese-popcorn-chicken-redux",
-    "readingTime": 38,
-    "featured": false,
+    "readingTime": 46,
+    "featured": true,
     "date": "2026-04-01",
     "path": "es/Food/taiwanese-popcorn-chicken-redux.md"
   },
@@ -31603,6 +31712,17 @@
     "featured": false,
     "date": "2026-05-04",
     "path": "es/People/fujui-wang.md"
+  },
+  {
+    "title": "Full-Month Customs: From “Calling the Hawk” to Full-Month Gifts, a Century of Change in Taiwan’s Child-Rearing Culture",
+    "description": "In Taiwan in 2026, full-month gifts have evolved into refined French-style cakes and charity cookies, yet behind them lies a thrilling cultural history of “snatching a child from the hawk’s mouth.” From the hair-shaving rite, courage-making, and the maternal family’s head-to-toe gifts, to the mysterious Hakka ritual of “calling the hawk,” and then to modern full-month gift boxes and red-envelope etiquette, the full-month celebration has always carried Taiwan society’s gentlest protective contract for new life, while also recording a century of change in child-rearing culture from family-oriented to socially oriented practices.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/culture/manyue-month-old-baby-celebration",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "en/Culture/manyue-month-old-baby-celebration.md"
   },
   {
     "title": "Fundación Cultura Abierta: ayudar al grupo más ingobernable de Taiwán a hacer lo más aburrido",
@@ -38920,15 +39040,10 @@
     "title": "Le poulet sel et poivre taïwanais (鹽酥雞)",
     "description": "En 1975, Chen Ting-zhi, un restaurateur de Tainan ruiné, installe sa charrette à Ximending avec une marinade familiale secrète. Cinquante ans plus tard, le salt-and-pepper chicken est devenu l'une des rares spécialités de rue taïwanaises capables de survivre sans marché nocturne ni enseigne — rien qu'une charrette et une cuve d'huile. CNN l'a classé deux fois parmi les incontournables de Taïwan, mais la façon la plus authentique de le manger reste la même : attendre à minuit sur un trottoir que le sachet en papier soit tendu.",
     "category": "fr",
-    "tags": [
-      "street food",
-      "marché nocturne",
-      "friture",
-      "cuisine taïwanaise"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/food/taiwanese-popcorn-chicken-redux",
-    "readingTime": 35,
-    "featured": false,
+    "readingTime": 44,
+    "featured": true,
     "date": "2026-04-01",
     "path": "fr/Food/taiwanese-popcorn-chicken-redux.md"
   },
@@ -43776,6 +43891,17 @@
     "path": "es/Music/taiwan-soundscape.md"
   },
   {
+    "title": "Paisaje sonoro de Taiwán: la música clásica de los camiones de basura, el canto de aves del metro y una isla que se oye pero rara vez se escucha",
+    "description": "En el mismo año, el Metro de Taipéi invitaba a Summer Lei y CinCin Lee a convertir la música de llegada de los trenes en arte, mientras quitaba la melodía de la alerta de cierre de puertas y volvía al canto de aves. El sonido fue estetizado y funcionalizado al mismo tiempo. Esos sonidos que Taiwán intenta eliminar mediante la Ley de Control del Ruido son, en realidad, hitos con los que reconocemos que \"aquí está nuestro hogar\". La pregunta de una persona con maestría en estudios del paisaje sonoro: para comprender Taiwán, se puede empezar preguntando \"qué sonidos nos hemos acostumbrado a ignorar\".",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/culture/taiwan-soundscape",
+    "readingTime": 126,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "es/Culture/taiwan-soundscape.md"
+  },
+  {
     "title": "Paisaje termal de Taiwán",
     "description": "Del «agua de la bruja» al top 15 mundial de aguas termales: cómo la colisión de placas tectónicas cocinó el código curativo de esta isla",
     "category": "es",
@@ -44191,6 +44317,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/chu-ching-wu.md"
+  },
+  {
+    "title": "Paysage sonore de Taïwan : la musique classique des camions-poubelles, les chants d'oiseaux du métro, et une île que l'on entend sans vraiment l'écouter",
+    "description": "La même année, le métro de Taipei sollicitait Summer Lei et Cincin Lee pour faire de sa musique d'arrivée en station une forme d'art, tout en retirant la mélodie du signal de fermeture des portes pour revenir à des chants d'oiseaux. Le son était à la fois esthétisé et fonctionnalisé. Ces sons que Taïwan cherche à éliminer par la Loi sur le contrôle du bruit sont en réalité des repères grâce auxquels nous reconnaissons que « nous sommes chez nous ». La question posée par un chercheur titulaire d'un master en études du paysage sonore : comprendre Taïwan peut commencer par se demander « quels sons avons-nous pris l'habitude d'ignorer ».",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/culture/taiwan-soundscape",
+    "readingTime": 129,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "fr/Culture/taiwan-soundscape.md"
   },
   {
     "title": "Paysages agricoles et répartition industrielle de Taïwan",
@@ -48693,6 +48830,23 @@
     "path": "en/Music/taiwan-soundscape.md"
   },
   {
+    "title": "Taiwan Soundscape: Garbage Trucks Playing Classical Music, MRT Birdsongs, and an Island Often Heard but Rarely Listened To",
+    "description": "In the same year, Taipei Metro invited Summer Lei and CinCin Lee to turn arrival music into art, while removing the melody from its door-closing warning tone and changing it back to birdsong. Sound was aestheticized and functionalized at once. The sounds Taiwan seeks to eliminate through the Noise Control Act are, in fact, the landmarks by which we recognize that 'this is home.' A question from a master’s student in soundscape studies: understanding Taiwan can begin by asking, 'What sounds have we become accustomed to ignoring?'",
+    "category": "en",
+    "tags": [
+      "soundscape",
+      "listening",
+      "urban culture",
+      "perception",
+      "Taipei Metro"
+    ],
+    "url": "https://taiwan.md/en/culture/taiwan-soundscape",
+    "readingTime": 119,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "en/Culture/taiwan-soundscape.md"
+  },
+  {
     "title": "Taiwan Space Agency: Spending Thirty-Two Years to Assemble a Space Agency for a Country Still Assembling Its Own Name",
     "description": "In 1991 it was called a preparatory office: no name, no rocket, no land of its own. Thirty-two years later, it put Taiwan back into its name. Today, its control center in Hsinchu tracks the heartbeat of nine satellites around the clock; on the day of the April 3 Hualien earthquake, it reset its mission six minutes after the quake and acquired imagery within three hours. It is now filling in the final missing parts: an orbital rocket of its own, and an approved lunar mission that could launch as early as 2028.",
     "category": "en",
@@ -50833,15 +50987,10 @@
     "title": "Taiwanese Popcorn Chicken (鹽酥雞)",
     "description": "In 1975, a failed restaurant owner from Tainan set up a cart in Ximending and fried chicken chunks with an ancestral marinade. Fifty years later, 鹽酥雞 has become one of the few Taiwanese street foods that survives without a night market or a storefront — CNN has listed it twice as a must-eat, yet its most authentic form is always a paper bag you wait for on the roadside at midnight.",
     "category": "en",
-    "tags": [
-      "street food",
-      "night market",
-      "fried food",
-      "Taiwanese cuisine"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/food/taiwanese-popcorn-chicken-redux",
-    "readingTime": 30,
-    "featured": false,
+    "readingTime": 37,
+    "featured": true,
     "date": "2026-04-01",
     "path": "en/Food/taiwanese-popcorn-chicken-redux.md"
   },
@@ -54193,6 +54342,39 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "en/People/tai-yu-wu.md"
+  },
+  {
+    "title": "Wuqiu : l'île périphérique des îles périphériques, îlot militaire oublié et ombre des déchets nucléaires",
+    "description": "Wuqiu est le district administratif le plus éloigné de Taïwan, composé de Daqiu et de Xiaoqiu. Cet îlot, administrativement rattaché à Kinmen mais dont la ligne de vie en matière de transport dépend de Taichung, fut autrefois une base de guérilla en première ligne de l'affrontement entre le Kuomintang et le Parti communiste chinois. Cet article analyse en profondeur la portée subjective de la remise en service du phare de Wuqiu, la transmission de la culture de la langue xinghua, ainsi que la controverse, longue de vingt ans, autour d'un référendum sur un site de stockage de déchets nucléaires, afin de montrer la solitude et la résilience de cette île marginale dans le récit national.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/geography/wuqiu",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "fr/Geography/wuqiu.md"
+  },
+  {
+    "title": "Wuqiu: An Outlying Island among Outlying Islands, a Forgotten Military Islet under the Shadow of Nuclear Waste",
+    "description": "Wuqiu is Taiwan's most remote administrative district, composed of Daqiu and Xiaoqiu. Administratively under Kinmen yet dependent on Taichung for its transportation lifeline, this isolated island was once a frontline guerrilla base in the Kuomintang-Communist confrontation. This article offers an in-depth analysis of the restored lighting of the Wuqiu Lighthouse and its meaning for subjectivity, the transmission of Hinghwa-language culture, and the two-decade controversy over a referendum on a nuclear waste site, showing the loneliness and resilience of this marginal island within the national narrative.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/geography/wuqiu",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "en/Geography/wuqiu.md"
+  },
+  {
+    "title": "Wuqiu: la isla periférica entre las islas periféricas, una isla militar olvidada bajo la sombra de los residuos nucleares",
+    "description": "Wuqiu es el distrito administrativo más remoto de Taiwán, formado por Daqiu y Xiaoqiu. Esta isla aislada, administrativamente adscrita a Kinmen pero cuya línea vital de transporte depende de Taichung, fue en otro tiempo una base guerrillera de primera línea durante el enfrentamiento entre el Kuomintang y el Partido Comunista Chino. Este artículo analiza en profundidad el significado subjetivo de la reactivación del faro del islote Wuqiu, la transmisión de la cultura de la lengua hinghwa y la controversia, prolongada durante veinte años, sobre el referéndum para ubicar un depósito de residuos nucleares, mostrando la soledad y la resiliencia de esta isla marginal dentro del relato nacional.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/geography/wuqiu",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "es/Geography/wuqiu.md"
   },
   {
     "title": "X-Legend : sept ans de pertes et quatre cents millions de NT$, puis des jeux vendus dans quatorze pays",
@@ -59532,6 +59714,17 @@
     "path": "ko/People/du-congming-founder-of-modern-medicine-in-taiwan.md"
   },
   {
+    "title": "디즈니와 타이완: 훙광 하청 제작, 웨메이의 아쉬움에서 IP 현지화까지 이어진 환상적 여정",
+    "description": "1980년대 할리우드 애니메이션의 절반을 떠받친 ‘동방의 디즈니’ 훙광에서, 디즈니랜드 유치 기회를 두 차례 놓친 일, 나아가 《토이 스토리 3》가 한때 타이완을 배경으로 구상되었던 사실과 오토바이를 타는 스티치의 현지화 이미지에 이르기까지, 타이완과 디즈니의 연결은 상상보다 훨씬 깊고 다층적이다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/history/disney-and-taiwan",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "ko/History/disney-and-taiwan.md"
+  },
+  {
     "title": "디지털 신분증과 디지털 정부",
     "description": "아직 발급도 되지 않은 칩 카드 하나에 2억 8천만 원 배상금이 들었다——대만 디지털 정부의 이야기는, 기술보다 신뢰를 쌓는 것이 더 어렵다는 증거다",
     "category": "ko",
@@ -60143,6 +60336,23 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "ko/Culture/mazu-dadaogong-legend.md"
+  },
+  {
+    "title": "만월 풍습: \"한리야오\"에서 미월례까지, 타이완 육아 문화의 백 년 변천",
+    "description": "2026년의 타이완에서 만월례는 세련된 프랑스식 케이크와 공익 쿠키로 변모했지만, 그 배후에는 \"매의 입에서 아이를 빼앗아 오는\" 아슬아슬한 문화사가 숨어 있다. 첫 머리 깎기 의례, 주오단, 친정의 터우웨이례, 신비로운 하카의 \"한리야오\"에서 현대의 미월 선물 상자와 축하금 시세에 이르기까지, 만월은 줄곧 타이완 사회가 새 생명에게 건네는 가장 다정한 보호 계약을 담아 왔으며, 육아 문화가 가족 중심에서 사교 중심으로 나아간 백 년의 변천도 기록해 왔다.",
+    "category": "ko",
+    "tags": [
+      "만월",
+      "풍습",
+      "한리야오",
+      "첫 머리 깎기",
+      "미월례"
+    ],
+    "url": "https://taiwan.md/ko/culture/manyue-month-old-baby-celebration",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "ko/Culture/manyue-month-old-baby-celebration.md"
   },
   {
     "title": "매우(梅雨)：1981년 타오주먀오와 대타이베이를 침수시킨 그 비에서, 미국인들이 타이완으로 날아온 과학 실험까지",
@@ -61842,15 +62052,10 @@
     "title": "옌수지(鹽酥雞) — 대만 야식의 불꽃",
     "description": "1975년 실패한 식당 주인 천팅즈가 시먼딩 노점에서 조상 전래 양념으로 튀겨낸 닭 한 조각. 50년이 지난 지금, 옌수지는 대만 심야 거리를 지탱하는 가장 믿음직한 기반 시설이 되었다.",
     "category": "ko",
-    "tags": [
-      "길거리 음식",
-      "야시장",
-      "튀김",
-      "대만 음식"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/food/taiwanese-popcorn-chicken-redux",
-    "readingTime": 16,
-    "featured": false,
+    "readingTime": 19,
+    "featured": true,
     "date": "2026-04-01",
     "path": "ko/Food/taiwanese-popcorn-chicken-redux.md"
   },
@@ -62166,6 +62371,23 @@
     "featured": true,
     "date": "2026-04-20",
     "path": "ko/People/che-yu-wu.md"
+  },
+  {
+    "title": "우추: 도서 속의 도서, 잊힌 군사 고도와 핵폐기물의 그림자",
+    "description": "우추는 타이완에서 가장 외딴 행정구역으로, 다추와 샤오추로 이루어져 있다. 행정상으로는 진먼에 속하지만 교통의 생명선은 타이중에 매여 있는 이 고도는 한때 국공 대치의 최전선 유격 기지였다. 이 글은 우추위 등대 재점등이 지니는 주체성의 의미, 싱화어 문화의 전승, 그리고 20년에 걸친 핵폐기물 처분장 주민투표 논란을 심층적으로 분석함으로써, 이 주변부 섬이 국가 서사 속에서 겪어 온 고독과 회복력을 드러낸다.",
+    "category": "ko",
+    "tags": [
+      "진먼",
+      "우추",
+      "핵폐기물",
+      "등대",
+      "전지정무"
+    ],
+    "url": "https://taiwan.md/ko/geography/wuqiu",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-06-25",
+    "path": "ko/Geography/wuqiu.md"
   },
   {
     "title": "원주민 문학",
@@ -65184,6 +65406,23 @@
     "path": "ko/Lifestyle/taiwan-bus-system.md"
   },
   {
+    "title": "타이완의 사운드스케이프: 쓰레기차의 클래식, 지하철의 새소리, 그리고 들리지만 좀처럼 경청되지 않는 섬",
+    "description": "같은 해, 타이베이 MRT는 레이광샤와 리신윈에게 의뢰해 진입 음악을 예술로 만들면서도, 문 닫힘 경고음의 선율을 없애고 다시 새소리로 되돌렸다. 소리는 동시에 미학화되고 기능화되었다. 타이완이 《소음관리법》으로 제거하려는 이 소리들은 사실 “여기가 집”임을 식별하게 해 주는 표지이다. 한 사운드스케이프 연구 석사의 질문: 타이완을 이해하는 일은 “우리가 어떤 소리에 익숙하게 무심해져 있는가”를 묻는 데서 시작할 수 있다.",
+    "category": "ko",
+    "tags": [
+      "사운드스케이프",
+      "경청",
+      "도시 문화",
+      "감각",
+      "타이베이 MRT"
+    ],
+    "url": "https://taiwan.md/ko/culture/taiwan-soundscape",
+    "readingTime": 59,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "ko/Culture/taiwan-soundscape.md"
+  },
+  {
     "title": "타이완인의 어린 시절 영어 이름: Mary, Kevin과 보습학원 교사의 명명권",
     "description": "보습학원에서 책장을 넘기던 순간부터 여권 로마자 표기, 스타벅스 카운터까지, 그 이름은 한 번도 당신이 고른 것이 아니었다. 1983년 Hess, 1987년 Sesame Street English의 \"NO CHINESE, ENGLISH PLEASE\"에서 2024년 입법원의 법 개정으로 단독 부족명 표기가 허용되기까지의 명명사를 따라가며, 문제를 다시 그 30초의 정지로 돌려놓는다.",
     "category": "ko",
@@ -66551,6 +66790,17 @@
     "featured": false,
     "date": "2026-06-06",
     "path": "ja/Geography/data-taiwan-22-cities.md"
+  },
+  {
+    "title": "ディズニーと台湾：宏広の下請け制作、月眉の未完の夢からIPローカライズまでの幻想的な旅",
+    "description": "1980年代にハリウッド・アニメーションの一翼を支えた「東洋のディズニー」宏広から、ディズニーランド誘致を二度逃した経緯、さらには『トイ・ストーリー3』で台湾を舞台にする計画があったこと、スクーターに乗るスティッチのローカライズされた姿まで、台湾とディズニーのつながりは想像以上に深く、多面的です。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/history/disney-and-taiwan",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-06-26",
+    "path": "ja/History/disney-and-taiwan.md"
   },
   {
     "title": "デジタル荒原：商業モデルのないオンライン芸術評論プラットフォームはいかに12年間生き延びたのですか",
