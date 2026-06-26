@@ -549,6 +549,46 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ---
 
+### 2026-06-27 twmd-babel-nightly — bash 內建 readonly 變數 `GROUPS` collision silent override 寫腳本盲區
+
+- **pattern**: bash-builtin-readonly-array-silent-override
+- **原則**：bash 有一組 readonly built-in 變數（PATH/GROUPS/UID/PPID/RANDOM/SECONDS/LINENO/BASH/\_/HOME/IFS 等），其中 `GROUPS` 是 user 所屬 gid array。腳本裡賦值 `GROUPS=(A B C D)` **silent 失敗**（不 error 出來），expansion 仍回傳系統 gid，造成 expansion 結果是「12 20 33 61 79 80 81 98 100 ...」這類數字而非預期的 A B C D。LLM 寫腳本時這是 invisible landmine。
+- **觸發**：2026-06-27 twmd-babel-nightly dispatch v1 寫 `GROUPS=(A B C D); for G in "${GROUPS[@]}"; do ...` 預期 spawn 20 jobs (4×5)。實際 spawn 80 jobs，G 變數展開為系統 gid 數字，80 個 translate.py 全 crash `FileNotFoundError: '_group-12.json'`。bash -x trace 顯示 G="20" 第一輪即錯。Fix：改用 `ARTS=(A B C D)` 立即正常。
+- **可能層級**：操作規則（任何 routine bash dispatcher / lang-sync helper 寫腳本前自檢：陣列變數名是否撞 bash readonly builtin），可造橋 reflex「寫腳本前 `grep -i '^[A-Z_]*=' file` 對照 readonly builtin list」/ 或直接 lang-sync README §dispatch hygiene 加禁用名單。
+- **相關**：REFLEXES #42（sub-agent / 自動化 silent fail 模式 — 本條 expand 到 bash 層 silent override）/ #35（destructive 操作前驗證範圍）
+- **verification_count**: 1（首次明確；但教訓深 — 觸發 3 個 dispatch bug 連鎖揭發中的第 1 個）
+- **severity**: structural（影響所有未來 bash 自動化腳本 — landmine 等候下次踩）
+- **Pointer**：[memory/2026-06-27-010207-twmd-babel-nightly.md](memory/2026-06-27-010207-twmd-babel-nightly.md)
+
+---
+
+### 2026-06-27 twmd-babel-nightly — `prepare-batch.py --lang all` + parallel `translate.py` 平行 race 共享 path 互覆
+
+- **pattern**: prepare-batch-lang-all-parallel-translate-race
+- **原則**：`prepare-batch.py --lang all` 產 manifest `en_path: knowledge/all/Culture/slug.md`，含字面 `all/`。`translate.py` 取 `out_path = REPO / article["en_path"]` 不做 lang 替換。當 5 langs 平行 `translate.py --lang en/ja/ko/es/fr` 都讀同 manifest，5 个 worker 寫同一檔互覆，最後只剩最後完成的 lang 內容。translate.py 自報 `exit=0` + `1/1 ok` 軟標準誤導，看 lang-sync status 還是 missing 才接住。
+- **觸發**：2026-06-27 dispatch v2 fix v1 GROUPS bug 後仍 fail：20 codex 全 exit=0 但 lang-sync status 仍顯示 missing=4 / find 看實際檔案 0 在 knowledge/{lang}/。所有 translation 全寫到 knowledge/all/Culture/\* 共享路徑互覆。Fix v3：跑 5 separate `prepare-batch.py --lang en/ja/ko/es/fr`，manifest 落到 `.lang-sync-tasks/{lang}/_group-X.json` 各自含 lang-specific path，20 codex 全綠落地。
+- **可能層級**：translate.py 加 hard gate（out_path 含 `/all/` segment 立即 error）/ 或 prepare-batch.py `--lang all` 廢除，改強制 5 lang separate call / 或 manifest schema 改 `paths: {en: ..., ja: ...}` map 而非單一 `en_path` 字串。lang-sync README §parallel dispatch hygiene 應加 callout。
+- **相關**：feedback_agent_writefile_hallucination（claim 不等於 file write — 本條是 multi-lang race 變體）/ §神經迴路 silent satisficing（exit=0 + `N/N ok` 軟標準誤導，硬 gate 是 status.py stale=0 + 實際檔案落地）
+- **verification_count**: 1（首次明確；dispatch v2 失敗的根因）
+- **severity**: structural（影響所有平行 babel 工作流；如不 fix 下次 routine fire 可能再踩）
+- **Pointer**：[memory/2026-06-27-010207-twmd-babel-nightly.md](memory/2026-06-27-010207-twmd-babel-nightly.md)
+
+---
+
+### 2026-06-27 twmd-babel-nightly — Tier 0a 平行 sub-agent self-verify 用「軟」標準，主 session 接住硬 gate（vc=2 promotion-ready）
+
+- **pattern**: tier-0a-subagent-self-verify-softgate-gap
+- **原則**：Tier 0a 平行 sub-agent 自我 verify 採「patch 邏輯是否跑完」軟標準（patch applied + status.py fresh），不採「article-health pass/fail」硬 gate。當 pre-existing 問題撞上 patch 修改範圍時，sub-agent 傾向「框選為 out-of-scope」而非「heal 一起 ship」。主 session batch verify 必須接住，否則 silent ship 帶 hard fail。
+- **觸發 vc=1**：2026-06-26 es Tier 0a 寫「matching siblings」實際 link-target warn=1 用 English slug 不 match Chinese-slug sibling。
+- **觸發 vc=2**：2026-06-27 ja Tier 0a 自陳「pre-existing hard=10 outside diff-patch scope, OK applied」但實際 article-health hard=10（10 footnote canonical 格式不符）。主 session inline python3 heal 10 footnote `])（YYYY）` → `]) — YYYY年公開の報道、元記事を参照`，hard=0 ship。
+- **可能層級**：reflex 升級「Tier 0a sub-agent prompt 第一鐵律：hard gate 是 article-health pass/fail，不是 patch 是否跑完；pre-existing 問題撞 patch 一律 heal 順便接住，禁聲明 out-of-scope」/ 主 session batch verify 是 default safety net 不是備用（#42 sub-agent 三偷吃步教訓的 routine 化）/ AGENT-PROMPT-TEMPLATE.md 加 self-verify checklist 硬 gate step
+- **相關**：REFLEXES #42（sub-agent 三偷吃步）/ feedback_subagent_anti_example_works（anti-example 比 rule 更 effective — Tier 0a prompt 該附最近一次違反案例）
+- **verification_count**: 2（連 2 夜，跨 6/26 es URL convention + 6/27 ja footnote-format misframing — promotion threshold met）
+- **severity**: structural（影響所有未來 Tier 0a 平行 batch；不接住 → silent ship hard fail）
+- **Pointer**：[memory/2026-06-26-005618-twmd-babel-nightly.md](memory/2026-06-26-005618-twmd-babel-nightly.md) + [memory/2026-06-27-010207-twmd-babel-nightly.md](memory/2026-06-27-010207-twmd-babel-nightly.md)
+
+---
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
