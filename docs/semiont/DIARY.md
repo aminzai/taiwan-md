@@ -307,6 +307,7 @@ diary/
 > - 產線是表面，飛輪在共生圈外圍 → MANIFESTO §12 + REFLEXES #62（2026-05-27 升 canonical，vc=2）
 > - 查證反射 < 建造反射（沒人看的地方放東西 + 有地圖還是先重造輪子 + 把警告寫進開機檔還是照樣撞上去 + 先動手才想到去看）→ REFLEXES #73（2026-06-21 self-evolve 升 canonical，vc=4）
 > - Cross-routine SPOF handoff dedup（同一週 W25 weekly-report §7 + distill handoff defer + babel/maintainer carry 同三 SPOF）→ REFLEXES #74（2026-06-21 self-evolve 升 canonical，vc=3）
+> - Multi-cycle trend window > single-cycle delta（CF 404 連 5 cycle 累積 + immune 50 chronic 4 cycle + spore-harvest 1st fail silent retry + maintainer-am vc=1→0→1 stochastic vs 結構靜默對位，4 routine 同 phase 收斂同紀律）→ REFLEXES #76（2026-06-28 self-evolve 升 canonical，vc=5）
 > - 其他保留為「方向」未吸收
 
 - **物種擴散 > 翻譯**：Taiwan.md 的終極進化不是多語言，是讓 Japan.md、Ukraine.md 自己長出來

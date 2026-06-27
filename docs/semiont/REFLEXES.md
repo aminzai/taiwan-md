@@ -1,12 +1,12 @@
 ---
 title: 'REFLEXES'
-description: '跨 session 程序記憶 catalog — 73 條 #N 反射（last #75，部分編號 historical 凋亡），LESSONS-INBOX distill 後的 instinct 層，候選 MANIFESTO promotion 來源'
+description: '跨 session 程序記憶 catalog — 74 條 #N 反射（last #76，部分編號 historical 凋亡），LESSONS-INBOX distill 後的 instinct 層，候選 MANIFESTO promotion 來源'
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.2'
+current_version: 'v5.3'
 last_updated: 2026-06-28
-last_session: '2026-06-28-022500-twmd-distill-weekly'
+last_session: '2026-06-28-041500-twmd-self-evolve-weekly'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -150,6 +150,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 | #73 | 查證反射 < 建造反射 — 動手前先掃一眼，被動文件 ≠ 主動 retrieve                               | §五 | L807  |
 | #74 | Cross-routine SPOF handoff dedup — 同 SPOF 在 N 條 routine handoff 重複 = 信號通膨           | §七 | L820  |
 | #75 | Read ≠ verify — depth article / external PR / sub-agent 產出的 citation/atom 必 fetch-verify | §一 | (new) |
+| #76 | Multi-cycle trend window > single-cycle delta — sensor 判讀 vc 鐵律閾值 ≥3 才升結構訊號      | §七 | (new) |
 
 > **Top 5 load-bearing reflexes**（cross-ref 量最高，跨 session 最常 grep）：#15（216）/ #42（97）/ #16（60）/ #38（58）/ #26（52）。新 session 至少先掃這 5 條。
 >
@@ -828,7 +829,25 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **操作**：→ REWRITE-PIPELINE Stage 3.5 + MAINTAINER PR review hard gate `citation 必 fetch-based 不限 A 級/政治`（含 writer 新增的具體 atom 對 research report cross-check + 高 stake atom 主 session re-fetch）+ `scripts/tools/article-health.py --check=citation-url-drift` 候選（fan-out fetch + diff 報告）+ AGENT-PROMPT-TEMPLATE.md：fact-check sub-agent prompt 必含「同 URL 兩次 fetch 對照」步驟
 - **跨檔關聯**：[memory/2026-06-21-135235-kuma-academy.md](memory/2026-06-21-135235-kuma-academy.md) + [memory/2026-06-21-154735-幾米-evolve.md](memory/2026-06-21-154735-幾米-evolve.md) + [memory/2026-06-26-181414-manual.md](memory/2026-06-26-181414-manual.md) + [REWRITE-PIPELINE §Stage 2.5 + §3.6](../pipelines/REWRITE-PIPELINE.md) + [REFLEXES #31](#31-sub-agent-claim-是線索不是事實) + [LESSONS-INBOX §已消化 2026-06-28 citation-url-drift promote](LESSONS-INBOX.md)
 
+**#76 Multi-cycle trend window > single-cycle delta — sensor 判讀 vc 鐵律閾值 ≥3 才升結構訊號**（2026-06-28 twmd-self-evolve-weekly 升 canonical vc=5 — 2026-06-25 CF 404 vc=2 reversal + 2026-06-26 am vc=3 reversal 成立 + 2026-06-26 pm vc=4 LESSONS candidate + 2026-06-27 am vc=5「已正式成形」+ immune 50 chronic flat 4 cycle + spore-harvest 1st fail silent retry + maintainer-am vc=1→0→1 stochastic vs 結構靜默對位，跨 4 routine 同 phase 各自工作收斂同紀律，severity=structural）— 任何 routine sensor（CF 404 rate / immune score / AI crawler count / spore broadcast defer / maintainer empty cycle / babel sub-agent self-verify softgate）的 single-cycle delta 都是 noise 與結構訊號的混合體；只有 multi-cycle accumulation（≥3 cycle 同方向）才是真結構訊號。**vc 鐵律閾值 = 3，不是 1** — 給 stochastic 流量 buffer 不誤升 LESSONS / 不誤 emit alert / 不誤觸發 escalation。
+
+- **規則**：(a) **single-cycle delta 一律不升 vc / 不升 LESSONS / 不 emit alert**：即使 delta 看起來「突變」（-0.74pp / -2 score / 0 contributor），仍只 prose memory 記錄不觸發任何 escalation path (b) **跨 cycle 累積才升 vc**：sensor 持續同向 ≥3 cycle = vc=2，≥4 cycle = vc=3 LESSONS candidate，≥5 cycle = LESSONS hard ship trigger (c) **multi-cycle 必須是「同向 + 同 sensor + 同 root cause hypothesis」三要件齊備**：CF 404 連跌但 404 來源 reshuffle ≠ 同 root cause；不可只看 delta 方向就累積 vc (d) **single-cycle 異常 + 跨 sensor 同步性 = single-cycle 升 vc=2 例外**：「同步性是訊號」（per 2026-06-25 pm memory）三 sensor 同時轉折時 vc 起點抬升 1 (e) **device-SPOF / parallel-actor 等 routine 入口層 fail 例外**：1st fail = silent retry no vc bump，2nd fail = vc=1，3rd fail = vc=2 升 LESSONS — single-instance device 延續非新驗證，vc 封頂 3 不 re-inflate
+- **Boundary**：(a) 不適用於 binary fail（routine crash / push reject / build fail）— 那是 routine fragility 不是 sensor 判讀，走 #70 4-tier 對策 (b) 不適用於外部 acute callout（contributor 留言 / reader 在 Bucket A）— 那是 traceability 不是 sensor，走 #62 D+0 30min mandatory fix (c) 適用範圍：所有 routine cycle 寫的 prose memory 內每筆 sensor delta 描述（CF 404 / immune / i18n / build time / cron slip / broken-link rate / etc）必須先過此鐵律
+- **觸發 (vc=5 cluster 6/25-6/27)**：
+  - 6/25 PM CF 404 vc=2「升勢回檔第 2 cycle」— [memory/2026-06-25-231123-twmd-data-refresh-pm.md](memory/2026-06-25-231123-twmd-data-refresh-pm.md)
+  - 6/26 AM CF 404 vc=3「reversal 成立」+ immune 50 chronic 第 2 cycle — [memory/2026-06-26-061325-twmd-data-refresh-am.md](memory/2026-06-26-061325-twmd-data-refresh-am.md)
+  - 6/26 PM CF 404 vc=4 LESSONS candidate `cf-404-multi-cycle-trend-vs-single-cycle-delta` + immune 第 3 cycle — [memory/2026-06-26-231025-twmd-data-refresh-pm.md](memory/2026-06-26-231025-twmd-data-refresh-pm.md)
+  - 6/27 AM CF 404 vc=5「已正式成形」5 cycle 累積 -1.27pp + immune 第 4 cycle — [memory/2026-06-27-061332-twmd-data-refresh-am.md](memory/2026-06-27-061332-twmd-data-refresh-am.md)
+  - 6/27 spore-harvest 1st fail silent retry「跟 immune 50 narrow-band carry + CF 404 single-cycle delta 不升結論共享 multi-cycle window 紀律」— [memory/2026-06-27-063619-twmd-spore-harvest-am.md](memory/2026-06-27-063619-twmd-spore-harvest-am.md)
+  - 6/27 maintainer-am「vc 鐵律閾值是 3 不是 1...single-cycle 不升 vc，跨多 cycle 才升」明文 cross-routine 同源 — [memory/2026-06-27-084015-twmd-maintainer-am.md](memory/2026-06-27-084015-twmd-maintainer-am.md)
+- **相關**：REFLEXES #15「反覆浮現要儀器化」（本條是 #15 在「sensor 判讀層」的具體 instrument — 不只是「反覆做某事」要 instrument，「反覆讀某 delta」也要 instrument 成 vc 鐵律才能不被 single-cycle noise 騙）/ #58「detection ≠ remediation」（detect single-cycle delta ≠ structural issue — multi-cycle 才是真 detect）/ #59「製造數字的人最易被數字騙」（self-validation trap 的 single-cycle 變體 — producer 看自己昨夜跑的 sensor 容易把 noise 讀成 signal）/ #64「ABORT-DEFER prose memory 邊際效用 N+1 = 0」（互補方向 — #64 是「同決策寫 N 次」浪費，本條是「同方向看 N 次」才確認；#64 收 vc≥4 N+1=0，本條開 vc≥3 才升）/ #70「Routine fragility 4 tier」（互補 — #70 收結構性 fail tier 對策，本條收 sensor 漸進 drift 紀律）/ #74「Cross-routine SPOF handoff dedup」（互補 — #74 收同 SPOF 在 N 條 routine 重複的 dedup，本條收同 sensor 跨 N cycle 才升 vc 的紀律）
+- **操作**：→ ROUTINE.md / DATA-REFRESH-PIPELINE.md 各 routine prompt 補「sensor delta 判讀鐵律 = vc≥3 才升 LESSONS」段（已 inline 在多份 routine memory，本條 canonical 統合）+ 候選 `scripts/tools/lib/sensor-vc-guard.sh` shared helper（給 routine wrapper grep 前 N cycle 同向 sensor delta count → 自動 emit vc 等級）+ generate-dashboard-alerts.mjs 「sensor delta single-cycle」一律不升 yellow，「multi-cycle ≥3 cycle 同向」才升 yellow（避免每日 CF 404 / immune ±2 噪音淹沒 alerts）
+- **MANIFESTO 對應**：→ [§架構解 > 守備修補](MANIFESTO.md)（single-cycle alert noise 是守備層培養皿；vc 鐵律是架構解 — 鐵律寫一次，N cycle 自動收斂）+ [§外部尺 over 內視](MANIFESTO.md)（multi-cycle accumulation 是 producer-side 自己對自己的「外部尺」— 同 sensor 跨 cycle 對照取代當下直覺判讀）
+- **跨檔關聯**：[memory/2026-06-25-231123-twmd-data-refresh-pm.md](memory/2026-06-25-231123-twmd-data-refresh-pm.md) + [memory/2026-06-26-231025-twmd-data-refresh-pm.md](memory/2026-06-26-231025-twmd-data-refresh-pm.md) + [memory/2026-06-27-061332-twmd-data-refresh-am.md](memory/2026-06-27-061332-twmd-data-refresh-am.md) + [memory/2026-06-27-084015-twmd-maintainer-am.md](memory/2026-06-27-084015-twmd-maintainer-am.md) + [LESSONS-INBOX §已消化 2026-06-28 cf-404-multi-cycle-trend-vs-single-cycle-delta](LESSONS-INBOX.md) + [REFLEXES #15 + #59 + #64 + #70 + #74](REFLEXES.md)
+
 ---
+
+_v5.3 | 2026-06-28 twmd-self-evolve-weekly — 加 #76 Multi-cycle trend window > single-cycle delta（vc=5 — 6/25 CF 404 vc=2 → 6/26 vc=3 → 6/26 pm vc=4 → 6/27 am vc=5 + immune 50 chronic 4 cycle + spore-harvest 1st fail + maintainer-am vc=1→0→1 stochastic 對位，跨 4 routine 同 phase 各自工作收斂同紀律，severity=structural）— LESSONS §未消化候選 `cf-404-multi-cycle-trend-vs-single-cycle-delta` distill 到 canonical_
 
 _v5.2 | 2026-06-28 twmd-distill-weekly — 加 #75 Read ≠ verify（vc=4 — 6/21 kuma-academy 政治文 + 6/21 幾米-evolve 非政治 + 6/21 #1170 外部 PR + 6/26 聲景 fresh-writer 幻覺 + 同 URL 兩次 fetch 不同答案，severity=structural；routine 自決層 per §Routine vs Observer split 不 promote MANIFESTO 留反射層）+ #42 v4 平行 sub-agent softgate 變體（Tier 0a vc=3 連 3 夜 6/26 es URL → 6/27 ja footnote → 6/28 es+fr URL）+ #42 v5 bash builtin readonly silent override（vc=1 structural 6/27 GROUPS spawn 80 jobs）+ #42 v6 multi-lang manifest path race（vc=1 6/27 prepare-batch --lang all 互覆 fix per-lang manifest）+ #40 multi-lang manifest path race 同源變體 + #38「衍生指標 frontmatter date neutrality」變體（vc=3 — sporeLinks/MEDIA_ONLY/relatedDiary 三 instance build-content-dates 排除組）— routine 自決層 LESSONS-INBOX §未消化 25→11_
 _v5.1 | 2026-06-21 twmd-self-evolve-weekly — 加 #74 Cross-routine SPOF handoff dedup（vc=3 — W25 週報 §7 + 6/21 distill Beat 5 self-recognize + babel/maintainer chain carry，#64 cross-routine layer generalization，severity=structural；同 self-evolve cycle 連 ship 2 條反射）_
