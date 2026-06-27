@@ -1158,20 +1158,22 @@ public/article-images/history/twenty-eight-incident-monument-2025.jpg
 
 #### Step 1.9.3: transcript 素材
 
-| 來源類型                            | 處理方式                                                                                                           |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 公視／TaiwanPlus／官方 YouTube 訪談 | yt-dlp 抓 .vtt → 轉純文字 transcript → 落 `reports/research/YYYY-MM/{slug}-transcripts/` → footnote 引 YouTube URL |
-| Podcast 官方頁                      | footnote 引 podcast URL；若有 transcript 公開 → cache transcript                                                   |
-| 自製訪談錄音                        | 不公開原始錄音；只引 verbatim 段落，footnote 註明「Taiwan.md 自訪談 YYYY-MM-DD」                                   |
+| 來源類型                            | 處理方式                                                                                                                         |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 公視／TaiwanPlus／官方 YouTube 訪談 | `yt-transcript.py fetch`（抓字幕 + 清逐字稿一條龍）→ 落 `reports/research/YYYY-MM/{slug}-transcripts/` → footnote 引 YouTube URL |
+| Podcast 官方頁                      | footnote 引 podcast URL；若有 transcript 公開 → cache transcript                                                                 |
+| 自製訪談錄音                        | 不公開原始錄音；只引 verbatim 段落，footnote 註明「Taiwan.md 自訪談 YYYY-MM-DD」                                                 |
 
-yt-dlp 抓字幕指令：
+**工具（2026-06-27 儀器化，REFLEXES #15 + §造橋）— `scripts/tools/yt-transcript.py`**：給 YouTube URL → yt-dlp 抓字幕 → 清成**連續逐字稿 + 每 ~60s 一個 `[MM:SS]` 錨點**（腳註可精確標時間，如「塞掐 E350 @ 12:34」）→ `.vtt`（raw 永留證據鏈）+ `.txt`（可讀版）落 `reports/research/YYYY-MM/{slug}-transcripts/`。取代手跑 yt-dlp + 臨時清時間戳/dedup。
 
 ```bash
-cd reports/research/YYYY-MM/{slug}-transcripts/
-yt-dlp --skip-download --write-auto-sub --write-sub \
-  --sub-lang "zh-TW,zh-Hant,zh-Hans,zh,en" --sub-format vtt \
-  -o "%(title).80s.%(ext)s" "https://www.youtube.com/watch?v={ID}"
+# 一支或多支訪談抓進文章研究資料夾（預設 zh-TW,en；--month 預設今月）
+python3 scripts/tools/yt-transcript.py fetch <URL> [<URL> ...] --slug {article-slug}
+# 已手抓好的 vtt 單清
+python3 scripts/tools/yt-transcript.py clean path/to/file.vtt -o out.txt
 ```
+
+> ⚠️ **auto-caption 專名誤植鐵律**：自動字幕對人名／論文／機構／數字常誤植（紀懷新 case：季懷新→紀懷新、Danny→Denny Zhou、Information Forging→Foraging、Daniel Cunningham→Kahneman）。**逐字稿是線索不是定本，引用前每個專名對權威源校正**，別逐字照抄（[MANIFESTO §10 幻覺鐵律](../semiont/MANIFESTO.md) + [§挖引語紅線](../editorial/EDITORIAL.md#挖引語制度)）。底層仍是 yt-dlp（`brew install yt-dlp`）。
 
 #### Step 1.9.4: 媒體授權矩陣三表（research 檔強制）
 
