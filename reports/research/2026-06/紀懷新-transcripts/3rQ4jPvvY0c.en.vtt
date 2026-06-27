@@ -1,0 +1,5833 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.733
+When you argue with your girlfriend
+
+00:00:01.733 --> 00:00:03.967
+Didn't I already teach you once?
+
+00:00:03.967 --> 00:00:05.967
+Why don't you ever question whether
+
+00:00:05.967 --> 00:00:08.401
+Maybe it's because you didn't explain it well
+
+00:00:08.401 --> 00:00:11.001
+So this is about the interaction between people
+
+00:00:11.001 --> 00:00:14.968
+and the current interaction between humans and machines
+
+00:00:14.968 --> 00:00:15.968
+imbalance point
+
+00:00:15.968 --> 00:00:17.369
+because we feel that
+
+00:00:17.369 --> 00:00:18.636
+Interacting with machines
+
+00:00:18.636 --> 00:00:19.969
+The machine must be dumber than me
+
+00:00:19.969 --> 00:00:21.203
+So I need to teach it many times
+
+00:00:21.203 --> 00:00:23.570
+That's perfectly normal
+
+00:00:23.570 --> 00:00:25.503
+But when AGI arrives
+
+00:00:25.503 --> 00:00:28.170
+It should be as intelligent as I am
+
+00:00:28.170 --> 00:00:30.771
+You should learn it after I teach you once
+
+00:00:30.771 --> 00:00:32.704
+People's expectations change over time
+
+00:00:32.704 --> 00:00:34.905
+The day your grandma
+
+00:00:34.905 --> 00:00:36.705
+scolds the robot at home saying
+
+00:00:36.705 --> 00:00:38.705
+I already taught you once, why don't you get it yet?
+
+00:00:38.705 --> 00:00:39.972
+that's when you'll know AGI has arrived
+
+00:00:39.972 --> 00:00:43.606
+Our world's AGI is judged by this
+
+00:00:43.606 --> 00:00:46.640
+Our measuring standard grows from Grandma
+
+00:00:46.640 --> 00:00:48.673
+Grows from this kind of grandma
+
+00:00:48.673 --> 00:00:50.774
+It's her expectation
+
+00:00:50.774 --> 00:00:52.807
+If I've already told you once
+
+00:00:52.807 --> 00:00:54.241
+Don't make this mistake again
+
+00:01:00.208 --> 00:01:03.242
+Hi hello everyone, welcome back to Sidechat
+
+00:01:03.242 --> 00:01:05.676
+I'm Mia, editor at INSIDE
+
+00:01:05.676 --> 00:01:06.643
+I'm Fox
+
+00:01:06.643 --> 00:01:09.576
+Today, we're thrilled to have as our guest on this episode of SAI Q&amp;A
+
+00:01:09.576 --> 00:01:12.677
+Dr. Hui-Hsin Chi, Vice President of Research at Google DeepMind
+
+00:01:12.677 --> 00:01:14.510
+Dr. Chi, please say hello to everyone
+
+00:01:14.510 --> 00:01:16.044
+Hello everyone
+
+00:01:16.044 --> 00:01:20.511
+Dr., could you please briefly introduce your background to everyone
+
+00:01:20.511 --> 00:01:23.745
+and the position you primarily hold at Google DeepMind
+
+00:01:23.745 --> 00:01:25.679
+as well as your main research focus areas
+
+00:01:25.679 --> 00:01:29.213
+I was born and raised in Taiwan
+
+00:01:29.213 --> 00:01:31.680
+I was born in Tamsui
+
+00:01:31.680 --> 00:01:35.080
+Then at around 15 years old
+
+00:01:35.080 --> 00:01:39.214
+I went to study in the United States with my parents
+
+00:01:39.214 --> 00:01:42.214
+Because my mother went to pursue her PhD at that time
+
+00:01:42.214 --> 00:01:45.215
+So I attended high school there
+
+00:01:45.215 --> 00:01:50.416
+After finishing that high school, I went to university there
+
+00:01:50.416 --> 00:01:53.216
+And completed my master's and PhD there as well
+
+00:01:53.216 --> 00:01:57.217
+After finishing my studies, I went to work in California
+
+00:01:57.217 --> 00:01:59.217
+Working at a research center
+
+00:01:59.217 --> 00:02:01.851
+A place called Xerox PARC (Palo Alto Research Center)
+
+00:02:02.151 --> 00:02:03.217
+Interrupting this
+
+00:02:03.217 --> 00:02:06.518
+I think Xerox PARC (Palo Alto Research Center) was a very significant place for me.
+
+00:02:06.518 --> 00:02:08.518
+I looked into your background
+
+00:02:08.518 --> 00:02:11.019
+You actually worked there!
+
+00:02:11.019 --> 00:02:13.619
+That was back in 1997-98
+
+00:02:13.619 --> 00:02:14.753
+Yes
+
+00:02:14.753 --> 00:02:18.020
+Because I must mention this matter
+
+00:02:18.020 --> 00:02:21.720
+In 1998, Apple sued Microsoft
+
+00:02:21.720 --> 00:02:25.087
+And asked why their Windows..
+
+00:02:25.087 --> 00:02:29.655
+Copied the look of Mac's operating system
+
+00:02:29.655 --> 00:02:31.222
+Then Bill Gates said
+
+00:02:31.222 --> 00:02:34.589
+No actually, we all went to Xerox PARC to see it
+
+00:02:34.589 --> 00:02:36.222
+So we're all the same
+
+00:02:36.222 --> 00:02:38.856
+So that was the time when that incident happened
+
+00:02:38.856 --> 00:02:40.756
+Yes
+
+00:02:40.756 --> 00:02:42.657
+When I first went to Xerox PARC
+
+00:02:42.657 --> 00:02:46.590
+That could be considered its second renaissance
+
+00:02:46.590 --> 00:02:49.358
+So at that time, doing research there
+
+00:02:49.358 --> 00:02:51.858
+you could say it was a top-tier place
+
+00:02:51.858 --> 00:02:54.158
+Yes, everyone can imagine
+
+00:02:54.158 --> 00:02:57.225
+in the past with Microsoft's Windows operating system
+
+00:02:57.225 --> 00:03:00.226
+Or what we now see in Mac
+
+00:03:00.226 --> 00:03:01.959
+the operating system
+
+00:03:01.959 --> 00:03:05.060
+whether it's the mouse, user interface, etc.
+
+00:03:05.060 --> 00:03:08.794
+were all originally developed by Xerox PARC
+
+00:03:08.794 --> 00:03:10.627
+At that time, what the research center invented
+
+00:03:10.627 --> 00:03:13.561
+Yes, and the reason it was established in California at that time
+
+00:03:13.561 --> 00:03:15.761
+was precisely to be as far away from headquarters as possible
+
+00:03:16.728 --> 00:03:19.195
+Xerox was a photocopier company
+
+00:03:19.195 --> 00:03:22.062
+He was originally on the East Coast
+
+00:03:22.062 --> 00:03:24.163
+His main headquarters is on the East Coast
+
+00:03:24.163 --> 00:03:26.996
+Then established a research division
+
+00:03:26.996 --> 00:03:29.663
+Completely independent from the parent company
+
+00:03:29.663 --> 00:03:32.230
+It's located right next to Stanford University
+
+00:03:32.230 --> 00:03:35.198
+So it's a very, very special place
+
+00:03:35.198 --> 00:03:37.198
+Quite legendary, and they say
+
+00:03:37.198 --> 00:03:42.499
+That in the past, Jobs and Bill Gates each went in to take a look
+
+00:03:42.499 --> 00:03:44.199
+Then we learned from others' work
+
+00:03:44.199 --> 00:03:46.233
+Then we copied it and went global
+
+00:03:46.233 --> 00:03:48.233
+Then claimed we learned everything there
+
+00:03:48.233 --> 00:03:50.233
+So that was the prevailing atmosphere at the time
+
+00:03:50.233 --> 00:03:55.034
+Is that a great place in terms of a research field?
+
+00:03:55.201 --> 00:03:58.201
+A top-tier place, and it was also where we were at the time
+
+00:03:58.201 --> 00:04:02.202
+For example, Ethernet originated there as the birthplace of networking
+
+00:04:02.202 --> 00:04:05.235
+And the laser printer was also invented there
+
+00:04:05.235 --> 00:04:08.702
+graphical user interface
+
+00:04:08.702 --> 00:04:10.203
+laser printing
+
+00:04:10.203 --> 00:04:15.303
+even the audio-visual technologies we commonly use today
+
+00:04:15.303 --> 00:04:17.204
+video conferencing
+
+00:04:17.204 --> 00:04:20.037
+It was all invented at Xerox PARC
+
+00:04:20.204 --> 00:04:22.204
+Things from the 1980s
+
+00:04:22.204 --> 00:04:26.572
+Why at that particular time - though you're from the 90s and 80s
+
+00:04:26.572 --> 00:04:29.205
+But I'm curious why that place had..
+
+00:04:29.205 --> 00:04:33.206
+Is it able to do so? Is it collaborating with the military or not at all?
+
+00:04:33.206 --> 00:04:36.507
+What's interesting about your question is that...
+
+00:04:36.507 --> 00:04:40.207
+Why did Silicon Valley later produce so much innovation?
+
+00:04:40.207 --> 00:04:43.974
+In fact, its connection to Silicon Valley's entire origins..
+
+00:04:43.974 --> 00:04:45.608
+Why do we call it Silicon Valley
+
+00:04:45.608 --> 00:04:47.908
+Of course it's related to semiconductors
+
+00:04:47.908 --> 00:04:50.009
+But before semiconductors
+
+00:04:50.009 --> 00:04:53.176
+What's another interesting aspect about semiconductors
+
+00:04:53.176 --> 00:04:57.876
+during World War II
+
+00:04:57.876 --> 00:05:01.444
+what was the most important research being conducted
+
+00:05:01.444 --> 00:05:03.844
+it was about radio
+
+00:05:03.844 --> 00:05:07.078
+such as detection-related research
+
+00:05:07.078 --> 00:05:10.945
+So Stanford University at that time in the 1940s
+
+00:05:10.945 --> 00:05:14.045
+was especially doing cutting-edge work in radio sensing
+
+00:05:14.045 --> 00:05:15.879
+and was a top-tier institution
+
+00:05:15.879 --> 00:05:19.213
+That's why Stanford's engineering program was already very strong back then
+
+00:05:19.213 --> 00:05:23.847
+So this Xerox PARC in the 1970s
+
+00:05:23.847 --> 00:05:26.214
+When establishing research centers
+
+00:05:26.214 --> 00:05:31.781
+Because Stanford has a Triangle Research Park
+
+00:05:31.781 --> 00:05:35.548
+Everyone wanted to set up research centers there
+
+00:05:35.548 --> 00:05:36.782
+So that's the reason
+
+00:05:36.782 --> 00:05:41.883
+It has been there for forty or fifty years
+
+00:05:41.883 --> 00:05:46.617
+Yes, because he was probably originally doing this kind of
+
+00:05:46.617 --> 00:05:49.884
+high-end, technological, cutting-edge stuff
+
+00:05:49.884 --> 00:05:52.484
+Recently, many research talents have gathered there
+
+00:05:52.484 --> 00:05:56.585
+And what's really interesting is that every day when I drive to work
+
+00:05:56.585 --> 00:05:59.719
+I pass by a very inconspicuous
+
+00:05:59.719 --> 00:06:02.219
+place that looks like a sheet metal shack
+
+00:06:02.219 --> 00:06:05.286
+just a flat, single-layer place
+
+00:06:05.286 --> 00:06:10.387
+That place is actually the birthplace where semiconductors were originally invented
+
+00:06:10.387 --> 00:06:13.487
+And there's an itropy plack there
+
+00:06:13.487 --> 00:06:16.221
+Just an indicator cup telling you
+
+00:06:16.221 --> 00:06:21.022
+This is the birthplace of semiconductors
+
+00:06:21.022 --> 00:06:25.556
+So no matter how Taiwan's semiconductor leadership stands now
+
+00:06:25.556 --> 00:06:28.023
+We still have to go back to look at the origins
+
+00:06:28.023 --> 00:06:30.223
+That's right, exactly
+
+00:06:30.223 --> 00:06:32.623
+So when I saw what Xerox was doing
+
+00:06:32.623 --> 00:06:35.091
+I really thought it was amazing
+
+00:06:35.091 --> 00:06:38.191
+So you stayed until around 2010
+
+00:06:38.191 --> 00:06:42.225
+Yes, I was at Xerox PARC for about 13 years
+
+00:06:42.225 --> 00:06:45.225
+Then I realized that just doing research wasn't enough
+
+00:06:45.225 --> 00:06:47.226
+We also needed to work on practical applications
+
+00:06:47.226 --> 00:06:52.360
+That's why I ended up going to Google
+
+00:06:52.360 --> 00:06:55.627
+What kind of work did you do initially?
+
+00:06:55.627 --> 00:06:59.794
+I was originally working primarily on
+
+00:06:59.794 --> 00:07:05.228
+visual graphics research
+
+00:07:05.228 --> 00:07:08.795
+Then as I worked, I discovered the web was quite interesting
+
+00:07:08.795 --> 00:07:13.063
+So I started doing a lot of analytical work related to the web
+
+00:07:13.063 --> 00:07:14.763
+Some big data work
+
+00:07:14.763 --> 00:07:16.897
+At that time, we didn't even call it big data yet
+
+00:07:16.897 --> 00:07:21.464
+It was just called data mining or data engineering
+
+00:07:21.464 --> 00:07:26.798
+That was around the early 2000s
+
+00:07:26.798 --> 00:07:30.765
+Then we continued until around 2007-2008
+
+00:07:30.765 --> 00:07:33.999
+In fact, the first thing my team invented was
+
+00:07:33.999 --> 00:07:36.333
+Twitter's first recommendation engine
+
+00:07:37.733 --> 00:07:41.467
+So we started moving in the direction of web analytics
+
+00:07:41.467 --> 00:07:46.301
+From the field of big data moving towards social media
+
+00:07:46.301 --> 00:07:48.468
+So we later did a lot of social computing
+
+00:07:48.468 --> 00:07:50.602
+And social media research
+
+00:07:50.602 --> 00:07:52.835
+Because of this, I ended up going to Google
+
+00:07:54.135 --> 00:07:57.036
+Because I just mentioned Xerox
+
+00:07:57.036 --> 00:07:59.503
+Because they conduct a lot of academic research
+
+00:07:59.503 --> 00:08:00.903
+They've done extensive research
+
+00:08:00.903 --> 00:08:04.137
+But in reality, we don't seem to have any real impression of it
+
+00:08:04.137 --> 00:08:06.204
+Xerox truly developed all these technologies
+
+00:08:06.204 --> 00:08:09.671
+and created an entirely new business model
+
+00:08:09.671 --> 00:08:14.172
+or perhaps Xerox should have disappeared by now
+
+00:08:14.172 --> 00:08:15.138
+more or less
+
+00:08:15.138 --> 00:08:17.205
+So I'm curious about
+
+00:08:17.205 --> 00:08:19.206
+why he's at the top level here
+
+00:08:19.206 --> 00:08:21.206
+but hasn't actually created a consumer-grade
+
+00:08:21.206 --> 00:08:23.206
+and phenomenally successful product
+
+00:08:23.206 --> 00:08:25.207
+So academic research must ultimately find ways
+
+00:08:25.207 --> 00:08:28.440
+to be applied in ways that impact all of humanity's lives
+
+00:08:28.640 --> 00:08:29.474
+Exactly
+
+00:08:29.474 --> 00:08:34.675
+Just like us researchers and R&amp;D personnel in this field
+
+00:08:34.675 --> 00:08:38.208
+People often don't understand that technology is just one aspect of it
+
+00:08:38.208 --> 00:08:39.509
+If you really want to make money
+
+00:08:39.509 --> 00:08:43.209
+You need to be able to develop a business model
+
+00:08:43.209 --> 00:08:46.810
+And this model could be, for example, an advertising model
+
+00:08:46.810 --> 00:08:49.177
+or a subscription-based model
+
+00:08:49.177 --> 00:08:51.810
+or many other ways to make money
+
+00:08:51.810 --> 00:08:55.944
+your technology isn't connected to a business model
+
+00:08:55.944 --> 00:08:57.711
+you won't be able to start a business
+
+00:08:57.711 --> 00:09:00.912
+But it's also because of companies like Google
+
+00:09:00.912 --> 00:09:03.012
+They invented—though it started simply as
+
+00:09:03.012 --> 00:09:05.712
+interconnected understanding, ranking algorithms
+
+00:09:05.712 --> 00:09:08.413
+Then they added ads, and it took off like a rocket
+
+00:09:08.413 --> 00:09:09.080
+Yes
+
+00:09:09.080 --> 00:09:10.080
+Up until now
+
+00:09:10.080 --> 00:09:12.213
+So regarding the matter of adding advertisements
+
+00:09:12.213 --> 00:09:15.214
+In fact, what many people might not understand is that
+
+00:09:15.214 --> 00:09:20.215
+It's about accelerating commerce
+
+00:09:20.215 --> 00:09:22.648
+He is actually an acceleration
+
+00:09:22.648 --> 00:09:24.215
+So he has value
+
+00:09:24.215 --> 00:09:26.716
+His value starts from this acceleration
+
+00:09:29.216 --> 00:09:31.783
+So from that point in time
+
+00:09:31.783 --> 00:09:32.816
+That has already begun
+
+00:09:32.816 --> 00:09:34.483
+For example, we all talk about machine learning
+
+00:09:34.483 --> 00:09:35.550
+and things like machine learning
+
+00:09:35.550 --> 00:09:37.617
+Start doing what was just recommended
+
+00:09:37.617 --> 00:09:40.218
+It must be related to ranking and machine learning
+
+00:09:40.218 --> 00:09:42.151
+It must be super positively correlated
+
+00:09:42.151 --> 00:09:43.585
+So at that time
+
+00:09:43.585 --> 00:09:45.552
+I've already started thinking about AI
+
+00:09:45.552 --> 00:09:48.219
+Back then, when we heard about AI, we thought
+
+00:09:48.219 --> 00:09:50.986
+This isn't like the kind I imagined that could talk
+
+00:09:50.986 --> 00:09:52.219
+And converse with you fluently
+
+00:09:52.219 --> 00:09:54.453
+You say it's very different from what's in sci-fi works
+
+00:09:54.453 --> 00:09:57.020
+I mean, it's used in advertising again
+
+00:09:57.020 --> 00:09:58.620
+And it's working on this algorithm
+
+00:09:58.620 --> 00:09:59.220
+You seem..
+
+00:09:59.220 --> 00:10:01.421
+doing very detailed things
+
+00:10:01.421 --> 00:10:03.721
+it feels so superficial
+
+00:10:03.721 --> 00:10:04.521
+a bit superficial
+
+00:10:04.521 --> 00:10:06.088
+no, I mean superficial
+
+00:10:06.088 --> 00:10:08.522
+It's really great and profitable
+
+00:10:08.522 --> 00:10:11.122
+But this algorithm is also amazing
+
+00:10:11.122 --> 00:10:12.489
+Machine learning is fantastic too
+
+00:10:12.489 --> 00:10:14.923
+But it doesn't seem to be changing the world, does it?
+
+00:10:14.923 --> 00:10:16.790
+something you think is amazing
+
+00:10:16.790 --> 00:10:19.623
+The reason for this is actually because
+
+00:10:19.623 --> 00:10:22.124
+many people
+
+00:10:22.124 --> 00:10:23.424
+including our listeners and such
+
+00:10:23.424 --> 00:10:25.324
+Over the past two to three decades
+
+00:10:25.324 --> 00:10:28.591
+with the emergence of Google
+
+00:10:28.591 --> 00:10:32.525
+it has become a ubiquitous method
+
+00:10:32.525 --> 00:10:34.459
+since we all have screens
+
+00:10:34.459 --> 00:10:36.692
+If there's a screen, it must be
+
+00:10:36.692 --> 00:10:40.293
+Reading things must be sequential
+
+00:10:40.293 --> 00:10:43.360
+If it's sequential, there must be permutations and combinations
+
+00:10:43.360 --> 00:10:45.694
+And this part about permutations and combinations
+
+00:10:45.694 --> 00:10:47.394
+Why did the algorithm later
+
+00:10:47.394 --> 00:10:49.528
+over these ten, twenty years
+
+00:10:49.528 --> 00:10:52.528
+keep becoming more precise
+
+00:10:52.528 --> 00:10:54.362
+keep pushing forward
+
+00:10:54.362 --> 00:10:55.795
+Research is being conducted in this area
+
+00:10:55.795 --> 00:10:58.462
+The reason actually is that
+
+00:10:58.462 --> 00:11:01.496
+This entire advertisement as well
+
+00:11:01.496 --> 00:11:04.830
+Or the search results we see like this
+
+00:11:04.830 --> 00:11:06.330
+ranking is good
+
+00:11:06.330 --> 00:11:10.731
+its accuracy only needs to improve by 0.1%
+
+00:11:10.731 --> 00:11:13.031
+do you know how significant that improvement is
+
+00:11:13.031 --> 00:11:15.098
+it makes a lot of money
+
+00:11:15.098 --> 00:11:16.465
+A lot of money
+
+00:11:16.465 --> 00:11:20.265
+You're like Google's search ranking
+
+00:11:20.265 --> 00:11:21.299
+That part
+
+00:11:21.299 --> 00:11:23.933
+That side of the business
+
+00:11:23.933 --> 00:11:26.200
+Approximately only 200 billion USD
+
+00:11:26.200 --> 00:11:27.000
+Right?
+
+00:11:27.000 --> 00:11:32.934
+For the entire market
+
+00:11:32.934 --> 00:11:37.235
+The total combined could easily exceed 500 billion
+
+00:11:37.235 --> 00:11:39.768
+Then you just need to improve by 0.1%
+
+00:11:39.768 --> 00:11:42.169
+1% would be 5 billion dollars
+
+00:11:42.169 --> 00:11:46.503
+Even 0.1% would still be 500 million dollars
+
+00:11:46.503 --> 00:11:48.203
+These are all enormous numbers
+
+00:11:48.203 --> 00:11:49.870
+So 0.1 makes such a big difference
+
+00:11:49.870 --> 00:11:51.203
+Because on one hand it's advertising
+
+00:11:51.203 --> 00:11:53.670
+Just improving by 0.1% or 1%
+
+00:11:53.670 --> 00:11:54.537
+Can earn a lot of money
+
+00:11:54.537 --> 00:11:57.204
+Another aspect is if we can use these algorithms
+
+00:11:57.204 --> 00:11:58.638
+to reduce its cost
+
+00:11:58.638 --> 00:12:01.205
+or improve, for example, the data center's
+
+00:12:01.205 --> 00:12:03.638
+certain energy consumption or efficiency metrics
+
+00:12:03.638 --> 00:12:06.206
+Improve by 1% 5%
+
+00:12:06.206 --> 00:12:07.206
+It costs less
+
+00:12:07.206 --> 00:12:08.206
+Saves a lot of money
+
+00:12:08.206 --> 00:12:10.206
+Which means better
+
+00:12:10.206 --> 00:12:11.640
+This also extends to the point that
+
+00:12:11.640 --> 00:12:13.773
+Nowadays, people often talk about
+
+00:12:13.773 --> 00:12:15.207
+The cost of Google searches
+
+00:12:15.207 --> 00:12:17.574
+Each query has a low cost
+
+00:12:17.574 --> 00:12:19.207
+has been compressed to extremely low costs
+
+00:12:19.207 --> 00:12:20.874
+But now with AI
+
+00:12:20.874 --> 00:12:22.875
+when generating responses to queries
+
+00:12:22.875 --> 00:12:24.708
+the cost may be just a fraction of the original
+
+00:12:24.708 --> 00:12:26.208
+10x or 20x improvements
+
+00:12:26.208 --> 00:12:28.109
+It feels like
+
+00:12:28.109 --> 00:12:31.943
+a clash between different eras' logics, right?
+
+00:12:31.943 --> 00:12:35.210
+Exactly, so it's optimization in this regard
+
+00:12:35.210 --> 00:12:38.410
+How can we reduce costs
+
+00:12:38.410 --> 00:12:42.211
+These issues are still in the research phase
+
+00:12:42.211 --> 00:12:45.211
+Because we need to figure out
+
+00:12:45.211 --> 00:12:48.212
+When to use more advanced algorithms
+
+00:12:48.212 --> 00:12:51.779
+When to use more brute-force algorithms
+
+00:12:51.779 --> 00:12:53.946
+These are all research directions
+
+00:12:53.946 --> 00:12:55.213
+OK
+
+00:12:55.213 --> 00:12:57.713
+I think before a certain point in time
+
+00:12:57.713 --> 00:13:00.847
+It's Google's product line
+
+00:13:00.847 --> 00:13:02.814
+To put it this way, it's a bit messy
+
+00:13:02.814 --> 00:13:05.014
+For example, after Gemini
+
+00:13:05.014 --> 00:13:08.815
+Back in 2021, 2022
+
+00:13:08.815 --> 00:13:11.015
+Then last year with Bard, suddenly everything was renamed
+
+00:13:11.015 --> 00:13:11.882
+I said at that time
+
+00:13:11.882 --> 00:13:13.849
+Renamed again
+
+00:13:13.849 --> 00:13:15.082
+I renamed it again at that time
+
+00:13:15.082 --> 00:13:16.616
+Changed to one called Gemini
+
+00:13:16.616 --> 00:13:19.383
+But to be honest
+
+00:13:19.383 --> 00:13:20.783
+After Gemini
+
+00:13:20.783 --> 00:13:24.350
+You finally feel everything is in order
+
+00:13:24.350 --> 00:13:27.217
+Then 1.5 2.0 2.5 Pro
+
+00:13:27.217 --> 00:13:29.251
+It progressed step by step like this
+
+00:13:29.251 --> 00:13:31.651
+But during this process, I could sense that
+
+00:13:31.651 --> 00:13:35.519
+Did it go through many phases in between?
+
+00:13:35.519 --> 00:13:38.052
+I feel like there's something going on
+
+00:13:38.052 --> 00:13:39.486
+from its different names
+
+00:13:39.486 --> 00:13:42.220
+it feels like there are tons of projects running simultaneously
+
+00:13:42.220 --> 00:13:44.053
+the feeling is like there's something happening
+
+00:13:44.053 --> 00:13:45.420
+Google brand
+
+00:13:45.420 --> 00:13:48.087
+And then I also have DeepMind
+
+00:13:48.087 --> 00:13:49.454
+When do you think this was
+
+00:13:49.454 --> 00:13:51.221
+Starting to gradually converge
+
+00:13:51.221 --> 00:13:52.421
+And up until now
+
+00:13:52.421 --> 00:13:54.355
+This relatively better situation
+
+00:13:54.355 --> 00:13:56.488
+I think this matter actually
+
+00:13:56.488 --> 00:13:58.522
+May also have some connection with the company culture
+
+00:13:58.522 --> 00:13:59.289
+Indeed
+
+00:13:59.289 --> 00:14:01.656
+Google, being a software company
+
+00:14:01.656 --> 00:14:04.223
+So software companies tend
+
+00:14:04.223 --> 00:14:05.490
+To be more like that
+
+00:14:05.490 --> 00:14:09.190
+a diverse approach to management where multiple methods flourish together
+
+00:14:09.190 --> 00:14:11.224
+because it might think that
+
+00:14:11.224 --> 00:14:12.824
+software is the kind of thing
+
+00:14:12.824 --> 00:14:14.224
+that can suddenly emerge and take off
+
+00:14:14.224 --> 00:14:16.691
+A new idea
+
+00:14:16.691 --> 00:14:18.792
+It might have come from the person on the left side
+
+00:14:18.792 --> 00:14:20.225
+Or it could be from the person on the right side
+
+00:14:20.225 --> 00:14:21.759
+Or maybe from someone behind you
+
+00:14:21.759 --> 00:14:24.392
+It could also be the person before you doing it
+
+00:14:24.392 --> 00:14:25.859
+So when working at Google
+
+00:14:25.859 --> 00:14:27.193
+You often get this feeling
+
+00:14:27.193 --> 00:14:29.093
+It's like when I'm working on this thing
+
+00:14:29.093 --> 00:14:31.227
+But there are also five teams
+
+00:14:31.227 --> 00:14:34.861
+Five other groups are working on this
+
+00:14:34.861 --> 00:14:40.228
+So software companies' organizational structure
+
+00:14:40.228 --> 00:14:45.729
+Tends to favor this bottom-up approach
+
+00:14:45.729 --> 00:14:48.196
+Hardware companies tend to be more top-down
+
+00:14:48.196 --> 00:14:50.196
+One of the reasons for this is that
+
+00:14:50.196 --> 00:14:52.330
+hardware is essentially
+
+00:14:52.330 --> 00:14:54.930
+a concept of integration
+
+00:14:54.930 --> 00:14:58.131
+You want everything to fit perfectly
+
+00:14:58.131 --> 00:15:00.198
+So it will be more top-down
+
+00:15:00.198 --> 00:15:03.965
+Not to mention hardware companies like Apple
+
+00:15:03.965 --> 00:15:09.199
+Where the phone case and its screen..
+
+00:15:09.199 --> 00:15:11.032
+How to integrate them together
+
+00:15:11.032 --> 00:15:14.233
+It's all extremely precise
+
+00:15:14.233 --> 00:15:17.800
+So this kind of company's culture
+
+00:15:17.800 --> 00:15:19.600
+Will be more top-down
+
+00:15:19.600 --> 00:15:21.201
+Because it has the capacity to spare
+
+00:15:21.201 --> 00:15:24.201
+It can simultaneously develop various projects
+
+00:15:24.201 --> 00:15:25.201
+And the question you asked
+
+00:15:25.201 --> 00:15:27.702
+What makes it particularly good is one reason
+
+00:15:27.702 --> 00:15:31.035
+Because software is currently undergoing a major transformation
+
+00:15:31.035 --> 00:15:33.202
+Because the previous approach to software
+
+00:15:33.202 --> 00:15:36.203
+typically involved developing many different modules
+
+00:15:36.203 --> 00:15:37.670
+and completing them all
+
+00:15:37.670 --> 00:15:39.003
+and then integrate it
+
+00:15:39.003 --> 00:15:41.204
+integrate them together
+
+00:15:41.204 --> 00:15:45.204
+but now with the emergence of large models
+
+00:15:45.204 --> 00:15:48.205
+many things are done using the converge method
+
+00:15:48.205 --> 00:15:51.205
+It's a module that handles many different tasks
+
+00:15:51.205 --> 00:15:56.206
+So this direction of software development
+
+00:15:56.206 --> 00:16:01.740
+Is becoming more like a top-down organization
+
+00:16:01.740 --> 00:16:03.207
+Speaking of this point
+
+00:16:03.207 --> 00:16:06.207
+I have to say because of this
+
+00:16:06.207 --> 00:16:08.474
+that is Sergey Brin
+
+00:16:08.474 --> 00:16:11.208
+the co-founder
+
+00:16:11.208 --> 00:16:12.208
+greatly
+
+00:16:12.208 --> 00:16:13.575
+He did make a comeback, didn't he?
+
+00:16:13.575 --> 00:16:17.209
+At some point, it seemed like he really got serious and came back
+
+00:16:17.209 --> 00:16:22.210
+Do you think his comeback also helped make things more unified?
+
+00:16:22.210 --> 00:16:23.210
+Yes, definitely
+
+00:16:23.210 --> 00:16:29.211
+Moreover, his personality is very proactive
+
+00:16:29.211 --> 00:16:31.211
+He's the type of person who really enjoys getting things done
+
+00:16:31.211 --> 00:16:35.845
+He's a very execution-focused type of founder
+
+00:16:35.845 --> 00:16:37.645
+Because I saw in the interview he was just wearing shorts
+
+00:16:37.645 --> 00:16:38.912
+then at Google
+
+00:16:38.912 --> 00:16:40.912
+very relaxed
+
+00:16:40.912 --> 00:16:42.079
+very chill
+
+00:16:42.079 --> 00:16:43.079
+super chill
+
+00:16:43.079 --> 00:16:47.613
+But he's actually very proactive in what he does
+
+00:16:47.613 --> 00:16:50.747
+He may appear very chill on the surface
+
+00:16:50.747 --> 00:16:52.547
+But in reality he's extremely proactive
+
+00:16:52.547 --> 00:16:54.214
+Because I saw in his interview that
+
+00:16:54.214 --> 00:16:57.148
+He probably stepped down around 2019 or 2020
+
+00:16:57.148 --> 00:16:59.015
+Meaning he stopped being CEO
+
+00:16:59.015 --> 00:17:01.182
+Then it was somewhat like being forced into retirement
+
+00:17:01.182 --> 00:17:04.216
+Then one day he happened to meet someone from OpenAI who said
+
+00:17:04.216 --> 00:17:09.216
+Why are you in this retired state? Now is the time to fight the most.
+
+00:17:09.216 --> 00:17:10.017
+You should come back.
+
+00:17:10.017 --> 00:17:11.217
+He seemed to have been provoked later.
+
+00:17:11.217 --> 00:17:16.584
+And then he came back—now we have to return to working in the office
+
+00:17:16.584 --> 00:17:20.785
+Yes, and in fact he has always been the President of Technology
+
+00:17:20.785 --> 00:17:22.585
+during his time at Google
+
+00:17:22.585 --> 00:17:25.219
+As for the CEO, that was Larry Page
+
+00:17:25.219 --> 00:17:29.819
+As for Sergey, he has always been more focused on..
+
+00:17:29.819 --> 00:17:32.453
+the direction of technology R&amp;D
+
+00:17:32.453 --> 00:17:35.220
+but to some extent you could think of it this way
+
+00:17:35.220 --> 00:17:37.687
+that is to say, Google went through a period
+
+00:17:37.687 --> 00:17:40.421
+in fact, you could call it peacetime
+
+00:17:40.421 --> 00:17:41.621
+Yes
+
+00:17:41.621 --> 00:17:42.855
+15 years later
+
+00:17:42.855 --> 00:17:46.222
+As we just discussed, this topic is a great example
+
+00:17:46.222 --> 00:17:49.756
+He might think that this 0.1% improvement
+
+00:17:49.756 --> 00:17:51.523
+500 million dollars
+
+00:17:51.523 --> 00:17:53.223
+For him, it's not exciting
+
+00:17:53.223 --> 00:17:55.957
+Although for us developers, we might think
+
+00:17:55.957 --> 00:17:57.490
+that's interesting
+
+00:17:57.490 --> 00:18:00.791
+If this idea could be realized, there would be a
+
+00:18:00.791 --> 00:18:05.191
+for example, a 0.5% or even 1% improvement
+
+00:18:05.191 --> 00:18:07.792
+so at Google Research
+
+00:18:07.792 --> 00:18:11.926
+we were constantly looking for those 5% or 10% improvements
+
+00:18:11.926 --> 00:18:15.226
+or even higher levels of disruption
+
+00:18:15.226 --> 00:18:17.226
+We actually managed to find it in the end
+
+00:18:17.226 --> 00:18:20.027
+And the disruption turned out to be even greater than we imagined
+
+00:18:20.027 --> 00:18:23.794
+Especially since the transformer concept was originally
+
+00:18:23.794 --> 00:18:27.028
+proposed by researchers at Google at that time
+
+00:18:27.028 --> 00:18:29.795
+The result is a flourishing of diverse ideas
+
+00:18:29.795 --> 00:18:33.662
+Ultimately, the credit still goes back to Google
+
+00:18:33.662 --> 00:18:36.196
+Yes, and you could say that
+
+00:18:36.196 --> 00:18:40.563
+Such an important discovery is actually very difficult to..
+
+00:18:40.563 --> 00:18:44.897
+Tied up inside a box
+
+00:18:44.897 --> 00:18:47.031
+This thing will naturally
+
+00:18:47.031 --> 00:18:48.698
+Because its power is too great
+
+00:18:48.698 --> 00:18:52.398
+Its capability is too remarkable
+
+00:18:52.398 --> 00:18:55.399
+So this thing is really about
+
+00:18:55.399 --> 00:18:57.832
+I personally believe it's truly changing the world
+
+00:18:57.832 --> 00:18:59.833
+How could you possibly
+
+00:18:59.833 --> 00:19:01.166
+let it go
+
+00:19:01.166 --> 00:19:02.900
+No way
+
+00:19:02.900 --> 00:19:07.967
+It really started after the .com boom in 2000
+
+00:19:07.967 --> 00:19:10.234
+I think even he himself said this should be
+
+00:19:10.234 --> 00:19:15.001
+Considered the greatest leap in human development
+
+00:19:15.001 --> 00:19:17.802
+I originally thought that maybe
+
+00:19:17.802 --> 00:19:19.202
+the development of mobile phones
+
+00:19:19.202 --> 00:19:23.403
+smartphones has already advanced tremendously
+
+00:19:23.403 --> 00:19:25.036
+so I originally thought that
+
+00:19:25.036 --> 00:19:27.703
+to keep up with the internet
+
+00:19:27.703 --> 00:19:30.204
+or the development of smartphones
+
+00:19:30.204 --> 00:19:32.537
+any new invention during my lifetime
+
+00:19:32.537 --> 00:19:34.604
+might not necessarily be something I'll get to see
+
+00:19:34.604 --> 00:19:39.205
+Really? And then these large models emerged
+
+00:19:39.205 --> 00:19:42.205
+I think it's quite possible
+
+00:19:42.205 --> 00:19:44.206
+And the more I look at it, the more likely it seems
+
+00:19:44.206 --> 00:19:47.206
+Right now it feels highly probable
+
+00:19:47.206 --> 00:19:50.673
+Yes, about two or three years ago, people might have still been saying...
+
+00:19:50.673 --> 00:19:52.474
+Just when ChatGPT first came out
+
+00:19:52.474 --> 00:19:55.207
+It felt like there was a real, sudden pause in the conversation
+
+00:19:55.207 --> 00:19:58.208
+And at that time, we were transitioning from Lambda to Bard
+
+00:19:58.208 --> 00:19:59.675
+this journey
+
+00:19:59.675 --> 00:20:01.908
+and finally evolved into the Gemini journey
+
+00:20:01.908 --> 00:20:04.409
+is also because
+
+00:20:04.409 --> 00:20:07.209
+there are many different people within Google
+
+00:20:07.209 --> 00:20:10.209
+I feel that when we were working on Lambda
+
+00:20:10.209 --> 00:20:13.210
+and Lambda's predecessor was a project called Mina
+
+00:20:13.210 --> 00:20:15.077
+when we were working on Mina and Lambda
+
+00:20:15.077 --> 00:20:16.610
+many people thought that
+
+00:20:16.610 --> 00:20:19.644
+This feels like a toy
+
+00:20:19.644 --> 00:20:21.211
+Same as GPT2
+
+00:20:21.211 --> 00:20:23.411
+At that time, I think many people looked at GPT2
+
+00:20:23.411 --> 00:20:24.878
+It seemed like it could do something
+
+00:20:24.878 --> 00:20:26.579
+It's like you can't really do anything
+
+00:20:26.579 --> 00:20:27.645
+That doesn't seem to work either
+
+00:20:27.645 --> 00:20:28.912
+Yes
+
+00:20:28.912 --> 00:20:32.246
+So do you really think that later
+
+00:20:32.246 --> 00:20:35.213
+It's amazing compared to when it was still like a toy
+
+00:20:35.213 --> 00:20:39.214
+What are the main differences in using it
+
+00:20:39.214 --> 00:20:42.081
+I think the feeling at that time
+
+00:20:42.081 --> 00:20:45.381
+There's a bit of similarity to a book in the business field
+
+00:20:45.381 --> 00:20:47.415
+It's particularly interesting when discussing this
+
+00:20:47.415 --> 00:20:49.215
+The Innovator's Dilemma
+
+00:20:49.215 --> 00:20:50.615
+It's highly relevant
+
+00:20:50.615 --> 00:20:56.216
+The feeling when using Lambda was that
+
+00:20:56.216 --> 00:20:59.217
+it's fun to chat with it
+
+00:20:59.217 --> 00:21:05.218
+But does this actually have any real use?
+
+00:21:05.218 --> 00:21:08.051
+And its accuracy might not be that high
+
+00:21:08.051 --> 00:21:10.685
+Sometimes it says some really strange things
+
+00:21:10.685 --> 00:21:13.452
+Plus there's the hallucination problem
+
+00:21:13.452 --> 00:21:16.219
+People might think these hallucination issues
+
+00:21:16.219 --> 00:21:18.719
+might not be fixable
+
+00:21:18.719 --> 00:21:20.220
+can't be fixed
+
+00:21:20.220 --> 00:21:22.887
+then let's wait and see
+
+00:21:22.887 --> 00:21:24.420
+So I think in fact
+
+00:21:24.420 --> 00:21:28.221
+we started from sequence
+
+00:21:28.221 --> 00:21:31.221
+this sequence transduction
+
+00:21:31.221 --> 00:21:33.988
+in 2015, before Transformer
+
+00:21:33.988 --> 00:21:36.855
+Another paper I consider even more important
+
+00:21:36.855 --> 00:21:40.056
+That paper on sequence to sequence learning
+
+00:21:40.056 --> 00:21:42.490
+At the time, we really should have realized
+
+00:21:42.490 --> 00:21:45.690
+This was a transformative technology
+
+00:21:45.690 --> 00:21:48.824
+but I think many people missed it
+
+00:21:48.824 --> 00:21:50.524
+missed it in 2015
+
+00:21:50.524 --> 00:21:52.524
+the Transformer paper came out in 2017
+
+00:21:52.524 --> 00:21:53.691
+and missed it again
+
+00:21:53.691 --> 00:21:57.192
+By 2019 or 2020
+
+00:21:57.192 --> 00:22:03.226
+When we were discussing whether to launch this Lambda
+
+00:22:03.226 --> 00:22:04.693
+Everyone missed it too
+
+00:22:04.693 --> 00:22:08.227
+We had to wait until OpenAI released ChatGPT
+
+00:22:08.227 --> 00:22:12.361
+And the main people inside ChatGPT
+
+00:22:12.361 --> 00:22:16.195
+Several of them were from my former team
+
+00:22:16.195 --> 00:22:18.195
+So you can see that
+
+00:22:18.195 --> 00:22:20.228
+Some people on the team think
+
+00:22:20.228 --> 00:22:22.229
+this is transformer technology
+
+00:22:22.229 --> 00:22:25.229
+while others still consider it just a toy
+
+00:22:25.229 --> 00:22:28.230
+The Innovator's Dilemma means that
+
+00:22:28.230 --> 00:22:30.930
+often a new technology
+
+00:22:30.930 --> 00:22:34.197
+may initially appear to be just an imitation
+
+00:22:34.197 --> 00:22:36.731
+or even a counterfeit product
+
+00:22:36.731 --> 00:22:37.898
+very cheap
+
+00:22:37.898 --> 00:22:39.231
+yeah exactly
+
+00:22:39.231 --> 00:22:42.232
+It doesn't feel like Google search, right
+
+00:22:42.232 --> 00:22:45.199
+but we still put it up there
+
+00:22:45.199 --> 00:22:46.199
+We're Google, you know
+
+00:22:46.199 --> 00:22:48.199
+Yeah, so it's like
+
+00:22:48.199 --> 00:22:52.200
+Just like we were talking about Xerox earlier
+
+00:22:52.200 --> 00:22:55.567
+At that time, Xerox had laser printing
+
+00:22:55.567 --> 00:22:57.201
+Then later came inkjet
+
+00:22:57.201 --> 00:23:00.134
+When inkjet first came out, Xerox thought
+
+00:23:00.134 --> 00:23:01.935
+This thing is too terrible
+
+00:23:01.935 --> 00:23:04.202
+The print quality was very poor
+
+00:23:04.202 --> 00:23:06.202
+low resolution
+
+00:23:06.202 --> 00:23:08.302
+One of these is actually quite interesting to talk about
+
+00:23:08.302 --> 00:23:10.202
+because of laser printing
+
+00:23:10.202 --> 00:23:12.203
+it uses toner particles
+
+00:23:12.203 --> 00:23:14.503
+Use this heat laser
+
+00:23:14.503 --> 00:23:18.404
+Attach it to this paper
+
+00:23:18.404 --> 00:23:21.471
+Inject it as a liquid
+
+00:23:21.471 --> 00:23:23.438
+Spray it by injecting
+
+00:23:23.438 --> 00:23:25.205
+Inkjet printer
+
+00:23:25.205 --> 00:23:26.872
+We call it an inkjet printer
+
+00:23:26.872 --> 00:23:29.205
+It sprays the ink onto the paper
+
+00:23:29.205 --> 00:23:32.206
+"Spraying ink" sounds kinda lame
+
+00:23:32.206 --> 00:23:33.539
+Is that what it means?
+
+00:23:33.539 --> 00:23:35.773
+So the effect of spraying it in
+
+00:23:35.773 --> 00:23:37.206
+Its resolution in fact
+
+00:23:37.206 --> 00:23:40.073
+Was much lower than laser printing at that time
+
+00:23:40.073 --> 00:23:42.707
+So the printed results were extremely poor
+
+00:23:42.707 --> 00:23:44.207
+So the people at Xerox thought
+
+00:23:44.207 --> 00:23:47.208
+This is an inferior technology
+
+00:23:47.208 --> 00:23:49.408
+Why should we invest in this thing
+
+00:23:49.408 --> 00:23:52.409
+So when we were working on Mina lambda
+
+00:23:52.409 --> 00:23:55.676
+many people shared the same feeling
+
+00:23:55.676 --> 00:23:57.209
+they thought this thing
+
+00:23:57.209 --> 00:23:59.743
+could never be replaced
+
+00:23:59.743 --> 00:24:02.177
+existing technology
+
+00:24:02.177 --> 00:24:04.410
+So this is the Innovator's Dilemma
+
+00:24:04.410 --> 00:24:06.644
+Yes, because actually
+
+00:24:06.644 --> 00:24:08.578
+Given today's atmosphere at that time
+
+00:24:08.578 --> 00:24:10.311
+I also think Google is really in a dilemma
+
+00:24:10.311 --> 00:24:12.578
+Because it's like saying
+
+00:24:12.578 --> 00:24:13.812
+Now I'm having hallucinations
+
+00:24:13.812 --> 00:24:16.712
+And after the hallucinations are output
+
+00:24:16.712 --> 00:24:18.946
+I must say even with today's AI
+
+00:24:18.946 --> 00:24:20.513
+there's still an overview
+
+00:24:20.513 --> 00:24:21.580
+there actually still is
+
+00:24:21.580 --> 00:24:23.580
+but now people don't see it as a problem
+
+00:24:23.580 --> 00:24:25.647
+It's now at an acceptable level
+
+00:24:25.647 --> 00:24:27.214
+because everyone knows
+
+00:24:27.214 --> 00:24:30.381
+that all AIs include everything, meaning
+
+00:24:30.381 --> 00:24:32.681
+OpenAI, Claude, or any other company
+
+00:24:32.681 --> 00:24:33.548
+Everyone has hallucinations
+
+00:24:33.548 --> 00:24:36.215
+So now Google having hallucinations seems
+
+00:24:36.215 --> 00:24:38.282
+not particularly serious
+
+00:24:38.282 --> 00:24:39.749
+People would think
+
+00:24:39.749 --> 00:24:41.682
+It's only been three years
+
+00:24:41.682 --> 00:24:43.716
+People no longer see this as a serious issue
+
+00:24:43.716 --> 00:24:45.016
+Quite remarkable
+
+00:24:45.016 --> 00:24:50.317
+Yes, and I think this shows how quickly technology acceptance evolves
+
+00:24:50.317 --> 00:24:56.085
+Or even users' evolution and expectations of them
+
+00:24:56.085 --> 00:24:57.218
+will keep changing
+
+00:24:57.218 --> 00:25:00.218
+Take our mobile phones for example
+
+00:25:00.218 --> 00:25:02.219
+Back in the day when we saw those big brick phones
+
+00:25:02.219 --> 00:25:04.219
+There's a mobile phone in the car
+
+00:25:04.219 --> 00:25:05.219
+What happened then?
+
+00:25:05.219 --> 00:25:08.220
+Wow, amazing! So impressive!
+
+00:25:08.220 --> 00:25:09.887
+And what was it called before?
+
+00:25:09.887 --> 00:25:12.220
+What is BB call called in Taiwan?
+
+00:25:12.220 --> 00:25:14.721
+1997 BB call
+
+00:25:16.021 --> 00:25:19.221
+Now who among us has a mobile phone
+
+00:25:19.221 --> 00:25:22.122
+It has become completely commonplace
+
+00:25:22.122 --> 00:25:23.922
+It's a very common thing, even with smartphones
+
+00:25:23.922 --> 00:25:26.856
+You'd only find it strange if you didn't have one
+
+00:25:26.856 --> 00:25:29.856
+So now we're at the point where
+
+00:25:29.856 --> 00:25:34.057
+These have already become integrated into our daily lives
+
+00:25:34.057 --> 00:25:36.924
+So you start to take it for granted
+
+00:25:36.924 --> 00:25:39.224
+So I think this kind of AI technology
+
+00:25:39.224 --> 00:25:43.692
+Is currently going through this same kind of transition
+
+00:25:43.692 --> 00:25:48.359
+Because Google I/O was just one or two weeks ago
+
+00:25:48.359 --> 00:25:50.192
+What do you think is inside?
+
+00:25:50.192 --> 00:25:52.193
+Although that event was truly
+
+00:25:52.193 --> 00:25:53.326
+I think it's
+
+00:25:53.326 --> 00:25:55.227
+Personally, I believe it's been the past decade
+
+00:25:55.227 --> 00:25:57.760
+Google's best Google I/O
+
+00:25:57.760 --> 00:25:58.994
+Although many people disagree
+
+00:25:58.994 --> 00:26:00.227
+But that's how I feel
+
+00:26:00.227 --> 00:26:04.861
+I'm the only one in this editorial department who uses Android
+
+00:26:04.861 --> 00:26:08.195
+And every time it's always during Apple's keynote
+
+00:26:08.195 --> 00:26:10.195
+And everyone gets super excited waiting for it
+
+00:26:10.195 --> 00:26:15.229
+But when it's Google's turn, nobody pays attention to me
+
+00:26:15.229 --> 00:26:17.430
+Thank you for being our Google fan
+
+00:26:17.430 --> 00:26:19.597
+I told you this feature is awesome
+
+00:26:19.597 --> 00:26:21.230
+But then no one was listening to me
+
+00:26:21.230 --> 00:26:24.197
+Oh, really?
+
+00:26:24.197 --> 00:26:28.131
+But it's also because there was just too much content this time
+
+00:26:28.131 --> 00:26:31.065
+Is there one that you personally feel
+
+00:26:31.065 --> 00:26:33.132
+whether it's the company or you personally
+
+00:26:33.132 --> 00:26:34.932
+you feel is your favorite
+
+00:26:34.932 --> 00:26:38.399
+I would say now, last year 2024
+
+00:26:38.399 --> 00:26:40.933
+When we announced at I/O
+
+00:26:40.933 --> 00:26:42.933
+I said "Oh my God"
+
+00:26:42.933 --> 00:26:45.367
+Now this multi-modality capability
+
+00:26:45.367 --> 00:26:48.768
+The so-called multi-modality refers to this large model
+
+00:26:48.768 --> 00:26:51.701
+Have you noticed multimodal
+
+00:26:51.701 --> 00:26:54.469
+Have you noticed we used to often talk about
+
+00:26:54.469 --> 00:26:57.669
+large language models, which are LLMs, right
+
+00:26:57.669 --> 00:26:58.469
+text
+
+00:26:58.469 --> 00:27:00.303
+Text language
+
+00:27:00.303 --> 00:27:02.370
+But now we often refer to them as large models
+
+00:27:02.370 --> 00:27:05.203
+The reason is because of their modality - different modalities
+
+00:27:05.203 --> 00:27:08.204
+Such as image, video
+
+00:27:08.204 --> 00:27:10.204
+or voice
+
+00:27:10.204 --> 00:27:11.971
+audio
+
+00:27:11.971 --> 00:27:14.838
+it's all integrated into this model
+
+00:27:14.838 --> 00:27:17.539
+so in 2024, I think it's safe to say
+
+00:27:17.539 --> 00:27:20.906
+It marks the beginning of multimodal large models
+
+00:27:20.906 --> 00:27:24.673
+But at this year's 2025 I/O, I personally believe that
+
+00:27:24.673 --> 00:27:27.207
+people will truly realize for the first time
+
+00:27:27.207 --> 00:27:29.707
+what multimodal actually means
+
+00:27:29.707 --> 00:27:33.207
+It's very similar to, for example, the Project Astra that I'm responsible for
+
+00:27:33.207 --> 00:27:34.908
+this capability
+
+00:27:34.908 --> 00:27:37.808
+it's this entire model, this large model
+
+00:27:37.808 --> 00:27:41.875
+that can now coexist with you in the same environment
+
+00:27:41.875 --> 00:27:44.209
+And because of the changes in that environment
+
+00:27:44.209 --> 00:27:49.977
+it will make some appropriate responses
+
+00:27:49.977 --> 00:27:53.144
+I would say that
+
+00:27:53.144 --> 00:27:54.777
+even two or three years ago
+
+00:27:54.777 --> 00:27:56.978
+I think this is incredible
+
+00:27:56.978 --> 00:27:59.211
+It's unbelievable
+
+00:27:59.211 --> 00:28:02.578
+This artificial intelligence
+
+00:28:02.578 --> 00:28:07.312
+It can understand where I am right now when it's raining
+
+00:28:07.312 --> 00:28:10.580
+Then if I ask where should I go to eat
+
+00:28:10.580 --> 00:28:14.213
+It would suggest that if you don't want to get wet in the rain
+
+00:28:14.213 --> 00:28:17.214
+You could walk to Taipei 101 or something like that
+
+00:28:17.214 --> 00:28:20.214
+It just feels alive
+
+00:28:20.214 --> 00:28:22.615
+you feel the future
+
+00:28:22.615 --> 00:28:24.215
+the future is approaching
+
+00:28:24.215 --> 00:28:25.215
+this matter of the future
+
+00:28:25.215 --> 00:28:28.216
+I think there's another way to explain this
+
+00:28:28.216 --> 00:28:29.649
+That is to say
+
+00:28:29.649 --> 00:28:32.916
+Language large language models were previously somewhat described as
+
+00:28:32.916 --> 00:28:35.150
+Because it is merely a language model
+
+00:28:35.150 --> 00:28:36.517
+So when you communicate with it
+
+00:28:36.517 --> 00:28:38.450
+It must communicate through language
+
+00:28:38.450 --> 00:28:42.218
+This means it is confined to
+
+00:28:42.218 --> 00:28:44.218
+a virtual world
+
+00:28:44.218 --> 00:28:47.218
+You must go through this language interface
+
+00:28:47.218 --> 00:28:49.552
+you can connect with it
+
+00:28:49.552 --> 00:28:51.852
+but now these large models
+
+00:28:51.852 --> 00:28:54.219
+are actually capable of understanding
+
+00:28:54.219 --> 00:28:56.220
+or even just
+
+00:28:56.220 --> 00:28:59.220
+Realize what kind of environment you're in
+
+00:28:59.220 --> 00:29:03.221
+This indicates it has already integrated into a
+
+00:29:03.221 --> 00:29:05.221
+human living environment
+
+00:29:05.221 --> 00:29:07.221
+So this capability
+
+00:29:07.221 --> 00:29:10.222
+This is already moving forward
+
+00:29:10.222 --> 00:29:12.222
+So what everyone will see in 2025
+
+00:29:12.222 --> 00:29:14.222
+I think is exactly this thing
+
+00:29:14.222 --> 00:29:15.422
+If everyone could watch the video
+
+00:29:15.422 --> 00:29:17.223
+Last year
+
+00:29:17.223 --> 00:29:20.223
+Astra's video was filmed in the office
+
+00:29:20.223 --> 00:29:22.223
+showing you what the office looks like
+
+00:29:22.223 --> 00:29:24.224
+including things like what was written on the blackboard
+
+00:29:24.224 --> 00:29:27.191
+This year they released an even more amazing video
+
+00:29:27.191 --> 00:29:30.225
+It's about a teenager
+
+00:29:30.225 --> 00:29:32.758
+who's fixing a bicycle
+
+00:29:32.758 --> 00:29:35.659
+with relevant situational context
+
+00:29:35.659 --> 00:29:37.459
+very complete
+
+00:29:37.459 --> 00:29:41.226
+Does it still look like it's in Beta now?
+
+00:29:41.226 --> 00:29:43.193
+Or is it in some other state?
+
+00:29:43.193 --> 00:29:45.193
+You could say it's still in Beta
+
+00:29:45.193 --> 00:29:48.461
+OK, I have a cell phone right in my pocket
+
+00:29:49.194 --> 00:29:51.228
+But what I mean is
+
+00:29:51.228 --> 00:29:55.228
+Will we really have the chance to see
+
+00:29:55.228 --> 00:29:57.062
+and use it?
+
+00:29:57.062 --> 00:30:00.196
+For example, is this a visible future?
+
+00:30:00.196 --> 00:30:02.196
+Can we show them this?
+
+00:30:02.196 --> 00:30:04.196
+Sure
+
+00:30:04.196 --> 00:30:07.897
+I just brought a prototype
+
+00:30:07.897 --> 00:30:09.130
+You can't use it
+
+00:30:09.130 --> 00:30:12.031
+But we can show it to you
+
+00:30:12.031 --> 00:30:16.965
+The prototype you presented at Google I/O
+
+00:30:16.965 --> 00:30:18.198
+Is actually our prototype
+
+00:30:18.198 --> 00:30:22.199
+And it's running Astra on it
+
+00:30:22.199 --> 00:30:24.199
+So the software inside is Astra
+
+00:30:24.199 --> 00:30:25.199
+OK, I'll take a look
+
+00:30:25.199 --> 00:30:28.233
+This is the only device in Taiwan running Astra
+
+00:30:28.233 --> 00:30:31.834
+Yes, this should be my first time here
+
+00:30:31.834 --> 00:30:35.201
+Can I take a look?
+
+00:30:35.201 --> 00:30:38.201
+But wearing it like this just makes it regular glasses
+
+00:30:38.201 --> 00:30:40.201
+It actually looks really good on you
+
+00:30:40.201 --> 00:30:42.202
+I think it's really cool
+
+00:30:42.202 --> 00:30:44.435
+Thank you
+
+00:30:44.435 --> 00:30:46.202
+That's great
+
+00:30:46.202 --> 00:30:47.202
+And it's very light, right?
+
+00:30:47.202 --> 00:30:49.369
+Because
+
+00:30:49.369 --> 00:30:50.203
+You can feel it
+
+00:30:50.203 --> 00:30:51.536
+Because I've used it
+
+00:30:51.536 --> 00:30:53.670
+So this is already
+
+00:30:53.670 --> 00:30:55.904
+Because I have Meta
+
+00:30:55.904 --> 00:30:57.871
+This is lighter than Meta
+
+00:30:57.871 --> 00:30:59.204
+Wow
+
+00:30:59.204 --> 00:31:02.205
+But is the key reason it's lighter because of the battery?
+
+00:31:02.205 --> 00:31:06.205
+The battery, the processor inside, and all those components are closely related
+
+00:31:10.573 --> 00:31:13.740
+Because originally when I mentioned Astra, what we saw was
+
+00:31:13.740 --> 00:31:16.673
+Because it's a smartphone
+
+00:31:16.673 --> 00:31:18.840
+Because of this carrier device, I think it might
+
+00:31:18.840 --> 00:31:20.507
+He was using it on his phone in the video
+
+00:31:20.507 --> 00:31:22.841
+while fixing a bicycle
+
+00:31:22.841 --> 00:31:25.208
+so we're not sure if this is the final form factor
+
+00:31:25.208 --> 00:31:27.942
+but since everyone's been starting to recently
+
+00:31:27.942 --> 00:31:29.209
+We've been doing this for over a decade
+
+00:31:29.209 --> 00:31:31.676
+this Google Glass
+
+00:31:31.676 --> 00:31:33.643
+I remember it vividly back in 2012
+
+00:31:33.643 --> 00:31:36.076
+when a friend of mine came back from Google I/O
+
+00:31:36.076 --> 00:31:38.010
+I still have one pair
+
+00:31:38.010 --> 00:31:39.210
+The one from 2012
+
+00:31:39.210 --> 00:31:40.610
+Then I put them on and came to the office
+
+00:31:40.610 --> 00:31:42.144
+This looks a lot like a Saiyan
+
+00:31:42.144 --> 00:31:43.377
+That's the Saiyan from Dragon Ball
+
+00:31:43.377 --> 00:31:44.611
+The scouter for measuring power levels
+
+00:31:44.611 --> 00:31:46.211
+You can look all you want
+
+00:31:46.211 --> 00:31:48.211
+But you won't feel that feeling
+
+00:31:48.211 --> 00:31:50.278
+And I also have another memory from that time
+
+00:31:50.278 --> 00:31:53.212
+There was a reporter in San Francisco at that time
+
+00:31:53.212 --> 00:31:56.213
+He was wearing that pair of glasses when he got beaten
+
+00:31:56.213 --> 00:31:59.213
+I remember that news story vividly too
+
+00:31:59.213 --> 00:32:01.547
+Then recently he said we're wearing these things now
+
+00:32:01.547 --> 00:32:03.214
+and no one on the street thinks
+
+00:32:03.214 --> 00:32:04.947
+they'll get punched
+
+00:32:04.947 --> 00:32:06.214
+no one finds it too strange
+
+00:32:06.214 --> 00:32:08.214
+No one would feel that their privacy has been violated
+
+00:32:08.214 --> 00:32:09.214
+or anything like that
+
+00:32:09.214 --> 00:32:12.215
+That might also be related to this situation
+
+00:32:12.215 --> 00:32:15.582
+And people are now accustomed to filming with their smartphones everywhere
+
+00:32:15.582 --> 00:32:17.216
+It's also somewhat related
+
+00:32:17.216 --> 00:32:20.683
+I think when smartphones first appeared
+
+00:32:20.683 --> 00:32:23.683
+everyone had one in their hands, able to record videos
+
+00:32:23.683 --> 00:32:24.683
+and take photos
+
+00:32:24.683 --> 00:32:26.650
+At that time, many people would still think
+
+00:32:26.650 --> 00:32:27.884
+Wow, you're filming everywhere
+
+00:32:27.884 --> 00:32:30.218
+Wouldn't that violate my privacy?
+
+00:32:30.218 --> 00:32:33.818
+Now nobody even thinks about that anymore
+
+00:32:33.818 --> 00:32:35.518
+Some people might think
+
+00:32:35.518 --> 00:32:36.852
+they just want it to tell them and be done with it
+
+00:32:36.852 --> 00:32:41.219
+but in over 95% of cases, that's really all there is to it
+
+00:32:41.219 --> 00:32:42.886
+that's just how it is
+
+00:32:42.886 --> 00:32:45.220
+I think, actually, let me share a little anecdote
+
+00:32:45.220 --> 00:32:47.220
+What I find really interesting is
+
+00:32:47.220 --> 00:32:49.620
+when I came back to Taiwan and watched the local news
+
+00:32:49.620 --> 00:32:51.521
+I kept wondering why every time there's a car accident
+
+00:32:51.521 --> 00:32:53.888
+Someone already recorded it
+
+00:32:53.888 --> 00:32:55.221
+How is this so amazing
+
+00:32:55.221 --> 00:32:57.655
+Everyone has one - truly everyone has a phone
+
+00:32:57.655 --> 00:33:00.222
+You get videos instantly
+
+00:33:00.222 --> 00:33:03.189
+But Taiwan is very accustomed to this
+
+00:33:03.189 --> 00:33:05.756
+We have dashcams in our cars
+
+00:33:05.756 --> 00:33:10.223
+We actually have CCTV cameras on every road
+
+00:33:10.223 --> 00:33:14.224
+Even motorcycles have one - riders wear dashcams on their helmets
+
+00:33:14.224 --> 00:33:15.224
+Similar things are already out there
+
+00:33:15.224 --> 00:33:18.858
+And many people do it to protect their rights
+
+00:33:18.858 --> 00:33:22.592
+So these videos are indeed everywhere
+
+00:33:22.592 --> 00:33:28.359
+So having glasses now isn't actually too strange
+
+00:33:28.359 --> 00:33:30.226
+I think the most interesting part
+
+00:33:30.226 --> 00:33:32.227
+Going back to what we were discussing earlier
+
+00:33:32.227 --> 00:33:34.227
+is that because these glasses
+
+00:33:34.227 --> 00:33:36.194
+have a camera built into them
+
+00:33:36.194 --> 00:33:39.694
+This camera enables artificial intelligence
+
+00:33:39.694 --> 00:33:42.195
+to simultaneously
+
+00:33:42.195 --> 00:33:45.695
+within your environment
+
+00:33:45.695 --> 00:33:48.229
+perceive your situation
+
+00:33:48.229 --> 00:33:50.229
+It's raining. It's not raining.
+
+00:33:50.229 --> 00:33:52.496
+What sign are you looking at?
+
+00:33:52.496 --> 00:33:56.697
+For example, even when you go shopping in the future
+
+00:33:56.697 --> 00:33:58.197
+You take it with you and you think that
+
+00:33:58.197 --> 00:33:59.664
+This dress looks very nice
+
+00:33:59.664 --> 00:34:02.198
+It might even remember to say that in the future
+
+00:34:02.198 --> 00:34:07.398
+You think clothes with this style look very nice
+
+00:34:07.398 --> 00:34:09.599
+I have another usage scenario
+
+00:34:09.599 --> 00:34:13.199
+I think perhaps friends who are into fashion
+
+00:34:13.199 --> 00:34:14.666
+might find it very interesting
+
+00:34:14.666 --> 00:34:16.833
+For example, when we use
+
+00:34:16.833 --> 00:34:18.367
+Maybe in the future we'll use Project Astra
+
+00:34:18.367 --> 00:34:20.200
+this kind of capability
+
+00:34:20.200 --> 00:34:23.234
+you go into your closet and rummage through your clothes
+
+00:34:23.234 --> 00:34:25.234
+it learns your style
+
+00:34:25.234 --> 00:34:26.801
+then when you go shopping
+
+00:34:26.801 --> 00:34:31.502
+It says you already have three navy shirts
+
+00:34:31.502 --> 00:34:34.002
+Maybe you should consider another color
+
+00:34:34.002 --> 00:34:35.803
+The other day on Twitter
+
+00:34:35.803 --> 00:34:37.636
+A bunch of people were discussing AI ideas
+
+00:34:37.636 --> 00:34:38.803
+This is one of them
+
+00:34:38.803 --> 00:34:41.770
+They said, "I'll just take a picture of what's in my closet right now."
+
+00:34:41.770 --> 00:34:43.137
+all the clothes
+
+00:34:43.137 --> 00:34:45.204
+Help me choose what's right for me
+
+00:34:45.204 --> 00:34:47.471
+Order it directly from somewhere
+
+00:34:47.471 --> 00:34:50.205
+Or perhaps they love books
+
+00:34:50.205 --> 00:34:52.672
+Book lovers might just glance at the bookshelf
+
+00:34:52.672 --> 00:34:55.672
+And say these are the books I own
+
+00:34:55.672 --> 00:34:58.939
+Then it says, "Can you suggest what I should read next?"
+
+00:34:58.939 --> 00:35:00.606
+Yes
+
+00:35:00.606 --> 00:35:03.973
+So when I saw the glasses appear at that time
+
+00:35:03.973 --> 00:35:07.207
+Because Meta's doesn't have a display
+
+00:35:07.207 --> 00:35:10.208
+But I believe soon, everyone will catch up with this
+
+00:35:10.208 --> 00:35:12.308
+It's about the display thing
+
+00:35:12.308 --> 00:35:14.475
+Going back to my initial idea
+
+00:35:14.475 --> 00:35:16.775
+I can detect
+
+00:35:16.775 --> 00:35:18.642
+Then I can have a passerby come over
+
+00:35:18.642 --> 00:35:21.409
+I can tell his fortune for him
+
+00:35:21.409 --> 00:35:27.143
+I'm just talking nonsense - it's the first terrible application that came to my mind
+
+00:35:27.143 --> 00:35:29.844
+There are many similar cases because it can detect
+
+00:35:29.844 --> 00:35:32.211
+You would naturally use some strange methods
+
+00:35:32.211 --> 00:35:35.811
+It starts just like making an app
+
+00:35:35.811 --> 00:35:38.545
+People will create all kinds of apps on it
+
+00:35:38.545 --> 00:35:43.679
+Then another new renaissance of apps will begin
+
+00:35:43.679 --> 00:35:46.913
+This is what excites me most about this matter
+
+00:35:46.913 --> 00:35:48.947
+That's exactly why I mentioned earlier
+
+00:35:48.947 --> 00:35:50.213
+I saw this thing and it's amazing
+
+00:35:50.213 --> 00:35:53.214
+And I also know it should be capable of doing it
+
+00:35:53.214 --> 00:35:56.748
+But it's probably something that will happen within the next year or two
+
+00:35:56.748 --> 00:35:58.781
+I think the part you mentioned
+
+00:35:58.781 --> 00:36:01.215
+can be interpreted in another way
+
+00:36:01.215 --> 00:36:06.782
+that is, once this kind of capability emerges
+
+00:36:06.782 --> 00:36:09.950
+if you are... we often feel nowadays that
+
+00:36:09.950 --> 00:36:11.817
+Whether it's mobile devices or anything else
+
+00:36:11.817 --> 00:36:14.850
+You would truly feel like moving forward
+
+00:36:14.850 --> 00:36:16.984
+Should mobile devices still be presented to people
+
+00:36:16.984 --> 00:36:19.818
+in that same old way?
+
+00:36:19.818 --> 00:36:22.918
+It's like the issue with apps
+
+00:36:22.918 --> 00:36:25.218
+The matter of having to download an app
+
+00:36:25.218 --> 00:36:26.685
+And then you have to
+
+00:36:26.685 --> 00:36:29.219
+For example, you could put it this way
+
+00:36:29.219 --> 00:36:33.220
+I often have to help my mom with things on her phone
+
+00:36:33.220 --> 00:36:36.920
+Then I tell her she needs to download this app first
+
+00:36:36.920 --> 00:36:39.221
+And then enter her password
+
+00:36:39.221 --> 00:36:42.221
+A whole bunch of troublesome issues, right?
+
+00:36:42.221 --> 00:36:45.221
+These things should disappear in the future
+
+00:36:45.221 --> 00:36:46.222
+Exactly - AI will handle it for you
+
+00:36:46.222 --> 00:36:47.755
+You won't need to worry about those things at all
+
+00:36:47.755 --> 00:36:50.222
+AI will take care of it automatically when needed
+
+00:36:50.222 --> 00:36:51.656
+You can imagine, for example
+
+00:36:51.656 --> 00:36:53.089
+If he's wearing glasses
+
+00:36:53.089 --> 00:36:54.856
+And then he notices the laundry detergent is running out
+
+00:36:54.856 --> 00:36:56.623
+He looks at the detergent and says
+
+00:36:56.623 --> 00:37:00.624
+Can you order something for me from PX Mart?
+
+00:37:00.624 --> 00:37:01.957
+Indeed
+
+00:37:01.957 --> 00:37:04.591
+What else do you need to find?
+
+00:37:04.591 --> 00:37:05.858
+Find it through an app
+
+00:37:05.858 --> 00:37:07.691
+And then click there?
+
+00:37:07.691 --> 00:37:10.025
+This kind of operation will probably become standard in the future
+
+00:37:10.025 --> 00:37:14.059
+But what if I want to play Pokémon on it?
+
+00:37:14.059 --> 00:37:16.993
+Actually, I think you've raised a very good question - why do I say that?
+
+00:37:16.993 --> 00:37:18.926
+Because there's a lot of technology involved
+
+00:37:18.926 --> 00:37:21.760
+It probably all started with games
+
+00:37:21.760 --> 00:37:24.661
+Things like VR and XR
+
+00:37:24.661 --> 00:37:26.794
+Augmented reality and VR technologies
+
+00:37:26.794 --> 00:37:29.661
+Many of them also began with games initially
+
+00:37:29.661 --> 00:37:33.195
+That part has actually been in development for a long time
+
+00:37:33.195 --> 00:37:34.662
+I think it's quite mature
+
+00:37:34.662 --> 00:37:37.196
+And the entire mechanism is already in place
+
+00:37:37.196 --> 00:37:38.596
+So I really think this is
+
+00:37:38.596 --> 00:37:40.129
+The talent is already here
+
+00:37:40.129 --> 00:37:41.930
+And you see if
+
+00:37:41.930 --> 00:37:43.763
+This is inevitable
+
+00:37:43.763 --> 00:37:45.464
+He'll say at that time: I can catch Pokémon up there
+
+00:37:45.464 --> 00:37:46.697
+I believe
+
+00:37:46.697 --> 00:37:48.197
+there will definitely be
+
+00:37:48.197 --> 00:37:52.598
+and then suddenly there'll be a limited-edition Pokémon glasses
+
+00:37:52.598 --> 00:37:55.198
+this killer app
+
+00:37:55.198 --> 00:37:58.232
+I think your audience
+
+00:37:58.232 --> 00:38:00.632
+might already be thinking
+
+00:38:00.632 --> 00:38:02.766
+about starting a new company to do this
+
+00:38:02.766 --> 00:38:03.800
+that's for sure
+
+00:38:03.800 --> 00:38:05.500
+Because just watching that video made me feel
+
+00:38:05.500 --> 00:38:06.933
+There are too many possibilities
+
+00:38:06.933 --> 00:38:08.200
+You can add many layers on top
+
+00:38:08.200 --> 00:38:09.634
+Exactly what you just mentioned
+
+00:38:09.634 --> 00:38:11.201
+I shop in various contexts
+
+00:38:11.201 --> 00:38:14.468
+But people always need some new MR stuff
+
+00:38:14.468 --> 00:38:16.201
+to be applied on top
+
+00:38:16.201 --> 00:38:17.835
+and then
+
+00:38:17.835 --> 00:38:19.235
+Imagination will be better
+
+00:38:19.235 --> 00:38:22.202
+I think what you're asking
+
+00:38:22.202 --> 00:38:23.669
+is a very good question
+
+00:38:23.669 --> 00:38:25.836
+and the reason it ties in well with the topic is
+
+00:38:25.836 --> 00:38:29.203
+Most people, when they see this kind of new..
+
+00:38:29.203 --> 00:38:30.203
+in the era of technology
+
+00:38:30.203 --> 00:38:31.970
+Sometimes their imagination
+
+00:38:31.970 --> 00:38:33.537
+In fact, it's very limited
+
+00:38:33.537 --> 00:38:34.204
+Really
+
+00:38:34.204 --> 00:38:35.638
+Then he would think
+
+00:38:35.638 --> 00:38:38.671
+Can you help me with this AI
+
+00:38:38.671 --> 00:38:40.205
+to build better apps
+
+00:38:40.205 --> 00:38:41.672
+or create better
+
+00:38:41.672 --> 00:38:43.205
+using old ideas
+
+00:38:43.205 --> 00:38:45.206
+Thinking with old ideas
+
+00:38:45.206 --> 00:38:47.939
+But we need to break out of that box
+
+00:38:47.939 --> 00:38:49.473
+The most important thing is
+
+00:38:49.473 --> 00:38:51.707
+The box I'm currently thinking in
+
+00:38:51.707 --> 00:38:53.940
+Is it correct inside the box?
+
+00:38:53.940 --> 00:38:57.941
+Perhaps it's completely outside the box
+
+00:38:57.941 --> 00:38:59.208
+So if anyone is interested
+
+00:38:59.208 --> 00:39:01.208
+You really should take a look
+
+00:39:01.208 --> 00:39:03.742
+These videos related to Astral
+
+00:39:03.742 --> 00:39:04.742
+Let's take a look
+
+00:39:04.742 --> 00:39:07.209
+When it comes to multimodal capabilities
+
+00:39:07.209 --> 00:39:08.976
+There are actually many things that can be achieved
+
+00:39:08.976 --> 00:39:10.209
+I think actually
+
+00:39:10.209 --> 00:39:11.543
+when we talk about
+
+00:39:11.543 --> 00:39:16.210
+the recent collaboration between OpenAI and Jony Ive
+
+00:39:16.210 --> 00:39:17.210
+he actually also said that
+
+00:39:17.210 --> 00:39:18.577
+We need to create a new device
+
+00:39:18.577 --> 00:39:21.211
+Meaning it shouldn't just be a phone
+
+00:39:21.211 --> 00:39:22.378
+It should have a
+
+00:39:22.378 --> 00:39:24.211
+Because currently there are rumors saying
+
+00:39:24.211 --> 00:39:25.945
+There's a rumor about a pendant now
+
+00:39:25.945 --> 00:39:28.212
+With a camera at the front
+
+00:39:28.212 --> 00:39:30.312
+And apparently it's the same concept
+
+00:39:30.312 --> 00:39:31.212
+Meaning it has a camera
+
+00:39:31.212 --> 00:39:32.212
+It already understands you
+
+00:39:32.212 --> 00:39:34.146
+your surrounding world
+
+00:39:34.146 --> 00:39:35.046
+so it makes judgments
+
+00:39:35.046 --> 00:39:38.213
+though I think that diagram is really ugly
+
+00:39:38.213 --> 00:39:40.214
+It's just a rumor
+
+00:39:40.214 --> 00:39:41.681
+So this is what I think
+
+00:39:41.681 --> 00:39:45.681
+Will be one of the most interesting things next
+
+00:39:45.681 --> 00:39:48.215
+So since you think this is so interesting
+
+00:39:48.215 --> 00:39:49.882
+and also will collaborate with
+
+00:39:49.882 --> 00:39:50.582
+What about Taiwan?
+
+00:39:50.582 --> 00:39:51.849
+Taiwan in this aspect
+
+00:39:51.849 --> 00:39:52.849
+because it's software
+
+00:39:52.849 --> 00:39:53.949
+In the past, we were
+
+00:39:53.949 --> 00:39:55.549
+Although we excel in semiconductors
+
+00:39:55.549 --> 00:39:57.216
+Our relationship with AI is
+
+00:39:57.216 --> 00:39:59.016
+The peninsula - a nation of crystal manufacturing
+
+00:39:59.016 --> 00:40:01.850
+Then I looked back at your past interviews
+
+00:40:01.850 --> 00:40:03.150
+Because we have many robots
+
+00:40:03.150 --> 00:40:04.751
+So what about these opportunities in the physical world
+
+00:40:04.751 --> 00:40:06.617
+Or in hardware?
+
+00:40:06.617 --> 00:40:09.218
+I believe there's definitely a hardware aspect to this
+
+00:40:09.218 --> 00:40:13.218
+Of course, the entire world's
+
+00:40:13.218 --> 00:40:19.219
+supply chain for these 3C products is undergoing changes
+
+00:40:19.219 --> 00:40:20.786
+So this aspect is certainly [a factor]
+
+00:40:20.786 --> 00:40:23.220
+There will also be some impact on Taiwan
+
+00:40:23.220 --> 00:40:28.721
+But looking at the overall industry development
+
+00:40:28.721 --> 00:40:32.755
+I also think that Taiwan's semiconductor sector
+
+00:40:32.755 --> 00:40:35.788
+Especially in the manufacturing aspect
+
+00:40:35.788 --> 00:40:39.222
+Its position should be quite difficult to shake
+
+00:40:39.222 --> 00:40:44.223
+The part I find more interesting is probably
+
+00:40:44.223 --> 00:40:46.223
+because of these hardware changes
+
+00:40:46.223 --> 00:40:48.224
+there will be many new opportunities
+
+00:40:48.224 --> 00:40:52.191
+Can this company in Taiwan be able to
+
+00:40:52.191 --> 00:40:54.591
+Seize this opportunity
+
+00:40:54.591 --> 00:40:58.925
+to develop new hardware capabilities
+
+00:40:58.925 --> 00:41:00.792
+or new applications
+
+00:41:00.792 --> 00:41:03.226
+or even because of these reasons
+
+00:41:03.226 --> 00:41:06.226
+sparking trends in certain software
+
+00:41:06.226 --> 00:41:07.693
+trends
+
+00:41:07.693 --> 00:41:11.760
+the integration of hardware and software
+
+00:41:11.760 --> 00:41:14.327
+I see other numbers
+
+00:41:14.327 --> 00:41:17.728
+NVIDIA said they have an insection program
+
+00:41:17.728 --> 00:41:21.228
+They were originally based in Taiwan, probably around two or three years ago
+
+00:41:21.228 --> 00:41:22.862
+There might have only been single-digit numbers
+
+00:41:22.862 --> 00:41:26.262
+It is said that in the past two years
+
+00:41:26.262 --> 00:41:27.729
+the entire big bang has transformed into what
+
+00:41:27.729 --> 00:41:30.630
+there are a thousand or so
+
+00:41:30.630 --> 00:41:33.630
+of these AI-related startups in Taiwan
+
+00:41:33.630 --> 00:41:37.464
+But in terms of hardware-software integration, we may not have seen it yet
+
+00:41:37.464 --> 00:41:40.631
+But clearly this is a huge opportunity
+
+00:41:40.631 --> 00:41:44.832
+And if Taiwan can do well in integrating hardware and software
+
+00:41:44.832 --> 00:41:47.099
+Leveraging the capabilities of large language models
+
+00:41:47.099 --> 00:41:49.199
+It's indeed a huge opportunity
+
+00:41:49.199 --> 00:41:51.866
+Like what we were just discussing
+
+00:41:51.866 --> 00:41:55.167
+Perhaps future new games in smart glasses
+
+00:41:55.167 --> 00:41:56.233
+What's the reasoning behind this
+
+00:41:56.233 --> 00:41:58.967
+Companies in Taiwan can't do it
+
+00:41:58.967 --> 00:42:02.201
+This is definitely something that can be achieved
+
+00:42:02.201 --> 00:42:03.668
+I've noticed recently
+
+00:42:03.668 --> 00:42:06.202
+But that requires a new way of thinking
+
+00:42:06.202 --> 00:42:09.069
+Indeed, you know Taiwan had some  
+
+00:42:09.069 --> 00:42:10.869
+really popular hardware products before  
+
+00:42:10.869 --> 00:42:13.203
+kind of like on Kickstarter in the US  
+
+00:42:13.203 --> 00:42:15.736
+many of them actually developed hardware
+
+00:42:15.736 --> 00:42:18.703
+Then there might be a recording card installed above
+
+00:42:18.703 --> 00:42:19.870
+so it can transform into
+
+00:42:19.870 --> 00:42:21.537
+and inside it might be using Gemini
+
+00:42:21.537 --> 00:42:24.038
+or other companies' large language models
+
+00:42:24.038 --> 00:42:25.471
+And then it just clicked
+
+00:42:25.471 --> 00:42:28.005
+Then we started taking meeting minutes
+
+00:42:28.005 --> 00:42:31.205
+Things like that throughout the year
+
+00:42:31.205 --> 00:42:33.206
+Later we realized it was a Chinese company
+
+00:42:33.206 --> 00:42:35.206
+But I see it can generate
+
+00:42:35.206 --> 00:42:38.440
+revenue of over 100 million NTD in a year
+
+00:42:38.440 --> 00:42:40.273
+just from this single
+
+00:42:40.273 --> 00:42:41.440
+kind of idea
+
+00:42:41.440 --> 00:42:45.707
+So I think this kind of opportunity is tremendously significant
+
+00:42:45.707 --> 00:42:47.508
+Personally, I don't know about you, but for me...
+
+00:42:47.508 --> 00:42:49.341
+I recently developed an app
+
+00:42:49.341 --> 00:42:51.475
+It's kind of a silly app
+
+00:42:51.475 --> 00:42:54.809
+It is used for OCR business cards
+
+00:42:54.809 --> 00:42:56.209
+Then inside it
+
+00:42:56.209 --> 00:42:59.509
+is powered by this Gemini Pro
+
+00:42:59.509 --> 00:43:02.210
+It is used to recognize business cards
+
+00:43:02.210 --> 00:43:03.577
+Then the categories inside
+
+00:43:03.577 --> 00:43:05.510
+It's a very simple and small application
+
+00:43:05.510 --> 00:43:08.411
+But I can feel that this thing's
+
+00:43:08.411 --> 00:43:10.211
+capability is very good
+
+00:43:10.211 --> 00:43:12.545
+And it might not even need the best model
+
+00:43:12.545 --> 00:43:14.378
+to accomplish this task
+
+00:43:14.378 --> 00:43:16.579
+Of course, if it integrates with hardware
+
+00:43:16.579 --> 00:43:21.346
+I think it presents a fantastic opportunity
+
+00:43:21.346 --> 00:43:23.046
+What are your thoughts on robots, for example?
+
+00:43:23.046 --> 00:43:24.980
+How do you view this matter of robots?
+
+00:43:24.980 --> 00:43:27.213
+As for robots, this aspect is about...
+
+00:43:27.213 --> 00:43:28.647
+As we just mentioned..
+
+00:43:28.647 --> 00:43:32.214
+Because previously using large language models
+
+00:43:32.214 --> 00:43:35.215
+could only connect with this kind of virtual world
+
+00:43:35.215 --> 00:43:37.215
+our online world
+
+00:43:37.215 --> 00:43:40.215
+could connect with the online virtual world
+
+00:43:40.215 --> 00:43:43.216
+We need robots because
+
+00:43:43.216 --> 00:43:45.649
+humans still live in a physical world
+
+00:43:45.649 --> 00:43:47.750
+a physical world
+
+00:43:47.750 --> 00:43:51.217
+so if you want this artificial intelligence
+
+00:43:51.217 --> 00:43:53.751
+can exist in the physical world
+
+00:43:53.751 --> 00:43:55.918
+if there is an interface
+
+00:43:55.918 --> 00:43:58.085
+then you definitely need robots
+
+00:43:58.085 --> 00:44:01.152
+the approach before robots
+
+00:44:01.152 --> 00:44:05.219
+the current approach with large models
+
+00:44:05.219 --> 00:44:09.453
+the previous approach was very traditional
+
+00:44:09.453 --> 00:44:12.753
+as we who studied computer science all know
+
+00:44:12.753 --> 00:44:14.787
+meaning everything was kept separate
+
+00:44:14.787 --> 00:44:17.221
+The visual module is the visual module
+
+00:44:17.221 --> 00:44:20.088
+The audio module is the audio module
+
+00:44:20.088 --> 00:44:22.421
+The arm module is the arm module
+
+00:44:22.421 --> 00:44:25.355
+The planning module is the module for thinking
+
+00:44:25.355 --> 00:44:26.722
+It's another module
+
+00:44:26.722 --> 00:44:29.322
+And then integrate them together
+
+00:44:29.322 --> 00:44:30.689
+The approach is different now
+
+00:44:30.689 --> 00:44:32.590
+Because all these capabilities
+
+00:44:32.590 --> 00:44:36.324
+Putting everything into a single model
+
+00:44:36.324 --> 00:44:40.057
+This is somewhat similar to our human brain
+
+00:44:40.057 --> 00:44:42.924
+When walking, it's not like
+
+00:44:42.924 --> 00:44:45.125
+You're not consciously thinking "I should move my hand this way"
+
+00:44:45.125 --> 00:44:46.692
+I need to move my leg like this
+
+00:44:46.692 --> 00:44:48.225
+so I can move forward, right?
+
+00:44:48.225 --> 00:44:52.426
+It should be able to do it in one smooth motion, right?
+
+00:44:52.426 --> 00:44:58.227
+So I think in the next five years, robots..
+
+00:44:58.227 --> 00:45:01.194
+There will likely be a significant transformation
+
+00:45:01.194 --> 00:45:07.228
+due to the opportunity presented by multimodal large models
+
+00:45:07.228 --> 00:45:12.429
+which is already revolutionizing this field
+
+00:45:12.429 --> 00:45:13.562
+Let me elaborate further
+
+00:45:13.562 --> 00:45:15.529
+We traditionally think of this robot as
+
+00:45:15.529 --> 00:45:18.196
+a single arm being a robot
+
+00:45:18.196 --> 00:45:24.231
+Perhaps what Elon Musk is advocating now is humanoid
+
+00:45:24.231 --> 00:45:27.031
+while Mr. Jensen Huang is talking about a complete one
+
+00:45:27.031 --> 00:45:28.431
+Then comes the humanoid type
+
+00:45:28.431 --> 00:45:30.231
+They come in various sizes and different forms
+
+00:45:30.231 --> 00:45:32.232
+Nothing particularly special, or perhaps each type actually...
+
+00:45:32.232 --> 00:45:34.465
+Which one will be the next generation?
+
+00:45:34.465 --> 00:45:36.199
+One particularly fascinating aspect right now
+
+00:45:36.199 --> 00:45:37.199
+Regarding the question you asked
+
+00:45:37.199 --> 00:45:39.199
+What makes it so interesting is
+
+00:45:39.199 --> 00:45:42.800
+The single-arm robots of the past
+
+00:45:42.800 --> 00:45:47.067
+It can typically perform tasks within a factory setting
+
+00:45:47.067 --> 00:45:52.101
+Using one hand to carry out repetitive actions
+
+00:45:52.101 --> 00:45:57.335
+Now, with the opportunity presented by large models
+
+00:45:57.335 --> 00:46:00.469
+It can be made to work with both hands simultaneously
+
+00:46:00.469 --> 00:46:02.569
+So now there are two hands that can
+
+00:46:02.569 --> 00:46:04.203
+Think about it
+
+00:46:04.203 --> 00:46:10.637
+Yes, you—I don't know if you've ever experienced that kind of pain
+
+00:46:10.637 --> 00:46:13.638
+Like maybe your hand got injured or something
+
+00:46:13.638 --> 00:46:16.205
+Then suddenly one day you need to brush
+
+00:46:16.205 --> 00:46:18.205
+Just the act of brushing teeth
+
+00:46:18.205 --> 00:46:20.739
+You have to twist open that
+
+00:46:20.739 --> 00:46:22.206
+Requires both hands, right?
+
+00:46:22.206 --> 00:46:23.939
+There are many, many things you'll discover
+
+00:46:23.939 --> 00:46:25.206
+that actually require both hands
+
+00:46:25.206 --> 00:46:27.206
+But when using both hands
+
+00:46:27.206 --> 00:46:31.207
+there's actually a coordination issue involved
+
+00:46:31.207 --> 00:46:32.474
+Back then
+
+00:46:32.474 --> 00:46:35.708
+This arm here was controlled by one module
+
+00:46:35.708 --> 00:46:38.208
+While that arm over there was controlled by another module
+
+00:46:38.208 --> 00:46:40.208
+And you needed them to coordinate with each other
+
+00:46:40.208 --> 00:46:43.775
+Do you know how difficult this research was back then?
+
+00:46:43.775 --> 00:46:44.609
+How difficult was it?
+
+00:46:44.609 --> 00:46:48.910
+Now there are no problems at all
+
+00:46:48.910 --> 00:46:50.210
+Now it's advanced to what extent
+
+00:46:50.210 --> 00:46:53.077
+The videos we produce demonstrate that
+
+00:46:53.077 --> 00:46:56.211
+we can directly instruct it by saying
+
+00:46:56.211 --> 00:47:02.211
+I want you to fold this paper exactly like this
+
+00:47:02.211 --> 00:47:04.212
+and it can accomplish all of these tasks
+
+00:47:04.212 --> 00:47:06.579
+Hold the paper like this
+
+00:47:06.579 --> 00:47:09.346
+Then fold it like this
+
+00:47:09.346 --> 00:47:10.679
+It can do origami
+
+00:47:10.679 --> 00:47:12.213
+Wow, it can fold straight
+
+00:47:12.213 --> 00:47:13.980
+The dexterity of its hands
+
+00:47:13.980 --> 00:47:16.214
+The manual dexterity has now reached a level where it can perform
+
+00:47:16.214 --> 00:47:18.781
+It has already surpassed you - it can make origami
+
+00:47:18.781 --> 00:47:21.214
+While you can't even assemble a single model
+
+00:47:21.214 --> 00:47:23.715
+So sometimes when I watch this video before
+
+00:47:23.715 --> 00:47:27.215
+They say this plumber won't have any problems within five years by visual estimation
+
+00:47:27.215 --> 00:47:32.583
+I'm not that optimistic
+
+00:47:32.583 --> 00:47:34.850
+Fixing cars would be fine though
+
+00:47:34.850 --> 00:47:37.217
+Because people are saying white-collar jobs will be replaced immediately
+
+00:47:37.217 --> 00:47:39.650
+While blue-collar jobs can still hold on
+
+00:47:39.650 --> 00:47:44.584
+It feels like because at that time there was debate saying
+
+00:47:44.584 --> 00:47:48.218
+You don't have enough data to train the robots
+
+00:47:48.218 --> 00:47:51.219
+And collecting this data is very difficult
+
+00:47:51.219 --> 00:47:53.219
+Then recently when I was looking at NVIDIA
+
+00:47:53.219 --> 00:47:55.219
+I suspect Google might have something similar
+
+00:47:55.219 --> 00:47:59.220
+Which is they've already started making robots dream directly
+
+00:47:59.220 --> 00:48:02.220
+Start operating these things
+
+00:48:02.220 --> 00:48:04.221
+Is Google doing something similar?
+
+00:48:04.221 --> 00:48:06.221
+In a virtual environment
+
+00:48:06.221 --> 00:48:08.221
+We're not just in a virtual environment
+
+00:48:08.221 --> 00:48:10.221
+You have the opportunity to go find some
+
+00:48:10.221 --> 00:48:11.488
+We recently have Gemini Robotics
+
+00:48:11.488 --> 00:48:14.222
+Capabilities just released in March
+
+00:48:14.222 --> 00:48:19.689
+Now it can achieve some truly amazing things
+
+00:48:19.689 --> 00:48:22.190
+For example, it has never seen a basketball before
+
+00:48:22.190 --> 00:48:26.224
+You tell it to "dunk the basketball in the hoop"
+
+00:48:26.224 --> 00:48:28.224
+It can still understand this command
+
+00:48:28.224 --> 00:48:30.024
+And then perform this action
+
+00:48:30.024 --> 00:48:35.959
+It has already achieved a higher-level behavior
+
+00:48:35.959 --> 00:48:37.192
+What I mean is
+
+00:48:37.192 --> 00:48:40.192
+Because in the past, if you wanted to train me to perform a dunk move
+
+00:48:40.192 --> 00:48:43.226
+I would probably have to demonstrate the dunk myself first for it to see
+
+00:48:43.226 --> 00:48:45.227
+Then it learned about this thing
+
+00:48:45.227 --> 00:48:48.227
+But now the training method has become
+
+00:48:48.227 --> 00:48:52.228
+I give it 10,000 times, show it 10,000 basketball videos
+
+00:48:52.228 --> 00:48:54.194
+After it understands that
+
+00:48:54.194 --> 00:48:56.195
+It understands that dunking means this
+
+00:48:56.195 --> 00:49:00.795
+This was how it was a few years ago
+
+00:49:00.795 --> 00:49:02.229
+Now it's different
+
+00:49:02.229 --> 00:49:04.796
+Now it's different
+
+00:49:04.796 --> 00:49:07.196
+Because I see that they now
+
+00:49:07.196 --> 00:49:08.597
+that NVIDIA is saying
+
+00:49:08.597 --> 00:49:11.697
+they currently have a world physics engine
+
+00:49:11.697 --> 00:49:13.197
+and it's somewhat like playing a game
+
+00:49:13.197 --> 00:49:15.198
+Train it extensively
+
+00:49:15.198 --> 00:49:17.198
+so we don't have to constantly work on instances
+
+00:49:17.198 --> 00:49:19.698
+to create videos or perform actual tasks
+
+00:49:19.698 --> 00:49:21.999
+because it has already seen many other videos
+
+00:49:21.999 --> 00:49:24.766
+It understands these concepts
+
+00:49:24.766 --> 00:49:31.433
+what kind of state it is
+
+00:49:31.433 --> 00:49:32.833
+The most interesting part is
+
+00:49:32.833 --> 00:49:35.200
+From your understanding
+
+00:49:35.200 --> 00:49:37.201
+People are actually starting to implement these things
+
+00:49:37.201 --> 00:49:40.201
+Is this called real production now?
+
+00:49:40.201 --> 00:49:43.235
+In this entire production world
+
+00:49:43.235 --> 00:49:45.202
+This is what's happening right now
+
+00:49:45.202 --> 00:49:48.202
+We're currently figuring out how to approach this matter
+
+00:49:48.202 --> 00:49:51.203
+Because so far on the robot side
+
+00:49:51.203 --> 00:49:56.204
+most are handling these highly repetitive tasks
+
+00:49:56.204 --> 00:49:58.204
+on industrial production lines
+
+00:49:58.204 --> 00:50:01.004
+The industrial type
+
+00:50:01.004 --> 00:50:05.205
+Yes, some repetitive tasks on a production line
+
+00:50:05.205 --> 00:50:07.672
+And potentially hazardous ones
+
+00:50:07.672 --> 00:50:09.405
+Or those requiring high precision
+
+00:50:09.405 --> 00:50:11.839
+requires very high-level work
+
+00:50:11.839 --> 00:50:13.206
+As we move forward, you can see
+
+00:50:13.206 --> 00:50:16.440
+why we're talking about humanoid robots and such
+
+00:50:16.440 --> 00:50:18.974
+The reason is that
+
+00:50:18.974 --> 00:50:21.941
+We'd prefer to move forward with some
+
+00:50:21.941 --> 00:50:26.008
+affordable robots that can handle household chores
+
+00:50:26.008 --> 00:50:28.075
+like folding laundry
+
+00:50:28.075 --> 00:50:29.208
+or doing the laundry
+
+00:50:29.208 --> 00:50:31.642
+Cooking
+
+00:50:31.642 --> 00:50:34.509
+These issues, washing hair
+
+00:50:34.509 --> 00:50:36.576
+Especially I think
+
+00:50:36.576 --> 00:50:38.910
+Taiwan's long-term care issues
+
+00:50:38.910 --> 00:50:41.777
+in 5 years or 10 years
+
+00:50:41.777 --> 00:50:44.011
+will there really be
+
+00:50:44.011 --> 00:50:46.978
+more affordable robots
+
+00:50:46.978 --> 00:50:49.211
+that can help with household chores
+
+00:50:49.211 --> 00:50:52.678
+I think humans are incredibly contradictory when talking about this matter
+
+00:50:52.678 --> 00:50:53.545
+What contradiction?
+
+00:50:53.545 --> 00:50:54.979
+The reason for the contradiction is
+
+00:50:54.979 --> 00:50:57.212
+First, on one hand we're very afraid
+
+00:50:57.212 --> 00:50:58.213
+Replaced
+
+00:50:58.213 --> 00:51:00.680
+AI or robots have taken over our
+
+00:51:00.680 --> 00:51:04.147
+white-collar jobs or blue-collar jobs
+
+00:51:04.147 --> 00:51:05.714
+Yet on the other hand we realize
+
+00:51:05.714 --> 00:51:07.481
+We're actually facing a severe labor shortage
+
+00:51:07.481 --> 00:51:09.681
+We're critically short on caregiving staff
+
+00:51:09.681 --> 00:51:11.715
+Because I recently saw news reports saying
+
+00:51:11.715 --> 00:51:14.482
+Nearly all hospitals across Taiwan essentially have no available beds
+
+00:51:14.482 --> 00:51:17.215
+Because of this nurse
+
+00:51:17.215 --> 00:51:18.782
+The shortage of nurses
+
+00:51:18.782 --> 00:51:21.216
+Then causing the core issue of this entire matter
+
+00:51:21.216 --> 00:51:24.016
+Will likely emerge on a large scale within a few years
+
+00:51:24.016 --> 00:51:27.183
+What's your take on this matter?
+
+00:51:27.183 --> 00:51:30.651
+So now there's quite a lot of interest in medical robots
+
+00:51:30.651 --> 00:51:32.584
+among developers
+
+00:51:32.584 --> 00:51:33.584
+That's precisely the reason
+
+00:51:33.584 --> 00:51:35.685
+There are some very simple tasks
+
+00:51:35.685 --> 00:51:38.085
+such as delivering medicine
+
+00:51:38.085 --> 00:51:40.685
+or even things like
+
+00:51:40.685 --> 00:51:43.019
+turning over patients
+
+00:51:43.019 --> 00:51:44.619
+Is this kind of problem correct?
+
+00:51:44.619 --> 00:51:46.520
+Every single thing you do now
+
+00:51:46.520 --> 00:51:48.987
+in the hospital requires nurses to handle
+
+00:51:48.987 --> 00:51:50.920
+Is it possible that
+
+00:51:50.920 --> 00:51:52.754
+There's a turning-over robot
+
+00:51:52.754 --> 00:51:56.054
+Scheduled to turn everyone over at set times
+
+00:51:56.054 --> 00:51:57.121
+That makes sense
+
+00:51:57.121 --> 00:51:58.621
+And because its hands are now very dexterous
+
+00:51:58.621 --> 00:51:59.988
+So it might be possible
+
+00:51:59.988 --> 00:52:05.222
+And the entire scanning process is very concrete
+
+00:52:05.222 --> 00:52:08.223
+Your vision makes the judgment
+
+00:52:08.223 --> 00:52:09.790
+Because I feel that in the past
+
+00:52:09.790 --> 00:52:11.690
+People would want to do this thing
+
+00:52:11.690 --> 00:52:12.823
+which is healthcare
+
+00:52:12.823 --> 00:52:15.891
+There must be some physical object to assist
+
+00:52:15.891 --> 00:52:18.224
+and then every incident would
+
+00:52:18.224 --> 00:52:20.225
+there should be a machine to do this
+
+00:52:20.225 --> 00:52:22.225
+for example, turning over should be done by a bed
+
+00:52:22.225 --> 00:52:24.292
+it can help you sit up a bit
+
+00:52:24.292 --> 00:52:25.859
+and then lie back down
+
+00:52:25.859 --> 00:52:27.459
+Then you'll need to buy this bed
+
+00:52:27.459 --> 00:52:28.659
+And if
+
+00:52:28.659 --> 00:52:30.559
+I need to take him to the bathroom
+
+00:52:30.559 --> 00:52:32.826
+I'll need a machine to transport him there
+
+00:52:32.826 --> 00:52:34.727
+But if it's a humanoid robot
+
+00:52:34.727 --> 00:52:39.161
+combined with its multimodal capabilities
+
+00:52:39.161 --> 00:52:42.394
+it should be able to master all these skills
+
+00:52:42.394 --> 00:52:44.561
+There are many technical details involved here
+
+00:52:44.561 --> 00:52:47.329
+Like what we were talking about earlier regarding dining
+
+00:52:47.329 --> 00:52:49.362
+this food delivery robot
+
+00:52:49.362 --> 00:52:51.863
+how well they perform
+
+00:52:51.863 --> 00:52:54.096
+how they integrate into different restaurants
+
+00:52:54.096 --> 00:52:56.363
+Different restaurants have their own sizes
+
+00:52:56.363 --> 00:52:58.097
+There may be issues with all of them
+
+00:52:58.097 --> 00:52:59.430
+Different hospitals will also have
+
+00:52:59.430 --> 00:53:01.031
+Application problems in this regard
+
+00:53:01.031 --> 00:53:02.731
+So in this regard,
+
+00:53:02.731 --> 00:53:05.264
+there's an urgent need to resolve
+
+00:53:05.264 --> 00:53:07.065
+then you can imagine that
+
+00:53:07.065 --> 00:53:09.165
+there exists a multimodal large model
+
+00:53:09.165 --> 00:53:11.932
+If it can be used to perform such tasks
+
+00:53:11.932 --> 00:53:15.299
+In the past, you might have had to go to different hospitals
+
+00:53:15.299 --> 00:53:17.066
+with different beds
+
+00:53:17.066 --> 00:53:19.233
+and different specifications
+
+00:53:19.233 --> 00:53:22.567
+Different sizes of hospital beds
+
+00:53:22.567 --> 00:53:24.567
+Location of the ward
+
+00:53:24.567 --> 00:53:26.201
+Everything is problematic
+
+00:53:26.201 --> 00:53:27.201
+Right?
+
+00:53:27.201 --> 00:53:30.135
+In the future, we imagine that..
+
+00:53:30.135 --> 00:53:32.635
+Just put it in and let it scan through
+
+00:53:32.635 --> 00:53:35.202
+Yes, showing you the map - got it?
+
+00:53:35.202 --> 00:53:36.236
+Okay
+
+00:53:36.236 --> 00:53:39.203
+Starting medication delivery
+
+00:53:39.203 --> 00:53:41.203
+Because you can think of it this way
+
+00:53:41.203 --> 00:53:45.704
+If I were the head of a hospital
+
+00:53:45.704 --> 00:53:48.204
+And I hired a nurse
+
+00:53:48.204 --> 00:53:49.638
+Then I told them that
+
+00:53:49.638 --> 00:53:52.205
+I need someone to help deliver the medicine
+
+00:53:52.205 --> 00:53:53.605
+The patient is over here
+
+00:53:53.605 --> 00:53:54.905
+The medical order is here
+
+00:53:54.905 --> 00:53:56.205
+The medicine is over here
+
+00:53:56.205 --> 00:53:57.205
+Please do this thing
+
+00:53:57.205 --> 00:53:59.206
+He should be able to do it right away, right?
+
+00:53:59.206 --> 00:54:01.206
+This is so sci-fi, oh my god
+
+00:54:01.206 --> 00:54:03.540
+Medical robots should be the same
+
+00:54:03.540 --> 00:54:05.740
+We need to have a medicine delivery robot
+
+00:54:05.740 --> 00:54:08.207
+It should be deployed in a hospital
+
+00:54:08.207 --> 00:54:10.441
+Show it a map
+
+00:54:10.441 --> 00:54:11.874
+Then start delivering medicines
+
+00:54:11.874 --> 00:54:13.708
+No need to fine-tune those data anymore
+
+00:54:13.708 --> 00:54:14.608
+No need
+
+00:54:14.608 --> 00:54:16.842
+It's just a large model
+
+00:54:16.842 --> 00:54:18.275
+So no fine-tuning is needed at all
+
+00:54:18.275 --> 00:54:19.975
+It may have medical specialization
+
+00:54:19.975 --> 00:54:21.709
+Then let me ask you a very simple question
+
+00:54:21.709 --> 00:54:23.209
+Think about why
+
+00:54:23.209 --> 00:54:24.776
+I just mentioned dual arms
+
+00:54:24.776 --> 00:54:27.143
+How important dual-arm robots are
+
+00:54:27.143 --> 00:54:29.710
+If the medicine comes in a bottle
+
+00:54:29.710 --> 00:54:31.277
+You need to twist it open
+
+00:54:31.277 --> 00:54:33.744
+Requires both hands
+
+00:54:33.744 --> 00:54:35.444
+So this is the foundation
+
+00:54:35.444 --> 00:54:36.578
+Foundation
+
+00:54:36.578 --> 00:54:37.945
+When you hire someone
+
+00:54:37.945 --> 00:54:39.212
+They say "I'm a nurse"
+
+00:54:39.212 --> 00:54:44.212
+But is it possible that I can't open the medicine bottle?
+
+00:54:44.212 --> 00:54:45.979
+So this feeling is like
+
+00:54:45.979 --> 00:54:49.213
+I think if we develop further for another ten years
+
+00:54:49.213 --> 00:54:50.213
+we'll reach Westworld
+
+00:54:50.213 --> 00:54:51.613
+Westworld
+
+00:54:51.613 --> 00:54:53.214
+That movie
+
+00:54:53.214 --> 00:54:54.214
+TV series
+
+00:54:54.214 --> 00:54:56.214
+Wow, this feels so close
+
+00:54:56.214 --> 00:54:59.615
+Yeah, I feel it's really close
+
+00:54:59.615 --> 00:55:01.948
+At least if we live well
+
+00:55:01.948 --> 00:55:03.215
+We might see it in our lifetime
+
+00:55:03.215 --> 00:55:04.715
+Hope you never have to go to the hospital
+
+00:55:04.715 --> 00:55:06.215
+May you never need hospitalization
+
+00:55:06.215 --> 00:55:07.516
+Then we won't have to
+
+00:55:07.516 --> 00:55:08.716
+So theoretically we're in
+
+00:55:08.716 --> 00:55:10.216
+Because I also saw in
+
+00:55:10.216 --> 00:55:14.217
+this DeepMind's Demis
+
+00:55:14.217 --> 00:55:18.517
+he also researches these proteins
+
+00:55:18.517 --> 00:55:20.218
+these medical breakthroughs
+
+00:55:20.218 --> 00:55:21.218
+I think over there
+
+00:55:21.218 --> 00:55:24.218
+there should be similar breakthrough developments
+
+00:55:24.218 --> 00:55:26.218
+Yeah, we're using
+
+00:55:26.218 --> 00:55:27.519
+this machine learning approach
+
+00:55:27.519 --> 00:55:29.852
+Take for example AlphaFold
+
+00:55:29.852 --> 00:55:31.486
+projects like this
+
+00:55:31.486 --> 00:55:32.986
+many people in Taiwan now
+
+00:55:32.986 --> 00:55:35.020
+have already started applying them
+
+00:55:35.020 --> 00:55:37.220
+There used to be a lot of
+
+00:55:37.220 --> 00:55:40.187
+biotech investments in Taiwan
+
+00:55:40.187 --> 00:55:41.687
+Now there are many people
+
+00:55:41.687 --> 00:55:43.954
+saying it's over fifteen thousand
+
+00:55:43.954 --> 00:55:47.021
+The user is using AlphaGo in Taiwan
+
+00:55:47.021 --> 00:55:47.922
+OK
+
+00:55:47.922 --> 00:55:48.855
+Because it seems
+
+00:55:48.855 --> 00:55:50.822
+Because I recently saw an FDA report
+
+00:55:50.822 --> 00:55:51.722
+That is, the US FDA
+
+00:55:51.722 --> 00:55:53.222
+They are actually already
+
+00:55:53.222 --> 00:55:55.656
+feeling that this is being accelerated
+
+00:55:55.656 --> 00:55:57.923
+when it comes to AI-related hardware
+
+00:55:57.923 --> 00:55:59.223
+and healthcare-related areas are accelerating
+
+00:55:59.223 --> 00:56:00.490
+They are trying to figure out a way
+
+00:56:00.490 --> 00:56:02.424
+whether there's a method to speed up
+
+00:56:02.424 --> 00:56:04.357
+the approval process for these things
+
+00:56:04.357 --> 00:56:06.224
+and get them tested quickly
+
+00:56:06.224 --> 00:56:08.191
+Then there's a chance to launch earlier
+
+00:56:08.191 --> 00:56:09.691
+Or go straight through
+
+00:56:09.691 --> 00:56:12.225
+Be adopted by everyone on a large scale sooner
+
+00:56:12.225 --> 00:56:14.759
+Yeah, benefit humanity
+
+00:56:14.759 --> 00:56:18.226
+For medical topics, there shouldn't be too many
+
+00:56:18.226 --> 00:56:21.560
+unlicensed practitioners
+
+00:56:21.560 --> 00:56:22.393
+Okay
+
+00:56:22.393 --> 00:56:24.194
+Let me ask a broader question then
+
+00:56:24.194 --> 00:56:28.761
+What is your definition of AGI?
+
+00:56:28.761 --> 00:56:30.194
+Suddenly came here
+
+00:56:30.194 --> 00:56:32.395
+This topic change came quite abruptly
+
+00:56:32.395 --> 00:56:34.228
+But I think
+
+00:56:34.228 --> 00:56:35.228
+Because we just
+
+00:56:35.228 --> 00:56:37.495
+I think because it's already reached full modality
+
+00:56:37.495 --> 00:56:39.529
+And because some people feel that
+
+00:56:39.529 --> 00:56:41.796
+This is already indistinguishable from how humans do things
+
+00:56:41.796 --> 00:56:42.630
+It's almost impossible to tell the difference
+
+00:56:42.630 --> 00:56:43.930
+Can't tell the difference anymore
+
+00:56:43.930 --> 00:56:47.197
+Some people are arguing that
+
+00:56:47.197 --> 00:56:50.831
+Because according to the previous question's theory it should be
+
+00:56:50.831 --> 00:56:53.231
+When do you think AGI will arrive
+
+00:56:53.231 --> 00:56:55.231
+Then the next question would be
+
+00:56:55.231 --> 00:56:56.865
+So how do you define AGI? What do you think AGI is?
+
+00:56:56.865 --> 00:56:59.199
+So I quickly asked first: What is AGI?
+
+00:56:59.199 --> 00:57:01.199
+Let me start by saying that
+
+00:57:01.199 --> 00:57:03.199
+I think many people have a misunderstanding about AGI
+
+00:57:03.199 --> 00:57:06.200
+The reason for this misunderstanding
+
+00:57:06.200 --> 00:57:08.200
+is that when some people talk about AGI
+
+00:57:08.200 --> 00:57:10.667
+they mean it's exactly like humans
+
+00:57:10.667 --> 00:57:13.234
+has the same intelligence
+
+00:57:13.234 --> 00:57:15.201
+but some people
+
+00:57:15.201 --> 00:57:16.201
+when he talks about AGI
+
+00:57:16.201 --> 00:57:18.201
+he actually means
+
+00:57:18.201 --> 00:57:19.668
+superhuman intelligence
+
+00:57:19.668 --> 00:57:22.802
+intelligence that surpasses human capabilities
+
+00:57:22.802 --> 00:57:25.202
+those who talk about the singularity
+
+00:57:25.202 --> 00:57:27.103
+mean that
+
+00:57:27.103 --> 00:57:30.103
+When its intelligence reaches a certain level
+
+00:57:30.103 --> 00:57:33.070
+the point where it continues to surpass humans
+
+00:57:33.070 --> 00:57:34.204
+is called singularity
+
+00:57:34.204 --> 00:57:35.671
+Singularity
+
+00:57:35.671 --> 00:57:37.204
+So why approach it this way?
+
+00:57:37.204 --> 00:57:38.838
+Why talk about it from this perspective?
+
+00:57:38.838 --> 00:57:41.305
+I would say that
+
+00:57:41.305 --> 00:57:42.705
+From my personal viewpoint
+
+00:57:42.705 --> 00:57:44.205
+Individual
+
+00:57:44.205 --> 00:57:46.205
+Personally, I think about AGI
+
+00:57:46.205 --> 00:57:48.206
+I believe there are two things
+
+00:57:48.206 --> 00:57:49.539
+that are extremely important
+
+00:57:49.539 --> 00:57:52.706
+It has just been explained in great detail
+
+00:57:52.706 --> 00:57:55.674
+about one particular aspect, which is that
+
+00:57:55.674 --> 00:58:00.208
+this AI cannot exist solely within its own
+
+00:58:00.208 --> 00:58:02.208
+a virtual world
+
+00:58:02.208 --> 00:58:04.775
+but needs to be integrated into the human world
+
+00:58:04.775 --> 00:58:07.842
+So this is what I consider to be
+
+00:58:07.842 --> 00:58:11.543
+an interface between humans and artificial intelligence
+
+00:58:11.543 --> 00:58:15.910
+a starting point
+
+00:58:15.910 --> 00:58:17.743
+a startup point
+
+00:58:17.743 --> 00:58:19.210
+So this is something I feel that
+
+00:58:19.210 --> 00:58:22.644
+In 2024-2025, we're beginning to feel
+
+00:58:22.644 --> 00:58:25.511
+this is starting to happen
+
+00:58:25.511 --> 00:58:29.845
+This is one part of AGI
+
+00:58:29.845 --> 00:58:31.679
+Another aspect I think
+
+00:58:31.679 --> 00:58:33.812
+more important than this
+
+00:58:33.812 --> 00:58:35.679
+because the former is
+
+00:58:35.679 --> 00:58:37.980
+an integration with the physical world
+
+00:58:37.980 --> 00:58:38.680
+an interface
+
+00:58:38.680 --> 00:58:40.380
+an understanding
+
+00:58:40.380 --> 00:58:46.214
+an interaction of situated understanding
+
+00:58:46.214 --> 00:58:49.215
+The second part is actually
+
+00:58:49.215 --> 00:58:51.548
+Have you noticed one thing
+
+00:58:51.548 --> 00:58:53.215
+Interactions between people
+
+00:58:53.215 --> 00:58:55.216
+A common contradiction we often observe
+
+00:58:55.216 --> 00:58:56.482
+is what?
+
+00:58:56.482 --> 00:58:57.349
+I've already told you
+
+00:58:57.349 --> 00:58:58.583
+How to do this
+
+00:58:58.583 --> 00:58:59.583
+Why don't you know how yet
+
+00:58:59.583 --> 00:59:00.816
+I don't understand
+
+00:59:00.816 --> 00:59:04.217
+Have you ever argued with your wife or girlfriend
+
+00:59:04.217 --> 00:59:06.384
+That's how the argument started
+
+00:59:06.384 --> 00:59:08.684
+The interaction between humans and machines
+
+00:59:08.684 --> 00:59:10.218
+will have the same problem
+
+00:59:10.218 --> 00:59:12.785
+meaning if I've already taught you once
+
+00:59:12.785 --> 00:59:14.885
+Why don't you know it yet
+
+00:59:14.885 --> 00:59:16.885
+So the next AGI
+
+00:59:16.885 --> 00:59:18.886
+The most important starting point
+
+00:59:18.886 --> 00:59:20.586
+I personally believe that
+
+00:59:20.586 --> 00:59:22.220
+You need to be able to do it
+
+00:59:22.220 --> 00:59:23.620
+I'll teach you once
+
+00:59:23.620 --> 00:59:25.220
+and you'll know how to do it from then on
+
+00:59:25.220 --> 00:59:27.354
+This is so hard
+
+00:59:27.354 --> 00:59:29.754
+The reason is that now I
+
+00:59:29.754 --> 00:59:31.354
+because I'm someone who can't code at all
+
+00:59:31.354 --> 00:59:33.988
+I have no connection with computer science
+
+00:59:33.988 --> 00:59:35.788
+and now I'm starting to use
+
+00:59:35.788 --> 00:59:39.022
+vibe coding did some things
+
+00:59:39.022 --> 00:59:43.856
+When I explained to it what needed to be done
+
+00:59:43.856 --> 00:59:45.123
+it still didn't
+
+00:59:45.123 --> 00:59:46.190
+maybe my communication skills are too poor
+
+00:59:46.190 --> 00:59:48.223
+I always blame myself for my poor communication skills now
+
+00:59:48.223 --> 00:59:49.223
+First, I reflect on myself
+
+00:59:49.223 --> 00:59:51.224
+Then it's because my expression was inadequate
+
+00:59:51.224 --> 00:59:52.391
+So it didn't do the right thing
+
+00:59:52.391 --> 00:59:54.224
+What you're saying is quite interesting
+
+00:59:54.224 --> 00:59:55.758
+What is it?
+
+00:59:55.758 --> 00:59:57.891
+Because why do people feel that
+
+00:59:57.891 --> 00:59:59.958
+Perhaps it's my poor communication skills
+
+00:59:59.958 --> 01:00:01.992
+Why don't people interact with each other in this way
+
+01:00:01.992 --> 01:00:03.692
+Why doesn't he say it like that
+
+01:00:03.692 --> 01:00:04.526
+Right?
+
+01:00:04.526 --> 01:00:05.959
+When you argue with your girlfriend
+
+01:00:05.959 --> 01:00:08.226
+Didn't I already teach you once?
+
+01:00:08.226 --> 01:00:10.227
+Why don't you ever question whether
+
+01:00:10.227 --> 01:00:12.960
+Maybe it's because you didn't explain it well
+
+01:00:12.960 --> 01:00:15.227
+So this is about the interaction between people
+
+01:00:15.227 --> 01:00:19.194
+and the current interaction between humans and machines
+
+01:00:19.194 --> 01:00:20.195
+imbalance point
+
+01:00:20.195 --> 01:00:21.595
+because we feel that
+
+01:00:21.595 --> 01:00:22.862
+Interacting with machines
+
+01:00:22.862 --> 01:00:24.195
+The machine must be dumber than me
+
+01:00:24.195 --> 01:00:25.429
+So I need to teach it many times
+
+01:00:25.429 --> 01:00:27.796
+That's perfectly normal
+
+01:00:27.796 --> 01:00:29.763
+But when AGI arrives
+
+01:00:29.763 --> 01:00:32.396
+It should be as intelligent as I am
+
+01:00:32.396 --> 01:00:35.197
+You should learn it after I teach you once
+
+01:00:35.197 --> 01:00:37.597
+It feels very similar to what we just discussed
+
+01:00:37.597 --> 01:00:38.464
+Exactly
+
+01:00:38.464 --> 01:00:40.198
+Can we expect something different over time
+
+01:00:40.198 --> 01:00:42.398
+The day your grandma
+
+01:00:42.398 --> 01:00:44.198
+scolds the robot at home saying
+
+01:00:44.198 --> 01:00:46.232
+I already taught you once, why don't you get it yet?
+
+01:00:46.232 --> 01:00:47.499
+that's when you'll know AGI has arrived
+
+01:00:50.632 --> 01:00:53.199
+OK, another criterion we use to judge
+
+01:00:53.199 --> 01:00:54.833
+whether AGI has been achieved
+
+01:00:54.833 --> 01:00:56.967
+is your grandmother
+
+01:00:56.967 --> 01:00:58.067
+Indeed
+
+01:00:58.067 --> 01:01:01.401
+And we found NVIDIA's standard quite interesting that day
+
+01:01:01.401 --> 01:01:04.401
+He said how do I judge this
+
+01:01:04.401 --> 01:01:06.635
+The physical world Turing test has been breached
+
+01:01:06.635 --> 01:01:09.068
+Meaning we can't tell whether
+
+01:01:09.068 --> 01:01:11.302
+the house was just cleaned by a robot
+
+01:01:11.302 --> 01:01:13.569
+The robot has already helped you with everything
+
+01:01:13.569 --> 01:01:15.969
+folded the clothes and cleaned up
+
+01:01:15.969 --> 01:01:19.203
+And their line of reasoning goes like this
+
+01:01:19.203 --> 01:01:21.237
+Their Turing test is this
+
+01:01:21.237 --> 01:01:23.237
+You say this is good, why?
+
+01:01:23.237 --> 01:01:24.937
+Because, for example, you can
+
+01:01:24.937 --> 01:01:27.238
+imagine in the future grandma saying
+
+01:01:27.238 --> 01:01:29.405
+My socks should be placed in this drawer
+
+01:01:29.405 --> 01:01:30.872
+Then the robot made another mistake
+
+01:01:30.872 --> 01:01:32.539
+She said "I've already told you once"
+
+01:01:32.539 --> 01:01:33.605
+Why does this keep happening?
+
+01:01:33.605 --> 01:01:36.106
+Or talking about the robotic vacuum cleaner at home
+
+01:01:36.106 --> 01:01:38.939
+I still often run into things
+
+01:01:38.939 --> 01:01:40.640
+then get tangled up and stop
+
+01:01:40.640 --> 01:01:41.840
+even though I've taught you many times
+
+01:01:41.840 --> 01:01:42.840
+and set it up repeatedly
+
+01:01:42.840 --> 01:01:47.207
+You still have to deal with tangled wires and such
+
+01:01:47.207 --> 01:01:49.774
+It just feels like this thing is actually still quite dumb
+
+01:01:49.774 --> 01:01:53.808
+We call it a smart robotic vacuum cleaner
+
+01:01:53.808 --> 01:01:55.509
+But is it really smart?
+
+01:01:56.575 --> 01:02:00.409
+When it has multimodal large models to accomplish this task
+
+01:02:00.409 --> 01:02:01.776
+it won't get tangled up anymore
+
+01:02:01.776 --> 01:02:02.343
+Indeed
+
+01:02:02.343 --> 01:02:04.076
+It won't be stupid anymore
+
+01:02:04.076 --> 01:02:05.977
+It can recognize what shouldn't be blended
+
+01:02:05.977 --> 01:02:08.077
+Our standards are really high now
+
+01:02:08.077 --> 01:02:10.411
+Because about 10 years ago we would have used iRobot
+
+01:02:10.411 --> 01:02:11.411
+It works by collision
+
+01:02:11.411 --> 01:02:12.611
+meaning it bumps into walls
+
+01:02:12.611 --> 01:02:13.811
+and at that moment I thought
+
+01:02:13.811 --> 01:02:15.878
+Okay, not bad, it's better than how I used to sweep
+
+01:02:15.878 --> 01:02:18.345
+Then later I thought bumping into things was really stupid
+
+01:02:18.345 --> 01:02:20.679
+But now we have this infrared technology
+
+01:02:20.679 --> 01:02:22.512
+And with visual sensing, I already feel
+
+01:02:22.512 --> 01:02:24.379
+Wow, this is so much better than iRobot
+
+01:02:24.379 --> 01:02:25.980
+Now I think it's stupid for getting tangled in wires
+
+01:02:27.046 --> 01:02:28.047
+Then you come back to blame it
+
+01:02:28.047 --> 01:02:31.380
+Have you noticed how your expectations keep changing?
+
+01:02:31.380 --> 01:02:33.547
+So the next step would be
+
+01:02:33.547 --> 01:02:36.315
+I already told you not to mess with that place where there are wires
+
+01:02:36.315 --> 01:02:37.848
+Why did you still go and mess with it?
+
+01:02:37.848 --> 01:02:41.015
+Just wait until your grandma starts scolding that robot vacuum
+
+01:02:41.015 --> 01:02:42.482
+Then you'll know AGI has arrived
+
+01:02:42.482 --> 01:02:44.349
+The robotic vacuum cleaner is truly
+
+01:02:44.349 --> 01:02:47.983
+Our world's AGI is judged by this
+
+01:02:47.983 --> 01:02:51.017
+Our measuring standard grows from Grandma
+
+01:02:51.017 --> 01:02:53.050
+Grows from this kind of grandma
+
+01:02:53.050 --> 01:02:54.817
+It's her expectation
+
+01:02:55.117 --> 01:02:57.151
+If I've already told you once
+
+01:02:57.151 --> 01:02:58.551
+Don't make this mistake again
+
+01:02:59.985 --> 01:03:02.685
+And in fact, things like this are
+
+01:03:02.685 --> 01:03:05.152
+extremely important in many application scenarios
+
+01:03:05.152 --> 01:03:05.485
+Indeed
+
+01:03:05.485 --> 01:03:08.286
+Take medical robots we just discussed for example
+
+01:03:08.286 --> 01:03:11.686
+If he delivers the wrong medicine, that would be very serious.
+
+01:03:11.686 --> 01:03:17.821
+I think it might take some time for everyone to get used to it.
+
+01:03:18.654 --> 01:03:22.355
+Then some people who start getting accustomed to it will help deliver your medicine.
+
+01:03:22.355 --> 01:03:24.755
+And believe they're more accurate than humans
+
+01:03:24.755 --> 01:03:25.922
+It's like driving
+
+01:03:25.922 --> 01:03:27.255
+Like autonomous vehicles
+
+01:03:27.789 --> 01:03:28.655
+You can think of it this way
+
+01:03:28.655 --> 01:03:31.123
+If we can achieve delivery robots
+
+01:03:31.123 --> 01:03:33.056
+Why can't we have a medicine delivery robot
+
+01:03:33.056 --> 01:03:34.423
+Medicine delivery can be fatal
+
+01:03:35.390 --> 01:03:37.823
+So you're thinking in the right direction
+
+01:03:37.823 --> 01:03:40.757
+Meaning this technology isn't nonexistent
+
+01:03:40.757 --> 01:03:44.024
+But the question is, what are its regulations?
+
+01:03:44.024 --> 01:03:45.691
+What is its reliability?
+
+01:03:45.691 --> 01:03:47.325
+What is its robustness?
+
+01:03:48.292 --> 01:03:50.825
+I think it's also related to autonomous driving
+
+01:03:50.825 --> 01:03:52.092
+is similar
+
+01:03:52.092 --> 01:03:56.860
+from a decade ago when people were talking about assisted driving
+
+01:03:56.860 --> 01:03:58.660
+to fully autonomous driving
+
+01:03:58.660 --> 01:04:01.627
+whether you look at Waymo or other autonomous driving systems
+
+01:04:01.627 --> 01:04:02.627
+I think right now it's
+
+01:04:03.594 --> 01:04:04.961
+when you see it, you find it incredible
+
+01:04:04.961 --> 01:04:08.761
+it seems very popular abroad
+
+01:04:08.761 --> 01:04:09.761
+but hasn't been seen in Taiwan yet
+
+01:04:09.761 --> 01:04:12.329
+You can really feel there's still a difference
+
+01:04:12.329 --> 01:04:16.696
+But foreign regulations have indeed been making continuous efforts to adjust
+
+01:04:16.696 --> 01:04:19.763
+Allowing operations in places like Texas or California
+
+01:04:19.763 --> 01:04:23.430
+And many people have already started in our area
+
+01:04:23.430 --> 01:04:24.430
+In that area of California
+
+01:04:24.430 --> 01:04:26.431
+people have already started saying
+
+01:04:26.431 --> 01:04:29.631
+I'd rather have my child ride in Waymo's
+
+01:04:29.631 --> 01:04:30.898
+self-driving car
+
+01:04:30.898 --> 01:04:32.665
+Because I know that's safe
+
+01:04:32.665 --> 01:04:34.465
+Oh, right
+
+01:04:34.465 --> 01:04:36.899
+Isn't this exactly the transformation we were just talking about?
+
+01:04:36.899 --> 01:04:38.699
+Yes
+
+01:04:38.699 --> 01:04:40.833
+So we need to think about
+
+01:04:40.833 --> 01:04:43.633
+It's not about what the trend of technological development is
+
+01:04:43.633 --> 01:04:46.000
+but rather where its turning point lies
+
+01:04:46.300 --> 01:04:49.201
+Yes, because just a few years ago people were still very concerned
+
+01:04:49.201 --> 01:04:51.734
+about whether this autonomous driving assistance would work
+
+01:04:51.734 --> 01:04:55.368
+But I feel this voice is changing
+
+01:04:55.368 --> 01:04:58.235
+Especially, I think Taiwan might not be there yet
+
+01:04:58.235 --> 01:05:01.402
+But because I've already been using this
+
+01:05:01.402 --> 01:05:02.969
+self-driving technology
+
+01:05:02.969 --> 01:05:04.903
+Maybe four years
+
+01:05:04.903 --> 01:05:06.870
+But the past four years have been
+
+01:05:06.870 --> 01:05:11.604
+So I feel this matter is no longer that
+
+01:05:11.604 --> 01:05:12.604
+Surprising, is it?
+
+01:05:12.604 --> 01:05:13.604
+Strange, right?
+
+01:05:13.604 --> 01:05:17.105
+Right, and haven't there been many
+
+01:05:17.105 --> 01:05:20.238
+issues related to driving in Taiwan recently?
+
+01:05:20.238 --> 01:05:22.205
+So I think we should move forward
+
+01:05:22.205 --> 01:05:25.973
+People gradually develop an acceptance of this technology
+
+01:05:25.973 --> 01:05:26.973
+They start to think
+
+01:05:26.973 --> 01:05:30.773
+Hey, isn't autonomous driving even safer?
+
+01:05:30.773 --> 01:05:33.874
+It's like when medicine delivery robots perform exceptionally well
+
+01:05:33.874 --> 01:05:36.808
+He would expect the medication delivery robot to have a lower error rate than
+
+01:05:36.808 --> 01:05:39.541
+an actual nurse
+
+01:05:39.541 --> 01:05:42.275
+or even that it wouldn't yell at you
+
+01:05:42.275 --> 01:05:44.809
+Hey, why haven't you taken your medicine yet?
+
+01:05:44.809 --> 01:05:47.576
+Just keeps offering you food
+
+01:05:47.576 --> 01:05:49.343
+Can repeat endlessly
+
+01:05:49.343 --> 01:05:51.910
+Never gets annoyed
+
+01:05:51.910 --> 01:05:54.043
+A nurse might get annoyed by the third time
+
+01:05:55.310 --> 01:05:58.677
+The temper flares up, but robots don't
+
+01:05:58.677 --> 01:06:03.578
+It's something we should be able to see within our lifetime
+
+01:06:03.578 --> 01:06:06.579
+Finally, what are your thoughts on this
+
+01:06:06.579 --> 01:06:09.279
+For example, in Taiwan now
+
+01:06:09.279 --> 01:06:11.979
+young people in their early 20s
+
+01:06:11.979 --> 01:06:14.413
+if they want to start a business now
+
+01:06:14.413 --> 01:06:15.713
+this is a
+
+01:06:15.713 --> 01:06:17.780
+What advice would you give to those considering entering similar industries?
+
+01:06:17.780 --> 01:06:20.781
+What kind of suggestions do you think should be offered?
+
+01:06:20.781 --> 01:06:22.348
+In the field of AI?
+
+01:06:22.348 --> 01:06:23.748
+Yes, in the field of AI
+
+01:06:23.748 --> 01:06:26.648
+I think the most important issue right now is
+
+01:06:26.648 --> 01:06:30.449
+the technology is changing extremely fast
+
+01:06:30.449 --> 01:06:32.249
+so the most important
+
+01:06:32.249 --> 01:06:35.149
+piece of advice is actually to be adaptive
+
+01:06:35.983 --> 01:06:37.950
+And you shouldn't be thinking about just the present
+
+01:06:37.950 --> 01:06:41.450
+but rather consider three months, six months, or a year from now
+
+01:06:41.450 --> 01:06:43.851
+I've shared some thoughts today
+
+01:06:43.851 --> 01:06:44.984
+new ideas
+
+01:06:44.984 --> 01:06:46.451
+It allows you to
+
+01:06:46.451 --> 01:06:47.851
+What I want to do
+
+01:06:47.851 --> 01:06:50.785
+I think the interesting part about today's conversation is
+
+01:06:51.252 --> 01:06:53.519
+Many people ask me questions when
+
+01:06:53.519 --> 01:06:56.519
+Are you asking what I predict?
+
+01:06:56.519 --> 01:06:59.586
+What I want to do isn't to tell you my predictions
+
+01:06:59.586 --> 01:07:01.987
+but rather to teach you that skill
+
+01:07:01.987 --> 01:07:04.287
+so you can make predictions yourself
+
+01:07:04.287 --> 01:07:04.654
+Yes
+
+01:07:04.654 --> 01:07:07.287
+This is where creativity truly begins
+
+01:07:07.287 --> 01:07:11.655
+So I think the most important point is
+
+01:07:11.655 --> 01:07:17.389
+From the perspective of adaptive ability
+
+01:07:17.389 --> 01:07:18.789
+I think if we say
+
+01:07:18.789 --> 01:07:20.789
+Taiwan's software industry as well
+
+01:07:20.789 --> 01:07:24.823
+friends in the hardware industry
+
+01:07:24.823 --> 01:07:27.690
+what they need to do is be adaptive
+
+01:07:27.690 --> 01:07:30.091
+and be able to see these messages
+
+01:07:30.091 --> 01:07:35.358
+Then began doing work that could make predictions
+
+01:07:36.092 --> 01:07:38.692
+It's actually a kind of curiosity
+
+01:07:38.692 --> 01:07:41.092
+Followed by continuous cultivation of exploration
+
+01:07:41.092 --> 01:07:45.093
+And then quickly adapts through adoption
+
+01:07:45.093 --> 01:07:47.493
+Then I noticed that many speeches abroad
+
+01:07:47.493 --> 01:07:51.494
+actually show these industry leaders reaching similar conclusions
+
+01:07:51.494 --> 01:07:53.294
+because technological advancements are accelerating too rapidly
+
+01:07:53.294 --> 01:07:57.695
+this model has evolved from language models to multimodal
+
+01:07:57.695 --> 01:08:00.095
+It's only been about two or three years
+
+01:08:00.095 --> 01:08:03.562
+And this pace shows no signs of slowing down
+
+01:08:03.562 --> 01:08:07.096
+Because just a few years ago we were still worried about whether the data might disappear
+
+01:08:07.096 --> 01:08:08.496
+And then everything would stop
+
+01:08:08.496 --> 01:08:10.297
+But this wall doesn't seem to exist
+
+01:08:10.297 --> 01:08:12.097
+Haven't encountered this bottleneck
+
+01:08:12.097 --> 01:08:13.697
+But even if it stops
+
+01:08:13.697 --> 01:08:16.297
+All current multimodal things
+
+01:08:16.297 --> 01:08:17.698
+There are already plenty of things that can be done
+
+01:08:17.698 --> 01:08:19.498
+Yes, that's correct
+
+01:08:19.498 --> 01:08:22.498
+This issue with the data
+
+01:08:22.498 --> 01:08:25.699
+I think many people are stuck at a
+
+01:08:25.699 --> 01:08:29.299
+I put this thing into a pre-trained model
+
+01:08:29.299 --> 01:08:32.867
+Then this pre-trained model acquires this knowledge
+
+01:08:32.867 --> 01:08:34.100
+After acquiring this knowledge
+
+01:08:34.100 --> 01:08:36.700
+It can then perform many, many other tasks
+
+01:08:36.700 --> 01:08:39.901
+It's stuck in that mindset
+
+01:08:39.901 --> 01:08:41.901
+But now with the development of large models
+
+01:08:41.901 --> 01:08:46.302
+It's actually not a completely pre-trained model
+
+01:08:46.302 --> 01:08:49.302
+That's not the thinking pattern
+
+01:08:49.302 --> 01:08:51.703
+but rather that these large models
+
+01:08:51.703 --> 01:08:56.237
+have already begun to explore on their own
+
+01:08:56.237 --> 01:08:58.704
+This is the biggest difference
+
+01:08:58.704 --> 01:09:00.104
+So as I was just saying
+
+01:09:00.104 --> 01:09:01.504
+The part I'm talking about
+
+01:09:01.504 --> 01:09:03.304
+For example, if I teach you once
+
+01:09:03.304 --> 01:09:05.705
+It should be able to
+
+01:09:05.705 --> 01:09:07.505
+Learn it afterwards, right?
+
+01:09:07.505 --> 01:09:09.705
+In fact, it won't just teach you once
+
+01:09:09.705 --> 01:09:10.305
+It will learn
+
+01:09:10.305 --> 01:09:11.772
+It will continue to explore
+
+01:09:11.772 --> 01:09:12.772
+And extrapolate from one example
+
+01:09:15.306 --> 01:09:17.240
+Understood
+
+01:09:17.240 --> 01:09:20.307
+So that marks the true beginning of AGI
+
+01:09:20.307 --> 01:09:24.907
+It needs to be able to integrate into this real world
+
+01:09:24.907 --> 01:09:25.508
+First
+
+01:09:25.508 --> 01:09:26.508
+second one
+
+01:09:26.508 --> 01:09:27.708
+I'll teach you once
+
+01:09:27.708 --> 01:09:29.475
+Don't make me teach you repeatedly
+
+01:09:29.475 --> 01:09:31.275
+That's called machine learning
+
+01:09:31.275 --> 01:09:33.309
+That's not called AI
+
+01:09:33.309 --> 01:09:34.509
+And thirdly,
+
+01:09:34.509 --> 01:09:36.109
+It's a matter of drawing inferences from one instance
+
+01:09:36.109 --> 01:09:38.910
+started learning on my own
+
+01:09:38.910 --> 01:09:41.110
+So currently the hottest research direction is..
+
+01:09:41.110 --> 01:09:45.110
+In fact, it's the machine's self-learning
+
+01:09:45.110 --> 01:09:46.477
+self-improvement
+
+01:09:46.877 --> 01:09:48.078
+So everyone
+
+01:09:48.078 --> 01:09:50.478
+Because inevitably people will feel anxious
+
+01:09:50.478 --> 01:09:53.512
+It means some people constantly consume AI-related information
+
+01:09:53.512 --> 01:09:55.512
+Like during that Google I/O week
+
+01:09:55.512 --> 01:09:56.512
+You know
+
+01:09:56.512 --> 01:09:57.112
+You feel very anxious
+
+01:09:57.112 --> 01:09:58.512
+Information overload
+
+01:09:58.512 --> 01:10:00.513
+I don't feel anxious
+
+01:10:00.513 --> 01:10:02.113
+But there were a few days
+
+01:10:02.113 --> 01:10:03.880
+When I went vibe coding by myself again
+
+01:10:03.880 --> 01:10:05.680
+Then I didn't open Twitter for a few days
+
+01:10:05.680 --> 01:10:06.680
+So I didn't see anything
+
+01:10:06.680 --> 01:10:07.880
+One day I opened Twitter
+
+01:10:07.880 --> 01:10:08.881
+Wow, explosion
+
+01:10:08.881 --> 01:10:10.681
+Why so many new things
+
+01:10:10.681 --> 01:10:12.714
+But I think there's one advantage
+
+01:10:12.714 --> 01:10:14.115
+you don't have to worry
+
+01:10:14.115 --> 01:10:15.715
+about missing anything
+
+01:10:15.715 --> 01:10:17.715
+because if you check again tomorrow or five days later
+
+01:10:17.715 --> 01:10:19.482
+there will be a bunch of new things
+
+01:10:19.482 --> 01:10:20.482
+There's always something new
+
+01:10:20.482 --> 01:10:22.283
+But if you choose a direction
+
+01:10:22.283 --> 01:10:23.483
+And keep exploring
+
+01:10:23.483 --> 01:10:25.150
+I think it's truly the best time
+
+01:10:25.150 --> 01:10:29.484
+I think many people don't understand where anxiety comes from
+
+01:10:29.484 --> 01:10:31.317
+Anxiety stems from
+
+01:10:31.317 --> 01:10:34.718
+your fear of the future
+
+01:10:34.718 --> 01:10:37.085
+So it's a fear of the future
+
+01:10:37.085 --> 01:10:40.485
+So why do I have some today
+
+01:10:40.485 --> 01:10:43.086
+segments that are particularly focused on
+
+01:10:43.086 --> 01:10:46.486
+how to talk to everyone about predicting the future
+
+01:10:46.486 --> 01:10:49.086
+The reason is that if you can predict the future
+
+01:10:49.086 --> 01:10:51.887
+you will be relatively more calm
+
+01:10:51.887 --> 01:10:54.087
+you will have less anxiety
+
+01:10:54.087 --> 01:10:56.688
+the more you understand its potential direction
+
+01:10:56.688 --> 01:10:57.888
+the more reassured you'll feel
+
+01:10:57.888 --> 01:11:02.288
+Right, so if you're just absorbing that information
+
+01:11:02.288 --> 01:11:04.089
+Then you get this feeling of overload
+
+01:11:04.089 --> 01:11:07.289
+But you're not making any further predictions
+
+01:11:07.289 --> 01:11:10.290
+You still feel like the future is uncontrollable
+
+01:11:10.290 --> 01:11:11.490
+out of control
+
+01:11:11.490 --> 01:11:13.090
+or something unpredictable
+
+01:11:13.090 --> 01:11:16.090
+your anxiety will naturally rise
+
+01:11:16.090 --> 01:11:18.891
+so that's what everyone is feeling right now
+
+01:11:18.891 --> 01:11:20.891
+very anxious and highly stressed
+
+01:11:20.891 --> 01:11:23.491
+The reason is that it stems from last time at this place
+
+01:11:23.491 --> 01:11:26.692
+Many people in the company often tell me
+
+01:11:26.692 --> 01:11:30.292
+Why do I feel you're very calm
+
+01:11:30.292 --> 01:11:32.093
+I say the reason is because
+
+01:11:32.093 --> 01:11:33.893
+I don't know for sure I'm right
+
+01:11:33.893 --> 01:11:36.093
+but I think I know where the future is
+
+01:11:38.527 --> 01:11:40.694
+then you won't feel so anxious
+
+01:11:40.694 --> 01:11:42.894
+you already know what's gonna happen
+
+01:11:42.894 --> 01:11:46.295
+To some extent, my own feeling about this matter is
+
+01:11:46.295 --> 01:11:48.295
+because we've seen so many sci-fi movies
+
+01:11:48.295 --> 01:11:50.295
+science fiction novels
+
+01:11:50.829 --> 01:11:52.296
+I think Americans
+
+01:11:52.296 --> 01:11:54.596
+Americans also grew up watching these things
+
+01:11:54.596 --> 01:11:56.296
+And their feeling about this technology is
+
+01:11:56.296 --> 01:11:59.063
+This was already something we saw in our novels
+
+01:11:59.063 --> 01:12:00.530
+We just made it happen
+
+01:12:01.864 --> 01:12:04.297
+Then I said, oh yeah
+
+01:12:04.297 --> 01:12:07.631
+Because that's the best-case scenario
+
+01:12:07.631 --> 01:12:09.065
+It's just like Star Trek
+
+01:12:09.065 --> 01:12:14.066
+We have reached this utopian form of cosmic civilization
+
+01:12:14.066 --> 01:12:17.299
+And then there's the other extreme that's really bad
+
+01:12:17.299 --> 01:12:19.300
+Like Terminator
+
+01:12:19.300 --> 01:12:21.300
+Skynet - that's the worst one
+
+01:12:21.300 --> 01:12:23.300
+But I think every situation has its own
+
+01:12:23.300 --> 01:12:26.201
+So it's great that we're living in the future
+
+01:12:27.534 --> 01:12:30.301
+I think as producers
+
+01:12:30.301 --> 01:12:32.302
+Those who make films definitely
+
+01:12:32.768 --> 01:12:35.602
+Use their imagination to think of extremes
+
+01:12:35.602 --> 01:12:38.102
+Because only extreme things have
+
+01:12:38.102 --> 01:12:39.303
+Conflict and drama
+
+01:12:39.303 --> 01:12:41.303
+That's what creates drama and box office appeal
+
+01:12:41.303 --> 01:12:43.303
+That's a perfectly normal thing
+
+01:12:43.303 --> 01:12:45.937
+But from the perspective of us ordinary people looking at these things
+
+01:12:45.937 --> 01:12:47.304
+I think we'd feel that
+
+01:12:47.304 --> 01:12:50.738
+It's just giving you a framework to think about the future
+
+01:12:50.738 --> 01:12:54.171
+You need to look at the current direction of technology
+
+01:12:54.171 --> 01:12:55.472
+to determine
+
+01:12:55.472 --> 01:12:57.872
+I think this possibility is higher
+
+01:12:57.872 --> 01:12:59.539
+than the other possibility
+
+01:12:59.539 --> 01:13:01.006
+If you make this prediction
+
+01:13:01.006 --> 01:13:02.306
+you'll feel a bit more at ease
+
+01:13:02.306 --> 01:13:03.039
+Indeed
+
+01:13:03.039 --> 01:13:05.040
+Alright, let's discuss some final topics
+
+01:13:05.040 --> 01:13:07.307
+meaning outside of your work responsibilities
+
+01:13:07.307 --> 01:13:09.607
+What kind of exercise do you do?
+
+01:13:09.607 --> 01:13:13.541
+The exercise I do most often is golf
+
+01:13:13.541 --> 01:13:16.541
+I'm absolutely obsessed with golf right now
+
+01:13:16.541 --> 01:13:18.208
+I think about it all day long
+
+01:13:18.675 --> 01:13:20.909
+Are all the golf courses in Taiwan available?
+
+01:13:20.909 --> 01:13:22.409
+I haven't had the chance to play at golf courses in Taiwan yet
+
+01:13:22.409 --> 01:13:25.543
+Because every time I come back, I start
+
+01:13:25.543 --> 01:13:29.710
+Asking around which friends enjoy playing golf
+
+01:13:29.710 --> 01:13:30.543
+Let's go play together
+
+01:13:30.543 --> 01:13:32.610
+So to our audience friends
+
+01:13:32.610 --> 01:13:36.611
+If you know of any good courts
+
+01:13:36.611 --> 01:13:38.311
+The doctor is very interested
+
+01:13:39.178 --> 01:13:41.412
+There might be some AI-integrated stuff
+
+01:13:41.878 --> 01:13:42.945
+AI ball boy
+
+01:13:44.545 --> 01:13:48.313
+I heard that in places like Korea
+
+01:13:48.313 --> 01:13:53.813
+They already have those self-driving golf carts
+
+01:13:54.747 --> 01:13:55.314
+That makes sense
+
+01:13:55.314 --> 01:13:56.814
+Because it's a limited domain
+
+01:13:56.814 --> 01:13:59.281
+I don't even know if Taiwan has adopted these technologies
+
+01:13:59.281 --> 01:13:59.714
+I don't know either
+
+01:13:59.714 --> 01:14:02.281
+I'm not familiar with golf
+
+01:14:02.281 --> 01:14:05.582
+How about you recently
+
+01:14:05.582 --> 01:14:07.449
+Do you have any recommendations, whether it's books or
+
+01:14:07.449 --> 01:14:08.316
+TV series
+
+01:14:08.316 --> 01:14:11.316
+or any other works you've been watching recently
+
+01:14:11.316 --> 01:14:14.283
+Right after I got off the plane
+
+01:14:14.283 --> 01:14:18.750
+I watched a segment of the Dune movie
+
+01:14:18.750 --> 01:14:19.817
+Have you seen it?
+
+01:14:20.284 --> 01:14:22.284
+That Chinese name
+
+01:14:22.284 --> 01:14:23.284
+Doom
+
+01:14:23.284 --> 01:14:24.051
+No
+
+01:14:24.051 --> 01:14:27.318
+No, it's a sci-fi set in a desert
+
+01:14:27.318 --> 01:14:28.785
+Dune
+
+01:14:28.785 --> 01:14:32.386
+Yes, Dune Part 1 and Part 2
+
+01:14:32.386 --> 01:14:34.286
+After watching it, I felt that
+
+01:14:34.753 --> 01:14:38.287
+The entire visual presentation
+
+01:14:38.287 --> 01:14:39.920
+is absolutely stunning
+
+01:14:39.920 --> 01:14:41.954
+It looks amazing even on those terrible airplane screens
+
+01:14:41.954 --> 01:14:43.287
+I think you could
+
+01:14:43.687 --> 01:14:45.054
+You can probably feel that
+
+01:14:45.054 --> 01:14:48.055
+because we were just talking about anxiety
+
+01:14:48.055 --> 01:14:50.288
+I really enjoy certain sports
+
+01:14:50.288 --> 01:14:53.289
+or some everyday activities
+
+01:14:53.289 --> 01:14:54.756
+something that helps me relax
+
+01:14:54.756 --> 01:14:56.623
+and completely takes my mind off
+
+01:14:57.189 --> 01:14:58.723
+current matters
+
+01:14:58.723 --> 01:15:01.057
+You see, playing golf also requires intense focus
+
+01:15:02.190 --> 01:15:04.290
+You simply wouldn't think about work-related matters at all
+
+01:15:05.190 --> 01:15:06.291
+ok I thought
+
+01:15:06.291 --> 01:15:07.291
+Relax
+
+01:15:07.291 --> 01:15:08.091
+Because everyone just
+
+01:15:08.091 --> 01:15:09.691
+You might have a companion to chat with
+
+01:15:09.691 --> 01:15:10.391
+And then
+
+01:15:10.391 --> 01:15:13.725
+Play some ball while having a beer
+
+01:15:13.725 --> 01:15:14.725
+It's really comfortable
+
+01:15:14.725 --> 01:15:16.025
+Indeed
+
+01:15:16.025 --> 01:15:18.026
+The pressure at work is already overwhelming enough
+
+01:15:18.026 --> 01:15:19.293
+There's no need
+
+01:15:20.126 --> 01:15:21.793
+Dune is truly a beautiful film
+
+01:15:21.793 --> 01:15:22.560
+Especially when you're
+
+01:15:22.560 --> 01:15:24.827
+I actually watched it on a plane
+
+01:15:24.827 --> 01:15:26.294
+And it was in economy class
+
+01:15:26.294 --> 01:15:28.227
+I looked at the screen and thought
+
+01:15:28.227 --> 01:15:29.294
+My god, this screen is so terrible
+
+01:15:29.294 --> 01:15:30.861
+The visuals are already so stunning
+
+01:15:30.861 --> 01:15:32.294
+I can only imagine how much more impressive it would be
+
+01:15:32.294 --> 01:15:33.461
+on a bigger screen
+
+01:15:33.461 --> 01:15:35.128
+or in a better viewing environment
+
+01:15:35.128 --> 01:15:36.128
+Yes
+
+01:15:36.428 --> 01:15:39.596
+Did the AI recommend any books?
+
+01:15:39.596 --> 01:15:41.296
+What do you think I should read?
+
+01:15:41.296 --> 01:15:42.463
+Works related to AI
+
+01:15:42.463 --> 01:15:44.496
+I'm quite interested
+
+01:15:44.496 --> 01:15:45.496
+Looking forward to
+
+01:15:45.496 --> 01:15:47.697
+I only recently learned about Taiwan
+
+01:15:47.697 --> 01:15:48.930
+Over the past dozen months or so
+
+01:15:48.930 --> 01:15:51.031
+Actually talking about that Zhang Zhimou
+
+01:15:51.031 --> 01:15:53.864
+Biography of Morris Chang
+
+01:15:53.864 --> 01:15:55.531
+I'm quite interested in
+
+01:15:55.531 --> 01:15:56.531
+buying a few copies to read
+
+01:15:56.531 --> 01:15:57.298
+you
+
+01:15:58.298 --> 01:16:00.299
+I heard there's a part one and part two, right?
+
+01:16:00.299 --> 01:16:01.899
+Part one was released a long time ago
+
+01:16:01.899 --> 01:16:03.866
+And part two was just recently released
+
+01:16:03.866 --> 01:16:05.833
+But it seems there isn't an English version yet
+
+01:16:05.833 --> 01:16:07.266
+It seems it's still only available in Chinese version
+
+01:16:07.266 --> 01:16:08.433
+Chinese version is fine
+
+01:16:08.433 --> 01:16:09.300
+I can read Chinese just fine
+
+01:16:09.300 --> 01:16:10.300
+Oh, I see, OK
+
+01:16:11.800 --> 01:16:12.300
+Okay
+
+01:16:12.300 --> 01:16:14.301
+Then finally, let me ask you to share
+
+01:16:14.301 --> 01:16:15.967
+how you've been using AI recently
+
+01:16:16.634 --> 01:16:17.934
+any tips
+
+01:16:17.934 --> 01:16:19.301
+or one thing you frequently use
+
+01:16:19.301 --> 01:16:20.835
+What can you use it for?
+
+01:16:20.835 --> 01:16:22.402
+I've been doing it a lot recently
+
+01:16:22.402 --> 01:16:25.436
+Let me give you a very interesting recent example
+
+01:16:25.436 --> 01:16:26.402
+You can't use this
+
+01:16:27.302 --> 01:16:29.303
+I recently used it once
+
+01:16:29.303 --> 01:16:31.136
+A particularly interesting scenario
+
+01:16:31.136 --> 01:16:31.836
+was
+
+01:16:32.870 --> 01:16:36.904
+I recently went to Sydney for a meeting
+
+01:16:36.904 --> 01:16:38.304
+Then we just talked about
+
+01:16:38.304 --> 01:16:39.304
+I like playing golf
+
+01:16:39.304 --> 01:16:40.138
+And Sydney
+
+01:16:40.138 --> 01:16:41.305
+happens to be a harbor city
+
+01:16:41.305 --> 01:16:42.071
+Yes
+
+01:16:42.071 --> 01:16:44.072
+So I knew that in Sydney
+
+01:16:44.072 --> 01:16:47.305
+and there have been some really amazing players who came from there
+
+01:16:47.305 --> 01:16:48.839
+so I thought to myself, I'm going to Sydney
+
+01:16:48.839 --> 01:16:51.306
+no matter what, I have to go play a game there
+
+01:16:51.739 --> 01:16:54.073
+But before I go, I need to do some research
+
+01:16:54.073 --> 01:16:57.307
+Because there are many different types of golf courses
+
+01:16:57.307 --> 01:16:58.307
+Some are by the seaside
+
+01:16:58.307 --> 01:16:59.807
+Some are not by the seaside
+
+01:16:59.807 --> 01:17:02.008
+There are some places where you can play ball with kangaroos
+
+01:17:02.008 --> 01:17:07.175
+And then there are some courts that are private
+
+01:17:07.175 --> 01:17:07.842
+You can't enter
+
+01:17:07.842 --> 01:17:10.042
+Only club members are allowed to enter
+
+01:17:10.042 --> 01:17:11.209
+Some are open
+
+01:17:11.209 --> 01:17:13.276
+Then different prices at different times
+
+01:17:13.276 --> 01:17:15.143
+And there's also the issue of availability
+
+01:17:15.143 --> 01:17:16.143
+I'll just ask Gemini directly
+
+01:17:16.143 --> 01:17:17.977
+Do deep research for me
+
+01:17:17.977 --> 01:17:20.644
+I said I would be in Sydney's downtown
+
+01:17:20.644 --> 01:17:22.777
+I have a few free days
+
+01:17:22.777 --> 01:17:24.678
+I want to play a game of basketball
+
+01:17:24.678 --> 01:17:27.478
+Then I hope to be able to play ball by the seaside
+
+01:17:27.478 --> 01:17:28.845
+Can you tell me
+
+01:17:28.845 --> 01:17:30.112
+How long is the driving time
+
+01:17:30.112 --> 01:17:32.045
+Do they have rental clubs
+
+01:17:32.045 --> 01:17:33.679
+And how much does it cost?
+
+01:17:33.679 --> 01:17:35.579
+And which day is available?
+
+01:17:35.579 --> 01:17:36.979
+Do it completely for me
+
+01:17:37.713 --> 01:17:38.646
+So everything went smoothly for you too
+
+01:17:38.646 --> 01:17:40.813
+A report comes out, ten to twenty pages long
+
+01:17:40.813 --> 01:17:42.313
+How about this stadium
+
+01:17:42.313 --> 01:17:43.314
+What do you think of this stadium
+
+01:17:43.314 --> 01:17:44.480
+What's the evaluation like
+
+01:17:44.480 --> 01:17:45.481
+Can do it all
+
+01:17:46.181 --> 01:17:47.781
+Just like a personal assistant
+
+01:17:47.781 --> 01:17:49.248
+Actually played that game
+
+01:17:49.781 --> 01:17:52.648
+And was very happy
+
+01:17:52.648 --> 01:17:54.382
+Having a great time playing
+
+01:17:54.382 --> 01:17:56.716
+OK this was an awesome experience
+
+01:17:56.716 --> 01:17:58.282
+Because sometimes in the past
+
+01:17:58.282 --> 01:18:00.049
+For example two years ago I might have used this feature
+
+01:18:00.049 --> 01:18:01.516
+I still think it might have
+
+01:18:01.516 --> 01:18:02.416
+That's OpenAI
+
+01:18:02.416 --> 01:18:04.217
+OpenAI is still hallucinating
+
+01:18:04.217 --> 01:18:06.284
+It's just giving you a bunch of fake stuff
+
+01:18:06.284 --> 01:18:07.517
+It uses brute force
+
+01:18:07.517 --> 01:18:08.284
+Yeah
+
+01:18:08.284 --> 01:18:11.751
+But now with Gemini's deep research
+
+01:18:11.751 --> 01:18:14.285
+It has added these internet-connected data capabilities
+
+01:18:14.285 --> 01:18:17.419
+So the accuracy has greatly improved
+
+01:18:17.419 --> 01:18:20.052
+I've also used Gemini's deep research
+
+01:18:20.052 --> 01:18:23.086
+To do things like paper analysis
+
+01:18:23.086 --> 01:18:25.020
+It performs exceptionally well
+
+01:18:25.020 --> 01:18:27.987
+So now I feel many of these tasks
+
+01:18:27.987 --> 01:18:29.954
+that used to be very tedious
+
+01:18:29.954 --> 01:18:34.054
+are now being handled by online bots for you
+
+01:18:34.054 --> 01:18:37.288
+Well, thank you Dr. Ji Huaixin for sharing so much with us today
+
+01:18:37.288 --> 01:18:38.255
+Thank you for coming
+
+01:18:38.255 --> 01:18:39.755
+Thank you
+
+01:18:39.755 --> 01:18:41.089
+Goodbye
+

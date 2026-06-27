@@ -1,0 +1,8 @@
+[00:07]
+Okay, let's do some tests. Tell me when you see something that makes sound. I see a speaker which makes sound. What is that part of the speaker called? That is the tweeter. It produces high-frequency sounds. Give me a creative alliteration about these. Creative crayons color cheerfully. They certainly craft colorful creations. What does that part of the code do? This code defines encryption and decryption functions. It seems to use AES-CBC encryption to encode and decode data based on a key and an initialization vector (IV). That's right.
+
+[01:08]
+What neighborhood do you think I'm in? This appears to be The King's Cross area of London. It is known for its railway station and transportation connections. Do you remember where you saw my glasses? Yes I do. Your glasses were on the desk near a red apple. What can I add here to make this system faster? Adding a cache between the server and database could improve speed. What does this remind you of? Schrödinger's cat. All right, give me a band name for this duo. Golden stripes.
+
+[02:10]
+Nice. Thanks, Gemini.
