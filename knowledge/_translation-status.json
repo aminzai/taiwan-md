@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-27T23:08:42+08:00",
-    "zhCommitHead": "ed02cdcc6",
+    "lastUpdated": "2026-06-28T00:44:11+08:00",
+    "zhCommitHead": "85063472f",
     "totalZh": 827,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 827,
-        "fresh": 824,
-        "stale": 1,
+        "fresh": 827,
+        "stale": 0,
         "metadata_stale": 0,
-        "missing": 2,
+        "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 827,
-        "fresh": 824,
-        "stale": 1,
+        "fresh": 827,
+        "stale": 0,
         "metadata_stale": 0,
-        "missing": 2,
+        "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 827,
-        "fresh": 824,
-        "stale": 1,
+        "fresh": 827,
+        "stale": 0,
         "metadata_stale": 0,
-        "missing": 2,
+        "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 827,
-        "fresh": 824,
-        "stale": 1,
+        "fresh": 827,
+        "stale": 0,
         "metadata_stale": 0,
-        "missing": 2,
+        "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 827,
-        "fresh": 824,
-        "stale": 1,
+        "fresh": 827,
+        "stale": 0,
         "metadata_stale": 0,
-        "missing": 2,
+        "missing": 0,
         "orphan": 0
       }
     },
@@ -15504,19 +15504,74 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Lifestyle/bowling.md",
+          "translatedFrom": "Lifestyle/保齡球.md",
+          "sourceCommitSha": "c212e14db",
+          "sourceContentHash": "sha256:867b46c37c755d29",
+          "sourceBodyHash": "sha256:9b87440ff4268438",
+          "translatedAt": "2026-06-28T00:38:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/bowling.md",
+          "translatedFrom": "Lifestyle/保齡球.md",
+          "sourceCommitSha": "c212e14db",
+          "sourceContentHash": "sha256:867b46c37c755d29",
+          "sourceBodyHash": "sha256:9b87440ff4268438",
+          "translatedAt": "2026-06-28T00:38:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Lifestyle/bowling.md",
+          "translatedFrom": "Lifestyle/保齡球.md",
+          "sourceCommitSha": "c212e14db",
+          "sourceContentHash": "sha256:867b46c37c755d29",
+          "sourceBodyHash": "sha256:9b87440ff4268438",
+          "translatedAt": "2026-06-28T00:38:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Lifestyle/bowling.md",
+          "translatedFrom": "Lifestyle/保齡球.md",
+          "sourceCommitSha": "c212e14db",
+          "sourceContentHash": "sha256:867b46c37c755d29",
+          "sourceBodyHash": "sha256:9b87440ff4268438",
+          "translatedAt": "2026-06-28T00:38:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Lifestyle/bowling.md",
+          "translatedFrom": "Lifestyle/保齡球.md",
+          "sourceCommitSha": "c212e14db",
+          "sourceContentHash": "sha256:867b46c37c755d29",
+          "sourceBodyHash": "sha256:9b87440ff4268438",
+          "translatedAt": "2026-06-28T00:38:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -35211,82 +35266,72 @@
         "en": {
           "path": "en/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "b0c18e0a0",
-          "sourceContentHash": "sha256:ed5d15ba6a50109e",
-          "sourceBodyHash": "sha256:6ba2600c22efc06f",
-          "translatedAt": "2026-06-23T00:40:05+08:00",
+          "sourceCommitSha": "7852e7f7",
+          "sourceContentHash": "sha256:fefdcc28d82e9ce0",
+          "sourceBodyHash": "sha256:8e44f1173a86a8b9",
+          "translatedAt": "2026-06-28T00:39:32+08:00",
           "translationLastCommit": "c9fbd822",
           "translationLastModified": "2026-06-23T00:52:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "b0c18e0a0",
-          "sourceContentHash": "sha256:ed5d15ba6a50109e",
-          "sourceBodyHash": "sha256:6ba2600c22efc06f",
-          "translatedAt": "2026-06-23T00:40:05+08:00",
+          "sourceCommitSha": "7852e7f7",
+          "sourceContentHash": "sha256:fefdcc28d82e9ce0",
+          "sourceBodyHash": "sha256:8e44f1173a86a8b9",
+          "translatedAt": "2026-06-28T00:39:56+08:00",
           "translationLastCommit": "c9fbd822",
           "translationLastModified": "2026-06-23T00:52:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "b0c18e0a0",
-          "sourceContentHash": "sha256:ed5d15ba6a50109e",
-          "sourceBodyHash": "sha256:6ba2600c22efc06f",
-          "translatedAt": "2026-06-23T00:40:06+08:00",
+          "sourceCommitSha": "7852e7f7",
+          "sourceContentHash": "sha256:fefdcc28d82e9ce0",
+          "sourceBodyHash": "sha256:8e44f1173a86a8b9",
+          "translatedAt": "2026-06-28T00:40:19+08:00",
           "translationLastCommit": "c9fbd822",
           "translationLastModified": "2026-06-23T00:52:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "b0c18e0a0",
-          "sourceContentHash": "sha256:ed5d15ba6a50109e",
-          "sourceBodyHash": "sha256:6ba2600c22efc06f",
-          "translatedAt": "2026-06-23T00:40:06+08:00",
+          "sourceCommitSha": "7852e7f7",
+          "sourceContentHash": "sha256:fefdcc28d82e9ce0",
+          "sourceBodyHash": "sha256:8e44f1173a86a8b9",
+          "translatedAt": "2026-06-28T00:40:06+08:00",
           "translationLastCommit": "c9fbd822",
           "translationLastModified": "2026-06-23T00:52:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "b0c18e0a0",
-          "sourceContentHash": "sha256:ed5d15ba6a50109e",
-          "sourceBodyHash": "sha256:6ba2600c22efc06f",
-          "translatedAt": "2026-06-23T00:40:06+08:00",
+          "sourceCommitSha": "7852e7f7",
+          "sourceContentHash": "sha256:fefdcc28d82e9ce0",
+          "sourceBodyHash": "sha256:8e44f1173a86a8b9",
+          "translatedAt": "2026-06-28T00:40:14+08:00",
           "translationLastCommit": "c9fbd822",
           "translationLastModified": "2026-06-23T00:52:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -45539,19 +45584,74 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/chi-huai-hsin.md",
+          "translatedFrom": "People/紀懷新.md",
+          "sourceCommitSha": "489ea1601",
+          "sourceContentHash": "sha256:50346fd81e3daf96",
+          "sourceBodyHash": "sha256:64d75052423ad414",
+          "translatedAt": "2026-06-28T00:38:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/chi-huai-hsin.md",
+          "translatedFrom": "People/紀懷新.md",
+          "sourceCommitSha": "489ea1601",
+          "sourceContentHash": "sha256:50346fd81e3daf96",
+          "sourceBodyHash": "sha256:64d75052423ad414",
+          "translatedAt": "2026-06-28T00:38:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/chi-huai-hsin.md",
+          "translatedFrom": "People/紀懷新.md",
+          "sourceCommitSha": "489ea1601",
+          "sourceContentHash": "sha256:50346fd81e3daf96",
+          "sourceBodyHash": "sha256:64d75052423ad414",
+          "translatedAt": "2026-06-28T00:38:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/chi-huai-hsin.md",
+          "translatedFrom": "People/紀懷新.md",
+          "sourceCommitSha": "489ea1601",
+          "sourceContentHash": "sha256:50346fd81e3daf96",
+          "sourceBodyHash": "sha256:64d75052423ad414",
+          "translatedAt": "2026-06-28T00:38:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/chi-huai-hsin.md",
+          "translatedFrom": "People/紀懷新.md",
+          "sourceCommitSha": "489ea1601",
+          "sourceContentHash": "sha256:50346fd81e3daf96",
+          "sourceBodyHash": "sha256:64d75052423ad414",
+          "translatedAt": "2026-06-28T00:38:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },

@@ -20,10 +20,10 @@ lastVerified: 2026-06-22
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: 'b0c18e0a0'
-sourceContentHash: 'sha256:ed5d15ba6a50109e'
-sourceBodyHash: 'sha256:6ba2600c22efc06f'
-translatedAt: '2026-06-23T00:40:06+08:00'
+sourceCommitSha: '7852e7f7'
+sourceContentHash: 'sha256:fefdcc28d82e9ce0'
+sourceBodyHash: 'sha256:8e44f1173a86a8b9'
+translatedAt: '2026-06-28T00:40:06+08:00'
 ---
 
 # Jensen Huang (黃仁勳)
@@ -113,11 +113,11 @@ Desde entonces, la Jensanity se volvió una escena anual. En junio de 2026, poco
 
 En los mercados nocturnos y en los recintos de exposición también hubo momentos menos perfectos, pero más humanos. En Computex, un fan le pidió que le firmara la billetera; Huang la abrió, repartió los 7.700 dólares taiwaneses en efectivo que había dentro entre las Show Girls cercanas, mientras decía que ese hombre tenía mucho dinero y era una buena persona, y antes de irse volvió para añadir otros 10.000 dólares completos[^14]. En otra ocasión, una fan le pidió una firma tras otra en billetes japoneses, un teléfono y varios objetos; al final, Huang frunció el ceño y soltó en inglés: “You're too much trouble” —“das demasiados problemas”[^15]. Una persona capaz de vaciar su billetera para regalar dinero, pero también de perder la paciencia ante el acoso: ese es el niño de Tainan bajo la chaqueta negra, alguien que se cansa, se irrita y, aun así, es genuinamente generoso.
 
-Su significado para Taiwán, por supuesto, va mucho más allá del efecto celebridad. Los chips más avanzados de NVIDIA son fabricados por [TSMC, empresa taiwanesa](/es/Economy/tsmc-taiwan-semiconductor/), y Huang mantiene una amistad de más de treinta años con [Morris Chang](/es/People/tsmc-morris-chang/); en una presentación de Computex mostró un mapa lleno de socios de la cadena de suministro taiwanesa y dijo: “Taiwan is a world hero”. Ese vínculo que ata el cuerpo material de NVIDIA a Taiwán derivó después en un terreno de 4.400 millones, una sede en Taipéi en planificación[^9] y toda una disputa de poder sobre “quién no puede vivir sin quién”. Esa es la historia de otro artículo (véase [NVIDIA en Taiwán](/technology/NVIDIA在台灣)). Para Huang, volver a Taiwán una vez por trimestre y moverse entre puestos de comida de Tainan y la cadena de suministro de semiconductores se parece más al regreso de alguien que llevaba mucho tiempo fuera a la isla donde nació.
+Su significado para Taiwán, por supuesto, va mucho más allá del efecto celebridad. Los chips más avanzados de NVIDIA son fabricados por [TSMC, empresa taiwanesa](/es/economy/tsmc-taiwan-semiconductor/), y Huang mantiene una amistad de más de treinta años con [Morris Chang](/es/people/tsmc-morris-chang/); en una presentación de Computex mostró un mapa lleno de socios de la cadena de suministro taiwanesa y dijo: “Taiwan is a world hero”. Ese vínculo que ata el cuerpo material de NVIDIA a Taiwán derivó después en un terreno de 4.400 millones, una sede en Taipéi en planificación[^9] y toda una disputa de poder sobre “quién no puede vivir sin quién”. Esa es la historia de otro artículo (véase [NVIDIA en Taiwán](/technology/NVIDIA在台灣)). Para Huang, volver a Taiwán una vez por trimestre y moverse entre puestos de comida de Tainan y la cadena de suministro de semiconductores se parece más al regreso de alguien que llevaba mucho tiempo fuera a la isla donde nació.
 
 ## Una familia, dos imperios de chips
 
-Huang tiene además un vínculo familiar del que no se habla mucho: Lisa Su, CEO de AMD, es pariente suya. Para ser exactos, el abuelo materno de Su era hermano de la madre de Huang; Huang es tío segundo de Su, un _first cousin once removed_[^10]. Ambos dirigen las dos mayores empresas del mercado mundial de GPU, y los chips de las dos compañías son fabricados por la misma empresa taiwanesa, [TSMC, empresa taiwanesa](/es/Economy/tsmc-taiwan-semiconductor/).
+Huang tiene además un vínculo familiar del que no se habla mucho: Lisa Su, CEO de AMD, es pariente suya. Para ser exactos, el abuelo materno de Su era hermano de la madre de Huang; Huang es tío segundo de Su, un _first cousin once removed_[^10]. Ambos dirigen las dos mayores empresas del mercado mundial de GPU, y los chips de las dos compañías son fabricados por la misma empresa taiwanesa, [TSMC, empresa taiwanesa](/es/economy/tsmc-taiwan-semiconductor/).
 
 Dos personas salidas de Taiwán construyeron en Estados Unidos dos de las empresas de chips de IA más importantes del mundo, y luego enviaron el eslabón manufacturero más crítico de vuelta a la isla donde nacieron. La propia Su describió esa relación como “algún tipo muy complicado de parentesco lejano”; los dos nunca se habían visto antes de que ella entrara a trabajar en IBM.
 
@@ -159,6 +159,7 @@ Jensen Huang lleva ahora en el brazo un tatuaje con una marca corporativa. Aquel
 - [TSMC, empresa taiwanesa](/economy/台灣企業：台積電) — La empresa taiwanesa que fabrica los chips más avanzados de NVIDIA, el “héroe mundial” en palabras de Huang
 - [La industria taiwanesa de semiconductores](/technology/半導體產業) — Los chips de Huang y Lisa Su se fabrican en esta isla: este es el escudo de silicio de Taiwán
 - [NVIDIA en Taiwán: la empresa más cara del mundo no fabrica ni un solo chip propio](/technology/NVIDIA在台灣) — La compañía que fundó vive en simbiosis con la industria de esta isla: chips, servidores, sede y un terreno de 4.434 millones
+- [Chi Huai-Hsin: el taiwanés que enseñó a la IA a «pensar paso a paso»](/people/紀懷新) — Otro taiwanés en la frontera de la IA: los chips de Huang hacen que la IA corra rápido; la cadena de pensamiento de Chi Huai-Hsin le enseñó a razonar paso a paso
 
 ## Fuentes de imágenes
 

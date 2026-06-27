@@ -20,10 +20,10 @@ lastVerified: 2026-06-22
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: 'b0c18e0a0'
-sourceContentHash: 'sha256:ed5d15ba6a50109e'
-sourceBodyHash: 'sha256:6ba2600c22efc06f'
-translatedAt: '2026-06-23T00:40:06+08:00'
+sourceCommitSha: '7852e7f7'
+sourceContentHash: 'sha256:fefdcc28d82e9ce0'
+sourceBodyHash: 'sha256:8e44f1173a86a8b9'
+translatedAt: '2026-06-28T00:40:14+08:00'
 ---
 
 # Jensen Huang
@@ -113,11 +113,11 @@ La Jensanity devient ensuite un spectacle annuel. À la veille de son départ de
 
 Dans les marchés de nuit comme sur les salons, il y a aussi des moments moins parfaits, mais plus humains. Au Computex, un fan lui demande de signer son portefeuille ; Jensen Huang l'ouvre, distribue les 7 700 dollars taïwanais en liquide qu'il contient aux Show Girls à côté de lui, en disant que cet homme est riche et gentil, puis revient avant de partir pour ajouter exactement 10 000 dollars taïwanais[^14]. Une autre fois, une fan lui tend successivement des billets en yens, un téléphone et d'autres objets à signer ; à la fin, il fronce les sourcils et lâche en anglais : « You're too much trouble » (« Vous êtes trop pénible »)[^15]. Quelqu'un qui vide son portefeuille pour le donner à d'autres, mais qui peut aussi perdre patience quand on l'accapare : voilà le gamin de Tainan sous le blouson noir, capable de fatigue, d'agacement, mais aussi d'une générosité réelle.
 
-Son importance pour Taïwan dépasse évidemment l'effet de célébrité. Les puces les plus avancées de NVIDIA sont fabriquées par [TSMC, entreprise taïwanaise](/fr/Economy/tsmc-taiwan-semiconductor/) ; Jensen Huang entretient avec [Morris Chang](/fr/People/tsmc-morris-chang/) une amitié de plus de trente ans. Dans une conférence au Computex, il affiche une carte couverte de partenaires taïwanais de la chaîne d'approvisionnement et déclare : « Taiwan is a world hero. » Ce lien qui attache le corps industriel de NVIDIA à Taïwan débouchera plus tard sur un terrain de 4,4 milliards de dollars taïwanais, un siège prévu à Taipei[^9] et tout un jeu de rapports de force autour de la question : « qui ne peut pas se passer de qui ? » C'est l'histoire d'un autre article (voir [NVIDIA à Taïwan](/technology/NVIDIA在台灣)). Pour Jensen Huang lui-même, revenir à Taïwan chaque trimestre, circuler entre les stands de spécialités de Tainan et la chaîne d'approvisionnement des semi-conducteurs ressemble davantage au retour d'une personne longtemps partie vers l'île où elle est née.
+Son importance pour Taïwan dépasse évidemment l'effet de célébrité. Les puces les plus avancées de NVIDIA sont fabriquées par [TSMC, entreprise taïwanaise](/fr/economy/tsmc-taiwan-semiconductor/) ; Jensen Huang entretient avec [Morris Chang](/fr/people/tsmc-morris-chang/) une amitié de plus de trente ans. Dans une conférence au Computex, il affiche une carte couverte de partenaires taïwanais de la chaîne d'approvisionnement et déclare : « Taiwan is a world hero. » Ce lien qui attache le corps industriel de NVIDIA à Taïwan débouchera plus tard sur un terrain de 4,4 milliards de dollars taïwanais, un siège prévu à Taipei[^9] et tout un jeu de rapports de force autour de la question : « qui ne peut pas se passer de qui ? » C'est l'histoire d'un autre article (voir [NVIDIA à Taïwan](/technology/NVIDIA在台灣)). Pour Jensen Huang lui-même, revenir à Taïwan chaque trimestre, circuler entre les stands de spécialités de Tainan et la chaîne d'approvisionnement des semi-conducteurs ressemble davantage au retour d'une personne longtemps partie vers l'île où elle est née.
 
 ## Une famille, deux empires de puces
 
-Jensen Huang a aussi un lien familial dont on parle rarement : Lisa Su, PDG d'AMD, est sa parente. Plus précisément, le grand-père maternel de Lisa Su était le frère de la mère de Jensen Huang ; Jensen Huang est donc son cousin issu de germain d'une génération ascendante, en anglais _first cousin once removed_[^10]. Tous deux dirigent les deux premières entreprises du marché mondial des GPU, et les puces de leurs deux sociétés sont fabriquées par la même entreprise taïwanaise, [TSMC, entreprise taïwanaise](/fr/Economy/tsmc-taiwan-semiconductor/).
+Jensen Huang a aussi un lien familial dont on parle rarement : Lisa Su, PDG d'AMD, est sa parente. Plus précisément, le grand-père maternel de Lisa Su était le frère de la mère de Jensen Huang ; Jensen Huang est donc son cousin issu de germain d'une génération ascendante, en anglais _first cousin once removed_[^10]. Tous deux dirigent les deux premières entreprises du marché mondial des GPU, et les puces de leurs deux sociétés sont fabriquées par la même entreprise taïwanaise, [TSMC, entreprise taïwanaise](/fr/economy/tsmc-taiwan-semiconductor/).
 
 Deux personnes venues de Taïwan ont bâti aux États-Unis les deux plus importantes entreprises mondiales de puces pour l'IA, puis ont renvoyé l'étape de fabrication la plus cruciale vers l'île où elles sont nées. Lisa Su décrit elle-même cette relation comme « un lien de parenté éloigné assez complexe » ; les deux ne s'étaient jamais rencontrés avant son entrée chez IBM.
 
@@ -159,6 +159,7 @@ Le bras de Jensen Huang porte désormais le tatouage d'une marque d'entreprise. 
 - [TSMC, entreprise taïwanaise](/economy/台灣企業：台積電) — l'entreprise taïwanaise qui fabrique les puces les plus avancées de NVIDIA, le « héros mondial » selon Jensen Huang
 - [L'industrie taïwanaise des semi-conducteurs](/technology/半導體產業) — les puces de Jensen Huang comme celles de Lisa Su sont fabriquées sur cette île : c'est le bouclier de silicium de Taïwan
 - [NVIDIA à Taïwan : l'entreprise la plus chère du monde ne fabrique elle-même aucune puce](/technology/NVIDIA在台灣) — l'entreprise qu'il a fondée vit en symbiose avec l'industrie de cette île : puces, serveurs, siège, et un terrain à 4,434 milliards de dollars taïwanais
+- [Chi Huai-Hsin : le Taïwanais qui a appris à l'IA à « réfléchir étape par étape »](/people/紀懷新) — Un autre Taïwanais à la pointe de l'IA : les puces de Huang font tourner l'IA vite ; la chaîne de pensée de Chi Huai-Hsin lui a appris à raisonner pas à pas
 
 ## Sources des images
 
