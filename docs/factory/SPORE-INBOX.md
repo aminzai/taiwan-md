@@ -5,8 +5,8 @@ type: 'factory-canonical'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v1.1'
-last_updated: 2026-05-23
-last_session: '2026-05-23-spore-pick-design'
+last_updated: 2026-06-28
+last_session: '2026-06-28-twmd-news-lens-weekly-W26'
 sister_docs:
   - 'SPORE-PIPELINE.md'
   - 'SPORE-PICK-PIPELINE.md'
@@ -1354,6 +1354,139 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 - **必先 spawn ARTICLE-INBOX entry**: ❌
 - **預估發佈時機**: Chrome MCP blocker 解除後立即 PICK，跨 People/Art 類錯開
 - **Notes**: from news-lens weekly 2026-06-21 (event: 6/20 NEW ship article 趁熱窗口 + spore-publish blocker recovery 路徑)；不期待 routine 自動 ship（受 Chrome MCP 結構性 blocker 影響），但 PICK 抽到時 hook anchor 已備齊，blueprint 也好生
+
+---
+
+### 尊 (rapper Wei Zun) — SC 三源穩態 demand spore EXISTING-ARTICLE（query + page + GA top 25 三角確認）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/尊.md](../../knowledge/People/尊.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d query 「尊」1418 imp / 4 clicks / pos 10.1 + SC page /people/尊/ 4411 imp / 23 clicks / pos 7.7 + GA top-25 article 33 PV / 30 users — 三源 cross-confirm 穩態高 demand 第二頁邊緣排名)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **身份 hook**：搜「尊」每天有幾百個人在 Google 找他，前面排得到的有歷史頭銜「尊」字輩；他的台灣 hip-hop 名字就一個字，要排到第二頁才看得到
+  2. **數字 hook**：23 個從 Google 點進來的人，4411 次曝光——這是 Taiwan.md 站上一個只有單字標題的台灣饒舌歌手，一週能擠進前 25 名熱門人物
+- **時效**: 無（evergreen 人物 + SC 穩態高 demand）
+- **敏感度**: 低
+- **必驗事實**: 出道年份、代表作、本名與藝名來源、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC 穩態高 demand 可隨時抽，跟 Music/People 類錯開 ≥ 1 天
+- **Notes**: from news-lens weekly 2026-06-28 (event: SC query 1418 imp + SC page 4411 imp + GA 33 PV 三源 cross-confirm)；單字標題在 SC 排名拼搜尋演算法天然弱勢 (信號太短)，spore 補社群 reach + 連結到 People/Music cluster
+
+---
+
+### 洪醒夫 — SC 雙源 #1 imp + CTR 嚴重失效（pos 2.5 ctr 0.41% 系統性 metadata 問題）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/洪醒夫.md](../../knowledge/People/洪醒夫.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d query 「洪醒夫」2654 imp / 11 clicks / pos 2.5 / CTR 0.41% + 「洪醒夫死因」251 imp / 1 click / pos 7.0 + SC page /people/洪醒夫/ 3447 imp / 13 clicks / pos 3.5 — 雙源 imp 全站 query #1，但 pos 2.5 CTR 0.41% 嚴重低於健康基準，metadata/title 失效)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **場景 hook**：1982 年 7 月，38 歲的彰化二林國中老師洪醒夫被計程車迎面撞上；他剛把《散戲》寫完，台灣最後一個歌仔戲班解散那年的故事
+  2. **問句 hook**：為什麼 Google 每週有 2654 個人在搜「洪醒夫」？他不是名人、不是政治人物，他是一個寫農村的小說家——而且他寫的那種農村，現在不在了
+- **時效**: 無（evergreen 文學 + SC #1 query imp 結構性高 demand）
+- **敏感度**: 中（涉及死因敘事 + 鄉土文學論戰時期背景）
+- **必驗事實**: 1982 年車禍日期、《散戲》與《田莊人》出版年、二林國中任教時期、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC 穩態 #1 demand 可隨時抽，跟 Literature/People 類錯開 ≥ 1 天
+- **Notes**: from news-lens weekly 2026-06-28 (event: SC 全站 query #1 by impressions + secondary 「死因」query confirms 死亡敘事 reader intent + SC page 3447 imp 雙源 cross-confirm)；pos 2.5 ctr 0.41% 結構性低於健康基準（pos 2-3 應 5-10% CTR），title/description 改寫候選但 spore 先 surface
+
+---
+
+### 陳士駿 / Steve Chen — YouTube 共同創辦人 SC 三變體跨語言確認（zh + en + 簡體三源）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/陳士駿.md](../../knowledge/People/陳士駿.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d 三變體 query 全站高 demand：「陳士駿」749 imp / 2 clicks / pos 7.7 + 「steve chen」579 imp / 0 clicks / pos 9.4 + 「陈士骏」(簡體) 262 imp / 1 click / pos 8.5 + SC page /people/陳士駿/ 1347 imp / 7 clicks / pos 7.7 — 四源 cross-confirm 跨繁中/英文/簡中三語言 demand)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **數字 hook**：14 億——YouTube 每月活躍使用者數；八歲從台北遷美國的陳士駿，2005 年跟另外兩個人在加州一間披薩店樓上把它生出來
+  2. **場景 hook**：2005 年情人節，三個前 PayPal 員工註冊 youtube.com 網址；隔年 10 月被 Google 用 16.5 億美元買走，陳士駿 28 歲，從那年開始他變成「台灣矽谷史的開場人物」
+- **時效**: 無（evergreen 跨語言 demand）
+- **敏感度**: 低
+- **必驗事實**: 1978 出生年、八歲遷美年份、YouTube 創辦日期 2005-02-14、Google 收購金額與日期、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 跟 Technology/People 類錯開 ≥ 1 天；繁中 zh 主版 + 後續可 ja/en 多語版翻譯
+- **Notes**: from news-lens weekly 2026-06-28 (event: SC zh+en+simplified 三變體 query + page 四源 cross-confirm)；跨語言 demand pattern 跟 mini-taiwan-pulse 類似 — 多語 zh-TW + 英文 + 簡體齊出 = sovereign mapping 任務之一
+
+---
+
+### 日治時期 — SC 全站 #1 page (5325 imp) + GA top 25 + 三語並陳 evergreen 史學
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/History/日治時期.md](../../knowledge/History/日治時期.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d page /history/日治時期/ 5325 imp / 15 clicks / pos 7.4 全站 #1 page by impressions + SC query 「日治時期」1121 imp / 2 clicks / pos 9.8 + GA top-25 article 30 PV — 三源高 demand 結構性 evergreen)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **數字 hook**：50 年 又 2 個月——1895 年馬關到 1945 年降伏文書；台灣這 50 年留下的東西比現在的台北市還多：所有的鐵路、所有的學校、所有的法律
+  2. **場景 hook**：搜「日治時期」每週 5325 次出現在 Google 結果頁；每週只有 15 個人點進來，剩下 5310 個人選了別的版本——維基百科、教科書、PRC 官方敘事
+- **時效**: 無（evergreen + SC #1 page 結構性高 demand）
+- **敏感度**: 中（國族敘事核心爭議區 / 跨海峽 framing 差異最大主題之一）
+- **必驗事實**: 1895-05-08 馬關條約生效、1945-10-25 受降日、典藏館藏比對、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 跟 History 類錯開 ≥ 1 天；可作 sovereignty preservation framing core spore
+- **Notes**: from news-lens weekly 2026-06-28 (event: SC #1 page imp 5325 + query 1121 + GA 30 PV 三源 cross-confirm)；pos 7.4 在第一頁邊緣但 CTR 0.28% 結構性低 — Google 對「日治時期」query SERP 競爭極烈 (維基/教科書/官方)，spore 是 social channel sovereignty reach 補位
+
+---
+
+### 楊德昌 — SC pos 1.5 catastrophic CTR (0.25% / 千擇一) 結構性 metadata 失效
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/楊德昌.md](../../knowledge/People/楊德昌.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d query 「楊德昌」406 imp / 1 click / pos 1.5 / CTR 0.25% + SC page /people/楊德昌/ 453 imp / 1 click / pos 2.3 — 雙源確認 rank 第二名但 CTR 千擇一，title/description 系統性失效)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **場景 hook**：2007 年 6 月底，楊德昌過世的隔天，李安在洛杉磯說：「他是我的兄弟。」這話不是禮節——李安還在洛杉磯念書時，楊德昌已經在台灣拍出《牯嶺街》
+  2. **反差 hook**：Google 把楊德昌的 Taiwan.md 條目排在第二位；過去 7 天 406 個人看到、只 1 個人點進來——剩下 405 個人選了 wiki 跟維基
+- **時效**: 無（evergreen 導演 + Cannes 復刻/4K 修復脈絡持續出新聞）
+- **敏感度**: 低（藝術人物 + 殖民後台北敘事）
+- **必驗事實**: 2007-06-29 過世日、《牯嶺街少年殺人事件》1991、《一一》2000 坎城最佳導演、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC pos 1.5 緊急 metadata 候選 — spore 先 surface 同步分派 SEO 優化（改 title 加年份）
+- **Notes**: from news-lens weekly 2026-06-28 (event: SC pos 1.5 ctr 0.25% catastrophic + page pos 2.3 雙源 cross-confirm)；rank 健康度跟 ctr 嚴重背離 = 第一頁排名的「展示效能瓶頸」典型案例，spore + SEO 雙路徑並行
+
+---
+
+### 曾博恩 — SC 雙源穩態 + 喜劇社群討論度高 EXISTING-ARTICLE
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/曾博恩.md](../../knowledge/People/曾博恩.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d query 「曾博恩」627 imp / 9 clicks / pos 11.5 + SC page /people/曾博恩/ 1033 imp / 15 clicks / pos 10.2 — 雙源確認穩態 demand 第二頁排名)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **身份 hook**：清大材料系畢業、台積電工程師當過五年、然後辭職去做脫口秀——曾博恩這條路上沒有前例可循，他自己開了《博恩夜夜秀》當參考點
+  2. **場景 hook**：2018 年某天他把工程師袍脫掉去開麥；五年後台灣脫口秀產業從零變成可以撐起一場 5000 人的小巨蛋
+- **時效**: 無（evergreen 喜劇 + 政治評論週期性 spike）
+- **敏感度**: 中（涉及政治評論 + 性別議題）
+- **必驗事實**: 1989 出生年、台積電年資、《博恩夜夜秀》2018 開播日、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC 穩態 demand + 跨 People/Comedy 類錯開 ≥ 1 天；政治敏感期間延後
+- **Notes**: from news-lens weekly 2026-06-28 (event: SC query 627 imp + page 1033 imp 雙源 cross-confirm)；pos 10-11 第二頁排名 spore 增 social channel reach 比 SEO 改 metadata 短週期
+
+---
+
+### 台灣前 50 大企業 / /companies/ — SC 全站 #1 clicks page (104 ck) + 四變體 query cluster
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/Economy/台灣前50大企業.md](../../knowledge/Economy/台灣前50大企業.md)（register page: /companies/）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d page /companies/ 3693 imp / 104 clicks / pos 6.4 全站 #1 page by clicks + 四變體 query 「台灣前 50 大企業」123 imp/12 ck/pos 3.2 + 「台灣 50 大企業」34 imp/9 ck/pos 2.2 + 「台灣前 50 大公司」84 imp/4 ck/pos 4.2 + 「台灣市值前 50 大公司」225 imp/6 ck/pos 6.7 + GA /companies/ 123 PV/105 users — 七源 cross-confirm 全站最強 demand cluster)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **數字 hook**：50 家公司、市值合起來 70 兆台幣，這是台灣股市每天搬運的重量；其中前 10 家就佔了一半，台積電一家又佔了那一半的一半
+  2. **場景 hook**：Taiwan.md 過去 7 天最多人點進來的頁面不是首頁，是 /companies/ — 3693 次曝光、104 次點擊；想看的人比看其他任何文章都多
+- **時效**: 無（evergreen 產業地圖 + 6/22 viz rebuild composition 後新版本）
+- **敏感度**: 低（公開市值資料 + 純結構介紹）
+- **必驗事實**: 50 家公司榜單時間點、市值資料 source 與時間、台積電 / 鴻海 / 聯發科前三順位、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC 全站 #1 click page 隨時可抽 — 跟 Economy 類錯開 ≥ 1 天；可作 hub spore 引流到個別企業 article
+- **Notes**: from news-lens weekly 2026-06-28 (event: SC #1 clicks page 104 ck + 四變體 query cluster + GA 雙源 cross-confirm)；hub-style page spore 跟 individual article spore 不同 framing — 講「全景」而非「人物」，hook 可帶數字密度
 
 ---
 
