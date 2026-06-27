@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-06-26T22:11:44Z",
-  "total": 825,
-  "flagged": 329,
+  "timestamp": "2026-06-27T15:08:45Z",
+  "total": 827,
+  "flagged": 331,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -368,6 +368,11 @@
       "file": "lifestyle/台灣機車文化.md",
       "score": 6,
       "reasons": "未人工審核; 塑膠句2個; 破折號24個; 無腳註"
+    },
+    {
+      "file": "lifestyle/保齡球.md",
+      "score": 6,
+      "reasons": "未人工審核; 塑膠句1個; 教科書開場; 稀薄段落×3"
     },
     {
       "file": "lifestyle/台灣垃圾車音樂.md",
@@ -1093,6 +1098,11 @@
       "file": "people/洪醒夫.md",
       "score": 6,
       "reasons": "年份僅0個; 後段清單堆砌50%"
+    },
+    {
+      "file": "people/紀懷新.md",
+      "score": 5,
+      "reasons": "未人工審核; 破折號20個; 稀薄段落×1"
     },
     {
       "file": "people/徐熙媛.md",

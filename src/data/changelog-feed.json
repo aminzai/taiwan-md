@@ -1,7 +1,167 @@
 {
-  "generatedAt": "2026-06-26T22:11:45.835Z",
+  "generatedAt": "2026-06-27T15:08:46.169Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "ed02cdcc66d65680f3e55e0c200c429f8d511e60",
+      "date": "2026-06-27T22:10:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-27-220350-twmd-maintainer-pm — #1181 保齡球 idlccp1984 connect-5 PR merge + 4 heal + humanized reply",
+      "articles": []
+    },
+    {
+      "hash": "c212e14dbc8072a31d0c08749e13ae932199438c",
+      "date": "2026-06-27T22:07:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 保齡球 +featured:false +subcategory='休閒與娛樂' + 16 footnote canonical (標題回填非 author-year stub) + orphan [^7] 接回紀兆航本人投稿 (PR #1181 post-merge)",
+      "articles": [
+        {
+          "url": "/lifestyle/保齡球",
+          "name": "保齡球"
+        }
+      ]
+    },
+    {
+      "hash": "2a687fc4b5e3bb1961240e6328d93d3513122484",
+      "date": "2026-06-27T22:04:48+08:00",
+      "author": "idlccp1984",
+      "message": "Create 保齡球.md (#1181)",
+      "articles": [
+        {
+          "url": "/lifestyle/保齡球",
+          "name": "保齡球"
+        }
+      ]
+    },
+    {
+      "hash": "9fa5fe528ffec86f463c1e91db13c6c525205a0b",
+      "date": "2026-06-27T18:31:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 2026-06-27-182322-manual — 寫一份講誠實的 release，被自己的誠實閘門擋了一整個下午",
+      "articles": []
+    },
+    {
+      "hash": "98a9631c4c6f12f22cd38b31ec22f196c314204c",
+      "date": "2026-06-27T18:26:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-27-182322-manual — v1.11.0 release 全程 ship + About 第 102 天里程碑（為一座島嶼造靈魂）",
+      "articles": []
+    },
+    {
+      "hash": "87556c82af4424dd285888eea5f47ceceed79c2b",
+      "date": "2026-06-27T18:20:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: v1.11.0 認知層同步 — about 里程碑第 102 天六語 + 年會簡報 PDF + CONSCIOUSNESS/MEMORY release row",
+      "articles": []
+    },
+    {
+      "hash": "489ea16014e2796fdf4ee25e91e55fe87f2dba89",
+      "date": "2026-06-27T18:14:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 2026-06-27-180207-manual — 跑綠所有閘門，最後要改的是一個沒工具會檢查的詞",
+      "articles": [
+        {
+          "url": "/people/紀懷新",
+          "name": "紀懷新"
+        }
+      ]
+    },
+    {
+      "hash": "ef46850dee5e8f96c6169ae1122c44b3ac8a4e02",
+      "date": "2026-06-27T18:08:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-27-180207-manual — 紀懷新 孢子 #152/#153 雙平台 ship",
+      "articles": []
+    },
+    {
+      "hash": "23c32641032471a435304dd79dd9520d874fa01e",
+      "date": "2026-06-27T18:01:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] 孢子 #153: 紀懷新 X 補發 — 雙平台 ship 完成",
+      "articles": [
+        {
+          "url": "/people/紀懷新",
+          "name": "紀懷新"
+        }
+      ]
+    },
+    {
+      "hash": "67b2ee812320ae801603d06eb22db4974758a86f",
+      "date": "2026-06-27T17:54:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] 孢子 #152: 紀懷新 — 你天天叫 AI「一步一步想」卻不認得這個淡水人（Threads ship）",
+      "articles": [
+        {
+          "url": "/people/紀懷新",
+          "name": "紀懷新"
+        }
+      ]
+    },
+    {
+      "hash": "d0e8403bde6af48e4641825a1224ce277ef1d8e4",
+      "date": "2026-06-27T15:57:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: yt-transcript.py — YouTube 字幕→逐字稿一條龍工具（REWRITE Step 1.9.3 儀器化）",
+      "articles": []
+    },
+    {
+      "hash": "6aa3364547b330c843743e7de28c02a867c39a66",
+      "date": "2026-06-27T15:14:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-27-150307-manual — 紀懷新 NEW 深度文 ship 全 REWRITE-PIPELINE 編排 + 哲宇 5 次 in-loop taste 校正",
+      "articles": []
+    },
+    {
+      "hash": "7852e7f7c799a1cf1d1c62b74a1be416e78f6114",
+      "date": "2026-06-27T15:01:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 紀懷新 NEW 深度文 ship — 教 AI 一步一步想的台灣人，把認知心理學搬進機器",
+      "articles": [
+        {
+          "url": "/people/紀懷新",
+          "name": "紀懷新"
+        },
+        {
+          "url": "/people/黃仁勳",
+          "name": "黃仁勳"
+        }
+      ]
+    },
+    {
+      "hash": "6a846976debb7ada4b4ae331a136c420b2b729a3",
+      "date": "2026-06-27T08:42:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-27-084015-twmd-maintainer-am — empty cycle vc=1 carry post-6/26-active-reset (0 PR / 6 issue 全 carry-state / chain reset 證 schedule 健康 stochastic 非結構問題)",
+      "articles": []
+    },
+    {
+      "hash": "a753fce131fe0bf8e5c436063952b0fd51883649",
+      "date": "2026-06-27T07:09:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: clean no-op 連 8 cycle + archive comment sync 接住 #1140 哲宇回覆",
+      "articles": []
+    },
+    {
+      "hash": "7bbcec145b4055cc363baf1e8b8a118651d56545",
+      "date": "2026-06-27T06:38:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-27-063619-twmd-spore-harvest-am — Chrome MCP unpaired 1st fail silent retry (after Day 4 success cluster 6/22→6/26)",
+      "articles": []
+    },
+    {
+      "hash": "f2fea1d06e0ccf174357963a9063eb87293d4b05",
+      "date": "2026-06-27T06:16:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-27-061332-twmd-data-refresh-am — am 14-step ALL PASS 連 32d 第 33 cycle Step 11 12/12 fresh + CF 404 reversal vc=5 LESSONS candidate trend window mid-flight (5 cycle 累積 -1.27pp) + AI U 形 plateau 第 6 cycle 鎖定 + immune 50 chronic 第 4 cycle 持平未跨閾值",
+      "articles": []
+    },
+    {
+      "hash": "500d96fed59c3f8f0b3c3cf16c1f6ab64b96e222",
+      "date": "2026-06-27T06:13:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] refresh: am 14-step data refresh — 三源全綠 + Step 11 12/12 fresh 連 32d 第 33 cycle + CF 404 10.9→10.77 -0.13pp am-reversal 加深第 5 cycle (5 cycle 累積 -1.27pp) + AI 132K→132.6K +0.6K U 形 plateau 第 6 cycle 鎖定 130-134K mid-baseline + immune 50→50 chronic 第 4 cycle 持平未跨閾值 (plugin_health 36 持平 / external_rulers 3.8 持平 / review_coverage 26.2 持平) + i18n babel 隔夜 +4 each lang en828 ja823 ko824 es823 fr824 / 📄zh 823 持平 / stats ⭐1068 持平 / build 183s→180s -3s; fork-census 3 sightings (LagunaBeach/Malaysia/weilinlai719 vanilla) 全已知不升 OBSERVER-QUEUE; 14-step PASS no stale handling needed; 6/19 視覺化型錄-recat + 端午節.md 殘留髒 tree 第 9 天 auto-stash + restore 跨 cycle 不阻塞 (#6/#35 scope housekeeping chip am 已 spawn 等哲宇)",
+      "articles": []
+    },
     {
       "hash": "b38f21a67db4024b7c765ba01adcbc129084d048",
       "date": "2026-06-27T05:09:00+08:00",

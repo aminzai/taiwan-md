@@ -1,8 +1,8 @@
 {
-  "totalArticles": 4957,
+  "totalArticles": 4959,
   "totalCategories": 20,
   "estimatedContributors": 61,
-  "totalTags": 6096,
+  "totalTags": 6101,
   "categories": [
     {
       "name": "es",
@@ -46,7 +46,7 @@
     },
     {
       "name": "People",
-      "count": 232
+      "count": 233
     },
     {
       "name": "Music",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Lifestyle",
-      "count": 29
+      "count": 30
     },
     {
       "name": "Art",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4957,
+    "zh-TW": 4959,
     "en": 0
   },
-  "lastUpdated": "2026-06-26T22:11:44.190Z",
-  "stars": 1068,
+  "lastUpdated": "2026-06-27T15:08:44.552Z",
+  "stars": 1079,
   "forks": 156,
-  "zhPages": 823,
+  "zhPages": 825,
   "enPages": 830,
-  "totalPages": 823
+  "totalPages": 825
 }

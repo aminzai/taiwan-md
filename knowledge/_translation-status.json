@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-27T01:00:43+08:00",
-    "zhCommitHead": "3729ff82c",
-    "totalZh": 825,
+    "lastUpdated": "2026-06-27T23:08:42+08:00",
+    "zhCommitHead": "ed02cdcc6",
+    "totalZh": 827,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
-        "total_zh": 825,
-        "fresh": 825,
-        "stale": 0,
+        "total_zh": 827,
+        "fresh": 824,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 2,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 825,
-        "fresh": 825,
-        "stale": 0,
+        "total_zh": 827,
+        "fresh": 824,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 2,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 825,
-        "fresh": 825,
-        "stale": 0,
+        "total_zh": 827,
+        "fresh": 824,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 2,
         "orphan": 0
       },
       "es": {
-        "total_zh": 825,
-        "fresh": 825,
-        "stale": 0,
+        "total_zh": 827,
+        "fresh": 824,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 2,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 825,
-        "fresh": 825,
-        "stale": 0,
+        "total_zh": 827,
+        "fresh": 824,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 2,
         "orphan": 0
       }
     },
@@ -15492,6 +15492,31 @@
           "footnoteDefs": 23,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Lifestyle/保齡球.md": {
+      "zh": {
+        "lastCommit": "c212e14d",
+        "lastModified": "2026-06-27T22:07:14+08:00",
+        "contentHash": "sha256:867b46c37c755d29",
+        "bodyHash": "sha256:9b87440ff4268438"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -35177,10 +35202,10 @@
     },
     "People/黃仁勳.md": {
       "zh": {
-        "lastCommit": "b0c18e0a",
-        "lastModified": "2026-06-22T23:54:33+08:00",
-        "contentHash": "sha256:ed5d15ba6a50109e",
-        "bodyHash": "sha256:6ba2600c22efc06f"
+        "lastCommit": "7852e7f7",
+        "lastModified": "2026-06-27T15:01:36+08:00",
+        "contentHash": "sha256:fefdcc28d82e9ce0",
+        "bodyHash": "sha256:8e44f1173a86a8b9"
       },
       "translations": {
         "en": {
@@ -35194,8 +35219,10 @@
           "translationLastModified": "2026-06-23T00:52:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/People/jensen-huang.md",
@@ -35208,8 +35235,10 @@
           "translationLastModified": "2026-06-23T00:52:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/People/jensen-huang.md",
@@ -35222,8 +35251,10 @@
           "translationLastModified": "2026-06-23T00:52:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/People/jensen-huang.md",
@@ -35236,8 +35267,10 @@
           "translationLastModified": "2026-06-23T00:52:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/People/jensen-huang.md",
@@ -35250,8 +35283,10 @@
           "translationLastModified": "2026-06-23T00:52:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -45495,6 +45530,31 @@
         }
       }
     },
+    "People/紀懷新.md": {
+      "zh": {
+        "lastCommit": "489ea160",
+        "lastModified": "2026-06-27T18:14:52+08:00",
+        "contentHash": "sha256:50346fd81e3daf96",
+        "bodyHash": "sha256:64d75052423ad414"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "People/徐熙媛.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -48710,8 +48770,8 @@
           "sourceContentHash": "sha256:ff821213812f38cb",
           "sourceBodyHash": "sha256:e39ae3ebbe8cb44c",
           "translatedAt": "2026-06-27T00:35:00Z",
-          "translationLastCommit": "68c3ec3a",
-          "translationLastModified": "2026-05-17T06:37:55+08:00",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -48724,8 +48784,8 @@
           "sourceContentHash": "sha256:ff821213812f38cb",
           "sourceBodyHash": "sha256:e39ae3ebbe8cb44c",
           "translatedAt": "2026-06-27T00:35:00Z",
-          "translationLastCommit": "68c3ec3a",
-          "translationLastModified": "2026-05-17T06:37:55+08:00",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -48738,8 +48798,8 @@
           "sourceContentHash": "sha256:ff821213812f38cb",
           "sourceBodyHash": "sha256:e39ae3ebbe8cb44c",
           "translatedAt": "2026-06-27T00:35:00Z",
-          "translationLastCommit": "68c3ec3a",
-          "translationLastModified": "2026-05-17T06:37:55+08:00",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -48752,8 +48812,8 @@
           "sourceContentHash": "sha256:ff821213812f38cb",
           "sourceBodyHash": "sha256:e39ae3ebbe8cb44c",
           "translatedAt": "2026-06-27T00:35:00Z",
-          "translationLastCommit": "68c3ec3a",
-          "translationLastModified": "2026-05-17T06:37:55+08:00",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -48766,8 +48826,8 @@
           "sourceContentHash": "sha256:ff821213812f38cb",
           "sourceBodyHash": "sha256:e39ae3ebbe8cb44c",
           "translatedAt": "2026-06-27T00:35:00Z",
-          "translationLastCommit": "68c3ec3a",
-          "translationLastModified": "2026-05-17T06:37:55+08:00",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -55510,8 +55570,8 @@
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
           "translatedAt": "2026-06-27T00:54:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -55524,8 +55584,8 @@
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -55538,8 +55598,8 @@
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -55552,8 +55612,8 @@
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -55566,8 +55626,8 @@
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -57030,8 +57090,8 @@
           "sourceContentHash": "sha256:2935ce10538c2b78",
           "sourceBodyHash": "sha256:79946e3edca12d9c",
           "translatedAt": "2026-06-27T00:54:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -57044,8 +57104,8 @@
           "sourceContentHash": "sha256:2935ce10538c2b78",
           "sourceBodyHash": "sha256:79946e3edca12d9c",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -57058,8 +57118,8 @@
           "sourceContentHash": "sha256:2935ce10538c2b78",
           "sourceBodyHash": "sha256:79946e3edca12d9c",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -57072,8 +57132,8 @@
           "sourceContentHash": "sha256:2935ce10538c2b78",
           "sourceBodyHash": "sha256:79946e3edca12d9c",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -57086,8 +57146,8 @@
           "sourceContentHash": "sha256:2935ce10538c2b78",
           "sourceBodyHash": "sha256:79946e3edca12d9c",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -61910,8 +61970,8 @@
           "sourceContentHash": "sha256:071279c0b606b84b",
           "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
           "translatedAt": "2026-06-27T00:54:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -61924,8 +61984,8 @@
           "sourceContentHash": "sha256:071279c0b606b84b",
           "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -61938,8 +61998,8 @@
           "sourceContentHash": "sha256:071279c0b606b84b",
           "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -61952,8 +62012,8 @@
           "sourceContentHash": "sha256:071279c0b606b84b",
           "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -61966,8 +62026,8 @@
           "sourceContentHash": "sha256:071279c0b606b84b",
           "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -63590,8 +63650,8 @@
           "sourceContentHash": "sha256:0c33e898d4ba7e93",
           "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
           "translatedAt": "2026-06-27T00:54:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -63604,8 +63664,8 @@
           "sourceContentHash": "sha256:0c33e898d4ba7e93",
           "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -63618,8 +63678,8 @@
           "sourceContentHash": "sha256:0c33e898d4ba7e93",
           "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -63632,8 +63692,8 @@
           "sourceContentHash": "sha256:0c33e898d4ba7e93",
           "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -63646,8 +63706,8 @@
           "sourceContentHash": "sha256:0c33e898d4ba7e93",
           "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
           "translatedAt": "2026-06-27T00:54:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cbf4f232",
+          "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",

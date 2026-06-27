@@ -1,26 +1,58 @@
 {
-  "lastUpdated": "2026-06-26T22:11:43.119744Z",
+  "lastUpdated": "2026-06-27T15:08:43.518579Z",
   "schemaVersion": "1.1",
   "totals": {
-    "count": 141,
+    "count": 143,
     "platforms": {
-      "threads": 73,
-      "x": 64,
+      "threads": 74,
+      "x": 65,
       "other": 4
     },
     "languages": {
-      "zh": 134,
+      "zh": 136,
       "en": 7
     },
     "templates": {
       "B": 47,
       "A": 32,
       "D": 4,
-      "A2": 52,
+      "A2": 54,
       "other": 6
     }
   },
   "recent": [
+    {
+      "n": 153,
+      "date": "2026-06-27",
+      "platform": "x",
+      "article": "紀懷新",
+      "articleSlug": "紀懷新",
+      "category": "People",
+      "template": "A2 首尾呼應 Tier 1b 具體性槓桿",
+      "url": "https://x.com/taiwandotmd/status/2070809073143144717",
+      "highlight": "紀懷新 X 單則 inline UTM s153（同 #152 Threads 內容）。哲宇 in-session 登入 @taiwandotmd 到 X 後補發 X 半（先前 Chrome 僅 @cheyuwu345 個人帳號被 v0.4 hard gate 攔）。post-ship 6-check 全綠：6 段保留 / 博士論文 fix / t.co UTM / 圖 1。",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
+    {
+      "n": 152,
+      "date": "2026-06-27",
+      "platform": "threads",
+      "article": "紀懷新",
+      "articleSlug": "紀懷新",
+      "category": "People",
+      "template": "A2 首尾呼應 Tier 1b 具體性槓桿",
+      "url": "https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV",
+      "highlight": "你天天叫 AI「一步一步想」卻不認得這個淡水人——思維鏈共同作者紀懷新，把高中幫媽媽寫教育心理學博士論文學到的 Piaget 基模搬進機器，只花 $5000 因為那從來不是算力問題。哲宇 2 次 in-loop 校正（論文→博士論文 / 幫→幫助）。Threads ship；X 因 Chrome 僅登入 @cheyuwu345 個人帳號（@taiwandotmd 未登入）擋下未發。",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
     {
       "n": 151,
       "date": "2026-06-25",
@@ -67,38 +99,6 @@
       "views_latest": 1373,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": true
-    },
-    {
-      "n": 148,
-      "date": "2026-06-24",
-      "platform": "threads",
-      "article": "龜山島",
-      "articleSlug": "龜山島",
-      "category": "geography",
-      "template": "A2 首尾呼應",
-      "url": "https://www.threads.com/@taiwandotmd/post/DZ9ZXvIEwhI",
-      "highlight": "黃陳裕阿嬤每天夢見龜山島 — 看得到上不去 vs 回不去的雙鄉愁",
-      "views_7d": null,
-      "views_latest": 6925,
-      "engagements_7d": null,
-      "rate_7d": null,
-      "backfilled": true
-    },
-    {
-      "n": 147,
-      "date": "2026-06-19",
-      "platform": "x",
-      "article": "端午節",
-      "articleSlug": "端午節",
-      "category": "culture",
-      "template": "B 冷知識型",
-      "url": "https://x.com/taiwandotmd/status/2067914171996614897",
-      "highlight": "端午節 depth EVOLVE 首發孢子 — 會考立蛋 hook + 藥效過期anchor",
-      "views_7d": 11500,
-      "views_latest": 11500,
-      "engagements_7d": 194,
-      "rate_7d": 1.69,
       "backfilled": true
     }
   ],
@@ -249,6 +249,22 @@
       "publishedDays": 2,
       "status": "waiting",
       "url": "https://x.com/taiwandotmd/status/2070173370118000879"
+    },
+    {
+      "n": 152,
+      "article": "紀懷新",
+      "platform": "threads",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV"
+    },
+    {
+      "n": 153,
+      "article": "紀懷新",
+      "platform": "x",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://x.com/taiwandotmd/status/2070809073143144717"
     }
   ],
   "noUrlHistorical": [
@@ -319,7 +335,7 @@
     },
     {
       "week": "2026-W26",
-      "published": 4,
+      "published": 6,
       "avgViews": 2730
     }
   ],
@@ -1733,6 +1749,26 @@
       "withinHarvestWindow": true,
       "harvestCount": 1,
       "lastHarvest": "2026-06-26 06:40"
+    },
+    {
+      "n": 152,
+      "article": "紀懷新",
+      "platform": "threads",
+      "publishDate": "2026-06-27",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
+    },
+    {
+      "n": 153,
+      "article": "紀懷新",
+      "platform": "x",
+      "publishDate": "2026-06-27",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
     }
   ]
 }
