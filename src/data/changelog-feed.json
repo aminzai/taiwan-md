@@ -1,7 +1,77 @@
 {
-  "generatedAt": "2026-06-27T15:08:46.169Z",
+  "generatedAt": "2026-06-27T22:11:26.703Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "a73d5e27333c2196ac9817cf000ce97848a51b63",
+      "date": "2026-06-28T05:11:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-28-050904-twmd-embeddings-nightly — Stage 0 fleet-down graceful skip 連續第 11 夜 (4090 http_code=000 + ping 100% loss + 本機 Tailscale stopped) 索引留 d474c977e 06-17 snapshot staleness 11d ~28 篇 fallback 同 category 不壞頁 / vc 封頂 3 不 re-inflate / 只欠哲宇 A/B",
+      "articles": []
+    },
+    {
+      "hash": "4cb44b6d79595b2d2bf39bdc8fce1b6fab076f46",
+      "date": "2026-06-28T04:19:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-28-041639-twmd-self-evolve-weekly — W26 REFLEXES #76 promote + Beat 5 反芻「反覆浮現了五篇才被自己看見」",
+      "articles": []
+    },
+    {
+      "hash": "0a0d4542b9a6b2e4653195da2a8397b863cb7ea7",
+      "date": "2026-06-28T04:16:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-self-evolve-weekly: W26 promote REFLEXES #76 multi-cycle trend window > single-cycle delta (vc=5 cross-routine)",
+      "articles": []
+    },
+    {
+      "hash": "b917e0f15b100c7748328f5b0037c7ecf772476e",
+      "date": "2026-06-28T03:19:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-distill-weekly: W26 distill — REFLEXES #75 promote (Read ≠ verify vc=4) + #42×3 fold + #38/#40 fold + MEMORY §神經迴路 stale-issue + SPORE-INBOX 53→48 auto-drop 5 — 2026-06-28",
+      "articles": []
+    },
+    {
+      "hash": "811c08ba538b3757940ab8e179012a818df2165f",
+      "date": "2026-06-28T02:11:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-weekly-report-sun: W26 weekly digest — 2026-06-21～2026-06-28 ship + Resend 200",
+      "articles": []
+    },
+    {
+      "hash": "656f31921bb0e790548782053a6f379fe324f4c5",
+      "date": "2026-06-28T01:19:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-news-lens-weekly: W26 7 P1 spore candidates append SPORE-INBOX — 三源 cross (GA 8417u / SC 洪醒夫 2654 #1q / CF 466k 130k AI crawler) — 2026-06-28",
+      "articles": []
+    },
+    {
+      "hash": "72c973545d91178d2f8bfb5ac484a195954a9ce4",
+      "date": "2026-06-28T00:47:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-28-004456-twmd-babel-nightly — 15 translations (Tier 0a 5 + Tier 1 codex 10) / 連 11 夜 stale=0 / #42 sub-agent silent satisficing vc=3 promote-ready (es URL → ja footnote → es+fr URL 三夜 row)",
+      "articles": []
+    },
+    {
+      "hash": "c27f6f51d50752805650ff9f867bf09ad8d3910c",
+      "date": "2026-06-28T00:44:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 15 translations shipped — stale=0 → 0→0 across 5 lang via Tier 1 codex 10 (2 P0 NEW: 保齡球/紀懷新 × 5 lang) + Tier 0a Sonnet diff-patch 5 (黃仁勳 +紀懷新 cross-link bullet × 5 lang) + 主 session 接住 es+fr URL convention drift (#42 vc=3) — 2026-06-28",
+      "articles": []
+    },
+    {
+      "hash": "85063472fbdaf4c4746b4cb19bb68cd3ef8c0c95",
+      "date": "2026-06-27T23:10:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-27-230935-twmd-data-refresh-pm — 14-step PASS / freshness 12/12 today mtime / 三源 CF 466k GA 28d SC 7d / immune=50 漂移 yellow",
+      "articles": []
+    },
+    {
+      "hash": "3106c3d986624ad5f77acddd5326c6dc3026ea0d",
+      "date": "2026-06-27T23:09:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth (vitals 825 / contributors 61 / 7d=+26 / i18n en828 ja823 ko824 es823 fr824 / immune=50 / CF 466k req / GA 28d top20)",
+      "articles": []
+    },
     {
       "hash": "ed02cdcc66d65680f3e55e0c200c429f8d511e60",
       "date": "2026-06-27T22:10:04+08:00",

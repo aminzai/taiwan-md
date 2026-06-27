@@ -237,6 +237,17 @@
     "path": "ko/Art/invisible-nation.md"
   },
   {
+    "title": "'볼링: 미군 클럽에서 방콕 아시안게임 6관왕까지, 타이완 UFO 볼의 흥망과 여운'",
+    "description": "'1990년대 볼링은 타이완에서 가장 열광적인 국민 스포츠였다. 자체적으로 고안한 「UFO 볼」 기술을 바탕으로 타이완은 1998년 방콕 아시안게임에서 금메달 6개를 휩쓸었고, 한때 전국 볼링장은 600곳을 넘었으며 하루 매출은 30만 타이완달러에 달할 수 있었다.'",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/lifestyle/bowling",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-06-27",
+    "path": "ko/Lifestyle/bowling.md"
+  },
+  {
     "title": "'사과소년: 세 명의 남부 청년이 대만어로 외지인의 외로움을 노래하다, 이십 년 후 세대의 목소리가 되다'",
     "description": "'2005년, 타이난 바닥에서 록 음악을 들으며 자란 세 명의 남자가 대만어로 노래를 쓰기로 결심했다. 목표는 조부모도 끄덕일 수 있는 노래를 만드는 것이었다. 어려운 점: 세 명 중 강강만이 어릴 때부터 대만어를 구사했다. 《해구미》에서 《소음아파트》까지, 네 장의 대만어 앨범, 세 차례 금음상(金音獎) 최우수 록, 두 차례 플라잉V 펀딩 기록 경신. 사과소년은 타지에서 일하는 노동자의 외로움을 온 세대의 공통 언어로 노래했다.'",
     "category": "ko",
@@ -14891,6 +14902,17 @@
     "path": "ja/Art/chi-po-hao-musician.md"
   },
   {
+    "title": "紀懐新：AIに「一歩ずつ考える」ことを教え、認知心理学を機械に持ち込んだ台湾人",
+    "description": "紀懐新はGoogle DeepMindの研究担当副社長であり、AIに「一歩ずつ推論する」ことを学ばせた思考連鎖論文の共著者でもあります。淡水で育ったこの台湾人は、認知心理学における「人はどのように学ぶのか」という概念（Piagetのスキーマ理論）を、機械に推論を教える方法へと変えました。そしてAIを変えたこの突破口にかかった費用は約5000米ドルにすぎませんでした。なぜなら、それはそもそも計算力で解ける問題ではなかったからです。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/chi-huai-hsin",
+    "readingTime": 63,
+    "featured": true,
+    "date": "2026-06-27",
+    "path": "ja/People/chi-huai-hsin.md"
+  },
+  {
     "title": "紀懷新：教 AI 學會「一步一步想」的台灣人，把認知心理學搬進了機器",
     "description": "紀懷新是 Google DeepMind 研究副總裁，也是讓 AI 學會「一步一步推理」的思維鏈論文共同作者。這個在淡水長大的台灣人，把認知心理學裡「人怎麼學習」的概念（Piaget 的基模理論）變成了教機器推理的方法。而這份改變 AI 的突破只花了約五千美金，因為那從來就不是算力能解決的問題。",
     "category": "People",
@@ -19102,7 +19124,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/people/jensen-huang",
-    "readingTime": 51,
+    "readingTime": 52,
     "featured": true,
     "date": "2026-03-25",
     "path": "ja/People/jensen-huang.md"
@@ -24733,6 +24755,17 @@
     "path": "es/Politics/election-bulletin-system.md"
   },
   {
+    "title": "Bolos: de los clubes militares estadounidenses a los seis oros de los Juegos Asiáticos de Bangkok, auge, declive y resonancias de la bola ovni de Taiwán",
+    "description": "En la década de 1990, los bolos fueron el deporte nacional más febril de Taiwán. Gracias a la técnica propia de la “bola ovni”, Taiwán arrasó con seis oros en los Juegos Asiáticos de Bangkok de 1998; las boleras de todo el país llegaron a superar las 600, con ingresos diarios de hasta 300.000 dólares taiwaneses.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/lifestyle/bowling",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-06-27",
+    "path": "es/Lifestyle/bowling.md"
+  },
+  {
     "title": "Bourse et marchés de capitaux à Taïwan : de l’effondrement des 10 000 points en 1990 à la 6e place mondiale en 2026, une île dont 44 % du patrimoine repose sur une seule valeur",
     "description": "Le 28 avril 2026, Bloomberg affichait « Taiwan Overtakes Canada ». Une île où l’effondrement des 10 000 points en 1990 avait emporté l’épargne-retraite de 160 000 personnes se hissait, trente-six ans plus tard, au 6e rang mondial des marchés boursiers — mais sur 4,47 billions de dollars de capitalisation, près de la moitié reposait sur une seule entreprise de semi-conducteurs.",
     "category": "fr",
@@ -24742,6 +24775,28 @@
     "featured": true,
     "date": "2026-05-03",
     "path": "fr/Economy/taiwan-stock-market.md"
+  },
+  {
+    "title": "Bowling : des clubs militaires américains aux six médailles d’or des Jeux asiatiques de Bangkok, essor et rémanences de la boule OVNI taïwanaise",
+    "description": "Dans les années 1990, le bowling fut le sport national le plus frénétique de Taïwan. Grâce à sa technique originale de la « boule OVNI », Taïwan rafla six médailles d’or aux Jeux asiatiques de Bangkok en 1998 ; le pays compta un temps plus de 600 salles de bowling, avec des recettes journalières pouvant atteindre 300 000 dollars taïwanais.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/lifestyle/bowling",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-06-27",
+    "path": "fr/Lifestyle/bowling.md"
+  },
+  {
+    "title": "Bowling: From U.S. Military Clubs to Six Golds at the Bangkok Asian Games, the Rise and Afterglow of Taiwan’s UFO Ball",
+    "description": "In the 1990s, bowling was Taiwan's most fevered national pastime. With its homegrown UFO ball technique, Taiwan swept six gold medals at the 1998 Bangkok Asian Games; bowling alleys across Taiwan once exceeded 600, with daily revenue reaching NT$300,000.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/lifestyle/bowling",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-06-27",
+    "path": "en/Lifestyle/bowling.md"
   },
   {
     "title": "Braised Pork Rice (滷肉飯): Taiwan’s Everyday National Dish",
@@ -26111,6 +26166,39 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/chi-cheng-flying-antelope.md"
+  },
+  {
+    "title": "Chi Huai-hsin : le Taïwanais qui a appris à l'IA à « penser étape par étape » et fait entrer la psychologie cognitive dans les machines",
+    "description": "Chi Huai-hsin est vice-président recherche chez Google DeepMind et l'un des coauteurs de l'article sur la chaîne de pensée qui a appris à l'IA à « raisonner étape par étape ». Ce Taïwanais qui a grandi à Tamsui a transformé un concept de psychologie cognitive sur la manière dont les êtres humains apprennent, la théorie des schèmes de Piaget, en méthode pour enseigner le raisonnement aux machines. Cette percée qui a changé l'IA n'a coûté qu'environ cinq mille dollars, parce que le problème n'a jamais été de ceux que la puissance de calcul pouvait résoudre.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/chi-huai-hsin",
+    "readingTime": 144,
+    "featured": true,
+    "date": "2026-06-27",
+    "path": "fr/People/chi-huai-hsin.md"
+  },
+  {
+    "title": "Chi Huai-hsin: el taiwanés que enseñó a la IA a \"pensar paso a paso\" y llevó la psicología cognitiva a las máquinas",
+    "description": "Chi Huai-hsin es vicepresidente de investigación en Google DeepMind y coautor del artículo sobre cadena de pensamiento que enseñó a la IA a \"razonar paso a paso\". Este taiwanés criado en Tamsui convirtió una idea de la psicología cognitiva sobre \"cómo aprenden las personas\" -la teoría de los esquemas de Piaget- en un método para enseñar a las máquinas a razonar. Y ese avance que transformó la IA costó apenas unos cinco mil dólares, porque nunca fue un problema que pudiera resolverse con poder de cómputo.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/chi-huai-hsin",
+    "readingTime": 136,
+    "featured": true,
+    "date": "2026-06-27",
+    "path": "es/People/chi-huai-hsin.md"
+  },
+  {
+    "title": "Chi Huai-hsin: The Taiwanese Researcher Who Taught AI to Think Step by Step and Brought Cognitive Psychology Into Machines",
+    "description": "Chi Huai-hsin is a vice president of research at Google DeepMind and a co-author of the chain-of-thought paper that taught AI to reason step by step. Raised in Tamsui, this Taiwanese researcher turned the concept of how humans learn in cognitive psychology, Piaget's schema theory, into a method for teaching machines to reason. And the breakthrough that changed AI cost only about US$5,000, because it was never a problem that compute could solve.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/chi-huai-hsin",
+    "readingTime": 125,
+    "featured": true,
+    "date": "2026-06-27",
+    "path": "en/People/chi-huai-hsin.md"
   },
   {
     "title": "Chi Lin-lien: From Chen Shui-bian's General to Vice Chair Calling for Han Kuo-yu's Expulsion",
@@ -34437,7 +34525,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/jensen-huang",
-    "readingTime": 98,
+    "readingTime": 99,
     "featured": true,
     "date": "2026-03-25",
     "path": "en/People/jensen-huang.md"
@@ -34448,7 +34536,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/jensen-huang",
-    "readingTime": 109,
+    "readingTime": 110,
     "featured": true,
     "date": "2026-03-25",
     "path": "es/People/jensen-huang.md"
@@ -34459,7 +34547,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/jensen-huang",
-    "readingTime": 114,
+    "readingTime": 115,
     "featured": true,
     "date": "2026-03-25",
     "path": "fr/People/jensen-huang.md"
@@ -63967,6 +64055,17 @@
     "path": "ko/People/nymphia-wind-drag-queen.md"
   },
   {
+    "title": "지화이신: AI에게 ‘한 걸음씩 생각하기’를 가르친 타이완인, 인지심리학을 기계 안으로 옮기다",
+    "description": "지화이신은 Google DeepMind 연구 부사장이자, AI가 ‘한 걸음씩 추론하기’를 배우게 한 사고의 연쇄 논문의 공동 저자이다. 단수이에서 자란 이 타이완인은 인지심리학에서 말하는 ‘인간은 어떻게 학습하는가’라는 개념, 곧 피아제의 도식 이론을 기계에 추론을 가르치는 방법으로 바꾸었다. 그리고 AI를 바꾼 이 돌파구에는 약 5천 달러밖에 들지 않았다. 애초에 그것은 연산력으로 해결할 수 있는 문제가 아니었기 때문이다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/chi-huai-hsin",
+    "readingTime": 69,
+    "featured": true,
+    "date": "2026-06-27",
+    "path": "ko/People/chi-huai-hsin.md"
+  },
+  {
     "title": "직할시 산지 원주민 구장: 2014년 승격 개정으로 보존된 민선 자치 직위",
     "description": "2014년 12월 25일 타오위안이 직할시로 승격된 그날, 푸싱향의 향장은 민선 지위를 잃게 될 위기에 처했다 — 승격의 부작용은 원주민 자치를 박탈하는 것이었다. 입법원은 서둘러 「지방제도법」을 개정하여 「직할시 산지 원주민 구」라는 새로운 직위를 신설하였고, 육직할시 내 모든 기존 산지향이 계속해서 민선 구장과 구민대표를 선출할 수 있도록 하였다. 전국 6개 구로, 타이야, 부난, 쩌우, 루카이, 객가, 민난 등이 혼거하는 산간 부락을 아우른다. 이는 헌법 증수조문의 「적극적으로 원주민 언어 및 문화를 유지·발전시킨다는」 원칙이 지방제도 차원에서 구체적으로 실현된 것이다.",
     "category": "ko",
@@ -66352,7 +66451,7 @@
       "GPU"
     ],
     "url": "https://taiwan.md/ko/people/jensen-huang",
-    "readingTime": 57,
+    "readingTime": 58,
     "featured": true,
     "date": "2026-03-25",
     "path": "ko/People/jensen-huang.md"
@@ -66959,6 +67058,17 @@
     "featured": false,
     "date": "2026-04-24",
     "path": "ja/Nature/the-ornithology-of-formosa.md"
+  },
+  {
+    "title": "ボウリング：米軍クラブからバンコク・アジア大会六冠まで、台湾式UFOボールの興衰と余韻",
+    "description": "1990年代、ボウリングは台湾で最も熱狂的な国民的スポーツでした。独自に生み出した「UFOボール」技術により、台湾は1998年バンコク・アジア大会で六つの金メダルを総なめにし、台湾全土のボウリング場は一時600軒を超え、1日の売上は30万元に達することもありました。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/lifestyle/bowling",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-06-27",
+    "path": "ja/Lifestyle/bowling.md"
   },
   {
     "title": "ポピュラーミュージックと金曲賞",

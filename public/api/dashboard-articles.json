@@ -19,11 +19,11 @@
       "台灣體育歷史"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "c212e14d",
@@ -50,11 +50,11 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 4,
     "commitHash": "489ea160",

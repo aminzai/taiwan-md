@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T15:08:51.139Z",
+  "lastUpdated": "2026-06-27T22:11:31.948Z",
   "languages": [
     "zh-TW",
     "en",
@@ -18,64 +18,64 @@
       "deficit": 0
     },
     "en": {
-      "total": 825,
-      "percentage": 99.8,
-      "fresh": 824,
+      "total": 827,
+      "percentage": 100,
+      "fresh": 827,
       "metadataStale": 0,
-      "stale": 1,
-      "missing": 2,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.6
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "ja": {
-      "total": 825,
-      "percentage": 99.8,
-      "fresh": 824,
+      "total": 827,
+      "percentage": 100,
+      "fresh": 827,
       "metadataStale": 0,
-      "stale": 1,
-      "missing": 2,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.6
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "ko": {
-      "total": 825,
-      "percentage": 99.8,
-      "fresh": 824,
+      "total": 827,
+      "percentage": 100,
+      "fresh": 827,
       "metadataStale": 0,
-      "stale": 1,
-      "missing": 2,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.6
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "es": {
-      "total": 825,
-      "percentage": 99.8,
-      "fresh": 824,
+      "total": 827,
+      "percentage": 100,
+      "fresh": 827,
       "metadataStale": 0,
-      "stale": 1,
-      "missing": 2,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.6
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "fr": {
-      "total": 825,
-      "percentage": 99.8,
-      "fresh": 824,
+      "total": 827,
+      "percentage": 100,
+      "fresh": 827,
       "metadataStale": 0,
-      "stale": 1,
-      "missing": 2,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.6
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     }
   },
   "matrix": {
@@ -348,39 +348,39 @@
     "lifestyle": {
       "zh-TW": 30,
       "en": {
-        "count": 29,
-        "fresh": 29,
+        "count": 30,
+        "fresh": 30,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "ja": {
-        "count": 29,
-        "fresh": 29,
+        "count": 30,
+        "fresh": 30,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
-        "count": 29,
-        "fresh": 29,
+        "count": 30,
+        "fresh": 30,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "es": {
-        "count": 29,
-        "fresh": 29,
+        "count": 30,
+        "fresh": 30,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "fr": {
-        "count": 29,
-        "fresh": 29,
+        "count": 30,
+        "fresh": 30,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       }
     },
     "music": {
@@ -462,39 +462,39 @@
     "people": {
       "zh-TW": 233,
       "en": {
-        "count": 232,
-        "fresh": 231,
-        "stale": 1,
-        "missing": 1,
-        "deficit": 1
+        "count": 233,
+        "fresh": 233,
+        "stale": 0,
+        "missing": 0,
+        "deficit": 0
       },
       "ja": {
-        "count": 232,
-        "fresh": 231,
-        "stale": 1,
-        "missing": 1,
-        "deficit": 1
+        "count": 233,
+        "fresh": 233,
+        "stale": 0,
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
-        "count": 232,
-        "fresh": 231,
-        "stale": 1,
-        "missing": 1,
-        "deficit": 1
+        "count": 233,
+        "fresh": 233,
+        "stale": 0,
+        "missing": 0,
+        "deficit": 0
       },
       "es": {
-        "count": 232,
-        "fresh": 231,
-        "stale": 1,
-        "missing": 1,
-        "deficit": 1
+        "count": 233,
+        "fresh": 233,
+        "stale": 0,
+        "missing": 0,
+        "deficit": 0
       },
       "fr": {
-        "count": 232,
-        "fresh": 231,
-        "stale": 1,
-        "missing": 1,
-        "deficit": 1
+        "count": 233,
+        "fresh": 233,
+        "stale": 0,
+        "missing": 0,
+        "deficit": 0
       }
     },
     "politics": {
@@ -612,28 +612,7 @@
       }
     }
   },
-  "missing": {
-    "en": [
-      "Lifestyle/保齡球：從美軍俱樂部到曼谷亞運六金，台灣飛碟球的興衰與餘韻.md",
-      "People/紀懷新：教 AI 學會「一步一步想」的台灣人，把認知心理學搬進了機器.md"
-    ],
-    "ja": [
-      "Lifestyle/保齡球：從美軍俱樂部到曼谷亞運六金，台灣飛碟球的興衰與餘韻.md",
-      "People/紀懷新：教 AI 學會「一步一步想」的台灣人，把認知心理學搬進了機器.md"
-    ],
-    "ko": [
-      "Lifestyle/保齡球：從美軍俱樂部到曼谷亞運六金，台灣飛碟球的興衰與餘韻.md",
-      "People/紀懷新：教 AI 學會「一步一步想」的台灣人，把認知心理學搬進了機器.md"
-    ],
-    "es": [
-      "Lifestyle/保齡球：從美軍俱樂部到曼谷亞運六金，台灣飛碟球的興衰與餘韻.md",
-      "People/紀懷新：教 AI 學會「一步一步想」的台灣人，把認知心理學搬進了機器.md"
-    ],
-    "fr": [
-      "Lifestyle/保齡球：從美軍俱樂部到曼谷亞運六金，台灣飛碟球的興衰與餘韻.md",
-      "People/紀懷新：教 AI 學會「一步一步想」的台灣人，把認知心理學搬進了機器.md"
-    ]
-  },
+  "missing": {},
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],
