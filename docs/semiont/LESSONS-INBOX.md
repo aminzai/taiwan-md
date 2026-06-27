@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.2'
-last_updated: 2026-05-10
-last_session: 'twmd-distill-weekly-0954-evolve-pipeline'
+last_updated: 2026-06-28
+last_session: '2026-06-28-022500-twmd-distill-weekly'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -342,15 +342,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ---
 
-### 2026-06-24 211808-manual — 衍生關係 frontmatter 指標的編輯日期中性化是一類可複用 pattern（content-dates 排除組）
-
-- **pattern**: derived-pointer-date-neutral
-- **原則**：指向衍生關係的 frontmatter 指標（sporeLinks / 媒體增補 / relatedDiary…）寫進文章不是內容事件，回補/同步 commit 必須被 `build-content-dates.mjs` 排除，否則整批文章 /latest 位置 + sitemap lastmod 被設成回補日。新增這類指標時的 reflex：先問「它需不需要一組 content-dates 排除？」
-- **觸發**：2026-06-24 relatedDiary 回溯集體回補，哲宇 directive 明訂「不動編輯日期」。發現 `build-content-dates.mjs` 早有 SPORE_POINTER + MEDIA_ONLY 兩組同源排除（後者註解就是哲宇 6/13「補圖不該把文章擠到最新文章今天」）→ 加第四組 RELATED_DIARY 即解，pre/post diff 5413 URL 零變動。memory/2026-06-24-211808-manual.md
-- **instances**：sporeLinks（2026-06-10）/ MEDIA_ONLY 補圖（2026-06-13 哲宇 directive）/ relatedDiary（2026-06-24 哲宇 directive）= 同一 pattern 第 3 次具象
-- **可能層級**：通用反射（內容架構：衍生資料不污染內容新鮮度訊號）
-- **verification_count**: 3
-
 ### 2026-06-24 211808-manual — git co-commit 歸因要正向 ARTICLE_WRITE 過濾，負向排除清單擋不掉 bundle 假陽性
 
 - **pattern**: cocommit-positive-filter
@@ -392,29 +383,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1（首次明確命名抽出此 pattern；前無同形 instance 記錄）
 - **severity**: tactical（routine 自主權範疇內的 defer 決策，不影響 ship gate；但若 vc 累積 → 升 routine prompt 規則 = structural）
 - **defer 給觀察者**：暫不 defer，hypothesis 自跑 ≥3 instance 才 promote LESSONS；觀察者若反饋「明明該 ship」即 retire hypothesis（這條 retire 觸發是讓本 pattern 不會 silent 變成 chronic 過度保守）
-
-### 2026-06-21 cicada-media — prettier 把 `_斜體_` caption 裡的 percent-encoded CJK URL `_NN.jpg` 弄壞成 `*NN.jpg`（attribution 連結斷）
-
-- **pattern**: prettier-cjk-url-italic-mangle（markdown 工具鏈 silent breakage，「儀器看得見存在、看不見缺席」cluster 變體）
-- **原則**：媒體 caption 包在 `_..._` 斜體、內含 markdown 連結到 percent-encoded CJK Commons 檔名（`File:…%E6%99%BA_05.jpg`）時，pre-commit 的 prettier 會把 URL 尾端的 `_05` 當斜體 delimiter 跟 caption 的 closing `_` 配對、整段改 `*`，URL 變 `…%E6%99%BA*05.jpg` → 連結指向不存在頁面。純 ASCII URL（陳建年 `_2.jpg`）因 intraword-underscore 規則沒爆，**只有 percent-encoded CJK 檔名觸發**。link-target check 排在 prettier 之後跑才抓得到，本次靠 commit 後手動回查 linter note 才發現。
-- **mitigation（已 apply Cicada）**：caption 內不放 markdown 連結，attribution 寫純文字（`Photo: X / Wikimedia Commons，CC BY-SA 4.0`），可點連結放 `## 圖片來源` 段（不在斜體內，prettier 不動）。image-ingest 的「§圖片來源」貼字本來就走這條，問題出在我自作主張把連結也塞進 caption。
-- **觸發**：2026-06-21 Cicada 影音 EVOLVE，翠池 hero caption `_…[CC BY-SA 4.0 via Wikimedia Commons](…File:翠池_汪大智_05.jpg)._` → prettier → `…BA*05.jpg).*`。
-- **instances**：2026-06-25 公車系統 NEW — 國光/候車亭圖 caption 內嵌 `[來源](…(2026.3.11).jpg)`（paren 斷 markdown link）+ 幸福巴士 `_三峰線_2025` URL（prettier `_`→`*`），**`link-url-mangle` HARD gate 在 pre-commit 首次野生攔截**（儀器化後 instrument 真的擋下、不再靠手動回查 linter note）→ 5 caption 全 de-link、source 走 §圖片來源。證明 2026-06-21 儀器化有效。→ memory/2026-06-25-204254-公車系統.md
-- **可能層級**：操作規則（EDITORIAL §媒體編織 / REWRITE Step 4.3 caption 寫法加「caption 不放 CJK-URL 連結，連結走 §圖片來源」）；或 reflex（「pre-commit prettier 之後必跑 link-target，不信 commit 前狀態」）
-- **相關**：diary cluster「儀器只看得見存在、看不見缺席」（2026-06-10/12）/ REWRITE Step 4.3.6 caption 空行 check（同類 markdown-render silent breakage）/ link-target check
-- **✅ 已儀器化 + canonical（2026-06-21 prettier-url-fix session）**：(1) 新 `article-health.py --check=link-url-mangle`（HARD 抓已壞 `*`-URL / WARN 抓 at-risk `_NN`-in-italic-caption；pre-commit profile `checks="*"` 已 wired，silent breakage 變 loud gate）；(2) EDITORIAL §媒體編織 加 canonical 註；(3) audit 修 13 檔已壞（科技園區發展／猴硐／沈伯洋 × lang），de-link 後 prettier-stable + link-target 綠。**carry**：~47 at-risk 檔（16 篇 × lang）de-link sweep 因 13+47=60 > §自主權邊界 50 檔，flag 哲宇拍板（spawn_task；instrument 已護住不會 silent 復發）。
-- **verification_count**: 3（cicada-media 首見 + audit 證 13 檔跨 6 篇已壞、~47 at-risk + 2026-06-25 公車系統 link-url-mangle gate 首次野生攔截 = 儀器化有效）→ 已升儀器化，distill 時可移 §已消化
-- **severity**: structural（任何帶連結的 CJK Commons 圖 caption 都會重現；斷連結 silent，不 fail build → 已用 link-url-mangle HARD gate 堵）
-
-### 2026-06-25 公車系統 — 場景細節（時間/年齡/數量）source-fidelity：不帶引號的氛圍細節是 quote-fidelity/footnote 都驗不到的漂移死角，只 Stage 3.6 fetch-artifact 接住
-
-- **pattern**: stage2-quote-context-collapse（既有 vc=8 已 distill 成 REWRITE §Stage 2.5；本 instance 是 scene-detail 子類延伸 + Stage 3.6 端 worked example）
-- **原則**：開場場景的時間/年齡/數量（「早上 8:50」「最大 85 歲」「14 條路線」）是高漂移死角——不帶引號（quote-fidelity 不抓）、不在腳註 claim（footnote check 不抓）、不在結構化事實表，卻讀起來「像查過的」。quote-agent 合成場景時把它們寫順，fresh writer 忠實照抄，全部草稿閘門綠。只有 Stage 3.6 成品總驗 fetch 實際被引用的那篇 artifact 逐字回溯才接得住。
-- **觸發**：2026-06-25 公車系統 NEW，Stage 3.6 adversarial verifier 對中央社原報導抓出開場三處：最大年齡 85→90（CNA「幼兒園～90 歲」）、苗栗 14→12 條（誤植新竹縣數）、「8:50」CNA 根本沒有 → 刪。前面 footnote-format/quote-fidelity plugin 全綠。→ memory/2026-06-25-204254-公車系統.md
-- **可能層級**：操作規則（REWRITE §Stage 2.5 source-fidelity 道 1「來源 artifact 逐字回溯」明列「場景細節 atom：時間/年齡/數量/路線數」為與引語並列的高漂移類別，不只驗引號）
-- **相關**：stage2-quote-context-collapse（§已消化，2026-06-16 → Stage 2.5）/ 李洋 #29 場景細節不可從 summary 推導（RESEARCH §六）/ REFLEXES #31 sub-agent claim 是線索 / REWRITE Step 3.6.1 原子重驗
-- **verification_count**: 1（場景細節子類首次明確抽出；Stage 2.5/3.6 canonical 已存在，本案被接住，屬 scene-detail 維度 sharpening 候選）
-- **severity**: minor（canonical gate 已存在且本案被接住；refinement 是「Stage 2.5 是否該明列 scene-detail atom 類別」，非新漏洞）
 
 ### 2026-06-21 twmd-maintainer-am — vc 計數法 routine-only day 偏誤：empty cycle vc 累積 over-sensitive，已 canonical schedule mismatch 在 routine-only days 必然重複 trigger LESSONS entry noise
 
@@ -518,80 +486,50 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **severity**: structural（影響所有抓取/研究任務的完成判準）
 - **Pointer**：[diary/2026-06-21-115925-plurk-reach.md](diary/2026-06-21-115925-plurk-reach.md) + [reports/plurk-reach-research-2026-06-21.md](../../reports/plurk-reach-research-2026-06-21.md)
 
-### 2026-06-21 kuma-academy — A 級/政治文 Stage 3.5 必須 fetch-based adversarial verify，careful read 抓不到 citation-URL drift
-
-- **pattern**: citation-url-drift-invisible-to-read
-- **原則**：讀 prose 品質跟驗 source fidelity 是兩種不同的認知動作。footnote 指向哪個 URL 不影響句子讀起來對不對，所以 orchestrator 連讀兩遍 prose 對 citation-URL drift 完全隱形；只有真的 fetch 每個 URL 逐字比對的 adversarial agent 抓得到。root cause 常在上游：research-report §7 URL list 若只在 cluster 層精準（同一群報導都對）、atom 層不精（哪一篇講哪個 fact 給錯），會直接傳染成 writer footnote mis-map。對策：A 級/政治文 Stage 3.5 強制 fetch-based 逐 URL 比對（不可用 careful read 替代）；research-report URL list 要求 per-atom precise，不是 cluster-precise。
-- **觸發**：2026-06-21 黑熊學院 NEW。對政治文做了兩遍仔細 prose 審查、抓 spine、修對位句，自覺完整；Sonnet verifier fetch 每個 URL 後抓到 `[^20]`/`[^22]` 政治 footnote 整個 swap（國台辦 2024-10-14 ↔ 重慶立案 2025-10-28）、hero `imageSource` 純幻覺檔名、2 句 paraphrase 戴 verbatim 引號、嘖嘖募資數字 source 之間兜不攏——全是 careful read 沒抓到的。
-- **instances**：
-  - 2026-06-21 kuma-academy（首次，政治文）：Sonnet verifier fetch 抓 `[^20]`/`[^22]` 政治 footnote swap + hero imageSource 幻覺 + 2 句 paraphrase 戴 verbatim 引號。
-  - 2026-06-21 幾米-evolve（**非政治 People 文 — 證明範圍不限 A 級/政治**）：主 session ship 前自跑 fetch-verify 4 條高風險 cite，抓 2 錯——`[^16]` 月亮忘記了三事件 mis-cite 到一篇講抗癌的 ltn 文（內容對、source 掛錯）、`[^32]` 田中央丟丟噹森林 mis-cite 到只講火車移置的 lym.gov.tw 頁。命中率 50%。同一 root cause：orchestrator §7 URL list cluster-precise 非 atom-precise。
-  - 2026-06-21 kuma-academy PR #1170 JOIN（**contributor 投稿，非自產 — 證明範圍含外部 PR 審核**）：idlccp1984 AI 工具編 9 個假 join.gov.tw slug URL（真實是 UUID），9 條腳註標題讀起來都對、上個 maintainer review 也只標「死連結」，curl 才知全 404 且是 fabrication；fetch-verify 找回 9 個真實 UUID 全換 + merge。第 3 次驗證跨「政治自產文 / 非政治自產文 / 外部 PR」三種 context，root cause 一致。
-  - 2026-06-26 聲景 #574（**fresh Opus writer 幻覺，非 URL drift 而是「無中生有的具體 detail」— 證明乾淨 context + 驗證過的 research report 仍不免疫**）：writer 在握有完整 §8 verbatim 的乾淨 context 下，仍長出 research report 沒有、CNA 來源也沒有的「2014 年李明璁市府顧問任內向文化局提案」+「給愛麗絲 1810」。主 session ship 前 re-fetch [^7]/[^3] 抓修。**新 sub-pattern**：同一 CNA URL 兩次 WebFetch（research agent vs 主 session）給不同答案 → research agent 回報的 verbatim 本身也是 claim 非 oracle，不是只有 writer 要驗、research 合成層也要。caught-before-ship。
-- **可能層級**：操作規則（REWRITE Stage 3.5 + MAINTAINER PR review **所有 depth 文 + 外部投稿** citation 強制 fetch-based，不限 A 級/政治；**含 writer 新增的具體 atom 對 research report cross-check + 高 stake atom 主 session re-fetch**）+ 通用反射（讀 ≠ 驗）
-- **相關**：REFLEXES #31（sub-agent claim 是線索不是 oracle — 本 instance 把範圍從「agent 自報全綠」擴到「research agent 的 verbatim + writer 新增的具體 detail」）/ #42 / #73（查證反射<建造反射）；2026-06-16 stage2-quote-context-collapse → REWRITE §Stage 2.5 source-fidelity gate
-- **verification_count**: 4（跨 4 session 4 context：政治自產 / 非政治自產 / 外部 PR / fresh-writer 幻覺。下次 distill 升 REFLEXES：「所有 depth 文 + 外部 PR + sub-agent 產出的 citation/具體 atom 必 fetch-verify，careful read 與『乾淨 context』都抓不到」）
-- **severity**: structural（影響所有 depth article 的 ship 安全 — 範圍從「A 級/政治」擴大到「所有 depth」）
-- **Pointer**：[memory/2026-06-21-135235-kuma-academy.md](memory/2026-06-21-135235-kuma-academy.md) / [memory/2026-06-21-154735-幾米-evolve.md](memory/2026-06-21-154735-幾米-evolve.md)
-
----
-
-### 2026-06-26 manual（issue triage）— stale issue（已解未 close）= 對外失聯，跟「做了不記=沒做」對稱
-
-- **pattern**: resolved-issue-left-open-invisible-completion
-- **原則**：已完成的工作如果對應 issue 沒 close，等於對外界隱形——contributor 以為沒人理、可能重複開新 issue，維護 organ 的熵堆在「看起來還沒做、其實早做完」的 gap 裡。這跟 §神經迴路「做了不記=沒做」是同一結構的兩面：一個對自己失憶（沒寫 memory），一個對外界失聯（沒 close issue）。
-- **觸發**：2026-06-26 處理 9 open issue，其中 **#1172a（前往文章按鈕）早在 #1143 做好**（/changelog 實測 2327 顆按鈕）、**#1059 核心 3 bug 早在 #1080 修好**（暗色 TOC 實測亮藍）。兩個都還開著，contributor #1172 等於重複提了已實作的功能。查證才發現「不是要做，是要 close」。
-- **可能層級**：操作規則（MAINTAINER-PIPELINE Stage 3.6 issue act：每次 triage 先問「這 issue 描述的功能/bug 是否已經在某 commit/PR 解掉了？」→ 已解則 close + 附 commit ref，跟「reply 必附 commit hash」同源）。可造橋：maintainer routine 加一步「grep open issue 標題 keyword vs 近期 commit / 既有 component」偵測 stale。
-- **相關**：feedback_reply_to_contributors（close 必 reply）/ §神經迴路「做了不記=沒做」（本條是其對外鏡像）/ MAINTAINER §close 前 hard gate（那條防「該 merge 卻 close」，本條防「該 close 卻留開」）
-- **verification_count**: 1（首次明確；但 #1172a + #1059 同 session 兩 instance）
-- **severity**: process（影響 contributor 信任 + issue backlog 噪音，非 ship 安全）
-- **Pointer**：[memory/2026-06-26-181414-manual.md](memory/2026-06-26-181414-manual.md)
-
----
-
-### 2026-06-27 twmd-babel-nightly — bash 內建 readonly 變數 `GROUPS` collision silent override 寫腳本盲區
-
-- **pattern**: bash-builtin-readonly-array-silent-override
-- **原則**：bash 有一組 readonly built-in 變數（PATH/GROUPS/UID/PPID/RANDOM/SECONDS/LINENO/BASH/\_/HOME/IFS 等），其中 `GROUPS` 是 user 所屬 gid array。腳本裡賦值 `GROUPS=(A B C D)` **silent 失敗**（不 error 出來），expansion 仍回傳系統 gid，造成 expansion 結果是「12 20 33 61 79 80 81 98 100 ...」這類數字而非預期的 A B C D。LLM 寫腳本時這是 invisible landmine。
-- **觸發**：2026-06-27 twmd-babel-nightly dispatch v1 寫 `GROUPS=(A B C D); for G in "${GROUPS[@]}"; do ...` 預期 spawn 20 jobs (4×5)。實際 spawn 80 jobs，G 變數展開為系統 gid 數字，80 個 translate.py 全 crash `FileNotFoundError: '_group-12.json'`。bash -x trace 顯示 G="20" 第一輪即錯。Fix：改用 `ARTS=(A B C D)` 立即正常。
-- **可能層級**：操作規則（任何 routine bash dispatcher / lang-sync helper 寫腳本前自檢：陣列變數名是否撞 bash readonly builtin），可造橋 reflex「寫腳本前 `grep -i '^[A-Z_]*=' file` 對照 readonly builtin list」/ 或直接 lang-sync README §dispatch hygiene 加禁用名單。
-- **相關**：REFLEXES #42（sub-agent / 自動化 silent fail 模式 — 本條 expand 到 bash 層 silent override）/ #35（destructive 操作前驗證範圍）
-- **verification_count**: 1（首次明確；但教訓深 — 觸發 3 個 dispatch bug 連鎖揭發中的第 1 個）
-- **severity**: structural（影響所有未來 bash 自動化腳本 — landmine 等候下次踩）
-- **Pointer**：[memory/2026-06-27-010207-twmd-babel-nightly.md](memory/2026-06-27-010207-twmd-babel-nightly.md)
-
----
-
-### 2026-06-27 twmd-babel-nightly — `prepare-batch.py --lang all` + parallel `translate.py` 平行 race 共享 path 互覆
-
-- **pattern**: prepare-batch-lang-all-parallel-translate-race
-- **原則**：`prepare-batch.py --lang all` 產 manifest `en_path: knowledge/all/Culture/slug.md`，含字面 `all/`。`translate.py` 取 `out_path = REPO / article["en_path"]` 不做 lang 替換。當 5 langs 平行 `translate.py --lang en/ja/ko/es/fr` 都讀同 manifest，5 个 worker 寫同一檔互覆，最後只剩最後完成的 lang 內容。translate.py 自報 `exit=0` + `1/1 ok` 軟標準誤導，看 lang-sync status 還是 missing 才接住。
-- **觸發**：2026-06-27 dispatch v2 fix v1 GROUPS bug 後仍 fail：20 codex 全 exit=0 但 lang-sync status 仍顯示 missing=4 / find 看實際檔案 0 在 knowledge/{lang}/。所有 translation 全寫到 knowledge/all/Culture/\* 共享路徑互覆。Fix v3：跑 5 separate `prepare-batch.py --lang en/ja/ko/es/fr`，manifest 落到 `.lang-sync-tasks/{lang}/_group-X.json` 各自含 lang-specific path，20 codex 全綠落地。
-- **可能層級**：translate.py 加 hard gate（out_path 含 `/all/` segment 立即 error）/ 或 prepare-batch.py `--lang all` 廢除，改強制 5 lang separate call / 或 manifest schema 改 `paths: {en: ..., ja: ...}` map 而非單一 `en_path` 字串。lang-sync README §parallel dispatch hygiene 應加 callout。
-- **相關**：feedback_agent_writefile_hallucination（claim 不等於 file write — 本條是 multi-lang race 變體）/ §神經迴路 silent satisficing（exit=0 + `N/N ok` 軟標準誤導，硬 gate 是 status.py stale=0 + 實際檔案落地）
-- **verification_count**: 1（首次明確；dispatch v2 失敗的根因）
-- **severity**: structural（影響所有平行 babel 工作流；如不 fix 下次 routine fire 可能再踩）
-- **Pointer**：[memory/2026-06-27-010207-twmd-babel-nightly.md](memory/2026-06-27-010207-twmd-babel-nightly.md)
-
----
-
-### 2026-06-27 twmd-babel-nightly — Tier 0a 平行 sub-agent self-verify 用「軟」標準，主 session 接住硬 gate（vc=2 promotion-ready）
-
-- **pattern**: tier-0a-subagent-self-verify-softgate-gap
-- **原則**：Tier 0a 平行 sub-agent 自我 verify 採「patch 邏輯是否跑完」軟標準（patch applied + status.py fresh），不採「article-health pass/fail」硬 gate。當 pre-existing 問題撞上 patch 修改範圍時，sub-agent 傾向「框選為 out-of-scope」而非「heal 一起 ship」。主 session batch verify 必須接住，否則 silent ship 帶 hard fail。
-- **觸發 vc=1**：2026-06-26 es Tier 0a 寫「matching siblings」實際 link-target warn=1 用 English slug 不 match Chinese-slug sibling。
-- **觸發 vc=2**：2026-06-27 ja Tier 0a 自陳「pre-existing hard=10 outside diff-patch scope, OK applied」但實際 article-health hard=10（10 footnote canonical 格式不符）。主 session inline python3 heal 10 footnote `])（YYYY）` → `]) — YYYY年公開の報道、元記事を参照`，hard=0 ship。
-- **可能層級**：reflex 升級「Tier 0a sub-agent prompt 第一鐵律：hard gate 是 article-health pass/fail，不是 patch 是否跑完；pre-existing 問題撞 patch 一律 heal 順便接住，禁聲明 out-of-scope」/ 主 session batch verify 是 default safety net 不是備用（#42 sub-agent 三偷吃步教訓的 routine 化）/ AGENT-PROMPT-TEMPLATE.md 加 self-verify checklist 硬 gate step
-- **相關**：REFLEXES #42（sub-agent 三偷吃步）/ feedback_subagent_anti_example_works（anti-example 比 rule 更 effective — Tier 0a prompt 該附最近一次違反案例）
-- **verification_count**: 2（連 2 夜，跨 6/26 es URL convention + 6/27 ja footnote-format misframing — promotion threshold met）
-- **severity**: structural（影響所有未來 Tier 0a 平行 batch；不接住 → silent ship hard fail）
-- **Pointer**：[memory/2026-06-26-005618-twmd-babel-nightly.md](memory/2026-06-26-005618-twmd-babel-nightly.md) + [memory/2026-06-27-010207-twmd-babel-nightly.md](memory/2026-06-27-010207-twmd-babel-nightly.md)
-
----
-
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
+
+### 🧬 2026-06-28 twmd-distill-weekly — Routine 自決 8 entries promote/fold/sweep + SPORE-INBOX auto-drop 5
+
+**distill 觸發**：cron `twmd-distill-weekly` Sunday 03:00（W26 routine 結清，weekly-report ship + Resend 200 之後 ~80 min）。Routine mode 自決 REFLEXES / MEMORY / pipeline 層；MANIFESTO / strategic / fleet 基礎建設候選一律 defer 給哲宇（per CLAUDE.md §Bias 1）。
+
+**消化目的地**（1 promote 新反射 + 4 fold 既有反射 + 1 MEMORY §神經迴路 + 2 sweep）：
+
+| 原 entry                                                                            | 目的地                                                            | 處置                                                                                                            |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 2026-06-21 kuma-academy — citation-url-drift-invisible-to-read (vc=4 structural)    | **REFLEXES #75** 新增「Read ≠ verify」                            | promote（4 instance 跨政治自產 / 非政治自產 / 外部 PR / fresh-writer 幻覺；routine 自決 reflex 不升 MANIFESTO） |
+| 2026-06-27 babel — tier-0a-subagent-self-verify-softgate-gap (vc=3 promotion-ready) | **REFLEXES #42 v4** 平行 sub-agent softgate 變體 bullet           | fold（連 3 夜 6/26 es URL → 6/27 ja footnote → 6/28 es+fr URL，#42 sequential 偷吃步的 parallel 變體）          |
+| 2026-06-27 babel — bash-builtin-readonly-array-silent-override (vc=1 structural)    | **REFLEXES #42 v5** bash silent override 變體 bullet              | fold（automation silent fail 模式 expand 到 bash layer，等候 vc++ 不單獨 promote）                              |
+| 2026-06-27 babel — prepare-batch-lang-all-parallel-translate-race (vc=1 structural) | **REFLEXES #40 + #42 v6** multi-lang manifest race 雙 bullet      | fold（per-key serialize 的 prepare 層 instance + sub-agent 自報軟標準誤導同源）                                 |
+| 2026-06-24 211808-manual — derived-pointer-date-neutral (vc=3 tactical→reflex)      | **REFLEXES #38** 加「衍生指標 frontmatter date neutrality」bullet | fold（sporeLinks/MEDIA_ONLY/relatedDiary 三 instance 同 status「混維度」變體；已 instantiate as code）          |
+| 2026-06-21 cicada-media — prettier-cjk-url-italic-mangle (vc=3 ✅ 已儀器化)         | §已消化（housekeeping-done，無新 canonical 寫入）                 | sweep（`link-url-mangle` HARD gate + EDITORIAL §媒體編織 canonical 已 ship 2026-06-21）                         |
+| 2026-06-25 公車系統 — stage2-quote-context-collapse scene-detail 子類 (vc=1 minor)  | §已消化（fold pointer 進 #75 與既有 §Stage 2.5）                  | sweep（既有 Stage 2.5 canonical 已 cover，Stage 3.6 fetch-artifact 接住，本案 refinement note）                 |
+| 2026-06-26 manual — resolved-issue-left-open-invisible-completion (vc=1 process)    | **MEMORY §神經迴路** 新增「stale issue = 對外失聯」               | promote（「做了不記=沒做」的對外鏡像；Taiwan.md-specific 公開 contributor relationship）                        |
+
+**留 §未消化 17 條**（vc=1-2，無 canonical home，待累積或 defer 哲宇）：
+
+- **defer 給觀察者 4 條 routine-rule 候選**（body 明標 defer）：rewrite-daily-post-manual-recency-collision (vc=4) / maintainer-vc-counting-bias (vc=2) / routine-device-dependent-offline (vc=3) / post-LESSONS-promotion-cooldown (vc=1)
+- **defer 給觀察者 2 條 tooling 候選**（body 明標 defer hypothesis 自跑 ≥3 instance）：ollama-translate.py path bug (vc=1 structural) / codex CLI subscription burst quota (vc=1 tactical)
+- **still-buffering 5 條**（6/19 distill 已決定 still-buffering）：plurk-reach (vc=1 structural) / Reader-funded resilience (vc=1 strategic) / 核心矛盾≤20字 (vc=1 tactical) / 政治敏感題 SSODT (vc=2) / 黑冠麻鷺 dual-platform (vc=1) / Fresh-clone gitignore / 資料層先於 UI / 重疊文章雙軸拆分 / 獨立開源公民科技
+- **小教訓不單獨 entry**：spore post-ship verify (#150 propagation lag near-miss) / cocommit-positive-filter (vc=1)
+
+**SPORE-INBOX 容量 audit**（v2.1 Stage 6）：pending **53 ≥ 50** → auto-drop 最舊 5 條 P2/P3 `twmd-spore-pick-daily routine` 未 promote entries — **愛玉**（5/23 score=8 P3）/ **林央敏**（5/24 score=8 P3）/ **台灣體育發展與國際賽事**（5/25 score=8 P3）/ **國家太空中心 TASA**（5/27 score=15 P3）/ **艋舺**（5/28 score=30 P2，36 天未 ship 皆原始 routine commit 無 manual edit，per §SPORE-INBOX safe-destructive SOP）。pending 53 → 48。
+
+**Promotion flow direction 符合**：LESSONS → REFLEXES（合法）+ LESSONS → MEMORY §神經迴路（合法）；無 LESSONS → MANIFESTO 跳級；defer 條目等於「先進 §未消化 keep buffer」不是降級。
+
+**REFLEXES.md frontmatter sync**：v5.1 → v5.2，footer changelog 同 cycle 新增（per §Stage 4.5 canonical state sync）；catalog index #75 列入 + description 條數 72→73。**MEMORY.md frontmatter sync**：last_session 更新到本 distill。
+
+| #   | 原教訓 entry                                                      | 消化目的地                                       | severity   | vc  |
+| --- | ----------------------------------------------------------------- | ------------------------------------------------ | ---------- | --- |
+| 1   | 2026-06-21 kuma-academy — citation-url-drift-invisible-to-read    | REFLEXES #75 新（Read ≠ verify）                 | structural | 4   |
+| 2   | 2026-06-27 babel — tier-0a-subagent-self-verify-softgate-gap      | REFLEXES #42 v4 平行 sub-agent softgate bullet   | structural | 3   |
+| 3   | 2026-06-27 babel — bash-builtin-readonly-array-silent-override    | REFLEXES #42 v5 bash silent override bullet      | structural | 1   |
+| 4   | 2026-06-27 babel — prepare-batch-lang-all-parallel-translate-race | REFLEXES #40 + #42 v6 multi-lang manifest race   | structural | 1   |
+| 5   | 2026-06-24 manual — derived-pointer-date-neutral                  | REFLEXES #38 衍生指標 date neutrality bullet     | tactical→r | 3   |
+| 6   | 2026-06-21 cicada-media — prettier-cjk-url-italic-mangle          | §已消化（已儀器化 link-url-mangle HARD gate）    | structural | 3   |
+| 7   | 2026-06-25 公車系統 — scene-detail Stage 2.5 子類                 | §已消化（既有 Stage 2.5/3.6 canonical 已 cover） | minor      | 1   |
+| 8   | 2026-06-26 manual — resolved-issue-left-open-invisible-completion | MEMORY §神經迴路（「做了不記=沒做」對外鏡像）    | process    | 1   |
 
 ### 🧬 2026-06-21 twmd-distill-weekly — Routine 自決 2 entries fold 既有 REFLEXES + SPORE-INBOX auto-drop 5
 
