@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-06-28T15:10:28.873Z",
+  "generatedAt": "2026-06-28T22:11:41.456Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "e351736f64829eaf8f89db6cfd23b4fa02c73d41",
+      "date": "2026-06-29T05:08:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-29-050742-twmd-embeddings-nightly — 連 12 夜 fleet-down graceful skip",
+      "articles": []
+    },
+    {
+      "hash": "1e000e9fbe872d2879180d40b62a8be0a220f994",
+      "date": "2026-06-29T01:14:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-29-011201-twmd-babel-nightly — 連 12 夜 stale=0",
+      "articles": []
+    },
+    {
+      "hash": "6a7e06ce8f4852190db25004f8a8f2bf465d1211",
+      "date": "2026-06-29T01:11:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: sync _translations.json — 5 新譯本入帳",
+      "articles": []
+    },
+    {
+      "hash": "fbca064a79c2dccce72c58e07db381e66905c5d9",
+      "date": "2026-06-29T01:08:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 連 12 夜 stale=0 — 95 件分三軌完成",
+      "articles": []
+    },
+    {
+      "hash": "73bff43f283147b0cc02fc6ebae76e3e760d484c",
+      "date": "2026-06-28T23:14:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: pm 14-step 全綠，CF 404 跌到 8.76% 單日 -1.14pp 破紀錄",
+      "articles": []
+    },
     {
       "hash": "e83cb726f84c5eb6a7aa11731957c58ee2b006bf",
       "date": "2026-06-28T22:11:02+08:00",
