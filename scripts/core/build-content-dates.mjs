@@ -151,31 +151,56 @@ function main() {
     return;
   }
 
-  const dates = {}; // url -> ISO (newest non-cosmetic wins; log is newest-first)
-  let curDate = '';
-  let cosmetic = false;
+  const dates = {}; // url -> ISO (newest substantive wins; log is newest-first)
   let skipped = 0;
 
+  // 2026-06-28: BATCH_THRESHOLD — a single commit touching > 50 knowledge .md files
+  // is a bulk op (cross-link rename sweep, slug rename, mass re-categorize) even when
+  // its subject reads substantive (e.g. "rewrite: X NEW + rename" that ALSO sed'd 99
+  // 延伸閱讀 links). Subject-based COSMETIC can't catch a MIXED commit (1 real article
+  // edit + 99 link-only touches), so a slug-rename sweep flooded「最新文章」with
+  // articles that only had one link changed (user callout 2026-06-28: 不是今天寫的
+  // 文章也因為連結被浮上來). Fix = two-pass dating: substantive (non-batch) commits
+  // set the real date first; batch commits then fill ONLY articles still undated — so
+  // a genuinely-new article shipped inside the batch commit keeps today's date, while
+  // articles with an older real edit keep that older date. Mirrors
+  // generate-dashboard-data.js BATCH_THRESHOLD. Errs stale-but-true, never fake-fresh.
+  const BATCH_THRESHOLD = 50;
+
+  // Parse the newest-first log into commits with their knowledge URLs.
+  const commits = []; // { date, cosmetic, urls: [] }
+  let cur = null;
   for (let token of log.split('\0')) {
     token = token.replace(/^\n+/, '').trim();
     if (!token) continue;
     if (token.startsWith('COMMIT|')) {
       const parts = token.split('|');
-      curDate = parts[2] || '';
       const subject = parts.slice(3).join('|');
-      cosmetic =
-        COSMETIC.test(subject) ||
-        SPORE_POINTER.test(subject) ||
-        MEDIA_ONLY.test(subject) ||
-        RELATED_DIARY.test(subject);
-    } else if (token.startsWith('knowledge/') && token.endsWith('.md')) {
-      if (cosmetic) {
-        skipped++;
-        continue;
-      }
+      cur = {
+        date: parts[2] || '',
+        cosmetic:
+          COSMETIC.test(subject) ||
+          SPORE_POINTER.test(subject) ||
+          MEDIA_ONLY.test(subject) ||
+          RELATED_DIARY.test(subject),
+        urls: [],
+      };
+      commits.push(cur);
+    } else if (cur && token.startsWith('knowledge/') && token.endsWith('.md')) {
       const url = knowledgePathToUrl(token);
-      if (!url) continue;
-      if (!dates[url]) dates[url] = curDate;
+      if (url) cur.urls.push(url);
+    }
+  }
+  for (const c of commits) if (c.cosmetic) skipped += c.urls.length;
+
+  // Pass 1 = substantive non-batch commits (set real date); Pass 2 = batch commits
+  // fill only still-undated articles (new-in-batch). Both iterate newest-first, so
+  // `if (!dates[url])` keeps the newest qualifying date per article.
+  for (const batchPass of [false, true]) {
+    for (const c of commits) {
+      if (c.cosmetic) continue;
+      if (c.urls.length > BATCH_THRESHOLD !== batchPass) continue;
+      for (const url of c.urls) if (!dates[url]) dates[url] = c.date;
     }
   }
 
