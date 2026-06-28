@@ -103,6 +103,21 @@ const MEDIA_ONLY =
 const RELATED_DIARY =
   /(relatedDiary|relatedDiary 回扣|relatedDiary 集體回補|sync-diary-links)/i;
 
+// 2026-06-28: dedicated cross-link commits touch only a sibling's 延伸閱讀 list — NOT a
+// content edit. A reverse-cross-link (Step 5.2 commit "cross-link: 為「X」建立雙向延伸閱讀")
+// adds one line to each sibling; without this, every article ship floats its 2-5
+// cross-linked siblings to「最新文章」(user callout 2026-06-28: 不是今天寫的文章也因為連結
+// 被浮上來). Siblings always have an older substantive commit to fall back to, so this
+// never orphans a date. Complements BATCH_THRESHOLD below (the >50-file slug-rename sweep).
+// NOT included: recat/重新分類 (a path move leaves the new-path file with NO older history
+// here — making it cosmetic would drop it from /latest entirely, worse than the move date);
+// and a cross-link BUNDLED inside a substantive ship commit (subject "rewrite:…" that also
+// reverse-cross-links siblings) — fully covering that needs per-file diff-size (-z
+// --numstat), deferred as a riskier change to this previously-/latest-breaking parser.
+// Mitigation: keep reverse-cross-links in their own "cross-link:" commit. Errs stale-but-true.
+const CROSS_LINK_RECAT =
+  /(cross-link|雙向延伸閱讀|反向延伸閱讀|reverse cross-link)/i;
+
 function knowledgePathToUrl(p) {
   const parts = p.split('/');
   if (parts[0] !== 'knowledge') return null;
@@ -182,7 +197,8 @@ function main() {
           COSMETIC.test(subject) ||
           SPORE_POINTER.test(subject) ||
           MEDIA_ONLY.test(subject) ||
-          RELATED_DIARY.test(subject),
+          RELATED_DIARY.test(subject) ||
+          CROSS_LINK_RECAT.test(subject),
         urls: [],
       };
       commits.push(cur);
