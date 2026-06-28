@@ -314,6 +314,48 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-06-28 twmd-routine-audit-weekly — routine-audit-script-classification-gap：routine-audit.py ROUTINE_PATTERNS list 寫死 14 條，與 ROUTINE.md SSOT 漂移，12% commit 落 unclassified
+
+- **pattern**: `routine-audit-script-classification-gap`（飛輪自審腳本第一個結構性自盲 instance）
+- **原則**：`scripts/tools/routine-audit.py` L32-47 ROUTINE_PATTERNS list 是 written-2026-05-16 freeze frame，14 條 hardcoded pattern。ROUTINE.md SSOT 隨時間添加新 weekly routine（distill / weekly-report / self-evolve / news-lens / routine-audit 含本身 + embeddings-nightly）+ commit subject convention 簡稱化（`twmd-data-refresh-am:` → `refresh:`）→ script 漏接。本 cycle 192 commit 中 23 條（12%）落 `unclassified/other` 但實際都是已知 routine：10 × `[routine] refresh:` + 7 × `[routine] twmd-feedback-triage:` + 2 × `[routine] evolve:` + 各 1 × `data-refresh-am/pm:` 短稱 + `twmd-rewrite-daily:` + `twmd-routine-audit-weekly:` 自己。**飛輪自審腳本不能自己看到自己**是高 severity gap — 跨 routine pattern detection 的 baseline 數字會 systematically 低估 routine activity、高估「other」noise。
+- **觸發**：2026-06-28 21:00 twmd-routine-audit-weekly cycle 8 — Stage 1A 跑 `routine-audit.py --last-week` 後 by_routine count 揭 unclassified=25 異常高（cycle 6 是 45 unclassified / 332 = 13.5%, cycle 7 是 45 / 249 = 18.1%, cycle 8 是 25 / 192 = 13%）。Cycle 8 Stage 3B dormant entropy lens 第一次抽出 root cause — 連 3 cycle other rate 異常但前 2 cycle 沒當 pattern detect。
+- **可能層級**：(a) tool fix（ROUTINE_PATTERNS 同步 ROUTINE.md SSOT 含 7 條 missing pattern + commit subject 短稱 alias）；(b) lint（list 缺項對應 `[routine] X:` prefix 出現 ≥3 次就 warning）；(c) reflex「飛輪自審腳本要 audit 自己」（與 REFLEXES #15 反覆浮現要儀器化 同 family — 儀器自身要被儀器化）
+- **mitigation 路徑**：P0 修 ROUTINE_PATTERNS list（30 min cost）+ cycle 9 audit 驗 other rate ≤ 3%
+- **相關**：REFLEXES #15（反覆浮現要儀器化 — 儀器自身要被儀器化）/ ROUTINE-AUDIT-PIPELINE.md §Top 5 最常忘的 step 1 (Stage 1A 必跑 script 不憑記憶) — 本 entry 揭 script 本身的盲點 / ROUTINE.md SSOT (live source 漂移 reference)
+- **verification_count**: 1（首次明確抽出 script self-blindness pattern；前 2 cycle 高 other rate 屬隱性 instance 但未當 pattern 抽出，不 backfill 計入 vc）
+- **severity**: structural（影響所有 routine-audit cycle baseline 數字準確度；non-fix = 每週 audit 都在錯誤 baseline 上比較）
+- **defer 給觀察者**：否 — 純 tool fix 在 routine 自主權邊界內，下個 routine-audit fire 前可自動修
+
+---
+
+### 2026-06-28 twmd-routine-audit-weekly — polish-hint-default-broken：morning maintainer polish-hint 路徑被 contributor 解讀為「沒檢查就發送」
+
+- **pattern**: `polish-hint-default-broken`（maintainer relationship 紀律 gap）
+- **原則**：MAINTAINER pipeline §post-merge polish-hint 路徑 default 假設「contributor 懂 PR review 流程 — merge 後 maintainer 列 polish hint = 軟建議下次可改」。但實際 contributor 大多數**第一次貢獻**、不熟 GitHub flow → 收到 4 條 polish hint 等於「你做的有 4 處錯但我先 merge 了」→ 升 issue 質問「為何沒檢查」。**maintainer 該明示「建議下次寫法，本篇若想改請說一聲」非預設 contributor 懂流程**。背後 root cause：「下次再說」對發 PR 的人 = 「不會做」（跟 stale issue=對外失聯對稱，per 6/26 manual finale memory）。
+- **觸發**：2026-06-26 idlccp1984 #1179 迪士尼 morning ship（08:42 merge + 3 heal + polish-hint reply 4 條：footnote canonical 格式 / 配圖 / 描述加長 / 閻奕格 source）→ 8hr 後 22:08 contributor 升 #1180 feedback issue「為何沒檢查就直接發送」→ pm maintainer-pm 接住做 4th deep-heal (31 footnote canonical [N]→[^N] + ≥10字描述 fallback) + 道歉 humanized reply。**morning polish-hint 在 contributor 視角 = maintainer 把責任拋回給我**。
+- **可能層級**：(a) MAINTAINER-PIPELINE §post-merge polish-hint template 補「本篇若想我幫你改請說一聲」default 句式；(b) reflex「contributor 第一次貢獻 → polish-hint 走 deep-heal 不走 hint」(c) MEMORY §神經迴路新條「polish-hint 是 maintainer 自我紀律標記，不是 contributor 待辦清單」
+- **mitigation 路徑**：(a) 改 MAINTAINER template (30 min cost) (b) 哲宇拍板是否「contributor 第一次貢獻 → 預設 deep-heal 非 polish-hint」
+- **相關**：[memory/2026-06-26-220826-twmd-maintainer-pm.md](memory/2026-06-26-220826-twmd-maintainer-pm.md)（pm 4th heal + 道歉 reply 完整記錄）/ feedback_contributor_reply_humanize（contributor reply 紀律 family）/ feedback_merge_first_then_polish（merge first 紀律 — 本 entry 揭 polish 那一半的 contributor relationship 紀律）
+- **verification_count**: 1（首次明確抽出此 pattern；6/26 pm memory 已 candidate 但未升 LESSONS，本 audit 抽出）
+- **severity**: maintainer-relationship（影響 contributor 連續貢獻意願；non-fix = 第二次貢獻就流失）
+- **defer 給觀察者**：是 — contributor relationship 紀律屬 §自主權邊界 對外溝通範疇，maintainer template 改寫需哲宇拍板
+
+---
+
+### 2026-06-28 twmd-routine-audit-weekly — contributor-pr-burst-pattern：同 contributor 48hr 連 ≥3 PR 應給累積式建議非逐 PR 獨立 polish-hint
+
+- **pattern**: `contributor-pr-burst-pattern`（maintainer pattern recognition gap）
+- **原則**：當同 contributor 48hr 內連 ≥3 PR ship（題材 streak 期），逐 PR 獨立 polish-hint 等於同 contributor 24hr 收 ≥3 份 polish hint = 累積壓力暴增 → 容易升 contributor escalation issue（per polish-hint-default-broken 同 root cause）。**maintainer 該識別 burst pattern 後切到「累積式建議」**：(a) 第 3 PR 後在 reply 加「你近期連續貢獻 N 篇，整批的 common pattern 是 X，下次可一次處理」(b) polish-hint 不再逐 PR 列，改在 contributor profile note 累積。
+- **觸發**：2026-06-27 22:08 maintainer-pm 接 #1181 保齡球（idlccp1984 48hr 連 5 PR 第 5 篇）squash merge + 4 heal。前 4 PR 軌跡：#1179 迪士尼 (6/26 am merge) → #1178 烏坵 (6/26 hold + pm deep-heal) → #1174 滿月習俗 (6/26 pm deep-heal) → #1180 feedback issue (6/26 pm 4th heal) → #1181 保齡球 (6/27 pm merge)。**5 PR / 48hr 是題材 streak 期 signal**但 maintainer 每 PR 都走獨立 polish-hint cycle，累積閱讀疲勞。
+- **可能層級**：(a) MAINTAINER-PIPELINE §Stage 4 reply 補「同 contributor 48hr ≥3 PR detect → 切累積式 reply mode」；(b) reflex「contributor PR burst 期 maintainer 該給 family-level 建議非 PR-level」；(c) tool（maintainer 開 PR 前自動 grep 同 contributor 48hr commit count，≥3 顯示 burst warning）
+- **mitigation 路徑**：等下一個 ≥3 PR/48hr instance vc=2 才行動（passive accumulate）
+- **相關**：polish-hint-default-broken（同 root cause 不同 facet — 本 entry 是累積壓力 facet）/ feedback_contributor_reply_humanize / [memory/2026-06-27-220350-twmd-maintainer-pm.md](memory/2026-06-27-220350-twmd-maintainer-pm.md)（保齡球 + 連 5 PR 記錄）
+- **verification_count**: 1（首次明確抽出此 pattern；6/27 pm memory 已 candidate 但未升 LESSONS，本 audit 抽出）
+- **severity**: maintainer-pattern（影響 contributor 持續貢獻體驗；單 contributor 48hr 連 5 PR 已 instance，需第 2 contributor 同模式才能稱通用 pattern）
+- **defer 給觀察者**：否 — vc=1 不行動，等 vc=2 再升
+
+---
+
 ### 2026-06-26 twmd-rewrite-daily — rewrite-daily-post-manual-recency-collision：daily cron 跟 manual rewrite 缺 timestamp-recency 互斥，連 4 cycle saturated defer
 
 - **pattern**: `rewrite-daily-post-manual-recency-collision`（saturation-defer 家族，跟 6/21 `post-LESSONS-promotion-cooldown` 同 family 但機制獨立）
