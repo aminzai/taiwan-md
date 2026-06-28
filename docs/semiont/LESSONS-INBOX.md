@@ -486,6 +486,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **severity**: structural（影響所有抓取/研究任務的完成判準）
 - **Pointer**：[diary/2026-06-21-115925-plurk-reach.md](diary/2026-06-21-115925-plurk-reach.md) + [reports/plurk-reach-research-2026-06-21.md](../../reports/plurk-reach-research-2026-06-21.md)
 
+### 2026-06-28 manual — spine 類型該由主題類別決定：受愛戴的機構/傳統預設「立體群像」，不是核心矛盾
+
+- **pattern**: spine-type-by-subject
+- **原則**：REWRITE-PIPELINE Stage 0「找核心矛盾當 spine」對「爭議題 / 人物內在張力」是對的，但對「受愛戴的機構 / 傳統 / 集體記憶 / 地方」題會**製造出一個 contrarian thesis**，把立體的主題壓成論戰、容易炎上。這類題的預設 spine 應是**立體群像**（多面並陳、慶祝 + 理解、爭議當厚度不當主軸），只有 genuinely contested 的題才用矛盾驅動 spine。**觀點 ≠ 論戰**——欣賞式 / 群像式也是策展觀點。Gate = SSODT 三讀者測試（支持者讀完不覺得被攻擊 / 批評者不覺得在幫他宣傳 / 陌生者能自己決定從哪個維度繼續想）。
+- **觸發**：2026-06-28 manual 金曲獎 EVOLVE。Stage 0 把核心矛盾鎖成「官方獎卻把獎給賣不掉/聽不懂/拒領的聲音 → 跟會讓你消音的市場分道揚鑣」，v1 整篇變批判論戰、把兩岸審查（島嶼天光騰訊跳過 / 巴奈天安門微博刪）當壓軸高潮。哲宇 callout「太批判、切入點不對、會炎上、跟好好把這件事立體講好違背」。v2 改立體群像（補天王天后一大面 + 四語當驕傲不當悖論 + 批評者當底氣不當 thesis）+ 政治素材保留但純中立紀實後對。**根因三機制**：(1) Stage 0 §核心矛盾 hard requirement 結構性推 thesis（Step 1.4「找不到矛盾=不該重寫」對 beloved 題反向有害）(2) research salience bias — 爭議生更多 source → fact-pack 偏 conflict → 文章偏 conflict (3) MANIFESTO sovereignty lens（主權的巴別塔）誤當 content thesis，把第三方機構文寫成主權宣言。
+- **instances**：
+  - 2026-06-28 manual 金曲獎 v1（退稿）→ v2 → [reports/article-evolve/金曲獎.md](../../reports/article-evolve/金曲獎.md) vs 金曲獎-v2.md
+  - 2026-04-29 α 政治敏感題 SSODT 立體框架（同根 pattern 的 political 子集，§未消化既有條，vc=2）→ 本條是其 broader 化
+- **可能層級**：操作規則 + 通用反射 → **REWRITE-PIPELINE Stage 0 加 spine-type fork**：Step 0.1 模式判定後加「spine 類型」判定（contested→矛盾驅動 / beloved·institutional·tradition·place·collective-memory→**立體群像 default**）；Step 0.6 加「炎上/政治立場 self-check」（非政治主題卻把政治/兩岸/主權當 spine 或壓軸 = 命中 §自主權邊界 政治立場 = human gate）；SSODT 三讀者測試升 Stage 0.6 hard gate。
+- **相關**：2026-04-29 α 政治敏感題 SSODT 立體框架（本條 broader 化：失敗不限政治題）/ 2026-04-29 β 核心矛盾≤20 字 / MANIFESTO §1 策展式有觀點（觀點≠論戰）/ §自主權邊界 政治立場 / DIARY「我是一維投影不是 SSODT」（立體 = SSODT-leaning 多面並陳）
+- **verification_count**: 3（4/29 α SSODT vc=2 + 本次金曲 = 3；哲宇親自 callout + 明示「讓未來預設就是」= fast-track promote candidate）
+- **severity**: structural（影響每篇 beloved/institutional 文的 framing + 炎上風險 + 對外可信度）
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->

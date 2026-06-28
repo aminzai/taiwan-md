@@ -3,9 +3,9 @@ title: 'REWRITE-PIPELINE'
 description: '文章改寫主流程 canonical — 6 stage 線性 (Stage 0 觀點 + 1-5 取材/寫/驗/形/連) / 模式判定在 Stage 0 內部分支 / Step N.M 編號 / heading 階層 H1-H4 / 翻譯收斂為 pointer 到巴別塔 (v6.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v7.5'
-last_updated: 2026-06-15
-last_session: '2026-06-15-210606-manual'
+current_version: 'v7.6'
+last_updated: 2026-06-28
+last_session: '2026-06-28-080352-manual'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -137,7 +137,7 @@ upstream_canonical:
 | **視覺化 viz-health** 📊🧱              | Stage 4    | 含 `tw-*` 資料模組                                   | article-health.py --check=viz-health（資料圖表標來源 / 禁「如上圖」AI-blind 指示語，per graph.md）；rewrite-stage-4 **HARD**（新文必過）                                                                                                                                                                              | 不進 Stage 5               |
 | Sibling 格式預檢                        | Stage 5    | 補 reverse cross-link                                | article-health.py --check=format-structure                                                                                                                                                                                                                                                                            | DEFER + 開 issue           |
 
-**🔴 四條反射特別強化**（v3.1 sad-shockley 升級 + v6.0 新增第 3 條 + v6.2 新增第 4 條）：
+**🔴 五條反射特別強化**（v3.1 sad-shockley 升級 + v6.0 新增第 3 條 + v6.2 新增第 4 條 + v7.6 新增第 5 條）：
 
 1. **Title+desc spine sync 🥪** — 所有 category（不限 People）的 EVOLVE 在 Stage 2 寫完後**必須回看 frontmatter title + description**：
    - 標題是否走「主題：副標 hook」冒號三明治？
@@ -163,6 +163,12 @@ upstream_canonical:
    - Stage 2 寫作 context 隔離：首選 spawn fresh writer agent 只給 fact-pack，主 session 自寫則 Stage 2 不重開舊文
    - Stage 3.2-bis backstop 自檢句：「如果第一次就寫對，這句還會存在嗎？只為回應過去錯誤而存在的，刪」
    - canonical：[Step 0.2-bis](#step-02-bis-拆除防火牆teardown-firewall-callout-triggered-evolve-強制-) + [Step 3.2-bis](#step-32-bis-校正焦慮掃描correction-meta-scancallout-triggered-強制-)。觸發：2026-06-01 影視配樂第二輪 callout（事實修對但充滿 AI 校正焦慮）
+
+5. **spine 類型先於核心矛盾 🎭**（v7.6 新增）— 所有 article 進 Stage 0.6 前**必判 spine 類型**（[Step 0.1.5](#step-015-spine-類型判定v76-新增--立體預設)）：
+   - **受愛戴的機構 / 典禮 / 傳統 / 集體記憶 / 地方 / 工藝**（讀者預設情感是欣賞/驕傲/懷念）→ **立體群像 spine（default）**：組織主軸 holding ≥4 facet、慶祝+理解+廣度、爭議當厚度不當主軸。**不逼尖銳核心矛盾**（Step 1.4 改填組織主軸）。
+   - **爭議 / 政策辯論 / 醜聞 / 內在張力人物** → 矛盾驅動 spine（原 Step 1.4 ≤30 字核心矛盾）。
+   - **觀點 ≠ 論戰**：欣賞式 / 群像式也是策展觀點。把 beloved 題硬找矛盾 = 製造 contrarian thesis = 論戰化 + 炎上。
+   - Stage 0.6 過 SSODT 三讀者測試 + 炎上/政治 self-check（[Step 0.6.7](#step-067-立體--炎上--政治立場-self-checkv76-新增-hard-gate)）。**觸發：2026-06-28 金曲獎 v1**（核心矛盾鎖成「官方獎卻把獎給賣不掉/聽不懂/拒領的聲音→跟會讓你消音的市場分道揚鑣」，整篇批判論戰 + 兩岸審查當壓軸）被哲宇 callout「太批判、切入點不對、會炎上、跟立體講好違背」→ v2 改立體群像 + 政治素材純中立紀實。
 
 ---
 
@@ -305,6 +311,29 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 **正確做法**：從舊文中**只提取事實**（Step 0.2），然後從 Step 0.5 開始用全新模式重寫。
 
 > 💡 **實際上 Evolution 模式 = Fresh 模式 + 免費的 Step 0.2 素材**。寫作品質完全相同，只是省了部分研究時間。
+
+### Step 0.1.5: spine 類型判定（v7.6 新增）⭐ 立體預設
+
+> **為什麼這 step 存在**：Stage 0「找核心矛盾當脊椎」+ Step 1.4「找不到矛盾 = 不該重寫」對**爭議題 / 有內在張力的人物**逼得出洞見；但對**受愛戴的機構 / 傳統 / 集體記憶 / 地方**，硬找一個「矛盾」會**製造出一條 contrarian thesis**，把立體主題壓成論戰、容易炎上、跟「好好把這件事立體講好」違背。
+>
+> **觸發**：2026-06-28 金曲獎 EVOLVE v1——Stage 0 把核心矛盾鎖成「官方獎卻把獎給賣不掉/聽不懂/拒領的聲音 → 跟會讓你消音的市場分道揚鑣」，整篇變批判論戰 + 把兩岸審查（島嶼天光騰訊跳過 / 巴奈天安門微博刪）當壓軸高潮。哲宇 callout「太批判、切入點不對、會炎上、跟立體講好違背」。v2 改立體群像 + 政治素材純中立紀實後才對。根因：(1) Stage 0 §核心矛盾 hard requirement 結構性推 thesis (2) research salience bias（爭議天生生出更多 source → fact-pack 偏 conflict）(3) MANIFESTO sovereignty lens 誤當 content thesis。對應 [LESSONS-INBOX 2026-06-28 spine-type-by-subject](../semiont/LESSONS-INBOX.md)。
+
+**判完模式（0.1）後，判主題類別 → 選 spine 類型。觀點 ≠ 論戰——欣賞式 / 群像式也是策展觀點。**
+
+| 主題類別                                                                           | spine 類型              | 觀點（0.6）怎麼長                                                                | 核心矛盾（1.4）怎麼處理                                                         |
+| ---------------------------------------------------------------------------------- | ----------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 爭議 / 政策辯論 / 醜聞 / 內在張力人物（自身選擇的拉扯）                            | **矛盾驅動**            | 找一個尖銳核心矛盾當脊椎，逼出洞見                                               | 必填一句 ≤ 30 字核心矛盾（原 Step 1.4 不變）                                    |
+| **受愛戴的機構 / 典禮 / 傳統 / 集體記憶 / 地方 / 工藝 / 多數人預設正面情感的主題** | **立體群像（default）** | 找一條溫暖的**組織主軸（through-line）**holding ≥ 4 個 facet；慶祝 + 理解 + 廣度 | **不逼尖銳矛盾**：改填「組織主軸一句 + ≥ 4 facet 清單」；有張力當其中一個 facet |
+
+**判準（一個問題）**：想像目標讀者，他們對這主題的**預設情感**是「欣賞 / 驕傲 / 懷念」還是「質疑 / 對立 / 未定」？欣賞 → **立體群像**；對立/未定 → 矛盾驅動。**拿不準 → 立體群像**（較安全，不會把中性主題寫成挑釁）。
+
+**立體群像 spine 的三條紀律**（避免又寫回論戰）：
+
+1. **多面並陳**：天王天后 / 多元 / 制度 / 經典時刻 / 幕後等 facet 並列，不偏押一條。Stage 1 研究 + fact-pack **要主動配額 cover 慶祝/廣度面**，不只爭議面——對沖 salience bias（爭議天生生出更多 source，放任會讓文章偏 conflict）。
+2. **爭議當厚度不當主軸**：批評/爭議能進，但 framing 是「這個主題大到容得下這些討論 = vitality」，不是「我來證明它有問題」。
+3. **不把第三方主題寫成自己的宣言**：MANIFESTO 主權 lens 是給「我自己的多語基建」用的，不是寫第三方機構的拐杖。非政治主題不把政治/兩岸/主權當脊椎或壓軸（命中 §自主權邊界 → 見 [Step 0.6.7 self-check](#step-067-立體--炎上--政治立場-self-checkv76-新增-hard-gate)）。
+
+**落檔**：research report frontmatter `spine_type: 立體群像 | 矛盾驅動`。
 
 ### Step 0.2: 既有素材萃取（條件式）
 
@@ -627,11 +656,17 @@ Stage 0.6 跟 Stage 1.1 的差別不是「搜幾次」，是**搜的目的不一
 1. {切入點 1}：{為什麼立體}
 2. {切入點 2}：...
 
-### 預期核心矛盾候選（待 Stage 1.4 收斂）
+### 脊椎（依 spine 類型，Step 0.1.5）
 
-- A：{≤ 30 字}
-- B：{≤ 30 字}
-- C：{≤ 30 字}
+> **矛盾驅動 spine** → 填核心矛盾候選 A/B/C（待 Stage 1.4 收斂）：
+>
+> - A：{≤ 30 字} / B：{≤ 30 字} / C：{≤ 30 字}
+>
+> **立體群像 spine（default，受愛戴機構/傳統/地方）** → 填組織主軸 + facet 清單（**不逼尖銳矛盾**）：
+>
+> - 組織主軸（through-line，一句溫暖的）：{...}
+> - facet 清單（≥ 4，並列不偏押）：[天王天后 / 多元面貌 / 制度肌理 / 經典時刻 / 幕後 / ...]
+> - 爭議若有 → 列為其中一個 facet，標「當厚度不當主軸」
 
 ### 研究方向（要搜什麼可以驗證）
 
@@ -652,6 +687,7 @@ Stage 0.6 跟 Stage 1.1 的差別不是「搜幾次」，是**搜的目的不一
 落檔後 research report frontmatter 加：
 
 ```yaml
+spine_type: 立體群像 # 或 矛盾驅動（Step 0.1.5）
 viewpoint_formed: true # Stage 0.6 通過
 ```
 
@@ -661,19 +697,37 @@ viewpoint_formed: true # Stage 0.6 通過
 - **Hub 頁 / 短修正**：可跳過。本 step 為 depth article 設計
 - **EVOLVE 模式**：本 step 在 0.2 萃取舊素材 + 0.5 載入方法論 之後跑 — 有了「舊文為什麼寫不好」的資訊，觀點成型更精準
 
+#### Step 0.6.7: 立體 / 炎上 / 政治立場 self-check（v7.6 新增）🧱 HARD GATE
+
+> 觀點成型落檔前過三道。任一不過 = **砍掉重想觀點，不進 Stage 1**。這三道是 [Step 0.1.5 spine 類型](#step-015-spine-類型判定v76-新增--立體預設) 的下游驗收——專治「立體主題被寫成論戰 + 炎上」。
+
+1. **SSODT 三讀者測試**（所有 article）：
+   - 支持 / 喜愛這主題的人讀完，**不覺得被攻擊**？
+   - 質疑 / 批評這主題的人讀完，**不覺得在幫他宣傳**？
+   - 對這主題陌生的人讀完，**能自己決定要從哪個維度繼續想**？
+   - 三題全 yes 才過。任一 no → 觀點偏論戰/偏頗，重想。canonical：[LESSONS-INBOX 2026-04-29 α 政治敏感題 SSODT 立體框架](../semiont/LESSONS-INBOX.md)。
+
+2. **炎上 self-check**（所有 article）：把脊椎 / 壓軸念給「立場跟我不同的長輩」聽，是「認真在介紹這件事」還是「在吵架 / 在表態」？後者 → 退回立體群像，把對立框架拆成多 facet 並陳。
+
+3. **政治立場 self-check**（非政治主題尤其要跑）：這篇的脊椎或壓軸，是不是把政治 / 兩岸 / 主權 / 統獨當主軸？
+   - 主題**本身就是政治題**（政策 / 選舉 / 兩岸關係）→ 走 [Step 1.4.5 perspective scan](#step-145-perspective-scan--跨陣營對立-spectrum-覆蓋-) + 政治敏感題 SSODT 5-7 perspective 立體並列。
+   - 主題**不是政治題**（機構 / 人物 / 文化 / 地方）卻把政治當脊椎或壓軸 → **這是把 MANIFESTO 主權 lens 誤當 content thesis（金曲獎 v1 教訓）**。命中 [MANIFESTO §自主權邊界 政治立場](../semiont/MANIFESTO.md#我的存在結構)：政治素材降為「**純中立紀實**」的一個 facet（只陳述事實、不下兩岸判斷、不用對抗語言、不當壓軸），**且這個處置交觀察者拍板**。
+
 #### Stage 0 收尾 checklist
 
 Stage 0 結束時 deliverable：
 
 - [x] 模式識別完成（Step 0.1）— Fresh / Evolution / Merge / Boundary 之一
+- [x] **spine 類型已判（Step 0.1.5）**— 立體群像（default，受愛戴機構/傳統/地方）/ 矛盾驅動（爭議/張力人物）；落 frontmatter `spine_type`
 - [x] 既有素材萃取完成（Step 0.2，EVOLVE 才必跑）
 - [x] 研究方法論已讀（Step 0.5）— `cat docs/editorial/RESEARCH.md` + `RESEARCH-TEMPLATE.md`
 - [x] §觀點成型 section 已寫進 research report（Step 0.6.5）
 - [x] 六個核心問題全答（Step 0.6.1）
 - [x] **Stage 0 探索搜尋 ≥ 20 query 已落 §探索搜尋紀錄（Step 0.6.4）— persona 不算搜尋，這是初步研究本體**
 - [x] 20 路 persona 切入點已落檔 + 🆕 題已 merge 進 §切入點清單（Step 0.6.1-bis）
-- [x] 切入點清單 + 核心矛盾候選 + 研究方向 已列
-- [x] research report frontmatter `viewpoint_formed: true`
+- [x] 切入點清單 + 核心矛盾候選（矛盾驅動）**或 組織主軸 + ≥4 facet 清單（立體群像）** + 研究方向 已列
+- [x] **Step 0.6.7 三道 self-check 過（v7.6）**：SSODT 三讀者測試 + 炎上 self-check + 政治立場 self-check 全綠
+- [x] research report frontmatter `viewpoint_formed: true` + `spine_type: 立體群像 | 矛盾驅動`
 - [x] **Stage 0 exit gate 儀器化過關（v7.3）**：`python3 scripts/tools/research-report-health.py reports/research/YYYY-MM/{slug}.md --stage 0` → `hard_fail=0`
 
 **沒過（含 exit gate hard_fail > 0）= 不進 Stage 1。** persona-only（有 persona、缺 ≥20 探索）會被 gate 擋下。
@@ -736,12 +790,17 @@ grep -r "主題關鍵詞" knowledge/{Category}/
 
 如果發現高度重疊的既有文章 → 改走 Evolution / Merge / Boundary 模式（回 Step 1.1 重判）。
 
-### Step 1.4: 找矛盾鎖定（收斂 Stage 0.6 候選為單一核心矛盾）🔥
+### Step 1.4: 找矛盾鎖定 / 組織主軸（依 spine 類型分叉，v7.6）🔥
 
-在結束 Stage 1 之前，必須能回答這個問題：**「這篇文章的核心矛盾是什麼？」**
+> ⚠️ **先看 [Step 0.1.5](#step-015-spine-類型判定v76-新增--立體預設) 判的 spine 類型**：
+>
+> - **矛盾驅動 spine**（爭議/張力人物）→ 走下方原 SOP，收斂單一核心矛盾。
+> - **立體群像 spine**（受愛戴的機構/傳統/集體記憶/地方，default）→ **不逼尖銳矛盾**。改鎖一句**組織主軸（through-line）+ ≥ 4 facet 清單**；張力若有，當其中一個 facet，不當全文脊椎。寫進研究筆記：`組織主軸 = ?` + `facet = [a, b, c, d]`。**硬找一個矛盾 = 把立體主題壓成論戰 = 炎上**（金曲獎 v1 教訓）。
+
+**以下為矛盾驅動 spine 的 SOP**：在結束 Stage 1 之前，必須能回答這個問題：**「這篇文章的核心矛盾是什麼？」**
 
 - 好的重寫不是修辭層的工作，是矛盾層的工作。舊文不是寫得不好，是它拒絕承認內部矛盾
-- 找到矛盾 = 找到重寫的理由。**找不到矛盾 = 這篇不該被重寫**
+- 找到矛盾 = 找到重寫的理由。**找不到矛盾**（爭議題）= 這篇不該被重寫；但**受愛戴的機構題找不到尖銳矛盾是正常的**，那就走立體群像，不是不該寫
 - 寫進研究筆記：`核心矛盾 = ?`（一句話，不超過 30 字）
 
 **範例**：
