@@ -59,6 +59,18 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 陳嫺靜 NEW — 2026-06-28 080237-manual 完成（拿金曲新人那年，她已經做音樂第八年 / Fresh / 金曲37 P0 時效）
+
+- **Article**: [knowledge/Music/陳嫺靜.md](../../knowledge/Music/陳嫺靜.md)
+- **Pipeline**: REWRITE-PIPELINE v7.5 — NEW 模式（multi-agent：Stage 0 觀點 + 4 個 research agent fan-out 約 88 次搜尋 + fresh Opus writer + 對抗式 verifier 重驗）
+- **核心矛盾**：她拿金曲「最佳新人」，但她一點都不新——新的是她走的那條路（政大黑音、臥房自製、把夏宇的詩「回答」進饒舌、靠網路不靠唱片公司）。「聽不懂」的不是她的咬字，是還沒被聽慣的一條路
+- **Hook**：金曲37 領獎手機被收走 + 後台「我很像不在這裡」的局外感；首尾呼應〈有人責備我們不夠深入〉這個借自夏宇的歌名
+- **品質**：5364 CJK / 43 footnote / 對位句型 3（達標）/ 破折號 14（budget 內）/ 5 支驗證過的官方影片 + tw-timeline 八年落差圖
+- **大事實修正**：falsification 抓到「改編自夏宇」是誤傳——實為借標題十字 + 讀不懂而寫歌回應（「寫了，就懂了」）；對抗式 verifier 又修掉一個 PTT 腳註指錯串 + 引號非逐字
+- **Research**: [reports/research/2026-06/陳嫺靜.md](../../reports/research/2026-06/陳嫺靜.md)（+ 4 份 raw research file）
+- **Cross-link**：台灣嘻哈與饒舌發展 雙向已補
+- **待補**：hero 靜態圖（無自由授權照片，已進 ARTICLE-INBOX EVOLVE）
+
 ### 台灣體育發展與奧運 NEW — 2026-06-19 twmd-rewrite-daily routine 完成（一個叫「中華台北」的隊伍 / Fresh / Issue #915）
 
 - **Article**: [knowledge/Society/台灣體育發展與奧運.md](../../knowledge/Society/台灣體育發展與奧運.md)

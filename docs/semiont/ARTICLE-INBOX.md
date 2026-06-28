@@ -161,6 +161,19 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 陳嫺靜 EVOLVE — 補 hero 靜態圖（OG 社群卡 / 孢子海報用）
+
+- **Type**: `EVOLVE`
+- **Category**: Music
+- **Priority**: P3（內文已 ship，純媒體補完）
+- **Status**: `pending`
+- **Requested**: 2026-06-28 080237-manual（哲宇 directive：先 ship 內文，hero 進 INBOX 補）
+- **Notes**:
+  - 文章 2026-06-28 ship，內文 5 支官方影片 + tw-timeline 已過媒體數量 gate；缺的是一張靜態圖給 OG 社群卡 / 孢子海報（影片 thumbnail 不可靠）
+  - 她沒有任何自由授權照片（Wikimedia / Openverse / Flickr 當天全查過為空）
+  - 選項：(a) 顏社 press kit／經紀團隊要授權照　(b) 生一張 on-brand 資料／字體 hero　(c) 金曲／金音典禮若有 CC 授權新聞照
+  - frontmatter 補 image + imageCredit + imageLicense + imageSource 後，刪掉本 entry
+
 <!-- ═══ 2026-06-19 inbox distill（哲宇 directive：深度研究 + 查看現況 + 整理）═══ -->
 <!-- 移除 16 幽靈/重複條目：報導者 / 22縣市全系列 / PanSci P0×5 / 大象體操 / 國宅 / 福爾摩沙鳥類學 / 19世紀樟腦戰爭 / Howhow / 尊 / 便利商店 / 糕餅 / 魚條 / 莫那能 / 三峽老街(dup) / 體育綜覽(dup) / SPORE圖片(dup) — 全部 knowledge/ 已存在或已 ship（前 4 漏記 DONE-LOG 已補登）-->
 <!-- NML/東南亞群島藝術 batch（14 條，2026-05-04 angry-shamir）全降 P3 深 backlog（哲宇 2026-06-19 nod）-->
