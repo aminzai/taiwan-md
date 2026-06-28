@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-06-28 06:11
+last_generated: 2026-06-28 23:10
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,13 +12,13 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-06-28 06:11** · 頂層 \*.md 共 **174** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-06-28 23:10** · 頂層 \*.md 共 **175** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size     | 用途                                                 |
 | ----------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`             |   354 | 52.4 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`             |   364 | 52.6 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `visual/`               |   111 | 214.5 MB | Visual smoke test 基線 (partial gitignored)          |
 | `archive/`              |    27 | 342.8 KB | 歸檔位置 (per audit Layer 4)                         |
 | `weekly/`               |    16 | 3.2 MB   | Self-evolve weekly digest                            |
@@ -137,8 +137,9 @@ type: auto-index
 - `2026-04-17` [cron-schedule-snapshot-2026-04-17](cron-schedule-snapshot-2026-04-17.md)
 - `2026-04-12` [i18n-qa-audit-2026-04-12](i18n-qa-audit-2026-04-12.md)
 
-### audit-routine (19)
+### audit-routine (20)
 
+- `2026-06-28` [routine-audit-2026-06-28](routine-audit-2026-06-28.md) — Routine Audit 2026-06-28 (Weekly Cycle 8)
 - `2026-06-21` [routine-audit-2026-06-21](routine-audit-2026-06-21.md) — Routine Audit 2026-06-21 (Weekly Cycle 7)
 - `2026-06-14` [routine-audit-2026-06-14](routine-audit-2026-06-14.md) — Routine Audit 2026-06-14 (Weekly Cycle 6)
 - `2026-06-07` [routine-audit-2026-06-07](routine-audit-2026-06-07.md) — Routine Audit 2026-06-07 (Weekly Cycle 5)
@@ -250,9 +251,10 @@ type: auto-index
 - Type breakdown: ops: 1
   - `????` [README](README.md)
 
-### 2026-06 (53 files)
+### 2026-06 (54 files)
 
-- Type breakdown: ops: 20 / evolution: 9 / design: 7 / audit: 7 / audit-routine: 4 / proposal: 3 / plan: 2 / analysis: 1
+- Type breakdown: ops: 20 / evolution: 9 / design: 7 / audit: 7 / audit-routine: 5 / proposal: 3 / plan: 2 / analysis: 1
+  - `2026-06-28` [routine-audit-2026-06-28](routine-audit-2026-06-28.md)
   - `2026-06-26` [issue-evolution-analysis-2026-06-26](issue-evolution-analysis-2026-06-26.md)
   - `2026-06-22` [terminology-page-evolution-2026-06-22](terminology-page-evolution-2026-06-22.md)
   - `2026-06-21` [plurk-reach-research-2026-06-21](plurk-reach-research-2026-06-21.md)

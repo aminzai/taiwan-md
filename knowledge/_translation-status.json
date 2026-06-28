@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-28T06:11:23+08:00",
-    "zhCommitHead": "a73d5e273",
-    "totalZh": 827,
+    "lastUpdated": "2026-06-28T23:10:24+08:00",
+    "zhCommitHead": "e83cb726f",
+    "totalZh": 828,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
-        "total_zh": 827,
-        "fresh": 827,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 0,
+        "total_zh": 828,
+        "fresh": 809,
+        "stale": 16,
+        "metadata_stale": 2,
+        "missing": 1,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 827,
-        "fresh": 827,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 0,
+        "total_zh": 828,
+        "fresh": 809,
+        "stale": 16,
+        "metadata_stale": 2,
+        "missing": 1,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 827,
-        "fresh": 827,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 0,
+        "total_zh": 828,
+        "fresh": 809,
+        "stale": 16,
+        "metadata_stale": 2,
+        "missing": 1,
         "orphan": 0
       },
       "es": {
-        "total_zh": 827,
-        "fresh": 827,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 0,
+        "total_zh": 828,
+        "fresh": 809,
+        "stale": 16,
+        "metadata_stale": 2,
+        "missing": 1,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 827,
-        "fresh": 827,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 0,
+        "total_zh": 828,
+        "fresh": 809,
+        "stale": 16,
+        "metadata_stale": 2,
+        "missing": 1,
         "orphan": 0
       }
     },
@@ -537,10 +537,10 @@
     },
     "Music/蘇打綠.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:56aa1dd40081a13d",
-        "bodyHash": "sha256:383422f11b195e61"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:9dab22004602c3b0",
+        "bodyHash": "sha256:aea389268b4e9246"
       },
       "translations": {
         "en": {
@@ -550,12 +550,14 @@
           "sourceContentHash": "sha256:56aa1dd40081a13d",
           "sourceBodyHash": "sha256:383422f11b195e61",
           "translatedAt": "2026-06-16T17:03:25Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Music/sodagreen.md",
@@ -564,12 +566,14 @@
           "sourceContentHash": "sha256:56aa1dd40081a13d",
           "sourceBodyHash": "sha256:383422f11b195e61",
           "translatedAt": "2026-06-16T17:04:12Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Music/sodagreen.md",
@@ -578,12 +582,14 @@
           "sourceContentHash": "sha256:56aa1dd40081a13d",
           "sourceBodyHash": "sha256:383422f11b195e61",
           "translatedAt": "2026-06-16T16:38:41Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Music/sodagreen.md",
@@ -592,12 +598,14 @@
           "sourceContentHash": "sha256:56aa1dd40081a13d",
           "sourceBodyHash": "sha256:383422f11b195e61",
           "translatedAt": "2026-06-16T17:04:27Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Music/sodagreen.md",
@@ -606,21 +614,23 @@
           "sourceContentHash": "sha256:56aa1dd40081a13d",
           "sourceBodyHash": "sha256:383422f11b195e61",
           "translatedAt": "2026-06-16T16:40:09Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
     "Music/台灣流行音樂.md": {
       "zh": {
-        "lastCommit": "c8dec04f",
-        "lastModified": "2026-06-19T12:09:00+08:00",
-        "contentHash": "sha256:f830411f12a4bd7a",
-        "bodyHash": "sha256:3b1df2792ce61782"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:0380d6db1f823bf1",
+        "bodyHash": "sha256:bd48e5c9c0054342"
       },
       "translations": {
         "en": {
@@ -630,12 +640,14 @@
           "sourceContentHash": "sha256:f830411f12a4bd7a",
           "sourceBodyHash": "sha256:3b1df2792ce61782",
           "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 58,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -644,12 +656,14 @@
           "sourceContentHash": "sha256:f830411f12a4bd7a",
           "sourceBodyHash": "sha256:3b1df2792ce61782",
           "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 58,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -658,12 +672,14 @@
           "sourceContentHash": "sha256:f830411f12a4bd7a",
           "sourceBodyHash": "sha256:3b1df2792ce61782",
           "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 58,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -672,12 +688,14 @@
           "sourceContentHash": "sha256:f830411f12a4bd7a",
           "sourceBodyHash": "sha256:3b1df2792ce61782",
           "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 58,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -686,12 +704,14 @@
           "sourceContentHash": "sha256:f830411f12a4bd7a",
           "sourceBodyHash": "sha256:3b1df2792ce61782",
           "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 58,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -1177,10 +1197,10 @@
     },
     "Music/台灣嘻哈與饒舌發展.md": {
       "zh": {
-        "lastCommit": "bb411ee0",
-        "lastModified": "2026-06-24T21:16:52+08:00",
-        "contentHash": "sha256:035856138f415849",
-        "bodyHash": "sha256:cef318ca2ba7bbe6"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:c3b6d91df55d0949",
+        "bodyHash": "sha256:fc827205e6b71ba4"
       },
       "translations": {
         "en": {
@@ -1190,12 +1210,14 @@
           "sourceContentHash": "sha256:035856138f415849",
           "sourceBodyHash": "sha256:cef318ca2ba7bbe6",
           "translatedAt": "2026-06-14T00:35:00+08:00",
-          "translationLastCommit": "28dd8787",
-          "translationLastModified": "2026-06-25T00:57:25+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 55,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+2 -1"
         },
         "ja": {
           "path": "ja/Music/taiwan-hip-hop-and-rap.md",
@@ -1204,12 +1226,14 @@
           "sourceContentHash": "sha256:035856138f415849",
           "sourceBodyHash": "sha256:cef318ca2ba7bbe6",
           "translatedAt": "2026-06-14T00:35:00+08:00",
-          "translationLastCommit": "28dd8787",
-          "translationLastModified": "2026-06-25T00:57:25+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 55,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+2 -1"
         },
         "ko": {
           "path": "ko/Music/taiwan-hip-hop-and-rap.md",
@@ -1218,12 +1242,14 @@
           "sourceContentHash": "sha256:035856138f415849",
           "sourceBodyHash": "sha256:cef318ca2ba7bbe6",
           "translatedAt": "2026-06-14T00:35:00+08:00",
-          "translationLastCommit": "28dd8787",
-          "translationLastModified": "2026-06-25T00:57:25+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 55,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+2 -1"
         },
         "es": {
           "path": "es/Music/taiwan-hip-hop-and-rap.md",
@@ -1232,12 +1258,14 @@
           "sourceContentHash": "sha256:035856138f415849",
           "sourceBodyHash": "sha256:cef318ca2ba7bbe6",
           "translatedAt": "2026-06-14T00:35:00+08:00",
-          "translationLastCommit": "28dd8787",
-          "translationLastModified": "2026-06-25T00:57:25+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 55,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+2 -1"
         },
         "fr": {
           "path": "fr/Music/hip-hop-rap.md",
@@ -1246,92 +1274,14 @@
           "sourceContentHash": "sha256:035856138f415849",
           "sourceBodyHash": "sha256:cef318ca2ba7bbe6",
           "translatedAt": "2026-06-14T00:35:00+08:00",
-          "translationLastCommit": "28dd8787",
-          "translationLastModified": "2026-06-25T00:57:25+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 55,
-          "status": "fresh",
-          "reason": "same-commit"
-        }
-      }
-    },
-    "Music/流行音樂與金曲獎.md": {
-      "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:ff90e26d455a0248",
-        "bodyHash": "sha256:26fbe182d7c0f17a"
-      },
-      "translations": {
-        "en": {
-          "path": "en/Music/pop-music-and-golden-melody-awards.md",
-          "translatedFrom": "Music/流行音樂與金曲獎.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:ff90e26d455a0248",
-          "sourceBodyHash": "sha256:26fbe182d7c0f17a",
-          "translatedAt": "2026-05-17T06:10:00Z",
-          "translationLastCommit": "cf90406b",
-          "translationLastModified": "2026-05-17T06:12:59+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
-        },
-        "ja": {
-          "path": "ja/Music/pop-music-and-golden-melody-awards.md",
-          "translatedFrom": "Music/流行音樂與金曲獎.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:ff90e26d455a0248",
-          "sourceBodyHash": "sha256:26fbe182d7c0f17a",
-          "translatedAt": "2026-05-16T22:19:52+00:00",
-          "translationLastCommit": "3521fd77",
-          "translationLastModified": "2026-05-17T06:34:49+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
-        },
-        "ko": {
-          "path": "ko/Music/pop-music-and-golden-melody-awards.md",
-          "translatedFrom": "Music/流行音樂與金曲獎.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:ff90e26d455a0248",
-          "sourceBodyHash": "sha256:26fbe182d7c0f17a",
-          "translatedAt": "2026-05-16T22:20:00Z",
-          "translationLastCommit": "3521fd77",
-          "translationLastModified": "2026-05-17T06:34:49+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
-        },
-        "es": {
-          "path": "es/Music/pop-music-and-golden-melody-awards.md",
-          "translatedFrom": "Music/流行音樂與金曲獎.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:ff90e26d455a0248",
-          "sourceBodyHash": "sha256:26fbe182d7c0f17a",
-          "translatedAt": "2026-05-16T22:20:03Z",
-          "translationLastCommit": "3521fd77",
-          "translationLastModified": "2026-05-17T06:34:49+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
-        },
-        "fr": {
-          "path": "fr/Music/pop-music-and-golden-melody-awards.md",
-          "translatedFrom": "Music/流行音樂與金曲獎.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:ff90e26d455a0248",
-          "sourceBodyHash": "sha256:26fbe182d7c0f17a",
-          "translatedAt": "2026-05-16T22:21:10Z",
-          "translationLastCommit": "3521fd77",
-          "translationLastModified": "2026-05-17T06:34:49+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+2 -1"
         }
       }
     },
@@ -1417,9 +1367,9 @@
     },
     "Music/濁水溪公社.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:0be561fb740254b6",
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:469167869b1ed9c7",
         "bodyHash": "sha256:ba486d59e98b80d0"
       },
       "translations": {
@@ -1430,12 +1380,14 @@
           "sourceContentHash": "sha256:0be561fb740254b6",
           "sourceBodyHash": "sha256:ba486d59e98b80d0",
           "translatedAt": "2026-05-01T01:46:13+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Music/loh-tsui-kang-commune.md",
@@ -1448,8 +1400,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Music/loh-tsui-kang-commune.md",
@@ -1458,12 +1412,14 @@
           "sourceContentHash": "sha256:0be561fb740254b6",
           "sourceBodyHash": "sha256:ba486d59e98b80d0",
           "translatedAt": "2026-05-01T22:19:01+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Music/loh-tsui-kang-commune.md",
@@ -1476,8 +1432,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Music/loh-tsui-kang-commune.md",
@@ -1490,17 +1448,19 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
     "Music/小虎隊.md": {
       "zh": {
-        "lastCommit": "40517470",
-        "lastModified": "2026-06-14T03:00:47+08:00",
-        "contentHash": "sha256:ca7799d54b4faaf1",
-        "bodyHash": "sha256:97eea304ee5e8ba6"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:3550fb52e312828d",
+        "bodyHash": "sha256:4cfd214b3bc19b4d"
       },
       "translations": {
         "en": {
@@ -1510,12 +1470,14 @@
           "sourceContentHash": "sha256:ca7799d54b4faaf1",
           "sourceBodyHash": "sha256:97eea304ee5e8ba6",
           "translatedAt": "2026-06-17T01:18:25+08:00",
-          "translationLastCommit": "252df155",
-          "translationLastModified": "2026-06-17T02:50:01+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Music/little-tigers-taiwan-boy-band.md",
@@ -1524,12 +1486,14 @@
           "sourceContentHash": "sha256:8d17ddb86cd92864",
           "sourceBodyHash": "sha256:ca7799d54b4faaf1",
           "translatedAt": "2026-06-17T02:18:49+08:00",
-          "translationLastCommit": "252df155",
-          "translationLastModified": "2026-06-17T02:50:01+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Music/little-tigers-taiwan-boy-band.md",
@@ -1538,12 +1502,14 @@
           "sourceContentHash": "sha256:ca7799d54b4faaf1",
           "sourceBodyHash": "sha256:97eea304ee5e8ba6",
           "translatedAt": "2026-06-17T01:18:25+08:00",
-          "translationLastCommit": "252df155",
-          "translationLastModified": "2026-06-17T02:50:01+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Music/little-tigers-taiwan-boy-band.md",
@@ -1552,12 +1518,14 @@
           "sourceContentHash": "sha256:ca7799d54b4faaf1",
           "sourceBodyHash": "sha256:97eea304ee5e8ba6",
           "translatedAt": "2026-06-17T01:18:26+08:00",
-          "translationLastCommit": "252df155",
-          "translationLastModified": "2026-06-17T02:50:01+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Music/little-tigers-taiwan-boy-band.md",
@@ -1566,12 +1534,14 @@
           "sourceContentHash": "sha256:ca7799d54b4faaf1",
           "sourceBodyHash": "sha256:97eea304ee5e8ba6",
           "translatedAt": "2026-06-17T01:18:26+08:00",
-          "translationLastCommit": "252df155",
-          "translationLastModified": "2026-06-17T02:50:01+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -2455,6 +2425,31 @@
         }
       }
     },
+    "Music/陳嫺靜.md": {
+      "zh": {
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:f1390dd131d16ef4",
+        "bodyHash": "sha256:7d7c5633258e1718"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "Music/台灣聲音地景.md": {
       "zh": {
         "lastCommit": "f712b724",
@@ -2532,6 +2527,86 @@
           "footnoteDefs": 5,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Music/金曲獎.md": {
+      "zh": {
+        "lastCommit": "6897c657",
+        "lastModified": "2026-06-28T11:06:22+08:00",
+        "contentHash": "sha256:b00d48ce7d3f9ffa",
+        "bodyHash": "sha256:f8572e451edfc640"
+      },
+      "translations": {
+        "en": {
+          "path": "en/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "d6e87d07",
+          "sourceContentHash": "sha256:ff90e26d455a0248",
+          "sourceBodyHash": "sha256:26fbe182d7c0f17a",
+          "translatedAt": "2026-05-17T06:10:00Z",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (20→0)"
+        },
+        "ja": {
+          "path": "ja/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "d6e87d07",
+          "sourceContentHash": "sha256:ff90e26d455a0248",
+          "sourceBodyHash": "sha256:26fbe182d7c0f17a",
+          "translatedAt": "2026-05-16T22:19:52+00:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (20→0)"
+        },
+        "ko": {
+          "path": "ko/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "d6e87d07",
+          "sourceContentHash": "sha256:ff90e26d455a0248",
+          "sourceBodyHash": "sha256:26fbe182d7c0f17a",
+          "translatedAt": "2026-05-16T22:20:00Z",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (20→0)"
+        },
+        "es": {
+          "path": "es/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "d6e87d07",
+          "sourceContentHash": "sha256:ff90e26d455a0248",
+          "sourceBodyHash": "sha256:26fbe182d7c0f17a",
+          "translatedAt": "2026-05-16T22:20:03Z",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (20→0)"
+        },
+        "fr": {
+          "path": "fr/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "d6e87d07",
+          "sourceContentHash": "sha256:ff90e26d455a0248",
+          "sourceBodyHash": "sha256:26fbe182d7c0f17a",
+          "translatedAt": "2026-05-16T22:21:10Z",
+          "translationLastCommit": "d2b38a8f",
+          "translationLastModified": "2026-06-28T10:07:53+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "footnote-loss (20→0)"
         }
       }
     },
@@ -2697,10 +2772,10 @@
     },
     "Music/周蕙.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:66dc613367972f4b",
-        "bodyHash": "sha256:f32176a5dd84a470"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:e82ab2af4a170315",
+        "bodyHash": "sha256:4c01fb53198217ef"
       },
       "translations": {
         "en": {
@@ -2710,12 +2785,14 @@
           "sourceContentHash": "sha256:66dc613367972f4b",
           "sourceBodyHash": "sha256:f32176a5dd84a470",
           "translatedAt": "2026-06-16T16:59:03Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Music/chou-hui.md",
@@ -2724,12 +2801,14 @@
           "sourceContentHash": "sha256:66dc613367972f4b",
           "sourceBodyHash": "sha256:f32176a5dd84a470",
           "translatedAt": "2026-06-16T16:55:14Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Music/chou-hui.md",
@@ -2738,12 +2817,14 @@
           "sourceContentHash": "sha256:66dc613367972f4b",
           "sourceBodyHash": "sha256:f32176a5dd84a470",
           "translatedAt": "2026-06-16T16:55:29Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Music/chou-hui.md",
@@ -2752,12 +2833,14 @@
           "sourceContentHash": "sha256:66dc613367972f4b",
           "sourceBodyHash": "sha256:f32176a5dd84a470",
           "translatedAt": "2026-06-16T16:54:57Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Music/chou-hui.md",
@@ -2766,12 +2849,14 @@
           "sourceContentHash": "sha256:66dc613367972f4b",
           "sourceBodyHash": "sha256:f32176a5dd84a470",
           "translatedAt": "2026-06-16T16:54:51Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -29497,10 +29582,10 @@
     },
     "People/康士坦的變化球.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:37c312ea2b8060a6",
-        "bodyHash": "sha256:bb974f18f86691c3"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:da94b8581c1d756d",
+        "bodyHash": "sha256:882ec45fed78d371"
       },
       "translations": {
         "en": {
@@ -29514,8 +29599,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/constant-and-change-band.md",
@@ -29524,12 +29611,14 @@
           "sourceContentHash": "sha256:37c312ea2b8060a6",
           "sourceBodyHash": "sha256:bb974f18f86691c3",
           "translatedAt": "2026-05-01T18:02:56+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/constant-and-change-band.md",
@@ -29538,12 +29627,14 @@
           "sourceContentHash": "sha256:37c312ea2b8060a6",
           "sourceBodyHash": "sha256:bb974f18f86691c3",
           "translatedAt": "2026-05-01T20:54:10+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/constant-and-change-band.md",
@@ -29552,12 +29643,14 @@
           "sourceContentHash": "sha256:37c312ea2b8060a6",
           "sourceBodyHash": "sha256:bb974f18f86691c3",
           "translatedAt": "2026-05-01T20:54:23+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/constant-and-change-band.md",
@@ -29566,12 +29659,14 @@
           "sourceContentHash": "sha256:37c312ea2b8060a6",
           "sourceBodyHash": "sha256:bb974f18f86691c3",
           "translatedAt": "2026-05-01T20:54:17+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -30937,10 +31032,10 @@
     },
     "People/Cicada.md": {
       "zh": {
-        "lastCommit": "30612690",
-        "lastModified": "2026-06-21T13:12:08+08:00",
-        "contentHash": "sha256:15544a92bbe3fa66",
-        "bodyHash": "sha256:2a1b1a8f267d23c2"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:4a53480bbe9aa83b",
+        "bodyHash": "sha256:5091127dea208f82"
       },
       "translations": {
         "en": {
@@ -30950,12 +31045,14 @@
           "sourceContentHash": "sha256:15544a92bbe3fa66",
           "sourceBodyHash": "sha256:2a1b1a8f267d23c2",
           "translatedAt": "2026-06-22T00:40:58+08:00",
-          "translationLastCommit": "29686eb5",
-          "translationLastModified": "2026-06-22T01:30:22+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/cicada-band.md",
@@ -30964,12 +31061,14 @@
           "sourceContentHash": "sha256:15544a92bbe3fa66",
           "sourceBodyHash": "sha256:2a1b1a8f267d23c2",
           "translatedAt": "2026-06-22T00:40:58+08:00",
-          "translationLastCommit": "29686eb5",
-          "translationLastModified": "2026-06-22T01:30:22+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/cicada-band.md",
@@ -30978,12 +31077,14 @@
           "sourceContentHash": "sha256:15544a92bbe3fa66",
           "sourceBodyHash": "sha256:2a1b1a8f267d23c2",
           "translatedAt": "2026-06-22T00:40:58+08:00",
-          "translationLastCommit": "29686eb5",
-          "translationLastModified": "2026-06-22T01:30:22+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/cicada-band.md",
@@ -30992,12 +31093,14 @@
           "sourceContentHash": "sha256:15544a92bbe3fa66",
           "sourceBodyHash": "sha256:2a1b1a8f267d23c2",
           "translatedAt": "2026-06-22T00:40:58+08:00",
-          "translationLastCommit": "29686eb5",
-          "translationLastModified": "2026-06-22T01:30:22+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/cicada-band.md",
@@ -31006,12 +31109,14 @@
           "sourceContentHash": "sha256:15544a92bbe3fa66",
           "sourceBodyHash": "sha256:2a1b1a8f267d23c2",
           "translatedAt": "2026-06-22T00:40:58+08:00",
-          "translationLastCommit": "29686eb5",
-          "translationLastModified": "2026-06-22T01:30:22+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -31577,10 +31682,10 @@
     },
     "People/羅大佑.md": {
       "zh": {
-        "lastCommit": "3419f7d4",
-        "lastModified": "2026-06-19T16:39:55+08:00",
-        "contentHash": "sha256:733eb9b135a1d6a7",
-        "bodyHash": "sha256:b5b5fdbc29ca31a4"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:a360c7a135e403dc",
+        "bodyHash": "sha256:fe7b545ee2048324"
       },
       "translations": {
         "en": {
@@ -31590,12 +31695,14 @@
           "sourceContentHash": "sha256:733eb9b135a1d6a7",
           "sourceBodyHash": "sha256:b5b5fdbc29ca31a4",
           "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/luo-dayou.md",
@@ -31604,12 +31711,14 @@
           "sourceContentHash": "sha256:733eb9b135a1d6a7",
           "sourceBodyHash": "sha256:b5b5fdbc29ca31a4",
           "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/luo-dayou.md",
@@ -31618,12 +31727,14 @@
           "sourceContentHash": "sha256:733eb9b135a1d6a7",
           "sourceBodyHash": "sha256:b5b5fdbc29ca31a4",
           "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/luo-dayou.md",
@@ -31632,12 +31743,14 @@
           "sourceContentHash": "sha256:733eb9b135a1d6a7",
           "sourceBodyHash": "sha256:b5b5fdbc29ca31a4",
           "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/luo-dayou.md",
@@ -31646,12 +31759,14 @@
           "sourceContentHash": "sha256:733eb9b135a1d6a7",
           "sourceBodyHash": "sha256:b5b5fdbc29ca31a4",
           "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -33017,10 +33132,10 @@
     },
     "People/草東沒有派對.md": {
       "zh": {
-        "lastCommit": "e79c30b8",
-        "lastModified": "2026-06-22T23:16:17+08:00",
-        "contentHash": "sha256:ee418e919ecc7897",
-        "bodyHash": "sha256:f40e32cfe1b0be26"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:62a474db99f7907b",
+        "bodyHash": "sha256:df0b89348caf6487"
       },
       "translations": {
         "en": {
@@ -33030,12 +33145,14 @@
           "sourceContentHash": "sha256:ee418e919ecc7897",
           "sourceBodyHash": "sha256:f40e32cfe1b0be26",
           "translatedAt": "2026-06-23T00:40:05+08:00",
-          "translationLastCommit": "c9fbd822",
-          "translationLastModified": "2026-06-23T00:52:31+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/no-party-for-cao-dong.md",
@@ -33044,12 +33161,14 @@
           "sourceContentHash": "sha256:ee418e919ecc7897",
           "sourceBodyHash": "sha256:f40e32cfe1b0be26",
           "translatedAt": "2026-06-23T00:40:05+08:00",
-          "translationLastCommit": "c9fbd822",
-          "translationLastModified": "2026-06-23T00:52:31+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/no-party-for-cao-dong.md",
@@ -33058,12 +33177,14 @@
           "sourceContentHash": "sha256:ee418e919ecc7897",
           "sourceBodyHash": "sha256:f40e32cfe1b0be26",
           "translatedAt": "2026-06-23T00:40:06+08:00",
-          "translationLastCommit": "c9fbd822",
-          "translationLastModified": "2026-06-23T00:52:31+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/no-party-for-cao-dong.md",
@@ -33072,12 +33193,14 @@
           "sourceContentHash": "sha256:ee418e919ecc7897",
           "sourceBodyHash": "sha256:f40e32cfe1b0be26",
           "translatedAt": "2026-06-23T00:40:06+08:00",
-          "translationLastCommit": "c9fbd822",
-          "translationLastModified": "2026-06-23T00:52:31+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/no-party-for-cao-dong.md",
@@ -33090,8 +33213,10 @@
           "translationLastModified": "2026-06-23T00:52:31+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -34537,10 +34662,10 @@
     },
     "People/陳建年.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:54be9af22ce56bb4",
-        "bodyHash": "sha256:7ce406dfced8a432"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:94460ad43105f980",
+        "bodyHash": "sha256:64a1b7182260c207"
       },
       "translations": {
         "en": {
@@ -34550,12 +34675,14 @@
           "sourceContentHash": "sha256:54be9af22ce56bb4",
           "sourceBodyHash": "sha256:7ce406dfced8a432",
           "translatedAt": "2026-06-16T16:59:03Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/chen-chien-nien.md",
@@ -34564,12 +34691,14 @@
           "sourceContentHash": "sha256:54be9af22ce56bb4",
           "sourceBodyHash": "sha256:7ce406dfced8a432",
           "translatedAt": "2026-06-16T16:55:14Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/chen-chien-nien.md",
@@ -34578,12 +34707,14 @@
           "sourceContentHash": "sha256:54be9af22ce56bb4",
           "sourceBodyHash": "sha256:7ce406dfced8a432",
           "translatedAt": "2026-06-16T16:55:29Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/chen-chien-nien.md",
@@ -34592,12 +34723,14 @@
           "sourceContentHash": "sha256:54be9af22ce56bb4",
           "sourceBodyHash": "sha256:7ce406dfced8a432",
           "translatedAt": "2026-06-16T16:54:57Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/chen-chien-nien.md",
@@ -34606,12 +34739,14 @@
           "sourceContentHash": "sha256:54be9af22ce56bb4",
           "sourceBodyHash": "sha256:7ce406dfced8a432",
           "translatedAt": "2026-06-16T16:54:51Z",
-          "translationLastCommit": "740160f9",
-          "translationLastModified": "2026-06-17T01:21:28+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -36137,10 +36272,10 @@
     },
     "People/陳建騏.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:c90f8347c6874063",
-        "bodyHash": "sha256:dfabea754d57944a"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:96b9ab8dcbfbc70e",
+        "bodyHash": "sha256:c09555aa1106e918"
       },
       "translations": {
         "en": {
@@ -36150,12 +36285,14 @@
           "sourceContentHash": "sha256:c90f8347c6874063",
           "sourceBodyHash": "sha256:dfabea754d57944a",
           "translatedAt": "2026-06-07T02:26:07+08:00",
-          "translationLastCommit": "5136ed19",
-          "translationLastModified": "2026-06-07T05:26:41+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/chen-chien-chi-music-producer.md",
@@ -36164,12 +36301,14 @@
           "sourceContentHash": "sha256:c90f8347c6874063",
           "sourceBodyHash": "sha256:dfabea754d57944a",
           "translatedAt": "2026-05-01T18:02:56+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/chen-chien-chi-music-producer.md",
@@ -36178,12 +36317,14 @@
           "sourceContentHash": "sha256:c90f8347c6874063",
           "sourceBodyHash": "sha256:dfabea754d57944a",
           "translatedAt": "2026-05-02T01:17:15+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/chen-chien-chi-music-producer.md",
@@ -36192,12 +36333,14 @@
           "sourceContentHash": "sha256:c90f8347c6874063",
           "sourceBodyHash": "sha256:dfabea754d57944a",
           "translatedAt": "2026-05-01T22:19:10+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/chen-chien-chi-music-producer.md",
@@ -36206,12 +36349,14 @@
           "sourceContentHash": "sha256:c90f8347c6874063",
           "sourceBodyHash": "sha256:dfabea754d57944a",
           "translatedAt": "2026-05-01T20:54:17+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -37177,10 +37322,10 @@
     },
     "People/鄭宜農.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:8009f6cea2dff966",
-        "bodyHash": "sha256:9bc9513fe8a31def"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:9978590a40b2bfce",
+        "bodyHash": "sha256:2eaa36629936ca3c"
       },
       "translations": {
         "en": {
@@ -37194,8 +37339,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/cheng-i-nung.md",
@@ -37208,8 +37355,10 @@
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/cheng-i-nung.md",
@@ -37218,12 +37367,14 @@
           "sourceContentHash": "sha256:8009f6cea2dff966",
           "sourceBodyHash": "sha256:9bc9513fe8a31def",
           "translatedAt": "2026-05-01T20:54:10+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/cheng-i-nung.md",
@@ -37232,12 +37383,14 @@
           "sourceContentHash": "sha256:8009f6cea2dff966",
           "sourceBodyHash": "sha256:9bc9513fe8a31def",
           "translatedAt": "2026-05-01T20:54:23+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/cheng-i-nung.md",
@@ -37246,12 +37399,14 @@
           "sourceContentHash": "sha256:8009f6cea2dff966",
           "sourceBodyHash": "sha256:9bc9513fe8a31def",
           "translatedAt": "2026-06-12T00:53:05+08:00",
-          "translationLastCommit": "995f1458",
-          "translationLastModified": "2026-06-12T05:24:32+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -37737,10 +37892,10 @@
     },
     "People/魏如萱.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:c0bf0a88da519f63",
-        "bodyHash": "sha256:071293de94a6fba8"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:0b7e2166be4687d0",
+        "bodyHash": "sha256:e29a88a99b0c002f"
       },
       "translations": {
         "en": {
@@ -37754,8 +37909,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/waa-wei-singer.md",
@@ -37764,12 +37921,14 @@
           "sourceContentHash": "sha256:c0bf0a88da519f63",
           "sourceBodyHash": "sha256:071293de94a6fba8",
           "translatedAt": "2026-06-12T03:51:13+08:00",
-          "translationLastCommit": "995f1458",
-          "translationLastModified": "2026-06-12T05:24:32+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/waa-wei-singer.md",
@@ -37782,8 +37941,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/waa-wei-singer.md",
@@ -37792,12 +37953,14 @@
           "sourceContentHash": "sha256:c0bf0a88da519f63",
           "sourceBodyHash": "sha256:071293de94a6fba8",
           "translatedAt": "2026-05-01T20:54:23+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/waa-wei-singer.md",
@@ -37806,12 +37969,14 @@
           "sourceContentHash": "sha256:c0bf0a88da519f63",
           "sourceBodyHash": "sha256:071293de94a6fba8",
           "translatedAt": "2026-06-12T03:51:14+08:00",
-          "translationLastCommit": "995f1458",
-          "translationLastModified": "2026-06-12T05:24:32+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -41977,10 +42142,10 @@
     },
     "People/阿爆.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:73f220f8acacaea9",
-        "bodyHash": "sha256:49c7778d68057c04"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:63b1d4d5c2d7861f",
+        "bodyHash": "sha256:97980c1ca1d62fad"
       },
       "translations": {
         "en": {
@@ -41994,8 +42159,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/aljenljeng-tjaluvie-abao.md",
@@ -42004,12 +42171,14 @@
           "sourceContentHash": "sha256:73f220f8acacaea9",
           "sourceBodyHash": "sha256:49c7778d68057c04",
           "translatedAt": "2026-06-12T03:51:13+08:00",
-          "translationLastCommit": "995f1458",
-          "translationLastModified": "2026-06-12T05:24:32+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/aljenljeng-tjaluvie-abao.md",
@@ -42018,12 +42187,14 @@
           "sourceContentHash": "sha256:73f220f8acacaea9",
           "sourceBodyHash": "sha256:49c7778d68057c04",
           "translatedAt": "2026-05-01T20:54:10+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/aljenljeng-tjaluvie-abao.md",
@@ -42032,12 +42203,14 @@
           "sourceContentHash": "sha256:73f220f8acacaea9",
           "sourceBodyHash": "sha256:49c7778d68057c04",
           "translatedAt": "2026-05-01T22:19:10+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/aljenljeng-tjaluvie-abao.md",
@@ -42046,12 +42219,14 @@
           "sourceContentHash": "sha256:73f220f8acacaea9",
           "sourceBodyHash": "sha256:49c7778d68057c04",
           "translatedAt": "2026-05-01T22:19:06+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -44297,9 +44472,9 @@
     },
     "People/孫燕姿.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:9ec6756d896737ac",
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:5d0b586f39d87683",
         "bodyHash": "sha256:22d5eb111a89acdd"
       },
       "translations": {
@@ -44314,8 +44489,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/stefanie-sun.md",
@@ -44328,8 +44505,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/stefanie-sun.md",
@@ -44338,12 +44517,14 @@
           "sourceContentHash": "sha256:9ec6756d896737ac",
           "sourceBodyHash": "sha256:22d5eb111a89acdd",
           "translatedAt": "2026-05-01T20:54:10+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/stefanie-sun.md",
@@ -44352,12 +44533,14 @@
           "sourceContentHash": "sha256:9ec6756d896737ac",
           "sourceBodyHash": "sha256:22d5eb111a89acdd",
           "translatedAt": "2026-05-01T20:54:23+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/stefanie-sun.md",
@@ -44366,12 +44549,14 @@
           "sourceContentHash": "sha256:9ec6756d896737ac",
           "sourceBodyHash": "sha256:22d5eb111a89acdd",
           "translatedAt": "2026-05-01T20:54:17+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -45177,10 +45362,10 @@
     },
     "People/黃大煒.md": {
       "zh": {
-        "lastCommit": "1325561b",
-        "lastModified": "2026-06-19T12:37:06+08:00",
-        "contentHash": "sha256:327453fbf8e22708",
-        "bodyHash": "sha256:527a7c63e3b18690"
+        "lastCommit": "ac1d187a",
+        "lastModified": "2026-06-28T09:52:29+08:00",
+        "contentHash": "sha256:0041e835fb3d1348",
+        "bodyHash": "sha256:1a8cebcb1382c71d"
       },
       "translations": {
         "en": {
@@ -45190,12 +45375,14 @@
           "sourceContentHash": "sha256:327453fbf8e22708",
           "sourceBodyHash": "sha256:527a7c63e3b18690",
           "translatedAt": "2026-06-20T00:37:13+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/david-wong.md",
@@ -45204,12 +45391,14 @@
           "sourceContentHash": "sha256:327453fbf8e22708",
           "sourceBodyHash": "sha256:527a7c63e3b18690",
           "translatedAt": "2026-06-20T00:37:14+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/david-wong.md",
@@ -45218,12 +45407,14 @@
           "sourceContentHash": "sha256:327453fbf8e22708",
           "sourceBodyHash": "sha256:527a7c63e3b18690",
           "translatedAt": "2026-06-20T00:37:14+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/david-wong.md",
@@ -45232,12 +45423,14 @@
           "sourceContentHash": "sha256:327453fbf8e22708",
           "sourceBodyHash": "sha256:527a7c63e3b18690",
           "translatedAt": "2026-06-20T00:37:14+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/david-wong.md",
@@ -45246,12 +45439,14 @@
           "sourceContentHash": "sha256:327453fbf8e22708",
           "sourceBodyHash": "sha256:527a7c63e3b18690",
           "translatedAt": "2026-06-20T00:37:14+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
+          "translationLastCommit": "ac1d187a",
+          "translationLastModified": "2026-06-28T09:52:29+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },

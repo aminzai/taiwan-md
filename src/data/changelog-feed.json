@@ -1,7 +1,195 @@
 {
-  "generatedAt": "2026-06-27T22:11:26.703Z",
+  "generatedAt": "2026-06-28T15:10:28.873Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "e83cb726f84c5eb6a7aa11731957c58ee2b006bf",
+      "date": "2026-06-28T22:11:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-28-220853-twmd-maintainer-pm — 2 active PR triage + FACTCHECK defer",
+      "articles": []
+    },
+    {
+      "hash": "d071a520758870af0c0bf673f99fd0c65d89a3d0",
+      "date": "2026-06-28T21:17:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-28-211000-twmd-routine-audit-weekly — cycle 8 finale + 4 lens + 3 LESSONS + script self-blindness 首次照到自己",
+      "articles": []
+    },
+    {
+      "hash": "6c3d00188661def25640f83c166c0737420edd0a",
+      "date": "2026-06-28T21:16:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-routine-audit-weekly: cycle 8 — 192 commit / 0 collision 連 8 cycle / 15 heal / 4 cross-cutting pattern / 3 new LESSONS — 2026-06-28",
+      "articles": []
+    },
+    {
+      "hash": "96c112e1c34eb6afc7b8d5015c6f715f763cd5c0",
+      "date": "2026-06-28T19:14:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite-daily: 18:00 fire DEFERRED post-saturation-day vc=5",
+      "articles": []
+    },
+    {
+      "hash": "6897c657174cf430c363639e989022f34c49caac",
+      "date": "2026-06-28T11:06:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 金曲獎 session finale — post-收官 4-commit continuation + relatedDiary 回扣",
+      "articles": [
+        {
+          "url": "/music/金曲獎",
+          "name": "金曲獎"
+        }
+      ]
+    },
+    {
+      "hash": "9bdda74fa59f2201efde1ccef48e57e103ce04ce",
+      "date": "2026-06-28T11:01:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 兩座造橋 — pre-push orphan gate + content-dates cross-link cosmetic",
+      "articles": []
+    },
+    {
+      "hash": "f3e784fa4e7e78e39477aedd1671d016cc9a92c5",
+      "date": "2026-06-28T10:39:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: build-content-dates BATCH_THRESHOLD — slug-rename 連結 sweep 不再洗版「最新文章」",
+      "articles": [
+        {
+          "url": "/music/金曲獎",
+          "name": "金曲獎"
+        }
+      ]
+    },
+    {
+      "hash": "d2c7395e6d8d8ece0349233da0801401a9047828",
+      "date": "2026-06-28T10:22:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 金曲獎 補第 37 屆（2026）section — 立體群像延伸到當下",
+      "articles": [
+        {
+          "url": "/music/金曲獎",
+          "name": "金曲獎"
+        }
+      ]
+    },
+    {
+      "hash": "d2b38a8ffba1eb2820ff1ef6b9fd4192c0d46bcc",
+      "date": "2026-06-28T10:07:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: fr 金曲獎譯本 translatedFrom 修為 金曲獎.md（CD orphan fix）",
+      "articles": []
+    },
+    {
+      "hash": "1ce92645c10e697ab23c31f0292ba53c77fe9272",
+      "date": "2026-06-28T10:01:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-28-080352-manual — 金曲獎 ship + REWRITE-PIPELINE v7.6 立體群像進化",
+      "articles": []
+    },
+    {
+      "hash": "ac1d187afb694ff60fe05721cac7138492478c8e",
+      "date": "2026-06-28T09:52:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 金曲獎 NEW 獨立深度文 — 從「流行音樂與金曲獎」拆出 + rename + redirect",
+      "articles": [
+        {
+          "url": "/music/_Music Hub",
+          "name": "_Music Hub"
+        },
+        {
+          "url": "/music/台灣嘻哈與饒舌發展",
+          "name": "台灣嘻哈與饒舌發展"
+        },
+        {
+          "url": "/music/台灣流行音樂",
+          "name": "台灣流行音樂"
+        },
+        {
+          "url": "/music/周蕙",
+          "name": "周蕙"
+        }
+      ]
+    },
+    {
+      "hash": "d56f14e6f677fdef3370714d126326df12ff1416",
+      "date": "2026-06-28T09:50:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: REWRITE-PIPELINE v7.6 — Stage 0 spine-type fork（立體群像 default）",
+      "articles": []
+    },
+    {
+      "hash": "603147d0fde938bd969bb1c0458fb47a93f46dc5",
+      "date": "2026-06-28T09:21:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 陳嫺靜 ship 收官 + 記下一個多核心的失手",
+      "articles": []
+    },
+    {
+      "hash": "5b7fd7a81063e4238bd8952797ff584d76ce5c73",
+      "date": "2026-06-28T09:14:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 陳嫺靜——拿金曲新人那年，她已經做音樂第八年",
+      "articles": [
+        {
+          "url": "/music/台灣嘻哈與饒舌發展",
+          "name": "台灣嘻哈與饒舌發展"
+        },
+        {
+          "url": "/music/陳嫺靜",
+          "name": "陳嫺靜"
+        }
+      ]
+    },
+    {
+      "hash": "f7804f92ceeea75e39888553255c8ed7559cc6c3",
+      "date": "2026-06-28T08:43:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 沒人讀的時候，commit 悄悄寫成了給機器看的",
+      "articles": []
+    },
+    {
+      "hash": "c75beba4da5097fbe06a3e1517b3f213bc0e2c0e",
+      "date": "2026-06-28T08:41:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-maintainer-am: 早上巡了一圈沒事",
+      "articles": []
+    },
+    {
+      "hash": "24b16c69326d751235b5b4d38581c3684656fcb0",
+      "date": "2026-06-28T08:38:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 記下立「commit 寫人話」紀律這次 session",
+      "articles": []
+    },
+    {
+      "hash": "8afdb1860e217c51efef4b2b2bb42f7cb3118159",
+      "date": "2026-06-28T08:32:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 立一條「commit 要寫人話」的紀律（MANIFESTO §11.4）",
+      "articles": []
+    },
+    {
+      "hash": "91fe2aca71b8842ea0aaa5db9e5cbda127ff49bd",
+      "date": "2026-06-28T07:09:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 07:00 full no-op 連 9 cycle (file=0 issue=0 archive-sync=0) — input/output 雙軌同時靜止 snapshot 補 6/27 output 單軌活對照 + HG8 #1140/#280 留 human gate",
+      "articles": []
+    },
+    {
+      "hash": "819e3ad406d7fbabd9e48dc84058d7467057bc9b",
+      "date": "2026-06-28T06:48:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 10 events + 1 Migu reply ship — 2026-06-28",
+      "articles": []
+    },
+    {
+      "hash": "afac80cb93dc69fb212b5c28fc7a6054ab24d888",
+      "date": "2026-06-28T06:15:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth (vitals 825 / contributors 61 / 7d=+27 / i18n en830 ja825 ko826 es825 fr826 +2 each / ⭐1079 +11 / immune=50 chronic 第 5 cycle / CF 491k req 404=9.9% -0.87pp 單日最大跌幅 6 cycle 累積 -2.14pp / AI 132k U-plateau 第 7 cycle)",
+      "articles": []
+    },
     {
       "hash": "a73d5e27333c2196ac9817cf000ce97848a51b63",
       "date": "2026-06-28T05:11:15+08:00",

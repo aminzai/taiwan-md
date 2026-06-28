@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T22:11:27.778Z",
+  "lastUpdated": "2026-06-28T15:10:29.774Z",
   "totals": {
     "contributors": 61,
     "activeWindow": "last 30d"
@@ -7,16 +7,16 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 4563,
+      "commits": 4584,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-06-28 05:11:15 +0800",
+      "lastCommitAt": "2026-06-28 22:11:02 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 939,
-        "system": 3149,
-        "translation": 810
+        "content": 944,
+        "system": 3168,
+        "translation": 812
       }
     },
     {
@@ -790,16 +790,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 4563,
+      "commits": 4584,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-06-28 05:11:15 +0800",
+      "lastCommitAt": "2026-06-28 22:11:02 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 939,
-        "system": 3149,
-        "translation": 810
+        "content": 944,
+        "system": 3168,
+        "translation": 812
       }
     },
     {

@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-06-27T22:11:25Z",
-  "total": 827,
-  "flagged": 331,
+  "timestamp": "2026-06-28T15:10:28Z",
+  "total": 828,
+  "flagged": 332,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -25,19 +25,24 @@
       "reasons": "塑膠句1個; 破折號55個"
     },
     {
-      "file": "music/流行音樂與金曲獎.md",
-      "score": 6,
-      "reasons": "未人工審核; 塑膠句3個; 破折號6個; 稀薄段落×1; 品質衰退前34%後21%"
-    },
-    {
       "file": "music/濁水溪公社.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句1個; 破折號12個"
     },
     {
+      "file": "music/陳嫺靜.md",
+      "score": 7,
+      "reasons": "空洞詞18個; 未人工審核; 破折號20個"
+    },
+    {
       "file": "music/台灣聲音地景.md",
       "score": 11,
       "reasons": "空洞詞9個; 未人工審核; 塑膠句1個; 破折號45個; 教科書開場; 稀薄段落×3"
+    },
+    {
+      "file": "music/金曲獎.md",
+      "score": 4,
+      "reasons": "未人工審核; 破折號27個"
     },
     {
       "file": "economy/台灣企業：巨大機械.md",

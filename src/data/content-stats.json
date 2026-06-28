@@ -7,10 +7,10 @@
     "Food": 280,
     "Geography": 325,
     "History": 240,
-    "Lifestyle": 146,
-    "Music": 171,
+    "Lifestyle": 150,
+    "Music": 172,
     "Nature": 190,
-    "People": 1161,
+    "People": 1165,
     "Politics": 55,
     "Society": 440,
     "Technology": 264,
@@ -408,7 +408,11 @@
     {
       "date": "2026-06-27",
       "count": 3
+    },
+    {
+      "date": "2026-06-28",
+      "count": 3
     }
   ],
-  "updated": "2026-06-27"
+  "updated": "2026-06-28"
 }

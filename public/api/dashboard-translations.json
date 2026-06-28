@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T22:11:31.948Z",
+  "lastUpdated": "2026-06-28T15:10:34.502Z",
   "languages": [
     "zh-TW",
     "en",
@@ -10,72 +10,72 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 825,
+      "total": 826,
       "percentage": 100,
-      "fresh": 825,
+      "fresh": 826,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
       "total": 827,
-      "percentage": 100,
-      "fresh": 827,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "percentage": 99.9,
+      "fresh": 809,
+      "metadataStale": 2,
+      "stale": 16,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 1,
+      "freshPct": 97.7,
+      "bodyFreshPct": 97.9
     },
     "ja": {
       "total": 827,
-      "percentage": 100,
-      "fresh": 827,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "percentage": 99.9,
+      "fresh": 809,
+      "metadataStale": 2,
+      "stale": 16,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 1,
+      "freshPct": 97.7,
+      "bodyFreshPct": 97.9
     },
     "ko": {
       "total": 827,
-      "percentage": 100,
-      "fresh": 827,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "percentage": 99.9,
+      "fresh": 809,
+      "metadataStale": 2,
+      "stale": 16,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 1,
+      "freshPct": 97.7,
+      "bodyFreshPct": 97.9
     },
     "es": {
       "total": 827,
-      "percentage": 100,
-      "fresh": 827,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "percentage": 99.9,
+      "fresh": 809,
+      "metadataStale": 2,
+      "stale": 16,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 1,
+      "freshPct": 97.7,
+      "bodyFreshPct": 97.9
     },
     "fr": {
       "total": 827,
-      "percentage": 100,
-      "fresh": 827,
-      "metadataStale": 0,
-      "stale": 0,
-      "missing": 0,
+      "percentage": 99.9,
+      "fresh": 809,
+      "metadataStale": 2,
+      "stale": 16,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "deficit": 1,
+      "freshPct": 97.7,
+      "bodyFreshPct": 97.9
     }
   },
   "matrix": {
@@ -384,41 +384,41 @@
       }
     },
     "music": {
-      "zh-TW": 34,
+      "zh-TW": 35,
       "en": {
-        "count": 34,
-        "fresh": 34,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "count": 33,
+        "fresh": 27,
+        "stale": 6,
+        "missing": 1,
+        "deficit": 2
       },
       "ja": {
-        "count": 34,
-        "fresh": 34,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "count": 33,
+        "fresh": 27,
+        "stale": 6,
+        "missing": 1,
+        "deficit": 2
       },
       "ko": {
-        "count": 34,
-        "fresh": 34,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "count": 33,
+        "fresh": 27,
+        "stale": 6,
+        "missing": 1,
+        "deficit": 2
       },
       "es": {
-        "count": 34,
-        "fresh": 34,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "count": 33,
+        "fresh": 27,
+        "stale": 6,
+        "missing": 1,
+        "deficit": 2
       },
       "fr": {
-        "count": 34,
-        "fresh": 34,
-        "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "count": 33,
+        "fresh": 27,
+        "stale": 6,
+        "missing": 1,
+        "deficit": 2
       }
     },
     "nature": {
@@ -462,39 +462,39 @@
     "people": {
       "zh-TW": 233,
       "en": {
-        "count": 233,
-        "fresh": 233,
-        "stale": 0,
+        "count": 232,
+        "fresh": 222,
+        "stale": 10,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "ja": {
-        "count": 233,
-        "fresh": 233,
-        "stale": 0,
+        "count": 232,
+        "fresh": 222,
+        "stale": 10,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "ko": {
-        "count": 233,
-        "fresh": 233,
-        "stale": 0,
+        "count": 232,
+        "fresh": 222,
+        "stale": 10,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "es": {
-        "count": 233,
-        "fresh": 233,
-        "stale": 0,
+        "count": 232,
+        "fresh": 222,
+        "stale": 10,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "fr": {
-        "count": 233,
-        "fresh": 233,
-        "stale": 0,
+        "count": 232,
+        "fresh": 222,
+        "stale": 10,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       }
     },
     "politics": {
@@ -612,7 +612,23 @@
       }
     }
   },
-  "missing": {},
+  "missing": {
+    "en": [
+      "Music/陳嫺靜：拿下金曲「最佳新人」那年，她已經做音樂第八年.md"
+    ],
+    "ja": [
+      "Music/陳嫺靜：拿下金曲「最佳新人」那年，她已經做音樂第八年.md"
+    ],
+    "ko": [
+      "Music/陳嫺靜：拿下金曲「最佳新人」那年，她已經做音樂第八年.md"
+    ],
+    "es": [
+      "Music/陳嫺靜：拿下金曲「最佳新人」那年，她已經做音樂第八年.md"
+    ],
+    "fr": [
+      "Music/陳嫺靜：拿下金曲「最佳新人」那年，她已經做音樂第八年.md"
+    ]
+  },
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],

@@ -1,5 +1,5 @@
 {
-  "totalArticles": 4969,
+  "totalArticles": 4970,
   "totalCategories": 20,
   "estimatedContributors": 61,
   "totalTags": 6101,
@@ -50,7 +50,7 @@
     },
     {
       "name": "Music",
-      "count": 34
+      "count": 35
     },
     {
       "name": "Food",
@@ -119,15 +119,15 @@
       "count": 25
     },
     {
-      "name": "金曲獎",
-      "count": 24
-    },
-    {
       "name": "인물",
       "count": 23
     },
     {
       "name": "民主化",
+      "count": 23
+    },
+    {
+      "name": "金曲獎",
       "count": 23
     },
     {
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4969,
+    "zh-TW": 4970,
     "en": 0
   },
-  "lastUpdated": "2026-06-27T22:11:25.069Z",
-  "stars": 1079,
+  "lastUpdated": "2026-06-28T15:10:27.207Z",
+  "stars": 1082,
   "forks": 156,
-  "zhPages": 825,
+  "zhPages": 826,
   "enPages": 832,
-  "totalPages": 825
+  "totalPages": 826
 }
