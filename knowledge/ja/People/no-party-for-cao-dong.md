@@ -27,9 +27,9 @@ lastVerified: 2026-06-22
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/草東沒有派對.md'
-sourceCommitSha: 'e79c30b8d'
-sourceContentHash: 'sha256:ee418e919ecc7897'
-sourceBodyHash: 'sha256:f40e32cfe1b0be26'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:62a474db99f7907b'
+sourceBodyHash: 'sha256:df0b89348caf6487'
 translatedAt: '2026-06-23T00:40:05+08:00'
 ---
 
@@ -281,7 +281,7 @@ _〈但〉(Damn)（2023）。《瓦合》最後の新曲で、ボーカルはほ
 - [康士坦的變化球](/people/康士坦的變化球) — 同じくポストロックのスペクトラムに属しながら、声による叙述の道を進む対照例
 - [Cicada](/people/Cicada) — 全器楽・無人声の経路を進み、草東の「歌詞即社会学」とちょうど反対に位置する存在
 - [盧廣仲](/people/盧廣仲) — インディー音楽におけるもう一つの「作品型シンガー」の経路
-- [流行音楽と金曲賞](/music/金曲獎) — 草東が二度最優秀バンド賞を獲得した舞台座標
+- [金曲賞](/music/金曲獎) — 草東が二度最優秀バンド賞を獲得した舞台座標
 - [台湾インディー音楽](/music/台灣獨立音樂) — 自然捲から草東、告五人に至るインディー音楽の進化
 - [台湾ポップ音楽](/music/台灣流行音樂) — 華語ポップ音楽産業の環境
 

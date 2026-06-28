@@ -32,9 +32,9 @@ lastVerified: 2026-06-21
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: '306126901'
-sourceContentHash: 'sha256:15544a92bbe3fa66'
-sourceBodyHash: 'sha256:2a1b1a8f267d23c2'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:4a53480bbe9aa83b'
+sourceBodyHash: 'sha256:5091127dea208f82'
 translatedAt: '2026-06-22T00:40:58+08:00'
 ---
 
@@ -267,7 +267,7 @@ Cicada가 왜 독특한지 이해하려면, 이들의 전체 방법론의 철학
 - [차오둥메이유파이두이](/people/草東沒有派對) — 같은 시기에 부상했지만 외향적 분노의 밴드 경로를 간 대조군
 - [콘스탄트 앤 체인지스](/people/康士坦的變化球) — 같은 포스트록 스펙트럼에 속하되, 보컬 서사의 길을 간 사례
 - [루광중](/people/盧廣仲) — 독립음악의 또 다른 경로
-- [대중음악과 금곡장](/music/金曲獎) — Cicada가 금곡장 최우수 연주 앨범 후보에 오른 제도적 맥락
+- [금곡장](/music/金曲獎) — Cicada가 금곡장 최우수 연주 앨범 후보에 오른 제도적 맥락
 - [타이완 독립음악](/music/台灣獨立音樂) — 2010년대 이후 독립음악 스펙트럼
 - [타이완 산림 생태계](/nature/台灣森林生態系) — Cicada 《走入有霧的森林》과 《棲居在溪源之上》의 경관
 - [타이완 해양 생태](/nature/台灣海洋生態) — 밴드의 2017년 해양 주제 앨범의 생태적 배경

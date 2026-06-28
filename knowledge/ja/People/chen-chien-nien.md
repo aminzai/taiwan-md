@@ -21,9 +21,9 @@ lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳建年.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:54be9af22ce56bb4'
-sourceBodyHash: 'sha256:7ce406dfced8a432'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:94460ad43105f980'
+sourceBodyHash: 'sha256:64a1b7182260c207'
 translatedAt: '2026-06-16T16:55:14Z'
 ---
 
@@ -203,7 +203,7 @@ _2018年3月25日、陳建年が新竹の小規模なライブハウスで出演
 - [現代原住民シンガーソングライター](/music/當代原住民創作歌手) — 1990年代以降、台湾原住民音楽が周縁から主流へ進んだ世代地図
 - [台湾民謡と歌謡](/music/台灣民謠與歌謠) — 陸森宝など1950年代の原住民創作者が台湾民謡史の中で占める位置を含む
 - [台湾インディペンデント音楽](/music/台灣獨立音樂) — 角頭音楽などの独立レーベルが、主流音楽産業の外側でいかに別の道を築いたか
-- [流行音楽と金曲奨](/music/金曲獎) — 金曲奨制度が原住民音楽創作をどのように取り込んだか
+- [金曲奨](/music/金曲獎) — 金曲奨制度が原住民音楽創作をどのように取り込んだか
 
 ## 参考資料
 

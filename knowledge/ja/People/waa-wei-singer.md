@@ -30,9 +30,9 @@ lastVerified: 2026-04-18
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/魏如萱.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:c0bf0a88da519f63'
-sourceBodyHash: 'sha256:071293de94a6fba8'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:0b7e2166be4687d0'
+sourceBodyHash: 'sha256:e29a88a99b0c002f'
 translatedAt: '2026-06-12T03:51:13+08:00'
 ---
 
@@ -231,7 +231,7 @@ PRの訂正も、後追いの追跡報道もなく、ただの自虐で終わっ
 - [林宥嘉](/people/林宥嘉) —— オーディションから金曲に進み、ステージのプロフェッショナルを極めた男性歌手の別の道
 - [周杰倫](/people/周杰倫) —— 中国語ポップスのスペクトルの反対側：スーパースター体制 vs 作品型インディーズ歌手
 - [蔡依林](/people/蔡依林) —— 女性歌手が声を築く別の方法。魏の逆のケース
-- [ポップスと金曲賞](/music/金曲獎) —— 魏如萱が二度の最優秀中国語女性歌手賞を獲得したステージの座標
+- [金曲賞](/music/金曲獎) —— 魏如萱が二度の最優秀中国語女性歌手賞を獲得したステージの座標
 - [台湾ポップス](/music/台灣流行音樂) —— 中国語ポップスの産業環境
 - [台湾インディーズ音楽](/music/台灣獨立音樂) —— 自然巻から2020年代の金曲メインストリームへの境界
 - [楊丞琳](/people/楊丞琳) —— 同じ世代の「市場 vs 学院」の構造的対照：楊丞琳は45回の金鐘賞を持つが金曲賞は未受賞、魏如萱は二座の金曲最優秀中国語女性歌手賞

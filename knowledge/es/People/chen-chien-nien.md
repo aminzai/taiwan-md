@@ -21,9 +21,9 @@ lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳建年.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:54be9af22ce56bb4'
-sourceBodyHash: 'sha256:7ce406dfced8a432'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:94460ad43105f980'
+sourceBodyHash: 'sha256:64a1b7182260c207'
 translatedAt: '2026-06-16T16:54:57Z'
 ---
 

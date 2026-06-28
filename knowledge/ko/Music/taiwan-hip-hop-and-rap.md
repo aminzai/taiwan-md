@@ -21,9 +21,9 @@ lastVerified: 2026-06-09
 lastHumanReview: true
 featured: true
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:035856138f415849'
-sourceBodyHash: 'sha256:cef318ca2ba7bbe6'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:c3b6d91df55d0949'
+sourceBodyHash: 'sha256:fc827205e6b71ba4'
 translatedAt: '2026-06-14T00:35:00+08:00'
 ---
 
@@ -253,7 +253,7 @@ _BBC News 중국어 공식 영상: RapShark와 양수야를 따라가며, 이 �
 - [타이완어 노래의 변천](/music/台灣台語歌曲演進) — 《望春風》에서 신타이완어 운동까지, 한 언어는 어떻게 주류로 돌아왔는가
 - [현대 원주민 싱어송라이터](/music/當代原住民創作歌手) — 금곡장 무대에서 원주민족 언어 부흥까지, 16개 원주민족의 소리는 어떻게 들리게 되었는가
 - [타이완 인디 음악](/music/台灣獨立音樂) — 언더그라운드, livehouse, 그리고 자유를 둘러싼 장기전
-- [대중음악과 금곡장](/music/金曲獎) — 하나의 상은 어떻게 중국어권 음악계의 기준을 정의했는가
+- [금곡장](/music/金曲獎) — 하나의 상은 어떻게 중국어권 음악계의 기준을 정의했는가
 
 ## 이미지 출처
 

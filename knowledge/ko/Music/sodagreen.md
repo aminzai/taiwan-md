@@ -20,9 +20,9 @@ lastVerified: 2026-06-09
 lastHumanReview: true
 featured: false
 translatedFrom: 'Music/蘇打綠.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:56aa1dd40081a13d'
-sourceBodyHash: 'sha256:383422f11b195e61'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:9dab22004602c3b0'
+sourceBodyHash: 'sha256:aea389268b4e9246'
 translatedAt: '2026-06-16T16:38:41Z'
 ---
 
@@ -403,7 +403,7 @@ _2017년 1월 1일, 쑤다뤼의 자유광장 마지막 앙코르 현장. 약 2�
 - [타이완 독립음악](/music/台灣獨立音樂) — 타이완 인디 밴드 생태
 - [타이완 음악제 문화](/music/台灣音樂祭文化) — 궁랴오 해양음악제와 인디 밴드 발굴 플랫폼
 - [우웨톈](/music/五月天) — 1997년 결성된 또 다른 타이완의 지표적 밴드, 다른 매니지먼트 모델과의 대조
-- [대중음악과 금곡장](/music/金曲獎) — 쑤다뤼가 금곡장을 휩쓴 맥락
+- [금곡장](/music/金曲獎) — 쑤다뤼가 금곡장을 휩쓴 맥락
 
 ---
 

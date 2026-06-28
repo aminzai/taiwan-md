@@ -28,9 +28,9 @@ lastVerified: 2026-04-18
 lastHumanReview: true
 researchReport: reports/research/2026-04/阿爆.md
 translatedFrom: 'People/阿爆.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:73f220f8acacaea9'
-sourceBodyHash: 'sha256:49c7778d68057c04'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:63b1d4d5c2d7861f'
+sourceBodyHash: 'sha256:97980c1ca1d62fad'
 translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 
@@ -198,7 +198,7 @@ That's true for herself, for the next generation of indigenous musicians, and fo
 - [Wei Ru-Xuan](/en/people/waa-wei-singer) (zh only: 魏如萱) — Another path in the same generation of Mandopop music, "making non-standard sound heard" (Wei Ru-xuan's doll-like voice × Abao's indigenous electronic music — two languages in the expansion of sonic boundaries)
 - [Chen Chien-chi](/en/people/chen-chien-chi-music-producer) (zh only: 陳建騏) — A Mandopop producer's "absent author" identity as contrast (Chen Jian-qi making the sonic frontier of mainstream Mandarin / Abao making indigenous-language future pop)
 - [Chou Tzu-yu](/en/people/tzuyu) (zh only: 周子瑜) — The other end of the spectrum of identity strategies for same-generation Taiwanese female musicians (Chou Tzu-yu's K-pop industrialization vs. Abao's ethnic identity × local production)
-- [Popular Music and the Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) (zh only: 流行音樂與金曲獎) — The structural significance of indigenous-language works taking Album of the Year for the first time at Golden Melody 31 in 2020
+- [Golden Melody Awards](/music/金曲獎) — The structural significance of indigenous-language works taking Album of the Year for the first time at Golden Melody 31 in 2020
 - [Taiwan Popular Music](/en/music/pop-music-and-golden-melody-awards) (zh only: 台灣流行音樂) — 2020 as the watershed year when indigenous-language music moved from sidebar to main stage
 - [Taiwan's 16 Indigenous Peoples Cultural Map](/en/culture/indigenous-peoples-16-tribes-cultural-map) (zh only: 台灣原住民族16族文化地圖) — The contemporary landscape of Paiwan language, tribes, and artistic forms
 - [Indigenous Language Policy](/en/culture/indigenous-language-revitalization-movement) (zh only: 原住民族語言政策) — The policy context of indigenous language revitalization and its complementarity with Abao-style musical practice

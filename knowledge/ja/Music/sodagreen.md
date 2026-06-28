@@ -20,9 +20,9 @@ lastVerified: 2026-06-09
 lastHumanReview: true
 featured: false
 translatedFrom: 'Music/蘇打綠.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:56aa1dd40081a13d'
-sourceBodyHash: 'sha256:383422f11b195e61'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:9dab22004602c3b0'
+sourceBodyHash: 'sha256:aea389268b4e9246'
 translatedAt: '2026-06-16T17:04:12Z'
 ---
 
@@ -403,7 +403,7 @@ _2017 年 1 月 1 日、ソーダグリーンは自由広場で最後のアン�
 - [台湾インディー音楽](/music/台灣獨立音樂) — 台湾 indie バンドの生態
 - [台湾音楽祭文化](/music/台灣音樂祭文化) — 貢寮海洋音楽祭とインディーバンド発掘プラットフォーム
 - [メイデイ](/music/五月天) — 1997 年結成のもう一つの台湾を代表するバンド。異なるマネジメントモデルとの対照
-- [ポピュラー音楽と金曲奨](/music/金曲獎) — ソーダグリーンが金曲奨を席巻した文脈
+- [金曲奨](/music/金曲獎) — ソーダグリーンが金曲奨を席巻した文脈
 
 ---
 

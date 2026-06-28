@@ -32,9 +32,9 @@ lastVerified: 2026-06-21
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: '306126901'
-sourceContentHash: 'sha256:15544a92bbe3fa66'
-sourceBodyHash: 'sha256:2a1b1a8f267d23c2'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:4a53480bbe9aa83b'
+sourceBodyHash: 'sha256:5091127dea208f82'
 translatedAt: '2026-06-22T00:40:58+08:00'
 ---
 
@@ -267,7 +267,7 @@ Cicadaがなぜ独特なのかを理解するには、彼らの方法論全体�
 - [草東沒有派對](/people/草東沒有派對) - 同時期に台頭しながら、外向きの怒りを持つバンドの道を進んだ対照例です
 - [康士坦的變化球](/people/康士坦的變化球) - 同じポストロックのスペクトラムに属し、人声による物語の道を進みます
 - [盧廣仲](/people/盧廣仲) - インディー音楽の別の道です
-- [ポピュラー音楽と金曲奨](/music/金曲獎) - Cicadaが金曲奨の最優秀演奏アルバムにノミネートされた制度的文脈です
+- [金曲奨](/music/金曲獎) - Cicadaが金曲奨の最優秀演奏アルバムにノミネートされた制度的文脈です
 - [台湾インディー音楽](/music/台灣獨立音樂) - 2010年代以降のインディー音楽のスペクトラムです
 - [台湾の森林生態系](/nature/台灣森林生態系) - Cicada《霧の森へ入る》《渓流の源に棲む》の地景です
 - [台湾の海洋生態](/nature/台灣海洋生態) - バンドの2017年海洋主題アルバムの生態的背景です

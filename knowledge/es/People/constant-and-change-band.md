@@ -28,9 +28,9 @@ lastVerified: 2026-04-18
 lastHumanReview: true
 featured: false
 translatedFrom: People/康士坦的變化球.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:37c312ea2b8060a6'
-sourceBodyHash: 'sha256:bb974f18f86691c3'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:da94b8581c1d756d'
+sourceBodyHash: 'sha256:882ec45fed78d371'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 
@@ -161,7 +161,7 @@ Y esa vía de Mianyue en Alishan, en sus canciones, sigue avanzando.
 - [魏如萱](/people/魏如萱) — Pertenece al mismo ecosistema musical independiente de la década de 2010, cantante que toma el camino vocal en lugar del post-rock
 - [Cicada](/people/Cicada) — Post-rock puro, instrumental y sin voz, formando un contraste con el "post-rock + voz" de KST
 - [盧廣仲](/people/盧廣仲) — Otro camino de la música independiente: cantante de autor que cruza las tres categorías de los premios dorados
-- [流行音樂與金曲獎](/music/金曲獎) — La coordenada escénica donde KST fue nominado al Mejor Grupo en los 32.º Golden Melody
+- [Premios Golden Melody](/music/金曲獎) — La coordenada escénica donde KST fue nominado al Mejor Grupo en los 32.º Golden Melody
 - [台灣獨立音樂](/music/台灣獨立音樂) — El linaje generacional de la música independiente desde Natural Q hasta KST, No Party for Cao Dong y Accusefive
 - [台灣流行音樂](/music/台灣流行音樂) — El entorno de la industria del pop mandarín
 

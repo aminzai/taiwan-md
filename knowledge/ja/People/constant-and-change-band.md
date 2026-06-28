@@ -28,9 +28,9 @@ lastVerified: 2026-04-18
 lastHumanReview: true
 featured: false
 translatedFrom: People/康士坦的變化球.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:37c312ea2b8060a6'
-sourceBodyHash: 'sha256:bb974f18f86691c3'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:da94b8581c1d756d'
+sourceBodyHash: 'sha256:882ec45fed78d371'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---
 
@@ -161,7 +161,7 @@ KSTはこのイメージをアルバム全体のテーマに広げた：**10年�
 - [魏如萱](/people/魏如萱) — 2010年代のインディーミュージック生態系に属し、ポストロックではなくボーカル路線を歩む女性シンガー
 - [Cicada](/people/Cicada) — ボーカルなしの純粋ポストロックを追求し、KSTの「ポストロック＋ボーカル」と対照をなす
 - [盧広仲](/people/盧広仲) — インディーミュージックのもう一つの道：作品型シンガーが三金（金曲・金鐘・金馬）を横断する
-- [ポピュラーミュージックと金曲獎](/music/金曲獎) — KSTが金曲獎32で最優秀バンド賞にノミネートされた舞台の座標
+- [金曲獎](/music/金曲獎) — KSTが金曲獎32で最優秀バンド賞にノミネートされた舞台の座標
 - [台湾インディーミュージック](/music/台灣獨立音樂) — 自然巻からKST、草東、告五人に至るインディーミュージックの世代譜系
 - [台湾ポピュラーミュージック](/music/台灣流行音樂) — 華語ポップスの産業環境
 

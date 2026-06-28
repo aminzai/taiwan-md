@@ -28,9 +28,9 @@ readingTime: 18
 lastVerified: 2026-04-18
 lastHumanReview: true
 translatedFrom: People/阿爆.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:73f220f8acacaea9'
-sourceBodyHash: 'sha256:49c7778d68057c04'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:63b1d4d5c2d7861f'
+sourceBodyHash: 'sha256:97980c1ca1d62fad'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 
@@ -198,7 +198,7 @@ Para ella misma es así, para la próxima generación de músicos indígenas es 
 - [魏如萱](/people/魏如萱) — Otro camino en el pop en mandarín de la misma generación para «hacer audible lo no estándar» (la voz de muñeca de魏如萱 × la electrónica en lengua materna de Abao: dos lenguas para expandir los límites del sonido)
 - [陳建騏](/people/陳建騏) — Contraste con la identidad de «autor ausente» del productor de pop en mandarín (陳建騏 trabaja los límites sonoros del pop generalista en mandarín; Abao hace future pop en lengua materna)
 - [周子瑜](/people/周子瑜) — El otro extremo de las estrategias de identidad de las músicas taiwanesas de la misma generación (la industrialización del K-pop de 周子瑜 vs. la identidad étnica × producción local de Abao)
-- [流行音樂與金曲獎](/music/金曲獎) — El significado estructural de que el premio al Álbum del Año de la 31.ª edición de los Golden Melody fuera ganado por primera vez por una obra en lengua indígena
+- [Golden Melody Awards](/music/金曲獎) — El significado estructural de que el premio al Álbum del Año de la 31.ª edición de los Golden Melody fuera ganado por primera vez por una obra en lengua indígena
 - [台灣流行音樂](/music/台灣流行音樂) — El punto de inflexión de 2020 en el que la música en lengua indígena pasó de la periferia al escenario principal
 - [台灣原住民族16族文化地圖](/culture/台灣原住民族16族文化地圖) — La lengua, las aldeas y las formas artísticas del pueblo puman en su estado contemporáneo
 - [原住民族語言政策](/society/原住民族語言政策) — El contexto político de la revitalización de las lenguas indígenas y su complementariedad con la práctica musical al estilo Abao

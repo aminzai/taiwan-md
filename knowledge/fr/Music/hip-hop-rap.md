@@ -21,9 +21,9 @@ lastVerified: 2026-06-09
 lastHumanReview: true
 featured: true
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:035856138f415849'
-sourceBodyHash: 'sha256:cef318ca2ba7bbe6'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:c3b6d91df55d0949'
+sourceBodyHash: 'sha256:fc827205e6b71ba4'
 translatedAt: '2026-06-14T00:35:00+08:00'
 ---
 

@@ -27,9 +27,9 @@ lastVerified: 2026-06-22
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/草東沒有派對.md'
-sourceCommitSha: 'e79c30b8d'
-sourceContentHash: 'sha256:ee418e919ecc7897'
-sourceBodyHash: 'sha256:f40e32cfe1b0be26'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:62a474db99f7907b'
+sourceBodyHash: 'sha256:df0b89348caf6487'
 translatedAt: '2026-06-23T00:40:06+08:00'
 ---
 
@@ -281,7 +281,7 @@ _〈단〉(Damn), 2023. 《와허》의 마지막 신곡으로, 보컬은 거의
 - [캉스탄더볜화추](/people/康士坦的變化球) — 포스트록 스펙트럼에 함께 속하지만, 보컬 서사 경로를 걷는 대비 사례
 - [Cicada](/people/Cicada) — 전곡 기악, 무보컬 경로를 걷는 밴드로, 차오둥의 “가사 즉 사회학”과 정반대
 - [루광중](/people/盧廣仲) — 인디 음악의 또 다른 “작품형 싱어송라이터” 경로
-- [대중음악과 금곡상](/music/金曲獎) — 차오둥이 두 차례 최우수 밴드를 수상한 무대 좌표
+- [금곡상](/music/金曲獎) — 차오둥이 두 차례 최우수 밴드를 수상한 무대 좌표
 - [타이완 인디 음악](/music/台灣獨立音樂) — 자연권에서 차오둥, Accusefive까지 이어지는 인디 음악의 진화
 - [타이완 대중음악](/music/台灣流行音樂) — 중화권 대중음악 산업 환경
 

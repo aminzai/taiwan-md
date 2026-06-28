@@ -12,9 +12,9 @@ lastVerified: '2026-06-19'
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/黃大煒.md'
-sourceCommitSha: '1325561bf'
-sourceContentHash: 'sha256:327453fbf8e22708'
-sourceBodyHash: 'sha256:527a7c63e3b18690'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:0041e835fb3d1348'
+sourceBodyHash: 'sha256:1a8cebcb1382c71d'
 translatedAt: '2026-06-20T00:37:13+08:00'
 ---
 

@@ -32,9 +32,9 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/台灣流行音樂.md'
-sourceCommitSha: 'c8dec04f6'
-sourceContentHash: 'sha256:f830411f12a4bd7a'
-sourceBodyHash: 'sha256:3b1df2792ce61782'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:0380d6db1f823bf1'
+sourceBodyHash: 'sha256:bd48e5c9c0054342'
 translatedAt: '2026-06-20T01:01:36+08:00'
 ---
 
@@ -252,7 +252,7 @@ _李竺芯〈水 Suí〉official。李竺芯 Siri Lee 公式チャンネル。20
 
 - [台湾民歌運動：「自分たちの歌」を歌うとは誰の歌を歌うことか](/music/台灣民歌運動)
 - [台湾語歌曲の歩み：発禁にされた母語から年度アルバムへ](/music/台灣台語歌曲演進)
-- [ポップミュージックと金曲奨：誰の声が数に入るのか、それを誰が決めるのか](/music/金曲獎)
+- [金曲奨](/music/金曲獎)
 - [台湾音楽産業と配信時代：物理メディア崩壊後の回復](/music/台灣音樂產業與串流時代)
 - [鄧麗君：中台香港で歌われながら、中国で生涯コンサートを開かなかった歌姫](/people/鄧麗君)
 

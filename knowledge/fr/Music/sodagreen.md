@@ -20,9 +20,9 @@ lastVerified: 2026-06-09
 lastHumanReview: true
 featured: false
 translatedFrom: 'Music/蘇打綠.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:56aa1dd40081a13d'
-sourceBodyHash: 'sha256:383422f11b195e61'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:9dab22004602c3b0'
+sourceBodyHash: 'sha256:aea389268b4e9246'
 translatedAt: '2026-06-16T16:40:09Z'
 ---
 

@@ -16,9 +16,9 @@ lastVerified: '2026-06-14'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/小虎隊.md'
-sourceCommitSha: '40517470f'
-sourceContentHash: 'sha256:ca7799d54b4faaf1'
-sourceBodyHash: 'sha256:97eea304ee5e8ba6'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:3550fb52e312828d'
+sourceBodyHash: 'sha256:4cfd214b3bc19b4d'
 translatedAt: '2026-06-17T01:18:25+08:00'
 ---
 
@@ -151,7 +151,7 @@ _2012년 파리에서 촬영된 우치룽. 샤오후두이를 보지 못한 Z세
 **더 읽기**:
 
 - [타이완 대중음악](/music/台灣流行音樂) — 민가, 국어 팝, 아이돌 산업으로 이어지는 전체 맥락에서 샤오후두이는 그 핵심 고리 중 하나다
-- [대중음악과 금곡장](/music/金曲獎) — 타이완은 어떻게 하나의 상을 통해 “좋은 중국어권 대중음악”이 무엇인지 정의했는가
+- [금곡장](/music/金曲獎) — 타이완은 어떻게 하나의 상을 통해 “좋은 중국어권 대중음악”이 무엇인지 정의했는가
 - [저우제룬](/people/周杰倫) — 아이돌 산업 이후 타이완이 길러 낸 또 다른 중국어권 음악 주체성
 - [우웨톈](/music/五月天) — 마찬가지로 지역에서 출발해 중국어권 전역을 휩쓴 밴드, 아이돌 그룹과는 전혀 다른 또 하나의 길
 

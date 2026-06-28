@@ -28,9 +28,9 @@ lastVerified: 2026-04-18
 lastHumanReview: true
 readingTime: 18
 translatedFrom: People/鄭宜農.md
-sourceCommitSha: 4b6d28c54
-sourceContentHash: sha256:8009f6cea2dff966
-sourceBodyHash: sha256:9bc9513fe8a31def
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:9978590a40b2bfce'
+sourceBodyHash: 'sha256:2eaa36629936ca3c'
 translatedAt: 2026-06-12T00:53:05+08:00
 ---
 

@@ -32,9 +32,9 @@ lastVerified: 2026-06-21
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: '306126901'
-sourceContentHash: 'sha256:15544a92bbe3fa66'
-sourceBodyHash: 'sha256:2a1b1a8f267d23c2'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:4a53480bbe9aa83b'
+sourceBodyHash: 'sha256:5091127dea208f82'
 translatedAt: '2026-06-22T00:40:58+08:00'
 ---
 

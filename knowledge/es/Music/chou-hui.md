@@ -33,9 +33,9 @@ lastVerified: '2026-05-28'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/周蕙.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:66dc613367972f4b'
-sourceBodyHash: 'sha256:f32176a5dd84a470'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:e82ab2af4a170315'
+sourceBodyHash: 'sha256:4c01fb53198217ef'
 translatedAt: '2026-06-16T16:54:57Z'
 ---
 

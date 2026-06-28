@@ -2,9 +2,9 @@
 title: 'Waa Wei: Twenty Years of Wanting to Be Heard, from Naturally Curly''s "Wawa" to Two-Time Golden Melody Queen'
 description: "Vocalist 'Wawa' of Naturally Curly in 2003, going solo as 'Waa Wei' after a vocal cord injury in 2006, and winning Best Mandarin Female Singer at the Golden Melody Awards in both 2020 and 2025. From the four-language elegy 'That Place' mourning Ellen Loo, to the female resistance of the children's-voice version of 'Ophelia', to the courage grown from pain in Pearl Punishment — twenty years on the most counter-intuitive path in Mandopop: making her voice more famous than her face, letting her work outlive her persona."
 translatedFrom: 'People/魏如萱.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c0bf0a88da519f63'
-sourceBodyHash: 'sha256:071293de94a6fba8'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:0b7e2166be4687d0'
+sourceBodyHash: 'sha256:e29a88a99b0c002f'
 translatedAt: '2026-05-01T12:53:58+08:00'
 date: 2026-04-18
 tags:
@@ -230,7 +230,7 @@ The most famous work is not "Ophelia," not "That Place," not those two awards �
 - Lin Yu-jia — another path from talent show into Golden Melody, perfecting stage professionalism
 - Jay Chou — the other end of the Mandopop spectrum: the superstar system vs. the work-oriented independent singer
 - Jolin Tsai — another way for a female singer to build a sonic identity, a counterpoint to Waa Wei
-- Pop Music and the Golden Melody Awards — the stage coordinates where Waa Wei twice won Best Mandarin Female Singer
+- [Golden Melody Awards](/music/金曲獎) — the stage coordinates where Waa Wei twice won Best Mandarin Female Singer
 - Taiwan Pop Music — the Mandopop industry environment
 - Taiwan Independent Music — the boundary between Naturally Curly and the 2020s Golden Melody mainstream
 

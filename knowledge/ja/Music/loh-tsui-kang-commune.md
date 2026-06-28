@@ -21,8 +21,8 @@ readingTime: 10
 lastVerified: 2026-04-27
 lastHumanReview: false
 translatedFrom: 'Music/濁水溪公社.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:0be561fb740254b6'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:469167869b1ed9c7'
 sourceBodyHash: 'sha256:ba486d59e98b80d0'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---

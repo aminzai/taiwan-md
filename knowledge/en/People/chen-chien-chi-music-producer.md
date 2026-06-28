@@ -29,9 +29,9 @@ lastVerified: 2026-04-18
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/陳建騏.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:c90f8347c6874063'
-sourceBodyHash: 'sha256:dfabea754d57944a'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:96b9ab8dcbfbc70e'
+sourceBodyHash: 'sha256:c09555aa1106e918'
 translatedAt: '2026-06-07T02:26:07+08:00'
 ---
 

@@ -21,9 +21,9 @@ lastVerified: 2026-06-09
 lastHumanReview: true
 featured: true
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:035856138f415849'
-sourceBodyHash: 'sha256:cef318ca2ba7bbe6'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:c3b6d91df55d0949'
+sourceBodyHash: 'sha256:fc827205e6b71ba4'
 translatedAt: '2026-06-14T00:35:00+08:00'
 ---
 
@@ -253,7 +253,7 @@ _BBC News 中文公式映像：芮鯊と楊舒雅を追いながら、この女�
 - [台湾語歌謡の変遷](/music/台灣台語歌曲演進) — 《望春風》から新台湾語運動まで、一つの言語はいかに主流へ歌い戻ったのか
 - [現代原住民族シンガーソングライター](/music/當代原住民創作歌手) — 金曲奨の舞台から族語復興まで、16 族の声はいかに聞かれるようになったのか
 - [台湾インディー音楽](/music/台灣獨立音樂) — 地下、livehouse、そして自由をめぐる長期戦
-- [ポップ音楽と金曲奨](/music/金曲獎) — 一つの賞はいかに華語音楽界の基準を定義したのか
+- [金曲奨](/music/金曲獎) — 一つの賞はいかに華語音楽界の基準を定義したのか
 
 ## 画像出典
 

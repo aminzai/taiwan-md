@@ -26,9 +26,9 @@ imageCredit: '© ユニバーサル ミュージック（飛碟唱片オリジ�
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://music.apple.com/tw/album/逍遥游-2025-remastered/1847895760'
 translatedFrom: 'Music/小虎隊.md'
-sourceCommitSha: '40517470f'
-sourceContentHash: 'sha256:8d17ddb86cd92864'
-sourceBodyHash: 'sha256:ca7799d54b4faaf1'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:3550fb52e312828d'
+sourceBodyHash: 'sha256:4cfd214b3bc19b4d'
 translatedAt: '2026-06-17T02:18:49+08:00'
 ---
 
@@ -161,7 +161,7 @@ _吳奇隆、2012年パリにて。小虎隊を見たことのない Z 世代に
 **関連記事**：
 
 - [台湾ポップミュージック](/music/台灣流行音樂) — 民歌、国語ポップからアイドル産業に至るまでの全体の脈絡。小虎隊はその中の重要な一環である
-- [ポップミュージックと金曲奨](/music/金曲獎) — 台湾はいかにして一つの賞をもって、「良質な中国語ポップミュージック」とは何かを定義したか
+- [金曲奨](/music/金曲獎) — 台湾はいかにして一つの賞をもって、「良質な中国語ポップミュージック」とは何かを定義したか
 - [周杰倫](/people/周杰倫) — アイドル産業のあと、台湾が育てた別の中国語音楽の主体性
 - [五月天](/music/五月天) — 同じく地元から出発し中国語圏を席巻したバンド、アイドルグループとはまったく異なるもう一本の道
 

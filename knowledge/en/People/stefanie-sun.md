@@ -18,8 +18,8 @@ featured: false
 lastVerified: 2026-04-19
 lastHumanReview: false
 translatedFrom: 'People/孫燕姿.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:9ec6756d896737ac'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:5d0b586f39d87683'
 sourceBodyHash: 'sha256:22d5eb111a89acdd'
 translatedAt: '2026-04-30T22:50:13+08:00'
 ---

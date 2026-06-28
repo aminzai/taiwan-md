@@ -29,9 +29,9 @@ lastVerified: 2026-04-18
 lastHumanReview: true
 researchReport: reports/research/2026-04/康士坦的變化球.md
 translatedFrom: People/康士坦的變化球.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:37c312ea2b8060a6'
-sourceBodyHash: 'sha256:bb974f18f86691c3'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:da94b8581c1d756d'
+sourceBodyHash: 'sha256:882ec45fed78d371'
 translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 
@@ -162,7 +162,7 @@ And that Alishan railway, the Meigetsu Line, is still running in their songs.
 - [Wei Ru-Xuan](/en/people/waa-wei-singer) (zh only) — also in the 2010s independent music ecosystem, a female vocalist path instead of post-rock
 - [Cicada](/en/people/cicada-band) (zh only) — all-instrumental no-vocal pure post-rock, a counterpoint to KST's "post-rock + vocals"
 - [Crowd Lu](/en/people/crowd-lu-indie-folk-treasure) (zh only) — another path in independent music: compositional singer crossing the three major awards
-- [Popular Music and Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) (zh only) — the stage coordinates where KST was nominated for Best Band at Golden Melody 32
+- [Golden Melody Awards](/music/金曲獎) — the stage coordinates where KST was nominated for Best Band at Golden Melody 32
 - [Taiwan Independent Music](/en/music/indie-music-scene) (zh only) — the generational lineage of independent music from 1976 to KST, Cao Dong, and Sunset Rollercoaster
 - [Taiwan Popular Music](/en/music/pop-music-and-golden-melody-awards) (zh only) — the Mandarin popular music industry environment
 

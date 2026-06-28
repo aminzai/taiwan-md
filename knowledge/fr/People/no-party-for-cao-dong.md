@@ -27,9 +27,9 @@ lastVerified: 2026-06-22
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/草東沒有派對.md'
-sourceCommitSha: 'e79c30b8d'
-sourceContentHash: 'sha256:ee418e919ecc7897'
-sourceBodyHash: 'sha256:f40e32cfe1b0be26'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:62a474db99f7907b'
+sourceBodyHash: 'sha256:df0b89348caf6487'
 translatedAt: '2026-06-23T00:40:06+08:00'
 ---
 
@@ -281,7 +281,7 @@ Puis la caméra passe au prix suivant.
 - Constant & Change (康士坦的變化球) — autre groupe du spectre post-rock, mais suivant une voie narrative vocale
 - Cicada — voie entièrement instrumentale sans voix, exactement à l’opposé de Cao Dong où « les paroles sont sociologie »
 - Crowd Lu (盧廣仲) — une autre voie de la musique indépendante, celle du « chanteur d’œuvres »
-- Musique populaire et Golden Melody Awards (流行音樂與金曲獎) — coordonnées scéniques des deux prix du meilleur groupe remportés par Cao Dong
+- Golden Melody Awards (金曲獎) — coordonnées scéniques des deux prix du meilleur groupe remportés par Cao Dong
 - Musique indépendante taïwanaise (台灣獨立音樂) — évolution de la musique indépendante, de Natural Q à Cao Dong puis Accusefive
 - Musique populaire taïwanaise (台灣流行音樂) — environnement industriel de la musique populaire en mandarin
 

@@ -32,9 +32,9 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/台灣流行音樂.md'
-sourceCommitSha: 'c8dec04f6'
-sourceContentHash: 'sha256:f830411f12a4bd7a'
-sourceBodyHash: 'sha256:3b1df2792ce61782'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:0380d6db1f823bf1'
+sourceBodyHash: 'sha256:bd48e5c9c0054342'
 translatedAt: '2026-06-20T01:01:36+08:00'
 ---
 

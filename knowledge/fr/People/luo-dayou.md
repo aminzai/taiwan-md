@@ -20,9 +20,9 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/羅大佑.md'
-sourceCommitSha: '3419f7d4b'
-sourceContentHash: 'sha256:733eb9b135a1d6a7'
-sourceBodyHash: 'sha256:b5b5fdbc29ca31a4'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:a360c7a135e403dc'
+sourceBodyHash: 'sha256:fe7b545ee2048324'
 translatedAt: '2026-06-20T01:01:36+08:00'
 ---
 

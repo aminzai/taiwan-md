@@ -28,9 +28,9 @@ readingTime: 18
 lastVerified: 2026-04-18
 lastHumanReview: true
 translatedFrom: People/阿爆.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:73f220f8acacaea9'
-sourceBodyHash: 'sha256:49c7778d68057c04'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:63b1d4d5c2d7861f'
+sourceBodyHash: 'sha256:97980c1ca1d62fad'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---
 

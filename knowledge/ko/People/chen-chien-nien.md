@@ -21,9 +21,9 @@ lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳建年.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:54be9af22ce56bb4'
-sourceBodyHash: 'sha256:7ce406dfced8a432'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:94460ad43105f980'
+sourceBodyHash: 'sha256:64a1b7182260c207'
 translatedAt: '2026-06-16T16:55:29Z'
 ---
 
@@ -203,7 +203,7 @@ _2018년 3월 25일, 천젠녠이 신주의 한 소형 live house에서 공연�
 - [현대 원주민 싱어송라이터](/music/當代原住民創作歌手) — 1990년대 이후 대만 원주민 음악이 주변부에서 주류로 이동한 세대 지도
 - [대만 민요와 가요](/music/台灣民謠與歌謠) — 루선바오 등 1950년대 원주민 창작자들이 대만 민요사에서 차지하는 위치 포함
 - [대만 독립음악](/music/台灣獨立音樂) — 자오터우음악 등 독립 레이블이 주류 음악산업 밖에서 어떻게 또 하나의 길을 세웠는가
-- [대중음악과 금곡장](/music/金曲獎) — 금곡장 제도가 원주민 음악 창작을 어떻게 받아들였는가
+- [금곡장](/music/金曲獎) — 금곡장 제도가 원주민 음악 창작을 어떻게 받아들였는가
 
 ## 참고자료
 

@@ -1,160 +1,309 @@
 ---
-title: 'Música popular y los Premios Golden Melody'
-description: 'En 1982, Tsai Chin escribió una carta de 8 páginas a Song Chu-yu con todas las categorías del premio ya definidas. Ocho años después nacieron los Golden Melody. Treinta y cuatro años más tarde, un álbum en idioma paiwan derrotó a todos y se llevó el premio al mejor del año. Esta no es una historia sobre premios, sino sobre qué voces merecen ser escuchadas.'
-date: 2026-03-28
+title: 'Premios Golden Melody: Taiwán premia su propia música y los momentos de treinta y cinco años que quedan para toda la vida'
+description: 'En 2024, en el Taipei Arena, No Party for Cao Dong volvió a consagrarse; su mánager recibió los premios en su nombre, y todo el recinto guardó silencio por una baterista fallecida. En treinta y cinco años, los Premios Golden Melody pasaron de una carta manuscrita de Tsai Chin a una ceremonia de escala nacional: coronaron el Fantasy de Jay Chou, las 14 nominaciones de A-mei, y también otorgaron los máximos honores a canciones en taiwanés, hakka y lenguas indígenas. Es el lugar donde Taiwán premia su propia música y decide qué sonidos merecen ser recordados.'
+date: '2026-06-28'
+author: 'Taiwan.md'
+category: 'Music'
+subcategory: '音樂產業與獎項'
 tags:
   [
     'Premios Golden Melody',
-    'música popular',
-    'música independiente',
+    'música pop',
+    'música taiwanesa',
+    'ceremonia de premiación',
     'música indígena',
-    'música mandopop',
+    'canción en taiwanés',
+    'política cultural',
   ]
-subcategory: '傳統音樂'
-category: 'Music'
-author: 'Taiwan.md'
-featured: false
-readingTime: 10
-lastVerified: 2026-03-28
+readingTime: 16
+lastVerified: '2026-06-28'
 lastHumanReview: false
+featured: false
 translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:ff90e26d455a0248'
-sourceBodyHash: 'sha256:26fbe182d7c0f17a'
-translatedAt: '2026-05-16T22:20:03Z'
+sourceCommitSha: '6897c6571'
+sourceContentHash: 'sha256:b00d48ce7d3f9ffa'
+sourceBodyHash: 'sha256:f8572e451edfc640'
+translatedAt: '2026-06-29T00:47:38+08:00'
 ---
 
-# Música popular y los Premios Golden Melody
+# Premios Golden Melody: Taiwán premia su propia música y los momentos de treinta y cinco años que quedan para toda la vida
 
-> **Resumen en 30 segundos:** En 1982, la cantante Tsai Chin escribió una carta de 8 páginas al director de la Oficina de Información del Gobierno Ejecutivo, Song Chu-yu, en la que diseñaba un sistema de premios para la música popular de Taiwán, con todas las categorías ya definidas. Ocho años después nacieron los Premios Golden Melody. Treinta y cuatro años más tarde, un álbum en idioma paiwan se impuso a todos en el escenario de los Golden Melody y se llevó el premio al mejor del año. Esta historia no trata solo de una ceremonia de premios, sino de cómo esta isla ha decidido qué voces merecen ser escuchadas.
+> **Panorama en 30 segundos:** Los Premios Golden Melody son el lugar donde Taiwán premia su propia música. La primera edición se celebró en 1990 y, para 2026, ya van treinta y siete. Su punto de partida fue una carta que la cantante Tsai Chin escribió al director de la Oficina de Información del Gobierno; sus jurados votan encerrados en una sala pequeña y deliberadamente no miran las ventas; ha coronado a <a href="/people/周杰倫" target="_blank" rel="noopener">Jay Chou</a>, <a href="/people/張惠妹" target="_blank" rel="noopener">A-mei</a> y <a href="/people/蔡依林" target="_blank" rel="noopener">Jolin Tsai</a>, algunos de los nombres más grandes de la escena musical en mandarín, y también ha entregado los máximos honores a personas que cantan en taiwanés, hakka y lenguas indígenas. En treinta y cinco años, ha registrado cómo se escucha esta isla a sí misma.
 
-En 1982, Tsai Chin tomó la pluma y escribió una carta.
+El 29 de junio de 2024, en el Taipei Arena, <a href="/people/草東沒有派對" target="_blank" rel="noopener">No Party for Cao Dong</a> ganó tres grandes premios seguidos: Álbum del Año, Mejor Álbum en Mandarín y Mejor Banda. Fue algo poco común en la historia de los Golden Melody: que una misma banda arrasara por segunda vez, en una misma edición, con tres premios mayores. El público esperaba que subieran al escenario.
 
-El destinatario era Song Chu-yu, director de la Oficina de Información del Gobierno Ejecutivo. La carta tenía 8 páginas y contenía un plan completo para una ceremonia de premios de música popular taiwanesa, con todas las categorías enumeradas. Su lógica era sencilla: "Estados Unidos tiene los Grammy, Japón tiene los Japan Record Awards, y Taiwán es un bastión de la música en lengua china; no tiene sentido que no exista una ceremonia de premios a la altura."
+Pero quien subió no fue la banda, sino su mánager. La baterista Tsai Yi-fan, a quien todos llamaban Fan-fan, había fallecido tres años antes, a los 26 años. El mánager habló ante el micrófono, dijo lo que tenía que decir y cerró con tres palabras: «Gracias, Fan-fan».
 
-Dos días después, Song Chu-yu la llamó por teléfono para decirle que toda su familia era fan suya, y le preguntó si estaría dispuesta a ayudar a hacer realidad el proyecto.
+Toda la sala quedó en silencio durante unos segundos.
 
-Pasaron otros ocho años antes de que los Premios Golden Melody nacieran oficialmente.
+Esos segundos explican muy bien qué son los Premios Golden Melody. No son una lista de “gana quien es más popular”; son el lugar donde Taiwán premia su propia música y decide qué sonidos merecen ser recordados con cuidado. La baterista de una banda ya no estaba, pero la batería que tocó seguía en el álbum The Servile; tres años después, su banda volvía a pisar el escenario más alto, y toda la industria estaba dispuesta a detenerse unos segundos por un nombre. Ese peso se acumuló durante treinta y cinco años.
 
-## La primera edición: nadie sabía lo que era
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/HqmpIQ9l-uA" title="草東沒有派對〈大風吹〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-En 1990 se celebró la primera ceremonia de los Premios Golden Melody, con 11 categorías, sin alfombra roja ni transmisión en directo. Doce veteranos de la música se sentaron en una sala de reuniones, escucharon todas las obras nominadas y votaron. Los ganadores subieron al escenario, pronunciaron unas palabras de agradecimiento y volvieron a sus asientos. La ceremonia entera terminó en pocas horas.
+_No Party for Cao Dong, “Simon Says”. Esta canción les dio, en la 28.ª edición de los Premios Golden Melody de 2017, tres grandes premios: Canción del Año, Mejor Artista Nuevo y Mejor Banda. En la primera ronda de votación ya habían obtenido una ventaja abrumadora de 18 y 19 votos. La batería de Fan-fan está ahí._
 
-Los grandes ganadores de aquel año fueron Sarah Chen y Zhao Chuan, ambos artistas de Rock Records. Si se repasa la lista de ganadores de los Golden Melody en la década de 1990, los nombres que aparecen son sobre todo los de unas pocas discográficas: Rock Records, Magic Stone y What's Music. Chang Yu-sheng, Jeff Chang, Winnie Hsin y Ch'i Ch'in estaban todos allí. De ese entorno nació la era dorada de la música popular en lengua china.
+Este artículo quiere presentarte bien ese premio: cómo nació de una carta, qué ocurre dentro de esa sala donde se vota a puerta cerrada, a qué reyes y reinas de la música ha coronado, cómo permitió que cuatro lenguas tengan su propio escenario, y cómo incluso quienes lo criticaron terminaron subiendo a su tarima. Treinta y cinco años, ¿sabes?, son en realidad una historia muy larga.
 
-En aquella época, Taiwán era el centro de producción del mundo musical chino. En su apogeo, las ventas musicales de Taiwán superaron incluso las de China continental, convirtiéndose en el segundo mercado musical más grande de Asia (después de Japón). Según estadísticas académicas, entre 2002 y 2010, la música popular taiwanesa representó aproximadamente el 80% de las ventas de música en lengua china en el mercado continental.
+## Una carta y un director cuya familia entera era fan
 
-Nadie sabía cómo sería esta industria treinta años después.
+El origen de los Premios Golden Melody fue una carta escrita en 1982 por una cantante de música folk que tenía poco más de veinte años.
 
-## _Marchando hacia adelante_ y los premios que realmente ganó
+Ese año Tsai Chin estaba en pleno auge, y casi todo el mundo podía tararear “Just Like Your Tenderness”. Al ver que Europa y Estados Unidos tenían grandes ceremonias de premios de música popular, como los Grammy o los American Music Awards, y que Taiwán, pese a ser un centro neurálgico de la música pop en mandarín, ni siquiera tenía un premio musical de escala nacional, se sentó a escribir. Llenó ocho páginas y las envió a James Soong, entonces director de la Oficina de Información del Gobierno, para proponer que Taiwán organizara una “ceremonia de premiación dedicada específicamente a cantantes en mandarín”.
 
-En 1990, Lim Giong lanzó _Marchando hacia adelante_ (_向前走_).
+Ella recordó después que aquella carta era muy detallada: incluso había enumerado, una por una, las categorías de premios. Años más tarde, cuando contó esa historia en televisión, el presentador Ma Shih-fang se rio y dijo: “¡Hasta el plan fundacional del Estado había escrito!”.
 
-Este álbum tenía varios rasgos inusuales: Lim Giong era de Changhua, cantaba en taiwanés y escribía sobre la historia de jóvenes que abandonaban el centro de Taiwán para buscar fortuna en Taipéi. En aquel momento, muchas cosas estaban ocurriendo en la isla: el Movimiento de los Lirios Silvestres acababa de concluir, apenas habían pasado tres años desde el levantamiento de la ley marcial, y la bolsa acababa de desplomarse desde un máximo histórico. _Marchando hacia adelante_ vendió 400.000 copias, un auténtico milagro.
+> 💡 **¿Sabías que…?** El original de aquella carta de Tsai Chin nunca se ha hecho público, así que nadie puede verificar palabra por palabra “qué premios enumeró exactamente”. Lo que sabemos es lo que ella misma contó después en el programa de PTS Music Never Stops: que incluso había definido de antemano las categorías. Que una cantante, con poco más de veinte años, se tomara tan en serio la idea como para imaginar primero todo el esqueleto de una ceremonia es algo muy taiwanés.
 
-El crítico cultural Zhan Hongzhi afirmó que _Marchando hacia adelante_ era "una obra representativa que rompió la opresión lingüística y creó un nuevo paradigma en la distribución del mercado discográfico".
+Más interesante aún fue la reacción de James Soong. Según el relato de Tsai Chin, cuando el director recibió la carta y vio la firma, respondió: “Señorita Tsai Chin, ¿cómo dice usted en la carta que es la Tsai Chin que usa anteojos y canta ‘Just Like Your Tenderness’? ¡No hace falta que se presente, en mi casa todos somos fans suyos!”. Dos días después, invitó a Tsai Chin a la Oficina de Información del Gobierno.
 
-Pero, ¿ganó este álbum algún premio Golden Melody?
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/0OhHf7FfdC0" title="蔡琴〈被遺忘的時光〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-Sí. En la tercera edición de los Golden Melody, en 1991, _Marchando hacia adelante_ se llevó los premios a la mejor canción del año y al mejor productor de álbum. Este dato suele olvidarse: en sus primeros años, los Golden Melody no ignoraron la música en taiwanés, sino que fueron uno de los pocos mecanismos que reconocieron el movimiento de la nueva canción taiwanesa en un escenario mainstream.
+_Tsai Chin, “The Forgotten Time”. Quien escribió a James Soong para proponer la creación de los Golden Melody fue aquella “Tsai Chin que cantaba con anteojos”. La idea de una cantante terminó convirtiéndose en una de las ceremonias musicales más importantes del mundo sinoparlante._
 
-La historia posterior de Lim Giong es aún más interesante. _Muchacho primaveral_ (_春風少年兄_, 1992) vendió 500.000 copias, sin rival en su momento. Después grabó un álbum experimental que fusionaba electrónica y heavy metal, completamente rechazado por el mercado mainstream. Giró entonces hacia la música cinematográfica, colaborando durante años con el director Hou Hsiao-hsien y ganando varios premios internacionales de música de cine. El camino que tomó al alejarse de la música popular lo llevó mucho más lejos.
+Para que una idea se convirtiera en una ceremonia nacional todavía faltaba camino. La Oficina de Información del Gobierno organizó primero, desde 1986, tres ediciones de una actividad llamada “Todos cantan buenas canciones”, como calentamiento. Recién a fines de 1988 comenzó formalmente a planificar los Premios Golden Melody. Las inscripciones se abrieron en agosto de 1989; la lista de nominaciones se anunció en septiembre; la ceremonia debía celebrarse antes, pero el recinto, el Salón Conmemorativo Nacional Dr. Sun Yat-sen, cerró por remodelación, y todo se pospuso hasta el 6 de enero de 1990.
 
-> 📝 **Nota del comisario**
-> Mucha gente cree que la música en taiwanés fue ignorada por los Golden Melody en sus inicios, pero la mejor canción de 1991 fue precisamente _Marchando hacia adelante_. El verdadero problema estructural de los Golden Melody no fue "no ver el taiwanés", sino "no ver la música que estaba fuera de las grandes discográficas". Este problema no empezó a cambiar hasta el auge de la música independiente.
+Aquella noche, en el Salón Conmemorativo Nacional Dr. Sun Yat-sen de Taipéi, Tsui Tai-ching entró con vestido de gala para presentar la ceremonia, mientras la gran orquesta de CTS interpretaba la introducción de su canción emblemática “Aphrodite”. Veinticinco jurados, veintiocho discográficas, cuatrocientas diez obras inscritas y, al final, once premios. El cantante masculino fue Yin Cheng-yang; la cantante femenina, Jody Chiang; el premio a artista nuevo fue para Sky Wu; y la Canción del Año fue “I Am Ugly, But I Am Gentle”, de Chao Chuan.
 
-## Once cafeterías
+![Salón Conmemorativo Nacional Dr. Sun Yat-sen de Taipéi: sede de la primera edición de los Premios Golden Melody en 1990. Ese año, por el cierre del recinto para remodelación, la ceremonia se retrasó hasta el 6 de enero](/article-images/music/sun-yat-sen-hall-1990-gma-venue.webp)
 
-En febrero de 2016, una banda llamada No Party for Cao Dong lanzó su primer álbum físico.
+La primera edición fue, en realidad, bastante sencilla: no había alfombra roja, no había las grandes presentaciones que llegarían después, y ni siquiera existía aún el premio a “Mejor Álbum Vocal”, que aparecería recién en la segunda edición. Pero el esqueleto ya estaba en pie. Una carta, un director cuya familia entera era fan y varios años de preparación bastaron para que Taiwán tuviera, desde entonces, una noche al año dedicada a decidir “qué sonidos de este año merecen ser recordados”.
 
-Las primeras 2.000 copias fueron hechas a mano y se vendieron en consignación en 11 cafeterías y tiendas independientes de discos de Taiwán. Se agotaron en tres días.
+## La sala donde se vota a puerta cerrada
 
-El álbum se llamaba _El esclavo feo_ (_醜奴兒_), sin discográfica importante ni apoyo de las radios. El vocalista Lin Geng-you y el guitarista Zhan Wei-zhu eran compañeros de instituto que se reencontraron por casualidad en la calle Caodong, en la montaña Yangmingshan, y allí formaron la banda. El nombre venía de esa calle, pero después de varios cambios de miembros, "la fiesta de Caodong" se disolvió, de ahí el nombre "No Party" (sin fiesta).
+Para entender por qué un Golden Melody pesa tanto, primero hay que ver cómo se decide.
 
-En la 28.ª edición de los Golden Melody, en 2017, No Party for Cao Dong se llevó los premios a mejor artista nuevo, mejor banda y mejor canción del año por _El gran viento sopla_ (_大風吹_), derrotando a Mayday. La presidenta del jurado, Huang Yunling, dijo desde el escenario: "No queda más que escuchar a la nueva generación. Son la explosión de una generación reprimida."
+El sistema de jurado de los Golden Melody, dicho sin vueltas, consiste en un grupo de personas encerradas en una sala, escuchando seriamente todas las obras y luego votando. Suena simple. Lo difícil está en ese “seriamente” y en ese “encerradas”.
 
-Fue un momento poco común en la historia de los Golden Melody: una banda que había nacido en cafeterías independientes, sorteando por completo las puertas de la industria discográfica tradicional, había llegado al escenario de premios más alto.
+El proceso tiene tres etapas. En la primera revisión, cada jurado escucha las canciones por su cuenta en un sistema en línea y puntúa de manera independiente. En la segunda revisión y en la final, se pasa a reuniones a puerta cerrada. La deliberación final, donde se toma la decisión definitiva, se programa la mañana del día de la ceremonia. Los jurados votan de forma anónima por computadora y eligen a quienes se anunciarán como ganadores esa noche.
 
-Después pasaron muchas cosas, la mayoría malas.
+> 📝 **Nota curatorial:** La reacción instintiva de mucha gente ante una “evaluación a puerta cerrada” es pensar en opacidad o camarillas. Pero los Golden Melody cierran la sala precisamente para bloquear otra fuerza: el mercado. Cuando todos los jurados están aislados, no pueden mirar ventas ni recibir presiones, y lo único en que pueden apoyarse son sus propios oídos y su criterio profesional. Dicho de otro modo, esa puerta cerrada deja fuera la inercia de “quien vende más debería ganar”. La mitad de la credibilidad de un Golden Melody viene de esa puerta.
 
-El 30 de octubre de 2021, la batería de No Party, Fan Fan (Cai Yi-fan), fue encontrada sin vida en la habitación de un hotel de cuarentena por COVID en Taipéi, a los 26 años. Quince horas antes de su muerte, había publicado su última entrada en Instagram: su perro de 12 años había muerto mientras ella no podía estar a su lado, y decía que había llorado mucho.
+¿Hasta dónde llega esa confidencialidad? Blow, medio que ha cubierto el proceso, describió una deliberación final así: los jurados entran a una sala pequeña y quedan aislados; “para fumar o ir al baño, alguien los acompaña todo el trayecto”; en el camino no pueden hablar con nadie; la votación anónima por computadora continúa hasta que aparecen los resultados. Incluso los celulares se recogen todos juntos y se devuelven solo después de entregado el último premio.
 
-En 2023, No Party lanzó un nuevo álbum, _Unión frágil_ (_瓦合_). En la 35.ª edición de los Golden Melody, en 2024, volvieron a llevarse tres premios principales: álbum del año, mejor álbum en lengua china y mejor banda, convirtiéndose en la única banda de la historia en arrasar dos veces en los Golden Melody. En la ceremonia, ellos no aparecieron; su mánager subió al escenario en su lugar, dio las gracias a muchas personas y después dijo: "Gracias, Fan Fan."
+No es una leyenda. Cuando Chen Hsien-ching subió al escenario como ganadora en la 37.ª edición de 2026, bromeó diciendo que había preparado un discurso, pero “lamentablemente le quitaron el celular”, así que tuvo que improvisar. El ir y venir de los teléfonos entre jurados y ganadores es, por sí mismo, la mejor nota al pie de este mecanismo de confidencialidad.
 
-## Un álbum del año que no se entiende
+¿Y cómo elige el jurado? La explicación oficial es que se valora la “visión de futuro” y se reconoce el valor artístico de las obras, sin necesidad de seguir al mercado comercial. Dela, fundador de KAO!INC y jurado en tres ediciones, lo formuló de manera más llana. Dijo que, cuando es difícil decidir entre dos álbumes muy buenos, se hace una pregunta:
 
-En 2004, Zhang Jingwen y Tian Xiaoxun, bajo el nombre "Abao & Brandy", derrotaron a S.H.E en la 15.ª edición de los Golden Melody y se llevaron el premio a mejor dúo vocal. Al día siguiente de la ceremonia, su discográfica anunció su disolución debido a disputas entre accionistas.
+> “¿Me gustaría comprar este disco?”
 
-Zhang Jingwen (Abao) volvió a estudiar enfermería y después se incorporó como presentadora a la televisión indígena.
+La frase es fascinante. Condensa el criterio de un gran premio de la industria en el impulso más honesto de un aficionado a la música: yo, ¿pagaría por este disco? Dela también dijo algo para quienes creen que “no ganar es perder”: “Estar nominado ya es un reconocimiento, de verdad”.
 
-Quince años después, regresó bajo el nombre "Abao (Aljenjen)."
+Por supuesto, no todos están conformes con este sistema. Hay quienes señalan que no existen criterios de evaluación escritos con claridad y que todo depende demasiado de la ética profesional de cada jurado; otros dicen que, cuando una misma persona compite en varias categorías, el jurado tiende a repartir los premios. Esas discusiones nunca han dejado de existir. Pero justamente porque hay gente que se preocupa y debate, lo que sucede dentro de esa sala merece ser tomado en serio.
 
-_Kinakaian: La lengua de la madre_, lanzado a finales de 2019, fue grabado casi íntegramente en idioma paiwan, mezclando electrónica, hip-hop, R&B y música tradicional indígena. Escribió las canciones con su madre: ella recordaba expresiones tradicionales en paiwan y Abao las anotaba. Una canción del álbum, _〈1-10〉_, contiene la voz de su madre contando del 1 al 10 en paiwan.
+## Los Golden Melody de reyes y reinas
 
-En octubre de 2020, en la 31.ª edición de los Golden Melody, este álbum se llevó los premios a mejor álbum en lengua indígena, mejor canción del año y álbum del año.
+Los Premios Golden Melody son, por supuesto, también el escenario de coronación de las máximas estrellas de la música en mandarín. Casi todos esos nombres que escuchaste desde la infancia han dejado en esta tarima algún momento cumbre.
 
-La población paiwan es de aproximadamente 90.000 personas, menos del 0,4% del total de Taiwán. Un álbum cuyas letras casi ningún taiwanés podía entender por completo se convirtió, a ojos del jurado de ese año, en la mejor música popular de Taiwán. El presidente del jurado declaró después de la ceremonia que _Kinakaian_ "provocó la mayor resonancia" entre los 21 álbumes nominados y que "trascendió la barrera del idioma."
+Empecemos con el poseedor del récord. Jay Chou ha ganado quince Golden Melody, el registro más alto entre los cantantes masculinos. La noche en que realmente se consagró fue la 13.ª edición, en 2002: con su álbum Fantasy, él solo se llevó cuatro premios, Mejor Álbum Vocal de Música Popular, Mejor Compositor por “Love Before BC” y Mejor Productor de Álbum, además de otros asociados al mismo disco, como el de Mejor Letrista para Vincent Fang por “William Castle” y el de Mejor Arreglista para Chung Hsing-min por “Nunchucks”. Un solo álbum barrió casi todas las categorías técnicas de aquel año. Para un joven que llevaba pocos años de carrera, esa noche equivalió al anuncio del comienzo de una era.
 
-Abao dijo desde el escenario: "Si no entienden por qué este álbum se convirtió en el álbum del año, escúchenlo una vez. Si no les gusta, ¡escúchenlo una segunda vez!"
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/mLk61pfiHQ0" title="張惠妹〈聽海〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-Frente a las cámaras, dirigiéndose al público indígena, dijo: "No desperdicien su talento, pero tampoco dependan de él."
+_A-mei, “Listen to the Sea”. Ha sido nominada 14 veces a Mejor Cantante Femenina, un récord en la historia de los Golden Melody, y ganó tres veces: en 2002 por Truth, en 2010 por Amit y en 2015 por Faces of Paranoia._
 
-> ⚠️ **Punto de vista controvertido**
-> La victoria de Abao fue cuestionada por algunos críticos musicales: "¿Es realmente un juicio estético o una declaración de corrección política?" Los partidarios respondieron: el hip-hop electrónico en paiwan es uno de los experimentos más vanguardistas de la música popular taiwanesa, como cualquier otro idioma. _Kinakaian_ experimentó un crecimiento significativo en reproducciones en Spotify al año siguiente, lo que demuestra que el público lo aceptó, no por corrección política, sino porque es buena música.
+Entre las cantantes femeninas, la historia es igual de potente. A-mei conserva un récord difícil de superar: catorce nominaciones a Mejor Cantante Femenina. Ganó tres veces, y la de 2010 fue especialmente interesante: compitió con “Amit”, un alter ego marcado por su linaje pinuyumayan, y obtuvo con Amit el premio a Mejor Cantante Femenina en Mandarín. Era como si una sola persona hubiera vivido hasta convertirse en dos voces.
 
-## Las discográficas murieron, la música no
+Si hablamos de “saber ganar”, Tanya Chua es otra leyenda. Ganó cuatro veces Mejor Cantante Femenina, por Amphibian, Goodbye & Hello, Sing It Out of Love y DEPART, y es la poseedora del récord en esa categoría. Además, ¿sabes?, Tanya Chua es singapurense. Los Golden Melody nunca han sido un premio reservado a cantantes con pasaporte taiwanés: premian a quienes producen las mejores obras en mandarín, y sus cuatro coronas como cantante femenina son la mejor prueba.
 
-En 1997, la industria discográfica taiwanesa alcanzó su pico histórico: más de 12.000 millones de dólares taiwaneses, el segundo mercado musical más grande de Asia.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/K27Y_f6BXVs" title="蔡健雅〈空白格〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-En 2018, esa cifra había caído por debajo de 4.000 millones, una reducción de más del 70%.
+_Tanya Chua, “Blank Space”. Singapurense, ganó cuatro veces el Golden Melody a Mejor Cantante Femenina, récord de la categoría. Los Golden Melody premian las mejores obras en mandarín, no el pasaporte._
 
-Los CDs ya no se vendían, y tampoco las descargas digitales. Un antiguo empleado de Rock Records decía que, en aquellos años, cada cierto tiempo alguien afirmaba que "la industria discográfica ha muerto", y cada vez sonaba más verdad.
+Jolin Tsai, por su parte, tiene un logro reconocido incluso por Guinness World Records: es la persona que más veces ganó Canción del Año. “Marry Me Today”, “The Great Artist” y “Womxnly” obtuvieron tres veces ese premio máximo de la noche, y Guinness la certificó por “la mayor cantidad de premios Golden Melody a Canción del Año”. Desde los temas bailables de una estrella adolescente hasta una obra como “Womxnly”, que habla por las cuestiones de género, los Golden Melody la acompañaron en todo su crecimiento.
 
-Pero la música no murió.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/-wIHmPAvMBo" title="蔡依林〈怪美的〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-El streaming tomó el relevo. Según datos de Spotify de 2023, el mandopop acumulaba más de 500 millones de reproducciones mensuales en todo el mundo, con un crecimiento interanual del 45%. El público de más rápido crecimiento no estaba en Taiwán, sino en Brasil, India, México y Alemania. La banda Accusefive, que comenzó en la plataforma StreetVoice, sorteó las discográficas tradicionales y sus videoclips superaron los 100 millones de reproducciones en YouTube. _El vagabundo que regresa_ (_浪子回頭_), de EggPlantEgg, acumuló más de 580 millones de reproducciones en YouTube, redefiniendo la posición de la música en taiwanés entre las generaciones jóvenes.
+_Jolin Tsai, “Ugly Beauty”. Tiene el récord certificado por Guinness de más premios a Canción del Año: tres, por “Marry Me Today”, “The Great Artist” y “Womxnly”._
 
-El gobierno también apostó por esta ola. En 2021 se inauguró el Centro de Música Popular de Taipéi, con una inversión gubernamental de aproximadamente 6.000 millones de dólares taiwaneses, ofreciendo un recinto interior para 5.000 personas y un espacio exterior para 13.000. Ese mismo año abrió el Centro de Música Popular de Kaohsiung, con una inversión de unos 5.400 millones. Hace diez años era la industria discográfica; diez años después son los en directos y el ecosistema del streaming. Taiwán no eligió desaparecer, sino encontrar otra forma de seguir existiendo.
+También hubo quien eligió dar un paso al costado desde la cima. <a href="/people/江蕙" target="_blank" rel="noopener">Jody Chiang</a> es una leyenda entre las divas de la canción en taiwanés. En su vida ganó trece Golden Melody, y obtuvo de manera consecutiva el premio a Mejor Cantante Femenina en Taiwanés desde la 11.ª hasta la 14.ª edición. Pero después de volver a ganar en 2003 con Red Thread, tomó una decisión inesperada: anunció que ya no competiría por el premio a Mejor Cantante Femenina. Dejar el escenario a las generaciones siguientes fue un gesto tan conmovedor como subir a recibir un premio.
 
-| Año  | Panorama de la industria discográfica taiwanesa                                                     |
-| ---- | --------------------------------------------------------------------------------------------------- |
-| 1997 | Pico histórico, segundo mercado más grande de Asia                                                  |
-| 2002 | Comienza el impacto de la piratería en línea, las ventas empiezan a caer                            |
-| 2018 | La producción anual es menos de un tercio de la de 1997                                             |
-| 2023 | El streaming representa cerca del 77% de los ingresos, los en directos alcanzan un máximo histórico |
+Las historias de reyes y reinas podrían seguir indefinidamente: <a href="/music/五月天" target="_blank" rel="noopener">Mayday</a> pasando del circuito underground a los estadios, cada transformación de <a href="/people/蔡依林" target="_blank" rel="noopener">Jolin Tsai</a>, el registro de nominaciones de <a href="/people/張惠妹" target="_blank" rel="noopener">A-mei</a> a lo largo de más de veinte años. La lista de ganadores que los Golden Melody legaron a la escena en mandarín terminó convirtiéndose en el mapa sentimental de toda una generación.
 
-## Cuatro idiomas, un escenario de premios
+## Cuatro lenguas, cuatro escenarios
 
-Los Golden Melody tomaron una decisión en materia de diversidad lingüística que no era la más rentable en términos comerciales.
+Si solo recordamos a reyes y reinas, nos perdemos lo más singular de los Premios Golden Melody: hacen que cuatro lenguas tengan cada una su máximo honor. En los premios musicales del mundo, es un diseño casi único.
 
-A partir de la 14.ª edición, en 2003, los Golden Melody dividieron la categoría de "dialectos" en tres premios independientes: taiwanés, hakka e idioma indígena. El significado de esta decisión no fue solo una política cultural, sino una declaración pública: en Taiwán no hay una sola voz.
+La historia empieza con una canción de rock en taiwanés. En la 3.ª edición, en 1991, “Marching Forward”, de <a href="/people/林強" target="_blank" rel="noopener">Lim Giong</a>, ganó Mejor Canción del Año. Antes de eso, la canción en taiwanés solía asociarse con el sufrimiento y la balada triste; “Marching Forward” usó un ritmo de rock para contar la historia de un joven rural que sube al norte con una valija para abrirse camino, y transformó por completo el carácter de la canción en taiwanés. El álbum vendió más de 400.000 copias y se considera una obra representativa del “nuevo movimiento de la canción taiwanesa”. Curiosamente, el premio a Mejor Productor de Álbum Vocal que recibió ese año fue para Bobby Chen, <a href="/people/李宗盛" target="_blank" rel="noopener">Jonathan Lee</a> y otros, no para el propio Lim Giong.
 
-Desde _La isla hermosa_ (_美麗島_) de Hu Defu, hasta _El océano_ (_海洋_) de Chen Chien-nien, pasando por la música moderna de Lin Shengxiang basada en canciones folclóricas hakka, y el hip-hop electrónico en paiwan de Abao: la lista de ganadores de los Golden Melody se ha convertido gradualmente en un registro de la diversidad lingüística de Taiwán. No es una excepción de unas pocas ediciones, sino una elección sistemática sostenida durante 34 años.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/gD14iiXq7Xw" title="林強〈向前走〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-En la 35.ª edición, en 2024, la cantante indígena Panai Kusui se llevó el premio al mejor álbum en taiwanés y pronunció unas palabras en el escenario que silenciaron todo el recinto. La revista _Variety_ dedicó su portada a esa edición de los Golden Melody. Fue una señal de que los medios fuera de Taiwán empezaban a tomarse en serio estos premios.
+_Lim Giong, “Marching Forward”, Mejor Canción del Año en la 3.ª edición de los Premios Golden Melody, 1991. Una canción en taiwanés cantada con rock que cambió la impresión de que el taiwanés solo servía para cantar penas, y vendió más de 400.000 copias._
 
-> 💡 **¿Sabía que...?**
-> Los Golden Melody son uno de los pocos premios de música popular del mundo que cuentan con categorías competitivas independientes para cuatro idiomas: mandarín, taiwanés, hakka e idioma indígena, cada uno con una trayectoria de premios completa, sin fusionarse entre sí. Este diseño es casi anticomercial en términos lógicos, pero convierte a los Golden Melody en el espejo más concreto de la multilingüe cultura taiwanesa.
+Al principio, los Golden Melody no distinguían por lengua. En las dos primeras ediciones solo existían “Mejor Intérprete Masculino” y “Mejor Intérprete Femenina”. Recién en la 3.ª edición, en 1991, se separaron “mandarín” y “dialecto”; y en la 14.ª edición, en 2003, la categoría de dialecto se subdividió en premios independientes para taiwanés, hakka y lenguas indígenas. ¿Por qué subdividir? Porque en los años anteriores quienes ganaban “Mejor Intérprete en Dialecto” eran todos cantantes en taiwanés, mientras que los creadores en hakka y en lenguas indígenas quedaban durante mucho tiempo fuera de la puerta. Ese año, las inscripciones crecieron hasta 128 discográficas y más de 4.800 obras, con más de cien trabajos provenientes de álbumes hakka o indígenas. Los Golden Melody simplemente les abrieron a cada uno su propia puerta.
 
-## El redoble de la batería de Fan Fan
+Y al abrir esa puerta, aparecieron algunos de los momentos más conmovedores de la escena musical en mandarín.
 
-En la ceremonia de la 35.ª edición de los Golden Melody, en 2024, el mánager de No Party terminó de leer la lista de agradecimientos en el escenario y finalmente dijo: "Gracias, Fan Fan."
+En la 11.ª edición, en 2000, un policía pinuyumayan de Taitung subió al escenario más alto. <a href="/people/陳建年" target="_blank" rel="noopener">Chen Chien-nien</a> ganó Mejor Intérprete Masculino en Mandarín con su álbum Ocean. Atención: fue “mandarín”, no lengua indígena. Derrotó en la misma categoría a Jacky Cheung, Wang Leehom, David Tao y Harlem Yu, cuatro estrellas en la cima de su popularidad. Un policía que trabajaba de día en una comisaría, cantando canciones escritas por él sobre el mar y las montañas, venció a los favoritos de toda la industria pop en mandarín. Su abuelo materno fue Lu Sen-bao, maestro de los cantos pinuyumayan; esa línea musical, el nieto la sostuvo durante treinta años.
 
-El silencio se apoderó del salón durante unos segundos.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/zDjRtY0xqr0" title="陳建年〈海洋〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-El redoble de la batería de Fan Fan sigue sonando en _El esclavo feo_.
+_Chen Chien-nien, “Ocean”. En la 11.ª edición, en 2000, este policía pinuyumayan de Taitung derrotó con Ocean a Jacky Cheung, Wang Leehom, David Tao y Harlem Yu, y ganó Mejor Intérprete Masculino en Mandarín._
+
+Si Chen Chien-nien demostró que un creador indígena podía vencer a los reyes de la industria, <a href="/people/阿爆" target="_blank" rel="noopener">ABAO</a> (Aljenljeng) demostró en la 31.ª edición, en 2020, que un álbum cantado íntegramente en una lengua indígena podía llevarse el máximo premio de toda la noche. Su kinakaian 母親的舌頭, un álbum completamente en paiwan, ganó tres premios: Mejor Álbum en Lengua Indígena, Canción del Año por “Thank You” y, al final, el premio mayor de Álbum del Año. Un disco del que quizá no entiendas ni una línea fue elegido por el jurado como el mejor álbum de Taiwán ese año.
+
+Cuando ABAO subió a recibir Álbum del Año, dijo una frase muy Golden Melody: “Si no sabes por qué este álbum se convirtió en Álbum del Año, ve a escucharlo una vez; si no te gusta, escúchalo una segunda vez”. También miró a la cámara y les habló a los niños indígenas: “No desperdicien su talento, y tampoco dependan de él”.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/4cAp_IdqOuM" title="阿爆〈Thank You 感謝〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_ABAO, “Thank You”, Canción del Año en la 31.ª edición de 2020. Aquella noche, el álbum íntegramente en paiwan kinakaian 母親的舌頭 ganó Mejor Álbum en Lengua Indígena, Canción del Año y Álbum del Año._
+
+> 💡 **¿Sabías que…?** Casi no existe en el mundo otro premio musical que reserve máximos honores separados para cuatro lenguas distintas dentro de su propio territorio. Puedes hacer el mejor álbum en taiwanés, hakka o una lengua indígena, y ser coronado en la misma ceremonia. Para el hakka y las lenguas indígenas, habladas por poblaciones cada vez menores, el escenario de los Golden Melody no solo ofrece honor: también da a esas voces una razón para ser escuchadas por todo el país y para que una nueva generación quiera aprenderlas.
+
+Ahí está el motivo de orgullo de los Golden Melody. Nunca fingen que Taiwán tiene una sola voz. Mandarín, taiwanés, hakka y lenguas indígenas: cuatro lenguas, cuatro escenarios, iluminados por turnos en una misma noche.
+
+## Incluso quienes lo critican suben a su escenario
+
+Un premio lo bastante grande tiene que poder hacer sitio a quienes lo critican. Uno de los rasgos más fascinantes de los Golden Melody es que varias veces le han entregado el micrófono a sus críticos más incisivos; y esos momentos, precisamente, terminaron siendo algunas de sus imágenes más recordadas.
+
+En la 18.ª edición, en 2007, Lin Sheng-xiang, surgido de <a href="/music/交工樂隊" target="_blank" rel="noopener">Labor Exchange Band</a>, fue nominado por el álbum Planting Trees y ganó dos premios: Mejor Cantante Hakka y Mejor Álbum Hakka. Luego hizo algo que nadie había hecho en dieciocho años de Golden Melody: rechazó los premios en el escenario.
+
+Su intervención duró apenas treinta segundos, pero la había preparado durante dos años. Dijo que esos eran los dos premios que “menos quería recibir”. Su crítica iba dirigida al sistema, no a ninguna persona: consideraba que clasificar la música por lengua era poner el carro delante del caballo. “¿Por qué Mejor Productor puede cruzar lenguas, pero Álbum no?”. También dijo: “Un premio tan importante para la música china clasifica por lengua; así, otros países simplemente no pueden entrar”. Rechazó esas dos estatuillas, y donó los 250.000 dólares taiwaneses del premio: los repartió entre el equipo que plantaba árboles en Meinong, dos publicaciones locales y Yang Ju-men, el “bombardero del arroz”.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/E4BWUug3eRw" title="林生祥〈種樹〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Lin Sheng-xiang, “Planting Trees”. En la 18.ª edición, en 2007, ganó dos premios hakka por Planting Trees, pero los rechazó en el escenario porque consideraba que clasificar la música por lengua era invertir las prioridades. Fue la primera vez en dieciocho años de Golden Melody que alguien rechazó un premio._
+
+Lo interesante es que los Golden Melody no eliminaron ese diseño por haber sido criticados en público. Escucharon, siguieron discutiendo, pero mantuvieron la clasificación por lengua. Que una ceremonia pueda recibir con calma, en su propio escenario, la frase “este premio está mal organizado” es, en sí mismo, una forma de solidez.
+
+Cómo dividir las lenguas sigue siendo una discusión viva hasta hoy. El académico Kuo Li-hsin ha criticado que clasificar en mandarín, taiwanés, hakka y lenguas indígenas “parece proteger cada lengua, pero en realidad consolida un sistema cultural en el que los grupos lingüísticos vulnerables siguen siendo marginados”. En su opinión, más que crear algunos premios “exclusivos” que empujan a las lenguas indígenas y hakka hacia categorías de nicho, habría que invertir recursos sustantivos en educación y difusión.
+
+> ⚠️ **Perspectiva controvertida:** La clasificación por lengua también produce una incomodidad: las obras que mezclan varias lenguas a menudo no tienen adónde ir. En la 33.ª edición, en 2022, MEmento·MORI, de Collage, estaba mitad en taiwanés y mitad en amis, con mucho japonés intercalado. El resultado fue que no podía entrar en ninguna categoría lingüística, porque no cumplía la regla de estar cantado “principalmente” en una lengua determinada, y solo pudo competir en categorías del año sin distinción de lengua. Una obra que cantaba en varias lenguas de esta tierra terminó convertida en anomalía dentro del sistema de clasificación. Los Golden Melody todavía buscan cómo resolver ese problema.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/kkUWlcjmOew" title="珂拉琪〈萬千花蕊慈母悲哀〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Collage, “Wàn Qiān Huā Ruǐ Cí Mǔ Bēi Āi”. Taiwanés, amis y japonés mezclados: la obra no encajaba en ninguna vía lingüística de los Golden Melody, y terminó ganando Mejor Artista Nuevo en la 33.ª edición de 2022 con MEmento·MORI._
+
+Estas controversias no son una falla de los Golden Melody: son prueba de que siguen vivos. Que un premio de treinta y cinco años siga debatiéndose consigo mismo sobre “cómo deberían dividirse las lenguas” o “qué hacer con las obras multilingües” significa que no se ha endurecido, que todavía crece junto con la música de Taiwán.
+
+## Los Golden Melody también registran la época de Taiwán
+
+Como los Golden Melody son el mayor escenario musical de Taiwán, algunos momentos de premiación no tratan solo de música: también cargan el clima social de su tiempo. En esta parte basta con dejar constancia de los hechos.
+
+En la 26.ª edición, en 2015, “Island’s Sunrise”, de <a href="/music/滅火器樂團" target="_blank" rel="noopener">Fire EX.</a>, ganó Mejor Canción del Año. La canción nació del Movimiento Girasol de 2014: el vocalista Yang Ta-cheng fue invitado por estudiantes de la Universidad Nacional de las Artes de Taipéi a componerla; tardó dos días en escribir la música y uno en grabarla, y el 27 de marzo la enseñó por primera vez en vivo frente al Yuan Legislativo. Al recibir el premio, Yang dijo: “¡Quince años de banda, nuestro primer Golden Melody! [...] Entregarnos a nuestro amado Taiwán”. Y gritó: “Dios bendiga a Taiwán”. Ese fragmento de la premiación fue omitido en la transmisión de Tencent en China.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/-w24iJG28qI" title="滅火器〈島嶼天光〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Fire EX., “Island’s Sunrise”, Mejor Canción del Año en la 26.ª edición de 2015. Esta canción, nacida durante el Movimiento Girasol, tuvo su fragmento ganador omitido en la versión transmitida por Tencent en China._
+
+En la 35.ª edición, en 2024, Panai ganó Mejor Álbum en Taiwanés con Iā-Pô. Subió al escenario con una banda amarilla que decía “Nadie es un extraño”, y en su discurso incluyó este pasaje: “Treinta y cinco años de Golden Melody, ¿saben? El incidente de Tiananmén también cumple justo 35 años. No olvidemos. Ánimo, Taiwán”. También dijo: “Esta isla, Taiwán, es nuestra madre”, y mencionó que acababa de concluir siete años de protesta en Ketagalan Boulevard por los territorios tradicionales de los pueblos indígenas. Ese discurso, que colocó lado a lado “35 años de Golden Melody” y “35 años de Tiananmén”, fue eliminado después de Weibo y Xiaohongshu. En esa misma edición, los cantantes chinos nominados se ausentaron colectivamente de la ceremonia.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/lCFh_8ZrCOo" title="巴奈〈夜婆〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Panai, “Iā-Pô”, Mejor Álbum en Taiwanés en la 35.ª edición de 2024. En su discurso colocó lado a lado “35 años de Golden Melody” y “35 años de Tiananmén”; esas palabras fueron eliminadas después de Weibo y Xiaohongshu._
+
+Los Golden Melody también fueron alguna vez un escenario compartido por cantantes en mandarín de ambos lados del estrecho. Na Ying se convirtió en 2001, en la 12.ª edición, en la primera cantante china en ganar el Golden Melody a Mejor Cantante Femenina, con The Sad Romance, y ese mismo año obtuvo también Mejor Letrista. Cui Jian, por su parte, se convirtió en 2022, en la 33.ª edición, en el primer cantante chino en ganar Mejor Cantante Masculino. Sin embargo, en esos veintiún años, los únicos cantantes chinos que ganaron los premios principales de voz fueron esas dos personas. La verdadera edad dorada en que los Golden Melody y el mercado chino se superpusieron fue, en realidad, la década de 2000, cuando la música taiwanesa dominó ampliamente las ventas discográficas en mandarín en China, no una etapa de premios masivos a cantantes chinos dentro de los Golden Melody.
+
+Estos momentos quedan aquí, sin añadir mucho juicio. Los Golden Melody son un escenario de Taiwán. Lo que Taiwán ha vivido, lo que le importa, de quién se acerca y de quién se distancia, naturalmente deja huellas en ese escenario. Si has llegado hasta aquí, probablemente ya tienes tus propias imágenes en la cabeza.
+
+## Una apertura sobre el lomo de una serpiente y dos personas que esperaron mucho
+
+Treinta y tantos años suenan a pasado remoto, pero los Golden Melody siguen creciendo en presente continuo. Hace apenas un mes, el 27 de junio de 2026, la 37.ª edición concluyó en el Taipei Arena.
+
+Esa noche A-Lin fue la presentadora por primera vez. En la apertura entró de pie sobre la cabeza de una enorme pitón, en homenaje a una puesta en escena clásica de <a href="/people/蔡依林" target="_blank" rel="noopener">Jolin Tsai</a>, con una presencia impresionante. Ella misma también fue ganadora: la canción principal de película que interpretó, “Happiness Is Singing”, obtuvo Canción del Año.
+
+Los dos grandes ganadores de la noche fueron personas que habían esperado mucho. Jolin Tsai competía por quinta vez a Mejor Cantante Femenina con el álbum Pleasure y por fin lo consiguió: ganó por segunda vez tras diecinueve años, y se llevó tres premios, Álbum del Año, Mejor Cantante Femenina en Mandarín y Mejor Grabación Vocal, con nueve nominaciones. En el lado masculino, la espera fue de otro tipo: Chang Chen-yue, después de treinta y tres años de carrera, ganó por primera vez Mejor Cantante Masculino en Mandarín, y esa misma noche obtuvo además Mejor Álbum en Mandarín y Mejor Compositor. Una esperó diecinueve años; el otro, treinta y tres. Los Golden Melody no tienen prisa por premiar a quien llega más rápido.
+
+Los escenarios de las cuatro lenguas también estuvieron encendidos esa noche: el cantante masculino en taiwanés fue <a href="/people/蕭煌奇" target="_blank" rel="noopener">Ricky Hsiao</a>; la cantante femenina en taiwanés, PiA Wu; el cantante hakka, Daniel Chen; y el cantante en lengua indígena, Suming <a href="/music/當代原住民創作歌手" target="_blank" rel="noopener">舒米恩</a>. El premio a Mejor Banda fue para <a href="/music/落日飛車" target="_blank" rel="noopener">Sunset Rollercoaster</a>, de Taipéi, otra banda nacida en la escena independiente que esquivó la industria dominante y llegó al escenario más alto. En cuanto a la artista nueva a quien “le quitaron el celular” y tuvo que improvisar su discurso, fue precisamente <a href="/music/陳嫺靜" target="_blank" rel="noopener">Chen Hsien-ching</a>, a quien ya vimos en la sección sobre el jurado.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/aKbdJYjZ6EQ" title="第 37 屆金曲獎典禮開場" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Apertura de la 37.ª edición de los Premios Golden Melody, 2026. A-Lin presentó por primera vez y subió al escenario del Taipei Arena pisando una pitón gigante; aquella noche, “Happiness Is Singing”, la canción que interpretó, también ganó Canción del Año._
+
+Treinta y siete ediciones después, esta ceremonia que empezó con una carta sigue siendo solemne, graciosa y capaz de dejarte recordando toda una noche.
+
+## Treinta y tantos años: cómo se escucha esta isla a sí misma
+
+Volvamos a esos segundos de silencio.
+
+En el Taipei Arena de 2024, No Party for Cao Dong volvió a consagrarse, su mánager recibió los premios y dijo: “Gracias, Fan-fan”. Fan-fan se fue, pero su batería sigue en The Servile: cada vez que alguien pulsa reproducir, ese ritmo vuelve a sonar. Una baterista ausente fue recordada por toda una industria gracias a los Golden Melody; un álbum de tres años antes volvió a ser escuchado por toda una generación gracias a ella.
+
+Eso es, probablemente, lo que hacen los Premios Golden Melody. Desde aquella primera edición sencilla de 1990 hasta la 37.ª de hoy, responden una vez al año, en nombre de Taiwán, la misma pregunta: qué sonidos de esta isla, este año, merecen ser recordados con cuidado.
+
+Recuerdan la noche en que Jay Chou arrasó con Fantasy, la persistencia de las catorce nominaciones de A-mei, y también el mar cantado por un policía de Taitung, un álbum completo en paiwan, un cantante hakka que rechazó una estatuilla y una canción nacida en la calle. Mandarín, taiwanés, hakka, lenguas indígenas; los discos que vendieron millones y los que quizá no entendemos palabra por palabra; los reyes del momento y quienes escriben canciones en silencio: todo eso quedó en un mismo escenario.
+
+Después de treinta y tantos años, los Golden Melody en realidad no están entregando premios. Están registrando, año tras año y para Taiwán, cómo se escucha esta isla a sí misma.
+
+---
+
+## Lecturas ampliadas
+
+- [Música pop taiwanesa](/music/台灣流行音樂) — Toda la historia de auge y declive industrial, desde la industria discográfica hasta la era del streaming; los Golden Melody son la escala oficial de esa línea
+- [Evolución de la canción taiwanesa en taiwanés](/music/台灣台語歌曲演進) — De las baladas tristes a la inflexión rockera de “Marching Forward” de Lim Giong: cómo la canción en taiwanés entró en la corriente principal
+- [Tradiciones musicales de los pueblos indígenas de Taiwán](/music/台灣原住民音樂傳統) — De los cantos comunitarios a Chen Chien-nien y ABAO: raíces y contemporaneidad de la música indígena
+- [Cantautores indígenas contemporáneos](/music/當代原住民創作歌手) — Las voces y circunstancias de una línea creativa que incluye a Samingad, Panai y ABAO
+- [Música independiente de Taiwán](/music/台灣獨立音樂) — Cómo No Party for Cao Dong y la generación StreetVoice rodearon la industria discográfica y llegaron al escenario más alto de los Golden Melody
+
+## Fuentes de imágenes
+
+Este artículo usa 2 imágenes con licencia CC, almacenadas en caché en `public/article-images/music/` para evitar enlazar directamente al servidor de origen; los 12 videos son incrustaciones estándar de YouTube de canales oficiales.
+
+- [Cámaras de transmisión de la 32.ª edición de los Premios Golden Melody (hero)](https://commons.wikimedia.org/wiki/File:SET_News_and_CTI_News_cameras_at_GMA_20210821.jpg) — Foto: Solomon203, 2021, CC BY-SA 4.0
+- [Salón Conmemorativo Nacional Dr. Sun Yat-sen de Taipéi (sede de la primera edición)](https://commons.wikimedia.org/wiki/File:National_Dr._Sun_Yat-sen_Memorial_Hall_09.jpg) — Foto: Emcc83, CC BY-SA 4.0
+- Videos (canales oficiales): Lim Giong, “Marching Forward” (Rock Records); Fire EX., “Island’s Sunrise” (Fire EX.); ABAO, “Thank You” (ABAO 阿爆); Panai, “Iā-Pô” (Panai); No Party for Cao Dong, “Simon Says” (No Party for Cao Dong); Chen Chien-nien, “Ocean” (Trees Music); Lin Sheng-xiang, “Planting Trees”; Collage, “Wàn Qiān Huā Ruǐ Cí Mǔ Bēi Āi” (Collage); Tsai Chin, “The Forgotten Time”; A-mei, “Listen to the Sea”; Tanya Chua, “Blank Space”; Jolin Tsai, “Ugly Beauty”
 
 ## Referencias
 
-- [Sitio web oficial de los Golden Melody BAMID](https://gma.tavis.tw/) (fuente primaria)
-- [CNA: Tsai Chin comparte la historia detrás de la creación de los Golden Melody](https://www.cna.com.tw/news/amov/202009040156.aspx) (fuente primaria)
-- [Taiwan Insight: Indigenous popular music and language revitalisation in Taiwan (2023)](https://taiwaninsight.org/2023/09/13/indigenous-popular-music-and-language-revitalisation-in-taiwan/)
-- [NPR: Entrevista en inglés a Abao (2022)](https://www.wcbu.org/npr-news/npr-news/2022-12-28/one-of-taiwans-biggest-pop-stars-sings-in-an-indigenous-language)
-- [Music Ally: Mandopop 500 million monthly streams on Spotify (2023)](https://musically.com/2023/09/27/mandopop-music-is-generating-500m-streams-a-month-on-spotify/)
-- [Variety: No Party for Cao Dong triple prizes at 35th GMA (2024)](https://variety.com/2024/music/news/golden-melody-awards-no-party-for-cao-dong-triple-prizes-1236059896/)
-- [Taiwan Insight: Why Taiwan is still the creative heart of Mandopop (2018)](https://taiwaninsight.org/2018/09/24/why-taiwan-is-still-the-creative-heart-of-mandopop/)
-- [VERSE: Análisis cultural de _Marchando hacia adelante_ de Lim Giong](https://www.verse.com.tw/article/chorus-10-limgiong)
+[^1]: [Oficina de Desarrollo de las Industrias Audiovisual y Musical del Ministerio de Cultura — Historia de los Premios Golden Melody](https://www.bamid.gov.tw/cp.aspx?n=3538) — Fuente oficial primaria de la entidad organizadora; registra las tres ediciones de “Todos cantan buenas canciones”, la planificación iniciada a fines de 1988, la primera edición del 6 de enero de 1990 y los cambios de organismo organizador en cada edición.
 
-## Temas relacionados
+[^2]: [CNA — Tsai Chin escribió una larga carta a James Soong que impulsó el nacimiento de los Golden Melody](https://www.cna.com.tw/news/amov/202009040156.aspx) — Reportaje de agencia sobre los detalles de origen: la carta de ocho páginas escrita por Tsai Chin en 1982, la respuesta de James Soong de que “toda la familia era fan” y la planificación formal seis años después.
 
-- [Folclore y canciones populares de Taiwán](/music/台灣民謠與歌謠): las raíces de la música taiwanesa antes de los Golden Melody
+[^3]: [Wikipedia — 1.ª edición de los Premios Golden Melody](https://zh.wikipedia.org/zh-tw/%E7%AC%AC1%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Fuente para verificar la lista completa de ganadores de la primera edición, incluidos Yin Cheng-yang, Jody Chiang, Sky Wu y Chao Chuan; los veinticinco jurados; la presidenta Tao Hsiao-ching; la escala de inscripciones y la sede.
+
+[^4]: [Blow — Lo que ocurre en la sala pequeña: cómo se deciden los Premios Golden Melody](https://blow.streetvoice.com/11367/) — Perfil de primera mano del sistema de evaluación; documenta el aislamiento a puerta cerrada en la deliberación final, el acompañamiento incluso al baño y la votación anónima por computadora.
+
+[^5]: [PTS News — Jurado de tres ediciones de los Golden Melody revela el proceso de decisión](https://news.pts.org.tw/article/757447) — Entrevista a Dela, fundador de KAO!INC, sobre los criterios del jurado; fuente de citas textuales como “¿Me gustaría comprar este disco?” y “Estar nominado ya es un reconocimiento”.
+
+[^6]: [Wikipedia — 13.ª edición de los Premios Golden Melody](https://zh.wikipedia.org/zh-tw/%E7%AC%AC13%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Fuente de verificación de la lista de ganadores de 2002: los cuatro premios personales de Jay Chou por Fantasy, el premio a letrista de Vincent Fang y el premio a arreglista de Chung Hsing-min.
+
+[^7]: [Wikipedia — Premio a Mejor Cantante Femenina en Mandarín](<https://zh.wikipedia.org/zh-tw/%E6%9C%80%E4%BD%B3%E8%8F%AF%E8%AA%9E%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%8D%8E_(%E9%87%91%E6%9B%B2%E7%8D%8E)>) — Fuente de registros históricos de la categoría: las cuatro victorias de Tanya Chua, las catorce nominaciones y tres victorias de A-mei, y las ganadoras de cada edición.
+
+[^8]: [Time UDN — Lim Giong, “Marching Forward”, y el nuevo movimiento de la canción taiwanesa](https://time.udn.com/udntime/story/122834/7791726) — Verificación de que “Marching Forward” ganó Mejor Canción del Año en la 3.ª edición de 1991, vendió más de 400.000 copias y se inscribe en el contexto del nuevo movimiento de la canción taiwanesa.
+
+[^9]: [Fount Media — Chen Chien-nien, Ocean, y la 11.ª edición de los Golden Melody](https://www.fountmedia.io/article/67037) — Artículo de referencia sobre Chen Chien-nien: en 2000 derrotó a Jacky Cheung, Wang Leehom, David Tao y Harlem Yu para ganar Mejor Intérprete Masculino en Mandarín, además de su origen pinuyumayan y su vínculo familiar con Lu Sen-bao.
+
+[^10]: [CNA — ABAO gana tres premios en la 31.ª edición con kinakaian](https://www.cna.com.tw/news/firstnews/202010030253.aspx) — Fuente sobre el álbum íntegramente en paiwan que ganó Mejor Álbum en Lengua Indígena, Canción del Año y Álbum del Año en 2020, además de citas textuales del discurso de ABAO.
+
+[^11]: [Coolloud — Rechazo del premio hakka de los Golden Melody: dos años de preparación para treinta segundos en escena, Lin Sheng-xiang cumple su objetivo](https://www.coolloud.org.tw/node/4022) — Reportaje de primera mano sobre el rechazo de Lin Sheng-xiang a dos premios hakka en la 18.ª edición de 2007, con duración de la intervención, motivos y destino del dinero del premio.
+
+[^12]: [Liberty Times Entertainment — Primera vez en 18 años de Golden Melody: Lin Sheng-xiang junta las manos y rechaza el premio](https://ent.ltn.com.tw/news/paper/136087) — Reportaje que confirma que Lin Sheng-xiang fue la primera persona en rechazar un premio en la historia de los Golden Melody, y que los 250.000 dólares taiwaneses se donaron a cuatro destinos, incluido Yang Ju-men.
+
+[^13]: [The News Lens — La controversia por la clasificación lingüística de los Golden Melody y el problema de Collage](https://www.thenewslens.com/article/137875) — Fuente de la cita textual de Kuo Li-hsin sobre cómo la clasificación por lengua “consolida la marginación de lenguas vulnerables”, y síntesis de los argumentos a favor y en contra del sistema.
+
+[^14]: [The News Lens — Iā-Pô de Panai y el discurso de la 35.ª edición de los Golden Melody](https://www.thenewslens.com/article/204605) — Registro de la victoria de Panai como Mejor Álbum en Taiwanés en 2024, su discurso que yuxtapuso “35 años de Golden Melody” y “35 años de Tiananmén”, y la eliminación posterior en redes sociales chinas.
+
+[^15]: [PTS News — “Island’s Sunrise” de Fire EX. gana Mejor Canción del Año en la 26.ª edición](https://news.pts.org.tw/article/300580) — Fuente de verificación sobre la victoria de “Island’s Sunrise” en 2015, el discurso de Yang Ta-cheng con la frase “Dios bendiga a Taiwán” y el origen de la canción en el Movimiento Girasol.
+
+[^16]: [CNA — Nominados chinos a cantante masculino y femenino de los Golden Melody se ausentan todos](https://www.cna.com.tw/news/amov/202406290209.aspx) — Reportaje sobre la ausencia colectiva de cantantes chinos nominados en la ceremonia de la 35.ª edición de 2024.
+
+[^17]: [Variety — Taiwanese Rockers No Party for Cao Dong Feted With Triple Prizes](https://variety.com/2024/music/news/golden-melody-awards-no-party-for-cao-dong-triple-prizes-1236059896/) — Cobertura internacional de Variety sobre el segundo barrido de tres grandes premios de No Party for Cao Dong en 2024, que muestra la visibilidad internacional de los Golden Melody.
+
+[^18]: [Wikipedia — 14.ª edición de los Premios Golden Melody](https://zh.wikipedia.org/zh-tw/%E7%AC%AC14%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Fuente sobre la evolución de la clasificación lingüística: en 2003 se eliminó el premio a intérprete en dialecto y se crearon premios independientes para taiwanés, hakka y lenguas indígenas.
+
+[^19]: [Wikipedia — No Party for Cao Dong](https://zh.wikipedia.org/zh-hant/%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D) — Fuente para verificar los dos barridos de tres premios de la banda, el fallecimiento de la baterista Tsai Yi-fan, Fan-fan, en 2021 en su habitación, y su edad de 26 años.
+
+[^20]: [Wikipedia — Golden Indie Music Awards](https://zh.wikipedia.org/zh-hant/%E9%87%91%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%8D%8E) — Fuente comparativa sobre su creación en 2010, su clasificación por estilo musical, su orientación hacia la música independiente y su diferencia de posicionamiento frente a los Golden Melody, que clasifican por lengua.

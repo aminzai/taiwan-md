@@ -18,9 +18,9 @@ lastVerified: 2026-06-14
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/小虎隊.md'
-sourceCommitSha: '40517470f'
-sourceContentHash: 'sha256:ca7799d54b4faaf1'
-sourceBodyHash: 'sha256:97eea304ee5e8ba6'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:3550fb52e312828d'
+sourceBodyHash: 'sha256:4cfd214b3bc19b4d'
 translatedAt: '2026-06-17T01:18:26+08:00'
 ---
 

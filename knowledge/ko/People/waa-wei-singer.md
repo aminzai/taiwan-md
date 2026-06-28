@@ -30,9 +30,9 @@ readingTime: 22
 lastVerified: 2026-04-18
 lastHumanReview: true
 translatedFrom: People/魏如萱.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c0bf0a88da519f63'
-sourceBodyHash: 'sha256:071293de94a6fba8'
+sourceCommitSha: 'ac1d187a'
+sourceContentHash: 'sha256:0b7e2166be4687d0'
+sourceBodyHash: 'sha256:e29a88a99b0c002f'
 translatedAt: 2026-05-01T20:54:10+08:00
 ---
 
