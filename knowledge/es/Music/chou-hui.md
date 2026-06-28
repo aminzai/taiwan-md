@@ -352,7 +352,7 @@ La próxima vez que oyentes taiwaneses contemporáneos entren a un KTV, alguien 
 - [Deserts Chang y Anpu](/music/張懸與安溥) — También como voz femenina taiwanesa, Anpu respondió con dos nombres artísticos a la pregunta de “de qué lado estar”; la elección de Chou Hui fue no elegir un lado
 - [Cultura KTV de Taiwán](/music/台灣KTV文化) — La edad dorada del KTV de fines de los años 90 a comienzos de los 2000 fue la base material que permitió a 〈Promise〉 caminar 25 años
 - [Pop taiwanés](/music/台灣流行音樂) — El surgimiento y disolución del marco de las “Cuatro pequeñas divas” en 1999 muestra un fragmento de la industrialización del pop en chino de los años 90
-- [Música pop y Golden Melody Awards](/music/流行音樂與金曲獎) — Chou Hui nunca ganó el Golden Melody a mejor cantante femenina, pero sus 25 años de carrera construyeron fuera del sistema Golden Melody otro indicador de longevidad
+- [Música pop y Golden Melody Awards](/music/金曲獎) — Chou Hui nunca ganó el Golden Melody a mejor cantante femenina, pero sus 25 años de carrera construyeron fuera del sistema Golden Melody otro indicador de longevidad
 
 ## Fuentes de imágenes
 

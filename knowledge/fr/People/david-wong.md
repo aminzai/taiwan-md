@@ -144,7 +144,7 @@ En soixante et une années, il a vécu comme quelqu'un qui refusait d'être déf
 - [Jonathan Lee](/people/李宗盛) — producteur de musique mandopop de la même génération, qui a lui aussi passé sa vie à écrire les pensées intimes des autres ; à mettre en regard avec David Wong, dont le « mauvais chinois » le conduit à collaborer, et avec la langue quotidienne très directe de Jonathan Lee : deux chemins pour écrire des chansons d'amour.
 - [Bobby Chen](/people/陳昇) — créateur également extérieur au courant dominant, attaché à son propre langage musical ; tous deux prouvent que la musique mandopop peut accueillir des voix qui ne cherchent pas à plaire.
 - [Ricky Hsiao](/people/蕭煌奇) — autre voix taïwanaise hautement reconnaissable, pour voir comment des générations différentes définissent le son d'une époque par un timbre singulier.
-- [Musique pop et Golden Melody Awards](/music/流行音樂與金曲獎) — le seul Golden Melody Award de David Wong est un prix d'arrangement, non d'interprétation ; ce contraste constitue une entrée pour comprendre la logique de sélection des Golden Melody Awards.
+- [Musique pop et Golden Melody Awards](/music/金曲獎) — le seul Golden Melody Award de David Wong est un prix d'arrangement, non d'interprétation ; ce contraste constitue une entrée pour comprendre la logique de sélection des Golden Melody Awards.
 - [Culture du KTV à Taïwan](/music/台灣KTV文化) — 〈你把我灌醉〉 est un classique durable des classements de KTV ; comment une chanson devient, par le karaoké privé, la mémoire collective d'une génération.
 
 ## Sources des images

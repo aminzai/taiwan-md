@@ -253,7 +253,7 @@ The four tones of Chinese, the seven tones of Taiwanese, and the languages of th
 - [The Evolution of Taiwanese-Language Songs](/music/台灣台語歌曲演進) — From “Bāng Chhun-hong” to the New Taiwanese Song Movement, how a language sang its way back to the mainstream
 - [Contemporary Indigenous Singer-Songwriters](/music/當代原住民創作歌手) — From the Golden Melody stage to language revitalization, how the voices of the sixteen peoples are heard
 - [Taiwanese Independent Music](/music/台灣獨立音樂) — The underground, live houses, and a long battle over freedom
-- [Popular Music and the Golden Melody Awards](/music/流行音樂與金曲獎) — How one award defined the standards of the Mandarin-language music scene
+- [Popular Music and the Golden Melody Awards](/music/金曲獎) — How one award defined the standards of the Mandarin-language music scene
 
 ## Image Sources
 

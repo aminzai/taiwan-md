@@ -403,7 +403,7 @@ Le garçon qui avait remporté le prix Tianyun en terminale et qui, en première
 - [Musique indépendante taïwanaise](/music/台灣獨立音樂) — l’écosystème des groupes indie à Taïwan
 - [Culture des festivals de musique à Taïwan](/music/台灣音樂祭文化) — le festival Ho-hai-yan de Gongliao et les plateformes de découverte des groupes indépendants
 - [Mayday](/music/五月天) — autre groupe taïwanais emblématique fondé en 1997, pour comparer différents modèles de management
-- [Musique populaire et Golden Melody Awards](/music/流行音樂與金曲獎) — le contexte du triomphe de Sodagreen aux Golden Melody
+- [Musique populaire et Golden Melody Awards](/music/金曲獎) — le contexte du triomphe de Sodagreen aux Golden Melody
 
 ---
 

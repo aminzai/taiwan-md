@@ -161,7 +161,7 @@ Et cette Ligne Somnambule d'Alishan, dans leurs chansons, continue de rouler.
 - [Waa Wei](/people/魏如萱) — Appartient au même écosystème musical indépendant des années 2010, chanteuse passant par la voix plutôt que par le post-rock
 - [Cicada](/people/Cicada) — Post-rock purement instrumental, sans voix, formant un contraste avec le « post-rock + voix » de KST
 - [Crowd Lu](/people/盧廣仲) — Une autre voie de la musique indépendante : un auteur-compositeur-interprète ayant traversé les trois grandes cérémonies de prix
-- [Musique pop et Golden Melody Awards](/music/流行音樂與金曲獎) — Les coordonnées scéniques de la nomination de KST aux Golden Melody Awards (32e édition) dans la catégorie Meilleur groupe
+- [Musique pop et Golden Melody Awards](/music/金曲獎) — Les coordonnées scéniques de la nomination de KST aux Golden Melody Awards (32e édition) dans la catégorie Meilleur groupe
 - [Musique indépendante taïwanaise](/music/台灣獨立音樂) — La généalogie de la génération musicale indépendante, de Natural Q à KST, No Party et Accusefive
 - [Musique pop taïwanaise](/music/台灣流行音樂) — L'environnement de l'industrie de la musique pop sinophone
 

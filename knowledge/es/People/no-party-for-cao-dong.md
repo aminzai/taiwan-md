@@ -281,7 +281,7 @@ Luego la cámara pasó al siguiente premio.
 - [KST](/people/康士坦的變化球) — también dentro del espectro post-rock, pero con una ruta de narración vocal distinta
 - [Cicada](/people/Cicada) — una ruta completamente instrumental y sin voces, justo lo contrario de Cao Dong y su “letra como sociología”
 - [Crowd Lu](/people/盧廣仲) — otra ruta de la música independiente: la del “cantautor de obra”
-- [Música popular y Golden Melody Awards](/music/流行音樂與金曲獎) — las coordenadas del escenario donde Cao Dong ganó dos veces Mejor Banda
+- [Música popular y Golden Melody Awards](/music/金曲獎) — las coordenadas del escenario donde Cao Dong ganó dos veces Mejor Banda
 - [Música independiente taiwanesa](/music/台灣獨立音樂) — la evolución de la música independiente, de Nature Q a Cao Dong y Accusefive
 - [Música popular taiwanesa](/music/台灣流行音樂) — el entorno industrial de la música popular en mandarín
 

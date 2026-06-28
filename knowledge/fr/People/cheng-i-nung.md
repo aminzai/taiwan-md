@@ -209,7 +209,7 @@ Dans quelle langue, sur quel thème sera son prochain album, personne ne le sait
 - [魏如萱](/people/魏如萱) — Une autre voie de « définition de soi par la voix » chez une chanteuse taïwanaise de la même génération (voix de poupée de Waa Wei × honnêteté taïwanaise d'Enno Cheng : deux mécanismes d'auto-identification distincts)
 - [阿爆](/people/阿爆) — Autre pionnière ayant remporté les principales catégories des Golden Melody Awards dans une langue non dominante (album de l'année 2020 en paiwan d'Abaw × meilleur album taïwanais 2023 d'Enno Cheng : deux moments de la relation entre langue et Golden Melody Awards)
 - [陳建騏](/people/陳建騏) — La défense systématique par un producteur de musique pop sinophone des « voix non standard » ; Enno Cheng utilise l'atypie linguistique, Abaw la langue non dominante, Chen Chien-chi la voix de poupée — trois « extensions des limites vocales »
-- [流行音樂與金曲獎](/music/流行音樂與金曲獎) — La signification structurelle des catégories taïwanaises des Golden Melody Awards 2023
+- [流行音樂與金曲獎](/music/金曲獎) — La signification structurelle des catégories taïwanaises des Golden Melody Awards 2023
 - [台灣流行音樂](/music/台灣流行音樂) — L'évolution du spectre de la création taïwanaise, de la « résistance locale » à l'« outil contemporain »
 - [台灣獨立音樂](/music/台灣獨立音樂) — L'identité d'artiste indépendante d'Enno Cheng, de l'époque Lady Zero à _Mercury Retrograde_
 - [林宥嘉](/people/林宥嘉) — Un cas parallèle de retrait de la position d'idole pop mandarine par un artiste de la même génération, devenu son propre producteur (Enno Cheng par la langue étrangère, Lin Youjia par le statut de producteur auto-assumé : deux voies pour « échapper à la définition »)

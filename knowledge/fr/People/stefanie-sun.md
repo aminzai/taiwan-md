@@ -144,7 +144,7 @@ Elle-même, probablement, s'en moque — elle l'a dit : être moi-même, c'est d
 L'ascension de Stefanie Sun est un reflet de l'âge d'or de l'industrie musicale populaire taïwanaise au début des années 2000. Jay Chou, qu'elle a battu d'une seule voix, a défini dans la même époque une autre trajectoire de la pop sinophone. Les deux artistes restent, encore aujourd'hui, les coordonnées bipolaires de cette génération. Ses chansons figurent toujours en tête des listes de lecture des karaokés taïwanais — une archive culturelle vivante.
 
 - [Musique populaire taïwanaise](/music/台灣流行音樂/) — Le contexte industriel des débuts de Stefanie Sun, l'âge d'or de l'industrie du disque taïwanaise dans les années 2000
-- [Musique pop et Golden Melody Awards](/music/流行音樂與金曲獎/) — Comment les Golden Melody Awards sont passés d'un mécanisme de jury à une référence culturelle définissant les goûts
+- [Musique pop et Golden Melody Awards](/music/金曲獎/) — Comment les Golden Melody Awards sont passés d'un mécanisme de jury à une référence culturelle définissant les goûts
 - [Jay Chou](/people/周杰倫/) — Nominé la même année au prix de meilleure nouvelle artiste (12e édition), il a défini une autre trajectoire de la pop sinophone
 - [Culture du karaoké à Taïwan](/music/台灣KTV文化/) — Pourquoi les chansons de Stefanie Sun restent indétrônables dans les listes de lecture des karaokés
 - [Tanya Chua](/people/蔡健雅/) — Figure de la scène musicale sinophone singapourienne de la même époque, Tanya Chua a écrit « Di Liu Gan » (第六感, 2003) pour Stefanie Sun

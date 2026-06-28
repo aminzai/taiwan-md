@@ -403,7 +403,7 @@ Aquel chico que en el último año de secundaria ganó el premio Tianyun y que e
 - [Música independiente de Taiwán](/music/台灣獨立音樂) — Ecosistema de bandas indie taiwanesas
 - [Cultura de festivales musicales en Taiwán](/music/台灣音樂祭文化) — El Festival Oceánico de Gongliao y las plataformas de descubrimiento de bandas independientes
 - [Mayday](/music/五月天) — Otra banda emblemática de Taiwán, fundada en 1997, para contrastar distintos modelos de representación
-- [Música popular y Golden Melody Awards](/music/流行音樂與金曲獎) — El contexto del dominio de Sodagreen en los Golden Melody Awards
+- [Música popular y Golden Melody Awards](/music/金曲獎) — El contexto del dominio de Sodagreen en los Golden Melody Awards
 
 ---
 

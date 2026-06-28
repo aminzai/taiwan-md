@@ -267,7 +267,7 @@ Full albums, MVs, and performance records are available on [Cicada’s official 
 - [No Party for Cao Dong](/people/草東沒有派對) — A comparison case from the same era, but following the path of an outward-facing, angry band
 - [Constant & Change](/people/康士坦的變化球) — Also on the post-rock spectrum, but following a vocal narrative path
 - [Crowd Lu](/people/盧廣仲) — Another path through independent music
-- [Popular Music and the Golden Melody Awards](/music/流行音樂與金曲獎) — The institutional context of Cicada’s Golden Melody nomination for Best Instrumental Album
+- [Popular Music and the Golden Melody Awards](/music/金曲獎) — The institutional context of Cicada’s Golden Melody nomination for Best Instrumental Album
 - [Taiwan Independent Music](/music/台灣獨立音樂) — The independent-music spectrum after the 2010s
 - [Taiwan’s Forest Ecosystems](/nature/台灣森林生態系) — The landscapes behind Cicada’s _Hiking in the Mist_ and _Seeking the Sources of Streams_
 - [Taiwan’s Marine Ecology](/nature/台灣海洋生態) — The ecological background of the band’s 2017 ocean-themed album

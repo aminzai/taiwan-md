@@ -120,7 +120,7 @@ You can call it a tragedy. You can also call it the most punk ending of all: the
 - [Taiwan Indie Music Scene](/en/music/indie-music-scene/) — Thirty years of context from Crystal Records to The Wall to the streaming era
 - [Fire EX.](/en/music/fire-ex/) — Also recording their era in Taiwanese punk, twenty-five years starting from southern Taiwan's Kaohsiung
 - [History of Taiwan Rock Music](/music/台灣搖滾樂發展史) — The complete history of Taiwan rock from underground to above ground
-- [Pop Music and the Golden Melody Awards](/music/流行音樂與金曲獎) — Forty years of the Golden Melody Awards, the annual mirror of Taiwan's music industry
+- [Pop Music and the Golden Melody Awards](/music/金曲獎) — Forty years of the Golden Melody Awards, the annual mirror of Taiwan's music industry
 
 ## References
 

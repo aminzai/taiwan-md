@@ -267,7 +267,7 @@ Después de 2019, los lugares pasan de los bosques de montaña y los nacientes d
 - [No Party for Cao Dong](/people/草東沒有派對) — contrapunto de una banda surgida en la misma época, pero con una trayectoria extrovertida y furiosa
 - [Constant & Change](/people/康士坦的變化球) — parte del mismo espectro post-rock, pero con una vía narrativa vocal
 - [Crowd Lu](/people/盧廣仲) — otra ruta de la música independiente
-- [Música pop y Golden Melody Awards](/music/流行音樂與金曲獎) — el contexto institucional de la nominación de Cicada a Mejor Álbum Instrumental en los Golden Melody Awards
+- [Música pop y Golden Melody Awards](/music/金曲獎) — el contexto institucional de la nominación de Cicada a Mejor Álbum Instrumental en los Golden Melody Awards
 - [Música independiente de Taiwán](/music/台灣獨立音樂) — el espectro de la música independiente posterior a la década de 2010
 - [Ecosistemas forestales de Taiwán](/nature/台灣森林生態系) — los paisajes de Hiking in the Mist y Seeking the Sources of Streams de Cicada
 - [Ecología marina de Taiwán](/nature/台灣海洋生態) — el trasfondo ecológico del álbum marino de la banda de 2017

@@ -254,7 +254,7 @@ Los cuatro tonos del chino, los siete tonos del taiwanés y las lenguas de los d
 - [Evolución de la canción en taiwanés](/music/台灣台語歌曲演進) — De «Bāng Chhun-hong» al nuevo movimiento taiwanés: cómo una lengua volvió a cantar hacia el mainstream
 - [Cantautores indígenas contemporáneos](/music/當代原住民創作歌手) — Del escenario de los Golden Melody a la revitalización lingüística: cómo se escuchan las voces de los dieciséis pueblos
 - [Música independiente de Taiwán](/music/台灣獨立音樂) — Underground, livehouses y una larga batalla por la libertad
-- [Música popular y Golden Melody Awards](/music/流行音樂與金曲獎) — Cómo un premio definió los estándares de la escena musical en chino
+- [Música popular y Golden Melody Awards](/music/金曲獎) — Cómo un premio definió los estándares de la escena musical en chino
 
 ## Fuentes de imágenes
 

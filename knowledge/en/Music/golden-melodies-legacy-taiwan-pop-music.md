@@ -252,7 +252,7 @@ What remains is not scale. It is freedom, the only thing not taken away after ev
 
 - [Taiwan's Folk Song Movement: Whose Songs Were "Singing Our Own Songs"?](/music/台灣民歌運動)
 - [The Evolution of Taiwanese-Language Songs: From a Banned Mother Tongue to Album of the Year](/music/台灣台語歌曲演進)
-- [Pop Music and the Golden Melody Awards: Whose Voice Counts, and Who Decides?](/music/流行音樂與金曲獎)
+- [Pop Music and the Golden Melody Awards: Whose Voice Counts, and Who Decides?](/music/金曲獎)
 - [Taiwan's Music Industry and the Streaming Era: Regaining Blood After the Collapse of Physical Records](/music/台灣音樂產業與串流時代)
 - [Teresa Teng: The Diva Who Sang Across Taiwan, Hong Kong, and China, Yet Never Performed in China Before Her Death](/people/鄧麗君)
 

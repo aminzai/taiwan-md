@@ -144,7 +144,7 @@ En sesenta y un años, vivió como alguien que se negó a ser definido por una c
 - [Li Tsung-sheng](/people/李宗盛): productor musical en mandarín de la misma generación, que también pasó la vida escribiendo para otros los asuntos del corazón; permite contrastar dos caminos para escribir baladas: David Wong, “con mal chino y dependiente de la colaboración”, y Li Tsung-sheng, con su “habla directa de la calle”.
 - [Bobby Chen](/people/陳昇): otro creador que no siguió la corriente dominante y persistió en su propio lenguaje musical; ambos demostraron que la escena musical en mandarín podía dar cabida a voces “que no complacen”.
 - [Hsiao Huang-chi](/people/蕭煌奇): otra voz taiwanesa de altísima reconocibilidad; permite ver cómo distintas generaciones definieron el sonido de una época mediante timbres únicos.
-- [Música popular y Golden Melody Awards](/music/流行音樂與金曲獎): el único Golden Melody de David Wong fue por arreglo y no por canto; ese contraste es una vía para entender la lógica de evaluación de los premios.
+- [Música popular y Golden Melody Awards](/music/金曲獎): el único Golden Melody de David Wong fue por arreglo y no por canto; ese contraste es una vía para entender la lógica de evaluación de los premios.
 - [Cultura del KTV en Taiwán](/music/台灣KTV文化): 〈You Made Me Drunk〉 es un clásico persistente de las listas de karaoke; muestra cómo una canción se convierte, por medio del KTV, en memoria colectiva de una generación.
 
 ## Fuentes de imágenes

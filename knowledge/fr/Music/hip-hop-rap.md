@@ -253,7 +253,7 @@ Les quatre tons du chinois, les sept tons du taïwanais hoklo, les langues des s
 - [Évolution des chansons en taïwanais hoklo](/music/台灣台語歌曲演進) — De « Longing for the Spring Breeze » au nouveau mouvement de la chanson taïwanaise, comment une langue revient chanter dans le mainstream
 - [Auteurs-compositeurs-interprètes autochtones contemporains](/music/當代原住民創作歌手) — Des scènes des Golden Melody Awards à la revitalisation des langues autochtones, comment les voix des seize peuples se font entendre
 - [Musique indépendante taïwanaise](/music/台灣獨立音樂) — Underground, _livehouses_ et une longue bataille pour la liberté
-- [Musique populaire et Golden Melody Awards](/music/流行音樂與金曲獎) — Comment un prix a défini les standards de la scène mandopop
+- [Musique populaire et Golden Melody Awards](/music/金曲獎) — Comment un prix a défini les standards de la scène mandopop
 
 ## Sources des images
 

@@ -281,7 +281,7 @@ Then the camera turned to the next award.
 - [Constant & Change](/people/康士坦的變化球) — A comparison within the post-rock spectrum, but with a vocal narrative pathway
 - [Cicada](/people/Cicada) — A fully instrumental, no-vocal pathway, the opposite of Cao Dong’s “lyrics as sociology”
 - [Crowd Lu](/people/盧廣仲) — Another “work-centered singer” path in independent music
-- [Popular Music and the Golden Melody Awards](/music/流行音樂與金曲獎) — The stage coordinates for Cao Dong’s two Best Band wins
+- [Popular Music and the Golden Melody Awards](/music/金曲獎) — The stage coordinates for Cao Dong’s two Best Band wins
 - [Taiwan Independent Music](/music/台灣獨立音樂) — The evolution of independent music from Natural Q to Cao Dong to Accusefive
 - [Taiwan Pop Music](/music/台灣流行音樂) — The industry environment of Mandarin-language popular music
 

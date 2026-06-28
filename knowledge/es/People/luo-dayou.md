@@ -173,7 +173,7 @@ Con una vida entera de errancia, formuló para toda una generación la pregunta 
 
 - [Música popular taiwanesa: de la nakasi a Jay Chou, cómo una isla convirtió sus canciones en una voz propia](/music/台灣流行音樂) — Lo Ta-yu es una figura clave de transición en esta historia general
 - [El movimiento de la canción folk taiwanesa: cómo «cantar nuestras propias canciones» reescribió la música popular de Taiwán](/music/台灣民歌運動) — la ola anterior al ascenso de Lo Ta-yu; para entenderlo, primero hay que entender esta época
-- [La música popular y los Golden Melody Awards: cómo Taiwán definió la música sinófona mediante un premio](/music/流行音樂與金曲獎) — Lo Ta-yu recibió en 2021 el Premio a la Contribución Especial en la 32.ª edición de los Golden Melody Awards
+- [La música popular y los Golden Melody Awards: cómo Taiwán definió la música sinófona mediante un premio](/music/金曲獎) — Lo Ta-yu recibió en 2021 el Premio a la Contribución Especial en la 32.ª edición de los Golden Melody Awards
 - [Sylvia Chang: de ingenua estrella juvenil a actriz ganadora del Golden Horse, una leyenda anfibia del cine y la música de Taiwán](/people/張艾嘉) — el álbum _Infancia_ de 1981 hizo aparecer por primera vez <Infancia> y <La historia del tiempo>, escritas por Lo Ta-yu
 - [Sanmao: una leyenda generacional de la literatura errante](/people/三毛) — guionista de la película _Polvo rojo rodante_ (la letra y la música de esa canción son en realidad de Lo Ta-yu)
 

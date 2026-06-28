@@ -395,7 +395,7 @@ The boy who won the Tianyun Awards in high school, who formed a band with his se
 - [Taiwan Independent Music](/music/台灣獨立音樂) — The ecology of Taiwan's indie band scene
 - [Taiwan Music Festival Culture](/music/台灣音樂祭文化) — The Gongliao Ocean Music Festival and the indie band discovery platform
 - [Mayday](/music/五月天) — Another iconic Taiwan band, founded in 1997, a contrast in management models
-- [Pop Music and the Golden Melody Awards](/music/流行音樂與金曲獎) — The context of Sodagreen's Golden Melody sweep
+- [Pop Music and the Golden Melody Awards](/music/金曲獎) — The context of Sodagreen's Golden Melody sweep
 
 ---
 

@@ -361,7 +361,7 @@ The next time a contemporary Taiwan audience walks into a KTV room, someone sele
 - [Deserts Chang and An Pu](/music/張懸與安溥) — Also a Taiwan female voice, An Pu answered the question "which side to stand on" with two stage names; Where Chou's choice was not to choose a side
 - [Taiwan KTV Culture](/music/台灣KTV文化) — The golden age of KTV from the late 1990s to early 2000s was the material foundation for "Agreement's" 25-year run
 - [Taiwan Pop Music](/music/台灣流行音樂) — The emergence and dissolution of the "Four Little Divas" frame presents a slice of 1990s Chinese-language pop music industrialization
-- [Pop Music and the Golden Melody Awards](/music/流行音樂與金曲獎) — Where Chou never won a Golden Melody Best Female Singer award, but her 26-year career established another longevity metric outside the Golden Melody system
+- [Pop Music and the Golden Melody Awards](/music/金曲獎) — Where Chou never won a Golden Melody Best Female Singer award, but her 26-year career established another longevity metric outside the Golden Melody system
 
 ## Image Credits
 

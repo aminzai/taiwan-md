@@ -231,7 +231,7 @@ La obra más famosa no es "Ophelia", no es "Bi Ge Suo Zai", no son esos dos prem
 - [Yoga Lin](/people/林宥嘉) — Otro camino de un cantante masculino que pasó de un concurso de talento al Golden Melody, llevando la profesionalidad escénica al extremo
 - [Jay Chou](/people/周杰倫) — El otro extremo del espectro de la música popular en mandarín: sistema de superestrella vs. cantante independiente orientada a la obra
 - [Jolin Tsai](/people/蔡依林) — Otra forma de una cantante de construir su voz, el caso opuesto al de Waa Wei
-- [Música popular y Premios Golden Melody](/music/流行音樂與金曲獎) — Las coordenadas del escenario donde Waa Wei ganó dos veces el premio a Mejor Vocalista Femenina en Mandarín
+- [Música popular y Premios Golden Melody](/music/金曲獎) — Las coordenadas del escenario donde Waa Wei ganó dos veces el premio a Mejor Vocalista Femenina en Mandarín
 - [Música popular taiwanesa](/music/台灣流行音樂) — El entorno de la industria musical popular en mandarín
 - [Música independiente taiwanesa](/music/台灣獨立音樂) — La intersección entre Natural Q y la corriente principal del Golden Melody en la década de 2020
 - [Rainie Yang](/people/楊丞琳) — Un contraste estructural generacional de "mercado vs. academia": Rainie Yang tiene un premio Golden Bell (45.° edición) pero nunca ha ganado un Golden Melody; Waa Wei tiene dos Golden Melody a Mejor Vocalista Femenina en Mandarín

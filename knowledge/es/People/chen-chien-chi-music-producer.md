@@ -204,7 +204,7 @@ En 2021 dijo "los Golden Melody me esperaban a mí". Una formulación más preci
 - [LaLa Hsu](/people/徐佳瑩) — El punto de partida de Chen Chien-chi en la producción de música pop (〈Lost Desert〉, 2008)
 - [Hebe Tien](/people/田馥甄) — _Nobody Knows_, por la que Chen Chien-chi ganó el Mejor Productor de Álbum en los Golden Melody 2021
 - [Rainie Yang](/people/楊丞琳) — Contraste en la construcción de identidad de una cantante de música pop en chino de la misma generación (Yang como productora de sí misma, Chen como productor de otros)
-- [Música pop y Premios Golden Melody](/music/流行音樂與金曲獎) — Las coordenadas completas de los tres Golden Melody de Chen Chien-chi, que abarcan arreglo / sencillo / álbum
+- [Música pop y Premios Golden Melody](/music/金曲獎) — Las coordenadas completas de los tres Golden Melody de Chen Chien-chi, que abarcan arreglo / sencillo / álbum
 - [Música pop taiwanesa](/music/台灣流行音樂) — El contexto histórico de la línea sonora roja que Chen Chien-chi eliminó de la música pop en chino durante 25 años
 - [Música independiente taiwanesa](/music/台灣獨立音樂) — La posición de los sellos "Good Many Music" y "HerMusic" de Chen Chien-chi en el ecosistema de la música independiente
 - [Ko Chih-tang](/people/柯智棠) — Cantante de folk británico del que Chen Chien-chi produjo tres álbumes completos; co-ganador del premio al tema original de los Golden Bell 2025 con 〈God's Reply〉

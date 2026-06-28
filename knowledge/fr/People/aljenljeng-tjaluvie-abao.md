@@ -198,7 +198,7 @@ C'est valable pour elle-même, c'est valable pour la prochaine génération de m
 - [魏如萱](/people/魏如萱) — Une autre voie, dans la même génération de la pop sinophone, pour « rendre audible ce qui ne correspond pas aux normes » (la voix de娃娃 de魏如萱 × l'électro en langue ancestrale d'Abao : deux approches linguistiques pour repousser les frontières du son)
 - [陳建騏](/people/陳建騏) — Un contrepoint à la figure de « l'auteur absent » dans la production musicale pop sinophone (陳建騏 travaille les frontières sonores du mainstream mandarin, Abao fait du future pop en langue ancestrale)
 - [周子瑜](/people/周子瑜) — L'autre extrémité des stratégies identitaires des femmes musiciennes taïwanaises de la même génération (周子瑜 dans l'industrie K-pop vs Abao : identité autochtone × production locale)
-- [流行音樂與金曲獎](/music/流行音樂與金曲獎) — La signification structurelle du fait que le prix de l'album de l'année des Golden Melody Awards 2020 (31e édition) ait été remporté pour la première fois par une œuvre en langue ancestrale
+- [流行音樂與金曲獎](/music/金曲獎) — La signification structurelle du fait que le prix de l'album de l'année des Golden Melody Awards 2020 (31e édition) ait été remporté pour la première fois par une œuvre en langue ancestrale
 - [台灣流行音樂](/music/台灣流行音樂) — Le tournant de 2020 : la musique en langues autochtones passe de la marge à la scène principale
 - [台灣原住民族16族文化地圖](/culture/台灣原住民族16族文化地圖) — Le portrait contemporain de la langue, des tribus et des formes artistiques du peuple paiwan
 - [原住民族語言政策](/society/原住民族語言政策) — Le contexte politique de la revitalisation des langues autochtones et sa complémentarité avec la pratique musicale d'Abao

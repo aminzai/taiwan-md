@@ -231,7 +231,7 @@ L'œuvre la plus célèbre n'est pas « Ophelia », ni « Bi Ge Suo Zai », ni c
 - [林宥嘉](/people/林宥嘉) — Un autre chemin, de la télé-crochet aux Golden Melody, un chanteur masculin portant la scène à son plus haut niveau de professionnalisme
 - [周杰倫](/people/周杰倫) — L'autre extrémité du spectre de la pop mandarine : le système de la super-star vs la chanteuse d'œuvre indépendante
 - [蔡依林](/people/蔡依林) — Une autre façon pour une chanteuse de construire sa voix, le cas inverse de Waa Wei
-- [流行音樂與金曲獎](/music/流行音樂與金曲獎) — Les coordonnées scéniques des deux victoires de Waa Wei comme meilleure chanteuse mandarin
+- [流行音樂與金曲獎](/music/金曲獎) — Les coordonnées scéniques des deux victoires de Waa Wei comme meilleure chanteuse mandarin
 - [台灣流行音樂](/music/台灣流行音樂) — L'environnement industriel de la pop mandarine
 - [台灣獨立音樂](/music/台灣獨立音樂) — À la frontière entre Natural Q et le courant dominant des Golden Melody dans les années 2020
 - [楊丞琳](/people/楊丞琳) — Un contraste structurel « marché vs académie » de la même génération : Yang Cheng-lin a un prix Golden Bell (45ᵉ) mais jamais de Golden Melody, Waa Wei a deux prix de meilleure chanteuse mandarin

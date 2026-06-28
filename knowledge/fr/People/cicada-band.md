@@ -267,7 +267,7 @@ Les albums complets, clips et captations de concerts sont disponibles sur la [ch
 - [No Party for Cao Dong](/people/草東沒有派對) — contrepoint d’un groupe de la même période, plus extraverti et colérique
 - [Constant & Change](/people/康士坦的變化球) — même spectre post-rock, mais par la narration vocale
 - [Crowd Lu](/people/盧廣仲) — une autre trajectoire de la musique indépendante
-- [Musique populaire et Golden Melody Awards](/music/流行音樂與金曲獎) — contexte institutionnel de la nomination de Cicada dans la catégorie du meilleur album instrumental
+- [Musique populaire et Golden Melody Awards](/music/金曲獎) — contexte institutionnel de la nomination de Cicada dans la catégorie du meilleur album instrumental
 - [Musique indépendante taïwanaise](/music/台灣獨立音樂) — spectre de la musique indépendante après les années 2010
 - [Écosystèmes forestiers de Taïwan](/nature/台灣森林生態系) — paysages de _Hiking in the Mist_ et _Seeking the Sources of Streams_
 - [Écologie marine de Taïwan](/nature/台灣海洋生態) — arrière-plan écologique de l’album marin de 2017

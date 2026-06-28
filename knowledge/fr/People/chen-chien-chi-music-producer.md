@@ -204,7 +204,7 @@ En 2021, il a dit que « c'est le Golden Melody qui m'attendait ». Une formulat
 - [Lala Hsu](/people/徐佳瑩) — le point d'entrée de Chen Chien-chi dans la production de musique pop (〈失落沙洲〉, 2008)
 - [Hebe Tien](/people/田馥甄) — Chen Chien-chi, meilleur producteur d'album aux 32e Golden Melody Awards pour 《無人知曉》
 - [Rainie Yang](/people/楊丞琳) — un parallèle dans la construction identitaire d'une chanteuse pop sinophone de la même génération (Yang productrice de ses propres œuvres, Chen producteur pour d'autres)
-- [Musique pop et Golden Melody Awards](/music/流行音樂與金曲獎) — les coordonnées complètes des trois Golden Melody de Chen Chien-chi, couvrant l'arrangement, le single et l'album
+- [Musique pop et Golden Melody Awards](/music/金曲獎) — les coordonnées complètes des trois Golden Melody de Chen Chien-chi, couvrant l'arrangement, le single et l'album
 - [Musique pop taïwanaise](/music/台灣流行音樂) — le contexte historique de la ligne rouge sonore que Chen Chien-chi a aboli dans la musique pop sinophone pendant 25 ans
 - [Musique indépendante taïwanaise](/music/台灣獨立音樂) — la position des labels « Good Many Music » et « HerMusic » de Chen Chien-chi dans l'écosystème de la musique indépendante
 - [Ko Chih-tang](/people/柯智棠) — le chanteur folk britannique entièrement produit par Chen Chien-chi sur trois albums, co-lauréat du prix de la chanson originale dramatique aux Golden Bell Awards 2025 pour 〈神的回信〉

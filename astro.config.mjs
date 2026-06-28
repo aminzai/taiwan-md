@@ -195,6 +195,10 @@ export default defineConfig({
     // 拼法；鹽酥雞 canonical — 10 footnote + 已含「鹽/鹹」naming section + 在 Food Hub）。
     // 6-lang redirect（鹹酥雞 譯名 salt-and-pepper-fried-chicken → 鹽酥雞 popcorn-chicken-redux）。
     '/food/台灣鹹酥雞': '/food/台灣鹽酥雞/',
+    // 2026-06-28: 流行音樂與金曲獎.md EVOLVE 拆出獨立 金曲獎.md（純化在「獎」本身，立體群像；
+    // 流行音樂產業興衰交給 台灣流行音樂.md 不重複）。zh slug rename，1 lang redirect（en/ja/ko/es/fr
+    // 譯本 slug pop-music-and-golden-melody-awards 暫留、_translations 重指 金曲獎.md 待 babel re-sync）。
+    '/music/流行音樂與金曲獎': '/music/金曲獎/',
     '/en/food/taiwanese-salt-and-pepper-fried-chicken':
       '/en/food/taiwanese-popcorn-chicken-redux/',
     '/ja/food/taiwanese-salt-and-pepper-fried-chicken':

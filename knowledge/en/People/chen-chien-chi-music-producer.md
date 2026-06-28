@@ -203,7 +203,7 @@ In 2021, he said "the Golden Melody Awards were waiting for me." A more precise 
 - [Lala Hsu](/people/徐佳瑩) — the starting point of Chen Chien-chi's entry into pop music production ("Lost Desert," 2008)
 - [Hebe Tien](/people/田馥甄) — Chen Chien-chi's 2021 Golden Melody Award for Best Album Producer, _Anonymity_
 - [Rainie Yang](/people/楊丞琳) — a contrast in identity construction among same-generation Mandarin pop female singers (Rainie Yang self-produced, Chen Chien-chi produced by others)
-- [Pop Music and the Golden Melody Awards](/music/流行音樂與金曲獎) — the complete coordinates of Chen Chien-chi's three Golden Melody Awards spanning arranging / single / album production
+- [Pop Music and the Golden Melody Awards](/music/金曲獎) — the complete coordinates of Chen Chien-chi's three Golden Melody Awards spanning arranging / single / album production
 - [Taiwan Pop Music](/music/台灣流行音樂) — the historical context of the sonic red line Chen Chien-chi tore down for Mandarin pop music over 25 years
 - [Taiwan Independent Music](/music/台灣獨立音樂) — the position of Chen Chien-chi's "Good Many Music" and "HerMusic" labels in the independent music ecosystem
 - [Ko Chih-tang](/people/柯智棠) — the British folk singer for whom Chen Chien-chi produced three full albums, and co-winner of the 2025 Golden Bell Original Song Award for "God's Reply"
