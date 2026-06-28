@@ -499,6 +499,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 3（4/29 α SSODT vc=2 + 本次金曲 = 3；哲宇親自 callout + 明示「讓未來預設就是」= fast-track promote candidate）
 - **severity**: structural（影響每篇 beloved/institutional 文的 framing + 炎上風險 + 對外可信度）
 
+### 2026-06-28 manual — 宣稱「mirror」的 gate 必須 mirror 完整，否則是 false confidence；MIXED commit 騙過 subject-filter
+
+- **pattern**: partial-mirror-false-confidence
+- **原則**：(1) 一道宣稱「鏡像另一道 gate」的閘門（pre-push「ci-deploy mirror」）只跑了部分（全站 article-health）、漏了 prebuild 的 orphan check → 給「本機綠＝CD 會綠」的 false confidence，orphan 滑到 CD 才爆。**mirror 要嘛完整、要嘛別叫 mirror。** (2) 把「實質編輯（新文章）」跟「大量 cosmetic（99 檔 cross-link rename）」bundle 進同一個 commit，騙過所有 subject-based 過濾器（date 洗版 +「最新文章」污染 + commit scope 模糊）——**cosmetic sweep 該獨立 commit**。
+- **觸發**：2026-06-28 金曲獎 rename session。fr 譯本 orphan（雙引號漏 sed）過了 pre-push「全站 article-health 全綠」卻掛 CD prebuild exit 2；99 檔 cross-link sweep bundle 進「rewrite」commit 把不是今天寫的文章全洗上「最新文章」。兩者當場造橋（pre-push 加 orphan gate + build-content-dates 加 BATCH_THRESHOLD/CROSS_LINK cosmetic），meta-pattern 值得記。
+- **可能層級**：通用反射 → extends REFLEXES #69（每層自評需外部尺）+ #24（工具在說謊：宣稱 mirror 實際 partial 是新形狀）；操作規則 → commit hygiene「cosmetic sweep 獨立 commit、別 bundle 進實質 commit」
+- **相關**：REFLEXES #69 / #24 / #68（多核心 git）/ §神經迴路「批量修正會汙染 git 時間戳 BATCH_THRESHOLD」
+- **verification_count**: 1
+- **severity**: structural（gate false confidence 讓壞東西滑到 CD/prod；date 洗版傷 /latest 主權層感知）
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
