@@ -1,107 +1,234 @@
 ---
-title: "Wanwan: She Gave Taiwan's Office Workers a Face, Then Nearly Lost Herself in Twelve Days"
-description: "In 2004, Hu Chia-wei rose to prominence on Wretch under the name Wanwan, becoming Taiwan's first illustrator valued in the tens of millions through MSN display pictures. From the illustrated-writing diva behind Can I Not Go to Work? to the 2014 infidelity scandal twelve days after her wedding, she used simple bald-headed figures to define a generation's collective emotions, and personally demonstrated the quiet survival that follows the collapse of a public persona."
-date: 2026-06-14
+title: 'Wanwan: The Bald Figure Who Gave a Generation of Office Workers a Face, and Hu Chia-wei, Who Let It “Become a Historical Figure”'
+description: 'In the days when offices still relied on MSN to communicate, office workers who did not dare speak up to their bosses changed their profile pictures to a naked bald figure with one curled hair on its head, letting it shout “I want to get off work” for them. Hu Chia-wei, who drew it, went from a design assistant earning NT$9,000 a month to, by accident, the creator of Taiwan’s first blog to surpass 100 million views and the founding figure of illustrated online writing. The bald figure stays forever innocent and ageless, but the person who drew it grows up; so she let the character exit together with her and “become a historical figure.”'
+date: '2026-06-29'
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '藝術與設計'
 tags:
   [
-    'Illustration',
-    'Illustrated Writing',
-    'MSN Era',
-    'Internet Culture',
     'Wanwan',
     'Hu Chia-wei',
+    'Illustration',
+    'Illustrated Online Writing',
+    'MSN Era',
+    'Internet Culture',
   ]
-readingTime: 15
-lastVerified: 2026-06-14
+readingTime: 13
+lastVerified: '2026-06-29'
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/彎彎.md'
-sourceCommitSha: '3a886985c'
-sourceContentHash: 'sha256:f35eb28f8060b6fb'
-sourceBodyHash: 'sha256:7e022b5d41253912'
-translatedAt: '2026-06-16T00:44:26+08:00'
+sourceCommitSha: '7b817df18'
+sourceContentHash: 'sha256:c76ceb95afe3d363'
+sourceBodyHash: 'sha256:95ff72d4c67126fd'
+translatedAt: '2026-06-30T00:37:51+08:00'
 ---
 
-> **30-second overview:**
-> Wanwan (Hu Chia-wei) is a founding figure in Taiwan's illustrated-writing scene. Before smartphones became widespread, the "bald-headed figures" she drew for MSN display pictures were the only outlet through which countless office workers could express "I want to get off work" or "I'm falling apart." Her first book, _Can I Not Go to Work?_, achieved astonishing sales of more than 1 million copies. Yet in 2014, an extramarital-affair incident that erupted just 12 days after her wedding instantly turned this "queen of illustration" into a target of public outrage. This article traces how she rose from a design assistant earning NT$9,000 a month to become one of the most influential and controversial visual symbols in Taiwan's internet history through an unconventional path, and how she sought transformation and quiet survival after the storm.
+# Wanwan: The Bald Figure Who Gave a Generation of Office Workers a Face, and Hu Chia-wei, Who Let It “Become a Historical Figure”
 
-Hu Chia-wei was born in Taiwan on August 16, 1981 [^1]. She graduated from the Department of Fine Arts at Taipei Fu-Hsin Trade and Arts School. When relatives and friends encouraged her to pursue further studies, she chose instead to enter the workforce directly, starting as a design assistant with a monthly salary of just NT$9,000 [^2] [^3]. It is worth noting that "Wanwan" was not her real name. The stage name came from imitating Hu Chia-wei, the child actor who played the role of "Wanwan" in the 1980s Taiwanese television drama _Stars Know My Heart_, a fact that has often caused public confusion [^1] [^4]. This "unconventional" career beginning foreshadowed the later story of her using creative work to rise from the grassroots. In October 2004, while still working as a design assistant, Hu uploaded her first doodle under the name "Wanwan" to Wretch.cc [^1]. It was an era when broadband internet had just become widespread and MSN Messenger dominated office communication. The round-faced, bald-headed figures she drew casually, paired with simple phrases such as "I want to get off work" and "Do not disturb, working," helped her blog accumulate more than 10 million views in under a year [^5]. By 2007, it had surpassed 180 million cumulative views, becoming Taiwan's first blog to break the 100-million-view mark [^6] [^7].
+In the early 2000s, an office worker in Taipei opened his computer and logged into MSN Messenger. He changed his profile picture to a little figure: naked, with a round bald head, only one curled cowlick on top, a half-dead expression on its face, and three Chinese characters beside it: “I want to get off work.”
 
-### Digital Masks in the Office and a Net Worth in the Tens of Millions
+He did not dare actually say that to his boss. But that bald figure said it for him.
 
-In an era before LINE stickers, Wanwan's animated gif display pictures became the "digital masks" of Taiwan's office workers. When employees did not dare speak their true feelings directly to their bosses, they changed their MSN avatars and let the bald-headed figure with exaggerated expressions shout on their behalf. In 2005, her first book, _Can I Not Go to Work?_, was published. It not only stayed on major bookstore bestseller lists for dozens of weeks, but also sold more than 1 million copies across Asia, breaking the stereotype in Taiwan at the time that illustrated books were "only supporting players" [^8].
+It was an era when mobile phones could still only make calls and send text messages. There were no LINE stickers, no Stories; every emotion in the office was compressed into an MSN window that could not be closed because work was not over yet. And that bald figure, which everyone later called “Wanwan,” sat inside that little box in the window and shouted out, on behalf of offices across Taiwan, the feelings of being busy, sleepy, sad, tired, annoyed, and idle.[^1]
 
-📝 Curator's note: The core of Wanwan's success lay in her ability to capture Taiwan's particular culture of being "stifled": the collective emotion of wanting to resist the system but being able to defuse it only through small acts of humor. Her work was a visual outlet for Taiwanese people's collective emotions in the early internet era, and a key bridge from the blog era to the social media era.
+![Wanwan at the UDN booth at the 2008 Taipei International Book Exhibition](/article-images/people/wanwan-2008-book-fair.webp)
+_Wanwan at the UDN booth at the 2008 Taipei International Book Exhibition. — Photo: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
 
-At the time, Taiwanese media called Wanwan the "queen of the illustration world" or the "blog queen" [^9], and her market value rose a thousandfold in just a few years. She won awards including "Best Humor Blog" at the 2006 Chinese Blog Awards [^10], establishing her status as a founding figure in online illustrated writing. Her commercial achievements spanned multiple fields: Wanwan magnets produced in collaboration with FamilyMart distributed more than 50 million magnets and generated revenue in the hundreds of millions of NT dollars [^11]; she was among the first Taiwanese creators to launch LINE stickers, with cumulative downloads exceeding 10 million [^12]; and she was the first blogger to appear in television commercials, filming as many as eight advertisements for brands including Taiwan Fixed Network, Samsung, Kuai Kuai, and Vitalon [^13]. In film, aside from appearing as herself, Hu Chia-wei, in Giddens Ko's _You Are the Apple of My Eye_ [^14], she also took part in the 2010 round-the-island documentary _Travel with Dreams_ and the 2012 film _The Soul of Bread_ [^15]. Wanwan's face became almost synonymous with her bald-headed figure. She was not only a creator but also a successful commercial brand, proving that in Taiwan, "drawing really can put food on the table."
+> **30-second overview:** Wanwan, whose real name is Hu Chia-wei, is the founding figure of Taiwan’s illustrated online writing. She began as a design assistant earning NT$9,000 a month, “rolling around on construction sites every day.” Out of boredom, she drew a few small images on MSN that matched her mood, and unexpectedly became popular across Taiwan. In 2007, her personal blog became Taiwan’s first blog to surpass 100 million views; she proved that “drawing could put food on the table,” and an entire generation of illustrated-content creators followed after her. What is most moving about her is the choice she made for the character she created: the bald figure remains forever innocent and ageless, but the person who draws it grows up and grows tired; so Hu Chia-wei said she would let the character exit together with her and “become a historical figure.”
 
-Her list of works is extensive and clearly serialized. In addition to her representative work _Can I Not Go to Work?_, it includes early office and campus-themed books such as _Let's Skip Work Together_ and _Can I Not Go to School?_; travel and lifestyle books such as _Can I Go Out and Play Every Day?_ and _Have You Gone to Europe?_; and later parenting and pet-themed works including _Oh My Mother! This Is How I Became a Mom_, _Can We Stay Together Forever: Wanwan's Pet Diary_, _Wanwan's Dessert Notes_, and _Wanwan's Magic App_, totaling more than 20 books [^16].
+## One Cowlick, One Naked Little Figure
 
-### Image Collapse and a Public-Opinion Tsunami After Twelve Days
+To understand why Wanwan matters, we first have to return to an era when there were no images to paste into chats.
 
-Yet in May 2014, this precisely operating illustrated-content production machine experienced its most violent shock. On May 17, 2014, Wanwan married in a high-profile ceremony, walking down the aisle with Ho Chi-yuan, her partner of 10 years [^1] [^17]. Just 12 days later, a weekly magazine photographed her kissing another blogger, Huang Ta-yeh (Huang Chien-ming), on the street [^17] [^18]. This "newlywed infidelity" incident triggered a devastating tsunami of public opinion in Taiwanese society at the time.
+Around 2002, the main venue for online chatting in Taiwan was MSN Messenger. Its biggest difference from today’s messaging apps was that there were no stickers to use. The only thing you could change was a tiny “profile picture.” That was the face you hung on your friends list, the little square that colleagues, friends, and crushes would glance at every day. So that square became one of the few places where Taiwanese people at the time could quietly make a statement.
 
-For readers then, Wanwan represented an image of "innocence, goofiness, and the girl next door." The enormous contrast produced by the infidelity incident turned her instantly from a public favorite into a target of widespread criticism. Although she posted an apology on Facebook and received forgiveness from her husband, Ho Chi-yuan, her commercial collaborations were suspended one after another, and some internet users even launched boycott actions [^19] [^20]. The storm exposed the almost obsessive linkage in Taiwan's internet culture between a creator's "moral conduct" and the "content of their work." It also caused her to fall from the cloud where the "blog queen" had stood, facing an unprecedented image crisis.
+That was where Hu Chia-wei drew the bald figure.
 
-### Aftermath: Quiet Survival and Transformation After the Label
+In a later interview, she described the character she drew this way: “Wanwan’s character is innocent, cute, a little silly, often making a fool of itself, with one curled hair on its head, and no clothes.”[^2] The naked design was actually because she drew it very casually at first. Looking back, even she found it embarrassing: “It was ugly, all crooked, and the recognizability was way too low!”[^2] But it was precisely this crooked, defenseless little figure that hit the condition of an entire generation of office workers with precision. It drew every kind of everyday collapse contained in those six Chinese words: busy, sleepy, sad, tired, annoyed, and idle. It drew the very day you were living through.
 
-After the storm, Wanwan did not disappear from the internet. Instead, she chose a quieter way of surviving. In a 2020 media interview, she stated explicitly that "the old Wanwan is already dead," and that her character style had changed with age and environment, no longer maintaining the goofy image of her early years [^21]. Her marriage to Ho Chi-yuan endured, and the couple have two children. Her creative focus also shifted toward parenting content, documenting everyday life with her two children and pet dogs, Pulo and FIFI, while continuing to share daily updates on Instagram (@cwwany) and Facebook (@cwwany.tw) [^22] [^23]. She has also continued running her YouTube channel, quietly sharing creative work and life updates [^13].
+![Wanwan’s “tired” profile picture, with the bald figure sprawled over a desk, unable to move](/article-images/people/wanwan-character-tired.webp)
+_Wanwan’s “tired” profile picture: the bald figure sprawls in front of the computer, one word summing up every office worker’s afternoon. — Fair use: work by Wanwan (image source: Taiwan Panorama)_
 
-📝 Curator's note: Rather than saying the public forgave Wanwan, it may be more accurate to say that time made people realize the emotions we had invested in that bald-headed figure were real, even if the creator herself was not perfect. Her transformation also reflects how internet creators, after facing public scrutiny, redefine the relationship between self and work, shifting from a "collective emotional outlet" to "life writing about the individual and family."
+What she drew was never just one expression. “Busy, sleepy, sad, tired, annoyed, idle” was a whole set, each one the same bald figure in a different posture: the “busy” figure buried under work, the “tired” figure lying motionless on the desk, the “idle” figure staring blankly into space.[^1] Office workers would change to one image in the morning, then switch again when their mood shifted in the afternoon. In effect, they were using Wanwan’s bald figure to write that day’s mood diary, while the boss sitting next to them would never understand that it was actually a complaint about him.
 
-Although her visibility can no longer compare with the glory days of MSN, library borrowing data from 2026 show that works such as _This Is How We All Grew Up Bent_ still rank in the top three, indicating that her work remains vital among readers across generations [^24]. Wanwan's story is a microcosm of Taiwan's internet development. She was not only an important bridge in Taiwan's illustrated-writing scene from blogs such as Wretch and Pixnet to LINE stickers and Webtoon, but also influenced large numbers of later creators. She experienced the rise of blogs, the evolution of messaging software, and the harshest moral judgment of online communities. She gave Taiwan's office workers a face through which to express themselves. Yet through her own real life, she also completed the most complex and least "bald-headed-figure-like" side behind that face.
+This is why Wanwan became Wanwan. She did not draw the person you wanted to become. She drew you at that very moment: working overtime, being watched by your boss, wanting badly to leave work but unable to say so. That bald figure had no name, no identity, and no clothes, so anyone sitting in an office cubicle could treat it as themselves.
 
----
+> 📝 **Curator’s note:** Today we have more stickers than we could ever use to speak in our place, so it is hard to imagine that “one profile picture” was once such a scarce emotional outlet. But scarcity was the point. When you could only change one face and attach one line to it for the whole day, that face had to capture your state with extreme precision. This constraint, in turn, forced out Wanwan’s strongest ability: using the simplest lines to draw the most universal fatigue. She was not “the most popular one among many stickers.” Under the constraint that “there could only be one face,” she was the face chosen by an entire generation as its spokesperson.
 
-### References
+## NT$9,000 a Month, and the Confusion of Construction Sites
 
-[^1]: [Wikipedia: Wanwan (Hu Chia-wei)](https://zh.wikipedia.org/zh-hant/%E5%BD%8E%E5%BD%8E) — Biography, real name, debut, and timeline of major events
+The person who drew this bald figure was, at the time, stuck in exactly the situation she was drawing.
 
-[^2]: [Global Views Monthly: Passion Plus Focus: Drawing a Net Worth in the Tens of Millions Outside the Classroom (2007)](https://www.gvm.com.tw/article/47682) — Her career beginnings as a design assistant and starting salary of NT$9,000 a month
+Hu Chia-wei was born in 1981 and studied commercial art at Taipei’s Fu-Hsin Trade and Arts School. When she graduated, relatives and friends urged her to continue her studies. She did not; she went straight into the workforce. Her first job was as a design assistant, with a monthly salary of NT$9,000. That number would later often be brought up because the contrast with what happened to her afterward was so great. But more than the number, the scene she described at the time carries more warmth: the job required her to “roll around on construction sites every day, sometimes even running errands for workers,” and during that period she felt “a confusion in which I could not see any way forward for myself.”[^3]
 
-[^3]: [104 Career Navigation: Design Assistant Salary Information](https://guide.104.com.tw/salary/job/2013001013) — Reference for entry-level salary ranges for design assistants
+After changing jobs a few times, she worked at a game company. It was there that the bald figure was born. She later recalled that utterly ordinary starting point: “At the time I was working at a game company. I was very bored, and the weather was very hot, so I made some small pictures that matched my mood and put them on MSN… I never expected them to become so unexpectedly popular and be used by so many people.”[^4]
 
-[^4]: [Yahoo News: 33 Years Later, Where Did the Five Child Stars of _Stars Know My Heart_ Go After Growing Up? (2015)](https://tw.news.yahoo.com/33-%E5%B9%B4%E5%BE%8C%E3%80%8A%E6%98%9F%E6%98%9F%E7%9F%A5%E6%88%91%E5%BF%83%E3%80%8B5-%E4%BD%8D%E5%B0%8F%E7%AB%A5%E6%98%9F%E9%95%B7%E5%A4%A7%E5%BE%8C%E5%88%B0%E5%93%AA%E5%85%92%E5%91%A2%EF%BC%9F-102959331.html) — Source of confusion caused by the child actor Hu Chia-wei and the illustrator Wanwan having the same Chinese-character real name
+The reason she applied for an account on Wretch, Taiwan’s once-dominant blogging and social-networking platform, was even more unexpected: she was simply chasing a celebrity. What she wanted to read was the online writer Giddens Ko’s serial work on Wretch BBS, and only then did she “try out the blog function on the side.”[^5] The blog was empty at first; she did not know what to post, so she uploaded those MSN images she had drawn.
 
-[^5]: [Business Next: Becoming Popular Last Year with "Wanwan's Blog" (2006)](https://www.bnext.com.tw/article/3202/BN-ARTICLE-3202) — Early blog popularity and the record of 10 million views
+And so a road no one had expected opened up. Her own description of that road later became the key to understanding her: “For me, drawing is a straight road.”[^3] The sentence sounds like an inspirational quote, but placed back into her circumstances, its meaning is plain: amid the confusion of construction sites, she did not have some bright calculation about the future. In a future that looked blurry in every direction, she discovered that only drawing was clear, and that it belonged to her.
 
-[^6]: [MR.6: Wanwan Is About to Break 100 Million Visits; Please Stop Calling Her a Blog (2007)](https://mr6.cc/2007/05/15/%E5%BD%8E%E5%BD%8E%E5%8D%B3%E5%B0%87%E7%A0%B41%E5%84%84%E4%BA%BA%E6%AC%A1%EF%BC%8C%E8%AB%8B%E5%88%A5%E5%86%8D%E5%8F%AB%E5%A5%B9%E9%83%A8%E8%90%BD%E6%A0%BC/) — Milestone record of surpassing 100 million views
+```tw-figure
+NT$9,000 → Net worth in the tens of millions
+A construction-site design assistant earning NT$9,000 a month was described by the media, by age 26, as “having a net worth in the tens of millions”
+Global Views Monthly, 2007
+```
 
-[^7]: [Cheers: Wanwan: Opportunity Is Like Buying a Lottery Ticket; You Definitely Won't Win If You Don't Pay First (2010)](https://www.cheers.com.tw/article/article.action?id=5022058&page=3) — Interview on her early creative process and career turning points
+That phrase “net worth in the tens of millions” came from a 2007 interview in Global Views Monthly. She was 26 at the time, and the reporter described the projects she completed “in an average of two to three working days” as being worth “an office worker’s monthly salary.”[^3] It should be clarified that this was the reporter’s observation and estimate, not her own claim. The widely circulated online phrase that her “net worth had increased a thousandfold” cannot be traced to any media source; it was arithmetic that readers derived by multiplying from NT$9,000. But whatever the precise number was, the contrast itself was real: a young woman who had once run errands for workers on construction sites and seen no way forward became, a few years later, one of the most familiar names of her generation.
 
-[^8]: [Books.com.tw: _Can I Not Go to Work?_](https://www.books.com.tw/products/0010309990) — Publication information and book introduction for her representative work
+## The Founding Figure: Taiwan’s First Blog to Surpass 100 Million Views
 
-[^9]: [Taiwan Panorama: Popular Blog Writer Wanwan](https://www.taiwan-panorama.com/Articles/Details?Guid=56a77c78-1d03-432d-8a42-be52ae96840b) — Media source confirming the title "blog queen"
+Looking back today, the speed and scale of Wanwan’s rise are still astonishing.
 
-[^10]: [Taiwan Muchan: 2006 Chinese Blog Awards (2007)](http://taiwanmuchan.blogspot.com/2007/04/blog-post.html) — Record of winning "Best Humor Blog"
+Her blog’s popularity snowballed. By the end of 2005, it had accumulated around 20 million views.[^6] Then came the repeatedly cited milestone: on July 26, 2007, her personal blog surpassed 100 million views, becoming Taiwan’s first blog to cross that threshold.[^7] The next day, she posted an article on her own blog titled “Thanks, everyone, for breaking 100 million~.”[^7] In an era when Taiwan’s total internet population was still not that large, the number “100 million” almost meant this: every Taiwanese person who went online had seen Wanwan.
 
-[^11]: [Threads: Discussion of FamilyMart Wanwan Magnets](https://www.threads.com/@alice_0413_/post/C-x6uQoS_lT) — Public memory of FamilyMart's Wanwan magnet point-collection campaign
+She became so popular that she acquired exclusive titles. Media and internet users called her the “blog queen,” and some called her “Goddess Wan.”[^8] But what truly gives her a place in Taiwan’s cultural history is the long line of people who followed behind her. Chinese Wikipedia summarizes her influence this way: “Because of Wanwan’s successful experience, many Taiwanese illustrated-content creators began emerging in large numbers using blogs as their medium, and illustrated books based on life experience rapidly gained a place in the publishing market.”[^8] The United Daily News digital archive “UDN Time” simply calls her the “founding Wretch illustrated writer.”[^9]
 
-[^12]: [LINE STORE: Wanwan and Cherng Sticker Launch Celebration](https://store.line.me/notice/10002588/zh-Hant) — Launch record for the first group of LINE sticker creators
+![Wanwan attending the Global Chinese Blog Award in 2007](/article-images/people/wanwan-2007-blog-award.webp)
+_Wanwan attending the Global Chinese Blog Award in 2007. — Photo: Rico Shen / Wikimedia Commons, CC BY-SA 3.0_
 
-[^13]: [YouTube: From MSN to LINE, Wanwan's Bald-Headed Illustrations Become a Trend (2014)](https://www.youtube.com/watch?v=g-ZKCG5U4Ec) — Video record of advertising endorsements, channel management, and illustrated creation across platforms
+Terms like “founder” and “originator” are usually empty, but in Wanwan’s case they are concrete. Before her, Taiwan was not lacking people who drew, nor people who wrote blogs. But the path in which “an ordinary office worker drew everyday trivialities as words and images, posted them online, became known across Taiwan through that work, and then made a living by publishing books” was one she was the first to make viable. She proved that such a path existed. Those who followed, whether Dolphin Man and Fu Jen Monkey in the Wretch era, or the later generation that moved to Facebook and LINE, were all walking the line she had first worn into the ground.
 
-[^14]: [IMDb: _You Are the Apple of My Eye_](https://www.imdb.com/title/tt2036416/) — Acting record for her appearance as herself in Giddens Ko's film
+## The Proof That “Drawing Could Put Food on the Table”
 
-[^15]: [Wikipedia: Wanwan (Illustrator), Film Section](https://zh.wikipedia.org/zh-hant/%E5%BD%8E%E5%BD%8E#%E9%9B%BB%E5%BD%B1) — Record of participation in the films _Travel with Dreams_ and _The Soul of Bread_
+If Wanwan proved that illustrated online writing could become popular, then in the next few years she proved something even more practical: drawing could put food on the table.
 
-[^16]: [Books.com.tw: Author - Wanwan](https://search.books.com.tw/search/query/key/%E5%BD%8E%E5%BD%8E/adv_author/1/) — List of Wanwan's works over the years and record of serialized publishing
+The first thing that turned this into an everyday national experience was small magnets. Around 2006, FamilyMart turned her MSN profile pictures into A-to-Z English letter block magnets that customers could collect through a points campaign.[^10] For a time, countless refrigerator doors, pencil cases, and office desks in Taiwan were covered with Wanwan’s bald figures. These magnets were sent by the tens of millions into Taiwanese homes and offices; even today, people still collect them on secondhand marketplaces, labeling them “out of print.”[^10] A little figure drawn on MSN, originally just for fun, had become an object of period memory worth collecting.
 
-[^17]: [CTS News: Newly Married for 12 Days, Illustration Queen Wanwan Exposed in Affair (2014)](https://news.cts.com.tw/cts/entertain/201406/201406051433013.html) — Main news report on the 2014 infidelity incident 12 days after her wedding
+![Wanwan’s happy “joy” profile picture of the bald figure](/article-images/people/wanwan-character-joy.webp)
+_The same bald figure’s “joy.” FamilyMart turned the full set of expressions into A-to-Z letter block magnets that covered refrigerator doors across Taiwan. — Fair use: work by Wanwan (image source: Taiwan Panorama)_
 
-[^18]: [Threads: Discussion of Wanwan's Extramarital-Affair Incident](https://www.threads.com/@yyc__05/post/C-wGQL6yhhp) — Retrospective discussion of public opinion around the affair at the time
+Books, too. Her first book, _Can I Not Go to Work? — Wanwan’s Doodle Diary 1_, was published in 2005 by the publisher Planet Self-Rotation.[^11] The book hid a small prank made specifically for office workers: it had a fake cover. On the surface it said _Can I Not Go to Work?_, but there was another layer underneath. This Easter egg design, a “version for the supervisor to see,” was itself part of the shared understanding this generation had about office culture.[^12] The book sold more than 100,000 copies in Taiwan in its first year.[^12] By 2007, the three volumes of her doodle diary series had sold around 400,000 copies combined.[^3] (The frequently seen online claim that “sales across Asia exceeded one million copies” is actually a conflation: the million-copy figure was a later cumulative total across multiple volumes in the Greater China market, not the number for a single book.)
 
-[^19]: [Coolloud: Who Owes Wanwan an Apology? (2014)](https://www.coolloud.org.tw/node/78976) — Reflective commentary at the time on the culture of online moral judgment
+Her books, moreover, were almost published in step with her own life.[^23] The earliest ones were tied to the office and school: _6868, Let’s Skip Work Together_ and _Can I Not Go to School?_ wrote about the version of her who was still an office worker and still collapsing under pressure. Then the camera followed her outward: _Can I Go Out and Play Every Day?_ and _Europe, Have You Gone Yet?_ were about travel and life. Later came _Oh My God! This Is How I Became a Mom_, _Can We Stay Together Forever: Wanwan’s Pet Diary_, and _Wanwan’s Dessert Notes_; the bald figure began holding a child, raising cats and dogs, and baking desserts. If you line up these book covers one by one, it is like watching that bald figure accompany the person who drew it as she slowly grew from an office worker who wanted to get off work into a mother.
 
-[^20]: [Threads: Wanwan Is One of the Taiwanese Illustrators I Greatly Admire (2025)](https://www.threads.com/@sonny.1966_123/post/DRW2NWZD54t/) — Discussion reevaluating Wanwan's role ten years after the incident
+![Traditional Chinese covers of some of Wanwan’s books](/article-images/people/wanwan-books.webp)
+_From left: \_Oh My God! This Is How I Became a Mom_, _Can We Stay Together Forever: Wanwan’s Pet Diary_, and _Wanwan’s Dessert Notes_. Her bibliography is almost a timeline of her life. — Fair use: critical use of Wanwan book covers\_
 
-[^21]: [Mirror Media: Interview with Wanwan (2020)](https://www.mirrormedia.mg/story/20200520ent001/) — Post-storm comeback interview and her statement that "the old Wanwan is already dead"
+She then became “Taiwan’s first blogger to appear in a television commercial.”[^13] She also moved into film: in the 2011 movie _You Are the Apple of My Eye_, the character she played was simply named “Hu Chia-wei” — she played herself. In an interview, she said: “Actually, my role in this drama is also playing Wanwan. I just have to improvise freely; the personality in the drama is exactly the same as mine.”[^14] Between fiction and reality, what she played was “Wanwan,” who had already existed on computer screens across Taiwan.
 
-[^22]: [Wan Wan Official Facebook Fan Page](https://www.facebook.com/cwwany.tw/) — Official page for her current creative platform and recent updates
+What carried this commercial path into the next era was LINE stickers. On December 24, 2013, Christmas Eve, LINE Taiwan released paid sticker sets by Wanwan and another illustrator, cherng, also known as the Malayan tapir, at half price. The two were the first wave of Taiwanese illustrators to appear in the Sticker Shop.[^15] The date is symbolic: as the office’s emotional outlet evolved from MSN profile pictures into LINE stickers on mobile phones, Wanwan once again stood at the entrance. This time, however, there was also a name from the next generation standing beside her.
 
-[^23]: [Wan Wan Official Instagram Account](https://www.instagram.com/cwwany.tw/) — Official account serving as her main venue for parenting and daily-life sharing
+> 📝 **Curator’s note:** Listing magnets, books, commercials, films, and stickers can easily read like “an entertainer’s endorsement record.” But underneath that list was a quieter proposition being tested: before Wanwan, Taiwan’s default social imagination of “drawing” probably still stopped at “hobby,” “talent,” or “something very hard to make a living from.” What she did was overturn that assumption for everyone to see: a design assistant who had not gone to university and had run errands on construction sites could support herself simply by drawing her everyday life, and even help sustain a publishing genre along the way. For everyone who later wanted to make a living from creative work, she first answered half of the most practical question: “Will this road leave me starving?”
 
-[^24]: [Wanwan Official Instagram: Sharing Back-End Library Borrowing-Rate Data (2026)](https://www.instagram.com/p/DW6SufFEkZw/) — 2026 library borrowing data showing that older works still have cross-generational influence
+## From MSN to WEBTOON: She Spanned Every Platform Generation
+
+When you lay out Wanwan’s twenty years, one thing becomes clear that very few creators have achieved: she stood at the entrance of almost every platform generation for illustrated content in Taiwan.
+
+```tw-timeline
+2002 | MSN profile pictures | In an era before stickers, the bald figure spoke for office workers
+2004 | Wretch breaks records | She “tried out” blogging while chasing Giddens Ko and unexpectedly became the founder of illustrated online writing
+2013 | LINE stickers released the same day as cherng’s | From the blog era into the paid licensing era of mobile messaging apps
+2020 | A gentle exit for the character | “The old Wanwan is already dead,” letting the character grow up together with her
+```
+
+First came MSN profile pictures, around 2002. Then came the golden age of blogs on Wretch and PIXNET, beginning in 2004; then the rise of Facebook fan pages, the paid era of LINE stickers, and later the vertically scrolling, algorithm-driven worlds of WEBTOON and Instagram. LINE WEBTOON called her a “senior figure in the illustrated-content world.”[^16] In 2014, _Business Weekly_ published an article titled “Bye-bye, Wanwan? If You Don’t Know Them, You’re Outdated! The Top 10 Latest Viral Online Illustrators.”[^17] The title used “Bye-bye, Wanwan?” as its framing question to introduce rising figures such as Duncan, Bye Bye Chu Chu, and cherng. In other words, when the media wanted to explain who the “new generation” was, they first had to use Wanwan as the point of origin. She was the “before.”
+
+![Wanwan LINE sticker, “I love my job”](/article-images/people/wanwan-line-sticker.webp)
+_From MSN profile pictures to LINE stickers, the bald figure changed platforms, but the line was still the same irony: “I love my job.”[^24] — Fair use: work by Wanwan (LINE sticker)_
+
+For this platform transformation across twenty years, Wanwan herself once gave the best analogy I have seen. She compared the difference between the blog era and the social-media era: “Blogs used to be very much like a library. Once you built it and organized your collections and works, everyone would rush in to see your work. Now it feels like handing out flyers. You have to hand them out one by one, and then see whether people accept them.”[^18] She continued: “So I think creators now have many opportunities, but it is also harder.”[^18]
+
+The analogy is precise because she stood at both ends. She built that “library” where, once it was built, people came on their own: the golden age of blogs, when 100 million views rolled in by themselves. She also lived into the algorithmic age in which one must “hand out flyers” one by one. Only someone who had crossed both eras could make a comparison with that kind of lived warmth.
+
+> 📝 **Curator’s note:** The common phrasing often places Wanwan among “the tears of the Wretch era,” as if she were a name eliminated by the times and left in the past. But that frame gets the cause and effect backward. She was not someone trapped by a single platform and sunk along with it. Quite the opposite: she was one of the few who still stood at the entrance every time platforms changed dynasties — MSN, Wretch, LINE, WEBTOON; she missed none of them. What truly allowed her and the symbol of “Wanwan” to slowly pull apart was that she herself moved into another life stage: from an office worker in her twenties into a mother. Platforms become outdated, but the decision to let the character exit was one she actively made.
+
+## The Character Does Not Age; the Person Who Draws It Does
+
+This brings us to the quietest and most moving choice in the whole story.
+
+The character “Wanwan” was designed to be forever innocent and forever ageless. But Hu Chia-wei, the person who draws it, grows up, grows tired, and experiences the various stages of life. In 2020, in an interview with _Mirror Media_, she said a line that was later quoted again and again: “I think… the old Wanwan is already dead.”[^19]
+
+That sentence sounds like a farewell, but it is actually a form of honesty. She explained: “The character has grown along with me. After all, I am almost entering my forties now, and I started creating in my twenties, so my personality and thoughts at that time, and the angle from which I looked at things, are completely different from now.”[^19] She said her current work “probably will not be as innocent or as fierce as before; now it is more practical and more focused on parent-child themes, because that is my life now.”[^19] Wanwan became a mother because she herself became a mother.
+
+It is also worth noting that in these years she quietly walked through public scrutiny. In 2014, her private life was reported by a weekly magazine, triggering a wave of public gawking and moral judgment. But even then, there was more than one voice within Taiwanese society: commentators at Coolloud and _Business Weekly_ turned the question around, asking what a creator’s private life had to do with “the public,” and on what grounds we required her to apologize to “the public.”[^20] The _Business Weekly_ piece cited Judicial Yuan Interpretation No. 689, arguing that news reporting should be limited by public interest.[^20] These voices are worth recording because they moved the question away from her and back to us: how should we treat a creator we once liked and whose work once held our emotions? That page soon turned; she returned to the drawing table and continued drawing the life she was now living.
+
+She sees her own personality very clearly. Asked why she did not, at the height of her popularity, build a team and scale up the “Wanwan” IP, she answered frankly: “I have always emphasized that my personality is just this… lacking in ambition. If I had really been ambitious, I would have built a team back then and developed this IP properly.”[^21] Asked, “What if one day Wanwan is no longer popular?” her answer carried a relaxed lightness: “Oh, that’s fine. I’ll sell fried chicken cutlets in the future.”[^21]
+
+![Portrait of Wanwan (Hu Chia-wei)](/article-images/people/wanwan-portrait.webp)
+_Wanwan (Hu Chia-wei). — Photo: chungkeng ryu / Wikimedia Commons, CC BY-SA 2.0_
+
+It was precisely this “lack of ambition” that led her to make a decision completely contrary to commercial logic: she did not intend to treat “Wanwan” as a brand that could be extended indefinitely and sold until the end of time. She wanted the character to stop together with her.
+
+## It Once Shouted for a Generation; Now It Has Become That Generation’s Childhood
+
+“I will not let the character continue forever. When I die, he dies; he exists together with me,” Wanwan said. “He will become a… historical figure, I suppose! People will think, in the early 2000s there was a character like ‘Wanwan’; it was our memory, our childhood. I think that would make life complete.”[^22]
+
+In an era when every IP desperately wants to be “evergreen,” to be continued, to become a universe, it is almost a countercurrent act for a creator to say, “I want to let my character become a historical figure.” But this is precisely the deepest layer of the relationship between Wanwan and that bald figure: she does not treat it as a goose that lays golden eggs. She treats it as a youth that she and an entire generation once shared, and the dignity of youth lies precisely in the fact that it ends.
+
+Return to the opening scene. The office worker who did not dare speak to his boss, the bald figure set as an MSN profile picture with the caption “I want to get off work.” It will never age, because it is only a line, a cowlick, and a sentence from the heart. But the people it spoke for — that whole generation of Taiwanese office workers in cubicles, busy, sleepy, sad, tired, annoyed, and idle — have already grown up. Some have also become parents; some are also approaching forty, just like Hu Chia-wei, who drew it.
+
+The bald figure will not remember whom it once worked overtime for, or for whom it shouted the desire to get off work. But those people remember. We once entrusted our unspeakable fatigue to that naked little figure, and that fatigue, that desire to be understood, was real. Wanwan’s final choice to let the character gently exit is precisely because it had already completed its task: it accompanied a generation through a stretch of life and then, as its creator put it, “became a historical figure,” remaining in our memories and in our childhood.
+
+## Image Sources
+
+**Wikimedia Commons (CC licensed):**
+
+- [2008 Taipei International Book Exhibition (UDN booth)](https://commons.wikimedia.org/wiki/File:2008TIBE_Day4_UDNonline_CWWany.jpg) — Rico Shen, CC BY-SA 3.0
+- [2007 Global Chinese Blog Award](https://commons.wikimedia.org/wiki/File:2007GlobalChineseBlogAward_CWWany.jpg) — Rico Shen, CC BY-SA 3.0
+- [Portrait of Wanwan (Hu Chia-wei)](<https://commons.wikimedia.org/wiki/File:%E5%BD%8E%E5%BD%8E_(cropped).jpg>) — chungkeng ryu, CC BY-SA 2.0
+
+**Works by Wanwan (Fair use, critical use):** The following are editorial and critical quotations of Wanwan’s creative work itself; copyright in the bald-figure profile pictures, book covers, and LINE stickers belongs to Wanwan (Hu Chia-wei).
+
+- Bald-figure “tired” and “joy” profile pictures — image source: [Taiwan Panorama 2006](https://www.taiwan-panorama.com/Articles/Details?Guid=56a77c78-1d03-432d-8a42-be52ae96840b)
+- Traditional Chinese book covers (_Oh My God! This Is How I Became a Mom_, _Can We Stay Together Forever: Wanwan’s Pet Diary_, _Wanwan’s Dessert Notes_) — [Books.com.tw author page](https://search.books.com.tw/search/query/key/%E5%BD%8E%E5%BD%8E/adv_author/1/)
+- LINE sticker “I love my job” — [LINE STORE](https://store.line.me/stickershop/product/29304)
+
+## References
+
+[^1]: [Wretch Illustrated-Writer Founder “Wanwan” Hu Chia-wei — UDN Time (United Daily News)](https://time.udn.com/udntime/story/122390/7291325) — A United Daily News digital-archive retrospective on how Wanwan began with office-mood profile pictures such as “busy, sleepy, sad, tired, annoyed, idle,” and came to be regarded as the founding Wretch illustrated writer.
+
+[^2]: [Wanwan Interview 1 — Mirror Media, 2020-12-08](https://www.mirrormedia.mg/story/20201208insight003) — Wanwan describes her character as “innocent, cute, silly, with one curled hair on its head, and no clothes,” and pokes fun at her early drawings as “ugly, all crooked, and with recognizability way too low.”
+
+[^3]: [Passion Plus Focus: Drawing a Net Worth in the Tens of Millions Outside the Classroom — Global Views Monthly, 2007-11-01](https://www.gvm.com.tw/article/47682) — Records Wanwan’s first job after graduating from Fu-Hsin Trade and Arts School as a design assistant earning NT$9,000 a month, “rolling around on construction sites,” and feeling “confusion in which she could not see a way forward,” as well as the description of her at age 26 as having a “net worth in the tens of millions,” the combined sales of around 400,000 copies for the three volumes of her doodle diaries, and her line that “drawing… is a straight road.”
+
+[^4]: [Old Ho’s Blog (reposted media interview) — PIXNET](https://hsienhsing.pixnet.net/blog/post/49880331) — Includes Wanwan’s own account that while working at a game company she was “very bored, and the weather was very hot,” so she drew small images and placed them on MSN, unexpectedly becoming very popular and used by many people.
+
+[^5]: [Popular Blog Writer: Wanwan — Taiwan Panorama, 2006-09](https://www.taiwan-panorama.com/Articles/Details?Guid=56a77c78-1d03-432d-8a42-be52ae96840b) — Reveals that Wanwan initially tried the blog function “on the side” because she wanted to read the online writer Giddens Ko’s work on Wretch, and records her attitude toward large-scale unauthorized reposting.
+
+[^6]: [Taiwan’s Largest Blog “Wanwan” About to Break 100 Million Views — MR.6 (Liu Wei-lin), 2007-05-15](https://mr6.cc/?p=861) — Records that Wanwan’s blog had around 20 million views by the end of 2005 and reached 40 million in early summer 2006, while predicting that it would soon break 100 million.
+
+[^7]: [Thanks, Everyone, for Breaking 100 Million~ — Wanwan’s own PIXNET blog, 2007-07-27](https://cwwany.pixnet.net/blog/posts/32583747) — Wanwan’s thank-you post published the day after her blog surpassed 100 million views (2007-07-26), a primary record of Taiwan’s first blog to reach 100 million.
+
+[^8]: [Wanwan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BD%8E%E5%BD%8E) — Summarizes Wanwan’s titles such as “blog queen” and “Goddess Wan,” as well as the description of her industry influence: “Because of Wanwan’s successful experience, many Taiwanese illustrated-content creators began emerging in large numbers using blogs as their medium.”
+
+[^9]: [Wretch Illustrated-Writer Founder “Wanwan” Hu Chia-wei — UDN Time (United Daily News)](https://time.udn.com/udntime/story/122390/7291325) — The United Daily News digital archive directly calls Wanwan the “founding Wretch illustrated writer.”
+
+[^10]: [FamilyMart Wanwan Magnets Price Comparison — BigGo Secondhand Market](https://biggo.com.tw/s/%E5%BD%8E%E5%BD%8E%E7%A3%81%E9%90%B5/) — FamilyMart “Wanwan A-Z English letter block magnets” still circulating on secondhand markets, often labeled “out of print” or “collectible,” corroborating their status as objects of period memory from the points campaign. The “tens of millions” distribution figure is relayed secondhand, with no primary official number.
+
+[^11]: [_Can I Not Go to Work? — Wanwan’s Doodle Diary 1_ — Books.com.tw](https://www.books.com.tw/products/0010309990) — Publication information and book description for Wanwan’s first book, _Can I Not Go to Work? — Wanwan’s Doodle Diary 1_, published by Planet Self-Rotation in 2005.
+
+[^12]: [Popular Blog Writer: Wanwan — Taiwan Panorama, 2006-09](https://www.taiwan-panorama.com/Articles/Details?Guid=56a77c78-1d03-432d-8a42-be52ae96840b) — Records that _Can I Not Go to Work?_ sold more than 100,000 copies in its first year, and details the Easter egg design of a “fake cover for supervisors.”
+
+[^13]: [Wanwan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BD%8E%E5%BD%8E) — Records Wanwan as “Taiwan’s first blogger to shoot a television commercial (Taiwan Fixed Network’s Wanwan spot) and even cross over into film.”
+
+[^14]: [Wanwan Discusses Her Performance in _You Are the Apple of My Eye_ — TVBS News](https://news.tvbs.com.tw/entertainment/534317) — Wanwan says in an interview that in _You Are the Apple of My Eye_ she played “the character Wanwan,” that she “just had to improvise freely,” and that “the personality in the drama is exactly the same as mine.”
+
+[^15]: [Taiwan’s First Wave of Sticker Shop Illustrators cherng & Wanwan Go Live — LINE Taiwan Official Blog, 2013-12-24](https://line-tw-official.weblog.to/archives/35879068.html) — LINE officially announced cherng and Wanwan as the first wave of Taiwanese illustrators to appear in the paid Sticker Shop, with half-price sales beginning on Christmas Eve, December 24, 2013.
+
+[^16]: [Wanwan Works Collection — LINE WEBTOON](https://www.webtoons.com/zh-hant/collection/wanwan/48) — LINE WEBTOON calls Wanwan a “senior figure in the illustrated-content world” and recommends her works.
+
+[^17]: [Bye-bye, Wanwan? If You Don’t Know Them, You’re Outdated! The Top 10 Latest Viral Online Illustrators — Business Weekly, 2014-08-21](https://www.businessweekly.com.tw/style/blog/8999) — Uses “Bye-bye, Wanwan?” as the title frame to introduce new-generation illustrators such as Duncan, Bye Bye Chu Chu, and cherng, indirectly confirming Wanwan’s position as a pioneering point of reference.
+
+[^18]: [Wanwan Interview 2 — Mirror Media, 2020-12-08](https://www.mirrormedia.mg/story/20201208insight004) — Wanwan contrasts the two eras by saying blogs were like “libraries” where people rushed in once they were built, while social media is like “handing out flyers” one by one, and notes that today’s creators have many opportunities but also face harder work.
+
+[^19]: [Wanwan Interview 3 — Mirror Media, 2020-12-08](https://www.mirrormedia.mg/story/20201208insight005) — Includes Wanwan’s comments that “the old Wanwan is already dead,” “the character has grown along with me,” and that her work is now more practical and focused on parent-child themes.
+
+[^20]: [What Does Wanwan’s Affair Have to Do with Us? — Business Weekly](https://www.businessweekly.com.tw/focus/blog/8035) — A commentary citing Judicial Yuan Interpretation No. 689 to argue that news reporting should be limited by public interest, questioning the public-interest connection between a creator’s private life and society at large. Together with Coolloud’s “Who Owes Wanwan an Apology?”, it represents a voice reflecting on society’s excessive moral judgment.
+
+[^21]: [Wanwan Interview 3 — Mirror Media, 2020-12-08](https://www.mirrormedia.mg/story/20201208insight005) — Wanwan says of herself, “My personality is just this… lacking in ambition”; if she had been ambitious, she would have built a team and developed the IP properly, and she answers that she could “sell fried chicken cutlets in the future.”
+
+[^22]: [Wanwan Interview 3 — Mirror Media, 2020-12-08](https://www.mirrormedia.mg/story/20201208insight005) — Wanwan’s closing line: “When I die, he dies… he will become, I suppose, a historical figure. People will think that in the early 2000s there was a character like ‘Wanwan’; it was our memory, our childhood… life would be complete.”
+
+[^23]: [Books.com.tw Online Bookstore: Author — Wanwan](https://search.books.com.tw/search/query/key/%E5%BD%8E%E5%BD%8E/adv_author/1/) — Wanwan’s publication list over the years, showing how the themes of her books evolved from office workers, school, and travel to parent-child life, pets, and desserts, in sync with her own life stages.
+
+[^24]: [Wanwan LINE Sticker “I Love My Job” — LINE STORE](https://store.line.me/stickershop/product/29304) — One of the works with which Wanwan brought the bald figure into the LINE sticker era, continuing the office-worker irony of her MSN profile pictures.
+
+**Further Reading:**
+
+- [Wretch: The Taiwanese Social Network That Came Before Facebook](/culture/無名小站)
+- [A History of Taiwan’s Online Community Migration](/technology/台灣網路社群遷徙史)
+- [Taiwanese Memes](/culture/台灣迷因)
+- [Dcard](/culture/Dcard)
+- [Rainie Yang](/people/楊丞琳)
