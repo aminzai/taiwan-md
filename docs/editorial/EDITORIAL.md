@@ -3,9 +3,9 @@ title: 'EDITORIAL'
 description: '怎麼把素材寫成一篇有溫度的台灣文章'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v6.12'
-last_updated: 2026-06-15
-last_session: '2026-06-15-221747-manifesto-hope'
+current_version: 'v6.13'
+last_updated: 2026-06-29
+last_session: '2026-06-29-twmd-rewrite-彎彎'
 benchmark: '報導者（The Reporter）深度報導品質標準'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
@@ -1017,6 +1017,25 @@ WebFetch 工具對中文網站經常返回**英文 paraphrase 而非中文原文
 
 **單一判準句**：如果當事者／遺族讀到這段，是感受到**一個記者或紀錄片導演的嚴肅對待**（紀實），還是**一個想賺眼淚的媒體的靠近**（煽情）？
 
+### 不把在世者的私德爭議當脊椎（de-center，不只是 de-sensationalize）
+
+公審不只是「煽情地寫一個人的醜聞」。**把一個人的私領域道德爭議放成整篇的脊椎 / 標題 / anchor，即使寫得很節制、很同情，本身就是公審**——你還是用他最不堪的私事，定義了「他是誰」。上一節（高敏感邊界）管的是「怎麼寫敏感場景」（節制）；這一節管更上游的問題：**「這件事該不該是框架。」**
+
+對受愛戴 / 有真實貢獻的在世人物（呼應 [REWRITE Step 0.1.5 spine 類型](../pipelines/REWRITE-PIPELINE.md)）：
+
+- **脊椎是他真正的貢獻與意義**，不是他的私德爭議。一個圖文開山鼻祖的故事，脊椎是那個替一代人出聲的角色，不是她的婚姻。
+- **私德爭議若是公開事件，最多是一個按比例、節制的中段小節**，而且鏡頭對準「社會 / 我們怎麼對待他」，不是「他的私德對不對」。把鏡頭轉向公眾的反應＝反公審；把鏡頭停在他的失誤＝公審。
+- **私德爭議不進門面句**：標題 / description / 開場 / 結尾一律不碰。門面句是讀者記住「他是誰」的地方。
+
+**兩道判準**：
+
+1. 把標題和開場給當事人本人看——它是不是在用他最不堪的私事定義他？是 → 重訂脊椎。
+2. 私德爭議能不能完全移出標題 / description / 開場 / 結尾，只留中段一個按比例、鏡頭對準社會的小節？不能 → 砍到能為止。
+
+**這跟「照樣寫爭議」不衝突**：政策、貪腐、公職失能、公開言論這些**公領域**爭議照寫照深（那是公共利益）。本節打擊的是把**私領域**（婚姻、感情、家庭）的道德爭議當成定義一個人的框架。**公私之分是判準**：他是因為公職 / 公共行為被檢視，還是因為私生活被圍觀？後者預設 de-center。
+
+觸發：2026-06-29 彎彎 EVOLVE——初版把 2014 外遇風暴鎖成核心矛盾、寫進標題「卻在十二天內差點弄丟自己」，即使寫得節制，哲宇 callout「不要公審人家的私生活，那沒那麼重要」。跟金曲獎 v1（把 beloved 主題硬找矛盾寫成論戰）同源：beloved / 在世人物的脊椎不該是他的爭議。靠人判斷，無 plugin。
+
 ### 私有素材 × 公開文章的顆粒度
 
 寫人物 / 組織 / 專案深度文章時，經常會接觸到當事人**提供的私有 SSOT 素材**（Obsidian 筆記、個人編年史、家族往事、業界內情）。
@@ -1544,6 +1563,7 @@ _**Plugin self-reference note**：本檔跑 `prose-health` 會出現 ~25 warn �
 
 **最近 milestone**（完整 changelog → `git log docs/editorial/EDITORIAL.md`）：
 
+- **v6.13**（2026-06-29 彎彎 EVOLVE，哲宇 directive）— §七 紀實而不煽情 新增「不把在世者的私德爭議當脊椎（de-center，不只是 de-sensationalize）」：公審不只是煽情寫醜聞，把私領域道德爭議放成脊椎/標題/anchor 即使節制也是公審；受愛戴/在世人物脊椎是貢獻與意義，私德爭議最多按比例中段小節且鏡頭對準社會反應、不進門面句；公私之分是判準（公領域貪腐/失職照寫，私領域婚姻/感情 de-center）。觸發：彎彎初版把 2014 外遇鎖成核心矛盾+寫進標題，哲宇 callout「不要公審人家的私生活」。同源金曲獎 v1（beloved 題硬找矛盾）。
 - **v6.9**（2026-06-07 黃山料，哲宇 directive）— §三 Title 新增「抽象聰明句不是標題——精彩來自具體，不是繞口」原則：AI 易把核心矛盾壓成漂亮的抽象對仗／隱喻，每個關鍵詞都抽象 → 讀者問「什麼的 X？」看不懂；本質是 reverse-abstraction test 套到標題層（遮掉抽象詞後剩幾個具體名詞）。worked example＝本 session 黃山料標題 v1「拿世界冠軍的手藝沒人看見，他把『被看見』練成手藝」（哲宇 callout 看不懂）→ v2「世界冠軍的衣服沒人看，他改賣『一句話的安慰』」（衣服／當事人原話＝具體）。自檢：給沒讀過的人看，每個關鍵詞能不能指出具體所指；跟「不是內容農場」不衝突（農場靠聳動、我們靠具體）。觸發：黃山料 Stage 2 標題 v1 抽象被 callout。
 - **v6.8**（2026-06-07 複雜生活節，哲宇 live review）— 三個閱讀品質儀器化：(1) §段落呼吸「三條呼吸鐵律」→「四條」新增 **R4 單段 ≤ 280 字（牆／窒息感）**，R1 抓太短／原子化、R4 抓對稱的太長／牆（校準：好範本 max 黑冠麻鷺 149 / 天下 217，牆 複雜順稿前 341 / 設研院 312），`paragraph-rhythm` R4 catch；(2) §歐化語法 七病→**八病**新增「**是 X 的判斷句**」（「這個選址不是隨便的」→「不隨便」），`prose-health` curated 評價形容詞 catch（避開合法「是我的／是教書的」）；(3) §媒體編織 + REWRITE Step 4.3.6 **caption 缺空行** check（`</div>` 緊接 `_caption_` 不 render italic），`image-health` catch。觸發：複雜生活節 live review 讀到窒息 + 影片 caption 底線變字面 + 歐化句。dogfood 0 false-positive on 範本、catch 複雜 1 漏網歐化（界線是模糊的）
 - **v6.7**（2026-06-07 複雜生活節）— §媒體編織 媒體完整度低標提升（哲宇 directive「以複雜生活節規格為標準，提升低標」）：§儀器 note 升級 v6.8 三 plugin 門檻（image-health length-scaled HARD `max(3, round(prose-CJK/1200))` / paragraph-rhythm floor 0.7→0.8 / media-richness 靜態圖 2→3 + 影片 INFO→WARN）+ 最大槓桿 = REWRITE Step 1.9.0 深度媒體掃描協議（Chrome MCP rendered-DOM + YouTube 官方頻道，no-media 結論前必跑）。「找不到媒體」例外改為「跑完深掃才成立」。canonical 數值在 REWRITE-PIPELINE v6.8。dogfood：複雜 13/設研院 5/黃魚鴞 3 範本全過、text-only 失格
