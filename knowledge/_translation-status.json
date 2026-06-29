@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-29T06:11:37+08:00",
-    "zhCommitHead": "e351736f6",
-    "totalZh": 828,
+    "lastUpdated": "2026-06-29T23:09:53+08:00",
+    "zhCommitHead": "5eabf7549",
+    "totalZh": 830,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
-        "total_zh": 828,
-        "fresh": 828,
-        "stale": 0,
+        "total_zh": 830,
+        "fresh": 827,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 2,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 828,
-        "fresh": 828,
-        "stale": 0,
+        "total_zh": 830,
+        "fresh": 827,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 2,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 828,
-        "fresh": 828,
-        "stale": 0,
+        "total_zh": 830,
+        "fresh": 827,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 2,
         "orphan": 0
       },
       "es": {
-        "total_zh": 828,
-        "fresh": 828,
-        "stale": 0,
+        "total_zh": 830,
+        "fresh": 827,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 2,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 828,
-        "fresh": 828,
-        "stale": 0,
+        "total_zh": 830,
+        "fresh": 827,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 2,
         "orphan": 0
       }
     },
@@ -42377,10 +42377,10 @@
     },
     "People/彎彎.md": {
       "zh": {
-        "lastCommit": "3a886985",
-        "lastModified": "2026-06-15T08:47:17+08:00",
-        "contentHash": "sha256:f35eb28f8060b6fb",
-        "bodyHash": "sha256:7e022b5d41253912"
+        "lastCommit": "7b817df1",
+        "lastModified": "2026-06-29T15:33:26+08:00",
+        "contentHash": "sha256:c76ceb95afe3d363",
+        "bodyHash": "sha256:95ff72d4c67126fd"
       },
       "translations": {
         "en": {
@@ -42394,8 +42394,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 3,
+          "diffSummary": "+178 -47"
         },
         "ja": {
           "path": "ja/People/wanwan-taiwan-blog-cartoonist.md",
@@ -42408,8 +42410,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 3,
+          "diffSummary": "+178 -47"
         },
         "ko": {
           "path": "ko/People/wanwan-taiwan-blog-cartoonist.md",
@@ -42422,8 +42426,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 3,
+          "diffSummary": "+178 -47"
         },
         "es": {
           "path": "es/People/wanwan-taiwan-blog-cartoonist.md",
@@ -42436,8 +42442,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 3,
+          "diffSummary": "+178 -47"
         },
         "fr": {
           "path": "fr/People/wanwan-taiwan-blog-cartoonist.md",
@@ -42450,8 +42458,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 3,
+          "diffSummary": "+178 -47"
         }
       }
     },
@@ -49572,6 +49582,31 @@
           "footnoteDefs": 70,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Food/飯糰.md": {
+      "zh": {
+        "lastCommit": "70c09b92",
+        "lastModified": "2026-06-29T08:47:49+08:00",
+        "contentHash": "sha256:9504291a64409206",
+        "bodyHash": "sha256:fd7a2d45f0c2514e"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -65572,6 +65607,31 @@
           "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Culture/台灣吧.md": {
+      "zh": {
+        "lastCommit": "70c09b92",
+        "lastModified": "2026-06-29T08:47:49+08:00",
+        "contentHash": "sha256:309485da1048c534",
+        "bodyHash": "sha256:ab22f8e268664ba4"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },

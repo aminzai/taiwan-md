@@ -1,7 +1,153 @@
 {
-  "generatedAt": "2026-06-28T22:11:41.456Z",
+  "generatedAt": "2026-06-29T15:09:56.959Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "5eabf75494c7629fba716b5606f00093d6150deb",
+      "date": "2026-06-29T22:05:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-29-220323-twmd-maintainer-pm — 22:00 cron empty PR queue vc=1 post-6/28-active saturation-day stochastic",
+      "articles": []
+    },
+    {
+      "hash": "17c0fa4efc91c9ed92c9c187949bb55c10c576b2",
+      "date": "2026-06-29T19:13:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite-daily: 18:00 fire DEFER — recency 3h36m + DNA cooldown 兩 family signal 同步命中",
+      "articles": []
+    },
+    {
+      "hash": "7b817df18ab222f2169101f2393c2eac2a4e5756",
+      "date": "2026-06-29T15:33:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 2026-06-29 彎彎 反芻 — 守著不煽情卻沒問該不該是主角 + relatedDiary 回扣",
+      "articles": [
+        {
+          "url": "/people/彎彎",
+          "name": "彎彎"
+        }
+      ]
+    },
+    {
+      "hash": "bddd136ea607be944fa764d6b0196577a99bacfc",
+      "date": "2026-06-29T15:25:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-06-29-152120-twmd-rewrite-彎彎 — 彎彎 EVOLVE de-center 重構 + EDITORIAL v6.13 DNA + fair-use 增厚",
+      "articles": []
+    },
+    {
+      "hash": "79925ee31976467e678d5c723478c4009a01ceb8",
+      "date": "2026-06-29T15:16:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 彎彎 補光頭人本尊 + 書封 + 貼圖（fair use）增厚介紹性",
+      "articles": [
+        {
+          "url": "/people/彎彎",
+          "name": "彎彎"
+        }
+      ]
+    },
+    {
+      "hash": "255750474aede292ff4defa065cb8579ff6b5813",
+      "date": "2026-06-29T12:41:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 彎彎 EVOLVE 從外遇框架改寫成「光頭人替一代人出聲」",
+      "articles": [
+        {
+          "url": "/people/彎彎",
+          "name": "彎彎"
+        }
+      ]
+    },
+    {
+      "hash": "1fc2a98f28ead679faa0e0ef518a10b2be884226",
+      "date": "2026-06-29T12:41:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: EDITORIAL v6.13 立「不把在世者私德爭議當脊椎」DNA",
+      "articles": []
+    },
+    {
+      "hash": "5c04977870bf2b33c65324527e607cf04da963d6",
+      "date": "2026-06-29T08:50:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-29-084447-twmd-maintainer-am — idlccp1984 連 7 PR 第 6/7 同梱 ship + 累積式 cheat sheet 首試",
+      "articles": []
+    },
+    {
+      "hash": "70c09b92feb4ffb08d62a891a81eafcbbd1749e8",
+      "date": "2026-06-29T08:47:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 飯糰 + 台灣吧 post-merge — frontmatter subcategory/featured + 32 footnote canonical + 飯糰 H2 參考資料",
+      "articles": [
+        {
+          "url": "/culture/台灣吧",
+          "name": "台灣吧"
+        },
+        {
+          "url": "/food/飯糰",
+          "name": "飯糰"
+        }
+      ]
+    },
+    {
+      "hash": "25f5da51908984e66824fea47b54490ab5c26d34",
+      "date": "2026-06-29T08:46:25+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台灣吧.md (#1183)",
+      "articles": [
+        {
+          "url": "/culture/台灣吧",
+          "name": "台灣吧"
+        }
+      ]
+    },
+    {
+      "hash": "e490cc01ebb15e6240f13e095475beaaad4cb72f",
+      "date": "2026-06-29T08:46:22+08:00",
+      "author": "idlccp1984",
+      "message": "Create 飯糰.md (#1182)",
+      "articles": [
+        {
+          "url": "/food/飯糰",
+          "name": "飯糰"
+        }
+      ]
+    },
+    {
+      "hash": "0de7e50effbc0a88ccffcc59ed12ab5ae865291e",
+      "date": "2026-06-29T07:09:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-29-070800-twmd-feedback-triage — 07:00 full no-op 連 10 cycle，input/output 雙軌同時靜止連 2 天，backend 可達 HG8 守 gate 三條全綠",
+      "articles": []
+    },
+    {
+      "hash": "7b63f53b8f6672baa70c0b2940ac766115f66155",
+      "date": "2026-06-29T06:48:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-29-064347-twmd-spore-harvest-am — 10 events + qooqoo.pai reply ship 揭 Pitfall 8 candidate",
+      "articles": []
+    },
+    {
+      "hash": "9e106ce5e83deed3d348959882013e9dc0df0386",
+      "date": "2026-06-29T06:46:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 10 events + 1 qooqoo.pai reply ship — 2026-06-29",
+      "articles": []
+    },
+    {
+      "hash": "91ad25b5a7bef4d59d0743971d624a93fe7164a1",
+      "date": "2026-06-29T06:16:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-29-061344-twmd-data-refresh-am — am 14-step 全綠 CF 404 9.14% mature 後首個 pm→am 微回升",
+      "articles": []
+    },
+    {
+      "hash": "4a514552fe9806b4a3ed1a1cc59e092ee326ab02",
+      "date": "2026-06-29T06:13:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: am 14-step ground truth — CF 404 9.14% 跌破雙位數第 7 cycle，babel 5 lang 各 +1，plugin_health 32 細粒度退化",
+      "articles": []
+    },
     {
       "hash": "e351736f64829eaf8f89db6cfd23b4fa02c73d41",
       "date": "2026-06-29T05:08:54+08:00",

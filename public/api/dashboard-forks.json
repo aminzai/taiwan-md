@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28",
+  "lastUpdated": "2026-06-29",
   "totalDetected": 8,
   "publicConfirmed": 5,
   "privateOrUnconfirmed": 3,
@@ -24,7 +24,7 @@
       "cognitiveLayer": "yes",
       "health": "semi-active",
       "firstSeen": "2026-04",
-      "views365d": 1151
+      "views365d": 1155
     },
     {
       "label": "HongKong.md",

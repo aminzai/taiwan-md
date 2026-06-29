@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-06-28T22:11:40Z",
-  "total": 828,
-  "flagged": 332,
+  "timestamp": "2026-06-29T15:09:56Z",
+  "total": 830,
+  "flagged": 331,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -1043,11 +1043,6 @@
       "file": "people/李珠珢.md",
       "score": 5,
       "reasons": "未人工審核; 塑膠句3個; 稀薄段落×6"
-    },
-    {
-      "file": "people/彎彎.md",
-      "score": 4,
-      "reasons": "未人工審核; 塑膠句1個; 教科書開場"
     },
     {
       "file": "people/Ray.md",

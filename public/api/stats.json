@@ -1,8 +1,8 @@
 {
-  "totalArticles": 4975,
+  "totalArticles": 4977,
   "totalCategories": 20,
   "estimatedContributors": 61,
-  "totalTags": 6096,
+  "totalTags": 6102,
   "categories": [
     {
       "name": "es",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Culture",
-      "count": 66
+      "count": 67
     },
     {
       "name": "People",
@@ -54,7 +54,7 @@
     },
     {
       "name": "Food",
-      "count": 56
+      "count": 57
     },
     {
       "name": "Geography",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4975,
+    "zh-TW": 4977,
     "en": 0
   },
-  "lastUpdated": "2026-06-28T22:11:39.628Z",
-  "stars": 1083,
+  "lastUpdated": "2026-06-29T15:09:55.259Z",
+  "stars": 1082,
   "forks": 156,
-  "zhPages": 826,
+  "zhPages": 828,
   "enPages": 833,
-  "totalPages": 826
+  "totalPages": 828
 }
