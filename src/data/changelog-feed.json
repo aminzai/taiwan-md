@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-06-29T15:09:56.959Z",
+  "generatedAt": "2026-06-29T22:12:02.611Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "4d2674f03b06387a352f44f7342962d19ca272a9",
+      "date": "2026-06-30T05:08:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-30-050736-twmd-embeddings-nightly — embedding 連 13 夜 fleet-down graceful skip",
+      "articles": []
+    },
+    {
+      "hash": "2328008bcf765efb97d0ab6948b32a190e828fc9",
+      "date": "2026-06-30T00:51:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-30-004927-twmd-babel-nightly — babel 連 13 夜 stale=0",
+      "articles": []
+    },
+    {
+      "hash": "8172e875d6127958e91af02cada5240cd355884e",
+      "date": "2026-06-30T00:49:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: sync _translations.json — 15 新譯本入帳",
+      "articles": []
+    },
+    {
+      "hash": "2840c2702460c7175358774979eea45decd3ec6d",
+      "date": "2026-06-30T00:48:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 15 件 cascade ship 連 13 夜 stale=0",
+      "articles": []
+    },
+    {
+      "hash": "de46195f0c0949ee80cd087fe291cb4f99ca1fee",
+      "date": "2026-06-29T23:13:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-29-231128-twmd-data-refresh-pm — pm cron 14-step 全綠後寫兩條 single-cycle sensor delta（CF 404 pm +1.65pp / 免疫 50→48 narrow band 首破），都按 #76 紀律不升 vc 等 next cycle 區分",
+      "articles": []
+    },
+    {
+      "hash": "61d1fdfaca15f34a6c7520473440e9e1c0eb3b65",
+      "date": "2026-06-29T23:11:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth — CF 404 10.79% pm 重新跨回 10% 大關 vs am 9.14%（單日 +1.65pp 大幅回升）；🛡️免疫 50 chronic 第 6 cycle 後首破 narrow band 跌到 48，plugin_health 32 carry / external_rulers 3.7；vitals 826→828（+2 babel 連 12 夜入帳）；⭐1082；Step 11 freshness 12/12 fresh 連 36 cycle",
+      "articles": []
+    },
     {
       "hash": "5eabf75494c7629fba716b5606f00093d6150deb",
       "date": "2026-06-29T22:05:02+08:00",

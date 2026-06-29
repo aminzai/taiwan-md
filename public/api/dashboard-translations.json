@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T15:10:02.438Z",
+  "lastUpdated": "2026-06-29T22:12:08.015Z",
   "languages": [
     "zh-TW",
     "en",
@@ -18,64 +18,64 @@
       "deficit": 0
     },
     "en": {
-      "total": 828,
-      "percentage": 99.8,
-      "fresh": 827,
+      "total": 830,
+      "percentage": 100,
+      "fresh": 830,
       "metadataStale": 0,
-      "stale": 1,
-      "missing": 2,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.6
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "ja": {
-      "total": 828,
-      "percentage": 99.8,
-      "fresh": 827,
+      "total": 830,
+      "percentage": 100,
+      "fresh": 830,
       "metadataStale": 0,
-      "stale": 1,
-      "missing": 2,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.6
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "ko": {
-      "total": 828,
-      "percentage": 99.8,
-      "fresh": 827,
+      "total": 830,
+      "percentage": 100,
+      "fresh": 830,
       "metadataStale": 0,
-      "stale": 1,
-      "missing": 2,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.6
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "es": {
-      "total": 828,
-      "percentage": 99.8,
-      "fresh": 827,
+      "total": 830,
+      "percentage": 100,
+      "fresh": 830,
       "metadataStale": 0,
-      "stale": 1,
-      "missing": 2,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.6
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     },
     "fr": {
-      "total": 828,
-      "percentage": 99.8,
-      "fresh": 827,
+      "total": 830,
+      "percentage": 100,
+      "fresh": 830,
       "metadataStale": 0,
-      "stale": 1,
-      "missing": 2,
+      "stale": 0,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.6
+      "deficit": 0,
+      "freshPct": 100,
+      "bodyFreshPct": 100
     }
   },
   "matrix": {
@@ -158,39 +158,39 @@
     "culture": {
       "zh-TW": 67,
       "en": {
-        "count": 66,
-        "fresh": 66,
+        "count": 67,
+        "fresh": 67,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "ja": {
-        "count": 66,
-        "fresh": 66,
+        "count": 67,
+        "fresh": 67,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
-        "count": 66,
-        "fresh": 66,
+        "count": 67,
+        "fresh": 67,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "es": {
-        "count": 66,
-        "fresh": 66,
+        "count": 67,
+        "fresh": 67,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "fr": {
-        "count": 66,
-        "fresh": 66,
+        "count": 67,
+        "fresh": 67,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       }
     },
     "economy": {
@@ -234,39 +234,39 @@
     "food": {
       "zh-TW": 57,
       "en": {
-        "count": 56,
-        "fresh": 56,
+        "count": 57,
+        "fresh": 57,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "ja": {
-        "count": 56,
-        "fresh": 56,
+        "count": 57,
+        "fresh": 57,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
-        "count": 56,
-        "fresh": 56,
+        "count": 57,
+        "fresh": 57,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "es": {
-        "count": 56,
-        "fresh": 56,
+        "count": 57,
+        "fresh": 57,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "fr": {
-        "count": 56,
-        "fresh": 56,
+        "count": 57,
+        "fresh": 57,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       }
     },
     "geography": {
@@ -463,36 +463,36 @@
       "zh-TW": 233,
       "en": {
         "count": 233,
-        "fresh": 232,
-        "stale": 1,
+        "fresh": 233,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 233,
-        "fresh": 232,
-        "stale": 1,
+        "fresh": 233,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 233,
-        "fresh": 232,
-        "stale": 1,
+        "fresh": 233,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 233,
-        "fresh": 232,
-        "stale": 1,
+        "fresh": 233,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 233,
-        "fresh": 232,
-        "stale": 1,
+        "fresh": 233,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       }
@@ -612,28 +612,7 @@
       }
     }
   },
-  "missing": {
-    "en": [
-      "Culture/台灣吧：從七年級生的動畫夢到數位教育的下半場.md",
-      "Food/飯糰：從晨間的「安眠藥」到歐美爆紅的「台灣版捲餅」.md"
-    ],
-    "ja": [
-      "Culture/台灣吧：從七年級生的動畫夢到數位教育的下半場.md",
-      "Food/飯糰：從晨間的「安眠藥」到歐美爆紅的「台灣版捲餅」.md"
-    ],
-    "ko": [
-      "Culture/台灣吧：從七年級生的動畫夢到數位教育的下半場.md",
-      "Food/飯糰：從晨間的「安眠藥」到歐美爆紅的「台灣版捲餅」.md"
-    ],
-    "es": [
-      "Culture/台灣吧：從七年級生的動畫夢到數位教育的下半場.md",
-      "Food/飯糰：從晨間的「安眠藥」到歐美爆紅的「台灣版捲餅」.md"
-    ],
-    "fr": [
-      "Culture/台灣吧：從七年級生的動畫夢到數位教育的下半場.md",
-      "Food/飯糰：從晨間的「安眠藥」到歐美爆紅的「台灣版捲餅」.md"
-    ]
-  },
+  "missing": {},
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],

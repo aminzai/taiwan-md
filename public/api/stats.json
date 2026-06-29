@@ -1,28 +1,28 @@
 {
-  "totalArticles": 4977,
+  "totalArticles": 4987,
   "totalCategories": 20,
   "estimatedContributors": 61,
-  "totalTags": 6102,
+  "totalTags": 6100,
   "categories": [
     {
       "name": "es",
-      "count": 828
+      "count": 830
     },
     {
       "name": "ko",
-      "count": 829
+      "count": 831
     },
     {
       "name": "fr",
-      "count": 829
+      "count": 831
     },
     {
       "name": "en",
-      "count": 833
+      "count": 835
     },
     {
       "name": "ja",
-      "count": 828
+      "count": 830
     },
     {
       "name": "History",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4977,
+    "zh-TW": 4987,
     "en": 0
   },
-  "lastUpdated": "2026-06-29T15:09:55.259Z",
-  "stars": 1082,
+  "lastUpdated": "2026-06-29T22:12:00.921Z",
+  "stars": 1083,
   "forks": 156,
   "zhPages": 828,
-  "enPages": 833,
+  "enPages": 835,
   "totalPages": 828
 }
