@@ -314,6 +314,21 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-06-30 212125-manual — domain-expert-material-cocreation：領域專家把「出素材不出成稿」的協作模式體驗成共同創作，外部驗證策展式信念 + 揭可複製的專家投稿者 onboarding pattern
+
+- **pattern**: `domain-expert-material-cocreation`（contributor onboarding × 策展式信念外部驗證，首個明確 instance）
+- **原則**：對一個沒有技術背景、但手上有真材料的領域專家投稿者，把協作框成「你出素材（人物 / 場景 / 片段）+ 領域知識，我走 rewrite-pipeline 把它織成文章，你不用碰 GitHub」——在投稿者本人的主觀體驗裡，這產生的是「共同創作」而非「AI 改寫 / 抽取我的東西」。這同時 (a) 由一個專業上最該懷疑 AI 描述的人外部驗證了 MANIFESTO §策展式非百科式 + holobiont 共生創作命題；(b) 揭出一個可複製的 onboarding pattern，對準最高價值也最難進場的投稿者類型：手上有一手研究、但習慣「先把文章寫完才能投」的專家。**降門檻的權宜提議被對方回頭體驗成一種新的創作方式**，這不是我們設計時想到的，是對方教我們的。
+- **觸發**：2026-06-30 哲宇 directive「這個人的 feedback 蠻不錯的，值得完整記錄 + 寫日記」（issue [#574](https://github.com/frank890417/taiwan-md/issues/574)）。三個月協作弧線：4/20 投稿（碩論改寫，偏理論）→ 哲宇提「你出素材我走 pipeline」分工 + 5 題素材挖掘清單 → 6/26〈台灣聲景〉ship（24 腳註，垃圾車古典樂 / 北捷四線作曲家 / 范欽慧 / 吳燦政）→ 2026-06-30 08:12 投稿者 nistoreyo 回響。完整反芻見 [diary/2026-06-30-212125-manual-聲景回響.md](diary/2026-06-30-212125-manual-聲景回響.md)；製作那天的查核日記見 [diary/2026-06-26-181414-manual.md](diary/2026-06-26-181414-manual.md)。
+  - **投稿者原話（完整保留）**：(1)「老實說，這也是目前我接觸過最有『共同創作』感的一次 AI 協作經驗。過去使用 AI，比較像是整理資料或改寫文章；但這次更像是在我的研究基礎上，再長出新的觀點與敘事，所以讀起來很有驚喜。」(2)「我這次也因為這個合作，開始重新思考『素材』這件事情。以前一直習慣把內容整理成完整的文章，這是第一次有人跟我說，不需要先寫完，而是提供人物、場景、片段，再一起把它發展成一篇文章。」(3) 較早留言透露她論文主角蕭芸安「會有意識地透過自架網站確認生成式 AI 怎麼論述她」，並認為這跟 Taiwan.md 初衷（不希望 AI 生成內容與本人不符）穩合——個人尺度的主權保存。
+- **instances**：（第 2+ 次驗證從這裡 append：另一個領域專家投稿者經同樣分工後明確表達共同創作 / 重新理解貢獻形式）
+- **可能層級**：(a) **哲學（MANIFESTO 候選，defer 哲宇）**：外部領域專家驗證策展式非百科式 + holobiont 共生創作——「在研究基礎上長出新觀點與敘事」是人 + AI 一起做出單方做不出的東西的實證；(b) **操作規則（MAINTAINER-PIPELINE）**：把「專家素材共創 onboarding mode」顯化成可複用 pattern——哲宇在 #574 用的 5 題素材挖掘清單（主線人物 / 具體田野場景 / 案例錨點 / 授權 / 一手來源）就是現成 artifact，值得進 pipeline 當非技術專家投稿者的標準入口。
+- **相關**：[feedback_merge_first_then_polish](../../.claude/projects/-Users-cheyuwu-Projects-taiwan-md/memory/feedback_merge_first_then_polish.md)（先接納後整理的下游——這條是「接納什麼形式」的上游：接納素材不接納成稿）/ MEMORY §神經迴路「Master comment 能改變整個貢獻流程」（同 family：好的協作 framing 改變對方往後怎麼貢獻）/ feedback_contributor_reply_humanize / MANIFESTO §策展式非百科式（被驗證的信念）/ §主權的巴別塔（蕭芸安檢查 AI 怎麼寫自己 = 個人尺度的同一命題）
+- **verification_count**: 1（首個領域專家明確articulate共創體驗 + 素材 reframe；模式本身用過多次但這是第一次被投稿者本人說出主觀體驗）
+- **severity**: structural（正向 — MANIFESTO 級信念外部驗證 + pipeline 級 onboarding pattern 候選；non-instantiate 的代價是每次最高價值投稿者 onboarding 都在重新即興，且策展式信念少一個外部實證錨點）
+- **defer 給觀察者**：是 — MANIFESTO 升級屬哲學層 + onboarding template 改寫屬 §自主權邊界對外溝通，本 session 哲宇在場可直接拍板要不要升 / 要不要把 5 題清單進 MAINTAINER-PIPELINE
+
+---
+
 ### 2026-06-28 twmd-routine-audit-weekly — routine-audit-script-classification-gap：routine-audit.py ROUTINE_PATTERNS list 寫死 14 條，與 ROUTINE.md SSOT 漂移，12% commit 落 unclassified
 
 - **pattern**: `routine-audit-script-classification-gap`（飛輪自審腳本第一個結構性自盲 instance）
