@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-06-29T22:12:02.611Z",
+  "generatedAt": "2026-06-30T15:09:07.430Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "11bee2d34692a7db944ac6ab762fb65a30bdbe2c",
+      "date": "2026-06-30T22:05:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-30-220252-twmd-maintainer-pm — 22:00 pm cron 0 PR vc=2 + 7 issue 全 carry-state 守 hard gate",
+      "articles": []
+    },
+    {
+      "hash": "8a6473d9555d73e11789faf6b3435efeeb2f8c4e",
+      "date": "2026-06-30T22:03:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 212125-manual 補自我進化 + 歸檔報告兩段（heal 完整 session 紀錄）",
+      "articles": []
+    },
+    {
+      "hash": "6a1d88d81470d31d13082e042bbac74ca9326c75",
+      "date": "2026-06-30T22:01:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: issue #574 領域專家素材共創 onboarding mode 進 pipeline + 神經迴路",
+      "articles": []
+    },
+    {
+      "hash": "6be46f2f463e2c81d414a04cc6ce70a4c9b1d2cb",
+      "date": "2026-06-30T21:34:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 完整記錄 issue #574 聲景投稿者 nistoreyo 的共創回響",
+      "articles": [
+        {
+          "url": "/culture/台灣聲景",
+          "name": "台灣聲景"
+        }
+      ]
+    },
+    {
+      "hash": "63888b4c80a56e8f298708ad01320891f3b81fa6",
+      "date": "2026-06-30T19:35:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-30-190641-twmd-rewrite-daily — Computex EVOLVE ship + ARTICLE-INBOX 清條目 + MEMORY 索引",
+      "articles": []
+    },
+    {
+      "hash": "b19432e2894bd4fcd2ace5687ad5827352e0f6b3",
+      "date": "2026-06-30T19:31:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] spore-inbox: Computex EVOLVE 剛 ship — 留給 7/1 spore-publish-daily 撿",
+      "articles": []
+    },
+    {
+      "hash": "f42792f5b193a51a2c934e3d05f9d62a9d0b4fc4",
+      "date": "2026-06-30T19:28:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] rewrite: Computex EVOLVE — 三大電腦展死了兩個剩台北那個，因為它長在供給端",
+      "articles": [
+        {
+          "url": "/technology/Computex",
+          "name": "Computex"
+        }
+      ]
+    },
+    {
+      "hash": "c7a08a2d74330afe5602080889ee18c3ed364fd5",
+      "date": "2026-06-30T08:43:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-30-084124-twmd-maintainer-am — 08:30 cron 接住 07:08 feedback-triage 兩筆守雙 hard gate",
+      "articles": []
+    },
+    {
+      "hash": "dbf24cc2a98680a3e8c35b1a9e9b99b6e08b37d3",
+      "date": "2026-06-30T07:09:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: no-op 連 10 cycle 後首破，2 筆同 batch ship issue #1184 + #1185",
+      "articles": []
+    },
+    {
+      "hash": "218cb8b2641a66792c19f78ba57f526685c27f8b",
+      "date": "2026-06-30T06:45:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-30-064246-twmd-spore-harvest-am — 10 events ship + 0 reply ship 五平台 pure plateau snapshot 首例",
+      "articles": []
+    },
+    {
+      "hash": "ae68cb34893643cfa7355a416f6215f6ab2903d9",
+      "date": "2026-06-30T06:44:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 10 events ship + 0 reply ship (pure plateau snapshot) — 2026-06-30",
+      "articles": []
+    },
+    {
+      "hash": "dabcdd023201643531d80b5dc2962d23356bb478",
+      "date": "2026-06-30T06:15:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth — CF 404 連 3 window 上升 vc=2 + 免疫 50 REVERTED vc=0",
+      "articles": []
+    },
     {
       "hash": "4d2674f03b06387a352f44f7342962d19ca272a9",
       "date": "2026-06-30T05:08:55+08:00",

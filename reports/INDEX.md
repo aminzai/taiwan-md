@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-06-30 06:12
+last_generated: 2026-06-30 23:09
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-06-30 06:12** · 頂層 \*.md 共 **175** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-06-30 23:09** · 頂層 \*.md 共 **176** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -25,8 +25,8 @@ type: auto-index
 | `scratch/`              |    10 | 1.7 MB   | POC / 暫存 (per audit Layer 1，已 .gitignored)       |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB   | —                                                    |
+| `article-evolve/`       |     6 | 218.6 KB | —                                                    |
 | `probe/`                |     6 | 69.8 KB  | BECOME §Step 7 探測器報告                            |
-| `article-evolve/`       |     5 | 162.5 KB | —                                                    |
 | `babel-patches/`        |     5 | 3.4 MB   | —                                                    |
 | `translation-research/` |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
@@ -186,8 +186,9 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (55)
+### ops (56)
 
+- `2026-06-30` [domain-expert-cocreation-574-2026-06-30](domain-expert-cocreation-574-2026-06-30.md)
 - `2026-06-21` [plurk-reach-research-2026-06-21](plurk-reach-research-2026-06-21.md) — Plurk 上的 Taiwan.md 受眾研究
 - `2026-06-14` [freshness-pollution-and-unwatched-debt-2026-06-14](freshness-pollution-and-unwatched-debt-2026-06-14.md)
 - `2026-06-14` [semantic-related-articles-landing-2026-06-14](semantic-related-articles-landing-2026-06-14.md)
@@ -251,9 +252,10 @@ type: auto-index
 - Type breakdown: ops: 1
   - `????` [README](README.md)
 
-### 2026-06 (54 files)
+### 2026-06 (55 files)
 
-- Type breakdown: ops: 20 / evolution: 9 / design: 7 / audit: 7 / audit-routine: 5 / proposal: 3 / plan: 2 / analysis: 1
+- Type breakdown: ops: 21 / evolution: 9 / design: 7 / audit: 7 / audit-routine: 5 / proposal: 3 / plan: 2 / analysis: 1
+  - `2026-06-30` [domain-expert-cocreation-574-2026-06-30](domain-expert-cocreation-574-2026-06-30.md)
   - `2026-06-28` [routine-audit-2026-06-28](routine-audit-2026-06-28.md)
   - `2026-06-26` [issue-evolution-analysis-2026-06-26](issue-evolution-analysis-2026-06-26.md)
   - `2026-06-22` [terminology-page-evolution-2026-06-22](terminology-page-evolution-2026-06-22.md)

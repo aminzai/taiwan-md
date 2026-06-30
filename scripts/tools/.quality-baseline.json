@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-06-29T22:12:01Z",
+  "timestamp": "2026-06-30T15:09:06Z",
   "total": 830,
-  "flagged": 331,
+  "flagged": 332,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -208,6 +208,11 @@
       "file": "technology/台灣AI日常.md",
       "score": 10,
       "reasons": "未人工審核; 塑膠句1個; 破折號20個; 後段清單堆砌41%; 稀薄段落×1; 無腳註"
+    },
+    {
+      "file": "technology/Computex.md",
+      "score": 4,
+      "reasons": "空洞詞7個; 未人工審核; 破折號11個"
     },
     {
       "file": "technology/開源社群與g0v.md",

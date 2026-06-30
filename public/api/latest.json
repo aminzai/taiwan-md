@@ -1,8 +1,17 @@
 {
-  "_generated": "2026-06-29T22:12:17.524Z",
+  "_generated": "2026-06-30T15:09:22.574Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台灣聲景：垃圾車的古典樂、捷運的鳥鳴，和一座只聽見卻很少聆聽的島",
+        "desc": "同一年，台北捷運一邊找雷光夏、李欣芸把進站音樂變成藝術，一邊把關門警示音的旋律拿掉、改回鳥鳴聲。聲音同時被美學化與功能化。台灣用《噪音管制法》要消除的這些聲音，其實是我們辨認「這裡是家」的地標。一個聲景研究碩士的提問：理解台灣，可以從問「我們習慣忽略什麼聲音」開始。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E8%81%B2%E6%99%AF",
+        "date": "2026-06-30T21:34:27+08:00",
+        "readingTime": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg"
+      },
       {
         "title": "彎彎：給一代上班族一張臉的光頭人，和讓它「變成歷史人物」的胡家瑋",
         "desc": "辦公室還靠 MSN 溝通的年代，不敢對老闆開口的上班族，把大頭貼換成一個沒穿衣服、頭頂一根捲毛的光頭人，讓它替自己喊「我想下班」。畫它的胡家瑋從月薪 9,000 元的設計助理，意外成了台灣第一個瀏覽破億的部落格、圖文創作的開山鼻祖。光頭人永遠天真不老，畫它的人卻會長大；於是她讓角色跟自己一起退場，「變成歷史人物」。",
@@ -92,15 +101,6 @@
         "date": "2026-06-26T22:07:25+08:00",
         "readingTime": 10,
         "image": ""
-      },
-      {
-        "title": "台灣聲景：垃圾車的古典樂、捷運的鳥鳴，和一座只聽見卻很少聆聽的島",
-        "desc": "同一年，台北捷運一邊找雷光夏、李欣芸把進站音樂變成藝術，一邊把關門警示音的旋律拿掉、改回鳥鳴聲。聲音同時被美學化與功能化。台灣用《噪音管制法》要消除的這些聲音，其實是我們辨認「這裡是家」的地標。一個聲景研究碩士的提問：理解台灣，可以從問「我們習慣忽略什麼聲音」開始。",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3%E8%81%B2%E6%99%AF",
-        "date": "2026-06-26T18:54:01+08:00",
-        "readingTime": null,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg"
       },
       {
         "title": "台灣鹽酥雞",
@@ -230,11 +230,11 @@
       },
       {
         "title": "Computex：三大國際電腦展收了兩個，剩下的那個長在台北",
-        "desc": "2026 年 6 月，黃仁勳站上台北的舞台說「回到家真好」，背板上印的是肉粽和豬腳。Computex 從 1981 年松山機場旁一場中小企業出口商展，長成全球 AI 巨頭每年朝聖的地方。德國 CeBIT、美國 COMDEX 都收攤了，這個 45 歲的台北電腦展卻越辦越大，因為它辦在全世界近九成 AI 伺服器真正被組裝出來的島上。",
+        "desc": "2026 年 6 月，黃仁勳站上台北的舞台說「回到家真好」，背板上印的是肉粽和豬腳。同一個禮拜，三位執行長在這裡接力開講，台中的上銀首度跨界把減速機接上人形機器人的關節。德國 CeBIT、美國 COMDEX 都收攤了，這個 45 歲的台北電腦展卻越辦越大，因為它長在全世界近九成 AI 伺服器真正被組裝出來的島上。",
         "category": "technology",
         "href": "/technology/Computex",
         "date": "2026-06-22T22:57:53+08:00",
-        "readingTime": 21,
+        "readingTime": 28,
         "image": "/article-images/technology/computex-nangang-floor-2011.webp"
       },
       {

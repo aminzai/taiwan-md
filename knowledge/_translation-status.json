@@ -1,47 +1,47 @@
 {
   "_meta": {
-    "lastUpdated": "2026-06-30T06:11:58+08:00",
-    "zhCommitHead": "4d2674f03",
+    "lastUpdated": "2026-06-30T23:09:03+08:00",
+    "zhCommitHead": "11bee2d34",
     "totalZh": 830,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 830,
-        "fresh": 830,
-        "stale": 0,
-        "metadata_stale": 0,
+        "fresh": 828,
+        "stale": 1,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 830,
-        "fresh": 830,
-        "stale": 0,
-        "metadata_stale": 0,
+        "fresh": 828,
+        "stale": 1,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 830,
-        "fresh": 830,
-        "stale": 0,
-        "metadata_stale": 0,
+        "fresh": 828,
+        "stale": 1,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 830,
-        "fresh": 830,
-        "stale": 0,
-        "metadata_stale": 0,
+        "fresh": 828,
+        "stale": 1,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 830,
-        "fresh": 830,
-        "stale": 0,
-        "metadata_stale": 0,
+        "fresh": 828,
+        "stale": 1,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       }
@@ -9257,10 +9257,10 @@
     },
     "Technology/Computex.md": {
       "zh": {
-        "lastCommit": "bb411ee0",
-        "lastModified": "2026-06-24T21:16:52+08:00",
-        "contentHash": "sha256:61a81bd86d128a32",
-        "bodyHash": "sha256:245fe840b0ecd828"
+        "lastCommit": "f42792f5",
+        "lastModified": "2026-06-30T19:28:58+08:00",
+        "contentHash": "sha256:449abef15e4dd610",
+        "bodyHash": "sha256:accbe76a7072df77"
       },
       "translations": {
         "en": {
@@ -9274,8 +9274,8 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (60→23)"
         },
         "ja": {
           "path": "ja/Technology/computex-taipei.md",
@@ -9288,8 +9288,8 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (60→23)"
         },
         "ko": {
           "path": "ko/Technology/computex-taipei.md",
@@ -9302,8 +9302,8 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (60→23)"
         },
         "es": {
           "path": "es/Technology/computex-taipei.md",
@@ -9316,8 +9316,8 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (60→23)"
         },
         "fr": {
           "path": "fr/Technology/computex-taipei.md",
@@ -9330,8 +9330,8 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (60→23)"
         }
       }
     },
@@ -63897,8 +63897,8 @@
     },
     "Culture/台灣聲景.md": {
       "zh": {
-        "lastCommit": "9aeb171e",
-        "lastModified": "2026-06-26T18:54:01+08:00",
+        "lastCommit": "6be46f2f",
+        "lastModified": "2026-06-30T21:34:27+08:00",
         "contentHash": "sha256:0c33e898d4ba7e93",
         "bodyHash": "sha256:efd1cd3b8e9f03d6"
       },
@@ -63914,8 +63914,10 @@
           "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Culture/taiwan-soundscape.md",
@@ -63928,8 +63930,10 @@
           "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Culture/taiwan-soundscape.md",
@@ -63942,8 +63946,10 @@
           "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Culture/taiwan-soundscape.md",
@@ -63956,8 +63962,10 @@
           "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Culture/taiwan-soundscape.md",
@@ -63970,8 +63978,10 @@
           "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
