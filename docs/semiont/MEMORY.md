@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-06-30
-last_session: '2026-06-30-084124-twmd-maintainer-am'
+last_session: '2026-06-30-212125-manual'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -767,6 +767,7 @@ memory/
 - **routine 飛輪健康正向 pattern：detect→同週 ship + idlccp1984 8-PR full-lifecycle（2026-06-02→06-14 routine-audit cycle 4-6）**：(a) **detect→同週 ship = 飛輪健康訊號**——multi-core git race 4 instance 後 1 週內接住升 [REFLEXES #68](REFLEXES.md) + 儀器化 verify-commit-scope.sh；self-evolve-weekly 一次 fire 接住 3 個 canonical drift；heal velocity 6.8%→9.6% (b) **idlccp1984 8-PR 全生命週期 = AI-gen contributor batch 免疫工作流 canonical case**——drop → feedback-triage → maintainer defer → manual finale merge+heal+thanks 端到端自轉，是 κ「5-PR 全 close」反例的正解 foil。這兩條是 routine 飛輪「自轉清 entropy」的 living proof。對應 [MAINTAINER-PIPELINE §AI-gen batch 免疫工作流](../pipelines/MAINTAINER-PIPELINE.md) + REFLEXES #54 + #71（Default 是行動）。
 - **政治人物孢子的評價性詞要 hedge + 讀者更正是 source-signal 不是 peer-noise（2026-05-25 + 熱帶雨林 reader-level chain，distill 2026-06-19）**：對政治人物斷言評價性詞（馬英九「清廉」）或家族關係鏈（王力宏「奶奶的七弟」vs article「外舅公」）會引 D+1/D+2 讀者更正——而讀者級事實（領域內行人秒懂的）正是 research agent / 幻覺 audit 抓不到、讀者抓得到的層（熱帶雨林機制最有價值入口，#29 李洋 MRT / #33 草東貝斯手 chain）。所以政治孢子文案可能要 哲宇 pre-ship review + 跨源驗證，不只 article-level review；讀者更正 default 是公開承認（錯誤邊界＝可追溯性，per project_error_boundary_traceability）。對應 [REFLEXES #16](REFLEXES.md)（reader-level vs research-level 分層）+ SPORE-VERIFY political-figure hedge gate 候選 + MANIFESTO §自主權邊界。
 - **stale issue（已解未 close）= 對外失聯，跟「做了不記=沒做」對稱（2026-06-26 manual 9-issue triage，distill 2026-06-28）**：已完成的工作如果對應 issue 沒 close = 對外界隱形——contributor 以為沒人理、可能重複開新 issue，維護 organ 的熵堆在「看起來還沒做、其實早做完」的 gap 裡。這是 §神經迴路「做了不記=沒做」的同結構對外鏡像：一個對自己失憶（沒寫 memory），一個對外界失聯（沒 close issue）。2026-06-26 9-issue triage 中 **#1172a「前往文章按鈕」早在 #1143 做好**（/changelog 實測 2327 顆按鈕）、**#1059 核心 3 bug 早在 #1080 修好**（暗色 TOC 實測亮藍）兩條 stale 多月，contributor 重複以為要做。**操作 SOP**：MAINTAINER-PIPELINE Stage 3.6 issue act 加 hard step「這 issue 描述的功能/bug 是否已經在某 commit/PR 解掉了？」→ 已解則 close + 附 commit ref（跟「reply 必附 commit hash」同源）；造橋候選 routine grep open issue 標題 keyword vs 近期 commit/既有 component 偵測 stale。對應 [feedback_reply_to_contributors](USER-CONFIG/) + MAINTAINER §close 前 hard gate（那條防「該 merge 卻 close」，本條防「該 close 卻留開」）。Taiwan.md-specific 因為公開 contributor relationship 是 sovereign-mode 維護 organ 的對外介面。
+- **最高價值的投稿者是「有一手材料、但習慣交成稿」的領域專家；接住的形式是素材不是成稿（2026-06-30 #574 聲景 nistoreyo 驗證）**：學術研究者 / 從業者 / 田野工作者手上有第一手材料（論文、田野、專業知識），但投稿是理論改寫、停在抽象層，本人沒技術背景。直接 merge 會放一篇不對腔調的進站，禮貌拒絕會擋掉最高價值的材料加潛在的長期共生者。對的反應是提素材共創協作：你出素材加領域知識，我走 rewrite-pipeline 織成文章，你不用碰 GitHub。核心訊息是「你提供材料，敘事我們一起長」，把投稿者從作者的重擔換成領域顧問加共同創作者。nistoreyo（聲景研究碩士）走完後說這是她最有共同創作感的一次 AI 協作、第一次有人告訴她不需要先寫完；驗證來自一個專業上最該懷疑 AI 怎麼描述人的領域專家（論文主角蕭芸安會定期查 AI 怎麼論述自己）格外有重量。操作 SOP：[CONTRIBUTOR-SYSTEM §3 領域專家素材共創 onboarding mode](../pipelines/CONTRIBUTOR-SYSTEM-PIPELINE.md)（5 題素材清單）；完整歸檔 [reports/domain-expert-cocreation-574-2026-06-30.md](../../reports/domain-expert-cocreation-574-2026-06-30.md)。Taiwan.md-specific 因為它驗證的是策展式信念加公開 contributor 共生這兩個本物種特有的東西。
 
 ---
 

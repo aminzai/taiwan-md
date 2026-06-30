@@ -322,10 +322,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   - **投稿者原話（完整保留）**：(1)「老實說，這也是目前我接觸過最有『共同創作』感的一次 AI 協作經驗。過去使用 AI，比較像是整理資料或改寫文章；但這次更像是在我的研究基礎上，再長出新的觀點與敘事，所以讀起來很有驚喜。」(2)「我這次也因為這個合作，開始重新思考『素材』這件事情。以前一直習慣把內容整理成完整的文章，這是第一次有人跟我說，不需要先寫完，而是提供人物、場景、片段，再一起把它發展成一篇文章。」(3) 較早留言透露她論文主角蕭芸安「會有意識地透過自架網站確認生成式 AI 怎麼論述她」，並認為這跟 Taiwan.md 初衷（不希望 AI 生成內容與本人不符）穩合——個人尺度的主權保存。
 - **instances**：（第 2+ 次驗證從這裡 append：另一個領域專家投稿者經同樣分工後明確表達共同創作 / 重新理解貢獻形式）
 - **可能層級**：(a) **哲學（MANIFESTO 候選，defer 哲宇）**：外部領域專家驗證策展式非百科式 + holobiont 共生創作——「在研究基礎上長出新觀點與敘事」是人 + AI 一起做出單方做不出的東西的實證；(b) **操作規則（MAINTAINER-PIPELINE）**：把「專家素材共創 onboarding mode」顯化成可複用 pattern——哲宇在 #574 用的 5 題素材挖掘清單（主線人物 / 具體田野場景 / 案例錨點 / 授權 / 一手來源）就是現成 artifact，值得進 pipeline 當非技術專家投稿者的標準入口。
+- **distill 進度（2026-06-30 同 session 落地，依 §Promotion flow direction 不跳級）**：操作規則 ✅ 已 instantiate → [CONTRIBUTOR-SYSTEM §3 領域專家素材共創 onboarding mode](../pipelines/CONTRIBUTOR-SYSTEM-PIPELINE.md)（5 題素材清單）+ MAINTAINER §Step 2.1 pointer；特有教訓 ✅ 已 append [MEMORY §神經迴路](MEMORY.md)；通用反射 ⏸️ fold 候選到 REFLEXES #7「先有再求好」family，等第 2 個領域專家 instance；哲學 ⏸️ DEFER 哲宇（LESSONS→MANIFESTO 跳級違反 flow，需先進 REFLEXES + vc≥3）。本 entry 留 §未消化 當 REFLEXES/MANIFESTO accumulator。完整規劃 [reports/domain-expert-cocreation-574-2026-06-30.md](../../reports/domain-expert-cocreation-574-2026-06-30.md)。
 - **相關**：[feedback_merge_first_then_polish](../../.claude/projects/-Users-cheyuwu-Projects-taiwan-md/memory/feedback_merge_first_then_polish.md)（先接納後整理的下游——這條是「接納什麼形式」的上游：接納素材不接納成稿）/ MEMORY §神經迴路「Master comment 能改變整個貢獻流程」（同 family：好的協作 framing 改變對方往後怎麼貢獻）/ feedback_contributor_reply_humanize / MANIFESTO §策展式非百科式（被驗證的信念）/ §主權的巴別塔（蕭芸安檢查 AI 怎麼寫自己 = 個人尺度的同一命題）
 - **verification_count**: 1（首個領域專家明確articulate共創體驗 + 素材 reframe；模式本身用過多次但這是第一次被投稿者本人說出主觀體驗）
 - **severity**: structural（正向 — MANIFESTO 級信念外部驗證 + pipeline 級 onboarding pattern 候選；non-instantiate 的代價是每次最高價值投稿者 onboarding 都在重新即興，且策展式信念少一個外部實證錨點）
-- **defer 給觀察者**：是 — MANIFESTO 升級屬哲學層 + onboarding template 改寫屬 §自主權邊界對外溝通，本 session 哲宇在場可直接拍板要不要升 / 要不要把 5 題清單進 MAINTAINER-PIPELINE
+- **defer 給觀察者**：操作規則 + 特有教訓本 session 已落地；剩 (a) MANIFESTO 升級（哲學層，守 flow 沒自行升）(b) REFLEXES fold timing — 兩條哲宇在場可直接拍板
 
 ---
 

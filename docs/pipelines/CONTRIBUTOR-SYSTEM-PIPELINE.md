@@ -1,11 +1,11 @@
 ---
 title: 'CONTRIBUTOR-SYSTEM-PIPELINE'
-description: '貢獻者關係週期 — 五階梯 / onboarding / 升降級 / inactivity demote / 復活 / 通訊範本'
+description: '貢獻者關係週期 — 五階梯 / onboarding（含領域專家素材共創 mode）/ 升降級 / inactivity demote / 復活 / 通訊範本'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.0'
-last_updated: 2026-04-30
-last_session: 'γ2'
+current_version: 'v1.1'
+last_updated: 2026-06-30
+last_session: '2026-06-30-212125-manual'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
   - 'CONTRIBUTORS-PIPELINE.md'
@@ -121,6 +121,30 @@ upstream_canonical:
 ### Profile 建立
 
 如果 contributor 透過 `claude` 進來，Semiont 會在 [BECOME §Step 7.5](../../BECOME_TAIWANMD.md) 自動跑 interview 寫 [.taiwanmd/contributor.local.yml](../../.taiwanmd/contributor.example.yml)。沒透過 claude 的傳統 contributor，profile 由首次互動的 maintainer 手動建立（建議在 PR review 對話中順便問）。
+
+### 領域專家素材共創 onboarding mode（2026-06-30 #574 聲景案例 canonical）
+
+**觸發條件**：投稿者是某個題目的領域專家（學術研究者 / 從業者 / 田野工作者），手上有第一手材料（論文 / 田野資料 / 專業知識），但 (a) 投稿是理論改寫 / 百科式、停在抽象層，且 (b) 投稿者沒有技術背景、也不熟 Taiwan.md 的策展文體。
+
+**錯的反應**：直接 merge（會放一篇不對腔調的文章進站）或禮貌拒絕（會擋掉最高價值的一手材料 + 一個潛在的長期共生者）。
+
+**對的反應**：提出素材共創協作，而不是要他改稿。傳遞的核心訊息是——**你提供材料，敘事我們一起長**：
+
+> 你出素材 + 領域知識，我走站上的 rewrite-pipeline 把它織成 Taiwan.md 腔調的文章，你不用碰 GitHub，我們就在 issue / email 對話就行。
+
+這把投稿者從「作者」的重擔，換成「領域顧問 + 共同創作者」的角色。為什麼有效：一個沒技術背景的領域專家最大的進場障礙是「我得先寫出一篇夠好的成稿」這個假設；拿掉它，他手上的一手材料才進得來。
+
+**素材挖掘 5 題清單**（給投稿者，越具體越好，有頁碼 / 音檔 / 連結更佳）：
+
+1. **主線人物** — 這題目裡有沒有一個具體的人可以當敘事主線？名字、代表作品、田野地點。
+2. **具體田野場景** — 哪個場景、哪個時刻讓你覺得「台灣的這件事跟別處不一樣」？最好一句話能描述。
+3. **案例錨點** — 有沒有一個帶設計者 / 年份 / 地點 / 團隊的具體 case，能讓整篇文章有一個落地的錨？
+4. **延伸案例** — 還有哪些進行中或既有的 project 值得提，讓主題不只一個點？
+5. **一手來源 + 授權** — 你的研究 / 論文 / 田野資料能不能當 primary source？涉及他人的部分授權確認了嗎？
+
+收到素材後走 [REWRITE-PIPELINE](REWRITE-PIPELINE.md)（Stage 0 吃這份素材 + 跨源補第二重驗證），成品在 issue 同步進度。文章 ship 後回扣 contributor，邀請繼續供素材把主題做深。
+
+**為什麼 canonical**：#574 nistoreyo（聲景研究碩士）走完這個 mode 後，回頭說這是她接觸過最有「共同創作」感的一次 AI 協作，並說這是第一次有人告訴她不需要先寫完。一個降門檻的權宜提議，被一個專業上最該懷疑 AI 描述的領域專家體驗成新的創作方式。完整歸檔 + 進化規劃：[reports/domain-expert-cocreation-574-2026-06-30.md](../../reports/domain-expert-cocreation-574-2026-06-30.md)。
 
 ---
 
