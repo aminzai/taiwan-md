@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-06-30T15:09:07.430Z",
+  "generatedAt": "2026-06-30T22:11:32.569Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "55cade62e9d1e94298c12701017c8c9b7e5d7356",
+      "date": "2026-07-01T05:09:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-01-050745-twmd-embeddings-nightly — embedding 連 14 夜 fleet-down graceful skip",
+      "articles": []
+    },
+    {
+      "hash": "73f2a9513c744af84b986a1a8be3bc60a58af184",
+      "date": "2026-06-30T23:12:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-06-30-231116-twmd-data-refresh-pm — pm cron 14-step 全綠 CF 404 25.31% +14.25pp single-window jump 等 7/1 am 區分 trend vs anomaly",
+      "articles": []
+    },
+    {
+      "hash": "38ee73bb351602a03fefde0bd85baed5e18a9d2e",
+      "date": "2026-06-30T23:11:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh",
+      "articles": []
+    },
     {
       "hash": "11bee2d34692a7db944ac6ab762fb65a30bdbe2c",
       "date": "2026-06-30T22:05:25+08:00",
