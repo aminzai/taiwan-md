@@ -24,9 +24,9 @@ tags:
 subcategory: '半導體與硬體'
 author: 'Taiwan.md'
 featured: true
+researchReport: reports/research/2026-06/computex-evolve-stage1-2026-06-12.md
 lastVerified: 2026-06-12
 lastHumanReview: false
-researchReport: reports/research/2026-06/computex-evolve-stage1-2026-06-12.md
 difficulty: 'intermediate'
 readingTime: 28
 image: '/article-images/technology/computex-nangang-floor-2011.webp'
@@ -270,6 +270,7 @@ _NVIDIA 官方頻道：黃仁勳 2024 年 COMPUTEX 主題演講完整版，「AI
 - [台灣機器人產業](/Technology/台灣機器人產業) — 上銀首登 Computex 是這條供應鏈成形的關鍵切片
 - [台灣電動車產業鏈發展](/Technology/台灣電動車產業鏈發展) — 跟 AI 伺服器並排的另一條製造主軸
 - [NVIDIA 在台灣](/Technology/NVIDIA在台灣) — 從黃仁勳的台南童年到台北的 GTC Taipei 主場
+- [台達電](/Companies/台達電) — 散熱模組、液冷板、電源系統，Computex 攤位上看不見卻離不開的廠
 
 ## 圖片來源
 
