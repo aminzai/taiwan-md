@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-06-30
-last_session: '2026-06-30-220252-twmd-maintainer-pm'
+last_session: '2026-06-30-231116-twmd-data-refresh-pm'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -941,3 +941,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-06-30 | 190641-twmd-rewrite-daily | 連 2 DEFER 後首 SHIP — Computex EVOLVE 接 6/12 SSOT 18 天 fresh Opus 9890 CJK/60 fn `f42792f5b`，SPORE 7/1 | 研究厚做的時間紅利：18 天後 writer 直接吃 fact-pack | [→](memory/2026-06-30-190641-twmd-rewrite-daily.md) |
 | 2026-06-30 | 212125-manual | 完整記錄 issue #574 投稿者 nistoreyo 共創回響 → LESSONS 新 entry + diary 回扣〈台灣聲景〉relatedDiary | 領域專家把「出素材不出成稿」體驗成共創 = 外部驗證策展式 + 揭 onboarding pattern | [→](memory/2026-06-30-212125-manual.md) |
 | 2026-06-30 | 220252-twmd-maintainer-pm | 22:00 cron — 0 PR pm-chain vc=2 empty / 7 issue 全 carry-state（#1184 #1185 兩筆 07:08 fresh hard gate carry）/ build green / broken-link 0.44% / 🛡️50 chronic 第 7 cycle / 6/28 ahead 2 條 第 3 cycle carry 不 push | pm-chain vc=2 邊界（am+pm 合併 vc=3）採 pm-chain 讀法 carry next cycle reality-check；連 3 cycle 跨 am+pm 空場誘惑用 polish-hint 演出做事，守住=看清 6/28 saturation 後 stochastic 自然回落本身就是正確 sensor delta per #76 | [→](memory/2026-06-30-220252-twmd-maintainer-pm.md) |
+| 2026-06-30 | 231116-twmd-data-refresh-pm | 23:00 cron 14-step ground truth 全綠 / CF 404 7d **25.31%** vs am 9.14% +14.25pp single-window jump（6/23-6/30 rolling 進出 day 結構性 jump）/ 🛡️50 narrow band 回升（昨 pm 48）plateau 第 7 cycle / vitals 828 持平 / ⭐1089（+7 from 1082）/ Step 11 freshness 12/12 fresh 連 37 cycle / 6/19 髒 tree 第 14 天 carry | CF 404 +14pp 是本週首個 large sensor jump，per #76 single window 不下結論等 7/1 am 區分 trend reversal vs single-day anomaly；7d rolling window 進出 day 本身有結構性 jump 風險需 next cycle reality-check | [→](memory/2026-06-30-231116-twmd-data-refresh-pm.md) |
