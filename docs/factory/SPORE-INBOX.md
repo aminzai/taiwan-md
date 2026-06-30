@@ -236,6 +236,24 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 
 ## 📥 Pending（待發）
 
+### Computex EVOLVE 剛 ship — 三大電腦展死了兩個剩台北那個
+
+- **Source-Mode**: `EXISTING-ARTICLE`（剛 EVOLVE ship `f42792f5b`）
+- **Article-Path**: [knowledge/Technology/Computex.md](../../knowledge/Technology/Computex.md)
+- **Priority**: `P1`（趁熱 + reader-validated content from PTT 鄉民 集體補出五條缺口）
+- **Status**: `pending`
+- **Requested**: 2026-06-30 by twmd-rewrite-daily routine 18h cycle（cycle-deferred SPORE chain — 留給次日 10:00 spore-publish-daily 拿）
+- **Hook anchor 候選**:
+  1. **反差 hook（Tier 1b 具體性）**：1981 年松山機場旁那場「中小企業出口商展」，賣的是給香港買主搬回去的電容、電阻、主機板。2026 年世貿一館的同一個展，180 家廠商在現場示範減速機、馬達、夾爪。45 年同條曲線，零組件的定義從電容換成了減速機。
+  2. **結構 hook**：COMDEX 死了，因為它辦在拉斯維加斯。CeBIT 死了，因為它辦在漢諾威。資訊月也凋零了，因為它面向台灣家庭的零售端。Computex 活下來，因為它辦在台北——這座島的供給端。展覽會跟著訂單走，訂單跟著製造走，製造留在了這座島上。
+  3. **2016 Your Moment of Zen**：PC 寒冬最深的那一年，蘇姿丰走上 Computex 主舞台掀出 8 核 Summit Ridge，講「from scratch」、講「40% IPC」。媒體當下不信。然後 Zen 真的兌現了，AMD 從 30 億漲到千億。那一場 keynote 是 Computex 從 PC 寒冬轉骨到 AI 主場的關鍵伏筆，但要等七年後黃仁勳 2023 年走上同一個舞台說 "We're back" 才會看清。
+- **時效**: 趁熱（剛 ship，CI/CD 預估 19:50 上線）
+- **敏感度**: 低（產業題、無在世政治人物私德爭議）
+- **必驗事實**: 已過 Stage 3 plugin gate hard=0；研究 SSOT `reports/research/2026-06/computex-evolve-stage1-2026-06-12.md` PASS（distinct 83 / 信度標記 41 / negative findings ✓）
+- **必先 spawn ARTICLE-INBOX entry**: ❌（剛 ship 完）
+- **預估發佈時機**: 2026-07-01 spore-publish-daily 10:00 routine 抽到
+- **Notes**: routine 自動 ship 走 SPORE_ROUTINE_MODE=1 雙平台（Threads + X）default per pipeline v3.8。Hook tier 1b 具體性槓桿（D+7 預估 10K-65K reach）
+
 ### 陳水扁 — Threads 活躍期的時效 spore
 
 - **Source-Mode**: `REACTIVE`
