@@ -24,10 +24,10 @@ readingTime: 18
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: 'People/田馥甄.md'
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:a39194b2f4737484'
-translatedAt: '2026-06-10T16:41:16Z'
-sourceBodyHash: 'sha256:d7c6d39e19e2fb58'
+sourceCommitSha: '380c49d7'
+sourceContentHash: 'sha256:d2852cc419867a37'
+translatedAt: '2026-07-01T16:39:48Z'
+sourceBodyHash: 'sha256:0f8970c54b5cd9d2'
 ---
 
 > **30-Second Overview:** Hebe Tien (born 1983, Hakka from Hsinchu) is a rare "active withdrawer" in the history of Mandarin pop music. In 2001, she formed S.H.E with Selina Ren and Ella Chen, selling over ten million records within a decade[^4]. In 2010, she released her first solo album _To Hebe_, with the poster reading "Super Newcomer After Ten Years Debut"[^6]. From "Angel in the Devil" and "A Little Happiness" to the 2020 album _Unknown_ (collaborated with [Chien-Pai Chen](/people/Chien-Pai Chen)), which won the Best Mandarin Female Singer at the 32nd Golden Melody Awards[^13]—her sales records have been steady from album to album. But in 2020, she declined a Chinese variety show offer rumored to be worth nearly 100 million NTD[^25]; in 2022, she posted a photo of spaghetti on IG[^16]; in 2025, she held her tour in salt fields and airfields without roofs[^19]; in 2026, she told reporters, "It's not a hurdle, but I 'don't want to step' on it"[^21]. An idol cultivated by the idol industry returned the things the industry gave her, piece by piece.
@@ -126,7 +126,7 @@ On August 2, 2022, US House Speaker Nancy Pelosi visited Taiwan. On that day, He
 
 Chinese netizens, due to Pelosi's Italian heritage, interpreted this spaghetti photo as supporting Pelosi and supporting Taiwan independence. Her songs were taken down from Chinese music platforms, and she lost over 2 million followers on Weibo[^16]. Her old song _Island_ from 2010 was pointed out as having the meaning of Taiwan independence due to the lyrics "separated by a sea, not disturbing each other" and "I think this distance is very good," becoming the most pointed-out song in the takedown list[^31].
 
-In April 2024, she was originally scheduled to appear at the Tianjin Paopao Island Music Festival on May 2 as the closing act. Chinese netizens attacked again. On April 27, under public opinion pressure, the organizer announced the cancellation of Hebe Tien's performance. She responded with two words: "**Very regrettable**"[^17].
+In April 2024, she was originally scheduled to appear at the Tianjin Paopao Island Music Festival on May 2 as the closing act. Chinese netizens attacked again. On April 27, under public opinion pressure, the organizer announced the cancellation of Hebe Tien's performance. She responded with three characters: "**Very regrettable**"[^17].
 
 After that spaghetti incident in 2022, she did not apologize, did not explain, did not regret. Two years after the incident, in an interview, when a reporter asked her, "Are you feeling okay lately? Do you want to drink a couple more cups?" she answered: "**Are you talking about the earthquake? Whether there are many things or few, I quite like drinking a couple of cups.**"[^32] She didn't take the spaghetti topic, pushing the question to the other side.
 

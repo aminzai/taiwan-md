@@ -12,10 +12,10 @@ lastVerified: 2026-06-09
 lastHumanReview: true
 featured: false
 translatedFrom: 'Music/蘇打綠.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:9dab22004602c3b0'
-sourceBodyHash: 'sha256:aea389268b4e9246'
-translatedAt: '2026-06-16T17:03:25Z'
+sourceCommitSha: '9a897676'
+sourceContentHash: 'sha256:66ed90f7488d68a3'
+sourceBodyHash: 'sha256:b5287a0564581351'
+translatedAt: '2026-07-01T16:39:35Z'
 ---
 
 # Sodagreen: It Took Them Twenty Years to Learn That Even Their Own Name Would End Up in Court
@@ -44,7 +44,7 @@ The "Soda" in Sodagreen was drummer Shi Junwei's idea — the refreshing sensati
 
 From May 2001 to March 2003, nearly two years, Sodagreen was unstable. The guitarist position rotated through three people: Yanting, Xiaowei, and Hongru[^5]. A student band with constantly changing members was the most common thing in the campus music scene — members studying, interning, finishing military service, living across different campuses, all pulling at whether a band could sustain itself.
 
-Wu Qingfeng's own academic trajectory: after graduating from Kaohsiung Municipal Kaohsiung Senior High School, he entered National Chengchi University's Chinese literature department through a recommendation-based admissions process in 2000[^9]. The NCCU Memory Network — a university history wiki constructed by the NCCU Library — preserved this record of his admission. During his time at NCCU, he didn't confine himself to the Chinese department alone; he dabbled in radio broadcasting, choir, and record design. Sodagreen's early identity was not rooted in the "NCCU campus folk song" tradition but was closer to the wave of indie bands emerging from Taiwan's university campuses in the late 1990s to early 2000s — labels not necessarily in place, studios not necessarily available, but every campus had a band, and every band was finding its footing on the competition stage.
+Wu Qingfeng's own academic trajectory: after graduating from the Affiliated Senior High School of NTNU, he entered National Chengchi University's Chinese literature department through a recommendation-based admissions process in 2000[^9]. The NCCU Memory Network — a university history wiki constructed by the NCCU Library — preserved this record of his admission. During his time at NCCU, he didn't confine himself to the Chinese department alone; he dabbled in radio broadcasting, choir, and record design. Sodagreen's early identity was not rooted in the "NCCU campus folk song" tradition but was closer to the wave of indie bands emerging from Taiwan's university campuses in the late 1990s to early 2000s — labels not necessarily in place, studios not necessarily available, but every campus had a band, and every band was finding its footing on the competition stage.
 
 Xie Xinyi was among the first friends Wu Qingfeng made at NCCU. She studied business administration, and she and Shi Junwei were junior and senior members of the NCCU swimming team — this was an era of layered campus community connections, where bands typically formed through the same group of people linking from one club activity to another and then assembling, a completely different path from the professional model of "the music industry has a need and then goes looking for people"[^5].
 
@@ -64,7 +64,7 @@ Laying out the six members' academic backgrounds produces an interesting picture
 
 **Xie Xinyi** (bass), born April 16, 1982, NCCU business administration; one of the four founding members; in many interviews she was positioned as the "band's household manager" — handling administration, scheduling, and communication.
 
-**Shi Junwei** (drums), born August 26, 1979, NCCU sociology department. Yamaha lists him on their Taiwan artists page; he is one of the few Sodagreen members with a professional equipment endorsement relationship[^11]. The word "Soda" was his suggestion.
+**Shi Junwei** (drums), born August 26, 1979, NCCU sociology department. Yamaha lists him on their Taiwan artists page — one of the few drummers among Taiwanese bands to hold an endorsement relationship with an international instrument brand[^11]. The word "Soda" was his suggestion.
 
 **He Jingyang** (acoustic guitar, band leader), born April 4, 1982, NCCU Graduate Institute of Public Administration. He later took on the role of Sodagreen's band leader.
 
@@ -188,7 +188,7 @@ _"Incomparable Beauty" 2007 original MV — from the album of the same name, Sod
   <iframe src="https://www.youtube.com/embed/mvAJ-KwhGrk" title="Sodagreen 'Fever' Live in The Pool London recording documentary" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_2009 — footage of Sodagreen recording *Summer / Fever* at London's Miloco Studios "The Pool." A legendary recording space acquired by Pink Floyd's Roger Waters in his early years, later taken over by Miloco. A Taiwan indie band daring to fly here to record was virtually a singular case at the time._
+_Footage from Sodagreen's 2009 recording sessions of *Summer / Fever* at London's Miloco Studios "The Pool," later released through the official channel. A legendary recording space acquired by Pink Floyd's Roger Waters in his early years, later taken over by Miloco. A Taiwan indie band daring to fly here to record was virtually a singular case at the time._
 
 ---
 
@@ -282,7 +282,7 @@ The name "Oaeen" is a deconstruction of "Sodagreen":
 - 打 = 扌 + 丁
 - 綠 = 糸 + 彔
 
-Taking the three radicals "魚," "丁," and "糸" to form "Oaeen." Written in English as Oaeen.
+Taking the three radicals "魚," "丁," and "糸" to form "Oaeen." Written in English as Oaeen — and those five letters were themselves picked out of the old band name "S**o**d**a**gr**een**," hiding the name that had been taken from them inside the letters of the new one.
 
 This deconstruction concept did not actually originate in 2019. As early as 2005, before the release of Sodagreen's first self-titled album, they had used this name on their demo discs. In 2016, while Sodagreen was on the After Summer farewell tour, they had also performed under the alter-ego name "Oaeen" on the Ocean Music Festival's small stage — a ritualistic performance of returning to the place where it all began under an "alter-ego name."
 

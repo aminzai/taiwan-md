@@ -20,10 +20,10 @@ lastVerified: 2026-06-09
 lastHumanReview: true
 featured: false
 translatedFrom: 'Music/蘇打綠.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:9dab22004602c3b0'
-sourceBodyHash: 'sha256:aea389268b4e9246'
-translatedAt: '2026-06-16T16:40:09Z'
+sourceCommitSha: '9a897676'
+sourceContentHash: 'sha256:66ed90f7488d68a3'
+sourceBodyHash: 'sha256:b5287a0564581351'
+translatedAt: '2026-07-01T16:40:24Z'
 ---
 
 # Sodagreen : il leur a fallu vingt ans pour comprendre que leur propre nom pouvait aussi se plaider au tribunal
@@ -52,7 +52,7 @@ Les deux caractères « soda » dans le nom Sodagreen viennent du batteur Shih C
 
 De mai 2001 à mars 2003, pendant près de deux ans, Sodagreen reste instable. Trois guitaristes se succèdent : Yen-ting, Hsiao-wei et Hung-ju[^5]. Un groupe étudiant dont les membres changent sans cesse : rien de plus courant dans le milieu musical universitaire. Les études, les stages, le service militaire et les rythmes de vie entre campus déterminent alors la capacité d’un groupe à durer.
 
-Le parcours scolaire de Wu Ching-feng est le suivant : après le lycée de Kaohsiung, il entre en 2000 au département de chinois de l’Université nationale Chengchi par admission recommandée[^9]. Le site NCCU Memory, wiki d’histoire universitaire construit par la bibliothèque de Chengchi, en conserve la trace. Pendant ses études, il ne reste pas seulement dans le département de chinois : il passe aussi par la radio, la chorale et la conception de pochettes. L’image des débuts de Sodagreen ne s’inscrit pas dans la lignée de la « chanson folk de campus » propre à Chengchi ; elle se rapproche davantage de la vague de groupes indie qui surgit dans les universités taïwanaises de la fin des années 1990 au début des années 2000. Il n’y a pas toujours de label, pas toujours de studio, mais chaque campus a une section groupes, et chaque groupe tâtonne sur les scènes de concours universitaires.
+Le parcours scolaire de Wu Ching-feng est le suivant : après le lycée affilié à l’Université normale nationale de Taïwan, il entre en 2000 au département de chinois de l’Université nationale Chengchi par admission recommandée[^9]. Le site NCCU Memory, wiki d’histoire universitaire construit par la bibliothèque de Chengchi, en conserve la trace. Pendant ses études, il ne reste pas seulement dans le département de chinois : il passe aussi par la radio, la chorale et la conception de pochettes. L’image des débuts de Sodagreen ne s’inscrit pas dans la lignée de la « chanson folk de campus » propre à Chengchi ; elle se rapproche davantage de la vague de groupes indie qui surgit dans les universités taïwanaises de la fin des années 1990 au début des années 2000. Il n’y a pas toujours de label, pas toujours de studio, mais chaque campus a une section groupes, et chaque groupe tâtonne sur les scènes de concours universitaires.
 
 Hsieh Hsin-yi fait partie des premiers amis que Wu Ching-feng rencontre à Chengchi. Elle étudie la gestion d’entreprise ; avec Shih Chun-wei, ils appartiennent à la même équipe universitaire de natation, elle comme cadette, lui comme aîné. C’est une époque où les communautés de campus sont reliées couche après couche : la formation d’un groupe passe souvent par le même cercle de personnes qui va d’une activité associative à une autre avant de monter une formation. Rien à voir avec la trajectoire professionnelle où le milieu musical identifie d’abord un besoin, puis cherche des musiciens[^5].
 
@@ -72,7 +72,7 @@ Si l’on déplie les parcours disciplinaires des six membres, un schéma intér
 
 **Hsieh Hsin-yi** (basse), née le 16 avril 1982, département de gestion d’entreprise de Chengchi, l’une des quatre fondatrices de Sodagreen. Dans de nombreux entretiens ultérieurs, elle est présentée comme la « responsable domestique » du groupe : administration, horaires, communication.
 
-**Shih Chun-wei** (batterie), né le 26 août 1979, département de sociologie de Chengchi. Yamaha le liste sur sa page des artistes taïwanais ; parmi les membres de Sodagreen, il est l’un des rares batteurs liés professionnellement à une marque de matériel[^11]. Les deux caractères « soda » viennent de lui.
+**Shih Chun-wei** (batterie), né le 26 août 1979, département de sociologie de Chengchi. Yamaha le liste sur sa page des artistes taïwanais : il est l’un des rares batteurs de groupes taïwanais à entretenir une relation d’endorsement avec une marque internationale de matériel[^11]. Les deux caractères « soda » viennent de lui.
 
 **Ho Ching-yang** (guitare acoustique, chef du groupe), né le 4 avril 1982, master d’administration publique de Chengchi. Il assumera ensuite le rôle de chef de Sodagreen.
 
@@ -196,7 +196,7 @@ _〈無與倫比的美麗〉, clip original de 2007, tiré de l’album éponyme
   <iframe src="https://www.youtube.com/embed/mvAJ-KwhGrk" title="Sodagreen 〈狂熱〉 Fever Live in The Pool, documentaire d’enregistrement à Londres" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Extrait documentaire de l’enregistrement de 《夏／狂熱》 par Sodagreen aux Miloco Studios « The Pool » à Londres en 2009. Ce studio mythique, autrefois acheté par Roger Waters de Pink Floyd, a ensuite été repris par Miloco. Qu’un groupe indépendant taïwanais vole jusqu’ici pour enregistrer était alors presque un cas isolé._
+_Séquences filmées pendant l’enregistrement de 《夏／狂熱》 par Sodagreen aux Miloco Studios « The Pool » à Londres en 2009, diffusées ensuite par la chaîne officielle. Ce studio mythique, autrefois acheté par Roger Waters de Pink Floyd, a ensuite été repris par Miloco. Qu’un groupe indépendant taïwanais vole jusqu’ici pour enregistrer était alors presque un cas isolé._
 
 ---
 
@@ -290,7 +290,7 @@ Le nom chinois « 魚丁糸 » est un démontage graphique de « 蘇打綠 » :
 - 打 = 扌 + 丁
 - 綠 = 糸 + 彔
 
-Ils prennent les trois composants « 魚 », « 丁 » et « 糸 » pour former « 魚丁糸 ». En anglais, le nom s’écrit Oaeen.
+Ils prennent les trois composants « 魚 », « 丁 » et « 糸 » pour former « 魚丁糸 ». En anglais, le nom s’écrit Oaeen — ces cinq lettres sont elles-mêmes extraites de l’ancien nom du groupe, « S**o**d**a**gr**een** » : le nom qui leur a été retiré est caché dans les lettres du nouveau.
 
 L’idée de ce démontage n’apparaît pas seulement en 2019. Dès 2005, avant la sortie du premier album éponyme de Sodagreen, ils avaient déjà utilisé ce nom sur un disque d’écoute. En 2016, pendant la tournée d’adieu After Summer, ils étaient aussi montés sur une petite scène du festival Ho-hai-yan sous ce nom d’avatar : une performance rituelle qui les ramenait, sous un nom de double, au lieu où tout avait commencé.
 

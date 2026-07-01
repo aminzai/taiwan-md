@@ -34,10 +34,10 @@ sporeLinks:
     date: '2026-04-26'
     url: 'https://x.com/taiwandotmd/status/2048233702053073039'
 translatedFrom: 'People/田馥甄.md'
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:a39194b2f4737484'
-sourceBodyHash: 'sha256:d7c6d39e19e2fb58'
-translatedAt: '2026-06-10T16:43:34Z'
+sourceCommitSha: '380c49d7'
+sourceContentHash: 'sha256:d2852cc419867a37'
+sourceBodyHash: 'sha256:0f8970c54b5cd9d2'
+translatedAt: '2026-07-01T16:39:35Z'
 ---
 
 > **30-second overview:** Hebe Tien (born 1983, Hakka from Hsinchu) is one of the rare "voluntary step-back" figures in Mandopop history. In 2001, she and Jen Chia-hsuan (Selina) and Chen Chia-hua (Ella) formed S.H.E, selling over ten million records in a decade[^4]. In 2010 she released her debut solo album _To Hebe_, with a poster reading "super newcomer after ten years"[^6]. From "Devil's Angel" and "A Little Happiness" to the 2020 album _Unknown_, made with producer Chen Chien-chi, which won Best Mandarin Female Vocalist at the 32nd Golden Melody Awards[^13] — her sales records grew steadily stronger with each release. But in 2020 she turned down a Chinese variety show offer reportedly worth nearly NT$100 million[^25]; in 2022 she posted a photo of pasta on Instagram[^16]; in 2025 she held a concert tour at a salt flat and a paragliding field with no roof overhead[^19]; in 2026 she told reporters: "It's not a barrier — it's that I simply don't _want_ to step there."[^21] An idol cultivated by the industry, returning what the industry gave her — one piece at a time.
@@ -136,7 +136,7 @@ On August 2, 2022, US House Speaker Nancy Pelosi visited Taiwan. That day, Hebe 
 
 Chinese netizens, referencing Pelosi's Italian-American heritage, interpreted the pasta photo as an endorsement of Pelosi and a declaration of support for Taiwan independence. Her songs were removed from Chinese music platforms, and her Weibo lost over two million followers[^16]. Her 2010 song "Lido" was singled out for removal because of lyrics like "separated by a stretch of sea, leaving each other undisturbed" and "I feel this distance is just right" — interpreted as pro-independence sentiment[^31].
 
-In April 2024, she was originally scheduled to headline the Tianjin Bubble Island Music Festival on May 2. Chinese netizens mobilized again. On April 27, under public pressure, the organizer announced her cancellation from the lineup. Her response: two words — "**Very regrettable.**"[^17]
+In April 2024, she was originally scheduled to headline the Tianjin Bubble Island Music Festival on May 2. Chinese netizens mobilized again. On April 27, under public pressure, the organizer announced her cancellation from the lineup. Her response: three words — "**Very regrettable.**"[^17]
 
 After the pasta incident in 2022, she never apologized, never explained, never expressed regret. Two years later, in an interview, a reporter asked: "How have you been feeling lately? Would you want to have a drink or two?" She replied: "**Are you talking about the earthquake? Whether things are busy or not, I've always liked having a drink or two.**"[^32] She didn't pick up the pasta thread — she deflected the question elsewhere.
 

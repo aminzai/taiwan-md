@@ -25,10 +25,10 @@ lastVerified: '2026-04-26'
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/田馥甄.md'
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:a39194b2f4737484'
-sourceBodyHash: 'sha256:d7c6d39e19e2fb58'
-translatedAt: '2026-06-10T16:45:00+00:00'
+sourceCommitSha: '380c49d7'
+sourceContentHash: 'sha256:d2852cc419867a37'
+sourceBodyHash: 'sha256:0f8970c54b5cd9d2'
+translatedAt: '2026-07-01T16:40:25+00:00'
 ---
 
 > **Resumen en 30 segundos:** Hebe Tien (nacida en 1983, de origen hakka en Hsinchu) es una de las pocas "retiradas voluntarias" en la historia de la música pop en chino. En 2001 formó S.H.E junto con Ren Jiaxuan (Selina) y Chen Jiahua (Ella), y en una década vendieron más de diez millones de discos[^4]. En 2010 lanzó su primer álbum en solitario, To Hebe, con el eslogan "superdespués de diez años desde su debut"[^6]. Desde "Ángel entre los demonios" y "Pequeña suerte" hasta _Lo que nadie sabe_ (2020), producido junto con Chen Chien-chi, con el que ganó el premio a Mejor Cantante Femenina en Chino en la 32.ª edición de los Premios Golden Melody[^13]: sus récords de ventas se consolidaron álbum tras álbum. Pero en 2020 rechazó una oferta de un programa de variedades chino que, según se reportó, rondaba los 100 millones de dólares taiwaneses[^25]; en 2022 publicó una foto de pasta en Instagram[^16]; en 2025 llevó su gira a salinas y campos de vuelo sin techo[^19]; y en 2026 dijo ante los periodistas: "No es un obstáculo, es que 'no quiero pisarlo'"[^21]. Una cantante formada por la industria idol fue devolviendo pieza por pieza todo lo que esa industria le había dado.
@@ -127,7 +127,7 @@ El 2 de agosto de 2022, la presidenta de la Cámara de Representantes de Estados
 
 Los internautas chinos, tras el trasfondo italoamericano de Pelosi, interpretaron la foto de pasta como un apoyo a Pelosi y una postura independentista. Sus canciones fueron retiradas de las plataformas musicales chinas, y perdió más de dos millones de seguidores en Weibo[^16]. Su canción de 2010, "Isla alejada", cuyas letras dicen "separados por un mar, sin molestarnos mutuamente" y "creo que esta distancia es buena", fue señalada como de contenido independentista, convirtiéndose en la canción más mencionada en la lista de retirada[^31].
 
-En abril de 2024, estaba programada para actuar el 2 de mayo como acto de cierre en el Bubble Island Music Festival en Tianjin. Los internautas chinos volvieron a atacarla. El 27 de abril, los organizadores cancelaron su actuación bajo la presión de la opinión pública. Ella respondió con dos palabras: "**Muy lamentable**"[^17].
+En abril de 2024, estaba programada para actuar el 2 de mayo como acto de cierre en el Bubble Island Music Festival en Tianjin. Los internautas chinos volvieron a atacarla. El 27 de abril, los organizadores cancelaron su actuación bajo la presión de la opinión pública. Ella respondió con tres palabras: "**Es muy lamentable**"[^17].
 
 Tras la foto de pasta de 2022, no se disculpó, no explicó ni mostró arrepentimiento. Dos años después del incidente, en una entrevista en la que un periodista le preguntó "¿Has estado bien últimamente? ¿Te apetece beber un par de copas más?", ella respondió: "**¿Te refieres al terremoto? Con muchas cosas o con pocas, siempre me gusta beber un par de copas.**"[^32] No abordó el tema de la pasta y desvió la pregunta hacia otro lado.
 

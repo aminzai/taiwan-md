@@ -25,10 +25,10 @@ readingTime: 18
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: People/田馥甄.md
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:a39194b2f4737484'
-sourceBodyHash: 'sha256:d7c6d39e19e2fb58'
-translatedAt: 2026-06-10T16:45:50Z
+sourceCommitSha: '380c49d7'
+sourceContentHash: 'sha256:d2852cc419867a37'
+sourceBodyHash: 'sha256:0f8970c54b5cd9d2'
+translatedAt: 2026-07-01T16:40:24Z
 ---
 
 > **En 30 secondes :** Tian Fuzhen (née en 1983, originaire de la communauté hakka du comté de Hsinchu) est l'une des rares « retraitées volontaires » de l'histoire de la pop mandarine. En 2001, elle forme S.H.E avec Ren Jiayuan (Selina) et Chen Jiahua (Ella), et le groupe vend plus de dix millions de disques en dix ans[^4]. En 2010, elle sort son premier album solo _To Hebe_, avec pour slogan « super nouvelle artiste après dix ans de carrière »[^6]. De _L'ange parmi les démons_ à _Xiao Xingyun_ (_A Little Luck_), puis à _Nobody Knows_ (2020), réalisé avec Chen Jianqi, qui lui vaut le prix de la meilleure chanteuse mandarine aux 32e Golden Melody Awards[^13] — ses succès commerciaux ne cessent de se confirmer. Mais en 2020, elle décline une offre de près de 100 millions de dollars taïwanais pour une émission de variétés en Chine continentale[^25] ; en 2022, elle publie une photo de pâtes sur Instagram[^16] ; en 2025, elle organise une tournée dans des salines à ciel ouvert et un terrain de vol libre[^19] ; en 2026, elle déclare face aux journalistes : « Ce n'est pas un obstacle, c'est que je n'ai pas envie d'y mettre les pieds »[^21]. Une chanteuse façonnée par l'industrie de l'idole a rendu, pièce par pièce, ce que cette industrie lui avait donné.
@@ -127,7 +127,7 @@ Le 2 août 2022, la présidente de la Chambre des représentants américaine Nan
 
 Les internautes chinois, en raison des origines italo-américaines de Pelosi, interprètent cette photo de pâtes comme un soutien à Pelosi et une position pro-indépendance. Ses chansons sont retirées des plateformes musicales chinoises, et elle perd plus de 2 millions d'abonnés sur Weibo[^16]. Sa chanson de 2010 _Lidao_ (_Île isolée_), dont les paroles « séparés par une mer, sans nous déranger mutuellement » et « je trouve cette distance très bien », est interprétée comme un message pro-indépendance et devient la chanson la plus citée dans la liste des retraits[^31].
 
-En avril 2024, elle devait se produire le 2 mai au Bubble Island Music Festival à Tianjin en tant qu'artiste de clôture. Les internautes chinois lancent une nouvelle campagne. Le 27 avril, l'organisateur annule la performance de Tian Fuzhen sous la pression de l'opinion publique. Elle répond par deux mots : « **C'est regrettable** »[^17].
+En avril 2024, elle devait se produire le 2 mai au Bubble Island Music Festival à Tianjin en tant qu'artiste de clôture. Les internautes chinois lancent une nouvelle campagne. Le 27 avril, l'organisateur annule la performance de Tian Fuzhen sous la pression de l'opinion publique. Elle répond par trois mots : « **C'est regrettable** »[^17].
 
 Après la photo de pâtes de 2022, elle ne s'est pas excusée, n'a pas expliqué, n'a pas exprimé de regret. Deux ans plus tard, lors d'une interview, un journaliste lui demande : « Comment allez-vous ces derniers temps ? Avez-vous envie de boire un verre de plus ? » Elle répond : « **Vous parlez du tremblement de terre ? Que les choses soient nombreuses ou rares, j'aime bien boire un verre de temps en temps.** »[^32] Elle ne reprend pas le sujet des pâtes, déplaçant la question ailleurs.
 
