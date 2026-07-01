@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T06:11:38.331502",
+  "lastUpdated": "2026-07-01T23:09:56.730574",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 50,
@@ -11,7 +11,7 @@
     "citation_density": 91.1,
     "tool_freshness": 60,
     "drift_velocity": 90.0,
-    "external_rulers": 3.7
+    "external_rulers": 4.0
   },
   "componentWeights": {
     "review_coverage": 0.25,
@@ -67,7 +67,7 @@
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 15,
+    "new_articles_7d": 13,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
@@ -210,7 +210,7 @@
     "note": "Phase 7 v1 — per-plugin drift only. Future: per-section EDITORIAL, false-positive-rate, longitudinal violation trend."
   },
   "externalRulersDetail": {
-    "ruledArticles": 31,
+    "ruledArticles": 33,
     "totalArticles": 828,
     "rulerSources": {
       "factcheckReports": true,

@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-06-30T22:11:32.569Z",
+  "generatedAt": "2026-07-01T15:09:51.356Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "dca365b3c20dfb06dc2cdd64b755bd1fc9d27540",
+      "date": "2026-07-01T22:08:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-01-220245-twmd-maintainer-pm — PR #1186 contributor refine 3/4 verify + partial-fix honest flag acknowledge",
+      "articles": []
+    },
+    {
+      "hash": "4366d518d35f438114ee3f93bec4608348d5f52a",
+      "date": "2026-07-01T21:48:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-01-214709-twmd-rewrite-daily — 讀者 A 五筆勘誤打包成 heal batch cycle",
+      "articles": []
+    },
+    {
+      "hash": "380c49d7ed84f64913c6d8248b011cb850871906",
+      "date": "2026-07-01T21:45:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 田馥甄 — 讀者 A 勘誤 issue #1187",
+      "articles": [
+        {
+          "url": "/people/田馥甄",
+          "name": "田馥甄"
+        }
+      ]
+    },
+    {
+      "hash": "9a89767669148e5ef8c2a73d67053dab8381b849",
+      "date": "2026-07-01T21:45:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 蘇打綠 — 讀者 A 四筆勘誤 issue #1188/#1189/#1190/#1191",
+      "articles": [
+        {
+          "url": "/music/蘇打綠",
+          "name": "蘇打綠"
+        }
+      ]
+    },
+    {
+      "hash": "0c83d57855bf7ba28c6f4d8e1b7aa97a36dc4f88",
+      "date": "2026-07-01T08:46:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-maintainer-am: PR #1186 台南中西區小吃 5-層 review comment posted 用敘事化中文（4 好處 + 4 需查 + 主權留 contributor）不 auto-merge；5 fresh fact-check #1187–#1191 read-only 確認 07:09 triage 已 route 不動文章",
+      "articles": []
+    },
+    {
+      "hash": "2ae0b9ea6d4dc88b76ce20a52cbb7115da468858",
+      "date": "2026-07-01T07:10:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 讀者 A 凌晨送 5 筆細讀勘誤全 ship issue #1187–#1191 — 連 10 cycle no-op 後第二天破，HG6 守住「4 同題非重複」反向誤判",
+      "articles": []
+    },
+    {
+      "hash": "2b80087cb7e8faf181ccf8c899ec6706e65f284d",
+      "date": "2026-07-01T06:45:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-01-064316-twmd-spore-harvest-am — pure plateau snapshot 連 2 cycle vc=2 confirms",
+      "articles": []
+    },
+    {
+      "hash": "7bfe5e2b1c2621c44e67669675e4a15a96a42489",
+      "date": "2026-07-01T06:42:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 6 events ship + 0 reply ship (pure plateau snapshot 連 2 cycle) — 2026-07-01",
+      "articles": []
+    },
+    {
+      "hash": "7c194623993d52cc94074dbc26e7a2ed5d867826",
+      "date": "2026-07-01T06:15:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-01-061252-twmd-data-refresh-am — CF 404 baseline reset 確認",
+      "articles": []
+    },
+    {
+      "hash": "db9412df1f580ddf367ff3a60dabcd93e66bd9fa",
+      "date": "2026-07-01T06:12:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh",
+      "articles": []
+    },
     {
       "hash": "55cade62e9d1e94298c12701017c8c9b7e5d7356",
       "date": "2026-07-01T05:09:06+08:00",

@@ -2,12 +2,12 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-06-30",
+    "last_census": "2026-07-01",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 356497,
-      "users": 170136
+      "views": 358437,
+      "users": 171696
     },
     "dev_noise": {
       "views": 9903,
@@ -36,16 +36,16 @@
       "health": "semi-active",
       "last_push": "2026-06-04",
       "first_seen": "2026-04",
-      "last_seen": "2026-06",
+      "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
-        "views": 601,
+        "views": 615,
         "users": 76
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 598,
-        "users": 58
+        "views": 612,
+        "users": 59
       },
       "confidence": "high",
       "notes": "最活躍的(73 users)。唯一採 semiont-kernel 路徑的 fork。改過名 國本→農業。可能長出我沒有的器官(農業曆/產季/病蟲害)= 弟弟教哥哥候選"
@@ -69,7 +69,7 @@
       "health": "dormant",
       "last_push": "2026-04-15",
       "first_seen": "2026-03",
-      "last_seen": "2026-06",
+      "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
         "views": 154,
@@ -102,7 +102,7 @@
       "health": "active",
       "last_push": "2026-06-13",
       "first_seen": "2026-03",
-      "last_seen": "2026-06",
+      "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
         "views": 101,
@@ -139,7 +139,7 @@
       "health": "unknown",
       "last_push": "unknown",
       "first_seen": "2026-03",
-      "last_seen": "2026-06",
+      "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
         "views": 68,
@@ -172,7 +172,7 @@
       "health": "unknown",
       "last_push": "unknown",
       "first_seen": "2026-06",
-      "last_seen": "2026-06",
+      "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
         "views": 0,
@@ -205,7 +205,7 @@
       "health": "active",
       "last_push": "2026-06-25",
       "first_seen": "2026-06",
-      "last_seen": "2026-06",
+      "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
         "views": 25,
@@ -238,7 +238,7 @@
       "health": "unknown",
       "last_push": "unknown",
       "first_seen": "2026-06",
-      "last_seen": "2026-06",
+      "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
         "views": 0,
@@ -271,7 +271,7 @@
       "health": "abandoned",
       "last_push": "2026-03-26",
       "first_seen": "2026-03",
-      "last_seen": "2026-06",
+      "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
         "views": 10,
@@ -313,7 +313,7 @@
       "content_articles": "n/a",
       "health": "ephemeral",
       "first_seen": "2026-03",
-      "last_seen": "2026-06",
+      "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
         "views": 0,
