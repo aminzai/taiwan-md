@@ -6,8 +6,8 @@
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 358437,
-      "users": 171696
+      "views": 358806,
+      "users": 171944
     },
     "dev_noise": {
       "views": 9903,
@@ -39,12 +39,12 @@
       "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
-        "views": 615,
+        "views": 616,
         "users": 76
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 612,
+        "views": 613,
         "users": 59
       },
       "confidence": "high",
@@ -142,13 +142,13 @@
       "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
-        "views": 68,
-        "users": 15
+        "views": 70,
+        "users": 17
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 68,
-        "users": 15
+        "views": 70,
+        "users": 17
       },
       "confidence": "low (是不是我們的 fork 無法證實);high (gated + 蘇巧慧身份)",
       "notes": "官方站 chiao.tw 是另一個標準立委站(非此)。wiki 命名 + GA 漏水偵測 suggestive 但無 content/repo/GA tag 可證實。誠實標 unknown"

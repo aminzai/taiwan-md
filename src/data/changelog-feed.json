@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-07-01T15:09:51.356Z",
+  "generatedAt": "2026-07-01T22:12:01.328Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "e598f70d315cf077470d5da8fb3b81d4e0fc017b",
+      "date": "2026-07-02T05:09:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-02-050817-twmd-embeddings-nightly — embedding 連 15 夜 fleet-down graceful skip，本機 Tailscale stopped 是實測 root cause",
+      "articles": []
+    },
+    {
+      "hash": "89202239c8322f7a51fd10c5b05b9eaad9f050c9",
+      "date": "2026-07-02T00:59:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-02-005729-twmd-babel-nightly — Computex EVOLVE 撞 gpt-oss 天花板 Sonnet 五語接手",
+      "articles": []
+    },
+    {
+      "hash": "8f2ea7b20784097c14d50130cff8357eddb8a838",
+      "date": "2026-07-02T00:57:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 15 譯本 ship — 蘇打綠+田馥甄+Computex 五語同步",
+      "articles": []
+    },
+    {
+      "hash": "0bf6370261a44833540d4b7d10310a4f53c0d426",
+      "date": "2026-07-01T23:13:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh",
+      "articles": []
+    },
     {
       "hash": "dca365b3c20dfb06dc2cdd64b755bd1fc9d27540",
       "date": "2026-07-01T22:08:57+08:00",
