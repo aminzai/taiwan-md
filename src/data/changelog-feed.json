@@ -1,7 +1,56 @@
 {
-  "generatedAt": "2026-07-01T22:12:01.328Z",
+  "generatedAt": "2026-07-02T15:09:58.201Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "f8d0d93aadc3b15f217e8f66f1e23f467b8cd3c2",
+      "date": "2026-07-02T22:11:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-02-220451-twmd-maintainer-pm — pm cron 3 fresh contributor PR 5-層 review posted + #1186 拆 5 檔 acknowledge 全 主權留哲宇",
+      "articles": []
+    },
+    {
+      "hash": "916a068e82306ba525f6b6a56008c7a2922782d8",
+      "date": "2026-07-02T08:41:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-02-084025-twmd-maintainer-am — 1 PR carry + 8 issue carry read-only 呈報，B 路徑 3-cycle carry-state 形狀 vc=1",
+      "articles": []
+    },
+    {
+      "hash": "1ad58325e56bbac6ecd054179cbcdc731a442e72",
+      "date": "2026-07-02T07:09:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 新回報 0 筆 no-op，但把哲宇對讀者 A 五筆勘誤的公開回覆 sync 進 git 主權層 archive（5 筆維護者留言）",
+      "articles": []
+    },
+    {
+      "hash": "164e145d2e0bb48160c10b8709b2704d8e3a811c",
+      "date": "2026-07-02T06:43:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-02-064153-twmd-spore-harvest-am — 4 events + pure plateau 連 3 cycle vc=3 promote-ready + 4-cycle 韻律候選 vc=1 first datapoint",
+      "articles": []
+    },
+    {
+      "hash": "60cf6981ff4a9c6df68fdc89246b81e2b8b4c0b2",
+      "date": "2026-07-02T06:41:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 4 events ship + 0 reply ship (pure plateau 連 3 cycle promote-ready) — 2026-07-02",
+      "articles": []
+    },
+    {
+      "hash": "79dde07a34ba97cee2d14c9dea8bcb38c1c086aa",
+      "date": "2026-07-02T06:15:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-02-061058-twmd-data-refresh-am — CF 404 24.93% baseline reset 連 4 cycle confirms + 免疫 49 chronic 第 9 cycle 加深 1 分",
+      "articles": []
+    },
+    {
+      "hash": "148168e1052f59182f417abb95e89dabec9a40bf",
+      "date": "2026-07-02T06:13:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh",
+      "articles": []
+    },
     {
       "hash": "e598f70d315cf077470d5da8fb3b81d4e0fc017b",
       "date": "2026-07-02T05:09:29+08:00",
