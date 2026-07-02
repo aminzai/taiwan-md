@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-07-02T15:09:58.201Z",
+  "generatedAt": "2026-07-02T22:12:14.586Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "93f5137ab622bcfa0028d08026fc9c4a3bd956e2",
+      "date": "2026-07-03T05:10:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-03-050815-twmd-embeddings-nightly — embedding 連 16 夜 fleet-down graceful skip，查清僅 laptop-4090 有 bge-m3 本機 fallback 尚未 provision",
+      "articles": []
+    },
+    {
+      "hash": "ec11cfb35da25fee75322aaa38550a0b11b41148",
+      "date": "2026-07-03T00:38:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-03-003640-twmd-babel-nightly — 5 metadata-only bump Culture/台灣聲景.md 五語 P2.5 → 100% coverage / Tier 0b 首次乾淨 dogfood / P2.5-only cycle 第一個 datapoint",
+      "articles": []
+    },
+    {
+      "hash": "424a2a8077eb57f80c34c680feb5d6ae20d8efa0",
+      "date": "2026-07-03T00:36:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 5 metadata-only bump — Culture/台灣聲景.md 五語 source_sha 同步",
+      "articles": []
+    },
+    {
+      "hash": "746c9440c571ea53263f337b6e4543ca694ae780",
+      "date": "2026-07-02T23:13:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: memory 39→41 cycle 一致性 fix",
+      "articles": []
+    },
+    {
+      "hash": "a8e5d2700fbcc573feec469a475beba23a34553a",
+      "date": "2026-07-02T23:13:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-02-231124-twmd-data-refresh-pm — pm 14-step 全綠 CF 404 25.51% 破 4-cycle plateau single-window jump + 免疫 49 chronic 第 10 cycle 觸發 REFLEXES #15 反覆浮現閾值 escalate-ready",
+      "articles": []
+    },
+    {
+      "hash": "4fc88d84a86f9803da4fda7b24b3dfee9d38e937",
+      "date": "2026-07-02T23:11:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh",
+      "articles": []
+    },
     {
       "hash": "f8d0d93aadc3b15f217e8f66f1e23f467b8cd3c2",
       "date": "2026-07-02T22:11:11+08:00",
