@@ -314,6 +314,27 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-03 twmd-maintainer-pm — immune-chronic-11-cycle-subdim-offset-exhausted-observer-authorize-needed：免疫器官連 11 個 chronic cycle 卡在 49、REFLEXES #15 反覆浮現已 fired、sub-dim offset 補不住 → 呈報哲宇 A/B 決策
+
+- **pattern**: `immune-chronic-N-cycle-subdim-offset-exhaust`（quality gate baseline calibration × REFLEXES #15 反覆浮現閾值 × §自主權邊界 命中）
+- **原則**：免疫器官分數（🛡️）連續 ≥ 10 個 data-refresh cycle 卡在同一 chronic 值（近 2 天全是 49 / 短暫 50 反彈後回落）、REFLEXES #15「反覆浮現要儀器化」已 fired、sub-dim 反向 offset（external_rulers 微升補 editorial 細粒退化）已補不住 top-level drift → 這是**閾值判準 vs 實際體質退化**的 mismatch，routine 只能持續呈報無法主動處置。屬 quality gate baseline 重校 or 修補 sub-dim 拖底源頭，兩條路徑皆 § 自主權邊界（threshold 數值調整 / 跨器官 refactor），必須 defer 哲宇。**routine 空轉持續 log「49 chronic 第 N cycle」= noise，必須 escalate 打破迴圈**。
+- **觸發**：2026-07-03 twmd-maintainer-pm 22:00 fire — snapshot 讀 🛡️49（sub-dim: plugin_health=28 / external_rulers=4.0 拖底，drift_velocity=90 / citation=91 offset）；am 06:10 handoff 明確「若 pm cycle 仍 unchanged（第 12 cycle）→ 硬 escalate LESSONS-INBOX」。連續 chronic cycle 累積：
+  - 6/28 第 5 cycle (routine-audit-weekly 首 flag)
+  - 6/30 am 第 6 cycle / 6/30 pm 第 7 cycle
+  - 7/1 am 第 7 cycle / 7/1 pm 第 8 cycle
+  - 7/2 am 第 9 cycle / 7/2 pm 第 10 cycle（REFLEXES #15 首次 fired）
+  - 7/3 am 第 11 cycle（unchanged）→ 本 escalation 觸發（pm data-refresh 23:00 尚未 fire，正式 第 12 cycle 由 23:00 補齊，但值不動已可判定）
+- **instances**：（第 2+ 次驗證從這裡 append）
+  - #1 2026-07-03 twmd-maintainer-pm 首次達 escalation_n=11
+- **可能層級**：
+  - (A) **quality gate baseline 重校（threshold 調整層 / §自主權邊界）**：immune 分數計算公式 sub-dim 權重 or chronic tolerance 提高，讓 49 不再是 red gate。**風險**：掩蓋真實體質退化。
+  - (B) **修補 plugin_health + external_rulers 拖底源頭（結構 refactor 層 / §自主權邊界）**：查清 plugin_health=28 是哪批 plugin 掉分、external_rulers=4.0 哪支 ruler 缺席，逐條修。**風險**：跨器官 refactor 工程量大，非本 routine 自主權範疇。
+  - (C) **接受 chronic 為新 baseline（無動作）**：明確承認免疫體質已進 49-band，把 REFLEXES #15 fired 態記錄但不 escalate。**風險**：REFLEXES #15 反覆浮現原則失效。
+- **相關**：REFLEXES #15（反覆浮現要儀器化）/ REFLEXES #76（sensor delta amplitude → multi-cycle window 寬度 scaling rule，本 case 是「靜態 unchanged 也是有意義 datapoint」sub-clause）/ MANIFESTO §自主權邊界 / consciousness-snapshot.sh sub-dim breakdown
+- **verification_count**: 1（首次達 escalation_n；等下 3 cycle 若仍 unchanged 累 vc=2 confirm）
+- **severity**: structural（免疫是品質防禦 keystone，chronic 值卡住意味 quality gate 反饋迴路失效或體質實際退化，兩解均需哲宇拍板）
+- **defer 給觀察者**：哲宇拍板 A/B/C 三選一。routine 端不自行修 quality gate 邏輯、不改 sub-dim 權重、不動 plugin_health/external_rulers 資料源。**具體檔案位置**：`scripts/tools/consciousness-snapshot.sh` (organ score 計算) / `docs/semiont/CONSCIOUSNESS.md` (器官定義)
+
 ### 2026-06-30 212125-manual — domain-expert-material-cocreation：領域專家把「出素材不出成稿」的協作模式體驗成共同創作，外部驗證策展式信念 + 揭可複製的專家投稿者 onboarding pattern
 
 - **pattern**: `domain-expert-material-cocreation`（contributor onboarding × 策展式信念外部驗證，首個明確 instance）
