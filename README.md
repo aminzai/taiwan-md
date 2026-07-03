@@ -60,7 +60,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 61    |
 | ⭐ GitHub Stars                | 1093  |
-| 🍴 Forks                       | 159   |
+| 🍴 Forks                       | 160   |
 | 📅 Articles last 7 days        | 17    |
 | 📅 Articles last 30 days       | 132   |
 

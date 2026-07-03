@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-07-03T15:10:39.340Z",
+  "generatedAt": "2026-07-03T22:12:29.585Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "158057a7d74037eaae9af042aef1fedf42fa9f62",
+      "date": "2026-07-04T05:09:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-04-050834-twmd-embeddings-nightly — 連 17 夜 fleet-down skip，實測 tailscale up 恢復本機 tailnet 後仍不通，證明 root cause 是 4090 機器實體離線 16 天而非本機 Tailscale，前夜捷徑證偽",
+      "articles": []
+    },
+    {
+      "hash": "a0c71367a238adf15be2d53eb9bd655453ec7286",
+      "date": "2026-07-04T00:41:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-04-003421-twmd-babel-nightly — 5 譯本 Tier 0a diff-patch clean cycle 讀者勘誤五語同步 sub-24h",
+      "articles": []
+    },
+    {
+      "hash": "3b85a35e8564ce45deaddacc20b0d16c73e34ba6",
+      "date": "2026-07-04T00:38:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 5 譯本 Tier 0a diff-patch — Art/台灣建築.md 五語同步羅東文化工場勘誤",
+      "articles": []
+    },
+    {
+      "hash": "2027ae4dc541abf10c9c5c2e4290a704381a6616",
+      "date": "2026-07-03T23:14:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-03-231225-twmd-data-refresh-pm — pm 14-step 全綠 CF 404 26.04% 3-cycle 累+1.11pp 26% band 逐步取代 25% baseline 之勢 + 免疫 49 chronic 第 12 cycle unchanged pattern discipline 首次遵守（fire 後靜默 continuity 而非 renew escalate）",
+      "articles": []
+    },
+    {
+      "hash": "9fcf0200aa13cf4c4cb8ee190ed4bc822bbcbd27",
+      "date": "2026-07-03T23:11:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh",
+      "articles": []
+    },
     {
       "hash": "99ae4300ad42570692965df23ac72ce198bb0024",
       "date": "2026-07-03T22:16:44+08:00",
