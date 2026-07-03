@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-07-02T22:12:14.586Z",
+  "generatedAt": "2026-07-03T15:10:39.340Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "99ae4300ad42570692965df23ac72ce198bb0024",
+      "date": "2026-07-03T22:16:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-03-221251-twmd-rewrite-daily — 18:00 cron +4h slip 後 capacity 誠實判斷 pivot heal 而非 depth full-cycle",
+      "articles": []
+    },
+    {
+      "hash": "eac12cd91b4b19eeba5657bf2646ac00233b801b",
+      "date": "2026-07-03T22:12:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 台灣建築 — 羅東文化工場描述細化（讀者 黃任遠 勘誤 #1203）",
+      "articles": [
+        {
+          "url": "/art/台灣建築",
+          "name": "台灣建築"
+        }
+      ]
+    },
+    {
+      "hash": "c7b41a60db9d93cae24af3f7a7266a06aeb6db3e",
+      "date": "2026-07-03T22:10:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-03-220525-twmd-maintainer-pm — am 08:40 已 review 全 8 PR + routing 5 fresh issue，pm 22:00 cron 過 13hr 純 carry state 無 fresh signal / 免疫 49 chronic 第 11 cycle unchanged 依 am handoff 硬 escalate LESSONS entry immune-chronic-subdim-offset-exhaust pending 哲宇 A/B/C 決策 / vc=1 first datapoint am-absorbs-pm-carry-forward 形狀",
+      "articles": []
+    },
+    {
+      "hash": "f34acdea75e33792b23ff7538289fb50d51f710e",
+      "date": "2026-07-03T08:47:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-03-084036-twmd-maintainer-am — 4 idlccp1984 batch PR (三峽/鶯歌/新美館+#1194) 五層 review + #1198 林啟維透明揭露案 + #1193 湖口老街 ack + 5 fresh issue routing",
+      "articles": []
+    },
+    {
+      "hash": "5ee186d5d791acd37af4c652caa8e1022f1ed104",
+      "date": "2026-07-03T07:10:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 5 新回報全 FILE 開 issue #1199–#1203",
+      "articles": []
+    },
+    {
+      "hash": "5f2de706d748c15e06b6c734bc35123ff91f83b9",
+      "date": "2026-07-03T06:43:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 2 events ship (紀懷新 D+6) + 0 reply ship — 2026-07-03",
+      "articles": []
+    },
+    {
+      "hash": "fda9468c6810b15ebd11975ccc86665c00c75dba",
+      "date": "2026-07-03T06:15:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-03-061054-twmd-data-refresh-am — am 14-step 全綠 CF 404 25.38% 確認新 25.4% band step-up plateau (舊 24.93% × 4 cycle + 新 25.4% × 2 cycle 兩層 layered) + 免疫 49 chronic 第 11 cycle unchanged (REFLEXES #15 fired 後靜態亦是有意義 datapoint)",
+      "articles": []
+    },
     {
       "hash": "93f5137ab622bcfa0028d08026fc9c4a3bd956e2",
       "date": "2026-07-03T05:10:28+08:00",

@@ -1,5 +1,42 @@
 [
   {
+    "title": "台灣建築",
+    "slug": "台灣建築",
+    "category": "art",
+    "subcategory": "建築",
+    "date": "2026-03-28",
+    "lastModified": "2026-07-03",
+    "lastVerified": "2026-03-28",
+    "lastHumanReview": "true",
+    "featured": true,
+    "wordCount": 5789,
+    "tagCount": 5,
+    "tags": [
+      "建築",
+      "文化",
+      "歷史",
+      "原住民",
+      "日治"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true
+    },
+    "revision": 15,
+    "commitHash": "eac12cd9",
+    "commitSubject": "🧬 [routine] heal: 台灣建築 — 羅東文化工場描述細化（讀者 黃任遠 勘誤 #1203）",
+    "description": "從石板屋到摩天樓：一座島嶼的建築時光之旅",
+    "healthScore": 90,
+    "qualityScore": 4,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 0
+  },
+  {
     "title": "蘇打綠：他們花了二十年才知道，自己的名字也要打官司",
     "slug": "蘇打綠",
     "category": "music",
@@ -8860,7 +8897,7 @@
     "commitHash": "5db9f136",
     "commitSubject": "🧬 [semiont] feat: spore SSOT cleanup — Phase 1-6 consolidated (post-#905 stacked PR recovery) (#909)",
     "description": "1949 年渡海而來的二胡和琵琶，七十年後在台灣演奏布農族的八部合音。台灣國樂如何從政治正統的象徵，演化成一個跟對岸截然不同的音樂物種。",
-    "healthScore": 85,
+    "healthScore": 80,
     "qualityScore": 0,
     "formatIssues": 0,
     "hasOverview": true,
@@ -18524,43 +18561,6 @@
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
-    "fnCount": 0
-  },
-  {
-    "title": "台灣建築",
-    "slug": "台灣建築",
-    "category": "art",
-    "subcategory": "建築",
-    "date": "2026-03-28",
-    "lastModified": "2026-03-29",
-    "lastVerified": "2026-03-28",
-    "lastHumanReview": "true",
-    "featured": true,
-    "wordCount": 5748,
-    "tagCount": 5,
-    "tags": [
-      "建築",
-      "文化",
-      "歷史",
-      "原住民",
-      "日治"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true
-    },
-    "revision": 14,
-    "commitHash": "9644c201",
-    "commitSubject": "polish: 台灣建築 — EDITORIAL v4 cleanup (remove plastic, add callouts/wikilinks/quotes)",
-    "description": "從石板屋到摩天樓：一座島嶼的建築時光之旅",
-    "healthScore": 90,
-    "qualityScore": 4,
-    "formatIssues": 0,
-    "hasOverview": true,
-    "hasReading": true,
     "fnCount": 0
   },
   {
