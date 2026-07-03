@@ -17,10 +17,10 @@ readingTime: 15
 featured: true
 translatedFrom: 'Art/台灣建築.md'
 lastVerified: 2026-03-28
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:97939516b3de2749'
-sourceBodyHash: 'sha256:8d0abd22f69dd0b4'
-translatedAt: '2026-06-16T17:13:36Z'
+sourceCommitSha: 'eac12cd9'
+sourceContentHash: 'sha256:211251c042500a3e'
+sourceBodyHash: 'sha256:41c2c3ee5e118612'
+translatedAt: '2026-07-03T16:37:39Z'
 ---
 
 # L'architecture de Taïwan : un poème en volumes au carrefour des civilisations
@@ -108,7 +108,7 @@ Du début des travaux en 2009 à l'inauguration officielle en 2016, sept ans de 
 
 Huang Sheng-yuan (né en 1963), diplômé en architecture de l'Université Yale, prend en 1994 une décision que beaucoup de ses camarades peinent à comprendre : il renonce aux opportunités dans les grandes métropoles pour s'installer à Yilan, dans le nord-est de Taïwan, où il fonde le « Field Office Architects ». Sa philosophie tient en une phrase : « Que l'architecture fasse partie du paysage, plutôt qu'elle n'en soit le maître. »
 
-Les bâtiments du Field Office ne ressemblent pas à une architecture au sens ordinaire. Le Luodong Cultural Working House (2012) est un équipement public sans murs, dont on peut grimper sur le toit, aux limites spatiales volontairement floues. La Passerelle de Jinmei (2003) transforme une voie ferrée désaffectée en promenade suspendue au-dessus des rizières, permettant de marcher à la hauteur des épis et de permuter le point de vue entre différentes altitudes.
+Les bâtiments du Field Office ne ressemblent pas à une architecture au sens ordinaire. Le Luodong Cultural Working House (2012) remplace la boîte fermée typique des centres culturels traditionnels par un immense auvent, une place semi-extérieure et une galerie aérienne suspendue ; sa structure ouverte et ses plateformes surélevées praticables brouillent la frontière entre « intérieur et extérieur du bâtiment » et « activité publique ». La Passerelle de Jinmei (2003) transforme une voie ferrée désaffectée en promenade suspendue au-dessus des rizières, permettant de marcher à la hauteur des épis et de permuter le point de vue entre différentes altitudes.
 
 > **✦** « Dès qu'on monte sur un toit, on commence à avoir des idées. » — Huang Sheng-yuan, Field Office Architects (entretien ARTouch)
 

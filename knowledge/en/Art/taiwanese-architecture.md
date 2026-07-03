@@ -12,10 +12,10 @@ revision: 2
 lastVerified: 2026-03-28
 lastHumanReview: true
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:97939516b3de2749'
-sourceBodyHash: 'sha256:8d0abd22f69dd0b4'
-translatedAt: '2026-06-16T17:10:15Z'
+sourceCommitSha: 'eac12cd9'
+sourceContentHash: 'sha256:211251c042500a3e'
+sourceBodyHash: 'sha256:41c2c3ee5e118612'
+translatedAt: '2026-07-03T16:37:05Z'
 ---
 
 # Taiwanese Architecture: A Layered Poem of Cultural Convergence
@@ -103,7 +103,7 @@ The entire project ran from 2009 to its formal opening in 2016, seven years and 
 
 Huang Sheng-yuan (born 1963) holds a master's degree in architecture from Yale. In 1994 he made a decision his classmates could not understand: he gave up the opportunity to remain in a large city and moved to Yilan in northeastern Taiwan, where he founded "Field Office Architects" (田中央工作群). His philosophy is simple: "Let architecture become part of the landscape, not a ruler of it."
 
-Field Office's buildings do not look like conventional architecture. The Luodong Cultural Working House (2012) is a public building without walls — you can climb its roof, and the boundaries of the space are deliberately blurred. The Jinmei Footbridge (2003) transformed an abandoned railway into a walkway floating above rice paddies, allowing people to move at the height of the rice fields, their vantage point shifting as the elevation changes.
+Field Office's buildings do not look like conventional architecture. The Luodong Cultural Working House (2012) replaces the closed, boxed-in volume of a conventional cultural center with a giant canopy, a semi-outdoor plaza, and a suspended sky gallery; through an open structure and walkable elevated platforms, it tangles up the boundary between "inside and outside the building" and "public activity." The Jinmei Footbridge (2003) transformed an abandoned railway into a walkway floating above rice paddies, allowing people to move at the height of the rice fields, their vantage point shifting as the elevation changes.
 
 > **✦** "Once people stand on a rooftop, they tend to gain perspective." — Huang Sheng-yuan, Field Office Architects (in a Diancan ARTouch interview)
 

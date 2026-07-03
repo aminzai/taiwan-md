@@ -10,10 +10,10 @@ lastVerified: 2026-03-28
 lastHumanReview: true
 featured: true
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:97939516b3de2749'
-sourceBodyHash: 'sha256:8d0abd22f69dd0b4'
-translatedAt: '2026-06-16T17:10:37Z'
+sourceCommitSha: 'eac12cd9'
+sourceContentHash: 'sha256:211251c042500a3e'
+sourceBodyHash: 'sha256:41c2c3ee5e118612'
+translatedAt: '2026-07-03T16:37:27Z'
 ---
 
 # Arquitectura taiwanesa: un poema tridimensional de convergencia cultural
@@ -101,7 +101,7 @@ Toda la obra se prolongó desde 2009 durante siete años, inaugurándose formalm
 
 Sheng-Yuan Huang (nacido en 1963), máster en Arquitectura por la Universidad de Yale, tomó en 1994 una decisión que muchos de sus compañeros no comprendieron: renunciar a seguir en una gran ciudad y mudarse a Yilan, en el noreste de Taiwán, donde fundó el «Fieldoffice Architects». Su filosofía es simple: «dejar que la arquitectura se convierta en parte del paisaje, no en su dueña.»
 
-Los edificios de Fieldoffice no se parecen a lo que comúnmente se entiende por arquitectura. El Taller Cultural de Luodong (2012) es un edificio público sin muros, cuyo tejado se puede escalar, y cuyos límites espaciales son difusos. La Pasarela Jinmei (2003) transforma una vía ferroviaria abandonada en un sendero que flota entre los arrozales, permitiendo caminar a la altura del arroz y cambiar de perspectiva entre distintas alturas.
+Los edificios de Fieldoffice no se parecen a lo que comúnmente se entiende por arquitectura. El Taller Cultural de Luodong (2012) sustituye la caja cerrada de un centro cultural tradicional por una gran marquesina, una plaza semi-exterior y una galería aérea suspendida; a través de una estructura abierta y de plataformas elevadas transitables, mezcla los límites entre el «dentro y fuera del edificio» y la «actividad pública». La Pasarela Jinmei (2003) transforma una vía ferroviaria abandonada en un sendero que flota entre los arrozales, permitiendo caminar a la altura del arroz y cambiar de perspectiva entre distintas alturas.
 
 > **✦** «Una vez que una persona se sube a un tejado, adquiere fácilmente una perspectiva.» — Sheng-Yuan Huang, Fieldoffice Architects (entrevista con ARTouch)
 
