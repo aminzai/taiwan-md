@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T22:12:17.626675Z",
+  "lastUpdated": "2026-07-03T22:38:12.313200Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 143,
@@ -31,10 +31,10 @@
       "template": "A2 首尾呼應 Tier 1b 具體性槓桿",
       "url": "https://x.com/taiwandotmd/status/2070809073143144717",
       "highlight": "紀懷新 X 單則 inline UTM s153（同 #152 Threads 內容）。哲宇 in-session 登入 @taiwandotmd 到 X 後補發 X 半（先前 Chrome 僅 @cheyuwu345 個人帳號被 v0.4 hard gate 攔）。post-ship 6-check 全綠：6 段保留 / 博士論文 fix / t.co UTM / 圖 1。",
-      "views_7d": null,
-      "views_latest": 1765,
-      "engagements_7d": null,
-      "rate_7d": null,
+      "views_7d": 1781,
+      "views_latest": 1781,
+      "engagements_7d": 100,
+      "rate_7d": 5.61,
       "backfilled": true
     },
     {
@@ -47,10 +47,10 @@
       "template": "A2 首尾呼應 Tier 1b 具體性槓桿",
       "url": "https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV",
       "highlight": "你天天叫 AI「一步一步想」卻不認得這個淡水人——思維鏈共同作者紀懷新，把高中幫媽媽寫教育心理學博士論文學到的 Piaget 基模搬進機器，只花 $5000 因為那從來不是算力問題。哲宇 2 次 in-loop 校正（論文→博士論文 / 幫→幫助）。Threads ship；X 因 Chrome 僅登入 @cheyuwu345 個人帳號（@taiwandotmd 未登入）擋下未發。",
-      "views_7d": null,
-      "views_latest": 4778,
-      "engagements_7d": null,
-      "rate_7d": null,
+      "views_7d": 4790,
+      "views_latest": 4790,
+      "engagements_7d": 218,
+      "rate_7d": 4.55,
       "backfilled": true
     },
     {
@@ -203,38 +203,21 @@
   "amplification": [],
   "platformComparison": {
     "threads": {
-      "count": 52,
-      "avgViews": 27325,
+      "count": 53,
+      "avgViews": 26900,
       "maxViews": 300000,
-      "avgRate": 6.3,
+      "avgRate": 6.24,
       "maxRate": 16.75
     },
     "x": {
-      "count": 63,
-      "avgViews": 14695,
+      "count": 64,
+      "avgViews": 14493,
       "maxViews": 136474,
-      "avgRate": 3.44,
+      "avgRate": 3.49,
       "maxRate": 9.09
     }
   },
-  "backfillWarnings": [
-    {
-      "n": 152,
-      "article": "紀懷新",
-      "platform": "threads",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV"
-    },
-    {
-      "n": 153,
-      "article": "紀懷新",
-      "platform": "x",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://x.com/taiwandotmd/status/2070809073143144717"
-    }
-  ],
+  "backfillWarnings": [],
   "noUrlHistorical": [
     {
       "n": 1,
@@ -304,7 +287,7 @@
     {
       "week": "2026-W26",
       "published": 6,
-      "avgViews": 4409
+      "avgViews": 4414
     }
   ],
   "harvestStatus": [
@@ -1725,8 +1708,8 @@
       "publishDate": "2026-06-27",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 6,
-      "lastHarvest": "2026-07-03 06:39"
+      "harvestCount": 7,
+      "lastHarvest": "2026-07-04 06:40"
     },
     {
       "n": 153,
@@ -1735,8 +1718,8 @@
       "publishDate": "2026-06-27",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 6,
-      "lastHarvest": "2026-07-03 06:39"
+      "harvestCount": 7,
+      "lastHarvest": "2026-07-04 06:41"
     }
   ]
 }
