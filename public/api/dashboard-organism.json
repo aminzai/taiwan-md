@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T22:12:56.626Z",
+  "lastUpdated": "2026-07-04T15:09:50.117Z",
   "organs": [
     {
       "id": "heart",
@@ -10,8 +10,8 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 17,
-        "articlesLast30Days": 132,
+        "articlesLast7Days": 14,
+        "articlesLast30Days": 129,
         "totalArticles": 828
       }
     },

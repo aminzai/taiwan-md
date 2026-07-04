@@ -1,7 +1,56 @@
 {
-  "generatedAt": "2026-07-03T22:12:29.585Z",
+  "generatedAt": "2026-07-04T15:09:45.029Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "04d50b66b7b8b97807c539f38401cc20019265a3",
+      "date": "2026-07-04T22:33:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-04-222640-twmd-maintainer-pm — 14hr window 純 carry (0 fresh PR/issue/commit 自 am 08:47) + vc=2 second datapoint「am-absorbs-pm-carry-forward」形狀",
+      "articles": []
+    },
+    {
+      "hash": "9113ac267c56e39f4f82f93e23e268c32f7867c7",
+      "date": "2026-07-04T08:46:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-04-084340-twmd-maintainer-am — am 08:30 cron 2 fresh contributor 響應收割 + 2 fresh feedback issue reply",
+      "articles": []
+    },
+    {
+      "hash": "e466add84a90fe2bea14ceee6f1502ec34b4e936",
+      "date": "2026-07-04T07:09:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-04-070851-twmd-feedback-triage — 07:00 cron 2 新回報全 FILE 開 issue #1204+#1205 (fact-check 台灣山岳泰雅語正寫法 + idea 生態論文標題) 同回報者主題各異 dedupe 反向正判 + 5 維護者留言 sync archive",
+      "articles": []
+    },
+    {
+      "hash": "79c51189eb1ee8be0cd529fb6c7c1832ff79c467",
+      "date": "2026-07-04T07:08:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 2 新回報全 FILE 開 issue #1204+#1205",
+      "articles": []
+    },
+    {
+      "hash": "cf926ecc5e9ebca1d91b8892c9750b5e8368995f",
+      "date": "2026-07-04T06:40:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 2 events ship (紀懷新 D+7 final KPI) + 0 reply ship — 2026-07-04",
+      "articles": []
+    },
+    {
+      "hash": "faa26e27e7678e457bcac0465705240ebfb47086",
+      "date": "2026-07-04T06:16:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-04-061400-twmd-data-refresh-am — am 14-step 全綠 CF 404 25.80% -0.24pp 證偽 26% new plateau (single-window peak 非 sustain)，5-cycle 序列 24.93→25.51→25.38→26.04→25.80 顯示 25.4-26% 震盪區間 + 免疫 49 chronic 第 13 cycle sustain discipline vc=1 (第 12 首次遵守 → 第 13 續守，static 從單點轉穩定行為) + Spore OVERDUE 0→2 (自然轉態) + fork census +1 → 160",
+      "articles": []
+    },
+    {
+      "hash": "db646195aef1890c6c756c58b100651220e8a636",
+      "date": "2026-07-04T06:13:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh",
+      "articles": []
+    },
     {
       "hash": "158057a7d74037eaae9af042aef1fedf42fa9f62",
       "date": "2026-07-04T05:09:54+08:00",
