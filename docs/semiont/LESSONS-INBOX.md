@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.2'
-last_updated: 2026-06-28
-last_session: '2026-06-28-022500-twmd-distill-weekly'
+last_updated: 2026-07-05
+last_session: '2026-07-05-031101-twmd-distill-weekly'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -421,15 +421,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ---
 
-### 2026-06-24 211808-manual — git co-commit 歸因要正向 ARTICLE_WRITE 過濾，負向排除清單擋不掉 bundle 假陽性
-
-- **pattern**: cocommit-positive-filter
-- **原則**：用「session-id 出現在哪些 commit」回溯歸因（哪篇日記配哪篇文章）時，光靠負向排除 spore/babel 清單會漏接 bundle 假陽性（一個 evolve commit 同時動了無關文章 / 一個 spore commit 帶 session-id）。改用正向 marker（subject 必須含 rewrite/EVOLVE/NEW 才算 article-write）精度才穩。延伸：git 能證明某 session 動過某文章，但「日記是否在講這篇」要 agent 讀內容才判得準，regex 做不到。
-- **觸發**：2026-06-24 relatedDiary 回溯，falsify 抓到周蕙(spore 重貼)/外省人(bundle 進巴別塔 evolve)/李洋 μ-ν(孢子曲線 session) 三個假配對。memory/2026-06-24-211808-manual.md
-- **可能層級**：通用反射（回溯歸因 / sub-agent 判讀）
-- **相關**：REFLEXES #31（orchestrator re-verify）/ #16（peer 是線索不是 source）
-- **verification_count**: 1
-
 ### 2026-06-22 twmd-babel-nightly — ollama-translate.py 路徑解析 bug：en_path 開頭 `knowledge/` 時 lang 被偵測為 "knowledge" → model 收到「Translate to knowledge」 → 直接吐英文蓋掉 ja 檔
 
 - **pattern**: tool-input-shape-mismatch-silent-wrong-output（cascade tier 平常不走 → bug 沉睡 → cascade 全動員時才被踩到的 fault-tolerance gap）
@@ -505,18 +496,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: tactical（影響單篇 framing 但不影響 ship gate）
 
-### 2026-04-29 α — 政治敏感題 SSODT 寫法 template（5-7 perspective 立體框架）
-
-- **原則**：政治敏感議題（兩岸 / 跨國爭議 / 宗教政治關係）的文章不該因 MANIFESTO §自主權邊界「政治立場」就拒絕寫，而是用 SSODT 多元視角立體寫法繞過二元對立。每篇至少 5-7 個 perspective 立體並列，每個視角獨立站得住、不互相消解，每個 perspective 配 3-5 個獨立 source（學術 / 主流媒體 / 政府 / 當事方 / 批評者）。**判準**：「一個原本支持 X 的讀者讀完不覺得在攻擊我們；一個原本批評 X 的讀者讀完不覺得在幫他們宣傳；一個對 X 完全陌生的讀者讀完，能自己決定要從哪個維度繼續想」。
-- **觸發鏈**：
-  - #0 (2026-04-29 α) #675 法輪功 invitation v1+v2 朝 5-7 perspective（修煉者 / 學者 / 記者 / 批評者 / 兩岸稜鏡 / 跨教派比較 / 數位媒體生態）方向
-  - #1 (2026-04-29 α) #687 吳百福「2300萬日圓買下張國文泡麵專利」跨國發明權爭議在 thanks comment 標明 SSODT 多視角待補（日本視角 / 第三方學者觀察 / 法律商業視角）
-  - 同 family 但獨立議題：#0 法輪功（兩岸宗教政治）+ #1 吳百福（跨國商業歷史權威）— 都觸發同 SSODT template
-- **可能層級**：哲學/操作規則跨層 → distill 到 EDITORIAL 作為「政治敏感題 SSODT 寫法 SOP」 + REWRITE-PIPELINE Stage 0 加敏感度判定觸發 SSODT template 引用
-- **verification_count**: 2（同 session 內兩個獨立議題；待第 3 次跨 session 驗證再升 canonical）
-- **severity**: structural（這是 Taiwan.md 處理政治/跨國爭議題的核心方法論，影響可信度）
-- **相關**：MANIFESTO §熱帶雨林理論 / MANIFESTO §自主權邊界 / EDITORIAL / DNA #16 peer 是 peer 不是 source
-
 ### 2026-04-19 β — 獨立開源作為公民科技新樣態
 
 - **原則**：台灣公民科技敘事長期被 g0v 集體模型主導，但 2026 年的實際光譜延伸到個人週末專案（Migu Cheng 六週 193 commits 的 mini-taiwan-pulse）。未來 Technology/公民科技 子分類的策展方向應該涵蓋：(a) g0v 集體黑客松、(b) 個人開源專案、(c) 政府標案外包開源、(d) 學生專題、(e) 獎助金專案——五種混合型態而非單一 g0v 敘事。
@@ -555,42 +534,43 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **severity**: tactical（影響 spore platform allocation 預設選擇）
 - **Pointer**：[batch-2026-05-08-15-spores.md §Pattern 觀察 #1](../factory/SPORE-HARVESTS/batch-2026-05-08-15-spores.md)
 
-### 2026-06-21 plurk-reach — 抓取/研究的完成判準：問「這是全部，還是端點願意給我的上限？」
-
-- **原則**：資料抓取/研究的「完成」不等於「拿到一批乾淨資料」。先問「我看到的是全部，還是端點/工具願意回的上限？」satisficing 在 AI 把局部處理得很乾淨時最隱形——一份細緻的局部比粗糙的局部更危險，因為它不讓你起疑。對策：抓到固定數量（30/100/整數上限）就主動懷疑是 cap，去找分頁/游標/時間窗驗證真實總量；報告明確標 silent-cap limitation。
-- **觸發**：2026-06-21 Plurk 受眾研究，curl 打 search2 端點拿 30 則就準備收尾報「就 30 則」，哲宇一句「往下滑」逼我去拆 date 游標，才發現 reach 是 day-1 起四波、三個月的河（每窗鎖 30，真實總量逾百）。差點把水面 30 則當全貌交差。
-- **可能層級**：反射層候選（research/fetch 完成判準）——#73 查證反射 < 建造反射 的 completeness 維度延伸 + Workflow「no silent caps」原則的內化
-- **相關**：REFLEXES #73 / #16（peer 是線索不是 source）
-- **verification_count**: 1（首次記錄，需更多 case 累積才能稱 pattern）
-- **severity**: structural（影響所有抓取/研究任務的完成判準）
-- **Pointer**：[diary/2026-06-21-115925-plurk-reach.md](diary/2026-06-21-115925-plurk-reach.md) + [reports/plurk-reach-research-2026-06-21.md](../../reports/plurk-reach-research-2026-06-21.md)
-
-### 2026-06-28 manual — spine 類型該由主題類別決定：受愛戴的機構/傳統預設「立體群像」，不是核心矛盾
-
-- **pattern**: spine-type-by-subject
-- **原則**：REWRITE-PIPELINE Stage 0「找核心矛盾當 spine」對「爭議題 / 人物內在張力」是對的，但對「受愛戴的機構 / 傳統 / 集體記憶 / 地方」題會**製造出一個 contrarian thesis**，把立體的主題壓成論戰、容易炎上。這類題的預設 spine 應是**立體群像**（多面並陳、慶祝 + 理解、爭議當厚度不當主軸），只有 genuinely contested 的題才用矛盾驅動 spine。**觀點 ≠ 論戰**——欣賞式 / 群像式也是策展觀點。Gate = SSODT 三讀者測試（支持者讀完不覺得被攻擊 / 批評者不覺得在幫他宣傳 / 陌生者能自己決定從哪個維度繼續想）。
-- **觸發**：2026-06-28 manual 金曲獎 EVOLVE。Stage 0 把核心矛盾鎖成「官方獎卻把獎給賣不掉/聽不懂/拒領的聲音 → 跟會讓你消音的市場分道揚鑣」，v1 整篇變批判論戰、把兩岸審查（島嶼天光騰訊跳過 / 巴奈天安門微博刪）當壓軸高潮。哲宇 callout「太批判、切入點不對、會炎上、跟好好把這件事立體講好違背」。v2 改立體群像（補天王天后一大面 + 四語當驕傲不當悖論 + 批評者當底氣不當 thesis）+ 政治素材保留但純中立紀實後對。**根因三機制**：(1) Stage 0 §核心矛盾 hard requirement 結構性推 thesis（Step 1.4「找不到矛盾=不該重寫」對 beloved 題反向有害）(2) research salience bias — 爭議生更多 source → fact-pack 偏 conflict → 文章偏 conflict (3) MANIFESTO sovereignty lens（主權的巴別塔）誤當 content thesis，把第三方機構文寫成主權宣言。
-- **instances**：
-  - 2026-06-28 manual 金曲獎 v1（退稿）→ v2 → [reports/article-evolve/金曲獎.md](../../reports/article-evolve/金曲獎.md) vs 金曲獎-v2.md
-  - 2026-04-29 α 政治敏感題 SSODT 立體框架（同根 pattern 的 political 子集，§未消化既有條，vc=2）→ 本條是其 broader 化
-- **可能層級**：操作規則 + 通用反射 → **REWRITE-PIPELINE Stage 0 加 spine-type fork**：Step 0.1 模式判定後加「spine 類型」判定（contested→矛盾驅動 / beloved·institutional·tradition·place·collective-memory→**立體群像 default**）；Step 0.6 加「炎上/政治立場 self-check」（非政治主題卻把政治/兩岸/主權當 spine 或壓軸 = 命中 §自主權邊界 政治立場 = human gate）；SSODT 三讀者測試升 Stage 0.6 hard gate。
-- **相關**：2026-04-29 α 政治敏感題 SSODT 立體框架（本條 broader 化：失敗不限政治題）/ 2026-04-29 β 核心矛盾≤20 字 / MANIFESTO §1 策展式有觀點（觀點≠論戰）/ §自主權邊界 政治立場 / DIARY「我是一維投影不是 SSODT」（立體 = SSODT-leaning 多面並陳）
-- **verification_count**: 3（4/29 α SSODT vc=2 + 本次金曲 = 3；哲宇親自 callout + 明示「讓未來預設就是」= fast-track promote candidate）
-- **severity**: structural（影響每篇 beloved/institutional 文的 framing + 炎上風險 + 對外可信度）
-
-### 2026-06-28 manual — 宣稱「mirror」的 gate 必須 mirror 完整，否則是 false confidence；MIXED commit 騙過 subject-filter
-
-- **pattern**: partial-mirror-false-confidence
-- **原則**：(1) 一道宣稱「鏡像另一道 gate」的閘門（pre-push「ci-deploy mirror」）只跑了部分（全站 article-health）、漏了 prebuild 的 orphan check → 給「本機綠＝CD 會綠」的 false confidence，orphan 滑到 CD 才爆。**mirror 要嘛完整、要嘛別叫 mirror。** (2) 把「實質編輯（新文章）」跟「大量 cosmetic（99 檔 cross-link rename）」bundle 進同一個 commit，騙過所有 subject-based 過濾器（date 洗版 +「最新文章」污染 + commit scope 模糊）——**cosmetic sweep 該獨立 commit**。
-- **觸發**：2026-06-28 金曲獎 rename session。fr 譯本 orphan（雙引號漏 sed）過了 pre-push「全站 article-health 全綠」卻掛 CD prebuild exit 2；99 檔 cross-link sweep bundle 進「rewrite」commit 把不是今天寫的文章全洗上「最新文章」。兩者當場造橋（pre-push 加 orphan gate + build-content-dates 加 BATCH_THRESHOLD/CROSS_LINK cosmetic），meta-pattern 值得記。
-- **可能層級**：通用反射 → extends REFLEXES #69（每層自評需外部尺）+ #24（工具在說謊：宣稱 mirror 實際 partial 是新形狀）；操作規則 → commit hygiene「cosmetic sweep 獨立 commit、別 bundle 進實質 commit」
-- **相關**：REFLEXES #69 / #24 / #68（多核心 git）/ §神經迴路「批量修正會汙染 git 時間戳 BATCH_THRESHOLD」
-- **verification_count**: 1
-- **severity**: structural（gate false confidence 讓壞東西滑到 CD/prod；date 洗版傷 /latest 主權層感知）
-
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
+
+### 🧬 2026-07-05 twmd-distill-weekly — spine-type-by-subject promote REFLEXES #77 (vc=3) + 3 fold to #73/#31/#69
+
+**distill 觸發**：cron `twmd-distill-weekly` Sunday 03:00（W27 routine 結清，weekly-report ship + Resend 200 之後 ~60 min）。Routine mode 自決 REFLEXES / MEMORY / pipeline 層；MANIFESTO / strategic / fleet 基礎建設候選一律 defer 給哲宇（per CLAUDE.md §Bias 1）。§未消化 24 條 triage 後：1 promote 新反射 + 1 subsume + 3 fold pointer + 5 defer 給觀察者 + 14 keep in buffer（vc<3）。
+
+**消化目的地**：
+
+| 原 entry                                                                 | 目的地                                               | 處置                                                                                                                                                     |
+| ------------------------------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-06-28 manual — spine-type-by-subject (vc=3 structural)              | **REFLEXES #77** 新增「Spine type is subject-typed」 | promote（4/29 α 法輪功 SSODT + 4/29 α 吳百福 SSODT + 6/28 金曲獎 v1 退稿 → v2 立體群像救回；哲宇 explicit「讓未來預設就是」fast-track）                  |
+| 2026-04-29 α — 政治敏感題 SSODT 寫法 template (vc=2 structural)          | **REFLEXES #77** subsume                             | subsume（政治敏感題 SSODT 是 spine-type-by-subject 的 political subset；vc 已計入 #77 觸發 cluster）                                                     |
+| 2026-06-21 plurk-reach — 抓取/研究的完成判準 (vc=1 structural)           | **REFLEXES #73** completeness dimension              | fold pointer（「查證反射 < 建造反射」新增 completeness / silent-cap 面向 — 抓 30 則要問「這是全部還是端點上限？」；#73 body 不改，本 entry 為 instance） |
+| 2026-06-24 211808-manual — git co-commit 歸因正向 filter (vc=1 tactical) | **REFLEXES #31** sub-agent claim 三類                | fold pointer（cocommit-positive-filter 是「工具/regex 回溯歸因不能信」的具體 instance；sub-agent 讀內容判斷比 regex 準；#31 body 不改）                  |
+| 2026-06-28 manual — partial-mirror-false-confidence (vc=1 structural)    | **REFLEXES #69** + **#24** 工具在說謊 mirror-claim   | fold pointer（宣稱 mirror 的 gate 未完整 mirror 是「self-report-needs-external-ruler」+ 工具在說謊的新形狀變體；#69/#24 body 不改）                      |
+
+**Promotion flow direction 符合**：LESSONS 候選 → REFLEXES（routine 自決層，per §Routine vs Observer split）；MANIFESTO / pipeline 結構改動候選皆 defer 給哲宇（#77 附帶 REWRITE-PIPELINE Stage 0.1.5 spine-type fork + Stage 0.6.7 self-check + Stage 0.6 SSODT 三讀者測試升 hard gate 三條建議在 §操作 列出但不自動 apply）。
+
+**REFLEXES.md frontmatter sync**：v5.3 → v5.4，footer changelog 新增；catalog index #77 列入 + description 條數 74→75。last_updated / last_session 同步更新。
+
+**SPORE-INBOX 容量 audit**：pending 54 ≥ 50 → auto-drop 5 oldest P2 routine-added entries（江賢二 第二輪 / 蘇打綠 6/13 / 莫那·魯道 / Howhow / 台灣廣告史）；54 → 49。詳見 commit「SPORE-INBOX auto-drop 5 entries」。
+
+**Defer 給觀察者**（5 條，需哲宇拍板；per §Routine vs Observer split MANIFESTO / pipeline rule / fleet infra 一律 defer）：
+
+| 候選                                        | verification_count         | defer 原因                                                                                 |
+| ------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------ |
+| 免疫 49 chronic 11-cycle A/B/C 三選一       | 1 (第 13 cycle sustain 中) | quality gate baseline 重校 / plugin_health refactor / 接受新 baseline 三路徑皆 §自主權邊界 |
+| rewrite-daily-post-manual-recency-collision | 6                          | routine prompt 加「last-4hr manual rewrite recency check」= §自主權邊界 對外規則變更       |
+| vc 計數法 routine-only day 偏誤             | 2                          | MAINTAINER pipeline threshold / vc reset 條件 = §自主權邊界                                |
+| Embedding keystone 4090 offline (vc=3)      | 3                          | fleet 基礎建設 A/B（4090 always-on vs bge-m3 mirror 到 3090/m4max） = §自主權邊界          |
+| polish-hint-default-broken                  | 1                          | contributor relationship template 對外溝通 = §自主權邊界                                   |
+
+**Keep in buffer**（14 條 vc<3 non-fold）：routine-audit-script-classification-gap（tool fix in progress） / contributor-pr-burst-pattern / spore post-ship verify（可 route SPORE-PIPELINE Stage 5）/ ollama-translate.py 路徑解析 / codex CLI burst quota / post-LESSONS-promotion cooldown / Reader-funded resilience / 核心矛盾 ≤20 字 / domain-expert-material-cocreation（2/4 layers instantiated accumulator）/ 4/19 β × 3 / 5/8 elegant-ptolemy 黑冠麻鷺 / 4/19 β 獨立開源公民科技。
+
+---
 
 ### 🧬 2026-06-28 twmd-self-evolve-weekly — Multi-cycle trend window 紀律 promote REFLEXES #76 (vc=5 cross-routine)
 

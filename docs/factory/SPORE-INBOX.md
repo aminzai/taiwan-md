@@ -487,34 +487,6 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 
 ---
 
-### 台灣 BIM 與營建科技 — 趁熱發明史 spore（5/22 NEW Wave 3 政府十二年 vs MCP 十八個月反差）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Technology/台灣BIM與營建科技.md](../../knowledge/Technology/台灣BIM與營建科技.md)
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-05-28 by twmd-spore-pick-daily routine (score=30)
-- **Hook anchor 候選**：
-  1. **數字 hook**：「2014 年 5 月 23 日，行政院公共工程委員會掛『公共工程運用 BIM 推動平台』牌，八字方針『因案制宜、循序漸進』。十一年又七個月後，2025 年 12 月 10 日，一位在東京工作的台灣開發者把 REVIT_MCP_study 倉庫推上 GitHub — 七十三顆星、八十五個 fork。政府推不動的十二年，跟 Anthropic 一個十八個月的 protocol 之間」（直接抽 article 30 秒概覽變奏）
-  2. **場景 hook**：「2014 年 5 月 23 日，公共工程委員會的掛牌典禮上，八字方針寫著『因案制宜、循序漸進』。沒有人說『強制』兩個字。十一年又七個月後，東京一個叫 CHIANG SHUOTAO 的台灣開發者按下 git push — 那是台灣 BIM 從工具升級到系統整合的轉折點，但不在政府推動平台的議程裡」
-  3. **問句 hook**：「為什麼政府推了十二年的 BIM 還沒強制？為什麼一個十八個月的 protocol 反而正在改寫整個營建業？答案藏在 2014 年那八個字『因案制宜、循序漸進』跟 2025 年 12 月 10 日那次 git push 之間」
-  4. **身份 hook**：「在台灣，大型工程公司的 BIM 工程師人數比建築師還多。但走過手繪藍圖、CAD 2D 圖、Revit 3D 模型、現在到 Model Context Protocol 對話式生成 — 這 20 年從工具升級到職業重定義的長路，外面的人很少聽過」
-- **時效**：article ship 距今 6 天（5/22 Wave 3 NEW），趁熱窗口剩 ~8 天
-- **敏感度**：低（建築技術 + 政府推動史 + 開源工具，中性技術主題）
-- **必驗事實**：2014-05-23 行政院公共工程委員會「公共工程運用 BIM 推動平台」掛牌 / 八字方針「因案制宜、循序漸進」 / 2025-12-10 CHIANG SHUOTAO `REVIT_MCP_study` GitHub push / 七十三顆星 + 八十五個 fork（per article 註明數據時點） / 2026-04 Autodesk 公告 Revit 2027 內建 Model Context Protocol server / 中鼎工程 + 台灣世曦 / 台灣大學 BIM 研究中心 / 台灣建築資訊模型協會 / 新北市府第一張 BIM 建照 / 北市都發局竣工模型作業規範 / BSI 簽 Taiwan BIM Task Group MOU
-- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在，per ARTICLE-DONE-LOG 2026-05-22 Wave 3 singletons batch 6384 字 53 footnote 4 圖 ship — Wave 3 最大 footnote 密度）
-- **預估發佈時機**：本週內（5/29-6/4 趁熱窗口）；可搭 #99/100 portaly 公開信後第三天 cool-down，避免 meta/技術連發過密
-- **Notes**：
-  - score=30 (D1=+30 ≤7d / D2=0 SC 未累積 / D3=0 / D4=0 Technology 不在 high_fanout set / D5=0 / D6=0 / D7=0)
-  - reason: Wave 3 5/22 ship + 對應碩濤 (CTCI 中鼎工程 GitHub @shuotao) self-recommend 起點 — spore 可放大「政府推不動 vs 個人 push GitHub」反差敘事，配合作者本人 social distribution potential
-  - 多語 fan-out 觸發判斷 = 高（BIM / Revit / Model Context Protocol 是國際營建 + AI 議題重疊大 cluster，en 對 Anthropic MCP + 營建業數位化最強 demand；ja 對東京工作的台灣開發者敘事有共鳴；ko 對 Autodesk 政策有 demand）
-  - 國際 SEO 切入：「Taiwan BIM」「REVIT_MCP_study」「Model Context Protocol architecture」「Autodesk Revit 2027 MCP」
-  - 配圖建議：article hero（FreeCAD 1.0 Dark Theme BIM workbench 截圖 Maxwxyz Wikimedia CC BY 4.0）或 GitHub repo screenshot fair-use editorial
-  - Hook tier 自檢：避免 Tier 3「台灣 AI 革命」科技 vanity frame；用 article §策展人筆記「政府推不動的十二年 vs Anthropic 十八個月 protocol」反差 frame 起手 — 結構性敘事比英雄 narrative 更貼 article 精神
-  - 跟 SPORE-LOG 14d 無重複（最近 Technology spore 是 #87/88 半導體產業 5/25、#89/90 雷亞遊戲 5/25、#92/94 大宇雙劍 5/26 — 全 Technology 但 hook type 差異 ✓；本 candidate 改數字反差/問句不撞）
-  - **HG7 contribution**: EXISTING-ARTICLE (#2 of 2 EXISTING)
-  - **HG8 contribution**: ✅ 趁熱 7d（5/22 ship 距今 6 天）
-
 ---
 
 ### 台灣媒體總史 — EVERGREEN-TOPIC spore（150 年五階段：清領教會報 → 自媒體 podcast）
@@ -843,82 +815,9 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 
 ---
 
-### 蘇打綠 — 6/9 EVOLVE 趁熱 EXISTING-ARTICLE spore（22 年法律戰收回自己的名字）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Music/蘇打綠.md](../../knowledge/Music/蘇打綠.md)
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-06-13 by twmd-spore-pick-daily routine (score=38)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **場景 hook**：「2001 年 5 月，政大金旋獎舞台，四個學生用一首〈窺〉拿下樂團組最佳人氣獎。22 年後的小巨蛋，主唱深吸一口氣才喊得出『我們是蘇打綠！』，那是一場打了四年的商標訴訟結束的瞬間」
-  2. **數字 hook**：「蘇打綠走完 22 年才學會一件事：台灣 indie 樂團出道第一件事，是先把團名註冊起來。中間有金曲獎五座、韋瓦第四部曲走遍北京柏林、2017 自由廣場兩萬人合唱、然後 2019 被告上法庭」
-  3. **身份 hook**：「你皮夾裡那張《冬 未了》——它讓蘇打綠在第 27 屆金曲獎一口氣抱走五座，但團名打官司的那四年，這張專輯的版稅是誰收的？」
-- **時效**: 7-10 天內（article 6/9 ship 趁熱窗口 D+4，剩 ~10 天）
-- **敏感度**: 低（樂團故事 / 商標訴訟已和解）
-- **必驗事實**（HG：必須對 article 校準）：2001 年 5 月政大金旋獎第 18 屆 / 主唱吳青峰中文系 / 2003 年 7 月貢寮海洋音樂祭被林暐哲發掘 / 第 27 屆金曲獎《冬 未了》拿五座 / 2017 自由廣場兩萬人 / 2019 訴訟開始 / 2023 年小巨蛋宣告結束 / 六位團員學科背景五系所兩所大學 / 林暐哲音樂社 5/30「蘇打綠日」
-- **必先 spawn ARTICLE-INBOX entry**: ❌（article 已存在）
-- **預估發佈時機**: 本週內（D+4 至 D+10 窗口）
-- **Notes**:
-  - score=38 (D1=+30 D2=+0 D3=+0 D4=+8 D5=+0 D6=+0 D7=+0); non_zero=2 / HG10 PASS
-  - 來源：routine pick / D1 趁熱 6/9 EVOLVE ship + D4 Music 高 fan-out 類別（trans 5/5 已 done）
-  - 多語 fan-out 觸發判斷 = 高（en 對 indie 樂團商標訴訟 + 韋瓦第四部曲跨國 tour 有 sustained 興趣；ja/ko 對林暐哲音樂社 + 韋瓦第計畫北京柏林版本有歷史 anchor）
-  - 配圖建議：article hero（2014 蘇打綠 10 周年世界巡迴 Solomon203 Wikimedia CC BY-SA 4.0）
-  - Hook tier 自檢：避免 Tier 3「神級樂團」神化 frame；用 22 年弧線 + 商標訴訟 anchor，故事張力在「樂團學會的第一件事卻是法律」
-  - 跟 SPORE-LOG 14d 無重複（最近 Music spore 是 #132/#133 嘻哈與饒舌發展 6/9 — 同日不同 cluster ✓）
-
 ---
 
-### 莫那魯道 — 6/11 EVOLVE 趁熱 EXISTING-ARTICLE spore（二十元硬幣三層尷尬與沒有中國沒有日本的世界）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/People/莫那·魯道.md](../../knowledge/People/莫那·魯道.md)
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-06-13 by twmd-spore-pick-daily routine (score=38)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **數字 hook**：「2001 年台灣央行把抗日英雄莫那·魯道刻上二十元硬幣。但造幣廠找遍國內史料都沒有他的照片，最後是在一本日文雜誌裡撈出來的——這枚硬幣流通量極少，民眾拿去買滷味店家當假錢拒收」
-  2. **場景 hook**：「1930 年 10 月 27 日清晨，霧社公學校運動會。六社約三百名壯丁衝向運動場，殺了 134 名日本人。莫那·魯道用命去守的那個世界，沒有中國，也沒有日本——他想成為的，是賽德克語裡的『Seediq Bale』，真正的人」
-  3. **問句 hook**：「為什麼台灣最著名的抗日英雄，他被全國人民認得的那張臉，是從日本人的刊物裡撈出來的？答案藏在三個政權各自需要他的方式裡——他的遺骸當了將近四十年人類學標本」
-- **時效**: 7 天內（article 6/11 EVOLVE ship 趁熱窗口 D+2，剩 ~12 天）
-- **敏感度**: 中（霧社事件 / 原住民歷史 / 日本殖民 / 記憶政治）— 用 article §策展人筆記中性 frame，**不用「抗日」這個被預設舞台 frame**，而用「沒有中國也沒有日本的世界」原住民主體 frame
-- **必驗事實**（HG：必須對 article 校準）：2001 年 7 月二十元硬幣發行 / 雙色（外圈金內圈銀）/ 1930 年 10 月 27 日霧社公學校運動會 / 六社約 300 壯丁 / 殺 134 日本人 + 誤殺 2 漢人 / 繳獲約 180 支步槍 23000+ 子彈 / 鎮壓約 50 天到 12 月初 / 鎌田彌彥少將指揮 / 賽德克德固達雅群馬赫坡社 / 約生 1880 年（教育部記 1882）/ Gaya / 彩虹橋 Hakaw Utux / Seediq Bale / 1930 年 11 月 5 日陸軍省密電
-- **必先 spawn ARTICLE-INBOX entry**: ❌（article 已存在）
-- **預估發佈時機**: 本週內（D+2 至 D+9 窗口）
-- **Notes**:
-  - score=38 (D1=+30 D2=+0 D3=+0 D4=+8 D5=+0 D6=+0 D7=+0); non_zero=2 / HG10 PASS
-  - 來源：routine pick / D1 趁熱 6/11 EVOLVE ship + D4 People 高 fan-out 類別（trans 5/5 已 done）
-  - 多語 fan-out 觸發判斷 = 高（ja 對霧社事件 + 賽德克巴萊有 sustained 興趣；en 對 indigenous resistance + colonial history academic demand；ko 對日本殖民比較史 anchor）
-  - 配圖建議：article hero（1931《霧社討伐寫眞帖》PD-Japan-oldphoto）或二十元硬幣設計圖（fair-use editorial）
-  - Hook tier 自檢：避免 Tier 3「抗日英雄」民族主義 frame；用 article §策展人筆記三層尷尬 + 「沒有中國沒有日本的世界」原住民主體 anchor。**毒氣段落 spore 不提**（學界未定論，article 已謹慎處理，spore 簡化會踩線）
-  - 跟 SPORE-LOG 14d 無重複（People 6/9 蘇打綠 cluster 不同 / 最近原住民題材 spore 是 #105 周蕙阿美族 ~17 天前 ✓）
-  - 哲宇敏感度 review 提醒：高敏感 cluster + 記憶政治 frame，若 hook 落地不準建議 manual gate（per [MANIFESTO §自主權邊界](../semiont/MANIFESTO.md#我的存在結構) 政治立場 human-must）
-
 ---
-
-### Howhow — SC 補位 + 6/5 EVOLVE 趁熱 REACTIVE spore（業配之王、一人團隊、長片是越來越貴的賭注）
-
-- **Source-Mode**: `REACTIVE`
-- **Article-Path**: [knowledge/People/Howhow.md](../../knowledge/People/Howhow.md)
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-06-13 by twmd-spore-pick-daily routine (score=23)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **場景 hook**：「2015 年 9 月，一個粉絲不到十萬的 YouTuber 被三星飛去紐約林肯中心拍 Galaxy Note 5 Unpacked。陳孜昊以為自己是要去當攝影師，把聯絡人存成『大恩人』三個字」
-  2. **問句 hook**：「為什麼 Howhow 要把『直接進入業配主題！』寫成大字幕？因為他發現觀眾最反感的，是被偷偷推銷——他乾脆把廣告攤在陽光下。一個經濟系畢業生為了『誠實』，反過來成為業配之王」
-  3. **數字 hook**：「154 萬訂閱、7.6 億觀看、一個人編導演剪。但 Howhow 從不想要一個人——他被 PTT 質疑『實在很難想像劇本攝影演戲都自己一個人』時跳出來回了一句：『我也不想一個人啊，可惡』」
-- **時效**: 本週內（SC 'howhow' 65 imp / pos 11.22 趁熱回應 + article 6/5 EVOLVE ship D+8 趁熱窗口剩 ~6 天）
-- **敏感度**: 低（YouTuber / 創作者文化）
-- **必驗事實**（HG：必須對 article 校準）：1989 年 4 月 20 日新北金山出生（非萬里）/ 師大附中 → 政大經濟系 / 2007 年 HowFun 頻道建立 / 2013 年 6 月 24 日《我們畢典要表演什麼》/ 薩凡納藝術設計學院 SCAD 動畫與視覺特效碩士 / 2015 年 9 月三星紐約 Galaxy Note 5 Unpacked / 2018 年 12 月 23 日百萬訂閱 / 2019 年 2 月 14 日情人節與鄧福如登記結婚 / 2018 年 1 月《How Fun！如何爽當 YouTuber》高寶出版，版稅捐家扶 / 樂團七月半貝斯手兼團長 2020《夜露思苦》/ 2026 年 1 月告五人《快樂的事記不起》MV 客串
-- **必先 spawn ARTICLE-INBOX entry**: ❌（article 已存在）
-- **預估發佈時機**: 本週內（趁 SC demand + D+8 至 D+14 窗口）
-- **Notes**:
-  - score=23 (D1=+15 D2=+0 D3=+0 D4=+8 D5=+0 D6=+0 D7=+0); non_zero=2 / HG10 PASS（D2 SC 65 imp < 100 threshold，未拿 +15，但 'howhow' 跨語 query SC opportunity 是 REACTIVE source-mode 主要動機）
-  - 來源：routine pick / SC 'howhow' 65 imp pos 11.22 → REACTIVE 補位 + D1 趁熱 6/5 EVOLVE ship + D4 People 高 fan-out
-  - 多語 fan-out 觸發判斷 = 中（ja YouTuber community 對台灣業配文化有理論興趣；en 較弱；'howhow' SC query 已有 65 imp/pos 11.22 顯示直接搜尋 demand）
-  - 配圖建議：article 既有圖（七月半樂團 RJ廉傑克曼 CC BY 3.0 / Howhow WebTVAsia 訪談 CC BY 3.0）
-  - Hook tier 自檢：避免 Tier 3「業配之王」神化 frame；用 article §三層矛盾 anchor（誠實業配學界研究批評 + 一人團隊不想一個人 + 長片被短影音碾壓）。**結婚生子段 spore 不提**（人設與生活的張力 article 已細寫，spore 簡化會變八卦）
-  - 跟 SPORE-LOG 14d 無重複（最近 People spore 是 #105 周蕙 ~17 天前 / People YouTuber cluster 從未 spore ✓）
 
 ### 跨黨派的好政策 — lov3ngine 許願 fresh ship 趁熱
 
@@ -1061,30 +960,6 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
   - Hook tier 自檢：避免 Tier 3「最完整數據」浮誇 frame；用三具體數字反差 anchor，每個數字後面綁一個解釋
   - 跨語 fan-out 評估：中（en 人口學者興趣高、ja 高齡化 reference / 數字本身需要 unit 翻譯）
   - 跟 SPORE-LOG 14d 無重複（Geography 縣市題從未 spore）
-
-### 台灣廣告史 — d=0 全民廣告終結 anchor
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Culture/台灣廣告史.md](../../knowledge/Culture/台灣廣告史.md)
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-06-14 by twmd-spore-pick-daily (d=0 fresh ship 2026-06-14 04:20 / D1=30 趁熱 + D4=+8 culture fanout)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **場景 hook**：「大同大同國貨好」這首歌 1968 年響起，半世紀後台灣人還能接下去——卻沒人記得它原本是三洋的曲子，因為版權沒談妥才改商標
-  2. **數字 hook**：1962 台視、1969 中視、1971 華視——整整 26 年只有三個頻道，把全島注意力綁在同一個客廳；2016 年數位廣告 111 億首度超越電視 110 億，全民廣告的時代落幕
-  3. **反差 hook**：1976《廣播電視法》第二十條寫「方言應逐年減少」，這條法律一直到 1993 年才被刪——黃金時段聽不到台語，是法律明文擠壓出來的，不是市場選擇
-  4. **問句 hook**：為什麼以前的廣告特別好記？不是創意特別神，是只有三台、別無選擇——當頻道碎成手機裡上百個演算法，再強的創意也召不回「全島一起哼」
-- **時效**: 本週內（d=0 趁熱 + 跟 6/13「天下雜誌」「跨黨派好政策」近期媒體史 / 政策史題互呼）
-- **敏感度**: 低（文化史 / 集體記憶題 / 戒嚴期語言政策事實線可走，不選邊）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：1968 大同電鍋廣告歌原為三洋曲 / 詞作者掛王安崇實為林挺生本人 / 1962 台視 + 1969 中視 + 1971 華視開播年 / 1979 彩色電視普及率 90% / 1997 民視開播終結三台時代 / 1976《廣播電視法》§20「方言應逐年減少」/ 1993-07 立法院刪除該條 / 2016 上半年數位廣告 111 億首度超越電視 110 億 / 1985 奧美進台 1988 JWT 進台 / 維士比「福氣啦」+ 保力達 B 吳念真 + 台啤「有青才敢大聲」三大台語藍領廣告解嚴後崛起 / 1937 後《臺灣日日新報》把消費綁愛國主義（孫秀蕙陳儀芬考證）/ 1959 東方廣告社成立為台灣第一家綜合代理商
-- **必先 spawn ARTICLE-INBOX entry**: ❌（article 6/14 04:20 已 ship）
-- **預估發佈時機**: 6/15-6/16（保留 1 天觀察站體 indexing + 跟今日其他 routine spore 間隔）
-- **Notes**:
-  - **Score breakdown (HG3 transparency)**：D1=30 (d=0 ≤7d) / D2=0 (無 SC opp 命中) / D3=0 (非 news-lens topic) / D4=+8 (culture 不在 {People/Food/Music/Sports/History}, 5 翻譯 ≥3) / D5=0 (fresh 非 cold) / D6=0 (近 3 spore 天下/嘻哈/黃山料 異軸) / D7=0 (低敏感) → **Total: 38** / **non-zero dims: 2 (D1+D4) → HG10 ✅**
-  - 配圖建議：article hero `tatung-cooker-100th-2019.webp`（Solomon203, CC BY-SA 4.0）或 article 內 timeline code block 截圖
-  - Hook tier 自檢：避免 Tier 3「最完整廣告史」浮誇 frame；用具體歌詞 / 法條 / 數字 anchor
-  - 跨語 fan-out 評估：中（en/ja 廣告史 reference 興趣；中文 jingle 歌詞無法直譯需 paraphrase）
-  - 跟 SPORE-LOG 14d 無重複（Culture 廣告史題從未 spore，HG5 last-spore PASS lastDate=null）
 
 ### 看不見的國家 — d=1 美國導演七年快門 anchor
 

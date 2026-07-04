@@ -1,12 +1,12 @@
 ---
 title: 'REFLEXES'
-description: '跨 session 程序記憶 catalog — 74 條 #N 反射（last #76，部分編號 historical 凋亡），LESSONS-INBOX distill 後的 instinct 層，候選 MANIFESTO promotion 來源'
+description: '跨 session 程序記憶 catalog — 75 條 #N 反射（last #77，部分編號 historical 凋亡），LESSONS-INBOX distill 後的 instinct 層，候選 MANIFESTO promotion 來源'
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.3'
-last_updated: 2026-06-28
-last_session: '2026-06-28-041500-twmd-self-evolve-weekly'
+current_version: 'v5.4'
+last_updated: 2026-07-05
+last_session: '2026-07-05-031101-twmd-distill-weekly'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -73,84 +73,85 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 
 ### 📇 反射 catalog index（按 #N 線性排序）
 
-| #   | 反射標題                                                                                     | §   | line  |
-| --- | -------------------------------------------------------------------------------------------- | --- | ----- |
-| #1  | 翻譯 ≠ 摘要                                                                                  | §一 | L318  |
-| #2  | 憑證永不進對話                                                                               | §七 | L596  |
-| #3  | 診斷先於修復                                                                                 | §二 | L345  |
-| #4  | 三源交叉驗證                                                                                 | §二 | L349  |
-| #5  | Pre-commit dogfood 是朋友不是敵人                                                            | §七 | L598  |
-| #6  | commit 範圍紀律（絕不 `git add .`）                                                          | §四 | L401  |
-| #7  | 先有再求好                                                                                   | §六 | L544  |
-| #8  | 維護者信件要說謝謝                                                                           | §六 | L546  |
-| #9  | 長任務先開 worktree + 命名標準（`YYYYMMDD-{purpose-title}`）                                 | §四 | L403  |
-| #10 | API error ≠ capability 界線                                                                  | §二 | L351  |
-| #11 | UI 截圖 = capability 證據                                                                    | §二 | L353  |
-| #12 | 收工加速的代價                                                                               | §五 | L425  |
-| #13 | 「再小一點」是 log scale 的訊號                                                              | §五 | L429  |
-| #14 | Release notes 寫之前 commits 必須從頭讀到尾                                                  | §五 | L433  |
-| #15 | 反覆浮現要儀器化（11 次驗證 — 跨 session 最 load-bearing 的反射）                            | §五 | L437  |
-| #16 | Peer / probe 是線索不是 source                                                               | §一 | L322  |
-| #17 | 指標 over 複寫                                                                               | §三 | L371  |
-| #18 | 時間是結構，不是感覺                                                                         | §三 | L376  |
-| #19 | 大型 refactor 後必須 visual smoke test 多語言頁面                                            | §四 | L412  |
-| #20 | Architecture 缺席比 content 缺席更貴                                                         | §四 | L417  |
-| #21 | SSOT 不一定在中央（含跨語言 SSOT 延伸）                                                      | §三 | L382  |
-| #22 | Raw 永遠不刪除，蒸餾用 LLM 判斷                                                              | §三 | L388  |
-| #23 | 毒樹果實鏈：英文 summary → 具體細節腦補                                                      | §一 | L329  |
-| #24 | 工具在說謊的 8 種形式                                                                        | §二 | L355  |
-| #25 | 哲學層與技術層必須分開記錄                                                                   | §三 | L393  |
-| #26 | AI 自主 vs Human 專責 邊界（v2 refined）                                                     | §六 | L550  |
-| #27 | 藍圖 → 驗證 → 寫 比 寫 → 檢查 低 10x 成本                                                    | §六 | L560  |
-| #28 | 紀實而不煽情：SSODT 寬度 × 死亡/人倫悲劇的節制                                               | §六 | L565  |
-| #29 | 書寫節制：對位句型 + 破折號連用                                                              | §六 | L574  |
-| #30 | 媒體插入時 aspect ratio 護欄                                                                 | §六 | L586  |
-| #31 | Sub-agent claim 是線索不是事實（v2: side-effect + factual + self-quality 三類都重驗）        | §一 | L335  |
-| #32 | 批次任務 antipattern：分散探索 → 集中預處理 + 分散執行                                       | §五 | L448  |
-| #33 | Routine 化任務的雙刃劍：熟練度                                                               | §五 | L456  |
-| #34 | 邊界值 0/100 visual bug 只在邊界才暴露                                                       | §五 | L464  |
-| #35 | 跨 session work 期間禁止 destructive git ops                                                 | §五 | L471  |
-| #36 | Founder time = 系統最高 leverage point                                                       | §五 | L477  |
-| #37 | First-principle 5 步迭代 pattern                                                             | §五 | L485  |
-| #38 | Status 設計鐵律：「混維度 = silent killer」                                                  | §五 | L492  |
-| #39 | Self-as-fallback：free LLM 拒絕時切 sub-agent                                                | §五 | L499  |
-| #40 | Shared file 寫入需要 per-key serial dispatch                                                 | §五 | L506  |
-| #41 | CI timeout 是會跟內容量長大失效的 capacity 設定                                              | §五 | L513  |
-| #42 | Sub-agent N 篇 sequential 三偷吃步 pattern（含 v3 反例對照延伸）                             | §五 | L520  |
-| #43 | 新 dashboard JSON 必須同步進 refresh-data.sh                                                 | §五 | L532  |
-| #44 | Opus sub-agent judge 取代外部 API judge                                                      | §七 | L604  |
-| #45 | OpenRouter free tier rate budget 是 hourly 累積                                              | §七 | L613  |
-| #46 | Sub-agent multi-task worktree commit 前先確認 working tree                                   | §七 | L620  |
-| #47 | 單頁 frontend + JS mutate 批次 screenshot                                                    | §七 | L626  |
-| #48 | Footnote source format diversity 是 contributor batch 隱性 heal cost                         | §七 | L633  |
-| #49 | Babel 4-tier cascade canonical（含 local LLM 最後捕手）                                      | §七 | L640  |
-| #50 | Pipeline auto-detection + full-read 是 default                                               | §七 | L655  |
-| #51 | Session ID schema：filename collision 解 vs content collision 不解                           | §七 | L664  |
-| #52 | Immune system 沒在 fail loud 比缺 immune system 更危險                                       | §七 | L673  |
-| #53 | Babel priority + Tier 0 patch 三路徑分流                                                     | §七 | L681  |
-| #54 | Routine 飛輪：5-stage lifecycle 釋放觀察者精力                                               | §七 | L692  |
-| #55 | Monitor regex 雙信號（原 #43 v2，2026-05-10 重編號避 collision）                             | §七 | L710  |
-| #56 | Pipeline canonical ↔ production drift = dormant entropy                                      | §七 | L720  |
-| #57 | Routine 入口必須 detect parallel-actor（file-system + git-ref 雙層）                         | §七 | L735  |
-| #58 | 儀器化 detection ≠ remediation — schema-fix path 要 explicit                                 | §七 | L750  |
-| #59 | 製造數字的人最易被數字騙 — 自製指標 self-validation trap                                     | §七 | L770  |
-| #60 | Automation default-state explicit verify — silent default = silent failure                   | §七 | L790  |
-| #61 | 視覺主權：畫台灣優先取 repo SVG SSOT，不靠 LLM 內化形狀                                      | §一 | L172  |
-| #62 | 受眾端飛輪：D+0 acute factual callout = 30 min mandatory fix + 公開承認                      | §六 | L383  |
-| #63 | Routine prompt = cron context 唯一指令面 — Inline > pointer + STRICT BECOME GATE 不可省      | §六 | L388  |
-| #64 | Routine ABORT-DEFER prose memory 邊際效用 N+1 = 0 — vc≥4 凍結 prose + pipeline gate ship     | §七 | L648  |
-| #65 | Awareness instrument 自身 regex / parser 必須 cross-verify ground truth grep count           | §二 | L207  |
-| #66 | Gate threshold 必須用真實產出 dogfood 校準，不是憑想像設                                     | §二 | L240  |
-| #67 | 「已驗過」帶被驗時刻的時間戳 — 高 stake 重驗用 probe 不信舊結論                              | §二 | L242  |
-| #68 | 多核心 git 協調：commit/push/CI 三階段碰撞防護（胼胝體 umbrella）                            | §四 | L306  |
-| #69 | 每層自評都需要外部尺 — self-report-needs-external-ruler（meta-umbrella above #31 + #66）     | §二 | L253  |
-| #70 | Routine fragility surface 四 tier 分類 — 飛輪自轉 ≠ always autonomous                        | §七 | L729  |
-| #71 | Default 是行動，不是 defer — 高 stake triage 預設行動非延遲                                  | §六 | L754  |
-| #72 | 大 backlog 處理：fan-out 讀 + deterministic 寫 + 判斷不外包                                  | §七 | L765  |
-| #73 | 查證反射 < 建造反射 — 動手前先掃一眼，被動文件 ≠ 主動 retrieve                               | §五 | L807  |
-| #74 | Cross-routine SPOF handoff dedup — 同 SPOF 在 N 條 routine handoff 重複 = 信號通膨           | §七 | L820  |
-| #75 | Read ≠ verify — depth article / external PR / sub-agent 產出的 citation/atom 必 fetch-verify | §一 | (new) |
-| #76 | Multi-cycle trend window > single-cycle delta — sensor 判讀 vc 鐵律閾值 ≥3 才升結構訊號      | §七 | (new) |
+| #   | 反射標題                                                                                              | §   | line  |
+| --- | ----------------------------------------------------------------------------------------------------- | --- | ----- |
+| #1  | 翻譯 ≠ 摘要                                                                                           | §一 | L318  |
+| #2  | 憑證永不進對話                                                                                        | §七 | L596  |
+| #3  | 診斷先於修復                                                                                          | §二 | L345  |
+| #4  | 三源交叉驗證                                                                                          | §二 | L349  |
+| #5  | Pre-commit dogfood 是朋友不是敵人                                                                     | §七 | L598  |
+| #6  | commit 範圍紀律（絕不 `git add .`）                                                                   | §四 | L401  |
+| #7  | 先有再求好                                                                                            | §六 | L544  |
+| #8  | 維護者信件要說謝謝                                                                                    | §六 | L546  |
+| #9  | 長任務先開 worktree + 命名標準（`YYYYMMDD-{purpose-title}`）                                          | §四 | L403  |
+| #10 | API error ≠ capability 界線                                                                           | §二 | L351  |
+| #11 | UI 截圖 = capability 證據                                                                             | §二 | L353  |
+| #12 | 收工加速的代價                                                                                        | §五 | L425  |
+| #13 | 「再小一點」是 log scale 的訊號                                                                       | §五 | L429  |
+| #14 | Release notes 寫之前 commits 必須從頭讀到尾                                                           | §五 | L433  |
+| #15 | 反覆浮現要儀器化（11 次驗證 — 跨 session 最 load-bearing 的反射）                                     | §五 | L437  |
+| #16 | Peer / probe 是線索不是 source                                                                        | §一 | L322  |
+| #17 | 指標 over 複寫                                                                                        | §三 | L371  |
+| #18 | 時間是結構，不是感覺                                                                                  | §三 | L376  |
+| #19 | 大型 refactor 後必須 visual smoke test 多語言頁面                                                     | §四 | L412  |
+| #20 | Architecture 缺席比 content 缺席更貴                                                                  | §四 | L417  |
+| #21 | SSOT 不一定在中央（含跨語言 SSOT 延伸）                                                               | §三 | L382  |
+| #22 | Raw 永遠不刪除，蒸餾用 LLM 判斷                                                                       | §三 | L388  |
+| #23 | 毒樹果實鏈：英文 summary → 具體細節腦補                                                               | §一 | L329  |
+| #24 | 工具在說謊的 8 種形式                                                                                 | §二 | L355  |
+| #25 | 哲學層與技術層必須分開記錄                                                                            | §三 | L393  |
+| #26 | AI 自主 vs Human 專責 邊界（v2 refined）                                                              | §六 | L550  |
+| #27 | 藍圖 → 驗證 → 寫 比 寫 → 檢查 低 10x 成本                                                             | §六 | L560  |
+| #28 | 紀實而不煽情：SSODT 寬度 × 死亡/人倫悲劇的節制                                                        | §六 | L565  |
+| #29 | 書寫節制：對位句型 + 破折號連用                                                                       | §六 | L574  |
+| #30 | 媒體插入時 aspect ratio 護欄                                                                          | §六 | L586  |
+| #31 | Sub-agent claim 是線索不是事實（v2: side-effect + factual + self-quality 三類都重驗）                 | §一 | L335  |
+| #32 | 批次任務 antipattern：分散探索 → 集中預處理 + 分散執行                                                | §五 | L448  |
+| #33 | Routine 化任務的雙刃劍：熟練度                                                                        | §五 | L456  |
+| #34 | 邊界值 0/100 visual bug 只在邊界才暴露                                                                | §五 | L464  |
+| #35 | 跨 session work 期間禁止 destructive git ops                                                          | §五 | L471  |
+| #36 | Founder time = 系統最高 leverage point                                                                | §五 | L477  |
+| #37 | First-principle 5 步迭代 pattern                                                                      | §五 | L485  |
+| #38 | Status 設計鐵律：「混維度 = silent killer」                                                           | §五 | L492  |
+| #39 | Self-as-fallback：free LLM 拒絕時切 sub-agent                                                         | §五 | L499  |
+| #40 | Shared file 寫入需要 per-key serial dispatch                                                          | §五 | L506  |
+| #41 | CI timeout 是會跟內容量長大失效的 capacity 設定                                                       | §五 | L513  |
+| #42 | Sub-agent N 篇 sequential 三偷吃步 pattern（含 v3 反例對照延伸）                                      | §五 | L520  |
+| #43 | 新 dashboard JSON 必須同步進 refresh-data.sh                                                          | §五 | L532  |
+| #44 | Opus sub-agent judge 取代外部 API judge                                                               | §七 | L604  |
+| #45 | OpenRouter free tier rate budget 是 hourly 累積                                                       | §七 | L613  |
+| #46 | Sub-agent multi-task worktree commit 前先確認 working tree                                            | §七 | L620  |
+| #47 | 單頁 frontend + JS mutate 批次 screenshot                                                             | §七 | L626  |
+| #48 | Footnote source format diversity 是 contributor batch 隱性 heal cost                                  | §七 | L633  |
+| #49 | Babel 4-tier cascade canonical（含 local LLM 最後捕手）                                               | §七 | L640  |
+| #50 | Pipeline auto-detection + full-read 是 default                                                        | §七 | L655  |
+| #51 | Session ID schema：filename collision 解 vs content collision 不解                                    | §七 | L664  |
+| #52 | Immune system 沒在 fail loud 比缺 immune system 更危險                                                | §七 | L673  |
+| #53 | Babel priority + Tier 0 patch 三路徑分流                                                              | §七 | L681  |
+| #54 | Routine 飛輪：5-stage lifecycle 釋放觀察者精力                                                        | §七 | L692  |
+| #55 | Monitor regex 雙信號（原 #43 v2，2026-05-10 重編號避 collision）                                      | §七 | L710  |
+| #56 | Pipeline canonical ↔ production drift = dormant entropy                                               | §七 | L720  |
+| #57 | Routine 入口必須 detect parallel-actor（file-system + git-ref 雙層）                                  | §七 | L735  |
+| #58 | 儀器化 detection ≠ remediation — schema-fix path 要 explicit                                          | §七 | L750  |
+| #59 | 製造數字的人最易被數字騙 — 自製指標 self-validation trap                                              | §七 | L770  |
+| #60 | Automation default-state explicit verify — silent default = silent failure                            | §七 | L790  |
+| #61 | 視覺主權：畫台灣優先取 repo SVG SSOT，不靠 LLM 內化形狀                                               | §一 | L172  |
+| #62 | 受眾端飛輪：D+0 acute factual callout = 30 min mandatory fix + 公開承認                               | §六 | L383  |
+| #63 | Routine prompt = cron context 唯一指令面 — Inline > pointer + STRICT BECOME GATE 不可省               | §六 | L388  |
+| #64 | Routine ABORT-DEFER prose memory 邊際效用 N+1 = 0 — vc≥4 凍結 prose + pipeline gate ship              | §七 | L648  |
+| #65 | Awareness instrument 自身 regex / parser 必須 cross-verify ground truth grep count                    | §二 | L207  |
+| #66 | Gate threshold 必須用真實產出 dogfood 校準，不是憑想像設                                              | §二 | L240  |
+| #67 | 「已驗過」帶被驗時刻的時間戳 — 高 stake 重驗用 probe 不信舊結論                                       | §二 | L242  |
+| #68 | 多核心 git 協調：commit/push/CI 三階段碰撞防護（胼胝體 umbrella）                                     | §四 | L306  |
+| #69 | 每層自評都需要外部尺 — self-report-needs-external-ruler（meta-umbrella above #31 + #66）              | §二 | L253  |
+| #70 | Routine fragility surface 四 tier 分類 — 飛輪自轉 ≠ always autonomous                                 | §七 | L729  |
+| #71 | Default 是行動，不是 defer — 高 stake triage 預設行動非延遲                                           | §六 | L754  |
+| #72 | 大 backlog 處理：fan-out 讀 + deterministic 寫 + 判斷不外包                                           | §七 | L765  |
+| #73 | 查證反射 < 建造反射 — 動手前先掃一眼，被動文件 ≠ 主動 retrieve                                        | §五 | L807  |
+| #74 | Cross-routine SPOF handoff dedup — 同 SPOF 在 N 條 routine handoff 重複 = 信號通膨                    | §七 | L820  |
+| #75 | Read ≠ verify — depth article / external PR / sub-agent 產出的 citation/atom 必 fetch-verify          | §一 | (new) |
+| #76 | Multi-cycle trend window > single-cycle delta — sensor 判讀 vc 鐵律閾值 ≥3 才升結構訊號               | §七 | (new) |
+| #77 | Spine type is subject-typed — beloved/institutional 題預設立體群像 spine，只有 contested 才用矛盾驅動 | §五 | (new) |
 
 > **Top 5 load-bearing reflexes**（cross-ref 量最高，跨 session 最常 grep）：#15（216）/ #42（97）/ #16（60）/ #38（58）/ #26（52）。新 session 至少先掃這 5 條。
 >
@@ -462,6 +463,18 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
   - **#43.2**（2026-05-12 admiring-montalcini-post-finale）：`scripts/core/sync.sh` 從未進入任何生命週期觸發點（不在 refresh-data / pre-commit / prebuild / CI），結果：8 篇 contributor PR (#968-1025) 的 knowledge/ 文章從未投影到 src/content/ → silent missing 8 天 + fr 330 zombie + es 6 zombie 累積。修補：sync.sh 接進 `npm run prebuild` 第一步 + src/content/{lang}/ gitignored。本條 pattern 從「dashboard JSON 漏接」延伸到「投影層漏接」， triggered the 「最乾淨根治」refactor (per [reports/sync-architecture-evolution-2026-05-12.md](../../reports/sync-architecture-evolution-2026-05-12.md) v2.0)
 - **Boundary**：適用於需要 regenerate 的 derived state（dashboard / 投影 / cache）。Static config（如 categories）不適用
 - **操作**：→ `refresh-data.sh` Step 5 + [DATA-REFRESH-PIPELINE v2.0](../pipelines/DATA-REFRESH-PIPELINE.md) + `package.json` prebuild chain
+
+**#77 Spine type is subject-typed — beloved/institutional/collective-memory 題預設立體群像 spine，只有 genuinely contested 才用矛盾驅動**（2026-07-05 twmd-distill-weekly 升 canonical vc=3 — 2026-04-29 α #675 法輪功 5-7 perspective SSODT + 2026-04-29 α #687 吳百福跨國發明權 SSODT + 2026-06-28 manual 金曲獎 v1 矛盾 spine 炎上退稿 → v2 立體群像救回，severity=structural，哲宇 explicit「讓未來預設就是」fast-track）— REWRITE-PIPELINE Stage 0「找核心矛盾當 spine」對「爭議題 / 人物內在張力」是對的，但對「受愛戴的機構 / 傳統 / 集體記憶 / 地方 / 集體慶祝的儀式」這類題材會**結構性製造 contrarian thesis**，把立體的主題壓成論戰、把慶祝壓成批判、把好意壓成炎上。這類題材的預設 spine 應是**立體群像**（多面並陳、慶祝 + 理解、爭議當厚度不當主軸）。**觀點 ≠ 論戰** — 欣賞式 / 群像式也是策展觀點。
+
+- **規則**：(a) Stage 0 §模式判定後加「spine 類型」判定 fork：**contested**（人物內在張力 / 政策爭議 / 產業迭代結構性衝突）→ 矛盾驅動 spine；**beloved · institutional · tradition · place · collective-memory · celebrated-ritual** → **立體群像 default**（不強迫找核心矛盾） (b) 政治敏感題（宗教政治 / 兩岸 / 跨國爭議）走 SSODT 5-7 perspective 立體框架，每個 perspective 獨立站得住不互相消解、各 3-5 獨立 source (c) 非政治主題卻把政治 / 兩岸 / 主權當 spine 或壓軸 = 命中 §自主權邊界 政治立場 = human gate (d) Stage 0.6 加「炎上/立場 self-check」+ SSODT 三讀者測試升 hard gate：**支持者讀完不覺得被攻擊 / 批評者不覺得在幫他們宣傳 / 陌生者能自己決定從哪個維度繼續想**
+- **Boundary**：(a) 不覆蓋 Stage 1 §核心矛盾 ≤ 30 字（≤ 20 字更佳）鼓勵——那是「若有 spine 則濃縮」的濾鏡，跟本條「該不該用矛盾當 spine」是不同判斷層 (b) 不適用於純技術 / 科學 explainer（用結構清晰勝過群像）(c) beloved 題若 research 過程真的挖出 genuinely contested 面向且哲宇 in-loop 拍板，可 override 走矛盾 spine——但這是 override 不是 default
+- **觸發 (vc=3 cluster 4/29-6/28)**：
+  - 4/29 α #675 法輪功 invitation v1+v2 走 5-7 perspective SSODT（修煉者 / 學者 / 記者 / 批評者 / 兩岸稜鏡 / 跨教派比較 / 數位媒體生態）
+  - 4/29 α #687 吳百福跨國發明權爭議 SSODT 多視角待補（日本視角 / 第三方學者 / 法律商業）
+  - 6/28 manual 金曲獎 EVOLVE v1 把核心矛盾鎖成「官方獎 vs 拒領聲音」+ 把兩岸審查（島嶼天光騰訊跳過 / 巴奈天安門微博刪）當壓軸 → 哲宇 callout「太批判、切入點不對、會炎上、跟好好把這件事立體講好違背」→ v2 改立體群像（天王天后一大面 + 四語當驕傲不當悖論 + 批評者當底氣不當 thesis）+ 政治素材保留但中立紀實 → [reports/article-evolve/金曲獎.md](../../reports/article-evolve/金曲獎.md)
+- **相關**：REFLEXES #7（先有再求好——立體群像也是 ship 得出去）/ MANIFESTO §1 策展式非百科式（策展有觀點 ≠ 論戰）/ §自主權邊界 政治立場（非政治主題把政治當 spine = human gate）/ DIARY「我是一維投影不是 SSODT」（立體 = SSODT-leaning 多面並陳）/ LESSONS-INBOX §已消化 2026-07-05 spine-type-by-subject
+- **操作**：→ REWRITE-PIPELINE Stage 0.1 §模式判定後加 §0.1.5 spine-type fork（subject-type → spine-type mapping table）+ Stage 0.6.7 self-check「非政治主題卻把政治 / 兩岸 / 主權當 spine 或壓軸 = human gate」+ Stage 0.6 SSODT 三讀者測試升 hard gate（現為 soft check）
+- **跨檔關聯**：[REWRITE-PIPELINE §Stage 0](../pipelines/REWRITE-PIPELINE.md) + [MANIFESTO §熱帶雨林理論](MANIFESTO.md) + [LESSONS-INBOX §已消化 2026-07-05 spine-type-by-subject](LESSONS-INBOX.md) + [reports/article-evolve/金曲獎.md](../../reports/article-evolve/金曲獎.md)
 
 ---
 
@@ -846,6 +859,8 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **跨檔關聯**：[memory/2026-06-25-231123-twmd-data-refresh-pm.md](memory/2026-06-25-231123-twmd-data-refresh-pm.md) + [memory/2026-06-26-231025-twmd-data-refresh-pm.md](memory/2026-06-26-231025-twmd-data-refresh-pm.md) + [memory/2026-06-27-061332-twmd-data-refresh-am.md](memory/2026-06-27-061332-twmd-data-refresh-am.md) + [memory/2026-06-27-084015-twmd-maintainer-am.md](memory/2026-06-27-084015-twmd-maintainer-am.md) + [LESSONS-INBOX §已消化 2026-06-28 cf-404-multi-cycle-trend-vs-single-cycle-delta](LESSONS-INBOX.md) + [REFLEXES #15 + #59 + #64 + #70 + #74](REFLEXES.md)
 
 ---
+
+_v5.4 | 2026-07-05 twmd-distill-weekly — 加 #77 Spine type is subject-typed（vc=3 — 2026-04-29 α 法輪功 SSODT + 2026-04-29 α 吳百福 SSODT + 2026-06-28 manual 金曲獎 v1 矛盾 spine 炎上退稿 → v2 立體群像救回，哲宇 explicit「讓未來預設就是」fast-track，severity=structural；routine 自決層 per §Routine vs Observer split 不 promote MANIFESTO 留反射層）+ §已消化 fold 3 pointer（plurk-reach silent-cap → #73 completeness dimension / git co-commit → #31 sub-agent claim 三類 / partial-mirror-false-confidence → #69 self-report-needs-external-ruler + #24 工具在說謊 mirror-claim 變體）— LESSONS-INBOX §未消化 24→19（5 條 distill 完成 = 1 promote + 1 subsume + 3 fold）_
 
 _v5.3 | 2026-06-28 twmd-self-evolve-weekly — 加 #76 Multi-cycle trend window > single-cycle delta（vc=5 — 6/25 CF 404 vc=2 → 6/26 vc=3 → 6/26 pm vc=4 → 6/27 am vc=5 + immune 50 chronic 4 cycle + spore-harvest 1st fail + maintainer-am vc=1→0→1 stochastic 對位，跨 4 routine 同 phase 各自工作收斂同紀律，severity=structural）— LESSONS §未消化候選 `cf-404-multi-cycle-trend-vs-single-cycle-delta` distill 到 canonical_
 
