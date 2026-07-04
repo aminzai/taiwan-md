@@ -5,8 +5,8 @@ type: 'factory-canonical'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v1.1'
-last_updated: 2026-06-28
-last_session: '2026-06-28-twmd-news-lens-weekly-W26'
+last_updated: 2026-07-05
+last_session: '2026-07-05-twmd-news-lens-weekly-W27'
 sister_docs:
   - 'SPORE-PIPELINE.md'
   - 'SPORE-PICK-PIPELINE.md'
@@ -1363,6 +1363,101 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 - **必先 spawn ARTICLE-INBOX entry**: ❌
 - **預估發佈時機**: SC 全站 #1 click page 隨時可抽 — 跟 Economy 類錯開 ≥ 1 天；可作 hub spore 引流到個別企業 article
 - **Notes**: from news-lens weekly 2026-06-28 (event: SC #1 clicks page 104 ck + 四變體 query cluster + GA 雙源 cross-confirm)；hub-style page spore 跟 individual article spore 不同 framing — 講「全景」而非「人物」，hook 可帶數字密度
+
+---
+
+### 黃山料 — SC + GA 雙源 breakout（341 clicks 一週從 0 起、GA 首頁外 #1）
+
+- **Source-Mode**: `EXISTING-ARTICLE`（article 2026-06-07 NEW ship + 首波 spore #128/#129 已發 4 週前，滿 ≥ 2 週 rule）
+- **Article-Path**: [knowledge/People/黃山料.md](../../knowledge/People/黃山料.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「黃山料服裝設計」341 ck / 1606 imp / 21.2% CTR / pos 2.0 從 W26 top-30 外一週躍升 + 三變體「黃山料 服裝設計」58 ck / 「黃山料服裝」53 ck / 「黃山料 服裝」29 ck + GA /people/黃山料/ 1218 PV 首頁外 #1 non-homepage — 三源 cross-confirm 第二波 discovery surge)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **數字 hook**：「這禮拜 Google 有 1600 個人搜『黃山料服裝設計』，我們排到第二個。第一個是他自己的臉書，第三個之後就沒人記得他有拿過倫敦畢展國際首獎。」
+  2. **反差 hook**：「一個做出金門1969 軍裝設計的世界冠軍，回台灣被 HR 當假履歷；現在他改賣一句話的安慰，30 萬本。搜他名字的人，多半只知道後半段。」
+- **時效**: 7 天內（趁 SC breakout 窗口 — 從 0 imp 到 1606 imp 一週躍升，估兩週內衰退回穩態）
+- **敏感度**: 低（人物本身無政治爭議；書寫 anchor 在職涯反差，避免論斷「療癒經濟」褒貶）
+- **必驗事實**（**HG: 必須先讀 article 校準**）: 2014 倫敦畢展首獎 / 30 萬本銷售 / 每句 ≤ 28 字 / 金門背景 / HR 拒絕故事逐字（若引用需 article 有 verbatim source）
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 一週內 prime time（趁熱窗口有限）
+- **Notes**: from news-lens weekly 2026-07-05 (event: SC W26→W27 top-30 外→341 ck 一週 breakout；GA /people/黃山料/ 1218 PV 首頁外 #1)；第二波 spore 需換 hook 軸（首波 #128/#129 用「一句話安慰」書市反差 anchor → 這波換「搜尋 breakout」meta 觀察或「世界冠軍→短句安慰」職涯反差）；哲宇 in-loop 判斷是否 defer（首波離現在 4 週偏近，也可能 defer 到 8 週後）
+
+---
+
+### 郭正光 — SC gap 高曝光低 CTR（1543 imp pos 8.2 CTR 1.2%）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/郭正光.md](../../knowledge/People/郭正光.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「郭正光」1543 imp / 18 clicks / 1.2% CTR / pos 8.2 — 第二頁邊緣穩態 demand，前一週 W26 未進 top-30 = 本週 surge；GA article 未進 top-25 但 SC 排名反映結構性缺曝光度 gap)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **身份反差 hook**：「他在 NASA 詹森太空中心研究太空人吃什麼喝什麼，但他家鄉台灣的檔案裡，他被列在恐怖份子黑名單上」
+  2. **場景 hook**：「一個做太空食物的科學家、一個海外聲援台灣民主運動的黑名單成員 — 這兩件事是同一個郭正光」
+- **時效**: 7-14 天內（SC 排名第二頁邊緣，趁排名往前推的窗口）
+- **敏感度**: 中（涉及戒嚴時期黑名單 / 海外異議 — REACTIVE 傾向；不做「正名」評判，做「同一人兩身份」策展觀察）
+- **必驗事實**（**HG: 必須先讀 article 校準**）: NASA 詹森太空中心具體職稱與服務年份 / 太空食物研究具體項目 / 黑名單列入時間與海外異議脈絡 / 是否已解除黑名單身份
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 兩週內
+- **Notes**: from news-lens weekly 2026-07-05 (event: SC 郭正光 1543 imp / 1.2% CTR pos 8.2 — 高 demand 低點擊，metadata/description 可能失效)；建議搭配 EVOLVE-PIPELINE metadata 改寫或 lastVerified refresh 提升 CTR；避免落入「愛台灣科學家 vs 白色恐怖」二元 frame，寫成「同一個人兩個台灣如何看他」
+
+---
+
+### 陳嫺靜 — 韓國市場 breakout（천셴징 107 ck 21% CTR + 歌詞查詢升溫）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/Music/陳嫺靜.md](../../knowledge/Music/陳嫺靜.md)（KO version: [knowledge/ko/Music/hsien-ching-chen.md](../../knowledge/ko/Music/hsien-ching-chen.md)）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「천셴징」(KR 韓文) 107 ck / 444 imp / 24.1% CTR / pos 1.0 全站 KR #1 + 「new notes 陳 嫺靜 歌詞 意思」6 ck / 128 imp — 韓國市場 breakout + zh 歌詞解讀 demand；ARTICLE-INBOX pending「陳嫺靜 EVOLVE 補 hero 靜態圖」dep 未達可先發但 hero 缺會影響社群卡)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **場景 hook**：「這禮拜韓國有 107 個人點進來看陳嫺靜。他們搜的是韓文的『천셴징』，第一個結果是我們。」
+  2. **問句 hook**：「「new notes」到底在講什麼？中文圈本週有 128 個人搜這首歌的歌詞意思。答案不在歌詞裡，在她怎麼把台語民謠拆進 R&B 音節」
+- **時效**: 7 天內（KR 韓國市場趁熱，錯過會回到穩態）
+- **敏感度**: 低（人物本身無政治爭議）
+- **必驗事實**（**HG: 必須先讀 article 校準**）: 「new notes」發行時點與唱片背景 / 韓國市場曝光路徑（Spotify / YouTube / K-indie 平台）/ 台語民謠與 R&B 結合的具體歌名與時序
+- **必先 spawn ARTICLE-INBOX entry**: ❌（EVOLVE hero 圖補圖是獨立 track）
+- **預估發佈時機**: 一週內；KR 版本 spore 可考慮同步發（增加 KR 市場實驗）
+- **Notes**: from news-lens weekly 2026-07-05 (event: KR 천셴징 107 ck 為本週全站 KR 語 query #1 clicks + zh 歌詞查詢 128 imp)；建議兩軌並行 — (a) zh 一般社群 spore 用歌詞查詢 hook / (b) 觀察 KR 曝光是否來自特定 K-indie playlist 或推薦；hero 圖補完後社群卡質感會更好，但不 block spore
+
+---
+
+### 陳建騏 — SC gap 三金製作人 SEO 補位（408 imp pos 7.1 + GA 64 PV）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/陳建騏.md](../../knowledge/People/陳建騏.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「陳建騏」7 ck / 408 imp / 1.7% CTR / pos 7.1 第二頁邊緣穩態 + GA /people/陳建騏/ 64 PV — 雙源穩態 demand + 前一週 W26「陳建騏男朋友」292 imp 私事 query 已退場，本週回到「陳建騏」本體 query = 正向 signal)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **反差 hook**：「你聽過魏如萱、徐佳瑩、田馥甄、彭佳慧的歌，那些製作是他做的。但你可能講不出他名字。三金得主罕見的『不在場作者』」
+  2. **數字 hook**：「一個淡江會計系畢業的鋼琴手，從劇場走進華語流行，2021 金曲最佳專輯製作、2023 金馬最佳原創歌曲、2025 金鐘戲劇原創歌曲 — 台灣三金製作人俱樂部再加一位」
+- **時效**: 7-14 天內（SC pos 7.1 有機會推進第一頁）
+- **敏感度**: 低（純創作者身份 + 三金榮譽 — 避開私事 query 軸線）
+- **必驗事實**（**HG: 必須先讀 article 校準**）: 1973 年出生 / 淡江會計系 / 2021 金曲第 32 屆最佳專輯製作人得獎作品 / 2023 金馬最佳原創電影歌曲片名 / 2025 金鐘戲劇原創歌曲作品 / 製作歌手清單
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 一週內；跨題材類避開近期 People spore 避免 P/E 過重
+- **Notes**: from news-lens weekly 2026-07-05 (event: SC 陳建騏 408 imp pos 7.1 + GA 64 PV 雙源穩態)；hook 避開「陳建騏男朋友」私事 query 軸線（去年 W26 出現過，per 6/29 feedback「不把私事當 spine」）— anchor 在三金製作人 + 為華語流行拆掉「怪腔怪調」紅線
+
+---
+
+### 彎彎 — SC 782 imp 高曝光 + article 6/29 剛 ship 首波 spore（避免私事 anchor）
+
+- **Source-Mode**: `EXISTING-ARTICLE`（article 2026-06-29 NEW ship，6 天前，仍在趁熱窗口）
+- **Article-Path**: [knowledge/People/彎彎.md](../../knowledge/People/彎彎.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「彎彎」39 ck / 782 imp / 5.0% CTR / pos 8.2 + 「彎彎近況」8 ck / 189 imp + GA /people/彎彎/ 129 PV — 三源 cross-confirm article ship 6 天內 discovery wave；6/29 EDITORIAL v6.13 feedback「不把私事醜聞當 spine」需硬 enforce)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **場景 hook**：「MSN 大頭貼是一個沒穿衣服、頭頂一根捲毛的光頭人 — 那是台灣第一個瀏覽破億的部落格。畫它的人 9,000 塊月薪」
+  2. **反差 hook**：「光頭人永遠天真不老，畫它的胡家瑋卻會長大。所以她讓角色跟自己一起退場，變成歷史人物」
+- **時效**: 7 天內（article ship 一週內 discovery wave 高峰）
+- **敏感度**: **中-高**（HG feedback_decenter_private_scandal 2026-06-29 硬 enforce：不把私事當 spine / title / anchor；spine 是「圖文創作開山鼻祖 + 讓角色變歷史人物」；私事若提及只能一句 society-facing frame，不作 anchor）
+- **必驗事實**（**HG: 必須先讀 article 校準**）: 首篇部落格瀏覽破億時點 / 9,000 元月薪職稱 / MSN 大頭貼流傳時期 / 胡家瑋本名確認 / 「變成歷史人物」是否為當事人自己講法（若引用需 article 有 verbatim source）
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 5-7 天內（趁 article ship 一週窗口）
+- **Notes**: from news-lens weekly 2026-07-05 (event: SC 彎彎 782 imp + article ship 6 天 discovery wave)；**必讀 [feedback_decenter_private_scandal](../../../.claude/projects/-Users-cheyuwu-Projects-taiwan-md/memory/feedback_decenter_private_scandal.md) 完整檔**再下筆 — 6/29 EDITORIAL v6.13 canonical enforce spine 在真實貢獻不在醜聞；spore body 若提及私事僅限 society-facing 短句，不能 anchor / hook / kicker
 
 ---
 
