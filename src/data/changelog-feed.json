@@ -1,7 +1,70 @@
 {
-  "generatedAt": "2026-07-04T15:09:45.029Z",
+  "generatedAt": "2026-07-04T22:11:54.909Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "a03d3214ae23182f1549f8f4e34c856ff12879cc",
+      "date": "2026-07-05T05:09:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-05-050810-twmd-embeddings-nightly — 連 18 夜 fleet-down graceful skip，4090 實體離線 17d、committed 索引 6 語 100% 8 鄰居完好無 rebuild 不 commit index",
+      "articles": []
+    },
+    {
+      "hash": "6c299b7b70398c2f52c925d25695831613fd54f0",
+      "date": "2026-07-05T04:23:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-self-evolve-weekly: memory 2026-07-05-041350-twmd-self-evolve-weekly — 3 REFLEXES promote handoff",
+      "articles": []
+    },
+    {
+      "hash": "b47bcd220173d42a19b62be2e24a193e1ba09ac1",
+      "date": "2026-07-05T04:20:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-self-evolve-weekly: W27 LESSONS-INBOX §已消化 distill row 記錄 #78/#79/#80 promotion",
+      "articles": []
+    },
+    {
+      "hash": "8e96c3450c7e7ed9cd62a8a80fa66595bb5ced4b",
+      "date": "2026-07-05T04:19:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-self-evolve-weekly: W27 加 REFLEXES #78/#79/#80 三反射 promote",
+      "articles": []
+    },
+    {
+      "hash": "594fc8ac4a758a3a99751b7fe3156c4d4dbdcc6b",
+      "date": "2026-07-05T03:22:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-distill-weekly: W27 promote REFLEXES #77 spine-type-by-subject vc=3",
+      "articles": []
+    },
+    {
+      "hash": "9c4503610b0fab7b755eaa4eb51a7fe05f0a4cbb",
+      "date": "2026-07-05T02:12:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-weekly-report-sun: W26→W27 週報 ship",
+      "articles": []
+    },
+    {
+      "hash": "84ab82df10b80fbe3628fd3c13643e2c30278968",
+      "date": "2026-07-05T01:15:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] news-lens: W27 5 P1 candidates append SPORE-INBOX",
+      "articles": []
+    },
+    {
+      "hash": "3c4cfb3677589130538d17f2dd0cd10c8255bf9d",
+      "date": "2026-07-05T00:39:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 五語 stale=0 零操作 cycle — 2026-07-05",
+      "articles": []
+    },
+    {
+      "hash": "348c0312051d8f13c56b77a0147b2e13666b8fa1",
+      "date": "2026-07-04T23:12:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh",
+      "articles": []
+    },
     {
       "hash": "04d50b66b7b8b97807c539f38401cc20019265a3",
       "date": "2026-07-04T22:33:54+08:00",
