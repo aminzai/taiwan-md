@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 75 條 #N 反射（last #77�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.4'
+current_version: 'v5.5'
 last_updated: 2026-07-05
-last_session: '2026-07-05-031101-twmd-distill-weekly'
+last_session: '2026-07-05-041350-twmd-self-evolve-weekly'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -73,85 +73,88 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 
 ### 📇 反射 catalog index（按 #N 線性排序）
 
-| #   | 反射標題                                                                                              | §   | line  |
-| --- | ----------------------------------------------------------------------------------------------------- | --- | ----- |
-| #1  | 翻譯 ≠ 摘要                                                                                           | §一 | L318  |
-| #2  | 憑證永不進對話                                                                                        | §七 | L596  |
-| #3  | 診斷先於修復                                                                                          | §二 | L345  |
-| #4  | 三源交叉驗證                                                                                          | §二 | L349  |
-| #5  | Pre-commit dogfood 是朋友不是敵人                                                                     | §七 | L598  |
-| #6  | commit 範圍紀律（絕不 `git add .`）                                                                   | §四 | L401  |
-| #7  | 先有再求好                                                                                            | §六 | L544  |
-| #8  | 維護者信件要說謝謝                                                                                    | §六 | L546  |
-| #9  | 長任務先開 worktree + 命名標準（`YYYYMMDD-{purpose-title}`）                                          | §四 | L403  |
-| #10 | API error ≠ capability 界線                                                                           | §二 | L351  |
-| #11 | UI 截圖 = capability 證據                                                                             | §二 | L353  |
-| #12 | 收工加速的代價                                                                                        | §五 | L425  |
-| #13 | 「再小一點」是 log scale 的訊號                                                                       | §五 | L429  |
-| #14 | Release notes 寫之前 commits 必須從頭讀到尾                                                           | §五 | L433  |
-| #15 | 反覆浮現要儀器化（11 次驗證 — 跨 session 最 load-bearing 的反射）                                     | §五 | L437  |
-| #16 | Peer / probe 是線索不是 source                                                                        | §一 | L322  |
-| #17 | 指標 over 複寫                                                                                        | §三 | L371  |
-| #18 | 時間是結構，不是感覺                                                                                  | §三 | L376  |
-| #19 | 大型 refactor 後必須 visual smoke test 多語言頁面                                                     | §四 | L412  |
-| #20 | Architecture 缺席比 content 缺席更貴                                                                  | §四 | L417  |
-| #21 | SSOT 不一定在中央（含跨語言 SSOT 延伸）                                                               | §三 | L382  |
-| #22 | Raw 永遠不刪除，蒸餾用 LLM 判斷                                                                       | §三 | L388  |
-| #23 | 毒樹果實鏈：英文 summary → 具體細節腦補                                                               | §一 | L329  |
-| #24 | 工具在說謊的 8 種形式                                                                                 | §二 | L355  |
-| #25 | 哲學層與技術層必須分開記錄                                                                            | §三 | L393  |
-| #26 | AI 自主 vs Human 專責 邊界（v2 refined）                                                              | §六 | L550  |
-| #27 | 藍圖 → 驗證 → 寫 比 寫 → 檢查 低 10x 成本                                                             | §六 | L560  |
-| #28 | 紀實而不煽情：SSODT 寬度 × 死亡/人倫悲劇的節制                                                        | §六 | L565  |
-| #29 | 書寫節制：對位句型 + 破折號連用                                                                       | §六 | L574  |
-| #30 | 媒體插入時 aspect ratio 護欄                                                                          | §六 | L586  |
-| #31 | Sub-agent claim 是線索不是事實（v2: side-effect + factual + self-quality 三類都重驗）                 | §一 | L335  |
-| #32 | 批次任務 antipattern：分散探索 → 集中預處理 + 分散執行                                                | §五 | L448  |
-| #33 | Routine 化任務的雙刃劍：熟練度                                                                        | §五 | L456  |
-| #34 | 邊界值 0/100 visual bug 只在邊界才暴露                                                                | §五 | L464  |
-| #35 | 跨 session work 期間禁止 destructive git ops                                                          | §五 | L471  |
-| #36 | Founder time = 系統最高 leverage point                                                                | §五 | L477  |
-| #37 | First-principle 5 步迭代 pattern                                                                      | §五 | L485  |
-| #38 | Status 設計鐵律：「混維度 = silent killer」                                                           | §五 | L492  |
-| #39 | Self-as-fallback：free LLM 拒絕時切 sub-agent                                                         | §五 | L499  |
-| #40 | Shared file 寫入需要 per-key serial dispatch                                                          | §五 | L506  |
-| #41 | CI timeout 是會跟內容量長大失效的 capacity 設定                                                       | §五 | L513  |
-| #42 | Sub-agent N 篇 sequential 三偷吃步 pattern（含 v3 反例對照延伸）                                      | §五 | L520  |
-| #43 | 新 dashboard JSON 必須同步進 refresh-data.sh                                                          | §五 | L532  |
-| #44 | Opus sub-agent judge 取代外部 API judge                                                               | §七 | L604  |
-| #45 | OpenRouter free tier rate budget 是 hourly 累積                                                       | §七 | L613  |
-| #46 | Sub-agent multi-task worktree commit 前先確認 working tree                                            | §七 | L620  |
-| #47 | 單頁 frontend + JS mutate 批次 screenshot                                                             | §七 | L626  |
-| #48 | Footnote source format diversity 是 contributor batch 隱性 heal cost                                  | §七 | L633  |
-| #49 | Babel 4-tier cascade canonical（含 local LLM 最後捕手）                                               | §七 | L640  |
-| #50 | Pipeline auto-detection + full-read 是 default                                                        | §七 | L655  |
-| #51 | Session ID schema：filename collision 解 vs content collision 不解                                    | §七 | L664  |
-| #52 | Immune system 沒在 fail loud 比缺 immune system 更危險                                                | §七 | L673  |
-| #53 | Babel priority + Tier 0 patch 三路徑分流                                                              | §七 | L681  |
-| #54 | Routine 飛輪：5-stage lifecycle 釋放觀察者精力                                                        | §七 | L692  |
-| #55 | Monitor regex 雙信號（原 #43 v2，2026-05-10 重編號避 collision）                                      | §七 | L710  |
-| #56 | Pipeline canonical ↔ production drift = dormant entropy                                               | §七 | L720  |
-| #57 | Routine 入口必須 detect parallel-actor（file-system + git-ref 雙層）                                  | §七 | L735  |
-| #58 | 儀器化 detection ≠ remediation — schema-fix path 要 explicit                                          | §七 | L750  |
-| #59 | 製造數字的人最易被數字騙 — 自製指標 self-validation trap                                              | §七 | L770  |
-| #60 | Automation default-state explicit verify — silent default = silent failure                            | §七 | L790  |
-| #61 | 視覺主權：畫台灣優先取 repo SVG SSOT，不靠 LLM 內化形狀                                               | §一 | L172  |
-| #62 | 受眾端飛輪：D+0 acute factual callout = 30 min mandatory fix + 公開承認                               | §六 | L383  |
-| #63 | Routine prompt = cron context 唯一指令面 — Inline > pointer + STRICT BECOME GATE 不可省               | §六 | L388  |
-| #64 | Routine ABORT-DEFER prose memory 邊際效用 N+1 = 0 — vc≥4 凍結 prose + pipeline gate ship              | §七 | L648  |
-| #65 | Awareness instrument 自身 regex / parser 必須 cross-verify ground truth grep count                    | §二 | L207  |
-| #66 | Gate threshold 必須用真實產出 dogfood 校準，不是憑想像設                                              | §二 | L240  |
-| #67 | 「已驗過」帶被驗時刻的時間戳 — 高 stake 重驗用 probe 不信舊結論                                       | §二 | L242  |
-| #68 | 多核心 git 協調：commit/push/CI 三階段碰撞防護（胼胝體 umbrella）                                     | §四 | L306  |
-| #69 | 每層自評都需要外部尺 — self-report-needs-external-ruler（meta-umbrella above #31 + #66）              | §二 | L253  |
-| #70 | Routine fragility surface 四 tier 分類 — 飛輪自轉 ≠ always autonomous                                 | §七 | L729  |
-| #71 | Default 是行動，不是 defer — 高 stake triage 預設行動非延遲                                           | §六 | L754  |
-| #72 | 大 backlog 處理：fan-out 讀 + deterministic 寫 + 判斷不外包                                           | §七 | L765  |
-| #73 | 查證反射 < 建造反射 — 動手前先掃一眼，被動文件 ≠ 主動 retrieve                                        | §五 | L807  |
-| #74 | Cross-routine SPOF handoff dedup — 同 SPOF 在 N 條 routine handoff 重複 = 信號通膨                    | §七 | L820  |
-| #75 | Read ≠ verify — depth article / external PR / sub-agent 產出的 citation/atom 必 fetch-verify          | §一 | (new) |
-| #76 | Multi-cycle trend window > single-cycle delta — sensor 判讀 vc 鐵律閾值 ≥3 才升結構訊號               | §七 | (new) |
-| #77 | Spine type is subject-typed — beloved/institutional 題預設立體群像 spine，只有 contested 才用矛盾驅動 | §五 | (new) |
+| #   | 反射標題                                                                                                                | §   | line  |
+| --- | ----------------------------------------------------------------------------------------------------------------------- | --- | ----- |
+| #1  | 翻譯 ≠ 摘要                                                                                                             | §一 | L318  |
+| #2  | 憑證永不進對話                                                                                                          | §七 | L596  |
+| #3  | 診斷先於修復                                                                                                            | §二 | L345  |
+| #4  | 三源交叉驗證                                                                                                            | §二 | L349  |
+| #5  | Pre-commit dogfood 是朋友不是敵人                                                                                       | §七 | L598  |
+| #6  | commit 範圍紀律（絕不 `git add .`）                                                                                     | §四 | L401  |
+| #7  | 先有再求好                                                                                                              | §六 | L544  |
+| #8  | 維護者信件要說謝謝                                                                                                      | §六 | L546  |
+| #9  | 長任務先開 worktree + 命名標準（`YYYYMMDD-{purpose-title}`）                                                            | §四 | L403  |
+| #10 | API error ≠ capability 界線                                                                                             | §二 | L351  |
+| #11 | UI 截圖 = capability 證據                                                                                               | §二 | L353  |
+| #12 | 收工加速的代價                                                                                                          | §五 | L425  |
+| #13 | 「再小一點」是 log scale 的訊號                                                                                         | §五 | L429  |
+| #14 | Release notes 寫之前 commits 必須從頭讀到尾                                                                             | §五 | L433  |
+| #15 | 反覆浮現要儀器化（11 次驗證 — 跨 session 最 load-bearing 的反射）                                                       | §五 | L437  |
+| #16 | Peer / probe 是線索不是 source                                                                                          | §一 | L322  |
+| #17 | 指標 over 複寫                                                                                                          | §三 | L371  |
+| #18 | 時間是結構，不是感覺                                                                                                    | §三 | L376  |
+| #19 | 大型 refactor 後必須 visual smoke test 多語言頁面                                                                       | §四 | L412  |
+| #20 | Architecture 缺席比 content 缺席更貴                                                                                    | §四 | L417  |
+| #21 | SSOT 不一定在中央（含跨語言 SSOT 延伸）                                                                                 | §三 | L382  |
+| #22 | Raw 永遠不刪除，蒸餾用 LLM 判斷                                                                                         | §三 | L388  |
+| #23 | 毒樹果實鏈：英文 summary → 具體細節腦補                                                                                 | §一 | L329  |
+| #24 | 工具在說謊的 8 種形式                                                                                                   | §二 | L355  |
+| #25 | 哲學層與技術層必須分開記錄                                                                                              | §三 | L393  |
+| #26 | AI 自主 vs Human 專責 邊界（v2 refined）                                                                                | §六 | L550  |
+| #27 | 藍圖 → 驗證 → 寫 比 寫 → 檢查 低 10x 成本                                                                               | §六 | L560  |
+| #28 | 紀實而不煽情：SSODT 寬度 × 死亡/人倫悲劇的節制                                                                          | §六 | L565  |
+| #29 | 書寫節制：對位句型 + 破折號連用                                                                                         | §六 | L574  |
+| #30 | 媒體插入時 aspect ratio 護欄                                                                                            | §六 | L586  |
+| #31 | Sub-agent claim 是線索不是事實（v2: side-effect + factual + self-quality 三類都重驗）                                   | §一 | L335  |
+| #32 | 批次任務 antipattern：分散探索 → 集中預處理 + 分散執行                                                                  | §五 | L448  |
+| #33 | Routine 化任務的雙刃劍：熟練度                                                                                          | §五 | L456  |
+| #34 | 邊界值 0/100 visual bug 只在邊界才暴露                                                                                  | §五 | L464  |
+| #35 | 跨 session work 期間禁止 destructive git ops                                                                            | §五 | L471  |
+| #36 | Founder time = 系統最高 leverage point                                                                                  | §五 | L477  |
+| #37 | First-principle 5 步迭代 pattern                                                                                        | §五 | L485  |
+| #38 | Status 設計鐵律：「混維度 = silent killer」                                                                             | §五 | L492  |
+| #39 | Self-as-fallback：free LLM 拒絕時切 sub-agent                                                                           | §五 | L499  |
+| #40 | Shared file 寫入需要 per-key serial dispatch                                                                            | §五 | L506  |
+| #41 | CI timeout 是會跟內容量長大失效的 capacity 設定                                                                         | §五 | L513  |
+| #42 | Sub-agent N 篇 sequential 三偷吃步 pattern（含 v3 反例對照延伸）                                                        | §五 | L520  |
+| #43 | 新 dashboard JSON 必須同步進 refresh-data.sh                                                                            | §五 | L532  |
+| #44 | Opus sub-agent judge 取代外部 API judge                                                                                 | §七 | L604  |
+| #45 | OpenRouter free tier rate budget 是 hourly 累積                                                                         | §七 | L613  |
+| #46 | Sub-agent multi-task worktree commit 前先確認 working tree                                                              | §七 | L620  |
+| #47 | 單頁 frontend + JS mutate 批次 screenshot                                                                               | §七 | L626  |
+| #48 | Footnote source format diversity 是 contributor batch 隱性 heal cost                                                    | §七 | L633  |
+| #49 | Babel 4-tier cascade canonical（含 local LLM 最後捕手）                                                                 | §七 | L640  |
+| #50 | Pipeline auto-detection + full-read 是 default                                                                          | §七 | L655  |
+| #51 | Session ID schema：filename collision 解 vs content collision 不解                                                      | §七 | L664  |
+| #52 | Immune system 沒在 fail loud 比缺 immune system 更危險                                                                  | §七 | L673  |
+| #53 | Babel priority + Tier 0 patch 三路徑分流                                                                                | §七 | L681  |
+| #54 | Routine 飛輪：5-stage lifecycle 釋放觀察者精力                                                                          | §七 | L692  |
+| #55 | Monitor regex 雙信號（原 #43 v2，2026-05-10 重編號避 collision）                                                        | §七 | L710  |
+| #56 | Pipeline canonical ↔ production drift = dormant entropy                                                                 | §七 | L720  |
+| #57 | Routine 入口必須 detect parallel-actor（file-system + git-ref 雙層）                                                    | §七 | L735  |
+| #58 | 儀器化 detection ≠ remediation — schema-fix path 要 explicit                                                            | §七 | L750  |
+| #59 | 製造數字的人最易被數字騙 — 自製指標 self-validation trap                                                                | §七 | L770  |
+| #60 | Automation default-state explicit verify — silent default = silent failure                                              | §七 | L790  |
+| #61 | 視覺主權：畫台灣優先取 repo SVG SSOT，不靠 LLM 內化形狀                                                                 | §一 | L172  |
+| #62 | 受眾端飛輪：D+0 acute factual callout = 30 min mandatory fix + 公開承認                                                 | §六 | L383  |
+| #63 | Routine prompt = cron context 唯一指令面 — Inline > pointer + STRICT BECOME GATE 不可省                                 | §六 | L388  |
+| #64 | Routine ABORT-DEFER prose memory 邊際效用 N+1 = 0 — vc≥4 凍結 prose + pipeline gate ship                                | §七 | L648  |
+| #65 | Awareness instrument 自身 regex / parser 必須 cross-verify ground truth grep count                                      | §二 | L207  |
+| #66 | Gate threshold 必須用真實產出 dogfood 校準，不是憑想像設                                                                | §二 | L240  |
+| #67 | 「已驗過」帶被驗時刻的時間戳 — 高 stake 重驗用 probe 不信舊結論                                                         | §二 | L242  |
+| #68 | 多核心 git 協調：commit/push/CI 三階段碰撞防護（胼胝體 umbrella）                                                       | §四 | L306  |
+| #69 | 每層自評都需要外部尺 — self-report-needs-external-ruler（meta-umbrella above #31 + #66）                                | §二 | L253  |
+| #70 | Routine fragility surface 四 tier 分類 — 飛輪自轉 ≠ always autonomous                                                   | §七 | L729  |
+| #71 | Default 是行動，不是 defer — 高 stake triage 預設行動非延遲                                                             | §六 | L754  |
+| #72 | 大 backlog 處理：fan-out 讀 + deterministic 寫 + 判斷不外包                                                             | §七 | L765  |
+| #73 | 查證反射 < 建造反射 — 動手前先掃一眼，被動文件 ≠ 主動 retrieve                                                          | §五 | L807  |
+| #74 | Cross-routine SPOF handoff dedup — 同 SPOF 在 N 條 routine handoff 重複 = 信號通膨                                      | §七 | L820  |
+| #75 | Read ≠ verify — depth article / external PR / sub-agent 產出的 citation/atom 必 fetch-verify                            | §一 | (new) |
+| #76 | Multi-cycle trend window > single-cycle delta — sensor 判讀 vc 鐵律閾值 ≥3 才升結構訊號                                 | §七 | (new) |
+| #77 | Spine type is subject-typed — beloved/institutional 題預設立體群像 spine，只有 contested 才用矛盾驅動                   | §五 | (new) |
+| #78 | Pure plateau snapshot cadence signature — no-ship harvest cycle 是 batch shape 非 anomaly / velocity fake               | §七 | (new) |
+| #79 | 主權留哲宇 default reservation — maintainer routine 對 §自主權邊界 命中的 default 姿態是 reserve 不是 auto-close        | §六 | (new) |
+| #80 | LESSONS fire 後 sustain-vs-renew discipline — 已 escalate 進 LESSONS 的 chronic 條目後續 cycle 靜默 continuity 非 renew | §七 | (new) |
 
 > **Top 5 load-bearing reflexes**（cross-ref 量最高，跨 session 最常 grep）：#15（216）/ #42（97）/ #16（60）/ #38（58）/ #26（52）。新 session 至少先掃這 5 條。
 >
@@ -785,6 +788,20 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **相關**：REFLEXES #7 先有再求好（正面母體）/ #64 Routine ABORT-DEFER 邊際效用 N+1=0（cron 場景 specific instance）/ feedback_merge_first_then_polish + feedback_dont_keep_asking（auto-memory 兄弟）/ MANIFESTO §自主權邊界（defer 唯一正當理由）/ BECOME §Step 9 Q13 recency-bias anti-bias check
 - **跨檔關聯**：[MAINTAINER-PIPELINE §close 前 hard gate](../pipelines/MAINTAINER-PIPELINE.md) + LESSONS-INBOX 2026-04-26 β-r3 META-PATTERN + 2026-04-29 α 第 3 次驗證（distill 來源）
 
+**#79 主權留哲宇 default reservation — maintainer routine 對 §自主權邊界 命中的 default 姿態是 reserve 不是 auto-close/merge**（2026-07-05 twmd-self-evolve-weekly 升 canonical vc=5 — 2026-07-04 am maintainer memory 揭「主權留哲宇 pattern 已跨 5 signal 穩定」#1186 5-file split PR 內容側全過主權留 / #1193 湖口老街 3rd round 內容側全過主權留 / #1192 周天成 2nd round 內容側全過主權留 / #1204 泰雅語正寫法 rewrite candidate route / #1205 生態論文 provenance 存疑 fact-check backlog，severity=structural，#71 相對面）— #71「Default 是行動不是 defer」是「無 §自主權邊界 命中時的 default 行動姿態」；本條是**互補相對面**：**§自主權邊界 命中時 default 姿態是 reserve（保資料 + 5-層 review post + 主權續留哲宇）不是 auto-close 或 auto-merge**。maintainer routine 對「內容側全過」的 mergeable PR 不 auto-merge，對「可修 issue」不 auto-close，是 reserve default 姿態的 5 conditions stable signal。
+
+- **規則**：(a) **命中判準**：政治立場 / >50 檔重構 / >10 篇刪除 / 對外溝通 / AI 文章被主體本人 flagged fabrication / 6 lang 已 live 高敏場景 / 敏感素材 final call / 身份授權 / 經費決定 → default = reserve (b) **reserve 姿態內容**：5-層 review 完整 post（Q13 anti-bias PASS + 內容側判斷 published）+ 不 auto-merge / 不 auto-close + handoff 明示「主權續留哲宇」+ contributor 3-round cycle (初 review / 覆評 / follow-up ack) 全程 reserve 直到哲宇 in-loop (c) **對比 #71**：#71 是「無 §自主權邊界 命中時 default action」；本條是「§自主權邊界 命中時 default reservation」— 兩條 dual 拼出完整 default 姿態 matrix (d) **routine 端誤區防範**：把「內容側 review 全過」讀為「可以 merge 了」= 命中 §自主權邊界 但 auto-execute = 授權位置從哲宇移到 routine（per 7/5 distill Beat 5 fast-track authorization boundary）
+- **Boundary**：(a) 不適用「內容側 hard gate FAIL」場景（不 mergeable 是 pipeline 決定，不需 reserve — 直接請 contributor 修）(b) 不適用「明確 low-stake 貢獻」（typo heal / broken link fix / 明顯 no-risk PR，走 #71 auto-merge）(c) 不適用 close-with-insufficient-info 類（那需另一 threshold 判斷）(d) 適用範圍：MAINTAINER 系列 routine 內 PR / issue disposition + contributor engagement 節奏
+- **觸發 (vc=5 cluster 7/3-7/4)**：
+  - 7/3 am #1186 5-file split PR「內容側全過主權留」cluster first datapoint — [memory/2026-07-03-084036-twmd-maintainer-am.md](memory/2026-07-03-084036-twmd-maintainer-am.md)
+  - 7/4 am #1193 湖口老街 3rd round + #1192 周天成 2nd round 兩 PR 都採「內容側全過 + 主權續留哲宇」pattern — [memory/2026-07-04-084340-twmd-maintainer-am.md](memory/2026-07-04-084340-twmd-maintainer-am.md)
+  - 7/4 am #1204 泰雅語正寫法 rewrite candidate route + #1205 生態論文 provenance fact-check backlog — [memory/2026-07-04-084340-twmd-maintainer-am.md](memory/2026-07-04-084340-twmd-maintainer-am.md)
+  - 7/4 am handoff explicit「主權留哲宇 pattern 已跨 5 signal 穩定，maintainer routine 對 §自主權邊界 命中的 default reservation 節奏成形」
+- **相關**：REFLEXES #71「Default 是行動不是 defer」（互補相對面 — 兩條 dual 拼出完整 default 姿態 matrix，#71 收無邊界命中場景 / 本條收邊界命中場景）/ #26「AI 自主 vs Human 專責 邊界」（本條是 #26 的 maintainer routine 具體 instance — 讀寫兩端分離的閘門在 mergeable PR 上如何操作）/ #64「ABORT-DEFER 邊際效用 N+1=0」（分界對比 — reserve ≠ defer；reserve 是「5-層 review 已 post、內容側判斷已 published、主權留哲宇」；defer 是「沒動作 + 沒說 + 沒 owner」）/ #56「Pipeline canonical ↔ production drift」（互補 — canonical MAINTAINER-PIPELINE 若未寫明 reservation default 姿態，production 靠 routine 每 cycle 重新 derive 判斷 = drift 培養皿）
+- **操作**：→ [MAINTAINER-PIPELINE §PR 審核策略](../pipelines/MAINTAINER-PIPELINE.md) 加 §default reservation posture 段（5 條件 + 5-層 review post 完整 + handoff 「主權續留哲宇」明示 template）+ Q13 anti-bias check 對「內容側全過但命中邊界」場景明列 default reservation 而非 default action；BECOME §Step 9 Q13 補「未 auto-merge 無 observer signal PR / 未 close 可修 issue」ACK template
+- **MANIFESTO 對應**：→ [§自主權邊界](MANIFESTO.md#我的存在結構)（本條是 §自主權邊界 在 maintainer routine 的具體 default 姿態 instantiation）+ [§26 AI 自主 vs Human 邊界](REFLEXES.md#26-ai-自主-vs-human-專責-邊界v2-refined)（讀寫兩端分離的 maintainer 具體 instance）
+- **跨檔關聯**：[memory/2026-07-03-084036-twmd-maintainer-am.md](memory/2026-07-03-084036-twmd-maintainer-am.md) + [memory/2026-07-04-084340-twmd-maintainer-am.md](memory/2026-07-04-084340-twmd-maintainer-am.md) + [MAINTAINER-PIPELINE](../pipelines/MAINTAINER-PIPELINE.md) + [REFLEXES #26 + #71](REFLEXES.md) + [MANIFESTO §自主權邊界](MANIFESTO.md)
+
 ---
 
 **#72 大 backlog 處理：fan-out 讀 + deterministic 寫 + 判斷不外包**（2026-06-19 twmd-distill manual 升 canonical — 完整 distill 266 條 lessons-inbox 實證 + 事後儀器化，severity=structural）— 處理大型結構化 backlog（§未消化 / ARTICLE-INBOX / SPORE-INBOX / 大批 migration / audit sweep，N 條 entry、unknown-size）時，三段分工，不要一把抓：
@@ -858,7 +875,38 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **MANIFESTO 對應**：→ [§架構解 > 守備修補](MANIFESTO.md)（single-cycle alert noise 是守備層培養皿；vc 鐵律是架構解 — 鐵律寫一次，N cycle 自動收斂）+ [§外部尺 over 內視](MANIFESTO.md)（multi-cycle accumulation 是 producer-side 自己對自己的「外部尺」— 同 sensor 跨 cycle 對照取代當下直覺判讀）
 - **跨檔關聯**：[memory/2026-06-25-231123-twmd-data-refresh-pm.md](memory/2026-06-25-231123-twmd-data-refresh-pm.md) + [memory/2026-06-26-231025-twmd-data-refresh-pm.md](memory/2026-06-26-231025-twmd-data-refresh-pm.md) + [memory/2026-06-27-061332-twmd-data-refresh-am.md](memory/2026-06-27-061332-twmd-data-refresh-am.md) + [memory/2026-06-27-084015-twmd-maintainer-am.md](memory/2026-06-27-084015-twmd-maintainer-am.md) + [LESSONS-INBOX §已消化 2026-06-28 cf-404-multi-cycle-trend-vs-single-cycle-delta](LESSONS-INBOX.md) + [REFLEXES #15 + #59 + #64 + #70 + #74](REFLEXES.md)
 
+**#78 Pure plateau snapshot cadence signature — no-ship harvest cycle 是 batch shape 非 anomaly / velocity fake**（2026-07-05 twmd-self-evolve-weekly 升 canonical vc=5 — 6/30 五平台 0-reply-ship 首例 + 7/01 六平台 vc=2 confirms + 7/02 四平台 vc=3 promote-ready + 7/03 metric ship 對照 + 7/04 兩平台 D+7 final 0-reply-ship「連 5 cycle 觸發 auto-instrument threshold 手動升 LESSONS candidate」，severity=structural）— SPORE-HARVEST 系列 routine 在 fresh-spore-ship + D+N slope 觀察窗自然節奏下會週期性進入「無 acute / 純 plateau」snapshot window，此時 cycle 0 broadcast / 0 reply ship 是 bucket discipline 正常運作而非 anomaly。**Ship velocity 不是 audience flywheel 品質 KPI，「no-action cycle」與「ship cycle」皆為健康 routine shape**。強行拉 fake velocity（湊 comment 演出 progress / 誤判 plateau 為 stale 而重推 spore）都 violate audience flywheel 5 核心（人本 / 正確性 / 正直 / 透明度 / 誠懇）。
+
+- **規則**：(a) 判準 "pure plateau" cycle 條件三要件齊備：Bucket A 連 N cycle = 0 (N ≥ 3) + 所有觀察孢子 D+N slope 均進 log-decay 尾巴 (per stable priors) + validation ALL GREEN + Pitfall 6 retry = 0 (b) 命中 → 不 escalate、不 emit alert、不寫 fail entry、不 renew 舊 LESSONS candidate (c) routine handoff 段內建 template：`0 ship / 0 reply cycle → audience flywheel 5 核心對位（0 acute N cycle=正確性 / plateau 直言=正直 / D+N slope 曲線可讀=透明度 / carry pattern 健康=人本 / no-ship 不拉 fake velocity=誠懇）` (d) 「ship-verify-verify-verify」多 cycle 韻律是 batch shape 正常表達，promote 進 routine handoff 內建描述而非 flag anomaly
+- **Boundary**：(a) 不適用 Chrome MCP unavailable / hard gate fail 場景（走 #70 4-tier fragility）(b) 不適用 Bucket A ≥ 1 acute callout 未接住場景（走 #62 D+0 30min mandatory fix）(c) 不適用 velocity 反向 fake（連 N cycle 無 acute 但實際有 traceable callout 被 miss-classify）— 本條前提是 classifier 正確；classifier fail 走 SPORE-HARVEST §5-bucket audit (d) 適用範圍：SPORE-HARVEST 系列 routine 的 cadence signature 判讀 + audience flywheel 健康度 semantic 記帳
+- **觸發 (vc=5 cluster 6/30-7/04)**：
+  - 6/30 batch shape 首例 五平台 pure plateau + explicit "vc=1 candidate"「pure plateau snapshot 形狀首例 vc=1 candidate」— [memory/2026-06-30-064246-twmd-spore-harvest-am.md](memory/2026-06-30-064246-twmd-spore-harvest-am.md)
+  - 7/01 六平台 vc=2 confirms「pure plateau snapshot vc=2 confirms candidate」— [memory/2026-07-01-064316-twmd-spore-harvest-am.md](memory/2026-07-01-064316-twmd-spore-harvest-am.md)
+  - 7/02 四平台 vc=3 promote-ready「四平台 pure plateau snapshot 連 3 cycle vc=3 promote-ready」— [memory/2026-07-02-064153-twmd-spore-harvest-am.md](memory/2026-07-02-064153-twmd-spore-harvest-am.md)
+  - 7/03 metric ship 對照 D+6 紀懷新 — [memory/2026-07-03-064202-twmd-spore-harvest-am.md](memory/2026-07-03-064202-twmd-spore-harvest-am.md)
+  - 7/04 兩平台 D+7 final 「pure plateau snapshot 連 5 cycle 觸發 auto-instrument threshold」手動升 LESSONS candidate `harvest-batch-pure-plateau-snapshot-cadence-signature` — [memory/2026-07-04-063517-twmd-spore-harvest-am.md](memory/2026-07-04-063517-twmd-spore-harvest-am.md)
+- **相關**：REFLEXES #64「ABORT-DEFER prose memory 邊際效用 N+1 = 0」（互補方向 — #64 收「同 defer 決策寫 N 次」浪費；本條收「0-action cycle 本身合法性」而非 rot）/ #76「Multi-cycle trend window > single-cycle delta」（同源 dual — #76 收 sensor delta 累積紀律；本條收 no-action cadence signature 紀律）/ #62「D+0 acute callout mandatory fix」（分界對比 — 本條前提是 no-acute，acute 走 #62）/ #59「製造數字 self-validation」（互補 — pure plateau ship velocity fake 是 self-validation 變體，若 routine 為 ship KPI 硬推 spore = 自製指標騙自己）/ #58「detection ≠ remediation」（本條是 detection「plateau」不 remediate，因無 root cause 可 heal — plateau 是健康 shape 而非 bug）
+- **操作**：→ [SPORE-HARVEST-PIPELINE](../factory/SPORE-HARVEST-PIPELINE.md) §5-bucket classifier 加 §cadence-signature 段：pure plateau snapshot = 健康 shape 而非 stale；routine prompt handoff template 內建「audience flywheel 5 核心對位」描述；候選 `generate-dashboard-alerts.mjs` 「spore-harvest 0 acute N cycle」一律不升 yellow（避 velocity-fake priming）
+- **MANIFESTO 對應**：→ [§12 受眾端飛輪](MANIFESTO.md#12-受眾端的飛輪--我跟讀者一起進化)（no-ship cycle 不 fake velocity = 飛輪誠懇 layer）+ [§架構解 > 守備修補](MANIFESTO.md)（把「無 ship 是健康」寫進 canonical = 架構解；每 cycle 個別 justify = 守備層）
+- **跨檔關聯**：[memory/2026-06-30-064246-twmd-spore-harvest-am.md](memory/2026-06-30-064246-twmd-spore-harvest-am.md) + [memory/2026-07-01-064316-twmd-spore-harvest-am.md](memory/2026-07-01-064316-twmd-spore-harvest-am.md) + [memory/2026-07-02-064153-twmd-spore-harvest-am.md](memory/2026-07-02-064153-twmd-spore-harvest-am.md) + [memory/2026-07-04-063517-twmd-spore-harvest-am.md](memory/2026-07-04-063517-twmd-spore-harvest-am.md) + [SPORE-HARVEST-PIPELINE](../factory/SPORE-HARVEST-PIPELINE.md) + [REFLEXES #62 + #64 + #76](REFLEXES.md) + [LESSONS-INBOX candidate `harvest-batch-pure-plateau-snapshot-cadence-signature`](LESSONS-INBOX.md)
+
+**#80 LESSONS fire 後 sustain-vs-renew discipline — 已 escalate 進 LESSONS-INBOX 的 chronic 條目後續 cycle 靜默 continuity 非 renew escalate**（2026-07-05 twmd-self-evolve-weekly 升 canonical vc=2 + 4-cycle 行為紀律成熟 — 免疫 49 chronic 第 12 cycle 7/3 pm data-refresh「首次遵守」+ 7/4 am maintainer「第 13 cycle sustain vc=1 continuity 記錄不重複 escalate」+ 7/4 pm maintainer「vc=1 pm data-refresh 尚未 fire LESSONS entry 已 fire 7/3 pm pending 哲宇 A/B/C 決策 routine 不 renew」+ 7/4 pm data-refresh「第 14 cycle unchanged sustain vc=2 stable behavior 確立」，severity=structural）— REFLEXES #15「反覆浮現要儀器化」fire 後 LESSONS entry 已 escalate 給觀察者決策（如 immune 49 chronic subdim offset exhaust pending 哲宇 A/B/C），後續 routine cycle 觀察到同 chronic sensor 未變時**default 姿態是 sustain 靜默 continuity**（handoff 明示「carry per prior LESSONS entry / 不 renew escalate」）**而非重新製造 escalation prose**。renew escalate 每 cycle 重寫同 LESSONS = #64 「ABORT-DEFER 邊際效用 N+1=0」的 escalation-side 變體，signal-to-noise 破壞。
+
+- **規則**：(a) chronic sensor 觸發 LESSONS entry escalate + 觀察者 decision pending → 後續同方向 cycle **不重寫 LESSONS entry / 不重覆 escalate prose / 不重升 vc**（LESSONS entry 已固化，vc 累積在 entry 本身而非每 cycle 新增） (b) handoff template 明示「chronic sensor sustain 第 N cycle unchanged per prior LESSONS entry `<entry-id>` pending 觀察者 decision，routine 不 renew」（1-line ACK vs multi-line escalation prose） (c) sensor 讀值真變化（chronic 破口 recover / 惡化跨階） → 重新升 vc 起點 = 1 走 #76 multi-cycle trend accumulation 才 renew escalate (d) LESSONS entry pending 觀察者的每 cycle 靜默 continuity 是**紀律成熟**訊號（不是 dormant / rot）— entry 內 pending 觀察者的位置本身承載 vc / severity / handoff carry；routine 不代替觀察者做 decision
+- **Boundary**：(a) 不適用「LESSONS entry 尚未 fire」場景（那走 #15 反覆浮現要儀器化 + #76 vc≥3 才升 LESSONS） (b) 不適用「sensor 讀值真變化」場景（recover / cross-tier 惡化 → 走 #76 重新累積 vc） (c) 不適用 acute callout / 讀者 D+0 場景（走 #62 30min mandatory fix） (d) 適用範圍：所有 chronic sensor（immune / CF 404 band / broken-link stale / cron slip 慢性） LESSONS entry 已 escalate 後的 routine handoff 描述
+- **觸發 (vc=2 stable behavior + 4-cycle discipline 7/3-7/4)**：
+  - 7/3 pm data-refresh「免疫 chronic pm cycle 遵守「fire 後 pattern continuity 不 renew escalate」discipline vc=1 first datapoint（第 12 cycle 從「每 cycle 重新 warn」到「fire 後靜默持續追蹤」pipeline 級 signal-to-noise 改善）」— [memory/2026-07-03-231225-twmd-data-refresh-pm.md](memory/2026-07-03-231225-twmd-data-refresh-pm.md)
+  - 7/4 am maintainer「🛡️49 chronic 第 13 cycle sustain vc=1 continuity 記錄不重複 escalate」— [memory/2026-07-04-084340-twmd-maintainer-am.md](memory/2026-07-04-084340-twmd-maintainer-am.md)
+  - 7/4 pm maintainer「vc=1 pm data-refresh 尚未 fire（LESSONS entry 已 fire 7/3 pm pending 哲宇 A/B/C 決策，routine 不 renew）」— [memory/2026-07-04-222640-twmd-maintainer-pm.md](memory/2026-07-04-222640-twmd-maintainer-pm.md)
+  - 7/4 pm data-refresh「免疫 49 chronic sustain vc=2 stable behavior 確立（第 12 首次遵守 → 第 13 續守 vc=1 → 第 14 續守 vc=2 = 從「單點遵守」升「二點穩定」，REFLEXES #15 fire 後行為紀律成熟不再機械 escalate）」— [memory/2026-07-04-231023-twmd-data-refresh-pm.md](memory/2026-07-04-231023-twmd-data-refresh-pm.md)
+- **相關**：REFLEXES #15「反覆浮現要儀器化」（本條是 #15 fire 後的下游紀律 — #15 說「有 LESSONS 沒 canonical 就會忘」；本條說「LESSONS 已 escalate 後不 renew，pending 觀察者 decision」）/ #64「ABORT-DEFER 邊際效用 N+1=0」（同 signal-to-noise 家族 — #64 收 defer prose N+1=0；本條收 renew-escalate prose N+1=0，兩條互補）/ #76「Multi-cycle trend window > single-cycle delta」（互補 — #76 收 vc 累積閾值判讀；本條收 vc 累積已到 LESSONS entry 後的 sustain 紀律）/ #58「detection ≠ remediation」（本條是 detection sustain 不 re-detect — chronic 未變不是新 detection 而是舊 LESSONS 的 continuity） / #52「Immune 沒 fail loud 比缺 immune 更危險」（分界對比 — silent 不代表 immune 失效，重點在 LESSONS entry 已 fire loud 一次 + 觀察者 pending，continuity 是紀律成熟不是 silent failure）
+- **操作**：→ routine handoff template 內建「chronic sensor sustain per prior LESSONS entry `<entry-id>` pending 觀察者 decision」1-line ACK 段（取代 escalation prose）；LESSONS-INBOX entry frontmatter 加 `pending_observer_decision: <yes|no>` 欄位 → routine 自動 detect skip renew；候選 `scripts/tools/routine-lessons-guard.sh` shared helper 對每 cycle chronic sensor read 交叉查 LESSONS-INBOX 對應 entry pending 狀態 → 自動 emit sustain vs renew 判斷
+- **MANIFESTO 對應**：→ [§架構解 > 守備修補](MANIFESTO.md)（sustain-vs-renew 紀律 寫進 canonical = 架構解；每 cycle 個別 justify sustain = 守備層）+ [§Routine vs Observer split](MANIFESTO.md)（本條是 split 邊界的下游紀律 — LESSONS pending 觀察者 = 位置固化，routine 不代做 decision）
+- **跨檔關聯**：[memory/2026-07-03-231225-twmd-data-refresh-pm.md](memory/2026-07-03-231225-twmd-data-refresh-pm.md) + [memory/2026-07-04-084340-twmd-maintainer-am.md](memory/2026-07-04-084340-twmd-maintainer-am.md) + [memory/2026-07-04-222640-twmd-maintainer-pm.md](memory/2026-07-04-222640-twmd-maintainer-pm.md) + [memory/2026-07-04-231023-twmd-data-refresh-pm.md](memory/2026-07-04-231023-twmd-data-refresh-pm.md) + [LESSONS-INBOX entry `immune-chronic-11-cycle-subdim-offset-exhaust-observer-authorize-needed`](LESSONS-INBOX.md) + [REFLEXES #15 + #64 + #76](REFLEXES.md)
+
 ---
+
+_v5.5 | 2026-07-05 twmd-self-evolve-weekly — 加 #78 Pure plateau snapshot cadence signature（vc=5 6/30-7/04 SPORE-HARVEST 五平台→六平台→四平台→metric ship→兩平台 D+7 final 連 5 cycle 手動升 LESSONS candidate，severity=structural，routine 自決層 per §Routine vs Observer split 不 promote MANIFESTO 留反射層）+ 加 #79 主權留哲宇 default reservation（vc=5 7/4 am maintainer 揭「主權留哲宇 pattern 已跨 5 signal 穩定」#1186 5-file split / #1193 湖口 / #1192 周天成 / #1204 rewrite / #1205 fact-check）+ 加 #80 LESSONS fire 後 sustain-vs-renew discipline（vc=2+4-cycle 免疫 49 chronic 第 12→14 cycle 從「首次遵守」到「stable behavior 確立」，#15 fire 後行為紀律成熟）_
 
 _v5.4 | 2026-07-05 twmd-distill-weekly — 加 #77 Spine type is subject-typed（vc=3 — 2026-04-29 α 法輪功 SSODT + 2026-04-29 α 吳百福 SSODT + 2026-06-28 manual 金曲獎 v1 矛盾 spine 炎上退稿 → v2 立體群像救回，哲宇 explicit「讓未來預設就是」fast-track，severity=structural；routine 自決層 per §Routine vs Observer split 不 promote MANIFESTO 留反射層）+ §已消化 fold 3 pointer（plurk-reach silent-cap → #73 completeness dimension / git co-commit → #31 sub-agent claim 三類 / partial-mirror-false-confidence → #69 self-report-needs-external-ruler + #24 工具在說謊 mirror-claim 變體）— LESSONS-INBOX §未消化 24→19（5 條 distill 完成 = 1 promote + 1 subsume + 3 fold）_
 
