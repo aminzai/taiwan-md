@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-07-04T06:38:12+08:00",
+  "_generated": "2026-07-05T06:39:30+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 143,
@@ -7894,16 +7894,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV",
       "template": "A2 首尾呼應 Tier 1b 具體性槓桿",
       "metrics": {
-        "views": 4790,
+        "views": 4799,
         "likes": 170,
         "reposts": 19,
         "comments": 3,
         "shares": 26
       },
       "metricsAsOf": {
-        "dPlus": 7,
-        "harvestDate": "2026-07-04 06:40",
-        "batch": "batch-2026-07-04-am",
+        "dPlus": 8,
+        "harvestDate": "2026-07-05 06:37",
+        "batch": "batch-2026-07-05-am",
         "source": "harvest"
       },
       "history": [
@@ -7976,6 +7976,16 @@
           "reposts": 19,
           "comments": 3,
           "shares": 26
+        },
+        {
+          "dPlus": 8,
+          "harvestDate": "2026-07-05 06:37",
+          "batch": "batch-2026-07-05-am",
+          "views": 4799,
+          "likes": 170,
+          "reposts": 19,
+          "comments": 3,
+          "shares": 26
         }
       ]
     },
@@ -7990,17 +8000,17 @@
       "url": "https://x.com/taiwandotmd/status/2070809073143144717",
       "template": "A2 首尾呼應 Tier 1b 具體性槓桿",
       "metrics": {
-        "views": 1781,
+        "views": 1788,
         "likes": 62,
         "reposts": 17,
         "comments": 0,
         "shares": 21
       },
       "metricsAsOf": {
-        "dPlus": 7,
-        "harvestDate": "2026-07-04 06:41",
-        "batch": "batch-2026-07-04-am",
-        "source": "harvest+backfill"
+        "dPlus": 8,
+        "harvestDate": "2026-07-05 06:37",
+        "batch": "batch-2026-07-05-am",
+        "source": "harvest"
       },
       "history": [
         {
@@ -8071,6 +8081,16 @@
           "likes": 62,
           "reposts": 17,
           "comments": null,
+          "shares": 21
+        },
+        {
+          "dPlus": 8,
+          "harvestDate": "2026-07-05 06:37",
+          "batch": "batch-2026-07-05-am",
+          "views": 1788,
+          "likes": 62,
+          "reposts": 17,
+          "comments": 0,
           "shares": 21
         }
       ]

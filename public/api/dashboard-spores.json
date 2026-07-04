@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T22:11:52.238628Z",
+  "lastUpdated": "2026-07-04T22:39:30.131814Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 143,
@@ -31,10 +31,10 @@
       "template": "A2 首尾呼應 Tier 1b 具體性槓桿",
       "url": "https://x.com/taiwandotmd/status/2070809073143144717",
       "highlight": "紀懷新 X 單則 inline UTM s153（同 #152 Threads 內容）。哲宇 in-session 登入 @taiwandotmd 到 X 後補發 X 半（先前 Chrome 僅 @cheyuwu345 個人帳號被 v0.4 hard gate 攔）。post-ship 6-check 全綠：6 段保留 / 博士論文 fix / t.co UTM / 圖 1。",
-      "views_7d": 1781,
-      "views_latest": 1781,
+      "views_7d": 1788,
+      "views_latest": 1788,
       "engagements_7d": 100,
-      "rate_7d": 5.61,
+      "rate_7d": 5.59,
       "backfilled": true
     },
     {
@@ -47,10 +47,10 @@
       "template": "A2 首尾呼應 Tier 1b 具體性槓桿",
       "url": "https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV",
       "highlight": "你天天叫 AI「一步一步想」卻不認得這個淡水人——思維鏈共同作者紀懷新，把高中幫媽媽寫教育心理學博士論文學到的 Piaget 基模搬進機器，只花 $5000 因為那從來不是算力問題。哲宇 2 次 in-loop 校正（論文→博士論文 / 幫→幫助）。Threads ship；X 因 Chrome 僅登入 @cheyuwu345 個人帳號（@taiwandotmd 未登入）擋下未發。",
-      "views_7d": 4790,
-      "views_latest": 4790,
+      "views_7d": 4799,
+      "views_latest": 4799,
       "engagements_7d": 218,
-      "rate_7d": 4.55,
+      "rate_7d": 4.54,
       "backfilled": true
     },
     {
@@ -287,7 +287,7 @@
     {
       "week": "2026-W26",
       "published": 6,
-      "avgViews": 4414
+      "avgViews": 4416
     }
   ],
   "harvestStatus": [
@@ -1708,8 +1708,8 @@
       "publishDate": "2026-06-27",
       "daysSincePublish": 8,
       "withinHarvestWindow": false,
-      "harvestCount": 7,
-      "lastHarvest": "2026-07-04 06:40"
+      "harvestCount": 8,
+      "lastHarvest": "2026-07-05 06:37"
     },
     {
       "n": 153,
@@ -1718,8 +1718,8 @@
       "publishDate": "2026-06-27",
       "daysSincePublish": 8,
       "withinHarvestWindow": false,
-      "harvestCount": 7,
-      "lastHarvest": "2026-07-04 06:41"
+      "harvestCount": 8,
+      "lastHarvest": "2026-07-05 06:37"
     }
   ]
 }
