@@ -312,3 +312,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-05 | 221922-git-identity | 哲宇三題連發：Git 帳號獨立評估（org+App、決策包 8 條）＋ #1146 五桶回應與回覆代貼＋執行輪（maintainer Discussions 升級 + bge-m3 遷本機 4841 向量重生 + EmbeddingGemma 對打） | 「獨立」在責任層不存在；管道存在但看不見＝不存在 | [→](memory/2026-07-05-221922-git-identity.md) |
 | 2026-07-05 | 230828-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 26.13% 破 am 25.80% 上緣 vc=2；免疫一日 49→47 續漂；fork-census 新 sighting LagunaBeach.md 首個 sub-national fork | routine 觀察與人在場加壓分工 | [→](memory/2026-07-05-230828-twmd-data-refresh-pm.md) |
 | 2026-07-05 | 220917-INDIGO-REWRITE | 藍染從單薄舊文（0 圖/7 註）重寫成四復振社群立體工藝史（6 圖/46 註）；Stage 0 agent 反駁原假設、Stage 2.5 揪出寫手幻覺網址 | 驗證 REFLEXES #31/#81：兩層獨立查證（agent 反駁假設、URL 批次檢查）攔下真實錯誤 | [→](memory/2026-07-05-220917-INDIGO-REWRITE.md) |
+| 2026-07-06 | 000958-AAMA-SLP | AAMA + SLP 兩篇新創導師制文章全走完 REWRITE-PIPELINE Stage 0-5 出貨（`cfaa22a5d`），跟 6 篇既有文章交叉連結 | 兩次人物-計畫錯置研究攔截，驗證跨源查證紀律持續有效 | [→](memory/2026-07-06-000958-AAMA-SLP.md) |
