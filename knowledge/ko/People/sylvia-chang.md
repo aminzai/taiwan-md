@@ -13,10 +13,10 @@ lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/張艾嘉.md'
-sourceCommitSha: '0ea5d5d42'
-sourceContentHash: 'sha256:c32add211eceb078'
-sourceBodyHash: 'sha256:3260beec9e00487e'
-translatedAt: '2026-05-22T05:08:46+08:00'
+sourceCommitSha: '97e35f05'
+sourceContentHash: 'sha256:4dcfdcf5effc3d2c'
+sourceBodyHash: 'sha256:0b1d40b7bf6373a3'
+translatedAt: '2026-07-06'
 ---
 
 # 장애가(張艾嘉): 가의(嘉義)에서 출발, 《童年》 원곡에서 《상애상친(相愛相親)》 감독까지
@@ -83,7 +83,7 @@ translatedAt: '2026-05-22T05:08:46+08:00'
 
 가의시 공화로에서 출발하여 타이베이, 홍콩, 양안을 왕복하며——장애가의 50년은 선형적인 성공 스토리가 아니라, 한 사람이 서로 다른 정체성 사이를 계속 이동하며 어느 하나의 편안한 위치에도 머물지 않으려 한 기록이다. 그녀의 이름은 타이완 연예사에서 한 창작자가 선택할 수 있는 삶의 자태를 대표하며, 한 개인의 성취만으로는 담아낼 수 없는 것을 넘어선다.
 
-**더 읽기**: [장애가(張艾嘉) — 위키백과](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [금마장(金馬獎) 데이터베이스](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89)
+**더 읽기**: [장애가(張艾嘉) — 위키백과](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [금마장(金馬獎) 데이터베이스](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [양덕창(楊德昌)](/people/楊德昌) — 그녀가 주연한 《해변의 하루(海灘的一天)》는 양덕창의 첫 장편 극영화
 
 ## 참고 문헌
 

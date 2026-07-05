@@ -10,10 +10,10 @@ featured: false
 readingTime: 14
 lastVerified: 2026-04-05
 translatedFrom: 'Culture/客家文化與語言.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b7e6cdcd3f8a0bf5'
-sourceBodyHash: 'sha256:af3d2488463632de'
-translatedAt: '2026-06-16T17:19:04Z'
+sourceCommitSha: 'a43cf915'
+sourceContentHash: 'sha256:b03d6ffbe269bd62'
+sourceBodyHash: 'sha256:b5324c6cea623600'
+translatedAt: '2026-07-06'
 ---
 
 # 하카 문화와 언어
@@ -102,6 +102,7 @@ translatedAt: '2026-06-16T17:19:04Z'
 
 **더 읽기**:
 
+- [남염(藍染)](/culture/藍染) — 하카 남삼(藍衫)과 북부 싼샤 마람(馬藍) 공예의 이동, 그리고 「남염이 하카 전유물인가」에 대한 다민족적 성찰
 - [대만 하카 음악](/music/台灣客家音樂) — 산가에서 록까지, 하카어 음악이 어떻게 민족 부흥의 최전선이 되었는가
 - [하카 음식 문화](/food/客家飲食文化) — 짜고 기름지고 향긋함 뒤에 있는 지리학과 노동의 역사
 - [언어 다양성과 모국어 문화](/culture/語言多樣性與母語文化) — 대만 다언어 환경의 전경과 각 민족의 모국어 현황

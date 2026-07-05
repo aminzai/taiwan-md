@@ -11,10 +11,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:e6e208f3f61a399f'
-sourceBodyHash: 'sha256:cf28b2b23fb9b13c'
-translatedAt: '2026-05-16T22:20:00Z'
+sourceCommitSha: 'cfaa22a5'
+sourceContentHash: 'sha256:73894dd98c9e1eee'
+sourceBodyHash: 'sha256:96e60be7abecd0c6'
+translatedAt: '2026-07-06'
 ---
 
 > **30초 개요**
@@ -122,6 +122,10 @@ translatedAt: '2026-05-16T22:20:00Z'
 어드밴텍이 1983년 세 명의 휴렛팩커드 엔지니어가 시작한 창업에서 오늘날 27개국 거점과 산업용 컴퓨터 시장 선도 기업의 위치에 이른 과정은, 대만 첨단기술 산업이 자체 브랜드화에 성공한 구체적 사례이다. 2023년 창립 40주년을 맞아 류커전 회장이 ‘AIoT + Edge Computing’에 집중하겠다고 선언한 것은, 어드밴텍이 스스로의 위치를 명확히 판단하고 있음을 보여준다. 데이터 주권과 실시간 연산 수요가 높아지는 시대에 임베디드 시스템의 깊은 축적은 대체 불가능한 경쟁 해자이다.
 
 ---
+
+**더 읽기**:
+
+- [AAMA 타이베이 요람 계획](AAMA台北搖籃計畫.md): 어드밴텍 문교 기금회는 이 창업 멘토제 계획이 재단화되는 데 참여한 주요 기부자 중 하나이며, 회장 류커전 역시 계획의 멘토를 맡은 바 있다. 양자는 함께 「AAMA AIoT 기업 공동 창출 계획」을 추진하고 있다
 
 ## 참고 자료
 

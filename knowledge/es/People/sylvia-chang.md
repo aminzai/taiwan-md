@@ -15,10 +15,10 @@ readingTime: 7
 #   whats_excluded: "各部電影的詳細票房數字；與導演楊德昌的關係細節；金馬獎評審主席任期記錄"
 #   where_it_hedges: "近年動態以TODO標記，待天機星確認"
 translatedFrom: People/張艾嘉.md
-sourceCommitSha: 0ea5d5d42
-sourceContentHash: sha256:c32add211eceb078
-sourceBodyHash: sha256:3260beec9e00487e
-translatedAt: 2026-05-20T05:08:32+08:00
+sourceCommitSha: 97e35f05
+sourceContentHash: sha256:4dcfdcf5effc3d2c
+sourceBodyHash: sha256:0b1d40b7bf6373a3
+translatedAt: 2026-07-06
 ---
 
 # Sylvia Chang: de Chiayi al mundo, de cantante de «Tongnian» a directora de «Love Education»
@@ -85,7 +85,7 @@ Una carrera de cincuenta años que no se ha fijado en ninguna identidad es, en s
 
 Partiendo de la calle Gonghe en Chiayi, pasando por Taipéi, Hong Kong y los viajes entre ambas orillas, los cincuenta años de Sylvia Chang no son una historia lineal de éxito, sino el registro de una persona que se ha movido continuamente entre distintas identidades, negándose a detenerse en cualquier posición cómoda. Su nombre en la historia del entretenimiento taiwanés representa una postura vital que un creador puede elegir, algo que trasciende con mucho lo que el logro personal de un individuo puede abarcar.
 
-**Lectura adicional:** [Sylvia Chang — Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Base de datos de los Golden Horse](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89)
+**Lectura adicional:** [Sylvia Chang — Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Base de datos de los Golden Horse](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/es/people/楊德昌) — «That Day, on the Beach», que ella protagonizó, es el primer largometraje de ficción de Edward Yang
 
 ## Referencias
 

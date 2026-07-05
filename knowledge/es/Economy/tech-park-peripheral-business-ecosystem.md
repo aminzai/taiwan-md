@@ -5,14 +5,22 @@ date: '2026-05-18'
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '產業園區與商圈'
-tags: ['parque tecnológico', 'economía comercial', 'Parque Software de Nankang', 'Parque Tecnológico de Neihu', 'desplazamiento', 'planificación urbana']
+tags:
+  [
+    'parque tecnológico',
+    'economía comercial',
+    'Parque Software de Nankang',
+    'Parque Tecnológico de Neihu',
+    'desplazamiento',
+    'planificación urbana',
+  ]
 readingTime: '12'
 lastVerified: '2026-05-18'
 lastHumanReview: true
 featured: false
 translatedFrom: 'Economy/台灣科技園區外圍商圈生態.md'
-sourceCommitSha: '10c12c501'
-sourceContentHash: 'sha256:5188638d5f08c937'
+sourceCommitSha: 'cfaa22a5'
+sourceContentHash: 'sha256:516bf0a6d1966cf7'
 sourceBodyHash: 'sha256:96ee687ae59d6522'
 translatedAt: '2026-05-19T05:08:07+08:00'
 ---
@@ -87,13 +95,13 @@ Los alquileres de los locales periféricos al parque han subido a la par que la 
 
 Al examinar los cinco parques conjuntamente, se aprecia con mayor claridad la estructura común y las diferencias del fenómeno unipico. La siguiente tabla resume la escala de empleados, los principales corredores gastronómicos y la ecología de la cena de cada parque:
 
-| Parque | Escala de empleados (reciente) | Principales corredores gastronómicos | Ecología de la cena |
-|---|---|---|---|
-| Parque Software de Nankang | ~24.000[^2] | Calle Sanzhong, Calle Yuanqu, Segunda Calle Jingmao | Muy reducida; la mayoría de locales solo sirven almuerzo |
-| Parque Tecnológico de Neihu | ~100.000+[^1] | Calle Ruiguang, Calle Zhouzi, Calle Jiangnan, Calle Xing'ai | Parcialmente sostenida, apoyada por el flujo extendido de Dazhi |
-| Parque Científico de Hsinchu | ~170.000 | Calle Jinshan, Calle Guanxin, Guangfulu | Próspera. La Calle Jinshan es un núcleo de "campamento de novatos" para ingenieros[^5]; Guanxinli es uno de los barrios con mayor ingreso per cápita de Taiwán[^6] |
-| Parque Científico Central | Decenas de miles | Dentro del parque: Calle Kelyuan 1/2/3, Calle Zhongke; periferia: Tercera Sección de Calle Xitun, Metro Square, centro comercial J-Mall | Dentro del parque predomina el Centro Gastronómico de Zhongke; la Tercera Sección de Calle Xitun se sostiene con la doble clientela de la Universidad Tunghai y la comunidad de Fuke |
-| Parque Científico del Sur | Decenas de miles | Dentro del parque: centro comercial Park17; periferia: el casco antiguo de Shanhua, zona comercial del Templo Qing'an | Dentro del parque depende de los comedores de empresa y Park17; la periferia se sostiene con la población existente de Shanhua, no con los empleados del parque[^10] |
+| Parque                       | Escala de empleados (reciente) | Principales corredores gastronómicos                                                                                                    | Ecología de la cena                                                                                                                                                                  |
+| ---------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Parque Software de Nankang   | ~24.000[^2]                    | Calle Sanzhong, Calle Yuanqu, Segunda Calle Jingmao                                                                                     | Muy reducida; la mayoría de locales solo sirven almuerzo                                                                                                                             |
+| Parque Tecnológico de Neihu  | ~100.000+[^1]                  | Calle Ruiguang, Calle Zhouzi, Calle Jiangnan, Calle Xing'ai                                                                             | Parcialmente sostenida, apoyada por el flujo extendido de Dazhi                                                                                                                      |
+| Parque Científico de Hsinchu | ~170.000                       | Calle Jinshan, Calle Guanxin, Guangfulu                                                                                                 | Próspera. La Calle Jinshan es un núcleo de "campamento de novatos" para ingenieros[^5]; Guanxinli es uno de los barrios con mayor ingreso per cápita de Taiwán[^6]                   |
+| Parque Científico Central    | Decenas de miles               | Dentro del parque: Calle Kelyuan 1/2/3, Calle Zhongke; periferia: Tercera Sección de Calle Xitun, Metro Square, centro comercial J-Mall | Dentro del parque predomina el Centro Gastronómico de Zhongke; la Tercera Sección de Calle Xitun se sostiene con la doble clientela de la Universidad Tunghai y la comunidad de Fuke |
+| Parque Científico del Sur    | Decenas de miles               | Dentro del parque: centro comercial Park17; periferia: el casco antiguo de Shanhua, zona comercial del Templo Qing'an                   | Dentro del parque depende de los comedores de empresa y Park17; la periferia se sostiene con la población existente de Shanhua, no con los empleados del parque[^10]                 |
 
 De la tabla se desprende un patrón claro: **la supervivencia de la cena en la zona comercial periférica depende casi por completo de la existencia de núcleos residenciales de ingenieros en un radio de un kilómetro del parque**. La Calle Jinshan de Hsinchu, gracias a su tejido residencial completo, tiene una ecología gastronómica indistinguible de la de un centro urbano normal; la Calle Sanzhong de Nankang, al carecer de zona residencial, solo puede operar al almuerzo; la Tercera Sección de Calle Xitun de Zhongke se apoya en la población estudiantil de la Universidad Tunghai; y Nanke depende de los residentes existentes de Shanhua.
 

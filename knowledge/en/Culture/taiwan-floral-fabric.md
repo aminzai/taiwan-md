@@ -1,20 +1,20 @@
 ---
-title: "Taiwan Floral Fabric"
-description: "From a Japanese-era factory product to a symbol of local culture: the identity journey of Taiwan floral fabric"
+title: 'Taiwan Floral Fabric'
+description: 'From a Japanese-era factory product to a symbol of local culture: the identity journey of Taiwan floral fabric'
 date: 2026-03-19
-author: "Taiwan.md Contributors"
-category: "Culture"
-subcategory: "族群文化"
-tags: ["文化", "客家", "紡織", "設計", "本土化", "文化復興"]
+author: 'Taiwan.md Contributors'
+category: 'Culture'
+subcategory: '族群文化'
+tags: ['文化', '客家', '紡織', '設計', '本土化', '文化復興']
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: true
 featured: false
-translatedFrom: "Culture/台灣花布.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:182944af338bcbd9"
-sourceBodyHash: "sha256:4695e66c252e1f65"
-translatedAt: "2026-05-17T05:34:48+08:00"
+translatedFrom: 'Culture/台灣花布.md'
+sourceCommitSha: 'a43cf915'
+sourceContentHash: 'sha256:e705ff8fd352624a'
+sourceBodyHash: 'sha256:993aeb722f2d750e'
+translatedAt: '2026-07-06'
 ---
 
 # Taiwan Floral Fabric
@@ -55,7 +55,7 @@ After the rise of the localization movement in the 1990s, floral fabric gained a
 
 In reality, Taiwan floral fabric was never exclusive to the Hakka community. According to research on Taiwan's textile history, consumers of floral fabric in the 1950s and 1960s included Hoklo, Hakka, and mainlander families alike. Every family's dowry included floral fabric bedsheets; every child's schoolbag might have been made from floral fabric — it was a shared life memory for Taiwanese of that era.
 
-Cultural scholar Chen Tsung-ping, in her book *The Floral Age*, points out that the term "Hakka floral fabric" likely originated from promotional strategies of the Hakka cultural revival movement in the 1990s. The Hakka community packaged floral fabric as a Hakka tradition to highlight its cultural distinctiveness, but this does not align with historical fact[^2].
+Cultural scholar Chen Tsung-ping, in her book _The Floral Age_, points out that the term "Hakka floral fabric" likely originated from promotional strategies of the Hakka cultural revival movement in the 1990s. The Hakka community packaged floral fabric as a Hakka tradition to highlight its cultural distinctiveness, but this does not align with historical fact[^2].
 
 It is worth noting that Hakka customs vary by region. In some areas, the primary traditional fabric was deep blue or blue-black coarse cloth, used for work clothes and everyday garments. This simple, durable fabric is a truer reflection of the Hakka ancestors' way of life, embodying the Hakka cultural trait of diligence and frugality. Brightly colored floral fabric, by contrast, was a product of the industrial era and has a relatively thin connection to traditional Hakka culture[^4].
 
@@ -143,10 +143,19 @@ Today, when we once again admire those vivid peonies, elegant chrysanthemums, an
 
 ---
 
+**Further reading:**
+
+- [Taiwan Indigo Dyeing](/en/culture/taiwan-indigo-dyeing/) — another dyeing craft once simplified into a single-ethnic emblem, whose lineage turned out to be more complex than first assumed
+- [Traditional Crafts and Intangible Cultural Heritage](/en/culture/traditional-crafts-intangible-cultural-heritage/) — the craft-preservation institutional context that floral fabric and indigo dyeing both face
+
 ## References
 
 [^1]: [Taiwan Floral Fabric — wikis.tw](https://www.wikis.tw) — Industrial history and image archive of Taiwan floral fabric
-[^2]: [*The Floral Age: A Cultural History of Taiwan Floral Fabric*](https://www.books.com.tw/products/0010559973) — by Chen Tsung-ping, a study of Taiwan floral fabric cultural history
-[^3]: [*Taiwan Floral Fabric: Tradition and Innovation*](https://www.books.com.tw/products/0010462341) — by Wu Ching-kuei, traditional craft techniques and contemporary applications
+
+[^2]: [_The Floral Age: A Cultural History of Taiwan Floral Fabric_](https://www.books.com.tw/products/0010559973) — by Chen Tsung-ping, a study of Taiwan floral fabric cultural history
+
+[^3]: [_Taiwan Floral Fabric: Tradition and Innovation_](https://www.books.com.tw/products/0010462341) — by Wu Ching-kuei, traditional craft techniques and contemporary applications
+
 [^4]: [Hakka Affairs Council](https://www.hakka.gov.tw/) — Hakka cultural policy and textile culture research information
+
 [^5]: [National Taiwan Craft Research and Development Institute](https://www.ntcri.gov.tw/) — Traditional craft preservation and promotion information

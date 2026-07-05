@@ -11,10 +11,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:e6e208f3f61a399f'
-sourceBodyHash: 'sha256:cf28b2b23fb9b13c'
-translatedAt: '2026-05-17T06:10:00Z'
+sourceCommitSha: 'cfaa22a5'
+sourceContentHash: 'sha256:73894dd98c9e1eee'
+sourceBodyHash: 'sha256:96e60be7abecd0c6'
+translatedAt: '2026-07-06'
 ---
 
 > **30-Second Overview**
@@ -122,6 +122,10 @@ Advantech’s strategic focus is concentrated in four directions: extending edge
 Advantech’s journey from a 1983 startup founded by three Hewlett-Packard engineers to today’s position as an industrial computer market leader with operations in 27 countries is a concrete example of independent brand-building in Taiwan’s high-tech industry. In 2023, on the company’s 40th anniversary, Chairman K.C. Liu declared a focus on “AIoT + Edge Computing.” This reflected Advantech’s clear judgment about its own positioning: in an era of rising demand for data sovereignty and real-time computing, deep accumulated expertise in embedded systems is an irreplaceable competitive moat.
 
 ---
+
+**Further reading:**
+
+- [AAMA Taipei Cradle Program](/economy/AAMA台北搖籃計畫): The Advantech Foundation is one of the donors behind this entrepreneurship mentorship program's transition into a foundation, and Chairman K.C. Liu has himself served as a mentor for the program. The two organizations jointly run the "AAMA AIoT Enterprise Co-Creation Program"
 
 ## References
 

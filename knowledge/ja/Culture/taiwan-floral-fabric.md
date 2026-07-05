@@ -11,10 +11,10 @@ lastVerified: 2026-03-19
 lastHumanReview: true
 featured: false
 translatedFrom: 'Culture/台灣花布.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:182944af338bcbd9'
-sourceBodyHash: 'sha256:4695e66c252e1f65'
-translatedAt: '2026-05-17T05:34:50+08:00'
+sourceCommitSha: 'a43cf915'
+sourceContentHash: 'sha256:e705ff8fd352624a'
+sourceBodyHash: 'sha256:993aeb722f2d750e'
+translatedAt: '2026-07-06'
 ---
 
 # 台湾花布
@@ -143,10 +143,19 @@ translatedAt: '2026-05-17T05:34:50+08:00'
 
 ---
 
+**関連記事**：
+
+- [藍染](/culture/藍染) — かつて単一族群のシンボルへと単純化され、後にその源流がより複雑であることが明らかになった、もう一つの染織工芸
+- [台湾伝統工芸と無形文化資産](/culture/台灣傳統工藝與無形文化資產) — 花布と藍染が共に直面する工芸保存体制の脈絡
+
 ## 参考文献
 
 [^1]: [台湾花布 — wikis.tw](https://www.wikis.tw) — 台湾花布の工業史と画像資料
+
 [^2]: [『花様時代：台湾花布の文化史』](https://www.books.com.tw/products/0010559973) — 陳宗萍著、台湾花布の文化史研究
+
 [^3]: [『台湾花布：伝統と革新』](https://www.books.com.tw/products/0010462341) — 呉清桂著、伝統工芸技法と現代的応用
+
 [^4]: [客家委員会](https://www.hakka.gov.tw/) — 客家文化政策と織物文化研究情報
+
 [^5]: [国立台湾工芸研究発展センター](https://www.ntcri.gov.tw/) — 伝統工芸の保存と普及に関する情報

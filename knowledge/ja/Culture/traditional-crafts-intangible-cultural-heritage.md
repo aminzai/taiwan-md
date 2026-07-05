@@ -23,10 +23,10 @@ lastVerified: 2026-05-15
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:0c2424c76c2aa5da'
-sourceBodyHash: 'sha256:d61ffe9dcb3401b5'
-translatedAt: '2026-06-16T16:55:14Z'
+sourceCommitSha: '51eb3afd'
+sourceContentHash: 'sha256:b7c990c00c65ffb1'
+sourceBodyHash: 'sha256:7720c8db697d0d57'
+translatedAt: '2026-07-06'
 ---
 
 # 台湾の伝統工芸と無形文化遺産：制度上の承認は来たが、徒弟はいなくなった
@@ -103,7 +103,7 @@ _三義木彫博物館外観（苗栗県三義郷広盛村）。台湾で唯一�
 ## 政府が救った工芸ではない：三峡藍染の復興
 
 ![三峡区歴史文物館内に展示されている「藍と白シリーズ」の藍染衣装。三峡藍染が 1996 年に復興して以降、最も代表的な現代視覚資料です](/article-images/culture/sanxia-indigo-display.webp)
-_三峡区歴史文物館に展示されている「藍と白シリーズ」の藍染衣装。三峡が 1996 年に復興して以降の現代藍染の応用面を示しています。Photo: Outlookxp, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
+_三峡区歴史文物館に展示されている「藍と白シリーズ」の藍染衣装。三峡が 1996 年に復興して以降の現代藍染の応用面を示しています。Photo: 寺人孟子, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
 
 三峡（旧名・三角湧）は、清の光緒年間に北台湾で最も重要な染布業の中心地でした。澄んだ渓水と湿潤な谷は藍染植物である大菁（馬藍）の生育に適し、街には染坊が軒を連ねました。今日の三峡老街に残る赤レンガのファサードは、当時、藍染で富を得た歴史の証しです。[^17]
 
@@ -228,7 +228,7 @@ _三峡区歴史文物館に展示されている「藍と白シリーズ」の�
 
 **関連読書**：
 
-- [藍染](/culture/藍染) — 三峡藍染が輸出用の藍金から 1996 年の民間復興へ至る完全な工芸史
+- [藍染](/culture/藍染) — 藍染が清代の輸出主力から 1940 年にほぼ絶滅し、今日では三峡、苗栗、太平、菁寮でそれぞれ復興を遂げるまでの完全な工芸史
 - [台湾花布](/culture/台灣花布) — 客家の赤い花布が日本統治期の工場製品から本土文化の象徴へ変わるアイデンティティの旅
 - [紙傘](/culture/紙傘) — 美濃紙傘が雨よけの日用品から芸術品へ転換する道筋
 - [斗笠](/culture/斗笠) — 藺草編みと台湾農村工芸を代表する器物
@@ -302,4 +302,4 @@ _三峡区歴史文物館に展示されている「藍と白シリーズ」の�
 
 - [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo: Outlookxp, 2013-07-20, CC BY-SA 3.0。美濃原郷縁紙傘文化村に展示されている客家油紙傘群で、赤、黄、黒などの傘面が鮮やかに並び、美濃紙傘工芸を代表する視覚資料の一つです。
 - [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: Anrew0517, 2010-05-01, CC BY-SA 3.0。三義木彫博物館（苗栗県三義郷広盛村）外観。台湾で唯一、木彫を主題とする公立博物館です。
-- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: Outlookxp, CC BY-SA 4.0。三峡区歴史文物館内に展示された「藍と白シリーズ」の藍染衣装で、三峡藍染が 1996 年に復興した後の現代的応用の視覚的様相を示しています。
+- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: 寺人孟子, CC BY-SA 4.0。三峡区歴史文物館内に展示された「藍と白シリーズ」の藍染衣装で、三峡藍染が 1996 年に復興した後の現代的応用の視覚的様相を示しています。

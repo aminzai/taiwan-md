@@ -19,10 +19,10 @@ readingTime: 14
 lastVerified: 2026-04-05
 lastHumanReview: false
 translatedFrom: 'Culture/客家文化與語言.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b7e6cdcd3f8a0bf5'
-sourceBodyHash: 'sha256:af3d2488463632de'
-translatedAt: '2026-06-16T17:19:04Z'
+sourceCommitSha: 'a43cf915'
+sourceContentHash: 'sha256:b03d6ffbe269bd62'
+sourceBodyHash: 'sha256:b5324c6cea623600'
+translatedAt: '2026-07-06'
 ---
 
 # Hakka Culture and Language
@@ -111,6 +111,7 @@ They were asking for a chance for the next generation to still be able to open t
 
 **Further reading:**
 
+- [Indigo Dyeing](/culture/藍染) — the similarities and differences between the Hakka blue tunic and northern Sanxia's malan-based indigo craft, and the multi-ethnic reflection on whether "indigo dyeing is exclusively Hakka"
 - [Taiwan Hakka Music](/music/台灣客家音樂) — From mountain songs to rock, how Hakka music became the frontline of ethnic revitalization
 - [Hakka Food Culture](/food/客家飲食文化) — The geography and labor history behind "salty, rich, fragrant"
 - [Linguistic Diversity and Mother-Tongue Culture](/culture/語言多樣性與母語文化) — A panorama of Taiwan's multilingual environment and the mother-tongue situations of all ethnic groups

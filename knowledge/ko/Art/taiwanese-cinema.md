@@ -23,10 +23,10 @@ lastVerified: 2026-06-13
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:231f74765e63f2a2'
-sourceBodyHash: 'sha256:9f66d5babc12e260'
-translatedAt: '2026-06-17T01:18:25+08:00'
+sourceCommitSha: '6c4bccbc'
+sourceContentHash: 'sha256:69524f156c517009'
+sourceBodyHash: 'sha256:f474d40c72f846a7'
+translatedAt: '2026-07-06'
 ---
 
 # 타이완 국산 영화: 스크린 옆에서 말하던 사람, 그리고 죽었다가 되살아난 영화사
@@ -127,7 +127,7 @@ _1989년 허우샤오셴은 《비정성시》로 베네치아 황금사자상�
 
 _《비정성시》 4K 디지털 복원판 예고편. 1989년 이 영화는 베네치아에서 황금사자상을 받으며 2·28을 처음으로 진지하게 대형 스크린에 올렸다. 그러나 같은 해 타이완 극장에서 국산 영화는 관객을 잃어 가고 있었다._
 
-양더창은 다른 길을 걸었다. 그는 도시를 찍고, 도시인의 소외와 폭력을 찍었다. 《해변의 하루》와 《공포분자》 이후, 1991년의 《고령가 소년 살인사건》 원판은 237분에 달했으며, 1961년에 실제로 일어난 소년 살인 사건을 각색했다[^37]. 2000년 그의 《하나 그리고 둘》은 제53회 칸 영화제 감독상을 받았다. 주의할 점은 황금종려상이 아니라 감독상이라는 것이다[^38]. 2007년 6월 29일 그는 결장암으로 세상을 떠났고, 향년 59세였다[^39]. 그의 영화는 미국 감독 폴 토머스 앤더슨에게도, 고레에다 히로카즈에게도 영향을 주었다[^40].
+양더창은 다른 길을 걸었다. 그는 도시를 찍고, 도시인의 소외와 폭력을 찍었다. 《해변의 하루》와 《공포분자》 이후, 1991년의 《고령가 소년 살인사건》 원판은 237분에 달했으며, 1961년에 실제로 일어난 소년 살인 사건을 각색했다[^37]. 2000년 그의 《하나 그리고 둘》은 제53회 칸 영화제 감독상을 받았다. 주의할 점은 황금종려상이 아니라 감독상이라는 것이다[^38]. 2007년 6월 29일 그는 결장암으로 세상을 떠났고, 향년 59세였다[^39]. 그의 영화는 고레에다 히로카즈에게 영향을 주었고[^40], 하마구치 류스케에게도 영향을 주었다[^72].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/PxgrzNFwyqY" title="하나 그리고 둘 A One and a Two 4K 디지털 복원판 예고편" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -341,7 +341,7 @@ _《반교》 4K 예고편. 백색공포를 비디오게임으로 만들고, 다
 
 [^39]: [楊德昌 - 維基百科](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%BE%B7%E6%98%8C) — 양더창은 2007년 6월 29일 결장암으로 세상을 떠났고, 향년 59세였다.
 
-[^40]: [楊德昌的國際影響 - BIOS Monthly](https://www.biosmonthly.com/) — 양더창의 작품은 폴 토머스 앤더슨(PTA)과 고레에다 히로카즈에게 영향을 주었다.
+[^40]: [고레에다 히로카즈: 나만의 《비정성시》를 찍고 싶다 - 報導者](https://www.twreporter.org/a/2020-taipei-golden-horse-film-festival-hirokazu-koreeda) — 2020년 금마 영화제 특별 인터뷰. 고레에다 히로카즈는 《어느 가족》에서 옷장 안에서 손전등을 비추는 장면이 《고령가 소년 살인사건》에 대한 오마주라고 밝혔으며, 1993년 타이완을 찾아 허우샤오셴과 양더창을 촬영한 다큐멘터리의 인연을 회고했다.
 
 [^41]: [蔡明亮 - 維基百科](https://zh.wikipedia.org/wiki/%E8%94%A1%E6%98%8E%E4%BA%AE) — 차이밍량은 1992년 《청소년 나타》로 출발했고, 슬로 시네마 미학으로 고독과 욕망에 초점을 맞추었다.
 
@@ -404,6 +404,8 @@ _《반교》 4K 예고편. 백색공포를 비디오게임으로 만들고, 다
 [^70]: [台灣電影史（日治時期）- 維基百科](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1) — 1925년 류시양이 주도한 타이완영화연구회는 《누구의 잘못인가》를 만들었고, 이는 타이완인이 자체 제작한 첫 극영화로 여겨진다. 1922년 일본인 감독 다나카 긴노스케가 만들고 타이완 배우가 참여한 《대불의 동공》과는 구분된다.
 
 [^71]: [莎韻之鐘 - 維基百科](https://zh.wikipedia.org/wiki/%E8%8E%8E%E9%9F%B5%E4%B9%8B%E9%90%98) — 1943년 《사욘의 종》은 시미즈 히로시가 연출하고 리샹란이 주연했으며, 쇼치쿠, 만영, 타이완총독부가 공동 제작했다. 1938년 타이야족 소녀 사욘의 익사 사건을 황민화 선전으로 전용했다.
+
+[^72]: [하마구치 류스케가 말하는 양더창 - Openbook 閱讀誌](https://www.openbook.org.tw/article/p-67833) — 2023년 「一一 재구성: 양더창」 회고전 기자회견에서, 하마구치 류스케는 30세 이후 다시 본 《고령가 소년 살인사건》에 대해 「그것은 영화를 초월한 영화, 마치 나에게 온 세계를 보여주는 듯했다」고 회고했다.
 
 ## 참고 자료
 

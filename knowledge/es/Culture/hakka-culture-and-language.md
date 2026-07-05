@@ -19,10 +19,10 @@ lastVerified: 2026-04-05
 lastHumanReview: false
 featured: false
 translatedFrom: Culture/客家文化與語言.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b7e6cdcd3f8a0bf5'
-sourceBodyHash: 'sha256:af3d2488463632de'
-translatedAt: '2026-06-16T17:19:04Z'
+sourceCommitSha: 'a43cf915'
+sourceContentHash: 'sha256:b03d6ffbe269bd62'
+sourceBodyHash: 'sha256:b5324c6cea623600'
+translatedAt: '2026-07-06'
 ---
 
 # Cultura y lengua hakka
@@ -111,6 +111,7 @@ Lo que pedían era que la siguiente generación aún tuviera la oportunidad de a
 
 **Lecturas complementarias**:
 
+- [Teñido índigo](/culture/藍染) — Semejanzas y diferencias entre la camisa azul hakka y la artesanía de índigo con Strobilanthes cusia del norte, en Sanxia, y la reflexión multiétnica sobre si «el teñido índigo es exclusivamente hakka»
 - [Música hakka de Taiwán](/music/台灣客家音樂) — De las canciones de la montaña al rock, cómo la música en hakka se convirtió en la primera línea de revitalización étnica
 - [Cultura culinaria hakka](/food/客家飲食文化) — La geografía y la historia del trabajo detrás de lo salado, lo graso y lo aromático
 - [Diversidad lingüística y cultura materna](/culture/語言多樣性與母語文化) — Panorama del entorno multilingüe de Taiwán y la situación de las lenguas maternas de cada grupo étnico

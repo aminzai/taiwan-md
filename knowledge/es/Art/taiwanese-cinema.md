@@ -23,10 +23,10 @@ lastVerified: 2026-06-13
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:231f74765e63f2a2'
-sourceBodyHash: 'sha256:9f66d5babc12e260'
-translatedAt: '2026-06-17T01:18:26+08:00'
+sourceCommitSha: '6c4bccbc'
+sourceContentHash: 'sha256:69524f156c517009'
+sourceBodyHash: 'sha256:f474d40c72f846a7'
+translatedAt: '2026-07-06'
 ---
 
 # Cine nacional de Taiwán: la persona que hablaba junto a la pantalla y una historia del cine que murió y volvió a vivir
@@ -127,7 +127,7 @@ Hou Hsiao-hsien fue construyendo, desde The Boys from Fengkuei, A Time to Live, 
 
 _Tráiler de la restauración digital 4K de A City of Sadness. En 1989 ganó el León de Oro en Venecia y llevó por primera vez el 28 de Febrero seriamente a la gran pantalla; mientras tanto, ese mismo año, en las salas taiwanesas, el cine nacional perdía público._
 
-Edward Yang tomó otro camino. Filmó la ciudad, la alienación y la violencia de las personas urbanas. Después de That Day, on the Beach y Terrorizers, A Brighter Summer Day, de 1991, duraba 237 minutos en su versión original y adaptaba un asesinato juvenil real ocurrido en 1961[^37]. En 2000, Yi Yi ganó el premio a mejor director en el 53.º Festival de Cannes —ojo: mejor director, no la Palma de Oro—[^38]. Yang murió de cáncer de colon el 29 de junio de 2007, a los cincuenta y nueve años[^39]. Su cine influyó en el director estadounidense Paul Thomas Anderson y también en Hirokazu Kore-eda[^40].
+Edward Yang tomó otro camino. Filmó la ciudad, la alienación y la violencia de las personas urbanas. Después de That Day, on the Beach y Terrorizers, A Brighter Summer Day, de 1991, duraba 237 minutos en su versión original y adaptaba un asesinato juvenil real ocurrido en 1961[^37]. En 2000, Yi Yi ganó el premio a mejor director en el 53.º Festival de Cannes —ojo: mejor director, no la Palma de Oro—[^38]. Yang murió de cáncer de colon el 29 de junio de 2007, a los cincuenta y nueve años[^39]. Su cine influyó en Hirokazu Kore-eda[^40] y también en Ryusuke Hamaguchi[^72].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/PxgrzNFwyqY" title="Tráiler de la restauración digital 4K de Yi Yi / A One and a Two" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -341,7 +341,7 @@ Así que la próxima vez que veas en las noticias un titular del tipo “el cine
 
 [^39]: [楊德昌 - 維基百科](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%BE%B7%E6%98%8C) — Edward Yang murió de cáncer de colon el 29 de junio de 2007, a los 59 años.
 
-[^40]: [楊德昌的國際影響 - BIOS Monthly](https://www.biosmonthly.com/) — La obra de Edward Yang influyó en Paul Thomas Anderson (PTA) y en Hirokazu Kore-eda.
+[^40]: [是枝裕和：我想拍出屬於我自己的《悲情城市》- 報導者](https://www.twreporter.org/a/2020-taipei-golden-horse-film-festival-hirokazu-koreeda) — Entrevista en el Festival de Cine Golden Horse de 2020: Hirokazu Kore-eda relata que la escena en la que se mira una linterna dentro del armario en «Shoplifters» es un homenaje a «A Brighter Summer Day», y recuerda su viaje a Taiwán en 1993 para rodar documentales sobre Hou Hsiao-hsien y Edward Yang.
 
 [^41]: [蔡明亮 - 維基百科](https://zh.wikipedia.org/wiki/%E8%94%A1%E6%98%8E%E4%BA%AE) — Tsai Ming-liang comenzó con Rebels of the Neon God en 1992; su estética de cine lento se centra en la soledad y el deseo.
 
@@ -404,6 +404,8 @@ Así que la próxima vez que veas en las noticias un titular del tipo “el cine
 [^70]: [台灣電影史（日治時期）- 維基百科](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1) — En 1925, la Taiwan Film Research Association, liderada por Liu Hsi-yang, filmó Whose Fault Is It?, considerada el primer largometraje de ficción hecho por taiwaneses (distinta de The Eyes of Buddha, de 1922, dirigida por el japonés Tanaka Kinshi con participación de actores taiwaneses).
 
 [^71]: [莎韻之鐘 - 維基百科](https://zh.wikipedia.org/wiki/%E8%8E%8E%E9%9F%B5%E4%B9%8B%E9%90%98) — Sayon’s Bell (1943), dirigida por Shimizu Hiroshi y protagonizada por Li Hsiang-lan, fue coproducida por Shochiku, Manchukuo Film Association y la Oficina del Gobernador General de Taiwán; adaptó el ahogamiento de la joven Atayal Sayon en 1938 como propaganda de japonización imperial.
+
+[^72]: [濱口竜介談楊德昌 - Openbook 閱讀誌](https://www.openbook.org.tw/article/p-67833) — En la rueda de prensa de la retrospectiva «Reconstruyendo Yi Yi: Edward Yang» de 2023, Ryusuke Hamaguchi cuenta que, después de los treinta, al volver a ver «A Brighter Summer Day», sintió que «es una película que va más allá del cine, como si me dejara ver el mundo entero».
 
 ## Referencias
 

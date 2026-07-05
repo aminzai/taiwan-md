@@ -15,39 +15,39 @@ readingTime: 7
 #   whats_excluded: "各部電影的詳細票房數字；與導演楊德昌的關係細節；金馬獎評審主席任期記錄"
 #   where_it_hedges: "近年動態以TODO標記，待天機星確認"
 translatedFrom: People/張艾嘉.md
-sourceCommitSha: 0ea5d5d42
-sourceContentHash: sha256:c32add211eceb078
-sourceBodyHash: sha256:3260beec9e00487e
-translatedAt: 2026-05-20T05:08:34+08:00
+sourceCommitSha: 97e35f05
+sourceContentHash: sha256:4dcfdcf5effc3d2c
+sourceBodyHash: sha256:0b1d40b7bf6373a3
+translatedAt: 2026-07-06
 ---
 
-# Sylvia Chang : de Chiayi à la scène, de l'interprète de *L'Enfance* à la réalisatrice de *Love Education*
+# Sylvia Chang : de Chiayi à la scène, de l'interprète de _L'Enfance_ à la réalisatrice de _Love Education_
 
-> **En 30 secondes :** Sylvia Chang naît en 1953 à Chiayi et entre dans le monde du spectacle à 17 ans grâce à *Dream Lover*.[^1] *L'Enfance* (paroles et musique de Lo Ta-yu, 1981) est l'une de ses chansons ; *Le Prix de l'amour* (musique de Jonathan Lee, 1992) est l'une de ses œuvres les plus connues.[^2] En 1986, *My Favorite*, qu'elle écrit, réalise et interprète, lui vaut le Golden Horse de la meilleure actrice.[^3] En 2017, *Love Education* est nommé pour le Golden Horse du meilleur réalisateur. Actrice, réalisatrice, chanteuse : trois identités, plus de cinquante ans de carrière.
+> **En 30 secondes :** Sylvia Chang naît en 1953 à Chiayi et entre dans le monde du spectacle à 17 ans grâce à _Dream Lover_.[^1] _L'Enfance_ (paroles et musique de Lo Ta-yu, 1981) est l'une de ses chansons ; _Le Prix de l'amour_ (musique de Jonathan Lee, 1992) est l'une de ses œuvres les plus connues.[^2] En 1986, _My Favorite_, qu'elle écrit, réalise et interprète, lui vaut le Golden Horse de la meilleure actrice.[^3] En 2017, _Love Education_ est nommé pour le Golden Horse du meilleur réalisateur. Actrice, réalisatrice, chanteuse : trois identités, plus de cinquante ans de carrière.
 
 ## 1953, Chiayi
 
-En 1953, Sylvia Chang naît au 191, rue de la République à Chiayi (aujourd'hui le village de cyprès Hinoki, *Cypress Forest Living Village*).[^1] Ce lieu de naissance est parfois mentionné dans ses entretiens, mais sa trajectoire professionnelle l'éloigne rapidement de Chiayi — d'abord pour Taipei, puis Hong Kong, avant d'aller et venir entre les deux rives du détroit.
+En 1953, Sylvia Chang naît au 191, rue de la République à Chiayi (aujourd'hui le village de cyprès Hinoki, _Cypress Forest Living Village_).[^1] Ce lieu de naissance est parfois mentionné dans ses entretiens, mais sa trajectoire professionnelle l'éloigne rapidement de Chiayi — d'abord pour Taipei, puis Hong Kong, avant d'aller et venir entre les deux rives du détroit.
 
-À 17 ans, elle entre dans le monde du spectacle en participant au film de Chiung Yao *Dream Lover*.[^1] Dans les années 1970, elle émerge durant l'âge d'or du cinéma taïwanais, jouant aux côtés de Chin Han et Charlie Chin dans de nombreuses comédies romantiques.
+À 17 ans, elle entre dans le monde du spectacle en participant au film de Chiung Yao _Dream Lover_.[^1] Dans les années 1970, elle émerge durant l'âge d'or du cinéma taïwanais, jouant aux côtés de Chin Han et Charlie Chin dans de nombreuses comédies romantiques.
 
 À cette époque, Sylvia Chang est une idole, mais elle ne s'en tient pas là. Sa rencontre, dans les années 1980, avec les réalisateurs de la Nouvelle Vague taïwanaise lui fait prendre conscience que le jeu d'acteur peut être un acte de création sérieux, et que la gestion d'image n'en est que la couche la plus superficielle — une prémisse essentielle à sa carrière ultérieure de réalisatrice.
 
 ## Années 80 : de l'idole à l'artiste confirmée
 
-C'est véritablement dans les années 1980, à travers sa collaboration avec les réalisateurs de la Nouvelle Vague taïwanaise — Edward Yang, [[Hou Hsiao-hsien]] — et des films comme *That Day, on the Beach*, qu'elle passe du statut d'idole à celui d'actrice de talent.
+C'est véritablement dans les années 1980, à travers sa collaboration avec les réalisateurs de la Nouvelle Vague taïwanaise — Edward Yang, [[Hou Hsiao-hsien]] — et des films comme _That Day, on the Beach_, qu'elle passe du statut d'idole à celui d'actrice de talent.
 
-En 1986, *My Favorite*, qu'elle écrit, réalise et interprète, remporte le Golden Horse de la meilleure actrice.[^3] À partir de ce film, elle n'est plus seulement actrice — elle est créatrice.
+En 1986, _My Favorite_, qu'elle écrit, réalise et interprète, remporte le Golden Horse de la meilleure actrice.[^3] À partir de ce film, elle n'est plus seulement actrice — elle est créatrice.
 
-La portée de *My Favorite* réside dans sa maîtrise complète des trois niveaux de la création : écrire le scénario, réaliser, jouer. Chaque rôle y remplit une fonction réelle, ce n'est pas un titre honorifique. En 1986, dans l'industrie cinématographique taïwanaise, c'est l'un des rares cas où une femme accomplit cela.
+La portée de _My Favorite_ réside dans sa maîtrise complète des trois niveaux de la création : écrire le scénario, réaliser, jouer. Chaque rôle y remplit une fonction réelle, ce n'est pas un titre honorifique. En 1986, dans l'industrie cinématographique taïwanaise, c'est l'un des rares cas où une femme accomplit cela.
 
-## *L'Enfance* est à elle, *La Baie de Penghu de grand-mère* non
+## _L'Enfance_ est à elle, _La Baie de Penghu de grand-mère_ non
 
-*L'Enfance* est chantée par Sylvia Chang.[^2] Cette chanson, dont Lo Ta-yu a écrit les paroles et la musique en 1981, est l'une de ses œuvres les plus connues dans le domaine musical. Si elle est devenue une part de la mémoire collective, c'est en partie grâce à son interprétation : elle a su traduire l'émotion d'un adulte regardant son enfance en arrière, sans se contenter de jouer l'enfant.
+_L'Enfance_ est chantée par Sylvia Chang.[^2] Cette chanson, dont Lo Ta-yu a écrit les paroles et la musique en 1981, est l'une de ses œuvres les plus connues dans le domaine musical. Si elle est devenue une part de la mémoire collective, c'est en partie grâce à son interprétation : elle a su traduire l'émotion d'un adulte regardant son enfance en arrière, sans se contenter de jouer l'enfant.
 
-*La Baie de Penghu de grand-mère* n'est pas à elle. L'interprète original de cette chanson est Pan An-bang, la musique est de Ye Jia-xiu, et elle n'a aucun rapport avec Sylvia Chang. Les deux chansons sont proches en époque et en style, mais leurs origines sont entièrement différentes.
+_La Baie de Penghu de grand-mère_ n'est pas à elle. L'interprète original de cette chanson est Pan An-bang, la musique est de Ye Jia-xiu, et elle n'a aucun rapport avec Sylvia Chang. Les deux chansons sont proches en époque et en style, mais leurs origines sont entièrement différentes.
 
-*Le Prix de l'amour* (1992, musique de Jonathan Lee) est l'autre chanson la plus représentative de son répertoire.[^2]
+_Le Prix de l'amour_ (1992, musique de Jonathan Lee) est l'autre chanson la plus représentative de son répertoire.[^2]
 
 Sylvia Chang a déclaré à plusieurs reprises que sa compréhension de la musique et du cinéma procédait du « ressenti authentique » — qu'il s'agisse d'une chanson ou d'un personnage, elle cherchait le noyau émotionnel, pas la technique de mise en scène. Cette attitude explique la cohérence de ses trois domaines d'activité : les contextes diffèrent, la méthode de fond est la même.
 
@@ -55,15 +55,15 @@ Sa collaboration avec Lo Ta-yu dépasse également le cadre de la production de 
 
 ## Regard de réalisatrice : la contemplation de trois générations de femmes
 
-En tant que réalisatrice, Sylvia Chang s'est toujours intéressée à la condition féminine. *Siao Yu* (1995) explore le sort des femmes immigrées ; *20 30 40* (2004) présente la vision de l'amour à travers trois générations de femmes ; *Love Education* (2017) se concentre sur les intrications émotionnelles de trois générations de femmes.
+En tant que réalisatrice, Sylvia Chang s'est toujours intéressée à la condition féminine. _Siao Yu_ (1995) explore le sort des femmes immigrées ; _20 30 40_ (2004) présente la vision de l'amour à travers trois générations de femmes ; _Love Education_ (2017) se concentre sur les intrications émotionnelles de trois générations de femmes.
 
-*Love Education* est l'aboutissement de sa carrière de réalisatrice, nommé pour huit Golden Horse, dont le meilleur réalisateur et le meilleur scénario original pour elle-même.[^3]
+_Love Education_ est l'aboutissement de sa carrière de réalisatrice, nommé pour huit Golden Horse, dont le meilleur réalisateur et le meilleur scénario original pour elle-même.[^3]
 
 Dans ce film, chaque génération de femmes porte sa propre compréhension et ses propres obsessions quant à la « relation », sans pouvoir se comprendre pleinement les unes les autres. Sylvia Chang ne juge pas quelle génération a raison — elle les laisse simplement se rencontrer dans un même espace, observant comment les conflits surgissent naturellement. Cette posture de réalisatrice qui ne prend pas parti est ce qui la distingue fondamentalement de ses contemporains.
 
 Cette attitude d'observation plutôt que de jugement est rare parmi les réalisateurs taïwanais. Beaucoup de films traitant de la condition féminine glissent vers le manifeste ; les œuvres de Sylvia Chang restent au niveau de la « présentation », laissant au public l'espace d'interprétation.
 
-Le style de réalisation de Sylvia Chang est décrit comme « tendre mais sans compromis » : elle éprouve une profonde sympathie pour ses personnages, mais refuse de fournir des réponses faciles. *Siao Yu*, *20 30 40* et *Love Education*, trois films couvrant vingt-deux ans, constituent ensemble sa contemplation de longue durée des femmes à différentes étapes de la vie — non pas une répétition thématique en surface, mais un approfondissement en spirale d'une même question.
+Le style de réalisation de Sylvia Chang est décrit comme « tendre mais sans compromis » : elle éprouve une profonde sympathie pour ses personnages, mais refuse de fournir des réponses faciles. _Siao Yu_, _20 30 40_ et _Love Education_, trois films couvrant vingt-deux ans, constituent ensemble sa contemplation de longue durée des femmes à différentes étapes de la vie — non pas une répétition thématique en surface, mais un approfondissement en spirale d'une même question.
 
 ## Cinquante ans de carrière transversale
 
@@ -85,16 +85,16 @@ Cinquante ans de carrière qui ne se figent dans aucune identité : c'est en soi
 
 Partie de la rue de la République à Chiayi, passant par Taipei, Hong Kong, allant et venant entre les deux rives — les cinquante ans de Sylvia Chang ne sont pas une success story linéaire, mais le parcours d'une personne se déplaçant continuellement entre différentes identités, refusant de se fixer dans une zone de confort. Son nom, dans l'histoire du divertissement taïwanais, incarne une posture de vie que peut adopter un créateur — bien au-delà de ce que les réalisations personnelles d'un individu peuvent circonscrire.
 
-**Pour aller plus loin** : [Sylvia Chang — Wikipédia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Base de données du Golden Horse](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89)
+**Pour aller plus loin** : [Sylvia Chang — Wikipédia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Base de données du Golden Horse](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/fr/people/yang-dechang) — _That Day, on the Beach_, dont elle tient le premier rôle, est le premier long métrage de fiction d'Edward Yang
 
 ## Références
 
-[^1]: [United Daily News : reportage sur le lieu de naissance de Sylvia Chang à Chiayi](https://stars.udn.com/star/story/10090/9108331) — Confirme que Sylvia Chang est née en 1953 au 191, rue de la République à Chiayi (aujourd'hui le village de cyprès Hinoki), et qu'elle est entrée dans le monde du spectacle à 17 ans (*Dream Lover*).
+[^1]: [United Daily News : reportage sur le lieu de naissance de Sylvia Chang à Chiayi](https://stars.udn.com/star/story/10090/9108331) — Confirme que Sylvia Chang est née en 1953 au 191, rue de la République à Chiayi (aujourd'hui le village de cyprès Hinoki), et qu'elle est entrée dans le monde du spectacle à 17 ans (_Dream Lover_).
 
-[^2]: [Wikipédia : Sylvia Chang](https://zh.wikipedia.org/wiki/張艾嘉) — Confirme que *L'Enfance* est chantée par Sylvia Chang (musique de Lo Ta-yu, 1981), que *Le Prix de l'amour* (musique de Jonathan Lee, 1992) est l'une de ses œuvres représentatives, et précise que *La Baie de Penghu de grand-mère* est l'œuvre originale de Pan An-bang (sans rapport avec Sylvia Chang).
+[^2]: [Wikipédia : Sylvia Chang](https://zh.wikipedia.org/wiki/張艾嘉) — Confirme que _L'Enfance_ est chantée par Sylvia Chang (musique de Lo Ta-yu, 1981), que _Le Prix de l'amour_ (musique de Jonathan Lee, 1992) est l'une de ses œuvres représentatives, et précise que _La Baie de Penghu de grand-mère_ est l'œuvre originale de Pan An-bang (sans rapport avec Sylvia Chang).
 
-[^3]: [Base de données du Golden Horse : palmarès de Sylvia Chang](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) — Inclut le Golden Horse de la meilleure actrice pour *My Favorite* en 1986, ainsi que les nominations de *Love Education* en 2017 pour le meilleur réalisateur et le meilleur scénario original.
+[^3]: [Base de données du Golden Horse : palmarès de Sylvia Chang](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) — Inclut le Golden Horse de la meilleure actrice pour _My Favorite_ en 1986, ainsi que les nominations de _Love Education_ en 2017 pour le meilleur réalisateur et le meilleur scénario original.
 
-[^4]: [Taiwan Cinema : Sylvia Chang](https://www.taiwancinema.com/director/content/id-209) — Parcours complet de Sylvia Chang en tant que réalisatrice de cinéma, incluant les fiches de *Siao Yu* (1995), *20 30 40* (2004) et *Love Education* (2017).
+[^4]: [Taiwan Cinema : Sylvia Chang](https://www.taiwancinema.com/director/content/id-209) — Parcours complet de Sylvia Chang en tant que réalisatrice de cinéma, incluant les fiches de _Siao Yu_ (1995), _20 30 40_ (2004) et _Love Education_ (2017).
 
-[^5]: [Love Education — ATMovies](http://www.atmovies.com.tw/movie/floa44742698/) — Synopsis de *Love Education*, détails des huit nominations au Golden Horse et distribution des rôles.
+[^5]: [Love Education — ATMovies](http://www.atmovies.com.tw/movie/floa44742698/) — Synopsis de _Love Education_, détails des huit nominations au Golden Horse et distribution des rôles.

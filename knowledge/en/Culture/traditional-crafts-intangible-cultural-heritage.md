@@ -23,10 +23,10 @@ lastVerified: 2026-05-15
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:0c2424c76c2aa5da'
-sourceBodyHash: 'sha256:d61ffe9dcb3401b5'
-translatedAt: '2026-06-16T16:59:03Z'
+sourceCommitSha: '51eb3afd'
+sourceContentHash: 'sha256:b7c990c00c65ffb1'
+sourceBodyHash: 'sha256:7720c8db697d0d57'
+translatedAt: '2026-07-06'
 ---
 
 # Taiwan's Traditional Crafts and Intangible Cultural Heritage: Institutional Recognition Arrived, but the Apprentices Were Gone
@@ -103,7 +103,7 @@ That sentence was written in 1981. Forty-five years later, it reads as if it had
 ## A Craft the Government Did Not Revive: The Revival of Sanxia Indigo Dyeing
 
 ![The “Blue and White Series” indigo-dyed garments displayed inside the Sanxia District Historical Relics Hall are among the most representative contemporary visual archives of Sanxia indigo dyeing after its 1996 revival](/article-images/culture/sanxia-indigo-display.webp)
-_The “Blue and White Series” indigo-dyed garments displayed at the Sanxia District Historical Relics Hall show the contemporary applications of Sanxia indigo dyeing after its 1996 revival. Photo: Outlookxp, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
+_The “Blue and White Series” indigo-dyed garments displayed at the Sanxia District Historical Relics Hall show the contemporary applications of Sanxia indigo dyeing after its 1996 revival. Photo: 寺人孟子, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
 
 Sanxia, formerly known as Sankakuyū, was the most important cloth-dyeing center in northern Taiwan during the Guangxu reign of the Qing dynasty. Clear creek water and damp mountain valleys were suitable for the growth of Strobilanthes cusia, the indigo plant known locally as daqing or malan, and dye workshops lined the streets. The red-brick facades on today’s Sanxia Old Street remain historical testimony to the wealth once brought by indigo dyeing.[^17]
 
@@ -228,7 +228,7 @@ The longer the list grows, the fewer people remain who can teach. The next time 
 
 **Further Reading**:
 
-- [Indigo Dyeing](/culture/藍染) — the full craft history of Sanxia indigo dyeing, from export “blue gold” to its 1996 community revival
+- [Indigo Dyeing](/culture/藍染) — the full craft history of indigo dyeing, from a major Qing-era export to its near-disappearance by 1940, and its present-day revival in Sanxia, Miaoli, Taiping, and Jingliao
 - [Taiwanese Floral Cloth](/culture/台灣花布) — the journey of Hakka red floral cloth from Japanese-period factory product to local cultural symbol and identity marker
 - [Paper Umbrellas](/culture/紙傘) — the transformation of Meinong paper umbrellas from everyday rain gear to works of art
 - [Bamboo Hats](/culture/斗笠) — rush weaving and a representative object of Taiwan’s rural craft traditions
@@ -302,4 +302,4 @@ This article uses three Wikimedia Commons CC-licensed images, all cached in `pub
 
 - [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo: Outlookxp, 2013-07-20, CC BY-SA 3.0. A group of Hakka oil-paper umbrellas displayed at Meinong Yuanxiangyuan Paper Umbrella Cultural Village, with red, yellow, black, and other colors spread across their canopies; one of the most representative visual archives of Meinong paper umbrella craft.
 - [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: Anrew0517, 2010-05-01, CC BY-SA 3.0. Exterior of the Sanyi Wood Sculpture Museum in Guangsheng Village, Sanyi Township, Miaoli County, Taiwan’s only public museum devoted to wood sculpture.
-- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: Outlookxp, CC BY-SA 4.0. The “Blue and White Series” indigo-dyed garments displayed inside the Sanxia District Historical Relics Hall, showing the contemporary applications of Sanxia indigo dyeing after its 1996 revival.
+- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: 寺人孟子, CC BY-SA 4.0. The “Blue and White Series” indigo-dyed garments displayed inside the Sanxia District Historical Relics Hall, showing the contemporary applications of Sanxia indigo dyeing after its 1996 revival.

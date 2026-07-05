@@ -11,10 +11,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:e6e208f3f61a399f'
-sourceBodyHash: 'sha256:cf28b2b23fb9b13c'
-translatedAt: '2026-05-16T22:20:03Z'
+sourceCommitSha: 'cfaa22a5'
+sourceContentHash: 'sha256:73894dd98c9e1eee'
+sourceBodyHash: 'sha256:96e60be7abecd0c6'
+translatedAt: '2026-07-06'
 ---
 
 > **Resumen en 30 segundos**
@@ -122,6 +122,10 @@ El foco estratégico de Advantech se concentra en cuatro direcciones: la extensi
 Desde la empresa fundada en 1983 por tres ingenieros de Hewlett-Packard hasta su posición actual como líder del mercado de computadoras industriales con presencia en 27 países, Advantech es un caso concreto de construcción de marcas propias en la industria taiwanesa de alta tecnología. En 2023, durante su 40.º aniversario, el presidente Liu Ke-cheng declaró el enfoque en “AIoT + Edge Computing”, lo que refleja una lectura clara de Advantech sobre su propio posicionamiento: en una época de creciente demanda de soberanía de datos y cómputo en tiempo real, la acumulación profunda en sistemas embebidos es un foso competitivo irremplazable.
 
 ---
+
+**Lecturas complementarias**:
+
+- [Programa AAMA de Taipéi Cradle](AAMA台北搖籃計畫.md): la Fundación Educativa Advantech es uno de los donantes que institucionalizó como fundación este programa de mentoría para emprendedores, y su presidente Liu Ke-cheng también ejerció como mentor; ambas partes impulsan conjuntamente el «Programa AAMA de co-creación empresarial AIoT»
 
 ## Referencias
 

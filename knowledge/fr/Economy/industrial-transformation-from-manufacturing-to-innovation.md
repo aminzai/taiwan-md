@@ -2,19 +2,27 @@
 title: "La transformation industrielle de Taïwan : de grande puissance manufacturière à puissance de l'innovation"
 description: "La structure industrielle de Taïwan est passée d'une économie à forte intensité de main-d'œuvre à une économie à forte intensité de savoir, grâce à des politiques telles que le Plan d'innovation industrielle 5+2 et les 6 industries stratégiques clés, favorisant la modernisation de l'industrie manufacturière traditionnelle et le développement des industries émergentes."
 date: 2026-03-19
-author: "Taiwan.md"
-category: "Economy"
-subcategory: "經濟發展"
-tags: ["Économie", "Politique industrielle", "Transformation et modernisation", "Innovation", "Industrie manufacturière", "Haute technologie"]
+author: 'Taiwan.md'
+category: 'Economy'
+subcategory: '經濟發展'
+tags:
+  [
+    'Économie',
+    'Politique industrielle',
+    'Transformation et modernisation',
+    'Innovation',
+    'Industrie manufacturière',
+    'Haute technologie',
+  ]
 readingTime: 15
 lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
-translatedFrom: "Economy/台灣產業轉型升級.md"
-sourceCommitSha: "0f8fae0ae"
-sourceContentHash: "sha256:aba9e669961d71ce"
-sourceBodyHash: "sha256:4a2bc57ff97cab00"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'Economy/台灣產業轉型升級.md'
+sourceCommitSha: 'cfaa22a5'
+sourceContentHash: 'sha256:898eafb607a8e0d3'
+sourceBodyHash: 'sha256:4a2bc57ff97cab00'
+translatedAt: '2026-05-20T05:08:34+08:00'
 ---
 
 # La transformation industrielle de Taïwan : de grande puissance manufacturière à puissance de l'innovation

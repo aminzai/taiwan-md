@@ -11,10 +11,10 @@ lastVerified: '2026-04-05'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/客家文化與語言.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b7e6cdcd3f8a0bf5'
-sourceBodyHash: 'sha256:af3d2488463632de'
-translatedAt: '2026-06-16T17:19:04Z'
+sourceCommitSha: 'a43cf915'
+sourceContentHash: 'sha256:b03d6ffbe269bd62'
+sourceBodyHash: 'sha256:b5324c6cea623600'
+translatedAt: '2026-07-06'
 ---
 
 # 客家文化と言語
@@ -103,6 +103,7 @@ translatedAt: '2026-06-16T17:19:04Z'
 
 **関連記事**：
 
+- [藍染](/culture/藍染) —— 客家の藍衫と北部三峡の馬藍工芸の異同、そして「藍染は客家専属か」をめぐる多民族的な再考
 - [台湾客家音楽](/music/台湾客家音楽) —— 山歌からロックまで、客語音楽がいかに民族復興の前線となったか
 - [客家飲食文化](/food/客家飲食文化) —— 鹹肥香の背景にある地理学と労働史
 - [言語的多様性と母語文化](/culture/言語多樣性與母語文化) —— 台湾の多言語環境の全景と各民族の母語の状況

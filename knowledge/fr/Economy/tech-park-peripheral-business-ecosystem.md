@@ -2,19 +2,27 @@
 title: "L'écosystème des zones commerciales périphériques des parcs technologiques taïwanais"
 description: "Pourquoi les restaurants autour du parc logiciel de Nangang, du parc scientifique de Neihu, du parc scientifique de Hsinchu, du parc scientifique du centre Taïwan et du parc scientifique du sud Taïwan ne servent plus que le déjeuner, et ferment le soir. Cet article démonte le phénomène de zone commerciale unimodale le long du corridor technologique taïwanais sous trois angles : les schémas de trajet domicile-travail, la réglementation des zones BOT et l'évolution de la culture des heures supplémentaires. Il suit également l'impact structurel de l'ouverture de LaLaport en mars 2025 sur les commerces traditionnels du déjeuner de la route Sanzhong et de la rue du Parc."
 date: 2026-05-18
-author: "Taiwan.md"
-category: "Economy"
-subcategory: "產業園區與商圈"
-tags: ["parc technologique", "économie de quartier", "parc logiciel de Nangang", "parc scientifique de Neihu", "trajet domicile-travail", "urbanisme"]
+author: 'Taiwan.md'
+category: 'Economy'
+subcategory: '產業園區與商圈'
+tags:
+  [
+    'parc technologique',
+    'économie de quartier',
+    'parc logiciel de Nangang',
+    'parc scientifique de Neihu',
+    'trajet domicile-travail',
+    'urbanisme',
+  ]
 readingTime: 12
 lastVerified: 2026-05-18
 lastHumanReview: true
 featured: false
-translatedFrom: "Economy/台灣科技園區外圍商圈生態.md"
-sourceCommitSha: "10c12c501"
-sourceContentHash: "sha256:5188638d5f08c937"
-sourceBodyHash: "sha256:96ee687ae59d6522"
-translatedAt: "2026-05-19T05:08:07+08:00"
+translatedFrom: 'Economy/台灣科技園區外圍商圈生態.md'
+sourceCommitSha: 'cfaa22a5'
+sourceContentHash: 'sha256:516bf0a6d1966cf7'
+sourceBodyHash: 'sha256:96ee687ae59d6522'
+translatedAt: '2026-05-19T05:08:07+08:00'
 ---
 
 > **Aperçu en 30 secondes** : Les zones commerciales périphériques des cinq grands parcs technologiques taïwanais (parc logiciel de Nangang, parc scientifique de Neihu, parc scientifique de Hsinchu, parc scientifique du centre Taïwan, parc scientifique du sud Taïwan) présentent un schéma commun. Avec 20 000 à 30 000 employés, ceux-ci n'apparaissent collectivement que pendant 90 minutes à midi et disparaissent vers 18 h 30 en fin de journée. De nombreux restaurants de la route Sanzhong, de la rue du Parc et de la route Jingmao 2 du parc logiciel de Nangang ont discrètement cessé de servir le dîner pour ne plus ouvrir qu'au déjeuner. Depuis l'ouverture de LaLaport Nangang le 20 mars 2025, même cette stratégie défensive du « déjeuner uniquement » fait face à la concurrence directe des ailes de restauration des centres commerciaux en chaîne.
@@ -87,13 +95,13 @@ Les loyers des locaux commerciaux périphériques des parcs ont augmenté avec l
 
 En examinant les cinq parcs ensemble, on distingue plus clairement la structure commune et les différences du phénomène unimodal. Le tableau ci-dessous résume la taille des effectifs, les principales rues commerciales et la vie nocturne de chaque parc :
 
-| Parc | Effectifs (récentes années) | Principales rues commerciales | Vie nocturne |
-|---|---|---|---|
-| Parc logiciel de Nangang | ~24 000[^2] | Route Sanzhong, rue du Parc, route Jingmao 2 | Fortement réduite, la plupart des commerces ne servent que le déjeuner |
-| Parc scientifique de Neihu | ~100 000+[^1] | Route Ruiguang, rue Zhouzi, rue Jiangnan, route Xing'ai | Partiellement maintenue, grâce à la clientèle de Dazili |
-| Parc scientifique de Hsinchu | ~170 000 | Rue Jinshan, route Guanxin, route Guangfu | Florissante. La rue Jinshan est un quartier résidentiel d'ingénieurs « zone de départ[^5] », Guanxinli est l'un des quartriers aux revenus moyens les plus élevés de Taïwan[^6] |
-| Parc scientifique du centre Taïwan | Plusieurs dizaines de milliers | Dans le parc : routes Keyuan 1/2/3, route Zhongke ; périphérie : section 3 de la route Xitun, Mi Square, centre commercial J-Mall | Dans le parc, le centre de restauration de Zhongke prédomine ; la section 3 de la route Xitun bénéficie de la double clientèle de l'université Tunghai et du quartier Fuke |
-| Parc scientifique du sud Taïwan | Plusieurs dizaines de milliers | Dans le parc : centre commercial Park17 ; périphérie : vieille rue de Shanhua, quartier du temple Qing'an | Dans le parc, les cantines et Park17 ; en périphérie, la population existante de Shanhua soutient l'activité plutôt que les employés du parc[^10] |
+| Parc                               | Effectifs (récentes années)    | Principales rues commerciales                                                                                                     | Vie nocturne                                                                                                                                                                    |
+| ---------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Parc logiciel de Nangang           | ~24 000[^2]                    | Route Sanzhong, rue du Parc, route Jingmao 2                                                                                      | Fortement réduite, la plupart des commerces ne servent que le déjeuner                                                                                                          |
+| Parc scientifique de Neihu         | ~100 000+[^1]                  | Route Ruiguang, rue Zhouzi, rue Jiangnan, route Xing'ai                                                                           | Partiellement maintenue, grâce à la clientèle de Dazili                                                                                                                         |
+| Parc scientifique de Hsinchu       | ~170 000                       | Rue Jinshan, route Guanxin, route Guangfu                                                                                         | Florissante. La rue Jinshan est un quartier résidentiel d'ingénieurs « zone de départ[^5] », Guanxinli est l'un des quartriers aux revenus moyens les plus élevés de Taïwan[^6] |
+| Parc scientifique du centre Taïwan | Plusieurs dizaines de milliers | Dans le parc : routes Keyuan 1/2/3, route Zhongke ; périphérie : section 3 de la route Xitun, Mi Square, centre commercial J-Mall | Dans le parc, le centre de restauration de Zhongke prédomine ; la section 3 de la route Xitun bénéficie de la double clientèle de l'université Tunghai et du quartier Fuke      |
+| Parc scientifique du sud Taïwan    | Plusieurs dizaines de milliers | Dans le parc : centre commercial Park17 ; périphérie : vieille rue de Shanhua, quartier du temple Qing'an                         | Dans le parc, les cantines et Park17 ; en périphérie, la population existante de Shanhua soutient l'activité plutôt que les employés du parc[^10]                               |
 
 Le tableau révèle un schéma clair : **la survie du dîner dans les zones commerciales périphériques dépend presque entièrement de la présence d'un quartier résidentiel d'ingénieurs à moins d'un kilomètre du parc**. La rue Jinshan de Hsinchu, grâce à son tissu résidentiel complet, présente un écosystème de restaurants comparable à un centre-ville ordinaire ; la route Sanzhong de Nangang, faute de logements, ne peut servir que le déjeuner ; la section 3 de la route Xitun du parc central bénéficie de la population étudiante de l'université Tunghai ; le parc du sud s'appuie sur les résidents existants de Shanhua.
 

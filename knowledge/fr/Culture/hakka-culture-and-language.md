@@ -18,10 +18,10 @@ readingTime: 14
 featured: false
 translatedFrom: 'Culture/客家文化與語言.md'
 lastVerified: 2026-04-05
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b7e6cdcd3f8a0bf5'
-sourceBodyHash: 'sha256:af3d2488463632de'
-translatedAt: '2026-06-16T17:19:04Z'
+sourceCommitSha: 'a43cf915'
+sourceContentHash: 'sha256:b03d6ffbe269bd62'
+sourceBodyHash: 'sha256:b5324c6cea623600'
+translatedAt: '2026-07-06'
 ---
 
 # Culture et langue hakka
@@ -110,6 +110,7 @@ Ils voulaient que la génération suivante ait encore la chance d'ouvrir la bouc
 
 **Pour aller plus loin** :
 
+- [Teinture indigo](/fr/culture/indigo-dyeing) — Ressemblances et différences entre la tunique bleue hakka et l'artisanat du Ma Lan à Sanxia dans le nord, ainsi qu'une réflexion multi-ethnique sur la question « la teinture indigo est-elle exclusivement hakka »
 - Musique hakka de Taïwan — Des chants de montagne au rock, comment la musique en hakka est devenue le front avancé de la revitalisation ethnique
 - Culture culinaire hakka — La géographie et l'histoire du labeur derrière le salé-gras-parfumé
 - Diversité linguistique et cultures des langues maternelles — Panorama de l'environnement multilingue taïwanais et situation de chaque communauté

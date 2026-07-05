@@ -23,10 +23,10 @@ lastVerified: '2026-05-15'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:0c2424c76c2aa5da'
-sourceBodyHash: 'sha256:d61ffe9dcb3401b5'
-translatedAt: '2026-06-16T16:54:51Z'
+sourceCommitSha: '51eb3afd'
+sourceContentHash: 'sha256:b7c990c00c65ffb1'
+sourceBodyHash: 'sha256:7720c8db697d0d57'
+translatedAt: '2026-07-06'
 ---
 
 # Artisanat traditionnel et patrimoine culturel immatériel de Taïwan : la reconnaissance institutionnelle est arrivée, mais les apprentis ont disparu
@@ -103,7 +103,7 @@ Cette phrase a été écrite en 1981. Quarante-cinq ans plus tard, elle se lit c
 ## Un artisanat que le gouvernement n’a pas sauvé : la renaissance de la teinture à l’indigo de Sanxia
 
 ![Les vêtements teints à l’indigo de la « série bleu et blanc », exposés au Musée d’histoire et de patrimoine du district de Sanxia, constituent l’une des archives visuelles contemporaines les plus représentatives de la renaissance de l’indigo de Sanxia après 1996](/article-images/culture/sanxia-indigo-display.webp)
-_Les vêtements teints à l’indigo de la « série bleu et blanc », exposés au Musée d’histoire et de patrimoine du district de Sanxia, montrent les usages contemporains de l’indigo de Sanxia après la renaissance de 1996. Photo : Outlookxp, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
+_Les vêtements teints à l’indigo de la « série bleu et blanc », exposés au Musée d’histoire et de patrimoine du district de Sanxia, montrent les usages contemporains de l’indigo de Sanxia après la renaissance de 1996. Photo : 寺人孟子, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
 
 Sanxia, autrefois appelé Sanjiaoyong, était sous l’ère Guangxu des Qing le plus important centre de teinture textile du nord de Taïwan. Ses eaux claires et ses vallées humides convenaient à la culture du daqing, ou Strobilanthes cusia, plante tinctoriale de l’indigo, et les ateliers de teinture se succédaient dans les rues. Les façades en briques rouges de la vieille rue de Sanxia sont encore aujourd’hui le témoignage historique de l’enrichissement local par l’indigo.[^17]
 
@@ -228,7 +228,7 @@ Plus la liste s’allonge, moins il reste de personnes capables d’enseigner. L
 
 **Pour aller plus loin** :
 
-- [Teinture à l’indigo](/culture/藍染) — l’histoire complète de l’indigo de Sanxia, de l’or bleu d’exportation à la renaissance citoyenne de 1996
+- [Teinture à l’indigo](/culture/藍染) — l’histoire complète de la teinture indigo, de produit majeur d’exportation sous les Qing à sa quasi-disparition en 1940, jusqu’à sa renaissance actuelle à Sanxia, Miaoli, Taiping et Jingliao
 - [Tissus fleuris taïwanais](/culture/台灣花布) — le voyage identitaire du tissu rouge fleuri hakka, de produit d’usine sous la période japonaise à symbole culturel local
 - [Ombrelles en papier](/culture/紙傘) — la transformation des ombrelles en papier de Meinong, d’objets utilitaires contre la pluie en œuvres d’art
 - [Chapeaux coniques](/culture/斗笠) — la vannerie de jonc et l’objet emblématique de l’artisanat rural taïwanais
@@ -302,4 +302,4 @@ Cet article utilise trois images sous licence CC de Wikimedia Commons, toutes mi
 
 - [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo : Outlookxp, 2013-07-20, CC BY-SA 3.0. Ensemble d’ombrelles hakka en papier huilé exposées au village culturel Yuanxiangyuan de Meinong, aux surfaces rouges, jaunes et noires éclatantes ; l’un des dossiers visuels les plus représentatifs de l’artisanat des ombrelles en papier de Meinong.
 - [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo : Anrew0517, 2010-05-01, CC BY-SA 3.0. Façade du Musée de la sculpture sur bois de Sanyi (village de Guangsheng, canton de Sanyi, comté de Miaoli), seul musée public de Taïwan consacré à la sculpture sur bois.
-- [Vêtements teints à l’indigo de la « série bleu et blanc » exposés au Musée d’histoire et de patrimoine du district de Sanxia](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo : Outlookxp, CC BY-SA 4.0. Vêtements teints à l’indigo de la « série bleu et blanc » exposés au Musée d’histoire et de patrimoine du district de Sanxia, montrant les usages visuels contemporains de l’indigo de Sanxia après la renaissance de 1996.
+- [Vêtements teints à l’indigo de la « série bleu et blanc » exposés au Musée d’histoire et de patrimoine du district de Sanxia](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo : 寺人孟子, CC BY-SA 4.0. Vêtements teints à l’indigo de la « série bleu et blanc » exposés au Musée d’histoire et de patrimoine du district de Sanxia, montrant les usages visuels contemporains de l’indigo de Sanxia après la renaissance de 1996.

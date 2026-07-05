@@ -11,10 +11,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:e6e208f3f61a399f'
-sourceBodyHash: 'sha256:cf28b2b23fb9b13c'
-translatedAt: 2026-05-16T22:25:28Z
+sourceCommitSha: 'cfaa22a5'
+sourceContentHash: 'sha256:73894dd98c9e1eee'
+sourceBodyHash: 'sha256:96e60be7abecd0c6'
+translatedAt: 2026-07-06
 ---
 
 > **Vue d'ensemble en 30 secondes**
@@ -122,6 +122,10 @@ La stratégie d'Advantech se concentre sur quatre axes : l'extension des applica
 Depuis sa création en 1983 par trois ingénieurs de Hewlett-Packard jusqu'à sa position actuelle de leader du marché des ordinateurs industriels avec des implantations dans 27 pays, Advantech constitue un exemple concret de construction de marques propres dans l'industrie taïwanaise de haute technologie. En 2023, à l'occasion de son 40e anniversaire, le président Liu Kezhen a déclaré que l'entreprise se concentrerait sur « AIoT + Edge Computing », reflétant la lucidité d'Advantech quant à son propre positionnement : à une époque marquée par l'essor de la souveraineté des données et de la demande de calcul en temps réel, l'accumulation profonde dans les systèmes embarqués constitue un avantage concurrentiel irremplaçable.
 
 ---
+
+**Pour aller plus loin** :
+
+- [Programme AAMA du berceau de Taipei](/fr/economy/AAMA台北搖籃計畫) : la Fondation Advantech pour l'éducation et la culture fait partie des donateurs qui ont accompagné la transformation de ce programme de mentorat entrepreneurial en fondation, et le président Liu Kezhen a lui-même exercé la fonction de mentor. Les deux organisations mènent conjointement le « Programme de co-création d'entreprises AAMA AIoT »
 
 ## Références
 

@@ -11,10 +11,10 @@ lastVerified: 2026-03-19
 lastHumanReview: true
 featured: false
 translatedFrom: 'Culture/台灣花布.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:182944af338bcbd9'
-sourceBodyHash: 'sha256:4695e66c252e1f65'
-translatedAt: '2026-05-17T05:34:52+08:00'
+sourceCommitSha: 'a43cf915'
+sourceContentHash: 'sha256:e705ff8fd352624a'
+sourceBodyHash: 'sha256:993aeb722f2d750e'
+translatedAt: '2026-07-06'
 ---
 
 # 대만 화포(台灣花布)
@@ -142,6 +142,11 @@ translatedAt: '2026-05-17T05:34:52+08:00'
 오늘날 우리가 다시 그 선명한 모란, 우아한 국화, 낭만적인 장미를 감상할 때, 이 무늬들은 대만 근 100년간의 사회 변천, 문화 정체성, 생활 미학을 비추어 준다. 천 위의 꽃은 어느 시대 대만인이 아름다운 삶에 대해 품었던 상상력을 고정시켜 놓았다.
 
 ---
+
+**더 읽어보기**:
+
+- [남염(藍染)](/culture/藍染) — 하나의 민족 상징으로 단순화되었다가 나중에 그 흐름이 더 복잡한 것으로 밝혀진 또 다른 염직 공예
+- [대만 전통공예와 무형문화자산](/culture/台灣傳統工藝與無形文化資產) — 화포와 남염이 공통으로 마주하는 공예 보존 제도의 맥락
 
 ## 참고 문헌
 

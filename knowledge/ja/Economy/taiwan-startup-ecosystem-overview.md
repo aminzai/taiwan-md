@@ -17,8 +17,8 @@ lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'Economy/新創生態系.md'
-sourceCommitSha: '0f8fae0a'
-sourceContentHash: 'sha256:99a2d6fc0bc6d423'
+sourceCommitSha: 'cfaa22a5'
+sourceContentHash: 'sha256:4ade9d7e43f9b0c2'
 sourceBodyHash: 'sha256:07a9caf907dd16bd'
 translatedAt: '2026-05-25T21:07:04Z'
 ---

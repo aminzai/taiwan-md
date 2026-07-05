@@ -23,10 +23,10 @@ lastVerified: 2026-05-15
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:0c2424c76c2aa5da'
-sourceBodyHash: 'sha256:d61ffe9dcb3401b5'
-translatedAt: '2026-06-16T16:54:57Z'
+sourceCommitSha: '51eb3afd'
+sourceContentHash: 'sha256:b7c990c00c65ffb1'
+sourceBodyHash: 'sha256:7720c8db697d0d57'
+translatedAt: '2026-07-06'
 ---
 
 # Artesanía tradicional y patrimonio cultural inmaterial de Taiwán: llegó el reconocimiento institucional, pero ya no quedaban aprendices
@@ -103,7 +103,7 @@ Esa frase fue escrita en 1981. Leída 45 años después, suena como si acabara d
 ## Una artesanía que no fue rescatada por el gobierno: el renacimiento del teñido índigo de Sanxia
 
 ![Vestimentas teñidas con índigo de la serie “Azul y blanco”, exhibidas en el Museo Histórico de Sanxia; uno de los archivos visuales contemporáneos más representativos del renacimiento del teñido índigo de Sanxia desde 1996](/article-images/culture/sanxia-indigo-display.webp)
-_Vestimentas teñidas con índigo de la serie “Azul y blanco”, exhibidas en el Museo Histórico de Sanxia; muestran las aplicaciones contemporáneas del teñido índigo de Sanxia después de su renacimiento en 1996. Photo: Outlookxp, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
+_Vestimentas teñidas con índigo de la serie “Azul y blanco”, exhibidas en el Museo Histórico de Sanxia; muestran las aplicaciones contemporáneas del teñido índigo de Sanxia después de su renacimiento en 1996. Photo: 寺人孟子, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
 
 Sanxia, antiguamente llamada Sanjiaoyong, fue durante el reinado de Guangxu de la dinastía Qing el centro más importante de teñido textil del norte de Taiwán. Las aguas claras de los arroyos y los valles húmedos eran adecuados para el crecimiento de la planta de índigo dajing, o índigo asiático, y las tintorerías llenaban las calles. Las fachadas de ladrillo rojo que hoy se conservan en la calle antigua de Sanxia siguen siendo testimonio histórico de la prosperidad generada entonces por el índigo.[^17]
 
@@ -228,7 +228,7 @@ Cuanto más larga es la lista, menos gente queda para enseñar. La próxima vez 
 
 **Lecturas complementarias**:
 
-- [Teñido índigo](/culture/藍染) — historia completa del teñido índigo de Sanxia, desde el “oro azul” de exportación hasta el renacimiento civil de 1996
+- [Teñido índigo](/culture/藍染) — historia completa del teñido índigo, desde ser un producto de exportación estrella en la dinastía Qing hasta casi desaparecer en 1940, y su renacimiento actual en Sanxia, Miaoli, Taiping y Jingliao, cada uno a su manera
 - [Tela floreada taiwanesa](/culture/台灣花布) — viaje identitario de la tela roja floreada hakka, de producto fabril del periodo japonés a símbolo de cultura local
 - [Sombrilla de papel](/culture/紙傘) — trayectoria de transformación de las sombrillas de papel de Meinong, de objetos cotidianos para la lluvia a piezas artísticas
 - [Sombrero de junco](/culture/斗笠) — objeto representativo del tejido de junco y la artesanía rural taiwanesa
@@ -302,4 +302,4 @@ Este artículo usa tres imágenes con licencias CC de Wikimedia Commons, todas c
 
 - [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo: Outlookxp, 2013-07-20, CC BY-SA 3.0. Conjunto de sombrillas de papel aceitado hakka exhibidas en la Aldea Cultural de Sombrillas de Papel Yuanxiangyuan, Meinong; con superficies rojas, amarillas y negras, es uno de los archivos visuales más representativos de la artesanía de sombrillas de papel de Meinong.
 - [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: Anrew0517, 2010-05-01, CC BY-SA 3.0. Exterior del Museo de Escultura en Madera de Sanyi, en la aldea de Guangsheng, municipio de Sanyi, condado de Miaoli; el único museo público de Taiwán dedicado a la talla en madera.
-- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: Outlookxp, CC BY-SA 4.0. Vestimentas teñidas con índigo de la serie “Azul y blanco”, exhibidas en el Museo Histórico de Sanxia; muestran el aspecto visual de las aplicaciones contemporáneas del teñido índigo de Sanxia después de su renacimiento en 1996.
+- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: 寺人孟子, CC BY-SA 4.0. Vestimentas teñidas con índigo de la serie “Azul y blanco”, exhibidas en el Museo Histórico de Sanxia; muestran el aspecto visual de las aplicaciones contemporáneas del teñido índigo de Sanxia después de su renacimiento en 1996.

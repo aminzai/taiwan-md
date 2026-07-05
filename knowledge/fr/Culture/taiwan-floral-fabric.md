@@ -1,20 +1,28 @@
 ---
-title: "Le tissu floral taïwanais"
+title: 'Le tissu floral taïwanais'
 description: "De produit industriel à l'époque coloniale japonaise à symbole culturel local, le parcours identitaire du tissu floral taïwanais"
 date: 2026-03-19
-author: "Taiwan.md Contributors"
-category: "Culture"
-subcategory: "族群文化"
-tags: ["culture", "Hakka", "textile", "design", "localisation", "renaissance culturelle"]
+author: 'Taiwan.md Contributors'
+category: 'Culture'
+subcategory: '族群文化'
+tags:
+  [
+    'culture',
+    'Hakka',
+    'textile',
+    'design',
+    'localisation',
+    'renaissance culturelle',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: true
 featured: false
-translatedFrom: "Culture/台灣花布.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:182944af338bcbd9"
-sourceBodyHash: "sha256:4695e66c252e1f65"
-translatedAt: "2026-05-17T05:34:56+08:00"
+translatedFrom: 'Culture/台灣花布.md'
+sourceCommitSha: 'a43cf915'
+sourceContentHash: 'sha256:e705ff8fd352624a'
+sourceBodyHash: 'sha256:993aeb722f2d750e'
+translatedAt: '2026-07-06'
 ---
 
 # Le tissu floral taïwanais
@@ -55,7 +63,7 @@ Dans les années 1990, avec l'essor du mouvement de localisation culturelle, le 
 
 En réalité, le tissu floral taïwanais n'a jamais été l'apanage exclusif de la communauté Hakka. Selon les recherches en histoire du textile taïwanais, les consommateurs de tissus floraux dans les années 1950-1960 comprenaient toutes les communautés : Hoklo, Hakka et continentaux. Chaque dot de mariage comprenait des draps en tissu floral, chaque cartable d'enfant pouvait être confectionné en tissu floral — le tissu floral faisait partie de la mémoire de vie commune de tous les Taïwanais de l'époque.
 
-La chercheuse Chen Tsong-ping souligne dans son ouvrage *L'Ère des motifs* (*花樣時代*) que l'appellation « tissu floral Hakka » pourrait provenir d'une stratégie promotionnelle du mouvement de renaissance culturelle Hakka des années 1990. La communauté Hakka, afin de mettre en valeur ses particularités culturelles, a présenté le tissu floral comme une tradition Hakka, ce qui ne correspond pas à la réalité historique[^2].
+La chercheuse Chen Tsong-ping souligne dans son ouvrage _L'Ère des motifs_ (_花樣時代_) que l'appellation « tissu floral Hakka » pourrait provenir d'une stratégie promotionnelle du mouvement de renaissance culturelle Hakka des années 1990. La communauté Hakka, afin de mettre en valeur ses particularités culturelles, a présenté le tissu floral comme une tradition Hakka, ce qui ne correspond pas à la réalité historique[^2].
 
 Il est important de noter que les coutumes varient selon les régions Hakka. Dans certaines zones, la caractéristique principale est l'utilisation de tissus grossiers bleu foncé ou bleu-noir, destinés à la confection de vêtements de travail et de vêtements quotidiens. Ce tissu simple et durable reflète davantage la réalité de vie des ancêtres Hakka et incarne la qualité culturelle d'économie et de gestion avisée propre aux Hakka. Les tissus floraux aux couleurs éclatantes sont en réalité un produit de l'ère industrielle et leur lien avec la culture traditionnelle Hakka n'est pas particulièrement profond[^4].
 
@@ -143,10 +151,19 @@ Aujourd'hui, lorsque nous contemplons à nouveau ces pivoines éclatantes, ces c
 
 ---
 
+**Pour aller plus loin** :
+
+- [Teinture indigo](/fr/culture/indigo-dyeing) — un autre artisanat de teinture textile autrefois simplifié en symbole ethnique unique, dont on a ensuite découvert que les origines étaient plus complexes
+- [Artisanat traditionnel taïwanais et patrimoine culturel immatériel](/fr/culture/traditional-crafts-intangible-cultural-heritage) — le contexte institutionnel de préservation de l'artisanat auquel le tissu floral et la teinture indigo sont tous deux confrontés
+
 ## Références
 
 [^1]: [台灣花布 — wikis.tw](https://www.wikis.tw) — Histoire industrielle et documentation visuelle du tissu floral taïwanais
+
 [^2]: [《花樣時代：台灣花布的文化史》](https://www.books.com.tw/products/0010559973) — Chen Tsong-ping, étude sur l'histoire culturelle du tissu floral taïwanais
+
 [^3]: [《台灣花布：傳統與創新》](https://www.books.com.tw/products/0010462341) — Wu Qinggui, techniques artisanales traditionnelles et applications contemporaines
+
 [^4]: [客家委員會](https://www.hakka.gov.tw/) — Politiques culturelles Hakka et informations sur la recherche en culture textile
+
 [^5]: [國立臺灣工藝研究發展中心](https://www.ntcri.gov.tw/) — Informations sur la préservation et la promotion de l'artisanat traditionnel

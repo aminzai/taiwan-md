@@ -23,10 +23,10 @@ lastVerified: '2026-05-15'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:0c2424c76c2aa5da'
-sourceBodyHash: 'sha256:d61ffe9dcb3401b5'
-translatedAt: '2026-06-16T16:55:29Z'
+sourceCommitSha: '51eb3afd'
+sourceContentHash: 'sha256:b7c990c00c65ffb1'
+sourceBodyHash: 'sha256:7720c8db697d0d57'
+translatedAt: '2026-07-06'
 ---
 
 # 대만 전통공예와 무형문화자산: 제도적 인정은 왔지만, 도제는 사라졌다
@@ -103,7 +103,7 @@ _싼이 목조박물관 외관(먀오리현 싼이향 광성촌). 대만에서 �
 ## 정부가 살려낸 것이 아닌 공예: 싼샤 남염의 부흥
 
 ![싼샤구 역사문물관 안에 전시된 「남과 백 시리즈」 남염 의상은 싼샤 남염이 1996년 부흥한 뒤 가장 대표적인 당대 시각 기록이다](/article-images/culture/sanxia-indigo-display.webp)
-_싼샤구 역사문물관에 전시된 「남과 백 시리즈」 남염 의상. 싼샤가 1996년 부흥한 뒤 당대 남염이 어떻게 응용되었는지를 보여준다. Photo: Outlookxp, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
+_싼샤구 역사문물관에 전시된 「남과 백 시리즈」 남염 의상. 싼샤가 1996년 부흥한 뒤 당대 남염이 어떻게 응용되었는지를 보여준다. Photo: 寺人孟子, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
 
 싼샤, 옛 이름 싼자오융은 청 광서 연간 북대만에서 가장 중요한 염포업 중심지였다. 맑은 계류와 습한 산골짜기는 남염 식물인 대청, 즉 마람이 자라기에 알맞았고, 거리에는 염색 공방이 줄지어 있었다. 오늘날 싼샤라오제의 붉은 벽돌 입면은 그 시절 남염으로 부를 이룬 역사의 증거로 남아 있다.[^17]
 
@@ -228,7 +228,7 @@ _싼샤구 역사문물관에 전시된 「남과 백 시리즈」 남염 의상
 
 **더 읽을거리**:
 
-- [남염](/culture/藍染) — 싼샤 남염이 수출용 남색 금에서 1996년 민간 부흥으로 이어진 완전한 공예사
+- [남염](/culture/藍染) — 남염이 청대 수출 대종에서 1940년 거의 자취를 감추기까지, 지금은 싼샤·먀오리·타이핑·징랴오에서 각기 부흥하고 있는 완전한 공예사
 - [대만 꽃무늬 천](/culture/台灣花布) — 객가 붉은 꽃무늬 천이 일본 통치기 공장 제품에서 본토 문화의 상징으로 변모한 정체성의 여정
 - [종이우산](/culture/紙傘) — 메이눙 종이우산이 비를 막는 일용품에서 예술품으로 전환한 경로
 - [삿갓](/culture/斗笠) — 골풀 엮기와 대만 농촌 공예를 대표하는 기물
@@ -302,4 +302,4 @@ _싼샤구 역사문물관에 전시된 「남과 백 시리즈」 남염 의상
 
 - [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo: Outlookxp, 2013-07-20, CC BY-SA 3.0. 메이눙 위안샹위안 종이우산문화촌에 전시된 객가 유지를 바른 종이우산 무리로, 붉은색·노란색·검은색 등 우산 면의 색채가 함께 펼쳐져 메이눙 종이우산 공예를 대표하는 시각 기록 중 하나다.
 - [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: Anrew0517, 2010-05-01, CC BY-SA 3.0. 싼이 목조박물관(먀오리현 싼이향 광성촌) 외관으로, 대만에서 유일하게 목조를 주제로 한 공립박물관이다.
-- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: Outlookxp, CC BY-SA 4.0. 싼샤구 역사문물관 안에 전시된 「남과 백 시리즈」 남염 의상으로, 싼샤 남염이 1996년 부흥한 뒤 당대적으로 응용된 시각적 모습을 보여준다.
+- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: 寺人孟子, CC BY-SA 4.0. 싼샤구 역사문물관 안에 전시된 「남과 백 시리즈」 남염 의상으로, 싼샤 남염이 1996년 부흥한 뒤 당대적으로 응용된 시각적 모습을 보여준다.

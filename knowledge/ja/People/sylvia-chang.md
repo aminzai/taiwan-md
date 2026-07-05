@@ -11,10 +11,10 @@ lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/張艾嘉.md'
-sourceCommitSha: '0ea5d5d42'
-sourceContentHash: 'sha256:c32add211eceb078'
-sourceBodyHash: 'sha256:3260beec9e00487e'
-translatedAt: '2026-05-22T05:08:46+08:00'
+sourceCommitSha: '97e35f05'
+sourceContentHash: 'sha256:4dcfdcf5effc3d2c'
+sourceBodyHash: 'sha256:0b1d40b7bf6373a3'
+translatedAt: '2026-07-06'
 ---
 
 # 張艾嘉：嘉義から出発し、『童年』のオリジナル歌手から『相愛相親』の監督へ
@@ -81,7 +81,7 @@ translatedAt: '2026-05-22T05:08:46+08:00'
 
 嘉義の共和路から出発し、台北、香港、両岸の往来を経てきた張艾嘉の五十年は、直線的な成功物語ではありません。それは、一人の人間が異なる立場の間を移動し続け、どの心地よい位置にもとどまろうとしなかった記録です。台湾のエンターテインメント史において、彼女の名が示すのは、創作者が選び得る一つの生き方であり、一個人の業績という枠をはるかに超えるものです。
 
-**関連読書**：[張艾嘉 — Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [金馬奨データベース](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89)
+**関連読書**：[張艾嘉 — Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [金馬奨データベース](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [楊德昌](/people/楊德昌) — 彼女が主演した『海辺の一日』は楊德昌の初の長編劇映画
 
 ## 参考資料
 

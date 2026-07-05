@@ -11,9 +11,9 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: People/蔡明亮.md
-sourceCommitSha: 18157ab5d
-sourceContentHash: sha256:186f61e906714e37
-sourceBodyHash: sha256:c1d14969738eeca7
+sourceCommitSha: '97e35f05'
+sourceContentHash: 'sha256:f497de40f2ba1810'
+sourceBodyHash: 'sha256:c1d14969738eeca7'
 translatedAt: 2026-05-22T05:08:46+08:00
 ---
 

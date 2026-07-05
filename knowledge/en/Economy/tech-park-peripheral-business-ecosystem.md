@@ -5,14 +5,15 @@ date: '2026-05-18'
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '產業園區與商圈'
-tags: ['科技園區', '商圈經濟', '南港軟體園區', '內湖科技園區', '通勤', '都市規劃']
+tags:
+  ['科技園區', '商圈經濟', '南港軟體園區', '內湖科技園區', '通勤', '都市規劃']
 readingTime: '12'
 lastVerified: '2026-05-18'
 lastHumanReview: true
 featured: false
 translatedFrom: 'Economy/台灣科技園區外圍商圈生態.md'
-sourceCommitSha: '10c12c501'
-sourceContentHash: 'sha256:5188638d5f08c937'
+sourceCommitSha: 'cfaa22a5'
+sourceContentHash: 'sha256:516bf0a6d1966cf7'
 sourceBodyHash: 'sha256:96ee687ae59d6522'
 translatedAt: '2026-05-19T05:08:06+08:00'
 ---
@@ -87,13 +88,13 @@ Storefront rents around the parks have risen in tandem with park expansion. Rent
 
 Placing all five parks side by side makes the common structure and variations of the single-peak phenomenon clearer. The table below summarizes each park's employee scale, primary dining corridors, and dinner ecosystem:
 
-| Park | Employee Scale (Recent Years) | Primary Dining Corridors | Dinner Ecosystem |
-|---|---|---|---|
-| Nangang Software Park | ~24,000[^2] | Sanzhong Road, Yuanqu Street, Jingmao 2nd Road | Significantly contracted; most restaurants operate lunch-only |
-| Neihu Technology Park | ~100,000+[^1] | Ruiguang Road, Zhouzi Street, Jiangnan Street, Xing'ai Road | Partially sustained by extended Dazhi customer base |
-| Hsinchu Science Park | ~170,000 | Jinshan Street, Guanxin Road, Guangfu Road | Vibrant. Jinshan Street is an engineer "starter village" cluster[^5]; Guanxinli is one of the highest-average-income neighborhoods in Taiwan[^6] |
-| Central Taiwan Science Park | Tens of thousands | Within park: Keyuan 1st/2nd/3rd Roads, Zhongke Road; Peripheral: Xitun Road Section 3, Mi Pingfang, J-Mall | Within park, dining centers on the Zhongke Food Center; Xitun Road Section 3 commercial district sustained by dual customer base from Tunghai University and Fuke residential community |
-| Southern Taiwan Science Park | Tens of thousands | Within park: Park17 mall; Peripheral: Shanhua Old Street, Qing'an Temple commercial district | Within park, reliant on employee cafeteria and Park17; peripheral areas sustained by Shanhua's existing resident population rather than park employees[^10] |
+| Park                         | Employee Scale (Recent Years) | Primary Dining Corridors                                                                                   | Dinner Ecosystem                                                                                                                                                                        |
+| ---------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nangang Software Park        | ~24,000[^2]                   | Sanzhong Road, Yuanqu Street, Jingmao 2nd Road                                                             | Significantly contracted; most restaurants operate lunch-only                                                                                                                           |
+| Neihu Technology Park        | ~100,000+[^1]                 | Ruiguang Road, Zhouzi Street, Jiangnan Street, Xing'ai Road                                                | Partially sustained by extended Dazhi customer base                                                                                                                                     |
+| Hsinchu Science Park         | ~170,000                      | Jinshan Street, Guanxin Road, Guangfu Road                                                                 | Vibrant. Jinshan Street is an engineer "starter village" cluster[^5]; Guanxinli is one of the highest-average-income neighborhoods in Taiwan[^6]                                        |
+| Central Taiwan Science Park  | Tens of thousands             | Within park: Keyuan 1st/2nd/3rd Roads, Zhongke Road; Peripheral: Xitun Road Section 3, Mi Pingfang, J-Mall | Within park, dining centers on the Zhongke Food Center; Xitun Road Section 3 commercial district sustained by dual customer base from Tunghai University and Fuke residential community |
+| Southern Taiwan Science Park | Tens of thousands             | Within park: Park17 mall; Peripheral: Shanhua Old Street, Qing'an Temple commercial district               | Within park, reliant on employee cafeteria and Park17; peripheral areas sustained by Shanhua's existing resident population rather than park employees[^10]                             |
 
 A clear pattern emerges from the table: **whether peripheral dinner service survives depends almost entirely on whether there are engineer residential neighborhoods within one kilometer of the park**. Jinshan Street near Hsinchu Science Park, with its intact residential hinterland, has a restaurant ecosystem indistinguishable from a normal urban area. Sanzhong Road at Nangang Software Park, lacking residential capacity, can only sustain lunch. Xitun Road Section 3 near Central Taiwan Science Park is supplemented by Tunghai University's student population. Southern Taiwan Science Park relies on Shanhua's existing residents.
 

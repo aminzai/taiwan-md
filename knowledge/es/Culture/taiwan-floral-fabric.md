@@ -5,16 +5,24 @@ date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '族群文化'
-tags: ['cultura', 'hakka', 'textil', 'diseño', 'localización', 'renacimiento cultural']
+tags:
+  [
+    'cultura',
+    'hakka',
+    'textil',
+    'diseño',
+    'localización',
+    'renacimiento cultural',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: true
 featured: false
 translatedFrom: 'Culture/台灣花布.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:182944af338bcbd9'
-sourceBodyHash: 'sha256:4695e66c252e1f65'
-translatedAt: '2026-05-17T05:34:54+08:00'
+sourceCommitSha: 'a43cf915'
+sourceContentHash: 'sha256:e705ff8fd352624a'
+sourceBodyHash: 'sha256:993aeb722f2d750e'
+translatedAt: '2026-07-06'
 ---
 
 # El tejido floral taiwanés
@@ -55,7 +63,7 @@ Con el auge del movimiento de localización cultural en la década de 1990, el t
 
 En realidad, el tejido floral taiwanés nunca fue un artículo exclusivo de la comunidad hakka. Según la investigación en historia textil de Taiwán, los consumidores de tejido floral en las décadas de 1950 y 1960 incluían a todos los grupos étnicos: minnan, hakka y los procedentes de China continental. El ajuar de cada familia incluía sábanas de tejido floral, las mochilas de los niños podían estar hechas con estas telas; el tejido floral era un recuerdo cotidiano compartido por los taiwaneses de la época.
 
-La investigadora cultural Chen Tsung-ping señala en su libro *La era de los estampados* que la denominación «tejido floral hakka» podría tener su origen en la estrategia promocional del movimiento de revitalización cultural hakka de los años noventa. La comunidad hakka, para destacar sus particularidades culturales, presentó el tejido floral como una tradición propia, lo cual no se ajusta a los hechos históricos[^2].
+La investigadora cultural Chen Tsung-ping señala en su libro _La era de los estampados_ que la denominación «tejido floral hakka» podría tener su origen en la estrategia promocional del movimiento de revitalización cultural hakka de los años noventa. La comunidad hakka, para destacar sus particularidades culturales, presentó el tejido floral como una tradición propia, lo cual no se ajusta a los hechos históricos[^2].
 
 Cabe señalar que las costumbres hakka varían según la región. En algunas zonas, la característica principal era el uso de telas gruesas de color azul oscuro o azul-negro, destinadas a la confección de ropa de trabajo y prendas cotidianas. Este tipo de tela sencilla y resistente reflejaba la vida real de los antepasados hakka y encarnaba el rasgo cultural de la frugalidad y la administración diligente del hogar. Los tejidos florales de colores vibrantes eran, en cambio, un producto de la industria moderna, sin una vinculación profunda con la tradición cultural hakka[^4].
 
@@ -143,10 +151,19 @@ Hoy, cuando volvemos a contemplar esas vibrantes peonías, elegantes crisantemos
 
 ---
 
+**Lecturas complementarias**:
+
+- [Tinte índigo](/es/culture/藍染) — Otro oficio de tintorería que también fue simplificado como símbolo de un único grupo étnico y cuyos orígenes resultaron ser más complejos de lo que se pensaba
+- [Artesanía tradicional y patrimonio cultural inmaterial de Taiwán](/es/culture/台灣傳統工藝與無形文化資產) — El contexto del sistema de preservación de oficios al que se enfrentan tanto el tejido floral como el tinte índigo
+
 ## Referencias
 
 [^1]: [Tejido floral taiwanés — wikis.tw](https://www.wikis.tw) — Historia industrial del tejido floral taiwanés y material gráfico
-[^2]: [*La era de los estampados: historia cultural del tejido floral taiwanés*](https://www.books.com.tw/products/0010559973) — Chen Tsung-ping, estudio sobre la historia cultural del tejido floral taiwanés
-[^3]: [*El tejido floral taiwanés: tradición e innovación*](https://www.books.com.tw/products/0010462341) — Wu Ching-kuei, técnicas artesanales tradicionales y aplicaciones contemporáneas
+
+[^2]: [_La era de los estampados: historia cultural del tejido floral taiwanés_](https://www.books.com.tw/products/0010559973) — Chen Tsung-ping, estudio sobre la historia cultural del tejido floral taiwanés
+
+[^3]: [_El tejido floral taiwanés: tradición e innovación_](https://www.books.com.tw/products/0010462341) — Wu Ching-kuei, técnicas artesanales tradicionales y aplicaciones contemporáneas
+
 [^4]: [Comisión Hakka](https://www.hakka.gov.tw/) — Política cultural hakka e información sobre investigación textil
+
 [^5]: [Centro Nacional de Investigación y Desarrollo de Artesanías de Taiwán](https://www.ntcri.gov.tw/) — Información sobre preservación y promoción de artesanías tradicionales

@@ -11,10 +11,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:e6e208f3f61a399f'
-sourceBodyHash: 'sha256:cf28b2b23fb9b13c'
-translatedAt: '2026-05-16T22:19:52+00:00'
+sourceCommitSha: 'cfaa22a5'
+sourceContentHash: 'sha256:73894dd98c9e1eee'
+sourceBodyHash: 'sha256:96e60be7abecd0c6'
+translatedAt: '2026-07-06'
 ---
 
 > **30秒概観**
@@ -122,6 +122,10 @@ IoTの概念が台頭した後、アドバンテックは従来型の産業用�
 アドバンテックは、1983年に3人のヒューレット・パッカード出身エンジニアが起業した企業から、今日では27か国に拠点を持ち、産業用コンピューター市場のリーダーとなるまでに成長しました。これは台湾のハイテク産業における自社ブランド化の具体的な事例です。2023年の創立40周年に際し、董事長の劉克振が「AIoT + Edge Computing」への注力を宣言したことは、アドバンテックが自社の位置づけを明晰に判断していることを反映しています。すなわち、データ主権とリアルタイム演算の需要が高まる時代において、組み込みシステムにおける深い蓄積は、代替しがたい競争上の防衛線なのです。
 
 ---
+
+**関連記事**：
+
+- [AAMA 台北ゆりかご計画](AAMA台北搖籃計畫.md)：研華文教基金会はこの起業家メンターシップ計画の財団化における寄付者の一つであり、董事長の劉克振も同計画のメンターを務め、両者は共同で「AAMA AIoT 企業共創計画」を推進しています
 
 ## 参考資料
 

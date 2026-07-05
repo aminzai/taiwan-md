@@ -23,10 +23,10 @@ lastVerified: 2026-06-13
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:231f74765e63f2a2'
-sourceBodyHash: 'sha256:9f66d5babc12e260'
-translatedAt: '2026-06-17T01:18:25+08:00'
+sourceCommitSha: '6c4bccbc'
+sourceContentHash: 'sha256:69524f156c517009'
+sourceBodyHash: 'sha256:f474d40c72f846a7'
+translatedAt: '2026-07-06'
 ---
 
 # Taiwanese Cinema: The Person Speaking Beside the Screen, and a Film History That Died and Came Back to Life
@@ -127,7 +127,7 @@ Hou Hsiao-hsien went from _The Boys from Fengkuei_, _A Time to Live, a Time to D
 
 _Trailer for the 4K digital restoration of \_A City of Sadness_. In 1989, it won the Golden Lion in Venice and brought 228 seriously onto the big screen for the first time. In Taiwanese theaters that same year, however, domestic films were losing their audience.\_
 
-Edward Yang took another path. He filmed the city, urban alienation, and violence. After _That Day, on the Beach_ and _The Terrorizers_, his 1991 _A Brighter Summer Day_ ran 237 minutes in its original version and was adapted from a real juvenile murder case in 1961[^37]. In 2000, his _Yi Yi_ won Best Director at the 53rd Cannes Film Festival (note: Best Director, not the Palme d’Or)[^38]. On June 29, 2007, he died of colon cancer at the age of fifty-nine[^39]. His films influenced the American director Paul Thomas Anderson and Hirokazu Kore-eda[^40].
+Edward Yang took another path. He filmed the city, urban alienation, and violence. After _That Day, on the Beach_ and _The Terrorizers_, his 1991 _A Brighter Summer Day_ ran 237 minutes in its original version and was adapted from a real juvenile murder case in 1961[^37]. In 2000, his _Yi Yi_ won Best Director at the 53rd Cannes Film Festival (note: Best Director, not the Palme d’Or)[^38]. On June 29, 2007, he died of colon cancer at the age of fifty-nine[^39]. His films influenced Hirokazu Kore-eda[^40], and also Ryusuke Hamaguchi[^72].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/PxgrzNFwyqY" title="Yi Yi A One and a Two 4K digital restoration trailer" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -341,7 +341,7 @@ So the next time you see another headline saying “Taiwanese cinema is dead aga
 
 [^39]: [楊德昌 - 維基百科](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%BE%B7%E6%98%8C) — Edward Yang died of colon cancer on June 29, 2007, at age 59.
 
-[^40]: [楊德昌的國際影響 - BIOS Monthly](https://www.biosmonthly.com/) — Edward Yang’s works influenced Paul Thomas Anderson and Hirokazu Kore-eda.
+[^40]: [Hirokazu Kore-eda: I want to make my own _A City of Sadness_ — The Reporter](https://www.twreporter.org/a/2020-taipei-golden-horse-film-festival-hirokazu-koreeda) — In this 2020 Taipei Golden Horse Film Festival interview, Hirokazu Kore-eda recounts that the closet-and-flashlight scene in _Shoplifters_ is a homage to _A Brighter Summer Day_, and looks back on his 1993 visit to Taiwan to shoot documentaries on Hou Hsiao-hsien and Edward Yang.
 
 [^41]: [蔡明亮 - 維基百科](https://zh.wikipedia.org/wiki/%E8%94%A1%E6%98%8E%E4%BA%AE) — Tsai Ming-liang began with _Rebels of the Neon God_ in 1992 and uses a slow-cinema aesthetic to focus on loneliness and desire.
 
@@ -404,6 +404,8 @@ So the next time you see another headline saying “Taiwanese cinema is dead aga
 [^70]: [台灣電影史（日治時期）- 維基百科](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1) — In 1925, the Taiwan Cinema Research Society led by Liu Hsi-yang made _Whose Fault Is It?_, regarded as the first narrative film produced by Taiwanese people themselves (distinct from _The Buddha’s Pupil_ in 1922, directed by the Japanese director Tanaka Kinshi and involving Taiwanese actors).
 
 [^71]: [莎韻之鐘 - 維基百科](https://zh.wikipedia.org/wiki/%E8%8E%8E%E9%9F%B5%E4%B9%8B%E9%90%98) — The 1943 _Sayon’s Bell_, directed by Hiroshi Shimizu and starring Li Xianglan, was co-produced by Shochiku, Man’ei, and the Taiwan Governor-General’s Office, turning the 1938 drowning of the Atayal girl Sayon into imperialization propaganda.
+
+[^72]: [Ryusuke Hamaguchi on Edward Yang — Openbook Review](https://www.openbook.org.tw/article/p-67833) — At the press conference for the 2023 "Yi Yi Reconstructed: Edward Yang" retrospective, Ryusuke Hamaguchi described how, revisiting _A Brighter Summer Day_ after turning thirty, "it is a film that transcends film — as if it let me see the whole world."
 
 ## References
 
