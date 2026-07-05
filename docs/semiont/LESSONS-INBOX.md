@@ -314,6 +314,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-05 dna-audit — REFLEXES #56 於自身觸發檔復發 + DNA/pipeline 全審計五系統病歸檔
+
+- **pattern**: `canonical-production-drift-relapse`（#56 vc++ 材料）
+- **一句話**：SQUEEZE doc 停 v4.2 七週而 code 已 v4.3（owl-alpha 退出 default 25 天仍列 verified）；連 #56 的誕生觸發檔都復發，證明反射層「知道」擋不住讀取面沒有黃燈的腐化。全部證據與 38 條修補提案在 [reports/dna-pipeline-evolution-audit-2026-07-05.md](../../reports/dna-pipeline-evolution-audit-2026-07-05.md) §S1-S5，本 entry 是薄殼 pointer 供 distill 記帳，不複寫。
+- **觸發**：2026-07-05 dna-audit session（哲宇 goal directive 全審計）
+
 ### 2026-07-03 twmd-maintainer-pm — immune-chronic-11-cycle-subdim-offset-exhausted-observer-authorize-needed：免疫器官連 11 個 chronic cycle 卡在 49、REFLEXES #15 反覆浮現已 fired、sub-dim offset 補不住 → 呈報哲宇 A/B 決策
 
 - **pattern**: `immune-chronic-N-cycle-subdim-offset-exhaust`（quality gate baseline calibration × REFLEXES #15 反覆浮現閾值 × §自主權邊界 命中）
