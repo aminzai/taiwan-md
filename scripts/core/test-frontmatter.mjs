@@ -54,12 +54,34 @@ let passedFiles = 0;
 
 // In CI/staged mode, get list of changed .md files in knowledge/
 let changedFiles = null;
-if (CI_MODE || STAGED_MODE) {
+// Explicit-file mode (2026-07-05): TWMD_VALIDATE_FILES = 白/換行分隔的 knowledge/ 路徑。
+// PR frontmatter gate 用這條——workflow 自己算好精確的 PR changed-file 清單（3-dot
+// merge-base + fork fallback）餵進來，比讓本檔自己 git diff 準（避開「main 領先」的
+// 2-dot 誤判，per .github/workflows/pr-review.yml PR #582 post-mortem）。優先於 --ci/--staged。
+const EXPLICIT_FILES = process.env.TWMD_VALIDATE_FILES;
+if (EXPLICIT_FILES !== undefined) {
+  changedFiles = new Set(
+    EXPLICIT_FILES.split(/[\s\n]+/)
+      .map((f) => f.trim())
+      .filter((f) => f && f.startsWith('knowledge/') && f.endsWith('.md')),
+  );
+  if (changedFiles.size === 0) {
+    console.log(
+      '🔍 Explicit-file mode: no knowledge/ .md paths in TWMD_VALIDATE_FILES, skipping.\n',
+    );
+    process.exit(0);
+  }
+  console.log(
+    `🔍 Explicit-file mode: validating ${changedFiles.size} PR file(s)\n`,
+  );
+} else if (CI_MODE || STAGED_MODE) {
   try {
     const { execSync } = await import('node:child_process');
+    // CI base ref 可用 TWMD_DIFF_BASE 覆蓋（default HEAD~1 保 deploy.yml 行為不變）
+    const ciBase = process.env.TWMD_DIFF_BASE || 'HEAD~1';
     const cmd = STAGED_MODE
       ? 'git diff --cached --name-only --diff-filter=ACM -- knowledge/'
-      : 'git diff --name-only HEAD~1 -- knowledge/';
+      : `git diff --name-only ${ciBase} -- knowledge/`;
     const diff = execSync(cmd, { encoding: 'utf-8' });
     changedFiles = new Set(diff.trim().split('\n').filter(Boolean));
     const mode = STAGED_MODE ? 'Staged' : 'CI';
