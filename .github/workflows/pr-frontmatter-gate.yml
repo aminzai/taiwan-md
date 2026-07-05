@@ -129,9 +129,12 @@ jobs:
           [ "${PIPESTATUS[0]}" != "0" ] && STATUS="fail"
           echo "" | tee -a gate-result.txt
 
-          # 2) article-health：**逐檔**跑（多檔一次跑時，好檔的 summary 會蓋掉壞檔的
-          #    hard-fail、exit code 只反映最後一檔 — 2026-07-05 實測會漏抓，故逐檔）
-          echo "── article-health.py --profile=pre-commit（逐 zh-TW 檔：缺 frontmatter 區塊 / cjk-punct / footnote / wikilink / format）──" | tee -a gate-result.txt
+          # 2) article-health：**逐檔**跑 — 為了 PR 留言能逐檔標 🔴/✅ 歸屬（哪個檔壞）
+          #    + 穩健。註（2026-07-05 收官更正）：多檔一次跑的 exit code 其實**有**正確
+          #    aggregate（main() 是 sum(hard_count for all reports)，broken 在前在後都
+          #    exit 1）——本檔早前的 commit 訊息說「只反映最後一檔」是量測失誤（只看了
+          #    最後一檔的 Summary print 就誤判）。逐檔保留純為歸屬 UX，不是因為多檔會漏。
+          echo "── article-health.py --profile=pre-commit（逐 zh-TW 檔，方便逐檔標示：缺 frontmatter 區塊 / cjk-punct / footnote / wikilink / format）──" | tee -a gate-result.txt
           if [ -n "$(printf '%s' "$ZH_KN" | tr -d '[:space:]')" ]; then
             while IFS= read -r f; do
               [ -z "$f" ] && continue
