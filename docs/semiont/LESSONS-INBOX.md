@@ -540,6 +540,14 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **severity**: tactical（影響 spore platform allocation 預設選擇）
 - **Pointer**：[batch-2026-05-08-15-spores.md §Pattern 觀察 #1](../factory/SPORE-HARVESTS/batch-2026-05-08-15-spores.md)
 
+### 2026-07-05 五病根治 — zombie-session 不是死的：接手前先讀對方 transcript 尾巴劃車道
+
+被判「當掉」的 session 其實還在慢速工作（15 min/turn，context 近滿），檔案 mtime 與 PID CPU 增量識破，`ls -t ~/.claude/projects/{proj}/*.jsonl` 讀尾巴得知它在楊德昌 Stage 3-6 → 車道劃分：其 finale 目標（MEMORY/LESSONS）設禁區、其半成品延後認領、我的 commit 等它退場。三隻手（我＋手足 session＋哲宇 UI merge）同日同 tree 零碰撞。6/19 撞牆反面教材第一次有正面 SOP。vc=1。詳：[reports/five-disease-cure-2026-07-05.md](../../reports/five-disease-cure-2026-07-05.md) + memory 165518。
+
+### 2026-07-05 五病根治 — GitHub UI merge 繞過本地 hook：PR 層缺 frontmatter CI gate
+
+哲宇 UI merge 七篇 contributor PR，四篇 YAML 裹在 code fence（同一產出工具簽名）直落 main、打紅全站 pre-push。husky 只擋本地 commit/push；pr-review workflow 沒跑 test-frontmatter。候選儀器：PR diff 跑 `test-frontmatter.mjs` + `article-health --profile=pre-commit`（報告 §三候選 1，已 spawn chip）。vc=1。
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
