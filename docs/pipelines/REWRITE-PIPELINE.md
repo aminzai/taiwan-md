@@ -3,9 +3,9 @@ title: 'REWRITE-PIPELINE'
 description: '文章改寫主流程 canonical — 6 stage 線性 (Stage 0 觀點 + 1-5 取材/寫/驗/形/連) / 模式判定在 Stage 0 內部分支 / Step N.M 編號 / heading 階層 H1-H4 / 翻譯收斂為 pointer 到巴別塔 (v6.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v7.8'
-last_updated: 2026-07-05
-last_session: '2026-07-05-200510-柯智棠健檢'
+current_version: 'v7.9'
+last_updated: 2026-07-06
+last_session: '2026-07-05-220917-INDIGO-REWRITE'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -524,61 +524,36 @@ cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 
 見下方 §類型加權矩陣。
 
-#### Step 0.6.1-bis: 20 路 persona 切入點（多 sub-agent 發散）⭐ v7.1 新增
+#### Step 0.6.1-bis: 20 路 persona 切入點（[PERSONA-PIPELINE](PERSONA-PIPELINE.md) thin caller）⭐ v7.1 新增，v7.9 收斂為薄殼
 
 > **depth article 必跑——跟 0.6.1 同觸發（非 conditional，不像 0.2-bis / 3.2-bis 要 callout 才啟動）。**
 > 0.6.1 是「總編輯一顆腦袋」自問六題；本 step 借 20 顆不同的腦袋，把研究入射角從 6 撐到 20+。
-> ⚠️ **本 step 是「額外發散」，不是 Stage 0 的全部、也不取代任何研究**（2026-06-13 哲宇 callout）：persona 只生成問題、不做 research（見 §Cost guard）。召喚完 persona **仍必須做 0.6.1 六核心問題 + 0.6.4 ≥ 20 次探索搜尋**——那才是初步研究本體。**只跑 persona 跳過探索研究 = 跳階段。**
+> ⚠️ **本 step 是「額外發散」，不是 Stage 0 的全部、也不取代任何研究**（2026-06-13 哲宇 callout）：persona 只生成問題、不做 research。召喚完 persona **仍必須做 0.6.1 六核心問題 + 0.6.4 ≥ 20 次探索搜尋**——那才是初步研究本體。**只跑 persona 跳過探索研究 = 跳階段。**
+
+**Implementation canonical 在 [PERSONA-PIPELINE.md](PERSONA-PIPELINE.md)**（20 archetypes 原型表 §1 / call contract + 4-agent 平行實作 §2 / mode 定義 §3 / reuse-from-report SSOT 規則 §4 / cost guard §5，per [REFLEXES #42](../semiont/REFLEXES.md) + #31）。persona 是誰、4 agent 怎麼平行跑、輸出 schema 長怎樣——這些規則改了本節自動繼承新版本，不在此重複，per [MANIFESTO §指標 over 複寫](../semiont/MANIFESTO.md#我的進化哲學--指標-over-複寫)。本節只留三件 REWRITE 專屬的事：為什麼六題不夠、呼叫參數、輸出併回 REWRITE 自己 Stage 0 流程之後怎麼處理。
 
 **為什麼六題不夠**：六個核心問題都從**同一個總編輯視角**長出，受同一套編輯品味 prime——問的是「我（策展人）覺得哪裡重要」。真實讀者不是策展人：12 歲小孩、在台日本人、政治冷感的工程師、海外台僑二代、會挑硬傷的領域專家，同一題目腦裡冒出的第一個問題天差地別，且常正好落在六題沒問到的角。只答六題 → 研究收斂到「編輯覺得重要的」，系統性漏掉「讀者真正好奇的」。這不是求 20 個答案，是求 **20 個不同的「往哪裡挖」**——神經迴路「Stage 1 的 20+ 是 anchor 密度不是數量」的 Stage 0 版。
 
 **Worked example（本 step 的誕生事件，2026-06-13《看不見的國家》）**：文章 ship 後哲宇追問三題——「這部片對台灣有什麼**影響**？後續有哪些**心得**？有哪些相關的人/專案**還在努力**？」這正是「關心台灣、想立體認識的成年讀者」persona 會問的，而 0.6.1 六題沒覆蓋（六題問記憶/面貌/感受/脈絡/關聯/類型，沒問「上映後的世界後續 + 現在還在動的人」）。三題直接觸發 EVOLVE，長出兩節、4800→6630 字升 S 級。**這個入射角本該 Stage 0 就列入，卻等 ship 後才補。本 step 把「觀察者會不會追問」這個外部依賴，內化成 Stage 0 的自動發散。**
 
-**怎麼跑**（per [REFLEXES #42](../semiont/REFLEXES.md)：平行不 sequential / 落檔 hard gate / 主 session merge+audit / ❌✅ 反例對照）：
-
-派 **4 個 Sonnet sub-agent 平行**（single message 一次 4 call，**禁 sequential**——#42 偷吃步 1「合併查」防護），每 agent 領一條軸、生成 5 persona，合計 20。A/C/D 預設台灣在地、B 是外國/離散視角（哲宇「有些台灣有些外國」）：
-
-| Agent | persona 軸 | 5 persona（範本，依題目微調；性別/家庭角色在軸內自然分布）                                     |
-| ----- | ---------- | ---------------------------------------------------------------------------------------------- |
-| **A** | 年齡       | 12 歲國小生 / 18 歲高中生 / 35 歲雙寶媽 / 55 歲計程車司機 / 78 歲阿公                          |
-| **B** | 國籍·距離  | 打工度假法國人 / 美國大學東亞系生 / 日本上班族 / 印尼移工 / 海外台僑二代                       |
-| **C** | 社會處境   | 工廠藍領 / 中小企業老闆娘 / 社運參與者 / 政治冷感工程師 / 體制內公務員                         |
-| **D** | 與題目關係 | 領域專家（挑硬傷）/ 完全新手（問最基本）/ 反方立場（挑戰 framing）/ 情感投入者（問「然後呢」） |
-
-- 每 persona 出 **1-3 個「聽到這題我第一個想問的問題」** + 一句自介（讓問題可追溯誰在問）。
-- agent 拿到的 context = **題目 brief**（標題 + observer directive 一句 framing；EVOLVE 可加既有 30 秒概覽），**不給完整研究 / 舊文**——要的是冷反應、naive 好奇。
-- 性別維度（哲宇 directive）：每軸 5 人**自然涵蓋不同性別 + 家庭角色**，**不另設「性別軸」**（避免本質化），在自介裡標。
-
-輸出 schema（結構化，主 session 才 merge 得動）：
+**呼叫方式**（完整 contract 見 [PERSONA-PIPELINE §2](PERSONA-PIPELINE.md)）：
 
 ```
-- persona: {一句自介，含年齡/背景/性別}
-  questions: [1-3 題]
-  why: {這個人在意什麼，所以會問這些}
+call PERSONA-PIPELINE:
+  subject_brief: 題目 brief（標題 + observer directive 一句 framing；EVOLVE 可加既有 30 秒概覽）
+  mode: research-diverge
+  profile_set: default 20
 ```
 
-**主 session merge + 落檔**（#42 偷吃步 3 落檔 hard gate + #31 不盲信 agent）：
+**輸出併回 REWRITE 流程（本節唯一 REWRITE-specific 邏輯——實作細節、agent null 補救見 PERSONA-PIPELINE §2）**：
 
-1. 收 4 agent 輸出；某 agent null / 缺軸 → #31 不盲信「全綠」，缺的軸主 session 自補 5 persona，不靜默少一軸。
-2. dedup / cluster 落 research report §觀點成型 的 **§20 路 persona 切入點** sub-section（格式見 Step 0.6.5）。
-3. **每題標分類（把問題轉成研究 action 的閘——不分類 = 裝飾）**：
-   - 🆕 **新入射角**——六題沒覆蓋 → **merge 進既有 §切入點清單 + §研究方向**，Stage 1 必取材
-   - ✅ **已被六題覆蓋**——記錄不重複
-   - ⛔ **超出本篇 scope**——落 `rationale.whats_excluded`，誠實標「讀者會問但本篇不答，因為 X」
+1. 收 PERSONA-PIPELINE 回傳的 20 persona，dedup / cluster 落 research report §觀點成型 的 **§20 路 persona 切入點** sub-section（格式見 Step 0.6.5）。
+2. 每題標分類（分類規則定義在 [PERSONA-PIPELINE §3](PERSONA-PIPELINE.md) research-diverge mode，此處只接線回 REWRITE 自己的文件）：🆕 新入射角 → merge 進 REWRITE 的 §切入點清單 + §研究方向，Stage 1.1 搜尋 coverage 自然含它們；✅ 已被六題覆蓋 → 記錄不重複；⛔ 超出本篇 scope → 落 `rationale.whats_excluded`。
+3. Stage 0 收尾 checklist 多一條驗收（persona pool 已落檔，見下）。
 
-**下游接線**（規則要能執行才算規則，#15）：🆕 題併入 §切入點清單 → Stage 1.1 搜尋 coverage 自然含它們（不另開平行 checklist）；⛔ 題 → whats_excluded（同 Step 1.4.5 perspective scan 的誠實機制）；Stage 0 收尾 checklist 多一條驗收。
+**Cost guard**：觸發同 0.6.1；Micro / heal / 純翻譯不跑。其餘 cost 機制（4 agent 短輸出只發散不 research、reuse-from-report 優先於重新 spawn）見 [PERSONA-PIPELINE §5](PERSONA-PIPELINE.md)。
 
-**Cost guard**：4 agent × 短輸出（5 persona × 1-3 題），**只發散問題、不做 research**（避免變成 4 條平行 Stage 1）。觸發同 0.6.1；Micro / heal / 純翻譯不跑。
-
-**❌ 反例 → ✅ 正解**（per #42 v3，明禁詮釋變體）：
-
-| ❌                                           | ✅                                                         |
-| -------------------------------------------- | ---------------------------------------------------------- |
-| 1 agent sequential 生 20 persona             | 4 agent 平行各 5（single message multi-call）              |
-| persona 問題直接當研究清單                   | 每題標 🆕/✅/⛔，只 🆕 進 §切入點清單                      |
-| agent 拿完整研究 / 舊文 → 問「研究後」的問題 | 只給題目 brief，問冷反應 naive 問題                        |
-| 設「性別軸」湊 2 男 2 女                     | 性別在 4 軸內自然分布                                      |
-| 20 題 list 進報告就算 done                   | 🆕 merge 進切入點清單 + Stage 1 取材，⛔ 進 whats_excluded |
+**REWRITE 專屬反例**（sub-agent 派工的通用反例表見 [PERSONA-PIPELINE §2](PERSONA-PIPELINE.md)「❌ 反例」）：persona 問題直接當研究清單去搜 → 應該每題先標 🆕/✅/⛔，只有 🆕 才進 §切入點清單接 Stage 1 取材。
 
 #### Step 0.6.2: 七個品質維度 anchor
 
@@ -2460,8 +2435,11 @@ _v6.0 | 2026-05-11 admiring-montalcini-ec53b4 — Stage 0 觀點獨立 stage：�
 
 _v5.0 | 2026-05-11 admiring-cohen-8b68fc — Stage spine restoration：heading 階層 H1-H4 統一深度（文件 H1 / Stage H2 / Step H3 / sub-step H4）+ Step 編號正規化 N.M（解 v4.1 `## Step A-X` 5 套並排 grep collision）+ ASCII spine 顯化在頂部 + Stage 6 翻譯維持 v4.1 抽掉狀態指向巴別塔。觸發：哲宇 callout「用 v4 的精神進化 v3 — 所有步驟都是相同的，每篇都要跑過，只有第一個步驟有判定模式」。設計理由：[reports/rewrite-pipeline-v5-stage-spine-design-2026-05-11.md](../../reports/rewrite-pipeline-v5-stage-spine-design-2026-05-11.md)。_
 
+_v7.9 | 2026-07-06 INDIGO-REWRITE — **Step 0.6.1-bis 收斂為 PERSONA-PIPELINE 薄殼 pointer**：PERSONA-PIPELINE.md 誕生於 2026-06-13（v1.0），自己的 §6 callers 表早就宣告「REWRITE Step 0.6.1-bis v7.2 thin caller」，但 v7.3 到 v7.8 六次版本升級都沒真的把 inline 邏輯拔掉：20 archetypes 原型表、4-agent call contract、輸出 schema、cost guard、❌✅ 反例表全部繼續留在 REWRITE 自己身上，跟 PERSONA-PIPELINE canonical 平行存在一年沒被抓到（[REFLEXES #56](../semiont/REFLEXES.md) pipeline canonical ↔ production drift 的具體案例）。逐句對照兩份文件後發現這份 inline 副本已經漂移：D 軸少列一個「再現主權敏感者」原型（canonical §1 有 5 個、inline 只剩 4 個卻仍宣稱 5 persona）、完全沒提 PERSONA-PIPELINE §4 的 reuse-from-report SSOT 規則（persona pool 算一次、多 caller 共享，SPORE-PIPELINE 的 hook-select 早就靠這條規則在 reuse，REWRITE 自己的文件卻沒讓讀者知道這件事存在）。修法：把 Step 0.6.1-bis 改寫成真正的薄殼，只留 REWRITE 專屬的三件事（為什麼六題不夠的編輯理由、呼叫 PERSONA-PIPELINE 的參數、輸出併回 REWRITE 自己 Stage 0 流程之後的分類/落檔/下游接線），20-persona 原型表、4-agent 實作細節、輸出 schema、cost guard、通用反例表全部改成指向 [PERSONA-PIPELINE.md](PERSONA-PIPELINE.md) 對應章節。Grep 過 SPORE-PIPELINE.md（已是正確 thin caller，§階段 1 PICK 的「persona 切入點 consult」step）、ROUTINE.md、`.claude/skills/` 全目錄，確認沒有第二份複製。純文件整併，不改任何 runtime 行為。對應 [MANIFESTO §我的進化哲學 — 指標 over 複寫](../semiont/MANIFESTO.md#我的進化哲學--指標-over-複寫) 薄殼鐵律三條 + REFLEXES #56。_
+
 _最近 milestone（完整 changelog → `git log docs/pipelines/REWRITE-PIPELINE.md`）_：
 
+- **v7.9**（2026-07-06 INDIGO-REWRITE）— Step 0.6.1-bis 收斂為 PERSONA-PIPELINE 薄殼 pointer：修一年沒被抓到的 canonical↔production drift（PERSONA-PIPELINE v1.0 早宣告 thin caller，v7.3-v7.8 六次版本升級都沒真的拔掉 inline 副本，且副本已漂移：D 軸少一個原型、沒提 reuse-from-report 規則）。SPORE-PIPELINE / ROUTINE / skills 全目錄 grep 確認無第二份複製。守 REFLEXES #56 + MANIFESTO §指標 over 複寫
 - **v7.8**（2026-07-05 柯智棠健檢 round 2）— 收件 gate 儀器化：新儀器 agent-report-health.py 驗每份分部報告（壓縮嫌疑/存放位置/軌跡密度/五段結構，疑慮附為什麼+思考方向）+ research-report-health v2.1 主 report 疑慮通知層 + Step 1.8-bis 步 2 儀器化。真實 corpus 校準：4 壓縮版全攔 / 8 真 final 全過。守 REFLEXES #81 + #15 + #66 + #69
 - **v7.7**（2026-07-05 柯智棠健檢）— Async agent 時代 raw 保全：鐵律 8 禁 orchestrator aggregate-on-receive / Step 1.8-bis 三步 SOP（agent 自落檔＋notification 先落檔＋gate 收口）/ research-report-health v2 兩條 hard gate（§8 有效密度 + ephemeral pointer）。三病例：柯智棠（救回）/ 蘇打綠（救回）/ 醫療（5 份 raw 永久蒸發）。守 REFLEXES #42 + #31 + #22 + #15
 

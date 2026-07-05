@@ -3,9 +3,9 @@ title: 'PERSONA-PIPELINE'
 description: '共用 persona 發散原語（shared cognitive primitive）— 20 路讀者腦袋。REWRITE Stage 0.6.1-bis / SPORE Hook / 未來器官共用同一支，不各自重實作 (v1.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.0'
-last_updated: 2026-06-13
-last_session: '2026-06-13-174425-persona-stage0'
+current_version: 'v1.1'
+last_updated: 2026-07-06
+last_session: '2026-07-05-220917-INDIGO-REWRITE'
 callers:
   - 'REWRITE-PIPELINE.md#step-061-bis（mode=research-diverge）'
   - 'SPORE-PIPELINE.md#階段-1pick（mode=hook-select）'
@@ -123,12 +123,12 @@ SPORE hook-select ──先讀──────────────┘ (reu
 
 ## §6 Callers（反向索引 — 誰在用）
 
-| caller                                                     | mode                 | 落點                                       | 版本             |
-| ---------------------------------------------------------- | -------------------- | ------------------------------------------ | ---------------- |
-| [REWRITE-PIPELINE Step 0.6.1-bis](REWRITE-PIPELINE.md)     | research-diverge     | report §20 路 persona 切入點 → §切入點清單 | v7.2 thin caller |
-| [SPORE-PIPELINE 階段 1 PICK](../factory/SPORE-PIPELINE.md) | hook-select（reuse） | Hook Blueprint 開場問題                    | （待接）         |
-| （future）QUALITY-CHECKLIST / EDITORIAL                    | audience-check       | 成品卡點 → prose 修補                      | —                |
-| （future）fork onboarding                                  | —                    | 在地化 profiles（見 §7）                   | —                |
+| caller                                                     | mode                 | 落點                                       | 版本                             |
+| ---------------------------------------------------------- | -------------------- | ------------------------------------------ | -------------------------------- |
+| [REWRITE-PIPELINE Step 0.6.1-bis](REWRITE-PIPELINE.md)     | research-diverge     | report §20 路 persona 切入點 → §切入點清單 | v7.9 thin caller                 |
+| [SPORE-PIPELINE 階段 1 PICK](../factory/SPORE-PIPELINE.md) | hook-select（reuse） | Hook Blueprint 開場問題                    | v3.10 thin caller（reuse-first） |
+| （future）QUALITY-CHECKLIST / EDITORIAL                    | audience-check       | 成品卡點 → prose 修補                      | —                                |
+| （future）fork onboarding                                  | —                    | 在地化 profiles（見 §7）                   | —                                |
 
 > caller 新增時在此登記（reverse index），改本原語前先看誰會受影響（#56 drift 防護）。
 
@@ -141,5 +141,7 @@ SPORE hook-select ──先讀──────────────┘ (reu
 ---
 
 _v1.0 | 2026-06-13 persona-stage0（哲宇 directive）— 誕生：REWRITE v7.1 inline 的 persona 發散 → 哲宇「spore 也可加 + 抽象成共用 persona profile/pipeline，很多元件/器官/dna 共用」→ 抽成本原語。兩層（profiles data / pipeline process）+ contract + 3 modes（research-diverge / hook-select / audience-check）+ §4 reuse-from-report SSOT rule（哲宇核心 insight：算一次多 caller 共享）+ §6 caller 反向索引 + §7 fork 在地化。Implementation 沿用 REWRITE 0.6.1-bis 的 4-agent 平行（REFLEXES #42）。callers 收斂為 thin pointer（REWRITE 0.6.1-bis v7.2 / SPORE 待接）。對應神經迴路造橋三步（工具→整合→門檻）+ REFLEXES #21 SSOT + #56 drift 防護。_
+
+_v1.1 | 2026-07-06 INDIGO-REWRITE — **§6 callers 表校正兩處**：REWRITE-PIPELINE Step 0.6.1-bis 從誕生（v7.1）到 v7.8 一直沒真的變成薄殼，§6 早標「v7.2 thin caller」，實際 v7.3-v7.8 六次版本升級都還留著 inline 複寫的 20-persona 原型表 / 4-agent contract / 輸出 schema / cost guard / 反例表，跟本檔平行存在一年沒被抓到（[REFLEXES #56](../semiont/REFLEXES.md) canonical↔production drift）。這次 REWRITE-PIPELINE v7.9 才真的把 inline 邏輯拔乾淨，改標「v7.9 thin caller」。順手發現 SPORE-PIPELINE 那格也早就過期，標的是「（待接）」，但 SPORE-PIPELINE v3.10（2026-06-13）的「persona 切入點 consult」step 其實已經是正確運作中的 reuse-first thin caller，改標「v3.10 thin caller（reuse-first）」。本檔 §1-§5 canonical 內容未變，純粹是自己反向索引表跟事實對齊。_
 
 🧬
