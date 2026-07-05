@@ -122,6 +122,50 @@ TIERS = {
     "hub": (5, 1, 1, 0, 0, 0),
 }
 
+# ── 疑慮通知層（v2.1 — 哲宇 directive「通知呼叫 session 為什麼 + 思考方向」）─────
+# key = check name 前綴。每條 fail/warn 印「為什麼 + 思考方向」，給 orchestrator 決策用。
+WHY_DIRECTIONS = {
+    "distinct 來源數": (
+        "來源太少 = 研究廣度不足或軌跡被壓縮掉（URL 隨軌跡一起蒸發是柯智棠病的副作用）",
+        ["先驗 §8 raw 是否完整——軌跡在，來源數自然回來", "真的搜不夠 → 回 Stage 1 補搜，別灌水湊數"]),
+    "英文/國際/學術來源": (
+        "57% 歷史報告英文來源 = 0 的系統病；本土題目合法偏低，但 0 通常是沒搜過不是搜不到",
+        ["英文媒體對台灣題常有外部視角與反方素材（Asian Pop Weekly / Focus Taiwan / 學術庫）",
+         "sovereignty-sensitive 題目英文來源特別重要——外媒是 PRC 資訊迴避的對照組"]),
+    "一手/官方/學術來源": (
+        "二手轉述堆疊 = 幻覺溫床；獎項/法規/數據類 atom 沒有一手 = 不可信",
+        ["政府 .gov.tw / 官方頻道 / 學術庫優先", "高風險 atom（引語/獎項/日期）逐條回查一手"]),
+    "搜尋日誌/方法論 section": (
+        "沒有方法論 = 無法區分「研究做滿」和「材料丟了」，report 喪失 SSOT 資格",
+        ["從各 agent 分部報告的軌跡段彙整", "跑 agent-report-health.py 逐份驗分部報告"]),
+    "信度三層系統": (
+        "沒有信度分層 = writer 無法分辨哪些 atom 能直寫、哪些要轉述、哪些不能碰",
+        ["每條 finding 標 高信度(≥2源)/單源/未驗證", "未驗證 atom 落 §5 護欄"]),
+    "報告行數": (
+        "SSOT 厚度不足通常是 raw 蒸發的下游症狀，不是寫得精煉",
+        ["先看 §8 raw 有效密度那條——那裡才是根因", "行數達標但 §8 薄 = 摘要膨脹，一樣有問題"]),
+    "§8 raw 有效密度": (
+        "§8 是 raw 唯一合法的家（inline 或 repo sibling 檔）。密度不足 = agent 軌跡沒進 SSOT，"
+        "讀者勘誤時追不回「當時哪個 query 查到什麼」。柯智棠病：4 agent 各 20KB 軌跡被壓成 9 行 pointer",
+        ["逐份跑 agent-report-health.py 找哪隻 agent 的 raw 缺席",
+         "從 task-notification <result> 或 subagent transcript（tasks/*.output symlink）救援 verbatim 落檔",
+         "分檔 pattern（{slug}-research-N.md）也合法——確認 sibling 檔存在且非壓縮版"]),
+    "raw pointer 指向 ephemeral": (
+        "tmp 與 scratchpad 是倒數計時的刪除佇列。台灣醫療與全民健保 5 份 raw 寫著「永久存放」，一個月後全數蒸發",
+        ["趁 transcript 還在立刻救援：把內容 verbatim 搬進 §8 或 repo sibling 檔",
+         "刪掉 ephemeral pointer，換成 repo 內路徑"]),
+    "§8 pointer 指向不存在的檔": (
+        "斷鏈 pointer = raw 可能已遺失，或路徑寫錯",
+        ["先確認是路徑錯還是檔案真沒了；真沒了且 transcript 也不在 → 補墓碑註記誠實記錄缺口"]),
+}
+
+
+def concern_for(name):
+    for prefix, (why, directions) in WHY_DIRECTIONS.items():
+        if name.startswith(prefix):
+            return why, directions
+    return None, []
+
 
 def analyze_s8(txt: str, report_path: Path):
     """§8 raw 有效密度 = inline 行數 + 指向存在的 repo 內 .md 檔行數合計。
@@ -322,10 +366,16 @@ def main():
     results, hard_fail, warn = grade(m, args.tier)
 
     if args.json:
+        concerns = []
+        for name, got, need, sev, ok in results:
+            if not ok:
+                why, directions = concern_for(name)
+                concerns.append(dict(check=name, severity=sev, got=got,
+                                     expect=need, why=why, directions=directions))
         print(json.dumps(
             dict(file=str(p), tier=args.tier, metrics=m,
                  hard_fail=hard_fail, warn=warn,
-                 passed=(hard_fail == 0)),
+                 passed=(hard_fail == 0), concerns=concerns),
             ensure_ascii=False, indent=2))
         sys.exit(0 if hard_fail == 0 else 1)
 
@@ -335,6 +385,19 @@ def main():
         icon = "✅" if ok else ("🔴" if sev == "hard" else "⚠️ ")
         bar = "" if ok else f"  (需 {need})"
         print(f"   {icon} {name}: {got}{bar}")
+    # 疑慮通知層（v2.1）：每條未過的檢查附「為什麼 + 思考方向」給呼叫 session
+    failures = [(n, g, nd, s) for n, g, nd, s, ok in results if not ok]
+    if failures:
+        print("\n   ── 疑慮通知（給呼叫 session）──")
+        for name, got, need, sev in failures:
+            why, directions = concern_for(name)
+            if not why:
+                continue
+            icon = "🔴" if sev == "hard" else "⚠️ "
+            print(f"   {icon} [{name}: {got}，需 {need}]")
+            print(f"      為什麼：{why}")
+            for i, d in enumerate(directions, 1):
+                print(f"      方向 ({i})：{d}")
     verdict = "PASS" if hard_fail == 0 else "FAIL"
     print(f"\n   Summary: hard_fail={hard_fail} warn={warn}  → {verdict}")
     if hard_fail:

@@ -3,9 +3,9 @@ title: 'REWRITE-PIPELINE'
 description: '文章改寫主流程 canonical — 6 stage 線性 (Stage 0 觀點 + 1-5 取材/寫/驗/形/連) / 模式判定在 Stage 0 內部分支 / Step N.M 編號 / heading 階層 H1-H4 / 翻譯收斂為 pointer 到巴別塔 (v6.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v7.7'
+current_version: 'v7.8'
 last_updated: 2026-07-05
-last_session: '2026-07-05-柯智棠健檢-agent-dispatch'
+last_session: '2026-07-05-200510-柯智棠健檢'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -118,7 +118,8 @@ upstream_canonical:
 | **§觀點成型落檔**                       | Stage 0 終 | depth article                                        | **`research-report-health.py {report} --stage 0`**（v7.3 儀器化三件套：觀點成型 + viewpoint_formed + 六核心結構 ≥4/6 + persona + 搜尋日誌 + ≥10 來源 proxy）。**persona-only（缺 ≥20 探索 → ~0 來源）= FAIL**                                                                                                         | **不進 Stage 1**           |
 | 核心矛盾鎖                              | Stage 1 終 | 所有 depth                                           | research report frontmatter manual                                                                                                                                                                                                                                                                                    | 不進 Stage 2               |
 | 研究報告落檔                            | Stage 1 終 | depth ≥ 2000 字                                      | manual ls + frontmatter `researchReport`                                                                                                                                                                                                                                                                              | 不進 Stage 2               |
-| **研究報告 SSOT health** 🔬             | Stage 1 終 | **所有 depth**                                       | `research-report-health.py --tier=depth`（distinct≥25 / en≠0 / 一手≠0 / 搜尋日誌 / 信度三層 / raw §8）                                                                                                                                                                                                                | **不進 Stage 2**           |
+| **分部報告收件 gate** 📨                | Stage 1 中 | **每個研究 agent 回報、收到當下**                    | **`agent-report-health.py {file} --claimed {配額}`**（v7.8 儀器化 Step 1.8-bis 步 2：存放位置 repo 內 / 體積 ≥8KB / 逐條軌跡 section + ≥10 行 / 宣稱 vs 記錄比 / 五段結構 / ephemeral 引用；壓縮嫌疑=FAIL，每條疑慮附為什麼+思考方向）                                                                                | **不准開始合成 §6**        |
+| **研究報告 SSOT health** 🔬             | Stage 1 終 | **所有 depth**                                       | `research-report-health.py --tier=depth`（distinct≥25 / en≠0 / 一手≠0 / 搜尋日誌 / 信度三層 / **v2 §8 有效密度 ≥120 + ephemeral pointer=0**；v2.1 疑慮通知層：每條 fail/warn 附為什麼+思考方向）                                                                                                                      | **不進 Stage 2**           |
 | 媒體授權矩陣三表                        | Stage 1 終 | 所有 article（**含 EVOLVE**）                        | manual append research 檔末尾 + ls public/article-images/{cat}/                                                                                                                                                                                                                                                       | 不進 Stage 2               |
 | **深度媒體掃描協議** 🔍🎬               | Stage 1 終 | **所有 depth（含 EVOLVE）**                          | [Step 1.9.0](#step-190-深度媒體掃描協議hardv68-)：Chrome MCP rendered-DOM 圖掃（curl/WebFetch 對 JS-CDN 失效）+ YouTube 官方頻道影片掃；no-media 結論前必跑，落 §6 negative finding                                                                                                                                   | **不進 Stage 2**           |
 | 五指 + 結構 + 塑膠 + 算術               | Stage 3    | 所有 article                                         | quality-scan + manual                                                                                                                                                                                                                                                                                                 | 不 commit                  |
@@ -993,7 +994,7 @@ v6.3 多 agent 編排叫主 session「合成去重成 clean fact-pack」，但�
 python3 scripts/tools/research-report-health.py reports/research/YYYY-MM/{slug}.md --tier=depth
 ```
 
-驗收（depth tier）：distinct 來源 ≥ 25 / **英文來源 ≠ 0**（理想 ≥ 5）/ **一手來源 ≠ 0**（理想 ≥ 5）/ 有搜尋日誌 section / 信度標記 ≥ 8 / 行數 ≥ 300 / **§8 raw 有效密度 ≥ 120 行**（v2 HARD — inline 行數＋指向存在的 repo 內 raw 檔行數合計，單檔楊德昌型與分檔金曲獎型都認）/ **ephemeral pointer = 0**（v2 HARD — §8 指 /tmp 或 scratchpad 直接 FAIL）。**hard_fail > 0 = 不進 Stage 2**（回去補搜尋 + 把原始軌跡寫回 SSOT）。儀器化背景：把 §Step 1.1 的 4 條來源配額從 aspirational 變可量測（REFLEXES #15）；v2 兩條把 §鐵律 8「orchestrator aggregate-on-receive」從紀律變閘門——柯智棠病例（§8 = 9 行 pointer 指 scratchpad）在 gate v1 是 PASS，v2 是雙 hard fail。
+驗收（depth tier）：distinct 來源 ≥ 25 / **英文來源 ≠ 0**（理想 ≥ 5）/ **一手來源 ≠ 0**（理想 ≥ 5）/ 有搜尋日誌 section / 信度標記 ≥ 8 / 行數 ≥ 300 / **§8 raw 有效密度 ≥ 120 行**（v2 HARD — inline 行數＋指向存在的 repo 內 raw 檔行數合計，單檔楊德昌型與分檔金曲獎型都認）/ **ephemeral pointer = 0**（v2 HARD — §8 指 /tmp 或 scratchpad 直接 FAIL）。**hard_fail > 0 = 不進 Stage 2**（回去補搜尋 + 把原始軌跡寫回 SSOT）。儀器化背景：把 §Step 1.1 的 4 條來源配額從 aspirational 變可量測（REFLEXES #15）；v2 兩條把 §鐵律 8「orchestrator aggregate-on-receive」從紀律變閘門——柯智棠病例（§8 = 9 行 pointer 指 scratchpad）在 gate v1 是 PASS，v2 是雙 hard fail。**v2.1 疑慮通知層**：每條 fail/warn 附「為什麼＋思考方向」給呼叫 session 決策（`--json` 含 `concerns[]`）；上游每份分部報告另有收件 gate `agent-report-health.py`（Step 1.8-bis 步 2，收到就跑、FAIL 不准合成）。
 
 **好處**（[REFLEXES #22 raw 永遠不刪](../semiont/DNA.md) + [MANIFESTO §造橋鋪路](../semiont/MANIFESTO.md)）：
 
@@ -1085,8 +1086,15 @@ Claude Code 改版後 agent 預設 async 啟動：spawn 的 tool result 只回�
 **強制三步**（每個研究 agent、每次）：
 
 1. **Prompt 要求 agent 自己落檔**（雙保險上半）：general-purpose agent 的 prompt 加一句「先用 Write 把完整回報寫到 `reports/research/{YYYY-MM}/{slug}-research-{X}.md`，再把同樣內容當 final message 回傳」。agent 寫檔成功 → raw 已在 repo，訊息通道只是副本。
-2. **Notification 到手先落檔再合成**（雙保險下半）：主 session 收到 task-notification 的**第一個動作**是驗證 agent 落的檔存在且非摘要（`test -f` ＋ `wc -l` ＋ `grep -c 'query'` 軌跡密度）；檔案缺席或過薄 → 把 notification `<result>` **verbatim** 寫進該路徑（一字不改）。做完這步才准碰 §6 合成。
-3. **Gate 收口**：組完 report 跑 `research-report-health.py`——§8 有效密度 ＋ ephemeral pointer 兩條 v2 hard gate 會攔住任何漏網（見 Step 1.7.3）。
+2. **收件 gate：notification 到手先落檔、跑儀器、再合成**（雙保險下半，v7.8 儀器化）：主 session 收到 task-notification 的**第一個動作**是確保分部報告在 repo 路徑（agent 沒落檔 → 把 `<result>` **verbatim** 寫進該路徑，一字不改），然後跑：
+
+   ```bash
+   python3 scripts/tools/agent-report-health.py reports/research/{YYYY-MM}/{slug}-research-{X}.md --claimed {該 agent 的搜尋配額}
+   ```
+
+   儀器驗六件事（存放位置 / 體積 8KB 分界 / 軌跡 section / 軌跡 ≥10 行 / 宣稱 vs 記錄比 / 五段結構），每條疑慮附「為什麼＋思考方向」。**FAIL = 不准開始合成 §6**（先照思考方向救 raw：notification 原文 → subagent transcript → SendMessage 要求補報）；CONCERN = 可續行但 orchestrator 回報必須明示每條處置。閾值由 2026-07-05 真實 corpus 校準（壓縮版 5-6KB/軌跡 2-9 行 vs 真 final 14-38KB/13-62 行，兩側 ≥2x margin）；非搜尋型 agent（persona / verifier）用 `--min-kb` `--min-trail` 調整或免跑。
+
+3. **Gate 收口**：組完 report 跑 `research-report-health.py`——§8 有效密度 ＋ ephemeral pointer 兩條 v2 hard gate 會攔住任何漏網，v2.1 起每條 fail/warn 同樣附疑慮通知（見 Step 1.7.3）。
 
 **反例（附給 sub-agent prompt 用，anti-example beats rule）**：2026-07-05 柯智棠 EVOLVE——prompt 寫對了（「絕對不要自己摘要濃縮，raw 全留」）、4 隻 agent 全照做（各回 ~20KB 逐條軌跡，實測 224 次 web 操作），orchestrator 收到通知後卻把每份壓成 ~6KB 主題摘要存 scratchpad，report §8 剩 9 行。**斷點不在 agent、不在 prompt，在 orchestrator 收到之後的 30 秒**。
 
@@ -2422,6 +2430,8 @@ _v7.2 | 2026-06-13 persona-stage0（哲宇 callout）— Stage 0.6 anti-drift（
 
 _v7.1 | 2026-06-13 persona-stage0（哲宇 directive）— Stage 0 觀點成型加 persona 發散：新增 **Step 0.6.1-bis「20 路 persona 切入點」**——除了 0.6.1 六核心問題（總編輯自問）外，額外派 **4 個 Sonnet sub-agent 平行**模擬 20 個不同年齡/國籍/性別/社會處境的人（4 軸各 5 persona，A 年齡 / B 國籍·距離 / C 社會處境 / D 與題目關係；A/C/D 台灣在地 + B 外國·離散）聽到題目會問的問題，當研究入射點。主 session merge 後每題標 🆕 新入射角（merge 進既有 §切入點清單，Stage 1 必取材）/ ✅ 已被六題覆蓋 / ⛔ 超 scope（落 `rationale.whats_excluded`）。配套：落 research report §20 路 persona 切入點 + Stage 0 收尾 checklist 加驗收 + 多 agent 編排表加 4-Sonnet row + Hard Gate Inventory 補 persona sub-section grep。設計嚴守 [REFLEXES #42](../semiont/REFLEXES.md)（平行不 sequential / 落檔 hard gate / 主 session audit / ❌✅ 反例對照）+ #31（agent null 不盲信）+ #15（🆕 題接進既有 §切入點清單而非另開平行 checklist = 非裝飾）。誕生事件 = 本 pipeline 的自我 dogfood：2026-06-13《看不見的國家》ship 後哲宇追問「影響 / 心得 / 還在努力的人」三題（六題沒覆蓋）→ 觸發 EVOLVE 4800→6630 字升 S 級 → 把「觀察者會不會追問」內化成 Stage 0 自動發散。對應神經迴路「Stage 1 的 20+ 是 anchor 密度不是數量」的 Stage 0 版。_
 
+_v7.8 | 2026-07-05 柯智棠健檢 round 2（哲宇 directive「儀器化分部報告品質硬門檻＋通知呼叫 session 疑慮/為什麼/思考方向，主 report 也要」）— **收件 gate 儀器化**：(1) 新儀器 `agent-report-health.py`——orchestrator 收到每個研究 agent 的 task-notification 後、開始任何合成之前跑，驗六件事（存放位置 repo 內 / 體積 ≥8KB / 逐條軌跡 section / 軌跡 ≥10 行 / 宣稱 vs 記錄比 ≥50% / 五段結構 ≥4/5），每條疑慮附「為什麼＋思考方向」，FAIL = 不准合成 §6；閾值由真實 corpus 校準（4 份壓縮版 aggregate 5-6KB/軌跡 2-9 行全攔 hard=4，8 份真 final message 14-38KB/13-62 行全過）(2) `research-report-health.py` v2.1 疑慮通知層——主 report 每條 fail/warn 同樣附為什麼＋思考方向（--json 含 concerns[]）(3) Step 1.8-bis 步 2 從手動 test -f/grep 升為儀器指令 (4) Hard Gate Inventory 加「分部報告收件 gate」row。設計＋校準數據：[reports/agent-report-health-instrument-design-2026-07-05.md](../../reports/agent-report-health-instrument-design-2026-07-05.md)。對應 REFLEXES #81（收件三十秒紀律，同日 promote）+ #15 + #66 + #69。_
+
 _v7.7 | 2026-07-05 柯智棠健檢（哲宇 goal directive「徹底健檢＋自我進化」）— **Async agent 時代 raw 保全**：Claude Code 改版後 sub-agent 預設 async 啟動（spawn 只回 launched，回報走 task-notification），柯智棠 EVOLVE 揭露新斷點：prompt 對、agent 對（4 隻各回 ~20KB 逐條軌跡，實測 224 次 web 操作），**orchestrator 收到通知後把 raw 壓成 6KB 摘要存 scratchpad**，report §8 剩 9 行 pointer ＋「commit 時 raw 隨 session 記錄留存」幻覺 policy，gate v1 照樣 PASS → writer 只吃薄報告 → 文章品質下降。同日普查再挖出兩病例：蘇打綠（pointer 指 /tmp，及時救回）、台灣醫療與全民健保（自稱「永久存放於 /tmp」，5 份 raw 已永久蒸發）。修補四件套：(1) §多 agent 編排鐵律 8「raw 走檔案通道、禁 aggregate-on-receive」(2) Step 1.7.2 和解規則 +2 條（落檔時機＝收到的第一個動作 / 禁 ephemeral 存放）(3) Step 1.8-bis async 三步 SOP（agent 自落檔 ＋ notification 到手先落檔 ＋ gate 收口）(4) `research-report-health.py` v2 兩條 hard gate（§8 有效密度 ≥120 行、ephemeral pointer = 0，單檔/分檔兩 pattern 都認，六案 dogfood 校準）。另修 Step 1.7「Writer 只吃 §6」v6.3 殘留句對齊 v7.4。診斷全文：[reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md](../../reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md)。對應 REFLEXES #42（orchestrator 版偷吃步）+ #31 + #22 + #15。_
 
 _v7.6 | 2026-06-16 哲宇 directive「升級」— 新增 §Stage 2.5 source-fidelity gate（來源逐字回溯）+ Hard Gate Inventory 一列。distill 自 LESSONS meta-umbrella `stage2-quote-context-collapse`（vc=8）：Stage 2 writer 把 Stage-1 研究結論 collapse 成偏記憶/印象/字面/未驗證 claim，structure gate 全綠 ≠ 事實對。三道 gate：(1) fetch 被引用來源 artifact 逐字比對（不只比 report，instance #8 大鮪鱸鰻）(2) title+desc+30 秒概覽 門面句 scope（instance #6 迷音）(3) fresh-writer 長文 fact-check agent pass（instance #7 報導者）。與 Step 3.6 成品總驗互補：3.6 驗成品對 report，2.5 驗對真實世界來源。完整 8 instance 證據鏈見 LESSONS-INBOX §已消化。_
@@ -2452,6 +2462,7 @@ _v5.0 | 2026-05-11 admiring-cohen-8b68fc — Stage spine restoration：heading �
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/REWRITE-PIPELINE.md`）_：
 
+- **v7.8**（2026-07-05 柯智棠健檢 round 2）— 收件 gate 儀器化：新儀器 agent-report-health.py 驗每份分部報告（壓縮嫌疑/存放位置/軌跡密度/五段結構，疑慮附為什麼+思考方向）+ research-report-health v2.1 主 report 疑慮通知層 + Step 1.8-bis 步 2 儀器化。真實 corpus 校準：4 壓縮版全攔 / 8 真 final 全過。守 REFLEXES #81 + #15 + #66 + #69
 - **v7.7**（2026-07-05 柯智棠健檢）— Async agent 時代 raw 保全：鐵律 8 禁 orchestrator aggregate-on-receive / Step 1.8-bis 三步 SOP（agent 自落檔＋notification 先落檔＋gate 收口）/ research-report-health v2 兩條 hard gate（§8 有效密度 + ephemeral pointer）。三病例：柯智棠（救回）/ 蘇打綠（救回）/ 醫療（5 份 raw 永久蒸發）。守 REFLEXES #42 + #31 + #22 + #15
 
 - **v7.3**（2026-06-13 persona-stage0）— Stage 0 exit gate 儀器化：`research-report-health.py --stage 0` 三件套 hard gate（觀點成型 + viewpoint_formed + 六核心 + persona + 搜尋日誌 + ≥10 來源 proxy），persona-only = FAIL。dogfood 看不見的國家 PASS / persona-only sim FAIL。守 REFLEXES #15 + #66

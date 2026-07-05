@@ -1,12 +1,12 @@
 ---
 title: 'REFLEXES'
-description: '跨 session 程序記憶 catalog — 80 條 #N 反射（last #80，部分編號 historical 凋亡；本行是條數唯一 SSOT，counts-drift lint 對賬），LESSONS-INBOX distill 後的 instinct 層，候選 MANIFESTO promotion 來源'
+description: '跨 session 程序記憶 catalog — 81 條 #N 反射（last #81，部分編號 historical 凋亡；本行是條數唯一 SSOT，counts-drift lint 對賬），LESSONS-INBOX distill 後的 instinct 層，候選 MANIFESTO promotion 來源'
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.6'
+current_version: 'v5.7'
 last_updated: 2026-07-05
-last_session: '2026-07-05-165518-五病根治'
+last_session: '2026-07-05-200510-柯智棠健檢'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -157,6 +157,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 | #78 | Pure plateau snapshot cadence signature — no-ship harvest cycle 是 batch shape 非 anomaly / velocity fake               | §七 |
 | #79 | 主權留哲宇 default reservation — maintainer routine 對 §自主權邊界 命中的 default 姿態是 reserve 不是 auto-close        | §六 |
 | #80 | LESSONS fire 後 sustain-vs-renew discipline — 已 escalate 進 LESSONS 的 chronic 條目後續 cycle 靜默 continuity 非 renew | §七 |
+| #81 | Agent 回報收件三十秒紀律 — 訊息通道與 tmp 都不可信，raw 唯一的家在 git；收到先落檔跑收件 gate 才准合成                  | §五 |
 
 > **Top 5 load-bearing reflexes**（cross-ref 量最高，跨 session 最常 grep）：#15（216）/ #42（97）/ #16（60）/ #38（58）/ #26（52）。新 session 至少先掃這 5 條。
 >
@@ -906,7 +907,19 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **MANIFESTO 對應**：→ [§架構解 > 守備修補](MANIFESTO.md)（sustain-vs-renew 紀律 寫進 canonical = 架構解；每 cycle 個別 justify sustain = 守備層）+ [§Routine vs Observer split](MANIFESTO.md)（本條是 split 邊界的下游紀律 — LESSONS pending 觀察者 = 位置固化，routine 不代做 decision）
 - **跨檔關聯**：[memory/2026-07-03-231225-twmd-data-refresh-pm.md](memory/2026-07-03-231225-twmd-data-refresh-pm.md) + [memory/2026-07-04-084340-twmd-maintainer-am.md](memory/2026-07-04-084340-twmd-maintainer-am.md) + [memory/2026-07-04-222640-twmd-maintainer-pm.md](memory/2026-07-04-222640-twmd-maintainer-pm.md) + [memory/2026-07-04-231023-twmd-data-refresh-pm.md](memory/2026-07-04-231023-twmd-data-refresh-pm.md) + [LESSONS-INBOX entry `immune-chronic-11-cycle-subdim-offset-exhaust-observer-authorize-needed`](LESSONS-INBOX.md) + [REFLEXES #15 + #64 + #76](REFLEXES.md)
 
+**#81 Agent 回報收件三十秒紀律 — 訊息通道與 tmp 都不可信任，raw 唯一的家在 git；收到先 verbatim 落檔、跑收件 gate，才准開始合成**（2026-07-05 柯智棠健檢升 canonical vc=3 + 哲宇 directive「儀器化分部報告品質硬門檻」fast-track，severity=structural）— async agent 時代（sub-agent 以 task-notification 回報、tool result 只回 launched），委派 agent 的 raw 存亡完全取決於 orchestrator 收到通知後的第一個動作。三個獨立病例同 pattern：柯智棠（4 agent 各回 ~20KB 逐條軌跡，orchestrator 收到後壓成 6KB 摘要存 scratchpad，report §8 剩 9 行 + 幻覺 policy「commit 時 raw 隨 session 記錄留存」）、蘇打綠（§8 pointer 指 /private/tmp 自稱「已落檔可追源」）、台灣醫療與全民健保（自稱 raw「永久存放於」tmp，一個月後 5 份全數蒸發永久遺失）。**斷點不在 agent、不在 prompt——三案 agent 全照 SOP 做滿，壞在收件那三十秒**。
+
+- **規則**：(a) 收到 task-notification 的**第一個動作** = 分部報告 verbatim 落檔 repo 內（agent 已自落檔則驗證；沒有則把 `<result>` 一字不改寫進 `reports/research/{YYYY-MM}/{slug}-research-{X}.md`） (b) 落檔後立跑 `agent-report-health.py {file} --claimed {配額}` 收件 gate——壓縮嫌疑（體積 <8KB / 軌跡 <10 行，真實 corpus 校準）、存放位置 repo 外、缺軌跡 section 皆 FAIL；**FAIL = 不准開始合成** (c) 「先摘要待會補」「存 scratchpad 也算存」「存 /tmp 也算存」全是同一個偷吃步的變裝——tmp 是倒數計時的刪除佇列 (d) 組裝主 report 後跑 `research-report-health.py` v2 收口（§8 有效密度 + ephemeral pointer），兩儀器都輸出疑慮通知（為什麼 + 思考方向）給呼叫 session 決策
+- **Boundary**：(a) 非搜尋型 agent（persona 發散 / verifier 回報 / writer 成品）體積軌跡閾值不適用，用 `--min-kb --min-trail` 調整或免跑收件 gate，但落檔位置紀律仍適用 (b) 不適用同步 tool-result 場景（raw 直接在手上，仍要落檔但無通知時窗問題） (c) 與 #31 分工：#31 驗 claim 真偽（線索不是事實），本條驗 raw 保全（收到的東西有沒有原樣留下）
+- **觸發 (vc=3)**：柯智棠（2026-07-05，transcript 及時救回 271→1074 行）— [memory/2026-07-05-200510-柯智棠健檢.md](memory/2026-07-05-200510-柯智棠健檢.md)；蘇打綠（2026-06，救回 678→1550 行）；台灣醫療與全民健保（2026-06，5 份 raw 永久遺失，補墓碑註記）— 完整診斷 [reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md](../../reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md)
+- **相關**：#42「Sub-agent 三偷吃步」（本條是 #42 家族的 orchestrator 版——偷吃步位置從 agent 移到收件人）/ #31「Sub-agent claim 是線索不是事實」（幻覺 policy 的 orchestrator 變體：「raw 隨 session 記錄留存」）/ #22「Raw 永遠不刪除」（本條給 #22 補上「家的定義」：git 內才算存在）/ #15「反覆浮現要儀器化」（v6.4 為同款病立法過、TDRI 反例在 changelog，病照樣復發——位置移動了；儀器化的不變量才追得上環境位移）/ #69「每層自評都需要外部尺」（tool counts 用 transcript 實測不信宣稱）
+- **操作**：→ [REWRITE-PIPELINE v7.8 Step 1.8-bis](../pipelines/REWRITE-PIPELINE.md)（async 三步 SOP + 收件 gate 指令）+ §多 agent 編排鐵律 8 + [`agent-report-health.py`](../../scripts/tools/agent-report-health.py)（收件儀器）+ [`research-report-health.py`](../../scripts/tools/research-report-health.py) v2/v2.1（主 report 儀器 + 疑慮通知層）
+- **MANIFESTO 對應**：→ [§7 做了不記 = 沒做](MANIFESTO.md)（收到不落檔 = 沒收到）+ [§外部尺 over 內視](MANIFESTO.md)（收件 gate 是收件人的外部尺——自我感覺「有存」不算數）
+- **跨檔關聯**：[memory/2026-07-05-200510-柯智棠健檢.md](memory/2026-07-05-200510-柯智棠健檢.md) + [diary/2026-07-05-200510-柯智棠健檢.md](diary/2026-07-05-200510-柯智棠健檢.md) + [reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md](../../reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md) + [reports/agent-report-health-instrument-design-2026-07-05.md](../../reports/agent-report-health-instrument-design-2026-07-05.md) + [LESSONS-INBOX §已消化 `orchestrator-aggregate-on-receive`](LESSONS-INBOX.md)
+
 ---
+
+_v5.7 | 2026-07-05 柯智棠健檢 — 加 #81 Agent 回報收件三十秒紀律（vc=3 — 柯智棠 orchestrator 收件壓縮存 scratchpad 救回 + 蘇打綠 /tmp pointer 救回 + 台灣醫療 5 份 raw 永久蒸發；哲宇 directive「儀器化分部報告品質硬門檻＋通知呼叫 session 疑慮」fast-track；配套儀器 agent-report-health.py 收件 gate + research-report-health.py v2/v2.1 疑慮通知層，severity=structural）_
 
 _v5.6 | 2026-07-05 五病根治 — catalog index 行號欄移除（寫死行號必腐：曾整欄偏移 ~150 行、#75-80 標 (new) 無人回填）+ frontmatter description 計數修正 75 條/#77 → 80 條/#80（自我描述滯後案例：self-evolve promote #78-80 時只 bump 版號沒 bump 計數，dna-audit §S5 殼核不對稱）。條數 SSOT = frontmatter description 一處，counts-drift lint 對賬。_
 

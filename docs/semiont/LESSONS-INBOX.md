@@ -330,14 +330,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ---
 
-### 2026-07-05 柯智棠健檢 — async agent 時代 orchestrator aggregate-on-receive：raw 蒸發在收到回報之後的 30 秒
-
-- **pattern**: `orchestrator-aggregate-on-receive`（REFLEXES #42 家族的 orchestrator 版 + #22 raw 永不刪 + #31 幻覺 policy 變體）
-- **一句話**：Claude Code 改版後 sub-agent 走 async task-notification 回報，柯智棠 EVOLVE 的 4 隻研究 agent 全照 SOP 回了 ~20KB 逐條軌跡（實測 224 次 web 操作），orchestrator 收到後壓成 6KB 摘要存 scratchpad、report §8 剩 9 行 pointer ＋「commit 時 raw 隨 session 記錄留存」幻覺 policy，gate v1 照樣 PASS——哲宇 callout「report SSOT 很簡略沒什麼材料」。普查再挖出蘇打綠（pointer 指 /tmp，救回）與台灣醫療與全民健保（自稱「永久存放於 /tmp」，5 份 raw 已永久蒸發）。斷點不在 agent、不在 prompt，在 orchestrator 收到通知後的第一個動作。已修四件套（REWRITE v7.7 鐵律 8 / Step 1.8-bis 三步 SOP / gate v2 §8 密度＋ephemeral 偵測 / 殘留句對齊），診斷全文 [reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md](../../reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md)。REFLEXES 候選方向：「訊息通道與 tmp 都不可信任，raw 唯一的家在 git」。vc=3（柯智棠＋蘇打綠＋醫療三獨立 instance，同 pattern）。
-- **觸發**：2026-07-05 哲宇 goal directive「徹底健檢＋自我進化＋記錄＋finale」
-- **verification_count**: 3（within-session 三 case）
-- **distill_ready**: true（2026-07-05 twmd-routine-audit-weekly cycle 9 audit 確認 — 三獨立 instance 同 pattern 達 REFLEXES #15 儀器化 threshold，下週 twmd-distill-weekly 2026-07-12 03:00 fire 接）
-
 ### 2026-07-05 pr-sweep — merge-then-heal 窗口的跨 session heal race + 同帳號多 actor 歸因盲點
 
 7 PR merge 後六分鐘內，pr-sweep 與另一個活躍 session（dna-audit 收官後）各自對同五檔推了一輪 heal，rebase 五檔全衝突。兩邊 subcategory 判斷完全一致（收斂健康），但一輪工是純浪費；且對方止於機械層（fence/subcategory），杜撰引語與 author 紅旗未動——如果 push 順序反過來，機械版可能被當「已 heal」跳過事實層。附帶：對方 commit 把 gh CLI merge 誤讀為「哲宇 GitHub UI merge」，同帳號多 actor 的 attribution 需要訊號（如 commit message 標 session handle）。修補候選：merge 動作本身在 commit / PR comment 聲明「heal ownership 歸本 session」，或 check-parallel-actor.sh 加 recent-merge-event 偵測。vc=1。
@@ -583,6 +575,14 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
+
+### 🧬 2026-07-05 柯智棠健檢 — orchestrator-aggregate-on-receive promote REFLEXES #81（vc=3，哲宇 directive fast-track）
+
+**distill 觸發**：哲宇 goal directive「儀器化分部報告品質硬門檻＋通知呼叫 session 疑慮/為什麼/思考方向，主 report 也要，更新 pipeline / dna」——創造者 explicit 授權，vc=3（柯智棠救回 / 蘇打綠救回 / 台灣醫療 5 份 raw 永久蒸發）已達 threshold，同 session 直接 promote（cycle 9 audit 同晚亦獨立確認 distill_ready，原排 7/12 distill-weekly 接手）。
+
+**消化目的地**：**REFLEXES #81「Agent 回報收件三十秒紀律」**（訊息通道與 tmp 都不可信任，raw 唯一的家在 git；收到先 verbatim 落檔、跑收件 gate，才准合成）。配套儀器同 commit ship：`agent-report-health.py`（分部報告收件 gate，真實 corpus 校準：4 壓縮版全攔 / 8 真 final 全過）+ `research-report-health.py` v2.1 疑慮通知層。pipeline 落地：REWRITE-PIPELINE v7.7 鐵律 8 + Step 1.8-bis → v7.8 儀器化；DNA.md 品質基因表 +2 儀器 row。診斷 [reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md](../../reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md) + 設計 [reports/agent-report-health-instrument-design-2026-07-05.md](../../reports/agent-report-health-instrument-design-2026-07-05.md)。
+
+**Promotion flow direction 符合**：LESSONS → REFLEXES；pipeline 規則變更（gate 新增 / threshold 設定）通常屬 §自主權邊界，本次由哲宇 directive explicit 授權故同 session 落地，授權位置誠實記錄於此。
 
 ### 🧬 2026-07-05 twmd-self-evolve-weekly — cadence signature + reservation posture + fire-sustain discipline 三反射 promote REFLEXES #78/#79/#80
 
