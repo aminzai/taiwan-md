@@ -156,34 +156,38 @@ const SNAPSHOT = '2026-07-05';
   .sb-d-blood {
     background: var(--sb-blood);
   }
+  /* inspector content is injected via innerHTML → no Astro scope attr,
+     so 這些子選擇器一律走 :global()（否則 fall 回預設黑字，在暗底看不見）。
+     容器本身 set 一個亮色 inherit 當保險絲。 */
   .sb-inspector {
     border-top: 1px solid rgba(79, 209, 176, 0.18);
     padding: 16px 18px;
     min-height: 118px;
     background: rgba(0, 0, 0, 0.25);
+    color: rgba(244, 240, 234, 0.85);
   }
   .sb-hint {
     font-family: 'jf-lanyangming', 'Noto Serif TC', serif;
     color: var(--sb-mist);
     font-size: 13.5px;
   }
-  .sb-part {
+  .sb-inspector :global(.sb-part) {
     font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;
     font-size: 18px;
     color: #f4f0ea;
   }
-  .sb-part small {
+  .sb-inspector :global(.sb-part small) {
     font-family: 'SF Mono', monospace;
     font-size: 10px;
     color: rgba(79, 209, 176, 0.8);
     margin-left: 10px;
     letter-spacing: 0.08em;
   }
-  .sb-files {
+  .sb-inspector :global(.sb-files) {
     margin: 8px 0 6px;
     line-height: 2.1;
   }
-  .sb-files code {
+  .sb-inspector :global(.sb-files code) {
     font-family: 'SF Mono', 'Fira Code', monospace;
     font-size: 11px;
     background: rgba(79, 209, 176, 0.1);
@@ -195,19 +199,19 @@ const SNAPSHOT = '2026-07-05';
     white-space: nowrap;
     color: rgba(244, 240, 234, 0.9);
   }
-  .sb-desc {
+  .sb-inspector :global(.sb-desc) {
     margin: 6px 0 0;
     font-size: 13.5px;
     color: rgba(244, 240, 234, 0.85);
     max-width: 78ch;
     line-height: 1.8;
   }
-  .sb-links {
+  .sb-inspector :global(.sb-links) {
     font-size: 12px;
     color: var(--sb-mist);
     margin-top: 8px;
   }
-  .sb-links b {
+  .sb-inspector :global(.sb-links b) {
     color: rgba(244, 240, 234, 0.85);
     font-weight: 600;
   }
