@@ -314,6 +314,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-05 柯智棠健檢 — async agent 時代 orchestrator aggregate-on-receive：raw 蒸發在收到回報之後的 30 秒
+
+- **pattern**: `orchestrator-aggregate-on-receive`（REFLEXES #42 家族的 orchestrator 版 + #22 raw 永不刪 + #31 幻覺 policy 變體）
+- **一句話**：Claude Code 改版後 sub-agent 走 async task-notification 回報，柯智棠 EVOLVE 的 4 隻研究 agent 全照 SOP 回了 ~20KB 逐條軌跡（實測 224 次 web 操作），orchestrator 收到後壓成 6KB 摘要存 scratchpad、report §8 剩 9 行 pointer ＋「commit 時 raw 隨 session 記錄留存」幻覺 policy，gate v1 照樣 PASS——哲宇 callout「report SSOT 很簡略沒什麼材料」。普查再挖出蘇打綠（pointer 指 /tmp，救回）與台灣醫療與全民健保（自稱「永久存放於 /tmp」，5 份 raw 已永久蒸發）。斷點不在 agent、不在 prompt，在 orchestrator 收到通知後的第一個動作。已修四件套（REWRITE v7.7 鐵律 8 / Step 1.8-bis 三步 SOP / gate v2 §8 密度＋ephemeral 偵測 / 殘留句對齊），診斷全文 [reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md](../../reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md)。REFLEXES 候選方向：「訊息通道與 tmp 都不可信任，raw 唯一的家在 git」。vc=3（柯智棠＋蘇打綠＋醫療三獨立 instance，同 pattern）。
+- **觸發**：2026-07-05 哲宇 goal directive「徹底健檢＋自我進化＋記錄＋finale」
+
 ### 2026-07-05 pr-sweep — merge-then-heal 窗口的跨 session heal race + 同帳號多 actor 歸因盲點
 
 7 PR merge 後六分鐘內，pr-sweep 與另一個活躍 session（dna-audit 收官後）各自對同五檔推了一輪 heal，rebase 五檔全衝突。兩邊 subcategory 判斷完全一致（收斂健康），但一輪工是純浪費；且對方止於機械層（fence/subcategory），杜撰引語與 author 紅旗未動——如果 push 順序反過來，機械版可能被當「已 heal」跳過事實層。附帶：對方 commit 把 gh CLI merge 誤讀為「哲宇 GitHub UI merge」，同帳號多 actor 的 attribution 需要訊號（如 commit message 標 session handle）。修補候選：merge 動作本身在 commit / PR comment 聲明「heal ownership 歸本 session」，或 check-parallel-actor.sh 加 recent-merge-event 偵測。vc=1。

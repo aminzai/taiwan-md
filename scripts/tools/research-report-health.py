@@ -82,6 +82,21 @@ COUNTEREX_RE = re.compile(
 )
 URL_RE = re.compile(r"https?://[^\s\)\]\>\"'，。、；]+")
 
+# ── §8 raw 密度 + ephemeral pointer（v2 — 2026-07-05 柯智棠健檢）────────────
+# 誕生背景：柯智棠 EVOLVE orchestrator 把 4 agent 完整回報（~56KB 逐條軌跡）壓成
+# 6KB 主題摘要存 session scratchpad（ephemeral），report §8 只留 9 行 pointer +
+# 「commit 時 raw 隨 session 記錄留存」幻覺 policy — 本 gate v1 照樣 PASS（行數只 warn、
+# §8 密度無檢查）。同病例：蘇打綠（及時救回）、台灣醫療與全民健保（5 份 raw 永久蒸發，
+# report 自稱「永久存放於 /private/tmp」）。存 /tmp = 倒數計時的刪除佇列，不是落檔。
+# 兩個合法 pattern：(1) §8 inline raw（楊德昌型）(2) §8 pointer 到 repo 內 sibling raw
+# 檔（金曲獎-R1..R4 / 陳嫺靜-research-1..4 型）— 有效密度 = inline 行數 + 指向存在
+# repo 檔的行數合計。指向 tmp / scratchpad = HARD FAIL（無論密度）。
+S8_HEAD_RE = re.compile(r"^## 8[\.\s、]")
+S8_END_RE = re.compile(r"^## (9|1[0-9])[\.\s、]")
+EPHEMERAL_RE = re.compile(r"/private/tmp/claude|/tmp/claude-|scratchpad/")
+S8_MDLINK_RE = re.compile(r"\(([^)\s]+\.md)\)")
+S8_TICKPATH_RE = re.compile(r"`([^`\s]+\.md)`")
+
 # ── Stage 0 觀點成型 exit gate 三件套（v7.3 — 哲宇 anti-drift 儀器化）─────────
 # 抓「persona-only」drift：跑了 persona 但跳過 0.6.1 六核心問題 + 0.6.4 ≥20 探索搜尋。
 VIEWPOINT_RE = re.compile(r"##+\s*.*觀點成型")
@@ -101,11 +116,48 @@ SIXQ_MARKERS = (
 )
 
 TIERS = {
-    # tier: (min_distinct, min_en, min_primary, min_confidence, min_lines)
-    "depth": (25, 5, 5, 8, 300),
-    "standard": (15, 3, 3, 4, 150),
-    "hub": (5, 1, 1, 0, 0),
+    # tier: (min_distinct, min_en, min_primary, min_confidence, min_lines, min_s8)
+    "depth": (25, 5, 5, 8, 300, 120),
+    "standard": (15, 3, 3, 4, 150, 50),
+    "hub": (5, 1, 1, 0, 0, 0),
 }
+
+
+def analyze_s8(txt: str, report_path: Path):
+    """§8 raw 有效密度 = inline 行數 + 指向存在的 repo 內 .md 檔行數合計。
+    回傳 (s8_inline_lines, s8_effective_lines, ephemeral_hits, missing_pointers)。"""
+    lines = txt.split("\n")
+    start = end = None
+    for i, l in enumerate(lines):
+        if S8_HEAD_RE.match(l):
+            start = i
+        elif start is not None and S8_END_RE.match(l):
+            end = i
+            break
+    if start is None:
+        return 0, 0, len(EPHEMERAL_RE.findall(txt)), 0
+    s8_lines = lines[start:(end or len(lines))]
+    s8_txt = "\n".join(s8_lines)
+    inline = len(s8_lines)
+    # pointer 解析：markdown link（sibling 相對）+ backtick path（repo-root 或 sibling 相對）
+    pointers = set(S8_MDLINK_RE.findall(s8_txt)) | set(S8_TICKPATH_RE.findall(s8_txt))
+    effective = inline
+    missing = 0
+    repo_root = Path(__file__).resolve().parents[2]
+    for ptr in pointers:
+        if ptr.startswith("http"):
+            continue
+        cand = (repo_root / ptr) if ptr.startswith("reports/") else (report_path.parent / ptr)
+        try:
+            cand = cand.resolve()
+            if cand.is_file() and repo_root in cand.parents:
+                effective += cand.read_text(encoding="utf-8", errors="ignore").count("\n") + 1
+            else:
+                missing += 1
+        except OSError:
+            missing += 1
+    ephemeral = len(EPHEMERAL_RE.findall(txt))
+    return inline, effective, ephemeral, missing
 
 
 def analyze(path: Path):
@@ -125,6 +177,8 @@ def analyze(path: Path):
     has_persona = bool(PERSONA_RE.search(txt))
     viewpoint_formed = bool(FRONTMATTER_VP_RE.search(txt))
     sixq = sum(1 for r in SIXQ_MARKERS if r.search(txt))
+    # §8 raw 密度 + ephemeral pointer (v2)
+    s8_inline, s8_effective, ephemeral, s8_missing = analyze_s8(txt, path)
     # domain diversity
     domains = set()
     for u in distinct:
@@ -132,6 +186,10 @@ def analyze(path: Path):
         if m:
             domains.add(m.group(1).lower().lstrip("www."))
     return dict(
+        s8_inline=s8_inline,
+        s8_effective=s8_effective,
+        ephemeral=ephemeral,
+        s8_missing=s8_missing,
         lines=lines,
         distinct=len(distinct),
         en=len(en),
@@ -150,7 +208,7 @@ def analyze(path: Path):
 
 
 def grade(metrics, tier):
-    md, me, mp, mc, ml = TIERS[tier]
+    md, me, mp, mc, ml, ms8 = TIERS[tier]
     results = []
     hard_fail = 0
     warn = 0
@@ -190,6 +248,17 @@ def grade(metrics, tier):
     simple("反例/不採信/護欄 section",
            1 if metrics["has_counterex"] else 0, 1, "warn")
     simple("報告行數 (SSOT 厚度)", metrics["lines"], ml, "warn")
+    # v2: §8 raw 有效密度（inline + 指向存在的 repo 檔行數合計）— 摘要化 = Stage 1 未完成
+    if ms8 > 0:
+        simple("§8 raw 有效密度 (inline+repo pointer 行數)", metrics["s8_effective"], ms8, "hard")
+    # v2: raw pointer 指向 ephemeral storage（/tmp / scratchpad）= 無論密度直接 fail
+    if metrics["ephemeral"] > 0:
+        hard_fail += 1
+        results.append(("raw pointer 指向 ephemeral (tmp/scratchpad) — 存 /tmp = 倒數計時刪除佇列",
+                        metrics["ephemeral"], "= 0", "hard", False))
+    if metrics["s8_missing"] > 0:
+        warn += 1
+        results.append(("§8 pointer 指向不存在的檔", metrics["s8_missing"], "= 0", "warn", False))
     return results, hard_fail, warn
 
 
