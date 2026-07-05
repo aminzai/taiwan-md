@@ -315,3 +315,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-06 | 000958-AAMA-SLP | AAMA + SLP 兩篇新創導師制文章全走完 REWRITE-PIPELINE Stage 0-5 出貨（`cfaa22a5d`），跟 6 篇既有文章交叉連結 | 兩次人物-計畫錯置研究攔截，驗證跨源查證紀律持續有效 | [→](memory/2026-07-06-000958-AAMA-SLP.md) |
 | 2026-07-06 | 003506-twmd-babel-nightly | 5 lang babel 119 shipped（bump 25 + patch 30 + P0 64）；en 100% / 4 lang 99.8%+ | codex+gemini 全 dead；6 P0 cascade exhausted | [→](memory/2026-07-06-003506-twmd-babel-nightly.md) |
 | 2026-07-06 | 051718-twmd-embeddings-nightly | 遷本機後首次正式 nightly：127.0.0.1 命中、4907 向量六語 0 fail、verify PASS 100% 8-鄰居、commit `1d5ca756a`；索引凍結徹底解除 | 少一層依賴換掉「指著離線節點空轉」整類 vc=3 故障面，單純確實更穩 | [→](memory/2026-07-06-051718-twmd-embeddings-nightly.md) |
+| 2026-07-06 | 061353-twmd-data-refresh-am | am 14-step 全綠；CF 404 25.69% 回 6-cycle 中段；免疫 47↔49 oscillate；補掃 stats 840→842 backlog | 上游 rewrite finale 漏 stats sync，routine 側被動兜 | [→](memory/2026-07-06-061353-twmd-data-refresh-am.md) |
