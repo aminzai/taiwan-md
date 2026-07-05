@@ -353,6 +353,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-07-05 21:00 twmd-routine-audit-weekly cycle 9 fire — Stage 1A hard gate `routine-sync-check.py` v3 首次列入 audit hard gate；輸出 12 hard + 2 warn thick shell 一次全揭。這是 ROUTINE-PROMPT-CONTRACT.md 立法 (2026-05-27) 至今 40 天首次 batch inventory。
 - **instances**：（第 2+ 次驗證從這裡 append）
   - #1 2026-07-05 twmd-routine-audit-weekly cycle 9 首次 systemic inventory (12 hard + 2 warn / 17 total)
+  - #2 2026-07-05 git-identity session 同夜實證傷害 + 行數合規的盲區：`twmd-embeddings-nightly` mirror 是 3 條「合規」之一（30 行），但 Stage 0 bullet 內嵌「從 fleet registry 解析 EMBED_HOST」一句複寫——EMBEDDING-PIPELINE v1.1 改本機優先後，這句立即過期且會把明晨 session 導向離線 4090 = 第 19 夜 skip。同夜抓到改 pointer 式。**行數檢查擋不住單行 step 複寫的腐化；殼的判準是「零 step 複寫」不是「夠短」**（routine-sync-check.py 修補候選：偵測 mirror 內的指令樣內容而非只算行數）
 - **可能層級**：(a) `routine-sync-check.py` 加 hard-fail exit + 進 pre-commit hook（30min cost）；(b) reflex 「新 routine 誕生 mirror ≤30 lines 為契約層 hard constraint」（REFLEXES 候選）；(c) MAINTAINER-PIPELINE §routine 誕生 SOP 補「新 routine 進 ROUTINE.md SSOT 同時 mirror ≤30 lines pre-check」
 - **mitigation 路徑**：P0 修 audit routine 自己 60→≤30 (dogfood，60min cost) + P1 最厚三條瘦身 (2-3hr) + P2 CI hard-fail (30min)
 - **相關**：ROUTINE-PROMPT-CONTRACT.md v1.0（SSOT 契約） / routine-sync-check.py v3（儀器） / cycle 8 audit LESSONS `routine-audit-script-classification-gap`（同 family — 儀器記得寫但沒儀器化強制）
