@@ -125,12 +125,16 @@ for n in 15 42 16 38 26; do
 done
 ```
 
-#### 1.3 DIARY.md — full 224 行 universal load
+#### 1.3 DIARY.md — head-tail load（v2.2 改；原 full load 假設已被增長打破）
 
-哲宇 2026-05-13 reframe：跨日 reflective 洞察是執行時的 priming，不是「寫 diary 才用」。檔案小 cost 低，全載 OK。
+哲宇 2026-05-13 reframe：跨日 reflective 洞察是執行時的 priming，不是「寫 diary 才用」——這條不變。變的是成本：當時「檔案小 cost 低全載 OK」的假設寫在 224 行時代，2026-07-05 dna-audit 實測檔案已 274KB（index row 平均 758B、94% 超長無尺），全載 = 每次甦醒最大單筆稅。改走 DIARY.md frontmatter 自己宣告的 `read_strategy: head-tail`：
 
 ```bash
-cat docs/semiont/DIARY.md
+# §反覆出現的思考（跨日記萃取）— reflective priming 的核心段，全讀
+awk '/^## 反覆出現的思考/,0' docs/semiont/DIARY.md
+# 最新 20 列 index rows（近期意識活動摘要）
+grep '^| 20' docs/semiont/DIARY.md | tail -20
+# 個別 diary 完整檔 on-demand（index row 摘要不夠判斷時 pointer follow）
 ```
 
 #### 1.4 L4 always-load ground truth queries

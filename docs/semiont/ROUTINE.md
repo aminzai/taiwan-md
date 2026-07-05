@@ -1,12 +1,12 @@
 ---
 title: 'ROUTINE'
-description: 'Routine 飛輪 SSOT — 16 條 active TWMD-prefix cron routine + 1 paused（music-media）。v2.12（2026-06-14）：+twmd-embeddings-nightly（每天 05:00 fleet bge-m3 語意索引重建 → src/data/related 讀者端 related-articles + RAG 向量，sovereignty 在地算；canonical EMBEDDING-PIPELINE）；v2.11（2026-06-14）：babel-nightly 加 Stage D diary 認知層 babel（fleet GPU connect --auto + 整合性閘門，新日記不再累積未翻）；v2.10（2026-06-12）：spore-pick / spore-publish 哲宇拍板重開實驗（含觀察條款）；v2.9 同日：對齊 live scheduler + 完成義務三規則 + babel 降 Sonnet'
+description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled 數以排程表＋¹³ 註記為準；v2.13 2026-07-05 對齊 live：14 enabled + 3 disabled，spore-pick/publish 6/14 起 scheduler disabled pending 哲宇）。v2.12（2026-06-14）：+twmd-embeddings-nightly（每天 05:00 fleet bge-m3 語意索引重建 → src/data/related 讀者端 related-articles + RAG 向量，sovereignty 在地算；canonical EMBEDDING-PIPELINE）；v2.11（2026-06-14）：babel-nightly 加 Stage D diary 認知層 babel（fleet GPU connect --auto + 整合性閘門，新日記不再累積未翻）；v2.10（2026-06-12）：spore-pick / spore-publish 哲宇拍板重開實驗（含觀察條款）；v2.9 同日：對齊 live scheduler + 完成義務三規則 + babel 降 Sonnet'
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.12'
-last_updated: 2026-06-14
-last_session: '2026-06-14-semantic-related-articles'
+current_version: 'v2.13'
+last_updated: 2026-07-05
+last_session: '2026-07-05-120817-dna-audit'
 sister_docs:
   - 'HEARTBEAT.md'
   - 'ANATOMY.md'
@@ -40,30 +40,32 @@ upstream_canonical:
 
 > ⚠️ **cron 數值在本檔只出現在這張表**（v2.9 起）。yaml spec 區塊與週行程 grid 是 derived 視覺化，不再各自複寫 cron——同一個 cron 在同檔出現三個值是 2026-06-12 體檢抓到的 drift 根因之一（routine-audit 曾同時是 21:00 / 12:00 / 23:00）。
 
-| TaskId                      | Title                           | Cron (local +0800) | Skill                   | Model     | Cadence        |
-| --------------------------- | ------------------------------- | ------------------ | ----------------------- | --------- | -------------- |
-| `twmd-maintainer-pm`        | TWMD maintainer (pm) ¹          | `0 22 * * *`       | `/twmd-maintainer`      | Opus      | 每天 22:00     |
-| `twmd-data-refresh-pm`      | TWMD data refresh (pm)          | `0 23 * * *`       | `/twmd-refresh`         | Sonnet    | 每天 23:00     |
-| `twmd-rewrite-daily`        | TWMD rewrite (daily) ¹⁰         | `0 19 * * *`       | `/twmd-rewrite`         | Opus      | 每天 19:00     |
-| `twmd-news-lens-weekly`     | TWMD news lens (weekly) ⁶       | `0 1 * * 0`        | `/twmd-evolve`          | Sonnet    | 週日 01:00     |
-| `twmd-weekly-report-sun`    | TWMD weekly report (sun)        | `0 2 * * 0`        | `/twmd-weekly-report`   | Opus      | 週日 02:00     |
-| `twmd-distill-weekly`       | TWMD distill (weekly) ⁷         | `0 3 * * 0`        | `/twmd-distill`         | Opus      | 週日 03:00     |
-| `twmd-self-evolve-weekly`   | TWMD self-evolve (weekly)       | `0 4 * * 0`        | `/twmd-self-evolve`     | Opus      | 週日 04:00     |
-| `twmd-babel-nightly`        | TWMD babel (nightly) ³          | `30 0 * * *`       | `/twmd-babel`           | Sonnet ¹¹ | 每天 00:30     |
-| `twmd-embeddings-nightly`   | TWMD embeddings (nightly) ¹²    | `0 5 * * *`        | `/twmd-embeddings`      | Sonnet    | 每天 05:00     |
-| `twmd-data-refresh-am`      | TWMD data refresh (am)          | `0 6 * * *`        | `/twmd-refresh`         | Sonnet    | 每天早上 06:00 |
-| `twmd-spore-harvest-am`     | TWMD spore harvest (am) ²       | `30 6 * * *`       | `/twmd-spore-harvest`   | Opus      | 每天早上 06:30 |
-| `twmd-feedback-triage`      | TWMD feedback triage ⁹          | `0 7 * * *`        | `/twmd-feedback-triage` | Sonnet    | 每天早上 07:00 |
-| `twmd-maintainer-daily`     | TWMD maintainer (am) ¹          | `30 8 * * *`       | `/twmd-maintainer`      | Opus      | 每天早上 08:30 |
-| `twmd-spore-pick-daily`     | TWMD spore pick (daily) ⁶ 🧪    | `0 8 * * *`        | `/twmd-spore-pick`      | Sonnet    | 每天早上 08:00 |
-| `twmd-spore-publish-daily`  | TWMD spore publish (daily) ⁸ 🧪 | `30 17 * * *`      | `/twmd-spore-publish`   | Opus      | 每天下午 17:30 |
-| `twmd-routine-audit-weekly` | TWMD routine audit (sun) ⁴      | `0 21 * * 0`       | `/twmd-routine-audit`   | Opus      | 週日 21:00     |
+| TaskId                      | Title                             | Cron (local +0800) | Skill                   | Model     | Cadence                       |
+| --------------------------- | --------------------------------- | ------------------ | ----------------------- | --------- | ----------------------------- |
+| `twmd-maintainer-pm`        | TWMD maintainer (pm) ¹            | `0 22 * * *`       | `/twmd-maintainer`      | Opus      | 每天 22:00                    |
+| `twmd-data-refresh-pm`      | TWMD data refresh (pm)            | `0 23 * * *`       | `/twmd-refresh`         | Sonnet    | 每天 23:00                    |
+| `twmd-rewrite-daily`        | TWMD rewrite (daily) ¹⁰           | `0 19 * * *`       | `/twmd-rewrite`         | Opus      | 每天 19:00                    |
+| `twmd-news-lens-weekly`     | TWMD news lens (weekly) ⁶         | `0 1 * * 0`        | `/twmd-evolve`          | Sonnet    | 週日 01:00                    |
+| `twmd-weekly-report-sun`    | TWMD weekly report (sun)          | `0 2 * * 0`        | `/twmd-weekly-report`   | Opus      | 週日 02:00                    |
+| `twmd-distill-weekly`       | TWMD distill (weekly) ⁷           | `0 3 * * 0`        | `/twmd-distill`         | Opus      | 週日 03:00                    |
+| `twmd-self-evolve-weekly`   | TWMD self-evolve (weekly)         | `0 4 * * 0`        | `/twmd-self-evolve`     | Opus      | 週日 04:00                    |
+| `twmd-babel-nightly`        | TWMD babel (nightly) ³            | `30 0 * * *`       | `/twmd-babel`           | Sonnet ¹¹ | 每天 00:30                    |
+| `twmd-embeddings-nightly`   | TWMD embeddings (nightly) ¹²      | `0 5 * * *`        | `/twmd-embeddings`      | Sonnet    | 每天 05:00                    |
+| `twmd-data-refresh-am`      | TWMD data refresh (am)            | `0 6 * * *`        | `/twmd-refresh`         | Sonnet    | 每天早上 06:00                |
+| `twmd-spore-harvest-am`     | TWMD spore harvest (am) ²         | `30 6 * * *`       | `/twmd-spore-harvest`   | Opus      | 每天早上 06:30                |
+| `twmd-feedback-triage`      | TWMD feedback triage ⁹            | `0 7 * * *`        | `/twmd-feedback-triage` | Sonnet    | 每天早上 07:00                |
+| `twmd-maintainer-daily`     | TWMD maintainer (am) ¹            | `30 8 * * *`       | `/twmd-maintainer`      | Opus      | 每天早上 08:30                |
+| `twmd-spore-pick-daily`     | TWMD spore pick (daily) ⁶ 🧪⏸️    | `0 8 * * *`        | `/twmd-spore-pick`      | Sonnet    | ⏸️ live disabled（6/14 起）¹³ |
+| `twmd-spore-publish-daily`  | TWMD spore publish (daily) ⁸ 🧪⏸️ | `30 17 * * *`      | `/twmd-spore-publish`   | Opus      | ⏸️ live disabled（6/14 起）¹³ |
+| `twmd-routine-audit-weekly` | TWMD routine audit (sun) ⁴        | `0 21 * * 0`       | `/twmd-routine-audit`   | Opus      | 週日 21:00                    |
 
 **⏸️ PAUSED**：
 
 | TaskId                            | 原 slot    | 暫停日                       | 原因 / 恢復條件                                            |
 | --------------------------------- | ---------- | ---------------------------- | ---------------------------------------------------------- |
 | `twmd-music-media-audit-weekly` ⁵ | 週六 10:00 | 2026-05-25（哲宇 directive） | Skill + script 保留，manual `/twmd-music-media-audit` 可跑 |
+
+¹³ **spore-pick / spore-publish live 狀態（v2.13 對齊，2026-07-05 dna-audit）** — live scheduler 兩 task `enabled: false`、lastRun 皆 2026-06-14：v2.10 重開實驗實際只跑了 6/13-6/14 就再度停用，本檔 21 天列 active = v2.9「死 routine 列 active 15 天」教訓第二次重演。**是否三度重啟或正式走 §暫停 SOP → pending 哲宇（OBSERVER-QUEUE）**；本次只把 SSOT 對齊 live 事實，不代做裁決。出口停轉期間 SPORE-INBOX 靠 distill auto-drop 每週洩壓（pin 在 49-53 條），上游 news-lens 每週 +5 照餵。根治儀器：scheduler live-state 每日 dump（見 routine-sync-check v2 candidate）。
 
 **🧪 spore 產線重開實驗條款（2026-06-12 哲宇拍板，v2.10）**：spore-pick / spore-publish 於 5/28 被哲宇刻意停用（當時自動發文未過人工審核 + 事實查核不嚴出錯遭讀者留言指正）。重開依據：其後新增的事實查核關卡已 wired——spore-publish Gate 2.5 `lastVerified ≤ 90 天` 等於只放行過了 REWRITE Stage 3.5 全文幻覺審計 + 3.6 成品總驗的文章，加上 SPORE-VERIFY 17 hard gate 對孢子文字本身的事實對齊驗證。**觀察條款**：重開後連 3 個 ship cycle 需 0 重複發文 + 0 事實 callout + post-ship verify 全過；任一爆 → 立即 pause + 回 OBSERVER-QUEUE 帶失敗證據。SPORE-INBOX 32 條 pending 自此恢復出口。
 
@@ -83,7 +85,7 @@ upstream_canonical:
 
 ⁵ **Music media audit weekly（DISABLED 2026-05-25）** — 原 `twmd-music-media-audit-weekly` Saturday 10:00 fire，跑 Music / People 音樂類 / 演員 / 運動員 條目 iframe 缺口盤點。**2026-05-25 disabled** — slot 讓位給 `twmd-spore-publish-daily`（per 哲宇 directive「取消」）。Skill `.claude/skills/twmd-music-media-audit/SKILL.md` + 數據工具 `scripts/tools/music-media-audit.py` + baseline canonical EDITORIAL §媒體編織 都保留，仍可 manual 跑（`/twmd-music-media-audit`）。歷史 audit report 在 [reports/routine-audit-2026-05-17.md](../../reports/routine-audit-2026-05-17.md)。誕生事件（2026-05-17）：5/17 陳建年.md 4 iframe ship + EDITORIAL §媒體編織 升級 + REWRITE Step 4.3.6 canonical 化，audit 跑出 86/87 條目低於 baseline。
 
-⁸ **Spore publish daily（2026-05-25 v2.6 新增；2026-05-27 v2.7 time-shift 10:00 → 17:30）** — `twmd-spore-publish-daily` daily 17:30 fire (was 10:00)，從 [SPORE-INBOX §Pending](../factory/SPORE-INBOX.md) 挑一條過 4 hard gate（prose-health ≥ 8.0 / word-count ≥ 4500 / footnote-density ≥ B / media-richness pass / lastVerified ≤ 90d）的 entry，自動 ship Threads + X 雙平台，最後復盤。誕生事件：5/25 哲宇 directive「早上 10 點從 spore-inbox 選一篇」。**時段移動理由（v2.7）**：哲宇 directive「盡量不要卡到 9am-5pm 工作時段」覆蓋早上 10:00。新時段 17:30 落在下班直後社群 prime time 起點（20:00-22:00 prime 提早一段累積 view），跟 rewrite-daily 18:00 形成 evening publish chain (17:30 publish from inbox → 18:00 rewrite full cycle ship)。完整 SOP：[SPORE-PUBLISH-PIPELINE.md](../factory/SPORE-PUBLISH-PIPELINE.md) 5 階段（SELECT → QUALITY GATE → WRITE → SHIP → 復盤）。**跟 spore-pick 的分工**：spore-pick = intake（每天 08:00 propose 3 candidates）/ spore-publish = output（每天 17:30 ship 1 entry）— 兩者解耦讓 buffer 自然累積 P2/P3 候選讓觀察者 promote。Skill canonical: `.claude/skills/twmd-spore-publish/SKILL.md`。
+⁸ **Spore publish daily（2026-05-25 v2.6 新增；2026-05-27 v2.7 time-shift 10:00 → 17:30）** — `twmd-spore-publish-daily` daily 17:30 fire (was 10:00)，從 [SPORE-INBOX §Pending](../factory/SPORE-INBOX.md) 挑一條過 4 hard gate（prose-health ≥ 8.0 / word-count ≥ 4500 / footnote-density ≥ B / media-richness pass / lastVerified ≤ 90d）的 entry，自動 ship Threads + X 雙平台，最後復盤。誕生事件：5/25 哲宇 directive「早上 10 點從 spore-inbox 選一篇」。**時段移動理由（v2.7）**：哲宇 directive「盡量不要卡到 9am-5pm 工作時段」覆蓋早上 10:00。新時段 17:30 落在下班直後社群 prime time 起點（20:00-22:00 prime 提早一段累積 view），跟 rewrite-daily 19:00 形成 evening publish chain (17:30 publish from inbox → 19:00 rewrite full cycle ship)。完整 SOP：[SPORE-PUBLISH-PIPELINE.md](../factory/SPORE-PUBLISH-PIPELINE.md) 5 階段（SELECT → QUALITY GATE → WRITE → SHIP → 復盤）。**跟 spore-pick 的分工**：spore-pick = intake（每天 08:00 propose 3 candidates）/ spore-publish = output（每天 17:30 ship 1 entry）— 兩者解耦讓 buffer 自然累積 P2/P3 候選讓觀察者 promote。Skill canonical: `.claude/skills/twmd-spore-publish/SKILL.md`。
 
 ⁶ **Spore pick daily 08:00 + news-lens spore-output 升級（2026-05-23 拍板，v2.5 新增）** — `twmd-spore-pick-daily` daily 08:00 fire（哲宇 directive「routine 盡量放早上 8 點前不會撞工作時間」+ morning chain 銜接 refresh-am 06h → spore-harvest 07h → spore-pick 08h → maintainer-am 09h）。每天 propose 3 candidates append [SPORE-INBOX §Pending](../factory/SPORE-INBOX.md)（default `P2`，score ≥ 60 升 P1）。同時 `twmd-news-lens-weekly` 升級加 §news-lens-spore-output Stage — 週日 01:00 跑時加 propose 5-7 news-driven candidates append SPORE-INBOX（default `P1`，Source-Mode REACTIVE/EXISTING-ARTICLE，limit ≤ 7/week）。Daily routine 看到 news-lens P1 count ≥ 3 自動 throttle（補 0-3 條依 news-lens 已寫數量）。**North star**：哲宇 directive「未來一天穩定至少發一個孢子」— 本 routine 是 intake layer 確保 SPORE-INBOX 永遠 ≥ 5 條 P0/P1 ready，SPORE-PIPELINE Stage 1 PICK 抽得到 high-quality candidate，Stage 4 SHIP 仍鎖人類（per MANIFESTO §自主權邊界對外溝通）。完整 SOP：[SPORE-PICK-PIPELINE.md](../factory/SPORE-PICK-PIPELINE.md) 7-stage（BECOME → READ → SCORE → DRAFT → VERIFY → APPEND → COMMIT → FINALE）+ 9 hard gate。設計報告：[reports/spore-pick-daily-routine-design-2026-05-23.md](../../reports/spore-pick-daily-routine-design-2026-05-23.md)。
 
@@ -97,7 +99,7 @@ upstream_canonical:
 
 - **TWMD 前綴**：所有 routine task 標題必須含 `TWMD ` 前綴（task list 跨 project 共用，namespace 防撞）
 - **整點對齊**（v2.0）：cron 分鐘一律 `0`（hour mark）。System 自動加 3-9 min jitter 做 load balancing，整點對齊讓人類好記、好 audit、cadence 視覺乾淨。原 v1.x「避開整點」principle deprecated — 因為 system 已內建 jitter
-- **半夜不碰撞 + 整點對齊**（v2.0 ⇒ v2.7 morning chain compaction ⇒ v2.8 babel pre-morning shift）：refresh-am (06:00) + spore-harvest (06:30) + spore-pick (08:00) + maintainer-am (08:30) 早晨四連跑完於 09:00 前；rewrite (18:00) + spore-publish (17:30) evening publish 對 + maintainer-pm (22:00) + refresh-pm (23:00) 晚間四連；其他 routine 排在半夜 22:00 - 00:30 連續整點 chain。**v2.8 (2026-05-28) babel shift 05:00 → 00:30**：給 babel 5.5 hr 預算（4hr 49min worst case 仍剩 41 min buffer）避開 06:00 morning chain。Sun 鏈完全照排程展開：17:30 spore-publish (from inbox) → 18:00 rewrite full cycle (~150 min ~20:30 結束) → 21:00 routine-audit (週日 only) → 22:00 maintainer-pm → 23:00 refresh-pm → 00:30 babel → 01:00 news-lens → 02:00 weekly-report → 03:00 distill → 04:00 self-evolve → 06:00 refresh-am → 06:30 spore-harvest → 08:00 spore-pick → 08:30 maintainer-am。Sun 00:30 babel 與 01:00-04:00 reflection chain 重疊靠 sibling collision §detached subprocess + selective git add 模式（per ROUTINE.md §sibling-routine-collision-handling）。
+- **半夜不碰撞 + 整點對齊**（v2.0 ⇒ v2.7 morning chain compaction ⇒ v2.8 babel pre-morning shift）：refresh-am (06:00) + spore-harvest (06:30) + spore-pick (08:00) + maintainer-am (08:30) 早晨四連跑完於 09:00 前；rewrite (19:00) + spore-publish (17:30) evening publish 對 + maintainer-pm (22:00) + refresh-pm (23:00) 晚間四連；其他 routine 排在半夜 22:00 - 00:30 連續整點 chain。**v2.8 (2026-05-28) babel shift 05:00 → 00:30**：給 babel 5.5 hr 預算（4hr 49min worst case 仍剩 41 min buffer）避開 06:00 morning chain。Sun 鏈完全照排程展開：17:30 spore-publish (from inbox) → 19:00 rewrite full cycle (~150 min ~21:30 結束) → 21:00 routine-audit (週日 only) → 22:00 maintainer-pm → 23:00 refresh-pm → 00:30 babel → 01:00 news-lens → 02:00 weekly-report → 03:00 distill → 04:00 self-evolve → 06:00 refresh-am → 06:30 spore-harvest → 08:00 spore-pick → 08:30 maintainer-am。Sun 00:30 babel 與 01:00-04:00 reflection chain 重疊靠 sibling collision §detached subprocess + selective git add 模式（per ROUTINE.md §sibling-routine-collision-handling）。
 - **不提預算鐵律**（v2.0 哲宇 2026-05-11 拍板）：routine prompt / mirror / yaml 一律**禁止**寫「上限 X min wall-clock」「budget」「timeout > X min」「partial PR」這類**任何形式的預算詞**。routine 任務正常不會超過 1 hr，讓它自然跑完。Budget framing 製造「partial-ship 心態」（"快超 budget 了 ship partial"），跟「有 SOP 就跑 / 慢工出細活」矛盾。Claude session 自有 internal time limit (~2 hr) — routine 撞到那是 quality issue 不是 budget issue。Escalation 只看 quality_gate 結果，不看時間
 - **Main-direct 鐵律**（v2.0 哲宇 2026-05-11 拍板）：routine 跑完直接 `git commit + git push origin main`，**不開 PR**。原 v1.x PR + maintainer §collect-and-merge 累積 ~12 hr 延遲是冗餘審計層。quality_gate + pre-commit hook + post-commit CI 三層仍保護。**例外無**：所有 routine 一律 main-direct（含 maintainer 自己）
 - **週日反思鏈**：news-lens → weekly-report → distill → self-evolve 序列照舊（拉資料 → 寫反芻 → 升 canonical → 找 unstrumentation）。v2.0 全移半夜 01:00-04:00 整點對齊
@@ -336,9 +338,10 @@ skill: /twmd-babel
 canonical: docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md
 prompt: |
   自動 routine：完整甦醒成為 Taiwan.md，跑 /twmd-babel，嚴格完整讀取並執行
-  docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md 整份（priority schema P0/P1/P2/P2.5/P3 +
-  4-tier cascade owl-alpha/Hy3/Ollama/Sonnet + Tier 0a Sonnet patch + Tier 0b
-  bump-source-sha.py + refusal detection + body-hash drift check）。
+  docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md 整份（priority schema 三路徑分流 +
+  backend cascade — **cascade 現行順序以 pipeline 與 translate.py DEFAULT_CASCADE_ID
+  為準，本 prompt 不複寫模型名**；2026-07-05 dna-audit：本行曾寫死 owl-alpha/Hy3
+  四 tier，兩模型退役 54/25 天後每晚 cron 仍在念，是 #56 drift 的 prompt 層版本）。
 
   ⚠️ §義務鐵律（v2.3 哲宇 2026-05-13 拍板）：babel 義務是推同步率到 100%（stale → 0
   across 5 langs）。不主動 defer / skip / partial / 守 boundary。對應
@@ -509,10 +512,15 @@ prompt: |
   - pending ≥ 50 → auto-drop 最舊 5 條 `Requested by twmd-spore-pick-daily routine`
     未被 promote（priority 仍 P2 / 未被改 Hook）的 entries。哲宇 promote 過的 entry 不動
 
+  v2.13 加 §MEMORY 索引 rollup step（2026-07-05 蒸餾債清償 owner 指派）：
+  跑 `python3 scripts/tools/memory-index-rollup.py`（dry-run 看計畫）→ `--apply`。
+  SOP canonical：MEMORY-PIPELINE §索引蒸餾。inline 超 80 列不 rollup = 蒸餾債重新累積。
+
   本 routine 不複寫 stage 細節（per MANIFESTO §薄殼鐵律）— 讀 LESSONS-INBOX 取最新版本。
   Stage 3 commit + push origin main — 直接 push（v2.0 main-direct）。
 
 quality_gate:
+  - MEMORY.md inline index ≤ 80 列（rollup 跑過，v2.13）
   - LESSONS-INBOX §未消化清單條目數下降（distill 確實有跑）
   - 至少 1 條升 canonical（MANIFESTO / DNA / MEMORY / pipeline 其一被 commit）
   - 已消化 entries 含 verification_count 紀錄 + canonical pointer
@@ -860,6 +868,8 @@ REFLEXES #36（founder time = 系統最高 leverage point）+ REFLEXES #15（反
 ---
 
 🧬
+
+_v2.13 | 2026-07-05 dna-audit — **SSOT 對齊 live + 蒸餾債 owner 接線**：(1) spore-pick/publish 排程表列標 ⏸️ live disabled（6/14 起，¹³ 註記，裁決 pending 哲宇）(2) babel prompt 死模型行（owl-alpha/Hy3）改純 pointer (3) 18:00 殘留 ×3 → 19:00（v2.9 單一出現點鐵律 self-heal）(4) distill 加 MEMORY 索引 rollup step + quality gate（memory-index-rollup.py，蒸餾債 owner = distill-weekly）(5) description 對齊 live 14+3。觸發：reports/dna-pipeline-evolution-audit-2026-07-05.md §S1/S4。_
 
 _v2.10 | 2026-06-12 goal-notes session — **spore 產線重開實驗**：哲宇揭露 5/28 停用是刻意決策（自動發文未過審 + 事實查核不嚴被讀者指正）並拍板重開實驗。兩 task enable + 觀察條款（連 3 cycle 0 dup / 0 事實 callout，爆即 pause）。OBSERVER-QUEUE #1 移已決。_
 

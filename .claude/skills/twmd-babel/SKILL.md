@@ -39,7 +39,7 @@ Routine cron `30 0 * * *`（每天 00:30，2026-05-28 shift 從 05:00 → 00:30 
 
 ## Pipeline
 
-嚴格走 [SQUEEZE-MODELS-MAX-PIPELINE.md](../../../docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md) **v3**（priority schema + Tier 0 patch + decision tree）。
+嚴格完整讀取 [SQUEEZE-MODELS-MAX-PIPELINE.md](../../../docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)（**現行版**：priority schema + Tier 0 patch + backend cascade 抽象層 — cascade 順序以 pipeline 與 `translate.py DEFAULT_CASCADE_ID` 為準，本 skill 不寫死模型名；2026-07-05 前此處釘 v3 + owl-alpha 已 stale 25 天）。
 
 3. **Decision tree per batch**：
 
@@ -48,14 +48,14 @@ Routine cron `30 0 * * *`（每天 00:30，2026-05-28 shift 從 05:00 → 00:30 
      python3 scripts/tools/lang-sync/prioritize-batch.py --lang all --by-article --top-n 20 --out /tmp/batch.txt
 
    Step 2: 看每篇 priority 決定路徑：
-     P0 (missing)         → Tier 1 cascade (full translation, owl-alpha)
+     P0 (missing)         → Tier 1 cascade（full translation，backend 順序見 translate.py）
      P1 (major, diff ≥ 50)→ Tier 1 cascade
      P2 (minor, diff < 50)→ Tier 0a diff-patch (Sonnet sub-agent)
      P2.5 (metadata-only) → Tier 0b bump-source-sha (deterministic, instant)
      P3 (old, fresh hash) → 視內容 P2/P2.5 路由
 
    Step 3: 執行：
-     - P0+P1 → prepare-batch.py + openrouter-batch.sh × 5 lang × 1 worker
+     - P0+P1 → prepare-batch.py（**per-lang 分開跑，禁 --lang all**，REFLEXES #40/#42 v6）+ translate.py cascade
      - P2    → diff-patch-prepare.py + Agent tool 平行 dispatch Sonnet sub-agents
      - P2.5  → bump-source-sha.py --apply (instant)
    ```

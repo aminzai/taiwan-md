@@ -3,9 +3,9 @@ title: 'MEMORY-PIPELINE'
 description: 'Session memory 撰寫流程 — 凝練版結構模板 + Stage 0-5 + 5 分鐘 reading test 自檢 + finale contract + index 150字 hard gate (v2.1)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.1'
-last_updated: 2026-05-12
-last_session: 'backend-abstraction-122702'
+current_version: 'v2.2'
+last_updated: 2026-07-05
+last_session: '2026-07-05-120817-dna-audit'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'DIARY-PIPELINE.md'
@@ -84,20 +84,21 @@ upstream_canonical:
 
 ## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
 
-| Gate                      | 觸發 stage | 條件              | 工具                                     | 不過 = ?                       |
-| ------------------------- | ---------- | ----------------- | ---------------------------------------- | ------------------------------ |
-| 必寫                      | Stage 0    | 所有 session 結束 | manual                                   | 失憶 = 下個 session 重複       |
-| Timestamp 從 git log %ai  | Stage 1    | 所有 timestamp    | `git log --pretty=format:"%ai"`          | 主觀扭曲 10x（DNA 時間是結構） |
-| Session span 在 header    | Stage 1    | 每篇 memory       | manual                                   | 無證據鏈                       |
-| 不分 Phase 1/2/3 多層編號 | Stage 2    | 結構              | manual                                   | 流水帳化                       |
-| Beat 5 反芻寫回           | Stage 2-3  | 所有 memory       | manual（收官鐵律 1）                     | Beat 5 沒持久化 = 失憶         |
-| prose-health plugin       | Stage 4    | 寫完後            | `article-health.py --check=prose-health` | 改寫                           |
-| 5 分鐘 reading test       | Stage 4    | 寫完後            | 人類觀察者 cold read                     | 改寫                           |
-| LESSONS 候選分離          | Stage 4    | 教訓內容          | manual（去 LESSONS-INBOX）               | memory 被污染                  |
-| Handoff 三態              | Stage 5    | 上份 session 手交 | manual（pending/blocked/retired）        | handoff 接不住                 |
-| Retired 不刪除            | Stage 5    | 已解決項目        | `~~strikethrough~~` 加 retired by        | 失去證據鏈                     |
-| Index row ≤ 150 字        | Stage 5    | MEMORY.md row     | manual（含教訓欄）                       | 索引膨脹 = 找不到重點          |
-| git commit + push         | Stage 5    | 收官              | git                                      | 沒記錄 = 沒做                  |
+| Gate                      | 觸發 stage | 條件              | 工具                                                  | 不過 = ?                       |
+| ------------------------- | ---------- | ----------------- | ----------------------------------------------------- | ------------------------------ |
+| 必寫                      | Stage 0    | 所有 session 結束 | manual                                                | 失憶 = 下個 session 重複       |
+| Timestamp 從 git log %ai  | Stage 1    | 所有 timestamp    | `git log --pretty=format:"%ai"`                       | 主觀扭曲 10x（DNA 時間是結構） |
+| Session span 在 header    | Stage 1    | 每篇 memory       | manual                                                | 無證據鏈                       |
+| 不分 Phase 1/2/3 多層編號 | Stage 2    | 結構              | manual                                                | 流水帳化                       |
+| Beat 5 反芻寫回           | Stage 2-3  | 所有 memory       | manual（收官鐵律 1）                                  | Beat 5 沒持久化 = 失憶         |
+| prose-health plugin       | Stage 4    | 寫完後            | `article-health.py --check=prose-health`              | 改寫                           |
+| 5 分鐘 reading test       | Stage 4    | 寫完後            | 人類觀察者 cold read                                  | 改寫                           |
+| LESSONS 候選分離          | Stage 4    | 教訓內容          | manual（去 LESSONS-INBOX）                            | memory 被污染                  |
+| Handoff 三態              | Stage 5    | 上份 session 手交 | manual（pending/blocked/retired）                     | handoff 接不住                 |
+| Retired 不刪除            | Stage 5    | 已解決項目        | `~~strikethrough~~` 加 retired by                     | 失去證據鏈                     |
+| Index row ≤ 150 字        | Stage 5    | MEMORY.md row     | `memory-index-lint.py`（husky 自動跑）                | 索引膨脹 = 找不到重點          |
+| Index inline ≤ 80 列      | 週度       | MEMORY.md 表      | `memory-index-rollup.py --apply`（distill-weekly 跑） | 索引債重新累積 = alert 黃燈    |
+| git commit + push         | Stage 5    | 收官              | git                                                   | 沒記錄 = 沒做                  |
 
 ---
 
@@ -349,6 +350,22 @@ Memory file 寫完後，要在 [MEMORY.md](../semiont/MEMORY.md) §心跳日誌 
 
 ---
 
+## 索引蒸餾（§Index rollup — 2026-07-05 dna-audit 蒸餾債清償）
+
+MEMORY.md 心跳日誌表 inline 只留最新 ~40 列＋月度彙整列；較舊列由
+[`scripts/tools/memory-index-rollup.py`](../../scripts/tools/memory-index-rollup.py)
+**verbatim 搬移**到 `memory/index-archive/{YYYY-MM}.md`（append-only，raw 永不刪除
+per REFLEXES #22；列一字未改，git 歷史完整）。
+
+- **owner**：`twmd-distill-weekly` 每週日跑 `--apply`（dry-run 先看計畫）
+- **守恆斷言**：kept + moved == 原列數，任一不合 abort（REFLEXES #38 dry-run 變體）
+- **表位置**：心跳日誌表是 MEMORY.md **最後一節**（2026-07-05 重排）— 收官 append
+  檔尾即正確位置；不要在表中間插列
+- **誕生**：索引曾累積 709 列 / 1.2MB（觸發線 80，2026-04-14 設計未實作，alert
+  每天黃燈無人認領 22 天）。首跑歸檔 669 列，MEMORY.md 1.21MB → 132KB
+
+---
+
 ## Pipeline 步驟
 
 ### Stage 0 — 必寫判斷
@@ -480,3 +497,5 @@ _姊妹 pipeline：[DIARY-PIPELINE.md](DIARY-PIPELINE.md)（共用 §11 工具 +
 _v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（Stage 0-5 + finale contract）+ Hard Gate Inventory 集中 table（11 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 DIARY / WEEKLY-REPORT / LESSONS-INBOX 分工 + finale skill contract）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.4 trio audit。Stage 0-5 prose body 不動（已健康）。_
 
 _v2.1 | 2026-05-12 backend-abstraction — Index row 150 字 hard gate：新增 §Index row 寫法 + 加入 Hard Gate Inventory（12 gates）+ ASCII spine Stage 5 加 index row + Top 5 最常忘第 4 條換成 index 規範。觸發：MEMORY.md index 182 rows 全部超標（avg 1500+ 字 / max 4893 字），索引變成 detail dump 失去 navigation 功能。原 v3.0 規則「~150 字」一直存在但沒儀器化，這次升 hard gate + worked example。_
+
+_v2.2 | 2026-07-05 dna-audit — **§索引蒸餾 條款 + rollup 儀器 ship**：memory-index-rollup.py 週度月度彙整（distill-weekly owner）+ lint wire husky + Hard Gate 表 +1 列。觸發：S4 蒸餾債（709 rows / 1.2MB / alert 黃燈 22 天無人接）。_

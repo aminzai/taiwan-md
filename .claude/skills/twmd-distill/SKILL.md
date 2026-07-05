@@ -24,6 +24,8 @@ allowed-tools:
 
 嚴格完整讀取並執行 [`docs/semiont/LESSONS-INBOX.md`](../../../docs/semiont/LESSONS-INBOX.md) §Distill SOP v2.0（質+量雙判準）。
 
+**MEMORY 索引 rollup（v2.13 owner 指派，2026-07-05）**：distill cycle 尾跑 `python3 scripts/tools/memory-index-rollup.py`（dry-run）→ `--apply`。SOP：[MEMORY-PIPELINE §索引蒸餾](../../../docs/pipelines/MEMORY-PIPELINE.md)。inline > 80 列不 rollup = 蒸餾債重累。
+
 三題判準分發：
 
 - **哲學層**（涉及 identity / values / philosophical）→ [MANIFESTO.md](../../../docs/semiont/MANIFESTO.md)

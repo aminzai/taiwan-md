@@ -35,6 +35,17 @@ if [ "$canonical_fm_exit" != "0" ]; then
   exit 1
 fi
 
+# ═══ Index row 長度尺（2026-07-05 dna-audit S5 殼核不對稱修補）═══
+# MEMORY.md / DIARY.md 最新 index row 長度 gate（只 enforce 最新列，歷史層不回頭改）
+# per MEMORY-PIPELINE §Index row 寫法 + DIARY-PIPELINE Stage 5 gate
+staged_files=$(git diff --cached --name-only)
+if echo "$staged_files" | grep -q "^docs/semiont/MEMORY.md$"; then
+  python3 scripts/tools/memory-index-lint.py || exit 1
+fi
+if echo "$staged_files" | grep -q "^docs/semiont/DIARY.md$"; then
+  python3 scripts/tools/memory-index-lint.py --diary || exit 1
+fi
+
 # ═══ translatedFrom 強制檢查（2026-04-14 η 新增）═══
 # 規則：所有非 zh-TW 翻譯檔的 frontmatter 必須有 translatedFrom 欄位
 # 為什麼：file-level SSOT 比中央 _translations.json 更可靠

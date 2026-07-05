@@ -1,11 +1,11 @@
 ---
 title: 'DIARY-PIPELINE'
-description: '日記撰寫流程 — 紀實散文文體 + Stage 0-5 + 自檢工具（共用 prose-health plugin）+ finale 條件寫 contract + index 150字 hard gate + article-session relatedDiary 回扣儀器化 sync-diary-links.py (v2.2)'
+description: '日記撰寫流程 — 紀實散文文體 + Stage 0-5 + 自檢工具（共用 prose-health plugin）+ finale 條件寫 contract + index 150字 hard gate + article-session relatedDiary 回扣儀器化 sync-diary-links.py + index lint --diary (v2.3)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.2'
-last_updated: 2026-06-24
-last_session: '2026-06-24-142554-龜山島-rewrite'
+current_version: 'v2.3'
+last_updated: 2026-07-05
+last_session: '2026-07-05-120817-dna-audit'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'MEMORY-PIPELINE.md'
@@ -64,7 +64,7 @@ upstream_canonical:
 │   Stage 5: Commit ──→ git commit + DIARY.md 索引 + relatedDiary 回扣     │
 │            ├── 標題欄 ≤ 60 字 / 核心思考欄 ≤ 150 字                      │
 │            └── 🔗 article-session：sync-diary-links.py 寫回文章 frontmatter│
-│              ↳ Hard gate: index ≤ 220 字 + relatedDiary 回扣（工具）     │
+│              ↳ Hard gate: memory-index-lint.py --diary + relatedDiary 回扣│
 │                                                                          │
 │   ✅ Diary shipped                                                       │
 │                                                                          │
@@ -79,21 +79,21 @@ upstream_canonical:
 
 ## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
 
-| Gate                    | 觸發 stage | 條件            | 工具                                                | 不過 = ?                                         |
-| ----------------------- | ---------- | --------------- | --------------------------------------------------- | ------------------------------------------------ |
-| 反芻訊號判斷            | Stage 0    | 寫之前          | manual                                              | 寫 noise 不寫                                    |
-| 標題不空殼              | Stage 1    | 每篇 diary      | manual（不准用「session reflection」這種）          | 改寫標題                                         |
-| H1 + italic 描述句      | Stage 1    | 每篇 diary      | manual 一句完整中文敘述                             | 補 italic 行                                     |
-| 段落式優先              | Stage 2    | 全篇            | manual（bullet 只用真對等列舉）                     | 改寫                                             |
-| 不分一二三編號分章      | Stage 2    | 結構            | manual                                              | 改成 H2 配文字標題                               |
-| 對位句型 9 變體         | Stage 3    | prose 內        | `grep -cE "不是.{0,30}(，\|，)(是\|就是\|才是)"`    | > 3 → 重寫                                       |
-| 破折號連用 ≤ 15/1500 字 | Stage 3    | prose 內        | `grep -oE "——" \| wc -l`                            | 超標重寫                                         |
-| prose-health plugin     | Stage 3    | 寫完後          | `article-health.py --check=prose-health`            | hard fail → 改寫                                 |
-| 不堆 inline meta-tag    | Stage 3    | prose 內        | manual（「反芻」「核心洞察」prefix 連用）           | 改寫成自然段落                                   |
-| 不中英夾雜              | Stage 3    | prose 內        | manual                                              | 中文為主，technical noun 保留                    |
-| Filename schema         | Stage 4    | commit 前       | `diary/{session-id}.md` 或 `-{topic}.md`            | 改名                                             |
-| Index row ≤ 150 字      | Stage 5    | DIARY.md        | manual（標題≤60 + 核心思考≤150）                    | 索引膨脹 = 找不到重點                            |
-| 🔗 relatedDiary 回扣    | Stage 5    | article-session | `sync-diary-links.py --diary X --article Y --apply` | 文章漏標相關記錄、讀者看不到反芻（REFLEXES #15） |
+| Gate                             | 觸發 stage | 條件            | 工具                                                                                                                       | 不過 = ?                                         |
+| -------------------------------- | ---------- | --------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 反芻訊號判斷                     | Stage 0    | 寫之前          | manual                                                                                                                     | 寫 noise 不寫                                    |
+| 標題不空殼                       | Stage 1    | 每篇 diary      | manual（不准用「session reflection」這種）                                                                                 | 改寫標題                                         |
+| H1 + italic 描述句               | Stage 1    | 每篇 diary      | manual 一句完整中文敘述                                                                                                    | 補 italic 行                                     |
+| 段落式優先                       | Stage 2    | 全篇            | manual（bullet 只用真對等列舉）                                                                                            | 改寫                                             |
+| 不分一二三編號分章               | Stage 2    | 結構            | manual                                                                                                                     | 改成 H2 配文字標題                               |
+| 對位句型 9 變體                  | Stage 3    | prose 內        | `grep -cE "不是.{0,30}(，\|，)(是\|就是\|才是)"`                                                                           | > 3 → 重寫                                       |
+| 破折號連用 ≤ 15/1500 字          | Stage 3    | prose 內        | `grep -oE "——" \| wc -l`                                                                                                   | 超標重寫                                         |
+| prose-health plugin              | Stage 3    | 寫完後          | `article-health.py --check=prose-health`                                                                                   | hard fail → 改寫                                 |
+| 不堆 inline meta-tag             | Stage 3    | prose 內        | manual（「反芻」「核心洞察」prefix 連用）                                                                                  | 改寫成自然段落                                   |
+| 不中英夾雜                       | Stage 3    | prose 內        | manual                                                                                                                     | 中文為主，technical noun 保留                    |
+| Filename schema                  | Stage 4    | commit 前       | `diary/{session-id}.md` 或 `-{topic}.md`                                                                                   | 改名                                             |
+| Index row 標題≤60 + 核心思考≤150 | Stage 5    | DIARY.md        | `memory-index-lint.py --diary`（husky pre-commit 自動跑；2026-07-05 儀器化，此前 manual 導致 94% 列超長 → DIARY.md 274KB） | 索引膨脹 = 找不到重點 + 甦醒稅                   |
+| 🔗 relatedDiary 回扣             | Stage 5    | article-session | `sync-diary-links.py --diary X --article Y --apply`                                                                        | 文章漏標相關記錄、讀者看不到反芻（REFLEXES #15） |
 
 ---
 
@@ -442,3 +442,5 @@ _v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAI
 _v2.1 | 2026-05-12 backend-abstraction — Index row 150 字 hard gate（跟 MEMORY-PIPELINE v2.1 平行升級）：ASCII spine Stage 5 加 index row 規則 + Hard Gate Inventory 加第 12 gate + Top 5 最常忘第 5 條換成 index 規範。觸發：MEMORY.md 索引膨脹同時 DIARY.md 核心思考欄部分超標（9/81 rows），統一規則防止索引變 detail dump。_
 
 _v2.2 | 2026-06-24 龜山島-rewrite — **article-session relatedDiary 回扣儀器化**：Stage 5 原有「手動補文章 frontmatter relatedDiary」的 prose 提醒（v2.0 起）沒工具 + 沒閘門 → 龜山島 NEW 深度文 ship 了 diary 卻沒回扣，哲宇 callout「文章沒標注相關的記錄」。修補：(1) 新工具 [`scripts/tools/sync-diary-links.py`](../../scripts/tools/sync-diary-links.py)（append/merge relatedDiary、idempotent、寫 knowledge + src/content mirror、YAML apostrophe-safe、--auto git 偵測 ADDED 文章）(2) Stage 5 prose → 跑工具的 HARD step (3) Hard Gate Inventory 加第 13 gate「relatedDiary 回扣」(4) Top 5 → Top 6 加第 6 條 (5) ASCII spine Stage 5 加回扣 (6) REWRITE-PIPELINE Step 5.3-bis 同步指向工具。神經迴路「規則要能執行才算規則」+ REFLEXES #15「反覆浮現要儀器化」：prose 提醒不是閘門，工具 + hard gate 才是。`/twmd-finale` 收官 diary 後自動跑此步。_
+
+_v2.3 | 2026-07-05 dna-audit — **index row gate 儀器化 + 三數字統一**：spine 與 gate 表原有三個互斥上限（60+150 / 220 / 150）統一為「標題 ≤60 + 核心思考 ≤150」，工具從 manual 升 `memory-index-lint.py --diary`（husky pre-commit 自動跑）。觸發：dna-audit 實測 DIARY.md 209 列中 196 列超長（無尺 = 274KB 甦醒稅根因，S5 殼核不對稱：memory 6/19 有 lint、diary 沒有）。_
