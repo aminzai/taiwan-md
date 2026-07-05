@@ -314,6 +314,31 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-05 twmd-maintainer-pm — pre-pm-upstream-chain-absorbs-pm-actionable-window：連 3 cycle pm 22:00 空場 vc=3 escalation，上游從「am chain」generalize 為「任何 pre-pm 4hr 洪流」
+
+- **pattern**: `pre-pm-upstream-chain-absorbs-pm-actionable-window`（routine cron schedule mismatch × 上游 chain 吃 pm actionable × Q13 anti-bias 空場鐵律）
+- **原則**：twmd-maintainer-pm 22:00 fire 連 ≥ 3 個 cycle 空場（0 fresh PR / 0 fresh issue / 0 contributor 響應），代表 22:00 這個 slot 的 actionable window 已被 pre-pm 上游 chain 系統性吸乾，非偶發。**上游變體 v1（7/03-4）= am cron chain 08:30 clear queue → 14hr no fresh input → pm 純 carry；上游變體 v2（7/05）= evening manual pr-sweep 17:44 + rewrite-daily 19:10 EVOLVE + routine-audit 21:17 4hr 洪流 → 22:04 fire 時 backlog=0**。共通結構：pm 22:00 撞牆前的任一 upstream chain 都可能吸乾其 actionable window。**routine 端不能用 performative work（貼 comment 演出 review / poke merged PR author / re-review carry issue）自我合理化空場，per DNA §37 空場即空場**；也不能每 cycle 重複寫「pm 純 carry」LESSONS entry 製造 log noise，該做的是**一次 escalate 到觀察者拍板 schedule 重排**。
+- **觸發**：
+  - **7/03 pm** first empty datapoint (am cron chain 08:40 吸 8 PR + 5 fresh issue → pm 22:00 純 carry)
+  - **7/04 pm** vc=2 second datapoint (am 08:43 clear queue → pm 14hr no fresh；記名「am-absorbs-pm-carry-forward」sub-shape)
+  - **7/05 pm** vc=3 escalation datapoint (evening chain 17:44 pr-sweep + 19:10 rewrite EVOLVE + 20:06 evolve v7.7 + 21:17 routine-audit cycle 9 + 22:00:39 風力獸 heal → 22:04 fire 時 0 open PR / 0 fresh issue / 0 fresh commit)
+- **instances**：
+  - #1 2026-07-03 twmd-maintainer-pm sub-shape v1「am-absorbs-pm」
+  - #2 2026-07-04 twmd-maintainer-pm sub-shape v1「am-absorbs-pm」vc=2
+  - #3 2026-07-05 twmd-maintainer-pm sub-shape v2「evening-manual+routine-chain-absorbs-pm」→ **generalize 為 umbrella pattern「pre-pm-upstream-chain-absorbs-pm」**
+- **可能層級 / 修補候選（呈報哲宇拍板）**：
+  - **(A) Schedule 重排**：pm cron 從 22:00 挪到 am 早期（07:00 pre-feedback-triage）或整併進 am maintainer。**風險**：morning window 已擁擠、pm cron 若挪走則 evening 洪流後無 routine 收尾層
+  - **(B) 條件式 fire**：pm cron 加 pre-check「past 4hr 有 ≥ 2 高強度 session (PR merge / rewrite / audit) → skip」。**風險**：邏輯複雜化、可能漏掉真正該做的 pm 動作
+  - **(C) 接受 pm 為 sustain-only reporter**：明確定義 pm 22:00 職責就是「當日狀態 snapshot + 記錄 vc」不做 fresh action，routine spec §Stage 3 鐵律再收緊「無 fresh signal 直接 skip 到 Stage 4」。**風險**：pm cron 變 heartbeat-only 儀式化
+  - **(D) Do nothing**：接受 pm 空場為 healthy signal（上游 chain 有效吸乾），routine 續守 sustain vc 累計即可，不重排。**風險**：REFLEXES #15 反覆浮現原則失效
+- **mitigation 路徑**：P0 呈報哲宇拍板 A/B/C/D；P1 routine spec 目前的「連 ≥ 3 cycle → 寫 LESSONS」條款考慮升級為「一次 escalate 後 sustain vc 累計，不重複寫新 entry」（避免下次 vc=4 再開一條）；P2 若拍板 (B) → pm cron prompt 加 pre-check bash
+- **相關**：DNA §37（空場即空場不粉飾） / REFLEXES #7（先有再求好 — 不 apply 沒 fresh input case） / feedback_hourly_cron_intentional（storm-defer 反面案例，pm 空場不是 defer 是本質空） / `immune-chronic-N-cycle-subdim-offset-exhaust`（同 escalate-to-observer family — routine 端持續 log 但體質層 defer 哲宇）
+- **verification_count**: 3（vc=1 7/03 pm / vc=2 7/04 pm / vc=3 7/05 pm — 兩 sub-shape 收斂為 umbrella pattern）
+- **severity**: structural（routine schedule slot 效能結構性問題，每 cycle noise log 累積 = 儀器記憶洞）
+- **defer 給觀察者**：**是** — schedule 重排 / cron 觸發條件 / routine 職責重新定義皆屬 § 自主權邊界（threshold + 跨 routine 影響），必須哲宇拍板 A/B/C/D 四選一
+
+---
+
 ### 2026-07-05 twmd-routine-audit-weekly cycle 9 — routine-prompt-thick-shell-systemic-violation：17 mirror 只 3 條合規，12 條 hard 違反薄殼鐵律 >50 lines
 
 - **pattern**: `routine-prompt-thick-shell-systemic-violation`（ROUTINE-PROMPT-CONTRACT.md 薄殼鐵律的 systemic breach，非個別 mirror 疏失）

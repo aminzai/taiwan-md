@@ -308,3 +308,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-05 | 191010-twmd-rewrite-daily | 18:00 cron +70min 讀畢後 capacity 誠實 defer full cycle；今日已兩 EVOLVE+heal batch+audit 收官，寫 handoff memory 承接 | vc=3 promote-ready；orchestrator 疲勞承認 | [→](memory/2026-07-05-191010-twmd-rewrite-daily.md) |
 | 2026-07-05 | 200510-柯智棠健檢 | transcript 考古定位 raw 蒸發斷點（orchestrator 收件壓縮）；三病例救二失一；r2 收件 gate 儀器化 agent-report-health + REFLEXES #81 | 訊息通道與 tmp 都不可信，raw 唯一的家在 git；收到先落檔跑 gate 才准合成 | [→](memory/2026-07-05-200510-柯智棠健檢.md) |
 | 2026-07-05 | 211729-twmd-routine-audit-weekly | cycle 9 audit 144 commit / 3 新 LESSONS + 4 vc+1；儀器四件套首次全用上 | audit 自己也違反薄殼契約（60 lines）— dogfood 起點 | [→](memory/2026-07-05-211729-twmd-routine-audit-weekly.md) |
+| 2026-07-05 | 220438-twmd-maintainer-pm | pm 22:04 vc=3 空場；0 PR / 16 issue carry；LESSONS `pre-pm-upstream-absorbs-pm` 呈報 A/B/C/D | pm slot 撞牆非偶發：上游 am + evening 兩變體 | [→](memory/2026-07-05-220438-twmd-maintainer-pm.md) |
