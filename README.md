@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **840 curated articles** (zh-TW SSOT) across 14 categories — projected to **6 languages** = 5,040 article-versions
+- 📖 **842 curated articles** (zh-TW SSOT) across 14 categories — projected to **6 languages** = 5,052 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français — 5 lang each ≥ 80% real freshPct (en 96% / ja 97% / ko 93% / fr 93% / es 80%)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -48,21 +48,21 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 840   |
-| 🇹🇼 Chinese (zh-TW)             | 840   |
-| 🇺🇸 English (en)                | 835   |
-| 🇯🇵 日本語 (ja)                 | 830   |
-| 🇰🇷 한국어 (ko)                 | 831   |
-| 🇪🇸 Español (es)                | 830   |
-| 🇫🇷 Français (fr)               | 831   |
+| 📄 Total articles (zh-TW SSOT) | 842   |
+| 🇹🇼 Chinese (zh-TW)             | 842   |
+| 🇺🇸 English (en)                | 849   |
+| 🇯🇵 日本語 (ja)                 | 843   |
+| 🇰🇷 한국어 (ko)                 | 844   |
+| 🇪🇸 Español (es)                | 842   |
+| 🇫🇷 Français (fr)               | 843   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 65    |
 | ⭐ GitHub Stars                | 1096  |
 | 🍴 Forks                       | 160   |
-| 📅 Articles last 7 days        | 28    |
-| 📅 Articles last 30 days       | 136   |
+| 📅 Articles last 7 days        | 40    |
+| 📅 Articles last 30 days       | 148   |
 
 <!-- STATS:END -->
 

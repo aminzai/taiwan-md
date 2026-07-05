@@ -1,28 +1,28 @@
 {
-  "totalArticles": 4999,
+  "totalArticles": 5065,
   "totalCategories": 20,
   "estimatedContributors": 65,
-  "totalTags": 6132,
+  "totalTags": 6093,
   "categories": [
     {
       "name": "es",
-      "count": 830
+      "count": 842
     },
     {
       "name": "ko",
-      "count": 831
+      "count": 844
     },
     {
       "name": "fr",
-      "count": 831
+      "count": 843
     },
     {
       "name": "en",
-      "count": 835
+      "count": 849
     },
     {
       "name": "ja",
-      "count": 830
+      "count": 843
     },
     {
       "name": "History",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Economy",
-      "count": 54
+      "count": 56
     },
     {
       "name": "Technology",
@@ -88,7 +88,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 75
+      "count": 74
     },
     {
       "name": "人物",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4999,
+    "zh-TW": 5065,
     "en": 0
   },
-  "lastUpdated": "2026-07-05T15:09:47.878Z",
+  "lastUpdated": "2026-07-05T22:12:12.696Z",
   "stars": 1096,
   "forks": 160,
-  "zhPages": 840,
-  "enPages": 835,
-  "totalPages": 840
+  "zhPages": 842,
+  "enPages": 849,
+  "totalPages": 842
 }

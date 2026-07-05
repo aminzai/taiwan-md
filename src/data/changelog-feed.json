@@ -1,7 +1,170 @@
 {
-  "generatedAt": "2026-07-05T15:09:49.500Z",
+  "generatedAt": "2026-07-05T22:12:14.414Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "9c84908e7dfe2eeafe656e53d947228fd2648139",
+      "date": "2026-07-06T05:18:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-06-051718-twmd-embeddings-nightly — 遷本機首夜 nightly 0 fail / verify PASS",
+      "articles": []
+    },
+    {
+      "hash": "1d5ca756ab8888e3e3d31828e1e3bd2981cef1e3",
+      "date": "2026-07-06T05:16:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-06 05:16",
+      "articles": []
+    },
+    {
+      "hash": "ed7c17ddf377ebb4ace3dacc554a98a2389344dc",
+      "date": "2026-07-06T03:09:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-06-003506-twmd-babel-nightly — babel 5 lang sync + cascade exhaustion 洞察",
+      "articles": []
+    },
+    {
+      "hash": "b2092c8a484318f238305a60b7991378d93f0dd8",
+      "date": "2026-07-06T03:06:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: sync _translations.json — 64 new entries from tonight's babel batch",
+      "articles": []
+    },
+    {
+      "hash": "b4fa7ea45ed210b8d1885b666f9ac697eca2b464",
+      "date": "2026-07-06T03:03:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 84 P0 + 30 diff-patch + 25 bump — 5 lang sync 2026-07-06",
+      "articles": []
+    },
+    {
+      "hash": "06a3d32021e5d0e268a9203ef72c58b7f44d8ac9",
+      "date": "2026-07-06T00:26:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: REWRITE-PIPELINE Step 0.6.1-bis 收斂為 PERSONA-PIPELINE 薄殼 pointer",
+      "articles": []
+    },
+    {
+      "hash": "0a02abc9c47088333b5c5ba4ed2c6d1cc27c8230",
+      "date": "2026-07-06T00:16:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-06-000958-AAMA-SLP — AAMA+SLP 兩篇出貨收官",
+      "articles": []
+    },
+    {
+      "hash": "eb4f44639eb4cd672341f6966e0239be1fb89ebd",
+      "date": "2026-07-06T00:14:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-05-220917-INDIGO-REWRITE — 藍染重寫兩層查證各攔一次真實錯誤",
+      "articles": []
+    },
+    {
+      "hash": "cfaa22a5d7f07ba49573b46f4de1c23d99079c5a",
+      "date": "2026-07-06T00:03:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 新增 AAMA台北搖籃計畫 + SLP台北創業領導計畫兩篇新創導師制文章",
+      "articles": [
+        {
+          "url": "/economy/AAMA台北搖籃計畫",
+          "name": "AAMA台北搖籃計畫"
+        },
+        {
+          "url": "/economy/SLP台北創業領導計畫",
+          "name": "SLP台北創業領導計畫"
+        },
+        {
+          "url": "/economy/台灣企業：研華科技",
+          "name": "台灣企業：研華科技"
+        },
+        {
+          "url": "/economy/台灣產業轉型升級",
+          "name": "台灣產業轉型升級"
+        }
+      ]
+    },
+    {
+      "hash": "51eb3afdc80573a50039c53d1bff44acb362286d",
+      "date": "2026-07-06T00:00:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 修正「藍與白系列」藍染服飾圖片的攝影者署名",
+      "articles": [
+        {
+          "url": "/culture/台灣傳統工藝與無形文化資產",
+          "name": "台灣傳統工藝與無形文化資產"
+        }
+      ]
+    },
+    {
+      "hash": "a43cf91531f0fd65f68909693150e2c5b1b87dfa",
+      "date": "2026-07-05T23:59:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 藍染 — 從單薄舊文全面重寫成四個復振社群的立體工藝史",
+      "articles": [
+        {
+          "url": "/culture/台灣傳統工藝與無形文化資產",
+          "name": "台灣傳統工藝與無形文化資產"
+        },
+        {
+          "url": "/culture/台灣花布",
+          "name": "台灣花布"
+        },
+        {
+          "url": "/culture/客家文化與語言",
+          "name": "客家文化與語言"
+        },
+        {
+          "url": "/culture/藍染",
+          "name": "藍染"
+        }
+      ]
+    },
+    {
+      "hash": "676c8cd67610e8f0b18f75458de6d0bb52b3899c",
+      "date": "2026-07-05T23:44:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 金瓜石 EVOLVE — 把戰俘史從一句模糊寫成有名字有數字的一段",
+      "articles": [
+        {
+          "url": "/geography/金瓜石",
+          "name": "金瓜石"
+        }
+      ]
+    },
+    {
+      "hash": "a12de344e1212c0d8aa27933817bb6168812c9dc",
+      "date": "2026-07-05T23:39:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: embeddings routine 完整彩排 Stage 3——金瓜石重寫中的語意位移入索引",
+      "articles": []
+    },
+    {
+      "hash": "f76f12b19848f0303392db2d324d7242cfa499e8",
+      "date": "2026-07-05T23:22:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 明晨 embeddings routine 全鏈預檢——mirror 內嵌舊 fleet 解析同夜抓修，避免第 19 夜 skip",
+      "articles": []
+    },
+    {
+      "hash": "0fdf272c6f964f4db2dd0899278eed3e3fef8648",
+      "date": "2026-07-05T23:14:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: git-identity session 收官——三題連發的 memory + diary + 歸檔報告",
+      "articles": []
+    },
+    {
+      "hash": "46ce1b8d9158f078c8a7f7882b0af03e024d6a96",
+      "date": "2026-07-05T23:12:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-05-230828-twmd-data-refresh-pm — pm 14-step 全綠 + CF 404 26.13% 破 5-cycle 上緣 + 免疫一日 49→47 續漂 + fork-census 首個 sub-national fork LagunaBeach.md",
+      "articles": []
+    },
+    {
+      "hash": "40d1f9650f2bb6b89cccac3fa0de9cd84293cc0e",
+      "date": "2026-07-05T23:10:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh",
+      "articles": []
+    },
     {
       "hash": "b5423e836c9d7a454e157edea2dafc5b201f0186",
       "date": "2026-07-05T23:06:09+08:00",
