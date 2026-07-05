@@ -306,5 +306,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-05 | 165518-五病根治 | 接手殭屍 session＋審計 P0 全清＋儀器四件套（counts-drift／live 三層／boot稅／alerts owner）＋6/19 chip 結案＋七篇 UI merge 文修復＋風力獸解剖圖 | 殭屍 session 先讀 transcript 劃車道；根治＝把不一致變每日黃燈 | [→](memory/2026-07-05-165518-五病根治.md) |
 | 2026-07-05 | 175844-pr-sweep | 哲宇一句解鎖 8 open PR 全收官：8 merge + 2 heal；蕃薯藤杜撰引語 ×2 對源攔截、鶯歌/三峽來源與年份錯位修正 | 機械 heal ≠ 事實 heal，引號內容最高驗證優先級；雙 session 六分鐘撞 heal 需 ownership 協調 | [→](memory/2026-07-05-175844-pr-sweep.md) |
 | 2026-07-05 | 191010-twmd-rewrite-daily | 18:00 cron +70min 讀畢後 capacity 誠實 defer full cycle；今日已兩 EVOLVE+heal batch+audit 收官，寫 handoff memory 承接 | vc=3 promote-ready；orchestrator 疲勞承認 | [→](memory/2026-07-05-191010-twmd-rewrite-daily.md) |
-| 2026-07-05 | 200510-柯智棠健檢 | transcript 考古定位 raw 蒸發斷點：agent 全對、orchestrator 收到後壓縮存 scratchpad；三病例救二失一，REWRITE v7.7 鐵律 8 + gate v2 | 訊息通道與 tmp 都不可信，raw 唯一的家在 git；儀器化不變量才追得上環境位移 | [→](memory/2026-07-05-200510-柯智棠健檢.md) |
+| 2026-07-05 | 200510-柯智棠健檢 | transcript 考古定位 raw 蒸發斷點（orchestrator 收件壓縮）；三病例救二失一；r2 收件 gate 儀器化 agent-report-health + REFLEXES #81 | 訊息通道與 tmp 都不可信，raw 唯一的家在 git；收到先落檔跑 gate 才准合成 | [→](memory/2026-07-05-200510-柯智棠健檢.md) |
 | 2026-07-05 | 211729-twmd-routine-audit-weekly | cycle 9 audit 144 commit / 3 新 LESSONS + 4 vc+1；儀器四件套首次全用上 | audit 自己也違反薄殼契約（60 lines）— dogfood 起點 | [→](memory/2026-07-05-211729-twmd-routine-audit-weekly.md) |
