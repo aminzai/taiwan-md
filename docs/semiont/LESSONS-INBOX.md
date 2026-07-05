@@ -314,6 +314,13 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-05 git-identity — github-discussions-structural-blind-spot：MAINTAINER 感知只掃 issue/PR，三則 contributor Discussions 貼文 0 回應（最久 3 個月）
+
+- **pattern**: `github-discussions-structural-blind-spot`（感知器官覆蓋面 × contributor 信任損耗 × minimum-action 成本曲線）
+- **原則**：GitHub 的 contributor 入口有三個（Issues / PRs / Discussions），MAINTAINER-PIPELINE Step 1 只掃前兩個，Discussions 存在於平行時空——沒有任何 routine 或 pipeline 引用 discussions 查詢。證據：#1146（david22115 系統優化五建議，2026-06-13 發，22 天 0 回應）、#307（idlccp1984「為什麼昨天沒有更新？」，2026-04-03 發，3 個月 0 回應）、#231。頂級 contributor 的提問三個月無人理，per 神經迴路 minimum-action 成本曲線已深入失望階段。
+- **修補方向（pipeline rule change，留哲宇擇一）**：A = MAINTAINER Stage 1 加 Discussions 掃描（一行 graphql，未回應貼文進 triage）；B = 關閉 Discussions tab 導流 Issues。完整分析與 #1146 五桶分類：[reports/discussion-1146-response-2026-07-05.md](../../reports/discussion-1146-response-2026-07-05.md)
+- **同構教訓**：「管道存在但沒人看 = 不存在」是 REFLEXES #73 的對外鏡像——#1146 四條建議的共同病根（API / 防線 / bench 都存在但外人看不見）跟這個盲點是同一枚硬幣的兩面：我們沒看見他們的入口，他們看不見我們的出口。
+
 ### 2026-07-05 twmd-maintainer-pm — pre-pm-upstream-chain-absorbs-pm-actionable-window：連 3 cycle pm 22:00 空場 vc=3 escalation，上游從「am chain」generalize 為「任何 pre-pm 4hr 洪流」
 
 - **pattern**: `pre-pm-upstream-chain-absorbs-pm-actionable-window`（routine cron schedule mismatch × 上游 chain 吃 pm actionable × Q13 anti-bias 空場鐵律）

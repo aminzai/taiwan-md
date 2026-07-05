@@ -309,4 +309,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-05 | 200510-柯智棠健檢 | transcript 考古定位 raw 蒸發斷點（orchestrator 收件壓縮）；三病例救二失一；r2 收件 gate 儀器化 agent-report-health + REFLEXES #81 | 訊息通道與 tmp 都不可信，raw 唯一的家在 git；收到先落檔跑 gate 才准合成 | [→](memory/2026-07-05-200510-柯智棠健檢.md) |
 | 2026-07-05 | 211729-twmd-routine-audit-weekly | cycle 9 audit 144 commit / 3 新 LESSONS + 4 vc+1；儀器四件套首次全用上 | audit 自己也違反薄殼契約（60 lines）— dogfood 起點 | [→](memory/2026-07-05-211729-twmd-routine-audit-weekly.md) |
 | 2026-07-05 | 220438-twmd-maintainer-pm | pm 22:04 vc=3 空場；0 PR / 16 issue carry；LESSONS `pre-pm-upstream-absorbs-pm` 呈報 A/B/C/D | pm slot 撞牆非偶發：上游 am + evening 兩變體 | [→](memory/2026-07-05-220438-twmd-maintainer-pm.md) |
-| 2026-07-05 | 221922-git-identity | 哲宇問「Git 帳號要不要獨立」：四路研究 + 評估報告 ship（org+GitHub App 路線、四階段實作、決策包 8 條留哲宇） | 「獨立」在責任層不存在；正解是有標記的手 + 一扇它自己打不開的門 | [→](memory/2026-07-05-221922-git-identity.md) |
+| 2026-07-05 | 221922-git-identity | 哲宇兩題：Git 帳號獨立完整評估 ship（org+App 路線、決策包 8 條）+ #1146 五建議五桶回應報告；Discussions 三則 contributor 貼文 0 回應盲點入 LESSONS | 「獨立」在責任層不存在；管道存在但看不見＝不存在 | [→](memory/2026-07-05-221922-git-identity.md) |
