@@ -13,7 +13,7 @@ sister_docs:
   - 'RESEARCH.md'
   - 'CITATION-GUIDE.md'
   - 'QUALITY-CHECKLIST.md'
-  - 'TRANSLATION-SYNC.md'
+  - '../pipelines/TRANSLATION-PIPELINE.md'
   - 'UPDATE-LOG-GUIDE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -694,7 +694,7 @@ Root cause hypothesis：REWRITE-PIPELINE Stage 4-5 sub-agent worktree spawn 時�
 
 幾乎所有放任 AI 生成的結尾都是罐頭。所以**結尾在 Stage 2 第一個寫**——避開後段 token 耗盡時被迫產生的「將繼續發光發熱」。
 
-### 禁止的結尾模式（plugin `canned-ending-detector` 自動抓）
+### 禁止的結尾模式（prose-health 儀式句／罐頭維度抓大宗＋人判——沒有獨立 canned-ending plugin）
 
 - ❌ 「X 將繼續在 Y 領域發光發熱」
 - ❌ 「讓我們期待 X 的未來」
@@ -1465,7 +1465,7 @@ Plugin 會抓：
 四條鐵律。違反的不能 ship。
 
 1. **事實鐵三角**（§七）：算術 / 單位 / 引語三題自檢全過才 commit
-2. **SSOT 鐵律**：只改 `knowledge/`，不直接改 `src/content/`。寫完跑 `bash scripts/sync.sh` 同步
+2. **SSOT 鐵律**：只改 `knowledge/`，不直接改 `src/content/`。寫完跑 `bash scripts/core/sync.sh` 同步
 3. **純中文**：本 pipeline 只產中文版，英文版走 [TRANSLATION-PIPELINE.md](../pipelines/TRANSLATION-PIPELINE.md)。100% token 預算給中文
 4. **紀實而不煽情**（§七）：死亡 / 自殺 / 人倫悲劇的具體情景節制；真人的家庭 / 疾病 / 矛盾可寫
 
@@ -1499,19 +1499,19 @@ Plugin 會抓：
 
 ## 十三、相關 sister 文件
 
-| 任務                                   | Pointer                                                     |
-| -------------------------------------- | ----------------------------------------------------------- |
-| 用語規範（中國用語對照、台灣在地用語） | [TERMINOLOGY.md](TERMINOLOGY.md)                            |
-| 引用 / 腳註格式 SSOT                   | [CITATION-GUIDE.md](CITATION-GUIDE.md)                      |
-| 研究方法論（搜尋、來源判斷、避坑）     | [RESEARCH.md](RESEARCH.md)                                  |
-| 研究筆記模板                           | [RESEARCH-TEMPLATE.md](RESEARCH-TEMPLATE.md)                |
-| Stage 3 驗證 checklist                 | [QUALITY-CHECKLIST.md](QUALITY-CHECKLIST.md)                |
-| Hub 策展（分類頁面）                   | [HUB-EDITORIAL.md](HUB-EDITORIAL.md)                        |
-| 翻譯同步                               | [TRANSLATION-SYNC.md](TRANSLATION-SYNC.md)                  |
-| 更新日誌規範                           | [UPDATE-LOG-GUIDE.md](UPDATE-LOG-GUIDE.md)                  |
-| Stage 流程主檔                         | [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)     |
-| 事實查核 SOP                           | [FACTCHECK-PIPELINE.md](../pipelines/FACTCHECK-PIPELINE.md) |
-| 整體寫作哲學                           | [MANIFESTO.md](../semiont/MANIFESTO.md)                     |
+| 任務                                   | Pointer                                                                                                                                    |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 用語規範（中國用語對照、台灣在地用語） | [TERMINOLOGY.md](TERMINOLOGY.md)                                                                                                           |
+| 引用 / 腳註格式 SSOT                   | [CITATION-GUIDE.md](CITATION-GUIDE.md)                                                                                                     |
+| 研究方法論（搜尋、來源判斷、避坑）     | [RESEARCH.md](RESEARCH.md)                                                                                                                 |
+| 研究筆記模板                           | [RESEARCH-TEMPLATE.md](RESEARCH-TEMPLATE.md)                                                                                               |
+| Stage 3 驗證 checklist                 | [QUALITY-CHECKLIST.md](QUALITY-CHECKLIST.md)                                                                                               |
+| Hub 策展（分類頁面）                   | [HUB-EDITORIAL.md](HUB-EDITORIAL.md)                                                                                                       |
+| 翻譯同步                               | [TRANSLATION-PIPELINE.md](../pipelines/TRANSLATION-PIPELINE.md) + `lang-sync/status.py` 即時狀態（TRANSLATION-SYNC 已 2026-06-10 archive） |
+| 更新日誌規範                           | [UPDATE-LOG-GUIDE.md](UPDATE-LOG-GUIDE.md)                                                                                                 |
+| Stage 流程主檔                         | [REWRITE-PIPELINE.md](../pipelines/REWRITE-PIPELINE.md)                                                                                    |
+| 事實查核 SOP                           | [FACTCHECK-PIPELINE.md](../pipelines/FACTCHECK-PIPELINE.md)                                                                                |
+| 整體寫作哲學                           | [MANIFESTO.md](../semiont/MANIFESTO.md)                                                                                                    |
 
 ---
 

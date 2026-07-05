@@ -2216,7 +2216,7 @@ relatedDiary:
 
 - `knowledge/{old-category}/{原檔}.md`（zh-TW）
 - `knowledge/{en,ja,ko,fr}/{old-category}/{translation-slug}.md`
-- 跑 `bash scripts/sync.sh`，`src/content/` 鏡像會跟著刪
+- 跑 `bash scripts/core/sync.sh`，`src/content/` 鏡像會跟著刪
 - 確認 `git status` 顯示 zh-TW + 4 lang knowledge + 對應 src/content 全部 deleted
 
 #### Step 5.4.3: Cross-link audit

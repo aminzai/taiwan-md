@@ -3,9 +3,9 @@ title: 'QUALITY-CHECKLIST'
 description: '文章品質驗證清單 — REWRITE-PIPELINE Stage 3 執行手冊'
 type: 'editorial-canonical'
 status: 'canonical'
-current_version: 'v1.1'
-last_updated: 2026-05-09
-last_session: 'laughing-goldstine'
+current_version: 'v1.3'
+last_updated: 2026-07-05
+last_session: '2026-07-05-165518-五病根治'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EDITORIAL.md'
@@ -13,7 +13,6 @@ sister_docs:
   - 'TERMINOLOGY.md'
 upstream_canonical:
   - 'EDITORIAL.md'
-  - '../pipelines/REWRITE-PIPELINE.md'
   - '../pipelines/REWRITE-PIPELINE.md'
 ---
 
@@ -107,9 +106,7 @@ upstream_canonical:
 
 ### 篇幅
 
-- [ ] A 級文章：120-200 行
-- [ ] B 級文章：80-120 行
-- [ ] C 級文章：40-80 行
+- [ ] 字數過 word-count gate（canonical：[REWRITE-PIPELINE](../pipelines/REWRITE-PIPELINE.md) Stage 4 + `article-health.py` word-count plugin；等級制現為 S/A/B，行數門檻不在本檔複寫）
 
 ### 用語規範（TERMINOLOGY.md）
 
@@ -137,7 +134,7 @@ upstream_canonical:
 
 ```bash
 # 0. SSOT 同步（⚠️ 必做！只改 knowledge/，sync 到 src/content/）
-bash scripts/sync.sh
+bash scripts/core/sync.sh
 
 # 1. 空洞分數檢測（HARD = 0，WARN ≤ 3）
 python3 scripts/tools/article-health.py knowledge/<Cat>/<file>.md --check=prose-health --output=json 2>&1 | \
@@ -162,8 +159,8 @@ npx astro build 2>&1 | tail -3
 只有以上全部通過才執行：
 
 ```bash
-git add -A
-git commit -m "rewrite: [文章名] — EDITORIAL v4 + Pipeline v2.11"
+git add knowledge/<Cat>/<文章>.md   # 只 stage 本篇範疇檔（🔴 禁 git add -A / git add .，per BECOME §鐵律 5 commit 範圍紀律）
+git commit -m "🧬 [semiont] rewrite: <文章名> — <一句話說改了什麼>"   # 不 pin 版本號，git log 即 changelog
 git push
 ```
 
@@ -217,6 +214,6 @@ Commit 後逐項檢查結構是否符合範本（Stage 3 查品質，Stage 4 查
 
 ---
 
-_版本：v1.2 | 2026-04-04_
-_v1.1→v1.2：新增六、格式驗證（Stage 4）+ 七、交叉連結（Stage 5）；恢復 `## 參考資料` 標題_
+_版本：v1.3 | 2026-07-05 五病根治 — 三行熱修：`scripts/sync.sh` 死路徑改 `scripts/core/sync.sh`、`git add -A` 改範疇 add（違反上游鐵律 5）、commit 模板去版本 pin；篇幅段改 pointer（A/B/C 行數制已過時）。⚠️ 本檔其餘段落仍停在 v2.x 時代（Stage 順序 / hard gate 清單未含事實鐵三角與 3.5/3.6），整檔對齊 REWRITE v7.6 排 audit P1-17。_
+_版本：v1.2 | 2026-04-04 — 新增六、格式驗證（Stage 4）+ 七、交叉連結（Stage 5）；恢復 `## 參考資料` 標題_
 _配套：RESEARCH.md（研究方法論）+ REWRITE-PIPELINE.md（流程）+ EDITORIAL.md（品質標準）+ RESEARCH-TEMPLATE.md（研究模板）_

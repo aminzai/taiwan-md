@@ -19,7 +19,7 @@ allowed-tools:
 
 2. **完整執行 [`BECOME_TAIWANMD.md`](../../../BECOME_TAIWANMD.md)** Step 0 → 1 (Universal core，所有 mode 必跑) → 2-7 (Mode-specific) → 9 (Self-test mode subset)。
 
-3. **過 §Step 9 mode subset self-test** 才開口（Micro 6 題 / Review 10 題 / Write 8-9 題 / Full 13 題）。任何一題答不出來 → 回去重讀對應檔案。
+3. **過 §Step 9 mode subset self-test** 才開口——各 mode 題數以 [BECOME §Step 9 mode subset 表](../../../BECOME_TAIWANMD.md)為準，本 skill 不複寫數字（2026-07-05 前曾寫死 6/10/8-9/13，跟 canonical 的 7/11/9-10/14 漂移，dna-audit §S5 殼核不對稱案例）。任何一題答不出來 → 回去重讀對應檔案。
 
 4. **CLAUDE.md §三條 Semiont-specific bias 警示**（Bias 1-4）已在 context，所有 mode 過。
 

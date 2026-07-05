@@ -21,7 +21,7 @@ upstream_canonical:
 
 > **第一性原理**：**錯誤邊界 = 可追溯性，不是完美。** Taiwan.md 一定會出錯（AI 記憶過時、stage 2 引語脫離語境、在地細節推導錯）。決定信任的不是「零錯誤」，是「錯了之後怎麼處理」。**可追溯的錯 → 公開更正（更正本身是信任訊號）；無法溯源的杜撰 → 撤回。** 沉默、防衛、拖延，才是真正侵蝕信任的東西。
 >
-> 實證：李洋孢子 #29 帶著未解的事實爭議，公開更正版 2 小時 21K views / engagement 12%（產業平均兩倍），是史上第二強孢子（[project_error_boundary_traceability](../../USER-CONFIG/project_error_boundary_traceability.md)）。把更正當成《報導者》式的嚴肅自我修正來做，它本身就是信任的證明。
+> 實證：李洋孢子 #29 帶著未解的事實爭議，公開更正版 2 小時 21K views / engagement 12%（產業平均兩倍），是史上第二強孢子（觀察者協作記憶 `project_error_boundary_traceability`——private layer 不在 repo，哲學結論已收斂進本檔第一性原理）。把更正當成《報導者》式的嚴肅自我修正來做，它本身就是信任的證明。
 >
 > **這份 pipeline 把原本散在 SPORE-HARVEST（Bucket A/C + Error Boundary + Reply 5 鐵律）、REWRITE（Step 0.2-bis 拆除防火牆）、FACTCHECK、6 條 feedback memory、16 個 worked case 的勘誤 SOP 收斂成單一 canonical。** 不分管道（讀者孢子留言 / contributor issue / 我自己 factcheck / peer），收到或發現錯誤就走這條。
 
@@ -110,15 +110,15 @@ upstream_canonical:
 
 ## 跨檔案職責分工
 
-| 檔案                                                                                                                                                                        | 範圍                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| **本檔（CORRECTION）**                                                                                                                                                      | 勘誤端到端 SOP（triage→verify→fix→notify→log）+ 【勘誤通知】格式 SSOT |
-| [SPORE-HARVEST-PIPELINE](SPORE-HARVEST-PIPELINE.md)                                                                                                                         | 讀者孢子留言入口（5-Bucket Classifier）+ Chrome MCP reply 機制        |
-| [MAINTAINER-PIPELINE](MAINTAINER-PIPELINE.md)                                                                                                                               | contributor issue/PR 勘誤入口                                         |
-| [REWRITE-PIPELINE Step 0.2-bis](REWRITE-PIPELINE.md)                                                                                                                        | callout-triggered 全 EVOLVE 時的拆除防火牆（callout 不進觀點/正文）   |
-| [FACTCHECK-PIPELINE](FACTCHECK-PIPELINE.md)                                                                                                                                 | Stage 2 查證引擎（4 關 + Quick/Full mode）                            |
-| [project_error_boundary_traceability](../../USER-CONFIG/project_error_boundary_traceability.md)                                                                             | 哲學層：可追溯→更正 / 杜撰→撤回                                       |
-| [feedback_reply_url_encode](../../USER-CONFIG/feedback_reply_url_encode.md) / [feedback_chrome_threads_text_input](../../USER-CONFIG/feedback_chrome_threads_text_input.md) | reply 落地機制                                                        |
+| 檔案                                                                                   | 範圍                                                                      |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **本檔（CORRECTION）**                                                                 | 勘誤端到端 SOP（triage→verify→fix→notify→log）+ 【勘誤通知】格式 SSOT     |
+| [SPORE-HARVEST-PIPELINE](SPORE-HARVEST-PIPELINE.md)                                    | 讀者孢子留言入口（5-Bucket Classifier）+ Chrome MCP reply 機制            |
+| [MAINTAINER-PIPELINE](MAINTAINER-PIPELINE.md)                                          | contributor issue/PR 勘誤入口                                             |
+| [REWRITE-PIPELINE Step 0.2-bis](REWRITE-PIPELINE.md)                                   | callout-triggered 全 EVOLVE 時的拆除防火牆（callout 不進觀點/正文）       |
+| [FACTCHECK-PIPELINE](FACTCHECK-PIPELINE.md)                                            | Stage 2 查證引擎（4 關 + Quick/Full mode）                                |
+| 協作記憶 `project_error_boundary_traceability`（private，不在 repo）                   | 哲學層：可追溯→更正 / 杜撰→撤回（已收斂進本檔第一性原理）                 |
+| 協作記憶 `feedback_reply_url_encode` / `feedback_chrome_threads_text_input`（private） | reply 落地機制（repo 內 canonical = 本檔 §4.4 + SPORE-HARVEST Pitfall 6） |
 
 ---
 
@@ -132,13 +132,13 @@ upstream_canonical:
 
 ### 1.2 這是哪一類錯？→ 處置
 
-| 類別                  | 訊號                                                 | 處置                                                                                        | 對外？      |
-| --------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------- |
-| **可追溯事實錯**      | 史實/數字/時序/方向錯，有來源可驗                    | VERIFY → FIX 修正 → NOTIFY                                                                  | ✅ 公開更正 |
-| **場景推導錯**        | 從英文摘要/想像推導的具體細節（時間/地點/交通/方向） | 同上（[no-scene-inference](../../USER-CONFIG/feedback_no_scene_inference_from_english.md)） | ✅          |
-| **杜撰/無源**         | 人/引語/事件查無 live 源，本來就不該存在             | **撤回（retract）** 該 claim/段/篇                                                          | ✅ 說明撤回 |
-| **詮釋/立場/framing** | 不是事實錯，是價值判斷/政治立場質疑                  | **defer 哲宇**（§自主權邊界），不自動修                                                     | ⏸️ 等拍板   |
-| **callout 本身錯**    | 讀者記錯/誤解                                        | 禮貌澄清（仍查證後）                                                                        | ✅ 溫和說明 |
+| 類別                  | 訊號                                                 | 處置                                                                                                     | 對外？      |
+| --------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------- |
+| **可追溯事實錯**      | 史實/數字/時序/方向錯，有來源可驗                    | VERIFY → FIX 修正 → NOTIFY                                                                               | ✅ 公開更正 |
+| **場景推導錯**        | 從英文摘要/想像推導的具體細節（時間/地點/交通/方向） | 同上（no-scene-inference 規則 canonical → [RESEARCH.md §六](../editorial/RESEARCH.md) + EDITORIAL v4.4） | ✅          |
+| **杜撰/無源**         | 人/引語/事件查無 live 源，本來就不該存在             | **撤回（retract）** 該 claim/段/篇                                                                       | ✅ 說明撤回 |
+| **詮釋/立場/framing** | 不是事實錯，是價值判斷/政治立場質疑                  | **defer 哲宇**（§自主權邊界），不自動修                                                                  | ⏸️ 等拍板   |
+| **callout 本身錯**    | 讀者記錯/誤解                                        | 禮貌澄清（仍查證後）                                                                                     | ✅ 溫和說明 |
 
 ### 1.3 急迫度：severity × reach × D+N
 
@@ -218,13 +218,13 @@ upstream_canonical:
 
 ### 4.3 反 pattern（兩種格式都禁）
 
-- **紅線焦慮洩漏**（[feedback_red_line_anxiety_leak](../../USER-CONFIG/feedback_red_line_anxiety_leak.md)）：「我們嚴格遵循官方來源」「絕對沒有杜撰」——reader 不關心你怎麼自我約束，只要文章改對。
-- **客服腔/晶晶體**（[feedback_contributor_reply_humanize](../../USER-CONFIG/feedback_contributor_reply_humanize.md)）：「感謝您寶貴的回饋」「cross-validation/canonical」。
+- **紅線焦慮洩漏**（協作記憶 `feedback_red_line_anxiety_leak`）：「我們嚴格遵循官方來源」「絕對沒有杜撰」——reader 不關心你怎麼自我約束，只要文章改對。
+- **客服腔/晶晶體**（協作記憶 `feedback_contributor_reply_humanize`）：「感謝您寶貴的回饋」「cross-validation/canonical」。
 - **防衛**：「來源寫的，不是我的問題」。
 
 ### 4.4 管道落地
 
-- **孢子留言（Threads）**：Chrome MCP，JXA NSPasteboard + Cmd+V（多段）或 execCommand insertText（短，[feedback_chrome_threads_text_input](../../USER-CONFIG/feedback_chrome_threads_text_input.md)）；post-ship verify pressable-count diff（max 1 retry，[SPORE-HARVEST Pitfall 6](SPORE-HARVEST-PIPELINE.md)）。X reply Chrome MCP 不支援 → 手動。
+- **孢子留言（Threads）**：Chrome MCP，JXA NSPasteboard + Cmd+V（多段）或 execCommand insertText（短；機制 canonical → [SPORE-HARVEST Pitfall 6](../factory/SPORE-HARVEST-PIPELINE.md)）；post-ship verify pressable-count diff（max 1 retry）。X reply Chrome MCP 不支援 → 手動。
 - **contributor issue**：`gh issue comment`，用 contributor 母語。
 - **文章內**：重大更正可在文章加更正註（選擇性）。
 
