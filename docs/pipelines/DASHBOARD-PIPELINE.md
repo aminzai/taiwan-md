@@ -196,7 +196,7 @@ cp /tmp/dashboard-analytics.json ~/taiwan-md/public/api/dashboard-analytics.json
 
 ### Layer 3: Template Rendering（Client-Side）
 
-Dashboard 頁面載入後，client JS fetch 5 個 JSON 並渲染 11 個 section：
+Dashboard 頁面載入後，client JS fetch dashboard JSON 家族並渲染各 section（JSON 數量以 `ls public/api/dashboard-*.json` 為準——2026-07-05 曾抓到本檔寫「5 個」而實測 12 個，寫死數字必腐）：
 
 ```
 fetch → dashboard-articles.json ──┐

@@ -22,9 +22,23 @@ upstream_canonical:
 
 ## ⭐ Master pipelines（多個下游依賴）
 
-| Pipeline                                             | 觸發                                              | 涵蓋                                                                                                                                       |
-| ---------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [DATA-REFRESH-PIPELINE.md](DATA-REFRESH-PIPELINE.md) | `/twmd-refresh`、heartbeat、scheduled-tasks 09:37 | 13 step 一鍵刷新（git sync + 三源感知 + spore SSOT + dashboard regen + stats + sporeLinks sync）。**Phase 0+1+2+3 SSOT cleanup canonical** |
+| Pipeline                                             | 觸發                                                               | 涵蓋                                                                                                                                       |
+| ---------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [DATA-REFRESH-PIPELINE.md](DATA-REFRESH-PIPELINE.md) | `/twmd-refresh`、heartbeat、routine am/pm（cadence 見 ROUTINE.md） | 14 step 一鍵刷新（git sync + 三源感知 + spore SSOT + dashboard regen + stats + sporeLinks sync）。**Phase 0+1+2+3 SSOT cleanup canonical** |
+
+## 🌀 Routine 飛輪 pipelines（cron 每日/每週自動跑 — 2026-07-05 補索引，先前 10 檔未列）
+
+| Pipeline                                                   | Routine（cadence 見 [ROUTINE.md](../semiont/ROUTINE.md)） | 說明                                                     |
+| ---------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------- |
+| [FEEDBACK-TRIAGE-PIPELINE.md](FEEDBACK-TRIAGE-PIPELINE.md) | `twmd-feedback-triage`                                    | 讀者站上回報 → GitHub issue（含 prompt injection 防禦）  |
+| [WEEKLY-REPORT-PIPELINE.md](WEEKLY-REPORT-PIPELINE.md)     | `twmd-weekly-report-sun`                                  | 週報 dossier + email 遞送                                |
+| [ROUTINE-AUDIT-PIPELINE.md](ROUTINE-AUDIT-PIPELINE.md)     | `twmd-routine-audit-weekly`                               | routine 飛輪自我審計（4 lens）                           |
+| [EMBEDDING-PIPELINE.md](EMBEDDING-PIPELINE.md)             | `twmd-embeddings-nightly`                                 | fleet bge-m3 語意索引（related articles + RAG 向量）     |
+| [FORK-CENSUS-PIPELINE.md](FORK-CENSUS-PIPELINE.md)         | riding data-refresh Step 6.5                              | 子代普查雷達（GA 漏水指紋 → registry → dashboard）       |
+| [ANALYSIS-PIPELINE.md](ANALYSIS-PIPELINE.md)               | 分析文章觸發                                              | 防分析幻覺（影響/歸因/before-after 偵查紀律）            |
+| [PERSONA-PIPELINE.md](PERSONA-PIPELINE.md)                 | rewrite Stage 0 內嵌                                      | 讀者 persona 發散                                        |
+| [SPECIATION-PIPELINE.md](SPECIATION-PIPELINE.md)           | fork 觸發                                                 | 8-stage 物種繁殖 SOP                                     |
+| [REMOTE-GPU-PIPELINE.md](REMOTE-GPU-PIPELINE.md)           | babel / embeddings 內嵌                                   | fleet GPU 委派（sovereignty-safe endpoint + 整合性閘門） |
 
 ## Archived（已被 prebuild 鏈 / routine 飛輪取代 — 2026-06-10 audit D-5 凋亡批次）
 
@@ -50,12 +64,12 @@ upstream_canonical:
 | [SPORE-PIPELINE.md (in factory)](../factory/SPORE-PIPELINE.md)                 | 寫孢子   | 5 stage 操作流程（PICK/VERIFY/WRITE/SHIP/HARVEST） |
 | [SPORE-HARVEST-PIPELINE.md (in factory)](../factory/SPORE-HARVEST-PIPELINE.md) | 收割孢子 | Chrome MCP read-only batch harvest                 |
 
-跑 `/twmd-refresh` 之後的自動化 chain（Phase 0-3 後）：
+跑 `/twmd-refresh` 之後的自動化 chain（step 編號以 `refresh-data.sh` 為準）：
 
-- Step 4 `extract-spore-metrics.py` — narrative → struct cols 反推（Phase 4 候選移除）
-- Step 5 `generate-dashboard-spores.py` — 讀 SPORE-LOG + SPORE-HARVESTS body 算 dashboard
-- Step 12 `validate-spore-data.py` — 8 項 SSOT consistency check
+- Step 4 `generate-spore-records.py` + `generate-dashboard-spores.py` — SPORE-HARVESTS body primary → spores.json + dashboard
+- Step 12 `validate-spore-data.py` — SSOT consistency gate
 - Step 13 `sync-spore-links.py` — 從 SSOT 重生 knowledge/\*.md sporeLinks
+- （舊 `extract-spore-metrics.py` 已於 2026-05-08 Phase 6 移除）
 
 ## Reference（手動 / Build-time）
 
@@ -103,5 +117,6 @@ upstream_canonical:
 
 ---
 
+_v2.1 | 2026-07-05 五病根治 | 索引重生：補 Routine 飛輪 pipelines 區（FEEDBACK-TRIAGE / WEEKLY-REPORT / ROUTINE-AUDIT / EMBEDDING / FORK-CENSUS / ANALYSIS / PERSONA / SPECIATION / REMOTE-GPU 九檔先前未列，其中三條活 routine 的 canonical 在入口失聯）+ Master 表 13→14 step + 09:37 stale cron 撤 + spore chain 段對齊 Phase 6 現實。觸發：dna-audit §4.4「pipelines README 入口失真」。_
 _v2.0 | 2026-05-08 laughing-goldstine | Phase 5 SSOT cleanup：分 Master/Active/Spore-chain/Reference/Memory/Ops 五區，加入 spore SSOT 階層說明_
 _v1.0 | 2026-03-29 ε | 初版 Active/Reference/Archived 三段_

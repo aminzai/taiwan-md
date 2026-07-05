@@ -76,7 +76,7 @@ echo ""
 # Phase 0 重寫: 不再 silent skip pull on dirty
 # - working tree dirty → auto-stash + pop
 # - git pull 真失敗     → hard abort
-echo -e "${GRN}[1/13]${RST} Git sync..."
+echo -e "${GRN}[1/14]${RST} Git sync..."
 
 DIRTY=0
 if [ -n "$(git status --porcelain)" ]; then
@@ -114,7 +114,7 @@ echo ""
 
 # ────────────────── Step 2 — three-source sense fetch ──────────────────
 # Soft fail: 任何 source 失敗用昨天 cache
-echo -e "${GRN}[2/13]${RST} 三源感知抓取..."
+echo -e "${GRN}[2/14]${RST} 三源感知抓取..."
 if bash scripts/tools/fetch-sense-data.sh 2>&1 | grep -E '^\[|^   [✅⚠️❌]|^📁|^[✅⚠️❌]' | tail -20; then
   true
 else
@@ -124,7 +124,7 @@ echo ""
 
 # ────────────────── Step 3 — sync _translations.json from translatedFrom frontmatter ──────────────────
 # 為什麼: file-level translatedFrom 是 SSOT，_translations.json 是 derived cache
-echo -e "${GRN}[3/13]${RST} sync _translations.json from frontmatter..."
+echo -e "${GRN}[3/14]${RST} sync _translations.json from frontmatter..."
 if python3 scripts/tools/sync-translations-json.py 2>&1 | tail -3; then
   echo -e "${DIM}   ✓ _translations.json synced${RST}"
 fi
@@ -136,7 +136,7 @@ echo ""
 # 2026-06-10 解耦: spores.json = 孢子完整記錄層（metrics + history），文章 frontmatter
 # 只剩 identity pointer — harvest 回填從此只動 spores.json，不再碰 knowledge/*.md
 # (reports/spore-data-architecture-2026-06-10.md / REFLEXES #43 新 JSON 進 refresh)
-echo -e "${GRN}[4/13]${RST} generate spore records + dashboard-spores.json..."
+echo -e "${GRN}[4/14]${RST} generate spore records + dashboard-spores.json..."
 if python3 scripts/tools/generate-spore-records.py 2>&1 | tail -2; then
   echo -e "${DIM}   ✓ spores.json records generated${RST}"
 else

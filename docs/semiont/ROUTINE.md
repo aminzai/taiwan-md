@@ -36,7 +36,7 @@ upstream_canonical:
 
 ---
 
-## 核心 routine 排程表（16 active，v2.12 +embeddings-nightly）
+## 核心 routine 排程表（enabled 條數以本表＋¹³ 註記為準，不另寫死）
 
 > ⚠️ **cron 數值在本檔只出現在這張表**（v2.9 起）。yaml spec 區塊與週行程 grid 是 derived 視覺化，不再各自複寫 cron——同一個 cron 在同檔出現三個值是 2026-06-12 體檢抓到的 drift 根因之一（routine-audit 曾同時是 21:00 / 12:00 / 23:00）。
 

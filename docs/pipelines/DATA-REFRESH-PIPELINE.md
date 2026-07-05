@@ -1,11 +1,11 @@
 ---
 title: 'DATA-REFRESH-PIPELINE'
-description: '資料更新 pipeline — git pull + 三源感知 + prebuild + GitHub stats，Heartbeat Beat 1 前置 (v2.0)'
+description: '資料更新 pipeline — git pull + 三源感知 + prebuild + GitHub stats，Heartbeat Beat 1 前置 (v2.1)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.0'
-last_updated: 2026-05-11
-last_session: 'cranky-newton-220237'
+current_version: 'v2.1'
+last_updated: 2026-07-05
+last_session: '2026-07-05-120817-dna-audit'
 sister_docs:
   - 'STATS-PIPELINE.md'
   - 'DASHBOARD-PIPELINE.md'
@@ -29,7 +29,7 @@ upstream_canonical:
 
 ```
 ╭──────────────────────────────────────────────────────────────────────────╮
-│         DATA-REFRESH-PIPELINE — 資料更新 13 step                         │
+│         DATA-REFRESH-PIPELINE — 資料更新 14 step                         │
 │                                                                          │
 │   🧭 失敗策略                                                            │
 │            ├── cwd 不在 git toplevel → auto cd                           │
@@ -81,9 +81,9 @@ upstream_canonical:
 │   ──── 跨 pipeline boundary ─────────────────────────                   │
 │   → SENSE-FETCHER-SETUP.md（一次性憑證設定，非執行流程）                │
 │   → SENSE-FETCHER-MIGRATION.md（跨機器搬遷指南）                        │
-│   → STATS-PIPELINE.md（archived，本檔 Step 8 取代）                     │
-│   → DASHBOARD-PIPELINE.md（Step 6 prebuild 結果消費）                   │
-│   → SPORE-HARVEST-PIPELINE.md（Step 4 + 11 + 12 從 SSOT 重生）          │
+│   → STATS-PIPELINE.md（archived，本檔 Step 9 取代）                     │
+│   → DASHBOARD-PIPELINE.md（Step 7 prebuild 結果消費）                   │
+│   → SPORE-HARVEST-PIPELINE.md（Step 4 + 12 + 13 從 SSOT 重生）          │
 ╰──────────────────────────────────────────────────────────────────────────╯
 ```
 
@@ -121,16 +121,16 @@ upstream_canonical:
 
 ## 跨檔案職責分工
 
-| 檔案                                                              | 範圍                                                                               |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| **本檔**                                                          | refresh-data.sh 12 step 主流程（每次心跳 / routine refresh-am+pm 必跑）            |
-| [SENSE-FETCHER-SETUP.md](SENSE-FETCHER-SETUP.md)                  | 一次性憑證設定（GA4 + SC + CF 三源），不是執行流程                                 |
-| [SENSE-FETCHER-MIGRATION.md](SENSE-FETCHER-MIGRATION.md)          | 跨機器搬遷指南（A → B），不是執行流程                                              |
-| [STATS-PIPELINE.md](STATS-PIPELINE.md)                            | archived（本檔 Step 8 update-stats.sh 取代）— 只保留 3 條 update-stats.sh 鐵律參考 |
-| [DASHBOARD-PIPELINE.md](DASHBOARD-PIPELINE.md)                    | Step 6 prebuild 結果的消費端（dashboard.template.astro）                           |
-| [SPORE-HARVEST-PIPELINE.md](../factory/SPORE-HARVEST-PIPELINE.md) | Step 4 + 11 + 12 從 SPORE-HARVESTS SSOT 重生                                       |
-| [ROUTINE.md](../semiont/ROUTINE.md)                               | `twmd-data-refresh-am` (04:14) + `-pm` (00:33) cron 排程                           |
-| [HEARTBEAT.md Beat 1 §0](../semiont/HEARTBEAT.md#beat-1--診斷)    | 觸發點（每次心跳開始前）                                                           |
+| 檔案                                                              | 範圍                                                                                          |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **本檔**                                                          | refresh-data.sh 14 step 主流程（每次心跳 / routine refresh-am+pm 必跑）                       |
+| [SENSE-FETCHER-SETUP.md](SENSE-FETCHER-SETUP.md)                  | 一次性憑證設定（GA4 + SC + CF 三源），不是執行流程                                            |
+| [SENSE-FETCHER-MIGRATION.md](SENSE-FETCHER-MIGRATION.md)          | 跨機器搬遷指南（A → B），不是執行流程                                                         |
+| [STATS-PIPELINE.md](STATS-PIPELINE.md)                            | archived（本檔 Step 9 update-stats.sh 取代）— 只保留 3 條 update-stats.sh 鐵律參考            |
+| [DASHBOARD-PIPELINE.md](DASHBOARD-PIPELINE.md)                    | Step 7 prebuild 結果的消費端（dashboard.template.astro）                                      |
+| [SPORE-HARVEST-PIPELINE.md](../factory/SPORE-HARVEST-PIPELINE.md) | Step 4 + 12 + 13 從 SPORE-HARVESTS SSOT 重生                                                  |
+| [ROUTINE.md](../semiont/ROUTINE.md)                               | `twmd-data-refresh-am` / `-pm` cron 排程（cadence 見 ROUTINE.md §排程表，本檔不落 cron 數字） |
+| [HEARTBEAT.md Beat 1 §0](../semiont/HEARTBEAT.md#beat-1--診斷)    | 觸發點（每次心跳開始前）                                                                      |
 
 ---
 
@@ -156,7 +156,7 @@ upstream_canonical:
 bash scripts/tools/refresh-data.sh
 ```
 
-這個 wrapper 依序跑下面 **12 個步驟**（Phase 0 SSOT cleanup 後 2026-05-08 整數化編號）。
+這個 wrapper 依序跑下面 **14 個步驟**（編號以 `refresh-data.sh` 頭註為準；6.5 是 fork-census rider step）。
 
 **失敗策略**：
 
@@ -167,20 +167,25 @@ bash scripts/tools/refresh-data.sh
 
 **Step 11（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime。任何 stale 表示有 generator 漏跑（REFLEXES #43）。
 
-| Step   | 內容                                                                | Output                                                       |
-| ------ | ------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 1      | git sync (auto-stash + rebase pull)                                 | (sync)                                                       |
-| 2      | fetch-sense-data.sh                                                 | dashboard-analytics.json                                     |
-| 3      | sync-translations-json.py                                           | knowledge/\_translations.json                                |
-| 4      | generate-dashboard-spores.py (Phase 6: SPORE-HARVESTS body primary) | dashboard-spores.json                                        |
-| 5      | i18n-coverage-audit.sh                                              | dashboard-i18n.json                                          |
-| 6      | npm run prebuild                                                    | dashboard-articles/translations/vitals/organism + supporters |
-| 7      | refresh-llms-txt.py                                                 | public/llms.txt                                              |
-| 8      | update-stats.sh                                                     | README + stats.json                                          |
-| 9      | extract-build-perf.mjs                                              | dashboard-build-perf.json                                    |
-| **10** | **verify dashboard freshness** (REFLEXES #43 gate)                  | (mtime gate)                                                 |
-| **11** | **validate-spore-data.py** (5 checks)                               | (SSOT consistency gate)                                      |
-| **12** | **sync-spore-links.py**                                             | (regen knowledge/\*.md sporeLinks from SSOT)                 |
+**catch ≠ fix 鐵律**（2026-05-28 誕生；2026-07-05 從 twmd-refresh skill 殼收編 canonical，per dna-audit §S5 業務規則不長殼層）：freshness gate **第 2 次連續 catch 同一個 stale dashboard JSON，必須當 cycle wire fix**——識別 generator → 確認/補 wire 進 refresh-data.sh → commit heal——不准再 spawn chip 推給下個 session。背景：dashboard-immune.json 5/17→5/28 共 11 天 silent stale、22+ cycle 連續 catch 沒 fix，是「Micro mode 不擴張 scope」推 chip 過頭的教訓。
+
+| Step   | 內容                                                                                   | Output                                                       |
+| ------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1      | git sync (auto-stash + rebase pull)                                                    | (sync)                                                       |
+| 2      | fetch-sense-data.sh                                                                    | dashboard-analytics.json                                     |
+| 3      | sync-translations-json.py                                                              | knowledge/\_translations.json                                |
+| 4      | generate-spore-records.py + generate-dashboard-spores.py (SPORE-HARVESTS body primary) | spores.json + dashboard-spores.json                          |
+| 5      | i18n-coverage-audit.sh                                                                 | dashboard-i18n.json                                          |
+| 6      | generate-dashboard-immune.py (6-dim immune score v2)                                   | dashboard-immune.json                                        |
+| 6.5    | fork-census.py radar（子代普查，riding flywheel per FORK-CENSUS-PIPELINE）             | reports/fork-census/registry.json                            |
+| 7      | npm run prebuild                                                                       | dashboard-articles/translations/vitals/organism + supporters |
+| 8      | refresh-llms-txt.py                                                                    | public/llms.txt                                              |
+| 9      | update-stats.sh                                                                        | README + stats.json                                          |
+| 10     | extract-build-perf.mjs                                                                 | dashboard-build-perf.json                                    |
+| **11** | **verify dashboard freshness** (REFLEXES #43 gate)                                     | (mtime gate)                                                 |
+| **12** | **validate-spore-data.py** (5 checks)                                                  | (SSOT consistency gate)                                      |
+| **13** | **sync-spore-links.py**                                                                | (regen knowledge/\*.md sporeLinks from SSOT)                 |
+| 14     | generate-reports-index.py                                                              | reports/INDEX.md                                             |
 
 **Removed in Phase 6 (2026-05-08)**: Old Step 4 `extract-spore-metrics.py` — narrative→struct workaround for SPORE-LOG 成效追蹤 (which itself is now demolished). 47 historical D+N data points migrated to `batch-historical-2026-05-08-migration.md` as canonical SSOT.
 
@@ -188,7 +193,9 @@ bash scripts/tools/refresh-data.sh
 
 ## 步驟詳解
 
-### Step 1 — Git 同步（sync with origin）
+> （以下細節解說對應 script 步驟，編號以 `refresh-data.sh` 為準；本段是背景說明非執行入口——執行入口只有 §一鍵執行 的 wrapper。）
+
+### Git 同步（script Step 1 — sync with origin）
 
 ```bash
 # auto cwd assertion (Phase 0)
@@ -215,7 +222,7 @@ git stash pop  # if stashed
 
 ---
 
-### Step 2 — 三源感知抓取（sense fetcher）
+### 三源感知抓取（script Step 2 — sense fetcher）
 
 ```bash
 bash scripts/tools/fetch-sense-data.sh
@@ -250,7 +257,7 @@ bash scripts/tools/fetch-sense-data.sh
 
 ---
 
-### Step 3 — Prebuild dashboard 數據（rebuild static JSON）
+### Prebuild dashboard 數據（script Step 7 — rebuild static JSON）
 
 ```bash
 npm run prebuild
@@ -266,7 +273,7 @@ node scripts/core/generate-dashboard-data.js  # dashboard-articles/vitals/organi
 node scripts/core/generate-changelog-data.js  # changelog-feed.json
 ```
 
-**為什麼**：Step 2 只刷新「三源感知」（分析數據），Step 3 刷新「內容派生數據」（從 knowledge/\*.md 產生的 JSON）。兩者是正交的，都要跑。
+**為什麼**：Step 2 只刷新「三源感知」（分析數據），prebuild（script Step 7）刷新「內容派生數據」（從 knowledge/\*.md 產生的 JSON）。兩者是正交的，都要跑。
 
 **產出的檔案**：
 
@@ -282,7 +289,7 @@ node scripts/core/generate-changelog-data.js  # changelog-feed.json
 
 ---
 
-### Step 4 — GitHub 統計更新（contributor / star counts）
+### GitHub 統計更新（script Step 9 — contributor / star counts）
 
 ```bash
 bash scripts/tools/update-stats.sh
@@ -421,11 +428,10 @@ echo -e "${DIM}下一步：HEARTBEAT.md Beat 1 診斷${RST}"
 
 這條 pipeline **本身不是 cron**。它是被呼叫的。
 
-- **每日 08:17**：`fetch-sense-data.sh` 透過 launchd agent 自動跑（只跑 sense fetch，不跑全 pipeline，因為早上不需要 commit）
-- **每日 09:37**：`~/.claude/scheduled-tasks/semiont-heartbeat/` 觸發 Claude session，讀 HEARTBEAT.md，Beat 1 第一步呼叫這條 pipeline
-- **手動 `/heartbeat`**：使用者叫喚醒時，走同一條路
+- **Routine 排程**：`twmd-data-refresh-am` / `-pm` 兩個 routine 自動呼叫全 pipeline（cadence 見 [ROUTINE.md §排程表](../semiont/ROUTINE.md)，本檔不落 cron 數字）
+- **Heartbeat**：`/heartbeat`（手動或排程觸發）Beat 1 第一步呼叫這條 pipeline
 
-三個入口，共用同一條 pipeline。
+多個入口，共用同一條 pipeline。
 
 ---
 
@@ -436,13 +442,15 @@ _v1.3 | 2026-05-08 laughing-goldstine | Phase 6 SSOT cleanup (Q1 翻牌：demoli
 
 _v2.0 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（12 step box-frame + 失敗策略 + 跨 pipeline boundary）+ Hard Gate Inventory 集中 table（9 gates）+ Top 5 最常忘 step（Step 1 stash + pop / Step 6 prebuild 含 8 JSON / Step 10-12 gate trio）+ 跨檔案職責分工 standalone table（明確跟 SENSE-FETCHER 兩條 setup/migration doc 性質不同）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.6 audit。12 step 詳述 prose body 不動（已是最健康的 pipeline，refactor ROI 主要在 navigation）。_
 
+_v2.1 | 2026-07-05 2026-07-05-120817-dna-audit — 步數統一 14（script 實體 14 步為準；spine 標題 13、職責分工表與 §一鍵執行「12」全數對齊）+ §一鍵執行表補齊 14 列（immune / fork-census 6.5 rider / reports-index 三步入表，verify freshness 對回 Step 11）+ §步驟詳解 加「編號以 refresh-data.sh 為準、本段是背景說明」擋頭並把四個舊 Step 1-4 標題改 script 實際編號（prebuild=7 / stats=9）+ cron 數字全撤（04:14 / 00:33 / 08:17 / 09:37 → cadence 一律指 ROUTINE.md §排程表，本檔不落 cron 數字）+ refresh-data.sh echo [N/13] 殘留統一 [N/14]。觸發：reports/dna-pipeline-evolution-audit-2026-07-05.md §4.4。_
+
 ## 新 dashboard JSON 加入 pipeline 的 SOP（REFLEXES #43 反射）
 
 每次新增 `public/api/dashboard-*.json` 時必須同步：
 
 1. 寫一個 generator script（python / node / bash 都行）
-2. **加進 refresh-data.sh** — 找一個適當的 step 號碼（2.x 子階段或 3 後）
+2. **加進 refresh-data.sh** — 找一個適當的 step 號碼（對照 refresh-data.sh 現行 14 步編號）
 3. 加進 [DATA-REFRESH-PIPELINE.md §一鍵執行](#一鍵執行) 表格
-4. Step 5 verify 會自動偵測 — 如果忘記加 generator，下次跑 pipeline 會看到 stale 警告
+4. Step 11 verify freshness gate 會自動偵測 — 如果忘記加 generator，下次跑 pipeline 會看到 stale 警告
 
 **反模式**: 寫了 generator 但只在 commit 之前手動跑一次。下次 generator 就被遺忘了。所有 dashboard JSON 必須有自動 refresh path。

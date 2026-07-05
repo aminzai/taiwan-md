@@ -23,43 +23,21 @@ allowed-tools:
 
 ---
 
-## Stage 1: 跑 14-step pipeline（v2.8）
+## Stage 1: 跑 pipeline
 
 ```bash
 bash scripts/tools/refresh-data.sh
 ```
 
-14 step 主流程（per [DATA-REFRESH-PIPELINE.md](../../../docs/pipelines/DATA-REFRESH-PIPELINE.md)）：
+**步驟表不在本 skill 複寫** — canonical：[DATA-REFRESH-PIPELINE.md §一鍵執行](../../../docs/pipelines/DATA-REFRESH-PIPELINE.md)（步數與編號以 `refresh-data.sh` 頭註為準）。
 
-| #            | Step                          | Tool                                                                        |
-| ------------ | ----------------------------- | --------------------------------------------------------------------------- |
-| 1            | git sync                      | auto-stash + rebase pull                                                    |
-| 2            | 三源感知 fetch                | `fetch-sense-data.sh` (CF + GA4 + SC)                                       |
-| 3            | sync-translations-json        | `sync-translations-json.py`                                                 |
-| 4            | dashboard-spores              | `generate-dashboard-spores.py`                                              |
-| 5            | dashboard-i18n                | `i18n-coverage-audit.sh`                                                    |
-| **6 (v2.8)** | **dashboard-immune 6-dim v2** | **`generate-dashboard-immune.py`** (wired 2026-05-28 修補 11d silent stale) |
-| 7            | npm prebuild                  | sync.sh + 12 prebuild:\* parallel                                           |
-| 8            | refresh-llms-txt              | `refresh-llms-txt.py`                                                       |
-| 9            | GitHub stats                  | `update-stats.sh`                                                           |
-| 10           | build perf trend              | `extract-build-perf.mjs`                                                    |
-| 11           | verify dashboard freshness    | mtime gate (REFLEXES #43)                                                   |
-| 12           | validate-spore-data           | SSOT consistency                                                            |
-| 13           | sync-spore-links              | regen knowledge sporeLinks                                                  |
-| 14           | generate-reports-index        | `generate-reports-index.py`                                                 |
+> 2026-07-05 前本 skill 曾複寫 14 步全表——違反 ROUTINE-PROMPT-CONTRACT「殼層禁複寫 SOP」，且複寫版一度比 canonical 還新（SSOT 失守症狀，dna-audit §S5 反向案例）。改 pointer 後：修 pipeline = 改一處。
 
 ---
 
 ## Stage 2: 報告 + Step 11 freshness gate handling
 
-Step 11 freshness gate 抓到 stale dashboard JSON → **不准只 spawn chip 推給下個 session**。當 cycle 必須：
-
-1. 識別 generator（grep `scripts/core/generate-dashboard-*.py` 或 `scripts/tools/...`）
-2. 確認 generator 已 wire 進 refresh-data.sh
-3. 若沒 wire → 當 cycle 加進 pipeline + commit heal
-4. 若 wire 但跑失敗 → diagnose + LESSONS-INBOX append
-
-**鐵律（2026-05-28）— catch ≠ fix**：dashboard-immune.json 5/17 → 5/28 共 11 天 silent stale + 22+ cycle 連續 catch 卻沒 fix，是 routine 守「Micro mode 不擴張 scope」推 chip 過頭。修補後鐵律：**第 2 次連續 catch 同一個 stale dashboard 必須當 cycle wire fix**，不能再 spawn chip。
+Step 11 抓到 stale dashboard JSON → 走 [DATA-REFRESH-PIPELINE §catch ≠ fix 鐵律](../../../docs/pipelines/DATA-REFRESH-PIPELINE.md)（**第 2 次連續 catch 同一 stale 必須當 cycle wire fix，不 spawn chip**——鐵律全文與誕生背景在 canonical，本殼只留觸發指令）。
 
 ---
 
