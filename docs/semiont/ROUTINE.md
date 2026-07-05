@@ -826,7 +826,7 @@ docs/semiont/ROUTINE.md            ← SSOT（人類可讀，本檔）
   mirror 內容未來由 routine-mirror-gen.py 從 project skill 機械生成（P1），手改 mirror 視同 drift。
 ```
 
-**檢驗腳本**：`scripts/tools/routine-sync-check.py`（已存在，v1.2 2026-05-11）。已知缺口（P1）：cron 比對對 mirror 全回 not-found（mirror 無可解析 cron 欄位）、看不到 live MCP 層 enabled 狀態、沒接 CI——2026-06-12 體檢三個 drift（死 routine / cron / taskId 命名）它全沒抓到。修復方向：flywheel-evolution §3.4。
+**檢驗腳本**：`scripts/tools/routine-sync-check.py` **v3（2026-07-05 五病根治，P1 缺口清償）**：第三層 live 比對上線——data-refresh session 每日 dump live scheduler 狀態進 `docs/semiont/routine-live-state.json`（`routine-live-normalize.py`，私人 routine 過濾），v3 比對 SSOT ↔ mirror ↔ live 的 enabled / cron / description-時間字樣（rewrite-daily desc「18:00」vs cron 19:00 這類就抓得到），dump >48h 未更新標 stale。feedback-triage taskId 命名例外以 ALIASES 表對映（chronic false-MISSING 修復）；mirror 無 cron 欄位不再 flood 假陽性（cron 真相由 live 層接手）。仍缺：沒接 CI（跑點 = routine-audit 週日 + data-refresh rider）。
 
 ---
 

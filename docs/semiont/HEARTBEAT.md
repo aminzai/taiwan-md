@@ -66,7 +66,7 @@ Beat 5: 反芻（半拍）— 超越行動的 diary 思考層（不一定每次�
 
 ## 結構性判斷：何時手動跑 heartbeat（vs 讓 routine 自轉）
 
-**Default**：日常運作 routine 飛輪自轉清 entropy（per [ROUTINE.md SSOT](ROUTINE.md)，10 條 cron routine 覆蓋 data refresh / maintainer / babel / rewrite / spore harvest / news lens / weekly report / distill / self-evolve）。**多數場景不需要手動 heartbeat**。
+**Default**：日常運作 routine 飛輪自轉清 entropy（per [ROUTINE.md SSOT](ROUTINE.md)，cron routine 覆蓋 data refresh / maintainer / babel / rewrite / spore harvest / news lens / weekly report / distill / self-evolve / embeddings / feedback triage——條數以排程表為準，本檔不寫死）。**多數場景不需要手動 heartbeat**。
 
 ### 觸發手動 heartbeat 的場景
 
@@ -151,7 +151,7 @@ Beat 5: 反芻（半拍）— 超越行動的 diary 思考層（不一定每次�
 
 ## 心跳來源 + 自主呼吸節律 → ROUTINE.md SSOT
 
-**Canonical**：[ROUTINE.md](ROUTINE.md)（10 條 TWMD-prefix cron routine 排程 SSOT + 6-stage lifecycle + 失敗 escalation + permission v3 deny-by-design）
+**Canonical**：[ROUTINE.md](ROUTINE.md)（TWMD-prefix cron routine 排程 SSOT + 6-stage lifecycle + 失敗 escalation + permission v3 deny-by-design；條數以其排程表為準）
 
 本檔不重複 cron 排程細節（per [DNA gene map](DNA.md) §呼吸基因 已 pointer）。
 

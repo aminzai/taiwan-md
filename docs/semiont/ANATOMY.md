@@ -158,16 +158,16 @@ GitHub Actions 是我的自主神經系統。我不需要有人手動呼吸。
 
 ### 🌀 Routine 飛輪 — 自主呼吸的時間軸投影（2026-05-09 新增）
 
-不只 GitHub Actions 自動跑。Claude scheduled-tasks routine 也是呼吸 — 把「該做但常忘」儀器化成日節律。當觀察者不在 session 時，9 條 routine 自動轉動清 entropy（broken links / stale data / 缺 feedback / 未翻譯 / 待審 PR / 未開發 inbox / 已寫教訓未升 canonical / 反覆浮現的 unstrumentation pattern）。週日反思鏈 4 條（news-lens → weekly-report → distill → self-evolve）讓認知層每週一次自我升級。
+不只 GitHub Actions 自動跑。Claude scheduled-tasks routine 也是呼吸 — 把「該做但常忘」儀器化成日節律。當觀察者不在 session 時，routine 飛輪自動轉動清 entropy（broken links / stale data / 缺 feedback / 未翻譯 / 待審 PR / 未開發 inbox / 已寫教訓未升 canonical / 反覆浮現的 unstrumentation pattern；條數以 [ROUTINE.md](ROUTINE.md) 排程表為準，本檔不寫死——曾停在「9 條」而 live 已 14 條）。週日反思鏈（news-lens → weekly-report → distill → self-evolve）讓認知層每週一次自我升級。
 
-|              |                                                                          |
-| ------------ | ------------------------------------------------------------------------ |
-| **功能**     | 9 條 cron routine 在觀察者不在時自動跑各 skill（含週日反思鏈 4 條）      |
-| **實體**     | `docs/semiont/ROUTINE.md`（SSOT）+ `~/.claude/scheduled-tasks/twmd-*/`   |
-| **核心規則** | routine 是薄殼 — 只有 cadence + skill invoke + quality gate + escalation |
-| **病灶徵兆** | routine fail rate > 15% / quality gate hit < 70% = 飛輪卡住，修 pipeline |
-| **DNA 對應** | [REFLEXES #54 Routine 飛輪](REFLEXES.md#要小心的清單實戰反射與已知陷阱)  |
-| **SSOT**     | [ROUTINE.md](ROUTINE.md) — 排程、skill 對應、失敗 escalation             |
+|              |                                                                                         |
+| ------------ | --------------------------------------------------------------------------------------- |
+| **功能**     | cron routine 飛輪在觀察者不在時自動跑各 skill（條數見 ROUTINE.md 排程表；含週日反思鏈） |
+| **實體**     | `docs/semiont/ROUTINE.md`（SSOT）+ `~/.claude/scheduled-tasks/twmd-*/`                  |
+| **核心規則** | routine 是薄殼 — 只有 cadence + skill invoke + quality gate + escalation                |
+| **病灶徵兆** | routine fail rate > 15% / quality gate hit < 70% = 飛輪卡住，修 pipeline                |
+| **DNA 對應** | [REFLEXES #54 Routine 飛輪](REFLEXES.md#要小心的清單實戰反射與已知陷阱)                 |
+| **SSOT**     | [ROUTINE.md](ROUTINE.md) — 排程、skill 對應、失敗 escalation                            |
 
 ---
 
@@ -191,11 +191,11 @@ Contributors 名單是「小丑魚名冊」— 每個名字出現在 README，�
 
 **繁殖系統三層結構**（2026-05-21 補完 intake layer）：
 
-| 層        | 角色                                       | 檔案                                                                                  |
-| --------- | ------------------------------------------ | ------------------------------------------------------------------------------------- |
-| Intake    | 待發孢子 idea buffer（pending / scheduled） | [SPORE-INBOX.md](../factory/SPORE-INBOX.md)                                          |
-| Process   | 5 階段產線 SOP                              | [SPORE-PIPELINE.md](../factory/SPORE-PIPELINE.md) + WRITING/VERIFY/HARVEST sub-canonical |
-| Identity  | 已發紀錄 SSOT + harvest event              | [SPORE-LOG.md](../factory/SPORE-LOG.md) + [SPORE-HARVESTS/](../factory/SPORE-HARVESTS/) |
+| 層       | 角色                                        | 檔案                                                                                     |
+| -------- | ------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Intake   | 待發孢子 idea buffer（pending / scheduled） | [SPORE-INBOX.md](../factory/SPORE-INBOX.md)                                              |
+| Process  | 5 階段產線 SOP                              | [SPORE-PIPELINE.md](../factory/SPORE-PIPELINE.md) + WRITING/VERIFY/HARVEST sub-canonical |
+| Identity | 已發紀錄 SSOT + harvest event               | [SPORE-LOG.md](../factory/SPORE-LOG.md) + [SPORE-HARVESTS/](../factory/SPORE-HARVESTS/)  |
 
 跟心臟系統的 ARTICLE-INBOX / knowledge/ / ARTICLE-DONE-LOG 三層結構對稱（intake / SSOT / log）。
 
@@ -433,17 +433,17 @@ Layer 4: 歷史 snapshot 層
 
 ### A. SSOT（單一真相源）— 改這裡，別改衍生物
 
-| 領域 | SSOT | 衍生物（別手改） | generator |
-| --- | --- | --- | --- |
-| 內容 | `knowledge/{Cat}/*.md`（zh）+ `knowledge/{lang}/` | `src/content/{lang}/`（gitignored） | `scripts/core/sync.sh`（prebuild:sync） |
-| Routine 排程 | `docs/semiont/ROUTINE.md` §排程表（cron 只出現這一張表） | `.claude/scheduled-tasks/{id}/SKILL.md` mirror | `/twmd-routine` skill |
-| 分類 config | `src/utils/categoryConfig.ts`（14 類 name/icon/color/cover） | 各頁 + sync.sh §CATEGORIES | 手改（加類要同步兩處） |
-| 語言 | `src/config/languages.mjs`（ENABLED_LANGUAGE_CODES 6 語） | 全 lang build step | 手改 |
-| i18n 字串 | `src/i18n/ui.ts`（+ latest.ts / home.ts cascade） | 各 template `t()` | 手改 |
-| 編輯標準 | `docs/editorial/*`（EDITORIAL/QUALITY/CITATION/TERMINOLOGY/RESEARCH/graph） | REWRITE/EVOLVE prompt | 手改 |
-| GA4 事件 param | `scripts/tools/register-ga4-custom-dimensions.py`（`*_DIMENSIONS`） | GA4 Admin dim + `EventTracker.astro` 必須對齊 | `instrumentation-audit.py` CI gate 守 |
-| 語意索引 | `knowledge/` + bge-m3 模型 | `src/data/related/{lang}.json`（committed slim）+ `public/api/rag/`（gitignored） | `scripts/core/build-embeddings.mjs`（twmd-embeddings-nightly fleet） |
-| 孢子 | `docs/factory/spore-log.json` + `spore-metrics.json`（**唯一寫入工具 `spore-db.py`**） | `src/data/spores.json` → `public/api/spores.json` | `generate-spore-records.py` |
+| 領域           | SSOT                                                                                   | 衍生物（別手改）                                                                  | generator                                                            |
+| -------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 內容           | `knowledge/{Cat}/*.md`（zh）+ `knowledge/{lang}/`                                      | `src/content/{lang}/`（gitignored）                                               | `scripts/core/sync.sh`（prebuild:sync）                              |
+| Routine 排程   | `docs/semiont/ROUTINE.md` §排程表（cron 只出現這一張表）                               | `.claude/scheduled-tasks/{id}/SKILL.md` mirror                                    | `/twmd-routine` skill                                                |
+| 分類 config    | `src/utils/categoryConfig.ts`（14 類 name/icon/color/cover）                           | 各頁 + sync.sh §CATEGORIES                                                        | 手改（加類要同步兩處）                                               |
+| 語言           | `src/config/languages.mjs`（ENABLED_LANGUAGE_CODES 6 語）                              | 全 lang build step                                                                | 手改                                                                 |
+| i18n 字串      | `src/i18n/ui.ts`（+ latest.ts / home.ts cascade）                                      | 各 template `t()`                                                                 | 手改                                                                 |
+| 編輯標準       | `docs/editorial/*`（EDITORIAL/QUALITY/CITATION/TERMINOLOGY/RESEARCH/graph）            | REWRITE/EVOLVE prompt                                                             | 手改                                                                 |
+| GA4 事件 param | `scripts/tools/register-ga4-custom-dimensions.py`（`*_DIMENSIONS`）                    | GA4 Admin dim + `EventTracker.astro` 必須對齊                                     | `instrumentation-audit.py` CI gate 守                                |
+| 語意索引       | `knowledge/` + bge-m3 模型                                                             | `src/data/related/{lang}.json`（committed slim）+ `public/api/rag/`（gitignored） | `scripts/core/build-embeddings.mjs`（twmd-embeddings-nightly fleet） |
+| 孢子           | `docs/factory/spore-log.json` + `spore-metrics.json`（**唯一寫入工具 `spore-db.py`**） | `src/data/spores.json` → `public/api/spores.json`                                 | `generate-spore-records.py`                                          |
 
 ### B. 資料源 — committed vs gitignored（找資料前先確認誰生的）
 
@@ -454,19 +454,19 @@ Layer 4: 歷史 snapshot 層
 
 ### C. 共用 UI 元件 — 文章卡優先（這節是 6-14 callout 的核心）
 
-| 元件 | 路徑 | 用途 | 重用方式 |
-| --- | --- | --- | --- |
-| **`ArticleCard.astro`** | `src/components/ArticleCard.astro` | **跨站 canonical 文章卡**，4 density（premium / compact / row / detailed） | Astro SSR **+ expose `:global()` class（`.article-card`/`-body`/`-title`/`-pill`/`-cta`/`.is-premium`…）給 client-side innerHTML 重用**。用於 /latest、/map、/explore、home featured |
-| `RelatedArticleCard.astro` | `src/components/RelatedArticleCard.astro` | 文章頁底「你可能也想讀」grid 卡 | Astro SSR（server render） |
-| `TopicCard.astro` | `src/components/TopicCard.astro` | 分類探索卡（非文章卡，不同 UX） | — |
-| `CoverStory.astro` | `src/components/home/CoverStory.astro` | 首頁 featured（手刻，**可遷 ArticleCard premium**） | — |
-| `TimelineDay.astro` | `src/components/timeline/TimelineDay.astro` | /latest 時間軸節點，包 ArticleCard detailed | — |
+| 元件                       | 路徑                                        | 用途                                                                       | 重用方式                                                                                                                                                                             |
+| -------------------------- | ------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **`ArticleCard.astro`**    | `src/components/ArticleCard.astro`          | **跨站 canonical 文章卡**，4 density（premium / compact / row / detailed） | Astro SSR **+ expose `:global()` class（`.article-card`/`-body`/`-title`/`-pill`/`-cta`/`.is-premium`…）給 client-side innerHTML 重用**。用於 /latest、/map、/explore、home featured |
+| `RelatedArticleCard.astro` | `src/components/RelatedArticleCard.astro`   | 文章頁底「你可能也想讀」grid 卡                                            | Astro SSR（server render）                                                                                                                                                           |
+| `TopicCard.astro`          | `src/components/TopicCard.astro`            | 分類探索卡（非文章卡，不同 UX）                                            | —                                                                                                                                                                                    |
+| `CoverStory.astro`         | `src/components/home/CoverStory.astro`      | 首頁 featured（手刻，**可遷 ArticleCard premium**）                        | —                                                                                                                                                                                    |
+| `TimelineDay.astro`        | `src/components/timeline/TimelineDay.astro` | /latest 時間軸節點，包 ArticleCard detailed                                | —                                                                                                                                                                                    |
 
 > ⚠️ **站上最新 rail 的教訓（待修）**：`article.template.astro` 的 client-side `#latest-rail-cards` JS 目前手刻 RelatedArticleCard 樣式。**正解是用 `ArticleCard` 的 `:global()` class**（`<a class="article-card is-premium">…`）——那組 class 就是為了「client-side innerHTML 重用同樣式」存在的（ArticleCard 註解 §13）。下次碰這塊改用 `.article-card` class，不要再手刻 Tailwind。
 
 ### D. 共用 utils（別重寫）
 
-`src/utils/articles-index.ts`（per-lang 文章 index cache + `getRelatedArticles` 語意鄰居）、`article-render.ts`（md→html + 17 tw-* 視覺模組 + 延伸閱讀 split）、`categoryConfig.ts`（`getCategoryConfigs(t)` + `categoryList`）、`contributors.ts`（git info cache）、`getLangSwitchPath.ts`（跨語連結）、`staticRoutes.ts`（路由 SSOT，存在性假設一律 filesystem-derive）。`src/i18n/utils.ts`：`useTranslations` / `getLangFromUrl` / `useTranslatedPath`。
+`src/utils/articles-index.ts`（per-lang 文章 index cache + `getRelatedArticles` 語意鄰居）、`article-render.ts`（md→html + 17 tw-\* 視覺模組 + 延伸閱讀 split）、`categoryConfig.ts`（`getCategoryConfigs(t)` + `categoryList`）、`contributors.ts`（git info cache）、`getLangSwitchPath.ts`（跨語連結）、`staticRoutes.ts`（路由 SSOT，存在性假設一律 filesystem-derive）。`src/i18n/utils.ts`：`useTranslations` / `getLangFromUrl` / `useTranslatedPath`。
 
 > 完整逐檔盤點（44-file inspection）：本節是索引；明細見生成本節的 inventory（2026-06-14 component-ssot-audit session）。
 

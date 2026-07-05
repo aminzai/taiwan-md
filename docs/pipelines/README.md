@@ -88,6 +88,7 @@ upstream_canonical:
 | [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)                           | `/twmd-factcheck`       | 幻覺審計                                                         |
 | [CORRECTION-PIPELINE.md](CORRECTION-PIPELINE.md)                         | 讀者/issue/self callout | 勘誤端到端 SOP（錯誤邊界=可追溯性 + 【勘誤通知】格式 + 16 案例） |
 | [DEEP-INSIGHT-SYNTHESIS-PIPELINE.md](DEEP-INSIGHT-SYNTHESIS-PIPELINE.md) | 手動                    | 深度洞察萃取                                                     |
+| [SOCIAL-POSTING-PIPELINE.md](SOCIAL-POSTING-PIPELINE.md)                 | spore SHIP 內嵌         | Threads/X 發文機制（Chrome MCP 操作層）                          |
 
 ## Memory / Reflection 系統
 

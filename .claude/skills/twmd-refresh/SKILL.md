@@ -31,6 +31,12 @@ bash scripts/tools/refresh-data.sh
 
 **步驟表不在本 skill 複寫** — canonical：[DATA-REFRESH-PIPELINE.md §一鍵執行](../../../docs/pipelines/DATA-REFRESH-PIPELINE.md)（步數與編號以 `refresh-data.sh` 頭註為準）。
 
+**Rider：scheduler live-state dump**（session 層步驟，bash 進不了 MCP store——2026-07-05 S1 根治）：
+
+1. 呼叫 `mcp__scheduled-tasks__list_scheduled_tasks`，raw JSON 存暫存檔
+2. `python3 scripts/tools/routine-live-normalize.py <raw.json> --session <session-id>`（自動過濾私人 routine，只留 twmd-/taiwanmd-）
+3. `docs/semiont/routine-live-state.json` 跟著 refresh commit 進 git — `routine-sync-check.py` v3 第三層比對靠它
+
 > 2026-07-05 前本 skill 曾複寫 14 步全表——違反 ROUTINE-PROMPT-CONTRACT「殼層禁複寫 SOP」，且複寫版一度比 canonical 還新（SSOT 失守症狀，dna-audit §S5 反向案例）。改 pointer 後：修 pipeline = 改一處。
 
 ---

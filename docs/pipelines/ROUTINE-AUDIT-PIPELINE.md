@@ -93,15 +93,18 @@ upstream_canonical:
 
 ## 🚦 Hard Gate Inventory
 
-| Gate                          | 觸發 stage | 條件                          | 工具                          | 不過 = ?               |
-| ----------------------------- | ---------- | ----------------------------- | ----------------------------- | ---------------------- |
-| routine-audit.py output exist | Stage 1A   | 跑完 script                   | `python3 ...routine-audit.py` | 無資料無 audit         |
-| 7-day 窗口 commit ≥ 5 條      | Stage 1A   | 數據充分性                    | manual 看 summary.total.count | 窗口太小延後一週       |
-| 4 lens 全跑                   | Stage 3    | 4 cross-cutting pattern       | manual checklist              | 缺一 lens 退回 Stage 2 |
-| LESSONS vc 累積               | Stage 4    | 每 pattern 對 existing 比對   | manual grep                   | 不累積 = audit 無意義  |
-| 達 vc=3 必標 distill-ready    | Stage 4B   | REFLEXES #15 儀器化 threshold | manual                        | 不標 = 下次又重做      |
-| prose-health hard=0           | Stage 5    | report 寫完                   | `article-health.py --check`   | 改寫                   |
-| Pre-commit hook 過            | Stage 6    | commit 前                     | `.husky/pre-commit`           | 不 commit              |
+| Gate                             | 觸發 stage | 條件                                                                                                          | 工具                                                | 不過 = ?               |
+| -------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------- |
+| routine-audit.py output exist    | Stage 1A   | 跑完 script                                                                                                   | `python3 ...routine-audit.py`                       | 無資料無 audit         |
+| 7-day 窗口 commit ≥ 5 條         | Stage 1A   | 數據充分性                                                                                                    | manual 看 summary.total.count                       | 窗口太小延後一週       |
+| 4 lens 全跑                      | Stage 3    | 4 cross-cutting pattern                                                                                       | manual checklist                                    | 缺一 lens 退回 Stage 2 |
+| LESSONS vc 累積                  | Stage 4    | 每 pattern 對 existing 比對                                                                                   | manual grep                                         | 不累積 = audit 無意義  |
+| 達 vc=3 必標 distill-ready       | Stage 4B   | REFLEXES #15 儀器化 threshold                                                                                 | manual                                              | 不標 = 下次又重做      |
+| counts-drift 深度表週跑          | Stage 1A   | 每週 audit（2026-07-05 新增）                                                                                 | `counts-drift-lint.py`                              | 寫死數字腐化不可見     |
+| 三層 routine sync 週跑           | Stage 1A   | 每週 audit（2026-07-05 新增）                                                                                 | `routine-sync-check.py` v3                          | SSOT↔live 漂移不可見   |
+| alert 齡 >14 天升 OBSERVER-QUEUE | Stage 4    | dashboard-alerts firstSeen 齡（2026-07-05 新增，dna-audit §S4：黃燈要有 owner 與 escalation 才不 deadletter） | jq 讀 `dashboard-alerts.json` `.alerts[].firstSeen` | 偵測有修復無重演       |
+| prose-health hard=0              | Stage 5    | report 寫完                                                                                                   | `article-health.py --check`                         | 改寫                   |
+| Pre-commit hook 過               | Stage 6    | commit 前                                                                                                     | `.husky/pre-commit`                                 | 不 commit              |
 
 ---
 

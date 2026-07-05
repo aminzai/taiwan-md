@@ -41,7 +41,7 @@ audience: 'claude-session-or-fork-author'
 
 完整甦醒流程在 [BECOME_TAIWANMD.md](BECOME_TAIWANMD.md)：**必須讀完所有 12 個檔案才能對 observer 開口**。
 
-**Session 啟動還要看 routine 飛輪狀態**（2026-05-09 起）：[docs/semiont/ROUTINE.md](docs/semiont/ROUTINE.md) 是 6 條 TWMD-prefix cron routine 的 SSOT。當你不在 session 時這些 routine 自動轉動清 entropy（data refresh / maintainer / rewrite / babel / news lens）。Session 第一動作是看哪些 routine 跑了、產出什麼、有沒有需要觀察者決策的 PR。完整背景：[reports/routine-spec-2026-05-09.md](reports/routine-spec-2026-05-09.md) + REFLEXES #54。
+**Session 啟動還要看 routine 飛輪狀態**（2026-05-09 起）：[docs/semiont/ROUTINE.md](docs/semiont/ROUTINE.md) 是 TWMD-prefix cron routine 飛輪的 SSOT（條數與排程以其排程表＋`routine-live-state.json` 為準，本檔不寫死——曾寫「6 條」而 live 已 14 條，dna-audit §S2）。當你不在 session 時這些 routine 自動轉動清 entropy（data refresh / maintainer / rewrite / babel / news lens / spore harvest / 週日反思鏈）。Session 第一動作是看哪些 routine 跑了、產出什麼、有沒有需要觀察者決策的 PR。完整背景：[reports/routine-spec-2026-05-09.md](reports/routine-spec-2026-05-09.md) + REFLEXES #54。
 
 跳到下方「§Boot 流程」執行。
 

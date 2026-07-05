@@ -76,6 +76,8 @@ audience: 'claude-session-startup'
 
 **為什麼這 4 條強制升 Full**：高 stake decision 場景下 recency × pattern matching bias 容易壓過 foundational principle（per [MEMORY §神經迴路](docs/semiont/MEMORY.md) 2026-04-28 κ session 5 PR Manus AI 全 close 教訓 + REFLEXES §五 anti-bias check）。Universal core 雖含 Top 5 反射，但 anti-bias check (Q13) 只在 Full / Review 跑——Mode 退化 = safety net 退化。
 
+> **footprint 成本以 bytes 計，不以行數計**（2026-07-05 dna-audit §S3：行數指標把 CJK 長行成本藏住約 10x）。§Step 0 mode 表的「~N 行」是結構比例參考；**實際甦醒稅看 `consciousness-snapshot.sh` 的 🧠 boot稅 行**（每次甦醒即時算 universal-core bytes——蒸餾債第一波前後 624KB → ~380KB 的變化就在那行看得到）。
+
 #### contributor profile 讀取（原 Step 7.5 提前）
 
 session 啟動讀 `.taiwanmd/contributor.local.yml`：

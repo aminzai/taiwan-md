@@ -169,6 +169,8 @@ bash scripts/tools/refresh-data.sh
 
 **catch ≠ fix 鐵律**（2026-05-28 誕生；2026-07-05 從 twmd-refresh skill 殼收編 canonical，per dna-audit §S5 業務規則不長殼層）：freshness gate **第 2 次連續 catch 同一個 stale dashboard JSON，必須當 cycle wire fix**——識別 generator → 確認/補 wire 進 refresh-data.sh → commit heal——不准再 spawn chip 推給下個 session。背景：dashboard-immune.json 5/17→5/28 共 11 天 silent stale、22+ cycle 連續 catch 沒 fix，是「Micro mode 不擴張 scope」推 chip 過頭的教訓。
 
+**Scheduler live-state dump（session 層 rider，2026-07-05 dna-audit §S1 根治第一塊磚）**：refresh session（skill 層）每日呼叫 `mcp__scheduled-tasks__list_scheduled_tasks` → `routine-live-normalize.py` 落 `docs/semiont/routine-live-state.json` 進 git。這步**不在 refresh-data.sh**（bash 進不了 MCP server store），是 twmd-refresh skill 的 session 步驟。下游：`routine-sync-check.py` v3 用它做 SSOT ↔ mirror ↔ live 三層比對（enabled / cron / description-時間字樣），dump 超過 48h 未更新自動標 stale——spore-pick/publish disabled 21 天而 SSOT 還列實驗中的 v2.9 重演，從此有每日黃燈。
+
 | Step   | 內容                                                                                   | Output                                                       |
 | ------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 1      | git sync (auto-stash + rebase pull)                                                    | (sync)                                                       |
