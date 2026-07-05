@@ -59,6 +59,18 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 楊德昌 EVOLVE — 2026-07-05 115223-楊德昌-evolve 完成（哲宇 explicit /twmd-rewrite 楊德昌 — People 電影與戲劇 / 多 agent 全編排 / 成品總驗 worked example）
+
+- **Article**: [knowledge/People/楊德昌.md](../../knowledge/People/楊德昌.md) — 2026-03-19 舊編年體（~2000 CJK / 6 首頁級腳註 / 0 引語 0 媒體 / 父母姓名幻覺 / 《麻將》缺席）全文重寫 → **6,688 prose CJK（含註 ~12,000 字）/ 92 footnote / 本人直引 6+ / 3 張北美館工作照（fair use press kit credit chain）+ 2 支官方 iframe + tw-timeline 七部半年表**
+- **Pipeline**: REWRITE-PIPELINE v7.6 — Evolution 非 callout。全編排：Opus 觀點 agent 盲測（35 探索）+ 4 Sonnet persona（20 路）+ 5 Sonnet 研究 fan-out（~263 次，總 ~300）+ fresh Opus writer 寫 staging + 3 adversarial verifier（V1 自 fan-out 5 子查證含 raw wikitext 直讀）
+- **核心矛盾**：用工程師最冷的邏輯，拍人心最燙的孤獨；第二樂章＝《一一》十七年缺席（四因疊加因果鏈，不寫成單一浪漫拒絕）；餘韻＝建中連載漫畫 → 昏迷前 email《小朋友》草圖的閉環
+- **Hook**：「Herzog, Bresson, Yang」T 恤（吳念真回憶，主 session 親 fetch 陳琬蓉 Medium 逐字救回錯置引註）
+- **falsification 戰果**：父母姓名「楊昇華/金雅馨」＝幻覺刪；交大 1970→1969（58 級官網一手）；「帶回一雙眼睛」「不要消費楊德昌」「像在談戀愛」查無一手全不用；**「麻將遭新聞局剪成 90 分鐘」證偽**（TFAI 修復頁 119 分 19 秒，疑似 Variety 影評誤讀）；PTA 影響說查無（順手 heal 台灣電影.md `6c4bccbcd`）
+- **Stage 3.6 成品總驗**：23 處修正，4 條「事實真、腳註連錯篇」drift（型 3 worked example），audit 落 research report §9
+- **Research**: [reports/research/2026-07/楊德昌.md](../../reports/research/2026-07/楊德昌.md)（673 行＋§9 audit）
+- **Cross-link**: 蔡明亮、張艾嘉補反向（`97e35f050`）；侯孝賢延伸閱讀缺 section 兩度 defer；李安/台灣電影/牯嶺街 已有正向連結
+- **待哲宇驗證**：lastHumanReview=false；孢子未排（SPORE-INBOX backpressure 中，hook 現成）
+
 ### 陳嫺靜 NEW — 2026-06-28 080237-manual 完成（拿金曲新人那年，她已經做音樂第八年 / Fresh / 金曲37 P0 時效）
 
 - **Article**: [knowledge/Music/陳嫺靜.md](../../knowledge/Music/陳嫺靜.md)
