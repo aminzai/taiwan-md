@@ -1,10 +1,10 @@
 ---
 name: twmd-embeddings
 description: |
-  Rebuild the bge-m3 semantic index on the GPU fleet via canonical
-  EMBEDDING-PIPELINE — one keystone build feeds reader related-articles
-  (src/data/related) + RAG vectors (public/api/rag). Sovereignty-preserving:
-  embeddings computed in-house on the always-on 4090, never outsourced.
+  Rebuild the bge-m3 semantic index via canonical EMBEDDING-PIPELINE —
+  one keystone build feeds reader related-articles (src/data/related) +
+  RAG vectors (public/api/rag). Sovereignty-preserving: embeddings computed
+  in-house (mac-m4max local primary, GPU fleet fallback), never outsourced.
   TRIGGER when: user says "重建語意索引", "跑 embeddings", "rebuild embeddings",
   "embedding routine", or routine `twmd-embeddings-nightly` fires.
 allowed-tools:
@@ -23,7 +23,7 @@ allowed-tools:
    Stage 4 `/twmd-finale` 收官。
 
 3. **鐵律**：
-   - endpoint 從 fleet registry 拿（抽象層），不 hardcode IP。
+   - endpoint 解析走 pipeline §前置（本機優先 + fleet registry 備援，v1.1 2026-07-05），不 hardcode IP。
    - 只 commit `src/data/related/`（public/api/rag + related 是 gitignored fleet 產出）。
    - 內容無 diff → skip commit，不留空 commit。
    - verify FAIL / fail rate >5% / fleet 連 3 天 skip → escalate LESSONS-INBOX 帶證據。

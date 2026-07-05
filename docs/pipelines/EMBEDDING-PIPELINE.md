@@ -1,9 +1,11 @@
 ---
 title: 'EMBEDDING-PIPELINE'
-description: 'Fleet bge-m3 semantic index rebuild — the keystone build that feeds reader related-articles (src/data/related) + RAG vectors (public/api/rag). Steady-state option B: nightly fleet rebuild, sovereignty-preserving (embeddings computed in-house, never outsourced).'
-type: 'pipeline'
+description: 'bge-m3 semantic index rebuild — the keystone build that feeds reader related-articles (src/data/related) + RAG vectors (public/api/rag). Steady-state v1.1: local mac-m4max nightly rebuild with fleet fallback, sovereignty-preserving (embeddings computed in-house, never outsourced).'
+type: 'pipeline-canonical'
 status: 'canonical'
-last_updated: 2026-06-14
+current_version: 'v1.1'
+last_updated: 2026-07-05
+last_session: '2026-07-05-221922-git-identity'
 sister_docs:
   - 'REMOTE-GPU-PIPELINE.md'
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -19,11 +21,11 @@ sister_docs:
 
 `scripts/core/build-embeddings.mjs` 是 keystone：一次 fleet 跑，產出
 
-| 產物 | 路徑 | 消費者 | 入 git？ |
-| --- | --- | --- | --- |
-| 精簡鄰居索引（8 鄰居 slug） | `src/data/related/{lang}.json` | 文章頁 footer「你可能也想讀」（build 時烘進 HTML，零瀏覽器模型） | ✅ build-input，commit |
-| 完整鄰居（含 title/url/score） | `public/api/related/{lang}.json` | debug / 未來客戶端 | ❌ gitignored |
-| 語意向量 shard | `public/api/rag/{lang}/` | AI / MCP semantic search | ❌ gitignored |
+| 產物                           | 路徑                             | 消費者                                                           | 入 git？               |
+| ------------------------------ | -------------------------------- | ---------------------------------------------------------------- | ---------------------- |
+| 精簡鄰居索引（8 鄰居 slug）    | `src/data/related/{lang}.json`   | 文章頁 footer「你可能也想讀」（build 時烘進 HTML，零瀏覽器模型） | ✅ build-input，commit |
+| 完整鄰居（含 title/url/score） | `public/api/related/{lang}.json` | debug / 未來客戶端                                               | ❌ gitignored          |
+| 語意向量 shard                 | `public/api/rag/{lang}/`         | AI / MCP semantic search                                         | ❌ gitignored          |
 
 **為什麼要 routine 重建**：`src/data/related` 是 model 產出的快照，不是 SSOT（SSOT = `knowledge/` + bge-m3 模型）。新文章 / 改寫 / 新翻譯進來後，索引會 stale——沒進索引的文章 fallback 回同 category（仍有 related，只是非語意）。每天重建把 staleness 上限框在一天。
 
@@ -31,22 +33,30 @@ sister_docs:
 
 ---
 
-## 前置：算力來自軍團，不寫死
+## 前置：本機優先，軍團備援（v1.1 2026-07-05 改）
 
-embedding endpoint **從 fleet registry 拿**（抽象層，不 hardcode IP）：
+embedding endpoint **先問本機、再問 fleet registry**（哲宇 2026-07-05 拍板：4090 實體離線 18 天索引凍結後，keystone 遷回指揮部 mac-m4max 本機常駐——「感覺會更單純」，而且 nightly routine 本來就跑在這台 Mac 上，少一層 Tailscale 依賴）：
 
 ```bash
-# 常駐 embed 節點（registry.json services 含 "embed" + models 含 bge-m3）
-EMBED_HOST=$(cd ~/Projects/muse-bot/fleet && python3 -c "
+# 本機優先（mac-m4max 常駐 bge-m3，steady-state）
+EMBED_HOST="http://127.0.0.1:11434"
+curl -s -m 5 "$EMBED_HOST/api/tags" | grep -q bge-m3 || EMBED_HOST=$(cd ~/Projects/muse-bot/fleet && python3 -c "
 import json
 r = json.load(open('registry.json'))
 for m in r['machines']:
-    if 'embed' in m.get('services', []) and any('bge-m3' in x for x in m.get('models', [])):
+    if 'embed' in m.get('services', []) and any('bge-m3' in x for x in m.get('models', [])) \
+       and m.get('status') != 'offline' and m['tailscale_ip'] != '127.0.0.1':
         print(f\"http://{m['tailscale_ip']}:{m['ollama_port']}\"); break
 ")
 ```
 
-目前常駐節點：`laptop-4090`（Tailscale `100.74.47.100:11434`，bge-m3:latest，always-on via schtasks SYSTEM）。registry 是 SSOT，節點換機只改 registry 不改本 pipeline。
+主節點：`mac-m4max`（127.0.0.1:11434，bge-m3:latest，2026-07-05 起）。fleet GPU 節點（4090 / 3090 / 5090）為備援，registry 是節點 SSOT；fallback 解析已補 `status != offline` 檢查（舊版不看 status，指著離線節點空轉 18 夜是 vc=3 教訓）。
+
+### 候選模型：EmbeddingGemma（2026-07-05 哲宇點名實測，暫不切換）
+
+M4 Max 本機九篇 zh 文摘 head-to-head（`bge-m3:latest` vs `embeddinggemma`）：速度打平（115 vs 112 ms/doc）；質量都能正確聚出電影三傑（楊德昌↔侯孝賢↔蔡明亮）與二二八↔美麗島；EmbeddingGemma 對比度更銳利（無關對低到 0.17-0.25，bge-m3 地板 0.32-0.46 有假性中相似如珍珠奶茶→美麗島 0.515）。規格：308M 參數 / 768 維（[Matryoshka 可截 512/256/128](https://huggingface.co/blog/embeddinggemma)）/ [2,048 token context](https://ai.google.dev/gemma/docs/embeddinggemma) / [MTEB <500M 第一](https://developers.googleblog.com/en/introducing-embeddinggemma/)。context 差異對現行策略無關緊要：`embedText` 只餵 2,000 字文摘，且兩個模型在 ollama 對超長輸入都 fail-loud（實測 6,000 字皆回 error 非靜默截斷）。
+
+**暫不切換的理由**：質量沒有明確代差、速度打平、剛完成全量重建、`DIM=1024` 與 manifest.model 假設要動、**rag-query 查詢端模型必須跟索引端一致**（切換是全鏈動作）。**切換觸發條件**（二擇一即重評）：(a) chunk-level embedding 實驗啟動（#1146 P2）——小維度 + MRL + index 縮 25% 在 chunk 場景優勢放大；(b) 表示層去 PRC-origin 敘事需求（bge-m3 出自北京 BAAI，MIT 授權、在地跑無資料出境，但「意思的座標由誰的模型定義」是 Sovereignty-Bench 可延伸的測量題——embedding 無拒答面，剩幾何偏差待測）。
 
 ---
 
@@ -116,16 +126,18 @@ git push origin main
 
 ## 排程
 
-| | |
-| --- | --- |
-| Cron | `0 5 * * *`（每天 05:00 +0800，babel 00:30 之後、refresh-am 06:00 之前；夜鏈尾 + 不撞週日 01-04 routine） |
-| Skill | `/twmd-embeddings` |
-| Model（cron session） | Sonnet（純機械 rebuild + verify + commit，無創作判斷） |
-| TaskId | `twmd-embeddings-nightly` |
-| 失敗 escalation | fleet down 連 3 天 skip / verify FAIL / fail rate >5% → LESSONS-INBOX |
+|                       |                                                                                                           |
+| --------------------- | --------------------------------------------------------------------------------------------------------- |
+| Cron                  | `0 5 * * *`（每天 05:00 +0800，babel 00:30 之後、refresh-am 06:00 之前；夜鏈尾 + 不撞週日 01-04 routine） |
+| Skill                 | `/twmd-embeddings`                                                                                        |
+| Model（cron session） | Sonnet（純機械 rebuild + verify + commit，無創作判斷）                                                    |
+| TaskId                | `twmd-embeddings-nightly`                                                                                 |
+| 失敗 escalation       | fleet down 連 3 天 skip / verify FAIL / fail rate >5% → LESSONS-INBOX                                     |
 
 ROUTINE.md SSOT 一行登記在排程表。修排程先改 ROUTINE.md 再 sync 任務檔。
 
 ---
+
+_v1.1 | 2026-07-05 git-identity session | **keystone 遷回本機**：主節點 laptop-4090 → mac-m4max（127.0.0.1），§前置 解析改「本機優先 + fleet 備援（補 status 檢查）」。觸發：4090 實體離線 18 天、committed 索引凍在 6/17 連 18 夜 graceful skip（escalation vc=3），哲宇拍板「在我這台 Mac 上跑 bge-m3 更單純」。主權不變：意思的座標仍在地端算。_
 
 _v1.0 | 2026-06-14 | 作者：Taiwan.md | 觸發：哲宇要 B 方案每天跑、做成 embedding pipeline + 夜間 routine。語意 related-articles 落地報告的 steady-state 決策落地。_
