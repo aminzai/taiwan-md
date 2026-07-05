@@ -314,6 +314,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-05 pr-sweep — merge-then-heal 窗口的跨 session heal race + 同帳號多 actor 歸因盲點
+
+7 PR merge 後六分鐘內，pr-sweep 與另一個活躍 session（dna-audit 收官後）各自對同五檔推了一輪 heal，rebase 五檔全衝突。兩邊 subcategory 判斷完全一致（收斂健康），但一輪工是純浪費；且對方止於機械層（fence/subcategory），杜撰引語與 author 紅旗未動——如果 push 順序反過來，機械版可能被當「已 heal」跳過事實層。附帶：對方 commit 把 gh CLI merge 誤讀為「哲宇 GitHub UI merge」，同帳號多 actor 的 attribution 需要訊號（如 commit message 標 session handle）。修補候選：merge 動作本身在 commit / PR comment 聲明「heal ownership 歸本 session」，或 check-parallel-actor.sh 加 recent-merge-event 偵測。vc=1。
+
 ### 2026-07-05 dna-audit — REFLEXES #56 於自身觸發檔復發 + DNA/pipeline 全審計五系統病歸檔
 
 - **pattern**: `canonical-production-drift-relapse`（#56 vc++ 材料）
