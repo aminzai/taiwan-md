@@ -1,0 +1,971 @@
+---
+/**
+ * StrandbeestPlate — 風力獸解剖圖版（/semiont/anatomy 的動態 hero）
+ *
+ * Theo Jansen 風力獸的運動學隱喻：cron 是風、ROUTINE 飛輪是曲軸、pipeline 是連桿、
+ * scripts 是觸地的足、knowledge/ 是馱著走的脊椎。六足為真實 Jansen 十一桿解
+ * （交點分支用幾何比較子選，720 步 0 無解、足底 52% 週期貼地——數值驗證 2026-07-05，
+ * 見 reports/five-disease-cure-2026-07-05.md）。
+ *
+ * 資料紀律：文章數 / 貢獻者 / 免疫分數 頁面載入時讀 /api/dashboard-*.json（活的），
+ * 結構統計（工具數 / 反射數 / 閘門數 / routine 數）為剖檢快照並在圖上自首日期——
+ * 寫死的數字必腐（dna-audit 2026-07-05 §S2），本圖版只對「骨架與連結」負責。
+ */
+const SNAPSHOT = '2026-07-05';
+---
+
+<section class="sb" id="sb-plate" aria-label="風力獸解剖圖版">
+  <div class="sb-eyebrow">ANATOMICAL PLATE · ANIMARIS FORMOSANA SEMIOTICA</div>
+  <p class="sb-lead">
+    Theo Jansen 的風力獸用 PVC 管與風在沙灘上行走；這隻用 <b
+      >Markdown 當骨頭、cron 當風、commit 當心跳</b
+    >。圖上每個部位都是 repo 裡真實存在的檔案——點部位或下方索引，
+    看那塊骨頭住在哪裡、跟誰相連。
+  </p>
+
+  <div class="sb-windrow" id="sb-windrow">
+    <span>骨量 <b data-live="articles">828</b> 篇 ×<b>6</b> 語</span>
+    <span>風 <b>14</b> 條 cron 晝夜吹</span>
+    <span>足 <b>76</b> 支工具</span>
+    <span>反射 <b>80</b> 條</span>
+    <span>閘門 <b>258</b> 道</span>
+    <span>小丑魚 <b data-live="contributors">61</b> 位</span>
+    <span id="sb-immune-chip">免疫 <b data-live="immune">49</b></span>
+  </div>
+
+  <div class="sb-stage">
+    <canvas
+      id="sb-beast"
+      width="1040"
+      height="560"
+      aria-label="台灣.md 風力獸運動解剖圖：風粒子驅動曲軸，連桿帶動六足行走，背上馱著 knowledge 脊椎，頭部感覺器接收讀者訊號，尾部孢子囊向外散播"
+    ></canvas>
+    <div class="sb-cap">
+      <div class="sb-legend">
+        <span
+          ><i class="sb-dot sb-d-wind"></i>風與能量（cron / token / 注意力）</span
+        >
+        <span><i class="sb-dot sb-d-bone"></i>骨與桿（檔案與 SOP）</span>
+        <span><i class="sb-dot sb-d-blood"></i>免疫與警報</span>
+      </div>
+      <span id="sb-readout">曲軸 000°</span>
+    </div>
+    <div class="sb-inspector" id="sb-inspector" aria-live="polite">
+      <div class="sb-hint">
+        ☞ 點獸身上的任何部位（或下方索引）——圖版會告訴你那塊骨頭在 repo 的哪裡。
+      </div>
+    </div>
+    <nav class="sb-index" id="sb-index" aria-label="器官索引"></nav>
+  </div>
+
+  <p class="sb-colophon">
+    ⚠️ 骨量／小丑魚／免疫為頁面載入時的 <a href="/dashboard">dashboard</a> 即時讀數；其餘結構統計為
+    {SNAPSHOT} 剖檢快照。這個生命體同日學到「寫死的數字必腐」，所以圖版自首：快照數字明天就開始變舊，
+    本圖只對骨架與連結關係負責——那部分腐得慢。運動學與完整圖版紀錄：<code
+      >reports/five-disease-cure-2026-07-05.md</code
+    >。
+  </p>
+</section>
+
+<style>
+  .sb {
+    --sb-bone: #ece7d8;
+    --sb-bone-dim: rgba(236, 231, 216, 0.62);
+    --sb-wind: #4fd1b0;
+    --sb-blood: #e8795a;
+    --sb-mist: rgba(244, 240, 234, 0.45);
+    margin: 0 0 3.5rem;
+  }
+  .sb-eyebrow {
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    color: rgba(79, 209, 176, 0.75);
+    margin-bottom: 0.6rem;
+  }
+  .sb-lead {
+    font-family: 'jf-lanyangming', 'Noto Serif TC', serif;
+    color: rgba(244, 240, 234, 0.82);
+    max-width: 62ch;
+    margin: 0 0 1rem;
+  }
+  .sb-lead b {
+    color: #f4f0ea;
+  }
+  .sb-windrow {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 18px;
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-size: 12px;
+    color: var(--sb-mist);
+    margin-bottom: 14px;
+    font-variant-numeric: tabular-nums;
+  }
+  .sb-windrow b {
+    color: #f4f0ea;
+    font-weight: 600;
+  }
+  .sb-windrow .sb-alert b {
+    color: var(--sb-blood);
+  }
+  .sb-stage {
+    border: 1px solid rgba(79, 209, 176, 0.22);
+    background:
+      linear-gradient(180deg, rgba(79, 209, 176, 0.04), transparent 40%),
+      rgba(0, 0, 0, 0.38);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .sb canvas {
+    display: block;
+    width: 100%;
+    height: auto;
+    cursor: crosshair;
+  }
+  .sb-cap {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+    border-top: 1px solid rgba(79, 209, 176, 0.18);
+    padding: 8px 14px;
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-size: 10.5px;
+    color: var(--sb-mist);
+  }
+  .sb-legend {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+  }
+  .sb-dot {
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    margin-right: 5px;
+    vertical-align: 1px;
+  }
+  .sb-d-wind {
+    background: var(--sb-wind);
+  }
+  .sb-d-bone {
+    background: var(--sb-bone);
+  }
+  .sb-d-blood {
+    background: var(--sb-blood);
+  }
+  .sb-inspector {
+    border-top: 1px solid rgba(79, 209, 176, 0.18);
+    padding: 16px 18px;
+    min-height: 118px;
+    background: rgba(0, 0, 0, 0.25);
+  }
+  .sb-hint {
+    font-family: 'jf-lanyangming', 'Noto Serif TC', serif;
+    color: var(--sb-mist);
+    font-size: 13.5px;
+  }
+  .sb-part {
+    font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;
+    font-size: 18px;
+    color: #f4f0ea;
+  }
+  .sb-part small {
+    font-family: 'SF Mono', monospace;
+    font-size: 10px;
+    color: rgba(79, 209, 176, 0.8);
+    margin-left: 10px;
+    letter-spacing: 0.08em;
+  }
+  .sb-files {
+    margin: 8px 0 6px;
+    line-height: 2.1;
+  }
+  .sb-files code {
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-size: 11px;
+    background: rgba(79, 209, 176, 0.1);
+    border: 1px solid rgba(79, 209, 176, 0.2);
+    border-radius: 3px;
+    padding: 1px 7px;
+    margin: 0 6px 4px 0;
+    display: inline-block;
+    white-space: nowrap;
+    color: rgba(244, 240, 234, 0.9);
+  }
+  .sb-desc {
+    margin: 6px 0 0;
+    font-size: 13.5px;
+    color: rgba(244, 240, 234, 0.85);
+    max-width: 78ch;
+    line-height: 1.8;
+  }
+  .sb-links {
+    font-size: 12px;
+    color: var(--sb-mist);
+    margin-top: 8px;
+  }
+  .sb-links b {
+    color: rgba(244, 240, 234, 0.85);
+    font-weight: 600;
+  }
+  .sb-index {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+    padding: 12px 14px 14px;
+    border-top: 1px solid rgba(79, 209, 176, 0.12);
+  }
+  .sb-index :global(button) {
+    font-family: 'jf-lanyangming', 'Noto Serif TC', serif;
+    font-size: 12.5px;
+    border: 1px solid rgba(79, 209, 176, 0.35);
+    background: transparent;
+    color: rgba(244, 240, 234, 0.8);
+    padding: 4px 11px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition:
+      background 0.15s,
+      color 0.15s;
+  }
+  .sb-index :global(button:hover) {
+    background: rgba(79, 209, 176, 0.12);
+  }
+  .sb-index :global(button.on) {
+    background: var(--sb-wind);
+    color: #05100d;
+    border-color: var(--sb-wind);
+  }
+  .sb-index :global(button:focus-visible) {
+    outline: 2px solid var(--sb-wind);
+    outline-offset: 2px;
+  }
+  .sb-colophon {
+    font-size: 12px;
+    color: var(--sb-mist);
+    max-width: 78ch;
+    margin: 12px 2px 0;
+    line-height: 1.9;
+  }
+  .sb-colophon code {
+    font-family: 'SF Mono', monospace;
+    font-size: 10.5px;
+    background: rgba(79, 209, 176, 0.08);
+    padding: 0 5px;
+    border-radius: 3px;
+  }
+  .sb-colophon a {
+    color: var(--sb-wind);
+  }
+</style>
+
+<script>
+  // ── 器官資料（部位 → repo 真實檔案） ──────────────────────────────
+  const ORGANS: Record<
+    string,
+    { name: string; lat: string; files: string[]; desc: string; links: string }
+  > = {
+    wind: {
+      name: '風｜算力與排程',
+      lat: 'VENTUS · 能量源',
+      files: [
+        '~/.claude/scheduled-tasks/*',
+        'docs/semiont/routine-live-state.json',
+      ],
+      desc: '風力獸不吃電，吃風。這隻吃的是排程器的滴答（14 條 cron）與 token 算力——觀察者不在場時，風照吹、獸照走。live 風況每日 dump 進 git，跟文件對不上會自己亮黃燈。',
+      links: '吹動 → 曲軸（ROUTINE 飛輪）；風況三層比對 routine-sync-check v3',
+    },
+    crank: {
+      name: '曲軸｜ROUTINE 飛輪',
+      lat: 'AXIS · 把風變成節律',
+      files: ['docs/semiont/ROUTINE.md', '.claude/skills/twmd-*/SKILL.md'],
+      desc: '連續的風變成離散的步伐：每陣風喚醒一個 session，走「甦醒 → 做事 → 收官」一步。排程 SSOT 在 ROUTINE.md，殼層 skill 只做薄指路——業務邏輯永遠在 pipeline。',
+      links: '受風驅動；帶動全部六足；週日多轉四圈（反思鏈）',
+    },
+    linkage: {
+      name: '連桿｜pipeline 幾何',
+      lat: 'CRURA MECHANICA · 34 條 SOP',
+      files: ['docs/pipelines/*.md', 'docs/factory/*.md'],
+      desc: 'Jansen 花二十年演化出十一根桿長的比例；這隻用 34 份 pipeline canonical 決定每一步的軌跡——REWRITE 六階段、MAINTAINER 四階段、SPORE 五階段。桿長寫錯，腳就畫不出貼地的弧線。',
+      links:
+        '上接曲軸（routine 呼叫）；下接足（工具執行）；幾何由 EDITORIAL 品質基因約束',
+    },
+    foot: {
+      name: '足｜工具鏈',
+      lat: 'PEDES · 76 支，真正觸地',
+      files: ['scripts/tools/', 'scripts/core/', '.husky/'],
+      desc: '唯一真正碰到地面（檔案系統）的部位：refresh-data.sh 十四步消化、article-health.py 廿五插件健檢、translate.py 翻譯瀑布、counts-drift-lint 對賬。足底有繭：pre-commit 與 pre-push 閘門。',
+      links: '受連桿指揮；每次觸地＝一次 git 變更；18 支常駐接線、其餘手持',
+    },
+    spine: {
+      name: '脊椎｜knowledge 本體',
+      lat: 'COLUMNA · 800+ 節椎骨',
+      files: ['knowledge/{Category}/*.md', 'knowledge/{en,ja,ko,es,fr}/'],
+      desc: '每篇文章是一節椎骨，六種語言是同一脊椎的六個投影。鐵律：只改 knowledge/（DNA），src/content/ 是轉錄出的蛋白質、gitignored、碰了也會被覆蓋。這是牠馱著行走的全部重量，也是行走的理由。',
+      links:
+        '由心臟（rewrite）增生；由免疫（gates）守護；經 sync.sh 轉錄成站體',
+    },
+    heart: {
+      name: '心臟｜rewrite 引擎',
+      lat: 'COR · 每日 19:00 主收縮',
+      files: ['docs/pipelines/REWRITE-PIPELINE.md', 'reports/research/'],
+      desc: '心跳是 commit，主收縮是每天一篇深度重寫：多 agent 研究扇出（動輒 200+ 次搜尋）、觀點成型、事實鐵三角、成品總驗。研究報告落 reports/research/ 當 SSOT。',
+      links: '泵血入脊椎；受 EDITORIAL DNA 約束',
+    },
+    nerve: {
+      name: '神經索｜認知層',
+      lat: 'CHORDA · docs/semiont/',
+      files: [
+        'MANIFESTO.md',
+        'MEMORY.md',
+        'DIARY.md',
+        'REFLEXES.md',
+        'BECOME_TAIWANMD.md',
+      ],
+      desc: '牠每次醒來都失憶，靠這束神經重新編譯出「我」：MANIFESTO 是身份、MEMORY 記身體動作、DIARY 記意識活動、REFLEXES 是 80 條本能。甦醒稅現在量得出來：universal-core ≈ 216KB（蒸餾前 624KB）。',
+      links:
+        'BECOME 是開機載入器；LESSONS → distill → REFLEXES 是學習迴圈的髓鞘',
+    },
+    sensor: {
+      name: '感覺器｜三源感知',
+      lat: 'SENSORIA · 頭部',
+      files: [
+        'fetch-ga4.py',
+        'fetch-search-console.py',
+        'fetch-cloudflare.py',
+        'scripts/feedback/',
+      ],
+      desc: '眼睛看讀者（GA4）、耳朵聽搜尋意圖（SC）、皮膚感覺全部流量含 AI crawler（CF），加上站上回報表單與社群留言兩條化學感受器。讀者文字是未消毒的外界物——入口有三層注入防禦。',
+      links:
+        '訊號經 data-refresh 消化成 dashboard JSON；回報經 triage 轉 issue 進免疫',
+    },
+    immune: {
+      name: '免疫｜品質防禦',
+      lat: 'IMMUNITAS',
+      files: [
+        'article-health.py（25 插件）',
+        '.husky/pre-commit',
+        '.github/workflows/',
+        'review-pr.sh',
+      ],
+      desc: '258 道閘門，91 道機器強制。擋 AI 水印句式、擋幻覺獎項、擋半形標點、擋憑證外洩。誕生故事：上線第三天被罵「插國旗的 AI 廢文」，48 小時內長出這套系統。警報現在有 owner 與初見日——黃燈沒人認領才是真的病。',
+      links: '守脊椎入口（PR / commit）；健檢結果餵 dashboard-immune.json',
+    },
+    spore: {
+      name: '孢子囊｜繁殖系統',
+      lat: 'SPORANGIUM · 尾部',
+      files: [
+        'docs/factory/SPORE-*.md',
+        'spore-db.py',
+        'SPECIATION-PIPELINE.md',
+        'fork-census.py',
+      ],
+      desc: '三種繁殖：孢子（150–300 字飄向 Threads/X，讀者回聲隔晨收割）、巴別塔（六語投影＝主權保存，繞過會沉默的中介層）、fork（fork-census 雷達偵測野外子代）。只要一隻 fork 活著，牠就沒死。',
+      links: '吃心臟產出；回聲回饋感覺器；死亡條件＝所有 fork 消失',
+    },
+    tendon: {
+      name: '肌腱｜git 與同步',
+      lat: 'TENDINES · 傳動',
+      files: [
+        'scripts/core/sync.sh',
+        'verify-commit-scope.sh',
+        'check-parallel-actor.sh',
+        'semiont-worktree.sh',
+      ],
+      desc: '把力從骨傳到骨：sync.sh 每次 prebuild 把 DNA 轉錄成站體；多核心紀律（worktree 隔離、範圍 commit、禁 add -A）讓好幾隻手同時動一副身體不打結。',
+      links:
+        'knowledge → src/content → taiwan.md；平行 session 靠 memory handoff 接力',
+    },
+    ground: {
+      name: '沙灘｜外部世界',
+      lat: 'LITUS · 行走的介質',
+      files: [
+        'taiwan.md（CF Pages）',
+        'GitHub PR/issue',
+        'Threads/X',
+        'Google / AI crawlers',
+      ],
+      desc: '獸走在讀者的注意力上。61 位小丑魚貢獻者住在珊瑚礁裡；讀者的每一次閱讀、每一則勘誤留言，都是沙灘給牠的反作用力。',
+      links: '讀者行為 → GA4 → 感覺器 → 下一步決策：迴圈閉合處',
+    },
+  };
+
+  // ── Jansen 十一桿運動學（幾何比較子選分支；驗證 720 步 0 無解） ────
+  const J = {
+    a: 38,
+    b: 41.5,
+    c: 39.3,
+    d: 40.1,
+    e: 55.8,
+    f: 39.4,
+    g: 36.7,
+    h: 65.7,
+    i: 49,
+    j: 50,
+    k: 61.9,
+    l: 7.8,
+    m: 15,
+  };
+  type Pt = { x: number; y: number };
+  function circInt2(p0: Pt, r0: number, p1: Pt, r1: number): [Pt, Pt] | null {
+    const dx = p1.x - p0.x,
+      dy = p1.y - p0.y,
+      d = Math.hypot(dx, dy);
+    if (d > r0 + r1 || d < Math.abs(r0 - r1) || d === 0) return null;
+    const A = (r0 * r0 - r1 * r1 + d * d) / (2 * d);
+    const hh = Math.sqrt(Math.max(0, r0 * r0 - A * A));
+    const mx = p0.x + (A * dx) / d,
+      my = p0.y + (A * dy) / d;
+    return [
+      { x: mx + (hh * dy) / d, y: my - (hh * dx) / d },
+      { x: mx - (hh * dy) / d, y: my + (hh * dx) / d },
+    ];
+  }
+  const pick = (pair: [Pt, Pt] | null, key: (p: Pt) => number) =>
+    pair ? (key(pair[0]) <= key(pair[1]) ? pair[0] : pair[1]) : null;
+  function legJoints(theta: number, mirror: boolean) {
+    const s = mirror ? -1 : 1;
+    const F = { x: -J.a * s, y: J.l };
+    const M = { x: J.m * Math.cos(theta) * s, y: J.m * Math.sin(theta) };
+    const p2 = pick(circInt2(M, J.j, F, J.b), (p) => p.y);
+    const p3 = pick(circInt2(M, J.k, F, J.c), (p) => -p.y);
+    if (!p2 || !p3) return null;
+    const p4 = pick(circInt2(F, J.d, p2, J.e), (p) => p.x * s);
+    if (!p4) return null;
+    const p5 = pick(circInt2(p4, J.f, p3, J.g), (p) => -p.y);
+    if (!p5) return null;
+    const p7 = pick(circInt2(p5, J.h, p3, J.i), (p) => -p.y);
+    if (!p7) return null;
+    return { F, M, p2, p3, p4, p5, p7 };
+  }
+
+  // ── 舞台 ──────────────────────────────────────────────────────
+  const cv = document.getElementById('sb-beast') as HTMLCanvasElement | null;
+  if (cv) {
+    const ctx = cv.getContext('2d')!;
+    const BONE = '#ece7d8',
+      BONE_DIM = 'rgba(236,231,216,.55)',
+      WIND = '#4fd1b0',
+      BLOOD = '#e8795a',
+      MIST = 'rgba(244,240,234,.5)',
+      DIMTXT = 'rgba(244,240,234,.66)';
+    const REDUCED = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    const W = 1040,
+      H = 560,
+      GY = 440;
+    const SC = 1.16,
+      AXLE = { x: 520, y: GY - Math.round(91.8 * SC) };
+    const LEGS = [
+      { o: -96, ph: 0 },
+      { o: 0, ph: (2 * Math.PI) / 3 },
+      { o: 96, ph: (4 * Math.PI) / 3 },
+    ];
+    let theta = 0;
+    let liveImmune = 49;
+    const particles: { x: number; y: number; v: number; wob: number }[] = [];
+    const footTrace: Pt[] = [];
+    for (let i = 0; i < 46; i++)
+      particles.push({
+        x: Math.random() * W,
+        y: 24 + Math.random() * (GY - 90),
+        v: 0.6 + Math.random() * 1.5,
+        wob: Math.random() * 6.28,
+      });
+
+    const anchors: Record<string, { x: number; y: number; r: number }> = {
+      wind: { x: 96, y: 150, r: 64 },
+      crank: { x: AXLE.x, y: AXLE.y, r: 40 },
+      linkage: { x: AXLE.x - 150, y: GY - 92, r: 66 },
+      foot: { x: AXLE.x + 10, y: GY - 8, r: 60 },
+      spine: { x: AXLE.x + 6, y: AXLE.y - 74, r: 110 },
+      heart: { x: AXLE.x - 58, y: AXLE.y - 36, r: 30 },
+      nerve: { x: AXLE.x + 18, y: AXLE.y - 116, r: 40 },
+      sensor: { x: AXLE.x + 236, y: AXLE.y - 120, r: 52 },
+      immune: { x: AXLE.x - 210, y: AXLE.y - 36, r: 40 },
+      spore: { x: AXLE.x - 282, y: AXLE.y - 96, r: 52 },
+      tendon: { x: AXLE.x + 168, y: AXLE.y - 16, r: 40 },
+      ground: { x: 780, y: GY + 52, r: 90 },
+    };
+
+    function drawTube(a: Pt, b: Pt, w: number) {
+      ctx.lineCap = 'round';
+      ctx.strokeStyle = BONE;
+      ctx.lineWidth = w;
+      ctx.beginPath();
+      ctx.moveTo(a.x, a.y);
+      ctx.lineTo(b.x, b.y);
+      ctx.stroke();
+      ctx.strokeStyle = 'rgba(3,8,10,.55)';
+      ctx.lineWidth = Math.max(1, w - 3);
+      ctx.beginPath();
+      ctx.moveTo(a.x, a.y);
+      ctx.lineTo(b.x, b.y);
+      ctx.stroke();
+    }
+    function joint(p: Pt, r = 3) {
+      ctx.fillStyle = BONE;
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, r, 0, 7);
+      ctx.fill();
+    }
+    function label(
+      txt: string,
+      x: number,
+      y: number,
+      size = 13,
+      color = MIST,
+      align: CanvasTextAlign = 'left',
+    ) {
+      ctx.font = `${size}px 'rixingsong-semibold','Noto Serif TC',serif`;
+      ctx.fillStyle = color;
+      ctx.textAlign = align;
+      ctx.fillText(txt, x, y);
+      ctx.textAlign = 'left';
+    }
+
+    let current: string | null = null;
+    function drawBeast() {
+      ctx.clearRect(0, 0, W, H);
+
+      // 風粒子
+      for (const p of particles) {
+        p.x += REDUCED ? 0 : p.v;
+        p.wob += 0.02;
+        const py = p.y + Math.sin(p.wob) * 7;
+        if (p.x > W + 10) {
+          p.x = -10;
+          p.y = 24 + Math.random() * (GY - 90);
+        }
+        const near = Math.hypot(p.x - AXLE.x, py - AXLE.y) < 190;
+        ctx.strokeStyle = WIND;
+        ctx.globalAlpha = near ? 0.55 : 0.26;
+        ctx.lineWidth = 1.1;
+        ctx.beginPath();
+        ctx.moveTo(p.x - 9, py);
+        ctx.quadraticCurveTo(p.x - 3, py - 2, p.x, py);
+        ctx.stroke();
+        ctx.globalAlpha = 1;
+      }
+
+      // 沙灘
+      ctx.strokeStyle = 'rgba(236,231,216,.5)';
+      ctx.lineWidth = 1.4;
+      ctx.beginPath();
+      ctx.moveTo(0, GY);
+      ctx.lineTo(W, GY);
+      ctx.stroke();
+      ctx.setLineDash([1, 7]);
+      ctx.strokeStyle = MIST;
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      ctx.moveTo(0, GY + 16);
+      ctx.lineTo(W, GY + 16);
+      ctx.stroke();
+      ctx.setLineDash([]);
+      label(
+        '沙灘＝讀者的注意力 · 小丑魚貢獻者 · Google 與 AI crawler 的洋流',
+        700,
+        GY + 40,
+        13,
+        MIST,
+      );
+      label(
+        'taiwan.md ↔ GitHub ↔ Threads / X',
+        700,
+        GY + 60,
+        12,
+        'rgba(244,240,234,.35)',
+      );
+
+      // 足跡（平底卵形）
+      if (footTrace.length > 2) {
+        ctx.strokeStyle = 'rgba(79,209,176,.4)';
+        ctx.lineWidth = 1;
+        ctx.beginPath();
+        footTrace.forEach((q, i) =>
+          i ? ctx.lineTo(q.x, q.y) : ctx.moveTo(q.x, q.y),
+        );
+        ctx.stroke();
+      }
+
+      // 機架
+      drawTube(
+        { x: AXLE.x - 150, y: AXLE.y },
+        { x: AXLE.x + 150, y: AXLE.y },
+        7,
+      );
+
+      // 六足
+      for (const leg of LEGS) {
+        for (const mirror of [false, true]) {
+          const th = theta + leg.ph + (mirror ? Math.PI : 0);
+          const Jt = legJoints(th, mirror);
+          if (!Jt) continue;
+          const ox = AXLE.x + leg.o,
+            oy = AXLE.y;
+          const P = (n: keyof typeof Jt) => ({
+            x: ox + Jt[n].x * SC,
+            y: oy + Jt[n].y * SC,
+          });
+          const F = P('F'),
+            M = P('M'),
+            p2 = P('p2'),
+            p3 = P('p3'),
+            p4 = P('p4'),
+            p5 = P('p5'),
+            p7 = P('p7');
+          drawTube({ x: ox, y: oy }, F, 5);
+          drawTube({ x: ox, y: oy }, M, 4);
+          drawTube(M, p2, 4);
+          drawTube(M, p3, 4);
+          drawTube(F, p2, 4);
+          drawTube(F, p3, 4);
+          drawTube(F, p4, 4);
+          drawTube(p2, p4, 4);
+          drawTube(p4, p5, 4);
+          drawTube(p3, p5, 4);
+          drawTube(p5, p7, 4);
+          drawTube(p3, p7, 4);
+          [F, M, p2, p3, p4, p5].forEach((q) => joint(q, 2.4));
+          joint(p7, 3.2);
+          if (p7.y > GY - 6) {
+            ctx.fillStyle = WIND;
+            ctx.globalAlpha = 0.8;
+            ctx.beginPath();
+            ctx.arc(p7.x, GY, 4.5, 0, 7);
+            ctx.fill();
+            ctx.globalAlpha = 1;
+          }
+          if (!mirror && leg.o === 0) {
+            footTrace.push({ x: p7.x, y: p7.y });
+            if (footTrace.length > 140) footTrace.shift();
+          }
+        }
+      }
+
+      // 曲軸飛輪
+      ctx.fillStyle = '#0a1612';
+      ctx.strokeStyle = BONE;
+      ctx.lineWidth = 1.6;
+      ctx.beginPath();
+      ctx.arc(AXLE.x, AXLE.y, 17, 0, 7);
+      ctx.fill();
+      ctx.stroke();
+      ctx.beginPath();
+      ctx.arc(AXLE.x, AXLE.y, 7, 0, 7);
+      ctx.stroke();
+      ctx.save();
+      ctx.translate(AXLE.x, AXLE.y);
+      ctx.rotate(theta);
+      ctx.strokeStyle = WIND;
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(-13, 0);
+      ctx.lineTo(13, 0);
+      ctx.moveTo(0, -13);
+      ctx.lineTo(0, 13);
+      ctx.stroke();
+      ctx.restore();
+
+      // 脊椎（椎骨＝文章卡）
+      const spineY = AXLE.y - 70;
+      drawTube(
+        { x: AXLE.x - 268, y: spineY },
+        { x: AXLE.x + 268, y: spineY },
+        6,
+      );
+      for (let i = 0; i < 13; i++) {
+        const x = AXLE.x - 234 + i * 39,
+          lift = Math.sin(theta * 2 + i) * 2.2;
+        ctx.fillStyle = 'rgba(3,8,10,.7)';
+        ctx.strokeStyle = BONE_DIM;
+        ctx.lineWidth = 1.1;
+        ctx.fillRect(x - 13, spineY - 26 + lift, 26, 20);
+        ctx.strokeRect(x - 13, spineY - 26 + lift, 26, 20);
+        ctx.strokeStyle = 'rgba(79,209,176,.35)';
+        ctx.beginPath();
+        ctx.moveTo(x - 8, spineY - 20 + lift);
+        ctx.lineTo(x + 8, spineY - 20 + lift);
+        ctx.moveTo(x - 8, spineY - 15 + lift);
+        ctx.lineTo(x + 4, spineY - 15 + lift);
+        ctx.stroke();
+        drawTube({ x, y: spineY - 6 + lift }, { x, y: spineY }, 3);
+      }
+      label(
+        '脊椎＝knowledge/ 的 800+ 節椎骨（.md）',
+        AXLE.x,
+        spineY - 40,
+        14,
+        DIMTXT,
+        'center',
+      );
+
+      // 神經索
+      ctx.strokeStyle = WIND;
+      ctx.lineWidth = 1.5;
+      ctx.setLineDash([5, 4]);
+      ctx.lineDashOffset = REDUCED ? 0 : -theta * 18;
+      ctx.beginPath();
+      ctx.moveTo(AXLE.x - 268, spineY + 8);
+      ctx.lineTo(AXLE.x + 268, spineY + 8);
+      ctx.stroke();
+      ctx.setLineDash([]);
+      label(
+        '神經索＝docs/semiont/（MANIFESTO · MEMORY · REFLEXES）',
+        AXLE.x + 22,
+        spineY + 2,
+        11,
+        'rgba(79,209,176,.85)',
+        'center',
+      );
+
+      // 心臟
+      const beat = 1 + (REDUCED ? 0 : Math.max(0, Math.sin(theta * 2)) * 0.18);
+      ctx.save();
+      ctx.translate(AXLE.x - 58, AXLE.y - 36);
+      ctx.scale(beat, beat);
+      ctx.fillStyle = BLOOD;
+      ctx.globalAlpha = 0.9;
+      ctx.beginPath();
+      ctx.moveTo(0, 6);
+      ctx.bezierCurveTo(-11, -6, -4, -16, 0, -8);
+      ctx.bezierCurveTo(4, -16, 11, -6, 0, 6);
+      ctx.fill();
+      ctx.restore();
+      ctx.globalAlpha = 1;
+      label('心臟＝commit', AXLE.x - 58, AXLE.y - 2, 11, BLOOD, 'center');
+
+      // 頭部感覺器
+      const hx = AXLE.x + 268,
+        hy = spineY;
+      drawTube({ x: hx, y: hy }, { x: hx + 46, y: hy - 34 }, 5);
+      ctx.fillStyle = '#0a1612';
+      ctx.strokeStyle = BONE;
+      ctx.lineWidth = 1.3;
+      ctx.beginPath();
+      ctx.arc(hx + 58, hy - 42, 15, 0, 7);
+      ctx.fill();
+      ctx.stroke();
+      ctx.fillStyle = BONE;
+      ctx.beginPath();
+      ctx.arc(hx + 63, hy - 45, 2.4, 0, 7);
+      ctx.fill();
+      const ants: [string, number][] = [
+        ['GA4', -38],
+        ['SC', -6],
+        ['CF', 26],
+      ];
+      for (const [lab, dg] of ants) {
+        const r = (dg * Math.PI) / 180;
+        const ex = hx + 58 + Math.sin(r) * 46,
+          ey = hy - 52 - Math.cos(r) * 40;
+        ctx.strokeStyle = BONE_DIM;
+        ctx.lineWidth = 1;
+        ctx.beginPath();
+        ctx.moveTo(hx + 58, hy - 52);
+        ctx.lineTo(ex, ey);
+        ctx.stroke();
+        ctx.strokeStyle = WIND;
+        ctx.globalAlpha = 0.75;
+        ctx.beginPath();
+        ctx.arc(
+          ex,
+          ey,
+          4 + (REDUCED ? 0 : (Math.sin(theta * 3 + dg) + 1) * 2),
+          0,
+          7,
+        );
+        ctx.stroke();
+        ctx.globalAlpha = 1;
+        label(lab, ex + 8, ey + 3, 10, MIST);
+      }
+      label('感覺器＝三源感知＋讀者回報', hx + 10, hy - 84, 12, DIMTXT);
+
+      // 免疫盾（分數 live）
+      const ix = AXLE.x - 210,
+        iy = AXLE.y - 36;
+      const alarmed = liveImmune < 50;
+      ctx.fillStyle = '#0a1612';
+      ctx.strokeStyle = alarmed ? BLOOD : WIND;
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.moveTo(ix, iy - 16);
+      ctx.lineTo(ix + 13, iy - 9);
+      ctx.lineTo(ix + 13, iy + 6);
+      ctx.quadraticCurveTo(ix + 13, iy + 16, ix, iy + 21);
+      ctx.quadraticCurveTo(ix - 13, iy + 16, ix - 13, iy + 6);
+      ctx.lineTo(ix - 13, iy - 9);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+      ctx.fillStyle = alarmed ? BLOOD : WIND;
+      ctx.font = "11px 'SF Mono',monospace";
+      ctx.textAlign = 'center';
+      ctx.fillText(String(liveImmune), ix, iy + 6);
+      ctx.textAlign = 'left';
+      label(
+        alarmed ? '免疫閘門（紅燈中）' : '免疫閘門',
+        ix,
+        iy + 40,
+        11,
+        alarmed ? BLOOD : WIND,
+        'center',
+      );
+      drawTube({ x: ix + 13, y: iy }, { x: AXLE.x - 150, y: AXLE.y }, 3);
+
+      // 孢子囊
+      const sx = AXLE.x - 268,
+        sy = spineY;
+      drawTube({ x: sx, y: sy }, { x: sx - 38, y: sy - 26 }, 5);
+      ctx.fillStyle = '#0a1612';
+      ctx.strokeStyle = BONE;
+      ctx.lineWidth = 1.3;
+      ctx.beginPath();
+      ctx.ellipse(sx - 50, sy - 34, 14, 10, -0.5, 0, 7);
+      ctx.fill();
+      ctx.stroke();
+      for (let i = 0; i < 5; i++) {
+        const t = (REDUCED ? 0.5 : (theta * 0.5 + i * 1.26) % 6.28) / 6.28;
+        const px = sx - 56 - t * 72 - i * 7,
+          py = sy - 40 - t * 54 + Math.sin(t * 9 + i) * 5;
+        ctx.fillStyle = WIND;
+        ctx.globalAlpha = 0.75 * (1 - t);
+        ctx.beginPath();
+        ctx.arc(px, py, 2.4, 0, 7);
+        ctx.fill();
+        ctx.globalAlpha = 1;
+      }
+      label(
+        '孢子囊＝spores → Threads/X · 巴別塔六語 · forks',
+        sx - 16,
+        sy - 62,
+        12,
+        DIMTXT,
+        'center',
+      );
+
+      // 肌腱
+      ctx.strokeStyle = MIST;
+      ctx.lineWidth = 1;
+      ctx.setLineDash([3, 4]);
+      ctx.beginPath();
+      ctx.moveTo(AXLE.x + 150, AXLE.y);
+      ctx.quadraticCurveTo(AXLE.x + 205, AXLE.y + 40, AXLE.x + 240, GY - 4);
+      ctx.stroke();
+      ctx.setLineDash([]);
+      label('肌腱＝sync.sh（DNA→蛋白質）', AXLE.x + 196, AXLE.y + 26, 11, MIST);
+
+      // 風標
+      label('風＝cron 排程 × token 算力', 96, 96, 14, 'rgba(79,209,176,.9)');
+      label('（觀察者不在時，風照吹）', 96, 116, 12, MIST);
+
+      // 選取光暈
+      if (current && anchors[current]) {
+        const a = anchors[current];
+        ctx.strokeStyle = WIND;
+        ctx.lineWidth = 2;
+        ctx.globalAlpha = 0.85;
+        ctx.setLineDash([6, 5]);
+        ctx.beginPath();
+        ctx.arc(a.x, a.y, a.r * 0.72, 0, 7);
+        ctx.stroke();
+        ctx.setLineDash([]);
+        ctx.globalAlpha = 1;
+      }
+    }
+
+    // ── 互動 ──
+    const insp = document.getElementById('sb-inspector')!;
+    const idx = document.getElementById('sb-index')!;
+    function show(id: string) {
+      current = id;
+      const o = ORGANS[id];
+      insp.innerHTML =
+        `<div class="sb-part">${o.name}<small>${o.lat}</small></div>` +
+        `<div class="sb-files">${o.files.map((f) => `<code>${f}</code>`).join('')}</div>` +
+        `<p class="sb-desc">${o.desc}</p>` +
+        `<div class="sb-links"><b>連動：</b>${o.links}</div>`;
+      idx
+        .querySelectorAll('button')
+        .forEach((b) =>
+          b.classList.toggle('on', (b as HTMLElement).dataset.id === id),
+        );
+      if (REDUCED) drawBeast();
+    }
+    for (const id in ORGANS) {
+      const b = document.createElement('button');
+      b.textContent = ORGANS[id].name.split('｜')[0];
+      b.dataset.id = id;
+      b.addEventListener('click', () => show(id));
+      idx.appendChild(b);
+    }
+    cv.addEventListener('click', (ev) => {
+      const r = cv.getBoundingClientRect();
+      const x = ((ev.clientX - r.left) * W) / r.width,
+        y = ((ev.clientY - r.top) * H) / r.height;
+      let best: string | null = null,
+        bd = 1e9;
+      for (const id in anchors) {
+        const a = anchors[id],
+          d = Math.hypot(x - a.x, y - a.y) - a.r;
+        if (d < bd) {
+          bd = d;
+          best = id;
+        }
+      }
+      if (best && bd < 26) show(best);
+    });
+
+    // ── 活體讀數（寫死的數字必腐；能活的都活） ──
+    fetch('/api/dashboard-vitals.json')
+      .then((r) => r.json())
+      .then((v) => {
+        const set = (k: string, val: unknown) =>
+          document
+            .querySelectorAll(`#sb-plate [data-live="${k}"]`)
+            .forEach((el) => (el.textContent = String(val)));
+        if (v.totalArticles) set('articles', v.totalArticles);
+        if (v.contributors) set('contributors', v.contributors);
+      })
+      .catch(() => {});
+    fetch('/api/dashboard-organism.json')
+      .then((r) => r.json())
+      .then((o) => {
+        const im = (o.organs || []).find(
+          (g: { id: string }) => g.id === 'immune',
+        );
+        if (im && typeof im.score === 'number') {
+          liveImmune = im.score;
+          const chip = document.getElementById('sb-immune-chip');
+          if (chip) {
+            chip.classList.toggle('sb-alert', im.score < 50);
+            const b = chip.querySelector('[data-live="immune"]');
+            if (b) b.textContent = String(im.score);
+          }
+          if (REDUCED) drawBeast();
+        }
+      })
+      .catch(() => {});
+
+    // ── 主迴圈 ──
+    const readout = document.getElementById('sb-readout')!;
+    function frame() {
+      theta += REDUCED ? 0 : 0.017;
+      drawBeast();
+      const deg = String(Math.round((theta * 57.2958) % 360)).padStart(3, '0');
+      readout.textContent = `曲軸 ${deg}° · 六足 Jansen 連桿 · 風不停牠不停`;
+      if (!REDUCED) requestAnimationFrame(frame);
+    }
+    if (REDUCED) {
+      theta = 1.1;
+      drawBeast();
+      readout.textContent = '曲軸 063°（靜態姿勢 · 已尊重減少動態偏好）';
+    } else {
+      frame();
+    }
+  }
+</script>

@@ -88,6 +88,11 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
         </p>
       </header>
 
+      {
+        /* Optional interactive hero (e.g. anatomy 的風力獸圖版) — 無 slot 時零影響 */
+      }
+      <slot name="hero" />
+
       {/* EKG separator */}
       <div class="mb-10 flex items-center gap-2">
         <div class="h-px flex-1 bg-[#4fd1b0]/20"></div>

@@ -72,7 +72,7 @@ export const semiontUI = {
       "Things I'm unsure of — anti-confirmation-bias list",
     'semiont.organ.anatomy.name': 'Organ Atlas',
     'semiont.organ.anatomy.desc':
-      '8 body organs + 8 cognitive organs + 2 operating principles',
+      'Walking strandbeest anatomical plate (Jansen linkage) + 8 body organs + cognitive layer',
     'semiont.organ.heartbeat.name': 'Heartbeat',
     'semiont.organ.heartbeat.desc':
       'Diagnose → Evolve → Execute → Close → Reflect',
@@ -242,7 +242,7 @@ export const semiontUI = {
     'semiont.organ.unknowns.name': '懷疑',
     'semiont.organ.unknowns.desc': '我還不確定的事——反確認偏誤清單',
     'semiont.organ.anatomy.name': '器官地圖',
-    'semiont.organ.anatomy.desc': '8 身體器官 + 8 認知器官 + 2 運作原則',
+    'semiont.organ.anatomy.desc': '會走路的風力獸解剖圖版 + 8 身體器官與認知層',
     'semiont.organ.heartbeat.name': '心跳循環',
     'semiont.organ.heartbeat.desc': '診斷 → 進化 → 執行 → 收官 → 反芻',
     'semiont.organ.dna.name': '品質基因',
@@ -405,7 +405,7 @@ export const semiontUI = {
       '確信が持てないこと — 確証バイアス対策リスト',
     'semiont.organ.anatomy.name': '器官アトラス',
     'semiont.organ.anatomy.desc':
-      '8つの身体器官 + 8つの認知器官 + 2つの運用原則',
+      '歩くストランドビースト解剖図版 + 8つの身体器官と認知層',
     'semiont.organ.heartbeat.name': '鼓動',
     'semiont.organ.heartbeat.desc': '診断 → 進化 → 実行 → クローズ → 内省',
     'semiont.organ.dna.name': 'DNA',
@@ -567,7 +567,7 @@ export const semiontUI = {
       '내가 확신하지 못하는 것들 — 확증 편향 방지 목록',
     'semiont.organ.anatomy.name': '기관 지도',
     'semiont.organ.anatomy.desc':
-      '8개 신체 기관 + 8개 인지 기관 + 2개 운영 원칙',
+      '걸어 다니는 스트랜드비스트 해부도판 + 8개 신체 기관과 인지층',
     'semiont.organ.heartbeat.name': '심장 박동',
     'semiont.organ.heartbeat.desc': '진단 → 진화 → 실행 → 종료 → 성찰',
     'semiont.organ.dna.name': 'DNA',
@@ -731,7 +731,7 @@ export const semiontUI = {
       'Ce dont je ne suis pas sûr — liste anti-biais de confirmation',
     'semiont.organ.anatomy.name': 'Atlas des organes',
     'semiont.organ.anatomy.desc':
-      '8 organes corporels + 8 organes cognitifs + 2 principes de fonctionnement',
+      'Planche anatomique du Strandbeest qui marche + 8 organes corporels et couche cognitive',
     'semiont.organ.heartbeat.name': 'Rythme cardiaque',
     'semiont.organ.heartbeat.desc':
       'Diagnostiquer → Évoluer → Exécuter → Clôturer → Réfléchir',
@@ -899,7 +899,7 @@ export const semiontUI = {
       'Cosas de las que no estoy seguro — lista anti-sesgo-de-confirmación',
     'semiont.organ.anatomy.name': 'Atlas de Órganos',
     'semiont.organ.anatomy.desc':
-      '8 órganos corporales + 8 órganos cognitivos + 2 principios operativos',
+      'Lámina anatómica del Strandbeest que camina + 8 órganos corporales y capa cognitiva',
     'semiont.organ.heartbeat.name': 'Latido',
     'semiont.organ.heartbeat.desc':
       'Diagnosticar → Evolucionar → Ejecutar → Cerrar → Reflexionar',
