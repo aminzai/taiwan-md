@@ -597,6 +597,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 哲宇 UI merge 七篇 contributor PR，四篇 YAML 裹在 code fence（同一產出工具簽名）直落 main、打紅全站 pre-push。husky 只擋本地 commit/push；pr-review workflow 沒跑 test-frontmatter。候選儀器：PR diff 跑 `test-frontmatter.mjs` + `article-health --profile=pre-commit`（報告 §三候選 1，已 spawn chip）。vc=1。
 
+### 2026-07-05 五病根治 finale — 三次「沒量就斷言」同型失誤 + PIPESTATUS-after-pipe 量測陷阱（#69/#73 vc 材料）
+
+同一 session 三次同型：(1) inspector 黑字（dev preview 分頁 RAF 凍住誤讀成驗證通過，沒看線上版）(2) `ea28a2f7b` 貼錯 commit 標籤（憑 2.5hr 前印象沒重 diff）(3) gate 註解編假理由「article-health 多檔 exit code 只反映最後一檔」——實測多檔有正確 aggregate（`sum(hard_count)`），我早前 `${PIPESTATUS[0]}` 寫在 `| tail` 之後的獨立 echo 行、被重置成 0，只看最後一檔的 Summary print 就誤判。具體技術陷阱：**pipe 後要量 exit code 必須同一行 `cmd | tail; rc=${PIPESTATUS[0]}`，跨行 echo 會重置**。三次都是「自評沒接外部尺」，諷刺地發生在主題是「自我描述必腐」的 session。第三次差別：收官時我自己當了尺（真的去 `>/dev/null; echo $?`）逮到。vc=1，強化 REFLEXES #69（自評需外部尺）+ #73（dev verify ≠ production）；技術面 PIPESTATUS 陷阱可獨立記。詳：memory 2026-07-05-165518 §後記 + diary 同 slug。
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
