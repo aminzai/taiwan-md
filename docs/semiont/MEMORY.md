@@ -314,3 +314,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-05 | 220917-INDIGO-REWRITE | 藍染從單薄舊文（0 圖/7 註）重寫成四復振社群立體工藝史（6 圖/46 註）；Stage 0 agent 反駁原假設、Stage 2.5 揪出寫手幻覺網址 | 驗證 REFLEXES #31/#81：兩層獨立查證（agent 反駁假設、URL 批次檢查）攔下真實錯誤 | [→](memory/2026-07-05-220917-INDIGO-REWRITE.md) |
 | 2026-07-06 | 000958-AAMA-SLP | AAMA + SLP 兩篇新創導師制文章全走完 REWRITE-PIPELINE Stage 0-5 出貨（`cfaa22a5d`），跟 6 篇既有文章交叉連結 | 兩次人物-計畫錯置研究攔截，驗證跨源查證紀律持續有效 | [→](memory/2026-07-06-000958-AAMA-SLP.md) |
 | 2026-07-06 | 003506-twmd-babel-nightly | 5 lang babel 119 shipped（bump 25 + patch 30 + P0 64）；en 100% / 4 lang 99.8%+ | codex+gemini 全 dead；6 P0 cascade exhausted | [→](memory/2026-07-06-003506-twmd-babel-nightly.md) |
+| 2026-07-06 | 051718-twmd-embeddings-nightly | 遷本機後首次正式 nightly：127.0.0.1 命中、4907 向量六語 0 fail、verify PASS 100% 8-鄰居、commit `1d5ca756a`；索引凍結徹底解除 | 少一層依賴換掉「指著離線節點空轉」整類 vc=3 故障面，單純確實更穩 | [→](memory/2026-07-06-051718-twmd-embeddings-nightly.md) |
