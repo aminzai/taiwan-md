@@ -314,6 +314,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-05 INDIGO-REWRITE — research-report-health-gate-literal-string-brittleness：Stage 0/1 gate 對真實變異的 SSOT 報告過度敏感
+
+- **pattern**: `research-report-health-gate-literal-string-brittleness`
+- **原則**：hard-gate 工具用精確字串匹配判定結構完整性時，容易把「語意等價但用詞不同」誤判為缺漏；工具該抓語意錨點而非死記字面組合。
+- **觸發**：藍染 rewrite 跑 `research-report-health.py --stage 0` 時，「六核心問題落檔結構」判準只認得「對台灣人的記憶」「多元不同面貌」等固定字串，報告原本自然寫的標題（如「問題 1：對台灣人是什麼樣的記憶？」）沒精確命中，誤判只 3/6（hard_fail=1）；補一句含 anchor 字面的相容行才過。同一輪 `--tier=depth` 判斷英文來源數只掃主報告自己的內文，不掃 sub-agent 各自落檔的 `藍染-research-{A,B,D}.md` raw 檔案，22 個實際查證過的英文來源只被算出 3 個，逼著把已經在 sibling 檔案裡的網址重複貼進主報告才過關。
+- **instances**：（首次記錄）
+- **可能層級**：操作規則（工具設計）
+- **相關**：REFLEXES #81（同一天稍早剛落地的 `agent-report-health.py` 收件 gate，姊妹工具——都是新鮮上線就在實戰中露出規則邊界，值得同批檢視）
+- **verification_count**: 1
+
+---
+
 ### 2026-07-05 git-identity — github-discussions-structural-blind-spot：MAINTAINER 感知只掃 issue/PR，三則 contributor Discussions 貼文 0 回應（最久 3 個月）
 
 - **pattern**: `github-discussions-structural-blind-spot`（感知器官覆蓋面 × contributor 信任損耗 × minimum-action 成本曲線）
