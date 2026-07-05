@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-05T06:11:51+08:00",
-    "zhCommitHead": "a03d3214a",
-    "totalZh": 830,
+    "lastUpdated": "2026-07-05T23:09:45+08:00",
+    "zhCommitHead": "b5423e836",
+    "totalZh": 842,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
-        "total_zh": 830,
-        "fresh": 830,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 0,
+        "total_zh": 842,
+        "fresh": 825,
+        "stale": 4,
+        "metadata_stale": 1,
+        "missing": 12,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 830,
-        "fresh": 830,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 0,
+        "total_zh": 842,
+        "fresh": 825,
+        "stale": 4,
+        "metadata_stale": 1,
+        "missing": 12,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 830,
-        "fresh": 830,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 0,
+        "total_zh": 842,
+        "fresh": 825,
+        "stale": 4,
+        "metadata_stale": 1,
+        "missing": 12,
         "orphan": 0
       },
       "es": {
-        "total_zh": 830,
-        "fresh": 830,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 0,
+        "total_zh": 842,
+        "fresh": 825,
+        "stale": 4,
+        "metadata_stale": 1,
+        "missing": 12,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 830,
-        "fresh": 830,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 0,
+        "total_zh": 842,
+        "fresh": 825,
+        "stale": 4,
+        "metadata_stale": 1,
+        "missing": 12,
         "orphan": 0
       }
     },
@@ -10055,6 +10055,31 @@
         }
       }
     },
+    "Technology/蕃薯藤.md": {
+      "zh": {
+        "lastCommit": "781e1643",
+        "lastModified": "2026-07-05T19:51:09+08:00",
+        "contentHash": "sha256:a165c276f6d4407a",
+        "bodyHash": "sha256:8a57bfe7379ce603"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "Technology/台灣音響產業發展.md": {
       "zh": {
         "lastCommit": "f712b724",
@@ -11497,10 +11522,10 @@
     },
     "Art/台灣電影.md": {
       "zh": {
-        "lastCommit": "bb411ee0",
-        "lastModified": "2026-06-24T21:16:52+08:00",
-        "contentHash": "sha256:231f74765e63f2a2",
-        "bodyHash": "sha256:9f66d5babc12e260"
+        "lastCommit": "6c4bccbc",
+        "lastModified": "2026-07-05T12:45:18+08:00",
+        "contentHash": "sha256:69524f156c517009",
+        "bodyHash": "sha256:f474d40c72f846a7"
       },
       "translations": {
         "en": {
@@ -11514,8 +11539,8 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (72→71)"
         },
         "ja": {
           "path": "ja/Art/taiwanese-cinema.md",
@@ -11528,8 +11553,8 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (72→71)"
         },
         "ko": {
           "path": "ko/Art/taiwanese-cinema.md",
@@ -11542,8 +11567,8 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (72→71)"
         },
         "es": {
           "path": "es/Art/taiwanese-cinema.md",
@@ -11556,8 +11581,8 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (72→71)"
         },
         "fr": {
           "path": "fr/Art/taiwanese-cinema.md",
@@ -11570,8 +11595,8 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (72→71)"
         }
       }
     },
@@ -13572,6 +13597,31 @@
           "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Art/新北市美術館.md": {
+      "zh": {
+        "lastCommit": "1a3708b1",
+        "lastModified": "2026-07-05T17:53:02+08:00",
+        "contentHash": "sha256:6437448f28af9601",
+        "bodyHash": "sha256:c5c8b0370d628478"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -32537,10 +32587,10 @@
     },
     "People/楊德昌.md": {
       "zh": {
-        "lastCommit": "fa062cc1",
-        "lastModified": "2026-06-01T23:36:22+08:00",
-        "contentHash": "sha256:dd210fd225a73bd3",
-        "bodyHash": "sha256:3f3a71807f18f434"
+        "lastCommit": "58c351c4",
+        "lastModified": "2026-07-05T17:03:34+08:00",
+        "contentHash": "sha256:890b13d8d8c67562",
+        "bodyHash": "sha256:7119ad62eb825546"
       },
       "translations": {
         "en": {
@@ -32554,8 +32604,8 @@
           "translationLastModified": "2026-06-02T01:19:52+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (92→6)"
         },
         "ja": {
           "path": "ja/People/yang-dechang.md",
@@ -32568,8 +32618,8 @@
           "translationLastModified": "2026-06-02T01:19:52+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (92→6)"
         },
         "ko": {
           "path": "ko/People/yang-dechang.md",
@@ -32582,8 +32632,8 @@
           "translationLastModified": "2026-06-02T01:19:52+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (92→6)"
         },
         "es": {
           "path": "es/People/yang-dechang.md",
@@ -32596,8 +32646,8 @@
           "translationLastModified": "2026-06-02T01:19:52+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (92→6)"
         },
         "fr": {
           "path": "fr/People/yang-dechang.md",
@@ -32610,8 +32660,8 @@
           "translationLastModified": "2026-06-02T01:19:52+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (92→6)"
         }
       }
     },
@@ -36777,9 +36827,9 @@
     },
     "People/蔡明亮.md": {
       "zh": {
-        "lastCommit": "18157ab5",
-        "lastModified": "2026-05-14T11:04:30+08:00",
-        "contentHash": "sha256:186f61e906714e37",
+        "lastCommit": "97e35f05",
+        "lastModified": "2026-07-05T17:03:35+08:00",
+        "contentHash": "sha256:f497de40f2ba1810",
         "bodyHash": "sha256:c1d14969738eeca7"
       },
       "translations": {
@@ -36794,8 +36844,10 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -0"
         },
         "ja": {
           "path": "ja/People/tsai-ming-liang.md",
@@ -36808,8 +36860,10 @@
           "translationLastModified": "2026-05-22T08:18:22+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -0"
         },
         "ko": {
           "path": "ko/People/tsai-ming-liang.md",
@@ -36822,8 +36876,10 @@
           "translationLastModified": "2026-05-22T08:18:22+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -0"
         },
         "es": {
           "path": "es/People/tsai-ming-liang.md",
@@ -36836,8 +36892,10 @@
           "translationLastModified": "2026-05-22T08:18:22+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -0"
         },
         "fr": {
           "path": "fr/People/tsai-ming-liang.md",
@@ -36850,8 +36908,10 @@
           "translationLastModified": "2026-05-22T08:18:22+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -0"
         }
       }
     },
@@ -40455,6 +40515,31 @@
         }
       }
     },
+    "People/林啟維.md": {
+      "zh": {
+        "lastCommit": "1a3708b1",
+        "lastModified": "2026-07-05T17:53:02+08:00",
+        "contentHash": "sha256:0c1fe454f7aae0ad",
+        "bodyHash": "sha256:6a1a369028031f98"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "People/瘂弦.md": {
       "zh": {
         "lastCommit": "88f47159",
@@ -43815,6 +43900,31 @@
         }
       }
     },
+    "People/周天成.md": {
+      "zh": {
+        "lastCommit": "dbfc0cd3",
+        "lastModified": "2026-07-05T17:37:18+08:00",
+        "contentHash": "sha256:f45251e967dc33da",
+        "bodyHash": "sha256:cc68e7641279a1e9"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "People/周子瑜.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -44457,10 +44567,10 @@
     },
     "People/柯智棠.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:4bb0752dfbb4d3f2",
-        "bodyHash": "sha256:9da1c30493a70f8a"
+        "lastCommit": "28484baf",
+        "lastModified": "2026-07-05T12:50:53+08:00",
+        "contentHash": "sha256:af30876483c612d9",
+        "bodyHash": "sha256:06371316069a1fd5"
       },
       "translations": {
         "en": {
@@ -44474,8 +44584,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (61→15)"
         },
         "ja": {
           "path": "ja/People/ke-zhi-tang-musician.md",
@@ -44488,8 +44598,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (61→15)"
         },
         "ko": {
           "path": "ko/People/ke-zhi-tang-musician.md",
@@ -44502,8 +44612,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (61→15)"
         },
         "es": {
           "path": "es/People/ke-zhi-tang-musician.md",
@@ -44516,8 +44626,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (61→15)"
         },
         "fr": {
           "path": "fr/People/ke-zhi-tang-musician.md",
@@ -44530,8 +44640,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (61→15)"
         }
       }
     },
@@ -46617,10 +46727,10 @@
     },
     "People/張艾嘉.md": {
       "zh": {
-        "lastCommit": "0ea5d5d4",
-        "lastModified": "2026-05-09T13:21:55+08:00",
-        "contentHash": "sha256:c32add211eceb078",
-        "bodyHash": "sha256:3260beec9e00487e"
+        "lastCommit": "97e35f05",
+        "lastModified": "2026-07-05T17:03:35+08:00",
+        "contentHash": "sha256:4dcfdcf5effc3d2c",
+        "bodyHash": "sha256:0b1d40b7bf6373a3"
       },
       "translations": {
         "en": {
@@ -46634,8 +46744,10 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/sylvia-chang.md",
@@ -46648,8 +46760,10 @@
           "translationLastModified": "2026-05-22T08:18:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/sylvia-chang.md",
@@ -46662,8 +46776,10 @@
           "translationLastModified": "2026-05-22T08:18:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/sylvia-chang.md",
@@ -46676,8 +46792,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/sylvia-chang.md",
@@ -46690,8 +46808,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -48935,6 +49055,31 @@
         }
       }
     },
+    "Food/虱目魚粥.md": {
+      "zh": {
+        "lastCommit": "3011828b",
+        "lastModified": "2026-07-05T17:57:58+08:00",
+        "contentHash": "sha256:162956900cab6d34",
+        "bodyHash": "sha256:a40f868b6fc53c66"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "Food/台灣鹽酥雞.md": {
       "zh": {
         "lastCommit": "539c393a",
@@ -49012,6 +49157,31 @@
           "footnoteDefs": 10,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Food/鱔魚意麵.md": {
+      "zh": {
+        "lastCommit": "3011828b",
+        "lastModified": "2026-07-05T17:57:58+08:00",
+        "contentHash": "sha256:6060b205f72b8e41",
+        "bodyHash": "sha256:7eb60f7eb1751d17"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -49735,6 +49905,31 @@
         }
       }
     },
+    "Food/牛肉湯.md": {
+      "zh": {
+        "lastCommit": "3011828b",
+        "lastModified": "2026-07-05T17:57:58+08:00",
+        "contentHash": "sha256:28c5ddfd25d93a95",
+        "bodyHash": "sha256:2b57fc3112c5bc59"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "Food/台灣原住民飲食文化.md": {
       "zh": {
         "lastCommit": "a05d2431",
@@ -50375,6 +50570,31 @@
         }
       }
     },
+    "Food/台南中西區美食小吃文化.md": {
+      "zh": {
+        "lastCommit": "3011828b",
+        "lastModified": "2026-07-05T17:57:58+08:00",
+        "contentHash": "sha256:ba0e98c9d772c0f4",
+        "bodyHash": "sha256:c9b71900ee0b75bf"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "Food/台灣新住民美食融合.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -50612,6 +50832,31 @@
           "footnoteDefs": 11,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Food/豬心冬粉.md": {
+      "zh": {
+        "lastCommit": "3011828b",
+        "lastModified": "2026-07-05T17:57:58+08:00",
+        "contentHash": "sha256:3bcebca3a70539f8",
+        "bodyHash": "sha256:c3fe90467aad669d"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -52292,6 +52537,31 @@
           "footnoteDefs": 50,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "History/鶯歌陶瓷老街.md": {
+      "zh": {
+        "lastCommit": "1a3708b1",
+        "lastModified": "2026-07-05T17:53:02+08:00",
+        "contentHash": "sha256:6023f24cf4042189",
+        "bodyHash": "sha256:f6adf45b092327fc"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -55095,6 +55365,31 @@
         }
       }
     },
+    "History/三峽老街.md": {
+      "zh": {
+        "lastCommit": "1a3708b1",
+        "lastModified": "2026-07-05T17:53:02+08:00",
+        "contentHash": "sha256:989345a6be39fea3",
+        "bodyHash": "sha256:f64a5a658ecec289"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "History/清治時期.md": {
       "zh": {
         "lastCommit": "18157ab5",
@@ -56532,6 +56827,31 @@
           "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Geography/湖口老街.md": {
+      "zh": {
+        "lastCommit": "e62d901c",
+        "lastModified": "2026-07-05T17:36:59+08:00",
+        "contentHash": "sha256:01c55f03cc9ccbf2",
+        "bodyHash": "sha256:04678524469fb023"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },

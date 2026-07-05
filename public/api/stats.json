@@ -1,8 +1,8 @@
 {
-  "totalArticles": 4987,
+  "totalArticles": 4999,
   "totalCategories": 20,
-  "estimatedContributors": 61,
-  "totalTags": 6100,
+  "estimatedContributors": 65,
+  "totalTags": 6132,
   "categories": [
     {
       "name": "es",
@@ -26,7 +26,7 @@
     },
     {
       "name": "History",
-      "count": 48
+      "count": 50
     },
     {
       "name": "Politics",
@@ -35,6 +35,10 @@
     {
       "name": "Society",
       "count": 88
+    },
+    {
+      "name": "Food",
+      "count": 62
     },
     {
       "name": "About",
@@ -46,19 +50,15 @@
     },
     {
       "name": "People",
-      "count": 233
+      "count": 235
     },
     {
       "name": "Music",
       "count": 35
     },
     {
-      "name": "Food",
-      "count": 57
-    },
-    {
       "name": "Geography",
-      "count": 65
+      "count": 66
     },
     {
       "name": "Economy",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Technology",
-      "count": 53
+      "count": 54
     },
     {
       "name": "Nature",
@@ -78,7 +78,7 @@
     },
     {
       "name": "Art",
-      "count": 41
+      "count": 42
     },
     {
       "name": "resources",
@@ -91,12 +91,12 @@
       "count": 75
     },
     {
-      "name": "企業",
-      "count": 60
+      "name": "人物",
+      "count": 61
     },
     {
-      "name": "人物",
-      "count": 59
+      "name": "企業",
+      "count": 60
     },
     {
       "name": "科技與企業",
@@ -159,22 +159,22 @@
       "count": 22
     },
     {
-      "name": "高雄",
+      "name": "AI",
       "count": 22
     },
     {
-      "name": "AI",
-      "count": 21
+      "name": "高雄",
+      "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 4987,
+    "zh-TW": 4999,
     "en": 0
   },
-  "lastUpdated": "2026-07-04T22:11:53.257Z",
+  "lastUpdated": "2026-07-05T15:09:47.878Z",
   "stars": 1096,
   "forks": 160,
-  "zhPages": 828,
+  "zhPages": 840,
   "enPages": 835,
-  "totalPages": 828
+  "totalPages": 840
 }

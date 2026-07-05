@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-05T06:12:00.182614",
+  "lastUpdated": "2026-07-05T23:09:54.722650",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
-  "immuneScore": 49,
+  "immuneScore": 47,
   "status": "漂移 — 多維度退化中",
   "components": {
-    "review_coverage": 26.1,
+    "review_coverage": 25.8,
     "plugin_pass_rate": 70.0,
     "plugin_health": 28.0,
-    "citation_density": 91.1,
-    "tool_freshness": 60,
+    "citation_density": 91.0,
+    "tool_freshness": 40,
     "drift_velocity": 90.0,
-    "external_rulers": 4.1
+    "external_rulers": 4.0
   },
   "componentWeights": {
     "review_coverage": 0.25,
@@ -24,27 +24,27 @@
   },
   "tierBreakdown": {
     "T1": {
-      "total": 369,
+      "total": 373,
       "reviewed": 103,
-      "pct": 27.9,
+      "pct": 27.6,
       "weight": 3.0
     },
     "T2": {
-      "total": 364,
+      "total": 367,
       "reviewed": 84,
-      "pct": 23.1,
+      "pct": 22.9,
       "weight": 1.5
     },
     "T3": {
-      "total": 95,
+      "total": 100,
       "reviewed": 17,
-      "pct": 17.9,
+      "pct": 17.0,
       "weight": 0.5
     }
   },
   "pluginPassDetail": {
-    "total_files": 830,
-    "hard_pass_files": 830,
+    "total_files": 842,
+    "hard_pass_files": 842,
     "hard_pass_pct": 100.0,
     "warn_pass_files": 0,
     "warn_pass_pct": 0.0,
@@ -52,22 +52,22 @@
   },
   "citationDetail": {
     "grades": {
-      "A": 654,
+      "A": 661,
       "B": 10,
-      "C": 151,
+      "C": 156,
       "D": 4,
       "F": 9
     },
-    "files_with_grade": 828
+    "files_with_grade": 840
   },
   "freshnessDetail": {
-    "editorial_days_old": 6,
+    "editorial_days_old": 999,
     "avg_plugin_days_old": 45.5,
     "plugin_count": 25,
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 4,
+    "new_articles_7d": 14,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
@@ -75,7 +75,7 @@
     "plugin_count": 25,
     "fresh_count": 7,
     "drifted_count": 18,
-    "editorial_age_days": 6,
+    "editorial_age_days": 0,
     "drift_thresholds": {
       "editorial_recent_days": 14,
       "plugin_stale_days": 30
@@ -211,7 +211,7 @@
   },
   "externalRulersDetail": {
     "ruledArticles": 34,
-    "totalArticles": 828,
+    "totalArticles": 840,
     "rulerSources": {
       "factcheckReports": true,
       "readerErrataCommits90d": true,

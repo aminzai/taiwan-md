@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-05 06:12
+last_generated: 2026-07-05 23:10
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,20 +12,20 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-05 06:12** · 頂層 \*.md 共 **176** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-05 23:10** · 頂層 \*.md 共 **183** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size     | 用途                                                 |
 | ----------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`             |   370 | 52.8 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`             |   391 | 54.0 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `visual/`               |   111 | 214.5 MB | Visual smoke test 基線 (partial gitignored)          |
 | `archive/`              |    27 | 342.8 KB | 歸檔位置 (per audit Layer 4)                         |
 | `weekly/`               |    18 | 3.4 MB   | Self-evolve weekly digest                            |
 | `scratch/`              |    10 | 1.7 MB   | POC / 暫存 (per audit Layer 1，已 .gitignored)       |
+| `article-evolve/`       |     9 | 351.6 KB | —                                                    |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB   | —                                                    |
-| `article-evolve/`       |     6 | 218.6 KB | —                                                    |
 | `probe/`                |     6 | 69.8 KB  | BECOME §Step 7 探測器報告                            |
 | `babel-jobs/`           |     5 | 246.4 KB | —                                                    |
 | `babel-patches/`        |     5 | 3.4 MB   | —                                                    |
@@ -40,8 +40,9 @@ type: auto-index
 
 9 type bucket 從現有 corpus 萃取 (per [audit §2.3 + §4 Layer 2](reports-archival-audit-2026-05-27.md))，未來新加 report 建議遵循 `{type}-{topic}-{YYYY-MM-DD}.md` 命名。
 
-### design (18)
+### design (19)
 
+- `2026-07-05` [agent-report-health-instrument-design-2026-07-05](agent-report-health-instrument-design-2026-07-05.md)
 - `2026-06-14` [multicore-git-coordination-design-2026-06-14](multicore-git-coordination-design-2026-06-14.md)
 - `2026-06-09` [latest-articles-discoverability-design-2026-06-09](latest-articles-discoverability-design-2026-06-09.md) — 最新文章可發現性 — 時序主軸設計與完整實作規劃
 - `2026-06-06` [article-visualization-design-2026-06-06](article-visualization-design-2026-06-06.md)
@@ -80,8 +81,9 @@ type: auto-index
 - `2026-04-13` [ssodt-spore-linkback-plan-2026-04-13](ssodt-spore-linkback-plan-2026-04-13.md)
 - `2026-04-12` [semiont-public-pages-plan-2026-04-12](semiont-public-pages-plan-2026-04-12.md)
 
-### evolution (25)
+### evolution (26)
 
+- `2026-07-05` [dna-pipeline-evolution-audit-2026-07-05](dna-pipeline-evolution-audit-2026-07-05.md)
 - `2026-06-26` [issue-evolution-analysis-2026-06-26](issue-evolution-analysis-2026-06-26.md)
 - `2026-06-22` [terminology-page-evolution-2026-06-22](terminology-page-evolution-2026-06-22.md)
 - `2026-06-13` [evolution-roadmap-2026-06-13](evolution-roadmap-2026-06-13.md)
@@ -138,8 +140,9 @@ type: auto-index
 - `2026-04-17` [cron-schedule-snapshot-2026-04-17](cron-schedule-snapshot-2026-04-17.md)
 - `2026-04-12` [i18n-qa-audit-2026-04-12](i18n-qa-audit-2026-04-12.md)
 
-### audit-routine (20)
+### audit-routine (21)
 
+- `2026-07-05` [routine-audit-2026-07-05](routine-audit-2026-07-05.md) — Routine Audit 2026-07-05 (Weekly Cycle 9)
 - `2026-06-28` [routine-audit-2026-06-28](routine-audit-2026-06-28.md) — Routine Audit 2026-06-28 (Weekly Cycle 8)
 - `2026-06-21` [routine-audit-2026-06-21](routine-audit-2026-06-21.md) — Routine Audit 2026-06-21 (Weekly Cycle 7)
 - `2026-06-14` [routine-audit-2026-06-14](routine-audit-2026-06-14.md) — Routine Audit 2026-06-14 (Weekly Cycle 6)
@@ -187,8 +190,12 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (56)
+### ops (60)
 
+- `2026-07-05` [discussion-1146-response-2026-07-05](discussion-1146-response-2026-07-05.md) — Discussion #1146 系統優化建議回應
+- `2026-07-05` [five-disease-cure-2026-07-05](five-disease-cure-2026-07-05.md)
+- `2026-07-05` [rewrite-agent-dispatch-diagnosis-2026-07-05](rewrite-agent-dispatch-diagnosis-2026-07-05.md)
+- `2026-07-05` [semiont-independent-identity-2026-07-05](semiont-independent-identity-2026-07-05.md) — Semiont 獨立 Git 身份評估
 - `2026-06-30` [domain-expert-cocreation-574-2026-06-30](domain-expert-cocreation-574-2026-06-30.md)
 - `2026-06-21` [plurk-reach-research-2026-06-21](plurk-reach-research-2026-06-21.md) — Plurk 上的 Taiwan.md 受眾研究
 - `2026-06-14` [freshness-pollution-and-unwatched-debt-2026-06-14](freshness-pollution-and-unwatched-debt-2026-06-14.md)
@@ -252,6 +259,17 @@ type: auto-index
 
 - Type breakdown: ops: 1
   - `????` [README](README.md)
+
+### 2026-07 (7 files)
+
+- Type breakdown: ops: 4 / design: 1 / evolution: 1 / audit-routine: 1
+  - `2026-07-05` [agent-report-health-instrument-design-2026-07-05](agent-report-health-instrument-design-2026-07-05.md)
+  - `2026-07-05` [discussion-1146-response-2026-07-05](discussion-1146-response-2026-07-05.md)
+  - `2026-07-05` [dna-pipeline-evolution-audit-2026-07-05](dna-pipeline-evolution-audit-2026-07-05.md)
+  - `2026-07-05` [five-disease-cure-2026-07-05](five-disease-cure-2026-07-05.md)
+  - `2026-07-05` [rewrite-agent-dispatch-diagnosis-2026-07-05](rewrite-agent-dispatch-diagnosis-2026-07-05.md)
+  - `2026-07-05` [routine-audit-2026-07-05](routine-audit-2026-07-05.md)
+  - `2026-07-05` [semiont-independent-identity-2026-07-05](semiont-independent-identity-2026-07-05.md)
 
 ### 2026-06 (55 files)
 
