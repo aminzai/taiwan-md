@@ -314,11 +314,29 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-05 twmd-routine-audit-weekly cycle 9 — routine-prompt-thick-shell-systemic-violation：17 mirror 只 3 條合規，12 條 hard 違反薄殼鐵律 >50 lines
+
+- **pattern**: `routine-prompt-thick-shell-systemic-violation`（ROUTINE-PROMPT-CONTRACT.md 薄殼鐵律的 systemic breach，非個別 mirror 疏失）
+- **原則**：ROUTINE-PROMPT-CONTRACT.md v1.0 canonical 「routine prompt（cron + project skill + ROUTINE.md yaml 三層）禁複寫 threshold/SOP/step，全部 pointer 到 pipeline canonical」。跑 `python3 scripts/tools/routine-sync-check.py` v3 揭 17 mirror 中 12 條 hard 違反 (>50 lines)：`twmd-spore-publish-daily` 192 / `twmd-maintainer-pm` 100 / `twmd-maintainer-daily` 100 / `twmd-babel-nightly` 79 / `twmd-spore-pick-daily` 78 / `twmd-distill-weekly` 66 / `twmd-spore-harvest-am` 66 / `twmd-routine-audit-weekly` 60（**含本 audit routine 自己**）/ `twmd-data-refresh-pm` 58 / `twmd-news-lens-weekly` 58 / `twmd-data-refresh-am` 58 / `twmd-self-evolve-weekly` 55。+2 warn: `twmd-weekly-report-sun` 46 / `twmd-music-media-audit-weekly` 43。**只 3 條合規 (18%)**：`twmd-rewrite-daily` 20 / `twmd-embeddings-nightly` 30 / `twmd-feedback-triage` 19。**systemic contract violation，非個別 mirror 疏失** — 契約寫了但沒儀器化強制，mirror 一擴就厚。修補候選：(a) `routine-sync-check.py` 加 hard-fail exit 讓 CI 阻擋 mirror 過厚 commit；(b) 從最厚三條開刀（spore-publish 192 / maintainer-pm 100 / maintainer-daily 100）逐條瘦身；(c) 認養本 audit 自己 60 lines 先減到 ≤30 (dogfood self)。
+- **觸發**：2026-07-05 21:00 twmd-routine-audit-weekly cycle 9 fire — Stage 1A hard gate `routine-sync-check.py` v3 首次列入 audit hard gate；輸出 12 hard + 2 warn thick shell 一次全揭。這是 ROUTINE-PROMPT-CONTRACT.md 立法 (2026-05-27) 至今 40 天首次 batch inventory。
+- **instances**：（第 2+ 次驗證從這裡 append）
+  - #1 2026-07-05 twmd-routine-audit-weekly cycle 9 首次 systemic inventory (12 hard + 2 warn / 17 total)
+- **可能層級**：(a) `routine-sync-check.py` 加 hard-fail exit + 進 pre-commit hook（30min cost）；(b) reflex 「新 routine 誕生 mirror ≤30 lines 為契約層 hard constraint」（REFLEXES 候選）；(c) MAINTAINER-PIPELINE §routine 誕生 SOP 補「新 routine 進 ROUTINE.md SSOT 同時 mirror ≤30 lines pre-check」
+- **mitigation 路徑**：P0 修 audit routine 自己 60→≤30 (dogfood，60min cost) + P1 最厚三條瘦身 (2-3hr) + P2 CI hard-fail (30min)
+- **相關**：ROUTINE-PROMPT-CONTRACT.md v1.0（SSOT 契約） / routine-sync-check.py v3（儀器） / cycle 8 audit LESSONS `routine-audit-script-classification-gap`（同 family — 儀器記得寫但沒儀器化強制）
+- **verification_count**: 1（首次 batch systemic inventory；前 cycle 有隱性 instance 但未系統性抽出）
+- **severity**: structural（薄殼契約鬆散 → routine prompt drift → pipeline canonical 逃 SSOT → 觀察者 debug 每條 mirror 重讀不 pointer follow）
+- **defer 給觀察者**：否 — mirror 瘦身在 routine 自主權內；audit 自己先 dogfood
+
+---
+
 ### 2026-07-05 柯智棠健檢 — async agent 時代 orchestrator aggregate-on-receive：raw 蒸發在收到回報之後的 30 秒
 
 - **pattern**: `orchestrator-aggregate-on-receive`（REFLEXES #42 家族的 orchestrator 版 + #22 raw 永不刪 + #31 幻覺 policy 變體）
 - **一句話**：Claude Code 改版後 sub-agent 走 async task-notification 回報，柯智棠 EVOLVE 的 4 隻研究 agent 全照 SOP 回了 ~20KB 逐條軌跡（實測 224 次 web 操作），orchestrator 收到後壓成 6KB 摘要存 scratchpad、report §8 剩 9 行 pointer ＋「commit 時 raw 隨 session 記錄留存」幻覺 policy，gate v1 照樣 PASS——哲宇 callout「report SSOT 很簡略沒什麼材料」。普查再挖出蘇打綠（pointer 指 /tmp，救回）與台灣醫療與全民健保（自稱「永久存放於 /tmp」，5 份 raw 已永久蒸發）。斷點不在 agent、不在 prompt，在 orchestrator 收到通知後的第一個動作。已修四件套（REWRITE v7.7 鐵律 8 / Step 1.8-bis 三步 SOP / gate v2 §8 密度＋ephemeral 偵測 / 殘留句對齊），診斷全文 [reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md](../../reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md)。REFLEXES 候選方向：「訊息通道與 tmp 都不可信任，raw 唯一的家在 git」。vc=3（柯智棠＋蘇打綠＋醫療三獨立 instance，同 pattern）。
 - **觸發**：2026-07-05 哲宇 goal directive「徹底健檢＋自我進化＋記錄＋finale」
+- **verification_count**: 3（within-session 三 case）
+- **distill_ready**: true（2026-07-05 twmd-routine-audit-weekly cycle 9 audit 確認 — 三獨立 instance 同 pattern 達 REFLEXES #15 儀器化 threshold，下週 twmd-distill-weekly 2026-07-12 03:00 fire 接）
 
 ### 2026-07-05 pr-sweep — merge-then-heal 窗口的跨 session heal race + 同帳號多 actor 歸因盲點
 
@@ -342,6 +360,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   - 7/3 am 第 11 cycle（unchanged）→ 本 escalation 觸發（pm data-refresh 23:00 尚未 fire，正式 第 12 cycle 由 23:00 補齊，但值不動已可判定）
 - **instances**：（第 2+ 次驗證從這裡 append）
   - #1 2026-07-03 twmd-maintainer-pm 首次達 escalation_n=11
+  - #2 2026-07-05 twmd-routine-audit-weekly cycle 9 audit — 7/3 escalation 後 3 cycle (7/3 pm / 7/4 am+pm / 7/5 am+pm) 免疫仍 49 chronic 第 14 cycle sustain；哲宇 A/B/C 拍板未回；self-evolve-weekly W27 04:13 fire owner 認養 dashboard-alerts firstSeen=2026-07-05（0 day age，離 14 day escalation gate 遠）。routine 端持續 respect §自主權邊界 不動 threshold，本 vc+1 記帳
 - **可能層級**：
   - (A) **quality gate baseline 重校（threshold 調整層 / §自主權邊界）**：immune 分數計算公式 sub-dim 權重 or chronic tolerance 提高，讓 49 不再是 red gate。**風險**：掩蓋真實體質退化。
   - (B) **修補 plugin_health + external_rulers 拖底源頭（結構 refactor 層 / §自主權邊界）**：查清 plugin_health=28 是哪批 plugin 掉分、external_rulers=4.0 哪支 ruler 缺席，逐條修。**風險**：跨器官 refactor 工程量大，非本 routine 自主權範疇。
@@ -375,7 +394,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：(a) tool fix（ROUTINE_PATTERNS 同步 ROUTINE.md SSOT 含 7 條 missing pattern + commit subject 短稱 alias）；(b) lint（list 缺項對應 `[routine] X:` prefix 出現 ≥3 次就 warning）；(c) reflex「飛輪自審腳本要 audit 自己」（與 REFLEXES #15 反覆浮現要儀器化 同 family — 儀器自身要被儀器化）
 - **mitigation 路徑**：P0 修 ROUTINE_PATTERNS list（30 min cost）+ cycle 9 audit 驗 other rate ≤ 3%
 - **相關**：REFLEXES #15（反覆浮現要儀器化 — 儀器自身要被儀器化）/ ROUTINE-AUDIT-PIPELINE.md §Top 5 最常忘的 step 1 (Stage 1A 必跑 script 不憑記憶) — 本 entry 揭 script 本身的盲點 / ROUTINE.md SSOT (live source 漂移 reference)
-- **verification_count**: 1（首次明確抽出 script self-blindness pattern；前 2 cycle 高 other rate 屬隱性 instance 但未當 pattern 抽出，不 backfill 計入 vc）
+- **instances**：
+  - #1 2026-06-28 twmd-routine-audit-weekly cycle 8 首次明確抽出 script self-blindness pattern
+  - #2 2026-07-05 twmd-routine-audit-weekly cycle 9 — 一週未修 script，本 cycle 144 commit 24 條（17%）仍落 unclassified，分佈幾乎一致（`[routine] data-refresh-am/pm:` / `[routine] twmd-feedback-triage:` / `[routine] rewrite:` / `[routine] spore-inbox:` 短稱）→ vc+1 到 vc=2。**離 vc=3 promotion 差 1 cycle**
+- **verification_count**: 2（首次明確抽出 script self-blindness pattern；前 2 cycle 高 other rate 屬隱性 instance 但未當 pattern 抽出，不 backfill 計入 vc）
 - **severity**: structural（影響所有 routine-audit cycle baseline 數字準確度；non-fix = 每週 audit 都在錯誤 baseline 上比較）
 - **defer 給觀察者**：否 — 純 tool fix 在 routine 自主權邊界內，下個 routine-audit fire 前可自動修
 
