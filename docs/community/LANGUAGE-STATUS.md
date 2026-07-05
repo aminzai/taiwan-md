@@ -29,7 +29,7 @@ These languages are fully wired into:
 - Dashboard translation coverage
 - llms.txt for AI crawlers
 
-**To translate an article into an active language**: see [`docs/editorial/TRANSLATION-SYNC.md`](../editorial/TRANSLATION-SYNC.md). Required frontmatter:
+**To translate an article into an active language**: see [`docs/pipelines/TRANSLATION-PIPELINE.md`](../pipelines/TRANSLATION-PIPELINE.md). Required frontmatter:
 
 ```yaml
 ---

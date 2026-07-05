@@ -57,7 +57,7 @@ upstream_canonical:
 ### 第四層：知識文章（持續）
 
 - [ ] 至少 5 篇核心文章翻譯完成
-- [ ] 翻譯品質通過 TRANSLATION-SYNC 檢查
+- [ ] 翻譯品質過 [TRANSLATION-PIPELINE](TRANSLATION-PIPELINE.md) hard gate（`lang-sync/status.py` 即時狀態；TRANSLATION-SYNC 已 archive）
 - [ ] 進入 TRANSLATION-PIPELINE 的持續翻譯流程
 
 ---

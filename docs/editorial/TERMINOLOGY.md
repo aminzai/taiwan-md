@@ -9,7 +9,7 @@ last_session: 'historical'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=terminology'
 sister_docs:
   - 'EDITORIAL.md'
-  - 'TRANSLATION-SYNC.md'
+  - '../pipelines/TRANSLATION-PIPELINE.md'
   - 'QUALITY-CHECKLIST.md'
 upstream_canonical:
   - 'EDITORIAL.md'

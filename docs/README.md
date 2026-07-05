@@ -61,15 +61,15 @@ docs/
 
 ## 📝 editorial/ — 寫作品質系統
 
-| 文件                                                   | 用途                                           |
-| ------------------------------------------------------ | ---------------------------------------------- |
-| [REWRITE-PIPELINE.md](pipelines/REWRITE-PIPELINE.md)   | 文章改寫三階段流程（研究→寫作→驗證）+ 進化模式 |
-| [QUALITY-CHECKLIST.md](editorial/QUALITY-CHECKLIST.md) | Stage 3 逐項驗證清單（五指檢測 + 自動化）      |
-| [HUB-EDITORIAL.md](editorial/HUB-EDITORIAL.md)         | Hub 頁面策展指南（分類首頁的寫法）             |
-| [RESEARCH-TEMPLATE.md](editorial/RESEARCH-TEMPLATE.md) | Stage 1 研究筆記輸出格式                       |
-| [TERMINOLOGY.md](editorial/TERMINOLOGY.md)             | 術語統一表（中英對照）                         |
-| [TRANSLATION-SYNC.md](editorial/TRANSLATION-SYNC.md)   | 翻譯同步規則（SSOT = knowledge/）              |
-| [UPDATE-LOG-GUIDE.md](editorial/UPDATE-LOG-GUIDE.md)   | 更新日誌撰寫指南                               |
+| 文件                                                         | 用途                                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| [REWRITE-PIPELINE.md](pipelines/REWRITE-PIPELINE.md)         | 文章改寫三階段流程（研究→寫作→驗證）+ 進化模式                            |
+| [QUALITY-CHECKLIST.md](editorial/QUALITY-CHECKLIST.md)       | Stage 3 逐項驗證清單（五指檢測 + 自動化）                                 |
+| [HUB-EDITORIAL.md](editorial/HUB-EDITORIAL.md)               | Hub 頁面策展指南（分類首頁的寫法）                                        |
+| [RESEARCH-TEMPLATE.md](editorial/RESEARCH-TEMPLATE.md)       | Stage 1 研究筆記輸出格式                                                  |
+| [TERMINOLOGY.md](editorial/TERMINOLOGY.md)                   | 術語統一表（中英對照）                                                    |
+| [TRANSLATION-PIPELINE.md](pipelines/TRANSLATION-PIPELINE.md) | 翻譯流程主檔（SSOT = knowledge/；TRANSLATION-SYNC 已 2026-06-10 archive） |
+| [UPDATE-LOG-GUIDE.md](editorial/UPDATE-LOG-GUIDE.md)         | 更新日誌撰寫指南                                                          |
 
 **入口**：寫文章前先讀 `docs/editorial/EDITORIAL.md`（品質標準），改寫用 `REWRITE-PIPELINE.md`。
 

@@ -5,13 +5,17 @@ Per REFLEXES #49 "v2.0 4-tier cascade" — Ollama is the sovereignty backbone, n
 Cloud free-tier consistently refuses last-20% sovereignty-sensitive content (心戰 /
 戒嚴 / 兩岸 / 黑名單 / 政治歷史敘事). Local LLM永遠收下, 0 refusal rate observed.
 
-Default model: qwen3.6:35b-a3b-coding-nvfp4 (21GB GPU, Western open weights).
+Default model: qwen3.6:35b-a3b-coding-nvfp4 (21GB GPU, Alibaba open weights —
+「Western」原註是事實錯誤, 2026-07-05 dna-audit 修正). Local inference 繞過雲端
+policy layer, 但 qwen 訓練資料來自阿里; sovereignty-sensitive 的 Tier 4 本機
+fallback 是否換 gemma4 家族 pending 哲宇 (audit 決策 4)。fleet 端 6/14 bench
+後已 gemma4-only (REMOTE-GPU-PIPELINE)。
 Alternatives: taide-gemma3-12b:2602-q4km, gemma4:e4b-nvfp4 (lighter).
 
 Trade-off vs cloud:
 - 永遠 available (no rate limit, no auth churn, no provider drift)
 - Slower (sequential, GPU contention if multi-process)
-- Quality slightly below owl-alpha but well above the 「永遠收下」threshold
+- Quality below cloud tiers but well above the 「永遠收下」threshold
 
 Per MANIFESTO §sovereignty preservation: Local LLM is structural insurance against
 PRC content policy infection of multi-lang projection.
@@ -40,7 +44,7 @@ class OllamaBackend(TranslationBackend):
         cost_kind="local-compute",
         typical_latency_s=180,     # GPU dependent; 21GB model on Apple Silicon
         max_context_chars=130_000,
-        prc_refusal_risk_low=True, # local + Western training data
+        prc_refusal_risk_low=True, # local inference（無雲端 policy 層；0 refusal 實測）— 但 qwen 是阿里模型非西方訓練資料，Tier 4 主權定位 pending 哲宇（dna-audit 決策 4）
         multilingual_strength=0.78,
         notes="Sovereignty backbone (REFLEXES #49). 0 refusal observed on Taiwan content. "
               "Slower than cloud but永遠 available. GPU contention → single-process serial.",

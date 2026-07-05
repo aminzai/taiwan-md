@@ -12,7 +12,6 @@ sister_docs:
   - 'EVOLVE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
-  - '../editorial/TRANSLATION-SYNC.md'
 ---
 
 # TRANSLATION-PIPELINE.md — 翻譯流程主檔 v4.0

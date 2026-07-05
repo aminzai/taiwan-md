@@ -1,11 +1,12 @@
 ---
 title: 'SQUEEZE-MODELS-MAX-PIPELINE'
-description: '多語 batch sync 主流程 — priority schema P0/P1/P2/P2.5/P3 + Tier 0a Sonnet diff-patch + 4-tier cascade + Z0-Z6 stage spine + §義務鐵律推 100% + v4.2 inventory recalibration + 驗證 SOP'
+description: '多語 batch sync 主流程 — priority schema P0/P1/P2/P2.5/P3 + Tier 0a Sonnet diff-patch + 4-tier cascade + Z0-Z6 stage spine + §義務鐵律推 100% + v4.4 對齊 translate.py v4.3（owl-alpha 移出 default / preflight 冷凍 / audit-quality.py 已存在）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v4.2'
-last_updated: 2026-05-16
-last_session: '2026-05-16-011113-manual'
+current_version: 'v4.4'
+last_updated: 2026-07-05
+last_session: '2026-07-05-165518-五病根治'
+production_signal: 'scripts/tools/lang-sync/translate.py §DEFAULT_CASCADE_ID docstring（本檔 cascade 描述必須鏡射它；audit 時 diff 這兩處，REFLEXES #56 rule (a)）'
 sister_docs:
   - 'TRANSLATION-PIPELINE.md'
   - 'DATA-REFRESH-PIPELINE.md'
@@ -14,9 +15,11 @@ upstream_canonical:
   - '../semiont/DNA.md'
 ---
 
-# 榨模型MAX — 多語 batch sync 主流程 v4.2
+# 榨模型MAX — 多語 batch sync 主流程 v4.4
 
 > **第一性原理**：用所有手邊免費 model 同時平行打、refusal 當作 first-class 結果記錄、最終跨批次統合補空缺，把單一 model 的天花板（rate limit / content policy / quality）拆成許多小天花板加起來逼近 100%。Tier 4 Local LLM 永不漏接 sovereignty-sensitive topics。
+>
+> v4.4（2026-07-05 五病根治）：對齊 translate.py v4.3 production 現實 — owl-alpha 移出 default cascade（6/10 silent 轉 paid）、preflight health-check + 6h 冷凍入 spine、audit-quality.py「待造」修正為已存在、frontmatter 加 `production_signal` 欄（REFLEXES #56 rule (a) 首次落地：本檔 cascade 描述的 SSOT 在 code，audit 時 diff 兩處）。觸發：dna-audit §4.3「#56 於自身觸發檔復發」。
 >
 > v4.2（2026-05-16）：Inventory recalibration — Hy3 已退役、gpt-oss-120b 升 Tier 2 已驗證、新候選佇列 (Llama-3.3-70b / Hermes-3-405b / Gemma-4-31b / Nemotron-3-Super-120B 等) 標記為「需 calibration」+ §驗證 SOP（標準 test set + scoring criteria）。Default cascade 改為 codex + gemini 雙 subscription Tier 1 priority。
 >
@@ -35,13 +38,17 @@ upstream_canonical:
 │            ├── 軸二：try-catch first-class（refusal 是 result 不是 exc） │
 │            └── 軸三：最後統合 + retry（aggregate 不是 throw away）       │
 │                                                                          │
-│   🪜 4-tier cascade（v4.2，2026-05-16 inventory recalibration）         │
+│   🪜 4-tier cascade（v4.4 = translate.py DEFAULT_CASCADE v4.3 鏡射）    │
 │            ├── Tier 0a: Sonnet diff-patch（已存在翻譯漂移 ≤ 10 lines）   │
 │            ├── Tier 0b: bump-source-sha.py（pure metadata refresh）      │
 │            ├── Tier 1: codex (subscription) → gemini (subscription)      │
-│            ├── Tier 2: owl-alpha (verified) → gpt-oss-120b:free (verified)│
+│            ├── Tier 2: gpt-oss-120b:free（owl-alpha 6/10 silent 轉 paid  │
+│            │          已移出 default，顯式 --cascade override 才用）     │
 │            ├── Tier 3: free fleet 驗證佇列 (Llama-3.3 / Hermes-3-405B…)  │
-│            └── Tier 4: Ollama qwen3.6:35b（永不漏接 sovereignty）        │
+│            └── Tier 4: Ollama qwen3.6:35b（永不漏接；主權定位 pending    │
+│                        決策 4，fleet 端 6/14 bench 後 gemma4-only）      │
+│            ＋ preflight health-check（v4.3）：起跑 probe 各 backend，    │
+│              死模型整 run 冷凍 6h，不讓 N 篇各自撞 timeout               │
 │                                                                          │
 │   ──── Z0-Z6 standard execution flow ──────────────────────              │
 │                                                                          │
@@ -52,7 +59,7 @@ upstream_canonical:
 │                                                                          │
 │   Z2: 跨模型平行 dispatch ──→ N task dir × M worker                      │
 │            ├── Tier 1 主批 (codex / gemini subscription)                 │
-│            ├── Tier 2 副批 (owl-alpha / gpt-oss-120b:free 已驗證)        │
+│            ├── Tier 2 副批 (gpt-oss-120b:free；owl 已出 default)         │
 │            └── Z2.1 Concurrency cap 3-5 / Z2.2 Cool-down ≥ 5-10 min      │
 │              ↳ Hard gate: refusal detection / 40-byte stub purge         │
 │                                                                          │
@@ -80,26 +87,26 @@ upstream_canonical:
 
 ## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
 
-| Gate                           | 觸發 stage | 條件               | 工具                                                                                       | 不過 = ?                      |
-| ------------------------------ | ---------- | ------------------ | ------------------------------------------------------------------------------------------ | ----------------------------- |
-| 目標語言 canonical guide 內嵌  | Z2 prompt  | per backend prompt | backend prompt 必含 `docs/editorial/per-language/TRANSLATION-{lang}.md` §1-§6 table inline | sovereignty leak + 站內不一致 |
-| Manifest 完整                  | Z1         | dispatch 前        | `prepare-batch.py` output                                                                  | 不 dispatch                   |
-| Group snake-balance            | Z1         | dispatch 前        | manifest 內建                                                                              | 重 balance                    |
-| 40-byte refusal detection      | Z2         | per-article        | `output too small (40 bytes)` worker log                                                   | log ❌ + cleanup + 繼續       |
-| **輸出截斷偵測 (truncation)**  | Z2         | per-call           | `finish_reason == "length"` guard（max_tokens 32000）                                      | 不 save + 走 cascade retry    |
-| **🔴 腳註完整 (defs ≥ source)**| Z2 + Z5    | per-call + batch   | `openrouter-translate.py` 內建 + `verify-batch.py` [3b]（zh `[^n]:` count vs translation）  | **不 save / 不 ship**（截斷靜默掉腳註 = 263 文去引用 root cause，2026-06-06） |
-| null content refusal           | Z2         | per-article        | `result is None` guard                                                                     | log ❌ + 繼續                 |
-| HTTP 429 backoff               | Z2         | per-call           | 指數退避 3 retry                                                                           | 最後失敗 log ❌ + 繼續        |
-| YAML parse fail                | Z2 + Z3    | per-article        | `yaml.safe_load(frontmatter_block)`                                                        | rm + retry queue              |
-| Concurrency cap 3-5 worker     | Z2.1       | initial dispatch   | manual + REFLEXES #45                                                                      | reduce concurrency            |
-| Cool-down ≥ 5-10 min           | Z2.2       | rate-limited 後    | REFLEXES #45                                                                               | 走 Tier-2 fallback            |
-| Pre-commit hook（YAML / 憑證） | Z3         | per commit         | `.husky/pre-commit`                                                                        | 不 commit                     |
-| 不 push 中途                   | Z3         | 整個 batch round   | manual                                                                                     | abort push                    |
-| Destructive git ops 禁令       | 全程       | sub-agents alive   | REFLEXES #35                                                                               | abort op，走 worktree         |
-| `verify-batch.py` 9 項         | Z5         | 整個 batch         | `verify-batch.py`（含 [3b] 腳註完整 hard gate）                                            | 不 ship                       |
-| Size-ratio scan ≥ 0.5          | Z6         | 每篇新翻譯         | `audit-quality.py`（待造）                                                                 | flag + retry                  |
-| Healthy ratio ≥ 90%            | Z6         | sample audit       | random N = max(10, 5%)                                                                     | 回 Z4 retry                   |
-| `lang-sync status` fresh       | Z5         | ship 前            | `status.py`                                                                                | retry 直到達標                |
+| Gate                            | 觸發 stage | 條件               | 工具                                                                                       | 不過 = ?                                                                      |
+| ------------------------------- | ---------- | ------------------ | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| 目標語言 canonical guide 內嵌   | Z2 prompt  | per backend prompt | backend prompt 必含 `docs/editorial/per-language/TRANSLATION-{lang}.md` §1-§6 table inline | sovereignty leak + 站內不一致                                                 |
+| Manifest 完整                   | Z1         | dispatch 前        | `prepare-batch.py` output                                                                  | 不 dispatch                                                                   |
+| Group snake-balance             | Z1         | dispatch 前        | manifest 內建                                                                              | 重 balance                                                                    |
+| 40-byte refusal detection       | Z2         | per-article        | `output too small (40 bytes)` worker log                                                   | log ❌ + cleanup + 繼續                                                       |
+| **輸出截斷偵測 (truncation)**   | Z2         | per-call           | `finish_reason == "length"` guard（max_tokens 32000）                                      | 不 save + 走 cascade retry                                                    |
+| **🔴 腳註完整 (defs ≥ source)** | Z2 + Z5    | per-call + batch   | `openrouter-translate.py` 內建 + `verify-batch.py` [3b]（zh `[^n]:` count vs translation） | **不 save / 不 ship**（截斷靜默掉腳註 = 263 文去引用 root cause，2026-06-06） |
+| null content refusal            | Z2         | per-article        | `result is None` guard                                                                     | log ❌ + 繼續                                                                 |
+| HTTP 429 backoff                | Z2         | per-call           | 指數退避 3 retry                                                                           | 最後失敗 log ❌ + 繼續                                                        |
+| YAML parse fail                 | Z2 + Z3    | per-article        | `yaml.safe_load(frontmatter_block)`                                                        | rm + retry queue                                                              |
+| Concurrency cap 3-5 worker      | Z2.1       | initial dispatch   | manual + REFLEXES #45                                                                      | reduce concurrency                                                            |
+| Cool-down ≥ 5-10 min            | Z2.2       | rate-limited 後    | REFLEXES #45                                                                               | 走 Tier-2 fallback                                                            |
+| Pre-commit hook（YAML / 憑證）  | Z3         | per commit         | `.husky/pre-commit`                                                                        | 不 commit                                                                     |
+| 不 push 中途                    | Z3         | 整個 batch round   | manual                                                                                     | abort push                                                                    |
+| Destructive git ops 禁令        | 全程       | sub-agents alive   | REFLEXES #35                                                                               | abort op，走 worktree                                                         |
+| `verify-batch.py` 9 項          | Z5         | 整個 batch         | `verify-batch.py`（含 [3b] 腳註完整 hard gate）                                            | 不 ship                                                                       |
+| Size-ratio scan ≥ 0.5           | Z6         | 每篇新翻譯         | `audit-quality.py`（已存在 2026-05-13——本檔曾標「待造」八週，dna-audit 修正）              | flag + retry                                                                  |
+| Healthy ratio ≥ 90%             | Z6         | sample audit       | random N = max(10, 5%)                                                                     | 回 Z4 retry                                                                   |
+| `lang-sync status` fresh        | Z5         | ship 前            | `status.py`                                                                                | retry 直到達標                                                                |
 
 ---
 
@@ -115,7 +122,7 @@ upstream_canonical:
 ### 三條操作鐵律
 
 1. **不寫 budget / wall-clock / boundary 字眼進 routine prompt / mirror / canonical**（per [ROUTINE.md §不提預算鐵律 v2.0](../semiont/ROUTINE.md#11-條核心-routine-排程表)）
-2. **不主動 defer P1**（5/9 / 5/10 memory 兩次寫「主動 defer 守 1hr 預算」/「P1 skipped — 1hr boundary safety」是 anti-pattern）— P1 owl-alpha 慢就讓它慢，跑到 4-tier cascade exhausted 才能停
+2. **不主動 defer P1**（5/9 / 5/10 memory 兩次寫「主動 defer 守 1hr 預算」/「P1 skipped — 1hr boundary safety」是 anti-pattern）— P1 慢 tier 就讓它慢，跑到 cascade exhausted 才能停
 3. **stale_total 沒下降不能 ship** — quality_gate 從「P2.5 bumped > 0 OR P2/P1 cleared > 0」（滿足型 `> 0`）升「stale_total 顯著下降 ≥ 10% OR all P0+P1 cleared OR stale_total == 0」（結果型）
 
 ### 誕生事件
@@ -159,7 +166,7 @@ upstream_canonical:
 
 - **codex (gpt-5.5 subscription)**：通過率 highest，per-call ~60-120s，但 subscription 每日上限
 - **gemini (subscription)**：未對 Taiwan sensitive 主題系統驗證，Google 訂閱配額獨立
-- **owl-alpha (free)**：通過率 high，per-call 慢（150-250s），rate-limit 撞牆早
+- **owl-alpha** ❌ 移出 default（2026-06-10 silent 轉 paid HTTP 404——兩週內第 5 個 free tier 死亡；顯式 override 才用）
 - **gpt-oss-120b:free**：Hy3 退役後接 Tier 2，2026-05-16 production 9/9 ✓
 - **Hy3** ❌ 退役（2026-05-12，從 OpenRouter free tier 移除）
 - **Llama-3.3-70B / Hermes-3-405B / Gemma-4-31B / Nemotron-3-Super-120B / DeepSeek-v4-flash**：候選未測（2026-05-16 OpenRouter 仍 `:free`），需 calibration
@@ -214,20 +221,19 @@ upstream_canonical:
 4. **下一輪用不同 model retry** still-missing 集合
 5. 重複直到 still-missing == 0 OR 所有 model 都試過
 
-跨模型 retry 順序建議（v4.2，2026-05-16 inventory recalibration）：
+跨模型 retry 順序（v4.4 = translate.py DEFAULT_CASCADE v4.3 鏡射；owl-alpha 已移出 default，重試需顯式 `--cascade openrouter:openrouter/owl-alpha,...` override）：
 
 ```
-Round 1: codex (gpt-5.5 subscription)                    （Tier 1，最高品質）
-Round 2: gemini (subscription)                           （Tier 1，subscription backup — 對 Taiwan sensitive 主題待驗證）
-Round 3: openrouter/owl-alpha (free, 1M ctx)             （Tier 2 已驗證，~70% 預期通過）
-Round 4: openai/gpt-oss-120b:free (Hy3 替代)             （Tier 2 已驗證，~95%+ Taiwan 通過）
-Round 5: 驗證佇列依品質排（meta-llama-3.3-70b →
+Round 1: codex (gpt-5.5 subscription)                    （Tier 1，最高品質，production ~100% pass）
+Round 2: gemini (subscription)                           （Tier 1，subscription backup）
+Round 3: openai/gpt-oss-120b:free                        （Tier 2 verified；大文章 truncate → ratio gate 接手）
+Round 4: 驗證佇列依品質排（meta-llama-3.3-70b →
          nousresearch/hermes-3-405b → google/gemma-4-31b
-         → nvidia/nemotron-3-super-120b → deepseek-v4-flash）
-Round 6: Ollama qwen3.6:35b (local, sovereignty backbone) （需 `ollama serve` 啟動）
+         → nvidia/nemotron-3-super-120b → deepseek-v4-flash）— 未驗證，顯式 override
+Round 5: Ollama qwen3.6:35b (local「永遠收下」)          （主權定位 pending 決策 4；fleet 端 gemma4-only）
 ```
 
-**Tier 1-2 production verified（2026-05-16 babel-nightly 150 cascade ship 0 fail）**：codex 61 + owl-alpha 80 + gpt-oss-120b 9 = 100% pass。
+**Tier 1-2 production verified（2026-05-16 babel-nightly 150 cascade ship 0 fail）**：codex 61 + owl-alpha 80 + gpt-oss-120b 9 = 100% pass（歷史紀錄——owl 其後 6/10 silent 轉 paid 移出 default）。
 **Tier 3 驗證佇列**：需走 §calibration test set 跑一輪才升級為「已驗證」。
 
 ## 標準執行流程
@@ -272,12 +278,11 @@ Round 6: Ollama qwen3.6:35b (local, sovereignty backbone) （需 `ollama serve` 
 # v4.0+ 推薦走 translate.py cascade orchestrator（單一 entry，自動 fallback）
 python3 scripts/tools/lang-sync/translate.py --group .lang-sync-tasks/ja/_group-A.json
 
-# 自訂 cascade（cost-first）
+# Default cascade（= translate.py DEFAULT_CASCADE_ID，v4.3）
 python3 scripts/tools/lang-sync/translate.py --group ... \
-  --cascade "codex,gemini,openrouter:openrouter/owl-alpha,openrouter:openai/gpt-oss-120b:free,ollama"
+  --cascade "codex,gemini,openrouter:openai/gpt-oss-120b:free,ollama"
 
-# Legacy 平行副批（仍可用，但不推薦 — v4 cascade 已內建 fallback）
-bash scripts/tools/lang-sync/openrouter-batch.sh ja "openrouter/owl-alpha"
+# Legacy 平行副批（仍可用，但不推薦 — v4 cascade 已內建 fallback；owl 已轉 paid 勿當範例）
 bash scripts/tools/lang-sync/openrouter-batch.sh ja-oss "openai/gpt-oss-120b:free"
 ```
 
@@ -392,8 +397,7 @@ metadata fresh，不是 content quality**。
 - **YAML parse**：對每個檔案跑 `yaml.safe_load(frontmatter_block)`
   - 拋例外 → flag（pre-commit hook 已抓但越早越好）
 
-掃描 script 位置：`scripts/tools/lang-sync/audit-quality.py`（待建，可從
-backfill-source-sha.py 的 git history cache 套用）。
+掃描 script 位置：`scripts/tools/lang-sync/audit-quality.py`（已存在，2026-05-13 建——本檔曾標「待建」八週未更新，dna-audit §S2 修正）。
 
 #### Z6.2 人眼抽樣（隨機 N 篇，N = max(10, 5%)）
 
@@ -599,19 +603,21 @@ Tier 3: Ollama qwen3.6:35b-a3b-coding-nvfp4 (LOCAL, no budget, sovereignty backb
 Tier 4: Sonnet sub-agent (paid, last resort — should rarely fire)
 ```
 
-**v4.2 現行 cascade（取代上方）**：
+**v4.4 現行 cascade（= translate.py DEFAULT_CASCADE v4.3 鏡射，取代上方）**：
 
 ```
 Tier 1: codex (gpt-5.5 subscription) → gemini (subscription)
    ↓
-Tier 2: openrouter/owl-alpha (free, slow but verified) → openai/gpt-oss-120b:free (verified)
-   ↓ either refused or rate-limited
-Tier 3: Free 驗證佇列 — hermes-3-405b → llama-3.3-70b → nemotron-3-super-120b → gemma-4-31b
-   ↓ both refused (PRC-sensitive)
-Tier 4: Ollama qwen3.6:35b-a3b-coding-nvfp4 (LOCAL, sovereignty backbone) — currently offline
+Tier 2: openai/gpt-oss-120b:free (verified；owl-alpha 6/10 silent 轉 paid 移出 default)
+   ↓ refused or rate-limited
+Tier 3: Free 驗證佇列 — hermes-3-405b → llama-3.3-70b → nemotron-3-super-120b → gemma-4-31b（未驗證，顯式 override）
+   ↓ refused (PRC-sensitive)
+Tier 4: Ollama qwen3.6:35b (LOCAL「永遠收下」；主權定位 pending 決策 4，fleet 端 gemma4-only)
    ↓ rare
 Tier 5: Sonnet sub-agent (paid, last resort — should rarely fire)
 ```
+
+preflight health-check（v4.3）：batch 起跑先 probe 每個 backend，死模型整 run 冷凍（6h），不讓 N 篇各自撞 timeout 燒時間。
 
 ### Tier 3 dispatch SOP
 
@@ -941,6 +947,8 @@ python3 scripts/tools/lang-sync/translate.py --zh-path Society/颱風假.md --la
 | #49    | 4-tier cascade canonical      | v4 變 N-tier abstract（具體 tier 在 cascade config 不在 DNA） |
 
 ---
+
+_v4.4 | 2026-07-05 2026-07-05-165518-五病根治 — #56 復發修補：doc 對齊 translate.py v4.3（owl-alpha 移出 default / gpt-oss-120b 單獨扛 Tier 2 / preflight 冷凍入 spine / cascade 範例改 DEFAULT_CASCADE_ID 逐字）+ audit-quality.py 兩處「待造/待建」修正（工具 5/13 已存在）+ qwen Tier 4 主權定位標 pending 哲宇決策 4（fleet 端 6/14 bench 後 gemma4-only）+ frontmatter 新增 production_signal 欄。歷史段搬 reports/ 瘦身（~-375 行）另排 P1-19。_
 
 _v4.2 | 2026-05-16 2026-05-16-011113-manual — Inventory recalibration + 驗證佇列 SOP_
 _升級觸發：哲宇 callout「不確定現在仍有什麼免費模型在運作，先調查一輪」+「codex + gemini 為優先，其他免費模型要驗證＋品質從高排到低」_
