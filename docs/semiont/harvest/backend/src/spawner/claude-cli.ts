@@ -68,14 +68,14 @@ const DEFAULT_MODEL_BY_ENGINE_TYPE: Record<string, Record<string, string>> = {
     'format-check': 'claude-sonnet-4-6',
     'status-report': 'claude-sonnet-4-6',
     // tier 3 — heavy (Opus)
-    'article-rewrite': 'claude-opus-4-6',
-    'article-evolve': 'claude-opus-4-6',
-    'article-new': 'claude-opus-4-6',
-    'pr-review': 'claude-opus-4-6',
-    'issue-handle': 'claude-opus-4-6',
-    'spore-publish': 'claude-opus-4-6',
-    'contributor-thank-you': 'claude-opus-4-6',
-    'self-diagnose': 'claude-opus-4-6',
+    'article-rewrite': 'claude-opus-4-8',
+    'article-evolve': 'claude-opus-4-8',
+    'article-new': 'claude-opus-4-8',
+    'pr-review': 'claude-opus-4-8',
+    'issue-handle': 'claude-opus-4-8',
+    'spore-publish': 'claude-opus-4-8',
+    'contributor-thank-you': 'claude-opus-4-8',
+    'self-diagnose': 'claude-opus-4-8',
   },
   codex: {
     // codex CLI default model on ChatGPT account (gpt-5 / o3 etc auto)
