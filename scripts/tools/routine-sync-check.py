@@ -23,19 +23,31 @@ Compares docs/semiont/ROUTINE.md SSOT vs
 Mirrors should pointer back to ROUTINE.md + canonical pipeline, not
 inline Stage steps / quality gates / escalation logic.
 
-⚠️ MCP live state limitation:
-    本 tool 比對 SSOT (ROUTINE.md) vs file mirror (SKILL.md)。
-    MCP scheduled-tasks server live cron state 存在 server 內部 store，無 file
-    access — tool 抓不到第三 layer (live ↔ mirror) drift。要驗證需 manual
-    跑 `mcp__scheduled-tasks__list_scheduled_tasks` 對比。本 tool 跑 pass
-    只代表 SSOT ↔ mirror sync，不代表 SSOT ↔ MCP live sync。
+v3 live layer（2026-07-05 五病根治，dna-audit §S1 根治）:
+    第三層比對來源 = docs/semiont/routine-live-state.json（由 data-refresh session
+    呼叫 `mcp__scheduled-tasks__list_scheduled_tasks` → routine-live-normalize.py
+    落檔進 git；MCP live state 在 server 內部 store 無 file access，dump 是唯一
+    git 可見化路徑）。v3 新增檢查:
+
+      ✗ live_enabled_drift  (SSOT 標 active 但 live disabled，或反過來
+                             — 2026-06/07 spore-pick/publish disabled 21 天
+                             SSOT 還列實驗中的 v2.9 重演就是這型)
+      ✗ live_cron_drift     (SSOT cron 欄 vs live cronExpression)
+      ✗ live_orphan         (live 有 twmd task 但 SSOT 沒列)
+      ⚠ live_desc_time_drift (live description 內寫的 HH:MM ≠ cron 時間
+                             — rewrite-daily description「18:00」vs cron 19:00)
+      ⚠ live dump stale > 48h / missing (dump 沒在跟著 data-refresh 更新)
+
+    alias 修補: SSOT `twmd-feedback-triage` 的 mirror/live taskId 是
+    `taiwanmd-routine-twmd-feedback-triage`（歷史命名），v2 glob twmd-* 永遠
+    找不到它 → chronic false MISSING。v3 以 ALIASES 表對映。
 
 Usage:
     python3 scripts/tools/routine-sync-check.py
     python3 scripts/tools/routine-sync-check.py --format=json
     python3 scripts/tools/routine-sync-check.py --warn-lines=30 --hard-lines=50
 
-Exit code: 0 = pass, 1 = drift / thick mirror found
+Exit code: 0 = pass, 1 = drift / thick mirror / live drift found
 """
 
 import argparse
@@ -48,9 +60,56 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 ROUTINE_SSOT = REPO_ROOT / "docs" / "semiont" / "ROUTINE.md"
 MIRROR_ROOT = Path(os.path.expanduser("~/.claude/scheduled-tasks"))
+LIVE_STATE = REPO_ROOT / "docs" / "semiont" / "routine-live-state.json"
 
 DEFAULT_WARN_LINES = 30
 DEFAULT_HARD_LINES = 50
+LIVE_DUMP_STALE_HOURS = 48
+
+# SSOT taskId → 實際 mirror dir / live taskId（歷史命名差異）
+ALIASES = {
+    "twmd-feedback-triage": "taiwanmd-routine-twmd-feedback-triage",
+}
+
+
+def load_live_state():
+    """讀 routine-live-state.json dump；回 (tasks_by_id, fetched_at, err)。"""
+    if not LIVE_STATE.exists():
+        return None, None, "missing"
+    try:
+        data = json.loads(LIVE_STATE.read_text(encoding="utf-8"))
+        tasks = {t["taskId"]: t for t in data.get("tasks", [])}
+        return tasks, data.get("fetched_at"), None
+    except (json.JSONDecodeError, KeyError) as e:
+        return None, None, f"unparsable: {e}"
+
+
+def dump_age_hours(fetched_at):
+    from datetime import datetime, timezone
+
+    try:
+        dt = datetime.fromisoformat(fetched_at)
+        now = datetime.now(dt.tzinfo or timezone.utc)
+        return (now - dt).total_seconds() / 3600
+    except (ValueError, TypeError):
+        return None
+
+
+def desc_time_mismatch(description, cron):
+    """live description 內出現的 HH:MM 全部 ≠ cron 時間 → 回傳 (desc_times, cron_time)。"""
+    if not description or not cron:
+        return None
+    parts = cron.split()
+    if len(parts) != 5 or not parts[0].isdigit() or not parts[1].isdigit():
+        return None  # 非單純 m h 型 cron（*/N 等）不比
+    cron_time = f"{int(parts[1]):02d}:{int(parts[0]):02d}"
+    times = re.findall(r"\b(\d{1,2}):(\d{2})\b", description)
+    if not times:
+        return None
+    norm = {f"{int(h):02d}:{mm}" for h, mm in times}
+    if cron_time in norm:
+        return None
+    return sorted(norm), cron_time
 
 
 def parse_routine_table(ssot_path):
@@ -80,6 +139,22 @@ def parse_routine_table(ssot_path):
                 "model": cells[4],
                 "cadence": cells[5],
             }
+
+    # ⏸️ PAUSED 副表（欄位不同：TaskId | 原 slot | 暫停日 | 原因）— 這些任務
+    # 在 SSOT 是「已知暫停」，live disabled 是預期，不算 orphan / enabled drift
+    m = re.search(r"\*\*⏸️ PAUSED\*\*.*?(?=\n## |\Z)", text, re.DOTALL)
+    if m:
+        for tid in re.findall(r"`(twmd-[a-z0-9-]+)`", m.group(0)):
+            tasks.setdefault(
+                tid,
+                {
+                    "title": tid,
+                    "cron": None,
+                    "skill": None,
+                    "model": None,
+                    "cadence": "⏸️ paused（PAUSED 副表）",
+                },
+            )
     return tasks
 
 
@@ -134,13 +209,18 @@ def audit(warn_lines, hard_lines):
     ssot_tasks = parse_routine_table(ROUTINE_SSOT)
 
     mirror_dirs = (
-        {p.name: p for p in MIRROR_ROOT.glob("twmd-*") if p.is_dir()}
+        {
+            p.name: p
+            for pat in ("twmd-*", "taiwanmd-*")
+            for p in MIRROR_ROOT.glob(pat)
+            if p.is_dir()
+        }
         if MIRROR_ROOT.exists()
         else {}
     )
 
     for task_id, meta in ssot_tasks.items():
-        mirror_dir = mirror_dirs.get(task_id)
+        mirror_dir = mirror_dirs.get(task_id) or mirror_dirs.get(ALIASES.get(task_id, ""))
         if mirror_dir is None:
             results["missing"].append({"task_id": task_id, "meta": meta})
             continue
@@ -154,7 +234,7 @@ def audit(warn_lines, hard_lines):
 
         fm, line_count = parse_mirror_frontmatter(skill_md)
 
-        if fm.get("name") != task_id:
+        if fm.get("name") not in (task_id, ALIASES.get(task_id)):
             results["drift"].append(
                 {
                     "task_id": task_id,
@@ -174,14 +254,9 @@ def audit(warn_lines, hard_lines):
                     "mirror": mirror_cron,
                 }
             )
-        elif ssot_cron and mirror_cron is None:
-            results["cron_drift"].append(
-                {
-                    "task_id": task_id,
-                    "ssot": ssot_cron,
-                    "mirror": "<not found in SKILL.md>",
-                }
-            )
+        # mirror 無可解析 cron 欄位 → 不再列 CRON_DRIFT（v3：mirror prompt 世代已
+        # 不含 cron 字樣，SSOT ↔ live 層接手 cron 真相；15 條 <not found> 假陽性
+        # 洪水 = alarm fatigue，per REFLEXES #74）
 
         thick_severity = None
         if line_count > hard_lines:
@@ -203,9 +278,63 @@ def audit(warn_lines, hard_lines):
             results["ok"].append({"task_id": task_id, "lines": line_count})
 
     ssot_ids = set(ssot_tasks.keys())
+    aliased_ids = ssot_ids | {ALIASES.get(t, t) for t in ssot_ids}
     for mirror_id in mirror_dirs.keys():
-        if mirror_id not in ssot_ids:
+        if mirror_id not in aliased_ids:
             results["orphan"].append({"task_id": mirror_id})
+
+    # ── v3 第三層：SSOT ↔ live scheduler dump ──────────────────────────
+    results["live_enabled_drift"] = []
+    results["live_cron_drift"] = []
+    results["live_orphan"] = []
+    results["live_desc_time_drift"] = []
+    results["live_dump"] = {"status": "ok", "fetched_at": None, "age_hours": None}
+
+    live_tasks, fetched_at, live_err = load_live_state()
+    if live_err:
+        results["live_dump"]["status"] = live_err
+    else:
+        results["live_dump"]["fetched_at"] = fetched_at
+        age = dump_age_hours(fetched_at)
+        results["live_dump"]["age_hours"] = round(age, 1) if age is not None else None
+        if age is not None and age > LIVE_DUMP_STALE_HOURS:
+            results["live_dump"]["status"] = f"stale ({age:.0f}h > {LIVE_DUMP_STALE_HOURS}h)"
+
+        for task_id, meta in ssot_tasks.items():
+            live = live_tasks.get(task_id) or live_tasks.get(ALIASES.get(task_id, ""))
+            if live is None:
+                results["live_enabled_drift"].append(
+                    {"task_id": task_id, "ssot": meta["cadence"], "live": "<no live task>"}
+                )
+                continue
+
+            cadence = meta.get("cadence", "")
+            expect_disabled = ("⏸" in cadence) or ("disabled" in cadence.lower())
+            if bool(live.get("enabled")) == expect_disabled:
+                results["live_enabled_drift"].append(
+                    {
+                        "task_id": task_id,
+                        "ssot": cadence,
+                        "live": f"enabled={live.get('enabled')}",
+                    }
+                )
+
+            ssot_cron = normalize_cron(meta.get("cron"))
+            live_cron = normalize_cron(live.get("cronExpression"))
+            if ssot_cron and live_cron and ssot_cron != live_cron:
+                results["live_cron_drift"].append(
+                    {"task_id": task_id, "ssot": ssot_cron, "live": live_cron}
+                )
+
+            mism = desc_time_mismatch(live.get("description"), live_cron)
+            if mism:
+                results["live_desc_time_drift"].append(
+                    {"task_id": task_id, "desc_times": mism[0], "cron_time": mism[1]}
+                )
+
+        for live_id in live_tasks:
+            if live_id not in aliased_ids:
+                results["live_orphan"].append({"task_id": live_id})
 
     exit_code = 0
     if (
@@ -213,6 +342,9 @@ def audit(warn_lines, hard_lines):
         or results["orphan"]
         or results["drift"]
         or results["cron_drift"]
+        or results["live_enabled_drift"]
+        or results["live_cron_drift"]
+        or results["live_orphan"]
     ):
         exit_code = 1
     if any(t["severity"] == "hard" for t in results["thick"]):
@@ -271,6 +403,35 @@ def print_human(results, exit_code):
             )
         print()
 
+    # ── v3 live layer 報告 ──────────────────────────────────────────
+    dump = results.get("live_dump", {})
+    if dump.get("status") == "missing":
+        print("⚠️  LIVE DUMP 缺 — docs/semiont/routine-live-state.json 不存在。")
+        print("    產生方式: session 呼叫 list_scheduled_tasks → routine-live-normalize.py（per DATA-REFRESH §live dump）")
+        print()
+    elif dump.get("status", "ok") != "ok":
+        print(f"⚠️  LIVE DUMP {dump['status']} — fetched_at={dump.get('fetched_at')}")
+        print()
+
+    for key, label in [
+        ("live_enabled_drift", "LIVE_ENABLED_DRIFT — SSOT 標示 vs live enabled 不一致（v2.9 spore-pick 21 天漂移就是這型）"),
+        ("live_cron_drift", "LIVE_CRON_DRIFT — SSOT cron vs live cronExpression"),
+        ("live_orphan", "LIVE_ORPHAN — live 有 twmd task 但 SSOT 沒列"),
+    ]:
+        rows = results.get(key, [])
+        if rows:
+            print(f"❌ {label} ({len(rows)}):")
+            for r in rows:
+                detail = " ".join(f"{k}='{v}'" for k, v in r.items() if k != "task_id")
+                print(f"   {r['task_id']:32s} {detail}")
+            print()
+
+    if results.get("live_desc_time_drift"):
+        print(f"🟡 LIVE_DESC_TIME_DRIFT ({len(results['live_desc_time_drift'])}) — live description 內的時間字樣 ≠ 實際 cron（warn，不影響 exit）:")
+        for r in results["live_desc_time_drift"]:
+            print(f"   {r['task_id']:32s} desc 提到 {','.join(r['desc_times'])} / cron 實為 {r['cron_time']}")
+        print()
+
     total_routines = len(results["ok"]) + len(results["thick"]) + len(results["missing"])
     hard_thick = sum(1 for t in results["thick"] if t["severity"] == "hard")
     print(
@@ -279,17 +440,16 @@ def print_human(results, exit_code):
         f"thick(hard)={hard_thick}  missing={len(results['missing'])}  "
         f"orphan={len(results['orphan'])}  drift={len(results['drift'])}  "
         f"cron_drift={len(results['cron_drift'])}  "
+        f"live_drift={len(results.get('live_enabled_drift', [])) + len(results.get('live_cron_drift', [])) + len(results.get('live_orphan', []))}  "
         f"exit={exit_code}"
     )
     print()
     print(
-        "⚠️  Note: 本 tool 只 check SSOT (ROUTINE.md) ↔ file mirror (SKILL.md) sync。"
+        "ℹ️  三層比對: SSOT (ROUTINE.md) ↔ mirror (SKILL.md) ↔ live (routine-live-state.json dump)。"
     )
     print(
-        "    MCP scheduled-tasks server live cron state 為 server 內部 store，無 file access。"
-    )
-    print(
-        "    驗證第三 layer (live ↔ mirror) 需 manual 跑 `mcp__scheduled-tasks__list_scheduled_tasks`。"
+        "    dump 由 data-refresh session 每日更新（list_scheduled_tasks → routine-live-normalize.py）；"
+        f"超過 {LIVE_DUMP_STALE_HOURS}h 未更新會標 stale。"
     )
 
 

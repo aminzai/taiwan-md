@@ -20,8 +20,51 @@ import { join } from 'path';
 const OUT = 'public/api/dashboard-alerts.json';
 const alerts = [];
 
+// owner 欄（dna-audit 2026-07-05 §S4 根治 (a)）：每條警報標「哪條 routine 該接」，
+// 偵測有、修復無的 deadletter 病根在於黃燈沒有 owner。routine-audit 週檢
+// firstSeen 齡 > 14 天 → 升 OBSERVER-QUEUE（default-action 機制接手）。
+const OWNERS = {
+  'organ-': 'twmd-self-evolve-weekly',
+  'immune-': 'twmd-self-evolve-weekly',
+  'cf-404': 'twmd-maintainer',
+  'exp-overdue-': 'twmd-self-evolve-weekly',
+  'lessons-': 'twmd-distill-weekly',
+  'memory-index-': 'twmd-distill-weekly',
+  'inbox-ghosts': 'twmd-maintainer',
+  'vitals-stale': 'twmd-data-refresh',
+  'spore-harvest-': 'twmd-spore-harvest-am',
+  'organism-missing': 'twmd-data-refresh',
+};
+function ownerFor(id) {
+  for (const [prefix, owner] of Object.entries(OWNERS)) {
+    if (id.startsWith(prefix)) return owner;
+  }
+  return 'unassigned';
+}
+
+// firstSeen 持續性：同 id 的警報跨 regen 保留初見日，齡才算得出來
+const prev = (() => {
+  try {
+    const m = {};
+    for (const a of JSON.parse(readFileSync(OUT, 'utf8')).alerts || []) {
+      if (a.firstSeen) m[a.id] = a.firstSeen;
+    }
+    return m;
+  } catch {
+    return {};
+  }
+})();
+const TODAY = new Date().toISOString().slice(0, 10);
+
 function addAlert(id, severity, message, source) {
-  alerts.push({ id, severity, message, source });
+  alerts.push({
+    id,
+    severity,
+    message,
+    source,
+    owner: ownerFor(id),
+    firstSeen: prev[id] || TODAY,
+  });
 }
 
 function readJson(p) {
@@ -144,7 +187,7 @@ if (existsSync(memoryPath)) {
     addAlert(
       'memory-index-rows',
       'yellow',
-      `MEMORY.md 索引 ${rows} rows > 80 蒸餾觸發線（design 2026-04-14 未實作）`,
+      `MEMORY.md 索引 inline ${rows} rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）`,
       'MEMORY.md',
     );
   }

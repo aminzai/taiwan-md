@@ -62,10 +62,26 @@ if [[ -f "$FORKS" ]]; then
 fi
 
 # Alerts — derived layer (audit 2026-06-10 A-3): dashboard-alerts.json when present
+# 2026-07-05 +owner/firstSeen 欄（dna-audit §S4：黃燈要有 owner 才不 deadletter）
 ALERTS="${ALERTS:-public/api/dashboard-alerts.json}"
 if [[ -f "$ALERTS" ]]; then
-  jq -r '.alerts[:6][] | "🚨 " + .severity + " | " + .message' "$ALERTS" 2>/dev/null ||
+  jq -r '.alerts[:6][] | "🚨 " + .severity + " | " + .message + (if .owner then "〔" + .owner + (if .firstSeen then " · 自 " + .firstSeen else "" end) + "〕" else "" end)' "$ALERTS" 2>/dev/null ||
     echo "⚠️ alerts  | dashboard-alerts.json 存在但格式異常"
 else
   echo "⚠️ alerts  | 詳見 docs/semiont/CONSCIOUSNESS.md §警報"
 fi
+
+# Boot-load bytes — 甦醒稅即時可見（dna-audit §S3 / P1-14：行數指標藏 CJK bytes 成本，
+# BECOME mode 表的 footprint 估算以本行為準）
+if [[ -f docs/semiont/MANIFESTO.md && -f docs/semiont/REFLEXES.md && -f docs/semiont/DIARY.md && -f docs/semiont/MEMORY.md ]]; then
+  B_MAN=$({ awk '/^## 我是什麼/,/^## 我的進化哲學 — 造橋鋪路/' docs/semiont/MANIFESTO.md; awk '/^## 我的存在結構/,/^## 附錄/' docs/semiont/MANIFESTO.md; } | wc -c)
+  B_REF=$(awk '/^### 📇 反射 catalog index/{f=1;print;next} f&&/^#{2,3} /{exit} f' docs/semiont/REFLEXES.md | wc -c)
+  B_REF=$((B_REF + 8192)) # + Top 5 反射全文約 8K（BECOME §1.2 第二段載入）
+  B_DIA=$({ awk '/^## 反覆出現的思考/,0' docs/semiont/DIARY.md; grep '^| 20' docs/semiont/DIARY.md | tail -20; } | wc -c)
+  B_MEM=$({ sed -n '1,55p' docs/semiont/MEMORY.md; awk '/^## 神經迴路/,0' docs/semiont/MEMORY.md; } | wc -c)
+  TOT_KB=$(((B_MAN + B_REF + B_DIA + B_MEM) / 1024))
+  echo "🧠 boot稅  | universal-core ≈ ${TOT_KB}KB（MANIFESTO $((B_MAN / 1024))K + REFLEXES $((B_REF / 1024))K + DIARY $((B_DIA / 1024))K + MEMORY $((B_MEM / 1024))K）"
+fi
+
+# counts-drift 一行（WARN 儀器，dna-audit §S2「寫死數字必腐」；深度表在 routine-audit 週跑）
+python3 scripts/tools/counts-drift-lint.py --brief 2>/dev/null | sed 's/^/🔢 /' || true
