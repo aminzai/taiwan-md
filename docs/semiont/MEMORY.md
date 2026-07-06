@@ -320,4 +320,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-06 | 070732-twmd-feedback-triage | 07:00 cron 0 新回報 empty-queue；--commit comment-sync file=0/synced=0；backend 正常；#1206/#1207 交 maintainer | empty-queue≠故障：intake stochastic，0 筆 clean pass | [→](memory/2026-07-06-070732-twmd-feedback-triage.md) |
 | 2026-07-06 | 084042-twmd-maintainer-am | am 首次全空（0 PR + 0 fresh issue）；17 issue carry §自主權邊界；免疫 49 vc=4；build green | morning-chain-absorbs-maintainer-am 新形狀 vc=1 | [→](memory/2026-07-06-084042-twmd-maintainer-am.md) |
 | 2026-07-06 | 105116-設計視覺審計 | 35 template 前端設計審計歸檔 reports/：10 跨頁發現＋roadmap 17 項＋2 新 bug（空 Banner、map 手機空白） | 儀器故障即 finding（截圖白屏揭 FOUC）；設計債分佈＝注意力分佈 | [→](memory/2026-07-06-105116-設計視覺審計.md) |
-| 2026-07-06 | 113000-P0-執行波 | 審計 P0 6/6 落地：5 sub-agent 平行改 → build+實拍+8-angle review 對抗驗證 → `38bba4246` | review 抓回 footer 誤刪 /about（#31 規模化）；agent 修正主 session 審計前提 | [→](memory/2026-07-06-113000-P0-執行波.md) |
+| 2026-07-06 | 113000-P0-執行波 | 審計 P0 6/6 落地：5 sub-agent 平行改 → build+實拍+8-angle review 對抗驗證 → `38bba4246`| review 抓回 footer 誤刪 /about（#31 規模化）；agent 修正主 session 審計前提 | [→](memory/2026-07-06-113000-P0-執行波.md) |
+| 2026-07-06 | 124500-tokens-phase2 | tokens 第二階段：授權 tokens.css + 5 agent 遷 consumer，零視覺變更`91d1cd946`；A1 210px→var | pixel-diff 攔到 `bg-[var(gradient)]`→background-color 漸層消失（分類色實為 4 套） | [→](memory/2026-07-06-124500-tokens-phase2.md) |
