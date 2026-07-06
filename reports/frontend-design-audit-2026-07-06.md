@@ -117,7 +117,7 @@ Taiwan.md 的前端已經有一個**真實存在、且相當稀有的設計語�
 
 **方向**：tokens 第二階段，加三組語意層：
 
-1. `--cat-history … --cat-tech` 12 分類色（單一出處，JS через `getComputedStyle` 或 build-time 注入）；
+1. `--cat-history … --cat-tech` 12 分類色（單一出處，JS 經 `getComputedStyle` 讀取或 build-time 注入）；
 2. `--hero-gradient-data`、`--surface-dark-panel` 等場景 token；
 3. 狀態色 `--ok/--warn/--danger`（dashboard、immune、bench 共用）。
    完成後 §2.1 的 dark 推廣變成改 token 不改頁面。
