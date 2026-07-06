@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-06 | 115400-acer-evolve | 宏碁 EVOLVE ship：微笑曲線自我悖論脊椎／5 agent 研究 6413 字（`bb3e6a0b7`錯標）；修舊文 5 誤植 | 全套工作被平行 session 掃走；worktree 隔離才免疫共享 index race | [→](memory/2026-07-06-115400-acer-evolve.md) |
 | 2026-07-06 | 131500-dark-rollout | 深色全站推廣 D0+4 tier 約 24 template opt-in，淺色不變 invariant`355fe332e` | 驗證量綱每輪不同：深色用淺色實拍+目視+computed 複合尺；tokenization 地基回報遲一輪（glass auto-flip） | [→](memory/2026-07-06-131500-dark-rollout.md) |
 | 2026-07-06 | 231103-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 am 25.69→pm 26.47 破 5-cycle 上緣 26.13% vc=3；免疫 49 chronic；LagunaBeach cycle=2 | vc=3 該升歸因：am「回中段」被 pm 反證，下 cycle 需 top404 diff | [→](memory/2026-07-06-231103-twmd-data-refresh-pm.md) |
+| 2026-07-07 | 042046-twmd-babel-nightly | 58 shipped（10 bump / 15 patch / 33 cascade）；en/es 100%、3 lang 99.9%；`480c6c9d2` | codex nvm vc=2；gemma 同 provider 429；ollama 5-way → ko/fr 全 timeout | [→](memory/2026-07-07-042046-twmd-babel-nightly.md) |
