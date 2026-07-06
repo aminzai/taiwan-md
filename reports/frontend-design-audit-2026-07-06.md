@@ -4,7 +4,9 @@ description: '35 個頁面模板的設計 / 視覺 / UX 深度審計：10 條跨
 type: 'audit-report'
 status: 'active'
 date: 2026-07-06
+updated: 2026-07-06
 session: '2026-07-06-105116-設計視覺審計'
+p0_status: 'shipped 2026-07-06 (commit 38bba4246) — 6/6 P0 landed + verified'
 related:
   - 'docs/editorial/graph.md'
   - 'src/styles/tokens.css'
@@ -227,14 +229,17 @@ Taiwan.md 的前端已經有一個**真實存在、且相當稀有的設計語�
 
 ## 5. 優先序 roadmap（提案，待哲宇拍板）
 
-**P0（quick wins，各 ≤ 1 session，先做可立刻被感知）**
+**P0（quick wins，各 ≤ 1 session，先做可立刻被感知）— ✅ 全數落地 2026-07-06（commit `38bba4246`）**
 
-1. 空 Banner bug 修復（§2.9-2）
-2. Footer 升級全站 sitemap（§2.8-a）
-3. 文章頁 #1059 版位四連修（重複分類標籤 / 關鍵詞雲重疊 / 深色 TOC active / 回頂鈕）
-4. 手機語言切換器回到 Header（§2.7-4）
-5. skip-to-content + `:focus-visible` 補洞（§2.9-1）
-6. latest 佔位圖改分類色塊字卡（§2.10）
+1. ✅ 空 Banner bug 修復（§2.9-2）—`div` 包進 `hasEn` guard，啟動 script 對缺席 no-op
+2. ✅ Footer 升級全站 sitemap（§2.8-a）—5 欄，孤兒頁全接回；code-review 抓回誤刪的 `/about`
+3. ✅ 文章頁 #1059 版位四連修（重複分類標籤實為 6/13 已移除 / sidebar `max-h` 內捲不再被浮鈕遮 / 深色 TOC active 3px accent / 回頂鈕 >800px 淡入）
+4. ✅ 手機語言切換器（§2.7-4）—**審計「消失」判斷有誤**：實為排序 + 觸控目標 + 選單溢出，已修（原以為 `display:none`，那條打在殭屍 class 上）
+5. ✅ skip-to-content link（§2.9-1）—六語在地化 + token 樣式
+6. ✅ latest 佔位圖改分類色 tint + 襯線 drop-cap 首字（§2.10）
+
+> **落地方法**：5 個 sub-agent 平行改 disjoint 檔案領地 → 主 session `astro build` 7824 頁全綠 + 12+ 定點實拍雙主題雙視口 + 8-angle code-review 對抗驗證（1 confirmed regression = footer `/about` 已修）。詳見 [memory 2026-07-06-P0](../docs/semiont/memory/)。
+> **P0 遺留 follow-up debt**（進 P1）：`resources.aria.backToTop` 六語已存在但 ReaderSettings 自帶 STRINGS 又宣告一份（該檔既有 pattern，暫留）；ArticleSidebar 的 `210px` 浮動群保留高是跨檔 magic number（應在 §2.5 token 階段抽成 `--floating-cluster-reserve`）；`getLangSwitchPath` 的 `hasEn ?? true` 預設若誤判會讓 banner 指向 404 `/en`（比空殼輕，但值得 harden，REFLEXES #60）。
 
 **P1（結構工程，每項 1-3 session，決定下一階段質感天花板）** 7. tokens 第二階段：分類色 / 場景 / 狀態三組語意 token（§2.5，是 8/9 的前置）8. 深色模式推廣：Header/Footer/Banner 先行 → 首頁 → explore/latest → dashboard（§2.1）9. 資料室子品牌規格 + 九頁收編（§2.6）10. 首頁減深改版：cover story 上首屏 + 展覽廳獨立成頁 + 捲動導航（§2.2；先跑一週 section_view 基線）11. FOUC 策略改局部 swap（§2.3，與 #110/#401 併案）12. ArticleSnippet 統一件（§2.10；注意 memory: feedback_component_unification_boundary，逐消費頁計 prop 數，≥3 新 prop 的頁不硬遷）
 
@@ -277,4 +282,4 @@ npm run dev -- --port 4322
 
 ---
 
-_🧬 2026-07-06-105116-設計視覺審計 session。純分析報告，未動任何 src/ 檔案。_
+_🧬 2026-07-06-105116-設計視覺審計 session 產出分析；同日 sub-agent 執行波落地 P0 6/6（commit `38bba4246`）。P1/P2 仍為提案待哲宇拍板。_
