@@ -16,6 +16,12 @@ orchestrator 收到後壓成 ~6KB 主題摘要存 scratchpad，report §8 蒸發
   該過（agent 真 final message ×8）:       14-38KB / 軌跡 13-62 行
   → 體積分界 8KB、軌跡分界 10 行，兩側都有 ≥2x margin
 
+v2（2026-07-06 施振榮 corpus）：搜尋日誌有四種合法格式（inline 箭頭 / 編號 WebSearch /
+  編號 WebFetch / markdown 表），v1 軌跡 parser 只認箭頭 → §A/§B/§C/§D（33-77KB 完整報告）
+  全被誤判「軌跡 0-3 行 = 壓縮 FAIL」。兩處修：(1) 軌跡 parser section-scoped + 四格式通吃；
+  (2) 加「內容密集反訊號」——體積 ≥2×min_kb + 結構 ≥4/5 + (URL≥10 或「」引語≥30) 成立時，
+  軌跡類疑慮降 hard→warn（體積 gate 與存放位置維持 hard，真 stub<8KB 照樣 FAIL，柯智棠防護不動）。
+
 輸出 = 給呼叫 session 的疑慮通知：每條疑慮附「為什麼」+「可能的思考方向」。
 stdlib-only。
 
@@ -37,7 +43,15 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 # ── 訊號 regex ───────────────────────────────────────────────────────
 TRAIL_SECTION_RE = re.compile(
     r"#+\s*.*(搜尋(軌跡|紀錄|記錄|日誌)|軌跡|search\s*(log|trail)|query\s*log|逐條)", re.IGNORECASE)
-TRAIL_LINE_RE = re.compile(r"^\s*(\d+[\.、]|-)\s")
+# 搜尋日誌「一條 query」可能長成四種樣子（2026-07-06 施振榮 corpus 校準）：
+#   inline 箭頭：  - query → 一句話發現 → [source](URL)     （canonical）
+#   編號工具呼叫： 1. WebSearch「台積電 市值」               （§D）
+#   編號 fetch：   2. **WebFetch https://…**                （§A）
+#   markdown 表：  | 20 | WebFetch | verse.com.tw… |          （§C）
+# entry = 條目起手式（編號 / bullet / 表列）；signal = 帶搜尋語意的證據。兩者皆備才算一條軌跡。
+TRAIL_ENTRY_RE = re.compile(r"^\s*(?:\d+[\.、\)]|[-*]|\|)")
+QUERY_SIGNAL_RE = re.compile(r"→|「|https?://|WebSearch|WebFetch|\bquery\b|搜尋", re.IGNORECASE)
+QUOTE_RE = re.compile(r"「")
 CLAIMED_RE = re.compile(r"(\d+)\s*(?:次搜尋|次 web|searches|search(?:es)?\b|queries)", re.IGNORECASE)
 EPHEMERAL_RE = re.compile(r"/private/tmp/claude|/tmp/claude-|scratchpad/")
 URL_RE = re.compile(r"https?://[^\s\)\]\>\"'，。、；]+")
@@ -51,12 +65,36 @@ EXPECTED_SECTIONS = (
 )
 
 
+def _trail_section_lines(lines):
+    """抓出「搜尋軌跡/日誌」section 的內容行（header 之後到下一個同級或更高級 heading）。
+    section-scoped 計數避免把 Findings/引語庫 的表列誤當軌跡（whole-file 計數會虛胖）。"""
+    start_i, level = None, 2
+    for i, l in enumerate(lines):
+        if TRAIL_SECTION_RE.search(l):
+            hm = re.match(r"^\s*(#+)", l)
+            if hm:  # 必須是 heading 行才算 section 起點
+                start_i, level = i, len(hm.group(1))
+                break
+    if start_i is None:
+        return []
+    out = []
+    for l in lines[start_i + 1:]:
+        hm = re.match(r"^\s*(#+)\s", l)
+        if hm and len(hm.group(1)) <= level:
+            break
+        out.append(l)
+    return out
+
+
 def analyze(path: Path):
     txt = path.read_text(encoding="utf-8", errors="ignore")
     lines = txt.split("\n")
     size_kb = len(txt.encode("utf-8")) / 1024
-    trail_lines = sum(1 for l in lines if TRAIL_LINE_RE.match(l)
-                      and ("→" in l or "query" in l.lower()))
+    # 軌跡計數：section-scoped + 四格式通吃（編號/bullet/表列 + 搜尋語意）
+    section_lines = _trail_section_lines(lines)
+    trail_lines = sum(1 for l in section_lines
+                      if TRAIL_ENTRY_RE.match(l) and QUERY_SIGNAL_RE.search(l))
+    quotes = len(QUOTE_RE.findall(txt))  # 「」verbatim 引語密度 = 抗壓縮的內容訊號
     has_trail_section = bool(TRAIL_SECTION_RE.search(txt))
     claimed_m = CLAIMED_RE.search(txt)
     claimed = int(claimed_m.group(1)) if claimed_m else None
@@ -73,7 +111,7 @@ def analyze(path: Path):
     return dict(
         size_kb=round(size_kb, 1), trail_lines=trail_lines,
         has_trail_section=has_trail_section, claimed=claimed,
-        ephemeral_refs=ephemeral, urls=urls,
+        ephemeral_refs=ephemeral, urls=urls, quotes=quotes,
         sections=sections, sections_count=len(sections),
         in_repo=in_repo, path_ephemeral=path_ephemeral,
         path=str(path),
@@ -84,6 +122,23 @@ def grade(m, min_kb: float, min_trail: int, claimed_override):
     """回傳 concerns list。每條: (check, severity hard|warn, got, expect, why, directions[])"""
     concerns = []
     claimed = claimed_override or m["claimed"]
+
+    # ── 抗壓縮反訊號（v2, 2026-07-06 施振榮 corpus 修）──────────────────────
+    # 病灶：v1 只用「軌跡行數」判壓縮，但 agent 的搜尋日誌有四種合法格式（inline 箭頭 /
+    # 編號 WebSearch / 編號 WebFetch / markdown 表），後三種軌跡計數天生偏低 → 38KB 的
+    # 完整報告被誤判「壓縮鐵證 FAIL」（§B/§D 實例）。修法：先把軌跡 parser 放寬（analyze
+    # 已做），再加一道反訊號——一份「體積 ≥2×min_kb + 結構 ≥4/5 + 內容密集（URL≥10 或
+    # 「」引語≥30）」的報告，體積本身已排除柯智棠病（整份 stub 成 6KB）；此時軌跡稀疏多半
+    # 是 agent 摘要/改格式 query-trail、findings 完好 → 把軌跡類疑慮降 hard→warn（仍提醒補
+    # 軌跡，但不擋合成）。體積 gate 與存放位置維持 hard——真 stub（<8KB）照樣 FAIL，柯智棠
+    # 防護不鬆動。
+    substantive = (m["size_kb"] >= 2 * min_kb and m["sections_count"] >= 4
+                   and (m["urls"] >= 10 or m.get("quotes", 0) >= 30))
+    trail_sev = "warn" if substantive else "hard"
+    rich_note = (f"（本份 {m['size_kb']}KB / 結構 {m['sections_count']}/5 / "
+                 f"URL {m['urls']} / 「」{m.get('quotes', 0)} = 內容密集反訊號成立，"
+                 f"軌跡稀疏判為『agent 摘要 query-trail』非『整份 stub』，降 warn）"
+                 if substantive else "")
 
     if m["path_ephemeral"] or not m["in_repo"]:
         concerns.append((
@@ -106,18 +161,18 @@ def grade(m, min_kb: float, min_trail: int, claimed_override):
         ))
     if not m["has_trail_section"]:
         concerns.append((
-            "缺「搜尋軌跡」section", "hard",
+            "缺「搜尋軌跡」section", trail_sev,
             "無", "五段回報結構第一段",
-            "逐條 query→發現→URL 是分部報告的骨架；缺席通常是被重新組織成主題式摘要的簽名（壓縮的第一個犧牲品就是軌跡）",
+            "逐條 query→發現→URL 是分部報告的骨架；缺席通常是被重新組織成主題式摘要的簽名（壓縮的第一個犧牲品就是軌跡）" + rich_note,
             ["確認 spawn prompt 是否要求五段結構——沒要求就是 prompt 退化，補 Step 1.8-bis 模板",
              "從 notification / subagent transcript 找原始軌跡",
              "要求 agent 重報：只補「§X 搜尋軌跡（逐條）」段即可"],
         ))
     if m["trail_lines"] < min_trail:
         concerns.append((
-            f"逐條軌跡 {m['trail_lines']} 行低於分界 {min_trail} 行", "hard",
+            f"逐條軌跡 {m['trail_lines']} 行低於分界 {min_trail} 行", trail_sev,
             str(m["trail_lines"]), f"≥ {min_trail}",
-            "真實 final message 實測 13-62 行軌跡；壓縮版實測 2-9 行。軌跡行數是「壓縮與否」最直接的尺",
+            "真實 final message 實測 13-62 行軌跡；壓縮版實測 2-9 行。軌跡行數是「壓縮與否」最直接的尺（但四種搜尋日誌格式中僅 inline 箭頭型行數高，編號/表列/prose 型天生偏低）" + rich_note,
             ["同上——先驗 notification / transcript 是否有更完整版本",
              "對照宣稱搜尋數：宣稱高而軌跡少 = 壓縮或截斷的鐵證"],
         ))
@@ -186,7 +241,7 @@ def main():
 
     print(f"🔬 agent-report-health  {p}")
     print(f"   {m['size_kb']}KB / 軌跡 {m['trail_lines']} 行 / 來源 {m['urls']} / "
-          f"結構 {m['sections_count']}/5 / 宣稱搜尋 {args.claimed or m['claimed'] or '—'}")
+          f"「」{m['quotes']} / 結構 {m['sections_count']}/5 / 宣稱搜尋 {args.claimed or m['claimed'] or '—'}")
     if not concerns:
         print("   ✅ 無疑慮：體積、軌跡密度、結構、存放位置皆在真實 final message 級距")
     for check, sev, got, expect, why, directions in concerns:
