@@ -133,9 +133,11 @@ const normalizedContributors = contributors.map((contributor) =>
   keeps every interactive row geometrically outside the cluster zone,
   independent of content length. Mobile (max-lg, single column) drops the
   cap — the cluster sits below the flowed sidebar there, so no overlap.
+  210px reserve now sourced from --floating-cluster-reserve (tokens.css)
+  instead of a literal, so the two stay in sync by construction.
 -->
 <aside
-  class="sticky top-24 flex max-h-[calc(100dvh-6rem-210px)] flex-col overflow-y-auto pb-6 max-lg:max-h-none max-lg:overflow-visible max-lg:pb-0"
+  class="sticky top-24 flex max-h-[calc(100dvh-6rem-var(--floating-cluster-reserve))] flex-col overflow-y-auto pb-6 max-lg:max-h-none max-lg:overflow-visible max-lg:pb-0"
 >
   <!-- Reading meta -->
   <div

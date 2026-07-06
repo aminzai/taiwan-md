@@ -46,6 +46,16 @@ function countArticles(categorySlug: string): number {
   }
 }
 
+// TODO(2026-07-06 token-convergence wave): every `gradient` value below is a
+// DIFFERENT palette from src/utils/categoryConfig.ts / the --cat-{slug}-gradient
+// tokens in src/styles/tokens.css (0/12 byte-match — e.g. history here is
+// #f59e0b→#ea580c vs categoryConfig's #92400e→#d97706). This looks like an
+// intentional bespoke "waterfall" palette introduced in f41a6e5e3 (Tailwind
+// migration), not stale drift from a shared source — but flagging for an
+// explicit decision: keep as its own palette, or converge to the --cat-*
+// SSOT (would change rendered colors here). Not swapped this wave per the
+// zero-visual-change invariant.
+//
 // Each category carries its own header height (waterfall rhythm) and
 // gradient endpoints. Previously these lived in scoped CSS as
 // :nth-child() and [data-color=...] attribute selectors; moving them

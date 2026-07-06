@@ -141,19 +141,19 @@ function pct(rate: number | null): string {
 }
 
 function tierColor(tier: number | null): string {
-  if (tier === null || tier === undefined) return '#9ca3af'; // gray
-  if (tier >= 3.5) return '#4fd1b0'; // mint (high tier)
-  if (tier >= 2.0) return '#fbbf24'; // amber (mid)
-  if (tier >= 1.0) return '#fb923c'; // orange (low)
-  return '#ef4444'; // red (refuse / Tier 0-1)
+  if (tier === null || tier === undefined) return 'var(--status-tier-unknown)'; // gray
+  if (tier >= 3.5) return 'var(--status-tier-excellent)'; // mint (high tier)
+  if (tier >= 2.0) return 'var(--status-tier-good)'; // amber (mid)
+  if (tier >= 1.0) return 'var(--status-tier-fair)'; // orange (low)
+  return 'var(--status-tier-poor)'; // red (refuse / Tier 0-1)
 }
 
 function refusalColor(rate: number | null): string {
-  if (rate === null || rate === undefined) return '#9ca3af';
-  if (rate >= 0.5) return '#ef4444';
-  if (rate >= 0.2) return '#fb923c';
-  if (rate > 0) return '#fbbf24';
-  return '#4fd1b0';
+  if (rate === null || rate === undefined) return 'var(--status-tier-unknown)';
+  if (rate >= 0.5) return 'var(--status-tier-poor)';
+  if (rate >= 0.2) return 'var(--status-tier-fair)';
+  if (rate > 0) return 'var(--status-tier-good)';
+  return 'var(--status-tier-excellent)';
 }
 
 // Group cells by model for the matrix display

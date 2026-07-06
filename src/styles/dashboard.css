@@ -83,7 +83,7 @@
   gap: 0.8rem;
 }
 .vital-card {
-  background: rgba(255, 255, 255, 0.6);
+  background: var(--surface-glass);
   backdrop-filter: blur(12px);
   border: 1px solid rgba(0, 0, 0, 0.06);
   border-radius: 12px;
@@ -95,19 +95,19 @@
   border-left: 4px solid transparent;
 }
 .vital-card[data-vital='heartbeat'] {
-  border-left-color: #f87171;
+  border-left-color: var(--status-vital-heartbeat);
 }
 .vital-card[data-vital='cells'] {
-  border-left-color: #3b82f6;
+  border-left-color: var(--status-vital-cells);
 }
 .vital-card[data-vital='immunity'] {
-  border-left-color: #4ade80;
+  border-left-color: var(--status-vital-immunity);
 }
 .vital-card[data-vital='dna'] {
-  border-left-color: #8b5cf6;
+  border-left-color: var(--status-vital-dna);
 }
 .vital-card[data-vital='revision'] {
-  border-left-color: #f59e0b;
+  border-left-color: var(--status-vital-revision);
 }
 .vital-card:hover {
   transform: scale(1.02);
@@ -148,7 +148,7 @@
   border: 1px solid rgba(0, 0, 0, 0.12);
   border-radius: 8px;
   font-size: 0.9rem;
-  background: rgba(255, 255, 255, 0.6);
+  background: var(--surface-glass);
   backdrop-filter: blur(8px);
 }
 .registry-search:focus {
@@ -166,7 +166,7 @@
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   font-size: 0.8rem;
-  background: rgba(255, 255, 255, 0.6);
+  background: var(--surface-glass);
   cursor: pointer;
 }
 .registry-summary {
@@ -336,7 +336,7 @@
   gap: 1rem;
 }
 .organ-card {
-  background: rgba(255, 255, 255, 0.6);
+  background: var(--surface-glass);
   backdrop-filter: blur(12px);
   border: 1px solid rgba(0, 0, 0, 0.06);
   border-radius: 12px;
@@ -612,7 +612,7 @@
   align-items: center;
   gap: 0.6rem;
   padding: 0.6rem 0.8rem;
-  background: rgba(255, 255, 255, 0.5);
+  background: var(--surface-glass-backdrop);
   border-radius: 8px;
   border: 1px solid rgba(0, 0, 0, 0.04);
   font-size: 0.85rem;
@@ -892,7 +892,7 @@
   align-items: start;
 }
 .ca-chart {
-  background: rgba(255, 255, 255, 0.6);
+  background: var(--surface-glass);
   backdrop-filter: blur(12px);
   border: 1px solid rgba(0, 0, 0, 0.06);
   border-radius: 12px;
@@ -904,7 +904,7 @@
   gap: 1rem;
 }
 .ca-stat-card {
-  background: rgba(255, 255, 255, 0.6);
+  background: var(--surface-glass);
   backdrop-filter: blur(12px);
   border: 1px solid rgba(0, 0, 0, 0.06);
   border-radius: 12px;
@@ -1344,7 +1344,7 @@
   gap: 0.8rem;
 }
 .ga-stat-card {
-  background: rgba(255, 255, 255, 0.6);
+  background: var(--surface-glass);
   backdrop-filter: blur(12px);
   border: 1px solid rgba(0, 0, 0, 0.06);
   border-radius: 12px;
@@ -1394,7 +1394,7 @@
 .analytics-pages,
 .analytics-countries,
 .analytics-sources {
-  background: rgba(255, 255, 255, 0.6);
+  background: var(--surface-glass);
   backdrop-filter: blur(12px);
   border: 1px solid rgba(0, 0, 0, 0.06);
   border-radius: 12px;
