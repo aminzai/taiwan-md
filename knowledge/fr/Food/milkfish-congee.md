@@ -1,89 +1,94 @@
 ---
-title: "Pas apporté par Zheng Chenggong : quatre siècles d'élevage du milkfish"
-description: "Les habitants de Tainan appellent le milkfish « poisson domestique », mais son origine remonte à une technique d'aquaculture introduite par la Compagnie néerlandaise des Indes orientales depuis l'Indonésie, soit trente-sept ans avant l'arrivée de Zheng Chenggong. Les 4 500 hectares de bassins de Qigu et les sept méthodes de découpe et de préparation du poisson entier constituent des fossiles vivants de cette histoire d'élevage vieille de quatre siècles."
-date: '2026-07-02'
-author: 'Taiwan.md Contributors'
+title: 'Ce n’est pas apporté par Tchang Kaï-chek : quatre siècles d’élevage du milkfish'
+description: 'Les habitants de Tainan appellent le milkfish « poisson‑maison », mais son origine vient de la technique d’élevage introduite par la Compagnie néerlandaise des Indes orientales depuis l’Indonésie, trente‑sept ans avant l’arrivée de Tchang Kaï-chek à Taïwan. Les étangs de Qigu couvrent 4 500 ha, et plus de sept façons de préparer le poisson constituent le fossile vivant de ces quatre cents ans d’élevage.'
+date: 2026-07-02
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   [
     'Tainan',
     'milkfish',
     'Qigu',
     'aquaculture',
-    'Pays-Bas',
-    'snacks',
-    'petit-déjeuner',
+    'Pays‑bas',
+    'snack',
+    'petit‑déjeuner',
   ]
-readingTime: '7'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
+lastVerified: 2026-07-02
+lastHumanReview: false
+readingTime: 7
 translatedFrom: 'Food/虱目魚粥.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:162956900cab6d34'
 sourceBodyHash: 'sha256:a40f868b6fc53c66'
-translatedAt: '2026-07-06T00:39:49+08:00'
+translatedAt: '2026-07-07T00:38:22+08:00'
 ---
 
-À quatre heures du matin, les bassins de Qigu sont encore plongés dans l'obscurité. Les ouvriers, chaussés de bottes de caoutchouc, actionnent les vannes ; au bruit de l'eau, les bancs de poissons commencent à s'agiter. Le milkfish (虱目魚) supportant mal le froid, des dispositifs de chauffage sont requis en hiver, tandis qu'en été, la saison de récolte débute à l'aube. Sans cette collecte précoce, les stands de congee de Tainan devraient fermer boutique le lendemain matin. Cette chaîne d'approvisionnement, reliant Qigu à la rue Guohua, a déjà fait rouler son premier convoi il y a plus de trois siècles.
+À quatre heures du matin, les étangs de Qigu sont encore dans l’obscurité. Les ouvriers, chaussés de bottes en caoutchouc, ouvrent les vannes ; les bancs de poissons réagissent au bruit de l’eau et se mettent à bouger. Le milkfish ne supporte pas le froid ; en hiver, on doit installer des équipements d’isolation, tandis qu’en été la récolte commence à l’aube – si l’on ne pêchait pas, les stands de porridge du centre‑ville de Tainan ouvriraient leurs volets le lendemain matin. Cette chaîne d’approvisionnement, de Qigu à la rue Guohua, a déjà lancé son premier service il y a plus de trois cents ans.
 
-Ce poisson n'a aucun lien avec Zheng Chenggong.
+Ce poisson n’a aucun lien avec Tchang Kaï-chek.
 
-## L'histoire la plus poétique, mais aussi la moins exacte
+## L’histoire la plus agréable est aussi la moins exacte
 
-Selon la légende populaire, Zheng Chenggong arriva à Taïwan, son armée manquant de vivres. Sur les plages d'Anping, il aperçut un poisson et demanda à son entourage : « Quel poisson est-ce ? ». La prononciation minnan de « quel » se serait déformée en « shīmok » (虱目), donnant ainsi son nom au poisson.
+Le folklore raconte que, lorsqu’il arriva à Taïwan, Tchang Kaï-chek eut une pénurie de vivres. En bord de mer, à Anping, il aperçut un poisson et demanda à ses hommes « Quel poisson est‑ce ? » – le mot « quoi » en minnan aurait été déformé en « 虱目 », fixant ainsi le nom du poisson.
 
-Cette légende circule dans les parvis des temples, les manuels scolaires et les dépliants touristiques : elle est touchante, visuelle et mémorable. Pourtant, les historiens ont depuis longtemps souligné les incohérences : la Compagnie néerlandaise des Indes orientales introduisit la technique d'élevage du milkfish depuis l'Indonésie durant la période coloniale néerlandaise (1624–1662), soit au moins trente-sept ans avant l'arrivée de Zheng Chenggong en 1661. Les _Annales du préfet de Taïwan_ (1694), rédigées à la fin du XVIIe siècle, mentionnent déjà l'élevage du milkfish ; les premiers bassins se situaient aux abords de Lukangmen, dans les environs de l'actuel district d'Anping. Plus de quatre siècles d'histoire.
+Cette anecdote se répand dans les temples, les manuels scolaires et les brochures touristiques : elle est émotive, visuelle, facile à retenir. Mais les historiens ont depuis longtemps relevé le problème : la Compagnie néerlandaise des Indes orientales introduisit la technique d’élevage du milkfish depuis l’Indonésie pendant la période néerlandaise (1624‑1662), soit au moins trente‑sept ans avant l’arrivée de Tchang Kaï-chek en 1661. La fin du XVIIᵉ siècle, le « Taiwan Fu Zhi » (1694), mentionne déjà l’élevage du milkfish, les premiers sites se trouvant autour de Lukermen – aujourd’hui les environs du district d’Anping. Plus de quatre cents ans d’histoire.
 
-📝 Note du commissaire : La légende selon laquelle « Zheng Chenggong a apporté le milkfish » illustre précisément un fait : la vitalité d'un bon récit dépasse de loin celle des preuves historiques. Les Néerlandais ont importé la technique d'élevage, mais Zheng Chenggong s'est approprié le droit de le nommer.
+📝 Note du commissaire‑exposant : le mythe selon lequel le milkfish aurait été apporté par Tchang Kaï-chek illustre parfaitement qu’une bonne histoire possède une longévité bien supérieure aux preuves historiques. Les Néerlandais ont introduit la technique, Tchang Kaï-chek en a repris le droit de nommage.
 
-## Qigu : géographie des bassins
+## Qigu : la géographie des étangs
 
-Aujourd'hui encore, Tainan reste la plus grande zone de production de milkfish à l'échelle de l'île, représentant environ 50 % de la production nationale. Le cœur du dispositif se trouve dans le district de Qigu : plus de 4 500 hectares dédiés à l'aquaculture, répartis en plus de 6 000 bassins, un record national.
+Aujourd’hui, Tainan reste la plus grande zone de production de milkfish de Taïwan, représentant environ 50 % de la production nationale. Le cœur de cette production se situe dans le district de Qigu – plus de 4 500 ha d’étangs, plus de six mille puits, le plus grand chiffre du pays.
 
-La topographie de Qigu est déterminante : un littoral plat, un fond vaseux et une salinité modérée en font un site naturellement propice aux bassins. À environ quarante minutes de route du centre de Tainan, la route est bordée de plans d'eau ininterrompus. Des cigognes cendrées se tiennent sur les digues, tandis qu'au loin s'étend le détroit de Taïwan.
+Le relief de Qigu est déterminant : terrain côtier plat, fond limoneux, salinité modérée – des conditions naturelles idéales pour les étangs. À environ quarante minutes en voiture du centre‑ville de Tainan, les routes sont bordées d’étendues d’eau continues, des hérons cendrés se tiennent sur les digues, et au loin s’étend le détroit de Taïwan.
 
-La ligne droite séparant Anping des stands de congee sur la rue Guohua ne dépasse pas quinze kilomètres. En incluant Qigu, elle ne dépasse pas quarante kilomètres. Cette chaîne d'approvisionnement à courte distance constitue le fondement matériel de la fraîcheur et de l'accessibilité des petits-déjeuners au milkfish à Tainan.
+La distance en ligne droite entre Anping et la rue Guohua, où se trouvent les stands de porridge, ne dépasse pas quinze kilomètres. En partant de Qigu, elle ne dépasse pas quarante kilomètres. Cette chaîne d’approvisionnement courte constitue la base matérielle qui rend le milkfish de Tainan à la fois bon marché et frais pour le petit‑déjeuner.
 
-📝 Note du commissaire : Qigu ne se limite pas à l'élevage du milkfish ; il s'agit également de l'une des zones d'hivernage les plus importantes au monde pour la spatule noire (_Platalea minor_). Les enjeux écologiques de la protection des zones humides et les intérêts halieutiques s'y confrontent depuis longtemps : les bassins ne constituent pas seulement le point de départ de la nourriture, mais aussi un terrain de politique écologique.
+📝 Note du commissaire‑exposant : Qigu ne se contente pas d’élever le milkfish ; c’est aussi l’un des sites d’hivernage les plus importants au monde pour le héron à bec noir. La protection des zones humides et les intérêts de la pêche s’affrontent ici depuis longtemps – les étangs ne sont pas seulement le point de départ de l’alimentation, ils sont aussi le théâtre d’une politique écologique.
 
-## Anatomie d'un poisson entier
+## L’anatomie du poisson entier
 
-À Tainan, le milkfish se consomme sans gaspillage. Cette pratique est l'héritage de la logique des petits-déjeuners des ouvriers portuaires : chaque partie du poisson a sa destination précise.
+Les habitants de Tainan consomment le milkfish sans gaspillage. Cette logique provient de l’habitude des travailleurs portuaires au petit‑déjeuner : chaque partie du poisson a son usage.
 
-Le ventre (abdomen) est le plus gras ; la cuisson à sec est idéale, offrant une peau croustillante et une chair fondante, soit deux textures en une seule bouchée. Les filets (dos) sont parfaits pour le congee, apportant douceur, élasticité et arôme discret sans dominer le bouillon. La peau, riche en gélatine, convient idéalement aux soupes ; la texture légèrement collante sur les lèvres provient du collagène, et non d'additifs. Les intestins, frits à l'huile, sont croustillants et savoureux, mais exigent une fraîcheur absolue, rendant cette préparation difficile à reproduire à l'extérieur de la région. La tête, braisée ou mijotée dans une sauce soja, est riche en gélatine et se déguste lentement. Les œufs, disponibles uniquement en saison, se font frire ou mariner ; c'est un mets que seuls les habitués savent rechercher.
+- Le ventre (abdomen) est le plus gras, idéal pour la cuisson à sec, la peau devient croustillante tandis que la chair reste tendre – deux textures en une bouchée.
+- Les filets (chair dorsale) sont les meilleurs dans le porridge : fraîcheur, douceur et élasticité, un parfum léger qui ne domine pas.
+- La peau, riche en gélatine, convient aux soupes ; en la buvant, les lèvres deviennent légèrement collantes – c’est du collagène, pas un additif.
+- Les intestins, frits, sont croustillants et croquants, mais exigent une fraîcheur extrême ; ils sont difficiles à reproduire ailleurs.
+- La tête, braisée ou mijotée, regorge de gélatine, parfaite pour une cuisson lente.
+- Les œufs, disponibles uniquement pendant la saison, sont poêlés ou marinés, un mets que seuls les habitués recherchent.
 
-Chaque coupe est précise parce que chaque partie mérite d'être traitée individuellement.
+Chaque découpe est précise, car chaque partie mérite d’être traitée séparément.
 
-📝 Note du commissaire : La culture de la « consommation par parties » du milkfish repose fondamentalement sur une logique alimentaire ouvrière zéro déchet. Au stand de congee de Tainan, vous ne choisissez pas seulement un ingrédient, mais une compréhension différente d'un même poisson. Les clients qui commandent un « assortiment » sont des touristes ; ceux qui ont une préférence sont des habitués.
+📝 Note du commissaire‑exposant : la culture du « manger chaque partie » du milkfish repose sur une logique de zéro gaspillage propre aux repas des travailleurs. Au stand de porridge de Tainan, commander, ce n’est pas seulement choisir un ingrédient, c’est choisir une façon de comprendre le poisson. Les touristes optent souvent pour le « mixte », tandis que les habitués sélectionnent leurs parties préférées.
 
-## Le congee blanc à cinq heures du matin
+## Le porridge blanc à cinq heures du matin
 
-À cinq heures et demie, le stand de congee fait blanchir séparément chaque partie, les dispose dans de petites assiettes distinctes et les pose sur la table pour que le client les ajoute lui-même à son bol de riz blanc.
+Vers cinq heures trente, le stand de porridge cuit séparément chaque partie, les répartit dans de petites assiettes, puis les apporte à la table pour que le client les ajoute à son porridge blanc.
 
-Ce système de choix libre n'est pas une innovation culinaire, mais une question d'efficacité. Les ouvriers portuaires qui prennent leur petit-déjeuner n'ont pas le temps d'attendre que le cuisinier décide du contenu de votre bol. Les ingrédients sont disposés devant vous ; vous savez instinctivement ce qu'il vous faut compenser ou éviter ce jour-là. Une dépense physique élevée justifie un supplément d'intestins ; une soirée arrosée appelle un congee clair accompagné d'une soupe de peau de poisson.
+Ce système de libre‑service n’est pas une invention culinaire, mais une question d’efficacité. Les ouvriers du port prennent leur petit‑déjeuner sans le temps d’attendre que le chef décide ce qui ira dans leur bol. Les accompagnements sont déjà là ; le client sait ce qu’il doit ajouter pour compenser la fatigue du jour – plus d’intestins si le travail est intense, ou un bouillon de peau de poisson si la veille a été trop festive.
 
-La logique d'élevage d'il y a trois siècles résonne encore dans le rythme de ce matin.
+La logique d’élevage de trois cents ans vit encore aujourd’hui dans le rythme matinal.
 
-## Une étymologie toujours en suspens
+## Le nom reste un mystère
 
-L'origine exacte du terme « milkfish » (虱目魚) reste, à ce jour, sans consensus académique.
+L’origine du terme « milkfish » (虱目魚) n’est toujours pas tranchée par la communauté académique.
 
-Certains avancent une traduction phonétique issue du néerlandais ou du malais ; d'autres, après vérification, suggèrent qu'il pourrait dériver du minnan « xì mù » (細目), en référence aux yeux fins et denses du poisson ; d'autres encore estiment que les ouvriers des différentes zones d'élevage l'appelaient chacun différemment, avant que le minnan ne fige la dénomination.
+Certains avancent une transcription néerlandaise ou malaise ; d’autres suggèrent qu’il proviendrait du minnan « 細目 » (se‑mu), faisant référence aux yeux très fins du poisson. Il y a aussi la théorie selon laquelle chaque région d’élevage aurait donné son propre nom, qui se serait finalement fixé en minnan.
 
-La légende de Zheng Chenggong demandant « quel poisson » demeure la version la plus diffusée. Parfois, l'histoire la plus mémorable n'est pas la plus exacte — mais elle a permis à l'aquaculture d'il y a quatre siècles de laisser une trace, sur la table du petit-déjeuner de chacun, sous la forme d'un nom.
+L’histoire de Tchang Kaï-chek demandant « Quel poisson ? » demeure la version la plus répandue. Parfois, la meilleure histoire n’est pas la plus exacte – mais elle a permis à une industrie d’élevage datant de quatre cents ans de laisser son nom sur chaque table du petit‑déjeuner.
 
 ---
 
 ## Références
 
-- [Milkfish — Wikipédia](https://zh.m.wikipedia.org/zh-tw/%E8%99%B1%E7%9B%AE%E9%AD%9A)
-- [L'origine du nom « milkfish » et ses liens avec Zheng Chenggong ? — Food Next](https://www.foodnext.net/life/culture/paper/5098989327)
-- [« Une histoire de Tainan en marche » : le milkfish a enrichi les bassins et le matin des habitants de Fucheng — The News Lens](https://www.thenewslens.com/article/131368)
-- [La soupe de poisson de Tainan et le milkfish pourraient provenir d'importations européennes du XVIIe siècle — CNA](https://www.cna.com.tw/news/acul/202403060184.aspx)
-- [Regarder Taïwan à travers le milkfish (1ère partie) — Revue de la Société géographique de Chine](https://blog.geogsoc.org.tw/milk-fish-calvin-hung-1/)
-- [Devenir ouvrier pêcheur dans les bassins de Qigu à Tainan pour vivre la récolte de l'aube — Smile Taiwan](https://smiletaiwan.cw.com.tw/article/5955)
-- [Milkfish, tilapia, mérou : découvrez l'aquaculture qui enrichit nos tables ! — PanSci](https://pansci.asia/archives/174611)
-- [Aperçu des industries du district de Qigu — Bureau du district de Qigu, ville de Tainan](https://cigu.tainan.gov.tw/cp.aspx?n=6308)
-- [Milkfish de Tainan — Plateforme intégrée d'information sur l'éducation alimentaire et agricole (Ministère de l'Agriculture)](https://fae.moa.gov.tw/map/food_item.php?type=AS02&id=2&local_id=6)
+- [Milkfish — Wikipédia (zh)](https://zh.m.wikipedia.org/zh-tw/%E8%99%B1%E7%9B%AE%E9%AD%9A)
+- [« Le nom du milkfish et son lien avec Tchang Kaï-chek ? » — Food Next Future Food Report](https://www.foodnext.net/life/culture/paper/5098989327)
+- [« Histoire ambulante de Tainan : le milkfish a enrichi les étangs et les matins des habitants de la ville » — Critical Review Network](https://www.thenewslens.com/article/131368)
+- [« Le milkfish de Tainan pourrait provenir de produits importés d’Europe au XVIIᵉ siècle » — Central News Agency](https://www.cna.com.tw/news/acul/202403060184.aspx)
+- [« Voir le milkfish à travers Taïwan (Partie 1) » — Journal de la Société géographique de la République de Chine](https://blog.geogsoc.org.tw/milk-fish-calvin-hung-1/)
+- [« Expérience de pêche nocturne dans les étangs de Qigu » — Smile Taiwan](https://smiletaiwan.cw.com.tw/article/5955)
+- [« Milkfish, tilapia, grouper – découvrez les produits de la pêche qui arrivent sur nos tables » — PanSci](https://pansci.asia/archives/174611)
+- [« Profil industriel du district de Qigu » — Bureau du district de Qigu, ville de Tainan](https://cigu.tainan.gov.tw/cp.aspx?n=6308)
+- [« Milkfish de Tainan – Plateforme d’information sur l’éducation agro‑alimentaire (Ministère de l’Agriculture) »](https://fae.moa.gov.tw/map/food_item.php?type=AS02&id=2&local_id=6)

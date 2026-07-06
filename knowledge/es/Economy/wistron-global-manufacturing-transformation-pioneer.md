@@ -18,10 +18,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：緯創資通.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:7454eac8629fbffa'
-sourceBodyHash: 'sha256:6542e7615600861e'
-translatedAt: '2026-05-16T22:20:03Z'
+sourceCommitSha: 'ccee078e'
+sourceContentHash: 'sha256:a7fa219e195d7594'
+sourceBodyHash: 'sha256:ea0e1cf2dc2589bd'
+translatedAt: '2026-07-06T16:38:03Z'
 ---
 
 > **Panorama en 30 segundos**
@@ -40,7 +40,7 @@ Esta empresa, nacida de la escisión de Acer, está demostrando con sus ingresos
 
 ## Perfil corporativo: Del legado de Acer al gigante global de la manufactura por contrato
 
-Wistron Corporation fue fundada el 31 de mayo de 2001 como empresa independiente, resultado de la escisión de la división de manufactura por contrato del grupo Acer. El nombre de la empresa combina "wisdom" (sabiduría) y "electron" (electrón), reflejando la visión corporativa de servir a clientes globales con tecnología inteligente.
+Wistron Corporation fue fundada el 30 de mayo de 2001 como empresa independiente, resultado de la escisión de la división de manufactura por contrato del grupo Acer. El nombre de la empresa combina "wisdom" (sabiduría) y "electron" (electrón), reflejando la visión corporativa de servir a clientes globales con tecnología inteligente.
 
 **Estructura de negocios principal**:
 
@@ -241,6 +241,11 @@ En la nueva era de reestructuración de cadenas de suministro y relocalización 
 
 ---
 
+**Lecturas relacionadas**:
+
+- [Acer Group (Acer)](/economy/acer-pc-industry-pioneer) — la matriz de Wistron. El hermano menor de manufactura, el menos favorecido al momento de la escisión, superó en valor de mercado en la era de los servidores de IA a la propia Acer, que se concentró en la marca.
+- [Stan Shih](/people/stan-shih) — el fundador de Acer que decidió dividir la marca y la manufactura en dos empresas; una frase suya, "así que tú también pensabas eso", fue el gesto que hizo posible la independencia de Wistron.
+
 ## Referencias
 
 [^1]: [cnyes.com — Clasificación global de fabricantes EMS 2025](https://www.cnyes.com/) — Según los datos más recientes de 2025, Wistron se ha convertido en el segundo mayor fabricante EMS del mundo, solo por detrás del grupo Foxconn
@@ -251,4 +256,4 @@ En la nueva era de reestructuración de cadenas de suministro y relocalización 
 
 [^4]: [Informe de sostenibilidad ESG de Wistron 2024](https://esg.wistron.com/) — Ingresos de Wistron en 2024: 1,0049 billones de dólares taiwaneses, superando por primera vez la barrera del billón; beneficio neto de 17.400 millones, un máximo en 10 años
 
-[^5]: [Wikipedia — Wistron](https://zh.wikipedia.org/wiki/緯創資通) — Wistron se fundó el 31 de mayo de 2001 tras escindirse de la división de manufactura por contrato del grupo Acer, fundada por Lin Hsien-ming
+[^5]: [Wikipedia — Wistron](https://zh.wikipedia.org/wiki/緯創資通) — Wistron se fundó el 30 de mayo de 2001 tras escindirse de la división de manufactura por contrato del grupo Acer, fundada por Lin Hsien-ming

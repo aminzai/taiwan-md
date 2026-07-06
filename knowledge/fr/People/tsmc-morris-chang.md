@@ -5,15 +5,24 @@ date: 2026-03-17
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
-tags: ['personnes', 'Morris Chang', 'TSMC', 'semi-conducteurs', 'entrepreneur', 'fonderie de wafers', 'montagne sacrée protectrice de la nation']
+tags:
+  [
+    'personnes',
+    'Morris Chang',
+    'TSMC',
+    'semi-conducteurs',
+    'entrepreneur',
+    'fonderie de wafers',
+    'montagne sacrée protectrice de la nation',
+  ]
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:fca37099653d1002'
-sourceBodyHash: 'sha256:2c14d5f13ef3ba1c'
-translatedAt: '2026-05-17T05:34:56+08:00'
+sourceCommitSha: '7a66acd4'
+sourceContentHash: 'sha256:b1203b58fb6b7faa'
+sourceBodyHash: 'sha256:6d452360d79fae70'
+translatedAt: '2026-07-06T16:37:48Z'
 ---
 
 # Morris Chang (張忠謀)
@@ -384,6 +393,14 @@ Au moment de la retraite de Morris Chang en 2018, la capitalisation de TSMC dép
 De Ningbo, dans le Zhejiang, à Harvard puis au MIT, et de cadre dirigeant chez Texas Instruments à un retour à Taïwan à 54 ans en renonçant au confort de la vie américaine, chacun de ses tournants n'a pas été un choix majoritaire. Mais tous ont fini par pointer dans la même direction. La position actuelle de TSMC est à la fois le résultat de la concurrence technologique dans les semi-conducteurs et celui du pari que Morris Chang a pris en 1987 sur un modèle d'affaires auquel peu croyaient.
 
 En 2024, la capitalisation de TSMC dépasse les dix mille milliards de dollars taïwanais, faisant de l'entreprise l'une des sociétés technologiques les plus valorisées d'Asie. C'est une échelle difficile à imaginer lorsqu'il a pris ce pari en 1987, et la note explicative la plus claire de toute sa vie.
+
+## Lectures complémentaires
+
+- [台灣企業：台積電 (TSMC)](/economy/台灣企業：台積電) — La « montagne sacrée protectrice de la nation », fondée par lui en 1987 selon le modèle de la fonderie de wafers, aujourd'hui valorisée à plus de soixante mille milliards de dollars taïwanais ; l'entreprise elle-même reste la note explicative la plus complète sur Morris Chang.
+- [施振榮 (Stan Shih)](/people/施振榮) — Le fondateur d'Acer qu'il a invité à siéger au conseil d'administration de TSMC pendant vingt et un ans, et auteur du concept de la « courbe du sourire ». Or la « fabrication intermédiaire » de TSMC est précisément le segment que cette courbe jugeait le moins rentable — et qui s'est révélé, dans les faits, le plus précieux.
+- [郭台銘 (Terry Gou)](/people/郭台銘) — Un autre entrepreneur taïwanais qui a changé le monde par la « sous-traitance » : l'assemblage sous-traité de Foxconn et la fonderie de wafers de TSMC sont les deux voies par lesquelles l'industrie manufacturière taïwanaise a conquis le monde.
+- [半導體產業 (Industrie des semi-conducteurs)](/technology/半導體產業) — Du transfert de technologie de RCA en 1976 à la « montagne sacrée protectrice de la nation » : tout le champ de bataille industriel dans lequel Morris Chang a fait entrer Taïwan de ses propres mains.
+- [台灣產業轉型升級 (Transformation industrielle de Taïwan)](/economy/台灣產業轉型升級) — TSMC est l'exemple le plus concret du passage de Taïwan d'une « île de sous-traitance » à une « île technologique », et le repère central de cette transformation de quarante ans.
 
 ---
 

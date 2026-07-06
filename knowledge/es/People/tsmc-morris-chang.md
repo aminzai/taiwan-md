@@ -1,19 +1,28 @@
 ---
-title: "Morris Chang"
-description: "El padre de los semiconductores, fundador de TSMC, legendario empresario que cambió la industria tecnológica global con el modelo de fundición de obleas"
-date: "2026-03-17"
-author: "Taiwan.md"
-category: "People"
-subcategory: "科技與企業"
-tags: ["personas", "Morris Chang", "TSMC", "semiconductores", "empresario", "fundición de obleas", "montaña sagrada protectora del país"]
-lastVerified: "2026-03-19"
+title: 'Morris Chang'
+description: 'El padre de los semiconductores, fundador de TSMC, legendario empresario que cambió la industria tecnológica global con el modelo de fundición de obleas'
+date: '2026-03-17'
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '科技與企業'
+tags:
+  [
+    'personas',
+    'Morris Chang',
+    'TSMC',
+    'semiconductores',
+    'empresario',
+    'fundición de obleas',
+    'montaña sagrada protectora del país',
+  ]
+lastVerified: '2026-03-19'
 lastHumanReview: false
 featured: true
-translatedFrom: "People/張忠謀.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:fca37099653d1002"
-sourceBodyHash: "sha256:2c14d5f13ef3ba1c"
-translatedAt: "2026-05-17T05:34:54+08:00"
+translatedFrom: 'People/張忠謀.md'
+sourceCommitSha: '7a66acd4'
+sourceContentHash: 'sha256:b1203b58fb6b7faa'
+sourceBodyHash: 'sha256:6d452360d79fae70'
+translatedAt: '2026-07-06T16:38:03Z'
 ---
 
 # Morris Chang
@@ -384,6 +393,14 @@ Cuando Morris Chang se retiró en 2018, el valor de mercado de TSMC había super
 Desde Ningbo, Zhejiang, hasta Harvard y el MIT, y luego desde la alta dirección de Texas Instruments hasta renunciar a una vida cómoda en Estados Unidos a los 54 años para regresar a Taiwán, cada uno de sus giros no fue la opción dominante, pero todos terminaron apuntando en la misma dirección. La posición actual de TSMC es resultado de la competencia tecnológica en semiconductores, pero también de la apuesta que hizo en 1987 por un modelo de negocios en el que pocos creían.
 
 En 2024, el valor de mercado de TSMC superó los diez billones de dólares taiwaneses y la empresa se convirtió en una de las tecnológicas de mayor valor de mercado de Asia. Esa escala habría sido difícil de imaginar cuando hizo aquella apuesta en 1987, y es también la nota al pie más clara de toda su vida.
+
+## Lecturas relacionadas
+
+- [Empresa taiwanesa: TSMC](/economy/tsmc-taiwan-semiconductor) — la montaña sagrada protectora del país que fundó en 1987 con el modelo de fundición de obleas y que hoy supera los sesenta billones de dólares taiwaneses en valor de mercado; es en sí misma la nota al pie más completa de Morris Chang.
+- [Stan Shih](/people/stan-shih) — el fundador de Acer a quien invitó a ser director de TSMC durante veintiún años, y autor de la "Curva de la Sonrisa"; la "manufactura intermedia" que hace TSMC es precisamente el tramo que esa curva menospreciaba, pero que en la realidad resultó ser el más valioso.
+- [Terry Gou](/people/terry-gou) — otro empresario taiwanés que cambió el mundo mediante la "manufactura por contrato"; el ensamblaje por contrato de Foxconn y la fundición de obleas de TSMC son los dos caminos por los que la manufactura taiwanesa llegó al mundo.
+- [Industria de semiconductores](/technology/taiwan-semiconductor-industry) — el campo de batalla industrial completo al que Morris Chang conectó a Taiwán con sus propias manos, desde la transferencia tecnológica de RCA en 1976 hasta convertirse en la montaña sagrada protectora del país.
+- [Transformación y mejora industrial de Taiwán](/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC es el caso más concreto de la transformación de Taiwán de "isla de manufactura por contrato" a "isla tecnológica", y también la coordenada central de esos cuarenta años de transformación.
 
 ---
 

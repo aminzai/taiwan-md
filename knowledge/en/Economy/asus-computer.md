@@ -11,10 +11,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:0ccc026e68656219'
-sourceBodyHash: 'sha256:75185b47dc9292ea'
-translatedAt: '2026-05-15T13:52:05+08:00'
+sourceCommitSha: 'ccee078e'
+sourceContentHash: 'sha256:316e1a5e36d3a78b'
+sourceBodyHash: 'sha256:fa3c598a1e033a14'
+translatedAt: '2026-07-06T16:37:25Z'
 ---
 
 > **30-Second Overview**
@@ -174,6 +174,11 @@ ROG gaming laptops appearing at major global esports events, creators in Europe 
 The ASUS story tells us that in an era of globalization, small but highly specialized Taiwan can indeed create brands with worldwide influence. The key lies in insisting on innovation, pursuing quality, and never giving up the drive to refine the user experience to its fullest.
 
 ---
+
+**Further reading**:
+
+- [Taiwan Enterprises: Acer](/economy/台灣企業：宏碁) — A counterpart that took a different path to splitting off its brand. Acer spun off its contract manufacturing (Wistron) back in 2000, while ASUS didn’t spin off Pegatron until 2008 — the outcomes of these two paths became a classic debate in Taiwan’s electronics industry.
+- [Taiwan Enterprises: Wistron](/economy/台灣企業：緯創資通) — The contract manufacturer Acer spun off, much like Pegatron was for ASUS — both prove that the “abandoned middle stage” later climbed even higher.
 
 ## References
 

@@ -12,10 +12,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:0ccc026e68656219'
-sourceBodyHash: 'sha256:75185b47dc9292ea'
-translatedAt: '2026-05-15T13:52:05+08:00'
+sourceCommitSha: 'ccee078e'
+sourceContentHash: 'sha256:316e1a5e36d3a78b'
+sourceBodyHash: 'sha256:fa3c598a1e033a14'
+translatedAt: '2026-07-06T16:37:12Z'
 ---
 
 > **30秒概要**
@@ -175,6 +175,11 @@ ROGゲーミングノートパソコンが世界の主要eスポーツ大会に�
 ASUSの物語は、グローバル化の時代において、小さくとも精緻な台湾が、世界的な影響力を持つブランドを確かに生み出せることを私たちに示しています。鍵となるのは、革新を貫き、品質を追求し、ユーザー体験を極限まで高める姿勢を決して諦めないことです。
 
 ---
+
+**関連記事**：
+
+- [台湾企業：宏碁](/economy/台灣企業：宏碁) — もう一つの分社化路線をたどった対照例です。宏碁は2000年に受託製造部門（緯創）を切り離しましたが、ASUSが和碩を切り離したのは2008年でした。この二つの道の結果は、台湾電子業界における古典的な論争になっています。
+- [台湾企業：緯創資通](/economy/台灣企業：緯創資通) — 宏碁から分かれた受託製造の弟分です。ASUSから分かれた和碩と同様、「切り離された中間部分」がのちにより高く登り詰めることを証明しています。
 
 ## 参考資料
 

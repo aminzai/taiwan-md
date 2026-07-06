@@ -11,10 +11,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:0ccc026e68656219'
-sourceBodyHash: 'sha256:75185b47dc9292ea'
-translatedAt: '2026-05-15T13:52:06+08:00'
+sourceCommitSha: 'ccee078e'
+sourceContentHash: 'sha256:316e1a5e36d3a78b'
+sourceBodyHash: 'sha256:fa3c598a1e033a14'
+translatedAt: '2026-07-06T16:38:03Z'
 ---
 
 > **Panorama en 30 segundos**
@@ -174,6 +174,11 @@ Las laptops gamer ROG aparecen en los principales torneos de e-sports del mundo;
 La historia de ASUS nos dice que, en la era de la globalización, un Taiwán pequeño pero especializado sí puede crear marcas con influencia mundial. La clave está en insistir en la innovación, perseguir la calidad y no abandonar nunca la búsqueda extrema de una mejor experiencia de usuario.
 
 ---
+
+**Lecturas relacionadas**:
+
+- [Acer Group (Acer)](/economy/acer-pc-industry-pioneer) — el contraste que tomó otro camino de escisión. Acer separó su manufactura por encargo (Wistron) ya en 2000, mientras que ASUS no escindió Pegatron hasta 2008; el resultado de ambos caminos se convirtió en un debate clásico de la industria electrónica taiwanesa.
+- [Wistron](/economy/wistron-global-manufacturing-transformation-pioneer) — el hermano menor de manufactura escindido de Acer, que, al igual que Pegatron escindido de ASUS, demuestra que "la parte intermedia descartada" a veces termina llegando más alto.
 
 ## Referencias
 

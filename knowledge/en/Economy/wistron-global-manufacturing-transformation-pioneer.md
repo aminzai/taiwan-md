@@ -11,10 +11,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: Economy/台灣企業：緯創資通.md
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:7454eac8629fbffa'
-sourceBodyHash: 'sha256:6542e7615600861e'
-translatedAt: '2026-05-17T06:10:00Z'
+sourceCommitSha: 'ccee078e'
+sourceContentHash: 'sha256:a7fa219e195d7594'
+sourceBodyHash: 'sha256:ea0e1cf2dc2589bd'
+translatedAt: '2026-07-06T16:37:25Z'
 ---
 
 > **30-Second Overview**
@@ -33,7 +33,7 @@ This company, spun off from Acer, is using its trillion-NTD annual revenue and g
 
 ## Corporate Overview: From Acer DNA to Global Contract Manufacturing Titan
 
-Wistron Corporation was established on May 31, 2001, as an independent company spun off from the contract manufacturing division of the Acer Group. The company name combines "wisdom" and "electron," reflecting its corporate vision of serving global clients through intelligent technology.
+Wistron Corporation was established on May 30, 2001, as an independent company spun off from the contract manufacturing division of the Acer Group. The company name combines "wisdom" and "electron," reflecting its corporate vision of serving global clients through intelligent technology.
 
 **Core Business Structure**:
 
@@ -234,6 +234,11 @@ In the new era of supply chain restructuring and manufacturing reshoring, Wistro
 
 ---
 
+**Further reading**:
+
+- [Taiwan Enterprises: Acer](/economy/台灣企業：宏碁) — Wistron's parent. The least-favored manufacturing sibling at the time of the split, whose market cap has since surpassed the Acer brand entity that stayed focused on branding, in the AI server era.
+- [Stan Shih](/people/施振榮) — The Acer founder who made the call to split the brand and contract-manufacturing businesses into two companies; a single line — "so you thought the same thing" — set Wistron on its path to independence.
+
 ## References
 
 [^1]: [CNYES — 2025 Global EMS Manufacturer Rankings](https://www.cnyes.com/) — According to 2025 latest data, Wistron has risen to become the world's second-largest EMS manufacturer, trailing only Foxconn (Hon Hai) Group
@@ -244,4 +249,4 @@ In the new era of supply chain restructuring and manufacturing reshoring, Wistro
 
 [^4]: [Wistron ESG Sustainability Report 2024](https://esg.wistron.com/) — Wistron's 2024 revenue was NT$1.0049 trillion, surpassing the trillion-NTD threshold for the first time; net profit was NT$17.4 billion, a 10-year high
 
-[^5]: [Wikipedia — Wistron](https://zh.wikipedia.org/wiki/緯創資通) — Wistron was spun off from the Acer Group's contract manufacturing division on May 31, 2001, and founded by Lin Hsien-ming
+[^5]: [Wikipedia — Wistron](https://zh.wikipedia.org/wiki/緯創資通) — Wistron was spun off from the Acer Group's contract manufacturing division on May 30, 2001, and founded by Lin Hsien-ming

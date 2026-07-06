@@ -12,10 +12,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：華碩.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:0ccc026e68656219'
-sourceBodyHash: 'sha256:75185b47dc9292ea'
-translatedAt: '2026-05-15T13:52:06+08:00'
+sourceCommitSha: 'ccee078e'
+sourceContentHash: 'sha256:316e1a5e36d3a78b'
+sourceBodyHash: 'sha256:fa3c598a1e033a14'
+translatedAt: '2026-07-06T16:37:48Z'
 ---
 
 > **Aperçu en 30 secondes**
@@ -175,6 +175,11 @@ Les ordinateurs portables gaming ROG apparaissent dans les grandes compétitions
 L’histoire d’ASUS montre qu’à l’ère de la mondialisation, un Taïwan petit mais précis peut effectivement créer des marques dotées d’une influence mondiale. La clé réside dans la constance de l’innovation, la recherche de la qualité et le refus permanent de renoncer à l’exigence maximale en matière d’expérience utilisateur.
 
 ---
+
+**Lectures complémentaires** :
+
+- [台灣企業：宏碁 (Acer)](/economy/台灣企業：宏碁) — Le contre-exemple qui a choisi une autre voie de scission. Acer a séparé sa sous-traitance (Pegatron) dès 2000, tandis qu’ASUS n’a scindé Pegatron qu’en 2008 ; les résultats de ces deux trajectoires sont devenus un débat classique dans l’industrie électronique taïwanaise.
+- [台灣企業：緯創資通 (Wistron)](/economy/台灣企業：緯創資通) — Le « petit frère » de la sous-traitance issu de la scission d’Acer, qui, tout comme Pegatron issu d’ASUS, prouve que la partie « abandonnée » du milieu de chaîne finit souvent par grimper plus haut.
 
 ## Références
 

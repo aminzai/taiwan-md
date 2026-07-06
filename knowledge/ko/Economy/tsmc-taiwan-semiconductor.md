@@ -25,8 +25,8 @@ imageCredit: '쩡청쉰 (Tseng Cheng-Hsun) via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg'
 translatedFrom: Economy/台灣企業：台積電.md
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4ff65a51b539a939'
+sourceCommitSha: 'bb3e6a0b'
+sourceContentHash: 'sha256:aa38ca96cac05f3e'
 sourceBodyHash: 'sha256:6bdb1c40d1477a30'
 translatedAt: '2026-06-16T16:55:29Z'
 ---

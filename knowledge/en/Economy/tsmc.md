@@ -19,8 +19,8 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-09
 translatedFrom: 'Economy/台灣企業：台積電.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4ff65a51b539a939'
+sourceCommitSha: 'bb3e6a0b'
+sourceContentHash: 'sha256:aa38ca96cac05f3e'
 sourceBodyHash: 'sha256:6bdb1c40d1477a30'
 translatedAt: '2026-06-16T16:59:03Z'
 lastHumanReview: false

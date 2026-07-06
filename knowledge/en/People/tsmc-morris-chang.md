@@ -5,15 +5,24 @@ date: 2026-03-17
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
-tags: ['People', 'Morris Chang', 'TSMC', 'Semiconductors', 'Entrepreneur', 'Wafer Foundry', 'Sacred Mountain Protecting the Nation']
+tags:
+  [
+    'People',
+    'Morris Chang',
+    'TSMC',
+    'Semiconductors',
+    'Entrepreneur',
+    'Wafer Foundry',
+    'Sacred Mountain Protecting the Nation',
+  ]
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:fca37099653d1002'
-sourceBodyHash: 'sha256:2c14d5f13ef3ba1c'
-translatedAt: '2026-05-17T05:34:48+08:00'
+sourceCommitSha: '7a66acd4'
+sourceContentHash: 'sha256:b1203b58fb6b7faa'
+sourceBodyHash: 'sha256:6d452360d79fae70'
+translatedAt: '2026-07-06T16:37:25Z'
 ---
 
 # Morris Chang
@@ -384,6 +393,14 @@ When Morris Chang retired in 2018, TSMC's market capitalization had surpassed In
 From Ningbo, Zhejiang, to Harvard and MIT, and from senior executive at Texas Instruments to giving up a comfortable American life at age 54 to return to Taiwan, each of his turns was not the mainstream choice. Yet every outcome pointed in the same direction. TSMC's position today is both the result of competition in semiconductor technology and the result of the bet he placed in 1987 on a business model that few people believed in.
 
 In 2024, TSMC's market capitalization exceeded NT$10 trillion, making it one of Asia's most valuable technology companies. This scale would have been difficult to imagine when he made that bet in 1987, and it is the clearest annotation to his life's work.
+
+## Further Reading
+
+- [Taiwan Enterprises: TSMC](/economy/台灣企業：台積電) — The foundry company he founded in 1987 on the wafer-foundry model, now worth over NT$60 trillion; it is, in itself, the most complete annotation on Morris Chang
+- [Stan Shih](/people/施振榮) — The Acer founder he invited to serve as a TSMC director for twenty-one years, and the author of the "smiling curve"; the "mid-stage manufacturing" TSMC does is exactly the segment that curve wrote off, yet which turned out to be the most valuable in reality
+- [Terry Gou](/people/郭台銘) — Another Taiwanese entrepreneur who changed the world through contract manufacturing; Foxconn's assembly manufacturing and TSMC's wafer foundry are the two paths by which Taiwanese manufacturing went global
+- [Semiconductor Industry](/technology/半導體產業) — From the 1976 RCA technology transfer to the "silicon shield," the entire industrial battlefield Morris Chang personally connected Taiwan into
+- [Taiwan's Industrial Transformation and Upgrading](/economy/台灣產業轉型升級) — TSMC is the most concrete case of Taiwan's transformation from a "contract-manufacturing island" into a "technology island," and the central coordinate of this four-decade transformation
 
 ---
 
