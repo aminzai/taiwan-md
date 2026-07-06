@@ -85,11 +85,14 @@ call PERSONA-PIPELINE:
 
 ## §3 Modes（3 + extensible）
 
-| mode                 | caller                        | subject      | persona 動作                              | 輸出後處理（consume）                                                                                    |
-| -------------------- | ----------------------------- | ------------ | ----------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **research-diverge** | REWRITE 0.6.1-bis             | 題目 brief   | 聽到題目的冷反應問題（naive 想往哪挖）    | 每題標 🆕 新入射角（→ §切入點清單，Stage 1 必取材）/ ✅ 已被六題覆蓋 / ⛔ 超 scope（→ `whats_excluded`） |
-| **hook-select**      | SPORE Hook                    | 已 ship 文章 | 哪個角最 stop-the-thumb（哪句最想點進去） | rank → 最高共鳴角 = Hook Blueprint 開場問題候選                                                          |
-| **audience-check**   | （future）QUALITY / editorial | 成品 draft   | 讀得懂嗎 / 哪裡卡 / 哪個詞不熟            | 卡點清單 → 修 prose / 補 context / 換詞                                                                  |
+| mode                 | caller                                                                                                     | subject                  | persona 動作                                           | 輸出後處理（consume）                                                                                               |
+| -------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| **gap-audit** 🆕     | **REWRITE Step 1.9.7**（v7.7）                                                                             | **題目 + 研究報告 SSOT** | 看完研究後「我這種讀者還想知道什麼、哪個面向沒 cover」 | 🆕 真缺口 → 增補研究 + 加 facet / ✅ 已 cover / ⛔ 超 scope→`whats_excluded` / 🔴 反向閥門→回 Step 0.1.5 重判 spine |
+| **research-diverge** | ~~REWRITE 0.6.1-bis~~（v7.7 停用，因冷發散把主軸推向矛盾驅動，改 gap-audit 後置）；仍可供其他冷發散 caller | 題目 brief               | 聽到題目的冷反應問題（naive 想往哪挖）                 | 每題標 🆕 新入射角 / ✅ 已覆蓋 / ⛔ 超 scope（→ `whats_excluded`）                                                  |
+| **hook-select**      | SPORE Hook                                                                                                 | 已 ship 文章             | 哪個角最 stop-the-thumb（哪句最想點進去）              | rank → 最高共鳴角 = Hook Blueprint 開場問題候選                                                                     |
+| **audience-check**   | （future）QUALITY / editorial                                                                              | 成品 draft               | 讀得懂嗎 / 哪裡卡 / 哪個詞不熟                         | 卡點清單 → 修 prose / 補 context / 換詞                                                                             |
+
+**gap-audit vs research-diverge（v7.7 核心差別）**：research-diverge 給 persona **冷 brief**（naive 定調），放 Stage 0 會把主軸推向矛盾驅動（冷問題天生尖銳，施振榮 v1 教訓）；gap-audit 給 persona **完整研究報告 + 已成形的立體觀點**，問「還缺什麼」——從定調變補洞。REWRITE v7.7 起用 gap-audit（[Step 1.9.7](REWRITE-PIPELINE.md)）。
 
 新 mode 只要定義「persona 對 subject 做什麼動作 + 輸出怎麼被 consume」即可掛上，不動 §1 profiles / §2 implementation。
 
@@ -123,12 +126,12 @@ SPORE hook-select ──先讀──────────────┘ (reu
 
 ## §6 Callers（反向索引 — 誰在用）
 
-| caller                                                     | mode                 | 落點                                       | 版本                             |
-| ---------------------------------------------------------- | -------------------- | ------------------------------------------ | -------------------------------- |
-| [REWRITE-PIPELINE Step 0.6.1-bis](REWRITE-PIPELINE.md)     | research-diverge     | report §20 路 persona 切入點 → §切入點清單 | v7.9 thin caller                 |
-| [SPORE-PIPELINE 階段 1 PICK](../factory/SPORE-PIPELINE.md) | hook-select（reuse） | Hook Blueprint 開場問題                    | v3.10 thin caller（reuse-first） |
-| （future）QUALITY-CHECKLIST / EDITORIAL                    | audience-check       | 成品卡點 → prose 修補                      | —                                |
-| （future）fork onboarding                                  | —                    | 在地化 profiles（見 §7）                   | —                                |
+| caller                                                     | mode                  | 落點                                   | 版本                                            |
+| ---------------------------------------------------------- | --------------------- | -------------------------------------- | ----------------------------------------------- |
+| [REWRITE-PIPELINE Step 1.9.7](REWRITE-PIPELINE.md)         | **gap-audit**（v7.7） | report §讀者缺口稽核 → 增補 + 反向閥門 | v7.7 thin caller（研究後補洞，非 Stage 0 定調） |
+| [SPORE-PIPELINE 階段 1 PICK](../factory/SPORE-PIPELINE.md) | hook-select（reuse）  | Hook Blueprint 開場問題                | v3.10 thin caller（reuse-first）                |
+| （future）QUALITY-CHECKLIST / EDITORIAL                    | audience-check        | 成品卡點 → prose 修補                  | —                                               |
+| （future）fork onboarding                                  | —                     | 在地化 profiles（見 §7）               | —                                               |
 
 > caller 新增時在此登記（reverse index），改本原語前先看誰會受影響（#56 drift 防護）。
 

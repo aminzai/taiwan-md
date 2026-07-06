@@ -307,9 +307,10 @@ def grade(metrics, tier):
 
 
 def grade_stage0(m):
-    """Stage 0 觀點成型 exit gate — 三件套全到才進 Stage 1（哲宇 anti-drift 儀器化）。
-    核心：抓 persona-only drift —— 跑了 persona 卻跳過 0.6.1 六核心問題 + 0.6.4 ≥20 探索搜尋。
-    ≥10 distinct 來源是「≥20 探索真的發生」的 proxy（persona-only 只發散問題 → ~0 來源）。"""
+    """Stage 0 觀點成型 exit gate — 兩件套全到才進 Stage 1（哲宇 anti-drift 儀器化）。
+    v7.7（2026-07-06 施振榮）：persona 從 Stage 0 搬到研究報告後（REWRITE Step 1.9.7），
+    Stage 0 gate 不再要求 persona。兩件套＝六核心問題（立體觀點）+ ≥20 探索（事實地基）。
+    ≥10 distinct 來源是「≥20 探索真的發生」的 proxy。"""
     results = []
     hard = 0
 
@@ -322,10 +323,12 @@ def grade_stage0(m):
     chk("§觀點成型 section", m["has_viewpoint"], "缺 `## 觀點成型`")
     chk("frontmatter viewpoint_formed: true", m["viewpoint_formed"], "缺 `viewpoint_formed: true`")
     chk("六核心問題落檔結構 (≥4/6)", m["sixq"] >= 4, f"只有 {m['sixq']}/6 結構標記 (記憶/多元/脈絡/切入點/方向/矛盾)")
-    chk("§20 路 persona 切入點", m["has_persona"], "缺 persona 切入點 section")
     chk("搜尋日誌/探索紀錄 section", m["has_searchlog"], "缺 `### 探索搜尋紀錄`")
     chk("≥20 探索搜尋 (distinct 來源 ≥10 proxy)", m["distinct"] >= 10,
-        f"只有 {m['distinct']} distinct 來源 — persona-only？≥20 探索本該留 ≥10 來源")
+        f"只有 {m['distinct']} distinct 來源 — ≥20 探索本該留 ≥10 來源")
+    # persona 非 Stage 0 hard gate（v7.7 搬到研究後）；有就順帶記 info，沒有不扣分
+    results.append(("persona (v7.7 移到研究後 Step 1.9.7，Stage 0 不要求)",
+                    True, "" if m["has_persona"] else "（Stage 0 無 persona = 正常，研究後才跑）"))
     return results, hard
 
 

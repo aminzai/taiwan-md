@@ -115,7 +115,8 @@ upstream_canonical:
 
 | Gate                                    | 觸發 stage | 條件                                                 | 工具                                                                                                                                                                                                                                                                                                                  | 不過 = ?                   |
 | --------------------------------------- | ---------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| **§觀點成型落檔**                       | Stage 0 終 | depth article                                        | **`research-report-health.py {report} --stage 0`**（v7.3 儀器化三件套：觀點成型 + viewpoint_formed + 六核心結構 ≥4/6 + persona + 搜尋日誌 + ≥10 來源 proxy）。**persona-only（缺 ≥20 探索 → ~0 來源）= FAIL**                                                                                                         | **不進 Stage 1**           |
+| **§觀點成型落檔**                       | Stage 0 終 | depth article                                        | **`research-report-health.py {report} --stage 0`**（v7.7 兩件套：觀點成型 + viewpoint_formed + 六核心結構 ≥4/6 + 搜尋日誌 + ≥10 來源 proxy；**persona v7.7 移到研究後 Step 1.9.7，Stage 0 不要求**）。**缺 ≥20 探索 → ~0 來源 = FAIL**                                                                                | **不進 Stage 1**           |
+| **persona 讀者缺口稽核** 🫂             | Stage 1 終 | depth article                                        | Step 1.9.7：20 persona 對研究報告補洞 + 增補 + 反向閥門；增補後重跑 research-report-health                                                                                                                                                                                                                            | 不進 Stage 2（漏讀者視角） |
 | 核心矛盾鎖                              | Stage 1 終 | 所有 depth                                           | research report frontmatter manual                                                                                                                                                                                                                                                                                    | 不進 Stage 2               |
 | 研究報告落檔                            | Stage 1 終 | depth ≥ 2000 字                                      | manual ls + frontmatter `researchReport`                                                                                                                                                                                                                                                                              | 不進 Stage 2               |
 | **分部報告收件 gate** 📨                | Stage 1 中 | **每個研究 agent 回報、收到當下**                    | **`agent-report-health.py {file} --claimed {配額}`**（v7.8 儀器化 Step 1.8-bis 步 2：存放位置 repo 內 / 體積 ≥8KB / 逐條軌跡 section + ≥10 行 / 宣稱 vs 記錄比 / 五段結構 / ephemeral 引用；壓縮嫌疑=FAIL，每條疑慮附為什麼+思考方向）                                                                                | **不准開始合成 §6**        |
@@ -213,14 +214,14 @@ upstream_canonical:
 
 ### Stage × model tier × 派發
 
-| Stage                      | 誰做                                                       | model                                                         | 為什麼                                                                                                                                      | context 隔離                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| -------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **0.6 觀點成型**           | 1 sub-agent                                                | **Opus**                                                      | 觀點是最高判斷（這次失敗根因就是觀點被投毒）；探索搜尋加倍（≤ 10-15）                                                                       | callout case：blind to errata（不給 callout / 勘誤 / 舊 §觀點成型）                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **0.6.1-bis persona 發散** | 4 個 parallel sub-agent（4 軸各 5 persona）                | **Sonnet**                                                    | 20 路不同年齡/國籍/性別/處境讀者的冷反應問題撐開研究入射角；發散不 research（per [REFLEXES #42](../semiont/REFLEXES.md) 平行不 sequential） | 只給題目 brief（標題＋framing），**不給完整研究 / 舊文**——要 naive 冷反應                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **1 研究深挖**             | N 個 parallel sub-agent（按子領域切，每 agent 分搜尋配額） | **Sonnet**（breadth + extract；contested atom escalate Opus） | falsification-first；全篇 ≥ 80 次 + 4 來源配額（中≥40/英≥20/一手≥15/反方≥5）；結構化 verification table 落報告                              | **各 agent 回報完整搜尋軌跡 + raw findings（不自己摘要）；orchestrator 收到每個 agent 回報（async 模式＝task-notification `<result>`）的第一個動作 = verbatim 原封落檔（append report §8 或 repo 內 sibling raw 檔），才准開始合成 §6 clean fact-pack（疊加層，不替換 raw）。禁 aggregate-on-receive（收到就順手壓縮 = 鐵律 8 病）；禁存 scratchpad / /tmp（那是倒數計時的刪除佇列，不是落檔）**                                                                                                                                                                |
-| **2 寫正文**               | 1 個 **fresh** sub-agent                                   | **Opus**                                                      | 寫作 craft 最高判斷；fresh context 才乾淨                                                                                                   | **明確要求 writer 先 Read 整份 research report（§6 fact-pack ＋ §8 raw verbatim 全部）+ §觀點 + EDITORIAL + pipeline**；隔離的是**舊文 prose / callout / orchestrator 累積 context**，不是 report。⚠️ **禁止只貼 orchestrator 摘要的精簡 fact-pack 又叫 writer 別讀 report**（摘要漏 raw texture → 文章變爛）。**Evolution mode：writer 寫到 staging 檔 `reports/article-evolve/{slug}.md`，不 overwrite canonical**（Write overwrite 既有檔需先 Read ＝ 強迫 writer 讀舊文病毒）；主 session Stage 2.5 比對舊 vs 新才覆蓋 canonical（2026-06-15 哲宇 callout） |
-| **2.5 比對覆蓋**           | 主 session                                                 | **Opus orchestrator**                                         | Evolution mode only：確認新版沒丟舊文有價值素材且確實更好，再覆蓋                                                                           | 讀 staging 新版 ＋ 舊 canonical 做 diff，主 session 親手覆蓋 `knowledge/{cat}/{slug}.md`                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **3.5 查證**               | M 個 parallel verifier ＋ 主 session                       | **Sonnet**（查證機械可查、fan-out 便宜）                      | 每 atom 對一手 Ctrl-F，adversarial（prompted to falsify）；高風險 atom（引語/歸屬/獎項屆次）≥ 2 verifier                                    | 主 session（Opus orchestrator）跑 deterministic gate（article-health）＋ 最終 spot-check                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Stage                                                  | 誰做                                                       | model                                                         | 為什麼                                                                                                                                                     | context 隔離                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0.6 觀點成型**                                       | 1 sub-agent                                                | **Opus**                                                      | 觀點是最高判斷（這次失敗根因就是觀點被投毒）；探索搜尋加倍（≤ 10-15）                                                                                      | callout case：blind to errata（不給 callout / 勘誤 / 舊 §觀點成型）                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **1.9.7 persona 讀者缺口稽核**（v7.7 從 Stage 0 搬來） | 4 個 parallel sub-agent（4 軸各 5 persona）                | **Sonnet**                                                    | 研究後 gap-audit：20 路讀者看完研究報告「還想知道什麼、哪個面向沒 cover」→ 增補 + 反向閥門（per [REFLEXES #42](../semiont/REFLEXES.md) 平行不 sequential） | **給題目 brief + 研究報告 SSOT + 已成形立體觀點**（mode=gap-audit，非冷 brief）——補洞不定調                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **1 研究深挖**                                         | N 個 parallel sub-agent（按子領域切，每 agent 分搜尋配額） | **Sonnet**（breadth + extract；contested atom escalate Opus） | falsification-first；全篇 ≥ 80 次 + 4 來源配額（中≥40/英≥20/一手≥15/反方≥5）；結構化 verification table 落報告                                             | **各 agent 回報完整搜尋軌跡 + raw findings（不自己摘要）；orchestrator 收到每個 agent 回報（async 模式＝task-notification `<result>`）的第一個動作 = verbatim 原封落檔（append report §8 或 repo 內 sibling raw 檔），才准開始合成 §6 clean fact-pack（疊加層，不替換 raw）。禁 aggregate-on-receive（收到就順手壓縮 = 鐵律 8 病）；禁存 scratchpad / /tmp（那是倒數計時的刪除佇列，不是落檔）**                                                                                                                                                                |
+| **2 寫正文**                                           | 1 個 **fresh** sub-agent                                   | **Opus**                                                      | 寫作 craft 最高判斷；fresh context 才乾淨                                                                                                                  | **明確要求 writer 先 Read 整份 research report（§6 fact-pack ＋ §8 raw verbatim 全部）+ §觀點 + EDITORIAL + pipeline**；隔離的是**舊文 prose / callout / orchestrator 累積 context**，不是 report。⚠️ **禁止只貼 orchestrator 摘要的精簡 fact-pack 又叫 writer 別讀 report**（摘要漏 raw texture → 文章變爛）。**Evolution mode：writer 寫到 staging 檔 `reports/article-evolve/{slug}.md`，不 overwrite canonical**（Write overwrite 既有檔需先 Read ＝ 強迫 writer 讀舊文病毒）；主 session Stage 2.5 比對舊 vs 新才覆蓋 canonical（2026-06-15 哲宇 callout） |
+| **2.5 比對覆蓋**                                       | 主 session                                                 | **Opus orchestrator**                                         | Evolution mode only：確認新版沒丟舊文有價值素材且確實更好，再覆蓋                                                                                          | 讀 staging 新版 ＋ 舊 canonical 做 diff，主 session 親手覆蓋 `knowledge/{cat}/{slug}.md`                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **3.5 查證**                                           | M 個 parallel verifier ＋ 主 session                       | **Sonnet**（查證機械可查、fan-out 便宜）                      | 每 atom 對一手 Ctrl-F，adversarial（prompted to falsify）；高風險 atom（引語/歸屬/獎項屆次）≥ 2 verifier                                                   | 主 session（Opus orchestrator）跑 deterministic gate（article-health）＋ 最終 spot-check                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 ### 鐵律（這次 worked example 學到的）
 
@@ -314,28 +315,44 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 
 > 💡 **實際上 Evolution 模式 = Fresh 模式 + 免費的 Step 0.2 素材**。寫作品質完全相同，只是省了部分研究時間。
 
-### Step 0.1.5: spine 類型判定（v7.6 新增）⭐ 立體預設
+### Step 0.1.5: spine 類型判定（v7.7 重構）⭐ 立體群像是預設畫布
 
-> **為什麼這 step 存在**：Stage 0「找核心矛盾當脊椎」+ Step 1.4「找不到矛盾 = 不該重寫」對**爭議題 / 有內在張力的人物**逼得出洞見；但對**受愛戴的機構 / 傳統 / 集體記憶 / 地方**，硬找一個「矛盾」會**製造出一條 contrarian thesis**，把立體主題壓成論戰、容易炎上、跟「好好把這件事立體講好」違背。
+> **DNA 根**：[MANIFESTO §13 立體地愛](../semiont/MANIFESTO.md) — 立體群像不是「安全退路」，是這個生命體對世界與台灣的愛的表達。愛不粉飾，在愛之下仍看見真實與矛盾，但當厚度不當 gotcha。**幫大家多看見台灣好的、立體的面向，本身就是一種幫助台灣的方式。**
 >
-> **觸發**：2026-06-28 金曲獎 EVOLVE v1——Stage 0 把核心矛盾鎖成「官方獎卻把獎給賣不掉/聽不懂/拒領的聲音 → 跟會讓你消音的市場分道揚鑣」，整篇變批判論戰 + 把兩岸審查（島嶼天光騰訊跳過 / 巴奈天安門微博刪）當壓軸高潮。哲宇 callout「太批判、切入點不對、會炎上、跟立體講好違背」。v2 改立體群像 + 政治素材純中立紀實後才對。根因：(1) Stage 0 §核心矛盾 hard requirement 結構性推 thesis (2) research salience bias（爭議天生生出更多 source → fact-pack 偏 conflict）(3) MANIFESTO sovereignty lens 誤當 content thesis。對應 [LESSONS-INBOX 2026-06-28 spine-type-by-subject](../semiont/LESSONS-INBOX.md)。
+> **v7.7 重構（2026-07-06 施振榮）**：原 v7.6「立體群像 vs 矛盾驅動 二選一」升級為「**立體群像＝預設畫布 + 策展手法選單 + 矛盾驅動需明確理由才解鎖**」。原因：二選一把矛盾驅動放在跟立體平等的位置，會誘導「這人有張力 → 選矛盾驅動」的誤分類。觸發：施振榮 v1 用矛盾驅動把受敬重的台灣人寫成他自己理論的反例（事實全對，卻在替他做反例），哲宇 callout「會炎上、沒立體、過度放核心矛盾」。第 4 次 spine-type 誤判（法輪功 / 吳百福 / 金曲獎 v1 / 施振榮 v1，[REFLEXES #77](../semiont/REFLEXES.md)）。完整設計：[reports/design-立體群像-default-persona-reposition-2026-07-06.md](../../reports/design-立體群像-default-persona-reposition-2026-07-06.md)。
 
-**判完模式（0.1）後，判主題類別 → 選 spine 類型。觀點 ≠ 論戰——欣賞式 / 群像式也是策展觀點。**
+#### 預設：立體群像畫布
 
-| 主題類別                                                                           | spine 類型              | 觀點（0.6）怎麼長                                                                | 核心矛盾（1.4）怎麼處理                                                         |
-| ---------------------------------------------------------------------------------- | ----------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 爭議 / 政策辯論 / 醜聞 / 內在張力人物（自身選擇的拉扯）                            | **矛盾驅動**            | 找一個尖銳核心矛盾當脊椎，逼出洞見                                               | 必填一句 ≤ 30 字核心矛盾（原 Step 1.4 不變）                                    |
-| **受愛戴的機構 / 典禮 / 傳統 / 集體記憶 / 地方 / 工藝 / 多數人預設正面情感的主題** | **立體群像（default）** | 找一條溫暖的**組織主軸（through-line）**holding ≥ 4 個 facet；慶祝 + 理解 + 廣度 | **不逼尖銳矛盾**：改填「組織主軸一句 + ≥ 4 facet 清單」；有張力當其中一個 facet |
+**判完模式（0.1）後，預設走立體群像。** 立體群像＝先看見一個人／地方／事的多個面向，慶祝它、理解它、把它說得夠廣；永遠有一條**溫暖的組織主軸（through-line）**串 ≥ 4 個 facet。**觀點 ≠ 論戰**——欣賞式、群像式、好奇式都是策展觀點。
 
-**判準（一個問題）**：想像目標讀者，他們對這主題的**預設情感**是「欣賞 / 驕傲 / 懷念」還是「質疑 / 對立 / 未定」？欣賞 → **立體群像**；對立/未定 → 矛盾驅動。**拿不準 → 立體群像**（較安全，不會把中性主題寫成挑釁）。
+#### 畫布之下：7 種策展手法（選 1-2 給骨架，v7.7 全收）
 
-**立體群像 spine 的三條紀律**（避免又寫回論戰）：
+在立體群像畫布上，選一到兩種手法給它能量與形狀。**複合是常態**（立體群像為主 + 手法為輔）：
 
-1. **多面並陳**：天王天后 / 多元 / 制度 / 經典時刻 / 幕後等 facet 並列，不偏押一條。Stage 1 研究 + fact-pack **要主動配額 cover 慶祝/廣度面**，不只爭議面——對沖 salience bias（爭議天生生出更多 source，放任會讓文章偏 conflict）。
-2. **爭議當厚度不當主軸**：批評/爭議能進，但 framing 是「這個主題大到容得下這些討論 = vitality」，不是「我來證明它有問題」。
-3. **不把第三方主題寫成自己的宣言**：MANIFESTO 主權 lens 是給「我自己的多語基建」用的，不是寫第三方機構的拐杖。非政治主題不把政治/兩岸/主權當脊椎或壓軸（命中 §自主權邊界 → 見 [Step 0.6.7 self-check](#step-067-立體--炎上--政治立場-self-checkv76-新增-hard-gate)）。
+| #   | 手法           | 一句話                                                           | 適用                   |
+| --- | -------------- | ---------------------------------------------------------------- | ---------------------- |
+| 1   | 核心矛盾為輔   | 真實內在張力織成一個 facet 或次要軸，服務「理解」不是「拆穿」    | 人物／機構有真張力     |
+| 2   | 時代縮影       | 主體＝看更大台灣故事的一扇窗                                     | 代表一個轉變／世代     |
+| 3   | 傳承與世代     | 透過「從誰手上來、往誰手上去」寫                                 | 工藝／家族／運動／劇團 |
+| 4   | 感官場景沉浸   | 用可聞可看的場景堆，不用論點開場                                 | 食物／地方／文化       |
+| 5   | 多元視角並陳   | 2-3 個線性獨立視角並列成 facet，讀者自己同時握                   | 有真多元／政治敏感題   |
+| 6   | 不可取代的瞬間 | 錨在讓主體無法被替代的那個畫面／選擇，再往外長廣度               | 人物                   |
+| 7   | 好奇／謎題     | 真誠的「為什麼會這樣？」開場，立體地探索（**不是 gotcha 拆台**） | 有反直覺點的題         |
 
-**落檔**：research report frontmatter `spine_type: 立體群像 | 矛盾驅動`。
+#### 例外：矛盾驅動當主脊（需明確理由解鎖）
+
+**default 硬度（哲宇 2026-07-06 拍板）**：矛盾驅動當**整篇主脊**是例外，**只在真正的公共爭議 / 政策辯論 / 需要一個 thesis 才誠實的題目**解鎖，且必過 [Step 0.6.7](#step-067-立體--炎上--政治立場-self-checkv76-新增-hard-gate) 炎上 + SSODT 三讀者。**對「人物」幾乎永遠不當主脊**——人物一律立體群像 +（若有真張力）核心矛盾為輔（手法 1）。
+
+**解鎖判準（一個問題，翻轉自 v7.6）**：預設立體群像，問「**有沒有一個真公共爭議，需要一個 thesis 才能誠實處理？**」沒有（絕大多數）→ 立體群像 + 1-2 手法。有 → 在 research report 明確寫下 `unlock_reason`，才解鎖矛盾驅動主脊。**拿不準 → 立體群像。**
+
+#### 立體群像的四條紀律（避免寫回論戰 / 避免變平）
+
+1. **多面並陳**：facet 並列不偏押一條。Stage 1 研究 + fact-pack **主動配額 cover 慶祝／廣度面**，對沖 salience bias（爭議天生生出更多 source）。
+2. **爭議當厚度不當主軸**：批評／爭議能進，framing 是「這主題大到容得下這些討論 = vitality」，不是「我來證明它有問題」。
+3. **不把第三方主題寫成自己的宣言**：非政治主題不把政治／兩岸／主權當脊椎或壓軸（命中 §自主權邊界 → Step 0.6.7）。
+4. **立體 ≠ 平、≠ 百科**（v7.7 新增護欄）：立體不是「不用有觀點」——退回維基是失敗。7 手法就是確保每篇有一條會呼吸的主軸 + 一個 takeaway，只是那個 takeaway 是「原來如此、真好」不是「原來他有問題」。
+
+**落檔**：research report frontmatter `spine_type: 立體群像`（例外時 `矛盾驅動` + `unlock_reason: 一句話`）+ `curatorial_techniques: [手法 N, ...]`。
 
 ### Step 0.2: 既有素材萃取（條件式）
 
@@ -477,13 +494,14 @@ cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 > Stage 0 末、Stage 1 取材之前的最關鍵步驟。
 > 以**總編輯視角**做預編輯思考，產出 §觀點成型 落 research report。
 
-> 🚨 **Stage 0.6 = 三件都必做，缺一不進 Stage 1**（2026-06-13 哲宇 callout：v7.1 上線後有 session 只召喚 persona、跳過原本的探索搜尋與初步研究）：
+> 🚨 **Stage 0.6 = 兩件都必做，缺一不進 Stage 1**（v7.7 2026-07-06：persona 已從 Stage 0 移到研究後，見下）：
 >
-> 1. **0.6.1 六個核心問題** — 總編輯視角自問，必答落檔
-> 2. **0.6.1-bis 20 路 persona 切入點** — 借 20 顆讀者腦袋發散，**v7.1 額外新增，不取代** 0.6.1、不取代 0.6.4
-> 3. **0.6.4 ≥ 20 次探索搜尋** — 建 pre-search source map + 長出 grounded 觀點，**這才是「初步研究」本體**
+> 1. **0.6.1 六個核心問題** — 總編輯視角自問，形成立體觀點，必答落檔
+> 2. **0.6.4 ≥ 20 次探索搜尋** — 建 pre-search source map + 長出 grounded 立體觀點，**這才是「初步研究」本體**
 >
-> 三個是不同動作：**六題給編輯視角、persona 給讀者視角、≥20 探索給事實地基**，誰都不能省、誰都不能替代誰。**persona 只發散問題、不做 research（見 0.6.1-bis Cost guard）——只跑 persona 就當 Stage 0 做完 = 跳階段 = 違反 [MANIFESTO §8 有 SOP 不跳步驟](../semiont/MANIFESTO.md)。**
+> 兩個是不同動作：**六題給編輯視角形成立體畫布、≥20 探索給事實地基**，誰都不能省、誰都不能替代誰。
+>
+> **⚠️ persona（20 路讀者切入點）v7.7 搬到研究後**（[Step 1.9.7](#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)）：原本放 Stage 0（搜尋之前），但冷讀者天生問尖銳問題，放搜尋之前會把主軸往矛盾驅動推歪（施振榮 v1 教訓）。搬到研究報告 SSOT 之後，persona 從「發散定調」改成「讀者缺口稽核＋增補」——對已成形的立體觀點補洞，不再定調脊椎。設計：[reports/design-立體群像...](../../reports/design-立體群像-default-persona-reposition-2026-07-06.md)。
 
 #### Step 0.6.1: 六個核心問題（必答，落檔）
 
@@ -524,36 +542,15 @@ cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 
 見下方 §類型加權矩陣。
 
-#### Step 0.6.1-bis: 20 路 persona 切入點（[PERSONA-PIPELINE](PERSONA-PIPELINE.md) thin caller）⭐ v7.1 新增，v7.9 收斂為薄殼
+#### Step 0.6.1-bis: persona 已移到研究後（v7.7）→ 見 [Step 1.9.7](#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)
 
-> **depth article 必跑——跟 0.6.1 同觸發（非 conditional，不像 0.2-bis / 3.2-bis 要 callout 才啟動）。**
-> 0.6.1 是「總編輯一顆腦袋」自問六題；本 step 借 20 顆不同的腦袋，把研究入射角從 6 撐到 20+。
-> ⚠️ **本 step 是「額外發散」，不是 Stage 0 的全部、也不取代任何研究**（2026-06-13 哲宇 callout）：persona 只生成問題、不做 research。召喚完 persona **仍必須做 0.6.1 六核心問題 + 0.6.4 ≥ 20 次探索搜尋**——那才是初步研究本體。**只跑 persona 跳過探索研究 = 跳階段。**
+> **v7.7（2026-07-06 施振榮）**：persona 20 路讀者切入點原本放這裡（Stage 0，搜尋之前），v7.7 搬到 [Step 1.9.7](#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)（研究報告 SSOT 之後）。**Stage 0 不再跑 persona。**
 
-**Implementation canonical 在 [PERSONA-PIPELINE.md](PERSONA-PIPELINE.md)**（20 archetypes 原型表 §1 / call contract + 4-agent 平行實作 §2 / mode 定義 §3 / reuse-from-report SSOT 規則 §4 / cost guard §5，per [REFLEXES #42](../semiont/REFLEXES.md) + #31）。persona 是誰、4 agent 怎麼平行跑、輸出 schema 長怎樣——這些規則改了本節自動繼承新版本，不在此重複，per [MANIFESTO §指標 over 複寫](../semiont/MANIFESTO.md#我的進化哲學--指標-over-複寫)。本節只留三件 REWRITE 專屬的事：為什麼六題不夠、呼叫參數、輸出併回 REWRITE 自己 Stage 0 流程之後怎麼處理。
+**為什麼搬**：persona 的價值仍然成立——六題都從同一個總編輯視角長出，漏掉真實讀者（12 歲小孩、在台日本人、政治冷感工程師、海外台僑二代、挑硬傷的專家）天差地別的入射角。但**冷讀者天生問尖銳問題**，放在搜尋之前，那些尖角會變研究方向 → 變切入點 → Stage 1.4 找一個對得上的矛盾 → 脊椎天生長矛盾形。**persona-at-Stage-0 有內建的、偏矛盾驅動的重力**（施振榮 v1：persona 冷問「虧千億還被叫老師 / 交學費誰付」把脊椎推向矛盾驅動）。
 
-**為什麼六題不夠**：六個核心問題都從**同一個總編輯視角**長出，受同一套編輯品味 prime——問的是「我（策展人）覺得哪裡重要」。真實讀者不是策展人：12 歲小孩、在台日本人、政治冷感的工程師、海外台僑二代、會挑硬傷的領域專家，同一題目腦裡冒出的第一個問題天差地別，且常正好落在六題沒問到的角。只答六題 → 研究收斂到「編輯覺得重要的」，系統性漏掉「讀者真正好奇的」。這不是求 20 個答案，是求 **20 個不同的「往哪裡挖」**——神經迴路「Stage 1 的 20+ 是 anchor 密度不是數量」的 Stage 0 版。
+放研究後，同一句尖銳問題從「整篇該不該講這個」變「要不要加一個 facet 好好回應」——**從定調變補洞**，剛好接住 persona 誕生的 use case（2026-06-13《看不見的國家》ship 後哲宇追問「影響 / 心得 / 還在努力的人」三題，本質就是完成度缺口，正該在 ship 前被 persona 稽核接住）。
 
-**Worked example（本 step 的誕生事件，2026-06-13《看不見的國家》）**：文章 ship 後哲宇追問三題——「這部片對台灣有什麼**影響**？後續有哪些**心得**？有哪些相關的人/專案**還在努力**？」這正是「關心台灣、想立體認識的成年讀者」persona 會問的，而 0.6.1 六題沒覆蓋（六題問記憶/面貌/感受/脈絡/關聯/類型，沒問「上映後的世界後續 + 現在還在動的人」）。三題直接觸發 EVOLVE，長出兩節、4800→6630 字升 S 級。**這個入射角本該 Stage 0 就列入，卻等 ship 後才補。本 step 把「觀察者會不會追問」這個外部依賴，內化成 Stage 0 的自動發散。**
-
-**呼叫方式**（完整 contract 見 [PERSONA-PIPELINE §2](PERSONA-PIPELINE.md)）：
-
-```
-call PERSONA-PIPELINE:
-  subject_brief: 題目 brief（標題 + observer directive 一句 framing；EVOLVE 可加既有 30 秒概覽）
-  mode: research-diverge
-  profile_set: default 20
-```
-
-**輸出併回 REWRITE 流程（本節唯一 REWRITE-specific 邏輯——實作細節、agent null 補救見 PERSONA-PIPELINE §2）**：
-
-1. 收 PERSONA-PIPELINE 回傳的 20 persona，dedup / cluster 落 research report §觀點成型 的 **§20 路 persona 切入點** sub-section（格式見 Step 0.6.5）。
-2. 每題標分類（分類規則定義在 [PERSONA-PIPELINE §3](PERSONA-PIPELINE.md) research-diverge mode，此處只接線回 REWRITE 自己的文件）：🆕 新入射角 → merge 進 REWRITE 的 §切入點清單 + §研究方向，Stage 1.1 搜尋 coverage 自然含它們；✅ 已被六題覆蓋 → 記錄不重複；⛔ 超出本篇 scope → 落 `rationale.whats_excluded`。
-3. Stage 0 收尾 checklist 多一條驗收（persona pool 已落檔，見下）。
-
-**Cost guard**：觸發同 0.6.1；Micro / heal / 純翻譯不跑。其餘 cost 機制（4 agent 短輸出只發散不 research、reuse-from-report 優先於重新 spawn）見 [PERSONA-PIPELINE §5](PERSONA-PIPELINE.md)。
-
-**REWRITE 專屬反例**（sub-agent 派工的通用反例表見 [PERSONA-PIPELINE §2](PERSONA-PIPELINE.md)「❌ 反例」）：persona 問題直接當研究清單去搜 → 應該每題先標 🆕/✅/⛔，只有 🆕 才進 §切入點清單接 Stage 1 取材。
+**Stage 0 的研究廣度改由**：六核心問題（0.6.1）＋ ≥20 探索（0.6.4）＋ [Step 0.1.5](#step-015-spine-類型判定v77-重構--立體群像是預設畫布) 的 **7 手法選單**補——手法天然生出廣度與慶祝面的角度，不是尖角。編輯腦形成立體畫布，讀者腦（persona）研究後稽核完成度，乾淨的分工。
 
 #### Step 0.6.2: 七個品質維度 anchor
 
@@ -700,8 +697,9 @@ Stage 0 結束時 deliverable：
 - [x] 研究方法論已讀（Step 0.5）— `cat docs/editorial/RESEARCH.md` + `RESEARCH-TEMPLATE.md`
 - [x] §觀點成型 section 已寫進 research report（Step 0.6.5）
 - [x] 六個核心問題全答（Step 0.6.1）
-- [x] **Stage 0 探索搜尋 ≥ 20 query 已落 §探索搜尋紀錄（Step 0.6.4）— persona 不算搜尋，這是初步研究本體**
-- [x] 20 路 persona 切入點已落檔 + 🆕 題已 merge 進 §切入點清單（Step 0.6.1-bis）
+- [x] **Stage 0 探索搜尋 ≥ 20 query 已落 §探索搜尋紀錄（Step 0.6.4）— 這是初步研究本體**
+- [x] **spine 類型 + 手法選單已定（Step 0.1.5）**：立體群像 default + 1-2 手法；例外解鎖矛盾驅動須寫 `unlock_reason`
+- [x] ~~20 路 persona 切入點~~ **v7.7 移到研究後 [Step 1.9.7](#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)，Stage 0 不再跑 persona**
 - [x] 切入點清單 + 核心矛盾候選（矛盾驅動）**或 組織主軸 + ≥4 facet 清單（立體群像）** + 研究方向 已列
 - [x] **Step 0.6.7 三道 self-check 過（v7.6）**：SSODT 三讀者測試 + 炎上 self-check + 政治立場 self-check 全綠
 - [x] research report frontmatter `viewpoint_formed: true` + `spine_type: 立體群像 | 矛盾驅動`
@@ -1257,6 +1255,36 @@ python3 scripts/tools/yt-transcript.py clean path/to/file.vtt -o out.txt
 | -------------- | ---------------------- | ------------------------------------------- | ------------------------------------------------------------- |
 | 公視訪談 zh-TW | 公視新聞網 official YT | https://www.youtube.com/watch?v=f9DQuQ8EwVE | reports/research/2026-04/林琪兒-transcripts/transcript-zh.txt |
 ```
+
+#### Step 1.9.7: persona 讀者缺口稽核 + 增補（v7.7 新增，persona 從 Stage 0 搬來）🫂
+
+> **v7.7（2026-07-06 施振榮）**：persona 20 路讀者切入點從 Stage 0（[原 0.6.1-bis](#step-061-bis-persona-已移到研究後v77--見-step-197)）搬到這裡——研究報告 SSOT 組完之後、Stage 2 寫作之前。角色從「發散定調」改成「**讀者缺口稽核 + 增補**」。設計：[reports/design-立體群像...](../../reports/design-立體群像-default-persona-reposition-2026-07-06.md)。
+
+**觸發**：所有 depth article（Micro / heal / 純翻譯不跑）。前提：Step 1.7 研究報告 §6 fact-pack 已組好、Step 0 立體觀點已成形。
+
+**呼叫**（完整 contract + 20 archetypes + 4-agent 平行見 [PERSONA-PIPELINE](PERSONA-PIPELINE.md)）：
+
+```
+call PERSONA-PIPELINE:
+  subject_brief: 題目 brief + 研究報告 §6 fact-pack + §觀點成型（給 persona 讀，不是冷 brief）
+  mode: gap-audit          # v7.7 新 mode：對已成形的立體畫像補洞，不是冷發散定調
+  profile_set: default 20
+```
+
+**每個 persona 問的**（跟舊 research-diverge 的差別）：不是冷讀者的第一反應，是「**看完這份研究後，我這種讀者還想知道什麼？哪個我在意的面向沒被 cover？**」。20 顆讀者腦袋在一張已成形的立體畫像上找洞。
+
+**輸出處理（三分類 + 一個閥門）**：
+
+1. 🆕 **真缺口** → 起 targeted 增補搜尋（補這個 facet 的事實/場景/引語），把 finding 加進 report §3/§6。**增補後 report 變了，Step 1.9.5 收尾前重跑 [research-report-health gate](#step-17-研究報告--ssot對標研究所論文標準-)。**
+2. ✅ **已 cover** → 記錄不重複。
+3. ⛔ **超 scope** → 落 `rationale.whats_excluded`。
+4. 🔴 **反向閥門（立體 ≠ 迴避的自我糾正）**：如果 persona（尤其 D 軸挑硬傷/反方）揪出「這篇立體群像其實洗掉了一個真該被尖銳處理的公共爭議」→ 回 [Step 0.1.5](#step-015-spine-類型判定v77-重構--立體群像是預設畫布) 重判：要不要把那個爭議升成一個 substantial facet，或（罕見）解鎖矛盾驅動主脊。**這條讓立體 default 不變擋箭牌。**
+
+**為什麼放這裡而不是 Stage 0**：冷讀者天生問尖銳問題，放搜尋之前 → 尖角變研究方向 → 脊椎被推向矛盾驅動（施振榮 v1 教訓）。放研究後，同一句尖問變「要不要補一個 facet」而非「整篇該不該講這個」——從定調變補洞，且剛好接住 persona 誕生的 use case（《看不見的國家》ship 後哲宇追問三題＝完成度缺口，正該 ship 前被稽核接住）。
+
+**Cost guard**：4 Sonnet agent 短輸出（reuse-from-report 優先）；下游 caller（SPORE hook-select）reuse 同一份 persona pool，見 [PERSONA-PIPELINE §4-5](PERSONA-PIPELINE.md)。
+
+**落檔**：research report §讀者缺口稽核（20 persona × 分類 + 增補了什麼 + 反向閥門判斷）。
 
 #### Step 1.9.5: Stage 1 收尾 checklist
 
