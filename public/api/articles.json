@@ -7256,6 +7256,24 @@
     "path": "Economy/台灣企業：玉山金控.md"
   },
   {
+    "title": "台灣企業：宏碁 — 畫微笑曲線的人，自己最難站上兩端",
+    "description": "1992 年，施振榮在宏碁內部畫下一條開口向上的曲線，告訴全台灣製造業：別卡在附加價值最低的組裝中段，往研發與品牌兩端走。這句話影響台灣三十年。但畫線的人自己往品牌端衝的路上三度重摔——2000 年逼到大分家、2011 年衝上世界第二後庫存爆倉、2013 年一年虧 205 億逼六十八歲的創辦人回鍋。而當年被他切出去、最不被看好的代工小弟緯創，在 AI 時代爬到了微笑的頂端。",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "個人電腦",
+      "品牌",
+      "全球化",
+      "微笑曲線"
+    ],
+    "url": "https://taiwan.md/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AE%8F%E7%A2%81",
+    "readingTime": 66,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：宏碁.md"
+  },
+  {
     "title": "台灣企業：長春石化",
     "description": "1949年台南小工廠到全球化工巨頭，「不上市不借錢」的隱形冠軍故事",
     "category": "Economy",
@@ -8962,7 +8980,7 @@
       "高科技"
     ],
     "url": "https://taiwan.md/economy/%E5%8F%B0%E7%81%A3%E7%94%A2%E6%A5%AD%E8%BD%89%E5%9E%8B%E5%8D%87%E7%B4%9A",
-    "readingTime": 33,
+    "readingTime": 34,
     "featured": true,
     "date": "2026-03-19",
     "path": "Economy/台灣產業轉型升級.md"
@@ -11885,23 +11903,6 @@
     "path": "ja/People/wu-ming-yi.md"
   },
   {
-    "title": "宏碁集團 (Acer) - PC 產業的變革先驅",
-    "description": "從台灣台北起家的個人電腦先驅，創造「多品牌、多通路」商業模式，成為全球 PC 產業的變革引擎",
-    "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "個人電腦",
-      "品牌",
-      "全球化"
-    ],
-    "url": "https://taiwan.md/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AE%8F%E7%A2%81",
-    "readingTime": 20,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "Economy/台灣企業：宏碁.md"
-  },
-  {
     "title": "宏碁グループ (Acer) - PC産業の変革の先駆者",
     "description": "台湾台北を拠点とするパーソナルコンピュータの先駆者で、「マルチブランド・マルチチャネル」ビジネスモデルを生み出し、世界PC産業の変革エンジンとなった",
     "category": "ja",
@@ -14740,23 +14741,6 @@
   },
   {
     "title": "施振榮",
-    "description": "承認虧損千億的創業導師，微笑曲線背後的失敗哲學",
-    "category": "People",
-    "tags": [
-      "人物",
-      "企業家",
-      "科技",
-      "宏碁",
-      "微笑曲線"
-    ],
-    "url": "https://taiwan.md/people/%E6%96%BD%E6%8C%AF%E6%A6%AE",
-    "readingTime": 14,
-    "featured": false,
-    "date": "2026-03-22",
-    "path": "People/施振榮.md"
-  },
-  {
-    "title": "施振榮",
     "description": "千億台湾ドル超の損失を認めた起業メンター、スマイルカーブ背後の失敗哲学",
     "category": "ja",
     "tags": [
@@ -14771,6 +14755,25 @@
     "featured": false,
     "date": "2026-03-22",
     "path": "ja/People/stan-shih.md"
+  },
+  {
+    "title": "施振榮：從鹿港的鴨蛋攤，到一個叫台灣的品牌",
+    "description": "1981 年舊金山的一場電子展，一台闔起來像書的塑膠殼小電腦，讓 20 家美國經銷商圍著問代理權——那是很多台灣人第一次摸到「台灣自己做的電腦」。做這台電腦的人，父親在他三歲時過勞早逝，母親靠賣鴨蛋、愛國獎券把他養大。他把宏碁做到全球前五大 PC 品牌，畫出寫進教科書的微笑曲線，也是台灣少數願意站到鏡頭前說「我是最大的輸家」的科技教父。",
+    "category": "People",
+    "tags": [
+      "人物",
+      "施振榮",
+      "宏碁",
+      "微笑曲線",
+      "台灣科技業",
+      "企業家",
+      "鹿港"
+    ],
+    "url": "https://taiwan.md/people/%E6%96%BD%E6%8C%AF%E6%A6%AE",
+    "readingTime": 70,
+    "featured": true,
+    "date": "2026-03-22",
+    "path": "People/施振榮.md"
   },
   {
     "title": "柯文哲",
@@ -16777,7 +16780,7 @@
       "護國神山"
     ],
     "url": "https://taiwan.md/people/%E5%BC%B5%E5%BF%A0%E8%AC%80",
-    "readingTime": 36,
+    "readingTime": 37,
     "featured": true,
     "date": "2026-03-17",
     "path": "People/張忠謀.md"
@@ -19041,7 +19044,7 @@
       "科技"
     ],
     "url": "https://taiwan.md/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%8F%AF%E7%A2%A9",
-    "readingTime": 17,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-20",
     "path": "Economy/台灣企業：華碩.md"
@@ -21527,7 +21530,7 @@
       "ODM"
     ],
     "url": "https://taiwan.md/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%B7%AF%E5%89%B5%E8%B3%87%E9%80%9A",
-    "readingTime": 18,
+    "readingTime": 19,
     "featured": false,
     "date": "2026-03-20",
     "path": "Economy/台灣企業：緯創資通.md"

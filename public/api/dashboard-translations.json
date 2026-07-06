@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T22:12:19.578Z",
+  "lastUpdated": "2026-07-06T15:09:03.250Z",
   "languages": [
     "zh-TW",
     "en",
@@ -20,62 +20,62 @@
     "en": {
       "total": 844,
       "percentage": 100,
-      "fresh": 840,
-      "metadataStale": 0,
-      "stale": 4,
+      "fresh": 833,
+      "metadataStale": 2,
+      "stale": 9,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 99.5,
-      "bodyFreshPct": 99.5
+      "freshPct": 98.7,
+      "bodyFreshPct": 98.9
     },
     "ja": {
       "total": 843,
       "percentage": 99.9,
-      "fresh": 839,
-      "metadataStale": 0,
-      "stale": 4,
+      "fresh": 832,
+      "metadataStale": 2,
+      "stale": 9,
       "missing": 1,
       "orphan": 0,
       "deficit": 1,
-      "freshPct": 99.4,
-      "bodyFreshPct": 99.4
+      "freshPct": 98.6,
+      "bodyFreshPct": 98.8
     },
     "ko": {
       "total": 843,
       "percentage": 99.9,
-      "fresh": 839,
-      "metadataStale": 0,
-      "stale": 4,
+      "fresh": 832,
+      "metadataStale": 2,
+      "stale": 9,
       "missing": 1,
       "orphan": 0,
       "deficit": 1,
-      "freshPct": 99.4,
-      "bodyFreshPct": 99.4
+      "freshPct": 98.6,
+      "bodyFreshPct": 98.8
     },
     "es": {
       "total": 842,
       "percentage": 99.8,
-      "fresh": 838,
-      "metadataStale": 0,
-      "stale": 4,
+      "fresh": 831,
+      "metadataStale": 2,
+      "stale": 9,
       "missing": 2,
       "orphan": 0,
       "deficit": 2,
-      "freshPct": 99.3,
-      "bodyFreshPct": 99.3
+      "freshPct": 98.5,
+      "bodyFreshPct": 98.7
     },
     "fr": {
       "total": 842,
       "percentage": 99.8,
-      "fresh": 838,
-      "metadataStale": 0,
-      "stale": 4,
+      "fresh": 831,
+      "metadataStale": 2,
+      "stale": 9,
       "missing": 2,
       "orphan": 0,
       "deficit": 2,
-      "freshPct": 99.3,
-      "bodyFreshPct": 99.3
+      "freshPct": 98.5,
+      "bodyFreshPct": 98.7
     }
   },
   "matrix": {
@@ -196,39 +196,39 @@
     "economy": {
       "zh-TW": 56,
       "en": {
-        "count": 56,
-        "fresh": 56,
-        "stale": 0,
+        "count": 54,
+        "fresh": 51,
+        "stale": 3,
         "missing": 0,
-        "deficit": 0
+        "deficit": 2
       },
       "ja": {
-        "count": 55,
-        "fresh": 55,
-        "stale": 0,
+        "count": 53,
+        "fresh": 50,
+        "stale": 3,
         "missing": 1,
-        "deficit": 1
+        "deficit": 3
       },
       "ko": {
-        "count": 55,
-        "fresh": 55,
-        "stale": 0,
+        "count": 53,
+        "fresh": 50,
+        "stale": 3,
         "missing": 1,
-        "deficit": 1
+        "deficit": 3
       },
       "es": {
-        "count": 55,
-        "fresh": 55,
-        "stale": 0,
+        "count": 53,
+        "fresh": 50,
+        "stale": 3,
         "missing": 1,
-        "deficit": 1
+        "deficit": 3
       },
       "fr": {
-        "count": 56,
-        "fresh": 56,
-        "stale": 0,
+        "count": 54,
+        "fresh": 51,
+        "stale": 3,
         "missing": 0,
-        "deficit": 0
+        "deficit": 2
       }
     },
     "food": {
@@ -463,36 +463,36 @@
       "zh-TW": 235,
       "en": {
         "count": 235,
-        "fresh": 233,
-        "stale": 2,
+        "fresh": 231,
+        "stale": 4,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 235,
-        "fresh": 233,
-        "stale": 2,
+        "fresh": 231,
+        "stale": 4,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 235,
-        "fresh": 233,
-        "stale": 2,
+        "fresh": 231,
+        "stale": 4,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 235,
-        "fresh": 233,
-        "stale": 2,
+        "fresh": 231,
+        "stale": 4,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 233,
-        "fresh": 231,
-        "stale": 2,
+        "fresh": 229,
+        "stale": 4,
         "missing": 2,
         "deficit": 2
       }

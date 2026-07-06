@@ -1,47 +1,47 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-06T06:12:10+08:00",
-    "zhCommitHead": "9c84908e7",
+    "lastUpdated": "2026-07-06T23:08:54+08:00",
+    "zhCommitHead": "200fcaa34",
     "totalZh": 844,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 844,
-        "fresh": 840,
-        "stale": 4,
-        "metadata_stale": 0,
+        "fresh": 833,
+        "stale": 9,
+        "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 844,
-        "fresh": 839,
-        "stale": 4,
-        "metadata_stale": 0,
+        "fresh": 832,
+        "stale": 9,
+        "metadata_stale": 2,
         "missing": 1,
         "orphan": 0
       },
       "ko": {
         "total_zh": 844,
-        "fresh": 839,
-        "stale": 4,
-        "metadata_stale": 0,
+        "fresh": 832,
+        "stale": 9,
+        "metadata_stale": 2,
         "missing": 1,
         "orphan": 0
       },
       "es": {
         "total_zh": 844,
-        "fresh": 838,
-        "stale": 4,
-        "metadata_stale": 0,
+        "fresh": 831,
+        "stale": 9,
+        "metadata_stale": 2,
         "missing": 2,
         "orphan": 0
       },
       "fr": {
         "total_zh": 844,
-        "fresh": 838,
-        "stale": 4,
-        "metadata_stale": 0,
+        "fresh": 831,
+        "stale": 9,
+        "metadata_stale": 2,
         "missing": 2,
         "orphan": 0
       }
@@ -3257,9 +3257,9 @@
     },
     "Economy/台灣產業轉型升級.md": {
       "zh": {
-        "lastCommit": "cfaa22a5",
-        "lastModified": "2026-07-06T00:03:11+08:00",
-        "contentHash": "sha256:898eafb607a8e0d3",
+        "lastCommit": "bb3e6a0b",
+        "lastModified": "2026-07-06T13:31:39+08:00",
+        "contentHash": "sha256:9aa75ab5aaf39eb6",
         "bodyHash": "sha256:4a2bc57ff97cab00"
       },
       "translations": {
@@ -3274,8 +3274,10 @@
           "translationLastModified": "2026-07-06T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
@@ -3288,8 +3290,10 @@
           "translationLastModified": "2026-07-06T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
@@ -3302,8 +3306,10 @@
           "translationLastModified": "2026-07-06T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
@@ -3316,8 +3322,10 @@
           "translationLastModified": "2026-07-06T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
@@ -3330,8 +3338,10 @@
           "translationLastModified": "2026-07-06T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -6664,10 +6674,10 @@
     },
     "Economy/台灣企業：華碩.md": {
       "zh": {
-        "lastCommit": "24efd20f",
-        "lastModified": "2026-05-15T01:00:23+08:00",
-        "contentHash": "sha256:0ccc026e68656219",
-        "bodyHash": "sha256:75185b47dc9292ea"
+        "lastCommit": "ccee078e",
+        "lastModified": "2026-07-06T14:28:26+08:00",
+        "contentHash": "sha256:316e1a5e36d3a78b",
+        "bodyHash": "sha256:fa3c598a1e033a14"
       },
       "translations": {
         "en": {
@@ -6681,8 +6691,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+9 -0"
         },
         "ja": {
           "path": "ja/Economy/asus-computer.md",
@@ -6695,8 +6707,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+9 -0"
         },
         "ko": {
           "path": "ko/Economy/asus-computer.md",
@@ -6709,8 +6723,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+9 -0"
         },
         "es": {
           "path": "es/Economy/asus-computer.md",
@@ -6723,8 +6739,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+9 -0"
         },
         "fr": {
           "path": "fr/Economy/asus-computer.md",
@@ -6737,8 +6755,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+9 -0"
         }
       }
     },
@@ -6904,10 +6924,10 @@
     },
     "Economy/台灣企業：緯創資通.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:7454eac8629fbffa",
-        "bodyHash": "sha256:6542e7615600861e"
+        "lastCommit": "ccee078e",
+        "lastModified": "2026-07-06T14:28:26+08:00",
+        "contentHash": "sha256:a7fa219e195d7594",
+        "bodyHash": "sha256:ea0e1cf2dc2589bd"
       },
       "translations": {
         "en": {
@@ -6921,8 +6941,8 @@
           "translationLastModified": "2026-05-17T06:34:49+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ja": {
           "path": "ja/Economy/wistron-global-manufacturing-transformation-pioneer.md",
@@ -6935,8 +6955,8 @@
           "translationLastModified": "2026-05-17T06:34:49+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ko": {
           "path": "ko/Economy/wistron-global-manufacturing-transformation-pioneer.md",
@@ -6949,8 +6969,8 @@
           "translationLastModified": "2026-05-24T22:51:42+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "es": {
           "path": "es/Economy/wistron-global-manufacturing-transformation-pioneer.md",
@@ -6963,8 +6983,8 @@
           "translationLastModified": "2026-05-24T22:40:37+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "fr": {
           "path": "fr/Economy/wistron-global-manufacturing-transformation-pioneer.md",
@@ -6977,16 +6997,16 @@
           "translationLastModified": "2026-05-17T06:34:49+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         }
       }
     },
     "Economy/台灣企業：台積電.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:4ff65a51b539a939",
+        "lastCommit": "bb3e6a0b",
+        "lastModified": "2026-07-06T13:31:39+08:00",
+        "contentHash": "sha256:aa38ca96cac05f3e",
         "bodyHash": "sha256:6bdb1c40d1477a30"
       },
       "translations": {
@@ -7001,8 +7021,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Economy/tsmc-taiwan-semiconductor.md",
@@ -7015,8 +7037,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Economy/tsmc-taiwan-semiconductor.md",
@@ -7029,8 +7053,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Economy/tsmc-taiwan-semiconductor.md",
@@ -7043,8 +7069,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Economy/tsmc-taiwan-semiconductor.md",
@@ -7057,8 +7085,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -7144,10 +7174,10 @@
     },
     "Economy/台灣企業：宏碁.md": {
       "zh": {
-        "lastCommit": "24efd20f",
-        "lastModified": "2026-05-15T01:00:23+08:00",
-        "contentHash": "sha256:aeda1256394e6383",
-        "bodyHash": "sha256:6ba61f9dc892033c"
+        "lastCommit": "beb07b8e",
+        "lastModified": "2026-07-06T14:29:52+08:00",
+        "contentHash": "sha256:cd395bed8d239f41",
+        "bodyHash": "sha256:903fa4c14f6a516c"
       },
       "translations": {
         "en": {
@@ -7161,8 +7191,8 @@
           "translationLastModified": "2026-05-15T15:38:57+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (56→5)"
         },
         "ja": {
           "path": "ja/Economy/acer-pc-industry-pioneer.md",
@@ -7175,8 +7205,8 @@
           "translationLastModified": "2026-05-15T15:38:57+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (56→5)"
         },
         "ko": {
           "path": "ko/Economy/acer-pc-industry-pioneer.md",
@@ -7189,8 +7219,8 @@
           "translationLastModified": "2026-05-15T15:38:57+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (56→5)"
         },
         "es": {
           "path": "es/Economy/acer-pc-industry-pioneer.md",
@@ -7203,8 +7233,8 @@
           "translationLastModified": "2026-05-15T15:38:57+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (56→5)"
         },
         "fr": {
           "path": "fr/Economy/acer-pc-industry-pioneer.md",
@@ -7217,8 +7247,8 @@
           "translationLastModified": "2026-05-15T15:38:57+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (56→5)"
         }
       }
     },
@@ -36984,10 +37014,10 @@
     },
     "People/張忠謀.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:fca37099653d1002",
-        "bodyHash": "sha256:2c14d5f13ef3ba1c"
+        "lastCommit": "7a66acd4",
+        "lastModified": "2026-07-06T14:12:27+08:00",
+        "contentHash": "sha256:b1203b58fb6b7faa",
+        "bodyHash": "sha256:6d452360d79fae70"
       },
       "translations": {
         "en": {
@@ -37001,8 +37031,10 @@
           "translationLastModified": "2026-05-17T06:12:59+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "ja": {
           "path": "ja/People/tsmc-morris-chang.md",
@@ -37015,8 +37047,10 @@
           "translationLastModified": "2026-05-17T06:12:59+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "ko": {
           "path": "ko/People/tsmc-morris-chang.md",
@@ -37029,8 +37063,10 @@
           "translationLastModified": "2026-05-17T06:12:59+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "es": {
           "path": "es/People/tsmc-morris-chang.md",
@@ -37043,8 +37079,10 @@
           "translationLastModified": "2026-05-17T06:12:59+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "fr": {
           "path": "fr/People/tsmc-morris-chang.md",
@@ -37057,8 +37095,10 @@
           "translationLastModified": "2026-05-17T06:12:59+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         }
       }
     },
@@ -44482,10 +44522,10 @@
     },
     "People/施振榮.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:487d1e61a16e9b30",
-        "bodyHash": "sha256:bea7bd5b0ffc4d42"
+        "lastCommit": "648966ea",
+        "lastModified": "2026-07-06T15:01:52+08:00",
+        "contentHash": "sha256:4207f3d1db6eb633",
+        "bodyHash": "sha256:a0ff299644c9b0cc"
       },
       "translations": {
         "en": {
@@ -44499,8 +44539,8 @@
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (71→0)"
         },
         "ja": {
           "path": "ja/People/stan-shih.md",
@@ -44513,8 +44553,8 @@
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (71→0)"
         },
         "ko": {
           "path": "ko/People/stan-shih.md",
@@ -44527,8 +44567,8 @@
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (71→0)"
         },
         "es": {
           "path": "es/People/stan-shih.md",
@@ -44541,8 +44581,8 @@
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (71→0)"
         },
         "fr": {
           "path": "fr/People/stan-shih.md",
@@ -44555,8 +44595,8 @@
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (71→0)"
         }
       }
     },

@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-05T22:12:13Z",
+  "timestamp": "2026-07-06T15:08:57Z",
   "total": 844,
   "flagged": 338,
   "files": [
@@ -138,6 +138,11 @@
       "file": "economy/台灣企業：遠東集團.md",
       "score": 8,
       "reasons": "空洞詞10個; 未人工審核; 塑膠句7個; 套路結尾"
+    },
+    {
+      "file": "economy/台灣企業：宏碁.md",
+      "score": 4,
+      "reasons": "未人工審核; 破折號24個"
     },
     {
       "file": "technology/台灣無人機產業.md",
@@ -1083,11 +1088,6 @@
       "file": "people/李雅英.md",
       "score": 5,
       "reasons": "年份3個; 未人工審核; 塑膠句1個; 稀薄段落×4"
-    },
-    {
-      "file": "people/施振榮.md",
-      "score": 5,
-      "reasons": "年份4個; 未人工審核; 塑膠句1個; 稀薄段落×2"
     },
     {
       "file": "people/戴資穎.md",

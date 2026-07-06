@@ -1,7 +1,286 @@
 {
-  "generatedAt": "2026-07-05T22:12:14.414Z",
+  "generatedAt": "2026-07-06T15:08:58.275Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "200fcaa3430de2036d095d1ebeeff51492f29cb8",
+      "date": "2026-07-06T15:52:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 施振榮 session v3 追記 — DNA 進化（立體群像升 default + persona 後置 + MANIFESTO §13）+ deploy 修復入 memory",
+      "articles": []
+    },
+    {
+      "hash": "4f919e76d764e7096e7e03793eee5a29e7c68aa4",
+      "date": "2026-07-06T15:45:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: PERSONA-PIPELINE frontmatter/header 對齊 v7.7 gap-audit（原 step-061-bis 已停用）",
+      "articles": []
+    },
+    {
+      "hash": "02637140c9e1e0f0aadd9bd4950d389adf524634",
+      "date": "2026-07-06T15:44:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 立體群像升預設畫布 + persona 後置 + MANIFESTO §13 立體地愛",
+      "articles": []
+    },
+    {
+      "hash": "b5048a99e0f4931488cd2312bf20ed544ecab03c",
+      "date": "2026-07-06T15:26:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-06-131500-dark-rollout 收官 + 報告標 P1-8 深色 shipped",
+      "articles": []
+    },
+    {
+      "hash": "355fe332e75d4603929638f82f18607635d00895",
+      "date": "2026-07-06T15:23:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 深色模式推廣 Tier 3b（收尾）— 視覺化頁（data/opendata/map/lifetree×2/fork-graph）",
+      "articles": []
+    },
+    {
+      "hash": "648966eacc01105db7237e5b0c7eea9019b7fefe",
+      "date": "2026-07-06T15:01:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 2026-07-06-133221-施振榮-rewrite——我讀完了寫著教訓的規則還是犯了那個教訓",
+      "articles": [
+        {
+          "url": "/people/施振榮",
+          "name": "施振榮"
+        }
+      ]
+    },
+    {
+      "hash": "f60f66e0961da95b1e977e051c9c1c5ec984fbd8",
+      "date": "2026-07-06T14:59:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 深色模式推廣 Tier 3a — 儀表板 + 卡片頁（dashboard/companies/bench/taiwan-shape/soundscape/assets/mcp）",
+      "articles": []
+    },
+    {
+      "hash": "106778e41b230d8e580055923ef7f1ace05b0d8a",
+      "date": "2026-07-06T14:57:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 施振榮 memory v2 追記——哲宇 callout → 立體群像救回 + 兩 tool fix + #77 隔天違反教訓",
+      "articles": []
+    },
+    {
+      "hash": "06080ed14140d0a909766fda032cc8152a8c4b26",
+      "date": "2026-07-06T14:54:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: LESSONS +spine-type-by-subject vc=4——#77 canonical 隔天被違反（施振榮 v1 矛盾驅動→炎上→v2 立體群像救回）",
+      "articles": []
+    },
+    {
+      "hash": "0ff00ba08fadf4cb55750ef8505980032b7a3f37",
+      "date": "2026-07-06T14:51:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 施振榮 v2 立體群像重寫——哲宇 callout『會炎上/沒立體/過度放核心矛盾』修正",
+      "articles": [
+        {
+          "url": "/people/施振榮",
+          "name": "施振榮"
+        }
+      ]
+    },
+    {
+      "hash": "4f0cf9b4a4c90ce88162adb1976f85d3fdffab61",
+      "date": "2026-07-06T14:32:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 深色模式推廣 Tier 2 — meta 頁（about/contribute/changelog/resources/terminology×3/404/projects）",
+      "articles": []
+    },
+    {
+      "hash": "beb07b8e24ec7aeb2842ae1af2bf4418a49b2309",
+      "date": "2026-07-06T14:29:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-06-115400-acer-evolve — 宏碁 EVOLVE 收官 + 多核心 index 污染反芻",
+      "articles": [
+        {
+          "url": "/economy/台灣企業：宏碁",
+          "name": "台灣企業：宏碁"
+        }
+      ]
+    },
+    {
+      "hash": "ccee078efc7535cd91971d95b74b6ab58e73bc57",
+      "date": "2026-07-06T14:28:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: agent-report-health 軌跡 parser 四格式通吃 + 內容密集反訊號",
+      "articles": [
+        {
+          "url": "/economy/台灣企業：緯創資通",
+          "name": "台灣企業：緯創資通"
+        },
+        {
+          "url": "/economy/台灣企業：華碩",
+          "name": "台灣企業：華碩"
+        }
+      ]
+    },
+    {
+      "hash": "7a66acd4f38ec3335c7535fa00e1a83f359ca122",
+      "date": "2026-07-06T14:12:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 為張忠謀補延伸閱讀區塊——完成與施振榮的雙向延伸閱讀",
+      "articles": [
+        {
+          "url": "/economy/台灣企業：緯創資通",
+          "name": "台灣企業：緯創資通"
+        },
+        {
+          "url": "/economy/台灣企業：華碩",
+          "name": "台灣企業：華碩"
+        },
+        {
+          "url": "/people/張忠謀",
+          "name": "張忠謀"
+        }
+      ]
+    },
+    {
+      "hash": "6ccbb1b283baa48915fd77d05e32cf87dfea52d1",
+      "date": "2026-07-06T13:46:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 深色模式推廣 Tier 1 — 閱讀面（首頁/explore/latest）+ D0 token 深色值",
+      "articles": []
+    },
+    {
+      "hash": "40db666904b3e734b3c0fd1facf6a701ed390e90",
+      "date": "2026-07-06T13:35:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-06-133221-施振榮-rewrite — 施振榮 EVOLVE 全 pipeline ship 收官",
+      "articles": []
+    },
+    {
+      "hash": "bb3e6a0b74d26b0f02c6b02c4064031674a3fe4e",
+      "date": "2026-07-06T13:31:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] cross-link: 為「施振榮」建立雙向延伸閱讀",
+      "articles": [
+        {
+          "url": "/economy/台灣企業：台積電",
+          "name": "台灣企業：台積電"
+        },
+        {
+          "url": "/economy/台灣企業：宏碁",
+          "name": "台灣企業：宏碁"
+        },
+        {
+          "url": "/economy/台灣產業轉型升級",
+          "name": "台灣產業轉型升級"
+        }
+      ]
+    },
+    {
+      "hash": "bf8cb4795f6f9a3605ed7eec2e4d3dc7bd124859",
+      "date": "2026-07-06T13:31:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 施振榮 EVOLVE — 微笑曲線教父把身家押在台積電，一個把失敗攤在陽光下的矛盾一生",
+      "articles": [
+        {
+          "url": "/people/施振榮",
+          "name": "施振榮"
+        }
+      ]
+    },
+    {
+      "hash": "cb57b952b275978ef23b08bb90267de30c6b9a95",
+      "date": "2026-07-06T13:09:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: LESSONS +verify-gate-must-match-failure-dimension（tokens-phase2 bg-[var] gradient 陷阱）",
+      "articles": []
+    },
+    {
+      "hash": "321aea118be4beb6526a82cbe042d8deb41027c4",
+      "date": "2026-07-06T13:07:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-06-124500-tokens-phase2 收官 + 報告標 P1-7 shipped",
+      "articles": []
+    },
+    {
+      "hash": "91d1cd946bda585f1c49ee6992ac4d80120542bb",
+      "date": "2026-07-06T13:04:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: tokens 第二階段 — 分類/狀態/場景語意 token + A1 債務（零視覺變更）",
+      "articles": []
+    },
+    {
+      "hash": "15bfdd4ba578c7a4571aaa3328076205f981724a",
+      "date": "2026-07-06T12:47:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 施振榮 EVOLVE 研究落檔（Stage 0-1）——脊椎鎖定微笑曲線教父把身家押在台積電，六路 agent fan-out 攔下市值 60→640 倍錯算、葡式蛋撻與太陽花兩處杜撰",
+      "articles": []
+    },
+    {
+      "hash": "60f37ffe1ab2675d365b9f4de5da7b1330f7b771",
+      "date": "2026-07-06T12:16:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-06-113000-P0-執行波 — 審計 P0 6/6 sub-agent 平行落地 + 三層對抗驗證收官",
+      "articles": []
+    },
+    {
+      "hash": "030b0bce7008cd8c58f82c5a896cd8e1414cd70c",
+      "date": "2026-07-06T12:13:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 審計報告標 P0 6/6 shipped + follow-up debt 移入 P1",
+      "articles": []
+    },
+    {
+      "hash": "38bba4246b40b41eaba4ccb7784f0d3601093d6f",
+      "date": "2026-07-06T12:11:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: P0 六項前端修復 — 審計 roadmap 第一波落地",
+      "articles": []
+    },
+    {
+      "hash": "d153bfef5cfb820e2b643a6a0792639ae025b3eb",
+      "date": "2026-07-06T11:12:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 審計報告修一處誤植外文字（через→經）",
+      "articles": []
+    },
+    {
+      "hash": "8c9f28f21adc83264313594e7c9cd0f6377b3a92",
+      "date": "2026-07-06T11:12:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diagnose: 前端全站設計視覺審計歸檔 — 35 template / 10 跨頁發現 / P0-P2 roadmap 17 項",
+      "articles": []
+    },
+    {
+      "hash": "09a394791dbf721a8172769361dc844e787987d8",
+      "date": "2026-07-06T08:43:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-06-084042-twmd-maintainer-am — am 08:30 首次全空 (0 PR + 0 fresh issue) morning-chain-absorbs-maintainer-am vc=1",
+      "articles": []
+    },
+    {
+      "hash": "dc2d985c1f06871545c3eee4b31180982b32a83b",
+      "date": "2026-07-06T07:10:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 0 新回報 empty-queue no-op — 2026-07-06",
+      "articles": []
+    },
+    {
+      "hash": "3722f66fcb2bf0003262191422ed78a62ef84c81",
+      "date": "2026-07-06T06:40:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest-am: 0 OVERDUE, skip — 2026-07-06",
+      "articles": []
+    },
+    {
+      "hash": "4950b9ffb17aa9b6052827648432d41d7303d91a",
+      "date": "2026-07-06T06:16:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-06-061353-twmd-data-refresh-am — am 14-step 全綠 + CF 404 25.69% 回中段 + 免疫 47↔49 oscillate",
+      "articles": []
+    },
+    {
+      "hash": "e33ff4dcfeface5026b2b8b01cbbe16aa4cbcbe2",
+      "date": "2026-07-06T06:13:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh — 2026-07-06 am",
+      "articles": []
+    },
     {
       "hash": "9c84908e7dfe2eeafe656e53d947228fd2648139",
       "date": "2026-07-06T05:18:28+08:00",
