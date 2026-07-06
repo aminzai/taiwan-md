@@ -70,6 +70,7 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
 <Layout
   title="社群專案 - Taiwan.md"
   description="精選台灣相關的有趣社群開源專案，涵蓋美食地圖、公民科技、交通視覺化等多元領域"
+  readerSettings={true}
 >
   <!--
     Phase 6 page migration #4: projects.astro (zh-TW)
@@ -80,7 +81,7 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
       inline `style={...}` attributes from the data array
   -->
   <main
-    class="min-h-screen bg-[linear-gradient(135deg,#faf5ff_0%,#ede9fe_50%,#e0e7ff_100%)] font-['jf-jinxuanlatte','Noto_Sans_TC',sans-serif]"
+    class="projects-page min-h-screen bg-[linear-gradient(135deg,#faf5ff_0%,#ede9fe_50%,#e0e7ff_100%)] font-['jf-jinxuanlatte','Noto_Sans_TC',sans-serif]"
   >
     <div class="mx-auto max-w-[var(--container-wide)] p-8 max-[768px]:p-4">
       <!-- Hero Section -->

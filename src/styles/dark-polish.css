@@ -880,3 +880,809 @@
   .article-card-foot {
   border-top-color: var(--color-border);
 }
+
+/* ══════════════════════════════════════════════════════════════════
+ * META PAGES (Tier 2) — about / contribute / changelog / resources /
+ * terminology (index + [id] + converter) / 404 / projects.
+ *
+ * Each page opts into readerSettings and carries a wrapper class
+ * (.about-page, .contribute-page, .changelog-page, .resources-page,
+ * .term-page, .term-detail-page, .converter-page, .error-page,
+ * .projects-page). These templates predate color tokens and use a mix
+ * of scoped-class hex + Tailwind arbitrary values. Every rule below is
+ * scoped to its page wrapper + gated on data-theme=dark, so light mode
+ * is pixel-identical. Leaf-class overrides win over Astro-scoped rules
+ * via the extra :root[data-theme='dark'] qualifier; inline hero colors
+ * (PageHero titleColor) need !important.
+ *
+ * Born: 2026-07-06 dark-mode Tier 2 rollout (meta pages).
+ * ══════════════════════════════════════════════════════════════════ */
+
+/* ── ABOUT (.about-page) ─────────────────────────────────────────── */
+/* PageHero title is inline color:#1a3c34 (bgVariant=none → body bg). */
+:root[data-theme='dark'] .about-page .page-hero .hero-title {
+  color: var(--color-ink) !important;
+}
+/* Section titles / subtitles (scoped #1a3c34 / #6b7280). */
+:root[data-theme='dark'] .about-page .section-title {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .about-page .section-subtitle {
+  color: var(--color-ink-soft);
+}
+/* The organism-section band stays dark-teal by intent → keep its
+ * white title + light-cyan subtitle (re-assert so the ink overrides
+ * above don't bleed onto the already-dark band). */
+:root[data-theme='dark'] .about-page .organism-section .section-title {
+  color: #ffffff;
+}
+/* Light section backgrounds (Tailwind arbitrary) → body bg. */
+:root[data-theme='dark'] .about-page [class*='bg-[#f9fafb]'],
+:root[data-theme='dark']
+  .about-page
+  [class*='bg-[linear-gradient(135deg,#fef9f0'],
+:root[data-theme='dark'] .about-page .site-guide-section {
+  background: var(--color-bg) !important;
+}
+/* Naming cards (#f8fafc bg / #e5e7eb border / #1f2937 h4 / #6b7280 p). */
+:root[data-theme='dark'] .about-page .naming-card {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .about-page .naming-card h4 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .about-page .naming-card p {
+  color: var(--color-ink-soft);
+}
+/* Stats (numbers keep blue accent; labels → soft ink). */
+:root[data-theme='dark'] .about-page .stat-label {
+  color: var(--color-ink-soft);
+}
+/* Vision block (light gradient bg, #374151 body, #1f2937 emphasis). */
+:root[data-theme='dark'] .about-page .vision-block {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+}
+:root[data-theme='dark'] .about-page .vision-block p {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .about-page .vision-emphasis {
+  color: var(--color-ink) !important;
+}
+/* Timeline (content h3 #1f2937, p/list #4b5563, press cards). Dates +
+ * markers keep the blue accent (reads fine on dark). */
+:root[data-theme='dark'] .about-page .timeline-content h3 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .about-page .timeline-content p,
+:root[data-theme='dark'] .about-page .timeline-list {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .about-page .press-card-mini {
+  background: color-mix(in srgb, var(--color-ink) 8%, transparent);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .about-page .press-card-mini .press-title {
+  color: var(--color-ink);
+}
+/* Site-guide cards (#fff bg / #e5e7eb border / #1f2937 title / #4b5563). */
+:root[data-theme='dark'] .about-page .guide-card {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .about-page .guide-card-title {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .about-page .guide-card-desc {
+  color: var(--color-ink-soft);
+}
+/* Founder + team (white cards / #1f2937 headings / #4b5563 body).
+ * founder-quote keeps its blue/green accent tint. */
+:root[data-theme='dark'] .about-page .team-card,
+:root[data-theme='dark'] .about-page .contributors-in-team,
+:root[data-theme='dark'] .about-page .contact-card,
+:root[data-theme='dark'] .about-page .contact-cta,
+:root[data-theme='dark'] .about-page .founder-motivation {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .about-page .team-card h3,
+:root[data-theme='dark'] .about-page .founder-info h3,
+:root[data-theme='dark'] .about-page .contributors-in-team h3,
+:root[data-theme='dark'] .about-page .contact-card h4 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .about-page .team-description p,
+:root[data-theme='dark'] .about-page .founder-bio p,
+:root[data-theme='dark'] .about-page .contact-cta p,
+:root[data-theme='dark'] .about-page .contributors-desc,
+:root[data-theme='dark'] .about-page .name-en {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .about-page .link-inline {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .about-page .link-inline .link-text {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .about-page .contributor-card:hover {
+  background: color-mix(in srgb, var(--color-accent) 12%, transparent);
+}
+:root[data-theme='dark'] .about-page .contributor-name {
+  color: var(--color-ink-soft);
+}
+/* Sponsors tier cards (white bg / #e2e8f0 border / #334155 / #64748b).
+ * tier-name accent colors kept (semantic). */
+:root[data-theme='dark'] .about-page .tier,
+:root[data-theme='dark'] .about-page .sponsor-cta {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .about-page .sponsors-desc,
+:root[data-theme='dark'] .about-page .tier-desc,
+:root[data-theme='dark'] .about-page .tier-perks,
+:root[data-theme='dark'] .about-page .sponsor-contribution,
+:root[data-theme='dark'] .about-page .sponsor-cta p,
+:root[data-theme='dark'] .about-page .portaly-label,
+:root[data-theme='dark'] .about-page .portaly-note {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .about-page .sponsor-contribution-title {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .about-page .logo-placeholder {
+  border-color: var(--color-border);
+  color: var(--color-ink-soft);
+}
+/* FAQ (details borders #e5e7eb / #1f2937 question / #4b5563 answer). */
+:root[data-theme='dark'] .about-page .faq-item {
+  border-bottom-color: var(--color-border);
+}
+:root[data-theme='dark'] .about-page .faq-question {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .about-page .faq-answer p {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .about-page .faq-answer strong {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .about-page .faq-answer code {
+  background: color-mix(in srgb, var(--color-ink) 10%, transparent);
+  color: var(--color-ink);
+}
+
+/* ── CONTRIBUTE (.contribute-page + 3 sibling sections outside it) ──
+ * Nature/green theme. The CLI section (#1a1a2e) + organism-brief
+ * (dark teal) are already dark by intent — left untouched. The 3
+ * bottom sections (.token-donation / .support-section) are outside the
+ * .contribute-page wrapper, so they're targeted by their own classes.
+ * The contribute template overrides `body { font-weight:600 }` and sets
+ * a green `a{color:#4a7c59}` — those read fine on dark. */
+
+/* PageHero here is bgTone=dark (green gradient) → already legible. */
+
+/* Light section backgrounds (green-tinted gradients / washes) → body bg.
+ * These are scoped-class backgrounds, matched by leaf class. */
+:root[data-theme='dark'] .contribute-page .how-it-works,
+:root[data-theme='dark'] .contribute-page .paths,
+:root[data-theme='dark'] .contribute-page .writing-guides,
+:root[data-theme='dark'] .contribute-page .form-section,
+:root[data-theme='dark'] .contribute-page .ideas,
+:root[data-theme='dark'] .token-donation,
+:root[data-theme='dark'] .support-section {
+  background: var(--color-bg) !important;
+}
+/* Section headings + descriptions (#2d5016 dark-green / #4a5d23). */
+:root[data-theme='dark'] .contribute-page .how-inner h2,
+:root[data-theme='dark'] .contribute-page .paths h2,
+:root[data-theme='dark'] .contribute-page .guides-inner h2,
+:root[data-theme='dark'] .contribute-page .form-inner h2,
+:root[data-theme='dark'] .contribute-page .ideas h2,
+:root[data-theme='dark'] .token-donation h2,
+:root[data-theme='dark'] .support-section h2 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .contribute-page .guides-desc,
+:root[data-theme='dark'] .contribute-page .form-desc,
+:root[data-theme='dark'] .token-subtitle,
+:root[data-theme='dark'] .support-desc,
+:root[data-theme='dark'] .support-social-proof {
+  color: var(--color-ink-soft);
+}
+/* How / path / guide / idea cards (white-ish bg + #a7c4a0 border). */
+:root[data-theme='dark'] .contribute-page .how-card,
+:root[data-theme='dark'] .contribute-page .path-card,
+:root[data-theme='dark'] .contribute-page .guide-card,
+:root[data-theme='dark'] .contribute-page .idea,
+:root[data-theme='dark'] .contribute-page .success-msg,
+:root[data-theme='dark'] .token-donation .one-line-system,
+:root[data-theme='dark'] .support-card {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  border-color: var(--color-border);
+}
+/* Card titles (#2d5016) → ink; body copy (#4a5d23) → soft ink. */
+:root[data-theme='dark'] .contribute-page .how-card h3,
+:root[data-theme='dark'] .contribute-page .path-card h3,
+:root[data-theme='dark'] .contribute-page .guide-card h3,
+:root[data-theme='dark'] .contribute-page .success-msg h3,
+:root[data-theme='dark'] .token-donation .one-line-system h3,
+:root[data-theme='dark'] .support-card h3 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .contribute-page .how-card p,
+:root[data-theme='dark'] .contribute-page .path-card p,
+:root[data-theme='dark'] .contribute-page .path-card li,
+:root[data-theme='dark'] .contribute-page .guide-content li,
+:root[data-theme='dark'] .contribute-page .idea,
+:root[data-theme='dark'] .contribute-page .success-msg p,
+:root[data-theme='dark'] .token-donation .one-line-system > p,
+:root[data-theme='dark'] .token-donation .one-line-features li,
+:root[data-theme='dark'] .support-card p {
+  color: var(--color-ink-soft);
+}
+/* Green heading inside guides (#4a7c59) reads ok; leave it. */
+/* Language tag chips (white bg + green text/border). */
+:root[data-theme='dark'] .token-donation .lang-tag {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .token-donation .token-languages h3,
+:root[data-theme='dark'] .token-donation .token-prompt-section h3 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .token-donation .token-note {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+}
+:root[data-theme='dark'] .token-donation .token-note p {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .token-donation .token-note strong {
+  color: var(--color-ink);
+}
+/* Form inputs (white bg / #a7c4a0 border) → dark field. */
+:root[data-theme='dark'] .contribute-page textarea,
+:root[data-theme='dark'] .contribute-page input,
+:root[data-theme='dark'] .contribute-page select {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .contribute-page .form-group label {
+  color: var(--color-ink);
+}
+/* Semiont concept detail body (#374151) on the indigo path card. */
+:root[data-theme='dark'] .contribute-page .semiont-concept p {
+  color: var(--color-ink-soft);
+}
+/* Support social-proof strong (#0f172a → ink). */
+:root[data-theme='dark'] .support-social-proof strong {
+  color: var(--color-ink);
+}
+
+/* ── CHANGELOG (.changelog-page) ─────────────────────────────────── */
+/* PageHero here has default light bgTone (no bg fill) → title is
+ * text-[#1a1a2e] on the now-dark body. Lift title + subtitle + meta. */
+:root[data-theme='dark'] .changelog-page .page-hero [class*='text-[#1a1a2e]'] {
+  color: var(--color-ink);
+}
+/* Sticky controls bar (bg-white/95 + #e2e8f0 border). */
+:root[data-theme='dark'] .changelog-page #changelog-controls {
+  background-color: color-mix(in srgb, var(--color-bg) 92%, transparent);
+  border-bottom-color: var(--color-border);
+}
+/* Search input (bg-white / #d1d5db border / #1f2937 text / #9ca3af ph). */
+:root[data-theme='dark'] .changelog-page #changelog-search {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .changelog-page #changelog-search::placeholder {
+  color: var(--color-ink-soft);
+}
+/* Inactive filter pills (bg-white / #e2e8f0 border / #64748b text). The
+ * active pill keeps its #3b82f6 blue fill (JS-toggled, reads on dark). */
+:root[data-theme='dark'] .changelog-page .filter-pill[class~='bg-white'] {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .changelog-page #filter-status {
+  color: var(--color-ink-soft);
+}
+/* Shared CommitLog rows (.commit-log-item: bg-white / #e2e8f0 border /
+ * #1f2937 title / #64748b meta / #94a3b8 time). Scoped under
+ * .changelog-page so the component stays untouched site-wide. */
+:root[data-theme='dark'] .changelog-page .commit-log-item {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .changelog-page .commit-log-item p,
+:root[data-theme='dark']
+  .changelog-page
+  .commit-log-item
+  span[class*='text-[#1f2937]'] {
+  color: var(--color-ink);
+}
+:root[data-theme='dark']
+  .changelog-page
+  .commit-log-item
+  [class*='text-[#64748b]'],
+:root[data-theme='dark']
+  .changelog-page
+  .commit-log-item
+  [class*='text-[#94a3b8]'] {
+  color: var(--color-ink-soft);
+}
+/* CommitLog empty-state panel (bg-[#fafbfc]). */
+:root[data-theme='dark'] .changelog-page [class*='bg-[#fafbfc]'] {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+}
+/* TimelineDayNav (.timeline-nav-*: #64748b link / #94a3b8 month+count).
+ * IntersectionObserver toggles bg-[#eff6ff]/text-[#1e40af] active — that
+ * light-blue active tint vanishes on dark, rebuild as accent tint. */
+:root[data-theme='dark'] .changelog-page .timeline-nav-link {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark']
+  .changelog-page
+  .timeline-nav-link[class~='bg-[#eff6ff]'] {
+  background-color: color-mix(in srgb, var(--color-accent) 16%, transparent);
+  color: var(--color-accent);
+}
+:root[data-theme='dark'] .changelog-page .timeline-nav-count {
+  color: var(--color-ink-soft);
+}
+/* TimelineDay shell reuse (#1a3c34 day title, mint badge) — same as
+ * /latest handling. */
+:root[data-theme='dark'] .changelog-page [class*='text-[#1a3c34]'],
+:root[data-theme='dark'] .changelog-page [class*='text-[#1e293b]'] {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .changelog-page [class*='bg-[#f0fdf4]'] {
+  background-color: color-mix(in srgb, var(--color-accent) 16%, transparent);
+}
+:root[data-theme='dark'] .changelog-page [class*='text-[#059669]'] {
+  color: var(--color-accent);
+}
+/* Blue-accent day badge (bg-[#f1f5f9] pale slate) + connector line
+ * (bg-[#93c5fd]) used by the changelog's TimelineDay accent="blue". */
+:root[data-theme='dark'] .changelog-page [class*='bg-[#f1f5f9]'] {
+  background-color: color-mix(in srgb, var(--color-ink) 10%, transparent);
+}
+:root[data-theme='dark'] .changelog-page [class*='bg-[#93c5fd]'] {
+  background-color: color-mix(in srgb, var(--color-accent) 45%, transparent);
+}
+
+/* ── RESOURCES (.resources-page) ─────────────────────────────────── */
+/* main bg-white → body bg. PageHero uses a green gradient title (stays,
+ * reads on dark). */
+:root[data-theme='dark'] .resources-page[class~='bg-white'],
+:root[data-theme='dark'] .resources-page {
+  background-color: var(--color-bg);
+}
+/* Reading-guide banner (#ecfdf5 mint bg / #d1fae5 border / #065f46 h2 /
+ * #047857 body). */
+:root[data-theme='dark'] .resources-page [class*='bg-[#ecfdf5]'] {
+  background-color: color-mix(in srgb, var(--color-accent) 12%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent) 30%, transparent);
+}
+:root[data-theme='dark'] .resources-page [class*='text-[#065f46]'] {
+  color: var(--color-accent);
+}
+:root[data-theme='dark'] .resources-page [class*='text-[#047857]'],
+:root[data-theme='dark'] .resources-page [class*='text-[#64748b]'] {
+  color: var(--color-ink-soft);
+}
+/* Sticky chapter-nav (mint #ecfdf5 bg / #065f46 links). Active =
+ * #065f46 bg + white text (JS-toggled) — keep. */
+:root[data-theme='dark'] .resources-page .chapter-nav {
+  background: color-mix(in srgb, var(--color-accent) 12%, transparent);
+}
+:root[data-theme='dark'] .resources-page .chapter-link {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .resources-page .chapter-link:hover {
+  background: color-mix(in srgb, var(--color-accent) 20%, transparent);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .resources-page .search-input {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-ink);
+}
+/* Chapter titles + story text (#065f46 / #475569). */
+:root[data-theme='dark'] .resources-page .chapter-title,
+:root[data-theme='dark'] .resources-page .subcategory-title,
+:root[data-theme='dark'] .resources-page .related-label {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .resources-page .story-text,
+:root[data-theme='dark'] .resources-page .subcategory-desc,
+:root[data-theme='dark'] .resources-page .curator-note p,
+:root[data-theme='dark'] .resources-page .insight-label,
+:root[data-theme='dark'] .resources-page .site-domain,
+:root[data-theme='dark'] .resources-page .featured-desc {
+  color: var(--color-ink-soft);
+}
+/* Curator note (#f0fdf4 wash / #059669 rail). Keep green rail. */
+:root[data-theme='dark'] .resources-page .curator-note,
+:root[data-theme='dark'] .resources-page .related-articles {
+  background: color-mix(in srgb, var(--color-accent) 10%, transparent);
+}
+/* Insight + site cards (white bg / #d1fae5 or #e5e7eb border). */
+:root[data-theme='dark'] .resources-page .insight-card,
+:root[data-theme='dark'] .resources-page .site-card {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  border-color: var(--color-border) !important;
+}
+:root[data-theme='dark'] .resources-page .insight-number,
+:root[data-theme='dark'] .resources-page .site-name {
+  color: var(--color-ink);
+}
+/* Featured cards (#f0fdf4 bg / #d1fae5 border / #059669 left rail). */
+:root[data-theme='dark'] .resources-page .featured-card {
+  background: color-mix(
+    in srgb,
+    var(--color-accent) 10%,
+    transparent
+  ) !important;
+  border-color: color-mix(
+    in srgb,
+    var(--color-accent) 30%,
+    transparent
+  ) !important;
+  border-left-color: var(--color-accent) !important;
+}
+:root[data-theme='dark'] .resources-page .featured-card .site-name {
+  color: var(--color-accent);
+}
+:root[data-theme='dark'] .resources-page .site-favicon {
+  background: color-mix(in srgb, var(--color-ink) 8%, transparent);
+  border-color: var(--color-border);
+}
+/* Section footer strip (#fafafa bg / #94a3b8 text). */
+:root[data-theme='dark'] .resources-page .section-footer {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .resources-page .report-link-separator {
+  color: var(--color-border);
+}
+/* Footer-stats border (#d1fae5) + labels handled by #64748b rule above. */
+:root[data-theme='dark'] .resources-page [class*='border-[#d1fae5]'] {
+  border-color: color-mix(in srgb, var(--color-accent) 30%, transparent);
+}
+
+/* ── TERMINOLOGY INDEX (.term-page) ──────────────────────────────── */
+/* main bg-[#f8f8f8] → body bg. PageHero + footer are #1a1a2e (dark,
+ * kept). Filter bar + cards need flipping. */
+:root[data-theme='dark'] .term-page[class*='bg-[#f8f8f8]'] {
+  background-color: var(--color-bg);
+}
+/* Sticky filter bar (bg-white + #e5e5e5 border). */
+:root[data-theme='dark'] .term-page > div[class~='bg-white'] {
+  background-color: var(--color-bg);
+  border-bottom-color: var(--color-border);
+}
+:root[data-theme='dark'] .term-page [class*='border-[#e5e5e5]'] {
+  border-color: var(--color-border);
+}
+/* Filter + subcat buttons (white bg / #444 / #666). Active stays
+ * #1a1a2e / per-fork-color (JS-toggled). */
+:root[data-theme='dark'] .term-page .filter-btn,
+:root[data-theme='dark'] .term-page .subcat-btn {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .term-page .filter-btn.active,
+:root[data-theme='dark'] .term-page .subcat-btn.active {
+  color: #fff;
+}
+/* Search input + result count. */
+:root[data-theme='dark'] .term-page #term-search {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-ink);
+}
+/* Term cards (white bg / #eee border / #1a1a2e word / grey china/hk). */
+:root[data-theme='dark'] .term-page .term-card {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .term-page .term-card:hover,
+:root[data-theme='dark'] .term-page .term-card:focus {
+  border-color: color-mix(in srgb, var(--color-accent) 40%, transparent);
+}
+:root[data-theme='dark'] .term-page .taiwan-word {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .term-page .card-notes-short,
+:root[data-theme='dark'] .term-page .expand-section p {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .term-page .fork-tree-btn {
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .term-page .fork-tree-btn:hover {
+  background: color-mix(in srgb, var(--color-accent) 12%, transparent);
+}
+:root[data-theme='dark'] .term-page .expand-content,
+:root[data-theme='dark'] .term-page .expand-english {
+  border-top-color: var(--color-border);
+}
+:root[data-theme='dark'] .term-page .expand-toggle:hover {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .term-page a.taiwan-word-link:hover {
+  color: var(--color-accent);
+}
+/* Fork-tree popup modal (bg-white / #1a1a2e title / #555 body). */
+:root[data-theme='dark'] .term-page #fork-popup > div[class~='bg-white'] {
+  background: var(--color-surface);
+}
+:root[data-theme='dark'] .term-page #fork-popup [class*='text-[#1a1a2e]'] {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .term-page #fork-popup [class*='text-[#555]'],
+:root[data-theme='dark'] .term-page #fork-popup [class*='text-[#333]'] {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .term-page .fork-popup-close {
+  background: color-mix(in srgb, var(--color-ink) 10%, transparent);
+  color: var(--color-ink);
+}
+
+/* ── TERMINOLOGY DETAIL (.term-detail-page) ──────────────────────── */
+/* main bg-[#f8f8f8] → body bg. PageHero #1a1a2e + CTA #1a1a2e stay. */
+:root[data-theme='dark'] .term-detail-page[class*='bg-[#f8f8f8]'] {
+  background-color: var(--color-bg);
+}
+/* White content cards (mapping / etymology / faq / related / usage). */
+:root[data-theme='dark'] .term-detail-page [class~='bg-white'] {
+  background-color: color-mix(in srgb, var(--color-ink) 6%, transparent);
+}
+/* Borders (#e5e5e5 / #eee). */
+:root[data-theme='dark'] .term-detail-page [class*='border-[#e5e5e5]'],
+:root[data-theme='dark'] .term-detail-page [class*='border-[#eee]'] {
+  border-color: var(--color-border);
+}
+/* Ink text (#1a1a2e headings/words, #333 lead, #444 body). */
+:root[data-theme='dark'] .term-detail-page [class*='text-[#1a1a2e]'],
+:root[data-theme='dark'] .term-detail-page [class*='text-[#333]'],
+:root[data-theme='dark'] .term-detail-page [class*='text-[#444]'] {
+  color: var(--color-ink);
+}
+/* Muted text (#555 / #64748b / #94a3b8 / #cbd5e1). */
+:root[data-theme='dark'] .term-detail-page [class*='text-[#555]'],
+:root[data-theme='dark'] .term-detail-page [class*='text-[#666]'],
+:root[data-theme='dark'] .term-detail-page [class*='text-[#64748b]'],
+:root[data-theme='dark'] .term-detail-page [class*='text-[#94a3b8]'] {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .term-detail-page [class*='text-[#cbd5e1]'] {
+  color: var(--color-border);
+}
+/* #27ae60 green (台灣用語 label) reads on dark; leave. Usage blockquote
+ * left rail stays green. */
+
+/* ── TERMINOLOGY CONVERTER (.converter-page) ─────────────────────── */
+/* Outer bg-[#f8f8f8] → body bg. PageHero #1a1a2e stays. */
+:root[data-theme='dark'] .converter-page[class*='bg-[#f8f8f8]'] {
+  background-color: var(--color-bg);
+}
+/* Editor labels (#555) + panel muted text. */
+:root[data-theme='dark'] .converter-page [class*='text-[#555]'],
+:root[data-theme='dark'] .converter-page [class*='text-[#888]'],
+:root[data-theme='dark'] .converter-page [class*='text-[#aaa]'] {
+  color: var(--color-ink-soft);
+}
+/* Input textarea + highlight overlay + output pane (bg-white/transparent
+ * + #ddd border + focus ring). */
+:root[data-theme='dark'] .converter-page #input-text,
+:root[data-theme='dark'] .converter-page #output-text {
+  border-color: var(--color-border);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .converter-page #output-text[class~='bg-white'] {
+  background-color: var(--color-surface);
+}
+:root[data-theme='dark'] .converter-page #input-text:focus {
+  border-color: var(--color-accent);
+}
+/* Action + example buttons (bg-white / #ccc / #ddd border / #333 / #555). */
+:root[data-theme='dark'] .converter-page [class~='bg-white'] {
+  background-color: var(--color-surface);
+}
+:root[data-theme='dark'] .converter-page [class*='text-[#333]'] {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .converter-page [class*='border-[#ddd]'],
+:root[data-theme='dark'] .converter-page [class*='border-[#ccc]'],
+:root[data-theme='dark'] .converter-page [class*='border-[#e0e0e0]'] {
+  border-color: var(--color-border);
+}
+/* Analysis box (bg-white / #e0e0e0 border / #1a1a2e title / #f0f0f0 rule). */
+:root[data-theme='dark'] .converter-page #analysis {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .converter-page [class*='text-[#1a1a2e]'] {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .converter-page [class*='border-[#f0f0f0]'] {
+  border-color: var(--color-border);
+}
+/* Change-list rows (#fafafa bg) — JS-injected, use leaf class. */
+:root[data-theme='dark'] .converter-page .change-item {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+}
+/* source/target chips keep their red/green semantic tints (readable). */
+:root[data-theme='dark'] .converter-page .change-source {
+  background: color-mix(in srgb, #c0392b 22%, transparent);
+  color: #f0a89e;
+}
+:root[data-theme='dark'] .converter-page .change-target {
+  background: color-mix(in srgb, #27ae60 20%, transparent);
+  color: #86e0a8;
+}
+/* FAQ (#e0e0e0 border / #fafafa summary bg / #333 h2 / #444 p). The
+ * .conv-faq <section> sits OUTSIDE the .converter-page wrapper (it's a
+ * direct Layout child), and .conv-faq is converter-only, so target it
+ * directly. Its colors come from Tailwind [&_summary]:… arbitrary
+ * variants → need !important to override. */
+:root[data-theme='dark'] .conv-faq details {
+  border-color: var(--color-border) !important;
+}
+:root[data-theme='dark'] .conv-faq summary {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent) !important;
+  color: var(--color-ink) !important;
+}
+:root[data-theme='dark'] .conv-faq h2 {
+  color: var(--color-ink) !important;
+}
+:root[data-theme='dark'] .conv-faq details p {
+  color: var(--color-ink-soft) !important;
+}
+:root[data-theme='dark'] .conv-faq summary::before {
+  color: var(--color-ink-soft) !important;
+}
+/* Replaced-word / sample marks: keep the amber highlight but darken the
+ * text so it reads on the pale mark (mark bg is a light amber). */
+:root[data-theme='dark'] .converter-page mark.replaced-word,
+:root[data-theme='dark'] .converter-page mark.sample-mark {
+  background: #d9b44a;
+  color: #1a1a2e;
+}
+
+/* ── 404 (.error-page) ───────────────────────────────────────────── */
+/* Big faint "404" (#1a1a2e opacity 0.15) → light ink so it stays a
+ * ghost mark on dark, not invisible. Bump the emoji 📝 variant too. */
+:root[data-theme='dark'] .error-page [class*='text-[#1a1a2e]'] {
+  color: var(--color-ink);
+}
+/* Body copy greys (#666 desc, #888 prompts, #333 chip labels). */
+:root[data-theme='dark'] .error-page [class*='text-[#666]'],
+:root[data-theme='dark'] .error-page [class*='text-[#888]'] {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .error-page [class*='text-[#333]'] {
+  color: var(--color-ink);
+}
+/* Primary CTA + report btn (bg-[#1a1a2e] / bg-[#f59e0b]) keep. Secondary
+ * light button (bg-[#f0f0f0]) → surface. */
+:root[data-theme='dark'] .error-page [class*='bg-[#f0f0f0]'] {
+  background-color: var(--color-surface);
+}
+/* Category chips: the wrapper carries `[&_a]:bg-[#f5f5f5]` /
+ * `[&_a]:text-[#333]` arbitrary-child variants, which Tailwind v4 emits
+ * as a NATIVE-NESTED rule inside `@layer utilities`:
+ *   .[&_a]:bg-[#f5f5f5] { & a { background-color: #f5f5f5 } }
+ * To beat a layered declaration reliably (source-order within the same
+ * layer + winning specificity), we re-declare inside `@layer utilities`
+ * AFTER Tailwind's import, using the same `& a` nesting shape so the
+ * cascade context matches. Keep the accent hover. */
+@layer utilities {
+  :root[data-theme='dark'] .error-page #category-chips,
+  :root[data-theme='dark'] .error-page #category-chips-2 {
+    & a {
+      background-color: var(--color-surface);
+      color: var(--color-ink);
+    }
+    & a:hover {
+      background-color: color-mix(
+        in srgb,
+        var(--color-accent) 22%,
+        transparent
+      );
+      color: var(--color-ink);
+    }
+  }
+}
+/* Search input (#e0e0e0 border). */
+:root[data-theme='dark'] .error-page [class*='border-[#e0e0e0]'] {
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .error-page input[type='text'] {
+  background-color: var(--color-surface);
+  color: var(--color-ink);
+}
+/* Bug-report box (amber #fef3c7 bg / #fcd34d border) — keep the warm
+ * warn tint but desaturate for dark so it doesn't glare. */
+:root[data-theme='dark'] .error-page [class*='bg-[#fef3c7]'] {
+  background-color: color-mix(in srgb, #f59e0b 14%, transparent);
+  border-color: color-mix(in srgb, #f59e0b 30%, transparent);
+}
+/* Untranslated-notice box (blue #e3f2fd bg / #90caf9 border / #1565c0). */
+:root[data-theme='dark'] .error-page [class*='bg-[#e3f2fd]'] {
+  background-color: color-mix(in srgb, var(--color-accent) 12%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent) 30%, transparent);
+}
+:root[data-theme='dark'] .error-page [class*='text-[#1565c0]'] {
+  color: var(--color-accent);
+}
+
+/* ── PROJECTS (.projects-page) ───────────────────────────────────── */
+/* Violet-gradient identity page. The gradient is on main.projects-page
+ * itself; flatten it to the dark body bg so text/cards stay legible.
+ * The violet clip-text H1 + accents below carry the theme identity. */
+:root[data-theme='dark'] .projects-page {
+  background-image: none !important;
+  background-color: var(--color-bg);
+}
+/* The gradient hero H1 (violet clip-text) reads on dark — keep. Lead
+ * copy (#64748b) + breadcrumb (#374151 / #94a3b8 / #64748b). */
+:root[data-theme='dark'] .projects-page [class*='text-[#64748b]'] {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .projects-page [class*='text-[#374151]'] {
+  color: var(--color-ink);
+}
+/* Project cards + CTA panel (bg-white / #e5e7eb border / #1e293b title /
+ * #64748b desc). Keep violet hover borders + tech-badge tints. */
+:root[data-theme='dark'] .projects-page [class~='bg-white'] {
+  background-color: color-mix(in srgb, var(--color-ink) 6%, transparent);
+}
+:root[data-theme='dark'] .projects-page [class*='border-[#e5e7eb]'] {
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .projects-page [class*='text-[#1e293b]'] {
+  color: var(--color-ink);
+}
+/* Tag chips (#f3f4f6 bg / #6b7280 text) + github icon btn (#f1f5f9 bg /
+ * #64748b). */
+:root[data-theme='dark'] .projects-page [class*='bg-[#f3f4f6]'],
+:root[data-theme='dark'] .projects-page [class*='bg-[#f1f5f9]'] {
+  background-color: color-mix(in srgb, var(--color-ink) 10%, transparent);
+}
+:root[data-theme='dark'] .projects-page [class*='text-[#6b7280]'] {
+  color: var(--color-ink-soft);
+}
+/* CTA "return home" outline button hover (#faf5ff light violet). */
+:root[data-theme='dark'] .projects-page [class*='hover:bg-[#faf5ff]']:hover {
+  background-color: color-mix(in srgb, #7c3aed 15%, transparent);
+}
+/* Card title links get their color from the parent h3's
+ * `[&_a]:text-[#1e293b]` child-variant, which Tailwind v4 emits as a
+ * native-nested rule in @layer utilities — unlayered CSS can't beat it
+ * (same case as the 404 chips). Re-declare in the utilities layer with
+ * winning specificity. Violet hover (#7c3aed) stays. */
+/* Card title links: color comes from the parent h3's
+ * `[&_a]:text-[#1e293b]` child-variant (a native-nested Tailwind rule in
+ * @layer utilities). Re-declare inside @layer utilities (appended after
+ * Tailwind's import → wins on source order) targeting the h3's literal
+ * class-attribute substring so specificity clears (0,2,0). Violet hover
+ * kept. Same recipe that fixed the 404 category chips. */
+@layer utilities {
+  :root[data-theme='dark'] .projects-page h3[class*='[&_a]:text-[#1e293b]'] {
+    & a {
+      color: var(--color-ink);
+    }
+    & a:hover {
+      color: #a855f7;
+    }
+  }
+}

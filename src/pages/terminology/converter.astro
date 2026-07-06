@@ -217,6 +217,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
 <Layout
   title="台灣用語轉換器：中國用語一鍵轉台灣說法"
   description={`免費線上台灣用語轉換工具。「視頻」→「影片」、「軟件」→「軟體」、「打車」→「叫計程車」——${rules.length} 條轉換規則涵蓋科技、生活、醫療、校園等分類，附台灣化指數分析。同步處理字形、詞彙、語感的完整對應。`}
+  readerSettings={true}
 >
   <!-- Preload OpenCC for faster mobile loading -->
   <link
@@ -238,7 +239,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
       markers
     - .opencc-ready / .opencc-failed state classes (JS-toggled)
   -->
-  <div class="flex flex-col bg-[#f8f8f8]">
+  <div class="converter-page flex flex-col bg-[#f8f8f8]">
     <!-- ── Header（共用 PageHero 元件） ─────────────────────────── -->
     <PageHero
       bgVariant="solid"
