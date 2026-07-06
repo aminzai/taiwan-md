@@ -26,9 +26,10 @@ const sectors = [...new Set(companies.map((c) => c.sector))];
   lang={lang}
   title={t('data.companies.meta.title')}
   description={t('data.companies.meta.description')}
+  readerSettings={true}
 >
   <main
-    class="min-h-screen bg-[image:var(--surface-panel-dark)] text-[#e2e8f0]"
+    class="companies-page min-h-screen bg-[image:var(--surface-panel-dark)] text-[#e2e8f0]"
   >
     <PageHero
       bgTone="dark"

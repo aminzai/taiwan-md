@@ -1686,3 +1686,261 @@
     }
   }
 }
+
+/* =====================================================================
+ * Dashboard (main.dashboard) — Tier 3a dark rollout.
+ *
+ * dashboard.css was already largely tokenized: the glass vital/nextstep
+ * cards read `var(--surface-glass)` (now a faint-on-dark 5% white in the
+ * tokens dark block) and vital borders use --status-vital-*, so those
+ * surfaces AUTO-FLIP once the page opts into data-theme=dark. What did
+ * NOT flip are the hardcoded hex leftovers:
+ *   - `.dashboard { color:#1e293b; background:#fafbfc }` — the base sets a
+ *     near-white page bg + dark-slate ink that cascades INTO every card,
+ *     leaving auto-flipped glass cards with dark-on-dark text. Fixing the
+ *     base surface + ink is the single highest-impact override.
+ *   - a handful of literal light card bgs (#fff nextstep, #fff5f5 spore
+ *     warn, rgba(248,250,252) ga-callout) and pale-bg legend chips.
+ *   - dark-ink slate text families (#1e293b / #334155 / #0f172a / #64748b).
+ * Saturated accent text (blues #3b82f6, greens #22c55e, cyans #22d3ee) is
+ * left untouched — legible on near-black by design.
+ * ===================================================================== */
+:root[data-theme='dark'] .dashboard {
+  background: var(--color-bg);
+  color: var(--color-ink);
+}
+/* Dark-ink slate text families → light ink / soft ink. The saturated
+ * accent colors are excluded by only listing the ink hexes. */
+:root[data-theme='dark'] .dashboard .ga-page-name,
+:root[data-theme='dark'] .dashboard .ga-callout-title,
+:root[data-theme='dark'] .dashboard .ga-mini-label {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .dashboard .ga-page-pv,
+:root[data-theme='dark'] .dashboard .ga-callout-body,
+:root[data-theme='dark'] .dashboard .ga-callout-meta,
+:root[data-theme='dark'] .dashboard .ga-subtle,
+:root[data-theme='dark'] .dashboard .ga-mini-meta,
+:root[data-theme='dark'] .dashboard .ga-kpi-strip,
+:root[data-theme='dark'] .dashboard .ga-block-title {
+  color: var(--color-ink-soft);
+}
+/* Literal light card backgrounds → faint glass lift, matching how the
+ * already-tokenized vital cards render. */
+:root[data-theme='dark'] .dashboard .nextstep-card,
+:root[data-theme='dark'] .dashboard .ga-callout {
+  background: var(--surface-glass);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .dashboard .spore-tile {
+  background: var(--surface-glass);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .dashboard .spore-tile-warn {
+  background: color-mix(in srgb, #ef4444 14%, transparent);
+  border-color: color-mix(in srgb, #ef4444 40%, transparent);
+}
+/* Contributor-area legend chips: pale-bg + saturated-dark-text pairs.
+ * Keep the hue, invert the value — tint the bg dark, lift the text. */
+:root[data-theme='dark'] .dashboard .contributors-area {
+  background: color-mix(in srgb, var(--color-ink) 12%, transparent);
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .dashboard .contributors-area-content {
+  background: color-mix(in srgb, #f59e0b 18%, transparent);
+  color: #fbbf24;
+}
+:root[data-theme='dark'] .dashboard .contributors-area-system {
+  background: color-mix(in srgb, #3b82f6 18%, transparent);
+  color: #93c5fd;
+}
+:root[data-theme='dark'] .dashboard .contributors-area-translation {
+  background: color-mix(in srgb, #22c55e 18%, transparent);
+  color: #86efac;
+}
+:root[data-theme='dark'] .dashboard .contributors-area-other {
+  background: color-mix(in srgb, var(--color-ink) 12%, transparent);
+  color: var(--color-ink-soft);
+}
+/* SupporterGrid (shared component, scoped here so about-page is untouched):
+ * .supporter-timeline (white section) + .supporter-stat (#f8fafc tiles). */
+:root[data-theme='dark'] .dashboard .supporter-timeline {
+  background: var(--surface-glass);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .dashboard .supporter-stat {
+  background: var(--surface-glass);
+  border-color: var(--color-border);
+}
+
+/* =====================================================================
+ * Taiwan-shape (main.taiwan-shape-page) — Tier 3a dark rollout.
+ *
+ * A genuinely light page (base `text-[#1a1a1a]`, white cards). The scoped
+ * <style> block hardcodes dark-ink headings/body + a stack of light card
+ * surfaces. Deliberately KEPT light (they display SVG map assets that
+ * need a light plate to be visible, or are already-dark by design):
+ *   - .svg-preview / .comparison-item .svg-container (white map plates)
+ *   - .code-block (#1e1e1e — already dark)
+ *   - the red brand accent #c73e3a (.btn-primary / .btn-outline / links /
+ *     .codes-table code) and the comparison red/green (#e74c3c/#27ae60).
+ * ===================================================================== */
+:root[data-theme='dark'] .taiwan-shape-page {
+  color: var(--color-ink);
+}
+/* PageHero title is an inline color:#111 (titleColor prop) on the <h1>
+ * → needs !important to beat the inline style, same recipe as .about-page
+ * (this PageHero variant emits <h1> rather than a .hero-title element). */
+:root[data-theme='dark'] .taiwan-shape-page .page-hero h1 {
+  color: var(--color-ink) !important;
+}
+/* The scoped <style> block rules (.taiwan-shape-page h2/h3/p) carry an
+ * astro-cid attribute → out-specificity them with an extra qualifier. */
+:root[data-theme='dark'] main.taiwan-shape-page h2,
+:root[data-theme='dark'] .taiwan-shape-page section h2 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] main.taiwan-shape-page h3,
+:root[data-theme='dark'] .taiwan-shape-page section h3 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] main.taiwan-shape-page p,
+:root[data-theme='dark'] .taiwan-shape-page section p {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .taiwan-shape-page .section-description {
+  color: var(--color-ink-soft);
+}
+/* SVG cards: keep the white map preview plate, darken the info body. */
+:root[data-theme='dark'] .taiwan-shape-page .svg-card {
+  background: var(--surface-glass);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .taiwan-shape-page .svg-info h3 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .taiwan-shape-page .svg-desc {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .taiwan-shape-page .svg-meta {
+  color: var(--color-ink-soft);
+}
+/* Usage box (light-grey panel) → faint glass. code-block stays dark. */
+:root[data-theme='dark'] .taiwan-shape-page .usage-box {
+  background: var(--surface-glass);
+}
+:root[data-theme='dark'] .taiwan-shape-page .license-note {
+  color: var(--color-ink-soft);
+}
+/* Format-compare boxes: keep the blue/green hue, invert value (dark tint
+ * + lifted text). Plain .format-box → neutral glass. */
+:root[data-theme='dark'] .taiwan-shape-page .format-box {
+  background: var(--surface-glass);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .taiwan-shape-page .format-box.topo {
+  background: color-mix(in srgb, #4a90e2 14%, transparent);
+  border-color: color-mix(in srgb, #4a90e2 45%, transparent);
+}
+:root[data-theme='dark'] .taiwan-shape-page .format-box.geo {
+  background: color-mix(in srgb, #27ae60 14%, transparent);
+  border-color: color-mix(in srgb, #27ae60 45%, transparent);
+}
+:root[data-theme='dark'] .taiwan-shape-page .format-box.topo .format-label {
+  color: #8fbcf5;
+}
+:root[data-theme='dark'] .taiwan-shape-page .format-box.geo .format-label {
+  color: #6ee7a3;
+}
+:root[data-theme='dark'] .taiwan-shape-page .format-box p {
+  color: var(--color-ink-soft);
+}
+/* Geo download cards (pale-blue panels) → dark blue tint. */
+:root[data-theme='dark'] .taiwan-shape-page .geo-download-card {
+  background: color-mix(in srgb, #4a90e2 14%, transparent);
+  border-color: color-mix(in srgb, #4a90e2 45%, transparent);
+}
+:root[data-theme='dark'] .taiwan-shape-page .geo-file-name code {
+  color: #8fbcf5;
+}
+:root[data-theme='dark'] .taiwan-shape-page .geo-file-meta,
+:root[data-theme='dark'] .taiwan-shape-page .geo-note {
+  color: var(--color-ink-soft);
+}
+/* Codes table: darken the chrome, keep the red-accent <code> pills. */
+:root[data-theme='dark'] .taiwan-shape-page .codes-table-wrap {
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .taiwan-shape-page .codes-table th,
+:root[data-theme='dark'] .taiwan-shape-page .codes-table td {
+  border-bottom-color: var(--color-border);
+}
+:root[data-theme='dark'] .taiwan-shape-page .codes-table th {
+  background: var(--surface-glass);
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .taiwan-shape-page .codes-table tbody tr:hover {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+}
+:root[data-theme='dark'] .taiwan-shape-page .codes-table code {
+  background: color-mix(in srgb, #c73e3a 20%, transparent);
+  color: #f0a09c;
+}
+
+/* =====================================================================
+ * Soundscape (.soundscape-page) — Tier 3a dark rollout.
+ *
+ * Well-tokenized Tailwind-arbitrary page. Section <h2> already inherit
+ * light ink (no fix). What breaks: the PageHero title (inline #1a3c34),
+ * the audio cards (bg-[#f8fafc] — bright rectangles on near-black), the
+ * empty-state box, and the slate-ink text families (#334155 / #475569 /
+ * #64748b). The green eyebrow + blue accent links/chips stay (legible on
+ * dark). Native <audio> controls keep the browser default skin.
+ * ===================================================================== */
+:root[data-theme='dark'] .soundscape-page .page-hero h1 {
+  color: var(--color-ink) !important;
+}
+/* Audio cards + empty-state box: light plate → faint glass. */
+:root[data-theme='dark'] .soundscape-page [class*='bg-[#f8fafc]'] {
+  background: var(--surface-glass);
+}
+:root[data-theme='dark'] .soundscape-page [class*='border-[#cbd5e1]'] {
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .soundscape-page [class*='border-[#94a3b8]'] {
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .soundscape-page [class*='border-[#e2e8f0]'] {
+  border-color: var(--color-border);
+}
+/* Slate-ink text families → light / soft ink. */
+:root[data-theme='dark'] .soundscape-page [class*='text-[#334155]'] {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .soundscape-page [class*='text-[#475569]'],
+:root[data-theme='dark'] .soundscape-page [class*='text-[#64748b]'] {
+  color: var(--color-ink-soft);
+}
+
+/* =====================================================================
+ * Assets (main.assets-page) — Tier 3a dark rollout.
+ *
+ * Mostly a .prose page (title/headings/body already handled by the global
+ * .prose dark rules). The only breakage is the 4 SVG asset cards, which
+ * live OUTSIDE .prose: bg-white card shell + #333/#555/#999 text. The
+ * inner image plate (bg-[#f8faf5]) is KEPT light — the SVG map needs a
+ * light plate to be visible. code-block (#1e1e1e) already dark.
+ * ===================================================================== */
+:root[data-theme='dark'] .assets-page [class*='bg-white'] {
+  background: var(--surface-glass);
+  border: 1px solid var(--color-border);
+}
+:root[data-theme='dark'] .assets-page [class*='text-[#333]'] {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .assets-page [class*='text-[#555]'] {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .assets-page [class*='text-[#999]'] {
+  color: var(--color-ink-soft);
+}
