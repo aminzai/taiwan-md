@@ -30,6 +30,7 @@ const dataCategories = getCategories(t);
   lang={lang}
   title={t('data.meta.title')}
   description={t('data.meta.description')}
+  readerSettings={true}
 >
   <!--
     Phase 7.6 — data.template.astro (Tier 1, partial)
@@ -44,7 +45,7 @@ const dataCategories = getCategories(t);
     - Responsive overrides for the repeating patterns
   -->
   <main
-    class="min-h-screen bg-[image:var(--surface-panel-dark)] text-[#e2e8f0]"
+    class="data-page min-h-screen bg-[image:var(--surface-panel-dark)] text-[#e2e8f0]"
   >
     <!-- Hero -->
     <PageHero

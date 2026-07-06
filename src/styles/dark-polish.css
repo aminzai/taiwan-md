@@ -1944,3 +1944,399 @@
 :root[data-theme='dark'] .assets-page [class*='text-[#999]'] {
   color: var(--color-ink-soft);
 }
+
+/* =====================================================================
+ * Map (.map-page) — Tier 3b dark rollout (viz-heavy).
+ *
+ * A genuinely light page. The Taiwan SVG map itself is the DATA-INK:
+ * the county fills use a region palette (yellow/orange/mint/green/violet
+ * gradients) and sit on a light-blue "sea" canvas. We KEEP the map plate
+ * light — a map has to read as a map, same call as taiwan-shape/assets.
+ * All rules below darken only the PAGE CHROME around it: the article
+ * sidebar, filter buttons, route pills, tooltips, and the dynamically
+ * innerHTML-injected county/deep-article cards (:global, no astro-cid —
+ * still reachable as .map-page descendants). PageHero band is dark-teal
+ * already. Gated on data-theme=dark → light mode pixel-identical.
+ * ===================================================================== */
+
+/* Sidebar panel shell (white bg / #e5e7eb border) → dark surface. */
+:root[data-theme='dark'] .map-page .sidebar-panel {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+}
+/* Sidebar headings + hints (#2d5016 green / #6b7280 grey). */
+:root[data-theme='dark'] .map-page .sidebar-header h3,
+:root[data-theme='dark'] .map-page .sidebar-route h3 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .map-page .sidebar-hint,
+:root[data-theme='dark'] .map-page .sidebar-route .route-desc,
+:root[data-theme='dark'] .map-page .no-articles,
+:root[data-theme='dark'] .map-page .clear-selection-btn,
+:root[data-theme='dark'] .map-page .back-btn {
+  color: var(--color-ink-soft);
+}
+/* County article count keeps its green accent (reads on dark). */
+
+/* Filter buttons (white bg / #d1d5db border / #374151 text). Active
+ * stays #16a34a green fill (JS-toggled) — legible on dark. */
+:root[data-theme='dark'] .map-page .filter-btn {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .map-page .filter-btn:hover {
+  background: color-mix(in srgb, var(--color-accent) 12%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent) 40%, transparent);
+}
+
+/* Route bar (white strip + #e5e7eb border) + route pills (white). Active
+ * pill keeps its per-route color fill. */
+:root[data-theme='dark'] .map-page .route-bar {
+  background: var(--color-bg);
+  border-bottom-color: var(--color-border);
+}
+:root[data-theme='dark'] .map-page .route-pill {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .map-page .route-pill:hover {
+  background: color-mix(in srgb, var(--color-accent) 12%, transparent);
+}
+
+/* Zoom buttons (white bg / #e5e7eb border / #374151) — sit on the light
+ * map plate, so a light chip actually reads better here; keep them light
+ * but firm up the border so they don't melt into the plate. Left as-is
+ * (light) intentionally — they overlay the light-blue map canvas. */
+
+/* Collapsible filters (white bg; [open] → #fafdf6). */
+:root[data-theme='dark'] .map-page .sidebar-filters {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .map-page .sidebar-filters[open] {
+  background: color-mix(in srgb, var(--color-ink) 4%, transparent);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .map-page .sidebar-filters-summary:hover {
+  background: color-mix(in srgb, var(--color-accent) 10%, transparent);
+}
+:root[data-theme='dark'] .map-page .sidebar-filters-label {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .map-page .sidebar-filters-row-label {
+  color: var(--color-ink-soft);
+}
+/* filters-state chip: light mint #dcfce7 bg + #16a34a green text vanishes
+ * on dark (and inherits lifted ink otherwise). Rebuild as accent tint. */
+:root[data-theme='dark'] .map-page .sidebar-filters-state {
+  background: color-mix(in srgb, var(--color-accent) 18%, transparent);
+  color: var(--color-accent);
+}
+
+/* Category group headers (#e5e7eb divider / #374151 title / #6b7280
+ * count on #f3f4f6 chip). */
+:root[data-theme='dark'] .map-page .category-group-header {
+  border-bottom-color: var(--color-border);
+}
+:root[data-theme='dark'] .map-page .category-group-title {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .map-page .category-group-count {
+  background: color-mix(in srgb, var(--color-ink) 10%, transparent);
+  color: var(--color-ink-soft);
+}
+
+/* Article list rows (#1a1a1a title / #666 desc / #888 meta). */
+:root[data-theme='dark'] .map-page .article-title {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .map-page .article-desc,
+:root[data-theme='dark'] .map-page .article-meta {
+  color: var(--color-ink-soft);
+}
+
+/* Marker tooltip (white bubble / #1a1a1a title / #666 body). The #tooltip
+ * for counties is already near-black (keep). */
+:root[data-theme='dark'] .map-page .marker-tooltip {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .map-page .marker-tooltip h4 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .map-page .marker-tooltip p {
+  color: var(--color-ink-soft);
+}
+/* marker-tooltip .tooltip-meta keeps green accent. */
+
+/* Legacy sidebar article fallback (white bg). */
+:root[data-theme='dark'] .map-page .sidebar-article-item:not(.article-card) {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+}
+
+/* --- Dynamically innerHTML-injected cards (:global in the template, no
+ * astro-cid, but rendered inside .map-page so still reachable) --- */
+
+/* 22-county deep-article card (light-green gradient panel + border). Keep
+ * a faint green identity, rebuild on the dark bg. */
+:root[data-theme='dark'] .map-page .deep-article-card {
+  background: color-mix(in srgb, var(--color-accent) 8%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent) 30%, transparent);
+}
+:root[data-theme='dark'] .map-page .deep-card-title {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .map-page .deep-card-contradiction {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .map-page .deep-card-read {
+  color: var(--color-ink-soft);
+}
+/* deep-card-badge (#dcfce7 mint chip) + deep-card-cta keep green. */
+:root[data-theme='dark'] .map-page .deep-card-badge {
+  background: color-mix(in srgb, var(--color-accent) 18%, transparent);
+  color: var(--color-accent);
+}
+
+/* 22-county grid panel (#fafdf6 bg / #e5e7eb border). */
+:root[data-theme='dark'] .map-page .counties-22-panel {
+  background: color-mix(in srgb, var(--color-ink) 5%, transparent);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .map-page .counties-22-header h4 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .map-page .counties-22-hint {
+  color: var(--color-ink-soft);
+}
+/* County grid cards (white bg / #d1fae5 border / #14532d name / #166534
+ * contradiction). */
+:root[data-theme='dark'] .map-page .county-grid-card {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .map-page .county-grid-card:hover {
+  background: color-mix(in srgb, var(--color-accent) 10%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent) 40%, transparent);
+}
+:root[data-theme='dark'] .map-page .county-grid-name {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .map-page .county-grid-contradiction {
+  color: var(--color-ink-soft);
+}
+/* Filter chips (white bg / #d1d5db border / #4b5563 text). Active keeps
+ * green fill. */
+:root[data-theme='dark'] .map-page .filter-chip {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .map-page .filter-chip:hover {
+  border-color: color-mix(in srgb, var(--color-accent) 40%, transparent);
+  color: var(--color-ink);
+}
+/* Single-article detail body text (#666 desc via .article-content p). */
+:root[data-theme='dark'] .map-page .article-content p {
+  color: var(--color-ink-soft);
+}
+/* Single-article detail category chip (#f0fdf4 mint bg / #16a34a text):
+ * rebuild as accent tint so it sits on the dark sidebar as a chip, not a
+ * bright mint rectangle. read-more-btn keeps its solid green fill. */
+:root[data-theme='dark'] .map-page .article-category {
+  background: color-mix(in srgb, var(--color-accent) 18%, transparent);
+  color: var(--color-accent);
+}
+
+/* =====================================================================
+ * LifeTree — index (.lifetree-index) + detail (.lifetree-page) + the
+ * shared <LifeTree> component (.life-tree). Tier 3b dark rollout (viz).
+ *
+ * The tree/timeline visualization is a vertical timeline of decision
+ * nodes; the categorical THEME colors (per-node --theme-color dots,
+ * markers, tags, left rails) are the DATA-INK and stay saturated. We
+ * darken only the surrounding page + card chrome.
+ *
+ * Key detail: LifeTree.astro is already token-based BUT reads
+ * `var(--color-text, …)` / `var(--color-text-soft, …)` which are NOT
+ * defined in tokens.css — they always fall back to the light hex, so on
+ * dark every body/date/meta line renders dark-on-dark. Rather than
+ * rewrite ~20 leaf classes, we locally alias those two vars to the ink
+ * tokens on the page wrappers; the component's `var(--color-text, #333)`
+ * then resolves to light ink. --color-bg / --color-bg-soft / --color-border
+ * already auto-flip via the tokens dark block, so the tree surfaces darken
+ * for free once the text is fixed. The component only renders on
+ * /lifetree/[slug] (article pages carry just a CTA banner), so scoping
+ * under .lifetree-page is safe. Gated on data-theme=dark.
+ * ===================================================================== */
+
+/* Alias the undefined text vars → ink tokens, scoped to the two wrappers.
+ * This single declaration fixes every LifeTree body/meta/date/alt line. */
+:root[data-theme='dark'] .lifetree-index,
+:root[data-theme='dark'] .lifetree-page {
+  --color-text: var(--color-ink);
+  --color-text-soft: var(--color-ink-soft);
+}
+
+/* Page base (cream #f8f1e9) → body bg. */
+:root[data-theme='dark'] .lifetree-index,
+:root[data-theme='dark'] .lifetree-page {
+  background: var(--color-bg);
+}
+/* Hero violet-tint wash over cream → flatten (keep it subtle on dark). */
+:root[data-theme='dark'] .lifetree-index__hero,
+:root[data-theme='dark'] .lifetree-page__hero {
+  background: none;
+}
+/* Serif headings (#1a3c34 teal) → ink. Violet eyebrow (#8b5cf6) kept.
+ * These use descendant selectors whose Astro-scoped counterparts carry
+ * DOUBLE data-astro-cid attributes (e.g. `.lifetree-index[cid] h1[cid]`,
+ * specificity 0,4,1) which out-specify a plain qualifier — so !important
+ * here, same recipe as .about-page .hero-title / .taiwan-shape-page h1. */
+:root[data-theme='dark'] .lifetree-index h1,
+:root[data-theme='dark'] .lifetree-index__card h2,
+:root[data-theme='dark'] .lifetree-page__title {
+  color: var(--color-ink) !important;
+}
+/* Lede / intro body (#2c3a36) → ink. */
+:root[data-theme='dark'] .lifetree-index__lede,
+:root[data-theme='dark'] .lifetree-index__intro,
+:root[data-theme='dark'] .lifetree-page__about {
+  color: var(--color-ink);
+}
+/* Muted meta (#5a6f6a): caveat/rationale/span/stats/source/empty/footer/
+ * subtitle/breadcrumbs. !important: the scoped counterparts carry a
+ * data-astro-cid attribute and in dev they're injected after this file,
+ * so ties/near-ties fall their way — force ours (still gated on dark). */
+:root[data-theme='dark'] .lifetree-index__caveat,
+:root[data-theme='dark'] .lifetree-index__rationale,
+:root[data-theme='dark'] .lifetree-index__span,
+:root[data-theme='dark'] .lifetree-index__stats,
+:root[data-theme='dark'] .lifetree-index__source-link,
+:root[data-theme='dark'] .lifetree-index__empty,
+:root[data-theme='dark'] .lifetree-index__footer,
+:root[data-theme='dark'] .lifetree-page__subtitle,
+:root[data-theme='dark'] .lifetree-page__breadcrumbs,
+:root[data-theme='dark'] .lifetree-page__caveat {
+  color: var(--color-ink-soft) !important;
+}
+/* Card link wrapper (color:inherit → picks up the global light-mode
+ * body ink #1a1a2e). Force it light so its non-h2 text (the plain nodes)
+ * reads. */
+:root[data-theme='dark'] .lifetree-index__card-link {
+  color: var(--color-ink);
+}
+/* Cards + panels (white bg / translucent-teal border). */
+:root[data-theme='dark'] .lifetree-index__card,
+:root[data-theme='dark'] .lifetree-index__caveat,
+:root[data-theme='dark'] .lifetree-page__about {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+}
+/* Card source-link foot strip (rgba teal wash + dashed border-top). */
+:root[data-theme='dark'] .lifetree-index__source-link {
+  background: color-mix(in srgb, var(--color-ink) 5%, transparent);
+  border-top-color: var(--color-border);
+}
+:root[data-theme='dark'] .lifetree-index__source-link:hover {
+  background: color-mix(in srgb, #8b5cf6 12%, transparent);
+  color: #a78bda;
+}
+/* Dashed dividers (footer / breadcrumbs / about-caveat top rule). */
+:root[data-theme='dark'] .lifetree-index__footer,
+:root[data-theme='dark'] .lifetree-page__breadcrumbs {
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .lifetree-index__footer code {
+  background: color-mix(in srgb, #8b5cf6 16%, transparent);
+  color: #c4b5fd;
+}
+/* Detail-page footer nav buttons (translucent-white bg / teal text). */
+:root[data-theme='dark'] .lifetree-page__footer {
+  border-top-color: var(--color-border);
+}
+:root[data-theme='dark'] .lifetree-page__back,
+:root[data-theme='dark'] .lifetree-page__index {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .lifetree-page__back:hover,
+:root[data-theme='dark'] .lifetree-page__index:hover {
+  background: color-mix(in srgb, #8b5cf6 14%, transparent);
+  border-color: color-mix(in srgb, #8b5cf6 45%, transparent);
+  color: #a78bda;
+}
+
+/* --- <LifeTree> component internals (.life-tree) --- */
+/* The container + node-content + intro + alt boxes read --color-bg /
+ * --color-bg-soft (auto-flip) with the text now aliased above. A few
+ * hardcoded hex remain: the provenance box #fff bg, the chose-box violet
+ * wash. Theme-color node tags/markers/dots + the green chose-icon +
+ * amber/violet plausibility rails all stay (data-ink / semantic). */
+:root[data-theme='dark'] .lifetree-page .life-tree__provenance {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  border-color: color-mix(in srgb, #8b5cf6 30%, transparent);
+}
+:root[data-theme='dark'] .lifetree-page .life-tree__provenance code {
+  background: color-mix(in srgb, #8b5cf6 16%, transparent);
+  color: #c4b5fd;
+}
+/* chose-box violet 4% wash is fine on dark; leave. node-theme-tag keeps
+ * white-on-theme-color (the theme colors are saturated enough). */
+
+/* =====================================================================
+ * Fork-graph (.fork-graph-page) — Tier 3b dark rollout (viz-heavy).
+ *
+ * A D3 branch/fork graph plus a 6-category legend + framing bands. The
+ * header + footer bands are already #1a1a2e (dark, kept). The GRAPH plate
+ * (bg-[#fafafa]) is KEPT LIGHT on purpose: every SVG element is painted by
+ * JS for a light background (grid #e0e0e0, axis labels #aaa, origin labels
+ * #999, white-fill fork nodes, row separators #f0f0f0) — inverting it would
+ * mean rewriting the D3 color logic, and the saturated data-ink (TW red
+ * #e74c3c / CN blue #3498db result nodes+labels) reads cleanly on the light
+ * plate. Same "viz on a light plate inside a dark page" call as the maps.
+ * We darken only: the page base, the white legend section, and its text.
+ * The 6 legend badge colors are categorical data-ink → kept. Gated on
+ * data-theme=dark → light mode pixel-identical.
+ * ===================================================================== */
+
+/* Page base (bg-[#f8f8f8]) → body bg. Header/footer #1a1a2e stay. */
+:root[data-theme='dark'] .fork-graph-page[class*='bg-[#f8f8f8]'] {
+  background-color: var(--color-bg);
+}
+/* Caption under the graph (#888 grey) → soft ink. The inline red/blue
+ * legend spans keep their saturated colors (data-ink, read on dark). */
+:root[data-theme='dark'] .fork-graph-page [class*='text-[#888]'] {
+  color: var(--color-ink-soft);
+}
+/* Legend section (white bg / #eee top+bottom border). */
+:root[data-theme='dark'] .fork-graph-page section[class~='bg-white'] {
+  background-color: var(--color-bg);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .fork-graph-page [class*='border-[#eee]'] {
+  border-color: var(--color-border);
+}
+/* Legend heading (#1a1a2e) → ink; item descriptions (#555, applied via the
+ * grid wrapper's [&_.fg-legend-item>p]:text-[#555] child variant → a
+ * native-nested @layer-utilities rule; re-declare in the layer to win, same
+ * recipe as the 404/projects nested-variant fixes). */
+:root[data-theme='dark'] .fork-graph-page [class*='text-[#1a1a2e]'] {
+  color: var(--color-ink);
+}
+@layer utilities {
+  :root[data-theme='dark']
+    .fork-graph-page
+    [class*='[&_.fg-legend-item>p]:text-[#555]'] {
+    & .fg-legend-item > p {
+      color: var(--color-ink-soft);
+    }
+  }
+}
+/* The 6 .fg-badge chips carry inline per-category color triplets
+ * (#xxxxxx22 tint bg / #xxxxxx text / #xxxxxx44 border) — categorical
+ * data-ink, KEPT as-is. Their ~13% tint reads fine on the dark bg. */

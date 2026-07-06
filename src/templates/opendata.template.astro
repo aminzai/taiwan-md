@@ -173,9 +173,14 @@ const graphData = {
 };
 ---
 
-<Layout lang={lang} title={c.meta.title} description={c.meta.description}>
+<Layout
+  lang={lang}
+  title={c.meta.title}
+  description={c.meta.description}
+  readerSettings={true}
+>
   <main
-    class="min-h-screen bg-[linear-gradient(160deg,#0f172a_0%,#1e293b_70%,#172033_100%)] pb-20 text-[#e2e8f0]"
+    class="opendata-page min-h-screen bg-[linear-gradient(160deg,#0f172a_0%,#1e293b_70%,#172033_100%)] pb-20 text-[#e2e8f0]"
   >
     <!-- Hero -->
     <PageHero
