@@ -214,6 +214,27 @@
   --color-surface: #141418;
   --color-border: rgba(241, 245, 249, 0.16);
   --color-accent: #60a5fa;
+
+  /* Phase 2 token dark overrides (2026-07-06 dark rollout).
+   * Only the tokens whose LIGHT value breaks on a near-black bg get an
+   * override here. Deliberately NOT overridden (their light value already
+   * reads correctly on dark): --surface-panel-dark / --surface-footer /
+   * --hero-overlay-dark (already dark by design); the saturated
+   * --status-vital-* / --status-tier-* / --cta-* gradients (bright enough
+   * on dark). --cat-* stay light-only pending the 4-palette convergence
+   * decision. */
+  --surface-glass: rgba(
+    255,
+    255,
+    255,
+    0.05
+  ); /* white-60% glass → faint lift on near-black */
+  --surface-glass-backdrop: rgba(255, 255, 255, 0.04);
+  --scene-nature-bg: linear-gradient(
+    135deg,
+    #0d1f16 0%,
+    #0a1912 100%
+  ); /* light-mint section → dark forest green */
   color-scheme: dark;
 }
 

@@ -511,3 +511,372 @@
 :root[data-theme='dark'] main.category-page input#articleFilter::placeholder {
   color: var(--color-ink-soft);
 }
+
+/* ══════════════════════════════════════════════════════════════════
+ * HOME PAGE overrides (.home-page).
+ *
+ * src/templates/home.template.astro + its child components
+ * (home/CoverStory, home/RandomDiscovery, home/ReaderDoors,
+ * ReadingPath, FeatureCards, CategoryGrid, home/RecentUpdates,
+ * home/LanguageStatement, home/ContributeSection) carry hardcoded
+ * light hex/rgba from before color tokens existed. Every rule below is
+ * scoped to `.home-page` (a wrapper the template adds around all its
+ * children inside the Layout slot) so nothing leaks to other pages, and
+ * gated on data-theme=dark so light mode is pixel-identical.
+ *
+ * Left dark by intent (already dark surfaces, verified): HeroSection
+ * (#0e2018→#1a3c34 gradient), OrganismPreview (dark teal card),
+ * CommunityFeedback (--surface-panel-dark), NewsletterSection
+ * (bg-[#2d5016] green band with white text).
+ *
+ * Born: 2026-07-06 dark-mode Tier 1 rollout (home + reading surfaces).
+ * ══════════════════════════════════════════════════════════════════ */
+
+/* --- Light section / card / panel backgrounds → dark surface --- */
+/* CoverStory off-white section; FeatureCards + ReaderDoors white cards;
+ * CategoryGrid near-white cards; RecentUpdates light-blue panel + inner
+ * white cards; ContributeSection light slate gradient panel. */
+:root[data-theme='dark'] .home-page [class*='bg-[#fafbfc]'],
+:root[data-theme='dark'] .home-page [class~='bg-white'],
+:root[data-theme='dark'] .home-page [class*='bg-white/[0.98]'],
+:root[data-theme='dark'] .home-page [class*='bg-white/70'] {
+  background-color: var(--color-surface);
+}
+/* Multi-stop light gradients (RandomDiscovery amber, ContributeSection
+ * + RecentUpdates slate/blue) → flat dark surface. */
+:root[data-theme='dark']
+  .home-page
+  [class*='bg-[linear-gradient(135deg,#fffbeb'],
+:root[data-theme='dark']
+  .home-page
+  [class*='bg-[linear-gradient(135deg,#f8fafc'] {
+  background-image: none !important;
+  background-color: var(--color-surface);
+}
+
+/* --- Light borders on those cards/panels → token border --- */
+:root[data-theme='dark'] .home-page [class*='border-[#f1f5f9]'],
+:root[data-theme='dark'] .home-page [class*='border-[#e2e8f0]'],
+:root[data-theme='dark'] .home-page [class*='border-[#e0f2fe]'],
+:root[data-theme='dark'] .home-page [class*='border-[#dbe9f3]'],
+:root[data-theme='dark'] .home-page [class*='border-[#d1d5db]'],
+:root[data-theme='dark'] .home-page [class*='border-[rgba(226,232,240'] {
+  border-color: var(--color-border);
+}
+
+/* --- Dark text that now sits on a dark surface → light ink --- */
+/* Primary ink: headings + card titles + blockquote + hall labels
+ * (#1f2937 grey, #1a1a2e ink, #1a3c34 teal, #1e293b slate, #1e3a5f blue,
+ * #14532d dark-green pick titles). */
+:root[data-theme='dark'] .home-page [class*='text-[#1f2937]'],
+:root[data-theme='dark'] .home-page [class*='text-[#1a1a2e]'],
+:root[data-theme='dark'] .home-page [class*='text-[#1e293b]'],
+:root[data-theme='dark'] .home-page [class*='text-[#1e3a5f]'],
+:root[data-theme='dark']
+  .home-page
+  [class*='text-[#1a3c34]']:not([class*='bg-[#1a3c34]']) {
+  color: var(--color-ink);
+}
+/* Secondary ink: lead / description / muted greys
+ * (#475569 slate, #44403c warm-grey, #4a6560 grey-green). */
+:root[data-theme='dark'] .home-page [class*='text-[#475569]'],
+:root[data-theme='dark'] .home-page [class*='text-[#44403c]'],
+:root[data-theme='dark'] .home-page [class*='text-[#4a6560]'] {
+  color: var(--color-ink-soft);
+}
+
+/* --- ReadingPath green scene text (#166534 heading / #16a34a subtitle).
+ * The section bg is var(--scene-nature-bg) which auto-flips dark; the
+ * green text then needs lifting so it doesn't sit near-invisible. Keep a
+ * green cast (accent) on headings, soft ink on body. --- */
+:root[data-theme='dark'] .home-page [class*='text-[#166534]'] {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .home-page [class*='text-[#16a34a]'] {
+  color: var(--color-accent);
+}
+
+/* --- RandomDiscovery body copy (#92400e brown on the now-dark amber
+ * card). Kept amber-tinted so the "random" section still reads warm. --- */
+:root[data-theme='dark'] .home-page [class*='text-[#92400e]'] {
+  color: #e0b080;
+}
+
+/* --- Exhibition halls: home.template.astro scopes these via :global()
+ * so they escape Astro hashing; we re-scope under .home-page and win on
+ * the extra data-theme qualifier. --- */
+:root[data-theme='dark'] .home-page .hall-label,
+:root[data-theme='dark'] .home-page .hall-body p,
+:root[data-theme='dark'] .home-page .hall-body a {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .home-page .hall-body a:hover {
+  color: var(--color-accent);
+}
+/* Topic pills + pick cards keep a green accent identity, rebuilt on the
+ * dark bg so the chip/card still reads as a distinct surface. */
+:root[data-theme='dark'] .home-page .hall-body a.topic-pill {
+  background: color-mix(in srgb, var(--color-accent) 14%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent) 35%, transparent);
+  color: var(--color-accent);
+}
+:root[data-theme='dark'] .home-page .hall-body a.topic-pill:hover {
+  background: color-mix(in srgb, var(--color-accent) 22%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent) 45%, transparent);
+}
+:root[data-theme='dark'] .home-page .pick-card {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  border-color: var(--color-border);
+  border-left-color: color-mix(in srgb, var(--color-accent) 55%, transparent);
+}
+:root[data-theme='dark'] .home-page .pick-card:hover {
+  background: color-mix(in srgb, var(--color-accent) 10%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent) 30%, transparent);
+  border-left-color: var(--color-accent);
+}
+:root[data-theme='dark'] .home-page .pick-title {
+  color: var(--color-ink);
+}
+/* .pick-fn / .pick-desc / .hall-bridge-text (#6b7280 / #4b5563) already
+ * read acceptably as muted-on-dark; nudge to soft ink for consistency. */
+:root[data-theme='dark'] .home-page .pick-desc,
+:root[data-theme='dark'] .home-page .pick-fn,
+:root[data-theme='dark'] .home-page .hall-bridge-text {
+  color: var(--color-ink-soft);
+}
+/* Hall divider / bridge lines use a green rgba that vanishes on dark. */
+:root[data-theme='dark'] .home-page .hall-line,
+:root[data-theme='dark'] .home-page .hall-bridge-line {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    color-mix(in srgb, var(--color-ink) 20%, transparent),
+    transparent
+  );
+}
+
+/* ══════════════════════════════════════════════════════════════════
+ * EXPLORE PAGE overrides (.explore-page).
+ *
+ * src/templates/explore.template.astro uses Tailwind arbitrary values
+ * throughout (slate palette #1a1a2e / #64748b / #94a3b8 / #475569 on
+ * white / #f8fafc / #f1f5f9 / #e2e8f0 surfaces). The PageHero band is
+ * dark-teal already (verified). Scoped to `.explore-page` wrapper.
+ * Born: 2026-07-06 dark-mode Tier 1 rollout.
+ * ══════════════════════════════════════════════════════════════════ */
+
+/* Light surfaces (search box, "more ways" cards, hot chips, hover rows,
+ * CTA github button, CategoryGrid card base bg-white/[0.98]) → dark
+ * surface tokens. */
+:root[data-theme='dark'] .explore-page [class~='bg-white'],
+:root[data-theme='dark'] .explore-page [class*='bg-[#f8fafc]'],
+:root[data-theme='dark'] .explore-page [class*='bg-[#f1f5f9]'],
+:root[data-theme='dark'] .explore-page [class*='hover:bg-[#f8fafc]'] {
+  background-color: var(--color-surface);
+}
+/* CategoryGrid: card name (#1a3c34) + count (#a8634a) + desc (#4a6560) +
+ * card base (bg-white/[0.98]). CategoryGrid ships its own component
+ * stylesheet whose @layer utilities land AFTER dark-polish.css in the
+ * /explore bundle (order differs per route — on /home the same rules win
+ * unlayered). We force these few cross-component overrides with
+ * !important, mirroring the existing .toc-link.active precedent in this
+ * file. All still gated on data-theme=dark, so light mode is untouched.
+ * The per-category gradient overlay + #006d77 accents stay (read fine). */
+:root[data-theme='dark'] .explore-page [class*='bg-white/[0.98]'] {
+  background-color: var(--color-surface) !important;
+}
+:root[data-theme='dark']
+  .explore-page
+  [class*='text-[#1a3c34]']:not([class*='bg-[#1a3c34]']) {
+  color: var(--color-ink) !important;
+}
+:root[data-theme='dark'] .explore-page [class*='text-[#a8634a]'] {
+  color: #d99878 !important;
+}
+:root[data-theme='dark'] .explore-page [class*='text-[#4a6560]'] {
+  color: var(--color-ink-soft) !important;
+}
+/* CTA-footer light-green gradient panel → flat dark surface. */
+:root[data-theme='dark']
+  .explore-page
+  [class*='bg-[linear-gradient(135deg,#f0fdf4'] {
+  background-image: none !important;
+  background-color: var(--color-surface);
+}
+
+/* Pale slate borders → token border. */
+:root[data-theme='dark'] .explore-page [class*='border-[#e2e8f0]'],
+:root[data-theme='dark'] .explore-page [class*='border-[#cbd5e1]'],
+:root[data-theme='dark'] .explore-page [class*='hover:border-[#e2e8f0]'] {
+  border-color: var(--color-border);
+}
+
+/* Dark ink text (#1a1a2e headings, hero-title, "more" titles) → light ink.
+ * #065f46 (deep green cta heading) also needs lift on dark. */
+:root[data-theme='dark'] .explore-page [class*='text-[#1a1a2e]'],
+:root[data-theme='dark'] .explore-page [class*='text-[#065f46]'] {
+  color: var(--color-ink);
+}
+/* Muted slate (#64748b subtitles, #475569 chip label, #94a3b8 placeholder,
+ * #374151 cta body) → soft ink. */
+:root[data-theme='dark'] .explore-page [class*='text-[#64748b]'],
+:root[data-theme='dark'] .explore-page [class*='text-[#475569]'],
+:root[data-theme='dark'] .explore-page [class*='text-[#94a3b8]'],
+:root[data-theme='dark'] .explore-page [class*='text-[#374151]'] {
+  color: var(--color-ink-soft);
+}
+
+/* Hot-search chips: light mint tint (#f1f5f9 handled above); the search
+ * input placeholder inherits soft ink from the rule above. Keep the
+ * saturated CTA buttons (amber random / green contribute) untouched —
+ * they read fine on dark. */
+
+/* ══════════════════════════════════════════════════════════════════
+ * LATEST PAGE overrides (.latest-page).
+ *
+ * src/templates/latest.template.astro: filter chips, month markers,
+ * changelog footer, plus the shared TimelineDay / TimelineDayNav shells.
+ * PageHero band dark-teal already. Scoped to `.latest-page`.
+ * Born: 2026-07-06 dark-mode Tier 1 rollout.
+ * ══════════════════════════════════════════════════════════════════ */
+
+/* Filter chip bar + inactive chips (white bg, #e2e8f0 border) → dark. */
+:root[data-theme='dark'] .latest-page [class~='bg-white'],
+:root[data-theme='dark'] .latest-page [class*='bg-white/95'],
+:root[data-theme='dark'] .latest-page [class*='bg-[#f8fafc]'],
+:root[data-theme='dark'] .latest-page [class*='hover:bg-[#f8fafc]'] {
+  background-color: var(--color-surface);
+}
+:root[data-theme='dark'] .latest-page [class*='border-[#e2e8f0]'],
+:root[data-theme='dark'] .latest-page [class*='border-[#f1f5f9]'],
+:root[data-theme='dark'] .latest-page [class*='hover:border-[#94a3b8]'] {
+  border-color: var(--color-border);
+}
+/* Inactive chip text (#64748b) + empty state + month-marker labels
+ * (#94a3b8) → soft ink. The .active "all" chip keeps its emerald fill. */
+:root[data-theme='dark'] .latest-page [class*='text-[#64748b]'],
+:root[data-theme='dark'] .latest-page [class*='text-[#94a3b8]'] {
+  color: var(--color-ink-soft);
+}
+/* Month-marker divider line (#e2e8f0) as a bg utility. */
+:root[data-theme='dark'] .latest-page [class*='bg-[#e2e8f0]'] {
+  background-color: var(--color-border);
+}
+
+/* --- TimelineDay shell (共用元件；scoped under .latest-page) --- */
+/* Day-title serif #1a3c34 → ink (dark-on-dark otherwise). */
+:root[data-theme='dark'] .latest-page [class*='text-[#1a3c34]'],
+:root[data-theme='dark'] .latest-page [class*='text-[#1e293b]'] {
+  color: var(--color-ink);
+}
+/* Emerald day-count badge: light mint bg #f0fdf4 + #059669 green text.
+ * On dark the mint bg vanishes — rebuild as an accent tint chip. */
+:root[data-theme='dark'] .latest-page [class*='bg-[#f0fdf4]'] {
+  background-color: color-mix(in srgb, var(--color-accent) 16%, transparent);
+}
+:root[data-theme='dark'] .latest-page [class*='text-[#059669]'] {
+  color: var(--color-accent);
+}
+/* Timeline connector line + dot ring: #6ee7b7 / #ecfdf5 washes on dark.
+ * Keep the line accent-tinted; soften the ring to a subtle halo. */
+:root[data-theme='dark'] .latest-page [class*='bg-[#6ee7b7]'] {
+  background-color: color-mix(in srgb, var(--color-accent) 55%, transparent);
+}
+:root[data-theme='dark'] .latest-page [class*='ring-[#ecfdf5]'] {
+  --tw-ring-color: color-mix(in srgb, var(--color-accent) 18%, transparent);
+}
+/* TimelineDayNav hover tint (#f0fdf4). */
+:root[data-theme='dark'] .latest-page [class*='hover:bg-[#f0fdf4]'] {
+  background-color: color-mix(in srgb, var(--color-accent) 12%, transparent);
+}
+
+/* ══════════════════════════════════════════════════════════════════
+ * SHARED: ArticleCard (.article-card, is:global) on explore + latest.
+ *
+ * ArticleCard.astro styles are global class selectors with hardcoded
+ * light hex (base white bg, #14532d / #1a3c34 titles, #64748b desc,
+ * #f8fafc thumb bg, #f1f5f9 foot border). Scope under each page wrapper
+ * so we win specificity via the extra data-theme qualifier without
+ * touching the component (used site-wide, including light-only pages).
+ * ══════════════════════════════════════════════════════════════════ */
+:root[data-theme='dark'] .explore-page .article-card,
+:root[data-theme='dark'] .latest-page .article-card {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .explore-page .article-card:hover,
+:root[data-theme='dark'] .latest-page .article-card:hover {
+  background: color-mix(in srgb, var(--color-accent) 8%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent) 45%, transparent);
+}
+/* is-premium / is-row / is-detailed hover states also repaint bg:white. */
+:root[data-theme='dark'] .explore-page .article-card.is-premium:hover,
+:root[data-theme='dark'] .latest-page .article-card.is-premium:hover {
+  background: var(--color-surface);
+}
+:root[data-theme='dark'] .explore-page .article-card.is-row,
+:root[data-theme='dark'] .latest-page .article-card.is-row {
+  background: transparent;
+}
+:root[data-theme='dark'] .explore-page .article-card.is-row:hover,
+:root[data-theme='dark'] .latest-page .article-card.is-row:hover {
+  background: color-mix(in srgb, var(--color-accent) 8%, transparent);
+  border-color: var(--color-border);
+}
+/* Titles (#14532d / #1a3c34) → ink; hover greens (#006d77 / #065f46)
+ * stay as accents (already legible on dark). */
+:root[data-theme='dark'] .explore-page .article-card-title,
+:root[data-theme='dark'] .latest-page .article-card-title {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .explore-page .article-card:hover .article-card-title,
+:root[data-theme='dark'] .latest-page .article-card:hover .article-card-title {
+  color: var(--color-accent);
+}
+/* Descriptions (#6b7280 / #7a8b7e / #64748b / #94a3b8), meta, dates,
+ * tags, stats → soft ink. */
+:root[data-theme='dark'] .explore-page .article-card-desc,
+:root[data-theme='dark'] .latest-page .article-card-desc,
+:root[data-theme='dark'] .explore-page .article-card-meta,
+:root[data-theme='dark'] .latest-page .article-card-meta,
+:root[data-theme='dark'] .explore-page .article-card-date,
+:root[data-theme='dark'] .latest-page .article-card-date,
+:root[data-theme='dark'] .explore-page .article-card-updated,
+:root[data-theme='dark'] .latest-page .article-card-updated,
+:root[data-theme='dark'] .explore-page .article-card-premdate,
+:root[data-theme='dark'] .latest-page .article-card-premdate,
+:root[data-theme='dark'] .explore-page .article-card-tag,
+:root[data-theme='dark'] .latest-page .article-card-tag,
+:root[data-theme='dark'] .explore-page .article-card-stat,
+:root[data-theme='dark'] .latest-page .article-card-stat {
+  color: var(--color-ink-soft);
+}
+/* Thumb placeholder bg (#f8fafc / #e8efec) + foot divider (#f1f5f9). */
+:root[data-theme='dark']
+  .explore-page
+  .article-card.is-detailed
+  .article-card-thumbwrap,
+:root[data-theme='dark']
+  .latest-page
+  .article-card.is-detailed
+  .article-card-thumbwrap,
+:root[data-theme='dark']
+  .explore-page
+  .article-card.is-premium
+  .article-card-hero,
+:root[data-theme='dark']
+  .latest-page
+  .article-card.is-premium
+  .article-card-hero {
+  background-color: color-mix(in srgb, var(--color-ink) 8%, transparent);
+}
+:root[data-theme='dark']
+  .explore-page
+  .article-card.is-detailed
+  .article-card-foot,
+:root[data-theme='dark']
+  .latest-page
+  .article-card.is-detailed
+  .article-card-foot {
+  border-top-color: var(--color-border);
+}

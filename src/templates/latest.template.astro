@@ -157,146 +157,149 @@ const navMonthsData = navMonths.map((m) => ({
   lang={lang}
   title={t('latest.meta.title')}
   description={t('latest.meta.description')}
+  readerSettings
 >
-  <PageHero
-    bgVariant="solid"
-    bgColor="#1a3c34"
-    bgTone="dark"
-    titleVariant="inherit"
-    containerWidth="wide"
-    eyebrow={t('latest.eyebrow')}
-    title={t('latest.title')}
-    subtitle={t('latest.subtitle')}
-    accentColor="rgba(255,255,255,0.7)"
-  />
+  <div class="latest-page">
+    <PageHero
+      bgVariant="solid"
+      bgColor="#1a3c34"
+      bgTone="dark"
+      titleVariant="inherit"
+      containerWidth="wide"
+      eyebrow={t('latest.eyebrow')}
+      title={t('latest.title')}
+      subtitle={t('latest.subtitle')}
+      accentColor="rgba(255,255,255,0.7)"
+    />
 
-  <div
-    class="mx-auto max-w-[var(--container-wide)] px-6 pb-24 max-[768px]:px-4"
-  >
-    {/* Category filter chips */}
     <div
-      id="latest-filters"
-      class="sticky top-[64px] z-20 -mx-4 mb-6 flex flex-wrap gap-2 border-b border-[#e2e8f0] bg-white/95 px-4 py-3 backdrop-blur-sm max-[768px]:top-[56px] max-[768px]:flex-nowrap max-[768px]:overflow-x-auto"
+      class="mx-auto max-w-[var(--container-wide)] px-6 pb-24 max-[768px]:px-4"
     >
-      <button
-        class="latest-chip whitespace-nowrap rounded-full border border-[#10b981] bg-[#10b981] px-3 py-1.5 text-xs font-semibold text-white transition-all"
-        data-cat="all"
+      {/* Category filter chips */}
+      <div
+        id="latest-filters"
+        class="sticky top-[64px] z-20 -mx-4 mb-6 flex flex-wrap gap-2 border-b border-[#e2e8f0] bg-white/95 px-4 py-3 backdrop-blur-sm max-[768px]:top-[56px] max-[768px]:flex-nowrap max-[768px]:overflow-x-auto"
       >
-        {t('latest.filterAll')}<span class="ml-1 opacity-70"
-          >{articles.length}</span
+        <button
+          class="latest-chip whitespace-nowrap rounded-full border border-[#10b981] bg-[#10b981] px-3 py-1.5 text-xs font-semibold text-white transition-all"
+          data-cat="all"
         >
-      </button>
-      {
-        presentCats.map((c) => {
-          const cfg = cats[c] || {};
-          const count = articles.filter((a) => a.category === c).length;
-          return (
-            <button
-              class="latest-chip whitespace-nowrap rounded-full border border-[#e2e8f0] bg-white px-3 py-1.5 text-xs font-semibold text-[#64748b] transition-all hover:border-[#94a3b8] hover:bg-[#f8fafc]"
-              data-cat={c}
-            >
-              {cfg.icon} {cfg.name}
-              <span class="ml-1 opacity-60">{count}</span>
-            </button>
-          );
-        })
-      }
-    </div>
-
-    {
-      articles.length === 0 && (
-        <p class="py-16 text-center text-[#94a3b8]">{t('latest.empty')}</p>
-      )
-    }
-
-    {
-      /* Two-column: left date-nav rail + right day-grouped timeline (共用 timeline 元件) */
-    }
-    <div
-      class="grid grid-cols-[170px_1fr] gap-8 max-lg:grid-cols-1 max-lg:gap-0"
-    >
-      <TimelineDayNav
-        months={navMonthsData}
-        anchorPrefix="latest-day-"
-        accent="emerald"
-        top="132px"
-      />
-
-      <div id="latest-timeline" data-today-label={t('latest.today')}>
+          {t('latest.filterAll')}<span class="ml-1 opacity-70"
+            >{articles.length}</span
+          >
+        </button>
         {
-          days.map((day, dayIdx) => (
-            <Fragment>
-              {dayIdx > 0 &&
-                day.slice(0, 7) !== days[dayIdx - 1].slice(0, 7) && (
-                  <div
-                    class="timeline-month-marker mb-5 mt-1 flex items-center gap-3 pl-[42px] max-[768px]:pl-[30px]"
-                    data-month={day.slice(0, 7)}
-                  >
-                    <span class="text-[0.72rem] font-bold uppercase tracking-[0.14em] text-[#94a3b8]">
-                      {fmtMonth(day.slice(0, 7))}
-                    </span>
-                    <span class="h-px flex-1 bg-[#e2e8f0]" />
-                  </div>
-                )}
-              <TimelineDay
-                id={`latest-day-${day}`}
-                title={fmtDayFull(day)}
-                badge={`${dayMap.get(day)!.length} ${t('latest.dayCount')}`}
-                isLast={dayIdx === days.length - 1}
-                accent="emerald"
-                titleStyle="serif"
-                dataAttrs={{ 'data-day': day }}
+          presentCats.map((c) => {
+            const cfg = cats[c] || {};
+            const count = articles.filter((a) => a.category === c).length;
+            return (
+              <button
+                class="latest-chip whitespace-nowrap rounded-full border border-[#e2e8f0] bg-white px-3 py-1.5 text-xs font-semibold text-[#64748b] transition-all hover:border-[#94a3b8] hover:bg-[#f8fafc]"
+                data-cat={c}
               >
-                {dayMap.get(day)!.map((a) => {
-                  const cfg = cats[a.category] || {};
-                  return (
-                    <ArticleCard
-                      density="detailed"
-                      href={hrefFor(a)}
-                      title={a.title}
-                      description={a.description}
-                      categoryLabel={cfg.name}
-                      categoryIcon={cfg.icon}
-                      categoryColor={cfg.color || '#64748b'}
-                      coverImage={a.image || undefined}
-                      imageLoading={
-                        (orderIdx.get(`${a.category}/${a.slug}`) ?? 999) <
-                        EAGER_THUMBS
-                          ? 'eager'
-                          : 'lazy'
-                      }
-                      readingTime={
-                        a.readingTime
-                          ? `${a.readingTime} ${t('latest.minRead')}`
-                          : undefined
-                      }
-                      footnotes={a.footnotes}
-                      tags={a.tags}
-                      openIn="same-tab"
-                      extraClass="latest-row [content-visibility:auto] [contain-intrinsic-size:auto_140px]"
-                      dataAttrs={{
-                        'data-cat': a.category,
-                        'data-ga-section': 'latest_page',
-                      }}
-                    />
-                  );
-                })}
-              </TimelineDay>
-            </Fragment>
-          ))
+                {cfg.icon} {cfg.name}
+                <span class="ml-1 opacity-60">{count}</span>
+              </button>
+            );
+          })
         }
       </div>
-    </div>
 
-    <div class="mt-10 border-t border-[#f1f5f9] pt-6 text-center">
-      <a
-        href={`${langPrefix}/changelog`}
-        data-ga-section="latest_page"
-        data-ga-label="to_changelog"
-        class="text-[0.9rem] font-semibold text-[#10b981] no-underline hover:underline"
+      {
+        articles.length === 0 && (
+          <p class="py-16 text-center text-[#94a3b8]">{t('latest.empty')}</p>
+        )
+      }
+
+      {
+        /* Two-column: left date-nav rail + right day-grouped timeline (共用 timeline 元件) */
+      }
+      <div
+        class="grid grid-cols-[170px_1fr] gap-8 max-lg:grid-cols-1 max-lg:gap-0"
       >
-        {t('latest.changelogCta')}
-      </a>
+        <TimelineDayNav
+          months={navMonthsData}
+          anchorPrefix="latest-day-"
+          accent="emerald"
+          top="132px"
+        />
+
+        <div id="latest-timeline" data-today-label={t('latest.today')}>
+          {
+            days.map((day, dayIdx) => (
+              <Fragment>
+                {dayIdx > 0 &&
+                  day.slice(0, 7) !== days[dayIdx - 1].slice(0, 7) && (
+                    <div
+                      class="timeline-month-marker mb-5 mt-1 flex items-center gap-3 pl-[42px] max-[768px]:pl-[30px]"
+                      data-month={day.slice(0, 7)}
+                    >
+                      <span class="text-[0.72rem] font-bold uppercase tracking-[0.14em] text-[#94a3b8]">
+                        {fmtMonth(day.slice(0, 7))}
+                      </span>
+                      <span class="h-px flex-1 bg-[#e2e8f0]" />
+                    </div>
+                  )}
+                <TimelineDay
+                  id={`latest-day-${day}`}
+                  title={fmtDayFull(day)}
+                  badge={`${dayMap.get(day)!.length} ${t('latest.dayCount')}`}
+                  isLast={dayIdx === days.length - 1}
+                  accent="emerald"
+                  titleStyle="serif"
+                  dataAttrs={{ 'data-day': day }}
+                >
+                  {dayMap.get(day)!.map((a) => {
+                    const cfg = cats[a.category] || {};
+                    return (
+                      <ArticleCard
+                        density="detailed"
+                        href={hrefFor(a)}
+                        title={a.title}
+                        description={a.description}
+                        categoryLabel={cfg.name}
+                        categoryIcon={cfg.icon}
+                        categoryColor={cfg.color || '#64748b'}
+                        coverImage={a.image || undefined}
+                        imageLoading={
+                          (orderIdx.get(`${a.category}/${a.slug}`) ?? 999) <
+                          EAGER_THUMBS
+                            ? 'eager'
+                            : 'lazy'
+                        }
+                        readingTime={
+                          a.readingTime
+                            ? `${a.readingTime} ${t('latest.minRead')}`
+                            : undefined
+                        }
+                        footnotes={a.footnotes}
+                        tags={a.tags}
+                        openIn="same-tab"
+                        extraClass="latest-row [content-visibility:auto] [contain-intrinsic-size:auto_140px]"
+                        dataAttrs={{
+                          'data-cat': a.category,
+                          'data-ga-section': 'latest_page',
+                        }}
+                      />
+                    );
+                  })}
+                </TimelineDay>
+              </Fragment>
+            ))
+          }
+        </div>
+      </div>
+
+      <div class="mt-10 border-t border-[#f1f5f9] pt-6 text-center">
+        <a
+          href={`${langPrefix}/changelog`}
+          data-ga-section="latest_page"
+          data-ga-label="to_changelog"
+          class="text-[0.9rem] font-semibold text-[#10b981] no-underline hover:underline"
+        >
+          {t('latest.changelogCta')}
+        </a>
+      </div>
     </div>
   </div>
 </Layout>
