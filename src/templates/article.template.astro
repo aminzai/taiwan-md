@@ -262,9 +262,13 @@ const encodedTitle = encodeURIComponent(title);
     ───────────────────────────────────────────────────────────
     Same migration strategy as en/ja/ko [category]/[slug]:
     wrappers → inline Tailwind; .prose :global(*) + .reading-progress
-    stay scoped. zh-TW adds a meta-category-link and optional
-    meta-subcategory in the meta strip (not present in en/ja/ko).
-    Prose font is 'Noto Serif TC' instead of 'Inter'.
+    stay scoped. Prose font is 'Noto Serif TC' instead of 'Inter'.
+
+    NOTE (issue #1059 · 2026-07-06): the old content-start category /
+    subcategory meta chip that duplicated the ArticleHero breadcrumb was
+    removed in the 2026-06-13 template refactor (66e7db0ed). Category +
+    subcategory now live only in the hero breadcrumb — do not re-add a
+    content-start chip.
   -->
   <!-- Shot-mode watermark 已移至 src/layouts/Layout.astro 共用（2026-04-22 β）。
        JS toggle + CSS 同樣搬走，四語言 article page 統一支援 ?shot=1 模式。 -->

@@ -115,6 +115,34 @@
     outline-offset: 2px;
   }
 
+  /* Skip-to-content link (2026-07-06 design-audit §2.9-1).
+     First focusable element in <body> (Layout.astro). Visually hidden until
+     it receives keyboard focus, then it pins to the top-left so a keyboard /
+     screen-reader user can jump straight to #main-content, past the header nav.
+     Uses design tokens so it inherits the site accent + background. */
+  .skip-link {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2000;
+    /* Slid off the top edge until focused. Using transform (not display:none
+       or visibility:hidden) keeps it focusable + in the accessibility tree. */
+    transform: translateY(-120%);
+    padding: 0.6rem 1rem;
+    background: var(--color-accent);
+    color: var(--color-bg);
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+    border-radius: 0 0 8px 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transition: transform 0.18s ease;
+  }
+  .skip-link:focus,
+  .skip-link:focus-visible {
+    transform: translateY(0);
+  }
+
   button:focus-visible,
   a:focus-visible,
   input:focus-visible {

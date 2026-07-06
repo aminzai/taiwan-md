@@ -1613,6 +1613,13 @@ const categoryList = [
     .lang-toggle {
       order: 3;
     }
+    /* 2026-07-06: the live lang switcher (.lang-dropdown) had default order:0 and
+       was landing before search in this band. Pin it between search and hamburger
+       (matches the ≤768px rule). Element was already rendered here — this only
+       reorders, so the 768-1023px row width is unchanged (issue #573 guard). */
+    .lang-dropdown {
+      order: 3;
+    }
     .nav-mobile {
       position: absolute;
       top: 100%;
@@ -1703,6 +1710,34 @@ const categoryList = [
       padding: 0.3rem 0.5rem;
       font-size: 0.75rem;
       min-width: unset;
+    }
+    /* 2026-07-06 design-audit §2.7-4: keep the language switcher in the mobile
+       header row (it was landing before search with default order:0). Slot it
+       between search (order:2) and hamburger (order:4) so language switching is
+       reachable without opening the drawer — critical for a 6-language site.
+       Reuses the SAME .lang-dropdown markup + toggle logic; no second menu. */
+    .lang-dropdown {
+      order: 3;
+    }
+    .lang-dropdown-toggle {
+      /* ≥40px tap target (was ~31px: 0.4rem padding + 0.85rem text). */
+      min-height: 40px;
+      padding: 0.4rem 0.55rem;
+      gap: 0.2rem;
+    }
+    .lang-dropdown-toggle .lang-globe {
+      font-size: 1rem;
+    }
+    /* Menu must stay inside a 375px viewport: right-anchored to the toggle,
+       capped width, and scroll if it ever grows past the header row. */
+    .lang-dropdown-menu {
+      right: 0;
+      min-width: 10rem;
+      max-width: calc(100vw - 1.5rem);
+      max-height: calc(100dvh - 5rem);
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      -webkit-overflow-scrolling: touch;
     }
 
     /* Mobile drawer — adapts to scroll state. Opacity bumped + stronger

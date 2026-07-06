@@ -93,10 +93,7 @@ const contributorsHeading = t('article.contributors');
 const revisionLabel =
   revisionCount === 1
     ? t('article.sidebar.revisionOne')
-    : t('article.sidebar.revisionMany').replace(
-        '{n}',
-        String(revisionCount),
-      );
+    : t('article.sidebar.revisionMany').replace('{n}', String(revisionCount));
 
 const shortHash = commitHash ? commitHash.substring(0, 7) : '';
 const hashLabel = commitHash
@@ -124,8 +121,22 @@ const normalizedContributors = contributors.map((contributor) =>
     (sidebarBlock, metaRow, shareRow, etc.)
   - .copy-link-btn class retained (the script queries it by class)
   - .copy-link-text class retained (the script updates its textContent)
+--><!--
+  max-h + overflow (issue #1059 fix #2): the fixed bottom-right floating
+  cluster (back-to-top + "Aa" + .md, 48px chips stacked from bottom:2rem)
+  occupies the bottom ~210px of the viewport corner. A sticky aside with
+  no height cap grows to content height, so its last interactive rows
+  (Share links) landed inside that band at 1024–1600px and got covered —
+  bottom padding alone couldn't fix it because the aside isn't
+  viewport-bounded. Capping at calc(100dvh - 6rem top offset - 210px
+  cluster reserve) with internal scroll (same pattern as TableOfContents)
+  keeps every interactive row geometrically outside the cluster zone,
+  independent of content length. Mobile (max-lg, single column) drops the
+  cap — the cluster sits below the flowed sidebar there, so no overlap.
 -->
-<aside class="sticky top-24 flex flex-col">
+<aside
+  class="sticky top-24 flex max-h-[calc(100dvh-6rem-210px)] flex-col overflow-y-auto pb-6 max-lg:max-h-none max-lg:overflow-visible max-lg:pb-0"
+>
   <!-- Reading meta -->
   <div
     class="border-b border-[rgba(26,60,52,0.08)] pb-5 [&_.meta-row]:mb-2 [&_.meta-row]:flex [&_.meta-row]:items-center [&_.meta-row]:gap-[0.55rem] [&_.meta-row]:font-['Inter',system-ui,sans-serif] [&_.meta-row]:text-[0.82rem] [&_.meta-row]:text-[#4a5e52] [&_.meta-row_svg]:flex-shrink-0 [&_.meta-row_svg]:text-[#7a8b7e] [&_.meta-row--subtle]:text-[#7a8b7e]"

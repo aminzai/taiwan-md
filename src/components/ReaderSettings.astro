@@ -31,6 +31,7 @@ type Strings = {
   plainTextLabel: string;
   plainTextHint: string;
   close: string;
+  backToTop: string;
 };
 
 const STRINGS: Record<string, Strings> = {
@@ -48,6 +49,7 @@ const STRINGS: Record<string, Strings> = {
     plainTextLabel: '純文字版',
     plainTextHint: '無 JS / 無樣式 / 無圖片，適合弱網或舊裝置',
     close: '關閉',
+    backToTop: '回到頂部',
   },
   en: {
     open: 'Reader settings',
@@ -64,6 +66,7 @@ const STRINGS: Record<string, Strings> = {
     plainTextHint:
       'No JS, no CSS, no images — for poor networks or old devices',
     close: 'Close',
+    backToTop: 'Back to top',
   },
   ja: {
     open: '表示設定',
@@ -79,6 +82,7 @@ const STRINGS: Record<string, Strings> = {
     plainTextLabel: 'プレーンテキスト版',
     plainTextHint: 'JS/CSS/画像なし — 低速回線や古い端末向け',
     close: '閉じる',
+    backToTop: 'トップへ戻る',
   },
   ko: {
     open: '읽기 설정',
@@ -94,6 +98,7 @@ const STRINGS: Record<string, Strings> = {
     plainTextLabel: '플레인 텍스트 버전',
     plainTextHint: 'JS/CSS/이미지 없음 — 저속망·구형 기기용',
     close: '닫기',
+    backToTop: '맨 위로',
   },
   es: {
     open: 'Ajustes de lectura',
@@ -110,6 +115,7 @@ const STRINGS: Record<string, Strings> = {
     plainTextHint:
       'Sin JS, CSS o imágenes — redes lentas o dispositivos antiguos',
     close: 'Cerrar',
+    backToTop: 'Volver arriba',
   },
   fr: {
     open: 'Réglages de lecture',
@@ -126,11 +132,44 @@ const STRINGS: Record<string, Strings> = {
     plainTextHint:
       'Sans JS, CSS ni images — réseaux lents ou anciens appareils',
     close: 'Fermer',
+    backToTop: 'Haut de page',
   },
 };
 
 const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
 ---
+
+<!--
+  Back-to-top button (issue #1059 fix #4). Stacked ABOVE the Aa toggle
+  in the bottom-right floating cluster (same x as Aa, one button-row up),
+  so it never touches the bottom-left feedback FAB. Hidden until the reader
+  has scrolled past ~800px, then fades in; click smooth-scrolls to top.
+  Uses the same tokens (--color-ink / --color-accent) as .floating-md +
+  .reader-settings-toggle, so it flips with the theme automatically.
+-->
+<button
+  id="back-to-top"
+  class="back-to-top"
+  type="button"
+  aria-label={t.backToTop}
+  title={t.backToTop}
+  hidden
+>
+  <svg
+    width="20"
+    height="20"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    aria-hidden="true"
+  >
+    <line x1="12" y1="19" x2="12" y2="5"></line>
+    <polyline points="5 12 12 5 19 12"></polyline>
+  </svg>
+</button>
 
 <button
   id="reader-settings-toggle"
@@ -367,6 +406,43 @@ const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
   })();
 </script>
 
+<script is:inline>
+  // Back-to-top (issue #1059 fix #4). Plain JS + is:inline to match the
+  // sibling floating buttons. Show past ~800px, fade via .is-visible, click
+  // smooth-scrolls to top. rAF-throttled scroll handler so the read is cheap.
+  (function () {
+    var btn = document.getElementById('back-to-top');
+    if (!btn) return;
+    var THRESHOLD = 800;
+    var ticking = false;
+    function sync() {
+      ticking = false;
+      var show = window.scrollY > THRESHOLD;
+      if (show) {
+        // Reveal: drop [hidden] first so the opacity transition can run.
+        if (btn.hasAttribute('hidden')) btn.removeAttribute('hidden');
+        btn.classList.add('is-visible');
+      } else {
+        btn.classList.remove('is-visible');
+      }
+    }
+    function onScroll() {
+      if (!ticking) {
+        ticking = true;
+        window.requestAnimationFrame(sync);
+      }
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    btn.addEventListener('click', function () {
+      var reduce =
+        window.matchMedia &&
+        window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+    });
+    sync();
+  })();
+</script>
+
 <style>
   .reader-settings-toggle {
     position: fixed;
@@ -390,6 +466,52 @@ const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
     transform: translateY(-2px);
     background: var(--color-accent);
     color: var(--color-bg);
+  }
+  /* Back-to-top — same 48px chip + tokens as the Aa toggle, stacked one
+     button-row above it (same right offset, bottom bumped by a row). Hidden
+     by default; .is-visible fades it in once JS clears [hidden]. z-index 40
+     matches the sibling floating buttons. */
+  .back-to-top {
+    position: fixed;
+    bottom: calc(2rem + 48px + 12px);
+    right: calc(2rem + 48px + 12px);
+    width: 48px;
+    height: 48px;
+    background: var(--color-ink);
+    color: var(--color-accent);
+    border: 0;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: var(--shadow-card);
+    opacity: 0;
+    transform: translateY(6px);
+    transition:
+      opacity 0.2s,
+      transform 0.2s,
+      background 0.2s,
+      color 0.2s;
+    z-index: 40;
+  }
+  .back-to-top.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .back-to-top:hover {
+    transform: translateY(-2px);
+    background: var(--color-accent);
+    color: var(--color-bg);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .back-to-top {
+      transition: opacity 0.2s;
+      transform: none;
+    }
+    .back-to-top.is-visible {
+      transform: none;
+    }
   }
   .reader-settings-panel {
     position: fixed;
@@ -506,7 +628,8 @@ const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
   }
   /* Hide on screenshot mode — same surface that hides ?shot=1 chrome. */
   :root[data-shot='1'] .reader-settings-toggle,
-  :root[data-shot='1'] .reader-settings-panel {
+  :root[data-shot='1'] .reader-settings-panel,
+  :root[data-shot='1'] .back-to-top {
     display: none !important;
   }
   @media (max-width: 640px) {
@@ -517,6 +640,11 @@ const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
     .reader-settings-panel {
       bottom: calc(1.2rem + 48px + 10px);
       right: 1.2rem;
+    }
+    /* Stack above the Aa toggle at the mobile offsets too. */
+    .back-to-top {
+      bottom: calc(1.2rem + 48px + 10px);
+      right: calc(1.2rem + 48px + 10px);
     }
   }
 </style>

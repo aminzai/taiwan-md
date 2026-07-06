@@ -99,6 +99,10 @@ const target = openIn === 'new-tab' ? '_blank' : '_self';
 const rel = openIn === 'new-tab' ? 'noopener noreferrer' : undefined;
 const Tag = href ? 'a' : 'div';
 const densityClass = `is-${density}`;
+// detailed 變體無圖時的「drop cap」placeholder：標題首字（Unicode code-point-safe,
+// 防 CJK/emoji surrogate pair 被切一半）大字低透明度立在分類色淡底上，取代舊版
+// 灰底 + 巨大 emoji watermark（design audit 2026-07-06 §2.10/§3.1 P0-6）。
+const dropCapChar = title ? [...title.trim()][0] : undefined;
 // 左圖右文：detailed 變體把縮圖移到文字左側（其他變體不受影響）
 const imgSideClass =
   density === 'detailed' && imageSide === 'left' ? 'is-img-left' : '';
@@ -300,10 +304,15 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
       ) : (
         <span
           class="article-card-thumbwrap article-card-thumb-ph"
-          style={`background: ${categoryColor}14;`}
+          style={`background: ${categoryColor}1a;`}
           aria-hidden="true"
         >
-          {categoryIcon}
+          <span
+            class="article-card-thumb-dropcap"
+            style={`color: ${categoryColor};`}
+          >
+            {dropCapChar}
+          </span>
         </span>
       ))
   }
@@ -588,9 +597,21 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
   .article-card.is-detailed:hover .article-card-thumb {
     transform: scale(1.04);
   }
+  /* Drop-cap placeholder（無圖時）：標題首字大字低透明度立在分類色淡底上，
+     取代舊版灰底 + 巨大 emoji watermark。字級用 box 高度的倍數撐大再讓
+     overflow:hidden（繼承自 .article-card-thumbwrap）裁切，desktop 固定
+     125px 高、手機 aspect-ratio 16/10 撐開時都不會撐壞版面。 */
   .article-card.is-detailed .article-card-thumb-ph {
-    font-size: 30px;
-    opacity: 0.55;
+    position: relative;
+  }
+  .article-card.is-detailed .article-card-thumb-dropcap {
+    font-family: var(--font-title);
+    font-weight: 700;
+    font-size: 4.6rem;
+    line-height: 1;
+    opacity: 0.25;
+    transform: translateY(0.06em);
+    white-space: nowrap;
   }
   /* 左圖右文：縮圖移到文字左側（desktop）。手機仍走下方 column 規則（圖上文下）。 */
   .article-card.is-detailed.is-img-left .article-card-thumbwrap {
@@ -608,8 +629,8 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
       aspect-ratio: 16 / 10;
       align-self: stretch;
     }
-    .article-card.is-detailed .article-card-thumb-ph {
-      font-size: 36px;
+    .article-card.is-detailed .article-card-thumb-dropcap {
+      font-size: 6.4rem;
     }
   }
   .article-card.is-detailed .article-card-body {

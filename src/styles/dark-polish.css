@@ -333,19 +333,27 @@
  * (#006d77 border + rgba(0,109,119,0.06) bg + #006d77 text) in arbitrary
  * Tailwind variants `[&.active]:...`. These wash out against the dark
  * (#050505) page background — the active chapter becomes indistinguishable
- * from inactive ones. Override the three properties with accent-derived
- * tints that read clearly on dark. */
+ * from inactive ones (issue #1059 §2: "暗黑模式位置指引修正").
+ *
+ * v2 (2026-07-06): the first pass (accent 14% bg + 2px border) was still
+ * too low-contrast to spot the current section at a glance. Strengthen:
+ *   - border-left → 3px, full accent (a clear left rail marks position)
+ *   - background → accent 22% (a distinct-but-calm block, not a wash)
+ *   - text → accent + weight 600 so the label itself reads as "current"
+ * Light theme is untouched (this whole file is gated on data-theme=dark). */
 :root[data-theme='dark'] .toc-link.active {
+  border-left-width: 3px !important;
   border-left-color: var(--color-accent) !important;
   background-color: color-mix(
     in srgb,
-    var(--color-accent) 14%,
+    var(--color-accent) 22%,
     transparent
   ) !important;
   color: var(--color-accent) !important;
 }
 :root[data-theme='dark'] .toc-link.active span {
   color: var(--color-accent) !important;
+  font-weight: 600 !important;
 }
 
 /* ──────────────────────────────────────────────────────────────────

@@ -108,9 +108,9 @@ const pageType =
     : category
       ? 'category'
       : currentPath
-            .replace(/^\/(en|ja|ko|es|fr)(?=\/|$)/, '')
-            .split('/')
-            .filter(Boolean)[0] || 'home');
+          .replace(/^\/(en|ja|ko|es|fr)(?=\/|$)/, '')
+          .split('/')
+          .filter(Boolean)[0] || 'home');
 const isHome = currentPath === '/' || currentPath === '/en';
 // Feedback widget page-kind (v2): drives context-aware category set + inline
 // text-selection annotation on articles. Derived from page type + path.
@@ -135,6 +135,19 @@ const jfClass = [
 ]
   .filter(Boolean)
   .join(' ');
+
+// Skip-to-content link label, localized by the Layout's lang prop
+// (2026-07-06 design-audit §2.9-1). Keyed by the six site languages;
+// falls back to zh-TW.
+const skipLinkLabels: Record<string, string> = {
+  'zh-TW': '跳到主要內容',
+  en: 'Skip to content',
+  ja: '本文へスキップ',
+  ko: '본문으로 건너뛰기',
+  es: 'Saltar al contenido',
+  fr: 'Aller au contenu',
+};
+const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
 ---
 
 <!doctype html>
@@ -470,6 +483,11 @@ const jfClass = [
     </script>
   </head>
   <body class={jfClass}>
+    <!-- Skip-to-content link — first focusable element in <body> so keyboard /
+         screen-reader users can bypass the header nav. Visually hidden until
+         focused (.skip-link in global.css). 2026-07-06 design-audit §2.9-1. -->
+    <a href="#main-content" class="skip-link">{skipLinkLabel}</a>
+
     <Header />
 
     <script is:inline>
@@ -892,7 +910,7 @@ const jfClass = [
       <BrandMark variant="light" size={1.8} />
     </div>
 
-    <main role="main">
+    <main id="main-content" role="main">
       <slot />
     </main>
 
