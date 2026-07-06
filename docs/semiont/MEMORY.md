@@ -329,3 +329,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-07 | 042046-twmd-babel-nightly | 58 shipped（10 bump / 15 patch / 33 cascade）；en/es 100%、3 lang 99.9%；`480c6c9d2`| codex nvm vc=2；gemma 同 provider 429；ollama 5-way → ko/fr 全 timeout | [→](memory/2026-07-07-042046-twmd-babel-nightly.md) |
 | 2026-07-07 | 051635-twmd-embeddings-nightly | 遷本機第二夜：127.0.0.1 命中、4911 向量六語 0 fail、verify PASS 100% 8-鄰居、commit`ef4c05737`（+4 向量 es/fr 各+2） | boring-is-good：連兩夜同路徑 0 fail，穩定的證明是沒故事可講 | [→](memory/2026-07-07-051635-twmd-embeddings-nightly.md) |
 | 2026-07-07 | 061154-twmd-data-refresh-am | am 14-step 全綠；CF 404 26.08% 卡昨 am/pm 之間；免疫 49 chronic vc=4；`22f3b2df3` | vc=3 該升歸因非 14-step 契約，defer pm 第四點 | [→](memory/2026-07-07-061154-twmd-data-refresh-am.md) |
+| 2026-07-07 | 070617-twmd-feedback-triage | 07:00 cron 0 筆 empty-queue 第2連續；file=0/synced=0；backend 活著；#1206/#1207 續交 maintainer | intake stochastic，empty≠故障；第3+ cycle 續空才驗 total row 停增 | [→](memory/2026-07-07-070617-twmd-feedback-triage.md) |
