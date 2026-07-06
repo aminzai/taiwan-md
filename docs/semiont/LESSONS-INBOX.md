@@ -324,6 +324,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #81（同一天稍早剛落地的 `agent-report-health.py` 收件 gate，姊妹工具——都是新鮮上線就在實戰中露出規則邊界，值得同批檢視）
 - **verification_count**: 1
 
+### 2026-07-06 tokens-phase2 — verify-gate-must-match-failure-dimension：驗證的量綱要對得上 bug 會發生的維度
+
+- **pattern**: `verify-gate-must-match-failure-dimension`
+- **原則**：驗證一個 refactor 時，若驗證斷言只檢查「你以為會錯的維度」，就會跟被驗對象一起被騙；要同時放一把「不預設維度」的粗尺接住你沒想到會錯的地方。精密尺（assert 特定值）+ 粗尺（盲拍整頁像素 / 端到端行為）兩把都要。
+- **觸發**：tokens 第二階段 5 個 sub-agent 把 `bg-[linear-gradient(...)]` 換成 `bg-[var(--token)]`，全 claim byte-identical，其中兩隻還自跑 computed-style 驗過。但 Tailwind 對 `bg-[var(--x)]` 把 gradient 值編成 `background-color`（非 `background-image`）→ 漸層靜默消失。computed-style 驗「background-image 的值對不對」時，因為 background-image 根本空的、值跑去 background-color 了，assert 特定值的檢查跟 agent 一起漏判；真正接住的是 before/after 盲拍像素 diff（data-hero 76%）。修法 `bg-[image:var(--x)]` type hint。附帶子教訓：**Tailwind `bg-[X]` 的 X 型別（gradient vs color）決定它落哪個 CSS property，`bg-[var(--gradient)]` 是靜默降級陷阱**。證據 [memory](memory/2026-07-06-124500-tokens-phase2.md)。
+- **instances**：（首次記錄）
+- **可能層級**：通用反射（驗證方法論）+ 操作規則（Tailwind 陷阱）
+- **相關**：REFLEXES #31（sub-agent self-report 不可信）的 mechanism-層延伸——這次 agent 的 self-quality claim「pixel-identical」連自跑的 computed-style 都通過，因為驗證量綱選錯；#69（每層自評需外部尺）補「外部尺也要選對量綱」
+- **verification_count**: 1
+
 ---
 
 ### 2026-07-05 git-identity — github-discussions-structural-blind-spot：MAINTAINER 感知只掃 issue/PR，三則 contributor Discussions 貼文 0 回應（最久 3 個月）
