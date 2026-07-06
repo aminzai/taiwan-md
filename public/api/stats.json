@@ -1,12 +1,12 @@
 {
-  "totalArticles": 5065,
+  "totalArticles": 5068,
   "totalCategories": 20,
   "estimatedContributors": 65,
-  "totalTags": 6094,
+  "totalTags": 6070,
   "categories": [
     {
       "name": "es",
-      "count": 842
+      "count": 844
     },
     {
       "name": "ko",
@@ -14,7 +14,7 @@
     },
     {
       "name": "fr",
-      "count": 843
+      "count": 844
     },
     {
       "name": "en",
@@ -88,15 +88,15 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 74
+      "count": 72
     },
     {
       "name": "人物",
-      "count": 61
+      "count": 60
     },
     {
       "name": "企業",
-      "count": 60
+      "count": 59
     },
     {
       "name": "科技與企業",
@@ -119,8 +119,8 @@
       "count": 25
     },
     {
-      "name": "인물",
-      "count": 23
+      "name": "AI",
+      "count": 24
     },
     {
       "name": "民主化",
@@ -137,6 +137,10 @@
     {
       "name": "文化",
       "count": 23
+    },
+    {
+      "name": "인물",
+      "count": 22
     },
     {
       "name": "YouTuber",
@@ -159,20 +163,16 @@
       "count": 22
     },
     {
-      "name": "AI",
-      "count": 22
-    },
-    {
       "name": "高雄",
       "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5065,
+    "zh-TW": 5068,
     "en": 0
   },
-  "lastUpdated": "2026-07-06T15:08:56.736Z",
-  "stars": 1097,
+  "lastUpdated": "2026-07-06T22:11:14.111Z",
+  "stars": 1098,
   "forks": 161,
   "zhPages": 842,
   "enPages": 849,

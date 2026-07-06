@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-07-06T15:08:58.275Z",
+  "generatedAt": "2026-07-06T22:11:15.775Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "a54373bd126af980551488a24706666743cd2eb8",
+      "date": "2026-07-07T05:18:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-07-051635-twmd-embeddings-nightly — 遷本機第二夜 4911 向量六語 0 fail + verify PASS 100% 8-鄰居 + boring-is-good",
+      "articles": []
+    },
+    {
+      "hash": "ef4c05737e258292dc915f9df83f766ddd6c9d5a",
+      "date": "2026-07-07T05:16:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-07 05:16",
+      "articles": []
+    },
+    {
+      "hash": "3f92f0e99aab764b6a559417a010b283f0777dfb",
+      "date": "2026-07-07T04:23:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-07-042046-twmd-babel-nightly — 58 shipped + codex nvm vc=2 + retry parallelism v2 handoff",
+      "articles": []
+    },
+    {
+      "hash": "480c6c9d28c3d1b2fe501a60c0b0156c5bb027ae",
+      "date": "2026-07-07T04:20:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 58 translations (10 bump + 15 patch + 33 cascade) — 5 lang sync 2026-07-07",
+      "articles": []
+    },
+    {
+      "hash": "bc4e6101be35c7fa419e35289af3b4baa43d7cce",
+      "date": "2026-07-06T23:13:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-06-231103-twmd-data-refresh-pm — pm 14-step 全綠 + CF 404 26.47% vc=3 破新高",
+      "articles": []
+    },
+    {
+      "hash": "11cd6d4217ffcdad3149af8d986f60bccd0ccfaf",
+      "date": "2026-07-06T23:11:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh — 2026-07-06 pm",
+      "articles": []
+    },
     {
       "hash": "200fcaa3430de2036d095d1ebeeff51492f29cb8",
       "date": "2026-07-06T15:52:12+08:00",

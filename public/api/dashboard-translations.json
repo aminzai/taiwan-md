@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T15:09:03.250Z",
+  "lastUpdated": "2026-07-06T22:11:20.741Z",
   "languages": [
     "zh-TW",
     "en",
@@ -20,62 +20,62 @@
     "en": {
       "total": 844,
       "percentage": 100,
-      "fresh": 833,
-      "metadataStale": 2,
-      "stale": 9,
+      "fresh": 841,
+      "metadataStale": 0,
+      "stale": 3,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 98.7,
-      "bodyFreshPct": 98.9
+      "freshPct": 99.6,
+      "bodyFreshPct": 99.6
     },
     "ja": {
       "total": 843,
       "percentage": 99.9,
-      "fresh": 832,
-      "metadataStale": 2,
-      "stale": 9,
+      "fresh": 840,
+      "metadataStale": 0,
+      "stale": 3,
       "missing": 1,
       "orphan": 0,
       "deficit": 1,
-      "freshPct": 98.6,
-      "bodyFreshPct": 98.8
+      "freshPct": 99.5,
+      "bodyFreshPct": 99.5
     },
     "ko": {
       "total": 843,
       "percentage": 99.9,
-      "fresh": 832,
-      "metadataStale": 2,
-      "stale": 9,
+      "fresh": 840,
+      "metadataStale": 0,
+      "stale": 3,
       "missing": 1,
       "orphan": 0,
       "deficit": 1,
-      "freshPct": 98.6,
-      "bodyFreshPct": 98.8
+      "freshPct": 99.5,
+      "bodyFreshPct": 99.5
     },
     "es": {
-      "total": 842,
-      "percentage": 99.8,
-      "fresh": 831,
-      "metadataStale": 2,
-      "stale": 9,
-      "missing": 2,
+      "total": 844,
+      "percentage": 100,
+      "fresh": 840,
+      "metadataStale": 0,
+      "stale": 4,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 98.5,
-      "bodyFreshPct": 98.7
+      "deficit": 0,
+      "freshPct": 99.5,
+      "bodyFreshPct": 99.5
     },
     "fr": {
-      "total": 842,
-      "percentage": 99.8,
-      "fresh": 831,
-      "metadataStale": 2,
-      "stale": 9,
-      "missing": 2,
+      "total": 843,
+      "percentage": 99.9,
+      "fresh": 839,
+      "metadataStale": 0,
+      "stale": 4,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 2,
-      "freshPct": 98.5,
-      "bodyFreshPct": 98.7
+      "deficit": 1,
+      "freshPct": 99.4,
+      "bodyFreshPct": 99.4
     }
   },
   "matrix": {
@@ -159,22 +159,22 @@
       "zh-TW": 67,
       "en": {
         "count": 67,
-        "fresh": 66,
-        "stale": 1,
+        "fresh": 67,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 67,
-        "fresh": 66,
-        "stale": 1,
+        "fresh": 67,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 67,
-        "fresh": 66,
-        "stale": 1,
+        "fresh": 67,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -187,8 +187,8 @@
       },
       "fr": {
         "count": 67,
-        "fresh": 66,
-        "stale": 1,
+        "fresh": 67,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       }
@@ -196,39 +196,39 @@
     "economy": {
       "zh-TW": 56,
       "en": {
-        "count": 54,
-        "fresh": 51,
-        "stale": 3,
+        "count": 56,
+        "fresh": 55,
+        "stale": 1,
         "missing": 0,
-        "deficit": 2
+        "deficit": 0
       },
       "ja": {
-        "count": 53,
-        "fresh": 50,
-        "stale": 3,
+        "count": 55,
+        "fresh": 55,
+        "stale": 0,
         "missing": 1,
-        "deficit": 3
+        "deficit": 1
       },
       "ko": {
-        "count": 53,
-        "fresh": 50,
-        "stale": 3,
+        "count": 55,
+        "fresh": 55,
+        "stale": 0,
         "missing": 1,
-        "deficit": 3
+        "deficit": 1
       },
       "es": {
-        "count": 53,
-        "fresh": 50,
-        "stale": 3,
-        "missing": 1,
-        "deficit": 3
+        "count": 56,
+        "fresh": 56,
+        "stale": 0,
+        "missing": 0,
+        "deficit": 0
       },
       "fr": {
-        "count": 54,
-        "fresh": 51,
-        "stale": 3,
+        "count": 56,
+        "fresh": 55,
+        "stale": 1,
         "missing": 0,
-        "deficit": 2
+        "deficit": 0
       }
     },
     "food": {
@@ -255,11 +255,11 @@
         "deficit": 0
       },
       "es": {
-        "count": 61,
-        "fresh": 61,
+        "count": 62,
+        "fresh": 62,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "fr": {
         "count": 62,
@@ -280,22 +280,22 @@
       },
       "ja": {
         "count": 66,
-        "fresh": 65,
-        "stale": 1,
+        "fresh": 66,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 66,
-        "fresh": 65,
-        "stale": 1,
+        "fresh": 66,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 66,
-        "fresh": 65,
-        "stale": 1,
+        "fresh": 66,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -463,38 +463,38 @@
       "zh-TW": 235,
       "en": {
         "count": 235,
-        "fresh": 231,
-        "stale": 4,
+        "fresh": 234,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 235,
-        "fresh": 231,
-        "stale": 4,
+        "fresh": 232,
+        "stale": 3,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 235,
-        "fresh": 231,
-        "stale": 4,
+        "fresh": 232,
+        "stale": 3,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 235,
-        "fresh": 231,
-        "stale": 4,
+        "fresh": 232,
+        "stale": 3,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
-        "count": 233,
-        "fresh": 229,
-        "stale": 4,
-        "missing": 2,
-        "deficit": 2
+        "count": 234,
+        "fresh": 232,
+        "stale": 2,
+        "missing": 1,
+        "deficit": 1
       }
     },
     "politics": {
@@ -619,12 +619,7 @@
     "ko": [
       "Economy/SLP台北創業領導計畫：六千元起家的一堂課，漲到五萬八還是一位難求.md"
     ],
-    "es": [
-      "Economy/AAMA 台北搖籃計畫：一群本可退休的人，用最慢的方式把手藝交出去.md",
-      "Food/不是鄭成功帶來的：虱目魚的四百年養殖史.md"
-    ],
     "fr": [
-      "People/林啟維：從國際得獎的實體桌遊品牌，到 20 萬創作者的軟體平台.md",
       "People/周天成：台灣羽球一哥，揮出世界第二的高度.md"
     ]
   },
