@@ -323,3 +323,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-06 | 113000-P0-執行波 | 審計 P0 6/6 落地：5 sub-agent 平行改 → build+實拍+8-angle review 對抗驗證 → `38bba4246`| review 抓回 footer 誤刪 /about（#31 規模化）；agent 修正主 session 審計前提 | [→](memory/2026-07-06-113000-P0-執行波.md) |
 | 2026-07-06 | 124500-tokens-phase2 | tokens 第二階段：授權 tokens.css + 5 agent 遷 consumer，零視覺變更`91d1cd946`；A1 210px→var | pixel-diff 攔到 `bg-[var(gradient)]`→background-color 漸層消失（分類色實為 4 套） | [→](memory/2026-07-06-124500-tokens-phase2.md) |
 | 2026-07-06 | 133221-施振榮-rewrite | 施振榮 EVOLVE ship：12 agent／~207 搜尋／5567 字 47 腳註 `bf8cb4795`；脊椎＝微笑曲線教父身家押台積電差 645 倍 | orchestrator 自己 Stage 0「60 倍」算錯被下游 2 agent 抓（#31 延伸合成層） | [→](memory/2026-07-06-133221-施振榮-rewrite.md) |
+| 2026-07-06 | 115400-acer-evolve | 宏碁 EVOLVE ship：微笑曲線自我悖論脊椎／5 agent 研究 6413 字（`bb3e6a0b7` 錯標）；修舊文 5 誤植 | 全套工作被平行 session 掃走；worktree 隔離才免疫共享 index race | [→](memory/2026-07-06-115400-acer-evolve.md) |
