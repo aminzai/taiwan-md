@@ -7,8 +7,8 @@ current_version: 'v1.1'
 last_updated: 2026-07-06
 last_session: '2026-07-05-220917-INDIGO-REWRITE'
 callers:
-  - 'REWRITE-PIPELINE.md#step-061-bis（mode=research-diverge）'
-  - 'SPORE-PIPELINE.md#階段-1pick（mode=hook-select）'
+  - 'REWRITE-PIPELINE.md#step-197（mode=gap-audit，v7.7 研究後）'
+  - 'SPORE-PIPELINE.md#階段-1pick（mode=hook-select，reuse）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - '../factory/SPORE-PIPELINE.md'
@@ -19,7 +19,7 @@ upstream_canonical:
 
 # PERSONA-PIPELINE.md — 共用 persona 發散原語
 
-> 一支「20 路讀者腦袋」的可組合原語。**不是 REWRITE 的步驟、不是 SPORE 的步驟**——是 REWRITE Stage 0.6.1-bis、SPORE Hook、未來 editorial audience-check 都 `call` 的同一支。
+> 一支「20 路讀者腦袋」的可組合原語。**不是 REWRITE 的步驟、不是 SPORE 的步驟**——是 REWRITE Step 1.9.7（gap-audit，v7.7 研究後）、SPORE Hook、未來 editorial audience-check 都 `call` 的同一支。
 >
 > 誕生（2026-06-13 persona-stage0）：REWRITE v7.1 把 persona 發散 inline 進 Stage 0.6.1-bis → 哲宇「spore 也可以加這步」→ 再「抽象出一個 persona profile / persona pipeline，以後很多元件 / 器官 / dna 共用」→ 抽成本原語。對應神經迴路「造橋鋪路：工具 → 整合 → 門檻」+ REFLEXES #21 SSOT + #56 canonical ↔ production drift。
 
