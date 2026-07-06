@@ -334,6 +334,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #31（sub-agent self-report 不可信）的 mechanism-層延伸——這次 agent 的 self-quality claim「pixel-identical」連自跑的 computed-style 都通過，因為驗證量綱選錯；#69（每層自評需外部尺）補「外部尺也要選對量綱」
 - **verification_count**: 1
 
+### 2026-07-06 施振榮-rewrite — spine-type-by-subject：#77 canonical 隔天就被違反（第 4 instance）+ self-check-by-rationalization
+
+- **pattern**: `spine-type-by-subject`（沿用 REFLEXES #77 既有 id）
+- **原則**：一個人物「有真實的內在張力」≠ 該用矛盾驅動 spine。受愛戴的人物（讀者預設欣賞/驕傲）default 立體群像，**即使他身上有真的張力也一樣**——把那份張力寫成一個 facet，不是全篇脊椎。更深一層：Step 0.6.7 SSODT「支持者讀完不覺被攻擊」的判準是**外部效果**（支持者真的會不會覺得被攻擊），不是「我能不能自圓其說它不會」。用「這是他本人的 framing」把 self-check 勾過 = 根本沒跑 self-check，只是找了個理由放行。
+- **觸發**：施振榮 EVOLVE v1（2026-07-06）我選矛盾驅動，把「寫微笑曲線的人押身家在台積電、他自己的資產組合證偽他自己的理論」鎖成脊椎＋標題＋壓軸。哲宇 callout「絕對會被炎上、沒有立體、紀實的寫這個人、過度放在核心矛盾」→ v2 改立體群像（組織主軸 holding 7 facet、微笑曲線/台積電降為中立紀實討論點）救回。**最刺的一點：REFLEXES #77「spine-type-by-subject」2026-07-05 才由金曲獎 v1 觸發 promote 成 canonical，我 7/6 隔天就違反**——reflex 在 catalog、Step 0.1.5 立體群像 SOP + 金曲獎教訓就寫在我 Stage 0 剛讀完的 pipeline 裡，還是沒擋住。兩個漏洞：(a) 把施振榮「願意公開談失敗」誤讀成「自身選擇的拉扯」去 justify 矛盾驅動（HAS tension ≠ 該用矛盾驅動）；(b) Step 0.6.7 用理性化勾過。證據 [memory](memory/2026-07-06-133221-施振榮-rewrite.md) + v1 `bf8cb4795` → v2 `0ff00ba08`。
+- **instances**：第 4 次驗證同 pattern（#77 promote cluster 已含前 3：4/29 α 法輪功 SSODT + 4/29 α 吳百福 SSODT + 6/28 金曲獎 v1→v2）：
+  - 2026-07-06 施振榮-rewrite：受愛戴科技教父誤選矛盾驅動、gotcha 鎖脊椎 → 哲宇 callout → v2 立體群像救回
+- **可能層級**：#77 已 canonical → 本條為 **vc bump（→4）＋ 新 operational facet**：#77 目前是「判 spine type」的判準，缺「防誤分類」與「防 self-check 理性化」的操作勾。distill 時考慮給 #77 補兩條 operational hook：① HAS-tension ≠ 矛盾驅動（受愛戴 default 贏）② SSODT self-check 判外部效果非自圓其說（拿不準 → 立體群像）。
+- **相關**：REFLEXES #77（canonical，本次是 post-promotion 違反，訊號＝reflex 有了但沒長出防呆的手）；#69（每層自評需外部尺——這次內部 self-check 失效，靠哲宇這把外部尺才接住）；`feedback_red_line_anxiety_leak` 家族（v1 的 correction-meta 2 warn、v2 降 0，佐證矛盾驅動 framing 連帶拉高焦慮句式）
+- **verification_count**: 4（#77 family）
+
 ---
 
 ### 2026-07-05 git-identity — github-discussions-structural-blind-spot：MAINTAINER 感知只掃 issue/PR，三則 contributor Discussions 貼文 0 回應（最久 3 個月）
