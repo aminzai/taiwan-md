@@ -1,9 +1,9 @@
 {
-  "_generated": "2026-07-05T06:39:30+08:00",
+  "_generated": "2026-07-07T23:09:10+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 143,
-    "articles": 69,
+    "spores": 144,
+    "articles": 70,
     "withMetrics": 133
   },
   "spores": [
@@ -8094,6 +8094,26 @@
           "shares": 21
         }
       ]
+    },
+    {
+      "id": 154,
+      "slug": "柯智棠",
+      "articlePath": "knowledge/People/柯智棠.md",
+      "articleUrl": "/people/柯智棠/",
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-07-07",
+      "url": "https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F",
+      "template": "A2 立體群像（陌生鋼琴暖弧）",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
     }
   ],
   "byArticle": {
@@ -8133,6 +8153,7 @@
     "李洋": [28, 29, 30],
     "林書豪": [3],
     "林琪兒": [49, 50],
+    "柯智棠": [154],
     "江賢二": [91],
     "沈伯洋": [47, 48],
     "泛科學": [78],

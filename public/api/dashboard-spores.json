@@ -1,26 +1,42 @@
 {
-  "lastUpdated": "2026-07-06T22:11:13.072813Z",
+  "lastUpdated": "2026-07-07T15:09:42.449829Z",
   "schemaVersion": "1.1",
   "totals": {
-    "count": 143,
+    "count": 144,
     "platforms": {
-      "threads": 74,
+      "threads": 75,
       "x": 65,
       "other": 4
     },
     "languages": {
-      "zh": 136,
+      "zh": 137,
       "en": 7
     },
     "templates": {
       "B": 47,
       "A": 32,
       "D": 4,
-      "A2": 54,
+      "A2": 55,
       "other": 6
     }
   },
   "recent": [
+    {
+      "n": 154,
+      "date": "2026-07-07",
+      "platform": "threads",
+      "article": "柯智棠",
+      "articleSlug": "柯智棠",
+      "category": "People",
+      "template": "A2 立體群像（陌生鋼琴暖弧）",
+      "url": "https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F",
+      "highlight": "卡七年靠換兩個陌生把自己寫回來；立體 re-frame 同步",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
     {
       "n": 153,
       "date": "2026-06-27",
@@ -83,22 +99,6 @@
       "views_latest": 9093,
       "engagements_7d": 526,
       "rate_7d": 5.78,
-      "backfilled": true
-    },
-    {
-      "n": 149,
-      "date": "2026-06-24",
-      "platform": "x",
-      "article": "龜山島",
-      "articleSlug": "龜山島",
-      "category": "geography",
-      "template": "A2 首尾呼應",
-      "url": "https://x.com/taiwandotmd/status/2069674287964037412",
-      "highlight": "黃陳裕阿嬤每天夢見龜山島 — 看得到上不去 vs 回不去的雙鄉愁",
-      "views_7d": 1492,
-      "views_latest": 1492,
-      "engagements_7d": 51,
-      "rate_7d": 3.42,
       "backfilled": true
     }
   ],
@@ -217,7 +217,16 @@
       "maxRate": 9.09
     }
   },
-  "backfillWarnings": [],
+  "backfillWarnings": [
+    {
+      "n": 154,
+      "article": "柯智棠",
+      "platform": "threads",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F"
+    }
+  ],
   "noUrlHistorical": [
     {
       "n": 1,
@@ -249,11 +258,6 @@
     }
   ],
   "weeklyPulse": [
-    {
-      "week": "2026-W19",
-      "published": 13,
-      "avgViews": 6328
-    },
     {
       "week": "2026-W20",
       "published": 6,
@@ -288,6 +292,11 @@
       "week": "2026-W26",
       "published": 6,
       "avgViews": 4416
+    },
+    {
+      "week": "2026-W28",
+      "published": 1,
+      "avgViews": 0
     }
   ],
   "harvestStatus": [
@@ -1720,6 +1729,16 @@
       "withinHarvestWindow": false,
       "harvestCount": 8,
       "lastHarvest": "2026-07-05 06:37"
+    },
+    {
+      "n": 154,
+      "article": "柯智棠",
+      "platform": "threads",
+      "publishDate": "2026-07-07",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
     }
   ]
 }

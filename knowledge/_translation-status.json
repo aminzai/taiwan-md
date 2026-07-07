@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-07T06:11:12+08:00",
-    "zhCommitHead": "a54373bd1",
+    "lastUpdated": "2026-07-07T23:09:41+08:00",
+    "zhCommitHead": "e7fe9d77c",
     "totalZh": 844,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
@@ -44904,10 +44904,10 @@
     },
     "People/柯智棠.md": {
       "zh": {
-        "lastCommit": "28484baf",
-        "lastModified": "2026-07-05T12:50:53+08:00",
-        "contentHash": "sha256:af30876483c612d9",
-        "bodyHash": "sha256:06371316069a1fd5"
+        "lastCommit": "68644a9d",
+        "lastModified": "2026-07-07T15:09:59+08:00",
+        "contentHash": "sha256:35b17bfbc1a6b4b6",
+        "bodyHash": "sha256:e1150c885b006baf"
       },
       "translations": {
         "en": {
@@ -44922,7 +44922,7 @@
           "inferred": false,
           "footnoteDefs": 15,
           "status": "stale",
-          "reason": "footnote-loss (61→15)"
+          "reason": "footnote-loss (65→15)"
         },
         "ja": {
           "path": "ja/People/ke-zhi-tang-musician.md",
@@ -44936,7 +44936,7 @@
           "inferred": false,
           "footnoteDefs": 15,
           "status": "stale",
-          "reason": "footnote-loss (61→15)"
+          "reason": "footnote-loss (65→15)"
         },
         "ko": {
           "path": "ko/People/ke-zhi-tang-musician.md",
@@ -44950,7 +44950,7 @@
           "inferred": false,
           "footnoteDefs": 15,
           "status": "stale",
-          "reason": "footnote-loss (61→15)"
+          "reason": "footnote-loss (65→15)"
         },
         "es": {
           "path": "es/People/ke-zhi-tang-musician.md",
@@ -44964,7 +44964,7 @@
           "inferred": false,
           "footnoteDefs": 15,
           "status": "stale",
-          "reason": "footnote-loss (61→15)"
+          "reason": "footnote-loss (65→15)"
         },
         "fr": {
           "path": "fr/People/ke-zhi-tang-musician.md",
@@ -44978,7 +44978,7 @@
           "inferred": false,
           "footnoteDefs": 15,
           "status": "stale",
-          "reason": "footnote-loss (61→15)"
+          "reason": "footnote-loss (65→15)"
         }
       }
     },

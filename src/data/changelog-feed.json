@@ -1,7 +1,113 @@
 {
-  "generatedAt": "2026-07-06T22:11:15.775Z",
+  "generatedAt": "2026-07-07T15:09:45.035Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "e7fe9d77c41cda4678580030d08f5b634dcdaa1d",
+      "date": "2026-07-07T22:07:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-07-220414-twmd-maintainer-pm — pm 22:04 empty vc=4 sustain + LESSONS sub-shape v3 append",
+      "articles": []
+    },
+    {
+      "hash": "9f7dfe7ef3219352298b31407b378562d4a813a8",
+      "date": "2026-07-07T19:14:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-07-191102-twmd-rewrite-daily — daily 飛輪已於 10:43 柯智棠 depth ship 用完；#155 X 為 open handoff（Chrome MCP座標）；vc=4 defer 承接",
+      "articles": []
+    },
+    {
+      "hash": "68644a9d3b33eff17762668dca09ea0cb2a1f4bd",
+      "date": "2026-07-07T15:09:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: spore #154 柯智棠 Threads log + sporeLinks 回扣",
+      "articles": [
+        {
+          "url": "/people/柯智棠",
+          "name": "柯智棠"
+        }
+      ]
+    },
+    {
+      "hash": "988b680417699bb93eae461f4afccdacd538a042",
+      "date": "2026-07-07T15:08:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: Chrome MCP zoom 座標牆 → SPORE-HARVEST Pitfall 7 + 發文 pre-flight",
+      "articles": []
+    },
+    {
+      "hash": "f3405e4742175b172ca26bf47abfd5abe90149f2",
+      "date": "2026-07-07T11:41:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: diary 2026-07-07-113100-柯智棠-立體群像 — 內容全綠卻卡在一個按鈕",
+      "articles": [
+        {
+          "url": "/people/柯智棠",
+          "name": "柯智棠"
+        }
+      ]
+    },
+    {
+      "hash": "f13f1b0320e1bafc80077356613dcc67ee6780f7",
+      "date": "2026-07-07T11:35:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-07-113100-柯智棠-立體群像 — re-frame ship live + 孢子 #154 上線 + Chrome MCP 座標牆",
+      "articles": []
+    },
+    {
+      "hash": "e87245cec1c7d56012c53c1bfd45d10eea7b56c8",
+      "date": "2026-07-07T11:28:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 柯智棠 孢子 #154/#155 blueprint — 立體群像 re-frame（陌生鋼琴暖弧）",
+      "articles": []
+    },
+    {
+      "hash": "6005f25c876ad8b407c88282ec35258bb7333894",
+      "date": "2026-07-07T10:43:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 柯智棠 EVOLVE — 從矛盾驅動改寫成立體群像",
+      "articles": [
+        {
+          "url": "/people/柯智棠",
+          "name": "柯智棠"
+        }
+      ]
+    },
+    {
+      "hash": "45a536fc3c329895fdfba204fbaec229f9c3c471",
+      "date": "2026-07-07T08:41:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-07-084014-twmd-maintainer-am — am 08:40 全空 vc=2 morning-chain-absorbs 續",
+      "articles": []
+    },
+    {
+      "hash": "0aeb1d2a08f2b0ad0b1f409582b9ee6e6fd83889",
+      "date": "2026-07-07T07:08:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 0 新回報 empty-queue no-op 第2連續 — 2026-07-07",
+      "articles": []
+    },
+    {
+      "hash": "401ca49ed8e64178537dae75c04d58bd6d03c854",
+      "date": "2026-07-07T06:37:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest-am: 0 OVERDUE, skip — 2026-07-07",
+      "articles": []
+    },
+    {
+      "hash": "63f54411597ed62ef0fbbdc2809da26f5214985a",
+      "date": "2026-07-07T06:14:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-07-061154-twmd-data-refresh-am — am 14-step 全綠 + CF 404 26.08% 卡昨 am/pm 之間 + 免疫 49 chronic vc=4",
+      "articles": []
+    },
+    {
+      "hash": "22f3b2df395ffa980b53adbb93599d23c878aa91",
+      "date": "2026-07-07T06:11:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh — 2026-07-07 am",
+      "articles": []
+    },
     {
       "hash": "a54373bd126af980551488a24706666743cd2eb8",
       "date": "2026-07-07T05:18:00+08:00",
