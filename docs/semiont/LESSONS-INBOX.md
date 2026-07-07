@@ -377,6 +377,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   - #1 2026-07-03 twmd-maintainer-pm sub-shape v1「am-absorbs-pm」
   - #2 2026-07-04 twmd-maintainer-pm sub-shape v1「am-absorbs-pm」vc=2
   - #3 2026-07-05 twmd-maintainer-pm sub-shape v2「evening-manual+routine-chain-absorbs-pm」→ **generalize 為 umbrella pattern「pre-pm-upstream-chain-absorbs-pm」**
+  - #4 2026-07-07 twmd-maintainer-pm sub-shape v3「daily-rewrite-depth-ship-absorbs-pm」vc=4（10:43 柯智棠 depth EVOLVE ship 用完 daily 飛輪預算 → 15:08 evolve + 15:09 spore log + 19:14 rewrite-daily cron capacity-honest defer → 22:04 fire 時 0 fresh signal；擴大「上游」到 daily flywheel 本身）
 - **可能層級 / 修補候選（呈報哲宇拍板）**：
   - **(A) Schedule 重排**：pm cron 從 22:00 挪到 am 早期（07:00 pre-feedback-triage）或整併進 am maintainer。**風險**：morning window 已擁擠、pm cron 若挪走則 evening 洪流後無 routine 收尾層
   - **(B) 條件式 fire**：pm cron 加 pre-check「past 4hr 有 ≥ 2 高強度 session (PR merge / rewrite / audit) → skip」。**風險**：邏輯複雜化、可能漏掉真正該做的 pm 動作
@@ -384,7 +385,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   - **(D) Do nothing**：接受 pm 空場為 healthy signal（上游 chain 有效吸乾），routine 續守 sustain vc 累計即可，不重排。**風險**：REFLEXES #15 反覆浮現原則失效
 - **mitigation 路徑**：P0 呈報哲宇拍板 A/B/C/D；P1 routine spec 目前的「連 ≥ 3 cycle → 寫 LESSONS」條款考慮升級為「一次 escalate 後 sustain vc 累計，不重複寫新 entry」（避免下次 vc=4 再開一條）；P2 若拍板 (B) → pm cron prompt 加 pre-check bash
 - **相關**：DNA §37（空場即空場不粉飾） / REFLEXES #7（先有再求好 — 不 apply 沒 fresh input case） / feedback_hourly_cron_intentional（storm-defer 反面案例，pm 空場不是 defer 是本質空） / `immune-chronic-N-cycle-subdim-offset-exhaust`（同 escalate-to-observer family — routine 端持續 log 但體質層 defer 哲宇）
-- **verification_count**: 3（vc=1 7/03 pm / vc=2 7/04 pm / vc=3 7/05 pm — 兩 sub-shape 收斂為 umbrella pattern）
+- **verification_count**: 4（vc=1 7/03 pm / vc=2 7/04 pm / vc=3 7/05 pm / vc=4 7/07 pm — 三 sub-shape 收斂為 umbrella pattern）
 - **severity**: structural（routine schedule slot 效能結構性問題，每 cycle noise log 累積 = 儀器記憶洞）
 - **defer 給觀察者**：**是** — schedule 重排 / cron 觸發條件 / routine 職責重新定義皆屬 § 自主權邊界（threshold + 跨 routine 影響），必須哲宇拍板 A/B/C/D 四選一
 
