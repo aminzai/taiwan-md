@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-07-07T15:09:45.035Z",
+  "generatedAt": "2026-07-07T22:11:49.713Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "f3e2085c11bc299983c1b658e17be3527d66a604",
+      "date": "2026-07-08T05:18:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-08-051656-twmd-embeddings-nightly — 遷本機第三夜 4911 向量六語 0 fail + verify PASS 100% 8-鄰居 + commit a950fe0fb + babel/embeddings 夜鏈對照",
+      "articles": []
+    },
+    {
+      "hash": "a950fe0fba4ffa1f4b79099e16142e79f245d8d5",
+      "date": "2026-07-08T05:16:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-08 05:16",
+      "articles": []
+    },
+    {
+      "hash": "5daa2881906e651a0c17257255ba028113cc9317",
+      "date": "2026-07-08T00:48:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-08-003506-twmd-babel-nightly — 0 ship 4-tier cascade catastrophic exhaustion vc=1 + LESSONS cron-env-layer",
+      "articles": []
+    },
+    {
+      "hash": "ec25c805a8c1808395c9ecec9aa8779a5db04581",
+      "date": "2026-07-07T23:12:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-07-231050-twmd-data-refresh-pm — pm 14-step 全綠 + CF 404 25.87% 回中段 + 免疫 49 chronic vc=5+",
+      "articles": []
+    },
+    {
+      "hash": "0967d5c5cd2b933fa9be018a70a543c2cae5acef",
+      "date": "2026-07-07T23:11:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh — 2026-07-07 pm",
+      "articles": []
+    },
     {
       "hash": "e7fe9d77c41cda4678580030d08f5b634dcdaa1d",
       "date": "2026-07-07T22:07:07+08:00",

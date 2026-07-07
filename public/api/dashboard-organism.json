@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T15:09:49.933Z",
+  "lastUpdated": "2026-07-07T22:11:54.512Z",
   "organs": [
     {
       "id": "heart",
@@ -21,7 +21,7 @@
       "nameZh": "免疫系統",
       "metaphor": "品質防禦",
       "emoji": "🛡️",
-      "score": 49,
+      "score": 47,
       "trend": "stable",
       "version": "v2-2026-05-16",
       "metrics": {
@@ -32,7 +32,7 @@
         "v2Components": {
           "review_coverage": 25.7,
           "plugin_pass_rate": 70,
-          "plugin_health": 28,
+          "plugin_health": 16,
           "citation_density": 91,
           "tool_freshness": 60,
           "drift_velocity": 90,
