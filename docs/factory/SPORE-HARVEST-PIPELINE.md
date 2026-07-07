@@ -477,6 +477,24 @@ javascript_tool: |
 - **Hard rule**: max **1 retry** per ship attempt。第二次失敗 → screenshot + LESSONS-INBOX append + escalate observer，不要 silent third retry
 - **Cleanup SOP（已 duplicate）**：navigate 到 `https://www.threads.com/@taiwandotmd/replies` → 找重複 reply → 點「⋯」overflow menu →「刪除」→ 確認 dialog 點「刪除」→ profile `/replies` tab 重新 sweep 驗證只剩一筆
 
+**Pitfall 7: 瀏覽器 zoom ≠ 100% → JS 座標對不上 click 像素（2026-07-07 柯智棠 spore 實證，哲宇 callout 根因）**
+
+- 哲宇本機瀏覽 zoom 設 **150%** 時，`getBoundingClientRect` 回的 CSS 座標（例：發佈鈕 931,642）跟 computer-tool click 用的截圖像素差一個 zoom 因子（`innerWidth` 1862 vs 截圖 1512 ≈ 1.23×）→ pixel-click 全歪：submit 按鈕怎麼點都 miss、reply-icon click 開到 `/media`。**症狀騙人**——內容全填好、字都對、只是「點不到發佈」，很容易誤判成 UI/DOM 問題。
+- **關鍵區分**：`execCommand insertText` / JXA `NSPasteboard` paste 走 DOM 不走座標，**不受 zoom 影響**（填字都成功）；只有 **pixel-click 受害**。所以「填得進、送不出」= 座標問題，不是 DOM 問題。
+- **偵測（發文點任何 submit 前先跑一次）**：
+  ```js
+  JSON.stringify({
+    dpr: window.devicePixelRatio,
+    innerWidth: window.innerWidth,
+  });
+  ```
+  對照 `computer screenshot` 回的寬度；`innerWidth` 明顯 ≠ 截圖寬度（或 dpr 非整數）= zoom ≠ 100%。
+- **修法（三選一，(c) 最穩）**：
+  - (a) `computer key cmd+0` reset zoom 到 100%（**會改觀察者的閱讀 zoom**，只在授權下用、事後提醒他 Cmd-+ 復原）
+  - (b) scale click 座標：`screenshot_x = js_x × (screenshot_width / innerWidth)`
+  - (c) **`ref`-based click（推薦，不動觀察者設定）**：`read_page {filter:"interactive"}` 拿 element ref → `computer left_click {ref:"ref_N"}`，完全繞過像素座標與 zoom
+- **Hard rule**：submit 按鈕連 2 次 pixel-click 沒反應（dialog/state 不變）→ **先跑偵測 JS 再動作**，別盲點重試（Pitfall 6 duplicate 風險）；確認是 zoom 就切 (c) ref-based click。對應 LESSONS `chrome-mcp-coordinate-scaling-mismatch`。
+
 ### Threads-only 操作鐵律
 
 | 平台    | Harvest replies  | Post reply via Chrome MCP | Workaround                             |

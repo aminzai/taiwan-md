@@ -615,6 +615,7 @@ fi
 2. UTM 必加（`utm_source` 對應平台 / `utm_medium=spore` / `utm_campaign=s{number}`）— 不加 UTM = 不記錄的心跳
 3. **AI pre-ship self-check 6 條公開報告給觀察者**（[SOCIAL-POSTING-PIPELINE §AI pre-ship self-check](../pipelines/SOCIAL-POSTING-PIPELINE.md)）：prose 跟 blueprint 對齊 / inline UTM URL 三段全填 / image attached / 帳號對 / Post button enabled / 字數安全。全 PASS 立即進 step 4（不等觀察者回覆）。任一 FAIL → stop + report。觀察者仍可 in-chat「先停 / 改 X / 取消」介入
 4. **透過 Chrome MCP + osascript 自動發文**（[SOCIAL-POSTING-PIPELINE](../pipelines/SOCIAL-POSTING-PIPELINE.md)）：
+   - **⚠️ 發文前 zoom pre-flight（v3.11，2026-07-07 柯智棠）**：點任何 submit/發佈 前先跑 `JSON.stringify({dpr:window.devicePixelRatio, innerWidth:window.innerWidth})` 對照 `computer screenshot` 寬度。`innerWidth` ≠ 截圖寬（或 dpr 非整數）= 瀏覽器 zoom ≠ 100% → **pixel-click 全歪、submit 點不到（填字 execCommand/JXA paste 走 DOM 不受影響）**。修：優先 `ref`-based click（`read_page {filter:"interactive"}` → `computer left_click {ref}`）繞過像素座標；完整三修法見 [SPORE-HARVEST §Critical pitfalls Pitfall 7](SPORE-HARVEST-PIPELINE.md)。submit 連 2 次沒反應先驗 zoom、別盲點重試。
    - **圖片先進剪貼簿**：`osascript -e 'set the clipboard to (read (POSIX file "{square 配圖絕對路徑}") as «class PNGf»)'`
    - **X**：navigate x.com → compose → Cmd+V 貼圖 → 輸入文案 + inline「完整故事 👉 {X UTM URL}」→ AI 自 click Post button
    - **Threads**：navigate threads.net → 新串文 → 第一則 Cmd+V 貼圖 + 輸入文案 → 點「新增到串文」→ 第二則輸入「完整故事 👉 {Threads UTM URL}」→ AI 自 click「發佈」

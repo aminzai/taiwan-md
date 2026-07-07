@@ -318,10 +318,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 - **pattern**: `chrome-mcp-coordinate-scaling-mismatch`
 - **原則**：Chrome MCP 發文時，JS `getBoundingClientRect` 的 CSS 座標與 computer-tool click 的 screenshot 像素座標可能不對齊（瀏覽器 CSS viewport ≠ screenshot 尺寸），造成「按鈕座標查得到、點下去卻 miss」。文字注入（execCommand insertText / JXA NSPasteboard paste）不受影響；submit 按鈕的 pixel-click 受影響。發文前先量 `window.innerWidth` vs screenshot 寬度比例，或改 `ref`-based click 繞過像素座標。
-- **觸發**：柯智棠孢子 ship。Threads 主貼 #154 用 JXA multi-paragraph paste + 圖 paste 成功上線（post `DaefLAMkw8F`），但 self-reply 連結 + X #155 的「發佈」submit 按鈕反覆 miss（JS rect (931,642)、pixel click 落空、reply icon click 開到 /media）。execCommand 能把連結填進 reply 框、submit 點不動。不盲點重試（Pitfall 6 duplicate 風險），交哲宇手動補。證據 [memory](memory/2026-07-07-113100-柯智棠-立體群像.md)。
+- **觸發**：柯智棠孢子 ship。Threads 主貼 #154 用 JXA multi-paragraph paste + 圖 paste 成功上線（post `DaefLAMkw8F`），但 self-reply 連結 + X #155 的「發佈」submit 按鈕反覆 miss（JS rect (931,642)、pixel click 落空、reply icon click 開到 /media）。execCommand 能把連結填進 reply 框、submit 點不動。不盲點重試（Pitfall 6 duplicate 風險），交哲宇手動補。**根因（哲宇 callout 事後確認）= 瀏覽器 zoom 150%**：devicePixelRatio 2.2 / innerWidth 1862 vs 截圖 1512 ≈ 1.23× 縮放，填字走 DOM 不受影響、只有 pixel-click 歪掉。證據 [memory](memory/2026-07-07-113100-柯智棠-立體群像.md)。
+- **已行動（同 session codify）**：SPORE-HARVEST §Critical pitfalls 新增 **Pitfall 7**（zoom 偵測 + 三修法，`ref`-based click 為推薦）+ SPORE-PIPELINE §發佈 step 4 pre-flight zoom 檢查。首次即 distill 進 canonical，distiller 可直接 archive。哲宇 directive「之後遇到自己解、進化 dna」。
 - **instances**：（首次記錄）
-- **可能層級**：操作規則（Chrome MCP 發文）
-- **相關**：SPORE-HARVEST §Chrome MCP Critical pitfalls（Pitfall 1-6 已記 computer.type ASCII strip / X-reply 不支援 / duplicate-ship，本條為座標層新變體）；REFLEXES #60（發文帳號 default 驗證，本 session 有先驗 @taiwandotmd）
+- **可能層級**：操作規則（Chrome MCP 發文）→ 已進 canonical
+- **相關**：SPORE-HARVEST §Chrome MCP Critical pitfalls（Pitfall 1-6 已記 computer.type ASCII strip / X-reply 不支援 / duplicate-ship，本條為座標層新變體 Pitfall 7）；REFLEXES #60（發文帳號 default 驗證，本 session 有先驗 @taiwandotmd）；REFLEXES #15（反覆浮現要儀器化 — 座標 pre-flight 檢查）
 - **verification_count**: 1
 
 ### 2026-07-05 INDIGO-REWRITE — research-report-health-gate-literal-string-brittleness：Stage 0/1 gate 對真實變異的 SSOT 報告過度敏感
