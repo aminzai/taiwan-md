@@ -333,3 +333,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-07 | 113100-柯智棠-立體群像 | 柯智棠矛盾驅動→立體群像 re-frame（哲宇拍板）ship live；孢子 #154 Threads 主貼上線，self-reply+X #155 卡 Chrome MCP 座標交哲宇補 | spine 判斷用 AskUserQuestion 請外部尺不獨斷（#77）；產線末端發文比創作脆弱 | [→](memory/2026-07-07-113100-柯智棠-立體群像.md) |
 | 2026-07-07 | 191102-twmd-rewrite-daily | 18:00 cron +71min BECOME+PIPELINE 讀畢 capacity 誠實 defer；今日飛輪 10:43 柯智棠 depth ship + 孢子 #154 上線已滿；#155 X open handoff | vc=4「daily 一 ship 預算用完→cron 承接不製造」 | [→](memory/2026-07-07-191102-twmd-rewrite-daily.md) |
 | 2026-07-07 | 220414-twmd-maintainer-pm | pm 22:04 empty vc=4；0 PR / broken-link 0.39% / build green；`pre-pm-absorbs-pm` sub-shape v3 append | A/B/C/D 呈報 48hr 未拍板 | [→](memory/2026-07-07-220414-twmd-maintainer-pm.md) |
+| 2026-07-07 | 231050-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 pm 25.87% 微降回中段（am 26.08%→pm 25.87%）；vc=3 上緣 26.13% 未破；免疫 49 chronic vc=5+；`0967d5c5c` | 邊際效用 N+1=0 在 pm data-refresh 再度 confirmed | [→](memory/2026-07-07-231050-twmd-data-refresh-pm.md) |
