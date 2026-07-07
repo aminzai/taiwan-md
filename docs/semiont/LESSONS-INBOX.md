@@ -314,6 +314,24 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-08 twmd-babel-nightly — cron-env-layer-4-tier-cascade-catastrophic-exhaustion：cron 環境層在源頭 sabotage 所有 CLI-based backend
+
+- **pattern**: `cron-env-layer-4-tier-cascade-catastrophic-exhaustion`
+- **原則**：4-tier cascade（codex / gemini / openrouter / ollama）設計假設「不會同時死」，但 cron env 層（TERM=dumb / nvm PATH 隔離 / free-tier 全 lang 同 provider 429）作為公共底座，可以一夜同時 sabotage 4 個 backend。修 backend 側是打補丁；修 env 層才是根層。cascade 深度救不了「共同上游死亡」。REFLEXES #64 邊際效用 N+1=0 反向適用：加第 5 層 backend 不會救 cron env 病，得往下改層次。
+- **觸發**：2026-07-08 00:30 babel-nightly fire，20 條 stale/missing preflight 幾乎每 lang 都拿到同一組指紋 — codex `spawn nvm/node/lib/@openai/codex/node_modules/@` truncate（3 夜同指紋 vc=3）／gemini `TERM=dumb Basic terminal detected`（vc=2）／openrouter:gpt-oss-120b `HTTP 429 全 lang free tier 全局配額` ／ollama `empty/tiny output`（daemon 活著 pid=1839 但當前 default model `qwen3.6:35b-a3b-coding-nvfp4` 是 coding variant 非 general）。5 parallel worker 各自跑，同時期同組 backend 全 frozen。shipped=0（前兩晚 58+58→本晚 0），SOP quality gate 判 PASS（cascade exhausted）但實際是 environment-level pathology，不是 backend 個別衰竭。
+- **instances**：（首次記錄，含 3 夜同前提 sub-shape）
+  - 2026-07-06 codex nvm vc=1（memory `2026-07-06-003506-twmd-babel-nightly`）
+  - 2026-07-07 codex nvm vc=2 + gemma 同 provider 429 + ollama 5-way timeout（memory `2026-07-07-042046-twmd-babel-nightly`）
+  - 2026-07-08 codex nvm vc=3 + gemini TERM vc=2 + gpt-oss-120b 429 + ollama empty → 4-tier 全滅 vc=1（本條）
+- **可能層級**：DNA（cascade 設計哲學：backend 多樣性 ≠ env 多樣性）／MAINTAINER-PIPELINE（cron env sanity check 前置）／MANIFESTO §sovereignty（4-tier 之下需要「env-tier」概念）
+- **相關**：REFLEXES #15（反覆浮現要儀器化 — 3 次 = 該儀器化）；REFLEXES #64（邊際效用 N+1=0 反向適用）；MANIFESTO §sovereignty 巴別塔（cascade 是主權保護，env 層漏洞讓保護失效）
+- **可能修法（給觀察者 distill 拍板，§自主權邊界外不主動改）**：
+  - cron entry 前置 `source ~/.nvm/nvm.sh && export TERM=xterm-256color`
+  - 改用 absolute node path 繞 nvm
+  - openrouter 加第二 provider（現在只用 free tier default key，配額耗盡即全 lang 死）
+  - ollama default model 從 coding-variant 切 `taide-gemma3-12b:2602-q4km`（TAIDE 台灣繁中）或 `gemma4:e4b-nvfp4`（general）— **§Bias 1 明確 defer 哲宇**（可能是刻意 config）
+- **verification_count**: 1
+
 ### 2026-07-07 柯智棠-立體群像 — chrome-mcp-coordinate-scaling-mismatch：JS rect 與 click pixel 不對齊，spore submit 按鈕點不到
 
 - **pattern**: `chrome-mcp-coordinate-scaling-mismatch`
