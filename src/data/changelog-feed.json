@@ -1,7 +1,56 @@
 {
-  "generatedAt": "2026-07-08T15:09:40.781Z",
+  "generatedAt": "2026-07-08T22:11:59.693Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "09f719bd4ddc8ab761609199ba52da976f10040e",
+      "date": "2026-07-09T05:18:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-09-051738-twmd-embeddings-nightly — 遷本機第四夜 4913 向量六語 0 fail (+2 babel ja/fr) + verify PASS 100% 8-鄰居 + commit 729adfe76",
+      "articles": []
+    },
+    {
+      "hash": "729adfe76ffbb55a236b18ad3c78853f801defd6",
+      "date": "2026-07-09T05:17:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-09 05:17",
+      "articles": []
+    },
+    {
+      "hash": "2764b0ffd802b9fb5f50c6e0de03573f19f09a2e",
+      "date": "2026-07-09T01:38:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: sync _translations.json for 2 new entries (slp-taipei ja / chou-tien-chen fr)",
+      "articles": []
+    },
+    {
+      "hash": "09335b2b47a3cb95fc4dee7a35310294189984dc",
+      "date": "2026-07-09T01:37:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-09-013248-twmd-babel-nightly — 4 shipped fleet Tier 5 bypass + LESSONS vc=2",
+      "articles": []
+    },
+    {
+      "hash": "51f18220d789d29e141e7f1873eaf85e8f845796",
+      "date": "2026-07-09T01:32:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 4 translations (fleet qwen3.5:35b Tier 5 bypass) — 5 lang sync 2026-07-09",
+      "articles": []
+    },
+    {
+      "hash": "4a354abef67cf46b9432a82c2e5cdc5dba3f2a41",
+      "date": "2026-07-08T23:13:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-08-231056-twmd-data-refresh-pm — pm 14-step 全綠 + CF 404 17.57% 破 6-cycle 下緣 vc=1",
+      "articles": []
+    },
+    {
+      "hash": "32b2b3b1bf2088ad29a150a547e8e8c4a7cfda34",
+      "date": "2026-07-08T23:12:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh — 2026-07-08 pm",
+      "articles": []
+    },
     {
       "hash": "6393e512fb396e3c9fa74b72f400aa1f5826a690",
       "date": "2026-07-08T20:18:54+08:00",

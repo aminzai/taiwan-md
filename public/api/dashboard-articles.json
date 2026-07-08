@@ -155,7 +155,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": true,
       "fr": true
@@ -1144,7 +1144,7 @@
       "ja": true,
       "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "dbfc0cd3",

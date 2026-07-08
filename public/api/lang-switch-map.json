@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T15:09:38.054Z",
+  "generated_at": "2026-07-08T22:11:56.959Z",
   "languages": ["en", "ja", "ko", "es", "fr"],
-  "total_entries": 12486,
+  "total_entries": 12493,
   "registry": {
     "en": {
       "toZh": {
@@ -2636,6 +2636,8 @@
         "/ja/economy/pegatron-the-invisible-manufacturing-giant": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88",
         "/ja/economy/pxmart-supermarket": "/economy/%E5%85%A8%E8%81%AF%E7%A6%8F%E5%88%A9%E4%B8%AD%E5%BF%83",
         "/ja/economy/screw": "/economy/%E8%9E%BA%E7%B5%B2",
+        "/ja/economy/slp-taipei": "/economy/SLP%E5%8F%B0%E5%8C%97%E5%89%B5%E6%A5%AD%E9%A0%98%E5%B0%8E%E8%A8%88%E7%95%AB",
+        "/ja/economy/slp-taipei-startup-leadership-program": "/economy/SLP%E5%8F%B0%E5%8C%97%E5%89%B5%E6%A5%AD%E9%A0%98%E5%B0%8E%E8%A8%88%E7%95%AB",
         "/ja/economy/taiwan-agricultural-modernization": "/economy/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%99%BC%E5%B1%95",
         "/ja/economy/taiwan-agriculture-and-rural-revitalization": "/economy/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E8%88%87%E8%BE%B2%E6%9D%91%E5%86%8D%E7%94%9F",
         "/ja/economy/taiwan-cement-taipower-green-transformation": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E6%B3%A5",
@@ -3627,6 +3629,8 @@
         "/economy/全聯福利中心": "/ja/economy/pxmart-supermarket",
         "/economy/%E8%9E%BA%E7%B5%B2": "/ja/economy/screw",
         "/economy/螺絲": "/ja/economy/screw",
+        "/economy/SLP%E5%8F%B0%E5%8C%97%E5%89%B5%E6%A5%AD%E9%A0%98%E5%B0%8E%E8%A8%88%E7%95%AB": "/ja/economy/slp-taipei-startup-leadership-program",
+        "/economy/SLP台北創業領導計畫": "/ja/economy/slp-taipei-startup-leadership-program",
         "/economy/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%99%BC%E5%B1%95": "/ja/economy/taiwan-agricultural-modernization",
         "/economy/台灣農業現代化發展": "/ja/economy/taiwan-agricultural-modernization",
         "/economy/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E8%88%87%E8%BE%B2%E6%9D%91%E5%86%8D%E7%94%9F": "/ja/economy/taiwan-agriculture-and-rural-revitalization",
@@ -10531,6 +10535,7 @@
         "/fr/people/chiung-wi-vun": "/people/%E8%94%A3%E7%82%BA%E6%96%87",
         "/fr/people/cho-jung-tai": "/people/%E5%8D%93%E6%A6%AE%E6%B3%B0",
         "/fr/people/cho-yun-hsu-bridging-historian": "/people/%E8%A8%B1%E5%80%AC%E9%9B%B2",
+        "/fr/people/chou-tien-chen-badminton": "/people/%E5%91%A8%E5%A4%A9%E6%88%90",
         "/fr/people/chu-ching-wu": "/people/%E6%9C%B1%E7%B6%93%E6%AD%A6",
         "/fr/people/chu-tien-wen": "/people/%E6%9C%B1%E5%A4%A9%E6%96%87",
         "/fr/people/chu-yi-kuei-qing-rebel": "/people/%E6%9C%B1%E4%B8%80%E8%B2%B4",
@@ -11877,6 +11882,8 @@
         "/people/卓榮泰": "/fr/people/cho-jung-tai",
         "/people/%E8%A8%B1%E5%80%AC%E9%9B%B2": "/fr/people/cho-yun-hsu-bridging-historian",
         "/people/許倬雲": "/fr/people/cho-yun-hsu-bridging-historian",
+        "/people/%E5%91%A8%E5%A4%A9%E6%88%90": "/fr/people/chou-tien-chen-badminton",
+        "/people/周天成": "/fr/people/chou-tien-chen-badminton",
         "/people/%E6%9C%B1%E7%B6%93%E6%AD%A6": "/fr/people/chu-ching-wu",
         "/people/朱經武": "/fr/people/chu-ching-wu",
         "/people/%E6%9C%B1%E5%A4%A9%E6%96%87": "/fr/people/chu-tien-wen",

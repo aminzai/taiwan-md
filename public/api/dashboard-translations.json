@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T15:09:45.981Z",
+  "lastUpdated": "2026-07-08T22:12:04.807Z",
   "languages": [
     "zh-TW",
     "en",
@@ -20,6 +20,18 @@
     "en": {
       "total": 844,
       "percentage": 100,
+      "fresh": 841,
+      "metadataStale": 0,
+      "stale": 3,
+      "missing": 0,
+      "orphan": 0,
+      "deficit": 0,
+      "freshPct": 99.6,
+      "bodyFreshPct": 99.6
+    },
+    "ja": {
+      "total": 844,
+      "percentage": 100,
       "fresh": 840,
       "metadataStale": 0,
       "stale": 4,
@@ -28,18 +40,6 @@
       "deficit": 0,
       "freshPct": 99.5,
       "bodyFreshPct": 99.5
-    },
-    "ja": {
-      "total": 843,
-      "percentage": 99.9,
-      "fresh": 839,
-      "metadataStale": 0,
-      "stale": 4,
-      "missing": 1,
-      "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.4,
-      "bodyFreshPct": 99.4
     },
     "ko": {
       "total": 843,
@@ -56,6 +56,18 @@
     "es": {
       "total": 844,
       "percentage": 100,
+      "fresh": 840,
+      "metadataStale": 0,
+      "stale": 4,
+      "missing": 0,
+      "orphan": 0,
+      "deficit": 0,
+      "freshPct": 99.5,
+      "bodyFreshPct": 99.5
+    },
+    "fr": {
+      "total": 844,
+      "percentage": 100,
       "fresh": 839,
       "metadataStale": 0,
       "stale": 5,
@@ -64,18 +76,6 @@
       "deficit": 0,
       "freshPct": 99.4,
       "bodyFreshPct": 99.4
-    },
-    "fr": {
-      "total": 843,
-      "percentage": 99.9,
-      "fresh": 838,
-      "metadataStale": 0,
-      "stale": 5,
-      "missing": 1,
-      "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.3,
-      "bodyFreshPct": 99.3
     }
   },
   "matrix": {
@@ -180,8 +180,8 @@
       },
       "es": {
         "count": 67,
-        "fresh": 66,
-        "stale": 1,
+        "fresh": 67,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -203,11 +203,11 @@
         "deficit": 0
       },
       "ja": {
-        "count": 55,
-        "fresh": 55,
+        "count": 56,
+        "fresh": 56,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
         "count": 55,
@@ -273,8 +273,8 @@
       "zh-TW": 66,
       "en": {
         "count": 66,
-        "fresh": 65,
-        "stale": 1,
+        "fresh": 66,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -490,11 +490,11 @@
         "deficit": 0
       },
       "fr": {
-        "count": 234,
-        "fresh": 232,
+        "count": 235,
+        "fresh": 233,
         "stale": 2,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       }
     },
     "politics": {
@@ -613,14 +613,8 @@
     }
   },
   "missing": {
-    "ja": [
-      "Economy/SLP台北創業領導計畫：六千元起家的一堂課，漲到五萬八還是一位難求.md"
-    ],
     "ko": [
       "Economy/SLP台北創業領導計畫：六千元起家的一堂課，漲到五萬八還是一位難求.md"
-    ],
-    "fr": [
-      "People/周天成：台灣羽球一哥，揮出世界第二的高度.md"
     ]
   },
   "statusSource": "translation-status.json",

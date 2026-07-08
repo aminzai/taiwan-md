@@ -3,14 +3,14 @@
     "About": 40,
     "Art": 211,
     "Culture": 335,
-    "Economy": 279,
+    "Economy": 280,
     "Food": 310,
     "Geography": 330,
     "History": 250,
     "Lifestyle": 150,
     "Music": 176,
     "Nature": 190,
-    "People": 1174,
+    "People": 1175,
     "Politics": 55,
     "Society": 440,
     "Technology": 269,
@@ -431,6 +431,10 @@
     },
     {
       "date": "2026-07-07",
+      "count": 1
+    },
+    {
+      "date": "2026-07-09",
       "count": 1
     }
   ],

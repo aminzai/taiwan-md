@@ -51,10 +51,10 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 | 📄 Total articles (zh-TW SSOT) | 842   |
 | 🇹🇼 Chinese (zh-TW)             | 842   |
 | 🇺🇸 English (en)                | 849   |
-| 🇯🇵 日本語 (ja)                 | 843   |
+| 🇯🇵 日本語 (ja)                 | 844   |
 | 🇰🇷 한국어 (ko)                 | 844   |
 | 🇪🇸 Español (es)                | 844   |
-| 🇫🇷 Français (fr)               | 844   |
+| 🇫🇷 Français (fr)               | 845   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
