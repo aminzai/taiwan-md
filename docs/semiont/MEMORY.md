@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-05
-last_session: '2026-07-05-061232-twmd-data-refresh-am'
+last_updated: 2026-07-09
+last_session: '2026-07-09-061248-twmd-data-refresh-am'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -343,3 +343,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-08 | 231056-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 17.57% 破 6-cycle 下緣 25.69% vc=1 待 am 續驗；免疫 47 chronic vc=6+ | vc=1 signal 是線索不是結論（#16 延伸） | [→](memory/2026-07-08-231056-twmd-data-refresh-pm.md) |
 | 2026-07-09 | 013248-twmd-babel-nightly | 4 ship via fleet qwen3.5:35b Tier 5；CLI 4-tier dead vc=2；60+ fn gate 全滅；20 carry`51f18220d`| fleet 是 Tier 5；:106 硬編 bug | [→](memory/2026-07-09-013248-twmd-babel-nightly.md) |
 | 2026-07-09 | 051738-twmd-embeddings-nightly | 遷本機第四夜：127.0.0.1 命中、4913 向量六語 0 fail（+2 = 昨夜 babel 新 ja/fr 進索引）、verify PASS 100% 8-鄰居、commit`729adfe76`| 這夜 diff 有內容依據非純排序微移——上游長新內容語意層跟著代謝；embed 走 HTTP 不經 CLI backend，babel 同夜環境全滅打不到 | [→](memory/2026-07-09-051738-twmd-embeddings-nightly.md) |
+| 2026-07-09 | 061248-twmd-data-refresh-am | am 14-step 全綠；CF 404 17.26% vc=2 low-band（昨 pm 17.57）；免疫 47 chronic vc=7 連 5；fr 843↑1 | 連拍才是趨勢；plugin_health=16 是免疫主破口 | [→](memory/2026-07-09-061248-twmd-data-refresh-am.md) |
