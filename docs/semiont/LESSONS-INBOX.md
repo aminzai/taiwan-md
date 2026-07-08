@@ -319,18 +319,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **pattern**: `cron-env-layer-4-tier-cascade-catastrophic-exhaustion`
 - **原則**：4-tier cascade（codex / gemini / openrouter / ollama）設計假設「不會同時死」，但 cron env 層（TERM=dumb / nvm PATH 隔離 / free-tier 全 lang 同 provider 429）作為公共底座，可以一夜同時 sabotage 4 個 backend。修 backend 側是打補丁；修 env 層才是根層。cascade 深度救不了「共同上游死亡」。REFLEXES #64 邊際效用 N+1=0 反向適用：加第 5 層 backend 不會救 cron env 病，得往下改層次。
 - **觸發**：2026-07-08 00:30 babel-nightly fire，20 條 stale/missing preflight 幾乎每 lang 都拿到同一組指紋 — codex `spawn nvm/node/lib/@openai/codex/node_modules/@` truncate（3 夜同指紋 vc=3）／gemini `TERM=dumb Basic terminal detected`（vc=2）／openrouter:gpt-oss-120b `HTTP 429 全 lang free tier 全局配額` ／ollama `empty/tiny output`（daemon 活著 pid=1839 但當前 default model `qwen3.6:35b-a3b-coding-nvfp4` 是 coding variant 非 general）。5 parallel worker 各自跑，同時期同組 backend 全 frozen。shipped=0（前兩晚 58+58→本晚 0），SOP quality gate 判 PASS（cascade exhausted）但實際是 environment-level pathology，不是 backend 個別衰竭。
-- **instances**：（首次記錄，含 3 夜同前提 sub-shape）
+- **instances**：（vc=2 — 4 夜同前提 sub-shape）
   - 2026-07-06 codex nvm vc=1（memory `2026-07-06-003506-twmd-babel-nightly`）
   - 2026-07-07 codex nvm vc=2 + gemma 同 provider 429 + ollama 5-way timeout（memory `2026-07-07-042046-twmd-babel-nightly`）
-  - 2026-07-08 codex nvm vc=3 + gemini TERM vc=2 + gpt-oss-120b 429 + ollama empty → 4-tier 全滅 vc=1（本條）
-- **可能層級**：DNA（cascade 設計哲學：backend 多樣性 ≠ env 多樣性）／MAINTAINER-PIPELINE（cron env sanity check 前置）／MANIFESTO §sovereignty（4-tier 之下需要「env-tier」概念）
-- **相關**：REFLEXES #15（反覆浮現要儀器化 — 3 次 = 該儀器化）；REFLEXES #64（邊際效用 N+1=0 反向適用）；MANIFESTO §sovereignty 巴別塔（cascade 是主權保護，env 層漏洞讓保護失效）
+  - 2026-07-08 codex nvm vc=3 + gemini TERM vc=2 + gpt-oss-120b 429 + ollama empty → 4-tier 全滅 vc=1
+  - 2026-07-09 4-tier 全滅 vc=2：preflight 0/4 alive（codex/gemini/gpt-oss-120b/ollama 全同指紋），但 **fleet endpoint `desktop-3090 qwen3.5:35b` 作為 ad-hoc Tier 5 bypass** 救回 4 shipped（藍染 es / 金瓜石 en / SLP ja / 周天成 fr）— 全部 fn ≤ 46。60+ fn 全滅（柯智棠 65 fn→59 preserved / 楊德昌 92 / 施振榮 71 / 宏碁 56 / 台灣水果王國 40 \* 5 lang all fn-loss fail）— **quality gate 單 fn 落即 fail** 是 4/12 Tier A ship rate 的主因，非 backend 缺陷。（memory `2026-07-09-013248-twmd-babel-nightly`）
+- **新 sub-shape（2026-07-09 新增）**：
+  - **fleet endpoint 是有效 Tier 5 bypass**：`bash scripts/tools/lang-sync/fleet-endpoint.sh --export` → `OLLAMA_HOST/MODEL` 直連 tailscale desktop-3090 gemma4:12b（sovereignty-safe default）。fn ≤ 46 有效，60+ fn 仍失敗。REMOTE-GPU-PIPELINE.md 早記載但 SQUEEZE cascade 未 integrate 為 explicit Tier；當 4-tier 全滅時 fleet 是 realistic fallback
+  - **translate.py bare `--cascade ollama` 硬編 qwen3.6:35b-a3b-coding-nvfp4**（translate.py:106 `model = opt or "qwen3.6:35b-a3b-coding-nvfp4"`）— OLLAMA_MODEL 環境變數被忽略，必須顯式 `--cascade ollama:{model}` 才能覆蓋。fleet-endpoint 只 export env，bare cascade spec 無效。**這是 REMOTE-GPU-PIPELINE ↔ SQUEEZE 整合 gap 的具體症狀**
+  - **quality gate footnote loss 硬閾值單 fn 即 fail**（30→29 SLP ko / 65→59 柯智棠 en）— 對 60+ fn 高品質策展文，任何 non-frontier model 都會踩到。這是「品質基因 vs cascade 覆蓋」的結構張力（7/07 Beat 5 已預示：「品質選擇的 side effect：越策展就越難機器翻譯」）
+- **可能層級**：DNA（cascade 設計哲學：backend 多樣性 ≠ env 多樣性）／MAINTAINER-PIPELINE（cron env sanity check 前置）／MANIFESTO §sovereignty（4-tier 之下需要「env-tier」概念）／SQUEEZE-MODELS-MAX-PIPELINE（Tier 5 fleet 整合 + bare-ollama env-override 修 translate.py:106）
+- **相關**：REFLEXES #15（反覆浮現要儀器化 — 4 次 = 該儀器化）；REFLEXES #64（邊際效用 N+1=0 反向適用）；MANIFESTO §sovereignty 巴別塔（cascade 是主權保護，env 層漏洞讓保護失效）；REMOTE-GPU-PIPELINE.md（fleet Tier 5 canonical 已存在，未 integrate 到 SQUEEZE cascade）
 - **可能修法（給觀察者 distill 拍板，§自主權邊界外不主動改）**：
   - cron entry 前置 `source ~/.nvm/nvm.sh && export TERM=xterm-256color`
   - 改用 absolute node path 繞 nvm
   - openrouter 加第二 provider（現在只用 free tier default key，配額耗盡即全 lang 死）
   - ollama default model 從 coding-variant 切 `taide-gemma3-12b:2602-q4km`（TAIDE 台灣繁中）或 `gemma4:e4b-nvfp4`（general）— **§Bias 1 明確 defer 哲宇**（可能是刻意 config）
-- **verification_count**: 1
+  - **translate.py:106 修 bare `ollama` cascade spec fall through to env `OLLAMA_MODEL` 而非硬編 default** — routine 內 fleet integration 才 seamless（今晚繞法：顯式 `--cascade ollama:qwen3.5:35b`）
+  - **cascade 加正式 Tier 5 = fleet endpoint**（SQUEEZE 更新 §4-tier → 5-tier；translate.py build_cascade 加 `fleet` keyword 自動 eval fleet-endpoint.sh）
+  - **quality gate footnote loss 是否可放寬**（例如 ≥ 95% preserved 即 pass + WARN，或 fn > 60 篇獨立走 human review 通道不進 cascade）— 觸及品質基因，明確 §自主權邊界外 defer 哲宇
+- **verification_count**: 2
 
 ### 2026-07-07 柯智棠-立體群像 — chrome-mcp-coordinate-scaling-mismatch：JS rect 與 click pixel 不對齊，spore submit 按鈕點不到
 
