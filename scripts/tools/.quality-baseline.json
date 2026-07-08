@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-07T22:11:48Z",
+  "timestamp": "2026-07-08T15:09:39Z",
   "total": 844,
-  "flagged": 338,
+  "flagged": 337,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -1278,11 +1278,6 @@
       "file": "food/台灣辦桌文化.md",
       "score": 6,
       "reasons": "空洞詞14個; 未人工審核; 破折號53個"
-    },
-    {
-      "file": "food/台灣水果王國.md",
-      "score": 13,
-      "reasons": "年份僅0個; 空洞詞6個; 未人工審核; 破折號5個; 教科書開場; 後段清單堆砌56%; 稀薄段落×8; 無腳註"
     },
     {
       "file": "food/茶文化.md",

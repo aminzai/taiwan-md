@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T06:11:54.481471",
+  "lastUpdated": "2026-07-08T23:09:45.947084",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 47,
@@ -8,7 +8,7 @@
     "review_coverage": 25.7,
     "plugin_pass_rate": 70.0,
     "plugin_health": 16.0,
-    "citation_density": 91.0,
+    "citation_density": 91.1,
     "tool_freshness": 60,
     "drift_velocity": 90.0,
     "external_rulers": 4.0
@@ -52,9 +52,9 @@
   },
   "citationDetail": {
     "grades": {
-      "A": 664,
+      "A": 665,
       "B": 10,
-      "C": 155,
+      "C": 154,
       "D": 4,
       "F": 9
     },

@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-07-07T22:11:49.713Z",
+  "generatedAt": "2026-07-08T15:09:40.781Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "6393e512fb396e3c9fa74b72f400aa1f5826a690",
+      "date": "2026-07-08T20:18:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-08-201446-twmd-rewrite-daily — 台灣水果王國 v7.7 立體群像 ship + SPORE Boundary defer",
+      "articles": []
+    },
+    {
+      "hash": "9bab1acf2bc40717acbe7e978505dd88b0fd99a2",
+      "date": "2026-07-08T20:14:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣水果王國 — EVOLVE 立體群像 (6 facet / 6610 CJK / 40 footnote / 6 img + 2 iframe)",
+      "articles": [
+        {
+          "url": "/food/台灣水果王國",
+          "name": "台灣水果王國"
+        }
+      ]
+    },
+    {
+      "hash": "c931abaa57447f64722f5d148795ef8658a64592",
+      "date": "2026-07-08T08:42:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-08-084028-twmd-maintainer-am — am empty vc=3 canonical 覆蓋 + #1180 12 天無 label carry",
+      "articles": []
+    },
+    {
+      "hash": "cf4b3bcc2ee67e25240e5beb5bc89e3fe5006c85",
+      "date": "2026-07-08T07:11:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 0 新回報 empty-queue 第3連續 + intake sensor 確認真 quiet — 2026-07-08",
+      "articles": []
+    },
+    {
+      "hash": "dc81bfd07e2ff3ff9709fa6e1ce6f74f08e39180",
+      "date": "2026-07-08T06:43:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest-am: #154 柯智棠 D+1 3,173v/90L/5R — 2026-07-08 am",
+      "articles": []
+    },
+    {
+      "hash": "f61ef381729b385d25c65f44c3b1e1fc72810a6b",
+      "date": "2026-07-08T06:13:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-08-061234-twmd-data-refresh-am — am 14-step 全綠 + 免疫 47 chronic vc=6 加速 + CF 404 25.54% 回中段",
+      "articles": []
+    },
+    {
+      "hash": "4b86c5dda19c20147d9a2023af25c9be0cb1a5e2",
+      "date": "2026-07-08T06:12:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh — 2026-07-08 am",
+      "articles": []
+    },
     {
       "hash": "f3e2085c11bc299983c1b658e17be3527d66a604",
       "date": "2026-07-08T05:18:02+08:00",

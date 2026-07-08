@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T22:11:47.036687Z",
+  "lastUpdated": "2026-07-08T15:09:38.145872Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 144,
@@ -32,10 +32,10 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F",
       "highlight": "卡七年靠換兩個陌生把自己寫回來；立體 re-frame 同步",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 3173,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 153,
@@ -296,7 +296,7 @@
     {
       "week": "2026-W28",
       "published": 1,
-      "avgViews": 0
+      "avgViews": 3173
     }
   ],
   "harvestStatus": [
@@ -1737,8 +1737,8 @@
       "publishDate": "2026-07-07",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-07-08 06:35"
     }
   ]
 }

@@ -1,46 +1,46 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-08T06:11:46+08:00",
-    "zhCommitHead": "f3e2085c1",
+    "lastUpdated": "2026-07-08T23:09:37+08:00",
+    "zhCommitHead": "6393e512f",
     "totalZh": 844,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 844,
-        "fresh": 841,
-        "stale": 3,
+        "fresh": 840,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 844,
-        "fresh": 840,
-        "stale": 3,
+        "fresh": 839,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
       },
       "ko": {
         "total_zh": 844,
-        "fresh": 840,
-        "stale": 3,
+        "fresh": 839,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
       },
       "es": {
         "total_zh": 844,
-        "fresh": 840,
-        "stale": 4,
+        "fresh": 839,
+        "stale": 5,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 844,
-        "fresh": 839,
-        "stale": 4,
+        "fresh": 838,
+        "stale": 5,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -52184,10 +52184,10 @@
     },
     "Food/台灣水果王國.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:cec5a64527d2ad7f",
-        "bodyHash": "sha256:c88724fc04366f08"
+        "lastCommit": "9bab1acf",
+        "lastModified": "2026-07-08T20:14:11+08:00",
+        "contentHash": "sha256:9a6d62e64c75b406",
+        "bodyHash": "sha256:4f8e5414cbe29614"
       },
       "translations": {
         "en": {
@@ -52201,8 +52201,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (40→0)"
         },
         "ja": {
           "path": "ja/Food/taiwan-fruit-kingdom.md",
@@ -52215,8 +52215,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (40→0)"
         },
         "ko": {
           "path": "ko/Food/taiwan-fruit-kingdom.md",
@@ -52229,8 +52229,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (40→0)"
         },
         "es": {
           "path": "es/Food/taiwan-fruit-kingdom.md",
@@ -52243,8 +52243,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (40→0)"
         },
         "fr": {
           "path": "fr/Food/taiwan-fruit-kingdom.md",
@@ -52257,8 +52257,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (40→0)"
         }
       }
     },

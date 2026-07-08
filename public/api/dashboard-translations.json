@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T22:11:54.512Z",
+  "lastUpdated": "2026-07-08T15:09:45.981Z",
   "languages": [
     "zh-TW",
     "en",
@@ -20,42 +20,6 @@
     "en": {
       "total": 844,
       "percentage": 100,
-      "fresh": 841,
-      "metadataStale": 0,
-      "stale": 3,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.6
-    },
-    "ja": {
-      "total": 843,
-      "percentage": 99.9,
-      "fresh": 840,
-      "metadataStale": 0,
-      "stale": 3,
-      "missing": 1,
-      "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.5,
-      "bodyFreshPct": 99.5
-    },
-    "ko": {
-      "total": 843,
-      "percentage": 99.9,
-      "fresh": 840,
-      "metadataStale": 0,
-      "stale": 3,
-      "missing": 1,
-      "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.5,
-      "bodyFreshPct": 99.5
-    },
-    "es": {
-      "total": 844,
-      "percentage": 100,
       "fresh": 840,
       "metadataStale": 0,
       "stale": 4,
@@ -65,7 +29,7 @@
       "freshPct": 99.5,
       "bodyFreshPct": 99.5
     },
-    "fr": {
+    "ja": {
       "total": 843,
       "percentage": 99.9,
       "fresh": 839,
@@ -76,6 +40,42 @@
       "deficit": 1,
       "freshPct": 99.4,
       "bodyFreshPct": 99.4
+    },
+    "ko": {
+      "total": 843,
+      "percentage": 99.9,
+      "fresh": 839,
+      "metadataStale": 0,
+      "stale": 4,
+      "missing": 1,
+      "orphan": 0,
+      "deficit": 1,
+      "freshPct": 99.4,
+      "bodyFreshPct": 99.4
+    },
+    "es": {
+      "total": 844,
+      "percentage": 100,
+      "fresh": 839,
+      "metadataStale": 0,
+      "stale": 5,
+      "missing": 0,
+      "orphan": 0,
+      "deficit": 0,
+      "freshPct": 99.4,
+      "bodyFreshPct": 99.4
+    },
+    "fr": {
+      "total": 843,
+      "percentage": 99.9,
+      "fresh": 838,
+      "metadataStale": 0,
+      "stale": 5,
+      "missing": 1,
+      "orphan": 0,
+      "deficit": 1,
+      "freshPct": 99.3,
+      "bodyFreshPct": 99.3
     }
   },
   "matrix": {
@@ -235,36 +235,36 @@
       "zh-TW": 62,
       "en": {
         "count": 62,
-        "fresh": 62,
-        "stale": 0,
+        "fresh": 61,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 62,
-        "fresh": 62,
-        "stale": 0,
+        "fresh": 61,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 62,
-        "fresh": 62,
-        "stale": 0,
+        "fresh": 61,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 62,
-        "fresh": 62,
-        "stale": 0,
+        "fresh": 61,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 62,
-        "fresh": 62,
-        "stale": 0,
+        "fresh": 61,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       }
