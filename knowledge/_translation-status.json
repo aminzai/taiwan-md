@@ -1,24 +1,24 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-08T23:09:37+08:00",
-    "zhCommitHead": "6393e512f",
+    "lastUpdated": "2026-07-09T01:31:00+08:00",
+    "zhCommitHead": "4a354abef",
     "totalZh": 844,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 844,
-        "fresh": 840,
-        "stale": 4,
+        "fresh": 841,
+        "stale": 3,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 844,
-        "fresh": 839,
+        "fresh": 840,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ko": {
@@ -31,18 +31,18 @@
       },
       "es": {
         "total_zh": 844,
-        "fresh": 839,
-        "stale": 5,
+        "fresh": 840,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 844,
-        "fresh": 838,
+        "fresh": 839,
         "stale": 5,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       }
     },
@@ -5998,7 +5998,18 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/slp-taipei.md",
+          "translatedFrom": "Economy/SLP台北創業領導計畫.md",
+          "sourceCommitSha": "cfaa22a5d",
+          "sourceContentHash": "sha256:68e3e5788b724298",
+          "sourceBodyHash": "sha256:320873c44e3f6c2e",
+          "translatedAt": "2026-07-09T00:54:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -44258,7 +44269,18 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/People/chou-tien-chen-badminton.md",
+          "translatedFrom": "People/周天成.md",
+          "sourceCommitSha": "dbfc0cd3c",
+          "sourceContentHash": "sha256:f45251e967dc33da",
+          "sourceBodyHash": "sha256:cc68e7641279a1e9",
+          "translatedAt": "2026-07-09T00:54:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -57233,16 +57255,16 @@
         "en": {
           "path": "en/Geography/jinguashi.md",
           "translatedFrom": "Geography/金瓜石.md",
-          "sourceCommitSha": "f187773fe",
-          "sourceContentHash": "sha256:d506ddde43d15d15",
-          "sourceBodyHash": "sha256:bbf94bacf1d03bd7",
-          "translatedAt": "2026-05-18T05:08:07+08:00",
+          "sourceCommitSha": "676c8cd67",
+          "sourceContentHash": "sha256:36ec0adabddd5612",
+          "sourceBodyHash": "sha256:7a207109d1ae592a",
+          "translatedAt": "2026-07-09T00:53:49+08:00",
           "translationLastCommit": "d106a126",
           "translationLastModified": "2026-05-18T09:47:16+08:00",
           "inferred": false,
-          "footnoteDefs": 30,
-          "status": "stale",
-          "reason": "footnote-loss (40→30)"
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/jinguashi.md",
@@ -63035,16 +63057,16 @@
         "es": {
           "path": "es/Culture/taiwan-indigo-dyeing.md",
           "translatedFrom": "Culture/藍染.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:ce54b0f1826e38f9",
-          "sourceBodyHash": "sha256:b0a777d5c046d41c",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "sourceCommitSha": "a43cf9153",
+          "sourceContentHash": "sha256:1670373f1f6c3b4a",
+          "sourceBodyHash": "sha256:e04eb558f9b5295b",
+          "translatedAt": "2026-07-08T00:38:52+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "footnote-loss (46→7)"
+          "footnoteDefs": 46,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/taiwan-indigo-dyeing.md",
