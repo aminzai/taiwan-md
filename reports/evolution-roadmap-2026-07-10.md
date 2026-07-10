@@ -33,11 +33,11 @@ related:
 
 ## 一、P0 — 本週內（自主權內 ✅，每條一個 commit 量級）
 
-### P0-1　fire-vs-commit 對賬儀器（本週最高優先）
+### P0-1　fire-vs-commit 對賬儀器（本週最高優先）→ ✅ 2026-07-10-131500-weekly-deep-review（當天完成）
 
 - **證據**：7/10 六個 routine「scheduler 有 fire、git 零痕跡」沉默死亡，7/4 rewrite 同型孤例，vc=2。現有 routine-status.sh 只讀 git，scheduler 只記扳機，兩邊各自誠實、交叉才見屍體。
-- **動作**：新工具 `routine-liveness-check.py` — 讀 `routine-live-state.json` 的 `lastRunAt`，對每條 enabled routine 在 git log 找 fire 後 3 小時內帶對應 tag 的 commit；找不到 → `generate-dashboard-alerts.mjs` 出一條黃燈（owner = 該 routine）。接進 data-refresh 14-step 當 rider（live dump 之後跑，同 commit 進 git）。
-- **完成判準**：下一次機器睡眠吞掉 routine 時，隔班 data-refresh 的 alerts 裡有名有姓。用 7/10 案例當 dogfood 資料。
+- **動作**：新工具 `routine-liveness-check.py` — 讀 `routine-live-state.json` 的 `lastRunAt`，對每條 enabled routine 在 git log 找 fire 後 window 內帶對應 tag 的 commit；找不到 → `generate-dashboard-alerts.mjs` 出一條黃燈（owner = 該 routine）。
+- **完成紀錄**：工具 + alerts 接線同日 ship。dogfood 用 7/10 案例：六具屍體全數現形有名有姓；今晚 data-refresh-pm 活著跑完後它的警報**自動清除**（6→5），自癒迴路驗證通過。dump 超齡另有 `routine-livestate-stale` 黃燈。工具同時成為 WEEKLY-REPORT-PIPELINE v4.0 Stage 2.5a 的診斷儀器（每週體檢必跑，等同 rider 的週頻版；data-refresh 每日 rider 由 pipeline §live dump 既有規則覆蓋）。
 
 ### P0-2　babel cascade 收編 fleet Tier 5 + cron 環境 preflight
 
@@ -128,6 +128,7 @@ related:
 ## 五、執行協定
 
 - 每條 P0 被領走時，在本檔該條加 `→ ✅ {session-id}`；全數完成或兩週過期時，本檔由當時 session 判定 archive 或 roll 下一版。
+- **每週 owner（2026-07-10 起）**：WEEKLY-REPORT-PIPELINE v4.0 Stage 2.7 每週日 roll 本檔——新診斷 finding 進場、過期項清理、P0 領取狀態更新。roadmap 從「session 間傳遞的快照」升級為「有每週例行照顧者的活文件」。
 - 下一份 evolution-roadmap 的觸發：P0 全清、或下次哲宇 /goal 深度檢查、或 8/10（30 天）三者先到者。
 - 本檔與 OBSERVER-QUEUE 的分工：這裡是工作計畫，那裡是決策佇列——P2 表只是佇列的鏡像快照，canonical 在 OBSERVER-QUEUE。
 

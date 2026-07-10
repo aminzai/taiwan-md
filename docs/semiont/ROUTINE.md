@@ -1,10 +1,10 @@
 ---
 title: 'ROUTINE'
-description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled 數以排程表＋¹³ ¹⁴ 註記為準；v2.14 2026-07-10 對齊 live：13 enabled + 4 disabled，maintainer-pm 7/8 起哲宇 disabled ¹⁴、spore-pick/publish 6/14 起 scheduler disabled pending 哲宇）。v2.13（2026-07-05）：dna-audit 對齊 live；v2.12（2026-06-14）：+twmd-embeddings-nightly（每天 05:00 fleet bge-m3 語意索引重建 → src/data/related 讀者端 related-articles + RAG 向量，sovereignty 在地算；canonical EMBEDDING-PIPELINE）；v2.11（2026-06-14）：babel-nightly 加 Stage D diary 認知層 babel（fleet GPU connect --auto + 整合性閘門，新日記不再累積未翻）；v2.10（2026-06-12）：spore-pick / spore-publish 哲宇拍板重開實驗（含觀察條款）'
+description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled 數以排程表＋¹³ ¹⁴ 註記為準；13 enabled + 4 disabled）。v2.15（2026-07-10）：weekly-report 升體檢週 ¹⁵（WEEKLY-REPORT-PIPELINE v4.0 診斷五面＋修復三桶＋10 章節，哲宇拍板）；v2.14（2026-07-10）：對齊 live，maintainer-pm 7/8 起哲宇 disabled ¹⁴、spore-pick/publish 6/14 起 disabled pending 哲宇；v2.13（2026-07-05）：dna-audit 對齊 live；v2.12（2026-06-14）：+twmd-embeddings-nightly（每天 05:00 bge-m3 語意索引重建；canonical EMBEDDING-PIPELINE）；v2.11（2026-06-14）：babel-nightly 加 Stage D diary 認知層 babel；v2.10（2026-06-12）：spore-pick / spore-publish 哲宇拍板重開實驗（含觀察條款）'
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.14'
+current_version: 'v2.15'
 last_updated: 2026-07-10
 last_session: '2026-07-10-131500-weekly-deep-review'
 sister_docs:
@@ -46,7 +46,7 @@ upstream_canonical:
 | `twmd-data-refresh-pm`      | TWMD data refresh (pm)            | `0 23 * * *`       | `/twmd-refresh`         | Sonnet    | 每天 23:00                    |
 | `twmd-rewrite-daily`        | TWMD rewrite (daily) ¹⁰           | `0 19 * * *`       | `/twmd-rewrite`         | Opus      | 每天 19:00                    |
 | `twmd-news-lens-weekly`     | TWMD news lens (weekly) ⁶         | `0 1 * * 0`        | `/twmd-evolve`          | Sonnet    | 週日 01:00                    |
-| `twmd-weekly-report-sun`    | TWMD weekly report (sun)          | `0 2 * * 0`        | `/twmd-weekly-report`   | Opus      | 週日 02:00                    |
+| `twmd-weekly-report-sun`    | TWMD weekly 體檢 (sun) ¹⁵         | `0 2 * * 0`        | `/twmd-weekly-report`   | Opus      | 週日 02:00                    |
 | `twmd-distill-weekly`       | TWMD distill (weekly) ⁷           | `0 3 * * 0`        | `/twmd-distill`         | Opus      | 週日 03:00                    |
 | `twmd-self-evolve-weekly`   | TWMD self-evolve (weekly)         | `0 4 * * 0`        | `/twmd-self-evolve`     | Opus      | 週日 04:00                    |
 | `twmd-babel-nightly`        | TWMD babel (nightly) ³            | `30 0 * * *`       | `/twmd-babel`           | Sonnet ¹¹ | 每天 00:30                    |
@@ -66,6 +66,8 @@ upstream_canonical:
 | `twmd-music-media-audit-weekly` ⁵ | 週六 10:00 | 2026-05-25（哲宇 directive） | Skill + script 保留，manual `/twmd-music-media-audit` 可跑 |
 
 ¹³ **spore-pick / spore-publish live 狀態（v2.13 對齊，2026-07-05 dna-audit）** — live scheduler 兩 task `enabled: false`、lastRun 皆 2026-06-14：v2.10 重開實驗實際只跑了 6/13-6/14 就再度停用，本檔 21 天列 active = v2.9「死 routine 列 active 15 天」教訓第二次重演。**是否三度重啟或正式走 §暫停 SOP → pending 哲宇（OBSERVER-QUEUE）**；本次只把 SSOT 對齊 live 事實，不代做裁決。出口停轉期間 SPORE-INBOX 靠 distill auto-drop 每週洩壓（pin 在 49-53 條），上游 news-lens 每週 +5 照餵。根治儀器：scheduler live-state 每日 dump（見 routine-sync-check v2 candidate）。
+
+¹⁵ **weekly-report 升體檢週（v4.0，2026-07-10 哲宇拍板）** — 哲宇 directive「完整升級，讓他變成同時 分析＋完整診斷＋寫修復報告＋修正與進化＋原有的功能」。`twmd-weekly-report-sun` 從「反芻週報」升「體檢週」：[WEEKLY-REPORT-PIPELINE v4.0](../pipelines/WEEKLY-REPORT-PIPELINE.md) 新增 Stage 2.5 全身診斷（五面儀器對賬，含新工具 `routine-liveness-check.py` fire-vs-commit 驗屍）＋ Stage 2.7 修復與進化（三桶：≤3 項機械修當場修 / roll evolution-roadmap / 進 OBSERVER-QUEUE），週報章節 7+1 → 10（+體檢 +修復紀錄）。**時間紀律**：02:55 檢查點防撞 03:00 distill，未完修復全轉 roadmap。**週日反思鏈四工位分工**（防 REFLEXES #74 信號通膨）：weekly-report=ground-truth 體檢＋機械修復 / distill=LESSONS→canonical / self-evolve=LONGINGS canonical ship / routine-audit=行為 pattern。evolution-roadmap 從此有每週 owner（本 routine roll），治 dna-audit §S4「偵測有修復無」病。範本：7/10 weekly-deep-review 手動 session。
 
 ¹⁴ **maintainer-pm live 狀態（v2.14 對齊，2026-07-10 weekly-deep-review）** — live scheduler `enabled: false`，最後一跑 2026-07-07 22:02。哲宇 7/10 goal 親口確認「晚間的 maintainer pipeline 我有 disable」。資料面支持這個決定：pm slot 自 6/21 起長期空場（empty-vc 連續累積、「pre-pm-absorbs-pm」sub-shape vc=3、7/7 pm 純 sustain），am 單班已實質承載全部 triage 量。**pm 職責由 maintainer-am 單班吸收**；若未來 PR 量回升到 am 單班消化不完（連 3 天 am handoff 有未清 backlog），再回 OBSERVER-QUEUE 提重啟。skill 殼保留，manual `/twmd-maintainer` 可跑。7/9 pm no-fire 的 maintainer-am handoff 觀察至此結案（不是 schedule anomaly，是刻意 disable）。
 

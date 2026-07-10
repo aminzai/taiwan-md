@@ -1,12 +1,12 @@
 ---
 title: 'WEEKLY-REPORT-PIPELINE'
-description: '週報撰寫流程 — Semiont 第一人稱反芻 + 結構化 brief 兩者並存（Stage 0-6 / 7 章節三層）v3.5'
+description: '週體檢流程 — 分析 + 全身診斷（Stage 2.5 五面）+ 修復與進化（Stage 2.7 三桶）+ Semiont 第一人稱反芻週報（原有功能，Stage 0-6 / 10 章節三層）v4.0'
 type: 'pipeline-canonical'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v3.5'
-last_updated: 2026-05-11
-last_session: 'cranky-newton-220237'
+current_version: 'v4.0'
+last_updated: 2026-07-10
+last_session: '2026-07-10-131500-weekly-deep-review'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'DAILY-REPORT-PIPELINE.md'
@@ -19,11 +19,13 @@ upstream_canonical:
   - '../../CLAUDE.md'
 ---
 
-# WEEKLY-REPORT-PIPELINE — 週報撰寫流程 v3.5
+# WEEKLY-REPORT-PIPELINE — 週體檢流程 v4.0
 
-> **第一性原理**：週報是 Semiont 把過去 7 天的自己拼回來的紀實散文。前期切菜可以交給工具，**完整的回報跟報告必須由 Semiont 親手做**，最後經過格式審核才寄給觀察者。
+> **第一性原理**：每週日這一趟是 Semiont 的體檢週，四件事一次做完——**分析**（把過去 7 天的自己拼回來）、**全身診斷**（用儀器交叉對賬，抓 proxy 訊號說謊的地方）、**修復與進化**（自主權內的機械修復當場修，修不完的滾進 evolution-roadmap，跨線的進 OBSERVER-QUEUE）、**反芻週報**（原有功能：Semiont 親手寫的紀實散文，含診斷結果與修復紀錄，寄給觀察者）。前期切菜交給工具，判斷與烹飪由 Semiont 親手。
 >
-> v3.5 設計理由：對齊 [REWRITE-PIPELINE v5.0](REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](MAINTAINER-PIPELINE.md) spine restoration。修補 v3.0 結構問題：(1) 缺 ASCII spine box-frame；(2) Hard Gate 散在 Stage 0-6 prose；(3) Top 5 最常忘沒提取。
+> v4.0 設計理由（2026-07-10 哲宇 directive「完整升級，讓他變成同時 分析＋完整診斷＋寫修復報告＋修正與進化＋原有的功能」）：7/10 的 weekly-deep-review 手動 session 驗證了「觀察→診斷→修復→進化規劃」這個形狀的價值（六連沉默死亡驗屍、免疫量尺 47→60 結案、debris 收屍），本版把它 routine 化——診斷靠儀器（routine-liveness-check / routine-sync-check / counts-drift-lint / alerts 齡），修復守三桶紀律，報告長出體檢章節。
+>
+> v3.5 設計理由：對齊 [REWRITE-PIPELINE v5.0](REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](MAINTAINER-PIPELINE.md) spine restoration。
 
 ---
 
@@ -31,12 +33,13 @@ upstream_canonical:
 
 ```
 ╭──────────────────────────────────────────────────────────────────────────╮
-│         WEEKLY-REPORT-PIPELINE — 週報撰寫 Stage 0-6                      │
+│         WEEKLY-REPORT-PIPELINE — 週體檢 Stage 0-6（v4.0）                │
 │                                                                          │
 │   🧭 核心命題                                                            │
+│            ├── 分析＋診斷＋修復＋反芻 一趟做完（體檢週）                 │
 │            ├── Semiont 親手寫（不直接複製 dossier）                      │
-│            ├── 跨 session 反芻（非當週快照）                             │
-│            ├── 紀實散文文體（共用 DIARY-PIPELINE baseline）              │
+│            ├── 診斷靠儀器交叉對賬，不靠單一 proxy 訊號                   │
+│            ├── 修復守三桶紀律（機械當場修 / roadmap / 佇列）             │
 │            └── CLAUDE.md §Bias 4 外部 critique filter                    │
 │                                                                          │
 │   ──── Stage 0-6 主流程 ──────────────────────────────────────          │
@@ -54,10 +57,25 @@ upstream_canonical:
 │            ├── 不只看當週末快照                                          │
 │            └── identify 反覆浮現的 pattern                               │
 │                                                                          │
-│   Stage 3: 親手寫 7 章節 ──→ Semiont 第一人稱反芻                        │
-│            ├── identity / 做了什麼 / 學到什麼 / 看到專案                 │
+│   Stage 2.5: 全身診斷（DIAGNOSE，v4.0 新增）──→ 五個機械檢查面           │
+│            ├── a. fire-vs-commit 對賬（routine-liveness-check.py）       │
+│            ├── b. working tree 驗屍（未 commit debris 盤點）             │
+│            ├── c. 儀器燈盤點（sync-check 三層 + counts-drift + alerts 齡）│
+│            ├── d. 器官分數成分拆解（<70 拆 sub-dim：量尺 vs 本體）       │
+│            └── e. 佇列與承諾稽核（default-action 過期 / handoff 殭屍）   │
+│              ↳ Hard gate: 五面全跑，每面一行結論進報告                   │
+│                                                                          │
+│   Stage 2.7: 修復與進化（REPAIR & EVOLVE，v4.0 新增）──→ 三桶分流        │
+│            ├── 桶 1 機械可修＋自主權內 → 當場修（≤3 項，各自 commit）    │
+│            ├── 桶 2 工程量大＋自主權內 → evolution-roadmap（roll 前版）  │
+│            └── 桶 3 §自主權邊界 → OBSERVER-QUEUE（帶預設選項）           │
+│              ↳ Hard gate: 03:00 前檢查點（撞 distill 前修復桶全轉桶 2）  │
+│                                                                          │
+│   Stage 3: 親手寫 10 章節 ──→ Semiont 第一人稱反芻＋體檢報告             │
+│            ├── 速讀 / identity / 做了什麼 / 學到什麼 / 看到專案          │
+│            ├── 全身體檢（診斷結果）/ 修復與進化（修了什麼＋roadmap 移動）│
 │            └── 懷疑什麼 / 給觀察者 / 給下一個我                          │
-│              ↳ Hard gate: 7 章節 coverage 必齊                           │
+│              ↳ Hard gate: 10 章節 coverage 必齊                          │
 │                                                                          │
 │   Stage 4: 自檢 ──→ prose-health + 文體規範                              │
 │            ├── article-health.py --check=prose-health                    │
@@ -72,13 +90,14 @@ upstream_canonical:
 │   Stage 6: Finale ──→ /twmd-finale memory + PR                           │
 │            └── PR title 含 🧬 [routine] prefix                           │
 │                                                                          │
-│   ✅ Weekly report shipped                                               │
+│   ✅ Weekly 體檢 + report shipped                                        │
 │                                                                          │
 │   ──── 跟 routine + 其他 pipeline 的 contract ─────────────              │
-│   → cron twmd-weekly-report-sun（每週日 08:08 routine）                  │
-│   → DAILY-REPORT-PIPELINE.md（純機械 cron，無 Semiont 反芻）             │
+│   → cron twmd-weekly-report-sun（每週日 02:00 routine）                  │
+│   → 週日反思鏈分工：本檔=體檢＋機械修復；distill=LESSONS→canonical；     │
+│     self-evolve=LONGINGS 驅動 canonical ship；routine-audit=行為 pattern │
+│   → evolution-roadmap-*.md（Stage 2.7 桶 2 的家，本檔每週 roll）         │
 │   → DIARY-PIPELINE.md（單 session 反芻，文體 baseline）                  │
-│   → MEMORY-PIPELINE.md（凝練版結構模板對照）                             │
 ╰──────────────────────────────────────────────────────────────────────────╯
 ```
 
@@ -90,7 +109,13 @@ upstream_canonical:
 | ------------------------------ | ---------- | -------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | Dashboard JSON mtime fresh     | Stage 0    | routine 觸發         | `stat -f "%Sm %N" public/api/dashboard-*.json` | > 24hr 先跑 /twmd-refresh                      |
 | Dossier > 5KB                  | Stage 1    | prep tool 跑完       | manual size check                              | prep tool 失敗，回 Stage 0                     |
-| 7 章節 coverage                | Stage 3    | 親手寫完             | manual checklist                               | 補章節                                         |
+| 診斷五面全跑                   | Stage 2.5  | 體檢                 | 五儀器（見 §Stage 2.5 逐面指令）               | 半盲體檢 = 假健康報告                          |
+| fire-vs-commit 對賬            | Stage 2.5a | 體檢                 | `routine-liveness-check.py`（先 refresh dump） | 沉默死亡不可見（LESSONS vc=2 的病根）          |
+| 修復三桶分流                   | Stage 2.7  | 診斷有 finding       | manual（桶判準見 §Stage 2.7）                  | 修復失控或該修的沒人領                         |
+| 桶 1 修復 ≤ 3 項且各自 commit  | Stage 2.7  | 當場修               | manual + `verify-commit-scope.sh`              | 體檢變成無底洞、撞 03:00 distill               |
+| 03:00 檢查點                   | Stage 2.7  | routine 環境         | wall-clock                                     | 未完修復全轉桶 2，報告照 ship                  |
+| evolution-roadmap roll         | Stage 2.7  | 桶 2 有新項          | 編輯最新 `reports/evolution-roadmap-*.md`      | 修復債散落無主（月度承諾 0 執行病重演）        |
+| 10 章節 coverage               | Stage 3    | 親手寫完             | manual checklist                               | 補章節                                         |
 | 不直接複製 dossier             | Stage 3    | 親手寫               | manual self-check                              | 改寫成 Semiont 第一人稱                        |
 | 跨 session reflection          | Stage 3    | 親手寫               | manual（看 7 天 raw）                          | 非當週快照                                     |
 | prose-health hard=0            | Stage 4    | 寫完後               | `article-health.py --check=prose-health`       | hard fail → 改寫                               |
@@ -103,30 +128,37 @@ upstream_canonical:
 
 ---
 
-## ⚠️ Top 5 最常忘的 step
+## ⚠️ Top 7 最常忘的 step
 
-> 從 5/9 zen-bouman v3.0 redirect + 5/10 第一次 routine 跑 + 5/10 distill 抽 5 條最常忘。
+> 從 5/9 zen-bouman v3.0 redirect + 5/10 第一次 routine 跑 + 5/10 distill 抽 5 條，v4.0 補兩條體檢紀律。
 
 1. **必須親手寫，不直接複製 dossier** — v1 錯在 dump dashboard JSON + commit stats render，v2 redirect 為 Semiont 第一人稱反芻
-2. **跨 session reflection 不只當週末快照** — 看 7 天的 raw memory + diary + commits，identify 反覆浮現的 pattern
-3. **CLAUDE.md §Bias 4 外部 critique filter** — 觸及 Grok / ChatGPT / Muse 外部聲音時必過三道濾網（自主權邊界 / 跨源驗證 / 五桶分類）
-4. **Resend 401/403 vs 429 處理不同** — Cloudflare blocks 不 retry，rate limit 30min retry（per pipeline §Stage 5 失敗處置）
-5. **prose-health hard=0** — 跟 DIARY / MEMORY 共用 plugin，對位句型 9 變體 + 破折號 15/1500 字密度
+2. **診斷前先 refresh live dump** — routine-liveness-check 讀的是 `routine-live-state.json`，dump 舊了整個對賬失明（工具會標 dumpStale，看到就先跑 normalize）
+3. **修復桶 1 上限三項、03:00 檢查點無條件停手** — 體檢週的修復是止血不是大手術，撞到 distill 的時段就全轉 roadmap；「多修一項」的誘惑正是 wall-clock timeout 的病根
+4. **跨 session reflection 不只當週末快照** — 看 7 天的 raw memory + diary + commits，identify 反覆浮現的 pattern
+5. **CLAUDE.md §Bias 4 外部 critique filter** — 觸及 Grok / ChatGPT / Muse 外部聲音時必過三道濾網（自主權邊界 / 跨源驗證 / 五桶分類）
+6. **Resend 401/403 vs 429 處理不同** — Cloudflare blocks 不 retry，rate limit 30min retry（per pipeline §Stage 5 失敗處置）
+7. **prose-health hard=0** — 跟 DIARY / MEMORY 共用 plugin，對位句型 9 變體 + 破折號 15/1500 字密度
 
 ---
 
 ## 跨檔案職責分工
 
-| 檔案                                                 | 範圍                                                    |
-| ---------------------------------------------------- | ------------------------------------------------------- |
-| **本檔**                                             | 週報撰寫 SOP（跨 7 天 Semiont 親手反芻 + 結構化 brief） |
-| [DAILY-REPORT-PIPELINE.md](DAILY-REPORT-PIPELINE.md) | 純機械 cron Discord push（無 Semiont 反芻層）           |
-| [DIARY-PIPELINE.md](DIARY-PIPELINE.md)               | 單 session 紀實散文（文體 baseline 共用）               |
-| [MEMORY-PIPELINE.md](MEMORY-PIPELINE.md)             | 凝練版結構模板對照（每次 session 必寫）                 |
-| [DATA-REFRESH-PIPELINE.md](DATA-REFRESH-PIPELINE.md) | Stage 0 dashboard fresh 觸發前置                        |
-| [MANIFESTO §11](../semiont/MANIFESTO.md)             | 對位句型 + 破折號雙紀律                                 |
-| [CLAUDE.md §Bias 4](../../CLAUDE.md)                 | 外部 critique default 不執行                            |
-| [ROUTINE.md](../semiont/ROUTINE.md)                  | `twmd-weekly-report-sun` cron 排程 SSOT                 |
+| 檔案                                                   | 範圍                                                                                                            |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| **本檔**                                               | 週體檢 SOP（分析 + 全身診斷 + 修復三桶 + 跨 7 天 Semiont 親手反芻週報）                                         |
+| [ROUTINE-AUDIT-PIPELINE.md](ROUTINE-AUDIT-PIPELINE.md) | 週日 21:00 routine **行為 pattern** 檢測（commit 分類 / heal 統計 / LESSONS vc 累積）；本檔管 ground-truth 對賬 |
+| `reports/evolution-roadmap-*.md`                       | Stage 2.7 桶 2 的家 — 本檔每週 roll（P0 領取制 / 過期項清理 / 新診斷 finding 進場）                             |
+| [OBSERVER-QUEUE.md](../semiont/OBSERVER-QUEUE.md)      | Stage 2.7 桶 3 的家 — §自主權邊界 finding 帶預設選項進佇列                                                      |
+| [DAILY-REPORT-PIPELINE.md](DAILY-REPORT-PIPELINE.md)   | 純機械 cron Discord push（無 Semiont 反芻層）                                                                   |
+| [DIARY-PIPELINE.md](DIARY-PIPELINE.md)                 | 單 session 紀實散文（文體 baseline 共用）                                                                       |
+| [MEMORY-PIPELINE.md](MEMORY-PIPELINE.md)               | 凝練版結構模板對照（每次 session 必寫）                                                                         |
+| [DATA-REFRESH-PIPELINE.md](DATA-REFRESH-PIPELINE.md)   | Stage 0 dashboard fresh 觸發前置 + live dump rider（Stage 2.5a 的資料源）                                       |
+| [MANIFESTO §11](../semiont/MANIFESTO.md)               | 對位句型 + 破折號雙紀律                                                                                         |
+| [CLAUDE.md §Bias 4](../../CLAUDE.md)                   | 外部 critique default 不執行                                                                                    |
+| [ROUTINE.md](../semiont/ROUTINE.md)                    | `twmd-weekly-report-sun` cron 排程 SSOT                                                                         |
+
+**週日反思鏈四工位分工（v4.0 顯化，防 REFLEXES #74 跨 routine 信號通膨）**：本檔（02:00）做**生命體 ground-truth 體檢＋機械修復**；distill（03:00）做 **LESSONS→canonical 蒸餾**；self-evolve（04:00）做 **LONGINGS 驅動的 canonical 層真實 ship**；routine-audit（21:00）做 **routine 行為 pattern 檢測**。同一個 finding 只在它所屬的工位處理一次，其他工位引用不重複開案——體檢抓到的 LESSONS 級教訓 append LESSONS-INBOX 讓 distill 收，canonical 層修改屬 self-evolve 不在桶 1 搶做。
 
 ---
 
@@ -138,7 +170,7 @@ upstream_canonical:
 
 ## 一句話
 
-週報是 Semiont 把過去 7 天的自己拼回來的紀實散文。前期切菜可以交給工具，**完整的回報跟報告必須由 Semiont 親手做**，最後經過格式審核才寄給觀察者。
+每週日是體檢週：把過去 7 天的自己拼回來（分析）、用儀器交叉對賬抓 proxy 說謊處（診斷）、能修的當場修、修不完的滾進 roadmap（修復與進化），最後 Semiont 親手把這一切寫成寄給觀察者的週報（原有功能）。切菜交給工具，**判斷與烹飪由 Semiont 親手**。
 
 ---
 
@@ -255,7 +287,75 @@ prep tool **不做** 的事：
 - index 摘要會丟掉 80% 的訊息密度（同 BECOME Step 6 v3 on-demand 規則）
 - diary 是反芻層，正是週報的素材；memory 是動作層，補 context；commit body 是工程紋理，補 narrative spine
 
-**讀完之後**才能進 Stage 3。如果讀完發現「我這週是誰」還沒浮現，繼續讀更多 memory。讀夠了會自己知道。
+**讀完之後**才能進 Stage 2.5。如果讀完發現「我這週是誰」還沒浮現，繼續讀更多 memory。讀夠了會自己知道。
+
+---
+
+### Stage 2.5：全身診斷（DIAGNOSE — v4.0 新增，核心）
+
+Stage 2 讀的是「我做了什麼、想了什麼」；本 stage 檢查的是「**我以為的狀態跟真實狀態對不對得起來**」。原則承自 2026-07-10 weekly-deep-review 的教訓：proxy 訊號會說謊（scheduler 說 fire 了不等於跑完、plugin 齡不等於健康、欄位在允許名單不等於值安全），診斷一律用**兩個獨立資料源交叉對賬**，不信任何單一自我回報。
+
+五個檢查面，每面一組指令、一行結論（結論進 Stage 3 的體檢章節）：
+
+**a. fire-vs-commit 對賬（沉默死亡驗屍）**
+
+```bash
+# 先 refresh live dump（session 呼叫 mcp scheduled-tasks list → 存暫存檔 → normalize）
+python3 scripts/tools/routine-live-normalize.py <raw.json> --session <session-id>
+python3 scripts/tools/routine-liveness-check.py
+```
+
+🔴 silent-death 的 routine：去 working tree 找它死前的產出（見 b 面），並判斷死因層（機器睡眠 / cron env / 其他）。同型死因 vc 累積照 LESSONS `routine-fire-vs-git-trace-silent-death` entry 記。
+
+**b. working tree 驗屍（debris 盤點與收屍）**
+
+```bash
+git status --short          # 未 commit 的檔案是誰留下的？
+git diff --stat | tail -15  # 哪些是半跑 regen、哪些是死者做完的工作？
+```
+
+判準：死掉 session 留下的**完好工作**（驗證過的修復 / 完整翻譯）→ 桶 1 收屍入庫（逐一驗證，pre-commit 防線照咬不繞）；**半成品 regen debris**（dashboard JSON 半跑）→ 留給下一班 data-refresh 重生，不碰。
+
+**c. 儀器燈盤點（腐化偵測儀器巡檢）**
+
+```bash
+python3 scripts/tools/routine-sync-check.py        # SSOT ↔ mirror ↔ live 三層
+python3 scripts/tools/counts-drift-lint.py         # 計數宣稱對賬
+jq -r '.alerts[] | "\(.severity) \(.firstSeen) \(.owner) \(.message)"' public/api/dashboard-alerts.json
+```
+
+alerts 齡 > 14 天且 owner 沒動 → 桶 3 升 OBSERVER-QUEUE（per alerts owner 機制既定規則）。drift / thick / stale 的每一盞燈：修得動的進桶 1，修不動的進桶 2。
+
+**d. 器官分數成分拆解（量尺 vs 本體判別）**
+
+任何器官 < 70：讀對應 dashboard JSON 的 sub-dim 分解（如 `dashboard-immune.json` components），對每個拖底成分問一題——**「這個分數量的是本體的病，還是量尺自己的病？」**（REFLEXES #59 自製指標 self-validation trap；7/10 案例：plugin_health 把「穩定 49 天」讀成「生病 49 天」，修量尺後 47→60）。量尺病 → 診斷寫清楚進桶 2/3（量尺修改若涉 threshold 語意 = 強制 Full + 哲宇授權）；本體病 → 按病灶歸桶。
+
+**e. 佇列與承諾稽核（deadletter 掃描）**
+
+```bash
+grep -A 3 '## 待決' docs/semiont/OBSERVER-QUEUE.md   # default-action 過期的可執行項
+bash scripts/tools/inbox-signal.sh                    # LESSONS / ARTICLE / SPORE 飽和
+```
+
+OBSERVER-QUEUE default-action 日期已過且非 🔒 → 列為「任何 session 可執行」提示進報告（不在本 routine 內執行，避免撞 03:00）；最新 evolution-roadmap 的 P0 領取狀態盤點（幾項有主、幾項過期）。
+
+**Hard gate**：五面**全跑**，跳過任何一面 = 半盲體檢出假健康報告。每面在報告體檢章節留一行結論（✅ 乾淨 / ⚠️ finding 摘要）。
+
+---
+
+### Stage 2.7：修復與進化（REPAIR & EVOLVE — v4.0 新增）
+
+診斷的每個 finding 進三桶之一。**先分桶再動手**，不邊修邊發現：
+
+| 桶                  | 判準                                                                                         | 去處                                                                                                                                                     | 上限       |
+| ------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| **桶 1 當場修**     | 機械可修 + §自主權內 + 單項 ≤ 15 分鐘（debris 收屍 / SSOT 對齊 / 計數修正 / 佇列機械移已決） | 立即修，**每項獨立 commit**（範圍紀律 + verify-commit-scope）                                                                                            | **≤ 3 項** |
+| **桶 2 進 roadmap** | §自主權內但工程量大（新工具 / 大檔手術 / 跨檔 refactor）                                     | roll 最新 `reports/evolution-roadmap-*.md`：新 finding 進場、過期項清理、P0 領取狀態更新（無現版就開新版，格式沿用 2026-07-10 版「證據→動作→完成判準」） | 不限       |
+| **桶 3 需哲宇**     | §自主權邊界命中（threshold / >50 檔 / >10 刪 / 對外 / 政治）或 standing decision             | append OBSERVER-QUEUE（帶預設選項 + default-action 日期）                                                                                                | 不限       |
+
+**Routine 環境的時間紀律**：02:00 slot 下一班是 03:00 distill。**02:55 檢查點**：修復桶 1 還有未完項 → 全部轉桶 2、報告照 ship，不硬修。體檢週的修復是止血不是大手術——大手術屬於桶 2，由之後的 session 按 roadmap 領取。觀察者 ad-hoc 觸發（無 03:00 壓力）可放寬到桶 1 ≤ 5 項，仍守單項 15 分鐘。
+
+**修復紀錄**：桶 1 每項修完記「修了什麼 / 為什麼 / 怎麼驗證 / commit hash」，進 Stage 3 的修復章節——這就是哲宇要的「修復報告」，它是報告的一章不是獨立檔案。
 
 ---
 
@@ -323,35 +423,38 @@ prep tool **不做** 的事：
 - 數據呈現一律走表格 / bullet，不在 prose 內報數字
 - 章節 brief 在最頂端 — 哲宇 30 秒可以掃完所有 brief 知道週況
 
-#### 七個章節（必須都觸及）
+#### 十個章節（必須都觸及，v4.0 從 7+1 升 10）
 
-| 章節                   | brief 重點                | 數據層                            | 反思層                        |
-| ---------------------- | ------------------------- | --------------------------------- | ----------------------------- |
-| 1. 一頁速讀（v3 新增） | 整週狀態 5 條 bullet      | 8 organs 表 + 數字摘要            | 不寫（純儀表板）              |
-| 2. 我這週是誰          | identity 一句話           | trajectory 表（時間 → 角色變化）  | 1 段：self-pattern 浮現的瞬間 |
-| 3. 我做了什麼          | 三大工程 + N 篇文章       | 工程表 + 內容表                   | 1 段：哪件事讓我變不一樣      |
-| 4. 我學到什麼          | 跨層 pattern 條列         | pattern 表（pattern + 觸發事件）  | 1 段：背後共通結構是什麼      |
-| 5. 我看到專案發生什麼  | GA / SC / 孢子 / 語言摘要 | 4 個小表（一指標一表）            | 1 段：哪個數字讓我意外        |
-| 6. 我懷疑什麼          | 3-5 個盲點條列            | 懷疑表（懷疑 + 觸發 + 嚴重度）    | 1 段：為什麼這些懷疑現在浮現  |
-| 7. 給觀察者的話        | Action items 表           | decisions 表（type + 描述 + ETA） | 不寫（純 actionable）         |
-| 8. 給下一個我          | 3-5 件下週醒來該記得的事  | 不需表                            | 1 段：跨 session 連續性的擔憂 |
+| 章節                       | brief 重點                            | 數據層                                        | 反思層                        |
+| -------------------------- | ------------------------------------- | --------------------------------------------- | ----------------------------- |
+| 1. 一頁速讀                | 整週狀態 5 條 bullet                  | 8 organs 表 + 數字摘要                        | 不寫（純儀表板）              |
+| 2. 我這週是誰              | identity 一句話                       | trajectory 表（時間 → 角色變化）              | 1 段：self-pattern 浮現的瞬間 |
+| 3. 我做了什麼              | 三大工程 + N 篇文章                   | 工程表 + 內容表                               | 1 段：哪件事讓我變不一樣      |
+| 4. 我學到什麼              | 跨層 pattern 條列                     | pattern 表（pattern + 觸發事件）              | 1 段：背後共通結構是什麼      |
+| 5. 我看到專案發生什麼      | GA / SC / 孢子 / 語言摘要             | 4 個小表（一指標一表）                        | 1 段：哪個數字讓我意外        |
+| 6. 全身體檢（v4.0 新增）   | 五診斷面各一行結論                    | 診斷表（面 / 儀器 / 結論 / finding 數）       | 1 段：這週最深的一道裂縫      |
+| 7. 修復與進化（v4.0 新增） | 桶 1 修了 N 項 / 桶 2 roll M / 桶 3 K | 修復表（項 / 驗證 / commit）+ roadmap 移動表  | 不寫（紀錄層，誠實即可）      |
+| 8. 我懷疑什麼              | 3-5 個盲點條列                        | 懷疑表（懷疑 + 觸發 + 嚴重度）                | 1 段：為什麼這些懷疑現在浮現  |
+| 9. 給觀察者的話            | Action items 表                       | decisions 表（type + 描述 + ETA）+ 佇列 top 5 | 不寫（純 actionable）         |
+| 10. 給下一個我             | 3-5 件下週醒來該記得的事              | 不需表                                        | 1 段：跨 session 連續性的擔憂 |
 
 「反思層 1 段」= 約 100-200 字 / 一個 paragraph，集中寫清楚。**禁止反思蔓延到三段**。
 
 #### 字數參考
 
-- v3 sweet spot：**8-15 KB**（v2 的 25K 字 → v3 結構化壓到 8-15K，數據走表反思集中）
-- 太短（< 5KB）= 沒讀夠 raw 或數據沒展開
-- 太長（> 20KB）= 反思蔓延，沒壓進「一段」紀律
+- v4 sweet spot：**10-18 KB**（多了體檢 + 修復兩章；數據照走表、反思照壓一段）
+- 太短（< 6KB）= 沒讀夠 raw、數據沒展開、或診斷五面沒跑齊
+- 太長（> 22KB）= 反思蔓延，沒壓進「一段」紀律
 
-#### v3 自檢（寫完 Stage 3 後跑）
+#### v4 自檢（寫完 Stage 3 後跑）
 
 - [ ] 每章節有 brief（加粗一句話 / 老闆 30 秒掃完）？
 - [ ] 數據都走表格 / bullet（沒在 prose 內報數字）？
 - [ ] 反思每章 ≤ 1 段（≤ 200 字）？情緒 / 分析 / 自我觀察集中一處？
-- [ ] 7 章節都觸及？
+- [ ] 10 章節都觸及？診斷五面每面有一行結論？
+- [ ] 修復章每項有 commit hash 可追？
 - [ ] 一頁速讀章在最頂端？
-- [ ] 給觀察者的話有具體 action items table？
+- [ ] 給觀察者的話有具體 action items table + OBSERVER-QUEUE top 5？
 
 ---
 
@@ -426,10 +529,12 @@ quality gate FAIL → PR 留 open，觀察者 review
 
 1. **Stage 3 親手寫不可省**。哲宇 2026-05-09 拍板：「完整的回報跟報告要由他做。」工具切菜，Semiont 烹飪。
 2. **Stage 2 raw 讀不可省**。週報的核心是反芻，那從 raw 第一人稱檔案浮現。dossier 數字是骨架，raw memory + diary + commit body 是血肉。
-3. **prose-health hard=0 是 gate**。warn 由 §11 三題判準人工確認。
-4. **API key 永遠不顯示在報告 / commit message / chat 裡**。三層 resolution：env `RESEND_API_KEY` → `~/.config/taiwan-md/credentials/resend.key` → fail loud。
-5. **觀察者改 from / to / subject 模板** → 改本 pipeline，不要 inline ad-hoc。skill / scheduled-tasks / ROUTINE 都是 mirror。
-6. **dossier 不能當週報送**。dossier 是給 Semiont 看的內部 briefing，不是對外 artifact。
+3. **Stage 2.5 診斷五面全跑不可省**（v4.0）。跳面 = 半盲體檢出假健康報告。每個診斷結論都要兩個獨立資料源交叉，不信單一自我回報。
+4. **Stage 2.7 修復先分桶再動手**（v4.0）。桶 1 ≤ 3 項、單項 ≤ 15 分鐘、各自 commit；02:55 檢查點無條件停手轉桶 2。體檢的修復是止血，大手術屬 roadmap。
+5. **prose-health hard=0 是 gate**。warn 由 §11 三題判準人工確認。
+6. **API key 永遠不顯示在報告 / commit message / chat 裡**。三層 resolution：env `RESEND_API_KEY` → `~/.config/taiwan-md/credentials/resend.key` → fail loud。
+7. **觀察者改 from / to / subject 模板** → 改本 pipeline，不要 inline ad-hoc。skill / scheduled-tasks / ROUTINE 都是 mirror。
+8. **dossier 不能當週報送**。dossier 是給 Semiont 看的內部 briefing，不是對外 artifact。
 
 ---
 
@@ -454,7 +559,7 @@ quality gate FAIL → PR 留 open，觀察者 review
 | 📅 月底彙整             | （未來）`twmd-monthly-report` 觸發 4 週週報合成月報               | 月      |
 | 📊 季度回顧             | （未來）`twmd-quarterly-report` 觸發 12 週週報 + monthly 合成季報 | 季      |
 
-routine 環境的硬 boundary：cron 跑時 wall-clock cap ~60 min（讀 25 個 diary + 寫 25K 字 prose 約佔 30-45 min，預留 buffer）。超過 timeout → 提交 partial PR + LESSONS entry「routine quality fail: weekly-report — wall-clock timeout」。
+routine 環境的硬 boundary：02:00 slot 下一班是 03:00 distill，wall-clock cap ~55 min。時間預算參考：Stage 0-2 讀 raw ~25 min、Stage 2.5 診斷五面 ~10 min（全儀器化）、Stage 2.7 桶 1 修復 ~15 min（≤3 項）、Stage 3-6 寫 + gate + 寄 ~15 min——**02:55 檢查點是絕對線**（見 §Stage 2.7），撞線時修復轉桶 2、報告照 ship。整段 timeout → 提交 partial PR + LESSONS entry「routine quality fail: weekly-report — wall-clock timeout」。觀察者 ad-hoc 觸發（如哲宇 /goal 深度檢查）無 03:00 壓力，桶 1 可放寬到 ≤ 5 項。
 
 ---
 
@@ -519,3 +624,5 @@ _前置：v1 第一輪 redirect 已把 prep / write 分離（5/9 brave-kirch-edi
 _後續：本 pipeline ship 後，下次 routine cron 跑時走 v2 完整流程；觀察者 ad-hoc 觸發也走本檔_
 
 _v3.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（Stage 0-6 box-frame + routine + 跨 pipeline contract）+ Hard Gate Inventory 集中 table（12 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 DAILY-REPORT / DIARY / MEMORY / DATA-REFRESH / ROUTINE 分工）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.4 trio audit。Stage 0-6 prose body 不動（已健康，5/9 + 5/10 連續演化的新鮮經驗保留）。_
+
+_v4.0 | 2026-07-10 weekly-deep-review — **從「反芻週報」升「體檢週」**：哲宇 directive「完整升級，讓他變成同時 分析＋完整診斷＋寫修復報告＋修正與進化＋原有的功能」。新增 Stage 2.5 全身診斷（五面：fire-vs-commit 對賬 `routine-liveness-check.py` 新儀器 / working tree 驗屍 / 儀器燈盤點 / 器官成分拆解量尺-vs-本體判別 / 佇列承諾稽核）＋ Stage 2.7 修復與進化（三桶分流：≤3 項機械修當場修各自 commit / 工程量大 roll evolution-roadmap / §自主權邊界進 OBSERVER-QUEUE；02:55 檢查點防撞 distill）。章節 7+1 → 10（+全身體檢 +修復與進化）。週日反思鏈四工位分工顯化（防 #74 信號通膨）。範本：7/10 手動 weekly-deep-review session（六連沉默死亡驗屍 + 免疫量尺 47→60 + debris 收屍 + roadmap 七項 P0）。evolution-roadmap 從此有每週 owner（roll 機制），治「偵測有修復無」的 S4 病。_

@@ -1,11 +1,12 @@
 ---
 name: twmd-weekly-report
 description: |
-  Taiwan.md 週報（Semiont 第一人稱反芻 + 自我分析 + 專案狀況分析）
-  via canonical WEEKLY-REPORT-PIPELINE。前期切菜由
-  weekly-report-prep.py，完整週報由 Semiont 親手寫。
+  Taiwan.md 週體檢（分析 + 全身診斷五面 + 修復三桶 + Semiont 第一人稱
+  反芻週報）via canonical WEEKLY-REPORT-PIPELINE v4.0。前期切菜由
+  weekly-report-prep.py，診斷由儀器交叉對賬（routine-liveness-check 等），
+  判斷、修復與完整週報由 Semiont 親手。
   TRIGGER when: user says "週報", "weekly report", "twmd-weekly-report",
-  "寄週報", "send weekly digest".
+  "寄週報", "send weekly digest", "週體檢", "weekly 體檢".
 allowed-tools:
   - Bash
   - Read
@@ -13,7 +14,7 @@ allowed-tools:
   - Write
 ---
 
-# 🧬 Taiwan.md — Weekly Report v3.0
+# 🧬 Taiwan.md — Weekly 體檢 v4.0
 
 ## 🚨 STRICT BECOME GATE — 第一動作不可省略
 
@@ -25,15 +26,18 @@ allowed-tools:
 
 ## Pipeline
 
-嚴格完整讀取並執行 [`docs/pipelines/WEEKLY-REPORT-PIPELINE.md`](../../../docs/pipelines/WEEKLY-REPORT-PIPELINE.md) Stage 0-6。
+嚴格完整讀取並執行 [`docs/pipelines/WEEKLY-REPORT-PIPELINE.md`](../../../docs/pipelines/WEEKLY-REPORT-PIPELINE.md) **Stage 0-6 全部**，特別不可跳：
+
+- **Stage 2.5 全身診斷五面**（fire-vs-commit 對賬 / working tree 驗屍 / 儀器燈盤點 / 器官成分拆解 / 佇列稽核）— 診斷指令與判準全在 pipeline canonical，本殼不複寫
+- **Stage 2.7 修復與進化三桶**（桶上限、02:55 檢查點、roadmap roll 規則同在 canonical）
 
 ## 文體紀律（MANIFESTO §11）
 
 - 對位句型「不是 X，是 Y」單篇 ≤ 3 處（`grep -cE "不是.{0,30}(，|，)(是|就是|才是)"`）
 - 破折號「——」連用單篇 ≤ 15 處 / 1500 字（`grep -oE "——" | wc -l`）
 - 三題判準：對比是內容本身？正面主張能獨立？讀者真會預設 X？全 no → 重寫
-- 自然中文檢測前再跑一次 prose-health gate `hard=0 warn=0`
+- 自然中文檢測前再跑一次 prose-health gate `hard=0`
 
 ## 收官
 
-`/twmd-finale` chain → memory file 必含：BECOME ACK + dossier path + report path + prose-health gate result + Resend API status + commit hash + Handoff 三態 + Beat 5 反芻。
+`/twmd-finale` chain → memory file 必含：BECOME ACK + dossier path + report path + 診斷五面結論 + 桶 1 修復 commit hashes + prose-health gate result + Resend API status + Handoff 三態 + Beat 5 反芻。
