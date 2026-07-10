@@ -183,18 +183,16 @@ DIARY 記我想過的事。
   - **7/7 次成功**（2026-04-12 ~ 2026-04-18），超出預測下限 6/7
   - **結論**：launchd 可靠性已驗證，08:17 時間槽穩定。三源感知基礎設施可信賴。
 
-### EXP-2026-04-11-D | 日文 SEO 結構性空窗（⚠️ 過期未驗 → 2026-06-10 重上膛）
+### ~~EXP-2026-04-11-D | 日文 SEO 結構性空窗~~ ❌ **反駁（2026-07-11 weekly-deep-review 補判）**
 
-> **2026-06-10 audit 判定**：原驗證日 2026-04-25 過期 47 天無人回來判定（器官冬眠的直接證據）。當下 dashboard-analytics 快取無 per-language SC 維度，無法事後補判 → 標 EXPIRED-UNVERIFIED 重上膛。機械到期檢查：`due_date: 2026-06-22 | EXP-2026-04-11-D`
+> **2026-07-11 判定**：用 EXP 自帶驗證指令跑 `sc-query.py --dims page --filter "page~/ja/"` 7d：**2,963 impressions / 96 clicks / 200+ 頁有曝光**（top：清法戰爭 417 imp、李多慧 186、宗教與廟宇 174、高鐵 147）。反駁條件「impressions > 500 → 單純內容不夠，加量就解決」**大幅命中**（超標近 6 倍）。4 月的 49 imp 是內容量（235 篇）＋索引成熟期問題，Google 對 /ja/ 的索引與 hreflang 無結構性障礙——ja 842 篇 + 三個月熟成後自然長到近 3k imp。「結構性空窗」假說死亡，hreflang audit 不需要。次生觀察進 LESSONS 軌道：ja 7d CTR 3.2%（96/2963）已高於全站均值，日文市場是繼 KR（천셴징 vc=2）之後第二個「自己找上門」的非中文市場，週體檢 f 節持續看。
+>
+> 歷程：原驗證日 2026-04-25 過期 47 天 → 6/10 重上膛（due 2026-06-22）→ 又過期 19 天 → 7/11 夜班補判。到期兩次、判定一次——判定靠的是 alerts 黃燈 + 哲宇「修復所有東西」directive，不是機械檢查自己會動手（#58 偵測 ≠ 修復 的活例）。
+>
+> ~~機械到期檢查：due-date 2026-06-22 | EXP-2026-04-11-D~~（已判定，marker 除役）
 
-- **預測**：日文 235 篇只拿到 49 impressions（SC 7 天）是**結構性問題**，即使加寫 10 篇新日文翻譯也不會讓 impressions > 200
-- **根據**：日文版有文章但 SC impressions 幾乎為零 = 不是內容不夠，是 Google 根本不 index 或 hreflang 沒告訴日文 Google 這些頁存在
-- **驗證方法（v2，2026-06-10 更新）**：`python3 scripts/tools/sc-query.py` 以 page path `/ja/` 過濾拉 7d impressions；或下次 data-refresh 順手看 SC topPages 有無 /ja/ 條目。2026-06 的 ja 已 802 篇近全覆蓋，若 impressions 仍 <200 = 結構問題坐實，觸發 hreflang audit
-- **驗證日期**：2026-06-22（due_date 標記已進 alerts 機械檢查）
-- **反駁條件**：
-  - 如果 impressions 跳到 >500 → 是單純內容不夠，加量就解決
-  - 如果仍 <100 → 是 hreflang / sitemap / canonical 結構問題，需要 `src/layouts/Layout.astro` hreflang audit
-  - 如果介於 100-500 → 兩者都有
+- **原預測**：日文 235 篇只拿到 49 impressions（SC 7 天）是**結構性問題**，即使加寫 10 篇新日文翻譯也不會讓 impressions > 200 → **錯**
+- **原根據**：日文版有文章但 SC impressions 幾乎為零 = 不是內容不夠，是 Google 根本不 index 或 hreflang 沒告訴日文 Google 這些頁存在 → 被 2,963 imp 反證
 
 ### ~~EXP-2026-04-23-F | 台灣高鐵孢子超出 7d 衰退曲線的長尾 pattern 驗證~~ ❌ 反駁（2026-06-10 audit 補判）
 

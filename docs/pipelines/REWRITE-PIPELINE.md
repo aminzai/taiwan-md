@@ -68,7 +68,7 @@ upstream_canonical:
 │                                                                          │
 │   Stage 3: 驗 ──→ 6 steps（3.1-3.5 草稿驗 + 3.6 成品總驗）⭐ v7.0       │
 │            ├── Step 3.1-3.4 塑膠 / 鐵三角 / FACTCHECK / story atom       │
-│            │     └── Step 3.3 含 --profile=rewrite-stage-3-5 plugin gate │
+│            │     └── Step 3.3 跑 rewrite-stage-3-5 profile gate（plugin 以 --list-checks 為準）│
 │            │         (footnote-format + footnote-density，v6.1 新增)     │
 │            ├── Step 3.5 Title+desc spine sync re-check 🥪                │
 │            └── Step 3.6 成品總驗三關 🔍（原子重驗 fan-out + 順稿 +      │
@@ -1686,7 +1686,7 @@ REWRITE Stage 2 寫完 prose 後、進 Stage 4 之前，**必須跑 FACTCHECK-PI
   - **citation plugin gate 必跑**：`python3 scripts/tools/article-health.py <article> --profile=rewrite-stage-3-5` — 含 `footnote-format`（強制 `[^N]: [Title](URL) — description` canonical 格式）+ `footnote-density`（hard=0 要求）
   - footnote URL 健康檢查（network-conditional）跑 `ARTICLE_HEALTH_NETWORK=1 python3 scripts/tools/article-health.py <article> --check=footnote-url`
 
-> **plugin gate 鐵律**（v6.1，2026-05-17 admiring-montalcini）：`rewrite-stage-3-5` profile 必跑不是建議，是反射。Stage 4 `--profile=rewrite-stage-4` **不含** footnote-format（profile 分工：Stage 3.5 管 citation health / Stage 4 管 structure），跳過 Stage 3.5 plugin gate = CI full sweep（含全 16 plugin）會 hard-fail，本機 Stage 4 卻顯示綠燈 = silent leak through。誕生事件：2026-05-17 臺灣前途決議文 ship 後 CI fail（footnote-format hard=23），主 session 用 `--profile=rewrite-stage-4` local 跑全綠就 push，沒跑 `rewrite-stage-3-5` 因為 pipeline 沒明示 → 推回 Step 3.3 補一個 commit 修 29 條 footnote。對應 [REFLEXES #15 反覆浮現要儀器化](../semiont/REFLEXES.md) + [MANIFESTO §10 幻覺鐵律](../semiont/MANIFESTO.md#10-幻覺鐵律) — 把「該跑哪個 profile」從 SOP 隱性知識儀器化進 pipeline checklist。
+> **plugin gate 鐵律**（v6.1，2026-05-17 admiring-montalcini）：`rewrite-stage-3-5` profile 必跑不是建議，是反射。Stage 4 `--profile=rewrite-stage-4` **不含** footnote-format（profile 分工：Stage 3.5 管 citation health / Stage 4 管 structure），跳過 Stage 3.profile 內 plugin（清單以 `--list-checks` 為準） gate = CI full sweep（含全 全量 plugin（以 `--list-checks` 為準））會 hard-fail，本機 Stage 4 卻顯示綠燈 = silent leak through。誕生事件：2026-05-17 臺灣前途決議文 ship 後 CI fail（footnote-format hard=23），主 session 用 `--profile=rewrite-stage-4` local 跑全綠就 push，沒跑 `rewrite-stage-3-5` 因為 pipeline 沒明示 → 推回 Step 3.3 補一個 commit 修 29 條 footnote。對應 [REFLEXES #15 反覆浮現要儀器化](../semiont/REFLEXES.md) + [MANIFESTO §10 幻覺鐵律](../semiont/MANIFESTO.md#10-幻覺鐵律) — 把「該跑哪個 profile」從 SOP 隱性知識儀器化進 pipeline checklist。
 
 #### 觸發 spawn agent 升級為 Full Mode 的條件
 
@@ -1800,7 +1800,7 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 python3 scripts/tools/article-health.py knowledge/{Category}/{文章}.md --profile=rewrite-stage-4
 ```
 
-`rewrite-stage-4` profile 含 9 個 plugin（HARD all）：
+`rewrite-stage-4` profile plugin（HARD all；清單與數量以 `article-health.py --list-checks` 為準）：
 
 | Plugin               | 檢查內容                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1814,7 +1814,7 @@ python3 scripts/tools/article-health.py knowledge/{Category}/{文章}.md --profi
 | `image-health`       | depth ≥ 3 張（hero + 2 scene-mid）— v3.2 kind-mirzakhani 新增（HARD）                                                                                                                                                                                                                                                                                                           |
 | `paragraph-rhythm`   | **段落 median ≥ 55 CJK + H2 prose 段落 ≤ 8 + 媒體密度 band 0.7–1.2/1k CJK**（v6.6 2026-06-04 哲宇 directive：從單一上限 0.8 升為 floor 0.7 media-poor / ceiling 1.2 / hard 1.5+median<55；從富媒體範本 設研院 0.91/天下 0.92/黃魚鴞 0.82 校準，舊 0.8 會誤判富媒體範本。WARN-only soft launch） + `media-richness` length-scaled count（長文朝 圖+影片 ≥8 INFO + 多模態 nudge） |
 
-> ⚠️ **profile 邊界鐵律**（v6.1，2026-05-17 admiring-montalcini）：`rewrite-stage-4` profile **不含** `footnote-format` / `footnote-density`（那兩個在 `rewrite-stage-3-5` profile，Stage 3.3 跑）。Stage 4 跑全綠**不代表 CI 會過** — CI full sweep 跑全 16 plugin，包含 stage-3-5 的 footnote 系列。如果跳過 Stage 3.3 的 `rewrite-stage-3-5` plugin gate，本機 Stage 4 顯示綠燈但 CI 會 hard-fail。誕生事件：2026-05-17 臺灣前途決議文 ship 後 CI footnote-format hard=23（commit `b39ea5529` 補修 29 條 footnote）。對策：**Stage 3.3 必跑 `--profile=rewrite-stage-3-5`**（已寫進本檔 Step 3.3 + 頂部 Hard Gate Inventory）。
+> ⚠️ **profile 邊界鐵律**（v6.1，2026-05-17 admiring-montalcini）：`rewrite-stage-4` profile **不含** `footnote-format` / `footnote-density`（那兩個在 `rewrite-stage-3-5` profile，Stage 3.3 跑）。Stage 4 跑全綠**不代表 CI 會過** — CI full sweep 跑全 全量 plugin（以 `--list-checks` 為準），包含 stage-3-5 的 footnote 系列。如果跳過 Stage 3.3 的 `rewrite-stage-3-5` plugin gate，本機 Stage 4 顯示綠燈但 CI 會 hard-fail。誕生事件：2026-05-17 臺灣前途決議文 ship 後 CI footnote-format hard=23（commit `b39ea5529` 補修 29 條 footnote）。對策：**Stage 3.3 必跑 `--profile=rewrite-stage-3-5`**（已寫進本檔 Step 3.3 + 頂部 Hard Gate Inventory）。
 
 **Pre-commit hook 已自動執行**這幾項檢查（SSOT pre-commit profile 自 2026-05-04 Phase 10 接管）。如果被擋：按提示修正，**不要用 `--no-verify` 繞過**。
 

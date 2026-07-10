@@ -244,6 +244,20 @@ GitHub Feedback      ──┘
 
 ### Stage 任務（在 EVOLVE-PIPELINE Phase 2 之後）
 
+0. **出口狀態前置判斷（v2.6，2026-07-10 roadmap P0-4）**：propose 之前先讀
+   `docs/semiont/routine-live-state.json` 查 `twmd-spore-publish-daily.enabled`——
+
+   ```bash
+   python3 -c "import json; t=[x for x in json.load(open('docs/semiont/routine-live-state.json'))['tasks'] if x['taskId']=='twmd-spore-publish-daily']; print(t[0]['enabled'] if t else 'unknown')"
+   ```
+
+   - `false`（出口關閉）→ **propose 0**。本週熱點照掃，但寫進 news-lens 報告的
+     「本週值得發但產線關閉」清單（給哲宇手動挑），不 append SPORE-INBOX。
+     出口關著還每週 +5 進料，等於把 distill auto-drop 洩壓閥當日常用
+     （2026-06-14 起 buffer 恆 49-53 條的病，weekly-deep-review §五 發現三）。
+   - `true` → 照下方 1-5 步走。
+   - dump 缺失或 stale > 48h → 保守視同 `false` 並在報告註明 dump 待 refresh。
+
 1. **讀本週熱點來源**：
    - GA top growth 7d（最近 7 天 PV 大幅上升的 article）
    - SC trending queries 7d（query impressions 大幅上升）
