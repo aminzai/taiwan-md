@@ -37,10 +37,14 @@ import argparse
 import json
 import os
 import re
+import subprocess
 import sys
 import time
+from dataclasses import replace as _dc_replace
 from pathlib import Path
 from typing import Optional
+
+import yaml
 
 from backends import (
     BackendError,
@@ -62,13 +66,18 @@ KNOWLEDGE = REPO / "knowledge"
 
 # ────────────────── Cascade defaults ──────────────────
 
-DEFAULT_CASCADE_ID = "codex,gemini,openrouter:openai/gpt-oss-120b:free,ollama"
+DEFAULT_CASCADE_ID = "codex,gemini,openrouter:openai/gpt-oss-120b:free,ollama,fleet"
 """Default cascade priority (v4.3 2026-06-10 audit D-2; v4.2 2026-05-16 哲宇 callout「codex + gemini 為優先」):
 
 1. **codex (gpt-5.5)** — subscription, top quality, ~100% Taiwan pass (production verified)
 2. **gemini (gemini-2.5-pro)** — Google subscription priority partner (對 sensitive 主題待 calibrate)
 3. **openrouter gpt-oss-120b:free** — verified free（大文章會 truncate，ratio gate 接手）
 4. **ollama (qwen3.6)** — sovereignty backbone, never refuses（需 `ollama serve` 啟動）
+5. **fleet** — Tier 5（v4.4 2026-07-10 P0-2）：主權 GPU 軍團 raw HTTP。cron 環境層
+   可以一夜滅掉所有 CLI backend（7/8 catastrophic exhaustion vc=2：codex nvm 斷 /
+   gemini TERM=dumb / free tier 全域 429 / 本機 ollama 吐空），但 HTTP 直打不經
+   CLI 層（同夜 embeddings 毫髮無傷的對照組證據）。7/9 手動繞道 ship 4 篇驗證路通，
+   本版收編進 default cascade。endpoint 由 fleet 自己選節點（fleet-endpoint.sh）。
 
 v4.3 變更：owl-alpha 移出 default — 2026-06-10 babel-nightly 證實 silent 轉 paid
 （HTTP 404，兩週內第 5 個 cloud free tier 死亡：Hy3 → deepseek → qwen3 → owl-alpha）。
@@ -83,6 +92,47 @@ backend，死模型整 run 冷凍一次，不再讓 168 篇各自撞 timeout 燒
 
 Pipeline canonical: docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md
 """
+
+
+class FleetBackend(OllamaBackend):
+    """Tier 5：主權 fleet GPU 節點，ollama 相容 API over raw HTTP。
+
+    跟本機 OllamaBackend 同協定、不同地板：不依賴 cron 環境的 CLI 層
+    （nvm PATH / TERM / free-tier 配額都碰不到它）。fleet 自己負責節點
+    選擇與 sovereignty-safe 過濾（~/Projects/muse-bot/fleet）。
+    """
+
+    CAPABILITIES = _dc_replace(
+        OllamaBackend.CAPABILITIES,
+        name="fleet",
+        model="qwen3.5:35b",
+        typical_latency_s=120,
+        notes="Tier 5 sovereignty fleet over HTTP（2026-07-10 P0-2 收編）— "
+              "cron-env CLI 層全滅時的結構性捕手；7/9 手動繞道 4 ship 驗證。",
+    )
+
+
+def _fleet_endpoint() -> tuple[str, str]:
+    """問 fleet adapter 要 (host, model)。拿不到回 ('', '')（fleet 不在 = 正常降級）。"""
+    env_host = os.environ.get("FLEET_ENDPOINT", "")
+    if env_host:
+        return env_host, os.environ.get("FLEET_MODEL", "")
+    script = REPO / "scripts" / "tools" / "lang-sync" / "fleet-endpoint.sh"
+    try:
+        out = subprocess.run(["bash", str(script), "--export"],
+                             capture_output=True, text=True, timeout=60)
+        if out.returncode != 0:
+            return "", ""
+        host = model = ""
+        for tok in out.stdout.replace("export ", "").split():
+            k, _, v = tok.partition("=")
+            if k == "OLLAMA_HOST":
+                host = v
+            elif k == "OLLAMA_MODEL":
+                model = v
+        return host, model
+    except Exception:
+        return "", ""
 
 
 def build_cascade(cascade_id: str = DEFAULT_CASCADE_ID) -> "TranslationCascade":
@@ -106,6 +156,14 @@ def build_cascade(cascade_id: str = DEFAULT_CASCADE_ID) -> "TranslationCascade":
         elif name == "ollama":
             model = opt or os.environ.get("OLLAMA_MODEL") or "qwen3.6:35b-a3b-coding-nvfp4"
             backends.append(OllamaBackend(model=model))
+        elif name == "fleet":
+            host, fleet_model = _fleet_endpoint()
+            if host:
+                model = opt or os.environ.get("FLEET_MODEL") or fleet_model or "qwen3.5:35b"
+                backends.append(FleetBackend(model=model, host=host))
+            else:
+                print("⚠️  fleet backend: 無 sovereignty-safe 節點可用 — skipped（正常降級）",
+                      file=sys.stderr)
         else:
             print(f"⚠️  Unknown backend in cascade: {spec!r}", file=sys.stderr)
 
@@ -256,6 +314,23 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
         output = output[3:].lstrip("\n")
     if output.endswith("```"):
         output = output[:-3].rstrip("\n")
+
+    # Frontmatter integrity hard gate (2026-07-10 P0-3): 任一 backend（含 fleet raw
+    # 輸出）frontmatter 破損就不落盤——缺開頭 fence / 找不到收尾 fence / YAML 不
+    # parse（引號未跳脫家族 bug）。7/10 SLP ko 三洞案例：fleet 產出缺 fence +
+    # description 內雙引號未跳脫，靠 pre-commit 才攔住；本閘把攔截點前移到寫檔前，
+    # 半成品不再落 working tree。
+    if not output.startswith("---"):
+        return False, f"frontmatter missing opening fence via {backend_used} — not saved", backend_used
+    fm_end = output.find("\n---", 3)
+    if fm_end == -1:
+        return False, f"frontmatter missing closing fence via {backend_used} — not saved", backend_used
+    try:
+        fm = yaml.safe_load(output[3:fm_end])
+        if not isinstance(fm, dict) or "title" not in fm:
+            raise ValueError("frontmatter not a mapping with title")
+    except Exception as e:
+        return False, f"frontmatter YAML broken via {backend_used}: {str(e)[:80]} — not saved", backend_used
 
     # Footnote completeness hard gate (2026-06-06): reject truncated/incomplete output.
     # The cascade model can hit its token limit and cut off the article tail (image
