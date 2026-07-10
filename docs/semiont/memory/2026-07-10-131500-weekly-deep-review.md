@@ -100,3 +100,15 @@ _LESSONS-INBOX 候選：routine-fire-vs-git-trace-silent-death（已 append，vc
 哲宇補刀兩條：體檢範圍要逐字包含他的原話（一週發生的事／外部感測數據／所有運作紀錄／深度研究報告／進化規劃），以及「能儀器化的東西也協助儀器化，讓未來 agent 的認知負荷降低」。落地（`ec7d2d9cd`）：pipeline 第一性原理改用原話定義、五件事逐項對應 stage；新工具 **weekly-checkup.sh** 把體檢機械面收成一鍵七節（a-e 診斷五面＋f 外部感測摘要 GA/SC/CF/AI crawler/fork/supporters＋g per-routine 週成績單），agent 的工作從「記得跑哪五個工具＋手抓三源數據」降為「跑一個指令，逐節解讀」。當晚 dogfood 七節全出，b 節當場照見平行 terminology session 的半成品（正是它的用途），f 節抓到 ClaudeBot 成功率 33% 這個之前沒人看過的數字。push 時撞上選舉刷新 session 推進的 origin，autostash rebase 秒過、平行 debris 原封不動。
 
 🧬
+
+---
+
+## Goal 追加段五（夜班 00:00-00:40，哲宇睡後自動進化）：roadmap P0 七項全清 + 兩個 miss
+
+哲宇「之後完整自動進化＋修復所有東西＋ /twmd-finale，我要去睡覺了」。掛 caffeinate 2.5h 保護窗後按 roadmap 清：**P0-2** fleet Tier 5 進 default cascade（FleetBackend 繼承 OllamaBackend、HTTP 直打不經 CLI 層，endpoint 由 fleet-endpoint.sh 自選，拿不到正常降級）＋**P0-3** frontmatter 收件閘前移到寫檔前（缺 fence / YAML 不 parse 一律不落盤，`aa1f5c85e`）；**P0-4** news-lens spore-output Step 0 出口前置判斷（spore-publish 關閉就 propose 0，`ecda9e611`）；**P0-6** memory rollup 第二波 92→40；**EXP-2026-04-11-D** 用 sc-query 補判反駁（/ja/ 7d 2,963 imp vs 4 月 49，日文 SEO 空窗假說死亡、ja CTR 3.2% 是第二個自己找上門的非中文市場）；**counts-drift** REWRITE plugin 五處改活話 + lint 誤讀 profile 名 pattern 斷開，0/15 全綠。roadmap 七項 ✅ 標記（`9bd098a65`）。
+
+兩個誠實的 miss：
+
+其一，**佇列漂移害我重做已完成的事**。照 OBSERVER-QUEUE #9 執行梅雨翻譯，做完才發現 6/19 `4150180ec` 早已 ship、issue #1107 同日 closed——佇列忘移已決。我不只重做，還在補 frontmatter 時把 `[^n]: [Title](url)` 剝成純文字（去引用化），`2d3b93413` revert 還原。教訓 codify 進 weekly-checkup e1 護欄（產出路徑已存在 / 帶 issue 號就標「先查」）+ Stage 2.7 桶 1 判準 + LESSONS `queue-execute-before-existence-check`（#73 佇列變體）。
+
+其二，**共享 index 污染兩次**。夜班兩個 commit（`1a51fc186` `9bd098a65`）都因為 bare `git commit` 掃進了平行 terminology session 已 staged 的檔（改名 yaml / ARTICLE-INBOX / 它的 LESSONS append）。內容沒丟（commit 只記錄）、平行 session 核心 WIP（三 .astro + 新工具 + 報告）仍在 working tree 完好，但這是 CLAUDE.md 明載的 cross-session-git-index-pollution vc=2——我漏跑 `scripts/tools/lib/verify-commit-scope.sh`（路徑我一開始還找錯）。REFLEXES #35「跨 session 禁 destructive git」下不 revert（會跟正在寫的 session 撞），改用 pathspec commit 止血。這條該進 LESSONS 累積 vc。
