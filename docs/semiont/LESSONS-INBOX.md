@@ -727,6 +727,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 同一 session 三次同型：(1) inspector 黑字（dev preview 分頁 RAF 凍住誤讀成驗證通過，沒看線上版）(2) `ea28a2f7b` 貼錯 commit 標籤（憑 2.5hr 前印象沒重 diff）(3) gate 註解編假理由「article-health 多檔 exit code 只反映最後一檔」——實測多檔有正確 aggregate（`sum(hard_count)`），我早前 `${PIPESTATUS[0]}` 寫在 `| tail` 之後的獨立 echo 行、被重置成 0，只看最後一檔的 Summary print 就誤判。具體技術陷阱：**pipe 後要量 exit code 必須同一行 `cmd | tail; rc=${PIPESTATUS[0]}`，跨行 echo 會重置**。三次都是「自評沒接外部尺」，諷刺地發生在主題是「自我描述必腐」的 session。第三次差別：收官時我自己當了尺（真的去 `>/dev/null; echo $?`）逮到。vc=1，強化 REFLEXES #69（自評需外部尺）+ #73（dev verify ≠ production）；技術面 PIPESTATUS 陷阱可獨立記。詳：memory 2026-07-05-165518 §後記 + diary 同 slug。
 
+### 2026-07-11 詞庫保存進化 — 審查主權詞庫時 LLM 預設中國語料，會把台灣正確譯名「洗」向中國名，suggest 一律當線索不當答案
+
+本地 Ollama 全審用語詞庫 2,308 條時，模型 suggest 反覆要把台灣正確譯名改成中國譯名——宏都拉斯建議改洪都拉斯、辛巴威改津巴布韋、聖母峰建議改珠穆朗瑪峰。這些台灣欄本來就對，模型只是以中國語料為預設判斷基準。若照套 suggest 等於把 sovereignty 詞庫洗成中國命名，跟計畫初衷相反。**紀律**：審查主權敏感資料時，LLM flag 是線索不是事實，suggest 一律不套用，每條用台灣知識＋外交部對照表親自判。配套：保守 prompt（明列不該誤殺的錨點 + 不確定降 SUSPICIOUS）把 flag 率 57%→17%，高精度可審勝過大而吵。vc=1（首次），是 REFLEXES #16/#31/#75（peer/sub-agent/LLM 是線索不是 source）在 sovereignty 場景的特化。可能層級：REFLEXES 家族特化 / MANIFESTO §主權巴別塔（審查主權資料的模型偏誤）。詳：memory 2026-07-10-225026 + reports/terminology-preservation-evolution-2026-07-10.md §7.2。
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->

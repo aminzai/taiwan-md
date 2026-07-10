@@ -301,3 +301,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-10 | 191112-twmd-rewrite-daily | +71 min drift + 17:59 heavy ship priming；capacity defer vc=6；PICK 選舉 Tier 1.1 #1 續掛 07-11 18:00 | cron slot 位置是隱含 signal；vc 家族 canonical 覆蓋 | [→](memory/2026-07-10-191112-twmd-rewrite-daily.md) |
 | 2026-07-10 | 231123-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 16.12% vc=3 break-out confirmed；免疫 60 v2 baseline tick #1 | vc-升級 routine 飛輪自走完程；量尺重校準的 first honest reading | [→](memory/2026-07-10-231123-twmd-data-refresh-pm.md) |
 | 2026-07-10 | 224934-elections-refresh | 選舉站體六語補齊＋新增選務時程區塊；總章 v1.1 修六處事實錯＋補三制度變數；inbox 對賬揭 Tier 1.1/1.4 漏標六週；算力分層新分工首次落地 | ship 不等於 inbox 知道 ship；quality gate 演進會讓存量內容變 hard-fail | [→](memory/2026-07-10-224934-elections-refresh.md) |
+| 2026-07-11 | 225026-詞庫保存進化 | 用語詞庫長 LLM 全審器（本地 2308 條）+ 審修 26 筆（亂碼國名對 MOFA／簡繁 neutralize）+ 頁面五 bug；餘 510 進 OBSERVER-QUEUE #11 | 審主權詞庫 LLM 會把台灣名洗向中國名、suggest 當線索；長多檔任務先開 worktree | [→](memory/2026-07-10-225026-詞庫保存進化.md) |
