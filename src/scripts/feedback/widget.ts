@@ -41,6 +41,22 @@ interface DraftState {
   quote?: string;
 }
 
+// OAuth redirect 會把 access_token / refresh_token 留在 URL fragment 或 query
+// （2026-06-09 #1141 + 2026-06-16 #1160 兩次洩進 public issue），source_url 只留乾淨路徑。
+// triage 端另有 redact + JWT regex gate（triage.test.mjs），這裡是第一道防線。
+function sanitizeSourceUrl(href: string): string {
+  const base = href.split('#')[0];
+  try {
+    const u = new URL(base);
+    for (const k of [...u.searchParams.keys()]) {
+      if (/token|code|auth|secret|session/i.test(k)) u.searchParams.delete(k);
+    }
+    return u.toString();
+  } catch {
+    return base;
+  }
+}
+
 export async function initFeedbackWidget(): Promise<void> {
   try {
     const root = document.getElementById('twmd-feedback');
@@ -63,7 +79,7 @@ export async function initFeedbackWidget(): Promise<void> {
       slug: root.dataset.slug || '',
       category: root.dataset.category || '',
       title: root.dataset.title || '',
-      url: root.dataset.url || location.href,
+      url: sanitizeSourceUrl(root.dataset.url || location.href),
       pageKind: root.dataset.pagekind || 'other',
     };
     const t = getStrings(ctx.lang);
