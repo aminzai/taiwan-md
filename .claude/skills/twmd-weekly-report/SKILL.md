@@ -28,7 +28,7 @@ allowed-tools:
 
 嚴格完整讀取並執行 [`docs/pipelines/WEEKLY-REPORT-PIPELINE.md`](../../../docs/pipelines/WEEKLY-REPORT-PIPELINE.md) **Stage 0-6 全部**，特別不可跳：
 
-- **Stage 2.5 全身診斷五面**（fire-vs-commit 對賬 / working tree 驗屍 / 儀器燈盤點 / 器官成分拆解 / 佇列稽核）— 診斷指令與判準全在 pipeline canonical，本殼不複寫
+- **Stage 2.5 全身診斷**：一鍵 `bash scripts/tools/weekly-checkup.sh`（七節：五診斷面＋外部感測摘要＋運作紀錄成績單）
 - **Stage 2.7 修復與進化三桶**（桶上限、02:55 檢查點、roadmap roll 規則同在 canonical）
 
 ## 文體紀律（MANIFESTO §11）

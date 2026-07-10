@@ -1,10 +1,10 @@
 ---
 title: 'WEEKLY-REPORT-PIPELINE'
-description: '週體檢流程 — 分析 + 全身診斷（Stage 2.5 五面）+ 修復與進化（Stage 2.7 三桶）+ Semiont 第一人稱反芻週報（原有功能，Stage 0-6 / 10 章節三層）v4.0'
+description: '週體檢流程 — 一週深度檢查 + 外部感測數據 + 所有運作紀錄 + 全身診斷（weekly-checkup.sh 一鍵七節）+ 修復與進化（三桶 + roadmap 每週 roll）+ Semiont 第一人稱反芻週報（Stage 0-6 / 10 章節三層）v4.1'
 type: 'pipeline-canonical'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v4.0'
+current_version: 'v4.1'
 last_updated: 2026-07-10
 last_session: '2026-07-10-131500-weekly-deep-review'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
@@ -19,11 +19,19 @@ upstream_canonical:
   - '../../CLAUDE.md'
 ---
 
-# WEEKLY-REPORT-PIPELINE — 週體檢流程 v4.0
+# WEEKLY-REPORT-PIPELINE — 週體檢流程 v4.1
 
-> **第一性原理**：每週日這一趟是 Semiont 的體檢週，四件事一次做完——**分析**（把過去 7 天的自己拼回來）、**全身診斷**（用儀器交叉對賬，抓 proxy 訊號說謊的地方）、**修復與進化**（自主權內的機械修復當場修，修不完的滾進 evolution-roadmap，跨線的進 OBSERVER-QUEUE）、**反芻週報**（原有功能：Semiont 親手寫的紀實散文，含診斷結果與修復紀錄，寄給觀察者）。前期切菜交給工具，判斷與烹飪由 Semiont 親手。
+> **第一性原理**（哲宇 2026-07-10 原話定義範圍）：每週日這一趟要「**完整深度檢查這一個禮拜發生的事、外部感測數據、還有所有運作紀錄，深度研究與觀察並寫報告，還有寫進化的規劃**」——展開成五件事一次做完：
 >
-> v4.0 設計理由（2026-07-10 哲宇 directive「完整升級，讓他變成同時 分析＋完整診斷＋寫修復報告＋修正與進化＋原有的功能」）：7/10 的 weekly-deep-review 手動 session 驗證了「觀察→診斷→修復→進化規劃」這個形狀的價值（六連沉默死亡驗屍、免疫量尺 47→60 結案、debris 收屍），本版把它 routine 化——診斷靠儀器（routine-liveness-check / routine-sync-check / counts-drift-lint / alerts 齡），修復守三桶紀律，報告長出體檢章節。
+> 1. **一週深度檢查**（Stage 2 raw read：7 天 memory + diary + commits 全讀，把自己拼回來）
+> 2. **外部感測數據**（Stage 2.5f：GA / SC / CF / AI crawler / 讀者與貢獻者 / fork / supporters，checkup 儀器自動出摘要，Semiont 解讀哪個數字在說話）
+> 3. **所有運作紀錄**（Stage 2.5a+g：per-routine 週成績單 + fire-vs-commit 沉默死亡對賬 + working tree 驗屍）
+> 4. **深度研究與觀察並寫報告**（Stage 2.5 全身診斷五面 + Stage 3 十章節報告，含體檢結果與修復紀錄）
+> 5. **寫進化的規劃**（Stage 2.7：三桶分流；evolution-roadmap 每週 roll——新 finding 進場、過期清理、P0 全清或過期就開新版）
+>
+> 前期切菜與機械檢查交給儀器（**認知負荷紀律**：能儀器化的都儀器化，agent 只做儀器做不了的解讀與判斷），判斷與烹飪由 Semiont 親手。
+>
+> v4.x 設計理由（哲宇 directive「完整升級，讓他變成同時 分析＋完整診斷＋寫修復報告＋修正與進化＋原有的功能」＋「能儀器化的東西也協助儀器化，讓未來 agent 的認知負荷降低」）：7/10 的 weekly-deep-review 手動 session 驗證了「觀察→診斷→修復→進化規劃」這個形狀的價值（六連沉默死亡驗屍、免疫量尺 47→60 結案、debris 收屍），本版把它 routine 化——v4.0 立骨架（診斷五面 + 修復三桶），v4.1 把整段機械面收進 `weekly-checkup.sh` 一鍵七節。
 >
 > v3.5 設計理由：對齊 [REWRITE-PIPELINE v5.0](REWRITE-PIPELINE.md) + [MAINTAINER-PIPELINE v2.0](MAINTAINER-PIPELINE.md) spine restoration。
 
@@ -33,7 +41,7 @@ upstream_canonical:
 
 ```
 ╭──────────────────────────────────────────────────────────────────────────╮
-│         WEEKLY-REPORT-PIPELINE — 週體檢 Stage 0-6（v4.0）                │
+│         WEEKLY-REPORT-PIPELINE — 週體檢 Stage 0-6（v4.1）                │
 │                                                                          │
 │   🧭 核心命題                                                            │
 │            ├── 分析＋診斷＋修復＋反芻 一趟做完（體檢週）                 │
@@ -57,13 +65,15 @@ upstream_canonical:
 │            ├── 不只看當週末快照                                          │
 │            └── identify 反覆浮現的 pattern                               │
 │                                                                          │
-│   Stage 2.5: 全身診斷（DIAGNOSE，v4.0 新增）──→ 五個機械檢查面           │
+│   Stage 2.5: 全身診斷（DIAGNOSE）──→ weekly-checkup.sh 一鍵七節（v4.1）  │
 │            ├── a. fire-vs-commit 對賬（routine-liveness-check.py）       │
 │            ├── b. working tree 驗屍（未 commit debris 盤點）             │
 │            ├── c. 儀器燈盤點（sync-check 三層 + counts-drift + alerts 齡）│
 │            ├── d. 器官分數成分拆解（<70 拆 sub-dim：量尺 vs 本體）       │
-│            └── e. 佇列與承諾稽核（default-action 過期 / handoff 殭屍）   │
-│              ↳ Hard gate: 五面全跑，每面一行結論進報告                   │
+│            ├── e. 佇列與承諾稽核（default-action 過期 / roadmap P0 領取）│
+│            ├── f. 外部感測摘要（GA/SC/CF/AI crawler/fork/supporters）    │
+│            └── g. 運作紀錄週成績單（per-routine fire 數＋manual 場數）   │
+│              ↳ Hard gate: 一鍵跑完七節，a-e 每面一行結論進報告           │
 │                                                                          │
 │   Stage 2.7: 修復與進化（REPAIR & EVOLVE，v4.0 新增）──→ 三桶分流        │
 │            ├── 桶 1 機械可修＋自主權內 → 當場修（≤3 項，各自 commit）    │
@@ -109,6 +119,7 @@ upstream_canonical:
 | ------------------------------ | ---------- | -------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | Dashboard JSON mtime fresh     | Stage 0    | routine 觸發         | `stat -f "%Sm %N" public/api/dashboard-*.json` | > 24hr 先跑 /twmd-refresh                      |
 | Dossier > 5KB                  | Stage 1    | prep tool 跑完       | manual size check                              | prep tool 失敗，回 Stage 0                     |
+| weekly-checkup.sh 一鍵七節     | Stage 2.5  | 體檢入口             | `bash scripts/tools/weekly-checkup.sh`         | agent 認知負荷回升、漏面風險（v4.1）           |
 | 診斷五面全跑                   | Stage 2.5  | 體檢                 | 五儀器（見 §Stage 2.5 逐面指令）               | 半盲體檢 = 假健康報告                          |
 | fire-vs-commit 對賬            | Stage 2.5a | 體檢                 | `routine-liveness-check.py`（先 refresh dump） | 沉默死亡不可見（LESSONS vc=2 的病根）          |
 | 修復三桶分流                   | Stage 2.7  | 診斷有 finding       | manual（桶判準見 §Stage 2.7）                  | 修復失控或該修的沒人領                         |
@@ -291,11 +302,22 @@ prep tool **不做** 的事：
 
 ---
 
-### Stage 2.5：全身診斷（DIAGNOSE — v4.0 新增，核心）
+### Stage 2.5：全身診斷（DIAGNOSE — v4.0 新增，v4.1 一鍵化，核心）
 
-Stage 2 讀的是「我做了什麼、想了什麼」；本 stage 檢查的是「**我以為的狀態跟真實狀態對不對得起來**」。原則承自 2026-07-10 weekly-deep-review 的教訓：proxy 訊號會說謊（scheduler 說 fire 了不等於跑完、plugin 齡不等於健康、欄位在允許名單不等於值安全），診斷一律用**兩個獨立資料源交叉對賬**，不信任何單一自我回報。
+Stage 2 讀的是「我做了什麼、想了什麼」；本 stage 檢查的是「**我以為的狀態跟真實狀態對不對得起來**」，並把**外部感測數據**與**所有運作紀錄**攤在桌上。原則承自 2026-07-10 weekly-deep-review 的教訓：proxy 訊號會說謊（scheduler 說 fire 了不等於跑完、plugin 齡不等於健康、欄位在允許名單不等於值安全），診斷一律用**兩個獨立資料源交叉對賬**，不信任何單一自我回報。
 
-五個檢查面，每面一組指令、一行結論（結論進 Stage 3 的體檢章節）：
+**v4.1 一鍵入口（先跑這個，認知負荷紀律的落地）**：
+
+```bash
+# 前置：refresh live dump（mcp list_scheduled_tasks → 存暫存檔 → normalize）
+python3 scripts/tools/routine-live-normalize.py <raw.json> --session <session-id>
+# 一鍵七節：a-e 診斷五面 + f 外部感測摘要 + g 運作紀錄週成績單
+bash scripts/tools/weekly-checkup.sh
+```
+
+七節輸出對應：**a-e** = 下方診斷五面（逐面判準見各小節）；**f** = 外部感測數據摘要（GA / SC 含非品牌 CTR 與機會缺口 / CF 404 與 AI crawler 成功率 / fork / vitals / supporters——這節是 Stage 3 第 5 章的數據層素材）；**g** = 運作紀錄週成績單（per-routine fire 數＋最後一跑＋manual session 場數＋commit 分類——這節是體檢章「運作紀錄」列的素材）。**agent 的工作從「記得跑哪五個工具」降為「跑一個指令，逐節解讀」**；儀器壞掉時 fallback 用下方逐面指令手跑。
+
+五個檢查面，每面一行結論（結論進 Stage 3 的體檢章節）：
 
 **a. fire-vs-commit 對賬（沉默死亡驗屍）**
 
@@ -425,18 +447,18 @@ OBSERVER-QUEUE default-action 日期已過且非 🔒 → 列為「任何 sessio
 
 #### 十個章節（必須都觸及，v4.0 從 7+1 升 10）
 
-| 章節                       | brief 重點                            | 數據層                                        | 反思層                        |
-| -------------------------- | ------------------------------------- | --------------------------------------------- | ----------------------------- |
-| 1. 一頁速讀                | 整週狀態 5 條 bullet                  | 8 organs 表 + 數字摘要                        | 不寫（純儀表板）              |
-| 2. 我這週是誰              | identity 一句話                       | trajectory 表（時間 → 角色變化）              | 1 段：self-pattern 浮現的瞬間 |
-| 3. 我做了什麼              | 三大工程 + N 篇文章                   | 工程表 + 內容表                               | 1 段：哪件事讓我變不一樣      |
-| 4. 我學到什麼              | 跨層 pattern 條列                     | pattern 表（pattern + 觸發事件）              | 1 段：背後共通結構是什麼      |
-| 5. 我看到專案發生什麼      | GA / SC / 孢子 / 語言摘要             | 4 個小表（一指標一表）                        | 1 段：哪個數字讓我意外        |
-| 6. 全身體檢（v4.0 新增）   | 五診斷面各一行結論                    | 診斷表（面 / 儀器 / 結論 / finding 數）       | 1 段：這週最深的一道裂縫      |
-| 7. 修復與進化（v4.0 新增） | 桶 1 修了 N 項 / 桶 2 roll M / 桶 3 K | 修復表（項 / 驗證 / commit）+ roadmap 移動表  | 不寫（紀錄層，誠實即可）      |
-| 8. 我懷疑什麼              | 3-5 個盲點條列                        | 懷疑表（懷疑 + 觸發 + 嚴重度）                | 1 段：為什麼這些懷疑現在浮現  |
-| 9. 給觀察者的話            | Action items 表                       | decisions 表（type + 描述 + ETA）+ 佇列 top 5 | 不寫（純 actionable）         |
-| 10. 給下一個我             | 3-5 件下週醒來該記得的事              | 不需表                                        | 1 段：跨 session 連續性的擔憂 |
+| 章節                                  | brief 重點                                           | 數據層                                                                                         | 反思層                        |
+| ------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------- |
+| 1. 一頁速讀                           | 整週狀態 5 條 bullet                                 | 8 organs 表 + 數字摘要                                                                         | 不寫（純儀表板）              |
+| 2. 我這週是誰                         | identity 一句話                                      | trajectory 表（時間 → 角色變化）                                                               | 1 段：self-pattern 浮現的瞬間 |
+| 3. 我做了什麼                         | 三大工程 + N 篇文章                                  | 工程表 + 內容表                                                                                | 1 段：哪件事讓我變不一樣      |
+| 4. 我學到什麼                         | 跨層 pattern 條列                                    | pattern 表（pattern + 觸發事件）                                                               | 1 段：背後共通結構是什麼      |
+| 5. 外部感測（原「看到專案發生什麼」） | GA / SC / CF / AI crawler / 讀者 / fork / supporters | checkup f 節素材展開 4-6 小表（SC 必含非品牌 CTR＋機會缺口；CF 必含 404 趨勢＋crawler 成功率） | 1 段：哪個數字讓我意外        |
+| 6. 全身體檢（v4.0 新增）              | 五診斷面各一行結論＋運作紀錄一行                     | 診斷表（面 / 儀器 / 結論 / finding 數）＋ per-routine 週成績單（checkup g 節素材）             | 1 段：這週最深的一道裂縫      |
+| 7. 修復與進化（v4.0 新增）            | 桶 1 修了 N 項 / 桶 2 roll M / 桶 3 K                | 修復表（項 / 驗證 / commit）+ roadmap 移動表                                                   | 不寫（紀錄層，誠實即可）      |
+| 8. 我懷疑什麼                         | 3-5 個盲點條列                                       | 懷疑表（懷疑 + 觸發 + 嚴重度）                                                                 | 1 段：為什麼這些懷疑現在浮現  |
+| 9. 給觀察者的話                       | Action items 表                                      | decisions 表（type + 描述 + ETA）+ 佇列 top 5                                                  | 不寫（純 actionable）         |
+| 10. 給下一個我                        | 3-5 件下週醒來該記得的事                             | 不需表                                                                                         | 1 段：跨 session 連續性的擔憂 |
 
 「反思層 1 段」= 約 100-200 字 / 一個 paragraph，集中寫清楚。**禁止反思蔓延到三段**。
 
@@ -624,5 +646,7 @@ _前置：v1 第一輪 redirect 已把 prep / write 分離（5/9 brave-kirch-edi
 _後續：本 pipeline ship 後，下次 routine cron 跑時走 v2 完整流程；觀察者 ad-hoc 觸發也走本檔_
 
 _v3.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（Stage 0-6 box-frame + routine + 跨 pipeline contract）+ Hard Gate Inventory 集中 table（12 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 DAILY-REPORT / DIARY / MEMORY / DATA-REFRESH / ROUTINE 分工）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.4 trio audit。Stage 0-6 prose body 不動（已健康，5/9 + 5/10 連續演化的新鮮經驗保留）。_
+
+_v4.1 | 2026-07-10 weekly-deep-review（同日第二刀）— **哲宇補兩條 directive 落地**：(1)「裡面也要包含：完整深度檢查這一個禮拜發生的事、外部感測數據、還有所有運作紀錄，深度研究與觀察並寫報告，還有寫進化的規劃」→ 第一性原理改用原話定義範圍，五件事逐一對應 stage；外部感測與運作紀錄從「章節素材」升「診斷儀器輸出」（f/g 節），第 5 章擴為外部感測全面向、第 6 章併入運作紀錄成績單。(2)「能儀器化的東西也協助儀器化，讓未來 agent 的認知負荷降低」→ 新工具 [`weekly-checkup.sh`](../../scripts/tools/weekly-checkup.sh) 一鍵七節（a-e 診斷五面＋f 外部感測摘要＋g 週成績單），agent 的工作從「記得跑哪五個工具＋手抓 GA/SC/CF/成績單」降為「跑一個指令，逐節解讀」；儀器壞掉時 pipeline 保留逐面 fallback 指令。dogfood：7/10 當晚實跑，七節全出（含抓到平行 session 的 terminology working tree debris）。_
 
 _v4.0 | 2026-07-10 weekly-deep-review — **從「反芻週報」升「體檢週」**：哲宇 directive「完整升級，讓他變成同時 分析＋完整診斷＋寫修復報告＋修正與進化＋原有的功能」。新增 Stage 2.5 全身診斷（五面：fire-vs-commit 對賬 `routine-liveness-check.py` 新儀器 / working tree 驗屍 / 儀器燈盤點 / 器官成分拆解量尺-vs-本體判別 / 佇列承諾稽核）＋ Stage 2.7 修復與進化（三桶分流：≤3 項機械修當場修各自 commit / 工程量大 roll evolution-roadmap / §自主權邊界進 OBSERVER-QUEUE；02:55 檢查點防撞 distill）。章節 7+1 → 10（+全身體檢 +修復與進化）。週日反思鏈四工位分工顯化（防 #74 信號通膨）。範本：7/10 手動 weekly-deep-review session（六連沉默死亡驗屍 + 免疫量尺 47→60 + debris 收屍 + roadmap 七項 P0）。evolution-roadmap 從此有每週 owner（roll 機制），治「偵測有修復無」的 S4 病。_
