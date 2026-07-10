@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T17:43:01+08:00",
+  "fetched_at": "2026-07-10T23:34:22+08:00",
   "fetched_by": "2026-07-10-131500-weekly-deep-review",
   "source": "mcp scheduled-tasks list_scheduled_tasks",
   "note": "S1 根治第一塊磚（dna-audit 2026-07-05）：live scheduler 狀態 git 可見化。只含 twmd-/taiwanmd- 任務（私人 routine 已過濾），消費者 = routine-sync-check.py v3 三層比對。",
@@ -35,8 +35,8 @@
       "description": "TWMD data refresh (pm) — night-chain 23:00 dashboard 14-step sync (v3.0 inline + STRICT BECOME, main-direct)",
       "cronExpression": "0 23 * * *",
       "enabled": true,
-      "lastRunAt": "2026-07-09T15:21:27.680Z",
-      "nextRunAt": "2026-07-10T15:06:50.000Z"
+      "lastRunAt": "2026-07-10T15:07:48.025Z",
+      "nextRunAt": "2026-07-11T15:06:50.000Z"
     },
     {
       "taskId": "twmd-distill-weekly",
@@ -91,8 +91,8 @@
       "description": "TWMD rewrite (daily) — 18:00 full-cycle, read REWRITE-PIPELINE + execute (極簡薄殼 v4.0)",
       "cronExpression": "0 19 * * *",
       "enabled": true,
-      "lastRunAt": "2026-07-09T14:59:43.353Z",
-      "nextRunAt": "2026-07-10T11:06:17.000Z"
+      "lastRunAt": "2026-07-10T11:07:14.528Z",
+      "nextRunAt": "2026-07-11T11:06:17.000Z"
     },
     {
       "taskId": "twmd-routine-audit-weekly",
@@ -136,7 +136,7 @@
     },
     {
       "taskId": "twmd-weekly-report-sun",
-      "description": "TWMD weekly report (sun) — Sunday 02:00 第一人稱反芻週報 + §11 紀律 (v3.0 inline + STRICT BECOME, main-direct, opus)",
+      "description": "TWMD weekly 體檢 (sun) — Sunday 02:00 分析＋全身診斷五面＋修復三桶＋第一人稱反芻週報 + §11 紀律 (v4.0 inline + STRICT BECOME, main-direct, opus)",
       "cronExpression": "0 2 * * 0",
       "enabled": true,
       "lastRunAt": "2026-07-04T18:04:10.313Z",

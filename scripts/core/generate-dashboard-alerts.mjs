@@ -16,6 +16,7 @@
 
 import { readFileSync, readdirSync, writeFileSync, existsSync } from 'fs';
 import { join } from 'path';
+import { execSync } from 'child_process';
 
 const OUT = 'public/api/dashboard-alerts.json';
 const alerts = [];
@@ -56,13 +57,13 @@ const prev = (() => {
 })();
 const TODAY = new Date().toISOString().slice(0, 10);
 
-function addAlert(id, severity, message, source) {
+function addAlert(id, severity, message, source, owner) {
   alerts.push({
     id,
     severity,
     message,
     source,
-    owner: ownerFor(id),
+    owner: owner || ownerFor(id),
     firstSeen: prev[id] || TODAY,
   });
 }
@@ -251,6 +252,41 @@ if (overdue > 10) {
     `孢子回填 OVERDUE ${overdue} 條 > 10（發了不回填＝半盲）`,
     'dashboard-spores.json',
   );
+}
+
+// ── 9. Routine 沉默死亡（scheduler 有 fire、git 零痕跡 = fire ≠ 完成）──────
+// 誕生 2026-07-10 weekly-deep-review：morning chain 六連沉默死亡（機器睡眠窗）
+// + 2026-07-04 rewrite 前例，LESSONS `routine-fire-vs-git-trace-silent-death` vc=2。
+// routine-status.sh 靠 memory 檔看 fire、scheduler 只記扳機，交叉對賬才見屍體。
+// 工具 canonical：scripts/tools/routine-liveness-check.py（grace 3h / window 6h）。
+try {
+  const liveness = JSON.parse(
+    execSync('python3 scripts/tools/routine-liveness-check.py --json', {
+      encoding: 'utf8',
+      timeout: 30_000,
+    }),
+  );
+  for (const r of liveness.results || []) {
+    if (r.status !== 'silent-death') continue;
+    addAlert(
+      `routine-silent-${r.taskId}`,
+      'yellow',
+      `routine ${r.taskId} 沉默死亡：${(r.firedAt || '').slice(0, 16)} fire 後 ${r.ageHours}h 零 git 痕跡（fire≠完成，收屍看 working tree）`,
+      'routine-live-state.json × git log',
+      r.taskId,
+    );
+  }
+  if (liveness.dumpStale) {
+    addAlert(
+      'routine-livestate-stale',
+      'yellow',
+      `routine-live-state.json dump 齡 ${liveness.dumpAgeHours}h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）`,
+      'routine-live-state.json',
+      'twmd-data-refresh',
+    );
+  }
+} catch {
+  // liveness 工具不可用不擋 prebuild；週體檢（WEEKLY-REPORT v4 Stage 2.5a）會手動跑補位
 }
 
 // ── output ───────────────────────────────────────────────────────────────
