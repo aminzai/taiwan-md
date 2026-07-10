@@ -61,3 +61,11 @@ _session weekly-deep-review — 哲宇 /goal 一週深度檢查 + 進化規劃_
 _誕生原因：W27→W28 跨週體檢需求 + 哲宇告知兩個 routine disable_
 _核心洞察：環境層是最弱環節；fire ≠ 完成、交叉對賬才看得見沉默死亡；儀器化五天回本；哲宇的 disable 與 routine 自己的空場數據一致_
 _LESSONS-INBOX 候選：routine-fire-vs-git-trace-silent-death（已 append，vc=2）_
+
+---
+
+## Goal 追加段（同 session 18:00-20:00+）：四件「等哲宇」的事一次收攏
+
+哲宇下第二個 goal「能做的直接做掉、需要我的一次問」。執行結果：**免疫量尺 C'**——哲宇拍板後把 `compute_plugin_health()` 升 v2（可載入＋已註冊比例，齡數降 age_watch 資訊欄），plugin_health 16→100、免疫 47→60、紅燈六個 cycle 後結案、dashboard 0 red（`21a8405ef`），診斷與決策全程記在 LESSONS immune-chronic entry 轉 distill-ready。**v1.12.0 發版**——293 commits 從頭讀完、四硬 gate 全過、notes「我學會了立體地愛」哲宇核准照草稿發，tag + GitHub Release + CONSCIOUSNESS 里程碑（`4578f7292`）。**OAuth**——我方防線補齊：widget source_url 消毒（strip fragment + token 類 query 參數，`5f945ddb0`，tsc 綠 + 四洩漏形狀行為測試 + dev server 帶毒 fragment 實測），rotation 本體三步 runbook 交哲宇（GCP taiwan-md-sense reset secret → Supabase 換 secret → revoke session c033ff43），他選「現在做」。**雷亞 #89**——重複回覆定位完成（@ifinia02 兩條、SOP 在 HARVEST-REPLIES-PENDING/2026-05-29.md），哲宇選手動刪。兩件帳號操作完成後由下個 session 把 OBSERVER-QUEUE #2/#6 移已決。
+
+過程中一個值得記的細節：v2 量尺用 registry.discover_checks 當健康判準，等於讓「plugin 活著」的定義跟 runner 實際載入路徑同源——量尺跟被量的東西共用同一條真實路徑，才不會再長出第二把會說謊的尺。
