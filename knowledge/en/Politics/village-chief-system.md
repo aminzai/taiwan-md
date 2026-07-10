@@ -16,10 +16,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: '12'
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:f7559246c64e84dc'
-sourceBodyHash: 'sha256:f73626a9584cf00d'
-translatedAt: '2026-05-28T05:08:33+08:00'
+sourceCommitSha: '837e22b9'
+sourceContentHash: 'sha256:cce4699f9fdc3697'
+sourceBodyHash: 'sha256:48ef53002db1337d'
+translatedAt: '2026-07-11T00:35:00+08:00'
 ---
 
 # Village Chief System: 7,748 Elected Heads, Taiwan’s Most Grassroots Political Unit
@@ -36,7 +36,7 @@ At seven, he rides his scooter around the neighborhood. On the way back to the o
 
 At nine he boots up his computer, logs into the Ministry of the Interior’s village‑chief system, and uploads the minutes of last night’s resident assembly. At ten, the district office calls to ask whether he can help with a household registration outreach next week. At eleven he receives a retired veteran who has just left the hospital, and helps him fill out a welfare application — the form is actually kept at the district office, but the veteran cannot navigate the MRT.
 
-In the afternoon he patrols the village. At dusk he returns to the office to organise documents for coordinating the election polling station — six months before the 2026 November 28 “nine‑in‑one” election, he must confirm the venue for his village’s polling place. At seven p.m. the resident assembly convenes. After it adjourns at nine, he buys a rice ball at a convenience store for dinner.
+In the afternoon he patrols the village. At dusk he returns to the office to organise documents for coordinating the election polling station — with the 2026 November 28 “nine‑in‑one” election drawing closer, he must confirm the venue for his village’s polling place. At seven p.m. the resident assembly convenes. After it adjourns at nine, he buys a rice ball at a convenience store for dinner.
 
 There are **7,748** village chiefs across Taiwan.
 
@@ -187,7 +187,7 @@ Thus, **Taiwan’s village chief is a rare hybrid**: a legally defined, directly
 
 ## Observation Points for 2026
 
-Six months remain before the 28 November 2026 vote. Several indicators merit attention:
+The 28 November 2026 vote is drawing closer. Several indicators for the village‑chief election merit attention:
 
 - **Will the non‑partisan share remain**? Past elections have seen over 60 % non‑partisan candidates. Whether 2026 maintains this proportion tests the “faction‑over‑party” narrative in grassroots politics.
 - **Urban “young chiefs” phenomenon**: recent cases of 30‑40‑year‑old challengers confronting incumbent chiefs in their 70s, using social media, community building, and family‑oriented activities. Expect more such contests in Taipei, New Taipei, Taichung, and Taoyuan.

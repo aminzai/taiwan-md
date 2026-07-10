@@ -20,10 +20,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'Politics/政治獻金透明度.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:2a53fa288bce8108'
-sourceBodyHash: 'sha256:5744f7c78c6b7b4e'
-translatedAt: '2026-05-28T05:08:34+08:00'
+sourceCommitSha: '837e22b9'
+sourceContentHash: 'sha256:8a7814971a9249c7'
+sourceBodyHash: 'sha256:214c403ec0d7137c'
+translatedAt: '2026-07-11T00:35:00+08:00'
 ---
 
 # Transparencia de donaciones políticas: cuando la infraestructura democrática se convierte en un CSV descargable
@@ -211,7 +211,7 @@ La comunidad de g0v intentó hacer una "verificación cruzada de donaciones pol�
 
 La Ley de Donaciones Políticas regula las "elecciones de candidatos" — no incluye a los proponentes de revocación, no incluye a los proponentes de referéndum.
 
-Durante el movimiento de gran revocación de 2025, las fuentes de financiamiento de los grupos de petición no tenían la misma obligación de revelación[^18] [NEEDS-VERIFY]. Los grupos proponentes podían recibir donaciones, podían movilizar, pero no había un sistema de declaración correspondiente en el Yuan de Control. Esta laguna se convirtió en una dirección de reforma discutida después de la revocación masiva de 2025 — pero hasta 2026, la reforma correspondiente aún no ha sido incluida en la agenda del Yuan Legislativo.
+Durante el movimiento de gran revocación de 2025, las fuentes de financiamiento de los grupos de petición no tenían la misma obligación de revelación[^18]. Los grupos proponentes podían recibir donaciones, podían movilizar, pero no había un sistema de declaración correspondiente en el Yuan de Control. Esta laguna se convirtió en una dirección de reforma discutida después de la revocación masiva de 2025 — pero la Ley de Donaciones Políticas no ha sido enmendada desde 2018 y, a julio de 2026, los flujos de dinero de los proponentes de revocación y referéndum siguen fuera de la obligación legal de declaración.
 
 ---
 

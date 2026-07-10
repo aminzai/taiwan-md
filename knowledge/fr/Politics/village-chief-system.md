@@ -11,10 +11,10 @@ lastVerified: '2026-05-27'
 lastHumanReview: 'false'
 featured: 'false'
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:f7559246c64e84dc'
-sourceBodyHash: 'sha256:f73626a9584cf00d'
-translatedAt: '2026-05-28T05:08:35+08:00'
+sourceCommitSha: '837e22b9'
+sourceContentHash: 'sha256:cce4699f9fdc3697'
+sourceBodyHash: 'sha256:48ef53002db1337d'
+translatedAt: '2026-07-11T00:35:00+08:00'
 ---
 
 # Le système des chefs de village et de quartier : 7 748 élus, l'unité politique la plus locale de Taïwan
@@ -31,7 +31,7 @@ translatedAt: '2026-05-28T05:08:35+08:00'
 
 À neuf heures, il allume son ordinateur et se connecte au système du ministère de l'Intérieur pour les chefs de village et de quartier, puis téléverse le compte rendu de l'assemblée des résidents de la veille. À dix heures, le district appelle pour lui demander s'il peut aider à organiser une campagne d'information sur l'état civil la semaine suivante. À onze heures, il reçoit au bureau un ancien combattant qui vient de sortir de l'hôpital et l'aide à remplir un formulaire de demande de prestations sociales — le formulaire est disponible au bureau du district, mais cet ancien combattant ne sait pas prendre le métro.
 
-L'après-midi, il fait sa tournée dans le quartier. En soirée, il retourne au bureau pour préparer les documents de coordination du bureau de vote — à six mois du scrutin du 28 novembre 2026, il doit confirmer le lieu de vote pour son quartier. À dix-neuf heures, assemblée des résidents. À vingt et une heures, après la séance, il achète un onigiri (triangle de riz) au konbini (supérette ouverte 24 h/24) pour son dîner.
+L'après-midi, il fait sa tournée dans le quartier. En soirée, il retourne au bureau pour préparer les documents de coordination du bureau de vote — le scrutin du 28 novembre 2026 approche à grands pas, il doit confirmer le lieu de vote pour son quartier. À dix-neuf heures, assemblée des résidents. À vingt et une heures, après la séance, il achète un onigiri (triangle de riz) au konbini (supérette ouverte 24 h/24) pour son dîner.
 
 Ce chef de quartier, il en existe **7 748** sur tout le territoire taïwanais.
 
@@ -184,7 +184,7 @@ En regard de ces comparaisons, **le chef de village ou de quartier taïwanais es
 
 ## Points d'observation pour 2026
 
-À six mois du scrutin du 28 novembre 2026, plusieurs indicateurs méritent attention dans l'élection des chefs de village et de quartier :
+Avant le scrutin du 28 novembre 2026, plusieurs indicateurs méritent attention dans l'élection des chefs de village et de quartier :
 
 **La proportion de candidats sans étiquette se maintiendra-t-elle ?** Lors des précédentes élections de chefs de village et de quartier, la proportion de sans-étiquette s'est maintenue au-dessus de 60 %. Le maintien ou non de cette proportion en 2026 sera un test du phénomène « les factions locales priment sur les partis » dans la politique locale taïwanaise.
 

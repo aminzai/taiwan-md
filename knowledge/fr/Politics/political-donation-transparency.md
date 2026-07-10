@@ -11,10 +11,10 @@ lastVerified: 2026-05-27
 lastHumanReview: 'false'
 featured: 'false'
 translatedFrom: 'Politics/政治獻金透明度.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:2a53fa288bce8108'
-sourceBodyHash: 'sha256:5744f7c78c6b7b4e'
-translatedAt: '2026-05-28T05:08:35+08:00'
+sourceCommitSha: '837e22b9'
+sourceContentHash: 'sha256:8a7814971a9249c7'
+sourceBodyHash: 'sha256:214c403ec0d7137c'
+translatedAt: '2026-07-11T00:35:00+08:00'
 ---
 
 # Transparence des dons politiques : quand l'infrastructure démocratique devient un fichier CSV téléchargeable
@@ -202,7 +202,7 @@ La communauté g0v a tenté de faire un « croisement dons politiques × dépens
 
 La loi sur les dons politiques régule les « élections de candidats » — elle n'inclut pas les initiateurs de révocation, ni les initiateurs de référendum.
 
-Pendant le mouvement de grande révocation de 2025, les sources de financement des groupes de pétition n'avaient pas la même obligation de divulgation[^18] [NEEDS-VERIFY]. Les groupes initiateurs pouvaient recevoir des dons, pouvaient mobiliser, mais il n'y avait pas de système de déclaration correspondant au Yuan de contrôle. Cette faille est devenue une direction de réforme discutée après les révocations massives de 2025 — mais en 2026, la réforme correspondante n'a pas encore été inscrite à l'ordre du jour du Yuan législatif.
+Pendant le mouvement de grande révocation de 2025, les sources de financement des groupes de pétition n'avaient pas la même obligation de divulgation[^18]. Les groupes initiateurs pouvaient recevoir des dons, pouvaient mobiliser, mais il n'y avait pas de système de déclaration correspondant au Yuan de contrôle. Cette faille est devenue une direction de réforme discutée après les révocations massives de 2025 — mais la loi sur les dons politiques n'a pas été révisée depuis 2018 ; à partir de juillet 2026, les flux financiers des initiateurs de révocation et de référendum demeurent en dehors de toute obligation légale de déclaration.
 
 ---
 

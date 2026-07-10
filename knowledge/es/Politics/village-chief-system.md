@@ -11,10 +11,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
 translatedFrom: Politics/村里長制度.md
-sourceCommitSha: e957cf7f1
-sourceContentHash: sha256:f7559246c64e84dc
-sourceBodyHash: sha256:f73626a9584cf00d
-translatedAt: 2026-05-28T05:08:34+08:00
+sourceCommitSha: 837e22b9
+sourceContentHash: sha256:cce4699f9fdc3697
+sourceBodyHash: sha256:48ef53002db1337d
+translatedAt: 2026-07-11T00:35:00+08:00
 ---
 
 # Sistema de juntas de aldea y barrio: 7.748 juntas electas, la unidad política más básica de Taiwán
@@ -31,7 +31,7 @@ A las siete, recorre el barrio en motocicleta. De regreso a la ofición recibe t
 
 A las nueve, enciende la computadora, accede al sistema de jefes de aldea y barrio del Ministerio del Interior y carga el acta de la asamblea vecinal de la noche anterior. A las diez, la oficina de distrito llama para preguntarle si puede ayudar la próxima semana con una campaña de información del registro civil. A las once, recibe en la oficina a un veterano del ejército recién salido del hospital y le ayuda a llenar una solicitud de prestaciones sociales —el formulario está disponible en la oficina de distrito, pero este veterano no sabe tomar el metro.
 
-Por la tarde, recorre el barrio. Al anochecer, vuelve a la oficina para organizar los documentos de coordinación de la mesa electoral —faltan seis meses para la votación unificada del 28 de noviembre de 2026, y debe confirmar el lugar de votación de su barrio. A las siete de la noche, asamblea vecinal. A las nueve, tras la asamblea, compra un onigiri (bola de arroz) en una tienda de conveniencia para cenar.
+Por la tarde, recorre el barrio. Al anochecer, vuelve a la oficina para organizar los documentos de coordinación de la mesa electoral —la votación unificada del 28 de noviembre de 2026 se acerca, y debe confirmar el lugar de votación de su barrio. A las siete de la noche, asamblea vecinal. A las nueve, tras la asamblea, compra un onigiri (bola de arroz) en una tienda de conveniencia para cenar.
 
 Este jefe de barrio tiene **7.748 homólogos** en toda la isla.
 
@@ -184,7 +184,7 @@ En comparación, **el jefe de aldea o barrio taiwanés es un híbrido poco comú
 
 ## Puntos de observación para 2026
 
-Faltan seis meses para la votación del 28 de noviembre de 2026. Algunos indicadores dignos de observación en las elecciones de jefes de aldea y barrio:
+Antes del día de votación del 28 de noviembre de 2026, hay varios indicadores dignos de observación en las elecciones de jefes de aldea y barrio:
 
 **¿Se mantendrá la proporción de candidatos sin afiliación partidista?**: en las elecciones anteriores de jefes de aldea y barrio, la proporción de sin afiliación ha estado por encima del 60 %. Si esta proporción se mantiene en 2026 pondrá a prueba el fenómeno de que "las facciones locales pesan más que los partidos" en la política de base taiwanesa.
 

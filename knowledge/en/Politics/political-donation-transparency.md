@@ -12,10 +12,10 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'Politics/政治獻金透明度.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:2a53fa288bce8108'
-sourceBodyHash: 'sha256:5744f7c78c6b7b4e'
-translatedAt: '2026-05-28T05:08:33+08:00'
+sourceCommitSha: '837e22b9'
+sourceContentHash: 'sha256:8a7814971a9249c7'
+sourceBodyHash: 'sha256:214c403ec0d7137c'
+translatedAt: '2026-07-11T00:35:00+08:00'
 ---
 
 # Political Donation Transparency: When Democratic Infrastructure Becomes a Downloadable CSV
@@ -203,7 +203,7 @@ The g0v community has attempted "Political Donations × Campaign Expenditures cr
 
 The Political Donations Act regulates "candidate elections" — it does not cover recall petitioners or referendum petitioners.
 
-During the 2025 Great Recall movement, the funding sources of petition groups did not carry equivalent disclosure obligations[^18] [NEEDS-VERIFY]. Petition groups could accept donations and mobilize resources, but there was no corresponding Control Yuan filing system. This loophole became a discussed legislative reform direction after the large-scale recalls of 2025 — but as of 2026, related amendments have not yet been placed on the Legislative Yuan's agenda.
+During the 2025 Great Recall movement, the funding sources of petition groups did not carry equivalent disclosure obligations[^18]. Petition groups could accept donations and mobilize resources, but there was no corresponding Control Yuan filing system. This loophole became a discussed legislative reform direction after the large-scale recalls of 2025 — but the Political Donations Act hasn't been amended since 2018, and as of July 2026, the money flows of recall and referendum petitioners still fall outside any statutory filing obligation.
 
 ---
 
