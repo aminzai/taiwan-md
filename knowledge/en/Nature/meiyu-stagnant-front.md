@@ -4,18 +4,18 @@ description: 'On the morning of May 28, 1981, a catastrophic Meiyu front erupted
 date: 2026-05-02
 category: 'Nature'
 tags: ['Climate', 'Water Resources', 'History of Science', 'Disasters']
-subcategory: '保育與環境'
-author: 'Taiwan.md'
-readingTime: 17
+subcategory: 'Conservation and Environment'
+author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 researchReport: reports/research/2026-05/梅雨.md
 translatedFrom: 'Nature/梅雨.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:08c48a6ddad4519e'
-sourceBodyHash: 'sha256:31c92fd7633ce35e'
-translatedAt: '2026-06-19T11:05:01+08:00'
+translator: 'JuYinC'
+sourceCommitSha: 4b6d28c54
+sourceContentHash: sha256:dbf302a9f957f108
+sourceBodyHash: sha256:08c48a6ddad4519e
+translatedAt: 2026-07-11T00:00:59+08:00
 ---
 
 Every year around mid-May, as the first stationary atmospheric front slides southeastward from southern China to blanket the entire island of Taiwan, weather anchors invariably deliver a phrase Taiwanese people have heard since childhood: "The Meiyu season has arrived." It sounds like a romantic announcement of shifting seasons. Yet, for a subtropical island where over 70% of annual rainfall is packed into the brief window between May and October[^1], this seasonal front represents nothing less than a high-stakes existential gamble. Too much rain brings fatal floods; too little triggers crippling water rationing. The razor-thin margin between these two extremes dictates the daily survival of 23 million people.
@@ -123,15 +123,15 @@ The next time a torrential rain alert flashes across your smartphone screen, rem
 
 [^10]: [Liao Jia-ning, "Meiyu Injects Another 100 Million Tons of Water Island-wide; Feitsui Reservoir Storage Recovers Past 70% Mark," Liberty Finance, 2024-06-04](https://ec.ltn.com.tw/article/breakingnews/4694320) — Financial reporting based on Water Resources Agency statistics, noting that the front arriving on June 1 replenished over 100 million tons of water, bringing Feitsui Reservoir's storage rate back up to 70.6%.
 
-[^11]: [Massive Meiyu Replenishment! A Complete Look at Island-wide Reservoir Storage: 3 Reservoirs Filled to Capacity, CTWANT, 2025-05-11](https://www.ctwant.com/article/415839/) — News coverage detailing real-time storage rates after the first 2025 Meiyu front, stating that the Baoshan, Mingde, and Liyutan reservoirs successfully reached 100% full capacity.
+[^11]: "Massive Meiyu Replenishment! A Complete Look at Island-wide Reservoir Storage: 3 Reservoirs Filled to Capacity," CTWANT, 2025-05-11 — News coverage detailing real-time storage rates after the first 2025 Meiyu front, stating that the Baoshan, Mingde, and Liyutan reservoirs successfully reached 100% full capacity.
 
-[^12]: [Torrential Rains Inundate the South, Resolving Drought; Tainan and Kaohsiung Water Supply Returns to Normal, Central News Agency, 2020-05-22](https://www.cna.com.tw/news/firstnews/202005220257.aspx) — CNA report on the 2020 Meiyu front breaking the southern dry spell, noting the Ministry of Economic Affairs' decision to downgrade water alert lights from yellow (reduced pressure) back to blue (normal).
+[^12]: "Torrential Rains Inundate the South, Resolving Drought; Tainan and Kaohsiung Water Supply Returns to Normal," Central News Agency, 2020-05-22 — CNA report on the 2020 Meiyu front breaking the southern dry spell, noting the Ministry of Economic Affairs' decision to downgrade water alert lights from yellow (reduced pressure) back to blue (normal).
 
-[^13]: [The 2020 Meiyu Season was Highly Extreme: Temperatures Shattered Records, Heavy Rainfall Highly Concentrated, Central News Agency, 2020-06-30](https://www.cna.com.tw/news/ahel/202006300092.aspx) — Press conference report issued by the Central Weather Bureau at the close of the 2020 Meiyu season, stating total seasonal rainfall was 445.6 mm (80–90% of climate averages) and noting highly concentrated short-duration convective storms due to northward-shifted June fronts.
+[^13]: "The 2020 Meiyu Season was Highly Extreme: Temperatures Shattered Records, Heavy Rainfall Highly Concentrated," Central News Agency, 2020-06-30 — Press conference report issued by the Central Weather Bureau at the close of the 2020 Meiyu season, stating total seasonal rainfall was 445.6 mm (80–90% of climate averages) and noting highly concentrated short-duration convective storms due to northward-shifted June fronts.
 
-[^14]: [Extremely Torrential Rains Hit Keelung-North Coast; Sanzhi Accumulates 600 mm of Rain, Central News Agency, 2017-06-02](https://www.cna.com.tw/news/firstnews/201706020123.aspx) — CNA real-time reporting, capturing data that Sanzhi recorded 594 mm, Shimen 578 mm, and Jinshan 487 mm between midnight and 10:30 AM.
+[^14]: "Extremely Torrential Rains Hit Keelung-North Coast; Sanzhi Accumulates 600 mm of Rain," Central News Agency, 2017-06-02 — CNA real-time reporting, capturing data that Sanzhi recorded 594 mm, Shimen 578 mm, and Jinshan 487 mm between midnight and 10:30 AM.
 
-[^15]: [Torrential Rains Batter Northern Taiwan: 1 Dead, 1 Missing in New Taipei, Central News Agency, 2017-06-02](https://www.cna.com.tw/news/firstnews/201706020501.aspx) — CNA disaster statistics report, logging 368 emergency incident filings in New Taipei City resulting in 1 death and 1 missing person, with Mayor Eric Chu attributing the flash flooding to climate-induced instantaneous downpours.
+[^15]: "Torrential Rains Batter Northern Taiwan: 1 Dead, 1 Missing in New Taipei," Central News Agency, 2017-06-02 — CNA disaster statistics report, logging 368 emergency incident filings in New Taipei City resulting in 1 death and 1 missing person, with Mayor Eric Chu attributing the flash flooding to climate-induced instantaneous downpours.
 
 [^16]: [George Tai-Jen Chen, "Meiyu in Taiwan and East Asia (Part II): Torrential Rain Forecasting Capabilities," Ching-Liu Monthly, May 2012](https://www.mjib.gov.tw/FileUploads/eBooks/6e8422cf17e342859cc6368250995032/Section_file/919ad83f05b44068bde827bd793f3e4d.pdf) — A science popularization review published by the Ministry of Justice Investigation Bureau's monthly journal, charting the evolution of the Weather Bureau's forecasting modeling capabilities for both typhoons and Meiyu systems.
 
@@ -139,4 +139,6 @@ The next time a torrential rain alert flashes across your smartphone screen, rem
 
 [^18]: ["August 7 Flood," Wikipedia (Retained as Collective Memory Baseline)](https://zh.wikipedia.org/wiki/%E5%85%AB%E4%B8%83%E6%B0%B4%E7%81%BD) — Historical entry detailing the catastrophic central Taiwan floods of August 7, 1959, triggered by Tropical Depression 081 near Pratas Island (not a Meiyu front), resulting in 667 deaths and 408 missing persons, serving as factual baseline clarifying the distinction.
 
-[^19]: [Historical Records of Destructive May–June Meiyu Incidents in Taiwan, needs RADIO Viewpoint News](https://www.needsradio.org.tw/joomla2/index.php/2015-06-28-00-01-16/2019-08-07-08-06-23/2721-56.html) — Historical compilation of late spring weather disasters, explicitly recording that on May 28, 1981, torrents over Taoyuan, Hsinchu, and Miaoli caused 8 deaths, dozens of injuries, and over 1,000 damaged homes, detailing localized scenes including the 140 mm/hr downpour in Taipei's Gongguan and the Jingmei gas explosion.
+[^19]: "Historical Records of Destructive May–June Meiyu Incidents in Taiwan," needs RADIO Viewpoint News — Historical compilation of late spring weather disasters, explicitly recording that on May 28, 1981, torrents over Taoyuan, Hsinchu, and Miaoli caused 8 deaths, dozens of injuries, and over 1,000 damaged homes, detailing localized scenes including the 140 mm/hr downpour in Taipei's Gongguan and the Jingmei gas explosion.
+
+/label translation
