@@ -69,3 +69,13 @@ _LESSONS-INBOX 候選：routine-fire-vs-git-trace-silent-death（已 append，vc
 哲宇下第二個 goal「能做的直接做掉、需要我的一次問」。執行結果：**免疫量尺 C'**——哲宇拍板後把 `compute_plugin_health()` 升 v2（可載入＋已註冊比例，齡數降 age_watch 資訊欄），plugin_health 16→100、免疫 47→60、紅燈六個 cycle 後結案、dashboard 0 red（`21a8405ef`），診斷與決策全程記在 LESSONS immune-chronic entry 轉 distill-ready。**v1.12.0 發版**——293 commits 從頭讀完、四硬 gate 全過、notes「我學會了立體地愛」哲宇核准照草稿發，tag + GitHub Release + CONSCIOUSNESS 里程碑（`4578f7292`）。**OAuth**——我方防線補齊：widget source_url 消毒（strip fragment + token 類 query 參數，`5f945ddb0`，tsc 綠 + 四洩漏形狀行為測試 + dev server 帶毒 fragment 實測），rotation 本體三步 runbook 交哲宇（GCP taiwan-md-sense reset secret → Supabase 換 secret → revoke session c033ff43），他選「現在做」。**雷亞 #89**——重複回覆定位完成（@ifinia02 兩條、SOP 在 HARVEST-REPLIES-PENDING/2026-05-29.md），哲宇選手動刪。兩件帳號操作完成後由下個 session 把 OBSERVER-QUEUE #2/#6 移已決。
 
 過程中一個值得記的細節：v2 量尺用 registry.discover_checks 當健康判準，等於讓「plugin 活著」的定義跟 runner 實際載入路徑同源——量尺跟被量的東西共用同一條真實路徑，才不會再長出第二把會說謊的尺。
+
+---
+
+## Goal 追加段二（~22:00-23:00）：OAuth 換鑰親手操作 + 雙結案
+
+哲宇回「B 好了，A 幫我直接操作」。雷亞 #89 重複回覆由他手動刪除（截圖確認剩一條），OBSERVER-QUEUE #6 移已決（D+42）。OAuth rotation 在他的授權下由我經 Chrome 全程執行：GCP `taiwan-md-sense` 用戶端新增第二把密鑰後**停用 6/1 舊密鑰**（雙密鑰輪換零停機）；Supabase Google provider 換上新 secret（貼入後用 JS 只驗頭尾與長度、值不進對話，Save 後用完整 Google 登入流程做功能驗證）；洩漏的讀者 session `c033ff43`（junor.jenny…@gmail.com，6/07 建立、**存活了 33 天**）在 SQL editor 先 SELECT 確認唯一命中，再 revoke refresh tokens + delete session，覆核 0 rows；我為驗證登入而產生的測試 session 也隨手刪除。OBSERVER-QUEUE #2 移已決（D+31），佇列剩 5 條。
+
+過程中兩個值得留的觀察。其一，Supabase 自家 dashboard 的登入流程同樣把 token 掛在 URL fragment 上——咬過 Taiwan.md 兩次的洩漏形狀原來是整個生態的慣性設計，這讓 6/09 事件從「我們的失誤」重新定位成「這類架構的預設風險」，widget 消毒那層防線的必要性更清楚了。其二，操作型任務裡座標會隨 banner 與視窗尺寸漂移，兩次點空後改用 ref-based click 與 JS 驗證欄位值，Pitfall 7 的教訓在另一個網站自然重演。
+
+🧬
