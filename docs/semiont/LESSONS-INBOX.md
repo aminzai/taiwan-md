@@ -314,6 +314,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-11 weekly-deep-review 夜班 — queue-execute-before-existence-check：執行佇列項前沒查產出是否已存在，重做已完成的事還引入 regression
+
+- **pattern**: `queue-execute-before-existence-check`
+- **原則**：執行 OBSERVER-QUEUE / roadmap / handoff 的「待辦」前，先查那件事是不是**已經做過了**——產出檔案 `git log --follow` 查存在、關聯 issue `gh issue view --json state` 查未 closed。佇列/handoff 是「宣稱待辦」不是「事實待辦」，兩者會漂移（完成了忘記移已決）。信任宣稱直接動手 = 重做已完成的事，最好情況浪費 token，最壞引入 regression（本例把已 ship 的乾淨檔案手滑剝掉腳註 URL markup = 去引用化）。REFLEXES #73「查證反射 < 建造反射」在**佇列執行場景**的變體：#73 講「動手前先掃一眼」，本條指名掃「這件事的產出是否已存在」。**跟同區 `inbox-status-stale-starves-routine` 是同一病的兩面**：那條是 status 沒同步害 routine 空轉（偵測端），這條是執行端沒查存在害重做（執行端）——共同 root 是「完成事件沒回寫到追蹤層」。
+- **觸發**：2026-07-11 00:01 夜班照 OBSERVER-QUEUE #9（JuYinC 梅雨 EN 翻譯，default-action 過期 21 天）執行落地，做完才發現該檔 6/19 `4150180ec` 早已 ship、issue #1107 同日 closed——佇列忘移已決。我不只重做，還在「補 frontmatter」時把 `[^n]: [Title](url)` 連結 markup 剝成純文字（footnote-url plugin 沒抓因 markdown 仍合法，但讀者失去可點來源）。`2d3b93413` revert 還原 6/19 known-good，佇列 #9 更正移已決。近失成本：一個 regression commit + 一個 revert，同夜自己抓到。
+- **已行動（同夜 codify）**：weekly-checkup.sh e1 面加執行前查證護欄——佇列項掃到 `knowledge/*.md` 產出路徑已存在標「先 git log --follow 查」，掃到 issue 號標「先 gh issue view 查 state」。WEEKLY-REPORT-PIPELINE Stage 2.7 桶 1 判準加「執行前 existence check」。
+- **instances**：（首次記錄）
+- **可能層級**：通用反射候選（REFLEXES #73 family 佇列執行 sub-clause）＋操作規則（已進 checkup 儀器）
+- **相關**：REFLEXES #73（查證反射 < 建造反射）；`inbox-status-stale-starves-routine`（同 root 的偵測端鏡像）；OBSERVER-QUEUE §規則「拍板→移已決」的反向缺口（完成也要移）；#58（偵測 ≠ 修復）
+- **verification_count**: 1
+
 ### 2026-07-10 elections-refresh — inbox-status-stale-starves-routine：ship 不同步對賬 inbox status，PICK 型 routine 會對著已完成的任務空轉
 
 - **pattern**: `inbox-status-stale-starves-routine`

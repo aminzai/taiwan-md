@@ -112,17 +112,29 @@ try:
     rows = [l for l in pending.split('\n') if l.startswith('| ') and l.count('|') >= 6 and not l.startswith('| #') and not l.startswith('| ---')]
     if not rows:
         print("  ✅ 佇列空")
+    import os
     for l in rows:
         cells = [c.strip() for c in l.split('|')]
         num, decision, action = cells[1], cells[3][:40], cells[6]
+        full = l
         locked = '🔒' in action
         m = re.search(r'(\d{4}-\d{2}-\d{2})', action)
         overdue = ''
         if m and not locked:
             d0 = date.fromisoformat(m.group(1))
             if d0 <= today:
-                overdue = f' 🚩default-action 過期 {(today-d0).days} 天，可執行'
-        print(f"  #{num:3s} {'🔒' if locked else '  '} {decision}…{overdue}")
+                overdue = f' 🚩過期 {(today-d0).days} 天，可執行'
+        # 執行前查證護欄（2026-07-11 夜班踩過：#9 早 6/19 落地、issue closed，佇列忘移
+        # → 照過期 default 又做一次還手滑剝腳註 URL。REFLEXES #73 查證反射 < 建造反射）
+        precheck = ''
+        for path in re.findall(r'`(knowledge/[^`]+\.md)`', full) + re.findall(r'(knowledge/[^\s\)]+\.md)', full):
+            if os.path.exists(path):
+                precheck = f' ⚠️ 產出路徑已存在（{path} — 先 git log --follow 查是否已完成再動手）'
+                break
+        for iss in re.findall(r'#(\d{3,5})', full):
+            precheck += f' [執行前跑 gh issue view {iss} --json state 確認未 closed]'
+            break
+        print(f"  #{num:3s} {'🔒' if locked else '  '} {decision}…{overdue}{precheck}")
 except Exception as e:
     print(f"  ⚠️ OBSERVER-QUEUE 解析失敗: {e}")
 PYEOF
