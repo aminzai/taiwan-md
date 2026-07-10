@@ -24,6 +24,8 @@ related:
 
 ## 〇、本週已驗證的方向（不必再議，直接沿用）
 
+> **2026-07-11 夜班 P0 全清**：P0-1〜P0-7 七項全數 ✅（P0-5 是佇列漂移、實際 6/19 已完成）。加碼清了 EXP-2026-04-11-D（日文 SEO 空窗假說被 sc-query 2,963 imp 反駁）、counts-drift 0/15 全綠、dashboard alerts 0 red。下一份 roadmap 觸發：下次哲宇 /goal 或 WEEKLY-REPORT v4.1 週日體檢 Stage 2.7 roll 出新 finding。
+
 1. **立體群像預設畫布**：連續兩篇（柯智棠、水果王國）用新預設出貨且零 callout。人物 / 機構 / 集體記憶題照 REWRITE v7.7 走，不回頭。
 2. **fleet HTTP 直打 > cron CLI**：embeddings 四夜零故障 + babel Tier 5 繞道成功、同夜 CLI 全滅，兩組對照已定讞。凡 cron 場景的模型呼叫，HTTP endpoint 是一等公民，CLI 是 fallback。
 3. **儀器化黃燈路線**：7/5 造的燈 7/10 抓到第一隻真 drift。繼續「先 WARN 收數據、再定 HARD」的節奏，不跳級。
@@ -39,38 +41,38 @@ related:
 - **動作**：新工具 `routine-liveness-check.py` — 讀 `routine-live-state.json` 的 `lastRunAt`，對每條 enabled routine 在 git log 找 fire 後 window 內帶對應 tag 的 commit；找不到 → `generate-dashboard-alerts.mjs` 出一條黃燈（owner = 該 routine）。
 - **完成紀錄**：工具 + alerts 接線同日 ship。dogfood 用 7/10 案例：六具屍體全數現形有名有姓；今晚 data-refresh-pm 活著跑完後它的警報**自動清除**（6→5），自癒迴路驗證通過。dump 超齡另有 `routine-livestate-stale` 黃燈。工具同時成為 WEEKLY-REPORT-PIPELINE v4.0 Stage 2.5a 的診斷儀器（每週體檢必跑，等同 rider 的週頻版；data-refresh 每日 rider 由 pipeline §live dump 既有規則覆蓋）。
 
-### P0-2　babel cascade 收編 fleet Tier 5 + cron 環境 preflight
+### P0-2　babel cascade 收編 fleet Tier 5 + cron 環境 preflight → ✅ 2026-07-10-131500-weekly-deep-review 夜班（fleet backend 進 default cascade + preflight 既有；translate.py `aa1f5c85e`）
 
 - **證據**：cron-env 病 vc=2；7/9 Tier 5 繞道 4 ship 證明路是通的；translate.py 的 OLLAMA_MODEL 覆蓋已由本 session 救回落地。
 - **動作**：(a) SQUEEZE-MODELS-MAX v4.5：cascade 定義加 Tier 5 fleet HTTP stage（在 4-tier CLI 之後、paid 之前），引用 fleet-endpoint.sh 現成 adapter；(b) babel session 開場加 3 行 env preflight（node 可執行？TERM 正常？ollama default model 非 coding variant？），任一 fail 直接跳 Tier 5 不浪費四層 CLI 嘗試；(c) 60+ 腳註大檔全滅問題掛回 OBSERVER-QUEUE #5（section-split 既有預設）不重複開題。
 - **完成判準**：下一次 CLI 層再全滅的夜晚，babel 產出 > 0 且 memory 記「preflight fail → Tier 5 direct」。
 
-### P0-3　fleet 產出的收件閘門（今天的三個洞不再重演）
+### P0-3　fleet 產出的收件閘門 → ✅ 2026-07-10-131500-weekly-deep-review 夜班（frontmatter fence + YAML parse hard gate 前移到寫檔前；`aa1f5c85e`）
 
 - **證據**：SLP 韓文版三個洞（`_translations.json` 沒登記、開頭 fence 缺失、description 引號未跳脫）全靠 pre-commit 在本 session 攔下；若當時 session 沒死而直接 commit，三洞會被自己的 session 用 `--no-verify`……不會，hook 會攔——真正的洞是 **Tier 5 raw 輸出沒有過 babel 自己的驗證步驟就落盤**。
 - **動作**：translate.py 的 fleet/ollama 路徑在寫檔前跑三個既有檢查（frontmatter parse、ratio、footnote 數對齊），fail 即棄稿記 log，不落半成品。引號跳脫修在 frontmatter 組裝處（babel 引號家族 bug 第 N 例，這次修在源頭）。
 - **完成判準**：連續 7 夜 babel 產出零 frontmatter 類 heal。
 
-### P0-4　SPORE 進料節流（出口關閉，進料歸零）
+### P0-4　SPORE 進料節流 → ✅ 2026-07-10-131500-weekly-deep-review 夜班（news-lens spore-output Step 0 出口前置判斷 + shell 同步；`ecda9e611`，週日 01:00 生效）
 
 - **證據**：出口（publish）關閉、進料（news-lens 每週 +5）照跑，SPORE-INBOX 恆定 49 條靠 distill auto-drop 洩壓——例外閥被當日常用，違反它自己的設計。
 - **動作**：news-lens 的 spore-output stage 加一行前置判斷：`spore-publish live enabled == false → propose 0，改在報告列「本週值得發但產線關閉」清單`（讀 routine-live-state.json，儀器現成）。distill 的 auto-drop 保留不動（存量仍需消化）。
 - **完成判準**：這週日（7/12）news-lens fire 時 propose 0，SPORE-INBOX 開始淨減。
 - **哲宇否決權**：這條改 routine 行為，若你想維持 propose 照舊（當作選題雷達而非產線進料），週日前說一聲即可，改回一行。
 
-### P0-5　OBSERVER-QUEUE #9 執行：JuYinC 梅雨英文翻譯 ingestion
+### P0-5　OBSERVER-QUEUE #9 JuYinC 梅雨翻譯 → ✅ 早已完成（6/19 `4150180ec` ship / #1107 closed；2026-07-10-131500-weekly-deep-review 夜班 更正佇列漂移，見 OBSERVER-QUEUE 已決 + LESSONS queue-execute-before-existence-check）
 
 - **證據**：default-action 日期 6/19 已過 21 天，按佇列規則任何 session 可執行預設；contributor 高品質翻譯 stale 一個月是對小丑魚最傷的一種沉默。
 - **動作**：照佇列既定預設走：落地 `knowledge/en/Nature/meiyu-stagnant-front.md` + 腳註抽 3-5 URL 驗證 + `translatedFrom` + translator 署名 + close #1107 感謝（用英文）。
 - **完成判準**：#1107 關閉、文章上線、佇列移已決。
 
-### P0-6　MEMORY 索引第二波 rollup（週日 distill 自動）
+### P0-6　MEMORY 索引第二波 rollup → ✅ 2026-07-10-131500-weekly-deep-review 夜班（inline 92→40 列，52 列歸檔；`ecda9e611`）
 
 - **證據**：85 rows > 80 觸發線，工具已存在（memory-index-rollup.py），第一波 7/5 已跑通。
 - **動作**：無需新工作，只確認週日 distill 真的執行（alerts owner 已標 distill-weekly）。若週日又沒跑，這條升級成「owner 標了但不動」的 S4 病例回 LESSONS。
 - **完成判準**：週一索引 ≤ 60 rows。
 
-### P0-7　免疫 plugin_health 量尺診斷（把 A/B/C 變成 15 分鐘決策）
+### P0-7　免疫 plugin_health 量尺診斷 → ✅ 2026-07-10-131500-weekly-deep-review（哲宇拍 C'，量尺 v2 ship 47→60 紅燈結案；`21a8405ef`）
 
 - **證據**：紅燈第 6+ cycle 的主破口是 plugin_health=16——25 個 plugin 平均 49.5 天沒 commit。但「plugin 穩定運作 49 天」在工具成熟期是常態不是病；量尺把「老」讀成「病」的嫌疑大（REFLEXES #59：自製指標 self-validation trap）。
 - **動作**（診斷自主、改尺等授權）：寫一頁診斷貼進 LESSONS 既有 entry——25 個 plugin 各自「上次 commit 距今 / 上次真的抓到東西距今」兩欄對照。若多數 plugin 近期仍有攔截實績（如 prose-health、frontmatter 這週都在工作），則病不在 plugin 在量尺，給哲宇的 C' 提案：`plugin_health 改計「30 天內有攔截紀錄的 plugin 比例」`，讓分數反映工作而非年齡。

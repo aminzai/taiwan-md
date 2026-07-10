@@ -633,6 +633,40 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ---
 
+### 🗳️ 2026 九合一選舉總章 — 媒體增補 EVOLVE（[A] auto-eligible）
+
+- **Type**: `EVOLVE`（媒體增補，prose 不動）
+- **Category**: Politics
+- **Path**: [`knowledge/Politics/2026 九合一選舉.md`](../../knowledge/Politics/2026 九合一選舉.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-10 by elections-refresh session（[reports/elections-2026-refresh-plan-2026-07-10.md](../../reports/elections-2026-refresh-plan-2026-07-10.md) §三之 1）
+- **自主權邊界**: `[A]` 可自主
+- **Notes**:
+  - 現況 7,991 CJK / 0 媒體，`image-health` hard fail（length-scaled 門檻 ≥ 7 媒體）——gate 在文章 ship 後升級，存量被抓
+  - 走 REWRITE-PIPELINE Step 1.9.0 深度媒體掃描：候選方向 = 開票唱票現場（Wikimedia Commons PD/CC）、歷史投票所影像（1994 北高民選）、中選會建築、g0v 工具截圖、選舉公報實物
+  - **對稱原則注意**：不得使用任何單一現任者/候選人視覺主體的照片；群眾、制度物件、場所優先
+  - 授權矩陣三表必跑 + EXIF 清理 + caption 純文字授權標示（prettier CJK URL mangle 陷阱）
+- **Reference**: Wikimedia Commons / 中選會官網 / g0v 專案頁
+
+---
+
+### 🗳️ 台灣公投制度 NEW（[A] auto-eligible）
+
+- **Type**: `NEW`
+- **Category**: Politics
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-10 by elections-refresh session（[reports/elections-2026-refresh-plan-2026-07-10.md](../../reports/elections-2026-refresh-plan-2026-07-10.md) §三之 3；Politics Hub §罷免公投段既有佔位「台灣公投制度專文籌備中」）
+- **自主權邊界**: `[A]` 可自主（純制度史，不碰個別公投案立場）
+- **Hook anchor 候選**: 2018 年 11 月 24 日十案綁大選、投票所排隊到深夜的那一晚 → 2019 分流修法 → 2025 年 11 月綁回的鐘擺。憲法 1947 年就寫了創制複決，等了 56 年才有第一次全國性公投
+- **必含制度節點**（fact-pack 已驗證來源，見 [reports/research/2026-07/elections-2026-july-refresh.md](../../reports/research/2026-07/elections-2026-july-refresh.md)）：2003 公投法立法 / 2017 門檻下修 / 2018 十案 / 2019 分流 / 2021 四大公投 / 2022 18 歲公民權複決 / 2025-08-23 核三重啟公投（同意 434 萬未達門檻，投票率 29.53%）/ 2025-11-21 公投綁大選回歸（12-03 公布）/ 2026 五六案搶綁 11/28 的 8 月死線 + 中選會曾認定院會通過的反廢死案礙難辦理的前例
+- **cross-link 期望**（雙向）：\_Politics Hub（補佔位）/ 大罷免 / 投票權門檻歷史 / 2026 九合一選舉 / 台灣選舉與政黨政治
+- **Notes**: ≥ 4,500 CJK / 15+ footnotes / 走 REWRITE-PIPELINE Fresh；🗳️ 系列共通鐵律 5 條適用；8 月「公投是否綁上 11/28」定案前 ship 價值最高
+- **Reference**: 全國法規資料庫《公民投票法》沿革 / 中選會公投專區 / 中央社・公視歷次報導
+
+---
+
 ### 🏘️ 歷史街區系列 NEW（P0/P1）— 共通說明
 
 > **完整規劃 + 模板 + 共通 caveats**：見 [reports/historic-districts-series-planning-2026-05-21.md](../../reports/historic-districts-series-planning-2026-05-21.md)

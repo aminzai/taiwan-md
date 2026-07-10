@@ -314,6 +314,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-10 elections-refresh finale — index-lint-validates-wrong-row-end：量尺假設的排序方向跟被量檔案的實際慣例相反，gate 出廠起就在驗最舊的一列
+
+- **pattern**: `index-lint-validates-wrong-row-end`
+- **原則**：`memory-index-lint.py` 用 `rows[-1]`（檔案物理最後一列）當「最新 index row」驗長度。MEMORY.md 的慣例是 newest-at-bottom，這個假設成立；DIARY.md 的慣例是 newest-on-top（新列插在表頭之後），同一把尺套過去就變成永遠在驗最舊的存活列——`--diary` gate 自 2026-07-05 出廠以來，每一條真正的新列都沒被驗過。跟免疫量尺 C'（2026-07-10 結案）同構：**量尺必須跟被量的東西共用同一條真實路徑**，這裡的「路徑」是排序約定。修法方向：`--diary` 改讀 header 後第一資料列，或兩檔統一排序約定並在 lint 內 assert 排序方向。
+- **觸發**：2026-07-10 elections-refresh finale，diary 執行 agent 落索引列時實測發現——lint 前後兩次都報 L303（2026-04-20 β，最舊存活列之一）為「最新 index row」，對新插入的頂列毫無反應。
+- **instances**：
+  - 2026-07-10 elections-refresh finale（本 entry 主觸發）
+  - 同構前例：免疫量尺 v1 用獨立路徑讀 plugin 健康、跟 runner 實際載入路徑脫鉤（2026-07-10 C' 結案，vc 家族第 2 例）
+- **可能層級**：工具修復（scripts/tools/memory-index-lint.py，小 patch）＋ 候選 reflex（「量尺與被量者共用真實路徑」家族）
+- **verification_count**: 1
+
 ### 2026-07-11 weekly-deep-review 夜班 — queue-execute-before-existence-check：執行佇列項前沒查產出是否已存在，重做已完成的事還引入 regression
 
 - **pattern**: `queue-execute-before-existence-check`
