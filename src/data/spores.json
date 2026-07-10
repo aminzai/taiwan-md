@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-07-09T06:40:29+08:00",
+  "_generated": "2026-07-11T06:41:04+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 144,
@@ -8106,16 +8106,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F",
       "template": "A2 立體群像（陌生鋼琴暖弧）",
       "metrics": {
-        "views": 3355,
+        "views": 3409,
         "likes": 98,
-        "reposts": 5,
-        "comments": 6,
+        "reposts": 6,
+        "comments": 7,
         "shares": 6
       },
       "metricsAsOf": {
-        "dPlus": 2,
-        "harvestDate": "2026-07-09 06:37",
-        "batch": "batch-2026-07-09-am",
+        "dPlus": 4,
+        "harvestDate": "2026-07-11 06:35",
+        "batch": "batch-2026-07-11-am",
         "source": "harvest"
       },
       "history": [
@@ -8137,6 +8137,16 @@
           "likes": 98,
           "reposts": 5,
           "comments": 6,
+          "shares": 6
+        },
+        {
+          "dPlus": 4,
+          "harvestDate": "2026-07-11 06:35",
+          "batch": "batch-2026-07-11-am",
+          "views": 3409,
+          "likes": 98,
+          "reposts": 6,
+          "comments": 7,
           "shares": 6
         }
       ]
