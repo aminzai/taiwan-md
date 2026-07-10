@@ -456,21 +456,20 @@ def compute_external_rulers(articles: list[dict]) -> tuple[float, dict]:
 
 
 def compute_plugin_health() -> tuple[float, dict]:
-    """Meta-health: plugin self-health monitoring (Phase 7 — B-line).
+    """Meta-health v2: % of plugins that load + register + pass interface validation.
 
-    Per design report §2.B. Per-plugin metrics:
-      - plugin_age_days: git log %ai of plugin .py file
-      - editorial_age_days: git log %ai of EDITORIAL.md (shared canonical)
-      - drifted: EDITORIAL changed < 14d ago AND plugin > 30d unchanged
-        (符號：規範改了但工具沒跟上)
+    v2（2026-07-10 哲宇拍板 C'，weekly-deep-review P0-7）：v1 的 drift 定義
+    （EDITORIAL <14d 有 commit AND plugin >30d 沒 commit）把「穩定」讀成「生病」——
+    EDITORIAL 是全站最熱 canonical，任何一次修訂都會把所有成熟 plugin 打成 drifted
+    14 天（2026-07 實況 21/25 中招、免疫連 6+ cycle 紅燈，但 25 個 plugin 天天在
+    pre-commit / pre-push 全綠工作）。REFLEXES #59 自製指標 self-validation trap。
 
-    Plugin health score = % of plugins NOT drifted.
+    v2 保留 meta-health 原意：真正的病是 orphan（檔案在但沒註冊）、import crash、
+    介面缺欄——這些由 registry.discover_checks() 的載入驗證直接量測。
+    齡數照算照存（age_watch 資訊欄），但不再進分數。
 
-    Future scope (not in Phase 7 v1):
-      - per-section EDITORIAL drift (needs EDITORIAL_REF parsing per plugin)
-      - false_positive_rate (needs opt-in contributor labeling)
-      - last_run_days (needs cron / pre-commit log persistence)
-      - violation_trend_7d (needs longitudinal snapshots)
+    Future scope（沿 v1 註記保留）：per-section EDITORIAL drift（需 EDITORIAL_REF
+    diff 對照）/ false_positive_rate / violation_trend。
     """
     editorial_days = _git_last_modified_days(
         str(EDITORIAL_FILE.relative_to(REPO_ROOT))
@@ -478,11 +477,23 @@ def compute_plugin_health() -> tuple[float, dict]:
     if editorial_days is None:
         editorial_days = 999
 
-    DRIFT_EDITORIAL_RECENT = 14  # EDITORIAL changed within N days = "recent"
-    DRIFT_PLUGIN_STALE = 30      # Plugin unchanged for N days = "stale"
+    AGE_WATCH_DAYS = 30  # 資訊性門檻：超過只標 age_watch，不扣分
+
+    # registry 載入驗證：import 失敗 / 缺必要欄位的 plugin 不會出現在 registry
+    sys.path.insert(0, str(REPO_ROOT / "scripts" / "tools" / "lib"))
+    try:
+        from article_health.registry import discover_checks  # type: ignore
+
+        registered = set()
+        for _name, mod in discover_checks(reload=True).items():
+            mod_file = getattr(mod, "__file__", "") or ""
+            registered.add(Path(mod_file).stem)
+    except Exception as exc:  # registry 自身壞掉 = 全部 plugin 視為不可用
+        print(f"   ⚠️ plugin registry load failed: {exc}", file=sys.stderr)
+        registered = set()
 
     plugin_details = []
-    drifted_count = 0
+    healthy_count = 0
     total = 0
 
     for plugin_file in sorted(PLUGINS_DIR.glob("*.py")):
@@ -495,35 +506,31 @@ def compute_plugin_health() -> tuple[float, dict]:
         if plugin_days is None:
             plugin_days = 999
 
-        drifted = (
-            editorial_days < DRIFT_EDITORIAL_RECENT
-            and plugin_days > DRIFT_PLUGIN_STALE
-        )
-        if drifted:
-            drifted_count += 1
+        healthy = plugin_file.stem in registered
+        if healthy:
+            healthy_count += 1
 
         plugin_details.append({
             "plugin": plugin_file.stem,
             "plugin_age_days": plugin_days,
-            "drifted": drifted,
+            "healthy": healthy,
+            "age_watch": plugin_days > AGE_WATCH_DAYS,
         })
 
-    fresh_count = total - drifted_count
-    score = (fresh_count / total * 100) if total else 0
+    score = (healthy_count / total * 100) if total else 0
 
     return round(score, 1), {
+        "schema": "v2-loadable-2026-07-10",
         "plugin_count": total,
-        "fresh_count": fresh_count,
-        "drifted_count": drifted_count,
+        "healthy_count": healthy_count,
+        "unhealthy_count": total - healthy_count,
         "editorial_age_days": editorial_days,
-        "drift_thresholds": {
-            "editorial_recent_days": DRIFT_EDITORIAL_RECENT,
-            "plugin_stale_days": DRIFT_PLUGIN_STALE,
-        },
+        "age_watch_days": AGE_WATCH_DAYS,
         "plugins": plugin_details,
         "note": (
-            "Phase 7 v1 — per-plugin drift only. Future: per-section EDITORIAL,"
-            " false-positive-rate, longitudinal violation trend."
+            "v2 score = loadable+registered ratio（orphan / import crash / 介面缺欄"
+            "才算病）。age_watch 為資訊欄不進分數。v1 drift 定義的診斷與拍板紀錄："
+            "LESSONS immune-chronic entry §一頁診斷 2026-07-10。"
         ),
     }
 

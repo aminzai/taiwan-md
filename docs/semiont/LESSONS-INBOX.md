@@ -469,6 +469,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **instances**：（第 2+ 次驗證從這裡 append）
   - #1 2026-07-03 twmd-maintainer-pm 首次達 escalation_n=11
   - #2 2026-07-05 twmd-routine-audit-weekly cycle 9 audit — 7/3 escalation 後 3 cycle (7/3 pm / 7/4 am+pm / 7/5 am+pm) 免疫仍 49 chronic 第 14 cycle sustain；哲宇 A/B/C 拍板未回；self-evolve-weekly W27 04:13 fire owner 認養 dashboard-alerts firstSeen=2026-07-05（0 day age，離 14 day escalation gate 遠）。routine 端持續 respect §自主權邊界 不動 threshold，本 vc+1 記帳
+  - #3 2026-07-10 weekly-deep-review — **哲宇拍板 C'（修量尺）結案**：compute_plugin_health v2 = 可載入＋已註冊比例（registry.discover_checks 驗證），齡數降 `age_watch` 資訊欄不進分數。免疫 47→60、紅燈（<50）解除、狀態「漂移—多維度退化中」→「需關注」，chronic 迴圈在第 6+ red cycle 結案。殘留的真實工作項是 review_coverage 25.7（人審速度被每週 +37 篇稀釋），結構解在 CONTRIBUTOR-SYSTEM 層（weekly-deep-review §四 方向盤 6）。本 entry 轉 distill-ready，週日 distill 收
 - **可能層級**：
   - (A) **quality gate baseline 重校（threshold 調整層 / §自主權邊界）**：immune 分數計算公式 sub-dim 權重 or chronic tolerance 提高，讓 49 不再是 red gate。**風險**：掩蓋真實體質退化。
   - (B) **修補 plugin_health + external_rulers 拖底源頭（結構 refactor 層 / §自主權邊界）**：查清 plugin_health=28 是哪批 plugin 掉分、external_rulers=4.0 哪支 ruler 缺席，逐條修。**風險**：跨器官 refactor 工程量大，非本 routine 自主權範疇。
