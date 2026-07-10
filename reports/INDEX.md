@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-09 06:12
+last_generated: 2026-07-10 23:10
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-09 06:12** · 頂層 \*.md 共 **186** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-10 23:10** · 頂層 \*.md 共 **189** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -34,6 +34,7 @@ type: auto-index
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `fork-census/`          |     2 | 33.9 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
+| `terminology-review/`   |     2 | 182.5 KB | —                                                    |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
 
 ## 🏷️ By type (頂層 \*.md only)
@@ -82,8 +83,10 @@ type: auto-index
 - `2026-04-13` [ssodt-spore-linkback-plan-2026-04-13](ssodt-spore-linkback-plan-2026-04-13.md)
 - `2026-04-12` [semiont-public-pages-plan-2026-04-12](semiont-public-pages-plan-2026-04-12.md)
 
-### evolution (26)
+### evolution (28)
 
+- `2026-07-10` [evolution-roadmap-2026-07-10](evolution-roadmap-2026-07-10.md) — Evolution Roadmap 2026-07-10
+- `2026-07-10` [terminology-preservation-evolution-2026-07-10](terminology-preservation-evolution-2026-07-10.md)
 - `2026-07-05` [dna-pipeline-evolution-audit-2026-07-05](dna-pipeline-evolution-audit-2026-07-05.md)
 - `2026-06-26` [issue-evolution-analysis-2026-06-26](issue-evolution-analysis-2026-06-26.md)
 - `2026-06-22` [terminology-page-evolution-2026-06-22](terminology-page-evolution-2026-06-22.md)
@@ -191,8 +194,9 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (62)
+### ops (63)
 
+- `2026-07-10` [weekly-deep-review-2026-07-10](weekly-deep-review-2026-07-10.md) — Weekly Deep Review 2026-07-10（W27→W28 跨週深度檢查）
 - `2026-07-06` [design-立體群像-default-persona-reposition-2026-07-06](design-立體群像-default-persona-reposition-2026-07-06.md)
 - `2026-07-05` [discussion-1146-response-2026-07-05](discussion-1146-response-2026-07-05.md) — Discussion #1146 系統優化建議回應
 - `2026-07-05` [embedding-local-migration-2026-07-05](embedding-local-migration-2026-07-05.md) — Embedding keystone 遷本機 + 模型與硬體對標
@@ -263,9 +267,12 @@ type: auto-index
 - Type breakdown: ops: 1
   - `????` [README](README.md)
 
-### 2026-07 (10 files)
+### 2026-07 (13 files)
 
-- Type breakdown: ops: 6 / design: 2 / evolution: 1 / audit-routine: 1
+- Type breakdown: ops: 7 / evolution: 3 / design: 2 / audit-routine: 1
+  - `2026-07-10` [evolution-roadmap-2026-07-10](evolution-roadmap-2026-07-10.md)
+  - `2026-07-10` [terminology-preservation-evolution-2026-07-10](terminology-preservation-evolution-2026-07-10.md)
+  - `2026-07-10` [weekly-deep-review-2026-07-10](weekly-deep-review-2026-07-10.md)
   - `2026-07-06` [design-立體群像-default-persona-reposition-2026-07-06](design-立體群像-default-persona-reposition-2026-07-06.md)
   - `2026-07-06` [frontend-design-audit-2026-07-06](frontend-design-audit-2026-07-06.md)
   - `2026-07-05` [agent-report-health-instrument-design-2026-07-05](agent-report-health-instrument-design-2026-07-05.md)

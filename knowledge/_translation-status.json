@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-10T01:28:54+08:00",
-    "zhCommitHead": "89b0b2e89",
+    "lastUpdated": "2026-07-10T23:10:09+08:00",
+    "zhCommitHead": "74e5316c5",
     "totalZh": 844,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
@@ -23,10 +23,10 @@
       },
       "ko": {
         "total_zh": 844,
-        "fresh": 839,
+        "fresh": 840,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "es": {
@@ -6012,7 +6012,18 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/slp-taipei-startup-leadership-program.md",
+          "translatedFrom": "Economy/SLP台北創業領導計畫.md",
+          "sourceCommitSha": "cfaa22a5d",
+          "sourceContentHash": "sha256:68e3e5788b724298",
+          "sourceBodyHash": "sha256:320873c44e3f6c2e",
+          "translatedAt": "2026-07-10T01:14:44+08:00",
+          "translationLastCommit": "b614cbb7",
+          "translationLastModified": "2026-07-10T17:41:21+08:00",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/slp-taipei-startup-leadership-program.md",

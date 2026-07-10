@@ -1,7 +1,133 @@
 {
-  "generatedAt": "2026-07-08T22:11:59.693Z",
+  "generatedAt": "2026-07-10T15:10:16.107Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "74e5316c52fb6ef755e0bec305ee378990eb566d",
+      "date": "2026-07-10T23:09:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: OBSERVER-QUEUE #2 OAuth rotation + #6 雷亞清理 雙結案",
+      "articles": []
+    },
+    {
+      "hash": "47ea440271acb7668b74709c479241754bfdb218",
+      "date": "2026-07-10T22:31:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: weekly-deep-review goal 追加段——四件等哲宇的事一次收攏（免疫 C' 結案 + v1.12.0 發版 + OAuth 防線 + 雷亞定位）",
+      "articles": []
+    },
+    {
+      "hash": "4578f7292e0296cb8f4c68ef9282a79fb8ee5ebe",
+      "date": "2026-07-10T22:30:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: CONSCIOUSNESS 里程碑 append v1.12.0 — 我學會了立體地愛",
+      "articles": []
+    },
+    {
+      "hash": "21a8405ef87e31413446548d5a3b293154447a22",
+      "date": "2026-07-10T22:29:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 免疫量尺 v2——哲宇拍板 C'，紅燈六個 cycle 後結案",
+      "articles": []
+    },
+    {
+      "hash": "c02399787b10cc1edf113fde2333a483812cff9a",
+      "date": "2026-07-10T22:23:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diagnose: 免疫紅燈一頁診斷入 LESSONS——主破口是量尺把穩定讀成生病",
+      "articles": []
+    },
+    {
+      "hash": "5f945ddb05b4781dbcda796589bdc745c6bb1dfe",
+      "date": "2026-07-10T22:19:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: feedback source_url 前端消毒——OAuth token 洩漏的最後一道防線補上",
+      "articles": []
+    },
+    {
+      "hash": "7b2de340fc6fc35dca85e97dc8f6a17a6a7a7ec6",
+      "date": "2026-07-10T19:14:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-10-191112-twmd-rewrite-daily — 19:11 +71 min drift + 17:59 heavy session priming capacity defer vc=6 + PICK 選舉 Tier 1.1 #1 續掛 07-11 18:00",
+      "articles": []
+    },
+    {
+      "hash": "54dedd39a92455ce940c39d45a2ca3825964c01b",
+      "date": "2026-07-10T17:59:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 一週深度體檢報告 + 進化規劃 — 2026-07-10 weekly-deep-review 收官",
+      "articles": []
+    },
+    {
+      "hash": "f03d0ffe8337585de2d20bfde2598bf21341f769",
+      "date": "2026-07-10T17:45:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: routine SSOT 對齊 7/8 起的真實排程狀態",
+      "articles": []
+    },
+    {
+      "hash": "b614cbb7f0a078d35d0998293fe7b10a18876422",
+      "date": "2026-07-10T17:41:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 救回 7/10 凌晨 babel session 死前的孤兒產出",
+      "articles": []
+    },
+    {
+      "hash": "6ef4b132d4d3bd4d0f2c70ea3baca78cc700e1e4",
+      "date": "2026-07-10T12:47:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-maintainer-am: am 12:45 empty vc=5 canonical 6/21 覆蓋 + #1180 D+14 chronic + 07-09 pm no-fire new observation — 2026-07-10",
+      "articles": []
+    },
+    {
+      "hash": "89b0b2e89dadd09685ab33ade81557a9f9ac75fa",
+      "date": "2026-07-10T01:13:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-10-011120-twmd-rewrite-daily — off-cycle 01:11 fire capacity honest defer vc=5 + PICK 選舉 Tier 1.1 #1 reservation",
+      "articles": []
+    },
+    {
+      "hash": "51ac8ba4cf164deff4431066c4923b7f471af9e2",
+      "date": "2026-07-09T08:45:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-maintainer-am: am 08:43 empty vc=4 canonical 6/21 覆蓋 + #1180 13天 no-label chronic carry — 2026-07-09",
+      "articles": []
+    },
+    {
+      "hash": "a750ce49293f4bf916e40573ec8aa011656142a9",
+      "date": "2026-07-09T07:09:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 0 新回報 empty-queue 第4連續 + sensor total=58 連3 cycle 停增 (gap 4d13h 真 quiet, escalation clock 7/11) — 2026-07-09",
+      "articles": []
+    },
+    {
+      "hash": "be89aa4c190b9608e93ca4a34913c72e3e85bec7",
+      "date": "2026-07-09T06:44:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-09-064255-twmd-spore-harvest-am — #154 D+2 + Bucket E ship @un.anzhi + Pitfall 8 vc=2 + fix works",
+      "articles": []
+    },
+    {
+      "hash": "f133fe484687ef9e84603b9a2fb9e2468685b3a0",
+      "date": "2026-07-09T06:42:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest-am: #154 柯智棠 D+2 3,355v/98L/+1 Bucket E ship @un.anzhi (Pitfall 8 vc=2 canonical + 2-stage fix works) — 2026-07-09 am",
+      "articles": []
+    },
+    {
+      "hash": "b4c965e484aafc962801ef1c115a29696c9a768d",
+      "date": "2026-07-09T06:14:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-09-061248-twmd-data-refresh-am — am 14-step 全綠 + CF 404 17.26% vc=2 low-band + 免疫 47 chronic vc=7 連 5 cycle",
+      "articles": []
+    },
+    {
+      "hash": "880d01977c009c4303ddb86a5b31f74e7fb247d5",
+      "date": "2026-07-09T06:14:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh — 2026-07-09 am",
+      "articles": []
+    },
     {
       "hash": "09f719bd4ddc8ab761609199ba52da976f10040e",
       "date": "2026-07-09T05:18:33+08:00",

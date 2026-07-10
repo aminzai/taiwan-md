@@ -1,5 +1,5 @@
 {
-  "totalArticles": 5070,
+  "totalArticles": 5071,
   "totalCategories": 20,
   "estimatedContributors": 65,
   "totalTags": 6070,
@@ -10,7 +10,7 @@
     },
     {
       "name": "ko",
-      "count": 844
+      "count": 845
     },
     {
       "name": "fr",
@@ -168,11 +168,11 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5070,
+    "zh-TW": 5071,
     "en": 0
   },
-  "lastUpdated": "2026-07-08T22:11:58.113Z",
-  "stars": 1099,
+  "lastUpdated": "2026-07-10T15:10:13.212Z",
+  "stars": 1101,
   "forks": 162,
   "zhPages": 842,
   "enPages": 849,

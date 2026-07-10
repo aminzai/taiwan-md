@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T22:12:04.807Z",
+  "lastUpdated": "2026-07-10T15:10:26.762Z",
   "languages": [
     "zh-TW",
     "en",
@@ -42,16 +42,16 @@
       "bodyFreshPct": 99.5
     },
     "ko": {
-      "total": 843,
-      "percentage": 99.9,
-      "fresh": 839,
+      "total": 844,
+      "percentage": 100,
+      "fresh": 840,
       "metadataStale": 0,
       "stale": 4,
-      "missing": 1,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.4,
-      "bodyFreshPct": 99.4
+      "deficit": 0,
+      "freshPct": 99.5,
+      "bodyFreshPct": 99.5
     },
     "es": {
       "total": 844,
@@ -210,11 +210,11 @@
         "deficit": 0
       },
       "ko": {
-        "count": 55,
-        "fresh": 55,
+        "count": 56,
+        "fresh": 56,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "es": {
         "count": 56,
@@ -612,11 +612,7 @@
       }
     }
   },
-  "missing": {
-    "ko": [
-      "Economy/SLP台北創業領導計畫：六千元起家的一堂課，漲到五萬八還是一位難求.md"
-    ]
-  },
+  "missing": {},
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],
