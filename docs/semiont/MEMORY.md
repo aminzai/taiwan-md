@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-11
-last_session: '2026-07-11-003447-twmd-babel-nightly'
+last_session: '2026-07-11-061259-twmd-data-refresh-am'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -304,3 +304,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-11 | 225026-詞庫保存進化 | 用語詞庫長 LLM 全審器（本地 2308 條）+ 審修 26 筆（亂碼國名對 MOFA／簡繁 neutralize）+ 頁面五 bug；餘 510 進 OBSERVER-QUEUE #11 | 審主權詞庫 LLM 會把台灣名洗向中國名、suggest 當線索；長多檔任務先開 worktree | [→](memory/2026-07-10-225026-詞庫保存進化.md) |
 | 2026-07-11 | 003447-twmd-babel-nightly | 10 shipped Tier 0a diff-patch；25 footnote-loss defer — Tier 1+fleet 39-fn 全滅 vc=3 | fleet 上界下修 <39 fn；Sonnet full-translate 該編 Tier 6 | [→](memory/2026-07-11-003447-twmd-babel-nightly.md) |
 | 2026-07-11 | 051648-twmd-embeddings-nightly | bge-m3 重建第六夜：4914 向量六語 0 fail / verify PASS / commit `86798c4be`；ko +1（babel 昨夜韓文新翻譯進索引）；本機 127.0.0.1 命中未 fallback | embeddings 鏈連 6 夜 0 fail，環境隔離對照再成立——病灶在 CLI/cron env 層不經語意鏈；本 session 是 7/09 沉默死亡黃燈的補跑，證儀器準 | [→](memory/2026-07-11-051648-twmd-embeddings-nightly.md) |
+| 2026-07-11 | 061259-twmd-data-refresh-am | am 14-step 全綠；CF 404 16.02% vc=4 break-out（四 cycle 收斂 16-17%）；免疫 60 tick #2；`6ab16064c`；7/09 沉默死亡儀器 tick #2 | vc=4 進 confirmed baseline；儀器可信度累積 | [→](memory/2026-07-11-061259-twmd-data-refresh-am.md) |
