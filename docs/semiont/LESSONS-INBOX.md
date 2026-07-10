@@ -314,6 +314,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-10 elections-refresh — inbox-status-stale-starves-routine：ship 不同步對賬 inbox status，PICK 型 routine 會對著已完成的任務空轉
+
+- **pattern**: `inbox-status-stale-starves-routine`
+- **原則**：ARTICLE-INBOX（以及任何 PICK 佇列）的 status 欄是 routine 的眼睛。任務 ship 了但 status 停在 `pending`，PICK 型 routine（rewrite-daily 等）每個 cycle 都會重新選中它、評估它、再 defer 它——每次空轉都燒一個 session 的 BECOME + PIPELINE 讀取成本，而真正 pending 的任務永遠排不到隊首。**ship 的人要在同一個 commit（或同一個 session）把對應 inbox entry 對賬成 done**；跨 session 大批 ship（如 8 篇一次落地）尤其容易漏，因為 ship 者的注意力在產出不在佇列。偵測解法候選：inbox-signal.sh 或 self-evolve-weekly 加「pending entry × ARTICLE-DONE-LOG / knowledge/ 檔案存在性」交叉對賬（跟 fire-vs-git-trace 同構——兩個各自誠實的資料源，交叉才看得見屍體/殭屍）。
+- **觸發**：2026-07-10 elections-refresh session audit——🗳️ Tier 1.1（8 篇制度文章）與 Tier 1.4（政黨政治 EVOLVE）2026-05-27 已全數 ship，但 inbox status 六週停在 `pending`；twmd-rewrite-daily 2026-07-10 兩個 cycle（011120 / 191112）連續 PICK「選舉 Tier 1.1 #1」再 capacity-defer（vc=5/6），選中的其實是已存在六週的 `knowledge/Politics/九合一選舉是什麼.md`。對賬 commit 本 session；佐證 memory：2026-07-10-011120 / 191112-twmd-rewrite-daily。
+- **instances**：
+  - 2026-07-10 elections-refresh（本 entry 主觸發，Tier 1.1 + 1.4 兩條 entry 同病）
+- **可能層級**：操作規則（REWRITE-PIPELINE ship 收尾步驟加「inbox 對賬」；或儀器化交叉對賬進 self-evolve-weekly）
+- **相關**：REFLEXES #60（silent default = silent failure——status 欄的 default 一直是 pending）、#76（multi-cycle trend window——defer vc 連續攀升本身就是佇列有殭屍的訊號）；LESSONS `routine-fire-vs-git-trace-silent-death`（同構：單源誠實、跨源才見真相）
+- **verification_count**: 1
+
 ### 2026-07-10 weekly-deep-review — routine-fire-vs-git-trace-silent-death：scheduler 有 fire 紀錄不代表 routine 有完成，沉默死亡只有交叉對賬才看得見
 
 - **pattern**: `routine-fire-vs-git-trace-silent-death`

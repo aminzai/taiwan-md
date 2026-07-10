@@ -481,9 +481,9 @@ BECOME_TAIWANMD.md Step 5 新增：
 ### 🗳️ 2026 選舉 Tier 1.1 — evergreen 選舉制度系列 NEW（8 篇 P1/P2 [A] auto-eligible）
 
 - **Type**: `NEW` × 8 篇
-- **Category**: 待定 — 取決於選舉專區 navigation 設計（候選：新開 `Politics/` 或放 `History/` 或 `Society/`）
+- **Category**: `Politics/`（Option D 拍板後新開，2026-05-27）
 - **Priority**: `P1`（前 4 篇）/ `P2`（後 4 篇）
-- **Status**: `pending`
+- **Status**: `done` — 8/8 全數 ship 於 2026-05-27（`knowledge/Politics/` 九合一選舉是什麼 / 投票權門檻歷史 / 政治獻金透明度 / 中選會制度 / 議員制度 / 村里長制度 / 直轄市山地原住民區長 / 選舉公報，另含 \_Politics Hub + 2026 九合一選舉總章）。**2026-07-10 reconcile**：本 entry 長期漏標 done，rewrite-daily PICK 連續多 cycle 誤選（memory 2026-07-10-011120 / 191112 的「Tier 1.1 #1 保留」即此 stale status 造成）
 - **Requested**: 2026-05-27 by 哲宇 directive（session 2026-05-27-160000-2026-election-evolution）
 - **自主權邊界**: `[A]` 可自主走 REWRITE-PIPELINE（純制度／歷史層，不踩 partisan 線）
 - **共通 hook 原則**：每篇要回答「**為什麼這個制度長這樣**」（歷史 + 國際比較 + 結構性張力），不回答「該怎麼投票」
@@ -611,7 +611,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Category**: History
 - **Path**: [`knowledge/History/台灣選舉與政黨政治.md`](../../knowledge/History/台灣選舉與政黨政治.md)
 - **Priority**: `P1`
-- **Status**: `pending`
+- **Status**: `done` — EVOLVE Round 2 已 ship 2026-05-27（article updateLog：§2024 後的政治版圖 + 朝小野大 + 2025 大罷免 + 藍白合協議 + 兩黨派系演化 + 20 新腳註；(e)(f) cross-link 待 Tier 1.1 已補、Tier 1.2 仍待）。**2026-07-10 reconcile**：status 補標
 - **Requested**: 2026-05-27 by 哲宇 directive（session 2026-05-27-160000-2026-election-evolution）
 - **自主權邊界**: `[A]` 可自主走 REWRITE-PIPELINE EVOLVE 模式（既有 article + 純歷史層補章）
 - **EVOLVE 動作**：
