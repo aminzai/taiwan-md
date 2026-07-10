@@ -361,15 +361,19 @@ const taiwanAlts = p.taiwan
   .split(/\s*\/\s*/)
   .slice(1)
   .join('、');
-// fork E「正在分歧」= both sides use it; don't overclaim it as purely mainland.
+// Honesty gate for the lead claim (2026-07-10): E「正在分歧」and F「同詞不同語感」both
+// mean the word lives on both sides — asserting「是中國大陸的用法」for F is wrong (F was
+// wrongly bucketed into the mainland-only else branch). E = actively diverging;
+// F = both use it, register/frequency differs. Only distinctly-mainland classes
+// (A/B/C/D/semantic/orthographic + evidenced) get the「是中國大陸的用法」claim.
 const isDiverging = p.forkKey === 'E';
+const isSameWordDiffFeel = p.forkKey === 'F';
+const altSuffix = taiwanAlts ? `（也說${taiwanAlts}）` : '';
 const leadAnswer = isDiverging
-  ? `「${p.china}」是兩岸正在分歧的詞，雙方大致都聽得懂；台灣這邊多半說「${taiwanPrimary}」` +
-    (taiwanAlts ? `（也說${taiwanAlts}）` : '') +
-    '。'
-  : `「${p.china}」是中國大陸的用法，在台灣通常說「${taiwanPrimary}」` +
-    (taiwanAlts ? `（也說${taiwanAlts}）` : '') +
-    '。';
+  ? `「${p.china}」是兩岸正在分歧的詞，雙方大致都聽得懂；台灣這邊多半說「${taiwanPrimary}」${altSuffix}。`
+  : isSameWordDiffFeel
+    ? `「${p.china}」兩岸都在用，但語感與常用度不太一樣；台灣這邊比較常說「${taiwanPrimary}」${altSuffix}。`
+    : `「${p.china}」是中國大陸的用法，在台灣通常說「${taiwanPrimary}」${altSuffix}。`;
 const leadExtra = showFork && forkBlurb ? forkBlurb : '';
 
 // ── FAQ (2026-06-22) ────────────────────────────────────────────────────────
@@ -382,7 +386,9 @@ const faqEntries = [
     q: `「${p.china}」算中國用語嗎？`,
     a: isDiverging
       ? `「${p.china}」兩岸都在用、正在分歧，台灣這邊習慣說「${taiwanPrimary}」。`
-      : `是，「${p.china}」是中國大陸的常見說法，台灣慣用「${taiwanPrimary}」。`,
+      : isSameWordDiffFeel
+        ? `「${p.china}」兩岸都用，但語感不同；台灣這邊比較常說「${taiwanPrimary}」。`
+        : `是，「${p.china}」是中國大陸的常見說法，台灣慣用「${taiwanPrimary}」。`,
   },
 ];
 

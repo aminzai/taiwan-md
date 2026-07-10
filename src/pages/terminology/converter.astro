@@ -219,10 +219,12 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
   description={`免費線上台灣用語轉換工具。「視頻」→「影片」、「軟件」→「軟體」、「打車」→「叫計程車」——${rules.length} 條轉換規則涵蓋科技、生活、醫療、校園等分類，附台灣化指數分析。同步處理字形、詞彙、語感的完整對應。`}
   readerSettings={true}
 >
-  <!-- Preload OpenCC for faster mobile loading -->
+  <!-- Preload OpenCC for faster mobile loading. Must match the module initOpenCC
+       imports FIRST (esm/full.js); preloading cn2t.js (a 3rd fallback) warmed the
+       wrong module and never helped the primary load path (2026-07-10 fix). -->
   <link
     rel="modulepreload"
-    href="https://cdn.jsdelivr.net/npm/opencc-js@1/dist/esm/cn2t.js"
+    href="https://cdn.jsdelivr.net/npm/opencc-js@1/dist/esm/full.js"
   />
   <!--
     Phase 6 partial migration — terminology/converter.astro
@@ -447,6 +449,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
           </div>
 
           <div
+            id="index-row"
             class="flex items-center gap-3 border-t border-[#f0f0f0] pt-3 text-[0.95rem]"
           >
             <span class="font-bold text-[#555]">📊 台灣化指數</span>
@@ -612,16 +615,6 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
       if (inputEl && inputEl.value && inputEl.value.trim()) run();
     });
 
-    // Apply active OpenCC to text outside of HTML tags
-    function applyOpenCC(html) {
-      const conv = getActiveOpenCC();
-      if (!conv) return html;
-      // Replace text nodes (content between tags) but skip content inside tags themselves
-      return html.replace(/>([^<]+)</g, (match, text) => {
-        return '>' + conv(text) + '<';
-      });
-    }
-
     // ── DOM refs ────────────────────────────────────────────────────────────
     const inputEl = document.getElementById('input-text');
     const outputEl = document.getElementById('output-text');
@@ -637,6 +630,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
     const suggestList = document.getElementById('suggest-list');
     const indexBefore = document.getElementById('index-before');
     const indexAfter = document.getElementById('index-after');
+    const indexRow = document.getElementById('index-row');
 
     // ── Example texts ─────────────────────────────────────────────────────────
     // cn2tw 範例：以中國用語為主（含簡體與中國式詞彙）
@@ -911,7 +905,6 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
     }
 
     // ── Main run ────────────────────────────────────────────────────────────
-    let lastHtml = '';
     // Last conversion's matches — referenced by the copy handler for match_count.
     let lastMatches = [];
     const inputHighlightEl = document.getElementById('input-highlight');
@@ -928,7 +921,6 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
         inputHighlightEl.innerHTML = '';
         analysisEl.hidden = true;
         btnCopy.disabled = true;
-        lastHtml = '';
         lastMatches = [];
         return;
       }
@@ -949,16 +941,19 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
           : '✅ 未偵測到台灣用語，文字已符合中國說法（或本工具未涵蓋）。';
       outputEl.innerHTML =
         html || `<span class="no-change">${noChangeMsg}</span>`;
-      lastHtml =
-        matches.length > 0 ? outputEl.innerText || outputEl.textContent : input;
       btnCopy.disabled = false;
 
       // Highlight matched china terms in the input overlay
       inputHighlightEl.innerHTML = buildSourceHtml(input, sourceRegions);
 
-      // Render analysis
+      // Render analysis. The 台灣化指數 (before→after, low→100) only means something
+      // for cn2tw: converting China→Taiwan usage raises Taiwan-ness to 100%. In
+      // tw2cn we're converting *away* from Taiwan usage, so a rising green score is
+      // backwards — hide the index there rather than show a misleading 100% (fix
+      // 2026-07-10; the row is a comparison view in reverse mode, not a score).
       const { before, after } = computeIndex(input, matches);
       renderAnalysis(matches);
+      if (indexRow) indexRow.hidden = direction !== 'cn2tw';
       if (matches.length > 0) {
         indexBefore.textContent = `${before}%`;
         indexAfter.textContent = `${after}%`;
@@ -1188,7 +1183,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
             name: '為什麼同樣是中文，中國和台灣的用語不一樣？',
             acceptedAnswer: {
               '@type': 'Answer',
-              text: '1949 年後兩岸分治，語言各自演化了 70 多年。科技詞彙差異最大（因為在不同的翻譯傳統下獨立發展），日常用語也有不少差異。Taiwan.md 整理了超過 1,800 條對照規則，分為 A（完全不同）到 F（新創詞）六種分支類型。',
+              text: `1949 年後兩岸分治，語言各自演化了 70 多年。科技詞彙差異最大（在不同翻譯傳統下獨立發展），日常用語也有不少差異。Taiwan.md 整理了超過 ${rules.length} 條對照規則，分為 A（完全不同）到 F（新創詞）六種分支類型。`,
             },
           },
           {
@@ -1196,7 +1191,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
             name: '「視頻」在台灣叫什麼？「軟件」在台灣怎麼說？',
             acceptedAnswer: {
               '@type': 'Answer',
-              text: '「視頻」在台灣叫「影片」或「影音」。「軟件」在台灣叫「軟體」。其他常見差異：「網絡」→「網路」、「硬盤」→「硬碟」、「鼠標」→「滑鼠」、「優盤」→「隨身碟」。這些屬於 A 類（完全不同）的用語差異。',
+              text: '「視頻」在台灣叫「影片」或「影音」。「軟件」在台灣叫「軟體」。其他常見例子：「網絡」→「網路」、「硬盤」→「硬碟」、「鼠標」→「滑鼠」、「優盤」→「隨身碟」。這些屬於 A 類（完全不同）的用語差異。完整對照表請見用語詞庫。',
             },
           },
         ],

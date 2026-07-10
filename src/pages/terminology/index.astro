@@ -33,6 +33,7 @@ interface TermEntry {
     exceptions?: string;
   };
   status?: string;
+  subcategory?: string;
   notes?: string;
   sources?: string[];
   added?: string;
@@ -83,6 +84,27 @@ function cleanChinaSource(raw: string): string {
   if (s.includes('/')) s = s.split('/')[0];
   return s.trim();
 }
+// Placeholder scrubbing — mirror [id].astro (2026-06-22): ~1,655 legacy entries
+// (1997/ThunderKO import) carry literal filler ("台灣用法"/"中國用法") in the etymology
+// paths. [id].astro scrubs them, but the browse-grid card expand rendered them raw
+// (2026-07-10 audit HIGH bug). Treat filler as empty so cards never show 詞源 junk.
+const PLACEHOLDERS = new Set([
+  '台灣用法',
+  '台灣用語',
+  '中國用法',
+  '中國用語',
+  '用法',
+  '無',
+]);
+const scrubFiller = (s: string): string =>
+  PLACEHOLDERS.has((s || '').trim()) ? '' : (s || '').trim();
+// Attribution-only notes (來源：… / CC0 credit) are metadata, not card content.
+const scrubNotes = (s: string): string =>
+  /^(來源|出處|資料來源|圖片來源|credit)/i.test((s || '').trim()) ||
+  /CC0|caris-events|invade/i.test(s || '')
+    ? ''
+    : (s || '').trim();
+
 // Returns the per-term page slug for an entry, or '' if no page exists for it.
 // NB: no first-wins dedup here (unlike getStaticPaths) — on the lone duplicate-id
 // collision (給力/讚 both id=awesome) both cards simply link to the one page that
@@ -168,7 +190,7 @@ interface CardData {
 const cards: CardData[] = terms.map((t) => {
   const forkColor = forkTypeColors[t.fork_type] || '#999';
   const forkLabel = forkTypeLabels[t.fork_type] || t.fork_type;
-  const notesClean = (t.notes || '').split('\n').join(' ').trim();
+  const notesClean = scrubNotes((t.notes || '').split('\n').join(' '));
   const notesShort =
     notesClean.length > 90 ? notesClean.slice(0, 90) + '…' : notesClean;
   return {
@@ -180,13 +202,19 @@ const cards: CardData[] = terms.map((t) => {
     english: t.english || '',
     fork_label: forkLabel,
     fork_color: forkColor,
-    fork_point: t.etymology?.fork_point || '',
+    fork_point: scrubFiller(t.etymology?.fork_point || ''),
     notes_short: notesShort,
     notes_full: notesClean,
-    origin: (t.etymology?.origin || '').split('\n').join(' ').trim(),
-    taiwan_path: (t.etymology?.taiwan_path || '').split('\n').join(' ').trim(),
-    china_path: (t.etymology?.china_path || '').split('\n').join(' ').trim(),
-    fork_cause: (t.etymology?.fork_cause || '').split('\n').join(' ').trim(),
+    origin: scrubFiller((t.etymology?.origin || '').split('\n').join(' ')),
+    taiwan_path: scrubFiller(
+      (t.etymology?.taiwan_path || '').split('\n').join(' '),
+    ),
+    china_path: scrubFiller(
+      (t.etymology?.china_path || '').split('\n').join(' '),
+    ),
+    fork_cause: scrubFiller(
+      (t.etymology?.fork_cause || '').split('\n').join(' '),
+    ),
     exceptions: (t.usage?.exceptions || '').split('\n').join(' ').trim(),
     sources: (t.sources || []).filter(Boolean),
     subcategory: t.subcategory || '',
@@ -643,6 +671,16 @@ const termsJSON = JSON.stringify(terms);
   const popupSvg = document.getElementById('fork-popup-svg');
   const popupClose = popup?.querySelector('.fork-popup-close');
 
+  // Escape before injecting into innerHTML/SVG. Terms like 'AT&T' / 'R&D' / english
+  // slugs carry & and < which would break the SVG <text> and info rows (converter.astro
+  // already escapes; index.astro did not — 2026-07-10 fix, defense-in-depth on trusted YAML).
+  // Raw values are kept for textContent / equality; e*() variants are for innerHTML sites.
+  function escHtml(s) {
+    return String(s || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
+  }
   function openForkPopup(btn) {
     const tw = btn.dataset.tw;
     const cn = btn.dataset.cn;
@@ -652,6 +690,12 @@ const termsJSON = JSON.stringify(terms);
     const forkColor = btn.dataset.forkColor;
     const twPath = btn.dataset.twPath;
     const cnPath = btn.dataset.cnPath;
+    const eTw = escHtml(tw),
+      eCn = escHtml(cn),
+      eOrigin = escHtml(origin),
+      eForkPoint = escHtml(forkPoint),
+      eTwPath = escHtml(twPath),
+      eCnPath = escHtml(cnPath);
 
     popupTitle.textContent = `🌿 ${tw}${cn && cn !== tw ? ` / ${cn}` : ''}`;
 
@@ -694,9 +738,9 @@ const termsJSON = JSON.stringify(terms);
       <circle cx="${twX}" cy="${twY}" r="7" fill="${twColor}"/>
       ${!sameTerm ? `<circle cx="${cnX}" cy="${cnY}" r="7" fill="${cnColor}"/>` : ''}
       <text x="${ox}" y="${oy - 14}" text-anchor="middle" font-size="11" fill="#888">詞源</text>
-      <text x="${fx}" y="${fy - 14}" text-anchor="middle" font-size="10" fill="#888">${forkPoint || '分歧點'}</text>
-      <text x="${twX}" y="${twY - 14}" text-anchor="middle" font-size="12" font-weight="700" fill="${twColor}">🇹🇼 ${tw}</text>
-      ${!sameTerm ? `<text x="${cnX}" y="${cnY + 22}" text-anchor="middle" font-size="12" font-weight="700" fill="${cnColor}">🇨🇳 ${cn}</text>` : ''}
+      <text x="${fx}" y="${fy - 14}" text-anchor="middle" font-size="10" fill="#888">${eForkPoint || '分歧點'}</text>
+      <text x="${twX}" y="${twY - 14}" text-anchor="middle" font-size="12" font-weight="700" fill="${twColor}">🇹🇼 ${eTw}</text>
+      ${!sameTerm ? `<text x="${cnX}" y="${cnY + 22}" text-anchor="middle" font-size="12" font-weight="700" fill="${cnColor}">🇨🇳 ${eCn}</text>` : ''}
     `;
 
     if (sameTerm) {
@@ -709,11 +753,11 @@ const termsJSON = JSON.stringify(terms);
     // Info section
     let info = '';
     if (origin)
-      info += `<div class="info-row"><span class="info-label">詞源</span><span>${origin}</span></div>`;
+      info += `<div class="info-row"><span class="info-label">詞源</span><span>${eOrigin}</span></div>`;
     if (twPath)
-      info += `<div class="info-row"><span class="info-label">🇹🇼 台灣</span><span>${twPath}</span></div>`;
+      info += `<div class="info-row"><span class="info-label">🇹🇼 台灣</span><span>${eTwPath}</span></div>`;
     if (cnPath)
-      info += `<div class="info-row"><span class="info-label">🇨🇳 中國</span><span>${cnPath}</span></div>`;
+      info += `<div class="info-row"><span class="info-label">🇨🇳 中國</span><span>${eCnPath}</span></div>`;
     popupInfo.innerHTML = info;
 
     popup.classList.add('visible');
