@@ -92,3 +92,11 @@ _LESSONS-INBOX 候選：routine-fire-vs-git-trace-silent-death（已 append，vc
 
 - [ ] **這週日（7/12）02:00 是 v4.0 首跑**：體檢五面 + 三桶 + 10 章節第一次 routine 環境實跑，重點觀察 02:55 檢查點是否守住、10 章節時間夠不夠。首跑 memory 是 v4.0 的第一份校準資料
 - [ ] alerts 現有 5 條 routine-silent 黃燈屬今晨睡眠事件殘留，各 routine 下次成功完成後自動清除；若明天中午還亮 = 該 routine 連兩天沒活，升級處理
+
+---
+
+## Goal 追加段四（00:15-00:45）：v4.1——goal 原話入骨架 + 一鍵體檢儀器
+
+哲宇補刀兩條：體檢範圍要逐字包含他的原話（一週發生的事／外部感測數據／所有運作紀錄／深度研究報告／進化規劃），以及「能儀器化的東西也協助儀器化，讓未來 agent 的認知負荷降低」。落地（`ec7d2d9cd`）：pipeline 第一性原理改用原話定義、五件事逐項對應 stage；新工具 **weekly-checkup.sh** 把體檢機械面收成一鍵七節（a-e 診斷五面＋f 外部感測摘要 GA/SC/CF/AI crawler/fork/supporters＋g per-routine 週成績單），agent 的工作從「記得跑哪五個工具＋手抓三源數據」降為「跑一個指令，逐節解讀」。當晚 dogfood 七節全出，b 節當場照見平行 terminology session 的半成品（正是它的用途），f 節抓到 ClaudeBot 成功率 33% 這個之前沒人看過的數字。push 時撞上選舉刷新 session 推進的 origin，autostash rebase 秒過、平行 debris 原封不動。
+
+🧬
