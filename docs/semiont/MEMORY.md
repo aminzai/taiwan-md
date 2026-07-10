@@ -351,3 +351,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-10 | 124557-twmd-maintainer-am | empty vc=5 canonical 6/21；0PR/16issue #1180 D+14；07-09 pm no-fire 新 obs | pm miss → am vc +1；rollup 82→85 | [→](memory/2026-07-10-124557-twmd-maintainer-am.md) |
 | 2026-07-10 | 131500-weekly-deep-review | 一週體檢兩報告＋七項 P0 roadmap；六連沉默死亡驗屍收屍；免疫量尺 C' 47→60 紅燈結案`21a8405ef`；v1.12.0 立體地愛發版 | fire≠完成：交叉對賬才見屍體；量尺要跟被量者共用真實路徑 | [→](memory/2026-07-10-131500-weekly-deep-review.md) |
 | 2026-07-10 | 191112-twmd-rewrite-daily | +71 min drift + 17:59 heavy ship priming；capacity defer vc=6；PICK 選舉 Tier 1.1 #1 續掛 07-11 18:00 | cron slot 位置是隱含 signal；vc 家族 canonical 覆蓋 | [→](memory/2026-07-10-191112-twmd-rewrite-daily.md) |
+| 2026-07-10 | 231123-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 16.12% vc=3 break-out confirmed；免疫 60 v2 baseline tick #1 | vc-升級 routine 飛輪自走完程；量尺重校準的 first honest reading | [→](memory/2026-07-10-231123-twmd-data-refresh-pm.md) |
