@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-09
-last_session: '2026-07-09-061248-twmd-data-refresh-am'
+last_updated: 2026-07-11
+last_session: '2026-07-11-003447-twmd-babel-nightly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -302,3 +302,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-10 | 231123-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 16.12% vc=3 break-out confirmed；免疫 60 v2 baseline tick #1 | vc-升級 routine 飛輪自走完程；量尺重校準的 first honest reading | [→](memory/2026-07-10-231123-twmd-data-refresh-pm.md) |
 | 2026-07-10 | 224934-elections-refresh | 選舉站體六語補齊＋新增選務時程區塊；總章 v1.1 修六處事實錯＋補三制度變數；inbox 對賬揭 Tier 1.1/1.4 漏標六週；算力分層新分工首次落地 | ship 不等於 inbox 知道 ship；quality gate 演進會讓存量內容變 hard-fail | [→](memory/2026-07-10-224934-elections-refresh.md) |
 | 2026-07-11 | 225026-詞庫保存進化 | 用語詞庫長 LLM 全審器（本地 2308 條）+ 審修 26 筆（亂碼國名對 MOFA／簡繁 neutralize）+ 頁面五 bug；餘 510 進 OBSERVER-QUEUE #11 | 審主權詞庫 LLM 會把台灣名洗向中國名、suggest 當線索；長多檔任務先開 worktree | [→](memory/2026-07-10-225026-詞庫保存進化.md) |
+| 2026-07-11 | 003447-twmd-babel-nightly | 10 shipped Tier 0a diff-patch；25 footnote-loss defer — Tier 1+fleet 39-fn 全滅 vc=3 | fleet 上界下修 <39 fn；Sonnet full-translate 該編 Tier 6 | [→](memory/2026-07-11-003447-twmd-babel-nightly.md) |
