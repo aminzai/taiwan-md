@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-10T15:10:14Z",
+  "timestamp": "2026-07-10T22:12:26Z",
   "total": 844,
   "flagged": 337,
   "files": [
@@ -751,8 +751,8 @@
     },
     {
       "file": "politics/2026 九合一選舉.md",
-      "score": 5,
-      "reasons": "未人工審核; 連續bullet14行; 稀薄段落×2"
+      "score": 4,
+      "reasons": "未人工審核; 連續bullet14行; 稀薄段落×1"
     },
     {
       "file": "politics/投票權門檻歷史.md",

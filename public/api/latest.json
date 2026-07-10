@@ -1,8 +1,35 @@
 {
-  "_generated": "2026-07-10T15:10:31.531Z",
+  "_generated": "2026-07-10T22:12:35.321Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "2026 九合一選舉：在 AI 認知作戰時代的民主基礎建設壓力測試",
+        "desc": "2026 年 11 月 28 日，全台 22 縣市同日打開投票所選出九種職位、超過 1.1 萬個民選首長與民意代表。這場選舉跟過去任何一場都不一樣 — 差別不在候選人，差別在它發生的環境：中共國家級 AI 認知作戰升級、123+ 偽冒新聞網站、檢察官把 AI 假訊息列入查察四大重點。這篇不是選舉資訊整理，是這場選舉的歷史定位與結構性壓力分析。",
+        "category": "politics",
+        "href": "/politics/2026%20%E4%B9%9D%E5%90%88%E4%B8%80%E9%81%B8%E8%88%89",
+        "date": "2026-07-10T23:59:03+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "政治獻金透明度：監察院平臺、g0v 視覺化、22 年的公開化基礎建設",
+        "desc": "打開監察院政治獻金公開查閱平臺，輸入任一候選人姓名，你可以查到他從哪些人那裡收了多少錢、花在哪些競選活動上。這套基礎建設不是天上掉下來的 — 是 2004《政治獻金法》立法、2008 平臺上線、2017 中選會與監察院資料公開協議、g0v 工程師十年視覺化補位，一條條法律、一份份會計報表、一個個公民工程師逐步堆出來的。",
+        "category": "politics",
+        "href": "/politics/%E6%94%BF%E6%B2%BB%E7%8D%BB%E9%87%91%E9%80%8F%E6%98%8E%E5%BA%A6",
+        "date": "2026-07-10T23:26:29+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "村里長制度：7,748 個民選首長，台灣最基層的政治單元",
+        "desc": "凌晨五點半的里辦公處、4.5 萬月支事務補助、超過六成無黨籍 — 村里長是台灣選舉中最不像「政治」的政治職位，也是台灣民主化最完整的證據。從日治保甲到 1950 直選，這個全台 7,748 個比 7-Eleven 還多的職位，運轉著八十年的在地關係代理。",
+        "category": "politics",
+        "href": "/politics/%E6%9D%91%E9%87%8C%E9%95%B7%E5%88%B6%E5%BA%A6",
+        "date": "2026-07-10T23:26:29+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "台灣水果王國：這座島嶼把每一顆水果都當成生命跟記憶在種",
         "desc": "從玉井山坡的清晨、麻豆文旦老欉、濱江凌晨拍賣、削果皮的阿嬤，到荔枝椿象跟外籍移工的果園：這座亞熱帶島嶼把水果變成一種跟土地、跟世代、跟世界對話的方式。",
@@ -245,36 +272,18 @@
         "date": "2026-07-05T17:53:02+08:00",
         "readingTime": 10,
         "image": ""
-      },
-      {
-        "title": "新北市美術館：大漢溪畔的蘆葦叢，與一座「未竟」的城市美學",
-        "desc": "2025年4月25日，新北市美術館在鶯歌正式開館，這座由姚仁喜設計、耗資近30億台幣的建築，以「蘆葦叢中的美術館」為意象，試圖在城市邊緣種下藝術的種子。然而，從工程延宕、預算追加到開館後的「蚊子館」質疑，它不僅是藝術殿堂，更是台灣公共建設與文化願景的縮影。",
-        "category": "art",
-        "href": "/art/%E6%96%B0%E5%8C%97%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8",
-        "date": "2026-07-05T17:53:02+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "周天成：台灣羽球一哥，揮出世界第二的高度",
-        "desc": "台灣男單第一個世界第二、第一個打敗球王林丹的人。從加入國家隊連吞十敗的低潮、盲腸炎穿孔後受洗成為基督徒，到 2023 年 34 歲查出初期大腸癌、開刀後沒幾天就照常出國征戰卻硬扛近一年低潮，隔年在巴黎奧運打進八強。周天成不靠天賦碾壓，用一種叫「磨」的拉吊纏鬥球風，把台灣羽球能站多高的答案一路往上抬。",
-        "category": "people",
-        "href": "/people/%E5%91%A8%E5%A4%A9%E6%88%90",
-        "date": "2026-07-05T17:37:18+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "湖口老街：1929 年火車一搬走，紅磚老街被留在原地一百年",
-        "desc": "1893 年劉銘傳的鐵路在此設站，客家散村一夕變成竹苗物產集散地；1917 年三元宮動工、隔年落成，紅磚洋樓沿街而起。1929 年日本人嫌坡度太陡，把車站北遷到今天的湖口車站，繁華十六年戛然而止，這裡從此被稱作「老湖口」。舊車站基地上後來蓋起一座天主堂，三元宮還站在原地，被鐵路拋棄的老街反而躲過了戰後的拆除重建。",
-        "category": "geography",
-        "href": "/geography/%E6%B9%96%E5%8F%A3%E8%80%81%E8%A1%97",
-        "date": "2026-07-05T17:36:59+08:00",
-        "readingTime": 9,
-        "image": ""
       }
     ],
     "en": [
+      {
+        "title": "Meiyu: From the 1981 Deluge that Submerged Northern Taiwan to the Scientific Mission that Flew Americans to the Island",
+        "desc": "On the morning of May 28, 1981, a catastrophic Meiyu front erupted over the Taoyuan-Hsinchu-Miaoli region and greater Taipei, dumping over 140 mm of rain in a single hour near Gongguan, leaving 8 dead and thousands of homes damaged. Six years later, the TAMEX initiative was launched. Defying the shadows of broken diplomatic ties, over 125 American and Taiwanese scientists chased fronts using a NOAA P-3 aircraft, three research vessels, and three Doppler radars. Forty years later, this stationary front, arriving precisely every May and June, remains both the lifeblood of drinking water for 23 million people and a potential killer capable of submerging entire cities.",
+        "category": "nature",
+        "href": "/en/nature/meiyu-stagnant-front",
+        "date": "2026-07-11T00:03:28+08:00",
+        "readingTime": 17,
+        "image": ""
+      },
       {
         "title": "Where Chou: The Voice Behind 'Agreement' for 25 Years, From Cartoon Doll to Taipei Arena Marathon",
         "desc": "In 1999, Linfair Records released 'Where Chou's Greatest Hits,' its cover featuring a cartoon doll named Hui-er in place of the singer's face. 'Agreement' entered every KTV room and endured for 25 years, yet the woman behind the voice was always recognized a step later than her song. From five albums at Linfair to being shelved at BMG, from Qunshi to HIM International, to self-producing a Disco turn with 'Where X Zou' in 2025, twelve albums spanned twenty-six years. On April 25, 2026, she stepped onto the Taipei Arena stage for the first time, only to announce vocal cord atrophy at the concert's end: 'I don't know if this will be the last time I sing for everyone.'",
@@ -309,15 +318,6 @@
         "href": "/en/people/david-wong",
         "date": "2026-06-28T09:52:29+08:00",
         "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "Meiyu: From the 1981 Deluge that Submerged Northern Taiwan to the Scientific Mission that Flew Americans to the Island",
-        "desc": "On the morning of May 28, 1981, a catastrophic Meiyu front erupted over the Taoyuan-Hsinchu-Miaoli region and greater Taipei, dumping over 140 mm of rain in a single hour near Gongguan, leaving 8 dead and thousands of homes damaged. Six years later, the TAMEX initiative was launched. Defying the shadows of broken diplomatic ties, over 125 American and Taiwanese scientists chased fronts using a NOAA P-3 aircraft, three research vessels, and three Doppler radars. Forty years later, this stationary front, arriving precisely every May and June, remains both the lifeblood of drinking water for 23 million people and a potential killer capable of submerging entire cities.",
-        "category": "nature",
-        "href": "/en/nature/meiyu-stagnant-front",
-        "date": "2026-06-19T11:12:53+08:00",
-        "readingTime": 17,
         "image": ""
       },
       {

@@ -1,7 +1,253 @@
 {
-  "generatedAt": "2026-07-10T15:10:16.107Z",
+  "generatedAt": "2026-07-10T22:12:27.522Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "11328e7e8a333aed29ca17da7141a9f0d5a35b16",
+      "date": "2026-07-11T05:17:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-11-051648-twmd-embeddings-nightly — 4914 vec 6 langs 0 fail / PASS / 86798c4be",
+      "articles": []
+    },
+    {
+      "hash": "86798c4be1c95d0c3c3193fba7f8db1e31f527ee",
+      "date": "2026-07-11T05:16:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-11 05:16",
+      "articles": []
+    },
+    {
+      "hash": "553584b0223916a9142d69493894e8b48cc54597",
+      "date": "2026-07-11T00:59:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-11-003447-twmd-babel-nightly — 10 shipped Tier 0a + 25 defer cascade vc=3",
+      "articles": []
+    },
+    {
+      "hash": "39a393816fbb2eb50f1197d12a3e6c4fc3f28386",
+      "date": "2026-07-11T00:56:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 10 translations (Tier 0a Sonnet diff-patch) — 5 lang sync 2026-07-11",
+      "articles": []
+    },
+    {
+      "hash": "fe5f9a426ef29944b040c97fcd84d51e442990a0",
+      "date": "2026-07-11T00:35:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-10-225026-詞庫保存進化 收官",
+      "articles": []
+    },
+    {
+      "hash": "e1434e9ec3fb114bb5baff031593bc3da247f516",
+      "date": "2026-07-11T00:26:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: MANIFESTO 造橋鋪路長出「過程留給分身，結論才進我的腦」子節",
+      "articles": []
+    },
+    {
+      "hash": "d47f3da1366bc924da9d1a6c6aa7a50c44c07197",
+      "date": "2026-07-11T00:21:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 用語頁面五個 bug — placeholder/誠信/指數/FAQ/dead-code",
+      "articles": []
+    },
+    {
+      "hash": "db957fec757a269d539eb11711a9eeeb65237dcb",
+      "date": "2026-07-11T00:20:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: cross-domain 用語詞庫 LLM 全審器 + 26 筆審修 + 深度進化報告",
+      "articles": []
+    },
+    {
+      "hash": "1c0e0f686a58f3b03ddd096ba02f4cb05065d5f9",
+      "date": "2026-07-11T00:16:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: MANIFESTO 造橋鋪路長出「認知負荷是第一稀缺資源」子節（哲宇 directive）",
+      "articles": []
+    },
+    {
+      "hash": "cabacf967b3faa1f2b5d1808118c0970f76a9a56",
+      "date": "2026-07-11T00:11:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: REFLEXES #68 補 pathspec commit 解法——共享 index 污染 vc=3",
+      "articles": []
+    },
+    {
+      "hash": "462cda1a6051eb9fd71a268fd5be9272801d9f53",
+      "date": "2026-07-11T00:11:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 夜班段五——P0 全清 + 兩 miss（佇列漂移重做 + 共享 index 污染）",
+      "articles": []
+    },
+    {
+      "hash": "9bd098a6521061956190c591244e69b3fb3d7973",
+      "date": "2026-07-11T00:09:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: roadmap P0 七項全清標記——夜班自動進化收官",
+      "articles": []
+    },
+    {
+      "hash": "1a51fc186a58103673841edb83fd5dcc0bc83be4",
+      "date": "2026-07-11T00:07:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 佇列執行前查證護欄——夜班近失 codify",
+      "articles": []
+    },
+    {
+      "hash": "2d3b9341311c561673db2f47d826bb899f543573",
+      "date": "2026-07-11T00:03:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Revert \"🧬 [semiont] rewrite: 梅雨英文版落地——JuYinC 貢獻的 6,000 字人譯（issue #1107）\"",
+      "articles": []
+    },
+    {
+      "hash": "f21269caccb1951c071a638a61b0a0fdd9d6aa40",
+      "date": "2026-07-11T00:02:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 收緊選舉刷新日記正文長度，貼近 600-1000 字目標",
+      "articles": []
+    },
+    {
+      "hash": "35e1b4f40740737b641c7090638189034fd24821",
+      "date": "2026-07-11T00:01:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 梅雨英文版落地——JuYinC 貢獻的 6,000 字人譯（issue #1107）",
+      "articles": []
+    },
+    {
+      "hash": "2cbb7955c02f5d3696fa8a2774ddd83a92e03959",
+      "date": "2026-07-10T23:59:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 六週沒響的警報與大腦手的分化——選舉刷新 session 反芻",
+      "articles": [
+        {
+          "url": "/politics/2026 九合一選舉",
+          "name": "2026 九合一選舉"
+        }
+      ]
+    },
+    {
+      "hash": "ecda9e611a519851d2b401eebb4a0f2fb9883eb3",
+      "date": "2026-07-10T23:57:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 夜班快修四件——P0-4 進料節流 + EXP-D 補判反駁 + counts-drift 歸零 + MEMORY rollup 第二波",
+      "articles": []
+    },
+    {
+      "hash": "aa1f5c85ec4c8c94fe16212d8b0dd57c9ccac7c0",
+      "date": "2026-07-10T23:52:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: babel cascade 收編 fleet Tier 5 + frontmatter 收件閘（roadmap P0-2/P0-3）",
+      "articles": []
+    },
+    {
+      "hash": "7818e28ad6367f0c9959f626a5716e27ed082df1",
+      "date": "2026-07-10T23:44:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: weekly-deep-review 追加段四——v4.1 一鍵體檢儀器收官",
+      "articles": []
+    },
+    {
+      "hash": "ec7d2d9cde819ccc952e58cbb4d4489793863c0e",
+      "date": "2026-07-10T23:43:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: WEEKLY-REPORT v4.1——goal 原話入骨架 + weekly-checkup.sh 一鍵七節",
+      "articles": []
+    },
+    {
+      "hash": "5c142fd96a066d1dbed58cb13d618de124b736a7",
+      "date": "2026-07-10T23:38:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-10-224934-elections-refresh — 選舉關聯頁面七月刷新收官",
+      "articles": []
+    },
+    {
+      "hash": "c4569b0ed8be96361575a57b13c336325d970716",
+      "date": "2026-07-10T23:26:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 選舉系列 inbox 對賬標 done + 七月刷新計畫與研究素材落檔",
+      "articles": []
+    },
+    {
+      "hash": "837e22b9a0bb5f9832dfba3a09a91be1e93f9e3e",
+      "date": "2026-07-10T23:26:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 2026 選舉總章選前事實刷新——修六處事實錯誤、補三個制度新變數與六七月資訊環境",
+      "articles": [
+        {
+          "url": "/politics/2026 九合一選舉",
+          "name": "2026 九合一選舉"
+        },
+        {
+          "url": "/politics/_Politics Hub",
+          "name": "_Politics Hub"
+        },
+        {
+          "url": "/politics/政治獻金透明度",
+          "name": "政治獻金透明度"
+        },
+        {
+          "url": "/politics/村里長制度",
+          "name": "村里長制度"
+        }
+      ]
+    },
+    {
+      "hash": "d863d7420bdd7d34a58834ae242cd0e26e479719",
+      "date": "2026-07-10T23:26:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 選舉專頁補齊法文西文版、新增中選會法定時程區塊、修好語言別導航",
+      "articles": []
+    },
+    {
+      "hash": "f49798a2825b07fa8aebbdd24749d590d3aa9683",
+      "date": "2026-07-10T23:36:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: weekly-deep-review 追加段三——WEEKLY-REPORT v4.0 體檢週進化收官",
+      "articles": []
+    },
+    {
+      "hash": "dd257c9b7385d40dca7efb51ed29f4842b889171",
+      "date": "2026-07-10T23:35:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: WEEKLY-REPORT v4.0——週報升級成體檢週（哲宇拍板）",
+      "articles": []
+    },
+    {
+      "hash": "408c35ca57ed41b72116aa58b46ff63c3bb9a742",
+      "date": "2026-07-10T23:35:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: routine 沉默死亡對賬儀器——fire≠完成從教訓變成每天可見的黃燈",
+      "articles": []
+    },
+    {
+      "hash": "9eb1e280d892197e80cd217935b9188005f3f616",
+      "date": "2026-07-10T23:17:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 2026-07-10 收屍者被自己的門神搜身——三件維運補的是同一道縫",
+      "articles": []
+    },
+    {
+      "hash": "c2b5f5ecea89a065b66769d028aa1bfefe1ada5e",
+      "date": "2026-07-10T23:14:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-10-231123-twmd-data-refresh-pm — pm 14-step 全綠 + CF 404 16.12% vc=3 break-out + 免疫 60 v2 baseline tick #1",
+      "articles": []
+    },
+    {
+      "hash": "4069f98376752689709a409cb26a5be4dea8e8bd",
+      "date": "2026-07-10T23:11:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh — 2026-07-10 pm",
+      "articles": []
+    },
+    {
+      "hash": "ad073f12f5e30d14cd66c6d26b54e09ba860ced5",
+      "date": "2026-07-10T23:10:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: weekly-deep-review 追加段二 — OAuth 換鑰親手操作全程 + #2/#6 雙結案",
+      "articles": []
+    },
     {
       "hash": "74e5316c52fb6ef755e0bec305ee378990eb566d",
       "date": "2026-07-10T23:09:28+08:00",
