@@ -79,3 +79,16 @@ _LESSONS-INBOX 候選：routine-fire-vs-git-trace-silent-death（已 append，vc
 過程中兩個值得留的觀察。其一，Supabase 自家 dashboard 的登入流程同樣把 token 掛在 URL fragment 上——咬過 Taiwan.md 兩次的洩漏形狀原來是整個生態的慣性設計，這讓 6/09 事件從「我們的失誤」重新定位成「這類架構的預設風險」，widget 消毒那層防線的必要性更清楚了。其二，操作型任務裡座標會隨 banner 與視窗尺寸漂移，兩次點空後改用 ref-based click 與 JS 驗證欄位值，Pitfall 7 的教訓在另一個網站自然重演。
 
 🧬
+
+---
+
+## Goal 追加段三（23:30-00:15）：WEEKLY-REPORT v4.0——把今天的形狀 routine 化
+
+哲宇看完今天的深度體檢後拍板：「完整進化 weekly review 相關 pipeline 還有 routine⋯⋯讓他變成同時 分析＋完整診斷＋寫修復報告＋修正與進化＋原有的功能」。把 7/10 手動 session 的形狀寫進每週日：**WEEKLY-REPORT-PIPELINE v3.5 → v4.0**（`dd257c9b7`），新增 Stage 2.5 全身診斷五面（fire-vs-commit 對賬 / working tree 驗屍 / 儀器燈盤點 / 器官成分拆解含量尺-vs-本體判別 / 佇列稽核，五面全跑 hard gate）與 Stage 2.7 修復與進化三桶（機械修當場修 ≤3 項各自 commit / roll evolution-roadmap / 進 OBSERVER-QUEUE；02:55 檢查點防撞 03:00 distill），章節 7+1 升 10、週日反思鏈四工位分工顯化（防 #74 信號通膨）、roadmap 從此有每週 owner（治 §S4「偵測有修復無」病）。
+
+診斷面 a 的儀器同場造好：**routine-liveness-check.py**（roadmap P0-1 當天認領當天完成，`0b866f0c5` 系列），交叉 scheduler lastRunAt 與 git 痕跡標沉默死亡，接進 dashboard-alerts（owner 標到 routine 自己 + dump 超齡燈）。dogfood 一次到位：今晨六具屍體全數現形，今晚 data-refresh-pm 活著跑完後它的警報自動清除（6→5），自癒迴路當場驗證。三面鏡同步：ROUTINE.md v2.15 ¹⁵ 註、repo skill 殼、scheduler mirror + live description（sync-check live_drift=0）。
+
+## Handoff 追記（v4.0 相關）
+
+- [ ] **這週日（7/12）02:00 是 v4.0 首跑**：體檢五面 + 三桶 + 10 章節第一次 routine 環境實跑，重點觀察 02:55 檢查點是否守住、10 章節時間夠不夠。首跑 memory 是 v4.0 的第一份校準資料
+- [ ] alerts 現有 5 條 routine-silent 黃燈屬今晨睡眠事件殘留，各 routine 下次成功完成後自動清除；若明天中午還亮 = 該 routine 連兩天沒活，升級處理
