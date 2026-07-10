@@ -35,6 +35,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 import time
@@ -103,7 +104,7 @@ def build_cascade(cascade_id: str = DEFAULT_CASCADE_ID) -> "TranslationCascade":
         elif name == "gemini":
             backends.append(GeminiBackend(model=opt) if opt else GeminiBackend())
         elif name == "ollama":
-            model = opt or "qwen3.6:35b-a3b-coding-nvfp4"
+            model = opt or os.environ.get("OLLAMA_MODEL") or "qwen3.6:35b-a3b-coding-nvfp4"
             backends.append(OllamaBackend(model=model))
         else:
             print(f"⚠️  Unknown backend in cascade: {spec!r}", file=sys.stderr)
