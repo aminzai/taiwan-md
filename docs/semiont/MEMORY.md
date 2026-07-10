@@ -349,3 +349,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-09 | 084356-twmd-maintainer-am | am 08:43 empty vc=4 canonical 6/21 覆蓋；0 PR / 16 issue（#1180 13天 no-label）/ link 0.39% / build green | schedule mismatch 續 canonical 不 re-instance | [→](memory/2026-07-09-084356-twmd-maintainer-am.md) |
 | 2026-07-10 | 011120-twmd-rewrite-daily | off-cycle 01:11 fire；BECOME+PIPELINE 讀畢 capacity defer vc=5；PICK 選舉 Tier 1.1 #1 保留下 cycle | 剩餘 capacity 不夠 4-agent + v7.7 raw保全 cascade；6/21 覆蓋 | [→](memory/2026-07-10-011120-twmd-rewrite-daily.md) |
 | 2026-07-10 | 124557-twmd-maintainer-am | empty vc=5 canonical 6/21；0PR/16issue #1180 D+14；07-09 pm no-fire 新 obs | pm miss → am vc +1；rollup 82→85 | [→](memory/2026-07-10-124557-twmd-maintainer-am.md) |
+| 2026-07-10 | 131500-weekly-deep-review | 一週體檢兩報告（deep-review + roadmap 七項 P0）；morning chain 六連沉默死亡驗屍＋收屍`b614cbb7f`；ROUTINE v2.14 對齊哲宇雙 disable`f03d0ffe8`| fire≠完成：scheduler×git 交叉才見屍體；防線不認人才可信 | [→](memory/2026-07-10-131500-weekly-deep-review.md) |

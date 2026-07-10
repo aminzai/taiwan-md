@@ -314,6 +314,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-10 weekly-deep-review — routine-fire-vs-git-trace-silent-death：scheduler 有 fire 紀錄不代表 routine 有完成，沉默死亡只有交叉對賬才看得見
+
+- **pattern**: `routine-fire-vs-git-trace-silent-death`
+- **原則**：scheduler 的 `lastRunAt` 只證明扳機被按下；routine 真正的完成證明是 git 痕跡（commit / memory）。機器睡眠或環境層病可以讓 session 在 fire 後無聲死亡，routine-status.sh 只讀 git 所以「該來沒來的班」完全不可見，scheduler 只記扳機所以也不報異常。兩個資料源各自誠實、交叉才見屍體。偵測解法：`lastRunAt` × git log 對賬（fire 後 N 小時內無對應 tag commit → 黃燈），修復解法看死因（機器睡眠屬環境事實，能做的是讓死亡可見 + 下一班收屍）。收屍時另一半紀律：working tree 可能留著死者做完的完好工作（本次救回 translate.py 修復 + 一篇韓文翻譯），先驗屍再決定 rescue 或丟棄，不是一律 reset。
+- **觸發**：2026-07-10 morning chain 六連沉默死亡——babel（00:32 fire，改好 translate.py + 譯完 SLP ko 後 01:40 左右死亡零 commit）、embeddings（05:16）、data-refresh-am（06:01）、spore-harvest（06:46）、feedback-triage（07:01）全部「有 fire 零 git 痕跡」；僅 maintainer-am（08:35 fire）活到機器 12:40 醒來後完成。合理死因：機器睡眠窗 01:40-12:40。驗屍 + 救援紀錄：[reports/weekly-deep-review-2026-07-10.md §五](../../reports/weekly-deep-review-2026-07-10.md) + rescue commit `b614cbb7f`。
+- **instances**：
+  - 2026-07-04 twmd-rewrite-daily 19:17 scheduler fire、git 零 commit 零 memory（dna-audit 2026-07-05 §S1 首記，當時當孤例）
+  - 2026-07-10 morning chain 六連（本 entry 主觸發）
+- **可能層級**：操作規則（儀器：routine-liveness-check 對賬 → alerts）＋ 通用反射候選（「fire ≠ 完成」是 #60 silent default = silent failure 的排程層變體）
+- **相關**：REFLEXES #60（silent default = silent failure）、#70（routine fragility surface 四 tier）、#76（multi-cycle trend window）；LESSONS `cron-env-layer-4-tier-cascade-catastrophic-exhaustion`（同週環境層病的姊妹 entry，死因不同：那條是 env 毒死 backend，這條是 env 凍死 session）；進化規劃 P0-1 已排儀器
+- **verification_count**: 2
+
 ### 2026-07-08 twmd-babel-nightly — cron-env-layer-4-tier-cascade-catastrophic-exhaustion：cron 環境層在源頭 sabotage 所有 CLI-based backend
 
 - **pattern**: `cron-env-layer-4-tier-cascade-catastrophic-exhaustion`
