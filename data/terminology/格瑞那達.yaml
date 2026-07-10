@@ -1,10 +1,10 @@
-id: 乍瑞那達
+id: 格瑞那達
 category: names
 subcategory: 地名
 fork_type: B
 
 display:
-  taiwan: 乍瑞那達
+  taiwan: 格瑞那達
   china: 格林纳达
 
 notes: ''
@@ -13,4 +13,4 @@ sources:
   - 'rajatim/zhtw (MIT) — geography.json'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-07-11'

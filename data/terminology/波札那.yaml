@@ -1,10 +1,10 @@
-id: 波乍那
+id: 波札那
 category: names
 subcategory: 地名
 fork_type: B
 
 display:
-  taiwan: 波乍那
+  taiwan: 波札那
   china: 博茨瓦纳
 
 notes: ''
@@ -13,4 +13,4 @@ sources:
   - 'rajatim/zhtw (MIT) — geography.json'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-07-11'

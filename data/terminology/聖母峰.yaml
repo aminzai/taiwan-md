@@ -1,10 +1,10 @@
-id: 乍母朗瑪峰
+id: 聖母峰
 category: names
 subcategory: 地名
 fork_type: B
 
 display:
-  taiwan: 乍母朗瑪峰
+  taiwan: 聖母峰
   china: 珠穆朗玛峰
 
 notes: ''
@@ -13,4 +13,4 @@ sources:
   - 'rajatim/zhtw (MIT) — geography.json'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-07-11'

@@ -1,10 +1,10 @@
-id: 乕笨鐘
+id: 大笨鐘
 category: names
 subcategory: 地名
 fork_type: B
 
 display:
-  taiwan: 乕笨鐘
+  taiwan: 大笨鐘
   china: 大本钟
 
 notes: ''
@@ -13,4 +13,4 @@ sources:
   - 'rajatim/zhtw (MIT) — geography.json'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-07-11'

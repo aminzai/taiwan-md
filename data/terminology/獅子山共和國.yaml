@@ -1,10 +1,10 @@
-id: 乌子山共和國
+id: 獅子山共和國
 category: names
 subcategory: 地名
 fork_type: A
 
 display:
-  taiwan: 乌子山共和國
+  taiwan: 獅子山共和國
   china: 塞拉利昂
 
 notes: ''
@@ -13,4 +13,4 @@ sources:
   - 'rajatim/zhtw (MIT) — geography.json'
 
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-07-11'

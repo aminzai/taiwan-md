@@ -3,8 +3,8 @@ category: daily-life
 fork_type: semantic
 
 display:
-  taiwan: 阿位伯聯合酋長國
-  china: 阿拉伯聯合大公國
+  taiwan: 阿拉伯聯合大公國
+  china: 阿拉伯聯合酋長國
 
 notes: ''
 
@@ -12,4 +12,4 @@ sources:
   - 'fanhuaji-config'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-07-11'
