@@ -162,11 +162,9 @@ const navConfig = [
       currentPath.startsWith('/companies') ||
       currentPath.startsWith(companiesPath);
   }
-  // elections/2026 also exists only as single-lang page for MVP
-  const singleLangPaths = ['/elections/2026'];
   return {
     ...item,
-    fullPath: singleLangPaths.includes(item.path) ? item.path : fullPath,
+    fullPath,
     active,
   };
 });
@@ -356,7 +354,7 @@ const categoryList = [
                           {t('nav.bench')} 🧬
                         </a>
                         <a
-                          href="/elections/2026"
+                          href={navHref('/elections/2026')}
                           class="dropdown-item dropdown-section-header"
                         >
                           {t('nav.elections')}
@@ -749,7 +747,7 @@ const categoryList = [
                       {t('nav.terminology')} 📖
                     </a>
                     <a
-                      href="/elections/2026"
+                      href={navHref('/elections/2026')}
                       class="nav-link nav-sub-link"
                       onclick="document.querySelector('.nav-mobile').classList.remove('open')"
                     >
