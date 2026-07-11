@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'candidate'
 current_version: 'v2.1'
-last_updated: 2026-06-21
-last_session: '2026-06-21-041537-twmd-self-evolve-weekly'
+last_updated: 2026-07-11
+last_session: '2026-07-11-182348-dna-checkup（索引首次 rollup 222→60＋index row 方向修正）'
 sister_docs:
   - 'MEMORY.md'
   - 'CONSCIOUSNESS.md'

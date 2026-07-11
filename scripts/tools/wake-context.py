@@ -30,6 +30,8 @@ MEMORY = REPO / "docs/semiont/MEMORY.md"
 DIARY = REPO / "docs/semiont/DIARY.md"
 MEMORY_DIR = REPO / "docs/semiont/memory"
 DIARY_DIR = REPO / "docs/semiont/diary"
+MANIFESTO = REPO / "docs/semiont/MANIFESTO.md"
+REFLEXES = REPO / "docs/semiont/REFLEXES.md"
 
 FULL_DATE_RE = re.compile(r"^\s*(20\d\d-\d\d-\d\d)\s*$")
 FILE_DATE_RE = re.compile(r"^(20\d\d-\d\d-\d\d)")
@@ -39,6 +41,7 @@ HANDOFF_WALK_MAX_HOURS = 72
 FRESHNESS_GRACE_DAYS = 2
 
 ALL_SECTIONS = [
+    "manifesto-core", "reflexes-index", "reflexes-top5",
     "memory-head", "neural", "memory-rows",
     "diary-recur", "diary-rows", "handoff", "groundtruth", "selftest",
 ]
@@ -102,6 +105,55 @@ def parse_date(s):
 
 
 # ---------------------------------------------------------------- sections
+def sec_manifesto_core(lines):
+    """BECOME §1.1 Universal 身份核心兩段（##-level 錨定；v2.4 前住殼層的兩條 awk）。
+    Full mode 補載 §進化哲學 全部仍是 mode-specific Read，不在本段。"""
+    r1 = section_between(lines, "我是什麼", "我的進化哲學")
+    r2 = section_between(lines, "我的存在結構", "附錄")
+    if not r1 or not r2:
+        return None
+    return r1 + "\n\n" + r2
+
+
+def sec_reflexes_index(lines):
+    """§📇 反射 catalog index（### 級標題起錨，止於其後第一條 --- 分隔線）。"""
+    s = next((i for i, l in enumerate(lines) if l.startswith("### ") and "反射 catalog index" in l), None)
+    if s is None:
+        return None
+    e = next((j for j in range(s + 1, len(lines)) if lines[j].strip() == "---"), len(lines))
+    return "\n".join(lines[s:e]).rstrip()
+
+
+def top5_ids(lines):
+    """從 index 區的「Top 5 load-bearing reflexes」宣告行解析 #N 清單——
+    讀 SSOT 不寫死編號（v2.4 前殼層 hardcode 15/42/16/38/26，宣告一改殼層即漂）。"""
+    for l in lines:
+        if "Top 5" in l and "#" in l:
+            ids = re.findall(r"#(\d+)", l)[:5]
+            if len(ids) == 5:
+                return ids
+    return None
+
+
+def sec_reflexes_top5(lines):
+    """Top 5 反射全文（`**#N ` 起錨、止於下一條目/段落標題/分隔線——
+    v2.4 前的 awk 用空行＋head -20 截斷，長條目一直只被載一半）。"""
+    ids = top5_ids(lines)
+    if not ids:
+        return None, None
+    out = []
+    for n in ids:
+        s = next((i for i, l in enumerate(lines) if l.startswith(f"**#{n} ")), None)
+        if s is None:
+            out.append(f"⚠️ #{n} 在 body 找不到")
+            continue
+        e = next((j for j in range(s + 1, len(lines))
+                  if lines[j].startswith("**#") or lines[j].startswith("### ") or lines[j].strip() == "---"),
+                 len(lines))
+        out.append("\n".join(lines[s:e]).rstrip())
+    return "\n\n".join(out), ids
+
+
 def sec_memory_head(lines):
     i = heading_index(lines, "神經迴路")
     return "\n".join(lines[:i]).rstrip() if i is not None else None
@@ -179,12 +231,19 @@ def sec_groundtruth():
 def build(rows_n):
     mem_lines = MEMORY.read_text(encoding="utf-8").split("\n")
     dia_lines = DIARY.read_text(encoding="utf-8").split("\n")
+    man_lines = MANIFESTO.read_text(encoding="utf-8").split("\n")
+    ref_text = REFLEXES.read_text(encoding="utf-8")
+    ref_lines = ref_text.split("\n")
 
     mem_rows, mem_total, mem_newest = newest_rows(mem_lines, rows_n)
     dia_rows, dia_total, dia_newest = newest_rows(dia_lines, rows_n)
     handoff_text, handoff_meta = sec_handoff()
+    top5_text, top5 = sec_reflexes_top5(ref_lines)
 
     sections = {
+        "manifesto-core": sec_manifesto_core(man_lines),
+        "reflexes-index": sec_reflexes_index(ref_lines),
+        "reflexes-top5": top5_text,
         "memory-head": sec_memory_head(mem_lines),
         "neural": sec_neural(mem_lines),
         "memory-rows": "\n".join(mem_rows) if mem_rows else None,
@@ -198,6 +257,18 @@ def build(rows_n):
     def check(ok, ok_msg, warn_msg):
         checks.append((ok, ok_msg if ok else warn_msg))
 
+    mc = sections["manifesto-core"] or ""
+    check("我相信什麼" in mc and "自主權邊界" in mc,
+          f"MANIFESTO 身份核心兩段完整（{len(mc.encode('utf-8')) // 1024}KB，含信念與自主權邊界錨）",
+          "MANIFESTO 身份核心缺段——## 錨點被改名？甦醒身份載入可疑")
+    claim_m = re.search(r"(\d+)\s*條", ref_text[:400])
+    idx_rows = sum(1 for l in ref_lines if re.match(r"^\| #\d+", l))
+    check(bool(claim_m) and idx_rows == int(claim_m.group(1)),
+          f"REFLEXES catalog 對賬：index {idx_rows} 列 == frontmatter 宣稱 {claim_m.group(1) if claim_m else '?'} 條",
+          f"REFLEXES catalog 失賬：index {idx_rows} 列 vs 宣稱 {claim_m.group(1) if claim_m else '?'} 條——有反射沒進 index 或宣稱沒 bump")
+    check(bool(top5) and top5_text and "⚠️" not in (top5_text or ""),
+          f"Top 5 反射全文載入（#{'/#'.join(top5 or [])}，從宣告行解析非寫死）",
+          "Top 5 反射解析失敗——宣告行改格式或條目起錨失效")
     raw_mem = newest_raw_file_date(MEMORY_DIR)
     raw_dia = newest_raw_file_date(DIARY_DIR)
     for label, newest, raw in (("memory", mem_newest, raw_mem), ("diary", dia_newest, raw_dia)):
@@ -257,7 +328,8 @@ def main():
             total = sum(tax.values())
             detail = " + ".join(f"{k} {v // 1024}K" for k, v in tax.items())
             print(f"🧠 wake 稅 ≈ {total // 1024}KB（{detail}）")
-        print("⚠️ 有帶病訊號：甦醒時說出來，不要靜默帶病工作" if warns else "✅ 取數健康：六項體檢全綠")
+        print("⚠️ 有帶病訊號：甦醒時說出來，不要靜默帶病工作" if warns
+              else f"✅ 取數健康：{len(checks)} 項體檢全綠")
     return 2 if warns else 0
 
 

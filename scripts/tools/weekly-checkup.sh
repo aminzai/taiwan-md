@@ -15,7 +15,7 @@
 #   e. 佇列與承諾稽核（OBSERVER-QUEUE default-action 過期 + inbox 飽和 + roadmap P0 領取）
 #   f. 外部感測數據摘要（GA / SC / CF / AI crawler / fork / supporters）
 #   g. 運作紀錄週成績單（7 天 per-routine fire 數 + 最後一跑 + commit 數）
-#   h. 甦醒取數健康（wake-context --check 六項體檢——索引新鮮度/段落完整/handoff 命中）
+#   h. 甦醒取數健康（wake-context --check——身份層錨驗/catalog 對賬/索引新鮮度/handoff 命中）
 #
 # 用法：bash scripts/tools/weekly-checkup.sh [--days 7]
 # 前置：live dump 要新鮮（section a 會自己標 dumpStale；stale 就先跑
@@ -234,7 +234,7 @@ PYEOF
 
 # ── h. 甦醒取數健康 ───────────────────────────────────────────────────
 echo ""
-echo "## h. 甦醒取數健康（wake-context 六項體檢；⚠️ = 甦醒讀到的近況可疑，優先修）"
+echo "## h. 甦醒取數健康（wake-context 體檢；⚠️ = 甦醒讀到的東西可疑，優先修）"
 python3 scripts/tools/wake-context.py --check 2>/dev/null | grep -vE '^═|^$' | sed 's/^/  /' || echo "  ⚠️ wake-context 工具失敗——甦醒取數裸奔中，第一優先修"
 
 echo ""

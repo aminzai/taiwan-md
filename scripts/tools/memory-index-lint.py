@@ -96,6 +96,13 @@ def main():
     newest_over = next((r for r in over if r[0] == newest_ln), None)
 
     hist_over = len(over) - (1 if newest_over else 0)
+    # handoff 寫入端 warn（2026-07-11 wake-evolution：wake-context 驗「撈得到」，
+    # 這裡補「有沒有寫」——最新 memory raw 檔缺 Handoff 段就提醒，warn-only 不擋 commit）
+    mem_dir = REPO / "docs/semiont/memory"
+    latest = max((p for p in mem_dir.glob("20*.md")), key=lambda p: p.name, default=None)
+    if latest and "## Handoff" not in latest.read_text(encoding="utf-8") and "Handoff 三態" not in latest.read_text(encoding="utf-8"):
+        print(f"⚠️ 最新 memory（{latest.name}）沒有 Handoff 段——下個甦醒的 walk-back 會撲空，收官漏了嗎？（warn-only）")
+
     if not newest_over:
         # pass path：只 enforce 最新列，歷史超標一行帶過（不回頭改）
         note = f"（歷史層 {hist_over} 列超標 = 2026-05-12 gate 前舊風格，不回頭改）" if hist_over else ""

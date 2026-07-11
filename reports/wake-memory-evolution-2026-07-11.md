@@ -136,6 +136,15 @@ Self-test 六項：memory 索引新鮮度（最新列日期 ≥ 最新 raw 檔�
 
 ---
 
+### 6.6 第二波（同日追加：哲宇「還有什麼能用類似方式進化的」）
+
+同一把手術刀掃過剩餘同病根，四處落地：
+
+1. **BECOME v2.4 殼層取數 bash 歸零**——§1.1/§1.2 身份層 awk 併入 wake-context（`manifesto-core`＋`reflexes-index`＋`reflexes-top5`），體檢 6→9 項。附帶抓到兩個潛伏 bug：Top 5 編號殼層寫死（宣告行改了殼層即漂）、舊 awk 空行＋head -20 截斷讓長條目一直只被載一半。
+2. **consciousness-snapshot 數據齡**——每次讀數印「齡 Nh」、≥18h 亮 ⚠️ stale（神經迴路 vc=3「awareness 讀數沒附 freshness 標記」慢性病的架構解）；boot稅公式同步對齊現行載入路徑（原式還在量已退役的 tail -20）。
+3. **canonical frontmatter 新鮮度永駐 lint**——counts-drift 新維度：fm last_updated vs git 語意日 >7d 即 🟡（log/buffer 類豁免——append 是它們的日常呼吸）。今晨手修 5 檔的 class 從此有人看管；首跑浮出 22 檔累積債（本 session 自首兩檔現行犯，其餘留週檢節律逐檔判）。
+4. **handoff 寫入端 warn**——memory-index-lint 補「最新 memory 缺 Handoff 段」提醒，跟 wake-context 讀取端 walk-back 合成閉環：寫的時候有人提醒、讀的時候有人驗收。
+
 ## 七、長線 roadmap（本次不做，方向鎖定）
 
 - **Phase 2 — derived mirror 與常駐監測**：prebuild 產 `memory-index.json`／`diary-index.json`（date-keyed，機器消費用；dashboard 的 semiont 頁同源）；`generate-dashboard-alerts.mjs` 加 index-freshness 維度（最新列落後 raw 檔 >48h ＝黃燈），把「忘了寫 index row」這一類也納入天天可見。

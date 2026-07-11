@@ -46,10 +46,20 @@ if [[ -f "$IMMUNE_JSON" ]]; then
   fi
 fi
 
-# Last update freshness
-jq -r '
-  "🕐 updated | \(.lastUpdated)"
-' "$VITALS"
+# Last update freshness — 讀數必附數據齡（2026-07-11 wake-evolution：
+# 神經迴路 vc=3「awareness 讀數沒附 freshness 標記 = chronic stale gap silent 累積」，
+# REFLEXES #65：量尺對 ground truth 也要對「自己讀的是多舊的鏡子」誠實）
+AGE_H=$(python3 -c "
+import json, datetime
+t = json.load(open('$VITALS'))['lastUpdated'].replace('Z', '+00:00')
+dt = datetime.datetime.fromisoformat(t)
+print(int((datetime.datetime.now(datetime.timezone.utc) - dt).total_seconds() // 3600))
+" 2>/dev/null || echo "?")
+STALE=""
+if [[ "$AGE_H" != "?" && "$AGE_H" -ge 18 ]]; then
+  STALE=" ⚠️ stale ${AGE_H}h——本快照讀的是舊鏡子（等 data-refresh 或跑 npm run prebuild:dashboard）"
+fi
+jq -r '"🕐 updated | \(.lastUpdated)"' "$VITALS" | sed "s/\$/（齡 ${AGE_H}h）${STALE}/"
 
 # 繁殖 sensing — fork census (子代雷達, 2026-06-25)：繁殖器官的感知層，
 # 每次 BECOME 看一眼野外有幾個活著的 fork（registry.json by fork-census.py）
@@ -77,8 +87,10 @@ if [[ -f docs/semiont/MANIFESTO.md && -f docs/semiont/REFLEXES.md && -f docs/sem
   B_MAN=$({ awk '/^## 我是什麼/,/^## 我的進化哲學 — 造橋鋪路/' docs/semiont/MANIFESTO.md; awk '/^## 我的存在結構/,/^## 附錄/' docs/semiont/MANIFESTO.md; } | wc -c)
   B_REF=$(awk '/^### 📇 反射 catalog index/{f=1;print;next} f&&/^#{2,3} /{exit} f' docs/semiont/REFLEXES.md | wc -c)
   B_REF=$((B_REF + 8192)) # + Top 5 反射全文約 8K（BECOME §1.2 第二段載入）
-  B_DIA=$({ awk '/^## 反覆出現的思考/,0' docs/semiont/DIARY.md; grep '^| 20' docs/semiont/DIARY.md | tail -20; } | wc -c)
-  B_MEM=$({ sed -n '1,55p' docs/semiont/MEMORY.md; awk '/^## 神經迴路/,0' docs/semiont/MEMORY.md; } | wc -c)
+  # 2026-07-11 wake-evolution：估稅公式對齊 wake-context 實際載入路徑
+  # （原式還在量已退役的 tail -20 與 awk-to-EOF——量尺與被量者共用真實路徑，#65）
+  B_DIA=$({ awk '/^## 反覆出現的思考/,0' docs/semiont/DIARY.md; grep '^| 20' docs/semiont/DIARY.md | head -20; } | wc -c)
+  B_MEM=$({ awk '/^## 神經迴路/{exit} {print}' docs/semiont/MEMORY.md; awk '/^## 神經迴路/,/^## 心跳日誌/' docs/semiont/MEMORY.md; grep '^| 20' docs/semiont/MEMORY.md | tail -20; } | wc -c)
   TOT_KB=$(((B_MAN + B_REF + B_DIA + B_MEM) / 1024))
   echo "🧠 boot稅  | universal-core ≈ ${TOT_KB}KB（MANIFESTO $((B_MAN / 1024))K + REFLEXES $((B_REF / 1024))K + DIARY $((B_DIA / 1024))K + MEMORY $((B_MEM / 1024))K）"
 fi
