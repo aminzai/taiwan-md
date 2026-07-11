@@ -317,3 +317,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-11 | 182348-dna-checkup | DNA 健檢（42→2 零新編號、三量尺同病、QUEUE 對賬）＋goal 追加：wake-context 儀器誕生、BECOME v2.4 殼層取數 bash 歸零、DIARY 索引 222→60、frontmatter 漂移 lint | 量尺與被量者共用真實路徑；取數住儀器不住殼，撈錯要會叫 | [→](memory/2026-07-11-182348-dna-checkup.md) |
 | 2026-07-11 | 231022-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 15.6% vc=5 首度跌破 16%；免疫 60 tick #3；vitals 847 & contributors 66（ellenlee 入列）；`eb0a67d7e` | AI crawler 稀釋 404 分母；儀器連三 session 全綠 | [→](memory/2026-07-11-231022-twmd-data-refresh-pm.md) |
 | 2026-07-12 | 005133-twmd-babel-nightly | 4-tier cascade 全滅（雲端四支＋fleet＋ollama 壞 frontmatter）；Tier 0b backfill 25 篇 `b590be002` | 義務是跑到 cascade 真的死光；備用工具災難情境變主力 | [→](memory/2026-07-12-005133-twmd-babel-nightly.md) |
+| 2026-07-12 | 011057-twmd-news-lens-weekly | W28 首份週報 `reports/news-lens/2026-07-12-w28.md`；出口 disabled 走 v2.6 分支 propose 0；三源掃 5 條熱點 | 上游 fire 產出物只落 report 不進 INBOX；魏哲家 = ARTICLE gap | [→](memory/2026-07-12-011057-twmd-news-lens-weekly.md) |
