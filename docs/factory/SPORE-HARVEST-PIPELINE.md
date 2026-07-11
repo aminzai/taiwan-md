@@ -461,6 +461,7 @@ javascript_tool: |
 
 - 5/28 06:30 spore-harvest #92 大宇雙劍 D+2 reply：第一次 click 發佈 button 沒觸發 React PointerEvent handler，後續 dispatchEvent + Cmd+Enter + computer.left_click 多次 retry，**Chrome MCP query 回的 dialog `STILL_OPEN` state 是 cached** → 誤判前次 post 失敗 → 每次 retry 真的成功 post → 同個 reply ship 3 次（`DY2_rWQE0oi` 06:33 / `DY2_uNqExf*` 06:34 / `DY2_xybk8Bi` 06:34）。手動 navigate 到後兩個 URL → overflow menu → 刪除 → 確認，保留最早 ship 的 `DY2_rWQE0oi`
 - **根因**：Threads 發佈 button 是 React PointerEvent handler，synthetic event 跟 MouseEvent dispatch 都會 register；retry-loop 變多次成功 post。Dialog state query 走 Chrome MCP cached state 不反映即時 DOM。
+- **鏡像 case（2026-06-25 #150 vc=2）**：反方向同根因——post 後去 **profile feed** 連刷三次找不到新貼文，誤判「沒發成功」差點重發整則（實際秒發成功，feed 有 propagation / cache lag）。兩案合起來的鐵律：**post-ship verify 驗證對象只能是 canonical post URL 本身**，dialog state 與 profile feed 列表都不可靠——一個 cached 說「還開著」、一個 lag 說「不存在」，信哪個都會重發。
 - **Fix（hard rule）**：post 後 verify **不可**用 `STILL_OPEN` / dialog visible state 當 "post failed" 判斷。改用 **latest reply timestamp diff**：
   ```js
   // ✅ 正確 verify pattern

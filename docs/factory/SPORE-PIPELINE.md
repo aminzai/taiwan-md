@@ -619,7 +619,7 @@ fi
    - **圖片先進剪貼簿**：`osascript -e 'set the clipboard to (read (POSIX file "{square 配圖絕對路徑}") as «class PNGf»)'`
    - **X**：navigate x.com → compose → Cmd+V 貼圖 → 輸入文案 + inline「完整故事 👉 {X UTM URL}」→ AI 自 click Post button
    - **Threads**：navigate threads.net → 新串文 → 第一則 Cmd+V 貼圖 + 輸入文案 → 點「新增到串文」→ 第二則輸入「完整故事 👉 {Threads UTM URL}」→ AI 自 click「發佈」
-5. **發文後自行擷取 post URL + post-ship verify**：navigate 到 @taiwandotmd profile → JS query 最新 post href → navigate post URL → JS read 5 條 verify（textHasHook / textHasQuote / textHasCloseLine / imageCount ≥ 1 / UTM 留痕，per [SOCIAL-POSTING-PIPELINE §AI post-ship verify](../pipelines/SOCIAL-POSTING-PIPELINE.md)）。任一 FAIL 立即 report observer，不沉默 silent ship
+5. **發文後自行擷取 post URL + post-ship verify**：navigate 到 @taiwandotmd profile → JS query 最新 post href → navigate post URL → JS read 5 條 verify（textHasHook / textHasQuote / textHasCloseLine / imageCount ≥ 1 / UTM 留痕，per [SOCIAL-POSTING-PIPELINE §AI post-ship verify](../pipelines/SOCIAL-POSTING-PIPELINE.md)）。任一 FAIL 立即 report observer，不沉默 silent ship。**Profile feed 有 propagation lag**（2026-06-25 #150 實證：feed 連刷三次含 hard reload 都沒有新貼文，實際秒發成功）——feed 找不到 ≠ 發布失敗；dialog 正常關閉 ≈ 已成功，**先不判失敗、絕不重發**（SPORE-HARVEST Pitfall 6 鏡像：兩案同根因都是 post-ship verify 驗錯對象）。等 feed 出現或改由發布回跳取 canonical post URL，拿到 post URL 驗才算 verify pass
    - X URL 格式：`https://x.com/taiwandotmd/status/{status_id}`
    - Threads URL 格式：`https://www.threads.com/@taiwandotmd/post/{post_code}`
 6. 登錄 identity 到 `spore-log.json`（**URL 必填**；Threads 記主貼 URL）— 2026-06-10 起走 CLI，不寫凍結的 SPORE-LOG.md：
