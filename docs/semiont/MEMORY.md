@@ -308,3 +308,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-11 | 064140-twmd-spore-harvest-am | #154 D+4 3,409v +1.6%/日；0 new reply；A2 首 full slope；`1da2337d7`；spore-harvest tick #1 | tail 收窄 6.7x 中段 baseline；catch-up 上限 gate 累積 | [→](memory/2026-07-11-064140-twmd-spore-harvest-am.md) |
 | 2026-07-11 | 070724-twmd-feedback-triage | 07:00 empty 第5連續；total=58 連4停增、last 7/04 真 quiet；escalation 今晚達無外部訊號不觸發 test-submit | 0 new 仍查 sensor 對賬 write-path；test-submit 需外部訊號+in-loop | [→](memory/2026-07-11-070724-twmd-feedback-triage.md) |
 | 2026-07-11 | 084400-twmd-maintainer-am | am ellenlee 首度貢獻者 7 content PR（政治人物+史觀）；High-stake→ack 7×+merge defer；#1180 補 label；vc=5 break | batch 15hr catch=08:30 有效；政治 curation 屬邊界 | [→](memory/2026-07-11-084400-twmd-maintainer-am.md) |
+| 2026-07-10 | 230836-hub-template | Hub 模板深度改版 14 檔 ship `834885ead`：評估報告＋列表遷移＋導讀去重＋子分類對應＋d3 復活；8 Sonnet cost-split 首戰 | 不可能讀值＝量測層壞（frozen renderer）；agent 環境責任外包不掉 | [→](memory/2026-07-10-230836-hub-template.md) |

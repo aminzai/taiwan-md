@@ -314,6 +314,24 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-11 hub-template — frozen-renderer-measurement-artifact：隱藏分頁的 computed style 凍在舊值，「物理不可能的讀值」是量測層壞掉的指紋
+
+- **pattern**: `frozen-renderer-measurement-artifact`
+- **原則**：瀏覽器對 hidden／occluded 分頁凍結 renderer 後，該分頁**既有元素**的 getComputedStyle／computedStyleMap／iframe 讀值全部停在凍結前快取，連 inline `style="color:X !important"` 都讀不回設定值。判定法兩步：(1) 新建元素讀值正常、既有元素異常 → 問題在快取層不在 CSS；(2) 出現「物理不可能」的結果（inline !important 不生效）→ 結論必為量測層壞掉，不是產品 bug，在壞掉的量測層上繼續 debug 產品＝燒 token 追鬼。此時可信裁決只剩可見分頁的真實 paint（截圖；CDP timeout「renderer may be frozen」即是確診訊息）或退回決定性驗證鏈：原始碼規則＋built bundle 內容＋一次可見分頁實測——cascade 是決定性系統，三者成立結論即成立。
+- **觸發**：2026-07-11 hub-template production 驗證。dark-mode 修復在 dev 可見分頁實測通過（rgb(241,245,249)），production preview 隱藏分頁連續五種讀法（getComputedStyle／matches／Typed OM／iframe／inline !important）全部回報 light-mode 舊值，最後 CDP screenshot timeout「The renderer may be frozen」揭盅。中途一度誤判為 @layer cascade 問題，追了六輪 CSSOM 考古。
+- **instances**：首次記錄（近親：#24「工具在說謊的 8 種形式」——本條是「量測環境在說謊」的瀏覽器 renderer 特例）
+- **可能層級**：REFLEXES #24 family 延伸 sub-clause
+- **verification_count**: 1
+
+### 2026-07-11 hub-template — agent-environment-side-effect：sub-agent 的環境層副作用是 #31 三類 claim 之外的第四類重驗對象
+
+- **pattern**: `agent-environment-side-effect`
+- **原則**：#31 講 side-effect／factual／self-quality 三類 claim 要重驗，但 agent 為完成任務對**共享環境**做的變更（裝套件、換 symlink、起停 server、佔 port）不會出現在產出 claim 裡，只在 deviation 披露或事後爆炸時現身。修法兩端：agent prompt 對環境動作給 explicit 邊界（禁 npm install／禁起停 server，需要工具先回報）；主 session 驗收層把「環境有沒有被動過」列入檢查（node_modules 是 symlink 還是實體、port 佔用、多出來的 process）。誠實披露 deviation 的 agent 是好 agent，但**披露不等於無害**——驗收層要有還原能力（本例：`rm node_modules && ln -s` 回主樹一步復原）。
+- **觸發**：2026-07-11 hub-template。T1 agent 為裝型別檢查工具 `npm install --no-save` 把 worktree 的 node_modules symlink 換成實體副本，版本飄移讓全站 build 在 tailwind/rolldown 內部炸掉（還原 symlink 後全綠）；T4b agent 判定 4327 沒 server 便自起 `npx astro dev`，與主 session 的 preview server 管理相撞。兩件都有誠實披露、也都靠驗收層攔下。
+- **instances**：首次記錄（同 session 兩例）
+- **可能層級**：REFLEXES #31 family 第四類 sub-clause 候選
+- **verification_count**: 1
+
 ### 2026-07-10 elections-refresh finale — index-lint-validates-wrong-row-end：量尺假設的排序方向跟被量檔案的實際慣例相反，gate 出廠起就在驗最舊的一列
 
 - **pattern**: `index-lint-validates-wrong-row-end`
