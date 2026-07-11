@@ -5,7 +5,7 @@ mode: micro
 type: routine
 duration: ~5min
 commits:
-  - (pending) 🧬 [routine] data-refresh-am: 14-step ground truth refresh — 2026-07-12 am
+  - 9d96bd596 🧬 [routine] data-refresh-am: 14-step ground truth refresh — 2026-07-12 am
 outcome: 14-step 全綠 / CF 404 15.46% vc=6 續探底（-0.14pt from 昨 pm 15.6%，六 cycle monotonic）/ 免疫 60 v2 baseline tick #4 / freshness gate PASS 12/12 dashboard JSON 全今日 mtime / vitals 847 & contributors 66 穩住（沒退列）/ AI crawler 136K → 137.7K +1.3K 續推分母
 ---
 
