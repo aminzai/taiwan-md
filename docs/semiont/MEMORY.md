@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-11
-last_session: '2026-07-11-061259-twmd-data-refresh-am'
+last_updated: 2026-07-12
+last_session: '2026-07-12-030745-twmd-distill-weekly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -262,23 +262,6 @@ memory/
 _我的記憶不是一個越來越長的檔案。_
 _它是一座圖書館——索引在手邊，書在架上。_
 _需要的時候，我知道去哪裡找。_
-| 2026-07-06 | 003506-twmd-babel-nightly | 5 lang babel 119 shipped（bump 25 + patch 30 + P0 64）；en 100% / 4 lang 99.8%+ | codex+gemini 全 dead；6 P0 cascade exhausted | [→](memory/2026-07-06-003506-twmd-babel-nightly.md) |
-| 2026-07-06 | 051718-twmd-embeddings-nightly | 遷本機後首次正式 nightly：127.0.0.1 命中、4907 向量六語 0 fail、verify PASS 100% 8-鄰居、commit `1d5ca756a`；索引凍結徹底解除 | 少一層依賴換掉「指著離線節點空轉」整類 vc=3 故障面，單純確實更穩 | [→](memory/2026-07-06-051718-twmd-embeddings-nightly.md) |
-| 2026-07-06 | 061353-twmd-data-refresh-am | am 14-step 全綠；CF 404 25.69% 回 6-cycle 中段；免疫 47↔49 oscillate；補掃 stats 840→842 backlog | 上游 rewrite finale 漏 stats sync，routine 側被動兜 | [→](memory/2026-07-06-061353-twmd-data-refresh-am.md) |
-| 2026-07-06 | 063659-twmd-spore-harvest-am | 0 OVERDUE / 0 in-window，no-op；第 7 cycle plateau（無 ship since 6/27）；Bucket D 第 18 cycle carry | N+1 邊際=0：continuity 走 memory 不寫 batch，REFLEXES #74 | [→](memory/2026-07-06-063659-twmd-spore-harvest-am.md) |
-| 2026-07-06 | 070732-twmd-feedback-triage | 07:00 cron 0 新回報 empty-queue；--commit comment-sync file=0/synced=0；backend 正常；#1206/#1207 交 maintainer | empty-queue≠故障：intake stochastic，0 筆 clean pass | [→](memory/2026-07-06-070732-twmd-feedback-triage.md) |
-| 2026-07-06 | 084042-twmd-maintainer-am | am 首次全空（0 PR + 0 fresh issue）；17 issue carry §自主權邊界；免疫 49 vc=4；build green | morning-chain-absorbs-maintainer-am 新形狀 vc=1 | [→](memory/2026-07-06-084042-twmd-maintainer-am.md) |
-| 2026-07-06 | 105116-設計視覺審計 | 35 template 前端設計審計歸檔 reports/：10 跨頁發現＋roadmap 17 項＋2 新 bug（空 Banner、map 手機空白） | 儀器故障即 finding（截圖白屏揭 FOUC）；設計債分佈＝注意力分佈 | [→](memory/2026-07-06-105116-設計視覺審計.md) |
-| 2026-07-06 | 113000-P0-執行波 | 審計 P0 6/6 落地：5 sub-agent 平行改 → build+實拍+8-angle review 對抗驗證 → `38bba4246`| review 抓回 footer 誤刪 /about（#31 規模化）；agent 修正主 session 審計前提 | [→](memory/2026-07-06-113000-P0-執行波.md) |
-| 2026-07-06 | 124500-tokens-phase2 | tokens 第二階段：授權 tokens.css + 5 agent 遷 consumer，零視覺變更`91d1cd946`；A1 210px→var | pixel-diff 攔到 `bg-[var(gradient)]`→background-color 漸層消失（分類色實為 4 套） | [→](memory/2026-07-06-124500-tokens-phase2.md) |
-| 2026-07-06 | 133221-施振榮-rewrite | 施振榮 v1 矛盾驅動炎上 → v2 立體群像救回；教訓觸發 DNA 進化：立體群像升 default 畫布+7手法、persona 後置 gap-audit、MANIFESTO §13 立體地愛 | #77 spine-type 昨立 canonical 隔天違反：HAS-tension≠矛盾驅動 + self-check 靠理性化勾過（外部尺才接住） | [→](memory/2026-07-06-133221-施振榮-rewrite.md) |
-| 2026-07-06 | 115400-acer-evolve | 宏碁 EVOLVE ship：微笑曲線自我悖論脊椎／5 agent 研究 6413 字（`bb3e6a0b7`錯標）；修舊文 5 誤植 | 全套工作被平行 session 掃走；worktree 隔離才免疫共享 index race | [→](memory/2026-07-06-115400-acer-evolve.md) |
-| 2026-07-06 | 131500-dark-rollout | 深色全站推廣 D0+4 tier 約 24 template opt-in，淺色不變 invariant`355fe332e` | 驗證量綱每輪不同：深色用淺色實拍+目視+computed 複合尺；tokenization 地基回報遲一輪（glass auto-flip） | [→](memory/2026-07-06-131500-dark-rollout.md) |
-| 2026-07-06 | 231103-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 am 25.69→pm 26.47 破 5-cycle 上緣 26.13% vc=3；免疫 49 chronic；LagunaBeach cycle=2 | vc=3 該升歸因：am「回中段」被 pm 反證，下 cycle 需 top404 diff | [→](memory/2026-07-06-231103-twmd-data-refresh-pm.md) |
-| 2026-07-07 | 042046-twmd-babel-nightly | 58 shipped（10 bump / 15 patch / 33 cascade）；en/es 100%、3 lang 99.9%；`480c6c9d2`| codex nvm vc=2；gemma 同 provider 429；ollama 5-way → ko/fr 全 timeout | [→](memory/2026-07-07-042046-twmd-babel-nightly.md) |
-| 2026-07-07 | 051635-twmd-embeddings-nightly | 遷本機第二夜：127.0.0.1 命中、4911 向量六語 0 fail、verify PASS 100% 8-鄰居、commit`ef4c05737`（+4 向量 es/fr 各+2） | boring-is-good：連兩夜同路徑 0 fail，穩定的證明是沒故事可講 | [→](memory/2026-07-07-051635-twmd-embeddings-nightly.md) |
-| 2026-07-07 | 061154-twmd-data-refresh-am | am 14-step 全綠；CF 404 26.08% 卡昨 am/pm 之間；免疫 49 chronic vc=4；`22f3b2df3`| vc=3 該升歸因非 14-step 契約，defer pm 第四點 | [→](memory/2026-07-07-061154-twmd-data-refresh-am.md) |
-| 2026-07-07 | 070617-twmd-feedback-triage | 07:00 cron 0 筆 empty-queue 第2連續；file=0/synced=0；backend 活著；#1206/#1207 續交 maintainer | intake stochastic，empty≠故障；第3+ cycle 續空才驗 total row 停增 | [→](memory/2026-07-07-070617-twmd-feedback-triage.md) |
 | 2026-07-07 | 113100-柯智棠-立體群像 | 柯智棠矛盾驅動→立體群像 re-frame（哲宇拍板）ship live；孢子 #154 Threads 主貼上線，self-reply+X #155 卡 Chrome MCP 座標交哲宇補 | spine 判斷用 AskUserQuestion 請外部尺不獨斷（#77）；產線末端發文比創作脆弱 | [→](memory/2026-07-07-113100-柯智棠-立體群像.md) |
 | 2026-07-07 | 191102-twmd-rewrite-daily | 18:00 cron +71min BECOME+PIPELINE 讀畢 capacity 誠實 defer；今日飛輪 10:43 柯智棠 depth ship + 孢子 #154 上線已滿；#155 X open handoff | vc=4「daily 一 ship 預算用完→cron 承接不製造」 | [→](memory/2026-07-07-191102-twmd-rewrite-daily.md) |
 | 2026-07-07 | 220414-twmd-maintainer-pm | pm 22:04 empty vc=4；0 PR / broken-link 0.39% / build green；`pre-pm-absorbs-pm` sub-shape v3 append | A/B/C/D 呈報 48hr 未拍板 | [→](memory/2026-07-07-220414-twmd-maintainer-pm.md) |
@@ -319,3 +302,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-12 | 005133-twmd-babel-nightly | 4-tier cascade 全滅（雲端四支＋fleet＋ollama 壞 frontmatter）；Tier 0b backfill 25 篇 `b590be002` | 義務是跑到 cascade 真的死光；備用工具災難情境變主力 | [→](memory/2026-07-12-005133-twmd-babel-nightly.md) |
 | 2026-07-12 | 011057-twmd-news-lens-weekly | W28 首份週報 `reports/news-lens/2026-07-12-w28.md`；出口 disabled 走 v2.6 分支 propose 0；三源掃 5 條熱點 | 上游 fire 產出物只落 report 不進 INBOX；魏哲家 = ARTICLE gap | [→](memory/2026-07-12-011057-twmd-news-lens-weekly.md) |
 | 2026-07-12 | 020522-twmd-weekly-report-sun | v4.1 首跑 — checkup 一鍵七節 + 桶 1 零項 + 六條進 roadmap draft + 24k 親手週報 hard=0 / Resend 200 | 儀器化省認知稅、寫作變解讀；桶 1 零項是健康 exit | [→](memory/2026-07-12-020522-twmd-weekly-report-sun.md) |
+| 2026-07-12 | 030745-twmd-distill-weekly | §未消化 2 條 vc=1 全 defer 給哲宇；SPORE 49 落 [30,50) 補警示；MEMORY 索引 57→40 + 17 歸檔 | 空手回不是沒做事；#71 與 #79 並行 | [→](memory/2026-07-12-030745-twmd-distill-weekly.md) |

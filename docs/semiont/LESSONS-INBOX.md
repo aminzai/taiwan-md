@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
-last_updated: 2026-07-11
-last_session: '2026-07-11-182348-dna-checkup'
+last_updated: 2026-07-12
+last_session: '2026-07-12-030745-twmd-distill-weekly'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -353,6 +353,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：reports/strategic-evolution-deep-research-2026-05-09.md §4.2 + §6.6 + §7.3 + §11 critical 決策 #1（Substack newsletter 要不要做）
 - **verification_count**: 1
 - **severity**: strategic（影響 Taiwan.md 長期 sustainability 路徑）
+
+---
+
+### 2026-07-12 twmd-distill-weekly — SPORE-INBOX 容量警示 pending=49 逼近 auto-drop 閾值
+
+- **pattern**: `spore-inbox-capacity-warning`（buffer 蓄水位 audit）
+- **原則**：SPORE-INBOX pending count 落 [30, 50) 警示區間，routine 依 §SPORE-INBOX 容量 audit v2.1 SOP 記錄一次警示訊號；下一次 distill cycle 若 ≥ 50 觸發 auto-drop SOP（最舊 5 條 P2/P3 未被 promote routine-added entries）。
+- **觸發**：2026-07-12 W28 twmd-distill-weekly Sunday routine — `awk` pending 掃描回報 49 條（55 個 `###` header 減去區塊分隔）。相對於上一次 SPORE-INBOX 容量事件（6/21 pending=44 bump vc→2、7/05 auto-drop 5 entry 從 54→49），本輪維持在 [30, 50) 高原沒退回、也沒突破 50。
+- **可能層級**：操作規則 → 只是 audit signal，非新反射
+- **相關**：docs/semiont/LESSONS-INBOX.md §SPORE-INBOX 容量 audit（v2.1）/ 7/05 twmd-distill-weekly §已消化 entry (auto-drop 5 → 49) / SPORE-INBOX §Auto-heartbeat
+- **verification_count**: 1
+- **severity**: tactical（buffer 蓄水位訊號，不傷生命徵象）
+- **defer 給觀察者**：否 — routine 自決層 audit log；下次 cycle 觸發 auto-drop 亦屬 §SPORE-INBOX safe-destructive SOP 自主權範圍
 
 ## ✅ 已消化（保留 pointer）
 
