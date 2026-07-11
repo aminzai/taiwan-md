@@ -29,9 +29,6 @@ rationale:
 
 > **30-second overview:** Freddy Lim (林昶佐) is the lead vocalist of Chthonic, one of the early initiators of Megaport Festival, a former chair of Amnesty International Taiwan, and one of the most visible figures of Taiwan’s post-Sunflower third-force politics entering parliament. Chthonic wrote the 228 Incident, the White Terror, the Wushe Incident, Taiwanese mythology, and ghost narratives into black metal, making Taiwan’s history not only something to read, but something to hear and scream out loud. Lim later helped found the New Power Party, was elected to the Legislative Yuan, left the party, survived a recall vote, and after leaving office became Taiwan’s representative to Finland. Politics was his adventure; Chthonic remains his body.
 
-![Freddy Lim in 2012 as Chthonic’s vocalist, with long hair and black clothing, retaining the stage presence of a metal musician](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg)
-_Freddy Lim, 2012. The stage identity of vocalist Freddy later extended into parliament and diplomatic work. Photo: Hyw83516, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))._
-
 Putting Freddy Lim into one identity almost always distorts him. In 2017, _The New York Times_ entered his legislative office and saw electronic drums, a David Bowie poster, and photographs of Chthonic performing at Liberty Square. In 2022, Germany’s _Der Tagesspiegel_ saw a similar mixture: a “Free Tibet” image signed by the Dalai Lama, a rainbow flag, a David Bowie portrait, and Chthonic concert photos. Those objects form a cross-section of identity: metal frontman, music-festival initiator, human-rights advocate, third-force politician, legislator, recall-vote target, family caregiver, and later Taiwan representative to Finland.[^5][^6][^11][^12][^13][^14][^15][^16]
 
 These identities crowd into the same person, which is why Lim’s story is more than the contrast of “musician enters politics.” Lim did not leave Chthonic behind and then go into politics. His public identity grew from the way his music handled Taiwan’s history, languages, and sense of sovereignty. Before he sat in committee rooms or defeated long-established politicians, the person screaming Taiwan’s ghosts onstage was already searching for a voice for his time.
@@ -55,8 +52,11 @@ Lim’s stage persona is not decorative. His screams, erhu, corpse paint, joss p
 
 When Lim later talked about Taiwanese Hokkien, he said it helped him imagine how his grandparents lived when they were young. This is an important clue: Chthonic’s Taiwanese Hokkien metal carries Taiwanese experience suppressed by school, state, and family silence, putting it back into body and voice.[^6]
 
-![Chthonic performing at Wacken Open Air in Germany in 2012, with large stage backdrop and heavy-metal lighting](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/12-08_Wacken_Chthonic_02.jpg/1280px-12-08_Wacken_Chthonic_02.jpg)
-_Chthonic performing at Wacken Open Air in 2012. Its international tours made Taiwan’s history not only a Taiwan-context story, but part of the listening memory of global metal fans. Photo: Achim Raschka, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_02.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))._
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/kta4ZAwI6rY" title="Chthonic and Chitose Hajime - Defenders of Bu-Tik Palace acoustic" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Official Chthonic video: the acoustic version of “Defenders of Bú-Tik Palace.” When the metal wall is stripped down, Lim’s voice, Taiwanese-language melody, and historical feeling remain in the foreground._
 
 ## History and Ghosts in Black Metal
 
@@ -90,9 +90,6 @@ Megaport was never a one-person hero story. In interviews, Lim has said that fro
 
 Megaport marks Lim’s second role shift. He was originally the person at the center of the stage; he also became someone who built stages. That difference later leads toward politics. Politics, in a sense, is also stage-building, except the stage becomes an electoral district, committee rooms, the legislative chamber, bills, and media sites. From Chthonic to Megaport, Lim’s identity as a musician was no longer only about performance; it also came to bear fields, communities, and public issues.
 
-![Chthonic bassist Doris Yeh performing at Wacken Open Air in 2012, hair flying as she plays bass](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/12-08_Wacken_Chthonic_07.jpg/1280px-12-08_Wacken_Chthonic_07.jpg)
-_Doris Yeh performing with Chthonic at Wacken Open Air in 2012. In a post-office interview, Lim reminded listeners that many tasks from Formoz, Megaport, and politics were not done by one person, and that women’s labor in rock and festival spaces is often obscured. Photo: Achim Raschka, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_07.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))._
-
 ## Entering Institutions After the Sunflower Movement
 
 After the 2014 Sunflower Movement, a new political imagination appeared in Taiwan. Many young people, social-movement workers, and arts and culture workers began to believe that beyond street protest, some people also had to enter institutions.
@@ -114,6 +111,9 @@ Lim’s eight years in the Legislative Yuan cannot be summarized only as “arti
 His political work largely extended several lines already present in his music period: Taiwan’s international participation, human rights, transitional justice, cultural policy, and defense and diplomacy. From 2010 to 2014, he served as chair of Amnesty International Taiwan. In 2015 interviews, he also placed human rights, environmental issues, cultural policy, Taiwan independence, and transitional justice in the same political language of “justice and fairness.”[^6][^11] After entering parliament, he continued to pay attention to Tibet, Hong Kong, human rights, and Taiwan’s international space. The continuity between these themes and his music explains his political choices better than a case-by-case list of legislative questions.
 
 That continuity had appeared before he entered politics. During the 2007 Ozzfest tour, Chthonic performed 20 shows in the United States and spoke in English to audiences about Taiwan being obstructed by China and unable to participate normally in international organizations. “UNlimited Taiwan” brought the demand for Taiwan’s international participation directly into a metal-tour setting. The international space Lim later discussed in parliament had already been rehearsed onstage.[^18]
+
+![Freddy Lim being interviewed by reporters at the Wild Strawberries Movement in 2008, with a television microphone, camera, and crowd around him.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Freddy_Lim_interviewed_by_reporters_from_ETTV_at_the_Wild_Strawberries_Movement%2C_Taipei_20081207.jpg/1280px-Freddy_Lim_interviewed_by_reporters_from_ETTV_at_the_Wild_Strawberries_Movement%2C_Taipei_20081207.jpg)
+_In 2008, Lim was interviewed at the Wild Strawberries Movement. The photo gives his path from music scenes toward public issues a street-level public site. Photo: Siegfy, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim_interviewed_by_reporters_from_ETTV_at_the_Wild_Strawberries_Movement,_Taipei_20081207.jpg) ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))._
 
 These issues look political, but they are connected to Chthonic’s musical core: who is qualified to be heard by the world? Whose history has been silenced? How does a country without formal recognition speak for itself on the international stage?
 
@@ -148,6 +148,9 @@ If politics was his adventure of bringing sound into institutions, Chthonic is t
 
 Parliament gave him another scale for understanding reality. Music let him return to a kind of publicness that politics can never fully replace.
 
+![Chthonic's 2015 concert at Liberty Square, with audience members raising phones toward the stage.](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chthonic_MiNe-IP5S_20151226-190550RG_%2823989684826%29.jpg/1280px-Chthonic_MiNe-IP5S_20151226-190550RG_%2823989684826%29.jpg)
+_In 2015, Chthonic held the “Soul-Chanting and Nation-Defending” concert at Liberty Square. The large public music site sits between band performance, mass audience, and political imagination. Photo: MiNe, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chthonic_MiNe-IP5S_20151226-190550RG_(23989684826).jpg) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))._
+
 ## Reordering the Roles
 
 After leaving office, Lim did not simply “exit politics” or “go back to singing.” His roles were reordered: institutional politics moved backward, while music, international advocacy, diplomacy, and public speech each kept a place. Chthonic’s works still allow people to enter the shadows of Taiwanese history; in 2023, “Pattonkan” brought White Terror victim Uyongu Yatauyungana (Kao Yi-sheng) and family memory back into song, showing that Chthonic around Lim’s departure from parliament was not only defined by that recent _Endless Aeons_ release cycle. Megaport and festival culture still prove that sound can gather into a field; the parliamentary experience reminds him that when ideals enter institutions, institutions will test them.[^19]
@@ -171,8 +174,9 @@ The Sunflower Movement, the New Power Party, and Taiwan’s democratic transitio
 ## 圖片來源
 
 - [Freddy Lim portrait, 2012](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) — Photo: Hyw83516, Wikimedia Commons, CC BY-SA 3.0.
-- [Chthonic at Wacken Open Air 2012](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_02.jpg) — Photo: Achim Raschka, Wikimedia Commons, CC BY-SA 4.0.
-- [Doris Yeh at Wacken Open Air 2012](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_07.jpg) — Photo: Achim Raschka, Wikimedia Commons, CC BY-SA 4.0.
+- [Chthonic “Soul-Chanting and Nation-Defending” concert](https://commons.wikimedia.org/wiki/File:Chthonic_MiNe-IP5S_20151226-190550RG_(23989684826).jpg) — Photo: MiNe, Wikimedia Commons, CC BY 2.0.
+- [Freddy Lim interviewed at the Wild Strawberries Movement](https://commons.wikimedia.org/wiki/File:Freddy_Lim_interviewed_by_reporters_from_ETTV_at_the_Wild_Strawberries_Movement,_Taipei_20081207.jpg) — Photo: Siegfy, Wikimedia Commons, CC BY-SA 2.0.
+- [Chthonic and Chitose Hajime - Defenders of Bú-Tik Palace acoustic](https://www.youtube.com/watch?v=kta4ZAwI6rY) — Official Chthonic YouTube video used to show Lim’s voice and acoustic interpretation as vocalist.
 
 ## Notes
 
@@ -220,8 +224,9 @@ The Sunflower Movement, the New Power Party, and Taiwan’s democratic transitio
 - [Megaport Festival official website](https://megaportfest.com/)
 - [CHTHONIC official website](https://www.chthonic.tw/)
 - [Freddy Lim, founder of ChthoniC](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg), Photo: Hyw83516, Wikimedia Commons, CC BY-SA 3.0.
-- [Chthonic at Wacken Open Air 2012](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_02.jpg), Photo: Achim Raschka, Wikimedia Commons, CC BY-SA 4.0.
-- [Doris Yeh at Wacken Open Air 2012](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_07.jpg), Photo: Achim Raschka, Wikimedia Commons, CC BY-SA 4.0.
+- [Chthonic MiNe-IP5S 20151226-190550RG](https://commons.wikimedia.org/wiki/File:Chthonic_MiNe-IP5S_20151226-190550RG_(23989684826).jpg), Photo: MiNe, Wikimedia Commons, CC BY 2.0.
+- [Freddy Lim interviewed by reporters from ETTV at the Wild Strawberries Movement, Taipei 20081207](https://commons.wikimedia.org/wiki/File:Freddy_Lim_interviewed_by_reporters_from_ETTV_at_the_Wild_Strawberries_Movement,_Taipei_20081207.jpg), Photo: Siegfy, Wikimedia Commons, CC BY-SA 2.0.
+- [Chthonic and Chitose Hajime - Defenders of Bú-Tik Palace acoustic](https://www.youtube.com/watch?v=kta4ZAwI6rY), official Chthonic YouTube video.
 - [Megaport Festival — Wikipedia](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1)
 - [Chthonic (band) — Wikipedia](https://en.wikipedia.org/wiki/Chthonic_%28band%29)
 - [Freddy Lim — Wikipedia](https://en.wikipedia.org/wiki/Freddy_Lim)

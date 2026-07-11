@@ -37,9 +37,6 @@ rationale:
 
 # Chthonic: The Band That Sang Taiwanese History Into Black Metal
 
-![Chthonic performing at Wacken Open Air in Germany in 2012, surrounded by stage lights and backdrop.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/12-08_Wacken_Chthonic_02.jpg/1280px-12-08_Wacken_Chthonic_02.jpg)
-_Chthonic performing at Wacken Open Air in Germany in 2012. Photo by Achim Raschka, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_02.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))._
-
 > **30-second overview:** Chthonic (閃靈, CHTHONIC) is a Taiwanese heavy metal band founded in Taipei in 1995. Starting from black metal, death metal, and symphonic metal, it put Taiwanese Hokkien, erhu, folk instruments, the Lady of Linshui, the Wushe Incident, the 228 Incident, the Takasago Volunteers, White Terror memory, and Taiwan’s sense of sovereignty into extreme metal. Vocalist Freddy Lim later entered politics, but bandleader and bassist Doris Yeh, guitarist Jesse Liu, drummer Dani Wang, and keyboardist CJ Kao have also kept Chthonic a full creative body. Many overseas metal fans first heard Taiwanese history through Chthonic, hearing how a country’s ghosts, language, and sovereignty could be pushed onto the stage.
 
 In 1995, not many people in Taipei knew what black metal was. Chthonic formed that year and was later described by the _Taipei Times_ as Taiwan’s first black metal band. In 2003, they won Best Band at the 14th Golden Melody Awards for _Relentless Recurrence_. The same report noted that at a Taiwan-name-rectification event in front of the Presidential Office, Chthonic brought the Taiwanese folk legend of the Lady of Linshui onto the stage. By then, Chthonic already had corpse paint, heavy beats, and screams, and it was asking an unusually early question: could Taiwan’s own myths, traumas, and ghosts become the core of metal?[^1]
@@ -90,8 +87,11 @@ _Takasago Army_ pushes the timeline into World War II. The album’s subject poi
 
 These works clarify Chthonic’s core. The band is performing a ritual for histories that were never fully laid to rest. The ghosts in the music carry the weight of modern Taiwanese history and never quite leave.
 
-![Doris Yeh performing with bass at Wacken Open Air in Germany in 2012, hair in motion.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/12-08_Wacken_Chthonic_07.jpg/1280px-12-08_Wacken_Chthonic_07.jpg)
-_Doris Yeh performing with Chthonic at Wacken Open Air in 2012. She has long been the band’s leader, bassist, and operational core. Photo by Achim Raschka, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_07.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))._
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/Ynb9vFd0iNg" title="Chthonic - Quell the Souls in Sing Ling Temple Official Video" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Chthonic’s official video for “Quell the Souls in Sing Ling Temple.” The Puli temple setting brings the soul-reposing narrative of Takasago Army and Mirror of Retribution into a concrete place._
 
 ## Taiwan’s Name on the International Stage
 
@@ -117,6 +117,9 @@ Chthonic’s influence on Taiwanese music did not stay only in albums and tours.
 
 In 2006, Freddy, Doris, and the TRA Music team held the first Megaport Festival at piers 11 and 12 of Kaohsiung Harbor. In VERSE’s Megaport feature, Doris recalled that they wanted to build a southern music festival different from Taipei’s Formoz Festival, using the harbor view, a freewheeling maritime feeling, and southern Taiwanese bands as the event’s base. That origin resembles Chthonic’s own musical method: taking local landscapes, languages, histories, and voices rarely centered by the mainstream, then moving them onto a stage large enough to hold them.[^14]
 
+![Chthonic performing at Megaport Festival in 2016, with the vocalist at center stage and lights and large stage structure around the band.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Chthonic_megaport_2016.jpg/1280px-Chthonic_megaport_2016.jpg)
+_Chthonic performing at Megaport Festival in 2016. This image shows the meeting point among the band, the harbor-side festival, and a large public stage better than a single-member close-up. Photo: Hisakon, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chthonic_megaport_2016.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))._
+
 After Lim was elected legislator in 2016 and left the Megaport team, Doris and drummer Dani Wang took over operations and coordination. The VERSE interview notes that Doris led the 2016 and 2017 festivals before moving into an advisory role, while Dani began coordinating the event in 2016 and became known inside the team as its “president.” This line makes Chthonic’s collective character clearer: onstage, Doris and Dani hold down low end and rhythm; offstage, they turned the band’s cultural values into a festival that gathers fans, bands, NGOs, and city memory year after year.[^14]
 
 VERSE’s second installment places Megaport back within Formoz Festival, Spring Scream, and Taiwanese live-band culture since the 1990s. Freddy and Doris took over Formoz Festival early on, then learned from international festival experiences at Fuji Rock, Wacken, Download, and other sites: multi-stage planning, backstage flow, volunteer coordination, and artist hospitality. Those lessons later flowed back into Megaport. In other words, Chthonic did not only carry Taiwan abroad. It also brought organizational methods from overseas stages back to Taiwan, slowly changing local festival culture.[^15]
@@ -130,9 +133,6 @@ _Bú-Tik_ pushed Chthonic’s album universe to another level. English-language 
 The concept of _Bú-Tik_ also moves Chthonic closer to historical space itself. The martial hall is a symbol of martial arts, discipline, and colonial modernity under Japanese rule. Chthonic turns it into a metal narrative, letting the relationships among body, weapon, colonial power, resistance, and modern state enter sound. Later acoustic and live versions dismantled the high-pressure metal wall into another kind of ritual form, letting melody, language, and spatial feeling carry power originally driven by volume.
 
 _Battlefields of Asura_ in 2018 brought postwar Taiwan and contemporary politics to the foreground. Blabbermouth’s report on the album noted guest appearances by Randy Blythe and Denise Ho; Golden Melody Award records also show _Battlefields of Asura_ winning Best Band at the 30th Golden Melody Awards, with the award context placing it within freedom, metal, and social speech.[^9][^10] The album is often read as a response to Lim’s time in politics, while also continuing Chthonic’s older question: how do historical wounds enter the present? Politics here becomes an echo inside bodies, families, and memory.
-
-![Freddy Lim in 2012, wearing long hair and black clothing, retaining the presence of a metal vocalist.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg)
-_Freddy Lim in 2012. Freddy is Chthonic’s most visible foreground figure, but the band’s long-term work is sustained by a full team. Photo by Hyw83516, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))._
 
 ## After Lower Activity, the Ghosts Remained
 
@@ -159,9 +159,9 @@ This listening path is more like a sound map of an underground view of history. 
 ## 圖片來源
 
 - [12-08 Wacken Chthonic 02](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_02.jpg) — Photo by Achim Raschka at Wacken Open Air in Germany in 2012, hosted on Wikimedia Commons under CC BY-SA 4.0.
-- [12-08 Wacken Chthonic 07](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_07.jpg) — Photo by Achim Raschka at Wacken Open Air in Germany in 2012, hosted on Wikimedia Commons under CC BY-SA 4.0.
-- [Freddy Lim, founder of ChthoniC](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) — Photo by Hyw83516 in 2012, hosted on Wikimedia Commons under CC BY-SA 3.0.
+- [Chthonic megaport 2016](https://commons.wikimedia.org/wiki/File:Chthonic_megaport_2016.jpg) — Photo by Hisakon at Megaport Festival in 2016, hosted on Wikimedia Commons under CC BY-SA 3.0.
 - [CHTHONIC - TAKAO - Official Video](https://www.youtube.com/watch?v=c3t-0MIy-fc) — Official Chthonic YouTube video used to show the sonic and visual language of the _Takasago Army_ period.
+- [Chthonic - Quell the Souls in Sing Ling Temple Official Video](https://www.youtube.com/watch?v=Ynb9vFd0iNg) — Official Chthonic YouTube video used to show the Sing Ling Temple setting and soul-reposing narrative.
 
 ## References
 

@@ -316,3 +316,11 @@ paired_article: knowledge/Music/閃靈.md
 2. 建立 `knowledge/People/林昶佐.md` 初稿。
 3. 在初稿中預留 `[[閃靈]]` 交叉連結，並把專輯深寫移到未來 `knowledge/Music/閃靈.md`。
 4. 寫完後跑 frontmatter / article-health / source fidelity 檢查。
+
+## 10. 媒體素材修訂（2026-07-11）
+
+- 移除內文開頭重複使用的 Freddy 肖像；網站已會從 frontmatter 抓取同一張作為頁首 hero。
+- 移除 Wacken 樂團照與 Doris 特寫，避免和《閃靈》詞條使用同一批素材，也避開 Doris 圖在正式版面裁切不佳的問題。
+- 新增官方 YouTube 影片〈暮沉武德殿〉民謠版，作為林昶佐主唱聲音、台語旋律與 acoustic 詮釋的代表媒體。
+- 新增 2015 年閃靈「鎮魂護國」自由廣場演唱會照片，讓人物頁的中段媒體呈現「音樂進入公共場域」而不是單純樂團演出照。
+- 新增 2008 年野草莓學運現場受訪照片，補足林昶佐從音樂場景通往街頭公共議題的早期視覺切面。

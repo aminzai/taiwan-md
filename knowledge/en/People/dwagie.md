@@ -30,9 +30,6 @@ rationale:
 
 > **30-second overview:** Dwagie (大支), born Tseng Kuan-jung (曾冠榕), is a Taiwanese rapper from Tainan and the founder of Kung-Fu Entertainment (人人有功練音樂工作室). In the late 1990s, he met MC HotDog on the Master U message board, moving from underground demos and club performances into Magic Stone Records’ Great Circus music studio. When _Lotus from the Tongue_ (舌粲蓮花, sometimes written 舌燦蓮花) appeared in 2002, it was discussed in the context of early full-length rap albums in the Sinophone market, while “Taiwan Song” (台灣SONG) turned Taiwanese Hokkien accent into a sonic marker of Taiwan-centered identity. After 2003, he returned to Tainan and built Kung-Fu Entertainment, turning a recording and practice space into a southern hip-hop base. In 2011, _The People_ (人) brought together Deserts Chang, Freddy Lim, Wen Hsia, the 14th Dalai Lama, and others, pushing human rights, religion, animal rights, and political concern into the vocabulary of Taiwanese rap. By the time of _The Rappers_ (大嘻哈時代), he had become a judge and “schoolmaster,” handing the experience of Taiwan’s early underground scene to a new generation.[^1][^2][^3][^4]
 
-![Dwagie hosting a 2017 New Year event, holding a microphone in black-rimmed glasses, with stage lights behind him.](/article-images/music/dwagie-portrait-2019.webp)
-_Dwagie hosting the 2017 “National Chiayi Three-Day New Year Festival.” Photo: Chiayi City Government, attribution license via Wikimedia Commons._
-
 ## The Underground Years That Began on Master U
 
 Taiwan’s hip-hop scene began recognizing Dwagie through message boards, record shops, and the subcultural corners of Tainan.
@@ -145,7 +142,7 @@ So the best entrance to Dwagie is still music. Political events pass in waves, a
 
 ## 圖片來源
 
-- Hero / in-article Dwagie photo: Chiayi City Government, Wikimedia Commons, attribution license under Taiwan government open-data terms. Original file: [National Chiayi Three-Day New Year Festival, co-host Dwagie](https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg).
+- Hero Dwagie photo: Chiayi City Government, Wikimedia Commons, attribution license under Taiwan government open-data terms. Original file: [National Chiayi Three-Day New Year Festival, co-host Dwagie](https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg).
 - MC HotDog 2012 performance photo: Chiu Yu-feng, Wikimedia Commons, CC BY-SA 4.0. Original file: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
 
 ## References
