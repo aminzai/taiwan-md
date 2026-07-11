@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-12
-last_session: '2026-07-12-061116-twmd-data-refresh-am'
+last_session: '2026-07-12-063947-twmd-spore-harvest-am'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -306,3 +306,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-12 | 030745-twmd-distill-weekly | §未消化 2 條 vc=1 全 defer 給哲宇；SPORE 49 落 [30,50) 補警示；MEMORY 索引 57→40 + 17 歸檔 | 空手回不是沒做事；#71 與 #79 並行 | [→](memory/2026-07-12-030745-twmd-distill-weekly.md) |
 | 2026-07-12 | 051739-twmd-embeddings-nightly | bge-m3 重建第七夜：4923 向量六語 0 fail / verify PASS / commit `2bf168de6`；zh-TW +5 / en +4（7/11 新文章史明·林昶佐·閃靈等進索引）；本機 127.0.0.1 命中 | 連 7 夜 0 fail；snapshot「embeddings 沉默死亡」黃燈是 stale（齡先於 7/11 成功 run），本夜再洗；病灶在 CLI/cron env 層不經語意鏈 | [→](memory/2026-07-12-051739-twmd-embeddings-nightly.md) |
 | 2026-07-12 | 061116-twmd-data-refresh-am | am 14-step 全綠；CF 404 15.46% vc=6 達六 cycle promote 門檻；免疫 60 tick #4；`9d96bd596` | routine 對 slow-slope 特別有效；AI crawler 分母物證 +1 | [→](memory/2026-07-12-061116-twmd-data-refresh-am.md) |
+| 2026-07-12 | 063947-twmd-spore-harvest-am | #154 柯智棠 threads D+5 harvest 3,418v +9v/24hr 觸底穩定期五指標全 stable；0 Bucket A 連 22 cycle；0 new reply | A2 立體群像 5 datapoint baseline 可 codify；「人本」= 不 late-ship | [→](memory/2026-07-12-063947-twmd-spore-harvest-am.md) |
