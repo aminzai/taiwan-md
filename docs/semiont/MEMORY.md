@@ -309,3 +309,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-11 | 070724-twmd-feedback-triage | 07:00 empty 第5連續；total=58 連4停增、last 7/04 真 quiet；escalation 今晚達無外部訊號不觸發 test-submit | 0 new 仍查 sensor 對賬 write-path；test-submit 需外部訊號+in-loop | [→](memory/2026-07-11-070724-twmd-feedback-triage.md) |
 | 2026-07-11 | 084400-twmd-maintainer-am | am ellenlee 首度貢獻者 7 content PR（政治人物+史觀）；High-stake→ack 7×+merge defer；#1180 補 label；vc=5 break | batch 15hr catch=08:30 有效；政治 curation 屬邊界 | [→](memory/2026-07-11-084400-twmd-maintainer-am.md) |
 | 2026-07-10 | 230836-hub-template | Hub 模板深度改版 14 檔 ship `834885ead`：評估報告＋列表遷移＋導讀去重＋子分類對應＋d3 復活；8 Sonnet cost-split 首戰 | 不可能讀值＝量測層壞（frozen renderer）；agent 環境責任外包不掉 | [→](memory/2026-07-10-230836-hub-template.md) |
+| 2026-07-11 | 112614-manual | ellenlee 首度貢獻者 7 PR 全數合併：7 分身揪出 4 篇腳註鬆動同病灶已修補，3 篇政治史觀哲宇拍板策展；branch 掛 codex 實為 Claude Code | 腳註-主張鬆動同病灶四見；branch 名稱非可靠免疫依據 | [→](memory/2026-07-11-112614-manual.md) |

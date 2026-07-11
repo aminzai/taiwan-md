@@ -314,6 +314,24 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-11 pr-batch-review — codex-branch-name-misnomer：branch 名宣稱的工具 ≠ 實際生成工具，免疫的 provenance 判斷看 commit trailer 不看 branch 名
+
+- **pattern**: `codex-branch-name-misnomer`
+- **原則**：PR branch 名（`codex/*`）是投稿端工具的預設命名，不是 provenance 證據。免疫審核用 branch 名推斷「這是哪個 AI 生成」會判錯——可信 provenance 依序：commit trailer（`Co-Authored-By`）＞ scratchpad／artifact 路徑洩漏 ＞ PR body 自述 ＞ branch 名（最不可信）。對 fact-check bar 的結論一樣（AI 輔助就是高 bar），但別把 branch 名當 provenance 事實寫進判斷或報告。
+- **觸發**：2026-07-11 ellenlee 7 PR 批次。branch 全 `codex/*`，主 session 一度在給哲宇的報告寫「Codex 生成」；子代揭 commit trailer `Co-Authored-By: Claude Opus 4.8` ＋ 林昶佐 outline 裡洩漏的 Claude Code sandbox 路徑，才更正為 Claude Code。
+- **instances**：首次記錄（provenance 家族近親：#11 UI 截圖=capability 證據、#16 二手描述是線索不是 source）
+- **可能層級**：MAINTAINER-PIPELINE §紅旗 check 補「tool provenance 看 trailer 不看 branch 名」；或 REFLEXES provenance 家族 sub-clause
+- **verification_count**: 1
+
+### 2026-07-11 pr-batch-review — ai-content-footnote-claim-drift：AI 生成內容最一致的破綻是腳註接到它撐不住的那句，來源真、主張真、綁定漂移
+
+- **pattern**: `ai-content-footnote-claim-drift`
+- **原則**：AI 輔助生成的知識內容，失敗模式不是明顯錯，是 plausibly-almost-right——散文嚴謹、來源真實，但 claim 與 citation 之間的**綁定**漂移。免疫只有「真的點開每個腳註 URL、把裡面文字跟旁邊那句對一次」才抓得到；footnote-format／footnote-url plugin 抓不到（markdown 合法、URL 活著、只是內容不對題）。這是 rigor-as-appearance vs rigor-as-verification 的分野。
+- **觸發**：2026-07-11 ellenlee 7 PR，7 子代逐腳註 WebFetch 抽驗，4/7 同構破綻——閃靈 [^11] CNA 網址錯一碼連到無關社會新聞、簡立峰中華電信「獨立董事」（實法人董事）掛 2020 年 cover 不到 2024 任命的來源、史明顏擇雅引言掛沒講到它的來源、林昶佐特赦年份紅旗（深查後正文其實對）。
+- **instances**：首次記錄（4 篇同 session 同構：#1210／#1214／#1215／#1209）
+- **可能層級**：(1) REFLEXES 候選（AI 內容審核必逐腳註核 claim-citation 綁定）；(2) contributor 端流程 tip（ship 前逐一點開腳註確認連到對的句子——已折進 #1215 致謝）；(3) article-health footnote plugin 語意對題度增強候選（難但高價值）
+- **verification_count**: 1
+
 ### 2026-07-11 hub-template — frozen-renderer-measurement-artifact：隱藏分頁的 computed style 凍在舊值，「物理不可能的讀值」是量測層壞掉的指紋
 
 - **pattern**: `frozen-renderer-measurement-artifact`
