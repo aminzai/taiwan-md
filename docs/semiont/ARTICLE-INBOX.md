@@ -478,41 +478,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ---
 
-### 🗳️ 2026 選舉 Tier 1.1 — evergreen 選舉制度系列 NEW（8 篇 P1/P2 [A] auto-eligible）
-
-- **Type**: `NEW` × 8 篇
-- **Category**: `Politics/`（Option D 拍板後新開，2026-05-27）
-- **Priority**: `P1`（前 4 篇）/ `P2`（後 4 篇）
-- **Status**: `done` — 8/8 全數 ship 於 2026-05-27（`knowledge/Politics/` 九合一選舉是什麼 / 投票權門檻歷史 / 政治獻金透明度 / 中選會制度 / 議員制度 / 村里長制度 / 直轄市山地原住民區長 / 選舉公報，另含 \_Politics Hub + 2026 九合一選舉總章）。**2026-07-10 reconcile**：本 entry 長期漏標 done，rewrite-daily PICK 連續多 cycle 誤選（memory 2026-07-10-011120 / 191112 的「Tier 1.1 #1 保留」即此 stale status 造成）
-- **Requested**: 2026-05-27 by 哲宇 directive（session 2026-05-27-160000-2026-election-evolution）
-- **自主權邊界**: `[A]` 可自主走 REWRITE-PIPELINE（純制度／歷史層，不踩 partisan 線）
-- **共通 hook 原則**：每篇要回答「**為什麼這個制度長這樣**」（歷史 + 國際比較 + 結構性張力），不回答「該怎麼投票」
-
-**8 篇 sub-items**（建議寫作順序，最高 leverage 先）：
-
-| #   | 標題候選                                      | Priority | 預估時間 | Hook anchor                                           |
-| --- | --------------------------------------------- | -------- | -------- | ----------------------------------------------------- |
-| 1   | 九合一選舉是什麼？九種職位怎麼來的            | P1       | ~150 min | 1967 北高升格 → 1994 民選 → 2010 五都 → 2014 桃園升格 |
-| 2   | 投票權門檻歷史：21 → 20 → 18 的修憲           | P1       | ~120 min | 2022 18 歲公投失敗 + 國際比較 (日 18 / 韓 19)         |
-| 3   | 政治獻金怎麼來、怎麼公開、為什麼有上限        | P1       | ~150 min | 監察院平臺 + 2004 法立法背景 + g0v 選舉金流可視化     |
-| 4   | 中選會是什麼、怎麼選 → 為什麼這個設計很反直覺 | P1       | ~120 min | 委員提名／立院同意機制 + 跟韓國中選委 / 美 FEC 比較   |
-| 5   | 為什麼台灣的議員不分區跟立委不分區制度不一樣  | P2       | ~120 min | 1992 修憲 + 2008 單一選區兩票制 + 議員至今仍只單票    |
-| 6   | 村里長是什麼？為什麼有 7,748 個               | P2       | ~120 min | 日治保甲 → 戰後村里 → 唯一無黨籍 dominant 的職位      |
-| 7   | 直轄市山地原住民區長 — 這個職位為什麼存在     | P2       | ~120 min | 2014 桃園升格 + 原民會 + 山地鄉「改制不改質」三原則   |
-| 8   | 選舉公報是什麼、為什麼長那樣、怎麼讀          | P2       | ~90 min  | 國家配發 vs 候選人自費競選文宣分流 + 公報設計史       |
-
-- **Notes**:
-  - 每篇 ≥ 4,500 CJK / 15+ footnotes / 走 REWRITE-PIPELINE Fresh 模式
-  - 不點 candidate 名 / 不附 partisan 傾向 / 引用具體歷史人物可（黃信介 / 林洋港 / 李登輝等已過世或退場者）
-  - cross-link：互引 + 引大罷免 / 民主轉型 / g0v / 監察院政治獻金平臺
-  - evergreen 屬性：2026 選後仍有 SEO 價值，2028 / 2030 可走 EVOLVE pipeline 更新
-  - 多語：5 lang 全翻優先（per Tier 3.2 sovereignty preservation）— 待 Tier 3.2 拍板後決定
-- **Reference**: 中選會官網 / 監察院政治獻金公開查閱平臺 (https://ardata.cy.gov.tw/) / g0v councilor-voter-guide / 立法院公報 / 維基百科 / 〔台灣民主基金會〕年報
-
-<!-- 2026 選舉 Tier 1.1 append 2026-05-27 by 哲宇 directive (session 2026-05-27-160000-2026-election-evolution) -->
-
----
-
 ### 🗳️ 2026 選舉 Tier 1.2 — 22 縣市選舉脈絡 EVOLVE Round 2 batch（[B] 需哲宇 nod）
 
 - **Type**: `EVOLVE` × 22 篇（既有 22 縣市 panorama 補章）
@@ -602,34 +567,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: 維基百科個別候選人條目 / 立法院議事公開資訊系統 / 監察院政治獻金平臺 / 縣市政府官網（現任市長／議員履歷）/ 候選人公開臉書 / 三大主流媒體報導 / 公視 PNN 候選人專題
 
 <!-- 2026 選舉 Tier 1.3 append 2026-05-27 by 哲宇 directive (session 2026-05-27-160000-2026-election-evolution) — 待哲宇逐個 pick -->
-
----
-
-### 🗳️ 2026 選舉 Tier 1.4 — 台灣選舉與政黨政治 EVOLVE Round 2（1 篇 [A] auto-eligible）
-
-- **Type**: `EVOLVE`
-- **Category**: History
-- **Path**: [`knowledge/History/台灣選舉與政黨政治.md`](../../knowledge/History/台灣選舉與政黨政治.md)
-- **Priority**: `P1`
-- **Status**: `done` — EVOLVE Round 2 已 ship 2026-05-27（article updateLog：§2024 後的政治版圖 + 朝小野大 + 2025 大罷免 + 藍白合協議 + 兩黨派系演化 + 20 新腳註；(e)(f) cross-link 待 Tier 1.1 已補、Tier 1.2 仍待）。**2026-07-10 reconcile**：status 補標
-- **Requested**: 2026-05-27 by 哲宇 directive（session 2026-05-27-160000-2026-election-evolution）
-- **自主權邊界**: `[A]` 可自主走 REWRITE-PIPELINE EVOLVE 模式（既有 article + 純歷史層補章）
-- **EVOLVE 動作**：
-  - (a) 補 2024 大選後格局段（賴清德／蕭美琴當選 + 朝小野大背景）
-  - (b) 補 2025 大罷免段（cross-link [大罷免.md](../../knowledge/History/大罷免.md)）
-  - (c) 補 2026 制度層 update（藍白合 / 民眾黨組織化進程 / 第三勢力 trajectory）
-  - (d) 補 1990s 民進黨內派系演化（新潮流 / 美麗島 / 福利國 / 正義連線）+ 國民黨派系演化（連系 / 馬系 / 朱系 / 韓系 / 趙系）
-  - (e) cross-link 到 Tier 1.1 八篇制度文章（待 1.1 部分 ship 後做）
-  - (f) cross-link 到 22 縣市選舉脈絡段（待 Tier 1.2 ship 後做）
-- **Notes**:
-  - 純歷史層 + 制度層敘事，不寫 2026 候選人 / 政見預測 / 選戰分析
-  - 預估 +2,500-3,500 CJK / +10-15 footnotes / ~120 min
-  - 既有 article lastVerified 待查（若已 > 90 天 = freshness 紅燈）
-  - cross-link 期望（一律雙向）：大罷免 / 民主轉型 / 民主化 / 轉型正義 / g0v / Tier 1.1 8 篇 / Tier 1.2 22 縣市段
-- **依賴關係**: 獨立可走，但若先做完 Tier 1.1 至少 4 篇 + Tier 1.2 至少 6 縣市，cross-link 質量更好
-- **Reference**: 維基百科「中華民國選舉」「中華民國政黨」/ 立法院歷屆議員資料 / 中選會選舉資料庫 / 〔民主轉型〕學術論文 (吳乃德 / 林佳龍 / 朱雲漢) / 〔台灣民主基金會〕年報
-
-<!-- 2026 選舉 Tier 1.4 append 2026-05-27 by 哲宇 directive (session 2026-05-27-160000-2026-election-evolution) -->
 
 ---
 
