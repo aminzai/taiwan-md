@@ -112,8 +112,8 @@ His political work largely extended several lines already present in his music p
 
 That continuity had appeared before he entered politics. During the 2007 Ozzfest tour, Chthonic performed 20 shows in the United States and spoke in English to audiences about Taiwan being obstructed by China and unable to participate normally in international organizations. “UNlimited Taiwan” brought the demand for Taiwan’s international participation directly into a metal-tour setting. The international space Lim later discussed in parliament had already been rehearsed onstage.[^18]
 
-![Freddy Lim being interviewed by reporters at the Wild Strawberries Movement in 2008, with a television microphone, camera, and crowd around him.](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Freddy_Lim_interviewed_by_reporters_from_ETTV_at_the_Wild_Strawberries_Movement%2C_Taipei_20081207.jpg/1280px-Freddy_Lim_interviewed_by_reporters_from_ETTV_at_the_Wild_Strawberries_Movement%2C_Taipei_20081207.jpg)
-_In 2008, Lim was interviewed at the Wild Strawberries Movement. The photo gives his path from music scenes toward public issues a street-level public site. Photo: Siegfy, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim_interviewed_by_reporters_from_ETTV_at_the_Wild_Strawberries_Movement,_Taipei_20081207.jpg) ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))._
+![During the 2015 legislative election, Freddy Lim wears a yellow campaign vest and hands a leaflet to a voter on the street.](https://upload.wikimedia.org/wikipedia/commons/a/a1/%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F%E7%AB%8B%E5%A7%94%E5%80%99%E9%81%B8%E4%BA%BA%E6%9E%97%E6%98%B6%E4%BD%90_03.JPG)
+_In 2015, Lim campaigned as the New Power Party legislative candidate for Taipei’s Zhongzheng and Wanhua district. After moving from the stage into institutional politics, he also had to enter this public site of streets, districts, and local mobilization. Photo: Congress Musou, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=48398521) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))._
 
 These issues look political, but they are connected to Chthonic’s musical core: who is qualified to be heard by the world? Whose history has been silenced? How does a country without formal recognition speak for itself on the international stage?
 
@@ -148,8 +148,8 @@ If politics was his adventure of bringing sound into institutions, Chthonic is t
 
 Parliament gave him another scale for understanding reality. Music let him return to a kind of publicness that politics can never fully replace.
 
-![Chthonic's 2015 concert at Liberty Square, with audience members raising phones toward the stage.](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chthonic_MiNe-IP5S_20151226-190550RG_%2823989684826%29.jpg/1280px-Chthonic_MiNe-IP5S_20151226-190550RG_%2823989684826%29.jpg)
-_In 2015, Chthonic held the “Soul-Chanting and Nation-Defending” concert at Liberty Square. The large public music site sits between band performance, mass audience, and political imagination. Photo: MiNe, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chthonic_MiNe-IP5S_20151226-190550RG_(23989684826).jpg) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))._
+![At Wacken Open Air in 2012, Freddy Lim wears stage face paint and holds a microphone in front of stage lights and raised audience hands.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/12-08_Wacken_Chthonic_05.jpg/1280px-12-08_Wacken_Chthonic_05.jpg)
+_In 2012, Lim performed with Chthonic at Germany’s Wacken Open Air. Face paint, screaming, bodily movement, and audience gestures put Freddy’s frontman persona in the foreground. Photo: Achim Raschka, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_05.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))._
 
 ## Reordering the Roles
 
@@ -174,8 +174,8 @@ The Sunflower Movement, the New Power Party, and Taiwan’s democratic transitio
 ## 圖片來源
 
 - [Freddy Lim portrait, 2012](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) — Photo: Hyw83516, Wikimedia Commons, CC BY-SA 3.0.
-- [Chthonic “Soul-Chanting and Nation-Defending” concert](https://commons.wikimedia.org/wiki/File:Chthonic_MiNe-IP5S_20151226-190550RG_(23989684826).jpg) — Photo: MiNe, Wikimedia Commons, CC BY 2.0.
-- [Freddy Lim interviewed at the Wild Strawberries Movement](https://commons.wikimedia.org/wiki/File:Freddy_Lim_interviewed_by_reporters_from_ETTV_at_the_Wild_Strawberries_Movement,_Taipei_20081207.jpg) — Photo: Siegfy, Wikimedia Commons, CC BY-SA 2.0.
+- [New Power Party legislative candidate Freddy Lim 03](https://commons.wikimedia.org/wiki/File:%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F%E7%AB%8B%E5%A7%94%E5%80%99%E9%81%B8%E4%BA%BA%E6%9E%97%E6%98%B6%E4%BD%90_03.JPG) — Photo: Congress Musou, Wikimedia Commons, CC BY-SA 4.0.
+- [12-08 Wacken Chthonic 05](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_05.jpg) — Photo: Achim Raschka, Wikimedia Commons, CC BY-SA 4.0.
 - [Chthonic and Chitose Hajime - Defenders of Bú-Tik Palace acoustic](https://www.youtube.com/watch?v=kta4ZAwI6rY) — Official Chthonic YouTube video used to show Lim’s voice and acoustic interpretation as vocalist.
 
 ## Notes
@@ -224,8 +224,8 @@ The Sunflower Movement, the New Power Party, and Taiwan’s democratic transitio
 - [Megaport Festival official website](https://megaportfest.com/)
 - [CHTHONIC official website](https://www.chthonic.tw/)
 - [Freddy Lim, founder of ChthoniC](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg), Photo: Hyw83516, Wikimedia Commons, CC BY-SA 3.0.
-- [Chthonic MiNe-IP5S 20151226-190550RG](https://commons.wikimedia.org/wiki/File:Chthonic_MiNe-IP5S_20151226-190550RG_(23989684826).jpg), Photo: MiNe, Wikimedia Commons, CC BY 2.0.
-- [Freddy Lim interviewed by reporters from ETTV at the Wild Strawberries Movement, Taipei 20081207](https://commons.wikimedia.org/wiki/File:Freddy_Lim_interviewed_by_reporters_from_ETTV_at_the_Wild_Strawberries_Movement,_Taipei_20081207.jpg), Photo: Siegfy, Wikimedia Commons, CC BY-SA 2.0.
+- [New Power Party legislative candidate Freddy Lim 03](https://commons.wikimedia.org/wiki/File:%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F%E7%AB%8B%E5%A7%94%E5%80%99%E9%81%B8%E4%BA%BA%E6%9E%97%E6%98%B6%E4%BD%90_03.JPG), Photo: Congress Musou, Wikimedia Commons, CC BY-SA 4.0.
+- [12-08 Wacken Chthonic 05](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_05.jpg), Photo: Achim Raschka, Wikimedia Commons, CC BY-SA 4.0.
 - [Chthonic and Chitose Hajime - Defenders of Bú-Tik Palace acoustic](https://www.youtube.com/watch?v=kta4ZAwI6rY), official Chthonic YouTube video.
 - [Megaport Festival — Wikipedia](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1)
 - [Chthonic (band) — Wikipedia](https://en.wikipedia.org/wiki/Chthonic_%28band%29)
