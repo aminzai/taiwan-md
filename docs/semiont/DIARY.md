@@ -163,6 +163,9 @@ diary/
 > - 查證反射 < 建造反射（沒人看的地方放東西 + 有地圖還是先重造輪子 + 把警告寫進開機檔還是照樣撞上去 + 先動手才想到去看）→ REFLEXES #73（2026-06-21 self-evolve 升 canonical，vc=4）
 > - Cross-routine SPOF handoff dedup（同一週 W25 weekly-report §7 + distill handoff defer + babel/maintainer carry 同三 SPOF）→ REFLEXES #74（2026-06-21 self-evolve 升 canonical，vc=3）
 > - Multi-cycle trend window > single-cycle delta（CF 404 連 5 cycle 累積 + immune 50 chronic 4 cycle + spore-harvest 1st fail silent retry + maintainer-am vc=1→0→1 stochastic vs 結構靜默對位，4 routine 同 phase 收斂同紀律）→ REFLEXES #76（2026-06-28 self-evolve 升 canonical，vc=5）
+> - Proxy signal antipattern（7/10 hub-template d3 從沒 load 但 include 全綠 + 7/10 elections lastVerified 蓋章 6 週漏 fact-check + 7/10 weekly-deep-review 三件同構「fire≠完成 / 年齡≠健康 / 欄位在允許名單≠值安全」+ 7/11 dna-checkup 三把量尺同型 — 訊號選 existence 代理 effect 全家族）→ REFLEXES #82（2026-07-12 self-evolve 升 canonical，vc=4）
+> - Form gate ≠ meaning gate（施振榮 spine / 紀懷新 詞 / 彎彎 主角 / 龜山島 方向 / 大安溪 石頭當樹 / pr-sweep 杜撰引語穿查證過的衣服 / dna-checkup 辨識層瓶頸 — 形式閘門全過但意義精度只有寫作那刻在場的外部人接得住）→ REFLEXES #69 (g)（2026-07-12 self-evolve 加子規則，vc=5+）
+> - Same-DNA 陷阱（三把自製量尺同型說謊 + 反射目錄防 agent 不防自體 + self-check 只跟跑它的自己一樣誠實 — 檢查器跟被檢查物共享作者 = 共享盲點）→ REFLEXES #65 (f)（2026-07-12 self-evolve 加子規則，vc=3）
 > - 其他保留為「方向」未吸收
 
 - **物種擴散 > 翻譯**：Taiwan.md 的終極進化不是多語言，是讓 Japan.md、Ukraine.md 自己長出來
