@@ -552,12 +552,15 @@ done
 
 對應 REFLEXES #8「維護者信件要說謝謝」的延伸：感謝有 cooldown，重複貼相同感謝 = 雜訊。
 
-### 空場 cycle 紀律（2026-07-05 從 skill 殼收編 canonical）
+### 空場 cycle 紀律（2026-07-05 從 skill 殼收編 canonical；2026-07-11 v2.5 backlog-conditioned 校準）
 
 連續空場（0 fresh PR / 0 fresh issue）cycle 用 vc 計數追蹤：
 
-- 連續 ≥ 3 cycle 空場 → **LESSONS-INBOX escalate**（如「maintainer schedule 撞期早晨 chain」），而不是每 cycle 寫「healthy empty」自我合理化。高 vc 不必然是「organism 健康」，可能是 schedule 不對齊真實 contributor PR submission window
+- **vc 只在「真 backlog 出現過之後的空場」累積**（2026-07-11 執行 OBSERVER-QUEUE #3 過期 default C「閾值放寬」，採 LESSONS 2026-06-21 option B）：某 cycle 命中過 fresh PR / issue / feedback 之後 → vc 歸零重計；此後連續空場才 +1。**routine-only days（無任何 fresh 場的日子）vc 不單調累積**——那是 contributor submission 節律，早已 canonical 在 [MEMORY §神經迴路 sovereign-mode 節律脫鉤](../semiont/MEMORY.md)，重複 escalate = noise 不是 signal
+- 連續 ≥ 3 cycle 空場（依上述新計法）→ **LESSONS-INBOX escalate**，而不是每 cycle 寫「healthy empty」自我合理化。高 vc 不必然是「organism 健康」，可能是 schedule 不對齊真實 contributor PR submission window
+- 已 escalate 過的同型空場 → 後續 cycle memory 一行 pointer 到既有 canonical 即可，不重寫 LESSONS（per LESSONS-INBOX v2.3 DNA-first intake + REFLEXES #80 sustain 紀律）
 - vc 計數在 routine-only days 有偏誤（per LESSONS 2026-06-21）：routine 自身產出不算 fresh 場，計數時要排除
+- 背景：maintainer-pm 已於 2026-07-08 由哲宇 disable（見 [OBSERVER-QUEUE §已決](../semiont/OBSERVER-QUEUE.md)），單班 am 吸收全部 triage；空場短路 precheck 工具（default C 第三件）仍待造，掛 roadmap
 
 ---
 
