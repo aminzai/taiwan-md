@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T15:09:48.712Z",
+  "lastUpdated": "2026-07-11T22:12:32.039Z",
   "languages": [
     "zh-TW",
     "en",
@@ -20,14 +20,14 @@
     "en": {
       "total": 848,
       "percentage": 99.9,
-      "fresh": 838,
+      "fresh": 842,
       "metadataStale": 0,
-      "stale": 10,
+      "stale": 6,
       "missing": 1,
       "orphan": 0,
       "deficit": 1,
-      "freshPct": 98.7,
-      "bodyFreshPct": 98.7
+      "freshPct": 99.2,
+      "bodyFreshPct": 99.2
     },
     "ja": {
       "total": 844,
@@ -387,8 +387,8 @@
       "zh-TW": 37,
       "en": {
         "count": 37,
-        "fresh": 35,
-        "stale": 2,
+        "fresh": 37,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -463,8 +463,8 @@
       "zh-TW": 238,
       "en": {
         "count": 237,
-        "fresh": 233,
-        "stale": 4,
+        "fresh": 235,
+        "stale": 2,
         "missing": 1,
         "deficit": 1
       },

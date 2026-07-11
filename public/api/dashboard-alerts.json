@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T15:09:50.339Z",
+  "lastUpdated": "2026-07-11T22:12:33.495Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
   "count": 6,
@@ -15,7 +15,7 @@
     {
       "id": "routine-silent-taiwanmd-routine-twmd-feedback-triage",
       "severity": "yellow",
-      "message": "routine taiwanmd-routine-twmd-feedback-triage 沉默死亡：2026-07-09T23:01 fire 後 40.1h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine taiwanmd-routine-twmd-feedback-triage 沉默死亡：2026-07-09T23:01 fire 後 47.2h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "taiwanmd-routine-twmd-feedback-triage",
       "firstSeen": "2026-07-10"
@@ -23,7 +23,7 @@
     {
       "id": "routine-silent-twmd-babel-nightly",
       "severity": "yellow",
-      "message": "routine twmd-babel-nightly 沉默死亡：2026-07-09T16:32 fire 後 46.6h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-babel-nightly 沉默死亡：2026-07-09T16:32 fire 後 53.7h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-babel-nightly",
       "firstSeen": "2026-07-10"
@@ -31,7 +31,7 @@
     {
       "id": "routine-silent-twmd-data-refresh-am",
       "severity": "yellow",
-      "message": "routine twmd-data-refresh-am 沉默死亡：2026-07-09T22:01 fire 後 41.1h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-data-refresh-am 沉默死亡：2026-07-09T22:01 fire 後 48.2h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-data-refresh-am",
       "firstSeen": "2026-07-10"
@@ -39,7 +39,7 @@
     {
       "id": "routine-silent-twmd-embeddings-nightly",
       "severity": "yellow",
-      "message": "routine twmd-embeddings-nightly 沉默死亡：2026-07-09T21:16 fire 後 41.9h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-embeddings-nightly 沉默死亡：2026-07-09T21:16 fire 後 48.9h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-embeddings-nightly",
       "firstSeen": "2026-07-10"
@@ -47,7 +47,7 @@
     {
       "id": "routine-silent-twmd-spore-harvest-am",
       "severity": "yellow",
-      "message": "routine twmd-spore-harvest-am 沉默死亡：2026-07-09T22:46 fire 後 40.4h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-spore-harvest-am 沉默死亡：2026-07-09T22:46 fire 後 47.4h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-spore-harvest-am",
       "firstSeen": "2026-07-10"

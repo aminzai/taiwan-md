@@ -6,11 +6,11 @@
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 377218,
-      "users": 182410
+      "views": 377641,
+      "users": 182804
     },
     "dev_noise": {
-      "views": 10816,
+      "views": 10817,
       "users": 151
     },
     "verified_by": "background agent 2026-06-25 (VERIFIED/INFERRED 標記),GA data 主 session 驗",
@@ -276,7 +276,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 21,
+        "views": 22,
         "users": 1
       },
       "last_seen": "2026-07",

@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-07-11T15:09:43.333Z",
+  "generatedAt": "2026-07-11T22:12:26.926Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "7686624172540c081d0c6667a8a371c9c423a631",
+      "date": "2026-07-12T05:18:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-12-051739-twmd-embeddings-nightly — 4923 vec 6 langs 0 fail / PASS / 2bf168de6",
+      "articles": []
+    },
+    {
+      "hash": "2bf168de68b8882e51c384e0ee470fa0d6df7f0c",
+      "date": "2026-07-12T05:17:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-12 05:17",
+      "articles": []
+    },
+    {
+      "hash": "103732ecd78c806dcf1591cdeabf5332e8ca677e",
+      "date": "2026-07-12T04:22:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory+diary: 2026-07-12-041912-twmd-self-evolve-weekly 收官——訊號選擇層三 pattern 收乾",
+      "articles": []
+    },
+    {
+      "hash": "1eeb9079ce6a09c866581db809a5a196cb1c8940",
+      "date": "2026-07-12T04:18:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] self-evolve-weekly: DIARY §反覆出現的思考 加三條 canonical pointer",
+      "articles": []
+    },
+    {
+      "hash": "1f4a08f4515e687d27f9ecedabbf4d27a0e922c6",
+      "date": "2026-07-12T04:18:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] self-evolve-weekly: 三 pattern 進化——#82 新反射 + #69/#65 雙子規則",
+      "articles": []
+    },
+    {
+      "hash": "6327d388722c0751bf475165125994d53c58e990",
+      "date": "2026-07-12T03:09:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] distill-weekly: W28 空手回 — §未消化 2 條全 defer + SPORE-INBOX 49 警示 + MEMORY 索引 rollup 57→40",
+      "articles": []
+    },
+    {
+      "hash": "fa645face278121e2abca2513676ea947d1adcfe",
+      "date": "2026-07-12T02:14:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] weekly-report: W28 週報 ship — Resend id b0105104-a804-47dc-99b5-776c1aed9a41",
+      "articles": []
+    },
+    {
+      "hash": "0840711067b3f48c3a16932221d2c3a4f52eb8f6",
+      "date": "2026-07-12T01:17:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] news-lens: W28 首份週報 — 三源掃 5 條熱點、出口 disabled 走 propose 0 分支",
+      "articles": []
+    },
+    {
+      "hash": "994d1b47ccb1c08e7a5421e46914de1e7c35bcb0",
+      "date": "2026-07-12T00:56:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-12-005133-twmd-babel-nightly — 4-tier cascade 全滅、Tier 0b backfill 25 篇",
+      "articles": []
+    },
+    {
+      "hash": "b590be00203b8227ed6a4ed1c63c81d7e99c1bdb",
+      "date": "2026-07-12T00:51:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 25 篇 Tier 0b metadata backfill（4 en source-sha + 20 body-hash）",
+      "articles": []
+    },
+    {
+      "hash": "12bd711555721359432dbddee40bf0b1d5306ef3",
+      "date": "2026-07-11T23:13:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-11-231022-twmd-data-refresh-pm — pm 14-step 全綠 + CF 404 15.6% vc=5 首度跌破 16% + 免疫 tick #3",
+      "articles": []
+    },
+    {
+      "hash": "eb0a67d7e0122d318cae66cd4293c1ed97797065",
+      "date": "2026-07-11T23:10:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh — 2026-07-11 pm",
+      "articles": []
+    },
     {
       "hash": "d68003456ba2b2adc4ac8d4cc53c59f391656b93",
       "date": "2026-07-11T22:51:00+08:00",
