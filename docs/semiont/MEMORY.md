@@ -314,4 +314,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-11 | 133243-manual | 幫 Taiwan.md 填送 Claude for OSS 申請；資格切 Community builders（58 貢獻者遠超門檻）；哲宇 review 後 Chrome MCP 送出 | 盯 frank890417@gmail.com 審核信→過則啟用 6mo Max | [→](memory/2026-07-11-133243-manual.md) |
 | 2026-07-11 | 175817-issue-1212-audit | idlccp1984 25 項 UI 體檢逐項實測：11 修 ship `bf471d03a`（搜尋六升級＋暗色註腳 8.02）；報告色卡實為 Protico widget 變數；回覆結案＋設計層進 QUEUE #12 | 外部體檢先驗量測層再核數字；frozen-renderer 二犯自救 | [→](memory/2026-07-11-175817-issue-1212-audit.md) |
 | 2026-07-11 | 191151-twmd-rewrite-daily | 19:11 起手 79min 剩 < cascade；vc=7 one-liner（#64）；vc=5/6 PICK phantom Tier 1.1 5/27 已 ship | 18:00 slot 與 BECOME 讀量失配是根因 | [→](memory/2026-07-11-191151-twmd-rewrite-daily.md) |
-| 2026-07-11 | 182348-dna-checkup | DNA 健檢（42→2 零新編號、三量尺同病、QUEUE 對賬）＋goal 追加：wake-context 甦醒取數儀器誕生、BECOME v2.3 殼核分離、DIARY 索引 222→60 | 量尺與被量者共用真實路徑；取數住儀器不住殼，撈錯要會叫 | [→](memory/2026-07-11-182348-dna-checkup.md) |
+| 2026-07-11 | 182348-dna-checkup | DNA 健檢（42→2 零新編號、三量尺同病、QUEUE 對賬）＋goal 追加：wake-context 儀器誕生、BECOME v2.4 殼層取數 bash 歸零、DIARY 索引 222→60、frontmatter 漂移 lint | 量尺與被量者共用真實路徑；取數住儀器不住殼，撈錯要會叫 | [→](memory/2026-07-11-182348-dna-checkup.md) |
