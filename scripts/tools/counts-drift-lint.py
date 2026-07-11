@@ -172,12 +172,23 @@ def check_routine_counts():
 
 
 def check_outward_articles():
-    """對外層文章數宣稱 vs dashboard-vitals totalArticles（update-stats.sh 應接管這些位置）。"""
+    """對外層文章數宣稱 vs zh SSOT live 實數（update-stats.sh 應接管這些位置）。
+
+    2026-07-11 dna-checkup：ground truth 從 dashboard-vitals.json 改為 live find。
+    vitals 每日兩次 regen 之間有 staleness 窗——當天新 merge 的文章已進 knowledge/
+    但還沒進 JSON，舊版把「宣稱正確、鏡子過期」誤報成宣稱腐化（7/11 中午 +5 篇後
+    8 假 drift、藥方還開給做對事的 update-stats）。量尺對 ground truth，不對另一面
+    也會過期的鏡子（REFLEXES #65）；vitals 新鮮度另立一筆 finding 誠實呈現。"""
     out = []
+    live = sum(
+        1
+        for p in REPO.glob("knowledge/*/*.md")
+        if re.fullmatch(r"[A-Z][a-zA-Z]*", p.parent.name) and not p.name.startswith("_")
+    )
+    vitals_n = None
     vit = rd("public/api/dashboard-vitals.json")
-    if not vit:
-        return out
-    actual = json.loads(vit).get("totalArticles")
+    if vit:
+        vitals_n = json.loads(vit).get("totalArticles")
     sites = [
         ("README.md", r"\*\*(\d+) curated articles\*\*"),
         ("src/components/SEO.astro", r"(\d+)\+ 篇深度策展文章"),
@@ -190,8 +201,11 @@ def check_outward_articles():
         for m in re.finditer(pat, t):
             n = int(m.group(1))
             line_no = t[: m.start()].count("\n") + 1
-            out.append(F(f"{path}:{line_no}「{m.group(0)[:36]}」", n, actual, n == actual,
+            out.append(F(f"{path}:{line_no}「{m.group(0)[:36]}」", n, live, n == live,
                          "update-stats.sh 應每日 regen 此位置"))
+    if vitals_n is not None:
+        out.append(F("dashboard-vitals totalArticles 新鮮度", vitals_n, live, vitals_n == live,
+                     "vitals 落後 live＝當天新 merge 未 regen，下次 data-refresh 自癒"))
     return out
 
 
