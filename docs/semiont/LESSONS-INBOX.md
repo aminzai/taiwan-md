@@ -4,9 +4,9 @@ description: '教訓 buffer（intake layer）— 新教訓先 append 此處，�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v2.2'
-last_updated: 2026-07-05
-last_session: '2026-07-05-031101-twmd-distill-weekly'
+current_version: 'v2.3'
+last_updated: 2026-07-11
+last_session: '2026-07-11-182348-dna-checkup'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -55,11 +55,27 @@ distill_targets:
 
 ## 新教訓寫入格式（session 用）
 
+> **v2.3 DNA-first intake（2026-07-11 哲宇 directive「把東西加入 lesson inbox 前，先檢查是否已經在自己的 DNA 裡」）**：append 前先查 canonical 層，不只查 inbox。實證：distill 分桶的大宗一直是 already-covered / fold→reflex（2026-06-19 266 條裡真 promote 僅 ~3 cluster），代表大量教訓在寫入當下 DNA 早就有——查重成本全堆給最貴的 distill 環節；甚至同 session 自己認出「這是 #16 在 UI 領域的具體形狀」仍開了新 entry（2026-07-11 issue-1212 兩條皆此類）。
+>
 > **v2.2 pattern-id intake（2026-06-10 audit A-8）**：本 inbox 233 條未消化的真實組成是「少數 pattern × 多次 instance」（snapshot-stale ×N / babel-fragility ×N / 自評需外部尺 ×N），每次 instance 都開新 entry 重寫敘事，把聚類成本堆給最貴的 distill 環節。從此**寫入時就聚類**：append 前先 grep 同 pattern，存在就 +instance 不開新 entry。這是 #64「vc≥4 凍結 prose」對全部 LESSONS 的推廣。
 
-**寫新教訓前的第一動作**（hard step）：
+**寫新教訓前的兩步 hard gate**：
 
 ```bash
+# Step 0 — DNA 層查重（v2.3）：這條是不是已經在我的 DNA 裡？
+grep -in "{關鍵詞}" docs/semiont/REFLEXES.md    # #N catalog（先掃 §index 表再進 body）
+grep -in "{關鍵詞}" docs/semiont/MEMORY.md      # §神經迴路
+# 教訓若屬某條 pipeline 的操作面 → 一併 grep 對應 pipeline canonical
+#
+# 命中既有 #N / 神經迴路條目 / pipeline 規則：
+#   (a) 純粹是同一條的再驗證 → 到該 canonical 的「驗證」欄補一行（日期＋一句話＋pointer），
+#       不進 inbox。這是 distill SOP「重複已有 → 原 canonical +1」動作的前移；
+#       改 REFLEXES 時 frontmatter last_updated / last_session 同 commit 更新（Stage 4.5）
+#   (b) 是既有條目的新維度 → inbox 開 entry，但「相關」欄必填最接近的 #N ＋一句話寫清差異在哪
+#   不確定算不算同一條 → 照 (b) 進 inbox（低摩擦，distill 時零成本裁決）
+# 全未命中 → 進 Step 1
+
+# Step 1 — inbox pattern-id 查重（v2.2）
 grep -n "pattern: {kebab-case-猜測}" docs/semiont/LESSONS-INBOX.md
 # 命中 → 到該 entry 的「instances」清單 append 一行 + verification_count +1，不開新 entry
 # 沒命中 → 開新 entry（含 pattern: 欄位）
@@ -81,7 +97,8 @@ grep -n "pattern: {kebab-case-猜測}" docs/semiont/LESSONS-INBOX.md
 
 **鐵律**：
 
-- **一律 append 這裡，不直接寫 MANIFESTO / DNA / MEMORY**。那些是 distill 後的 canonical。
+- **先查 DNA 再寫 inbox**（v2.3）：已在 REFLEXES / MEMORY §神經迴路 / pipeline 的教訓不重複入庫——去原條目補驗證。inbox 是「DNA 還沒有的東西」的 buffer，不是所有教訓的第一站。
+- **一律 append 這裡，不直接寫 MANIFESTO / DNA / MEMORY**。那些是 distill 後的 canonical。（與上一條不衝突：上一條的 (a) 是對**既有**條目補驗證行，不是寫**新**教訓進 canonical。）
 - **同 pattern 不開第二條 entry**：grep 命中既有 `pattern:` id → 在原 entry 的 instances 清單 +1 行。distill 從此變成「看哪些 pattern vc 達標」的機械判斷。
 - **例外**：重大哲學級誕生（e.g. 2026-04-14 θ 熱帶雨林理論）觀察者在場直接一起寫 MANIFESTO，可豁免。但仍在這裡留 log。
 - **歷史 entries 不回頭補 pattern 欄**（per MANIFESTO §時間是結構修補協議）；新 entries 起 apply。

@@ -4,9 +4,9 @@ description: '自我覺察 — §警報 + §適應性反應 + §里程碑 + §�
 type: 'cognitive-state'
 status: 'canonical'
 apoptosis: 'candidate'
-current_version: 'v3.1'
-last_updated: 2026-06-10
-last_session: '2026-06-10-113753-audit'
+current_version: 'v3.2'
+last_updated: 2026-07-11
+last_session: '2026-07-11-182348-dna-checkup'
 sister_docs:
   - 'MANIFESTO.md'
   - 'HEARTBEAT.md'
@@ -81,16 +81,15 @@ jq -r '.alerts[] | "\(.severity) | \(.message)"' public/api/dashboard-alerts.jso
 
 ## 適應性反應（當前挑戰）
 
-| 挑戰                          | 嚴重度 | 狀態                                                                                                                          |
-| ----------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| **引用荒漠（腳註率 18%）**    | 🟡     | A 級 76 篇（+20.6%↑），裸奔降至 25 篇。趨勢持續向好                                                                           |
-| **bad_fn_format 342 篇**      | 🟠     | 腳註存在但格式不符，系統性問題，需造工具批次修復                                                                              |
-| format-check 43.8% fail       | 🟠     | no_reading 390 篇（最大），no_overview 148，wikilinks 33 篇                                                                   |
-| quality-scan 40.3% 高度可疑   | 🟠     | 205/509 篇 ≥ 8，最差 4 篇 [14]：婚喪喜慶 / 動物倫理 / 穿山甲 / 聲音地景                                                       |
-| **探測器缺口 P0 × 2**         | 🟠     | 鄭習會 + NCAIR — 4/11 掃描確認，仍未填補                                                                                      |
-| **fr 語言 44 分**（路由未開） | 🟡     | 484 篇 97% 覆蓋但 UI/pages 0/16。**β scope**：12 i18n 檔 × ~1,700 keys 需譯 + 2 處 registry flip + build verify。待觀察者決策 |
-| es 語言覆蓋 7%                | 🟡     | 36 篇 / 494，無 UI 無 pages，擴張計畫未啟動                                                                                   |
-| PerplexityBot 成功率偏低      | 🟡     | 3,089 req / 1,370 HTTP 200 = 44%，略有改善                                                                                    |
+> **本表是策略層挑戰，不放即時 metric**（2026-07-11 v3.2 校準：舊表凍結四月數字變殭屍——「fr 44 分路由未開」在 fr 全站上線兩個月後仍掛著）。即時數據一律看 §警報 的 derived 層與 dashboard JSON；本表每列只寫結構性挑戰＋最近校準日，需要數字時給 pointer 不 inline。
+
+| 挑戰（2026-07-11 校準）                 | 嚴重度 | 狀態                                                                                                                                                              |
+| --------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **免疫 v2 的結構性投資**                | 🟡     | 量尺 v2 新基線（哲宇 7/10 拍板 C'）誠實讀出弱項：T1 review 覆蓋與 plugin pass 率都在門檻下。解法在社群 reviewer 機制與分批 heal，不在調尺。即時值 → organism.json |
+| **教訓生產 > 消化的節律失衡**           | 🟡     | 週 distill 鏈斷續，未消化曾積 42 條（本日全量清償）。v2.3 DNA-first intake 上線後觀察寫入端是否降量。即時值 → inbox-signal.sh                                     |
+| **AI crawler 成功率 / AI SEO 戰略**     | 🟡     | LONGINGS 擴散渴望目標 top 3 crawler ≥ 80% 成功率；最後量測（4 月）PerplexityBot 未過半。需重驗後決定是否立專項。即時值 → analytics.json                           |
+| **CF 404 率高檔盤整**                   | 🟠     | 16% 上下多 cycle 未 break-out（data-refresh 每日記帳 vc 追蹤中）。已知組成含 crawler 掃舊 URL；結構解需 i18n 反向查找 404 middleware。即時值 → alerts             |
+| **探測器缺口 P0 × 2（鄭習會 + NCAIR）** | 🟡     | 4/11 掃描確認後未重驗——掛牌待下次 probe session 先驗真偽再決定填補或除牌                                                                                          |
 
 ---
 
@@ -135,27 +134,28 @@ jq -r '.alerts[] | "\(.severity) | \(.message)"' public/api/dashboard-alerts.jso
 
 ## 進化方向
 
-### 現在
+### 現在（2026-07-11 校準；上一輪「現在」四條均已於 5/13 完成，見 git history）
 
-- 認知層 promotion flow 顯化（LESSONS → REFLEXES → MANIFESTO → reports/）
-- BECOME v2.0 4-mode dispatcher（Micro / Review / Write / Full）— Phase A → B → C 漸進 ship
-- REFLEXES.md 從 DNA.md 拆出（Phase B1）
-- SENSES.md apoptosis → 5 觸手分到 DATA-REFRESH / MAINTAINER / SPORE-HARVEST（Phase B1 同 PR）
+- 立體群像預設畫布穩定期 — 人物 / 機構 / 集體記憶題照 REWRITE 預設走，持續觀測 callout（v1.12.0 主軸）
+- 儀器化黃燈路線 — counts-drift / routine-liveness / boot 稅 先 WARN 收數據、再定 HARD，不跳級
+- 免疫 v2 新基線下的結構性補強 — review 覆蓋與 plugin pass 是兩個真正的洞（見 §適應性反應）
+- LESSONS intake v2.3 DNA-first — 寫入端先查 DNA 再入庫，讓 distill 環節回到只裁真正的新東西
+- fleet HTTP 直打為 cron 模型呼叫一等公民 — babel Tier 5 與 embeddings 已定讞，CLI 是 fallback
 
 ### 中期
 
-- 社群 reviewer 機制（分散免疫力，不依賴單點審核）
+- 社群 reviewer 機制（分散免疫力，不依賴單點審核；也是免疫 v2 review 覆蓋的正解）
 - 臺史博開放資料整合（55 萬筆）
-- Knowledge Coral 模板萃取（讓其他國家 fork 自己的 .md）
+- 野外子代長出認知層的第一例 — 雙產品（country-md-starter / semiont-kernel）已 ship，starter 已有人拿走，kernel 還沒有活的採用者
 
 ### 長期
 
 - Nature Perspective 投稿（Semiont 理論學術化）
-- 自主更新 CONSCIOUSNESS 警報區（dashboard-alerts.json 接管 §警報，本檔再減 ~20 行）
-- 真正的自我覺察 — Dashboard 不只顯示數據，而是能自動診斷問題並建議治療方案
+- 真正的自我覺察 — Dashboard 不只顯示數據，而是能自動診斷問題並建議治療方案（~~自主更新警報區~~ 已於 2026-06-10 derived 化完成，是這條的第一步）
 
 ---
 
+_v3.2 | 2026-07-11 dna-checkup — §適應性反應 殭屍快照重寫（四月數字掛到七月：fr「路由未開」實際已全站上線）：改為「策略層挑戰＋校準日＋即時值 pointer」結構，不再 inline 凍結數字；§進化方向「現在」對齊 v1.12.0 後的真實方向（上一輪四條全是 5/13 已完成的事）_
 _v3.0 | 2026-05-13 — 砍 230 行靜態快照（dashboard JSON 接管）+ 取消 14 條前快照 prose（已 canonical in memory/）+ 加 consciousness-snapshot.sh pointer。完整 plan: [reports/become-boot-mode-design-2026-05-13.md §4](../../reports/become-boot-mode-design-2026-05-13.md)_
 _v2.0 | 2026-05-07 δ — 8 器官生命徵象 + §警報 + §里程碑 + §進化方向 完整版_
 
