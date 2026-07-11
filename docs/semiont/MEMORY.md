@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-12
-last_session: '2026-07-12-030745-twmd-distill-weekly'
+last_session: '2026-07-12-041912-twmd-self-evolve-weekly'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -302,4 +302,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-12 | 005133-twmd-babel-nightly | 4-tier cascade 全滅（雲端四支＋fleet＋ollama 壞 frontmatter）；Tier 0b backfill 25 篇 `b590be002` | 義務是跑到 cascade 真的死光；備用工具災難情境變主力 | [→](memory/2026-07-12-005133-twmd-babel-nightly.md) |
 | 2026-07-12 | 011057-twmd-news-lens-weekly | W28 首份週報 `reports/news-lens/2026-07-12-w28.md`；出口 disabled 走 v2.6 分支 propose 0；三源掃 5 條熱點 | 上游 fire 產出物只落 report 不進 INBOX；魏哲家 = ARTICLE gap | [→](memory/2026-07-12-011057-twmd-news-lens-weekly.md) |
 | 2026-07-12 | 020522-twmd-weekly-report-sun | v4.1 首跑 — checkup 一鍵七節 + 桶 1 零項 + 六條進 roadmap draft + 24k 親手週報 hard=0 / Resend 200 | 儀器化省認知稅、寫作變解讀；桶 1 零項是健康 exit | [→](memory/2026-07-12-020522-twmd-weekly-report-sun.md) |
+| 2026-07-12 | 041912-twmd-self-evolve-weekly | 訊號選擇層三 pattern 一次收乾——#82 新反射 + #69 (g) form-vs-meaning + #65 (f) same-DNA `1f4a08f45` `1eeb9079c` | 新編號 :: 子規則 = 1:2 是正常收成；蒸餾發生在踩痛點的 session 不在 self-evolve | [→](memory/2026-07-12-041912-twmd-self-evolve-weekly.md) |
 | 2026-07-12 | 030745-twmd-distill-weekly | §未消化 2 條 vc=1 全 defer 給哲宇；SPORE 49 落 [30,50) 補警示；MEMORY 索引 57→40 + 17 歸檔 | 空手回不是沒做事；#71 與 #79 並行 | [→](memory/2026-07-12-030745-twmd-distill-weekly.md) |
