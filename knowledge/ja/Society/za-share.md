@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Society/雜學校.md'
 sourceCommitSha: '1844f59c5'
 sourceContentHash: 'sha256:b414878c293e15ed'
+sourceBodyHash: 'sha256:63cdc7eebcc0988a'
 translatedAt: '2026-06-09T02:28:23+08:00'
 ---
 

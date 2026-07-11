@@ -3,17 +3,27 @@ title: 'Dwagie: The Taiwanese Rap Schoolmaster Who Built a Training Room in Tain
 description: 'Dwagie, born Tseng Kuan-jung, is a Taiwanese rapper from Tainan and the founder of Kung-Fu Entertainment. From the Master U message board and Magic Stone’s Lotus from the Tongue to “Taiwan Song,” The People, animal-rights advocacy, The Rappers, and hip-hop education in Tainan, he put Taiwanese Hokkien rap, local scene-building, public issues, next-generation mentoring, and Taiwan-centered identity into the same microphone.'
 date: 2026-07-10
 category: 'People'
-tags: ['people', 'music', 'hip-hop', 'rap', 'Taiwanese Hokkien', 'Tainan', 'Dwagie', 'Kung-Fu Entertainment']
+tags:
+  [
+    'people',
+    'music',
+    'hip-hop',
+    'rap',
+    'Taiwanese Hokkien',
+    'Tainan',
+    'Dwagie',
+    'Kung-Fu Entertainment',
+  ]
 subcategory: 'Music and Performance'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
 translatedFrom: 'People/大支.md'
-sourceCommitSha: ''
-sourceContentHash: ''
+sourceCommitSha: '4073e8a1'
+sourceContentHash: 'sha256:6c7ade34f353415e'
 sourceBodyHash: ''
-translatedAt: ''
+translatedAt: '2026-07-11T12:02:11+08:00'
 readingTime: 16
 image: '/article-images/music/dwagie-portrait-2019.webp'
 imageCredit: 'Chiayi City Government / Wikimedia Commons'
@@ -145,7 +155,7 @@ So the best entrance to Dwagie is still music. Political events pass in waves, a
 
 ## 圖片來源
 
-- Hero / in-article Dwagie photo: Chiayi City Government, Wikimedia Commons, attribution license under Taiwan government open-data terms. Original file: [National Chiayi Three-Day New Year Festival, co-host Dwagie](https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg).
+- Hero / in-article Dwagie photo: Chiayi City Government, Wikimedia Commons, attribution license under Taiwan government open-data terms. Original file: [National Chiayi Three-Day New Year Festival, co-host Dwagie](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>).
 - MC HotDog 2012 performance photo: Chiu Yu-feng, Wikimedia Commons, CC BY-SA 4.0. Original file: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
 
 ## References

@@ -21,6 +21,7 @@ lastHumanReview: true
 translatedFrom: 'People/幾米.md'
 sourceCommitSha: '10fe99c59'
 sourceContentHash: 'sha256:676de125f3707dd4'
+sourceBodyHash: 'sha256:722551eb5f4a1b6b'
 translatedAt: '2026-06-22T01:26:23+08:00'
 ---
 

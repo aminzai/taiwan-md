@@ -24,6 +24,7 @@ lastHumanReview: false
 translatedFrom: 'Lifestyle/吉祥物.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:318857d2f7ed838f'
+sourceBodyHash: 'sha256:0280d05fe808358b'
 translatedAt: '2026-06-09T03:07:00+08:00'
 ---
 
