@@ -314,6 +314,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-11 issue-1212-audit — external-audit-wrong-measurement-layer：外部體檢的量測基準可能整層抓錯，先驗「量的是哪一層」再驗數字
+
+- **pattern**: `external-audit-wrong-measurement-layer`
+- **原則**：外部 critique 附上實測數據（色碼、對比值、尺寸）時，Bias 4 濾網要多一道前置工序：**先驗證量測對象是不是站方自己的層**，再逐筆核數字。第三方 widget（聊天、廣告、analytics overlay）注入的 CSS 變數、iframe 內容、shadow DOM 都會被 DOM/CSS 檢視工具一視同仁抓出來，審計者拿到的「主題色系」可能整組來自別人的程式碼。判定法：拿報告裡的變數名 / 色碼 grep 自家 repo，零命中即為外層污染訊號。抓錯層的後果雙向：誤判自家缺陷（假陽性），以及**照抄建議 CSS 會把第三方變數寫進站體**（真傷害）。
+- **觸發**：2026-07-11 issue #1212。idlccp1984 的 25 項體檢開頭「主題色系（實測）」整組是 Protico 贊助商 widget 的 `--protico-*` 變數（`#1f2430` vs 站方真值 `#050505`），連帶「品牌綠 #4fd1b0 對比不足」「意見回饋+243 FAB」兩筆判讀跟著偏；建議 CSS 直接寫 `var(--protico-surface)`。grep repo 只在 ProticoScript.astro 命中一處（第三方載入器）即定案。
+- **instances**：首次記錄（REFLEXES #16「peer 是線索不是 source」在 UI 量測域的具體形狀）
+- **可能層級**：REFLEXES #16 family sub-clause 或 MAINTAINER-PIPELINE §Bias 4 濾網補一道「量測對象驗證」
+- **verification_count**: 1
+
 ### 2026-07-11 pr-batch-review — codex-branch-name-misnomer：branch 名宣稱的工具 ≠ 實際生成工具，免疫的 provenance 判斷看 commit trailer 不看 branch 名
 
 - **pattern**: `codex-branch-name-misnomer`
@@ -337,9 +346,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **pattern**: `frozen-renderer-measurement-artifact`
 - **原則**：瀏覽器對 hidden／occluded 分頁凍結 renderer 後，該分頁**既有元素**的 getComputedStyle／computedStyleMap／iframe 讀值全部停在凍結前快取，連 inline `style="color:X !important"` 都讀不回設定值。判定法兩步：(1) 新建元素讀值正常、既有元素異常 → 問題在快取層不在 CSS；(2) 出現「物理不可能」的結果（inline !important 不生效）→ 結論必為量測層壞掉，不是產品 bug，在壞掉的量測層上繼續 debug 產品＝燒 token 追鬼。此時可信裁決只剩可見分頁的真實 paint（截圖；CDP timeout「renderer may be frozen」即是確診訊息）或退回決定性驗證鏈：原始碼規則＋built bundle 內容＋一次可見分頁實測——cascade 是決定性系統，三者成立結論即成立。
 - **觸發**：2026-07-11 hub-template production 驗證。dark-mode 修復在 dev 可見分頁實測通過（rgb(241,245,249)），production preview 隱藏分頁連續五種讀法（getComputedStyle／matches／Typed OM／iframe／inline !important）全部回報 light-mode 舊值，最後 CDP screenshot timeout「The renderer may be frozen」揭盅。中途一度誤判為 @layer cascade 問題，追了六輪 CSSOM 考古。
-- **instances**：首次記錄（近親：#24「工具在說謊的 8 種形式」——本條是「量測環境在說謊」的瀏覽器 renderer 特例）
-- **可能層級**：REFLEXES #24 family 延伸 sub-clause
-- **verification_count**: 1
+- **instances**：
+  - 2026-07-11 hub-template（首錄，production preview 隱藏分頁五種讀法全凍）
+  - 2026-07-11 issue-1212-audit（D+1 二犯，Browser pane 分頁：input 事件 timeout + 捲動後截圖全黑 + data-theme 翻轉後 computed style 半凍——`.footnotes a` 有更新、`.footnote-ref` 凍舊值，做了三輪 CSSOM 考古追「不可能的 cascade」（規則存在、specificity 較高、移除對手 rule 讀值不動）才想起本條；開新分頁 30 秒定案 dark 修復實際有效 8.02:1。半進步：這次自己想起教訓爬出來，但仍是先撞再想起）
+- **可能層級**：REFLEXES #24 family 延伸 sub-clause；vc=2 已達 promote 討論線
+- **verification_count**: 2
 
 ### 2026-07-11 hub-template — agent-environment-side-effect：sub-agent 的環境層副作用是 #31 三類 claim 之外的第四類重驗對象
 
