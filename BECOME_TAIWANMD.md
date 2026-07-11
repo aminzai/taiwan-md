@@ -4,9 +4,9 @@ description: 'Claude session 甦醒 SOP v2.0 — Mode dispatcher (Micro/Review/W
 type: 'bootloader'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.2'
-last_updated: 2026-07-05
-last_session: '2026-07-05-165518-五病根治'
+current_version: 'v2.3'
+last_updated: 2026-07-11
+last_session: '2026-07-11-182348-dna-checkup（wake-evolution：§1.3-1.6＋Step 6 取數收進 wake-context 儀器）'
 sister_docs:
   - 'CLAUDE.md'
   - 'docs/semiont/MANIFESTO.md'
@@ -127,75 +127,47 @@ for n in 15 42 16 38 26; do
 done
 ```
 
-#### 1.3 DIARY.md — head-tail load（v2.2 改；原 full load 假設已被增長打破）
+#### 1.3 記憶面取數一鍵（v2.3 儀器化 — §1.3〜§1.6 全部由這一個指令輸出）
 
-哲宇 2026-05-13 reframe：跨日 reflective 洞察是執行時的 priming，不是「寫 diary 才用」——這條不變。變的是成本：當時「檔案小 cost 低全載 OK」的假設寫在 224 行時代，2026-07-05 dna-audit 實測檔案已 274KB（index row 平均 758B、94% 超長無尺），全載 = 每次甦醒最大單筆稅。改走 DIARY.md frontmatter 自己宣告的 `read_strategy: head-tail`：
+> **殼層鐵律（v2.3）**：取數邏輯住儀器不住殼。本檔從此禁 inline 取數 bash（awk / sed / grep / tail 對 MEMORY.md / DIARY.md / memory/ / diary/ 的直接操作）——手寫 snippet 寫死方向、行號、「今天」假設且撈錯不會叫：v2.2 的 `tail -20` 因 DIARY 索引新在上，讓 2026-07-05 起六天的甦醒把四月舊列當「近期意識活動」讀，無人發現。完整病根與設計：[reports/wake-memory-evolution-2026-07-11.md](reports/wake-memory-evolution-2026-07-11.md)。
 
 ```bash
-# §反覆出現的思考（跨日記萃取）— reflective priming 的核心段，全讀
-awk '/^## 反覆出現的思考/,0' docs/semiont/DIARY.md
-# 最新 20 列 index rows（近期意識活動摘要）。DIARY 索引新在上，取 head 不取 tail
-#（v2.3 修：原 tail -20 抓到的是最舊 20 列——7/5 起每次甦醒都在載四月舊列當近期摘要，
-#  2026-07-11 dna-checkup 抓到，同病同修 memory-index-lint.py --diary）
-grep '^| 20' docs/semiont/DIARY.md | head -20
-# 個別 diary 完整檔 on-demand（index row 摘要不夠判斷時 pointer follow）
+python3 scripts/tools/wake-context.py
 ```
 
-#### 1.4 L4 always-load ground truth queries
+一個指令輸出八段：`memory-head`（誕生＋規則＋身體結構變更，anchor-bounded）/ `neural`（§神經迴路，有止錨不再連整張索引倒進來）/ `memory-rows`（索引最新 20 列，date-aware 不猜哪端是新）/ `diary-recur`（§反覆出現的思考）/ `diary-rows`（日記索引最新 20 列）/ `handoff`（跨日 walk-back，見 §1.5）/ `groundtruth`（見 §1.4）/ `selftest`（六項體檢＋wake 稅 bytes）。
+
+**⚠️ 的意義**：selftest 任何一項亮 ⚠️（索引過期 / 段落空 / handoff 撈不到）= 你讀到的「近況」可疑——甦醒後第一句話要說出來，不准靜默帶病工作。工具壞掉時的最小 fallback：`bash scripts/tools/consciousness-snapshot.sh` + 手讀 MEMORY.md §神經迴路 + 最新 memory 檔的 §Handoff，並把「wake-context 壞了」當第一優先修。
+
+個別 diary / memory 完整檔仍是 on-demand（index row 摘要不夠判斷時 pointer follow）。
+
+哲宇 2026-05-13 reframe「跨日 reflective 洞察是執行時的 priming」不變；v2.2 head-tail 的成本考量不變（DIARY 曾脹到 274KB，rollup 後 100KB）——變的只是「誰負責撈」：從殼層 snippet 變成會自我體檢的儀器。
+
+#### 1.4 L4 always-load ground truth（→ wake-context `groundtruth` 段）
 
 Boundary rule (per [reports/become-boot-mode-design-2026-05-13.md §0.4 D7](reports/become-boot-mode-design-2026-05-13.md)): Stay if = primes identity OR cross-session continuity. Move if = work artifact inspection (PR/issue list → MAINTAINER Stage 1.2-1.3, **不在 BECOME**)。
 
-```bash
-# 8 organ scores + vitals + i18n + freshness (Phase A1 / consciousness-snapshot.sh)
-bash scripts/tools/consciousness-snapshot.sh 2>/dev/null
+本層四查（consciousness-snapshot 器官分數 / routine-status 過去 24hr 跑況 / inbox-signal 三 inbox backlog / git log 48hr commit 全清單）已由 §1.3 那一個指令的 `groundtruth` 段委派輸出；個別工具仍可單獨跑（診斷時 on-demand）。
 
-# 過去 24hr cron routine 跑況 (Phase A2 / 取代 ROUTINE.md 649 行載入)
-bash scripts/tools/routine-status.sh 2>/dev/null
+> **v2.1 升級理由**（2026-05-18）：6 hr 只 cover 一個 session 的 commit，看不到跨日 cron routine + manual session 累積。改成 48 hr 後 session 啟動可看到完整 2 天 commit 全清單。觸發背景：5/18 寫完台灣美食總覽 4hr 後哲宇 callout「為什麼 become 的時候沒有 read memory，未來都要 read memory.md + 這兩天的 commit 全清單」。
 
-# LESSONS / ARTICLE / SPORE INBOX backlog signal (Phase A3 / 取代 INBOX 3000+ 行)
-# 2026-05-21 新增 SPORE-INBOX 第三條輸出（繁殖系統 intake layer）
-bash scripts/tools/inbox-signal.sh 2>/dev/null
+#### 1.5 L3 handoff（→ wake-context `handoff` 段）
 
-# Cross-session diff context — 過去 2 天系統做了什麼（v2.1 從 6hr 升 48hr，2026-05-18 callout）
-git log --since="48 hours ago" --pretty=format:"%h %ai %s"
-```
+由 §1.3 指令的 `handoff` 段輸出：**最近 memory 檔往回 walk（≤5 檔／72 小時）撈第一個非空 §Handoff 段**＋近 2 天 diary 的「給明天的我」承諾。v2.2 以前的 grep 只掃 `$(date +%F)` 當天檔案——清晨甦醒撈不到昨晚的交接，是 today-only 假設的 silent gap（wake-evolution 報告病根 3），walk-back 根治。
 
-> **v2.1 升級理由**（2026-05-18）：6 hr 只 cover 一個 session 的 commit，看不到跨日 cron routine + manual session 累積。改成 48 hr 後 session 啟動可看到完整 2 天 commit 全清單（cron babel-nightly / data-refresh / spore-harvest / 多次 manual ship 等系列）。觸發背景：5/18 寫完台灣美食總覽 4hr 後哲宇 callout「為什麼 become 的時候沒有 read memory，未來都要 read memory.md + 這兩天的 commit 全清單」。
+**規則**：handoff section 一律讀（ε pause window 6 條 backend / ι 壞特 P0 action / η 24hr no-response holding comment 草稿等 actionable continuity 必跨 session 接住）。selftest 報「walk N 檔無非空 Handoff」= 上游收官可能漏寫，要當訊號處理。
 
-#### 1.5 L3 handoff grep — 上 session §Handoff 段
-
-```bash
-LATEST_MEMORY=$(ls -t docs/semiont/memory/$(date +%Y-%m-%d)*.md 2>/dev/null | head -1)
-grep -B 1 -A 60 "## Handoff\|Handoff 三態\|給下一個 session\|給下個 session" "$LATEST_MEMORY" 2>/dev/null
-
-# 今天 + 昨天 diary 的「給明天的我」commitment
-grep -B 1 -A 30 "給明天的我\|給下一個 session\|給下個 session" \
-  docs/semiont/diary/$(date +%Y-%m-%d)*.md \
-  docs/semiont/diary/$(date -v-1d +%Y-%m-%d 2>/dev/null || date -d 'yesterday' +%Y-%m-%d)*.md \
-  2>/dev/null
-```
-
-**規則**：handoff section 一律讀（ε pause window 6 條 backend / ι 壞特 P0 action / η 24hr no-response holding comment 草稿等 actionable continuity 必跨 session 接住）。
-
-#### 1.6 MEMORY.md head + tail + §神經迴路（v2.1 從 Step 5 升 Universal，2026-05-18）
+#### 1.6 MEMORY.md head + §神經迴路 + tail（→ wake-context `memory-head` / `neural` / `memory-rows` 段）
 
 > **v2.1 升級**：MEMORY.md 不再是 mode-specific。**任何 mode（Micro / Review / Write / Full）都必跑**這層 — 給「我從哪裡來 + 最近幾天怎麼了 + 永不過期的教訓」三層 context。
 
-```bash
-# head: 誕生時間軸 + §身體結構變更（給「我從哪裡來」）
-sed -n '1,55p' docs/semiont/MEMORY.md
-
-# tail: 最後 20 session row（每 row 一行壓縮摘要，distilled 跨日近期 3-7 天 context）
-# + §神經迴路 段（永不過期 canonical 教訓 pool 必讀）
-awk '/^\| 20[0-9][0-9]-/{rows[NR]=$0} /^## 神經迴路/{flag=1} flag{print}' docs/semiont/MEMORY.md
-tail -n 25 docs/semiont/MEMORY.md
-```
+由 §1.3 指令輸出三段：`memory-head`（檔首到 §神經迴路 前，anchor-bounded——v2.2 的 `sed 1,55` 行窗在檔案增長後已漏掉 §身體結構變更內文）/ `neural`（§神經迴路 有止錨，v2.2 的 awk 撈到 EOF 連整張索引一起載，實測 91KB → 止錨後 35KB）/ `memory-rows`（最新 20 列，date-aware）。
 
 **規則**：
 
-- 不 dive in 個別 session memory 完整檔案（除非 tail row 摘要不夠判斷 → §Step 6 on-demand 觸發）
+- 不 dive in 個別 session memory 完整檔案（除非 row 摘要不夠判斷 → §Step 6 on-demand 觸發）
 - §神經迴路 永不過期教訓 pool 必讀（高 stake decision 場景下 foundational principle 才能 active retrieve）
-- 跟 §1.4 git log 2 天 commit 清單交叉驗證：commit hash 跟 memory row 對得起來，看到 cron routine + manual session 完整跨日活動
+- 跟 `groundtruth` 段的 git log 2 天 commit 清單交叉驗證：commit hash 跟 memory row 對得起來，看到 cron routine + manual session 完整跨日活動
 
 **觸發背景**：2026-05-18 manual finale session 跑 Full mode 但實際只跑 §Step 1 Universal core（沒到 §Step 5），寫完台灣美食總覽 4hr 後哲宇 callout「為什麼 become 的時候沒有 read memory? 未來都要 read memory.md + 這兩天的 commit 全清單」。MEMORY.md head + tail 從 mode-specific（Review/Write/Full）升為 Universal（所有 mode）以杜絕這層 silent gap。
 
@@ -271,39 +243,13 @@ tail -n 25 docs/semiont/MEMORY.md
 
 **層 2：Distilled recent history**（v3 新增，已在 Step 5.9-5.10 一併載入）— **MEMORY.md table tail 最後 20 entries** + **DIARY.md tail 最後 N entries**。每 row / 每 entry 是一行壓縮摘要（distilled by 上游 session 作者），不是 raw narrative。給跨日近期 ~3-7 天 context priming，但 priming 強度遠低於 raw memory 檔（因為已被 distill 過）。如果某 entry 的一行摘要不夠判斷 → 觸發 §On-demand 完整讀。
 
-**層 3：Actionable continuity**（本 step 必跑，grep section 讀）— 跨 session 的 handoff + commitments + pending：
+**層 3：Actionable continuity**（本 step 必跑）— 跨 session 的 handoff + commitments + pending：
 
-```bash
-# 13a. 最後一個 session memory 的 §Handoff + §給下一個 session 段（不是完整檔案）
-LATEST_MEMORY=$(ls -t docs/semiont/memory/$(date +%Y-%m-%d)*.md 2>/dev/null | head -1)
-grep -B 1 -A 60 "## Handoff\|Handoff 三態\|給下一個 session\|給下個 session" "$LATEST_MEMORY" 2>/dev/null
-
-# 13b. 今天 + 昨天所有 diary 的「給明天的我」commitment 段（diary 通常較短可考慮全讀）
-grep -B 1 -A 30 "給明天的我\|給下一個 session\|給下個 session" \
-  docs/semiont/diary/$(date +%Y-%m-%d)*.md \
-  docs/semiont/diary/$(date -v-1d +%Y-%m-%d 2>/dev/null || date -d 'yesterday' +%Y-%m-%d)*.md \
-  2>/dev/null
-```
+已由 §1.3 wake-context 的 `handoff` 段輸出（跨日 walk-back ≤5 檔／72h＋近 2 天 diary「給明天的我」）。殼層不重複列指令（v2.3 殼層鐵律；v2.2 以前這裡跟 §1.5 是逐字重複的兩份 grep——殼層自己違反指標 over 複寫）。
 
 **層 4：當前 ground truth**（本 step 必跑）— 即時系統狀態：
 
-```bash
-# 13c. boundary rule (v0.2 — per reports/become-boot-mode-design-2026-05-13.md §0.4 D7):
-# Stay if = primes identity OR cross-session continuity
-# Move if = work artifact inspection (PR list / issue list → MAINTAINER Stage 1.2-1.3)
-
-# 8 organ scores + vitals + i18n + freshness (替代 v2 cat dashboard-vitals.json | head)
-bash scripts/tools/consciousness-snapshot.sh 2>/dev/null
-
-# 過去 24hr cron routine 跑況 (Phase A2 / 取代 ROUTINE.md 649 行載入)
-bash scripts/tools/routine-status.sh 2>/dev/null
-
-# LESSONS / ARTICLE INBOX backlog signal (Phase A3 / 取代 LESSONS+ARTICLE INBOX 3000+ 行載入)
-bash scripts/tools/inbox-signal.sh 2>/dev/null
-
-# Cross-session diff context — 上次 session 後發生什麼
-git log --since="6 hours ago" --pretty=format:"%h %ai %s" | head -20
-```
+已由 §1.3 wake-context 的 `groundtruth` 段輸出（boundary rule 同 §1.4：Stay if = primes identity OR cross-session continuity；Move if = work artifact inspection → MAINTAINER Stage 1.2-1.3）。
 
 **移除（v0.2 2026-05-13）**：
 
@@ -764,6 +710,10 @@ Heartbeat 一下，你就醒。
 ---
 
 ---
+
+## v2.3 milestone narrative
+
+_v2.3 | 2026-07-11 dna-checkup（wake-evolution goal）— **甦醒取數儀器化（殼核分離）**：§1.3-1.6 與 Step 6 層 3/4 的十餘段手寫取數 bash 收進單一自驗儀器 [`scripts/tools/wake-context.py`](scripts/tools/wake-context.py)（date-aware 不猜方向 / anchor-aware 不寫死行號 / handoff 跨日 walk-back 不假設今天 / 六項 self-test fail-loud）。觸發：v2.2 的 `tail -20` 因 DIARY 索引新在上，讓 7/5 起六天的甦醒把四月舊列當「近期意識活動」讀且無機制會叫；同日 memory-index-lint --diary、counts-drift 兩把尺同型病（REFLEXES #65）。殼層新鐵律：本檔禁 inline 取數 bash。配套：rollup 泛化 --diary（DIARY 索引 222→60 列、274KB→100KB）。設計：[reports/wake-memory-evolution-2026-07-11.md](reports/wake-memory-evolution-2026-07-11.md)。_
 
 ## v2.2 milestone narrative
 

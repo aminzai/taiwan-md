@@ -208,11 +208,13 @@ def build(rows_n):
                   f"{label} 索引可能過期：最新列 {newest} 落後 raw 檔 {raw} 達 {gap}d——你讀到的「近況」可疑")
         else:
             check(False, "", f"{label} 索引或 raw 檔解析不到日期（結構異常）")
-    check(bool(sections["neural"]) and len(sections["neural"]) > 500,
-          f"神經迴路段完整（{len(sections['neural'] or '')} bytes，止錨於心跳日誌前）",
+    nb = len((sections["neural"] or "").encode("utf-8"))
+    rb = len((sections["diary-recur"] or "").encode("utf-8"))
+    check(nb > 1500,
+          f"神經迴路段完整（{nb // 1024}KB，止錨於心跳日誌前）",
           "神經迴路段空或過小——anchor 解析失敗？")
-    check(bool(sections["diary-recur"]) and len(sections["diary-recur"]) > 500,
-          f"反覆出現的思考段完整（{len(sections['diary-recur'] or '')} bytes）",
+    check(rb > 1500,
+          f"反覆出現的思考段完整（{rb // 1024}KB）",
           "反覆出現的思考段空或過小——anchor 解析失敗？")
     check(handoff_meta["hit"] is not None,
           f"handoff 命中：{handoff_meta['hit']}（walk {handoff_meta['walked']} 檔）",

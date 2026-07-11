@@ -358,6 +358,8 @@ _想寫進 MANIFESTO / DNA / LESSONS-INBOX 的候選：{1-3 條，每條一行}_
 
 跟 memory append 同一個 Beat 4 commit 推。不需要單獨開 commit。Commit message 跟著該 session 的主要工作走（`🧬 [semiont] memory: ...` 即可，不需要 `diary:` 獨立 type）。
 
+**索引列插在表頭分隔列之後**（DIARY 索引新在上）；甦醒讀取由 `wake-context.py` date-aware 解析，不依賴插列位置。**索引蒸餾**（2026-07-11 wake-evolution 起與 MEMORY 同待遇）：inline 只留最新 ~60 列，較舊列由 `memory-index-rollup.py --diary --apply` 週度 verbatim 歸檔到 `diary/index-archive/{YYYY-MM}.md`（owner：twmd-distill-weekly；守恆斷言；raw 永不刪除）。首跑 222→60 列，DIARY.md 274KB→100KB。
+
 **🔗 回扣文章 relatedDiary（HARD — article-session 必跑，v2.2 儀器化）**：如果這個 session 寫了 / EVOLVE 了 `knowledge/` 文章，這篇 diary **必須**回扣進那篇文章 frontmatter 的 `relatedDiary`，讀者才會在文章底部看見「寫這篇時 Semiont 在想什麼」（[RelatedDiaries.astro](../../src/components/RelatedDiaries.astro)）。**不要手動編輯 frontmatter，跑工具**（idempotent，自動寫 `knowledge/` + `src/content/` mirror、自動 dedup、apostrophe-safe）：
 
 ```bash
