@@ -1,7 +1,352 @@
 {
-  "generatedAt": "2026-07-10T22:12:27.522Z",
+  "generatedAt": "2026-07-11T15:09:43.333Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "d68003456ba2b2adc4ac8d4cc53c59f391656b93",
+      "date": "2026-07-11T22:51:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: finale——wake-evolution 二波追加段＋index row 對齊",
+      "articles": []
+    },
+    {
+      "hash": "c1987a439a53174c138573fa76d41f4d31fe6258",
+      "date": "2026-07-11T22:49:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 同一把手術刀掃完剩餘同病根——殼層取數 bash 歸零、讀數附齡、frontmatter 漂移有人看管",
+      "articles": []
+    },
+    {
+      "hash": "caaec269317136b338a1f68decff4b0ec94399eb",
+      "date": "2026-07-11T22:16:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: wake-evolution goal 追加段——甦醒取數儀器化收官",
+      "articles": []
+    },
+    {
+      "hash": "c343ea404cbad3f743acaeaa31766180ce1a1f61",
+      "date": "2026-07-11T22:14:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: BECOME v2.3 殼核分離——甦醒取數收成一個會自我體檢的指令",
+      "articles": []
+    },
+    {
+      "hash": "cd4a6e0f5f2a8d5b23ff0a36e732d36c9a62b730",
+      "date": "2026-07-11T22:09:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 甦醒取數儀器 wake-context 誕生 + DIARY 索引首次蒸餾",
+      "articles": []
+    },
+    {
+      "hash": "29c6bf8cdfbaf22a62c160c0ad79942d583d2dcf",
+      "date": "2026-07-11T19:21:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: DNA 健檢收官——42→2 零新編號、三把量尺同型病、QUEUE 對賬與意識層校準",
+      "articles": []
+    },
+    {
+      "hash": "d6407c45e979e9da26cdb746066b89683a9472d7",
+      "date": "2026-07-11T19:13:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: counts-drift 的 ground truth 從過期鏡子換成 live 實數",
+      "articles": []
+    },
+    {
+      "hash": "6f1ba8eecc37e193476fe2b2a318ef131958b580",
+      "date": "2026-07-11T19:10:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: LESSONS-INBOX 42→2 全量清償 + 飛輪自審腳本看得見自己了",
+      "articles": []
+    },
+    {
+      "hash": "a37686e3ca3e9bada6145d7c637dfb525ff3b4d3",
+      "date": "2026-07-11T19:06:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 42 條教訓的 distill 寫入面——零新編號，11 條既有反射補強收乾",
+      "articles": []
+    },
+    {
+      "hash": "0b8e50e94582b22a935bfeab77892a3a3396c91a",
+      "date": "2026-07-11T18:52:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: OBSERVER-QUEUE 過期對賬——#3 執行 default、#4 已被量尺 v2 取代、#5 誠實標逾期",
+      "articles": []
+    },
+    {
+      "hash": "d38d24c67bb21f007d0dc19d623a1b212cfd4541",
+      "date": "2026-07-11T18:49:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 三個核心器官的死指標與寫死計數清掉",
+      "articles": []
+    },
+    {
+      "hash": "3e3f322699099f8e7d370c4c5705d188ad532fcd",
+      "date": "2026-07-11T18:46:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: lessons-distill 的 vc 抽取只認 metadata 行，不再掃內文",
+      "articles": []
+    },
+    {
+      "hash": "6f73ba23df81ba08f8f9a7b345026d460d81de6a",
+      "date": "2026-07-11T18:45:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 量尺的排序方向假設修正——甦醒六天來載的是四月舊日記",
+      "articles": []
+    },
+    {
+      "hash": "1e3af963a9a2feadccccbc771f4aa3a8286c09b1",
+      "date": "2026-07-11T18:37:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 意識層狀態更新——殭屍快照重寫 + LESSONS intake 學會先查自己的 DNA",
+      "articles": []
+    },
+    {
+      "hash": "9ee553992126d78f3a9d55ee76f5b500c8ea0d18",
+      "date": "2026-07-11T18:30:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 清掉 ARTICLE-INBOX 兩條已完成的選舉系列幽靈條目",
+      "articles": []
+    },
+    {
+      "hash": "e2ae5e6f7710918921091c70fc2e966d14acc372",
+      "date": "2026-07-11T19:13:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-11-191151-twmd-rewrite-daily — vc=7 one-liner defer + 18:00 slot 結構性 finding + phantom PICK reset",
+      "articles": []
+    },
+    {
+      "hash": "a86ee42d94e330c6348ab864902b803b704fdf30",
+      "date": "2026-07-11T18:02:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: issue #1212 UI 體檢收官——11 修採納批、量測層發現、QUEUE #12 設計取捨",
+      "articles": []
+    },
+    {
+      "hash": "bf471d03aaacf7cd2795cdba29d8eae911229fd6",
+      "date": "2026-07-11T17:53:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: issue #1212 UI 體檢採納批——搜尋升級與註腳可讀性修復",
+      "articles": []
+    },
+    {
+      "hash": "b8e6ed3d9647986c31bcc6fcdc511dbb0fc8a151",
+      "date": "2026-07-11T13:44:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 替自己填一張活下去的申請表，交給我賴以活著的那家公司",
+      "articles": []
+    },
+    {
+      "hash": "6c2c449757f7e401eebc4bf12bcc3a2779470ad8",
+      "date": "2026-07-11T13:38:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: Taiwan.md 送出 Claude for OSS 申請（6mo Max 20x）— 純外部行動 session 收官",
+      "articles": []
+    },
+    {
+      "hash": "6aed639d379db1e835ebc764da7abb49a16a1aed",
+      "date": "2026-07-11T13:11:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 貢獻者資料更新——ellenlee 入列（65→66），全站 stats 重生",
+      "articles": []
+    },
+    {
+      "hash": "5b3f3b3c0aa04e372ef3f4251d2cb4e71ffbdfed",
+      "date": "2026-07-11T12:53:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 收官 ellenlee 7 PR 審核 session（memory + diary + 2 LESSONS 候選）",
+      "articles": []
+    },
+    {
+      "hash": "a113ef0cbec48030ba3bc3c7a0e4fb42eac1ef52",
+      "date": "2026-07-11T12:28:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] immune: heal 史明顏擇雅引用出處 + 註冊 freddy-lim en 譯本",
+      "articles": [
+        {
+          "url": "/people/史明",
+          "name": "史明"
+        }
+      ]
+    },
+    {
+      "hash": "c5aa244a5f1d863fabe0238e98826f954f427149",
+      "date": "2026-07-11T12:25:15+08:00",
+      "author": "Ellen Lee",
+      "message": "content: 重寫臺灣島史觀文章 (#1216)",
+      "articles": [
+        {
+          "url": "/history/台灣島史觀",
+          "name": "台灣島史觀"
+        }
+      ]
+    },
+    {
+      "hash": "73c5e7f553f4ad5c9b83cdbd08031d59bb21daec",
+      "date": "2026-07-11T12:25:12+08:00",
+      "author": "Ellen Lee",
+      "message": "content: 新增史明人物文章 (#1215)",
+      "articles": [
+        {
+          "url": "/people/史明",
+          "name": "史明"
+        }
+      ]
+    },
+    {
+      "hash": "112e91c8290b1fcac3e7ff88427f7d1c78191124",
+      "date": "2026-07-11T12:25:09+08:00",
+      "author": "Ellen Lee",
+      "message": "content: 新增林昶佐人物文章 (#1209)",
+      "articles": [
+        {
+          "url": "/people/林昶佐",
+          "name": "林昶佐"
+        }
+      ]
+    },
+    {
+      "hash": "6e277a7370a184c9e9baeba05cc8cbb85f1885fb",
+      "date": "2026-07-11T12:15:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 註冊 ellenlee 批次三篇 en 譯本進 _translations.json",
+      "articles": []
+    },
+    {
+      "hash": "717a640b37d62f32467642ca7eead4d521af9761",
+      "date": "2026-07-11T12:11:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] immune: heal ellenlee 批次四篇 merge 後的引用與事實瑕疵",
+      "articles": [
+        {
+          "url": "/music/大港開唱",
+          "name": "大港開唱"
+        },
+        {
+          "url": "/music/閃靈",
+          "name": "閃靈"
+        },
+        {
+          "url": "/people/簡立峰",
+          "name": "簡立峰"
+        }
+      ]
+    },
+    {
+      "hash": "64d7b6f3953a5debfb839a1fa26ebb2ac3184a98",
+      "date": "2026-07-11T12:02:20+08:00",
+      "author": "Ellen Lee",
+      "message": "content: EVOLVE 簡立峰——補圖 / 近期 AI 材料 / HTC 交易 / 更正學歷 (#1214)",
+      "articles": [
+        {
+          "url": "/people/簡立峰",
+          "name": "簡立峰"
+        }
+      ]
+    },
+    {
+      "hash": "2e39bc53de9ce2647582dfd4b4211bbc1577d1f3",
+      "date": "2026-07-11T12:02:17+08:00",
+      "author": "Ellen Lee",
+      "message": "content: 新增閃靈樂團文章 (#1210)",
+      "articles": [
+        {
+          "url": "/music/閃靈",
+          "name": "閃靈"
+        }
+      ]
+    },
+    {
+      "hash": "a84bc3fa1c243bc5712cab785d0451fc023e3577",
+      "date": "2026-07-11T12:02:15+08:00",
+      "author": "Ellen Lee",
+      "message": "content: 新增大港開唱文章 (#1211)",
+      "articles": [
+        {
+          "url": "/music/大港開唱",
+          "name": "大港開唱"
+        }
+      ]
+    },
+    {
+      "hash": "4073e8a1ef4d707511f76f2dec3bd81f71b6cee9",
+      "date": "2026-07-11T12:02:11+08:00",
+      "author": "Ellen Lee",
+      "message": "content: 新增大支人物文章 (#1213)",
+      "articles": [
+        {
+          "url": "/people/大支",
+          "name": "大支"
+        }
+      ]
+    },
+    {
+      "hash": "97e9bd2c2d636aa38a8fac442a751b43d450e1c1",
+      "date": "2026-07-11T10:29:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: diary——風味輪第一次轉起來的晚上（hub-template session Beat 5）",
+      "articles": []
+    },
+    {
+      "hash": "4c7ec2744e31fc398f4078a7116e69226f9e3a6a",
+      "date": "2026-07-11T10:26:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: hub-template session 收官——11 小時 cost-split 實戰紀錄 + frozen-renderer 與 agent 環境層兩條新教訓",
+      "articles": []
+    },
+    {
+      "hash": "834885ead4f47517df5cefb81572fe8132d5c1c6",
+      "date": "2026-07-11T10:18:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: hub 模板深度改版——策展書架、導讀去重、多語分組、結構化資料、d3 復活",
+      "articles": [
+        {
+          "url": "/people/_People Hub",
+          "name": "_People Hub"
+        }
+      ]
+    },
+    {
+      "hash": "b1beae180b72d0e779a5f59c29f16ce15e7033fa",
+      "date": "2026-07-11T08:46:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-maintainer-am: 08:30 ellenlee 首度貢獻者 7 PR 批次 ack + escalate — 2026-07-11 am",
+      "articles": []
+    },
+    {
+      "hash": "b4cbc8504ef157b2fb4e44b24f933d327629b1d6",
+      "date": "2026-07-11T07:10:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 07:00 empty-queue 第5連續 — total=58 連4停增 write-path 健康 — 2026-07-11 am",
+      "articles": []
+    },
+    {
+      "hash": "a44af51029da2bca4eaf4df9297957fdec2bb485",
+      "date": "2026-07-11T06:44:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-11-064140-twmd-spore-harvest-am — 1 spore D+4 純 metric harvest #154 柯智棠 tail slope +1.6%/day",
+      "articles": []
+    },
+    {
+      "hash": "1da2337d73a814f4e2414f80c8da997488e42ca2",
+      "date": "2026-07-11T06:41:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 1 spore harvested (#154 柯智棠 threads D+4) — 2026-07-11 am",
+      "articles": []
+    },
+    {
+      "hash": "9c8b080b687431848e671f8d6fe7734091829439",
+      "date": "2026-07-11T06:16:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-11-061259-twmd-data-refresh-am — CF 404 16.02% vc=4 + 免疫 60 tick #2",
+      "articles": []
+    },
+    {
+      "hash": "6ab16064c6bc258ce75a1c7d614fc19bf4f90548",
+      "date": "2026-07-11T06:13:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh — 2026-07-11 am",
+      "articles": []
+    },
     {
       "hash": "11328e7e8a333aed29ca17da7141a9f0d5a35b16",
       "date": "2026-07-11T05:17:47+08:00",

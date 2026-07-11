@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-11T06:12:24+08:00",
-    "zhCommitHead": "11328e7e8",
-    "totalZh": 844,
+    "lastUpdated": "2026-07-11T23:09:39+08:00",
+    "zhCommitHead": "d68003456",
+    "totalZh": 849,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
-        "total_zh": 844,
-        "fresh": 840,
-        "stale": 4,
+        "total_zh": 849,
+        "fresh": 838,
+        "stale": 10,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 844,
-        "fresh": 839,
-        "stale": 5,
+        "total_zh": 849,
+        "fresh": 837,
+        "stale": 7,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 844,
-        "fresh": 839,
-        "stale": 5,
+        "total_zh": 849,
+        "fresh": 837,
+        "stale": 7,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "es": {
-        "total_zh": 844,
-        "fresh": 839,
-        "stale": 5,
+        "total_zh": 849,
+        "fresh": 837,
+        "stale": 7,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 844,
-        "fresh": 838,
-        "stale": 6,
+        "total_zh": 849,
+        "fresh": 836,
+        "stale": 8,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 5,
         "orphan": 0
       }
     },
@@ -1655,6 +1655,42 @@
         }
       }
     },
+    "Music/大港開唱.md": {
+      "zh": {
+        "lastCommit": "717a640b",
+        "lastModified": "2026-07-11T12:11:40+08:00",
+        "contentHash": "sha256:2cde586b88469ed9",
+        "bodyHash": "sha256:db05dfd8f23d6ee9"
+      },
+      "translations": {
+        "en": {
+          "path": "en/Music/megaport-festival.md",
+          "translatedFrom": "Music/大港開唱.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "717a640b",
+          "translationLastModified": "2026-07-11T12:11:40+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "stale",
+          "reason": "no-source-sha"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "Music/八部合音.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -1892,6 +1928,42 @@
           "footnoteDefs": 17,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Music/閃靈.md": {
+      "zh": {
+        "lastCommit": "717a640b",
+        "lastModified": "2026-07-11T12:11:40+08:00",
+        "contentHash": "sha256:6935f531351a74df",
+        "bodyHash": "sha256:084c8e9d89d953ea"
+      },
+      "translations": {
+        "en": {
+          "path": "en/Music/chthonic.md",
+          "translatedFrom": "Music/閃靈.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "717a640b",
+          "translationLastModified": "2026-07-11T12:11:40+08:00",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "stale",
+          "reason": "no-source-sha"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -35655,6 +35727,31 @@
         }
       }
     },
+    "People/史明.md": {
+      "zh": {
+        "lastCommit": "a113ef0c",
+        "lastModified": "2026-07-11T12:28:54+08:00",
+        "contentHash": "sha256:1ae91ed26b56a7cf",
+        "bodyHash": "sha256:09b0e9d407cb3e56"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        }
+      }
+    },
     "People/黃仁勳.md": {
       "zh": {
         "lastCommit": "7852e7f7",
@@ -37252,6 +37349,42 @@
           "footnoteDefs": 7,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "People/林昶佐.md": {
+      "zh": {
+        "lastCommit": "112e91c8",
+        "lastModified": "2026-07-11T12:25:09+08:00",
+        "contentHash": "sha256:957dfe94a86d2cfa",
+        "bodyHash": "sha256:d7498767d9c4e448"
+      },
+      "translations": {
+        "en": {
+          "path": "en/People/freddy-lim.md",
+          "translatedFrom": "People/林昶佐.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "112e91c8",
+          "translationLastModified": "2026-07-11T12:25:09+08:00",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "stale",
+          "reason": "no-source-sha"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -40057,10 +40190,10 @@
     },
     "People/簡立峰.md": {
       "zh": {
-        "lastCommit": "0f8fae0a",
-        "lastModified": "2026-05-17T18:46:40+08:00",
-        "contentHash": "sha256:fbf9f60162ac4b29",
-        "bodyHash": "sha256:820519fbefcc8fbc"
+        "lastCommit": "717a640b",
+        "lastModified": "2026-07-11T12:11:40+08:00",
+        "contentHash": "sha256:8fe13ae8a4b4ef0b",
+        "bodyHash": "sha256:ea3e7d04bd378c51"
       },
       "translations": {
         "en": {
@@ -40074,8 +40207,8 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "ja": {
           "path": "ja/People/jamie-lin-ai-industry-pioneer.md",
@@ -40088,8 +40221,8 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "ko": {
           "path": "ko/People/jamie-lin-ai-industry-pioneer.md",
@@ -40102,8 +40235,8 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "es": {
           "path": "es/People/jamie-lin-ai-industry-pioneer.md",
@@ -40116,8 +40249,8 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         },
         "fr": {
           "path": "fr/People/jamie-lin-ai-industry-pioneer.md",
@@ -40130,8 +40263,8 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (16→5)"
         }
       }
     },
@@ -44932,6 +45065,42 @@
           "footnoteDefs": 23,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "People/大支.md": {
+      "zh": {
+        "lastCommit": "4073e8a1",
+        "lastModified": "2026-07-11T12:02:11+08:00",
+        "contentHash": "sha256:6c7ade34f353415e",
+        "bodyHash": "sha256:dafa8ff441ad1c1e"
+      },
+      "translations": {
+        "en": {
+          "path": "en/People/dwagie.md",
+          "translatedFrom": "People/大支.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "4073e8a1",
+          "translationLastModified": "2026-07-11T12:02:11+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "stale",
+          "reason": "no-source-sha"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -55097,25 +55266,25 @@
     },
     "History/台灣島史觀.md": {
       "zh": {
-        "lastCommit": "01d9d0e7",
-        "lastModified": "2026-05-11T16:09:20+08:00",
-        "contentHash": "sha256:a449ffee99fa24a3",
-        "bodyHash": "sha256:ba46b21b9cb6be40"
+        "lastCommit": "c5aa244a",
+        "lastModified": "2026-07-11T12:25:15+08:00",
+        "contentHash": "sha256:bda838eb0d68c4b9",
+        "bodyHash": "sha256:81e799dfb2b94b31"
       },
       "translations": {
         "en": {
           "path": "en/History/taiwan-island-historiography.md",
           "translatedFrom": "History/台灣島史觀.md",
-          "sourceCommitSha": "01d9d0e73",
-          "sourceContentHash": "sha256:a449ffee99fa24a3",
-          "sourceBodyHash": "sha256:ba46b21b9cb6be40",
-          "translatedAt": "2026-05-12T11:51:04+08:00",
-          "translationLastCommit": "710e95ff",
-          "translationLastModified": "2026-05-12T12:42:44+08:00",
+          "sourceCommitSha": "00b41fe9e",
+          "sourceContentHash": "",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-11T01:18:05+08:00",
+          "translationLastCommit": "c5aa244a",
+          "translationLastModified": "2026-07-11T12:25:15+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 8,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ja": {
           "path": "ja/History/island-centric-history.md",
@@ -55128,8 +55297,8 @@
           "translationLastModified": "2026-05-12T12:42:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→0)"
         },
         "ko": {
           "path": "ko/History/taiwan-island-historiography.md",
@@ -55142,8 +55311,8 @@
           "translationLastModified": "2026-05-12T12:42:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→0)"
         },
         "es": {
           "path": "es/History/taiwan-island-historiography.md",
@@ -55156,8 +55325,8 @@
           "translationLastModified": "2026-05-12T12:42:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→0)"
         },
         "fr": {
           "path": "fr/History/taiwan-island-historiography.md",
@@ -55170,8 +55339,8 @@
           "translationLastModified": "2026-05-12T12:42:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→0)"
         }
       }
     },

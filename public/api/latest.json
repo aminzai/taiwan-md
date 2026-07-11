@@ -1,8 +1,71 @@
 {
-  "_generated": "2026-07-10T22:12:35.321Z",
+  "_generated": "2026-07-11T15:09:55.249Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "史明：用一間餃子店，養了四十年的台灣革命",
+        "desc": "史明本名施朝暉，曾在中國替中共做地下情報，卻在親眼見過土改屠殺後幻滅，回台密謀刺殺蔣介石，事敗後偷渡日本。他在東京池袋開了一間叫「新珍味」的麵店，白天賣餃子、夜晚寫台灣史，用這間店的收入養了四十年的台獨運動，也寫出喚起台灣民族意識的《台灣人四百年史》。",
+        "category": "people",
+        "href": "/people/%E5%8F%B2%E6%98%8E",
+        "date": "2026-07-11T12:28:54+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
+      {
+        "title": "臺灣島史觀：被反覆統治的島，如何發明自己的主體性",
+        "desc": "臺灣島史觀把台灣從外部政權的年表中拿回來，改問這座島上的人如何生活、遷徙、被統治、求生與重組記憶。它不是把台灣寫成天生特別的島，而是提醒我們：認同也會從共同生活、共同受傷與共同承擔中長出來；台灣史的主角，不該永遠只是來過的政權。",
+        "category": "history",
+        "href": "/history/%E5%8F%B0%E7%81%A3%E5%B3%B6%E5%8F%B2%E8%A7%80",
+        "date": "2026-07-11T12:25:15+08:00",
+        "readingTime": null,
+        "image": "/article-images/history/formosa-dutch-map-1640.webp"
+      },
+      {
+        "title": "林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人",
+        "desc": "林昶佐以閃靈主唱 Freddy 的身份，把二二八、白色恐怖、霧社事件、台灣神話與台語金屬寫進公共記憶，也和夥伴把大港開唱做成南方文化場域。音樂、台灣意識、文化實踐、制度政治、家庭生命經驗與卸任後公共角色，在他身上彼此牽連，形成一條從舞台走向社會、國會與國際現場的路。",
+        "category": "people",
+        "href": "/people/%E6%9E%97%E6%98%B6%E4%BD%90",
+        "date": "2026-07-11T12:25:09+08:00",
+        "readingTime": 14,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg"
+      },
+      {
+        "title": "大港開唱：高雄港邊長出來的台灣音樂祭",
+        "desc": "大港開唱是 2006 年創立於高雄港邊的台灣大型戶外音樂祭，從野台開唱團隊、閃靈成員與 TRA Music 的策展經驗出發，將南台灣樂團、台語現場、國際卡司、NGO 議題村與港都地景放進同一個場域。它讓高雄港邊成為台灣聽團文化、城市認同與公共議題彼此交會的重要現場。",
+        "category": "music",
+        "href": "/music/%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1",
+        "date": "2026-07-11T12:11:40+08:00",
+        "readingTime": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg"
+      },
+      {
+        "title": "閃靈：把台灣歷史唱進黑金屬的樂團",
+        "desc": "閃靈是 1995 年成立於台北的台灣重金屬樂團，以黑金屬、二胡、台語、台灣神話、亡靈敘事與歷史創傷為核心，把林投姊、霧社事件、二二八事件、高砂義勇隊、白色恐怖與台灣主權議題推上國際金屬舞台。它不是林昶佐從政前的背景板，而是一個由 Freddy、Doris、Jesse、Dani、CJ 等團員共同撐出的創作體。",
+        "category": "music",
+        "href": "/music/%E9%96%83%E9%9D%88",
+        "date": "2026-07-11T12:11:40+08:00",
+        "readingTime": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/12-08_Wacken_Chthonic_02.jpg/1280px-12-08_Wacken_Chthonic_02.jpg"
+      },
+      {
+        "title": "簡立峰：在 Google 來台灣以前，他已經在做台灣的搜尋",
+        "desc": "很多台灣研究生在 Google 出現以前，查碩博士論文用的那套線上檢索系統，背後的研究者就是簡立峰。他從中央研究院的中文檢索先驅，變成 Google 台灣的第一號員工，十四年把一個人的辦公室帶成逾兩千人的研發基地。二○二○年退休後他沒有安靜下來，反而成了對台灣人才最不留情面的那個人：台灣「五年內找不到人才，十年內找不到消費者」。",
+        "category": "people",
+        "href": "/people/%E7%B0%A1%E7%AB%8B%E5%B3%B0",
+        "date": "2026-07-11T12:11:40+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/lee-feng-chien-tsai-google-2019.webp"
+      },
+      {
+        "title": "大支：從台南練功房走出的台語饒舌校長",
+        "desc": "大支（Dwagie，本名曾冠榕）是台南出身的台灣饒舌歌手、人人有功練創辦人。從 MU 留言板與魔岩唱片《舌粲蓮花》，到〈台灣SONG〉、《人》、動物權、大嘻哈時代與台南嘻哈教育，他把台語饒舌、地方場域、公共議題、新世代培力與台灣主體意識放進同一支麥克風，也讓台南成為台灣饒舌史不能跳過的現場。",
+        "category": "people",
+        "href": "/people/%E5%A4%A7%E6%94%AF",
+        "date": "2026-07-11T12:02:11+08:00",
+        "readingTime": 14,
+        "image": "/article-images/music/dwagie-portrait-2019.webp"
+      },
       {
         "title": "2026 九合一選舉：在 AI 認知作戰時代的民主基礎建設壓力測試",
         "desc": "2026 年 11 月 28 日，全台 22 縣市同日打開投票所選出九種職位、超過 1.1 萬個民選首長與民意代表。這場選舉跟過去任何一場都不一樣 — 差別不在候選人，差別在它發生的環境：中共國家級 AI 認知作戰升級、123+ 偽冒新聞網站、檢察官把 AI 假訊息列入查察四大重點。這篇不是選舉資訊整理，是這場選舉的歷史定位與結構性壓力分析。",
@@ -209,72 +272,54 @@
         "date": "2026-07-05T23:44:34+08:00",
         "readingTime": 24,
         "image": "/article-images/geography/jinguashi-13-levels-lighting-2019.webp"
-      },
-      {
-        "title": "蕃薯藤：從獨台會案到小蕃薯寶寶，一個本土搜尋引擎的理想與幻滅",
-        "desc": "1994年，陳正然與一群社運青年創立蕃薯藤，打造台灣首個全球資訊網與華文搜尋引擎，並以「小蕃薯寶寶」深植世代記憶。然而，面對網路泡沫與國際巨頭競爭，這份源於社會關懷的理想，最終仍難敵商業現實，於2006年黯然退場。這不僅是台灣網路發展的縮影，更是一場理想與商業現實的深刻對話。",
-        "category": "technology",
-        "href": "/technology/%E8%95%83%E8%96%AF%E8%97%A4",
-        "date": "2026-07-05T19:51:09+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "走在填平的港口上：台南中西區的五道小吃",
-        "desc": "國華街與海安路的地底下是清代五條港的河道遺址；牛肉湯、虱目魚粥、鱔魚意麵、豬心冬粉，每一道小吃的時間、位置與食材，都是四百年碼頭工人的生存邏輯留下的化石。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E5%8D%97%E4%B8%AD%E8%A5%BF%E5%8D%80%E7%BE%8E%E9%A3%9F%E5%B0%8F%E5%90%83%E6%96%87%E5%8C%96",
-        "date": "2026-07-05T17:57:58+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "凌晨五點的溫體：台南牛肉湯的供應鏈與新鮮度",
-        "desc": "台南牛肉湯成為「代表美食」不超過二十年，但讓它值得凌晨五點排隊的理由是真實的——善化屠宰場的溫體牛、幾小時內完成的冷鏈，以及那鍋從清晨就開始滾的牛骨湯底。",
-        "category": "food",
-        "href": "/food/%E7%89%9B%E8%82%89%E6%B9%AF",
-        "date": "2026-07-05T17:57:58+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "不是鄭成功帶來的：虱目魚的四百年養殖史",
-        "desc": "台南人叫虱目魚「家魚」，但它的起源是荷蘭東印度公司從印尼引進的養殖技術，比鄭成功來台早了三十七年。七股4,500公頃的魚塭、整條魚七種以上的料理分法，是這段四百年養殖史留下的活化石。",
-        "category": "food",
-        "href": "/food/%E8%99%B1%E7%9B%AE%E9%AD%9A%E7%B2%A5",
-        "date": "2026-07-05T17:57:58+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "鋁杯裡的耐心：阿明豬心冬粉七十年的隔水哲學",
-        "desc": "台南保安路72號，黃賢明的阿明豬心冬粉從下午五點開賣，每晚大排長龍，2022年列入米其林必比登。核心不在食材——豬心是便宜的工人下水——而在烹調方式：豬心片放進鋁杯隔水加熱，讓溫度從外緩慢滲進去，做出不腥、不硬、帶甜的豬心。",
-        "category": "food",
-        "href": "/food/%E8%B1%AC%E5%BF%83%E5%86%AC%E7%B2%89",
-        "date": "2026-07-05T17:57:58+08:00",
-        "readingTime": 6,
-        "image": ""
-      },
-      {
-        "title": "27 秒的精準：台南鱔魚意麵的日治起源與廖家傳承",
-        "desc": "台南鱔魚意麵的核心技術是一個數字：27 秒。鱔魚下鍋到起鍋超過這個時間，肉質變柴、腥味出來、整鍋廢掉。這道菜在日治時期的沙卡里巴集市誕生，廖炳南、廖火土兄弟從福州師傅習藝，用台南水塘的野生鱔魚代替日本人的鰻魚，打出百年名號。",
-        "category": "food",
-        "href": "/food/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5",
-        "date": "2026-07-05T17:57:58+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "鶯歌陶瓷老街：從煙囪到捷運，兩百年陶藝的轉型與新生",
-        "desc": "鶯歌，這座曾以煙囪林立聞名的「台灣景德鎮」，在歷經產業轉型與觀光化浪潮後，先後迎來新北市美術館開幕與捷運三鶯線通車。新一代陶藝人正透過「產地開放日」等活動，在傳統與創新、觀光與產業間尋找永續發展的新路徑。",
-        "category": "history",
-        "href": "/history/%E9%B6%AF%E6%AD%8C%E9%99%B6%E7%93%B7%E8%80%81%E8%A1%97",
-        "date": "2026-07-05T17:53:02+08:00",
-        "readingTime": 10,
-        "image": ""
       }
     ],
     "en": [
+      {
+        "title": "Taiwan Island Historiography: How a Repeatedly Ruled Island Reclaimed Its Own Subjectivity",
+        "desc": "Taiwan island historiography takes Taiwan out of the timeline of outside regimes and asks how people on this island lived, migrated, were ruled, survived, and rebuilt memory. It does not turn Taiwan into a naturally exceptional island; it reminds us that identity can also grow from shared life, shared wounds, and shared responsibility.",
+        "category": "history",
+        "href": "/en/history/taiwan-island-historiography",
+        "date": "2026-07-11T12:25:15+08:00",
+        "readingTime": null,
+        "image": "/article-images/history/formosa-dutch-map-1640.webp"
+      },
+      {
+        "title": "Freddy Lim: From Chthonic Frontman to Parliament, Turning Taiwan’s History Into a Public Voice",
+        "desc": "As Freddy, lead vocalist of Chthonic, Lim wrote the 228 Incident, the White Terror, the Wushe Incident, Taiwanese mythology, and Taiwanese Hokkien metal into public memory, while also helping build Megaport Festival into a southern cultural field. Music, Taiwan consciousness, cultural practice, institutional politics, family life, and post-legislative public roles all connect in his path from stage to society, parliament, and the international arena.",
+        "category": "people",
+        "href": "/en/people/freddy-lim",
+        "date": "2026-07-11T12:25:09+08:00",
+        "readingTime": 18,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg"
+      },
+      {
+        "title": "Chthonic: The Band That Sang Taiwanese History Into Black Metal",
+        "desc": "Chthonic is a Taiwanese heavy metal band founded in Taipei in 1995. Centered on black metal, erhu, Taiwanese Hokkien, mythology, ghost narratives, and historical trauma, it brought the Lady of Linshui, the Wushe Incident, the 228 Incident, the Takasago Volunteers, White Terror memory, and Taiwan’s sovereignty issues onto the international metal stage.",
+        "category": "music",
+        "href": "/en/music/chthonic",
+        "date": "2026-07-11T12:11:40+08:00",
+        "readingTime": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/12-08_Wacken_Chthonic_02.jpg/1280px-12-08_Wacken_Chthonic_02.jpg"
+      },
+      {
+        "title": "Megaport Festival: The Taiwanese Music Festival That Grew Out of Kaohsiung Harbor",
+        "desc": "Megaport Festival is a major Taiwanese outdoor music festival founded beside Kaohsiung Harbor in 2006. Growing from the Formoz Festival team, Chthonic members, and TRA Music’s curatorial experience, it brings southern Taiwanese bands, Taiwanese Hokkien live stages, international lineups, NGO issue villages, and harbor-city landscapes into one field, making Kaohsiung’s waterfront a key site where Taiwan’s live-band culture, city identity, and public issues meet.",
+        "category": "music",
+        "href": "/en/music/megaport-festival",
+        "date": "2026-07-11T12:11:40+08:00",
+        "readingTime": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg"
+      },
+      {
+        "title": "Dwagie: The Taiwanese Rap Schoolmaster Who Built a Training Room in Tainan",
+        "desc": "Dwagie, born Tseng Kuan-jung, is a Taiwanese rapper from Tainan and the founder of Kung-Fu Entertainment. From the Master U message board and Magic Stone’s Lotus from the Tongue to “Taiwan Song,” The People, animal-rights advocacy, The Rappers, and hip-hop education in Tainan, he put Taiwanese Hokkien rap, local scene-building, public issues, next-generation mentoring, and Taiwan-centered identity into the same microphone.",
+        "category": "people",
+        "href": "/en/people/dwagie",
+        "date": "2026-07-11T12:02:11+08:00",
+        "readingTime": 16,
+        "image": "/article-images/music/dwagie-portrait-2019.webp"
+      },
       {
         "title": "Meiyu: From the 1981 Deluge that Submerged Northern Taiwan to the Scientific Mission that Flew Americans to the Island",
         "desc": "On the morning of May 28, 1981, a catastrophic Meiyu front erupted over the Taoyuan-Hsinchu-Miaoli region and greater Taipei, dumping over 140 mm of rain in a single hour near Gongguan, leaving 8 dead and thousands of homes damaged. Six years later, the TAMEX initiative was launched. Defying the shadows of broken diplomatic ties, over 125 American and Taiwanese scientists chased fronts using a NOAA P-3 aircraft, three research vessels, and three Doppler radars. Forty years later, this stationary front, arriving precisely every May and June, remains both the lifeblood of drinking water for 23 million people and a potential killer capable of submerging entire cities.",
@@ -497,51 +542,6 @@
         "category": "culture",
         "href": "/en/culture/taiwan-anime-culture",
         "date": "2026-05-24T22:40:37+08:00",
-        "readingTime": "9",
-        "image": ""
-      },
-      {
-        "title": "Pa Chiung: From Hualien Truku Youth to the 'Spy-Master' Wanted by the CCP for One Million Yuan",
-        "desc": "In November 2025, the Quanzhou Public Security Bureau in Fujian issued a wanted notice — targeting Taiwanese influencer Pa Chiung. This Truku youth from Xincheng Township, Hualien, who once won an award for his travel videos, transformed in just six years from a local creator into a figure Beijing calls a 'Taiwan independence thug' — and has continued exposing CCP united-front operations on the international stage.",
-        "category": "people",
-        "href": "/en/people/pa-chiung-political-youtuber",
-        "date": "2026-05-24T22:40:37+08:00",
-        "readingTime": 20,
-        "image": ""
-      },
-      {
-        "title": "The 2026 Cheng-Xi Meeting: Ten Minutes Between KMT and CCP Leaders After a Decade Apart",
-        "desc": "On April 10, 2026, Cheng Li-wun met Xi Jinping in Beijing, becoming the first major political party leader of the Republic of China to meet the CCP General Secretary in ten years. The meeting lasted ten minutes. Meanwhile, 100 PLA vessels were in the Taiwan Strait. What exactly was this 'peace mission' touring?",
-        "category": "society",
-        "href": "/en/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion",
-        "date": "2026-05-24T22:40:37+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "Taiwan Enterprise: Foxconn Precision Industry — The Same Balance Sheet Behind 8 Trillion Revenue and an Internal Anti-Corruption War",
-        "desc": "On the morning of April 30, 2026, Time magazine listed Foxconn among the 100 most influential companies in the world; that same evening, prosecutors and investigators walked into Foxconn's Tucheng facility with search warrants. From a 1974 mother's rotating credit association loan of NT$100,000 to 2025 revenue of NT$8 trillion — with cloud and network products overtaking consumer electronics — the hardest thing for Foxconn to manage is not geopolitics, not AI server rack shipment rhythms, but its own people.",
-        "category": "economy",
-        "href": "/en/economy/foxconn-precision-industry",
-        "date": "2026-05-24T22:40:37+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "Chiang Kai-shek Memorial Hall",
-        "desc": "It is the most colossal political totem at the heart of Taipei — and the most democratic dance practice space. From authoritarian sanctuary to the storm's eye of transitional justice, this building records the most violent tremors in Taiwan's soul.",
-        "category": "history",
-        "href": "/en/history/chiang-kai-shek-memorial-hall",
-        "date": "2026-05-20T12:37:22+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "The 19 Cattle of Qingtiangang: From Yuan Xing Cattle to Tainan Beef Soup, an Island's Beef Industry Breakthrough",
-        "desc": "Taiwan's beef self-sufficiency rate is only 4.6%, yet in 2024 the nation's first privately bred and officially certified cattle breed was born. The story of Yuan Xing cattle is an industry breakthrough scripted by a 94-year-old man, 19 wild black cattle, and a bowl of freshly slaughtered beef soup served before dawn.",
-        "category": "history",
-        "href": "/en/history/yuan-xing-cattle-beef-soup-history",
-        "date": "2026-05-20T12:37:22+08:00",
         "readingTime": "9",
         "image": ""
       }
