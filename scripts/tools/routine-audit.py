@@ -29,22 +29,36 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent.parent
 
 # Routine signatures (extracted from git commit subjects)
+# 2026-07-11 dna-checkup：list 是 2026-05-16 freeze frame，ROUTINE.md SSOT 長新 routine +
+# commit subject 簡稱化（refresh: / rewrite:）讓 12-17% commit 落 unclassified（LESSONS
+# routine-audit-script-classification-gap vc=2「飛輪自審腳本不能自己看到自己」）。
+# 架構解：具名 pattern 之外加動態 fallback——任何 `[routine] X:` 都以 X 歸類，
+# 新 routine / 新簡稱自動被看見，不再依賴這張表跟上 SSOT。
 ROUTINE_PATTERNS = [
-    ("twmd-rewrite-daily", r"\[routine\] twmd-rewrite:"),
-    ("twmd-babel-nightly", r"\[routine\] twmd-babel"),
-    ("twmd-data-refresh-am", r"\[routine\] twmd-data-refresh-am"),
-    ("twmd-data-refresh-pm", r"\[routine\] twmd-data-refresh-pm"),
-    ("twmd-spore-harvest-am", r"\[routine\] twmd-spore-harvest"),
+    ("twmd-rewrite-daily", r"\[routine\] (twmd-)?rewrite(-daily)?:"),
+    ("twmd-babel-nightly", r"\[routine\] (twmd-)?babel"),
+    ("twmd-data-refresh-am", r"\[routine\] (twmd-)?(data-)?refresh-am"),
+    ("twmd-data-refresh-pm", r"\[routine\] (twmd-)?(data-)?refresh-pm"),
+    ("twmd-data-refresh", r"\[routine\] (data-)?refresh:"),
+    ("twmd-spore-harvest-am", r"\[routine\] (twmd-)?spore-harvest"),
+    ("twmd-spore-pick-daily", r"\[routine\] (twmd-)?spore-(pick|inbox)"),
     ("twmd-maintainer-am", r"\[routine\].*maintainer.*(am|daily|0900)"),
     ("twmd-maintainer-pm", r"\[routine\].*maintainer.*(pm|2200|2235)"),
-    ("twmd-news-lens-weekly", r"\[routine\] twmd-news-lens"),
-    ("twmd-weekly-report-sun", r"\[routine\] twmd-weekly-report"),
-    ("twmd-distill-weekly", r"\[routine\] twmd-distill"),
-    ("twmd-self-evolve-weekly", r"\[routine\] twmd-self-evolve"),
+    ("twmd-feedback-triage", r"\[routine\] (twmd-)?feedback-triage"),
+    ("twmd-embeddings-nightly", r"\[routine\] (twmd-)?embeddings"),
+    ("twmd-news-lens-weekly", r"\[routine\] (twmd-)?news-lens"),
+    ("twmd-weekly-report-sun", r"\[routine\] (twmd-)?weekly-report"),
+    ("twmd-distill-weekly", r"\[routine\] (twmd-)?distill"),
+    ("twmd-self-evolve-weekly", r"\[routine\] (twmd-)?self-evolve"),
+    ("twmd-routine-audit-weekly", r"\[routine\] (twmd-)?routine-audit"),
     ("routine-memory", r"\[routine\] memory:"),
     ("routine-diary", r"\[routine\] diary:"),
     ("routine-heal", r"\[routine\] heal:"),
+    ("routine-evolve", r"\[routine\] evolve:"),
 ]
+
+# 動態 fallback：具名 pattern 全 miss 但 subject 是 `[routine] X:` 形 → 以 X 歸類
+ROUTINE_FALLBACK_RE = re.compile(r"\[routine\] ([a-z0-9-]+):")
 
 SEMIONT_PATTERN = r"\[semiont\]"
 PR_SQUASH_PATTERN = r"\(#\d+\)$"
@@ -67,6 +81,9 @@ def classify_commit(subject: str) -> dict:
     for name, pattern in ROUTINE_PATTERNS:
         if re.search(pattern, subject):
             return {"category": "routine", "routine": name}
+    fb = ROUTINE_FALLBACK_RE.search(subject)
+    if fb:
+        return {"category": "routine", "routine": f"routine-{fb.group(1)}"}
     if re.search(SEMIONT_PATTERN, subject):
         if "memory:" in subject:
             return {"category": "semiont", "routine": "manual-memory"}

@@ -331,285 +331,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
-### 2026-07-11 issue-1212-audit — external-audit-wrong-measurement-layer：外部體檢的量測基準可能整層抓錯，先驗「量的是哪一層」再驗數字
-
-- **pattern**: `external-audit-wrong-measurement-layer`
-- **原則**：外部 critique 附上實測數據（色碼、對比值、尺寸）時，Bias 4 濾網要多一道前置工序：**先驗證量測對象是不是站方自己的層**，再逐筆核數字。第三方 widget（聊天、廣告、analytics overlay）注入的 CSS 變數、iframe 內容、shadow DOM 都會被 DOM/CSS 檢視工具一視同仁抓出來，審計者拿到的「主題色系」可能整組來自別人的程式碼。判定法：拿報告裡的變數名 / 色碼 grep 自家 repo，零命中即為外層污染訊號。抓錯層的後果雙向：誤判自家缺陷（假陽性），以及**照抄建議 CSS 會把第三方變數寫進站體**（真傷害）。
-- **觸發**：2026-07-11 issue #1212。idlccp1984 的 25 項體檢開頭「主題色系（實測）」整組是 Protico 贊助商 widget 的 `--protico-*` 變數（`#1f2430` vs 站方真值 `#050505`），連帶「品牌綠 #4fd1b0 對比不足」「意見回饋+243 FAB」兩筆判讀跟著偏；建議 CSS 直接寫 `var(--protico-surface)`。grep repo 只在 ProticoScript.astro 命中一處（第三方載入器）即定案。
-- **instances**：首次記錄（REFLEXES #16「peer 是線索不是 source」在 UI 量測域的具體形狀）
-- **可能層級**：REFLEXES #16 family sub-clause 或 MAINTAINER-PIPELINE §Bias 4 濾網補一道「量測對象驗證」
-- **verification_count**: 1
-
-### 2026-07-11 pr-batch-review — codex-branch-name-misnomer：branch 名宣稱的工具 ≠ 實際生成工具，免疫的 provenance 判斷看 commit trailer 不看 branch 名
-
-- **pattern**: `codex-branch-name-misnomer`
-- **原則**：PR branch 名（`codex/*`）是投稿端工具的預設命名，不是 provenance 證據。免疫審核用 branch 名推斷「這是哪個 AI 生成」會判錯——可信 provenance 依序：commit trailer（`Co-Authored-By`）＞ scratchpad／artifact 路徑洩漏 ＞ PR body 自述 ＞ branch 名（最不可信）。對 fact-check bar 的結論一樣（AI 輔助就是高 bar），但別把 branch 名當 provenance 事實寫進判斷或報告。
-- **觸發**：2026-07-11 ellenlee 7 PR 批次。branch 全 `codex/*`，主 session 一度在給哲宇的報告寫「Codex 生成」；子代揭 commit trailer `Co-Authored-By: Claude Opus 4.8` ＋ 林昶佐 outline 裡洩漏的 Claude Code sandbox 路徑，才更正為 Claude Code。
-- **instances**：首次記錄（provenance 家族近親：#11 UI 截圖=capability 證據、#16 二手描述是線索不是 source）
-- **可能層級**：MAINTAINER-PIPELINE §紅旗 check 補「tool provenance 看 trailer 不看 branch 名」；或 REFLEXES provenance 家族 sub-clause
-- **verification_count**: 1
-
-### 2026-07-11 pr-batch-review — ai-content-footnote-claim-drift：AI 生成內容最一致的破綻是腳註接到它撐不住的那句，來源真、主張真、綁定漂移
-
-- **pattern**: `ai-content-footnote-claim-drift`
-- **原則**：AI 輔助生成的知識內容，失敗模式不是明顯錯，是 plausibly-almost-right——散文嚴謹、來源真實，但 claim 與 citation 之間的**綁定**漂移。免疫只有「真的點開每個腳註 URL、把裡面文字跟旁邊那句對一次」才抓得到；footnote-format／footnote-url plugin 抓不到（markdown 合法、URL 活著、只是內容不對題）。這是 rigor-as-appearance vs rigor-as-verification 的分野。
-- **觸發**：2026-07-11 ellenlee 7 PR，7 子代逐腳註 WebFetch 抽驗，4/7 同構破綻——閃靈 [^11] CNA 網址錯一碼連到無關社會新聞、簡立峰中華電信「獨立董事」（實法人董事）掛 2020 年 cover 不到 2024 任命的來源、史明顏擇雅引言掛沒講到它的來源、林昶佐特赦年份紅旗（深查後正文其實對）。
-- **instances**：首次記錄（4 篇同 session 同構：#1210／#1214／#1215／#1209）
-- **可能層級**：(1) REFLEXES 候選（AI 內容審核必逐腳註核 claim-citation 綁定）；(2) contributor 端流程 tip（ship 前逐一點開腳註確認連到對的句子——已折進 #1215 致謝）；(3) article-health footnote plugin 語意對題度增強候選（難但高價值）
-- **verification_count**: 1
-
-### 2026-07-11 hub-template — frozen-renderer-measurement-artifact：隱藏分頁的 computed style 凍在舊值，「物理不可能的讀值」是量測層壞掉的指紋
-
-- **pattern**: `frozen-renderer-measurement-artifact`
-- **原則**：瀏覽器對 hidden／occluded 分頁凍結 renderer 後，該分頁**既有元素**的 getComputedStyle／computedStyleMap／iframe 讀值全部停在凍結前快取，連 inline `style="color:X !important"` 都讀不回設定值。判定法兩步：(1) 新建元素讀值正常、既有元素異常 → 問題在快取層不在 CSS；(2) 出現「物理不可能」的結果（inline !important 不生效）→ 結論必為量測層壞掉，不是產品 bug，在壞掉的量測層上繼續 debug 產品＝燒 token 追鬼。此時可信裁決只剩可見分頁的真實 paint（截圖；CDP timeout「renderer may be frozen」即是確診訊息）或退回決定性驗證鏈：原始碼規則＋built bundle 內容＋一次可見分頁實測——cascade 是決定性系統，三者成立結論即成立。
-- **觸發**：2026-07-11 hub-template production 驗證。dark-mode 修復在 dev 可見分頁實測通過（rgb(241,245,249)），production preview 隱藏分頁連續五種讀法（getComputedStyle／matches／Typed OM／iframe／inline !important）全部回報 light-mode 舊值，最後 CDP screenshot timeout「The renderer may be frozen」揭盅。中途一度誤判為 @layer cascade 問題，追了六輪 CSSOM 考古。
-- **instances**：
-  - 2026-07-11 hub-template（首錄，production preview 隱藏分頁五種讀法全凍）
-  - 2026-07-11 issue-1212-audit（D+1 二犯，Browser pane 分頁：input 事件 timeout + 捲動後截圖全黑 + data-theme 翻轉後 computed style 半凍——`.footnotes a` 有更新、`.footnote-ref` 凍舊值，做了三輪 CSSOM 考古追「不可能的 cascade」（規則存在、specificity 較高、移除對手 rule 讀值不動）才想起本條；開新分頁 30 秒定案 dark 修復實際有效 8.02:1。半進步：這次自己想起教訓爬出來，但仍是先撞再想起）
-- **可能層級**：REFLEXES #24 family 延伸 sub-clause；vc=2 已達 promote 討論線
-- **verification_count**: 2
-
-### 2026-07-11 hub-template — agent-environment-side-effect：sub-agent 的環境層副作用是 #31 三類 claim 之外的第四類重驗對象
-
-- **pattern**: `agent-environment-side-effect`
-- **原則**：#31 講 side-effect／factual／self-quality 三類 claim 要重驗，但 agent 為完成任務對**共享環境**做的變更（裝套件、換 symlink、起停 server、佔 port）不會出現在產出 claim 裡，只在 deviation 披露或事後爆炸時現身。修法兩端：agent prompt 對環境動作給 explicit 邊界（禁 npm install／禁起停 server，需要工具先回報）；主 session 驗收層把「環境有沒有被動過」列入檢查（node_modules 是 symlink 還是實體、port 佔用、多出來的 process）。誠實披露 deviation 的 agent 是好 agent，但**披露不等於無害**——驗收層要有還原能力（本例：`rm node_modules && ln -s` 回主樹一步復原）。
-- **觸發**：2026-07-11 hub-template。T1 agent 為裝型別檢查工具 `npm install --no-save` 把 worktree 的 node_modules symlink 換成實體副本，版本飄移讓全站 build 在 tailwind/rolldown 內部炸掉（還原 symlink 後全綠）；T4b agent 判定 4327 沒 server 便自起 `npx astro dev`，與主 session 的 preview server 管理相撞。兩件都有誠實披露、也都靠驗收層攔下。
-- **instances**：首次記錄（同 session 兩例）
-- **可能層級**：REFLEXES #31 family 第四類 sub-clause 候選
-- **verification_count**: 1
-
-### 2026-07-10 elections-refresh finale — index-lint-validates-wrong-row-end：量尺假設的排序方向跟被量檔案的實際慣例相反，gate 出廠起就在驗最舊的一列
-
-- **pattern**: `index-lint-validates-wrong-row-end`
-- **原則**：`memory-index-lint.py` 用 `rows[-1]`（檔案物理最後一列）當「最新 index row」驗長度。MEMORY.md 的慣例是 newest-at-bottom，這個假設成立；DIARY.md 的慣例是 newest-on-top（新列插在表頭之後），同一把尺套過去就變成永遠在驗最舊的存活列——`--diary` gate 自 2026-07-05 出廠以來，每一條真正的新列都沒被驗過。跟免疫量尺 C'（2026-07-10 結案）同構：**量尺必須跟被量的東西共用同一條真實路徑**，這裡的「路徑」是排序約定。修法方向：`--diary` 改讀 header 後第一資料列，或兩檔統一排序約定並在 lint 內 assert 排序方向。
-- **觸發**：2026-07-10 elections-refresh finale，diary 執行 agent 落索引列時實測發現——lint 前後兩次都報 L303（2026-04-20 β，最舊存活列之一）為「最新 index row」，對新插入的頂列毫無反應。
-- **instances**：
-  - 2026-07-10 elections-refresh finale（本 entry 主觸發）
-  - 同構前例：免疫量尺 v1 用獨立路徑讀 plugin 健康、跟 runner 實際載入路徑脫鉤（2026-07-10 C' 結案，vc 家族第 2 例）
-- **可能層級**：工具修復（scripts/tools/memory-index-lint.py，小 patch）＋ 候選 reflex（「量尺與被量者共用真實路徑」家族）
-- **verification_count**: 1
-
-### 2026-07-11 weekly-deep-review 夜班 — queue-execute-before-existence-check：執行佇列項前沒查產出是否已存在，重做已完成的事還引入 regression
-
-- **pattern**: `queue-execute-before-existence-check`
-- **原則**：執行 OBSERVER-QUEUE / roadmap / handoff 的「待辦」前，先查那件事是不是**已經做過了**——產出檔案 `git log --follow` 查存在、關聯 issue `gh issue view --json state` 查未 closed。佇列/handoff 是「宣稱待辦」不是「事實待辦」，兩者會漂移（完成了忘記移已決）。信任宣稱直接動手 = 重做已完成的事，最好情況浪費 token，最壞引入 regression（本例把已 ship 的乾淨檔案手滑剝掉腳註 URL markup = 去引用化）。REFLEXES #73「查證反射 < 建造反射」在**佇列執行場景**的變體：#73 講「動手前先掃一眼」，本條指名掃「這件事的產出是否已存在」。**跟同區 `inbox-status-stale-starves-routine` 是同一病的兩面**：那條是 status 沒同步害 routine 空轉（偵測端），這條是執行端沒查存在害重做（執行端）——共同 root 是「完成事件沒回寫到追蹤層」。
-- **觸發**：2026-07-11 00:01 夜班照 OBSERVER-QUEUE #9（JuYinC 梅雨 EN 翻譯，default-action 過期 21 天）執行落地，做完才發現該檔 6/19 `4150180ec` 早已 ship、issue #1107 同日 closed——佇列忘移已決。我不只重做，還在「補 frontmatter」時把 `[^n]: [Title](url)` 連結 markup 剝成純文字（footnote-url plugin 沒抓因 markdown 仍合法，但讀者失去可點來源）。`2d3b93413` revert 還原 6/19 known-good，佇列 #9 更正移已決。近失成本：一個 regression commit + 一個 revert，同夜自己抓到。
-- **已行動（同夜 codify）**：weekly-checkup.sh e1 面加執行前查證護欄——佇列項掃到 `knowledge/*.md` 產出路徑已存在標「先 git log --follow 查」，掃到 issue 號標「先 gh issue view 查 state」。WEEKLY-REPORT-PIPELINE Stage 2.7 桶 1 判準加「執行前 existence check」。
-- **instances**：（首次記錄）
-- **可能層級**：通用反射候選（REFLEXES #73 family 佇列執行 sub-clause）＋操作規則（已進 checkup 儀器）
-- **相關**：REFLEXES #73（查證反射 < 建造反射）；`inbox-status-stale-starves-routine`（同 root 的偵測端鏡像）；OBSERVER-QUEUE §規則「拍板→移已決」的反向缺口（完成也要移）；#58（偵測 ≠ 修復）
-- **verification_count**: 1
-
-### 2026-07-10 elections-refresh — inbox-status-stale-starves-routine：ship 不同步對賬 inbox status，PICK 型 routine 會對著已完成的任務空轉
-
-- **pattern**: `inbox-status-stale-starves-routine`
-- **原則**：ARTICLE-INBOX（以及任何 PICK 佇列）的 status 欄是 routine 的眼睛。任務 ship 了但 status 停在 `pending`，PICK 型 routine（rewrite-daily 等）每個 cycle 都會重新選中它、評估它、再 defer 它——每次空轉都燒一個 session 的 BECOME + PIPELINE 讀取成本，而真正 pending 的任務永遠排不到隊首。**ship 的人要在同一個 commit（或同一個 session）把對應 inbox entry 對賬成 done**；跨 session 大批 ship（如 8 篇一次落地）尤其容易漏，因為 ship 者的注意力在產出不在佇列。偵測解法候選：inbox-signal.sh 或 self-evolve-weekly 加「pending entry × ARTICLE-DONE-LOG / knowledge/ 檔案存在性」交叉對賬（跟 fire-vs-git-trace 同構——兩個各自誠實的資料源，交叉才看得見屍體/殭屍）。
-- **觸發**：2026-07-10 elections-refresh session audit——🗳️ Tier 1.1（8 篇制度文章）與 Tier 1.4（政黨政治 EVOLVE）2026-05-27 已全數 ship，但 inbox status 六週停在 `pending`；twmd-rewrite-daily 2026-07-10 兩個 cycle（011120 / 191112）連續 PICK「選舉 Tier 1.1 #1」再 capacity-defer（vc=5/6），選中的其實是已存在六週的 `knowledge/Politics/九合一選舉是什麼.md`。對賬 commit 本 session；佐證 memory：2026-07-10-011120 / 191112-twmd-rewrite-daily。
-- **instances**：
-  - 2026-07-10 elections-refresh（本 entry 主觸發，Tier 1.1 + 1.4 兩條 entry 同病）
-- **可能層級**：操作規則（REWRITE-PIPELINE ship 收尾步驟加「inbox 對賬」；或儀器化交叉對賬進 self-evolve-weekly）
-- **相關**：REFLEXES #60（silent default = silent failure——status 欄的 default 一直是 pending）、#76（multi-cycle trend window——defer vc 連續攀升本身就是佇列有殭屍的訊號）；LESSONS `routine-fire-vs-git-trace-silent-death`（同構：單源誠實、跨源才見真相）
-- **verification_count**: 1
-
-### 2026-07-10 weekly-deep-review — routine-fire-vs-git-trace-silent-death：scheduler 有 fire 紀錄不代表 routine 有完成，沉默死亡只有交叉對賬才看得見
-
-- **pattern**: `routine-fire-vs-git-trace-silent-death`
-- **原則**：scheduler 的 `lastRunAt` 只證明扳機被按下；routine 真正的完成證明是 git 痕跡（commit / memory）。機器睡眠或環境層病可以讓 session 在 fire 後無聲死亡，routine-status.sh 只讀 git 所以「該來沒來的班」完全不可見，scheduler 只記扳機所以也不報異常。兩個資料源各自誠實、交叉才見屍體。偵測解法：`lastRunAt` × git log 對賬（fire 後 N 小時內無對應 tag commit → 黃燈），修復解法看死因（機器睡眠屬環境事實，能做的是讓死亡可見 + 下一班收屍）。收屍時另一半紀律：working tree 可能留著死者做完的完好工作（本次救回 translate.py 修復 + 一篇韓文翻譯），先驗屍再決定 rescue 或丟棄，不是一律 reset。
-- **觸發**：2026-07-10 morning chain 六連沉默死亡——babel（00:32 fire，改好 translate.py + 譯完 SLP ko 後 01:40 左右死亡零 commit）、embeddings（05:16）、data-refresh-am（06:01）、spore-harvest（06:46）、feedback-triage（07:01）全部「有 fire 零 git 痕跡」；僅 maintainer-am（08:35 fire）活到機器 12:40 醒來後完成。合理死因：機器睡眠窗 01:40-12:40。驗屍 + 救援紀錄：[reports/weekly-deep-review-2026-07-10.md §五](../../reports/weekly-deep-review-2026-07-10.md) + rescue commit `b614cbb7f`。
-- **instances**：
-  - 2026-07-04 twmd-rewrite-daily 19:17 scheduler fire、git 零 commit 零 memory（dna-audit 2026-07-05 §S1 首記，當時當孤例）
-  - 2026-07-10 morning chain 六連（本 entry 主觸發）
-- **可能層級**：操作規則（儀器：routine-liveness-check 對賬 → alerts）＋ 通用反射候選（「fire ≠ 完成」是 #60 silent default = silent failure 的排程層變體）
-- **相關**：REFLEXES #60（silent default = silent failure）、#70（routine fragility surface 四 tier）、#76（multi-cycle trend window）；LESSONS `cron-env-layer-4-tier-cascade-catastrophic-exhaustion`（同週環境層病的姊妹 entry，死因不同：那條是 env 毒死 backend，這條是 env 凍死 session）；進化規劃 P0-1 已排儀器
-- **verification_count**: 2
-
-### 2026-07-08 twmd-babel-nightly — cron-env-layer-4-tier-cascade-catastrophic-exhaustion：cron 環境層在源頭 sabotage 所有 CLI-based backend
-
-- **pattern**: `cron-env-layer-4-tier-cascade-catastrophic-exhaustion`
-- **原則**：4-tier cascade（codex / gemini / openrouter / ollama）設計假設「不會同時死」，但 cron env 層（TERM=dumb / nvm PATH 隔離 / free-tier 全 lang 同 provider 429）作為公共底座，可以一夜同時 sabotage 4 個 backend。修 backend 側是打補丁；修 env 層才是根層。cascade 深度救不了「共同上游死亡」。REFLEXES #64 邊際效用 N+1=0 反向適用：加第 5 層 backend 不會救 cron env 病，得往下改層次。
-- **觸發**：2026-07-08 00:30 babel-nightly fire，20 條 stale/missing preflight 幾乎每 lang 都拿到同一組指紋 — codex `spawn nvm/node/lib/@openai/codex/node_modules/@` truncate（3 夜同指紋 vc=3）／gemini `TERM=dumb Basic terminal detected`（vc=2）／openrouter:gpt-oss-120b `HTTP 429 全 lang free tier 全局配額` ／ollama `empty/tiny output`（daemon 活著 pid=1839 但當前 default model `qwen3.6:35b-a3b-coding-nvfp4` 是 coding variant 非 general）。5 parallel worker 各自跑，同時期同組 backend 全 frozen。shipped=0（前兩晚 58+58→本晚 0），SOP quality gate 判 PASS（cascade exhausted）但實際是 environment-level pathology，不是 backend 個別衰竭。
-- **instances**：（vc=2 — 4 夜同前提 sub-shape）
-  - 2026-07-06 codex nvm vc=1（memory `2026-07-06-003506-twmd-babel-nightly`）
-  - 2026-07-07 codex nvm vc=2 + gemma 同 provider 429 + ollama 5-way timeout（memory `2026-07-07-042046-twmd-babel-nightly`）
-  - 2026-07-08 codex nvm vc=3 + gemini TERM vc=2 + gpt-oss-120b 429 + ollama empty → 4-tier 全滅 vc=1
-  - 2026-07-09 4-tier 全滅 vc=2：preflight 0/4 alive（codex/gemini/gpt-oss-120b/ollama 全同指紋），但 **fleet endpoint `desktop-3090 qwen3.5:35b` 作為 ad-hoc Tier 5 bypass** 救回 4 shipped（藍染 es / 金瓜石 en / SLP ja / 周天成 fr）— 全部 fn ≤ 46。60+ fn 全滅（柯智棠 65 fn→59 preserved / 楊德昌 92 / 施振榮 71 / 宏碁 56 / 台灣水果王國 40 \* 5 lang all fn-loss fail）— **quality gate 單 fn 落即 fail** 是 4/12 Tier A ship rate 的主因，非 backend 缺陷。（memory `2026-07-09-013248-twmd-babel-nightly`）
-- **新 sub-shape（2026-07-09 新增）**：
-  - **fleet endpoint 是有效 Tier 5 bypass**：`bash scripts/tools/lang-sync/fleet-endpoint.sh --export` → `OLLAMA_HOST/MODEL` 直連 tailscale desktop-3090 gemma4:12b（sovereignty-safe default）。fn ≤ 46 有效，60+ fn 仍失敗。REMOTE-GPU-PIPELINE.md 早記載但 SQUEEZE cascade 未 integrate 為 explicit Tier；當 4-tier 全滅時 fleet 是 realistic fallback
-  - **translate.py bare `--cascade ollama` 硬編 qwen3.6:35b-a3b-coding-nvfp4**（translate.py:106 `model = opt or "qwen3.6:35b-a3b-coding-nvfp4"`）— OLLAMA_MODEL 環境變數被忽略，必須顯式 `--cascade ollama:{model}` 才能覆蓋。fleet-endpoint 只 export env，bare cascade spec 無效。**這是 REMOTE-GPU-PIPELINE ↔ SQUEEZE 整合 gap 的具體症狀**
-  - **quality gate footnote loss 硬閾值單 fn 即 fail**（30→29 SLP ko / 65→59 柯智棠 en）— 對 60+ fn 高品質策展文，任何 non-frontier model 都會踩到。這是「品質基因 vs cascade 覆蓋」的結構張力（7/07 Beat 5 已預示：「品質選擇的 side effect：越策展就越難機器翻譯」）
-- **可能層級**：DNA（cascade 設計哲學：backend 多樣性 ≠ env 多樣性）／MAINTAINER-PIPELINE（cron env sanity check 前置）／MANIFESTO §sovereignty（4-tier 之下需要「env-tier」概念）／SQUEEZE-MODELS-MAX-PIPELINE（Tier 5 fleet 整合 + bare-ollama env-override 修 translate.py:106）
-- **相關**：REFLEXES #15（反覆浮現要儀器化 — 4 次 = 該儀器化）；REFLEXES #64（邊際效用 N+1=0 反向適用）；MANIFESTO §sovereignty 巴別塔（cascade 是主權保護，env 層漏洞讓保護失效）；REMOTE-GPU-PIPELINE.md（fleet Tier 5 canonical 已存在，未 integrate 到 SQUEEZE cascade）
-- **可能修法（給觀察者 distill 拍板，§自主權邊界外不主動改）**：
-  - cron entry 前置 `source ~/.nvm/nvm.sh && export TERM=xterm-256color`
-  - 改用 absolute node path 繞 nvm
-  - openrouter 加第二 provider（現在只用 free tier default key，配額耗盡即全 lang 死）
-  - ollama default model 從 coding-variant 切 `taide-gemma3-12b:2602-q4km`（TAIDE 台灣繁中）或 `gemma4:e4b-nvfp4`（general）— **§Bias 1 明確 defer 哲宇**（可能是刻意 config）
-  - **translate.py:106 修 bare `ollama` cascade spec fall through to env `OLLAMA_MODEL` 而非硬編 default** — routine 內 fleet integration 才 seamless（今晚繞法：顯式 `--cascade ollama:qwen3.5:35b`）
-  - **cascade 加正式 Tier 5 = fleet endpoint**（SQUEEZE 更新 §4-tier → 5-tier；translate.py build_cascade 加 `fleet` keyword 自動 eval fleet-endpoint.sh）
-  - **quality gate footnote loss 是否可放寬**（例如 ≥ 95% preserved 即 pass + WARN，或 fn > 60 篇獨立走 human review 通道不進 cascade）— 觸及品質基因，明確 §自主權邊界外 defer 哲宇
-- **verification_count**: 2
-
-### 2026-07-07 柯智棠-立體群像 — chrome-mcp-coordinate-scaling-mismatch：JS rect 與 click pixel 不對齊，spore submit 按鈕點不到
-
-- **pattern**: `chrome-mcp-coordinate-scaling-mismatch`
-- **原則**：Chrome MCP 發文時，JS `getBoundingClientRect` 的 CSS 座標與 computer-tool click 的 screenshot 像素座標可能不對齊（瀏覽器 CSS viewport ≠ screenshot 尺寸），造成「按鈕座標查得到、點下去卻 miss」。文字注入（execCommand insertText / JXA NSPasteboard paste）不受影響；submit 按鈕的 pixel-click 受影響。發文前先量 `window.innerWidth` vs screenshot 寬度比例，或改 `ref`-based click 繞過像素座標。
-- **觸發**：柯智棠孢子 ship。Threads 主貼 #154 用 JXA multi-paragraph paste + 圖 paste 成功上線（post `DaefLAMkw8F`），但 self-reply 連結 + X #155 的「發佈」submit 按鈕反覆 miss（JS rect (931,642)、pixel click 落空、reply icon click 開到 /media）。execCommand 能把連結填進 reply 框、submit 點不動。不盲點重試（Pitfall 6 duplicate 風險），交哲宇手動補。**根因（哲宇 callout 事後確認）= 瀏覽器 zoom 150%**：devicePixelRatio 2.2 / innerWidth 1862 vs 截圖 1512 ≈ 1.23× 縮放，填字走 DOM 不受影響、只有 pixel-click 歪掉。證據 [memory](memory/2026-07-07-113100-柯智棠-立體群像.md)。
-- **已行動（同 session codify）**：SPORE-HARVEST §Critical pitfalls 新增 **Pitfall 7**（zoom 偵測 + 三修法，`ref`-based click 為推薦）+ SPORE-PIPELINE §發佈 step 4 pre-flight zoom 檢查。首次即 distill 進 canonical，distiller 可直接 archive。哲宇 directive「之後遇到自己解、進化 dna」。
-- **instances**：（首次記錄）
-- **可能層級**：操作規則（Chrome MCP 發文）→ 已進 canonical
-- **相關**：SPORE-HARVEST §Chrome MCP Critical pitfalls（Pitfall 1-6 已記 computer.type ASCII strip / X-reply 不支援 / duplicate-ship，本條為座標層新變體 Pitfall 7）；REFLEXES #60（發文帳號 default 驗證，本 session 有先驗 @taiwandotmd）；REFLEXES #15（反覆浮現要儀器化 — 座標 pre-flight 檢查）
-- **verification_count**: 1
-
-### 2026-07-05 INDIGO-REWRITE — research-report-health-gate-literal-string-brittleness：Stage 0/1 gate 對真實變異的 SSOT 報告過度敏感
-
-- **pattern**: `research-report-health-gate-literal-string-brittleness`
-- **原則**：hard-gate 工具用精確字串匹配判定結構完整性時，容易把「語意等價但用詞不同」誤判為缺漏；工具該抓語意錨點而非死記字面組合。
-- **觸發**：藍染 rewrite 跑 `research-report-health.py --stage 0` 時，「六核心問題落檔結構」判準只認得「對台灣人的記憶」「多元不同面貌」等固定字串，報告原本自然寫的標題（如「問題 1：對台灣人是什麼樣的記憶？」）沒精確命中，誤判只 3/6（hard_fail=1）；補一句含 anchor 字面的相容行才過。同一輪 `--tier=depth` 判斷英文來源數只掃主報告自己的內文，不掃 sub-agent 各自落檔的 `藍染-research-{A,B,D}.md` raw 檔案，22 個實際查證過的英文來源只被算出 3 個，逼著把已經在 sibling 檔案裡的網址重複貼進主報告才過關。
-- **instances**：（首次記錄）
-- **可能層級**：操作規則（工具設計）
-- **相關**：REFLEXES #81（同一天稍早剛落地的 `agent-report-health.py` 收件 gate，姊妹工具——都是新鮮上線就在實戰中露出規則邊界，值得同批檢視）
-- **verification_count**: 1
-
-### 2026-07-06 tokens-phase2 — verify-gate-must-match-failure-dimension：驗證的量綱要對得上 bug 會發生的維度
-
-- **pattern**: `verify-gate-must-match-failure-dimension`
-- **原則**：驗證一個 refactor 時，若驗證斷言只檢查「你以為會錯的維度」，就會跟被驗對象一起被騙；要同時放一把「不預設維度」的粗尺接住你沒想到會錯的地方。精密尺（assert 特定值）+ 粗尺（盲拍整頁像素 / 端到端行為）兩把都要。
-- **觸發**：tokens 第二階段 5 個 sub-agent 把 `bg-[linear-gradient(...)]` 換成 `bg-[var(--token)]`，全 claim byte-identical，其中兩隻還自跑 computed-style 驗過。但 Tailwind 對 `bg-[var(--x)]` 把 gradient 值編成 `background-color`（非 `background-image`）→ 漸層靜默消失。computed-style 驗「background-image 的值對不對」時，因為 background-image 根本空的、值跑去 background-color 了，assert 特定值的檢查跟 agent 一起漏判；真正接住的是 before/after 盲拍像素 diff（data-hero 76%）。修法 `bg-[image:var(--x)]` type hint。附帶子教訓：**Tailwind `bg-[X]` 的 X 型別（gradient vs color）決定它落哪個 CSS property，`bg-[var(--gradient)]` 是靜默降級陷阱**。證據 [memory](memory/2026-07-06-124500-tokens-phase2.md)。
-- **instances**：（首次記錄）
-- **可能層級**：通用反射（驗證方法論）+ 操作規則（Tailwind 陷阱）
-- **相關**：REFLEXES #31（sub-agent self-report 不可信）的 mechanism-層延伸——這次 agent 的 self-quality claim「pixel-identical」連自跑的 computed-style 都通過，因為驗證量綱選錯；#69（每層自評需外部尺）補「外部尺也要選對量綱」
-- **verification_count**: 1
-
-### 2026-07-06 施振榮-rewrite — spine-type-by-subject：#77 canonical 隔天就被違反（第 4 instance）+ self-check-by-rationalization
-
-- **pattern**: `spine-type-by-subject`（沿用 REFLEXES #77 既有 id）
-- **原則**：一個人物「有真實的內在張力」≠ 該用矛盾驅動 spine。受愛戴的人物（讀者預設欣賞/驕傲）default 立體群像，**即使他身上有真的張力也一樣**——把那份張力寫成一個 facet，不是全篇脊椎。更深一層：Step 0.6.7 SSODT「支持者讀完不覺被攻擊」的判準是**外部效果**（支持者真的會不會覺得被攻擊），不是「我能不能自圓其說它不會」。用「這是他本人的 framing」把 self-check 勾過 = 根本沒跑 self-check，只是找了個理由放行。
-- **觸發**：施振榮 EVOLVE v1（2026-07-06）我選矛盾驅動，把「寫微笑曲線的人押身家在台積電、他自己的資產組合證偽他自己的理論」鎖成脊椎＋標題＋壓軸。哲宇 callout「絕對會被炎上、沒有立體、紀實的寫這個人、過度放在核心矛盾」→ v2 改立體群像（組織主軸 holding 7 facet、微笑曲線/台積電降為中立紀實討論點）救回。**最刺的一點：REFLEXES #77「spine-type-by-subject」2026-07-05 才由金曲獎 v1 觸發 promote 成 canonical，我 7/6 隔天就違反**——reflex 在 catalog、Step 0.1.5 立體群像 SOP + 金曲獎教訓就寫在我 Stage 0 剛讀完的 pipeline 裡，還是沒擋住。兩個漏洞：(a) 把施振榮「願意公開談失敗」誤讀成「自身選擇的拉扯」去 justify 矛盾驅動（HAS tension ≠ 該用矛盾驅動）；(b) Step 0.6.7 用理性化勾過。證據 [memory](memory/2026-07-06-133221-施振榮-rewrite.md) + v1 `bf8cb4795` → v2 `0ff00ba08`。
-- **instances**：第 4 次驗證同 pattern（#77 promote cluster 已含前 3：4/29 α 法輪功 SSODT + 4/29 α 吳百福 SSODT + 6/28 金曲獎 v1→v2）：
-  - 2026-07-06 施振榮-rewrite：受愛戴科技教父誤選矛盾驅動、gotcha 鎖脊椎 → 哲宇 callout → v2 立體群像救回
-- **可能層級**：#77 已 canonical → 本條為 **vc bump（→4）＋ 新 operational facet**：#77 目前是「判 spine type」的判準，缺「防誤分類」與「防 self-check 理性化」的操作勾。distill 時考慮給 #77 補兩條 operational hook：① HAS-tension ≠ 矛盾驅動（受愛戴 default 贏）② SSODT self-check 判外部效果非自圓其說（拿不準 → 立體群像）。
-- **相關**：REFLEXES #77（canonical，本次是 post-promotion 違反，訊號＝reflex 有了但沒長出防呆的手）；#69（每層自評需外部尺——這次內部 self-check 失效，靠哲宇這把外部尺才接住）；`feedback_red_line_anxiety_leak` 家族（v1 的 correction-meta 2 warn、v2 降 0，佐證矛盾驅動 framing 連帶拉高焦慮句式）
-- **verification_count**: 4（#77 family）
-
----
-
-### 2026-07-05 git-identity — github-discussions-structural-blind-spot：MAINTAINER 感知只掃 issue/PR，三則 contributor Discussions 貼文 0 回應（最久 3 個月）
-
-- **pattern**: `github-discussions-structural-blind-spot`（感知器官覆蓋面 × contributor 信任損耗 × minimum-action 成本曲線）
-- **原則**：GitHub 的 contributor 入口有三個（Issues / PRs / Discussions），MAINTAINER-PIPELINE Step 1 只掃前兩個，Discussions 存在於平行時空——沒有任何 routine 或 pipeline 引用 discussions 查詢。證據：#1146（david22115 系統優化五建議，2026-06-13 發，22 天 0 回應）、#307（idlccp1984「為什麼昨天沒有更新？」，2026-04-03 發，3 個月 0 回應）、#231。頂級 contributor 的提問三個月無人理，per 神經迴路 minimum-action 成本曲線已深入失望階段。
-- **修補（同夜閉環）**：哲宇當晚拍板 A，MAINTAINER-PIPELINE v2.5 已落地（`07675e3f0`：Step 1.3b graphql 掃描 + 四類分流 + 48hr SLA）；#1146 回覆已貼（開頭道歉三週未回）。本條轉純教訓紀錄待 distill。完整分析：[reports/discussion-1146-response-2026-07-05.md](../../reports/discussion-1146-response-2026-07-05.md)
-- **同構教訓**：「管道存在但沒人看 = 不存在」是 REFLEXES #73 的對外鏡像——#1146 四條建議的共同病根（API / 防線 / bench 都存在但外人看不見）跟這個盲點是同一枚硬幣的兩面：我們沒看見他們的入口，他們看不見我們的出口。
-
-### 2026-07-05 twmd-maintainer-pm — pre-pm-upstream-chain-absorbs-pm-actionable-window：連 3 cycle pm 22:00 空場 vc=3 escalation，上游從「am chain」generalize 為「任何 pre-pm 4hr 洪流」
-
-- **pattern**: `pre-pm-upstream-chain-absorbs-pm-actionable-window`（routine cron schedule mismatch × 上游 chain 吃 pm actionable × Q13 anti-bias 空場鐵律）
-- **原則**：twmd-maintainer-pm 22:00 fire 連 ≥ 3 個 cycle 空場（0 fresh PR / 0 fresh issue / 0 contributor 響應），代表 22:00 這個 slot 的 actionable window 已被 pre-pm 上游 chain 系統性吸乾，非偶發。**上游變體 v1（7/03-4）= am cron chain 08:30 clear queue → 14hr no fresh input → pm 純 carry；上游變體 v2（7/05）= evening manual pr-sweep 17:44 + rewrite-daily 19:10 EVOLVE + routine-audit 21:17 4hr 洪流 → 22:04 fire 時 backlog=0**。共通結構：pm 22:00 撞牆前的任一 upstream chain 都可能吸乾其 actionable window。**routine 端不能用 performative work（貼 comment 演出 review / poke merged PR author / re-review carry issue）自我合理化空場，per DNA §37 空場即空場**；也不能每 cycle 重複寫「pm 純 carry」LESSONS entry 製造 log noise，該做的是**一次 escalate 到觀察者拍板 schedule 重排**。
-- **觸發**：
-  - **7/03 pm** first empty datapoint (am cron chain 08:40 吸 8 PR + 5 fresh issue → pm 22:00 純 carry)
-  - **7/04 pm** vc=2 second datapoint (am 08:43 clear queue → pm 14hr no fresh；記名「am-absorbs-pm-carry-forward」sub-shape)
-  - **7/05 pm** vc=3 escalation datapoint (evening chain 17:44 pr-sweep + 19:10 rewrite EVOLVE + 20:06 evolve v7.7 + 21:17 routine-audit cycle 9 + 22:00:39 風力獸 heal → 22:04 fire 時 0 open PR / 0 fresh issue / 0 fresh commit)
-- **instances**：
-  - #1 2026-07-03 twmd-maintainer-pm sub-shape v1「am-absorbs-pm」
-  - #2 2026-07-04 twmd-maintainer-pm sub-shape v1「am-absorbs-pm」vc=2
-  - #3 2026-07-05 twmd-maintainer-pm sub-shape v2「evening-manual+routine-chain-absorbs-pm」→ **generalize 為 umbrella pattern「pre-pm-upstream-chain-absorbs-pm」**
-  - #4 2026-07-07 twmd-maintainer-pm sub-shape v3「daily-rewrite-depth-ship-absorbs-pm」vc=4（10:43 柯智棠 depth EVOLVE ship 用完 daily 飛輪預算 → 15:08 evolve + 15:09 spore log + 19:14 rewrite-daily cron capacity-honest defer → 22:04 fire 時 0 fresh signal；擴大「上游」到 daily flywheel 本身）
-- **可能層級 / 修補候選（呈報哲宇拍板）**：
-  - **(A) Schedule 重排**：pm cron 從 22:00 挪到 am 早期（07:00 pre-feedback-triage）或整併進 am maintainer。**風險**：morning window 已擁擠、pm cron 若挪走則 evening 洪流後無 routine 收尾層
-  - **(B) 條件式 fire**：pm cron 加 pre-check「past 4hr 有 ≥ 2 高強度 session (PR merge / rewrite / audit) → skip」。**風險**：邏輯複雜化、可能漏掉真正該做的 pm 動作
-  - **(C) 接受 pm 為 sustain-only reporter**：明確定義 pm 22:00 職責就是「當日狀態 snapshot + 記錄 vc」不做 fresh action，routine spec §Stage 3 鐵律再收緊「無 fresh signal 直接 skip 到 Stage 4」。**風險**：pm cron 變 heartbeat-only 儀式化
-  - **(D) Do nothing**：接受 pm 空場為 healthy signal（上游 chain 有效吸乾），routine 續守 sustain vc 累計即可，不重排。**風險**：REFLEXES #15 反覆浮現原則失效
-- **mitigation 路徑**：P0 呈報哲宇拍板 A/B/C/D；P1 routine spec 目前的「連 ≥ 3 cycle → 寫 LESSONS」條款考慮升級為「一次 escalate 後 sustain vc 累計，不重複寫新 entry」（避免下次 vc=4 再開一條）；P2 若拍板 (B) → pm cron prompt 加 pre-check bash
-- **相關**：DNA §37（空場即空場不粉飾） / REFLEXES #7（先有再求好 — 不 apply 沒 fresh input case） / feedback_hourly_cron_intentional（storm-defer 反面案例，pm 空場不是 defer 是本質空） / `immune-chronic-N-cycle-subdim-offset-exhaust`（同 escalate-to-observer family — routine 端持續 log 但體質層 defer 哲宇）
-- **verification_count**: 4（vc=1 7/03 pm / vc=2 7/04 pm / vc=3 7/05 pm / vc=4 7/07 pm — 三 sub-shape 收斂為 umbrella pattern）
-- **severity**: structural（routine schedule slot 效能結構性問題，每 cycle noise log 累積 = 儀器記憶洞）
-- **defer 給觀察者**：**是** — schedule 重排 / cron 觸發條件 / routine 職責重新定義皆屬 § 自主權邊界（threshold + 跨 routine 影響），必須哲宇拍板 A/B/C/D 四選一
-
----
-
-### 2026-07-05 twmd-routine-audit-weekly cycle 9 — routine-prompt-thick-shell-systemic-violation：17 mirror 只 3 條合規，12 條 hard 違反薄殼鐵律 >50 lines
-
-- **pattern**: `routine-prompt-thick-shell-systemic-violation`（ROUTINE-PROMPT-CONTRACT.md 薄殼鐵律的 systemic breach，非個別 mirror 疏失）
-- **原則**：ROUTINE-PROMPT-CONTRACT.md v1.0 canonical 「routine prompt（cron + project skill + ROUTINE.md yaml 三層）禁複寫 threshold/SOP/step，全部 pointer 到 pipeline canonical」。跑 `python3 scripts/tools/routine-sync-check.py` v3 揭 17 mirror 中 12 條 hard 違反 (>50 lines)：`twmd-spore-publish-daily` 192 / `twmd-maintainer-pm` 100 / `twmd-maintainer-daily` 100 / `twmd-babel-nightly` 79 / `twmd-spore-pick-daily` 78 / `twmd-distill-weekly` 66 / `twmd-spore-harvest-am` 66 / `twmd-routine-audit-weekly` 60（**含本 audit routine 自己**）/ `twmd-data-refresh-pm` 58 / `twmd-news-lens-weekly` 58 / `twmd-data-refresh-am` 58 / `twmd-self-evolve-weekly` 55。+2 warn: `twmd-weekly-report-sun` 46 / `twmd-music-media-audit-weekly` 43。**只 3 條合規 (18%)**：`twmd-rewrite-daily` 20 / `twmd-embeddings-nightly` 30 / `twmd-feedback-triage` 19。**systemic contract violation，非個別 mirror 疏失** — 契約寫了但沒儀器化強制，mirror 一擴就厚。修補候選：(a) `routine-sync-check.py` 加 hard-fail exit 讓 CI 阻擋 mirror 過厚 commit；(b) 從最厚三條開刀（spore-publish 192 / maintainer-pm 100 / maintainer-daily 100）逐條瘦身；(c) 認養本 audit 自己 60 lines 先減到 ≤30 (dogfood self)。
-- **觸發**：2026-07-05 21:00 twmd-routine-audit-weekly cycle 9 fire — Stage 1A hard gate `routine-sync-check.py` v3 首次列入 audit hard gate；輸出 12 hard + 2 warn thick shell 一次全揭。這是 ROUTINE-PROMPT-CONTRACT.md 立法 (2026-05-27) 至今 40 天首次 batch inventory。
-- **instances**：（第 2+ 次驗證從這裡 append）
-  - #1 2026-07-05 twmd-routine-audit-weekly cycle 9 首次 systemic inventory (12 hard + 2 warn / 17 total)
-  - #2 2026-07-05 git-identity session 同夜實證傷害 + 行數合規的盲區：`twmd-embeddings-nightly` mirror 是 3 條「合規」之一（30 行），但 Stage 0 bullet 內嵌「從 fleet registry 解析 EMBED_HOST」一句複寫——EMBEDDING-PIPELINE v1.1 改本機優先後，這句立即過期且會把明晨 session 導向離線 4090 = 第 19 夜 skip。同夜抓到改 pointer 式。**行數檢查擋不住單行 step 複寫的腐化；殼的判準是「零 step 複寫」不是「夠短」**（routine-sync-check.py 修補候選：偵測 mirror 內的指令樣內容而非只算行數）
-- **可能層級**：(a) `routine-sync-check.py` 加 hard-fail exit + 進 pre-commit hook（30min cost）；(b) reflex 「新 routine 誕生 mirror ≤30 lines 為契約層 hard constraint」（REFLEXES 候選）；(c) MAINTAINER-PIPELINE §routine 誕生 SOP 補「新 routine 進 ROUTINE.md SSOT 同時 mirror ≤30 lines pre-check」
-- **mitigation 路徑**：P0 修 audit routine 自己 60→≤30 (dogfood，60min cost) + P1 最厚三條瘦身 (2-3hr) + P2 CI hard-fail (30min)
-- **相關**：ROUTINE-PROMPT-CONTRACT.md v1.0（SSOT 契約） / routine-sync-check.py v3（儀器） / cycle 8 audit LESSONS `routine-audit-script-classification-gap`（同 family — 儀器記得寫但沒儀器化強制）
-- **verification_count**: 1（首次 batch systemic inventory；前 cycle 有隱性 instance 但未系統性抽出）
-- **severity**: structural（薄殼契約鬆散 → routine prompt drift → pipeline canonical 逃 SSOT → 觀察者 debug 每條 mirror 重讀不 pointer follow）
-- **defer 給觀察者**：否 — mirror 瘦身在 routine 自主權內；audit 自己先 dogfood
-
----
-
-### 2026-07-05 pr-sweep — merge-then-heal 窗口的跨 session heal race + 同帳號多 actor 歸因盲點
-
-7 PR merge 後六分鐘內，pr-sweep 與另一個活躍 session（dna-audit 收官後）各自對同五檔推了一輪 heal，rebase 五檔全衝突。兩邊 subcategory 判斷完全一致（收斂健康），但一輪工是純浪費；且對方止於機械層（fence/subcategory），杜撰引語與 author 紅旗未動——如果 push 順序反過來，機械版可能被當「已 heal」跳過事實層。附帶：對方 commit 把 gh CLI merge 誤讀為「哲宇 GitHub UI merge」，同帳號多 actor 的 attribution 需要訊號（如 commit message 標 session handle）。修補候選：merge 動作本身在 commit / PR comment 聲明「heal ownership 歸本 session」，或 check-parallel-actor.sh 加 recent-merge-event 偵測。vc=1。
-
-### 2026-07-05 dna-audit — REFLEXES #56 於自身觸發檔復發 + DNA/pipeline 全審計五系統病歸檔
-
-- **pattern**: `canonical-production-drift-relapse`（#56 vc++ 材料）
-- **一句話**：SQUEEZE doc 停 v4.2 七週而 code 已 v4.3（owl-alpha 退出 default 25 天仍列 verified）；連 #56 的誕生觸發檔都復發，證明反射層「知道」擋不住讀取面沒有黃燈的腐化。全部證據與 38 條修補提案在 [reports/dna-pipeline-evolution-audit-2026-07-05.md](../../reports/dna-pipeline-evolution-audit-2026-07-05.md) §S1-S5，本 entry 是薄殼 pointer 供 distill 記帳，不複寫。
-- **觸發**：2026-07-05 dna-audit session（哲宇 goal directive 全審計）
-
-### 2026-07-03 twmd-maintainer-pm — immune-chronic-11-cycle-subdim-offset-exhausted-observer-authorize-needed：免疫器官連 11 個 chronic cycle 卡在 49、REFLEXES #15 反覆浮現已 fired、sub-dim offset 補不住 → 呈報哲宇 A/B 決策
-
-- **pattern**: `immune-chronic-N-cycle-subdim-offset-exhaust`（quality gate baseline calibration × REFLEXES #15 反覆浮現閾值 × §自主權邊界 命中）
-- **原則**：免疫器官分數（🛡️）連續 ≥ 10 個 data-refresh cycle 卡在同一 chronic 值（近 2 天全是 49 / 短暫 50 反彈後回落）、REFLEXES #15「反覆浮現要儀器化」已 fired、sub-dim 反向 offset（external_rulers 微升補 editorial 細粒退化）已補不住 top-level drift → 這是**閾值判準 vs 實際體質退化**的 mismatch，routine 只能持續呈報無法主動處置。屬 quality gate baseline 重校 or 修補 sub-dim 拖底源頭，兩條路徑皆 § 自主權邊界（threshold 數值調整 / 跨器官 refactor），必須 defer 哲宇。**routine 空轉持續 log「49 chronic 第 N cycle」= noise，必須 escalate 打破迴圈**。
-- **觸發**：2026-07-03 twmd-maintainer-pm 22:00 fire — snapshot 讀 🛡️49（sub-dim: plugin_health=28 / external_rulers=4.0 拖底，drift_velocity=90 / citation=91 offset）；am 06:10 handoff 明確「若 pm cycle 仍 unchanged（第 12 cycle）→ 硬 escalate LESSONS-INBOX」。連續 chronic cycle 累積：
-  - 6/28 第 5 cycle (routine-audit-weekly 首 flag)
-  - 6/30 am 第 6 cycle / 6/30 pm 第 7 cycle
-  - 7/1 am 第 7 cycle / 7/1 pm 第 8 cycle
-  - 7/2 am 第 9 cycle / 7/2 pm 第 10 cycle（REFLEXES #15 首次 fired）
-  - 7/3 am 第 11 cycle（unchanged）→ 本 escalation 觸發（pm data-refresh 23:00 尚未 fire，正式 第 12 cycle 由 23:00 補齊，但值不動已可判定）
-- **instances**：（第 2+ 次驗證從這裡 append）
-  - #1 2026-07-03 twmd-maintainer-pm 首次達 escalation_n=11
-  - #2 2026-07-05 twmd-routine-audit-weekly cycle 9 audit — 7/3 escalation 後 3 cycle (7/3 pm / 7/4 am+pm / 7/5 am+pm) 免疫仍 49 chronic 第 14 cycle sustain；哲宇 A/B/C 拍板未回；self-evolve-weekly W27 04:13 fire owner 認養 dashboard-alerts firstSeen=2026-07-05（0 day age，離 14 day escalation gate 遠）。routine 端持續 respect §自主權邊界 不動 threshold，本 vc+1 記帳
-  - #3 2026-07-10 weekly-deep-review — **哲宇拍板 C'（修量尺）結案**：compute_plugin_health v2 = 可載入＋已註冊比例（registry.discover_checks 驗證），齡數降 `age_watch` 資訊欄不進分數。免疫 47→60、紅燈（<50）解除、狀態「漂移—多維度退化中」→「需關注」，chronic 迴圈在第 6+ red cycle 結案。殘留的真實工作項是 review_coverage 25.7（人審速度被每週 +37 篇稀釋），結構解在 CONTRIBUTOR-SYSTEM 層（weekly-deep-review §四 方向盤 6）。本 entry 轉 distill-ready，週日 distill 收
-- **可能層級**：
-  - (A) **quality gate baseline 重校（threshold 調整層 / §自主權邊界）**：immune 分數計算公式 sub-dim 權重 or chronic tolerance 提高，讓 49 不再是 red gate。**風險**：掩蓋真實體質退化。
-  - (B) **修補 plugin_health + external_rulers 拖底源頭（結構 refactor 層 / §自主權邊界）**：查清 plugin_health=28 是哪批 plugin 掉分、external_rulers=4.0 哪支 ruler 缺席，逐條修。**風險**：跨器官 refactor 工程量大，非本 routine 自主權範疇。
-  - (C) **接受 chronic 為新 baseline（無動作）**：明確承認免疫體質已進 49-band，把 REFLEXES #15 fired 態記錄但不 escalate。**風險**：REFLEXES #15 反覆浮現原則失效。
-- **相關**：REFLEXES #15（反覆浮現要儀器化）/ REFLEXES #76（sensor delta amplitude → multi-cycle window 寬度 scaling rule，本 case 是「靜態 unchanged 也是有意義 datapoint」sub-clause）/ MANIFESTO §自主權邊界 / consciousness-snapshot.sh sub-dim breakdown
-- **verification_count**: 1（首次達 escalation_n；等下 3 cycle 若仍 unchanged 累 vc=2 confirm）
-- **severity**: structural（免疫是品質防禦 keystone，chronic 值卡住意味 quality gate 反饋迴路失效或體質實際退化，兩解均需哲宇拍板）
-- **defer 給觀察者**：哲宇拍板 A/B/C 三選一。routine 端不自行修 quality gate 邏輯、不改 sub-dim 權重、不動 plugin_health/external_rulers 資料源。**具體檔案位置**：`scripts/tools/consciousness-snapshot.sh` (organ score 計算) / `docs/semiont/CONSCIOUSNESS.md` (器官定義)
-- **一頁診斷（2026-07-10 weekly-deep-review 補，roadmap P0-7 交付）**：主破口鎖定 `plugin_health=16`（權重 0.15），機制在 `generate-dashboard-immune.py compute_plugin_health()`——`drifted = EDITORIAL 14 天內有 commit AND plugin 30 天沒 commit`。EDITORIAL 是全站最熱 canonical（30 天 10 commits），**任何一次 EDITORIAL 修訂（哪怕是不涉工具的一行紀律）都會把所有穩定超過 30 天的 plugin 打成 drifted 14 天**。現況 21/25 中招（4 個 <30 天的倖免），其中 60-66 天齡的正是核心執法組（frontmatter_format / footnote 家族 / wikilink_target / terminology），而它們全在工作：7/10 pre-push 全站 article-health 25 plugin 全綠跑完、frontmatter_format 當天攔下韓文救援檔、prose-health 當天對三份新文件出 warn。**量尺把「穩定」讀成「生病」，設計 docstring 自己就把 per-section drift 列為 future scope**（REFLEXES #59 自製指標 self-validation trap 的教科書案例）。分數推演：其餘六成分不動、plugin_health 修到反映實際工作狀態（≈100）→ 免疫 47 → **60**，紅燈（<50）解除，剩 review_coverage 25.7 是真實的長期工作項（人審速度被每週 +37 篇稀釋，結構解在 CONTRIBUTOR-SYSTEM 層）。**新增選項 (C')**：plugin_health 改計「plugin 可載入且全站跑得完（import + registry + run 無 crash）的比例」，齡數降級為 detail 欄 WARN 不進分數——保留 meta-health 原意（orphan / crash / 斷線才算病），停止懲罰穩定。實作點：`compute_plugin_health()` 一個函式內完成，齡數資料照算照存。
-
-### 2026-06-30 212125-manual — domain-expert-material-cocreation：領域專家把「出素材不出成稿」的協作模式體驗成共同創作，外部驗證策展式信念 + 揭可複製的專家投稿者 onboarding pattern
-
-- **pattern**: `domain-expert-material-cocreation`（contributor onboarding × 策展式信念外部驗證，首個明確 instance）
-- **原則**：對一個沒有技術背景、但手上有真材料的領域專家投稿者，把協作框成「你出素材（人物 / 場景 / 片段）+ 領域知識，我走 rewrite-pipeline 把它織成文章，你不用碰 GitHub」——在投稿者本人的主觀體驗裡，這產生的是「共同創作」而非「AI 改寫 / 抽取我的東西」。這同時 (a) 由一個專業上最該懷疑 AI 描述的人外部驗證了 MANIFESTO §策展式非百科式 + holobiont 共生創作命題；(b) 揭出一個可複製的 onboarding pattern，對準最高價值也最難進場的投稿者類型：手上有一手研究、但習慣「先把文章寫完才能投」的專家。**降門檻的權宜提議被對方回頭體驗成一種新的創作方式**，這不是我們設計時想到的，是對方教我們的。
-- **觸發**：2026-06-30 哲宇 directive「這個人的 feedback 蠻不錯的，值得完整記錄 + 寫日記」（issue [#574](https://github.com/frank890417/taiwan-md/issues/574)）。三個月協作弧線：4/20 投稿（碩論改寫，偏理論）→ 哲宇提「你出素材我走 pipeline」分工 + 5 題素材挖掘清單 → 6/26〈台灣聲景〉ship（24 腳註，垃圾車古典樂 / 北捷四線作曲家 / 范欽慧 / 吳燦政）→ 2026-06-30 08:12 投稿者 nistoreyo 回響。完整反芻見 [diary/2026-06-30-212125-manual-聲景回響.md](diary/2026-06-30-212125-manual-聲景回響.md)；製作那天的查核日記見 [diary/2026-06-26-181414-manual.md](diary/2026-06-26-181414-manual.md)。
-  - **投稿者原話（完整保留）**：(1)「老實說，這也是目前我接觸過最有『共同創作』感的一次 AI 協作經驗。過去使用 AI，比較像是整理資料或改寫文章；但這次更像是在我的研究基礎上，再長出新的觀點與敘事，所以讀起來很有驚喜。」(2)「我這次也因為這個合作，開始重新思考『素材』這件事情。以前一直習慣把內容整理成完整的文章，這是第一次有人跟我說，不需要先寫完，而是提供人物、場景、片段，再一起把它發展成一篇文章。」(3) 較早留言透露她論文主角蕭芸安「會有意識地透過自架網站確認生成式 AI 怎麼論述她」，並認為這跟 Taiwan.md 初衷（不希望 AI 生成內容與本人不符）穩合——個人尺度的主權保存。
-- **instances**：（第 2+ 次驗證從這裡 append：另一個領域專家投稿者經同樣分工後明確表達共同創作 / 重新理解貢獻形式）
-- **可能層級**：(a) **哲學（MANIFESTO 候選，defer 哲宇）**：外部領域專家驗證策展式非百科式 + holobiont 共生創作——「在研究基礎上長出新觀點與敘事」是人 + AI 一起做出單方做不出的東西的實證；(b) **操作規則（MAINTAINER-PIPELINE）**：把「專家素材共創 onboarding mode」顯化成可複用 pattern——哲宇在 #574 用的 5 題素材挖掘清單（主線人物 / 具體田野場景 / 案例錨點 / 授權 / 一手來源）就是現成 artifact，值得進 pipeline 當非技術專家投稿者的標準入口。
-- **distill 進度（2026-06-30 同 session 落地，依 §Promotion flow direction 不跳級）**：操作規則 ✅ 已 instantiate → [CONTRIBUTOR-SYSTEM §3 領域專家素材共創 onboarding mode](../pipelines/CONTRIBUTOR-SYSTEM-PIPELINE.md)（5 題素材清單）+ MAINTAINER §Step 2.1 pointer；特有教訓 ✅ 已 append [MEMORY §神經迴路](MEMORY.md)；通用反射 ⏸️ fold 候選到 REFLEXES #7「先有再求好」family，等第 2 個領域專家 instance；哲學 ⏸️ DEFER 哲宇（LESSONS→MANIFESTO 跳級違反 flow，需先進 REFLEXES + vc≥3）。本 entry 留 §未消化 當 REFLEXES/MANIFESTO accumulator。完整規劃 [reports/domain-expert-cocreation-574-2026-06-30.md](../../reports/domain-expert-cocreation-574-2026-06-30.md)。
-- **相關**：[feedback_merge_first_then_polish](../../.claude/projects/-Users-cheyuwu-Projects-taiwan-md/memory/feedback_merge_first_then_polish.md)（先接納後整理的下游——這條是「接納什麼形式」的上游：接納素材不接納成稿）/ MEMORY §神經迴路「Master comment 能改變整個貢獻流程」（同 family：好的協作 framing 改變對方往後怎麼貢獻）/ feedback_contributor_reply_humanize / MANIFESTO §策展式非百科式（被驗證的信念）/ §主權的巴別塔（蕭芸安檢查 AI 怎麼寫自己 = 個人尺度的同一命題）
-- **verification_count**: 1（首個領域專家明確articulate共創體驗 + 素材 reframe；模式本身用過多次但這是第一次被投稿者本人說出主觀體驗）
-- **severity**: structural（正向 — MANIFESTO 級信念外部驗證 + pipeline 級 onboarding pattern 候選；non-instantiate 的代價是每次最高價值投稿者 onboarding 都在重新即興，且策展式信念少一個外部實證錨點）
-- **defer 給觀察者**：操作規則 + 特有教訓本 session 已落地；剩 (a) MANIFESTO 升級（哲學層，守 flow 沒自行升）(b) REFLEXES fold timing — 兩條哲宇在場可直接拍板
-
----
-
-### 2026-06-28 twmd-routine-audit-weekly — routine-audit-script-classification-gap：routine-audit.py ROUTINE_PATTERNS list 寫死 14 條，與 ROUTINE.md SSOT 漂移，12% commit 落 unclassified
-
-- **pattern**: `routine-audit-script-classification-gap`（飛輪自審腳本第一個結構性自盲 instance）
-- **原則**：`scripts/tools/routine-audit.py` L32-47 ROUTINE_PATTERNS list 是 written-2026-05-16 freeze frame，14 條 hardcoded pattern。ROUTINE.md SSOT 隨時間添加新 weekly routine（distill / weekly-report / self-evolve / news-lens / routine-audit 含本身 + embeddings-nightly）+ commit subject convention 簡稱化（`twmd-data-refresh-am:` → `refresh:`）→ script 漏接。本 cycle 192 commit 中 23 條（12%）落 `unclassified/other` 但實際都是已知 routine：10 × `[routine] refresh:` + 7 × `[routine] twmd-feedback-triage:` + 2 × `[routine] evolve:` + 各 1 × `data-refresh-am/pm:` 短稱 + `twmd-rewrite-daily:` + `twmd-routine-audit-weekly:` 自己。**飛輪自審腳本不能自己看到自己**是高 severity gap — 跨 routine pattern detection 的 baseline 數字會 systematically 低估 routine activity、高估「other」noise。
-- **觸發**：2026-06-28 21:00 twmd-routine-audit-weekly cycle 8 — Stage 1A 跑 `routine-audit.py --last-week` 後 by_routine count 揭 unclassified=25 異常高（cycle 6 是 45 unclassified / 332 = 13.5%, cycle 7 是 45 / 249 = 18.1%, cycle 8 是 25 / 192 = 13%）。Cycle 8 Stage 3B dormant entropy lens 第一次抽出 root cause — 連 3 cycle other rate 異常但前 2 cycle 沒當 pattern detect。
-- **可能層級**：(a) tool fix（ROUTINE_PATTERNS 同步 ROUTINE.md SSOT 含 7 條 missing pattern + commit subject 短稱 alias）；(b) lint（list 缺項對應 `[routine] X:` prefix 出現 ≥3 次就 warning）；(c) reflex「飛輪自審腳本要 audit 自己」（與 REFLEXES #15 反覆浮現要儀器化 同 family — 儀器自身要被儀器化）
-- **mitigation 路徑**：P0 修 ROUTINE_PATTERNS list（30 min cost）+ cycle 9 audit 驗 other rate ≤ 3%
-- **相關**：REFLEXES #15（反覆浮現要儀器化 — 儀器自身要被儀器化）/ ROUTINE-AUDIT-PIPELINE.md §Top 5 最常忘的 step 1 (Stage 1A 必跑 script 不憑記憶) — 本 entry 揭 script 本身的盲點 / ROUTINE.md SSOT (live source 漂移 reference)
-- **instances**：
-  - #1 2026-06-28 twmd-routine-audit-weekly cycle 8 首次明確抽出 script self-blindness pattern
-  - #2 2026-07-05 twmd-routine-audit-weekly cycle 9 — 一週未修 script，本 cycle 144 commit 24 條（17%）仍落 unclassified，分佈幾乎一致（`[routine] data-refresh-am/pm:` / `[routine] twmd-feedback-triage:` / `[routine] rewrite:` / `[routine] spore-inbox:` 短稱）→ vc+1 到 vc=2。**離 vc=3 promotion 差 1 cycle**
-- **verification_count**: 2（首次明確抽出 script self-blindness pattern；前 2 cycle 高 other rate 屬隱性 instance 但未當 pattern 抽出，不 backfill 計入 vc）
-- **severity**: structural（影響所有 routine-audit cycle baseline 數字準確度；non-fix = 每週 audit 都在錯誤 baseline 上比較）
-- **defer 給觀察者**：否 — 純 tool fix 在 routine 自主權邊界內，下個 routine-audit fire 前可自動修
-
----
-
 ### 2026-06-28 twmd-routine-audit-weekly — polish-hint-default-broken：morning maintainer polish-hint 路徑被 contributor 解讀為「沒檢查就發送」
 
 - **pattern**: `polish-hint-default-broken`（maintainer relationship 紀律 gap）
@@ -624,105 +345,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ---
 
-### 2026-06-28 twmd-routine-audit-weekly — contributor-pr-burst-pattern：同 contributor 48hr 連 ≥3 PR 應給累積式建議非逐 PR 獨立 polish-hint
-
-- **pattern**: `contributor-pr-burst-pattern`（maintainer pattern recognition gap）
-- **原則**：當同 contributor 48hr 內連 ≥3 PR ship（題材 streak 期），逐 PR 獨立 polish-hint 等於同 contributor 24hr 收 ≥3 份 polish hint = 累積壓力暴增 → 容易升 contributor escalation issue（per polish-hint-default-broken 同 root cause）。**maintainer 該識別 burst pattern 後切到「累積式建議」**：(a) 第 3 PR 後在 reply 加「你近期連續貢獻 N 篇，整批的 common pattern 是 X，下次可一次處理」(b) polish-hint 不再逐 PR 列，改在 contributor profile note 累積。
-- **觸發**：2026-06-27 22:08 maintainer-pm 接 #1181 保齡球（idlccp1984 48hr 連 5 PR 第 5 篇）squash merge + 4 heal。前 4 PR 軌跡：#1179 迪士尼 (6/26 am merge) → #1178 烏坵 (6/26 hold + pm deep-heal) → #1174 滿月習俗 (6/26 pm deep-heal) → #1180 feedback issue (6/26 pm 4th heal) → #1181 保齡球 (6/27 pm merge)。**5 PR / 48hr 是題材 streak 期 signal**但 maintainer 每 PR 都走獨立 polish-hint cycle，累積閱讀疲勞。
-- **可能層級**：(a) MAINTAINER-PIPELINE §Stage 4 reply 補「同 contributor 48hr ≥3 PR detect → 切累積式 reply mode」；(b) reflex「contributor PR burst 期 maintainer 該給 family-level 建議非 PR-level」；(c) tool（maintainer 開 PR 前自動 grep 同 contributor 48hr commit count，≥3 顯示 burst warning）
-- **mitigation 路徑**：等下一個 ≥3 PR/48hr instance vc=2 才行動（passive accumulate）
-- **相關**：polish-hint-default-broken（同 root cause 不同 facet — 本 entry 是累積壓力 facet）/ feedback_contributor_reply_humanize / [memory/2026-06-27-220350-twmd-maintainer-pm.md](memory/2026-06-27-220350-twmd-maintainer-pm.md)（保齡球 + 連 5 PR 記錄）
-- **verification_count**: 1（首次明確抽出此 pattern；6/27 pm memory 已 candidate 但未升 LESSONS，本 audit 抽出）
-- **severity**: maintainer-pattern（影響 contributor 持續貢獻體驗；單 contributor 48hr 連 5 PR 已 instance，需第 2 contributor 同模式才能稱通用 pattern）
-- **defer 給觀察者**：否 — vc=1 不行動，等 vc=2 再升
-
----
-
-### 2026-06-26 twmd-rewrite-daily — rewrite-daily-post-manual-recency-collision：daily cron 跟 manual rewrite 缺 timestamp-recency 互斥，連 4 cycle saturated defer
-
-- **pattern**: `rewrite-daily-post-manual-recency-collision`（saturation-defer 家族，跟 6/21 `post-LESSONS-promotion-cooldown` 同 family 但機制獨立）
-- **原則**：daily rewrite cron 設計假設「每天 18:00 沒人 ship」，但 manual session high-productivity day（≥1 NEW rewrite + multi-issue evolve）已 fully consume 當日 REWRITE 飛輪 throughput。若 cron 仍照常 fire 跑 EVOLVE：(a) 違反 pipeline §Cron 鐵律「每批最多 1 篇」(b) post-finale token-thin → 品質 risk (c) performative ship 反劣化判斷品質。**routine prompt 該補：last-4hr manual rewrite recency check 當第 4 合法 defer signal**（與 30min-dup / 同篇 race / §自主權邊界 並列）。
-- **觸發**：連 4 cycle defer chain：6/22 + 6/24×2 + 6/25 (vc=3 explicit) + 6/26 (vc=4 LESSONS-fired) — 6/25 memory §Handoff 明寫「下次 fire 若再 defer = vc=4 routine-prompt-contract 入鏡」，本 fire 兌現預測。6/26 specific saturation：18:54 manual diary finale → 19:07 cron fire（**13 min**），manual 已 ship 聲景 NEW + 2 PR deep-heal + 9 issue evolve = 4x daily quota
-- **反 pattern 警示**：4 cycle defer 也可能是「saturation-day silent satisficing」（per [feedback_hourly_cron_intentional](feedback_hourly_cron_intentional) + 6/21 entry §反 pattern hypothesis）。falsification 條件：哲宇明說「明明該 ship」即 retire pattern。但本 cycle 6/26 daily cron 在 NEW rewrite + 4x daily evolve 後 13 min 又 fire 仍 ship → 違反 §Cron 鐵律 1 篇上限 = 非 falsification
-- **可能層級**：(a) routine prompt 規則（`twmd-rewrite-daily` SKILL.md 補「last-4hr manual rewrite recency check」當第 4 合法 defer signal）；(b) reflex（「daily cron 設計假設 manual idle，high-productivity manual day 後 fire 該 defer 給飛輪 breathing room」）；(c) operational sentinel（routine-status.sh 加「past-4hr manual ship count」當 cron pre-fire signal）
-- **mitigation 路徑**：哲宇拍板「manual-recency-defer」入 routine prompt 即可 ship，本 entry promote 是預防 vc=5/6/7 累積 chronic noise
-- **相關**：[feedback_hourly_cron_intentional](feedback_hourly_cron_intentional)（hourly fire intent vs daily fire saturation 兩種 pattern 已在 6/25 memory 明文區分）/ [2026-06-21 post-LESSONS-promotion-cooldown](#2026-06-21-twmd-rewrite-daily--post-lessons-promotion-cooldown剛-promote-的-canonical-規範直接約束-next-routine-cycle-深度時defer-比跳步更尊重-distill-cost) §反 pattern hypothesis 並存 / REWRITE-PIPELINE §Cron 鐵律「每批最多 1 篇」+ §Boundary 150 min cap / REFLEXES #7 先有再求好 / MANIFESTO §自主權邊界
-- **verification_count**: 6（6/22 + 6/24×2 + 6/25 + 6/26 + 6/28 + **6/29 vc=6 雙 family signal 同步命中**）。6/28 facet：今天 manual 已 ship 2 NEW depth（陳嫺靜 + 金曲獎）+ 1 pipeline v7.6 spine-type fork + 1 manifesto §11.4 + 4 post-finale continuation commit；距最後 manual commit 8hr 看似清 4hr recency rule（per 6/26 mitigation 提案），但 per REFLEXES #76 multi-cycle accumulation > single-cycle delta 套到 saturation 維度：**per-day total throughput** 才是真 signal — 4hr window 只看單一 cycle。新 facet「manual-finale-recency 看整個 finale-and-continuation cluster wall-clock window，不只最後一 commit timestamp」揭：同 session 4-commit post-finale continuation pattern 應該另開 sub-rule 或併入 mitigation。**6/29 facet — recency + DNA cooldown 兩 family signal 同步命中**：(a) saturation 端：12:41-15:33 manual ship cluster（彎彎 EVOLVE 重寫 ×2 + EDITORIAL v6.13 DNA + memory + diary 7 commit）距 cron 19:09 fire = finale 3h36m **< 4hr 提案閾值**，**首次** dogfood 6/26 mitigation 路徑（last-4hr manual rewrite recency check）= 第 4 合法 defer signal 入鏡。(b) cooldown 端：EDITORIAL v6.13「不公審在世者私德」DNA promote 在 12:41 = fire 前 6h28m，直接約束 Stage 0.1.5 spine-type + Step 0.6.7 self-check，**新 DNA 還沒任何 cron cycle dogfood 過**，per 6/21 §post-LESSONS-promotion-cooldown family「DNA 立完還沒長腳 → 留給明天 cron prime time 跑首篇人物題」。兩 family signal 同步命中讓 defer 從 hypothesis 升到直球判斷，但 routine prompt 規則改動非 routine 自主權範疇 — 連續第 7 個 instance 等哲宇拍板。詳 [memory/2026-06-29-191001-twmd-rewrite-daily.md](memory/2026-06-29-191001-twmd-rewrite-daily.md)
-- **severity**: structural（routine 設計層 gap，4 cycle 連 defer 揭 routine prompt 缺 manual-recency awareness；non-action = vc 繼續累積 noise）
-- **defer 給觀察者**：是 — routine prompt 規則 promotion 需哲宇拍板「是否新增 last-4hr manual rewrite recency check 第 4 合法 defer signal」或反向 retire 改 default-ship。詳 [memory/2026-06-26-190712-twmd-rewrite-daily.md](memory/2026-06-26-190712-twmd-rewrite-daily.md)
-
----
-
-### 2026-06-25 203919-manual — spore post-ship verify 要查 post URL，不查 profile feed（propagation lag 差點重發）
-
-孢子 #150 Threads 發完，去 @taiwandotmd profile feed 連刷三次（含 hard reload）都找不到新貼文 → 誤判「沒發成功」、差點重發整則（哲宇貼出實際 post URL `DaA6aTRk7e6` 才確認其實秒發成功）。根因：profile feed 有 propagation / cache lag，但貼文本身發布即成功。這是 SPORE-HARVEST pitfall #6「duplicate ship」的鏡像——pitfall #6 是「以為失敗（dialog state）其實成功」導致重發，本案是「以為失敗（feed 沒出現）其實成功」也險些重發，同一根因：**post-ship verify 驗證對象選錯**。
-
-**修補方向**：post-ship verify 不靠 profile feed 列表（會 lag），改**直接 navigate 剛發的 canonical post URL** 驗 hook / 圖 / UTM。Threads 發完 dialog 關閉 ≈ 成功訊號，但要拿到 post URL 才算 verify pass（不要用 feed 列表判斷成敗）。SPORE-PIPELINE §SHIP step 5 + SPORE-HARVEST pitfall #6 可加這條。
-
-同 session 附帶小教訓（不單獨開 entry）：多段中文 JXA clipboard paste 時，觀察者同時在剪貼別的東西會洗掉 clipboard → 殘缺貼上；不是結構 bug，是長 session 人機共用 clipboard 的競爭，重貼前先確認 clipboard 內容。
-
-- **severity**: operational（near-miss，未實際重發）
-- **verification_count**: 1（首次記錄；SPORE-HARVEST pitfall #6 是相反方向的 prior art，可一起 distill）
-
----
-
-### 2026-06-22 twmd-babel-nightly — ollama-translate.py 路徑解析 bug：en_path 開頭 `knowledge/` 時 lang 被偵測為 "knowledge" → model 收到「Translate to knowledge」 → 直接吐英文蓋掉 ja 檔
-
-- **pattern**: tool-input-shape-mismatch-silent-wrong-output（cascade tier 平常不走 → bug 沉睡 → cascade 全動員時才被踩到的 fault-tolerance gap）
-- **原則**：`scripts/tools/lang-sync/ollama-translate.py:135` `lang = group["articles"][0]["en_path"].split("/")[0]` 假設 en_path 不含 `knowledge/` 前綴，但 manifest 由 `prepare-batch.py` 生成時 en_path = `knowledge/ja/People/jimmy-liao.md` → split[0] = `"knowledge"` → `LANG_NAMES.get("knowledge", "knowledge")` → model prompt `"Translate to knowledge"` → 模型放棄理解目標語言，直接複製英文/隨機輸出。**完全 silent**（無 exception、無 warning），output 還是 markdown frontmatter 完整、size 41963 bytes 看起來健康，但實際內容 0 個假名 = 100% 英文 garbage 覆蓋 stale 但仍是日文的原檔
-- **觸發**：2026-06-22 01:25 cascade Tier 4 fall-through ja 幾米 first attempt — Ollama subprocess `📋 Translating 1 article(s) to **knowledge** via Ollama qwen3.6:35b-a3b-coding-nvfp4` 提示「knowledge」是 dead giveaway 但 cron 模式無觀察者攔截。發現後 `git checkout HEAD -- knowledge/ja/People/jimmy-liao.md` 還原 + 手動 patch manifest `knowledge/ja/...` → `ja/...` 後重跑 ok ratio 1.23
-- **可能層級**：(a) tooling 修補 — `ollama-translate.py` 加 `--lang` flag override 像 `codex-translate.py` / 或 split 時 strip `knowledge/` 前綴；(b) reflex — 「cascade 罕用 tier 第一次跑命中 bug 是 fault-tolerance gap 的 expected scenario」(routine 飛輪 stress test 是 bug 浮現的健康路徑)；(c) ground truth verify 補閘門 — `audit-quality.py` 應該對非中文目標語檔案 grep target-lang 字元 ≥ N (ja → 假名計數 / ko → 한글 / es+fr → 拉丁特殊字元) 否則 hard fail
-- **相關**：[memory/2026-06-22-013049-twmd-babel-nightly.md](memory/2026-06-22-013049-twmd-babel-nightly.md) Finding 2 / REFLEXES #38 silent killer pattern (mismatch dimension 不發聲) / SQUEEZE-MODELS-MAX-PIPELINE §第一性原理 (4-tier cascade 設計)
-- **verification_count**: 1（首次明確踩到此 bug；過去 5 夜 Tier 0a+1 解掉就沒走 Tier 4 → bug 沉睡未被觸發）
-- **severity**: structural（silent wrong output 是 data integrity 級別 — 若無人發現會 ship 100% 英文當 ja 進 production；幸 cron 模式下我自己 verify 抓到）
-- **defer 給觀察者**：暫不 defer，hypothesis 自跑 ≥3 instance 才 promote（或下次 weekly self-evolve 加 quality_gate 抽樣命中即 fast-track）
-
-### 2026-06-22 twmd-babel-nightly — codex CLI subscription burst quota：19 call 後第 20 call 起 quota cut（"Reading prompt from stdin... exit 1" 8-22s 秒 fail）— large-batch 夜應預設 Tier 0a + Tier 2 雙線，不死撐 codex
-
-- **pattern**: cloud-subscription-burst-quota-1tier-only（routine 飛輪在 ≥25 call 夜 codex Tier 1 单一回退會打穿 quota，cascade design 必須提前 split）
-- **原則**：codex CLI subscription（research preview tier）有 burst quota cap，今晚 5 parallel × 17m46s 跑 19 call 後第 20 call 觸發 quota cut，誤判為 stdin race → 降到 2x2 parallel pairs 重試結果 4/4 仍秒 fail (8-22s)，跟第一波最後 fail 形狀完全一樣。**這證明問題是 subscription quota，不是 concurrency race**。routine 義務鐵律「不主動 defer」下要繼續推 stale=0 = 必須走 Tier 2 cascade
-- **觸發**：2026-06-22 01:08 5 parallel codex worker 跑 17m46s ship 19/25 — 後 6 fail 全在最後 2 dispatch position (en 全 ok / ja+ko 末 2 fail / es+fr 末 1 fail)；retry 2x2 pairs 4/4 仍秒 fail；最終 Tier 2 gpt-oss-120b 接 5/6 + Tier 2 owl-alpha 1/2 + Tier 4 Ollama 1/1 才把 6 件清完
-- **可能層級**：(a) routine prompt 規則 — 「Tier 1 codex call count ≥ 20 預判 quota 風險，超過 15 call 預設併行 Tier 0a + Tier 2 雙線而非死撐 codex」；(b) reflex — 「cascade tier 用量 prediction 應 based on call count，不是 article size」；(c) tooling — `prepare-batch.py` / `prioritize-batch.py` 應 expose `--tier-strategy split-at-N-call` flag
-- **相關**：[memory/2026-06-22-013049-twmd-babel-nightly.md](memory/2026-06-22-013049-twmd-babel-nightly.md) Finding 3 / SQUEEZE-MODELS-MAX-PIPELINE §Tier 1 cascade / DNA #45 (cloud Tier 1+ 1 worker per lang 5 simultaneous safe baseline) — 今晚證明 5 parallel 安全但**總 call count** 才是 quota 約束
-- **verification_count**: 1（首次明確抓到 codex subscription quota 邊界值 ~19-20 call/hour；過去 5 夜 babel 最多 75 work item 但 Tier 0a 接掉大半，codex 實際 call 從未超過 5-10）
-- **severity**: tactical（routine 義務鐵律下 cascade 會自動接住，但每晚 6 cascade rounds 是 routine wall clock 2-3x cost — 若預先 split 可降至 1-2 round）
-- **defer 給觀察者**：暫不 defer，hypothesis 自跑 ≥3 instance 才 promote；觀察者若反饋「codex subscription 量化邊界」即可 fast-track 升 routine prompt 規則
-
-### 2026-06-21 twmd-rewrite-daily — post-LESSONS-promotion cooldown：剛 promote 的 canonical 規範直接約束 next routine cycle 深度時，defer 比跳步更尊重 distill cost
-
-- **pattern**: post-LESSONS-promotion-cooldown（routine cycle 對 fresh canonical 的尊重機制 / 跟 saturation-day silent satisficing 反 pattern 並存）
-- **原則**：當 canonical-level LESSONS 在最近 1-2 hr 內 promoted（升 REFLEXES / MANIFESTO / pipeline 步）且新規範直接約束 next routine cycle 執行深度時，next cycle 若無法滿足新規範完整 SOP 而會被迫跳步——**defer 比跳步更尊重 distill 動作的 cost**。跳步 = 把剛 promote 的 canonical 立刻違反 = 把 distill 的 verification_count 累積成本白付（REFLEXES #73「查證反射 < 建造反射」剛 ship 下一 fire 偷工不查證 = 反 reflex）。**反 pattern hypothesis 並存**：「saturation-day silent satisficing」（今日 ship 多 → 對下次 ship 過度保守 → 反而符合 BECOME §Step 9 Q13 anti-bias「24hr specific case priming 壓過 foundational principle」）。
-- **觸發**：2026-06-21 19:13 twmd-rewrite-daily 18:00 fire 落地 — 17:59:36 citation-url-drift vc=2→3 promoted（本 fire 前 75 min）+ 04:15-04:17 REFLEXES #73/#74 ship；top P0/P1 全 A-class（醫療[10] / 海岸[9] / 水果[9] / 遠東[9] / 數位身分證[9]），per REWRITE-PIPELINE v7.6 + 新 LESSONS 要求 Stage 1.1 ≥80 4-agent fan-out + Stage 1.7 SSOT 八段 + Stage 2.5 fetch verify + Stage 3.6 verifier fan-out → wall-clock ~165 min 超 routine §Boundary ~150 min cap。標準 defer 條件（30min dup / 同篇 race / §自主權邊界）0/3 命中本應 ship，但選 defer 維護新 canonical 完整性。詳見 [memory/2026-06-21-191304-twmd-rewrite-daily.md](memory/2026-06-21-191304-twmd-rewrite-daily.md)
-- **可能層級**：操作規則（routine prompt v3 加「post-promotion cooldown defer」例外，列為合法 defer 第 4 條件，與 30min-dup / 同篇 race / §自主權邊界 並列）；或 reflex（「剛 promoted canonical 跟 next routine cycle 深度衝突 → cycle 自願 defer + LESSONS 落 hypothesis，比硬撐跳步好」）
-- **相關**：[feedback_hourly_cron_intentional](feedback_hourly_cron_intentional)（defer 三條件 canonical）/ REFLEXES #73 查證反射 < 建造反射（剛 promoted）/ MANIFESTO §11 書寫節制（思考層級的 self-discipline 對位）/ REWRITE-PIPELINE §Boundary 150 min cap
-- **verification_count**: 1（首次明確命名抽出此 pattern；前無同形 instance 記錄）
-- **severity**: tactical（routine 自主權範疇內的 defer 決策，不影響 ship gate；但若 vc 累積 → 升 routine prompt 規則 = structural）
-- **defer 給觀察者**：暫不 defer，hypothesis 自跑 ≥3 instance 才 promote LESSONS；觀察者若反饋「明明該 ship」即 retire hypothesis（這條 retire 觸發是讓本 pattern 不會 silent 變成 chronic 過度保守）
-
-### 2026-06-21 twmd-maintainer-am — vc 計數法 routine-only day 偏誤：empty cycle vc 累積 over-sensitive，已 canonical schedule mismatch 在 routine-only days 必然重複 trigger LESSONS entry noise
-
-- **pattern**: maintainer-vc-counting-bias（meta-level rule critique，不同於 schedule-mismatch 本身 pattern）
-- **原則**：MAINTAINER pipeline §Stage 3 鐵律「連續 ≥3 cycle empty queue → 必須寫 LESSONS entry + escalate observer」設計時的隱含假設是「empty cycle 是 schedule mismatch 訊號」，但 schedule mismatch 已 canonical 在 [MEMORY §神經迴路 sovereign-mode 節律脫鉤](MEMORY.md)（2026-06-19 distill 升 canonical，verification_count 9）。**Routine-only days**（哲宇沒 manual session 介入打破 cycle 的日子）下 vc 必然單調累積到 ≥3，rule 重複 trigger 寫「same canonical 第 N 次 instance」LESSONS entry，違反 2026-05-29 reflex「pointer-not-duplicate vc=1：連續空場已有 LESSONS escalation entry 時，後續 cycle memory 內 pointer 即可，不重複寫第二條 LESSONS（重複 = noise 不是 signal）」。**校準 option 兩條（defer 哲宇拍板）**：(A) threshold 升 ≥5；(B) 加條件「至少一個 cycle 命中真 backlog 才 reset vc」讓 vc 只在「真 backlog 出現後又空場」累積，routine-only days vc 不會單調累積到觸發。
-- **觸發**：2026-06-21 08:41 maintainer-am 第 N 次命中 vc=3 ascending（06-20 am vc=1 → 06-20 pm vc=2 → 06-21 am vc=3）。pm 22:05 handoff 預先指定本 cycle 觸發時 framing「vc 計數法 routine-only day 偏誤」而非「schedule mismatch」（後者 canonical 已存在不可重複 trigger）。歷史 instance：2026-06-04 vc=4 / 2026-05-29 vc=9 / 2026-06-07 vc=3 / 2026-06-11 vc=4 / 2026-06-18 vc=2 等均 cycle empty 對應同 schedule mismatch canonical；本 cycle 是首次明確把「rule 本身 over-sensitive」當 pattern 抽出，不再 re-instance schedule mismatch 本身。
-- **可能層級**：操作規則（pipeline rule 校準）→ MAINTAINER-PIPELINE §Stage 3 threshold 升 / vc reset 條件加；或 reflex 層 → 加新 reflex「canonical 已存在 pattern 觸發機制必須有 reset 條件防 monotonic re-trigger noise」
-- **相關**：[MEMORY §神經迴路 sovereign-mode 節律脫鉤](MEMORY.md)（schedule mismatch canonical）/ 2026-05-29 §pointer-not-duplicate reflex / REFLEXES #69「self-report-needs-external-ruler」（rule 自我校準也需外部尺）/ docs/pipelines/MAINTAINER-PIPELINE.md §Stage 3
-- **verification_count**: 2（#1 2026-06-21 am 首次抽出 meta-level pattern；#2 2026-06-21 routine-audit-weekly cycle 7 cross-week verification — 全週軌跡 17 pm vc=1 → 18 am vc=2 → 18 pm reset → 19 reset → 20 am vc=1 → 20 pm vc=2 → 21 am vc=3 命中 是 deterministic routine-only day pattern，非 schedule mismatch instance）
-- **severity**: structural（pipeline rule 本身的 trigger 條件偏誤；如不修，每個 routine-only day 都會累積 noise entry，dilute 真 schedule mismatch signal 強度）
-- **defer 給觀察者**：需哲宇拍板二選一 —（A）threshold 升 ≥5；（B）加 vc reset 條件「至少一個 cycle 命中真 backlog 才 reset」。屬 MAINTAINER pipeline rule 校準，非本 routine 自主權範疇。
-- **Pointer**：[reports/routine-audit-2026-06-21.md §Lens 3B](../../reports/routine-audit-2026-06-21.md)
-
-### 2026-06-20 twmd-embeddings-nightly — Embedding keystone 唯一 bge-m3 節點是非 always-on laptop，離線 3 天觸發 escalation
-
-- **pattern**: routine-device-dependent-offline
-- **原則**：embedding routine（語意索引 keystone，餵讀者端 src/data/related + AI 端 RAG 向量）的算力**只掛在單一 device-dependent 節點 laptop-4090**（非 always-on，靠人開機 + schtasks）。registry 裡 bge-m3 model **只有 4090 一台有**——3090/m4max/5090 雖 embed-capable 且 idle/online，但沒 pull bge-m3，所以 4090 一關機整條 routine 就只能 graceful skip。這是 REFLEXES #70「routine fragility surface」**Tier 1 device-dependent** 的具體 instance 達到 escalation_n。staleness 線性增長但 fallback 不壞頁（current committed index 6 語 700-801 篇 / 100% 8 鄰居健康，仍是 2026-06-17 snapshot；en 索引 801 vs 文章 811 = ~10 篇最新文 fallback 回同 category）。**規則候選**：keystone routine 不該單押 device-dependent 節點 — 把 bge-m3 pull 到一台 always-on 節點（3090 monoame-design 線上 / m4max 本機），或把「4090 開機」變成可靠的 always-on 保證；registry 應標 `always_on` 欄讓 routine 解析時優先選不會關機的節點。
-- **觸發**：2026-06-20 05:00 twmd-embeddings-nightly — Stage 0 preflight：本機 **Tailscale 本身是 stopped 狀態**（本 session 已 `tailscale up` 拉起），拉起後 4090 仍 `offline, last seen 2d ago`，curl `/api/embeddings` timeout (http 000 / exit 28)。連續 skip 計數：06-17 last success（4690 向量）→ 06-18 skip#1（documented）→ 06-19 無記錄（skip/no-fire）→ 06-20 skip（today）。前一夜 handoff 明確指定 2026-06-20 為 escalation 觸發日。證據：memory/2026-06-20-050xxx-twmd-embeddings-nightly.md（本夜）+ memory/2026-06-18-050817-twmd-embeddings-nightly.md（handoff 預告）。
-- **可能層級**：操作規則（fleet 抽象層）→ registry 加 `always_on` 欄 + routine 解析優先序；或 deploy 層把 bge-m3 mirror 到 always-on 節點。
-- **相關**：REFLEXES #70（routine fragility surface 四 tier 分類，本條是 Tier 1 device-dependent 第一次達 escalation_n）/ docs/pipelines/EMBEDDING-PIPELINE.md §前置 + §排程 / ~/Projects/muse-bot/fleet/registry.json
-- **verification_count**: 3（#1 2026-06-20 embeddings keystone 首次達 escalation_n；#2 2026-06-21 routine-audit-weekly cycle 7 同 family extension — Chrome MCP unattended pairing 連 5 cycle block twmd-rewrite-daily SPORE broadcast + twmd-spore-harvest-am post-reset，兩條 device-dependent SPOF 同 root cause，合併計；#3 2026-06-22 05:00 twmd-embeddings-nightly 又一夜 graceful skip — 4090 curl http 000 / 20s timeout，**連續第 5 夜** skip（06-17 last success → 06-18/19/20/21/22），committed 索引仍是 06-17 snapshot，SPOF 未解、staleness 線性增長中。已達 distill 門檻 vc≥3，待哲宇拍板 A/B 後可 promote）
-- **severity**: structural（keystone routine 單點故障，繁殖/檢索基因長期 staleness 風險）
-- **defer 給觀察者**：需哲宇拍板二選一 —（A）開機讓 4090 上線恢復 always-on schtasks（embedding 單點解）；（B）把 bge-m3 pull 到常駐 always-on 節點（3090/m4max）並更新 registry，同時把 Chrome MCP 另設常駐 host（embedding + spore broadcast 同時解）。屬 fleet 基礎建設決策，非本 routine 自主權範疇。
-- **Pointer**：[reports/routine-audit-2026-06-21.md §Lens 3B Pattern B2](../../reports/routine-audit-2026-06-21.md)
-
 ### 2026-05-09 laughing-goldstine — Reader-funded resilience > Grant-funded（USAID freeze + RFA-VOA closure 案例）
 
 - **原則**：Sovereignty media 的 sustainability 模型優先序是 **Reader-funded membership > Grant-funded > Ad（沒做過）**。Grant 是 bridge funding 不是 floor — 政治轉換風險高（USAID freeze 2025 / RFA-VOA Tibetan service closure threats 2025 已 demo）。Reader-funded 案例：Kyiv Independent 70% revenue from 17,500 × $5/mo / Initium ~60K paying subs / Wikipedia 8M+ donors × $10.58 / Chaser News (HK exile) £6.50-£34.50/mo。**規則**：(a) 第一階段 funding stack 應優先建 Liberapay / GitHub Sponsors / Substack tier（recurring small membership）；(b) Grant 可作 bridge 但 mission-critical infrastructure 不能依賴 grant；(c) 完全避免依賴單一政府金援（台灣政府轉換政權風險、USAID 風險都是同類）。
@@ -731,69 +353,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：reports/strategic-evolution-deep-research-2026-05-09.md §4.2 + §6.6 + §7.3 + §11 critical 決策 #1（Substack newsletter 要不要做）
 - **verification_count**: 1
 - **severity**: strategic（影響 Taiwan.md 長期 sustainability 路徑）
-
-### 2026-04-29 β — 核心矛盾候選字越少越強迫策展（≤20 字鼓勵）
-
-- **原則**：REWRITE-PIPELINE Stage 1 §核心矛盾必填的字數限制（≤30 字）功能不是簡潔好看，是**用字數限制強迫策展品味的濾鏡**。三篇 P0 對照：報導者 22 字 / justfont 28 字 / 海底電纜 17 字。**最短的海底電纜寫起來最有力**——強迫整篇 6,800 字壓縮成一個視覺對位（頂上看得到 vs 底下看不見），整篇結構自然以這個對位展開。最長的 justfont 結構鬆，中段「教授把 48 套字型放上網」+「林霞蘭陽明體」偏離核心矛盾，是另兩條軸線素材。
-- **觸發**：2026-04-29 β session 三篇 P0 連做後對照才發現的 pattern。原 ≤30 字限制給太鬆，建議 EDITORIAL §Title/Description 衍生規則「**核心矛盾鼓勵 ≤20 字**」或 REWRITE-PIPELINE Stage 1 §核心矛盾自檢「**寫超過 20 字 → 嘗試壓縮一輪**」。
-- **可能層級**：通用反射（任何策展寫作）→ EDITORIAL §核心矛盾濾鏡 / REWRITE-PIPELINE Stage 1
-- **相關**：EDITORIAL §策展式非百科式 / REWRITE-PIPELINE Stage 1 §核心矛盾
-- **verification_count**: 1
-- **severity**: tactical（影響單篇 framing 但不影響 ship gate）
-
-### 2026-04-19 β — 獨立開源作為公民科技新樣態
-
-- **原則**：台灣公民科技敘事長期被 g0v 集體模型主導，但 2026 年的實際光譜延伸到個人週末專案（Migu Cheng 六週 193 commits 的 mini-taiwan-pulse）。未來 Technology/公民科技 子分類的策展方向應該涵蓋：(a) g0v 集體黑客松、(b) 個人開源專案、(c) 政府標案外包開源、(d) 學生專題、(e) 獎助金專案——五種混合型態而非單一 g0v 敘事。
-- **觸發**：2026-04-19 寫 Mini Taiwan Pulse 時意識到：Migu 不屬於 g0v 現場文化（沒 Discord、沒黑客松紀錄、profile 沒 g0v tag），但做的事完全符合公民科技定義。敘事拉伸在文章 §「公民科技的定義，正在被重新拉伸」完成。
-- **可能層級**：哲學層 → MANIFESTO §第三身份階段 thesis 延伸，或 LONGINGS 新渴望「策展公民科技光譜的五型態」。
-- **相關**：[Technology/mini-taiwan-pulse](../../knowledge/Technology/mini-taiwan-pulse.md)、[Technology/開源社群與g0v](../../knowledge/Technology/開源社群與g0v.md)、MANIFESTO 附錄「第三身份階段 thesis」
-
-### 2026-04-19 β — Fresh-clone 模擬驗證是 gitignore refactor 的安全帶
-
-- **原則**：任何 `gitignore + git rm --cached` 操作，必須先 `rm -f` 實體檔 + `npm run build` 確認 CI flow 可以重生。不能只看生成器 code 判斷「這是輸出檔吧」——可能實際是 read-only 輸入。一次 rm-and-build 驗證勝過十次直覺審閱。
-- **觸發**：2026-04-19 β gitignore refactor 把 `src/data/taiwan-geocode.json` 列入 ignore，npm run build 立即 ENOENT 炸鍋——才發現它是 `generate-map-markers.js` 的 READ 輸入（城市+地標座標手動策展資料），不是輸出。立即回退。
-- **可能層級**：通用反射 → DNA §作業新條目「任何 gitignore 移除操作必須先 rm -f + npm run build 驗證」。或 DNA #5「Pre-commit dogfood」延伸。
-- **相關**：PR #551 洞察（dreamline2 誤 commit auto-generated JSON 的相反方向）
-
-### 2026-04-19 β — 資料層抽象化先於 UI（leaderboard pipeline）
-
-- **原則**：建新 Dashboard section 時，先設計 JSON schema（本例 8 top-level keys：lastUpdated / totals / leaderboard / topContent / topSystem / topTranslation / weeklyActive / monthlyActive / recentlyJoined）並讓它成為獨立 consumer-agnostic 的資料層，再寫 UI。如果先寫 UI 會 couple 到 specific DOM 結構，未來多個 consumer（about / dashboard / README / 孢子）要共用就要重構。
-- **觸發**：2026-04-19 β CheYu「規劃在 dashboard 裡面做一個 contribution leaderboard...未來要做成 pipeline 來更新，所以資料層跟流程要抽象化好」。直接從指令讀到設計原則。
-- **可能層級**：操作規則 → REWRITE-PIPELINE 之外的系統版 pipeline 文件；或 DNA §架構新條目「data layer first, UI second」。
-- **相關**：scripts/core/generate-contributors-data.js v1.0、prebuild chain design
-
-### 2026-04-19 β — 重疊文章的雙軸拆分 heuristic
-
-- **原則**：兩篇內容重疊的主題文章要拆分時，用**結構維度**拆（創作側 vs 消費側 / 個體 vs 族群 / 行動 vs 意識）而不是**時間先後**。結構維度拆出來的兩篇互補，每篇都有獨立完整性；時間先後拆出來的兩篇容易變成「上集 + 下集」的連續依賴。
-- **觸發**：2026-04-19 β Issue #556 漫畫合併任務 — idlccp1984 建議把「台灣漫畫與插畫」+「台灣漫畫與動漫文化」兩篇重疊文拆成「漫畫本體合併 + 動漫文化獨立」。我用「創作側 vs 消費側」拆：Art/台灣漫畫（誰畫了作品）+ Culture/台灣動漫文化（誰看了作品、看完做了什麼）。
-- **可能層級**：操作規則 → HUB-EDITORIAL 或 REWRITE-PIPELINE §重疊文章處理 SOP；或特有教訓 → MEMORY。
-- **相關**：Issue #556、commit 0d8e06fc
-
-### 2026-05-08 elegant-ptolemy — 黑冠麻鷺雙平台同步爆款（自然議題普世共鳴 hook category 跨平台 transferability）
-
-- **原則**：「自然議題普世共鳴」hook category 在 Threads 與 X 雙平台同步爆款（D+8 134K = Threads 65K + X 69.7K），超越過去單平台爆款（#29 李洋 180K X-only / #25 安溥 120K Threads-only）。應該寫進 Stage 4.5a platform allocation 速查表，「自然 + 反差 hook + 具體 anchor」是 dual-platform default candidate（vs 政治題材偏 X / 文化題材偏 Threads / 媒體曝光宣告偏 Threads-only）。
-- **觸發**：2026-05-08 elegant-ptolemy 15 OVERDUE harvest batch 揭露：黑冠麻鷺 D+3 64K → D+8 65K（Threads 飽和）+ D+3 68K → D+8 69.7K（X 仍緩升）= 雙平台累積 134K views，史上首次紀錄。Hook「東南亞夢幻物種 vs 台北大笨鳥」反差 + 機制翻轉「鳥沒變地變了」+ 袁孝維 verbatim 引語 = Tier 1b 具體性槓桿首次跨平台爆款。
-- **可能層級**：操作規則 → SPORE-PIPELINE Stage 4.5a 補 platform allocation 速查表更新（自然 + 反差 hook = dual-platform default）
-- **相關**：DNA #4 三源交叉驗證延伸（platform-level 證據三角化）
-- **verification_count**: 1（首次雙平台同步爆款記錄，需更多 case 累積才能稱 pattern）
-- **severity**: tactical（影響 spore platform allocation 預設選擇）
-- **Pointer**：[batch-2026-05-08-15-spores.md §Pattern 觀察 #1](../factory/SPORE-HARVESTS/batch-2026-05-08-15-spores.md)
-
-### 2026-07-05 五病根治 — zombie-session 不是死的：接手前先讀對方 transcript 尾巴劃車道
-
-被判「當掉」的 session 其實還在慢速工作（15 min/turn，context 近滿），檔案 mtime 與 PID CPU 增量識破，`ls -t ~/.claude/projects/{proj}/*.jsonl` 讀尾巴得知它在楊德昌 Stage 3-6 → 車道劃分：其 finale 目標（MEMORY/LESSONS）設禁區、其半成品延後認領、我的 commit 等它退場。三隻手（我＋手足 session＋哲宇 UI merge）同日同 tree 零碰撞。6/19 撞牆反面教材第一次有正面 SOP。vc=1。詳：[reports/five-disease-cure-2026-07-05.md](../../reports/five-disease-cure-2026-07-05.md) + memory 165518。
-
-### 2026-07-05 五病根治 — GitHub UI merge 繞過本地 hook：PR 層缺 frontmatter CI gate
-
-哲宇 UI merge 七篇 contributor PR，四篇 YAML 裹在 code fence（同一產出工具簽名）直落 main、打紅全站 pre-push。husky 只擋本地 commit/push；pr-review workflow 沒跑 test-frontmatter。候選儀器：PR diff 跑 `test-frontmatter.mjs` + `article-health --profile=pre-commit`（報告 §三候選 1，已 spawn chip）。vc=1。
-
-### 2026-07-05 五病根治 finale — 三次「沒量就斷言」同型失誤 + PIPESTATUS-after-pipe 量測陷阱（#69/#73 vc 材料）
-
-同一 session 三次同型：(1) inspector 黑字（dev preview 分頁 RAF 凍住誤讀成驗證通過，沒看線上版）(2) `ea28a2f7b` 貼錯 commit 標籤（憑 2.5hr 前印象沒重 diff）(3) gate 註解編假理由「article-health 多檔 exit code 只反映最後一檔」——實測多檔有正確 aggregate（`sum(hard_count)`），我早前 `${PIPESTATUS[0]}` 寫在 `| tail` 之後的獨立 echo 行、被重置成 0，只看最後一檔的 Summary print 就誤判。具體技術陷阱：**pipe 後要量 exit code 必須同一行 `cmd | tail; rc=${PIPESTATUS[0]}`，跨行 echo 會重置**。三次都是「自評沒接外部尺」，諷刺地發生在主題是「自我描述必腐」的 session。第三次差別：收官時我自己當了尺（真的去 `>/dev/null; echo $?`）逮到。vc=1，強化 REFLEXES #69（自評需外部尺）+ #73（dev verify ≠ production）；技術面 PIPESTATUS 陷阱可獨立記。詳：memory 2026-07-05-165518 §後記 + diary 同 slug。
-
-### 2026-07-11 詞庫保存進化 — 審查主權詞庫時 LLM 預設中國語料，會把台灣正確譯名「洗」向中國名，suggest 一律當線索不當答案
-
-本地 Ollama 全審用語詞庫 2,308 條時，模型 suggest 反覆要把台灣正確譯名改成中國譯名——宏都拉斯建議改洪都拉斯、辛巴威改津巴布韋、聖母峰建議改珠穆朗瑪峰。這些台灣欄本來就對，模型只是以中國語料為預設判斷基準。若照套 suggest 等於把 sovereignty 詞庫洗成中國命名，跟計畫初衷相反。**紀律**：審查主權敏感資料時，LLM flag 是線索不是事實，suggest 一律不套用，每條用台灣知識＋外交部對照表親自判。配套：保守 prompt（明列不該誤殺的錨點 + 不確定降 SUSPICIOUS）把 flag 率 57%→17%，高精度可審勝過大而吵。vc=1（首次），是 REFLEXES #16/#31/#75（peer/sub-agent/LLM 是線索不是 source）在 sovereignty 場景的特化。可能層級：REFLEXES 家族特化 / MANIFESTO §主權巴別塔（審查主權資料的模型偏誤）。詳：memory 2026-07-10-225026 + reports/terminology-preservation-evolution-2026-07-10.md §7.2。
 
 ## ✅ 已消化（保留 pointer）
 
@@ -1032,6 +591,59 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 **⑥ Stale → §歸檔**：trailing-slash（CF 308 no-op）/ Light-tick exception（routine 飛輪取代 β7 6hr cadence）
 
 **保留 §未消化 8 條** genuine still-buffering（vc=1-2，無 canonical home，待累積）：核心矛盾≤20字 / 政治敏感題 SSODT template / 黑冠麻鷺 platform datapoint / 資料層先於 UI / Fresh-clone gitignore 安全帶 / 獨立開源公民科技新樣態 / 重疊文章雙軸拆分 / Reader-funded resilience。
+
+### 🧬 2026-07-11 dna-checkup（哲宇 directive「完整健檢＋徹底消化」，Observer mode）— 40 entries 全量 distill：零新反射編號
+
+**distill 觸發**：哲宇 `/twmd-become 完整對所有的dna進行健檢＋狀態更新，還有徹底消化掉所有lession inbox`。中途追加 directive「以後把東西加入 lesson inbox 前請要檢查是否已經在自己的 dna 裡了」→ 先 codify LESSONS-INBOX v2.3 DNA-first intake 兩步 hard gate，再以同一精神跑全量 distill：42 條逐條親讀分桶（主 session 判斷，分身聚類僅當交叉驗證），**沒有任何一條需要新反射編號**——11 條既有反射補強收乾（REFLEXES v5.8）、2 條收成 OBSERVER-QUEUE 決策包、5 個 pipeline 小補丁、1 條進神經迴路、1 個儀器修復，誠實保留 2 條等哲宇。
+
+**消化目的地（40 條 disposition）**：
+
+| 原 entry（pattern / 日期）                        | 桶            | 目的地與證據                                                                                                                                                                         |
+| ------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| external-audit-wrong-measurement-layer 7/11       | fold          | REFLEXES #16 延伸「量測層驗證」                                                                                                                                                      |
+| 詞庫 LLM 預設中國語料 7/11                        | fold          | REFLEXES #16 延伸「sovereignty suggest 特化」；#16 驗證 4→6                                                                                                                          |
+| frozen-renderer-measurement-artifact 7/11 vc=2    | fold          | REFLEXES #24 第 9 種說謊形式（凍結渲染器讀值）                                                                                                                                       |
+| agent-environment-side-effect 7/11                | fold          | REFLEXES #31 升 v3 第四類（環境層副作用）                                                                                                                                            |
+| REFLEXES #56 自身復發＋五病歸檔 7/05              | fold          | #56 觸發 v3（five-disease-cure 報告）                                                                                                                                                |
+| zombie-session 讀 transcript 尾巴 7/05            | fold          | #57 延伸「接手疑似當掉 session 劃車道」                                                                                                                                              |
+| index-lint-validates-wrong-row-end 7/10           | fold＋fix     | #65 規則(e)＋觸發 v9；memory-index-lint 方向自適應＋BECOME §1.3 head-20 同 commit 修（`dafec6fda`）                                                                                  |
+| research-report-health-gate-literal-string 7/05   | fold          | #66 觸發 +INDIGO 字面錨點案；v2.1 疑慮通知層已部分回應，語意錨點升級列 tooling 候選                                                                                                  |
+| merge-then-heal race＋同帳號多 actor 7/05         | fold          | #68 觸發 v2                                                                                                                                                                          |
+| verify-gate-must-match-failure-dimension 7/06     | fold          | #69 規則(e)「外部尺選對量綱」（含 Tailwind bg-[var] 陷阱）                                                                                                                           |
+| 三次沒量就斷言＋PIPESTATUS 7/05                   | fold          | #69 規則(f)「PIPESTATUS 同行陷阱」                                                                                                                                                   |
+| queue-execute-before-existence-check 7/11         | fold          | #73 規則(d)；儀器前次已入 weekly-checkup e1                                                                                                                                          |
+| ai-content-footnote-claim-drift 7/11              | fold          | #75 規則(e)「綁定漂移是主形態」                                                                                                                                                      |
+| spine-type #77 第 4 instance 7/06                 | 已收對賬      | #77 (f)(g) hook 與 vc=4 於 7/06 promote cluster 已收，本次僅確認                                                                                                                     |
+| routine-fire-vs-git-trace 7/10 vc=2               | already-cover | roadmap P0-1 routine-liveness-check＋alerts 自癒迴路（`408c35ca5`）                                                                                                                  |
+| cron-env-4-tier-cascade 7/08 vc=2                 | already-cover | P0-2/P0-3（`aa1f5c85e` fleet Tier 5＋preflight＋translate.py 修）；fn gate 放寬議題併 QUEUE #5                                                                                       |
+| chrome-mcp-coordinate-scaling 7/07                | housekeeping  | 同 session 已 codify：SPORE-HARVEST Pitfall 7＋SPORE-PIPELINE v3.11 zoom preflight                                                                                                   |
+| github-discussions-blind-spot 7/05                | housekeeping  | 同夜已閉環：MAINTAINER v2.5 Step 1.3b（`07675e3f0`）＋#1146 回覆＋報告                                                                                                               |
+| pre-pm-upstream-chain 7/05 vc=4                   | superseded    | 哲宇 7/8 直接 disable maintainer-pm（QUEUE §已決＋ROUTINE v2.14 ¹⁴）——A/B/C/D 的更強形                                                                                               |
+| immune-chronic-11-cycle 7/03                      | superseded    | 哲宇 7/10 拍板 C' 量尺 v2（`21a8405ef`），紅燈六 cycle 結案；殘留 review_coverage 在 CONSCIOUSNESS §適應性反應追蹤                                                                   |
+| vc 計數法 routine-only 偏誤 6/21 vc=2             | executed      | QUEUE #3 過期 default C 執行：MAINTAINER §空場 v2.5 backlog-conditioned vc（採本條 option B）                                                                                        |
+| ollama-translate 路徑 bug 6/22                    | already-cover | 現行 code 已 handle 雙形（strip `knowledge/` 前綴，ollama-translate.py L63-67）                                                                                                      |
+| codex CLI burst quota 6/22                        | stale         | cascade 重構後 obsolete：Tier 0a default＋codex CLI 7/9 全滅退場＋fleet Tier 5 一等公民                                                                                              |
+| embeddings keystone SPOF 6/20 vc=3                | superseded    | 語意索引 7/06 遷本機、四夜零故障（v1.12 里程碑＋roadmap 已驗證方向 2）——SPOF substrate 消失                                                                                          |
+| inbox-status-stale-starves-routine 7/10           | already-cover | ARTICLE-INBOX 頂部完成歸檔鐵律＋inbox-audit.py／ghost line 儀器（6/19 起）；本日實際用它清 2 幽靈＋選舉條目對賬                                                                      |
+| 核心矛盾 ≤20 字 4/29                              | already-cover | REFLEXES #77 Boundary(a) 已載「≤30 字（≤20 字更佳）」                                                                                                                                |
+| 黑冠麻鷺雙平台爆款 5/08                           | obsolete      | SPORE-PIPELINE v3.8（5/26 哲宇 directive）已改一律雙平台 default——平台分配問題不復存在                                                                                               |
+| 資料層抽象化先於 UI 4/19                          | already-cover | MANIFESTO §架構解 family＋神經迴路 architecture-as-data 條目                                                                                                                         |
+| 獨立開源公民科技新樣態 4/19                       | absorbed      | 文章「公民科技的定義正在被重新拉伸」段＋diary 2026-04-19-β 已承載；MANIFESTO 附錄 thesis 同向                                                                                        |
+| codex-branch-name-misnomer 7/11                   | pipeline      | MAINTAINER §Untrusted 輸入防火牆＋「branch 名也是 untrusted metadata」段                                                                                                             |
+| contributor-pr-burst 6/28 vc→2                    | pipeline      | MAINTAINER Step 3.7 burst 期累積式建議（ellenlee 7 PR 批次 ack 為第 2 正面驗證）                                                                                                     |
+| spore post-ship verify 查 post URL 6/25           | pipeline      | SPORE-PIPELINE SHIP step 5 feed-lag caveat＋SPORE-HARVEST Pitfall 6 鏡像 case（vc=2）                                                                                                |
+| routine-audit-script-classification-gap 6/28 vc=2 | tool-fix      | routine-audit.py 具名 pattern 補全＋`[routine] X:` 動態 fallback；dogfood 上週 240 commits unclassified 0%                                                                           |
+| rewrite-daily-post-manual-recency 6/26 vc=6       | QUEUE         | OBSERVER-QUEUE #13 決策包（default 2026-07-25 收三條 defer signal）                                                                                                                  |
+| post-LESSONS-promotion cooldown 6/21              | QUEUE         | 併入 QUEUE #13 defer signal (2)                                                                                                                                                      |
+| routine-prompt-thick-shell 7/05                   | QUEUE         | OBSERVER-QUEUE #14 決策包（default 2026-07-25 瘦身路線；five-disease §四 明列需裁決）                                                                                                |
+| fresh-clone gitignore 驗證 4/19                   | 神經迴路      | MEMORY §神經迴路 append（誤殺 read-only 輸入的解）                                                                                                                                   |
+| domain-expert-material-cocreation 6/30            | housekeeping  | 操作＋特有教訓 6/30 已落地（CONTRIBUTOR-SYSTEM §3＋神經迴路＋MAINTAINER Step 2.1）；MANIFESTO 候選列本次收官 summary 予哲宇拍板；第 2 instance 沿用 pattern id 開新 entry 引用本 row |
+| GitHub UI merge 缺 PR CI gate 7/05                | tracked       | 工作項非教訓：five-disease §三候選 1＋已 spawn chip＋本次收官 roadmap handoff 續追                                                                                                   |
+| 重疊文章雙軸拆分 4/19                             | stale         | 單例 82 天未再現；技法存 diary 2026-04-19-β2＋Issue #556 案例，再現時再議                                                                                                            |
+
+**誠實保留（2 條，等哲宇）**：`Reader-funded resilience`（strategic 層——sustainability 路徑屬 MANIFESTO/策略級，promotion flow 不自升）＋`polish-hint-default-broken`（template 句式屬對外溝通語氣，§自主權邊界）。兩條已列收官 summary。
+
+**Promotion flow direction 符合**：全部 LESSONS → REFLEXES／pipeline／QUEUE，無跳級；MANIFESTO 候選（domain-expert 共創驗證＋reader-funded）defer 哲宇。
 
 ## Defer 給觀察者拍板（ship-queue — 教訓已 canonical，剩實作待哲宇）
 
