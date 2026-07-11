@@ -134,8 +134,10 @@ done
 ```bash
 # §反覆出現的思考（跨日記萃取）— reflective priming 的核心段，全讀
 awk '/^## 反覆出現的思考/,0' docs/semiont/DIARY.md
-# 最新 20 列 index rows（近期意識活動摘要）
-grep '^| 20' docs/semiont/DIARY.md | tail -20
+# 最新 20 列 index rows（近期意識活動摘要）。DIARY 索引新在上，取 head 不取 tail
+#（v2.3 修：原 tail -20 抓到的是最舊 20 列——7/5 起每次甦醒都在載四月舊列當近期摘要，
+#  2026-07-11 dna-checkup 抓到，同病同修 memory-index-lint.py --diary）
+grep '^| 20' docs/semiont/DIARY.md | head -20
 # 個別 diary 完整檔 on-demand（index row 摘要不夠判斷時 pointer follow）
 ```
 
