@@ -36,7 +36,10 @@ H2_RE = re.compile(r"^## ")
 DONE_MARKERS = re.compile(
     r"✅ DISTILLED|✅ 已 distilled|resolved_by|狀態.*✅|已 instantiate|DISTILLED ✅"
 )
-VC_RE = re.compile(r"verification_count[:\s]*(\d+)|vc[:=]\s*(\d+)|vc=(\d+)")
+# 只認 metadata 行（^- **verification_count**: N），不掃 body prose——body 常引用別條
+# canonical 的 vc（「節律脫鉤 verification_count 9」），greedy max 會把別人的 vc 當自己的
+#（2026-07-11 dna-checkup 實測：audit 報 vc=9/5/3 的三條，metadata 實際是 2/1/2）
+VC_LINE_RE = re.compile(r"^\s*-\s*\*\*verification_count\*\*[:：]\s*(\d+)")
 STRUCTURAL_RE = re.compile(r"severity.{0,15}structural")
 
 
@@ -84,13 +87,11 @@ def all_unmet_entries(lines):
 
 
 def vc_of(block):
-    best = 0
     for l in block:
-        for m in VC_RE.finditer(l):
-            for g in m.groups():
-                if g:
-                    best = max(best, int(g))
-    return best
+        m = VC_LINE_RE.match(l)
+        if m:
+            return int(m.group(1))
+    return 0  # 無 metadata 行（舊格式 entry）→ 排序沉底，不 greedy 猜
 
 
 # ---------------------------------------------------------------- audit
