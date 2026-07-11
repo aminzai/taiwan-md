@@ -30,6 +30,7 @@ function countArticles(categorySlug: string): number {
     society: 'Society',
     economy: 'Economy',
     lifestyle: 'Lifestyle',
+    politics: 'Politics',
   };
   const dirName = categoryMap[categorySlug] || categorySlug;
   const dirPath = path.join(
@@ -174,6 +175,15 @@ const categories = [
     icon: '🏠',
     gradient: 'linear-gradient(135deg, #14b8a6, #0891b2)',
     headerHeight: 155,
+    mobileHeaderHeight: 112,
+  },
+  {
+    name: categoryConfigs['politics'].name,
+    slug: 'politics',
+    description: categoryConfigs['politics'].description,
+    icon: '🗳️',
+    gradient: 'linear-gradient(135deg, #7c2d12, #ea580c)',
+    headerHeight: 140,
     mobileHeaderHeight: 112,
   },
 ];

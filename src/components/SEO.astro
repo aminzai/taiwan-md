@@ -29,6 +29,15 @@ interface Props {
   category?: string;
   slug?: string;
   categorySlug?: string;
+  /** Article/item pairs for the CollectionPage ItemList (hub pages). See
+   * collectionTotal for the count when it differs from this array's length
+   * (e.g. truncated to the first N items). */
+  collectionItems?: { name: string; url: string }[];
+  /** Total item count for the CollectionPage ItemList's numberOfItems.
+   * Defaults to collectionItems.length when omitted — pass explicitly when
+   * collectionItems is truncated (e.g. a category with 300 articles only
+   * lists the first 100). */
+  collectionTotal?: number;
 }
 
 const { lang = 'zh-TW' } = Astro.props;
@@ -47,6 +56,8 @@ const {
   category,
   slug,
   categorySlug,
+  collectionItems,
+  collectionTotal,
 } = Astro.props;
 
 const fullTitle = `${title} | Taiwan.md`;
@@ -102,8 +113,11 @@ const aiSummary =
 
 // Generate JSON-LD structured data
 const generateJSONLD = () => {
-  // Person pages (people category)
-  if (category === 'people' || category === 'People') {
+  // Person pages (people category) — gated on type === 'article' so the
+  // /people (or /en/people etc.) HUB page — which also carries
+  // category === 'People'/'people' — doesn't get misdescribed as a single
+  // Person. 2026-07-10 fix (was firing on the hub listing page too).
+  if (type === 'article' && (category === 'people' || category === 'People')) {
     return {
       '@context': 'https://schema.org',
       '@type': 'Person',
@@ -353,6 +367,43 @@ const homepageCollectionLD = isHomepage
     }
   : null;
 
+// CollectionPage schema for non-homepage collections (category hubs, /latest,
+// etc.) — same shape as homepageCollectionLD but caller-supplied via
+// `collectionItems`/`collectionTotal` instead of the hardcoded 12-hub list
+// above, and explicitly excluded from the homepage (which already gets its
+// own richer homepageCollectionLD with named sub-CollectionPage entities).
+// 2026-07-10 category-hub overhaul: lets AI/search crawlers see a category
+// hub's full member list (article name + URL) as structured data instead of
+// only whatever happens to be in the rendered HTML.
+const collectionPageLD =
+  collectionItems && collectionItems.length > 0 && !isHomepage
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        '@id': url,
+        url,
+        name: title,
+        description,
+        inLanguage: lang,
+        dateModified: dateModified || undefined,
+        isPartOf: {
+          '@type': 'WebSite',
+          '@id': siteUrl,
+          name: 'Taiwan.md',
+        },
+        mainEntity: {
+          '@type': 'ItemList',
+          numberOfItems: collectionTotal ?? collectionItems.length,
+          itemListElement: collectionItems.map((it, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            url: it.url,
+            name: it.name,
+          })),
+        },
+      }
+    : null;
+
 // Dynamic keywords (zh-TW gets Chinese keywords; all other langs get English)
 const baseKeywords =
   lang === 'zh-TW'
@@ -406,11 +457,17 @@ const generateBreadcrumbLD = () => {
     },
   ];
 
-  // Category page (e.g., /history, /en/culture, /ja/food)
+  // Category page (e.g., /history, /en/culture, /ja/food) — matched on
+  // categorySlug (the raw English URL segment), NOT category (the
+  // localized display name, e.g. '歷史'/'歴史'/'History'). 2026-07-10 fix:
+  // the old `currentPath.endsWith('/' + category)` check compared a
+  // translated/capitalized label against a lowercase English path
+  // segment, so it never matched for non-en locales (and rarely for en,
+  // since categoryInfo.name is capitalized while the URL slug isn't).
   if (
-    category &&
-    (currentPath.endsWith(`/${category}`) ||
-      currentPath.endsWith(`/${category}/`))
+    categorySlug &&
+    (currentPath.endsWith(`/${categorySlug}`) ||
+      currentPath.endsWith(`/${categorySlug}/`))
   ) {
     return {
       '@context': 'https://schema.org',
@@ -427,9 +484,14 @@ const generateBreadcrumbLD = () => {
     };
   }
 
-  // Article page
+  // Article page — categoryUrl prefers categorySlug (same rationale as
+  // above); falls back to the old `category`-based URL when a caller
+  // doesn't pass categorySlug, so this stays non-breaking for any
+  // caller that hasn't been updated to pass it yet.
   if (category && type === 'article') {
-    const categoryUrl = `${siteUrl}${localePrefix}/${category}`;
+    const categoryUrl = categorySlug
+      ? `${siteUrl}${localePrefix}/${categorySlug}`
+      : `${siteUrl}${localePrefix}/${category}`;
     return {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
@@ -632,6 +694,14 @@ const breadcrumbLD = generateBreadcrumbLD();
     <script
       type="application/ld+json"
       set:html={JSON.stringify(homepageCollectionLD, null, 2)}
+    />
+  )
+}
+{
+  collectionPageLD && (
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify(collectionPageLD, null, 2)}
     />
   )
 }

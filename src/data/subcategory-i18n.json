@@ -1,0 +1,726 @@
+{
+  "_comment": "Display-layer translations for subcategory group headings on non-zh hub pages. Grouping keys remain the zh-TW frontmatter values; unmapped values render as-is. Generated 2026-07-10 (hub-template session); regenerate/extend when new multi-article subcategories appear.",
+  "map": {
+    "殖民與帝國": {
+      "en": "Colonialism & Empire",
+      "ja": "植民地と帝国",
+      "ko": "식민지와 제국",
+      "es": "Colonialismo e imperio",
+      "fr": "Colonialisme et empire"
+    },
+    "社會與日常史": {
+      "en": "Social & Everyday History",
+      "ja": "社会と日常史",
+      "ko": "사회와 일상사",
+      "es": "Historia social y cotidiana",
+      "fr": "Histoire sociale et quotidienne"
+    },
+    "戰後與威權": {
+      "en": "Postwar & Authoritarian Era",
+      "ja": "戦後と権威主義時代",
+      "ko": "전후와 권위주의 시대",
+      "es": "Posguerra y era autoritaria",
+      "fr": "Après-guerre et ère autoritaire"
+    },
+    "民主與治理": {
+      "en": "Democracy & Governance",
+      "ja": "民主主義とガバナンス",
+      "ko": "민주주의와 거버넌스",
+      "es": "Democracia y gobernanza",
+      "fr": "Démocratie et gouvernance"
+    },
+    "史前與原住民": {
+      "en": "Prehistory & Indigenous Peoples",
+      "ja": "先史時代と原住民族",
+      "ko": "선사시대와 원주민",
+      "es": "Prehistoria y pueblos indígenas",
+      "fr": "Préhistoire et peuples autochtones"
+    },
+    "軍事歷史": {
+      "en": "Military History",
+      "ja": "軍事史",
+      "ko": "군사사",
+      "es": "Historia militar",
+      "fr": "Histoire militaire"
+    },
+    "經濟發展史": {
+      "en": "Economic History",
+      "ja": "経済発展史",
+      "ko": "경제 발전사",
+      "es": "Historia del desarrollo económico",
+      "fr": "Histoire du développement économique"
+    },
+    "現代歷史": {
+      "en": "Modern History",
+      "ja": "近現代史",
+      "ko": "근현대사",
+      "es": "Historia moderna",
+      "fr": "Histoire moderne"
+    },
+    "縣市": {
+      "en": "Counties & Cities",
+      "ja": "県・市",
+      "ko": "현과 시",
+      "es": "Condados y ciudades",
+      "fr": "Comtés et villes"
+    },
+    "地形與地質": {
+      "en": "Landforms & Geology",
+      "ja": "地形と地質",
+      "ko": "지형과 지질",
+      "es": "Relieve y geología",
+      "fr": "Relief et géologie"
+    },
+    "城市與人文地理": {
+      "en": "Urban & Human Geography",
+      "ja": "都市と人文地理",
+      "ko": "도시와 인문지리",
+      "es": "Geografía urbana y humana",
+      "fr": "Géographie urbaine et humaine"
+    },
+    "歷史街區": {
+      "en": "Historic Districts",
+      "ja": "歴史地区",
+      "ko": "역사 지구",
+      "es": "Distritos históricos",
+      "fr": "Quartiers historiques"
+    },
+    "氣候與溫泉": {
+      "en": "Climate & Hot Springs",
+      "ja": "気候と温泉",
+      "ko": "기후와 온천",
+      "es": "Clima y aguas termales",
+      "fr": "Climat et sources chaudes"
+    },
+    "島嶼與海洋": {
+      "en": "Islands & Oceans",
+      "ja": "島と海洋",
+      "ko": "섬과 해양",
+      "es": "Islas y océanos",
+      "fr": "Îles et océans"
+    },
+    "水文與水資源": {
+      "en": "Hydrology & Water Resources",
+      "ja": "水文と水資源",
+      "ko": "수문과 수자원",
+      "es": "Hidrología y recursos hídricos",
+      "fr": "Hydrologie et ressources en eau"
+    },
+    "地標": {
+      "en": "Landmarks",
+      "ja": "ランドマーク",
+      "ko": "랜드마크",
+      "es": "Hitos",
+      "fr": "Sites emblématiques"
+    },
+    "生態地理": {
+      "en": "Ecological Geography",
+      "ja": "生態地理学",
+      "ko": "생태지리",
+      "es": "Geografía ecológica",
+      "fr": "Géographie écologique"
+    },
+    "宗教與民俗": {
+      "en": "Religion & Folk Customs",
+      "ja": "宗教と民俗",
+      "ko": "종교와 민속",
+      "es": "Religión y costumbres populares",
+      "fr": "Religion et coutumes populaires"
+    },
+    "網路文化": {
+      "en": "Internet Culture",
+      "ja": "ネット文化",
+      "ko": "인터넷 문화",
+      "es": "Cultura de internet",
+      "fr": "Culture internet"
+    },
+    "工藝與美學": {
+      "en": "Craft & Aesthetics",
+      "ja": "工芸と美学",
+      "ko": "공예와 미학",
+      "es": "Artesanía y estética",
+      "fr": "Artisanat et esthétique"
+    },
+    "族群文化": {
+      "en": "Ethnic Cultures",
+      "ja": "エスニック文化",
+      "ko": "민족 문화",
+      "es": "Culturas étnicas",
+      "fr": "Cultures ethniques"
+    },
+    "節慶與禮俗": {
+      "en": "Festivals & Rites",
+      "ja": "祭りと儀礼",
+      "ko": "축제와 의례",
+      "es": "Festivales y ritos",
+      "fr": "Fêtes et rites"
+    },
+    "語言與文字": {
+      "en": "Language & Script",
+      "ja": "言語と文字",
+      "ko": "언어와 문자",
+      "es": "Lengua y escritura",
+      "fr": "Langue et écriture"
+    },
+    "出版與媒體": {
+      "en": "Publishing & Media",
+      "ja": "出版とメディア",
+      "ko": "출판과 미디어",
+      "es": "Publicación y medios",
+      "fr": "Édition et médias"
+    },
+    "藝術園區": {
+      "en": "Arts Spaces & Districts",
+      "ja": "アートスペース",
+      "ko": "아트 스페이스",
+      "es": "Espacios de arte",
+      "fr": "Espaces artistiques"
+    },
+    "網路與數位文化": {
+      "en": "Internet & Digital Culture",
+      "ja": "インターネットとデジタル文化",
+      "ko": "인터넷과 디지털 문화",
+      "es": "Internet y cultura digital",
+      "fr": "Internet et culture numérique"
+    },
+    "傳統工藝": {
+      "en": "Traditional Crafts",
+      "ja": "伝統工芸",
+      "ko": "전통 공예",
+      "es": "Artesanía tradicional",
+      "fr": "Artisanat traditionnel"
+    },
+    "運動文化": {
+      "en": "Sports Culture",
+      "ja": "スポーツ文化",
+      "ko": "스포츠 문화",
+      "es": "Cultura deportiva",
+      "fr": "Culture sportive"
+    },
+    "經典小吃": {
+      "en": "Classic Street Food",
+      "ja": "定番屋台グルメ",
+      "ko": "대표 길거리 음식",
+      "es": "Comida callejera clásica",
+      "fr": "Cuisine de rue emblématique"
+    },
+    "飲品文化": {
+      "en": "Drink Culture",
+      "ja": "飲み物文化",
+      "ko": "음료 문화",
+      "es": "Cultura de las bebidas",
+      "fr": "Culture des boissons"
+    },
+    "烘焙與甜點": {
+      "en": "Baking & Desserts",
+      "ja": "ベーカリーとスイーツ",
+      "ko": "베이킹과 디저트",
+      "es": "Repostería y postres",
+      "fr": "Pâtisserie et desserts"
+    },
+    "族群飲食": {
+      "en": "Ethnic Cuisines",
+      "ja": "エスニック料理",
+      "ko": "민족 음식",
+      "es": "Cocinas étnicas",
+      "fr": "Cuisines ethniques"
+    },
+    "飲食場景": {
+      "en": "Dining Scenes",
+      "ja": "食のシーン",
+      "ko": "외식 풍경",
+      "es": "Escenas gastronómicas",
+      "fr": "Scènes culinaires"
+    },
+    "食材與調味": {
+      "en": "Ingredients & Seasoning",
+      "ja": "食材と調味料",
+      "ko": "식재료와 양념",
+      "es": "Ingredientes y condimentos",
+      "fr": "Ingrédients et assaisonnements"
+    },
+    "精緻餐飲": {
+      "en": "Fine Dining",
+      "ja": "ファインダイニング",
+      "ko": "파인 다이닝",
+      "es": "Alta cocina",
+      "fr": "Gastronomie raffinée"
+    },
+    "主食與米麵": {
+      "en": "Rice & Noodle Staples",
+      "ja": "ご飯・麺の主食",
+      "ko": "쌀·면 주식",
+      "es": "Arroz y fideos",
+      "fr": "Riz et nouilles"
+    },
+    "文學": {
+      "en": "Literature",
+      "ja": "文学",
+      "ko": "문학",
+      "es": "Literatura",
+      "fr": "Littérature"
+    },
+    "當代藝術": {
+      "en": "Contemporary Art",
+      "ja": "現代美術",
+      "ko": "현대 미술",
+      "es": "Arte contemporáneo",
+      "fr": "Art contemporain"
+    },
+    "視覺藝術": {
+      "en": "Visual Arts",
+      "ja": "視覚芸術",
+      "ko": "시각예술",
+      "es": "Artes visuales",
+      "fr": "Arts visuels"
+    },
+    "策展與教育": {
+      "en": "Curation & Education",
+      "ja": "キュレーションと教育",
+      "ko": "큐레이션과 교육",
+      "es": "Curaduría y educación",
+      "fr": "Commissariat et éducation"
+    },
+    "電影": {
+      "en": "Film",
+      "ja": "映画",
+      "ko": "영화",
+      "es": "Cine",
+      "fr": "Cinéma"
+    },
+    "表演藝術": {
+      "en": "Performing Arts",
+      "ja": "舞台芸術",
+      "ko": "공연 예술",
+      "es": "Artes escénicas",
+      "fr": "Arts de la scène"
+    },
+    "生成藝術": {
+      "en": "Generative Art",
+      "ja": "ジェネラティブアート",
+      "ko": "제너레이티브 아트",
+      "es": "Arte generativo",
+      "fr": "Art génératif"
+    },
+    "聲音與新媒體藝術": {
+      "en": "Sound & New Media Art",
+      "ja": "サウンド・ニューメディアアート",
+      "ko": "사운드 및 뉴미디어 아트",
+      "es": "Arte sonoro y nuevos medios",
+      "fr": "Art sonore et nouveaux médias"
+    },
+    "紀錄片": {
+      "en": "Documentary",
+      "ja": "ドキュメンタリー",
+      "ko": "다큐멘터리",
+      "es": "Documental",
+      "fr": "Documentaire"
+    },
+    "獨立與搖滾": {
+      "en": "Indie & Rock",
+      "ja": "インディーとロック",
+      "ko": "인디와 록",
+      "es": "Indie y rock",
+      "fr": "Indie et rock"
+    },
+    "傳統音樂": {
+      "en": "Traditional Music",
+      "ja": "伝統音楽",
+      "ko": "전통 음악",
+      "es": "Música tradicional",
+      "fr": "Musique traditionnelle"
+    },
+    "流行音樂": {
+      "en": "Pop Music",
+      "ja": "ポップミュージック",
+      "ko": "대중음악",
+      "es": "Música pop",
+      "fr": "Musique pop"
+    },
+    "音樂產業": {
+      "en": "Music Industry",
+      "ja": "音楽産業",
+      "ko": "음악 산업",
+      "es": "Industria musical",
+      "fr": "Industrie musicale"
+    },
+    "社群與數位文化": {
+      "en": "Community & Digital Culture",
+      "ja": "コミュニティとデジタル文化",
+      "ko": "커뮤니티와 디지털 문화",
+      "es": "Comunidad y cultura digital",
+      "fr": "Communauté et culture numérique"
+    },
+    "人工智慧": {
+      "en": "Artificial Intelligence",
+      "ja": "人工知能",
+      "ko": "인공지능",
+      "es": "Inteligencia artificial",
+      "fr": "Intelligence artificielle"
+    },
+    "半導體與硬體": {
+      "en": "Semiconductors & Hardware",
+      "ja": "半導体とハードウェア",
+      "ko": "반도체와 하드웨어",
+      "es": "Semiconductores y hardware",
+      "fr": "Semi-conducteurs et matériel"
+    },
+    "數位與網路": {
+      "en": "Digital & Internet",
+      "ja": "デジタルとインターネット",
+      "ko": "디지털과 인터넷",
+      "es": "Digital e internet",
+      "fr": "Numérique et internet"
+    },
+    "開源社群": {
+      "en": "Open Source Community",
+      "ja": "オープンソースコミュニティ",
+      "ko": "오픈소스 커뮤니티",
+      "es": "Comunidad de código abierto",
+      "fr": "Communauté open source"
+    },
+    "公民科技": {
+      "en": "Civic Tech",
+      "ja": "シビックテック",
+      "ko": "시빅테크",
+      "es": "Tecnología cívica",
+      "fr": "Technologie civique"
+    },
+    "太空與前沿": {
+      "en": "Space & Frontier Tech",
+      "ja": "宇宙と最先端技術",
+      "ko": "우주와 첨단 기술",
+      "es": "Espacio y tecnología punta",
+      "fr": "Espace et technologies de pointe"
+    },
+    "科技園區": {
+      "en": "Tech Parks",
+      "ja": "テクノパーク",
+      "ko": "테크노파크",
+      "es": "Parques tecnológicos",
+      "fr": "Parcs technologiques"
+    },
+    "野生動物": {
+      "en": "Wildlife",
+      "ja": "野生動物",
+      "ko": "야생동물",
+      "es": "Vida silvestre",
+      "fr": "Faune sauvage"
+    },
+    "國家公園與步道": {
+      "en": "National Parks & Trails",
+      "ja": "国立公園と登山道",
+      "ko": "국립공원과 등산로",
+      "es": "Parques nacionales y senderos",
+      "fr": "Parcs nationaux et sentiers"
+    },
+    "保育與環境": {
+      "en": "Conservation & Environment",
+      "ja": "保全と環境",
+      "ko": "보전과 환경",
+      "es": "Conservación y medio ambiente",
+      "fr": "Conservation et environnement"
+    },
+    "生態系統": {
+      "en": "Ecosystems",
+      "ja": "生態系",
+      "ko": "생태계",
+      "es": "Ecosistemas",
+      "fr": "Écosystèmes"
+    },
+    "原住民生態智慧": {
+      "en": "Indigenous Ecological Knowledge",
+      "ja": "原住民族の生態知",
+      "ko": "원주민 생태 지식",
+      "es": "Sabiduría ecológica indígena",
+      "fr": "Savoirs écologiques autochtones"
+    },
+    "博物學": {
+      "en": "Natural History",
+      "ja": "博物学",
+      "ko": "박물학",
+      "es": "Historia natural",
+      "fr": "Histoire naturelle"
+    },
+    "音樂與表演": {
+      "en": "Music & Performance",
+      "ja": "音楽とパフォーマンス",
+      "ko": "음악과 공연",
+      "es": "Música y artes escénicas",
+      "fr": "Musique et arts du spectacle"
+    },
+    "體育": {
+      "en": "Sports",
+      "ja": "スポーツ",
+      "ko": "스포츠",
+      "es": "Deportes",
+      "fr": "Sport"
+    },
+    "科技與企業": {
+      "en": "Tech & Business",
+      "ja": "テクノロジーと企業",
+      "ko": "기술과 기업",
+      "es": "Tecnología y negocios",
+      "fr": "Technologie et entreprises"
+    },
+    "政治與民主": {
+      "en": "Politics & Democracy",
+      "ja": "政治と民主主義",
+      "ko": "정치와 민주주의",
+      "es": "Política y democracia",
+      "fr": "Politique et démocratie"
+    },
+    "數位與媒體": {
+      "en": "Digital & Media",
+      "ja": "デジタルとメディア",
+      "ko": "디지털과 미디어",
+      "es": "Digital y medios",
+      "fr": "Numérique et médias"
+    },
+    "音樂": {
+      "en": "Music",
+      "ja": "音楽",
+      "ko": "음악",
+      "es": "Música",
+      "fr": "Musique"
+    },
+    "電影與戲劇": {
+      "en": "Film & Theater",
+      "ja": "映画と演劇",
+      "ko": "영화와 연극",
+      "es": "Cine y teatro",
+      "fr": "Cinéma et théâtre"
+    },
+    "歷史人物": {
+      "en": "Historical Figures",
+      "ja": "歴史上の人物",
+      "ko": "역사적 인물",
+      "es": "Figuras históricas",
+      "fr": "Personnages historiques"
+    },
+    "藝術與設計": {
+      "en": "Art & Design",
+      "ja": "アートとデザイン",
+      "ko": "예술과 디자인",
+      "es": "Arte y diseño",
+      "fr": "Art et design"
+    },
+    "流行人物": {
+      "en": "Popular Figures",
+      "ja": "話題の人物",
+      "ko": "화제의 인물",
+      "es": "Figuras populares",
+      "fr": "Personnalités populaires"
+    },
+    "教育與社會": {
+      "en": "Education & Society",
+      "ja": "教育と社会",
+      "ko": "교육과 사회",
+      "es": "Educación y sociedad",
+      "fr": "Éducation et société"
+    },
+    "政治人物": {
+      "en": "Political Figures",
+      "ja": "政治家",
+      "ko": "정치인",
+      "es": "Figuras políticas",
+      "fr": "Personnalités politiques"
+    },
+    "科學與學術": {
+      "en": "Science & Academia",
+      "ja": "科学と学術",
+      "ko": "과학과 학술",
+      "es": "Ciencia y academia",
+      "fr": "Sciences et monde académique"
+    },
+    "藝術與創作": {
+      "en": "Art & Creation",
+      "ja": "アートと創作",
+      "ko": "예술과 창작",
+      "es": "Arte y creación",
+      "fr": "Art et création"
+    },
+    "餐飲與職人": {
+      "en": "Food & Artisans",
+      "ja": "飲食と職人",
+      "ko": "음식과 장인",
+      "es": "Gastronomía y artesanos",
+      "fr": "Gastronomie et artisans"
+    },
+    "音樂人": {
+      "en": "Musicians",
+      "ja": "音楽家",
+      "ko": "음악가",
+      "es": "Músicos",
+      "fr": "Musiciens"
+    },
+    "社會與公益": {
+      "en": "Society & Public Good",
+      "ja": "社会と公益",
+      "ko": "사회와 공익",
+      "es": "Sociedad y bien público",
+      "fr": "Société et bien public"
+    },
+    "文學與詩人": {
+      "en": "Literature & Poets",
+      "ja": "文学と詩人",
+      "ko": "문학과 시인",
+      "es": "Literatura y poetas",
+      "fr": "Littérature et poètes"
+    },
+    "教育": {
+      "en": "Education",
+      "ja": "教育",
+      "ko": "교육",
+      "es": "Educación",
+      "fr": "Éducation"
+    },
+    "人權與平等": {
+      "en": "Human Rights & Equality",
+      "ja": "人権と平等",
+      "ko": "인권과 평등",
+      "es": "Derechos humanos e igualdad",
+      "fr": "Droits humains et égalité"
+    },
+    "國際關係": {
+      "en": "International Relations",
+      "ja": "国際関係",
+      "ko": "국제관계",
+      "es": "Relaciones internacionales",
+      "fr": "Relations internationales"
+    },
+    "民主與政治": {
+      "en": "Democracy & Politics",
+      "ja": "民主主義と政治",
+      "ko": "민주주의와 정치",
+      "es": "Democracia y política",
+      "fr": "Démocratie et politique"
+    },
+    "媒體與言論": {
+      "en": "Media & Free Speech",
+      "ja": "メディアと言論",
+      "ko": "미디어와 언론",
+      "es": "Medios y libertad de expresión",
+      "fr": "Médias et liberté d'expression"
+    },
+    "社區與日常": {
+      "en": "Community & Daily Life",
+      "ja": "コミュニティと日常",
+      "ko": "커뮤니티와 일상",
+      "es": "Comunidad y vida cotidiana",
+      "fr": "Communauté et quotidien"
+    },
+    "動物與倫理": {
+      "en": "Animals & Ethics",
+      "ja": "動物と倫理",
+      "ko": "동물과 윤리",
+      "es": "Animales y ética",
+      "fr": "Animaux et éthique"
+    },
+    "社會運動": {
+      "en": "Social Movements",
+      "ja": "社会運動",
+      "ko": "사회운동",
+      "es": "Movimientos sociales",
+      "fr": "Mouvements sociaux"
+    },
+    "人口與世代": {
+      "en": "Population & Generations",
+      "ja": "人口と世代",
+      "ko": "인구와 세대",
+      "es": "Población y generaciones",
+      "fr": "Population et générations"
+    },
+    "世代與社會": {
+      "en": "Generations & Society",
+      "ja": "世代と社会",
+      "ko": "세대와 사회",
+      "es": "Generaciones y sociedad",
+      "fr": "Générations et société"
+    },
+    "宗教與信仰": {
+      "en": "Religion & Faith",
+      "ja": "宗教と信仰",
+      "ko": "종교와 신앙",
+      "es": "Religión y fe",
+      "fr": "Religion et foi"
+    },
+    "社會韌性": {
+      "en": "Social Resilience",
+      "ja": "社会的レジリエンス",
+      "ko": "사회적 회복력",
+      "es": "Resiliencia social",
+      "fr": "Résilience sociale"
+    },
+    "媒體與新聞": {
+      "en": "Media & Journalism",
+      "ja": "メディアとジャーナリズム",
+      "ko": "미디어와 저널리즘",
+      "es": "Medios y periodismo",
+      "fr": "Médias et journalisme"
+    },
+    "企業列傳": {
+      "en": "Company Profiles",
+      "ja": "企業列伝",
+      "ko": "기업 열전",
+      "es": "Perfiles de empresas",
+      "fr": "Profils d'entreprises"
+    },
+    "經濟發展": {
+      "en": "Economic Development",
+      "ja": "経済発展",
+      "ko": "경제 발전",
+      "es": "Desarrollo económico",
+      "fr": "Développement économique"
+    },
+    "新創經濟": {
+      "en": "Startup Economy",
+      "ja": "スタートアップ経済",
+      "ko": "스타트업 경제",
+      "es": "Economía de startups",
+      "fr": "Économie des startups"
+    },
+    "農業經濟": {
+      "en": "Agricultural Economy",
+      "ja": "農業経済",
+      "ko": "농업 경제",
+      "es": "Economía agrícola",
+      "fr": "Économie agricole"
+    },
+    "交通與移動": {
+      "en": "Transportation & Mobility",
+      "ja": "交通とモビリティ",
+      "ko": "교통과 이동성",
+      "es": "Transporte y movilidad",
+      "fr": "Transport et mobilité"
+    },
+    "城市生活": {
+      "en": "Urban Life",
+      "ja": "都市生活",
+      "ko": "도시 생활",
+      "es": "Vida urbana",
+      "fr": "Vie urbaine"
+    },
+    "休閒與娛樂": {
+      "en": "Leisure & Entertainment",
+      "ja": "レジャーと娯楽",
+      "ko": "여가와 오락",
+      "es": "Ocio y entretenimiento",
+      "fr": "Loisirs et divertissement"
+    },
+    "醫療與健保": {
+      "en": "Healthcare & Insurance",
+      "ja": "医療と健康保険",
+      "ko": "의료와 건강보험",
+      "es": "Sanidad y seguro médico",
+      "fr": "Santé et assurance maladie"
+    },
+    "選舉制度": {
+      "en": "Electoral System",
+      "ja": "選挙制度",
+      "ko": "선거 제도",
+      "es": "Sistema electoral",
+      "fr": "Système électoral"
+    }
+  }
+}

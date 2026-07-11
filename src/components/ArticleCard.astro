@@ -22,12 +22,13 @@
  * CSS classes exposed for dynamic use:
  * - `.article-card`              — base card container
  * - `.article-card-body`         — content column
- * - `.article-card-title`        — h4 title
+ * - `.article-card-title`        — title heading, tag via `titleTag` prop (h3/h4，預設 h4)
  * - `.article-card-desc`         — p description
  * - `.article-card-meta`         — small meta line
  * - `.article-card-dot`          — category color dot (compact)
  * - `.article-card-pill`         — row variant category pill (icon + label)
- * - `.article-card-date`         — row variant right-aligned date
+ * - `.article-card-rowmeta`      — row variant right-aligned meta cluster (footnotes/readingTime/date)
+ * - `.article-card-date`         — row variant date (nested in `.article-card-rowmeta`)
  * - `.article-card-cta`          — "閱讀全文 →" link text
  * - `.article-card.is-premium`   — premium variant
  * - `.article-card.is-compact`   — compact variant (default)
@@ -65,6 +66,9 @@ export interface Props {
   imageLoading?: 'eager' | 'lazy';
   /** 卡片密度 */
   density?: 'premium' | 'compact' | 'row' | 'detailed';
+  /** 標題 heading tag — 預設 h4（既有頁面階層不變）；row 變體在 hub 列表頁用 h3
+   * 搭配頁面 h1（page）→ h2（subcategory group）→ h3（card title）階層 */
+  titleTag?: 'h3' | 'h4';
   /** detailed 變體縮圖擺左或右（左圖右文用 'left'）。預設 'right' 保留 /latest 既有版面 */
   imageSide?: 'left' | 'right';
   /** Click 行為：'new-tab' 預設另開分頁 / 'same-tab' 同分頁 */
@@ -89,6 +93,7 @@ const {
   coverImage,
   imageLoading = 'lazy',
   density = 'compact',
+  titleTag = 'h4',
   imageSide = 'right',
   openIn = 'new-tab',
   extraClass = '',
@@ -98,6 +103,7 @@ const {
 const target = openIn === 'new-tab' ? '_blank' : '_self';
 const rel = openIn === 'new-tab' ? 'noopener noreferrer' : undefined;
 const Tag = href ? 'a' : 'div';
+const TitleTag = titleTag;
 const densityClass = `is-${density}`;
 // detailed 變體無圖時的「drop cap」placeholder：標題首字（Unicode code-point-safe,
 // 防 CJK/emoji surrogate pair 被切一半）大字低透明度立在分類色淡底上，取代舊版
@@ -195,7 +201,7 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
       )
     }
 
-    <h4 class="article-card-title">{title}</h4>
+    <TitleTag class="article-card-title">{title}</TitleTag>
 
     {description && <p class="article-card-desc">{description}</p>}
 
@@ -287,7 +293,49 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
     }
   </div>
 
-  {density === 'row' && date && <span class="article-card-date">{date}</span>}
+  {
+    density === 'row' && (footnotes || readingTime || date) && (
+      <span class="article-card-rowmeta">
+        {!!footnotes && (
+          <span class="article-card-stat" title="引用">
+            <svg
+              width="13"
+              height="13"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+              <polyline points="14 2 14 8 20 8" />
+            </svg>
+            {footnotes}
+          </span>
+        )}
+        {!!readingTime && (
+          <span class="article-card-stat">
+            <svg
+              width="13"
+              height="13"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <circle cx="12" cy="12" r="10" />
+              <polyline points="12 6 12 12 16 14" />
+            </svg>
+            {readingTime}
+          </span>
+        )}
+        {date && <span class="article-card-date">{date}</span>}
+      </span>
+    )
+  }
 
   {
     density === 'detailed' &&
@@ -562,6 +610,36 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
     color: #94a3b8;
     font-variant-numeric: tabular-nums;
   }
+  /* Row meta cluster (2026-07-10 hub-template overhaul) — wraps the
+   * optional footnotes/readingTime stats + the pre-existing date span so
+   * hub-list rows can show citation/reading-time signal without touching
+   * the base .article-card-date rule above. Occupies the exact flex slot
+   * .article-card-date used to sit in directly: when a consumer only
+   * passes `date` (every current row consumer), .article-card-rowmeta
+   * collapses to that single child's own margin box, so cross-axis
+   * alignment renders pixel-identical to before wrapping. New tokens
+   * here (--color-ink-soft) intentionally deviate from this file's
+   * historical hex + dark-polish.css patch convention — see ArticleCard
+   * doc comment / PR notes for rationale. */
+  .article-card.is-row .article-card-rowmeta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+  .article-card.is-row .article-card-rowmeta .article-card-stat {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    margin-top: 0.2rem;
+    font-size: 0.76rem;
+    color: var(--color-ink-soft, #94a3b8);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+  .article-card.is-row .article-card-rowmeta .article-card-stat svg {
+    opacity: 0.8;
+  }
 
   /* === Detailed variant — 時序列 (/latest) 卡片：框 + pill + serif 標題 + 完整描述 + tags + 引用/閱讀 footer + 右側 16:10 縮圖 ===
    * 縮圖固定比例（200×125 / 手機 96×96）貼齊頂部，不隨卡片高度直伸 —
@@ -732,5 +810,15 @@ const classes = ['article-card', densityClass, imgSideClass, extraClass]
     font-weight: 700;
     flex-shrink: 0;
     margin-top: 2px;
+  }
+
+  /* === category-hub.template.astro 客製化延伸：hub-row-featured ===
+   * Subtle left accent for featured articles in the hub list rows —
+   * 2px categoryColor border, with matching padding-left reduction
+   * (row density's base padding is 12px) so the text column doesn't
+   * visually shift right relative to non-featured rows. */
+  .article-card.hub-row-featured {
+    border-left: 2px solid var(--categoryColor, #2d5016);
+    padding-left: 10px;
   }
 </style>

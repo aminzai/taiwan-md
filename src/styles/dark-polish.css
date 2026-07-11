@@ -474,26 +474,6 @@
   color: var(--color-ink-soft);
 }
 
-/* Article list rows — title #1e293b → ink, desc/time → ink-soft.
- * #16a34a (citations green) reads fine on dark, leave intact. */
-:root[data-theme='dark'] main.category-page .row-title {
-  color: var(--color-ink);
-}
-:root[data-theme='dark'] main.category-page .row-desc,
-:root[data-theme='dark'] main.category-page .row-time,
-:root[data-theme='dark'] main.category-page .no-results {
-  color: var(--color-ink-soft);
-}
-:root[data-theme='dark'] main.category-page .article-row {
-  border-bottom-color: var(--color-border);
-}
-:root[data-theme='dark'] main.category-page .article-row:hover {
-  background: color-mix(in srgb, var(--color-accent) 8%, transparent);
-}
-:root[data-theme='dark'] main.category-page .article-row.is-featured {
-  background: color-mix(in srgb, var(--color-accent) 4%, transparent);
-}
-
 /* Subcategory side-nav active state — uses var(--categoryColor) so
  * the rgba(45,80,22,…) hardcoded fallback bleeds through on dark.
  * Re-paint with a token-mix so the active chip reads as accent
@@ -502,14 +482,38 @@
   background-color: color-mix(in srgb, var(--color-accent) 12%, transparent);
 }
 
-/* Filter input — pale border + slate placeholder vanish on dark */
-:root[data-theme='dark'] main.category-page input#articleFilter {
-  background: var(--color-surface);
-  border-color: var(--color-border);
-  color: var(--color-ink);
-}
+/* Filter input — background/border/text used to be repainted here, but
+ * that trio is a byte-identical duplicate of the token-based
+ * `.hub-search input` rule already in category-hub.template.astro's own
+ * scoped <style> (var(--color-surface)/var(--color-border)/var(--color-ink)),
+ * which flips correctly in dark with zero patching. Removed 2026-07-11.
+ * ::placeholder has no template-side rule, so it still needs one here. */
 :root[data-theme='dark'] main.category-page input#articleFilter::placeholder {
   color: var(--color-ink-soft);
+}
+
+/* Sort pills (hub-toolbar). .sort-btn's base state already reads
+ * bg/border/text from var(--color-surface)/var(--color-border)/
+ * var(--color-ink-soft) in the template's own scoped <style>, so it
+ * flips correctly with no patch needed. .sort-btn.active does not: it
+ * paints background from var(--categoryColorLight) and text from
+ * var(--categoryColor) — both per-category hex (e.g. history #92400e)
+ * that tokens.css deliberately keeps light-only (--cat-* convergence
+ * pending), so the active pill renders dark brown text on a barely-there
+ * tint on a near-black page. Re-paint with an ink-based mix instead of
+ * the raw category hex, keeping the category tint as an accent only. */
+:root[data-theme='dark'] main.category-page .sort-btn.active {
+  background: color-mix(
+    in srgb,
+    var(--categoryColor, #2d5016) 28%,
+    transparent
+  );
+  color: var(--color-ink);
+  border-color: color-mix(
+    in srgb,
+    var(--categoryColor, #2d5016) 55%,
+    var(--color-ink)
+  );
 }
 
 /* ══════════════════════════════════════════════════════════════════
@@ -800,55 +804,72 @@
  * touching the component (used site-wide, including light-only pages).
  * ══════════════════════════════════════════════════════════════════ */
 :root[data-theme='dark'] .explore-page .article-card,
-:root[data-theme='dark'] .latest-page .article-card {
+:root[data-theme='dark'] .latest-page .article-card,
+:root[data-theme='dark'] .category-page .article-card {
   background: var(--color-surface);
   border-color: var(--color-border);
 }
 :root[data-theme='dark'] .explore-page .article-card:hover,
-:root[data-theme='dark'] .latest-page .article-card:hover {
+:root[data-theme='dark'] .latest-page .article-card:hover,
+:root[data-theme='dark'] .category-page .article-card:hover {
   background: color-mix(in srgb, var(--color-accent) 8%, transparent);
   border-color: color-mix(in srgb, var(--color-accent) 45%, transparent);
 }
 /* is-premium / is-row / is-detailed hover states also repaint bg:white. */
 :root[data-theme='dark'] .explore-page .article-card.is-premium:hover,
-:root[data-theme='dark'] .latest-page .article-card.is-premium:hover {
+:root[data-theme='dark'] .latest-page .article-card.is-premium:hover,
+:root[data-theme='dark'] .category-page .article-card.is-premium:hover {
   background: var(--color-surface);
 }
 :root[data-theme='dark'] .explore-page .article-card.is-row,
-:root[data-theme='dark'] .latest-page .article-card.is-row {
+:root[data-theme='dark'] .latest-page .article-card.is-row,
+:root[data-theme='dark'] .category-page .article-card.is-row {
   background: transparent;
 }
 :root[data-theme='dark'] .explore-page .article-card.is-row:hover,
-:root[data-theme='dark'] .latest-page .article-card.is-row:hover {
+:root[data-theme='dark'] .latest-page .article-card.is-row:hover,
+:root[data-theme='dark'] .category-page .article-card.is-row:hover {
   background: color-mix(in srgb, var(--color-accent) 8%, transparent);
   border-color: var(--color-border);
 }
 /* Titles (#14532d / #1a3c34) → ink; hover greens (#006d77 / #065f46)
  * stay as accents (already legible on dark). */
 :root[data-theme='dark'] .explore-page .article-card-title,
-:root[data-theme='dark'] .latest-page .article-card-title {
+:root[data-theme='dark'] .latest-page .article-card-title,
+:root[data-theme='dark'] .category-page .article-card-title {
   color: var(--color-ink);
 }
 :root[data-theme='dark'] .explore-page .article-card:hover .article-card-title,
-:root[data-theme='dark'] .latest-page .article-card:hover .article-card-title {
+:root[data-theme='dark'] .latest-page .article-card:hover .article-card-title,
+:root[data-theme='dark']
+  .category-page
+  .article-card:hover
+  .article-card-title {
   color: var(--color-accent);
 }
 /* Descriptions (#6b7280 / #7a8b7e / #64748b / #94a3b8), meta, dates,
  * tags, stats → soft ink. */
 :root[data-theme='dark'] .explore-page .article-card-desc,
 :root[data-theme='dark'] .latest-page .article-card-desc,
+:root[data-theme='dark'] .category-page .article-card-desc,
 :root[data-theme='dark'] .explore-page .article-card-meta,
 :root[data-theme='dark'] .latest-page .article-card-meta,
+:root[data-theme='dark'] .category-page .article-card-meta,
 :root[data-theme='dark'] .explore-page .article-card-date,
 :root[data-theme='dark'] .latest-page .article-card-date,
+:root[data-theme='dark'] .category-page .article-card-date,
 :root[data-theme='dark'] .explore-page .article-card-updated,
 :root[data-theme='dark'] .latest-page .article-card-updated,
+:root[data-theme='dark'] .category-page .article-card-updated,
 :root[data-theme='dark'] .explore-page .article-card-premdate,
 :root[data-theme='dark'] .latest-page .article-card-premdate,
+:root[data-theme='dark'] .category-page .article-card-premdate,
 :root[data-theme='dark'] .explore-page .article-card-tag,
 :root[data-theme='dark'] .latest-page .article-card-tag,
+:root[data-theme='dark'] .category-page .article-card-tag,
 :root[data-theme='dark'] .explore-page .article-card-stat,
-:root[data-theme='dark'] .latest-page .article-card-stat {
+:root[data-theme='dark'] .latest-page .article-card-stat,
+:root[data-theme='dark'] .category-page .article-card-stat {
   color: var(--color-ink-soft);
 }
 /* Thumb placeholder bg (#f8fafc / #e8efec) + foot divider (#f1f5f9). */
@@ -861,11 +882,19 @@
   .article-card.is-detailed
   .article-card-thumbwrap,
 :root[data-theme='dark']
+  .category-page
+  .article-card.is-detailed
+  .article-card-thumbwrap,
+:root[data-theme='dark']
   .explore-page
   .article-card.is-premium
   .article-card-hero,
 :root[data-theme='dark']
   .latest-page
+  .article-card.is-premium
+  .article-card-hero,
+:root[data-theme='dark']
+  .category-page
   .article-card.is-premium
   .article-card-hero {
   background-color: color-mix(in srgb, var(--color-ink) 8%, transparent);
@@ -876,6 +905,10 @@
   .article-card-foot,
 :root[data-theme='dark']
   .latest-page
+  .article-card.is-detailed
+  .article-card-foot,
+:root[data-theme='dark']
+  .category-page
   .article-card.is-detailed
   .article-card-foot {
   border-top-color: var(--color-border);
