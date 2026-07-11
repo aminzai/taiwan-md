@@ -318,3 +318,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-11 | 231022-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 15.6% vc=5 首度跌破 16%；免疫 60 tick #3；vitals 847 & contributors 66（ellenlee 入列）；`eb0a67d7e` | AI crawler 稀釋 404 分母；儀器連三 session 全綠 | [→](memory/2026-07-11-231022-twmd-data-refresh-pm.md) |
 | 2026-07-12 | 005133-twmd-babel-nightly | 4-tier cascade 全滅（雲端四支＋fleet＋ollama 壞 frontmatter）；Tier 0b backfill 25 篇 `b590be002` | 義務是跑到 cascade 真的死光；備用工具災難情境變主力 | [→](memory/2026-07-12-005133-twmd-babel-nightly.md) |
 | 2026-07-12 | 011057-twmd-news-lens-weekly | W28 首份週報 `reports/news-lens/2026-07-12-w28.md`；出口 disabled 走 v2.6 分支 propose 0；三源掃 5 條熱點 | 上游 fire 產出物只落 report 不進 INBOX；魏哲家 = ARTICLE gap | [→](memory/2026-07-12-011057-twmd-news-lens-weekly.md) |
+| 2026-07-12 | 020522-twmd-weekly-report-sun | v4.1 首跑 — checkup 一鍵七節 + 桶 1 零項 + 六條進 roadmap draft + 24k 親手週報 hard=0 / Resend 200 | 儀器化省認知稅、寫作變解讀；桶 1 零項是健康 exit | [→](memory/2026-07-12-020522-twmd-weekly-report-sun.md) |
