@@ -74,6 +74,9 @@ At its core, what Chthonic has long done is not merely “metal plus Taiwanese s
 
 Social concern grows out of that musical work. Once the victims, ancestors, and silenced people have voices onstage, the next question follows: can those voices be heard in society?
 
+![Freddy Lim holds a microphone and raises a Tibetan flag onstage in front of a large festival stage structure.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg)
+_In 2012, Lim raised a Tibetan flag onstage. The image places Freddy’s frontman identity, human-rights concern, and Taiwan’s international position in the same live setting. Photo: Hyw83516, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))._
+
 ## Megaport Festival: Turning Sound Into a Field
 
 If Chthonic is where Lim sang history out loud, Megaport Festival is where he turned music into a public field.
@@ -112,9 +115,6 @@ His political work largely extended several lines already present in his music p
 
 That continuity had appeared before he entered politics. During the 2007 Ozzfest tour, Chthonic performed 20 shows in the United States and spoke in English to audiences about Taiwan being obstructed by China and unable to participate normally in international organizations. “UNlimited Taiwan” brought the demand for Taiwan’s international participation directly into a metal-tour setting. The international space Lim later discussed in parliament had already been rehearsed onstage.[^18]
 
-![Freddy Lim holds a microphone and raises a Tibetan flag onstage in front of a large festival stage structure.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg)
-_In 2012, Lim raised a Tibetan flag onstage. The image places Freddy’s frontman identity, human-rights concern, and Taiwan’s international position in the same live setting. Photo: Hyw83516, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))._
-
 ![During the 2015 legislative election, Freddy Lim wears a yellow campaign vest and hands a leaflet to a voter on the street.](https://upload.wikimedia.org/wikipedia/commons/a/a1/%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F%E7%AB%8B%E5%A7%94%E5%80%99%E9%81%B8%E4%BA%BA%E6%9E%97%E6%98%B6%E4%BD%90_03.JPG)
 _In 2015, Lim campaigned as the New Power Party legislative candidate for Taipei’s Zhongzheng and Wanhua district. After moving from the stage into institutional politics, he also had to enter this public site of streets, districts, and local mobilization. Photo: Congress Musou, [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=48398521) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))._
 
@@ -151,9 +151,6 @@ If politics was his adventure of bringing sound into institutions, Chthonic is t
 
 Parliament gave him another scale for understanding reality. Music let him return to a kind of publicness that politics can never fully replace.
 
-![At Wacken Open Air in 2012, Freddy Lim wears stage face paint and holds a microphone in front of stage lights and raised audience hands.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/12-08_Wacken_Chthonic_05.jpg/1280px-12-08_Wacken_Chthonic_05.jpg)
-_In 2012, Lim performed with Chthonic at Germany’s Wacken Open Air. Face paint, screaming, bodily movement, and audience gestures put Freddy’s frontman persona in the foreground. Photo: Achim Raschka, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_05.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))._
-
 ## Reordering the Roles
 
 After leaving office, Lim did not simply “exit politics” or “go back to singing.” His roles were reordered: institutional politics moved backward, while music, international advocacy, diplomacy, and public speech each kept a place. Chthonic’s works still allow people to enter the shadows of Taiwanese history; in 2023, “Pattonkan” brought White Terror victim Uyongu Yatauyungana (Kao Yi-sheng) and family memory back into song, showing that Chthonic around Lim’s departure from parliament was not only defined by that recent _Endless Aeons_ release cycle. Megaport and festival culture still prove that sound can gather into a field; the parliamentary experience reminds him that when ideals enter institutions, institutions will test them.[^19]
@@ -178,7 +175,6 @@ The Sunflower Movement, the New Power Party, and Taiwan’s democratic transitio
 
 - [Freddy Lim portrait, 2012](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg) — Photo: Hyw83516, Wikimedia Commons, CC BY-SA 3.0.
 - [New Power Party legislative candidate Freddy Lim 03](https://commons.wikimedia.org/wiki/File:%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F%E7%AB%8B%E5%A7%94%E5%80%99%E9%81%B8%E4%BA%BA%E6%9E%97%E6%98%B6%E4%BD%90_03.JPG) — Photo: Congress Musou, Wikimedia Commons, CC BY-SA 4.0.
-- [12-08 Wacken Chthonic 05](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_05.jpg) — Photo: Achim Raschka, Wikimedia Commons, CC BY-SA 4.0.
 - [Chthonic and Chitose Hajime - Defenders of Bú-Tik Palace acoustic](https://www.youtube.com/watch?v=kta4ZAwI6rY) — Official Chthonic YouTube video used to show Lim’s voice and acoustic interpretation as vocalist.
 
 ## Notes
@@ -228,7 +224,6 @@ The Sunflower Movement, the New Power Party, and Taiwan’s democratic transitio
 - [CHTHONIC official website](https://www.chthonic.tw/)
 - [Freddy Lim, founder of ChthoniC](https://commons.wikimedia.org/wiki/File:Freddy_Lim,_founder_of_ChthoniC.jpg), Photo: Hyw83516, Wikimedia Commons, CC BY-SA 3.0.
 - [New Power Party legislative candidate Freddy Lim 03](https://commons.wikimedia.org/wiki/File:%E6%99%82%E4%BB%A3%E5%8A%9B%E9%87%8F%E7%AB%8B%E5%A7%94%E5%80%99%E9%81%B8%E4%BA%BA%E6%9E%97%E6%98%B6%E4%BD%90_03.JPG), Photo: Congress Musou, Wikimedia Commons, CC BY-SA 4.0.
-- [12-08 Wacken Chthonic 05](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_05.jpg), Photo: Achim Raschka, Wikimedia Commons, CC BY-SA 4.0.
 - [Chthonic and Chitose Hajime - Defenders of Bú-Tik Palace acoustic](https://www.youtube.com/watch?v=kta4ZAwI6rY), official Chthonic YouTube video.
 - [Megaport Festival — Wikipedia](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1)
 - [Chthonic (band) — Wikipedia](https://en.wikipedia.org/wiki/Chthonic_%28band%29)
