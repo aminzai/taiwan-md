@@ -3,7 +3,15 @@ title: 'Megaport Festival: The Taiwanese Music Festival That Grew Out of Kaohsiu
 description: 'Megaport Festival is a major Taiwanese outdoor music festival founded beside Kaohsiung Harbor in 2006. Growing from the Formoz Festival team, Chthonic members, and TRA Music’s curatorial experience, it brings southern Taiwanese bands, Taiwanese Hokkien live stages, international lineups, NGO issue villages, and harbor-city landscapes into one field, making Kaohsiung’s waterfront a key site where Taiwan’s live-band culture, city identity, and public issues meet.'
 date: 2026-07-10
 category: 'Music'
-tags: ['Megaport Festival', 'music festival', 'Kaohsiung', 'indie music', 'Taiwanese Hokkien', 'Chthonic']
+tags:
+  [
+    'Megaport Festival',
+    'music festival',
+    'Kaohsiung',
+    'indie music',
+    'Taiwanese Hokkien',
+    'Chthonic',
+  ]
 subcategory: 'Music Industry'
 author: 'Taiwan.md Translation Team'
 featured: false
@@ -38,7 +46,7 @@ _The Southern Overlord stage at Megaport Festival in 2025. Photo: Xi.you 1010.20
 
 In 2006, Kaohsiung’s Pier-2 area had only recently begun transforming from harbor warehouses into an arts district. The MRT and light rail had not yet connected the waterfront into the city’s everyday life.
 
-Megaport began that autumn. Looking back at the first edition, the official HISTORY page notes that there were only three stages: “Southern Overlord” (南霸天), “Sea Dragon King” (海龍王), and “Wind Surge” (風湧). The lineup included Sugar Plum Ferry, Cheer Chen, Jeannie Hsieh, Fire EX., Peppermint, Tizzy Bac, and Japan’s envy and Yura Yura Teikoku. That program placed Taiwanese indie bands, Japanese underground sound, Taiwanese Hokkien pop memory, and Kaohsiung Harbor into the same weekend.[^1]
+Megaport began that autumn, beside Piers 11 and 12 of Kaohsiung Harbor. Looking back at the first edition, the official HISTORY page notes that there were only three stages: “Southern Overlord” (南霸天), “Sea Dragon King” (海龍王), and “Wind Surge” (風湧). The lineup included Sugar Plum Ferry, Cheer Chen, Jeannie Hsieh, Fire EX., Peppermint, Tizzy Bac, and Japan’s envy and Yura Yura Teikoku. That program placed Taiwanese indie bands, Japanese underground sound, Taiwanese Hokkien pop memory, and Kaohsiung Harbor into the same weekend.[^1]
 
 ## The South Is Not Decoration
 

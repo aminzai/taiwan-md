@@ -3,7 +3,15 @@ title: 'Chthonic: The Band That Sang Taiwanese History Into Black Metal'
 description: 'Chthonic is a Taiwanese heavy metal band founded in Taipei in 1995. Centered on black metal, erhu, Taiwanese Hokkien, mythology, ghost narratives, and historical trauma, it brought the Lady of Linshui, the Wushe Incident, the 228 Incident, the Takasago Volunteers, White Terror memory, and Taiwan’s sovereignty issues onto the international metal stage.'
 date: 2026-07-10
 category: 'Music'
-tags: ['Chthonic', 'heavy metal', 'black metal', 'Taiwanese Hokkien', 'Taiwanese history', 'Freddy Lim']
+tags:
+  [
+    'Chthonic',
+    'heavy metal',
+    'black metal',
+    'Taiwanese Hokkien',
+    'Taiwanese history',
+    'Freddy Lim',
+  ]
 subcategory: 'Heavy Metal / Taiwanese History'
 author: 'Taiwan.md Translation Team'
 featured: false
@@ -60,7 +68,7 @@ After _Takasago Army_, Chthonic’s writing process moved further. A Metalship i
   <iframe src="https://www.youtube.com/embed/c3t-0MIy-fc" title="CHTHONIC - TAKAO Official Video" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Chthonic’s official video for “Takao.” The song belongs to the _Takasago Army_ period and shows how Taiwanese Hokkien, war memory, and metal arrangement can share one stage language._
+_Chthonic’s official video for “Takao.” The song belongs to the \_Takasago Army_ period and shows how Taiwanese Hokkien, war memory, and metal arrangement can share one stage language.\_
 
 ## The Stage Is Part of the Narrative
 
@@ -130,7 +138,7 @@ _Freddy Lim in 2012. Freddy is Chthonic’s most visible foreground figure, but 
 
 After Lim entered parliament, Chthonic’s activity slowed, but the band did not disappear.
 
-In 2019, Chthonic held the “Taiwan Victory” concert on Ketagalan Boulevard. In 2020, it collaborated with Trivium vocalist Matt Heafy on a new version of “Supreme Pain for the Tyrant.” In 2021, it left live recordings from Megaport. Around the 2023 228 memorial period, it released “Pattonkan,” bringing White Terror victim Uyongu Yatauyungana (Kao Yi-sheng) and family memory back into song. CNA reported that the song’s creative inspiration came from relatives of political victims, and later reports noted that it was recommended by the Grammy Global Spin program.[^11][^12]
+In 2019, Chthonic held the “Taiwan Victory” concert on Ketagalan Boulevard. In 2020, it collaborated with Trivium vocalist Matt Heafy on a new version of “Supreme Pain for the Tyrant.” In 2021, it left live recordings from Megaport. Around the 2023 228 memorial period, it released “Pattonkan,” bringing White Terror victim Uyongu Yatauyungana (Kao Yi-sheng) and family memory back into song. CNA reported that the song’s creative inspiration came from relatives of political victims;[^11][^12] the following year it was featured on the Grammy _Global Spin_ program, becoming the first Taiwanese act selected for the series.[^16]
 
 “Pattonkan” shows that Chthonic’s later work still handles the same core. Victims have letters, children, songs, and tribal memory. When the band writes from Wushe, 228, and the Takasago Volunteers toward Kao Yi-sheng and Paicu Yatauyungana, Taiwanese history stops being an order of events and becomes an echo passed among families.
 
@@ -177,7 +185,7 @@ This listening path is more like a sound map of an underground view of history. 
 
 [^10]: [Best Band Award, Golden Melody Awards](https://zh.wikipedia.org/wiki/%E6%9C%80%E4%BD%B3%E6%A8%82%E5%9C%98%E7%8D%8E_%28%E9%87%91%E6%9B%B2%E7%8D%8E%29) — Golden Melody Awards Best Band entry used as an index for _Battlefields of Asura_ winning Best Band at the 30th Golden Melody Awards and for the award-context wording.
 
-[^11]: [Chthonic’s new song “Pattonkan” drew inspiration from relatives of political victims](https://www.cna.com.tw/news/amov/202303010226.aspx) — A 2023 CNA report on “Pattonkan,” its creative inspiration, and the White Terror victim-family context behind the song.
+[^11]: [Chthonic’s new song “Pattonkan” drew inspiration from relatives of political victims](https://www.cna.com.tw/news/amov/202303010342.aspx) — A 2023 CNA report on “Pattonkan,” its creative inspiration, and the White Terror victim-family context behind the song.
 
 [^12]: [Uyongu Yatauyungana / Kao Yi-sheng](https://zh.wikipedia.org/wiki/%E9%AB%98%E4%B8%80%E7%94%9F) — Kao Yi-sheng entry used as a source index for “Pattonkan” commemorating Kao Yi-sheng and Paicu Yatauyungana, its echo of family letters, and related CNA and New Messenger references.
 
@@ -186,3 +194,5 @@ This listening path is more like a sound map of an underground view of history. 
 [^14]: [「大港開唱」前世今生（上）：掌舵手的音樂祭海派人生](https://www.verse.com.tw/article/megaport-festival-01) — A 2022 VERSE feature interviewing Doris Yeh and Dani Wang about Megaport’s 2006 origins, southern festival identity, the team transition after Freddy Lim’s departure, and the festival’s NGO Issue Village and freedom-justice values.
 
 [^15]: [「大港開唱」前世今生（下）：豈止16年，而是台灣音樂祭歷史的文化總和](https://www.verse.com.tw/article/megaport-festival-02) — The second 2022 VERSE Megaport feature, used for Formoz Festival, Freddy and Doris’s early curatorial work, international festival experience, and the evolution of Taiwanese live-band and festival culture.
+
+[^16]: [Chthonic’s “Pattonkan” recommended by the Grammys’ Global Spin program](https://www.cna.com.tw/news/amov/202305030257.aspx) — A May 2023 CNA report on “Pattonkan” being featured on the Grammys’ _Global Spin_ program, with Chthonic the first Taiwanese act on the series.
