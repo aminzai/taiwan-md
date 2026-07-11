@@ -111,6 +111,9 @@ Doris Yeh has long been bandleader, bassist, and a core force in the band’s op
 
 From _Takasago Army_ to _Bú-Tik_, Jesse’s metal arrangements, Dani’s drums, CJ’s keyboards, and Doris’s low end and band management turned Chthonic’s narrative ambitions into a sound that could tour, be recorded, and be understood by overseas media. Lim supplied vocals, concept, and public language; the band’s long-term life comes from the whole team. Chthonic is an independent creative collective in Taiwanese music history, not merely the prequel to a politician.
 
+![Chthonic performing at the Metropolis in Montreal in 2007, with vocalist, bass, guitar, drums, and another player visible onstage while the audience raises hands in front.](https://upload.wikimedia.org/wikipedia/commons/0/0a/Chthonic.jpg)
+_Chthonic performing at the Metropolis in Montreal in 2007. Multiple stage positions appear in the same frame, making the band’s full live arrangement clearer than a single-member close-up. Photo: Kozikkris, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chthonic.jpg) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))._
+
 ## From Band to Field: Megaport Festival
 
 Chthonic’s influence on Taiwanese music did not stay only in albums and tours.
@@ -159,6 +162,7 @@ This listening path is more like a sound map of an underground view of history. 
 ## 圖片來源
 
 - [12-08 Wacken Chthonic 02](https://commons.wikimedia.org/wiki/File:12-08_Wacken_Chthonic_02.jpg) — Photo by Achim Raschka at Wacken Open Air in Germany in 2012, hosted on Wikimedia Commons under CC BY-SA 4.0.
+- [Chthonic](https://commons.wikimedia.org/wiki/File:Chthonic.jpg) — Photo by Kozikkris at the Metropolis in Montreal in 2007, hosted on Wikimedia Commons under CC BY 3.0.
 - [Chthonic megaport 2016](https://commons.wikimedia.org/wiki/File:Chthonic_megaport_2016.jpg) — Photo by Hisakon at Megaport Festival in 2016, hosted on Wikimedia Commons under CC BY-SA 3.0.
 - [CHTHONIC - TAKAO - Official Video](https://www.youtube.com/watch?v=c3t-0MIy-fc) — Official Chthonic YouTube video used to show the sonic and visual language of the _Takasago Army_ period.
 - [Chthonic - Quell the Souls in Sing Ling Temple Official Video](https://www.youtube.com/watch?v=Ynb9vFd0iNg) — Official Chthonic YouTube video used to show the Sing Ling Temple setting and soul-reposing narrative.
