@@ -1418,6 +1418,34 @@ const encodedTitle = encodeURIComponent(title);
     text-decoration: none;
   }
 
+  /* Footnote jump-target highlight (issue #1212 §1.2): clicking [n] or ↩
+   * must show WHERE the reader landed. Dark variants in dark-polish.css. */
+  .prose :global(.footnotes li:target) {
+    background: rgba(37, 99, 235, 0.08);
+    outline: 2px solid rgba(37, 99, 235, 0.35);
+    outline-offset: 4px;
+    border-radius: 4px;
+    animation: fn-target-flash 1.6s ease-out;
+  }
+  .prose :global(sup:target),
+  .prose :global(a.footnote-ref:target) {
+    background: rgba(37, 99, 235, 0.12);
+    border-radius: 4px;
+    animation: fn-target-flash 1.6s ease-out;
+  }
+  @keyframes fn-target-flash {
+    from {
+      background: rgba(37, 99, 235, 0.28);
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .prose :global(.footnotes li:target),
+    .prose :global(sup:target),
+    .prose :global(a.footnote-ref:target) {
+      animation: none;
+    }
+  }
+
   /* Mobile: bigger tap targets */
   @media (max-width: 768px) {
     .prose :global(.footnote-ref) {

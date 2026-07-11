@@ -36,7 +36,7 @@ const { enLink, hasEn } = await getLangSwitchPath(currentPath);
       </span>
       <button
         class="cursor-pointer border-none bg-transparent px-[0.3rem] text-base text-white/70 hover:text-white"
-        onclick="document.getElementById('lang-banner').style.display='none';localStorage.setItem('lang-banner-dismissed','1');var h=document.getElementById('main-header');if(h)h.style.top='0px';"
+        onclick="document.getElementById('lang-banner').style.display='none';localStorage.setItem('lang-banner-dismissed','1');var h=document.getElementById('main-header');if(h)h.style.top='0px';document.documentElement.style.scrollPaddingTop='';"
         aria-label="Close"
       >
         ✕

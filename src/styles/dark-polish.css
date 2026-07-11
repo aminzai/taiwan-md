@@ -2373,3 +2373,52 @@
 /* The 6 .fg-badge chips carry inline per-category color triplets
  * (#xxxxxx22 tint bg / #xxxxxx text / #xxxxxx44 border) — categorical
  * data-ink, KEPT as-is. Their ~13% tint reads fine on the dark bg. */
+
+/* ============================================================
+ * Footnotes (issue #1212 §1.2)
+ * article.template.astro scoped rules hardcode light grays +
+ * blue-600; their compiled specificity beats the generic
+ * `.prose a` dark rule. Measured on prod: .footnote-ref #2563eb
+ * on #050505 = 3.94:1 (AA fail), .footnotes a #6b7280 = 4.22:1.
+ * ============================================================ */
+:root[data-theme='dark'] .prose .footnotes {
+  border-top-color: color-mix(in srgb, var(--color-ink) 20%, transparent);
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .prose .footnotes li p {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] .prose .footnotes a {
+  color: var(--color-ink-soft);
+  text-decoration-color: color-mix(
+    in srgb,
+    var(--color-ink-soft) 40%,
+    transparent
+  );
+}
+:root[data-theme='dark'] .prose .footnotes a:hover {
+  color: var(--color-ink);
+  text-decoration-color: var(--color-ink-soft);
+}
+/* `a.footnote-ref`（帶元素型別）讓 specificity 嚴格壓過 template 任何
+ * scoped-class 組合，不留 cascade 邊界情況。 */
+:root[data-theme='dark'] .prose a.footnote-ref {
+  color: var(--color-accent);
+}
+:root[data-theme='dark'] .prose a.footnote-ref:hover {
+  color: var(--color-accent);
+}
+:root[data-theme='dark'] .prose a.footnote-backref {
+  color: var(--color-ink-soft);
+}
+
+/* Footnote jump-target highlight — dark variants (light version lives in
+ * article.template.astro). */
+:root[data-theme='dark'] .prose .footnotes li:target {
+  background: color-mix(in srgb, var(--color-accent) 12%, transparent);
+  outline-color: color-mix(in srgb, var(--color-accent) 45%, transparent);
+}
+:root[data-theme='dark'] .prose sup:target,
+:root[data-theme='dark'] .prose a.footnote-ref:target {
+  background: color-mix(in srgb, var(--color-accent) 16%, transparent);
+}

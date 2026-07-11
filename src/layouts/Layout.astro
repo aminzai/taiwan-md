@@ -693,6 +693,12 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
           }
           _searchMode = 'fallback';
         }
+        // engine ready 後若使用者已經在打字，重新觸發一次渲染
+        // （否則「載入中...」會停留到下一次鍵入）
+        var _pending = document.getElementById('search-input');
+        if (_pending && _pending.value.trim()) {
+          _pending.dispatchEvent(new Event('input', { bubbles: true }));
+        }
       }
 
       function _doSearch(q, lang) {
@@ -735,12 +741,60 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         return matches;
       }
 
-      function _renderResult(item) {
+      function _escHtml(s) {
+        return String(s).replace(/[&<>"']/g, function (c) {
+          return {
+            '&': '&amp;',
+            '<': '&lt;',
+            '>': '&gt;',
+            '"': '&quot;',
+            "'": '&#39;',
+          }[c];
+        });
+      }
+      // 對 query 每個 segment 做 case-insensitive 高亮。
+      // 單一 pass 走「原文切片 → 每段各自 escape」：多 segment 逐輪
+      // replace 會重掃已插入的 <mark> 標籤與 &amp; entity（query 含
+      // "m"/"amp" 這類子字串時直接產生壞 HTML），切片法結構上不可能。
+      function _hlText(text, q) {
+        var raw = String(text);
+        var segs = (q || '')
+          .toLowerCase()
+          .normalize('NFKC')
+          .trim()
+          .split(/\s+/)
+          .filter(Boolean)
+          .sort(function (a, b) {
+            return b.length - a.length; // 長 segment 優先，重疊時吃最長匹配
+          })
+          .map(function (s) {
+            return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          });
+        if (!segs.length) return _escHtml(raw);
+        var re = new RegExp('(' + segs.join('|') + ')', 'gi');
+        var out = '';
+        var last = 0;
+        var m;
+        while ((m = re.exec(raw)) !== null) {
+          out +=
+            _escHtml(raw.slice(last, m.index)) +
+            '<mark>' +
+            _escHtml(m[0]) +
+            '</mark>';
+          last = m.index + m[0].length;
+          if (m.index === re.lastIndex) re.lastIndex++; // zero-length guard
+        }
+        return out + _escHtml(raw.slice(last));
+      }
+
+      function _renderResult(item, idx, q) {
         var langBadge = item.lang === 'en' ? 'EN' : '中';
         var title = item.t || '';
         var desc = item.d || '';
         return (
-          '<a class="search-item" href="' +
+          '<a id="search-item-' +
+          idx +
+          '" role="option" class="search-item" href="' +
           item.u +
           '">' +
           '<span class="search-item-lang">' +
@@ -748,9 +802,11 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
           '</span>' +
           '<div class="search-item-text">' +
           '<span class="search-item-title">' +
-          title +
+          _hlText(title, q) +
           '</span>' +
-          (desc ? '<span class="search-item-desc">' + desc + '</span>' : '') +
+          (desc
+            ? '<span class="search-item-desc">' + _hlText(desc, q) + '</span>'
+            : '') +
           '</div></a>'
         );
       }
@@ -761,6 +817,8 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         var input = document.getElementById('search-input');
         if (!input) return;
         var results = document.getElementById('search-results');
+        // 伺服器端渲染的空狀態（提示 + 熱門搜尋 chips），清空時還原
+        var _emptyStateHTML = results.innerHTML;
         var modal = document.getElementById('search-modal');
         var hintEmpty = isEn
           ? 'Type to search across all articles'
@@ -800,12 +858,21 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
 
         _initSearchEngine();
 
+        // /explore?q=… 深連結需要的狀態（issue #1212 A1）：先宣告在這裡，
+        // 下面的 input listener 才能同步寫回網址列。
+        var _isExplore = /^\/(en\/|ja\/|ko\/|fr\/|es\/)?explore\/?$/.test(
+          location.pathname,
+        );
+        var _urlSyncTimer = null;
+        // ↑↓ + Enter 鍵盤導航目前選取的 index（issue #1212 A2-2）
+        var _kbIndex = -1;
+
         input.addEventListener('input', function () {
           var q = this.value.trim();
           _currentQuery = q;
+          _kbIndex = -1;
           if (!q) {
-            results.innerHTML =
-              '<div class="search-hint">' + hintEmpty + '</div>';
+            results.innerHTML = _emptyStateHTML;
             clearTimeout(_gaDebounceTimer);
             return;
           }
@@ -823,7 +890,12 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
             results.innerHTML =
               '<div class="search-hint">' + hintNone + '</div>';
           } else {
-            var html = matches.slice(0, 12).map(_renderResult).join('');
+            var html = matches
+              .slice(0, 12)
+              .map(function (it, i) {
+                return _renderResult(it, i, q);
+              })
+              .join('');
             if (matches.length > 12) {
               html +=
                 '<div class="search-hint">' +
@@ -840,10 +912,63 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
           _gaDebounceTimer = setTimeout(function () {
             _trackSearchQuery(q, _lastMatchCount);
           }, 800);
+
+          // explore 頁：query 同步進 ?q=（可分享、可 reload 還原）
+          if (_isExplore) {
+            clearTimeout(_urlSyncTimer);
+            _urlSyncTimer = setTimeout(function () {
+              var u = new URL(location.href);
+              if (q) u.searchParams.set('q', q);
+              else u.searchParams.delete('q');
+              history.replaceState(null, '', u);
+            }, 400);
+          }
+        });
+
+        // ↑↓ + Enter 鍵盤導航（issue #1212 A2-2）
+        function _kbApply() {
+          var items = results.querySelectorAll('.search-item');
+          for (var i = 0; i < items.length; i++) {
+            items[i].classList.toggle('kb-active', i === _kbIndex);
+            items[i].setAttribute(
+              'aria-selected',
+              i === _kbIndex ? 'true' : 'false',
+            );
+          }
+          if (_kbIndex >= 0 && items[_kbIndex]) {
+            input.setAttribute('aria-activedescendant', items[_kbIndex].id);
+            items[_kbIndex].scrollIntoView({ block: 'nearest' });
+          } else {
+            input.removeAttribute('aria-activedescendant');
+          }
+        }
+        input.addEventListener('keydown', function (e) {
+          var items = results.querySelectorAll('.search-item');
+          if (!items.length) return;
+          if (e.key === 'ArrowDown') {
+            e.preventDefault();
+            _kbIndex = (_kbIndex + 1) % items.length;
+            _kbApply();
+          } else if (e.key === 'ArrowUp') {
+            e.preventDefault();
+            _kbIndex = _kbIndex <= 0 ? items.length - 1 : _kbIndex - 1;
+            _kbApply();
+          } else if (e.key === 'Enter' && _kbIndex >= 0 && items[_kbIndex]) {
+            e.preventDefault();
+            items[_kbIndex].click();
+          }
         });
 
         // Track search result clicks via event delegation
         results.addEventListener('click', function (e) {
+          var chip = e.target.closest('.search-hot-chip');
+          if (chip) {
+            input.value =
+              chip.getAttribute('data-term') || chip.textContent.trim();
+            input.dispatchEvent(new Event('input', { bubbles: true }));
+            input.focus();
+            return;
+          }
           var link = e.target.closest('.search-item');
           if (!link) return;
           var allLinks = results.querySelectorAll('.search-item');
@@ -867,6 +992,17 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
         document.addEventListener('keydown', function (e) {
           if (e.key === 'Escape' && modal.classList.contains('open')) {
             modal.classList.remove('open');
+          }
+          if (e.key === 'Escape') {
+            var _nm = document.querySelector('.nav-mobile.open');
+            if (_nm) {
+              _nm.classList.remove('open');
+              var _mt = document.querySelector('.menu-toggle');
+              if (_mt) {
+                _mt.textContent = '☰';
+                _mt.setAttribute('aria-expanded', 'false');
+              }
+            }
           }
           if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
             e.preventDefault();
@@ -893,6 +1029,19 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
             }, 100);
           }
         });
+
+        // /explore?q=… 深連結：進站自動開 modal 帶入 query（issue #1212 A1）
+        if (_isExplore) {
+          var _q0 = new URLSearchParams(location.search).get('q');
+          if (_q0) {
+            modal.classList.add('open');
+            input.value = _q0;
+            input.dispatchEvent(new Event('input', { bubbles: true }));
+            setTimeout(function () {
+              input.focus();
+            }, 150);
+          }
+        }
       }
 
       function _tryInit() {

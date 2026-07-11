@@ -355,6 +355,14 @@
     }
   }
 
+  /* 開啟搜尋 modal / 手機選單時鎖住背景捲動（issue #1212 A2-4）。
+   * :has() 在所有 evergreen browser 支援；不支援的舊瀏覽器退回
+   * 現行行為（背景可捲），不會壞。 */
+  body:has(#search-modal.open),
+  body:has(.nav-mobile.open) {
+    overflow: hidden;
+  }
+
   body.page-default main {
     padding-top: 56px;
   }

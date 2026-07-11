@@ -857,16 +857,35 @@ const categoryList = [
         class="flex-1 border-none bg-transparent text-base text-[#1a1a2e] outline-none placeholder:text-[#94a3b8]"
         placeholder={`${t('nav.search-modal.input-placeholder')}...`}
         autocomplete="off"
+        role="combobox"
+        aria-autocomplete="list"
+        aria-controls="search-results"
+        aria-expanded="true"
       />
       <kbd
-        class="cursor-pointer rounded border border-[#e2e8f0] bg-[#f1f5f9] px-2 py-[0.2rem] font-[inherit] text-[0.7rem] text-[#64748b]"
+        class="cursor-pointer rounded border border-[#e2e8f0] bg-[#f1f5f9] px-2 py-[0.2rem] font-[inherit] text-[0.7rem] text-[#64748b] [@media(hover:none)]:hidden"
         onclick="document.getElementById('search-modal').classList.remove('open')"
         >ESC</kbd
       >
     </div>
-    <div id="search-results" class="search-results">
+    <div id="search-results" class="search-results" role="listbox">
       <div class="search-hint">
         {t('nav.search-modal.type-to-search')}
+      </div>
+      <div class="search-hot">
+        <span class="search-hot-label"
+          >🔥 {t('explore.hotSearches.label' as any)}</span
+        >
+        {
+          [1, 2, 3, 4, 5, 6].map((n) => {
+            const term = t(`explore.hotSearches.term${n}` as any);
+            return (
+              <button type="button" class="search-hot-chip" data-term={term}>
+                {term}
+              </button>
+            );
+          })
+        }
       </div>
     </div>
   </div>
@@ -889,6 +908,11 @@ const categoryList = [
       const banner = document.getElementById('lang-banner');
       if (banner && banner.offsetHeight > 0) {
         header.style.top = banner.offsetHeight + 'px';
+        // Anchor 捲動 offset 跟著 banner 高度長，不然 heading 會被
+        // fixed banner+header 蓋住（issue #1212 §B3/§11；基準 92px
+        // 定義在 global.css html{scroll-padding-top}）
+        document.documentElement.style.scrollPaddingTop =
+          92 + banner.offsetHeight + 'px';
       }
 
       const update = () =>
@@ -1549,6 +1573,50 @@ const categoryList = [
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+  }
+
+  /* Empty-state hot chips + result-highlight + keyboard-nav styles.
+   * The modal panel is always light (bg-white) in both themes, so no
+   * dark variants needed. */
+  :global(.search-hot) {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0 1rem 0.9rem;
+  }
+  :global(.search-hot-label) {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #475569;
+  }
+  :global(.search-hot-chip) {
+    cursor: pointer;
+    border: 1px solid #e2e8f0;
+    background: #f1f5f9;
+    border-radius: 999px;
+    padding: 0.25rem 0.7rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #475569;
+    transition:
+      background 0.15s,
+      border-color 0.15s,
+      color 0.15s;
+  }
+  :global(.search-hot-chip:hover) {
+    border-color: #10b981;
+    background: #ecfdf5;
+    color: #065f46;
+  }
+  :global(.search-item mark) {
+    background: rgba(16, 185, 129, 0.18);
+    color: inherit;
+    border-radius: 2px;
+    padding: 0 0.05em;
+  }
+  :global(.search-item.kb-active) {
+    background: #f1f5f9;
   }
 
   /* =============================================
