@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-07-10T22:12:28.497Z",
+  "lastUpdated": "2026-07-11T05:09:13.560Z",
   "totals": {
-    "contributors": 65,
+    "contributors": 66,
     "activeWindow": "last 30d"
   },
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 4869,
+      "commits": 4882,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-07-11 05:17:47 +0800",
+      "lastCommitAt": "2026-07-11 12:53:53 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1001,
-        "system": 3406,
-        "translation": 831
+        "content": 1004,
+        "system": 3416,
+        "translation": 833
       }
     },
     {
@@ -160,6 +160,20 @@
       }
     },
     {
+      "login": "ellenlee",
+      "commits": 7,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13810570?v=4",
+      "profileUrl": "https://github.com/ellenlee",
+      "firstCommitAt": null,
+      "lastCommitAt": null,
+      "primaryArea": "other",
+      "breakdown": {
+        "content": 0,
+        "system": 0,
+        "translation": 0
+      }
+    },
+    {
       "login": "p3nchan",
       "commits": 7,
       "avatarUrl": "https://avatars.githubusercontent.com/u/5032148?v=4",
@@ -270,20 +284,6 @@
         "system": 0,
         "translation": 0
       }
-    },
-    {
-      "login": "r000tmnt",
-      "commits": 3,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/62630285?v=4",
-      "profileUrl": "https://github.com/r000tmnt",
-      "firstCommitAt": "2026-03-19 15:44:27 +0800",
-      "lastCommitAt": "2026-03-20 11:52:22 +0800",
-      "primaryArea": "content",
-      "breakdown": {
-        "content": 2,
-        "system": 1,
-        "translation": 0
-      }
     }
   ],
   "allContributors": [
@@ -363,6 +363,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/66238110?v=4",
       "profileUrl": "https://github.com/BrianHuang813",
       "types": ["💻", "🤔", "🌍"]
+    },
+    {
+      "login": "ellenlee",
+      "name": "ellenlee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/13810570?v=4",
+      "profileUrl": "https://github.com/ellenlee",
+      "types": ["💻"]
     },
     {
       "login": "p3nchan",
@@ -818,16 +825,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 4869,
+      "commits": 4882,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-07-11 05:17:47 +0800",
+      "lastCommitAt": "2026-07-11 12:53:53 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1001,
-        "system": 3406,
-        "translation": 831
+        "content": 1004,
+        "system": 3416,
+        "translation": 833
       }
     },
     {
