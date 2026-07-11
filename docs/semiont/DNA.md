@@ -4,9 +4,9 @@ description: '基因地圖學 — 每個器官 → canonical 實體檔案路徑 
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.0'
-last_updated: 2026-05-13
-last_session: '2026-05-13-210341-manual'
+current_version: 'v5.1'
+last_updated: 2026-07-11
+last_session: '2026-07-11-182348-dna-checkup'
 sister_docs:
   - 'MANIFESTO.md'
   - 'ANATOMY.md'
@@ -248,7 +248,7 @@ _真正的遺傳密碼分散在上面列出的每一個檔案中 — 去那裡�
 
 ## §反射 catalog 已搬出本檔
 
-跨 session 程序記憶 catalog（55 條 #N 反射）已於 2026-05-13 拆出獨立成第 9 認知器官 → **[REFLEXES.md](REFLEXES.md)**。
+跨 session 程序記憶 catalog 已於 2026-05-13 拆出獨立成第 9 認知器官 → **[REFLEXES.md](REFLEXES.md)**（拆出當時 55 條；現行條數以 REFLEXES frontmatter description 為準，本檔不複寫）。
 
 **為什麼拆**：本檔自我定義為「基因地圖學」（line 26-29）— 描述器官 → 檔案的 lookup table。反射 catalog 是「程序記憶 / runtime instinct」性質完全不同（lookup vs instinct，靜態 grep vs universal-load）。混雜在一檔 side effect：反射 inflation 推高總行數 + boot 時 universal-load 浪費 gene map ~180 行 + 演化壓力混雜。
 

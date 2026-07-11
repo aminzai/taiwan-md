@@ -5,13 +5,13 @@ type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v1.12'
-last_updated: 2026-06-28
-last_session: '2026-06-28-082623-commit-寫人話'
+last_updated: 2026-07-11
+last_session: '2026-07-11-182348-dna-checkup（sister_docs：SENSES 已凋亡 → 換 REFLEXES）'
 sister_docs:
   - 'ANATOMY.md'
   - 'DNA.md'
   - 'HEARTBEAT.md'
-  - 'SENSES.md'
+  - 'REFLEXES.md'
   - 'ROUTINE.md'
 upstream_canonical: []
 downstream_dependents:
