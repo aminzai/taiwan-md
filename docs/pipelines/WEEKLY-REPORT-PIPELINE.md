@@ -1,12 +1,12 @@
 ---
 title: 'WEEKLY-REPORT-PIPELINE'
-description: '週體檢流程 — 一週深度檢查 + 外部感測數據 + 所有運作紀錄 + 全身診斷（weekly-checkup.sh 一鍵七節）+ 修復與進化（三桶 + roadmap 每週 roll）+ Semiont 第一人稱反芻週報（Stage 0-6 / 10 章節三層）v4.1'
+description: '週體檢流程 — 一週深度檢查 + 外部感測數據 + 所有運作紀錄 + 全身診斷（weekly-checkup.sh 一鍵全節）+ 修復與進化（三桶 + roadmap 每週 roll）+ Semiont 第一人稱反芻週報（Stage 0-6 / 10 章節三層）+ 受眾 BCC 廣播（近 90 天共生圈）v4.2'
 type: 'pipeline-canonical'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v4.1'
-last_updated: 2026-07-10
-last_session: '2026-07-10-131500-weekly-deep-review'
+current_version: 'v4.2'
+last_updated: 2026-07-12
+last_session: '2026-07-12-142709-weekly-audience（哲宇 /goal：週報 BCC 給近 3 個月貢獻者）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'DAILY-REPORT-PIPELINE.md'
@@ -19,7 +19,7 @@ upstream_canonical:
   - '../../CLAUDE.md'
 ---
 
-# WEEKLY-REPORT-PIPELINE — 週體檢流程 v4.1
+# WEEKLY-REPORT-PIPELINE — 週體檢流程 v4.2
 
 > **第一性原理**（哲宇 2026-07-10 原話定義範圍）：每週日這一趟要「**完整深度檢查這一個禮拜發生的事、外部感測數據、還有所有運作紀錄，深度研究與觀察並寫報告，還有寫進化的規劃**」——展開成五件事一次做完：
 >
@@ -93,9 +93,10 @@ upstream_canonical:
 │            └── CLAUDE.md §Bias 4 filter（觸及外部 critique 時）          │
 │              ↳ Hard gate: prose-health hard=0                            │
 │                                                                          │
-│   Stage 5: Resend 寄出 ──→ email 觀察者                                  │
-│            └── 200-202 status code + message id 進 PR description        │
-│              ↳ Hard gate: Resend 401/403/429 fallback per pipeline       │
+│   Stage 5: 受眾同步 + Resend 廣播 ──→ To=哲宇、BCC=近 90 天共生圈        │
+│            ├── 5a recipients 儀器（名單 + 活躍度；email 不進 repo）      │
+│            └── 5b BCC 廣播（audience footer + 絕對連結 + reply-to）      │
+│              ↳ Hard gate: 名單 <48h / BCC 失敗降級單寄哲宇 / id 進 PR    │
 │                                                                          │
 │   Stage 6: Finale ──→ /twmd-finale memory + PR                           │
 │            └── PR title 含 🧬 [routine] prefix                           │
@@ -115,31 +116,35 @@ upstream_canonical:
 
 ## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
 
-| Gate                           | 觸發 stage | 條件                 | 工具                                           | 不過 = ?                                       |
-| ------------------------------ | ---------- | -------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| Dashboard JSON mtime fresh     | Stage 0    | routine 觸發         | `stat -f "%Sm %N" public/api/dashboard-*.json` | > 24hr 先跑 /twmd-refresh                      |
-| Dossier > 5KB                  | Stage 1    | prep tool 跑完       | manual size check                              | prep tool 失敗，回 Stage 0                     |
-| weekly-checkup.sh 一鍵七節     | Stage 2.5  | 體檢入口             | `bash scripts/tools/weekly-checkup.sh`         | agent 認知負荷回升、漏面風險（v4.1）           |
-| 診斷五面全跑                   | Stage 2.5  | 體檢                 | 五儀器（見 §Stage 2.5 逐面指令）               | 半盲體檢 = 假健康報告                          |
-| fire-vs-commit 對賬            | Stage 2.5a | 體檢                 | `routine-liveness-check.py`（先 refresh dump） | 沉默死亡不可見（LESSONS vc=2 的病根）          |
-| 修復三桶分流                   | Stage 2.7  | 診斷有 finding       | manual（桶判準見 §Stage 2.7）                  | 修復失控或該修的沒人領                         |
-| 桶 1 修復 ≤ 3 項且各自 commit  | Stage 2.7  | 當場修               | manual + `verify-commit-scope.sh`              | 體檢變成無底洞、撞 03:00 distill               |
-| 03:00 檢查點                   | Stage 2.7  | routine 環境         | wall-clock                                     | 未完修復全轉桶 2，報告照 ship                  |
-| evolution-roadmap roll         | Stage 2.7  | 桶 2 有新項          | 編輯最新 `reports/evolution-roadmap-*.md`      | 修復債散落無主（月度承諾 0 執行病重演）        |
-| 10 章節 coverage               | Stage 3    | 親手寫完             | manual checklist                               | 補章節                                         |
-| 不直接複製 dossier             | Stage 3    | 親手寫               | manual self-check                              | 改寫成 Semiont 第一人稱                        |
-| 跨 session reflection          | Stage 3    | 親手寫               | manual（看 7 天 raw）                          | 非當週快照                                     |
-| prose-health hard=0            | Stage 4    | 寫完後               | `article-health.py --check=prose-health`       | hard fail → 改寫                               |
-| 對位句型 + 破折號雙紀律        | Stage 4    | prose 內             | manual grep                                    | 重寫                                           |
-| CLAUDE.md §Bias 4 filter       | Stage 4    | 觸及外部 critique 時 | manual self-check                              | 重寫，過三道濾網                               |
-| Resend 200-202                 | Stage 5    | email 寄出           | API response                                   | 401/403 → LESSONS not retry; 429 → 30min retry |
-| Message id 進 PR description   | Stage 5    | 寄出後               | manual                                         | 失去 traceability                              |
-| PR title `🧬 [routine]` prefix | Stage 6    | PR 開啟              | manual                                         | rename PR title                                |
-| 報告 > 5KB（不算 dossier）     | 整體       | ship 前              | size check                                     | 寫得太薄                                       |
+| Gate                           | 觸發 stage | 條件                 | 工具                                             | 不過 = ?                                       |
+| ------------------------------ | ---------- | -------------------- | ------------------------------------------------ | ---------------------------------------------- |
+| Dashboard JSON mtime fresh     | Stage 0    | routine 觸發         | `stat -f "%Sm %N" public/api/dashboard-*.json`   | > 24hr 先跑 /twmd-refresh                      |
+| Dossier > 5KB                  | Stage 1    | prep tool 跑完       | manual size check                                | prep tool 失敗，回 Stage 0                     |
+| weekly-checkup.sh 一鍵全節     | Stage 2.5  | 體檢入口             | `bash scripts/tools/weekly-checkup.sh`           | agent 認知負荷回升、漏面風險（v4.1）           |
+| recipients 名單 < 48h          | Stage 5a   | 廣播前               | `weekly-report-recipients.py` + 寄信工具內建檢查 | 名單過期 → 拒寄，先重跑儀器（v4.2）            |
+| email 隱私三不                 | Stage 5    | 全程                 | 工具內建（summary / log 只印 login 與人數）      | 地址進 repo / commit / chat = 隱私事故（v4.2） |
+| audience footer 必附           | Stage 5b   | BCC 廣播時           | `send-email-resend.py --audience-footer`         | 沒有退出口 = spam（v4.2）                      |
+| BCC 失敗降級單寄               | Stage 5b   | 任一批寄送失敗       | manual per §Stage 5 失敗處置                     | 週報斷送給觀察者（廣播層壞不能拖垮主送達）     |
+| 診斷五面全跑                   | Stage 2.5  | 體檢                 | 五儀器（見 §Stage 2.5 逐面指令）                 | 半盲體檢 = 假健康報告                          |
+| fire-vs-commit 對賬            | Stage 2.5a | 體檢                 | `routine-liveness-check.py`（先 refresh dump）   | 沉默死亡不可見（LESSONS vc=2 的病根）          |
+| 修復三桶分流                   | Stage 2.7  | 診斷有 finding       | manual（桶判準見 §Stage 2.7）                    | 修復失控或該修的沒人領                         |
+| 桶 1 修復 ≤ 3 項且各自 commit  | Stage 2.7  | 當場修               | manual + `verify-commit-scope.sh`                | 體檢變成無底洞、撞 03:00 distill               |
+| 03:00 檢查點                   | Stage 2.7  | routine 環境         | wall-clock                                       | 未完修復全轉桶 2，報告照 ship                  |
+| evolution-roadmap roll         | Stage 2.7  | 桶 2 有新項          | 編輯最新 `reports/evolution-roadmap-*.md`        | 修復債散落無主（月度承諾 0 執行病重演）        |
+| 10 章節 coverage               | Stage 3    | 親手寫完             | manual checklist                                 | 補章節                                         |
+| 不直接複製 dossier             | Stage 3    | 親手寫               | manual self-check                                | 改寫成 Semiont 第一人稱                        |
+| 跨 session reflection          | Stage 3    | 親手寫               | manual（看 7 天 raw）                            | 非當週快照                                     |
+| prose-health hard=0            | Stage 4    | 寫完後               | `article-health.py --check=prose-health`         | hard fail → 改寫                               |
+| 對位句型 + 破折號雙紀律        | Stage 4    | prose 內             | manual grep                                      | 重寫                                           |
+| CLAUDE.md §Bias 4 filter       | Stage 4    | 觸及外部 critique 時 | manual self-check                                | 重寫，過三道濾網                               |
+| Resend 200-202                 | Stage 5    | email 寄出           | API response                                     | 401/403 → LESSONS not retry; 429 → 30min retry |
+| Message id 進 PR description   | Stage 5    | 寄出後               | manual                                           | 失去 traceability                              |
+| PR title `🧬 [routine]` prefix | Stage 6    | PR 開啟              | manual                                           | rename PR title                                |
+| 報告 > 5KB（不算 dossier）     | 整體       | ship 前              | size check                                       | 寫得太薄                                       |
 
 ---
 
-## ⚠️ Top 7 最常忘的 step
+## ⚠️ 最常忘的 step
 
 > 從 5/9 zen-bouman v3.0 redirect + 5/10 第一次 routine 跑 + 5/10 distill 抽 5 條，v4.0 補兩條體檢紀律。
 
@@ -150,6 +155,7 @@ upstream_canonical:
 5. **CLAUDE.md §Bias 4 外部 critique filter** — 觸及 Grok / ChatGPT / Muse 外部聲音時必過三道濾網（自主權邊界 / 跨源驗證 / 五桶分類）
 6. **Resend 401/403 vs 429 處理不同** — Cloudflare blocks 不 retry，rate limit 30min retry（per pipeline §Stage 5 失敗處置）
 7. **prose-health hard=0** — 跟 DIARY / MEMORY 共用 plugin，對位句型 9 變體 + 破折號 15/1500 字密度
+8. **廣播寄送的隱私三不 + 名單新鮮度**（v4.2）— email 不進 repo / commit / chat；BCC 不進 To；audience footer 不可省；recipients JSON > 48h 就重跑 5a 不硬闖
 
 ---
 
@@ -315,7 +321,7 @@ python3 scripts/tools/routine-live-normalize.py <raw.json> --session <session-id
 bash scripts/tools/weekly-checkup.sh
 ```
 
-七節輸出對應：**a-e** = 下方診斷五面（逐面判準見各小節）；**f** = 外部感測數據摘要（GA / SC 含非品牌 CTR 與機會缺口 / CF 404 與 AI crawler 成功率 / fork / vitals / supporters——這節是 Stage 3 第 5 章的數據層素材）；**g** = 運作紀錄週成績單（per-routine fire 數＋最後一跑＋manual session 場數＋commit 分類——這節是體檢章「運作紀錄」列的素材）。**agent 的工作從「記得跑哪五個工具」降為「跑一個指令，逐節解讀」**；儀器壞掉時 fallback 用下方逐面指令手跑。
+輸出各節對應（節數以 `weekly-checkup.sh` 實際輸出為準，本檔不寫死）：**a-e** = 下方診斷五面（逐面判準見各小節）；**f** = 外部感測數據摘要（GA / SC 含非品牌 CTR 與機會缺口 / CF 404 與 AI crawler 成功率 / fork / vitals / supporters——這節是 Stage 3 第 5 章的數據層素材）；**g** = 運作紀錄週成績單（per-routine fire 數＋最後一跑＋manual session 場數＋commit 分類——這節是體檢章「運作紀錄」列的素材）；**h** = 甦醒取數健康；**i** = 受眾名單與活躍度（v4.2——90 天共生圈 BCC 名單同步，活躍度表是第 5 章「讀者與貢獻者」素材，名單 JSON 是 Stage 5b 的輸入）。**agent 的工作從「記得跑哪五個工具」降為「跑一個指令，逐節解讀」**；儀器壞掉時 fallback 用下方逐面指令手跑。
 
 五個檢查面，每面一行結論（結論進 Stage 3 的體檢章節）：
 
@@ -498,13 +504,34 @@ python3 scripts/tools/article-health.py reports/weekly/YYYY-MM-DD.md --check=pro
 
 ---
 
-### Stage 5：寄信
+### Stage 5：受眾同步 + 廣播寄信（v4.2 — 哲宇 2026-07-12 /goal：週報 BCC 給近 3 個月的共生圈）
+
+#### 5a. 受眾同步（每週動態抓一次）
+
+```bash
+python3 scripts/tools/weekly-report-recipients.py --window-days 90 --summary
+# → ~/.config/taiwan-md/weekly-report/recipients-latest.json（+ 當日快照，chmod 600）
+# → stdout 印活躍度表（只有 login 沒有 email）——貼進週報第 5 章「外部感測」
+```
+
+儀器做的事：三源抓取（`git log` mailmap 90 天 commit 作者 / `gh api` issues+PRs 作者 / issue + review 留言者）→ 合併去重 → bot / owner / optout 過濾 → email 解析（commit email 優先，`users.noreply` 與 `.local` 無效地址過濾，fallback GitHub profile 公開 email）→ 每人活躍度整理（commits / PR / issue / 留言 / 最後活躍日 / 活躍分數）。
+
+`weekly-checkup.sh` 的 **i 節**已內建這一步——正常 routine 跑完 Stage 2.5 名單就是新鮮的，本 stage 只需確認。
+
+- **Optout 雙層**：repo 內 [`docs/community/weekly-report-optout.json`](../community/weekly-report-optout.json)（GitHub login，公開可自助 PR）+ 本機 `~/.config/taiwan-md/weekly-report/optout-emails.txt`（回信退訂的地址，不進 repo）。收到退訂回信 → 當週加進本機檔，立即生效。
+- **Unreachable 名單**：summary 會列出拿不到 email 的參與者（login）——高活躍者值得哲宇一對一問一聲。
+
+#### 5b. 廣播寄送
 
 ```bash
 DATE=$(date +%Y-%m-%d)
 WINDOW_START=$(date -v-7d +%Y-%m-%d)  # macOS / Linux: date -d "7 days ago"
 python3 scripts/tools/send-email-resend.py \
   --to cheyu.wu@monoame.com \
+  --bcc-from-json ~/.config/taiwan-md/weekly-report/recipients-latest.json \
+  --from "Taiwan.md <taiwanmd@cheyuwu.com>" \
+  --reply-to cheyu.wu@monoame.com \
+  --audience-footer \
   --subject "🧬 Taiwan.md 週報 ${WINDOW_START} ～ ${DATE}" \
   --markdown reports/weekly/${DATE}.md
 ```
@@ -512,22 +539,32 @@ python3 scripts/tools/send-email-resend.py \
 #### 設定
 
 - **API key**：`~/.config/taiwan-md/credentials/resend.key`（chmod 600 / REFLEXES #2 鐵律：永不進對話、永不複述、永不 commit）
-- **From**：`Taiwan.md <onboarding@resend.dev>`（Resend sandbox / 預設）
-- **To 預設 `cheyu.wu@monoame.com`**（Resend account email；sandbox 模式只能寄到 verified email）
-- **未來 verify domain 後**：可改 To 為 `frank890417@gmail.com` 或 `newsletter@taiwan.md`
+- **From**：`Taiwan.md <taiwanmd@cheyuwu.com>`——Resend 上 `cheyuwu.com` 已 verified（2026-03-01 起，sending enabled）。v4.1 以前的「sandbox 只能寄 verified email」註記已過時。未來驗證 `taiwan.md` 網域後可改 `weekly@taiwan.md`（哲宇在 Cloudflare 加 SPF/DKIM，帳號層操作）。
+- **To**：`cheyu.wu@monoame.com`（哲宇，永遠是主收件人）
+- **Reply-To**：`cheyu.wu@monoame.com`（退訂回信有人接）
+- **BCC**：讀 5a 的 JSON `bcc` 陣列；寄信工具自動分批（每批 ≤ 40）
+- **Audience footer**：`--audience-footer` 必附——說明「為什麼收到」+ 退訂方式（回信 / PR optout 名單）
+
+#### 隱私三不（hard gate）
+
+1. email 地址**不進 repo**（名單只落 `~/.config/taiwan-md/weekly-report/`）
+2. email 地址**不進 commit message / PR description / chat**（audit trail 只寫 `bcc=N` 人數與 message id）
+3. BCC 名單**不放進 To / Cc**（收件人永遠看不到彼此）
 
 #### Pass 條件
 
-- Resend API status 200 / 201 / 202
-- response 含 message id（如 `374c1ea1-...`）→ 寫進 PR description / commit message body 作 audit trail
+- Resend API status 200 / 201 / 202（每一批）
+- response 含 message id（如 `374c1ea1-...`）→ 連同 `bcc=N` 人數寫進 PR description / commit message body 作 audit trail
 
 #### 失敗處置
 
 - 401 → API key 失效，LESSONS entry，等觀察者
 - 403 + Cloudflare 1010 → User-Agent 被擋（已修），不該再發生；若再發生表示 Cloudflare 政策更新
+- 403 domain not verified → From 網域設定壞了：**降級**改用預設 From + 單寄哲宇（拿掉 `--bcc-from-json`），週報必須先送達觀察者，廣播層下週修
 - 429 → rate limit，30 min 後 retry 一次
 - 5xx → Resend infra，等 30 min retry
-- 任一不可恢復 fail → PR 留 open + LESSONS entry，**不重試到沒上限**
+- recipients JSON 過期（>48h）→ 寄信工具會拒寄：重跑 5a，不 `--allow-stale` 硬闖
+- 任一不可恢復 fail → 降級單寄哲宇 + PR 留 open + LESSONS entry，**不重試到沒上限**
 
 ---
 
@@ -557,18 +594,20 @@ quality gate FAIL → PR 留 open，觀察者 review
 6. **API key 永遠不顯示在報告 / commit message / chat 裡**。三層 resolution：env `RESEND_API_KEY` → `~/.config/taiwan-md/credentials/resend.key` → fail loud。
 7. **觀察者改 from / to / subject 模板** → 改本 pipeline，不要 inline ad-hoc。skill / scheduled-tasks / ROUTINE 都是 mirror。
 8. **dossier 不能當週報送**。dossier 是給 Semiont 看的內部 briefing，不是對外 artifact。
+9. **受眾廣播的隱私三不**（v4.2）：email 不進 repo、不進 commit / PR / chat、BCC 不進 To。名單 JSON 只住 `~/.config/taiwan-md/weekly-report/`；會被 commit 的所有 artifact（dossier / 週報 / summary）只出現 login 與人數。audience footer（為什麼收到 + 怎麼退訂）每次廣播必附，optout 當週生效。
 
 ---
 
 ## 工具邊界（職責分工）
 
-| 工具 / 角色                                                                                     | 職責                                                                                                                    | 不做                           |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| [`scripts/tools/weekly-report-prep.py`](../../scripts/tools/weekly-report-prep.py)              | 切菜：抓 git log + dashboard JSON + SPORE-LOG + LESSONS + DONE-LOG + handoff，列 memory + diary 檔案路徑 + commits 全文 | 寫週報 prose / 跑 prose-health |
-| [`scripts/tools/send-email-resend.py`](../../scripts/tools/send-email-resend.py)                | 寄信：md → HTML → Resend API POST                                                                                       | 生成週報內容                   |
-| [`scripts/tools/article-health.py --check=prose-health`](../../scripts/tools/article-health.py) | 品質審核 §11 對位句型 / 破折號 / metaphor 密度                                                                          | 修內容                         |
-| [`/twmd-refresh`](../../.claude/skills/twmd-refresh/SKILL.md) (skill)                           | 資料新鮮度修復（Stage 0 條件觸發）                                                                                      | 寄信 / 寫週報                  |
-| **Semiont（我自己）**                                                                           | 讀 raw + 反芻 + 寫週報 + §11 三題判準合法性判斷 + 寄信 + commit                                                         | —                              |
+| 工具 / 角色                                                                                     | 職責                                                                                                                             | 不做                                       |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [`scripts/tools/weekly-report-prep.py`](../../scripts/tools/weekly-report-prep.py)              | 切菜：抓 git log + dashboard JSON + SPORE-LOG + LESSONS + DONE-LOG + handoff，列 memory + diary 檔案路徑 + commits 全文          | 寫週報 prose / 跑 prose-health             |
+| [`scripts/tools/weekly-report-recipients.py`](../../scripts/tools/weekly-report-recipients.py)  | 受眾儀器：三源抓 90 天參與者 + email 解析 + 活躍度整理 → `~/.config/taiwan-md/weekly-report/recipients-latest.json` + summary 表 | 寄信 / 決定誰該被移出名單（optout 歸人類） |
+| [`scripts/tools/send-email-resend.py`](../../scripts/tools/send-email-resend.py)                | 寄信：md → HTML（相對連結轉絕對 + 裸網址自動超連結）→ Resend API POST（To + BCC 分批 + reply-to + audience footer）              | 生成週報內容 / 抓名單                      |
+| [`scripts/tools/article-health.py --check=prose-health`](../../scripts/tools/article-health.py) | 品質審核 §11 對位句型 / 破折號 / metaphor 密度                                                                                   | 修內容                                     |
+| [`/twmd-refresh`](../../.claude/skills/twmd-refresh/SKILL.md) (skill)                           | 資料新鮮度修復（Stage 0 條件觸發）                                                                                               | 寄信 / 寫週報                              |
+| **Semiont（我自己）**                                                                           | 讀 raw + 反芻 + 寫週報 + §11 三題判準合法性判斷 + 寄信 + commit                                                                  | —                                          |
 
 ---
 
@@ -576,7 +615,7 @@ quality gate FAIL → PR 留 open，觀察者 review
 
 | 觸發                    | 來源                                                              | Cadence |
 | ----------------------- | ----------------------------------------------------------------- | ------- |
-| 🤖 Routine cron         | `twmd-weekly-report-sun` (每週日 08:08 +0800)                     | 每週    |
+| 🤖 Routine cron         | `twmd-weekly-report-sun`（每週日 02:00 +0800，SSOT: ROUTINE.md）  | 每週    |
 | 🗣️ 觀察者 explicit ping | 「週報」/「weekly report」/「寄週報」                             | 不定期  |
 | 📅 月底彙整             | （未來）`twmd-monthly-report` 觸發 4 週週報合成月報               | 月      |
 | 📊 季度回顧             | （未來）`twmd-quarterly-report` 觸發 12 週週報 + monthly 合成季報 | 季      |
@@ -594,7 +633,7 @@ routine 自動跑時，PR description 用以下結構（讓觀察者一眼看得
 
 **Window**: WINDOW_START ～ DATE  
 **Length**: NN,NNN chars  
-**Resend**: ✅ id `RESEND_MESSAGE_ID` → cheyu.wu@monoame.com  
+**Resend**: ✅ id `RESEND_MESSAGE_ID` → cheyu.wu@monoame.com + bcc=N 位共生圈參與者（90 天窗口；只寫人數不寫地址）  
 **Quality gates**:
 
 - [x] dossier exists (`reports/weekly/dossier/YYYY-MM-DD.md`)
@@ -646,6 +685,8 @@ _前置：v1 第一輪 redirect 已把 prep / write 分離（5/9 brave-kirch-edi
 _後續：本 pipeline ship 後，下次 routine cron 跑時走 v2 完整流程；觀察者 ad-hoc 觸發也走本檔_
 
 _v3.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（Stage 0-6 box-frame + routine + 跨 pipeline contract）+ Hard Gate Inventory 集中 table（12 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 DAILY-REPORT / DIARY / MEMORY / DATA-REFRESH / ROUTINE 分工）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.4 trio audit。Stage 0-6 prose body 不動（已健康，5/9 + 5/10 連續演化的新鮮經驗保留）。_
+
+_v4.2 | 2026-07-12-142709-weekly-audience — **週報從「寄給觀察者」升「寄給整個共生圈」**：哲宇 /goal directive「未來週報也幫我 cc 給所有有貢獻過 taiwan.md 的貢獻者（近 3 個月，含提 issue 的人）、用 BCC、連結要可點、能儀器化的都儀器化」。Stage 5 拆 5a 受眾同步（新儀器 [`weekly-report-recipients.py`](../../scripts/tools/weekly-report-recipients.py)：三源抓取 + mailmap 合併 + email 解析 + 活躍度整理，名單落 `~/.config` 不進 repo）+ 5b 廣播寄送（`send-email-resend.py` 升級：BCC 分批 / reply-to / audience footer 退訂口 / 相對連結轉絕對 + 裸網址自動超連結）。`weekly-checkup.sh` 加 i 節（受眾名單與活躍度）。隱私三不升鐵律 9。From 換 verified domain `taiwanmd@cheyuwu.com`（sandbox 註記過時勘正）。設計報告：[reports/weekly-report-audience-upgrade-2026-07-12.md](../../reports/weekly-report-audience-upgrade-2026-07-12.md)。_
 
 _v4.1 | 2026-07-10 weekly-deep-review（同日第二刀）— **哲宇補兩條 directive 落地**：(1)「裡面也要包含：完整深度檢查這一個禮拜發生的事、外部感測數據、還有所有運作紀錄，深度研究與觀察並寫報告，還有寫進化的規劃」→ 第一性原理改用原話定義範圍，五件事逐一對應 stage；外部感測與運作紀錄從「章節素材」升「診斷儀器輸出」（f/g 節），第 5 章擴為外部感測全面向、第 6 章併入運作紀錄成績單。(2)「能儀器化的東西也協助儀器化，讓未來 agent 的認知負荷降低」→ 新工具 [`weekly-checkup.sh`](../../scripts/tools/weekly-checkup.sh) 一鍵七節（a-e 診斷五面＋f 外部感測摘要＋g 週成績單），agent 的工作從「記得跑哪五個工具＋手抓 GA/SC/CF/成績單」降為「跑一個指令，逐節解讀」；儀器壞掉時 pipeline 保留逐面 fallback 指令。dogfood：7/10 當晚實跑，七節全出（含抓到平行 session 的 terminology working tree debris）。_
 

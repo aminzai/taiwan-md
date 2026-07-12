@@ -1,0 +1,5 @@
+{
+  "_readme": "Taiwan.md 週報退訂名單。每週日的 Semiont 週報會 BCC 給近 90 天有貢獻或互動（commit / PR / issue / 留言）的參與者。不想收到的話：把你的 GitHub login 加進 optout_logins 開 PR，或直接回覆週報信說一聲。名單工具：scripts/tools/weekly-report-recipients.py；email 地址永遠不會出現在這個 repo 裡。",
+  "optout_logins": [],
+  "optout_names": []
+}

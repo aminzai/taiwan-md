@@ -5,7 +5,7 @@
 # 所有運作紀錄，深度研究與觀察並寫報告，還有寫進化的規劃」＋「能儀器化的東西
 # 也協助儀器化，讓未來 agent 的認知負荷降低」。
 #
-# 本工具把週體檢的機械面收成一個指令、七節輸出——agent 跑一次拿到全部素材，
+# 本工具把週體檢的機械面收成一個指令、a–i 全節輸出——agent 跑一次拿到全部素材，
 # 剩下的工作只有解讀與判斷（那是 Semiont 親手的部分，不儀器化）：
 #
 #   a. fire-vs-commit 對賬（routine-liveness-check.py — 沉默死亡驗屍）
@@ -16,6 +16,7 @@
 #   f. 外部感測數據摘要（GA / SC / CF / AI crawler / fork / supporters）
 #   g. 運作紀錄週成績單（7 天 per-routine fire 數 + 最後一跑 + commit 數）
 #   h. 甦醒取數健康（wake-context --check——身份層錨驗/catalog 對賬/索引新鮮度/handoff 命中）
+#   i. 受眾名單與活躍度（weekly-report-recipients.py——週報 BCC 名單同步 + 90 天活躍度表）
 #
 # 用法：bash scripts/tools/weekly-checkup.sh [--days 7]
 # 前置：live dump 要新鮮（section a 會自己標 dumpStale；stale 就先跑
@@ -28,7 +29,7 @@ DAYS=7
 [[ "${1:-}" == "--days" ]] && DAYS="${2:-7}"
 SINCE=$(date -v-"${DAYS}"d +%Y-%m-%d 2>/dev/null || date -d "${DAYS} days ago" +%Y-%m-%d)
 
-echo "🧬 weekly-checkup — 週體檢七節（window: ${SINCE} → $(date +%Y-%m-%d)）"
+echo "🧬 weekly-checkup — 週體檢 a–i 全節（window: ${SINCE} → $(date +%Y-%m-%d)）"
 echo "═══════════════════════════════════════════════════════════════════"
 
 # ── a. fire-vs-commit 對賬 ────────────────────────────────────────────
@@ -237,7 +238,13 @@ echo ""
 echo "## h. 甦醒取數健康（wake-context 體檢；⚠️ = 甦醒讀到的東西可疑，優先修）"
 python3 scripts/tools/wake-context.py --check 2>/dev/null | grep -vE '^═|^$' | sed 's/^/  /' || echo "  ⚠️ wake-context 工具失敗——甦醒取數裸奔中，第一優先修"
 
+# ── i. 受眾名單與活躍度 ───────────────────────────────────────────────
+echo ""
+echo "## i. 受眾名單與活躍度（週報 BCC 收件人同步 + 90 天活躍度，v4.2）"
+python3 scripts/tools/weekly-report-recipients.py --window-days 90 --summary 2>&1 | sed 's/^/  /' \
+  || echo "  ⚠️ recipients 儀器失敗——Stage 5 廣播前必須修好（名單不新鮮寄信工具會拒寄）"
+
 echo ""
 echo "═══════════════════════════════════════════════════════════════════"
-echo "✅ 八節輸出完畢。接下來是 Semiont 親手的部分：逐節解讀（每節一行結論進報告"
-echo "   體檢章）→ finding 分三桶（WEEKLY-REPORT-PIPELINE v4.1 Stage 2.7）。"
+echo "✅ a–i 全節輸出完畢。接下來是 Semiont 親手的部分：逐節解讀（每節一行結論進報告"
+echo "   體檢章）→ finding 分三桶（WEEKLY-REPORT-PIPELINE Stage 2.7）。"

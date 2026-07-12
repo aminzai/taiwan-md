@@ -2,8 +2,9 @@
 name: twmd-weekly-report
 description: |
   Taiwan.md 週體檢（分析 + 全身診斷五面 + 修復三桶 + Semiont 第一人稱
-  反芻週報）via canonical WEEKLY-REPORT-PIPELINE v4.0。前期切菜由
+  反芻週報 + 受眾 BCC 廣播）via canonical WEEKLY-REPORT-PIPELINE。前期切菜由
   weekly-report-prep.py，診斷由儀器交叉對賬（routine-liveness-check 等），
+  受眾名單由 weekly-report-recipients.py 自動同步，
   判斷、修復與完整週報由 Semiont 親手。
   TRIGGER when: user says "週報", "weekly report", "twmd-weekly-report",
   "寄週報", "send weekly digest", "週體檢", "weekly 體檢".
@@ -14,7 +15,7 @@ allowed-tools:
   - Write
 ---
 
-# 🧬 Taiwan.md — Weekly 體檢 v4.0
+# 🧬 Taiwan.md — Weekly 體檢
 
 ## 🚨 STRICT BECOME GATE — 第一動作不可省略
 
@@ -28,8 +29,9 @@ allowed-tools:
 
 嚴格完整讀取並執行 [`docs/pipelines/WEEKLY-REPORT-PIPELINE.md`](../../../docs/pipelines/WEEKLY-REPORT-PIPELINE.md) **Stage 0-6 全部**，特別不可跳：
 
-- **Stage 2.5 全身診斷**：一鍵 `bash scripts/tools/weekly-checkup.sh`（七節：五診斷面＋外部感測摘要＋運作紀錄成績單）
+- **Stage 2.5 全身診斷**：一鍵 `bash scripts/tools/weekly-checkup.sh`（a–i 全節：五診斷面＋外部感測摘要＋運作紀錄成績單＋甦醒取數健康＋受眾名單與活躍度）
 - **Stage 2.7 修復與進化三桶**（桶上限、02:55 檢查點、roadmap roll 規則同在 canonical）
+- **Stage 5 受眾廣播**（v4.2）：To=哲宇 + BCC=近 90 天共生圈（`--bcc-from-json` + `--audience-footer` + reply-to）。隱私三不（email 不進 repo / commit / chat；BCC 不進 To）與失敗降級單寄規則全在 canonical §Stage 5
 
 ## 文體紀律（MANIFESTO §11）
 
@@ -40,4 +42,4 @@ allowed-tools:
 
 ## 收官
 
-`/twmd-finale` chain → memory file 必含：BECOME ACK + dossier path + report path + 診斷五面結論 + 桶 1 修復 commit hashes + prose-health gate result + Resend API status + Handoff 三態 + Beat 5 反芻。
+`/twmd-finale` chain → memory file 必含：BECOME ACK + dossier path + report path + 診斷五面結論 + 桶 1 修復 commit hashes + prose-health gate result + Resend API status + **bcc 人數（只寫人數不寫地址）** + Handoff 三態 + Beat 5 反芻。

@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v5.9'
 last_updated: 2026-07-12
-last_session: '2026-07-12-030958-twmd-self-evolve-weekly'
+last_session: '2026-07-12-142709-weekly-audience（#56 補觸發 v4：Resend sandbox 註記過時四個月）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -710,6 +710,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **觸發 v1**：2026-05-13 manual 210341 — HEARTBEAT.md 745 行 super-thin 重組（哲宇「heartbeat 我也很少用 routine 取代了」一句話戳穿「載入但沒人用」的 dormant entropy）
 - **觸發 v2**：2026-05-16 manual 011113 — SQUEEZE-MODELS-MAX canonical 寫 Hy3 主力 + 28 個未測 free model，但 production 早已是 codex 61 + owl-alpha 80 + gpt-oss-120b:free 9（Hy3 已 5/12 退役、gpt-oss-120b 升 Tier 2 一週）— 哲宇「不確定現在仍有什麼免費模型在運作」callout 揭穿
 - **觸發 v3**：2026-07-05 dna-audit — 全審計揭五系統病（SSOT↔live 漂移 / 寫死數字 / 甦醒成本 / 蒸餾債 / 殼核不對稱），且 #56 於自身觸發檔上復發——audit 當天被 audit 的檔案再現 drift。根治走儀器化黃燈（counts-drift-lint / routine-sync-check v3 / boot 稅行）而非再修一輪數字 → [reports/five-disease-cure-2026-07-05.md](../../reports/five-disease-cure-2026-07-05.md)
+- **觸發 v4**：2026-07-12 weekly-audience — WEEKLY-REPORT canonical §Stage 5 寫「Resend sandbox 只能寄 verified email」，實測 `cheyuwu.com` 早在 2026-03-01 就驗證完成——外部服務的能力邊界升級了四個月，canonical 還在描述舊世界，BCC 廣播能力因此被誤判為做不到。查法一分鐘（GET /domains）；v4.2 已勘正 → [reports/weekly-report-audience-upgrade-2026-07-12.md](../../reports/weekly-report-audience-upgrade-2026-07-12.md)
 - **MANIFESTO 對應**：→ [§造橋鋪路](MANIFESTO.md)（routine 飛輪的成熟度本身需要 audit instrumentation 才能維持，不是「跑得穩 = 不用看」）
 - **操作**：→ 候選 `twmd-canonical-audit-quarterly` routine（每 90 天 cross-check pipeline canonical 描述的 model id / endpoint / tool path 跟 production signal）/ pipeline 寫作 SOP 加 `production_signal` frontmatter 欄位 / 觀察者 in-loop 仍是最後一關
 - **跨檔關聯**：[reports/routine-audit-2026-05-16 §Pattern 2 health-as-blind-spot](../../reports/routine-audit-2026-05-16.md) + [diary 2026-05-16-011113-manual](diary/2026-05-16-011113-manual.md) + [SQUEEZE-MODELS-MAX-PIPELINE v4.2](../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)
