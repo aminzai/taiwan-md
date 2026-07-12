@@ -354,6 +354,20 @@ export default defineConfig({
       '/ja/about/visualization-module-catalog/',
     '/ko/society/visualization-module-catalog':
       '/ko/about/visualization-module-catalog/',
+    // 2026-07-12: taiwan-slash-generation.md 的 en/ja/ko/es/fr 五語都被誤植
+    // Teach For Taiwan 內容（lang-sync 選 slug 時失誤，跟真正的斜槓世代譯本
+    // taiwan-slash-generation-multi-job-economy.md 撞名）。斜槓世代文章正因
+    // Taipei Times 專欄引用開始有外部連結，藉此順手把 TFT 文章遷到正確 slug，
+    // 5 lang redirects 讓已被索引的舊 URL 不 404。
+    '/en/society/taiwan-slash-generation': '/en/society/teach-for-taiwan/',
+    '/ja/society/taiwan-slash-generation': '/ja/society/teach-for-taiwan/',
+    '/ko/society/taiwan-slash-generation': '/ko/society/teach-for-taiwan/',
+    '/es/society/taiwan-slash-generation': '/es/society/teach-for-taiwan/',
+    '/fr/society/taiwan-slash-generation': '/fr/society/teach-for-taiwan/',
+    // fr 的斜槓世代譯本原本用不一致的 slug（slash-generation-new），改名對齊
+    // en/ja/ko/es 共用的 taiwan-slash-generation-multi-job-economy，1 lang redirect。
+    '/fr/society/slash-generation-new':
+      '/fr/society/taiwan-slash-generation-multi-job-economy/',
   },
   // 2026-05-04: build perf tuning. Page render is 93% of build time
   // (363s render / 391s wall, baseline 4,331 pages). concurrency 1 → 4

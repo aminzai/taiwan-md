@@ -162,7 +162,7 @@ This is the story of the education activist of this generation in Taiwan most wo
 
 ## Further Reading
 
-- [Teach for Taiwan (TFT)](/en/society/taiwan-slash-generation/) — TFT's complete organizational history, including the 3A framework, two-year program design, six-week training, 400+ alumni network, and Pingtung Educational Innovation Base. This article focuses on Liu An-ting as an individual; for TFT as an organization, see that article.
+- [Teach for Taiwan (TFT)](/en/society/teach-for-taiwan/) — TFT's complete organizational history, including the 3A framework, two-year program design, six-week training, 400+ alumni network, and Pingtung Educational Innovation Base. This article focuses on Liu An-ting as an individual; for TFT as an organization, see that article.
 - Rural Education in Taiwan (台灣偏鄉教育) — The primary arena of Liu An-ting's eleven years of work. TFT's concentric-circle framework (child/school/community/society) was collectively built by TFT, but Liu An-ting was one of the key early advocates.
 - [Lu Guan-wei](/en/people/lu-guan-wei-junyiacademy-founder/) — Liu An-ting's husband, chairman and CEO of Junyi Academy. The other half of the "transforming education power couple"; in 2013 both simultaneously pivoted from their respective elite tracks into the fight against educational inequality.
 - [Stanley Yen](/en/people/stanley-yen/) — Founder of the Commonweal Alliance Foundation and one of the key connections at TFT's founding. In 2013, Liu An-ting met Fang Hsin-chou and Li Ji-jen at a social enterprise camp organized by Stanley Yen — that camp was TFT's incubation space.

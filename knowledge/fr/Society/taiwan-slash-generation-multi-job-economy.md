@@ -2,7 +2,14 @@
 title: 'La génération slash à Taïwan — survivre avec plusieurs casquettes'
 description: "Quand un master ne couvre même pas le loyer d'un studio à Taipei, le cumul d'emplois n'est pas un choix : c'est une équation de survie"
 date: 2026-03-29
-tags: ['génération slash', 'économie des petits boulots', 'salaires', 'prix de l'immobilier', 'emploi des jeunes']
+tags:
+  [
+    'génération slash',
+    'économie des petits boulots',
+    'salaires',
+    "prix de l'immobilier",
+    'emploi des jeunes',
+  ]
 subcategory: 'Générations et société'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
@@ -10,11 +17,11 @@ category: 'Society'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
-translatedFrom: "Society/台灣斜槓世代.md"
+translatedFrom: 'Society/台灣斜槓世代.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bdd6bcaeb167f0b4'
 sourceBodyHash: 'sha256:cfe750f00aea3ad6'
-translatedAt: "2026-04-15T17:36:38+08:00"
+translatedAt: '2026-04-15T17:36:38+08:00'
 ---
 
 > Les jeunes Taïwanais de 25 à 35 ans traversent une expérience de survie que personne n'a officiellement déclarée ouverte. Le salaire médian plafonne à 38 000 TWD, tandis qu'un studio à Taipei se loue au minimum 14 000 TWD par mois. Un seul emploi à temps plein ne suffit plus — alors le soir on ouvre une appli de livraison, le week-end on prend des missions en freelance, et la nuit on monte des vidéos. Ce n'est pas une « tendance slash » : c'est une stratégie de survie dictée par une impasse structurelle.
