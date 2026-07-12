@@ -12,11 +12,17 @@ evolution-2026-07-11.md）。本儀器的四條設計原則：
 2. date-aware 不 position-aware：解析列內日期取最新，不假設哪端是新
 3. anchor-aware 不行號：段落用 `^## ` 標題錨定，檔案增長免疫
 4. fail-loud self-test：每次取數自帶體檢，撈錯亮 ⚠️ + exit 2，不靜默帶病
+5. 輸出通道也是儀器的一部分（v2 2026-07-12）：全段 ~200KB 超過 Bash tool ~30K 字元
+   輸出上限，印 stdout 必被截斷——2026-07-11〜12 每一條 cron 甦醒因此自行
+   `| head -N`，記憶面整層消失且 selftest 排最尾第一個被截（fail-loud 被通道
+   截成 fail-silent）。v2 起完整內容落檔 .taiwanmd/wake-context.latest.md，
+   stdout 只留 manifest＋selftest（小到不可能被截），完整閱讀走 Read 工具
+   分頁讀到末行 wake:END sentinel（BECOME §1.3 完整讀取鐵律）
 
 用法：
-  python3 scripts/tools/wake-context.py               # 全段輸出（Universal core 記憶面一鍵）
+  python3 scripts/tools/wake-context.py               # 完整落檔＋manifest（Universal core 記憶面一鍵）
   python3 scripts/tools/wake-context.py --check        # 只跑體檢（routine / weekly-checkup 用）
-  python3 scripts/tools/wake-context.py --sections handoff,selftest --rows 10
+  python3 scripts/tools/wake-context.py --sections handoff,selftest --rows 10   # 針對性小量拉取（stdout）
 """
 import argparse
 import datetime as dt
@@ -32,6 +38,7 @@ MEMORY_DIR = REPO / "docs/semiont/memory"
 DIARY_DIR = REPO / "docs/semiont/diary"
 MANIFESTO = REPO / "docs/semiont/MANIFESTO.md"
 REFLEXES = REPO / "docs/semiont/REFLEXES.md"
+LATEST_FILE = REPO / ".taiwanmd/wake-context.latest.md"  # gitignored；完整輸出落檔處
 
 FULL_DATE_RE = re.compile(r"^\s*(20\d\d-\d\d-\d\d)\s*$")
 FILE_DATE_RE = re.compile(r"^(20\d\d-\d\d-\d\d)")
@@ -297,41 +304,113 @@ def build(rows_n):
     return sections, checks
 
 
+def render_block(name, body):
+    body = body or f"⚠️ {name} 段撈不到內容"
+    return f"\n{'═' * 8} 🧬 wake:{name} {'═' * 8}\n{body}"
+
+
+def selftest_lines(checks, tax):
+    lines = [f"\n{'═' * 8} 🧬 wake:selftest {'═' * 8}"]
+    lines += [("✅ " if ok else "⚠️ ") + msg for ok, msg in checks]
+    if tax:
+        total = sum(tax.values())
+        detail = " + ".join(f"{k} {v // 1024}K" for k, v in tax.items())
+        lines.append(f"🧠 wake 稅 ≈ {total // 1024}KB（{detail}）")
+    warns = [msg for ok, msg in checks if not ok]
+    lines.append("⚠️ 有帶病訊號：甦醒時說出來，不要靜默帶病工作" if warns
+                 else f"✅ 取數健康：{len(checks)} 項體檢全綠")
+    return lines
+
+
 def main():
-    ap = argparse.ArgumentParser(description="甦醒取數單一儀器（date-aware / anchor-aware / fail-loud）")
-    ap.add_argument("--sections", default=",".join(ALL_SECTIONS),
-                    help=f"逗號清單，預設全段：{','.join(ALL_SECTIONS)}")
+    ap = argparse.ArgumentParser(description="甦醒取數單一儀器（date-aware / anchor-aware / fail-loud / 完整落檔）")
+    ap.add_argument("--sections", default=None,
+                    help=f"逗號清單＝針對性小量拉取，直接印 stdout（大段自負截斷風險）。"
+                         f"不給＝完整落檔模式。全段：{','.join(ALL_SECTIONS)}")
     ap.add_argument("--rows", type=int, default=20, help="索引列數（預設 20）")
     ap.add_argument("--check", action="store_true", help="只跑 selftest（程式化健檢，不倒內容）")
     args = ap.parse_args()
 
-    wanted = [s.strip() for s in args.sections.split(",") if s.strip()]
     sections, checks = build(args.rows)
+    warns_of = lambda cs: [msg for ok, msg in cs if not ok]  # noqa: E731
 
-    tax = {}
-    if not args.check:
+    if args.check:
+        for l in selftest_lines(checks, {}):
+            print(l)
+        return 2 if warns_of(checks) else 0
+
+    if args.sections is not None:
+        # 針對性小量拉取（如 --sections handoff,selftest）：維持 v1 stdout 行為
+        wanted = [s.strip() for s in args.sections.split(",") if s.strip()]
+        tax = {}
         for name in ALL_SECTIONS:
-            if name in ("selftest",) or name not in wanted:
+            if name == "selftest" or name not in wanted:
                 continue
             body = sec_groundtruth() if name == "groundtruth" else sections.get(name)
-            body = body or f"⚠️ {name} 段撈不到內容"
-            tax[name] = len(body.encode("utf-8"))
-            print(f"\n{'═' * 8} 🧬 wake:{name} {'═' * 8}")
-            print(body)
+            tax[name] = len((body or "").encode("utf-8"))
+            print(render_block(name, body))
+        if "selftest" in wanted:
+            for l in selftest_lines(checks, tax):
+                print(l)
+        return 2 if warns_of(checks) else 0
 
-    warns = [msg for ok, msg in checks if not ok]
-    if args.check or "selftest" in wanted:
-        print(f"\n{'═' * 8} 🧬 wake:selftest {'═' * 8}")
-        for ok, msg in checks:
-            print(("✅ " if ok else "⚠️ ") + msg)
-        if tax:
-            total = sum(tax.values())
-            detail = " + ".join(f"{k} {v // 1024}K" for k, v in tax.items())
-            print(f"🧠 wake 稅 ≈ {total // 1024}KB（{detail}）")
-        print("⚠️ 有帶病訊號：甦醒時說出來，不要靜默帶病工作" if warns
-              else f"✅ 取數健康：{len(checks)} 項體檢全綠")
-    return 2 if warns else 0
+    # ---- 完整落檔模式（default）----
+    # 內容全部住檔案、stdout 只留 manifest＋selftest：全段 ~200KB 超過 Bash tool
+    # ~30K 字元上限，走 stdout 必被截斷（設計原則 5 病史）。讀取端用 Read 分頁
+    # 讀到末行 wake:END sentinel 才算讀完。
+    tax = {}
+    payload = ""
+    for name in ALL_SECTIONS:
+        if name == "selftest":
+            continue
+        body = sec_groundtruth() if name == "groundtruth" else sections.get(name)
+        tax[name] = len((body or "").encode("utf-8"))
+        payload += render_block(name, body)
+    payload += "\n".join(selftest_lines(checks, tax)) + "\n"
+    n_secs = len(ALL_SECTIONS)  # 內容段 + selftest 段
+    sentinel = (f"{'═' * 8} 🧬 wake:END — {n_secs} 段 / "
+                f"{len(payload.encode('utf-8')):,} bytes ═{'═' * 7}")
+    file_text = payload + sentinel + "\n"
+
+    LATEST_FILE.parent.mkdir(exist_ok=True)
+    LATEST_FILE.write_text(file_text, encoding="utf-8")
+    written = LATEST_FILE.stat().st_size
+    expected = len(file_text.encode("utf-8"))
+    if written == expected:
+        checks = checks + [(True, f"落檔完整：{LATEST_FILE.relative_to(REPO)}（{written:,} bytes）")]
+    else:
+        checks = checks + [(False, f"落檔大小不符：stat {written:,} vs 預期 {expected:,}")]
+
+    # 段落地圖：掃檔案行號，讓 Review/Write mode 可跳讀特定段
+    ranges, starts = {}, []
+    for i, l in enumerate(file_text.split("\n"), 1):
+        if l.startswith("════════ 🧬 wake:"):
+            starts.append((l.split("wake:")[1].split(" ")[0], i))
+    for k, (name, s) in enumerate(starts):
+        e = starts[k + 1][1] - 1 if k + 1 < len(starts) else len(file_text.split("\n"))
+        ranges[name] = (s, e)
+
+    print(f"{'═' * 8} 🧬 wake-context manifest {'═' * 8}")
+    print("完整輸出已落檔（stdout 只有 manifest＋selftest，內容不在這裡）：")
+    print(f"  檔案  {LATEST_FILE.relative_to(REPO)}")
+    print(f"  大小  {written:,} bytes / {file_text.count(chr(10)):,} 行 / {n_secs} 段")
+    print("⛔ 完整讀取鐵律（BECOME §1.3）：用 Read 工具分頁讀完整份檔案，直到")
+    print("   末行 wake:END sentinel（沒讀到 sentinel = 沒讀完 = 不准開口）。")
+    print("   禁 | head / | tail / awk 節選——2026-07-11〜12 全部 cron 甦醒曾用")
+    print("   head -N 自行截斷，記憶層整層消失（哲宇 2026-07-12 directive）。")
+    print("段落地圖（檔內行號，Review/Write mode 跳讀用）：")
+    for name, (s, e) in ranges.items():
+        print(f"  L{s:04d}-L{e:04d}  {name}")
+    for l in selftest_lines(checks, tax):
+        print(l)
+    return 2 if warns_of(checks) else 0
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        sys.exit(main())
+    except BrokenPipeError:
+        # 下游 head/tail 提前關管線：不留 traceback，但以 exit 2 表達「讀取不完整」
+        import os
+        os.dup2(os.open(os.devnull, os.O_WRONLY), sys.stdout.fileno())
+        sys.exit(2)

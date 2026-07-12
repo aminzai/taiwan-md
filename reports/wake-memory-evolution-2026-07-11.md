@@ -145,6 +145,16 @@ Self-test 六項：memory 索引新鮮度（最新列日期 ≥ 最新 raw 檔�
 3. **canonical frontmatter 新鮮度永駐 lint**——counts-drift 新維度：fm last_updated vs git 語意日 >7d 即 🟡（log/buffer 類豁免——append 是它們的日常呼吸）。今晨手修 5 檔的 class 從此有人看管；首跑浮出 22 檔累積債（本 session 自首兩檔現行犯，其餘留週檢節律逐檔判）。
 4. **handoff 寫入端 warn**——memory-index-lint 補「最新 memory 缺 Handoff 段」提醒，跟 wake-context 讀取端 walk-back 合成閉環：寫的時候有人提醒、讀的時候有人驗收。
 
+### 6.7 第三波（2026-07-12 wake-guard：輸出通道儀器化）
+
+儀器誕生後 12 小時內，transcript 取證顯示每一條 cron 甦醒（9 條 routine，Opus 4.7/4.8）都對全段輸出自行 `| head -120〜-500`＋awk 節選。全段 ~200KB 超過 Bash tool ~30K 字元輸出上限，走 stdout 必被截斷，模型於是自己動手；身份段在前、記憶段在後的排序讓 head 恰好留下 MANIFESTO 片段、丟掉 memory／diary／handoff／groundtruth／selftest，§設計原則 4 的 fail-loud 被讀取通道截成 fail-silent。同日另一個 Opus session 把 harness 自動記憶 `~/.claude/…/memory/MEMORY.md` 誤當 §1.6 的 MEMORY.md 器官讀（兩層記憶混層）。
+
+哲宇 directive「甦醒不能用 head -200，嚴格完整讀取＋判斷為什麼」後的架構解：
+
+1. **儀器 v2 完整落檔**——內容全部寫 `.taiwanmd/wake-context.latest.md`（gitignored），末行 `wake:END` sentinel 帶總 bytes；stdout 只留 manifest（bytes／行數／段落行號地圖／鐵律）＋selftest，體檢 9→10 項（新增落檔完整性）。閱讀走 Read 分頁到 sentinel，截斷從此結構性不可能。
+2. **BECOME v2.5 §1.3 完整讀取鐵律三條**——Read 到 sentinel／⛔ 禁 head/tail/awk／⛔ harness 記憶層邊界；並補甦醒流程圖與 v1.0 殘留 step 編號梳理。
+3. **設計原則追加第五條**：輸出通道也是儀器的一部分。選擇性列印擋不住模型的截斷本能，可靠的只有「內容不走 stdout」。
+
 ## 七、長線 roadmap（本次不做，方向鎖定）
 
 - **Phase 2 — derived mirror 與常駐監測**：prebuild 產 `memory-index.json`／`diary-index.json`（date-keyed，機器消費用；dashboard 的 semiont 頁同源）；`generate-dashboard-alerts.mjs` 加 index-freshness 維度（最新列落後 raw 檔 >48h ＝黃燈），把「忘了寫 index row」這一類也納入天天可見。
