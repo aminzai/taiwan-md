@@ -1,7 +1,7 @@
 ---
 session: harvest-b35f1b3e
 type: memory (article-rewrite via harvest engine)
-wall_clock: 2026-07-12 22:32:38 +0800 → 2026-07-12 22:41:39 +0800 (00:09:01)
+wall_clock: 2026-07-12 22:32:38 +0800 → 2026-07-12 22:43:07 +0800 (00:10:29)
 spawn_profile: content-writing
 task_id: 2026-07-12-023-strict-rewrite-pick-next-P0-P1-inbox-article-2026-07-12-1432
 ---
@@ -19,6 +19,7 @@ task_id: 2026-07-12-023-strict-rewrite-pick-next-P0-P1-inbox-article-2026-07-12-
 - 最先順位的兩個 P0 都已經完成深度 prose ship，inbox status 沒跟著生命週期更新；只看優先序會違反 strict rewrite contract。
 - 政治人物文最難的不是加入反方段落，而是讓正式邦交下降與非正式關係增加、疫情前期成績與後期缺口、制度完成與未竟同時成立。
 - Pre-commit 抓到 Wikimedia 檔名底線在斜體 caption 被 Prettier 改成星號；將完整 URL 移到圖片來源區後通過。
+- 完整 Stage 4 profile 又抓到「見圖片來源」是爬蟲不可讀的指示語；改為自足 attribution 後 hard=0。
 
 ## Candidate lessons (LESSONS-INBOX distill)
 
