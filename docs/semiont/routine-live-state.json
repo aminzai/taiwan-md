@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-07-12T17:27:50+08:00",
-  "fetched_by": "2026-07-12-172122-manual",
+  "fetched_at": "2026-07-12T23:52:35+08:00",
+  "fetched_by": "2026-07-12-founder-lens",
   "source": "mcp scheduled-tasks list_scheduled_tasks",
   "note": "S1 根治第一塊磚（dna-audit 2026-07-05）：live scheduler 狀態 git 可見化。只含 twmd-/taiwanmd- 任務（私人 routine 已過濾），消費者 = routine-sync-check.py v3 三層比對。",
-  "enabled_count": 14,
+  "enabled_count": 15,
   "disabled_count": 4,
   "tasks": [
     {
       "taskId": "taiwanmd-routine-twmd-feedback-triage",
-      "description": "（每天 07:00 Asia/Taipei = 23:00 UTC）。把讀者站上回報轉成 GitHub issue 接 MAINTAINER 飛輪，並把 canonical 紀錄落進 git（主權層）。",
+      "description": "（每天 07:00 Asia/Taipei）。把讀者站上回報轉成 GitHub issue 接 MAINTAINER 飛輪，並把 canonical 紀錄落進 git（主權層）。",
       "cronExpression": "0 7 * * *",
       "enabled": true,
       "lastRunAt": "2026-07-11T23:06:16.544Z",
@@ -16,7 +16,7 @@
     },
     {
       "taskId": "twmd-babel-nightly",
-      "description": "TWMD babel (nightly) — night-chain 00:30 multi-lang sync 義務跑到 stale=0 (v3.0 inline + STRICT BECOME, main-direct, sonnet v2.9 降階：session 是 cascade orchestrator；連 2 cycle gate fail 升回 opus)",
+      "description": "TWMD babel (nightly) — night-chain 00:30 multi-lang sync 義務跑到 stale=0 (v3.0 inline + STRICT BECOME, main-direct, sonnet v2.9 降階)",
       "cronExpression": "30 0 * * *",
       "enabled": true,
       "lastRunAt": "2026-07-11T16:34:19.152Z",
@@ -35,8 +35,8 @@
       "description": "TWMD data refresh (pm) — night-chain 23:00 dashboard 14-step sync (v3.0 inline + STRICT BECOME, main-direct)",
       "cronExpression": "0 23 * * *",
       "enabled": true,
-      "lastRunAt": "2026-07-11T15:07:49.751Z",
-      "nextRunAt": "2026-07-12T15:06:50.000Z"
+      "lastRunAt": "2026-07-12T15:07:45.366Z",
+      "nextRunAt": "2026-07-13T15:06:50.000Z"
     },
     {
       "taskId": "twmd-distill-weekly",
@@ -48,11 +48,19 @@
     },
     {
       "taskId": "twmd-embeddings-nightly",
-      "description": "TWMD embeddings (nightly @ 05:00) — bge-m3 semantic index rebuild → src/data/related (reader related-articles) + public/api/rag (RAG vectors). Local mac-m4max primary + fleet fallback (v1.1 2026-07-05). Sovereignty-preserving, graceful-skip if embed host down. Canonical EMBEDDING-PIPELINE, thin shell, sonnet.",
+      "description": "TWMD embeddings (nightly @ 05:00) — bge-m3 semantic index rebuild. Canonical EMBEDDING-PIPELINE, thin shell, sonnet.",
       "cronExpression": "0 5 * * *",
       "enabled": true,
       "lastRunAt": "2026-07-11T21:06:21.690Z",
       "nextRunAt": "2026-07-12T21:05:29.000Z"
+    },
+    {
+      "taskId": "twmd-founder-lens-weekly",
+      "description": "TWMD founder lens (sat @ 22:00) — creator's-lens weekly deep pass, the flywheel's first routine that deliberately leaves the skull: render + cold-read the live product + one off-repo signal + meaning/reframe → 哲宇-voice proposals routed to evolution-roadmap/OBSERVER-QUEUE/ARTICLE-INBOX. Same-DNA honest (#65f), never crosses §Reserved four. Canonical FOUNDER-LENS-PIPELINE, opus, main-direct.",
+      "cronExpression": "0 22 * * 6",
+      "enabled": true,
+      "lastRunAt": null,
+      "nextRunAt": "2026-07-18T14:02:51.000Z"
     },
     {
       "taskId": "twmd-maintainer-daily",
@@ -72,7 +80,7 @@
     },
     {
       "taskId": "twmd-music-media-audit-weekly",
-      "description": "[DISABLED 2026-05-25] TWMD music media audit (weekly) — Sat 10:00 slot freed for twmd-spore-publish-daily. Skill + script + tool 保留供 manual /twmd-music-media-audit invocation.",
+      "description": "[DISABLED 2026-05-25] TWMD music media audit (weekly) — Sat 10:00 slot freed. Skill + script + tool 保留供 manual invocation.",
       "cronExpression": "0 10 * * 6",
       "enabled": false,
       "lastRunAt": "2026-05-23T02:09:23.927Z",
@@ -91,16 +99,16 @@
       "description": "TWMD rewrite (daily) — 19:00 full-cycle, read REWRITE-PIPELINE + execute (極簡薄殼 v4.0)",
       "cronExpression": "0 19 * * *",
       "enabled": true,
-      "lastRunAt": "2026-07-11T11:07:16.409Z",
-      "nextRunAt": "2026-07-12T11:06:17.000Z"
+      "lastRunAt": "2026-07-12T11:07:11.856Z",
+      "nextRunAt": "2026-07-13T11:06:17.000Z"
     },
     {
       "taskId": "twmd-routine-audit-weekly",
       "description": "TWMD routine audit (sun) — Sunday 21:00 cross-routine 7-day pattern detection + 4 lens framework + LESSONS vc 累積 (v3.0 inline + STRICT BECOME, main-direct, opus)",
       "cronExpression": "0 21 * * 0",
       "enabled": true,
-      "lastRunAt": "2026-07-05T13:07:31.891Z",
-      "nextRunAt": "2026-07-12T13:06:41.000Z"
+      "lastRunAt": "2026-07-12T13:07:36.159Z",
+      "nextRunAt": "2026-07-19T13:06:41.000Z"
     },
     {
       "taskId": "twmd-self-evolve-weekly",
@@ -120,7 +128,7 @@
     },
     {
       "taskId": "twmd-spore-pick-daily",
-      "description": "TWMD spore pick (daily 08:00) — propose 3 candidates → SPORE-INBOX + HG10 multi-dim gate。[🧪 2026-06-12 哲宇拍板重開實驗：5/28 因自動發文未過審+事實查核不嚴被關；現 REWRITE Stage 3.5/3.6 + lastVerified gate + SPORE-VERIFY 17 gate 已 wired。觀察條款見 ROUTINE.md v2.10]",
+      "description": "TWMD spore pick (daily 08:00) — propose 3 candidates → SPORE-INBOX + HG10 multi-dim gate. [🧪 2026-06-12 重開實驗，觀察條款見 ROUTINE.md v2.10]",
       "cronExpression": "0 8 * * *",
       "enabled": false,
       "lastRunAt": "2026-06-14T00:02:43.678Z",
@@ -128,7 +136,7 @@
     },
     {
       "taskId": "twmd-spore-publish-daily",
-      "description": "TWMD spore publish (daily 17:30) — SPORE-INBOX 挑 1 條過 5 hard gate（含 lastVerified≤90d 事實查核代理）→ 自動 ship 雙平台 + 復盤。[🧪 2026-06-12 哲宇拍板重開實驗：連 3 ship cycle 需 0 dup / 0 事實 callout，任一爆即 pause 回 OBSERVER-QUEUE。觀察條款見 ROUTINE.md v2.10]",
+      "description": "TWMD spore publish (daily 17:30) — SPORE-INBOX 挑 1 條過 5 hard gate → 自動 ship 雙平台 + 復盤. [🧪 2026-06-12 重開實驗，觀察條款見 ROUTINE.md v2.10]",
       "cronExpression": "30 17 * * *",
       "enabled": false,
       "lastRunAt": "2026-06-14T09:34:29.054Z",
@@ -136,7 +144,7 @@
     },
     {
       "taskId": "twmd-supporters-weekly",
-      "description": "TWMD supporters sync (mon @ 01:00) — Portaly donation notification emails (Gmail) → transactions.json SSOT → two privacy-partitioned derived views for /about#sponsors. Canonical SUPPORTERS-PIPELINE, thin shell, sonnet.",
+      "description": "TWMD supporters sync (mon @ 01:00) — Portaly donation notification emails (Gmail) → transactions.json SSOT → two privacy-partitioned derived views. Canonical SUPPORTERS-PIPELINE, thin shell, sonnet.",
       "cronExpression": "0 1 * * 1",
       "enabled": true,
       "lastRunAt": null,

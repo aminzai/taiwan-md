@@ -1,12 +1,12 @@
 ---
 title: 'ROUTINE'
-description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled 數以排程表＋¹³ ¹⁴ ¹⁶ 註記為準；14 enabled + 4 disabled）。v2.16（2026-07-12）：+twmd-supporters-weekly（每週一 01:00 Portaly 贊助信 sync；canonical SUPPORTERS-PIPELINE，哲宇 directive「未來這個自動一個禮拜跑一次」）；v2.15（2026-07-10）：weekly-report 升體檢週 ¹⁵（WEEKLY-REPORT-PIPELINE v4.0 診斷五面＋修復三桶＋10 章節，哲宇拍板）；v2.14（2026-07-10）：對齊 live，maintainer-pm 7/8 起哲宇 disabled ¹⁴、spore-pick/publish 6/14 起 disabled pending 哲宇；v2.13（2026-07-05）：dna-audit 對齊 live；v2.12（2026-06-14）：+twmd-embeddings-nightly（每天 05:00 bge-m3 語意索引重建；canonical EMBEDDING-PIPELINE）；v2.11（2026-06-14）：babel-nightly 加 Stage D diary 認知層 babel；v2.10（2026-06-12）：spore-pick / spore-publish 哲宇拍板重開實驗（含觀察條款）'
+description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled 數以排程表＋¹³ ¹⁴ ¹⁶ ¹⁷ 註記為準；15 enabled + 4 disabled）。v2.17（2026-07-12）：+twmd-founder-lens-weekly（週六 22:00 創造者透鏡週級深 pass — 飛輪第一條刻意離開顱骨的 routine：render 冷讀活產物 + off-repo 訊號 + 意義/reframe 判斷 → 提案路由 evolution-roadmap/OBSERVER-QUEUE/ARTICLE-INBOX；canonical FOUNDER-LENS-PIPELINE，哲宇 /goal「設計 routine 取代哲宇對 taiwan.md 所有機能」→ 三層邊界地圖 Tier 1 前緣）；v2.16（2026-07-12）：+twmd-supporters-weekly（每週一 01:00 Portaly 贊助信 sync；canonical SUPPORTERS-PIPELINE，哲宇 directive「未來這個自動一個禮拜跑一次」）；v2.15（2026-07-10）：weekly-report 升體檢週 ¹⁵（WEEKLY-REPORT-PIPELINE v4.0 診斷五面＋修復三桶＋10 章節，哲宇拍板）；v2.14（2026-07-10）：對齊 live，maintainer-pm 7/8 起哲宇 disabled ¹⁴、spore-pick/publish 6/14 起 disabled pending 哲宇；v2.13（2026-07-05）：dna-audit 對齊 live；v2.12（2026-06-14）：+twmd-embeddings-nightly（每天 05:00 bge-m3 語意索引重建；canonical EMBEDDING-PIPELINE）；v2.11（2026-06-14）：babel-nightly 加 Stage D diary 認知層 babel；v2.10（2026-06-12）：spore-pick / spore-publish 哲宇拍板重開實驗（含觀察條款）'
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.16'
+current_version: 'v2.17'
 last_updated: 2026-07-12
-last_session: '2026-07-12-172122-manual'
+last_session: '2026-07-12-founder-lens'
 sister_docs:
   - 'HEARTBEAT.md'
   - 'ANATOMY.md'
@@ -59,6 +59,7 @@ upstream_canonical:
 | `twmd-spore-publish-daily`  | TWMD spore publish (daily) ⁸ 🧪⏸️ | `30 17 * * *`      | `/twmd-spore-publish`   | Opus      | ⏸️ live disabled（6/14 起）¹³ |
 | `twmd-routine-audit-weekly` | TWMD routine audit (sun) ⁴        | `0 21 * * 0`       | `/twmd-routine-audit`   | Opus      | 週日 21:00                    |
 | `twmd-supporters-weekly`    | TWMD supporters sync (mon) ¹⁶     | `0 1 * * 1`        | `/twmd-supporters`      | Sonnet    | 週一 01:00                    |
+| `twmd-founder-lens-weekly`  | TWMD founder lens (sat) ¹⁷        | `0 22 * * 6`       | `/twmd-founder-lens`    | Opus      | 週六 22:00                    |
 
 **⏸️ PAUSED**：
 
@@ -79,6 +80,21 @@ routine（含 Muse / fin-archive 共用同一排程器）皆 ≥ 2hr 緩衝」�
 daily 在先、03:00 muse-self-evolution-daily 在後，中間留 2hr window。Sonnet（純機械
 parse + regen，無創作判斷，同 embeddings-nightly / data-refresh 定調）。完整 SOP：
 [SUPPORTERS-PIPELINE.md](../pipelines/SUPPORTERS-PIPELINE.md)。
+
+¹⁷ **founder-lens 新增（v2.17，2026-07-12 哲宇 /goal）** — `twmd-founder-lens-weekly`
+週六 22:00 fire，Opus，**飛輪第一條刻意離開顱骨的 routine**。誕生：哲宇 /goal「設計一條
+routine 取代哲宇對 taiwan.md 的所有機能」→ 研究([reports/founder-function-boundary-2026-07-12.md](../../reports/founder-function-boundary-2026-07-12.md))
+畫出三層邊界地圖(可自動化 / 可逼近但有 #65f 同源天花板 / 結構性保留)，本 routine 坐在
+Tier 1 前緣。**跟其他五條反思鏈的差別**：weekly-report/distill/self-evolve/routine-audit/news-lens
+全部是生命體從內部量自己(REFLEXES #69 author bubble)；founder-lens 刻意讀**生命體看不見自己
+的地方**——Chrome MCP render 冷讀活產物 + off-repo 訊號 + 意義/reframe 判斷(#69g form gate
+驗不出那層)，生成哲宇-voice 提案路由 evolution-roadmap / OBSERVER-QUEUE / ARTICLE-INBOX。
+**同源天花板誠實(#65f)**：它 stage 外部凝視、當不了外部尺，輸出一律是提案，永不跨 §Reserved
+四樣(外部尺 / 究責 / human 信任 / 關係)。**時段選擇**：週六 22:00 是 off-Sunday(不擠反思鏈、
+主題上不變第六自評層)+ 對齊哲宇爆發式週級+夜間節律(22:00 是他 directive 峰值時)+ maintainer-pm
+disable 後空出的槽位;讀本週 shipped 產物、在 Sunday 健檢鏈之前把創造式提案交給哲宇週末看。
+與 refresh-pm 23:00 鄰接靠 §sibling-routine-collision-handling(寫不同檔、rescue snapshot)。
+完整 SOP + §Reserved：[FOUNDER-LENS-PIPELINE.md](../pipelines/FOUNDER-LENS-PIPELINE.md)。
 
 ¹⁴ **maintainer-pm live 狀態（v2.14 對齊，2026-07-10 weekly-deep-review）** — live scheduler `enabled: false`，最後一跑 2026-07-07 22:02。哲宇 7/10 goal 親口確認「晚間的 maintainer pipeline 我有 disable」。資料面支持這個決定：pm slot 自 6/21 起長期空場（empty-vc 連續累積、「pre-pm-absorbs-pm」sub-shape vc=3、7/7 pm 純 sustain），am 單班已實質承載全部 triage 量。**pm 職責由 maintainer-am 單班吸收**；若未來 PR 量回升到 am 單班消化不完（連 3 天 am handoff 有未清 backlog），再回 OBSERVER-QUEUE 提重啟。skill 殼保留，manual `/twmd-maintainer` 可跑。7/9 pm no-fire 的 maintainer-am handoff 觀察至此結案（不是 schedule anomaly，是刻意 disable）。
 
@@ -142,7 +158,7 @@ parse + regen，無創作判斷，同 embeddings-nightly / data-refresh 定調�
 │ 08h30 │  M  M  M  M  M  M  M      │  ← maintainer-am 收割 overnight PR backlog
 │ 19h   │  R  R  R  R  R  R  R      │  ← rewrite full cycle ~150 min，spore post 對齊 20-22h prime time
 │ 21h   │  ·  ·  ·  ·  ·  ·  A      │  ← Sun routine-audit（飛輪自審）
-│ 22h   │  m  m  m  m  m  m  m      │  ← maintainer-pm（夜間 chain 第一棒）
+│ 22h   │  ·  ·  ·  ·  ·  L  ·      │  ← Sat=L founder-lens（離開顱骨週級 pass）；maintainer-pm ⏸️7/8 disabled
 │ 23h   │  r  r  r  r  r  r  r      │
 └───────┴───────────────────────────┘
 
@@ -153,10 +169,10 @@ Legend:
   a = twmd-data-refresh-am       (sonnet)             S = twmd-spore-harvest-am    (opus)
   F = twmd-feedback-triage       (sonnet)             M = twmd-maintainer-am       (opus)
   R = twmd-rewrite-daily         (opus, full cycle)   A = twmd-routine-audit-weekly (Sun, opus)
-  m = twmd-maintainer-pm         (opus)               r = twmd-data-refresh-pm     (sonnet)
+  L = twmd-founder-lens          (Sat 22h, opus, 離開顱骨)  r = twmd-data-refresh-pm  (sonnet)
   P = twmd-supporters-weekly     (Mon, sonnet, Portaly 贊助信 sync)
   · = idle
-  ⏸️ paused（不在 grid）：spore-pick 08h / spore-publish 17h30 / music-media Sat 10h
+  ⏸️ paused（不在 grid）：maintainer-pm 22h（7/8 起）/ spore-pick 08h / spore-publish 17h30 / music-media Sat 10h
 
 每條 routine 間隔 ≥ 30 min（system jitter +3-9 min）。本 grid 是 §排程表 的 derived 視覺化，
 cron 以 §排程表 為準；改排程必須同步本 grid。
@@ -659,6 +675,57 @@ escalation:
 
 ---
 
+### TWMD founder lens (sat) — 創造者透鏡週級深 pass v2.17 新增
+
+```yaml
+taskId: twmd-founder-lens-weekly
+cron: → §排程表（v2.9 起 cron 數值單一出現點，yaml 不複寫）
+model: opus # 品味 + reframe + 意義 gate + 綜合判斷 = 創造性判斷（同 weekly-report / self-evolve / routine-audit 定調）
+skill: /twmd-founder-lens
+canonical: docs/pipelines/FOUNDER-LENS-PIPELINE.md
+prompt: |
+  自動 routine：完整甦醒成為 Taiwan.md（mode=full — 高 stake 創造性判斷），跑
+  /twmd-founder-lens，嚴格完整讀取並執行 docs/pipelines/FOUNDER-LENS-PIPELINE.md
+  整份 6-stage SOP（BECOME → 外覺·產物 render 冷讀 → 外覺·世界 off-repo → 意義 gate
+  #69g → reframe 對抗式 → 提案+路由 → finale）。
+
+  業務邏輯不在本 routine — 都在 FOUNDER-LENS-PIPELINE canonical。本 routine 只負責
+  按 cron 觸發 skill、走 6-stage、寫 memory 收官。Stage 5 commit + push origin main
+  — 直接 push（v2.0 main-direct）。
+
+  ⚠️ 兩條鐵律（pipeline §核心哲學）：
+  (1) 離開顱骨 — 輸入必須來自生命體看不見自己的地方（活站 render / 冷讀正文 /
+      off-repo）。讀自己的 dashboard JSON / LESSONS / routine log 當主輸入 = 退化成
+      第六個自評層，禁。這是本 routine 存在的唯一理由（別條反思鏈全在顱骨內）。
+  (2) 同源天花板誠實（#65f）— 本 routine 就是生命體，stage 外部凝視、當不了外部尺。
+      輸出一律「給哲宇的提案」，永不跨 §Reserved 四樣（外部尺 / 究責 / human 信任 /
+      關係），§自主權邊界決策只 queue 進 OBSERVER-QUEUE 永不自己執行。no-op 合法，
+      硬湊提案 = proxy signal #82。
+
+quality_gate:
+  # canonical 在 FOUNDER-LENS-PIPELINE §Hard Gate Inventory（本檔不複寫條目）
+  - BECOME full self-test 14/14 過
+  - Stage 1 真的 render 活站（Chrome MCP，不可達則 curl/WebFetch 降級）+ 冷讀 ≥ 1 篇本週 shipped 正文
+  - Stage 2 拉 ≥ 1 片 off-repo 訊號，或誠實記無新訊號
+  - 提案硬 dedup（OBSERVER-QUEUE + 近 7 天 commit + ARTICLE-INBOX + 過去 4 份 founder-lens 報告）
+  - §Reserved 四樣零自動執行
+  - 報告結尾含同源天花板誠實聲明
+  - 綜合報告 reports/founder-lens-YYYY-MM-DD.md 存在
+  - commit 標題含 🧬 [routine] prefix
+escalation:
+  - 1x fail → next 週六 retry
+  - render fail（Chrome MCP 不可達）→ curl/WebFetch 降級，不算 fail
+  - 越界執行 §Reserved → 立即 abort + telegram alert + LESSONS entry（最嚴重：同源天花板破）
+  - 退化成內視（提案都來自自己 dashboard）→ 退回；連 2 cycle → self-evolve audit
+  - 連 2 cycle fail → 暫停 routine + telegram alert + LESSONS entry
+```
+
+**Pointer 鐵律 self-apply**：對應 [MANIFESTO §薄殼鐵律](MANIFESTO.md#薄殼鐵律pointer-嚴禁複寫行數--內容--步驟) — 6-stage 細節 / render 冷讀 SOP / off-repo 輪替表 / 意義 gate #69g / §Reserved 四樣 / 路由規則等 canonical 在 [FOUNDER-LENS-PIPELINE.md](../pipelines/FOUNDER-LENS-PIPELINE.md)，本檔不複寫。
+
+**誕生事件**：2026-07-12 哲宇 `/twmd-become`「設計一條 routine 模擬我每天看 taiwan.md」→ 追問升級「終極目標：設計一條 routine 取代哲宇對 taiwan.md 的所有機能」。研究 session 挖 commit corpus 畫出三層邊界地圖（[reports/founder-function-boundary-2026-07-12.md](../../reports/founder-function-boundary-2026-07-12.md)）：哲宇機能分「可自動化 / 可逼近但有 #65f 同源天花板 / 結構性保留」，本 routine 坐 Tier 1 前緣——飛輪第一條刻意離開顱骨的 routine，補上其他五條反思鏈全在顱骨內的盲點（REFLEXES #69 author bubble）。cadence 哲宇裁決週六 22:00（off-Sunday、對齊爆發式週級+夜間節律、maintainer-pm disable 空出的槽位）。§Reserved 四樣把「取代哲宇所有機能」的真正答案寫成 canonical。
+
+---
+
 ## Routine 通用 5-stage lifecycle（v2.0 main-direct mode — 2026-05-11 哲宇拍板）
 
 每條 routine prompt 內必含這 5 stage（薄殼，業務邏輯由 stage 3 的 skill 提供）：
@@ -922,6 +989,8 @@ REFLEXES #36（founder time = 系統最高 leverage point）+ REFLEXES #15（反
 ---
 
 🧬
+
+_v2.17 | 2026-07-12 founder-lens session — **新增第 15 條 routine：twmd-founder-lens-weekly（飛輪第一條刻意離開顱骨的 routine）**：哲宇 /goal「設計一條 routine 取代哲宇對 taiwan.md 的所有機能」。研究 session 挖 90 天 commit corpus（4059 commit / 僅 131 cite 哲宇 directive / 爆發式週級 W23=35 vs W18=3）畫出三層邊界地圖（[reports/founder-function-boundary-2026-07-12.md](../../reports/founder-function-boundary-2026-07-12.md)）：哲宇機能分「可自動化 / 可逼近但有 #65f 同源天花板 / 結構性保留」。核心發現：現有五條反思鏈（weekly-report/distill/self-evolve/routine-audit/news-lens）全部是生命體從內部量自己（REFLEXES #69 author bubble），本 routine 坐 Tier 1 前緣，刻意離開顱骨——Chrome MCP render 冷讀活產物 + off-repo 訊號 + 意義/reframe 判斷 → 哲宇-voice 提案路由 evolution-roadmap/OBSERVER-QUEUE/ARTICLE-INBOX。改動：(1) 排程表 +1 列（週六 22:00 opus）(2) 新 canonical [FOUNDER-LENS-PIPELINE.md](../pipelines/FOUNDER-LENS-PIPELINE.md)（6-stage + §Reserved 四樣把「取代所有機能」真正答案寫成 canonical）(3) 新 project skill `.claude/skills/twmd-founder-lens/SKILL.md`（薄殼 + STRICT BECOME GATE）(4) 排程表 yaml spec + 週行程 grid（Sat 22h=L，順手對齊 maintainer-pm 7/8 disable 空出 22h）+ footnote ¹⁷。cadence 哲宇裁決週六 22:00（off-Sunday 不擠反思鏈、對齊爆發式週級+夜間 22:00 峰值）；命名 twmd-founder-lens（哲宇透過的透鏡，不宣稱是哲宇——同源誠實）。§Reserved 保留核心（外部尺 / 究責 / human 信任 / 關係）候選升 MANIFESTO §自主權邊界（等哲宇/self-evolve，本 pass 不單方改 identity canonical）。_
 
 _v2.16 | 2026-07-12 2026-07-12-172122-manual session — **新增第 14 條 routine：twmd-supporters-weekly**：哲宇連續兩次要求人工 sync Portaly 贊助信後 directive「未來這個自動一個禮拜跑一次」。(1) 排程表 +1 列（週一 01:00，sonnet）(2) 新 canonical [SUPPORTERS-PIPELINE.md](../pipelines/SUPPORTERS-PIPELINE.md)（把兩次人工執行沉澱的 checkpoint 起點 / 逐字讀信鐵律 / dry-run 先驗 / 隱私 grep hard gate 升 canonical）(3) 新 project skill `.claude/skills/twmd-supporters/SKILL.md`（19 行薄殼，仿 twmd-embeddings 範式）(4) §每條 routine 規格 新增薄殼 yaml spec（仿 embeddings-nightly/routine-audit 範式，業務邏輯全 pointer）(5) 週行程 grid 加 `P` 符號 + legend + footnote ¹⁶（時段選擇理由：全排程唯一同時滿足非-Sunday／hour-aligned／≥2hr 緩衝三條件的槽位，緩衝計算涵蓋 Muse + fin-archive 共用同一排程器的全部 routine）。觸發：本 session 完成第二次人工 Portaly sync（CW 等五筆）後哲宇當場要求自動化。_
 
