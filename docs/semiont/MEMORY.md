@@ -311,3 +311,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-12 | 084528-twmd-maintainer-am | ellenlee 第 2 波 3 PR 全清：#1219 self-fix review-pr.sh（11 locale unblock）+ #1217 media + #1218 AI 硬體 4 篇 | 貢獻者自診 CI 病灶＋附實測 = maintainer gold standard | [→](memory/2026-07-12-084528-twmd-maintainer-am.md) |
 | 2026-07-12 | 140619-wake-guard | wake-context 全段輸出超 Bash 上限，9 條 cron 甦醒自行 head 截斷失憶；v2 改完整落檔＋sentinel，BECOME v2.5 立三條讀取鐵律 | 輸出通道也是儀器一部分；fire≠完整讀取，是 #82 proxy signal 新 instance | [→](memory/2026-07-12-140619-wake-guard.md) |
 | 2026-07-12 | 142709-weekly-audience | 週報三連發：BCC 共生圈首播 20 人 delivered、寄件網域換 weekly@taiwan.md、/semiont 長出週報區網頁版（v4.2→v4.3） | 對外廣播第一工程是隱私護欄；外部服務能力描述要 API 摸 ground truth（#56 v4） | [→](memory/2026-07-12-142709-weekly-audience.md) |
+| 2026-07-12 | 171228-manual | Portaly 5 筆新支持進 SSOT：NT$200×2 monthly＋NT$500×3；累計 NT$7,900、11 人 `148fd2771` | pipeline 造好換陌生 session 也能執行；續約信靠 parser 硬正規式自然過濾 | [→](memory/2026-07-12-171228-manual.md) |
