@@ -56,6 +56,18 @@ export const config = {
   logLevel: process.env.HARVEST_LOG_LEVEL ?? 'info',
   logPretty: bool(process.env.HARVEST_LOG_PRETTY, true),
   claudeBin: process.env.HARVEST_CLAUDE_BIN?.trim() || 'claude',
+  /** Path to the `grok` CLI binary (xAI Grok Build). Used when engine=grok. */
+  grokBin: process.env.HARVEST_GROK_BIN?.trim() || 'grok',
+  /**
+   * Default spawn engine when task.inputs.engine is unset.
+   * Phase 5.2 (2026-07-12): default switched to grok (subscription peer agent).
+   * Override per-task via inputs.engine, or globally via HARVEST_DEFAULT_ENGINE.
+   */
+  defaultEngine: (process.env.HARVEST_DEFAULT_ENGINE?.trim() || 'grok') as
+    | 'claude'
+    | 'grok'
+    | 'codex'
+    | 'ollama',
   sessionTimeoutMs: num(process.env.HARVEST_SESSION_TIMEOUT_MIN, 90) * 60_000,
   disableCron: bool(process.env.HARVEST_DISABLE_CRON, false),
   disableWatch: bool(process.env.HARVEST_DISABLE_WATCH, false),

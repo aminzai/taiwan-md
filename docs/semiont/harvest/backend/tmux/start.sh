@@ -32,11 +32,20 @@ if tmux has-session -t "$SESSION" 2>/dev/null; then
   exit 0
 fi
 
-# Sanity: claude must be authed via subscription. If not, abort with hint.
+# Default engine is grok (Phase 5.2). Claude auth is optional but still useful
+# as a fallback peer engine.
+GROK_BIN="${HARVEST_GROK_BIN:-$HOME/.grok/bin/grok}"
+if [[ -x "$GROK_BIN" ]]; then
+  echo "✦ grok CLI found: $GROK_BIN (default engine)"
+else
+  echo "⚠️  grok CLI not found at $GROK_BIN — default engine=grok spawns will fail"
+fi
+
 AUTH_STATE=$(~/.bun/bin/claude auth status 2>/dev/null | grep loggedIn || true)
 if [[ "$AUTH_STATE" != *"true"* ]]; then
-  echo "❌ claude CLI not authenticated. Run: ~/.bun/bin/claude setup-token"
-  exit 1
+  echo "⚠️  claude CLI not authenticated (fallback engine). Run: ~/.bun/bin/claude setup-token"
+else
+  echo "🤖 claude CLI authenticated (fallback engine available)"
 fi
 
 # Confirm port 4319 free (only check LISTEN — ignore stray outbound CLOSED sockets)
@@ -52,9 +61,10 @@ tmux new-session -d -s "$SESSION" -c "$BACKEND_DIR"
 # Set logging via pipe-pane (tmux captures stdout/stderr to file)
 tmux pipe-pane -t "$SESSION" "cat >> '$LOG_DIR/tmux.log'"
 
-# Send the run command
+# Send the run command (PATH includes bun + grok)
 tmux send-keys -t "$SESSION" "echo '🧬 Taiwan.md Harvest — tmux start at $(date)'" C-m
-tmux send-keys -t "$SESSION" "export HARVEST_LOG_PRETTY=true HARVEST_LOG_LEVEL=info HARVEST_AUTO_COMMIT_REPORT=true" C-m
+tmux send-keys -t "$SESSION" "export PATH=\"\$HOME/.bun/bin:\$HOME/.grok/bin:\$PATH\"" C-m
+tmux send-keys -t "$SESSION" "export HARVEST_LOG_PRETTY=true HARVEST_LOG_LEVEL=info HARVEST_AUTO_COMMIT_REPORT=true HARVEST_DEFAULT_ENGINE=grok HARVEST_GROK_BIN=\"$GROK_BIN\"" C-m
 tmux send-keys -t "$SESSION" "bun run src/server.ts" C-m
 
 # Wait briefly + verify
@@ -62,7 +72,7 @@ sleep 3
 if curl -s http://localhost:4319/api/health >/dev/null 2>&1; then
   echo "✅ Harvest backend up in tmux session '$SESSION'."
   echo "   📡 http://localhost:4319/api/health"
-  echo "   🔑 inheriting your shell's keychain access — spawned claude will auth via your subscription"
+  echo "   ✦ default engine: grok ($GROK_BIN)"
   echo "   📋 attach: tmux attach -t $SESSION (ctrl+b d to detach)"
   echo "   📋 logs:   tail -f $LOG_DIR/tmux.log"
   echo "   📋 stop:   bash $(dirname "$0")/stop.sh"

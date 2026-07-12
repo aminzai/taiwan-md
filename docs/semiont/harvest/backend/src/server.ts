@@ -96,7 +96,12 @@ startHealthMonitor();
 
 app.use('*', async (c, next) => {
   const origin = c.req.header('origin');
-  if (origin?.startsWith('http://localhost:')) {
+  // UI may be opened as localhost OR 127.0.0.1 (astro.config host: 127.0.0.1).
+  // Browsers treat them as different origins — allow both local forms only.
+  const localOrigin =
+    origin?.startsWith('http://localhost:') ||
+    origin?.startsWith('http://127.0.0.1:');
+  if (origin && localOrigin) {
     c.header('Access-Control-Allow-Origin', origin);
     c.header(
       'Access-Control-Allow-Methods',

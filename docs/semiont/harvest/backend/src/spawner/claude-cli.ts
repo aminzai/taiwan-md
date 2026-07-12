@@ -42,20 +42,22 @@ import { recordSpawnedSession } from '../scheduler/session-counter.ts';
 /**
  * Default model + engine per task type.
  *
- * Phase 5 (2026-04-29): Cheyu's policy — DEFAULT EVERYTHING TO CLAUDE OPUS.
- * Only simple/mechanical tasks get cheaper alternatives (Sonnet) or
- * external engines (codex/ollama). Override via task.inputs.{model,engine}.
+ * Phase 5.2 (2026-07-12): DEFAULT ENGINE = grok (xAI Grok Build peer agent).
+ * Override via task.inputs.{model,engine} or HARVEST_DEFAULT_ENGINE.
  *
- *   tier 1 — simple / mechanical (codex / ollama eligible after testing):
+ *   peer agents (claude / grok): all task tiers
+ *   codex / ollama: simple tier only (lang-sync / data-refresh / …)
+ *
+ *   tier 1 — simple / mechanical:
  *     data-refresh / format-check / status-report
- *   tier 2 — translation (Sonnet OK; codex/ollama eligible after testing):
+ *   tier 2 — translation:
  *     lang-sync-refresh / lang-sync-translate
- *   tier 3 — heavy creation / decision (always Opus claude):
+ *   tier 3 — heavy creation / decision:
  *     article-rewrite / article-evolve / article-new / pr-review /
  *     issue-handle / spore-publish / contributor-thank-you / self-diagnose
  */
 /**
- * Default model lookup is engine-aware: claude / codex / ollama have
+ * Default model lookup is engine-aware: claude / codex / ollama / grok have
  * different model namespaces. Picking sonnet for codex would be a 400.
  */
 const DEFAULT_MODEL_BY_ENGINE_TYPE: Record<string, Record<string, string>> = {
@@ -95,12 +97,34 @@ const DEFAULT_MODEL_BY_ENGINE_TYPE: Record<string, Record<string, string>> = {
     'format-check': 'qwen3.5:35b-a3b-coding-nvfp4',
     'status-report': 'qwen3.5:35b-a3b-coding-nvfp4',
   },
+  grok: {
+    // xAI Grok Build TUI — headless via --prompt-file + --yolo
+    // composer for mechanical; grok-4.5 for heavy
+    'lang-sync-refresh': 'grok-composer-2.5-fast',
+    'lang-sync-translate': 'grok-composer-2.5-fast',
+    'data-refresh': 'grok-composer-2.5-fast',
+    'format-check': 'grok-composer-2.5-fast',
+    'status-report': 'grok-composer-2.5-fast',
+    'article-rewrite': 'grok-4.5',
+    'article-evolve': 'grok-4.5',
+    'article-new': 'grok-4.5',
+    'pr-review': 'grok-4.5',
+    'issue-handle': 'grok-4.5',
+    'spore-publish': 'grok-4.5',
+    'contributor-thank-you': 'grok-4.5',
+    'self-diagnose': 'grok-4.5',
+  },
 };
 
 /**
- * Task types eligible for non-claude engine experimentation. UI / API can
- * route these to codex or ollama via task.inputs.engine. Other types stay
- * on claude even if engine override is requested (safer default for v1).
+ * Full peer coding-agent CLIs (tool-using, multi-turn). Eligible for ALL
+ * task tiers when selected (or as default). codex/ollama stay simple-tier.
+ */
+const PEER_AGENT_ENGINES = new Set(['claude', 'grok']);
+
+/**
+ * Task types that accept non-peer engine override (codex/ollama).
+ * Peer agents (claude/grok) may run any type.
  */
 const ENGINE_ELIGIBLE_TIER: Record<string, 'simple' | 'heavy'> = {
   'data-refresh': 'simple',
@@ -255,19 +279,29 @@ export async function spawnClaudeForTask(
   saveTask(task, `claude session ${sessionId} starting`);
 
   // Engine selection (resolve FIRST so model lookup is engine-aware).
-  // Only simple-tier task types accept engine override; heavy tasks force claude.
+  // Default = config.defaultEngine (grok as of Phase 5.2).
+  // Peer agents (claude/grok): all tiers. codex/ollama: simple tier only.
+  // Heavy + codex/ollama → force peer default (grok) not claude.
   const requestedEngine =
-    (task.inputs?.engine as string | undefined) ?? 'claude';
+    (task.inputs?.engine as string | undefined) ?? config.defaultEngine;
   const tier = ENGINE_ELIGIBLE_TIER[task.type];
-  const taskEngine = tier === 'simple' ? requestedEngine : 'claude';
+  const taskEngine =
+    PEER_AGENT_ENGINES.has(requestedEngine) || tier === 'simple'
+      ? requestedEngine
+      : config.defaultEngine;
 
-  // Engine-aware default model lookup. Falls back to claude-sonnet-4-6 for
-  // unmapped task types on claude engine; codex / ollama use their own tables.
+  // Engine-aware default model lookup.
   const engineDefaults = DEFAULT_MODEL_BY_ENGINE_TYPE[taskEngine] ?? {};
+  const fallbackModel =
+    taskEngine === 'grok'
+      ? 'grok-4.5'
+      : taskEngine === 'claude'
+        ? 'claude-sonnet-4-6'
+        : '';
   const taskModel =
     (task.inputs?.model as string | undefined) ??
     engineDefaults[task.type] ??
-    (taskEngine === 'claude' ? 'claude-sonnet-4-6' : '');
+    fallbackModel;
   const gitHead = (() => {
     try {
       return require('node:child_process')
@@ -296,6 +330,7 @@ export async function spawnClaudeForTask(
     `# engine:            ${taskEngine}`,
     `# model:             ${taskModel}`,
     `# claude_bin:        ${config.claudeBin}`,
+    `# grok_bin:          ${config.grokBin}`,
     `# spawn_attempt:     ${task.attempts}`,
     `# spawned_at_iso:    ${spawnStartIso}`,
     `# spawned_at_local:  ${spawnedAt.toString()}`,
@@ -314,13 +349,16 @@ export async function spawnClaudeForTask(
   logStream.write(metadataHeader);
 
   // ════════════════════════════════════════════════════════════════
-  // Engine dispatch — claude / codex / ollama (via codex --oss)
-  // task.inputs.engine selects; default 'claude'.
+  // Engine dispatch — grok (default) / claude / codex / ollama
+  // task.inputs.engine selects; default config.defaultEngine (grok).
   // For codex: optional task.inputs.codexLocalProvider ('ollama' | 'lmstudio')
   // routes to local OSS provider; otherwise ChatGPT subscription default model.
+  // For grok: headless via --prompt-file (does NOT read stdin) + --yolo.
   // ════════════════════════════════════════════════════════════════
   let engineBin: string;
   let cliArgs: string[];
+  /** Grok reads prompt from --prompt-file; do not pipe prompt on stdin. */
+  let pipePromptOnStdin = true;
   if (taskEngine === 'codex' || taskEngine === 'ollama') {
     engineBin = 'codex';
     // Phase 5.1.x (2026-04-30): replaced `--full-auto` with explicit
@@ -353,8 +391,28 @@ export async function spawnClaudeForTask(
     if (worktree?.path) {
       cliArgs.push('-C', worktree.path);
     }
+  } else if (taskEngine === 'grok') {
+    // xAI Grok Build TUI headless mode:
+    //   grok --prompt-file <path> -m <model> --cwd <dir> --yolo
+    //     --permission-mode bypassPermissions --output-format streaming-json
+    // Headless does NOT read stdin for the prompt (see grok user-guide
+    // 14-headless-mode.md). Reuse the same prompt file we already write.
+    engineBin = config.grokBin;
+    pipePromptOnStdin = false;
+    cliArgs = [
+      '--prompt-file',
+      promptPath,
+      '--yolo',
+      '--permission-mode',
+      'bypassPermissions',
+      '--output-format',
+      'streaming-json',
+      '--cwd',
+      worktree?.path ?? config.repoRoot,
+    ];
+    if (taskModel) cliArgs.push('-m', taskModel);
   } else {
-    // claude (default)
+    // claude
     engineBin = config.claudeBin;
     cliArgs = [
       '--print',
@@ -386,7 +444,7 @@ export async function spawnClaudeForTask(
   );
   const child = spawn(engineBin, cliArgs, {
     cwd: worktree?.path ?? config.repoRoot,
-    stdio: ['pipe', 'pipe', 'pipe'],
+    stdio: [pipePromptOnStdin ? 'pipe' : 'ignore', 'pipe', 'pipe'],
     env: {
       ...process.env,
       HARVEST_TASK_ID: task.id,
@@ -406,7 +464,10 @@ export async function spawnClaudeForTask(
     sessionId,
   ]);
   setActivePhase(sessionId, 'in-progress', child.pid);
-  log.info({ taskId: task.id, sessionId, pid: child.pid }, 'spawned claude');
+  log.info(
+    { taskId: task.id, sessionId, pid: child.pid, engine: taskEngine },
+    'spawned agent',
+  );
   // Phase 5: track session count → trigger Master Review every 10 sessions.
   // Skip when the task itself is a self-diagnose / Master Review (no recursion).
   if (task.type !== 'self-diagnose') {
@@ -417,10 +478,12 @@ export async function spawnClaudeForTask(
     }
   }
 
-  child.stdin.write(prompt);
-  child.stdin.end();
-  child.stdout.on('data', (chunk: Buffer) => logStream.write(chunk));
-  child.stderr.on('data', (chunk: Buffer) => logStream.write(chunk));
+  if (pipePromptOnStdin && child.stdin) {
+    child.stdin.write(prompt);
+    child.stdin.end();
+  }
+  child.stdout?.on('data', (chunk: Buffer) => logStream.write(chunk));
+  child.stderr?.on('data', (chunk: Buffer) => logStream.write(chunk));
 
   // Phase 5.1.x (2026-04-30): per-task-type hard timeout (defense against
   // ollama qwen3.6 commit-retry-loop hang and similar). lang-sync /

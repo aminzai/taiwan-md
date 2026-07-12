@@ -24,36 +24,44 @@ import { getQueryClient } from '~/lib/query-client';
 import { QUICK_PRESETS, type QuickPreset } from '~/lib/quick-presets';
 
 /**
- * Cross-engine model picker (Phase 5.1.x — cheyu: 「模型選取要包含 codex 的還有 ollama 的」).
- *
- * User picks a (engine, model) tuple from a single grouped dropdown. The tuple
- * is encoded as `${engine}::${model}` for the option value (empty model =
- * engine default). Submit handler decodes it back into inputs.engine + inputs.model.
- *
- * Each preset has an underlying eligibility constraint (mirrors backend
- * ENGINE_ELIGIBLE_TIER): heavy task types force claude. The dropdown still
- * shows codex/ollama rows but they're greyed out + non-selectable for those types.
+ * Cross-engine model picker.
+ * Phase 5.2 (2026-07-12): default engine = grok (all tiers).
+ * codex/ollama: simple tier only (greyed on heavy presets).
  */
 interface ModelOption {
   /** "engine::model" — model can be empty for engine default */
   value: string;
   label: string;
-  engine: 'claude' | 'codex' | 'ollama';
+  engine: 'claude' | 'codex' | 'ollama' | 'grok';
   model: string;
 }
 
+const DEFAULT_ENGINE = 'grok';
+
 const ENGINE_GROUPS: {
-  engine: 'claude' | 'codex' | 'ollama';
+  engine: 'claude' | 'codex' | 'ollama' | 'grok';
   label: string;
   options: { value: string; label: string }[];
 }[] = [
+  {
+    engine: 'grok',
+    label: '✦ Grok (default · all tiers)',
+    options: [
+      { value: '', label: '(default by type)' },
+      { value: 'grok-4.5', label: 'grok-4.5 (heavy)' },
+      {
+        value: 'grok-composer-2.5-fast',
+        label: 'composer 2.5 fast (mechanical)',
+      },
+    ],
+  },
   {
     engine: 'claude',
     label: '🤖 Claude',
     options: [
       { value: '', label: '(default by type)' },
       { value: 'claude-sonnet-4-6', label: 'sonnet 4.6 (cheap)' },
-      { value: 'claude-opus-4-6', label: 'opus 4.6 (heavy)' },
+      { value: 'claude-opus-4-8', label: 'opus 4.8 (heavy)' },
       { value: 'claude-haiku-4-5', label: 'haiku 4.5 (faster)' },
     ],
   },
@@ -82,8 +90,7 @@ const ENGINE_GROUPS: {
 ];
 
 /**
- * Task types that accept non-claude engine override (mirrors backend
- * ENGINE_ELIGIBLE_TIER in spawner/claude-cli.ts). Heavy tasks force claude.
+ * Task types that accept non-peer engine override (codex/ollama).
  */
 const ENGINE_OVERRIDE_OK = new Set([
   'data-refresh',
@@ -93,6 +100,8 @@ const ENGINE_OVERRIDE_OK = new Set([
   'lang-sync-translate',
 ]);
 
+const PEER_ENGINES = new Set(['claude', 'grok']);
+
 /** Encode (engine, model) → option value. */
 function encodeOpt(engine: string, model: string): string {
   return `${engine}::${model}`;
@@ -101,7 +110,7 @@ function encodeOpt(engine: string, model: string): string {
 /** Decode option value → (engine, model). */
 function decodeOpt(value: string): { engine: string; model: string } {
   const idx = value.indexOf('::');
-  if (idx < 0) return { engine: 'claude', model: value };
+  if (idx < 0) return { engine: DEFAULT_ENGINE, model: value };
   return {
     engine: value.slice(0, idx),
     model: value.slice(idx + 2),
@@ -109,11 +118,11 @@ function decodeOpt(value: string): { engine: string; model: string } {
 }
 
 /**
- * Infer current engine from preset.defaultInputs.engine, default 'claude'.
+ * Infer current engine from preset.defaultInputs.engine, default grok.
  */
 function engineFor(p: QuickPreset): string {
   const e = p.defaultInputs?.engine;
-  return typeof e === 'string' ? e : 'claude';
+  return typeof e === 'string' ? e : DEFAULT_ENGINE;
 }
 
 function Inner() {
@@ -133,16 +142,21 @@ function Inner() {
   const fire = useMutation(() => ({
     mutationFn: (preset: QuickPreset) => {
       const overrideValue = modelOverrides()[preset.id];
-      const inputs = { ...(preset.defaultInputs ?? {}) };
+      // Phase 5.2: always default engine=grok unless preset/override says otherwise
+      const inputs: Record<string, unknown> = {
+        engine: DEFAULT_ENGINE,
+        ...(preset.defaultInputs ?? {}),
+      };
       if (overrideValue) {
         const { engine, model } = decodeOpt(overrideValue);
-        // Only emit engine override if heavy-task tier permits, else silently
-        // drop (backend would force claude anyway).
-        if (engine !== 'claude' && ENGINE_OVERRIDE_OK.has(preset.taskType)) {
+        // Peer agents always OK; codex/ollama only on simple tier
+        if (
+          PEER_ENGINES.has(engine) ||
+          ENGINE_OVERRIDE_OK.has(preset.taskType)
+        ) {
           inputs.engine = engine;
-        } else if (engine === 'claude') {
-          // Reset to claude default — clear any preset-level engine override
-          delete inputs.engine;
+        } else {
+          inputs.engine = DEFAULT_ENGINE;
         }
         if (model) inputs.model = model;
         else delete inputs.model;
@@ -192,13 +206,13 @@ function Inner() {
             // Effective inputs combining preset + override for badge derivation
             const effectiveInputs = (): Record<string, unknown> => {
               const ovr = modelOverrides()[p.id];
-              if (!ovr) return p.defaultInputs ?? {};
-              const { engine, model } = decodeOpt(ovr);
               const out: Record<string, unknown> = {
+                engine: DEFAULT_ENGINE,
                 ...(p.defaultInputs ?? {}),
               };
-              if (engine !== 'claude') out.engine = engine;
-              else delete out.engine;
+              if (!ovr) return out;
+              const { engine, model } = decodeOpt(ovr);
+              out.engine = engine;
               if (model) out.model = model;
               else delete out.model;
               return out;
@@ -273,14 +287,14 @@ function Inner() {
                   >
                     <Show when={!overrideAllowed}>
                       <div class="px-2 py-1 text-[10px] text-accent-amber border-b border-line/40">
-                        ⚠️ heavy task — backend forces claude (codex/ollama
+                        ⚠️ heavy task — grok / claude only (codex/ollama
                         ignored)
                       </div>
                     </Show>
                     <For each={ENGINE_GROUPS}>
                       {(group) => {
                         const isHeavyClause =
-                          !overrideAllowed && group.engine !== 'claude';
+                          !overrideAllowed && !PEER_ENGINES.has(group.engine);
                         return (
                           <div>
                             <div class="px-2 py-1 text-text-muted text-[10px] uppercase tracking-wide bg-bg-input/30">

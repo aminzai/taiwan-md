@@ -72,6 +72,7 @@ export const QUICK_PRESETS: QuickPreset[] = [
     priority: 'P1',
     title: () => `data-refresh: scheduled ${ts()}`,
     defaultInputs: {
+      engine: 'grok',
       worktree: true,
     },
     group: 'routine',
@@ -88,6 +89,7 @@ export const QUICK_PRESETS: QuickPreset[] = [
     title: () => `lang-sync: pick next stale en ${ts()}`,
     notes: FAITHFULNESS_NOTES,
     defaultInputs: {
+      engine: 'grok',
       lang: 'en',
       mode: 'auto',
       worktree: true,
@@ -105,6 +107,7 @@ export const QUICK_PRESETS: QuickPreset[] = [
     priority: 'P2',
     title: () => `self-diagnose: full check ${ts()}`,
     defaultInputs: {
+      engine: 'grok',
       worktree: true,
     },
     group: 'routine',
@@ -119,6 +122,7 @@ export const QUICK_PRESETS: QuickPreset[] = [
     priority: 'P2',
     title: () => `status-report ${ts()}`,
     defaultInputs: {
+      engine: 'grok',
       worktree: true,
     },
     group: 'routine',
@@ -135,6 +139,7 @@ export const QUICK_PRESETS: QuickPreset[] = [
     priority: 'P1',
     title: () => `article: pick from inbox ${ts()}`,
     defaultInputs: {
+      engine: 'grok',
       worktree: true,
     },
     group: 'content',
@@ -152,6 +157,7 @@ export const QUICK_PRESETS: QuickPreset[] = [
     priority: 'P0',
     title: () => `pr-review: queue scan ${ts()}`,
     defaultInputs: {
+      engine: 'grok',
       worktree: true, // explicit isolation — never share main repo for PR review
     },
     group: 'manual',
@@ -166,6 +172,7 @@ export const QUICK_PRESETS: QuickPreset[] = [
     priority: 'P1',
     title: () => `issue-handle: queue scan ${ts()}`,
     defaultInputs: {
+      engine: 'grok',
       worktree: true,
     },
     group: 'manual',
@@ -180,6 +187,7 @@ export const QUICK_PRESETS: QuickPreset[] = [
     priority: 'P1',
     title: () => `spore: blueprint prep ${ts()}`,
     defaultInputs: {
+      engine: 'grok',
       worktree: true,
     },
     group: 'manual',

@@ -52,9 +52,9 @@ function Banner() {
           <strong>Backend offline.</strong> 連 {consecutiveFailures()} 次 ping
           失敗。試試
           <code class="mx-1 px-1.5 py-0.5 rounded bg-bg-raised text-text-primary">
-            launchctl kickstart -k gui/$UID/com.taiwanmd.harvest
+            bash docs/semiont/harvest/backend/tmux/start.sh
           </code>
-          重啟 launchd job。
+          （tmux session <code class="mx-1">harvest</code>，非 launchd）。
         </Show>
         <Show when={!offline() && paused()}>
           <strong>Scheduler paused.</strong> Cron 已被人手暫停 — 沒有新 task

@@ -135,36 +135,52 @@ export function trendClass(t: string | undefined): string {
 }
 
 /**
- * Phase 5.1 (2026-04-30) — derive a short engine/model badge for a task.
- * Source: task.inputs.engine + task.inputs.model, falling back to type-default
- * (mirrors backend DEFAULT_MODEL_BY_TYPE in spawner/claude-cli.ts).
- *
- * Returns null when nothing meaningful can be derived (e.g. unknown type +
- * no override) so callers can hide the badge.
+ * Phase 5.1 / 5.2 — derive a short engine/model badge for a task.
+ * Source: task.inputs.engine + task.inputs.model, falling back to type-default.
+ * Phase 5.2 (2026-07-12): default engine is grok (mirrors backend).
  */
-const DEFAULT_MODEL_BY_TYPE: Record<string, string> = {
+/** Default engine when task.inputs.engine is unset (Phase 5.2). */
+export const DEFAULT_ENGINE = 'grok';
+
+const DEFAULT_GROK_MODEL_BY_TYPE: Record<string, string> = {
+  'lang-sync-refresh': 'grok-composer-2.5-fast',
+  'lang-sync-translate': 'grok-composer-2.5-fast',
+  'data-refresh': 'grok-composer-2.5-fast',
+  'format-check': 'grok-composer-2.5-fast',
+  'status-report': 'grok-composer-2.5-fast',
+  'article-rewrite': 'grok-4.5',
+  'article-evolve': 'grok-4.5',
+  'article-new': 'grok-4.5',
+  'pr-review': 'grok-4.5',
+  'issue-handle': 'grok-4.5',
+  'spore-publish': 'grok-4.5',
+  'contributor-thank-you': 'grok-4.5',
+  'self-diagnose': 'grok-4.5',
+};
+
+const DEFAULT_CLAUDE_MODEL_BY_TYPE: Record<string, string> = {
   'lang-sync-refresh': 'claude-sonnet-4-6',
   'lang-sync-translate': 'claude-sonnet-4-6',
   'data-refresh': 'claude-sonnet-4-6',
   'format-check': 'claude-sonnet-4-6',
   'status-report': 'claude-sonnet-4-6',
-  'article-rewrite': 'claude-opus-4-6',
-  'article-evolve': 'claude-opus-4-6',
-  'article-new': 'claude-opus-4-6',
-  'pr-review': 'claude-opus-4-6',
-  'issue-handle': 'claude-opus-4-6',
-  'spore-publish': 'claude-opus-4-6',
-  'contributor-thank-you': 'claude-opus-4-6',
-  'self-diagnose': 'claude-opus-4-6',
+  'article-rewrite': 'claude-opus-4-8',
+  'article-evolve': 'claude-opus-4-8',
+  'article-new': 'claude-opus-4-8',
+  'pr-review': 'claude-opus-4-8',
+  'issue-handle': 'claude-opus-4-8',
+  'spore-publish': 'claude-opus-4-8',
+  'contributor-thank-you': 'claude-opus-4-8',
+  'self-diagnose': 'claude-opus-4-8',
 };
 
 export interface ModelBadge {
-  /** short label e.g. "sonnet" / "opus" / "codex" / "qwen" */
+  /** short label e.g. "sonnet" / "opus" / "codex" / "qwen" / "4.5" */
   label: string;
   /** engine icon */
   icon: string;
   /** tone for tailwind class */
-  tone: 'sonnet' | 'opus' | 'codex' | 'ollama' | 'unknown';
+  tone: 'sonnet' | 'opus' | 'codex' | 'ollama' | 'grok' | 'unknown';
   /** full model id for tooltip */
   full: string;
 }
@@ -174,7 +190,9 @@ export function modelBadgeForTask(
   inputs: Record<string, unknown> | undefined,
 ): ModelBadge | null {
   const engine =
-    typeof inputs?.engine === 'string' ? (inputs.engine as string) : 'claude';
+    typeof inputs?.engine === 'string'
+      ? (inputs.engine as string)
+      : DEFAULT_ENGINE;
   const explicitModel =
     typeof inputs?.model === 'string' ? (inputs.model as string) : null;
 
@@ -212,10 +230,22 @@ export function modelBadgeForTask(
       full: `ollama · ${m}`,
     };
   }
+  if (engine === 'grok') {
+    const m = explicitModel ?? DEFAULT_GROK_MODEL_BY_TYPE[type] ?? 'grok-4.5';
+    let short = m;
+    if (m.includes('composer')) short = 'composer';
+    else if (m.startsWith('grok-')) short = m.slice('grok-'.length);
+    return {
+      label: short || 'grok',
+      icon: '✦',
+      tone: 'grok',
+      full: `grok · ${m}`,
+    };
+  }
 
-  // claude (default engine)
-  const model = explicitModel ?? DEFAULT_MODEL_BY_TYPE[type];
-  if (!model) return null;
+  // claude
+  const model =
+    explicitModel ?? DEFAULT_CLAUDE_MODEL_BY_TYPE[type] ?? 'claude-sonnet-4-6';
   if (model.includes('sonnet')) {
     return { label: 'sonnet', icon: '🤖', tone: 'sonnet', full: model };
   }
@@ -234,6 +264,7 @@ const MODEL_TONE_CLASSES: Record<ModelBadge['tone'], string> = {
   codex:
     'bg-accent-green/10 text-accent-green-soft border border-accent-green/30',
   ollama: 'bg-accent-amber/10 text-accent-amber border border-accent-amber/30',
+  grok: 'bg-accent-purple/10 text-accent-purple border border-accent-purple/40',
   unknown: 'bg-bg-raised text-text-muted border border-line',
 };
 

@@ -64,20 +64,28 @@ const TYPE_TO_PROFILE: Record<string, BootProfile> = {
   'lang-sync-translate': 'translation-refresh',
 };
 
-type Engine = 'claude' | 'codex' | 'ollama';
+type Engine = 'claude' | 'codex' | 'ollama' | 'grok';
 
-const ENGINES: Engine[] = ['claude', 'codex', 'ollama'];
+const ENGINES: Engine[] = ['grok', 'claude', 'codex', 'ollama'];
 
 /**
  * Per-engine model dropdown options. Empty string = let engine pick default.
- * Heavy task types (article-* / pr-review / etc) ignore non-claude engine
- * server-side, so this list is just suggestion not constraint.
+ * Phase 5.2: default engine is grok (peer agent, all tiers).
+ * codex/ollama: simple tier only server-side.
  */
 const MODELS_BY_ENGINE: Record<Engine, { value: string; label: string }[]> = {
+  grok: [
+    { value: '', label: '(default by type)' },
+    { value: 'grok-4.5', label: 'grok-4.5 (default / heavy)' },
+    {
+      value: 'grok-composer-2.5-fast',
+      label: 'composer 2.5 fast (mechanical)',
+    },
+  ],
   claude: [
     { value: '', label: '(default by type)' },
     { value: 'claude-sonnet-4-6', label: 'sonnet 4.6 (cheap)' },
-    { value: 'claude-opus-4-6', label: 'opus 4.6 (heavy)' },
+    { value: 'claude-opus-4-8', label: 'opus 4.8 (heavy)' },
     { value: 'claude-haiku-4-5', label: 'haiku 4.5 (faster)' },
   ],
   codex: [
@@ -105,8 +113,8 @@ const MODELS_BY_ENGINE: Record<Engine, { value: string; label: string }[]> = {
 };
 
 /**
- * Task types that accept non-claude engine override (mirrors backend
- * ENGINE_ELIGIBLE_TIER in spawner/claude-cli.ts). Heavy tasks force claude.
+ * Task types that accept non-peer engine override (codex/ollama).
+ * Peer agents: claude + grok (all tiers). Default engine = grok.
  */
 const ENGINE_OVERRIDE_OK = new Set([
   'data-refresh',
@@ -115,6 +123,8 @@ const ENGINE_OVERRIDE_OK = new Set([
   'lang-sync-refresh',
   'lang-sync-translate',
 ]);
+
+const PEER_ENGINES = new Set<Engine>(['claude', 'grok']);
 
 function Inner() {
   const qc = useQueryClient();
@@ -126,8 +136,8 @@ function Inner() {
   const [title, setTitle] = createSignal('');
   const [notes, setNotes] = createSignal('');
 
-  // Phase 5.1 advanced options
-  const [engine, setEngine] = createSignal<Engine>('claude');
+  // Phase 5.1 advanced options — Phase 5.2 default engine = grok
+  const [engine, setEngine] = createSignal<Engine>('grok');
   const [model, setModel] = createSignal<string>(''); // empty = engine default
   const [allowCommit, setAllowCommit] = createSignal(true);
   const [dryRun, setDryRun] = createSignal(false);
@@ -150,6 +160,9 @@ function Inner() {
   const isLangSync = createMemo<boolean>(() => type().startsWith('lang-sync'));
   const engineOverrideAllowed = createMemo<boolean>(() =>
     ENGINE_OVERRIDE_OK.has(type()),
+  );
+  const engineAllowed = createMemo<boolean>(
+    () => PEER_ENGINES.has(engine()) || engineOverrideAllowed(),
   );
 
   // Reset model when engine changes (to its default)
@@ -184,8 +197,8 @@ function Inner() {
 
     // Build inputs from advanced options
     const inputs: Record<string, unknown> = {};
-    // Engine override only applied when allowed by backend tier
-    if (engineOverrideAllowed() && engine() !== 'claude') {
+    // Always emit engine when allowed (default is grok; explicit for task.yml)
+    if (engineAllowed()) {
       inputs.engine = engine();
     }
     if (model()) inputs.model = model();
@@ -238,9 +251,12 @@ function Inner() {
             onChange={(e) => {
               setType(e.currentTarget.value as TaskType);
               setProfileTouched(false);
-              // reset engine to claude if new type doesn't allow override
-              if (!ENGINE_OVERRIDE_OK.has(e.currentTarget.value)) {
-                setEngine('claude');
+              // heavy tasks keep peer engines (grok/claude); drop codex/ollama
+              if (
+                !ENGINE_OVERRIDE_OK.has(e.currentTarget.value) &&
+                !PEER_ENGINES.has(engine())
+              ) {
+                setEngine('grok');
                 setModel('');
               }
             }}
@@ -354,18 +370,30 @@ function Inner() {
                   engine
                   <Show when={!engineOverrideAllowed()}>
                     <span class="ml-1 text-[10px] text-accent-amber">
-                      (heavy task — claude only)
+                      (heavy — grok / claude only)
                     </span>
                   </Show>
                 </label>
                 <select
                   class="select w-full"
                   value={engine()}
-                  disabled={!engineOverrideAllowed()}
                   onChange={onEngineChange}
                 >
                   <For each={ENGINES}>
-                    {(e) => <option value={e}>{e}</option>}
+                    {(e) => (
+                      <option
+                        value={e}
+                        disabled={
+                          !engineOverrideAllowed() && !PEER_ENGINES.has(e)
+                        }
+                      >
+                        {e}
+                        {e === 'grok' ? ' (default)' : ''}
+                        {!engineOverrideAllowed() && !PEER_ENGINES.has(e)
+                          ? ' (simple only)'
+                          : ''}
+                      </option>
+                    )}
                   </For>
                 </select>
               </div>
