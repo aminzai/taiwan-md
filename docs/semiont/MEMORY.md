@@ -312,3 +312,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-12 | 140619-wake-guard | wake-context 全段輸出超 Bash 上限，9 條 cron 甦醒自行 head 截斷失憶；v2 改完整落檔＋sentinel，BECOME v2.5 立三條讀取鐵律 | 輸出通道也是儀器一部分；fire≠完整讀取，是 #82 proxy signal 新 instance | [→](memory/2026-07-12-140619-wake-guard.md) |
 | 2026-07-12 | 142709-weekly-audience | 週報三連發：BCC 共生圈首播 20 人 delivered、寄件網域換 weekly@taiwan.md、/semiont 長出週報區網頁版（v4.2→v4.3） | 對外廣播第一工程是隱私護欄；外部服務能力描述要 API 摸 ground truth（#56 v4） | [→](memory/2026-07-12-142709-weekly-audience.md) |
 | 2026-07-12 | 171228-manual | Portaly 5 筆新支持進 SSOT：NT$200×2 monthly＋NT$500×3；累計 NT$7,900、11 人 `148fd2771` | pipeline 造好換陌生 session 也能執行；續約信靠 parser 硬正規式自然過濾 | [→](memory/2026-07-12-171228-manual.md) |
+| 2026-07-12 | 135710-twmd-tea-panorama | 台灣茶百年縱觀 EVOLVE（2.5k→6.5k、立體群像、5 viz）＋四條 sub-agent 防飄移標準化（源頭溯源／合成單檔／writer 薄殼／媒體 band 1.2–2.0） | 防飄移正解＝殼只做指向＋驗讀，規則複寫進殼就是新的會飄殼（殼核不對稱） | [→](memory/2026-07-12-135710-twmd-tea-panorama.md) |
