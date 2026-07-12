@@ -367,6 +367,38 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **severity**: tactical（buffer 蓄水位訊號，不傷生命徵象）
 - **defer 給觀察者**：否 — routine 自決層 audit log；下次 cycle 觸發 auto-drop 亦屬 §SPORE-INBOX safe-destructive SOP 自主權範圍
 
+### 2026-07-12 twmd-routine-audit-weekly — alert-does-not-retire-on-recovery：routine-silent 黃燈五條在 routine 已復活 24-48hr 後仍未自動撤除
+
+- **pattern**: `alert-does-not-retire-on-recovery`（sensor 生存週期紀律 gap；REFLEXES #82 proxy signal antipattern 具體子案例）
+- **原則**：dashboard-alerts.json 對 `routine-silent-*` 黃燈只計算 firstSeen 齡（>14d 升 OBSERVER-QUEUE），沒有 auto-retire 條件。routine 從沉默恢復開跑後，警報不會自動退場——session 甦醒 groundtruth 讀到 5 條 stale 黃燈，實際上 5 條 routine 都已在過去 24-48hr 內連續正常 fire + commit。sensor 只掃「有 fire 就代表活著嗎」的入口，沒掃「已經是死掉又活過來」的退場。**Alert 需要有 clear condition：偵測到 recovery 事件（連續 N cycle 有 commit / 最新 commit 距今 <期望 cadence）自動 retire**；不然告警面板就是墓碑而不是活體儀表板。
+- **觸發**：2026-07-12 21:00 twmd-routine-audit-weekly session 甦醒 wake-context groundtruth 顯示 5 條 `routine-silent-*` 黃燈 `firstSeen 2026-07-10`：
+  - `taiwanmd-routine-twmd-feedback-triage` — 實際 07-11 07:10 + 07-12 07:13 兩次連續 fire + commit
+  - `twmd-babel-nightly` — 實際 07-11 00:56 + 07-12 00:51 兩次連續 fire + commit（含 4-tier cascade 全滅 + 25 篇 Tier 0b backfill）
+  - `twmd-data-refresh-am` — 實際 07-11 06:16 + 07-12 06:16 兩次連續 fire + commit（14-step 全綠）
+  - `twmd-embeddings-nightly` — 實際 07-11 05:17 + 07-12 05:17 兩次連續 fire + commit（0 fail / PASS）
+  - `twmd-spore-harvest-am` — 實際 07-11 06:41 + 07-12 06:41 兩次連續 fire + commit
+    警報齡 2 天，未達 ROUTINE-AUDIT-PIPELINE §Hard Gate 「>14 天升 OBSERVER-QUEUE」門檻，但 sensor recovery blind spot 是結構性的，不是齡值就會治好。
+- **可能層級**：(a) `dashboard-alerts` generator 加 recovery detector — routine-silent-\* 若過去 24hr 內對應 routine name 有 commit，自動移出 alerts（fold entry 到 §recent-recovery 供追溯）；(b) reflex：#82 proxy signal antipattern 補「sensor 生存週期兩端要對稱——detect entry + retire exit 兩個訊號都要有 ground truth」；(c) 造橋候選：alert schema 加 `retireCondition` 欄位，讓每條 alert 誕生時就宣告 clear 條件
+- **相關**：wake-context groundtruth §🚨 yellow 五條 / REFLEXES #82 proxy signal antipattern / REFLEXES #24「工具在說謊」抽樣偏差族（this = sensor exit 端說謊）
+- **verification_count**: 1（首次 audit-level 抽出；已在 REFLEXES #82 家族範圍，可能升子規則而非新編號）
+- **severity**: tactical → structural（單週影響 session 甦醒 signal 品質；長期不修 = OBSERVER-QUEUE 會被死警報污染）
+- **defer 給觀察者**：否 — alert schema 改動屬 dashboard 感知層工具改進，routine 自決範圍
+
+---
+
+### 2026-07-12 twmd-routine-audit-weekly — thick-scheduled-task-mirror-debt：14 條 mirror 違反薄殼鐵律，最大 192 行（chronic drift）
+
+- **pattern**: `thick-scheduled-task-mirror-debt`（canonical ↔ mirror 三層漂移的結構性債）
+- **原則**：`~/.claude/scheduled-tasks/*/SKILL.md` mirror 應該薄殼（30 warn / 50 hard 行）+ pointer 到 project skill / ROUTINE.md canonical。**當前 17 routine mirror 中 14 條超過 hard 閾值**（`twmd-spore-publish-daily` 192 行、`twmd-maintainer-pm` + `twmd-maintainer-daily` 各 100 行、`twmd-babel-nightly` 79 行⋯⋯），只有 3 條合規（rewrite-daily 20 / embeddings-nightly 28 / feedback-triage 19）。mirror 越厚 = cron context 讀到的 prompt 越可能跟 project canonical 漂移，也違反 [ROUTINE.md §薄殼鐵律](docs/semiont/ROUTINE.md) v3.0 拍板（2026-05-28 CONTRACT rollback 後的第二次「殼要薄」紀律 iteration）。
+- **觸發**：2026-07-12 21:00 routine-audit-weekly Stage 1 跑 `routine-sync-check.py` 揭：14 thick / 3 ok / 1 orphan (`twmd-supporters-weekly` 新誕生 SSOT 尚未列)。7-day 窗口內雖無新增（新增 supporters-weekly 已合規），但整批舊 mirror 未依 v3.0 薄殼紀律逐步瘦身。上次 handoff（session 172122-manual）明確標記：「14 條 thick scheduled-task mirror 是本 session 過程中發現的舊債，未著手修——留給下一輪 routine-audit-weekly 或哲宇拍板是否值得批次瘦身」。本 audit 收下這個 handoff，記錄成 LESSONS，不自行 ship 批次瘦身（避開 §自主權邊界：14 檔跨 routine 大改屬 threshold-adjacent 結構改動）。
+- **可能層級**：(a) 造橋候選：`scripts/tools/routine-sync-check.py --heal-thin` mode，對每條 thick mirror 生成薄殼建議 diff（保留 STRICT BECOME GATE + Stage pointer + rate limit 條款），觀察者一次 review 14 條 PR；(b) 或哲宇拍板「thick mirror 是刻意 inline」則調整閾值到 200 行；(c) 或分批（每週 self-evolve 挑 1-2 條瘦身）避免一次 14 檔大改。**default 姿態應為 reserve**（per REFLEXES #79 主權留哲宇 default reservation），routine 不主動批次瘦身
+- **相關**：ROUTINE.md §薄殼鐵律 v3.0（2026-05-28 CONTRACT rollback 誕生）/ REFLEXES #56 canonical ↔ production drift = dormant entropy / REFLEXES #79 主權留哲宇 default reservation / handoff 172122-manual §舊債 pointer
+- **verification_count**: 1（本 audit 第一次結構性記錄；handoff pointer 是 pre-audit signal 不計 vc）
+- **severity**: structural chronic（不影響當下 fire，但 mirror 越厚跟 canonical 漂移風險越高）
+- **defer 給觀察者**：是 — 14 檔跨 routine 批次瘦身屬 §自主權邊界（>10 檔重構 + routine 定義層改動需哲宇拍板方式與節奏）
+
+---
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
