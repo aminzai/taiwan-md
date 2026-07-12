@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-11 06:12
+last_generated: 2026-07-12 06:12
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,16 +12,16 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-11 06:12** · 頂層 \*.md 共 **190** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-12 06:12** · 頂層 \*.md 共 **192** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size     | 用途                                                 |
 | ----------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`             |   412 | 55.0 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`             |   419 | 55.0 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `visual/`               |   111 | 214.5 MB | Visual smoke test 基線 (partial gitignored)          |
 | `archive/`              |    27 | 342.8 KB | 歸檔位置 (per audit Layer 4)                         |
-| `weekly/`               |    18 | 3.4 MB   | Self-evolve weekly digest                            |
+| `weekly/`               |    20 | 3.7 MB   | Self-evolve weekly digest                            |
 | `article-evolve/`       |    14 | 547.0 KB | —                                                    |
 | `scratch/`              |    10 | 1.7 MB   | POC / 暫存 (per audit Layer 1，已 .gitignored)       |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
@@ -36,6 +36,7 @@ type: auto-index
 | `fork-census/`          |     2 | 34.7 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
+| `news-lens/`            |     1 | 18.2 KB  | —                                                    |
 
 ## 🏷️ By type (頂層 \*.md only)
 
@@ -84,9 +85,11 @@ type: auto-index
 - `2026-04-13` [ssodt-spore-linkback-plan-2026-04-13](ssodt-spore-linkback-plan-2026-04-13.md)
 - `2026-04-12` [semiont-public-pages-plan-2026-04-12](semiont-public-pages-plan-2026-04-12.md)
 
-### evolution (28)
+### evolution (30)
 
+- `2026-07-11` [wake-memory-evolution-2026-07-11](wake-memory-evolution-2026-07-11.md) — 記憶與日記系統進化 — 甦醒取數儀器化設計
 - `2026-07-10` [evolution-roadmap-2026-07-10](evolution-roadmap-2026-07-10.md) — Evolution Roadmap 2026-07-10
+- `2026-07-10` [hub-template-evolution-2026-07-10](hub-template-evolution-2026-07-10.md)
 - `2026-07-10` [terminology-preservation-evolution-2026-07-10](terminology-preservation-evolution-2026-07-10.md)
 - `2026-07-05` [dna-pipeline-evolution-audit-2026-07-05](dna-pipeline-evolution-audit-2026-07-05.md)
 - `2026-06-26` [issue-evolution-analysis-2026-06-26](issue-evolution-analysis-2026-06-26.md)
@@ -268,11 +271,13 @@ type: auto-index
 - Type breakdown: ops: 1
   - `????` [README](README.md)
 
-### 2026-07 (14 files)
+### 2026-07 (16 files)
 
-- Type breakdown: ops: 7 / evolution: 3 / design: 2 / plan: 1 / audit-routine: 1
+- Type breakdown: ops: 7 / evolution: 5 / design: 2 / plan: 1 / audit-routine: 1
+  - `2026-07-11` [wake-memory-evolution-2026-07-11](wake-memory-evolution-2026-07-11.md)
   - `2026-07-10` [elections-2026-refresh-plan-2026-07-10](elections-2026-refresh-plan-2026-07-10.md)
   - `2026-07-10` [evolution-roadmap-2026-07-10](evolution-roadmap-2026-07-10.md)
+  - `2026-07-10` [hub-template-evolution-2026-07-10](hub-template-evolution-2026-07-10.md)
   - `2026-07-10` [terminology-preservation-evolution-2026-07-10](terminology-preservation-evolution-2026-07-10.md)
   - `2026-07-10` [weekly-deep-review-2026-07-10](weekly-deep-review-2026-07-10.md)
   - `2026-07-06` [design-立體群像-default-persona-reposition-2026-07-06](design-立體群像-default-persona-reposition-2026-07-06.md)

@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'History/台灣轉型正義.md'
 sourceCommitSha: '6c2f8ea8d'
 sourceContentHash: 'sha256:374479ea740e2331'
+sourceBodyHash: 'sha256:3af35384af2f52c5'
 translatedAt: '2026-06-09T03:01:48+08:00'
 ---
 

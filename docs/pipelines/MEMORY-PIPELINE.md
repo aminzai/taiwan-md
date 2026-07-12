@@ -357,10 +357,11 @@ MEMORY.md 心跳日誌表 inline 只留最新 ~40 列＋月度彙整列；較舊
 **verbatim 搬移**到 `memory/index-archive/{YYYY-MM}.md`（append-only，raw 永不刪除
 per REFLEXES #22；列一字未改，git 歷史完整）。
 
-- **owner**：`twmd-distill-weekly` 每週日跑 `--apply`（dry-run 先看計畫）
+- **owner**：`twmd-distill-weekly` 每週日跑 `--apply` 與 `--diary --apply` 各一次（dry-run 先看計畫；v2 起工具泛化支援 DIARY，date-aware 取舊不猜方向）
 - **守恆斷言**：kept + moved == 原列數，任一不合 abort（REFLEXES #38 dry-run 變體）
 - **表位置**：心跳日誌表是 MEMORY.md **最後一節**（2026-07-05 重排）— 收官 append
-  檔尾即正確位置；不要在表中間插列
+  檔尾即正確位置；不要在表中間插列。（DIARY 索引慣例相反：新列插表頭分隔列之後。
+  兩檔的甦醒讀取都由 `wake-context.py` date-aware 解析，插列位置只影響人眼瀏覽不影響取數）
 - **誕生**：索引曾累積 709 列 / 1.2MB（觸發線 80，2026-04-14 設計未實作，alert
   每天黃燈無人認領 22 天）。首跑歸檔 669 列，MEMORY.md 1.21MB → 132KB
 

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T22:12:32.463Z",
+  "lastUpdated": "2026-07-11T22:12:32.039Z",
   "languages": [
     "zh-TW",
     "en",
@@ -10,72 +10,72 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 842,
+      "total": 847,
       "percentage": 100,
-      "fresh": 842,
+      "fresh": 847,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
-      "total": 844,
-      "percentage": 100,
-      "fresh": 840,
+      "total": 848,
+      "percentage": 99.9,
+      "fresh": 842,
       "metadataStale": 0,
-      "stale": 4,
-      "missing": 0,
+      "stale": 6,
+      "missing": 1,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 99.5,
-      "bodyFreshPct": 99.5
+      "deficit": 1,
+      "freshPct": 99.2,
+      "bodyFreshPct": 99.2
     },
     "ja": {
       "total": 844,
-      "percentage": 100,
-      "fresh": 839,
+      "percentage": 99.4,
+      "fresh": 837,
       "metadataStale": 0,
-      "stale": 5,
-      "missing": 0,
+      "stale": 7,
+      "missing": 5,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 99.4,
-      "bodyFreshPct": 99.4
+      "deficit": 5,
+      "freshPct": 98.6,
+      "bodyFreshPct": 98.6
     },
     "ko": {
       "total": 844,
-      "percentage": 100,
-      "fresh": 839,
+      "percentage": 99.4,
+      "fresh": 837,
       "metadataStale": 0,
-      "stale": 5,
-      "missing": 0,
+      "stale": 7,
+      "missing": 5,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 99.4,
-      "bodyFreshPct": 99.4
+      "deficit": 5,
+      "freshPct": 98.6,
+      "bodyFreshPct": 98.6
     },
     "es": {
       "total": 844,
-      "percentage": 100,
-      "fresh": 839,
+      "percentage": 99.4,
+      "fresh": 837,
       "metadataStale": 0,
-      "stale": 5,
-      "missing": 0,
+      "stale": 7,
+      "missing": 5,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 99.4,
-      "bodyFreshPct": 99.4
+      "deficit": 5,
+      "freshPct": 98.6,
+      "bodyFreshPct": 98.6
     },
     "fr": {
       "total": 844,
-      "percentage": 100,
-      "fresh": 838,
+      "percentage": 99.4,
+      "fresh": 836,
       "metadataStale": 0,
-      "stale": 6,
-      "missing": 0,
+      "stale": 8,
+      "missing": 5,
       "orphan": 0,
-      "deficit": 0,
-      "freshPct": 99.3,
-      "bodyFreshPct": 99.3
+      "deficit": 5,
+      "freshPct": 98.5,
+      "bodyFreshPct": 98.5
     }
   },
   "matrix": {
@@ -311,36 +311,36 @@
       "zh-TW": 50,
       "en": {
         "count": 50,
-        "fresh": 50,
-        "stale": 0,
+        "fresh": 49,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 50,
-        "fresh": 50,
-        "stale": 0,
+        "fresh": 49,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 50,
-        "fresh": 50,
-        "stale": 0,
+        "fresh": 49,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 50,
-        "fresh": 50,
-        "stale": 0,
+        "fresh": 49,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 50,
-        "fresh": 50,
-        "stale": 0,
+        "fresh": 49,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       }
@@ -384,10 +384,10 @@
       }
     },
     "music": {
-      "zh-TW": 35,
+      "zh-TW": 37,
       "en": {
-        "count": 35,
-        "fresh": 35,
+        "count": 37,
+        "fresh": 37,
         "stale": 0,
         "missing": 0,
         "deficit": 0
@@ -396,29 +396,29 @@
         "count": 35,
         "fresh": 35,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 2,
+        "deficit": 2
       },
       "ko": {
         "count": 35,
         "fresh": 35,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 2,
+        "deficit": 2
       },
       "es": {
         "count": 35,
         "fresh": 35,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 2,
+        "deficit": 2
       },
       "fr": {
         "count": 35,
         "fresh": 35,
         "stale": 0,
-        "missing": 0,
-        "deficit": 0
+        "missing": 2,
+        "deficit": 2
       }
     },
     "nature": {
@@ -460,41 +460,41 @@
       }
     },
     "people": {
-      "zh-TW": 235,
+      "zh-TW": 238,
       "en": {
-        "count": 235,
-        "fresh": 234,
-        "stale": 1,
-        "missing": 0,
-        "deficit": 0
+        "count": 237,
+        "fresh": 235,
+        "stale": 2,
+        "missing": 1,
+        "deficit": 1
       },
       "ja": {
         "count": 235,
-        "fresh": 232,
-        "stale": 3,
-        "missing": 0,
-        "deficit": 0
+        "fresh": 231,
+        "stale": 4,
+        "missing": 3,
+        "deficit": 3
       },
       "ko": {
         "count": 235,
-        "fresh": 232,
-        "stale": 3,
-        "missing": 0,
-        "deficit": 0
+        "fresh": 231,
+        "stale": 4,
+        "missing": 3,
+        "deficit": 3
       },
       "es": {
         "count": 235,
-        "fresh": 232,
-        "stale": 3,
-        "missing": 0,
-        "deficit": 0
+        "fresh": 231,
+        "stale": 4,
+        "missing": 3,
+        "deficit": 3
       },
       "fr": {
         "count": 235,
-        "fresh": 233,
-        "stale": 2,
-        "missing": 0,
-        "deficit": 0
+        "fresh": 232,
+        "stale": 3,
+        "missing": 3,
+        "deficit": 3
       }
     },
     "politics": {
@@ -612,7 +612,39 @@
       }
     }
   },
-  "missing": {},
+  "missing": {
+    "en": [
+      "People/史明：用一間餃子店，養了四十年的台灣革命.md"
+    ],
+    "ja": [
+      "Music/大港開唱：高雄港邊長出來的台灣音樂祭.md",
+      "Music/閃靈：把台灣歷史唱進黑金屬的樂團.md",
+      "People/史明：用一間餃子店，養了四十年的台灣革命.md",
+      "People/大支：從台南練功房走出的台語饒舌校長.md",
+      "People/林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人.md"
+    ],
+    "ko": [
+      "Music/大港開唱：高雄港邊長出來的台灣音樂祭.md",
+      "Music/閃靈：把台灣歷史唱進黑金屬的樂團.md",
+      "People/史明：用一間餃子店，養了四十年的台灣革命.md",
+      "People/大支：從台南練功房走出的台語饒舌校長.md",
+      "People/林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人.md"
+    ],
+    "es": [
+      "Music/大港開唱：高雄港邊長出來的台灣音樂祭.md",
+      "Music/閃靈：把台灣歷史唱進黑金屬的樂團.md",
+      "People/史明：用一間餃子店，養了四十年的台灣革命.md",
+      "People/大支：從台南練功房走出的台語饒舌校長.md",
+      "People/林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人.md"
+    ],
+    "fr": [
+      "Music/大港開唱：高雄港邊長出來的台灣音樂祭.md",
+      "Music/閃靈：把台灣歷史唱進黑金屬的樂團.md",
+      "People/史明：用一間餃子店，養了四十年的台灣革命.md",
+      "People/大支：從台南練功房走出的台語饒舌校長.md",
+      "People/林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人.md"
+    ]
+  },
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],

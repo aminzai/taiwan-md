@@ -24,6 +24,7 @@ lastHumanReview: false
 translatedFrom: 'Lifestyle/收費站.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:edb46e6aef72624c'
+sourceBodyHash: 'sha256:bc9b5cd80bcd52ef'
 translatedAt: '2026-06-09T03:24:01+08:00'
 ---
 

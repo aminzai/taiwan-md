@@ -27,6 +27,7 @@ lastHumanReview: false
 translatedFrom: 'Geography/澎湖縣.md'
 sourceCommitSha: 'dd6cd0156'
 sourceContentHash: 'sha256:45c3c3aac3c42d62'
+sourceBodyHash: 'sha256:d8c2fdecefda4ce7'
 translatedAt: '2026-06-09T03:15:09+08:00'
 ---
 

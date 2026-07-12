@@ -3,17 +3,18 @@ title: 'Freddy Lim: From Chthonic Frontman to Parliament, Turning Taiwan’s His
 description: 'As Freddy, lead vocalist of Chthonic, Lim wrote the 228 Incident, the White Terror, the Wushe Incident, Taiwanese mythology, and Taiwanese Hokkien metal into public memory, while also helping build Megaport Festival into a southern cultural field. Music, Taiwan consciousness, cultural practice, institutional politics, family life, and post-legislative public roles all connect in his path from stage to society, parliament, and the international arena.'
 date: 2026-07-10
 category: 'People'
-tags: ['people', 'music', 'heavy metal', 'politics', 'social movements', 'Chthonic']
+tags:
+  ['people', 'music', 'heavy metal', 'politics', 'social movements', 'Chthonic']
 subcategory: 'Music and Public Figures'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
 translatedFrom: 'People/林昶佐.md'
-sourceCommitSha: ''
-sourceContentHash: ''
+sourceCommitSha: '112e91c8'
+sourceContentHash: 'sha256:957dfe94a86d2cfa'
 sourceBodyHash: ''
-translatedAt: ''
+translatedAt: '2026-07-11T12:25:09+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg'
 imageCredit: 'Hyw83516 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
@@ -180,23 +181,41 @@ The Sunflower Movement, the New Power Party, and Taiwan’s democratic transitio
 ## Notes
 
 [^1]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — A 2016 GQ profile describing how Lim, as Chthonic’s vocalist, brought Taiwanese Hokkien and traditional instruments into international metal and political visibility.
+
 [^2]: [Megaport Festival official website](https://megaportfest.com/) — Official event site used to confirm Megaport’s contemporary position as a Kaohsiung music festival; historical details are cross-checked with Wikipedia and feature reporting.
+
 [^3]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — Same GQ report, used for the 2016 international-media framing of “metal frontman enters parliament.”
+
 [^4]: [“We want a fairer society”: Freddy Lim, Taiwan’s metalhead MP](https://www.theguardian.com/world/2020/aug/17/we-want-a-fairer-society-freddy-lim-taiwan-metalhead-mp) — _The Guardian_ 2020 report supplementing international observations of Lim’s public role around his re-election period.
+
 [^5]: [From Heavy Metal Frontman to Taiwan’s Parliament](https://cn.nytimes.com/china/20170531/from-heavy-metal-frontman-to-taiwans-parliament/zh-hant/) — _The New York Times_ Chinese edition, 2017, recording Lim’s early political phase from underground music into parliament, Taiwan’s international visibility, and social issues.
+
 [^6]: [Metal-Sänger und Politiker Freddy Lim: “Wir waren nie ,das freie China‘ – wir sind Taiwan”](https://www.tagesspiegel.de/gesellschaft/metal-sanger-und-politiker-freddy-lim-wir-waren-nie-das-freie-china--wir-sind-taiwan-8904460.html) — _Der Tagesspiegel_ 2022 interview, providing Lim’s recollections of martial-law education, Taiwanese Hokkien, Taiwanese identity, and international narratives.
+
 [^7]: [From Son, Husband to Father: Freddy Lim — Let Love Continue in Another Way](https://www.hospice.org.tw/content/3435) — Taiwan Hospice Organization interview supplementing Lim’s life experience around his father’s sudden death, the birth of his daughter, hospice care, and the album _Battlefields of Asura_.
+
 [^8]: [Long Hair, Corpse Paint... Seven Years Ago Freddy Lim Defeated a KMT Military Veteran as a Band Vocalist](https://www.businesstoday.com.tw/article/category/80392/post/202201090014/) — _Business Today_ 2022 report summarizing the political context around Lim’s recall vote, progressive issues such as marriage equality, and recall-threshold analysis.
+
 [^9]: [The Past and Present of Megaport Festival (Part 1): The Festival Captain’s Harbor-Style Life](https://www.verse.com.tw/article/megaport-festival-01) — VERSE 2022 report tracing Megaport from its 2006 harbor-side beginnings in Kaohsiung to the post-2016 Doris and Dani era and NGO issue village.
+
 [^10]: [The Past and Present of Megaport Festival (Part 2): Not Only 16 Years, But the Cultural Sum of Taiwan’s Music-Festival History](https://www.verse.com.tw/article/megaport-festival-02) — VERSE 2022 report supplementing the long arc of Formoz Festival, multi-stage internationalization, user-pay culture, artist backstage experience, and the upgrading of Taiwan’s live-music culture.
+
 [^11]: [INTERVIEW: Freddy Lim unfolds New Power Party platform](https://www.taipeitimes.com/News/taiwan/archives/2015/06/26/2003621612) — _Taipei Times_ 2015 interview providing context for Lim entering the election as Chthonic vocalist, human-rights advocate, and New Power Party founder.
+
 [^12]: [Lim to leave NPP, back Tsai re-election bid](https://www.taipeitimes.com/News/front/archives/2019/08/02/2003719765) — _Taipei Times_ 2019 report confirming that Lim left the New Power Party, sought re-election as an independent, and supported Tsai Ing-wen’s re-election.
+
 [^13]: [Independent Legislator Freddy Lim survives recall vote](https://focustaiwan.tw/politics/202201090008) — Focus Taiwan/CNA 2022 report confirming that Lim’s recall vote failed because the yes votes did not reach the legal threshold.
+
 [^14]: [Freddy Lim to retire from politics, look after family](https://www.taipeitimes.com/News/taiwan/archives/2023/03/18/2003796315) — _Taipei Times_ 2023 report recording Lim’s announcement that he would not seek re-election, citing the need to care for a family member with a rare disease.
+
 [^15]: [Independent lawmaker Freddy Lim applies to join DPP](https://focustaiwan.tw/politics/202311270019) — Focus Taiwan/CNA 2023 report confirming Lim’s application to join the Democratic Progressive Party and preparation to help with the 2024 election.
+
 [^16]: [Rock star-turned-politician named Taiwan’s representative to Finland](https://focustaiwan.tw/politics/202505190024) — Focus Taiwan/CNA 2025 report confirming the Presidential Office announcement that Lim would serve as Taiwan’s representative to Finland.
+
 [^17]: [Chthonic put spin on Taiwan's past](https://www.taipeitimes.com/News/taiwan/archives/2003/09/14/2003067797) — A 2003 _Taipei Times_ interview recording Chthonic’s early history, erhu, Lady of Linshui theme, Golden Melody Award Best Band win, and Lim’s move from black metal’s mother-culture consciousness toward Taiwanese history and folk memory.
+
 [^18]: [ChthoniC promotes Taiwan's UN bid in interview with NPR](https://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373320) — A 2007 _Taipei Times_ report on Chthonic speaking to U.S. audiences during Ozzfest about Taiwan’s blocked participation in international organizations and performing “UNlimited Taiwan.”
+
 [^19]: [Chthonic’s new song “Pattonkan” drew inspiration from relatives of political victims](https://www.cna.com.tw/news/amov/202303010226.aspx) — A 2023 CNA report on “Pattonkan,” its creative inspiration, and the White Terror victim-family context around Uyongu Yatauyungana and family memory.
 
 ## References

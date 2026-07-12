@@ -209,6 +209,43 @@ def check_outward_articles():
     return out
 
 
+def check_frontmatter_freshness():
+    """canonical frontmatter last_updated vs git 最後 commit 日（Stage 4.5 漂移偵測）。
+
+    2026-07-11 dna-checkup 手修 5 檔同款 stale（DNA.md 停 5/13 而 body 有 6/25 內容等），
+    class 本身沒儀器——本 check 是那批手修的永駐版。WARN 模式：機械 regen / prettier
+    也會推 git 日期，>7d 落差先當訊號人判（先 WARN 收數據，再議 HARD）。"""
+    import subprocess
+    out = []
+    roots = ["docs/semiont", "docs/pipelines", "docs/editorial", "docs/factory"]
+    files = [REPO / "BECOME_TAIWANMD.md", REPO / "CLAUDE.md"]
+    for r in roots:
+        files += sorted((REPO / r).glob("*.md"))
+    import datetime as _dt
+    for f in files:
+        text = rd(str(f.relative_to(REPO)))
+        if not text or not text.startswith("---"):
+            continue
+        m = re.search(r"^last_updated:\s*'?(\d{4}-\d{2}-\d{2})'?", text[:1500], re.M)
+        if not m:
+            continue
+        # log / buffer 類跳過：append 是它們的日常呼吸不是 state drift
+        #（ARTICLE-DONE-LOG 每篇完成都 append、INBOX 天天進出——對它們量 fm 新鮮度 = 儀式噪音）
+        if re.search(r"^(type:\s*'?[^'\n]*log|status:\s*'?(buffer|log))", text[:1500], re.M):
+            continue
+        g = subprocess.run(["git", "log", "-1", "--format=%as", "--", str(f)],
+                           cwd=REPO, capture_output=True, text=True).stdout.strip()
+        if not g:
+            continue
+        gap = (_dt.date.fromisoformat(g) - _dt.date.fromisoformat(m.group(1))).days
+        if gap > 7:
+            out.append(F(f"{f.relative_to(REPO)} frontmatter 新鮮度", m.group(1), f"git {g}", False,
+                         f"落差 {gap}d——語意改動沒 bump（Stage 4.5）？機械 regen 誤報則人判"))
+    if not out:
+        out.append(F("canonical frontmatter 新鮮度（~80 檔）", "全部 ≤7d", "全部 ≤7d", True, ""))
+    return out
+
+
 def check_pipelines_index():
     out = []
     actual = {p.name for p in (REPO / "docs/pipelines").glob("*.md")} - {"README.md"}
@@ -224,6 +261,7 @@ def check_pipelines_index():
 
 CHECKS = [
     ("REFLEXES 條數", check_reflexes),
+    ("frontmatter 新鮮度", check_frontmatter_freshness),
     ("article-health plugin 數", check_article_health_plugins),
     ("dashboard JSON 數", check_dashboard_json),
     ("refresh 步數", check_refresh_steps),

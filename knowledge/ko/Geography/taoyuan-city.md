@@ -26,6 +26,7 @@ lastHumanReview: false
 translatedFrom: 'Geography/桃園市.md'
 sourceCommitSha: '32ce121bf'
 sourceContentHash: 'sha256:5c5ae989a5cb1634'
+sourceBodyHash: 'sha256:29eb70a9d2662cc7'
 translatedAt: '2026-06-09T03:23:07+08:00'
 ---
 

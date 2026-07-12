@@ -1,8 +1,8 @@
 {
-  "totalArticles": 5071,
+  "totalArticles": 5080,
   "totalCategories": 20,
   "estimatedContributors": 66,
-  "totalTags": 6070,
+  "totalTags": 6083,
   "categories": [
     {
       "name": "es",
@@ -18,7 +18,7 @@
     },
     {
       "name": "en",
-      "count": 849
+      "count": 853
     },
     {
       "name": "ja",
@@ -50,11 +50,11 @@
     },
     {
       "name": "People",
-      "count": 235
+      "count": 238
     },
     {
       "name": "Music",
-      "count": 35
+      "count": 37
     },
     {
       "name": "Geography",
@@ -92,7 +92,7 @@
     },
     {
       "name": "人物",
-      "count": 60
+      "count": 62
     },
     {
       "name": "企業",
@@ -100,7 +100,7 @@
     },
     {
       "name": "科技與企業",
-      "count": 42
+      "count": 41
     },
     {
       "name": "文學",
@@ -123,7 +123,19 @@
       "count": 24
     },
     {
+      "name": "政治",
+      "count": 23
+    },
+    {
       "name": "民主化",
+      "count": 23
+    },
+    {
+      "name": "音樂",
+      "count": 23
+    },
+    {
+      "name": "高雄",
       "count": 23
     },
     {
@@ -147,32 +159,20 @@
       "count": 22
     },
     {
-      "name": "政治",
-      "count": 22
-    },
-    {
       "name": "歷史",
       "count": 22
     },
     {
       "name": "原住民",
       "count": 22
-    },
-    {
-      "name": "半導體",
-      "count": 22
-    },
-    {
-      "name": "高雄",
-      "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5071,
+    "zh-TW": 5080,
     "en": 0
   },
-  "lastUpdated": "2026-07-10T22:12:25.891Z",
-  "stars": 1101,
+  "lastUpdated": "2026-07-11T22:12:25.224Z",
+  "stars": 1102,
   "forks": 162,
   "zhPages": 847,
   "enPages": 853,

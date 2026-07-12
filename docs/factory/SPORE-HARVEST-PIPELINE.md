@@ -4,8 +4,8 @@ description: '孢子回聲收割產線 v3.0 audience flywheel — metrics + repl
 type: 'factory-canonical'
 status: 'canonical'
 current_version: 'v3.0'
-last_updated: 2026-05-27
-last_session: '2026-05-27-122151-manual'
+last_updated: 2026-07-11
+last_session: '2026-07-11-182348-dna-checkup（post-ship verify 驗 canonical URL 不驗 feed/dialog）'
 sister_docs:
   - 'SPORE-PIPELINE.md'
   - 'SPORE-WRITING.md'

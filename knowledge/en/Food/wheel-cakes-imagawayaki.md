@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Food/車輪餅.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:e2a229bf0a672e0c'
+sourceBodyHash: 'sha256:b1f515f692de800c'
 translatedAt: '2026-06-09T02:31:19+08:00'
 ---
 

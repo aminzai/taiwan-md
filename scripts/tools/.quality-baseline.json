@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-10T22:12:26Z",
-  "total": 844,
-  "flagged": 337,
+  "timestamp": "2026-07-11T22:12:26Z",
+  "total": 849,
+  "flagged": 338,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -910,6 +910,11 @@
       "reasons": "未人工審核; 破折號7個; 稀薄段落×3; 無腳註"
     },
     {
+      "file": "people/史明.md",
+      "score": 4,
+      "reasons": "未人工審核; 破折號7個; 套路結尾"
+    },
+    {
       "file": "people/肌肉山山.md",
       "score": 7,
       "reasons": "年份僅0個; 僅2個URL; 未人工審核; 稀薄段落×3"
@@ -933,6 +938,11 @@
       "file": "people/侯孝賢.md",
       "score": 7,
       "reasons": "未人工審核; 塑膠句1個; 破折號11個; 後段清單堆砌37%; 無腳註"
+    },
+    {
+      "file": "people/林昶佐.md",
+      "score": 5,
+      "reasons": "空洞詞5個; 未人工審核; 後段清單堆砌44%"
     },
     {
       "file": "people/朴旻曙.md",
@@ -1373,11 +1383,6 @@
       "file": "history/阿里山：帝國的林場與高一生的山.md",
       "score": 4,
       "reasons": "破折號11個; 套路結尾"
-    },
-    {
-      "file": "history/台灣島史觀.md",
-      "score": 9,
-      "reasons": "塑膠句6個; 後段清單堆砌45%; 稀薄段落×3; 無腳註"
     },
     {
       "file": "history/台灣森林開發史.md",

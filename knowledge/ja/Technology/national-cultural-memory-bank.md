@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Technology/國家文化記憶庫.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:7736814528aad0fb'
+sourceBodyHash: 'sha256:f903cddb5dedf5bd'
 translatedAt: '2026-06-09T03:36:51+08:00'
 ---
 

@@ -4,8 +4,8 @@ description: '孢子產線主流程（process layer）— 5 stage PICK/VERIFY/WR
 type: 'factory-canonical'
 status: 'canonical'
 current_version: 'v3.10'
-last_updated: 2026-06-13
-last_session: '2026-06-13-174425-persona-stage0'
+last_updated: 2026-07-11
+last_session: '2026-07-11-182348-dna-checkup（post-ship verify 驗 canonical URL 不驗 feed/dialog）'
 sister_docs:
   - 'SPORE-WRITING.md'
   - 'SPORE-VERIFY.md'
