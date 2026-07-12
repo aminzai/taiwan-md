@@ -314,3 +314,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-12 | 171228-manual | Portaly 5 筆新支持進 SSOT：NT$200×2 monthly＋NT$500×3；累計 NT$7,900、11 人 `148fd2771` | pipeline 造好換陌生 session 也能執行；續約信靠 parser 硬正規式自然過濾 | [→](memory/2026-07-12-171228-manual.md) |
 | 2026-07-12 | 135710-twmd-tea-panorama | 台灣茶百年縱觀 EVOLVE（2.5k→6.5k、立體群像、5 viz）＋四條 sub-agent 防飄移標準化（源頭溯源／合成單檔／writer 薄殼／媒體 band 1.2–2.0） | 防飄移正解＝殼只做指向＋驗讀，規則複寫進殼就是新的會飄殼（殼核不對稱） | [→](memory/2026-07-12-135710-twmd-tea-panorama.md) |
 | 2026-07-12 | 172122-manual | 新增第 14 條 routine twmd-supporters-weekly（週一 01:00 Portaly 贊助信 sync）+ PR #1221 | 排程器跨 Semiont 共用；reset --hard 前要當下重跑 git status | [→](memory/2026-07-12-172122-manual.md) |
+| 2026-07-12 | 210000-twmd-routine-audit-weekly | W28 cycle 10：246 commit / 16 heal / 4-lens；stale alerts + thick mirrors 2 LESSONS vc=1；`96930f88c` | sensor 只掃 entry 沒掃 exit（#82 子案例） | [→](memory/2026-07-12-210000-twmd-routine-audit-weekly.md) |
