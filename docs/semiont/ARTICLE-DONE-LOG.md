@@ -59,6 +59,14 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 蔡英文 EVOLVE — 2026-07-12 harvest b35f1b3e 完成（從敗選之夜到 817 萬票，安靜走過總統八年）
+
+- **Article**: [knowledge/People/蔡英文.md](../../knowledge/People/蔡英文.md) — 146 行舊式短文全文重寫，修正訪歐國家／場合、早稻田演講、飛彈口徑與博士論文敘事。
+- **Pipeline**: REWRITE-PIPELINE — Evolution 模式；P0 政治敏感題，以政策動作＋結果＋多方批評並陳。
+- **核心主軸**：2012 年差 797,561 票敗選，到 2020 年以 8,170,231 票創總統直選最高票；安靜的學者型領導與制度治理的完成／未竟。
+- **品質**：4,500+ CJK / 23 footnote / 6 images / Stage 3.5 PASS / Stage 3.6 PASS / rewrite-stage-4 hard=0。
+- **Research**: [reports/research/2026-06/蔡英文-evolve-20260614.md](../../reports/research/2026-06/蔡英文-evolve-20260614.md)（1,660 行 depth SSOT，research-report-health PASS）。
+
 ### 楊德昌 EVOLVE — 2026-07-05 115223-楊德昌-evolve 完成（哲宇 explicit /twmd-rewrite 楊德昌 — People 電影與戲劇 / 多 agent 全編排 / 成品總驗 worked example）
 
 - **Article**: [knowledge/People/楊德昌.md](../../knowledge/People/楊德昌.md) — 2026-03-19 舊編年體（~2000 CJK / 6 首頁級腳註 / 0 引語 0 媒體 / 父母姓名幻覺 / 《麻將》缺席）全文重寫 → **6,688 prose CJK（含註 ~12,000 字）/ 92 footnote / 本人直引 6+ / 3 張北美館工作照（fair use press kit credit chain）+ 2 支官方 iframe + tw-timeline 七部半年表**
