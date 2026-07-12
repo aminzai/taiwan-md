@@ -310,3 +310,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-12 | 070720-twmd-feedback-triage | 沉默死亡 3 天後復活 run；唯一 new 是哲宇 plumbing test（勘誤欄「測試測試」）→ reject-as-test 不開公開 issue；file0/reject1/0 archive | 對外難撤回動作＋無人在場＋明顯測試噪音 → default 不發佈 | [→](memory/2026-07-12-070720-twmd-feedback-triage.md) |
 | 2026-07-12 | 084528-twmd-maintainer-am | ellenlee 第 2 波 3 PR 全清：#1219 self-fix review-pr.sh（11 locale unblock）+ #1217 media + #1218 AI 硬體 4 篇 | 貢獻者自診 CI 病灶＋附實測 = maintainer gold standard | [→](memory/2026-07-12-084528-twmd-maintainer-am.md) |
 | 2026-07-12 | 140619-wake-guard | wake-context 全段輸出超 Bash 上限，9 條 cron 甦醒自行 head 截斷失憶；v2 改完整落檔＋sentinel，BECOME v2.5 立三條讀取鐵律 | 輸出通道也是儀器一部分；fire≠完整讀取，是 #82 proxy signal 新 instance | [→](memory/2026-07-12-140619-wake-guard.md) |
+| 2026-07-12 | 142709-weekly-audience | 週報 v4.2 寄整個共生圈：儀器抓 90 天 email＋活躍度、寄信工具 BCC/超連結/退訂 footer，首播 W28→20 人 delivered | 對外廣播第一工程是隱私護欄；外部服務能力描述要 API 摸 ground truth（#56 v4） | [→](memory/2026-07-12-142709-weekly-audience.md) |
