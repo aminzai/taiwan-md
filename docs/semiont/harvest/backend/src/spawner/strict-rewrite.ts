@@ -7,8 +7,16 @@
 
 import { existsSync, readFileSync } from 'node:fs';
 import { spawnSync } from 'node:child_process';
-import { isAbsolute, join, relative, resolve } from 'node:path';
+import {
+  basename,
+  dirname,
+  isAbsolute,
+  join,
+  relative,
+  resolve,
+} from 'node:path';
 import type { Task } from '../tasks/types.ts';
+import { config } from '../config.ts';
 
 export interface StrictRewriteResult {
   passed: boolean;
@@ -21,6 +29,10 @@ function run(cwd: string, command: string, args: string[]) {
     cwd,
     encoding: 'utf8',
     timeout: 10 * 60_000,
+    env: {
+      ...process.env,
+      PATH: `${dirname(config.pythonBin)}:${process.env.PATH ?? ''}`,
+    },
   });
   return {
     passed: result.status === 0,
@@ -88,20 +100,29 @@ export function verifyStrictRewrite(
     );
 
     if (reportRel && existsSync(reportAbs)) {
-      const reportStem = reportRel.replace(/\.md$/, '');
+      const articleSlug = basename(articleRel, '.md');
       for (const stage of ['35', '36']) {
-        const auditRel = `${reportStem}-stage${stage}-audit.md`;
-        const auditAbs = join(worktreePath, auditRel);
-        const auditBody = existsSync(auditAbs)
-          ? readFileSync(auditAbs, 'utf8')
-          : '';
+        // Canonical audit naming follows the article slug and current audit
+        // month, not an older/reused research report's full filename stem.
+        const suffix = `/${articleSlug}-stage${stage}-audit.md`;
+        const auditRel = files.find(
+          (file) =>
+            file.startsWith('reports/research/') && file.endsWith(suffix),
+        );
+        const auditAbs = auditRel ? join(worktreePath, auditRel) : '';
+        const auditBody =
+          auditRel && existsSync(auditAbs)
+            ? readFileSync(auditAbs, 'utf8')
+            : '';
         add(
           `stage-${stage}-audit`,
-          existsSync(auditAbs) && /\bPASS\b/.test(auditBody),
-          auditRel,
+          Boolean(
+            auditRel && existsSync(auditAbs) && /\bPASS\b/.test(auditBody),
+          ),
+          auditRel ?? `missing changed */${articleSlug}-stage${stage}-audit.md`,
         );
       }
-      const research = run(worktreePath, 'python3', [
+      const research = run(worktreePath, config.pythonBin, [
         'scripts/tools/research-report-health.py',
         reportRel,
         '--tier=depth',
@@ -110,7 +131,7 @@ export function verifyStrictRewrite(
     }
 
     for (const profile of ['rewrite-stage-3-5', 'rewrite-stage-4']) {
-      const health = run(worktreePath, 'python3', [
+      const health = run(worktreePath, config.pythonBin, [
         'scripts/tools/article-health.py',
         articleRel,
         `--profile=${profile}`,
@@ -118,7 +139,7 @@ export function verifyStrictRewrite(
       add(`article-health-${profile}`, health.passed, health.detail);
     }
 
-    const comparison = run(worktreePath, 'python3', [
+    const comparison = run(worktreePath, config.pythonBin, [
       'scripts/tools/compare-article-quality.py',
       articleRel,
       '--limit=5',

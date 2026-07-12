@@ -13,6 +13,7 @@ import json
 import re
 import statistics
 import subprocess
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -43,7 +44,7 @@ def recent_articles(target: str, limit: int) -> list[str]:
 def metrics(path: str) -> dict[str, object]:
     body = (ROOT / path).read_text(encoding="utf-8")
     health = subprocess.run(
-        ["python3", "scripts/tools/article-health.py", path, "--profile=dashboard", "--output=json"],
+        [sys.executable, "scripts/tools/article-health.py", path, "--profile=dashboard", "--output=json"],
         cwd=ROOT, text=True, capture_output=True, check=True,
     )
     report = json.loads(health.stdout)["reports"][0]
@@ -53,6 +54,7 @@ def metrics(path: str) -> dict[str, object]:
         if result["check"] == "prose-health":
             prose_warn = sum(v["severity"] == "warn" for v in result["violations"])
     prose = re.sub(r"^---[\s\S]*?---\s*", "", body, count=1)
+    prose = re.split(r"\n## 參考資料\s*\n", prose, maxsplit=1)[0]
     prose = re.sub(r"(?m)^\[\^[^\]]+\]:.*$", "", prose)
     cjk = len(re.findall(r"[\u3400-\u9fff]", prose))
     footnotes = len(re.findall(r"(?m)^\[\^[^\]]+\]:", body))

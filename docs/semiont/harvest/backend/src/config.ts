@@ -33,6 +33,7 @@ const repoRoot =
 
 const backendRoot = resolve(__dirname, '..');
 const bundledCodexBin = '/Applications/ChatGPT.app/Contents/Resources/codex';
+const homebrewPythonBin = '/opt/homebrew/bin/python3';
 
 function bool(envVar: string | undefined, fallback: boolean): boolean {
   if (envVar === undefined) return fallback;
@@ -61,6 +62,10 @@ export const config = {
   codexBin:
     process.env.HARVEST_CODEX_BIN?.trim() ||
     (existsSync(bundledCodexBin) ? bundledCodexBin : 'codex'),
+  /** Python >=3.11 is required by article-health (tomllib). */
+  pythonBin:
+    process.env.HARVEST_PYTHON_BIN?.trim() ||
+    (existsSync(homebrewPythonBin) ? homebrewPythonBin : 'python3'),
   /** Path to the `grok` CLI binary (xAI Grok Build). Used when engine=grok. */
   grokBin: process.env.HARVEST_GROK_BIN?.trim() || 'grok',
   /**
