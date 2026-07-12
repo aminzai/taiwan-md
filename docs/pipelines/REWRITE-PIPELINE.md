@@ -3,9 +3,9 @@ title: 'REWRITE-PIPELINE'
 description: '文章改寫主流程 canonical — 6 stage 線性 (Stage 0 觀點 + 1-5 取材/寫/驗/形/連) / 模式判定在 Stage 0 內部分支 / Step N.M 編號 / heading 階層 H1-H4 / 翻譯收斂為 pointer 到巴別塔 (v6.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v7.10'
+current_version: 'v7.11'
 last_updated: 2026-07-12
-last_session: '2026-07-12-135710-twmd-tea-panorama（Step 1.8-ter 研究 sub-agent 輸出契約：來源逐條可溯 + 五段骨架 + 標準 prompt 塊；agent-report-health v3 溯源率 gate）'
+last_session: '2026-07-12-135710-twmd-tea-panorama（v7.10 Step 1.8-ter 研究 sub-agent 輸出契約 + 溯源率 gate；v7.11 Step 1.7.4 研究合成單檔鐵律 + WRITER-PROMPT.md 寫作模板 read-receipt 防飄移）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -16,6 +16,7 @@ sister_docs:
   - 'MEMORY-PIPELINE.md'
   - 'DIARY-PIPELINE.md'
   - 'RESEARCH-AGENT-PROMPT.md'
+  - 'WRITER-PROMPT.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
   - '../semiont/DNA.md'
@@ -189,20 +190,21 @@ upstream_canonical:
 
 ## 跨檔案職責分工
 
-| 檔案                                                             | 範圍                                                                                                             |
-| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **本檔**                                                         | 6 stage 線性主流程（單檔，含觀點成型 + 模式判定 + 媒體生命週期 + cron）                                          |
-| [RESEARCH.md](../editorial/RESEARCH.md)                          | 研究方法論 SSOT（怎麼搜、怎麼判斷、怎麼避坑）                                                                    |
-| [EDITORIAL.md](../editorial/EDITORIAL.md)                        | 品質基因 SSOT（好文章長什麼樣、風格、禁止事項）                                                                  |
-| [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)              | 引用規範（腳註格式、密度標準、來源品質）                                                                         |
-| [RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md)        | 研究模板（Stage 1 組裝後主報告 §1-§8 格式）                                                                      |
-| [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md)             | 研究 sub-agent 派發通用 prompt＋分部報告輸出模板＋anti-example 庫（Step 1.8-ter 契約的 copy-paste 載體，禁即興） |
-| [QUALITY-CHECKLIST.md](../editorial/QUALITY-CHECKLIST.md)        | 驗證清單（Stage 3 逐項檢查）                                                                                     |
-| [TERMINOLOGY.md](../editorial/TERMINOLOGY.md)                    | 用語規範（台灣在地用語標準）                                                                                     |
-| [graph.md](../editorial/graph.md)                                | 視覺化編輯指南（型錄/模組語法/AI 可讀性）— Stage 2 視覺化思考 + Stage 4 viz-health                               |
-| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)                   | Stage 3 Step 3.3 觸發（事實查核完整 SOP）                                                                        |
-| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)               | 中文 ship 後跨 pipeline 觸發（單篇翻譯 SOP）                                                                     |
-| [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md) | 中文 ship 後跨 pipeline 觸發（多語 batch sync 巴別塔）                                                           |
+| 檔案                                                             | 範圍                                                                                                                                |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **本檔**                                                         | 6 stage 線性主流程（單檔，含觀點成型 + 模式判定 + 媒體生命週期 + cron）                                                             |
+| [RESEARCH.md](../editorial/RESEARCH.md)                          | 研究方法論 SSOT（怎麼搜、怎麼判斷、怎麼避坑）                                                                                       |
+| [EDITORIAL.md](../editorial/EDITORIAL.md)                        | 品質基因 SSOT（好文章長什麼樣、風格、禁止事項）                                                                                     |
+| [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)              | 引用規範（腳註格式、密度標準、來源品質）                                                                                            |
+| [RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md)        | 研究模板（Stage 1 組裝後主報告 §1-§8 格式）                                                                                         |
+| [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md)             | 研究 sub-agent 派發通用 prompt＋分部報告輸出模板＋anti-example 庫（Step 1.8-ter 契約的 copy-paste 載體，禁即興）                    |
+| [WRITER-PROMPT.md](WRITER-PROMPT.md)                             | Stage 2 寫作 sub-agent 派發通用 prompt＋read-receipt 防飄移＋蒸餾 craft 規則＋anti-example 庫（禁即興，禁 skim EDITORIAL/pipeline） |
+| [QUALITY-CHECKLIST.md](../editorial/QUALITY-CHECKLIST.md)        | 驗證清單（Stage 3 逐項檢查）                                                                                                        |
+| [TERMINOLOGY.md](../editorial/TERMINOLOGY.md)                    | 用語規範（台灣在地用語標準）                                                                                                        |
+| [graph.md](../editorial/graph.md)                                | 視覺化編輯指南（型錄/模組語法/AI 可讀性）— Stage 2 視覺化思考 + Stage 4 viz-health                                                  |
+| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)                   | Stage 3 Step 3.3 觸發（事實查核完整 SOP）                                                                                           |
+| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)               | 中文 ship 後跨 pipeline 觸發（單篇翻譯 SOP）                                                                                        |
+| [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md) | 中文 ship 後跨 pipeline 觸發（多語 batch sync 巴別塔）                                                                              |
 
 ---
 
@@ -446,7 +448,7 @@ Stage 0.6 觀點成型**當作 Fresh 在做**：從題材本身 + 一手研究�
 
 - Stage 2 的寫作輸入 = `reports/research/{slug}.md` **整份 report（§6 fact-pack ＋ §8 raw verbatim 全部讀）** + §觀點成型 + EDITORIAL.md。**隔離掉的是舊文 body + callout，不是 report。**
 - **Evolution mode：writer 寫到 staging 檔，永不 overwrite canonical（v7.5，2026-06-15 哲宇 callout）**——Write tool overwrite 既有檔**必須先 Read**，所以叫 writer「overwrite 舊文但別讀舊文」是自相矛盾、它被迫吃病毒。**改成**：writer 把成品 Write 到 **`reports/article-evolve/{slug}.md`**（全新檔、零感染面），**Stage 2.5 主 session 讀 staging ＋ 舊 canonical 比對後親手覆蓋** `knowledge/{cat}/{slug}.md`。
-- **首選**：spawn 一個 fresh writer agent（Step 1.8 既有 spawn 機制），prompt **明確要求它先 `Read` 完整 research report 檔案**（不是只貼 orchestrator 摘要的 fact-pack）＋ §觀點 + anchors，**不給舊文 body、不給 callout**，**輸出寫到 staging 檔（Evolution mode）**。Agent 在乾淨 context 裡像第一次寫，但握有研究的全部 raw texture。⚠️ **反 pattern（v7.4，2026-06-15 哲宇 callout）：orchestrator 把 report 再摘要成精簡 fact-pack 塞進 prompt、又叫 writer 別讀 report ＝ 雙重失真，近期文章變爛的根因。**
+- **首選**：spawn 一個 fresh writer agent（Step 1.8 既有 spawn 機制），**prompt 一律 copy [WRITER-PROMPT.md](WRITER-PROMPT.md) 通用模板填槽**（v7.11，禁即興手寫——即興＝每次規則不一、漏讀 EDITORIAL/pipeline＝飄移根因，哲宇 2026-07-12 callout）。模板內建兩層防飄移：**(A) read-receipt** — writer 動筆前先 quote §8 raw 的 3 個 texture + EDITORIAL 1 個 Before/After 範例 + spine 宣告，主 session 核對真偽，quote 不出來＝沒讀＝退回；**(B) 蒸餾 craft checklist** — EDITORIAL/pipeline 可執行紀律 inline 當 backstop。writer 讀**合成後單檔** research report（[Step 1.7.4](#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)，散落多檔＝漏讀）＋ EDITORIAL 全檔（含 Before/After 範例，不 skim）。⚠️ **反 pattern（v7.4，2026-06-15 哲宇 callout）：orchestrator 把 report 再摘要成精簡 fact-pack 塞進 prompt、又叫 writer 別讀 report ＝ 雙重失真，近期文章變爛的根因。**
 - **主 session 自寫時**：Stage 2 期間**不准重新打開舊文檔案**，但**必讀整份 research report（含 §8 raw verbatim）**。寫完跑下方 Step 3.2-bis backstop。
 
 #### Backstop 自檢句（Stage 3 hard gate，見 Step 3.2-bis）
@@ -961,8 +963,20 @@ v6.3 多 agent 編排叫主 session「合成去重成 clean fact-pack」，但�
 2. 主 session 把**所有 agent 原始輸出 verbatim append 到 §8**（SSOT raw）。
 3. 主 session **額外**合成 §6 Clean Fact-Pack 給 writer。
 4. §6 是 §8 的蒸餾，不是 §8 的替代。**§8 缺席 = Stage 1 未完成**。
-5. **落檔時機 = 收到回報的第一個動作**（v7.7）：async agent 的 task-notification `<result>` 一到，先 verbatim 落檔（§8 inline 或 repo 內 sibling raw 檔如 `{slug}-research-N.md`，兩種 pattern gate 都認），才准做任何合成／蒸餾。「先摘要待會再補」＝柯智棠病（見 §鐵律 8）。
+5. **落檔時機 = 收到回報的第一個動作**（v7.7）：async agent 的 task-notification `<result>` 一到，先 verbatim 落檔，才准做任何合成／蒸餾。「先摘要待會再補」＝柯智棠病（見 §鐵律 8）。**落檔的兩種形態**：(a) 直接 append 主報告 §8 inline；(b) 先寫 repo 內 sibling raw 檔 `{slug}-research-{X}.md`（async 場景較快、較不會撞主檔）。**但 sibling 是「中繼站」不是終點**——見下方 1.7.4。
 6. **禁 ephemeral 存放**（v7.7）：session scratchpad、`/private/tmp`、tasks/\*.output pointer 都不是落檔——tmp 是倒數計時的刪除佇列（醫療 report 5 份 raw 就是這樣永久蒸發的）。raw 唯一合法的家在 git 內。
+
+#### 1.7.4 合成單檔鐵律：sibling 是中繼站，Stage 2 前必 consolidate（v7.11）📦
+
+> **觸發**：2026-07-12 台灣茶文化 panorama（哲宇 directive「research 階段分批做完之後，一定要合成同一篇歸檔同一篇大 research 歸 repo，現在都是散落的」）。該次 4 個研究 agent 各寫一個 sibling raw 檔（-rawA/-rawB/-rawC/-research-D），主報告 §8 只放 pointer 表——**5 個檔散落**，findability 差、跨文 re-use 難、審計要開 5 個檔。v7.10 以前 gate 明說「分檔金曲獎型也認」，等於祝福散落。
+
+**鐵律**：**一篇文章的 research = 一個 repo 內的大檔**（`reports/research/{YYYY-MM}/{slug}.md`），§1-§8 全在裡面。sibling raw 檔只是 async 落檔的中繼站，**Stage 2 spawn writer 之前，orchestrator 必須**：
+
+1. **Consolidate**：把每個 sibling raw 的**完整內容** verbatim inline 進主報告 §8（建議 `### §8.A / §8.B / …` 分節，標原 agent 子領域），不是留 pointer。
+2. **Delete siblings**：合成後刪掉 `{slug}-research-*.md` / `{slug}-raw*.md`（git rm 或 unlink）——避免同內容兩份、避免下游不知道讀哪個。
+3. **驗**：跑 `research-report-health.py`，§8 inline 密度自然 ≥ 120；`ls reports/research/{YYYY-MM}/{slug}-*.md` 應只剩主檔一個。
+
+**為什麼是單檔不是分檔**：(a) findability——一個 slug 一個 research SSOT，grep / re-use / reader-callout 追源只開一個檔；(b) writer 只需 Read 一個檔就有全部 raw texture（分檔要 Read N 個，容易漏讀 = 飄移根因之一）；(c) 歸檔完整性——散落的 sibling 容易在 cleanup / worktree gc 時漏掉一兩個（呼應本 session 的圖檔差點變孤兒）。**中繼站的存在只為 async 落檔安全（鐵律 8），一旦合成完成它的任務就結束了。**
 
 #### 1.7.3 HARD GATE：`research-report-health.py` 🔬
 
@@ -970,7 +984,7 @@ v6.3 多 agent 編排叫主 session「合成去重成 clean fact-pack」，但�
 python3 scripts/tools/research-report-health.py reports/research/YYYY-MM/{slug}.md --tier=depth
 ```
 
-驗收（depth tier）：distinct 來源 ≥ 25 / **英文來源 ≠ 0**（理想 ≥ 5）/ **一手來源 ≠ 0**（理想 ≥ 5）/ 有搜尋日誌 section / 信度標記 ≥ 8 / 行數 ≥ 300 / **§8 raw 有效密度 ≥ 120 行**（v2 HARD — inline 行數＋指向存在的 repo 內 raw 檔行數合計，單檔楊德昌型與分檔金曲獎型都認）/ **ephemeral pointer = 0**（v2 HARD — §8 指 /tmp 或 scratchpad 直接 FAIL）。**hard_fail > 0 = 不進 Stage 2**（回去補搜尋 + 把原始軌跡寫回 SSOT）。儀器化背景：把 §Step 1.1 的 4 條來源配額從 aspirational 變可量測（REFLEXES #15）；v2 兩條把 §鐵律 8「orchestrator aggregate-on-receive」從紀律變閘門——柯智棠病例（§8 = 9 行 pointer 指 scratchpad）在 gate v1 是 PASS，v2 是雙 hard fail。**v2.1 疑慮通知層**：每條 fail/warn 附「為什麼＋思考方向」給呼叫 session 決策（`--json` 含 `concerns[]`）；上游每份分部報告另有收件 gate `agent-report-health.py`（Step 1.8-bis 步 2，收到就跑、FAIL 不准合成）。
+驗收（depth tier）：distinct 來源 ≥ 25 / **英文來源 ≠ 0**（理想 ≥ 5）/ **一手來源 ≠ 0**（理想 ≥ 5）/ 有搜尋日誌 section / 信度標記 ≥ 8 / 行數 ≥ 300 / **§8 raw 有效密度 ≥ 120 行**（v2 HARD — inline 行數＋指向存在的 repo 內 raw 檔行數合計）/ **ephemeral pointer = 0**（v2 HARD — §8 指 /tmp 或 scratchpad 直接 FAIL）/ **合成單檔**（v3 WARN — 主報告旁還躺著 `{slug}-research-*` / `{slug}-raw*` sibling = 未 consolidate，per [Step 1.7.4](#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）。**final 形態＝單檔楊德昌型**；分檔金曲獎型只是 async 中繼，Stage 2 前必合成 + 刪 sibling。**hard_fail > 0 = 不進 Stage 2**（回去補搜尋 + 把原始軌跡寫回 SSOT）。儀器化背景：把 §Step 1.1 的 4 條來源配額從 aspirational 變可量測（REFLEXES #15）；v2 兩條把 §鐵律 8「orchestrator aggregate-on-receive」從紀律變閘門——柯智棠病例（§8 = 9 行 pointer 指 scratchpad）在 gate v1 是 PASS，v2 是雙 hard fail。**v2.1 疑慮通知層**：每條 fail/warn 附「為什麼＋思考方向」給呼叫 session 決策（`--json` 含 `concerns[]`）；上游每份分部報告另有收件 gate `agent-report-health.py`（Step 1.8-bis 步 2，收到就跑、FAIL 不准合成）。
 
 **好處**（[REFLEXES #22 raw 永遠不刪](../semiont/DNA.md) + [MANIFESTO §造橋鋪路](../semiont/MANIFESTO.md)）：
 

@@ -237,6 +237,18 @@ def analyze(path: Path):
     sixq = sum(1 for r in SIXQ_MARKERS if r.search(txt))
     # §8 raw 密度 + ephemeral pointer (v2)
     s8_inline, s8_effective, ephemeral, s8_missing = analyze_s8(txt, path)
+    # v3 合成單檔（2026-07-12）：主報告旁還躺著未合成的 sibling raw/research 檔？
+    # sibling 命名 {slug}-raw*.md / {slug}-research-{X}.md，slug 是本報告 stem 的前綴。
+    unmerged_siblings = []
+    try:
+        for f in path.parent.glob("*.md"):
+            if f.resolve() == path.resolve():
+                continue
+            m = re.match(r"(.+?)-(raw|research)[-A-Za-z0-9]*$", f.stem)
+            if m and (path.stem == m.group(1) or path.stem.startswith(m.group(1) + "-")):
+                unmerged_siblings.append(f.name)
+    except OSError:
+        pass
     # domain diversity
     domains = set()
     for u in distinct:
@@ -262,6 +274,7 @@ def analyze(path: Path):
         has_persona=has_persona,
         viewpoint_formed=viewpoint_formed,
         sixq=sixq,
+        unmerged_siblings=unmerged_siblings,
     )
 
 
@@ -317,6 +330,14 @@ def grade(metrics, tier):
     if metrics["s8_missing"] > 0:
         warn += 1
         results.append(("§8 pointer 指向不存在的檔", metrics["s8_missing"], "= 0", "warn", False))
+    # v3 合成單檔（2026-07-12 哲宇 directive「分批做完要合成同一篇」）
+    sibs = metrics.get("unmerged_siblings", [])
+    if sibs:
+        warn += 1
+        results.append((
+            f"未合成單檔：旁邊還躺著 {len(sibs)} 個 sibling raw 檔（{'、'.join(sibs[:3])}{'…' if len(sibs) > 3 else ''}）"
+            f" — Stage 2 前把內容 inline 進 §8 + 刪 sibling（Step 1.7.4）",
+            len(sibs), "= 0（合成後單檔）", "warn", False))
     return results, hard_fail, warn
 
 
