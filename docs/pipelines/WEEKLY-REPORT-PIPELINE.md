@@ -529,7 +529,7 @@ WINDOW_START=$(date -v-7d +%Y-%m-%d)  # macOS / Linux: date -d "7 days ago"
 python3 scripts/tools/send-email-resend.py \
   --to cheyu.wu@monoame.com \
   --bcc-from-json ~/.config/taiwan-md/weekly-report/recipients-latest.json \
-  --from "Taiwan.md <taiwanmd@cheyuwu.com>" \
+  --from "Taiwan.md 週報 <weekly@taiwan.md>" \
   --reply-to cheyu.wu@monoame.com \
   --audience-footer \
   --subject "🧬 Taiwan.md 週報 ${WINDOW_START} ～ ${DATE}" \
@@ -539,7 +539,7 @@ python3 scripts/tools/send-email-resend.py \
 #### 設定
 
 - **API key**：`~/.config/taiwan-md/credentials/resend.key`（chmod 600 / REFLEXES #2 鐵律：永不進對話、永不複述、永不 commit）
-- **From**：`Taiwan.md <taiwanmd@cheyuwu.com>`——Resend 上 `cheyuwu.com` 已 verified（2026-03-01 起，sending enabled）。v4.1 以前的「sandbox 只能寄 verified email」註記已過時。未來驗證 `taiwan.md` 網域後可改 `weekly@taiwan.md`（哲宇在 Cloudflare 加 SPF/DKIM，帳號層操作）。
+- **From**：`Taiwan.md 週報 <weekly@taiwan.md>`——`taiwan.md` 網域 2026-07-12 於 Resend 驗證完成（DKIM + SPF MX + SPF TXT 三筆記錄在 Cloudflare，DNS-only）。此網域無收件信箱（root 無 MX，`send` 子網域 MX 只給 SES bounce return-path），回信走 `--reply-to` 到哲宇實體信箱。Resend 免費方案單一網域，`cheyuwu.com` 已於同日移除換上 taiwan.md（swap，非升級；決策見設計報告 §8）。v4.1 以前的「sandbox 只能寄 verified email」註記已過時。
 - **To**：`cheyu.wu@monoame.com`（哲宇，永遠是主收件人）
 - **Reply-To**：`cheyu.wu@monoame.com`（退訂回信有人接）
 - **BCC**：讀 5a 的 JSON `bcc` 陣列；寄信工具自動分批（每批 ≤ 40）

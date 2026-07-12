@@ -67,6 +67,11 @@ OWNER_LOGIN = "frank890417"
 OWNER_EMAILS = {"cheyu.wu@monoame.com", "frank890417@gmail.com"}
 OWNER_NAME = "Che-Yu Wu"
 
+# Resend 免費方案上限：一天 100 封（含 To + 每個 BCC）。一次週報廣播 = 收件人數封。
+# 名單接近上限時提醒升級 Pro（決策見 reports/weekly-report-audience-upgrade-2026-07-12.md §「深度分析」）。
+FREE_TIER_DAILY_LIMIT = 100
+FREE_TIER_WARN_AT = 80  # +1 是 To（哲宇），留 ~19 封餘裕給批次抖動
+
 BOT_EXACT_LOGINS = {"dependabot", "github-actions", "copilot"}
 
 # e.g. 12345+someuser@users.noreply.github.com → login "someuser"
@@ -626,6 +631,16 @@ def render_summary(
         f"總計 {len(records)} 人／可聯繫 {reachable_n}／無法聯繫 {unreachable_n}／"
         f"opt-out {optout_n}／bcc 名單 {len(bcc)} 人"
     )
+    if len(bcc) >= FREE_TIER_DAILY_LIMIT:
+        lines.append(
+            f"🚨 bcc {len(bcc)} 已達／超過 Resend 免費方案單日 {FREE_TIER_DAILY_LIMIT} 封上限"
+            f"（含 To 共 {len(bcc)+1} 封）——本週廣播會被截斷，該升級 Pro 了。"
+        )
+    elif len(bcc) >= FREE_TIER_WARN_AT:
+        lines.append(
+            f"⚠️ bcc {len(bcc)} 逼近 Resend 免費方案單日 {FREE_TIER_DAILY_LIMIT} 封上限"
+            f"——快到該考慮升級 Pro（$20/月，無單日上限）的時候了。"
+        )
 
     unreachable_ids = []
     for r in records:
@@ -693,12 +708,24 @@ def main() -> None:
     }
     log(f"counts: {counts}", args.quiet)
 
+    bcc_n = len(bcc)
+    free_tier = {
+        "daily_limit": FREE_TIER_DAILY_LIMIT,
+        "warn_at": FREE_TIER_WARN_AT,
+        "send_count": bcc_n + 1,  # + To (哲宇)
+        "status": (
+            "over" if bcc_n >= FREE_TIER_DAILY_LIMIT
+            else "warn" if bcc_n >= FREE_TIER_WARN_AT
+            else "ok"
+        ),
+    }
     payload = {
         "generated_at": generated_at_iso,
         "window_days": args.window_days,
         "window_start": window_start_iso,
         "repo": args.repo,
         "counts": counts,
+        "free_tier": free_tier,
         "recipients": records,
         "bcc": bcc,
     }

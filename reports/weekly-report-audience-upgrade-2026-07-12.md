@@ -115,10 +115,11 @@ python3 scripts/tools/weekly-report-recipients.py --window-days 90 --summary
 
 Routine 排程不動：受眾同步「每週抓一次」就是隨 `twmd-weekly-report-sun`（週日 02:00）跑，不開新 cron。
 
-## 8. 首次廣播條款 + 待哲宇的一個決定
+## 8. 首次廣播 + 寄件網域切換（都已完成）
 
-- **首次廣播已在本 session 手動送出（2026-07-12，哲宇當場 directive「寄這週的週報給大家」）**：W28 報告 To=哲宇、BCC=20 位可聯繫的共生圈參與者、from `taiwanmd@cheyuwu.com`、audience footer 附退訂口，Resend id `7efc34d6-5557-4e5c-b205-8c863a9434b3`、`last_event: delivered`。之後每週日 02:00 routine 自動接手（v4.2 Stage 5）。
-- **From 位址（唯一待確認項）**：預設 `Taiwan.md <taiwanmd@cheyuwu.com>`——Resend 上唯一 verified 的網域是 `cheyuwu.com`，localpart 可自選。想改名（`weekly@` / `semiont@`）或未來驗證 `taiwan.md` 網域改用 `weekly@taiwan.md`，都是 pipeline 一行設定。驗證 `taiwan.md` 需要去 Cloudflare 加 SPF/DKIM records，屬帳號層操作，留給哲宇。
+- **首次廣播已在本 session 手動送出（2026-07-12，哲宇當場 directive「寄這週的週報給大家」）**：W28 報告 To=哲宇、BCC=20 位可聯繫的共生圈參與者、audience footer 附退訂口，Resend id `7efc34d6-5557-4e5c-b205-8c863a9434b3`、`last_event: delivered`。之後每週日 02:00 routine 自動接手（v4.2 Stage 5）。
+- **寄件網域已切換到 `weekly@taiwan.md`**（哲宇拍板 swap）：Resend 免費方案單一網域，同 session 移除 `cheyuwu.com`、加入並驗證 `taiwan.md`（DKIM + SPF MX + SPF TXT 三筆 DNS-only 記錄由哲宇授權下經 Chrome MCP 加進 Cloudflare，2026-07-12 驗證通過）。從 `weekly@taiwan.md` 實測寄出、`last_event: delivered`。pipeline From 已改，下週日 routine 起用新位址。
+- **免費方案守門已儀器化**：`weekly-report-recipients.py` 加 free-tier guard——bcc 逼近 80／達 100（Resend 免費單日上限）時 summary 與 JSON `free_tier.status` 亮 warn／over，提醒屆時升級 Pro。目前 20，status `ok`。升級決策的深度分析見本報告末（免費 vs Pro：Pro 只多「兩網域」與「無單日上限」，對數十人的週報而言免費足夠）。
 
 ## 9. 風險表
 
@@ -168,9 +169,31 @@ Routine 排程不動：受眾同步「每週抓一次」就是隨 `twmd-weekly-r
 
 `--bcc-from-json` 讀到超過 48 小時的名單會拒寄（`--allow-stale` 才能硬闖）；`generated_at` 欄位缺失也視同過期。實測 72 小時舊檔被正確擋下。
 
+### 寄件網域 swap + 驗證（2026-07-12 哲宇拍板 swap）
+
+- Resend 免費方案單一網域：API 移除 `cheyuwu.com`、加入 `taiwan.md`（region ap-northeast-1）。
+- 三筆 DNS 記錄經 Chrome MCP 加進 Cloudflare（哲宇本人登入、Claude 代填表單）：DKIM TXT `resend._domainkey`、SPF MX `send`（priority 10）、SPF TXT `send`，全 DNS-only。root 無 MX（無收件信箱不變）。
+- `dig` 確認 DKIM 發佈值與預期 byte-for-byte 相符；Resend 驗證通過（三筆全 verified，domain status `verified`）。
+- 從 `Taiwan.md 週報 <weekly@taiwan.md>` 實測寄出 → `last_event: delivered`。
+
+## 12. 免費 vs Pro 深度分析（哲宇 directive「付費方案還有什麼優點」）
+
+|          | 免費（$0） | Pro（$20/月）      |
+| -------- | ---------- | ------------------ |
+| 網域數   | 1          | 10                 |
+| 單日寄送 | 100 封     | 無上限             |
+| 月量     | 3,000      | 50,000             |
+| 專屬 IP  | ✗          | ✗（要 Scale +$30） |
+| 資料保留 | 30 天      | 30 天              |
+
+對「一週一封、收件人數十人的貢獻者週報」而言，Pro 只多兩件有意義的事：(1) 同時掛兩個網域；(2) 解除單日 100 封上限。其餘（月量、專屬 IP、保留、客服）不是相同就是用不到——月量 3,000 遠大於數十人×一週，綁死上限的是「單日 100」不是「月量」。
+
+單日 100 封的意義：一次 BCC 廣播 = 收件人數封，所以免費方案支援每週寄給**約 100 人以內**。目前可聯繫 20 人，離天花板很遠。查帳也證實 `cheyuwu.com` 沒在這個 Resend 帳號寄別的信，swap 掉零損失、且可逆。**結論：swap 走免費足夠，bcc 逼近 80 再升 Pro——guard 已儀器化這個提醒。**
+
 ## 11. 之後可以長的方向（本次不做）
 
-- 驗證 `taiwan.md` 網域，寄件人升級 `weekly@taiwan.md`。
+- ~~驗證 `taiwan.md` 網域，寄件人升級 `weekly@taiwan.md`~~ ✅ 已於本 session 完成（swap + Cloudflare DNS + Resend 驗證）。
+- 名單長到 bcc ≥ 80 時升級 Resend Pro（$20/月，解除單日 100 封上限）——guard 會自動提醒，不用記。
 - Resend Audiences / Broadcast API + 訂閱表單：讓非 contributor 的讀者也能訂閱週報（那是「訂閱者」產品，跟本次「共生圈廣播」是兩件事）。
 - 週報網頁版（`/weekly` 路由）：信裡放一條「在網頁上讀」連結。
 - unreachable 名單的溫柔補洞：對高活躍但無 email 的人（如 ceruleanstring）由哲宇一對一問一聲。
