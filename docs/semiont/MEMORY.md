@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-12
-last_session: '2026-07-12-084528-twmd-maintainer-am'
+last_session: '2026-07-12-140619-wake-guard'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -309,3 +309,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-12 | 063947-twmd-spore-harvest-am | #154 柯智棠 threads D+5 harvest 3,418v +9v/24hr 觸底穩定期五指標全 stable；0 Bucket A 連 22 cycle；0 new reply | A2 立體群像 5 datapoint baseline 可 codify；「人本」= 不 late-ship | [→](memory/2026-07-12-063947-twmd-spore-harvest-am.md) |
 | 2026-07-12 | 070720-twmd-feedback-triage | 沉默死亡 3 天後復活 run；唯一 new 是哲宇 plumbing test（勘誤欄「測試測試」）→ reject-as-test 不開公開 issue；file0/reject1/0 archive | 對外難撤回動作＋無人在場＋明顯測試噪音 → default 不發佈 | [→](memory/2026-07-12-070720-twmd-feedback-triage.md) |
 | 2026-07-12 | 084528-twmd-maintainer-am | ellenlee 第 2 波 3 PR 全清：#1219 self-fix review-pr.sh（11 locale unblock）+ #1217 media + #1218 AI 硬體 4 篇 | 貢獻者自診 CI 病灶＋附實測 = maintainer gold standard | [→](memory/2026-07-12-084528-twmd-maintainer-am.md) |
+| 2026-07-12 | 140619-wake-guard | wake-context 全段輸出超 Bash 上限，9 條 cron 甦醒自行 head 截斷失憶；v2 改完整落檔＋sentinel，BECOME v2.5 立三條讀取鐵律 | 輸出通道也是儀器一部分；fire≠完整讀取，是 #82 proxy signal 新 instance | [→](memory/2026-07-12-140619-wake-guard.md) |
