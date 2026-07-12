@@ -39,6 +39,12 @@ EN_HINTS = (
     # 2026-06-14 造山者 EVOLVE 補：紀錄片/半導體/外交題常見英文媒體・智庫・學術・英文官方頻道（原漏）
     "cinemaescapist", "aparc.fsi", "hoover.org", "fpri.org", "sagepub", "gasiantimes",
     "jsis.washington", "taiwanplus", "/english/", "larb.org", "fsi.stanford",
+    # 2026-07-12 茶文化 EVOLVE 補：日治/國際貿易題常見國際來源（原漏）。ja/ko.wikipedia＝
+    # 國際外語維基（指標名為「英文/國際」，外語維基本就是國際視角）；nippon.com＝英文日本題
+    # 國際媒體（台灣紅茶之父等日治題常引，本篇舊版即已引用）；International Tea Committee＝
+    # 國際茶業組織一手；EH.net＝經濟史學會學術庫。
+    "ja.wikipedia", "ko.wikipedia", "nippon.com", "inttea.com", "eh.net",
+    "camellia.iflora",  # International Camellia Register 國際山茶花登錄機構（品種一手）
 )
 # 一手 = 官方 / 政府 / 學術原始來源
 # 註：.org.tw 多為財團法人 / 官方機構 / 協會官網（tdri.org.tw / goldenpin.org.tw /
@@ -50,6 +56,7 @@ PRIMARY_HINTS = (
     "ey.gov", "moc.gov", "moe.gov", "drnh.gov", "scholar.google", "jstor",
     "law.moj", "mops.twse", "gcis.nat", "data.gov", "nmth", "npm.gov",
     "ith.sinica", "drnh", "twreporter",  # 報導者 = 深度一手調查
+    "culture.tw",  # 2026-07-12：國家文化記憶庫 tcmb.culture.tw / 文化部＝政府一手典藏
     # 2026-06-12 justfont EVOLVE 補（原漏，通用性站得住）：官方 source repo＝一手 artifact；
     # 群募平台專案頁＝募資原始數據；國際專業協會官網＝一手
     "github.com", "flyingv.cc", "wabay.tw", "zeczec.com", "atypi.org",
@@ -91,8 +98,15 @@ URL_RE = re.compile(r"https?://[^\s\)\]\>\"'，。、；]+")
 # 兩個合法 pattern：(1) §8 inline raw（楊德昌型）(2) §8 pointer 到 repo 內 sibling raw
 # 檔（金曲獎-R1..R4 / 陳嫺靜-research-1..4 型）— 有效密度 = inline 行數 + 指向存在
 # repo 檔的行數合計。指向 tmp / scratchpad = HARD FAIL（無論密度）。
-S8_HEAD_RE = re.compile(r"^## 8[\.\s、]")
-S8_END_RE = re.compile(r"^## (9|1[0-9])[\.\s、]")
+# v3（2026-07-12 茶文化）：容忍 §-prefix heading（## §8 = ## 8）。原 regex 只認「## 8.」，
+# 漏掉 §-前綴寫法 → §8 指到 1,303 行 repo raw 卻判密度 0。§ 是 codebase 慣用 section 標記，
+# 儀器不該對它脆裂。同步放寬 END regex。
+S8_HEAD_RE = re.compile(r"^##\s*§?\s*8[\.\s、]")
+# §8 結束 = 下一個 §9-19 numbered section，或已知的 trailing 非編號段（flag/參考/附錄/圖片來源）。
+# 後者避免「§8 跑到 EOF 把 §flag 的 knowledge/*.md 引用誤當 raw pointer」的 bleed（2026-07-12
+# 茶文化：§flag 的 `Food/茶文化.md` 被算成斷鏈 pointer）。刻意不吃任意 `^## ` —— inline-raw
+# 型（楊德昌型）的 agent 原文含 `## §1 搜尋軌跡` 等 heading，會讓 §8 提早截斷。
+S8_END_RE = re.compile(r"^##\s*§?\s*((9|1[0-9])[\.\s、]|\s*(flag|參考文獻|參考資料|附錄|圖片來源|給哲宇|給觀察者))", re.IGNORECASE)
 EPHEMERAL_RE = re.compile(r"/private/tmp/claude|/tmp/claude-|scratchpad/")
 S8_MDLINK_RE = re.compile(r"\(([^)\s]+\.md)\)")
 S8_TICKPATH_RE = re.compile(r"`([^`\s]+\.md)`")
