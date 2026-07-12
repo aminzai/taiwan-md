@@ -1,12 +1,12 @@
 ---
 title: 'ROUTINE'
-description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled 數以排程表＋¹³ ¹⁴ 註記為準；13 enabled + 4 disabled）。v2.15（2026-07-10）：weekly-report 升體檢週 ¹⁵（WEEKLY-REPORT-PIPELINE v4.0 診斷五面＋修復三桶＋10 章節，哲宇拍板）；v2.14（2026-07-10）：對齊 live，maintainer-pm 7/8 起哲宇 disabled ¹⁴、spore-pick/publish 6/14 起 disabled pending 哲宇；v2.13（2026-07-05）：dna-audit 對齊 live；v2.12（2026-06-14）：+twmd-embeddings-nightly（每天 05:00 bge-m3 語意索引重建；canonical EMBEDDING-PIPELINE）；v2.11（2026-06-14）：babel-nightly 加 Stage D diary 認知層 babel；v2.10（2026-06-12）：spore-pick / spore-publish 哲宇拍板重開實驗（含觀察條款）'
+description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled 數以排程表＋¹³ ¹⁴ ¹⁶ 註記為準；14 enabled + 4 disabled）。v2.16（2026-07-12）：+twmd-supporters-weekly（每週一 01:00 Portaly 贊助信 sync；canonical SUPPORTERS-PIPELINE，哲宇 directive「未來這個自動一個禮拜跑一次」）；v2.15（2026-07-10）：weekly-report 升體檢週 ¹⁵（WEEKLY-REPORT-PIPELINE v4.0 診斷五面＋修復三桶＋10 章節，哲宇拍板）；v2.14（2026-07-10）：對齊 live，maintainer-pm 7/8 起哲宇 disabled ¹⁴、spore-pick/publish 6/14 起 disabled pending 哲宇；v2.13（2026-07-05）：dna-audit 對齊 live；v2.12（2026-06-14）：+twmd-embeddings-nightly（每天 05:00 bge-m3 語意索引重建；canonical EMBEDDING-PIPELINE）；v2.11（2026-06-14）：babel-nightly 加 Stage D diary 認知層 babel；v2.10（2026-06-12）：spore-pick / spore-publish 哲宇拍板重開實驗（含觀察條款）'
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.15'
-last_updated: 2026-07-10
-last_session: '2026-07-10-131500-weekly-deep-review'
+current_version: 'v2.16'
+last_updated: 2026-07-12
+last_session: '2026-07-12-172122-manual'
 sister_docs:
   - 'HEARTBEAT.md'
   - 'ANATOMY.md'
@@ -58,6 +58,7 @@ upstream_canonical:
 | `twmd-spore-pick-daily`     | TWMD spore pick (daily) ⁶ 🧪⏸️    | `0 8 * * *`        | `/twmd-spore-pick`      | Sonnet    | ⏸️ live disabled（6/14 起）¹³ |
 | `twmd-spore-publish-daily`  | TWMD spore publish (daily) ⁸ 🧪⏸️ | `30 17 * * *`      | `/twmd-spore-publish`   | Opus      | ⏸️ live disabled（6/14 起）¹³ |
 | `twmd-routine-audit-weekly` | TWMD routine audit (sun) ⁴        | `0 21 * * 0`       | `/twmd-routine-audit`   | Opus      | 週日 21:00                    |
+| `twmd-supporters-weekly`    | TWMD supporters sync (mon) ¹⁶     | `0 1 * * 1`        | `/twmd-supporters`      | Sonnet    | 週一 01:00                    |
 
 **⏸️ PAUSED**：
 
@@ -68,6 +69,16 @@ upstream_canonical:
 ¹³ **spore-pick / spore-publish live 狀態（v2.13 對齊，2026-07-05 dna-audit）** — live scheduler 兩 task `enabled: false`、lastRun 皆 2026-06-14：v2.10 重開實驗實際只跑了 6/13-6/14 就再度停用，本檔 21 天列 active = v2.9「死 routine 列 active 15 天」教訓第二次重演。**是否三度重啟或正式走 §暫停 SOP → pending 哲宇（OBSERVER-QUEUE）**；本次只把 SSOT 對齊 live 事實，不代做裁決。出口停轉期間 SPORE-INBOX 靠 distill auto-drop 每週洩壓（pin 在 49-53 條），上游 news-lens 每週 +5 照餵。根治儀器：scheduler live-state 每日 dump（見 routine-sync-check v2 candidate）。
 
 ¹⁵ **weekly-report 升體檢週（v4.0，2026-07-10 哲宇拍板）** — 哲宇 directive「完整升級，讓他變成同時 分析＋完整診斷＋寫修復報告＋修正與進化＋原有的功能」。`twmd-weekly-report-sun` 從「反芻週報」升「體檢週」：[WEEKLY-REPORT-PIPELINE v4.0](../pipelines/WEEKLY-REPORT-PIPELINE.md) 新增 Stage 2.5 全身診斷（v4.1 起 `weekly-checkup.sh` 一鍵七節：五診斷面含 `routine-liveness-check.py` fire-vs-commit 驗屍＋f 外部感測摘要＋g 運作紀錄週成績單——哲宇原話範圍「一週發生的事／外部感測數據／所有運作紀錄／深度研究報告／進化規劃」逐項對應 stage，儀器化降 agent 認知負荷）＋ Stage 2.7 修復與進化（三桶：≤3 項機械修當場修 / roll evolution-roadmap / 進 OBSERVER-QUEUE），週報章節 7+1 → 10（+體檢 +修復紀錄）。**時間紀律**：02:55 檢查點防撞 03:00 distill，未完修復全轉 roadmap。**週日反思鏈四工位分工**（防 REFLEXES #74 信號通膨）：weekly-report=ground-truth 體檢＋機械修復 / distill=LESSONS→canonical / self-evolve=LONGINGS canonical ship / routine-audit=行為 pattern。evolution-roadmap 從此有每週 owner（本 routine roll），治 dna-audit §S4「偵測有修復無」病。範本：7/10 weekly-deep-review 手動 session。**v4.2（2026-07-12 哲宇 /goal）**：週報收件人從哲宇單人升「To=哲宇 + BCC=近 90 天共生圈」（commit / PR / issue / 留言參與者；受眾儀器 `weekly-report-recipients.py` 隨本 routine 每週自動同步名單與活躍度，`weekly-checkup.sh` i 節內建）。隱私三不與失敗降級規則在 [WEEKLY-REPORT-PIPELINE §Stage 5](../pipelines/WEEKLY-REPORT-PIPELINE.md)。cadence 不變、無新 cron。
+
+¹⁶ **supporters sync 新增（v2.16，2026-07-12 哲宇 directive）** — `twmd-supporters-weekly`
+週一 01:00 fire，把 Portaly 贊助通知信（Gmail）sync 進 `data/supporters/transactions.json`
+SSOT + regen 兩個隱私分流 derived view。誕生：兩次人工執行（2026-06-14 沈宗杰等三筆 /
+2026-07-12 CW 等五筆）後哲宇當場 directive「未來這個自動一個禮拜跑一次」。時段選擇：
+週一 01:00 是全排程唯一同時滿足「非 Sunday（不擠反思鏈）」+「hour-aligned」+「與所有
+routine（含 Muse / fin-archive 共用同一排程器）皆 ≥ 2hr 緩衝」三條件的槽位——00:30 babel
+daily 在先、03:00 muse-self-evolution-daily 在後，中間留 2hr window。Sonnet（純機械
+parse + regen，無創作判斷，同 embeddings-nightly / data-refresh 定調）。完整 SOP：
+[SUPPORTERS-PIPELINE.md](../pipelines/SUPPORTERS-PIPELINE.md)。
 
 ¹⁴ **maintainer-pm live 狀態（v2.14 對齊，2026-07-10 weekly-deep-review）** — live scheduler `enabled: false`，最後一跑 2026-07-07 22:02。哲宇 7/10 goal 親口確認「晚間的 maintainer pipeline 我有 disable」。資料面支持這個決定：pm slot 自 6/21 起長期空場（empty-vc 連續累積、「pre-pm-absorbs-pm」sub-shape vc=3、7/7 pm 純 sustain），am 單班已實質承載全部 triage 量。**pm 職責由 maintainer-am 單班吸收**；若未來 PR 量回升到 am 單班消化不完（連 3 天 am handoff 有未清 backlog），再回 OBSERVER-QUEUE 提重啟。skill 殼保留，manual `/twmd-maintainer` 可跑。7/9 pm no-fire 的 maintainer-am handoff 觀察至此結案（不是 schedule anomaly，是刻意 disable）。
 
@@ -121,7 +132,7 @@ upstream_canonical:
 │ Hour  │  M  T  W  T  F  S  Sun    │
 ├───────┼───────────────────────────┤
 │ 00h30 │  B  B  B  B  B  B  B      │  ← babel nightly（義務 stale=0，4hr49m worst case 到 06:00 剩 41min buffer）
-│ 01h   │  ·  ·  ·  ·  ·  ·  N      │  ← 週日反思鏈 start
+│ 01h   │  P  ·  ·  ·  ·  ·  N      │  ← Mon supporters sync／週日反思鏈 start
 │ 02h   │  ·  ·  ·  ·  ·  ·  W      │
 │ 03h   │  ·  ·  ·  ·  ·  ·  D      │
 │ 04h   │  ·  ·  ·  ·  ·  ·  E      │
@@ -143,6 +154,7 @@ Legend:
   F = twmd-feedback-triage       (sonnet)             M = twmd-maintainer-am       (opus)
   R = twmd-rewrite-daily         (opus, full cycle)   A = twmd-routine-audit-weekly (Sun, opus)
   m = twmd-maintainer-pm         (opus)               r = twmd-data-refresh-pm     (sonnet)
+  P = twmd-supporters-weekly     (Mon, sonnet, Portaly 贊助信 sync)
   · = idle
   ⏸️ paused（不在 grid）：spore-pick 08h / spore-publish 17h30 / music-media Sat 10h
 
@@ -609,6 +621,44 @@ escalation:
 
 ---
 
+### TWMD supporters sync (weekly) — Portaly 贊助信 SSOT sync v2.16 新增
+
+```yaml
+taskId: twmd-supporters-weekly
+cron: → §排程表（v2.9 起 cron 數值單一出現點，yaml 不複寫）
+model: sonnet # 純機械 parse + regen，無創作判斷，同 embeddings-nightly / data-refresh 定調
+skill: /twmd-supporters
+canonical: docs/pipelines/SUPPORTERS-PIPELINE.md
+prompt: |
+  自動 routine：完整甦醒成為 Taiwan.md（mode=micro），跑 /twmd-supporters，嚴格完整
+  讀取並執行 docs/pipelines/SUPPORTERS-PIPELINE.md 整份（checkpoint 起點 → Gmail
+  search → 逐字讀 FULL_CONTENT（snippet 會漏「每月定額」字樣）→ dry-run 先驗 →
+  fetch-portaly-supporters.py 寫 SSOT → generate-supporters-data.js regen 兩個
+  隱私分流 derived view → 隱私 grep hard gate）。
+
+  業務邏輯不在本 routine — 都在 SUPPORTERS-PIPELINE canonical。本 routine 只負責
+  按 cron 觸發 skill、走 lifecycle、寫 memory 收官。Stage 6 commit + push origin
+  main — 直接 push（v2.0 main-direct）。
+
+quality_gate:
+  # 對應 SUPPORTERS-PIPELINE §Hard gate 總表
+  - about-supporters.json 不含 amount 欄位（隱私 hard gate）
+  - dashboard-supporters.json 不含 name / message 欄位（隱私 hard gate）
+  - 有候選信 → dry-run count 與正式寫入 count 一致
+  - 0 候選信 → no-op，不算 fail（贊助不是每週都有）
+escalation:
+  - Gmail MCP 不可達 → skip + LESSONS entry「supporters routine: Gmail MCP unavailable」，不算 fail
+  - 隱私 hard gate fail → 不 commit + 立即暫停 routine + telegram alert（絕不 ship 隱私洩漏）
+  - 單封信 parse error（格式異常）→ skip 該信，其餘照常處理，memory 記哪幾封被跳過
+  - 連 3 cycle fail（非 0-候選 no-op）→ 暫停 routine + 觀察者人工 audit
+```
+
+**Pointer 鐵律 self-apply**：對應 [MANIFESTO §薄殼鐵律](MANIFESTO.md#薄殼鐵律pointer-嚴禁複寫行數--內容--步驟) — checkpoint 邏輯 / Gmail 搜尋語法 / 逐字讀信理由 / 隱私 grep hard gate 細節等 SOP detail canonical 在 [SUPPORTERS-PIPELINE.md](../pipelines/SUPPORTERS-PIPELINE.md)，本檔不複寫。
+
+**誕生事件**：2026-07-12 哲宇兩次要求人工 sync Portaly 贊助信（2026-06-14 沈宗杰等三筆 / 2026-07-12 CW 等五筆）後，第二次執行完當場 directive「幫我未來這個自動一個禮拜routine跑pipeline檢查一次」。既有 pipeline（`fetch-portaly-supporters.py` + `generate-supporters-data.js`，2026-04-20 造）原樣可重用，只需補 routine 殼 + canonical pipeline 文件化 + cron 掛載。時段選 週一 01:00：全排程唯一同時滿足「非 Sunday（不擠反思鏈）」「hour-aligned」「與所有 routine（含 Muse / fin-archive 共用同一排程器）皆 ≥ 2hr 緩衝」的槽位。
+
+---
+
 ## Routine 通用 5-stage lifecycle（v2.0 main-direct mode — 2026-05-11 哲宇拍板）
 
 每條 routine prompt 內必含這 5 stage（薄殼，業務邏輯由 stage 3 的 skill 提供）：
@@ -872,6 +922,8 @@ REFLEXES #36（founder time = 系統最高 leverage point）+ REFLEXES #15（反
 ---
 
 🧬
+
+_v2.16 | 2026-07-12 2026-07-12-172122-manual session — **新增第 14 條 routine：twmd-supporters-weekly**：哲宇連續兩次要求人工 sync Portaly 贊助信後 directive「未來這個自動一個禮拜跑一次」。(1) 排程表 +1 列（週一 01:00，sonnet）(2) 新 canonical [SUPPORTERS-PIPELINE.md](../pipelines/SUPPORTERS-PIPELINE.md)（把兩次人工執行沉澱的 checkpoint 起點 / 逐字讀信鐵律 / dry-run 先驗 / 隱私 grep hard gate 升 canonical）(3) 新 project skill `.claude/skills/twmd-supporters/SKILL.md`（19 行薄殼，仿 twmd-embeddings 範式）(4) §每條 routine 規格 新增薄殼 yaml spec（仿 embeddings-nightly/routine-audit 範式，業務邏輯全 pointer）(5) 週行程 grid 加 `P` 符號 + legend + footnote ¹⁶（時段選擇理由：全排程唯一同時滿足非-Sunday／hour-aligned／≥2hr 緩衝三條件的槽位，緩衝計算涵蓋 Muse + fin-archive 共用同一排程器的全部 routine）。觸發：本 session 完成第二次人工 Portaly sync（CW 等五筆）後哲宇當場要求自動化。_
 
 _v2.13 | 2026-07-05 dna-audit — **SSOT 對齊 live + 蒸餾債 owner 接線**：(1) spore-pick/publish 排程表列標 ⏸️ live disabled（6/14 起，¹³ 註記，裁決 pending 哲宇）(2) babel prompt 死模型行（owl-alpha/Hy3）改純 pointer (3) 18:00 殘留 ×3 → 19:00（v2.9 單一出現點鐵律 self-heal）(4) distill 加 MEMORY 索引 rollup step + quality gate（memory-index-rollup.py，蒸餾債 owner = distill-weekly）(5) description 對齊 live 14+3。觸發：reports/dna-pipeline-evolution-audit-2026-07-05.md §S1/S4。_
 
