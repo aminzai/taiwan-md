@@ -567,7 +567,7 @@ Root cause hypothesis：REWRITE-PIPELINE Stage 4-5 sub-agent worktree spawn 時�
 
 1. **段落 median CJK 字數 ≥ 55**（gold standard 80-90 字）— 早期 viral 範本 median 81，<55 開始進入 atomization zone。`paragraph-rhythm` plugin gate R1 自動 catch（WARN 級，soft launch）
 2. **每 H2 prose 段落數 ≤ 8**（含 callout / footer 不計）— 超過代表該 H2 該拆兩個或合段
-3. **媒體密度 band：0.8 ≤ (圖+影片+hero) / 1k CJK ≤ 1.2**（2026-06-04 哲宇 directive 從單一上限 0.8 升為 band，2026-06-07 v6.8 floor 0.7→0.8）— **下限 0.8**：低於 = 媒體偏少 / 立體呈現不足（中華台北 0.56 / 黑冠麻鷺 0.57 是 media-poor 對照）；**上限 1.2**：高於 = visual 密度偏高（陳建年 1.48 = 8 媒體已偏密）；**> 1.5 且段落 median < 55 = HARD atomization**（周蕙 1.76）。健康富媒體範本落在 band 中段：黃魚鴞 0.82 / 設研院 0.91 / 天下雜誌 0.92。`paragraph-rhythm` plugin 自動 catch floor + ceiling
+3. **媒體密度 band：1.2 ≤ (圖+影片+hero+tw-\* 模組) / 1k CJK ≤ 2.0**（2026-07-12 哲宇 directive「提升上限，1.5x-2x 都是健康，新基準範圍 1.2~2」——band 第三波上修 0.7→0.8→**1.2–2.0**，舊 ceiling 變新 floor）— **下限 1.2**：低於 = 媒體偏少 / 立體呈現不足（舊健康範本 黃魚鴞 0.82 / 設研院 0.91 / 天下 0.92 在新基準下屬偏少，方向 = 富媒體 default 再拉升）；**上限 2.0**：高於 = visual 密度偏高；**> 2.5 且段落 median < 55 = HARD atomization**（雙信號結構不變）。新帶內範本：陳建年 1.48 / 周蕙 1.76（周蕙當年是 density+median 雙信號才 HARD）。`paragraph-rhythm` plugin 自動 catch floor + ceiling
 4. **單段 ≤ 280 CJK 字（牆 / 窒息感）**（2026-06-07 哲宇 directive 儀器化）— 任何單一段落 > 280 字 = 牆，讀起來窒息。校準：好範本 max 段落 黑冠麻鷺 149 / 天下 217；牆 複雜生活節順稿前 341 / 設研院 312。`paragraph-rhythm` R4 自動 catch（WARN）。修：在自然轉折處（話題切換 / 因果推進 / 引語前）拆成 2 段，**拆完每半段仍 ≥ 55 字**（別 atomize 成 R1）
 
 #### 對比範例
@@ -1229,7 +1229,7 @@ WebFetch 工具對中文網站經常返回**英文 paraphrase 而非中文原文
 
 **總量 baseline — length-scaled 圖文配比 band**（2026-06-04 哲宇 directive「提升媒體素材要求」升級）：
 
-媒體素材的「夠不夠」不是固定張數，是**隨字數縮放的密度 band**。depth article 目標 **圖+影片 ≈ 1 媒體 / 1.1k 字**（含 hero），落在 **0.7–1.2 / 1k CJK** 的健康帶；**長文（≥ 7000 字）朝 圖+影片 ≥ 8**。太少 = 立體呈現不足（讀者疲勞），太多 = 替代敘事節奏（atomization）。
+媒體素材的「夠不夠」不是固定張數，是**隨字數縮放的密度 band**。depth article 目標 **圖+影片+視覺模組 ≈ 1 媒體 / 500–800 字**（含 hero 與 tw-\* 模組），落在 **1.2–2.0 / 1k CJK** 的健康帶（2026-07-12 哲宇 directive 第三波上修，原 0.7–1.2；下表舊範本密度為當時基準，新基準下 0.8–0.9 屬偏少）；**長文（≥ 7000 字）朝 圖+影片 ≥ 8**。太少 = 立體呈現不足（讀者疲勞），太多 = 替代敘事節奏（atomization）。
 
 | 媒體豐富度           | 範本           | 圖+影片              | 密度/1k | 特性                          |
 | -------------------- | -------------- | -------------------- | ------- | ----------------------------- |
@@ -1239,7 +1239,7 @@ WebFetch 工具對中文網站經常返回**英文 paraphrase 而非中文原文
 | 富媒體 mixed         | 天下雜誌       | 6（4 圖+2 影片）     | 0.92    | 圖+官方影片穿插               |
 | ⬇ media-poor（待補） | 中華台北       | 3（3 圖）            | 0.56    | 0 影片、密度低 → EVOLVE 補    |
 
-> **儀器（v6.8 媒體完整度低標提升，2026-06-07 哲宇 directive）**：`image-health` plugin **length-scaled HARD floor**——媒體（圖+影片）≥ `max(3, round(prose-CJK/1200))`（4500→4 / 7000→6 / 9000→8，rewrite-stage-4 必過）；`paragraph-rhythm` 密度 band floor **0.7→0.8** / ceiling 1.2 / hard 1.5+median<55；`media-richness` 靜態圖 floor **2→3** + People/Music/Nature **≥1 官方影片 WARN**。**最大的低標槓桿不是數字，是 [REWRITE-PIPELINE Step 1.9.0 深度媒體掃描協議](../pipelines/REWRITE-PIPELINE.md#step-190-深度媒體掃描協議hardv68-)**：出「找不到媒體」結論前必跑 Chrome MCP rendered-DOM 圖掃（JS-CDN curl/WebFetch 失效）+ YouTube 官方頻道影片掃——複雜生活節同一主題 curl 全 404、瀏覽器 rendered DOM 挖出 9 圖 3 影片。校準（REFLEXES #66）：複雜 13 / 設研院 5 / 黃魚鴞 3 / 陳建年 8 named 範本全過、text-only 失格。富媒體不等於 atomization：陳建年 8 媒體 + median ≥ 55 = 富而不亂；周蕙 12 媒體 + median < 55 = atomization。
+> **儀器（v6.8 媒體完整度低標提升，2026-06-07 哲宇 directive）**：`image-health` plugin **length-scaled HARD floor**——媒體（圖+影片）≥ `max(3, round(prose-CJK/1200))`（4500→4 / 7000→6 / 9000→8，rewrite-stage-4 必過）；`paragraph-rhythm` 密度 band floor **0.7→0.8→1.2（2026-07-12）** / ceiling **1.2→2.0** / hard **2.5**+median<55；`media-richness` 靜態圖 floor **2→3** + People/Music/Nature **≥1 官方影片 WARN**。**最大的低標槓桿不是數字，是 [REWRITE-PIPELINE Step 1.9.0 深度媒體掃描協議](../pipelines/REWRITE-PIPELINE.md#step-190-深度媒體掃描協議hardv68-)**：出「找不到媒體」結論前必跑 Chrome MCP rendered-DOM 圖掃（JS-CDN curl/WebFetch 失效）+ YouTube 官方頻道影片掃——複雜生活節同一主題 curl 全 404、瀏覽器 rendered DOM 挖出 9 圖 3 影片。校準（REFLEXES #66）：複雜 13 / 設研院 5 / 黃魚鴞 3 / 陳建年 8 named 範本全過、text-only 失格。富媒體不等於 atomization：陳建年 8 媒體 + median ≥ 55 = 富而不亂；周蕙 12 媒體 + median < 55 = atomization。
 
 **類型 × 媒體比重 baseline**（per-type 細項，總量仍以上方 band 為準）：
 
@@ -1258,7 +1258,7 @@ WebFetch 工具對中文網站經常返回**英文 paraphrase 而非中文原文
 **例外規則**：
 
 - 「找不到官方 / 高品質媒體」這個結論，**v6.8 起只在跑完 [Step 1.9.0 深度媒體掃描協議](../pipelines/REWRITE-PIPELINE.md#step-190-深度媒體掃描協議hardv68-)之後才成立**（Chrome MCP rendered-DOM 圖掃 + YouTube 官方頻道影片掃；curl/WebFetch 對 Medium/FB JS-CDN 失效不算「掃過」）。跑過深掃仍無 → 才可不塞，並在 research §6 記 negative finding。影片不是 KPI，但 People/Music/Nature 官方影片通常存在，`media-richness` 0 影片 WARN（不是 INFO）
-- 長文（≥ 7000 字）→ 朝 圖+影片 ≥ 8（per band，但密度 ≤ 1.2/1k；超過 1.5 且段落 median < 55 = atomization HARD）
+- 長文（≥ 7000 字）→ 朝 圖+影片 ≥ 8（per band，但密度 ≤ 2.0/1k；超過 2.5 且段落 median < 55 = atomization HARD）
 - 翻譯文 → 跟原文同步（不另加 / 不另減）
 
 **位置原則**（呼應 §段與段的呼吸）：

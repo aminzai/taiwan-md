@@ -31,13 +31,13 @@ Rules:
   - **R1 paragraph median CJK < 55**：WARN — atomization drift signal。早期
     範本 median 80+，<55 開始進入 atomization zone
   - **R2 H2 prose 段落數 > 8**：WARN — H2 章節 over-fragmented，該 H2 拆或合段
-  - **R3-FLOOR media density < 0.7 / 1k CJK**：WARN (2026-06-04 新增) — 媒體偏少 /
-    立體呈現不足。depth article 應 ~1 媒體/1k 字；長文 (≥7000) 朝 圖+影片 ≥ 8。
-    WARN soft-launch (vc≥3 後可升 HARD)
-  - **R3-WARN media density > 1.2 / 1k CJK**：WARN (2026-06-04 從 0.8 升) — visual
-    密度偏高 (陳建年 1.48 = 8 媒體已偏密)。健康富媒體 ~0.9 不該被誤判
-  - **R3-HARD media density > 1.5 / 1k CJK AND 段落 median < 55**：HARD — visual
-    倚賴 + 段落原子化雙信號 = 真 atomization drift (周蕙 1.76)
+  - **R3-FLOOR media density < 1.2 / 1k CJK**：WARN (2026-07-12 band 上修 0.8→1.2) —
+    媒體偏少 / 立體呈現不足。depth article 目標 1.2–2 媒體/1k 字；長文 (≥7000) 朝
+    圖+影片 ≥ 8。WARN soft-launch (vc≥3 後可升 HARD)
+  - **R3-WARN media density > 2.0 / 1k CJK**：WARN (2026-07-12 從 1.2 升) — visual
+    密度偏高。健康帶 1.2–2.0 (陳建年 1.48 / 周蕙 1.76 密度皆帶內)
+  - **R3-HARD media density > 2.5 / 1k CJK AND 段落 median < 55**：HARD — visual
+    倚賴 + 段落原子化雙信號 = 真 atomization drift (雙信號結構不變)
 
 Skipped paths:
   - Hub pages (knowledge/{Category}/_*.md)
@@ -77,9 +77,15 @@ H2_PARA_MAX = 8  # per-H2 prose paragraph soft cap
 # 牆 複雜(順稿前) 341 / 設研院 312 → 哲宇實際讀到窒息。門檻 280 乾淨切開「好(≤239)vs 牆(≥312)」。
 # WARN soft-launch (跟 R1-R3 同；vc≥3 後可升 HARD)。
 PARA_WALL_MAX = 280  # CJK — 單段 > 此 = 牆 (窒息感，建議自然轉折處拆段)
-MEDIA_DENSITY_FLOOR = 0.8  # < floor = 媒體偏少 (2026-06-07 哲宇 v6.8 媒體低標提升 0.7→0.8；校準保留 黃魚鴞 0.82 / 設研院 0.91 / 天下 0.92，text-only 雜學校 0 失格)
-IFRAME_DENSITY_WARN = 1.2  # > warn = visual 密度偏高 (2026-06-04 從 0.8 升，避免誤判富媒體範本)
-IFRAME_DENSITY_HARD = 1.5  # > hard + median<55 = atomization drift (directive override 都不該超)
+# 2026-07-12 哲宇 directive「提升媒體上限，1.5x-2x 都是健康，新基準範圍 1.2~2」：
+# band 整段上修 0.8–1.2 → **1.2–2.0**（舊 ceiling 變新 floor）。方向 = 富媒體 default 再拉升
+# （v6.8 家族第三波：0.7→0.8→1.2）。舊健康範本 黃魚鴞 0.82 / 設研院 0.91 / 天下 0.92 在
+# 新基準下屬「偏少」；新帶內範本 陳建年 1.48 / 周蕙 1.76（周蕙當年是 density+median 雙信號
+# 才 atomization，density 本身在新帶內）。hard 維持「密度×1.25 + median<55 雙信號」結構：
+# 2.0×1.25 = 2.5。
+MEDIA_DENSITY_FLOOR = 1.2  # < floor = 媒體偏少 (2026-07-12 哲宇 band 上修 0.8→1.2)
+IFRAME_DENSITY_WARN = 2.0  # > warn = visual 密度偏高 (2026-07-12 從 1.2 升，健康帶 1.2–2.0)
+IFRAME_DENSITY_HARD = 2.5  # > hard + median<55 = atomization drift (2.0×1.25，維持雙信號結構)
 # tw-* 視覺模組納入 media count (2026-06-06 哲宇 directive)。資料模組 = 文章內容，不是
 # 裝飾媒體：對 FLOOR (媒體偏少) 全額計入 (viz-rich 文章不該被判 media-poor)；對
 # atomization ceiling 折抵最多 13 個模組 — 一篇資訊圖表型 data panorama 本來就會帶
@@ -355,14 +361,14 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             message=(
                 f"媒體偏少 (band 下緣 R3-FLOOR): "
                 f"{visual_count} visual / {total_cjk} CJK = {density:.2f}/1k < "
-                f"{MEDIA_DENSITY_FLOOR}/1k 下限。富媒體範本 設研院 0.91 / 天下 0.92 / "
-                f"黃魚鴞 0.82 (video-rich)。"
+                f"{MEDIA_DENSITY_FLOOR}/1k 下限 (2026-07-12 band 上修 1.2–2.0，帶內範本 "
+                f"陳建年 1.48；舊範本 設研院 0.91 / 黃魚鴞 0.82 在新基準屬偏少)。"
             ),
             line=1,
             snippet=f"density={density:.2f} media={visual_count}",
-            editorial_ref="EDITORIAL.md §媒體編織 (媒體密度 band)",
+            editorial_ref="EDITORIAL.md §媒體編織 (媒體密度 band 1.2–2.0)",
             fix_suggestion=(
-                "(a) 補 hero + scene-mid 圖到 ~1 張/1k 字 (REWRITE Step 4.3.1) "
+                "(a) 補 hero + scene-mid 圖 + tw-* 視覺模組到 1.2–2 媒體/1k 字 (REWRITE Step 4.3.1 + graph.md) "
                 "(b) People/Music/Nature/媒體機構題材補官方影片 iframe (Step 4.3.6) "
                 "(c) 長文 (≥7000 字) 朝 圖+影片 ≥ 8 (per 哲宇 2026-06-04 directive)"
             ),
@@ -398,15 +404,15 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 f"Visual density 偏高 (band 上緣 R3-WARN): "
                 f"{visual_count} visual ({tw_module_count} tw-* 模組折抵 "
                 f"{min(tw_module_count, TW_MODULE_CEILING_DISCOUNT_CAP)}) / {total_cjk} CJK = "
-                f"{ceiling_density:.2f}/1k > {IFRAME_DENSITY_WARN}/1k 建議上限 (健康富媒體 "
-                f"設研院/天下 ~0.9；陳建年 1.48 = 8 媒體已偏密；周蕙 1.76 = atomization)。"
+                f"{ceiling_density:.2f}/1k > {IFRAME_DENSITY_WARN}/1k 上限 (2026-07-12 健康帶 "
+                f"1.2–2.0，帶內範本 陳建年 1.48 / 周蕙 1.76)。"
             ),
             line=1,
             snippet=f"ceiling_density={ceiling_density:.2f} visual={visual_count}",
-            editorial_ref="EDITORIAL.md §媒體編織",
+            editorial_ref="EDITORIAL.md §媒體編織 (媒體密度 band 1.2–2.0)",
             fix_suggestion=(
                 "考慮：(a) 文字段落自己承擔節奏不要 outsource 給 iframe "
-                "(b) 留代表性 3-5 個 iframe，次要的移除 "
-                "(c) > 1.5/1k 且段落 median < 55 = atomization HARD"
+                "(b) 留代表性 iframe / 模組，次要的移除 "
+                f"(c) > {IFRAME_DENSITY_HARD}/1k 且段落 median < 55 = atomization HARD"
             ),
         )
