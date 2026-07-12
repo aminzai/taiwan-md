@@ -22,6 +22,15 @@ v2（2026-07-06 施振榮 corpus）：搜尋日誌有四種合法格式（inline
   (2) 加「內容密集反訊號」——體積 ≥2×min_kb + 結構 ≥4/5 + (URL≥10 或「」引語≥30) 成立時，
   軌跡類疑慮降 hard→warn（體積 gate 與存放位置維持 hard，真 stub<8KB 照樣 FAIL，柯智棠防護不動）。
 
+v3（2026-07-12 台灣茶文化 corpus，哲宇 callout「footnote 會寫不精準」）：來源溯源率 gate——
+  agent 交叉驗證真的做了，但把多來源壓成「WebSearch 綜合（站名、站名）」aggregate 標籤轉錄：
+  逐字引語活著、URL 蒸發，writer 的 [^n]: [Title](URL) footnote 斷源。這是鐵律 8 的 sub-agent 版
+  （來源在 agent 轉錄那 30 秒蒸發，不是 orchestrator 收件那 30 秒）。v2 只驗 URL 總數 ≥5，
+  rawA 有 6 條 URL 就穿透。校準：該攔 rawA 38% / rawB 36%（aggregate 斷源 15/18 條）；
+  該過（帶警）rawC 67%。→ 來源行 ≥5 時：可溯率 <60% = hard，<85% = warn。
+  可溯 = 完整 URL / repo 路徑 / 正式書目（《刊名》+期/頁）/ 同上前引。bare domain（站名）不算——
+  footnote 需要能 Ctrl-F 驗證的完整 URL。契約 canonical：REWRITE-PIPELINE Step 1.8-ter。
+
 輸出 = 給呼叫 session 的疑慮通知：每條疑慮附「為什麼」+「可能的思考方向」。
 stdlib-only。
 
@@ -56,6 +65,20 @@ CLAIMED_RE = re.compile(r"(\d+)\s*(?:次搜尋|次 web|searches|search(?:es)?\b|
 EPHEMERAL_RE = re.compile(r"/private/tmp/claude|/tmp/claude-|scratchpad/")
 URL_RE = re.compile(r"https?://[^\s\)\]\>\"'，。、；]+")
 BARE_DOMAIN_RE = re.compile(r"\b[a-z0-9][a-z0-9-]*(?:\.[a-z0-9-]+)+\.(?:tw|com|org|net|cn|jp|kr|io|cc|news)\b")
+# ── v3 來源溯源率（2026-07-12 茶文化 corpus）────────────────────────────
+SOURCE_LINE_RE = re.compile(r"【來源[^】]*】")
+REPO_PATH_RE = re.compile(r"\b(?:knowledge|reports|docs|scripts|public)/[^\s】)]+")
+FORMAL_CITE_RE = re.compile(r"《[^》]{2,60}》|頁\s*\d+|第?\s*\d+\s*期")  # 正式書目：刊名/頁碼/期數
+SAME_AS_ABOVE_RE = re.compile(r"同上|見上|前引")
+AGGREGATE_LABEL_RE = re.compile(
+    r"(?:WebSearch|WebFetch|搜尋)[^】\n]{0,14}(?:綜合|摘要|多輪)|多來源|多站交叉|綜合多個")
+
+
+def _source_traceable(line: str) -> bool:
+    """一條【來源】行是否可溯源到 footnote 能用的層級。
+    bare domain（站名）不算——footnote 需要能 Ctrl-F 驗證的完整 URL。"""
+    return bool(URL_RE.search(line) or REPO_PATH_RE.search(line)
+                or FORMAL_CITE_RE.search(line) or SAME_AS_ABOVE_RE.search(line))
 EXPECTED_SECTIONS = (
     ("搜尋軌跡/紀錄", TRAIL_SECTION_RE),
     ("Findings", re.compile(r"#+\s*.*findings|#+\s*.*發現", re.IGNORECASE)),
@@ -100,6 +123,11 @@ def analyze(path: Path):
     claimed = int(claimed_m.group(1)) if claimed_m else None
     ephemeral = len(EPHEMERAL_RE.findall(txt))
     urls = len(set(URL_RE.findall(txt)) | set(BARE_DOMAIN_RE.findall(txt)))
+    # v3 來源溯源率：逐條【來源】行判可溯與否
+    src_lines = [l for l in lines if SOURCE_LINE_RE.search(l)]
+    traceable = sum(1 for l in src_lines if _source_traceable(l))
+    agg_untraceable = sum(1 for l in src_lines
+                          if AGGREGATE_LABEL_RE.search(l) and not _source_traceable(l))
     sections = [name for name, r in EXPECTED_SECTIONS if r.search(txt)]
     # 存放位置
     try:
@@ -112,6 +140,9 @@ def analyze(path: Path):
         size_kb=round(size_kb, 1), trail_lines=trail_lines,
         has_trail_section=has_trail_section, claimed=claimed,
         ephemeral_refs=ephemeral, urls=urls, quotes=quotes,
+        source_lines=len(src_lines), traceable_sources=traceable,
+        aggregate_untraceable=agg_untraceable,
+        source_coverage=(round(traceable / len(src_lines), 2) if src_lines else None),
         sections=sections, sections_count=len(sections),
         in_repo=in_repo, path_ephemeral=path_ephemeral,
         path=str(path),
@@ -207,6 +238,24 @@ def grade(m, min_kb: float, min_trail: int, claimed_override):
             ["非搜尋型 agent（persona / writer / verifier 回報）本檢查可忽略",
              "搜尋型 agent 來源少 → 回 notification 原文找被刪的 URL"],
         ))
+    # ── v3 來源溯源率 gate（2026-07-12 茶文化 corpus，哲宇 callout「footnote 會寫不精準」）──
+    if m["source_lines"] >= 5:
+        cov = m["traceable_sources"] / m["source_lines"]
+        if cov < 0.85:
+            sev = "hard" if cov < 0.6 else "warn"
+            concerns.append((
+                f"來源溯源率 {round(cov*100)}%（{m['traceable_sources']}/{m['source_lines']} 條可溯，"
+                f"aggregate 斷源 {m['aggregate_untraceable']} 條）", sev,
+                f"{round(cov*100)}%", "≥ 85%（<60% = hard）",
+                "「WebSearch 綜合（站名、站名）」不是來源——逐字引語活著、URL 蒸發，writer 的 "
+                "[^n]: [Title](URL) footnote 無法精準落地，verifier 也無法 Ctrl-F。這是鐵律 8 的 "
+                "sub-agent 版：來源在 agent 轉錄那 30 秒蒸發（2026-07-12 茶文化 rawA/B 實例：交叉"
+                "驗證真做了、84 條來源行僅 ~35% 帶 URL）",
+                ["逐條回到 WebSearch 結果把依賴的 URL 列出——搜尋工具回傳本身帶連結，蒸發發生在轉錄",
+                 "URL 找不回 → WebFetch 重新定位該 claim 的來源頁，補 URL + 逐字",
+                 "真的無法溯源 → 該來源行改標【無法溯源】，finding 降級為線索，禁止進 footnote / 引語庫",
+                 "契約 canonical：REWRITE-PIPELINE Step 1.8-ter（每來源一行、禁 aggregate 標籤）"],
+            ))
     return concerns
 
 
@@ -240,7 +289,9 @@ def main():
         sys.exit(0 if verdict == "PASS" else (1 if verdict == "FAIL" else 3))
 
     print(f"🔬 agent-report-health  {p}")
+    cov_str = (f"{round(m['source_coverage']*100)}%" if m['source_coverage'] is not None else "—")
     print(f"   {m['size_kb']}KB / 軌跡 {m['trail_lines']} 行 / 來源 {m['urls']} / "
+          f"溯源 {m['traceable_sources']}/{m['source_lines']}({cov_str}) / "
           f"「」{m['quotes']} / 結構 {m['sections_count']}/5 / 宣稱搜尋 {args.claimed or m['claimed'] or '—'}")
     if not concerns:
         print("   ✅ 無疑慮：體積、軌跡密度、結構、存放位置皆在真實 final message 級距")
