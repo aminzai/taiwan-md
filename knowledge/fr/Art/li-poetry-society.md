@@ -22,9 +22,9 @@ lastVerified: 2026-06-20
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '9b7fd2c8c'
-sourceContentHash: 'sha256:c7ee3ee3f4bdc37f'
-sourceBodyHash: 'sha256:89771eecc4d25f25'
+sourceCommitSha: '6f05295a'
+sourceContentHash: 'sha256:3f29bb0238e156dd'
+sourceBodyHash: 'sha256:2ef28056f6ad3ed1'
 translatedAt: '2026-06-21T00:36:03+08:00'
 ---
 
@@ -251,6 +251,7 @@ La Société poétique Li n'a pas interrompu sa publication depuis soixante ans.
 - [Littérature taïwanaise d'après-guerre](/art/戰後台灣文學) — les chemins d'aphasie, d'emprisonnement et de débats des romanciers Yeh Shih-tao, Chen Yingzhen et d'autres, contemporains des poètes de Li
 - [Histoire de la littérature taïwanaise](/art/台灣文學史) — le hub complet du contexte de l'histoire littéraire taïwanaise
 - [Littérature de la période japonaise](/art/日治時期文學) — le contexte de formation de la génération translingue de la Société poétique Li
+- Du Pan Fang-ge (杜潘芳格) — poétesse hakka multilingue qui rejoint le cercle en 1965 ; auteure de « L'opéra de la paix » et de la lignée de poésie hakka
 
 ## Références
 

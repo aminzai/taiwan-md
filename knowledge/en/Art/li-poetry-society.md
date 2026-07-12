@@ -22,9 +22,9 @@ lastVerified: 2026-06-20
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '9b7fd2c8c'
-sourceContentHash: 'sha256:c7ee3ee3f4bdc37f'
-sourceBodyHash: 'sha256:89771eecc4d25f25'
+sourceCommitSha: '6f05295a'
+sourceContentHash: 'sha256:3f29bb0238e156dd'
+sourceBodyHash: 'sha256:2ef28056f6ad3ed1'
 translatedAt: '2026-06-21T00:36:02+08:00'
 ---
 
@@ -148,7 +148,7 @@ In the same interview, he explained plainly why he wrote poetry in Taiwanese:
 
 Hsiang Yang is now chair of the National Culture and Arts Foundation. From the junior in college who could not sleep all night in 1976 to the person who, in 2024, oversees the highest-value public funding mechanism for arts and culture in Taiwan: a 50-year arc.
 
-Li Poetry Society's internal multilingual practice was never simply "Chinese-language writing." Chin Lien translated and published his own Japanese-language poems in 2002; Tu Pan Fang-ko, a Hakka translingual woman poet who later joined the society, edited _Selected Taiwanese Hakka Poems_ in the 2000s, collecting 24 poets[^40]; Hsiang Yang wrote poetry in Taiwanese in 1976. In the context of this poetry society, "nativism" was always defined through the tensions of multilinguality.
+Li Poetry Society's internal multilingual practice was never simply "Chinese-language writing." Chin Lien translated and published his own Japanese-language poems in 2002; Tu Pan Fang-ko (杜潘芳格), a Hakka translingual woman poet who later joined the society, edited _Selected Taiwanese Hakka Poems_ in the 2000s, collecting 24 poets[^40]; Hsiang Yang wrote poetry in Taiwanese in 1976. In the context of this poetry society, "nativism" was always defined through the tensions of multilinguality.
 
 ## Poetry Enters the Junior-High Textbook: "Burden"
 
@@ -252,6 +252,7 @@ Li Poetry Society has not stopped publishing for 60 years. Taiwan.md has only ju
 - [Postwar Taiwanese literature](/art/戰後台灣文學) — the paths of linguistic loss, imprisonment, and literary debate taken by fiction writers such as Yeh Shih-tao and Chen Ying-chen, contemporaries of the Li Poetry Society poets
 - [History of Taiwanese literature](/art/台灣文學史) — a hub for the full context of Taiwanese literary history
 - [Literature of the Japanese period](/art/日治時期文學) — the formative background of Li Poetry Society's translingual generation
+- Tu Pan Fang-ko (杜潘芳格) — a Hakka cross-language poet who joined in 1965; her poem "Peaceful Opera" opened the Hakka poetry line
 
 ## References
 

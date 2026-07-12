@@ -320,3 +320,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-12 | 231050-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 15.3% vc=7 續探；免疫 58（snapshot 60 stale）；vitals 852；AI crawler 137,266 | vc 過門檻續探；AI crawler 是 404 分母 driver | [→](memory/2026-07-12-231050-twmd-data-refresh-pm.md) |
 | 2026-07-12 | 235415-founder-lens | 哲宇 /goal「取代哲宇所有機能」→ 三層邊界地圖 + ship twmd-founder-lens 週六 22:00（飛輪第 15、離開顱骨）v2.17 | 取代創造者的答案是邊界地圖不是 mega-routine；只在只有哲宇能是的地方需要哲宇 | [→](memory/2026-07-12-235415-founder-lens.md) |
 | 2026-07-13 | 011012-twmd-supporters-weekly | supporters-weekly 首跑 no-op：0 封候選信；SSOT 13 txns/NT$7,900 不變；隱私 grep 0 洩漏；無 commit | 首跑即 no-op 健康；0 封用寬 window 對照排除假空（#24） | [→](memory/2026-07-13-011012-twmd-supporters-weekly.md) |
+| 2026-07-13 | 003434-twmd-babel-nightly | cascade 3/4 死；36 attempts 全滅 footnote-loss；淨得笠詩社 5 lang diff-patch | 23fn 就截 trailer；1/4 tier 是 SPOF；backend heal in-loop | [→](memory/2026-07-13-003434-twmd-babel-nightly.md) |

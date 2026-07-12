@@ -22,9 +22,9 @@ lastVerified: 2026-06-20
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '9b7fd2c8c'
-sourceContentHash: 'sha256:c7ee3ee3f4bdc37f'
-sourceBodyHash: 'sha256:89771eecc4d25f25'
+sourceCommitSha: '6f05295a'
+sourceContentHash: 'sha256:3f29bb0238e156dd'
+sourceBodyHash: 'sha256:2ef28056f6ad3ed1'
 translatedAt: '2026-06-21T00:36:02+08:00'
 ---
 
@@ -251,6 +251,7 @@ Taiwan.md가 리 시사를 영어, 일본어, 한국어, 스페인어, 프랑스
 - [전후 타이완 문학](/art/戰後台灣文學) — 예스탸오, 천잉전 등 소설가들의 실어, 투옥, 논쟁의 길. 리 시사 시인들과 같은 세대이다
 - [타이완 문학사](/art/台灣文學史) — 타이완 문학사 전체 맥락의 허브
 - [일본 통치 시기 문학](/art/日治時期文學) — 리 시사 횡단언어 세대의 성장 배경
+- 杜潘芳格 (두반팡거) — 1965년 가입한 하카어 크로스-언어 여성 시인; 〈평안희〉와 하카어 시 계보
 
 ## 참고 자료
 

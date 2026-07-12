@@ -22,9 +22,9 @@ lastVerified: 2026-06-20
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '9b7fd2c8c'
-sourceContentHash: 'sha256:c7ee3ee3f4bdc37f'
-sourceBodyHash: 'sha256:89771eecc4d25f25'
+sourceCommitSha: '6f05295a'
+sourceContentHash: 'sha256:3f29bb0238e156dd'
+sourceBodyHash: 'sha256:2ef28056f6ad3ed1'
 translatedAt: '2026-06-21T00:36:02+08:00'
 ---
 
@@ -251,6 +251,7 @@ La Sociedad Poética Li no dejó de publicar en 60 años. Taiwan.md apenas empie
 - [Literatura taiwanesa de posguerra](/art/戰後台灣文學) — La trayectoria de afasia, prisión y debates de novelistas como Ye Shitao y Chen Yingzhen, contemporáneos de los poetas de la Sociedad Poética Li
 - [Historia de la literatura taiwanesa](/art/台灣文學史) — Hub del contexto completo de la historia literaria de Taiwán
 - [Literatura del período japonés](/art/日治時期文學) — El trasfondo de formación de la generación translingüe de la Sociedad Poética Li
+- Du Pan Fangge (杜潘芳格) — poeta hakka multilingüe que se unió en 1965; autora de «La ópera de la paz» y de la línea de poesía hakka
 
 ## Referencias
 

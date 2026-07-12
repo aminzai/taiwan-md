@@ -22,9 +22,9 @@ lastVerified: 2026-06-20
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '9b7fd2c8c'
-sourceContentHash: 'sha256:c7ee3ee3f4bdc37f'
-sourceBodyHash: 'sha256:89771eecc4d25f25'
+sourceCommitSha: '6f05295a'
+sourceContentHash: 'sha256:3f29bb0238e156dd'
+sourceBodyHash: 'sha256:2ef28056f6ad3ed1'
 translatedAt: '2026-06-21T00:36:02+08:00'
 ---
 
@@ -251,6 +251,7 @@ Taiwan.md が笠詩社を英語、日本語、韓国語、スペイン語、フ�
 - [戦後台湾文学](/art/戰後台灣文學) — 葉石濤、陳映真ら小説家の失語、投獄、論争の道であり、笠詩社の詩人たちと同世代です
 - [台湾文学史](/art/台灣文學史) — 台湾文学史全体の文脈を示す Hub
 - [日本統治時代文学](/art/日治時期文學) — 笠詩社の跨語世代が成長した背景です
+- 杜潘芳格 — 1965年に加入した客家系跨言語女性詩人；〈平安戲〉と客語詩の系譜
 
 ## 参考資料
 
