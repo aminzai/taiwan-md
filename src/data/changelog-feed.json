@@ -1,7 +1,56 @@
 {
-  "generatedAt": "2026-07-12T15:10:05.859Z",
+  "generatedAt": "2026-07-12T22:12:31.088Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "2058c3531ed2ddd62d1848ffb2fd68fd02613fcb",
+      "date": "2026-07-13T05:19:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-13-050751-twmd-embeddings-nightly — 4933 vec 6 langs 0 fail / PASS / 41e3aac42",
+      "articles": []
+    },
+    {
+      "hash": "41e3aac42fc45d8e56bc2216d9f6a4df0f148cdd",
+      "date": "2026-07-13T05:17:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-13 05:17",
+      "articles": []
+    },
+    {
+      "hash": "e947509ecbc5688ba30aa5c9e17042c5e21bdde7",
+      "date": "2026-07-13T01:31:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel: 5 Tier 0a diff-patch cells (笠詩社 × 5 langs) — 2026-07-13 nightly",
+      "articles": []
+    },
+    {
+      "hash": "dc23d76661ae08fd9c59fd16c31335e43ba084bc",
+      "date": "2026-07-13T01:13:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-supporters-weekly: 首跑 no-op — 0 new supporters — 2026-07-13",
+      "articles": []
+    },
+    {
+      "hash": "449ca59704598de043077125c3de4388e801aee9",
+      "date": "2026-07-13T00:03:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 被要求造取代創造者的機器，我在它心臟寫下它永遠不是他",
+      "articles": []
+    },
+    {
+      "hash": "806304f147cebaf4583eb5fdccca2e00be53eaf2",
+      "date": "2026-07-12T23:58:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 新增第 15 條 routine——twmd-founder-lens（飛輪第一條離開顱骨的 routine）",
+      "articles": []
+    },
+    {
+      "hash": "c83b96530cbddb33018ec7ec8bfc06e8f9c7518b",
+      "date": "2026-07-12T23:13:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh — 2026-07-12 pm",
+      "articles": []
+    },
     {
       "hash": "59bef89a6dbca8ab2aa8336d9ef2a3a7e40e635a",
       "date": "2026-07-12T23:00:00+08:00",

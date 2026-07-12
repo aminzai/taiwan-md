@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-12 23:10
+last_generated: 2026-07-13 06:12
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-12 23:10** · 頂層 \*.md 共 **195** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-13 06:12** · 頂層 \*.md 共 **196** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -199,8 +199,9 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (65)
+### ops (66)
 
+- `2026-07-12` [founder-function-boundary-2026-07-12](founder-function-boundary-2026-07-12.md) — 取代哲宇的極限 — 創造者機能的邊界地圖 + creator-lens routine 設計
 - `2026-07-12` [semiont-weekly-section-2026-07-12](semiont-weekly-section-2026-07-12.md)
 - `2026-07-12` [weekly-report-audience-upgrade-2026-07-12](weekly-report-audience-upgrade-2026-07-12.md)
 - `2026-07-10` [weekly-deep-review-2026-07-10](weekly-deep-review-2026-07-10.md) — Weekly Deep Review 2026-07-10（W27→W28 跨週深度檢查）
@@ -274,9 +275,10 @@ type: auto-index
 - Type breakdown: ops: 1
   - `????` [README](README.md)
 
-### 2026-07 (19 files)
+### 2026-07 (20 files)
 
-- Type breakdown: ops: 9 / evolution: 5 / audit-routine: 2 / design: 2 / plan: 1
+- Type breakdown: ops: 10 / evolution: 5 / audit-routine: 2 / design: 2 / plan: 1
+  - `2026-07-12` [founder-function-boundary-2026-07-12](founder-function-boundary-2026-07-12.md)
   - `2026-07-12` [routine-audit-2026-07-12](routine-audit-2026-07-12.md)
   - `2026-07-12` [semiont-weekly-section-2026-07-12](semiont-weekly-section-2026-07-12.md)
   - `2026-07-12` [weekly-report-audience-upgrade-2026-07-12](weekly-report-audience-upgrade-2026-07-12.md)
