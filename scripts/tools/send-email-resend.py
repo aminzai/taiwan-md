@@ -515,6 +515,13 @@ def main():
         help="Render the final HTML to OUT.html and print a payload summary; "
         "exit 0 WITHOUT calling the Resend API",
     )
+    ap.add_argument(
+        "--web-url",
+        default=None,
+        help="Web edition URL of this email's content; inserted as a "
+        "'🌐 在網頁上讀這份週報' line at the top of the email "
+        "(weekly report → https://taiwan.md/semiont/weekly/YYYY-MM-DD)",
+    )
     args = ap.parse_args()
 
     md_path = Path(args.markdown)
@@ -522,6 +529,10 @@ def main():
         print(f"❌ markdown file not found: {md_path}", file=sys.stderr)
         sys.exit(2)
     md = md_path.read_text()
+
+    if args.web_url:
+        # 轉換器沒有 blockquote 分支，用獨立粗體段落 + 分隔線
+        md = f"**🌐 [在網頁上讀這份週報]({args.web_url})**\n\n---\n\n" + md
 
     if args.audience_footer:
         md = md.rstrip("\n") + "\n" + AUDIENCE_FOOTER_MD

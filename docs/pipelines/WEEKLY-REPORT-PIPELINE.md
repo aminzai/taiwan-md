@@ -4,9 +4,9 @@ description: '週體檢流程 — 一週深度檢查 + 外部感測數據 + 所�
 type: 'pipeline-canonical'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v4.2'
+current_version: 'v4.3'
 last_updated: 2026-07-12
-last_session: '2026-07-12-142709-weekly-audience（哲宇 /goal：週報 BCC 給近 3 個月貢獻者）'
+last_session: '2026-07-12-142709-weekly-audience（哲宇 /goal ×2：BCC 共生圈 + /semiont 週報區網頁版）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'DAILY-REPORT-PIPELINE.md'
@@ -532,9 +532,12 @@ python3 scripts/tools/send-email-resend.py \
   --from "Taiwan.md 週報 <weekly@taiwan.md>" \
   --reply-to cheyu.wu@monoame.com \
   --audience-footer \
+  --web-url "https://taiwan.md/semiont/weekly/${DATE}" \
   --subject "🧬 Taiwan.md 週報 ${WINDOW_START} ～ ${DATE}" \
   --markdown reports/weekly/${DATE}.md
 ```
+
+信件最上方會有一行「🌐 在網頁上讀這份週報」指向 [/semiont/weekly](https://taiwan.md/semiont/weekly) 網頁版（v4.3——週報區上線後信與網頁互相指向；網頁版由 build 自動從 `reports/weekly/*.md` 產生，Stage 6 commit 進 main 後下次 deploy 即上線，無需額外步驟）。
 
 #### 設定
 
@@ -685,6 +688,8 @@ _前置：v1 第一輪 redirect 已把 prep / write 分離（5/9 brave-kirch-edi
 _後續：本 pipeline ship 後，下次 routine cron 跑時走 v2 完整流程；觀察者 ad-hoc 觸發也走本檔_
 
 _v3.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（Stage 0-6 box-frame + routine + 跨 pipeline contract）+ Hard Gate Inventory 集中 table（12 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 DAILY-REPORT / DIARY / MEMORY / DATA-REFRESH / ROUTINE 分工）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.4 trio audit。Stage 0-6 prose body 不動（已健康，5/9 + 5/10 連續演化的新鮮經驗保留）。_
+
+_v4.3 | 2026-07-12-142709-weekly-audience（同日第二刀）— **週報長出網頁版**：哲宇 /goal「semiont 頁面放週報區」。`/semiont/weekly`（列表）+ `/semiont/weekly/YYYY-MM-DD`（內文）由 build 自動從 `reports/weekly/*.md` 產生（`src/lib/semiont-weekly.ts` 鏡射 diary 管線；相對 repo 連結改寫成 GitHub 絕對網址，跟 email 同課）；/semiont landing 加 📮 週報區；Stage 5b 加 `--web-url`，信件頂部一行「在網頁上讀」。dossier 不上網（內部 briefing）。設計：[reports/semiont-weekly-section-2026-07-12.md](../../reports/semiont-weekly-section-2026-07-12.md)。_
 
 _v4.2 | 2026-07-12-142709-weekly-audience — **週報從「寄給觀察者」升「寄給整個共生圈」**：哲宇 /goal directive「未來週報也幫我 cc 給所有有貢獻過 taiwan.md 的貢獻者（近 3 個月，含提 issue 的人）、用 BCC、連結要可點、能儀器化的都儀器化」。Stage 5 拆 5a 受眾同步（新儀器 [`weekly-report-recipients.py`](../../scripts/tools/weekly-report-recipients.py)：三源抓取 + mailmap 合併 + email 解析 + 活躍度整理，名單落 `~/.config` 不進 repo）+ 5b 廣播寄送（`send-email-resend.py` 升級：BCC 分批 / reply-to / audience footer 退訂口 / 相對連結轉絕對 + 裸網址自動超連結）。`weekly-checkup.sh` 加 i 節（受眾名單與活躍度）。隱私三不升鐵律 9。From 換 verified domain `taiwanmd@cheyuwu.com`（sandbox 註記過時勘正）。設計報告：[reports/weekly-report-audience-upgrade-2026-07-12.md](../../reports/weekly-report-audience-upgrade-2026-07-12.md)。_
 
