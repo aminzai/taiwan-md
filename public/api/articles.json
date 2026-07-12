@@ -1399,7 +1399,7 @@
       "人人有功練"
     ],
     "url": "https://taiwan.md/people/%E5%A4%A7%E6%94%AF",
-    "readingTime": 31,
+    "readingTime": 30,
     "featured": false,
     "date": "2026-07-10",
     "path": "People/大支.md"
@@ -2753,6 +2753,24 @@
     "featured": true,
     "date": "2026-03-17",
     "path": "ja/Technology/semiconductor-industry.md"
+  },
+  {
+    "title": "半導體用水與台灣水資源：晶圓廠旁邊的水庫",
+    "description": "晶片製造需要超純水，但台灣的水不是只存在於工廠管線裡，也存在於水庫、降雨、旱災、農業灌溉、再生水與地方調度之間。這篇文章不把半導體用水寫成「台積電搶水」的單線衝突，而是說明先進製程如何把台灣的島嶼水文、公共治理、再生水建設與全球供應鏈綁在一起，讓高科技回到水庫、農田與地方信任。",
+    "category": "Technology",
+    "tags": [
+      "半導體",
+      "水資源",
+      "台積電",
+      "超純水",
+      "再生水",
+      "供應鏈"
+    ],
+    "url": "https://taiwan.md/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A8%E6%B0%B4%E8%88%87%E5%8F%B0%E7%81%A3%E6%B0%B4%E8%B3%87%E6%BA%90",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "Technology/半導體用水與台灣水資源.md"
   },
   {
     "title": "半導體產業：從 RCA 技轉到氮化鎵與量子封裝的 50 年材料革命",
@@ -6216,11 +6234,11 @@
     "description": "2014年、劉安婷は2000元と9人の仲間とともに活動を始めた。11年後、400人以上のTFT教師が台湾最も辺境の小学校に入り、制度から取り残された7000人以上の子どもたちと共に過ごした。これは教育慈善の感動物語ではない——「不公平の責任は誰にあるのか」という、今も続く問いである。",
     "category": "ja",
     "tags": [],
-    "url": "https://taiwan.md/ja/society/taiwan-slash-generation",
+    "url": "https://taiwan.md/ja/society/teach-for-taiwan",
     "readingTime": 32,
     "featured": false,
     "date": "2026-04-08",
-    "path": "ja/Society/taiwan-slash-generation.md"
+    "path": "ja/Society/teach-for-taiwan.md"
   },
   {
     "title": "台湾のトタン屋根：71.6万件の違法建築が支えるスカイライン",
@@ -7998,6 +8016,24 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "Society/台灣的道德課去哪了.md"
+  },
+  {
+    "title": "台灣的電力與半導體：護國神山的電力帳單",
+    "description": "台灣半導體的國際籌碼，建立在非常具體的電力系統上。先進晶圓廠、EUV 曝光、先進封裝、AI 伺服器測試與資料中心，都需要穩定、低中斷、可擴張的供電。這篇文章不把半導體用電寫成單純的環保控訴，而是把它放回供應鏈博弈：世界需要台灣製造 AI 晶片，台灣也必須回答誰承擔電力成本、碳排壓力與能源安全風險。",
+    "category": "Technology",
+    "tags": [
+      "半導體",
+      "電力",
+      "能源",
+      "台積電",
+      "AI硬體",
+      "供應鏈"
+    ],
+    "url": "https://taiwan.md/technology/%E5%8F%B0%E7%81%A3%E7%9A%84%E9%9B%BB%E5%8A%9B%E8%88%87%E5%8D%8A%E5%B0%8E%E9%AB%94",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "Technology/台灣的電力與半導體.md"
   },
   {
     "title": "台灣的鐵皮屋：71.6 萬件違章撐起的天際線",
@@ -12544,6 +12580,17 @@
     "path": "ja/People/ethan-tu.md"
   },
   {
+    "title": "杜潘芳格：三種語言，一場平安戲",
+    "description": "跨語一代客家女詩人、二二八張七郎家族受難者家屬。〈平安戲〉把民俗謝神寫成白色恐怖下的求生共犯錄——被政權拿走語言的人，母語裡最狠的一句是寫給自己人。",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/people/%E6%9D%9C%E6%BD%98%E8%8A%B3%E6%A0%BC",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-07-12",
+    "path": "People/杜潘芳格.md"
+  },
+  {
     "title": "杜聰明",
     "description": "台灣第一位醫學博士，發明漸進斷癮法在17年間幫助11498人戒除鴉片，高雄醫學大學創辦人",
     "category": "People",
@@ -16348,7 +16395,7 @@
       "林昶佐"
     ],
     "url": "https://taiwan.md/music/%E9%96%83%E9%9D%88",
-    "readingTime": 36,
+    "readingTime": 38,
     "featured": false,
     "date": "2026-07-10",
     "path": "Music/閃靈.md"
@@ -19457,19 +19504,12 @@
     "path": "People/黃光雄.md"
   },
   {
-    "title": "黃金時代的餘韻：台灣茶文化的流變與工藝",
-    "description": "1930年代列強簽了限產協定把台灣排除在外，結果台灣紅茶趁勢暴衝——從329萬公斤到580萬。90年後，同一座島嶼每30分鐘開一家手搖飲店。",
+    "title": "黃金時代的餘韻：從孟臣壺到塑膠杯，台灣茶換了一百年的容器",
+    "description": "清代台灣富紳喝茶講究「壺必孟臣」，今天上班族走進手搖店的反射動作是「微糖少冰」。中間一百多年，台灣茶換過工夫茶的小壺、比賽茶的錫罐、手搖的塑膠杯——1869 年陶德把福建茶改姓「福爾摩沙」送進紐約，1976 年鹿谷冠軍茶一斤喊到五千元，2025 年全台一萬六千家手搖店。換的一直是容器，沒換的是這座島把外來機會泡成自己味道的那股勁。",
     "category": "Culture",
-    "tags": [
-      "茶文化",
-      "凍頂烏龍",
-      "高山茶",
-      "手搖飲",
-      "珍珠奶茶",
-      "農業文化"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/culture/%E5%8F%B0%E7%81%A3%E8%8C%B6%E6%96%87%E5%8C%96",
-    "readingTime": 16,
+    "readingTime": 48,
     "featured": true,
     "date": "2026-03-24",
     "path": "Culture/台灣茶文化.md"
@@ -21765,8 +21805,8 @@
     "path": "ja/People/tsai-ing-wen.md"
   },
   {
-    "title": "蔡英文：從 80 萬票敗選到 817 萬票連任的第一位女總統",
-    "description": "台灣第一位女總統（2016-2024），國際貿易法學者出身，任內完成亞洲首部同婚專法、代表政府向原住民族道歉，排灣族後裔",
+    "title": "蔡英文：從敗選之夜到 817 萬票，安靜走過總統八年",
+    "description": "2012 年 1 月 14 日，蔡英文以 797,561 票之差敗選；八年後，她以 8,170,231 票創下台灣總統直選最高票。從國際貿易法學者到第一位女總統，她用原民道歉、同婚專法、年金改革與維持現狀，留下成就，也留下司法、居住、能源與兩岸關係的未竟問題。這是安靜領導成為制度，也被制度留下缺口的八年。",
     "category": "People",
     "tags": [
       "人物",
@@ -21778,7 +21818,7 @@
       "原住民族"
     ],
     "url": "https://taiwan.md/people/%E8%94%A1%E8%8B%B1%E6%96%87",
-    "readingTime": 21,
+    "readingTime": 33,
     "featured": false,
     "date": "2026-03-17",
     "path": "People/蔡英文.md"
@@ -24221,6 +24261,45 @@
     "path": "fr/People/ahn-ji-hyun.md"
   },
   {
+    "title": "AI 供應鏈海外設廠：台灣能力被世界請出去",
+    "description": "AI 硬體供應鏈的海外設廠，不只是台積電赴美日德，也包括鴻海、緯創、台達、封測與伺服器供應商被客戶、關稅、補貼與地緣政治拉向美國、日本、歐洲、印度、東南亞與墨西哥。這篇文章從全球化、去風險化與供應鏈博弈說明：台灣企業出海，是能力的延伸，也是世界降低單點依賴的動作，不是一場單純的企業搬家。",
+    "category": "Technology",
+    "tags": [
+      "AI硬體",
+      "海外設廠",
+      "半導體",
+      "供應鏈",
+      "台積電",
+      "鴻海",
+      "緯創",
+      "台達電子"
+    ],
+    "url": "https://taiwan.md/technology/AI%E4%BE%9B%E6%87%89%E9%8F%88%E6%B5%B7%E5%A4%96%E8%A8%AD%E5%BB%A0",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "Technology/AI供應鏈海外設廠.md"
+  },
+  {
+    "title": "AI 硬體供應鏈：台灣把雲端變成機器的地方",
+    "description": "生成式 AI 看起來像雲端服務，其實需要一整條實體道路：有人設計晶片、有人製造晶圓、有人封裝、有人處理記憶體、電力、散熱、主機板與機櫃。台灣的重要性不只在台積電，而在這條道路上有許多關鍵關口集中於此；這份共同利益真實存在，也伴隨水電、碳排、所得分配、海外設廠與地緣風險，把抽象口號變成可檢查的供應鏈證據。",
+    "category": "Technology",
+    "tags": [
+      "AI硬體",
+      "半導體",
+      "供應鏈",
+      "AI伺服器",
+      "先進製程",
+      "先進封裝",
+      "台灣科技業"
+    ],
+    "url": "https://taiwan.md/technology/AI%E7%A1%AC%E9%AB%94%E4%BE%9B%E6%87%89%E9%8F%88",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "Technology/AI硬體供應鏈.md"
+  },
+  {
     "title": "AI and Artificial Intelligence Industry",
     "description": "From manufacturing NVIDIA chips to building an AI ecosystem — how Taiwan is finding its positioning in the AI era",
     "category": "en",
@@ -24235,6 +24314,45 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Technology/artificial-intelligence-industry.md"
+  },
+  {
+    "title": "AI Hardware Supply Chain: Where Taiwan Turns the Cloud into Machines",
+    "description": "Generative AI looks like a cloud service, but it depends on a physical road: chip design, wafer fabrication, packaging, memory, power, cooling, motherboards, racks, and delivery. Taiwan matters not only because of TSMC, but because many checkpoints along that road are concentrated here; that shared interest is real, and so are the bills for water, power, carbon, inequality, overseas manufacturing, and geopolitical risk.",
+    "category": "en",
+    "tags": [
+      "AI hardware",
+      "semiconductors",
+      "supply chain",
+      "AI servers",
+      "advanced nodes",
+      "advanced packaging",
+      "Taiwan tech industry"
+    ],
+    "url": "https://taiwan.md/en/technology/ai-hardware-supply-chain",
+    "readingTime": 100,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "en/Technology/ai-hardware-supply-chain.md"
+  },
+  {
+    "title": "AI Supply Chain Overseas Manufacturing: Taiwan’s Capabilities Are Being Invited Abroad",
+    "description": "Overseas manufacturing in the AI hardware supply chain is not only TSMC going to the United States, Japan, and Germany. It also includes Foxconn, Wistron, Delta, packaging and testing firms, and server suppliers being pulled toward the United States, Japan, Europe, India, Southeast Asia, and Mexico by customers, tariffs, subsidies, and geopolitics. This article explains why Taiwan’s companies go abroad through globalization, de-risking, and supply-chain bargaining: it is an extension of capability, and also the world’s attempt to reduce single-point dependence.",
+    "category": "en",
+    "tags": [
+      "AI hardware",
+      "overseas manufacturing",
+      "semiconductors",
+      "supply chain",
+      "TSMC",
+      "Foxconn",
+      "Wistron",
+      "Delta Electronics"
+    ],
+    "url": "https://taiwan.md/en/technology/ai-supply-chain-overseas-manufacturing",
+    "readingTime": 102,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "en/Technology/ai-supply-chain-overseas-manufacturing.md"
   },
   {
     "title": "AI 섬나라의 부상: 대만의 인공지능 발전과 미래 전략",
@@ -27474,7 +27592,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/music/chthonic",
-    "readingTime": 97,
+    "readingTime": 101,
     "featured": false,
     "date": "2026-07-10",
     "path": "en/Music/chthonic.md"
@@ -30205,7 +30323,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/dwagie",
-    "readingTime": 88,
+    "readingTime": 87,
     "featured": false,
     "date": "2026-07-10",
     "path": "en/People/dwagie.md"
@@ -32418,7 +32536,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/freddy-lim",
-    "readingTime": 124,
+    "readingTime": 127,
     "featured": false,
     "date": "2026-07-10",
     "path": "en/People/freddy-lim.md"
@@ -38108,18 +38226,12 @@
     "title": "La génération slash à Taïwan — survivre avec plusieurs casquettes",
     "description": "Quand un master ne couvre même pas le loyer d'un studio à Taipei, le cumul d'emplois n'est pas un choix : c'est une équation de survie",
     "category": "fr",
-    "tags": [
-      "génération slash",
-      "économie des petits boulots",
-      "salaires",
-      "prix de limmobilier",
-      "emploi des jeunes"
-    ],
-    "url": "https://taiwan.md/fr/society/slash-generation-new",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/taiwan-slash-generation-multi-job-economy",
     "readingTime": 60,
     "featured": false,
     "date": "2026-03-29",
-    "path": "fr/Society/slash-generation-new.md"
+    "path": "fr/Society/taiwan-slash-generation-multi-job-economy.md"
   },
   {
     "title": "La Guerra de Yiwei: los 148 días de la República Democrática de Taiwán",
@@ -47419,6 +47531,24 @@
     "path": "en/Technology/taiwan-semiconductor-industry.md"
   },
   {
+    "title": "Semiconductor Water Use and Taiwan’s Water Resources: The Reservoir Beside the Fab",
+    "description": "Chip manufacturing needs ultrapure water, but Taiwan’s water does not exist only inside factory pipes. It also exists among reservoirs, rainfall, drought, agricultural irrigation, reclaimed water, and local allocation. This article does not reduce semiconductor water use to a one-line conflict of \"TSMC stealing water.\" It explains how advanced processes bind Taiwan’s island hydrology, public governance, reclaimed-water infrastructure, and global supply chains together, pulling high tech back to reservoirs, farms, and local trust.",
+    "category": "en",
+    "tags": [
+      "semiconductors",
+      "water resources",
+      "TSMC",
+      "ultrapure water",
+      "reclaimed water",
+      "supply chain"
+    ],
+    "url": "https://taiwan.md/en/technology/semiconductor-water-use-and-taiwan-water-resources",
+    "readingTime": 71,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "en/Technology/semiconductor-water-use-and-taiwan-water-resources.md"
+  },
+  {
     "title": "Shao You-lian : le gestionnaire de consolidation après l'aura de Liu Ming-chuan, et le véritable ancrage de Taipei comme capitale provinciale",
     "description": "Fut-il le coupable que l'histoire a marqué comme celui qui mit fin aux « nouvelles politiques », ou le gardien des finances le plus pragmatique du Taïwan des Qing ? Après les grands chantiers lancés par Liu Ming-chuan, Shao You-lian acheva, dans un contexte budgétaire extrêmement contraint, la voie ferrée de Taipei à Hsinchu, ancra officiellement la capitale provinciale de Taïwan à Taipei, et laissa à la postérité un débat difficile à trancher : consolider l'existant relève-t-il du recul, ou d'une autre forme de gouvernement plus proche du réel ?",
     "category": "fr",
@@ -50679,6 +50809,24 @@
     "path": "en/Lifestyle/taiwan-education-system.md"
   },
   {
+    "title": "Taiwan’s Electricity and Semiconductors: The Power Bill Behind the Sacred Mountain",
+    "description": "Taiwan’s semiconductor leverage rests on a very concrete electricity system. Advanced fabs, EUV lithography, advanced packaging, AI server testing, and data centers all need stable, low-interruption, expandable power. This article does not treat semiconductor electricity use as a simple environmental accusation. It places it back inside supply-chain bargaining: the world needs Taiwan to manufacture AI chips, and Taiwan must answer who bears the power costs, carbon pressure, and energy-security risks.",
+    "category": "en",
+    "tags": [
+      "semiconductors",
+      "electricity",
+      "energy",
+      "TSMC",
+      "AI hardware",
+      "supply chain"
+    ],
+    "url": "https://taiwan.md/en/technology/taiwan-electricity-and-semiconductors",
+    "readingTime": 79,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "en/Technology/taiwan-electricity-and-semiconductors.md"
+  },
+  {
     "title": "Taiwan's Energy Transition and Green Energy Industries",
     "description": "From reliance on nuclear power to a diversified renewable mix, how Taiwan is reshaping its energy structure on the road to net zero by 2050",
     "category": "en",
@@ -52539,33 +52687,33 @@
     "description": "En 2014, Liu An-Ting a démarré avec deux mille dollars taïwanais et neuf personnes. Onze ans plus tard, plus de quatre cents enseignants TFT travaillent dans les écoles primaires les plus reculées de Taïwan, aux côtés de sept mille enfants oubliés par le système. Ce n'est pas un récit inspirant sur la philanthropie éducative — c'est un débat permanent sur la question de savoir qui est responsable des inégalités.",
     "category": "fr",
     "tags": [],
-    "url": "https://taiwan.md/fr/society/taiwan-slash-generation",
+    "url": "https://taiwan.md/fr/society/teach-for-taiwan",
     "readingTime": 87,
     "featured": false,
     "date": "2026-04-08",
-    "path": "fr/Society/taiwan-slash-generation.md"
+    "path": "fr/Society/teach-for-taiwan.md"
   },
   {
     "title": "Teach For Taiwan: How a Princeton Graduate Came Home and Convinced 400 Young People to Enter Remote Classrooms",
     "description": "In 2014, Liu An-ting started with NT$2,000 and nine people. Eleven years later, more than 400 TFT teachers have entered Taiwan's most remote elementary schools, accompanying over 7,000 children forgotten by the system. This is not an inspirational charity story — it is an ongoing debate about who should be responsible for inequality.",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/society/taiwan-slash-generation",
+    "url": "https://taiwan.md/en/society/teach-for-taiwan",
     "readingTime": 77,
     "featured": false,
     "date": "2026-04-08",
-    "path": "en/Society/taiwan-slash-generation.md"
+    "path": "en/Society/teach-for-taiwan.md"
   },
   {
     "title": "Teach For Taiwan: una chica de Princeton regresa a casa y convence a cuatrocientos jóvenes para enseñar en las aulas rurales",
     "description": "En 2014, Liu An-ting empezó con dos mil dólares taiwaneses y nueve personas. Once años después, más de cuatrocientos profesores de TFT han llegado a las escuelas primarias más remotas de Taiwán, acompañando a más de siete mil niños olvidados por el sistema. Esta no es una historia inspiradora de caridad educativa: es un debate continuo sobre \"quién debe asumir la responsabilidad de la desigualdad\".",
     "category": "es",
     "tags": [],
-    "url": "https://taiwan.md/es/society/taiwan-slash-generation",
+    "url": "https://taiwan.md/es/society/teach-for-taiwan",
     "readingTime": 86,
     "featured": false,
     "date": "2026-04-08",
-    "path": "es/Society/taiwan-slash-generation.md"
+    "path": "es/Society/teach-for-taiwan.md"
   },
   {
     "title": "Teatro de sombras taiwanés: del 'nido del teatro de sombras' de Mituo al 'Sarukani Gassen' del kominka",
@@ -59974,11 +60122,11 @@
     "description": "2014년, 류안팅은 단돈 2,000대만달러와 9명으로 시작했다. 11년 후, 400여 명의 TFT 교사가 대만의 가장 외진 초등학교에 들어가 체제에서 잊혀진 7,000여 명의 아이들과 함께하고 있다. 이것은 교육 자선의 감동 스토리가 아니다. \"누가 불공평에 책임을 져야 하는가\"를 둘러싼 지속적인 논쟁이다.",
     "category": "ko",
     "tags": [],
-    "url": "https://taiwan.md/ko/society/taiwan-slash-generation",
+    "url": "https://taiwan.md/ko/society/teach-for-taiwan",
     "readingTime": 35,
     "featured": false,
     "date": "2026-04-08",
-    "path": "ko/Society/taiwan-slash-generation.md"
+    "path": "ko/Society/teach-for-taiwan.md"
   },
   {
     "title": "대만의 5대 지형과 지리 구조: 산맥에서 평원까지의 섬 경관",

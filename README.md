@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **847 curated articles** (zh-TW SSOT) across 14 categories — projected to **6 languages** = 5,082 article-versions
+- 📖 **852 curated articles** (zh-TW SSOT) across 14 categories — projected to **6 languages** = 5,112 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français — 5 lang each ≥ 80% real freshPct (en 96% / ja 97% / ko 93% / fr 93% / es 80%)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -48,9 +48,9 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 847   |
-| 🇹🇼 Chinese (zh-TW)             | 847   |
-| 🇺🇸 English (en)                | 853   |
+| 📄 Total articles (zh-TW SSOT) | 852   |
+| 🇹🇼 Chinese (zh-TW)             | 852   |
+| 🇺🇸 English (en)                | 857   |
 | 🇯🇵 日本語 (ja)                 | 844   |
 | 🇰🇷 한국어 (ko)                 | 845   |
 | 🇪🇸 Español (es)                | 844   |
@@ -61,8 +61,8 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 | 👥 Contributors                | 66    |
 | ⭐ GitHub Stars                | 1102  |
 | 🍴 Forks                       | 162   |
-| 📅 Articles last 7 days        | 46    |
-| 📅 Articles last 30 days       | 141   |
+| 📅 Articles last 7 days        | 50    |
+| 📅 Articles last 30 days       | 138   |
 
 <!-- STATS:END -->
 
@@ -533,11 +533,11 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/fredchu"><img src="https://avatars.githubusercontent.com/u/1243384?v=4" width="100px;" alt=""/><br /><sub><b>Fred Chu</b></sub></a><br />💻 🖋️ 🤔 🌍 👀 🐛 🔧 📖</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/ellenlee"><img src="https://avatars.githubusercontent.com/u/13810570?v=4" width="100px;" alt=""/><br /><sub><b>ellenlee</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/AgendaLu"><img src="https://avatars.githubusercontent.com/u/43836432?v=4" width="100px;" alt=""/><br /><sub><b>YiChengLu</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/eryet"><img src="https://avatars.githubusercontent.com/u/48248414?v=4" width="100px;" alt=""/><br /><sub><b>EryetChen</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/260387338?v=4" width="100px;" alt=""/><br /><sub><b>Bugni</b></sub></a><br />💻 🖋️ 🌍 🐛</td>
     <td align="center"><a href="https://github.com/BrianHuang813"><img src="https://avatars.githubusercontent.com/u/66238110?v=4" width="100px;" alt=""/><br /><sub><b>Brian Huang</b></sub></a><br />💻 🤔 🌍</td>
-    <td align="center"><a href="https://github.com/ellenlee"><img src="https://avatars.githubusercontent.com/u/13810570?v=4" width="100px;" alt=""/><br /><sub><b>ellenlee</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/p3nchan"><img src="https://avatars.githubusercontent.com/u/5032148?v=4" width="100px;" alt=""/><br /><sub><b>Penchan</b></sub></a><br />🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/weilinlai719"><img src="https://avatars.githubusercontent.com/u/173038591?v=4" width="100px;" alt=""/><br /><sub><b>weilin lai</b></sub></a><br />💻 🐛</td>
   </tr>

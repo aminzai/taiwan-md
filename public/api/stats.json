@@ -1,8 +1,8 @@
 {
-  "totalArticles": 5080,
+  "totalArticles": 5089,
   "totalCategories": 20,
   "estimatedContributors": 66,
-  "totalTags": 6083,
+  "totalTags": 6104,
   "categories": [
     {
       "name": "es",
@@ -18,7 +18,7 @@
     },
     {
       "name": "en",
-      "count": 853
+      "count": 857
     },
     {
       "name": "ja",
@@ -50,7 +50,7 @@
     },
     {
       "name": "People",
-      "count": 238
+      "count": 239
     },
     {
       "name": "Music",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Technology",
-      "count": 54
+      "count": 58
     },
     {
       "name": "Nature",
@@ -112,6 +112,10 @@
     },
     {
       "name": "客家",
+      "count": 26
+    },
+    {
+      "name": "半導體",
       "count": 26
     },
     {
@@ -161,20 +165,16 @@
     {
       "name": "歷史",
       "count": 22
-    },
-    {
-      "name": "原住民",
-      "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5080,
+    "zh-TW": 5089,
     "en": 0
   },
-  "lastUpdated": "2026-07-11T22:12:25.224Z",
+  "lastUpdated": "2026-07-12T15:10:04.210Z",
   "stars": 1102,
   "forks": 162,
-  "zhPages": 847,
-  "enPages": 853,
-  "totalPages": 847
+  "zhPages": 852,
+  "enPages": 857,
+  "totalPages": 852
 }

@@ -1,8 +1,107 @@
 {
-  "_generated": "2026-07-11T22:12:38.437Z",
+  "_generated": "2026-07-12T15:10:16.627Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "蔡英文：從敗選之夜到 817 萬票，安靜走過總統八年",
+        "desc": "2012 年 1 月 14 日，蔡英文以 797,561 票之差敗選；八年後，她以 8,170,231 票創下台灣總統直選最高票。從國際貿易法學者到第一位女總統，她用原民道歉、同婚專法、年金改革與維持現狀，留下成就，也留下司法、居住、能源與兩岸關係的未竟問題。這是安靜領導成為制度，也被制度留下缺口的八年。",
+        "category": "people",
+        "href": "/people/%E8%94%A1%E8%8B%B1%E6%96%87",
+        "date": "2026-07-12T22:59:34+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/tsai-2016-campaign.webp"
+      },
+      {
+        "title": "笠詩社：一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊",
+        "desc": "1958 年一個 36 歲的台籍日本兵用筆名「桓夫」發表了戰後第一首中文詩，距離他停下日文筆 11 年。六年後他和另外十一個人在台灣中部的客廳裡，把這個世代的失語經驗變成一個叫「笠」的詩社——60 年不停刊，把本土詩學從邊緣寫進國中課本。",
+        "category": "art",
+        "href": "/art/%E7%AC%A0%E8%A9%A9%E7%A4%BE",
+        "date": "2026-07-12T22:05:45+08:00",
+        "readingTime": null,
+        "image": "/article-images/art/li-poetry-wu-sheng-2016.webp"
+      },
+      {
+        "title": "杜潘芳格：三種語言，一場平安戲",
+        "desc": "跨語一代客家女詩人、二二八張七郎家族受難者家屬。〈平安戲〉把民俗謝神寫成白色恐怖下的求生共犯錄——被政權拿走語言的人，母語裡最狠的一句是寫給自己人。",
+        "category": "people",
+        "href": "/people/%E6%9D%9C%E6%BD%98%E8%8A%B3%E6%A0%BC",
+        "date": "2026-07-12T22:05:45+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/dupan-xinpu-pan-house.webp"
+      },
+      {
+        "title": "黃金時代的餘韻：從孟臣壺到塑膠杯，台灣茶換了一百年的容器",
+        "desc": "清代台灣富紳喝茶講究「壺必孟臣」，今天上班族走進手搖店的反射動作是「微糖少冰」。中間一百多年，台灣茶換過工夫茶的小壺、比賽茶的錫罐、手搖的塑膠杯——1869 年陶德把福建茶改姓「福爾摩沙」送進紐約，1976 年鹿谷冠軍茶一斤喊到五千元，2025 年全台一萬六千家手搖店。換的一直是容器，沒換的是這座島把外來機會泡成自己味道的那股勁。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E8%8C%B6%E6%96%87%E5%8C%96",
+        "date": "2026-07-12T17:12:42+08:00",
+        "readingTime": 20,
+        "image": "/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp"
+      },
+      {
+        "title": "AI 供應鏈海外設廠：台灣能力被世界請出去",
+        "desc": "AI 硬體供應鏈的海外設廠，不只是台積電赴美日德，也包括鴻海、緯創、台達、封測與伺服器供應商被客戶、關稅、補貼與地緣政治拉向美國、日本、歐洲、印度、東南亞與墨西哥。這篇文章從全球化、去風險化與供應鏈博弈說明：台灣企業出海，是能力的延伸，也是世界降低單點依賴的動作，不是一場單純的企業搬家。",
+        "category": "technology",
+        "href": "/technology/AI%E4%BE%9B%E6%87%89%E9%8F%88%E6%B5%B7%E5%A4%96%E8%A8%AD%E5%BB%A0",
+        "date": "2026-07-12T08:44:51+08:00",
+        "readingTime": null,
+        "image": "/article-images/economy/tsmc-fab21-arizona-2023.webp"
+      },
+      {
+        "title": "AI 硬體供應鏈：台灣把雲端變成機器的地方",
+        "desc": "生成式 AI 看起來像雲端服務，其實需要一整條實體道路：有人設計晶片、有人製造晶圓、有人封裝、有人處理記憶體、電力、散熱、主機板與機櫃。台灣的重要性不只在台積電，而在這條道路上有許多關鍵關口集中於此；這份共同利益真實存在，也伴隨水電、碳排、所得分配、海外設廠與地緣風險，把抽象口號變成可檢查的供應鏈證據。",
+        "category": "technology",
+        "href": "/technology/AI%E7%A1%AC%E9%AB%94%E4%BE%9B%E6%87%89%E9%8F%88",
+        "date": "2026-07-12T08:44:51+08:00",
+        "readingTime": null,
+        "image": "/article-images/technology/ai-hardware-supply-chain-flow.svg"
+      },
+      {
+        "title": "半導體用水與台灣水資源：晶圓廠旁邊的水庫",
+        "desc": "晶片製造需要超純水，但台灣的水不是只存在於工廠管線裡，也存在於水庫、降雨、旱災、農業灌溉、再生水與地方調度之間。這篇文章不把半導體用水寫成「台積電搶水」的單線衝突，而是說明先進製程如何把台灣的島嶼水文、公共治理、再生水建設與全球供應鏈綁在一起，讓高科技回到水庫、農田與地方信任。",
+        "category": "technology",
+        "href": "/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A8%E6%B0%B4%E8%88%87%E5%8F%B0%E7%81%A3%E6%B0%B4%E8%B3%87%E6%BA%90",
+        "date": "2026-07-12T08:44:51+08:00",
+        "readingTime": null,
+        "image": "/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp"
+      },
+      {
+        "title": "台灣的電力與半導體：護國神山的電力帳單",
+        "desc": "台灣半導體的國際籌碼，建立在非常具體的電力系統上。先進晶圓廠、EUV 曝光、先進封裝、AI 伺服器測試與資料中心，都需要穩定、低中斷、可擴張的供電。這篇文章不把半導體用電寫成單純的環保控訴，而是把它放回供應鏈博弈：世界需要台灣製造 AI 晶片，台灣也必須回答誰承擔電力成本、碳排壓力與能源安全風險。",
+        "category": "technology",
+        "href": "/technology/%E5%8F%B0%E7%81%A3%E7%9A%84%E9%9B%BB%E5%8A%9B%E8%88%87%E5%8D%8A%E5%B0%8E%E9%AB%94",
+        "date": "2026-07-12T08:44:51+08:00",
+        "readingTime": null,
+        "image": "/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp"
+      },
+      {
+        "title": "林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人",
+        "desc": "林昶佐以閃靈主唱 Freddy 的身份，把二二八、白色恐怖、霧社事件、台灣神話與台語金屬寫進公共記憶，也和夥伴把大港開唱做成南方文化場域。音樂、台灣意識、文化實踐、制度政治、家庭生命經驗與卸任後公共角色，在他身上彼此牽連，形成一條從舞台走向社會、國會與國際現場的路。",
+        "category": "people",
+        "href": "/people/%E6%9E%97%E6%98%B6%E4%BD%90",
+        "date": "2026-07-11T22:19:26+08:00",
+        "readingTime": 14,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg"
+      },
+      {
+        "title": "閃靈：把台灣歷史唱進黑金屬的樂團",
+        "desc": "閃靈是 1995 年成立於台北的台灣重金屬樂團，以黑金屬、二胡、台語、台灣神話、亡靈敘事與歷史創傷為核心，把林投姊、霧社事件、二二八事件、高砂義勇隊、白色恐怖與台灣主權議題推上國際金屬舞台。它不是林昶佐從政前的背景板，而是一個由 Freddy、Doris、Jesse、Dani、CJ 等團員共同撐出的創作體。",
+        "category": "music",
+        "href": "/music/%E9%96%83%E9%9D%88",
+        "date": "2026-07-11T21:28:38+08:00",
+        "readingTime": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/12-08_Wacken_Chthonic_02.jpg/1280px-12-08_Wacken_Chthonic_02.jpg"
+      },
+      {
+        "title": "大支：從台南練功房走出的台語饒舌校長",
+        "desc": "大支（Dwagie，本名曾冠榕）是台南出身的台灣饒舌歌手、人人有功練創辦人。從 MU 留言板與魔岩唱片《舌粲蓮花》，到〈台灣SONG〉、《人》、動物權、大嘻哈時代與台南嘻哈教育，他把台語饒舌、地方場域、公共議題、新世代培力與台灣主體意識放進同一支麥克風，也讓台南成為台灣饒舌史不能跳過的現場。",
+        "category": "people",
+        "href": "/people/%E5%A4%A7%E6%94%AF",
+        "date": "2026-07-11T21:09:12+08:00",
+        "readingTime": 14,
+        "image": "/article-images/music/dwagie-portrait-2019.webp"
+      },
       {
         "title": "史明：用一間餃子店，養了四十年的台灣革命",
         "desc": "史明本名施朝暉，曾在中國替中共做地下情報，卻在親眼見過土改屠殺後幻滅，回台密謀刺殺蔣介石，事敗後偷渡日本。他在東京池袋開了一間叫「新珍味」的麵店，白天賣餃子、夜晚寫台灣史，用這間店的收入養了四十年的台獨運動，也寫出喚起台灣民族意識的《台灣人四百年史》。",
@@ -22,15 +121,6 @@
         "image": "/article-images/history/formosa-dutch-map-1640.webp"
       },
       {
-        "title": "林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人",
-        "desc": "林昶佐以閃靈主唱 Freddy 的身份，把二二八、白色恐怖、霧社事件、台灣神話與台語金屬寫進公共記憶，也和夥伴把大港開唱做成南方文化場域。音樂、台灣意識、文化實踐、制度政治、家庭生命經驗與卸任後公共角色，在他身上彼此牽連，形成一條從舞台走向社會、國會與國際現場的路。",
-        "category": "people",
-        "href": "/people/%E6%9E%97%E6%98%B6%E4%BD%90",
-        "date": "2026-07-11T12:25:09+08:00",
-        "readingTime": 14,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg"
-      },
-      {
         "title": "大港開唱：高雄港邊長出來的台灣音樂祭",
         "desc": "大港開唱是 2006 年創立於高雄港邊的台灣大型戶外音樂祭，從野台開唱團隊、閃靈成員與 TRA Music 的策展經驗出發，將南台灣樂團、台語現場、國際卡司、NGO 議題村與港都地景放進同一個場域。它讓高雄港邊成為台灣聽團文化、城市認同與公共議題彼此交會的重要現場。",
         "category": "music",
@@ -40,15 +130,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg"
       },
       {
-        "title": "閃靈：把台灣歷史唱進黑金屬的樂團",
-        "desc": "閃靈是 1995 年成立於台北的台灣重金屬樂團，以黑金屬、二胡、台語、台灣神話、亡靈敘事與歷史創傷為核心，把林投姊、霧社事件、二二八事件、高砂義勇隊、白色恐怖與台灣主權議題推上國際金屬舞台。它不是林昶佐從政前的背景板，而是一個由 Freddy、Doris、Jesse、Dani、CJ 等團員共同撐出的創作體。",
-        "category": "music",
-        "href": "/music/%E9%96%83%E9%9D%88",
-        "date": "2026-07-11T12:11:40+08:00",
-        "readingTime": null,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/12-08_Wacken_Chthonic_02.jpg/1280px-12-08_Wacken_Chthonic_02.jpg"
-      },
-      {
         "title": "簡立峰：在 Google 來台灣以前，他已經在做台灣的搜尋",
         "desc": "很多台灣研究生在 Google 出現以前，查碩博士論文用的那套線上檢索系統，背後的研究者就是簡立峰。他從中央研究院的中文檢索先驅，變成 Google 台灣的第一號員工，十四年把一個人的辦公室帶成逾兩千人的研發基地。二○二○年退休後他沒有安靜下來，反而成了對台灣人才最不留情面的那個人：台灣「五年內找不到人才，十年內找不到消費者」。",
         "category": "people",
@@ -56,15 +137,6 @@
         "date": "2026-07-11T12:11:40+08:00",
         "readingTime": 13,
         "image": "/article-images/people/lee-feng-chien-tsai-google-2019.webp"
-      },
-      {
-        "title": "大支：從台南練功房走出的台語饒舌校長",
-        "desc": "大支（Dwagie，本名曾冠榕）是台南出身的台灣饒舌歌手、人人有功練創辦人。從 MU 留言板與魔岩唱片《舌粲蓮花》，到〈台灣SONG〉、《人》、動物權、大嘻哈時代與台南嘻哈教育，他把台語饒舌、地方場域、公共議題、新世代培力與台灣主體意識放進同一支麥克風，也讓台南成為台灣饒舌史不能跳過的現場。",
-        "category": "people",
-        "href": "/people/%E5%A4%A7%E6%94%AF",
-        "date": "2026-07-11T12:02:11+08:00",
-        "readingTime": 14,
-        "image": "/article-images/music/dwagie-portrait-2019.webp"
       },
       {
         "title": "2026 九合一選舉：在 AI 認知作戰時代的民主基礎建設壓力測試",
@@ -200,81 +272,135 @@
         "date": "2026-07-06T00:03:11+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "台灣自媒體創作者經濟：2,300 萬人的碎片戰場",
-        "desc": "市場不到美國 1%，平台卻多一倍——台灣創作者怎麼活下來的？",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E8%87%AA%E5%AA%92%E9%AB%94%E5%89%B5%E4%BD%9C%E8%80%85%E7%B6%93%E6%BF%9F",
-        "date": "2026-07-06T00:03:11+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "新創生態系",
-        "desc": "台灣新創生態的發展歷程，從早期挑戰到現今的加速器、創投環境與獨角獸追求",
-        "category": "economy",
-        "href": "/economy/%E6%96%B0%E5%89%B5%E7%94%9F%E6%85%8B%E7%B3%BB",
-        "date": "2026-07-06T00:03:11+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "台灣傳統工藝與無形文化資產：制度承認來了，學徒卻沒了",
-        "desc": "2022 年 12 月，文化部把高雄 87 歲的土水司阜蘇清良列為「人間國寶」，半年後他過世。台灣 2005 年才把「重要傳統工藝保存者」寫進文資法，比日本晚 50 年，比韓國晚 43 年。制度終於就位時，學徒制早在 1970-80 年代工業化裡崩塌——600 多位傳統匠師裡，50 歲以下「只是少數」。名單越長，能教的人越少。",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3%E5%82%B3%E7%B5%B1%E5%B7%A5%E8%97%9D%E8%88%87%E7%84%A1%E5%BD%A2%E6%96%87%E5%8C%96%E8%B3%87%E7%94%A2",
-        "date": "2026-07-06T00:00:17+08:00",
-        "readingTime": 14,
-        "image": "/article-images/culture/meinong-paper-umbrella-2013.webp"
-      },
-      {
-        "title": "三峽老街：紅磚拱廊下的權力拉扯，與一場未完的文資實驗",
-        "desc": "2007 年獲 FIABCI 全球卓越建設獎肯定的三峽老街，是台灣首座大規模「復舊工程」的示範點。從清代「三角湧」的染布貿易到 2016 年強拆石板路的悲劇，這條紅磚街道記錄了台灣在保存古蹟與發展觀光間的劇烈掙扎。",
-        "category": "history",
-        "href": "/history/%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97",
-        "date": "2026-07-05T23:59:03+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台灣花布",
-        "desc": "從日治時期工廠製品到本土文化象徵，台灣花布的身份認同之旅",
-        "category": "culture",
-        "href": "/culture/%E5%8F%B0%E7%81%A3%E8%8A%B1%E5%B8%83",
-        "date": "2026-07-05T23:59:03+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "客家文化與語言",
-        "desc": "一群人在 1988 年把孫中山的照片戴上口罩遊行，只為了爭回說母語的權利——他們贏了，但語言還在消失",
-        "category": "culture",
-        "href": "/culture/%E5%AE%A2%E5%AE%B6%E6%96%87%E5%8C%96%E8%88%87%E8%AA%9E%E8%A8%80",
-        "date": "2026-07-05T23:59:03+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "藍染：兩百年後，種回同一株馬藍",
-        "desc": "1999 年 8 月，陳景林指導三峽染工坊染出七十多年來第一條藍巾。從清代出口大宗到 1940 年僅剩 10 戶，這門要靠活菌等待的手藝，如今在三峽、苗栗、太平、菁寮各自長出不同的答案：復振的目的，是找回一缸活的顏色，還是找到一個能賣的品牌？",
-        "category": "culture",
-        "href": "/culture/%E8%97%8D%E6%9F%93",
-        "date": "2026-07-05T23:59:03+08:00",
-        "readingTime": null,
-        "image": "/article-images/culture/sanxia-indigo-tiedye-2020.webp"
-      },
-      {
-        "title": "金瓜石：一座山上疊起來的許多層命，從砂金、戰俘到還沒洗乾淨的砷土",
-        "desc": "1942 年 11 月 14 日，523 名盟軍戰俘走進金瓜石的銅礦坑，開始一段有人熬了三年、有人沒能走出來的日子。這座山被記得的方式，多半是十三層遺址的橘黃夜燈、可以摸的 220 公斤大金磚、去九份順路繞來的秘境海景。但同一座山也埋著本地礦工用肺換來的金、五百多個外國戰俘的骨、和一片至今尚未整治完成的砷土。把這些一起看見，才看見整座金瓜石。",
-        "category": "geography",
-        "href": "/geography/%E9%87%91%E7%93%9C%E7%9F%B3",
-        "date": "2026-07-05T23:44:34+08:00",
-        "readingTime": 24,
-        "image": "/article-images/geography/jinguashi-13-levels-lighting-2019.webp"
       }
     ],
     "en": [
+      {
+        "title": "Liu An-ting",
+        "desc": "In 2008 she left Taichung Girls' Senior High School for Princeton. In 2013, at 23, she quit her New York consulting job to return to Taiwan and found TFT — Teach for Taiwan. In 2016 she asked a graduating class at National Cheng Kung University: 'What do you do with your luck?' That line became a collective mantra for an entire generation. But the other line she says most often is: 'Don't believe in me as an individual.' After TFT's tenth anniversary in 2024, she passed the chairmanship to Lin Yen-hsi and became a board director. Her best work is not TFT itself — it is making TFT able to exist without her.",
+        "category": "people",
+        "href": "/en/people/liu-an-ting-teach-for-taiwan",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "Becoming a Teacher: Forty Years of Reform and Collapse in Taiwan's Teacher Training System",
+        "desc": "In February 1994, the Legislative Yuan passed the Teacher Education Act, transforming the monopoly of normal schools into an open, pluralistic system — hailed at the time as a milestone in Taiwan's educational history. Thirty years later, the numbers are sobering: the original nine education universities were merged down to just three; in the 2020 academic year, enrollment shortfalls across teacher training institutions hit an all-time high; the teacher certification pass rate dropped to 52% in recent years; nearly half of teacher candidates treat teacher training as a backup plan; and 42% quit before obtaining their teaching certificates.",
+        "category": "society",
+        "href": "/en/society/becoming-a-teacher-taiwan-teacher-training",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 13,
+        "image": ""
+      },
+      {
+        "title": "Learning Poverty: Sitting in the Classroom Without Learning Anything",
+        "desc": "In 2019, the World Bank introduced the term 'Learning Poverty' to describe something harder to see than being out of school: a 10-year-old child who arrives at school on time every day, sits quietly, and hands in all their assignments — yet cannot read a simple age-appropriate story. The World Bank's February 2023 update maintained the global learning poverty rate at 70%. Taiwan ranked in the global top five in PISA 2022, and the math scores of the most disadvantaged 20% of students caught up with the OECD average — on the surface, a major turnaround. But the same PISA report shows urban students scoring 571 versus rural students at 517, a gap of 54 points; a 2019 survey by the Boyo Foundation across 13 rural middle schools found that in 6 of them, 70% of students scored C in English, and in 5 of them, 70% scored C in math. Taiwan's version of learning poverty hides in this gap, still unmeasured.",
+        "category": "society",
+        "href": "/en/society/learning-poverty-in-taiwan",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 13,
+        "image": ""
+      },
+      {
+        "title": "The Remote Area Schools Education Development Act: NT$17.5 Billion Spent, and Demographic Gravity Still Wins",
+        "desc": "On November 21, 2016, the Legislative Yuan passed the Remote Area Schools Education Development Act — 21 articles that amounted to the state's formal admission of its own institutional failures. Eight years later, the government has poured NT$17.5 billion into rural school infrastructure, yet 2024–25 saw 18 primary schools close — the most in Taiwan's educational history. The law rescued the legal framework, but couldn't stop demographic gravity.",
+        "category": "society",
+        "href": "/en/society/remote-area-schools-education-act",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "Taiwan Indigenous Education and Language Revival: Elementary Schools Hold the Line, Middle Schools Fail to Catch",
+        "desc": "In 2012, Paiwan teacher Camake Valaule at Taimali Elementary School in Pingtung used a voice recorder to collect ancient songs from elders and led children to the Golden Melody Awards. In 2017, the Indigenous Peoples Language Development Act elevated indigenous languages to national language status. In 2019, the Indigenous Peoples Education Act inscribed a ten-year target for teacher ratio requirements. The number of indigenous experimental schools at the elementary level grew from 25 to 38. But once students reach middle school, the entire system collapses: there are only 6 indigenous experimental middle schools across Taiwan, the gross enrollment rate for indigenous college students is 56.3%, 35.3 percentage points below the general population. Camake passed away in 2021 at age 42. Elementary schools hold the line; middle schools fail to catch. The gap remains.",
+        "category": "society",
+        "href": "/en/society/taiwan-indigenous-education-and-language-revival",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "Rural Education in Taiwan: What Children Need Isn't an Inspiring Story — It's a Support System That Doesn't Collapse",
+        "desc": "Rural education is not as simple as 'the school is farther away in the mountains.' From teacher turnover, multi-grade classrooms, transportation and housing to family support, community connections, and society's single-track definition of success — the real difficulty is that when a child steps out of the classroom, the entire support system often unravels layer by layer.",
+        "category": "society",
+        "href": "/en/society/taiwan-rural-education",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 13,
+        "image": ""
+      },
+      {
+        "title": "Teach For Taiwan: How a Princeton Graduate Came Home and Convinced 400 Young People to Enter Remote Classrooms",
+        "desc": "In 2014, Liu An-ting started with NT$2,000 and nine people. Eleven years later, more than 400 TFT teachers have entered Taiwan's most remote elementary schools, accompanying over 7,000 children forgotten by the system. This is not an inspirational charity story — it is an ongoing debate about who should be responsible for inequality.",
+        "category": "society",
+        "href": "/en/society/teach-for-taiwan",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "AI Hardware Supply Chain: Where Taiwan Turns the Cloud into Machines",
+        "desc": "Generative AI looks like a cloud service, but it depends on a physical road: chip design, wafer fabrication, packaging, memory, power, cooling, motherboards, racks, and delivery. Taiwan matters not only because of TSMC, but because many checkpoints along that road are concentrated here; that shared interest is real, and so are the bills for water, power, carbon, inequality, overseas manufacturing, and geopolitical risk.",
+        "category": "technology",
+        "href": "/en/technology/ai-hardware-supply-chain",
+        "date": "2026-07-12T08:44:51+08:00",
+        "readingTime": null,
+        "image": "/article-images/technology/ai-hardware-supply-chain-flow.svg"
+      },
+      {
+        "title": "AI Supply Chain Overseas Manufacturing: Taiwan’s Capabilities Are Being Invited Abroad",
+        "desc": "Overseas manufacturing in the AI hardware supply chain is not only TSMC going to the United States, Japan, and Germany. It also includes Foxconn, Wistron, Delta, packaging and testing firms, and server suppliers being pulled toward the United States, Japan, Europe, India, Southeast Asia, and Mexico by customers, tariffs, subsidies, and geopolitics. This article explains why Taiwan’s companies go abroad through globalization, de-risking, and supply-chain bargaining: it is an extension of capability, and also the world’s attempt to reduce single-point dependence.",
+        "category": "technology",
+        "href": "/en/technology/ai-supply-chain-overseas-manufacturing",
+        "date": "2026-07-12T08:44:51+08:00",
+        "readingTime": null,
+        "image": "/article-images/economy/tsmc-fab21-arizona-2023.webp"
+      },
+      {
+        "title": "Semiconductor Water Use and Taiwan’s Water Resources: The Reservoir Beside the Fab",
+        "desc": "Chip manufacturing needs ultrapure water, but Taiwan’s water does not exist only inside factory pipes. It also exists among reservoirs, rainfall, drought, agricultural irrigation, reclaimed water, and local allocation. This article does not reduce semiconductor water use to a one-line conflict of \"TSMC stealing water.\" It explains how advanced processes bind Taiwan’s island hydrology, public governance, reclaimed-water infrastructure, and global supply chains together, pulling high tech back to reservoirs, farms, and local trust.",
+        "category": "technology",
+        "href": "/en/technology/semiconductor-water-use-and-taiwan-water-resources",
+        "date": "2026-07-12T08:44:51+08:00",
+        "readingTime": null,
+        "image": "/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp"
+      },
+      {
+        "title": "Taiwan’s Electricity and Semiconductors: The Power Bill Behind the Sacred Mountain",
+        "desc": "Taiwan’s semiconductor leverage rests on a very concrete electricity system. Advanced fabs, EUV lithography, advanced packaging, AI server testing, and data centers all need stable, low-interruption, expandable power. This article does not treat semiconductor electricity use as a simple environmental accusation. It places it back inside supply-chain bargaining: the world needs Taiwan to manufacture AI chips, and Taiwan must answer who bears the power costs, carbon pressure, and energy-security risks.",
+        "category": "technology",
+        "href": "/en/technology/taiwan-electricity-and-semiconductors",
+        "date": "2026-07-12T08:44:51+08:00",
+        "readingTime": null,
+        "image": "/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp"
+      },
+      {
+        "title": "Freddy Lim: From Chthonic Frontman to Parliament, Turning Taiwan’s History Into a Public Voice",
+        "desc": "As Freddy, lead vocalist of Chthonic, Lim wrote the 228 Incident, the White Terror, the Wushe Incident, Taiwanese mythology, and Taiwanese Hokkien metal into public memory, while also helping build Megaport Festival into a southern cultural field. Music, Taiwan consciousness, cultural practice, institutional politics, family life, and post-legislative public roles all connect in his path from stage to society, parliament, and the international arena.",
+        "category": "people",
+        "href": "/en/people/freddy-lim",
+        "date": "2026-07-11T22:19:26+08:00",
+        "readingTime": 18,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg"
+      },
+      {
+        "title": "Chthonic: The Band That Sang Taiwanese History Into Black Metal",
+        "desc": "Chthonic is a Taiwanese heavy metal band founded in Taipei in 1995. Centered on black metal, erhu, Taiwanese Hokkien, mythology, ghost narratives, and historical trauma, it brought the Lady of Linshui, the Wushe Incident, the 228 Incident, the Takasago Volunteers, White Terror memory, and Taiwan’s sovereignty issues onto the international metal stage.",
+        "category": "music",
+        "href": "/en/music/chthonic",
+        "date": "2026-07-11T21:28:38+08:00",
+        "readingTime": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/12-08_Wacken_Chthonic_02.jpg/1280px-12-08_Wacken_Chthonic_02.jpg"
+      },
+      {
+        "title": "Dwagie: The Taiwanese Rap Schoolmaster Who Built a Training Room in Tainan",
+        "desc": "Dwagie, born Tseng Kuan-jung, is a Taiwanese rapper from Tainan and the founder of Kung-Fu Entertainment. From the Master U message board and Magic Stone’s Lotus from the Tongue to “Taiwan Song,” The People, animal-rights advocacy, The Rappers, and hip-hop education in Tainan, he put Taiwanese Hokkien rap, local scene-building, public issues, next-generation mentoring, and Taiwan-centered identity into the same microphone.",
+        "category": "people",
+        "href": "/en/people/dwagie",
+        "date": "2026-07-11T21:09:12+08:00",
+        "readingTime": 16,
+        "image": "/article-images/music/dwagie-portrait-2019.webp"
+      },
       {
         "title": "Taiwan Island Historiography: How a Repeatedly Ruled Island Reclaimed Its Own Subjectivity",
         "desc": "Taiwan island historiography takes Taiwan out of the timeline of outside regimes and asks how people on this island lived, migrated, were ruled, survived, and rebuilt memory. It does not turn Taiwan into a naturally exceptional island; it reminds us that identity can also grow from shared life, shared wounds, and shared responsibility.",
@@ -285,24 +411,6 @@
         "image": "/article-images/history/formosa-dutch-map-1640.webp"
       },
       {
-        "title": "Freddy Lim: From Chthonic Frontman to Parliament, Turning Taiwan’s History Into a Public Voice",
-        "desc": "As Freddy, lead vocalist of Chthonic, Lim wrote the 228 Incident, the White Terror, the Wushe Incident, Taiwanese mythology, and Taiwanese Hokkien metal into public memory, while also helping build Megaport Festival into a southern cultural field. Music, Taiwan consciousness, cultural practice, institutional politics, family life, and post-legislative public roles all connect in his path from stage to society, parliament, and the international arena.",
-        "category": "people",
-        "href": "/en/people/freddy-lim",
-        "date": "2026-07-11T12:25:09+08:00",
-        "readingTime": 18,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg"
-      },
-      {
-        "title": "Chthonic: The Band That Sang Taiwanese History Into Black Metal",
-        "desc": "Chthonic is a Taiwanese heavy metal band founded in Taipei in 1995. Centered on black metal, erhu, Taiwanese Hokkien, mythology, ghost narratives, and historical trauma, it brought the Lady of Linshui, the Wushe Incident, the 228 Incident, the Takasago Volunteers, White Terror memory, and Taiwan’s sovereignty issues onto the international metal stage.",
-        "category": "music",
-        "href": "/en/music/chthonic",
-        "date": "2026-07-11T12:11:40+08:00",
-        "readingTime": null,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/12-08_Wacken_Chthonic_02.jpg/1280px-12-08_Wacken_Chthonic_02.jpg"
-      },
-      {
         "title": "Megaport Festival: The Taiwanese Music Festival That Grew Out of Kaohsiung Harbor",
         "desc": "Megaport Festival is a major Taiwanese outdoor music festival founded beside Kaohsiung Harbor in 2006. Growing from the Formoz Festival team, Chthonic members, and TRA Music’s curatorial experience, it brings southern Taiwanese bands, Taiwanese Hokkien live stages, international lineups, NGO issue villages, and harbor-city landscapes into one field, making Kaohsiung’s waterfront a key site where Taiwan’s live-band culture, city identity, and public issues meet.",
         "category": "music",
@@ -310,15 +418,6 @@
         "date": "2026-07-11T12:11:40+08:00",
         "readingTime": null,
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg"
-      },
-      {
-        "title": "Dwagie: The Taiwanese Rap Schoolmaster Who Built a Training Room in Tainan",
-        "desc": "Dwagie, born Tseng Kuan-jung, is a Taiwanese rapper from Tainan and the founder of Kung-Fu Entertainment. From the Master U message board and Magic Stone’s Lotus from the Tongue to “Taiwan Song,” The People, animal-rights advocacy, The Rappers, and hip-hop education in Tainan, he put Taiwanese Hokkien rap, local scene-building, public issues, next-generation mentoring, and Taiwan-centered identity into the same microphone.",
-        "category": "people",
-        "href": "/en/people/dwagie",
-        "date": "2026-07-11T12:02:11+08:00",
-        "readingTime": 16,
-        "image": "/article-images/music/dwagie-portrait-2019.webp"
       },
       {
         "title": "Meiyu: From the 1981 Deluge that Submerged Northern Taiwan to the Scientific Mission that Flew Americans to the Island",
@@ -445,108 +544,18 @@
         "date": "2026-06-04T16:38:54+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "Taiwan Agricultural Landscapes and Industry Belts",
-        "desc": "The shift in agricultural landscapes from north to south traces Taiwan's transformation from the \"Taiwanese Granary\" to \"precision agriculture.\"",
-        "category": "geography",
-        "href": "/en/geography/taiwan-agricultural-landscapes-and-industry-belts",
-        "date": "2026-06-04T16:38:54+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Urban Character and Regional Culture",
-        "desc": "From Taipei's international metropolis to Tainan's ancient capital charm, how cities across Taiwan shape unique local identities",
-        "category": "culture",
-        "href": "/en/culture/urban-character-and-regional-culture",
-        "date": "2026-06-04T16:38:54+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "The Evolution of Taiwanese Hokkien Songs: From \"Old Man's Music\" to Indie Darling",
-        "desc": "Tracing the evolution of Taiwanese Hokkien songs from the nakashi era, the golden age of Hung I-feng and Jody Chiang, to the new-generation bands such as Eggplant Egg, Sorry Youth, and Collage — exploring how Hokkien music has regained the identity of younger generations.",
-        "category": "music",
-        "href": "/en/music/taiwanese-hokkien-song-evolution",
-        "date": "2026-06-04T16:38:54+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "Taiwan's Political Landscape and Electoral System",
-        "desc": "From the constitutional framework, central and local electoral mechanisms, to the deeper party-political culture, a comprehensive analysis of how Taiwan maintains a vibrant and institutionally rigorous democratic society amid complex geopolitics",
-        "category": "society",
-        "href": "/en/society/taiwan-political-landscape-and-electoral-system",
-        "date": "2026-06-04T16:38:54+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "When Plague Became Fireworks: The Accidental Evolution of Taiwan's Festival Culture",
-        "desc": "A small town ritual of setting off firecrackers against plague 140 years ago became one of the world's most dangerous folk festivals",
-        "category": "culture",
-        "href": "/en/culture/traditional-festivals-and-celebrations",
-        "date": "2026-05-25T07:57:59+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Chiayi Turkey Rice: A City's Identity in a NT$30 Bowl",
-        "desc": "After World War II, the American military brought turkeys to Chiayi. A chef named Lin Tien-shou shredded the turkey meat, poured braised sauce over it, and piled it on white rice. Seventy years later, this NT$30 bowl was voted No. 1 in the Council of Agriculture's Top Ten Signature Rice Dishes of Taiwan. Chiayi people can argue all Lunar New Year about which restaurant makes the best version — but on one point they never argue: turkey rice belongs to Chiayi.",
-        "category": "food",
-        "href": "/en/food/chiayi-turkey-rice",
-        "date": "2026-05-25T07:57:59+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Night Market Culture",
-        "desc": "164 official night markets, one for every 38,000 people in Tainan — from kerosene lamp stalls under temple eaves to food destinations that put Taiwan on Michelin's radar",
-        "category": "food",
-        "href": "/en/food/night-market-culture",
-        "date": "2026-05-25T07:57:59+08:00",
-        "readingTime": null,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg"
-      },
-      {
-        "title": "Lin Hwai-min",
-        "desc": "A novelist who created the first contemporary dance company in the Chinese-speaking world and kept it alive for 50 years",
-        "category": "people",
-        "href": "/en/people/lin-hwai-min",
-        "date": "2026-05-25T07:57:59+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Taiwan Mahjong: Grandma Won't Teach You, but Celebrity Mahjong Will",
-        "desc": "On the second day of Lunar New Year, Grandma sits at the table, plays a hand you cannot decode, and wins. You ask how the scoring works; she says children should be seen and not heard. So you open the computer and let Wu Zong-xian teach you. Celebrity Mahjong (明星三缺一), released by IGS in 2001, accidentally became the mahjong teacher for an entire generation of Taiwanese.",
-        "category": "lifestyle",
-        "href": "/en/lifestyle/taiwan-mahjong-and-celebrity-shortage",
-        "date": "2026-05-25T07:57:59+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "Poisoned Potatoes: Beyond the 200 ppm — There's 30 ppm, 14 Days, and 15 Years of Food-Safety Scars",
-        "desc": "On 29 April 2026, Chen Binhua of Beijing's Taiwan Affairs Office attacked the Lai Ching-te government with the phrase \"poisoned potatoes\" — calling it \"yet another offering of the public's health to flatter America.\" The real core of the controversy spans three layers: the 150-fold gap between the EU's 0.2 ppm and Taiwan's 30 ppm CIPC residue limits; the impossibility of \"inspecting every single potato\" with 85 actual border inspectors against 300 million potatoes; and 15 years of accumulated food-safety scars since the 2011 plasticizer scandal — the foundation this narrative steps onto.",
-        "category": "society",
-        "href": "/en/society/poisoned-potato-cognitive-warfare-taiwan",
-        "date": "2026-05-24T22:41:32+08:00",
-        "readingTime": null,
-        "image": "/article-images/society/du-mali-maine-potato-1940.webp"
-      },
-      {
-        "title": "Taiwan Anime & Manga Culture",
-        "desc": "'Doraemon,' 'Slam Dunk,' and 'Sailor Moon' were the shared language of Taiwanese teens in the 1980s and '90s; Fancy Frontier has held over 40 editions since 1999, drawing over 100,000 attendees per event; doujinshi and cosplay nurtured the creators of 'Detention' and 'Devotion'—Taiwan's anime and manga culture is not an imitation of imported entertainment, but the shared memory and creative soil of two generations.",
-        "category": "culture",
-        "href": "/en/culture/taiwan-anime-culture",
-        "date": "2026-05-24T22:40:37+08:00",
-        "readingTime": "9",
-        "image": ""
       }
     ],
     "ja": [
+      {
+        "title": "台湾のために教える：プリンストン出身の女性が帰国後、400人の若者を過疎の教室へと送り込んだ物語",
+        "desc": "2014年、劉安婷は2000元と9人の仲間とともに活動を始めた。11年後、400人以上のTFT教師が台湾最も辺境の小学校に入り、制度から取り残された7000人以上の子どもたちと共に過ごした。これは教育慈善の感動物語ではない——「不公平の責任は誰にあるのか」という、今も続く問いである。",
+        "category": "society",
+        "href": "/ja/society/teach-for-taiwan",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "周蕙：25年にわたり〈約定〉を歌い続けた女性歌手、漫画の人形から台北アリーナまでの長距離走",
         "desc": "1999年、福茂唱片は《周蕙精選》を発売し、ジャケットには本人の顔の代わりに「蕙兒」という漫画の人形を用いました。〈約定〉はあらゆるKTV（カラオケボックス）に入り、25年を歩みましたが、彼女本人は歌より一歩遅れて認識され続けました。福茂での5枚からBMGでの雪蔵、群石、華研を経て、2025年には自らプロデューサーを務めDiscoへ踏み込むまで、12枚のアルバムで26年を歩んできました。2026年4月25日、彼女は初めて台北アリーナの舞台に立ちましたが、コンサート終盤に声帯萎縮を公表し、「これが皆さんに歌を聴いていただく最後になるのかは分かりません」と語りました。",
@@ -807,18 +816,18 @@
         "date": "2026-05-20T12:37:22+08:00",
         "readingTime": "9",
         "image": ""
-      },
-      {
-        "title": "台湾原住民族の歴史と正名運動",
-        "desc": "1987年、19歳のツォウ族（鄒族）の青年が台北の刑場で銃殺された。彼の死が、正名運動の最初の火を灯した。",
-        "category": "history",
-        "href": "/ja/history/indigenous-peoples-history-and-naming-movement",
-        "date": "2026-05-20T12:37:22+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "ko": [
+      {
+        "title": "대만을 위한 교육 TFT: 프린스턴 출신 여성이 귀국 후 400명의 젊은이를 농촌 교실로 이끈 이야기",
+        "desc": "2014년, 류안팅은 단돈 2,000대만달러와 9명으로 시작했다. 11년 후, 400여 명의 TFT 교사가 대만의 가장 외진 초등학교에 들어가 체제에서 잊혀진 7,000여 명의 아이들과 함께하고 있다. 이것은 교육 자선의 감동 스토리가 아니다. \"누가 불공평에 책임을 져야 하는가\"를 둘러싼 지속적인 논쟁이다.",
+        "category": "society",
+        "href": "/ko/society/teach-for-taiwan",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "저우후이: 25년 동안 〈약속〉을 불러온 여성 보컬, 만화 인형에서 타이베이 아레나까지의 장거리 주행",
         "desc": "1999년 푸마오 레코드는 《저우후이 정선》을 발매하며, 표지에 본인의 얼굴 대신 후이얼이라는 만화 인형을 내세웠다. 〈약속〉은 모든 KTV와 25년의 시간을 통과했지만, 정작 그녀 자신은 늘 노래보다 한발 늦게 알아봐졌다. 푸마오에서의 다섯 장에서 BMG의 활동 중단, 군스와 화옌을 거쳐 2025년 직접 프로듀서를 맡아 Disco로 들어선 데까지, 12장의 앨범이 26년을 걸어왔다. 2026년 4월 25일 그녀는 처음으로 타이베이 아레나 무대에 섰고, 공연 말미에 성대 위축을 고백하며 “이것이 여러분께 노래를 들려드리는 마지막이 될지 모르겠다”고 말했다.",
@@ -1079,18 +1088,27 @@
         "date": "2026-05-24T22:51:42+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "타이완 두유와 아침식당",
-        "desc": "1955년 산둥 출신 노병이 용허 다리 앞에서 두유 수레를 밀기 시작했다. 70년 후 \"용허두유\"는 전 세계 20여 개국에 걸려 있지만, 그것은 브랜드가 아니라 지명이었다",
-        "category": "food",
-        "href": "/ko/food/taiwan-soy-milk-and-breakfast-shops",
-        "date": "2026-05-24T22:51:42+08:00",
-        "readingTime": 10,
-        "image": ""
       }
     ],
     "fr": [
+      {
+        "title": "La génération slash à Taïwan — survivre avec plusieurs casquettes",
+        "desc": "Quand un master ne couvre même pas le loyer d'un studio à Taipei, le cumul d'emplois n'est pas un choix : c'est une équation de survie",
+        "category": "society",
+        "href": "/fr/society/taiwan-slash-generation-multi-job-economy",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Teach For Taiwan : comment une diplômée de Princeton a convaincu quatre cents jeunes d'entrer dans les classes rurales",
+        "desc": "En 2014, Liu An-Ting a démarré avec deux mille dollars taïwanais et neuf personnes. Onze ans plus tard, plus de quatre cents enseignants TFT travaillent dans les écoles primaires les plus reculées de Taïwan, aux côtés de sept mille enfants oubliés par le système. Ce n'est pas un récit inspirant sur la philanthropie éducative — c'est un débat permanent sur la question de savoir qui est responsable des inégalités.",
+        "category": "society",
+        "href": "/fr/society/teach-for-taiwan",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "Golden Melody Awards : Taïwan récompense sa propre musique et trente-cinq ans de moments inoubliables",
         "desc": "En 2024, à la Taipei Arena, No Party for Cao Dong est sacré une deuxième fois ; leur manager reçoit les prix à leur place, et toute la salle garde le silence pour une batteuse disparue. En trente-cinq ans, les Golden Melody Awards sont passés d'une lettre manuscrite de Tsai Chin à une cérémonie nationale ; ils ont couronné Fantasy de Jay Chou, les 14 nominations d'A-Mei, et ont aussi attribué les plus hautes distinctions à des chansons en taïwanais, en hakka et en langues autochtones. C'est là que Taïwan récompense sa propre musique et décide quelles voix méritent d'être retenues.",
@@ -1342,27 +1360,27 @@
         "date": "2026-05-25T07:47:04+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "taiwan-parks-and-everyday-leisure",
-        "desc": "",
-        "category": "lifestyle",
-        "href": "/fr/lifestyle/taiwan-parks-and-everyday-leisure",
-        "date": "2026-05-25T07:47:04+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Pouvoir prévoir le vent et la pluie, mais pas le destin : quatre siècles de Taïwan face aux typhons",
-        "desc": "Ce matin-là, pendant le typhon Morakot en 2009, Lo Pan Chun-mei, 71 ans, se tenait sur le balcon du deuxième étage et regardait le mont Xiandu s'effondrer, engloutissant les 462 proches du village de Xiaolin. Quinze ans plus tard, Taïwan a utilisé six ensembles de modèles d'IA pour réduire l'erreur de trajectoire des typhons à 24 heures de 172 kilomètres à 57 kilomètres. Mais, dans ces 57 kilomètres, qui sortira travailler sous le vent et la pluie, qui ne recevra pas l'alerte : cela reste impossible à prévoir.",
-        "category": "nature",
-        "href": "/fr/nature/typhoons-in-taiwan",
-        "date": "2026-05-25T05:48:02+08:00",
-        "readingTime": 13,
-        "image": ""
       }
     ],
     "es": [
+      {
+        "title": "Liu An-ting",
+        "desc": "En 2008 ingresó en Princeton desde la Escuela Secundaria Femenina de Taichung. En 2013, a los 23 años, renunció a su trabajo como consultora en Nueva York para regresar a Taiwán y fundar TFT (Teach for Taiwan). En 2016, en la ceremonia de graduación de la Universidad Nacional de Cheng Kung, preguntó: «¿Qué haces con tu suerte?». Esa frase se convirtió en un mantra colectivo de toda una generación. Pero la otra frase que más repetía era: «No confíen en mí como persona». En 2024, tras el décimo aniversario de TFT, cedió la presidencia del consejo a Lin Yanxi y pasó a ser consejera. Su mejor obra no es TFT, sino lograr que TFT pueda existir sin ella.",
+        "category": "people",
+        "href": "/es/people/liu-an-ting-teach-for-taiwan",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "Teach For Taiwan: una chica de Princeton regresa a casa y convence a cuatrocientos jóvenes para enseñar en las aulas rurales",
+        "desc": "En 2014, Liu An-ting empezó con dos mil dólares taiwaneses y nueve personas. Once años después, más de cuatrocientos profesores de TFT han llegado a las escuelas primarias más remotas de Taiwán, acompañando a más de siete mil niños olvidados por el sistema. Esta no es una historia inspiradora de caridad educativa: es un debate continuo sobre \"quién debe asumir la responsabilidad de la desigualdad\".",
+        "category": "society",
+        "href": "/es/society/teach-for-taiwan",
+        "date": "2026-07-12T22:17:28+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "Chou Hui: la voz femenina que cantó 25 años 〈Promise〉, una carrera de fondo desde una muñeca de cómic hasta el Taipei Arena",
         "desc": "En 1999, Linfair Records lanzó 《Chou Hui Selection》 y puso en la portada una muñeca de cómic llamada Huier en lugar del rostro de la cantante. 〈Promise〉 entró en cada KTV y atravesó 25 años, pero la persona detrás de la canción siempre fue reconocida un paso después que la canción. De cinco álbumes en Linfair al congelamiento en BMG; de Group Stone y HIM International Music a asumir en 2025 la producción ejecutiva y entrar en el disco: 12 álbumes en 26 años. El 25 de abril de 2026 subió por primera vez al Taipei Arena, pero al final del concierto anunció atrofia de las cuerdas vocales: “No sé si esta será la última vez que cante para ustedes”.",
@@ -1611,24 +1629,6 @@
         "desc": "Los 210.000 habitantes del condado de Taitung están dispersos en 3.515 kilómetros cuadrados, la densidad más baja del país: apenas 60 personas por kilómetro cuadrado, una centésima parte de Taipéi. Pero este condado contiene el asentamiento humano más antiguo de Taiwán (el sitio arqueológico de Beinan, con 1.600 sarcófagos de piedra de hace 5.300 años), alberga a seis pueblos indígenas (amis, puyuma, paiwan, rukai, bunun y tao), y tiene la proporción de población indígena más alta de Taiwán, 37,5%. De 1951 a 1987, la isla Verde, entonces Huoshaodao, encerró presos políticos durante treinta y seis años. Desde mayo de 1982, Longmen, en Lanyu, comenzó a recibir residuos nucleares; cuarenta y dos años después, 97.672 barriles siguen allí. El 25 de agosto de 1968, siete niños bunun de la aldea Hongye derrotaron 7:0 al equipo estelar japonés de béisbol infantil de Kansai (no al equipo campeón mundial), y el mito del béisbol como deporte nacional de Taiwán comenzó con ese engaño. Dos islas periféricas cargaron con el costo de toda una isla.",
         "category": "geography",
         "href": "/es/geography/taitung-county",
-        "date": "2026-05-25T05:49:38+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "Ximending: la calle de entretenimiento que los japoneses construyeron en 1896 y que, 130 años después, sigue siendo la calle más joven de Taipéi",
-        "desc": "En diciembre de 1908 abrió sus puertas la Casa Roja de Ximen, diseñada por Juro Kondo: dos mercados de ladrillo, el Salón Octagonal y el Edificio en Cruz, que fueron el “Asakusa” que el Imperio japonés le entregó a Taipéi. Treinta años después los japoneses se marcharon; en 1961, los ocho edificios de la Galería Comercial Zhonghua crecieron siguiendo el ferrocarril longitudinal, y en 1992 fueron demolidos junto con las vías. En 1999 se delimitó la zona peatonal, se inauguró la línea Bannan y Ximending se convirtió en la sala de estar al aire libre de los adolescentes de Taipéi. Desde las afueras de la ciudad amurallada bajo la dinastía Qing, el distrito de entretenimiento del periodo japonés, la calle del cine de posguerra, los MTV durante la ley marcial, el hip hop y el skate tras el levantamiento de la ley marcial, hasta el cosplay y los bares gay de 2026: bajo el mismo Salón Octagonal ya han pasado cinco generaciones de jóvenes.",
-        "category": "geography",
-        "href": "/es/geography/ximending",
-        "date": "2026-05-25T05:49:38+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "Condado de Yilan: eligió dos veces su propio destino, y la llanura de Lanyang nunca volvió atrás",
-        "desc": "La noche del 13 de diciembre de 1987, Chen Ding-nan se sentó frente a Wang Yung-ching en el estudio de CTS y mantuvo al Sexto Complejo de Nafta fuera de la llanura de Lanyang. Diecinueve años después, el 16 de junio de 2006, se inauguró el túnel de Hsuehshan, y el viaje de Taipéi a Yilan se redujo de dos horas a 40 minutos. Luego, en la década posterior a su apertura, en este granero surgieron 6.137 casas rurales; el precio de la tierra por ping saltó de 4.000 a 20.000 dólares taiwaneses, y en 2023 un solo condado, Yilan, emitió el 35% de todos los permisos de construcción de casas rurales de Taiwán. Un lugar tomó dos decisiones en momentos decisivos de la historia, y la llanura de Lanyang recibió juntas el costo y el regalo.",
-        "category": "geography",
-        "href": "/es/geography/yilan-county",
         "date": "2026-05-25T05:49:38+08:00",
         "readingTime": 15,
         "image": ""
