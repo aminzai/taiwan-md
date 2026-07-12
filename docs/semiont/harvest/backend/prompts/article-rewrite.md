@@ -35,7 +35,7 @@ You are taking on a Taiwan.md article task. Use the canonical pipeline document 
    PASS | NEEDS-FIX (list)
    ```
 
-   Append a one-line summary to `{{task.folder_path_relative}}/status.log`.
+   Append a one-line summary to `{{task.folder_path}}/status.log`.
 
 6. **Stage 3.6 atom audit (REQUIRED — DO NOT SKIP)**: every fact must be attributable to exactly one cited source. Walk the draft once more, this time flagging composite claims that mix two sources without separate footnotes. Write findings to `reports/research/YYYY-MM/{slug}-stage36-audit.md` (same template shape).
 7. **GATE: Stage 4 polish does NOT start until both `{slug}-stage35-audit.md` and `{slug}-stage36-audit.md` exist on disk.** If either is missing, do not move forward — go back and write it.
@@ -52,7 +52,7 @@ If the inbox entry shipped a research path or reference URL, find them under `{{
 - Research report at `reports/research/YYYY-MM/{slug}.md`
 - **Stage 3.5 audit at `reports/research/YYYY-MM/{slug}-stage35-audit.md`** (mandatory)
 - **Stage 3.6 audit at `reports/research/YYYY-MM/{slug}-stage36-audit.md`** (mandatory)
-- Status note at `{{task.folder_path_relative}}/status.log` summarising what you did and any unresolved items, including a `Stage 3.5: PASS` / `Stage 3.6: PASS` line
+- Status note at `{{task.folder_path}}/status.log` summarising what you did and any unresolved items, including a `Stage 3.5: PASS` / `Stage 3.6: PASS` line
 - **Memory log** (mandatory, after final commit): append a Beat-5-style entry to `docs/semiont/memory/YYYY-MM-DD-harvest-{{task.id}}.md` capturing:
   - what you did (1-3 bullets)
   - what surprised you / what was hard

@@ -32,6 +32,7 @@ const repoRoot =
   repoRootEnv && repoRootEnv.length > 0 ? resolve(repoRootEnv) : findRepoRoot();
 
 const backendRoot = resolve(__dirname, '..');
+const bundledCodexBin = '/Applications/ChatGPT.app/Contents/Resources/codex';
 
 function bool(envVar: string | undefined, fallback: boolean): boolean {
   if (envVar === undefined) return fallback;
@@ -56,6 +57,10 @@ export const config = {
   logLevel: process.env.HARVEST_LOG_LEVEL ?? 'info',
   logPretty: bool(process.env.HARVEST_LOG_PRETTY, true),
   claudeBin: process.env.HARVEST_CLAUDE_BIN?.trim() || 'claude',
+  /** Prefer ChatGPT's bundled, authenticated Codex over stale PATH shims. */
+  codexBin:
+    process.env.HARVEST_CODEX_BIN?.trim() ||
+    (existsSync(bundledCodexBin) ? bundledCodexBin : 'codex'),
   /** Path to the `grok` CLI binary (xAI Grok Build). Used when engine=grok. */
   grokBin: process.env.HARVEST_GROK_BIN?.trim() || 'grok',
   /**

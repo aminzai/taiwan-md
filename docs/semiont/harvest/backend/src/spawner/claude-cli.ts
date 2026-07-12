@@ -37,6 +37,10 @@ import {
   unregister as unregisterActive,
 } from './concurrency.ts';
 import { createWorktree, finalizeWorktree, type Worktree } from './worktree.ts';
+import {
+  formatStrictRewriteResult,
+  verifyStrictRewrite,
+} from './strict-rewrite.ts';
 import { recordSpawnedSession } from '../scheduler/session-counter.ts';
 
 /**
@@ -45,8 +49,8 @@ import { recordSpawnedSession } from '../scheduler/session-counter.ts';
  * Phase 5.2 (2026-07-12): DEFAULT ENGINE = grok (xAI Grok Build peer agent).
  * Override via task.inputs.{model,engine} or HARVEST_DEFAULT_ENGINE.
  *
- *   peer agents (claude / grok): all task tiers
- *   codex / ollama: simple tier only (lang-sync / data-refresh / …)
+ *   peer agents (claude / grok / codex): all task tiers
+ *   ollama: simple tier only (lang-sync / data-refresh / …)
  *
  *   tier 1 — simple / mechanical:
  *     data-refresh / format-check / status-report
@@ -80,9 +84,8 @@ const DEFAULT_MODEL_BY_ENGINE_TYPE: Record<string, Record<string, string>> = {
     'self-diagnose': 'claude-opus-4-8',
   },
   codex: {
-    // codex CLI default model on ChatGPT account (gpt-5 / o3 etc auto)
-    // Leaving empty = let codex CLI use its account default; we just don't
-    // pass -m if no override. Spawner handles via taskModel === '' branch.
+    // Explicit models (including gpt-5.6-sol) are selected per task. Empty
+    // keeps the ChatGPT account default for existing presets.
     'lang-sync-refresh': '',
     'lang-sync-translate': '',
     'data-refresh': '',
@@ -118,13 +121,13 @@ const DEFAULT_MODEL_BY_ENGINE_TYPE: Record<string, Record<string, string>> = {
 
 /**
  * Full peer coding-agent CLIs (tool-using, multi-turn). Eligible for ALL
- * task tiers when selected (or as default). codex/ollama stay simple-tier.
+ * task tiers when selected (or as default). Ollama stays simple-tier.
  */
-const PEER_AGENT_ENGINES = new Set(['claude', 'grok']);
+const PEER_AGENT_ENGINES = new Set(['claude', 'grok', 'codex']);
 
 /**
- * Task types that accept non-peer engine override (codex/ollama).
- * Peer agents (claude/grok) may run any type.
+ * Task types that accept non-peer engine override (Ollama).
+ * Peer agents (claude/grok/codex) may run any type.
  */
 const ENGINE_ELIGIBLE_TIER: Record<string, 'simple' | 'heavy'> = {
   'data-refresh': 'simple',
@@ -280,10 +283,13 @@ export async function spawnClaudeForTask(
 
   // Engine selection (resolve FIRST so model lookup is engine-aware).
   // Default = config.defaultEngine (grok as of Phase 5.2).
-  // Peer agents (claude/grok): all tiers. codex/ollama: simple tier only.
-  // Heavy + codex/ollama → force peer default (grok) not claude.
-  const requestedEngine =
-    (task.inputs?.engine as string | undefined) ?? config.defaultEngine;
+  // Peer agents (claude/grok/codex): all tiers. Ollama: simple tier only.
+  // Heavy + Ollama → force peer default (grok).
+  const strictRewrite =
+    task.type === 'article-rewrite' && task.inputs?.strict_rewrite === true;
+  const requestedEngine = strictRewrite
+    ? 'codex'
+    : ((task.inputs?.engine as string | undefined) ?? config.defaultEngine);
   const tier = ENGINE_ELIGIBLE_TIER[task.type];
   const taskEngine =
     PEER_AGENT_ENGINES.has(requestedEngine) || tier === 'simple'
@@ -298,10 +304,11 @@ export async function spawnClaudeForTask(
       : taskEngine === 'claude'
         ? 'claude-sonnet-4-6'
         : '';
-  const taskModel =
-    (task.inputs?.model as string | undefined) ??
-    engineDefaults[task.type] ??
-    fallbackModel;
+  const taskModel = strictRewrite
+    ? 'gpt-5.6-sol'
+    : ((task.inputs?.model as string | undefined) ??
+      engineDefaults[task.type] ??
+      fallbackModel);
   const gitHead = (() => {
     try {
       return require('node:child_process')
@@ -331,6 +338,7 @@ export async function spawnClaudeForTask(
     `# model:             ${taskModel}`,
     `# claude_bin:        ${config.claudeBin}`,
     `# grok_bin:          ${config.grokBin}`,
+    `# codex_bin:         ${config.codexBin}`,
     `# spawn_attempt:     ${task.attempts}`,
     `# spawned_at_iso:    ${spawnStartIso}`,
     `# spawned_at_local:  ${spawnedAt.toString()}`,
@@ -360,7 +368,7 @@ export async function spawnClaudeForTask(
   /** Grok reads prompt from --prompt-file; do not pipe prompt on stdin. */
   let pipePromptOnStdin = true;
   if (taskEngine === 'codex' || taskEngine === 'ollama') {
-    engineBin = 'codex';
+    engineBin = config.codexBin;
     // Phase 5.1.x (2026-04-30): replaced `--full-auto` with explicit
     // `--dangerously-bypass-approvals-and-sandbox`. Root cause of the
     // T4' qwen3.6 commit-retry-loop hang: codex --full-auto applies a
@@ -528,7 +536,7 @@ export async function spawnClaudeForTask(
     }, 5_000);
   }, timeoutMs);
 
-  const exitCode: number = await new Promise((resolve) => {
+  const childExitCode: number = await new Promise((resolve) => {
     child.on('exit', (code) => resolve(code ?? -1));
     child.on('error', (err) => {
       logStream.write(`\n[spawner] error: ${String(err)}\n`);
@@ -536,11 +544,10 @@ export async function spawnClaudeForTask(
     });
   });
   clearTimeout(timeout);
-  logStream.end();
 
   const completedAt = new Date();
   sessionRecord.completed_at = completedAt.toISOString();
-  sessionRecord.exit_code = exitCode;
+  let exitCode = childExitCode;
 
   // Worktree finalize: when worktree-isolated, count commits on the branch
   // (not via main-repo log) since they're not yet in main HEAD's history.
@@ -548,6 +555,24 @@ export async function spawnClaudeForTask(
   let commits: string[] = [];
   if (worktree) {
     commits = await commitsOnBranch(worktree.branch);
+    if (
+      childExitCode === 0 &&
+      !timedOut &&
+      task.type === 'article-rewrite' &&
+      task.inputs?.strict_rewrite === true
+    ) {
+      const strictResult = verifyStrictRewrite(task, worktree.path, gitHead);
+      const strictOutput = formatStrictRewriteResult(strictResult);
+      logStream.write(`\n\n${strictOutput}\n`);
+      mkdirSync(join(task.folder_path, 'outputs'), { recursive: true });
+      writeFileSync(
+        join(task.folder_path, 'outputs', 'strict-verification.txt'),
+        `${strictOutput}\n`,
+        'utf8',
+      );
+      if (!strictResult.passed) exitCode = 2;
+    }
+    sessionRecord.exit_code = exitCode;
     const failed = exitCode !== 0 || timedOut;
     const result = await finalizeWorktree(worktree, {
       failed,
@@ -573,6 +598,8 @@ export async function spawnClaudeForTask(
       sessionId.slice(0, 8),
     );
   }
+  sessionRecord.exit_code = exitCode;
+  logStream.end();
   if (commits.length) sessionRecord.commits = commits;
 
   db.run('UPDATE sessions SET completed_at = ?, exit_code = ? WHERE id = ?', [

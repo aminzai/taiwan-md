@@ -26,7 +26,7 @@ import { QUICK_PRESETS, type QuickPreset } from '~/lib/quick-presets';
 /**
  * Cross-engine model picker.
  * Phase 5.2 (2026-07-12): default engine = grok (all tiers).
- * codex/ollama: simple tier only (greyed on heavy presets).
+ * Codex is available on every tier; Ollama is simple-tier only.
  */
 interface ModelOption {
   /** "engine::model" — model can be empty for engine default */
@@ -67,9 +67,10 @@ const ENGINE_GROUPS: {
   },
   {
     engine: 'codex',
-    label: '⚙️ Codex (ChatGPT subscription, $0)',
+    label: '⚙️ OpenAI Codex (all tiers)',
     options: [
       { value: '', label: 'auto (~/.codex/config.toml)' },
+      { value: 'gpt-5.6-sol', label: 'GPT-5.6 Sol (frontier)' },
       { value: 'gpt-5', label: 'gpt-5' },
       { value: 'gpt-5.5', label: 'gpt-5.5' },
       { value: 'gpt-5-mini', label: 'gpt-5-mini' },
@@ -90,7 +91,7 @@ const ENGINE_GROUPS: {
 ];
 
 /**
- * Task types that accept non-peer engine override (codex/ollama).
+ * Task types that accept non-peer engine override (Ollama).
  */
 const ENGINE_OVERRIDE_OK = new Set([
   'data-refresh',
@@ -100,7 +101,7 @@ const ENGINE_OVERRIDE_OK = new Set([
   'lang-sync-translate',
 ]);
 
-const PEER_ENGINES = new Set(['claude', 'grok']);
+const PEER_ENGINES = new Set(['claude', 'grok', 'codex']);
 
 /** Encode (engine, model) → option value. */
 function encodeOpt(engine: string, model: string): string {
@@ -140,16 +141,16 @@ function Inner() {
   const [pickerOpen, setPickerOpen] = createSignal<string | null>(null);
 
   const fire = useMutation(() => ({
-    mutationFn: (preset: QuickPreset) => {
+    mutationFn: async (preset: QuickPreset) => {
       const overrideValue = modelOverrides()[preset.id];
       // Phase 5.2: always default engine=grok unless preset/override says otherwise
       const inputs: Record<string, unknown> = {
         engine: DEFAULT_ENGINE,
         ...(preset.defaultInputs ?? {}),
       };
-      if (overrideValue) {
+      if (overrideValue && !preset.lockModel) {
         const { engine, model } = decodeOpt(overrideValue);
-        // Peer agents always OK; codex/ollama only on simple tier
+        // Peer agents always OK; only Ollama is limited to simple tasks.
         if (
           PEER_ENGINES.has(engine) ||
           ENGINE_OVERRIDE_OK.has(preset.taskType)
@@ -161,7 +162,7 @@ function Inner() {
         if (model) inputs.model = model;
         else delete inputs.model;
       }
-      return api.createQuickTask({
+      const task = await api.createQuickTask({
         type: preset.taskType,
         boot_profile: preset.bootProfile,
         priority: preset.priority,
@@ -169,9 +170,18 @@ function Inner() {
         ...(preset.notes ? { notes: preset.notes } : {}),
         inputs,
       });
+      if (preset.autoSpawn) {
+        await api.spawnTask(task.id);
+      }
+      return { task, spawned: preset.autoSpawn === true };
     },
-    onSuccess: (_, preset) => {
-      setFlash({ type: 'ok', msg: `✅ Task created: ${preset.label}` });
+    onSuccess: (result, preset) => {
+      setFlash({
+        type: 'ok',
+        msg: result.spawned
+          ? `🚀 Pipeline running: ${preset.label}`
+          : `✅ Task created: ${preset.label}`,
+      });
       void qc.invalidateQueries({ queryKey: ['tasks'] });
       setTimeout(() => setFlash(null), 3000);
     },
@@ -262,21 +272,30 @@ function Inner() {
                 {/* Model picker — clickable badge that opens dropdown */}
                 <div class="absolute top-1 right-1 flex items-center gap-1">
                   <Show when={badge()}>
-                    {(b) => (
-                      <button
-                        type="button"
-                        class={`text-[10px] px-1 py-px rounded border leading-tight cursor-pointer hover:opacity-80 ${modelBadgeClass(b().tone)}`}
-                        title={`${b().full} — click to change model`}
-                        onClick={(e) => {
-                          e.stopPropagation();
-                          setPickerOpen(pickerOpen() === p.id ? null : p.id);
-                        }}
-                      >
-                        {b().icon}
-                        {b().label}
-                        <span class="ml-0.5 opacity-70">▾</span>
-                      </button>
-                    )}
+                    {(b) =>
+                      p.lockModel ? (
+                        <span
+                          class={`text-[10px] px-1 py-px rounded border leading-tight ${modelBadgeClass(b().tone)}`}
+                          title={`${b().full} — locked by strict pipeline contract`}
+                        >
+                          🔒{b().label}
+                        </span>
+                      ) : (
+                        <button
+                          type="button"
+                          class={`text-[10px] px-1 py-px rounded border leading-tight cursor-pointer hover:opacity-80 ${modelBadgeClass(b().tone)}`}
+                          title={`${b().full} — click to change model`}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            setPickerOpen(pickerOpen() === p.id ? null : p.id);
+                          }}
+                        >
+                          {b().icon}
+                          {b().label}
+                          <span class="ml-0.5 opacity-70">▾</span>
+                        </button>
+                      )
+                    }
                   </Show>
                 </div>
                 <Show when={pickerOpen() === p.id}>
@@ -287,8 +306,7 @@ function Inner() {
                   >
                     <Show when={!overrideAllowed}>
                       <div class="px-2 py-1 text-[10px] text-accent-amber border-b border-line/40">
-                        ⚠️ heavy task — grok / claude only (codex/ollama
-                        ignored)
+                        ⚠️ heavy task — peer engines only (Ollama ignored)
                       </div>
                     </Show>
                     <For each={ENGINE_GROUPS}>

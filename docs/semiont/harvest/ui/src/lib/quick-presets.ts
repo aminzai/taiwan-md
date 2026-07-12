@@ -29,6 +29,10 @@ export interface QuickPreset {
   group: 'routine' | 'content' | 'manual'; // visual grouping
   needsInput?: { name: string; placeholder: string }[];
   defaultInputs?: Record<string, unknown>;
+  /** Dispatch immediately after creation; bypasses scheduler pause by design. */
+  autoSpawn?: boolean;
+  /** Prevent per-click engine/model overrides for contract-sensitive presets. */
+  lockModel?: boolean;
 }
 
 export const GROUP_META: Record<
@@ -131,17 +135,25 @@ export const QUICK_PRESETS: QuickPreset[] = [
   // 🔵 content (heavier — Opus)
   {
     id: 'article-from-inbox',
-    emoji: '📝',
-    label: 'Write next article (inbox)',
-    description: '從 ARTICLE-INBOX 挑 P0/P1 寫一篇',
+    emoji: '🚀',
+    label: 'Run Rewrite Pipeline',
+    description:
+      '一鍵建立並立即執行：GPT-5.6 Sol + 獨立 worktree + 嚴格 Stage 0–5 合併前閘門',
     taskType: 'article-rewrite',
     bootProfile: 'content-writing',
     priority: 'P1',
-    title: () => `article: pick from inbox ${ts()}`,
+    title: () => `strict rewrite: pick next P0/P1 inbox article ${ts()}`,
+    notes:
+      'Pick exactly one genuine P0/P1 ARTICLE-INBOX entry that still requires a full prose rewrite. Run the complete canonical Rewrite Pipeline without scope reduction. This is a strict production trial: do not select a media-only, translation-only, or already prose-shipped entry.',
     defaultInputs: {
-      engine: 'grok',
+      engine: 'codex',
+      model: 'gpt-5.6-sol',
       worktree: true,
+      strict_rewrite: true,
+      timeout_min: 180,
     },
+    autoSpawn: true,
+    lockModel: true,
     group: 'content',
   },
 

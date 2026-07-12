@@ -92,7 +92,7 @@ ${optionalReadList}
 - Task folder (absolute): ${task.folder_path}
 - Task folder (repo-relative): ${repoRel}
 
-Inputs and prior research live under \`${repoRel}/inputs/\`. Write outputs to \`${repoRel}/outputs/\`. Append progress notes to \`${repoRel}/status.log\` as you go.
+Inputs and prior research live under \`${task.folder_path}/inputs/\`. Write orchestration outputs to \`${task.folder_path}/outputs/\`. Append progress notes to \`${task.folder_path}/status.log\` as you go. These absolute task-state paths are intentional: a worktree run must report receipts back to the shared Harvest task folder.
 ${
   task.notes
     ? `\n## Observer notes (additional instructions for this task)\n\n${task.notes}\n`
@@ -112,6 +112,11 @@ ${
 4. **Stuck or controversial?** Mark the task as \`awaiting-cheyu\` by writing the reason to \`${repoRel}/status.log\` and exiting cleanly. Do not guess on disputed factual matters or political-sensitive calls.
 5. **No silent skips.** If you cannot complete a stage, log why in \`status.log\` before exiting.
 6. **Wall-clock timestamps.** Use \`git log %ai\` style real time, not subjective time sense (MANIFESTO §時間是結構).
+${
+  task.inputs?.strict_rewrite === true
+    ? `7. **STRICT REWRITE CONTRACT.** This run is rejected before merge unless it changes exactly one \`knowledge/**/*.md\` article, links an existing depth research report, writes PASS receipts for Stage 3.5 and Stage 3.6, records \`Stage 3.5: PASS\` and \`Stage 3.6: PASS\` in \`${task.folder_path}/status.log\`, and passes the executable research + article health gates. Never claim done merely because drafting finished.`
+    : ''
+}
 
 ## Task-type instructions
 

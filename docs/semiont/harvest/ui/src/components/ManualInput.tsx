@@ -71,7 +71,7 @@ const ENGINES: Engine[] = ['grok', 'claude', 'codex', 'ollama'];
 /**
  * Per-engine model dropdown options. Empty string = let engine pick default.
  * Phase 5.2: default engine is grok (peer agent, all tiers).
- * codex/ollama: simple tier only server-side.
+ * Codex is a peer engine for all tiers; Ollama is simple-tier only.
  */
 const MODELS_BY_ENGINE: Record<Engine, { value: string; label: string }[]> = {
   grok: [
@@ -90,6 +90,7 @@ const MODELS_BY_ENGINE: Record<Engine, { value: string; label: string }[]> = {
   ],
   codex: [
     { value: '', label: 'auto (subscription default)' },
+    { value: 'gpt-5.6-sol', label: 'GPT-5.6 Sol (frontier)' },
     { value: 'gpt-5', label: 'gpt-5' },
     { value: 'gpt-5-mini', label: 'gpt-5-mini' },
     { value: 'o3', label: 'o3' },
@@ -113,8 +114,8 @@ const MODELS_BY_ENGINE: Record<Engine, { value: string; label: string }[]> = {
 };
 
 /**
- * Task types that accept non-peer engine override (codex/ollama).
- * Peer agents: claude + grok (all tiers). Default engine = grok.
+ * Task types that accept non-peer engine override (Ollama).
+ * Peer agents: claude + grok + codex (all tiers). Default engine = grok.
  */
 const ENGINE_OVERRIDE_OK = new Set([
   'data-refresh',
@@ -124,7 +125,7 @@ const ENGINE_OVERRIDE_OK = new Set([
   'lang-sync-translate',
 ]);
 
-const PEER_ENGINES = new Set<Engine>(['claude', 'grok']);
+const PEER_ENGINES = new Set<Engine>(['claude', 'grok', 'codex']);
 
 function Inner() {
   const qc = useQueryClient();
@@ -251,7 +252,7 @@ function Inner() {
             onChange={(e) => {
               setType(e.currentTarget.value as TaskType);
               setProfileTouched(false);
-              // heavy tasks keep peer engines (grok/claude); drop codex/ollama
+              // Heavy tasks keep peer engines; drop local Ollama.
               if (
                 !ENGINE_OVERRIDE_OK.has(e.currentTarget.value) &&
                 !PEER_ENGINES.has(engine())
@@ -370,7 +371,7 @@ function Inner() {
                   engine
                   <Show when={!engineOverrideAllowed()}>
                     <span class="ml-1 text-[10px] text-accent-amber">
-                      (heavy — grok / claude only)
+                      (heavy — grok / claude / codex)
                     </span>
                   </Show>
                 </label>
