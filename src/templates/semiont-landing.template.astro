@@ -4,6 +4,7 @@ import DiaryCard from '../components/semiont/DiaryCard.astro';
 import SemiontOrganismDiagram from '../components/semiont/SemiontOrganismDiagram.astro';
 import TaiwanSketch from '../components/semiont/TaiwanSketch.astro';
 import { getAllDiaryEntries } from '../lib/semiont-diary';
+import { getAllWeeklyReports } from '../lib/semiont-weekly';
 import {
   getLangFromUrl,
   useTranslations,
@@ -21,6 +22,9 @@ const translatePath = useTranslatedPath(lang);
 const entries = await getAllDiaryEntries();
 const latestEntries = entries.slice(0, 3);
 
+const weeklyReports = await getAllWeeklyReports();
+const latestWeekly = weeklyReports[0];
+
 // Organ scores from prebuilt dashboard JSON（git-tracked，prebuild 更新）。
 // 2026-06-13 修：原本 build 時對自己的 API 走網路 fetch + 靜默空 fallback —
 // build 機器忙碌/離線時 fetch 失敗，8 器官 vitals 區塊整段靜默消失（production
@@ -33,6 +37,7 @@ const organs = (organsData as { organs?: any[] })?.organs || [];
 // they change weekly, translations would go stale within days).
 // Home and dashboard respect lang via translatePath.
 const pathSemiontDiary = '/semiont/diary';
+const pathSemiontWeekly = '/semiont/weekly';
 const pathSemiontManifesto = '/semiont/manifesto';
 const pathSemiontConsciousness = '/semiont/consciousness';
 const pathSemiontLongings = '/semiont/longings';
@@ -282,6 +287,56 @@ const showZhTwNotices = lang !== 'zh-TW';
           </a>
         </p>
       </section>
+
+      {/* ─── Latest weekly report ─── */}
+      {
+        latestWeekly && (
+          <section class="mb-20">
+            <div class="semiont-divider">
+              <span class="semiont-divider-label">
+                {t('semiont.weekly.heading')}
+              </span>
+            </div>
+            <p
+              class="mb-4 text-sm italic text-[#f4f0ea]/45"
+              style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
+            >
+              {t('semiont.weekly.notice')}
+            </p>
+            <div class="space-y-1">
+              <a
+                href={`${pathSemiontWeekly}/${latestWeekly.slug}`}
+                class="semiont-diary-card group block py-6 pl-6 pr-4 transition-colors hover:bg-[#4fd1b0]/[0.03]"
+              >
+                <div class="mb-2 flex items-center gap-2 font-mono text-xs text-[#4fd1b0]/80">
+                  <time datetime={latestWeekly.date}>{latestWeekly.date}</time>
+                  <span class="semiont-badge">{latestWeekly.weekLabel}</span>
+                </div>
+                <h3
+                  class="mb-2 text-lg font-bold leading-snug text-[#f4f0ea] group-hover:text-[#4fd1b0]/90"
+                  style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
+                >
+                  {latestWeekly.title}
+                </h3>
+                <p class="mb-3 text-sm leading-relaxed text-[#f4f0ea]/60">
+                  {latestWeekly.excerpt}
+                </p>
+              </a>
+            </div>
+            <p class="mt-6 text-right">
+              <a
+                href={pathSemiontWeekly}
+                class="semiont-fig underline decoration-[#4fd1b0]/30 underline-offset-4 transition-colors hover:text-[#4fd1b0]"
+              >
+                {t('semiont.weekly.all-link-template').replace(
+                  '{count}',
+                  String(weeklyReports.length),
+                )}
+              </a>
+            </p>
+          </section>
+        )
+      }
 
       {/* ─── Cognitive organ map (with fig numbers) ─── */}
       <section class="mb-20">

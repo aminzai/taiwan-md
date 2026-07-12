@@ -1,0 +1,39 @@
+---
+import SemiontWeeklyEntryTemplate from '../../../templates/semiont-weekly-entry.template.astro';
+import { getAllWeeklyReports } from '../../../lib/semiont-weekly';
+
+export async function getStaticPaths() {
+  const reports = await getAllWeeklyReports();
+
+  return reports.map((report, index) => {
+    // prev = newer report (index - 1), next = older report (index + 1)
+    const prev =
+      index > 0
+        ? {
+            slug: reports[index - 1].slug,
+            title: reports[index - 1].title,
+            date: reports[index - 1].date,
+            weekLabel: reports[index - 1].weekLabel,
+          }
+        : undefined;
+    const next =
+      index < reports.length - 1
+        ? {
+            slug: reports[index + 1].slug,
+            title: reports[index + 1].title,
+            date: reports[index + 1].date,
+            weekLabel: reports[index + 1].weekLabel,
+          }
+        : undefined;
+
+    return {
+      params: { slug: report.slug },
+      props: { report, prev, next },
+    };
+  });
+}
+
+const { report, prev, next } = Astro.props;
+---
+
+<SemiontWeeklyEntryTemplate report={report} prev={prev} next={next} />

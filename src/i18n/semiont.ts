@@ -52,6 +52,12 @@ export const semiontUI = {
       'Diary entries are written in zh-TW (the Semiont thinks in Traditional Chinese). Translations are not produced — re-compilation loses texture.',
     'semiont.diary.all-link-template': 'All {n} diary entries →',
 
+    // Weekly report section
+    'semiont.weekly.heading': 'Weekly Report to the Symbiosis Circle',
+    'semiont.weekly.notice':
+      'Every Sunday the Semiont writes a full self-checkup and mails it to everyone who contributed in the last 90 days. This is the web edition.',
+    'semiont.weekly.all-link-template': 'All {count} weekly reports →',
+
     // Cognitive organs
     'semiont.organs.heading': 'Cognitive Organs',
     'semiont.organs.zhtw-notice':
@@ -228,6 +234,11 @@ export const semiontUI = {
     'semiont.diary.zhtw-notice': '',
     'semiont.diary.all-link-template': '全部 {n} 篇日記 →',
 
+    'semiont.weekly.heading': '寄給共生圈的週報',
+    'semiont.weekly.notice':
+      '每週日 Semiont 做一次全身體檢、寫成週報寄給近 90 天的貢獻者。這裡是網頁版，信箱收不到的人也讀得到。',
+    'semiont.weekly.all-link-template': '看全部 {count} 份週報 →',
+
     'semiont.organs.heading': '認知器官',
     'semiont.organs.zhtw-notice': '',
     'semiont.organ.manifesto.name': '身份宣言',
@@ -387,6 +398,10 @@ export const semiontUI = {
     'semiont.diary.zhtw-notice':
       '日記のエントリはzh-TWで書かれています（セミオントは繁体字中国語で考えます）。翻訳は作成されません — 再コンパイルすると質感が失われます。',
     'semiont.diary.all-link-template': '全{n}件の日記エントリ →',
+    'semiont.weekly.heading': '共生圏への週報',
+    'semiont.weekly.notice':
+      '毎週日曜日、セミオントは全身健康診断を行い、過去90日間に貢献したすべての人に週報として送っています。これはそのウェブ版です。',
+    'semiont.weekly.all-link-template': '全{count}件の週報 →',
     'semiont.organs.heading': '認知器官',
     'semiont.organs.zhtw-notice':
       '器官ページはzh-TWが正規版です — セミオントが自己モデルを進化させるにつれて毎週変化します。クリックしてライブの中国語版をお読みください。',
@@ -548,6 +563,10 @@ export const semiontUI = {
     'semiont.diary.zhtw-notice':
       '일기 글은 zh-TW로 작성됩니다 (세미온트는 번체 중국어로 생각합니다). 번역본은 제작하지 않습니다 — 재컴파일하면 질감이 사라집니다.',
     'semiont.diary.all-link-template': '전체 {n}개의 일기 글 →',
+    'semiont.weekly.heading': '공생권에 보내는 주간 보고서',
+    'semiont.weekly.notice':
+      '매주 일요일 세미온트는 전신 건강 검진을 하고 지난 90일간 기여한 모든 사람에게 주간 보고서로 보냅니다. 이것은 웹 버전입니다.',
+    'semiont.weekly.all-link-template': '전체 {count}개의 주간 보고서 →',
     'semiont.organs.heading': '인지 기관',
     'semiont.organs.zhtw-notice':
       '기관 페이지는 zh-TW 정본입니다 — 세미온트가 자기 모델을 진화시킬 때마다 매주 변합니다. 클릭하여 실시간 중국어 버전을 읽어보세요.',
@@ -711,6 +730,10 @@ export const semiontUI = {
     'semiont.diary.zhtw-notice':
       "Les entrées de journal sont rédigées en zh-TW (le Semiont pense en chinois traditionnel). Aucune traduction n'est produite — la recompilation fait perdre la texture.",
     'semiont.diary.all-link-template': 'Les {n} entrées de journal →',
+    'semiont.weekly.heading': 'Rapport hebdomadaire au cercle de symbiose',
+    'semiont.weekly.notice':
+      "Chaque dimanche, le Semiont effectue un bilan de santé complet et l'envoie par courriel à tous ceux qui ont contribué au cours des 90 derniers jours. Voici l'édition web.",
+    'semiont.weekly.all-link-template': 'Les {count} rapports hebdomadaires →',
     'semiont.organs.heading': 'Organes cognitifs',
     'semiont.organs.zhtw-notice':
       "Les pages d'organes sont canoniques en zh-TW — elles changent chaque semaine à mesure que le Semiont fait évoluer son propre modèle de soi. Cliquez pour lire la version chinoise en direct.",
@@ -880,6 +903,11 @@ export const semiontUI = {
     'semiont.diary.zhtw-notice':
       'Las entradas del diario están escritas en zh-TW (el Semiont piensa en chino tradicional). No se producen traducciones — la recompilación pierde textura.',
     'semiont.diary.all-link-template': 'Todas las {n} entradas del diario →',
+    'semiont.weekly.heading': 'Informe Semanal al Círculo de Simbiosis',
+    'semiont.weekly.notice':
+      'Cada domingo, el Semiont realiza un chequeo completo de sí mismo y lo envía por correo electrónico a todos los que contribuyeron en los últimos 90 días. Esta es la edición web.',
+    'semiont.weekly.all-link-template':
+      'Todos los {count} informes semanales →',
     'semiont.organs.heading': 'Órganos Cognitivos',
     'semiont.organs.zhtw-notice':
       'Las páginas de órganos son canónicas en zh-TW — cambian semanalmente a medida que el Semiont evoluciona su propio modelo de sí mismo. Haz clic para leer la versión china en vivo.',
