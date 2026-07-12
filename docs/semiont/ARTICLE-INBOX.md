@@ -251,20 +251,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - EVOLVE 方向：補足生平時序 + 認知作戰研究的具體著作/行動
 - **Reference**: 哲宇 directive 2026-06-14
 
-### 蔡英文 EVOLVE — 台灣首位女性總統的兩任八年
-
-- **Type**: `EVOLVE`
-- **Category**: People
-- **Path** (EVOLVE only): knowledge/People/蔡英文.md
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Requested**: 2026-06-14 by 哲宇 directive（最優先 rewrite batch）
-- **Notes**:
-  - ⚠️ **高政治敏感**（前總統 / 兩岸 / 政黨）— 事實鐵三角從嚴 + 中立框架，政策寫「做了什麼 + 結果」不評好壞
-  - 必驗：任期（2016-2024）、重大政策時間點（年改/同婚/疫情/兩岸）、選舉數據逐一查
-  - EVOLVE 方向：八年任期時序 + 國際定位，補腳註密度
-- **Reference**: 哲宇 directive 2026-06-14
-
 <!-- ═══ /哲宇 2026-06-14 P0 batch ═══ -->
 
 ### 視覺模組 v2.0 進真實文 EVOLVE batch — tiles/pyramid/stack 各找原生宿主
