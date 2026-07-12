@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_fetched": "2026-06-14T04:45:44Z",
+  "last_fetched": "2026-07-12T09:06:35Z",
   "notes": "Layer 1 SSOT — append-only 流水帳，每筆 transaction 為基本單位。id = Portaly 支持編號（stable dedupe key）。Derived views 由 scripts/core/generate-supporters-data.js 從本檔聚合。禁止手動編輯 id / gmail_message_id。privacy：絕不存 email / 付款方式 / 信用卡資訊。",
   "transactions": [
     {
@@ -122,6 +122,81 @@
       "subscription_id": null,
       "status": "received",
       "gmail_message_id": "19ec46ed2f594d3a"
+    },
+    {
+      "id": "EySi2hDoBD8ExEbyTQV9",
+      "source": "portaly",
+      "timestamp": "2026-06-16T17:09:11Z",
+      "date": "2026-06-16",
+      "name": "匿名",
+      "anonymous": true,
+      "amount": 200,
+      "currency": "TWD",
+      "type": "monthly",
+      "message": "無",
+      "subscription_id": null,
+      "status": "received",
+      "gmail_message_id": "19ed168a1b8953b4"
+    },
+    {
+      "id": "yj56cMPS6jUySKni1wrE",
+      "source": "portaly",
+      "timestamp": "2026-06-18T00:01:02Z",
+      "date": "2026-06-18",
+      "name": "沈宗杰",
+      "anonymous": false,
+      "amount": 200,
+      "currency": "TWD",
+      "type": "monthly",
+      "message": "無",
+      "subscription_id": null,
+      "status": "received",
+      "gmail_message_id": "19ed8080a24d1aec"
+    },
+    {
+      "id": "ehlQpzBPxptoDNubda2a",
+      "source": "portaly",
+      "timestamp": "2026-06-18T00:01:02Z",
+      "date": "2026-06-18",
+      "name": "匿名",
+      "anonymous": true,
+      "amount": 500,
+      "currency": "TWD",
+      "type": "monthly",
+      "message": "無",
+      "subscription_id": null,
+      "status": "received",
+      "gmail_message_id": "19ed8080930a4d39"
+    },
+    {
+      "id": "sPGLMrxGDIEvQ2U1As6k",
+      "source": "portaly",
+      "timestamp": "2026-06-30T11:17:44Z",
+      "date": "2026-06-30",
+      "name": "匿名",
+      "anonymous": true,
+      "amount": 500,
+      "currency": "TWD",
+      "type": "one-time",
+      "message": "很棒的站，加油！",
+      "subscription_id": null,
+      "status": "received",
+      "gmail_message_id": "19f183fe0d403dd7"
+    },
+    {
+      "id": "e3gCsq3FP1pjAZqNqQ3g",
+      "source": "portaly",
+      "timestamp": "2026-07-05T11:24:24Z",
+      "date": "2026-07-05",
+      "name": "CW",
+      "anonymous": false,
+      "amount": 500,
+      "currency": "TWD",
+      "type": "one-time",
+      "message": "支持好平台！未來給 AI 閱讀的台灣誌",
+      "subscription_id": null,
+      "status": "received",
+      "gmail_message_id": "19f3205caccf5ea2"
     }
   ]
 }

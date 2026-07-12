@@ -1,21 +1,22 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-11T22:12:24.133Z",
-  "last_fetched": "2026-06-14T04:45:44Z",
+  "last_updated": "2026-07-12T09:06:38.062Z",
+  "last_fetched": "2026-07-12T09:06:35Z",
   "totals": {
-    "total_received_twd": 6000,
-    "transaction_count": 8,
-    "supporter_count": 7,
-    "monthly_subscriptions": 4,
-    "one_time": 4,
-    "anonymous_ratio": 0.75
+    "total_received_twd": 7900,
+    "transaction_count": 13,
+    "supporter_count": 11,
+    "monthly_subscriptions": 7,
+    "one_time": 6,
+    "anonymous_ratio": 0.6923076923076923
   },
   "first_date": "2026-04-19",
-  "latest_date": "2026-06-14",
+  "latest_date": "2026-07-05",
   "by_month": {
     "2026-04": 2700,
     "2026-05": 700,
-    "2026-06": 2600
+    "2026-06": 4000,
+    "2026-07": 500
   },
   "timeline": [
     {
@@ -89,6 +90,51 @@
       "type": "one-time",
       "anonymous": true,
       "running_total": 6000
+    },
+    {
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T17:09:11Z",
+      "amount": 200,
+      "currency": "TWD",
+      "type": "monthly",
+      "anonymous": true,
+      "running_total": 6200
+    },
+    {
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T00:01:02Z",
+      "amount": 200,
+      "currency": "TWD",
+      "type": "monthly",
+      "anonymous": false,
+      "running_total": 6400
+    },
+    {
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T00:01:02Z",
+      "amount": 500,
+      "currency": "TWD",
+      "type": "monthly",
+      "anonymous": true,
+      "running_total": 6900
+    },
+    {
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T11:17:44Z",
+      "amount": 500,
+      "currency": "TWD",
+      "type": "one-time",
+      "anonymous": true,
+      "running_total": 7400
+    },
+    {
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T11:24:24Z",
+      "amount": 500,
+      "currency": "TWD",
+      "type": "one-time",
+      "anonymous": false,
+      "running_total": 7900
     }
   ]
 }
