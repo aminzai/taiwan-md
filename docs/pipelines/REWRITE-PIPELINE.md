@@ -190,21 +190,21 @@ upstream_canonical:
 
 ## 跨檔案職責分工
 
-| 檔案                                                             | 範圍                                                                                                                                |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **本檔**                                                         | 6 stage 線性主流程（單檔，含觀點成型 + 模式判定 + 媒體生命週期 + cron）                                                             |
-| [RESEARCH.md](../editorial/RESEARCH.md)                          | 研究方法論 SSOT（怎麼搜、怎麼判斷、怎麼避坑）                                                                                       |
-| [EDITORIAL.md](../editorial/EDITORIAL.md)                        | 品質基因 SSOT（好文章長什麼樣、風格、禁止事項）                                                                                     |
-| [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)              | 引用規範（腳註格式、密度標準、來源品質）                                                                                            |
-| [RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md)        | 研究模板（Stage 1 組裝後主報告 §1-§8 格式）                                                                                         |
-| [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md)             | 研究 sub-agent 派發通用 prompt＋分部報告輸出模板＋anti-example 庫（Step 1.8-ter 契約的 copy-paste 載體，禁即興）                    |
-| [WRITER-PROMPT.md](WRITER-PROMPT.md)                             | Stage 2 寫作 sub-agent 派發通用 prompt＋read-receipt 防飄移＋蒸餾 craft 規則＋anti-example 庫（禁即興，禁 skim EDITORIAL/pipeline） |
-| [QUALITY-CHECKLIST.md](../editorial/QUALITY-CHECKLIST.md)        | 驗證清單（Stage 3 逐項檢查）                                                                                                        |
-| [TERMINOLOGY.md](../editorial/TERMINOLOGY.md)                    | 用語規範（台灣在地用語標準）                                                                                                        |
-| [graph.md](../editorial/graph.md)                                | 視覺化編輯指南（型錄/模組語法/AI 可讀性）— Stage 2 視覺化思考 + Stage 4 viz-health                                                  |
-| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)                   | Stage 3 Step 3.3 觸發（事實查核完整 SOP）                                                                                           |
-| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)               | 中文 ship 後跨 pipeline 觸發（單篇翻譯 SOP）                                                                                        |
-| [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md) | 中文 ship 後跨 pipeline 觸發（多語 batch sync 巴別塔）                                                                              |
+| 檔案                                                             | 範圍                                                                                                                                                            |
+| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **本檔**                                                         | 6 stage 線性主流程（單檔，含觀點成型 + 模式判定 + 媒體生命週期 + cron）                                                                                         |
+| [RESEARCH.md](../editorial/RESEARCH.md)                          | 研究方法論 SSOT（怎麼搜、怎麼判斷、怎麼避坑）                                                                                                                   |
+| [EDITORIAL.md](../editorial/EDITORIAL.md)                        | 品質基因 SSOT（好文章長什麼樣、風格、禁止事項）                                                                                                                 |
+| [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)              | 引用規範（腳註格式、密度標準、來源品質）                                                                                                                        |
+| [RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md)        | 研究模板（Stage 1 組裝後主報告 §1-§8 格式）                                                                                                                     |
+| [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md)             | 研究 sub-agent 派發通用 prompt＋分部報告輸出模板＋anti-example 庫（Step 1.8-ter 契約的 copy-paste 載體，禁即興）                                                |
+| [WRITER-PROMPT.md](WRITER-PROMPT.md)                             | Stage 2 寫作 sub-agent 薄殼派發模板（v2.0 零 craft 複寫）：必讀四 canonical（含 graph.md）＋read-receipt 驗讀＋機械輸出契約＋anti-example 庫（禁即興、禁 skim） |
+| [QUALITY-CHECKLIST.md](../editorial/QUALITY-CHECKLIST.md)        | 驗證清單（Stage 3 逐項檢查）                                                                                                                                    |
+| [TERMINOLOGY.md](../editorial/TERMINOLOGY.md)                    | 用語規範（台灣在地用語標準）                                                                                                                                    |
+| [graph.md](../editorial/graph.md)                                | 視覺化編輯指南（型錄/模組語法/AI 可讀性）— Stage 2 視覺化思考 + Stage 4 viz-health                                                                              |
+| [FACTCHECK-PIPELINE.md](FACTCHECK-PIPELINE.md)                   | Stage 3 Step 3.3 觸發（事實查核完整 SOP）                                                                                                                       |
+| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)               | 中文 ship 後跨 pipeline 觸發（單篇翻譯 SOP）                                                                                                                    |
+| [SQUEEZE-MODELS-MAX-PIPELINE.md](SQUEEZE-MODELS-MAX-PIPELINE.md) | 中文 ship 後跨 pipeline 觸發（多語 batch sync 巴別塔）                                                                                                          |
 
 ---
 
@@ -448,7 +448,7 @@ Stage 0.6 觀點成型**當作 Fresh 在做**：從題材本身 + 一手研究�
 
 - Stage 2 的寫作輸入 = `reports/research/{slug}.md` **整份 report（§6 fact-pack ＋ §8 raw verbatim 全部讀）** + §觀點成型 + EDITORIAL.md。**隔離掉的是舊文 body + callout，不是 report。**
 - **Evolution mode：writer 寫到 staging 檔，永不 overwrite canonical（v7.5，2026-06-15 哲宇 callout）**——Write tool overwrite 既有檔**必須先 Read**，所以叫 writer「overwrite 舊文但別讀舊文」是自相矛盾、它被迫吃病毒。**改成**：writer 把成品 Write 到 **`reports/article-evolve/{slug}.md`**（全新檔、零感染面），**Stage 2.5 主 session 讀 staging ＋ 舊 canonical 比對後親手覆蓋** `knowledge/{cat}/{slug}.md`。
-- **首選**：spawn 一個 fresh writer agent（Step 1.8 既有 spawn 機制），**prompt 一律 copy [WRITER-PROMPT.md](WRITER-PROMPT.md) 通用模板填槽**（v7.11，禁即興手寫——即興＝每次規則不一、漏讀 EDITORIAL/pipeline＝飄移根因，哲宇 2026-07-12 callout）。模板內建兩層防飄移：**(A) read-receipt** — writer 動筆前先 quote §8 raw 的 3 個 texture + EDITORIAL 1 個 Before/After 範例 + spine 宣告，主 session 核對真偽，quote 不出來＝沒讀＝退回；**(B) 蒸餾 craft checklist** — EDITORIAL/pipeline 可執行紀律 inline 當 backstop。writer 讀**合成後單檔** research report（[Step 1.7.4](#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)，散落多檔＝漏讀）＋ EDITORIAL 全檔（含 Before/After 範例，不 skim）。⚠️ **反 pattern（v7.4，2026-06-15 哲宇 callout）：orchestrator 把 report 再摘要成精簡 fact-pack 塞進 prompt、又叫 writer 別讀 report ＝ 雙重失真，近期文章變爛的根因。**
+- **首選**：spawn 一個 fresh writer agent（Step 1.8 既有 spawn 機制），**prompt 一律 copy [WRITER-PROMPT.md](WRITER-PROMPT.md) 薄殼模板填槽**（v7.11，禁即興手寫——即興＝每次規則不一、漏讀 EDITORIAL/pipeline＝飄移根因，哲宇 2026-07-12 callout）。**薄殼三件事、craft 規則零複寫**（v2.0，「極致 thin shell 不要重複」）：(1) 指向必讀四份 canonical——**合成後單檔** research report（[Step 1.7.4](#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）＋ EDITORIAL 全檔＋本檔 Stage 2＋ **graph.md**（資料/對比/時序必評估視覺化——2026-07-12 茶文化 v1 零視覺化教訓）；(2) **read-receipt** — writer 動筆前 quote §8 texture ×3＋EDITORIAL 引例＋viz 模組宣告＋spine 宣告，主 session 逐項核對真偽，quote 不出來＝沒讀＝退回；(3) 機械輸出契約＋per-article 素材槽。⚠️ **反 pattern（v7.4，2026-06-15 哲宇 callout）：orchestrator 把 report 再摘要成精簡 fact-pack 塞進 prompt、又叫 writer 別讀 report ＝ 雙重失真，近期文章變爛的根因。**
 - **主 session 自寫時**：Stage 2 期間**不准重新打開舊文檔案**，但**必讀整份 research report（含 §8 raw verbatim）**。寫完跑下方 Step 3.2-bis backstop。
 
 #### Backstop 自檢句（Stage 3 hard gate，見 Step 3.2-bis）
