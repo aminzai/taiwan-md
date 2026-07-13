@@ -1,7 +1,68 @@
 {
-  "generatedAt": "2026-07-13T15:09:17.722Z",
+  "generatedAt": "2026-07-13T22:11:56.398Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "9d468101b6514ec74d8ab7698af4c58602e06011",
+      "date": "2026-07-14T05:19:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-14-051733-twmd-embeddings-nightly — bge-m3 第九夜 4945 vec 0 fail / PASS / 4a15873f1",
+      "articles": []
+    },
+    {
+      "hash": "4a15873f167b76e6ce8634de5b1b6883dd479284",
+      "date": "2026-07-14T05:17:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-14 05:17",
+      "articles": []
+    },
+    {
+      "hash": "2ae32d03a98b8d68a8f234da6a6e3a2d25f07f68",
+      "date": "2026-07-14T01:24:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-14-011941-twmd-babel-nightly — cascade 1/4 條撐 33 個 cell + 兩份子代自檢禮物",
+      "articles": []
+    },
+    {
+      "hash": "97bdb5bd45aec91d8ae5fa12b49ed747475918c9",
+      "date": "2026-07-14T01:19:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel-nightly: sync _translations.json 索引補齊 10 個新譯本",
+      "articles": []
+    },
+    {
+      "hash": "ab60ed2d6ff95e10a851bfc753544b59439c92ff",
+      "date": "2026-07-14T01:16:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel-nightly: 每日多語 sync 進 33 個 cell — 2026-07-14",
+      "articles": []
+    },
+    {
+      "hash": "17b63fe83eb8dcc7f71e9f02f73641dd6ee46fd5",
+      "date": "2026-07-13T23:21:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: Shopping Design 走投影階段重寫——面向巡禮 → 五步論證",
+      "articles": [
+        {
+          "url": "/culture/Shopping Design",
+          "name": "Shopping Design"
+        }
+      ]
+    },
+    {
+      "hash": "4a95da3daac57a6681e0363674b56754531b07b2",
+      "date": "2026-07-13T23:13:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-13-231049-twmd-data-refresh-pm — CF 404 15.3% vc=9 首度停止 monotonic + AI crawler 首度雙下探",
+      "articles": []
+    },
+    {
+      "hash": "9c4a78a3e743352b5d17b567eb12b53934abebf0",
+      "date": "2026-07-13T23:10:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh — 2026-07-13 pm",
+      "articles": []
+    },
     {
       "hash": "2e5df3cfebaf685d13c4160b7050f506bd89f2a3",
       "date": "2026-07-13T22:28:17+08:00",

@@ -1,6 +1,6 @@
 [
   {
-    "title": "Shopping Design：設計採買誌二十年，把設計從展場名詞變成一個日常動詞",
+    "title": "Shopping Design：教你採買設計的雜誌，最後要你分辨的是它自己",
     "slug": "Shopping-Design",
     "category": "culture",
     "subcategory": "設計與媒體",
@@ -9,7 +9,7 @@
     "lastVerified": "2026-07-13",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 7542,
+    "wordCount": 7152,
     "tagCount": 0,
     "tags": [],
     "translations": {
@@ -19,11 +19,11 @@
       "es": false,
       "fr": false
     },
-    "revision": 3,
-    "commitHash": "bc23e0af",
-    "commitSubject": "🧬 [semiont] diary: 兩隻代理停在同一道關卡上，我才自己去翻那幾頁——Shopping Design 成品驗證反芻 + relatedDiary 回扣",
-    "description": "2017 年 3 月，《Shopping Design》出到第一百期，封面又回到創刊號的白，主題從「白色設計」多了「採購」兩個字。從 2006 年黃威融把設計特刊做成月刊，到李惠貞談「有意識地生活」，再到 BEST100、Podcast 與 DesignBIZ 嘉年華，這本設計採買誌花二十年，把設計從展場的專有名詞，變成一個人挑杯子、逛哪家店、過什麼日子的動詞——它替你選，也替品牌賣，最後一次選擇留給你。",
-    "healthScore": 49,
+    "revision": 4,
+    "commitHash": "17b63fe8",
+    "commitSubject": "🧬 [semiont] rewrite: Shopping Design 走投影階段重寫——面向巡禮 → 五步論證",
+    "description": "2006 年創刊、第一期談白色的《Shopping Design》，二十年來把設計從展場名詞變成逛店選物的日常動詞。它真正教會台灣的，是「分辨」可以被練成一種能力——而它把這能力擴成年度百大名單、季刊、嘉年華，也擴到母公司同一張「雜誌出版＋廣告服務」的執照上。於是這本教你分辨的雜誌，最後要你分辨的，就是它自己。",
+    "healthScore": 52,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -244,11 +244,11 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "6f05295a",
@@ -361,7 +361,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -430,11 +430,11 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "a113ef0c",
@@ -29746,7 +29746,7 @@
     "lastVerified": "2026-07-13",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 8955,
+    "wordCount": 9453,
     "tagCount": 0,
     "tags": [],
     "translations": {
@@ -29761,7 +29761,7 @@
     "commitSubject": "",
     "description": "2026 年 5 月 7 日，西門捷運 6 號出口旁立起一格透明的盒子，全台第一座戶外負壓吸菸室，門一開，風往裡灌不往外跑。台北要當無菸城市，卻先在街頭蓋了給人抽菸的玻璃屋。從嚴道割掉一片肺葉的 1984，到室內二手菸壓到 3.2%、門外還有近半，這格盒子裝著一支合法的菸，和一座城市還沒談完的公共空間契約。",
     "healthScore": 40,
-    "qualityScore": 0,
+    "qualityScore": 4,
     "formatIssues": 0,
     "hasOverview": true,
     "hasReading": true,
@@ -30099,7 +30099,7 @@
       "en": true,
       "ja": false,
       "ko": false,
-      "es": false,
+      "es": true,
       "fr": false
     },
     "revision": 1,
@@ -30172,7 +30172,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false

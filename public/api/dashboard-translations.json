@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T15:09:23.500Z",
+  "lastUpdated": "2026-07-13T22:12:02.065Z",
   "languages": [
     "zh-TW",
     "en",
@@ -18,64 +18,64 @@
       "deficit": 0
     },
     "en": {
-      "total": 852,
-      "percentage": 99.5,
-      "fresh": 837,
-      "metadataStale": 1,
-      "stale": 14,
-      "missing": 4,
+      "total": 854,
+      "percentage": 99.8,
+      "fresh": 844,
+      "metadataStale": 0,
+      "stale": 10,
+      "missing": 2,
       "orphan": 0,
-      "deficit": 4,
-      "freshPct": 97.8,
-      "bodyFreshPct": 97.9
+      "deficit": 2,
+      "freshPct": 98.6,
+      "bodyFreshPct": 98.6
     },
     "ja": {
-      "total": 844,
-      "percentage": 98.6,
-      "fresh": 831,
-      "metadataStale": 1,
-      "stale": 12,
-      "missing": 12,
+      "total": 847,
+      "percentage": 98.9,
+      "fresh": 836,
+      "metadataStale": 0,
+      "stale": 11,
+      "missing": 9,
       "orphan": 0,
-      "deficit": 12,
-      "freshPct": 97.1,
-      "bodyFreshPct": 97.2
+      "deficit": 9,
+      "freshPct": 97.7,
+      "bodyFreshPct": 97.7
     },
     "ko": {
-      "total": 844,
-      "percentage": 98.6,
-      "fresh": 831,
-      "metadataStale": 1,
-      "stale": 12,
-      "missing": 12,
+      "total": 845,
+      "percentage": 98.7,
+      "fresh": 834,
+      "metadataStale": 0,
+      "stale": 11,
+      "missing": 11,
       "orphan": 0,
-      "deficit": 12,
-      "freshPct": 97.1,
-      "bodyFreshPct": 97.2
+      "deficit": 11,
+      "freshPct": 97.4,
+      "bodyFreshPct": 97.4
     },
     "es": {
-      "total": 844,
-      "percentage": 98.6,
-      "fresh": 831,
-      "metadataStale": 1,
-      "stale": 12,
-      "missing": 12,
+      "total": 846,
+      "percentage": 98.8,
+      "fresh": 835,
+      "metadataStale": 0,
+      "stale": 11,
+      "missing": 10,
       "orphan": 0,
-      "deficit": 12,
-      "freshPct": 97.1,
-      "bodyFreshPct": 97.2
+      "deficit": 10,
+      "freshPct": 97.5,
+      "bodyFreshPct": 97.5
     },
     "fr": {
-      "total": 844,
-      "percentage": 98.6,
-      "fresh": 830,
-      "metadataStale": 1,
-      "stale": 13,
-      "missing": 12,
+      "total": 846,
+      "percentage": 98.8,
+      "fresh": 834,
+      "metadataStale": 0,
+      "stale": 12,
+      "missing": 10,
       "orphan": 0,
-      "deficit": 12,
-      "freshPct": 97,
-      "bodyFreshPct": 97.1
+      "deficit": 10,
+      "freshPct": 97.4,
+      "bodyFreshPct": 97.4
     }
   },
   "matrix": {
@@ -196,39 +196,39 @@
     "economy": {
       "zh-TW": 56,
       "en": {
-        "count": 55,
-        "fresh": 53,
+        "count": 56,
+        "fresh": 54,
         "stale": 2,
         "missing": 0,
-        "deficit": 1
+        "deficit": 0
       },
       "ja": {
-        "count": 55,
-        "fresh": 54,
+        "count": 56,
+        "fresh": 55,
         "stale": 1,
         "missing": 0,
-        "deficit": 1
+        "deficit": 0
       },
       "ko": {
-        "count": 55,
-        "fresh": 54,
+        "count": 56,
+        "fresh": 55,
         "stale": 1,
         "missing": 0,
-        "deficit": 1
+        "deficit": 0
       },
       "es": {
-        "count": 55,
-        "fresh": 54,
+        "count": 56,
+        "fresh": 55,
         "stale": 1,
         "missing": 0,
-        "deficit": 1
+        "deficit": 0
       },
       "fr": {
-        "count": 55,
-        "fresh": 53,
+        "count": 56,
+        "fresh": 54,
         "stale": 2,
         "missing": 0,
-        "deficit": 1
+        "deficit": 0
       }
     },
     "food": {
@@ -349,36 +349,36 @@
       "zh-TW": 30,
       "en": {
         "count": 30,
-        "fresh": 29,
-        "stale": 1,
+        "fresh": 30,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 30,
-        "fresh": 29,
-        "stale": 1,
+        "fresh": 30,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 30,
-        "fresh": 29,
-        "stale": 1,
+        "fresh": 30,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 30,
-        "fresh": 29,
-        "stale": 1,
+        "fresh": 30,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 30,
-        "fresh": 29,
-        "stale": 1,
+        "fresh": 30,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       }
@@ -387,17 +387,17 @@
       "zh-TW": 37,
       "en": {
         "count": 37,
-        "fresh": 36,
-        "stale": 1,
+        "fresh": 37,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 35,
-        "fresh": 35,
+        "count": 36,
+        "fresh": 36,
         "stale": 0,
-        "missing": 2,
-        "deficit": 2
+        "missing": 1,
+        "deficit": 1
       },
       "ko": {
         "count": 35,
@@ -462,39 +462,39 @@
     "people": {
       "zh-TW": 239,
       "en": {
-        "count": 237,
-        "fresh": 232,
-        "stale": 5,
-        "missing": 2,
-        "deficit": 2
+        "count": 239,
+        "fresh": 236,
+        "stale": 3,
+        "missing": 0,
+        "deficit": 0
       },
       "ja": {
-        "count": 235,
-        "fresh": 230,
+        "count": 236,
+        "fresh": 231,
         "stale": 5,
-        "missing": 4,
-        "deficit": 4
+        "missing": 3,
+        "deficit": 3
       },
       "ko": {
-        "count": 235,
-        "fresh": 230,
+        "count": 236,
+        "fresh": 231,
         "stale": 5,
-        "missing": 4,
-        "deficit": 4
+        "missing": 3,
+        "deficit": 3
       },
       "es": {
-        "count": 235,
-        "fresh": 230,
+        "count": 236,
+        "fresh": 231,
         "stale": 5,
-        "missing": 4,
-        "deficit": 4
+        "missing": 3,
+        "deficit": 3
       },
       "fr": {
-        "count": 235,
-        "fresh": 231,
+        "count": 237,
+        "fresh": 233,
         "stale": 4,
-        "missing": 4,
-        "deficit": 4
+        "missing": 2,
+        "deficit": 2
       }
     },
     "politics": {
@@ -583,11 +583,11 @@
         "deficit": 0
       },
       "ja": {
-        "count": 54,
-        "fresh": 54,
+        "count": 55,
+        "fresh": 55,
         "stale": 0,
-        "missing": 4,
-        "deficit": 4
+        "missing": 3,
+        "deficit": 3
       },
       "ko": {
         "count": 54,
@@ -597,11 +597,11 @@
         "deficit": 4
       },
       "es": {
-        "count": 54,
-        "fresh": 54,
+        "count": 55,
+        "fresh": 55,
         "stale": 0,
-        "missing": 4,
-        "deficit": 4
+        "missing": 3,
+        "deficit": 3
       },
       "fr": {
         "count": 54,
@@ -614,31 +614,25 @@
   },
   "missing": {
     "en": [
-      "Culture/Shopping Design：設計採買誌二十年，把設計從展場名詞變成一個日常動詞.md",
-      "People/杜潘芳格：三種語言，一場平安戲.md",
-      "People/史明：用一間餃子店，養了四十年的台灣革命.md",
+      "Culture/Shopping Design：教你採買設計的雜誌，最後要你分辨的是它自己.md",
       "Society/台北吸菸室：無菸城市裡，那格會呼吸的玻璃盒子.md"
     ],
     "ja": [
-      "Culture/Shopping Design：設計採買誌二十年，把設計從展場名詞變成一個日常動詞.md",
+      "Culture/Shopping Design：教你採買設計的雜誌，最後要你分辨的是它自己.md",
       "People/杜潘芳格：三種語言，一場平安戲.md",
-      "Music/大港開唱：高雄港邊長出來的台灣音樂祭.md",
       "Music/閃靈：把台灣歷史唱進黑金屬的樂團.md",
-      "People/史明：用一間餃子店，養了四十年的台灣革命.md",
       "People/大支：從台南練功房走出的台語饒舌校長.md",
       "People/林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人.md",
       "Society/台北吸菸室：無菸城市裡，那格會呼吸的玻璃盒子.md",
       "Technology/AI 供應鏈海外設廠：台灣能力被世界請出去.md",
       "Technology/AI 硬體供應鏈：台灣把雲端變成機器的地方.md",
-      "Technology/半導體用水與台灣水資源：晶圓廠旁邊的水庫.md",
-      "Technology/台灣的電力與半導體：護國神山的電力帳單.md"
+      "Technology/半導體用水與台灣水資源：晶圓廠旁邊的水庫.md"
     ],
     "ko": [
-      "Culture/Shopping Design：設計採買誌二十年，把設計從展場名詞變成一個日常動詞.md",
+      "Culture/Shopping Design：教你採買設計的雜誌，最後要你分辨的是它自己.md",
       "People/杜潘芳格：三種語言，一場平安戲.md",
       "Music/大港開唱：高雄港邊長出來的台灣音樂祭.md",
       "Music/閃靈：把台灣歷史唱進黑金屬的樂團.md",
-      "People/史明：用一間餃子店，養了四十年的台灣革命.md",
       "People/大支：從台南練功房走出的台語饒舌校長.md",
       "People/林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人.md",
       "Society/台北吸菸室：無菸城市裡，那格會呼吸的玻璃盒子.md",
@@ -648,25 +642,21 @@
       "Technology/台灣的電力與半導體：護國神山的電力帳單.md"
     ],
     "es": [
-      "Culture/Shopping Design：設計採買誌二十年，把設計從展場名詞變成一個日常動詞.md",
+      "Culture/Shopping Design：教你採買設計的雜誌，最後要你分辨的是它自己.md",
       "People/杜潘芳格：三種語言，一場平安戲.md",
       "Music/大港開唱：高雄港邊長出來的台灣音樂祭.md",
       "Music/閃靈：把台灣歷史唱進黑金屬的樂團.md",
-      "People/史明：用一間餃子店，養了四十年的台灣革命.md",
       "People/大支：從台南練功房走出的台語饒舌校長.md",
       "People/林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人.md",
       "Society/台北吸菸室：無菸城市裡，那格會呼吸的玻璃盒子.md",
       "Technology/AI 供應鏈海外設廠：台灣能力被世界請出去.md",
       "Technology/AI 硬體供應鏈：台灣把雲端變成機器的地方.md",
-      "Technology/半導體用水與台灣水資源：晶圓廠旁邊的水庫.md",
       "Technology/台灣的電力與半導體：護國神山的電力帳單.md"
     ],
     "fr": [
-      "Culture/Shopping Design：設計採買誌二十年，把設計從展場名詞變成一個日常動詞.md",
-      "People/杜潘芳格：三種語言，一場平安戲.md",
+      "Culture/Shopping Design：教你採買設計的雜誌，最後要你分辨的是它自己.md",
       "Music/大港開唱：高雄港邊長出來的台灣音樂祭.md",
       "Music/閃靈：把台灣歷史唱進黑金屬的樂團.md",
-      "People/史明：用一間餃子店，養了四十年的台灣革命.md",
       "People/大支：從台南練功房走出的台語饒舌校長.md",
       "People/林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人.md",
       "Society/台北吸菸室：無菸城市裡，那格會呼吸的玻璃盒子.md",

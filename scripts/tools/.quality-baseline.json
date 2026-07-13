@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-13T15:09:16Z",
+  "timestamp": "2026-07-13T22:11:55Z",
   "total": 856,
   "flagged": 339,
   "files": [
@@ -473,6 +473,11 @@
       "file": "society/為台灣而教TFT.md",
       "score": 4,
       "reasons": "塑膠句3個; 破折號15個"
+    },
+    {
+      "file": "society/台北吸菸室.md",
+      "score": 4,
+      "reasons": "空洞詞16個; 未人工審核"
     },
     {
       "file": "society/台灣與核能的討論.md",
@@ -1588,11 +1593,6 @@
       "file": "culture/台灣外來語與語言接觸.md",
       "score": 12,
       "reasons": "年份僅1個; 未人工審核; 塑膠句9個; 破折號12個; 後段清單堆砌37%"
-    },
-    {
-      "file": "culture/Shopping Design.md",
-      "score": 4,
-      "reasons": "未人工審核; 塑膠句2個; 破折號12個"
     },
     {
       "file": "culture/族群（閩南客家原住民外省新住民）.md",

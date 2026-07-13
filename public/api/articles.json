@@ -1471,6 +1471,17 @@
     "path": "Nature/大安溪倚天劍.md"
   },
   {
+    "title": "大港開唱：高雄港辺から生まれた台湾音楽祭",
+    "description": "大港開唱は2006年に高雄港辺で創設された台湾の大型屋外音楽祭で、野台開唱チーム、閃靈メンバー、TRA Music のキュレーション経験を基に、南台湾のバンド、台湾語ライブ、国際カンパニー、NGO 議題村、港湾の風景を同一空間に収めました。高雄港辺は台湾のバンド文化、都市認識、公共課題が交差する重要な現場となっています。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/music/megaport-festival",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ja/Music/megaport-festival.md"
+  },
+  {
     "title": "大港開唱：高雄港邊長出來的台灣音樂祭",
     "description": "大港開唱是 2006 年創立於高雄港邊的台灣大型戶外音樂祭，從野台開唱團隊、閃靈成員與 TRA Music 的策展經驗出發，將南台灣樂團、台語現場、國際卡司、NGO 議題村與港都地景放進同一個場域。它讓高雄港邊成為台灣聽團文化、城市認同與公共議題彼此交會的重要現場。",
     "category": "Music",
@@ -2855,7 +2866,7 @@
     "category": "Society",
     "tags": [],
     "url": "https://taiwan.md/society/%E5%8F%B0%E5%8C%97%E5%90%B8%E8%8F%B8%E5%AE%A4",
-    "readingTime": 50,
+    "readingTime": 54,
     "featured": false,
     "date": "2026-07-13",
     "path": "Society/台北吸菸室.md"
@@ -5737,6 +5748,17 @@
     "path": "ja/History/taiwan-railway-history-en-orphan.md"
   },
   {
+    "title": "台湾の電力と半導体：護国神山の電力請求書",
+    "description": "台湾の半導体が国際的な交渉力を持つのは、非常に具体的な電力システムに基盤を置いているからです。先進的なウェーハ工場、EUV露光、先進パッケージ、AIサーバーのテスト、データセンターはすべて、安定で中断が少なく、拡張可能な電力供給を必要とします。本稿は半導体の電力使用を単なる環境問題として訴えるのではなく、サプライチェーンの駆け引きに戻します：世界は台湾製のAIチップを必要とし、台湾は電力コスト、炭素排出圧力、エネルギー安全リスクを誰が負担するかに答えなければなりません。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/technology/taiwan-electricity-and-semiconductors",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "ja/Technology/taiwan-electricity-and-semiconductors.md"
+  },
+  {
     "title": "台湾の電子音楽とパーティー文化：地下 Rave から国際舞台へ",
     "description": "1990年代の Rave パーティー文化から Road to Ultra フェスティバルまで、台湾の電子音楽がいかに地下から主流へと発展し、国際的な DJ や独立系電子レーベルを育んできたのか",
     "category": "ja",
@@ -6118,15 +6140,7 @@
     "title": "台湾のコンビニエンスストア文化",
     "description": "世界トップクラスの密度を誇るコンビニ王国、セブンイレブンとファミリーマートのローカライズされたイノベーションが現代のライフスタイルを再定義する",
     "category": "ja",
-    "tags": [
-      "生活",
-      "コンビニエンスストア",
-      "セブンイレブン",
-      "ファミリーマート",
-      "デリファクト",
-      "コンビニ文化",
-      "現代生活"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/lifestyle/convenience-store-culture",
     "readingTime": 26,
     "featured": true,
@@ -10496,6 +10510,17 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "Culture/台灣YouTuber產業與文化.md"
+  },
+  {
+    "title": "史明：一つの餃子店で四十年の台湾革命を支えた",
+    "description": "史明（本名施朝暉）は中国で中共の地下情報員を務めたが、土改の大量殺戮を目の当たりにして幻滅し、台湾に戻って蔣介石暗殺を密謀した。計画が失敗し日本へ密航した後、東京・池袋に「新珍味」という麺店を開き、昼は餃子を販売し、夜は台湾史を書き続けた。この店の収入で四十年にわたる台湾独立運動を支え、また台湾民族意識を喚起する『台湾人四百年史』を執筆した。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/su-beng",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ja/People/su-beng.md"
   },
   {
     "title": "史明：用一間餃子店，養了四十年的台灣革命",
@@ -24203,6 +24228,17 @@
     "path": "fr/Economy/taiwan-agriculture-and-rural-revitalization.md"
   },
   {
+    "title": "Agua para semiconductores y recursos hídricos de Taiwán: el embalse junto a la fábrica de obleas",
+    "description": "La fabricación de chips requiere agua ultrapura, pero el agua de Taiwán no solo está en las tuberías de las fábricas; también está en los embalses, la lluvia, las sequías, el riego agrícola, el agua reciclada y la gestión local. Este artículo no reduce el consumo de agua de los semiconductores a un conflicto de “TSMC acapara agua”, sino que explica cómo los procesos avanzados enlazan la hidrología insular de Taiwán, la gobernanza pública, la infraestructura de agua reciclada y la cadena de suministro global, devolviendo la alta tecnología a los embalses, los campos y la confianza local.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/technology/semiconductor-water-use-and-taiwan-water-resources",
+    "readingTime": 75,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "es/Technology/semiconductor-water-use-and-taiwan-water-resources.md"
+  },
+  {
     "title": "Aguas termales y energía geotérmica de Taiwán",
     "description": "De la fallida planta geotérmica de hace 30 años a la hokutolita, el único mineral del mundo nombrado en honor a Taiwán: cómo una isla transformó el fuego subterráneo en sanación y energía verde",
     "category": "es",
@@ -30293,6 +30329,28 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/du-congming-founder-of-modern-medicine-in-taiwan.md"
+  },
+  {
+    "title": "Du Pan Fang‑ge : trois langues, une pièce de paix",
+    "description": "Poétesse Hakka d’une génération transculturelle, descendante d’une famille victime du massacre du 28 février 1947. « Pi‑an‑hsi » transforme le rituel de remerciement en un témoignage de survie sous la terreur blanche — pour ceux dont le régime a volé la langue, la phrase la plus cruelle en langue maternelle est écrite pour leurs proches.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/tu-pan-fangke",
+    "readingTime": 90,
+    "featured": false,
+    "date": "2026-07-12",
+    "path": "fr/People/tu-pan-fangke.md"
+  },
+  {
+    "title": "Du Pan Fangge: Three Languages, One Peace Drama",
+    "description": "A cross-language generation Hakka female poet and a family member of the 228 Zhang Qilang lineage. <Peace Drama> turns folk deity thanks into a survival accomplice record under the White Terror—those whose language was taken by the regime write the harshest line in their mother tongue for their own people.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/tu-pan-fangke",
+    "readingTime": 98,
+    "featured": false,
+    "date": "2026-07-12",
+    "path": "en/People/tu-pan-fangke.md"
   },
   {
     "title": "Du sous-sol au palais présidentiel : l'histoire d'autonomisation de Nymphia Wind et des drag queens taïwanaises",
@@ -37258,17 +37316,9 @@
     "title": "La cultura de las tiendas de conveniencia en Taiwán",
     "description": "Un reino de tiendas de conveniencia con una de las mayores densidades del mundo: la innovación local de 7-Eleven y FamilyMart redefine el estilo de vida moderno",
     "category": "es",
-    "tags": [
-      "vida cotidiana",
-      "tiendas de conveniencia",
-      "7-Eleven",
-      "FamilyMart",
-      "comida fresca",
-      "cultura de supermercados",
-      "vida moderna"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/lifestyle/convenience-store-culture",
-    "readingTime": 74,
+    "readingTime": 75,
     "featured": true,
     "date": "2026-03-19",
     "path": "es/Lifestyle/convenience-store-culture.md"
@@ -37741,17 +37791,9 @@
     "title": "La culture des supérettes à Taïwan",
     "description": "Un royaume de la supérette parmi les plus denses au monde : l'innovation locale de 7-Eleven et FamilyMart a redéfini le mode de vie moderne.",
     "category": "fr",
-    "tags": [
-      "vie quotidienne",
-      "supérette",
-      "7-Eleven",
-      "FamilyMart",
-      "frais préparés",
-      "culture de la supérette",
-      "vie moderne"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/lifestyle/convenience-store-culture",
-    "readingTime": 69,
+    "readingTime": 70,
     "featured": true,
     "date": "2026-03-19",
     "path": "fr/Lifestyle/convenience-store-culture.md"
@@ -47719,12 +47761,12 @@
     "path": "es/Geography/shilin.md"
   },
   {
-    "title": "Shopping Design：設計採買誌二十年，把設計從展場名詞變成一個日常動詞",
-    "description": "2017 年 3 月，《Shopping Design》出到第一百期，封面又回到創刊號的白，主題從「白色設計」多了「採購」兩個字。從 2006 年黃威融把設計特刊做成月刊，到李惠貞談「有意識地生活」，再到 BEST100、Podcast 與 DesignBIZ 嘉年華，這本設計採買誌花二十年，把設計從展場的專有名詞，變成一個人挑杯子、逛哪家店、過什麼日子的動詞——它替你選，也替品牌賣，最後一次選擇留給你。",
+    "title": "Shopping Design：教你採買設計的雜誌，最後要你分辨的是它自己",
+    "description": "2006 年創刊、第一期談白色的《Shopping Design》，二十年來把設計從展場名詞變成逛店選物的日常動詞。它真正教會台灣的，是「分辨」可以被練成一種能力——而它把這能力擴成年度百大名單、季刊、嘉年華，也擴到母公司同一張「雜誌出版＋廣告服務」的執照上。於是這本教你分辨的雜誌，最後要你分辨的，就是它自己。",
     "category": "Culture",
     "tags": [],
     "url": "https://taiwan.md/culture/Shopping%20Design",
-    "readingTime": 49,
+    "readingTime": 45,
     "featured": false,
     "date": "2026-07-13",
     "path": "Culture/Shopping Design.md"
@@ -48451,6 +48493,39 @@
     "featured": false,
     "date": "2026-04-26",
     "path": "en/Food/stinky-tofu.md"
+  },
+  {
+    "title": "Su Beng : comment un restaurant de raviolis a nourri quarante ans de révolution à Taïwan",
+    "description": "Su Beng, de son vrai nom Shi Chao-hui, a travaillé comme agent secret pour le Parti communiste chinois en Chine, mais, après avoir été témoin des massacres liés à la réforme agraire, il s’est désillusionné, est retourné à Taïwan pour préparer l’assassinat de Chiang Kai-shek, a échoué et a fui au Japon. À Ikebukuro, Tokyo, il a ouvert un restaurant de nouilles appelé « Shin Chinmi », vendant des raviolis le jour et écrivant l’histoire de Taïwan la nuit ; les revenus de ce commerce ont financé quarante ans de mouvement pour l’indépendance de Taïwan et ont donné naissance à l’ouvrage qui a éveillé la conscience nationale taïwanaise, « Histoire de Taïwan en quatre cents ans ».",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/su-beng",
+    "readingTime": 84,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "fr/People/su-beng.md"
+  },
+  {
+    "title": "Su Beng: Con una tienda de dumplings, alimentó la revolución de Taiwán durante cuarenta años",
+    "description": "Su Beng, cuyo nombre real es Shi Zhaohui, trabajó como agente clandestino para el Partido Comunista en China, pero quedó desilusionado tras presenciar masacres durante la reforma agraria. Regresó a Taiwán y conspiró para asesinar a Chiang Kai-shek; tras el fracaso, se escapó a Japón. En Ikebukuro, Tokio, abrió un restaurante llamado «Shin Chinmi», donde vendía dumplings de día y escribía historia de Taiwán de noche. Con los ingresos de ese local financió el movimiento independentista de Taiwán durante cuarenta años y escribió la obra que despertó la conciencia nacionalista, «Historia de los taiwaneses en cuatrocientos años».",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/su-beng",
+    "readingTime": 86,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "es/People/su-beng.md"
+  },
+  {
+    "title": "Su Beng: How a Dumpling Shop Sustained Four Decades of Taiwan's Revolution",
+    "description": "Su Beng, whose birth name was Shih Chao-hui, once worked as an underground intelligence agent for the Chinese Communist Party in China. After witnessing the massacres of land‑reform campaigns, he became disillusioned, returned to Taiwan to plot the assassination of Chiang Kai-shek, and fled to Japan when the plot failed. In Tokyo’s Ikebukuro he opened a noodle shop called “Shin Chinmi,” selling dumplings by day and writing Taiwanese history by night. The shop’s income funded the Taiwan independence movement for forty years and produced the nation‑awakening work *Four Hundred Years of Taiwan History*.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/su-beng",
+    "readingTime": 83,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "en/People/su-beng.md"
   },
   {
     "title": "Su Chiao-hui : dans l'ombre du « Chong Chong Chong », la commissaire qui suture New Taipei par le droit et les détails",
@@ -50684,15 +50759,7 @@
     "title": "Taiwan's Convenience Store Culture",
     "description": "A convenience-store kingdom with one of the world's highest densities, where 7-Eleven and FamilyMart's localized innovations have redefined modern lifestyles",
     "category": "en",
-    "tags": [
-      "Life",
-      "Convenience Stores",
-      "7-Eleven",
-      "FamilyMart",
-      "Fresh Food",
-      "Convenience Store Culture",
-      "Modern Life"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/lifestyle/convenience-store-culture",
     "readingTime": 64,
     "featured": true,
@@ -59788,15 +59855,7 @@
     "title": "대만 편의점 문화",
     "description": "밀도 세계 최상위권의 편의점 왕국, 세븐일레븐과 패밀리마트의 현지화 혁신이 현대 생활 방식을 재정의하다",
     "category": "ko",
-    "tags": [
-      "생활",
-      "편의점",
-      "세븐일레븐",
-      "패밀리마트",
-      "신선식품",
-      "편의점 문화",
-      "현대 생활"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/lifestyle/convenience-store-culture",
     "readingTime": 28,
     "featured": true,
@@ -62633,6 +62692,17 @@
     "featured": false,
     "date": "2026-04-30",
     "path": "ko/People/sun-yun-suan.md"
+  },
+  {
+    "title": "수벙: 한 개의 만두 가게로 40년간 타이완 혁명을 양육하다",
+    "description": "수벙(본명 시초회)은 중국에서 중공을 위한 지하 정보원을 했으나 토지 개혁 살육을 직접 목격하고 환멸을 느껴 타이완으로 돌아와 장제스를 암살하려다 실패하고 일본으로 밀입국했다. 그는 도쿄 이케부쿠로에 '신진미'라는 면가게를 열어 낮에는 만두를 팔고 밤에는 타이완 역사를 기록했으며, 이 가게 수입으로 40년간 타이완 독립운동을 지원하고 타이완인 400년사라는 타이완 민족 의식을 일깨우는 저서를 집필했다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/su-beng",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ko/People/su-beng.md"
   },
   {
     "title": "수정창: 미리섬 변호사에서 「총총총」의 전구체 거까지",
