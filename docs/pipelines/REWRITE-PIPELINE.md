@@ -3,9 +3,9 @@ title: 'REWRITE-PIPELINE'
 description: '文章改寫主流程 canonical — 6 stage 線性 (Stage 0 觀點 + 1-5 取材/寫/驗/形/連) / 模式判定在 Stage 0 內部分支 / Step N.M 編號 / heading 階層 H1-H4 / 翻譯收斂為 pointer 到巴別塔 (v6.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v7.11'
-last_updated: 2026-07-12
-last_session: '2026-07-12-135710-twmd-tea-panorama（v7.10 Step 1.8-ter 研究 sub-agent 輸出契約 + 溯源率 gate；v7.11 Step 1.7.4 研究合成單檔鐵律 + WRITER-PROMPT.md 寫作模板 read-receipt 防飄移）'
+current_version: 'v8.0'
+last_updated: 2026-07-13
+last_session: '2026-07-13-214351-manual（v8.0 新增 Step 2.0 投影藍圖——研究 → 投影邏輯 → 文章 的中間層 + PROJECTION.md canonical + reports/article-projection/ 專存 + HARD GATE 5 題；根治「每 section 單獨完整、接起來面向巡禮」病，哲宇×陳睨 callout）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -21,6 +21,7 @@ upstream_canonical:
   - '../semiont/MANIFESTO.md'
   - '../semiont/DNA.md'
   - '../editorial/EDITORIAL.md'
+  - '../editorial/PROJECTION.md'
 ---
 
 # REWRITE-PIPELINE.md — 文章改寫主流程 v7.0
@@ -62,7 +63,16 @@ upstream_canonical:
 │            └── Step 1.9 媒體素材研究 🎬 (HARD GATE)                      │
 │              ↳ Hard gate: 報告落檔 / 媒體三表                            │
 │                                                                          │
-│   Stage 2: 寫 ──→ 8 steps                                                │
+│   ── 投影 (Projection) ── 研究 → 投影邏輯 → 文章 的中間層 ⭐ v8.0 ──     │
+│   Step 2.0: 投影藍圖 ─→ 論點 + 骨架 + 減法 + echo map 🎬 (HARD GATE)     │
+│            ├── 論點（有張力、要被賺到，非摘要）                          │
+│            ├── 骨架（動作序列，過 shuffle test，非面向巡禮）             │
+│            ├── 每 section 雙重職責（局部承載 + 全局功能 + 扣回主軸）     │
+│            └── 減法（明列砍什麼）+ echo map（每段押韻主軸錨）            │
+│              ↳ Hard gate: 藍圖落檔 reports/article-projection/ + 5 題    │
+│              ↳ canonical: docs/editorial/PROJECTION.md                   │
+│                                                                          │
+│   Stage 2: 寫 ──→ 8 steps（照投影藍圖執行，不重排結構）                  │
 │            ├── Step 2.1-2.6 結尾先行 → 開場 → 小標題 → 正文 → 延伸      │
 │            ├── Step 2.7 7 條自檢（含 Title 三明治 🥪 + 媒體 spine 🎬）  │
 │            └── Step 2.8 富文本 + footnote 密度                           │
@@ -125,6 +135,7 @@ upstream_canonical:
 | **研究報告 SSOT health** 🔬             | Stage 1 終 | **所有 depth**                                       | `research-report-health.py --tier=depth`（distinct≥25 / en≠0 / 一手≠0 / 搜尋日誌 / 信度三層 / **v2 §8 有效密度 ≥120 + ephemeral pointer=0**；v2.1 疑慮通知層：每條 fail/warn 附為什麼+思考方向）                                                                                                                                                                   | **不進 Stage 2**           |
 | 媒體授權矩陣三表                        | Stage 1 終 | 所有 article（**含 EVOLVE**）                        | manual append research 檔末尾 + ls public/article-images/{cat}/                                                                                                                                                                                                                                                                                                    | 不進 Stage 2               |
 | **深度媒體掃描協議** 🔍🎬               | Stage 1 終 | **所有 depth（含 EVOLVE）**                          | [Step 1.9.0](#step-190-深度媒體掃描協議hardv68-)：Chrome MCP rendered-DOM 圖掃（curl/WebFetch 對 JS-CDN 失效）+ YouTube 官方頻道影片掃；no-media 結論前必跑，落 §6 negative finding                                                                                                                                                                                | **不進 Stage 2**           |
+| **投影藍圖** 📐                         | Stage 2 始 | **所有 depth**                                       | [Step 2.0](#step-20-投影藍圖v80-新增--研究--投影邏輯--文章-hard-gate)：落檔 `reports/article-projection/{slug}.md`，過 5 題（論點非摘要 / 骨架過 shuffle test / 每 section 有全局功能 / 減法非空 / echo map 覆蓋全篇）。canonical [PROJECTION.md](../editorial/PROJECTION.md)                                                                                      | **不派寫手**               |
 | 五指 + 結構 + 塑膠 + 算術               | Stage 3    | 所有 article                                         | quality-scan + manual                                                                                                                                                                                                                                                                                                                                              | 不 commit                  |
 | 事實鐵三角(算術/單位/引語)              | Stage 3    | 含金額/數字/引語                                     | python algebra + Ctrl-F                                                                                                                                                                                                                                                                                                                                            | 不 commit                  |
 | FACTCHECK Quick/Full Mode               | Stage 3    | 所有 article / A 級                                  | FACTCHECK-PIPELINE                                                                                                                                                                                                                                                                                                                                                 | 不進 Stage 4               |
@@ -194,7 +205,8 @@ upstream_canonical:
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **本檔**                                                         | 6 stage 線性主流程（單檔，含觀點成型 + 模式判定 + 媒體生命週期 + cron）                                                                                         |
 | [RESEARCH.md](../editorial/RESEARCH.md)                          | 研究方法論 SSOT（怎麼搜、怎麼判斷、怎麼避坑）                                                                                                                   |
-| [EDITORIAL.md](../editorial/EDITORIAL.md)                        | 品質基因 SSOT（好文章長什麼樣、風格、禁止事項）                                                                                                                 |
+| [PROJECTION.md](../editorial/PROJECTION.md)                      | **投影方法論 SSOT（Step 2.0）**：研究 → 論點 + 骨架 + 減法 → 藍圖（宏觀結構，抗面向巡禮）                                                                       |
+| [EDITORIAL.md](../editorial/EDITORIAL.md)                        | 品質基因 SSOT（好文章長什麼樣、風格、禁止事項）— 句子層 craft（微觀）                                                                                           |
 | [CITATION-GUIDE.md](../editorial/CITATION-GUIDE.md)              | 引用規範（腳註格式、密度標準、來源品質）                                                                                                                        |
 | [RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md)        | 研究模板（Stage 1 組裝後主報告 §1-§8 格式）                                                                                                                     |
 | [RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md)             | 研究 sub-agent 派發通用 prompt＋分部報告輸出模板＋anti-example 庫（Step 1.8-ter 契約的 copy-paste 載體，禁即興）                                                |
@@ -223,6 +235,7 @@ upstream_canonical:
 | **0.6 觀點成型**                                       | 1 sub-agent                                                | **Opus**                                                      | 觀點是最高判斷（這次失敗根因就是觀點被投毒）；探索搜尋加倍（≤ 10-15）                                                                                      | callout case：blind to errata（不給 callout / 勘誤 / 舊 §觀點成型）                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **1.9.7 persona 讀者缺口稽核**（v7.7 從 Stage 0 搬來） | 4 個 parallel sub-agent（4 軸各 5 persona）                | **Sonnet**                                                    | 研究後 gap-audit：20 路讀者看完研究報告「還想知道什麼、哪個面向沒 cover」→ 增補 + 反向閥門（per [REFLEXES #42](../semiont/REFLEXES.md) 平行不 sequential） | **給題目 brief + 研究報告 SSOT + 已成形立體觀點**（mode=gap-audit，非冷 brief）——補洞不定調                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **1 研究深挖**                                         | N 個 parallel sub-agent（按子領域切，每 agent 分搜尋配額） | **Sonnet**（breadth + extract；contested atom escalate Opus） | falsification-first；全篇 ≥ 80 次 + 4 來源配額（中≥40/英≥20/一手≥15/反方≥5）；結構化 verification table 落報告                                             | **各 agent 回報完整搜尋軌跡 + raw findings（不自己摘要）；orchestrator 收到每個 agent 回報（async 模式＝task-notification `<result>`）的第一個動作 = verbatim 原封落檔（append report §8 或 repo 內 sibling raw 檔），才准開始合成 §6 clean fact-pack（疊加層，不替換 raw）。禁 aggregate-on-receive（收到就順手壓縮 = 鐵律 8 病）；禁存 scratchpad / /tmp（那是倒數計時的刪除佇列，不是落檔）**                                                                                                                                                                |
+| **2.0 投影藍圖**（v8.0 新增）                          | 主 session（不派給寫手）                                   | **Opus orchestrator**                                         | 論點 + 骨架是最高判斷；桌上有整堆研究才設計得出論證（非面向巡禮）。過 shuffle / echo / 減法 5 題 gate 才准派寫手                                           | 讀合成後 research report 全份，產出 `reports/article-projection/{slug}.md`（論點 / 骨架 / 每 section 雙重職責 / 減法 / echo map / 審定，per [PROJECTION.md](../editorial/PROJECTION.md)）。**這份藍圖是寫手的主要規格，research report 是材料來源。**                                                                                                                                                                                                                                                                                                           |
 | **2 寫正文**                                           | 1 個 **fresh** sub-agent                                   | **Opus**                                                      | 寫作 craft 最高判斷；fresh context 才乾淨                                                                                                                  | **明確要求 writer 先 Read 整份 research report（§6 fact-pack ＋ §8 raw verbatim 全部）+ §觀點 + EDITORIAL + pipeline**；隔離的是**舊文 prose / callout / orchestrator 累積 context**，不是 report。⚠️ **禁止只貼 orchestrator 摘要的精簡 fact-pack 又叫 writer 別讀 report**（摘要漏 raw texture → 文章變爛）。**Evolution mode：writer 寫到 staging 檔 `reports/article-evolve/{slug}.md`，不 overwrite canonical**（Write overwrite 既有檔需先 Read ＝ 強迫 writer 讀舊文病毒）；主 session Stage 2.5 比對舊 vs 新才覆蓋 canonical（2026-06-15 哲宇 callout） |
 | **2.5 比對覆蓋**                                       | 主 session                                                 | **Opus orchestrator**                                         | Evolution mode only：確認新版沒丟舊文有價值素材且確實更好，再覆蓋                                                                                          | 讀 staging 新版 ＋ 舊 canonical 做 diff，主 session 親手覆蓋 `knowledge/{cat}/{slug}.md`                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **3.5 查證**                                           | M 個 parallel verifier ＋ 主 session                       | **Sonnet**（查證機械可查、fan-out 便宜）                      | 每 atom 對一手 Ctrl-F，adversarial（prompted to falsify）；高風險 atom（引語/歸屬/獎項屆次）≥ 2 verifier                                                   | 主 session（Opus orchestrator）跑 deterministic gate（article-health）＋ 最終 spot-check                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -1344,7 +1357,26 @@ Stage 1 結束時 deliverable：
 
 **視覺化必讀**（含資料 / 對比 / 時序的文章）：`cat docs/editorial/graph.md`（型錄 + 模組語法 + AI 可讀性 + 檢查清單）。
 
-### Step 2.0: 視覺化思考（v6.8 新增）💭📊
+### Step 2.0: 投影藍圖（v8.0 新增）📐 —— 研究 → 投影邏輯 → 文章 (HARD GATE)
+
+> **canonical [PROJECTION.md](../editorial/PROJECTION.md)（寫本步前完整讀）。** 誕生：2026-07-13 哲宇跟陳睨聊後 callout「每個 section 單獨看都完整、接起來卻沒有一個更大的敘事 / 論點 / 意圖」。Stage 0 給**角度**、投影給**建築**、Stage 2 prose 給**句子**——以前從角度直接跳句子，中間沒人設計「這篇到底怎麼長成一個論證」，寫手拿面向清單一段寫一個面向 → 面向巡禮、加法不是乘法、整篇空泛。
+
+**誰做**：主 session（Opus orchestrator），研究合成單檔（[Step 1.7.4](#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）之後、派寫手之前。**不派給寫手**——寫手拿到的是已經想清楚的藍圖，執行結構不發明結構。
+
+**產物**：`reports/article-projection/{slug}.md`（模板見 [PROJECTION.md §四](../editorial/PROJECTION.md)），六件事：
+
+1. **論點**：一句話，有張力、要被賺到，非摘要（判準：讀者能不同意，或文章非證明不可）。論點型別跟 spine 綁定——矛盾驅動用辯論式主張，立體群像用有推進的統合洞見（**立體 ≠ 沒論點**，per [Step 0.1.5](#step-015-spine-類型判定v77-重構--立體群像是預設畫布) + [REFLEXES #77](../semiont/REFLEXES.md)；投影對所有題要求推進，只對爭議題要求對立）。
+2. **骨架**：動作序列（動詞不是名詞），過 **shuffle test**（section 順序打亂會讀不通，第 N 步預設第 N-1 步）。
+3. **每 section 雙重職責**：局部承載 + **全局功能（替論點做什麼）** + 扣回主軸 + 進出連結。全局功能只有「介紹某面向」= 目錄條目 → 給功能或砍。
+4. **減法**：明列砍掉什麼材料、為什麼（投影是選擇 + 連結，不是鋪滿；根治密度失衡）。
+5. **echo map**：每個 section 一個回到主軸錨的 beat（不只頭尾）——錨反覆變奏 = 那個「宏大抽象的敘事」。
+6. **審定**：spine 類型 / title 冒號三明治雛形 / 結尾畫面（先行）/ **視覺化候選（見 Step 2.0.5）** / 媒體分鏡。
+
+**HARD GATE（5 題全過才派寫手）**：論點非摘要 / 骨架過 shuffle test / 每 section 有全局功能 / 減法非空 / echo map 覆蓋全篇。任一不過 → 回去重投影，不派寫手。寫手 read-receipt 加一項：**逐 section 複述全局功能**（證明它讀懂骨架不是照面向抄）。
+
+> worked example：[reports/article-projection/Shopping-Design.md](../../reports/article-projection/Shopping-Design.md)（before＝可 shuffle 的面向巡禮，after＝五步論證，中間三面向壓成「機制放大」一步）。**Evolution 模式照樣先投影**——EVOLVE 最容易踩面向巡禮（研究更多、更想鋪滿）。
+
+### Step 2.0.5: 視覺化思考（v6.8 新增，v8.0 併入投影審定動作 6）💭📊
 
 借 The Pudding「問題先於資料」：寫之前掃過 fact-pack，問三題（**不是強制加圖**——沒有適合的資料就誠實不加，記 research report）：
 

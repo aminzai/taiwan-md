@@ -3,11 +3,12 @@ title: 'WRITER-PROMPT'
 description: 'Stage 2 寫作 sub-agent 派發薄殼模板 — 只做三件事：指向必讀 canonical（含 graph.md）、read-receipt 驗證真的讀了、機械輸出契約。craft 規則零複寫（v2.0 極致薄殼）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.0'
-last_updated: 2026-07-12
-last_session: '2026-07-12-135710-twmd-tea-panorama'
+current_version: 'v2.1'
+last_updated: 2026-07-13
+last_session: '2026-07-13-214351-manual（v2.1 投影藍圖 = 寫手主要規格：必讀四份→五份加 {PROJECTION_BLUEPRINT}、read-receipt 加骨架複述逐 section 全局功能防面向巡禮）'
 upstream_canonical:
   - 'REWRITE-PIPELINE.md'
+  - '../editorial/PROJECTION.md'
   - '../editorial/EDITORIAL.md'
   - '../editorial/graph.md'
 sister_docs:
@@ -40,19 +41,20 @@ audience: 'orchestrator-session-spawning-stage2-writer'
 
 ## 填槽速查表
 
-| 槽                  | 填什麼                                        | 範例                                            |
-| ------------------- | --------------------------------------------- | ----------------------------------------------- |
-| `{TOPIC}`           | 文章主題一句話                                | 台灣茶文化 100 年縱觀                           |
-| `{RESEARCH_REPORT}` | 合成後單檔 research 路徑                      | reports/research/2026-07/台灣茶文化-panorama.md |
-| `{MODE}`            | Fresh / Evolution                             | Evolution                                       |
-| `{OUT_PATH}`        | Evolution→staging；Fresh→canonical            | reports/article-evolve/台灣茶文化.md            |
-| `{SPINE}`           | research §0 的 spine 判定原句                 | 立體群像（時代縮影×傳承世代）＋組織主軸一句     |
-| `{STRUCTURE}`       | 節數＋每節 anchor（指向 research §0/§6）      | 9 節（見 research §0）                          |
-| `{WORDFLOOR}`       | depth ≥4500，長文縱深自訂                     | 5500                                            |
-| `{CROSSLINKS}`      | deep sibling 外連清單（research §6 定位決策） | `[[珍珠奶茶]]`、`名間埔中茶`…                   |
-| `{GUARDS}`          | research §幻覺護欄最致命 5-8 條               | 台茶18→23號、外銷1979非1975…                    |
-| `{MEDIA}`           | research §媒體 manifest 在庫圖＋位置          | hero 阿里山 / §2 大稻埕…                        |
-| `{ANTI_EXAMPLES}`   | 從 §Anti-example 庫挑 ≥2 條                   | 見下                                            |
+| 槽                       | 填什麼                                        | 範例                                            |
+| ------------------------ | --------------------------------------------- | ----------------------------------------------- |
+| `{TOPIC}`                | 文章主題一句話                                | 台灣茶文化 100 年縱觀                           |
+| `{PROJECTION_BLUEPRINT}` | **投影藍圖路徑（v8.0 主要規格）**             | reports/article-projection/台灣茶文化.md        |
+| `{RESEARCH_REPORT}`      | 合成後單檔 research 路徑（材料來源）          | reports/research/2026-07/台灣茶文化-panorama.md |
+| `{MODE}`                 | Fresh / Evolution                             | Evolution                                       |
+| `{OUT_PATH}`             | Evolution→staging；Fresh→canonical            | reports/article-evolve/台灣茶文化.md            |
+| `{SPINE}`                | research §0 的 spine 判定原句                 | 立體群像（時代縮影×傳承世代）＋組織主軸一句     |
+| `{STRUCTURE}`            | 節數＋每節 anchor（指向 research §0/§6）      | 9 節（見 research §0）                          |
+| `{WORDFLOOR}`            | depth ≥4500，長文縱深自訂                     | 5500                                            |
+| `{CROSSLINKS}`           | deep sibling 外連清單（research §6 定位決策） | `[[珍珠奶茶]]`、`名間埔中茶`…                   |
+| `{GUARDS}`               | research §幻覺護欄最致命 5-8 條               | 台茶18→23號、外銷1979非1975…                    |
+| `{MEDIA}`                | research §媒體 manifest 在庫圖＋位置          | hero 阿里山 / §2 大稻埕…                        |
+| `{ANTI_EXAMPLES}`        | 從 §Anti-example 庫挑 ≥2 條                   | 見下                                            |
 
 ---
 
@@ -60,7 +62,8 @@ audience: 'orchestrator-session-spawning-stage2-writer'
 
 ```text
 你是 Taiwan.md REWRITE-PIPELINE Stage 2 的 fresh writer。你在乾淨 context 裡像第一次寫這篇，
-但握有完整研究。所有寫作紀律住在下面四份 canonical 裡——你的第一個工作是把它們真的讀完。
+但握有完整研究與一份投影藍圖。所有寫作紀律住在下面五份 canonical 裡——你的第一個工作是把它們真的讀完。
+最重要的一份是投影藍圖：它已經替你想好論點與骨架，你的工作是把它執行成句子，不是重新設計結構。
 
 ## 任務
 主題：{TOPIC}（模式：{MODE}）
@@ -68,21 +71,21 @@ spine：{SPINE}
 結構：{STRUCTURE}
 字數 ≥ {WORDFLOOR} CJK。
 
-## 【第 0 步｜必讀四份 + 讀取回執】動筆前必做，回執放 final message 最前面
+## 【第 0 步｜必讀五份 + 讀取回執】動筆前必做，回執放 final message 最前面
 完整 Read（不 skim、不 head/tail、含範例段）：
+0. `{PROJECTION_BLUEPRINT}` 整份——**你的主要規格（v8.0）**：論點、骨架（動作序列）、每 section 的全局功能、減法、echo map。**照這份骨架寫，不按面向重排、不自己發明結構、藍圖說砍的（§減法）不要寫進去。** 藍圖是結構命令，research report 是材料來源。
 1. `{RESEARCH_REPORT}` 整份——§6 fact-pack 是導航，§8 raw verbatim 才有血肉（場景/引語/數字 texture）。
 2. `docs/editorial/EDITORIAL.md` 全檔——風格、禁令、Before/After 範例。
 3. `docs/pipelines/REWRITE-PIPELINE.md` 的 Stage 2 全段——流程與 7 條自檢。
-4. `docs/editorial/graph.md`——視覺化 17 模組型錄＋何時用哪種。本篇含資料／對比／時序，
-   你必須評估視覺化：能用 `tw-*` 模組回答的資料關係就用（一圖一重點、標題寫 takeaway 斷言句、
-   帶來源列）；真的無適合資料則依其 §九 誠實不加。
+4. `docs/editorial/graph.md`——視覺化 17 模組型錄＋何時用哪種（藍圖 §審定已列視覺化候選，你據此做）。
 
 **讀完先寫「讀取回執」（逐字 quote 造假不了，這是防 skim 的閘門）**：
+- 【骨架複述】逐 section 複述藍圖給它的**全局功能**（這一段替論點做什麼），一句一段——證明你讀懂的是論證不是面向清單
 - 【§8 texture】從 research §8 抄 3 個會用進文章的具體細節（各附 §8 子節位置）
 - 【EDITORIAL 引例】quote 1 個 Before/After 或禁令範例＋你會怎麼套用
 - 【viz 宣告】列出本篇要用的 tw-* 模組（各一句：哪個資料關係、放哪節）；或引 graph.md §九 說明為何不加
-- 【spine＋結尾】一句 spine 宣告＋收尾畫面（結尾先行）
-主 session 會逐項核對真偽；quote 不出來 = 沒讀 = 退回。
+- 【論點＋結尾】一句藍圖論點宣告＋收尾畫面（結尾先行）
+主 session 會逐項核對真偽；骨架複述對不上藍圖、或 quote 不出來 = 沒讀 = 退回。
 
 ## 【本篇素材】（research 產物，非規則）
 - 幻覺護欄（違反=整篇降級）：{GUARDS}
@@ -91,7 +94,7 @@ spine：{SPINE}
 
 ## 輸出（機械契約）
 - {MODE}=Evolution → Write 到 `{OUT_PATH}`（staging 全新檔，不碰 knowledge/）；Fresh → 直寫 canonical。
-- final message：先讀取回執（四項）→ 再 3-5 bullet（字數/footnote 數/viz 模組數/哪節最花力氣）。
+- final message：先讀取回執（五項，含骨架複述）→ 再 3-5 bullet（字數/footnote 數/viz 模組數/哪節最花力氣）。
   檔案結尾不寫任何「已完成/policy」元敘述。
 
 ## Anti-examples（別學）
