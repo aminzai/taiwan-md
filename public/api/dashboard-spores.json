@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T22:11:53.635054Z",
+  "lastUpdated": "2026-07-13T22:44:00.994423Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 144,
@@ -31,10 +31,10 @@
       "template": "A2 立體群像（陌生鋼琴暖弧）",
       "url": "https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F",
       "highlight": "卡七年靠換兩個陌生把自己寫回來；立體 re-frame 同步",
-      "views_7d": null,
-      "views_latest": 3425,
-      "engagements_7d": null,
-      "rate_7d": null,
+      "views_7d": 3435,
+      "views_latest": 3435,
+      "engagements_7d": 118,
+      "rate_7d": 3.44,
       "backfilled": true
     },
     {
@@ -203,10 +203,10 @@
   "amplification": [],
   "platformComparison": {
     "threads": {
-      "count": 53,
-      "avgViews": 26900,
+      "count": 54,
+      "avgViews": 26466,
       "maxViews": 300000,
-      "avgRate": 6.24,
+      "avgRate": 6.16,
       "maxRate": 16.75
     },
     "x": {
@@ -217,16 +217,7 @@
       "maxRate": 9.09
     }
   },
-  "backfillWarnings": [
-    {
-      "n": 154,
-      "article": "柯智棠",
-      "platform": "threads",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F"
-    }
-  ],
+  "backfillWarnings": [],
   "noUrlHistorical": [
     {
       "n": 1,
@@ -296,7 +287,7 @@
     {
       "week": "2026-W28",
       "published": 1,
-      "avgViews": 3425
+      "avgViews": 3435
     }
   ],
   "harvestStatus": [
@@ -1737,8 +1728,8 @@
       "publishDate": "2026-07-07",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 5,
-      "lastHarvest": "2026-07-13 06:38"
+      "harvestCount": 6,
+      "lastHarvest": "2026-07-14 06:42"
     }
   ]
 }
