@@ -328,3 +328,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-13 | 084133-twmd-maintainer-am | ellenlee 第 3 波 2 PR 皆 draft；#1220 clean bug-fix、#1222 conflicting；reviewer comment 非 merge | draft 不越權 merge；rebase cheatsheet 應進 CONTRIBUTING | [→](memory/2026-07-13-084133-twmd-maintainer-am.md) |
 | 2026-07-13 | 073739-manual | 醫療法 EVOLVE：三班護病比從一段擴成護理人力 arc、4-agent 研究 191 源抓張冠李戴、6900→13900 字 + 9 媒體 | 研究價值在 falsify 不在確認；image-health 硬底不認 tw-\* viz 是媒體 | [→](memory/2026-07-13-073739-三班護病比深化.md) |
 | 2026-07-13 | 110417-manual | 統一集團 EVOLVE：6.7KB stub → 6.7K 字立體群像；全編排 fan-out（4 研究+寫手+4 verifier）+6 圖 5 viz；`50617dc14` | 成品總驗 fetch-artifact 比對抓研究層 quote↔URL 幻覺（溯源率 gate 漏，#75） | [→](memory/2026-07-13-110417-manual.md) |
+| 2026-07-13 | 110906-shopping-design | Shopping Design Fresh：4,501 CJK／17 腳註／4 媒體；31 源研究 SSOT 寫創刊編輯法、BEST100、紙網雙軌與 DesignBIZ | 生活風格媒體的歷史要寫眼光如何被訓練；動態主站抓不到圖時改找同品牌官方活動表面 | [→](memory/2026-07-13-110906-shopping-design.md) |
