@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-13 | 063609-twmd-spore-harvest-am | #154 D+6 3,425v +7v/24hr flat plateau tick #2；四分子指標連 4 cycle flat；0 Bucket A 連 23 cycle；0 new reply | A2 mid-tail 6-point baseline 成型；late-ship 保節奏 vc=5 | [→](memory/2026-07-13-063609-twmd-spore-harvest-am.md) |
 | 2026-07-13 | 070750-twmd-feedback-triage | 真空隊列 no-op：0 新回報 / file 0 / sync 0；昨日哲宇測試已清（status=new 歸零）；write-path 續活 | fetched 0 摸 ground truth（REST 回空≠env-error 退出）非 proxy #82 | [→](memory/2026-07-13-070750-twmd-feedback-triage.md) |
 | 2026-07-13 | 084133-twmd-maintainer-am | ellenlee 第 3 波 2 PR 皆 draft；#1220 clean bug-fix、#1222 conflicting；reviewer comment 非 merge | draft 不越權 merge；rebase cheatsheet 應進 CONTRIBUTING | [→](memory/2026-07-13-084133-twmd-maintainer-am.md) |
+| 2026-07-13 | 073739-manual | 醫療法 EVOLVE：三班護病比從一段擴成護理人力 arc、4-agent 研究 191 源抓張冠李戴、6900→13900 字 + 9 媒體 | 研究價值在 falsify 不在確認；image-health 硬底不認 tw-\* viz 是媒體 | [→](memory/2026-07-13-073739-三班護病比深化.md) |
