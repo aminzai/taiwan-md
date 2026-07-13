@@ -1,20 +1,29 @@
 ---
-title: "La culture des supérettes à Taïwan"
+title: 'La culture des supérettes à Taïwan'
 description: "Un royaume de la supérette parmi les plus denses au monde : l'innovation locale de 7-Eleven et FamilyMart a redéfini le mode de vie moderne."
 date: 2026-03-19
-author: "Taiwan.md"
-category: "Lifestyle"
-subcategory: "城市生活"
-tags: ["vie quotidienne", "supérette", "7-Eleven", "FamilyMart", "frais préparés", "culture de la supérette", "vie moderne"]
+author: 'Taiwan.md'
+category: 'Lifestyle'
+subcategory: '城市生活'
+tags:
+  [
+    'vie quotidienne',
+    'supérette',
+    '7-Eleven',
+    'FamilyMart',
+    'frais préparés',
+    'culture de la supérette',
+    'vie moderne',
+  ]
 readingTime: 7
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Lifestyle/台灣便利商店文化.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:befdc912b45d8971"
-sourceBodyHash: "sha256:10cf46708f313bd3"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'Lifestyle/台灣便利商店文化.md'
+sourceCommitSha: '50617dc1'
+sourceContentHash: 'sha256:270d23d188160eb0'
+sourceBodyHash: 'sha256:3cc86e403e9f38f1'
+translatedAt: '2026-07-13T16:30:00Z'
 ---
 
 # La culture des supérettes à Taïwan
@@ -242,11 +251,16 @@ Dans la vague de mondialisation, la culture des supérettes taïwanaises est dev
 
 - [台灣感性：韓國人眼中的台式美學](/culture/台灣感性) — Les supérettes illuminées au milieu de la nuit sont une scène classique du « 대만감성 » (sensibilité taïwanaise) capturée par les objectifs coréens
 - [發票：1951 年那張把全民變成稅務稽查員的紙](/economy/發票) — Le portefeuille de factures électroniques sur le cloud est le plus souvent utilisé en supérette : chaque passage en caisse est simultanément le dernier kilomètre de la mobilisation fiscale quotidienne
+- [台灣企業：統一企業](/economy/台灣企業：統一企業) — Le groupe Uni-President, derrière 7-ELEVEN, est passé d'un simple paquet de nouilles Uni-President à un empire de la distribution qui rythme toute la journée des Taïwanais
 
 ## Références
 
 [^1]: Site officiel de Uni-President 7-Eleven, https://www.7-eleven.com.tw/
+
 [^2]: PTS News, « La densité de supérettes en Corée du Sud au premier rang mondial », https://news.pts.org.tw/article/706230
+
 [^3]: Liberty Times Finance, « La densité de supérettes à Taïwan au deuxième rang mondial », https://ec.ltn.com.tw/article/breakingnews/2385333
+
 [^4]: Site officiel de FamilyMart Taïwan, https://www.family.com.tw/
+
 [^5]: Département des statistiques du Ministère des Affaires économiques, Statistiques du commerce de détail, https://www.moea.gov.tw/

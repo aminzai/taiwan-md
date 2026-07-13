@@ -5,16 +5,25 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Lifestyle'
 subcategory: '城市生活'
-tags: ['生活', 'コンビニエンスストア', 'セブンイレブン', 'ファミリーマート', 'デリファクト', 'コンビニ文化', '現代生活']
+tags:
+  [
+    '生活',
+    'コンビニエンスストア',
+    'セブンイレブン',
+    'ファミリーマート',
+    'デリファクト',
+    'コンビニ文化',
+    '現代生活',
+  ]
 readingTime: 7
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:befdc912b45d8971'
-sourceBodyHash: 'sha256:10cf46708f313bd3'
-translatedAt: '2026-05-20T05:08:29+08:00'
+sourceCommitSha: '50617dc1'
+sourceContentHash: 'sha256:270d23d188160eb0'
+sourceBodyHash: 'sha256:3cc86e403e9f38f1'
+translatedAt: '2026-07-13T16:30:00Z'
 ---
 
 # 台湾のコンビニエンスストア文化
@@ -245,11 +254,16 @@ translatedAt: '2026-05-20T05:08:29+08:00'
 
 - [台湾感性：韓国人が見る台湾的美学](/culture/台灣感性) — 深夜に明かりが灯るコンビニエンスストアは、韓国人のレンズに映る「대만감성（台湾感性）」の定番シーンです
 - [インボイス：1951年に全民を税務検査員に変えた紙](/economy/發票) — クラウドインボイスキャリアが最もよく使われる場面がコンビニエンスストアであり、会計のたびに日常の税務動員のラストワンマイルが同時に完了します
+- [台湾企業：統一企業](/economy/台灣企業：統一企業) — 7-ELEVENの背後にある統一グループは、即席麺「統一麺」一つから台湾人の一日を丸ごと包み込む小売帝国へと成長した
 
 ## 参考文献
 
 [^1]: 統一超商公式サイト，https://www.7-eleven.com.tw/
+
 [^2]: 公視新聞，〈韓國超商密度登世界第1〉，https://news.pts.org.tw/article/706230
+
 [^3]: 自由財經，〈台灣便利商店密度全球第二〉，https://ec.ltn.com.tw/article/breakingnews/2385333
+
 [^4]: 全家便利商店公式サイト，https://www.family.com.tw/
+
 [^5]: 經濟部統計處，零售業統計，https://www.moea.gov.tw/

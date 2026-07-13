@@ -5,16 +5,25 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Lifestyle'
 subcategory: '城市生活'
-tags: ['생활', '편의점', '세븐일레븐', '패밀리마트', '신선식품', '편의점 문화', '현대 생활']
+tags:
+  [
+    '생활',
+    '편의점',
+    '세븐일레븐',
+    '패밀리마트',
+    '신선식품',
+    '편의점 문화',
+    '현대 생활',
+  ]
 readingTime: 7
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:befdc912b45d8971'
-sourceBodyHash: 'sha256:10cf46708f313bd3'
-translatedAt: '2026-05-20T05:08:30+08:00'
+sourceCommitSha: '50617dc1'
+sourceContentHash: 'sha256:270d23d188160eb0'
+sourceBodyHash: 'sha256:3cc86e403e9f38f1'
+translatedAt: '2026-07-13T16:30:00Z'
 ---
 
 # 대만 편의점 문화
@@ -245,11 +254,16 @@ translatedAt: '2026-05-20T05:08:30+08:00'
 
 - [대만 감성: 한국인이 보는 대만식 미학](/culture/台灣感性) — 심야에도 환하게 불이 켜진 편의점은 한국인의 렌즈에 비친 '대만감성'의 고전적 장면
 - [영수증: 1951년 전 국민을 세무 조사원으로 만든 그 한 장의 종이](/economy/發票) — 클라우드 영수증 등록 가장 흔한 장면이 바로 편의점이며, 매번 계산은 일상적 세무 동원의 라스트 마일
+- [대만 기업: 통일기업](/economy/台灣企業：統一企業) — 7-ELEVEN 뒤에 있는 통일그룹, 통일 라면 한 봉지에서 시작해 대만 사람들의 하루를 담아내는 유통 제국으로 성장했다
 
 ## 참고 자료
 
 [^1]: 통일초공(統一超商) 공식 웹사이트, https://www.7-eleven.com.tw/
+
 [^2]: 공시뉴스(公視新聞), 〈한국 편의점 밀도 세계 1위〉, https://news.pts.org.tw/article/706230
+
 [^3]: 자유시보(自由財經), 〈대만 편의점 밀도 세계 2위〉, https://ec.ltn.com.tw/article/breakingnews/2385333
+
 [^4]: 패밀리마트 공식 웹사이트, https://www.family.com.tw/
+
 [^5]: 경제부 통계처(經濟部統計處), 소매업 통계, https://www.moea.gov.tw/

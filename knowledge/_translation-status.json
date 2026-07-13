@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-13T23:09:14+08:00",
-    "zhCommitHead": "2e5df3cfe",
+    "lastUpdated": "2026-07-14T00:35:09+08:00",
+    "zhCommitHead": "17b63fe83",
     "totalZh": 856,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
@@ -18057,8 +18057,8 @@
       "zh": {
         "lastCommit": "",
         "lastModified": "",
-        "contentHash": "sha256:0a363e3f024cc135",
-        "bodyHash": "sha256:528fc6287675fac0"
+        "contentHash": "sha256:b28fbf5ddf531b39",
+        "bodyHash": "sha256:d87917b84c6a12b1"
       },
       "translations": {
         "en": {
@@ -64206,10 +64206,10 @@
     },
     "Culture/Shopping Design.md": {
       "zh": {
-        "lastCommit": "bc23e0af",
-        "lastModified": "2026-07-13T21:51:21+08:00",
-        "contentHash": "sha256:91c5b9450f2a4dab",
-        "bodyHash": "sha256:180a49c76011b90d"
+        "lastCommit": "17b63fe8",
+        "lastModified": "2026-07-13T23:21:48+08:00",
+        "contentHash": "sha256:5d83fb5eff7a2309",
+        "bodyHash": "sha256:da4269ea46f7ec77"
       },
       "translations": {
         "en": {

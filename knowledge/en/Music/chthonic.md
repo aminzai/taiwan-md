@@ -19,10 +19,10 @@ canonical-order: 999
 lastVerified: 2026-07-10
 lastHumanReview: false
 translatedFrom: 'Music/閃靈.md'
-sourceCommitSha: '717a640b'
-sourceContentHash: 'sha256:6935f531351a74df'
-sourceBodyHash: ''
-translatedAt: '2026-07-11T12:11:40+08:00'
+sourceCommitSha: 'aa11262b'
+sourceContentHash: 'sha256:bfe8dafba2ef7ca0'
+sourceBodyHash: 'sha256:92ef755dfe3d9f15'
+translatedAt: '2026-07-13T16:30:00Z'
 researchReport: 'reports/research/2026-07/閃靈-outline.md'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/12-08_Wacken_Chthonic_02.jpg/1280px-12-08_Wacken_Chthonic_02.jpg'
 imageCredit: 'Achim Raschka / Wikimedia Commons'

@@ -2,19 +2,28 @@
 title: "Taiwan's Convenience Store Culture"
 description: "A convenience-store kingdom with one of the world's highest densities, where 7-Eleven and FamilyMart's localized innovations have redefined modern lifestyles"
 date: 2026-03-19
-author: "Taiwan.md"
-category: "Lifestyle"
-subcategory: "城市生活"
-tags: ["Life", "Convenience Stores", "7-Eleven", "FamilyMart", "Fresh Food", "Convenience Store Culture", "Modern Life"]
+author: 'Taiwan.md'
+category: 'Lifestyle'
+subcategory: '城市生活'
+tags:
+  [
+    'Life',
+    'Convenience Stores',
+    '7-Eleven',
+    'FamilyMart',
+    'Fresh Food',
+    'Convenience Store Culture',
+    'Modern Life',
+  ]
 readingTime: 7
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Lifestyle/台灣便利商店文化.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:befdc912b45d8971"
-sourceBodyHash: "sha256:10cf46708f313bd3"
-translatedAt: "2026-05-20T05:08:27+08:00"
+translatedFrom: 'Lifestyle/台灣便利商店文化.md'
+sourceCommitSha: '50617dc1'
+sourceContentHash: 'sha256:270d23d188160eb0'
+sourceBodyHash: 'sha256:3cc86e403e9f38f1'
+translatedAt: '2026-07-13T16:30:00Z'
 ---
 
 # Taiwan's Convenience Store Culture
@@ -245,11 +254,16 @@ Amid globalization, Taiwan's convenience store culture has become a successful c
 
 - [Taiwanese Sensibility: Taiwanese Aesthetics Through Korean Eyes](/culture/台灣感性) — Convenience stores lit late into the night are classic scenes of "대만감성" through Korean lenses
 - [Uniform Invoices: The 1951 Paper That Turned Everyone into a Tax Auditor](/economy/發票) — Convenience stores are the most common setting for using cloud invoice carriers, making each checkout the last mile of everyday tax mobilization
+- [Taiwan Enterprise: Uni-President Enterprises](/economy/台灣企業：統一企業) — The conglomerate behind 7-Eleven, which grew from a single bag of instant noodles into a retail empire that holds a whole day of Taiwanese life
 
 ## References
 
 [^1]: President Chain Store Corporation official website, https://www.7-eleven.com.tw/
+
 [^2]: Public Television Service News, "South Korea's Convenience Store Density Ranks First in the World," https://news.pts.org.tw/article/706230
+
 [^3]: Liberty Times Finance, "Taiwan's Convenience Store Density Ranks Second in the World," https://ec.ltn.com.tw/article/breakingnews/2385333
+
 [^4]: FamilyMart official website, https://www.family.com.tw/
+
 [^5]: Department of Statistics, Ministry of Economic Affairs, retail industry statistics, https://www.moea.gov.tw/

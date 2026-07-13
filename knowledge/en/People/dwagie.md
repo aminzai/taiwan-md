@@ -20,10 +20,10 @@ featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
 translatedFrom: 'People/大支.md'
-sourceCommitSha: '4073e8a1'
-sourceContentHash: 'sha256:6c7ade34f353415e'
-sourceBodyHash: ''
-translatedAt: '2026-07-11T12:02:11+08:00'
+sourceCommitSha: 'ca287184'
+sourceContentHash: 'sha256:7dbb2e875423b61b'
+sourceBodyHash: 'sha256:b502e9f9c1f7ed00'
+translatedAt: '2026-07-13T16:30:00Z'
 readingTime: 16
 image: '/article-images/music/dwagie-portrait-2019.webp'
 imageCredit: 'Chiayi City Government / Wikimedia Commons'

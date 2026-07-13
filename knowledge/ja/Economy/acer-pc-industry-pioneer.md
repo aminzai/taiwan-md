@@ -19,7 +19,7 @@ lastVerified: 2026-07-06
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：宏碁.md'
-sourceCommitSha: 'beb07b8e2'
+sourceCommitSha: 'beb07b8e'
 sourceContentHash: 'sha256:cd395bed8d239f41'
 sourceBodyHash: 'sha256:903fa4c14f6a516c'
 translatedAt: '2026-07-07T00:38:21+08:00'

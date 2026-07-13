@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
 translatedFrom: 'People/林昶佐.md'
-sourceCommitSha: '112e91c8'
-sourceContentHash: 'sha256:957dfe94a86d2cfa'
-sourceBodyHash: ''
-translatedAt: '2026-07-11T12:25:09+08:00'
+sourceCommitSha: '6d1d5427'
+sourceContentHash: 'sha256:ba42527e30130845'
+sourceBodyHash: 'sha256:5b9ec7664344c023'
+translatedAt: '2026-07-13T16:30:00Z'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg'
 imageCredit: 'Hyw83516 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
