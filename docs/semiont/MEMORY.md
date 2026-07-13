@@ -335,3 +335,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-14 | 011941-twmd-babel-nightly | cascade 1/4 撐 33 cell（0b 5＋0a 18＋Tier 1 10）；杜潘芳格 15fn ja/ko 掉光；`ab60ed2d6` | 兩子代自檢反抓 pipeline bug；exhausted=4/4 backend 用底 | [→](memory/2026-07-14-011941-twmd-babel-nightly.md) |
 | 2026-07-14 | 051733-twmd-embeddings-nightly | bge-m3 第九夜：4945 向量六語 0 fail／verify PASS／本機 127.0.0.1 命中；+12 向量（統一集團·Shopping Design·三班護病比進索引）；`4a15873f1` | 連 9 夜 0 fail；夜建把白天 EVOLVE 新文章接進語意鄰居圖具體兌現 | [→](memory/2026-07-14-051733-twmd-embeddings-nightly.md) |
 | 2026-07-14 | 061412-twmd-data-refresh-am | am 14-step 全綠；CF 404 14.97% vc=10 首破 15% 下沿；免疫 60 stable；`4d42f4a48` | 單 cycle wobble ≠ shape shift；promote 需 3+ cycles（#82） | [→](memory/2026-07-14-061412-twmd-data-refresh-am.md) |
+| 2026-07-14 | 070914-twmd-feedback-triage | 真空隊列 no-op 第二日：fetched 0 / comment-sync 0（34 檔 archive 無新留言）；REST 回空≠env-error，write-path 活 | dry-run 0 ≠ 無可 sync，comment-sync 需 --commit 真跑（#82） | [→](memory/2026-07-14-070914-twmd-feedback-triage.md) |
