@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **852 curated articles** (zh-TW SSOT) across 14 categories — projected to **6 languages** = 5,112 article-versions
+- 📖 **854 curated articles** (zh-TW SSOT) across 14 categories — projected to **6 languages** = 5,124 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français — 5 lang each ≥ 80% real freshPct (en 96% / ja 97% / ko 93% / fr 93% / es 80%)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -48,8 +48,8 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 852   |
-| 🇹🇼 Chinese (zh-TW)             | 852   |
+| 📄 Total articles (zh-TW SSOT) | 854   |
+| 🇹🇼 Chinese (zh-TW)             | 854   |
 | 🇺🇸 English (en)                | 857   |
 | 🇯🇵 日本語 (ja)                 | 844   |
 | 🇰🇷 한국어 (ko)                 | 845   |
@@ -59,9 +59,9 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 66    |
-| ⭐ GitHub Stars                | 1102  |
+| ⭐ GitHub Stars                | 1103  |
 | 🍴 Forks                       | 162   |
-| 📅 Articles last 7 days        | 50    |
+| 📅 Articles last 7 days        | 36    |
 | 📅 Articles last 30 days       | 138   |
 
 <!-- STATS:END -->

@@ -2850,6 +2850,17 @@
     "path": "ja/Geography/taipei-city.md"
   },
   {
+    "title": "台北吸菸室：無菸城市裡，那格會呼吸的玻璃盒子",
+    "description": "2026 年 5 月 7 日，西門捷運 6 號出口旁立起一格透明的盒子，全台第一座戶外負壓吸菸室，門一開，風往裡灌不往外跑。台北要當無菸城市，卻先在街頭蓋了給人抽菸的玻璃屋。從嚴道割掉一片肺葉的 1984，到室內二手菸壓到 3.2%、門外還有近半，這格盒子裝著一支合法的菸，和一座城市還沒談完的公共空間契約。",
+    "category": "Society",
+    "tags": [],
+    "url": "https://taiwan.md/society/%E5%8F%B0%E5%8C%97%E5%90%B8%E8%8F%B8%E5%AE%A4",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-07-13",
+    "path": "Society/台北吸菸室.md"
+  },
+  {
     "title": "台北鼠患：從 1896 年總督府的鼠疫令，到 2026 年大安區的漢他病毒",
     "description": "2026 年 1 月，大安區一名七旬男子因漢他病毒病逝，是台灣 25 年來首例死亡。但故事真正的轉折，是同月上路的「家戶廚餘禁養豬」——當豬不再吃廚餘，老鼠開始吃台北。",
     "category": "Society",
@@ -7424,19 +7435,13 @@
   },
   {
     "title": "台灣企業：統一企業",
-    "description": "38歲高清愿從零開始，13歲童工如何打造6,576億營收帝國",
+    "description": "1967 年，38 歲的高清愿帶著 82 名員工，在台南開了一間做麵粉和飼料的小廠。半個多世紀後，這家公司從一包統一麵，長成 7,248 家 7-ELEVEN、星巴克、康是美、家樂福背後的零售帝國：你的早餐茶葉蛋、颱風夜的肉燥麵、超商繳的水電費，很大一塊都是它裝進去的。一個台南麵粉廠怎麼變成裝下台灣人一天的容器，是一部你天天走過、卻很少讀的台灣縮影史。",
     "category": "Economy",
-    "tags": [
-      "Economy",
-      "企業",
-      "食品業",
-      "零售業",
-      "品牌經營"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%B5%B1%E4%B8%80%E4%BC%81%E6%A5%AD",
-    "readingTime": 10,
+    "readingTime": 69,
     "featured": false,
-    "date": "2026-03-21",
+    "date": "2026-07-13",
     "path": "Economy/台灣企業：統一企業.md"
   },
   {
@@ -23293,11 +23298,11 @@
   },
   {
     "title": "醫療法：機構規範與市場拉扯的四十年",
-    "description": "台灣醫療法 1986 年公布、2017 年修醫師刑責、2026 年護病比入法。法律寫的是「促進醫療事業健全發展」，運轉的是 83% 病床私立化、急診醫師退場率高出國際兩三倍、護理師連續離職一千多人才把護病比寫進法。這不是健保法、不是醫師法——這是台灣「醫院」這個機構怎麼存在的根法，也是醫療公益性與市場機制四十年沒解開的拉扯。",
+    "description": "台灣醫療法 1986 年公布、2017 年修醫師刑責、2026 年三班護病比入法。法律寫得出「一個護理師最多顧幾床」，卻寫不出「有沒有那個護理師」——32 萬張護理執照，臨床只剩 19 萬雙手。這不是健保法、不是醫師法，是台灣「醫院」這個機構怎麼存在的根法，也是醫療公益性與市場機制四十年沒解開的拉扯。",
     "category": "Society",
     "tags": [],
     "url": "https://taiwan.md/society/%E9%86%AB%E7%99%82%E6%B3%95",
-    "readingTime": 45,
+    "readingTime": 93,
     "featured": false,
     "date": "2026-05-10",
     "path": "Society/醫療法.md"
@@ -47712,6 +47717,17 @@
     "featured": false,
     "date": "2026-05-21",
     "path": "es/Geography/shilin.md"
+  },
+  {
+    "title": "Shopping Design：設計採買誌二十年，把設計從展場名詞變成一個日常動詞",
+    "description": "2017 年 3 月，《Shopping Design》出到第一百期，封面又回到創刊號的白，主題從「白色設計」多了「採購」兩個字。從 2006 年黃威融把設計特刊做成月刊，到李惠貞談「有意識地生活」，再到 BEST100、Podcast 與 DesignBIZ 嘉年華，這本設計採買誌花二十年，把設計從展場的專有名詞，變成一個人挑杯子、逛哪家店、過什麼日子的動詞——它替你選，也替品牌賣，最後一次選擇留給你。",
+    "category": "Culture",
+    "tags": [],
+    "url": "https://taiwan.md/culture/Shopping%20Design",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-07-13",
+    "path": "Culture/Shopping Design.md"
   },
   {
     "title": "Shovel Supermen and Island Synchronicity: How Taiwan's Disaster Volunteer Culture Shapes National Identity",

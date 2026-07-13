@@ -1,7 +1,176 @@
 {
-  "generatedAt": "2026-07-12T22:12:31.088Z",
+  "generatedAt": "2026-07-13T15:09:17.722Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "2e5df3cfebaf685d13c4160b7050f506bd89f2a3",
+      "date": "2026-07-13T22:28:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-13-214351-manual-projection — 投影階段建立收官（研究→投影邏輯→文章）",
+      "articles": []
+    },
+    {
+      "hash": "293a63cc0a3fe7459e2fb23801367af449926596",
+      "date": "2026-07-13T22:26:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 新增投影階段——研究報告 → 投影邏輯 → 文章 (REWRITE-PIPELINE v8.0)",
+      "articles": []
+    },
+    {
+      "hash": "bc23e0af04d193a81a8eeb368ae946495833e45a",
+      "date": "2026-07-13T21:51:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 兩隻代理停在同一道關卡上，我才自己去翻那幾頁——Shopping Design 成品驗證反芻 + relatedDiary 回扣",
+      "articles": [
+        {
+          "url": "/culture/Shopping Design",
+          "name": "Shopping Design"
+        }
+      ]
+    },
+    {
+      "hash": "ce0141d6401bf066721739857e5b38322d19af2f",
+      "date": "2026-07-13T21:47:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-13-214351-manual — Shopping Design EVOLVE 深化收官（成品總驗抓引號內重組 + agent watchdog 韌性）",
+      "articles": []
+    },
+    {
+      "hash": "5471d39b0894a88b2d7b5ffbf380dd12abc7b662",
+      "date": "2026-07-13T21:42:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: Shopping Design 深化——設計採買誌二十年的立體群像",
+      "articles": [
+        {
+          "url": "/culture/Shopping Design",
+          "name": "Shopping Design"
+        }
+      ]
+    },
+    {
+      "hash": "5b71c6ef20247b7029686bf38d6794ee2c00dfa9",
+      "date": "2026-07-13T21:29:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite-daily: 18:00 fire ABORT — daily 飛輪已於 11:25 三連 depth ship 用完 (vc=9, per REFLEXES #64)",
+      "articles": []
+    },
+    {
+      "hash": "80a1630375c07796f86f4b85fc51139aff385881",
+      "date": "2026-07-13T11:25:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: Shopping Design，把設計帶進日常的二十年",
+      "articles": [
+        {
+          "url": "/culture/Shopping Design",
+          "name": "Shopping Design"
+        }
+      ]
+    },
+    {
+      "hash": "81a273cc4de2a40e7203d358e1f4955994fdf36c",
+      "date": "2026-07-13T11:12:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 一家不存在的公司安安靜靜通過了三道閘門——統一集團 EVOLVE 反芻 + relatedDiary 回扣",
+      "articles": [
+        {
+          "url": "/economy/台灣企業：統一企業",
+          "name": "台灣企業：統一企業"
+        }
+      ]
+    },
+    {
+      "hash": "76aaaaac327a6b0b4345a4b2b1770d1775818094",
+      "date": "2026-07-13T11:07:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-13-110417-manual — 統一集團 EVOLVE 收官（立體群像 + 成品總驗抓研究層幻覺）",
+      "articles": []
+    },
+    {
+      "hash": "50617dc1417642401c7c6b0e03e3eb5bb3e049ea",
+      "date": "2026-07-13T10:17:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 統一企業——從一包統一麵到「裝下台灣人一天」的零售帝國",
+      "articles": [
+        {
+          "url": "/economy/全聯福利中心",
+          "name": "全聯福利中心"
+        },
+        {
+          "url": "/economy/台灣企業：統一企業",
+          "name": "台灣企業：統一企業"
+        },
+        {
+          "url": "/lifestyle/台灣便利商店文化",
+          "name": "台灣便利商店文化"
+        }
+      ]
+    },
+    {
+      "hash": "38d1c0515ed10ec101d57dcb626edfa251f16698",
+      "date": "2026-07-13T09:58:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 三班護病比深化收官——研究 falsify 抓張冠李戴 + 品質閘門代理指標反芻",
+      "articles": [
+        {
+          "url": "/society/醫療法",
+          "name": "醫療法"
+        }
+      ]
+    },
+    {
+      "hash": "14a587ed6449bb0e890b7787e7bc0606f8a7012b",
+      "date": "2026-07-13T09:44:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 醫療法深化三班護病比——從一段擴成護理人力的完整調查",
+      "articles": [
+        {
+          "url": "/society/醫療法",
+          "name": "醫療法"
+        }
+      ]
+    },
+    {
+      "hash": "290105d61f62ed9674cfa143b00125a6a5a284ef",
+      "date": "2026-07-13T08:22:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] research: 三班護病比/護理人力深化 SSOT — 4 agent fan-out 合成單檔",
+      "articles": []
+    },
+    {
+      "hash": "5570fcc9af50b7f5531516a67b13be5868902cfe",
+      "date": "2026-07-13T08:43:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-maintainer-am: ellenlee 第 3 波 2 PR 皆 draft — reviewer comment 而非 merge — 2026-07-13 am",
+      "articles": []
+    },
+    {
+      "hash": "f5cd62f5d1c8f8b710c554776fa765e62b7c5c82",
+      "date": "2026-07-13T07:12:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 07:00 真空隊列 no-op — 0 筆新回報 — 2026-07-13 am",
+      "articles": []
+    },
+    {
+      "hash": "75d8abfeb322ea5ce8aecb7c133c4dff8aef20fd",
+      "date": "2026-07-13T06:41:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: #154 D+6 觸底 flat plateau 第 2 天 — 2026-07-13 am",
+      "articles": []
+    },
+    {
+      "hash": "d30df04e0d3ad9b2d348a69fab605a9ea5d7797d",
+      "date": "2026-07-13T06:16:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-13-061328-twmd-data-refresh-am — CF 404 vc=8 plateau shape shift",
+      "articles": []
+    },
+    {
+      "hash": "47cd5fba87d4fbb1786010c5408cda5b4588ad34",
+      "date": "2026-07-13T06:15:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh — 2026-07-13 am",
+      "articles": []
+    },
     {
       "hash": "2058c3531ed2ddd62d1848ffb2fd68fd02613fcb",
       "date": "2026-07-13T05:19:17+08:00",

@@ -1,48 +1,48 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-13T06:12:27+08:00",
-    "zhCommitHead": "2058c3531",
-    "totalZh": 854,
+    "lastUpdated": "2026-07-13T23:09:14+08:00",
+    "zhCommitHead": "2e5df3cfe",
+    "totalZh": 856,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
-        "total_zh": 854,
-        "fresh": 841,
-        "stale": 11,
-        "metadata_stale": 0,
-        "missing": 2,
+        "total_zh": 856,
+        "fresh": 837,
+        "stale": 14,
+        "metadata_stale": 1,
+        "missing": 4,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 854,
-        "fresh": 835,
-        "stale": 9,
-        "metadata_stale": 0,
-        "missing": 10,
+        "total_zh": 856,
+        "fresh": 831,
+        "stale": 12,
+        "metadata_stale": 1,
+        "missing": 12,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 854,
-        "fresh": 835,
-        "stale": 9,
-        "metadata_stale": 0,
-        "missing": 10,
+        "total_zh": 856,
+        "fresh": 831,
+        "stale": 12,
+        "metadata_stale": 1,
+        "missing": 12,
         "orphan": 0
       },
       "es": {
-        "total_zh": 854,
-        "fresh": 835,
-        "stale": 9,
-        "metadata_stale": 0,
-        "missing": 10,
+        "total_zh": 856,
+        "fresh": 831,
+        "stale": 12,
+        "metadata_stale": 1,
+        "missing": 12,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 854,
-        "fresh": 834,
-        "stale": 10,
-        "metadata_stale": 0,
-        "missing": 10,
+        "total_zh": 856,
+        "fresh": 830,
+        "stale": 13,
+        "metadata_stale": 1,
+        "missing": 12,
         "orphan": 0
       }
     },
@@ -3811,9 +3811,9 @@
     },
     "Economy/全聯福利中心.md": {
       "zh": {
-        "lastCommit": "f7484ebe",
-        "lastModified": "2026-06-14T04:20:37+08:00",
-        "contentHash": "sha256:5dafe8822905eff9",
+        "lastCommit": "50617dc1",
+        "lastModified": "2026-07-13T10:17:17+08:00",
+        "contentHash": "sha256:25424dad4bf389f3",
         "bodyHash": "sha256:cf4e3b7d187326d2"
       },
       "translations": {
@@ -3828,8 +3828,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Economy/pxmart-supermarket.md",
@@ -3842,8 +3844,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Economy/pxmart-supermarket.md",
@@ -3856,8 +3860,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Economy/pxmart-supermarket.md",
@@ -3870,8 +3876,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Economy/pxmart-supermarket.md",
@@ -3884,8 +3892,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -6531,10 +6541,10 @@
     },
     "Economy/台灣企業：統一企業.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:3fb7c059831bdebb",
-        "bodyHash": "sha256:481f2cb6cfdcbd21"
+        "lastCommit": "81a273cc",
+        "lastModified": "2026-07-13T11:12:04+08:00",
+        "contentHash": "sha256:3332a6a25424c533",
+        "bodyHash": "sha256:c667482423bec68b"
       },
       "translations": {
         "en": {
@@ -6548,8 +6558,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (64→0)"
         },
         "ja": {
           "path": "ja/Economy/taiwan-enterprise-uni-president.md",
@@ -6562,8 +6572,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (64→0)"
         },
         "ko": {
           "path": "ko/Economy/taiwan-enterprise-uni-president.md",
@@ -6576,8 +6586,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (64→0)"
         },
         "es": {
           "path": "es/Economy/taiwan-enterprise-uni-president.md",
@@ -6590,8 +6600,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (64→0)"
         },
         "fr": {
           "path": "fr/Economy/taiwan-enterprise-uni-president.md",
@@ -6604,8 +6614,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (64→0)"
         }
       }
     },
@@ -17315,10 +17325,10 @@
     },
     "Lifestyle/台灣便利商店文化.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:befdc912b45d8971",
-        "bodyHash": "sha256:10cf46708f313bd3"
+        "lastCommit": "50617dc1",
+        "lastModified": "2026-07-13T10:17:17+08:00",
+        "contentHash": "sha256:270d23d188160eb0",
+        "bodyHash": "sha256:3cc86e403e9f38f1"
       },
       "translations": {
         "en": {
@@ -17332,8 +17342,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "ja": {
           "path": "ja/Lifestyle/convenience-store-culture.md",
@@ -17346,8 +17358,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "ko": {
           "path": "ko/Lifestyle/convenience-store-culture.md",
@@ -17360,8 +17374,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "es": {
           "path": "es/Lifestyle/convenience-store-culture.md",
@@ -17374,8 +17390,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "fr": {
           "path": "fr/Lifestyle/convenience-store-culture.md",
@@ -17388,8 +17406,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         }
       }
     },
@@ -18030,6 +18050,31 @@
           "footnoteDefs": 20,
           "status": "fresh",
           "reason": "hash-match-sha-lost"
+        }
+      }
+    },
+    "Society/台北吸菸室.md": {
+      "zh": {
+        "lastCommit": "",
+        "lastModified": "",
+        "contentHash": "sha256:0a363e3f024cc135",
+        "bodyHash": "sha256:528fc6287675fac0"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },
@@ -19955,10 +20000,10 @@
     },
     "Society/醫療法.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:dc46568183dd9cc2",
-        "bodyHash": "sha256:dc489fbbe5744c82"
+        "lastCommit": "38d1c051",
+        "lastModified": "2026-07-13T09:58:08+08:00",
+        "contentHash": "sha256:f25a1c1f722444fc",
+        "bodyHash": "sha256:2691d3cdf90b18ff"
       },
       "translations": {
         "en": {
@@ -19972,8 +20017,8 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (62→32)"
         },
         "ja": {
           "path": "ja/Society/medical-care-act.md",
@@ -19986,8 +20031,8 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (62→32)"
         },
         "ko": {
           "path": "ko/Society/medical-care-act.md",
@@ -20000,8 +20045,8 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (62→32)"
         },
         "es": {
           "path": "es/Society/medical-care-act.md",
@@ -20014,8 +20059,8 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (62→32)"
         },
         "fr": {
           "path": "fr/Society/medical-care-act.md",
@@ -20028,8 +20073,8 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (62→32)"
         }
       }
     },
@@ -64156,6 +64201,31 @@
           "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Culture/Shopping Design.md": {
+      "zh": {
+        "lastCommit": "bc23e0af",
+        "lastModified": "2026-07-13T21:51:21+08:00",
+        "contentHash": "sha256:91c5b9450f2a4dab",
+        "bodyHash": "sha256:180a49c76011b90d"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
         }
       }
     },

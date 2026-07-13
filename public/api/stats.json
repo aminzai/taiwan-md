@@ -1,8 +1,8 @@
 {
-  "totalArticles": 5089,
+  "totalArticles": 5091,
   "totalCategories": 20,
   "estimatedContributors": 66,
-  "totalTags": 6104,
+  "totalTags": 6103,
   "categories": [
     {
       "name": "es",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Society",
-      "count": 88
+      "count": 89
     },
     {
       "name": "Food",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Culture",
-      "count": 67
+      "count": 68
     },
     {
       "name": "People",
@@ -88,7 +88,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 72
+      "count": 71
     },
     {
       "name": "人物",
@@ -96,7 +96,7 @@
     },
     {
       "name": "企業",
-      "count": 59
+      "count": 58
     },
     {
       "name": "科技與企業",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5089,
+    "zh-TW": 5091,
     "en": 0
   },
-  "lastUpdated": "2026-07-12T22:12:29.497Z",
-  "stars": 1102,
+  "lastUpdated": "2026-07-13T15:09:16.069Z",
+  "stars": 1103,
   "forks": 162,
-  "zhPages": 852,
+  "zhPages": 854,
   "enPages": 857,
-  "totalPages": 852
+  "totalPages": 854
 }
