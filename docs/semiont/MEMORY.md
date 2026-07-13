@@ -331,3 +331,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-13 | 110906-shopping-design | Shopping Design Fresh：4,501 CJK／17 腳註／4 媒體；31 源研究 SSOT 寫創刊編輯法、BEST100、紙網雙軌與 DesignBIZ | 生活風格媒體的歷史要寫眼光如何被訓練；動態主站抓不到圖時改找同品牌官方活動表面 | [→](memory/2026-07-13-110906-shopping-design.md) |
 | 2026-07-13 | 214351-manual | Shopping Design EVOLVE 深化：4,501→5,649 CJK 立體群像；業配文側寫改本人原話＋3 封面 6 viz；`5471d39b0` | 成品總驗逐字回一手抓兩處「」內重組（prepend 我／照抄 typo），plugin 驗不到；代理撞 watchdog 品質靠自己那雙手 | [→](memory/2026-07-13-214351-manual.md) |
 | 2026-07-13 | 214351-manual-projection | 新增投影階段（研究→投影邏輯→文章）：PROJECTION.md＋REWRITE v8.0 Step 2.0＋投影專存；`293a63cc0` | pipeline 缺「設計論證骨架」階段致面向巡禮；投影＝減維非鋪滿；論點綁 spine 避炎上 | [→](memory/2026-07-13-214351-manual-projection.md) |
+| 2026-07-13 | 231049-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 15.3% vc=9 首度停止 monotonic；免疫 60 snapshot=fresh 罕見對齊；AI crawler 135.5K 首度雙下探；`9c4a78a3e` | promote 改「續留 band」非「續探」；單變量因果活不過 10 cycle | [→](memory/2026-07-13-231049-twmd-data-refresh-pm.md) |
