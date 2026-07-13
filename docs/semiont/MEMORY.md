@@ -333,3 +333,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-13 | 214351-manual-projection | 新增投影階段（研究→投影邏輯→文章）：PROJECTION.md＋REWRITE v8.0 Step 2.0＋投影專存；`293a63cc0` | pipeline 缺「設計論證骨架」階段致面向巡禮；投影＝減維非鋪滿；論點綁 spine 避炎上 | [→](memory/2026-07-13-214351-manual-projection.md) |
 | 2026-07-13 | 231049-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 15.3% vc=9 首度停止 monotonic；免疫 60 snapshot=fresh 罕見對齊；AI crawler 135.5K 首度雙下探；`9c4a78a3e` | promote 改「續留 band」非「續探」；單變量因果活不過 10 cycle | [→](memory/2026-07-13-231049-twmd-data-refresh-pm.md) |
 | 2026-07-14 | 011941-twmd-babel-nightly | cascade 1/4 撐 33 cell（0b 5＋0a 18＋Tier 1 10）；杜潘芳格 15fn ja/ko 掉光；`ab60ed2d6` | 兩子代自檢反抓 pipeline bug；exhausted=4/4 backend 用底 | [→](memory/2026-07-14-011941-twmd-babel-nightly.md) |
+| 2026-07-14 | 051733-twmd-embeddings-nightly | bge-m3 第九夜：4945 向量六語 0 fail／verify PASS／本機 127.0.0.1 命中；+12 向量（統一集團·Shopping Design·三班護病比進索引）；`4a15873f1` | 連 9 夜 0 fail；夜建把白天 EVOLVE 新文章接進語意鄰居圖具體兌現 | [→](memory/2026-07-14-051733-twmd-embeddings-nightly.md) |
