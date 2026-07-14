@@ -340,3 +340,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-14 | 193334-manual | 台北吸菸室孢子 #155／#156 雙平台上線；守住 production 原文與日星字體，並將 Chrome 發布閉環寫回 v3.14 | 資訊損失與版面瑕疵分級；依成功訊號回收 canonical URL，禁止 feed 延遲觸發重發 | [→](memory/2026-07-14-193334-manual.md) |
 | 2026-07-14 | 231143-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 15.04% 回 band（am 14.97% 未破）；免疫 60 stable；`0e89f3c8f` | wobble≠shape：#82 剛入 canonical 首次具體對照 | [→](memory/2026-07-14-231143-twmd-data-refresh-pm.md) |
 | 2026-07-15 | 005000-twmd-babel-nightly | 31 sync（0b 5＋0a 25＋Tier 3 1）；P0 abort：nemotron 台北吸菸室 fence-miss；`f9220650b` | cascade validation-fail 不 fallback ollama | [→](memory/2026-07-15-005000-twmd-babel-nightly.md) |
+| 2026-07-15 | 051733-twmd-embeddings-nightly | bge-m3 第十夜：4947 向量六語 0 fail／verify PASS／本機 127.0.0.1 命中；+2 向量（台北吸菸室進 en、大港開唱進 ko 鄰居圖）；`6856d6e2c` | 語意 diff 才看得到兌現什麼，`2 files changed` 是替身訊號（#82） | [→](memory/2026-07-15-051733-twmd-embeddings-nightly.md) |
