@@ -1,7 +1,56 @@
 {
-  "generatedAt": "2026-07-14T15:10:20.235Z",
+  "generatedAt": "2026-07-14T22:13:01.030Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "c1b8a118fbfb654c7dfc19218f7125e3d0a30932",
+      "date": "2026-07-15T05:19:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-15-051733-twmd-embeddings-nightly — bge-m3 第十夜 4947 向量 0 fail / PASS / 6856d6e2c",
+      "articles": []
+    },
+    {
+      "hash": "6856d6e2c2e67d2ca93b8c5af18e7a3f670bcc37",
+      "date": "2026-07-15T05:17:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-15 05:17",
+      "articles": []
+    },
+    {
+      "hash": "9638e528f7fd226f20e24d04a19bda8969664319",
+      "date": "2026-07-15T01:11:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-15-005000-twmd-babel-nightly — cascade retry gap 首次現形",
+      "articles": []
+    },
+    {
+      "hash": "e59927eb7c2e641a8c5f10c092f9d6a6fcdef4e1",
+      "date": "2026-07-15T01:08:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel-nightly: sync _translations.json for 2 new lang paths",
+      "articles": []
+    },
+    {
+      "hash": "f9220650b36b9c461b53ad4a251b41720d8f0e7c",
+      "date": "2026-07-15T01:07:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel-nightly: 31 sync — Tier 0b 5 + Tier 0a 25 + Tier 3 1 (2026-07-15)",
+      "articles": []
+    },
+    {
+      "hash": "6ffc4b5768a70b077aedde34b6faae3424e3e376",
+      "date": "2026-07-14T23:13:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-14-231143-twmd-data-refresh-pm — CF 404 回 band 中段 + REFLEXES #82 首次具體對照",
+      "articles": []
+    },
+    {
+      "hash": "0e89f3c8f9f0823b856aa53c37bab6feb955e07c",
+      "date": "2026-07-14T23:11:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh — 2026-07-14 pm",
+      "articles": []
+    },
     {
       "hash": "196880b109fc464e275f354133c443f475ec77a8",
       "date": "2026-07-14T19:38:27+08:00",

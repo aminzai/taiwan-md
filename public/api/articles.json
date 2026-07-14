@@ -5939,7 +5939,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/society/environmental-justice",
-    "readingTime": 35,
+    "readingTime": 36,
     "featured": false,
     "date": "2026-03-20",
     "path": "ja/Society/environmental-justice.md"
@@ -31188,7 +31188,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/society/taiwan-public-health-epidemic-response",
-    "readingTime": 53,
+    "readingTime": 54,
     "featured": false,
     "date": "2026-04-08",
     "path": "es/Society/taiwan-public-health-epidemic-response.md"
@@ -36021,7 +36021,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/society/environmental-justice",
-    "readingTime": 116,
+    "readingTime": 117,
     "featured": false,
     "date": "2026-03-20",
     "path": "fr/Society/environmental-justice.md"
@@ -36043,7 +36043,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/society/taiwan-environmental-justice-nimby-conflicts",
-    "readingTime": 113,
+    "readingTime": 114,
     "featured": false,
     "date": "2026-03-20",
     "path": "es/Society/taiwan-environmental-justice-nimby-conflicts.md"
@@ -47457,7 +47457,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/society/taiwan-public-health-epidemic-response",
-    "readingTime": 53,
+    "readingTime": 54,
     "featured": false,
     "date": "2026-04-08",
     "path": "fr/Society/taiwan-public-health-epidemic-response.md"
@@ -49004,6 +49004,17 @@
     "path": "en/Geography/taipei-city.md"
   },
   {
+    "title": "Taipei Smoking Room: The Glass Box That Breathes in a Smoke-Free City",
+    "description": "2026 May 7, a transparent box was erected next to Exit 6 of Ximen MRT Station, Taiwan's first outdoor negative-pressure smoking booth; when the door opens, wind blows in but does not escape. Taipei aims to be a smoke-free city, yet it first built a glass house for smoking on the street. From the 1984 case where a strict path removed a lung lobe, to indoor secondhand smoke dropping to 3.2% while nearly half remains outdoors, this box holds a legal cigarette and a city's unfinished public-space contract.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/society/taipei-smoking-room",
+    "readingTime": 164,
+    "featured": false,
+    "date": "2026-07-13",
+    "path": "en/Society/taipei-smoking-room.md"
+  },
+  {
     "title": "Taipei's Rat Problem: From the 1896 Governor-General's Plague Decree to the 2026 Hantavirus Case in Da'an District",
     "description": "In January 2026, a man in his 70s in Da'an District died of hantavirus — Taiwan's first such death in 25 years. But the real turning point was a policy that took effect the same month: the ban on feeding household food waste to pigs. When pigs stopped eating food waste, rats started eating Taipei.",
     "category": "en",
@@ -49572,7 +49583,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/taiwan-environmental-justice-nimby-conflicts",
-    "readingTime": 89,
+    "readingTime": 90,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Society/taiwan-environmental-justice-nimby-conflicts.md"
@@ -55833,7 +55844,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/geography/ximending",
-    "readingTime": 223,
+    "readingTime": 224,
     "featured": false,
     "date": "2026-05-21",
     "path": "fr/Geography/ximending.md"
@@ -55844,7 +55855,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/geography/ximending",
-    "readingTime": 229,
+    "readingTime": 230,
     "featured": false,
     "date": "2026-05-21",
     "path": "es/Geography/ximending.md"
@@ -60285,7 +60296,7 @@
       "질병관리서"
     ],
     "url": "https://taiwan.md/ko/society/taiwan-public-health-epidemic-response",
-    "readingTime": 21,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-04-08",
     "path": "ko/Society/taiwan-public-health-epidemic-response.md"
@@ -61859,6 +61870,17 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "ko/Economy/mega-financial-holding-global-banking-network.md"
+  },
+  {
+    "title": "메가포트: 항구 옆에서 탄생한 타이완 음악 축제",
+    "description": "메가포트는 2006년 가오슝 항구 옆에 설립된 타이완의 대형 야외 음악 축제로, 야台 개창 팀과 샤오링 멤버, TRA Music의 큐레이션 경험에서 출발하여 남 타이완 밴드, 타이완어 현장, 국제 라인업, NGO 의제 마을, 항구 도시 풍경을 같은 공간에 모아 놓았다. 이를 통해 가오슝 항구 옆은 타이완의 라이브 하우스 문화, 도시 정체성, 공공 논의가 서로 만나는 중요한 장이 되었다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/music/megaport-festival",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ko/Music/megaport-festival.md"
   },
   {
     "title": "메이데이 (五月天)",

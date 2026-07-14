@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T15:10:17.368Z",
+  "generated_at": "2026-07-14T22:12:58.162Z",
   "languages": ["en", "ja", "ko", "es", "fr"],
-  "total_entries": 12549,
+  "total_entries": 12555,
   "registry": {
     "en": {
       "toZh": {
@@ -744,6 +744,7 @@
         "/en/society/stray-animal-culture": "/society/%E5%8F%B0%E7%81%A3%E6%B5%81%E6%B5%AA%E5%8B%95%E7%89%A9%E6%96%87%E5%8C%96",
         "/en/society/sunflower-movement": "/society/%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B",
         "/en/society/taipei-rat-problem": "/society/%E5%8F%B0%E5%8C%97%E9%BC%A0%E6%82%A3",
+        "/en/society/taipei-smoking-room": "/society/%E5%8F%B0%E5%8C%97%E5%90%B8%E8%8F%B8%E5%AE%A4",
         "/en/society/taiwan-animal-drug-controversy": "/society/%E5%8F%B0%E7%81%A3%E5%8B%95%E7%89%A9%E7%94%A8%E8%97%A5%E7%88%AD%E8%AD%B0",
         "/en/society/taiwan-cram-school-culture": "/society/%E5%8F%B0%E7%81%A3%E8%A3%9C%E7%BF%92%E7%8F%AD%E6%96%87%E5%8C%96",
         "/en/society/taiwan-defense-modernization": "/society/%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%98%B2%E8%88%87%E8%BB%8D%E4%BA%8B%E7%8F%BE%E4%BB%A3%E5%8C%96",
@@ -2314,6 +2315,8 @@
         "/society/太陽花學運": "/en/society/sunflower-movement",
         "/society/%E5%8F%B0%E5%8C%97%E9%BC%A0%E6%82%A3": "/en/society/taipei-rat-problem",
         "/society/台北鼠患": "/en/society/taipei-rat-problem",
+        "/society/%E5%8F%B0%E5%8C%97%E5%90%B8%E8%8F%B8%E5%AE%A4": "/en/society/taipei-smoking-room",
+        "/society/台北吸菸室": "/en/society/taipei-smoking-room",
         "/society/%E5%8F%B0%E7%81%A3%E5%8B%95%E7%89%A9%E7%94%A8%E8%97%A5%E7%88%AD%E8%AD%B0": "/en/society/taiwan-animal-drug-controversy",
         "/society/台灣動物用藥爭議": "/en/society/taiwan-animal-drug-controversy",
         "/society/%E5%8F%B0%E7%81%A3%E8%A3%9C%E7%BF%92%E7%8F%AD%E6%96%87%E5%8C%96": "/en/society/taiwan-cram-school-culture",
@@ -5451,6 +5454,7 @@
         "/ko/music/little-tigers-taiwan-boy-band": "/music/%E5%B0%8F%E8%99%8E%E9%9A%8A",
         "/ko/music/loh-tsui-kang-commune": "/music/%E6%BF%81%E6%B0%B4%E6%BA%AA%E5%85%AC%E7%A4%BE",
         "/ko/music/mayday-band": "/music/%E4%BA%94%E6%9C%88%E5%A4%A9",
+        "/ko/music/megaport-festival": "/music/%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1",
         "/ko/music/pop-music-and-golden-melody-awards": "/music/%E9%87%91%E6%9B%B2%E7%8D%8E",
         "/ko/music/sodagreen": "/music/%E8%98%87%E6%89%93%E7%B6%A0",
         "/ko/music/sorry-youth-band": "/music/%E6%8B%8D%E8%AC%9D%E5%B0%91%E5%B9%B4",
@@ -6688,6 +6692,8 @@
         "/music/濁水溪公社": "/ko/music/loh-tsui-kang-commune",
         "/music/%E4%BA%94%E6%9C%88%E5%A4%A9": "/ko/music/mayday-band",
         "/music/五月天": "/ko/music/mayday-band",
+        "/music/%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1": "/ko/music/megaport-festival",
+        "/music/大港開唱": "/ko/music/megaport-festival",
         "/music/%E9%87%91%E6%9B%B2%E7%8D%8E": "/ko/music/pop-music-and-golden-melody-awards",
         "/music/金曲獎": "/ko/music/pop-music-and-golden-melody-awards",
         "/music/%E8%98%87%E6%89%93%E7%B6%A0": "/ko/music/sodagreen",

@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-14T15:10:26.185Z",
+  "lastUpdated": "2026-07-14T22:13:06.590Z",
   "totalArticles": 854,
   "contributors": 66,
-  "stars": 1104,
+  "stars": 1105,
   "forks": 163,
   "articlesLast7Days": 26,
   "articlesLast30Days": 134,
@@ -11,9 +11,9 @@
   "avgRevision": 7.8,
   "languageCoverage": {
     "zh-TW": 854,
-    "en": 857,
+    "en": 858,
     "ja": 845,
-    "ko": 844,
+    "ko": 845,
     "es": 844,
     "fr": 845
   }

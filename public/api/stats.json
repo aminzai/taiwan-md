@@ -1,5 +1,5 @@
 {
-  "totalArticles": 5101,
+  "totalArticles": 5103,
   "totalCategories": 20,
   "estimatedContributors": 66,
   "totalTags": 6080,
@@ -10,7 +10,7 @@
     },
     {
       "name": "ko",
-      "count": 846
+      "count": 847
     },
     {
       "name": "fr",
@@ -18,7 +18,7 @@
     },
     {
       "name": "en",
-      "count": 859
+      "count": 860
     },
     {
       "name": "ja",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5101,
+    "zh-TW": 5103,
     "en": 0
   },
-  "lastUpdated": "2026-07-14T15:10:18.497Z",
-  "stars": 1104,
+  "lastUpdated": "2026-07-14T22:12:59.240Z",
+  "stars": 1105,
   "forks": 163,
   "zhPages": 854,
-  "enPages": 859,
+  "enPages": 860,
   "totalPages": 854
 }
