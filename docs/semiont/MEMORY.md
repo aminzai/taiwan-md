@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-14
-last_session: '2026-07-14-084132-twmd-maintainer-am'
+last_session: '2026-07-14-193334-manual'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -337,3 +337,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-14 | 061412-twmd-data-refresh-am | am 14-step 全綠；CF 404 14.97% vc=10 首破 15% 下沿；免疫 60 stable；`4d42f4a48` | 單 cycle wobble ≠ shape shift；promote 需 3+ cycles（#82） | [→](memory/2026-07-14-061412-twmd-data-refresh-am.md) |
 | 2026-07-14 | 070914-twmd-feedback-triage | 真空隊列 no-op 第二日：fetched 0 / comment-sync 0（34 檔 archive 無新留言）；REST 回空≠env-error，write-path 活 | dry-run 0 ≠ 無可 sync，comment-sync 需 --commit 真跑（#82） | [→](memory/2026-07-14-070914-twmd-feedback-triage.md) |
 | 2026-07-14 | 084132-twmd-maintainer-am | ellenlee #1220 clean merge + 感謝 reply；#1222 draft skip；build 綠 / link 0.39% | scripts/core/ 三層防禦；repeat clean contributor default=merge | [→](memory/2026-07-14-084132-twmd-maintainer-am.md) |
+| 2026-07-14 | 193334-manual | 台北吸菸室孢子 #155／#156 雙平台上線；守住 production 原文與日星字體，並將 Chrome 發布閉環寫回 v3.14 | 資訊損失與版面瑕疵分級；依成功訊號回收 canonical URL，禁止 feed 延遲觸發重發 | [→](memory/2026-07-14-193334-manual.md) |
