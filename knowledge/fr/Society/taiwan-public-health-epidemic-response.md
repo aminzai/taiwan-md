@@ -19,10 +19,10 @@ readingTime: 14
 lastVerified: 2026-04-08
 lastHumanReview: false
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '9a60e8fd'
-sourceContentHash: 'sha256:d6bb10bad61ec15f'
-sourceBodyHash: 'sha256:4f3aba8b24585b02'
-translatedAt: '2026-05-25T21:07:36Z'
+sourceCommitSha: '49728f9d'
+sourceContentHash: 'sha256:84ffcc67e2e155cf'
+sourceBodyHash: 'sha256:8b3cd9fb7313dbef'
+translatedAt: '2026-07-14T16:51:23Z'
 ---
 
 > **En 30 secondes :** En 2003, le SRAS a tué 73 personnes à Taïwan, et la mise en quarantaine précipitée de l'hôpital Hoping est restée comme un traumatisme collectif dans l'histoire de la santé publique du pays. Taïwan a ensuite reconstruit de fond en comble tout son système épidémiologique : le Centre de contrôle des maladies a été élevé en rang, le mécanisme du Centre de commandement central des épidémies (CECC) a été inscrit dans la loi, et les protocoles de contrôle des infections ont été entièrement revus. Lorsque la COVID-19 s'est propagée à l'échelle mondiale en 2020, Taïwan a maintenu une transmission communautaire quasi nulle pendant les 18 premiers mois — un exploit salué internationalement sous le nom de « modèle taïwanais ». En avril 2026, Taïwan a enregistré son premier cas autochtone de grippe aviaire H7N7 transmise à l'humain : le système de lutte contre les épidémies est à nouveau mis à l'épreuve.
@@ -90,6 +90,8 @@ Le socle du système de lutte contre les épidémies à Taïwan, c'est l'assuran
 Vingt-trois ans après la mise sous scellés de l'hôpital Hoping, le bâtiment est toujours debout sur la rue Zhonghua à Taipei. Certains soignants qui passent aux urgences se souviennent encore de ce qui s'est passé. He Songrong a dit qu'il n'en voulait à personne, mais que cette cicatrice « n'était pas tout à fait guérie ». Peut-être n'a-t-elle pas besoin de l'être. Peut-être que l'organe le plus important d'un système de lutte contre les épidémies, c'est précisément la capacité de se souvenir de la douleur.
 
 **Pour aller plus loin**
+
+- [La salle des fumeurs de Taipei : la boîte de verre qui respire dans une ville sans fumée](/society/台北吸菸室) — Le dernier chapitre d'une lutte de quarante ans contre le tabagisme, alors que le front de bataille se déplace de l'intérieur vers l'extérieur
 
 - Système médical et assurance maladie universelle à Taïwan — L'infrastructure de base du système épidémiologique : la base de données de 23,4 millions d'assurés
 - Audrey Tang — La ministre déléguée au numérique derrière la carte des masques

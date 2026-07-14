@@ -19,10 +19,10 @@ readingTime: 14
 lastVerified: 2026-04-08
 lastHumanReview: false
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '9a60e8fd'
-sourceContentHash: 'sha256:d6bb10bad61ec15f'
-sourceBodyHash: 'sha256:4f3aba8b24585b02'
-translatedAt: '2026-05-25T21:06:51Z'
+sourceCommitSha: '49728f9d'
+sourceContentHash: 'sha256:84ffcc67e2e155cf'
+sourceBodyHash: 'sha256:8b3cd9fb7313dbef'
+translatedAt: '2026-07-14T16:48:15Z'
 ---
 
 > **30-second overview:** In 2003, SARS killed 73 people in Taiwan, and the Hoping Hospital lockdown became a collective trauma in public health history. Taiwan subsequently rebuilt its entire epidemic response system: the Taiwan CDC was elevated in status, the Central Epidemic Command Center (CECC) mechanism was codified in law, and infection control procedures were comprehensively revised. When COVID-19 spread globally in 2020, Taiwan maintained near-zero community transmission for the first 18 months — hailed by the international community as "the Taiwan Model." In April 2026, Taiwan's first domestic human case of H7N7 avian influenza was confirmed — the epidemic response system was tested once again.
@@ -90,6 +90,8 @@ At the foundation of Taiwan's epidemic response system is the National Health In
 Twenty-three years after the Hoping Hospital lockdown, that building still stands on Zhonghua Road in Taipei. Medical staff walking into the emergency room — some still remember what happened then. Ho Sung-jung said he holds no grudge, but that wound has "not completely healed." Perhaps it doesn't need to. Perhaps the most important organ of an epidemic response system is the one that remembers the pain.
 
 **Further reading**
+
+- [Taipei Smoking Room: In a Smoke-Free City, the Glass Booth That Breathes](/society/台北吸菸室) — The latest chapter in a four-decade campaign against tobacco harm, as the battleground shifts from indoors to outdoors
 
 - [Taiwan Healthcare and National Health Insurance](/lifestyle/台灣醫療與全民健保) — The foundational infrastructure of the epidemic response system: the NHI database of 23.4 million people
 - [Audrey Tang](/people/唐鳳) — The digital minister behind the mask map

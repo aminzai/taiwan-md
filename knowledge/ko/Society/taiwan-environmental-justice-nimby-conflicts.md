@@ -20,10 +20,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: Society/台灣環境正義與鄰避爭議.md
-sourceCommitSha: 44238bb4f
-sourceContentHash: sha256:ccdec2fddd52cf2e
-sourceBodyHash: sha256:25150a865ae0a680
-translatedAt: 2026-06-12T00:53:03+08:00
+sourceCommitSha: 49728f9d
+sourceContentHash: sha256:fde226895a6b4ce1
+sourceBodyHash: sha256:a1ad7c8705807524
+translatedAt: 2026-07-15T00:49:47+08:00
 ---
 
 # 타이완 환경정의와 님비 논쟁
@@ -221,6 +221,8 @@ translatedAt: 2026-06-12T00:53:03+08:00
 민주 사회의 환경 의사결정은 충분한 정보, 공개 토론, 절차적 정의에 기반해야 한다. 완벽한 해결책은 없지만 더 공정한 과정을 추구할 수 있다. 환경정의의 실현은 정부, 기업, 시민 사회의 공동 노력이 필요하며, 무엇보다 각 시민의 적극적 참여가 요구된다.
 
 **더 읽을거리**:
+
+- [타이베이 흡연실: 금연 도시 안에 놓인, 숨 쉬는 유리 상자](/society/台北吸菸室) — 흡연실을 누구의 집 앞에 지어야 하는지, 노숙인이 몰려들지는 않을지, 거리 규모의 님비 난제다
 
 - [타이완과 원자력에 대한 논의](/society/台灣與核能的討論) — 란위 다우족이 방사성 폐기물을 떠안았으나 논쟁의 중심에 서지 못한 이유: 원자력 논쟁 속 가장 깊은 님비와 환경정의 단층
 - [철판 건물](/society/鐵皮屋) — 원즈젠(塭仔圳) 철거는 환경정의의 대표적 사례: 400헥타르 철판 공장 집적지의 오염, 철거 및 이전 수용의 난제

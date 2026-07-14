@@ -28,10 +28,10 @@ lastVerified: '2026-05-21'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/西門町.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:f49241fb54f742a7'
-sourceBodyHash: 'sha256:d239bfa01292d203'
-translatedAt: '2026-06-16T17:05:07Z'
+sourceCommitSha: '49728f9d'
+sourceContentHash: 'sha256:527d6f6d267c802a'
+sourceBodyHash: 'sha256:08db5a34a2ebbaab'
+translatedAt: '2026-07-14T16:44:38Z'
 ---
 
 # Ximending: la calle de entretenimiento que los japoneses construyeron en 1896 y que, 130 años después, sigue siendo la calle más joven de Taipéi
@@ -173,6 +173,8 @@ El área planificada de Xinyi es una zona adulta diseñada por el capital en la 
 La próxima vez que pases por el Salón Octagonal de la Casa Roja de Ximen, detente 30 segundos a mirar ese edificio de ladrillo rojo. Hace 130 años, el suelo bajo tus pies era un mercado que los japoneses construyeron para los suyos; hoy, una chica taiwanesa de 18 años se fotografía aquí haciendo cosplay. El mismo cielo no ha cambiado en 130 años.
 
 **Lecturas complementarias**:
+
+- [La sala de fumar de Taipéi: en una ciudad libre de humo, la caja de vidrio que respira](/society/台北吸菸室) — la primera sala de fumar exterior de presión negativa de Taiwán, instalada en plena calle, junto a la salida del metro de Ximen
 
 - [Ciudad de Taipéi: tres tiempos dentro de una ciudad, el Longshan Temple de 1738 mirando al 101 de 2004](/geography/台北市) — La posición de Ximending entre los 12 distritos, junto a las tres líneas temporales de Monga, Dadaocheng y Xinyi
 - [Cultura del anime y manga en Taiwán](/culture/台灣動漫文化) — Por qué el cosplay se reúne de forma fija los fines de semana frente a la Casa Roja de Ximen, y su relación con el origen de Fancy Frontier en 1999

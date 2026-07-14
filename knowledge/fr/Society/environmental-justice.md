@@ -20,10 +20,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
-sourceCommitSha: '44238bb4f'
-sourceContentHash: 'sha256:ccdec2fddd52cf2e'
-sourceBodyHash: 'sha256:25150a865ae0a680'
-translatedAt: '2026-06-12T00:53:05+08:00'
+sourceCommitSha: '49728f9d'
+sourceContentHash: 'sha256:fde226895a6b4ce1'
+sourceBodyHash: 'sha256:a1ad7c8705807524'
+translatedAt: '2026-07-14T16:51:04Z'
 ---
 
 # Justice environnementale et conflits NIMBY à Taïwan
@@ -221,6 +221,8 @@ La justice environnementale n'est pas seulement un idéal, mais aussi une pratiq
 Dans une démocratie, les décisions environnementales devraient reposer sur une information complète, un débat ouvert et la justice procédurale. Il n'existe pas de solution parfaite, mais il est possible de rechercher un processus plus équitable. La réalisation de la justice environnementale nécessite les efforts conjoints du gouvernement, des entreprises et de la société civile, et surtout la participation active de chaque citoyen.
 
 **Pour aller plus loin** :
+
+- [Les fumoirs de Taipei : la boîte de verre qui respire au cœur d'une ville sans tabac](/society/台北吸菸室) — À qui la porte du fumoir, les sans-abri vont-ils s'y rassembler : un dilemme NIMBY à l'échelle de la rue
 
 - [Débat sur le nucléaire à Taïwan](/society/台灣與核能的討論) — Les Tao de Lanyu portent le fardeau des déchets nucléaires sans être au centre du débat : la fracture NIMBY et de justice environnementale la plus profonde dans la controverse nucléaire
 - [Les bâtiments en tôle ondulée](/society/鐵皮屋) — La démolition de Yunzihchen est un cas emblématique de justice environnementale : pollution, démantèlement et difficultés de relogement d'un ensemble de 400 hectares d'usines en tôle ondulée

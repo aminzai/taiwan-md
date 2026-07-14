@@ -28,7 +28,7 @@ translatedFrom: 'Geography/金瓜石.md'
 sourceCommitSha: '676c8cd6'
 sourceContentHash: 'sha256:36ec0adabddd5612'
 sourceBodyHash: 'sha256:7a207109d1ae592a'
-translatedAt: '2026-07-07T00:38:22+08:00'
+translatedAt: '2026-07-14T16:49:32Z'
 ---
 
 # 금과석(진궈스): 모래금에서 전포, 아직 씻겨지지 않은 비소 토양까지, 한 산 위에 겹겹이 쌓인 삶의 층위

@@ -19,10 +19,10 @@ lastVerified: '2026-04-08'
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
-sourceCommitSha: '9a60e8fd'
-sourceContentHash: 'sha256:d6bb10bad61ec15f'
-sourceBodyHash: 'sha256:4f3aba8b24585b02'
-translatedAt: '2026-05-26T21:07:27Z'
+sourceCommitSha: '49728f9d'
+sourceContentHash: 'sha256:84ffcc67e2e155cf'
+sourceBodyHash: 'sha256:8b3cd9fb7313dbef'
+translatedAt: '2026-07-14T16:50:19Z'
 ---
 
 > **Resumen en 30 segundos:** En 2003, el SARS causó 73 muertes en Taiwán; el cierre del Hospital Ho Ping se convirtió en un trauma colectivo en la historia de la salud pública. Después, Taiwán reconstruyó prácticamente todo su sistema de prevención epidémica: la agencia de control de enfermedades fue elevada de rango, el mecanismo del Centro de Comando de Epidemias Central (CECC) se formalizó por ley, y los protocolos de control de infecciones hospitalarias fueron revisados por completo. En 2020, cuando el COVID-19 se propagó globalmente, Taiwán mantuvo casi cero transmisión comunitaria durante los primeros 18 meses, lo que la comunidad internacional denominó el «Modelo Taiwán». En abril de 2026, Taiwán registró su primer caso local de gripe aviar H7N7 con transmisión de ave a humano: el sistema de prevención epidémica volvió a ser puesto a prueba.
@@ -90,6 +90,8 @@ Veintitrés millones cuatrocientas mil personas comparten una única base de dat
 Veintitrés años después del cierre del Hospital Ho Ping, aquel edificio sigue en pie en la avenida Zhonghua de Taipéi. Algunos de los profesionales sanitarios que entran hoy en urgencias aún recuerdan lo que pasó. Ho Jung-jung dice que no guarda rencor, pero aquella herida «no ha sanado del todo». Quizá no necesite sanar. Quizá el órgano más importante de un sistema de prevención epidémica sea la capacidad de recordar el dolor.
 
 **Lecturas complementarias**
+
+- [La sala de fumar de Taipéi: la caja de cristal que respira en una ciudad libre de humo](/society/台北吸菸室) — El capítulo más reciente de una marcha de cuarenta años contra el tabaco, con el frente trasladado de los interiores a la calle
 
 - [Seguro Nacional de Salud de Taiwán](/lifestyle/台灣醫療與全民健保) — La infraestructura base del sistema de prevención epidémica: la base de datos del seguro de salud de 23,4 millones de personas
 - [Audrey Tang](/people/唐鳳) — La ministra digital detrás del mapa de mascarillas

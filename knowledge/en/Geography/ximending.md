@@ -28,10 +28,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/西門町.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:f49241fb54f742a7'
-sourceBodyHash: 'sha256:d239bfa01292d203'
-translatedAt: '2026-06-16T17:03:25Z'
+sourceCommitSha: '49728f9d'
+sourceContentHash: 'sha256:527d6f6d267c802a'
+sourceBodyHash: 'sha256:08db5a34a2ebbaab'
+translatedAt: '2026-07-14T16:43:52Z'
 ---
 
 # Ximending: The Entertainment Street the Japanese Built in 1896 Is Still Taipei’s Youngest Street 130 Years Later
@@ -173,6 +173,8 @@ Xinyi Planning District is an adult district planned by capital in the 2000s. Th
 The next time you walk past the Octagonal Hall of the Ximen Red House, stop for 30 seconds and look at that red-brick building. The land beneath your feet was a market the Japanese built for themselves 130 years ago. Today, an 18-year-old Taiwanese girl takes cosplay photos here. The same sky has not changed in 130 years.
 
 **Further reading**:
+
+- [Taipei Smoking Room: In a Smoke-Free City, the Glass Booth That Breathes](/society/台北吸菸室) — Taiwan's first outdoor negative-pressure smoking room, standing right at the street corner by Ximen MRT's exit
 
 - [Taipei City: Three Times Inside One City, where the 1738 Longshan Temple Watches the 2004 Taipei 101](/geography/台北市) — Ximending’s position among the twelve districts, placed alongside the three timelines of Bangka, Dadaocheng, and Xinyi
 - [Taiwan Anime and Manga Culture](/culture/台灣動漫文化) — Why cosplay gathers regularly on weekends in front of the Ximen Red House, and its relationship to the origin of the Fancy Frontier convention in 1999

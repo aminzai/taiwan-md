@@ -18,10 +18,10 @@ lastVerified: '2026-03-20'
 lastHumanReview: false
 readingTime: '13'
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
-sourceCommitSha: '44238bb4f'
-sourceContentHash: 'sha256:ccdec2fddd52cf2e'
-sourceBodyHash: 'sha256:25150a865ae0a680'
-translatedAt: '2026-06-12T00:52:58+08:00'
+sourceCommitSha: '49728f9d'
+sourceContentHash: 'sha256:fde226895a6b4ce1'
+sourceBodyHash: 'sha256:a1ad7c8705807524'
+translatedAt: '2026-07-15T00:48:19+08:00'
 ---
 
 # Taiwan Environmental Justice and NIMBY Conflicts
@@ -219,6 +219,8 @@ Environmental justice is not merely an ideal but a practical necessity. Building
 Democratic environmental decision‑making should rest on ample information, open debate, and procedural justice. No perfect solution exists, but a more equitable process is achievable. Realizing environmental justice demands cooperation among government, industry, civil society, and active participation by every citizen.
 
 **Further Reading**:
+
+- [Taipei's Smoking Rooms: The Breathing Glass Box in a Smoke‑Free City](/society/台北吸菸室) — Whose doorstep should host the smoking room, and would homeless people gather there: a street‑level NIMBY dilemma
 
 - [Taiwan and Nuclear Power Discussion](/society/台灣與核能的討論) — The Tao people of Lanyu bear nuclear waste yet remain absent from the debate: the deepest NIMBY and environmental‑justice fault lines in nuclear discourse.
 - [Tin‑Roof Houses](/society/鐵皮屋) — The Wenzaichun relocation case as a typical environmental‑justice example: pollution, demolition, and resettlement challenges of a 400‑hectare tin‑roof factory settlement.

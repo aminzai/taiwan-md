@@ -28,10 +28,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/西門町.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:f49241fb54f742a7'
-sourceBodyHash: 'sha256:d239bfa01292d203'
-translatedAt: '2026-06-16T17:05:54Z'
+sourceCommitSha: '49728f9d'
+sourceContentHash: 'sha256:527d6f6d267c802a'
+sourceBodyHash: 'sha256:08db5a34a2ebbaab'
+translatedAt: '2026-07-14T16:44:57Z'
 ---
 
 # Ximending : le quartier de divertissement aménagé par les Japonais en 1896 reste, 130 ans plus tard, le plus jeune de Taipei
@@ -173,6 +173,8 @@ Le secteur planifié de Xinyi est un quartier adulte conçu par le capital des a
 La prochaine fois que vous passerez devant la salle octogonale de la Maison rouge de Ximen, arrêtez-vous 30 secondes pour regarder ce bâtiment de brique rouge. Il y a 130 ans, le sol sous vos pieds était un marché construit par les Japonais pour les leurs ; aujourd’hui, une Taïwanaise de 18 ans y prend des photos de cosplay. Le même ciel, inchangé depuis 130 ans.
 
 **Pour aller plus loin** :
+
+- [La salle à fumer de Taipei : dans une ville sans tabac, la boîte de verre qui respire](/society/台北吸菸室) — la première cabine à fumer extérieure à pression négative de Taïwan, installée dans la rue à la sortie du métro de Ximen
 
 - [Ville de Taipei : trois temporalités dans une même ville, le temple Longshan de 1738 regardant Taipei 101 de 2004](/geography/台北市) — la place de Ximending parmi les 12 districts, mise en parallèle avec les trois lignes temporelles de Bangka, Dadaocheng et Xinyi
 - [Culture taïwanaise de l’animation et du manga](/culture/台灣動漫文化) — pourquoi le cosplay se rassemble régulièrement le week-end devant la Maison rouge de Ximen, et son lien avec l’origine de Fancy Frontier en 1999

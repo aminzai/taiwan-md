@@ -28,10 +28,10 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/西門町.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:f49241fb54f742a7'
-sourceBodyHash: 'sha256:d239bfa01292d203'
-translatedAt: '2026-06-16T17:04:12Z'
+sourceCommitSha: '49728f9d'
+sourceContentHash: 'sha256:527d6f6d267c802a'
+sourceBodyHash: 'sha256:08db5a34a2ebbaab'
+translatedAt: '2026-07-14T16:43:31Z'
 ---
 
 # 西門町：日本人が 1896 年につくった娯楽街は、130 年後も台北で最も若い街です
@@ -173,6 +173,8 @@ _2022 年 12 月、クリスマスの夜の西門歩行者天国。Photo: 迷惘
 次に西門紅楼の八角堂の前を通る時は、30 秒だけ立ち止まって、あの赤煉瓦の建物を見てください。足元のこの土地は、130 年前には日本人が自分たちのために建てた市場でした。今日は 18 歳の台湾の少女がここで Cosplay の写真を撮っています。同じ空の下で、130 年、変わっていません。
 
 **延伸閱讀**：
+
+- [台北吸菸室：無菸城市裡，那格會呼吸的玻璃盒子](/society/台北吸菸室) — 台湾初の屋外型陰圧喫煙室が、西門駅の出口に面した街角に立っています
 
 - [台北市：一座城裡的三個時間，1738 龍山寺看著 2004 的 101](/geography/台北市) — 12 区の中における西門町の位置を、艋舺、大稲埕、信義という三つの時間軸と並べて置いています
 - [台灣動漫文化](/culture/台灣動漫文化) — Cosplay がなぜ西門紅楼前に週末ごとに集まるようになったのか、そして 1999 年に始まった開拓動漫祭との関係

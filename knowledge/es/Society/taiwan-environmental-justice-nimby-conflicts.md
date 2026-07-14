@@ -20,10 +20,10 @@ lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
-sourceCommitSha: '44238bb4f'
-sourceContentHash: 'sha256:ccdec2fddd52cf2e'
-sourceBodyHash: 'sha256:25150a865ae0a680'
-translatedAt: '2026-06-12T00:53:04+08:00'
+sourceCommitSha: '49728f9d'
+sourceContentHash: 'sha256:fde226895a6b4ce1'
+sourceBodyHash: 'sha256:a1ad7c8705807524'
+translatedAt: '2026-07-14T16:50:05Z'
 ---
 
 # Justicia ambiental y conflictos NIMBY en Taiwán
@@ -221,6 +221,8 @@ La justicia ambiental no es solo un ideal, sino también una cuestión práctica
 Las decisiones ambientales en una democracia deben basarse en información suficiente, debate público y justicia procesal. No existe una solución perfecta, pero se puede aspirar a un proceso más equitativo. La realización de la justicia ambiental requiere el esfuerzo conjunto del gobierno, las empresas y la sociedad civil, y sobre todo la participación activa de cada ciudadano.
 
 **Lecturas complementarias**:
+
+- [Salas de fumadores de Taipéi: la caja de cristal que respira en una ciudad libre de humo](/society/台北吸菸室) — Dónde construir la sala de fumadores y si atraerá a personas sin hogar: un dilema NIMBY a escala de calle
 
 - [El debate sobre la energía nuclear en Taiwán](/society/台灣與核能的討論) — Los Tao de Lanyu soportan los desechos nucleares pero quedan al margen del debate: la fractura más profunda entre NIMBY y justicia ambiental en la controversia nuclear
 - [Las construcciones de chapa](/society/鐵皮屋) — La demolición de Wenzizhun como caso paradigmático de justicia ambiental: contaminación, desmantelamiento y dilemas de reasentamiento en un asentamiento industrial de 400 hectáreas de construcciones de chapa
