@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T22:12:02.065Z",
+  "lastUpdated": "2026-07-14T15:10:26.185Z",
   "organs": [
     {
       "id": "heart",
@@ -10,8 +10,8 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 36,
-        "articlesLast30Days": 138,
+        "articlesLast7Days": 26,
+        "articlesLast30Days": 134,
         "totalArticles": 854
       }
     },
@@ -80,11 +80,11 @@
       "nameZh": "繁殖系統",
       "metaphor": "社群繁殖力",
       "emoji": "🧫",
-      "score": 100,
+      "score": 90,
       "trend": "up",
       "metrics": {
         "recentContributors": 8,
-        "recentSpores": 7,
+        "recentSpores": 3,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 179179,
         "hasBlockbuster": true

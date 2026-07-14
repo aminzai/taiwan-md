@@ -1,7 +1,130 @@
 {
-  "generatedAt": "2026-07-13T22:11:56.398Z",
+  "generatedAt": "2026-07-14T15:10:20.235Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "196880b109fc464e275f354133c443f475ec77a8",
+      "date": "2026-07-14T19:38:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 一個孤行末字的品質邊界",
+      "articles": [
+        {
+          "url": "/society/台北吸菸室",
+          "name": "台北吸菸室"
+        }
+      ]
+    },
+    {
+      "hash": "f3090828e371d4e65b86438701f1dd79a9c2859e",
+      "date": "2026-07-14T19:37:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 台北吸菸室孢子雙平台發布",
+      "articles": []
+    },
+    {
+      "hash": "cfd41fd70fff786ab689e217cc0220c6c7b8988c",
+      "date": "2026-07-14T19:35:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "evolve: harden spore ship verification",
+      "articles": []
+    },
+    {
+      "hash": "497a5f5c74ca94b411e292d51b080fe24d3c8744",
+      "date": "2026-07-14T19:32:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "spore: publish 台北吸菸室 #155 #156",
+      "articles": [
+        {
+          "url": "/society/台北吸菸室",
+          "name": "台北吸菸室"
+        }
+      ]
+    },
+    {
+      "hash": "93bcd95258804b4633f104359b2d8e2210762e37",
+      "date": "2026-07-14T19:10:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite-daily: 18:00 fire ABORT — daily 飛輪已於 12:34 台北吸菸室 depth ship 用完 (vc=10, per REFLEXES #64)",
+      "articles": []
+    },
+    {
+      "hash": "49728f9d596b3f47ab69bc6fe7d14612f70ae6e6",
+      "date": "2026-07-14T12:38:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] cross-link: 為「台北吸菸室」建立雙向延伸閱讀",
+      "articles": [
+        {
+          "url": "/geography/西門町",
+          "name": "西門町"
+        },
+        {
+          "url": "/history/戒嚴時期",
+          "name": "戒嚴時期"
+        },
+        {
+          "url": "/society/台灣公共衛生與防疫體系",
+          "name": "台灣公共衛生與防疫體系"
+        },
+        {
+          "url": "/society/台灣環境正義與鄰避爭議",
+          "name": "台灣環境正義與鄰避爭議"
+        }
+      ]
+    },
+    {
+      "hash": "1516b56a43909bc69800e8c956846bae71aa4ef6",
+      "date": "2026-07-14T12:34:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台北吸菸室——無菸城市裡的一格玻璃屋",
+      "articles": [
+        {
+          "url": "/society/台北吸菸室",
+          "name": "台北吸菸室"
+        }
+      ]
+    },
+    {
+      "hash": "14ea702cd811e11ce71a9dd42456c1fcc6af4856",
+      "date": "2026-07-14T08:43:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-maintainer-am: ellenlee #1220 clean merge — 2026-07-14 am",
+      "articles": []
+    },
+    {
+      "hash": "fef6de15aa2d6af50460b275dc3154a8601b6aa4",
+      "date": "2026-07-14T08:41:04+08:00",
+      "author": "Ellen Lee",
+      "message": "fix: guard contributor profile links (#1220)",
+      "articles": []
+    },
+    {
+      "hash": "db2469d0a616dcaed18c28a8338601d552518915",
+      "date": "2026-07-14T07:11:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 07:00 真空隊列 no-op 第二日 — 0 筆新回報 — 2026-07-14 am",
+      "articles": []
+    },
+    {
+      "hash": "fdef11d00132915f645dbe869fb72ddcfc4b9640",
+      "date": "2026-07-14T06:45:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest-am: #154 D+7 finalize + Bucket E draft-defer — 2026-07-14 am",
+      "articles": []
+    },
+    {
+      "hash": "8676cf76f90186b3763909db73a3ac500a807938",
+      "date": "2026-07-14T06:17:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-14-061412-twmd-data-refresh-am — CF 404 vc=10 首破 15% band 下沿 + plateau 讀解校正",
+      "articles": []
+    },
+    {
+      "hash": "4d42f4a4828ab3e6d2952b9c4bbe548c52979a32",
+      "date": "2026-07-14T06:13:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh — 2026-07-14 am",
+      "articles": []
+    },
     {
       "hash": "9d468101b6514ec74d8ab7698af4c58602e06011",
       "date": "2026-07-14T05:19:25+08:00",

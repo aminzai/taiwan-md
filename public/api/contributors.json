@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T22:11:57.585Z",
+  "lastUpdated": "2026-07-14T15:10:21.608Z",
   "totals": {
     "contributors": 66,
     "activeWindow": "last 30d"
@@ -7,15 +7,15 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 5000,
+      "commits": 5013,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-07-14 05:19:25 +0800",
+      "lastCommitAt": "2026-07-14 19:38:27 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1025,
-        "system": 3515,
+        "content": 1030,
+        "system": 3524,
         "translation": 841
       }
     },
@@ -105,7 +105,7 @@
     },
     {
       "login": "ellenlee",
-      "commits": 15,
+      "commits": 16,
       "avatarUrl": "https://avatars.githubusercontent.com/u/13810570?v=4",
       "profileUrl": "https://github.com/ellenlee",
       "firstCommitAt": null,
@@ -338,10 +338,10 @@
     },
     {
       "login": "ellenlee",
-      "name": "ellenlee",
+      "name": "Ellen Lee",
       "avatarUrl": "https://avatars.githubusercontent.com/u/13810570?v=4",
       "profileUrl": "https://github.com/ellenlee",
-      "types": ["💻"]
+      "types": ["💻", "🖋️", "🌍"]
     },
     {
       "login": "AgendaLu",
@@ -825,15 +825,15 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 5000,
+      "commits": 5013,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-07-14 05:19:25 +0800",
+      "lastCommitAt": "2026-07-14 19:38:27 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1025,
-        "system": 3515,
+        "content": 1030,
+        "system": 3524,
         "translation": 841
       }
     },

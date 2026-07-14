@@ -1,47 +1,47 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-14T06:11:52+08:00",
-    "zhCommitHead": "9d468101b",
+    "lastUpdated": "2026-07-14T23:10:16+08:00",
+    "zhCommitHead": "196880b10",
     "totalZh": 856,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 856,
-        "fresh": 844,
-        "stale": 10,
-        "metadata_stale": 0,
+        "fresh": 840,
+        "stale": 13,
+        "metadata_stale": 1,
         "missing": 2,
         "orphan": 0
       },
       "ja": {
         "total_zh": 856,
-        "fresh": 836,
-        "stale": 11,
-        "metadata_stale": 0,
+        "fresh": 832,
+        "stale": 14,
+        "metadata_stale": 1,
         "missing": 9,
         "orphan": 0
       },
       "ko": {
         "total_zh": 856,
-        "fresh": 834,
-        "stale": 11,
-        "metadata_stale": 0,
+        "fresh": 830,
+        "stale": 14,
+        "metadata_stale": 1,
         "missing": 11,
         "orphan": 0
       },
       "es": {
         "total_zh": 856,
-        "fresh": 835,
-        "stale": 11,
-        "metadata_stale": 0,
+        "fresh": 831,
+        "stale": 14,
+        "metadata_stale": 1,
         "missing": 10,
         "orphan": 0
       },
       "fr": {
         "total_zh": 856,
-        "fresh": 834,
-        "stale": 12,
-        "metadata_stale": 0,
+        "fresh": 830,
+        "stale": 15,
+        "metadata_stale": 1,
         "missing": 10,
         "orphan": 0
       }
@@ -18066,9 +18066,9 @@
     },
     "Society/台北吸菸室.md": {
       "zh": {
-        "lastCommit": "",
-        "lastModified": "",
-        "contentHash": "sha256:b28fbf5ddf531b39",
+        "lastCommit": "196880b1",
+        "lastModified": "2026-07-14T19:38:27+08:00",
+        "contentHash": "sha256:154106c14a84262b",
         "bodyHash": "sha256:d87917b84c6a12b1"
       },
       "translations": {
@@ -18411,10 +18411,10 @@
     },
     "Society/台灣環境正義與鄰避爭議.md": {
       "zh": {
-        "lastCommit": "44238bb4",
-        "lastModified": "2026-06-07T17:57:41+08:00",
-        "contentHash": "sha256:ccdec2fddd52cf2e",
-        "bodyHash": "sha256:25150a865ae0a680"
+        "lastCommit": "49728f9d",
+        "lastModified": "2026-07-14T12:38:09+08:00",
+        "contentHash": "sha256:fde226895a6b4ce1",
+        "bodyHash": "sha256:a1ad7c8705807524"
       },
       "translations": {
         "en": {
@@ -18428,8 +18428,10 @@
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ja": {
           "path": "ja/Society/environmental-justice.md",
@@ -18442,8 +18444,10 @@
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ko": {
           "path": "ko/Society/taiwan-environmental-justice-nimby-conflicts.md",
@@ -18456,8 +18460,10 @@
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "es": {
           "path": "es/Society/taiwan-environmental-justice-nimby-conflicts.md",
@@ -18470,8 +18476,10 @@
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "fr": {
           "path": "fr/Society/environmental-justice.md",
@@ -18484,8 +18492,10 @@
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         }
       }
     },
@@ -21771,10 +21781,10 @@
     },
     "Society/台灣公共衛生與防疫體系.md": {
       "zh": {
-        "lastCommit": "9a60e8fd",
-        "lastModified": "2026-05-19T13:36:42+08:00",
-        "contentHash": "sha256:d6bb10bad61ec15f",
-        "bodyHash": "sha256:4f3aba8b24585b02"
+        "lastCommit": "49728f9d",
+        "lastModified": "2026-07-14T12:38:09+08:00",
+        "contentHash": "sha256:84ffcc67e2e155cf",
+        "bodyHash": "sha256:8b3cd9fb7313dbef"
       },
       "translations": {
         "en": {
@@ -21788,8 +21798,10 @@
           "translationLastModified": "2026-05-26T08:08:43+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ja": {
           "path": "ja/Society/taiwan-public-health-epidemic-response.md",
@@ -21802,8 +21814,10 @@
           "translationLastModified": "2026-05-26T08:08:43+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ko": {
           "path": "ko/Society/taiwan-public-health-epidemic-response.md",
@@ -21816,8 +21830,10 @@
           "translationLastModified": "2026-05-26T08:08:43+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "es": {
           "path": "es/Society/taiwan-public-health-epidemic-response.md",
@@ -21830,8 +21846,10 @@
           "translationLastModified": "2026-05-26T08:08:43+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "fr": {
           "path": "fr/Society/taiwan-public-health-epidemic-response.md",
@@ -21844,8 +21862,10 @@
           "translationLastModified": "2026-05-26T08:08:43+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         }
       }
     },
@@ -54530,9 +54550,9 @@
     },
     "History/戒嚴時期.md": {
       "zh": {
-        "lastCommit": "6c2f8ea8",
-        "lastModified": "2026-05-26T15:58:37+08:00",
-        "contentHash": "sha256:9fd9fada2ad417e2",
+        "lastCommit": "49728f9d",
+        "lastModified": "2026-07-14T12:38:09+08:00",
+        "contentHash": "sha256:3810dc2ca3fa3982",
         "bodyHash": "sha256:028c0bee94ad5d00"
       },
       "translations": {
@@ -54547,8 +54567,10 @@
           "translationLastModified": "2026-05-28T06:12:46+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ja": {
           "path": "ja/History/martial-law-era.md",
@@ -54561,8 +54583,10 @@
           "translationLastModified": "2026-05-28T06:12:46+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ko": {
           "path": "ko/History/martial-law-era.md",
@@ -54575,8 +54599,10 @@
           "translationLastModified": "2026-05-28T06:12:46+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "es": {
           "path": "es/History/martial-law-era.md",
@@ -54589,8 +54615,10 @@
           "translationLastModified": "2026-05-28T06:12:46+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "fr": {
           "path": "fr/History/martial-law-era.md",
@@ -54603,8 +54631,10 @@
           "translationLastModified": "2026-05-28T06:12:46+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         }
       }
     },
@@ -60210,10 +60240,10 @@
     },
     "Geography/西門町.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:f49241fb54f742a7",
-        "bodyHash": "sha256:d239bfa01292d203"
+        "lastCommit": "49728f9d",
+        "lastModified": "2026-07-14T12:38:09+08:00",
+        "contentHash": "sha256:527d6f6d267c802a",
+        "bodyHash": "sha256:08db5a34a2ebbaab"
       },
       "translations": {
         "en": {
@@ -60227,8 +60257,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ja": {
           "path": "ja/Geography/ximending.md",
@@ -60241,8 +60273,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ko": {
           "path": "ko/Geography/ximending.md",
@@ -60255,8 +60289,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "es": {
           "path": "es/Geography/ximending.md",
@@ -60269,8 +60305,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "fr": {
           "path": "fr/Geography/ximending.md",
@@ -60283,8 +60321,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         }
       }
     },

@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-13T22:11:55Z",
+  "timestamp": "2026-07-14T15:10:19Z",
   "total": 856,
-  "flagged": 339,
+  "flagged": 340,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -486,8 +486,8 @@
     },
     {
       "file": "society/台灣環境正義與鄰避爭議.md",
-      "score": 4,
-      "reasons": "年份4個; 空洞詞7個; 未人工審核; 無腳註"
+      "score": 6,
+      "reasons": "年份4個; 空洞詞7個; 未人工審核; 後段清單堆砌32%; 無腳註"
     },
     {
       "file": "society/一個教師的誕生：台灣師資培育制度.md",
@@ -1368,6 +1368,11 @@
       "file": "history/跨黨派的好政策.md",
       "score": 7,
       "reasons": "空洞詞14個; 未人工審核; 塑膠句1個; 破折號10個; 稀薄段落×1"
+    },
+    {
+      "file": "history/戒嚴時期.md",
+      "score": 4,
+      "reasons": "後段清單堆砌32%; 稀薄段落×2"
     },
     {
       "file": "history/心戰.md",

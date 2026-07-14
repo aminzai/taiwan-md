@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-13T22:44:00.994423Z",
+  "lastUpdated": "2026-07-14T15:10:17.464441Z",
   "schemaVersion": "1.1",
   "totals": {
-    "count": 144,
+    "count": 146,
     "platforms": {
-      "threads": 75,
-      "x": 65,
+      "threads": 76,
+      "x": 66,
       "other": 4
     },
     "languages": {
-      "zh": 137,
+      "zh": 139,
       "en": 7
     },
     "templates": {
-      "B": 47,
+      "B": 49,
       "A": 32,
       "D": 4,
       "A2": 55,
@@ -21,6 +21,38 @@
     }
   },
   "recent": [
+    {
+      "n": 156,
+      "date": "2026-07-14",
+      "platform": "x",
+      "article": "台北吸菸室",
+      "articleSlug": "台北吸菸室",
+      "category": "society",
+      "template": "B 冷知識型／歷史足跡",
+      "url": "https://x.com/taiwandotmd/status/2076992601543327976",
+      "highlight": "同#155六段長文，X Premium inline s156 UTM；方形production圖與日星字體",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
+    {
+      "n": 155,
+      "date": "2026-07-14",
+      "platform": "threads",
+      "article": "台北吸菸室",
+      "articleSlug": "台北吸菸室",
+      "category": "society",
+      "template": "B 冷知識型／歷史足跡",
+      "url": "https://www.threads.com/@taiwandotmd/post/DaxYe4Sk52Q",
+      "highlight": "從台北戶外吸菸室回看1937至2026年的菸業、反菸與公共空氣發展足跡；方形production圖、日星字體、六段長文",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
     {
       "n": 154,
       "date": "2026-07-07",
@@ -67,38 +99,6 @@
       "views_latest": 4799,
       "engagements_7d": 218,
       "rate_7d": 4.54,
-      "backfilled": true
-    },
-    {
-      "n": 151,
-      "date": "2026-06-25",
-      "platform": "x",
-      "article": "mini-taiwan-pulse",
-      "articleSlug": "mini-taiwan-pulse",
-      "category": "technology",
-      "template": "B 冷知識型 / 策展審美角度 (Tier 1b)",
-      "url": "https://x.com/taiwandotmd/status/2070173370118000879",
-      "highlight": "Migu 用都市計畫的眼睛把台灣零散開放資料策展成會呼吸的地圖；AI 是苦工，審美是主角",
-      "views_7d": 2338,
-      "views_latest": 2338,
-      "engagements_7d": 124,
-      "rate_7d": 5.3,
-      "backfilled": true
-    },
-    {
-      "n": 150,
-      "date": "2026-06-25",
-      "platform": "threads",
-      "article": "mini-taiwan-pulse",
-      "articleSlug": "mini-taiwan-pulse",
-      "category": "technology",
-      "template": "B 冷知識型 / 策展審美角度 (Tier 1b)",
-      "url": "https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6",
-      "highlight": "Migu 用都市計畫的眼睛把台灣零散開放資料策展成會呼吸的地圖；AI 是苦工，審美是主角",
-      "views_7d": 9093,
-      "views_latest": 9093,
-      "engagements_7d": 526,
-      "rate_7d": 5.78,
       "backfilled": true
     }
   ],
@@ -217,7 +217,24 @@
       "maxRate": 9.09
     }
   },
-  "backfillWarnings": [],
+  "backfillWarnings": [
+    {
+      "n": 155,
+      "article": "台北吸菸室",
+      "platform": "threads",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://www.threads.com/@taiwandotmd/post/DaxYe4Sk52Q"
+    },
+    {
+      "n": 156,
+      "article": "台北吸菸室",
+      "platform": "x",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://x.com/taiwandotmd/status/2076992601543327976"
+    }
+  ],
   "noUrlHistorical": [
     {
       "n": 1,
@@ -249,11 +266,6 @@
     }
   ],
   "weeklyPulse": [
-    {
-      "week": "2026-W20",
-      "published": 6,
-      "avgViews": 15216
-    },
     {
       "week": "2026-W21",
       "published": 8,
@@ -288,6 +300,11 @@
       "week": "2026-W28",
       "published": 1,
       "avgViews": 3435
+    },
+    {
+      "week": "2026-W29",
+      "published": 2,
+      "avgViews": 0
     }
   ],
   "harvestStatus": [
@@ -1730,6 +1747,26 @@
       "withinHarvestWindow": true,
       "harvestCount": 6,
       "lastHarvest": "2026-07-14 06:42"
+    },
+    {
+      "n": 155,
+      "article": "台北吸菸室",
+      "platform": "threads",
+      "publishDate": "2026-07-14",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
+    },
+    {
+      "n": 156,
+      "article": "台北吸菸室",
+      "platform": "x",
+      "publishDate": "2026-07-14",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
     }
   ]
 }
