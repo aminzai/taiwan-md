@@ -153,6 +153,13 @@
       "contributions": ["code", "security"]
     },
     {
+      "login": "ellenlee",
+      "name": "Ellen Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/ellenlee",
+      "profile": "https://github.com/ellenlee",
+      "contributions": ["content", "translation"]
+    },
+    {
       "login": "eryet",
       "name": "EryetChen",
       "avatar_url": "https://avatars.githubusercontent.com/u/48248414?v=4",
@@ -426,5 +433,5 @@
       "contributions": ["code"]
     }
   ],
-  "totalContributors": 51
+  "totalContributors": 52
 }
