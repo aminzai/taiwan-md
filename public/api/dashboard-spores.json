@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T22:12:58.173906Z",
+  "lastUpdated": "2026-07-14T22:42:21.918181Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 146,
@@ -32,10 +32,10 @@
       "url": "https://x.com/taiwandotmd/status/2076992601543327976",
       "highlight": "同#155六段長文，X Premium inline s156 UTM；方形production圖與日星字體",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 344,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 155,
@@ -48,10 +48,10 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DaxYe4Sk52Q",
       "highlight": "從台北戶外吸菸室回看1937至2026年的菸業、反菸與公共空氣發展足跡；方形production圖、日星字體、六段長文",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 451,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 154,
@@ -63,10 +63,10 @@
       "template": "A2 立體群像（陌生鋼琴暖弧）",
       "url": "https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F",
       "highlight": "卡七年靠換兩個陌生把自己寫回來；立體 re-frame 同步",
-      "views_7d": 3435,
-      "views_latest": 3435,
+      "views_7d": 3439,
+      "views_latest": 3439,
       "engagements_7d": 118,
-      "rate_7d": 3.44,
+      "rate_7d": 3.43,
       "backfilled": true
     },
     {
@@ -299,12 +299,12 @@
     {
       "week": "2026-W28",
       "published": 1,
-      "avgViews": 3435
+      "avgViews": 3439
     },
     {
       "week": "2026-W29",
       "published": 2,
-      "avgViews": 0
+      "avgViews": 398
     }
   ],
   "harvestStatus": [
@@ -1745,8 +1745,8 @@
       "publishDate": "2026-07-07",
       "daysSincePublish": 8,
       "withinHarvestWindow": false,
-      "harvestCount": 6,
-      "lastHarvest": "2026-07-14 06:42"
+      "harvestCount": 7,
+      "lastHarvest": "2026-07-15 06:40"
     },
     {
       "n": 155,
@@ -1755,8 +1755,8 @@
       "publishDate": "2026-07-14",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-07-15 06:40"
     },
     {
       "n": 156,
@@ -1765,8 +1765,8 @@
       "publishDate": "2026-07-14",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-07-15 06:40"
     }
   ]
 }

@@ -6027,6 +6027,42 @@
       "comments": 8,
       "shares": 6,
       "source": "harvest"
+    },
+    {
+      "spore": 154,
+      "dPlus": 8,
+      "at": "2026-07-15 06:40",
+      "batch": "batch-2026-07-15-am",
+      "views": 3439,
+      "likes": 98,
+      "reposts": 6,
+      "comments": 8,
+      "shares": 6,
+      "source": "chrome-mcp"
+    },
+    {
+      "spore": 155,
+      "dPlus": 1,
+      "at": "2026-07-15 06:40",
+      "batch": "batch-2026-07-15-am",
+      "views": 451,
+      "likes": 11,
+      "reposts": 1,
+      "comments": 1,
+      "shares": 1,
+      "source": "chrome-mcp"
+    },
+    {
+      "spore": 156,
+      "dPlus": 1,
+      "at": "2026-07-15 06:40",
+      "batch": "batch-2026-07-15-am",
+      "views": 344,
+      "likes": 4,
+      "reposts": 1,
+      "comments": 0,
+      "shares": null,
+      "source": "chrome-mcp"
     }
   ]
 }

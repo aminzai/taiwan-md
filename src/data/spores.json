@@ -1,10 +1,10 @@
 {
-  "_generated": "2026-07-14T23:09:38+08:00",
+  "_generated": "2026-07-15T06:42:21+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 146,
     "articles": 71,
-    "withMetrics": 134
+    "withMetrics": 136
   },
   "spores": [
     {
@@ -8106,16 +8106,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F",
       "template": "A2 立體群像（陌生鋼琴暖弧）",
       "metrics": {
-        "views": 3435,
+        "views": 3439,
         "likes": 98,
         "reposts": 6,
         "comments": 8,
         "shares": 6
       },
       "metricsAsOf": {
-        "dPlus": 7,
-        "harvestDate": "2026-07-14 06:42",
-        "batch": "batch-2026-07-14-am.md",
+        "dPlus": 8,
+        "harvestDate": "2026-07-15 06:40",
+        "batch": "batch-2026-07-15-am",
         "source": "harvest"
       },
       "history": [
@@ -8178,6 +8178,16 @@
           "reposts": 6,
           "comments": 8,
           "shares": 6
+        },
+        {
+          "dPlus": 8,
+          "harvestDate": "2026-07-15 06:40",
+          "batch": "batch-2026-07-15-am",
+          "views": 3439,
+          "likes": 98,
+          "reposts": 6,
+          "comments": 8,
+          "shares": 6
         }
       ]
     },
@@ -8192,14 +8202,30 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DaxYe4Sk52Q",
       "template": "B 冷知識型／歷史足跡",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
-        "shares": null
+        "views": 451,
+        "likes": 11,
+        "reposts": 1,
+        "comments": 1,
+        "shares": 1
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 1,
+        "harvestDate": "2026-07-15 06:40",
+        "batch": "batch-2026-07-15-am",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-07-15 06:40",
+          "batch": "batch-2026-07-15-am",
+          "views": 451,
+          "likes": 11,
+          "reposts": 1,
+          "comments": 1,
+          "shares": 1
+        }
+      ]
     },
     {
       "id": 156,
@@ -8212,14 +8238,30 @@
       "url": "https://x.com/taiwandotmd/status/2076992601543327976",
       "template": "B 冷知識型／歷史足跡",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
+        "views": 344,
+        "likes": 4,
+        "reposts": 1,
+        "comments": 0,
         "shares": null
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 1,
+        "harvestDate": "2026-07-15 06:40",
+        "batch": "batch-2026-07-15-am",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-07-15 06:40",
+          "batch": "batch-2026-07-15-am",
+          "views": 344,
+          "likes": 4,
+          "reposts": 1,
+          "comments": 0,
+          "shares": null
+        }
+      ]
     }
   ],
   "byArticle": {
