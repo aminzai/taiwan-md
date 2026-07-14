@@ -3,9 +3,9 @@ title: 'SPORE-PIPELINE'
 description: '孢子產線主流程（process layer）— 5 stage PICK/VERIFY/WRITE/SHIP/HARVEST + Step N.M (v3.8)'
 type: 'factory-canonical'
 status: 'canonical'
-current_version: 'v3.13'
+current_version: 'v3.14'
 last_updated: 2026-07-14
-last_session: '2026-07-14-184103-manual（發布圖忠實繼承文章 title／description）'
+last_session: '2026-07-14-193334-manual-finale（production 圖、Chrome ship 與 canonical 回讀閉環）'
 sister_docs:
   - 'SPORE-WRITING.md'
   - 'SPORE-VERIFY.md'
@@ -18,7 +18,7 @@ upstream_canonical:
   - '../editorial/EDITORIAL.md'
 ---
 
-# SPORE-PIPELINE.md — 孢子產線主流程（process layer）v3.13
+# SPORE-PIPELINE.md — 孢子產線主流程（process layer）v3.14
 
 > **第一性原理**：這份文件是 AI 可執行的。任何 AI agent 讀完本檔 + WRITING + VERIFY，應該能獨立完成一篇孢子的選題、品檢、撰寫、發佈、收割。
 >
@@ -373,6 +373,17 @@ python3 -c "import urllib.parse; print('https://taiwan.md/food/' + urllib.parse.
 >
 > **字型實載 HARD gate**：若文章標題指定日星鑄字行 `rixingsong-semibold`，不能只以 `getComputedStyle().fontFamily` 含有該名稱判定成功；產圖器必須用 `document.fonts.load()` + `document.fonts.check()` 驗證完整標題字元確實由該 webfont 提供。timeout／缺字／CDN 失敗即拒絕產圖，不得截 fallback 字體。
 
+#### 圖卡缺陷分級（v3.14）
+
+「版面不完美」不等於「內容不忠實」。SHIP 前把圖卡問題分兩級，避免為了視覺潔癖改寫 SSOT，也避免把真正的資訊遺失誤判成小瑕疵：
+
+| 級別               | 例子                                                                    | Gate                                                                                          |
+| ------------------ | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **HARD：資訊受損** | title／description 少字、被裁切、溢出畫布、404、fallback 字體、舊 cache | 拒發；修 CSS／部署 production／重生。禁止用 `--title`／`--desc` 改字規避                      |
+| **SOFT：排版瑕疵** | 末字孤行、行長不均、留白不理想                                          | 預設回呈現層修；觀察者明確拍板可直接發。拍板與瑕疵逐字記入 blueprint Ship log，不冒充「無瑕」 |
+
+**關鍵辨識**：瀏覽器預設 wrap 只是「塞不下就換行」，不會自動平衡行長；`text-wrap: balance` 或方形 breakpoint 字級是呈現層改善，不是內容 gate。若修正尚未部署，local 預覽即使漂亮也不能取代 production 圖。台北吸菸室 #155/#156 實例：production 方形圖完整保留原標題與日星字體，僅末字「子」孤行；哲宇明確接受後發布。
+
 > ⚠️ **v3.6 歷史規則（2026-05-23；已由 v3.12 限縮）**：工具 default 仍跑 local server，供開發預覽；**SHIP 一律依 v3.12 改跑 production site**。
 >
 > **觸發背景**：臺灣漫遊錄 first ship → spore 同 session 內做圖。Prod 文章 CI/CD 還在 build（10-15 分鐘），抓 prod 截圖一定拿到舊 cache or 404。臺灣漫遊錄 ship 後立即發 spore = 100% 抓錯圖。
@@ -629,12 +640,17 @@ fi
 1. 孢子本體（= Threads 主貼 = X 主文）寫好
 2. UTM 必加（`utm_source` 對應平台 / `utm_medium=spore` / `utm_campaign=s{number}`）— 不加 UTM = 不記錄的心跳
 3. **AI pre-ship self-check 6 條公開報告給觀察者**（[SOCIAL-POSTING-PIPELINE §AI pre-ship self-check](../pipelines/SOCIAL-POSTING-PIPELINE.md)）：prose 跟 blueprint 對齊 / inline UTM URL 三段全填 / image attached / 帳號對 / Post button enabled / 字數安全。全 PASS 立即進 step 4（不等觀察者回覆）。任一 FAIL → stop + report。觀察者仍可 in-chat「先停 / 改 X / 取消」介入
-4. **透過 Chrome MCP + osascript 自動發文**（[SOCIAL-POSTING-PIPELINE](../pipelines/SOCIAL-POSTING-PIPELINE.md)）：
+4. **透過 Chrome 自動發文**（[SOCIAL-POSTING-PIPELINE](../pipelines/SOCIAL-POSTING-PIPELINE.md)）：
    - **⚠️ 發文前 zoom pre-flight（v3.11，2026-07-07 柯智棠）**：點任何 submit/發佈 前先跑 `JSON.stringify({dpr:window.devicePixelRatio, innerWidth:window.innerWidth})` 對照 `computer screenshot` 寬度。`innerWidth` ≠ 截圖寬（或 dpr 非整數）= 瀏覽器 zoom ≠ 100% → **pixel-click 全歪、submit 點不到（填字 execCommand/JXA paste 走 DOM 不受影響）**。修：優先 `ref`-based click（`read_page {filter:"interactive"}` → `computer left_click {ref}`）繞過像素座標；完整三修法見 [SPORE-HARVEST §Critical pitfalls Pitfall 7](SPORE-HARVEST-PIPELINE.md)。submit 連 2 次沒反應先驗 zoom、別盲點重試。
-   - **圖片先進剪貼簿**：`osascript -e 'set the clipboard to (read (POSIX file "{square 配圖絕對路徑}") as «class PNGf»)'`
+   - **圖片先進剪貼簿**：優先用 browser clipboard binary item（`image/png` base64）+ `Meta+V`；Chrome file chooser 不可用時不反覆重試。舊環境才 fallback `osascript -e 'set the clipboard to (read (POSIX file "{square 配圖絕對路徑}") as «class PNGf»)'`
    - **X**：navigate x.com → compose → Cmd+V 貼圖 → 輸入文案 + inline「完整故事 👉 {X UTM URL}」→ AI 自 click Post button
    - **Threads**：navigate threads.net → 新串文 → 第一則 Cmd+V 貼圖 + 輸入文案 → 點「新增到串文」→ 第二則輸入「完整故事 👉 {Threads UTM URL}」→ AI 自 click「發佈」
-5. **發文後自行擷取 post URL + post-ship verify**：navigate 到 @taiwandotmd profile → JS query 最新 post href → navigate post URL → JS read 5 條 verify（textHasHook / textHasQuote / textHasCloseLine / imageCount ≥ 1 / UTM 留痕，per [SOCIAL-POSTING-PIPELINE §AI post-ship verify](../pipelines/SOCIAL-POSTING-PIPELINE.md)）。任一 FAIL 立即 report observer，不沉默 silent ship。**Profile feed 有 propagation lag**（2026-06-25 #150 實證：feed 連刷三次含 hard reload 都沒有新貼文，實際秒發成功）——feed 找不到 ≠ 發布失敗；dialog 正常關閉 ≈ 已成功，**先不判失敗、絕不重發**（SPORE-HARVEST Pitfall 6 鏡像：兩案同根因都是 post-ship verify 驗錯對象）。等 feed 出現或改由發布回跳取 canonical post URL，拿到 post URL 驗才算 verify pass
+5. **發文後自行擷取 post URL + post-ship verify**：取得 canonical URL 後 navigate direct post → 讀 5 條 verify（textHasHook / textHasQuote / textHasCloseLine / imageCount ≥ 1 / UTM 留痕，per [SOCIAL-POSTING-PIPELINE §AI post-ship verify](../pipelines/SOCIAL-POSTING-PIPELINE.md)）。任一 FAIL 立即 report observer，不沉默 silent ship。
+   - **成功訊號優先序**：平台明示 sent alert + canonical href（最強）→ compose dialog 關閉且 composer 清空 → author-scoped search 找到 exact hook → profile feed。低順位缺席不能推翻高順位成功訊號。
+   - **絕不盲目重發**：Profile feed 有 propagation lag（2026-06-25 #150、2026-07-14 #155 再驗）。feed 找不到 ≠ 發布失敗；dialog 正常關閉／sent alert 出現後先等 indexing，**禁止再點一次 Post**。
+   - **Threads canonical recovery**：若 profile 首屏被 pinned／舊高互動貼文佔滿，用 `/search?from_author=taiwandotmd` 的可見搜尋 UI 搜文章獨特詞；結果 loading 後再等約 3 秒，以 exact hook 找 `/@taiwandotmd/post/{code}`。拿到主貼 URL後 direct post 驗 self-reply 的 `完整故事` 與 s{N} UTM。
+   - **X canonical recovery**：優先讀 `Your post was sent` alert 內的 `/taiwandotmd/status/{id}`；direct post 的外連會顯示 t.co，需跟隨該次貼文實際 t.co href，確認最終 URL 保留 `utm_source=x&utm_medium=spore&utm_campaign=s{N}`。
+   - **編輯器換行量測**：Threads `innerText` 可逐字比正文；X rich editor 的空白段可能回讀成 `\n\n\n`。驗證時只把連續 ≥2 個 newline 正規化成 `\n\n` 再比對，不能因此重貼或把正文改成單段。
    - X URL 格式：`https://x.com/taiwandotmd/status/{status_id}`
    - Threads URL 格式：`https://www.threads.com/@taiwandotmd/post/{post_code}`
 6. 登錄 identity 到 `spore-log.json`（**URL 必填**；Threads 記主貼 URL）— 2026-06-10 起走 CLI，不寫凍結的 SPORE-LOG.md：
@@ -791,15 +807,18 @@ grep "{中文slug}" knowledge/_translations.json
 
 ## 常見陷阱（process 級）
 
-| 陷阱                  | 症狀                                                   | 解法                                                   |
-| --------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
-| 原文品質差            | 孢子寫出來也空洞                                       | 先過 VERIFY 品質三層，不合格回爐                       |
-| URL 被截斷            | `taiwan.md/peopl…`                                     | 中文 slug 必須 URL encode（用 python3 指令，不要手打） |
-| URL 含中文            | `taiwan.md/food/珍珠奶茶/`                             | Threads/X 會斷開，必須 encode 成 `%E7%8F%8D...`        |
-| Briefing 病           | 政治/外交/制度題目只排數字，沒讀者可抓住的物件         | 回 VERIFY §Hook Blueprint 找日常物件 + 矛盾問題        |
-| 英文 SSOT 過時        | 中文孢子拿最新數字，英文 knowledge 還停在舊標題/舊日期 | SHIP §多語 SSOT freshness 先同步英文 knowledge         |
-| 跳過 fact-check gate  | 直接 output prose 給觀察者                             | VERIFY §事實查核閘 是 hard gate，不過不放行            |
-| 沒跑 add-spore + sync | 讀者看不到這篇孢子的存在                               | SHIP §發佈 step 6 spore-db add-spore + step 7 sync     |
+| 陷阱                  | 症狀                                                   | 解法                                                                                   |
+| --------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| 原文品質差            | 孢子寫出來也空洞                                       | 先過 VERIFY 品質三層，不合格回爐                                                       |
+| URL 被截斷            | `taiwan.md/peopl…`                                     | 中文 slug 必須 URL encode（用 python3 指令，不要手打）                                 |
+| URL 含中文            | `taiwan.md/food/珍珠奶茶/`                             | Threads/X 會斷開，必須 encode 成 `%E7%8F%8D...`                                        |
+| Briefing 病           | 政治/外交/制度題目只排數字，沒讀者可抓住的物件         | 回 VERIFY §Hook Blueprint 找日常物件 + 矛盾問題                                        |
+| 英文 SSOT 過時        | 中文孢子拿最新數字，英文 knowledge 還停在舊標題/舊日期 | SHIP §多語 SSOT freshness 先同步英文 knowledge                                         |
+| 跳過 fact-check gate  | 直接 output prose 給觀察者                             | VERIFY §事實查核閘 是 hard gate，不過不放行                                            |
+| 沒跑 add-spore + sync | 讀者看不到這篇孢子的存在                               | SHIP §發佈 step 6 spore-db add-spore + step 7 sync                                     |
+| profile 看不到新貼文  | pinned／快取／索引延遲讓最新貼文缺席                   | 不重發；依成功訊號優先序，改用 author-scoped search 或平台 sent alert 取 canonical URL |
+| X 回讀只看到 t.co     | snapshot 無法直接看出 UTM                              | 跟隨該貼文實際 t.co 一次，驗最終 canonical URL 的三段 UTM                              |
+| 把末字孤行當內容錯誤  | 為了換行另下社群標題或改 description                   | 先分 HARD／SOFT；孤行是 soft，資訊完整且觀察者拍板可發                                 |
 
 寫作層面陷阱（重複專名 / 引語倒裝 / 編年體 lead / 排比過硬等）→ 見 [SPORE-WRITING.md](SPORE-WRITING.md)。
 
@@ -838,3 +857,5 @@ _v3.11 | 2026-07-14 台北吸菸室孢子（哲宇 directive）— Stage 4 配�
 _v3.12 | 2026-07-14 台北吸菸室孢子（哲宇 directive）— Stage 4 新增 production-origin HARD gate：實際發布圖一律由 production site 產生，確保載入正式部署字型與樣式；local server 僅限開發預覽，不能直接拿來發布。若 production 尚未更新，必須等待 CI/CD gate，不能用 local 圖繞過。_
 
 _v3.13 | 2026-07-14 台北吸菸室孢子（哲宇 directive）— production-origin gate 加入字型實載驗證：日星鑄字行標題必須以 FontFaceSet 對完整標題字元通過 `load()`／`check()` 才能截圖；修正產圖器錯等 `lanyanghei`、timeout 後仍以 fallback 存檔的漏洞。_
+
+_v3.14 | 2026-07-14 台北吸菸室 #155/#156 finale — 完整吸收本次 ship friction：(1) 圖卡缺陷分 HARD 資訊受損／SOFT 排版瑕疵，末字孤行可由觀察者明確拍板發布但須留痕；(2) binary clipboard 成為 Chrome 圖片上傳首選；(3) post 成功訊號建立優先序，禁止 profile lag 觸發重發；(4) Threads 以 author-scoped search exact hook 回收 canonical URL，X 由 sent alert 回收 status URL並跟隨實際 t.co 驗 UTM；(5) X rich editor 多 newline 僅於驗證層正規化。實戰結果：Threads `DaxYe4Sk52Q`、X `2076992601543327976`，雙平台 direct post + image + UTM 全通過。_
