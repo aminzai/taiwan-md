@@ -237,8 +237,11 @@ function fetchIssueComments(issueNumber) {
 
 // 掃 archive dir，把每筆已 filed 紀錄的 issue 新留言 sync 進 §溝通紀錄（人類維護者
 // 的回覆也進 git）。回傳更新的檔數。
+// 回傳 { scanned, synced }：synced 單獨看是 proxy 訊號 — 0 分不出「掃了 36 檔都沒新留言」
+// 跟「一檔都沒掃到（目錄消失／權限壞）」。scanned 讓收官數字是量出來的，不是手數的。
 function syncArchiveComments() {
-  if (!existsSync(ARCHIVE_ROOT)) return 0;
+  if (!existsSync(ARCHIVE_ROOT)) return { scanned: 0, synced: 0 };
+  let scanned = 0;
   let synced = 0;
   for (const m of readdirSync(ARCHIVE_ROOT)) {
     const dir = join(ARCHIVE_ROOT, m);
@@ -256,6 +259,7 @@ function syncArchiveComments() {
       } catch {
         continue;
       }
+      scanned++;
       const num = (content.match(/^issue_number:\s*(\d+)/m) || [])[1];
       if (!num) continue;
       const merged = mergeComments(content, fetchIssueComments(num));
@@ -265,7 +269,7 @@ function syncArchiveComments() {
       }
     }
   }
-  return synced;
+  return { scanned, synced };
 }
 
 // ── main ──────────────────────────────────────────────────────────────────────
@@ -338,11 +342,14 @@ async function main() {
   }
 
   // sync 既有 filed 紀錄的 issue 新留言（維護者回覆）進 git archive。
-  let commentsSynced = 0;
-  if (args.commit) commentsSynced = syncArchiveComments();
+  // dry-run 不跑真實 scan，故印 skipped 而非 0——避免「沒掃」被讀成「掃過沒事」。
+  const arch = args.commit ? syncArchiveComments() : null;
 
   console.log(
-    `\n[triage] done · file=${summary.file} reject=${summary.reject} skip=${summary.skip} hold=${summary.hold} · archive-comments-synced=${commentsSynced}`,
+    `\n[triage] done · file=${summary.file} reject=${summary.reject} skip=${summary.skip} hold=${summary.hold} · ` +
+      (arch
+        ? `archive-scanned=${arch.scanned} archive-comments-synced=${arch.synced}`
+        : `archive-scan=skipped (dry-run)`),
   );
   return summary;
 }
