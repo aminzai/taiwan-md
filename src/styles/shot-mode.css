@@ -75,6 +75,17 @@ html[data-shot='1'] main.article-page .hero-title {
   max-width: none !important;
 }
 
+/* Square / vertical spore cards have less horizontal room than landscape.
+ * Keep the canonical article title intact and solve wrapping in presentation:
+ * 60px gives long zh-TW titles a balanced 2-line break instead of an orphan.
+ * Do not replace this with --title shortening — SPORE-PIPELINE v3.11. */
+@media (max-width: 1200px) {
+  html[data-shot='1']:not([data-og='1']) main.article-page .hero-title {
+    font-size: 3.75rem !important; /* 60px */
+    line-height: 1.2 !important;
+  }
+}
+
 /* Description — Spore 原始寬版 */
 html[data-shot='1'] main.article-page > section > div:nth-child(2) > p {
   font-size: 1.35rem !important; /* ~21.6px */

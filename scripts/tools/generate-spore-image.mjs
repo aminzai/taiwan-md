@@ -4,13 +4,13 @@
  *
  * 原理：
  *   1. 開文章頁 `?shot=1` 模式（hero only、無 nav/footer/body）
- *   2. 等 justfont SDK 真的把 `jf-lanyanghei` 注入到 `.hero-title`
- *      否則截出來會是 fallback 字體
+ *   2. 等 justfont SDK 真的把日星宋體 `rixingsong-semibold` 載入
+ *      `.hero-title`；只看 computed font-family 不夠，必須再以
+ *      FontFaceSet.check() 確認指定標題字元實際可用
  *   3. screenshot 整個 viewport 存 PNG
  *
- * 註：原本等 `rixingsong-semibold`，但 2026-05-04 發現 justfont CDN 該檔
- * woff binary 壞掉（FontFace API reject），所以 .hero-title 改 fallback
- * 到 lanyanghei-extraheavy（與一般 h1 同字體）。等 justfont 修好可改回。
+ * 日星宋體若因 justfont subset / CDN 問題無法載入，SHIP 圖直接失敗，
+ * 不再以蘭陽黑或系統 fallback 字體悄悄產圖。
  *
  * REFLEXES #26 v2 合規：AI 自主生圖屬「內部處理」，Post 到 Threads/X 仍然
  * 是 human only。本腳本只產檔不發文。
@@ -149,25 +149,37 @@ if (!outPath) {
   await page.goto(target, { waitUntil: 'networkidle', timeout: 30_000 });
 
   if (!skipFontWait) {
-    // Wait for justfont SDK to replace .hero-title's font-family with
-    // jf-lanyanghei (extraheavy). Without this the screenshot captures
-    // a fallback sans-serif and the spore loses its visual brand.
-    console.log('[spore-image] waiting for justfont lanyanghei...');
+    // Wait for the branded Rixing typeface and verify that the exact title
+    // glyphs are backed by a loaded FontFace. A computed family name alone
+    // can still render through the fallback chain when the webfont failed.
+    console.log('[spore-image] waiting for justfont rixingsong-semibold...');
     try {
       await page.waitForFunction(
         () => {
           const h1 = document.querySelector('.hero-title');
           if (!h1) return false;
           const ff = getComputedStyle(h1).fontFamily || '';
-          return ff.toLowerCase().includes('lanyanghei');
+          return (
+            document.documentElement.classList.contains('jf-active') &&
+            ff.toLowerCase().includes('rixingsong-semibold')
+          );
         },
         { timeout, polling: 200 },
       );
-      console.log('[spore-image] ✅ lanyanghei applied');
+      const fontReady = await page.evaluate(async () => {
+        const h1 = document.querySelector('.hero-title');
+        const sample = h1?.textContent?.trim() || '台灣';
+        await document.fonts.load('600 72px "rixingsong-semibold"', sample);
+        await document.fonts.ready;
+        return document.fonts.check('600 72px "rixingsong-semibold"', sample);
+      });
+      if (!fontReady) {
+        throw new Error('rixingsong-semibold did not cover the title glyphs');
+      }
+      console.log('[spore-image] ✅ rixingsong-semibold loaded for title');
     } catch (e) {
-      console.warn(
-        `[spore-image] ⚠️ justfont timeout after ${timeout}ms — screenshot will use fallback sans-serif. ` +
-          `Re-run with --no-font-wait to silence.`,
+      throw new Error(
+        `justfont rixingsong-semibold unavailable after ${timeout}ms; refusing fallback screenshot: ${e.message}`,
       );
     }
   }

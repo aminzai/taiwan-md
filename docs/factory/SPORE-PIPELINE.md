@@ -3,9 +3,9 @@ title: 'SPORE-PIPELINE'
 description: '孢子產線主流程（process layer）— 5 stage PICK/VERIFY/WRITE/SHIP/HARVEST + Step N.M (v3.8)'
 type: 'factory-canonical'
 status: 'canonical'
-current_version: 'v3.10'
-last_updated: 2026-07-11
-last_session: '2026-07-11-182348-dna-checkup（post-ship verify 驗 canonical URL 不驗 feed/dialog）'
+current_version: 'v3.13'
+last_updated: 2026-07-14
+last_session: '2026-07-14-184103-manual（發布圖忠實繼承文章 title／description）'
 sister_docs:
   - 'SPORE-WRITING.md'
   - 'SPORE-VERIFY.md'
@@ -18,7 +18,7 @@ upstream_canonical:
   - '../editorial/EDITORIAL.md'
 ---
 
-# SPORE-PIPELINE.md — 孢子產線主流程（process layer）v3.9
+# SPORE-PIPELINE.md — 孢子產線主流程（process layer）v3.13
 
 > **第一性原理**：這份文件是 AI 可執行的。任何 AI agent 讀完本檔 + WRITING + VERIFY，應該能獨立完成一篇孢子的選題、品檢、撰寫、發佈、收割。
 >
@@ -85,7 +85,7 @@ upstream_canonical:
 > 從 SPORE-LOG harvest history + 4/14 ε spore #29 紅線焦慮 + 高鐵 s35 朋友 tone prime + 2026-05-23 臺灣漫遊錄 first ship → spore 同 session 自動化飛輪 抽 friction 最高的 5 條。
 
 1. **🚨 強制 Read 4 檔不准 sample**（2026-05-17 #74 v1 教訓）— PIPELINE + VERIFY + WRITING + HARVEST 共 3,191 行必須完整 Read，不准 `grep`/`head`/`tail`/sample。sample = 跳 VERIFY 7 階段 = 違反 [MANIFESTO §8](../semiont/MANIFESTO.md)
-2. **配圖 v3.6 + CI/CD wait v3.7**（2026-05-23/24 哲宇 directive，剛 ship 文章 → spore 全自動 cycle 實戰教訓）— (a) make-spore.sh default local server 不抓 prod；(b) 抓完圖 AI 視覺自檢方形圖內容對；(c) Post 前 polling CI/CD **60 min cap + 30 min soft alert + defer-to-next-routine fallback** 確認 prod live 才發
+2. **配圖忠實性 v3.11 + CI/CD wait v3.7**（2026-07-14 哲宇 directive）— (a) 發布圖必須逐字繼承文章 frontmatter `title`／`description`，SHIP 禁用 `--title`／`--desc` 覆寫；(b) make-spore.sh default local server 不抓 prod；(c) 抓完圖 AI 視覺自檢文字、版面與文章內容；(d) Post 前 polling CI/CD **60 min cap + 30 min soft alert + defer-to-next-routine fallback** 確認 prod live 才發
 3. **Routine context auto-decisions (v3.8)** — `SPORE_ROUTINE_MODE=1` 偵測，Platform default **both (Threads + X)** / Hook tier 1b default / Skip 多版本提案 + 混合策略 / Skip multi-language fan-out / Image check 走 plugin（per §Routine context 自動決策 defaults table）
 4. **Step 3 朋友 tone prime** — 第一秒像新聞 lead = AI 水印，必須有「你知道嗎？」「欸，」curiosity prefix（spore_writing plugin Wave 2 gate）
 5. **Step 4.2 URL encode + UTM** — 中文 URL 必跑 `python3 -c "urllib.parse.quote..."`，UTM 三段全填（utm_source / medium=spore / campaign=s{N}）
@@ -369,24 +369,39 @@ python3 -c "import urllib.parse; print('https://taiwan.md/food/' + urllib.parse.
 
 ### 配圖
 
-> ⚠️ **v3.6 鐵律（2026-05-23 哲宇 directive）：default 必跑 local server 不抓 prod**。
+> ⚠️ **v3.12 發布圖 production-origin 鐵律（2026-07-14 哲宇 directive）**：實際上傳到社群的 SHIP 圖必須由 **production site** 產生（`make-spore.sh ... --prod`），確保截圖載入正式站部署的字型與樣式。local server 只可用於開發、除錯與版型迭代；local 產物不得直接發布。若文章尚未在 production 上線，先等 CI/CD wait gate 通過再產圖，不得以 local 圖繞過等待。
+>
+> **字型實載 HARD gate**：若文章標題指定日星鑄字行 `rixingsong-semibold`，不能只以 `getComputedStyle().fontFamily` 含有該名稱判定成功；產圖器必須用 `document.fonts.load()` + `document.fonts.check()` 驗證完整標題字元確實由該 webfont 提供。timeout／缺字／CDN 失敗即拒絕產圖，不得截 fallback 字體。
+
+> ⚠️ **v3.6 歷史規則（2026-05-23；已由 v3.12 限縮）**：工具 default 仍跑 local server，供開發預覽；**SHIP 一律依 v3.12 改跑 production site**。
 >
 > **觸發背景**：臺灣漫遊錄 first ship → spore 同 session 內做圖。Prod 文章 CI/CD 還在 build（10-15 分鐘），抓 prod 截圖一定拿到舊 cache or 404。臺灣漫遊錄 ship 後立即發 spore = 100% 抓錯圖。
 >
 > **新鐵律三條（HARD gate，違反 = 整則 spore 拒發）**：
 >
-> 1. **`make-spore.sh` default 啟用 local dev server**（不再 default prod）。`--prod` flag 只用於「文章 ship ≥ 30 分鐘 + observer 顯式拍板上線已更新」。
+> 1. **`make-spore.sh` default 啟用 local dev server**，但這只是開發預覽。文章通過 production URL 與內容 wait gate 後，發布圖必須再以 `--prod` 重生；未重生即拒發。
 > 2. **抓完圖 AI 自檢方形圖內容對應**：preview_eval / Read / open 截圖確認 (a) 標題對 (b) hero 圖對 (c) 沒 404 / loading skeleton (d) 沒 stale cache 殘留。任一錯 → 重抓不發。
 > 3. **Post 前必過 CI/CD wait gate**：social post 前 `curl -sf "https://taiwan.md/<encoded-slug>/" | grep "<title-keyword>"` 確認 prod 上線。沒上線 → wait + retry（每 60s 一次，cap 20 min），確認後才 post。
 
+#### 發布圖文字忠實性（v3.11 HARD gate）
+
+發布用孢子圖是文章的視覺投影，不是另一張廣告文案。圖上的標題與內文必須逐字繼承文章 frontmatter 的 `title` 與 `description`：
+
+1. **SHIP 禁止用 `--title` 或 `--desc` 改寫發布圖**。`make-spore.sh`／`generate-spore-image.mjs` 的 override flags 僅供版型 debug 與測試，不得產出實際上傳到 Threads、X 或其他平台的檔案。
+2. **版面不理想時不准改文字遷就版型**。遇到孤字、裁切、溢出或換行難看，應修圖卡 CSS／字級／容器寬度，或改用能完整呈現的既有尺寸；修完後重新產圖。不得縮寫標題、另下社群標、刪改 description。
+3. **視覺自檢要逐字比對**。除了 hero、404、字體與 loading 狀態，還要確認圖上 `title`／`description` 跟文章 frontmatter 完全相同。任一字不同即拒發。
+4. **Blueprint 不得把 override 文案標成配圖規格**。若曾用 override 產過草稿圖，SHIP 前必須以無 override 的 canonical 指令重生並覆蓋。
+
+觸發教訓：2026-07-14 台北吸菸室孢子為解決正方形圖卡孤字，曾把文章標題改成「無菸城市先蓋吸菸室？」再產發布圖。哲宇指出發布圖不得變動原始標題與內文。根因是把版型問題錯誤地轉嫁給內容；此 gate 將修復責任留在呈現層。
+
 ```bash
-# v3.6 default：local server（剛 ship 文章必走）
+# 開發預覽：local server（不可直接發布）
 bash scripts/tools/make-spore.sh /art/臺灣漫遊錄/                # local server (default) — landscape + square
 bash scripts/tools/make-spore.sh /art/臺灣漫遊錄/ --size square  # 只產 square (post 用)
 bash scripts/tools/make-spore.sh /art/臺灣漫遊錄/ --all          # 三張全產 (local server)
 
-# Legacy / 舊文章 / 文章 ship ≥ 30 min 且 observer 顯式拍板：
-bash scripts/tools/make-spore.sh /art/臺灣漫遊錄/ --prod         # 打 prod URL（不再 default）
+# SHIP：production URL 已通過 wait gate 後，必跑此指令重生發布圖
+bash scripts/tools/make-spore.sh /art/臺灣漫遊錄/ --prod
 ```
 
 **底層工具**：[`scripts/tools/generate-spore-image.mjs`](../../scripts/tools/generate-spore-image.mjs)（Playwright headless + justfont wait）。
@@ -401,7 +416,7 @@ ls -lh public/spore-images/{slug}-square.png
 
 # 2. 用 Read tool / open / preview_eval 視覺看圖
 # 期待：
-#   ✓ 標題文字含 spore 文章標題關鍵字
+#   ✓ title 與 description 逐字等於文章 frontmatter（不能只含關鍵字）
 #   ✓ Hero 圖對應文章主視覺（不是 default placeholder / 404 page）
 #   ✓ 沒 loading skeleton 殘留（Astro lazy load 跑完）
 #   ✓ 字體 render 完整（justfont 已 load）
@@ -817,3 +832,9 @@ _v3.8 | 2026-05-26 twmd-rewrite-daily 18:00 cycle — Platform allocation defaul
 _v3.9 | 2026-06-06 國宅與居住正義 #126 — Stage 3 §寫完強制 gate 加第 4 條「紀實文學終局自檢」+ §v6.3 STRICT READ ACK 加「§紀實文學 voice 五方向+終局自檢」。哲宇 directive「把這個 voice 拿回去進化 spore-pipeline，未來都要照這個品質與方向來寫，把原則跟思考寫進去 + 加上自檢『有辦法再微調 更接近紀實文學與大家的生活，語感與故事更完整順暢嗎』」。Meat 在 [SPORE-WRITING v3.5 §紀實文學 voice 五個微調方向 + 終局自檢](SPORE-WRITING.md)（craft canonical），本檔只加 process gate pointer（薄殼 SSOT）。核心：**過 plugin gate 是地板不是天花板，能再進一階就再改一輪**。Worked example #126 跑五輪微調哲宇拍板「很棒」。對應 REFLEXES #15。_
 
 _v3.10 | 2026-06-13 persona-stage0（哲宇 directive）— PICK 加「persona 切入點 consult」step：選文後、進 Hook Blueprint 前，consult [PERSONA-PIPELINE](../pipelines/PERSONA-PIPELINE.md) mode=hook-select 挑最 stop-the-thumb 的讀者問題當開場 hook。**SSOT reuse first**——文章 research report 有 `### 20 路 persona 切入點`（REWRITE Stage 0.6.1-bis 落的）就直接讀、不重生（0 agent，哲宇核心 insight：persona pool 算一次多 caller 共享）；無 pool 才 light fallback（D+B 軸 ~10 persona）。誕生鏈：REWRITE v7.1 inline persona 發散 → 哲宇「spore 也可以加」→「抽象成共用 persona profile/pipeline」→ PERSONA-PIPELINE v1.0 原語 → 本 step 是它 hook-select mode 的 caller。hook-select 是 enhancer 非 hard gate（hook 已明確 / routine 趕時間可 skip）。對應神經迴路造橋三步（工具→整合→門檻）+ REFLEXES #21 SSOT + #56 drift 防護。_
+
+_v3.11 | 2026-07-14 台北吸菸室孢子（哲宇 directive）— Stage 4 配圖新增「發布圖文字忠實性」HARD gate：發布圖 `title`／`description` 必須逐字繼承文章 frontmatter；SHIP 禁用 `--title`／`--desc` override；孤字、裁切、溢出等問題回到 CSS／字級／尺寸修復，不得改寫內容遷就版型；視覺自檢從「含標題關鍵字」升為逐字比對。觸發：為修正正方形圖孤字，曾將台北吸菸室圖卡短標改成「無菸城市先蓋吸菸室？」；哲宇指出發布圖不得變動原始標題與內文。_
+
+_v3.12 | 2026-07-14 台北吸菸室孢子（哲宇 directive）— Stage 4 新增 production-origin HARD gate：實際發布圖一律由 production site 產生，確保載入正式部署字型與樣式；local server 僅限開發預覽，不能直接拿來發布。若 production 尚未更新，必須等待 CI/CD gate，不能用 local 圖繞過。_
+
+_v3.13 | 2026-07-14 台北吸菸室孢子（哲宇 directive）— production-origin gate 加入字型實載驗證：日星鑄字行標題必須以 FontFaceSet 對完整標題字元通過 `load()`／`check()` 才能截圖；修正產圖器錯等 `lanyanghei`、timeout 後仍以 fallback 存檔的漏洞。_
