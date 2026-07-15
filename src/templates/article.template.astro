@@ -352,7 +352,7 @@ const encodedTitle = encodeURIComponent(title);
             <figure class="mb-10 max-[640px]:-mx-2">
               <img
                 src={frontmatter.image}
-                alt={title}
+                alt={frontmatter.imageAlt || title}
                 loading="eager"
                 class="aspect-[16/9] w-full rounded-2xl object-cover"
               />

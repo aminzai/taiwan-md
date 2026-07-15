@@ -161,23 +161,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
-### 阿神 EVOLVE — 高搜尋需求下仍停在薄人物簡介，重寫每日上片與停更的勞動弧線
-
-- **Type**: `EVOLVE`
-- **Category**: People
-- **Path** (EVOLVE only): knowledge/People/阿神.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-07-15 by `/twmd-finale → /twmd-evolve`（session 2026-07-15-191335-manual）
-- **Notes**:
-  - **候選分數 74／100（EVOLVE v2.0 手動加權）**：流量重要性 65、CTR 缺口 80、品質缺陷 100、內容年齡 45、流量來源品質 90、知識圖譜密度 40、搜尋需求 65。
-  - **雙源單篇訊號**：GA4 30 日 `/people/阿神/` 168 pageviews、bounce 58.90%、平均工作階段 47.38 秒；Search Console 28 日 10,119 impressions、106 clicks、CTR 1.05%、平均排名 5.87。查詢「阿神本名」另有 2,228 impressions、41 clicks、平均排名 4.49。
-  - **品質硬缺口**：現文僅 1,494 CJK、84 行，Stage 4 有 word-count 與 image-health 兩個 hard fail；沒有 hero、內文圖片或 related reading。`lastVerified` 2026-04-19，雖標記人工審閱，內容仍不足以承接目前搜尋量。
-  - **必做 falsification**：精確生日／年齡、各種「第一／唯一」超級詞、連續十一年每日上片、五千支影片、二百四十億觀看、雲端廚房等敘述全部回到一手或強二手來源；查不到就刪除或降級，不沿用現文數字。
-  - **重寫方向**：以每日上片的勞動制度、長期創作成本與停止日更的轉折為敘事骨架，避免把人物套成「工作機器」英雄模板；補足可追溯時間線、媒體與同類人物知識圖譜。
-  - **為何是這篇**：〈張懸與安溥〉流量較高但已有 611 行深文；〈無名小站〉Stage 4 無 hard fail且剛於 6/14 驗證；〈當代原住民創作歌手〉已有 353 行並經人工審閱；〈日治時期〉雖有更大 SC 缺口，本輪 GA4 匯出沒有單篇匹配。阿神是本輪唯一同時滿足單篇雙源需求與兩項硬缺陷的候選。〈尊〉數據更強但本 session 已完成重寫，排除重複開發。
-  - **資料限制**：Cloudflare Free-tier 沒有可靠的單篇路徑拆分；30 日全站 4,069,847 requests／1,002,356 pageviews 只作站況背景。AI crawler 亦僅成功抓到 7／30 日，不納入候選分數。
-- **Reference**: `~/.config/taiwan-md/cache/ga4-latest.json`；`~/.config/taiwan-md/cache/search-console-latest.json`；`~/.config/taiwan-md/cache/cloudflare-latest.json`；[reports/evolve-2026-07-15.md](../../reports/evolve-2026-07-15.md)
+<!-- 阿神 EVOLVE 已完成 2026-07-15 2026-07-15-twmd-rewrite-deep → ARTICLE-DONE-LOG.md -->
 
 ### 陳嫺靜 EVOLVE — 補 hero 靜態圖（OG 社群卡 / 孢子海報用）
 

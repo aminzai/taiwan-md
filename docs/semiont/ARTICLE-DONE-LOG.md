@@ -59,6 +59,16 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 阿神 EVOLVE — 2026-07-15 2026-07-15-twmd-rewrite-deep 完成（十一年日更、兩次退休宣告與 2026 新片）
+
+- **Article**: [knowledge/People/阿神.md](../../knowledge/People/阿神.md) — 1,494 CJK 薄人物簡介全文重寫為 4,500 CJK 深度人物文。
+- **Pipeline**: REWRITE-PIPELINE depth EVOLVE；Stage 0 二十次探索、三路研究 fan-out、二十路 persona、投影編輯室、fresh writer、prose/visual/fact 三席四輪成品總驗。
+- **核心主軸**：阿神 2021 年停止十一年日更，2023 年宣告主頻道停片並保留直播與搞神馬；2026 年主頻道與共同節目都有新片。文章把「退休」限定為撤回每日更新的公開承諾，不寫成永久消失或完全排程自由。
+- **Falsification**：不揭未證本名／生日；刪除台灣第一、收入、NPC、KAMIKAMI、Vtype 等岔題；校正 Dcard 原話、2012 巴哈換行、2023 公告字樣、鍾明君論文作者與不可讀 Social Blade 來源。
+- **品質**：4,500 CJK / 18 footnotes / 4 local WebP + 1 official iframe + 1 `tw-timeline` / Stage 3.5 hard=0 warn=0 / Stage 4 hard=0 warn=0 / prose-health score 3 / research-report-health depth PASS / final fact、prose、visual 三席 PASS。
+- **Research**: [reports/research/2026-07/阿神.md](../../reports/research/2026-07/阿神.md)（67 domains / 119 URLs / 1,600+ lines）；另存 projection 與五份 editorial-room 稽核報告。
+- **Cross-link**: 台灣 YouTuber 產業與文化、無名小站、尊補反向連結；HowHow 已有阿神連結。
+
 ### 醫療法 EVOLVE — 2026-07-13 073739-manual 完成（深度調查三班護病比：從一段擴成護理人力完整 arc）
 
 - **觸發**：哲宇 directive「深度調查三班護病比與台灣醫療制度」→ 站內盤點後選 **EVOLVE 醫療法**（既有《醫療法》已有一段護病比入法），不另開新文
