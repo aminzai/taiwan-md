@@ -28,7 +28,7 @@ translatedFrom: 'Geography/金瓜石.md'
 sourceCommitSha: '676c8cd6'
 sourceContentHash: 'sha256:36ec0adabddd5612'
 sourceBodyHash: 'sha256:7a207109d1ae592a'
-translatedAt: '2026-07-15T00:50:24+08:00'
+translatedAt: '2026-07-16T00:45:14+08:00'
 ---
 
 # Jinguashi: muchas capas de vida apiladas en una montaña, desde el oro aluvial, los prisioneros de guerra hasta el suelo arsenical sin limpiar

@@ -28,7 +28,7 @@ translatedFrom: 'Geography/金瓜石.md'
 sourceCommitSha: '676c8cd6'
 sourceContentHash: 'sha256:36ec0adabddd5612'
 sourceBodyHash: 'sha256:7a207109d1ae592a'
-translatedAt: '2026-07-14T16:48:50Z'
+translatedAt: '2026-07-16T00:45:14+08:00'
 ---
 
 # 金瓜石：砂金、戦俘、そして未だ洗われぬ砒素土が重なる、一つの山に重ねられた多くの命
