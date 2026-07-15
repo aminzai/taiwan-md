@@ -1,7 +1,215 @@
 {
-  "generatedAt": "2026-07-14T22:13:01.030Z",
+  "generatedAt": "2026-07-15T15:10:49.936Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "d40e5042008a677ea110669db085911bd8c0deb6",
+      "date": "2026-07-15T20:58:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "feat: 深度重寫阿神人物文",
+      "articles": [
+        {
+          "url": "/culture/台灣YouTuber產業與文化",
+          "name": "台灣YouTuber產業與文化"
+        },
+        {
+          "url": "/culture/無名小站",
+          "name": "無名小站"
+        },
+        {
+          "url": "/people/尊",
+          "name": "尊"
+        },
+        {
+          "url": "/people/阿神",
+          "name": "阿神"
+        }
+      ]
+    },
+    {
+      "hash": "8b0cdc046a9bb24c17868bdefaf975def880a8c1",
+      "date": "2026-07-15T19:26:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [evolve] 把阿神排進下一輪深度重寫",
+      "articles": []
+    },
+    {
+      "hash": "1aa7e62c6070907e7788ebaf50e06f974a94a0a4",
+      "date": "2026-07-15T19:19:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] 記下人物敘事的未知邊界",
+      "articles": [
+        {
+          "url": "/people/尊",
+          "name": "尊"
+        }
+      ]
+    },
+    {
+      "hash": "f5975a224fef2f5863fa34a876fda99e18d2955d",
+      "date": "2026-07-15T19:16:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [content] 重寫尊的十四個曆年公開紀錄",
+      "articles": [
+        {
+          "url": "/culture/巴哈姆特",
+          "name": "巴哈姆特"
+        },
+        {
+          "url": "/people/Howhow",
+          "name": "Howhow"
+        },
+        {
+          "url": "/people/尊",
+          "name": "尊"
+        },
+        {
+          "url": "/people/蔡阿嘎",
+          "name": "蔡阿嘎"
+        }
+      ]
+    },
+    {
+      "hash": "220ea1558ea786cd50181522269a98fbb77bcc1d",
+      "date": "2026-07-15T12:13:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] multi-narrative: finale memory/diary — 規格債與成品債",
+      "articles": []
+    },
+    {
+      "hash": "2e67389995152e324984a74f435e9d9083f2cca6",
+      "date": "2026-07-15T12:13:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] finale: 清 pending — AAMA light 3.6 關單 + H2 plugin 進 QUEUE #15",
+      "articles": [
+        {
+          "url": "/economy/AAMA台北搖籃計畫",
+          "name": "AAMA台北搖籃計畫"
+        }
+      ]
+    },
+    {
+      "hash": "6abd5409447a12d34c8f9c66d85046148e7b25ca",
+      "date": "2026-07-15T12:06:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] self-evolve: editorial/rewrite 意義層閉環——#65/#69 驗證 + Bias 3 編輯室指標",
+      "articles": []
+    },
+    {
+      "hash": "69591d8a6dfb01468541da2e3e493e31fcb34701",
+      "date": "2026-07-15T11:59:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] editorial: 補齊段落小標（H2）機制——主述賓還原與載體",
+      "articles": []
+    },
+    {
+      "hash": "2cfacebd286033f106958a90d2c07b1d10493823",
+      "date": "2026-07-15T11:56:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] multi-narrative: 編輯室全飛輪 dogfood + AAMA 投影對齊重構",
+      "articles": [
+        {
+          "url": "/economy/AAMA台北搖籃計畫",
+          "name": "AAMA台北搖籃計畫"
+        }
+      ]
+    },
+    {
+      "hash": "cc142975340abacb47c1f47990c62dec043b4c67",
+      "date": "2026-07-15T11:50:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 編輯室對抗 v1 — 投影後／正文後乾淨 context 分席審",
+      "articles": []
+    },
+    {
+      "hash": "f0c6b7d84232e0142c0e84d87e7a892a9a0f68bc",
+      "date": "2026-07-15T11:41:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 數字排齊之後，我還是不知道自己要說什麼",
+      "articles": []
+    },
+    {
+      "hash": "3e715aff2375f418a059c14f54aca4641cb0f4b2",
+      "date": "2026-07-15T11:41:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-15-112237-manual — 醫療法孢子與 square 字級回調",
+      "articles": []
+    },
+    {
+      "hash": "b55ca7f9f9b569b5018087628c21f0feb9c84470",
+      "date": "2026-07-15T11:40:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 孢子預覽圖標題調回 72px、內文略放大",
+      "articles": []
+    },
+    {
+      "hash": "3d02cb3999a7248590abd9399463d969fb25e20d",
+      "date": "2026-07-15T11:36:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] spore: publish 醫療法 #157 #158",
+      "articles": [
+        {
+          "url": "/society/醫療法",
+          "name": "醫療法"
+        }
+      ]
+    },
+    {
+      "hash": "5affc140b32d32f5cebfc164057b4e8244a1ae39",
+      "date": "2026-07-15T08:45:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-maintainer-am: ellenlee #1222 clean merge — rebase 後接住 flip 空窗 — 2026-07-15 am",
+      "articles": []
+    },
+    {
+      "hash": "b5c94e08676bf47d9950614e5ea355bef96e3b86",
+      "date": "2026-07-15T08:42:18+08:00",
+      "author": "Ellen Lee",
+      "message": "edit: refine AI hardware series SVG diagrams (#1222)",
+      "articles": []
+    },
+    {
+      "hash": "dc46658278e17e6d550f92d9a61ff7573790599c",
+      "date": "2026-07-15T07:12:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-15-071112-twmd-feedback-triage — 真空隊列第三日 + archive 掃描儀器化",
+      "articles": []
+    },
+    {
+      "hash": "a6a68e01ee72c6e391353dd8ba41d11b13dfac19",
+      "date": "2026-07-15T07:10:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] feedback-triage: 讓歸檔掃描報出掃了幾檔，不只報改了幾檔",
+      "articles": []
+    },
+    {
+      "hash": "e99565facb9e4df4b8e26c048bbdd04950fddc2f",
+      "date": "2026-07-15T06:46:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-15-063606-twmd-spore-harvest-am — 台北吸菸室 D+1 首度 + 夜間 ship 遺失 D+0 6h re-hook window",
+      "articles": []
+    },
+    {
+      "hash": "4a88dd9a0e0391c5e3d0e5a6ea953bc97a1130c0",
+      "date": "2026-07-15T06:43:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest-am: 台北吸菸室 #155/#156 D+1 首度 + 柯智棠 D+8 event-triggered — 2026-07-15 am",
+      "articles": []
+    },
+    {
+      "hash": "f47acd9c33cb78762c765a8df4d15cfd7d628518",
+      "date": "2026-07-15T06:17:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-15-061430-twmd-data-refresh-am — CF 404 plateau shape 確立 + freshness gate 連 6 cycle 全綠",
+      "articles": []
+    },
+    {
+      "hash": "3239f27feae00dabf5b2e12b0a2011cc27b05f24",
+      "date": "2026-07-15T06:16:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh — 2026-07-15 am",
+      "articles": []
+    },
     {
       "hash": "c1b8a118fbfb654c7dfc19218f7125e3d0a30932",
       "date": "2026-07-15T05:19:07+08:00",

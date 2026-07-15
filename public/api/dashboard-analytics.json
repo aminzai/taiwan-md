@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T06:12:26.333044",
+  "lastUpdated": "2026-07-15T23:10:15.193434",
   "sourcesUsed": ["ga", "searchConsole24h", "cloudflare24h", "sense-cache"],
   "ga": {
     "label": "2026-06-17 to 2026-07-15",
@@ -7,184 +7,184 @@
     "endDate": "2026-07-15",
     "days": 28,
     "totals": {
-      "activeUsers": 35120,
-      "newUsers": 34572,
-      "avgEngagementSeconds": 281.0,
-      "events": 338546,
-      "screenPageViews": 55010,
-      "engagementRate": 0.5056,
-      "bounceRate": 0.4944
+      "activeUsers": 36192,
+      "newUsers": 35665,
+      "avgEngagementSeconds": 278.5,
+      "events": 350193,
+      "screenPageViews": 56817,
+      "engagementRate": 0.5117,
+      "bounceRate": 0.4883
     },
     "topPages": [
       {
         "path": "/",
         "title": "開源台灣知識庫",
-        "views": 5522,
-        "users": 3372,
-        "events": 42037
+        "views": 5672,
+        "users": 3447,
+        "events": 43170
       },
       {
         "path": "/people/黃山料/",
         "title": "黃山料：世界冠軍的衣服沒人看，他改賣「一句話的安慰」",
-        "views": 1596,
-        "users": 1416,
-        "events": 10350
+        "views": 1602,
+        "users": 1422,
+        "events": 10395
       },
       {
         "path": "/terminology/converter/",
         "title": "台灣用語轉換器：中國用語一鍵轉台灣說法",
-        "views": 1401,
-        "users": 561,
-        "events": 12939
+        "views": 1476,
+        "users": 580,
+        "events": 13924
       },
       {
         "path": "/technology/台灣BIM與營建科技/",
         "title": "台灣 BIM 與營建科技：政府推十二年的因案制宜，被一個十八個月的 protocol 改寫",
-        "views": 1303,
-        "users": 974,
-        "events": 8744
+        "views": 1310,
+        "users": 975,
+        "events": 8783
       },
       {
         "path": "/technology/mini-taiwan-pulse/",
         "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
-        "views": 971,
-        "users": 774,
-        "events": 5952
+        "views": 857,
+        "users": 678,
+        "events": 5148
       },
       {
         "path": "/about/",
         "title": "關於 Taiwan.md",
-        "views": 702,
-        "users": 444,
-        "events": 3878
+        "views": 733,
+        "users": 463,
+        "events": 4045
       },
       {
         "path": "/taiwan-shape/",
         "title": "台灣的形狀 — 開源地圖資料集：SVG、GeoJSON、TopoJSON",
-        "views": 681,
-        "users": 535,
-        "events": 4817
+        "views": 711,
+        "users": 557,
+        "events": 5075
       },
       {
         "path": "/companies/",
         "title": "台灣前 50 大企業 — AI 時代的洗牌",
-        "views": 660,
-        "users": 555,
-        "events": 4338
-      },
-      {
-        "path": "/society/報導者/",
-        "title": "報導者：把調查報導從營業項目救成公共財的十年",
-        "views": 519,
-        "users": 446,
-        "events": 3065
-      },
-      {
-        "path": "/latest/",
-        "title": "最新文章",
-        "views": 491,
-        "users": 295,
-        "events": 1842
+        "views": 692,
+        "users": 578,
+        "events": 4532
       },
       {
         "path": "/music/張懸與安溥/",
         "title": "從張懸到安溥——兩個名字，同一個問題",
-        "views": 483,
-        "users": 414,
-        "events": 3259
+        "views": 545,
+        "users": 466,
+        "events": 3684
+      },
+      {
+        "path": "/society/報導者/",
+        "title": "報導者：把調查報導從營業項目救成公共財的十年",
+        "views": 522,
+        "users": 449,
+        "events": 3089
+      },
+      {
+        "path": "/latest/",
+        "title": "最新文章",
+        "views": 500,
+        "users": 298,
+        "events": 1878
       },
       {
         "path": "/semiont/",
         "title": "認知層 — Taiwan.md Semiont",
-        "views": 425,
-        "users": 275,
-        "events": 2220
+        "views": 443,
+        "users": 292,
+        "events": 2312
       },
       {
         "path": "/map/",
         "title": "台灣地圖 Map",
-        "views": 409,
-        "users": 267,
-        "events": 1786
+        "views": 424,
+        "users": 276,
+        "events": 1844
       },
       {
         "path": "/people/尊/",
         "title": "尊：從「黃毛豬」到雙頻道百萬，27 歲清流的孤獨重量",
-        "views": 409,
-        "users": 375,
-        "events": 2029
+        "views": 412,
+        "users": 377,
+        "events": 2048
       },
       {
         "path": "/data/",
         "title": "📊 數據台灣 — Taiwan.md",
-        "views": 393,
-        "users": 289,
-        "events": 2022
+        "views": 404,
+        "users": 297,
+        "events": 2079
       },
       {
         "path": "/contribute/",
         "title": "我想貢獻 — Taiwan.md",
-        "views": 391,
-        "users": 223,
-        "events": 2225
+        "views": 402,
+        "users": 230,
+        "events": 2292
       },
       {
         "path": "/en/",
         "title": "Open-Source Taiwan Knowledge Base",
-        "views": 375,
-        "users": 268,
-        "events": 2602
+        "views": 392,
+        "users": 281,
+        "events": 2703
       },
       {
         "path": "/history/",
         "title": "歷史 - Taiwan.md",
-        "views": 357,
-        "users": 244,
-        "events": 1566
+        "views": 366,
+        "users": 250,
+        "events": 1608
       },
       {
         "path": "/terminology/",
         "title": "📖 用語保存計畫 — Taiwan.md",
-        "views": 327,
-        "users": 218,
-        "events": 1374
+        "views": 343,
+        "users": 228,
+        "events": 1438
       },
       {
         "path": "/soundscape/",
         "title": "台灣聲景 Taiwan Soundscape — Taiwan.md",
-        "views": 299,
-        "users": 223,
-        "events": 1397
+        "views": 309,
+        "users": 231,
+        "events": 1436
       }
     ],
     "topArticles7d": [
       {
         "path": "/people/尊/",
         "title": "尊：從「黃毛豬」到雙頻道百萬，27 歲清流的孤獨重量",
-        "views": 324,
-        "users": 300,
-        "events": 1493
+        "views": 327,
+        "users": 302,
+        "events": 1512
       },
       {
         "path": "/music/張懸與安溥/",
         "title": "從張懸到安溥——兩個名字，同一個問題",
-        "views": 139,
-        "users": 131,
-        "events": 975
+        "views": 201,
+        "users": 183,
+        "events": 1400
       },
       {
         "path": "/people/黃山料/",
         "title": "黃山料：世界冠軍的衣服沒人看，他改賣「一句話的安慰」",
-        "views": 139,
-        "users": 121,
-        "events": 827
+        "views": 145,
+        "users": 127,
+        "events": 872
       },
       {
         "path": "/technology/台灣BIM與營建科技/",
         "title": "台灣 BIM 與營建科技：政府推十二年的因案制宜，被一個十八個月的 protocol 改寫",
-        "views": 84,
-        "users": 36,
-        "events": 538
+        "views": 91,
+        "users": 38,
+        "events": 577
       },
       {
         "path": "/people/李高安義長老略傳/",
@@ -194,74 +194,95 @@
         "events": 129
       },
       {
-        "path": "/technology/mini-taiwan-pulse/",
-        "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
-        "views": 49,
-        "users": 40,
-        "events": 364
+        "path": "/ja/people/takeshi-kaneshiro/",
+        "title": "金城武：誰にも気づかれない「一般人」から、世界に忘れられることだけを望むアジアのトップスターへ",
+        "views": 56,
+        "users": 55,
+        "events": 373
       },
       {
         "path": "/culture/無名小站/",
         "title": "無名小站：撿來的電腦，賣掉的青春，和一場沒人送葬的消失",
-        "views": 47,
-        "users": 38,
-        "events": 293
+        "views": 55,
+        "users": 41,
+        "events": 343
       },
       {
-        "path": "/ja/people/takeshi-kaneshiro/",
-        "title": "金城武：誰にも気づかれない「一般人」から、世界に忘れられることだけを望むアジアのトップスターへ",
-        "views": 45,
-        "users": 45,
-        "events": 300
+        "path": "/technology/mini-taiwan-pulse/",
+        "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
+        "views": 53,
+        "users": 43,
+        "events": 399
       },
       {
         "path": "/people/吳百福/",
         "title": "吳百福（安藤百福）：從嘉義朴子到全球餐桌，台灣基因與日本包裝的全球傳奇",
-        "views": 39,
-        "users": 36,
-        "events": 241
+        "views": 47,
+        "users": 42,
+        "events": 299
       },
       {
         "path": "/people/阿神/",
         "title": "阿神",
-        "views": 39,
-        "users": 36,
-        "events": 216
+        "views": 41,
+        "users": 37,
+        "events": 224
       },
       {
         "path": "/food/台灣手路菜/",
         "title": "台灣手路菜：意思、由來與辦桌文化的「拿手好菜」",
-        "views": 37,
-        "users": 29,
-        "events": 183
-      },
-      {
-        "path": "/society/台灣邦交國與國際外交/",
-        "title": "台灣邦交國與國際外交：12 個邦交、113 個館處、177 國免簽（2026）",
-        "views": 34,
+        "views": 38,
         "users": 30,
-        "events": 213
-      },
-      {
-        "path": "/history/日治時期/",
-        "title": "日治時期",
-        "views": 31,
-        "users": 27,
-        "events": 182
+        "events": 186
       },
       {
         "path": "/society/台灣的道德課去哪了/",
         "title": "台灣的道德課去哪了：一堂被取消的課，和二十年沒人接手的責任",
-        "views": 31,
+        "views": 36,
+        "users": 32,
+        "events": 223
+      },
+      {
+        "path": "/society/台灣邦交國與國際外交/",
+        "title": "台灣邦交國與國際外交：12 個邦交、113 個館處、177 國免簽（2026）",
+        "views": 35,
+        "users": 32,
+        "events": 230
+      },
+      {
+        "path": "/history/日治時期/",
+        "title": "日治時期",
+        "views": 34,
+        "users": 29,
+        "events": 198
+      },
+      {
+        "path": "/people/劉安婷/",
+        "title": "劉安婷",
+        "views": 34,
         "users": 27,
-        "events": 191
+        "events": 203
       },
       {
         "path": "/en/people/ke-zhi-tang-musician/",
         "title": "Ke Zhi-Tang (Kowen Ko): The Taiwanese Indie Folk Singer Who Traded Seven Years of Silence for an Album",
+        "views": 33,
+        "users": 33,
+        "events": 118
+      },
+      {
+        "path": "/en/lifestyle/education-system/",
+        "title": "404",
+        "views": 32,
+        "users": 32,
+        "events": 133
+      },
+      {
+        "path": "/geography/台灣五大地形與地理結構/",
+        "title": "台灣五大地形與地理結構：從山脈到平原的島嶼風貌",
         "views": 30,
-        "users": 30,
-        "events": 107
+        "users": 27,
+        "events": 174
       },
       {
         "path": "/culture/高俊明牧師 (蕭福道）/",
@@ -271,76 +292,55 @@
         "events": 104
       },
       {
-        "path": "/people/劉安婷/",
-        "title": "劉安婷",
-        "views": 29,
-        "users": 23,
-        "events": 169
-      },
-      {
-        "path": "/en/lifestyle/education-system/",
-        "title": "404",
-        "views": 28,
-        "users": 28,
-        "events": 116
-      },
-      {
-        "path": "/geography/台灣五大地形與地理結構/",
-        "title": "台灣五大地形與地理結構：從山脈到平原的島嶼風貌",
-        "views": 26,
-        "users": 24,
-        "events": 150
-      },
-      {
         "path": "/history/退出聯合國/",
         "title": "退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒",
-        "views": 26,
-        "users": 20,
-        "events": 209
+        "views": 29,
+        "users": 23,
+        "events": 226
       }
     ],
     "byLang": {
       "zh-TW": {
-        "views": 36685,
-        "users": 28267,
-        "sessions": 33799,
-        "avgEngagementSeconds": 280.4,
-        "pageCount": 422
+        "views": 37725,
+        "users": 29002,
+        "sessions": 34687,
+        "avgEngagementSeconds": 276.4,
+        "pageCount": 421
       },
       "en": {
-        "views": 2372,
-        "users": 2063,
-        "sessions": 2253,
-        "avgEngagementSeconds": 128.8,
-        "pageCount": 53
+        "views": 2500,
+        "users": 2158,
+        "sessions": 2375,
+        "avgEngagementSeconds": 133.3,
+        "pageCount": 55
       },
       "ja": {
-        "views": 343,
-        "users": 233,
-        "sessions": 308,
-        "avgEngagementSeconds": 507.2,
+        "views": 366,
+        "users": 250,
+        "sessions": 328,
+        "avgEngagementSeconds": 536.8,
         "pageCount": 12
       },
       "ko": {
-        "views": 263,
-        "users": 211,
-        "sessions": 239,
-        "avgEngagementSeconds": 161.9,
+        "views": 265,
+        "users": 212,
+        "sessions": 241,
+        "avgEngagementSeconds": 149.5,
         "pageCount": 5
       },
       "es": {
-        "views": 41,
-        "users": 38,
-        "sessions": 38,
-        "avgEngagementSeconds": 8.9,
+        "views": 42,
+        "users": 39,
+        "sessions": 39,
+        "avgEngagementSeconds": 10.2,
         "pageCount": 2
       },
       "fr": {
-        "views": 122,
-        "users": 119,
-        "sessions": 120,
-        "avgEngagementSeconds": 33.7,
-        "pageCount": 6
+        "views": 108,
+        "users": 104,
+        "sessions": 105,
+        "avgEngagementSeconds": 31.6,
+        "pageCount": 5
       }
     },
     "byLangSource": "by_lang_pages"
@@ -608,20 +608,20 @@
     "endDate": "2026-07-13",
     "days": 7,
     "totals": {
-      "clicks": 2941,
-      "impressions": 269863,
+      "clicks": 2947,
+      "impressions": 269870,
       "ctr": 1.09
     },
     "brandBreakdown": {
       "brand": {
         "clicks": 31,
-        "impressions": 482,
-        "ctr": 6.43
+        "impressions": 491,
+        "ctr": 6.31
       },
       "nonBrand": {
-        "clicks": 1072,
-        "impressions": 45255,
-        "ctr": 2.37
+        "clicks": 1077,
+        "impressions": 45991,
+        "ctr": 2.34
       },
       "note": "Brand = queries containing 'taiwan.md' / 'taiwan md' / exact 'md' / 'taiwandotmd'. Total CTR aggregates both; brand CTR is usually 60-80%, nonBrand CTR reflects true external discoverability."
     },
@@ -635,17 +635,17 @@
       },
       {
         "query": "金城武",
-        "clicks": 35,
+        "clicks": 36,
         "impressions": 1489,
-        "ctr": 2.35,
+        "ctr": 2.42,
         "position": 1.21
       },
       {
         "query": "張懸",
         "clicks": 33,
-        "impressions": 1139,
-        "ctr": 2.9,
-        "position": 8.64
+        "impressions": 1154,
+        "ctr": 2.86,
+        "position": 8.68
       },
       {
         "query": "taiwan md",
@@ -664,30 +664,30 @@
       {
         "query": "無名小站",
         "clicks": 15,
-        "impressions": 1984,
-        "ctr": 0.76,
-        "position": 8.31
+        "impressions": 1993,
+        "ctr": 0.75,
+        "position": 8.32
       },
       {
         "query": "安溥",
         "clicks": 12,
-        "impressions": 495,
-        "ctr": 2.42,
-        "position": 10.43
+        "impressions": 512,
+        "ctr": 2.34,
+        "position": 10.46
       },
       {
         "query": "阿神本名",
         "clicks": 12,
-        "impressions": 680,
+        "impressions": 681,
         "ctr": 1.76,
-        "position": 5.17
+        "position": 5.18
       },
       {
         "query": "陳士駿",
         "clicks": 12,
-        "impressions": 405,
-        "ctr": 2.96,
-        "position": 7.5
+        "impressions": 412,
+        "ctr": 2.91,
+        "position": 7.54
       },
       {
         "query": "黃山料 服裝設計",
@@ -706,8 +706,8 @@
       {
         "query": "陳樹菊",
         "clicks": 10,
-        "impressions": 320,
-        "ctr": 3.12,
+        "impressions": 337,
+        "ctr": 2.97,
         "position": 11.15
       },
       {
@@ -727,16 +727,16 @@
       {
         "query": "尊",
         "clicks": 8,
-        "impressions": 1423,
-        "ctr": 0.56,
-        "position": 9.14
+        "impressions": 1443,
+        "ctr": 0.55,
+        "position": 9.17
       },
       {
         "query": "彎彎",
         "clicks": 8,
-        "impressions": 1190,
+        "impressions": 1199,
         "ctr": 0.67,
-        "position": 7.38
+        "position": 7.4
       },
       {
         "query": "台灣用語轉換器",
@@ -748,23 +748,23 @@
       {
         "query": "手路菜",
         "clicks": 7,
-        "impressions": 243,
-        "ctr": 2.88,
-        "position": 7.07
+        "impressions": 246,
+        "ctr": 2.85,
+        "position": 7.11
       },
       {
         "query": "曾博恩",
         "clicks": 7,
-        "impressions": 1005,
-        "ctr": 0.7,
-        "position": 9.39
+        "impressions": 1024,
+        "ctr": 0.68,
+        "position": 9.44
       },
       {
         "query": "黑冠麻鷺",
         "clicks": 7,
-        "impressions": 390,
+        "impressions": 391,
         "ctr": 1.79,
-        "position": 1.6
+        "position": 1.63
       }
     ],
     "opportunities": [
@@ -777,8 +777,14 @@
       {
         "query": "md",
         "clicks": 0,
-        "impressions": 360,
-        "position": 9.04
+        "impressions": 368,
+        "position": 9.08
+      },
+      {
+        "query": "bobby chen",
+        "clicks": 0,
+        "impressions": 176,
+        "position": 9.12
       },
       {
         "query": "bim building information modeling taiwan construction industry",
@@ -787,28 +793,22 @@
         "position": 6.53
       },
       {
-        "query": "bobby chen",
-        "clicks": 0,
-        "impressions": 169,
-        "position": 9.07
-      },
-      {
         "query": "jolin tsai",
         "clicks": 0,
-        "impressions": 144,
-        "position": 12.37
+        "impressions": 154,
+        "position": 12.41
+      },
+      {
+        "query": "howhow",
+        "clicks": 0,
+        "impressions": 124,
+        "position": 8.74
       },
       {
         "query": "blue uas cleared list 台灣廠商 2026",
         "clicks": 0,
         "impressions": 121,
         "position": 7.39
-      },
-      {
-        "query": "howhow",
-        "clicks": 0,
-        "impressions": 116,
-        "position": 8.39
       },
       {
         "query": "b超是什麼",
@@ -819,45 +819,45 @@
       {
         "query": "jj lin age",
         "clicks": 0,
-        "impressions": 111,
-        "position": 7.84
+        "impressions": 114,
+        "position": 7.91
       },
       {
         "query": "chou tien chen",
         "clicks": 0,
-        "impressions": 98,
-        "position": 10.43
+        "impressions": 107,
+        "position": 10.86
       }
     ],
     "wordCloud": [
       {
         "query": "無名小站",
-        "impressions": 1984,
+        "impressions": 1993,
         "clicks": 15
       },
       {
         "query": "金城武",
         "impressions": 1489,
-        "clicks": 35
+        "clicks": 36
       },
       {
         "query": "尊",
-        "impressions": 1423,
+        "impressions": 1443,
         "clicks": 8
       },
       {
         "query": "彎彎",
-        "impressions": 1190,
+        "impressions": 1199,
         "clicks": 8
       },
       {
         "query": "張懸",
-        "impressions": 1139,
+        "impressions": 1154,
         "clicks": 33
       },
       {
         "query": "曾博恩",
-        "impressions": 1005,
+        "impressions": 1024,
         "clicks": 7
       },
       {
@@ -867,58 +867,63 @@
       },
       {
         "query": "小虎隊",
-        "impressions": 918,
+        "impressions": 920,
         "clicks": 2
       },
       {
         "query": "日治時期",
-        "impressions": 851,
+        "impressions": 874,
         "clicks": 2
       },
       {
         "query": "台灣地圖",
-        "impressions": 799,
+        "impressions": 813,
         "clicks": 4
       },
       {
         "query": "王永慶",
-        "impressions": 773,
+        "impressions": 775,
         "clicks": 3
       },
       {
         "query": "連穎",
-        "impressions": 748,
+        "impressions": 758,
+        "clicks": 6
+      },
+      {
+        "query": "紀政",
+        "impressions": 696,
         "clicks": 6
       },
       {
         "query": "阿神本名",
-        "impressions": 680,
+        "impressions": 681,
         "clicks": 12
       },
       {
-        "query": "紀政",
-        "impressions": 679,
-        "clicks": 6
-      },
-      {
         "query": "范曉萱",
-        "impressions": 632,
+        "impressions": 648,
         "clicks": 1
       },
       {
         "query": "莫那魯道",
-        "impressions": 595,
+        "impressions": 606,
         "clicks": 3
       },
       {
         "query": "外省人",
-        "impressions": 564,
+        "impressions": 569,
         "clicks": 3
       },
       {
         "query": "楊德昌",
-        "impressions": 544,
+        "impressions": 545,
         "clicks": 1
+      },
+      {
+        "query": "陳建年",
+        "impressions": 516,
+        "clicks": 2
       },
       {
         "query": "張雨生",
@@ -926,13 +931,8 @@
         "clicks": 4
       },
       {
-        "query": "陳建年",
-        "impressions": 498,
-        "clicks": 2
-      },
-      {
         "query": "安溥",
-        "impressions": 495,
+        "impressions": 512,
         "clicks": 12
       },
       {
@@ -942,62 +942,62 @@
       },
       {
         "query": "陳士駿",
-        "impressions": 405,
+        "impressions": 412,
         "clicks": 12
       },
       {
         "query": "黑冠麻鷺",
-        "impressions": 390,
+        "impressions": 391,
         "clicks": 7
       },
       {
-        "query": "魏如萱",
-        "impressions": 376,
-        "clicks": 2
-      },
-      {
         "query": "趙自強",
-        "impressions": 375,
+        "impressions": 385,
         "clicks": 4
       },
       {
+        "query": "魏如萱",
+        "impressions": 381,
+        "clicks": 2
+      },
+      {
         "query": "md",
-        "impressions": 360,
+        "impressions": 368,
         "clicks": 0
       },
       {
         "query": "齊柏林",
-        "impressions": 350,
+        "impressions": 352,
         "clicks": 2
       },
       {
-        "query": "清仏戦争",
-        "impressions": 334,
-        "clicks": 1
-      },
-      {
         "query": "陳樹菊",
-        "impressions": 320,
+        "impressions": 337,
         "clicks": 10
       },
       {
-        "query": "c. c. wei",
-        "impressions": 314,
+        "query": "清仏戦争",
+        "impressions": 337,
         "clicks": 1
       },
       {
         "query": "和碩聯合科技",
-        "impressions": 312,
+        "impressions": 321,
         "clicks": 2
       },
       {
+        "query": "c. c. wei",
+        "impressions": 318,
+        "clicks": 1
+      },
+      {
         "query": "雪山隧道",
-        "impressions": 280,
+        "impressions": 284,
         "clicks": 1
       },
       {
         "query": "台灣鹽酥雞",
-        "impressions": 268,
+        "impressions": 271,
         "clicks": 2
       },
       {
@@ -1007,7 +1007,7 @@
       },
       {
         "query": "陳建騏",
-        "impressions": 253,
+        "impressions": 256,
         "clicks": 5
       },
       {
@@ -1017,23 +1017,28 @@
       },
       {
         "query": "黃氏兄弟",
-        "impressions": 247,
+        "impressions": 248,
         "clicks": 1
       },
       {
         "query": "手路菜",
-        "impressions": 243,
+        "impressions": 246,
         "clicks": 7
       },
       {
         "query": "走心",
-        "impressions": 237,
+        "impressions": 242,
         "clicks": 1
       },
       {
         "query": "陈士骏",
-        "impressions": 236,
+        "impressions": 239,
         "clicks": 1
+      },
+      {
+        "query": "安藤百福",
+        "impressions": 232,
+        "clicks": 3
       },
       {
         "query": "대만 지도",
@@ -1041,14 +1046,14 @@
         "clicks": 1
       },
       {
-        "query": "安藤百福",
-        "impressions": 231,
-        "clicks": 3
-      },
-      {
         "query": "吳百福",
         "impressions": 226,
         "clicks": 4
+      },
+      {
+        "query": "性價比",
+        "impressions": 215,
+        "clicks": 1
       },
       {
         "query": "原住民歌手",
@@ -1056,28 +1061,28 @@
         "clicks": 3
       },
       {
-        "query": "性價比",
-        "impressions": 211,
-        "clicks": 1
+        "query": "阿神",
+        "impressions": 205,
+        "clicks": 2
       },
       {
         "query": "劉安婷",
-        "impressions": 201,
+        "impressions": 202,
         "clicks": 5
       },
       {
         "query": "憋屈",
-        "impressions": 200,
-        "clicks": 2
-      },
-      {
-        "query": "阿神",
-        "impressions": 199,
+        "impressions": 202,
         "clicks": 2
       },
       {
         "query": "周智宣",
-        "impressions": 191,
+        "impressions": 198,
+        "clicks": 1
+      },
+      {
+        "query": "波特王",
+        "impressions": 195,
         "clicks": 1
       },
       {
@@ -1087,8 +1092,13 @@
       },
       {
         "query": "虧賊",
-        "impressions": 185,
+        "impressions": 189,
         "clicks": 3
+      },
+      {
+        "query": "蔡阿嘎",
+        "impressions": 189,
+        "clicks": 2
       },
       {
         "query": "大陸用語轉換器",
@@ -1096,19 +1106,19 @@
         "clicks": 95
       },
       {
-        "query": "波特王",
-        "impressions": 182,
-        "clicks": 1
-      },
-      {
-        "query": "蔡阿嘎",
-        "impressions": 180,
-        "clicks": 2
-      },
-      {
         "query": "菜市場名",
-        "impressions": 171,
+        "impressions": 176,
         "clicks": 1
+      },
+      {
+        "query": "bobby chen",
+        "impressions": 176,
+        "clicks": 0
+      },
+      {
+        "query": "義美 食安",
+        "impressions": 173,
+        "clicks": 3
       },
       {
         "query": "bim building information modeling taiwan construction industry",
@@ -1116,34 +1126,29 @@
         "clicks": 0
       },
       {
-        "query": "bobby chen",
-        "impressions": 169,
-        "clicks": 0
-      },
-      {
-        "query": "義美 食安",
-        "impressions": 165,
-        "clicks": 3
-      },
-      {
         "query": "台灣退出聯合國",
-        "impressions": 163,
+        "impressions": 167,
         "clicks": 1
       },
       {
         "query": "대만지도",
-        "impressions": 158,
+        "impressions": 159,
         "clicks": 1
       },
       {
+        "query": "jolin tsai",
+        "impressions": 154,
+        "clicks": 0
+      },
+      {
         "query": "蔡阿嘎學歷",
-        "impressions": 146,
+        "impressions": 151,
         "clicks": 3
       },
       {
-        "query": "jolin tsai",
+        "query": "含金量",
         "impressions": 144,
-        "clicks": 0
+        "clicks": 1
       },
       {
         "query": "台灣市值前十大公司",
@@ -1151,18 +1156,23 @@
         "clicks": 4
       },
       {
-        "query": "含金量",
-        "impressions": 140,
+        "query": "李洋",
+        "impressions": 137,
         "clicks": 1
       },
       {
-        "query": "李洋",
-        "impressions": 131,
+        "query": "洪醒夫",
+        "impressions": 133,
         "clicks": 1
+      },
+      {
+        "query": "台灣市值前50大公司",
+        "impressions": 132,
+        "clicks": 4
       },
       {
         "query": "miin",
-        "impressions": 128,
+        "impressions": 129,
         "clicks": 1
       },
       {
@@ -1171,13 +1181,28 @@
         "clicks": 1
       },
       {
+        "query": "田馥甄",
+        "impressions": 126,
+        "clicks": 2
+      },
+      {
         "query": "第一名麵包國際銀牌",
         "impressions": 125,
         "clicks": 6
       },
       {
+        "query": "howhow",
+        "impressions": 124,
+        "clicks": 0
+      },
+      {
         "query": "大概率",
-        "impressions": 121,
+        "impressions": 122,
+        "clicks": 1
+      },
+      {
+        "query": "蘋果西打",
+        "impressions": 122,
         "clicks": 1
       },
       {
@@ -1186,32 +1211,17 @@
         "clicks": 0
       },
       {
-        "query": "台灣市值前50大公司",
-        "impressions": 120,
-        "clicks": 4
-      },
-      {
-        "query": "蘋果西打",
-        "impressions": 120,
-        "clicks": 1
-      },
-      {
-        "query": "洪醒夫",
+        "query": "夜宵",
         "impressions": 118,
         "clicks": 1
       },
       {
-        "query": "田馥甄",
-        "impressions": 116,
-        "clicks": 2
-      },
-      {
-        "query": "howhow",
-        "impressions": 116,
-        "clicks": 0
-      },
-      {
         "query": "利索",
+        "impressions": 115,
+        "clicks": 1
+      },
+      {
+        "query": "李雅英",
         "impressions": 115,
         "clicks": 1
       },
@@ -1221,29 +1231,24 @@
         "clicks": 0
       },
       {
-        "query": "夜宵",
+        "query": "壞特",
         "impressions": 114,
         "clicks": 1
       },
       {
-        "query": "李雅英",
-        "impressions": 113,
-        "clicks": 1
-      },
-      {
-        "query": "壞特",
-        "impressions": 112,
-        "clicks": 1
-      },
-      {
         "query": "jj lin age",
-        "impressions": 111,
+        "impressions": 114,
         "clicks": 0
       },
       {
         "query": "台灣百大企業排名",
-        "impressions": 108,
+        "impressions": 109,
         "clicks": 2
+      },
+      {
+        "query": "福爾摩沙",
+        "impressions": 108,
+        "clicks": 1
       },
       {
         "query": "螢幕",
@@ -1251,19 +1256,29 @@
         "clicks": 1
       },
       {
+        "query": "chou tien chen",
+        "impressions": 107,
+        "clicks": 0
+      },
+      {
+        "query": "魔怔",
+        "impressions": 106,
+        "clicks": 1
+      },
+      {
         "query": "葉國一",
-        "impressions": 101,
+        "impressions": 105,
         "clicks": 2
       },
       {
         "query": "激活 意思",
-        "impressions": 100,
+        "impressions": 101,
         "clicks": 1
       },
       {
-        "query": "福爾摩沙",
+        "query": "蔡阿嘎 學歷",
         "impressions": 100,
-        "clicks": 1
+        "clicks": 3
       },
       {
         "query": "早上好",
@@ -1271,18 +1286,8 @@
         "clicks": 1
       },
       {
-        "query": "chou tien chen",
-        "impressions": 98,
-        "clicks": 0
-      },
-      {
-        "query": "蔡阿嘎 學歷",
-        "impressions": 97,
-        "clicks": 3
-      },
-      {
-        "query": "魔怔",
-        "impressions": 97,
+        "query": "台灣日治時期",
+        "impressions": 93,
         "clicks": 1
       },
       {
@@ -1291,8 +1296,18 @@
         "clicks": 1
       },
       {
-        "query": "台灣日治時期",
-        "impressions": 88,
+        "query": "黃山料",
+        "impressions": 89,
+        "clicks": 1
+      },
+      {
+        "query": "安藤仁子",
+        "impressions": 87,
+        "clicks": 1
+      },
+      {
+        "query": "魔怔 意思",
+        "impressions": 87,
         "clicks": 1
       },
       {
@@ -1301,19 +1316,19 @@
         "clicks": 0
       },
       {
-        "query": "安藤仁子",
-        "impressions": 86,
-        "clicks": 1
-      },
-      {
-        "query": "黃山料",
+        "query": "掙錢",
         "impressions": 85,
         "clicks": 1
       },
       {
-        "query": "掙錢",
+        "query": ".md",
         "impressions": 84,
         "clicks": 1
+      },
+      {
+        "query": "ptt是什麼",
+        "impressions": 83,
+        "clicks": 0
       },
       {
         "query": "報導者爭議",
@@ -1326,14 +1341,9 @@
         "clicks": 2
       },
       {
-        "query": ".md",
-        "impressions": 81,
-        "clicks": 1
-      },
-      {
-        "query": "魔怔 意思",
-        "impressions": 81,
-        "clicks": 1
+        "query": "jody chiang",
+        "impressions": 79,
+        "clicks": 0
       },
       {
         "query": "巧固球世界排名",
@@ -1346,9 +1356,14 @@
         "clicks": 2
       },
       {
-        "query": "jody chiang",
+        "query": "蕭上農",
         "impressions": 78,
-        "clicks": 0
+        "clicks": 2
+      },
+      {
+        "query": "凹與山",
+        "impressions": 77,
+        "clicks": 2
       },
       {
         "query": "激活 台灣用語",
@@ -1356,14 +1371,24 @@
         "clicks": 1
       },
       {
-        "query": "蕭上農",
+        "query": "徐佳瑩",
         "impressions": 75,
         "clicks": 2
       },
       {
-        "query": "ptt是什麼",
-        "impressions": 75,
-        "clicks": 0
+        "query": "沈文程",
+        "impressions": 74,
+        "clicks": 1
+      },
+      {
+        "query": "連穎erin",
+        "impressions": 74,
+        "clicks": 1
+      },
+      {
+        "query": "劉安婷爭議",
+        "impressions": 73,
+        "clicks": 2
       },
       {
         "query": "濁水溪公社",
@@ -1381,39 +1406,19 @@
         "clicks": 11
       },
       {
-        "query": "凹與山",
-        "impressions": 71,
-        "clicks": 2
-      },
-      {
-        "query": "劉安婷爭議",
-        "impressions": 71,
-        "clicks": 2
-      },
-      {
         "query": "踩一捧一",
-        "impressions": 71,
-        "clicks": 1
-      },
-      {
-        "query": "連穎erin",
-        "impressions": 71,
-        "clicks": 1
-      },
-      {
-        "query": "徐佳瑩",
-        "impressions": 70,
-        "clicks": 2
-      },
-      {
-        "query": "沈文程",
-        "impressions": 69,
+        "impressions": 72,
         "clicks": 1
       },
       {
         "query": "hello nico",
-        "impressions": 68,
+        "impressions": 69,
         "clicks": 2
+      },
+      {
+        "query": "台灣十大企業排名",
+        "impressions": 69,
+        "clicks": 1
       },
       {
         "query": "mark liu",
@@ -1421,19 +1426,24 @@
         "clicks": 2
       },
       {
-        "query": "台灣十大企業排名",
+        "query": "逼格",
         "impressions": 68,
         "clicks": 1
       },
       {
-        "query": "逼格",
+        "query": "jolin tsai age",
         "impressions": 67,
-        "clicks": 1
+        "clicks": 0
       },
       {
-        "query": "jolin tsai age",
+        "query": "柯智棠",
         "impressions": 66,
-        "clicks": 0
+        "clicks": 3
+      },
+      {
+        "query": "台灣公司市值排名",
+        "impressions": 66,
+        "clicks": 1
       },
       {
         "query": "底氣台灣用語",
@@ -1441,17 +1451,12 @@
         "clicks": 1
       },
       {
-        "query": "台灣公司市值排名",
-        "impressions": 64,
+        "query": "接地氣台灣說法",
+        "impressions": 62,
         "clicks": 1
       },
       {
-        "query": "柯智棠",
-        "impressions": 63,
-        "clicks": 3
-      },
-      {
-        "query": "接地氣台灣說法",
+        "query": "輾壓",
         "impressions": 62,
         "clicks": 1
       },
@@ -1466,9 +1471,14 @@
         "clicks": 2
       },
       {
-        "query": "輾壓",
+        "query": "mtv 電影院",
         "impressions": 61,
         "clicks": 1
+      },
+      {
+        "query": "cc wei",
+        "impressions": 61,
+        "clicks": 0
       },
       {
         "query": "lee ah-young",
@@ -1476,9 +1486,9 @@
         "clicks": 1
       },
       {
-        "query": "cc wei",
+        "query": "康士坦",
         "impressions": 60,
-        "clicks": 0
+        "clicks": 1
       },
       {
         "query": "台灣前50大企業排名",
@@ -1488,7 +1498,7 @@
       {
         "query": "前沿",
         "impressions": 58,
-        "clicks": 3
+        "clicks": 4
       },
       {
         "query": "阿神 本名",
@@ -1496,12 +1506,7 @@
         "clicks": 2
       },
       {
-        "query": "mtv 電影院",
-        "impressions": 58,
-        "clicks": 1
-      },
-      {
-        "query": "康士坦",
+        "query": "취두부",
         "impressions": 58,
         "clicks": 1
       },
@@ -1531,18 +1536,23 @@
         "clicks": 1
       },
       {
-        "query": "취두부",
+        "query": "台灣前十大企業",
         "impressions": 56,
         "clicks": 1
       },
       {
-        "query": "台灣前十大企業",
-        "impressions": 54,
+        "query": "統戰團",
+        "impressions": 56,
         "clicks": 1
       },
       {
-        "query": "統戰團",
+        "query": "唐鳳",
         "impressions": 54,
+        "clicks": 2
+      },
+      {
+        "query": "底氣",
+        "impressions": 53,
         "clicks": 1
       },
       {
@@ -1561,165 +1571,168 @@
         "clicks": 2
       },
       {
-        "query": "底氣",
-        "impressions": 52,
-        "clicks": 1
-      },
-      {
         "query": "有感筆電",
         "impressions": 52,
         "clicks": 1
       },
       {
         "query": "cp值",
-        "impressions": 50,
+        "impressions": 51,
         "clicks": 0
-      },
-      {
-        "query": "活俠傳",
-        "impressions": 49,
-        "clicks": 1
       }
     ]
   },
   "cloudflare7d": {
-    "label": "2026-07-07 to 2026-07-14 (7d)",
-    "startDate": "2026-07-07",
-    "endDate": "2026-07-14",
+    "label": "2026-07-08 to 2026-07-15 (7d)",
+    "startDate": "2026-07-08",
+    "endDate": "2026-07-15",
     "days": 7,
     "summary": {
-      "requests": 1339170,
-      "pageViews": 327676,
-      "uniques": 144061,
-      "cachedRequests": 256982,
-      "threats": 146,
-      "bytes": 106300480262
+      "requests": 1267290,
+      "pageViews": 335824,
+      "uniques": 147692,
+      "cachedRequests": 219810,
+      "threats": 141,
+      "bytes": 102818676984
     },
     "statusBreakdown": [
       {
         "status": 200,
-        "count": 910053
+        "count": 854764
       },
       {
         "status": 404,
-        "count": 199795
+        "count": 184843
       },
       {
         "status": 301,
-        "count": 173724
+        "count": 173241
       },
       {
         "status": 204,
-        "count": 29108
+        "count": 28876
       },
       {
         "status": 206,
-        "count": 12433
+        "count": 11847
       },
       {
         "status": 304,
-        "count": 11088
+        "count": 10776
       },
       {
         "status": 403,
-        "count": 2235
+        "count": 2214
       },
       {
         "status": 499,
-        "count": 494
+        "count": 484
       },
       {
         "status": 503,
-        "count": 126
+        "count": 119
       },
       {
         "status": 405,
-        "count": 98
+        "count": 107
       },
       {
         "status": 202,
-        "count": 7
+        "count": 8
+      },
+      {
+        "status": 502,
+        "count": 5
       },
       {
         "status": 522,
         "count": 5
       },
       {
-        "status": 502,
-        "count": 3
-      },
-      {
         "status": 400,
         "count": 1
       }
     ],
-    "fourOhFourRate": 14.92,
+    "fourOhFourRate": 14.59,
     "traffic": {
       "topCountries": [
         {
           "country": "United States",
           "code": "US",
-          "requests": 722313
+          "requests": 662852
         },
         {
           "country": "Singapore",
           "code": "SG",
-          "requests": 207241
+          "requests": 217559
         },
         {
           "country": "Taiwan",
           "code": "TW",
-          "requests": 98201
+          "requests": 99129
         },
         {
           "country": "China",
           "code": "CN",
-          "requests": 65025
+          "requests": 63954
         },
         {
           "country": "Japan",
           "code": "JP",
-          "requests": 26134
+          "requests": 24608
         },
         {
           "country": "United Kingdom",
           "code": "GB",
-          "requests": 23487
-        },
-        {
-          "country": "France",
-          "code": "FR",
-          "requests": 22452
+          "requests": 20570
         },
         {
           "country": "Canada",
           "code": "CA",
-          "requests": 17043
+          "requests": 15601
+        },
+        {
+          "country": "Brazil",
+          "code": "BR",
+          "requests": 13871
         },
         {
           "country": "India",
           "code": "IN",
-          "requests": 14944
+          "requests": 13686
         },
         {
           "country": "Poland",
           "code": "PL",
-          "requests": 14365
+          "requests": 12659
         }
       ]
     },
     "dailyBreakdown": [
       {
+        "date": "2026-07-15",
+        "requests": 102028,
+        "pageViews": 37061,
+        "cachedRequests": 9349,
+        "threats": 2,
+        "bytes": 8540296312,
+        "uniques": 16875,
+        "status200": 65645,
+        "status404": 16267,
+        "status4xx": 16312,
+        "status5xx": 15
+      },
+      {
         "date": "2026-07-14",
-        "requests": 161987,
-        "pageViews": 48378,
-        "cachedRequests": 21134,
-        "threats": 3,
-        "bytes": 15315838551,
-        "uniques": 24097,
-        "status200": 103926,
-        "status404": 23563,
-        "status4xx": 23661,
+        "requests": 173972,
+        "pageViews": 53096,
+        "cachedRequests": 21809,
+        "threats": 5,
+        "bytes": 16309073060,
+        "uniques": 25158,
+        "status200": 111246,
+        "status404": 26966,
+        "status4xx": 27077,
         "status5xx": 15
       },
       {
@@ -1799,127 +1812,114 @@
         "status404": 23915,
         "status4xx": 24031,
         "status5xx": 23
-      },
-      {
-        "date": "2026-07-07",
-        "requests": 185893,
-        "pageViews": 33631,
-        "cachedRequests": 47196,
-        "threats": 9,
-        "bytes": 13015334099,
-        "uniques": 14305,
-        "status200": 128254,
-        "status404": 34622,
-        "status4xx": 34702,
-        "status5xx": 20
       }
     ],
     "aiCrawlers": {
-      "detectedRequests": 133821,
-      "http200": 83505,
-      "allowedRequests": 133821,
-      "unsuccessfulRequests": 50316,
+      "detectedRequests": 133782,
+      "http200": 84098,
+      "allowedRequests": 133782,
+      "unsuccessfulRequests": 49684,
       "topCrawler": {
         "name": "Bytespider",
-        "requests": 35191,
-        "http200": 16259,
+        "requests": 33786,
+        "http200": 15647,
         "category": "ByteDance"
       },
       "crawlers": [
         {
           "name": "Bytespider",
-          "requests": 35191,
-          "http200": 16259,
+          "requests": 33786,
+          "http200": 15647,
           "category": "ByteDance"
         },
         {
           "name": "BingBot",
-          "requests": 20709,
-          "http200": 15839,
+          "requests": 20407,
+          "http200": 15612,
           "category": "Microsoft"
         },
         {
           "name": "ChatGPT-User",
-          "requests": 16099,
-          "http200": 15934,
+          "requests": 15733,
+          "http200": 15571,
           "category": "OpenAI"
         },
         {
           "name": "Googlebot",
-          "requests": 11594,
-          "http200": 6940,
+          "requests": 12734,
+          "http200": 7634,
           "category": "Google"
         },
         {
-          "name": "PetalBot",
-          "requests": 8790,
-          "http200": 5617,
-          "category": "Huawei"
-        },
-        {
           "name": "Amazonbot",
-          "requests": 8645,
-          "http200": 3552,
+          "requests": 9253,
+          "http200": 3904,
           "category": "Amazon"
         },
         {
+          "name": "PetalBot",
+          "requests": 9049,
+          "http200": 5772,
+          "category": "Huawei"
+        },
+        {
           "name": "PerplexityBot",
-          "requests": 7412,
-          "http200": 3252,
+          "requests": 6683,
+          "http200": 3048,
           "category": "Perplexity"
         },
         {
           "name": "FacebookBot",
-          "requests": 6313,
-          "http200": 5907,
+          "requests": 6332,
+          "http200": 5947,
           "category": "Meta"
         },
         {
           "name": "Applebot",
-          "requests": 6041,
-          "http200": 4408,
+          "requests": 6075,
+          "http200": 4492,
           "category": "Apple"
         },
         {
           "name": "OAI-SearchBot",
-          "requests": 4029,
-          "http200": 1994,
+          "requests": 4372,
+          "http200": 2180,
           "category": "OpenAI"
         },
         {
           "name": "ClaudeBot",
-          "requests": 3850,
-          "http200": 1019,
+          "requests": 2806,
+          "http200": 944,
           "category": "Anthropic"
         },
         {
-          "name": "YandexBot",
-          "requests": 2336,
-          "http200": 1751,
-          "category": "Yandex"
-        },
-        {
           "name": "CCBot",
-          "requests": 1450,
-          "http200": 650,
+          "requests": 2347,
+          "http200": 1042,
           "category": "CommonCrawl"
         },
         {
+          "name": "YandexBot",
+          "requests": 2335,
+          "http200": 1752,
+          "category": "Yandex"
+        },
+        {
           "name": "GPTBot",
-          "requests": 714,
-          "http200": 231,
+          "requests": 1148,
+          "http200": 390,
           "category": "OpenAI"
         },
         {
           "name": "Meta-ExternalAgent",
-          "requests": 598,
-          "http200": 125,
+          "requests": 682,
+          "http200": 143,
           "category": "Meta"
         },
         {
           "name": "DuckDuckBot",
-          "requests": 35,
-          "http200": 26,
+          "requests": 24,
+          "http200": 18,
           "category": "DuckDuckGo"
         },
         {
@@ -1939,11 +1939,17 @@
           "requests": 2,
           "http200": 0,
           "category": "Google"
+        },
+        {
+          "name": "Applebot-Extended",
+          "requests": 1,
+          "http200": 1,
+          "category": "Apple"
         }
       ],
       "period": {
-        "start": "2026-07-07T22:11:51Z",
-        "end": "2026-07-14T22:11:51Z",
+        "start": "2026-07-08T15:09:41Z",
+        "end": "2026-07-15T15:09:41Z",
         "days": 7,
         "daysFetched": 7,
         "daysFailed": 0
@@ -1954,121 +1960,121 @@
         "rowsTruncated": true,
         "byLanguage": {
           "en": {
-            "requests": 4088,
+            "requests": 4298,
             "topCrawlers": [
               {
                 "name": "ChatGPT-User",
-                "requests": 2770
+                "requests": 2907
               },
               {
                 "name": "BingBot",
-                "requests": 457
+                "requests": 370
               },
               {
-                "name": "YandexBot",
-                "requests": 165
+                "name": "Googlebot",
+                "requests": 238
               }
             ]
           },
           "ja": {
-            "requests": 953,
+            "requests": 743,
             "topCrawlers": [
               {
                 "name": "Bytespider",
-                "requests": 324
+                "requests": 273
               },
               {
                 "name": "BingBot",
-                "requests": 241
+                "requests": 160
               },
               {
                 "name": "ClaudeBot",
-                "requests": 117
+                "requests": 103
               }
             ]
           },
           "ko": {
-            "requests": 876,
+            "requests": 804,
             "topCrawlers": [
               {
                 "name": "BingBot",
-                "requests": 238
+                "requests": 184
               },
               {
                 "name": "Bytespider",
-                "requests": 147
+                "requests": 125
               },
               {
                 "name": "ClaudeBot",
-                "requests": 142
+                "requests": 122
               }
             ]
           },
           "es": {
-            "requests": 1170,
+            "requests": 942,
             "topCrawlers": [
               {
                 "name": "BingBot",
-                "requests": 346
+                "requests": 234
               },
               {
                 "name": "Bytespider",
-                "requests": 244
+                "requests": 199
               },
               {
                 "name": "ClaudeBot",
-                "requests": 138
+                "requests": 132
               }
             ]
           },
           "fr": {
-            "requests": 1118,
+            "requests": 919,
             "topCrawlers": [
               {
                 "name": "Bytespider",
-                "requests": 336
+                "requests": 302
               },
               {
                 "name": "BingBot",
-                "requests": 267
+                "requests": 207
               },
               {
                 "name": "ClaudeBot",
-                "requests": 133
+                "requests": 129
               }
             ]
           },
           "zh-TW": {
-            "requests": 6495,
+            "requests": 6117,
             "topCrawlers": [
               {
                 "name": "ChatGPT-User",
-                "requests": 2231
+                "requests": 2275
               },
               {
                 "name": "FacebookBot",
-                "requests": 1042
+                "requests": 1138
               },
               {
                 "name": "Bytespider",
-                "requests": 725
+                "requests": 663
               }
             ]
           },
           "non-article": {
-            "requests": 14536,
+            "requests": 14586,
             "topCrawlers": [
               {
                 "name": "Bytespider",
-                "requests": 10161
+                "requests": 10215
               },
               {
                 "name": "Googlebot",
-                "requests": 1511
+                "requests": 1622
               },
               {
                 "name": "FacebookBot",
-                "requests": 1095
+                "requests": 1130
               }
             ]
           }

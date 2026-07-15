@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-15T06:13:06.557589",
+  "lastUpdated": "2026-07-15T23:10:55.001410",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
-  "immuneScore": 60,
-  "status": "需關注 — T1 review < 80% OR plugin pass < 90%",
+  "immuneScore": 58,
+  "status": "漂移 — 多維度退化中",
   "components": {
-    "review_coverage": 24.8,
+    "review_coverage": 24.6,
     "plugin_pass_rate": 70.0,
     "plugin_health": 100.0,
     "citation_density": 91.4,
-    "tool_freshness": 60,
+    "tool_freshness": 40,
     "drift_velocity": 90.0,
     "external_rulers": 3.9
   },
@@ -25,8 +25,8 @@
   "tierBreakdown": {
     "T1": {
       "total": 378,
-      "reviewed": 100,
-      "pct": 26.5,
+      "reviewed": 99,
+      "pct": 26.2,
       "weight": 3.0
     },
     "T2": {
@@ -61,7 +61,7 @@
     "files_with_grade": 854
   },
   "freshnessDetail": {
-    "editorial_days_old": 3,
+    "editorial_days_old": 999,
     "avg_plugin_days_old": 54.1,
     "plugin_count": 25,
     "source": "git log %ai (not fs mtime — worktree-safe)"
@@ -76,7 +76,7 @@
     "plugin_count": 25,
     "healthy_count": 25,
     "unhealthy_count": 0,
-    "editorial_age_days": 3,
+    "editorial_age_days": 0,
     "age_watch_days": 30,
     "plugins": [
       {

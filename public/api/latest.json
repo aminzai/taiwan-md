@@ -1,8 +1,80 @@
 {
-  "_generated": "2026-07-14T22:13:16.109Z",
+  "_generated": "2026-07-15T15:11:03.932Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台灣YouTuber產業與文化：從蔡阿嘎到奇軒，一個島嶼的數位文化進化史",
+        "desc": "一個從魔術起家的創作者如何成為台灣首位千萬訂閱YouTuber？這背後是台灣網路影音文化從本土娛樂進化為國際輸出的完整故事",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3YouTuber%E7%94%A2%E6%A5%AD%E8%88%87%E6%96%87%E5%8C%96",
+        "date": "2026-07-15T20:58:40+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "無名小站：撿來的電腦，賣掉的青春，和一場沒人送葬的消失",
+        "desc": "1999 年交大宿舍，六個資工系學生用系上報廢的設備拼出一個叫「無名」的 BBS。它長成全台最大的部落格、台灣第一代創作者的搖籃，2008 年甚至爬到 Yahoo 頭上成為第一大網站。然後 Yahoo 把它買走，2013 年 12 月 26 日那晚連同一代人的相簿一起刪掉，如今多數人只撈得回打不開的空相簿。它被記成青春，但那個青春從頭就放在別人關得掉的伺服器上。",
+        "category": "culture",
+        "href": "/culture/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99",
+        "date": "2026-07-15T20:58:40+08:00",
+        "readingTime": null,
+        "image": "/article-images/culture/wretch-downtime-notice-2005.webp"
+      },
+      {
+        "title": "尊：從國二房間到雙頻道百萬，一位 YouTuber 的成年紀錄",
+        "desc": "尊從國二拍遊戲實況，到 19 歲成為當時台灣最年輕的百萬 YouTuber，再把副頻道也帶過百萬。跨越十四個曆年的資料，記下他面對創作包袱、家人風暴與業配失誤，慢慢長成大人的過程。",
+        "category": "people",
+        "href": "/people/%E5%B0%8A",
+        "date": "2026-07-15T20:58:40+08:00",
+        "readingTime": 11,
+        "image": "/article-images/people/zun-new-home-2025.webp"
+      },
+      {
+        "title": "阿神：十一年日更之後，「永久停更」為何仍有新片",
+        "desc": "2026 年 7 月，阿神的主頻道一面寫著「退休我爽才拍片」，一面排出昨天上線的 Minecraft 新片。十一年日更曾把個人頻道變成每天都有下一集的節目表；三年前的「永久停更」為何沒有成為永久離場？",
+        "category": "people",
+        "href": "/people/%E9%98%BF%E7%A5%9E",
+        "date": "2026-07-15T20:58:40+08:00",
+        "readingTime": 18,
+        "image": "/article-images/people/ashan-2026-return-minecraft.webp"
+      },
+      {
+        "title": "巴哈姆特",
+        "desc": "台灣最大 ACG 社群的誕生、存活，以及它憑什麼在臉書、TikTok 橫掃一切的時代裡越活越旺。",
+        "category": "culture",
+        "href": "/culture/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9",
+        "date": "2026-07-15T19:16:25+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Howhow：把業配攤在陽光下的人，和他一個人撐起的越來越貴的誠實",
+        "desc": "2015 年，一個粉絲不到十萬的 YouTuber 被三星飛去紐約，他以為自己是要去當攝影師，把聯絡人存成「大恩人」。陳孜昊後來用一句「直接進入業配主題！」把創作者最想藏的廣告變成招牌，靠自己一個人編導演剪撐起 154 萬訂閱。但他討厭孤獨，一直想要團隊；而他堅持的長片，正落在被短影音碾壓最重的那條賽道上。",
+        "category": "people",
+        "href": "/people/Howhow",
+        "date": "2026-07-15T19:16:25+08:00",
+        "readingTime": 16,
+        "image": "/article-images/people/howhow-sevenfat-band-2017.webp"
+      },
+      {
+        "title": "蔡阿嘎：從網紅始祖到社工志業，那個用 18 年流量翻轉命運的男人",
+        "desc": "2022 年，台灣首位百萬網紅蔡阿嘎賣房成立「好里家社福協會」，將 18 年累積的影響力轉化為社會志業。從 2008 年的燒國旗影片到 2022 年蔡桃貴創下「最年輕百萬網紅」紀錄，蔡阿嘎在流量、爭議與背叛中，始終守護著那份想為弱勢孩子點亮希望的社工靈魂。",
+        "category": "people",
+        "href": "/people/%E8%94%A1%E9%98%BF%E5%98%8E",
+        "date": "2026-07-15T19:16:25+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "AAMA 台北搖籃計畫：一群本可退休的人，用最慢的方式把手藝交出去",
+        "desc": "2012 年，一群本可以退休的人在台北小房間坐下，答應兩年陪一個創業家：不拿股份、不插手日常、只把手藝交出去。十三年十五期，名單裡有 Appier、社企流、Portaly；創辦人仍說路才走一半。最慢的傳承寫在制度裡，捷徑抄不走——牆上掛著的名字，多數都還在路上。",
+        "category": "economy",
+        "href": "/economy/AAMA%E5%8F%B0%E5%8C%97%E6%90%96%E7%B1%83%E8%A8%88%E7%95%AB",
+        "date": "2026-07-15T12:13:53+08:00",
+        "readingTime": null,
+        "image": "/article-images/economy/aama-15th-cohort-2026.webp"
+      },
       {
         "title": "台北吸菸室：無菸城市裡，那格會呼吸的玻璃盒子",
         "desc": "2026 年 5 月 7 日，西門捷運 6 號出口旁立起一格透明的盒子，全台第一座戶外負壓吸菸室，門一開，風往裡灌不往外跑。台北要當無菸城市，卻先在街頭蓋了給人抽菸的玻璃屋。從嚴道割掉一片肺葉的 1984，到室內二手菸壓到 3.2%、門外還有近半，這格盒子裝著一支合法的菸，和一座城市還沒談完的公共空間契約。",
@@ -200,81 +272,36 @@
         "date": "2026-07-10T23:59:03+08:00",
         "readingTime": 18,
         "image": ""
-      },
-      {
-        "title": "政治獻金透明度：監察院平臺、g0v 視覺化、22 年的公開化基礎建設",
-        "desc": "打開監察院政治獻金公開查閱平臺，輸入任一候選人姓名，你可以查到他從哪些人那裡收了多少錢、花在哪些競選活動上。這套基礎建設不是天上掉下來的 — 是 2004《政治獻金法》立法、2008 平臺上線、2017 中選會與監察院資料公開協議、g0v 工程師十年視覺化補位，一條條法律、一份份會計報表、一個個公民工程師逐步堆出來的。",
-        "category": "politics",
-        "href": "/politics/%E6%94%BF%E6%B2%BB%E7%8D%BB%E9%87%91%E9%80%8F%E6%98%8E%E5%BA%A6",
-        "date": "2026-07-10T23:26:29+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "村里長制度：7,748 個民選首長，台灣最基層的政治單元",
-        "desc": "凌晨五點半的里辦公處、4.5 萬月支事務補助、超過六成無黨籍 — 村里長是台灣選舉中最不像「政治」的政治職位，也是台灣民主化最完整的證據。從日治保甲到 1950 直選，這個全台 7,748 個比 7-Eleven 還多的職位，運轉著八十年的在地關係代理。",
-        "category": "politics",
-        "href": "/politics/%E6%9D%91%E9%87%8C%E9%95%B7%E5%88%B6%E5%BA%A6",
-        "date": "2026-07-10T23:26:29+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台灣水果王國：這座島嶼把每一顆水果都當成生命跟記憶在種",
-        "desc": "從玉井山坡的清晨、麻豆文旦老欉、濱江凌晨拍賣、削果皮的阿嬤，到荔枝椿象跟外籍移工的果園：這座亞熱帶島嶼把水果變成一種跟土地、跟世代、跟世界對話的方式。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%9E%9C%E7%8E%8B%E5%9C%8B",
-        "date": "2026-07-08T20:14:11+08:00",
-        "readingTime": 16,
-        "image": "/article-images/food/fruit-kingdom-mango-fangliao-2009.webp"
-      },
-      {
-        "title": "柯智棠：隔著海長大，只唱給願意坐下來的人",
-        "desc": "2013 年，一個大學生被同學惡搞報名唱歌比賽，自彈自唱兩首 Coldplay，拿了冠軍。他叫柯智棠，一把被說成「大叔嗓」的低沉嗓音、一種不趕時間的慢，讓他在台灣獨立音樂裡刻出一個小而深的位置。他隔著海長大、在孟買用一把壞吉他寫歌、在台中百年雜貨店門口唱給對街的居民聽。陳建騏九年幫他做了三張專輯、沒催過一次；2025 年，他替一齣客家電視劇改寫並唱出的〈神的回信〉拿下金鐘獎。",
-        "category": "people",
-        "href": "/people/%E6%9F%AF%E6%99%BA%E6%A3%A0",
-        "date": "2026-07-07T11:41:32+08:00",
-        "readingTime": 18,
-        "image": "/article-images/people/kowen-ko-portrait.webp"
-      },
-      {
-        "title": "施振榮：從鹿港的鴨蛋攤，到一個叫台灣的品牌",
-        "desc": "1981 年舊金山的一場電子展，一台闔起來像書的塑膠殼小電腦，讓 20 家美國經銷商圍著問代理權——那是很多台灣人第一次摸到「台灣自己做的電腦」。做這台電腦的人，父親在他三歲時過勞早逝，母親靠賣鴨蛋、愛國獎券把他養大。他把宏碁做到全球前五大 PC 品牌，畫出寫進教科書的微笑曲線，也是台灣少數願意站到鏡頭前說「我是最大的輸家」的科技教父。",
-        "category": "people",
-        "href": "/people/%E6%96%BD%E6%8C%AF%E6%A6%AE",
-        "date": "2026-07-06T15:01:52+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/stanshih-taipei-2014.webp"
-      },
-      {
-        "title": "台灣企業：宏碁 — 畫微笑曲線的人，自己最難站上兩端",
-        "desc": "1992 年，施振榮在宏碁內部畫下一條開口向上的曲線，告訴全台灣製造業：別卡在附加價值最低的組裝中段，往研發與品牌兩端走。這句話影響台灣三十年。但畫線的人自己往品牌端衝的路上三度重摔——2000 年逼到大分家、2011 年衝上世界第二後庫存爆倉、2013 年一年虧 205 億逼六十八歲的創辦人回鍋。而當年被他切出去、最不被看好的代工小弟緯創，在 AI 時代爬到了微笑的頂端。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AE%8F%E7%A2%81",
-        "date": "2026-07-06T14:29:52+08:00",
-        "readingTime": 13,
-        "image": "/article-images/economy/stan-shih-2014.webp"
-      },
-      {
-        "title": "緯創資通 (Wistron) - 全球代工的變革先鋒",
-        "desc": "從宏碁分拆而生的製造巨擘，年營收破兆；依2025年最新報告已躍升全球第二大EMS，iPhone與 Dell 電腦背後的重要製造夥伴",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%B7%AF%E5%89%B5%E8%B3%87%E9%80%9A",
-        "date": "2026-07-06T14:28:26+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "華碩電腦 (ASUS) - 主機板起家的科技巨人",
-        "desc": "從台灣新竹起步的主機板小廠，蛻變為全球第五大個人電腦品牌的勵志傳奇",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%8F%AF%E7%A2%A9",
-        "date": "2026-07-06T14:28:26+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "en": [
+      {
+        "title": "AI Hardware Supply Chain: Where Taiwan Turns the Cloud into Machines",
+        "desc": "Generative AI looks like a cloud service, but it depends on a physical road: chip design, wafer fabrication, packaging, memory, power, cooling, motherboards, racks, and delivery. Taiwan matters not only because of TSMC, but because many checkpoints along that road are concentrated here; that shared interest is real, and so are the bills for water, power, carbon, inequality, overseas manufacturing, and geopolitical risk.",
+        "category": "technology",
+        "href": "/en/technology/ai-hardware-supply-chain",
+        "date": "2026-07-15T08:42:18+08:00",
+        "readingTime": null,
+        "image": "/article-images/technology/ai-hardware-supply-chain-flow-en.svg"
+      },
+      {
+        "title": "AI Supply Chain Overseas Manufacturing: Taiwan’s Capabilities Are Being Invited Abroad",
+        "desc": "Overseas manufacturing in the AI hardware supply chain is not only TSMC going to the United States, Japan, and Germany. It also includes Foxconn, Wistron, Delta, packaging and testing firms, and server suppliers being pulled toward the United States, Japan, Europe, India, Southeast Asia, and Mexico by customers, tariffs, subsidies, and geopolitics. This article explains why Taiwan’s companies go abroad through globalization, de-risking, and supply-chain bargaining: it is an extension of capability, and also the world’s attempt to reduce single-point dependence.",
+        "category": "technology",
+        "href": "/en/technology/ai-supply-chain-overseas-manufacturing",
+        "date": "2026-07-15T08:42:18+08:00",
+        "readingTime": null,
+        "image": "/article-images/economy/tsmc-fab21-arizona-2023.webp"
+      },
+      {
+        "title": "Semiconductor Water Use and Taiwan’s Water Resources: The Reservoir Beside the Fab",
+        "desc": "Chip manufacturing needs ultrapure water, but Taiwan’s water does not exist only inside factory pipes. It also exists among reservoirs, rainfall, drought, agricultural irrigation, reclaimed water, and local allocation. This article does not reduce semiconductor water use to a one-line conflict of \"TSMC stealing water.\" It explains how advanced processes bind Taiwan’s island hydrology, public governance, reclaimed-water infrastructure, and global supply chains together, pulling high tech back to reservoirs, farms, and local trust.",
+        "category": "technology",
+        "href": "/en/technology/semiconductor-water-use-and-taiwan-water-resources",
+        "date": "2026-07-15T08:42:18+08:00",
+        "readingTime": null,
+        "image": "/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp"
+      },
       {
         "title": "Liu An-ting",
         "desc": "In 2008 she left Taichung Girls' Senior High School for Princeton. In 2013, at 23, she quit her New York consulting job to return to Taiwan and found TFT — Teach for Taiwan. In 2016 she asked a graduating class at National Cheng Kung University: 'What do you do with your luck?' That line became a collective mantra for an entire generation. But the other line she says most often is: 'Don't believe in me as an individual.' After TFT's tenth anniversary in 2024, she passed the chairmanship to Lin Yen-hsi and became a board director. Her best work is not TFT itself — it is making TFT able to exist without her.",
@@ -337,33 +364,6 @@
         "date": "2026-07-12T22:17:28+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "AI Hardware Supply Chain: Where Taiwan Turns the Cloud into Machines",
-        "desc": "Generative AI looks like a cloud service, but it depends on a physical road: chip design, wafer fabrication, packaging, memory, power, cooling, motherboards, racks, and delivery. Taiwan matters not only because of TSMC, but because many checkpoints along that road are concentrated here; that shared interest is real, and so are the bills for water, power, carbon, inequality, overseas manufacturing, and geopolitical risk.",
-        "category": "technology",
-        "href": "/en/technology/ai-hardware-supply-chain",
-        "date": "2026-07-12T08:44:51+08:00",
-        "readingTime": null,
-        "image": "/article-images/technology/ai-hardware-supply-chain-flow.svg"
-      },
-      {
-        "title": "AI Supply Chain Overseas Manufacturing: Taiwan’s Capabilities Are Being Invited Abroad",
-        "desc": "Overseas manufacturing in the AI hardware supply chain is not only TSMC going to the United States, Japan, and Germany. It also includes Foxconn, Wistron, Delta, packaging and testing firms, and server suppliers being pulled toward the United States, Japan, Europe, India, Southeast Asia, and Mexico by customers, tariffs, subsidies, and geopolitics. This article explains why Taiwan’s companies go abroad through globalization, de-risking, and supply-chain bargaining: it is an extension of capability, and also the world’s attempt to reduce single-point dependence.",
-        "category": "technology",
-        "href": "/en/technology/ai-supply-chain-overseas-manufacturing",
-        "date": "2026-07-12T08:44:51+08:00",
-        "readingTime": null,
-        "image": "/article-images/economy/tsmc-fab21-arizona-2023.webp"
-      },
-      {
-        "title": "Semiconductor Water Use and Taiwan’s Water Resources: The Reservoir Beside the Fab",
-        "desc": "Chip manufacturing needs ultrapure water, but Taiwan’s water does not exist only inside factory pipes. It also exists among reservoirs, rainfall, drought, agricultural irrigation, reclaimed water, and local allocation. This article does not reduce semiconductor water use to a one-line conflict of \"TSMC stealing water.\" It explains how advanced processes bind Taiwan’s island hydrology, public governance, reclaimed-water infrastructure, and global supply chains together, pulling high tech back to reservoirs, farms, and local trust.",
-        "category": "technology",
-        "href": "/en/technology/semiconductor-water-use-and-taiwan-water-resources",
-        "date": "2026-07-12T08:44:51+08:00",
-        "readingTime": null,
-        "image": "/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp"
       },
       {
         "title": "Taiwan’s Electricity and Semiconductors: The Power Bill Behind the Sacred Mountain",

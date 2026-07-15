@@ -1,26 +1,58 @@
 {
-  "lastUpdated": "2026-07-14T22:42:21.918181Z",
+  "lastUpdated": "2026-07-15T15:10:47.303288Z",
   "schemaVersion": "1.1",
   "totals": {
-    "count": 146,
+    "count": 148,
     "platforms": {
-      "threads": 76,
-      "x": 66,
+      "threads": 77,
+      "x": 67,
       "other": 4
     },
     "languages": {
-      "zh": 139,
+      "zh": 141,
       "en": 7
     },
     "templates": {
       "B": 49,
       "A": 32,
       "D": 4,
-      "A2": 55,
+      "A2": 57,
       "other": 6
     }
   },
   "recent": [
+    {
+      "n": 158,
+      "date": "2026-07-15",
+      "platform": "x",
+      "article": "醫療法",
+      "articleSlug": "醫療法",
+      "category": "society",
+      "template": "A2 結構性題目+護病比",
+      "url": "https://x.com/taiwandotmd/status/2077235621287084160",
+      "highlight": "機構規範 vs 市場拉扯；護病比入法後人手仍可能關床塞急診",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
+    {
+      "n": 157,
+      "date": "2026-07-15",
+      "platform": "threads",
+      "article": "醫療法",
+      "articleSlug": "醫療法",
+      "category": "society",
+      "template": "A2 結構性題目+護病比",
+      "url": "https://www.threads.com/@taiwandotmd/post/DazHQR3kz3B",
+      "highlight": "機構規範 vs 市場拉扯；護病比入法後人手仍可能關床塞急診",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
     {
       "n": 156,
       "date": "2026-07-14",
@@ -67,38 +99,6 @@
       "views_latest": 3439,
       "engagements_7d": 118,
       "rate_7d": 3.43,
-      "backfilled": true
-    },
-    {
-      "n": 153,
-      "date": "2026-06-27",
-      "platform": "x",
-      "article": "紀懷新",
-      "articleSlug": "紀懷新",
-      "category": "People",
-      "template": "A2 首尾呼應 Tier 1b 具體性槓桿",
-      "url": "https://x.com/taiwandotmd/status/2070809073143144717",
-      "highlight": "紀懷新 X 單則 inline UTM s153（同 #152 Threads 內容）。哲宇 in-session 登入 @taiwandotmd 到 X 後補發 X 半（先前 Chrome 僅 @cheyuwu345 個人帳號被 v0.4 hard gate 攔）。post-ship 6-check 全綠：6 段保留 / 博士論文 fix / t.co UTM / 圖 1。",
-      "views_7d": 1788,
-      "views_latest": 1788,
-      "engagements_7d": 100,
-      "rate_7d": 5.59,
-      "backfilled": true
-    },
-    {
-      "n": 152,
-      "date": "2026-06-27",
-      "platform": "threads",
-      "article": "紀懷新",
-      "articleSlug": "紀懷新",
-      "category": "People",
-      "template": "A2 首尾呼應 Tier 1b 具體性槓桿",
-      "url": "https://www.threads.com/@taiwandotmd/post/DaFb5aCE6FV",
-      "highlight": "你天天叫 AI「一步一步想」卻不認得這個淡水人——思維鏈共同作者紀懷新，把高中幫媽媽寫教育心理學博士論文學到的 Piaget 基模搬進機器，只花 $5000 因為那從來不是算力問題。哲宇 2 次 in-loop 校正（論文→博士論文 / 幫→幫助）。Threads ship；X 因 Chrome 僅登入 @cheyuwu345 個人帳號（@taiwandotmd 未登入）擋下未發。",
-      "views_7d": 4799,
-      "views_latest": 4799,
-      "engagements_7d": 218,
-      "rate_7d": 4.54,
       "backfilled": true
     }
   ],
@@ -233,6 +233,22 @@
       "publishedDays": 1,
       "status": "waiting",
       "url": "https://x.com/taiwandotmd/status/2076992601543327976"
+    },
+    {
+      "n": 157,
+      "article": "醫療法",
+      "platform": "threads",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://www.threads.com/@taiwandotmd/post/DazHQR3kz3B"
+    },
+    {
+      "n": 158,
+      "article": "醫療法",
+      "platform": "x",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://x.com/taiwandotmd/status/2077235621287084160"
     }
   ],
   "noUrlHistorical": [
@@ -303,7 +319,7 @@
     },
     {
       "week": "2026-W29",
-      "published": 2,
+      "published": 4,
       "avgViews": 398
     }
   ],
@@ -1767,6 +1783,26 @@
       "withinHarvestWindow": true,
       "harvestCount": 1,
       "lastHarvest": "2026-07-15 06:40"
+    },
+    {
+      "n": 157,
+      "article": "醫療法",
+      "platform": "threads",
+      "publishDate": "2026-07-15",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
+    },
+    {
+      "n": 158,
+      "article": "醫療法",
+      "platform": "x",
+      "publishDate": "2026-07-15",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
     }
   ]
 }

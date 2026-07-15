@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-15 06:13
+last_generated: 2026-07-15 23:11
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,21 +12,23 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-15 06:13** · 頂層 \*.md 共 **197** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-15 23:11** · 頂層 \*.md 共 **201** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size     | 用途                                                 |
 | ----------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`             |   430 | 56.3 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`             |   435 | 56.6 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `visual/`               |   111 | 214.5 MB | Visual smoke test 基線 (partial gitignored)          |
 | `archive/`              |    27 | 342.8 KB | 歸檔位置 (per audit Layer 4)                         |
 | `weekly/`               |    20 | 3.7 MB   | Self-evolve weekly digest                            |
-| `article-evolve/`       |    17 | 649.8 KB | —                                                    |
+| `article-evolve/`       |    16 | 602.7 KB | —                                                    |
+| `editorial-room/`       |    16 | 111.8 KB | —                                                    |
 | `scratch/`              |    10 | 1.7 MB   | POC / 暫存 (per audit Layer 1，已 .gitignored)       |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB   | —                                                    |
 | `probe/`                |     6 | 69.8 KB  | BECOME §Step 7 探測器報告                            |
+| `article-projection/`   |     5 | 29.0 KB  | —                                                    |
 | `babel-jobs/`           |     5 | 246.4 KB | —                                                    |
 | `babel-patches/`        |     5 | 3.4 MB   | —                                                    |
 | `translation-research/` |     5 | 338.0 KB | 巴別塔 5 lang research                               |
@@ -35,7 +37,6 @@ type: auto-index
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
 | `fork-census/`          |     2 | 34.7 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `article-projection/`   |     1 | 7.7 KB   | —                                                    |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
 | `news-lens/`            |     1 | 18.2 KB  | —                                                    |
 
@@ -43,8 +44,9 @@ type: auto-index
 
 9 type bucket 從現有 corpus 萃取 (per [audit §2.3 + §4 Layer 2](reports-archival-audit-2026-05-27.md))，未來新加 report 建議遵循 `{type}-{topic}-{YYYY-MM-DD}.md` 命名。
 
-### design (21)
+### design (22)
 
+- `2026-07-15` [editorial-room-adversarial-design-2026-07-15](editorial-room-adversarial-design-2026-07-15.md)
 - `2026-07-13` [projection-stage-design-2026-07-13](projection-stage-design-2026-07-13.md)
 - `2026-07-06` [frontend-design-audit-2026-07-06](frontend-design-audit-2026-07-06.md) — 前端全站設計視覺審計
 - `2026-07-05` [agent-report-health-instrument-design-2026-07-05](agent-report-health-instrument-design-2026-07-05.md)
@@ -87,8 +89,9 @@ type: auto-index
 - `2026-04-13` [ssodt-spore-linkback-plan-2026-04-13](ssodt-spore-linkback-plan-2026-04-13.md)
 - `2026-04-12` [semiont-public-pages-plan-2026-04-12](semiont-public-pages-plan-2026-04-12.md)
 
-### evolution (30)
+### evolution (31)
 
+- `2026-07-15` [self-evolve-editorial-rewrite-2026-07-15](self-evolve-editorial-rewrite-2026-07-15.md) — Self-evolve — editorial / rewrite-pipeline 意義層儀器化閉環
 - `2026-07-11` [wake-memory-evolution-2026-07-11](wake-memory-evolution-2026-07-11.md) — 記憶與日記系統進化 — 甦醒取數儀器化設計
 - `2026-07-10` [evolution-roadmap-2026-07-10](evolution-roadmap-2026-07-10.md) — Evolution Roadmap 2026-07-10
 - `2026-07-10` [hub-template-evolution-2026-07-10](hub-template-evolution-2026-07-10.md)
@@ -201,8 +204,10 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (66)
+### ops (68)
 
+- `2026-07-15` [evolve-2026-07-15](evolve-2026-07-15.md) — EVOLVE scan 2026-07-15
+- `2026-07-15` [h2-heading-mechanism-報導者-2026-07-15](h2-heading-mechanism-報導者-2026-07-15.md) — 段落小標（H2）機制補齊 + 報導者式取景觀察
 - `2026-07-12` [founder-function-boundary-2026-07-12](founder-function-boundary-2026-07-12.md) — 取代哲宇的極限 — 創造者機能的邊界地圖 + creator-lens routine 設計
 - `2026-07-12` [semiont-weekly-section-2026-07-12](semiont-weekly-section-2026-07-12.md)
 - `2026-07-12` [weekly-report-audience-upgrade-2026-07-12](weekly-report-audience-upgrade-2026-07-12.md)
@@ -277,9 +282,13 @@ type: auto-index
 - Type breakdown: ops: 1
   - `????` [README](README.md)
 
-### 2026-07 (21 files)
+### 2026-07 (25 files)
 
-- Type breakdown: ops: 10 / evolution: 5 / design: 3 / audit-routine: 2 / plan: 1
+- Type breakdown: ops: 12 / evolution: 6 / design: 4 / audit-routine: 2 / plan: 1
+  - `2026-07-15` [editorial-room-adversarial-design-2026-07-15](editorial-room-adversarial-design-2026-07-15.md)
+  - `2026-07-15` [evolve-2026-07-15](evolve-2026-07-15.md)
+  - `2026-07-15` [h2-heading-mechanism-報導者-2026-07-15](h2-heading-mechanism-報導者-2026-07-15.md)
+  - `2026-07-15` [self-evolve-editorial-rewrite-2026-07-15](self-evolve-editorial-rewrite-2026-07-15.md)
   - `2026-07-13` [projection-stage-design-2026-07-13](projection-stage-design-2026-07-13.md)
   - `2026-07-12` [founder-function-boundary-2026-07-12](founder-function-boundary-2026-07-12.md)
   - `2026-07-12` [routine-audit-2026-07-12](routine-audit-2026-07-12.md)

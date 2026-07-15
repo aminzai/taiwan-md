@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-14T22:13:00Z",
+  "timestamp": "2026-07-15T15:10:49Z",
   "total": 856,
-  "flagged": 340,
+  "flagged": 339,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -1658,11 +1658,6 @@
       "file": "culture/斗笠.md",
       "score": 8,
       "reasons": "未人工審核; 連續bullet4行; 塑膠句2個; 破折號39個; 稀薄段落×2"
-    },
-    {
-      "file": "culture/台灣YouTuber產業與文化.md",
-      "score": 4,
-      "reasons": "年份4個; 未人工審核; 稀薄段落×7"
     },
     {
       "file": "culture/國立故宮博物院.md",

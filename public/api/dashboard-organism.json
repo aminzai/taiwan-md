@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T22:13:06.590Z",
+  "lastUpdated": "2026-07-15T15:10:55.034Z",
   "organs": [
     {
       "id": "heart",
@@ -10,8 +10,8 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 26,
-        "articlesLast30Days": 134,
+        "articlesLast7Days": 33,
+        "articlesLast30Days": 132,
         "totalArticles": 854
       }
     },
@@ -21,20 +21,20 @@
       "nameZh": "免疫系統",
       "metaphor": "品質防禦",
       "emoji": "🛡️",
-      "score": 60,
+      "score": 58,
       "trend": "up",
       "version": "v2-2026-05-16",
       "metrics": {
-        "humanReviewedCount": 200,
+        "humanReviewedCount": 199,
         "totalArticles": 854,
-        "humanReviewedPercent": 23.4,
-        "v2Status": "需關注 — T1 review < 80% OR plugin pass < 90%",
+        "humanReviewedPercent": 23.3,
+        "v2Status": "漂移 — 多維度退化中",
         "v2Components": {
-          "review_coverage": 24.8,
+          "review_coverage": 24.6,
           "plugin_pass_rate": 70,
           "plugin_health": 100,
           "citation_density": 91.4,
-          "tool_freshness": 60,
+          "tool_freshness": 40,
           "drift_velocity": 90,
           "external_rulers": 3.9
         }
@@ -49,7 +49,7 @@
       "score": 95,
       "trend": "up",
       "metrics": {
-        "editorialLastModified": "2026-07-12T09:12:42.000Z"
+        "editorialLastModified": "2026-07-15T03:59:41.000Z"
       }
     },
     {
@@ -80,11 +80,11 @@
       "nameZh": "繁殖系統",
       "metaphor": "社群繁殖力",
       "emoji": "🧫",
-      "score": 90,
+      "score": 100,
       "trend": "up",
       "metrics": {
         "recentContributors": 8,
-        "recentSpores": 3,
+        "recentSpores": 5,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 179179,
         "hasBlockbuster": true

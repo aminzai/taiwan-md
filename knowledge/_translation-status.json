@@ -1,47 +1,47 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-15T06:12:57+08:00",
-    "zhCommitHead": "c1b8a118f",
+    "lastUpdated": "2026-07-15T23:10:46+08:00",
+    "zhCommitHead": "d40e50420",
     "totalZh": 856,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 856,
-        "fresh": 845,
-        "stale": 10,
-        "metadata_stale": 0,
+        "fresh": 837,
+        "stale": 15,
+        "metadata_stale": 3,
         "missing": 1,
         "orphan": 0
       },
       "ja": {
         "total_zh": 856,
-        "fresh": 836,
-        "stale": 11,
-        "metadata_stale": 0,
+        "fresh": 828,
+        "stale": 16,
+        "metadata_stale": 3,
         "missing": 9,
         "orphan": 0
       },
       "ko": {
         "total_zh": 856,
-        "fresh": 835,
-        "stale": 11,
-        "metadata_stale": 0,
+        "fresh": 827,
+        "stale": 16,
+        "metadata_stale": 3,
         "missing": 10,
         "orphan": 0
       },
       "es": {
         "total_zh": 856,
-        "fresh": 835,
-        "stale": 11,
-        "metadata_stale": 0,
+        "fresh": 827,
+        "stale": 16,
+        "metadata_stale": 3,
         "missing": 10,
         "orphan": 0
       },
       "fr": {
         "total_zh": 856,
-        "fresh": 834,
-        "stale": 12,
-        "metadata_stale": 0,
+        "fresh": 826,
+        "stale": 17,
+        "metadata_stale": 3,
         "missing": 10,
         "orphan": 0
       }
@@ -4311,10 +4311,10 @@
     },
     "Economy/AAMA台北搖籃計畫.md": {
       "zh": {
-        "lastCommit": "cfaa22a5",
-        "lastModified": "2026-07-06T00:03:11+08:00",
-        "contentHash": "sha256:5e0729d9b7c768df",
-        "bodyHash": "sha256:de8072f2a65793f8"
+        "lastCommit": "2e673899",
+        "lastModified": "2026-07-15T12:13:53+08:00",
+        "contentHash": "sha256:c03fa77efb2f6e8c",
+        "bodyHash": "sha256:8e73793f11fceb53"
       },
       "translations": {
         "en": {
@@ -4328,8 +4328,10 @@
           "translationLastModified": "2026-07-07T04:20:20+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+28 -22"
         },
         "ja": {
           "path": "ja/Economy/aama-taipei-cradle-program.md",
@@ -4342,8 +4344,10 @@
           "translationLastModified": "2026-07-07T04:20:20+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+28 -22"
         },
         "ko": {
           "path": "ko/Economy/aama-taipei-cradle-program.md",
@@ -4356,8 +4360,10 @@
           "translationLastModified": "2026-07-07T04:20:20+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+28 -22"
         },
         "es": {
           "path": "es/Economy/aama-taipei-cradle-program.md",
@@ -4370,8 +4376,10 @@
           "translationLastModified": "2026-07-07T04:20:20+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+28 -22"
         },
         "fr": {
           "path": "fr/Economy/aama-taipei-cradle-program.md",
@@ -4384,8 +4392,10 @@
           "translationLastModified": "2026-07-06T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+28 -22"
         }
       }
     },
@@ -7764,8 +7774,8 @@
           "sourceContentHash": "sha256:1569dc74096ade35",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-12T00:02:05+08:00",
-          "translationLastCommit": "2d46f088",
-          "translationLastModified": "2026-07-12T08:44:51+08:00",
+          "translationLastCommit": "b5c94e08",
+          "translationLastModified": "2026-07-15T08:42:18+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -9800,8 +9810,8 @@
           "sourceContentHash": "sha256:d6e2165fe911134c",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-12T00:02:05+08:00",
-          "translationLastCommit": "2d46f088",
-          "translationLastModified": "2026-07-12T08:44:51+08:00",
+          "translationLastCommit": "b5c94e08",
+          "translationLastModified": "2026-07-15T08:42:18+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -10923,8 +10933,8 @@
           "sourceContentHash": "sha256:e3dbfa5f81690467",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-12T00:02:05+08:00",
-          "translationLastCommit": "2d46f088",
-          "translationLastModified": "2026-07-12T08:44:51+08:00",
+          "translationLastCommit": "b5c94e08",
+          "translationLastModified": "2026-07-15T08:42:18+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
@@ -20033,8 +20043,8 @@
     },
     "Society/醫療法.md": {
       "zh": {
-        "lastCommit": "38d1c051",
-        "lastModified": "2026-07-13T09:58:08+08:00",
+        "lastCommit": "3d02cb39",
+        "lastModified": "2026-07-15T11:36:37+08:00",
         "contentHash": "sha256:f25a1c1f722444fc",
         "bodyHash": "sha256:2691d3cdf90b18ff"
       },
@@ -35073,10 +35083,10 @@
     },
     "People/尊.md": {
       "zh": {
-        "lastCommit": "aeb8b0e4",
-        "lastModified": "2026-06-05T12:44:43+08:00",
-        "contentHash": "sha256:0d80278055d155a0",
-        "bodyHash": "sha256:44a77176cac892eb"
+        "lastCommit": "d40e5042",
+        "lastModified": "2026-07-15T20:58:40+08:00",
+        "contentHash": "sha256:7b9715f6662dde5b",
+        "bodyHash": "sha256:4ef1e6ee9b7fee55"
       },
       "translations": {
         "en": {
@@ -35090,8 +35100,10 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 3,
+          "diffSummary": "+92 -107"
         },
         "ja": {
           "path": "ja/People/zun.md",
@@ -35104,8 +35116,10 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 3,
+          "diffSummary": "+92 -107"
         },
         "ko": {
           "path": "ko/People/zun.md",
@@ -35118,8 +35132,10 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 3,
+          "diffSummary": "+92 -107"
         },
         "es": {
           "path": "es/People/zun.md",
@@ -35132,8 +35148,10 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 3,
+          "diffSummary": "+92 -107"
         },
         "fr": {
           "path": "fr/People/zun.md",
@@ -35146,8 +35164,10 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 3,
+          "diffSummary": "+92 -107"
         }
       }
     },
@@ -38916,9 +38936,9 @@
     },
     "People/蔡阿嘎.md": {
       "zh": {
-        "lastCommit": "aeb8b0e4",
-        "lastModified": "2026-06-05T12:44:43+08:00",
-        "contentHash": "sha256:9c16cfd9fc4c2c49",
+        "lastCommit": "f5975a22",
+        "lastModified": "2026-07-15T19:16:25+08:00",
+        "contentHash": "sha256:2fc7b754782e2c72",
         "bodyHash": "sha256:3835f3eeb33c205d"
       },
       "translations": {
@@ -38933,8 +38953,10 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/People/tsai-a-ga-youtuber.md",
@@ -38947,8 +38969,10 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/People/tsai-a-ga-youtuber.md",
@@ -38961,8 +38985,10 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/People/tsai-a-ga-youtuber.md",
@@ -38975,8 +39001,10 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/People/tsai-a-ga-youtuber.md",
@@ -38989,8 +39017,10 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -39236,10 +39266,10 @@
     },
     "People/Howhow.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:e3c09bf20faac318",
-        "bodyHash": "sha256:636421c60d5f3730"
+        "lastCommit": "f5975a22",
+        "lastModified": "2026-07-15T19:16:25+08:00",
+        "contentHash": "sha256:c742af5d03f4c9ab",
+        "bodyHash": "sha256:a358cb4047d78691"
       },
       "translations": {
         "en": {
@@ -39253,8 +39283,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/howhow.md",
@@ -39267,8 +39299,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/howhow.md",
@@ -39281,8 +39315,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/howhow.md",
@@ -39295,8 +39331,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/howhow.md",
@@ -39309,8 +39347,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -39396,10 +39436,10 @@
     },
     "People/阿神.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:c0745c4b9d2ae295",
-        "bodyHash": "sha256:c2f250d5a21d59eb"
+        "lastCommit": "d40e5042",
+        "lastModified": "2026-07-15T20:58:40+08:00",
+        "contentHash": "sha256:1cb7722a06ee114d",
+        "bodyHash": "sha256:adf8a749c54caea6"
       },
       "translations": {
         "en": {
@@ -39413,8 +39453,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→9)"
         },
         "ja": {
           "path": "ja/People/red-shin-minecraft-youtuber.md",
@@ -39427,8 +39467,8 @@
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→9)"
         },
         "ko": {
           "path": "ko/People/red-shin-minecraft-youtuber.md",
@@ -39441,8 +39481,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→9)"
         },
         "es": {
           "path": "es/People/red-shin-minecraft-youtuber.md",
@@ -39455,8 +39495,8 @@
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→9)"
         },
         "fr": {
           "path": "fr/People/red-shin-minecraft-youtuber.md",
@@ -39469,8 +39509,8 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (18→9)"
         }
       }
     },
@@ -63192,9 +63232,9 @@
     },
     "Culture/巴哈姆特.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:1eeea7390de68e10",
+        "lastCommit": "f5975a22",
+        "lastModified": "2026-07-15T19:16:25+08:00",
+        "contentHash": "sha256:6af04295a71690eb",
         "bodyHash": "sha256:01a8577cdb53218c"
       },
       "translations": {
@@ -63209,8 +63249,10 @@
           "translationLastModified": "2026-06-22T01:30:22+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Culture/bahamut-taiwan-gaming-community.md",
@@ -63223,8 +63265,10 @@
           "translationLastModified": "2026-06-22T01:30:22+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Culture/bahamut-taiwan-gaming-community.md",
@@ -63237,8 +63281,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Culture/bahamut-taiwan-gaming-community.md",
@@ -63251,8 +63297,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Culture/bahamut-taiwan-gaming-community.md",
@@ -63265,8 +63313,10 @@
           "translationLastModified": "2026-06-22T01:30:22+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -64072,9 +64122,9 @@
     },
     "Culture/無名小站.md": {
       "zh": {
-        "lastCommit": "bb411ee0",
-        "lastModified": "2026-06-24T21:16:52+08:00",
-        "contentHash": "sha256:374cf68002e5c922",
+        "lastCommit": "d40e5042",
+        "lastModified": "2026-07-15T20:58:40+08:00",
+        "contentHash": "sha256:1d592674c8a22f46",
         "bodyHash": "sha256:74e768331f7f3a8b"
       },
       "translations": {
@@ -64089,8 +64139,10 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Culture/wretch.md",
@@ -64103,8 +64155,10 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Culture/wretch.md",
@@ -64117,8 +64171,10 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Culture/wretch.md",
@@ -64131,8 +64187,10 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Culture/wretch.md",
@@ -64145,8 +64203,10 @@
           "translationLastModified": "2026-06-25T00:57:25+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -66737,10 +66797,10 @@
     },
     "Culture/台灣YouTuber產業與文化.md": {
       "zh": {
-        "lastCommit": "ac86475b",
-        "lastModified": "2026-06-14T09:33:24+08:00",
-        "contentHash": "sha256:32b847d857685cef",
-        "bodyHash": "sha256:d7dfc5eea7475116"
+        "lastCommit": "d40e5042",
+        "lastModified": "2026-07-15T20:58:40+08:00",
+        "contentHash": "sha256:d4ca70756fc2b68a",
+        "bodyHash": "sha256:631049e094973d93"
       },
       "translations": {
         "en": {
@@ -66754,8 +66814,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Culture/taiwan-youtuber-industry.md",
@@ -66768,8 +66830,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Culture/taiwan-youtuber-industry.md",
@@ -66782,8 +66846,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Culture/taiwan-youtuber-industry.md",
@@ -66796,8 +66862,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Culture/taiwan-youtuber-industry.md",
@@ -66810,8 +66878,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },

@@ -1,9 +1,9 @@
 {
-  "_generated": "2026-07-15T06:42:21+08:00",
+  "_generated": "2026-07-15T23:10:15+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 146,
-    "articles": 71,
+    "spores": 148,
+    "articles": 72,
     "withMetrics": 136
   },
   "spores": [
@@ -8262,6 +8262,46 @@
           "shares": null
         }
       ]
+    },
+    {
+      "id": 157,
+      "slug": "醫療法",
+      "articlePath": "knowledge/Society/醫療法.md",
+      "articleUrl": "/society/醫療法/",
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-07-15",
+      "url": "https://www.threads.com/@taiwandotmd/post/DazHQR3kz3B",
+      "template": "A2 結構性題目+護病比",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
+    },
+    {
+      "id": 158,
+      "slug": "醫療法",
+      "articlePath": "knowledge/Society/醫療法.md",
+      "articleUrl": "/society/醫療法/",
+      "lang": "zh",
+      "platform": "x",
+      "date": "2026-07-15",
+      "url": "https://x.com/taiwandotmd/status/2077235621287084160",
+      "template": "A2 結構性題目+護病比",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
     }
   ],
   "byArticle": {
@@ -8325,6 +8365,7 @@
     "迷音Miin": [142, 143],
     "鄭愁予": [86],
     "鄭麗文": [22],
+    "醫療法": [157, 158],
     "開放文化基金會": [117, 118],
     "陳建年": [74, 75],
     "雷亞遊戲": [89, 90],

@@ -14464,22 +14464,6 @@
   },
   {
     "title": "阿神",
-    "description": "2023 年 10 月 15 日，擁有 300 萬訂閱的遊戲實況主阿神發布最後一支影片，正式為 14 年的創作生涯畫下句點。這位曾靠《Minecraft》系列走紅、創下連續 11 年不間斷「日更」神話的創作者，在事業巔峰選擇退休，直言過去活得不像人，揭示了頂尖創作者在演算法與自我生命間的殘酷掙扎。",
-    "category": "People",
-    "tags": [
-      "YouTuber",
-      "遊戲實況",
-      "Minecraft",
-      "數位媒體"
-    ],
-    "url": "https://taiwan.md/people/%E9%98%BF%E7%A5%9E",
-    "readingTime": 13,
-    "featured": false,
-    "date": "2026-04-19",
-    "path": "People/阿神.md"
-  },
-  {
-    "title": "阿神",
     "description": "2023年10月15日、300万人のチャンネル登録者を擁するゲーム実況者アシン（阿神）が最後の動画を公開し、14年間の創作活動に幕を下げた。『Minecraft』シリーズで注目を集め、11年間途切れることなく毎日更新する「日更」の神話を打ち立てたこのクリエイターは、絶頂期に引退を選び、かつて「人間らしく生きていなかった」と語り、トップクリエイターがアルゴリズムと自らの命の間で直面する残酷な葛藤を浮き彫りにした。",
     "category": "ja",
     "tags": [
@@ -14493,6 +14477,24 @@
     "featured": false,
     "date": "2026-04-19",
     "path": "ja/People/red-shin-minecraft-youtuber.md"
+  },
+  {
+    "title": "阿神：十一年日更之後，「永久停更」為何仍有新片",
+    "description": "2026 年 7 月，阿神的主頻道一面寫著「退休我爽才拍片」，一面排出昨天上線的 Minecraft 新片。十一年日更曾把個人頻道變成每天都有下一集的節目表；三年前的「永久停更」為何沒有成為永久離場？",
+    "category": "People",
+    "tags": [
+      "阿神",
+      "YouTuber",
+      "Minecraft",
+      "搞神馬",
+      "台灣網路文化",
+      "創作者勞動"
+    ],
+    "url": "https://taiwan.md/people/%E9%98%BF%E7%A5%9E",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-07-15",
+    "path": "People/阿神.md"
   },
   {
     "title": "阿婆鐵蛋：從渡船頭「海腳大飯店」的一場意外，到淡水最硬的集體記憶",
@@ -18820,8 +18822,8 @@
     "path": "ja/People/zun.md"
   },
   {
-    "title": "尊：從「黃毛豬」到雙頻道百萬，27 歲清流的孤獨重量",
-    "description": "2018 年 1 月，19 歲的朱玉恩成為台灣最年輕的百萬 YouTuber。八年後他 27 歲、開了第二頻道也破百萬、買了第一棟房子、女友是工程師蘿倫——「清流」這個粉絲冠的禮物，背後是一個替哥哥扛污名、替粉絲扛人設、替自己扛孤獨的台灣樣本。",
+    "title": "尊：從國二房間到雙頻道百萬，一位 YouTuber 的成年紀錄",
+    "description": "尊從國二拍遊戲實況，到 19 歲成為當時台灣最年輕的百萬 YouTuber，再把副頻道也帶過百萬。跨越十四個曆年的資料，記下他面對創作包袱、家人風暴與業配失誤，慢慢長成大人的過程。",
     "category": "People",
     "tags": [
       "YouTuber",
@@ -18829,12 +18831,12 @@
       "台灣文化",
       "網路創作者",
       "人生肥宅",
-      "清流"
+      "數位文化"
     ],
     "url": "https://taiwan.md/people/%E5%B0%8A",
-    "readingTime": 37,
+    "readingTime": 30,
     "featured": false,
-    "date": "2026-06-03",
+    "date": "2026-07-15",
     "path": "People/尊.md"
   },
   {
@@ -21799,7 +21801,7 @@
       "台灣文化"
     ],
     "url": "https://taiwan.md/people/%E8%94%A1%E9%98%BF%E5%98%8E",
-    "readingTime": 12,
+    "readingTime": 13,
     "featured": false,
     "date": "2026-04-23",
     "path": "People/蔡阿嘎.md"
@@ -23329,7 +23331,7 @@
     "url": "https://taiwan.md/society/%E9%86%AB%E7%99%82%E6%B3%95",
     "readingTime": 93,
     "featured": false,
-    "date": "2026-05-10",
+    "date": "2026-07-15",
     "path": "Society/醫療法.md"
   },
   {
@@ -23968,7 +23970,7 @@
   },
   {
     "title": "AAMA 台北搖籃計畫：一群本可退休的人，用最慢的方式把手藝交出去",
-    "description": "2012 年 5 月，詹宏志與顏漏有靠人脈兜起一個非正式組織，找來十位導師陪二十位創業家，其中一位是後來讓 Appier 在東京掛牌的游直翰。十三年間這裡走出社企流、Portaly，卻始終不投資、不佔股，只用兩年一對一把「怎麼把公司做大」的手藝交給下一代。它不想當獨角獸工廠，創辦人自己說「路才走一半」。",
+    "description": "2012 年，一群本可以退休的人在台北小房間坐下，答應兩年陪一個創業家：不拿股份、不插手日常、只把手藝交出去。十三年十五期，名單裡有 Appier、社企流、Portaly；創辦人仍說路才走一半。最慢的傳承寫在制度裡，捷徑抄不走——牆上掛著的名字，多數都還在路上。",
     "category": "Economy",
     "tags": [
       "創業",
@@ -23981,7 +23983,7 @@
       "社會企業"
     ],
     "url": "https://taiwan.md/economy/AAMA%E5%8F%B0%E5%8C%97%E6%90%96%E7%B1%83%E8%A8%88%E7%95%AB",
-    "readingTime": 47,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-07-05",
     "path": "Economy/AAMA台北搖籃計畫.md"
