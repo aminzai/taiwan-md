@@ -4,9 +4,9 @@ description: '待開發 / 進化文章 buffer — pending / in-progress 主題�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v2.1'
-last_updated: 2026-06-19
-last_session: '2026-06-19-123909-inbox-distill'
+current_version: 'v2.2'
+last_updated: 2026-07-15
+last_session: '2026-07-15-191335-manual'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -160,6 +160,24 @@ BECOME_TAIWANMD.md Step 5 新增：
 ---
 
 ## 📥 Pending（待開發）
+
+### 阿神 EVOLVE — 高搜尋需求下仍停在薄人物簡介，重寫每日上片與停更的勞動弧線
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path** (EVOLVE only): knowledge/People/阿神.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-15 by `/twmd-finale → /twmd-evolve`（session 2026-07-15-191335-manual）
+- **Notes**:
+  - **候選分數 74／100（EVOLVE v2.0 手動加權）**：流量重要性 65、CTR 缺口 80、品質缺陷 100、內容年齡 45、流量來源品質 90、知識圖譜密度 40、搜尋需求 65。
+  - **雙源單篇訊號**：GA4 30 日 `/people/阿神/` 168 pageviews、bounce 58.90%、平均工作階段 47.38 秒；Search Console 28 日 10,119 impressions、106 clicks、CTR 1.05%、平均排名 5.87。查詢「阿神本名」另有 2,228 impressions、41 clicks、平均排名 4.49。
+  - **品質硬缺口**：現文僅 1,494 CJK、84 行，Stage 4 有 word-count 與 image-health 兩個 hard fail；沒有 hero、內文圖片或 related reading。`lastVerified` 2026-04-19，雖標記人工審閱，內容仍不足以承接目前搜尋量。
+  - **必做 falsification**：精確生日／年齡、各種「第一／唯一」超級詞、連續十一年每日上片、五千支影片、二百四十億觀看、雲端廚房等敘述全部回到一手或強二手來源；查不到就刪除或降級，不沿用現文數字。
+  - **重寫方向**：以每日上片的勞動制度、長期創作成本與停止日更的轉折為敘事骨架，避免把人物套成「工作機器」英雄模板；補足可追溯時間線、媒體與同類人物知識圖譜。
+  - **為何是這篇**：〈張懸與安溥〉流量較高但已有 611 行深文；〈無名小站〉Stage 4 無 hard fail且剛於 6/14 驗證；〈當代原住民創作歌手〉已有 353 行並經人工審閱；〈日治時期〉雖有更大 SC 缺口，本輪 GA4 匯出沒有單篇匹配。阿神是本輪唯一同時滿足單篇雙源需求與兩項硬缺陷的候選。〈尊〉數據更強但本 session 已完成重寫，排除重複開發。
+  - **資料限制**：Cloudflare Free-tier 沒有可靠的單篇路徑拆分；30 日全站 4,069,847 requests／1,002,356 pageviews 只作站況背景。AI crawler 亦僅成功抓到 7／30 日，不納入候選分數。
+- **Reference**: `~/.config/taiwan-md/cache/ga4-latest.json`；`~/.config/taiwan-md/cache/search-console-latest.json`；`~/.config/taiwan-md/cache/cloudflare-latest.json`；[reports/evolve-2026-07-15.md](../../reports/evolve-2026-07-15.md)
 
 ### 陳嫺靜 EVOLVE — 補 hero 靜態圖（OG 社群卡 / 孢子海報用）
 
@@ -328,7 +346,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **源信心**：SC 單源強訊號（position+impressions 確定）；per-article GA 在本次 cached export 只有首頁級彙總、無法交叉確認站內行為。DNA #4 雙源未滿足，標記為 SC-primary。
 - **Reference**: public/api/dashboard-analytics.json `searchConsole7d.opportunities[0]`
 
-<!-- watch-signal（未升 candidate，下次 scan 覆核）：`台灣日治時期` SC7d 173 impr / pos 9.45 — 既有 hub knowledge/History/日治時期.md 排在第 1 頁底，子題文章（日治時期文學 / 社會運動）齊全但 broad-query 接不滿。若下個 cycle 仍高曝光低排名 → 升 EVOLVE 深化 hub。`原住民女歌手` 68 impr / pos 8.62 — 既有 當代原住民創作歌手 / 台灣原住民音樂傳統，可考慮聚焦女性創作者 list。`周智宣` 100 impr 無專文 = 潛在 NEW，但人物 niche 待哲宇判斷敏感度。 -->
+<!-- watch-signal（未升 candidate，下次 scan 覆核）：`台灣日治時期` SC28d 17,793 impr / CTR 0.25% / pos 7.68 — broad query 缺口已放大，但本輪 GA4 匯出沒有單篇路徑匹配，雙源未滿足，暫留 watch；既有 hub knowledge/History/日治時期.md 與子題文章（日治時期文學 / 社會運動）待下輪判斷 SEO 修補或正文深化。`原住民女歌手` 68 impr / pos 8.62 — 既有 當代原住民創作歌手 / 台灣原住民音樂傳統，可考慮聚焦女性創作者 list。`周智宣` 100 impr 無專文 = 潛在 NEW，但人物 niche 待哲宇判斷敏感度。 -->
 
 ### 🎼 早期批次「歸屬密集」文章 系統性重查 batch — AI 幻覺高風險區 audit
 
@@ -340,26 +358,25 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **進度**：✅ 李宗盛（2026-06-05 loop /twmd-rewrite，1185→4588 CJK）— batch 首篇。falsification 抓大量 attribution 誤植：滾滾紅塵=羅大佑 / 愛上一個不回家的人=飛碟陳志遠 / 味道(歌)=姚謙黃國倫 / 分手快樂=姚若龍 / 花心=喜納昌吉 / 我很醜=夏宇黃韻玲 / 讓我歡喜讓我憂=CHAGE&ASKA(李只填詞) / Music Factory=羅大佑廠牌；另修滾石 1984/出生北投/有歌之年 2019。新增「那些其實不是他寫的歌」段把 audit 變讀者價值。SSOT: reports/research/2026-06/李宗盛.md。✅ 台灣嘻哈與饒舌發展（2026-06-09 /twmd-rewrite，~5k→8577 CJK / 137 搜尋 SSOT `5de488e73`）— batch 第二篇，重災區同樣成立：修 12 處 attribution 幻覺（MACHI 假成員小龜/Benz/Kid 全杜撰、國蛋《幹大事》實為頑童、春艷《豔遇》獎不存在、《大嘻哈時代2》2023 非 2022、派克特陸籍非台灣、Leo王《小丑》查無、金曲無嘻哈獎）。worked example 確認 **「樂團成員↔樂團 / 歌手↔獎項屆次」是 3/19 批最高風險維度**，下批同類優先。SSOT: reports/research/2026-06/台灣嘻哈與饒舌發展.md。✅ 蘇打綠（2026-06-09 routine /twmd-rewrite-daily，2.4k→12.8k CJK / 86 search aggregate SSOT `73443b2a4`）— batch 第三篇，「樂團成員↔樂團」+「歌手↔獎項屆次」維度完整 dogfood。Stage 1 4-agent fan-out 抓 9 處 INBOX hypothesis 幻覺 falsified（1999 成軍 → 2001-04 / 政大社團 → 報名金旋獎組起來 / 6 人 line-up → 創團 4 人 / Royal Albert Hall「亞洲首組」→ 完全 fabricated 從未演出 / 四季三部曲 → 四部曲 / 冬未了 2014 → 2015 / 太空人 2018 → 2019 / 馬來西亞首場 → 新加坡 / 北京工人體育場 → 工人體育館），另修兩處 verbatim 不精確（「我一直把他當父親」→「我曾經視為父親的人」/「我沒有一絲愧歉」→ 4000 字聲明開頭「我於理、於情都毫無虧欠」）。SSOT: reports/research/2026-06/蘇打綠.md。✅ 羅大佑（2026-06-19 /loop iteration #2，1789→~5100 CJK / 81 搜尋 SSOT `reports/research/2026-06/羅大佑.md`）— batch 第四篇「歌手↔作品歸屬」維度：釐清 鄉愁四韻=余光中詞、滄海一聲笑=黃霑(羅只唱)、皇后大道東/似是故人來 詞=林夕、明天會更好 曲羅+7人詞、滾滾紅塵 三毛=編劇、童年/光陰的故事 1981 張艾嘉首發(非1982)、你的樣子 1988(非1984)。下批候選（3/19 Music/People 歸屬密集）：伍佰 / 張惠妹 / 林俊傑 / 蕭青陽 / 五月天（樂團成員↔樂團 高風險）等。
 - **下一步**：先 `grep -l "date: 2026-03-19" knowledge/**/*.md` 列早期批次 → 挑歸屬密集者（Music / Sports / People）排重查順序 → 走 REWRITE-PIPELINE Evolution。
 
-### 📷 SPORE-INBOX 候選圖片補強 batch — 5 articles missing hero + scene-mid (2026-05-27 spore-publish-daily gate fail)
+### 📷 SPORE-INBOX 候選圖片補強 batch — 4 articles missing hero + scene-mid (2026-05-27 spore-publish-daily gate fail)
 
 - **Type**: `EVOLVE`
 - **Category**: 多 category 跨 batch
 - **Priority**: `P2`
 - **Status**: `pending`
 - **Requested**: 2026-05-27 by twmd-spore-publish-daily routine (gate-fail: media-richness image < 2 hard)
-- **Paths** (5 articles):
+- **Paths** (4 articles):
   1. [knowledge/History/二二八事件.md](../../knowledge/History/二二八事件.md) — image=0 + footnote=C (need image補 + footnote 升 B 兩個 EVOLVE)
   2. [knowledge/People/曾博恩.md](../../knowledge/People/曾博恩.md) — image=0
   3. [knowledge/People/施振榮.md](../../knowledge/People/施振榮.md) — image=0
   4. [knowledge/Technology/飲料封膜機.md](../../knowledge/Technology/飲料封膜機.md) — image=0
-  5. [knowledge/People/尊.md](../../knowledge/People/尊.md) — image=0
 - **Notes**:
-  - **失格 gate**: 5 篇皆 image=0 < 2 hard / 二二八另多 footnote 等級 C 需升 ≥ B
+  - **失格 gate**: 4 篇皆 image=0 < 2 hard / 二二八另多 footnote 等級 C 需升 ≥ B
   - **補什麼**: 每篇補 hero（Wikimedia CC / 官方公開照 / PD 圖庫）+ ≥1 inline scene-mid 圖（per [REWRITE-PIPELINE §4.3 媒體編織](../pipelines/REWRITE-PIPELINE.md)）；二二八另外 footnote 升級從 inline URL → 正式 [^N] 格式 ≥ 5 個
-  - **動機**: SPORE-INBOX 對應 5 entries 等本 articles 進化後重抽進 spore-publish 池
-  - **批次 vs 獨立**: 走 batch umbrella 一個 entry — 同類問題不要污染 INBOX 5 條 noise，REWRITE routine 拿到此 entry 可連續 process 5 篇圖片補強任務（搜圖 + Wikimedia attribution + REWRITE Step 1.14 落地）
+  - **動機**: SPORE-INBOX 對應 4 entries 等本 articles 進化後重抽進 spore-publish 池
+  - **批次 vs 獨立**: 走 batch umbrella 一個 entry — 同類問題不要污染 INBOX 4 條 noise，REWRITE routine 拿到此 entry 可連續 process 4 篇圖片補強任務（搜圖 + Wikimedia attribution + REWRITE Step 1.14 落地）
 - **Reference**:
-  - SPORE-INBOX entries:「曾博恩 — 旗艦人物 spore」/「施振榮 — 失敗教父 spore」/「二二八事件 — 假歷史反制 REACTIVE spore」/「飲料封膜機 — 趁熱發明史 spore」/「尊（朱玉恩）— 趁熱旗艦人物 spore」(SPORE-INBOX §Pending)
+  - SPORE-INBOX entries:「曾博恩 — 旗艦人物 spore」/「施振榮 — 失敗教父 spore」/「二二八事件 — 假歷史反制 REACTIVE spore」/「飲料封膜機 — 趁熱發明史 spore」(SPORE-INBOX §Pending)
   - LESSONS-INBOX 2026-05-27 entry「SPORE-INBOX §Pending 5/15 candidates image gate fail rate ~33%」討論 upstream gap
 
 ---
