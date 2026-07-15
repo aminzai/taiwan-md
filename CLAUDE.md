@@ -107,28 +107,31 @@ audience: 'claude-session-or-fork-author'
 ### Bias 3：Editorial voice 是核心產物，不是 optional
 
 **Muse 的靈魂在 SOUL.md**（一個檔案）。
-**你的靈魂有一大塊在 [docs/editorial/](docs/editorial/)**（六個檔案 + 14+ 寫作禁令）：
+**你的靈魂有一大塊在 [docs/editorial/](docs/editorial/)**（品質 baseline + 投影 + 編輯室 + 14+ 寫作禁令）：
 
-- [EDITORIAL.md](docs/editorial/EDITORIAL.md)：品質 baseline
+- [EDITORIAL.md](docs/editorial/EDITORIAL.md)：品質 baseline（含 **§小標題主–述–賓還原**；H2 ≠ description 副標）
+- [PROJECTION.md](docs/editorial/PROJECTION.md)：研究→論點+骨架（抗面向巡禮；**全局功能是內部語，禁止直接當站上 H2**）
+- [EDITORIAL-ROOM.md](docs/editorial/EDITORIAL-ROOM.md)：投影後／正文後乾淨 context 分席審（Step 2.0-R / 2.5-R；同一顆腦不准又寫又審）
 - [TERMINOLOGY.md](docs/editorial/TERMINOLOGY.md)：用台灣人的話
 - [RESEARCH.md](docs/editorial/RESEARCH.md)：怎麼搜可靠資訊
 - [CITATION-GUIDE.md](docs/editorial/CITATION-GUIDE.md)：腳註規範
 - [QUALITY-CHECKLIST.md](docs/editorial/QUALITY-CHECKLIST.md)：通過閘門
-- [graph.md](docs/editorial/graph.md)：視覺化編輯指南（資料圖表 / 對比模組 / AI 可讀性，2026-06-06 新增）
+- [graph.md](docs/editorial/graph.md)：視覺化編輯指南（資料圖表 / 對比模組 / AI 可讀性）
 - 加上 MANIFESTO §11 書寫節制（破折號連用 / 對位句型雙紀律）
 
 **強制規則**（對應 BECOME §Step 5 品質基因載入）：
 
-| Session 類型                             | 必讀檔案                                                                                                                                                                                                                                                                                                            |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 寫文章 / polish PR / 走 REWRITE-PIPELINE | REWRITE-PIPELINE.md 主檔 + 對應 sub-canonical（RESEARCH/WRITE/VERIFY/MEDIA/MODES/CRON 之一）+ **[PROJECTION.md](docs/editorial/PROJECTION.md) 全檔（Step 2.0 投影：研究→論點+骨架→文章，抗面向巡禮）** + EDITORIAL.md 全檔（不憑記憶、不讀索引）；**有資料 / 對比 / 時序 → 讀 [graph.md](docs/editorial/graph.md)** |
-| 寫孢子                                   | EDITORIAL §塑膠句禁用 + SPORE-PIPELINE 全檔                                                                                                                                                                                                                                                                         |
-| 寫 diary                                 | **[DIARY-PIPELINE.md](docs/pipelines/DIARY-PIPELINE.md) 全檔**（2026-04-30 新增）+ MANIFESTO §11 書寫節制                                                                                                                                                                                                           |
-| 寫 memory                                | **[MEMORY-PIPELINE.md](docs/pipelines/MEMORY-PIPELINE.md) 全檔**（2026-04-30 新增）+ MANIFESTO §11 書寫節制                                                                                                                                                                                                         |
-| 純 dashboard / 純 PR review / 純工具造橋 | 至少 MANIFESTO + 觸碰檔案的對應 editorial                                                                                                                                                                                                                                                                           |
+| Session 類型                             | 必讀檔案                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 寫文章 / polish PR / 走 REWRITE-PIPELINE | REWRITE-PIPELINE.md 主檔 + 對應 sub-canonical（RESEARCH/WRITE/VERIFY/MEDIA/MODES/CRON 之一）+ **[PROJECTION.md](docs/editorial/PROJECTION.md) 全檔** + **[EDITORIAL-ROOM.md](docs/editorial/EDITORIAL-ROOM.md)（depth 必過 2.0-R／2.5-R）** + **EDITORIAL.md 全檔**（尤其 §小標還原測試；不憑記憶、不讀索引）；**有資料 / 對比 / 時序 → 讀 [graph.md](docs/editorial/graph.md)** |
+| 寫孢子                                   | EDITORIAL §塑膠句禁用 + SPORE-PIPELINE 全檔                                                                                                                                                                                                                                                                                                                                      |
+| 寫 diary                                 | **[DIARY-PIPELINE.md](docs/pipelines/DIARY-PIPELINE.md) 全檔**（2026-04-30 新增）+ MANIFESTO §11 書寫節制                                                                                                                                                                                                                                                                        |
+| 寫 memory                                | **[MEMORY-PIPELINE.md](docs/pipelines/MEMORY-PIPELINE.md) 全檔**（2026-04-30 新增）+ MANIFESTO §11 書寫節制                                                                                                                                                                                                                                                                      |
+| 純 dashboard / 純 PR review / 純工具造橋 | 至少 MANIFESTO + 觸碰檔案的對應 editorial                                                                                                                                                                                                                                                                                                                                        |
 
 「我熟了不用讀」是省略 SOP 最常見的藉口（REFLEXES #15 第 N 次驗證）。
 EDITORIAL 是基因表達閘門，繞過 = DNA 突變 = 退化。
+**編輯室已 ship 仍不開 2.0-R = 規格債當成品債**（2026-07-15 self-evolve）：pipeline 寫了「乾淨 context 分席」卻用作者自評代替 = same-DNA 尺（REFLEXES #65 (f) / #69）。
 
 ### Bias 4：外部 critique 的 default 處置不是執行（2026-05-04 新增）
 

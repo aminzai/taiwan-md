@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-15
-last_session: '2026-07-15-112237-manual'
+last_session: '2026-07-15-120352-self-evolve-editorial'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -238,6 +238,7 @@ memory/
 - **stale issue（已解未 close）= 對外失聯，跟「做了不記=沒做」對稱（2026-06-26 manual 9-issue triage，distill 2026-06-28）**：已完成的工作如果對應 issue 沒 close = 對外界隱形——contributor 以為沒人理、可能重複開新 issue，維護 organ 的熵堆在「看起來還沒做、其實早做完」的 gap 裡。這是 §神經迴路「做了不記=沒做」的同結構對外鏡像：一個對自己失憶（沒寫 memory），一個對外界失聯（沒 close issue）。2026-06-26 9-issue triage 中 **#1172a「前往文章按鈕」早在 #1143 做好**（/changelog 實測 2327 顆按鈕）、**#1059 核心 3 bug 早在 #1080 修好**（暗色 TOC 實測亮藍）兩條 stale 多月，contributor 重複以為要做。**操作 SOP**：MAINTAINER-PIPELINE Stage 3.6 issue act 加 hard step「這 issue 描述的功能/bug 是否已經在某 commit/PR 解掉了？」→ 已解則 close + 附 commit ref（跟「reply 必附 commit hash」同源）；造橋候選 routine grep open issue 標題 keyword vs 近期 commit/既有 component 偵測 stale。對應 [feedback_reply_to_contributors](USER-CONFIG/) + MAINTAINER §close 前 hard gate（那條防「該 merge 卻 close」，本條防「該 close 卻留開」）。Taiwan.md-specific 因為公開 contributor relationship 是 sovereign-mode 維護 organ 的對外介面。
 - **最高價值的投稿者是「有一手材料、但習慣交成稿」的領域專家；接住的形式是素材不是成稿（2026-06-30 #574 聲景 nistoreyo 驗證）**：學術研究者 / 從業者 / 田野工作者手上有第一手材料（論文、田野、專業知識），但投稿是理論改寫、停在抽象層，本人沒技術背景。直接 merge 會放一篇不對腔調的進站，禮貌拒絕會擋掉最高價值的材料加潛在的長期共生者。對的反應是提素材共創協作：你出素材加領域知識，我走 rewrite-pipeline 織成文章，你不用碰 GitHub。核心訊息是「你提供材料，敘事我們一起長」，把投稿者從作者的重擔換成領域顧問加共同創作者。nistoreyo（聲景研究碩士）走完後說這是她最有共同創作感的一次 AI 協作、第一次有人告訴她不需要先寫完；驗證來自一個專業上最該懷疑 AI 怎麼描述人的領域專家（論文主角蕭芸安會定期查 AI 怎麼論述自己）格外有重量。操作 SOP：[CONTRIBUTOR-SYSTEM §3 領域專家素材共創 onboarding mode](../pipelines/CONTRIBUTOR-SYSTEM-PIPELINE.md)（5 題素材清單）；完整歸檔 [reports/domain-expert-cocreation-574-2026-06-30.md](../../reports/domain-expert-cocreation-574-2026-06-30.md)。Taiwan.md-specific 因為它驗證的是策展式信念加公開 contributor 共生這兩個本物種特有的東西。
 - **gitignore + `git rm --cached` 前必跑 fresh-clone 模擬（2026-04-19 β，distill 2026-07-11）**：把檔案列入 ignore 前先 `rm -f` 實體檔 + `npm run build` 確認 CI 能重生它。只看生成器程式碼判斷「這是輸出檔吧」會誤殺 read-only 輸入——`src/data/taiwan-geocode.json` 看起來像產物，實際是 `generate-map-markers.js` 的手動策展輸入，ignore 後 build 立即 ENOENT。一次 rm-and-build 驗證勝過十次直覺審閱（#5 pre-commit dogfood 的 build 層版本）。
+- **REWRITE 意義層三儀器：投影減維 → 編輯室外部尺 → H2 載體還原（2026-07-13～15，self-evolve 2026-07-15）**：pipeline 長出完整「設計論證骨架」鏈之前，研究堆滿、正文面向巡禮、作者自評過結構——三個病同根。**(1) 投影**（[PROJECTION.md](../editorial/PROJECTION.md) + REWRITE Step 2.0）= 研究→論點+骨架的減維，不是鋪滿。**(2) 編輯室**（[EDITORIAL-ROOM.md](../editorial/EDITORIAL-ROOM.md) Step 2.0-R／2.5-R）= same-DNA 自檢的架構解：乾淨 context 分席，投影 revise 與負例 block 已 dogfood。**(3) H2 小標** = 正文段落標不是 description 副標；全局功能是編輯室內部語，站上 H2 必須過主–述–賓還原 + 可指載體（[EDITORIAL §小標題](../editorial/EDITORIAL.md)）。**規格債 ≠ 成品債**：字數／plugin 全綠仍可把好散文壓壞（AAMA 為過篇幅閘門壓縮→重構恢復體量）。boot 層必須指標 EDITORIAL-ROOM（Claude.md Bias 3，2026-07-15 才補上——SOP 已 ship 但 session 仍可繞過 = 規格債）。對應 REFLEXES #65 (f)／#69 (g)／#15；報告 [reports/self-evolve-editorial-rewrite-2026-07-15.md](../../reports/self-evolve-editorial-rewrite-2026-07-15.md)。
 
 ---
 
@@ -346,3 +347,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-15 | 071112-twmd-feedback-triage | 真空隊列第三日 no-op（REST 200 驗證非 env 壞）；archive 掃描儀器化印 scanned=36 修昨日手數 34；`a6a68e01e` | `synced=0` 與 `fetched=0` 同型替身：儀器不報的數字人會手補（#82） | [→](memory/2026-07-15-071112-twmd-feedback-triage.md) |
 | 2026-07-15 | 084254-twmd-maintainer-am | ellenlee #1222 rebase 後 flip Ready 接住 clean merge；file 18→8/+2790→+387 對齊 7/13 review；`b5c94e0` | 接住 flip 空窗＝Default 行動正常樣態（#71） | [→](memory/2026-07-15-084254-twmd-maintainer-am.md) |
 | 2026-07-15 | 112237-manual | 醫療法孢子 #157/#158 上線；v1–v3 觀點校準；square 標題 60→72 調回 + 內文 1.5rem；`3d02cb399` `b55ca7f9f` | 結構題先立 so what；全局縮字勿修單一版面 | [→](memory/2026-07-15-112237-manual.md) |
+| 2026-07-15 | 120352-self-evolve-editorial | 編輯／REWRITE 自我進化：#65/#69 fold + Bias 3 補 EDITORIAL-ROOM + 神經迴路三儀器；H2 還原與 AAMA 規格債已先前 ship | 零新編號；boot 層補指標才算儀器化閉環 | [→](memory/2026-07-15-120352-self-evolve-editorial.md) |
