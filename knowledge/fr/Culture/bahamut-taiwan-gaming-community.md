@@ -11,8 +11,8 @@ readingTime: 8
 featured: false
 translatedFrom: 'Culture/巴哈姆特.md'
 lastVerified: 2026-04-05
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:1eeea7390de68e10'
+sourceCommitSha: 'f5975a22'
+sourceContentHash: 'sha256:6af04295a71690eb'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
 translatedAt: '2026-06-22T00:30:00+08:00'
 ---
