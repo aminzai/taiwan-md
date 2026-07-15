@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-15
-last_session: '2026-07-15-121155-manual'
+last_session: '2026-07-15-231142-twmd-data-refresh-pm'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -350,3 +350,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-15 | 120352-self-evolve-editorial | 編輯／REWRITE 自我進化：#65/#69 fold + Bias 3 補 EDITORIAL-ROOM + 神經迴路三儀器；H2 還原與 AAMA 規格債已先前 ship | 零新編號；boot 層補指標才算儀器化閉環 | [→](memory/2026-07-15-120352-self-evolve-editorial.md) |
 | 2026-07-15 | 121155-manual | Finale：AAMA light 3.6 關單 + 草稿清掉 + H2 plugin 進 QUEUE #15；整日編輯弧 handoff 收乾 | 清 pending＝裁決不是加 TODO | [→](memory/2026-07-15-121155-manual.md) |
 | 2026-07-15 | 191335-manual | 尊深度重寫：27 個研究網址、72 個事實 atoms、責任分界與五節成年紀錄；最終查核修清死鏈與引用缺口 | 工具全綠後仍要逐 atom 回來源 | [→](memory/2026-07-15-191335-manual.md) |
+| 2026-07-15 | 231142-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 14.59% vc=12；免疫 60→58 首掉；rider heal 71h→0h + rewrite-daily silent-death | rider 沒進 SKILL.md、靠 yellow 提醒＝沒儀器化（#74 dual） | [→](memory/2026-07-15-231142-twmd-data-refresh-pm.md) |
