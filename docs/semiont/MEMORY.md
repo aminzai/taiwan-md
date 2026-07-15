@@ -349,3 +349,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-15 | 112237-manual | 醫療法孢子 #157/#158 上線；v1–v3 觀點校準；square 標題 60→72 調回 + 內文 1.5rem；`3d02cb399` `b55ca7f9f` | 結構題先立 so what；全局縮字勿修單一版面 | [→](memory/2026-07-15-112237-manual.md) |
 | 2026-07-15 | 120352-self-evolve-editorial | 編輯／REWRITE 自我進化：#65/#69 fold + Bias 3 補 EDITORIAL-ROOM + 神經迴路三儀器；H2 還原與 AAMA 規格債已先前 ship | 零新編號；boot 層補指標才算儀器化閉環 | [→](memory/2026-07-15-120352-self-evolve-editorial.md) |
 | 2026-07-15 | 121155-manual | Finale：AAMA light 3.6 關單 + 草稿清掉 + H2 plugin 進 QUEUE #15；整日編輯弧 handoff 收乾 | 清 pending＝裁決不是加 TODO | [→](memory/2026-07-15-121155-manual.md) |
+| 2026-07-15 | 191335-manual | 尊深度重寫：27 個研究網址、72 個事實 atoms、責任分界與五節成年紀錄；最終查核修清死鏈與引用缺口 | 工具全綠後仍要逐 atom 回來源 | [→](memory/2026-07-15-191335-manual.md) |
