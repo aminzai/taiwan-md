@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-15
-last_session: '2026-07-15-084254-twmd-maintainer-am'
+last_session: '2026-07-15-112237-manual'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -345,3 +345,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-15 | 063606-twmd-spore-harvest-am | 台北吸菸室 #155/#156 D+1 首度（451v+344v／0 外部 reply）；#154 D+8 flat plateau；`4a88dd9a0` | 夜間 ship 遺失 D+0 6h re-hook window vc=1 | [→](memory/2026-07-15-063606-twmd-spore-harvest-am.md) |
 | 2026-07-15 | 071112-twmd-feedback-triage | 真空隊列第三日 no-op（REST 200 驗證非 env 壞）；archive 掃描儀器化印 scanned=36 修昨日手數 34；`a6a68e01e` | `synced=0` 與 `fetched=0` 同型替身：儀器不報的數字人會手補（#82） | [→](memory/2026-07-15-071112-twmd-feedback-triage.md) |
 | 2026-07-15 | 084254-twmd-maintainer-am | ellenlee #1222 rebase 後 flip Ready 接住 clean merge；file 18→8/+2790→+387 對齊 7/13 review；`b5c94e0` | 接住 flip 空窗＝Default 行動正常樣態（#71） | [→](memory/2026-07-15-084254-twmd-maintainer-am.md) |
+| 2026-07-15 | 112237-manual | 醫療法孢子 #157/#158 上線；v1–v3 觀點校準；square 標題 60→72 調回 + 內文 1.5rem；`3d02cb399` `b55ca7f9f` | 結構題先立 so what；全局縮字勿修單一版面 | [→](memory/2026-07-15-112237-manual.md) |
