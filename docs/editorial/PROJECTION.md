@@ -9,10 +9,12 @@ last_session: '2026-07-13-214351-manual'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'EDITORIAL.md'
+  - 'EDITORIAL-ROOM.md'
   - 'RESEARCH.md'
   - 'graph.md'
   - '../pipelines/REWRITE-PIPELINE.md'
   - '../pipelines/WRITER-PROMPT.md'
+  - '../pipelines/EDITORIAL-ROOM-PROMPTS.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
   - '../pipelines/REWRITE-PIPELINE.md'
@@ -221,6 +223,7 @@ Step 2.0 過這五題才准派寫手（HARD）：
 | [EDITORIAL.md](EDITORIAL.md)                                  | 句子層 craft：voice、開場、結尾、密度、anchor 貫穿（投影的下游執行） |
 | [graph.md](graph.md)                                          | 視覺化：投影決定放哪幾個 viz，graph.md 決定怎麼做                    |
 | [REWRITE-PIPELINE Step 2.0](../pipelines/REWRITE-PIPELINE.md) | 投影在 6-stage 流程裡的位置 + hard gate + orchestration              |
+| [EDITORIAL-ROOM.md](EDITORIAL-ROOM.md)                        | 投影後編輯室對抗（Step 2.0-R）：乾淨 context 外部尺                  |
 | [WRITER-PROMPT.md](../pipelines/WRITER-PROMPT.md)             | 寫手讀藍圖執行的派發模板                                             |
 
 投影跟 EDITORIAL 的分界：**投影管「這篇文章的結構與論點對不對」（宏觀），EDITORIAL 管「每個句子與段落好不好」（微觀）。** 一篇文章可以每句都漂亮（EDITORIAL 全過）卻整體空泛（投影沒做）——那正是本檔要補的洞。
