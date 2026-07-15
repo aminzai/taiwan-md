@@ -67,7 +67,11 @@ html[data-shot='1']
 
 /* H1 — Spore 不 force 字體，讓 global.css `.jf-history h1, .hero-title` 的
  * justfont rixingsong-semibold 規則接管（單張手產圖不會觸發 rate limit）。
- * 字號 4.5rem poster 氣勢，無 line-clamp（原始 Spore 設計）。*/
+ * 字號 4.5rem poster 氣勢，無 line-clamp（原始 Spore 設計）。
+ *
+ * 2026-07-15：撤 7/14 台北吸菸室 ship 加的 `@media (max-width: 1200px)` 縮字
+ * （square 1080 一定踩到 → 標題 72→60px）。孤行改由版面／字級產品判斷，
+ * 不預設把所有 square 標題變小。 */
 html[data-shot='1'] main.article-page .hero-title {
   font-size: 4.5rem !important; /* 72px */
   line-height: 1.22 !important;
@@ -75,20 +79,9 @@ html[data-shot='1'] main.article-page .hero-title {
   max-width: none !important;
 }
 
-/* Square / vertical spore cards have less horizontal room than landscape.
- * Keep the canonical article title intact and solve wrapping in presentation:
- * 60px gives long zh-TW titles a balanced 2-line break instead of an orphan.
- * Do not replace this with --title shortening — SPORE-PIPELINE v3.11. */
-@media (max-width: 1200px) {
-  html[data-shot='1']:not([data-og='1']) main.article-page .hero-title {
-    font-size: 3.75rem !important; /* 60px */
-    line-height: 1.2 !important;
-  }
-}
-
-/* Description — Spore 原始寬版 */
+/* Description — Spore 寬版；2026-07-15 略放大（1.35→1.5rem）提升 square 可讀 */
 html[data-shot='1'] main.article-page > section > div:nth-child(2) > p {
-  font-size: 1.35rem !important; /* ~21.6px */
+  font-size: 1.5rem !important; /* 24px */
   max-width: min(900px, 100%) !important;
   line-height: 1.7 !important;
 }
