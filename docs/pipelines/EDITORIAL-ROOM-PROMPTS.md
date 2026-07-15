@@ -52,6 +52,7 @@ parent_canonical: 'docs/editorial/EDITORIAL-ROOM.md'
 2. 骨架是動詞序列還是名詞面向？shuffle test：打亂 section 是否仍通？
 3. 每個 section 是否有「全局功能」而不只是「介紹面向」？
 4. 論點型別是否跟 spine 綁定？（立體群像勿逼 contrarian）
+5. **段落小標（H2）**：能否還原「誰／什麼 + 動作 + 著落」？有沒有把「立起悖論／機制放大」等內部詞直接當 H2？外行只看目錄知不知道每段在看什麼？（EDITORIAL §小標題）
 
 輸出（markdown）：
 ### 結構主編
