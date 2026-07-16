@@ -334,6 +334,12 @@ const categoryList = [
                         >
                           🆕 {t('nav.latest')}
                         </a>
+                        <a
+                          href={navHref('/timeline')}
+                          class="dropdown-item dropdown-section-header"
+                        >
+                          ⏳ {t('nav.timeline')}
+                        </a>
                         <div class="dropdown-divider" />
                         <a
                           href={navHref('/graph')}
@@ -737,6 +743,13 @@ const categoryList = [
                       onclick="document.querySelector('.nav-mobile').classList.remove('open')"
                     >
                       🆕 {t('nav.latest')}
+                    </a>
+                    <a
+                      href={navHref('/timeline')}
+                      class="nav-link nav-sub-link"
+                      onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+                    >
+                      ⏳ {t('nav.timeline')}
                     </a>
                     <a
                       href={navHref('/graph')}

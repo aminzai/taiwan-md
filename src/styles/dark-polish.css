@@ -805,12 +805,14 @@
  * ══════════════════════════════════════════════════════════════════ */
 :root[data-theme='dark'] .explore-page .article-card,
 :root[data-theme='dark'] .latest-page .article-card,
+:root[data-theme='dark'] .timeline-page .article-card,
 :root[data-theme='dark'] .category-page .article-card {
   background: var(--color-surface);
   border-color: var(--color-border);
 }
 :root[data-theme='dark'] .explore-page .article-card:hover,
 :root[data-theme='dark'] .latest-page .article-card:hover,
+:root[data-theme='dark'] .timeline-page .article-card:hover,
 :root[data-theme='dark'] .category-page .article-card:hover {
   background: color-mix(in srgb, var(--color-accent) 8%, transparent);
   border-color: color-mix(in srgb, var(--color-accent) 45%, transparent);
@@ -818,16 +820,19 @@
 /* is-premium / is-row / is-detailed hover states also repaint bg:white. */
 :root[data-theme='dark'] .explore-page .article-card.is-premium:hover,
 :root[data-theme='dark'] .latest-page .article-card.is-premium:hover,
+:root[data-theme='dark'] .timeline-page .article-card.is-premium:hover,
 :root[data-theme='dark'] .category-page .article-card.is-premium:hover {
   background: var(--color-surface);
 }
 :root[data-theme='dark'] .explore-page .article-card.is-row,
 :root[data-theme='dark'] .latest-page .article-card.is-row,
+:root[data-theme='dark'] .timeline-page .article-card.is-row,
 :root[data-theme='dark'] .category-page .article-card.is-row {
   background: transparent;
 }
 :root[data-theme='dark'] .explore-page .article-card.is-row:hover,
 :root[data-theme='dark'] .latest-page .article-card.is-row:hover,
+:root[data-theme='dark'] .timeline-page .article-card.is-row:hover,
 :root[data-theme='dark'] .category-page .article-card.is-row:hover {
   background: color-mix(in srgb, var(--color-accent) 8%, transparent);
   border-color: var(--color-border);
@@ -836,11 +841,13 @@
  * stay as accents (already legible on dark). */
 :root[data-theme='dark'] .explore-page .article-card-title,
 :root[data-theme='dark'] .latest-page .article-card-title,
+:root[data-theme='dark'] .timeline-page .article-card-title,
 :root[data-theme='dark'] .category-page .article-card-title {
   color: var(--color-ink);
 }
 :root[data-theme='dark'] .explore-page .article-card:hover .article-card-title,
 :root[data-theme='dark'] .latest-page .article-card:hover .article-card-title,
+:root[data-theme='dark'] .timeline-page .article-card:hover .article-card-title,
 :root[data-theme='dark']
   .category-page
   .article-card:hover
@@ -851,24 +858,31 @@
  * tags, stats → soft ink. */
 :root[data-theme='dark'] .explore-page .article-card-desc,
 :root[data-theme='dark'] .latest-page .article-card-desc,
+:root[data-theme='dark'] .timeline-page .article-card-desc,
 :root[data-theme='dark'] .category-page .article-card-desc,
 :root[data-theme='dark'] .explore-page .article-card-meta,
 :root[data-theme='dark'] .latest-page .article-card-meta,
+:root[data-theme='dark'] .timeline-page .article-card-meta,
 :root[data-theme='dark'] .category-page .article-card-meta,
 :root[data-theme='dark'] .explore-page .article-card-date,
 :root[data-theme='dark'] .latest-page .article-card-date,
+:root[data-theme='dark'] .timeline-page .article-card-date,
 :root[data-theme='dark'] .category-page .article-card-date,
 :root[data-theme='dark'] .explore-page .article-card-updated,
 :root[data-theme='dark'] .latest-page .article-card-updated,
+:root[data-theme='dark'] .timeline-page .article-card-updated,
 :root[data-theme='dark'] .category-page .article-card-updated,
 :root[data-theme='dark'] .explore-page .article-card-premdate,
 :root[data-theme='dark'] .latest-page .article-card-premdate,
+:root[data-theme='dark'] .timeline-page .article-card-premdate,
 :root[data-theme='dark'] .category-page .article-card-premdate,
 :root[data-theme='dark'] .explore-page .article-card-tag,
 :root[data-theme='dark'] .latest-page .article-card-tag,
+:root[data-theme='dark'] .timeline-page .article-card-tag,
 :root[data-theme='dark'] .category-page .article-card-tag,
 :root[data-theme='dark'] .explore-page .article-card-stat,
 :root[data-theme='dark'] .latest-page .article-card-stat,
+:root[data-theme='dark'] .timeline-page .article-card-stat,
 :root[data-theme='dark'] .category-page .article-card-stat {
   color: var(--color-ink-soft);
 }
@@ -882,6 +896,10 @@
   .article-card.is-detailed
   .article-card-thumbwrap,
 :root[data-theme='dark']
+  .timeline-page
+  .article-card.is-detailed
+  .article-card-thumbwrap,
+:root[data-theme='dark']
   .category-page
   .article-card.is-detailed
   .article-card-thumbwrap,
@@ -891,6 +909,10 @@
   .article-card-hero,
 :root[data-theme='dark']
   .latest-page
+  .article-card.is-premium
+  .article-card-hero,
+:root[data-theme='dark']
+  .timeline-page
   .article-card.is-premium
   .article-card-hero,
 :root[data-theme='dark']
@@ -905,6 +927,10 @@
   .article-card-foot,
 :root[data-theme='dark']
   .latest-page
+  .article-card.is-detailed
+  .article-card-foot,
+:root[data-theme='dark']
+  .timeline-page
   .article-card.is-detailed
   .article-card-foot,
 :root[data-theme='dark']
