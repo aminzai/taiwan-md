@@ -3,7 +3,26 @@
 // dashboard-newsroom.json（generate-newsroom-data.py 產）→ slug/knowledge 路徑雙鍵 Map。
 // Module scope：整個 build 進程建一次（.astro frontmatter 是 per-render scope，
 // cache 放那裡每頁重建——2026-06-13 refactor-article 教訓）。
-import board from '../../public/api/dashboard-newsroom.json';
+import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
+
+// Runtime 讀檔＋容錯（2026-07-16 hotfix）：這個 JSON 是 prebuild:dashboard 生成的
+// gitignored 產物，`npm run dev` 不一定跑過生成器——靜態 ESM import 會讓「缺檔」
+// 直接炸掉每一個文章頁的 SSR（FailedToLoadModuleSSR）。缺檔時 fallback 空板，
+// 文章頁只是不顯示編輯台足跡，不崩。
+function loadBoard(): { articles: NewsroomRecord[] } {
+  try {
+    return JSON.parse(
+      readFileSync(
+        resolve(process.cwd(), 'public/api/dashboard-newsroom.json'),
+        'utf-8',
+      ),
+    );
+  } catch {
+    return { articles: [] };
+  }
+}
+const board = loadBoard();
 
 export interface NewsroomStage {
   status?: string;
@@ -27,7 +46,7 @@ let _bySlug: Map<string, NewsroomRecord> | null = null;
 function build() {
   _byKnowledgePath = new Map();
   _bySlug = new Map();
-  for (const a of (board as any).articles as NewsroomRecord[]) {
+  for (const a of board.articles) {
     _bySlug.set(a.slug, a);
     const ship = a.stages?.ship?.artifact;
     if (ship) _byKnowledgePath.set(ship, a);

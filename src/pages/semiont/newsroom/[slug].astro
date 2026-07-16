@@ -12,7 +12,20 @@ import '../../../styles/semiont.css';
 // ─────────────────────────────────────────────────────────────────────────────
 import { getMakingOfSlugs, getMakingOf } from '../../../lib/semiont-newsroom';
 import type { ReviewData } from '../../../lib/semiont-newsroom';
-import board from '../../../../public/api/dashboard-newsroom.json';
+import { readFileSync } from 'node:fs';
+import { resolve as resolvePath } from 'node:path';
+// runtime 讀檔＋容錯（缺檔＝無軌道不崩；同 newsroom-lookup.ts hotfix）
+let board: any = { articles: [] };
+try {
+  board = JSON.parse(
+    readFileSync(
+      resolvePath(process.cwd(), 'public/api/dashboard-newsroom.json'),
+      'utf-8',
+    ),
+  );
+} catch {
+  /* prebuild:dashboard 未跑 */
+}
 
 export async function getStaticPaths() {
   const slugs = await getMakingOfSlugs();

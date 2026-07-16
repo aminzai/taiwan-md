@@ -9,7 +9,20 @@ import '../../styles/semiont.css';
 // 看「為什麼在這裡、下一步怎麼推」。收件佇列與休眠摺疊，出刊壓縮成名單。
 // 資料：scripts/core/generate-newsroom-data.py（檔案現況推導，無第二本帳）。
 // ─────────────────────────────────────────────────────────────────────────────
-import board from '../../../public/api/dashboard-newsroom.json';
+import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
+// runtime 讀檔＋容錯（缺檔＝空板不崩；同 newsroom-lookup.ts hotfix）
+let board: any = { generated: new Date(0).toISOString(), articles: [] };
+try {
+  board = JSON.parse(
+    readFileSync(
+      resolve(process.cwd(), 'public/api/dashboard-newsroom.json'),
+      'utf-8',
+    ),
+  );
+} catch {
+  /* prebuild:dashboard 未跑——顯示空板 */
+}
 
 const GH = 'https://github.com/frank890417/taiwan-md/blob/main/';
 

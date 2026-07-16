@@ -52,7 +52,18 @@ AGENT PROMPT 補：contract 自身路徑進必讀、frontmatter 最小塊 inline
 槽位（政治題填多視角中立紀實邊界）、完成三步驗收（ls 驗檔＋gate＋spine 回報）。
 pipeline-shell-lint＋frontmatter gate 全綠。
 
-（收尾補：F4+）
+### F4｜NewsroomTrail 靜態 import 生成檔炸掉全站文章頁 dev SSR（severity: 高，已修）
+
+哲宇本機瀏覽抓到：article template → NewsroomTrail → newsroom-lookup.ts 靜態
+`import dashboard-newsroom.json`——該檔是 prebuild:dashboard 的 gitignored 產物，
+`npm run dev` 不生成 → 每個文章頁 FailedToLoadModuleSSR。CI 無感（會生成），
+只有 dev 環境炸。**修法**：三處全改 runtime `readFileSync`＋try/catch fallback
+（缺檔＝空 trail／空板，不崩）＋dev 鏈加生成器＋.gitignore 補列。乾淨 server
+驗證全綠含缺檔路徑。教訓：**任何 build-time import 的對象必須是 committed 檔；
+生成物一律 runtime 讀＋容錯**（同型風險掃描：無其他頁面靜態 import gitignored 產物）。
+另：Vite 對失敗 import 的模組圖不會靠 HMR 自癒，既有 dev server 需重啟。
+
+（收尾補：F5+）
 
 ## 設計被驗證的部分（正面證據）
 
