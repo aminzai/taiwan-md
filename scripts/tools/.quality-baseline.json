@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-16T09:22:38Z",
-  "total": 856,
-  "flagged": 339,
+  "timestamp": "2026-07-16T13:30:43Z",
+  "total": 855,
+  "flagged": 338,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -1348,11 +1348,6 @@
       "file": "history/淡江中學.md",
       "score": 7,
       "reasons": "空洞詞6個; 未人工審核; 塑膠句10個; 稀薄段落×1"
-    },
-    {
-      "file": "history/台灣鐵道史.en.md",
-      "score": 6,
-      "reasons": "未人工審核; 後段清單堆砌41%; 引用荒漠(零腳註)"
     },
     {
       "file": "history/綠島監獄.md",

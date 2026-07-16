@@ -39,6 +39,7 @@ from lib.article_health import (  # noqa: E402
     list_checks,
     run_checks,
 )
+from lib.article_health.config import Config, ProfileConfig  # noqa: E402
 
 
 def _get_staged_md() -> list[Path]:
@@ -228,18 +229,76 @@ def _cmd_write_baseline(out_path: Path, config_path: str | None) -> int:
     return 0
 
 
-def _effective_passed(report: HealthReport, fail_on: str) -> bool:
+def _resolve_prose_health_options(config: Config, profile: ProfileConfig | None) -> dict:
+    """Mirror runner._resolve_options for prose-health only — lets the CLI
+    read `score_budget` without re-running the check pipeline."""
+    base = dict(config.get_check_config("prose-health").options)
+    if profile and "prose-health" in profile.options_overrides:
+        base.update(profile.options_overrides["prose-health"])
+    return base
+
+
+def _resolve_score_budget(config: Config, profile: ProfileConfig | None) -> int:
+    """score-budget gate threshold: profile options_overrides.prose-health.
+    score_budget > config-level checks.prose-health.options.score_budget >
+    default 3.
+
+    2026-07-16: previously `fail_on = "score-budget"` was a no-op — it only
+    ever checked hard_count (same as fail_on="hard"), so the "≤3 = pass"
+    budget documented in prose_health.py's docstring and in
+    REWRITE-STAGE-3-VERIFY.md §4 (自動驗證：quality-scan ≤ 3 + build) was
+    never actually enforced anywhere in code. This wires the real
+    threshold + makes it configurable per profile (the new `memory-diary`
+    profile needs 8 — checklist-heavy memory/diary structure trips other
+    prose-health dims that don't apply to that文體).
+    """
+    opts = _resolve_prose_health_options(config, profile)
+    budget = opts.get("score_budget")
+    if budget is None:
+        return 3
+    try:
+        return int(budget)
+    except (TypeError, ValueError):
+        return 3
+
+
+def _prose_health_score(report: HealthReport) -> int:
+    """Extract the numeric score from prose-health's score-summary
+    violation (its `fix_suggestion` carries the digit string — see
+    prose_health.py's final `yield`). No violation present means score 0:
+    prose_health.check() only yields the summary violation when score > 0.
+    """
+    for r in report.results:
+        if r.check != "prose-health":
+            continue
+        for v in r.violations:
+            if v.fix_suggestion and v.fix_suggestion.isdigit():
+                return int(v.fix_suggestion)
+    return 0
+
+
+def _effective_passed(
+    report: HealthReport, fail_on: str, score_budget: int | None = None
+) -> bool:
     """Whether this report passes under the active profile's fail_on rule.
-    `report.passed` only checks HARD; this also respects warn/never.
+    `report.passed` only checks HARD; this also respects warn/never/
+    score-budget.
     """
     if fail_on == "never":
         return True
     if fail_on == "warn":
         return report.hard_count == 0 and report.warn_count == 0
+    if fail_on == "score-budget":
+        if report.hard_count:
+            return False
+        budget = score_budget if score_budget is not None else 3
+        return _prose_health_score(report) <= budget
     return report.hard_count == 0
 
 
-def _format_human(report: HealthReport, fail_on: str = "hard") -> str:
+def _format_human(
+    report: HealthReport, fail_on: str = "hard", score_budget: int | None = None
+) -> str:
     lines = []
     lines.append(f"🧬 {report.target.path}")
     lines.append(
@@ -268,10 +327,15 @@ def _format_human(report: HealthReport, fail_on: str = "hard") -> str:
             lines.append(f"      {v.severity.value} {loc}: {v.message}")
         if len(r.violations) > max_show:
             lines.append(f"      ... and {len(r.violations) - max_show} more")
-    eff = _effective_passed(report, fail_on)
+    eff = _effective_passed(report, fail_on, score_budget)
+    budget_note = (
+        f" score={_prose_health_score(report)}/{score_budget}"
+        if fail_on == "score-budget"
+        else ""
+    )
     lines.append(
         f"\nSummary: hard={report.hard_count}  warn={report.warn_count}  "
-        f"info={report.info_count}  passed={eff} (fail_on={fail_on})"
+        f"info={report.info_count}  passed={eff} (fail_on={fail_on}{budget_note})"
     )
     return "\n".join(lines)
 
@@ -387,20 +451,27 @@ def main() -> int:
     # Resolve fail_on once for both display + exit code
     profile = config.get_profile(args.profile)
     fail_on = profile.fail_on if profile else "hard"
+    score_budget = (
+        _resolve_score_budget(config, profile) if fail_on == "score-budget" else None
+    )
 
     # Output
     if args.output == "json":
         payload = {
             "fail_on": fail_on,
+            **({"score_budget": score_budget} if score_budget is not None else {}),
             "reports": [
-                {**r.as_dict(), "effective_passed": _effective_passed(r, fail_on)}
+                {
+                    **r.as_dict(),
+                    "effective_passed": _effective_passed(r, fail_on, score_budget),
+                }
                 for r in reports
             ],
         }
         print(json.dumps(payload, ensure_ascii=False, indent=2))
     else:
         for r in reports:
-            print(_format_human(r, fail_on))
+            print(_format_human(r, fail_on, score_budget))
             if r is not reports[-1]:
                 print()
 
@@ -414,8 +485,14 @@ def main() -> int:
     if fail_on == "warn":
         return 1 if (total_hard or total_warn) else 0
     if fail_on == "score-budget":
-        # Reserved for prose-health ≤ 3 budget — Phase 4+ wires this up
-        return 1 if total_hard else 0
+        # 2026-07-16: was a no-op (just checked hard_count) — now actually
+        # enforces the per-profile score_budget (default 3) via
+        # _resolve_score_budget + _prose_health_score. See docstring on
+        # _resolve_score_budget for the pre-fix gap this closes.
+        failed = any(
+            not _effective_passed(r, fail_on, score_budget) for r in reports
+        )
+        return 1 if failed else 0
     return 0
 
 

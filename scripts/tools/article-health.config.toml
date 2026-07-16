@@ -156,3 +156,20 @@ fail_on = "hard"
 # 全跑、不擋、JSON output for site dashboards.
 checks = "*"
 fail_on = "never"
+
+[profiles."memory-diary"]
+# memory/diary 專用寬鬆 profile — 2026-07-16 新增。
+# memory/diary 必填的 checklist/handoff 清單結構會觸發 prose-health 的
+# LIST-DUMP (#12) 與 THIN (#13) 維度（清單堆砌 + 稀薄段落是這兩種文體的
+# 結構本質，不是灌水）；且 memory/diary 不要求腳註來源（citation-desert
+# #16 對這兩種文體是雜訊，不是訊號）。用單一 prose-health check +
+# score-budget fail_on，budget 從預設 3 放寬到 8。
+#
+# 8 這個數字是從近期 memory 檔實測分佈 7-12 校準的過渡值（soft-launch，
+# 非最終定案）：checklist 密集的 handoff 段落常規落在這個帶，不代表寫作
+# 品質差，只是文體結構跟 knowledge/ 敘事文不同。之後累積更多樣本可再調。
+checks = ["prose-health"]
+fail_on = "score-budget"
+
+[profiles."memory-diary".options_overrides.prose-health]
+score_budget = 8

@@ -39,6 +39,21 @@ Total score budget: ≤ 3 = pass (per QUALITY-CHECKLIST §四 + REWRITE-PIPELINE
 A "score" violation is yielded with the running total — the runner can
 gate on this via profile.fail_on = "score-budget".
 
+Budget is configurable per-profile via `options.score_budget` (int, default
+3) — read by article-health.py's score-budget gate (scripts/tools/
+article-health.py::_resolve_score_budget). 2026-07-16: added so profiles
+whose文體 structurally trips other dims (e.g. `memory-diary`: checklist/
+handoff lists trip LIST-DUMP/THIN, no footnotes required) can raise the
+pass threshold without changing the default zh-TW knowledge/ budget of 3.
+
+AI 痕跡 Tier 4 (speak-human-tw 轉譯, 2026-07-16 soft-launch):
+  (a) 立場真空 (stance-vacuum)      (d) 時代帽子開場 (time-hat opening)
+  (b) 價值上升詞密度 (value-inflation) (e) 假推論密度 (「這意味著」)
+  (c) 罐頭結尾起手式 (canned-ending)   (f) 首先/其次/最後 三件套
+  全部併入 score budget（跟 quality-scan §1-16 一致，不是另開 WARN-only
+  bucket像 §11 Tier 1-3 / §自稱）。權重是初次校準值，非最終定案 — 見各
+  常數旁註解。
+
 Deferred to Phase 4b (need more structural parsing):
   - LIST-DUMP: bullet ratio per file half
   - THIN: prose lines per H2 section
@@ -153,6 +168,46 @@ _TIER3_PHRASES = [
     "不可或缺", "不可磨滅", "影響深遠", "歷久彌新",
     "並非偶然", "耐人尋味", "不言而喻", "不可言說", "無以名狀",
 ]
+
+# ── AI 痕跡 Tier 4 (speak-human-tw 轉譯, 2026-07-16 soft-launch) ─────────────
+# 校準狀態：soft-launch。權重是初次估計，未經 vc≥3 production case 驗證
+# （跟 chronicle-lead / word-count 當初 promotion 前的 staging 階段一樣）。
+# 併入 score budget（不像 §11 Tier 1-3 / §自稱是 WARN-only 不計分）——這組
+# 抓的是「作者沒有立場 / 灌水式升值語 / 罐頭收尾」，屬於 quality-scan 同一
+# 家族的可計分維度，不是純風格建議。
+
+# (a) 立場真空：每 hit +1，上限 +2（避免單篇因為多次「見仁見智」被過度懲罰）。
+_RE_STANCE_VACUUM = re.compile(
+    r"各有優缺點|見仁見智|因人而異|取決於多方面因素|具體情況具體分析"
+)
+_STANCE_VACUUM_SCORE_CAP = 2
+
+# (b) 價值上升詞密度：≥3 hits +1、≥6 +2。
+# 「轉捩點」「里程碑」刻意不列入——史觀文章的正當高頻詞，列入會誤殺敘事史文。
+# 「不可磨滅」跟 §11 Tier 3 ritual 語重疊，此處刻意保留（Tier 3 不計分，
+# 這裡才是這個詞第一次進 score budget）。
+_RE_VALUE_INFLATION = re.compile(
+    r"標誌著|見證了|彰顯了|體現了|突顯了|奠定.{0,10}基礎|不可磨滅"
+)
+
+# (c) 罐頭結尾起手式：最後 3 個段落內出現任一 → +2（fixed，非累加）。
+# 跟既有 _RE_FORMULAIC_ENDING（quality-scan #10，抓最後 5 行）不同顆粒度
+# （這裡是「最後 3 段」，且多收「總而言之」——舊規則沒有）。兩者故意並存、
+# 允許同一處文字同時觸發兩個維度：#10 抓行級、Tier4(c) 抓段落級起手式。
+_RE_CANNED_ENDING_OPENER = re.compile(
+    r"總的來說|綜上所述|總而言之|總結來說"
+)
+
+# (d) 時代帽子開場：第一個 prose 段落以此開頭 → +2（fixed）。
+_RE_TIME_HAT_OPENING = re.compile(
+    r"^(?:在當今|在這個.{0,12}的時代|隨著.{0,15}的(?:快速)?發展)"
+)
+
+# (e) 假推論密度：「這意味著」≥2 hits +1。
+_FALSE_INFERENCE_PHRASE = "這意味著"
+_FALSE_INFERENCE_MIN_HITS = 2
+
+# (f) 首先/其次/最後 三件套：同時出現「首先」+「其次」+（「最後」或「再者」）→ +1。
 
 # ── §盼望而不粉飾 (2026-06-15 哲宇 directive 儀器化) ───────────────────────────
 # canonical: MANIFESTO §進化哲學 盼望而不粉飾 + §跟台灣的關係 §自稱 + EDITORIAL §六。
@@ -290,6 +345,39 @@ def _detect_formulaic_ending(body: str) -> bool:
     tail = eligible[-5:] if eligible else []
     text = "\n".join(tail)
     return bool(_RE_FORMULAIC_ENDING.search(text))
+
+
+def _split_paragraphs(body: str) -> list[str]:
+    """Split body into paragraph text blocks (blank-line separated).
+
+    Used by Tier 4 (c) 罐頭結尾起手式 (last-3-paragraph scope) and
+    (d) 時代帽子開場 (first-prose-paragraph scope). Simple blank-line
+    splitter — matches the loose 段落 notion used elsewhere in this module
+    (e.g. _count_thin_blocks operates on H2 blocks, this operates on the
+    finer blank-line granularity).
+    """
+    return [p for p in re.split(r"\n\s*\n", body) if p.strip()]
+
+
+def _detect_canned_ending_opener(body: str) -> bool:
+    """Tier 4 (c): 最後 3 個段落內是否出現罐頭結尾起手式。"""
+    paragraphs = _split_paragraphs(body)
+    tail = paragraphs[-3:] if paragraphs else []
+    text = "\n\n".join(tail)
+    return bool(_RE_CANNED_ENDING_OPENER.search(text))
+
+
+def _detect_time_hat_opening(body: str) -> bool:
+    """Tier 4 (d): 第一個 prose 段落（跳過 heading / blockquote）是否以
+    時代帽子開場 pattern 開頭。"""
+    for p in _split_paragraphs(body):
+        stripped = p.strip()
+        if not stripped:
+            continue
+        if stripped.startswith(">") or stripped.startswith("#"):
+            continue
+        return bool(_RE_TIME_HAT_OPENING.match(stripped))
+    return False
 
 
 def _count_template_h2(body: str) -> int:
@@ -457,6 +545,19 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
 
     score = 0
     reasons: list[str] = []
+    # Per-profile pass threshold — default 3 (quality-scan canonical),
+    # overridable via profile options_overrides.prose-health.score_budget
+    # (e.g. `memory-diary` profile raises this to 8). Only informational
+    # here (message text); the actual gate lives in article-health.py's
+    # `_resolve_score_budget` (score-budget fail_on).
+    score_budget = 3
+    if config:
+        raw_budget = config.get("score_budget")
+        if raw_budget is not None:
+            try:
+                score_budget = int(raw_budget)
+            except (TypeError, ValueError):
+                score_budget = 3
 
     # Use body without protected regions for pattern detection so code
     # blocks / link URLs don't trigger false positives.
@@ -776,13 +877,106 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     # （PUA 體 / 媒體焦慮體偵測器已移除 — 見檔頭 docstring + _RE_ISLAND 上方註解。
     #   語意判斷非句法特徵，regex 92-100% 假陽性，改人工判斷 by EDITORIAL §六。）
 
+    # ════════════════════════════════════════════════════════════════
+    # AI 痕跡 Tier 4 (speak-human-tw 轉譯, 2026-07-16 soft-launch)
+    # 併入 score budget（跟 quality-scan §1-16 同一計分家族）。
+    # ════════════════════════════════════════════════════════════════
+
+    # ── (a) 立場真空：每 hit +1，上限 +2 ──
+    stance_hits = list(_RE_STANCE_VACUUM.finditer(text_for_patterns))
+    if stance_hits:
+        score += min(len(stance_hits), _STANCE_VACUUM_SCORE_CAP)
+        reasons.append(f"立場真空×{len(stance_hits)}")
+        for m in stance_hits[:10]:
+            line_no = _line_at_offset(text_for_patterns, m.start())
+            ctx = _context_around(text_for_patterns, m.start(), m.end())
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=f"立場真空 (§AI痕跡 Tier4-a「{m.group(0)}」)：{ctx}",
+                line=line_no,
+                snippet=m.group(0)[:40],
+                editorial_ref="speak-human-tw #37/#30 + EDITORIAL.md",
+                fix_suggestion="留判斷：文章自己的立場是什麼？把「見仁見智」換成具體斷言或明確標示為留待讀者判斷的理由。",
+            )
+
+    # ── (b) 價值上升詞密度：≥3 hits +1、≥6 +2 ──
+    value_inflation_hits = list(_RE_VALUE_INFLATION.finditer(text_for_patterns))
+    vi_n = len(value_inflation_hits)
+    if vi_n >= 6:
+        score += 2
+        reasons.append(f"價值上升詞×{vi_n}")
+    elif vi_n >= 3:
+        score += 1
+        reasons.append(f"價值上升詞×{vi_n}")
+    if vi_n >= 3:
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=f"價值上升詞密度 (§AI痕跡 Tier4-b): 累計 {vi_n} 處 (標誌著/見證了/彰顯了/體現了/突顯了/奠定...基礎/不可磨滅)",
+            editorial_ref="speak-human-tw #37/#30 + EDITORIAL.md",
+            fix_suggestion="改成具體描述事件本身，不用「標誌著/見證了」幫它加冕。",
+        )
+
+    # ── (c) 罐頭結尾起手式：最後 3 段出現任一 → +2 (fixed) ──
+    if _detect_canned_ending_opener(body):
+        score += 2
+        reasons.append("罐頭結尾起手式")
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message="罐頭結尾起手式 (§AI痕跡 Tier4-c)：最後 3 段內出現「總的來說/綜上所述/總而言之/總結來說」",
+            editorial_ref="speak-human-tw #37/#30 + EDITORIAL.md",
+            fix_suggestion="拿掉起手式，讓收尾句直接說結論本身。",
+        )
+
+    # ── (d) 時代帽子開場：第一個 prose 段落以此開頭 → +2 (fixed) ──
+    if _detect_time_hat_opening(body):
+        score += 2
+        reasons.append("時代帽子開場")
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message="時代帽子開場 (§AI痕跡 Tier4-d)：第一段以「在當今/在這個...的時代/隨著...的(快速)發展」開頭",
+            editorial_ref="speak-human-tw #37/#30 + EDITORIAL.md",
+            fix_suggestion="從具體的人事時地物開始，不要先戴一頂時代帽子。",
+        )
+
+    # ── (e) 假推論密度：「這意味著」≥2 hits +1 ──
+    false_inference_n = text_for_patterns.count(_FALSE_INFERENCE_PHRASE)
+    if false_inference_n >= _FALSE_INFERENCE_MIN_HITS:
+        score += 1
+        reasons.append(f"假推論密度×{false_inference_n}")
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=f"假推論密度 (§AI痕跡 Tier4-e「這意味著」): 累計 {false_inference_n} 處",
+            editorial_ref="speak-human-tw #37/#30 + EDITORIAL.md",
+            fix_suggestion="檢查每一處「這意味著」後面的推論是否文章本身證據支撐，不是就直接寫因果，是就去掉這個轉折詞。",
+        )
+
+    # ── (f) 首先/其次/最後 三件套：同篇同時出現 → +1 ──
+    has_first = "首先" in text_for_patterns
+    has_second = "其次" in text_for_patterns
+    has_last = ("最後" in text_for_patterns) or ("再者" in text_for_patterns)
+    if has_first and has_second and has_last:
+        score += 1
+        reasons.append("首先其次三件套")
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message="首先/其次/最後 三件套 (§AI痕跡 Tier4-f)：同篇同時出現「首先」+「其次」+「最後/再者」",
+            editorial_ref="speak-human-tw #37/#30 + EDITORIAL.md",
+            fix_suggestion="改成敘事順序（時間/因果）串接，不用條列式接續詞堆疊。",
+        )
+
     # ── Final score summary as a single violation ──
     # The runner can gate on score via profile.fail_on = "score-budget".
     if score > 0:
         yield Violation(
             check=CHECK_NAME,
             severity=Severity.WARN,
-            message=f"prose-health score: {score} (≤ 3 = pass) — {'; '.join(reasons)}",
+            message=f"prose-health score: {score} (≤ {score_budget} = pass) — {'; '.join(reasons)}",
             editorial_ref=EDITORIAL_REF,
             fix_suggestion=str(score),  # used by score-budget gating
         )

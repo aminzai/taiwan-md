@@ -6,7 +6,7 @@ status: 'canonical'
 current_version: 'v2.3'
 last_updated: 2026-07-05
 last_session: '2026-07-05-120817-dna-audit'
-plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
+plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=memory-diary'
 sister_docs:
   - 'MEMORY-PIPELINE.md'
   - 'WEEKLY-REPORT-PIPELINE.md'
@@ -320,7 +320,10 @@ _核心感受：{中心 emotion 或 insight 一句話}_
 
 ```bash
 # 一個工具兩種維度（SSOT prose-health plugin 整合 manifesto-11 Tier 1-3 + quality-scan 12 dim）
-python3 scripts/tools/article-health.py docs/semiont/diary/{file}.md --check=prose-health
+python3 scripts/tools/article-health.py docs/semiont/diary/{file}.md --profile=memory-diary
+# 2026-07-16 起用 memory-diary profile（score budget 8）：memory/diary 必填的 checklist/handoff
+# 清單結構會觸發文章向維度（清單堆砌/稀薄段落/引用荒漠），文章版 budget 3 對這類文件名存實亡
+# （近期 memory 實測 7-12 分被默許）。§11 對位句型/破折號/晶晶體維度照抓。
 ```
 
 `prose-health` plugin（SSOT 整合 manifesto-11 + quality-scan，Phase 4 + Phase 9 完整 19 dim）：

@@ -88,6 +88,8 @@ fresh writer 寫正文
 
 原子重驗 / 順稿 / 視覺同步——不重寫規則，pointer 到 [REWRITE Step 3.6](../pipelines/REWRITE-PIPELINE.md)。
 
+> **結構席參考彈藥（2026-07-16 補）**：regex 抓不到、只能人判的 AI 腔一族——說教深度腔（「說到底／本質上」開頭的儀式句）、金句公式（「X 是 Y 的 Z」硬鑄格言）、假坦白鉤子（「說真的／老實說」報備式停頓）、戲劇性短句轟炸、刻意換詞循環、句長過勻。判準與正反例見 [speak-human-tw patterns #13/#17-20/#29](https://github.com/Raymondhou0917/speak-human-tw)（MIT，Raymond Hou）；per OBSERVER-QUEUE #15 決策精神，這些維持人判不造 plugin。特別警惕：#17-20 常是「去 AI 味時被誤加上去的假人味」。
+
 ---
 
 ## 報告模板（HARD schema）
