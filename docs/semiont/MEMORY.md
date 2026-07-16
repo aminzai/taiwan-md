@@ -354,3 +354,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-16 | 154753-compassionate-kirch | 時間台灣誕生：探索新增六語歷史時間軸頁（/timeline），八時代＋40 事件＋74 篇文章接進軸線；明鄭沙漠標成邀請；順手清六語 P0 標記 | content-visibility 微優化會整頁不繪製；沙漠公開標示＝繁殖入口 | [→](memory/2026-07-16-154753-compassionate-kirch.md) |
 | 2026-07-16 | 161654-newsroom | REWRITE v9 索引化（10 stage contract、行數守恆）＋共享編輯台公開上線（泳道看板/making-of/nav/本機控制）＋編輯室攻防輪與總編室；`2b1102407` | 拆檔對錯隨讀者拓撲翻轉；看板從檔案推導不建第二本帳 | [→](memory/2026-07-16-161654-newsroom.md) |
 | 2026-07-16 | 163500-newsroom-dogfood | v9 首次全程 dogfood 啟動：大罷免 EVOLVE 跑至 Stage 0 觀點 agent 派發（run 進行中，context 壓縮前收官）；四路研究 fan-out 已備 | contract 盲點只有真執行者踩得出（F1-F3）；政治題邊界要 prompt 槽位 | [→](memory/2026-07-16-163500-newsroom-dogfood.md) |
+| 2026-07-16 | 165239-taiwan-md-support-cta | 啟維斗內建議落地：文章簽名檔三選項＋全站七贊助入口＋UTM/GA4 漏斗＋support-funnel.py；readingTime 污染 12 檔 heal；merge main | ask 放在價值交付時刻；不加的清單也是策展 | [→](memory/2026-07-16-165239-taiwan-md-support-cta.md) |
