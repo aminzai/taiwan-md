@@ -20,10 +20,10 @@ lastVerified: '2026-06-05'
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/Howhow.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:e3c09bf20faac318'
-sourceBodyHash: 'sha256:636421c60d5f3730'
-translatedAt: '2026-06-16T16:54:51Z'
+sourceCommitSha: 'f5975a22'
+sourceContentHash: 'sha256:c742af5d03f4c9ab'
+sourceBodyHash: 'sha256:a358cb4047d78691'
+translatedAt: '2026-07-16T00:49:01+08:00'
 ---
 
 > **Aperçu en 30 secondes :** Chen Tzu-hao (Howhow) a fait l’une des choses les plus contre-intuitives de l’histoire de YouTube à Taïwan. Tandis que les autres s’ingéniaient à dissimuler les placements de produit, lui a affiché en grands caractères : « Passons directement au placement de produit ! », transformant ce que les créateurs trouvent le plus embarrassant en marque de fabrique. Seul, comme scénariste, réalisateur, acteur et monteur, il a porté la chaîne HowFun jusqu’à 1,54 million d’abonnés et 760 millions de vues. Mais cette histoire recèle trois contradictions auxquelles vous n’avez peut-être pas pensé : son « placement de produit honnête », salué par le public, correspond précisément au mécanisme trompeur que la recherche décrit comme une publicité qui ne ressemble pas à une publicité ; son « équipe d’une seule personne » est une étiquette collée par les autres, alors que lui-même déteste la solitude et a toujours voulu une équipe ; et les vidéos longues à coût élevé auxquelles il tient se situent justement sur la voie la plus durement compressée par les vidéos courtes. Cet article raconte comment un créateur tient son propre rythme, au moment même où cette persévérance devient de plus en plus chère.
@@ -126,7 +126,7 @@ Revenons à cet après-midi new-yorkais de 2015. Un jeune homme comptant moins d
 - [Tsai A-ga : de pionnier des influenceurs à vocation de travailleur social, l’homme qui a renversé son destin avec 18 ans d’audience](/people/蔡阿嘎) — Premier YouTubeur taïwanais à atteindre le million d’abonnés, en 2014, quatre ans avant Howhow ; il marque le point de départ de cette chronologie de professionnalisation.
 - [A-Shen](/people/阿神) — Créateur spécialisé dans le jeu vidéo ayant franchi le million d’abonnés en même temps que Saint (2017), selon une stratégie de survie tout à fait différente de celle de Howhow.
 - [Tseng Po-en : calculer les rires, sans pouvoir calculer la société](/people/曾博恩) — Lui aussi devenu célèbre grâce à une « comédie au rythme calculé », mais en poussant les blagues vers des enjeux sociaux plus sensibles que les placements de produit.
-- [Zun : de « cochon aux cheveux jaunes » au million sur deux chaînes, le poids solitaire d’une figure “pure” de 27 ans](/people/尊) — Un autre créateur millionnaire entouré par l’étiquette de la « solitude », utile pour comparer leurs manières différentes de faire face au fait d’« être seul ».
+- [Zun : de la chambre d’un collégien au million sur deux chaînes, le journal d’un YouTubeur devenu adulte](/people/尊) — Venu lui aussi des débuts de YouTube à Taïwan, il documente publiquement son parcours, des tournages d’adolescent au poids du million, jusqu’au quotidien de l’âge adulte.
 - [L’industrie et la culture des YouTubeurs taïwanais : de Tsai A-ga à Chi Hsuan, l’histoire de l’évolution numérique d’une île](/culture/台灣YouTuber產業與文化) — Le paysage industriel dans lequel se situe Howhow, pour comprendre comment cette génération de créateurs a porté la mémoire numérique d’une époque.
 - [L’économie des créateurs indépendants à Taïwan : le champ de bataille fragmenté de 23 millions de personnes](/economy/台灣自媒體創作者經濟) — Pour comprendre, à partir de la structure industrielle, le calcul publicitaire qui se cache derrière l’idée que « le placement de produit est une nécessité de survie ».
 

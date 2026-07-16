@@ -20,10 +20,10 @@ lastVerified: 2026-06-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/Howhow.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:e3c09bf20faac318'
-sourceBodyHash: 'sha256:636421c60d5f3730'
-translatedAt: '2026-06-16T16:59:03Z'
+sourceCommitSha: 'f5975a22'
+sourceContentHash: 'sha256:c742af5d03f4c9ab'
+sourceBodyHash: 'sha256:a358cb4047d78691'
+translatedAt: '2026-07-16T00:48:13+08:00'
 ---
 
 > **30-second Overview:** Chen Tzu-hao (Howhow) did one of the most counterintuitive things in Taiwan YouTube history. While everyone else tried every way possible to hide sponsored content, he put up a giant subtitle reading “straight into the sponsored-content topic!” and turned the thing creators found most awkward into his signature. By writing scripts, directing, acting, and editing alone, he sustained the HowFun channel, with 1.54 million subscribers and 760 million views. But there are three layers of contradiction here that you may not have expected: the “honest sponsored content” for which he is praised is precisely the deceptive mechanism academics describe as “advertising that does not look like advertising”; his “one-person team” is a label imposed by others, while he himself dislikes loneliness and has always wanted a team; and the high-cost long-form videos he insists on making sit exactly in the lane most fiercely pressured by short-form video. This article is about how a creator preserves his own rhythm, and how that insistence is becoming expensive.
@@ -126,7 +126,7 @@ Return to that afternoon in New York in 2015. A young man with fewer than 100,00
 - [Tsai A-ga: From the Original Influencer to Social-Work Vocation, the Man Who Used 18 Years of Traffic to Reverse His Fate](/people/蔡阿嘎) — Taiwan’s first million-subscriber YouTuber, reaching the mark in 2014, four years before Howhow, and the starting point of this professionalization timeline.
 - [A-SEN](/people/阿神) — A gaming creator who crossed the million-subscriber threshold in the same period as Saint, 2017, and followed a survival strategy entirely different from Howhow’s.
 - [Brian Tseng: Calculating the Laughs, Miscalculating Society](/people/曾博恩) — Also made famous through “comedy with calculated rhythm,” but pushed jokes into social issues more sensitive than sponsored content.
-- [Zun: From “Yellow-Haired Pig” to Two Million-Subscriber Channels, the Lonely Weight of a 27-Year-Old Clean Stream](/people/尊) — Another million-subscriber creator surrounded by the label of “loneliness,” useful for comparing how the two face the condition of “being alone.”
+- [Zun: From His Eighth-Grade Bedroom to Two Million-Subscriber Channels, a YouTuber's Record of Growing Up](/people/尊) — Also coming up from Taiwan's early YouTube era, he publicly documented his path through teenage filming, the weight of a million subscribers, and the routines of adult life.
 - [Taiwan’s YouTuber Industry and Culture: From Tsai A-ga to Chi Hsuan, the Digital-Culture Evolution of an Island](/culture/台灣YouTuber產業與文化) — The full industry landscape in which Howhow stands, showing how this generation of creators sustained a generation of internet memory.
 - [Taiwan’s Self-Media Creator Economy: A Fragmented Battlefield of 23 Million People](/economy/台灣自媒體創作者經濟) — Understand the advertising-revenue arithmetic behind “sponsored content is a survival necessity” through industrial structure.
 
