@@ -1,11 +1,12 @@
 ---
-title: "Prehistoric Era and Indigenous Peoples: From Changbin 20,000–30,000 Years Ago to the Austronesian Dispersal Origin"
-description: "Earliest human activity in Taiwan: Changbin Culture approximately 20,000–30,000 years ago (Paleolithic era, Baxian Cave site). 16 officially recognized indigenous peoples. One possible origin of the Austronesian language family (9 of 10 major Austronesian branches found in Taiwan). 2024 latest research: dispersal from Taiwan accounts for approximately 20%, with an additional dispersal route from Indonesia (P0⚠️). 17th-century Kingdom of Middag as a cross-tribal alliance; Shihsanhang Culture in the Iron Age."
+title: 'Prehistoric Era and Indigenous Peoples: From Changbin 20,000–30,000 Years Ago to the Austronesian Dispersal Origin'
+description: 'Earliest human activity in Taiwan: Changbin Culture approximately 20,000–30,000 years ago (Paleolithic era, Baxian Cave site). 16 officially recognized indigenous peoples. One possible origin of the Austronesian language family (9 of 10 major Austronesian branches found in Taiwan). 2024 latest research: dispersal from Taiwan accounts for approximately 20%, with an additional dispersal route from Indonesia, pending academic consensus. 17th-century Kingdom of Middag as a cross-tribal alliance; Shihsanhang Culture in the Iron Age.'
 date: 2026-03-17
-author: "Taiwan.md"
-category: "History"
-subcategory: "史前與原住民"
-tags: ['史前與原住民', '長濱文化', '南島語族', '原住民族', '舊石器時代', '大肚王國']
+author: 'Taiwan.md'
+category: 'History'
+subcategory: '史前與原住民'
+tags:
+  ['史前與原住民', '長濱文化', '南島語族', '原住民族', '舊石器時代', '大肚王國']
 readingTime: 7
 # design_rationale:
 #   why_this_hook: "長濱文化2-3萬年（P0確認）是具體的起點；南島語族10支佔9支是台灣作為擴散中心的最強證據。"
@@ -14,16 +15,16 @@ readingTime: 7
 lastVerified: 2026-05-07
 lastHumanReview: true
 featured: true
-translatedFrom: "History/史前時代與原住民.md"
-sourceCommitSha: "0f8fae0ae"
-sourceContentHash: "sha256:4a4d8e8b71bb4388"
-sourceBodyHash: "sha256:518e01925b760cf5"
-translatedAt: "2026-05-20T05:08:27+08:00"
+translatedFrom: 'History/史前時代與原住民.md'
+sourceCommitSha: '0f8fae0ae'
+sourceContentHash: 'sha256:4a4d8e8b71bb4388'
+sourceBodyHash: 'sha256:518e01925b760cf5'
+translatedAt: '2026-05-20T05:08:27+08:00'
 ---
 
 # Prehistoric Era and Indigenous Peoples: From Changbin 20,000–30,000 Years Ago to the Austronesian Dispersal Origin
 
-> **30-second overview:** The earliest confirmed human activity in Taiwan is the Changbin Culture, dating to approximately 20,000–30,000 years ago (Paleolithic era, best represented by the Baxian Cave site in Taitung).[^1] There are 16 officially recognized indigenous peoples, with a total population of approximately 620,000.[^2] Taiwan is regarded by most linguistic research as one possible origin of the Austronesian language family: of the 10 major branches of the Austronesian family, 9 are found in Taiwan—a density far higher than across the Pacific islands.[^3] A 2024 *National Geographic* report on the latest genetic research indicates that around 8,000 years ago there was also a dispersal route originating from Indonesia, with dispersal from Taiwan accounting for roughly 20%, challenging the claim that Taiwan is the sole point of origin (P0⚠️ pending academic consensus).[^4] Before the 17th century, cross-tribal political organizations such as the Kingdom of Middag already existed.[^5]
+> **30-second overview:** The earliest confirmed human activity in Taiwan is the Changbin Culture, dating to approximately 20,000–30,000 years ago (Paleolithic era, best represented by the Baxian Cave site in Taitung).[^1] There are 16 officially recognized indigenous peoples, with a total population of approximately 620,000.[^2] Taiwan is regarded by most linguistic research as one possible origin of the Austronesian language family: of the 10 major branches of the Austronesian family, 9 are found in Taiwan—a density far higher than across the Pacific islands.[^3] A 2024 _National Geographic_ report on the latest genetic research indicates that around 8,000 years ago there was also a dispersal route originating from Indonesia, with dispersal from Taiwan accounting for roughly 20%, challenging the claim that Taiwan is the sole point of origin (pending academic consensus).[^4] Before the 17th century, cross-tribal political organizations such as the Kingdom of Middag already existed.[^5]
 
 ## Changbin Culture: Earliest Human Activity in Taiwan
 
@@ -31,7 +32,7 @@ The earliest confirmed human activity in Taiwan is the Changbin Culture, dating 
 
 The chipped stone tools of the Changbin Culture indicate that humans at that time lived by hunting and gathering, with no signs of agricultural settlement. The cave site at Baxian Cave in Taitung is located along the coast, and shell middens (accumulated shell deposits) reflect a lifestyle centered on coastal resources. This 20,000–30,000-year-old starting point is the earliest material cultural record currently confirmed in Taiwan's human history.
 
-(Note: Some articles cite "approximately 50,000 years ago," which results from conflating sites from different periods. P0 confirms the Changbin Culture dates to 20,000–30,000 years ago; the earlier "Penghu 1" fossil has a separate chronological estimate and belongs to a different archaeological context.)
+(Note: Some articles cite "approximately 50,000 years ago," which results from conflating sites from different periods. Verified sources confirm the Changbin Culture dates to 20,000–30,000 years ago; the earlier "Penghu 1" fossil has a separate chronological estimate and belongs to a different archaeological context.)
 
 ## Evolution of Prehistoric Cultures
 
@@ -53,7 +54,7 @@ The "official recognition" of the 16 peoples is an ongoing administrative proces
 
 Linguistic classification shows that the languages of Taiwan's indigenous peoples preserve the most archaic features within the Austronesian language family. Of the 10 major branches of the Austronesian family, 9 are found in Taiwan, while all Pacific islands share the remaining 1 branch. This density of linguistic diversity supports the hypothesis that "Taiwan is the dispersal origin of the Austronesian language family."[^3] The implication of this ratio is: if the Austronesian family dispersed from a single location, that location should retain the most language branches, and Taiwan's 9 branches compared to the Pacific's 1 is one of the strongest linguistic indicators of an origin point.
 
-**2024 latest research challenge:** *National Geographic* reported a genetic study indicating that around 8,000 years ago there was another dispersal route originating from Indonesia, with dispersal from Taiwan accounting for approximately 20% of overall Austronesian expansion; this challenges the claim that Taiwan is the **sole** point of origin.[^4] (This is the latest research; academic consensus is still forming.)
+**2024 latest research challenge:** _National Geographic_ reported a genetic study indicating that around 8,000 years ago there was another dispersal route originating from Indonesia, with dispersal from Taiwan accounting for approximately 20% of overall Austronesian expansion; this challenges the claim that Taiwan is the **sole** point of origin.[^4] (This is the latest research; academic consensus is still forming.)
 
 The implication of this latest research is not to overturn Taiwan's importance in Austronesian origins, but to point toward a more complex multi-origin model: the dispersal of the Austronesian language family may have involved multiple origin centers operating simultaneously. Taiwan is the origin point with the greatest linguistic diversity, but not the only point of departure. The debate across the three disciplines of archaeology, genetics, and linguistics is ongoing, and there is currently no single definitive answer.
 
