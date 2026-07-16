@@ -56,11 +56,17 @@ DEFAULT_CJK_PER_MEDIA = 1200
 _RE_INLINE_IMAGE = re.compile(r"!\[([^\]]*)\]\(([^)\n]+)\)")
 # 2026-06-04: count 影片 iframe toward the media threshold (哲宇「圖+影片」directive).
 _RE_IFRAME = re.compile(r"<iframe[\s>]", re.IGNORECASE)
+# 2026-07-16: count tw-* 視覺化模組 toward the media threshold — EDITORIAL v6.5 band 定義
+# 「圖+影片+視覺模組 ≈ 1 媒體 / 500–800 字（含 hero 與 tw-* 模組）」；paragraph_rhythm 的
+# density 已這樣數，本 gate 漏了 → 大罷免 dogfood F7 儀器漂移 (REFLEXES #56)。
+_RE_VIZ_MODULE = re.compile(r"^```tw-[a-z]+", re.MULTILINE)
 _RE_IMAGE_SOURCES_H2 = re.compile(r"^##\s*圖片來源", re.MULTILINE)
 _RE_CJK = re.compile(r"[一-鿿㐀-䶿]")
 # length-scaling 用 prose-CJK (strip 參考資料 footnote 段) — footnotes 可 inflate CJK ~25%
 # → 過度要求媒體。對齊 paragraph_rhythm density 的 prose 基準 (校準保留 設研院/天下/黃魚鴞)。
-_RE_REF_SECTION = re.compile(r"^##\s*參考資料", re.MULTILINE)
+# 2026-07-16 F7b：文章可能沒有「## 參考資料」標題、直接以裸 [^n]: 定義區收尾（大罷免案例，
+# footnote 灌 CJK 讓下限 5→7），補「第一個 footnote 定義行」與「## 圖片來源」當截斷錨。
+_RE_REF_SECTION = re.compile(r"^##\s*參考資料|^##\s*圖片來源|^\[\^\d+\]:", re.MULTILINE)
 # caption 渲染檢查：HTML block (</div> / </iframe>) 緊接 markdown italic caption (_..._) 無空行
 # → remark/markdown 不會 render italic (底線變字面字元)。2026-06-07 哲宇 directive (live review
 # 複雜生活節 3 支影片 caption 都缺空行)。working pattern (陳建年)：</div> 跟 _caption_ 之間有空行。
@@ -245,7 +251,10 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         # 不再只算圖。但保留 ≥1 靜態圖 floor (OG card / spore poster 需要靜態圖，影片無法 derive)。
         # 修補：video-rich 範本 黃魚鴞 (1 圖+2 官方影片=3 媒體) 原本被 image-only 門檻 hard-fail。
         iframe_count = len(_RE_IFRAME.findall(body))
-        media_total = total_images + iframe_count
+        # 2026-07-16 F7a：tw-* 視覺化模組計入媒體總量（per EDITORIAL v6.5 band「含 tw-* 模組」；
+        # 與 paragraph_rhythm density 同一把尺）。靜態圖 ≥1 floor 不變。
+        viz_count = len(_RE_VIZ_MODULE.findall(body))
+        media_total = total_images + iframe_count + viz_count
         if media_total >= min_images and total_images == 0:
             # 媒體夠但 0 靜態圖 — OG card / poster 缺素材 (影片 thumbnail 不可靠)
             yield Violation(
@@ -279,9 +288,9 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                     Severity(DEFAULT_MIN_IMAGES_SEVERITY),
                 )
                 msg_detail = (
-                    f"媒體不足：圖 {total_images} + 影片 {iframe_count} = {media_total} "
-                    f"< {min_images} 下限 (depth article 理想 hero + 1-2 scene-mid / "
-                    f"官方影片，per REWRITE-PIPELINE Step 4.3.1 三段敘事節奏)"
+                    f"媒體不足：圖 {total_images} + 影片 {iframe_count} + viz {viz_count} "
+                    f"= {media_total} < {min_images} 下限 (depth article 理想 hero + "
+                    f"scene-mid / 官方影片 / tw-* 模組，per EDITORIAL v6.5 band)"
                 )
             yield Violation(
                 check=CHECK_NAME,
