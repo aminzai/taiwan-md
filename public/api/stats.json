@@ -1,32 +1,32 @@
 {
-  "totalArticles": 5103,
+  "totalArticles": 5097,
   "totalCategories": 20,
   "estimatedContributors": 66,
-  "totalTags": 6079,
+  "totalTags": 6078,
   "categories": [
     {
       "name": "es",
-      "count": 846
+      "count": 845
     },
     {
       "name": "ko",
-      "count": 847
+      "count": 846
     },
     {
       "name": "fr",
-      "count": 847
+      "count": 846
     },
     {
       "name": "en",
-      "count": 860
+      "count": 859
     },
     {
       "name": "ja",
-      "count": 847
+      "count": 846
     },
     {
       "name": "History",
-      "count": 50
+      "count": 49
     },
     {
       "name": "Politics",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5103,
+    "zh-TW": 5097,
     "en": 0
   },
-  "lastUpdated": "2026-07-16T09:22:37.356Z",
+  "lastUpdated": "2026-07-16T22:11:09.507Z",
   "stars": 1108,
   "forks": 166,
-  "zhPages": 854,
-  "enPages": 860,
-  "totalPages": 854
+  "zhPages": 853,
+  "enPages": 859,
+  "totalPages": 853
 }

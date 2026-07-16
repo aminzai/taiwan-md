@@ -1546,24 +1546,6 @@
   },
   {
     "title": "大罷免",
-    "description": "2025 年，台灣公民社會發動史上規模最大的罷免行動，針對推動爭議性法案的國民黨立委，試圖修正立法院權力失衡。最終三波投票全數否決，成為台灣直接民主的一次大型實踐與檢驗。",
-    "category": "History",
-    "tags": [
-      "罷免",
-      "國民黨",
-      "公民行動",
-      "立法院",
-      "兩岸關係",
-      "2025"
-    ],
-    "url": "https://taiwan.md/history/%E5%A4%A7%E7%BD%B7%E5%85%8D",
-    "readingTime": 12,
-    "featured": true,
-    "date": "2026-04-13",
-    "path": "History/大罷免.md"
-  },
-  {
-    "title": "大罷免",
     "description": "2025年、台湾の市民社会は史上最大規模の罷免行動を発動し、争議性の高い法案を推進した国民党の立法院（議会）議員を対象に、立法院の権力是正を試みた。最終的に3回の投票すべてが否決され、台湾の直接民主主義における大規模な実践と検証となった。",
     "category": "ja",
     "tags": [
@@ -1579,6 +1561,17 @@
     "featured": true,
     "date": "2026-04-13",
     "path": "ja/History/great-recall-movement-2024.md"
+  },
+  {
+    "title": "大罷免：三十三案全數未過的史上最大罷免潮，量出台灣民主的每一道刻度",
+    "description": "2025 年 7 月 26 日深夜，全台三分之一選區同時開票，25 案罷免全數未過。從青鳥行動到宣稱逾 130 萬人次的連署、三波投票 33 案掛零，這場台灣史上規模最大的罷免潮沒有罷掉任何一個人，卻把民主的動員能量、門檻的高度與極化的代價，第一次同時量了出來。",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/history/%E5%A4%A7%E7%BD%B7%E5%85%8D",
+    "readingTime": 53,
+    "featured": true,
+    "date": "2026-04-13",
+    "path": "History/大罷免.md"
   },
   {
     "title": "大龍峒：保安宮的香、孔廟的鐘、圓山的青天白日，三個時代的台北信仰",
@@ -5735,17 +5728,6 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "ja/Society/where-did-taiwan-moral-education-go.md"
-  },
-  {
-    "title": "台湾の鉄道史",
-    "description": "日本人が「肺病鉄道」と呼んだ鉄道が、いかにして時速300キロで1日2100万人の乗客を輸送する動脈に発展したか",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/history/taiwan-railway-history-en-orphan",
-    "readingTime": 22,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "ja/History/taiwan-railway-history-en-orphan.md"
   },
   {
     "title": "台湾の電力と半導体：護国神山の電力請求書",
@@ -10678,7 +10660,7 @@
       "野百合學運"
     ],
     "url": "https://taiwan.md/history/%E6%B0%91%E4%B8%BB%E5%8C%96",
-    "readingTime": 19,
+    "readingTime": 20,
     "featured": true,
     "date": "2026-03-27",
     "path": "History/民主化.md"
@@ -33471,17 +33453,6 @@
     "path": "fr/Technology/taiwan-television-industry-history.md"
   },
   {
-    "title": "Histoire des chemins de fer à Taïwan",
-    "description": "Comment un chemin de fer que les Japonais qualifiaient de « chemin de fer phtisique » est devenu une artère à 300 km/h transportant 21 millions de passagers par jour",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/history/taiwan-railway-history-en-orphan",
-    "readingTime": 58,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "fr/History/taiwan-railway-history-en-orphan.md"
-  },
-  {
     "title": "Histoire des peuples autochtones de Taïwan et le mouvement pour la reconnaissance des noms",
     "description": "En 1987, un jeune Tsou de dix-neuf ans est exécuté dans une prison de Taipei. Sa mort allume la première flamme du mouvement pour la reconnaissance des noms.",
     "category": "fr",
@@ -33676,17 +33647,6 @@
     "path": "es/Music/taiwan-rock-from-underground-to-mainstream.md"
   },
   {
-    "title": "Historia del ferrocarril en Taiwán",
-    "description": "Cómo un ferrocarril que los japoneses llamaron 'ferrocarril tuberculoso' se convirtió en una arteria de 300 km/h que transporta 21 millones de pasajeros al día",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/history/taiwan-railway-history-en-orphan",
-    "readingTime": 56,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "es/History/taiwan-railway-history-en-orphan.md"
-  },
-  {
     "title": "Historia del movimiento ambiental en Taiwán",
     "description": "El movimiento ambiental de Taiwán, desde las protestas contra la contaminación en la década de 1980 hasta los recientes movimientos contra el plástico, muestra el despertar de la conciencia ambiental en la sociedad taiwanesa y su entrelazado con el proceso de democratización",
     "category": "es",
@@ -33751,28 +33711,6 @@
     "featured": false,
     "date": "2026-05-27",
     "path": "fr/Politics/voting-rights-threshold-history.md"
-  },
-  {
-    "title": "History of Railways in Taiwan",
-    "description": "How a railway the Japanese called a 'consumptive railroad' became a 300 km/h artery carrying 21 million passengers a day",
-    "category": "History",
-    "tags": [],
-    "url": "https://taiwan.md/history/%E5%8F%B0%E7%81%A3%E9%90%B5%E9%81%93%E5%8F%B2.en",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "History/台灣鐵道史.en.md"
-  },
-  {
-    "title": "History of Railways in Taiwan",
-    "description": "How a railway the Japanese called a 'consumptive railroad' became a 300 km/h artery carrying 21 million passengers a day",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/history/taiwan-railway-history-en-orphan",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "en/History/taiwan-railway-history-en-orphan.md"
   },
   {
     "title": "History of Taiwan's MRT Development: An Urban Evolution Written in Blood and Money",
@@ -59745,17 +59683,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/Nature/taiwan-pangolin.md"
-  },
-  {
-    "title": "대만 철도사",
-    "description": "일본인이 '폐병 철도'라 불렀던 철도가 하루 2,100만 명의 승객을 나르는 시속 300km의 동맥이 되기까지",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/history/taiwan-railway-history-en-orphan",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "ko/History/taiwan-railway-history-en-orphan.md"
   },
   {
     "title": "대만 철도사: 폐병철도, 검은 머리 기관차, 그리고 외국 이름을 잃어버린 계보",

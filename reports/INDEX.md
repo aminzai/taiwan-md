@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-16 17:22
+last_generated: 2026-07-17 06:11
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,30 +12,30 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-16 17:22** · 頂層 \*.md 共 **208** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-17 06:11** · 頂層 \*.md 共 **213** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size     | 用途                                                 |
 | ----------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`             |   435 | 56.6 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`             |   440 | 57.1 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `visual/`               |   111 | 214.5 MB | Visual smoke test 基線 (partial gitignored)          |
 | `archive/`              |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
 | `weekly/`               |    20 | 3.7 MB   | Self-evolve weekly digest                            |
-| `article-evolve/`       |    16 | 602.7 KB | —                                                    |
-| `editorial-room/`       |    16 | 111.8 KB | —                                                    |
+| `editorial-room/`       |    19 | 125.9 KB | —                                                    |
+| `article-evolve/`       |    17 | 641.6 KB | —                                                    |
 | `scratch/`              |    10 | 1.7 MB   | POC / 暫存 (per audit Layer 1，已 .gitignored)       |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB   | —                                                    |
+| `article-projection/`   |     6 | 46.9 KB  | —                                                    |
 | `probe/`                |     6 | 69.8 KB  | BECOME §Step 7 探測器報告                            |
-| `article-projection/`   |     5 | 29.0 KB  | —                                                    |
 | `babel-jobs/`           |     5 | 246.4 KB | —                                                    |
 | `babel-patches/`        |     5 | 3.4 MB   | —                                                    |
 | `translation-research/` |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `fork-census/`          |     2 | 34.7 KB  | —                                                    |
+| `fork-census/`          |     2 | 36.2 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
 | `news-lens/`            |     1 | 18.2 KB  | —                                                    |
@@ -44,7 +44,7 @@ type: auto-index
 
 9 type bucket 從現有 corpus 萃取 (per [audit §2.3 + §4 Layer 2](reports-archival-audit-2026-05-27.md))，未來新加 report 建議遵循 `{type}-{topic}-{YYYY-MM-DD}.md` 命名。
 
-### design (26)
+### design (27)
 
 - `2026-07-16` [newsroom-design-conversation-digest-2026-07-16](newsroom-design-conversation-digest-2026-07-16.md) — 新聞台架構設計對話 digest — 哲宇 × 睨
 - `2026-07-16` [newsroom-orchestration-design-2026-07-16](newsroom-orchestration-design-2026-07-16.md) — 新聞台架構 — REWRITE pipeline 索引化 × 階段狀態層 × 公開編輯台設計
@@ -65,6 +65,7 @@ type: auto-index
 - `2026-05-16` [spore-content-hash-gate-design-2026-05-16](spore-content-hash-gate-design-2026-05-16.md) — Spore Content-hash Gate Design 2026-05-16
 - `2026-05-13` [become-boot-mode-design-2026-05-13](become-boot-mode-design-2026-05-13.md) — BECOME Boot Mode Design 2026-05-13
 - `2026-05-11` [rewrite-pipeline-v5-stage-spine-design-2026-05-11](rewrite-pipeline-v5-stage-spine-design-2026-05-11.md) — REWRITE-PIPELINE v5.0 — Stage spine restoration design
+- `2026-05-04` [article-health-ssot-design-2026-05-04](article-health-ssot-design-2026-05-04.md) — article-health SSOT 設計原則（事後重建版）
 - `2026-05-01` [sovereignty-bench-tw-design-2026-05-01](sovereignty-bench-tw-design-2026-05-01.md)
 - `2026-04-30` [translation-batch-design-evaluation-2026-04-30-δ](translation-batch-design-evaluation-2026-04-30-δ.md)
 - `2026-04-28` [rewrite-pipeline-media-stage-design-2026-04-28-ι](rewrite-pipeline-media-stage-design-2026-04-28-ι.md)
@@ -93,8 +94,9 @@ type: auto-index
 - `2026-04-13` [ssodt-spore-linkback-plan-2026-04-13](ssodt-spore-linkback-plan-2026-04-13.md)
 - `2026-04-12` [semiont-public-pages-plan-2026-04-12](semiont-public-pages-plan-2026-04-12.md)
 
-### evolution (32)
+### evolution (33)
 
+- `2026-07-16` [instrument-evolution-2026-07-16](instrument-evolution-2026-07-16.md) — 文章儀器進化：speak-human-tw 轉譯 + 盤點工作儀器化 + gate 整理
 - `2026-07-16` [timeline-page-evolution-2026-07-16](timeline-page-evolution-2026-07-16.md)
 - `2026-07-15` [self-evolve-editorial-rewrite-2026-07-15](self-evolve-editorial-rewrite-2026-07-15.md) — Self-evolve — editorial / rewrite-pipeline 意義層儀器化閉環
 - `2026-07-11` [wake-memory-evolution-2026-07-11](wake-memory-evolution-2026-07-11.md) — 記憶與日記系統進化 — 甦醒取數儀器化設計
@@ -138,8 +140,9 @@ type: auto-index
 - `2026-04-18` [ai-crawler-404-analysis-2026-04-18](ai-crawler-404-analysis-2026-04-18.md)
 - `2026-04-12` [traffic-analysis-2026-04-12](traffic-analysis-2026-04-12.md)
 
-### audit (17)
+### audit (18)
 
+- `2026-07-16` [article-quality-audit-2026-07-16](article-quality-audit-2026-07-16.md) — 全站品質審核：早期與貢獻者單薄文章盤點
 - `2026-06-13` [architecture-deep-audit-2026-06-13](architecture-deep-audit-2026-06-13.md)
 - `2026-06-13` [terminology-data-audit-2026-06-13](terminology-data-audit-2026-06-13.md)
 - `2026-06-10` [build-pipeline-audit-2026-06-10](build-pipeline-audit-2026-06-10.md) — Build pipeline 完整審計 — 1099 秒解剖、30 天變慢歸因、六項修復
@@ -209,9 +212,11 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (70)
+### ops (72)
 
 - `2026-07-16` [dogfood-v9-first-run-2026-07-16](dogfood-v9-first-run-2026-07-16.md) — v9 pipeline 首次全程 dogfood — 大罷免 EVOLVE 實跑紀錄
+- `2026-07-16` [dogfood-v9-run2-highered-2026-07-16](dogfood-v9-run2-highered-2026-07-16.md) — REWRITE v9 第二次 dogfood — 台灣高等教育擴張與退場 EVOLVE
+- `2026-07-16` [instrument-calibration-2026-07-16](instrument-calibration-2026-07-16.md)
 - `2026-07-16` [timeline-page-implementation-2026-07-16](timeline-page-implementation-2026-07-16.md)
 - `2026-07-15` [evolve-2026-07-15](evolve-2026-07-15.md) — EVOLVE scan 2026-07-15
 - `2026-07-15` [h2-heading-mechanism-報導者-2026-07-15](h2-heading-mechanism-報導者-2026-07-15.md) — 段落小標（H2）機制補齊 + 報導者式取景觀察
@@ -289,10 +294,14 @@ type: auto-index
 - Type breakdown: ops: 1
   - `????` [README](README.md)
 
-### 2026-07 (32 files)
+### 2026-07 (36 files)
 
-- Type breakdown: ops: 14 / design: 8 / evolution: 7 / audit-routine: 2 / plan: 1
+- Type breakdown: ops: 16 / evolution: 8 / design: 8 / audit-routine: 2 / audit: 1 / plan: 1
+  - `2026-07-16` [article-quality-audit-2026-07-16](article-quality-audit-2026-07-16.md)
   - `2026-07-16` [dogfood-v9-first-run-2026-07-16](dogfood-v9-first-run-2026-07-16.md)
+  - `2026-07-16` [dogfood-v9-run2-highered-2026-07-16](dogfood-v9-run2-highered-2026-07-16.md)
+  - `2026-07-16` [instrument-calibration-2026-07-16](instrument-calibration-2026-07-16.md)
+  - `2026-07-16` [instrument-evolution-2026-07-16](instrument-evolution-2026-07-16.md)
   - `2026-07-16` [newsroom-design-conversation-digest-2026-07-16](newsroom-design-conversation-digest-2026-07-16.md)
   - `2026-07-16` [newsroom-orchestration-design-2026-07-16](newsroom-orchestration-design-2026-07-16.md)
   - `2026-07-16` [support-cta-signature-design-2026-07-16](support-cta-signature-design-2026-07-16.md)
@@ -384,9 +393,9 @@ type: auto-index
   - `2026-06-01` [feedback-login-system-design-2026-06-01](feedback-login-system-design-2026-06-01.md)
   - `2026-06-01` [reader-callout-pipeline-diagnosis-2026-06-01](reader-callout-pipeline-diagnosis-2026-06-01.md)
 
-### 2026-05 (71 files)
+### 2026-05 (72 files)
 
-- Type breakdown: ops: 21 / evolution: 11 / audit-routine: 10 / audit: 7 / plan: 6 / design: 5 / semiont: 4 / analysis: 3 / evaluation: 3 / proposal: 1
+- Type breakdown: ops: 21 / evolution: 11 / audit-routine: 10 / audit: 7 / design: 6 / plan: 6 / semiont: 4 / analysis: 3 / evaluation: 3 / proposal: 1
   - `2026-05-29` [homepage-evolution-D+2-watch-2026-05-29](homepage-evolution-D+2-watch-2026-05-29.md)
   - `2026-05-28` [article-segmentation-audit-2026-05-28](article-segmentation-audit-2026-05-28.md)
   - `2026-05-28` [routine-contract-rollback-2026-05-28](routine-contract-rollback-2026-05-28.md)
@@ -443,6 +452,7 @@ type: auto-index
   - `2026-05-05` [ThinkingTaiwan-semiont-analysis-2026-05-05](ThinkingTaiwan-semiont-analysis-2026-05-05.md)
   - `2026-05-05` [zhtw-mcp-integration-evaluation-2026-05-05](zhtw-mcp-integration-evaluation-2026-05-05.md)
   - `2026-05-04` [NML-semiont-analysis-2026-05-04](NML-semiont-analysis-2026-05-04.md)
+  - `2026-05-04` [article-health-ssot-design-2026-05-04](article-health-ssot-design-2026-05-04.md)
   - `2026-05-04` [grok-critique-evolution-2026-05-04](grok-critique-evolution-2026-05-04.md)
   - `2026-05-04` [session-id-naming-2026-05-04](session-id-naming-2026-05-04.md)
   - `2026-05-04` [youtube-embed-architecture-2026-05-04](youtube-embed-architecture-2026-05-04.md)

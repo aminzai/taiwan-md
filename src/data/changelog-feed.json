@@ -1,12 +1,196 @@
 {
-  "generatedAt": "2026-07-16T09:22:39.101Z",
+  "generatedAt": "2026-07-16T22:11:11.131Z",
   "source": "git",
   "commits": [
     {
-      "hash": "d4c6b3bae15d235fbbf9e312d7d8cc37301d00fa",
+      "hash": "9460cf123ff15b99be116ffde777db1e04c3b4e6",
+      "date": "2026-07-17T05:19:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-17-051754-twmd-embeddings-nightly — bge-m3 nightly 4941 向量 0 fail / PASS / f25bfde9c",
+      "articles": []
+    },
+    {
+      "hash": "f25bfde9c77dd904ab67ffbec11230e6066c4b42",
+      "date": "2026-07-17T05:17:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-17 05:17",
+      "articles": []
+    },
+    {
+      "hash": "973c8a6dc0ed16871d399999a99e4a5cc3b15783",
+      "date": "2026-07-16T22:10:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 收官前瞻 — 金城武排名第一卻只有 96 行，SC 三訊號批進 ARTICLE-INBOX",
+      "articles": []
+    },
+    {
+      "hash": "6262f8c938ea4a5f13f2d767c040090aed446e53",
+      "date": "2026-07-16T22:08:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 那個錯是我寫的，也是我審不出來的 — 外部尺親身經歷夜＋大罷免 relatedDiary 回扣",
+      "articles": [
+        {
+          "url": "/history/大罷免",
+          "name": "大罷免"
+        }
+      ]
+    },
+    {
+      "hash": "54fbc42bee75c27f7ba1f5bf43166f4e9dccf62f",
+      "date": "2026-07-16T22:06:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-16-171443-recall-workflow — 大罷免 v9 全程 ship＋Workflow 首測＋不對稱分工收官",
+      "articles": []
+    },
+    {
+      "hash": "8fde18f2fa63bd464a603662dfd5c723199281e1",
+      "date": "2026-07-16T22:03:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: inbox-audit 下半場收官 — 儀器進化與 gate 假閘門三例的紀錄",
+      "articles": []
+    },
+    {
+      "hash": "a136f489799b95fb04f54d40b0bd64f6c19afea2",
+      "date": "2026-07-16T22:01:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 文章儀器全面進化 — speak-human-tw 轉譯三儀器、score-budget 休眠閘門修通、盤點工作儀器化",
+      "articles": []
+    },
+    {
+      "hash": "be4d360d7c539748ffbee55f7cf31b707a919664",
+      "date": "2026-07-16T22:00:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [evolve] v9 首跑自我進化：不對稱分工讀食＋Workflow 實測條款＋run profiles 進 canonical",
+      "articles": []
+    },
+    {
+      "hash": "dbaf28954a97f6a0a5e400f0ffb93cc250e2a27d",
+      "date": "2026-07-16T21:50:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] cross-link: 為「大罷免」建立雙向延伸閱讀",
+      "articles": [
+        {
+          "url": "/history/台灣民主轉型",
+          "name": "台灣民主轉型"
+        },
+        {
+          "url": "/history/民主化",
+          "name": "民主化"
+        },
+        {
+          "url": "/society/台灣政治環境與選舉制度",
+          "name": "台灣政治環境與選舉制度"
+        },
+        {
+          "url": "/society/社會運動與公民參與",
+          "name": "社會運動與公民參與"
+        }
+      ]
+    },
+    {
+      "hash": "af82d096f8c94404712081b45d8a25dc1494493b",
+      "date": "2026-07-16T21:50:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: image-health 媒體下限對齊 EDITORIAL v6.5——tw-* 模組計入媒體總量",
+      "articles": []
+    },
+    {
+      "hash": "345e1620101f2eb4952ade85989c27177f53fd92",
+      "date": "2026-07-16T21:50:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 大罷免——從 1,600 字舊文重建為 6,300 字立體群像深度文",
+      "articles": [
+        {
+          "url": "/history/大罷免",
+          "name": "大罷免"
+        }
+      ]
+    },
+    {
+      "hash": "6cabdcea852cc6e0979d6303ca8cf34e91cb5cba",
+      "date": "2026-07-16T21:32:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 清掉台灣鐵道史英文孤兒檔家族 — 滯留 zh 樹的 .en.md 與它衍生的五語譯檔",
+      "articles": [
+        {
+          "url": "/history/台灣鐵道史.en",
+          "name": "台灣鐵道史.en"
+        }
+      ]
+    },
+    {
+      "hash": "8ef32a9c75746faf10477f94d46fcc765d4f2bc2",
+      "date": "2026-07-16T21:25:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-16-205022-inbox-audit — 雙 inbox 深度盤點與 69 篇品質重建 batch 收官",
+      "articles": []
+    },
+    {
+      "hash": "23dc6836114ce3ee484e50d841506dea3cabd4b9",
+      "date": "2026-07-16T21:23:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 全站品質審核 — 69 篇早期與貢獻者單薄文章完整排入深度重建 batch",
+      "articles": []
+    },
+    {
+      "hash": "06f94e25ea98a6556452c049f621b491e5f655b6",
+      "date": "2026-07-16T21:14:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] distill: SPORE-INBOX 深度盤點 — 清 4 條幽靈與重複、阿神與尊升 P0 趁熱、六月舊訊號批次降 P2",
+      "articles": []
+    },
+    {
+      "hash": "88b3abd885cab5466d1d4363a14085600bf9d63c",
+      "date": "2026-07-16T21:08:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] distill: ARTICLE-INBOX 第二輪深度盤點 — 清 7 條已完成、補登 3 篇漏記 DONE-LOG、全檔分區重排",
+      "articles": [
+        {
+          "url": "/lifestyle/吉祥物",
+          "name": "吉祥物"
+        }
+      ]
+    },
+    {
+      "hash": "e4ec635862d512ee9dfacb7e267e295bd8ea5752",
+      "date": "2026-07-16T19:57:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] release: v1.13.0 發版前資料刷新落地 — 14 步 ground truth 全綠",
+      "articles": []
+    },
+    {
+      "hash": "961d7b03d8c3f66010dab9d5ca98a6a438f7926c",
+      "date": "2026-07-16T19:57:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: v1.13.0 認知層同步 — CONSCIOUSNESS 里程碑 + structure-log 兩個公開器官 + release session memory",
+      "articles": []
+    },
+    {
+      "hash": "49e9b7456aed72632175cd14a6d20ff70369d277",
+      "date": "2026-07-16T19:57:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: about 時間軸六語新增 v1.13.0 里程碑 — Day 121 開著門寫作",
+      "articles": []
+    },
+    {
+      "hash": "65e7a5130904e5a0fdf0ce798196f4fea27a9471",
+      "date": "2026-07-16T17:30:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 編輯台紙張底鋪滿全寬 + art_date 統一 UTC+Z——本機/CI 休眠判定漂移病根",
+      "articles": []
+    },
+    {
+      "hash": "62b11c6bf19c15807d76a59eb744d906642479b2",
       "date": "2026-07-16T17:20:58+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] twmd-babel-nightly: 落地昨夜孤兒 Tier 0a 補丁 — Howhow 與 YouTuber 產業五語各一，session 收在寫檔後沒 commit",
+      "articles": []
+    },
+    {
+      "hash": "59955315a66e1268efa1360509ad8b48ad19d230",
+      "date": "2026-07-16T17:26:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 時間軸頁捲動被 chip 自動捲入綁架——scrollIntoView 換成只捲 chip bar 水平軸",
       "articles": []
     },
     {

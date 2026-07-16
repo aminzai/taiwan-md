@@ -1,47 +1,47 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-16T21:30:40+08:00",
-    "zhCommitHead": "8ef32a9c7",
+    "lastUpdated": "2026-07-17T06:11:07+08:00",
+    "zhCommitHead": "9460cf123",
     "totalZh": 855,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 855,
-        "fresh": 839,
-        "stale": 14,
-        "metadata_stale": 1,
+        "fresh": 834,
+        "stale": 18,
+        "metadata_stale": 2,
         "missing": 1,
         "orphan": 0
       },
       "ja": {
         "total_zh": 855,
-        "fresh": 830,
-        "stale": 15,
-        "metadata_stale": 1,
+        "fresh": 825,
+        "stale": 19,
+        "metadata_stale": 2,
         "missing": 9,
         "orphan": 0
       },
       "ko": {
         "total_zh": 855,
-        "fresh": 829,
-        "stale": 15,
-        "metadata_stale": 1,
+        "fresh": 824,
+        "stale": 19,
+        "metadata_stale": 2,
         "missing": 10,
         "orphan": 0
       },
       "es": {
         "total_zh": 855,
-        "fresh": 829,
-        "stale": 15,
-        "metadata_stale": 1,
+        "fresh": 824,
+        "stale": 19,
+        "metadata_stale": 2,
         "missing": 10,
         "orphan": 0
       },
       "fr": {
         "total_zh": 855,
-        "fresh": 828,
-        "stale": 16,
-        "metadata_stale": 1,
+        "fresh": 823,
+        "stale": 20,
+        "metadata_stale": 2,
         "missing": 10,
         "orphan": 0
       }
@@ -22373,9 +22373,9 @@
     },
     "Society/台灣政治環境與選舉制度.md": {
       "zh": {
-        "lastCommit": "18157ab5",
-        "lastModified": "2026-05-14T11:04:30+08:00",
-        "contentHash": "sha256:db13674bd2e78f06",
+        "lastCommit": "dbaf2895",
+        "lastModified": "2026-07-16T21:50:54+08:00",
+        "contentHash": "sha256:815fdbbdd8e6757e",
         "bodyHash": "sha256:c04d648a91c00bf4"
       },
       "translations": {
@@ -22390,8 +22390,10 @@
           "translationLastModified": "2026-06-04T16:38:54+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "ja": {
           "path": "ja/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -22404,8 +22406,10 @@
           "translationLastModified": "2026-05-24T22:40:37+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "ko": {
           "path": "ko/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -22418,8 +22422,10 @@
           "translationLastModified": "2026-05-17T07:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "es": {
           "path": "es/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -22432,8 +22438,10 @@
           "translationLastModified": "2026-05-17T06:34:49+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "fr": {
           "path": "fr/Society/political-environment.md",
@@ -22446,8 +22454,10 @@
           "translationLastModified": "2026-05-17T07:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         }
       }
     },
@@ -23733,10 +23743,10 @@
     },
     "Society/社會運動與公民參與.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:3135e379b382138b",
-        "bodyHash": "sha256:8080c3b51d96ed0a"
+        "lastCommit": "dbaf2895",
+        "lastModified": "2026-07-16T21:50:54+08:00",
+        "contentHash": "sha256:31022a8379acbf4e",
+        "bodyHash": "sha256:13d4a3545c8fc998"
       },
       "translations": {
         "en": {
@@ -23750,8 +23760,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "ja": {
           "path": "ja/Society/social-movements-and-civic-participation.md",
@@ -23764,8 +23776,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "ko": {
           "path": "ko/Society/social-movements-and-civic-participation.md",
@@ -23778,8 +23792,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "es": {
           "path": "es/Society/social-movements-and-civic-participation.md",
@@ -23792,8 +23808,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "fr": {
           "path": "fr/Society/social-movements-and-civic-participation.md",
@@ -23806,8 +23824,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         }
       }
     },
@@ -54982,10 +55002,10 @@
     },
     "History/民主化.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:5c4c48886e261a1e",
-        "bodyHash": "sha256:1ac64c77bbabb1d3"
+        "lastCommit": "dbaf2895",
+        "lastModified": "2026-07-16T21:50:54+08:00",
+        "contentHash": "sha256:0f572861e1f79f7d",
+        "bodyHash": "sha256:b51e57f04bd06fc2"
       },
       "translations": {
         "en": {
@@ -54999,8 +55019,10 @@
           "translationLastModified": "2026-06-01T11:21:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/History/democratization.md",
@@ -55013,8 +55035,10 @@
           "translationLastModified": "2026-06-01T11:21:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/History/taiwan-democratization-history.md",
@@ -55027,8 +55051,10 @@
           "translationLastModified": "2026-06-01T11:21:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/History/taiwan-democratization-history.md",
@@ -55041,8 +55067,10 @@
           "translationLastModified": "2026-06-01T11:21:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/History/taiwan-democratization-history.md",
@@ -55055,8 +55083,10 @@
           "translationLastModified": "2026-06-01T11:21:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -55142,10 +55172,10 @@
     },
     "History/台灣民主轉型.md": {
       "zh": {
-        "lastCommit": "dd39065b",
-        "lastModified": "2026-06-10T17:45:23+08:00",
-        "contentHash": "sha256:85252455c0ed43e6",
-        "bodyHash": "sha256:5c7fc1f11ad28097"
+        "lastCommit": "dbaf2895",
+        "lastModified": "2026-07-16T21:50:54+08:00",
+        "contentHash": "sha256:a9330a2eb23d9c97",
+        "bodyHash": "sha256:20dd14ee57321b53"
       },
       "translations": {
         "en": {
@@ -55159,8 +55189,10 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/History/taiwan-democratization.md",
@@ -55173,8 +55205,10 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/History/taiwan-democratization.md",
@@ -55187,8 +55221,10 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/History/taiwan-democratization.md",
@@ -55201,8 +55237,10 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/History/taiwan-democratization.md",
@@ -55215,8 +55253,10 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -55862,10 +55902,10 @@
     },
     "History/大罷免.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:6a3389f4e3aa59c9",
-        "bodyHash": "sha256:ac361a928edec55d"
+        "lastCommit": "6262f8c9",
+        "lastModified": "2026-07-16T22:08:10+08:00",
+        "contentHash": "sha256:0bdd57229f623a95",
+        "bodyHash": "sha256:9d022e52199911fd"
       },
       "translations": {
         "en": {
@@ -55879,8 +55919,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (53→16)"
         },
         "ja": {
           "path": "ja/History/great-recall-movement-2024.md",
@@ -55893,8 +55933,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (53→16)"
         },
         "ko": {
           "path": "ko/History/great-recall-movement-2024.md",
@@ -55907,8 +55947,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (53→16)"
         },
         "es": {
           "path": "es/History/great-recall-movement-2024.md",
@@ -55921,8 +55961,8 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (53→16)"
         },
         "fr": {
           "path": "fr/History/great-recall-movement-2024.md",
@@ -55935,8 +55975,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (53→16)"
         }
       }
     },
