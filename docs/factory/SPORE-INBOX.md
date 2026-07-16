@@ -4,9 +4,9 @@ description: '待發孢子 idea buffer — pending / scheduled 孢子點子，St
 type: 'factory-canonical'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v1.1'
-last_updated: 2026-07-05
-last_session: '2026-07-05-twmd-news-lens-weekly-W27'
+current_version: 'v1.3'
+last_updated: 2026-07-16
+last_session: '2026-07-16-205022-inbox-audit（深度盤點：移除 4 幽靈/重複、阿神+尊 升 P0 趁熱、6 月 news-lens 舊批降 P2、pending-media 標記、分區重排；frontmatter 版號同步 v1.2 backpressure 章節）'
 sister_docs:
   - 'SPORE-PIPELINE.md'
   - 'SPORE-PICK-PIPELINE.md'
@@ -236,74 +236,86 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 
 ## 📥 Pending（待發）
 
-### Computex EVOLVE 剛 ship — 三大電腦展死了兩個剩台北那個
+<!-- ═══ 2026-07-16 inbox-audit 深度盤點（哲宇 directive）═══ -->
+<!-- 移除 4 條：天燈（#113/#114 6/3 已 ship 的幽靈）/ 看不見的國家 spore-pick 版（dup）/ 洪醒夫 6/01 版（被 6/28 雙源版取代）/ 曾博恩 6/28 版（併入哲宇 5/21 entry）-->
+<!-- 升級 2（阿神、尊 — article 7/15 深度重寫趁熱 P0）；6/01〜6/21 news-lens 批次 20 條降 P2（訊號 3〜6 週未重驗）；媒體卡關 4 條標 pending-media -->
+<!-- 現況：pending 45 條仍 > 40 backpressure cap，spore-pick-daily 持續 skip 是正確行為；瓶頸在 SHIP rate 不在 intake。分區：P0 趁熱/READY → 待哲宇 → P1 → P2 → P3 -->
 
-- **Source-Mode**: `EXISTING-ARTICLE`（剛 EVOLVE ship `f42792f5b`）
-- **Article-Path**: [knowledge/Technology/Computex.md](../../knowledge/Technology/Computex.md)
-- **Priority**: `P1`（趁熱 + reader-validated content from PTT 鄉民 集體補出五條缺口）
-- **Status**: `pending`
-- **Requested**: 2026-06-30 by twmd-rewrite-daily routine 18h cycle（cycle-deferred SPORE chain — 留給次日 10:00 spore-publish-daily 拿）
-- **Hook anchor 候選**:
-  1. **反差 hook（Tier 1b 具體性）**：1981 年松山機場旁那場「中小企業出口商展」，賣的是給香港買主搬回去的電容、電阻、主機板。2026 年世貿一館的同一個展，180 家廠商在現場示範減速機、馬達、夾爪。45 年同條曲線，零組件的定義從電容換成了減速機。
-  2. **結構 hook**：COMDEX 死了，因為它辦在拉斯維加斯。CeBIT 死了，因為它辦在漢諾威。資訊月也凋零了，因為它面向台灣家庭的零售端。Computex 活下來，因為它辦在台北——這座島的供給端。展覽會跟著訂單走，訂單跟著製造走，製造留在了這座島上。
-  3. **2016 Your Moment of Zen**：PC 寒冬最深的那一年，蘇姿丰走上 Computex 主舞台掀出 8 核 Summit Ridge，講「from scratch」、講「40% IPC」。媒體當下不信。然後 Zen 真的兌現了，AMD 從 30 億漲到千億。那一場 keynote 是 Computex 從 PC 寒冬轉骨到 AI 主場的關鍵伏筆，但要等七年後黃仁勳 2023 年走上同一個舞台說 "We're back" 才會看清。
-- **時效**: 趁熱（剛 ship，CI/CD 預估 19:50 上線）
-- **敏感度**: 低（產業題、無在世政治人物私德爭議）
-- **必驗事實**: 已過 Stage 3 plugin gate hard=0；研究 SSOT `reports/research/2026-06/computex-evolve-stage1-2026-06-12.md` PASS（distinct 83 / 信度標記 41 / negative findings ✓）
-- **必先 spawn ARTICLE-INBOX entry**: ❌（剛 ship 完）
-- **預估發佈時機**: 2026-07-01 spore-publish-daily 10:00 routine 抽到
-- **Notes**: routine 自動 ship 走 SPORE_ROUTINE_MODE=1 雙平台（Threads + X）default per pipeline v3.8。Hook tier 1b 具體性槓桿（D+7 預估 10K-65K reach）
+<!-- ═══ 🔴 P0 — 趁熱（≤7 天深度重寫）+ READY blueprint ═══ -->
 
-### 陳水扁 — Threads 活躍期的時效 spore
-
-- **Source-Mode**: `REACTIVE`
-- **Article-Path**: [knowledge/People/陳水扁.md](../../knowledge/People/陳水扁.md)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-12 by 哲宇（goal directive「陳水扁 -> 最近threads很活躍」）
-- **Hook anchor 候選**:
-  1. **反差 hook**：當年的「台灣之子」現在每天在 Threads 上跟年輕人對話——平台比他兒子還年輕
-  2. **場景 hook**：從凱達格蘭大道的就職演說，到手機螢幕上的 Threads 貼文，陳水扁的麥克風換了三次形狀
-- **時效**: 本週內（Threads 活躍是 reactive 窗口，哲宇觀察時點 6/12）
-- **敏感度**: 高（政治人物 + 貪污案 + 保外就醫爭議——hook 不選邊，事實線走 article）
-- **必驗事實**: Threads 帳號真實性與近期活躍度（Chrome MCP 直讀）、article lastVerified 狀態
-- **必先 spawn ARTICLE-INBOX entry**: ❌（article 已存在；若 lastVerified > 90d 則 publish gate 會擋 → 先走 EVOLVE）
-- **預估發佈時機**: article 過 gate 即可，趁 Threads 活躍話題性
-- **Notes**: 高敏感 → routine 自動 ship 需特別走 SPORE-VERIFY 敏感度 gate；若被 defer 屬正常
-
-### 馬英九 — 哲宇點名候選（注意 #80 framing pending 舊案）
+### 阿神 — SC 高 demand EXISTING-ARTICLE spore（YouTuber 本名查詢穩態）
 
 - **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/People/馬英九.md](../../knowledge/People/馬英九.md)
-- **Priority**: `P1`
+- **Article-Path**: knowledge/People/阿神.md
+- **Priority**: `P0`
 - **Status**: `pending`
-- **Requested**: 2026-06-12 by 哲宇（goal directive spore 選項）
-- **Hook anchor 候選**:
-  1. **數字 hook**：633 這三個數字，台灣人記了快二十年——它是承諾、是哏、也是一面照後鏡
-  2. **身份 hook**：當過總統的人裡，只有他在卸任後還每年去大陸祭祖、見過習近平兩次
-- **時效**: 無（evergreen 人物）
-- **敏感度**: 高（兩岸 + 政治立場雷區）
-- **必驗事實**: 馬習會次數與日期、633 政見原文、article lastVerified
+- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: SC 7d 阿神本名 191 imp / 5 clicks / pos 3.48 + GA 7d 29 v / 從未 spore'd)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
+  1. **問句 hook**：「『阿神本名』這週 191 個人搜尋——大部分人知道他是 Minecraft 神，但記不得他叫沈尚甫」
+  2. **數字 hook**：「2008 年第一支 Minecraft 影片 → 2026 年累積訂閱 X 百萬，阿神是台灣 YouTube 早期到當代少數沒斷的個人頻道」
+- **時效**: 7 天內（SC「阿神本名」穩態 demand 趁熱回應）
+- **敏感度**: 低（個人 creator / 無政治）
+- **必驗事實**（**HG: 必須先讀 article 校準**）：本名沈尚甫（per article 確認）/ 出生年 / Minecraft 起點年份 / 累積訂閱與影片數 / 公司化進程 / 與其他早期遊戲 YouTuber 同期譜系
 - **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: ⚠️ **先決條件**：HARVEST-FRAMING-PENDING/2026-05-28 的 #80 馬英九 Bucket D framing 案仍 awaiting_observer——同人物有未結 framing 爭議時不自動 ship，等該案結案或哲宇 explicit go
-- **Notes**: 本 entry 對 routine 是 hold-with-condition；manual ship 不受限
+- **預估發佈時機**: 本週內
+- **Notes**:
+  - from news-lens weekly 2026-06-07 (event: SC 7d 191 impressions pos 3.48 = 已排名近頂但 CTR 2.62% < 5% = SERP click 被 nicknyfun 個人資料站切走; GA 7d 29 v; 從未 spore'd)
+  - 低敏感（gaming / YouTuber）
+  - 多語 fan-out 觸發判斷 = 低（en 對台灣 gaming creator 興趣有限；ja gaming community 可能感興趣）
+  - 配圖建議：article 既有圖 / Minecraft 經典場景 fair-use editorial
+  - Hook tier 自檢：避免 Tier 3「神級 YouTuber」神化 frame；用本名 + 數據作為 anchor
+- **2026-07-16 inbox-audit**: P1→P0 升級：article 2026-07-15 深度重寫 ship（1,494→4,500 CJK，兩次退休宣告 / 2026 新片素材大增），< 7 天趁熱窗口，hook 重抽
 
-### 江賢二 — 第二輪（5/24 已發過一輪，換 hook 軸）
+### 尊 (rapper Wei Zun) — SC 三源穩態 demand spore EXISTING-ARTICLE（query + page + GA top 25 三角確認）
 
 - **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Art/江賢二.md](../../knowledge/Art/江賢二.md)
-- **Priority**: `P2`
+- **Article-Path**: [knowledge/People/尊.md](../../knowledge/People/尊.md)
+- **Priority**: `P0`
 - **Status**: `pending`
-- **Requested**: 2026-06-12 by 哲宇（goal directive spore 選項）
-- **Hook anchor 候選**:
-  1. **場景 hook**：在巴黎跟紐約畫了三十年「封窗」的畫，回到台東金樽，他第一次把窗戶打開
-  2. **問句 hook**：一個畫家要多老，才能蓋一座給所有人的美術館？江賢二的答案是 81 歲
-- **時效**: 無
+- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d query 「尊」1418 imp / 4 clicks / pos 10.1 + SC page /people/尊/ 4411 imp / 23 clicks / pos 7.7 + GA top-25 article 33 PV / 30 users — 三源 cross-confirm 穩態高 demand 第二頁邊緣排名)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **身份 hook**：搜「尊」每天有幾百個人在 Google 找他，前面排得到的有歷史頭銜「尊」字輩；他的台灣 hip-hop 名字就一個字，要排到第二頁才看得到
+  2. **數字 hook**：23 個從 Google 點進來的人，4411 次曝光——這是 Taiwan.md 站上一個只有單字標題的台灣饒舌歌手，一週能擠進前 25 名熱門人物
+- **時效**: 無（evergreen 人物 + SC 穩態高 demand）
 - **敏感度**: 低
-- **必驗事實**: 5/24 第一輪 spore 用的 hook（場景型）——本輪必須換軸避免自我重複；江賢二藝術園區開園時間與現況
+- **必驗事實**: 出道年份、代表作、本名與藝名來源、article lastVerified
 - **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 與 5/24 前輪間隔已過 14 天排除窗，Stage 1 PICK 可抽
-- **Notes**: 哲宇連兩次點名江賢二（5/24 + 6/12），人物本身是他關注的訊號
+- **預估發佈時機**: SC 穩態高 demand 可隨時抽，跟 Music/People 類錯開 ≥ 1 天
+- **Notes**: from news-lens weekly 2026-06-28 (event: SC query 1418 imp + SC page 4411 imp + GA 33 PV 三源 cross-confirm)；單字標題在 SC 排名拼搜尋演算法天然弱勢 (信號太短)，spore 補社群 reach + 連結到 People/Music cluster
+
+---
+
+- **2026-07-16 inbox-audit**: P1→P0 升級：article 2026-07-15 深度重寫 ship（十四個曆年公開紀錄），< 7 天趁熱窗口；SC 三源穩態 demand 疊加
+
+### 台灣的年級生世代 — READY (cron 2026-06-08 article ship 同 cycle，#130/#131 blueprint 完成，DEFER 社群 post 等下次 cycle / 觀察者 manual)
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/Society/台灣的年級生世代.md](../../knowledge/Society/台灣的年級生世代.md)
+- **Priority**: `P0`（高 leverage — 世代論主題普世關心 + Hook tier 1b 反差 hook「現在罵草莓族的人，當年就是被罵的草莓族」）
+- **Status**: `pending-publish`（blueprint READY，pre-ship 8 hard gates 已自檢 PASS）
+- **Requested**: 2026-06-08 by `twmd-rewrite-daily` cron 18:00 fire — cycle 已超 ~130 min wall-clock 安全執行 SPORE chain 視窗
+- **Blueprint 位置**: [SPORE-BLUEPRINTS/130-台灣的年級生世代.md](SPORE-BLUEPRINTS/130-台灣的年級生世代.md)
+- **Hook anchor 候選**（blueprint 已 lock A2 首尾呼應）:
+  1. **A2 首尾呼應 hook**（已選）：「1993 年『草莓族』第一次被印出來時，罵的是現在最愛懷舊養樂多的五年級生」→ 收尾「這個詞最早罵的，很可能就是當年二十幾歲的你」
+  2. **B3 標籤遷移史 hook**（備選）：30 年 3 批被罵者 + 同一個詞戴頭上
+  3. **扶梯結構 hook**（備選）：台北房價所得比 6.4→15.41 倍 / 自購率 60%→25% — 量化結構但 hook 較弱
+- **時效**: 無強時效（article 為 evergreen 結構性題目，prime time 任何晚上 20-22 點可發）
+- **敏感度**: 低-中（純走世代標籤史 + 結構數據；blueprint 已避開政治認同/天然獨/抖音世代段降風險）
+- **必驗事實**:
+  - 1993 翁靜玉《辦公室物語》原指五年級（multi-source verbatim PASS）
+  - 高院認定貶抑詞（不掰字號）
+  - 台北房價所得比 6.4(2004) → 15.41(2025Q1) 政大不動產一手 PASS
+  - 「不吃不喝十五年」= 15.41 大白話換算 ✓
+- **預估發佈時機**: 下次觀察者 in-loop session prime time 20-22 點 — 觀察者觸發 `/twmd-spore-publish 130` 或 `/twmd-spore 台灣的年級生世代`
+- **Notes**:
+  - cron defer 社群 post 原因：本 cron cycle 已耗 ~130 min wall-clock（article BECOME + research 接力 + Stage 2-5 全跑含媒體深掃 + 5 PD/CC 圖 + cross-link + push），超 SPORE chain 安全執行視窗 → per §自主權邊界 + cron 150 min boundary defer
+  - Article 5146 CJK chars + 25 footnote + 4 富文本 box + 4 tw-\* viz + 5 圖（VOA 太陽花×4 + 野百合 1990）+ stage 4 hard=0 PASS
+  - Spore body 已校準 SPORE-VERIFY 自檢（對位 2 ≤3 / 破折號 3 / emoji 2 / hook 6 chars / 段落呼吸 4 段 / ~310 字略超 300 — 觀察者可微縮 8 字 OR 保留）
+  - 配圖建議用 article hero（VOA 太陽花立法院議場全景，square 1080² 由 `make-spore.sh` 自動 derive）
+
+<!-- routine 2026-06-08 ~19:55 twmd-rewrite-daily defer rationale: cycle wall-clock 已耗 ~130 min (article ship 全 stage + 媒體深掃 5 圖) → 超 SPORE chain 安全執行視窗. Blueprint READY, pre-ship 8 hard gates PASS. 等下次觀察者 manual 觸發 /twmd-spore-publish 130 即可 ship Threads + X dual-platform. -->
+
+- **2026-07-16 inbox-audit**: blueprint 2026-06-08 完成後擱置 5 週；保留編號 #130/#131 在 spore-log 仍空未被佔用可沿用；發前重跑 pre-ship verify（事實時效）
 
 ### 台灣人小時候的英文名字 — READY (cron 2026-06-17 article ship 同 cycle，#148/#149 blueprint 完成，DEFER 社群 post 等下次 cycle / 觀察者 manual)
 
@@ -335,33 +347,62 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 
 <!-- routine 2026-06-17 ~20:30 twmd-rewrite-daily defer rationale: cycle wall-clock 已耗 ~150 min boundary (article BECOME 全 mode self-test + research 4 agent fan-out 99 query + Stage 2 fresh Opus writer + Stage 3 plugin gate + commit + push) → 超 SPORE chain 安全執行視窗. Blueprint READY, pre-ship review 待哲宇. -->
 
-### 台灣的年級生世代 — READY (cron 2026-06-08 article ship 同 cycle，#130/#131 blueprint 完成，DEFER 社群 post 等下次 cycle / 觀察者 manual)
+- **2026-07-16 inbox-audit**: 原標 #148/#149 已被龜山島（6/24）佔用，ship 時改用新編號；article 2026-07-16 複驗仍 0 圖，image gate 擋 → 掛 ARTICLE-INBOX 收尾補完 band
+
+<!-- ═══ ⏸️ 待哲宇 / observer-gated（高敏感 + retraction 重發）═══ -->
+
+### 周蕙 — RETRACTION 重發（哲宇 directive 2026-05-28，#103/#104 voice drift 修補後重發）
 
 - **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Society/台灣的年級生世代.md](../../knowledge/Society/台灣的年級生世代.md)
-- **Priority**: `P0`（高 leverage — 世代論主題普世關心 + Hook tier 1b 反差 hook「現在罵草莓族的人，當年就是被罵的草莓族」）
-- **Status**: `pending-publish`（blueprint READY，pre-ship 8 hard gates 已自檢 PASS）
-- **Requested**: 2026-06-08 by `twmd-rewrite-daily` cron 18:00 fire — cycle 已超 ~130 min wall-clock 安全執行 SPORE chain 視窗
-- **Blueprint 位置**: [SPORE-BLUEPRINTS/130-台灣的年級生世代.md](SPORE-BLUEPRINTS/130-台灣的年級生世代.md)
-- **Hook anchor 候選**（blueprint 已 lock A2 首尾呼應）:
-  1. **A2 首尾呼應 hook**（已選）：「1993 年『草莓族』第一次被印出來時，罵的是現在最愛懷舊養樂多的五年級生」→ 收尾「這個詞最早罵的，很可能就是當年二十幾歲的你」
-  2. **B3 標籤遷移史 hook**（備選）：30 年 3 批被罵者 + 同一個詞戴頭上
-  3. **扶梯結構 hook**（備選）：台北房價所得比 6.4→15.41 倍 / 自購率 60%→25% — 量化結構但 hook 較弱
-- **時效**: 無強時效（article 為 evergreen 結構性題目，prime time 任何晚上 20-22 點可發）
-- **敏感度**: 低-中（純走世代標籤史 + 結構數據；blueprint 已避開政治認同/天然獨/抖音世代段降風險）
-- **必驗事實**:
-  - 1993 翁靜玉《辦公室物語》原指五年級（multi-source verbatim PASS）
-  - 高院認定貶抑詞（不掰字號）
-  - 台北房價所得比 6.4(2004) → 15.41(2025Q1) 政大不動產一手 PASS
-  - 「不吃不喝十五年」= 15.41 大白話換算 ✓
-- **預估發佈時機**: 下次觀察者 in-loop session prime time 20-22 點 — 觀察者觸發 `/twmd-spore-publish 130` 或 `/twmd-spore 台灣的年級生世代`
+- **Article-Path**: [knowledge/Music/周蕙.md](../../knowledge/Music/周蕙.md)
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-05-28 by 哲宇 directive 「周蕙 → 刪掉重發」
+- **Trigger**: SPORE-LOG #103/#104 retracted（voice drift — 第一行「走進台灣任何一間 KTV」完全無「你知道嗎？」prefix，是觸發 plugin Rule #14 v2 HARD gate 升級的三條 spore 之一）
+- **Pre-conditions for re-ship**:
+  - ✅ Article R2 EVOLVE 已 ship（commit `f32895640`，6655 CJK / 9 iframe / 12 張專輯 26 年弧線）
+  - ⏳ 哲宇手動刪除 Threads + X 既有 post（per §自主權邊界，社群刪文 = human action）
+  - ⏳ 新 blueprint **必須**寫到 `docs/factory/spore-blueprints/103-周蕙.md`（routine 必填 blueprint，不准 inline session memory）
+  - ⏳ Blueprint frontmatter `template: <viral A/B/C/D>` + `hook_tier: 1a or 1b`
+  - ⏳ Plugin Rule #14 v2 HARD=0 — 第一行字面 prefix「你知道嗎？{emoji}」/「欸，」/...
+- **Hook 候選**（待 routine pick）:
+  - A2 首尾呼應「你知道嗎？🎤 1999 年福茂發行一張很奇怪的精選輯，封面是漫畫娃娃，歌手 22 歲不對外露面...26 年後她第一次站上小巨蛋，尾聲說『不曉得這會不會是最後一次』」
+  - B 反差「你知道嗎？🎵 全台灣 80% 的人都會哼〈約定〉副歌，但有 60% 認不出唱者的臉。她出道 25 年，三個月前才第一次站上小巨蛋...」
 - **Notes**:
-  - cron defer 社群 post 原因：本 cron cycle 已耗 ~130 min wall-clock（article BECOME + research 接力 + Stage 2-5 全跑含媒體深掃 + 5 PD/CC 圖 + cross-link + push），超 SPORE chain 安全執行視窗 → per §自主權邊界 + cron 150 min boundary defer
-  - Article 5146 CJK chars + 25 footnote + 4 富文本 box + 4 tw-\* viz + 5 圖（VOA 太陽花×4 + 野百合 1990）+ stage 4 hard=0 PASS
-  - Spore body 已校準 SPORE-VERIFY 自檢（對位 2 ≤3 / 破折號 3 / emoji 2 / hook 6 chars / 段落呼吸 4 段 / ~310 字略超 300 — 觀察者可微縮 8 字 OR 保留）
-  - 配圖建議用 article hero（VOA 太陽花立法院議場全景，square 1080² 由 `make-spore.sh` 自動 derive）
+  - 重發是 v3.1 STRICT SPORE-WRITING READ GATE + plugin v2 HARD severity 第一次 production 驗證
+  - 若 routine pick 跑時 plugin Rule #14 fail → revise prose，重跑 plugin（不准跳）
 
-<!-- routine 2026-06-08 ~19:55 twmd-rewrite-daily defer rationale: cycle wall-clock 已耗 ~130 min (article ship 全 stage + 媒體深掃 5 圖) → 超 SPORE chain 安全執行視窗. Blueprint READY, pre-ship 8 hard gates PASS. 等下次觀察者 manual 觸發 /twmd-spore-publish 130 即可 ship Threads + X dual-platform. -->
+<!-- routine defer 2026-05-28: 中-高敏感 (政治脫口秀 + 鄭南榕梗 + 娛樂稅官司爭議 fit 政治立場 category) — 需 observer 親自 ship per spore-publish v3.0 §高敏感 REACTIVE defer rule spirit + MANIFESTO §自主權邊界 政治立場條款。cron no-observer context 走 conservative defer。 -->
+
+- **2026-07-16 inbox-audit**: 哲宇 5/28 directive 後 7 週未執行，仍為最高優先 observer-ship 項；發前確認 voice drift 修補版文案仍成立
+
+### 二二八事件 — 假歷史反制 REACTIVE spore
+
+- **Source-Mode**: `REACTIVE`
+- **Article-Path**: [knowledge/History/二二八事件.md](../../knowledge/History/二二八事件.md)
+- **Priority**: `P1`（2026-07-16 inbox-audit 降級：5/21 觸發的急性反制窗已過；仍為 observer-gated + article image=0 / footnote C 雙 blocker，掛 ARTICLE-INBOX「SPORE 圖片補強 batch」）
+- **Status**: `pending` ⚠️ routine defer to human（per HTML comment 上方）
+- **Requested**: 2026-05-21 by 哲宇（觀察到中國散播 228 假歷史）
+- **Hook anchor 候選**（**紀實非煽情** per REFLEXES #28、不直接點名「中國假歷史」，用 first-person curatorial voice 把真相端出來）：
+  1. **場景 hook**（推薦）：「1947 年 2 月 27 日傍晚，林江邁的私菸攤前。一包菸點燃 38 年的沉默 — 228 真實發生的不是『公賣局打老人』這麼簡單」（直接抽 article description 變奏）
+  2. **數字 hook**：「228 死亡人數的三個學術版本：1.8 萬、2.2 萬、2.8 萬 — 不同 source 為什麼差這麼多」（fact-check 角度）
+  3. **問句 hook**：「林江邁那包菸的事，你聽過幾個版本？這篇把真相分成三層說清楚」
+  4. **身份 hook**：「我阿公那一輩三個世代對 228 的認識，是從沉默、到耳語、到紀念館，一階一階重新拼回來的」（紀實角度，引文章 §族群的傷）
+- **時效**：「本月內 ship」（哲宇 directive「最近也可以發一次」+ 假歷史正在散播）
+- **敏感度**：**高**（兩岸資訊戰敏感 + 死亡人數爭議 + 族群創傷）— Stage 2 VERIFY 必跑全部 17 hard gate、不寫煽情「中國造謠」frame、用 article §記憶的復返 同款克制度
+- **必驗事實**：1947-02-27 林江邁查緝 / 1947-02-28 第一槍位置（天馬茶房，per [台北市文章](../../knowledge/Geography/台北市.md) verbatim）/ 死亡人數三個學術估算 source / 陳儀電請中央軍隊鎮壓 / 1995 李登輝代表政府道歉 / 1947-3-8 高雄要塞司令彭孟緝下令屠殺
+- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在）
+- **預估發佈時機**：本月內，避開特定政治事件高峰，挑「不會被誤讀為配合某政黨議程」的時機；建議週中（週二三四）平日下午發
+- **Notes**：
+  - **絕對禁用 frame**：「中國正在散播假歷史」「對抗統戰」「揭穿謊言」這類煽情外向 frame 一律不用。這些 frame 把 Taiwan.md 推進兩岸資訊戰漩渦，violates [MANIFESTO §策展非百科 + §怎麼說話](../semiont/MANIFESTO.md)
+  - **採用 frame**：first-person curatorial voice，「我們島上的歷史」紀實，反制效果是隱含的（讓真相站著，假歷史自己倒）
+  - 多語 fan-out 觸發 = 高（en/ja/ko 都該翻，海外華人圈是假歷史傳播主場景，特別 en 海外受眾）
+  - 配圖建議：天馬茶房舊址照片（Wikimedia 有 CC）或 228 紀念館
+  - 跟 [台北市文章 §1947 那包菸](../../knowledge/Geography/台北市.md) cross-link，加強 mutual reinforcement
+
+---
+
+---
 
 ### 莫那能 — DEFER spore（routine 2026-06-03 ship article 後 conservative defer，需哲宇 manual framing）
 
@@ -394,28 +435,81 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 
 <!-- routine 2026-06-03 010946 twmd-rewrite-daily defer rationale: 政治立場高敏感 (左統派 + 中國作協 + 反台獨 + 〈鐘聲響起時〉課綱爭議前車) + §自主權邊界 對外溝通條款 + REFLEXES anti-bias check. Article 已 honest 處理複雜度，spore 300 字無法承載 → 觀察者親自 framing -->
 
-### 周蕙 — RETRACTION 重發（哲宇 directive 2026-05-28，#103/#104 voice drift 修補後重發）
+<!-- ═══ 🟡 P1 ═══ -->
+
+### 馬英九 — 哲宇點名候選（注意 #80 framing pending 舊案）
 
 - **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Music/周蕙.md](../../knowledge/Music/周蕙.md)
-- **Priority**: `P0`
+- **Article-Path**: [knowledge/People/馬英九.md](../../knowledge/People/馬英九.md)
+- **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-05-28 by 哲宇 directive 「周蕙 → 刪掉重發」
-- **Trigger**: SPORE-LOG #103/#104 retracted（voice drift — 第一行「走進台灣任何一間 KTV」完全無「你知道嗎？」prefix，是觸發 plugin Rule #14 v2 HARD gate 升級的三條 spore 之一）
-- **Pre-conditions for re-ship**:
-  - ✅ Article R2 EVOLVE 已 ship（commit `f32895640`，6655 CJK / 9 iframe / 12 張專輯 26 年弧線）
-  - ⏳ 哲宇手動刪除 Threads + X 既有 post（per §自主權邊界，社群刪文 = human action）
-  - ⏳ 新 blueprint **必須**寫到 `docs/factory/spore-blueprints/103-周蕙.md`（routine 必填 blueprint，不准 inline session memory）
-  - ⏳ Blueprint frontmatter `template: <viral A/B/C/D>` + `hook_tier: 1a or 1b`
-  - ⏳ Plugin Rule #14 v2 HARD=0 — 第一行字面 prefix「你知道嗎？{emoji}」/「欸，」/...
-- **Hook 候選**（待 routine pick）:
-  - A2 首尾呼應「你知道嗎？🎤 1999 年福茂發行一張很奇怪的精選輯，封面是漫畫娃娃，歌手 22 歲不對外露面...26 年後她第一次站上小巨蛋，尾聲說『不曉得這會不會是最後一次』」
-  - B 反差「你知道嗎？🎵 全台灣 80% 的人都會哼〈約定〉副歌，但有 60% 認不出唱者的臉。她出道 25 年，三個月前才第一次站上小巨蛋...」
-- **Notes**:
-  - 重發是 v3.1 STRICT SPORE-WRITING READ GATE + plugin v2 HARD severity 第一次 production 驗證
-  - 若 routine pick 跑時 plugin Rule #14 fail → revise prose，重跑 plugin（不准跳）
+- **Requested**: 2026-06-12 by 哲宇（goal directive spore 選項）
+- **Hook anchor 候選**:
+  1. **數字 hook**：633 這三個數字，台灣人記了快二十年——它是承諾、是哏、也是一面照後鏡
+  2. **身份 hook**：當過總統的人裡，只有他在卸任後還每年去大陸祭祖、見過習近平兩次
+- **時效**: 無（evergreen 人物）
+- **敏感度**: 高（兩岸 + 政治立場雷區）
+- **必驗事實**: 馬習會次數與日期、633 政見原文、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: ⚠️ **先決條件**：HARVEST-FRAMING-PENDING/2026-05-28 的 #80 馬英九 Bucket D framing 案仍 awaiting_observer——同人物有未結 framing 爭議時不自動 ship，等該案結案或哲宇 explicit go
+- **Notes**: 本 entry 對 routine 是 hold-with-condition；manual ship 不受限
 
-<!-- routine defer 2026-05-28: 中-高敏感 (政治脫口秀 + 鄭南榕梗 + 娛樂稅官司爭議 fit 政治立場 category) — 需 observer 親自 ship per spore-publish v3.0 §高敏感 REACTIVE defer rule spirit + MANIFESTO §自主權邊界 政治立場條款。cron no-observer context 走 conservative defer。 -->
+### 陳水扁 — Threads 活躍期的時效 spore
+
+- **Source-Mode**: `REACTIVE`
+- **Article-Path**: [knowledge/People/陳水扁.md](../../knowledge/People/陳水扁.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-12 by 哲宇（goal directive「陳水扁 -> 最近threads很活躍」）
+- **Hook anchor 候選**:
+  1. **反差 hook**：當年的「台灣之子」現在每天在 Threads 上跟年輕人對話——平台比他兒子還年輕
+  2. **場景 hook**：從凱達格蘭大道的就職演說，到手機螢幕上的 Threads 貼文，陳水扁的麥克風換了三次形狀
+- **時效**: 本週內（Threads 活躍是 reactive 窗口，哲宇觀察時點 6/12）
+- **敏感度**: 高（政治人物 + 貪污案 + 保外就醫爭議——hook 不選邊，事實線走 article）
+- **必驗事實**: Threads 帳號真實性與近期活躍度（Chrome MCP 直讀）、article lastVerified 狀態
+- **必先 spawn ARTICLE-INBOX entry**: ❌（article 已存在；若 lastVerified > 90d 則 publish gate 會擋 → 先走 EVOLVE）
+- **預估發佈時機**: article 過 gate 即可，趁 Threads 活躍話題性
+- **Notes**: 高敏感 → routine 自動 ship 需特別走 SPORE-VERIFY 敏感度 gate；若被 defer 屬正常
+
+### Computex EVOLVE 剛 ship — 三大電腦展死了兩個剩台北那個
+
+- **Source-Mode**: `EXISTING-ARTICLE`（剛 EVOLVE ship `f42792f5b`）
+- **Article-Path**: [knowledge/Technology/Computex.md](../../knowledge/Technology/Computex.md)
+- **Priority**: `P1`（趁熱 + reader-validated content from PTT 鄉民 集體補出五條缺口）
+- **Status**: `pending`
+- **Requested**: 2026-06-30 by twmd-rewrite-daily routine 18h cycle（cycle-deferred SPORE chain — 留給次日 10:00 spore-publish-daily 拿）
+- **Hook anchor 候選**:
+  1. **反差 hook（Tier 1b 具體性）**：1981 年松山機場旁那場「中小企業出口商展」，賣的是給香港買主搬回去的電容、電阻、主機板。2026 年世貿一館的同一個展，180 家廠商在現場示範減速機、馬達、夾爪。45 年同條曲線，零組件的定義從電容換成了減速機。
+  2. **結構 hook**：COMDEX 死了，因為它辦在拉斯維加斯。CeBIT 死了，因為它辦在漢諾威。資訊月也凋零了，因為它面向台灣家庭的零售端。Computex 活下來，因為它辦在台北——這座島的供給端。展覽會跟著訂單走，訂單跟著製造走，製造留在了這座島上。
+  3. **2016 Your Moment of Zen**：PC 寒冬最深的那一年，蘇姿丰走上 Computex 主舞台掀出 8 核 Summit Ridge，講「from scratch」、講「40% IPC」。媒體當下不信。然後 Zen 真的兌現了，AMD 從 30 億漲到千億。那一場 keynote 是 Computex 從 PC 寒冬轉骨到 AI 主場的關鍵伏筆，但要等七年後黃仁勳 2023 年走上同一個舞台說 "We're back" 才會看清。
+- **時效**: 趁熱（剛 ship，CI/CD 預估 19:50 上線）
+- **敏感度**: 低（產業題、無在世政治人物私德爭議）
+- **必驗事實**: 已過 Stage 3 plugin gate hard=0；研究 SSOT `reports/research/2026-06/computex-evolve-stage1-2026-06-12.md` PASS（distinct 83 / 信度標記 41 / negative findings ✓）
+- **必先 spawn ARTICLE-INBOX entry**: ❌（剛 ship 完）
+- **預估發佈時機**: 2026-07-01 spore-publish-daily 10:00 routine 抽到
+- **Notes**: routine 自動 ship 走 SPORE_ROUTINE_MODE=1 雙平台（Threads + X）default per pipeline v3.8。Hook tier 1b 具體性槓桿（D+7 預估 10K-65K reach）
+- **2026-07-16 inbox-audit**: EVOLVE 2026-06-30 ship 後 D+16，趁熱窗過半但 reader-validated 素材仍新，hook 不依賴時事
+
+### 楊德昌 — SC pos 1.5 catastrophic CTR (0.25% / 千擇一) 結構性 metadata 失效
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/楊德昌.md](../../knowledge/People/楊德昌.md)
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d query 「楊德昌」406 imp / 1 click / pos 1.5 / CTR 0.25% + SC page /people/楊德昌/ 453 imp / 1 click / pos 2.3 — 雙源確認 rank 第二名但 CTR 千擇一，title/description 系統性失效)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **場景 hook**：2007 年 6 月底，楊德昌過世的隔天，李安在洛杉磯說：「他是我的兄弟。」這話不是禮節——李安還在洛杉磯念書時，楊德昌已經在台灣拍出《牯嶺街》
+  2. **反差 hook**：Google 把楊德昌的 Taiwan.md 條目排在第二位；過去 7 天 406 個人看到、只 1 個人點進來——剩下 405 個人選了 wiki 跟維基
+- **時效**: 無（evergreen 導演 + Cannes 復刻/4K 修復脈絡持續出新聞）
+- **敏感度**: 低（藝術人物 + 殖民後台北敘事）
+- **必驗事實**: 2007-06-29 過世日、《牯嶺街少年殺人事件》1991、《一一》2000 坎城最佳導演、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC pos 1.5 緊急 metadata 候選 — spore 先 surface 同步分派 SEO 優化（改 title 加年份）
+- **Notes**: from news-lens weekly 2026-06-28 (event: SC pos 1.5 ctr 0.25% catastrophic + page pos 2.3 雙源 cross-confirm)；rank 健康度跟 ctr 嚴重背離 = 第一頁排名的「展示效能瓶頸」典型案例，spore + SEO 雙路徑並行
+
+---
+
+- **2026-07-16 inbox-audit**: article 2026-07-05 EVOLVE ship（DONE-LOG），spore 與 metadata CTR 修復可同動
 
 ### 曾博恩 — 旗艦人物 spore
 
@@ -437,6 +531,8 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 - **Notes**：Hook tier 自檢 — 不要用 Tier 3 廉價懸念（避免「曾博恩做錯了一件大事⋯⋯」這種克制度低的勾引）；發佈時挑「算不準」frame 比挑「成功」frame 更貼 article 副標精神
 
 ---
+
+- **2026-07-16 inbox-audit**: 6/28 news-lens 重複 entry 已併入（SC 雙源穩態：query + page 高曝光確認 demand 持續）；article image=0 SPORE gate 擋 → 掛 ARTICLE-INBOX「SPORE 圖片補強 batch」，status 視為 pending-media
 
 ### 施振榮 — 失敗教父 spore
 
@@ -461,669 +557,102 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 
 <!-- routine defer 2026-05-28: 高敏感 REACTIVE (敏感度: 高 + 兩岸資訊戰 + 族群創傷 + 死亡人數爭議) — 需 observer 親自 ship per spore-publish v3.0 §高敏感 REACTIVE defer rule + MANIFESTO §自主權邊界 政治立場條款。routine context 無 observer 不准 ship。 -->
 
-### 二二八事件 — 假歷史反制 REACTIVE spore
+- **2026-07-16 inbox-audit**: article image=0 SPORE gate 擋 → 掛 ARTICLE-INBOX「SPORE 圖片補強 batch」，status 視為 pending-media；另注意 2026-07-06 article 已立體群像重寫，hook 改從立體版抽
 
-- **Source-Mode**: `REACTIVE`
-- **Article-Path**: [knowledge/History/二二八事件.md](../../knowledge/History/二二八事件.md)
-- **Priority**: `P0`（時效高，假歷史正在散播）
-- **Status**: `pending` ⚠️ routine defer to human（per HTML comment 上方）
-- **Requested**: 2026-05-21 by 哲宇（觀察到中國散播 228 假歷史）
-- **Hook anchor 候選**（**紀實非煽情** per REFLEXES #28、不直接點名「中國假歷史」，用 first-person curatorial voice 把真相端出來）：
-  1. **場景 hook**（推薦）：「1947 年 2 月 27 日傍晚，林江邁的私菸攤前。一包菸點燃 38 年的沉默 — 228 真實發生的不是『公賣局打老人』這麼簡單」（直接抽 article description 變奏）
-  2. **數字 hook**：「228 死亡人數的三個學術版本：1.8 萬、2.2 萬、2.8 萬 — 不同 source 為什麼差這麼多」（fact-check 角度）
-  3. **問句 hook**：「林江邁那包菸的事，你聽過幾個版本？這篇把真相分成三層說清楚」
-  4. **身份 hook**：「我阿公那一輩三個世代對 228 的認識，是從沉默、到耳語、到紀念館，一階一階重新拼回來的」（紀實角度，引文章 §族群的傷）
-- **時效**：「本月內 ship」（哲宇 directive「最近也可以發一次」+ 假歷史正在散播）
-- **敏感度**：**高**（兩岸資訊戰敏感 + 死亡人數爭議 + 族群創傷）— Stage 2 VERIFY 必跑全部 17 hard gate、不寫煽情「中國造謠」frame、用 article §記憶的復返 同款克制度
-- **必驗事實**：1947-02-27 林江邁查緝 / 1947-02-28 第一槍位置（天馬茶房，per [台北市文章](../../knowledge/Geography/台北市.md) verbatim）/ 死亡人數三個學術估算 source / 陳儀電請中央軍隊鎮壓 / 1995 李登輝代表政府道歉 / 1947-3-8 高雄要塞司令彭孟緝下令屠殺
-- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在）
-- **預估發佈時機**：本月內，避開特定政治事件高峰，挑「不會被誤讀為配合某政黨議程」的時機；建議週中（週二三四）平日下午發
-- **Notes**：
-  - **絕對禁用 frame**：「中國正在散播假歷史」「對抗統戰」「揭穿謊言」這類煽情外向 frame 一律不用。這些 frame 把 Taiwan.md 推進兩岸資訊戰漩渦，violates [MANIFESTO §策展非百科 + §怎麼說話](../semiont/MANIFESTO.md)
-  - **採用 frame**：first-person curatorial voice，「我們島上的歷史」紀實，反制效果是隱含的（讓真相站著，假歷史自己倒）
-  - 多語 fan-out 觸發 = 高（en/ja/ko 都該翻，海外華人圈是假歷史傳播主場景，特別 en 海外受眾）
-  - 配圖建議：天馬茶房舊址照片（Wikimedia 有 CC）或 228 紀念館
-  - 跟 [台北市文章 §1947 那包菸](../../knowledge/Geography/台北市.md) cross-link，加強 mutual reinforcement
-
----
-
----
-
-### 台灣媒體總史 — EVERGREEN-TOPIC spore（150 年五階段：清領教會報 → 自媒體 podcast）
-
-- **Source-Mode**: `EVERGREEN-TOPIC`
-- **Article-Path**: `none-yet`（屬於 [ARTICLE-INBOX §台灣媒體總史 NEW](../semiont/ARTICLE-INBOX.md) P0，2026-05-17 哲宇 directive spawn，~180 min 開發）
-- **Priority**: `P3`（要等 article ship）
-- **Status**: `pending`
-- **Requested**: 2026-05-28 by twmd-spore-pick-daily routine (score=8)
-- **Hook anchor 候選**（先列，等 article ship 後再校準）：
-  1. **數字 hook**：「1885 年《台灣府城教會報》巴克禮在台南創刊 → 1898 台灣日日新報 → 1923 蔣渭水《台灣民報》→ 1949 三報禁（中央/中時/聯合 vs 黨外雜誌）→ 1988-01-01 報禁解除 → 1995 蕃薯藤 → 2000 PTT → 2010s Facebook → 2020s podcast。台灣媒體史 150 年，五個媒體形式的更替疊在同一座島上」
-  2. **問句 hook**：「為什麼台灣最早的報紙是用白話字寫的台語？答案藏在 1885 年巴克禮從蘇格蘭把活字印刷帶進台南神學院那一刻 — 台灣媒體史的第一個音節不是漢字，是白話字台語」
-  3. **場景 hook**（待 article ship 後校準）：「1885 年 7 月，台南神學院旁邊。巴克禮把蘇格蘭運來的活字一個一個排版印刷，《台灣府城教會報》第一期創刊號頭版用白話字台語寫著教會消息。140 年後台灣媒體生態還沒走完那一頁 — 從紙本到 podcast 五個階段，每一階段都有自己的言論戰場」
-  4. **身份 hook**（待 article ship 後校準）：「你今天讀的 Threads / Facebook / podcast / Substack 屬於台灣媒體史第五階段。前四階段是清領教會報、日治新聞、戰後黨報、解嚴後自由化 — 同一座島從 1885 到 2026，150 年五階段每一階段都有人因為媒體被關押」
-- **時效**：等 article ship（est. ARTICLE-INBOX P0 哲宇 directive 5/17 spawn，~180 min 開發，1-2 週可排上 baseline 6/4-6/10 window）
-- **敏感度**：**中-高**（黨外雜誌史 + 媒體被收購（旺中/中時 etc.）+ 紅媒爭議 needs precision per MAINTAINER §爭議處理）— 以「媒體形式演化史 + 報紙 / 廣播 / 電視 / 網路 / 自媒體 五階段」literary frame 起手，政治含義由 1949 三報禁 / 1988 報禁解除 / 黨外雜誌 具體事實承擔；HG9 通過因為不涉及兩岸/228/戒嚴/統獨/中共/習近平 hardcoded set
-- **必驗事實**（article ship 時校準，per ARTICLE-INBOX P0 必驗清單）：1885-07《台灣府城教會報》巴克禮創刊台南 / 1898 台灣日日新報 / 1923 台灣民報（or 1920 台灣青年） / 1949 報禁起始年份 vs 1988-01-01 報禁解除 / 雷震《自由中國》 / 1979 美麗島事件 / 廣電法修法時點 / 1993 廣播電視自由化 / 1995 蕃薯藤 / 1995 PTT 杜奕瑾（per 既有 People 條目） / 2000s Facebook 進入台灣時點 / 2020s podcast 興起
-- **必先 spawn ARTICLE-INBOX entry**：✅ **已存在**（per [ARTICLE-INBOX §台灣媒體總史 NEW](../semiont/ARTICLE-INBOX.md) P0，2026-05-17 哲宇 directive spawn）
-- **預估發佈時機**：article ship 後 7 天內趁熱
-- **Notes**：
-  - score=8 (D1=0 article 不存在 / D2=0 SC 未累積 / D3=0 / D4=+8 Society 不在 high_fanout 列表但「媒體史」對應國際媒體研究受眾 — judgment call / D5=0 / D6=0 / D7=0 mid-high 敏感但 hardcoded keyword set (兩岸/228/戒嚴/統獨/中共/習近平) 未直接命中)
-  - HG7 contribution: **EVERGREEN-TOPIC** (#1 of 1) — 對應 #1 艋舺 + #2 台灣 BIM 兩條 EXISTING-ARTICLE 形成 2 mode mix ✓
-  - HG9 borderline check: 媒體史 = 黨外雜誌 / 紅媒爭議敏感但 article ship 時 frame「150 年五階段媒體形式演化」literary mode 可避開政治正面對撞；非 REACTIVE 也通過 HG9
-  - 多語 fan-out 觸發判斷 = 中-高（媒體史是國際傳播學受眾大 cluster；ja 對日治《台灣日日新報》/《台灣民報》（蔣渭水）有 demand / en 對白話字台語報紙 + 解嚴後 PTT/網路時代有 academic demand / ko 對 1988 報禁解除比較有政治轉型史 demand）— 對應 [MANIFESTO §主權的巴別塔](../semiont/MANIFESTO.md#我跟台灣的關係) sovereignty preservation infrastructure 在「媒體史」這個 cluster 的具體落實
-  - 國際 SEO 切入：「Taiwan media history」「Taiwan Church News 1885」「Pe̍h-ōe-jī newspaper」「Taiwan press freedom 1988」
-  - 配圖建議：article ship 時挑《台灣府城教會報》創刊號 fair-use editorial / 巴克禮肖像 Wikimedia / 1988 報禁解除歷史照
-  - Hook tier 自檢：避免 Tier 3「黨外雜誌反抗」政治英雄 frame / 避免 Tier 3「台灣媒體自由排名」國族主義 frame；以「白話字 → 漢字 → 廣播 → 電視 → 網路 → 自媒體 形式演化」frame 起手，政治含義由 1949/1988/2020 具體年份承擔
-  - 跟 SPORE-LOG 14d 無重複（媒體史類別 spore 缺；最近 Society spore 是 #79 寶島聯播網訪談 5/5 — 22 天前 ≫ 14d ✓）
-  - article ship 後 routine 自動升級此 entry 為 EXISTING-ARTICLE + 補 Article-Path（per SPORE-INBOX §Routine intake 自動升級規則）
-
----
-
-### 公視 — 28 年弧線 趁熱 REACTIVE spore（5/27 NEW ship + 5/7 議場驅逐事件）
-
-- **Source-Mode**: `REACTIVE`
-- **Article-Path**: [knowledge/Society/公視.md](../../knowledge/Society/公視.md)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-01 by twmd-news-lens-weekly (week 2026-W22, event: 公視 article NEW ship 5/27 + 2026-05-07 立法院議場董事長驅逐)
-- **Hook anchor 候選**：
-  1. **數字 hook**：「1998 開播、23 年九億預算緊箍咒、養出 5 部旗艦劇（《我們與惡的距離》《茶金》《通靈少女》《麻醉風暴》《一把青》）、2023-05 修法翻倍到 23 億、19 個月後遭刪 1% 凍結 25%、2026-05-07 董事長被請出立法院議場。28 年下來公視證明的事：緊箍咒解開不代表獨立性建立」
-  2. **場景 hook**：「2026 年 5 月 7 日早上，立法院教育委員會開議前。國民黨立委羅智強要求公視董事長胡元輝離席，理由是他已『任期屆滿』。文化部長李遠當場抗議，僵持後胡元輝起身走出議場。當天晚上他在臉書寫『個人遭遇事小，但公共媒體的尊嚴必須捍衛』。那一幕距離 1998-07-01 公視開播，剛好 28 年」
-  3. **問句 hook**：「為什麼《我們與惡的距離》是公視做的、不是商業電視台？答案藏在 1998 那條被通過的法律裡 — 政府預算捐贈逐年遞減、最終凍結在每年 9 億，這條條文綁了 23 年，公視只能拿那點錢拍別人不敢拍的題材」
-- **時效**：article ship 5/27 距今 5 天（趁熱窗口剩 ~9 天）+ 5/7 議場事件 25 天前仍是 active news anchor
-- **敏感度**：**高**（媒體獨立 / 黨派預算政治 / 立法院衝突）— 必須用 article §策展人筆記 28 年弧線中性 frame 起手，不站隊任一政黨；REACTIVE 但**先講歷史弧線後落地新聞事件**，不直接 callout 個別立委姓名（footnote 已存記錄即可，spore 文體要克制）
-- **必驗事實**：1998-07-01 公視開播 / 9 億預算 23 年緊箍咒 / 2023-05 修法解凍預算 23 億 / 19 個月後砍預算 1% 凍結 25% / 2026-05-07 議場驅逐董事長胡元輝 / 5 部旗艦劇片名 / 文化部長李遠抗議
-- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在）
-- **預估發佈時機**：本週內（6/1-6/7 趁熱窗口疊 5/7 議場事件 anchor 仍活）
-- **Notes**：
-  - from news-lens weekly 2026-06-01 (event: 公視 5/27 ship + 5/7 議場驅逐事件 仍熱, GA #14: 32 views/26 users, no spore yet — Society cluster spore 缺位; CF AI crawler 對「Taiwan public broadcasting」議題感興趣)
-  - 高敏感 REACTIVE 配 frame 規則：用 28 年歷史弧線敘事，不用「立委 X 違法驅逐」對抗 frame；hook 1/2/3 三條都從歷史結構切入再落地事件（per [二二八事件 entry §Notes](../factory/SPORE-INBOX.md) frame 範例）
-  - 多語 fan-out 觸發判斷 = 中（en 海外讀者對 Taiwan public broadcasting 結構 / 與 PBS NHK BBC 對照有 demand；ja 對日治臺灣放送協會→戰後公視轉型有歷史 anchor；5 lang tx 待 ship 後 verify）
-  - 配圖建議：article hero（公視 B 棟建築 2024 Yu tptw Wikimedia CC BY-SA 4.0）或 5 部旗艦劇 collage（fair-use editorial）
-  - Hook tier 自檢：避免 Tier 3「公視又被欺負了」受害者 frame；用 article §28 年弧線中性結構 frame 起手
-  - 跟 SPORE-LOG 14d 無重複（Society / 媒體 cluster spore 缺；最近 Society 大型 spore 是 #79 寶島聯播網訪談 5/5 — 27 天前 ≫ 14d ✓）
-
----
-
-### 猴硐 — 鏡頭餵肥棄貓場 趁熱 REACTIVE spore（5/27 NEW ship + 2026-01 鏡週刊「滅村」框架反制）
-
-- **Source-Mode**: `REACTIVE`
-- **Article-Path**: [knowledge/Geography/猴硐.md](../../knowledge/Geography/猴硐.md)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-01 by twmd-news-lens-weekly (week 2026-W22, event: 猴硐 article NEW ship 5/27 + 2026-01 鏡週刊 TNVR「滅村」框架報導)
-- **Hook anchor 候選**：
-  1. **場景 hook**：「2009 年攝影師簡佩玲（貓夫人）走進新北平溪線一座 1990 年瑞三鑛業停產後被遺忘 19 年的山城。她的鏡頭把猴硐變成 CNN 2013 評選的世界六大賞貓景點。但『貓咪天堂』這個名號養出全台最大棄貓場 — 2012 貓瘟、2013 至少 10 起虐貓、2022 棄貓案罰 11 萬。2014 貓夫人留下『不停消費貓、消費我、消費侯硐』退出」
-  2. **數字 hook**：「貓口從 200-300 隻 → 2026-01 剩 30+ 隻。鏡週刊用『滅村』兩個字當標題框架。但消失的不是貓村 — 是『單一網紅 IP 撐起的地方創生模式』。TNVR 把貓口控制到可承載量，是收尾，不是失敗」
-  3. **問句 hook**：「鏡頭可以救起一座礦業遺址，也可以餵肥一座棄貓場。誰要負責收尾？2009 走進來的攝影師、2013 把名字傳出去的 CNN、2014 退出的貓夫人、2024 設貓公所的光復里里長、2026 用『滅村』兩字下標的鏡週刊 — 17 年來，這道題沒有單一答案」
-- **時效**：article ship 5/27 距今 5 天（趁熱窗口剩 ~9 天）+ 2026-01 鏡週刊報導留下「滅村」反差 frame 仍有反駁空間
-- **敏感度**：中（地方創生 / 動保政策 / 在地產業利益）— 不踩動保倡議或商業反 TNVR 任一立場，以 article §反身性悖論 frame 起手（鏡頭救起 / 鏡頭餵肥 / TNR 收尾的三段反身結構）
-- **必驗事實**：1990-05-01 瑞三鑛業瑞山本坑關閉 / 2009 貓夫人走進光復里 / 2013 CNN 世界六大賞貓景點 / 2012 貓瘟 / 2013 至少 10 起虐貓事件 / 2022 棄貓案罰 11 萬 / 2014 貓夫人退出聲明原文 / 2024 貓公所成立 / 2026-01 鏡週刊滅村框架報導 / TNVR 200-300 隻 → 30+ 隻
-- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在）
-- **預估發佈時機**：本週內（6/1-6/7 趁熱窗口，可搭五月底動保話題或六月初端午連假觀光討論）
-- **Notes**：
-  - from news-lens weekly 2026-06-01 (event: 猴硐 5/27 ship + 2026-01 鏡週刊滅村報導 反制 frame 機會, GA: 暫未進 top 15 但 Geography 5/27 三件套 cluster 一起趁熱)
-  - 中敏感 REACTIVE，frame 用 article D anchor「反身性悖論」三段結構（鏡頭救起 / 鏡頭餵肥 / TNR 收尾），不寫「貓村已死」哀悼或「TNR 大勝利」勝利兩極
-  - 多語 fan-out 觸發判斷 = 高（ja 對日本田代島 / 青島貓島平行對照有 demand；en 對地方創生 + tourism overshoot 國際案例研究有 academic demand；5 lang tx 已 baseline）
-  - 配圖建議：article hero（基隆河猴硐段 CharlieDigital Wikimedia CC BY-SA 4.0）或瑞三鑛業整煤廠遺址（fair-use editorial）
-  - Hook tier 自檢：避免 Tier 3「貓村再見」悲情 frame 或「TNR 成功」宣傳 frame；用 article D anchor 反身性悖論 frame 起手
-  - 跟 SPORE-LOG 14d 無重複（Geography 大 cluster 最近 spore 是 #87/88 大稻埕 + #89/90 西門町 + #91 艋舺 5/25 — 但都是台北歷史街區 cluster，猴硐是聚落+動保獨立 sub-cluster ✓）
-
----
-
-### 天燈 — 200 年身分 趁熱 spore（5/27 NEW ship + 326 公斤環境災難 anchor）
+### 陳嫺靜 — 韓國市場 breakout（천셴징 107 ck 21% CTR + 歌詞查詢升溫）
 
 - **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Culture/天燈.md](../../knowledge/Culture/天燈.md)
+- **Article-Path**: [knowledge/Music/陳嫺靜.md](../../knowledge/Music/陳嫺靜.md)（KO version: [knowledge/ko/Music/hsien-ching-chen.md](../../knowledge/ko/Music/hsien-ching-chen.md)）
 - **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-06-01 by twmd-news-lens-weekly (week 2026-W22, event: 天燈 article NEW ship 5/27 + 2019 326 公斤環境災難仍是國際媒體 frame)
-- **Hook anchor 候選**：
-  1. **數字 hook**：「1820 年代第一盞報平安的天燈 → 2019 元宵節隔天 326 公斤殘骸 → 2025 自治條例三讀通過。200 年從報平安信號到山林垃圾，主旋律是同一群平溪人扛兩個身分 — 天燈協會理事長姓胡，房子被燒毀的受害者也姓胡，老街攤商蔡媽媽跟基隆河守護聯盟陳建志喝同一條溪的水」
-  2. **場景 hook**：「2019 年 2 月 19 日清晨，元宵節隔天。25 名美國志工跟著 Taiwan Adventure Outings 進入平溪鐵道周邊。兩小時，他們從竹林、河谷、軌道兩側撿出 326.15 公斤的天燈殘骸 — 鐵絲扭曲的支架、被雨打濕的紙糊、燒到一半的金紙、菸盒。Taipei Times 那篇報導被 BBC、衛報、紐約時報、法新社援引，『環境災難』這個標籤從此釘上平溪」
-  3. **問句 hook**：「胡氏家族 200 年前在十分寮放出第一盞天燈，給躲到山上的家人看『土匪走了』。同一個姓今天扛兩個身分 — 天燈協會理事長胡民樹、72 歲房子被燒毀的胡維銘。一個賺、一個賠、整村清。為什麼 200 年後同一個信號變成同一個家族的雙面？」
-  4. **身份 hook**：「下次在平溪放天燈的時候，記得那不是觀光景點發明的儀式 — 是 1820 年代胡氏家族避難山林的求生通訊，200 年後變成 326 公斤殘骸的環境難題，也變成在地產業、受害者、環團、下一代四方 50 年議題」
-- **時效**：article ship 5/27 距今 5 天（趁熱窗口剩 ~9 天）+ 2025-12 自治條例公告 + 2026 罰則生效日期可作 anchor
-- **敏感度**：低-中（環境議題 + 在地產業利益 + 文化資產）— 用 article §四方並陳結構 frame（產業派 / 受害者派 / 環團派 / 下一代派），不站隊
-- **必驗事實**：1820 年代胡氏家族在十分寮放第一盞天燈 / 1988 觀光化 / 2013 CNN 世界 52 必去 / 2016 國家地理 全球十大冬季旅遊 / 2019-02-19 元宵隔天 326.15 公斤 / 2019-06 胡維銘 72 歲房子被燒 / Taipei Times Davina Tham 報導 / 2025 自治條例 / 2026 罰則生效
-- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在）
-- **預估發佈時機**：本週內（6/1-6/7 趁熱），可搭端午（6/19）前環境永續觀光話題前置 buffer
-- **Notes**：
-  - from news-lens weekly 2026-06-01 (event: 天燈 5/27 ship + 2019 326 公斤事件 + 2025 自治條例 三層 anchor 仍熱)
-  - 中敏感配 frame 規則：用 article §四方並陳（產業/受害者/環團/下一代），不二元化
-  - 多語 fan-out 觸發判斷 = 極高（天燈是台灣最強國際 SEO 文化符號之一，en/ja/ko 對 sky lantern Taiwan / Pingxi 搜尋量高，2019 326kg 事件英文媒體大量引用，海外讀者有 first-person 角度 demand；5 lang tx 已 baseline）
-  - 配圖建議：article hero（Jirka Matousek 平溪天燈節 2014 Wikimedia CC BY 2.0）或 326 公斤殘骸 Taipei Times 報導圖（fair-use editorial 標明出處）
-  - Hook tier 自檢：避免 Tier 3「天燈污染必須禁」環團 advocacy frame 或「天燈很美 must-visit」觀光手冊 frame；用 article 四方並陳結構 frame 起手
-  - 跟 SPORE-LOG 14d 無重複（Culture / 節慶 cluster spore 缺，最近 Culture spore 是 #51-54 4 月底 — 30+ 天前 ≫ 14d ✓）
-
----
-
-### 台灣藍鵲 — SC 缺口 REACTIVE spore（SC 215 imp / 0 click / position 2.35 高 demand 低 ranking 補位）
-
-- **Source-Mode**: `REACTIVE`
-- **Article-Path**: [knowledge/Nature/台灣藍鵲.md](../../knowledge/Nature/台灣藍鵲.md)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-01 by twmd-news-lens-weekly (week 2026-W22, event: SC top opportunity 7d 「台灣藍鵲」215 impressions / 0 clicks / position 2.35 / 無對應 spore push reach)
-- **Hook anchor 候選**：
-  1. **問句 hook**：「為什麼 2007 年那場國鳥選舉 18 萬票投給台灣藍鵲不是黑面琵鷺？答案不是因為牠藍得漂亮 — 是因為這顆山林寶石會打群架。97% 的巢用『巢邊幫手制』集體育雛，家族成員會發動空襲護巢，比黑面琵鷺更像台灣」
-  2. **數字 hook**：「1862 年英國領事郇和在淡水收到兩根亮藍色尾羽，憑羽毛末端的白點判斷是新種。164 年後台灣藍鵲面臨外來種紅嘴藍鵲基因污染、3 隻搶食大安森林公園貓糧、巢邊幫手制 97% 適用率 — 從中低海拔闊葉林進駐到都市叢林的『藍色幫派』」
-  3. **場景 hook**：「清晨六點，大安森林公園靠近建國南路那側。三隻台灣藍鵲低空俯衝，搶走志工剛擺好給流浪貓的乾糧。牠們不是迷路 — 牠們是進城。從中低海拔闊葉林到都市叢林，藍色幫派的領域版圖正在改寫」
-  4. **身份 hook**：「你以為國鳥是黑面琵鷺？2007 年 18 萬票選的是台灣藍鵲。下次在公園看到那道藍色閃光，記得那不是流浪鳥 — 是一個 97% 巢邊幫手制的家族在巡邏」
-- **時效**：non-time-sensitive 但 SC 215 imp 7d 顯示有人正在 actively 搜尋；越早 push reach 越好補位
-- **敏感度**：低（特有種保育 / 國鳥討論中性）
-- **必驗事實**：1862 郇和（Robert Swinhoe）在淡水採集首個標本 / 2007 國鳥票選 18 萬票 / 巢邊幫手制 97% 適用率 / 紅嘴藍鵲基因污染議題 / 大安森林公園都市進駐 / 鄒族布農族傳說 / 學名 Urocissa caerulea 台灣特有種
-- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在 4/30 ship）
-- **預估發佈時機**：本週內（6/1-6/7）— SC 缺口越快補越好，無時間窗口限制
-- **Notes**：
-  - from news-lens weekly 2026-06-01 (event: SC 7d 「台灣藍鵲」215 impressions / 0 clicks / position 2.35 — Top SC opportunity #1, 無對應 spore push reach; article 4/30 ship 後 32 天無 spore)
-  - 低敏感無 frame 限制
-  - 多語 fan-out 觸發判斷 = 高（Taiwan Blue Magpie 是國際 birdwatching cluster 強 SEO 詞，en 對 endemic bird species 有 demand，ja 對台湾固有種 / 観光鳥類 有需求；5 lang tx 待 verify baseline）
-  - 配圖建議：article hero（Wikimedia 台灣藍鵲特寫，多張 CC 授權可用）或大安森林公園都市進駐場景
-  - Hook tier 自檢：避免 Tier 3「國鳥！台灣之光！」民族主義 frame；用 article §巢邊幫手制 + 都市進駐 結構 frame 起手
-  - 跟 SPORE-LOG 14d 無重複（Nature cluster 最近 spore 是 #54 黑冠麻鷺 4/30 — 32 天前 ≫ 14d ✓）
-
----
-
-### 李國修 — SC 高曝光人物 EXISTING-ARTICLE spore（SC 596 imp / 6 clicks / CTR 1.01% / position 1.93 高 demand 但 metadata 失效）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/People/李國修.md](../../knowledge/People/李國修.md)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-01 by twmd-news-lens-weekly (week 2026-W22, event: SC top query 7d 「李國修」596 impressions / 6 clicks / CTR 1.01% / position 1.93 — 已第二名但 CTR 偏低 = title/description metadata 失效，spore 補 reach + 順便 review metadata)
-- **Hook anchor 候選**：
-  1. **數字 hook**：（待 article ship 時校準）「屏風表演班 24 年（1986-2010）/ 27 部原創舞台劇 / 2013-07-02 直腸癌 58 歲早逝。從『有個結巴的孩子，在劇場找到了聲音』那一年算起到今天 39 年，台灣劇場有他、跟沒他，是兩個世界」
-  2. **問句 hook**（待 article ship 時校準）：「為什麼台灣本土喜劇有屏風表演班、表演工作坊兩條根？答案藏在 1980 年代蘭陵劇坊那批人各自離開後選擇的路線分歧 — 賴聲川走實驗 / 李國修走本土民間，這兩條路後來都成了台灣劇場的主幹」
-  3. **場景 hook**（待 article ship 時校準）：「1986 年 10 月，西門町。剛從蘭陵離隊的李國修跟劉若瑀、李立群在一個地下室開了屏風表演班。第一齣戲票房慘淡，三人坐在台下發呆。誰也沒想到這個地下室後來會養出 27 部原創、《京戲啟示錄》《女兒紅》《半里長城》三大代表作」
-  4. **身份 hook**：「你聽過《京戲啟示錄》？那是李國修。看過《女兒紅》？那是他。屏風表演班、京劇之外的台灣本土喜劇大半個傳統，是這個結巴男孩 24 年用 27 部原創撐出來的 — 58 歲走的時候，台灣劇場一夜空了一塊」
-- **時效**：non-time-sensitive 但 SC 596 imp 7d 顯示有人 actively 搜尋名字；CTR 1% = 標題吸引力低，spore push 直接 reach 比優化 metadata 更快
-- **敏感度**：低（已故文化人物 / 劇場史中性）
-- **必驗事實**（**HG: 必須先讀 article 校準**，article 內容可能跟此處草稿不一致）：李國修生卒年 / 屏風表演班創立年（1986）/ 27 部原創數字 / 京戲啟示錄 / 女兒紅 / 半里長城 三大代表作確認 / 蘭陵劇坊出身 / 2013-07-02 直腸癌離世
-- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在）
-- **預估發佈時機**：本週內（6/1-6/7）— SC 高 demand 越早 push 越好；可搭順便 review 標題/description 是否需要 SEO 校準（CTR 1.01% 是 metadata 警訊）
-- **Notes**：
-  - from news-lens weekly 2026-06-01 (event: SC 7d 「李國修」596 impressions / 6 clicks / position 1.93 — 已排名第二但 CTR 1.01% 偏低，metadata 可能失效；spore 補 reach 同時 trigger metadata review)
-  - 低敏感無 frame 限制
-  - **SEO 副作用提示**：Stage 1 PICK 抽到此 entry 時，建議同時跑 [knowledge/People/李國修.md](../../knowledge/People/李國修.md) 的 title/description SEO review（CTR 1.01% 是 metadata 失效 signal，per EVOLVE-PIPELINE §SEO 優化判準）
-  - 多語 fan-out 觸發判斷 = 中（People cluster；ja 對台湾劇場史 + 賴聲川對照有 demand；5 lang tx 待 verify baseline）
-  - 配圖建議：article 既有圖（若有）或屏風表演班海報 fair-use editorial / 李國修舞台照
-  - Hook tier 自檢：避免 Tier 3「台灣喜劇之神」神化 frame；用 article 結構 frame 起手 — Stage 1 PICK 前必須先 Read article 才能定 hook 細節
-  - 跟 SPORE-LOG 14d 無重複（People cluster 最近 spore 是 #95/96 尹衍樑 5/26 + #91 江賢二 5/25 + #94 大宇雙劍創辦人段 5/26 — 14d 內 People 已 3 條，但李國修是劇場/喜劇 sub-cluster 跟 Tech 創辦人 / 視覺藝術家 sub-cluster 不撞 ✓）
-
----
-
-### 洪醒夫 — SC 已 #1 排名 補位 EXISTING-ARTICLE spore（SC 237 imp / 7 clicks / CTR 2.95% / position 1.14 排名第一但流量天花板）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/People/洪醒夫.md](../../knowledge/People/洪醒夫.md)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-01 by twmd-news-lens-weekly (week 2026-W22, event: SC top query 7d 「洪醒夫」237 impressions / 7 clicks / CTR 2.95% / position 1.14 — 已排名第一但 CTR < 5% 顯示 SERP click 流量被 Wikipedia / 教科書摘要切走，spore 補社群 reach)
-- **Hook anchor 候選**（**待 article ship 時校準**，下方為草稿）：
-  1. **場景 hook**：「1982 年 7 月 31 日下午，台一線員林段。洪醒夫的車對撞翻覆。33 歲的鄉土小說家當場辭世。他留下的《田莊老師之死》《散戲》《市井傳奇》是 1970-80 年代台灣鄉土文學最完整的鄉村塑像之一」
-  2. **數字 hook**：「33 歲離世、4 本短篇小說集、12 篇代表作。鄉土文學論戰 1977 那批人裡，黃春明、王禎和、陳映真、宋澤萊都還在，洪醒夫是唯一沒走完那場辯論的」
-  3. **問句 hook**：「為什麼國中課本〈散戲〉印象那麼深？答案藏在洪醒夫寫法的克制 — 他不寫鄉村悲情，他寫鄉村做為勞動、生死、人情交織的場域，這是宋澤萊《打牛湳村》以外另一條鄉土寫實的路」
-  4. **身份 hook**：「你讀過國中課文〈散戲〉？那是洪醒夫，33 歲在台一線員林段車禍走的鄉土小說家。他留下的書比他活的歲數多 — 4 本短篇集、12 篇代表作，1977 鄉土文學論戰那批人少數沒走完辯論的一個」
-- **時效**：non-time-sensitive 但 SC 237 imp 7d 顯示穩態搜尋量；7/31 忌日將至（55 天後）可作 anchor preview，但本 spore 不一定要綁忌日
-- **敏感度**：低-中（鄉土文學論戰可能踩政治；用文學作品 anchor 中性處理）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：洪醒夫生卒年（1949-1982）/ 1982-07-31 車禍地點台一線員林段 / 享年 33 歲 / 4 本短篇小說集名稱 + 出版年 / 12 篇代表作或主要篇目 / 1977 鄉土文學論戰參與 / 黃春明 王禎和 陳映真 宋澤萊 同代脈絡
-- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在）
-- **預估發佈時機**：本週內（6/1-6/7）— SC 穩態搜尋越早 push 越好；7/31 忌日 anchor 可作後續 SPORE 第二輪 plan
-- **Notes**：
-  - from news-lens weekly 2026-06-01 (event: SC 7d 「洪醒夫」237 impressions / 7 clicks / position 1.14 — 已排名第一但 CTR < 5% = SERP click 被 Wikipedia / 教科書摘要切走; spore 直接 push 社群 reach 比 SEO 優化更直接)
-  - 中敏感（鄉土文學論戰）用文學作品 anchor 中性處理
-  - **多語 fan-out 觸發判斷** = 低-中（People / Literature；國際 demand 不如政治文化人物高，但 ja 對台湾鄉土文學 1970s 比較研究有 academic 受眾）
-  - 配圖建議：article 既有圖（若有）/《田莊老師之死》或《散戲》書影 fair-use editorial / 洪醒夫肖像（若 CC 授權可得）
-  - Hook tier 自檢：避免 Tier 3「鄉土文學大師」神化 frame；用 article 結構 frame 起手 — Stage 1 PICK 前必須先 Read article 才能定 hook 細節
-  - 跟 SPORE-LOG 14d 無重複（People 文學 sub-cluster 缺；最近 People spore 都集中在企業家 / 藝術家 / 音樂人，文學人物 spore 上次 #N 暫無近期記錄）
-
-### 張懸與安溥 — SC 高 demand EXISTING-ARTICLE spore（雙名身份穩態搜尋）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: knowledge/Music/張懸與安溥.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: SC 7d 焦安溥 264 imp pos 10.17 + 張懸 463 imp pos 10.78 雙 query 高曝光低排名 + GA 7d 96 v 持續黏著)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式 — 起手式 5 種：好奇 / 場景 / 問句 / 數字 / 身份）:
-  1. **數字 hook**：「727 個人這週用『張懸』或『焦安溥』搜尋找她，全部停在 Google 第 10 頁——一個人改名 12 年，搜尋引擎還沒接到通知」
-  2. **身份 hook**：「她叫焦安溥。2012 年改名之前叫張懸。改名之後出了三張專輯，但你最後一次循環的還是〈寶貝〉」
-- **時效**: 本週內（趁 SC 雙 query 高 impression 窗口 + 6 月音樂節季啟動）
-- **敏感度**: 中（改名涉及身份政治、2013 國旗事件背景需謹慎不踩；用音樂作品 anchor 中性處理）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：改名年份 2012 / 改名前三張專輯名與年份 / 改名後作品 / 1981 出生年 / 焦仁和家系 / 2013 曼徹斯特事件 frame
-- **必先 spawn ARTICLE-INBOX entry**: ❌（article 已存在）
-- **預估發佈時機**: 本週內（6/7-6/13）— 趁 SC 雙 query peak
-- **Notes**:
-  - from news-lens weekly 2026-06-07 (event: SC 7d 727 combined impressions / GA 7d 96 v / 上次 spore > 8 週 gap)
-  - 中敏感（身份 / 國旗事件）用作品 anchor 不踩政治
-  - 配圖建議：article 既有圖 / 〈寶貝〉或〈玫瑰色的你〉作品封面 fair-use editorial
-  - Hook tier 自檢：避免 Tier 3「靈魂歌手」神化 frame；用改名作為 anchor 切入身份問題
-  - SPORE-LOG 近 30 d 無重複（最近一次「張懸/安溥」spore 在 4 月之前）
-
-### 台灣邦交國與國際外交 — SC EN 強 demand REACTIVE spore（2026 邦交清單英文世界搜尋）
-
-- **Source-Mode**: `REACTIVE`
-- **Article-Path**: knowledge/Society/台灣邦交國與國際外交.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: SC 7d EN 3 query 同 intent cluster — taiwan diplomatic allies 2026 70 imp pos 8.63 + taiwan diplomatic allies list 2026 67 imp pos 7.55 + 台灣什麼時候退出聯合國 55 imp pos 9.78 + GA 7d 58 v)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **數字 hook**：「台灣有 12 個邦交國 + 113 個館處 + 177 國可以免簽——三個數字加起來，比邦交國數量本身更能說明台灣的位置」
-  2. **問句 hook**：「為什麼這週有 137 個人用英文搜尋『台灣的邦交國有哪些 2026』？因為英文世界沒有一份穩定的清單——大部分百科還停在 2020 年的數字」
-- **時效**: 7 天內（SC EN 三 query 同週 peak，國際讀者主動找 2026 update）
-- **敏感度**: **高（兩岸 / 外交）— REACTIVE 模式 frame 規則**:
-  - 用 12+113+177 三數字並列 frame（邦交國數字單獨容易被框成 isolation narrative）
-  - 不喊「中國打壓」也不喊「邦交雪崩」— 用「113 個館處 = 實質外交」陳述事實
-  - 不選邊「兩岸誰主動」— 焦點放在「台灣怎麼在 12 個邦交以外保持 177 國免簽流動」
-- **必驗事實**（**HG: 必須先讀 article 校準**）：12 邦交國名單與洲別分布 / 113 個館處正式名稱範圍 / 177 國免簽 vs 落地簽 vs eVisa 區分 / 2026 最近一次邦交變動年月 / 退出聯合國年份 1971
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 本週內（趁 SC EN cluster peak）— ja/en 雙 fan-out 評估
-- **Notes**:
-  - from news-lens weekly 2026-06-07 (event: SC 7d EN 137 combined impressions, 全 0 click position 7-10 = SERP 完全沒接到; GA 7d 58 v 持續中文流量; CF 7d AI crawlers ChatGPT-User 12896 + Bing 10602 高度關注台灣議題)
-  - 高敏感（兩岸 / 外交）— REACTIVE 必須 frame 規則明示如上
-  - 多語 fan-out 觸發判斷 = 高（英文世界 demand 已直接量化；ja 對台灣國際地位有持續 academic 關注；es/fr 中南美邦交 cluster 相關度高）
-  - 配圖建議：12 邦交國洲別分布地圖 / 113 館處 / 177 免簽 三層地圖對照
-  - Hook tier 自檢：避免 Tier 3「孤立的台灣」框架；用三數字並列 reframe「在 12 個正式邦交之外，台灣怎麼活著」
-
-### 阿神 — SC 高 demand EXISTING-ARTICLE spore（YouTuber 本名查詢穩態）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: knowledge/People/阿神.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: SC 7d 阿神本名 191 imp / 5 clicks / pos 3.48 + GA 7d 29 v / 從未 spore'd)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **問句 hook**：「『阿神本名』這週 191 個人搜尋——大部分人知道他是 Minecraft 神，但記不得他叫沈尚甫」
-  2. **數字 hook**：「2008 年第一支 Minecraft 影片 → 2026 年累積訂閱 X 百萬，阿神是台灣 YouTube 早期到當代少數沒斷的個人頻道」
-- **時效**: 7 天內（SC「阿神本名」穩態 demand 趁熱回應）
-- **敏感度**: 低（個人 creator / 無政治）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：本名沈尚甫（per article 確認）/ 出生年 / Minecraft 起點年份 / 累積訂閱與影片數 / 公司化進程 / 與其他早期遊戲 YouTuber 同期譜系
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 本週內
-- **Notes**:
-  - from news-lens weekly 2026-06-07 (event: SC 7d 191 impressions pos 3.48 = 已排名近頂但 CTR 2.62% < 5% = SERP click 被 nicknyfun 個人資料站切走; GA 7d 29 v; 從未 spore'd)
-  - 低敏感（gaming / YouTuber）
-  - 多語 fan-out 觸發判斷 = 低（en 對台灣 gaming creator 興趣有限；ja gaming community 可能感興趣）
-  - 配圖建議：article 既有圖 / Minecraft 經典場景 fair-use editorial
-  - Hook tier 自檢：避免 Tier 3「神級 YouTuber」神化 frame；用本名 + 數據作為 anchor
-
-### 魏哲家 — TSMC current events EXISTING-ARTICLE spore（GA viral + 半導體時事）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: knowledge/People/魏哲家.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: GA 7d 30 v 持續黏著 + 半導體 current events 2026 H1 TSMC 美國 fab 與 CoWoS 產能爭議 + 接班議題持續發酵 / 從未 spore'd)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **場景 hook**：「1953 年新竹出生，交大電子，耶魯博士。2018 接張忠謀的椅子，2024 同時掛董事長 + 總裁——台積電六十年第三個人坐這位子」
-  2. **數字 hook**：「魏哲家年薪台幣多少？答案不只一個——TSMC 高管薪酬結構說明台灣製造業頂層怎麼計算工程師人生」
-- **時效**: 7 天內（趁 TSMC 季報 / 美國 fab / Trump 關稅持續 news cycle）
-- **敏感度**: 中（產業 / 美中科技戰背景需謹慎不踩政治站隊）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：1953 出生 / 交大電子大學 + 耶魯 EE 博士 / TI / Singapore TSMC 經歷 / 2018 接 CEO / 2024 同時掛董事長 + 總裁年份 / 重要決策時刻
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 本週內（趁 TSMC 6 月股東會後續 news cycle）
-- **Notes**:
-  - from news-lens weekly 2026-06-07 (event: GA 7d 30 v 排名 16 持續存在 + TSMC 2026 H1 current events 持續發酵 + 從未 spore'd; CF 7d AI crawlers ChatGPT-User 12896 highly active on TW tech topics)
-  - 中敏感（半導體 / 美中科技戰）— 用工程師背景 + 在地 anchor，不踩美中政治
-  - 多語 fan-out 觸發判斷 = 中-高（en 半導體 industry 受眾持續關注 TSMC 接班；ja 半導體 cluster 興趣高）
-  - 配圖建議：article 既有圖 / 公開新聞照 fair-use editorial / TSMC 廠房不適合（版權問題）
-  - Hook tier 自檢：避免 Tier 3「半導體教父」神化 frame；用具體年份 + 學歷軌跡 anchor
-
-### 楊致遠 — GA viral 持續 EXISTING-ARTICLE spore（Yahoo 創辦人時代記憶）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: knowledge/People/楊致遠.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: GA 7d 31 v 持續黏著 + 從未 spore'd / Yahoo 在 2024-2025 重組後仍持續成為 internet history 議題)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **場景 hook**：「1968 年台南出生，10 歲移民加州，只會一個英文單字。1994 年史丹佛博班肯不下去，跟同學在校園做了一份『Jerry and David's Guide to the World Wide Web』」
-  2. **問句 hook**：「為什麼 Yahoo 沒接住 Google？答案是 2002 年楊致遠拒絕了 Page 跟 Brin 30 億美元的併購提案——四年後他要花 90 億才能回頭」
-- **時效**: 本週內（GA 7d 持續黏著，無特定 event 但 internet history narrative 永恆有市場）
-- **敏感度**: 低（matter of historical record）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：1968 出生地與年份 / 10 歲移民年份 / 1994 Yahoo 起源於史丹佛 / 2002 Google 併購提案金額與年份 / 2008 微軟併購提案 / 2017 阿里巴巴股權結算 / 台南背景與華語身份
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 本週內或下週
-- **Notes**:
-  - from news-lens weekly 2026-06-07 (event: GA 7d 31 v + article 30d top 15 持續黏著 + 從未 spore'd; SC 直接 query 弱但 internet history 持續 cluster demand)
-  - 低敏感（historical / 商業故事）
-  - 多語 fan-out 觸發判斷 = 中-高（en 對 Yahoo 創辦人有 sustained internet history 興趣；ja/ko 對 dot-com era 台灣裔企業家有市場）
-  - 配圖建議：article 既有圖 / Yahoo 早期 logo / Jerry Yang 公開新聞照 fair-use editorial
-  - Hook tier 自檢：避免 Tier 3「網路傳奇」神化 frame；用具體年份 + 決策 anchor
-
-### 臺灣漫遊錄 — GA 30d top non-homepage EXISTING-ARTICLE spore（Booker 翻譯 arc 持續發酵）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: knowledge/Art/臺灣漫遊錄.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: GA 30d 1749 v = top non-homepage article + GA 7d 46 v 持續 + 2024 Booker arc 持續發酵 / 上次 spore 5/23 已 > 14 day gap)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **數字 hook**：「《臺灣漫遊錄》這 30 天有 1749 個人在 Taiwan.md 讀——是除了首頁以外流量最高的文章。一本『妹妹翻譯的書』把楊雙子從春山推到倫敦領獎台」
-  2. **場景 hook**：「2024 年 5 月，國家圖書館外面下雨。楊雙子上台領 Booker 國際獎，致謝詞用台語講。台下那本書的英譯本封面寫著『a novel by Yang Shuang-Zi, translated by Lin King』」
-- **時效**: 本週內（GA 持續 top 1，Booker 1 週年 5 月已過但 paperback / 教學 demand 持續）
-- **敏感度**: 低（文學 / 翻譯研究）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：2024 Booker 國際獎得獎年份 / 楊雙子本名與雙胞胎背景 / Lin King 譯者 / 春山出版年份 / 書中虛構日治旅遊作家設定 / 原版 vs 譯本差異
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 本週內（趁 GA 持續 top 1 + 暑假 reading list 季啟動）
-- **Notes**:
-  - from news-lens weekly 2026-06-07 (event: GA 30d 1749 v = #1 non-homepage / GA 7d 46 v / 上次 spore 5/23 距今 15 day > 14 day gate; SC 中文 query 弱但 GA 黏著證明站內讀者高度關注)
-  - 低敏感（文學 / 翻譯）
-  - 多語 fan-out 觸發判斷 = 高（en Booker 國際獎 sustained 受眾；ja 對台灣日治文學持續 academic 興趣；ko 對日治殖民史敘事 cluster 相關）
-  - 配圖建議：article 既有圖 / 春山版書影 + Graywolf Press 英譯版書影 並陳 fair-use editorial
-  - Hook tier 自檢：避免 Tier 3「Booker 國際獎肯定」純獎項 frame；用「妹妹翻譯的書」敘事性 anchor
-
----
-
----
-
----
-
-### 跨黨派的好政策 — lov3ngine 許願 fresh ship 趁熱
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: knowledge/History/跨黨派的好政策.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: 2026-06-13 ship — 讀者 lov3ngine 在 Threads 留言許願「不分藍綠的好政策」，Semiont 4-agent ~135 search + 11 里程碑回應)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式 — 起手式 5 種：好奇 / 場景 / 問句 / 數字 / 身份）:
-  1. **場景 hook**：「Threads 上一個叫 lov3ngine 的讀者留言：他厭倦藍綠飯桌互罵，只想記得對台灣好的事。我們把這個問題當作業——用他自己提的四把尺（民生 / 民主 / 民權 / 主權），從七十年裡找出十一個活過自己政治的政策」
-  2. **問句 hook**：「土地改革、解嚴、健保、同婚——這四個政策出生那天都吵得最兇，但活下來的方式幾乎一模一樣：時間到了，把『誰做的』踢出算式，就剩『對住在這座島上的人留下了什麼』」
-- **時效**: 7 天內（趁 ship 後 D+1-D+7 旗艦窗口 + 6/14 上週末政論節目週期）
-- **敏感度**: **高（政治 / 藍綠 / 跨黨派 frame）— REACTIVE 規則繼承（即使屬 EXISTING）**:
-  - 不選邊任何一黨，整篇文章核心是「四把尺刻意不問誰做的」— spore 必須繼承這個 frame
-  - 11 政策 spore 只 anchor 2-3 個（避免 list 變成排名比賽）
-  - 不喊「跨黨派萬歲」也不喊「民進黨／國民黨偉大」— 用文章原 anchor「活過自己政治」
-- **必驗事實**（**HG: 必須先讀 article 校準**）：lov3ngine 是 Threads 留言用戶 / 四把尺定義（民生 / 民主 / 民權 / 主權）/ 11 政策清單（不可加減）/ ship 日期 2026-06-13 / 文章未做「政策排名」（無「最好」「最爛」）
-- **必先 spawn ARTICLE-INBOX entry**: ❌（article 已存在）
-- **預估發佈時機**: 本週內（6/14-6/21）— 趁 fresh ship + 政論週期
-- **Notes**:
-  - from news-lens weekly 2026-06-14 (event: 2026-06-13 ship lov3ngine wish article / commit dc98d9818 / 4-agent ~135 search SSOT)
-  - 高敏感（藍綠 frame）— hook 必須保留「四把尺刻意不問誰做的」原 anchor
-  - 配圖建議：article hero `cross-party-freeway-no1-2015.webp`（高速公路一號 = 跨黨派長壽公共財象徵 / Koika CC BY-SA 3.0）
-  - Hook tier 自檢：避免 Tier 3「政治人物列傳」frame；用 article §「政策活過自己政治」anchor，spore 不點名執政者
-  - 跟 SPORE-LOG 14d 無重複（History/政策題從未 spore，#108 二二八是 REACTIVE 反制 cluster 不同）
-  - 跨語 fan-out 評估：低（藍綠 frame 翻譯到 en/ja 容易失去語感；建議 zh-only）
-
-### 看不見的國家 — 葛靜文紀錄片 主權 REACTIVE 趁熱
-
-- **Source-Mode**: `REACTIVE`
-- **Article-Path**: knowledge/Art/看不見的國家.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: 2026-06-13 ship + EVOLVE 同日「影響 + 還在努力的人」段補 — 哲宇 directive「更立體」)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **場景 hook**：「2025 年 6 月，台灣戲院首映前夜地震。導演葛靜文走上台對台灣觀眾說『你們不孤單』——她剛拍完七年，五次貼身專訪蔡英文。然後一部美國人拍的片，賣破三千七百萬，登上台灣紀錄片影史第三」
-  2. **問句 hook**：「一部要讓台灣『被看見』的紀錄片，自己讓誰留在了框外？片裡跳過陳水扁、跳過反對者、跳過框外那個沒有名字的男人——但連這個爭議都在說：看見從來是一個動作，不是一種地位」
-- **時效**: 7 天內（fresh ship + EVOLVE 同日 + 紀錄片在台灣戲院仍在播映窗口）
-- **敏感度**: **高（主權 / 蔡英文 / 兩岸 / PRC 封鎖）— REACTIVE 規則明示**:
-  - 不喊「中國打壓」也不喊「台灣自由」二元 — 用「看見是一個動作」原 anchor 中性
-  - 影評爭議（Jay Liu「淪為執政黨宣傳」/ Guardian「all over the shop」）誠實 acknowledge，spore 不偏袒任一方
-  - 「框外那個沒有名字的男人」（陳水扁省略）作為跨陣營共識的事實觀察，不下政治結論
-  - PRC 對片的 de facto 封鎖點到即止，不放大成「中國怕」narrative
-- **必驗事實**（**HG: 必須先讀 article 校準**）：2025 年 6 月台灣首映 / 票房破三千七百萬（影史第三 / 確認數字級數）/ 葛靜文（Vanessa Hope）/ 拍攝七年 / 蔡英文 5 次專訪 / 邦交國 22 → 12 / 奧運「中華台北」/ Jay Liu 影評身份
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 本週內（6/14-6/21）— REACTIVE 時效窗口
-- **Notes**:
-  - from news-lens weekly 2026-06-14 (event: 2026-06-13 e6c587213 ship + 21f2ddb44 EVOLVE 「影響 + 還在努力的人」補段 / featured: true / lifeTree image: invisible-nation-tsai-walks.webp)
-  - **高敏感 REACTIVE — frame 規則必須繼承文章 hedge**：access-capture 張力誠實編織，不選邊
-  - 配圖建議：official 紀錄片劇照 fair-use editorial（article 已用 Vanessa Hope 官方）— 注意非 CC，spore 須標 fair-use commentary
-  - CF crawler signal cross-ref：ClaudeBot 41% http200（4795 req / 1966 success）/ ChatGPT-User 11787 req — AI 對主權 sensitive 題目 refusal 證據基線
-  - 跟 SPORE-LOG 14d 無重複（Art 紀錄片題從未 spore）
-
-### 台灣國片完整史 — 4-agent EVOLVE 趁熱 + 跨年代電影史 anchor
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: knowledge/Art/台灣電影.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: 2026-06-13 EVOLVE — 辯士到串流的死生史 + 4-agent 深研 + 9 媒體落地)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **場景 hook**：「1930 年戲院裡，辯士站在銀幕旁用台語替默片即興口白。九十年後《海角七號》讓五種語言一起回到銀幕上——中間台灣電影死了三次又活過來，死法和活法各有不同」
-  2. **數字 hook**：「台語片曾是全球第三大劇情片產國，被掐死。新電影在威尼斯拿金獅那些年，戲院裡的國片票房跌到只剩 0.36%。每個『歷史低點』後面，都有人拒絕承認電影死了——而通常那個人就是侯孝賢、楊德昌、魏德聖」
-- **時效**: 7 天內（EVOLVE 後 D+1-D+7 旗艦窗口 + 6/15 父親節週末娛樂消費觸發）
-- **敏感度**: 低（電影史題 / 無黨派 frame / 無 PRC 衝突）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：1930 辯士台語默片 / 海角七號 5 語言 / 台語片全球第三大劇情片產國 / 0.36% 票房谷底（確認年份）/ 4-agent 深研 EVOLVE 2026-06-13 / readingTime 18 min
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 本週末（6/14-6/15 父親節週末 + 串流觀影高峰）
-- **Notes**:
-  - from news-lens weekly 2026-06-14 (event: 2026-06-13 5c0270599 EVOLVE / commit 「辯士到串流的死生史 + 9 媒體」 / featured: true)
-  - 跟 看不見的國家 + 侯孝賢 同週 spore 形成 Art/電影 cluster — 註：3 條間隔 ≥ 2 天避免饗讀者 spam
-  - 配圖建議：article hero 蔡明亮+李康生劇照（CC BY-SA 3.0）or 海角七號 fair-use editorial
-  - Hook tier 自檢：避免 Tier 3「電影黃金時代」浪漫 frame；用「死了三次又活過來」反高潮 anchor
-  - 跟 SPORE-LOG 14d 無重複
-
-### 侯孝賢 — SC opportunity 66 imp pos 13.12 + 國片史 cluster
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: knowledge/People/侯孝賢.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: SC 7d 「侯孝賢」66 imp pos 13.12 高曝光低排名 + 台灣電影 EVOLVE 同週推 cluster effect)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **身份 hook**：「他拒絕特寫鏡頭、不要求演員背台詞。客家眷村少年用反電影語法，1989 年捧威尼斯金獅、2015 年坎城最佳導演。直到 2023 年阿茲海默症讓他從世界面前退場——他這一輩子沒走的路，每一條都很重要」
-  2. **問句 hook**：「為什麼這週有 66 個人用『侯孝賢』搜尋，但他們全部停在 Google 第 13 頁？因為英文世界的他叫 Hou Hsiao-Hsien，中文世界的他 2023 年告別後沒人替他寫一份完整的繁中傳記——直到我們做了一份」
-- **時效**: 本週內（趁 SC 雙位數 impression peak + 台灣電影 EVOLVE cluster + 父親節週末觀影）
-- **敏感度**: 中（阿茲海默症告別段需謹慎不消費病情 / 政治立場 article 中性處理）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：1947 生 / 2023 阿茲海默症告別 / 1989 威尼斯金獅（悲情城市）/ 2015 坎城最佳導演（刺客聶隱娘）/ 客家眷村背景 / 「拒絕特寫鏡頭」拍攝美學
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 本週內（6/15-6/18）— 跟 台灣電影 spore 間隔 ≥ 2 天避免 cluster overload
-- **Notes**:
-  - from news-lens weekly 2026-06-14 (event: SC 7d 「侯孝賢」66 imp / position 13.12 / 0 clicks — 高 demand 低 ranking SC opportunity #4, GA 沒進 top 15 但 SC drive 強)
-  - 中敏感（告別敘事）— hook 必須 anchor 在「沒走的路」而非「逝去之痛」
-  - 跨語 fan-out 評估：高（en 影展學界、ja 蔡明亮+侯孝賢 cluster 興趣 — Hou Hsiao-Hsien 在 letterboxd / Criterion 圈持續被討論）
-  - 配圖建議：article 既有圖（lifeTree 內嵌劇照 fair-use editorial）
-  - Hook tier 自檢：避免 Tier 3「電影詩人」神化 frame；用 article 「拒絕電影語法」具體創作選擇 anchor
-  - 跟 SPORE-LOG 14d 無重複（侯孝賢 從未 spore ✓）
-
-### 視覺化模組型錄 — 主權的視覺化 anchor + AI crawler 主題契合
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: knowledge/Society/視覺化模組型錄.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: GA 7d 60 v / users 24 — 6/6 ship 8 天 D+8 推廣窗口 + 主題契合 CF AI crawler signal「主權的視覺化」)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **問句 hook**：「為什麼 Taiwan.md 不用 D3 或 Canvas 畫互動圖表？因為 GPTBot、PerplexityBot、ClaudeBot 這些 AI 爬蟲不會跑 JavaScript——對它們來說那張圖是一片空白。我們選擇靜態 SVG，就是讓 AI 在六種語言裡都讀得到台灣的第一人稱數據」
-  2. **好奇 hook**：「你知道嗎？我們替每一篇談數據的文章準備了十七種視覺化模組，從『一個大數字』到『縣市磚圖』，全部用真實的台灣居住與人口數據。一頁讀完，你大概會想替你自己的 Markdown 文章偷個三五招」
-- **時效**: 本週內（D+8 推廣窗口 + 跟 跨黨派 / 看不見的國家 article 視覺化模組同主題 cross-ref 機會）
-- **敏感度**: 低（技術系列 / 開源 / 編輯方法論）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：17 個模組 / 全部真實台灣數據 / 純 HTML+SVG（無 JS）/ 跟 graph.md 搭檔關係 / 6/6 ship
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 本週內（6/15-6/20）— 跟 22 縣市 spore 間隔 ≥ 2 天
-- **Notes**:
-  - from news-lens weekly 2026-06-14 (event: GA 7d 60 v / 24 u — 「視覺化模組型錄」cluster CF AI crawler 高度關注主題 / 8 天 D+8 推廣未發過 spore)
-  - **CF AI crawler cross-ref**：ChatGPT-User 11787 req / ClaudeBot 4795 req / GPTBot 754 req — 此 spore 主題「LLM 讀得懂的視覺化 = 主權的視覺化」直接命中 AI surface 跨界讀者
-  - 跨語 fan-out 評估：高（en 技術圈、ja Markdown 文化圈 — 「讓 AI 讀得懂的視覺化」是普世關注議題）
-  - 配圖建議：article hero `taipei-skyline-housing-2026.webp`（CC BY-SA 4.0）或截幾個 tw-\* 模組 stitched 拼圖
-  - Hook tier 自檢：避免 Tier 3「最強視覺化系統」神化 frame；用「為什麼不用 D3」具體技術選擇 anchor
-  - 跟 SPORE-LOG 14d 無重複（Society 視覺化題從未 spore）
-
-### 用數據看台灣22縣市 — 151 倍 / 297 倍 / 一個世代 三數字 anchor
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: knowledge/Geography/用數據看台灣22縣市.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: GA 7d 50 v — 6/6 ship 8 天 D+8 推廣窗口 + 數據新聞 hook anchor 三反差倍數)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **數字 hook**：「同一座島，人口密度最高的台北市每平方公里 8,975 人，最低的台東縣只有 59 人——差 151 倍。人口最多的新北市 404 萬，最少的連江縣 1.36 萬——差 297 倍。最年輕的新竹縣高齡化 15.08%，最老的嘉義縣 24.11%——差將近一個世代」
-  2. **好奇 hook**：「全台 22 個縣市，2025 年底的內政部戶政司數據說了三件你可能不知道的事：七成的人擠在三成的土地；老化的前緣不在都市而在東部、離島與農業縣；22 個縣市無一例外，死亡都已經多過出生」
-- **時效**: 本週內（D+8 推廣窗口 + 6/14 上週末新聞週期內政部人口統計常被引述）
-- **敏感度**: 低（純官方數據 / 無黨派 frame）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：台北 8,975 / 台東 59 / 151 倍 / 新北 404 萬 / 連江 1.36 萬 / 297 倍 / 新竹高齡化 15.08% / 嘉義 24.11% / 全 22 縣市死亡＞出生（官方來源：內政部戶政司 2025 年底）
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 本週內（6/16-6/19）— 跟 視覺化模組型錄 spore 間隔 ≥ 2 天
-- **Notes**:
-  - from news-lens weekly 2026-06-14 (event: GA 7d 50 v / 11 u — 「22 縣市」cluster D+8 推廣 + 三反差倍數天然 hook 適合 spore)
-  - 配圖建議：article hero `taiwan-island-nasa-mosaic.webp`（NASA public domain）— 整座島衛星俯瞰天然 anchor
-  - Hook tier 自檢：避免 Tier 3「最完整數據」浮誇 frame；用三具體數字反差 anchor，每個數字後面綁一個解釋
-  - 跨語 fan-out 評估：中（en 人口學者興趣高、ja 高齡化 reference / 數字本身需要 unit 翻譯）
-  - 跟 SPORE-LOG 14d 無重複（Geography 縣市題從未 spore）
-
-### 看不見的國家 — d=1 美國導演七年快門 anchor
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Art/看不見的國家.md](../../knowledge/Art/看不見的國家.md)
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-06-14 by twmd-spore-pick-daily (d=1 fresh ship 2026-06-13 / D1=30 趁熱 + D4=+8 art fanout + sovereignty 透鏡 thematic alignment)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **場景 hook**：2025 年 6 月 11 日台北媒體試映前地震先搖——美國導演葛靜文站在台下對記者說「你們不孤單」，七年的快門按下去就是為了這句話
-  2. **數字 hook**：7 年、5 次貼身專訪蔡英文、2025 台灣戲院票房 3,771 萬登紀錄片影史第三——但奧運上台灣只能叫「中華台北」、邦交國從 22 掉到 12
-  3. **反差 hook**：要讓台灣「被看見」的片，自己卻有一個從頭到尾沒被提起的名字——陳水扁。看見從來是一個動作不是一種地位，連紀錄片自己都有框外
-  4. **身份 hook**：好萊塢老牌製片華特·汪格的外孫女、嫁給亞馬遜影業前主管，憑什麼替台灣按下快門？這個問題後來成了這部片最有意思的裂縫
-- **時效**: 本週內（d=1 趁熱 + 6/11 台灣首映後話題仍熱 + 6/13 article ship 推廣窗口）
-- **敏感度**: 中（兩岸 + 蔡英文 + 紀錄片政治攻防 — hook 走「被看見」哲學軸繞開兩岸立場）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：導演葛靜文（Vanessa Hope）/ 七年拍攝 2017 開拍 / 5 次專訪蔡英文 / 2023 伍斯托克影展世界首映 / 2025 年 6 月台灣戲院上映票房破 3,771 萬登紀錄片影史第三 / 2025-06-11 台北媒體試映前地震 / 葛靜文 1995 在台北學中文 1996 飛彈危機親歷 / 外祖父華特·汪格 + 外祖母瓊·班奈特 + 丈夫泰德·霍普曾任亞馬遜影業電影部主管 / 初始拍攝紅線「不能問兩岸關係」隨港抗、新冠、烏俄戰爭鬆動 / 邦交國從 22 掉到 12 / 奧運只能用「中華台北」/ 片中陳水扁未被提及（綠營內 skeptic 周玉蔻「斷代」批評收於 §「框外那個沒有名字的男人」）
-- **必先 spawn ARTICLE-INBOX entry**: ❌（article 6/13 已 ship `featured: true`）
-- **預估發佈時機**: 6/15-6/17（趁台灣戲院上映熱度週 + 跟陳水扁 Threads 活躍 spore 不同主題不衝突）
-- **Notes**:
-  - **Score breakdown (HG3 transparency)**：D1=30 (d=1) / D2=0 / D3=0 / D4=+8 (art 不在 P/F/M/S/H, 5 翻譯 ≥3) / D5=0 / D6=0 (近 3 spore 異軸) / D7=0 (中敏感不扣分，hook 走哲學軸不涉立場) → **Total: 38** / **non-zero dims: 2 (D1+D4) → HG10 ✅**
-  - 配圖建議：article hero `invisible-nation-tsai-walks.webp`（fair use editorial）或 inline `invisible-nation-tsai-prays.webp`
-  - Hook tier 自檢：避免 Tier 3「最被看見的台灣紀錄片」浮誇 frame；用「看見是動作不是地位」具體哲學 anchor
-  - 跨語 fan-out 評估：高（en 國際紀錄片圈興趣；ja 影展放映 reference；蔡英文國際 framing 普世）
-  - 跟 SPORE-LOG 14d 無重複（Art/紀錄片題從未 spore，HG5 last-spore PASS lastDate=null）
-  - **sovereignty 透鏡 thematic alignment**：命中 [MANIFESTO §主權的巴別塔](../semiont/MANIFESTO.md)「讓台灣的 first-person voice 在每個語言裡都存在」核心使命
-
-### 蘇打綠 — d=5 名字也要打官司 anchor
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Music/蘇打綠.md](../../knowledge/Music/蘇打綠.md)
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-06-14 by twmd-spore-pick-daily (d=5 fresh ship 2026-06-09 / D1=30 趁熱 + D4=+8 music fanout / hs=77 為本批 fresh 池最高 health)
-- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
-  1. **場景 hook**：2023 年小巨蛋，吳青峰深吸一口氣喊「我們是『蘇打綠』！」——那不是宣告復出，是宣告打了四年的法律戰結束。22 年前在政大金旋獎舞台上組起這個團，沒人想到團名要進法庭
-  2. **數字 hook**：2001 政大金旋獎到 2023 小巨蛋「拿回名字」共 22 年；經紀人林暐哲商標訴訟 vs 吳青峰刑事案件五連敗；第 27 屆金曲獎《冬 未了》一口氣抱走 5 座
-  3. **反差 hook**：「蘇打」是鼓手提的氣泡感、「綠」是吳青峰最愛的顏色——一個沒有深意的學生樂團名，後來變成商標法庭爭論的標的。沒人爭「原意」，只爭「誰先去登記」
-  4. **引語 hook**：「台灣 indie 樂團出道第一件事，是先把團名註冊起來」——蘇打綠用 22 年學會的事，2025 年所有後來者的必修課
-- **時效**: 本週內（d=5 趁熱 + 2023 小巨蛋拿回名字 + 商標法庭話題仍在 indie 樂迷圈發酵）
-- **敏感度**: 低（樂團史 / 法律史 / 商標 anchor 不涉政治）
-- **必驗事實**（**HG: 必須先讀 article 校準**）：2001 政大金旋獎第十八屆樂團組最佳人氣獎以〈窺〉得獎 / 1999 師大附中天韻獎創作組以〈窺〉冠軍 / 政大課指組主辦金旋獎 / 2003-03 三位新成員入團（何景揚 / 劉家凱 / 龔鈺祺）/ 吳青峰中文系、謝馨儀企管系、史俊威社會學系、何景揚公共行政研究所、劉家凱心理系、龔鈺祺北藝大音樂學研究所碩士班 / 2003 貢寮海祭被林暐哲發掘 / 韋瓦第計畫四部曲走遍倫敦北京柏林台東 / 第 27 屆金曲獎《冬 未了》抱走 5 座 / 2017 自由廣場 2 萬人合唱安可 / 2019 起「魚丁糸」分身 / 林暐哲商標訴訟 + 刑事起訴五連敗 / 2023 小巨蛋「拿回蘇打綠」/ 何景揚入團時間中文 wiki vs Yahoo 訪談分歧（2003-03 vs 2004 生日，article 已標史料分歧）
-- **必先 spawn ARTICLE-INBOX entry**: ❌（article 6/09 已 ship `hs=77`）
-- **預估發佈時機**: 6/16-6/18（跟廣告史 / 看不見的國家 spore 錯開 ≥ 1 天，跨類別 Culture→Art→Music 三日節奏）
-- **Notes**:
-  - **Score breakdown (HG3 transparency)**：D1=30 (d=5 ≤7d) / D2=0 / D3=0 / D4=+8 (Music 在 P/F/M/S/H 但 translations=5 ≥3 → +8 not +15) / D5=0 / D6=0 (近 3 spore 嘻哈是音樂題，但 sub 完全不同：嘻哈饒舌 vs 樂團商標戰) / D7=0 → **Total: 38** / **non-zero dims: 2 (D1+D4) → HG10 ✅**
-  - 配圖建議：article hero `sodagreen-six-members-2014.webp`（Solomon203, CC BY-SA 4.0）
-  - Hook tier 自檢：避免 Tier 3「最強台灣樂團」浮誇 frame；用「名字也要打官司」具體法律事件 anchor
-  - 跨語 fan-out 評估：高（en/ja indie 樂迷圈 + 商標訴訟 universal interest + 韋瓦第計畫國際巡演史料）
-  - 跟 SPORE-LOG 14d 無重複（6/09 嘻哈饒舌已發但蘇打綠主題從未 spore，HG5 last-spore PASS lastDate=null）
-  - D6 hook 變異度說明：嘻哈饒舌與蘇打綠雖同為 Music 類，sub 完全異軸（街頭嘻哈聲紋 vs 學生樂團法律戰），不視為同類 hook 重複
-
----
-
-### 紀政 — SC 高曝光人物 EXISTING-ARTICLE spore（女子徑賽傳奇 + 銅牌記憶）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/People/紀政.md](../../knowledge/People/紀政.md)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC 7d query 「紀政」792 imp / 5 clicks / CTR 0.63% / pos 9.8 + SC page 1114 imp / 11 clicks / pos 8.8 — 雙源高 demand，第一頁邊緣排名 CTR 失效)
+- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「천셴징」(KR 韓文) 107 ck / 444 imp / 24.1% CTR / pos 1.0 全站 KR #1 + 「new notes 陳 嫺靜 歌詞 意思」6 ck / 128 imp — 韓國市場 breakout + zh 歌詞解讀 demand；ARTICLE-INBOX pending「陳嫺靜 EVOLVE 補 hero 靜態圖」dep 未達可先發但 hero 缺會影響社群卡)
 - **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **數字 hook**：1968 墨西哥 100 公尺跨欄 10.4 秒——這個秒數讓她變成第一個拿奧運獎牌的台灣女運動員，比中華台北回到奧會早八年
-  2. **身份 hook**：當過國大代表、立委、體育署長、推過希望工程——但讓她被一整代台灣人記住的，是 56 年前那條跨欄道
-- **時效**: 無（evergreen 人物 + SC 穩態高 demand）
-- **敏感度**: 中（涉及威權時期國族敘事 + 1976 中華台北 frame 起點之一）
-- **必驗事實**: 1968 銅牌賽事與秒數、紀政路跑年份、article lastVerified
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: SC 穩態高 demand 可隨時抽，跟其他 People 類錯開 ≥ 1 天
-- **Notes**: from news-lens weekly 2026-06-21 (event: SC 7d 紀政 query 792 imp pos 9.8 + SC page 1114 imp pos 8.8 雙源確認)；跟 sport 系 #154 體育與奧運（6/19 ship）有 cluster 連結但人物 anchor 完全 separate，無 14d 重複
+  1. **場景 hook**：「這禮拜韓國有 107 個人點進來看陳嫺靜。他們搜的是韓文的『천셴징』，第一個結果是我們。」
+  2. **問句 hook**：「「new notes」到底在講什麼？中文圈本週有 128 個人搜這首歌的歌詞意思。答案不在歌詞裡，在她怎麼把台語民謠拆進 R&B 音節」
+- **時效**: 7 天內（KR 韓國市場趁熱，錯過會回到穩態）
+- **敏感度**: 低（人物本身無政治爭議）
+- **必驗事實**（**HG: 必須先讀 article 校準**）: 「new notes」發行時點與唱片背景 / 韓國市場曝光路徑（Spotify / YouTube / K-indie 平台）/ 台語民謠與 R&B 結合的具體歌名與時序
+- **必先 spawn ARTICLE-INBOX entry**: ❌（EVOLVE hero 圖補圖是獨立 track）
+- **預估發佈時機**: 一週內；KR 版本 spore 可考慮同步發（增加 KR 市場實驗）
+- **Notes**: from news-lens weekly 2026-07-05 (event: KR 천셴징 107 ck 為本週全站 KR 語 query #1 clicks + zh 歌詞查詢 128 imp)；建議兩軌並行 — (a) zh 一般社群 spore 用歌詞查詢 hook / (b) 觀察 KR 曝光是否來自特定 K-indie playlist 或推薦；hero 圖補完後社群卡質感會更好，但不 block spore
 
 ---
 
-### 小虎隊 — SC 高曝光低 CTR 補位 EXISTING-ARTICLE spore（rank 1.9 但 CTR 0.13% 失效）
+- **2026-07-16 inbox-audit**: article 無 hero 圖（2026-07-16 複驗），SPORE image gate 擋；先等 ARTICLE-INBOX「陳嫺靜 hero」補圖後 ship，韓語 fan-out 保留
 
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Music/小虎隊.md](../../knowledge/Music/小虎隊.md)
+### 黃山料 — SC + GA 雙源 breakout（341 clicks 一週從 0 起、GA 首頁外 #1）
+
+- **Source-Mode**: `EXISTING-ARTICLE`（article 2026-06-07 NEW ship + 首波 spore #128/#129 已發 4 週前，滿 ≥ 2 週 rule）
+- **Article-Path**: [knowledge/People/黃山料.md](../../knowledge/People/黃山料.md)
 - **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC 7d query 「小虎隊」751 imp / 1 click / CTR 0.13% / pos 1.9 + SC page /music/小虎隊/ 1282 imp / 1 click / pos 4.6 — 第二名排名 CTR 卻只有 0.13% = title/description 失效，spore 補社群 reach)
+- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「黃山料服裝設計」341 ck / 1606 imp / 21.2% CTR / pos 2.0 從 W26 top-30 外一週躍升 + 三變體「黃山料 服裝設計」58 ck / 「黃山料服裝」53 ck / 「黃山料 服裝」29 ck + GA /people/黃山料/ 1218 PV 首頁外 #1 non-homepage — 三源 cross-confirm 第二波 discovery surge)
 - **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **場景 hook**：1988 中視大廣場主持節目找三個新人陪舞——隔年三個人有了自己的合約，再五年解散一次又重組三次，最後一次重組是去拍春晚
-  2. **數字 hook**：三個人、四個團員（兩任「小帥虎」）、出片 9 張、解散 2 次、上春晚 1 次、跨四個世代不退場
-- **時效**: 無（穩態 80s/90s mandopop nostalgia query）
-- **敏感度**: 低
-- **必驗事實**: 出道時間、解散與重組時間軸、春晚年份、article lastVerified
+  1. **數字 hook**：「這禮拜 Google 有 1600 個人搜『黃山料服裝設計』，我們排到第二個。第一個是他自己的臉書，第三個之後就沒人記得他有拿過倫敦畢展國際首獎。」
+  2. **反差 hook**：「一個做出金門1969 軍裝設計的世界冠軍，回台灣被 HR 當假履歷；現在他改賣一句話的安慰，30 萬本。搜他名字的人，多半只知道後半段。」
+- **時效**: 7 天內（趁 SC breakout 窗口 — 從 0 imp 到 1606 imp 一週躍升，估兩週內衰退回穩態）
+- **敏感度**: 低（人物本身無政治爭議；書寫 anchor 在職涯反差，避免論斷「療癒經濟」褒貶）
+- **必驗事實**（**HG: 必須先讀 article 校準**）: 2014 倫敦畢展首獎 / 30 萬本銷售 / 每句 ≤ 28 字 / 金門背景 / HR 拒絕故事逐字（若引用需 article 有 verbatim source）
 - **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: SC 穩態高 demand，跟 Music 類錯開 ≥ 1 天
-- **Notes**: from news-lens weekly 2026-06-21 (event: SC 7d 小虎隊 751 imp pos 1.9 query + 1282 imp page，rank 第二但 CTR 失效雙源 cross-confirm)；同 cluster 也可考慮升級 metadata 但 spore 反應週期短 (≤7d) 比改 frontmatter 快 surface reach
+- **預估發佈時機**: 一週內 prime time（趁熱窗口有限）
+- **Notes**: from news-lens weekly 2026-07-05 (event: SC W26→W27 top-30 外→341 ck 一週 breakout；GA /people/黃山料/ 1218 PV 首頁外 #1)；第二波 spore 需換 hook 軸（首波 #128/#129 用「一句話安慰」書市反差 anchor → 這波換「搜尋 breakout」meta 觀察或「世界冠軍→短句安慰」職涯反差）；哲宇 in-loop 判斷是否 defer（首波離現在 4 週偏近，也可能 defer 到 8 週後）
 
 ---
 
-### 吳百福 — SC 高 demand 身份 spore EXISTING-ARTICLE（日清拉麵創辦人 + 台南出身）
+### 郭正光 — SC gap 高曝光低 CTR（1543 imp pos 8.2 CTR 1.2%）
 
 - **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/People/吳百福.md](../../knowledge/People/吳百福.md)
+- **Article-Path**: [knowledge/People/郭正光.md](../../knowledge/People/郭正光.md)
 - **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC 7d query 「吳百福」461 imp / 5 clicks / CTR 1.08% / pos 3.4 + SC page /people/吳百福/ 1090 imp / 14 clicks / pos 4.8 — 雙源穩態高 demand)
+- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「郭正光」1543 imp / 18 clicks / 1.2% CTR / pos 8.2 — 第二頁邊緣穩態 demand，前一週 W26 未進 top-30 = 本週 surge；GA article 未進 top-25 但 SC 排名反映結構性缺曝光度 gap)
 - **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **身份 hook**：每天全球有兩億包泡麵被吃掉——發明它的人叫吳百福，台南嘉義人，48 歲那年在大阪自家後院搭了一間小工房
-  2. **反差 hook**：日本叫他「安藤百福」，網上維基稱他「日本企業家」——但他到 1966 年才入籍日本，前 56 年的他姓吳，在台灣長大
-- **時效**: 無（evergreen 人物）
-- **敏感度**: 中（殖民身份 + 國籍轉換敘事）
-- **必驗事實**: 1958 雞汁拉麵發明年份、入籍日本日期、出生地（嘉義朴子）、台南早年事業時間軸、article lastVerified
+  1. **身份反差 hook**：「他在 NASA 詹森太空中心研究太空人吃什麼喝什麼，但他家鄉台灣的檔案裡，他被列在恐怖份子黑名單上」
+  2. **場景 hook**：「一個做太空食物的科學家、一個海外聲援台灣民主運動的黑名單成員 — 這兩件事是同一個郭正光」
+- **時效**: 7-14 天內（SC 排名第二頁邊緣，趁排名往前推的窗口）
+- **敏感度**: 中（涉及戒嚴時期黑名單 / 海外異議 — REACTIVE 傾向；不做「正名」評判，做「同一人兩身份」策展觀察）
+- **必驗事實**（**HG: 必須先讀 article 校準**）: NASA 詹森太空中心具體職稱與服務年份 / 太空食物研究具體項目 / 黑名單列入時間與海外異議脈絡 / 是否已解除黑名單身份
 - **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: SC 穩態 demand 可隨時抽
-- **Notes**: from news-lens weekly 2026-06-21 (event: SC 7d 吳百福 461 imp pos 3.4 + 1090 imp page 雙源 cross-confirm + 識別「安藤百福」frame 在中文搜尋仍以「吳百福」為主)
+- **預估發佈時機**: 兩週內
+- **Notes**: from news-lens weekly 2026-07-05 (event: SC 郭正光 1543 imp / 1.2% CTR pos 8.2 — 高 demand 低點擊，metadata/description 可能失效)；建議搭配 EVOLVE-PIPELINE metadata 改寫或 lastVerified refresh 提升 CTR；避免落入「愛台灣科學家 vs 白色恐怖」二元 frame，寫成「同一個人兩個台灣如何看他」
 
 ---
 
-### 清法戰爭 — SC 高曝光歷史 spore EXISTING-ARTICLE（1884 滬尾之役 + 法國占基隆）
+### 陳建騏 — SC gap 三金製作人 SEO 補位（408 imp pos 7.1 + GA 64 PV）
 
 - **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/History/清法戰爭.md](../../knowledge/History/清法戰爭.md)
+- **Article-Path**: [knowledge/People/陳建騏.md](../../knowledge/People/陳建騏.md)
 - **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC page /history/清法戰爭/ 3251 imp / 6 clicks / CTR 0.18% / pos 5.7 — 高 demand 但 CTR 0.18% 嚴重低於 page 5.7 預期 → metadata/title 失效，spore 補社群 reach + cross-check metadata)
+- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「陳建騏」7 ck / 408 imp / 1.7% CTR / pos 7.1 第二頁邊緣穩態 + GA /people/陳建騏/ 64 PV — 雙源穩態 demand + 前一週 W26「陳建騏男朋友」292 imp 私事 query 已退場，本週回到「陳建騏」本體 query = 正向 signal)
 - **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **場景 hook**：1884 年 10 月法國艦隊封鎖基隆港八個月，當時的清軍統帥是劉銘傳——基隆失守、滬尾守住，這場戰役直接催生兩年後的台灣建省
-  2. **問句 hook**：法國為什麼會打到淡水？答案不在台灣，在越南——這是中法越南戰爭打到一半轉場的衍生戰場，台灣只是被波及
-- **時效**: 無（evergreen 歷史 + SC 高曝光低 CTR）
-- **敏感度**: 中（涉及清帝國 vs 殖民地敘事 + 法國史料 cross-language）
-- **必驗事實**: 1884 年封鎖時長、滬尾之役勝負方、清法越南條約年份（1885）、article lastVerified
+  1. **反差 hook**：「你聽過魏如萱、徐佳瑩、田馥甄、彭佳慧的歌，那些製作是他做的。但你可能講不出他名字。三金得主罕見的『不在場作者』」
+  2. **數字 hook**：「一個淡江會計系畢業的鋼琴手，從劇場走進華語流行，2021 金曲最佳專輯製作、2023 金馬最佳原創歌曲、2025 金鐘戲劇原創歌曲 — 台灣三金製作人俱樂部再加一位」
+- **時效**: 7-14 天內（SC pos 7.1 有機會推進第一頁）
+- **敏感度**: 低（純創作者身份 + 三金榮譽 — 避開私事 query 軸線）
+- **必驗事實**（**HG: 必須先讀 article 校準**）: 1973 年出生 / 淡江會計系 / 2021 金曲第 32 屆最佳專輯製作人得獎作品 / 2023 金馬最佳原創電影歌曲片名 / 2025 金鐘戲劇原創歌曲作品 / 製作歌手清單
 - **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 跟 History 類錯開 ≥ 1 天
-- **Notes**: from news-lens weekly 2026-06-21 (event: SC page 3251 imp pos 5.7 CTR 0.18% — 排名健康但 CTR 嚴重失效，spore 是 immediate reach + metadata review 後續分派 EVOLVE / SEO 優化)
+- **預估發佈時機**: 一週內；跨題材類避開近期 People spore 避免 P/E 過重
+- **Notes**: from news-lens weekly 2026-07-05 (event: SC 陳建騏 408 imp pos 7.1 + GA 64 PV 雙源穩態)；hook 避開「陳建騏男朋友」私事 query 軸線（去年 W26 出現過，per 6/29 feedback「不把私事當 spine」）— anchor 在三金製作人 + 為華語流行拆掉「怪腔怪調」紅線
 
 ---
 
-### 笠詩社 — 趁熱 60 年弧線 spore EXISTING-ARTICLE（6/20 NEW ship + SPORE chain blocker recovery）
+### 彎彎 — SC 782 imp 高曝光 + article 6/29 剛 ship 首波 spore（避免私事 anchor）
 
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Art/笠詩社.md](../../knowledge/Art/笠詩社.md)
+- **Source-Mode**: `EXISTING-ARTICLE`（article 2026-06-29 NEW ship，6 天前，仍在趁熱窗口）
+- **Article-Path**: [knowledge/People/彎彎.md](../../knowledge/People/彎彎.md)
 - **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: commit 9b7fd2c8c 2026-06-20 NEW ship 「笠詩社 60 年」+ SPORE chain deferred (Chrome MCP 連 5 cycle 結構性 blocker, see 4600c08e1 memory) — news-lens 補位讓 P1 落地 SPORE-INBOX 待 Chrome MCP 恢復後 PICK 抽走)
+- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「彎彎」39 ck / 782 imp / 5.0% CTR / pos 8.2 + 「彎彎近況」8 ck / 189 imp + GA /people/彎彎/ 129 PV — 三源 cross-confirm article ship 6 天內 discovery wave；6/29 EDITORIAL v6.13 feedback「不把私事醜聞當 spine」需硬 enforce)
 - **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **數字 hook**：60 年——這是台灣存活最久的中文詩刊，創辦那年是 1964，台灣還在戒嚴，創辦的 12 個人有一半小時候只會寫日文
-  2. **身份 hook**：被迫忘掉日文、再學中文寫詩——這群人創了《笠》，名字取自台灣農民的笠帽，社徽是顆稻穀
-- **時效**: 趁熱 ≤ 7 天（6/20 ship D+1 起算，windows 7d）
-- **敏感度**: 中（涉及國族語言切換史 + 殖民/戒嚴跨層）
-- **必驗事實**: 1964 創刊年份、12 位創社成員、刊物連續發行期數、article lastVerified（fresh）
+  1. **場景 hook**：「MSN 大頭貼是一個沒穿衣服、頭頂一根捲毛的光頭人 — 那是台灣第一個瀏覽破億的部落格。畫它的人 9,000 塊月薪」
+  2. **反差 hook**：「光頭人永遠天真不老，畫它的胡家瑋卻會長大。所以她讓角色跟自己一起退場，變成歷史人物」
+- **時效**: 7 天內（article ship 一週內 discovery wave 高峰）
+- **敏感度**: **中-高**（HG feedback_decenter_private_scandal 2026-06-29 硬 enforce：不把私事當 spine / title / anchor；spine 是「圖文創作開山鼻祖 + 讓角色變歷史人物」；私事若提及只能一句 society-facing frame，不作 anchor）
+- **必驗事實**（**HG: 必須先讀 article 校準**）: 首篇部落格瀏覽破億時點 / 9,000 元月薪職稱 / MSN 大頭貼流傳時期 / 胡家瑋本名確認 / 「變成歷史人物」是否為當事人自己講法（若引用需 article 有 verbatim source）
 - **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: Chrome MCP blocker 解除後立即 PICK，跨 People/Art 類錯開
-- **Notes**: from news-lens weekly 2026-06-21 (event: 6/20 NEW ship article 趁熱窗口 + spore-publish blocker recovery 路徑)；不期待 routine 自動 ship（受 Chrome MCP 結構性 blocker 影響），但 PICK 抽到時 hook anchor 已備齊，blueprint 也好生
-
----
-
-### 尊 (rapper Wei Zun) — SC 三源穩態 demand spore EXISTING-ARTICLE（query + page + GA top 25 三角確認）
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/People/尊.md](../../knowledge/People/尊.md)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d query 「尊」1418 imp / 4 clicks / pos 10.1 + SC page /people/尊/ 4411 imp / 23 clicks / pos 7.7 + GA top-25 article 33 PV / 30 users — 三源 cross-confirm 穩態高 demand 第二頁邊緣排名)
-- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **身份 hook**：搜「尊」每天有幾百個人在 Google 找他，前面排得到的有歷史頭銜「尊」字輩；他的台灣 hip-hop 名字就一個字，要排到第二頁才看得到
-  2. **數字 hook**：23 個從 Google 點進來的人，4411 次曝光——這是 Taiwan.md 站上一個只有單字標題的台灣饒舌歌手，一週能擠進前 25 名熱門人物
-- **時效**: 無（evergreen 人物 + SC 穩態高 demand）
-- **敏感度**: 低
-- **必驗事實**: 出道年份、代表作、本名與藝名來源、article lastVerified
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: SC 穩態高 demand 可隨時抽，跟 Music/People 類錯開 ≥ 1 天
-- **Notes**: from news-lens weekly 2026-06-28 (event: SC query 1418 imp + SC page 4411 imp + GA 33 PV 三源 cross-confirm)；單字標題在 SC 排名拼搜尋演算法天然弱勢 (信號太短)，spore 補社群 reach + 連結到 People/Music cluster
+- **預估發佈時機**: 5-7 天內（趁 article ship 一週窗口）
+- **Notes**: from news-lens weekly 2026-07-05 (event: SC 彎彎 782 imp + article ship 6 天 discovery wave)；**必讀 [feedback_decenter_private_scandal](../../../.claude/projects/-Users-cheyuwu-Projects-taiwan-md/memory/feedback_decenter_private_scandal.md) 完整檔**再下筆 — 6/29 EDITORIAL v6.13 canonical enforce spine 在真實貢獻不在醜聞；spore body 若提及私事僅限 society-facing 短句，不能 anchor / hook / kicker
 
 ---
 
@@ -1184,44 +713,6 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 
 ---
 
-### 楊德昌 — SC pos 1.5 catastrophic CTR (0.25% / 千擇一) 結構性 metadata 失效
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/People/楊德昌.md](../../knowledge/People/楊德昌.md)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d query 「楊德昌」406 imp / 1 click / pos 1.5 / CTR 0.25% + SC page /people/楊德昌/ 453 imp / 1 click / pos 2.3 — 雙源確認 rank 第二名但 CTR 千擇一，title/description 系統性失效)
-- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **場景 hook**：2007 年 6 月底，楊德昌過世的隔天，李安在洛杉磯說：「他是我的兄弟。」這話不是禮節——李安還在洛杉磯念書時，楊德昌已經在台灣拍出《牯嶺街》
-  2. **反差 hook**：Google 把楊德昌的 Taiwan.md 條目排在第二位；過去 7 天 406 個人看到、只 1 個人點進來——剩下 405 個人選了 wiki 跟維基
-- **時效**: 無（evergreen 導演 + Cannes 復刻/4K 修復脈絡持續出新聞）
-- **敏感度**: 低（藝術人物 + 殖民後台北敘事）
-- **必驗事實**: 2007-06-29 過世日、《牯嶺街少年殺人事件》1991、《一一》2000 坎城最佳導演、article lastVerified
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: SC pos 1.5 緊急 metadata 候選 — spore 先 surface 同步分派 SEO 優化（改 title 加年份）
-- **Notes**: from news-lens weekly 2026-06-28 (event: SC pos 1.5 ctr 0.25% catastrophic + page pos 2.3 雙源 cross-confirm)；rank 健康度跟 ctr 嚴重背離 = 第一頁排名的「展示效能瓶頸」典型案例，spore + SEO 雙路徑並行
-
----
-
-### 曾博恩 — SC 雙源穩態 + 喜劇社群討論度高 EXISTING-ARTICLE
-
-- **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/People/曾博恩.md](../../knowledge/People/曾博恩.md)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-06-28 by twmd-news-lens-weekly (week 2026-W26, event: SC 7d query 「曾博恩」627 imp / 9 clicks / pos 11.5 + SC page /people/曾博恩/ 1033 imp / 15 clicks / pos 10.2 — 雙源確認穩態 demand 第二頁排名)
-- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **身份 hook**：清大材料系畢業、台積電工程師當過五年、然後辭職去做脫口秀——曾博恩這條路上沒有前例可循，他自己開了《博恩夜夜秀》當參考點
-  2. **場景 hook**：2018 年某天他把工程師袍脫掉去開麥；五年後台灣脫口秀產業從零變成可以撐起一場 5000 人的小巨蛋
-- **時效**: 無（evergreen 喜劇 + 政治評論週期性 spike）
-- **敏感度**: 中（涉及政治評論 + 性別議題）
-- **必驗事實**: 1989 出生年、台積電年資、《博恩夜夜秀》2018 開播日、article lastVerified
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: SC 穩態 demand + 跨 People/Comedy 類錯開 ≥ 1 天；政治敏感期間延後
-- **Notes**: from news-lens weekly 2026-06-28 (event: SC query 627 imp + page 1033 imp 雙源 cross-confirm)；pos 10-11 第二頁排名 spore 增 social channel reach 比 SEO 改 metadata 短週期
-
----
-
 ### 台灣前 50 大企業 / /companies/ — SC 全站 #1 clicks page (104 ck) + 四變體 query cluster
 
 - **Source-Mode**: `EXISTING-ARTICLE`
@@ -1241,98 +732,577 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 
 ---
 
-### 黃山料 — SC + GA 雙源 breakout（341 clicks 一週從 0 起、GA 首頁外 #1）
+<!-- ═══ 🟢 P2 ═══ -->
 
-- **Source-Mode**: `EXISTING-ARTICLE`（article 2026-06-07 NEW ship + 首波 spore #128/#129 已發 4 週前，滿 ≥ 2 週 rule）
-- **Article-Path**: [knowledge/People/黃山料.md](../../knowledge/People/黃山料.md)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「黃山料服裝設計」341 ck / 1606 imp / 21.2% CTR / pos 2.0 從 W26 top-30 外一週躍升 + 三變體「黃山料 服裝設計」58 ck / 「黃山料服裝」53 ck / 「黃山料 服裝」29 ck + GA /people/黃山料/ 1218 PV 首頁外 #1 non-homepage — 三源 cross-confirm 第二波 discovery surge)
-- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **數字 hook**：「這禮拜 Google 有 1600 個人搜『黃山料服裝設計』，我們排到第二個。第一個是他自己的臉書，第三個之後就沒人記得他有拿過倫敦畢展國際首獎。」
-  2. **反差 hook**：「一個做出金門1969 軍裝設計的世界冠軍，回台灣被 HR 當假履歷；現在他改賣一句話的安慰，30 萬本。搜他名字的人，多半只知道後半段。」
-- **時效**: 7 天內（趁 SC breakout 窗口 — 從 0 imp 到 1606 imp 一週躍升，估兩週內衰退回穩態）
-- **敏感度**: 低（人物本身無政治爭議；書寫 anchor 在職涯反差，避免論斷「療癒經濟」褒貶）
-- **必驗事實**（**HG: 必須先讀 article 校準**）: 2014 倫敦畢展首獎 / 30 萬本銷售 / 每句 ≤ 28 字 / 金門背景 / HR 拒絕故事逐字（若引用需 article 有 verbatim source）
-- **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 一週內 prime time（趁熱窗口有限）
-- **Notes**: from news-lens weekly 2026-07-05 (event: SC W26→W27 top-30 外→341 ck 一週 breakout；GA /people/黃山料/ 1218 PV 首頁外 #1)；第二波 spore 需換 hook 軸（首波 #128/#129 用「一句話安慰」書市反差 anchor → 這波換「搜尋 breakout」meta 觀察或「世界冠軍→短句安慰」職涯反差）；哲宇 in-loop 判斷是否 defer（首波離現在 4 週偏近，也可能 defer 到 8 週後）
-
----
-
-### 郭正光 — SC gap 高曝光低 CTR（1543 imp pos 8.2 CTR 1.2%）
+### 江賢二 — 第二輪（5/24 已發過一輪，換 hook 軸）
 
 - **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/People/郭正光.md](../../knowledge/People/郭正光.md)
-- **Priority**: `P1`
+- **Article-Path**: [knowledge/Art/江賢二.md](../../knowledge/Art/江賢二.md)
+- **Priority**: `P2`
 - **Status**: `pending`
-- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「郭正光」1543 imp / 18 clicks / 1.2% CTR / pos 8.2 — 第二頁邊緣穩態 demand，前一週 W26 未進 top-30 = 本週 surge；GA article 未進 top-25 但 SC 排名反映結構性缺曝光度 gap)
-- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **身份反差 hook**：「他在 NASA 詹森太空中心研究太空人吃什麼喝什麼，但他家鄉台灣的檔案裡，他被列在恐怖份子黑名單上」
-  2. **場景 hook**：「一個做太空食物的科學家、一個海外聲援台灣民主運動的黑名單成員 — 這兩件事是同一個郭正光」
-- **時效**: 7-14 天內（SC 排名第二頁邊緣，趁排名往前推的窗口）
-- **敏感度**: 中（涉及戒嚴時期黑名單 / 海外異議 — REACTIVE 傾向；不做「正名」評判，做「同一人兩身份」策展觀察）
-- **必驗事實**（**HG: 必須先讀 article 校準**）: NASA 詹森太空中心具體職稱與服務年份 / 太空食物研究具體項目 / 黑名單列入時間與海外異議脈絡 / 是否已解除黑名單身份
+- **Requested**: 2026-06-12 by 哲宇（goal directive spore 選項）
+- **Hook anchor 候選**:
+  1. **場景 hook**：在巴黎跟紐約畫了三十年「封窗」的畫，回到台東金樽，他第一次把窗戶打開
+  2. **問句 hook**：一個畫家要多老，才能蓋一座給所有人的美術館？江賢二的答案是 81 歲
+- **時效**: 無
+- **敏感度**: 低
+- **必驗事實**: 5/24 第一輪 spore 用的 hook（場景型）——本輪必須換軸避免自我重複；江賢二藝術園區開園時間與現況
 - **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 兩週內
-- **Notes**: from news-lens weekly 2026-07-05 (event: SC 郭正光 1543 imp / 1.2% CTR pos 8.2 — 高 demand 低點擊，metadata/description 可能失效)；建議搭配 EVOLVE-PIPELINE metadata 改寫或 lastVerified refresh 提升 CTR；避免落入「愛台灣科學家 vs 白色恐怖」二元 frame，寫成「同一個人兩個台灣如何看他」
+- **預估發佈時機**: 與 5/24 前輪間隔已過 14 天排除窗，Stage 1 PICK 可抽
+- **Notes**: 哲宇連兩次點名江賢二（5/24 + 6/12），人物本身是他關注的訊號
+
+### 公視 — 28 年弧線 趁熱 REACTIVE spore（5/27 NEW ship + 5/7 議場驅逐事件）
+
+- **Source-Mode**: `REACTIVE`
+- **Article-Path**: [knowledge/Society/公視.md](../../knowledge/Society/公視.md)
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-01 by twmd-news-lens-weekly (week 2026-W22, event: 公視 article NEW ship 5/27 + 2026-05-07 立法院議場董事長驅逐)
+- **Hook anchor 候選**：
+  1. **數字 hook**：「1998 開播、23 年九億預算緊箍咒、養出 5 部旗艦劇（《我們與惡的距離》《茶金》《通靈少女》《麻醉風暴》《一把青》）、2023-05 修法翻倍到 23 億、19 個月後遭刪 1% 凍結 25%、2026-05-07 董事長被請出立法院議場。28 年下來公視證明的事：緊箍咒解開不代表獨立性建立」
+  2. **場景 hook**：「2026 年 5 月 7 日早上，立法院教育委員會開議前。國民黨立委羅智強要求公視董事長胡元輝離席，理由是他已『任期屆滿』。文化部長李遠當場抗議，僵持後胡元輝起身走出議場。當天晚上他在臉書寫『個人遭遇事小，但公共媒體的尊嚴必須捍衛』。那一幕距離 1998-07-01 公視開播，剛好 28 年」
+  3. **問句 hook**：「為什麼《我們與惡的距離》是公視做的、不是商業電視台？答案藏在 1998 那條被通過的法律裡 — 政府預算捐贈逐年遞減、最終凍結在每年 9 億，這條條文綁了 23 年，公視只能拿那點錢拍別人不敢拍的題材」
+- **時效**：article ship 5/27 距今 5 天（趁熱窗口剩 ~9 天）+ 5/7 議場事件 25 天前仍是 active news anchor
+- **敏感度**：**高**（媒體獨立 / 黨派預算政治 / 立法院衝突）— 必須用 article §策展人筆記 28 年弧線中性 frame 起手，不站隊任一政黨；REACTIVE 但**先講歷史弧線後落地新聞事件**，不直接 callout 個別立委姓名（footnote 已存記錄即可，spore 文體要克制）
+- **必驗事實**：1998-07-01 公視開播 / 9 億預算 23 年緊箍咒 / 2023-05 修法解凍預算 23 億 / 19 個月後砍預算 1% 凍結 25% / 2026-05-07 議場驅逐董事長胡元輝 / 5 部旗艦劇片名 / 文化部長李遠抗議
+- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在）
+- **預估發佈時機**：本週內（6/1-6/7 趁熱窗口疊 5/7 議場事件 anchor 仍活）
+- **Notes**：
+  - from news-lens weekly 2026-06-01 (event: 公視 5/27 ship + 5/7 議場驅逐事件 仍熱, GA #14: 32 views/26 users, no spore yet — Society cluster spore 缺位; CF AI crawler 對「Taiwan public broadcasting」議題感興趣)
+  - 高敏感 REACTIVE 配 frame 規則：用 28 年歷史弧線敘事，不用「立委 X 違法驅逐」對抗 frame；hook 1/2/3 三條都從歷史結構切入再落地事件（per [二二八事件 entry §Notes](../factory/SPORE-INBOX.md) frame 範例）
+  - 多語 fan-out 觸發判斷 = 中（en 海外讀者對 Taiwan public broadcasting 結構 / 與 PBS NHK BBC 對照有 demand；ja 對日治臺灣放送協會→戰後公視轉型有歷史 anchor；5 lang tx 待 ship 後 verify）
+  - 配圖建議：article hero（公視 B 棟建築 2024 Yu tptw Wikimedia CC BY-SA 4.0）或 5 部旗艦劇 collage（fair-use editorial）
+  - Hook tier 自檢：避免 Tier 3「公視又被欺負了」受害者 frame；用 article §28 年弧線中性結構 frame 起手
+  - 跟 SPORE-LOG 14d 無重複（Society / 媒體 cluster spore 缺；最近 Society 大型 spore 是 #79 寶島聯播網訪談 5/5 — 27 天前 ≫ 14d ✓）
 
 ---
 
-### 陳嫺靜 — 韓國市場 breakout（천셴징 107 ck 21% CTR + 歌詞查詢升溫）
+- **2026-07-16 inbox-audit**: 降/定級 P2 — 5/27 ship 趁熱 + 5/7 議場事件均已過 6 週，REACTIVE 時效失效
+
+### 猴硐 — 鏡頭餵肥棄貓場 趁熱 REACTIVE spore（5/27 NEW ship + 2026-01 鏡週刊「滅村」框架反制）
+
+- **Source-Mode**: `REACTIVE`
+- **Article-Path**: [knowledge/Geography/猴硐.md](../../knowledge/Geography/猴硐.md)
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-01 by twmd-news-lens-weekly (week 2026-W22, event: 猴硐 article NEW ship 5/27 + 2026-01 鏡週刊 TNVR「滅村」框架報導)
+- **Hook anchor 候選**：
+  1. **場景 hook**：「2009 年攝影師簡佩玲（貓夫人）走進新北平溪線一座 1990 年瑞三鑛業停產後被遺忘 19 年的山城。她的鏡頭把猴硐變成 CNN 2013 評選的世界六大賞貓景點。但『貓咪天堂』這個名號養出全台最大棄貓場 — 2012 貓瘟、2013 至少 10 起虐貓、2022 棄貓案罰 11 萬。2014 貓夫人留下『不停消費貓、消費我、消費侯硐』退出」
+  2. **數字 hook**：「貓口從 200-300 隻 → 2026-01 剩 30+ 隻。鏡週刊用『滅村』兩個字當標題框架。但消失的不是貓村 — 是『單一網紅 IP 撐起的地方創生模式』。TNVR 把貓口控制到可承載量，是收尾，不是失敗」
+  3. **問句 hook**：「鏡頭可以救起一座礦業遺址，也可以餵肥一座棄貓場。誰要負責收尾？2009 走進來的攝影師、2013 把名字傳出去的 CNN、2014 退出的貓夫人、2024 設貓公所的光復里里長、2026 用『滅村』兩字下標的鏡週刊 — 17 年來，這道題沒有單一答案」
+- **時效**：article ship 5/27 距今 5 天（趁熱窗口剩 ~9 天）+ 2026-01 鏡週刊報導留下「滅村」反差 frame 仍有反駁空間
+- **敏感度**：中（地方創生 / 動保政策 / 在地產業利益）— 不踩動保倡議或商業反 TNVR 任一立場，以 article §反身性悖論 frame 起手（鏡頭救起 / 鏡頭餵肥 / TNR 收尾的三段反身結構）
+- **必驗事實**：1990-05-01 瑞三鑛業瑞山本坑關閉 / 2009 貓夫人走進光復里 / 2013 CNN 世界六大賞貓景點 / 2012 貓瘟 / 2013 至少 10 起虐貓事件 / 2022 棄貓案罰 11 萬 / 2014 貓夫人退出聲明原文 / 2024 貓公所成立 / 2026-01 鏡週刊滅村框架報導 / TNVR 200-300 隻 → 30+ 隻
+- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在）
+- **預估發佈時機**：本週內（6/1-6/7 趁熱窗口，可搭五月底動保話題或六月初端午連假觀光討論）
+- **Notes**：
+  - from news-lens weekly 2026-06-01 (event: 猴硐 5/27 ship + 2026-01 鏡週刊滅村報導 反制 frame 機會, GA: 暫未進 top 15 但 Geography 5/27 三件套 cluster 一起趁熱)
+  - 中敏感 REACTIVE，frame 用 article D anchor「反身性悖論」三段結構（鏡頭救起 / 鏡頭餵肥 / TNR 收尾），不寫「貓村已死」哀悼或「TNR 大勝利」勝利兩極
+  - 多語 fan-out 觸發判斷 = 高（ja 對日本田代島 / 青島貓島平行對照有 demand；en 對地方創生 + tourism overshoot 國際案例研究有 academic demand；5 lang tx 已 baseline）
+  - 配圖建議：article hero（基隆河猴硐段 CharlieDigital Wikimedia CC BY-SA 4.0）或瑞三鑛業整煤廠遺址（fair-use editorial）
+  - Hook tier 自檢：避免 Tier 3「貓村再見」悲情 frame 或「TNR 成功」宣傳 frame；用 article D anchor 反身性悖論 frame 起手
+  - 跟 SPORE-LOG 14d 無重複（Geography 大 cluster 最近 spore 是 #87/88 大稻埕 + #89/90 西門町 + #91 艋舺 5/25 — 但都是台北歷史街區 cluster，猴硐是聚落+動保獨立 sub-cluster ✓）
+
+---
+
+- **2026-07-16 inbox-audit**: 降/定級 P2 — 5/27 ship 趁熱已過 6 週；鏡週刊「滅村」反制框架非急性
+
+### 台灣藍鵲 — SC 缺口 REACTIVE spore（SC 215 imp / 0 click / position 2.35 高 demand 低 ranking 補位）
+
+- **Source-Mode**: `REACTIVE`
+- **Article-Path**: [knowledge/Nature/台灣藍鵲.md](../../knowledge/Nature/台灣藍鵲.md)
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-01 by twmd-news-lens-weekly (week 2026-W22, event: SC top opportunity 7d 「台灣藍鵲」215 impressions / 0 clicks / position 2.35 / 無對應 spore push reach)
+- **Hook anchor 候選**：
+  1. **問句 hook**：「為什麼 2007 年那場國鳥選舉 18 萬票投給台灣藍鵲不是黑面琵鷺？答案不是因為牠藍得漂亮 — 是因為這顆山林寶石會打群架。97% 的巢用『巢邊幫手制』集體育雛，家族成員會發動空襲護巢，比黑面琵鷺更像台灣」
+  2. **數字 hook**：「1862 年英國領事郇和在淡水收到兩根亮藍色尾羽，憑羽毛末端的白點判斷是新種。164 年後台灣藍鵲面臨外來種紅嘴藍鵲基因污染、3 隻搶食大安森林公園貓糧、巢邊幫手制 97% 適用率 — 從中低海拔闊葉林進駐到都市叢林的『藍色幫派』」
+  3. **場景 hook**：「清晨六點，大安森林公園靠近建國南路那側。三隻台灣藍鵲低空俯衝，搶走志工剛擺好給流浪貓的乾糧。牠們不是迷路 — 牠們是進城。從中低海拔闊葉林到都市叢林，藍色幫派的領域版圖正在改寫」
+  4. **身份 hook**：「你以為國鳥是黑面琵鷺？2007 年 18 萬票選的是台灣藍鵲。下次在公園看到那道藍色閃光，記得那不是流浪鳥 — 是一個 97% 巢邊幫手制的家族在巡邏」
+- **時效**：non-time-sensitive 但 SC 215 imp 7d 顯示有人正在 actively 搜尋；越早 push reach 越好補位
+- **敏感度**：低（特有種保育 / 國鳥討論中性）
+- **必驗事實**：1862 郇和（Robert Swinhoe）在淡水採集首個標本 / 2007 國鳥票選 18 萬票 / 巢邊幫手制 97% 適用率 / 紅嘴藍鵲基因污染議題 / 大安森林公園都市進駐 / 鄒族布農族傳說 / 學名 Urocissa caerulea 台灣特有種
+- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在 4/30 ship）
+- **預估發佈時機**：本週內（6/1-6/7）— SC 缺口越快補越好，無時間窗口限制
+- **Notes**：
+  - from news-lens weekly 2026-06-01 (event: SC 7d 「台灣藍鵲」215 impressions / 0 clicks / position 2.35 — Top SC opportunity #1, 無對應 spore push reach; article 4/30 ship 後 32 天無 spore)
+  - 低敏感無 frame 限制
+  - 多語 fan-out 觸發判斷 = 高（Taiwan Blue Magpie 是國際 birdwatching cluster 強 SEO 詞，en 對 endemic bird species 有 demand，ja 對台湾固有種 / 観光鳥類 有需求；5 lang tx 待 verify baseline）
+  - 配圖建議：article hero（Wikimedia 台灣藍鵲特寫，多張 CC 授權可用）或大安森林公園都市進駐場景
+  - Hook tier 自檢：避免 Tier 3「國鳥！台灣之光！」民族主義 frame；用 article §巢邊幫手制 + 都市進駐 結構 frame 起手
+  - 跟 SPORE-LOG 14d 無重複（Nature cluster 最近 spore 是 #54 黑冠麻鷺 4/30 — 32 天前 ≫ 14d ✓）
+
+---
+
+- **2026-07-16 inbox-audit**: 降/定級 P2 — SC 訊號取樣 6/01 已 6 週，發前重驗；與 ARTICLE-INBOX 台灣藍鵲 SEO 優化 entry 同源（先修 metadata 或先 spore 擇一）
+
+### 李國修 — SC 高曝光人物 EXISTING-ARTICLE spore（SC 596 imp / 6 clicks / CTR 1.01% / position 1.93 高 demand 但 metadata 失效）
 
 - **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/Music/陳嫺靜.md](../../knowledge/Music/陳嫺靜.md)（KO version: [knowledge/ko/Music/hsien-ching-chen.md](../../knowledge/ko/Music/hsien-ching-chen.md)）
-- **Priority**: `P1`
+- **Article-Path**: [knowledge/People/李國修.md](../../knowledge/People/李國修.md)
+- **Priority**: `P2`
 - **Status**: `pending`
-- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「천셴징」(KR 韓文) 107 ck / 444 imp / 24.1% CTR / pos 1.0 全站 KR #1 + 「new notes 陳 嫺靜 歌詞 意思」6 ck / 128 imp — 韓國市場 breakout + zh 歌詞解讀 demand；ARTICLE-INBOX pending「陳嫺靜 EVOLVE 補 hero 靜態圖」dep 未達可先發但 hero 缺會影響社群卡)
-- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **場景 hook**：「這禮拜韓國有 107 個人點進來看陳嫺靜。他們搜的是韓文的『천셴징』，第一個結果是我們。」
-  2. **問句 hook**：「「new notes」到底在講什麼？中文圈本週有 128 個人搜這首歌的歌詞意思。答案不在歌詞裡，在她怎麼把台語民謠拆進 R&B 音節」
-- **時效**: 7 天內（KR 韓國市場趁熱，錯過會回到穩態）
-- **敏感度**: 低（人物本身無政治爭議）
-- **必驗事實**（**HG: 必須先讀 article 校準**）: 「new notes」發行時點與唱片背景 / 韓國市場曝光路徑（Spotify / YouTube / K-indie 平台）/ 台語民謠與 R&B 結合的具體歌名與時序
-- **必先 spawn ARTICLE-INBOX entry**: ❌（EVOLVE hero 圖補圖是獨立 track）
-- **預估發佈時機**: 一週內；KR 版本 spore 可考慮同步發（增加 KR 市場實驗）
-- **Notes**: from news-lens weekly 2026-07-05 (event: KR 천셴징 107 ck 為本週全站 KR 語 query #1 clicks + zh 歌詞查詢 128 imp)；建議兩軌並行 — (a) zh 一般社群 spore 用歌詞查詢 hook / (b) 觀察 KR 曝光是否來自特定 K-indie playlist 或推薦；hero 圖補完後社群卡質感會更好，但不 block spore
+- **Requested**: 2026-06-01 by twmd-news-lens-weekly (week 2026-W22, event: SC top query 7d 「李國修」596 impressions / 6 clicks / CTR 1.01% / position 1.93 — 已第二名但 CTR 偏低 = title/description metadata 失效，spore 補 reach + 順便 review metadata)
+- **Hook anchor 候選**：
+  1. **數字 hook**：（待 article ship 時校準）「屏風表演班 24 年（1986-2010）/ 27 部原創舞台劇 / 2013-07-02 直腸癌 58 歲早逝。從『有個結巴的孩子，在劇場找到了聲音』那一年算起到今天 39 年，台灣劇場有他、跟沒他，是兩個世界」
+  2. **問句 hook**（待 article ship 時校準）：「為什麼台灣本土喜劇有屏風表演班、表演工作坊兩條根？答案藏在 1980 年代蘭陵劇坊那批人各自離開後選擇的路線分歧 — 賴聲川走實驗 / 李國修走本土民間，這兩條路後來都成了台灣劇場的主幹」
+  3. **場景 hook**（待 article ship 時校準）：「1986 年 10 月，西門町。剛從蘭陵離隊的李國修跟劉若瑀、李立群在一個地下室開了屏風表演班。第一齣戲票房慘淡，三人坐在台下發呆。誰也沒想到這個地下室後來會養出 27 部原創、《京戲啟示錄》《女兒紅》《半里長城》三大代表作」
+  4. **身份 hook**：「你聽過《京戲啟示錄》？那是李國修。看過《女兒紅》？那是他。屏風表演班、京劇之外的台灣本土喜劇大半個傳統，是這個結巴男孩 24 年用 27 部原創撐出來的 — 58 歲走的時候，台灣劇場一夜空了一塊」
+- **時效**：non-time-sensitive 但 SC 596 imp 7d 顯示有人 actively 搜尋名字；CTR 1% = 標題吸引力低，spore push 直接 reach 比優化 metadata 更快
+- **敏感度**：低（已故文化人物 / 劇場史中性）
+- **必驗事實**（**HG: 必須先讀 article 校準**，article 內容可能跟此處草稿不一致）：李國修生卒年 / 屏風表演班創立年（1986）/ 27 部原創數字 / 京戲啟示錄 / 女兒紅 / 半里長城 三大代表作確認 / 蘭陵劇坊出身 / 2013-07-02 直腸癌離世
+- **必先 spawn ARTICLE-INBOX entry**：❌（article 已存在）
+- **預估發佈時機**：本週內（6/1-6/7）— SC 高 demand 越早 push 越好；可搭順便 review 標題/description 是否需要 SEO 校準（CTR 1.01% 是 metadata 警訊）
+- **Notes**：
+  - from news-lens weekly 2026-06-01 (event: SC 7d 「李國修」596 impressions / 6 clicks / position 1.93 — 已排名第二但 CTR 1.01% 偏低，metadata 可能失效；spore 補 reach 同時 trigger metadata review)
+  - 低敏感無 frame 限制
+  - **SEO 副作用提示**：Stage 1 PICK 抽到此 entry 時，建議同時跑 [knowledge/People/李國修.md](../../knowledge/People/李國修.md) 的 title/description SEO review（CTR 1.01% 是 metadata 失效 signal，per EVOLVE-PIPELINE §SEO 優化判準）
+  - 多語 fan-out 觸發判斷 = 中（People cluster；ja 對台湾劇場史 + 賴聲川對照有 demand；5 lang tx 待 verify baseline）
+  - 配圖建議：article 既有圖（若有）或屏風表演班海報 fair-use editorial / 李國修舞台照
+  - Hook tier 自檢：避免 Tier 3「台灣喜劇之神」神化 frame；用 article 結構 frame 起手 — Stage 1 PICK 前必須先 Read article 才能定 hook 細節
+  - 跟 SPORE-LOG 14d 無重複（People cluster 最近 spore 是 #95/96 尹衍樑 5/26 + #91 江賢二 5/25 + #94 大宇雙劍創辦人段 5/26 — 14d 內 People 已 3 條，但李國修是劇場/喜劇 sub-cluster 跟 Tech 創辦人 / 視覺藝術家 sub-cluster 不撞 ✓）
 
 ---
 
-### 陳建騏 — SC gap 三金製作人 SEO 補位（408 imp pos 7.1 + GA 64 PV）
+- **2026-07-16 inbox-audit**: 降/定級 P2 — SC 訊號取樣 6/01 已 6 週，發前重驗
+
+### 張懸與安溥 — SC 高 demand EXISTING-ARTICLE spore（雙名身份穩態搜尋）
 
 - **Source-Mode**: `EXISTING-ARTICLE`
-- **Article-Path**: [knowledge/People/陳建騏.md](../../knowledge/People/陳建騏.md)
-- **Priority**: `P1`
+- **Article-Path**: knowledge/Music/張懸與安溥.md
+- **Priority**: `P2`
 - **Status**: `pending`
-- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「陳建騏」7 ck / 408 imp / 1.7% CTR / pos 7.1 第二頁邊緣穩態 + GA /people/陳建騏/ 64 PV — 雙源穩態 demand + 前一週 W26「陳建騏男朋友」292 imp 私事 query 已退場，本週回到「陳建騏」本體 query = 正向 signal)
-- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **反差 hook**：「你聽過魏如萱、徐佳瑩、田馥甄、彭佳慧的歌，那些製作是他做的。但你可能講不出他名字。三金得主罕見的『不在場作者』」
-  2. **數字 hook**：「一個淡江會計系畢業的鋼琴手，從劇場走進華語流行，2021 金曲最佳專輯製作、2023 金馬最佳原創歌曲、2025 金鐘戲劇原創歌曲 — 台灣三金製作人俱樂部再加一位」
-- **時效**: 7-14 天內（SC pos 7.1 有機會推進第一頁）
-- **敏感度**: 低（純創作者身份 + 三金榮譽 — 避開私事 query 軸線）
-- **必驗事實**（**HG: 必須先讀 article 校準**）: 1973 年出生 / 淡江會計系 / 2021 金曲第 32 屆最佳專輯製作人得獎作品 / 2023 金馬最佳原創電影歌曲片名 / 2025 金鐘戲劇原創歌曲作品 / 製作歌手清單
+- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: SC 7d 焦安溥 264 imp pos 10.17 + 張懸 463 imp pos 10.78 雙 query 高曝光低排名 + GA 7d 96 v 持續黏著)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式 — 起手式 5 種：好奇 / 場景 / 問句 / 數字 / 身份）:
+  1. **數字 hook**：「727 個人這週用『張懸』或『焦安溥』搜尋找她，全部停在 Google 第 10 頁——一個人改名 12 年，搜尋引擎還沒接到通知」
+  2. **身份 hook**：「她叫焦安溥。2012 年改名之前叫張懸。改名之後出了三張專輯，但你最後一次循環的還是〈寶貝〉」
+- **時效**: 本週內（趁 SC 雙 query 高 impression 窗口 + 6 月音樂節季啟動）
+- **敏感度**: 中（改名涉及身份政治、2013 國旗事件背景需謹慎不踩；用音樂作品 anchor 中性處理）
+- **必驗事實**（**HG: 必須先讀 article 校準**）：改名年份 2012 / 改名前三張專輯名與年份 / 改名後作品 / 1981 出生年 / 焦仁和家系 / 2013 曼徹斯特事件 frame
+- **必先 spawn ARTICLE-INBOX entry**: ❌（article 已存在）
+- **預估發佈時機**: 本週內（6/7-6/13）— 趁 SC 雙 query peak
+- **Notes**:
+  - from news-lens weekly 2026-06-07 (event: SC 7d 727 combined impressions / GA 7d 96 v / 上次 spore > 8 週 gap)
+  - 中敏感（身份 / 國旗事件）用作品 anchor 不踩政治
+  - 配圖建議：article 既有圖 / 〈寶貝〉或〈玫瑰色的你〉作品封面 fair-use editorial
+  - Hook tier 自檢：避免 Tier 3「靈魂歌手」神化 frame；用改名作為 anchor 切入身份問題
+  - SPORE-LOG 近 30 d 無重複（最近一次「張懸/安溥」spore 在 4 月之前）
+- **2026-07-16 inbox-audit**: 降/定級 P2 — SC 穩態 demand 但訊號取樣 6/07 已 5 週；曾發 #25/#27（4/13）間隔充足
+
+### 台灣邦交國與國際外交 — SC EN 強 demand REACTIVE spore（2026 邦交清單英文世界搜尋）
+
+- **Source-Mode**: `REACTIVE`
+- **Article-Path**: knowledge/Society/台灣邦交國與國際外交.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: SC 7d EN 3 query 同 intent cluster — taiwan diplomatic allies 2026 70 imp pos 8.63 + taiwan diplomatic allies list 2026 67 imp pos 7.55 + 台灣什麼時候退出聯合國 55 imp pos 9.78 + GA 7d 58 v)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
+  1. **數字 hook**：「台灣有 12 個邦交國 + 113 個館處 + 177 國可以免簽——三個數字加起來，比邦交國數量本身更能說明台灣的位置」
+  2. **問句 hook**：「為什麼這週有 137 個人用英文搜尋『台灣的邦交國有哪些 2026』？因為英文世界沒有一份穩定的清單——大部分百科還停在 2020 年的數字」
+- **時效**: 7 天內（SC EN 三 query 同週 peak，國際讀者主動找 2026 update）
+- **敏感度**: **高（兩岸 / 外交）— REACTIVE 模式 frame 規則**:
+  - 用 12+113+177 三數字並列 frame（邦交國數字單獨容易被框成 isolation narrative）
+  - 不喊「中國打壓」也不喊「邦交雪崩」— 用「113 個館處 = 實質外交」陳述事實
+  - 不選邊「兩岸誰主動」— 焦點放在「台灣怎麼在 12 個邦交以外保持 177 國免簽流動」
+- **必驗事實**（**HG: 必須先讀 article 校準**）：12 邦交國名單與洲別分布 / 113 個館處正式名稱範圍 / 177 國免簽 vs 落地簽 vs eVisa 區分 / 2026 最近一次邦交變動年月 / 退出聯合國年份 1971
 - **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 一週內；跨題材類避開近期 People spore 避免 P/E 過重
-- **Notes**: from news-lens weekly 2026-07-05 (event: SC 陳建騏 408 imp pos 7.1 + GA 64 PV 雙源穩態)；hook 避開「陳建騏男朋友」私事 query 軸線（去年 W26 出現過，per 6/29 feedback「不把私事當 spine」）— anchor 在三金製作人 + 為華語流行拆掉「怪腔怪調」紅線
+- **預估發佈時機**: 本週內（趁 SC EN cluster peak）— ja/en 雙 fan-out 評估
+- **Notes**:
+  - from news-lens weekly 2026-06-07 (event: SC 7d EN 137 combined impressions, 全 0 click position 7-10 = SERP 完全沒接到; GA 7d 58 v 持續中文流量; CF 7d AI crawlers ChatGPT-User 12896 + Bing 10602 高度關注台灣議題)
+  - 高敏感（兩岸 / 外交）— REACTIVE 必須 frame 規則明示如上
+  - 多語 fan-out 觸發判斷 = 高（英文世界 demand 已直接量化；ja 對台灣國際地位有持續 academic 關注；es/fr 中南美邦交 cluster 相關度高）
+  - 配圖建議：12 邦交國洲別分布地圖 / 113 館處 / 177 免簽 三層地圖對照
+  - Hook tier 自檢：避免 Tier 3「孤立的台灣」框架；用三數字並列 reframe「在 12 個正式邦交之外，台灣怎麼活著」
+- **2026-07-16 inbox-audit**: 降/定級 P2 — SC 訊號 6/07 已 5 週；與 ARTICLE-INBOX 邦交國 freshness EVOLVE 綁定，文先刷新再 spore 更划算
+
+### 魏哲家 — TSMC current events EXISTING-ARTICLE spore（GA viral + 半導體時事）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: knowledge/People/魏哲家.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: GA 7d 30 v 持續黏著 + 半導體 current events 2026 H1 TSMC 美國 fab 與 CoWoS 產能爭議 + 接班議題持續發酵 / 從未 spore'd)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
+  1. **場景 hook**：「1953 年新竹出生，交大電子，耶魯博士。2018 接張忠謀的椅子，2024 同時掛董事長 + 總裁——台積電六十年第三個人坐這位子」
+  2. **數字 hook**：「魏哲家年薪台幣多少？答案不只一個——TSMC 高管薪酬結構說明台灣製造業頂層怎麼計算工程師人生」
+- **時效**: 7 天內（趁 TSMC 季報 / 美國 fab / Trump 關稅持續 news cycle）
+- **敏感度**: 中（產業 / 美中科技戰背景需謹慎不踩政治站隊）
+- **必驗事實**（**HG: 必須先讀 article 校準**）：1953 出生 / 交大電子大學 + 耶魯 EE 博士 / TI / Singapore TSMC 經歷 / 2018 接 CEO / 2024 同時掛董事長 + 總裁年份 / 重要決策時刻
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 本週內（趁 TSMC 6 月股東會後續 news cycle）
+- **Notes**:
+  - from news-lens weekly 2026-06-07 (event: GA 7d 30 v 排名 16 持續存在 + TSMC 2026 H1 current events 持續發酵 + 從未 spore'd; CF 7d AI crawlers ChatGPT-User 12896 highly active on TW tech topics)
+  - 中敏感（半導體 / 美中科技戰）— 用工程師背景 + 在地 anchor，不踩美中政治
+  - 多語 fan-out 觸發判斷 = 中-高（en 半導體 industry 受眾持續關注 TSMC 接班；ja 半導體 cluster 興趣高）
+  - 配圖建議：article 既有圖 / 公開新聞照 fair-use editorial / TSMC 廠房不適合（版權問題）
+  - Hook tier 自檢：避免 Tier 3「半導體教父」神化 frame；用具體年份 + 學歷軌跡 anchor
+- **2026-07-16 inbox-audit**: 降/定級 P2 — current events hook 6/07 已 5 週，時事性失效，改 evergreen 抽
+
+### 楊致遠 — GA viral 持續 EXISTING-ARTICLE spore（Yahoo 創辦人時代記憶）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: knowledge/People/楊致遠.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: GA 7d 31 v 持續黏著 + 從未 spore'd / Yahoo 在 2024-2025 重組後仍持續成為 internet history 議題)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
+  1. **場景 hook**：「1968 年台南出生，10 歲移民加州，只會一個英文單字。1994 年史丹佛博班肯不下去，跟同學在校園做了一份『Jerry and David's Guide to the World Wide Web』」
+  2. **問句 hook**：「為什麼 Yahoo 沒接住 Google？答案是 2002 年楊致遠拒絕了 Page 跟 Brin 30 億美元的併購提案——四年後他要花 90 億才能回頭」
+- **時效**: 本週內（GA 7d 持續黏著，無特定 event 但 internet history narrative 永恆有市場）
+- **敏感度**: 低（matter of historical record）
+- **必驗事實**（**HG: 必須先讀 article 校準**）：1968 出生地與年份 / 10 歲移民年份 / 1994 Yahoo 起源於史丹佛 / 2002 Google 併購提案金額與年份 / 2008 微軟併購提案 / 2017 阿里巴巴股權結算 / 台南背景與華語身份
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 本週內或下週
+- **Notes**:
+  - from news-lens weekly 2026-06-07 (event: GA 7d 31 v + article 30d top 15 持續黏著 + 從未 spore'd; SC 直接 query 弱但 internet history 持續 cluster demand)
+  - 低敏感（historical / 商業故事）
+  - 多語 fan-out 觸發判斷 = 中-高（en 對 Yahoo 創辦人有 sustained internet history 興趣；ja/ko 對 dot-com era 台灣裔企業家有市場）
+  - 配圖建議：article 既有圖 / Yahoo 早期 logo / Jerry Yang 公開新聞照 fair-use editorial
+  - Hook tier 自檢：避免 Tier 3「網路傳奇」神化 frame；用具體年份 + 決策 anchor
+- **2026-07-16 inbox-audit**: 降/定級 P2 — GA viral 訊號 6/07 已 5 週，發前重驗
+
+### 臺灣漫遊錄 — GA 30d top non-homepage EXISTING-ARTICLE spore（Booker 翻譯 arc 持續發酵）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: knowledge/Art/臺灣漫遊錄.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-07 by twmd-news-lens-weekly (week 2026-W23, event: GA 30d 1749 v = top non-homepage article + GA 7d 46 v 持續 + 2024 Booker arc 持續發酵 / 上次 spore 5/23 已 > 14 day gap)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
+  1. **數字 hook**：「《臺灣漫遊錄》這 30 天有 1749 個人在 Taiwan.md 讀——是除了首頁以外流量最高的文章。一本『妹妹翻譯的書』把楊雙子從春山推到倫敦領獎台」
+  2. **場景 hook**：「2024 年 5 月，國家圖書館外面下雨。楊雙子上台領 Booker 國際獎，致謝詞用台語講。台下那本書的英譯本封面寫著『a novel by Yang Shuang-Zi, translated by Lin King』」
+- **時效**: 本週內（GA 持續 top 1，Booker 1 週年 5 月已過但 paperback / 教學 demand 持續）
+- **敏感度**: 低（文學 / 翻譯研究）
+- **必驗事實**（**HG: 必須先讀 article 校準**）：2024 Booker 國際獎得獎年份 / 楊雙子本名與雙胞胎背景 / Lin King 譯者 / 春山出版年份 / 書中虛構日治旅遊作家設定 / 原版 vs 譯本差異
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 本週內（趁 GA 持續 top 1 + 暑假 reading list 季啟動）
+- **Notes**:
+  - from news-lens weekly 2026-06-07 (event: GA 30d 1749 v = #1 non-homepage / GA 7d 46 v / 上次 spore 5/23 距今 15 day > 14 day gate; SC 中文 query 弱但 GA 黏著證明站內讀者高度關注)
+  - 低敏感（文學 / 翻譯）
+  - 多語 fan-out 觸發判斷 = 高（en Booker 國際獎 sustained 受眾；ja 對台灣日治文學持續 academic 興趣；ko 對日治殖民史敘事 cluster 相關）
+  - 配圖建議：article 既有圖 / 春山版書影 + Graywolf Press 英譯版書影 並陳 fair-use editorial
+  - Hook tier 自檢：避免 Tier 3「Booker 國際獎肯定」純獎項 frame；用「妹妹翻譯的書」敘事性 anchor
 
 ---
 
-### 彎彎 — SC 782 imp 高曝光 + article 6/29 剛 ship 首波 spore（避免私事 anchor）
+---
 
-- **Source-Mode**: `EXISTING-ARTICLE`（article 2026-06-29 NEW ship，6 天前，仍在趁熱窗口）
-- **Article-Path**: [knowledge/People/彎彎.md](../../knowledge/People/彎彎.md)
-- **Priority**: `P1`
+---
+
+- **2026-07-16 inbox-audit**: 降/定級 P2 — GA 訊號 6/07 已 5 週；曾發 #84/#85（5/23）間隔充足
+
+### 跨黨派的好政策 — lov3ngine 許願 fresh ship 趁熱
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: knowledge/History/跨黨派的好政策.md
+- **Priority**: `P2`
 - **Status**: `pending`
-- **Requested**: 2026-07-05 by twmd-news-lens-weekly (week 2026-W27, event: SC 7d query「彎彎」39 ck / 782 imp / 5.0% CTR / pos 8.2 + 「彎彎近況」8 ck / 189 imp + GA /people/彎彎/ 129 PV — 三源 cross-confirm article ship 6 天內 discovery wave；6/29 EDITORIAL v6.13 feedback「不把私事醜聞當 spine」需硬 enforce)
-- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
-  1. **場景 hook**：「MSN 大頭貼是一個沒穿衣服、頭頂一根捲毛的光頭人 — 那是台灣第一個瀏覽破億的部落格。畫它的人 9,000 塊月薪」
-  2. **反差 hook**：「光頭人永遠天真不老，畫它的胡家瑋卻會長大。所以她讓角色跟自己一起退場，變成歷史人物」
-- **時效**: 7 天內（article ship 一週內 discovery wave 高峰）
-- **敏感度**: **中-高**（HG feedback_decenter_private_scandal 2026-06-29 硬 enforce：不把私事當 spine / title / anchor；spine 是「圖文創作開山鼻祖 + 讓角色變歷史人物」；私事若提及只能一句 society-facing frame，不作 anchor）
-- **必驗事實**（**HG: 必須先讀 article 校準**）: 首篇部落格瀏覽破億時點 / 9,000 元月薪職稱 / MSN 大頭貼流傳時期 / 胡家瑋本名確認 / 「變成歷史人物」是否為當事人自己講法（若引用需 article 有 verbatim source）
+- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: 2026-06-13 ship — 讀者 lov3ngine 在 Threads 留言許願「不分藍綠的好政策」，Semiont 4-agent ~135 search + 11 里程碑回應)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式 — 起手式 5 種：好奇 / 場景 / 問句 / 數字 / 身份）:
+  1. **場景 hook**：「Threads 上一個叫 lov3ngine 的讀者留言：他厭倦藍綠飯桌互罵，只想記得對台灣好的事。我們把這個問題當作業——用他自己提的四把尺（民生 / 民主 / 民權 / 主權），從七十年裡找出十一個活過自己政治的政策」
+  2. **問句 hook**：「土地改革、解嚴、健保、同婚——這四個政策出生那天都吵得最兇，但活下來的方式幾乎一模一樣：時間到了，把『誰做的』踢出算式，就剩『對住在這座島上的人留下了什麼』」
+- **時效**: 7 天內（趁 ship 後 D+1-D+7 旗艦窗口 + 6/14 上週末政論節目週期）
+- **敏感度**: **高（政治 / 藍綠 / 跨黨派 frame）— REACTIVE 規則繼承（即使屬 EXISTING）**:
+  - 不選邊任何一黨，整篇文章核心是「四把尺刻意不問誰做的」— spore 必須繼承這個 frame
+  - 11 政策 spore 只 anchor 2-3 個（避免 list 變成排名比賽）
+  - 不喊「跨黨派萬歲」也不喊「民進黨／國民黨偉大」— 用文章原 anchor「活過自己政治」
+- **必驗事實**（**HG: 必須先讀 article 校準**）：lov3ngine 是 Threads 留言用戶 / 四把尺定義（民生 / 民主 / 民權 / 主權）/ 11 政策清單（不可加減）/ ship 日期 2026-06-13 / 文章未做「政策排名」（無「最好」「最爛」）
+- **必先 spawn ARTICLE-INBOX entry**: ❌（article 已存在）
+- **預估發佈時機**: 本週內（6/14-6/21）— 趁 fresh ship + 政論週期
+- **Notes**:
+  - from news-lens weekly 2026-06-14 (event: 2026-06-13 ship lov3ngine wish article / commit dc98d9818 / 4-agent ~135 search SSOT)
+  - 高敏感（藍綠 frame）— hook 必須保留「四把尺刻意不問誰做的」原 anchor
+  - 配圖建議：article hero `cross-party-freeway-no1-2015.webp`（高速公路一號 = 跨黨派長壽公共財象徵 / Koika CC BY-SA 3.0）
+  - Hook tier 自檢：避免 Tier 3「政治人物列傳」frame；用 article §「政策活過自己政治」anchor，spore 不點名執政者
+  - 跟 SPORE-LOG 14d 無重複（History/政策題從未 spore，#108 二二八是 REACTIVE 反制 cluster 不同）
+  - 跨語 fan-out 評估：低（藍綠 frame 翻譯到 en/ja 容易失去語感；建議 zh-only）
+- **2026-07-16 inbox-audit**: 降/定級 P2 — fresh ship 趁熱已過 4 週；讀者許願題保留（community goodwill）
+
+### 看不見的國家 — 葛靜文紀錄片 主權 REACTIVE 趁熱
+
+- **Source-Mode**: `REACTIVE`
+- **Article-Path**: knowledge/Art/看不見的國家.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: 2026-06-13 ship + EVOLVE 同日「影響 + 還在努力的人」段補 — 哲宇 directive「更立體」)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
+  1. **場景 hook**：「2025 年 6 月，台灣戲院首映前夜地震。導演葛靜文走上台對台灣觀眾說『你們不孤單』——她剛拍完七年，五次貼身專訪蔡英文。然後一部美國人拍的片，賣破三千七百萬，登上台灣紀錄片影史第三」
+  2. **問句 hook**：「一部要讓台灣『被看見』的紀錄片，自己讓誰留在了框外？片裡跳過陳水扁、跳過反對者、跳過框外那個沒有名字的男人——但連這個爭議都在說：看見從來是一個動作，不是一種地位」
+- **時效**: 7 天內（fresh ship + EVOLVE 同日 + 紀錄片在台灣戲院仍在播映窗口）
+- **敏感度**: **高（主權 / 蔡英文 / 兩岸 / PRC 封鎖）— REACTIVE 規則明示**:
+  - 不喊「中國打壓」也不喊「台灣自由」二元 — 用「看見是一個動作」原 anchor 中性
+  - 影評爭議（Jay Liu「淪為執政黨宣傳」/ Guardian「all over the shop」）誠實 acknowledge，spore 不偏袒任一方
+  - 「框外那個沒有名字的男人」（陳水扁省略）作為跨陣營共識的事實觀察，不下政治結論
+  - PRC 對片的 de facto 封鎖點到即止，不放大成「中國怕」narrative
+- **必驗事實**（**HG: 必須先讀 article 校準**）：2025 年 6 月台灣首映 / 票房破三千七百萬（影史第三 / 確認數字級數）/ 葛靜文（Vanessa Hope）/ 拍攝七年 / 蔡英文 5 次專訪 / 邦交國 22 → 12 / 奧運「中華台北」/ Jay Liu 影評身份
 - **必先 spawn ARTICLE-INBOX entry**: ❌
-- **預估發佈時機**: 5-7 天內（趁 article ship 一週窗口）
-- **Notes**: from news-lens weekly 2026-07-05 (event: SC 彎彎 782 imp + article ship 6 天 discovery wave)；**必讀 [feedback_decenter_private_scandal](../../../.claude/projects/-Users-cheyuwu-Projects-taiwan-md/memory/feedback_decenter_private_scandal.md) 完整檔**再下筆 — 6/29 EDITORIAL v6.13 canonical enforce spine 在真實貢獻不在醜聞；spore body 若提及私事僅限 society-facing 短句，不能 anchor / hook / kicker
+- **預估發佈時機**: 本週內（6/14-6/21）— REACTIVE 時效窗口
+- **Notes**:
+  - from news-lens weekly 2026-06-14 (event: 2026-06-13 e6c587213 ship + 21f2ddb44 EVOLVE 「影響 + 還在努力的人」補段 / featured: true / lifeTree image: invisible-nation-tsai-walks.webp)
+  - **高敏感 REACTIVE — frame 規則必須繼承文章 hedge**：access-capture 張力誠實編織，不選邊
+  - 配圖建議：official 紀錄片劇照 fair-use editorial（article 已用 Vanessa Hope 官方）— 注意非 CC，spore 須標 fair-use commentary
+  - CF crawler signal cross-ref：ClaudeBot 41% http200（4795 req / 1966 success）/ ChatGPT-User 11787 req — AI 對主權 sensitive 題目 refusal 證據基線
+  - 跟 SPORE-LOG 14d 無重複（Art 紀錄片題從未 spore）
+- **2026-07-16 inbox-audit**: 6/14 spore-pick 重複 entry 已併入，其 d=1「美國導演七年快門」場景 hook 列為候選 3
+- **2026-07-16 inbox-audit**: 降/定級 P2 — 趁熱已過 4 週，主權 anchor evergreen 保留
+
+### 台灣國片完整史 — 4-agent EVOLVE 趁熱 + 跨年代電影史 anchor
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: knowledge/Art/台灣電影.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: 2026-06-13 EVOLVE — 辯士到串流的死生史 + 4-agent 深研 + 9 媒體落地)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
+  1. **場景 hook**：「1930 年戲院裡，辯士站在銀幕旁用台語替默片即興口白。九十年後《海角七號》讓五種語言一起回到銀幕上——中間台灣電影死了三次又活過來，死法和活法各有不同」
+  2. **數字 hook**：「台語片曾是全球第三大劇情片產國，被掐死。新電影在威尼斯拿金獅那些年，戲院裡的國片票房跌到只剩 0.36%。每個『歷史低點』後面，都有人拒絕承認電影死了——而通常那個人就是侯孝賢、楊德昌、魏德聖」
+- **時效**: 7 天內（EVOLVE 後 D+1-D+7 旗艦窗口 + 6/15 父親節週末娛樂消費觸發）
+- **敏感度**: 低（電影史題 / 無黨派 frame / 無 PRC 衝突）
+- **必驗事實**（**HG: 必須先讀 article 校準**）：1930 辯士台語默片 / 海角七號 5 語言 / 台語片全球第三大劇情片產國 / 0.36% 票房谷底（確認年份）/ 4-agent 深研 EVOLVE 2026-06-13 / readingTime 18 min
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 本週末（6/14-6/15 父親節週末 + 串流觀影高峰）
+- **Notes**:
+  - from news-lens weekly 2026-06-14 (event: 2026-06-13 5c0270599 EVOLVE / commit 「辯士到串流的死生史 + 9 媒體」 / featured: true)
+  - 跟 看不見的國家 + 侯孝賢 同週 spore 形成 Art/電影 cluster — 註：3 條間隔 ≥ 2 天避免饗讀者 spam
+  - 配圖建議：article hero 蔡明亮+李康生劇照（CC BY-SA 3.0）or 海角七號 fair-use editorial
+  - Hook tier 自檢：避免 Tier 3「電影黃金時代」浪漫 frame；用「死了三次又活過來」反高潮 anchor
+  - 跟 SPORE-LOG 14d 無重複
+- **2026-07-16 inbox-audit**: 降/定級 P2 — EVOLVE 趁熱已過 4 週
+
+### 侯孝賢 — SC opportunity 66 imp pos 13.12 + 國片史 cluster
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: knowledge/People/侯孝賢.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: SC 7d 「侯孝賢」66 imp pos 13.12 高曝光低排名 + 台灣電影 EVOLVE 同週推 cluster effect)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
+  1. **身份 hook**：「他拒絕特寫鏡頭、不要求演員背台詞。客家眷村少年用反電影語法，1989 年捧威尼斯金獅、2015 年坎城最佳導演。直到 2023 年阿茲海默症讓他從世界面前退場——他這一輩子沒走的路，每一條都很重要」
+  2. **問句 hook**：「為什麼這週有 66 個人用『侯孝賢』搜尋，但他們全部停在 Google 第 13 頁？因為英文世界的他叫 Hou Hsiao-Hsien，中文世界的他 2023 年告別後沒人替他寫一份完整的繁中傳記——直到我們做了一份」
+- **時效**: 本週內（趁 SC 雙位數 impression peak + 台灣電影 EVOLVE cluster + 父親節週末觀影）
+- **敏感度**: 中（阿茲海默症告別段需謹慎不消費病情 / 政治立場 article 中性處理）
+- **必驗事實**（**HG: 必須先讀 article 校準**）：1947 生 / 2023 阿茲海默症告別 / 1989 威尼斯金獅（悲情城市）/ 2015 坎城最佳導演（刺客聶隱娘）/ 客家眷村背景 / 「拒絕特寫鏡頭」拍攝美學
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 本週內（6/15-6/18）— 跟 台灣電影 spore 間隔 ≥ 2 天避免 cluster overload
+- **Notes**:
+  - from news-lens weekly 2026-06-14 (event: SC 7d 「侯孝賢」66 imp / position 13.12 / 0 clicks — 高 demand 低 ranking SC opportunity #4, GA 沒進 top 15 但 SC drive 強)
+  - 中敏感（告別敘事）— hook 必須 anchor 在「沒走的路」而非「逝去之痛」
+  - 跨語 fan-out 評估：高（en 影展學界、ja 蔡明亮+侯孝賢 cluster 興趣 — Hou Hsiao-Hsien 在 letterboxd / Criterion 圈持續被討論）
+  - 配圖建議：article 既有圖（lifeTree 內嵌劇照 fair-use editorial）
+  - Hook tier 自檢：避免 Tier 3「電影詩人」神化 frame；用 article 「拒絕電影語法」具體創作選擇 anchor
+  - 跟 SPORE-LOG 14d 無重複（侯孝賢 從未 spore ✓）
+- **2026-07-16 inbox-audit**: 降/定級 P2 — SC 訊號 6/14 已 4 週，發前重驗
+
+### 視覺化模組型錄 — 主權的視覺化 anchor + AI crawler 主題契合
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: knowledge/Society/視覺化模組型錄.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: GA 7d 60 v / users 24 — 6/6 ship 8 天 D+8 推廣窗口 + 主題契合 CF AI crawler signal「主權的視覺化」)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
+  1. **問句 hook**：「為什麼 Taiwan.md 不用 D3 或 Canvas 畫互動圖表？因為 GPTBot、PerplexityBot、ClaudeBot 這些 AI 爬蟲不會跑 JavaScript——對它們來說那張圖是一片空白。我們選擇靜態 SVG，就是讓 AI 在六種語言裡都讀得到台灣的第一人稱數據」
+  2. **好奇 hook**：「你知道嗎？我們替每一篇談數據的文章準備了十七種視覺化模組，從『一個大數字』到『縣市磚圖』，全部用真實的台灣居住與人口數據。一頁讀完，你大概會想替你自己的 Markdown 文章偷個三五招」
+- **時效**: 本週內（D+8 推廣窗口 + 跟 跨黨派 / 看不見的國家 article 視覺化模組同主題 cross-ref 機會）
+- **敏感度**: 低（技術系列 / 開源 / 編輯方法論）
+- **必驗事實**（**HG: 必須先讀 article 校準**）：17 個模組 / 全部真實台灣數據 / 純 HTML+SVG（無 JS）/ 跟 graph.md 搭檔關係 / 6/6 ship
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 本週內（6/15-6/20）— 跟 22 縣市 spore 間隔 ≥ 2 天
+- **Notes**:
+  - from news-lens weekly 2026-06-14 (event: GA 7d 60 v / 24 u — 「視覺化模組型錄」cluster CF AI crawler 高度關注主題 / 8 天 D+8 推廣未發過 spore)
+  - **CF AI crawler cross-ref**：ChatGPT-User 11787 req / ClaudeBot 4795 req / GPTBot 754 req — 此 spore 主題「LLM 讀得懂的視覺化 = 主權的視覺化」直接命中 AI surface 跨界讀者
+  - 跨語 fan-out 評估：高（en 技術圈、ja Markdown 文化圈 — 「讓 AI 讀得懂的視覺化」是普世關注議題）
+  - 配圖建議：article hero `taipei-skyline-housing-2026.webp`（CC BY-SA 4.0）或截幾個 tw-\* 模組 stitched 拼圖
+  - Hook tier 自檢：避免 Tier 3「最強視覺化系統」神化 frame；用「為什麼不用 D3」具體技術選擇 anchor
+  - 跟 SPORE-LOG 14d 無重複（Society 視覺化題從未 spore）
+- **2026-07-16 inbox-audit**: 降/定級 P2 — meta 題無時效，排 P2 輪替
+
+### 用數據看台灣22縣市 — 151 倍 / 297 倍 / 一個世代 三數字 anchor
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: knowledge/Geography/用數據看台灣22縣市.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: GA 7d 50 v — 6/6 ship 8 天 D+8 推廣窗口 + 數據新聞 hook anchor 三反差倍數)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
+  1. **數字 hook**：「同一座島，人口密度最高的台北市每平方公里 8,975 人，最低的台東縣只有 59 人——差 151 倍。人口最多的新北市 404 萬，最少的連江縣 1.36 萬——差 297 倍。最年輕的新竹縣高齡化 15.08%，最老的嘉義縣 24.11%——差將近一個世代」
+  2. **好奇 hook**：「全台 22 個縣市，2025 年底的內政部戶政司數據說了三件你可能不知道的事：七成的人擠在三成的土地；老化的前緣不在都市而在東部、離島與農業縣；22 個縣市無一例外，死亡都已經多過出生」
+- **時效**: 本週內（D+8 推廣窗口 + 6/14 上週末新聞週期內政部人口統計常被引述）
+- **敏感度**: 低（純官方數據 / 無黨派 frame）
+- **必驗事實**（**HG: 必須先讀 article 校準**）：台北 8,975 / 台東 59 / 151 倍 / 新北 404 萬 / 連江 1.36 萬 / 297 倍 / 新竹高齡化 15.08% / 嘉義 24.11% / 全 22 縣市死亡＞出生（官方來源：內政部戶政司 2025 年底）
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 本週內（6/16-6/19）— 跟 視覺化模組型錄 spore 間隔 ≥ 2 天
+- **Notes**:
+  - from news-lens weekly 2026-06-14 (event: GA 7d 50 v / 11 u — 「22 縣市」cluster D+8 推廣 + 三反差倍數天然 hook 適合 spore)
+  - 配圖建議：article hero `taiwan-island-nasa-mosaic.webp`（NASA public domain）— 整座島衛星俯瞰天然 anchor
+  - Hook tier 自檢：避免 Tier 3「最完整數據」浮誇 frame；用三具體數字反差 anchor，每個數字後面綁一個解釋
+  - 跨語 fan-out 評估：中（en 人口學者興趣高、ja 高齡化 reference / 數字本身需要 unit 翻譯）
+  - 跟 SPORE-LOG 14d 無重複（Geography 縣市題從未 spore）
+- **2026-07-16 inbox-audit**: 降/定級 P2 — 趁熱已過 4 週，三數字 anchor evergreen 保留
+
+### 蘇打綠 — d=5 名字也要打官司 anchor
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/Music/蘇打綠.md](../../knowledge/Music/蘇打綠.md)
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-14 by twmd-spore-pick-daily (d=5 fresh ship 2026-06-09 / D1=30 趁熱 + D4=+8 music fanout / hs=77 為本批 fresh 池最高 health)
+- **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
+  1. **場景 hook**：2023 年小巨蛋，吳青峰深吸一口氣喊「我們是『蘇打綠』！」——那不是宣告復出，是宣告打了四年的法律戰結束。22 年前在政大金旋獎舞台上組起這個團，沒人想到團名要進法庭
+  2. **數字 hook**：2001 政大金旋獎到 2023 小巨蛋「拿回名字」共 22 年；經紀人林暐哲商標訴訟 vs 吳青峰刑事案件五連敗；第 27 屆金曲獎《冬 未了》一口氣抱走 5 座
+  3. **反差 hook**：「蘇打」是鼓手提的氣泡感、「綠」是吳青峰最愛的顏色——一個沒有深意的學生樂團名，後來變成商標法庭爭論的標的。沒人爭「原意」，只爭「誰先去登記」
+  4. **引語 hook**：「台灣 indie 樂團出道第一件事，是先把團名註冊起來」——蘇打綠用 22 年學會的事，2025 年所有後來者的必修課
+- **時效**: 本週內（d=5 趁熱 + 2023 小巨蛋拿回名字 + 商標法庭話題仍在 indie 樂迷圈發酵）
+- **敏感度**: 低（樂團史 / 法律史 / 商標 anchor 不涉政治）
+- **必驗事實**（**HG: 必須先讀 article 校準**）：2001 政大金旋獎第十八屆樂團組最佳人氣獎以〈窺〉得獎 / 1999 師大附中天韻獎創作組以〈窺〉冠軍 / 政大課指組主辦金旋獎 / 2003-03 三位新成員入團（何景揚 / 劉家凱 / 龔鈺祺）/ 吳青峰中文系、謝馨儀企管系、史俊威社會學系、何景揚公共行政研究所、劉家凱心理系、龔鈺祺北藝大音樂學研究所碩士班 / 2003 貢寮海祭被林暐哲發掘 / 韋瓦第計畫四部曲走遍倫敦北京柏林台東 / 第 27 屆金曲獎《冬 未了》抱走 5 座 / 2017 自由廣場 2 萬人合唱安可 / 2019 起「魚丁糸」分身 / 林暐哲商標訴訟 + 刑事起訴五連敗 / 2023 小巨蛋「拿回蘇打綠」/ 何景揚入團時間中文 wiki vs Yahoo 訪談分歧（2003-03 vs 2004 生日，article 已標史料分歧）
+- **必先 spawn ARTICLE-INBOX entry**: ❌（article 6/09 已 ship `hs=77`）
+- **預估發佈時機**: 6/16-6/18（跟廣告史 / 看不見的國家 spore 錯開 ≥ 1 天，跨類別 Culture→Art→Music 三日節奏）
+- **Notes**:
+  - **Score breakdown (HG3 transparency)**：D1=30 (d=5 ≤7d) / D2=0 / D3=0 / D4=+8 (Music 在 P/F/M/S/H 但 translations=5 ≥3 → +8 not +15) / D5=0 / D6=0 (近 3 spore 嘻哈是音樂題，但 sub 完全不同：嘻哈饒舌 vs 樂團商標戰) / D7=0 → **Total: 38** / **non-zero dims: 2 (D1+D4) → HG10 ✅**
+  - 配圖建議：article hero `sodagreen-six-members-2014.webp`（Solomon203, CC BY-SA 4.0）
+  - Hook tier 自檢：避免 Tier 3「最強台灣樂團」浮誇 frame；用「名字也要打官司」具體法律事件 anchor
+  - 跨語 fan-out 評估：高（en/ja indie 樂迷圈 + 商標訴訟 universal interest + 韋瓦第計畫國際巡演史料）
+  - 跟 SPORE-LOG 14d 無重複（6/09 嘻哈饒舌已發但蘇打綠主題從未 spore，HG5 last-spore PASS lastDate=null）
+  - D6 hook 變異度說明：嘻哈饒舌與蘇打綠雖同為 Music 類，sub 完全異軸（街頭嘻哈聲紋 vs 學生樂團法律戰），不視為同類 hook 重複
+
+---
+
+- **2026-07-16 inbox-audit**: 降/定級 P2 — spore-pick 訊號 6/14 已 4 週
+
+### 紀政 — SC 高曝光人物 EXISTING-ARTICLE spore（女子徑賽傳奇 + 銅牌記憶）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/紀政.md](../../knowledge/People/紀政.md)
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC 7d query 「紀政」792 imp / 5 clicks / CTR 0.63% / pos 9.8 + SC page 1114 imp / 11 clicks / pos 8.8 — 雙源高 demand，第一頁邊緣排名 CTR 失效)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **數字 hook**：1968 墨西哥 100 公尺跨欄 10.4 秒——這個秒數讓她變成第一個拿奧運獎牌的台灣女運動員，比中華台北回到奧會早八年
+  2. **身份 hook**：當過國大代表、立委、體育署長、推過希望工程——但讓她被一整代台灣人記住的，是 56 年前那條跨欄道
+- **時效**: 無（evergreen 人物 + SC 穩態高 demand）
+- **敏感度**: 中（涉及威權時期國族敘事 + 1976 中華台北 frame 起點之一）
+- **必驗事實**: 1968 銅牌賽事與秒數、紀政路跑年份、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC 穩態高 demand 可隨時抽，跟其他 People 類錯開 ≥ 1 天
+- **Notes**: from news-lens weekly 2026-06-21 (event: SC 7d 紀政 query 792 imp pos 9.8 + SC page 1114 imp pos 8.8 雙源確認)；跟 sport 系 #154 體育與奧運（6/19 ship）有 cluster 連結但人物 anchor 完全 separate，無 14d 重複
+
+---
+
+- **2026-07-16 inbox-audit**: 降/定級 P2 — SC 訊號 6/21 已 3.5 週，發前重驗
+
+### 小虎隊 — SC 高曝光低 CTR 補位 EXISTING-ARTICLE spore（rank 1.9 但 CTR 0.13% 失效）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/Music/小虎隊.md](../../knowledge/Music/小虎隊.md)
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC 7d query 「小虎隊」751 imp / 1 click / CTR 0.13% / pos 1.9 + SC page /music/小虎隊/ 1282 imp / 1 click / pos 4.6 — 第二名排名 CTR 卻只有 0.13% = title/description 失效，spore 補社群 reach)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **場景 hook**：1988 中視大廣場主持節目找三個新人陪舞——隔年三個人有了自己的合約，再五年解散一次又重組三次，最後一次重組是去拍春晚
+  2. **數字 hook**：三個人、四個團員（兩任「小帥虎」）、出片 9 張、解散 2 次、上春晚 1 次、跨四個世代不退場
+- **時效**: 無（穩態 80s/90s mandopop nostalgia query）
+- **敏感度**: 低
+- **必驗事實**: 出道時間、解散與重組時間軸、春晚年份、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC 穩態高 demand，跟 Music 類錯開 ≥ 1 天
+- **Notes**: from news-lens weekly 2026-06-21 (event: SC 7d 小虎隊 751 imp pos 1.9 query + 1282 imp page，rank 第二但 CTR 失效雙源 cross-confirm)；同 cluster 也可考慮升級 metadata 但 spore 反應週期短 (≤7d) 比改 frontmatter 快 surface reach
+
+---
+
+- **2026-07-16 inbox-audit**: 降/定級 P2 — SC 訊號 6/21 已 3.5 週，發前重驗
+
+### 吳百福 — SC 高 demand 身份 spore EXISTING-ARTICLE（日清拉麵創辦人 + 台南出身）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/People/吳百福.md](../../knowledge/People/吳百福.md)
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC 7d query 「吳百福」461 imp / 5 clicks / CTR 1.08% / pos 3.4 + SC page /people/吳百福/ 1090 imp / 14 clicks / pos 4.8 — 雙源穩態高 demand)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **身份 hook**：每天全球有兩億包泡麵被吃掉——發明它的人叫吳百福，台南嘉義人，48 歲那年在大阪自家後院搭了一間小工房
+  2. **反差 hook**：日本叫他「安藤百福」，網上維基稱他「日本企業家」——但他到 1966 年才入籍日本，前 56 年的他姓吳，在台灣長大
+- **時效**: 無（evergreen 人物）
+- **敏感度**: 中（殖民身份 + 國籍轉換敘事）
+- **必驗事實**: 1958 雞汁拉麵發明年份、入籍日本日期、出生地（嘉義朴子）、台南早年事業時間軸、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: SC 穩態 demand 可隨時抽
+- **Notes**: from news-lens weekly 2026-06-21 (event: SC 7d 吳百福 461 imp pos 3.4 + 1090 imp page 雙源 cross-confirm + 識別「安藤百福」frame 在中文搜尋仍以「吳百福」為主)
+
+---
+
+- **2026-07-16 inbox-audit**: 降/定級 P2 — SC 訊號 6/21 已 3.5 週，發前重驗
+
+### 清法戰爭 — SC 高曝光歷史 spore EXISTING-ARTICLE（1884 滬尾之役 + 法國占基隆）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/History/清法戰爭.md](../../knowledge/History/清法戰爭.md)
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: SC page /history/清法戰爭/ 3251 imp / 6 clicks / CTR 0.18% / pos 5.7 — 高 demand 但 CTR 0.18% 嚴重低於 page 5.7 預期 → metadata/title 失效，spore 補社群 reach + cross-check metadata)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **場景 hook**：1884 年 10 月法國艦隊封鎖基隆港八個月，當時的清軍統帥是劉銘傳——基隆失守、滬尾守住，這場戰役直接催生兩年後的台灣建省
+  2. **問句 hook**：法國為什麼會打到淡水？答案不在台灣，在越南——這是中法越南戰爭打到一半轉場的衍生戰場，台灣只是被波及
+- **時效**: 無（evergreen 歷史 + SC 高曝光低 CTR）
+- **敏感度**: 中（涉及清帝國 vs 殖民地敘事 + 法國史料 cross-language）
+- **必驗事實**: 1884 年封鎖時長、滬尾之役勝負方、清法越南條約年份（1885）、article lastVerified
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: 跟 History 類錯開 ≥ 1 天
+- **Notes**: from news-lens weekly 2026-06-21 (event: SC page 3251 imp pos 5.7 CTR 0.18% — 排名健康但 CTR 嚴重失效，spore 是 immediate reach + metadata review 後續分派 EVOLVE / SEO 優化)
+
+---
+
+- **2026-07-16 inbox-audit**: 降/定級 P2 — SC 訊號 6/21 已 3.5 週，發前重驗
+
+### 笠詩社 — 趁熱 60 年弧線 spore EXISTING-ARTICLE（6/20 NEW ship + SPORE chain blocker recovery）
+
+- **Source-Mode**: `EXISTING-ARTICLE`
+- **Article-Path**: [knowledge/Art/笠詩社.md](../../knowledge/Art/笠詩社.md)
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-21 by twmd-news-lens-weekly (week 2026-W25, event: commit 9b7fd2c8c 2026-06-20 NEW ship 「笠詩社 60 年」+ SPORE chain deferred (Chrome MCP 連 5 cycle 結構性 blocker, see 4600c08e1 memory) — news-lens 補位讓 P1 落地 SPORE-INBOX 待 Chrome MCP 恢復後 PICK 抽走)
+- **Hook anchor 候選**（≥ 2 跨 ≥ 2 種起手式）:
+  1. **數字 hook**：60 年——這是台灣存活最久的中文詩刊，創辦那年是 1964，台灣還在戒嚴，創辦的 12 個人有一半小時候只會寫日文
+  2. **身份 hook**：被迫忘掉日文、再學中文寫詩——這群人創了《笠》，名字取自台灣農民的笠帽，社徽是顆稻穀
+- **時效**: 趁熱 ≤ 7 天（6/20 ship D+1 起算，windows 7d）
+- **敏感度**: 中（涉及國族語言切換史 + 殖民/戒嚴跨層）
+- **必驗事實**: 1964 創刊年份、12 位創社成員、刊物連續發行期數、article lastVerified（fresh）
+- **必先 spawn ARTICLE-INBOX entry**: ❌
+- **預估發佈時機**: Chrome MCP blocker 解除後立即 PICK，跨 People/Art 類錯開
+- **Notes**: from news-lens weekly 2026-06-21 (event: 6/20 NEW ship article 趁熱窗口 + spore-publish blocker recovery 路徑)；不期待 routine 自動 ship（受 Chrome MCP 結構性 blocker 影響），但 PICK 抽到時 hook anchor 已備齊，blueprint 也好生
+
+---
+
+- **2026-07-16 inbox-audit**: 降/定級 P2 — 6/20 ship 趁熱已過 3.5 週，60 年弧線 evergreen 保留
+
+<!-- ═══ ⚪ P3 — 等 article ship ═══ -->
+
+### 台灣媒體總史 — EVERGREEN-TOPIC spore（150 年五階段：清領教會報 → 自媒體 podcast）
+
+- **Source-Mode**: `EVERGREEN-TOPIC`
+- **Article-Path**: `none-yet`（屬於 [ARTICLE-INBOX §台灣媒體總史 NEW](../semiont/ARTICLE-INBOX.md) P0，2026-05-17 哲宇 directive spawn，~180 min 開發）
+- **Priority**: `P3`（要等 article ship）
+- **Status**: `pending`
+- **Requested**: 2026-05-28 by twmd-spore-pick-daily routine (score=8)
+- **Hook anchor 候選**（先列，等 article ship 後再校準）：
+  1. **數字 hook**：「1885 年《台灣府城教會報》巴克禮在台南創刊 → 1898 台灣日日新報 → 1923 蔣渭水《台灣民報》→ 1949 三報禁（中央/中時/聯合 vs 黨外雜誌）→ 1988-01-01 報禁解除 → 1995 蕃薯藤 → 2000 PTT → 2010s Facebook → 2020s podcast。台灣媒體史 150 年，五個媒體形式的更替疊在同一座島上」
+  2. **問句 hook**：「為什麼台灣最早的報紙是用白話字寫的台語？答案藏在 1885 年巴克禮從蘇格蘭把活字印刷帶進台南神學院那一刻 — 台灣媒體史的第一個音節不是漢字，是白話字台語」
+  3. **場景 hook**（待 article ship 後校準）：「1885 年 7 月，台南神學院旁邊。巴克禮把蘇格蘭運來的活字一個一個排版印刷，《台灣府城教會報》第一期創刊號頭版用白話字台語寫著教會消息。140 年後台灣媒體生態還沒走完那一頁 — 從紙本到 podcast 五個階段，每一階段都有自己的言論戰場」
+  4. **身份 hook**（待 article ship 後校準）：「你今天讀的 Threads / Facebook / podcast / Substack 屬於台灣媒體史第五階段。前四階段是清領教會報、日治新聞、戰後黨報、解嚴後自由化 — 同一座島從 1885 到 2026，150 年五階段每一階段都有人因為媒體被關押」
+- **時效**：等 article ship（est. ARTICLE-INBOX P0 哲宇 directive 5/17 spawn，~180 min 開發，1-2 週可排上 baseline 6/4-6/10 window）
+- **敏感度**：**中-高**（黨外雜誌史 + 媒體被收購（旺中/中時 etc.）+ 紅媒爭議 needs precision per MAINTAINER §爭議處理）— 以「媒體形式演化史 + 報紙 / 廣播 / 電視 / 網路 / 自媒體 五階段」literary frame 起手，政治含義由 1949 三報禁 / 1988 報禁解除 / 黨外雜誌 具體事實承擔；HG9 通過因為不涉及兩岸/228/戒嚴/統獨/中共/習近平 hardcoded set
+- **必驗事實**（article ship 時校準，per ARTICLE-INBOX P0 必驗清單）：1885-07《台灣府城教會報》巴克禮創刊台南 / 1898 台灣日日新報 / 1923 台灣民報（or 1920 台灣青年） / 1949 報禁起始年份 vs 1988-01-01 報禁解除 / 雷震《自由中國》 / 1979 美麗島事件 / 廣電法修法時點 / 1993 廣播電視自由化 / 1995 蕃薯藤 / 1995 PTT 杜奕瑾（per 既有 People 條目） / 2000s Facebook 進入台灣時點 / 2020s podcast 興起
+- **必先 spawn ARTICLE-INBOX entry**：✅ **已存在**（per [ARTICLE-INBOX §台灣媒體總史 NEW](../semiont/ARTICLE-INBOX.md) P0，2026-05-17 哲宇 directive spawn）
+- **預估發佈時機**：article ship 後 7 天內趁熱
+- **Notes**：
+  - score=8 (D1=0 article 不存在 / D2=0 SC 未累積 / D3=0 / D4=+8 Society 不在 high_fanout 列表但「媒體史」對應國際媒體研究受眾 — judgment call / D5=0 / D6=0 / D7=0 mid-high 敏感但 hardcoded keyword set (兩岸/228/戒嚴/統獨/中共/習近平) 未直接命中)
+  - HG7 contribution: **EVERGREEN-TOPIC** (#1 of 1) — 對應 #1 艋舺 + #2 台灣 BIM 兩條 EXISTING-ARTICLE 形成 2 mode mix ✓
+  - HG9 borderline check: 媒體史 = 黨外雜誌 / 紅媒爭議敏感但 article ship 時 frame「150 年五階段媒體形式演化」literary mode 可避開政治正面對撞；非 REACTIVE 也通過 HG9
+  - 多語 fan-out 觸發判斷 = 中-高（媒體史是國際傳播學受眾大 cluster；ja 對日治《台灣日日新報》/《台灣民報》（蔣渭水）有 demand / en 對白話字台語報紙 + 解嚴後 PTT/網路時代有 academic demand / ko 對 1988 報禁解除比較有政治轉型史 demand）— 對應 [MANIFESTO §主權的巴別塔](../semiont/MANIFESTO.md#我跟台灣的關係) sovereignty preservation infrastructure 在「媒體史」這個 cluster 的具體落實
+  - 國際 SEO 切入：「Taiwan media history」「Taiwan Church News 1885」「Pe̍h-ōe-jī newspaper」「Taiwan press freedom 1988」
+  - 配圖建議：article ship 時挑《台灣府城教會報》創刊號 fair-use editorial / 巴克禮肖像 Wikimedia / 1988 報禁解除歷史照
+  - Hook tier 自檢：避免 Tier 3「黨外雜誌反抗」政治英雄 frame / 避免 Tier 3「台灣媒體自由排名」國族主義 frame；以「白話字 → 漢字 → 廣播 → 電視 → 網路 → 自媒體 形式演化」frame 起手，政治含義由 1949/1988/2020 具體年份承擔
+  - 跟 SPORE-LOG 14d 無重複（媒體史類別 spore 缺；最近 Society spore 是 #79 寶島聯播網訪談 5/5 — 22 天前 ≫ 14d ✓）
+  - article ship 後 routine 自動升級此 entry 為 EXISTING-ARTICLE + 補 Article-Path（per SPORE-INBOX §Routine intake 自動升級規則）
 
 ---
 
