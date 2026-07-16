@@ -30,6 +30,13 @@ upstream_canonical:
 | **GATES**        | `python3 scripts/tools/editorial-room-health.py {review}`；overall=block → 回修（最多 2 輪全席，第 3 輪升級觀察者）；必改 ≤7                  |
 | **context 預算** | 各席只吃填槽 prompt＋審查對象；主編收件合成                                                                                                   |
 
+## 攻防輪（v1.1）
+
+任一席 revise／block → 寫方答辯一輪（accept／defend，prompt 見
+[EDITORIAL-ROOM-PROMPTS §攻防輪](EDITORIAL-ROOM-PROMPTS.md)），主編看攻防後才最終裁決；
+review 檔加 `## 攻防` 段（challenge／defense／ruling 三欄——公開視覺化的爭議過程素材）。
+規則 canonical：[EDITORIAL-ROOM §攻防輪](../editorial/EDITORIAL-ROOM.md)。
+
 ## HANDOFF（stage 完成時）
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）

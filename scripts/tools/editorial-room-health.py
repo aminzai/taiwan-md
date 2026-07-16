@@ -47,8 +47,8 @@ def check_file(path: Path) -> list[str]:
     if fm.get("overall") and fm["overall"] not in VALID_OVERALL:
         errors.append(f"overall must be pass|revise|block, got {fm.get('overall')!r}")
     room = fm.get("room", "")
-    if room and room not in ("projection", "prose-structure"):
-        errors.append(f"room must be projection|prose-structure, got {room!r}")
+    if room and room not in ("projection", "prose-structure", "chief"):
+        errors.append(f"room must be projection|prose-structure|chief, got {room!r}")
 
     # seat verdicts
     seat_blocks = re.findall(

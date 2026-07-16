@@ -3,9 +3,9 @@ title: 'EDITORIAL-ROOM'
 description: '編輯室對抗 canonical — 投影後／正文後乾淨 context 分席審稿；主編裁決；結構外部尺'
 type: 'editorial-canonical'
 status: 'canonical'
-current_version: 'v1.0'
-last_updated: 2026-07-15
-last_session: '2026-07-15-112237-manual'
+current_version: 'v1.1'
+last_updated: 2026-07-16
+last_session: '2026-07-16-newsroom-orchestration（v1.1 攻防輪＋總編室，睨 GAN 提案＋哲宇 directive）'
 sister_docs:
   - 'PROJECTION.md'
   - 'EDITORIAL.md'
@@ -95,7 +95,7 @@ fresh writer 寫正文
 ```markdown
 ---
 slug: { slug }
-room: projection | prose-structure
+room: projection | prose-structure | chief
 date: YYYY-MM-DD
 seats: [structure, ethics, ...]
 overall: pass | revise | block
@@ -161,6 +161,62 @@ rounds: 1
 
 ---
 
+---
+
+## 攻防輪（記者答辯，v1.1）
+
+> 睨（2026-07-16 對話）：「像 GAN 一樣——編輯挑戰選點，記者捍衛選點的選擇價值觀。」
+> 原分席審是單向（席位出意見 → 主編裁決）；攻防輪讓寫方有一次答辯，主編看攻防後才裁。
+
+**觸發**：任一席 verdict 為 revise / block 時，寫方（投影作者或 writer——用**原 context 的
+那顆腦**，這是它唯一合法的出場：捍衛自己的選點）對每條必改回覆一次：
+
+- `accept`：接受修改（默認）
+- `defend`：捍衛選點，附理由（為什麼這個切點／減法／結構是刻意的，犧牲了什麼換到什麼）
+
+**上限一輪**（防迴圈燒 token）。主編看完攻防才出最終裁決；defend 被駁回就照改。
+
+**報告落檔**：review 檔加 `## 攻防` 段，結構化三欄——這一段就是公開視覺化的爭議過程素材：
+
+```markdown
+## 攻防
+
+### 必改 #N
+
+- challenge:（席位原文）
+- defense: accept ｜ defend——（寫方理由）
+- ruling:（主編裁決一句話）
+```
+
+---
+
+## 總編室（成品層對抗總評，v1.1）
+
+> 睨：「AI 是線性深度推論，總編很常是**平行的漣漪出去**，並且檢驗連結關係和脈絡
+> 如果構成一個主軸。」哲宇：「需要總編輯獨立一個 agent，用對抗性的方式把標題的
+> 觀點性、整篇文章的脈絡做總評。」
+
+**REWRITE 錨點**：Step 3.7（[REWRITE-STAGE-3-VERIFY.md](../pipelines/REWRITE-STAGE-3-VERIFY.md)
+§總編對抗總評）。**觸發面**：A 級／大眾文 HARD，standard WARN。與 3.6 同 round 可平行。
+
+**與 2.5-R 的分工**：2.5-R 驗「正文有沒有執行藍圖」（對圖施工驗收）；總編室**不看藍圖**，
+只拿成品＋標題，模擬一個冷讀的總編：這篇作為報導成不成立。
+
+**平行探針**（Sonnet ×4-5，各自乾淨 context，falsification prompt，禁讀藍圖與研究報告）：
+
+| 探針             | 問題                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------ |
+| 門面兌現         | 標題／description 承諾的觀點，正文中段有沒有真的賺到？（門面句是最弱面——Shopping Design 摘要尾句教訓） |
+| 逐段主軸服務     | 每個 H2 段落對全篇主軸的扣回；抓「京都研究」式前後無脈絡的斷裂段（吸菸室教訓）                         |
+| H2 載體還原      | 每個小標過主–述–賓還原＋可指載體（[EDITORIAL §小標題](EDITORIAL.md)）                                  |
+| 連結成網         | footnote／cross-link／延伸閱讀是否構成支撐主軸的網，還是裝飾                                           |
+| 立體地愛（條件） | 政治敏感／人物題加開：MANIFESTO §13 檢驗                                                               |
+
+**匯流**：主編（永遠主 session）收五路探針，落
+`reports/editorial-room/{slug}-chief-review.md`（`room: chief`），≤7 必改，同 gate 三態。
+
+---
+
 ## 與其他機制邊界
 
 | 機制              | 編輯室關係                    |
@@ -172,4 +228,5 @@ rounds: 1
 
 ---
 
+_v1.1 | 2026-07-16 — 攻防輪（記者答辯一輪）＋總編室（成品層平行探針對抗總評）；睨 GAN 提案與「總編是平行漣漪」洞察落地。_
 _v1.0 | 2026-07-15 — dogfood Shopping Design 投影／正文結構室。_

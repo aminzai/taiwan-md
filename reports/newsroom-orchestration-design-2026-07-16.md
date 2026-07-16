@@ -168,7 +168,12 @@ contract 檔）、Hard Gate Inventory（加一欄「contract 檔」）、多 age
 `reports/archive/rewrite-pipeline-changelog-pre-v9.md` 快照）、觸發背景敘事
 （→ 各 stage 檔「背景」附錄段）。
 
-### 4.2 stage contract 檔（`docs/pipelines/rewrite/`）
+### 4.2 stage contract 檔（實作定案：平面放 `docs/pipelines/REWRITE-STAGE-*.md`）
+
+> 實作時偏離本節原案（`docs/pipelines/rewrite/` 子目錄）：stage 檔平放原目錄用
+> `REWRITE-STAGE-` 前綴。理由：verbatim 搬移的 2118 行內含數百條相對連結
+> （`../editorial/`、`../../reports/`、同目錄 PROMPTS），平面放置一條都不用改；
+> 子目錄要全量 sed 修鏈，是整個拆檔裡最容易靜默出錯的一步。分組可讀性由共同前綴承擔。
 
 拆檔清單（10 檔，對應現行行號範圍搬移，內容 verbatim 為主、只改結構）：
 

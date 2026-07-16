@@ -261,3 +261,20 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 **三關全過才算成品 ship。已 ship 後觸發（讀者 callout）→ 三關照跑，修正以 `heal:` commit 補。**
 
 ---
+
+---
+
+### Step 3.7: 總編對抗總評（v9.0 新增）🗞️ — A 級／大眾文 HARD，standard WARN
+
+成品層最後一道外部尺：**不看藍圖、不看研究報告**，模擬冷讀總編。4-5 個平行 Sonnet 探針
+（門面兌現／逐段主軸服務／H2 載體還原／連結成網／＋政治敏感題加開立體地愛），各自乾淨
+context、falsification 姿態。主編（主 session）匯流裁決，落
+`reports/editorial-room/{slug}-chief-review.md`（`room: chief`，schema 同編輯室），
+`editorial-room-health.py` gate，≤7 必改。與 Step 3.6 同 round 可平行——3.6 驗事實原子，
+3.7 驗「作為一篇報導成不成立」。
+
+- 規則 canonical：[EDITORIAL-ROOM §總編室](../editorial/EDITORIAL-ROOM.md)
+- 探針 prompt：[EDITORIAL-ROOM-PROMPTS §總編室](EDITORIAL-ROOM-PROMPTS.md)（禁即興）
+- 誕生：2026-07-16 睨對話「總編是平行的漣漪出去，檢驗連結關係和脈絡構成主軸」＋哲宇
+  「需要總編輯獨立一個 agent 用對抗性方式總評標題觀點性與整篇脈絡」＋兩個實證缺口
+  （Shopping Design 摘要尾句看不懂／吸菸室京都段前後斷裂——都是形式閘門全綠但冷讀不成立）

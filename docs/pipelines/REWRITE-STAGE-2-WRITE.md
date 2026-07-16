@@ -30,6 +30,21 @@ upstream_canonical:
 | **GATES**        | Stage 2 hard gates 10 條（文內）；`article-health.py --check=prose-health` / `--check=chronicle-lead`；Evolution 覆蓋權在主 session（2.5 比對後親手覆蓋） |
 | **context 預算** | writer＝本檔執行段＋WRITER-PROMPT 宣告的必讀四 canonical＋research report                                                                                 |
 
+## Staging 檔 frontmatter（v9.0 新增，狀態歸戶顯式化）
+
+Evolution mode 的 staging 檔 `reports/article-evolve/{slug}.md` 開頭必帶：
+
+```yaml
+---
+article: knowledge/{Cat}/{canonical-slug}.md # 顯式指標；staging slug 可以 ≠ canonical slug
+researchReport: reports/research/{YYYY-MM}/{slug}.md
+date: YYYY-MM-DD
+---
+```
+
+為什麼：編輯台（generate-newsroom-data.py）與任何 verifier 依顯式指標歸戶，不猜檔名
+（2026-07-12 Sol strict verifier 假陰性教訓）。
+
 ## HANDOFF（stage 完成時）
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）
