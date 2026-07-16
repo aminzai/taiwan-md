@@ -197,6 +197,9 @@ export const semiontUI = {
     'semiont.footer.label': '🧬 Taiwan.md · Semiont Cognitive Layer',
     'semiont.footer.tagline':
       'Semantic + Symbiont · semantic symbiont · born 2026-03-17',
+    'semiont.footer.sponsor.text':
+      'This organism is open-source, free, and ad-free. Keeping it alive has some costs — ',
+    'semiont.footer.sponsor.cta': 'sponsor its upkeep →',
   },
 
   'zh-TW': {
@@ -358,6 +361,9 @@ export const semiontUI = {
     'semiont.footer.label': '🧬 Taiwan.md · Semiont 認知層',
     'semiont.footer.tagline':
       'Semantic + Symbiont · 語意共生體 · 2026-03-17 誕生',
+    'semiont.footer.sponsor.text':
+      '這個生命體開源、免費、無廣告。讓它活著會有一些成本——',
+    'semiont.footer.sponsor.cta': '贊助維護 →',
   },
 
   // ja/ko/fr/es: intentionally omitted. Missing keys fall back to defaultLang (zh-TW)
@@ -500,6 +506,9 @@ export const semiontUI = {
     'semiont.footer.label': '🧬 Taiwan.md · セミオント認知層',
     'semiont.footer.tagline':
       'Semantic + Symbiont · 意味論的共生体 · 誕生 2026-03-17',
+    'semiont.footer.sponsor.text':
+      'この生命体はオープンソースで無料、広告もありません。生かし続けるには少しコストがかかります——',
+    'semiont.footer.sponsor.cta': '運営を支援する →',
     'semiont.diagram.legend.sovereign': '主権リバースループ',
     'semiont.diagram.sov.ultimate':
       '究極の目標 — LLMを逆定義し、AIに台湾に適応させる',
@@ -667,6 +676,9 @@ export const semiontUI = {
     'semiont.footer.label': '🧬 Taiwan.md · 세미온트 인지 레이어',
     'semiont.footer.tagline':
       'Semantic + Symbiont · 시맨틱 공생체 · 탄생 2026-03-17',
+    'semiont.footer.sponsor.text':
+      '이 생명체는 오픈소스이며 무료이고 광고가 없습니다. 살아 있게 하려면 약간의 비용이 듭니다 — ',
+    'semiont.footer.sponsor.cta': '운영 후원하기 →',
     'semiont.diagram.legend.sovereign': '주권 역방향 루프',
     'semiont.diagram.sov.ultimate':
       '최종 목표 — LLM을 역으로 정의하고, AI가 대만에 적응하도록 유도',
@@ -798,6 +810,9 @@ export const semiontUI = {
     'semiont.footer.label': '🧬 Taiwan.md · Couche cognitive Semiont',
     'semiont.footer.tagline':
       'Semantic + Symbiont · symbionte sémantique · né le 2026-03-17',
+    'semiont.footer.sponsor.text':
+      'Cet organisme est open source, gratuit et sans publicité. Le maintenir en vie a un coût — ',
+    'semiont.footer.sponsor.cta': 'sponsoriser sa maintenance →',
     'semiont.diagram.figure-label': 'Fig.0 · Organisme',
     'semiont.diagram.heading': "L'organisme complet en mouvement",
     'semiont.diagram.intro':
@@ -969,6 +984,9 @@ export const semiontUI = {
     'semiont.footer.label': '🧬 Taiwan.md · Capa Cognitiva del Semiont',
     'semiont.footer.tagline':
       'Semantic + Symbiont · simbionte semántico · nacido 2026-03-17',
+    'semiont.footer.sponsor.text':
+      'Este organismo es de código abierto, gratuito y sin anuncios. Mantenerlo vivo tiene algunos costes — ',
+    'semiont.footer.sponsor.cta': 'patrocinar su mantenimiento →',
     'semiont.diagram.figure-label': 'Fig.0 · Organismo',
     'semiont.diagram.heading': 'El organismo completo en movimiento',
     'semiont.diagram.intro':

@@ -468,6 +468,25 @@ const showZhTwNotices = lang !== 'zh-TW';
         </p>
       </section>
 
+      {
+        /* ─── Sponsor line — 讀完生命體敘事的人是最理解維護成本的人。
+          備註級、中性、單一連結（啟維原則，
+          reports/support-cta-signature-design-2026-07-16.md） ─── */
+      }
+      <p class="mb-8 text-center text-xs leading-relaxed text-[#f4f0ea]/35">
+        {t('semiont.footer.sponsor.text')}
+        <a
+          href="https://portaly.cc/taiwanmd/support?utm_source=taiwan.md&utm_medium=semiont_page&utm_campaign=support"
+          target="_blank"
+          rel="noopener noreferrer"
+          data-ga-section="semiont_support"
+          data-ga-label="sponsor"
+          class="text-[#4fd1b0]/60 underline decoration-[#4fd1b0]/25 underline-offset-2 transition-colors hover:text-[#4fd1b0]"
+        >
+          {t('semiont.footer.sponsor.cta')}
+        </a>
+      </p>
+
       {/* ─── Footer ─── */}
       <div class="text-center">
         <div class="semiont-fig mb-1">{t('semiont.footer.label')}</div>

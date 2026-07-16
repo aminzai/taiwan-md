@@ -131,3 +131,42 @@ UTM 讓 Portaly 端（啟維的平台自帶來源分析）能按入口切實際�
 **查詢工具**：`scripts/tools/support-funnel.py`（`--days 28`）— 四階段漏斗表 + 相鄰階段轉換率 + 各入口點擊分佈；GA4 creds 缺時 graceful degrade 只出 transactions 端統計。
 
 **驗證證據（dev server 實測）**：點擊簽名檔贊助 pill，gtag 實收 `outbound_click {section: article_signature, label: sponsor, link_url: …utm_medium=article_signature…, page_lang: zh-TW, page_type: article}` — 全欄位皆已註冊 dims。
+
+---
+
+## 十、全站盤點（2026-07-16 /goal：每個 surface 加或不加＋理由）
+
+**策略一句話**：只在「讀者剛拿到價值、或正在看維運透明度」的時刻遞出 ask；瀏覽中、沉浸中、迷路中不伸手。同一視野只出現一次贊助入口（Footer 全站墊底不算重複——它是被動存在，不是主動 ask）。到處都放 = 啟維說的「被鞭」的另一種形式：伸手牌壁紙。
+
+### 加（7 個主動入口，全部有 section + utm_medium 進漏斗）
+
+| Surface                        | 時機邏輯                                                   | 形式               |
+| ------------------------------ | ---------------------------------------------------------- | ------------------ |
+| 文章結尾簽名檔                 | 剛讀完一篇文 = 價值交付峰值                                | 三選項簽名檔       |
+| 首頁「加入我們」               | 參與方式的自然第三選項                                     | 第三顆按鈕         |
+| /contribute 支持卡             | 明確帶著參與意圖而來                                       | 既有雙卡（補量測） |
+| About 贊助區                   | 了解完這是誰做的                                           | 既有連結（補量測） |
+| **Dashboard 贊助時間軸**（新） | 正盯著公開金流的人就是在考慮的人；透明度語境講成本最自然   | 時間軸尾端一行字   |
+| **/semiont 生命體頁**（新）    | 讀完 Semiont 敘事的深度讀者 = 最理解「讓它活著有成本」的人 | 頁尾備註一行       |
+| Footer                         | 全站被動墊底                                               | 既有（補量測）     |
+
+### 刻意不加（理由記錄，避免未來 session 重新提案）
+
+| Surface                                                              | 不加的理由                                                             |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Header / nav                                                         | 導航是找路的地方，ask 在這裡 = 伸手牌                                  |
+| 404                                                                  | 讀者正在迷路，時機最錯                                                 |
+| category hub / /latest / explore / graph                             | 瀏覽中，價值還沒交付（/latest 另有 97% bounce 死路問題，加了也沒人看） |
+| map / soundscape / taiwan-shape / lifetree                           | 沉浸式體驗，打斷即扣分                                                 |
+| data / opendata / resources / assets / companies / bench / elections | 參考型 surface，Footer 已覆蓋                                          |
+| /mcp / terminology converter                                         | 工具價值時刻成立，但先觀察七入口數據再說（避免一次鋪太廣稀釋量測）     |
+| changelog / semiont 子頁（diary/weekly/manifesto…）                  | landing 已有入口，子頁再放 = 同一視野重複 ask                          |
+| 404 之外的錯誤態、搜尋                                               | 同 404                                                                 |
+
+### 同日附帶修復
+
+babel `readingTime` 污染家族：12 檔（李昂/童子賢/王永慶/葉國一/楊傳廣 × 各語）的 `readingTime` 被翻譯管線黏進 zh 源檔的 `design_rationale` 註解塊，側欄渲染成一坨文字 + 「min read」。已全修為 zh 源數值並驗證 YAML parse。哲宇在 `/en/people/li-ang` 親眼抓到（外部尺第 N 次）。
+
+### Portaly 端追蹤設定（哲宇問「要填什麼」）
+
+`portaly.cc/admin/tagManager` 只填一格：**Google Analytics 4 = `G-JGC5W00N7T`**（站上 Layout.astro 同一顆 measurement ID）。填了之後 Portaly 贊助頁的到訪會進我們的 GA4 property，且 URL 上的 `utm_medium` 會被 GA4 原生歸因——漏斗多出「實際抵達贊助頁」一階，按入口拆。其餘三格留空：Universal Analytics 已死（2023 日落）、GTM 我們沒有 container、Facebook Pixel 沒在投放。

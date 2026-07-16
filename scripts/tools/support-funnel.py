@@ -90,14 +90,17 @@ SIGNATURE_SECTION = "article_signature"
 # 階段 3：贊助連結的固定字串（含 utm 參數所以用 contains，不用 exact）
 SUPPORT_LINK_SUBSTRING = "portaly.cc/taiwanmd/support"
 
-# 階段 3 分組：五個已知入口的 data-ga-section 值 → 人話標籤
-# （順序 = 漏斗設計報告裡列的順序，跟模板埋點對照見本檔頂部 docstring）
+# 階段 3 分組：已知入口的 data-ga-section 值 → 人話標籤
+# （順序 = 漏斗設計報告裡列的順序，跟模板埋點對照見本檔頂部 docstring；
+#   2026-07-16 全站盤點補 dashboard_supporters + semiont_support 兩個入口）
 KNOWN_SUPPORT_SECTIONS = [
     ("article_signature", "文章結尾簽名檔"),
     ("footer_support", "頁尾"),
     ("about_sponsors", "關於頁贊助區"),
     ("contribute_support", "貢獻頁支持區"),
     ("contribute", "首頁貢獻區塊"),
+    ("dashboard_supporters", "儀表板贊助時間軸"),
+    ("semiont_support", "生命體頁"),
 ]
 
 

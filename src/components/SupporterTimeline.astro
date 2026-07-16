@@ -187,6 +187,23 @@ const maxMonthAmount = monthEntries.reduce((m, [, v]) => Math.max(m, v), 1);
       </>
     )
   }
+
+  {
+    /* 透明度語境的低調贊助入口：看著這張時間軸的人就是在考慮支持的人。
+      中性一句話，不賣慘（啟維原則，reports/support-cta-signature-design-2026-07-16.md） */
+  }
+  <p class="supporter-cta-line">
+    這些數字全部公開。想加入的話：
+    <a
+      href="https://portaly.cc/taiwanmd/support?utm_source=taiwan.md&utm_medium=dashboard_supporters&utm_campaign=support"
+      target="_blank"
+      rel="noopener noreferrer"
+      data-ga-section="dashboard_supporters"
+      data-ga-label="sponsor"
+    >
+      到 Portaly 贊助維護 →
+    </a>
+  </p>
 </section>
 
 <style>
@@ -221,6 +238,22 @@ const maxMonthAmount = monthEntries.reduce((m, [, v]) => Math.max(m, v), 1);
     color: #64748b;
     font-style: italic;
     padding: 1rem 0;
+  }
+  .supporter-cta-line {
+    margin: 1.25rem 0 0;
+    padding-top: 0.9rem;
+    border-top: 1px dashed #e2e8f0;
+    color: #64748b;
+    font-size: 0.85rem;
+  }
+  .supporter-cta-line a {
+    color: #0f766e;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-color: rgba(15, 118, 110, 0.35);
+  }
+  .supporter-cta-line a:hover {
+    text-decoration-color: rgba(15, 118, 110, 0.9);
   }
   .supporter-stats-row {
     display: grid;
