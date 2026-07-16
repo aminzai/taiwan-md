@@ -2,22 +2,19 @@
 title: "Li Ang: Lukang 1952, the Trailblazer Who Opened the Path of Taiwanese Feminist Literature with 'The Butcher's Wife'"
 description: "Born in April 1952 in Lukang, Changhua, under the birth name Shih Shu-tuan. In 1983, 'The Butcher's Wife' was serialized in United Daily News, shocking the literary world with its subject matter of domestic violence. 'The Enchanted Garden' followed in 1991. In 2004, she was awarded the Chevalier de l'Ordre des Arts et des Lettres by France. Her works have been translated into English, French, German, Japanese, and other languages, making her one of the most internationally recognized female writers from Taiwan."
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "文學"
-tags: ["文學", "女性主義文學", "殺夫", "迷園", "鹿港", "性別議題"]
-readingTime: '# design_rationale:
-#   why_this_hook: "從鹿港切入，保守古鎮出了最激進的女性主義作家，這個對比本身就是她作品的來源。"
-#   whats_excluded: "各部作品詳細情節分析；學術論文引用清單；政治評論活動細節"
-#   where_it_hedges: "出生日期有4/5與4/7兩說（均以1952年4月為準）；已移除「2018年第22屆國家文藝獎」幻覺（第22屆得主是平路、黃明川等，非李昂）"'
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '文學'
+tags: ['文學', '女性主義文學', '殺夫', '迷園', '鹿港', '性別議題']
+readingTime: 7
 lastVerified: 2026-05-07
-lastHumanReview: "true"
-featured: "false"
-translatedFrom: "People/李昂.md"
-sourceCommitSha: "0f8fae0ae"
-sourceContentHash: "sha256:047f29e16ec14ac9"
-sourceBodyHash: "sha256:0a0f9bd1ab3db88b"
-translatedAt: "2026-05-24T05:06:32+08:00"
+lastHumanReview: 'true'
+featured: 'false'
+translatedFrom: 'People/李昂.md'
+sourceCommitSha: '0f8fae0ae'
+sourceContentHash: 'sha256:047f29e16ec14ac9'
+sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
+translatedAt: '2026-05-24T05:06:32+08:00'
 ---
 
 # Li Ang: Lukang 1952, the Trailblazer Who Opened the Path of Taiwanese Feminist Literature with "The Butcher's Wife"

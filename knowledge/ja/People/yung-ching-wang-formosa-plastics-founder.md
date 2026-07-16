@@ -6,10 +6,7 @@ author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技と企業'
 tags: ['科技と企業', '台塑グループ', '石油化学工業', '六軽', '起業家']
-readingTime: '# design_rationale:
-#   why_this_hook: "六軽への二十年の奮戦から切り入る——この事実は「米店から帝国へ」という出発点以上に王永慶を定義する。彼は政府との長期消耗戦を戦い抜く覚悟のある人間であり、しかも勝ち抜いた。"
-#   whats_excluded: "台塑グループ各社の詳細な財務数字；三夫人一族の家系図；六軽の環境問題に関する詳細"
-#   where_it_hedges: "テキサス投資の正確な年（1986年または1980年、P0確認待ち）；三夫人遺産争いの法的最終結果は報道済み部分を基準とする"'
+readingTime: 7
 lastVerified: 2026-05-07
 lastHumanReview: true
 featured: false

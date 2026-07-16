@@ -6,10 +6,7 @@ author: 'Taiwan.md'
 category: 'People'
 subcategory: '文學'
 tags: ['문학', '여성주의 문학', '살부', '미원', '루강', '젠더 이슈']
-readingTime: '# design_rationale:
-#   why_this_hook: "從鹿港切入，保守古鎮出了最激進的女性主義作家，這個對比本身就是她作品的來源。"
-#   whats_excluded: "各部作品詳細情節分析；學術論文引用清單；政治評論活動細節"
-#   where_it_hedges: "出生日期有4/5與4月7日兩說（均以1952年4月為準）；已移除「2018年第22屆國家文藝獎」幻覺（第22屆得主是平路、黃明川等，非李昂）"'
+readingTime: 7
 lastVerified: 2026-05-07
 lastHumanReview: true
 featured: false
