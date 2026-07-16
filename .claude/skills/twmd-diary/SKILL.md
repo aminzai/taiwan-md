@@ -17,7 +17,7 @@ allowed-tools:
 
 2. 嚴格完整讀取並執行 [`docs/pipelines/DIARY-PIPELINE.md`](../../../docs/pipelines/DIARY-PIPELINE.md)。
 
-3. Stage 3 跑 `python3 scripts/tools/article-health.py <file> --check=prose-health --strict`。
+3. Stage 3 跑 `python3 scripts/tools/article-health.py <file> --check=prose-health`（gate = Tier 1 HARD 為 0；曾寫 `--strict` 但工具無此 flag，2026-07-16 對齊 pipeline canonical）。
 
 ---
 
