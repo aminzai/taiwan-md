@@ -163,6 +163,12 @@ def extract_zh_frontmatter_fields(zh_content):
     for line in fm_block.split("\n"):
         if not line.strip():
             continue
+        # YAML 註解行永遠不是欄位值的一部分——skip。2026-07-16 病根修復：
+        # 舊版把 `readingTime: 7` 下方的 `# design_rationale:` 註解塊當多行值
+        # 續行收集，迴圈收尾時整塊「覆寫」掉 7，scaffold 再把污染值餵給模型
+        # VERBATIM 照抄 → 12 檔翻譯的 readingTime 變成整段註解（3d8d5e7ef 批次）。
+        if line.lstrip().startswith("#"):
+            continue
         # Top-level key: "key:" or "key: value"
         m = re.match(r"^([a-zA-Z_][a-zA-Z0-9_]*):\s*(.*)$", line)
         if m:
@@ -173,6 +179,9 @@ def extract_zh_frontmatter_fields(zh_content):
             value = m.group(2).strip()
             if value:
                 fields[current_key] = value
+                # 同修復：inline 值已完整，重置 current_key——否則後續任何
+                # 非 key 行（縮排續行以外的雜行）都會被誤收成這個 key 的值。
+                current_key = None
             else:
                 multi_line_value = []
         elif current_key:

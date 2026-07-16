@@ -40,7 +40,7 @@
 
 - [ ] **哲宇兩個 Portaly 端動作**：後台 tagManager 填 GA4 `G-JGC5W00N7T`；斗內頁頂貼一句話成本說明（報告 §五有全文）
 - [ ] **D+7 看漏斗首批數據**：`python3 scripts/tools/support-funnel.py --days 7`，順便決定 taste fork B（share icon row 要不要收進簽名檔）
-- [ ] **babel readingTime 病根**：chip task_ad75163e 已開，含全站同型欄位掃描
+- [x] ~~**babel readingTime 病根**：chip task_ad75163e~~（retired by 同 session 續跑：病根在 `extract_zh_frontmatter_fields` 狀態機——inline 值後 `current_key` 未重置，註解行被收成續行整塊覆寫欄位值；已修＋4 case 重現測試＋audit-quality 加 comment-glued/readingTime-numeric 兩道 gate；全站掃出早上漏網的 8 檔（lastHumanReview 變體 3＋雙引號單行變體 5）一併修復歸零）
 - [ ] SupporterTimeline 元件 zh-hardcoded 卻渲染在六語 dashboard（pre-existing，低優先）
 
 ## Beat 5 — 反芻

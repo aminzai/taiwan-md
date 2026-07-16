@@ -93,6 +93,20 @@ def yaml_self_test(content: str) -> tuple[bool, str]:
         if k in seen:
             return False, f"duplicate key: {k}"
         seen.add(k)
+    # 3. Comment-glued value：欄位值以引號+# 開頭 = zh 源檔的 YAML 註解塊被
+    #    黏進欄位（extract_zh_frontmatter_fields 舊病根的輸出簽名，2026-07-16
+    #    修於 openrouter-translate.py；12 檔 readingTime 受害，3d8d5e7ef 批次）。
+    for line in fm.split("\n"):
+        m = re.match(r"^([a-zA-Z_][a-zA-Z0-9_]*):\s*['\"]#", line)
+        if m:
+            return False, f"comment-glued value in `{m.group(1)}`: {line[:80]}"
+    # 4. readingTime 必須是數字（允許裸整數 / 引號整數 / legacy `Nmin`）。
+    #    黏塊污染的第一受害欄位；任何非數字形都值得人看一眼。
+    m = re.search(r"^readingTime:\s*(.+)$", fm, re.M)
+    if m:
+        v = m.group(1).strip()
+        if not re.fullmatch(r"['\"]?\d+(min)?['\"]?", v):
+            return False, f"readingTime not numeric: {v[:60]}"
     return True, ""
 
 

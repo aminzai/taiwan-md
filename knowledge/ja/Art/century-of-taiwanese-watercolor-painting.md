@@ -7,10 +7,7 @@ category: 'Art'
 subcategory: '視覺藝術'
 tags: ['Art', 'watercolor', 'painting', '水彩', '美術史']
 lastVerified: 2026-05-13
-lastHumanReview: '# design_rationale:
-#   why_this_hook: "石川1907→簡忠威AWS双会员：一个教室启蒙到国际赛场的百年弧线"
-#   whats_excluded: "各协会年报细节；2024后新生代；IWS台湾分会组织史；美术教育108课纲"
-#   where_it_hedges: "蓝荫鼎1971十大水彩：引述名称为『欧美艺术评论学会』，确切组织名可参阅鸿禧基金会原始记录"'
+lastHumanReview: true
 featured: false
 translatedFrom: 'Art/台灣水彩畫的百年流變.md'
 sourceCommitSha: '0f8fae0a'
