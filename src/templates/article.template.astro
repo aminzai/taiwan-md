@@ -24,6 +24,7 @@ import ArticleCard from '../components/ArticleCard.astro';
 import Perspectives from '../components/Perspectives.astro';
 import SporeFootprint from '../components/SporeFootprint.astro';
 import DiaryTeaser from '../components/DiaryTeaser.astro';
+import NewsroomTrail from '../components/NewsroomTrail.astro';
 import RelatedDiaries from '../components/RelatedDiaries.astro';
 import { useTranslations } from '../i18n/utils';
 import {
@@ -420,6 +421,12 @@ const encodedTitle = encodeURIComponent(title);
                   lang={lang}
                 />
               ) : null}
+              <NewsroomTrail
+                slug={slug}
+                category={category}
+                frontmatter={frontmatter}
+                lang={lang}
+              />
               <div class="prose" set:html={contentAfterReading} />
             </>
           ) : (
@@ -439,6 +446,12 @@ const encodedTitle = encodeURIComponent(title);
                   lang={lang}
                 />
               ) : null}
+              <NewsroomTrail
+                slug={slug}
+                category={category}
+                frontmatter={frontmatter}
+                lang={lang}
+              />
             </>
           )
         }

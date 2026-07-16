@@ -1,0 +1,117 @@
+---
+// NewsroomTrail — 文章底部「編輯台足跡」溯源區塊（beta，zh-TW 先行）
+//
+// 哲宇 2026-07-16 directive：「投影脈絡跟研究報告這些早期的檔案，都在文章頁面上
+// 連結到，讓更多 AI 或人在看這份資料的時候可以即刻溯源。」
+// 資料：newsroom-lookup（dashboard-newsroom.json）＋ frontmatter.researchReport fallback。
+// 設計對位 RelatedDiaries / SporeFootprint：presence-based、不加新 frontmatter 欄。
+import { findNewsroomRecord, hasTrail } from '../lib/newsroom-lookup';
+
+interface Props {
+  slug: string;
+  category: string;
+  frontmatter: Record<string, any>;
+  lang: string;
+}
+const { slug, category, frontmatter, lang } = Astro.props;
+
+const GH = 'https://github.com/frank890417/taiwan-md/blob/main/';
+const rec = findNewsroomRecord(category, slug);
+
+const LABEL: Record<string, string> = {
+  research: '研究報告',
+  projection: '投影藍圖',
+  room_projection: '編輯室・投影審',
+  room_prose: '編輯室・正文審',
+  room_chief: '總編總評',
+};
+
+const links: { label: string; href: string }[] = [];
+if (rec) {
+  for (const [k, label] of Object.entries(LABEL)) {
+    const art = rec.stages?.[k]?.artifact;
+    if (art) links.push({ label, href: GH + art });
+  }
+  const v = rec.stages?.verify;
+  if (v?.stage35_artifact)
+    links.push({
+      label: '事實審計 3.5',
+      href: GH + (v as any).stage35_artifact,
+    });
+  if (v?.stage36_artifact)
+    links.push({
+      label: '原子審計 3.6',
+      href: GH + (v as any).stage36_artifact,
+    });
+}
+// fallback：看板觀測窗外的舊文，frontmatter researchReport 仍可溯源
+if (!links.length && frontmatter?.researchReport) {
+  links.push({
+    label: '研究報告',
+    href: GH + String(frontmatter.researchReport).replace(/^\//, ''),
+  });
+}
+
+const makingOf =
+  rec && hasTrail(rec)
+    ? `/semiont/newsroom/${encodeURIComponent(rec.slug)}/`
+    : null;
+const show = lang === 'zh-TW' && links.length > 0;
+---
+
+{
+  show && (
+    <aside class="newsroom-trail" aria-label="編輯台足跡">
+      <p class="nt-head">
+        🏛️ 編輯台足跡 <span class="nt-beta">beta</span>
+      </p>
+      <p class="nt-body">
+        這篇文章的生產過程攤在公開 repo：
+        {links.map((l) => (
+          <a href={l.href} rel="noopener">
+            {l.label} ↗
+          </a>
+        ))}
+        {makingOf && <a href={makingOf}>思考脈絡 →</a>}
+        <a href="/semiont/newsroom/">共享編輯台 →</a>
+      </p>
+    </aside>
+  )
+}
+
+<style>
+  .newsroom-trail {
+    margin: 2rem 0;
+    padding: 0.9rem 1.2rem;
+    border: 1px dashed rgba(128, 128, 128, 0.4);
+    border-radius: 10px;
+    font-size: 0.85rem;
+    line-height: 2;
+  }
+  .nt-head {
+    margin: 0;
+    font-weight: 600;
+    opacity: 0.85;
+  }
+  .nt-beta {
+    font-size: 0.65rem;
+    border: 1px solid currentColor;
+    border-radius: 999px;
+    padding: 0 0.45em;
+    opacity: 0.7;
+    vertical-align: middle;
+  }
+  .nt-body {
+    margin: 0.15rem 0 0;
+    opacity: 0.85;
+  }
+  .nt-body a {
+    display: inline-block;
+    margin-right: 0.9em;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.4);
+  }
+  .nt-body a:hover {
+    border-bottom-color: currentColor;
+  }
+</style>

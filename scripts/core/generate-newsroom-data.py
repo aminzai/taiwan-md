@@ -176,6 +176,8 @@ for month in month_dirs:
             continue
         slug = stem
         r = rec(slug)
+        if "research" in r["stages"]:  # 月槽由新到舊掃：first-seen＝最新月，舊月同名檔不覆蓋
+            continue
         vp = fm.get("viewpoint_formed") == "true"
         r["spine_type"] = r["spine_type"] or fm.get("spine_type")
         set_stage(
