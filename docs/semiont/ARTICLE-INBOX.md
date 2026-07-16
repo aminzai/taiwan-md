@@ -71,6 +71,18 @@ distill_targets:
 每條 pending 條目格式：
 
 ```markdown
+### 大罷免 EVOLVE — v9 pipeline 首次全程 dogfood（哲宇 goal）
+
+- **Type**: `EVOLVE`
+- **Category**: History
+- **Path**: knowledge/History/大罷免.md
+- **Priority**: `P0`
+- **Status**: `in-progress`
+- **Requested**: 2026-07-16 by 哲宇 /goal（session newsroom-dogfood）
+- **Notes**: 政治敏感題——多視角中立紀實、0.6.7 三道 self-check HARD、FACTCHECK Full、3.7 總編加開立體地愛探針。續跑指南在 memory/2026-07-16-163500-newsroom-dogfood.md §Handoff
+- **Dev log**:
+  - 2026-07-16 by newsroom-dogfood: Stage 0 觀點 agent 派發（Opus），研究 fan-out 四路已備
+
 ### {主題名}
 
 - **Type**: `NEW` | `EVOLVE`
