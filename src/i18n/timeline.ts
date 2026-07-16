@@ -9,13 +9,21 @@
  */
 export const timelineUI = {
   en: {
+    'timeline.figures': 'Faces of this era',
+    'timeline.prologueSource':
+      'The periodization here follows the Taiwan Island History perspective proposed by historian Tsao Yung-ho in 1990.',
+    'timeline.prologueSourceCta': 'Read the article',
+    'timeline.outroMap': 'Taiwan in space: the map',
+    'timeline.statEras': 'eras',
+    'timeline.statEvents': 'key moments',
+    'timeline.statArticles': 'linked articles',
     'timeline.outroLinked': 'articles are already stitched into this axis',
     'nav.timeline': 'Timeline',
     'nav.timeline.subtitle': 'Taiwan, era by era',
     'timeline.meta.title': 'Timeline of Taiwan — from prehistory to today',
     'timeline.meta.description':
       "Scroll through every era of Taiwan's history — Austronesian origins, Dutch and Spanish rule, the Zheng kingdom, Qing, the Japanese era, martial law, democratization and today — each linked to in-depth articles.",
-    'timeline.eyebrow': 'TIME TAIWAN',
+    'timeline.eyebrow': 'FROM PREHISTORY TO TODAY',
     'timeline.title': 'Timeline of Taiwan',
     'timeline.subtitle':
       'The map unfolds this island in space; this page unfolds it in time. Scroll from prehistory to the present — every era connects to the articles and research on this site.',
@@ -34,13 +42,21 @@ export const timelineUI = {
     'timeline.outroHistory': 'Browse the History section',
   },
   ja: {
+    'timeline.figures': 'この時代の顔',
+    'timeline.prologueSource':
+      'このページの時代区分は、歴史学者・曹永和が1990年に提唱した「台湾島史観」に基づく。',
+    'timeline.prologueSourceCta': '記事を読む',
+    'timeline.outroMap': '地理でめぐる台湾（地図）',
+    'timeline.statEras': 'の時代',
+    'timeline.statEvents': 'の出来事',
+    'timeline.statArticles': '本の記事',
     'timeline.outroLinked': '本の記事がこの軸に縫い込まれている',
     'nav.timeline': 'タイムライン',
     'nav.timeline.subtitle': '時代でめぐる台湾',
     'timeline.meta.title': '台湾の歩み — 先史から現在まで',
     'timeline.meta.description':
       '台湾の歴史を時代ごとにスクロールでたどる——南島の起源、オランダ・スペイン、鄭氏王朝、清朝、日本統治、戒厳令、民主化、そして現在。各時代がサイトの記事につながる。',
-    'timeline.eyebrow': '時間の台湾',
+    'timeline.eyebrow': '先史から現在まで',
     'timeline.title': '台湾の歩み',
     'timeline.subtitle':
       '地図はこの島を空間に広げ、このページは時間に広げる。先史から現在までスクロールしながら、各時代の記事と研究へ。',
@@ -59,13 +75,21 @@ export const timelineUI = {
     'timeline.outroHistory': '歴史カテゴリを見る',
   },
   ko: {
+    'timeline.figures': '이 시대의 얼굴',
+    'timeline.prologueSource':
+      '이 페이지의 시대 구분은 역사학자 차오융허가 1990년에 제창한 「타이완 섬 사관」을 따른다.',
+    'timeline.prologueSourceCta': '글 읽기',
+    'timeline.outroMap': '지리로 보는 타이완(지도)',
+    'timeline.statEras': '개 시대',
+    'timeline.statEvents': '개 순간',
+    'timeline.statArticles': '편의 글',
     'timeline.outroLinked': '편의 글이 이미 이 축에 엮여 있다',
     'nav.timeline': '타임라인',
     'nav.timeline.subtitle': '시대로 보는 타이완',
     'timeline.meta.title': '타이완의 발자취 — 선사시대부터 오늘까지',
     'timeline.meta.description':
       '타이완의 역사를 시대별로 스크롤하며 따라간다. 오스트로네시아 기원, 네덜란드와 스페인, 정씨 왕조, 청, 일본 통치, 계엄, 민주화, 그리고 현재까지. 각 시대가 사이트의 글로 이어진다.',
-    'timeline.eyebrow': '시간의 타이완',
+    'timeline.eyebrow': '선사시대부터 현재까지',
     'timeline.title': '타이완의 발자취',
     'timeline.subtitle':
       '지도가 이 섬을 공간으로 펼친다면, 이 페이지는 시간으로 펼친다. 선사시대부터 현재까지 스크롤하며 각 시대의 글과 연구로 이어진다.',
@@ -84,13 +108,21 @@ export const timelineUI = {
     'timeline.outroHistory': '역사 카테고리 보기',
   },
   es: {
+    'timeline.figures': 'Rostros de esta era',
+    'timeline.prologueSource':
+      'La periodización de esta página sigue la perspectiva de la «historia de la isla de Taiwán», propuesta por el historiador Tsao Yung-ho en 1990.',
+    'timeline.prologueSourceCta': 'Leer el artículo',
+    'timeline.outroMap': 'Taiwán en el espacio: el mapa',
+    'timeline.statEras': 'eras',
+    'timeline.statEvents': 'momentos clave',
+    'timeline.statArticles': 'artículos enlazados',
     'timeline.outroLinked': 'artículos ya están cosidos a este eje',
     'nav.timeline': 'Cronología',
     'nav.timeline.subtitle': 'Taiwán, era por era',
     'timeline.meta.title': 'Cronología de Taiwán: de la prehistoria a hoy',
     'timeline.meta.description':
       'Recorre cada era de la historia de Taiwán: orígenes austronesios, el dominio neerlandés y español, el reino Zheng, la era Qing, la era japonesa, la ley marcial, la democratización y el presente, con enlaces a artículos en profundidad.',
-    'timeline.eyebrow': 'TAIWÁN EN EL TIEMPO',
+    'timeline.eyebrow': 'DE LA PREHISTORIA A HOY',
     'timeline.title': 'Cronología de Taiwán',
     'timeline.subtitle':
       'El mapa despliega esta isla en el espacio; esta página la despliega en el tiempo. Desplázate de la prehistoria al presente: cada era conecta con los artículos y la investigación del sitio.',
@@ -109,6 +141,14 @@ export const timelineUI = {
     'timeline.outroHistory': 'Explorar la sección de Historia',
   },
   fr: {
+    'timeline.figures': 'Visages de cette ère',
+    'timeline.prologueSource':
+      "Le découpage de cette page suit la perspective de « l'histoire de l'île de Taïwan », proposée par l'historien Tsao Yung-ho en 1990.",
+    'timeline.prologueSourceCta': "Lire l'article",
+    'timeline.outroMap': "Taïwan dans l'espace : la carte",
+    'timeline.statEras': 'ères',
+    'timeline.statEvents': 'moments clés',
+    'timeline.statArticles': 'articles reliés',
     'timeline.outroLinked': 'articles sont déjà cousus à cet axe',
     'nav.timeline': 'Chronologie',
     'nav.timeline.subtitle': 'Taïwan, ère par ère',
@@ -116,7 +156,7 @@ export const timelineUI = {
       'Chronologie de Taïwan — de la préhistoire à nos jours',
     'timeline.meta.description':
       "Parcourez chaque ère de l'histoire de Taïwan : origines austronésiennes, domination hollandaise et espagnole, royaume Zheng, ère Qing, ère japonaise, loi martiale, démocratisation et présent — chacune reliée aux articles du site.",
-    'timeline.eyebrow': 'TAÏWAN DANS LE TEMPS',
+    'timeline.eyebrow': 'DE LA PRÉHISTOIRE À NOS JOURS',
     'timeline.title': 'Chronologie de Taïwan',
     'timeline.subtitle':
       "La carte déploie cette île dans l'espace ; cette page la déploie dans le temps. Faites défiler de la préhistoire au présent — chaque ère mène aux articles et recherches du site.",
@@ -135,13 +175,21 @@ export const timelineUI = {
     'timeline.outroHistory': 'Parcourir la section Histoire',
   },
   'zh-TW': {
+    'timeline.figures': '這個時代的臉',
+    'timeline.prologueSource':
+      '這一頁的分期方法，來自歷史學家曹永和 1990 年提出的「臺灣島史觀」。',
+    'timeline.prologueSourceCta': '讀這篇',
+    'timeline.outroMap': '地理台灣：地圖',
+    'timeline.statEras': '個時代',
+    'timeline.statEvents': '個關鍵時刻',
+    'timeline.statArticles': '篇文章接進軸線',
     'timeline.outroLinked': '篇文章已經接進這條軸線',
     'nav.timeline': '時間台灣',
     'nav.timeline.subtitle': '把島嶼沿時間展開',
     'timeline.meta.title': '時間台灣：從史前到現在的歷史時間軸',
     'timeline.meta.description':
       '由上往下滑，把台灣的每個時代展開：南島起源、荷西競逐、明鄭、清領、日治、戒嚴、民主化到當代——每個時代都接著站上的深度文章與研究。',
-    'timeline.eyebrow': '時間台灣',
+    'timeline.eyebrow': '從史前到現在',
     'timeline.title': '時間台灣',
     'timeline.subtitle':
       '地圖把這座島沿空間展開，這一頁把它沿時間展開。從史前一路滑到現在，每個時代都接著站上的文章與研究。',

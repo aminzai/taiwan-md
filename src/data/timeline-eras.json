@@ -1,5 +1,5 @@
 {
-  "$comment": "時間台灣（/timeline）策展資料層 SSOT。時代分期依據：曹永和臺灣島史觀 + NMTH 斯土斯民八展區 + knowledge/History/_History Hub.md 既有分期。事件年份逐條對站內已查核文章驗證（reports/timeline-page-design-2026-07-16.md §八）。文章引用格式 Category/slug，對應 knowledge/ 路徑；template 於 build 時 fail-loud 驗證 zh 索引存在。多語策略：Localized inline struct（幾何與 slug 語言無關，文字欄六語）。",
+  "$comment": "時間台灣（/timeline）策展資料層 SSOT。時代分期依據：曹永和臺灣島史觀 + NMTH 斯土斯民八展區 + knowledge/History/_History Hub.md 既有分期。事件年份逐條對站內已查核文章驗證（reports/timeline-page-design-2026-07-16.md §八）。文章引用格式 Category/slug，對應 knowledge/ 路徑；template 於 build 時 fail-loud 驗證 zh 索引存在。多語策略：Localized inline struct（幾何與 slug 語言無關，文字欄六語）。 v2（2026-07-16 進化）：新增 figures（時代人物列，People 從 articles 抽出）與 events[].link（事件連到站內文章，同一條 fail-loud resolve）。人物 chip 短名由 template 從文章標題「名字：副標」切出，不在此重複。",
   "eras": [
     {
       "id": "austronesian",
@@ -61,7 +61,8 @@
             "ko": "타이완에서 가장 오래된 인류 활동의 증거로, 타이둥 바셴 동굴 유적이 대표적이다.",
             "es": "La evidencia más antigua de actividad humana en Taiwán, representada por las cuevas de Baxian en Taitung.",
             "fr": "La plus ancienne trace d'activité humaine à Taïwan, illustrée par les grottes de Baxian à Taitung."
-          }
+          },
+          "link": "History/史前時代與原住民"
         },
         {
           "year": {
@@ -87,7 +88,8 @@
             "ko": "신석기 농경 취락이 나타났다. 타이완은 오스트로네시아어족 확산의 원향으로 여겨진다.",
             "es": "Aparecen asentamientos agrícolas neolíticos; Taiwán se considera la probable cuna de la expansión austronesia.",
             "fr": "Apparition de villages agricoles néolithiques ; Taïwan est considérée comme le foyer probable de l'expansion austronésienne."
-          }
+          },
+          "link": "History/史前時代與原住民"
         },
         {
           "year": {
@@ -113,7 +115,8 @@
             "ko": "북부 타이완에 제철 기술을 가진 취락이 나타나며 철기시대로 접어든다.",
             "es": "Asentamientos que dominan la fundición de hierro aparecen en el norte de Taiwán.",
             "fr": "Des villages maîtrisant la métallurgie du fer apparaissent dans le nord de Taïwan."
-          }
+          },
+          "link": "History/史前時代與原住民"
         },
         {
           "year": "1584",
@@ -132,7 +135,8 @@
             "ko": "스페인 선장 갈리의 항해일지에 'As Ilhas Fermosas'가 기록된다. '포르모사'라는 이름은 네덜란드 시대 이후에야 정착했다.",
             "es": "El diario del capitán español Francisco Gali registra «As Ilhas Fermosas»; el nombre «Formosa» solo se consolidó tras la era neerlandesa.",
             "fr": "Le journal du capitaine espagnol Francisco Gali note « As Ilhas Fermosas » ; le nom « Formosa » ne s'imposera qu'après l'époque hollandaise."
-          }
+          },
+          "link": "History/福爾摩沙"
         }
       ],
       "anchors": ["History/史前時代與原住民"],
@@ -190,7 +194,8 @@
             "ko": "지금의 타이난에 상관과 젤란디아 요새를 세우고, 남부 타이완이 네덜란드 통치에 들어간다.",
             "es": "Se construyen una factoría y el fuerte Zeelandia en la actual Tainan; el sur de Taiwán queda bajo dominio neerlandés.",
             "fr": "Un comptoir et le fort Zeelandia sont bâtis dans l'actuelle Tainan ; le sud de Taïwan passe sous domination néerlandaise."
-          }
+          },
+          "link": "History/荷西明鄭時期"
         },
         {
           "year": "1626",
@@ -209,7 +214,8 @@
             "ko": "지룽과 단수이에 성을 쌓고 남쪽의 네덜란드와 대치한다.",
             "es": "Levantan fuertes en Keelung y Tamsui, frente a los neerlandeses del sur.",
             "fr": "Des forts s'élèvent à Keelung et Tamsui, face aux Néerlandais du sud."
-          }
+          },
+          "link": "Geography/基隆市"
         },
         {
           "year": "1642",
@@ -285,7 +291,8 @@
             "ko": "정성공이 네덜란드 장관 코예트를 물리치고 둥닝 왕국을 세운다.",
             "es": "Koxinga derrota al gobernador Frederick Coyett y funda el Reino de Tungning.",
             "fr": "Koxinga défait le gouverneur Frederick Coyett et fonde le royaume de Tungning."
-          }
+          },
+          "link": "People/鄭成功"
         },
         {
           "year": "1683",
@@ -304,7 +311,8 @@
             "ko": "시랑이 펑후를 함락하자 정씨 정권이 항복하고, 3대 21년의 둥닝 통치가 끝난다.",
             "es": "Shi Lang toma Penghu y el régimen Zheng se rinde: acaban veintiún años y tres generaciones de Tungning.",
             "fr": "Shi Lang prend Penghu, le régime Zheng capitule : fin de vingt-et-un ans et trois générations de Tungning."
-          }
+          },
+          "link": "History/荷西明鄭時期"
         }
       ],
       "desertNote": {
@@ -364,7 +372,8 @@
             "ko": "타이완부를 설치해 푸젠성에 소속시키고, 도항 금지령으로 가족 동반 이주를 제한한다.",
             "es": "Se crea la prefectura de Taiwán bajo Fujian; la prohibición de cruce impide llevar a las familias.",
             "fr": "La préfecture de Taïwan est créée sous le Fujian ; l'interdiction de traversée empêche d'emmener sa famille."
-          }
+          },
+          "link": "History/清治時期"
         },
         {
           "year": "1721",
@@ -383,7 +392,8 @@
             "ko": "청 통치기 민란의 시대가 막을 올린다. 임상문(1786), 대조춘(1862)의 난이 뒤따랐다.",
             "es": "Comienza la era de las revueltas bajo los Qing; siguen las de Lin Shuangwen (1786) y Dai Chaochun (1862).",
             "fr": "L'ère des révoltes sous les Qing s'ouvre ; suivront celles de Lin Shuangwen (1786) et Dai Chaochun (1862)."
-          }
+          },
+          "link": "People/朱一貴"
         },
         {
           "year": "1858",
@@ -402,7 +412,8 @@
             "ko": "톈진 조약 이후 단수이, 안핑, 지룽, 다거우가 차례로 개항하고 차, 설탕, 장뇌가 세계로 팔려나간다.",
             "es": "Tras el Tratado de Tianjin abren Tamsui, Anping, Keelung y Takau; té, azúcar y alcanfor parten al mundo.",
             "fr": "Après le traité de Tianjin, Tamsui, Anping, Keelung et Takau ouvrent tour à tour ; thé, sucre et camphre partent vers le monde."
-          }
+          },
+          "link": "History/19世紀的樟腦戰爭"
         },
         {
           "year": "1874",
@@ -440,7 +451,8 @@
             "ko": "류밍촨이 초대 순무로 부임하고 철도, 전신 등 근대 건설이 시작된다.",
             "es": "Liu Mingchuan es el primer gobernador; comienzan ferrocarriles, telégrafos y obras modernas.",
             "fr": "Liu Mingchuan devient premier gouverneur ; chemins de fer, télégraphe et travaux modernes commencent."
-          }
+          },
+          "link": "People/劉銘傳"
         },
         {
           "year": "1895",
@@ -459,7 +471,8 @@
             "ko": "청 제국이 타이완을 일본에 할양한다.",
             "es": "El imperio Qing cede Taiwán a Japón.",
             "fr": "L'empire Qing cède Taïwan au Japon."
-          }
+          },
+          "link": "History/乙未之役"
         }
       ],
       "anchors": ["History/清治時期"],
@@ -467,12 +480,65 @@
         "History/清法戰爭",
         "History/羅發號事件與卓杞篤",
         "History/19世紀的樟腦戰爭",
-        "People/朱一貴",
-        "People/郁永河",
-        "People/劉銘傳",
-        "People/馬偕",
         "Geography/艋舺",
         "Geography/大稻埕"
+      ],
+      "figures": [
+        {
+          "ref": "People/朱一貴",
+          "name": {
+            "zh-TW": "朱一貴",
+            "en": "Chu Yi-kuei",
+            "ja": "朱一貴",
+            "ko": "주이구이",
+            "es": "Chu Yi-kuei",
+            "fr": "Zhu Yigui"
+          }
+        },
+        {
+          "ref": "People/郁永河",
+          "name": {
+            "zh-TW": "郁永河",
+            "en": "Yu Yonghe",
+            "ja": "郁永河",
+            "ko": "위융허",
+            "es": "Yu Yong-he",
+            "fr": "Yu Yonghe"
+          }
+        },
+        {
+          "ref": "People/劉銘傳",
+          "name": {
+            "zh-TW": "劉銘傳",
+            "en": "Liu Ming-chuan",
+            "ja": "劉銘伝",
+            "ko": "류명전",
+            "es": "Liu Ming-chuan",
+            "fr": "Liu Ming-chuan"
+          }
+        },
+        {
+          "ref": "People/馬偕",
+          "name": {
+            "zh-TW": "馬偕",
+            "en": "George Mackay",
+            "ja": "マッカイ",
+            "ko": "조지 매케이",
+            "es": "George Mackay",
+            "fr": "George Mackay"
+          }
+        },
+        {
+          "ref": "People/史溫侯",
+          "name": {
+            "zh-TW": "史溫侯",
+            "en": "Robert Swinhoe",
+            "ja": "スウィンホー",
+            "ko": "스원후",
+            "es": "Robert Swinhoe",
+            "fr": "Robert Swinhoe"
+          }
+        }
       ]
     },
     {
@@ -521,7 +587,8 @@
             "ko": "할양 이후 타이완 민주국은 단명했고, 각지의 무장 저항이 수개월간 이어졌다.",
             "es": "Tras la cesión, la efímera República de Formosa nace y cae; la resistencia armada dura meses.",
             "fr": "Après la cession, l'éphémère République de Formose naît et tombe ; la résistance armée dure des mois."
-          }
+          },
+          "link": "History/乙未之役"
         },
         {
           "year": "1908",
@@ -540,7 +607,8 @@
             "ko": "지룽에서 가오슝까지 하루 만에 닿게 되며, 섬이 처음으로 철도로 이어졌다.",
             "es": "De Keelung a Kaohsiung en un día: la isla queda cosida por el ferrocarril por primera vez.",
             "fr": "De Keelung à Kaohsiung en un jour — l'île est cousue par le rail pour la première fois."
-          }
+          },
+          "link": "History/台灣鐵道史"
         },
         {
           "year": "1915",
@@ -578,7 +646,8 @@
             "ko": "장웨이수이와 린셴탕이 발기했다. 강연과 신문 읽기 모임, 의회 청원이 한 세대를 일깨웠다.",
             "es": "Fundada por Chiang Wei-shui y Lin Hsien-tang; charlas, círculos de lectura y peticiones despiertan a una generación.",
             "fr": "Fondée par Chiang Wei-shui et Lin Hsien-tang ; conférences, cercles de lecture et pétitions éveillent une génération."
-          }
+          },
+          "link": "People/蔣渭水"
         },
         {
           "year": "1930",
@@ -597,7 +666,8 @@
             "ko": "모나 루다오가 이끄는 세디크족이 봉기한, 일본 통치기 최대의 원주민 무장 항일. 같은 해 자난 대수로가 완공됐다.",
             "es": "Mona Rudao lidera el alzamiento seediq, la mayor resistencia indígena armada de la era; ese año se termina el canal de Chianan.",
             "fr": "Mona Rudao mène le soulèvement seediq, la plus grande résistance autochtone armée de l'époque ; le canal de Chianan est achevé la même année."
-          }
+          },
+          "link": "People/莫那·魯道"
         },
         {
           "year": "1945",
@@ -625,14 +695,87 @@
         "History/日治時期臺灣社會運動",
         "History/蓬萊米",
         "History/台灣鐵道史",
-        "People/蔣渭水",
-        "People/八田與一",
-        "People/莫那·魯道",
-        "People/杜聰明",
-        "People/鄧雨賢",
-        "People/陳澄波",
         "Art/日治時期文學",
         "Geography/西門町"
+      ],
+      "figures": [
+        {
+          "ref": "People/蔣渭水",
+          "name": {
+            "zh-TW": "蔣渭水",
+            "en": "Chiang Wei-shui",
+            "ja": "蔣渭水",
+            "ko": "장위수",
+            "es": "Chiang Wei-shui",
+            "fr": "Chiang Wei-shui"
+          }
+        },
+        {
+          "ref": "People/八田與一",
+          "name": {
+            "zh-TW": "八田與一",
+            "en": "Yoichi Hatta",
+            "ja": "八田與一",
+            "ko": "핫타 요이치",
+            "es": "Yoichi Hatta",
+            "fr": "Hatta Yoichi"
+          }
+        },
+        {
+          "ref": "People/莫那·魯道",
+          "name": {
+            "zh-TW": "莫那·魯道",
+            "en": "Mona Rudao",
+            "ja": "モーナ・ルダオ",
+            "ko": "모나·루다오",
+            "es": "Mona Rudao",
+            "fr": "Mona Rudao"
+          }
+        },
+        {
+          "ref": "People/杜聰明",
+          "name": {
+            "zh-TW": "杜聰明",
+            "en": "Du Congming",
+            "ja": "杜聰明",
+            "ko": "두총명",
+            "es": "Du Congming",
+            "fr": "Du Cong-ming"
+          }
+        },
+        {
+          "ref": "People/賴和",
+          "name": {
+            "zh-TW": "賴和",
+            "en": "Lai Ho",
+            "ja": "賴和",
+            "ko": "라이허",
+            "es": "Lai Ho",
+            "fr": "Lai Ho"
+          }
+        },
+        {
+          "ref": "People/鄧雨賢",
+          "name": {
+            "zh-TW": "鄧雨賢",
+            "en": "Deng Yuxian",
+            "ja": "鄧雨賢",
+            "ko": "덩위셴",
+            "es": "Deng Yuxian",
+            "fr": "Deng Yu-xian"
+          }
+        },
+        {
+          "ref": "People/陳澄波",
+          "name": {
+            "zh-TW": "陳澄波",
+            "en": "Chen Cheng-po",
+            "ja": "陳澄波",
+            "ko": "천청보",
+            "es": "Chen Cheng-po",
+            "fr": "Chen Cheng-po"
+          }
+        }
       ]
     },
     {
@@ -681,7 +824,8 @@
             "ko": "종전 후 행정장관공서가 타이완을 접수했고, 타이완인들은 식민 지배의 종식을 기대했다.",
             "es": "Al acabar la guerra, la administración provincial asume el control; los taiwaneses esperan dejar atrás el colonialismo.",
             "fr": "À la fin de la guerre, l'administration provinciale prend le relais ; les Taïwanais espèrent en finir avec le colonialisme."
-          }
+          },
+          "link": "History/國民政府遷台與戰後重建"
         },
         {
           "year": "1947",
@@ -700,7 +844,8 @@
             "ko": "밀수 담배 단속에서 비롯된 충돌이 섬 전체로 번졌고, 정부의 진압으로 많은 사상자가 났다. 이후 수십 년의 금기가 됐다.",
             "es": "Una redada contra cigarrillos de contrabando desata disturbios en toda la isla; la represión causa numerosas víctimas y se vuelve tabú durante décadas.",
             "fr": "Une descente contre des cigarettes de contrebande embrase toute l'île ; la répression fait de nombreuses victimes et devient un tabou pour des décennies."
-          }
+          },
+          "link": "History/二二八事件"
         },
         {
           "year": "1949",
@@ -719,7 +864,8 @@
             "ko": "중화민국 정부가 타이완으로 옮겨온다. 계엄령은 38년 56일간 이어졌고 백색테러의 시대가 시작됐다.",
             "es": "El gobierno de la República de China se retira a Taiwán; la ley marcial dura 38 años y 56 días y comienza el Terror Blanco.",
             "fr": "Le gouvernement de la République de Chine se replie sur Taïwan ; la loi martiale durera 38 ans et 56 jours, la Terreur blanche commence."
-          }
+          },
+          "link": "History/戒嚴時期"
         },
         {
           "year": {
@@ -764,7 +910,8 @@
             "ko": "10월 25일 중화민국이 유엔 의석을 잃으며 타이완의 국제적 처지가 급변한다.",
             "es": "El 25 de octubre la República de China pierde su asiento en la ONU; la posición internacional de Taiwán cambia drásticamente.",
             "fr": "Le 25 octobre, la République de Chine perd son siège à l'ONU ; la position internationale de Taïwan bascule."
-          }
+          },
+          "link": "History/退出聯合國"
         },
         {
           "year": "1973",
@@ -783,7 +930,8 @@
             "ko": "석유 위기 속의 역발상 인프라 투자. 고속도로, 제철소, 타오위안 공항이 잇따라 완공된다.",
             "es": "Inversión en infraestructuras a contracorriente durante la crisis del petróleo: autopista, acería y aeropuerto de Taoyuan.",
             "fr": "Investissements d'infrastructure à contre-courant pendant la crise pétrolière : autoroute, aciérie et aéroport de Taoyuan."
-          }
+          },
+          "link": "History/十大建設"
         },
         {
           "year": "1979",
@@ -802,7 +950,8 @@
             "ko": "12월 10일 가오슝의 인권 행진이 진압됐지만, 뒤이은 재판이 오히려 사회를 일깨웠다.",
             "es": "La marcha por los derechos humanos en Kaohsiung el 10 de diciembre es reprimida; los juicios posteriores despiertan a la sociedad.",
             "fr": "La marche pour les droits humains à Kaohsiung, le 10 décembre, est réprimée ; les procès qui suivent réveillent la société."
-          }
+          },
+          "link": "History/美麗島事件"
         },
         {
           "year": "1980",
@@ -821,7 +970,8 @@
             "ko": "반도체 산업이 이곳에서 첫발을 떼어, 훗날 '나라를 지키는 산맥'으로 자란다.",
             "es": "La industria de semiconductores echa raíces aquí y crecerá hasta ser las «montañas que protegen la nación».",
             "fr": "L'industrie des semi-conducteurs y prend racine, avant de devenir les « montagnes sacrées protégeant la nation »."
-          }
+          },
+          "link": "Technology/半導體產業"
         }
       ],
       "anchors": ["History/二二八事件", "History/戒嚴時期"],
@@ -836,8 +986,64 @@
         "History/美麗島事件",
         "History/心戰",
         "Society/外省人",
-        "Music/台灣民歌運動",
-        "People/孫運璿"
+        "Music/台灣民歌運動"
+      ],
+      "figures": [
+        {
+          "ref": "People/蔣中正",
+          "name": {
+            "zh-TW": "蔣中正",
+            "en": "Chiang Kai-shek",
+            "ja": "蔣中正",
+            "ko": "장제스",
+            "es": "Chiang Kai-shek",
+            "fr": "Tchang Kaï-chek"
+          }
+        },
+        {
+          "ref": "People/孫運璿",
+          "name": {
+            "zh-TW": "孫運璿",
+            "en": "Sun Yun-suan",
+            "ja": "孫運璿",
+            "ko": "손윤쉐안",
+            "es": "Sun Yun-suan",
+            "fr": "Sun Yun-suan"
+          }
+        },
+        {
+          "ref": "People/陳映真",
+          "name": {
+            "zh-TW": "陳映真",
+            "en": "Chen Yingzhen",
+            "ja": "陳映真",
+            "ko": "천잉전",
+            "es": "Chen Yingzhen",
+            "fr": "Chen Yingzhen"
+          }
+        },
+        {
+          "ref": "People/三毛",
+          "name": {
+            "zh-TW": "三毛",
+            "en": "San Mao",
+            "ja": "三毛",
+            "ko": "三毛",
+            "es": "San Mao",
+            "fr": "San Mao"
+          }
+        },
+        {
+          "ref": "People/郭金發",
+          "name": {
+            "zh-TW": "郭金發",
+            "en": "Kuo Chin-fa",
+            "ja": "郭金発",
+            "ko": "궈진파오",
+            "es": "Kuo Chin-fa",
+            "fr": "Kuo Chin-fa"
+          }
+        }
       ]
     },
     {
@@ -886,7 +1092,8 @@
             "ko": "9월 28일, 계엄령이 풀리기도 전에 첫 실질적 야당이 먼저 태어났다.",
             "es": "El 28 de septiembre, con la ley marcial aún vigente, nace el primer partido opositor real.",
             "fr": "Le 28 septembre, la loi martiale encore en vigueur, le premier vrai parti d'opposition voit le jour."
-          }
+          },
+          "link": "History/台灣選舉與政黨政治"
         },
         {
           "year": "1987",
@@ -905,7 +1112,8 @@
             "ko": "7월 15일, 38년의 계엄이 막을 내린다.",
             "es": "El 15 de julio terminan treinta y ocho años de ley marcial.",
             "fr": "Le 15 juillet, trente-huit ans de loi martiale prennent fin."
-          }
+          },
+          "link": "History/戒嚴時期"
         },
         {
           "year": "1990",
@@ -924,7 +1132,8 @@
             "ko": "3월 16일부터 학생들이 중정기념당 광장에 모여 국회 전면 개선과 임시조관 폐지를 요구했다.",
             "es": "Desde el 16 de marzo los estudiantes llenan la plaza del Memorial de Chiang Kai-shek exigiendo la reelección total del parlamento.",
             "fr": "À partir du 16 mars, les étudiants occupent l'esplanade du mémorial Tchang Kaï-chek, exigeant le renouvellement complet du parlement."
-          }
+          },
+          "link": "Society/野百合學運"
         },
         {
           "year": "1991",
@@ -943,7 +1152,8 @@
             "ko": "동원감란시기 임시조관이 폐지되고 '만년국회'가 물러났다. 이듬해 입법원이 전면 개선된다.",
             "es": "Se derogan las Disposiciones Temporales y el «parlamento eterno» se retira; al año siguiente se renueva todo el Yuan Legislativo.",
             "fr": "Les Dispositions temporaires sont abolies, le « parlement éternel » se retire ; le Yuan législatif est entièrement renouvelé l'année suivante."
-          }
+          },
+          "link": "History/台灣民主轉型"
         },
         {
           "year": "1996",
@@ -962,7 +1172,8 @@
             "ko": "3월 23일, 타이완 사람들이 처음으로 자신의 총통을 직접 뽑았다.",
             "es": "El 23 de marzo, los taiwaneses eligen directamente a su presidente por primera vez.",
             "fr": "Le 23 mars, les Taïwanais élisent directement leur président pour la première fois."
-          }
+          },
+          "link": "History/民主化"
         },
         {
           "year": "2000",
@@ -981,7 +1192,8 @@
             "ko": "천수이볜이 총통에 당선되고 정권이 평화적으로 이양된다. 민주주의 공고화의 결정적 한 걸음이었다.",
             "es": "Chen Shui-bian gana la presidencia; el poder cambia de manos en paz, un paso clave para consolidar la democracia.",
             "fr": "Chen Shui-bian remporte la présidence ; le pouvoir change de mains pacifiquement — une étape clé de la consolidation démocratique."
-          }
+          },
+          "link": "People/陳水扁"
         }
       ],
       "anchors": ["History/台灣民主轉型"],
@@ -990,11 +1202,64 @@
         "Society/野百合學運",
         "History/台灣選舉與政黨政治",
         "History/臺灣前途決議文",
-        "Society/民主制度",
-        "People/李登輝",
-        "People/鄭南榕",
-        "People/施明德",
-        "People/呂秀蓮"
+        "Society/民主制度"
+      ],
+      "figures": [
+        {
+          "ref": "People/李登輝",
+          "name": {
+            "zh-TW": "李登輝",
+            "en": "Lee Teng-hui",
+            "ja": "李登輝",
+            "ko": "이덩후이",
+            "es": "Lee Teng-hui",
+            "fr": "Lee Teng-hui"
+          }
+        },
+        {
+          "ref": "People/鄭南榕",
+          "name": {
+            "zh-TW": "鄭南榕",
+            "en": "Zheng Nanrong",
+            "ja": "鄭南榕",
+            "ko": "정남용",
+            "es": "Zheng Nanrong",
+            "fr": "Zheng Nanrong"
+          }
+        },
+        {
+          "ref": "People/施明德",
+          "name": {
+            "zh-TW": "施明德",
+            "en": "Shih Ming-te",
+            "ja": "施明德",
+            "ko": "스밍더",
+            "es": "Shih Ming-teh",
+            "fr": "Shih Ming-teh"
+          }
+        },
+        {
+          "ref": "People/呂秀蓮",
+          "name": {
+            "zh-TW": "呂秀蓮",
+            "en": "Annette Lu Hsiu-lien",
+            "ja": "呂秀蓮",
+            "ko": "뤼슈렌",
+            "es": "Annette Lu",
+            "fr": "Annette Lu"
+          }
+        },
+        {
+          "ref": "People/陳菊",
+          "name": {
+            "zh-TW": "陳菊",
+            "en": "Chen Chu",
+            "ja": "陳菊",
+            "ko": "진국",
+            "es": "Chen Chu",
+            "fr": "Chen Chu"
+          }
+        }
       ]
     },
     {
@@ -1050,7 +1315,8 @@
             "ko": "학생들이 입법원을 24일간 점거하며 시민 참여를 다시 정의했다.",
             "es": "Los estudiantes ocupan el Yuan Legislativo durante 24 días y redefinen la participación ciudadana.",
             "fr": "Les étudiants occupent le Yuan législatif pendant 24 jours et redéfinissent la participation citoyenne."
-          }
+          },
+          "link": "Society/太陽花學運"
         },
         {
           "year": "2017",
@@ -1069,7 +1335,8 @@
             "ko": "대법관들이 동성혼을 보장하지 않는 민법을 위헌으로 판단했다. 아시아 최초로 최고 사법기관이 동성혼 권리를 인정한 것이다.",
             "es": "Los magistrados declaran inconstitucional excluir el matrimonio igualitario: primera vez en Asia que lo hace un alto tribunal.",
             "fr": "Les grands juges déclarent inconstitutionnelle l'exclusion du mariage homosexuel — une première pour une haute cour en Asie."
-          }
+          },
+          "link": "Society/台灣同婚與性別平權"
         },
         {
           "year": "2018",
@@ -1088,7 +1355,8 @@
             "ko": "백색테러의 불의의 현장이 대중을 향한 기억의 기관이 된다.",
             "es": "Los lugares de la injusticia del Terror Blanco se convierten en instituciones públicas de memoria.",
             "fr": "Les lieux d'injustice de la Terreur blanche deviennent des institutions publiques de mémoire."
-          }
+          },
+          "link": "History/國家人權博物館"
         },
         {
           "year": "2019",
@@ -1107,7 +1375,8 @@
             "ko": "5월 24일 특별법이 시행되며, 타이완은 아시아 최초로 동성혼을 합법화한 나라가 된다.",
             "es": "La ley especial entra en vigor el 24 de mayo; Taiwán es el primer país de Asia en legalizar el matrimonio igualitario.",
             "fr": "La loi spéciale entre en vigueur le 24 mai ; Taïwan devient le premier pays d'Asie à légaliser le mariage homosexuel."
-          }
+          },
+          "link": "Society/台灣同婚與性別平權"
         },
         {
           "year": "2025",
@@ -1126,7 +1395,8 @@
             "ko": "여소야대 구도에서 사상 최대 규모의 파면 운동이 일어난다. 시민의 동력은 계속 규칙을 다시 쓰고 있다.",
             "es": "Bajo un gobierno dividido estalla la mayor campaña revocatoria de la historia; la energía cívica sigue reescribiendo las reglas.",
             "fr": "Dans un contexte de gouvernement minoritaire éclate la plus grande campagne de rappel de l'histoire ; l'énergie citoyenne continue de réécrire les règles."
-          }
+          },
+          "link": "History/大罷免"
         }
       ],
       "anchors": ["Society/太陽花學運", "Society/台灣同婚與性別平權"],
@@ -1141,6 +1411,52 @@
         "Music/閃靈",
         "Society/台灣媒體與新聞自由",
         "Nature/台灣環境運動史"
+      ],
+      "figures": [
+        {
+          "ref": "People/陳水扁",
+          "name": {
+            "zh-TW": "陳水扁",
+            "en": "Chen Shui-bian",
+            "ja": "陳水扁",
+            "ko": "천수이볜",
+            "es": "Chen Shui-bian",
+            "fr": "Chen Shui-bian"
+          }
+        },
+        {
+          "ref": "People/馬英九",
+          "name": {
+            "zh-TW": "馬英九",
+            "en": "Ma Ying-jeou",
+            "ja": "馬英九",
+            "ko": "마잉주",
+            "es": "Ma Ying-jeou",
+            "fr": "Ma Ying-jeou"
+          }
+        },
+        {
+          "ref": "People/蔡英文",
+          "name": {
+            "zh-TW": "蔡英文",
+            "en": "Tsai Ing-wen",
+            "ja": "蔡英文",
+            "ko": "채잉웬",
+            "es": "Tsai Ing-wen",
+            "fr": "Tsai Ing-wen"
+          }
+        },
+        {
+          "ref": "People/賴清德",
+          "name": {
+            "zh-TW": "賴清德",
+            "en": "Lai Ching-te",
+            "ja": "頼清徳",
+            "ko": "라이칭더",
+            "es": "Lai Ching-te",
+            "fr": "Lai Ching-te"
+          }
+        }
       ]
     }
   ]

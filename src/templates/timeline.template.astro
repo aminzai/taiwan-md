@@ -1,21 +1,25 @@
 ---
 /**
- * /timeline — 時間台灣（history timeline）。
+ * /timeline — 時間台灣（history timeline）v2。
  *
  * /map 把 854 篇文章沿空間展開（地理台灣），這一頁沿時間展開（時間台灣）：
  * 從史前南島到當代，八個時代由上往下一條垂直軸線，每個時代接站上的文章。
  * 分期依據：曹永和臺灣島史觀 + NMTH「斯土斯民」八展區 + History Hub 既有分期
- * （design: reports/timeline-page-design-2026-07-16.md）。
+ * （design: reports/timeline-page-design-2026-07-16.md；
+ *  v2 進化: reports/timeline-page-evolution-2026-07-16.md — 展區編號＋時代房間
+ *  色調＋人物列＋事件連結＋時間進度條＋序章出處＋雙軸互導＋JSON-LD）。
  *
  * 資料層：src/data/timeline-eras.json（策展 SSOT — 時代 metadata + 事件 +
- * 文章 slug 清單，Localized inline struct 六語）。文章 ref（Category/中文slug）
+ * 文章/人物 slug 清單，Localized inline struct 六語）。文章 ref（Category/中文slug）
  * 在 build 時 resolve：zh 索引查不到 = throw（fail-loud，slug typo 打斷 build；
  * REFLEXES #52）；翻譯缺口是另一種 cause（REFLEXES #38），fallback 連 zh 路徑。
  * 跨語 slug 解析走 getLangSwitchPath（_translations.json registry），不重造輪子。
+ * 人物 chip 短名從文章標題「名字：副標」切出，不在資料層重複維護。
  *
  * 全部內容 server-render 在初始 HTML（graph.md visible-by-default 鐵律）——
  * 六語的台灣史骨架對 AI 爬蟲完整可讀，是主權的巴別塔在頁面層的落地。
- * 唯一的 client JS 是 era chip 的 IntersectionObserver active 追蹤（漸進增強）。
+ * client JS 只有漸進增強：era chip 的 IntersectionObserver active 追蹤（含
+ * 橫向自動捲入）與 chip bar 底部的時間進度條；關 JS 頁面功能完整。
  */
 import Layout from '../layouts/Layout.astro';
 import PageHero from '../components/PageHero.astro';
@@ -98,18 +102,62 @@ async function resolveRef(ref: string): Promise<ResolvedArticle> {
   return { entry: zhEntry, href: zhUrl };
 }
 
+// 人物 chip 短名：People 文章標題慣例「名字：副標」→ 取名字段。
+const figureName = (title: string) => title.split(/[：:]/)[0].trim();
+
 const eras = await Promise.all(
   erasData.eras.map(async (era: any) => ({
     ...era,
     resolvedAnchors: await Promise.all(era.anchors.map(resolveRef)),
     resolvedArticles: await Promise.all(era.articles.map(resolveRef)),
+    resolvedFigures: await Promise.all(
+      (era.figures ?? []).map(async (fig: any) => ({
+        ...(await resolveRef(fig.ref ?? fig)),
+        name: fig.name as Localized | undefined,
+      })),
+    ),
+    resolvedEvents: await Promise.all(
+      era.events.map(async (ev: any) => ({
+        ...ev,
+        resolvedLink: ev.link ? await resolveRef(ev.link) : null,
+      })),
+    ),
   })),
 );
 
+const resolvedIslandView = await resolveRef('History/台灣島史觀');
+
+const totalEvents = eras.reduce((n, e) => n + e.events.length, 0);
 const totalLinked = eras.reduce(
-  (n, e) => n + e.resolvedAnchors.length + e.resolvedArticles.length,
+  (n, e) =>
+    n +
+    e.resolvedAnchors.length +
+    e.resolvedArticles.length +
+    e.resolvedFigures.length,
   0,
 );
+
+// 時間進度條：八個時代 accent 串成的漸層（era bar 底部，隨捲動填滿）。
+const progressGradient = `linear-gradient(90deg, ${erasData.eras
+  .map((e: any) => e.color)
+  .join(', ')})`;
+
+// JSON-LD：八時代 ItemList（AI-SEO 主權層，semantic HTML 之上的結構化資料）。
+const jsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: t('timeline.meta.title'),
+  description: t('timeline.meta.description'),
+  itemListElement: erasData.eras.map((e: any, i: number) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: `${L(e.title)} — ${L(e.subtitle)}（${L(e.yearsLabel)}）`,
+    url: new URL(
+      `${langPrefix}/timeline#${e.id}`,
+      Astro.site ?? Astro.url,
+    ).toString(),
+  })),
+});
 ---
 
 <Layout
@@ -131,7 +179,7 @@ const totalLinked = eras.reduce(
       accentColor="rgba(255,255,255,0.7)"
     />
 
-    {/* Sticky era bar — 8 時代 chip，IntersectionObserver active 追蹤 */}
+    {/* Sticky era bar — 8 時代 chip + 時間進度條 */}
     <nav
       id="era-bar"
       aria-label={t('timeline.jumpLabel')}
@@ -157,24 +205,46 @@ const totalLinked = eras.reduce(
           ))
         }
       </div>
+      <div class="h-[2px] w-full">
+        <div
+          id="era-progress"
+          class="h-full w-0"
+          style={`background:${progressGradient}`}
+        >
+        </div>
+      </div>
     </nav>
 
     <main
       class="mx-auto max-w-[var(--container-article)] px-6 pb-24 pt-10 max-[768px]:px-4"
     >
+      {/* 序章：島史觀 framing + 出處 */}
       <p
-        class="mx-auto mb-12 max-w-[640px] text-center font-[family-name:var(--font-title)] text-[1.05rem] italic leading-relaxed text-[var(--color-ink-soft)]"
+        class="mx-auto mb-3 max-w-[640px] text-center font-[family-name:var(--font-title)] text-[1.05rem] italic leading-relaxed text-[var(--color-ink-soft)]"
       >
         {t('timeline.heroNote')}
+      </p>
+      <p
+        class="mx-auto mb-14 max-w-[640px] text-center text-[0.88rem] text-[var(--color-ink-soft)] opacity-90"
+      >
+        {t('timeline.prologueSource')}
+        <a
+          href={resolvedIslandView.href}
+          class="ml-1 font-semibold text-[#8a6d3b] no-underline hover:underline"
+          data-ga-section="timeline_page"
+          data-ga-label="prologue_island_view"
+        >
+          {t('timeline.prologueSourceCta')} →
+        </a>
       </p>
 
       {
         eras.map((era, eraIdx) => (
           <section
             id={era.id}
-            class="era-section grid scroll-mt-[140px] grid-cols-[30px_1fr] gap-x-5 max-[768px]:grid-cols-[22px_1fr] max-[768px]:gap-x-3"
+            class="era-section grid scroll-mt-[140px] grid-cols-[30px_1fr] gap-x-5 pt-6 max-[768px]:grid-cols-[22px_1fr] max-[768px]:gap-x-3"
             data-era={era.id}
-            style={`--era-color:${era.color}`}
+            style={`--era-color:${era.color}; background:linear-gradient(180deg, color-mix(in srgb, ${era.color} 5%, transparent), transparent 360px)`}
           >
             {/* 左側 spine：時代 dot + 連接線（/latest TimelineDay 同款視覺語言） */}
             <div class="flex flex-col items-center">
@@ -191,10 +261,17 @@ const totalLinked = eras.reduce(
             </div>
 
             <div class="min-w-0 pb-16">
-              {/* 時代 header */}
-              <header class="mb-6">
+              {/* 時代 header：展區編號浮水印 + 年代大字 + 標題 */}
+              <header class="relative mb-6 pr-24 max-[768px]:pr-16">
+                <span
+                  aria-hidden="true"
+                  class="pointer-events-none absolute -top-3 right-0 select-none font-[family-name:var(--font-title)] font-black leading-none"
+                  style={`font-size:clamp(3.2rem,8vw,5.5rem); color:${era.color}; opacity:0.13`}
+                >
+                  {String(eraIdx + 1).padStart(2, '0')}
+                </span>
                 <p
-                  class="m-0 font-[family-name:var(--font-title)] text-[1.05rem] font-bold tracking-wide"
+                  class="m-0 font-[family-name:var(--font-title)] text-[1.45rem] font-bold tracking-wide max-[768px]:text-[1.15rem]"
                   style={`color:${era.color}`}
                 >
                   {L(era.yearsLabel)}
@@ -210,12 +287,40 @@ const totalLinked = eras.reduce(
                 </p>
               </header>
 
-              {/* 關鍵時刻 */}
+              {/* 這個時代的臉 */}
+              {era.resolvedFigures.length > 0 && (
+                <Fragment>
+                  <h3 class="mb-3 mt-7 text-[0.78rem] font-bold uppercase tracking-[0.14em] text-[var(--color-ink-soft)] opacity-80">
+                    {t('timeline.figures')}
+                  </h3>
+                  <div class="flex flex-wrap gap-2">
+                    {era.resolvedFigures.map(
+                      ({
+                        entry,
+                        href,
+                        name,
+                      }: ResolvedArticle & { name?: Localized }) => (
+                        <a
+                          href={href}
+                          class="figure-chip rounded-full border px-3.5 py-1.5 text-[0.88rem] font-semibold text-[var(--color-ink)] no-underline transition-colors"
+                          style={`border-color:color-mix(in srgb, ${era.color} 40%, transparent)`}
+                          data-ga-section="timeline_page"
+                          data-ga-label="figure_chip"
+                        >
+                          {name ? L(name) : figureName(entry.title)}
+                        </a>
+                      ),
+                    )}
+                  </div>
+                </Fragment>
+              )}
+
+              {/* 關鍵時刻（有站內文章的事件直接連過去） */}
               <h3 class="mb-3 mt-8 text-[0.78rem] font-bold uppercase tracking-[0.14em] text-[var(--color-ink-soft)] opacity-80">
                 {t('timeline.events')}
               </h3>
               <ol class="era-events m-0 list-none p-0">
-                {era.events.map((ev: any) => (
+                {era.resolvedEvents.map((ev: any) => (
                   <li
                     class="grid grid-cols-[110px_1fr] gap-x-4 border-l-2 py-2 pl-4 max-[600px]:grid-cols-1 max-[600px]:gap-y-0.5"
                     style={`border-color:color-mix(in srgb, ${era.color} 35%, transparent)`}
@@ -227,7 +332,19 @@ const totalLinked = eras.reduce(
                       {L(ev.year)}
                     </span>
                     <p class="m-0 text-[0.95rem] leading-[1.7] text-[var(--color-ink)]">
-                      <strong>{L(ev.title)}</strong>
+                      {ev.resolvedLink ? (
+                        <a
+                          href={ev.resolvedLink.href}
+                          class="event-link font-bold text-[var(--color-ink)] underline decoration-2 underline-offset-[3px] transition-colors"
+                          style={`text-decoration-color:color-mix(in srgb, ${era.color} 45%, transparent)`}
+                          data-ga-section="timeline_page"
+                          data-ga-label="event_link"
+                        >
+                          {L(ev.title)}
+                        </a>
+                      ) : (
+                        <strong>{L(ev.title)}</strong>
+                      )}
                       <span class="text-[var(--color-ink-soft)]">
                         {' — '}
                         {L(ev.desc)}
@@ -339,13 +456,27 @@ const totalLinked = eras.reduce(
         >
           {t('timeline.outroBody')}
         </p>
-        <p
-          class="mb-0 mt-2 text-[0.85rem] text-[var(--color-ink-soft)] opacity-70"
+        <div
+          class="mt-7 flex flex-wrap items-baseline justify-center gap-x-10 gap-y-3"
         >
-          {totalLinked}
-          {t('timeline.outroLinked')}
-        </p>
-        <div class="mt-6 flex flex-wrap justify-center gap-3">
+          {
+            [
+              [eras.length, t('timeline.statEras')],
+              [totalEvents, t('timeline.statEvents')],
+              [totalLinked, t('timeline.statArticles')],
+            ].map(([n, label]) => (
+              <p class="m-0">
+                <span class="font-[family-name:var(--font-title)] text-[1.9rem] font-black text-[var(--color-ink)]">
+                  {n}
+                </span>
+                <span class="ml-1.5 text-[0.85rem] text-[var(--color-ink-soft)]">
+                  {label}
+                </span>
+              </p>
+            ))
+          }
+        </div>
+        <div class="mt-7 flex flex-wrap justify-center gap-3">
           <a
             href={`${langPrefix}/contribute`}
             class="rounded-full bg-[#1a3c34] px-6 py-2.5 text-[0.9rem] font-bold text-white no-underline transition-opacity hover:opacity-85"
@@ -362,14 +493,24 @@ const totalLinked = eras.reduce(
           >
             {t('timeline.outroHistory')}
           </a>
+          <a
+            href={`${langPrefix}/map`}
+            class="rounded-full border border-[var(--color-border)] px-6 py-2.5 text-[0.9rem] font-bold text-[var(--color-ink)] no-underline transition-colors hover:border-[var(--color-ink-soft)]"
+            data-ga-section="timeline_page"
+            data-ga-label="outro_map"
+          >
+            {t('timeline.outroMap')} →
+          </a>
         </div>
       </section>
     </main>
+
+    <script is:inline type="application/ld+json" set:html={jsonLd} />
   </div>
 </Layout>
 
 <style>
-  /* Era chip active 態吃 --era-color（Tailwind 做不了 per-era 動態色） */
+  /* Era chip / 人物 chip / 事件連結的 hover 態吃 --era-color（Tailwind 做不了 per-era 動態色） */
   .era-chip.is-active {
     border-color: var(--era-color);
     color: var(--era-color);
@@ -378,6 +519,18 @@ const totalLinked = eras.reduce(
   .era-chip:hover {
     border-color: var(--era-color);
     color: var(--era-color);
+  }
+  .figure-chip:hover {
+    border-color: var(--era-color);
+    color: var(--era-color);
+    background: color-mix(in srgb, var(--era-color) 8%, transparent);
+  }
+  .era-events .event-link:hover {
+    color: var(--era-color);
+    text-decoration-color: var(--era-color);
+  }
+  #era-progress {
+    transition: width 0.1s linear;
   }
 </style>
 
@@ -388,9 +541,20 @@ const totalLinked = eras.reduce(
     if (!chips.length || !sections.length) return;
 
     function setActive(id) {
+      var activeChip = null;
       chips.forEach(function (c) {
-        c.classList.toggle('is-active', c.getAttribute('data-era') === id);
+        var on = c.getAttribute('data-era') === id;
+        c.classList.toggle('is-active', on);
+        if (on) activeChip = c;
       });
+      // 手機上 chip bar 橫向捲動：active chip 自動捲入視野
+      if (activeChip && activeChip.scrollIntoView) {
+        activeChip.scrollIntoView({
+          block: 'nearest',
+          inline: 'nearest',
+          behavior: 'smooth',
+        });
+      }
     }
 
     if ('IntersectionObserver' in window) {
@@ -416,5 +580,31 @@ const totalLinked = eras.reduce(
         setActive(chip.getAttribute('data-era'));
       });
     });
+
+    // 時間進度條：頁面捲動比例 → chip bar 底部漸層填滿
+    var bar = document.getElementById('era-progress');
+    if (bar) {
+      var ticking = false;
+      var update = function () {
+        var max = document.documentElement.scrollHeight - window.innerHeight;
+        var pct =
+          max > 0
+            ? Math.min(100, Math.max(0, (window.scrollY / max) * 100))
+            : 0;
+        bar.style.width = pct + '%';
+        ticking = false;
+      };
+      window.addEventListener(
+        'scroll',
+        function () {
+          if (!ticking) {
+            ticking = true;
+            requestAnimationFrame(update);
+          }
+        },
+        { passive: true },
+      );
+      update();
+    }
   })();
 </script>
