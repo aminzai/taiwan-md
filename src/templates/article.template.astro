@@ -499,49 +499,124 @@ const encodedTitle = encodeURIComponent(title);
           </div>
         </div>
 
-        <!-- Contribution row -->
-        <div class="my-8 flex flex-wrap gap-3">
-          <a
-            href={`https://github.com/frank890417/taiwan-md/edit/main/knowledge/${langPath}${categoryMapping[category as string]}/${slug}.md`}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="inline-flex items-center gap-[0.45rem] rounded-full bg-[#1a3c34] px-[1.1rem] py-[0.55rem] font-['Inter',system-ui,sans-serif] text-[0.82rem] font-medium text-[#f8f1e9] no-underline transition-all duration-200 hover:bg-[#243d36]"
+        {
+          /* Article-end signature — neutral three-option CTA.
+            設計原則（林啟維 via Muse 2026-07-16）：當簽名檔／備註不當正文、
+            中性語氣不賣慘、三選項並列給讀者自由選、低調非橫幅不跟 LifeTree 打架。
+            設計報告：reports/support-cta-signature-design-2026-07-16.md */
+        }
+        <aside
+          data-ga-view="article_signature"
+          class="my-8 rounded-xl border border-[rgba(26,60,52,0.1)] bg-[rgba(26,60,52,0.02)] px-5 py-[1.1rem]"
+          aria-label={t('article.signature.intro')}
+        >
+          <p
+            class="m-0 font-['Inter',system-ui,sans-serif] text-[0.82rem] leading-[1.6] text-[#5a6b60]"
           >
-            <svg
-              width="15"
-              height="15"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              aria-hidden="true"
-              ><path
-                d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
-              ></path></svg
+            {t('article.signature.intro')}
+          </p>
+          <div class="mt-3 flex flex-wrap items-center gap-2.5">
+            <button
+              type="button"
+              class="signature-share-btn inline-flex cursor-pointer items-center gap-[0.4rem] rounded-full border border-[rgba(26,60,52,0.2)] bg-transparent px-[0.9rem] py-[0.45rem] font-['Inter',system-ui,sans-serif] text-[0.8rem] font-medium text-[#1a3c34] no-underline transition-all duration-200 hover:bg-[rgba(26,60,52,0.06)]"
+              data-share-label={t('article.signature.share')}
+              data-copied-label={t('article.signature.copied')}
+              data-ga-section="article_signature"
+              data-ga-label="share"
             >
-            {t('article.editPage')}
-          </a>
-          <a
-            href={`https://github.com/frank890417/taiwan-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="inline-flex items-center gap-[0.45rem] rounded-full border border-[rgba(26,60,52,0.2)] bg-transparent px-[1.1rem] py-[0.55rem] font-['Inter',system-ui,sans-serif] text-[0.82rem] font-medium text-[#1a3c34] no-underline transition-all duration-200 hover:bg-[rgba(26,60,52,0.05)]"
+              <svg
+                width="14"
+                height="14"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                aria-hidden="true"
+                ><circle cx="18" cy="5" r="3"></circle><circle
+                  cx="6"
+                  cy="12"
+                  r="3"></circle><circle cx="18" cy="19" r="3"></circle><line
+                  x1="8.59"
+                  y1="13.51"
+                  x2="15.42"
+                  y2="17.49"></line><line
+                  x1="15.41"
+                  y1="6.51"
+                  x2="8.59"
+                  y2="10.49"></line></svg
+              >
+              <span class="signature-share-label">
+                {t('article.signature.share')}
+              </span>
+            </button>
+            <a
+              href={lang === 'zh-TW' ? '/contribute' : `/${lang}/contribute`}
+              data-ga-section="article_signature"
+              data-ga-label="contribute"
+              class="inline-flex items-center gap-[0.4rem] rounded-full border border-[rgba(26,60,52,0.2)] bg-transparent px-[0.9rem] py-[0.45rem] font-['Inter',system-ui,sans-serif] text-[0.8rem] font-medium text-[#1a3c34] no-underline transition-all duration-200 hover:bg-[rgba(26,60,52,0.06)]"
+            >
+              <svg
+                width="14"
+                height="14"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                aria-hidden="true"
+                ><path
+                  d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
+                ></path></svg
+              >
+              {t('article.signature.contribute')}
+            </a>
+            <a
+              href="https://portaly.cc/taiwanmd/support?utm_source=taiwan.md&utm_medium=article_signature&utm_campaign=support"
+              target="_blank"
+              rel="noopener noreferrer"
+              data-ga-section="article_signature"
+              data-ga-label="sponsor"
+              class="inline-flex items-center gap-[0.4rem] rounded-full border border-[rgba(26,60,52,0.2)] bg-transparent px-[0.9rem] py-[0.45rem] font-['Inter',system-ui,sans-serif] text-[0.8rem] font-medium text-[#1a3c34] no-underline transition-all duration-200 hover:bg-[rgba(26,60,52,0.06)]"
+            >
+              <svg
+                width="14"
+                height="14"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                aria-hidden="true"
+                ><path
+                  d="M20.84 4.61a5.5 5.5 0 00-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 00-7.78 7.78L12 21.23l8.84-8.84a5.5 5.5 0 000-7.78z"
+                ></path></svg
+              >
+              {t('article.signature.support')}
+            </a>
+          </div>
+          <p
+            class="m-0 mt-[0.9rem] font-['Inter',system-ui,sans-serif] text-[0.75rem] leading-[1.6] text-[#9aa89e]"
           >
-            <svg
-              width="15"
-              height="15"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              aria-hidden="true"
-              ><path
-                d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"
-              ></path></svg
+            {t('article.signature.note')}
+          </p>
+          <p
+            class="m-0 mt-[0.35rem] font-['Inter',system-ui,sans-serif] text-[0.72rem] leading-[1.5] text-[#9aa89e]"
+          >
+            <a
+              href={`https://github.com/frank890417/taiwan-md/edit/main/knowledge/${langPath}${categoryMapping[category as string]}/${slug}.md`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-[#7a8b7e] underline decoration-[rgba(26,60,52,0.2)] underline-offset-2 transition-colors duration-200 hover:text-[#1a3c34]"
+              >{t('article.editPage')}</a
             >
-            {t('article.reportIssue')}
-          </a>
-        </div>
+            <span class="mx-[0.4rem] text-[rgba(26,60,52,0.25)]">·</span>
+            <a
+              href={`https://github.com/frank890417/taiwan-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-[#7a8b7e] underline decoration-[rgba(26,60,52,0.2)] underline-offset-2 transition-colors duration-200 hover:text-[#1a3c34]"
+              >{t('article.reportIssue')}</a
+            >
+          </p>
+        </aside>
 
         <!-- Tags + bottom share row -->
         <div
@@ -1092,6 +1167,48 @@ const encodedTitle = encodeURIComponent(title);
           document.execCommand('copy');
           document.body.removeChild(ta);
         });
+    });
+  }
+
+  // Article-end signature: one-tap share (Web Share API on mobile,
+  // clipboard-copy fallback on desktop — the icon row above still offers
+  // per-platform share).
+  const shareBtn = document.querySelector<HTMLButtonElement>(
+    '.signature-share-btn',
+  );
+  if (shareBtn) {
+    const labelEl = shareBtn.querySelector<HTMLElement>(
+      '.signature-share-label',
+    );
+    const shareLabel = shareBtn.dataset.shareLabel || '';
+    const copiedLabel = shareBtn.dataset.copiedLabel || '';
+    shareBtn.addEventListener('click', async () => {
+      const url = window.location.href;
+      const shareTitle = document.title;
+      if (navigator.share) {
+        try {
+          await navigator.share({ title: shareTitle, url });
+        } catch {
+          /* user cancelled or share failed — do nothing */
+        }
+        return;
+      }
+      try {
+        await navigator.clipboard.writeText(url);
+      } catch {
+        const ta = document.createElement('textarea');
+        ta.value = url;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+      }
+      if (labelEl && copiedLabel) {
+        labelEl.textContent = copiedLabel;
+        setTimeout(() => {
+          labelEl.textContent = shareLabel;
+        }, 2200);
+      }
     });
   }
 </script>

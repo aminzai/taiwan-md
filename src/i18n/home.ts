@@ -92,6 +92,7 @@ export const homeUI = {
       "Taiwan.md is a community-driven open source project. Whether you're a local Taiwanese or an international friend interested in Taiwan, we welcome your knowledge and perspectives.",
     'home.contribute.guide': 'Contribution Guide',
     'home.contribute.github': 'GitHub Project',
+    'home.contribute.sponsor': 'Sponsor Upkeep',
     'home.features.title': 'Why Taiwan.md?',
     'home.features.curated.title': 'Curated Perspectives',
     'home.features.curated.desc':
@@ -240,6 +241,7 @@ export const homeUI = {
       'Taiwan.md はコミュニティ主導のオープンソースプロジェクトです。台湾の方でも台湾に興味のある海外の方でも、知識と視点のご貢献を歓迎します。',
     'home.contribute.guide': '貢献ガイド',
     'home.contribute.github': 'GitHub プロジェクト',
+    'home.contribute.sponsor': '運営を支援する',
     'home.features.title': 'なぜ Taiwan.md が必要なのか？',
     'home.features.curated.title': 'キュレーション視点',
     'home.features.curated.desc':
@@ -385,6 +387,7 @@ export const homeUI = {
       'Taiwan.md는 커뮤니티가 이끄는 오픈소스 프로젝트입니다. 대만 현지인이든 대만에 관심 있는 해외 친구이든, 지식과 관점의 기여를 환영합니다.',
     'home.contribute.guide': '기여 가이드',
     'home.contribute.github': 'GitHub 프로젝트',
+    'home.contribute.sponsor': '운영 후원하기',
     'home.features.title': '왜 Taiwan.md가 필요한가?',
     'home.features.curated.title': '큐레이션 관점',
     'home.features.curated.desc':
@@ -523,6 +526,7 @@ export const homeUI = {
       'Taiwan.md 是社群驅動的開源專案。無論您是台灣本地人還是對台灣感興趣的國際朋友，都歡迎貢獻您的知識與觀點。',
     'home.contribute.guide': '麻瓜貢獻指南',
     'home.contribute.github': 'GitHub 專案',
+    'home.contribute.sponsor': '贊助維護',
     'home.features.title': '為什麼需要 Taiwan.md？',
     'home.features.curated.title': '策展式觀點',
     'home.features.curated.desc': '精心策展的深度敘事，不是百科全書式羅列',
@@ -669,6 +673,7 @@ export const homeUI = {
       'Taiwan.md est un projet open source porté par la communauté. Que vous soyez Taïwanais ou un ami international intéressé par Taïwan, nous accueillons vos connaissances et vos perspectives.',
     'home.contribute.guide': 'Guide de contribution',
     'home.contribute.github': 'Projet GitHub',
+    'home.contribute.sponsor': 'Sponsoriser la maintenance',
     'home.features.title': 'Pourquoi Taiwan.md ?',
     'home.features.curated.title': 'Perspectives sélectionnées',
     'home.features.curated.desc':
@@ -823,6 +828,7 @@ export const homeUI = {
       'Taiwan.md es un proyecto de código abierto impulsado por la comunidad. Ya seas taiwanes local o un amigo internacional interesado en Taiwán, damos la bienvenida a tu conocimiento y perspectivas.',
     'home.contribute.guide': 'Guía de contribución',
     'home.contribute.github': 'Proyecto en GitHub',
+    'home.contribute.sponsor': 'Patrocinar el mantenimiento',
     'home.features.title': '¿Por qué Taiwan.md?',
     'home.features.curated.title': 'Perspectivas curadas',
     'home.features.curated.desc':

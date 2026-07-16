@@ -211,6 +211,14 @@ export const ui = {
     'article.lifeTree.protagonistTree':
       "{name}'s life decision tree ({n} turning points)",
     'article.lifeTree.viewTree': 'View tree →',
+    'article.signature.intro':
+      "This article is written and continuously revised by the community. Now that you've read it, you can:",
+    'article.signature.share': 'Share it',
+    'article.signature.contribute': 'Edit or contribute',
+    'article.signature.support': 'Sponsor upkeep',
+    'article.signature.note':
+      'Taiwan.md is open-source, free, and ad-free, and upkeep has some costs. All three are welcome — pick just one.',
+    'article.signature.copied': 'Link copied',
     // category-hub UI
     'category.articleCount': '{n} articles',
     'category.readGuide': 'Read full curation guide →',
@@ -425,6 +433,14 @@ export const ui = {
     'article.lifeTree.protagonistTree':
       '{name}の人生分岐ツリー（{n} 個の転換点）',
     'article.lifeTree.viewTree': 'ツリーを見る →',
+    'article.signature.intro':
+      'この記事はコミュニティが共同で執筆し、継続的に校訂しています。読み終えたら、できることは：',
+    'article.signature.share': 'シェアする',
+    'article.signature.contribute': '編集・貢献する',
+    'article.signature.support': '運営を支援する',
+    'article.signature.note':
+      'Taiwan.md はオープンソースで無料、広告もありません。運営には少しコストがかかります。どれも歓迎です。ひとつ選ぶだけで大丈夫。',
+    'article.signature.copied': 'リンクをコピーしました',
     'category.articleCount': '{n} 件の記事',
     'category.readGuide': '完全なキュレーションガイドを読む →',
     'category.topic': 'トピック',
@@ -640,6 +656,14 @@ export const ui = {
     'article.lifeTree.protagonistTree':
       '{name}의 인생 분기 트리 ({n} 개 전환점)',
     'article.lifeTree.viewTree': '트리 보기 →',
+    'article.signature.intro':
+      '이 글은 커뮤니티가 함께 쓰고 꾸준히 다듬습니다. 다 읽으셨다면:',
+    'article.signature.share': '공유하기',
+    'article.signature.contribute': '편집하거나 기여하기',
+    'article.signature.support': '유지 후원하기',
+    'article.signature.note':
+      'Taiwan.md는 오픈소스이며 무료이고 광고가 없습니다. 유지에는 약간의 비용이 듭니다. 셋 다 환영하니 하나만 골라 주세요.',
+    'article.signature.copied': '링크를 복사했습니다',
     'category.articleCount': '{n}개 기사',
     'category.readGuide': '전체 큐레이션 가이드 읽기 →',
     'category.topic': '주제',
@@ -862,6 +886,14 @@ export const ui = {
     'article.lifeTree.protagonistTree':
       'Árbol de decisiones vital de {name} ({n} puntos de inflexión)',
     'article.lifeTree.viewTree': 'Ver árbol →',
+    'article.signature.intro':
+      'Este artículo lo escribe y revisa continuamente la comunidad. Ahora que lo has leído, puedes:',
+    'article.signature.share': 'Compartirlo',
+    'article.signature.contribute': 'Editar o contribuir',
+    'article.signature.support': 'Patrocinar el mantenimiento',
+    'article.signature.note':
+      'Taiwan.md es de código abierto, gratuito y sin anuncios; mantenerlo tiene algunos costes. Las tres opciones son bienvenidas: elige solo una.',
+    'article.signature.copied': 'Enlace copiado',
     'category.articleCount': '{n} artículos',
     'category.readGuide': 'Leer guía completa de curación →',
     'category.topic': 'Tema',
@@ -1085,6 +1117,14 @@ export const ui = {
     'article.lifeTree.protagonistTree':
       'Arbre de décisions de la vie de {name} ({n} points de bascule)',
     'article.lifeTree.viewTree': "Voir l'arbre →",
+    'article.signature.intro':
+      "Cet article est écrit et continuellement révisé par la communauté. Maintenant que vous l'avez lu, vous pouvez :",
+    'article.signature.share': 'Le partager',
+    'article.signature.contribute': 'Modifier ou contribuer',
+    'article.signature.support': 'Sponsoriser la maintenance',
+    'article.signature.note':
+      'Taiwan.md est open source, gratuit et sans publicité ; sa maintenance a un coût. Les trois sont les bienvenues : choisissez-en une seule.',
+    'article.signature.copied': 'Lien copié',
     'category.articleCount': '{n} articles',
     'category.readGuide': 'Lire le guide complet de curation →',
     'category.topic': 'Sujet',
@@ -1294,6 +1334,14 @@ export const ui = {
     'article.lifeTree.protagonistTree':
       '{name} 的人生分支樹（{n} 個 turning point）',
     'article.lifeTree.viewTree': '看樹 →',
+    'article.signature.intro':
+      '這篇文章由社群共同編寫、持續校訂。讀完了，你可以：',
+    'article.signature.share': '分享出去',
+    'article.signature.contribute': '一起編輯或貢獻內容',
+    'article.signature.support': '贊助維護',
+    'article.signature.note':
+      'Taiwan.md 開源、免費、無廣告，維護會有一些成本。三個都歡迎，選一個就好。',
+    'article.signature.copied': '已複製連結',
     'category.articleCount': '{n} 篇文章',
     'category.readGuide': '閱讀完整策展導讀 →',
     'category.topic': '主題',
