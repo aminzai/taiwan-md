@@ -249,6 +249,15 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
                             <strong>下一步：</strong>
                             {a.next_step ?? '照燈號推進'}
                           </p>
+                          <button
+                            class="nr-advance"
+                            data-slug={a.slug}
+                            data-title={a.title}
+                            data-next={a.next_step ?? ''}
+                            hidden
+                          >
+                            ▶ 建立推進任務（Harvest 駕駛艙派發）
+                          </button>
                           <p>
                             <strong>階段產物：</strong>
                             {artifacts(a).map((x) => (
@@ -386,6 +395,10 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
     }
 
     <footer class="nr-foot">
+      <p class="nr-local-note" hidden>
+        🔌 本機模式：Harvest backend 已連線——展開產線列可直接建立推進任務
+        （任務進駕駛艙 pending 佇列，由你派發）。主站上同一介面維持唯讀。
+      </p>
       <p>
         每個燈號背後都是公開 repo
         裡活著的檔案：研究報告、投影藍圖、編輯室審查逐字稿。
@@ -396,6 +409,58 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
     </footer>
   </main>
 </Layout>
+
+<script is:inline>
+  // 本機控制模式（哲宇 2026-07-16 directive）：localhost 且 Harvest backend
+  // （port 4319）活著 → 看板同時是控制介面；production 無 backend，自然唯讀。
+  (async () => {
+    const h = location.hostname;
+    if (h !== 'localhost' && h !== '127.0.0.1') return;
+    const API = 'http://127.0.0.1:4319/api';
+    try {
+      const r = await fetch(API + '/health', {
+        signal: AbortSignal.timeout(1500),
+      });
+      if (!r.ok) return;
+    } catch {
+      return;
+    }
+    const note = document.querySelector('.nr-local-note');
+    if (note) note.hidden = false;
+    document.querySelectorAll('.nr-advance').forEach((btn) => {
+      btn.hidden = false;
+      btn.addEventListener('click', async () => {
+        btn.disabled = true;
+        btn.textContent = '建立中…';
+        const d = btn.dataset;
+        try {
+          const res = await fetch(API + '/tasks', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              type: 'article-rewrite',
+              boot_profile: 'content-writing',
+              priority: 'P1',
+              title: `推進產線：${d.title}`,
+              notes:
+                `共享編輯台推進請求 — 文章「${d.title}」（slug: ${d.slug}）。` +
+                `下一步：${d.next || '照看板燈號'}。只執行這一個 stage：完整讀該 ` +
+                `stage contract（docs/pipelines/REWRITE-STAGE-*.md，路徑在下一步字串內），` +
+                `照 AGENT PROMPT／交付條件／GATES 執行，完成照 HANDOFF 跑 ` +
+                `generate-newsroom-data.py 更新編輯台。`,
+            }),
+          });
+          btn.textContent = res.ok
+            ? '✓ 任務已進駕駛艙佇列'
+            : '建立失敗 HTTP ' + res.status;
+        } catch {
+          btn.textContent = '連不上 Harvest backend';
+          btn.disabled = false;
+        }
+      });
+    });
+  })();
+</script>
 
 <style>
   .newsroom {
@@ -516,6 +581,22 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
   }
   .nr-detail-next {
     color: #e8a94f;
+  }
+  .nr-advance {
+    margin: 0.4rem 0;
+    padding: 0.35em 0.9em;
+    border: 1px solid #4fd1b0;
+    border-radius: 999px;
+    background: transparent;
+    color: #4fd1b0;
+    font-size: 0.8rem;
+    cursor: pointer;
+  }
+  .nr-advance:hover {
+    background: rgba(79, 209, 176, 0.12);
+  }
+  .nr-local-note {
+    color: #4fd1b0;
   }
   .nr-artifact {
     display: inline-block;

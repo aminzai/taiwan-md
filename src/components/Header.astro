@@ -500,6 +500,12 @@ const categoryList = [
                           {t('nav.semiont.cognitive')}
                         </a>
                         <a
+                          href={navHref('/semiont/newsroom')}
+                          class="dropdown-item dropdown-section-header"
+                        >
+                          {t('nav.semiont.newsroom')}
+                        </a>
+                        <a
                           href={navHref('/dashboard')}
                           class="dropdown-item dropdown-section-header"
                         >
@@ -774,6 +780,13 @@ const categoryList = [
                       onclick="document.querySelector('.nav-mobile').classList.remove('open')"
                     >
                       {t('nav.semiont.cognitive')}
+                    </a>
+                    <a
+                      href={navHref('/semiont/newsroom')}
+                      class="nav-link nav-sub-link"
+                      onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+                    >
+                      {t('nav.semiont.newsroom')}
                     </a>
                     <a
                       href={navHref('/dashboard')}
