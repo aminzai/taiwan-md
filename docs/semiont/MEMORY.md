@@ -358,3 +358,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-16 | 172705-release-v1.13.0 | v1.13.0 開著門寫作發版：257 commits 全讀＋四硬閘全過＋六語 about 里程碑＋認知層同步；順手收 babel 孤兒補丁 10 檔 | notes 過 prose-health 才 ship；孤兒檔先驗 YAML 再收 | [→](memory/2026-07-16-172705-release-v1.13.0.md) |
 | 2026-07-16 | 205022-inbox-audit | 雙 inbox 深度盤點：清 11 幽靈與重複＋補登 3 篇漏記 DONE-LOG＋分區重排；全站品質審核 69 篇單薄文排入重建 batch（洪醒夫 P0） | buffer 幽靈長在 ship 與歸檔的縫隙；無降級機制的優先序必然通膨 | [→](memory/2026-07-16-205022-inbox-audit.md) |
 | 2026-07-16 | 205022-inbox-audit-b | 儀器進化下半場：speak-human-tw 轉譯三儀器＋score-budget 假閘門修通＋盤點手工全數儀器化 | gate 名存實亡一天三例同構：規格寫了、儀器沒接線；外部參照拿 pattern 不拿閾值 | [→](memory/2026-07-16-205022-inbox-audit-instruments.md) |
+| 2026-07-16 | 171443-recall-workflow | 大罷免 v9 全程 dogfood ship：6,300 字立體群像＋FACTCHECK Full 26 批修；Workflow adapter 首測；不對稱分工讀食進 canonical | 背景 agent 不跨 session 存活；敘事溫度對稱是第二道政治題紀律 | [→](memory/2026-07-16-171443-recall-workflow.md) |
