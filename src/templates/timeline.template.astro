@@ -540,20 +540,28 @@ const jsonLd = JSON.stringify({
     var sections = document.querySelectorAll('.era-section');
     if (!chips.length || !sections.length) return;
 
+    var currentActive = null;
+
     function setActive(id) {
+      if (id === currentActive) return;
+      currentActive = id;
       var activeChip = null;
       chips.forEach(function (c) {
         var on = c.getAttribute('data-era') === id;
         c.classList.toggle('is-active', on);
         if (on) activeChip = c;
       });
-      // 手機上 chip bar 橫向捲動：active chip 自動捲入視野
-      if (activeChip && activeChip.scrollIntoView) {
-        activeChip.scrollIntoView({
-          block: 'nearest',
-          inline: 'nearest',
-          behavior: 'smooth',
-        });
+      // Active chip 自動捲入視野：只捲 chip bar 自己的水平軸。
+      // ⚠️ 不用 scrollIntoView——它會把「頁面」這個祖先捲動容器一起接管，
+      // 在 IntersectionObserver 回呼（= 使用者正在捲頁）裡觸發時會打斷
+      // 頁面捲動，整頁捲起來卡卡的（2026-07-16 哲宇 callout 的病根）。
+      var bar = activeChip && activeChip.parentElement;
+      if (bar && bar.scrollWidth > bar.clientWidth) {
+        var left =
+          activeChip.offsetLeft -
+          bar.offsetLeft -
+          (bar.clientWidth - activeChip.offsetWidth) / 2;
+        bar.scrollTo({ left: Math.max(0, left), behavior: 'smooth' });
       }
     }
 

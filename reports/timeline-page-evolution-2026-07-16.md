@@ -72,3 +72,9 @@ _實作紀錄與驗證結果補記於本報告 §五（實作後）。_
 - 資料層：`figures` 26 人（People 從文章格抽出＋補 11 張新面孔）、`events[].link` 35/40 條事件接上文章。
 - 驗證：六語 production build 綠燈、link gate 0.41%（時間軸零斷鏈）、亮暗雙主題＋窄版 smoke test 過；zh/en/ja 人物 chips 抽驗（馬偕／George Mackay／マッカイ 各自正確）；JSON-LD ItemList 8 時代（production 絕對網址）；chip 自動捲入與進度條實測動作。
 - 順手發現並開 chip：newsroom 的 `dashboard-newsroom.json` 在乾淨環境起 dev server 會 SSR 崩頁＋未進 gitignore（非本次範疇）。
+
+## 六、上線後 hotfix：scrollIntoView 綁架頁面捲動（哲宇 callout）
+
+v2 上線後哲宇回報「頁面上的 scroll 變超怪」。病根是九項裡的第 6 項：active chip 自動捲入用了 `scrollIntoView`——它的規格是把「所有可捲動祖先」一起捲到位，頁面本身就是祖先之一。全站 html 又開著 `scroll-behavior: smooth`，於是每次 IntersectionObserver 在使用者捲動途中觸發，瀏覽器就啟動一段平滑動畫去「微調」頁面位置，跟使用者的捲動互搶——就是那種捲到一半被拉走的手感。
+
+修法（`timeline.template.astro` script）：改成只對 chip bar 這個水平容器自己 `scrollTo`（置中 active chip、bar 不溢出時完全不動作），並加 currentActive 去重讓同時代的重複觸發不做事。驗證：四個瞬移位置斷言頁面捲動座標分毫不被 chip 邏輯改動（全過）、chip bar 水平軸正常捲動。教訓一句話：**在捲動驅動的回呼裡永遠不要 scrollIntoView，要捲哪個容器就直接捲那個容器**。
