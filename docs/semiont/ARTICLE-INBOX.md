@@ -174,6 +174,22 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 金城武 EVOLVE — SC 位置 1.33 卻只有 96 行薄殼（evolve 三源訊號）
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path**: knowledge/People/金城武.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-16 by twmd-evolve (session recall-workflow)
+- **Notes**:
+  - **為什麼這篇 vs 其他**：SC 7d「金城武」1,904 曝光、排名 1.33、CTR 僅 2.84%——排名已是第一，每一分品質增益直接兌換成點擊與停留；現況 96 行 thin 對位置一的落地是聲譽風險。對照組：無名小站 2,025 曝光 CTR 0.74% 但文章 262 行尚可，病灶在 title/description（5 分鐘 SEO 快修，見下）；張懸與安溥 611 行已深，只需 freshness 重驗（lastVerified 2026-04-13）
+  - 雙源 pointer：SC 7d topQueries（dashboard-analytics.json 2026-07-16T17:22）＋ 品質缺陷（96 行、lastVerified 2026-06-19）
+  - 必驗事實：廣告代言時間線（長榮航空 I SEE YOU 2013）、《重慶森林》《墮落天使》年份、日台混血家世敘述口徑
+  - 潛在陷阱：私生活低調是人設一部分，不八卦化；日籍身分議題不炒作
+- **Reference**: public/api/dashboard-analytics.json §searchConsole7d
+- **附帶快修（同訊號批）**：無名小站 title/description SEO 優化（2,025 imp / 0.74% CTR / pos 8.37）；張懸與安溥 freshness 重驗＋「張懸為什麼改名」query（81 imp / 12.35% CTR / pos 3.54）確認 description 有答到
+
 <!-- ═══ 2026-06-19 inbox distill（哲宇 directive：深度研究 + 查看現況 + 整理）═══ -->
 <!-- 移除 16 幽靈/重複條目（詳見 session memory 2026-06-19-123909-inbox-distill）；NML batch 14 條全降 P3（哲宇 nod）-->
 
