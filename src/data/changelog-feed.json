@@ -1,7 +1,255 @@
 {
-  "generatedAt": "2026-07-15T15:10:49.936Z",
+  "generatedAt": "2026-07-16T09:22:39.101Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "d4c6b3bae15d235fbbf9e312d7d8cc37301d00fa",
+      "date": "2026-07-16T17:20:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel-nightly: 落地昨夜孤兒 Tier 0a 補丁 — Howhow 與 YouTuber 產業五語各一，session 收在寫檔後沒 commit",
+      "articles": []
+    },
+    {
+      "hash": "4574afe5cd1effe9460d2131f11ef4fc7111fedb",
+      "date": "2026-07-16T17:09:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 時間台灣 v2 進化補記——展區化九項與人名資料化",
+      "articles": []
+    },
+    {
+      "hash": "88535d6a794147ee4ab62de246713c38ba07b85d",
+      "date": "2026-07-16T17:07:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 時間台灣 v2 — 從能走的軸線到一座能逛的館",
+      "articles": []
+    },
+    {
+      "hash": "82639da990f3ebe34ab5cde1edc9b96f07d34dfd",
+      "date": "2026-07-16T17:07:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [evolve] multi-narrative: 修 babel 管線把 YAML 註解塊黏進欄位值的病根，補兩道 gate 再掃出 8 檔漏網",
+      "articles": []
+    },
+    {
+      "hash": "e557c90bcb466bc7124084511bd5707f4e1f3e42",
+      "date": "2026-07-16T17:04:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 編輯台 JSON 改 runtime 讀檔容錯 — dev 缺生成檔不再炸文章頁",
+      "articles": []
+    },
+    {
+      "hash": "6f71dbb79b9e362b88770c565978e5264f5b8da4",
+      "date": "2026-07-16T16:58:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [heal] twmd-diary skill 殼與工具對齊：移除不存在的 --strict flag",
+      "articles": []
+    },
+    {
+      "hash": "91f28c1ffdf6a8c212850fe1cc0fc008706a6a84",
+      "date": "2026-07-16T16:58:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-16-165239-support-cta — 啟維斗內建議一天內落地，簽名檔與七入口漏斗",
+      "articles": []
+    },
+    {
+      "hash": "8bf392154a0a67dac341f554fea0aa8fdec7e1e0",
+      "date": "2026-07-16T16:50:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [evolve] multi-narrative: 全站贊助入口盤點——儀表板與生命體頁補上，其餘記錄為刻意不加",
+      "articles": []
+    },
+    {
+      "hash": "c0e8f5074966962ecd1c78f5dbbc8eb00bdc6288",
+      "date": "2026-07-16T16:50:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [heal] 修 12 篇翻譯的閱讀時間欄位——被黏進整塊設計註解",
+      "articles": []
+    },
+    {
+      "hash": "0953dc269081dad7f0f85a69d1361dbecb646cf6",
+      "date": "2026-07-16T16:33:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [evolve] 文章結尾與首頁補上贊助入口，並接好完整贊助漏斗監測",
+      "articles": []
+    },
+    {
+      "hash": "77b0555431a5b46e1dfc6864ffcae6e7821ee43f",
+      "date": "2026-07-16T16:51:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: STAGE-0 contract v9.1 — 大罷免首跑三個摩擦當場回寫",
+      "articles": []
+    },
+    {
+      "hash": "1e7585e916e22c37bfd8644dad813db04804f817",
+      "date": "2026-07-16T16:49:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: LESSONS 補 stash pop 吃到別人 stash 的共用 wd 地雷",
+      "articles": []
+    },
+    {
+      "hash": "e60a8a32af31491c72934934ebf0889677fff357",
+      "date": "2026-07-16T16:47:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 被自己十二小時前寫的規格書指揮 — dogfood 弧日記補收官",
+      "articles": []
+    },
+    {
+      "hash": "7619b49752b38d03cf82ce170783fde9ee4bc118",
+      "date": "2026-07-16T16:45:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: dogfood memory 收官時間戳修正（16:45 非 17:00）",
+      "articles": []
+    },
+    {
+      "hash": "889cc0e3595dec9ca981177e8887e4adc299d4b1",
+      "date": "2026-07-16T16:45:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 收官前瞻 — 明鄭荷西沙漠補文進 ARTICLE-INBOX + spotlight 教訓第二例",
+      "articles": []
+    },
+    {
+      "hash": "a1eb11f45705d8cc5ba24345a35403f9d42c721b",
+      "date": "2026-07-16T16:43:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: finale 收官 — 六語 P0 heal 補進 memory + diary「忘在客廳的鷹架」",
+      "articles": [
+        {
+          "url": "/history/史前時代與原住民",
+          "name": "史前時代與原住民"
+        }
+      ]
+    },
+    {
+      "hash": "80f49203d165e2edcd4dad9d4993ac53afde50a2",
+      "date": "2026-07-16T16:43:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-16-163500-newsroom-dogfood — v9 首跑中途收官＋大罷免續跑 handoff",
+      "articles": []
+    },
+    {
+      "hash": "19e5cf0e3ce54759cb31f9823d32b3cf961bbe6f",
+      "date": "2026-07-16T16:39:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 清掉史前文章六語的內部審核標記",
+      "articles": [
+        {
+          "url": "/history/史前時代與原住民",
+          "name": "史前時代與原住民"
+        }
+      ]
+    },
+    {
+      "hash": "bc3064b94624d1b19b1eb78d29936f663f07c9c0",
+      "date": "2026-07-16T16:33:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-16-154753-compassionate-kirch — 時間台灣頁研究與實作收官",
+      "articles": []
+    },
+    {
+      "hash": "07c0cf4322bb0644d9e942d91297eeaecfb9f1a5",
+      "date": "2026-07-16T16:33:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 探索新增「時間台灣」歷史時間軸頁——八個時代把 74 篇文章接進六語軸線",
+      "articles": []
+    },
+    {
+      "hash": "71dcaddf3ea31fcafbb440f849059561dbbd84f7",
+      "date": "2026-07-16T16:32:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 編輯台 v3 — 暗色殼修復＋編輯室現場劇場＋文章頁 beta 入口（哲宇截圖 callout）",
+      "articles": []
+    },
+    {
+      "hash": "9069af0f0a942e1467f4d99c89124ffad3e82583",
+      "date": "2026-07-16T16:20:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-16-161654-newsroom — REWRITE v9 索引化＋共享編輯台上線＋編輯室攻防輪",
+      "articles": []
+    },
+    {
+      "hash": "2b11024079cae7fd3bb594b644640c979b1ed8d7",
+      "date": "2026-07-16T16:15:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 編輯台進 nav ＋ 本機控制模式（哲宇 directive）",
+      "articles": []
+    },
+    {
+      "hash": "4f322e0ac84d33b4d7b9adc1e01e446180cfd08b",
+      "date": "2026-07-16T16:07:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: making-of 思考脈絡頁 — /semiont/newsroom/{slug}",
+      "articles": []
+    },
+    {
+      "hash": "e69c11a7992f151062ff61df259831139778993e",
+      "date": "2026-07-16T16:04:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 編輯台 v2 — 總編輯泳道表＋文章頁編輯台足跡",
+      "articles": []
+    },
+    {
+      "hash": "629a02d6b32a9e8644d271ca8d28f21788ad2910",
+      "date": "2026-07-16T15:57:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: stage contract 序列命名＋執行套件補齊（哲宇 directive）",
+      "articles": []
+    },
+    {
+      "hash": "5cd0df841f23249fd4bb1f68746e3f78be54cfd4",
+      "date": "2026-07-16T15:50:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: pipeline-shell-lint — 防 v9 薄索引再增厚的尺",
+      "articles": []
+    },
+    {
+      "hash": "f6b25b14d62ab207fcec1d72bdb33414ed3122c6",
+      "date": "2026-07-16T15:49:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 編輯室 v1.1 — 攻防輪與總編室",
+      "articles": []
+    },
+    {
+      "hash": "83ba7a3b77619b9c4aa80ed9aea4e5ffa516c63a",
+      "date": "2026-07-16T15:45:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 共享編輯台誕生 — /semiont/newsroom 公開唯讀看板",
+      "articles": []
+    },
+    {
+      "hash": "739a1c572de81e32bda6c7d42f01e457df11bb1f",
+      "date": "2026-07-16T15:33:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: REWRITE-PIPELINE v9.0 — 拆成薄索引與十個 stage contract 檔",
+      "articles": []
+    },
+    {
+      "hash": "23b9d360af216ee1d7128ed67f89c36e41b8e4f7",
+      "date": "2026-07-16T00:45:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel-nightly: Tier 0b extended — 10 diff=0 tasks bumped (jinguashi/stan-shih/yang-dechang/acer × 5 langs subset) — 2026-07-16",
+      "articles": []
+    },
+    {
+      "hash": "ea67959a81ee81c660d0d18521b6b0701103135d",
+      "date": "2026-07-16T00:44:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel-nightly: Tier 0b metadata bump — 3 zh commits (f5975a22 × Howhow-src, d40e5042 × YouTuber-src, bahamut-parent) × 5 langs = 15 translations + _translation-status.json — 2026-07-16",
+      "articles": []
+    },
+    {
+      "hash": "682702c14728ec4e7d75dda640d9e688362b447c",
+      "date": "2026-07-15T23:18:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-15-231142-twmd-data-refresh-pm — CF 404 vc=12 續探 + 免疫首度掉出 60 + rider heal 71h→0h",
+      "articles": []
+    },
+    {
+      "hash": "8eb71b8e059bf7d58ffb6234ca3fbe376e9ac6e7",
+      "date": "2026-07-15T23:16:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh — 2026-07-15 pm",
+      "articles": []
+    },
     {
       "hash": "d40e5042008a677ea110669db085911bd8c0deb6",
       "date": "2026-07-15T20:58:40+08:00",

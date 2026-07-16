@@ -1,8 +1,17 @@
 {
-  "_generated": "2026-07-15T15:11:03.932Z",
+  "_generated": "2026-07-16T09:22:48.661Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "史前時代與原住民：長濱2-3萬年到南島語族擴散起點",
+        "desc": "台灣最早的人類活動是約2-3萬年前的長濱文化（舊石器時代，八仙洞遺址）；官方認定的原住民族有16族。現存南島語10大分支有9支在台灣，讓它被視為南島語族可能的發源地之一；2024年最新研究指出台灣移出約佔20%、另有印尼擴散路徑，學術共識仍在形成。17世紀已有大肚王國跨部落聯盟，十三行文化則開啟鐵器時代。",
+        "category": "history",
+        "href": "/history/%E5%8F%B2%E5%89%8D%E6%99%82%E4%BB%A3%E8%88%87%E5%8E%9F%E4%BD%8F%E6%B0%91",
+        "date": "2026-07-16T16:43:39+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
       {
         "title": "台灣YouTuber產業與文化：從蔡阿嘎到奇軒，一個島嶼的數位文化進化史",
         "desc": "一個從魔術起家的創作者如何成為台灣首位千萬訂閱YouTuber？這背後是台灣網路影音文化從本土娛樂進化為國際輸出的完整故事",
@@ -263,18 +272,36 @@
         "date": "2026-07-11T12:11:40+08:00",
         "readingTime": 13,
         "image": "/article-images/people/lee-feng-chien-tsai-google-2019.webp"
-      },
-      {
-        "title": "2026 九合一選舉：在 AI 認知作戰時代的民主基礎建設壓力測試",
-        "desc": "2026 年 11 月 28 日，全台 22 縣市同日打開投票所選出九種職位、超過 1.1 萬個民選首長與民意代表。這場選舉跟過去任何一場都不一樣 — 差別不在候選人，差別在它發生的環境：中共國家級 AI 認知作戰升級、123+ 偽冒新聞網站、檢察官把 AI 假訊息列入查察四大重點。這篇不是選舉資訊整理，是這場選舉的歷史定位與結構性壓力分析。",
-        "category": "politics",
-        "href": "/politics/2026%20%E4%B9%9D%E5%90%88%E4%B8%80%E9%81%B8%E8%88%89",
-        "date": "2026-07-10T23:59:03+08:00",
-        "readingTime": 18,
-        "image": ""
       }
     ],
     "en": [
+      {
+        "title": "Li Ang: Lukang 1952, the Trailblazer Who Opened the Path of Taiwanese Feminist Literature with 'The Butcher's Wife'",
+        "desc": "Born in April 1952 in Lukang, Changhua, under the birth name Shih Shu-tuan. In 1983, 'The Butcher's Wife' was serialized in United Daily News, shocking the literary world with its subject matter of domestic violence. 'The Enchanted Garden' followed in 1991. In 2004, she was awarded the Chevalier de l'Ordre des Arts et des Lettres by France. Her works have been translated into English, French, German, Japanese, and other languages, making her one of the most internationally recognized female writers from Taiwan.",
+        "category": "people",
+        "href": "/en/people/li-ang",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Tzu-Hsien Tung: From Taipei Tech to Pegatron, Apple's Largest Manufacturing Partner",
+        "desc": "Born June 25, 1960, Tzu-Hsien Tung graduated from the Department of Electronics at Taipei Tech (now National Taipei University of Technology), not NTU Electrical Engineering. He joined ASUS in 1988, led the spin-off on January 1, 2008, and founded Pegatron Corporation, becoming a contract manufacturer for Apple, Sony, and Nintendo. He invested in Eslite Bookstore in 2019. In 2025, he continued to publicly advocate for a 'nuclear–renewables coexistence' energy policy.",
+        "category": "people",
+        "href": "/en/people/tung-tzu-hsien-tech-humanist",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Prehistoric Era and Indigenous Peoples: From Changbin 20,000–30,000 Years Ago to the Austronesian Dispersal Origin",
+        "desc": "Earliest human activity in Taiwan: Changbin Culture approximately 20,000–30,000 years ago (Paleolithic era, Baxian Cave site). 16 officially recognized indigenous peoples. One possible origin of the Austronesian language family (9 of 10 major Austronesian branches found in Taiwan). 2024 latest research: dispersal from Taiwan accounts for approximately 20%, with an additional dispersal route from Indonesia, pending academic consensus. 17th-century Kingdom of Middag as a cross-tribal alliance; Shihsanhang Culture in the Iron Age.",
+        "category": "history",
+        "href": "/en/history/prehistoric-era-and-indigenous-peoples",
+        "date": "2026-07-16T16:39:06+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
       {
         "title": "AI Hardware Supply Chain: Where Taiwan Turns the Cloud into Machines",
         "desc": "Generative AI looks like a cloud service, but it depends on a physical road: chip design, wafer fabrication, packaging, memory, power, cooling, motherboards, racks, and delivery. Taiwan matters not only because of TSMC, but because many checkpoints along that road are concentrated here; that shared interest is real, and so are the bills for water, power, carbon, inequality, overseas manufacturing, and geopolitical risk.",
@@ -517,36 +544,45 @@
         "date": "2026-06-09T11:27:50+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "Cheng Li-wen",
-        "desc": "From the student activist who went on a hunger strike for 'Taiwan independence' at the NTU gate in 1988 to the KMT chairperson who told Xi Jinping in Beijing in 2026 that 'compatriots across the strait are all Chinese.' What happened along this trajectory?",
-        "category": "people",
-        "href": "/en/people/cheng-li-wun",
-        "date": "2026-06-09T11:27:50+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "CommonWealth Magazine: Four Decades of Defining Taiwan's \"Success,\" Standing Closest to Capital",
-        "desc": "In June 1981, a business magazine called CommonWealth launched on a martial-law island, selling out its first print run of 10,000 copies in two days. Founded by economist Kao Hsi-chun, its editorial soul was Diane Ying — a former UPI, New York Times, and Asian Wall Street Journal reporter. Forty years later it became one of Taiwan's most trusted media outlets, and the maker of rankings — the Top 2000, Top 50, Happiest Cities — that quietly define what \"success\" means. Its credibility and its power to rank others draw from the same distance.",
-        "category": "society",
-        "href": "/en/society/commonwealth-magazine",
-        "date": "2026-06-06T18:14:04+08:00",
-        "readingTime": null,
-        "image": "/article-images/society/diane-ying-magsaysay.webp"
-      },
-      {
-        "title": "Postwar Economic Development",
-        "desc": "The trajectory of Taiwan's economic miracle, rising from an agricultural society to become one of the Four Asian Tigers",
-        "category": "history",
-        "href": "/en/history/postwar-economic-development",
-        "date": "2026-06-04T16:38:54+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "ja": [
+      {
+        "title": "童子賢：台北工専から出発し、和碩がアップル最大の代工パートナーに",
+        "desc": "1960年6月25日生まれ。童子賢は台北工専（現・国立台北科技大学）電子科を卒業し、台大電機ではない。1988年に華碩に入社、2008年1月1日に主導して分社化を実行し、和碩聯合科技を設立。アップル、ソニー、任天堂の代工場となった。2019年に誠品書店に投資。2025年も「核緑共存」のエネルギー政策主張を発表し続けている。",
+        "category": "people",
+        "href": "/ja/people/tung-tzu-hsien-tech-humanist",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "葉国一：士林高商から始めた半世紀の代工帝国",
+        "desc": "1941年4月21日生まれ。大学の学歴を持たない葉国一は、士林高商を出発点とし、1975年に士林で英業達を創業した。電子計算機から出発し、同社を世界トップクラスのサーバー代工場へと育て、Facebook、マイクロソフト、Googleのクラウドコンピューティングを支える。2023年に董事長の職を次男の葉力誠に譲り、自らはグループ会長に退いた。",
+        "category": "people",
+        "href": "/ja/people/yeh-kuo-yi-electronics-manufacturing-pioneer",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "王永慶：米店から六軽への二十年の奮戦、そして死後の遺産争奪劇",
+        "desc": "1917年1月18日、台北新店に生まれた王永慶は、15歳で中退し借金して米店を開業、1954年に台湾プラスチックを設立した。1973年に政府に六軽（第六ナフサクラッカー）の建設を提案し、約二十年の奮戦を経て認可され、1998年に雲林県麦寮で本格量産を開始した。2008年10月15日に米国にて逝去、享年92歳。死後、十年以上にわたる家族間の遺産争いが残された。",
+        "category": "people",
+        "href": "/ja/people/yung-ching-wang-formosa-plastics-founder",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "先史時代と原住民：長浜2〜3万年前から南島語族拡散の起点へ",
+        "desc": "台湾における最も古い人間活動：長浜文化は約2〜3万年前（旧石器時代、八仙洞遺跡）。公式に認定された原住民族は16族。南島語族の発祥地の一つとして考えられている（南島語10大分支のうち台湾が9つを占める）。2024年最新研究：台湾からの移出は約20%、インドネシアからの拡散経路も存在し、学術的合意は形成中。17世紀のタイタク王国（大肚王国）は部族横断的な同盟、十三行文化は鉄器時代に属する。",
+        "category": "history",
+        "href": "/ja/history/prehistoric-era-and-indigenous-peoples",
+        "date": "2026-07-16T16:39:06+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
       {
         "title": "台湾のために教える：プリンストン出身の女性が帰国後、400人の若者を過疎の教室へと送り込んだ物語",
         "desc": "2014年、劉安婷は2000元と9人の仲間とともに活動を始めた。11年後、400人以上のTFT教師が台湾最も辺境の小学校に入り、制度から取り残された7000人以上の子どもたちと共に過ごした。これは教育慈善の感動物語ではない——「不公平の責任は誰にあるのか」という、今も続く問いである。",
@@ -780,45 +816,45 @@
         "date": "2026-05-24T22:40:37+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "珍珠奶茶",
-        "desc": "1987年、台中での従業員会議で、何気ない動作がきっかけとなり、一杯の飲料が世界を征服した。珍珠奶茶の起源をめぐる論争、文化と政治、そして約500kcalの一杯をめぐる健康論争。",
-        "category": "food",
-        "href": "/ja/food/bubble-tea",
-        "date": "2026-05-24T22:40:37+08:00",
-        "readingTime": null,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg"
-      },
-      {
-        "title": "台湾の政治環境と選挙制度",
-        "desc": "憲法の枠組み、中央と地方の選挙メカニズム、そして深層の政党政治文化に至るまで、台湾が複雑な地政学の中で、活力に満ちかつ制度の厳格な民主社会をいかに維持しているかを包括的に解説します",
-        "category": "society",
-        "href": "/ja/society/taiwan-political-landscape-and-electoral-system",
-        "date": "2026-05-24T22:40:37+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台湾統独スペクトラム：四つの立場と一つの現状、三十年で静かに描き直されたアイデンティティの地図",
-        "desc": "2026 年 5 月、トランプ・習会談後の七日間で、頼清徳は台湾の主権を二度にわたり公に再確認しました。しかし彼は三つの異なる名称、「中華民国」、「中華民国台湾」、「台湾」を用いました。一人の総統が三つの名称を同じ一文の「いずれも主権独立」に圧縮したことは、現代の統独論争の縮図です。1994 年に「永遠に現状を維持」は 9.8% でしたが、2023 年には 33.2% まで上昇しました。この三十年で、二項対立の枠組みが描写していた台湾は、すでにここにはありません。",
-        "category": "society",
-        "href": "/ja/society/taiwan-unification-independence-spectrum",
-        "date": "2026-05-24T22:40:37+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "中正記念堂",
-        "desc": "台北市中心で最も巨大な政治的象徴であり、最も民主的なダンス練習場でもある。権威の聖殿から転換正義の嵐の目へ、この建築は台湾の魂が最も激しく揺れた記録を刻んでいる。",
-        "category": "history",
-        "href": "/ja/history/chiang-kai-shek-memorial-hall",
-        "date": "2026-05-20T12:37:22+08:00",
-        "readingTime": "9",
-        "image": ""
       }
     ],
     "ko": [
+      {
+        "title": "이앙: 루강 1952, <살부>로 타이완 여성주의 문학의 개척자",
+        "desc": "1952년 장화 루강 출생, 본명 시서단. 1983년 <살부>가 연합보에 연재되며 가정폭력 소재로 타이완 문단을 충격에 빠뜨림. 1991년 <미원>. 2004년 프랑스 예술문학훈장 기사 작위 수훈. 작품이 영어, 프랑스어, 독일어, 일본어 등 다국어로 번역되어 타이완에서 가장 국제적 주목을 받는 여성 작가 중 한 명.",
+        "category": "people",
+        "href": "/ko/people/li-ang",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "자자셴: 타이베이공전에서 출발해 애플 최대 파트너 페가트론이 되기까지",
+        "desc": "1960년 6월 25일 생. 자자셴은 타이베이공전(현 국립타이베이과대) 전자과를 졸업했으며 대만대 전기공학과 출신이 아니다. 1988년 화섭컴퓨터에 입사, 2008년 1월 1일 브랜드와 주문자생산 분할을 주도하여 페가트론 유나이티드 테크놀로지를 설립, 애플·소니·닌텐도 등의 위탁생산 공장이 되었다. 2019년 에슬리트 서점에 투자. 2025년에도 「원전·재생에너지 공존」 에너지 정책 주장을 발표.",
+        "category": "people",
+        "href": "/ko/people/tung-tzu-hsien-tech-humanist",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "예국일: 사림고상에서 출발해 반세기 주조 제국을 건설하다",
+        "desc": "1941년 4월 21일생. 예국일은 대학 학위 없이 사림고상(士林高商)을 거쳐 1975년 사림에서 잉예다(英業達)를 창립했다. 전자계산기에서 출발하여 회사를 글로벌 최고의 서버 주조 기업으로 이끌었으며, 페이스북, 마이크로소프트, 구글의 클라우드 컴퓨팅 파워를 공급했다. 2023년 회장직을 차남 예력성에게 넘기고 그룹 회장으로 물러났다.",
+        "category": "people",
+        "href": "/ko/people/yeh-kuo-yi-electronics-manufacturing-pioneer",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "선사시대와 원주민: 창빈 2~3만 년부터 남도어족 확산의 기점",
+        "desc": "대만 최초의 인간 활동: 창빈 문화 약 2~3만 년 전(구석기시대, 팔선동 유적). 공식 인정 원주민족 16개 부족. 남도어족 가능한 발상지 중 하나(남도어 10대 분류 중 대만이 9개 분류 차지). 2024년 최신 연구: 대만 이주 비율 약 20%, 인도네시아 확산 경로도 존재하며, 학계 합의가 형성 중이다. 17세기 다두왕국 부족 연합, 싼하싱 문화 철기시대.",
+        "category": "history",
+        "href": "/ko/history/prehistoric-era-and-indigenous-peoples",
+        "date": "2026-07-16T16:39:06+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
       {
         "title": "대만을 위한 교육 TFT: 프린스턴 출신 여성이 귀국 후 400명의 젊은이를 농촌 교실로 이끈 이야기",
         "desc": "2014년, 류안팅은 단돈 2,000대만달러와 9명으로 시작했다. 11년 후, 400여 명의 TFT 교사가 대만의 가장 외진 초등학교에 들어가 체제에서 잊혀진 7,000여 명의 아이들과 함께하고 있다. 이것은 교육 자선의 감동 스토리가 아니다. \"누가 불공평에 책임을 져야 하는가\"를 둘러싼 지속적인 논쟁이다.",
@@ -1052,45 +1088,36 @@
         "date": "2026-06-09T11:27:50+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "Complex Life Festival: Two Medical Students' 'Unsuccessful People's Forum' and a Generation's Five-Year Refusal to Admit They Are Good Enough",
-        "desc": "In May 2016, Hsu Hao-ning tagged a list of 'post-80s' (born 1981–1990) who 'made life very tiring' on Facebook, and with his classmate Huang Tou-ni (Huang Yen-lin), organized the first 'Unsuccessful People's Forum.' A TCM practitioner and a Western medicine doctor who later went to Harvard rewrote the previous generation's commercially co-opted 'simplicity' into 'complexity,' allowing only talk of 'growth' but forbidding talk of 'success.' Five years later, the soul remained in Taichung to open a bookstore and ran for city councilor but lost; the assistant looked back and called it 'Hao-ning's representative work, sealed here.' Is 'unsuccessful' a humble term, or a self-demand of a generation that is always just a little bit short? ",
-        "category": "society",
-        "href": "/ko/society/complex-life-festival",
-        "date": "2026-06-09T11:27:50+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "손윤쉐안: 어둠 속에서 대만을 밝힌 엔지니어 총리",
-        "desc": "전후 폐허 속 다섯 달 만의 복전 기적에서 반도체 산업에 대한 선제적 투자까지, 손윤쉐안은 엔지니어다운 실용성과 청렴함으로 대만 현대화의 초석을 놓았다.",
-        "category": "people",
-        "href": "/ko/people/sun-yun-suan",
-        "date": "2026-05-25T08:04:52+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "대만 산업 전환 및 업그레이드: 제조 대국에서 혁신 강국으로",
-        "desc": "대만의 산업 구조는 노동집중형에서 지식집중형으로 전환되었으며, 5+2 산업 혁신, 6대 핵심 전략 산업 등의 정책을 통해 전통 제조업의 업그레이드와 신흥 산업의 발전을 추진하고 있다.",
-        "category": "economy",
-        "href": "/ko/economy/industrial-transformation-from-manufacturing-to-innovation",
-        "date": "2026-05-25T08:04:52+08:00",
-        "readingTime": "15",
-        "image": ""
-      },
-      {
-        "title": "타이완 커피 산업",
-        "desc": "1884년 덕기양행의 묘목 100그루에서 2024년 첫 CoE 탁월컵까지, 한 섬이 140년 만에 연간 4만 3천 톤 수입의 커피 왕국을 만든 이야기",
-        "category": "food",
-        "href": "/ko/food/taiwan-coffee-industry",
-        "date": "2026-05-24T22:51:42+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "fr": [
+      {
+        "title": "Tung Tzu-hsien : parti du Taipei Tech, Pegatron devient le plus grand partenaire sous-traitant d'Apple",
+        "desc": "Né le 25 juin 1960, Tung Tzu-hsien est diplômé du département d'électronique du Taipei Tech (aujourd'hui l'Université nationale de technologie de Taipei), et non de la faculté d'électrotechnique de l'NTU. Il rejoint ASUS en 1988, puis dirige la scission le 1er janvier 2008 et fonde Pegatron, devenant sous-traitant d'Apple, Sony et Nintendo. En 2019, il investit dans la librairie Eslite. En 2025, il continue de défendre publiquement une politique énergétique de « coexistence nucléaire et renouvelable ».",
+        "category": "people",
+        "href": "/fr/people/tung-tzu-hsien-tech-humanist",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Yang Chuan-kwang : le village de Taitung, l'argent à Rome, et le record du monde à 9 121 points de l'Homme de fer asiatique",
+        "desc": "Né le 10 juillet 1933 dans le village Amis de Malan, à Taitung, Yang Chuan-kwang est le premier médaillé olympique de Taïwan. Aux Jeux olympiques de Rome en 1960, il décroche l'argent en décathlon avec 8 334 points, puis bat le record du monde en 1963 avec 9 121 points, son saut à la perche de 4,83 m contraignant l'IAAF à réviser ses barèmes de notation. Il meurt le 27 janvier 2007 d'un AVC en Californie, à l'âge de 73 ans. En avril 2025, le ministère de la Culture le classe Trésor national.",
+        "category": "people",
+        "href": "/fr/people/yang-chuan-kwang-asian-iron-man",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Préhistoire et peuples autochtones : de la culture de Changbin il y a 20 000 à 30 000 ans au point de départ de la diffusion austronésienne",
+        "desc": "Plus ancienne activité humaine confirmée à Taïwan : la culture de Changbin, il y a environ 20 000 à 30 000 ans (Paléolithique, site des Huit Grottes de Baxian). 16 groupes autochtones officiellement reconnus. Taïwan considéré comme l'un des foyers possibles des langues austronésiennes (9 des 10 grandes branches austronésiennes sont taïwanaises). Étude la plus récente (2024) : les migrations depuis Taïwan représenteraient environ 20 %, avec une autre voie de diffusion depuis l'Indonésie, consensus académique en cours. Au XVIIe siècle, le royaume de Dadu, alliance intertribale. Culture de Shihsanhang, âge du fer.",
+        "category": "history",
+        "href": "/fr/history/prehistoric-era-and-indigenous-peoples",
+        "date": "2026-07-16T16:39:06+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
       {
         "title": "La génération slash à Taïwan — survivre avec plusieurs casquettes",
         "desc": "Quand un master ne couvre même pas le loyer d'un studio à Taipei, le cumul d'emplois n'est pas un choix : c'est une équation de survie",
@@ -1333,36 +1360,36 @@
         "date": "2026-05-25T07:47:04+08:00",
         "readingTime": 14,
         "image": ""
-      },
-      {
-        "title": "traditional-festivals-and-celebrations",
-        "desc": "",
-        "category": "culture",
-        "href": "/fr/culture/traditional-festivals-and-celebrations",
-        "date": "2026-05-25T07:47:04+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "L'économie des marchés de nuit : un miracle commercial sans marque",
-        "desc": "Comment les marchés de nuit (夜市) de Taïwan génèrent près de 400 milliards de TWD de chiffre d'affaires annuel, sans marque unifiée, sans décor sophistiqué, ni emplacement fixe",
-        "category": "economy",
-        "href": "/fr/economy/night-market-economics",
-        "date": "2026-05-25T07:47:04+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "La culture des sources thermales",
-        "desc": "Des sanatoriums militaires aux trois plus rares sources boueuses du monde : comment Taïwan est devenu un empire du thermalisme",
-        "category": "lifestyle",
-        "href": "/fr/lifestyle/hot-spring-culture",
-        "date": "2026-05-25T07:47:04+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "es": [
+      {
+        "title": "Li-ang: Lukang 1952, la pionera de la literatura feminista taiwanesa con \"La mujer del verdugo",
+        "desc": "Nacida en abril de 1952 en Lukang, condado de Changhua, con el nombre de nacimiento Shih Shu-duan. En 1983, \"La mujer del verdugo\" se publicó en serie en el United Daily News, conmocionando el mundo literario taiwanés por su tratamiento de la violencia doméstica. En 1991 publicó \"El jardín de los senderos que se bifurcan\". En 2004 recibió la condecoración de Caballero de la Orden de las Artes y las Letras de Francia. Sus obras han sido traducidas al inglés, francés, alemán, japonés y otros idiomas, y es una de las escritoras taiwanesas con mayor reconocimiento internacional.",
+        "category": "people",
+        "href": "/es/people/li-ang",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Tung Tzu-hsien: de la Taipei Tech a Pegatron, el mayor socio de manufactura de Apple",
+        "desc": "Nacido el 25 de junio de 1960, Tung Tzu-hsien se graduó en electrónica en la Taipei Tech (hoy Universidad Nacional de Tecnología de Taipei), no en Ingeniería Eléctrica de la NTU. Se unió a ASUS en 1988 y lideró la escisión el 1 de enero de 2008, fundando Pegatron, que se convirtió en fabricante bajo contrato de Apple, Sony y Nintendo. En 2019 invirtió en la librería Eslite. En 2025 seguía publicando su postura de política energética de \"coexistencia nuclear-verde\".",
+        "category": "people",
+        "href": "/es/people/tung-tzu-hsien-tech-humanist",
+        "date": "2026-07-16T16:50:20+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "Era prehistórica y pueblos indígenas: de la cultura Changbin (20.000-30.000 años) al punto de partida de la expansión austronesia",
+        "desc": "La actividad humana más antigua confirmada en Taiwán es la cultura Changbin, de hace aproximadamente 20.000-30.000 años (Paleolítico, sitio de las Ocho Cuevas de Baxian). Los pueblos indígenas oficialmente reconocidos son 16 grupos. Taiwán es considerado uno de los posibles lugares de origen de los pueblos austronesios (9 de las 10 ramas principales de lenguas austronesias están en Taiwán). Investigación más reciente de 2024: la emigración desde Taiwán representa aproximadamente el 20%, con una ruta adicional de expansión desde Indonesia, pendiente de consenso académico. En el siglo XVII existía el Reino de Middag como alianza intertribal, y la cultura Shihsanhang en la Edad del Hierro.",
+        "category": "history",
+        "href": "/es/history/prehistoric-era-and-indigenous-peoples",
+        "date": "2026-07-16T16:39:06+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
       {
         "title": "Liu An-ting",
         "desc": "En 2008 ingresó en Princeton desde la Escuela Secundaria Femenina de Taichung. En 2013, a los 23 años, renunció a su trabajo como consultora en Nueva York para regresar a Taiwán y fundar TFT (Teach for Taiwan). En 2016, en la ceremonia de graduación de la Universidad Nacional de Cheng Kung, preguntó: «¿Qué haces con tu suerte?». Esa frase se convirtió en un mantra colectivo de toda una generación. Pero la otra frase que más repetía era: «No confíen en mí como persona». En 2024, tras el décimo aniversario de TFT, cedió la presidencia del consejo a Lin Yanxi y pasó a ser consejera. Su mejor obra no es TFT, sino lograr que TFT pueda existir sin ella.",
@@ -1562,15 +1589,6 @@
         "image": ""
       },
       {
-        "title": "Era prehistórica y pueblos indígenas: de la cultura Changbin (20.000-30.000 años) al punto de partida de la expansión austronesia",
-        "desc": "La actividad humana más antigua confirmada en Taiwán es la cultura Changbin, de hace aproximadamente 20.000-30.000 años (Paleolítico, sitio de las Ocho Cuevas de Baxian). Los pueblos indígenas oficialmente reconocidos son 16 grupos. Taiwán es considerado uno de los posibles lugares de origen de los pueblos austronesios (9 de las 10 ramas principales de lenguas austronesias están en Taiwán). Investigación más reciente de 2024: la emigración desde Taiwán representa aproximadamente el 20%, con una ruta adicional de expansión desde Indonesia (P0⚠️). En el siglo XVII existía el Reino de Middag como alianza intertribal, y la cultura Shihsanhang en la Edad del Hierro.",
-        "category": "history",
-        "href": "/es/history/prehistoric-era-and-indigenous-peoples",
-        "date": "2026-05-25T05:49:38+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
         "title": "El período de gobierno Qing",
         "desc": "De 1683 a 1895, la dinastía Qing gobernó Taiwán durante aproximadamente 212 años, pasando de una administración pasiva a una construcción activa, sentando las bases de la división administrativa moderna de Taiwán y de la sociedad de etnia Han.",
         "category": "history",
@@ -1613,24 +1631,6 @@
         "href": "/es/geography/hsinchu-county",
         "date": "2026-05-25T05:49:38+08:00",
         "readingTime": 17,
-        "image": ""
-      },
-      {
-        "title": "Ciudad de Taichung: en 1887 casi fue capital; recién en 2010 se convirtió en la segunda mayor municipalidad especial",
-        "desc": "En 1887, Liu Ming-chuan solicitó establecer la provincia de Taiwán; la capital provincial fue elegida en Qiaozitou, condado de Changhua (hoy zona urbana de Taichung), con una ciudad amurallada de forma bagua. La construcción comenzó en 1889. Tras asumir Shao Youlian en 1894, la capital provincial se trasladó al norte, a Taipéi, y las obras de la capital provincial de Taichung se detuvieron. El 1 de octubre de 1920, los japoneses establecieron aquí la prefectura de Taichung. En 1955, la Universidad Tunghai inició obras en el monte Dadu; en 1963 se completó la Capilla Luce. En la madrugada del 21 de septiembre de 1999, la falla de Chelungpu rasgó el territorio desde Jiji, Nantou, hasta Dongshi, Taichung; en el pueblo de Dongshi murieron 358 personas. El 25 de diciembre de 2010, la fusión de ciudad y condado elevó a Taichung a municipalidad especial, con 29 distritos. En 2016 abrió en Xitun el Teatro Nacional diseñado por Toyo Ito. 2,86 millones de personas viven en esta ciudad que esperó 123 años.",
-        "category": "geography",
-        "href": "/es/geography/taichung-city",
-        "date": "2026-05-25T05:49:38+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "Condado de Taitung: dos islas periféricas, una encarceló presos políticos durante treinta y seis años, la otra almacenó residuos nucleares durante cuarenta y dos años",
-        "desc": "Los 210.000 habitantes del condado de Taitung están dispersos en 3.515 kilómetros cuadrados, la densidad más baja del país: apenas 60 personas por kilómetro cuadrado, una centésima parte de Taipéi. Pero este condado contiene el asentamiento humano más antiguo de Taiwán (el sitio arqueológico de Beinan, con 1.600 sarcófagos de piedra de hace 5.300 años), alberga a seis pueblos indígenas (amis, puyuma, paiwan, rukai, bunun y tao), y tiene la proporción de población indígena más alta de Taiwán, 37,5%. De 1951 a 1987, la isla Verde, entonces Huoshaodao, encerró presos políticos durante treinta y seis años. Desde mayo de 1982, Longmen, en Lanyu, comenzó a recibir residuos nucleares; cuarenta y dos años después, 97.672 barriles siguen allí. El 25 de agosto de 1968, siete niños bunun de la aldea Hongye derrotaron 7:0 al equipo estelar japonés de béisbol infantil de Kansai (no al equipo campeón mundial), y el mito del béisbol como deporte nacional de Taiwán comenzó con ese engaño. Dos islas periféricas cargaron con el costo de toda una isla.",
-        "category": "geography",
-        "href": "/es/geography/taitung-county",
-        "date": "2026-05-25T05:49:38+08:00",
-        "readingTime": 15,
         "image": ""
       }
     ]
