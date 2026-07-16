@@ -174,273 +174,279 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
   description="Taiwan.md 的公開編輯台：每篇文章在生產線的哪一站、產出了什麼、下一步怎麼推進，總編輯視角一眼看完。"
   lang="zh-TW"
 >
-  <main class="newsroom semiont-paper">
-    <header class="nr-head">
-      <p class="nr-eyebrow">
-        SEMIONT NEWSROOM <span class="nr-beta">beta</span>
-      </p>
-      <h1>共享編輯台</h1>
-      <p class="nr-lede">
-        這是 Taiwan.md 的編輯台，對所有人打開。每篇文章怎麼被想（觀點與投影）、
-        被吵（編輯室分席對抗）、被驗（事實查核與成品總驗），生產狀態攤在這裡。
-        看板由生產線的檔案現況直接推導，沒有第二本帳。第一階段唯讀。
-      </p>
-      <div class="nr-stats">
-        <span class="nr-stat"
-          ><b>{inflight.length + blocked.length}</b> 產線上</span
-        >
-        <span class="nr-stat"><b>{inbox.length}</b> 收件</span>
-        <span class="nr-stat"><b>{shipped.length}</b> 已出刊</span>
-        <span class="nr-stat dim">{generatedAt} 更新</span>
-      </div>
-      <p class="nr-meta">
-        產線規格
-        <a
-          href={GH + 'docs/pipelines/REWRITE-PIPELINE.md'}
-          target="_blank"
-          rel="noopener">REWRITE-PIPELINE v9</a
-        > ·
-        <a href="/about/文章如何誕生/">文章如何誕生 →</a>
-      </p>
-    </header>
+  <div class="nr-shell semiont-paper">
+    <main class="newsroom">
+      <header class="nr-head">
+        <p class="nr-eyebrow">
+          SEMIONT NEWSROOM <span class="nr-beta">beta</span>
+        </p>
+        <h1>共享編輯台</h1>
+        <p class="nr-lede">
+          這是 Taiwan.md
+          的編輯台，對所有人打開。每篇文章怎麼被想（觀點與投影）、
+          被吵（編輯室分席對抗）、被驗（事實查核與成品總驗），生產狀態攤在這裡。
+          看板由生產線的檔案現況直接推導，沒有第二本帳。第一階段唯讀。
+        </p>
+        <div class="nr-stats">
+          <span class="nr-stat"
+            ><b>{inflight.length + blocked.length}</b> 產線上</span
+          >
+          <span class="nr-stat"><b>{inbox.length}</b> 收件</span>
+          <span class="nr-stat"><b>{shipped.length}</b> 已出刊</span>
+          <span class="nr-stat dim">{generatedAt} 更新</span>
+        </div>
+        <p class="nr-meta">
+          產線規格
+          <a
+            href={GH + 'docs/pipelines/REWRITE-PIPELINE.md'}
+            target="_blank"
+            rel="noopener">REWRITE-PIPELINE v9</a
+          > ·
+          <a href="/about/文章如何誕生/">文章如何誕生 →</a>
+        </p>
+      </header>
 
-    {
-      blocked.length > 0 && (
-        <section class="nr-alert">
-          <h2>🚧 卡關（優先處理）</h2>
-          {blocked.map((a) => (
-            <p>
-              <strong>{a.title}</strong> — 卡在 {(a as any).blocked_on}：
-              {a.next_step}
-            </p>
-          ))}
-        </section>
-      )
-    }
+      {
+        blocked.length > 0 && (
+          <section class="nr-alert">
+            <h2>🚧 卡關（優先處理）</h2>
+            {blocked.map((a) => (
+              <p>
+                <strong>{a.title}</strong> — 卡在 {(a as any).blocked_on}：
+                {a.next_step}
+              </p>
+            ))}
+          </section>
+        )
+      }
 
-    <section class="nr-section">
-      <h2>🛠 產線上（{inflight.length}）</h2>
-      <p class="nr-section-desc">
-        一列一篇。格子由左至右是產線順序（欄名＝stage contract
-        編號）；懸停格子看該階段細節，
-        點列展開看「為什麼在這裡、下一步怎麼推」。
-      </p>
-      <div class="nr-tablewrap">
-        <table class="nr-lane">
-          <thead>
-            <tr>
-              <th class="nr-th-title">文章</th>
+      <section class="nr-section">
+        <h2>🛠 產線上（{inflight.length}）</h2>
+        <p class="nr-section-desc">
+          一列一篇。格子由左至右是產線順序（欄名＝stage contract
+          編號）；懸停格子看該階段細節，
+          點列展開看「為什麼在這裡、下一步怎麼推」。
+        </p>
+        <div class="nr-tablewrap">
+          <table class="nr-lane">
+            <thead>
+              <tr>
+                <th class="nr-th-title">文章</th>
+                {
+                  LANES.map((l) => (
+                    <th title={l.name}>
+                      <span class="nr-lane-short">{l.short}</span>
+                      <span class="nr-lane-name">{l.name}</span>
+                    </th>
+                  ))
+                }
+              </tr>
+            </thead>
+            <tbody>
               {
-                LANES.map((l) => (
-                  <th title={l.name}>
-                    <span class="nr-lane-short">{l.short}</span>
-                    <span class="nr-lane-name">{l.name}</span>
-                  </th>
+                inflight.map((a) => (
+                  <>
+                    <tr class="nr-row">
+                      <td class="nr-td-title">
+                        <details>
+                          <summary>
+                            <span class="nr-title-text">{a.title}</span>
+                            <span class="nr-row-badges">
+                              {a.priority && (
+                                <span class="nr-badge pri">{a.priority}</span>
+                              )}
+                              {a.category && (
+                                <span class="nr-badge">{a.category}</span>
+                              )}
+                              {a.mode && <span class="nr-badge">{a.mode}</span>}
+                            </span>
+                          </summary>
+                          <div class="nr-detail">
+                            {a.spine_type && (
+                              <p>
+                                spine：
+                                <span class="nr-badge spine">
+                                  {a.spine_type}
+                                </span>
+                              </p>
+                            )}
+                            <p class="nr-detail-next">
+                              <strong>下一步：</strong>
+                              {a.next_step ?? '照燈號推進'}
+                            </p>
+                            <button
+                              class="nr-advance"
+                              data-slug={a.slug}
+                              data-title={a.title}
+                              data-next={a.next_step ?? ''}
+                              hidden
+                            >
+                              ▶ 建立推進任務（Harvest 駕駛艙派發）
+                            </button>
+                            <p>
+                              <strong>階段產物：</strong>
+                              {artifacts(a).map((x) => (
+                                <a
+                                  class="nr-artifact"
+                                  href={x.href}
+                                  target="_blank"
+                                  rel="noopener"
+                                >
+                                  {x.lane} ↗
+                                </a>
+                              ))}
+                              {hasMakingOf(a) && (
+                                <a
+                                  class="nr-artifact nr-makingof"
+                                  href={makingOfHref(a)}
+                                >
+                                  🏛️ 編輯台紀錄 →
+                                </a>
+                              )}
+                            </p>
+                          </div>
+                        </details>
+                      </td>
+                      {LANES.map((l, i) => {
+                        const c = cell(a, l.id);
+                        const cur = currentLane(a) === i;
+                        return (
+                          <td class={`nr-cell ${c.cls} ${cur ? 'nr-cur' : ''}`}>
+                            {c.href ? (
+                              <a
+                                href={c.href}
+                                data-tip={`${l.name}：${c.tip}（點開產物）`}
+                              >
+                                {c.g}
+                              </a>
+                            ) : (
+                              <span
+                                data-tip={
+                                  c.tip
+                                    ? `${l.name}：${c.tip}`
+                                    : `${l.name}：尚未到站`
+                                }
+                              >
+                                {c.g}
+                              </span>
+                            )}
+                          </td>
+                        );
+                      })}
+                    </tr>
+                  </>
                 ))
               }
-            </tr>
-          </thead>
-          <tbody>
-            {
-              inflight.map((a) => (
-                <>
-                  <tr class="nr-row">
-                    <td class="nr-td-title">
-                      <details>
-                        <summary>
-                          <span class="nr-title-text">{a.title}</span>
-                          <span class="nr-row-badges">
-                            {a.priority && (
-                              <span class="nr-badge pri">{a.priority}</span>
-                            )}
-                            {a.category && (
-                              <span class="nr-badge">{a.category}</span>
-                            )}
-                            {a.mode && <span class="nr-badge">{a.mode}</span>}
-                          </span>
-                        </summary>
-                        <div class="nr-detail">
-                          {a.spine_type && (
-                            <p>
-                              spine：
-                              <span class="nr-badge spine">{a.spine_type}</span>
-                            </p>
-                          )}
-                          <p class="nr-detail-next">
-                            <strong>下一步：</strong>
-                            {a.next_step ?? '照燈號推進'}
-                          </p>
-                          <button
-                            class="nr-advance"
-                            data-slug={a.slug}
-                            data-title={a.title}
-                            data-next={a.next_step ?? ''}
-                            hidden
-                          >
-                            ▶ 建立推進任務（Harvest 駕駛艙派發）
-                          </button>
-                          <p>
-                            <strong>階段產物：</strong>
-                            {artifacts(a).map((x) => (
-                              <a
-                                class="nr-artifact"
-                                href={x.href}
-                                target="_blank"
-                                rel="noopener"
-                              >
-                                {x.lane} ↗
-                              </a>
-                            ))}
-                            {hasMakingOf(a) && (
-                              <a
-                                class="nr-artifact nr-makingof"
-                                href={makingOfHref(a)}
-                              >
-                                🏛️ 編輯台紀錄 →
-                              </a>
-                            )}
-                          </p>
-                        </div>
-                      </details>
+              {
+                inflight.length === 0 && (
+                  <tr>
+                    <td colspan={LANES.length + 1} class="nr-empty">
+                      產線淨空——收件佇列裡挑一篇開工吧。
                     </td>
-                    {LANES.map((l, i) => {
-                      const c = cell(a, l.id);
-                      const cur = currentLane(a) === i;
-                      return (
-                        <td class={`nr-cell ${c.cls} ${cur ? 'nr-cur' : ''}`}>
-                          {c.href ? (
-                            <a
-                              href={c.href}
-                              data-tip={`${l.name}：${c.tip}（點開產物）`}
-                            >
-                              {c.g}
-                            </a>
-                          ) : (
-                            <span
-                              data-tip={
-                                c.tip
-                                  ? `${l.name}：${c.tip}`
-                                  : `${l.name}：尚未到站`
-                              }
-                            >
-                              {c.g}
-                            </span>
-                          )}
-                        </td>
-                      );
-                    })}
                   </tr>
-                </>
-              ))
-            }
-            {
-              inflight.length === 0 && (
-                <tr>
-                  <td colspan={LANES.length + 1} class="nr-empty">
-                    產線淨空——收件佇列裡挑一篇開工吧。
-                  </td>
-                </tr>
-              )
-            }
-          </tbody>
-        </table>
-      </div>
-      <p class="nr-legend">
-        ● 完成／pass　◐ 進行中／revise　○ 待做　✕ 卡關　· 尚未到站。欄位編號＝
-        <a href={GH + 'docs/pipelines/'} target="_blank" rel="noopener"
-          >REWRITE-STAGE contract</a
-        > 序列。
-      </p>
-    </section>
+                )
+              }
+            </tbody>
+          </table>
+        </div>
+        <p class="nr-legend">
+          ● 完成／pass　◐ 進行中／revise　○ 待做　✕ 卡關　· 尚未到站。欄位編號＝
+          <a href={GH + 'docs/pipelines/'} target="_blank" rel="noopener"
+            >REWRITE-STAGE contract</a
+          > 序列。
+        </p>
+      </section>
 
-    <section class="nr-section">
-      <h2>📥 收件佇列（{inbox.length}）</h2>
+      <section class="nr-section">
+        <h2>📥 收件佇列（{inbox.length}）</h2>
+        {
+          (['P0', 'P1', 'P2', 'P3', '其他'] as const).map((p) =>
+            inboxByPrio[p].length ? (
+              <details class="nr-queue" open={p === 'P0'}>
+                <summary>
+                  <span class={`nr-badge pri`}>{p}</span>{' '}
+                  {inboxByPrio[p].length} 篇
+                </summary>
+                <ul>
+                  {inboxByPrio[p].map((a) => (
+                    <li>
+                      {a.title}
+                      {a.category && <span class="nr-badge">{a.category}</span>}
+                      {a.mode && <span class="nr-badge">{a.mode}</span>}
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            ) : null,
+          )
+        }
+      </section>
+
+      <section class="nr-section">
+        <h2>✅ 近期出刊（{shipped.length}）</h2>
+        <ul class="nr-shipped">
+          {
+            shippedShow.map((a) => (
+              <li>
+                <a href={GH + ((a.stages as any)?.ship?.artifact ?? '')}>
+                  {a.title}
+                </a>
+                {hasMakingOf(a) && (
+                  <a class="nr-makingof" href={makingOfHref(a)}>
+                    🏛️
+                  </a>
+                )}
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+
       {
-        (['P0', 'P1', 'P2', 'P3', '其他'] as const).map((p) =>
-          inboxByPrio[p].length ? (
-            <details class="nr-queue" open={p === 'P0'}>
+        dormant.length > 0 && (
+          <section class="nr-section">
+            <details class="nr-queue">
               <summary>
-                <span class={`nr-badge pri`}>{p}</span> {inboxByPrio[p].length}{' '}
-                篇
+                🗄️ 休眠（{dormant.length}）— 21 天無產物動靜，可隨時接手續跑
               </summary>
               <ul>
-                {inboxByPrio[p].map((a) => (
+                {dormant.map((a) => (
                   <li>
                     {a.title}
-                    {a.category && <span class="nr-badge">{a.category}</span>}
-                    {a.mode && <span class="nr-badge">{a.mode}</span>}
+                    {artifacts(a).map((x) => (
+                      <a
+                        class="nr-artifact"
+                        href={x.href}
+                        target="_blank"
+                        rel="noopener"
+                      >
+                        {x.lane} ↗
+                      </a>
+                    ))}
                   </li>
                 ))}
               </ul>
             </details>
-          ) : null,
+          </section>
         )
       }
-    </section>
 
-    <section class="nr-section">
-      <h2>✅ 近期出刊（{shipped.length}）</h2>
-      <ul class="nr-shipped">
-        {
-          shippedShow.map((a) => (
-            <li>
-              <a href={GH + ((a.stages as any)?.ship?.artifact ?? '')}>
-                {a.title}
-              </a>
-              {hasMakingOf(a) && (
-                <a class="nr-makingof" href={makingOfHref(a)}>
-                  🏛️
-                </a>
-              )}
-            </li>
-          ))
-        }
-      </ul>
-    </section>
-
-    {
-      dormant.length > 0 && (
-        <section class="nr-section">
-          <details class="nr-queue">
-            <summary>
-              🗄️ 休眠（{dormant.length}）— 21 天無產物動靜，可隨時接手續跑
-            </summary>
-            <ul>
-              {dormant.map((a) => (
-                <li>
-                  {a.title}
-                  {artifacts(a).map((x) => (
-                    <a
-                      class="nr-artifact"
-                      href={x.href}
-                      target="_blank"
-                      rel="noopener"
-                    >
-                      {x.lane} ↗
-                    </a>
-                  ))}
-                </li>
-              ))}
-            </ul>
-          </details>
-        </section>
-      )
-    }
-
-    <footer class="nr-foot">
-      <p class="nr-local-note" hidden>
-        🔌 本機模式：Harvest backend 已連線——展開產線列可直接建立推進任務
-        （任務進駕駛艙 pending 佇列，由你派發）。主站上同一介面維持唯讀。
-      </p>
-      <p>
-        每個燈號背後都是公開 repo
-        裡活著的檔案：研究報告、投影藍圖、編輯室審查逐字稿。
-        這個看板是「編輯室對抗」與「思考脈絡公開化」實驗的一部分（2026-07-16
-        誕生， 源自哲宇與辯論教育者陳睨的對話）。回饋歡迎開
-        <a href="https://github.com/frank890417/taiwan-md/issues">issue</a>。🧬
-      </p>
-    </footer>
-  </main>
+      <footer class="nr-foot">
+        <p class="nr-local-note" hidden>
+          🔌 本機模式：Harvest backend 已連線——展開產線列可直接建立推進任務
+          （任務進駕駛艙 pending 佇列，由你派發）。主站上同一介面維持唯讀。
+        </p>
+        <p>
+          每個燈號背後都是公開 repo
+          裡活著的檔案：研究報告、投影藍圖、編輯室審查逐字稿。
+          這個看板是「編輯室對抗」與「思考脈絡公開化」實驗的一部分（2026-07-16
+          誕生， 源自哲宇與辯論教育者陳睨的對話）。回饋歡迎開
+          <a href="https://github.com/frank890417/taiwan-md/issues">issue</a
+          >。🧬
+        </p>
+      </footer>
+    </main>
+  </div>
 </Layout>
 
 <script is:inline>
@@ -496,6 +502,11 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
 </script>
 
 <style>
+  /* 紙張底鋪滿視窗（semiont-paper 掛全寬 shell，不掛 max-width 欄
+     ——否則欄外露出 Layout 底色，同 newsroom/[slug] .mk-shell 模式） */
+  .nr-shell {
+    min-height: 100vh;
+  }
   .newsroom {
     max-width: 72rem;
     margin: 0 auto;

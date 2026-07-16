@@ -87,13 +87,24 @@ def git_date(path):
 
 
 def art_date(path, fm=None):
-    """artifact 時間：frontmatter date → git 最後 commit → mtime（最後手段）。"""
+    """artifact 時間：frontmatter date → git 最後 commit → mtime（最後手段）。
+
+    一律輸出 UTC+Z（%Y-%m-%dT%H:%M:%SZ）。git %aI 帶 +08:00 偏移，直接切
+    字串會產出無 Z 的本地時間，下游 dormant 判定 strptime 會靜默失效
+    （本機看板 vs CI build 分類漂移的病根，2026-07-16）。"""
     d = (fm or {}).get("date") or (fm or {}).get("last_updated") or ""
     if re.match(r"^\d{4}-\d{2}-\d{2}", d):
         return d[:10] + "T00:00:00Z"
     g = git_date(path)
     if g:
-        return g[:19].replace("+", "Z")[:20] if "T" in g else g
+        try:
+            return (
+                datetime.fromisoformat(g.replace("Z", "+00:00"))
+                .astimezone(timezone.utc)
+                .strftime("%Y-%m-%dT%H:%M:%SZ")
+            )
+        except ValueError:
+            pass
     return mtime_iso(path)
 
 
@@ -407,7 +418,8 @@ for slug, r in articles.items():
     stale = False
     if newest_at:
         try:
-            age = (now - datetime.strptime(newest_at, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)).days
+            # [:19] 容忍有無 Z 尾碼——歷史 JSON 兩種格式都出現過，解析失敗＝休眠判定靜默失效
+            age = (now - datetime.strptime(newest_at[:19], "%Y-%m-%dT%H:%M:%S").replace(tzinfo=timezone.utc)).days
             stale = age > 21
         except ValueError:
             pass
