@@ -18,6 +18,10 @@
 
 過程抓到一個真 bug：文章格上的 `content-visibility:auto` 讓整頁在瀏覽器完全不繪製，移除後正常；順手發現史前文章 description 殘留「（P0⚠️）」內部標記，開了獨立 task chip 不混進本次 diff。
 
+## 補刀：六語 P0 標記清除
+
+哲宇接住 chip 後直接在本 session 指示執行。盤點發現標記散在三個渲染面（description、30 秒概覽、5萬年混淆註記）× 六個語言共 14 處，`19e5cf0e3` 一次清完：zh description 改寫成讀者導向句子（事實不變），六語正文的「P0⚠️」「P0確認」換成「尚待學術共識」「經查證」等讀者語言，順手修掉 ko 的「합성→합의」錯字；`#` 註解裡的內部 rationale 不動。這個標記在讀者面前渲染了整整四個月（3/17 誕生就帶著），直到時間台灣頁把它放上文章卡才被看見——外部注意力路過才照亮鄰角的又一例（LESSONS 7/12 external-attention-spotlight 同款）。
+
 ## 收官 checklist
 
 | 檢查項                       | 狀態                         |
@@ -41,7 +45,8 @@
 
 - [ ] **`routine-status.sh` 無輸出（rc=1）**：甦醒 groundtruth 段亮警但不影響本次工作；下個 maintainer 或 data-refresh session 看一眼是儀器壞了還是路徑變了
 - [ ] **/timeline 上線後觀察**：GA4 `timeline_page` section 事件已埋，一週後看 scroll depth 與 era 點擊，決定卡片密度要不要調
-- [ ] **明鄭／荷西沙漠補文候選**（東寧王國、陳永華、施琅、熱蘭遮城）：可進 ARTICLE-INBOX，時間軸頁的沙漠註記已公開指著這個缺口
+- [x] ~~史前文章 P0 標記清除~~（retired by 本 session 補刀：哲宇接 chip 後指示原地執行，`19e5cf0e3` 六語 14 處清完）
+- [ ] **明鄭／荷西沙漠補文候選**（東寧王國、陳永華、施琅、熱蘭遮城）：已 append ARTICLE-INBOX，時間軸頁的沙漠註記公開指著這個缺口
 
 ## Beat 5 — 反芻
 
