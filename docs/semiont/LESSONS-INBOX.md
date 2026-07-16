@@ -337,6 +337,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **修復**：git diff 主 repo → patch apply 到 worktree → 主 repo checkout 還原。
 - **教訓方向**：worktree session 內的檔案操作用絕對路徑，或每個 Bash 呼叫開頭 cd；「pwd 斷言」可考慮進 worktree SOP。相鄰反射 #9（worktree 開工）與 #46（commit 前確認 working tree）都管 git 面，沒管 shell cwd 漂移這一層。vc=1。
 - **同 session 次要**：worktree 內跑 `npm run build` 會弄髒 derived tracked 檔（README stats／src/data JSON），ship 前需棄置——semiont-worktree.sh ship 撞 unstaged 即此因。
+- **同日第三例（stash 面）**：`git stash push` 回「No local changes to save」時沒有建立新 stash，後續 `git stash pop` 會吃到堆疊裡**別人的** stash（本例吃掉平行 finale session 的 pre-pull stash，內容倖為同批 babel 遺留、無損失）。共用 wd 的 stash 紀律：pop 前驗 `git stash list` 頂端是不是自己剛建的那顆（比對訊息字串），push 沒建成就不 pop。
 
 ### 2026-06-28 twmd-routine-audit-weekly — polish-hint-default-broken：morning maintainer polish-hint 路徑被 contributor 解讀為「沒檢查就發送」
 
