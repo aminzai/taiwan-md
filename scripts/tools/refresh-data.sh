@@ -227,6 +227,17 @@ else
 fi
 echo ""
 
+# ────────────────── Step 10b — newsroom 編輯台看板 ──────────────────
+# 為什麼: /semiont/newsroom 公開編輯台（2026-07-16 誕生）從階段產物 derive per-article 進度；
+# 漏跑 = 看板凍結在舊現況（Step 11 freshness gate 會抓）
+echo -e "${GRN}[10b/14]${RST} generate newsroom board..."
+if python3 scripts/core/generate-newsroom-data.py --quiet 2>&1 | tail -2; then
+  echo -e "${DIM}   ✓ dashboard-newsroom.json updated${RST}"
+else
+  echo -e "${YEL}⚠️  generate-newsroom-data 失敗 — 心跳繼續${RST}"
+fi
+echo ""
+
 # ────────────────── Step 11 — verify dashboard freshness ──────────────────
 # REFLEXES #43: 每個 public/api/dashboard-*.json 都必須有今天的 mtime，否則 generator 漏跑了
 echo -e "${GRN}[11/14]${RST} verify dashboard freshness..."

@@ -1,0 +1,361 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import '../../styles/semiont.css';
+// ─────────────────────────────────────────────────────────────────────────────
+// 共享編輯台（Newsroom）— 公開唯讀看板 · beta
+//
+// 每篇文章怎麼被想、被吵、被驗，全部攤在這裡。資料由
+// scripts/core/generate-newsroom-data.py 從階段產物（研究報告 / 投影藍圖 /
+// 編輯室審查 / audit / knowledge frontmatter）derive，檔案是唯一真相。
+// 設計：reports/newsroom-orchestration-design-2026-07-16.md §七。
+// 第一階段唯讀；哲宇本地操作 AI 推進 stage 時重跑生成器即反映現況。
+// ─────────────────────────────────────────────────────────────────────────────
+import board from '../../../public/api/dashboard-newsroom.json';
+
+const GH = 'https://github.com/frank890417/taiwan-md/blob/main/';
+
+// 看板欄位（stage → 顯示名）；shipped 獨立收尾欄
+const COLUMNS = [
+  { id: 'inbox', name: '📥 收件', desc: 'ARTICLE-INBOX 待開工' },
+  { id: 'viewpoint', name: '💭 觀點', desc: 'Stage 0 觀點成型中' },
+  { id: 'research', name: '🔍 研究', desc: 'Stage 1 取材中' },
+  { id: 'projection', name: '📐 投影', desc: '論點與骨架設計' },
+  { id: 'room_projection', name: '🏛️ 編輯室・投影', desc: '分席對抗審藍圖' },
+  { id: 'write', name: '✍️ 寫作', desc: 'fresh writer 執行藍圖' },
+  { id: 'room_prose', name: '🏛️ 編輯室・正文', desc: '論點兌現對抗' },
+  { id: 'verify', name: '🔬 驗證', desc: '事實鐵三角＋成品總驗' },
+  { id: 'blocked', name: '🚧 卡關', desc: 'gate 未過，待解' },
+  { id: 'dormant', name: '🗄️ 休眠', desc: '21 天無產物動靜（可隨時接手續跑）' },
+];
+
+type Card = (typeof board.articles)[number];
+const byColumn = new Map<string, Card[]>(COLUMNS.map((c) => [c.id, []]));
+const shipped: Card[] = [];
+for (const a of board.articles) {
+  const col = (a as any).board_column ?? 'inbox';
+  if (col === 'shipped') shipped.push(a);
+  else (byColumn.get(col) ?? byColumn.get('inbox'))!.push(a);
+}
+const shippedShow = shipped.slice(0, 15);
+
+const STAGE_LABEL: Record<string, string> = {
+  inbox: '收件',
+  viewpoint: '觀點',
+  research: '研究',
+  projection: '投影',
+  room_projection: '編輯室・投影',
+  write: '寫作',
+  room_prose: '編輯室・正文',
+  room_chief: '總編',
+  verify: '驗證',
+  ship: '出刊',
+};
+const LIGHT: Record<string, string> = {
+  done: '●',
+  pass: '●',
+  staged: '●',
+  'in-progress': '◐',
+  revise: '◐',
+  pending: '○',
+  todo: '○',
+  block: '✕',
+  blocked: '✕',
+  FAIL: '✕',
+};
+function lights(a: Card) {
+  return Object.entries(a.stages as Record<string, any>).map(([k, v]) => ({
+    key: k,
+    label: STAGE_LABEL[k] ?? k,
+    mark: LIGHT[v.status] ?? '○',
+    cls:
+      v.status === 'block' || v.status === 'blocked' || v.status === 'FAIL'
+        ? 'bad'
+        : v.status === 'done' || v.status === 'pass' || v.status === 'staged'
+          ? 'ok'
+          : 'mid',
+    artifact: v.artifact as string | undefined,
+  }));
+}
+const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
+  timeZone: 'Asia/Taipei',
+  hour12: false,
+});
+---
+
+<Layout
+  title="共享編輯台 — Taiwan.md Newsroom（beta）"
+  description="Taiwan.md 的公開編輯台：每篇文章在生產線的哪一站、產出了什麼、還缺什麼，全部攤在這裡。"
+  lang="zh-TW"
+>
+  <main class="newsroom">
+    <header class="nr-head">
+      <p class="nr-eyebrow">
+        SEMIONT NEWSROOM <span class="nr-beta">beta</span>
+      </p>
+      <h1>共享編輯台</h1>
+      <p class="nr-lede">
+        這是 Taiwan.md 的編輯台，對所有人打開。每篇文章怎麼被想（觀點與投影）、
+        被吵（編輯室分席對抗）、被驗（事實查核與成品總驗），生產狀態即時攤在這裡。
+        看板由生產線的檔案現況直接推導，沒有第二本帳。第一階段唯讀。
+      </p>
+      <p class="nr-meta">
+        資料時間 {generatedAt}（台北）· {board.articles.length} 篇在追蹤 · 產線規格
+        <a href={GH + 'docs/pipelines/REWRITE-PIPELINE.md'}
+          >REWRITE-PIPELINE v9</a
+        > ·
+        <a href="/about/文章如何誕生/">文章如何誕生 →</a>
+      </p>
+    </header>
+
+    <div class="nr-board" role="list">
+      {
+        COLUMNS.map((col) => {
+          const cards = byColumn.get(col.id) ?? [];
+          if (!cards.length && col.id === 'blocked') return null;
+          return (
+            <section class="nr-col" role="listitem">
+              <h2>
+                {col.name} <span class="nr-count">{cards.length}</span>
+              </h2>
+              <p class="nr-col-desc">{col.desc}</p>
+              {cards.map((a) => (
+                <article class="nr-card">
+                  <h3>
+                    {a.stages?.ship?.artifact ? (
+                      <a href={GH + a.stages.ship.artifact}>{a.title}</a>
+                    ) : (
+                      a.title
+                    )}
+                  </h3>
+                  <p class="nr-badges">
+                    {a.category && <span class="nr-badge">{a.category}</span>}
+                    {a.priority && (
+                      <span class="nr-badge pri">{a.priority}</span>
+                    )}
+                    {a.mode && <span class="nr-badge">{a.mode}</span>}
+                    {a.spine_type && (
+                      <span class="nr-badge spine">{a.spine_type}</span>
+                    )}
+                  </p>
+                  <p class="nr-lights">
+                    {lights(a).map((l) =>
+                      l.artifact ? (
+                        <a
+                          class={`nr-light ${l.cls}`}
+                          href={GH + l.artifact}
+                          title={l.label}
+                        >
+                          {l.mark} {l.label}
+                        </a>
+                      ) : (
+                        <span class={`nr-light ${l.cls}`}>
+                          {l.mark} {l.label}
+                        </span>
+                      ),
+                    )}
+                  </p>
+                  {a.next_step && <p class="nr-next">下一步：{a.next_step}</p>}
+                </article>
+              ))}
+              {!cards.length && <p class="nr-empty">（目前無）</p>}
+            </section>
+          );
+        })
+      }
+
+      <section class="nr-col nr-shipped" role="listitem">
+        <h2>
+          ✅ 已出刊 <span class="nr-count">{shipped.length}</span>
+        </h2>
+        <p class="nr-col-desc">
+          近期走完產線的文章（顯示最新 {shippedShow.length} 篇）
+        </p>
+        {
+          shippedShow.map((a) => (
+            <article class="nr-card slim">
+              <h3>
+                <a href={GH + (a.stages?.ship?.artifact ?? '')}>{a.title}</a>
+              </h3>
+              <p class="nr-lights">
+                {lights(a).map((l) => (
+                  <span class={`nr-light ${l.cls}`} title={l.label}>
+                    {l.mark}
+                  </span>
+                ))}
+              </p>
+            </article>
+          ))
+        }
+      </section>
+    </div>
+
+    <footer class="nr-foot">
+      <p>
+        燈號：● 完成 ／ ◐ 進行中或 revise ／ ○ 待做 ／ ✕
+        卡關。點燈號可看該階段的原始產物
+        （研究報告、投影藍圖、編輯室審查逐字稿——全部本來就活在公開 repo）。
+      </p>
+      <p>
+        這個看板是「編輯室對抗」與「思考脈絡公開化」實驗的一部分（2026-07-16
+        誕生， 源自哲宇與辯論教育者陳睨的對話）。回饋歡迎開
+        <a href="https://github.com/frank890417/taiwan-md/issues">issue</a>。🧬
+      </p>
+    </footer>
+  </main>
+</Layout>
+
+<style>
+  .newsroom {
+    max-width: 100%;
+    padding: 2rem 1.5rem 4rem;
+    background: var(--semiont-bg, #101418);
+    color: var(--semiont-fg, #dce3e8);
+    min-height: 100vh;
+  }
+  .nr-head {
+    max-width: 60rem;
+    margin: 0 auto 2rem;
+  }
+  .nr-eyebrow {
+    letter-spacing: 0.2em;
+    font-size: 0.75rem;
+    opacity: 0.7;
+  }
+  .nr-beta {
+    border: 1px solid #4fd1b0;
+    color: #4fd1b0;
+    border-radius: 999px;
+    padding: 0 0.5em;
+    margin-left: 0.5em;
+    font-size: 0.7rem;
+  }
+  .nr-head h1 {
+    font-size: 2rem;
+    margin: 0.25rem 0 0.75rem;
+  }
+  .nr-lede {
+    line-height: 1.9;
+    opacity: 0.9;
+  }
+  .nr-meta {
+    font-size: 0.8rem;
+    opacity: 0.65;
+    margin-top: 0.5rem;
+  }
+  .nr-meta a {
+    color: #4fd1b0;
+  }
+  .nr-board {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    padding-bottom: 1rem;
+    align-items: flex-start;
+  }
+  .nr-col {
+    flex: 0 0 17rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 0.9rem;
+  }
+  .nr-col h2 {
+    font-size: 0.95rem;
+    margin: 0 0 0.15rem;
+  }
+  .nr-count {
+    opacity: 0.55;
+    font-weight: 400;
+    font-size: 0.8rem;
+  }
+  .nr-col-desc {
+    font-size: 0.72rem;
+    opacity: 0.55;
+    margin: 0 0 0.75rem;
+  }
+  .nr-card {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.07);
+    border-radius: 10px;
+    padding: 0.7rem 0.8rem;
+    margin-bottom: 0.7rem;
+  }
+  .nr-card h3 {
+    font-size: 0.9rem;
+    margin: 0 0 0.4rem;
+    line-height: 1.5;
+  }
+  .nr-card h3 a {
+    color: inherit;
+  }
+  .nr-badges {
+    margin: 0 0 0.4rem;
+  }
+  .nr-badge {
+    display: inline-block;
+    font-size: 0.65rem;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 999px;
+    padding: 0 0.5em;
+    margin: 0 0.25em 0.25em 0;
+    opacity: 0.8;
+  }
+  .nr-badge.pri {
+    border-color: #e8a94f;
+    color: #e8a94f;
+  }
+  .nr-badge.spine {
+    border-color: #7fb8e8;
+    color: #7fb8e8;
+  }
+  .nr-lights {
+    margin: 0;
+    line-height: 1.9;
+  }
+  .nr-light {
+    display: inline-block;
+    font-size: 0.68rem;
+    margin-right: 0.55em;
+    text-decoration: none;
+    opacity: 0.85;
+  }
+  .nr-light.ok {
+    color: #4fd1b0;
+  }
+  .nr-light.mid {
+    color: #e8a94f;
+  }
+  .nr-light.bad {
+    color: #e87a7a;
+  }
+  .nr-next {
+    font-size: 0.7rem;
+    opacity: 0.65;
+    margin: 0.45rem 0 0;
+    line-height: 1.6;
+  }
+  .nr-empty {
+    font-size: 0.75rem;
+    opacity: 0.4;
+  }
+  .nr-shipped {
+    flex-basis: 15rem;
+  }
+  .nr-card.slim {
+    padding: 0.5rem 0.7rem;
+  }
+  .nr-card.slim h3 {
+    font-size: 0.8rem;
+    margin-bottom: 0.2rem;
+  }
+  .nr-foot {
+    max-width: 60rem;
+    margin: 2rem auto 0;
+    font-size: 0.78rem;
+    opacity: 0.7;
+    line-height: 1.9;
+  }
+  .nr-foot a {
+    color: #4fd1b0;
+  }
+</style>
