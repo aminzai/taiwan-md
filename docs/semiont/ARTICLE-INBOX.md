@@ -77,11 +77,12 @@ distill_targets:
 - **Category**: History
 - **Path**: knowledge/History/大罷免.md
 - **Priority**: `P0`
-- **Status**: `in-progress`
+- **Status**: `done`
 - **Requested**: 2026-07-16 by 哲宇 /goal（session newsroom-dogfood）
-- **Notes**: 政治敏感題——多視角中立紀實、0.6.7 三道 self-check HARD、FACTCHECK Full、3.7 總編加開立體地愛探針。續跑指南在 memory/2026-07-16-163500-newsroom-dogfood.md §Handoff
+- **Notes**: 政治敏感題——多視角中立紀實、0.6.7 三道 self-check HARD、FACTCHECK Full、3.7 總編加開立體地愛探針
 - **Dev log**:
   - 2026-07-16 by newsroom-dogfood: Stage 0 觀點 agent 派發（Opus），研究 fan-out 四路已備
+  - 2026-07-16 by recall-workflow: 全程 Workflow adapter 實測 ship——1A 四路 176 搜尋（溯源 97-100%）→ persona 20 路＋反向閥門 4 條 → 2B 三席七必改 → fresh writer 6,300 字 → 2D/3 checker 74 claims 26 批修（4 fabricated 含 Polk 歸屬）→ 2E 雙 pass → 3.7 五探針 16 批修 → ship。53 footnote、7 tw-\* 模組、3 CC 圖、1 官方 iframe
 
 ### {主題名}
 
