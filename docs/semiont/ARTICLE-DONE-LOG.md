@@ -34,7 +34,7 @@ read_strategy: 'on-demand'
 每次 REWRITE-PIPELINE Stage 6 commit 後：
 
 1. 在 §Log 最頂 append 新條目（reverse chronological）
-2. ARTICLE-INBOX 對應條目改成一行 pointer 註解：`<!-- {主題} 已完成 YYYY-MM-DD {session} → ARTICLE-DONE-LOG.md -->`
+2. ARTICLE-INBOX 對應條目**整段直接刪除，不留 pointer 註解**（per INBOX 頂部完成歸檔鐵律，2026-04-29 α 拍板；本行原寫「改一行 pointer 註解」是 α 重構前的舊規，2026-07-16 對齊修正）
 3. 如果 pending 條目 status 被改為 done 但沒搬走（幽靈條目），一併搬到這裡
 
 ---
@@ -87,6 +87,15 @@ read_strategy: 'on-demand'
 - **品質**：4,500+ CJK / 23 footnote / 6 images / Stage 3.5 PASS / Stage 3.6 PASS / rewrite-stage-4 hard=0。
 - **Research**: [reports/research/2026-06/蔡英文-evolve-20260614.md](../../reports/research/2026-06/蔡英文-evolve-20260614.md)（1,660 行 depth SSOT，research-report-health PASS）。
 
+### 杜潘芳格 NEW — 2026-07-12 26da521c 完成（三種語言，一場平安戲 / 詩人 batch P0 four-axis / 補登 2026-07-16 inbox-audit）
+
+- **Article**: [knowledge/People/杜潘芳格.md](../../knowledge/People/杜潘芳格.md)
+- **Pipeline**: REWRITE-PIPELINE — NEW 模式（commit `6f05295a9`）
+- **核心軸線**：跨語一代客家女詩人 × 二二八張七郎家族受難者家屬 × 客語書寫 ×〈平安戲〉社會譴責（four-axis intersection，per 詩人 batch research）
+- **品質**：~23.6K chars / 15 footnotes / Stage 3.5 + 3.6 audit 落檔
+- **Research**: [reports/research/2026-07/杜潘芳格.md](../../reports/research/2026-07/杜潘芳格.md)（+ stage35 / stage36 audit 檔）
+- **補登註記**：ship 當下漏記 DONE-LOG，2026-07-16 inbox-audit session 補登 + 從 INBOX 移除（源 entry：2026-05-23 詩人 batch P0）
+
 ### 楊德昌 EVOLVE — 2026-07-05 115223-楊德昌-evolve 完成（哲宇 explicit /twmd-rewrite 楊德昌 — People 電影與戲劇 / 多 agent 全編排 / 成品總驗 worked example）
 
 - **Article**: [knowledge/People/楊德昌.md](../../knowledge/People/楊德昌.md) — 2026-03-19 舊編年體（~2000 CJK / 6 首頁級腳註 / 0 引語 0 媒體 / 父母姓名幻覺 / 《麻將》缺席）全文重寫 → **6,688 prose CJK（含註 ~12,000 字）/ 92 footnote / 本人直引 6+ / 3 張北美館工作照（fair use press kit credit chain）+ 2 支官方 iframe + tw-timeline 七部半年表**
@@ -110,6 +119,25 @@ read_strategy: 'on-demand'
 - **Research**: [reports/research/2026-06/陳嫺靜.md](../../reports/research/2026-06/陳嫺靜.md)（+ 4 份 raw research file）
 - **Cross-link**：台灣嘻哈與饒舌發展 雙向已補
 - **待補**：hero 靜態圖（無自由授權照片，已進 ARTICLE-INBOX EVOLVE）
+
+### 台灣聲景 NEW — 2026-06-26 181414-manual 完成（垃圾車的古典樂、捷運的鳥鳴 / Issue #574 nistoreyo 素材共創首例 / 補登 2026-07-16 inbox-audit）
+
+- **Article**: [knowledge/Culture/台灣聲景.md](../../knowledge/Culture/台灣聲景.md)
+- **Pipeline**: REWRITE-PIPELINE — NEW 模式，領域專家素材共創 onboarding mode 首例（commit `d80c9347e`）
+- **核心矛盾**：同一年，北捷一邊找雷光夏、李欣芸把進站音樂變成藝術，一邊把關門警示音留在噪音區——一座只聽見卻很少聆聽的島
+- **品質**：~28K chars / 24 footnotes
+- **Research**: [reports/research/2026-06/台灣聲景.md](../../reports/research/2026-06/台灣聲景.md)
+- **共創驗證**：投稿者 nistoreyo（政大聲景研究碩士）走完素材共創流程後回饋「最有共同創作感的一次 AI 協作」— 完整歸檔 [reports/domain-expert-cocreation-574-2026-06-30.md](../../reports/domain-expert-cocreation-574-2026-06-30.md)
+- **補登註記**：ship 當下漏記 DONE-LOG，2026-07-16 inbox-audit session 補登 + 從 INBOX 移除（源 entry 原 status blocked 等素材，2026-06 素材到位後 ship）
+
+### 笠詩社 60 年 NEW — 2026-06-20 twmd-rewrite-daily routine 完成（一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊 / 詩人 batch P0 movement-level / 補登 2026-07-16 inbox-audit）
+
+- **Article**: [knowledge/Art/笠詩社.md](../../knowledge/Art/笠詩社.md)
+- **Pipeline**: REWRITE-PIPELINE — NEW 模式（commit `9b7fd2c8c`）
+- **Hook**：1958 年一個 36 歲的台籍日本兵用筆名「桓夫」發表戰後第一首中文詩——跨越語言的一代 × 1964 創社至今最長壽詩刊
+- **品質**：~42K chars / 62 footnotes
+- **Research**: [reports/research/2026-06/笠詩社.md](../../reports/research/2026-06/笠詩社.md)
+- **補登註記**：ship 當下漏記 DONE-LOG（INBOX entry 曾標 prose ship 2026-06-20 但未歸檔），2026-07-16 inbox-audit session 補登 + 從 INBOX 移除（源 entry：2026-05-23 詩人 batch P0）
 
 ### 台灣體育發展與奧運 NEW — 2026-06-19 twmd-rewrite-daily routine 完成（一個叫「中華台北」的隊伍 / Fresh / Issue #915）
 

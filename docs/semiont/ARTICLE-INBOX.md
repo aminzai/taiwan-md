@@ -4,9 +4,9 @@ description: '待開發 / 進化文章 buffer — pending / in-progress 主題�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v2.2'
-last_updated: 2026-07-15
-last_session: '2026-07-15-191335-manual'
+current_version: 'v2.3'
+last_updated: 2026-07-16
+last_session: '2026-07-16-205022-inbox-audit（distill 第二輪：移除 7 已完成 / KTV 轉 EVOLVE / 降 15 升 2 / opendata 誤置修正 / 分區重排 進行中→P0→收尾補完→P1→待拍板→P2→P3）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -173,69 +173,41 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
-<!-- 阿神 EVOLVE 已完成 2026-07-15 2026-07-15-twmd-rewrite-deep → ARTICLE-DONE-LOG.md -->
-
-### 陳嫺靜 EVOLVE — 補 hero 靜態圖（OG 社群卡 / 孢子海報用）
-
-- **Type**: `EVOLVE`
-- **Category**: Music
-- **Priority**: P3（內文已 ship，純媒體補完）
-- **Status**: `pending`
-- **Requested**: 2026-06-28 080237-manual（哲宇 directive：先 ship 內文，hero 進 INBOX 補）
-- **Notes**:
-  - 文章 2026-06-28 ship，內文 5 支官方影片 + tw-timeline 已過媒體數量 gate；缺的是一張靜態圖給 OG 社群卡 / 孢子海報（影片 thumbnail 不可靠）
-  - 她沒有任何自由授權照片（Wikimedia / Openverse / Flickr 當天全查過為空）
-  - 選項：(a) 顏社 press kit／經紀團隊要授權照　(b) 生一張 on-brand 資料／字體 hero　(c) 金曲／金音典禮若有 CC 授權新聞照
-  - frontmatter 補 image + imageCredit + imageLicense + imageSource 後，刪掉本 entry
-
 <!-- ═══ 2026-06-19 inbox distill（哲宇 directive：深度研究 + 查看現況 + 整理）═══ -->
-<!-- 移除 16 幽靈/重複條目：報導者 / 22縣市全系列 / PanSci P0×5 / 大象體操 / 國宅 / 福爾摩沙鳥類學 / 19世紀樟腦戰爭 / Howhow / 尊 / 便利商店 / 糕餅 / 魚條 / 莫那能 / 三峽老街(dup) / 體育綜覽(dup) / SPORE圖片(dup) — 全部 knowledge/ 已存在或已 ship（前 4 漏記 DONE-LOG 已補登）-->
-<!-- NML/東南亞群島藝術 batch（14 條，2026-05-04 angry-shamir）全降 P3 深 backlog（哲宇 2026-06-19 nod）-->
-<!-- 95 → 79 ### headers / line conservation OK。詳見 session memory 2026-06-19-123909-inbox-distill -->
+<!-- 移除 16 幽靈/重複條目（詳見 session memory 2026-06-19-123909-inbox-distill）；NML batch 14 條全降 P3（哲宇 nod）-->
 
-<!-- ═══ 2026-06-26 issue triage（#1016 夜生活/KTV 拆分建議 → 改以 KTV 深度文回應）═══ -->
+<!-- ═══ 2026-07-16 inbox distill 第二輪（哲宇 directive：深度整理 + 已完成標記 + 重排）═══ -->
+<!-- 移除 7 條：TASA（已 ship 6/4 深文）/ 葉廷皓（Wave 3 已 ship）/ 杜潘芳格（7/12 ship 補登 DONE-LOG）/ 笠詩社（6/20 ship 補登）/ 台灣聲景（6/26 ship #574 共創 補登）/ 台灣綜藝節目（Culture/台灣綜藝.md 已存在，死鏈已修）/ 新媒體藝術南方視角（併入台灣新媒體藝術 EVOLVE）-->
+<!-- 轉型：台灣KTV文化 NEW→EVOLVE（Music 檔 3/19 早批已存在）。降級 15 / 升級 2（公投制度 P0 時效、Conference P1 COSCUP）。opendata 5 條自 §Dropped 誤置區移回 P3。done pointer 註解按 2026-04-29 α 鐵律清除 -->
+<!-- 分區：進行中 → P0 → 收尾補完 → P1 → 待哲宇拍板 → P2 → P3。詳見 session memory 2026-07-16-205022-inbox-audit -->
 
-### 🎤 台灣KTV文化 NEW — 從中崙到忠孝的火災安全史 × 錢櫃好樂迪雙雄 × 包廂全民社交
+<!-- ═══ 🔄 進行中（跨 session 接力）═══ -->
+
+### 🎼 早期批次「歸屬密集」文章 系統性重查 batch — AI 幻覺高風險區 audit
+
+- **觸發**：2026-06-01 `台灣影視配樂`被配樂專業讀者 peilinwu0702 公開 callout 錯誤率>30%，全篇作曲家↔作品誤植（已重寫 ship `b0c92a2d2`）。揭露「A↔B 密集對應」主題是 AI 最易張冠李戴的結構，早期批次（3/19 編修校對不嚴謹）風險最高。
+- **Priority**: P1
+- **Status**: in-progress（batch 進行中）
+- **Type**: audit / EVOLVE batch
+- **範圍**：3/19 早期批次 + 歸屬密集主題（音樂的「作曲家↔作品」、運動的「球員↔球隊／賽事」、文學的「作者↔著作」、樂團的「成員↔樂團」）優先重查；每篇對每個歸屬「查 attribution 不只查 fact」(RESEARCH.md §張冠李戴 self-apply)。
+- **進度**：✅ 李宗盛（2026-06-05 loop /twmd-rewrite，1185→4588 CJK）— batch 首篇。falsification 抓大量 attribution 誤植：滾滾紅塵=羅大佑 / 愛上一個不回家的人=飛碟陳志遠 / 味道(歌)=姚謙黃國倫 / 分手快樂=姚若龍 / 花心=喜納昌吉 / 我很醜=夏宇黃韻玲 / 讓我歡喜讓我憂=CHAGE&ASKA(李只填詞) / Music Factory=羅大佑廠牌；另修滾石 1984/出生北投/有歌之年 2019。新增「那些其實不是他寫的歌」段把 audit 變讀者價值。SSOT: reports/research/2026-06/李宗盛.md。✅ 台灣嘻哈與饒舌發展（2026-06-09 /twmd-rewrite，~5k→8577 CJK / 137 搜尋 SSOT `5de488e73`）— batch 第二篇，重災區同樣成立：修 12 處 attribution 幻覺（MACHI 假成員小龜/Benz/Kid 全杜撰、國蛋《幹大事》實為頑童、春艷《豔遇》獎不存在、《大嘻哈時代2》2023 非 2022、派克特陸籍非台灣、Leo王《小丑》查無、金曲無嘻哈獎）。worked example 確認 **「樂團成員↔樂團 / 歌手↔獎項屆次」是 3/19 批最高風險維度**，下批同類優先。SSOT: reports/research/2026-06/台灣嘻哈與饒舌發展.md。✅ 蘇打綠（2026-06-09 routine /twmd-rewrite-daily，2.4k→12.8k CJK / 86 search aggregate SSOT `73443b2a4`）— batch 第三篇，「樂團成員↔樂團」+「歌手↔獎項屆次」維度完整 dogfood。Stage 1 4-agent fan-out 抓 9 處 INBOX hypothesis 幻覺 falsified（1999 成軍 → 2001-04 / 政大社團 → 報名金旋獎組起來 / 6 人 line-up → 創團 4 人 / Royal Albert Hall「亞洲首組」→ 完全 fabricated 從未演出 / 四季三部曲 → 四部曲 / 冬未了 2014 → 2015 / 太空人 2018 → 2019 / 馬來西亞首場 → 新加坡 / 北京工人體育場 → 工人體育館），另修兩處 verbatim 不精確（「我一直把他當父親」→「我曾經視為父親的人」/「我沒有一絲愧歉」→ 4000 字聲明開頭「我於理、於情都毫無虧欠」）。SSOT: reports/research/2026-06/蘇打綠.md。✅ 羅大佑（2026-06-19 /loop iteration #2，1789→~5100 CJK / 81 搜尋 SSOT `reports/research/2026-06/羅大佑.md`）— batch 第四篇「歌手↔作品歸屬」維度：釐清 鄉愁四韻=余光中詞、滄海一聲笑=黃霑(羅只唱)、皇后大道東/似是故人來 詞=林夕、明天會更好 曲羅+7人詞、滾滾紅塵 三毛=編劇、童年/光陰的故事 1981 張艾嘉首發(非1982)、你的樣子 1988(非1984)。下批候選（3/19 Music/People 歸屬密集）：伍佰 / 張惠妹 / 林俊傑 / 蕭青陽 / 五月天（樂團成員↔樂團 高風險）等。
+- **下一步**：先 `grep -l "date: 2026-03-19" knowledge/**/*.md` 列早期批次 → 挑歸屬密集者（Music / Sports / People）排重查順序 → 走 REWRITE-PIPELINE Evolution。
+
+<!-- ═══ 🔴 P0 — 時效與哲宇點名 ═══ -->
+
+### 🗳️ 台灣公投制度 NEW（[A] auto-eligible）
 
 - **Type**: `NEW`
-- **Priority**: `P2`
+- **Category**: Politics
+- **Priority**: `P0`（2026-07-16 inbox-audit 升級：entry 自述「8 月『公投是否綁上 11/28』定案前 ship 價值最高」— 死線只剩兩週，時效觸發 P0）
 - **Status**: `pending`
-- **觸發**: idlccp1984 issue #1016 建議把〈夜生活與KTV文化〉拆成 夜生活 + KTV。策展判斷：當下拆會變兩篇單薄文，但 KTV 本身材料夠厚、值得獨立深度文（非薄拆）。
-- **材料缺口**: 包廂計費/點歌系統文化、錢櫃(Cashbox)/好樂迪(Holiday)企業史與 2017 結合案、火災安全演變史（1995 中崙 → 2020 忠孝 5 死 → 法規升級）、麥霸/反差社交、海外台式 KTV、疫情衝擊市場集中化。寫成後〈夜生活〉的 KTV 段縮為 pointer。
-- **依賴**: 與〈夜生活與KTV文化〉現有 2 段 KTV 內容交叉（避免重複，寫時 trim 母文）。
-
-<!-- ═══ 2026-06-16 external-pickup session — 國外有機撿走觸發 ═══ -->
-
-### 台灣少子化危機 EVOLVE — 被 Michael Turton 撿走的英文版，回頭補強門面
-
-- **Type**: `EVOLVE`
-- **Category**: Society
-- **Path** (EVOLVE only): knowledge/Society/台灣少子化危機.md
-- **Priority**: `P1`（有外部流量的對外門面，優先序高於一般 P2）
-- **Status**: `prose-shipped-pending-media+rebabel`（zh ship `80abaab10` 2026-06-17）
-- **Requested**: 2026-06-16 by 哲宇（國外有機撿走發現）— session 213045-external-pickup
-- **Notes**:
-  - **觸發**：Michael Turton（Taipei Times 專欄作家）6/11 轉英文版〈The Island's Last Song〉稱「nifty overview」（490 views / 8 讚 / 3 收藏）。
-  - **2026-06-17 prose EVOLVE 全弧 ship（`80abaab10`）**：去虛構（移除「採訪 50 位」+ 4 合成人名 + 無法查證的東山國小開場 + 溫在弘 misquote）→ 改用 4 源查證的新威國小 + 真實學者逐字引語；資料全面更新 2025（TFR 0.695 / 2024 龍年 −715 破 48 年慣例 / 不婚 not 不生 / 無已開發國家救回 TFR / 移工 83 萬）。4-agent 研究 fan-out（~100 搜尋 + 內政部一手 PDF）+ Stage 2.5/3.6 adversarial verifier 抓 5 真錯已修。9,996 CJK / 73 腳註 / 7 tw-\* viz / 反方 6 聲音。research SSOT `reports/research/2026-06/台灣少子化危機.md`。**修正原假設「不必大改」** — fabricated 素材 + 2024-25 數據反轉，實為近全文重寫。
-  - **剩餘（pending）**：(1) **🔴 re-babel 5 語最優先** — zh 大改後 en/ja/ko/es 全 stale（**en 是 Turton 連結的版本，仍含舊虛構內容**），fr 缺；babel-nightly 00:30 會偵測 body-hash drift 重譯，但 en 是對外門面，建議哲宇決定要不要 expedite `/twmd-babel`。(2) image-health hard（0 圖；舊文本就無圖、非 commit/ci gate）— 補 hero + scene 圖走 REWRITE Step 4.3。(3) 人工審閱（`lastHumanReview` 仍 false）。
-- **Reference**: https://x.com/michaelturton/status/2064932663555985724 + memory/2026-06-16-213045-external-pickup.md
-
-### 台灣網路社群遷徙史 EVOLVE — BBS 到 Threads 的數位棲地遷徙
-
-- **Type**: `EVOLVE`
-- **Category**: Technology
-- **Path** (EVOLVE only): knowledge/Technology/台灣網路社群遷徙史.md
-- **Priority**: `P0` → **prose ship 2026-06-15 (twmd-rewrite-daily)** / **媒體補完待 P1**
-- **Status**: `prose-shipped-pending-media`
-- **Requested**: 2026-06-14 by 哲宇 directive（最優先 rewrite batch）
-- **Notes**:
-  - **2026-06-15 prose ship 完成**：6548 char / 47 footnote / 8 場景式 H2 / Stage 0-1 SSOT (1795 行 / 112 URL / research-report-health PASS) + Stage 2 fresh writer agent + 文體紀律（對位 1 / 破折號 57 / 0 編年體）+ Stage 3-5 全綠（除 image-health pre-existing）
-  - **核心矛盾**：「失土史」框架 — 台灣兩度長出自己的平台都被外資擠掉或關掉，唯一活下來的明日報個人新聞台是被使用者自己搶救的
-  - **媒體 gap 待補（pre-existing，與 報導者 EVOLVE 同模式）**：原版 0 image, EVOLVE 維持 text-only ship；image-health hard=1 (length-scaled ≥5 for 6548 字)；候選素材清單已在 SSOT §6.7（志祺七七《時代的眼淚》MSN/無名 EP / LINE 桂綸鎂 2012 廣告 / Wikimedia Commons PTT 進站畫面 / @wretch_1999 截圖 / Varoufakis 演講）
-  - **SPORE defer**：image hard → 自動 spore-publish 失格（per pipeline v6.8）；待媒體補完後重跑 SPORE chain
-  - 事實鐵三角已查證完整 SSOT §3-§8（PTT 1995/9/14、明日報三日期、無名 2013/12/26 同日關、MSN 1 億→Skype 非 3 億→LINE、Plurk 2008/5/12、Threads 2023/7/5、@wretch_1999 2025/3 粉絲自製）
-  - sibling cross-link：無名小站（已雙向）/ PTT批踢踢 / Facebook / Threads在台灣 / IG — 5 條 forward 已寫，reverse 待 sibling 編輯時補
-- **Reference**: 哲宇 directive 2026-06-14 + research/2026-06/台灣網路社群遷徙史-evolve-20260614.md
+- **Requested**: 2026-07-10 by elections-refresh session（[reports/elections-2026-refresh-plan-2026-07-10.md](../../reports/elections-2026-refresh-plan-2026-07-10.md) §三之 3；Politics Hub §罷免公投段既有佔位「台灣公投制度專文籌備中」）
+- **自主權邊界**: `[A]` 可自主（純制度史，不碰個別公投案立場）
+- **Hook anchor 候選**: 2018 年 11 月 24 日十案綁大選、投票所排隊到深夜的那一晚 → 2019 分流修法 → 2025 年 11 月綁回的鐘擺。憲法 1947 年就寫了創制複決，等了 56 年才有第一次全國性公投
+- **必含制度節點**（fact-pack 已驗證來源，見 [reports/research/2026-07/elections-2026-july-refresh.md](../../reports/research/2026-07/elections-2026-july-refresh.md)）：2003 公投法立法 / 2017 門檻下修 / 2018 十案 / 2019 分流 / 2021 四大公投 / 2022 18 歲公民權複決 / 2025-08-23 核三重啟公投（同意 434 萬未達門檻，投票率 29.53%）/ 2025-11-21 公投綁大選回歸（12-03 公布）/ 2026 五六案搶綁 11/28 的 8 月死線 + 中選會曾認定院會通過的反廢死案礙難辦理的前例
+- **cross-link 期望**（雙向）：\_Politics Hub（補佔位）/ 大罷免 / 投票權門檻歷史 / 2026 九合一選舉 / 台灣選舉與政黨政治
+- **Notes**: ≥ 4,500 CJK / 15+ footnotes / 走 REWRITE-PIPELINE Fresh；🗳️ 系列共通鐵律 5 條適用；8 月「公投是否綁上 11/28」定案前 ship 價值最高
+- **Reference**: 全國法規資料庫《公民投票法》沿革 / 中選會公投專區 / 中央社・公視歷次報導
 
 ### 造山者 EVOLVE — 《造山者：世紀的賭注》半導體紀錄片
 
@@ -265,22 +237,89 @@ BECOME_TAIWANMD.md Step 5 新增：
   - EVOLVE 方向：補足生平時序 + 認知作戰研究的具體著作/行動
 - **Reference**: 哲宇 directive 2026-06-14
 
-<!-- ═══ /哲宇 2026-06-14 P0 batch ═══ -->
+### 台灣媒體總史 NEW — 從清領報紙到自媒體時代
 
-### 視覺模組 v2.0 進真實文 EVOLVE batch — tiles/pyramid/stack 各找原生宿主
+- **Type**: `NEW`（注意：既有 `Society/台灣媒體與新聞自由.md` 是新聞自由 framing，本 entry 是「媒體史」總覽 framing，兩篇互補不重複）
+- **Category**: Society（subcategory: 媒體史）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: 哲宇 directive 2026-05-17 230616-manual（P0 優先）
+- **Hook 候選**：從清領《台灣府城教會報》到 2026 podcast — 台灣媒體史 150 年的 5 個轉折
+- **Notes**:
+  - 既有 baseline audit（Stage 0 必跑）：`Society/台灣媒體與新聞自由.md`（新聞自由 framing 已存在）/ Music 條目有廣播電台脈絡 cross-link 機會 / Technology 條目有網路發展史
+  - **本篇 framing 差異**：不是「新聞自由」（已有），是**「媒體形式演化史」** — 報紙 / 廣播 / 電視 / 網路 / 自媒體 5 大階段
+  - 主題 anchors：(a) 清領 1885 教會報（《台灣府城教會報》最早報紙）→ (b) 日治時期 1898 台灣日日新報 + 台灣文化協會《台灣青年》《台灣民報》→ (c) 戰後三報禁 1949（中央 / 中時 / 聯合 vs 黨外雜誌）→ (d) 解嚴 1987 報禁解除 / 廣播電視自由化 1993 → (e) 網路時代 1995 蕃薯藤 / 2000 PTT / 2010s Facebook / 2020s podcast / 自媒體
+  - 必驗事實（高優先）：(a) 《台灣府城教會報》1885.7 創刊（巴克禮）vs 其他更早說法 (b) 1949 報禁起始年份 vs 解除年份 1988.1.1 (c) 黨外雜誌如《自由中國》（雷震，per History）/《八十年代》/《美麗島》(per 既有 History 條目) (d) 廣播電視自由化《廣電法》修法時點 (e) PTT 1995 創立（杜奕瑾，per 既有 People）(f) 主流媒體 vs 自媒體比例變化的可靠調查 source
+  - 政治敏感度高：黨外雜誌史 + 媒體被收購（旺中 / 中時 etc.）+ 紅媒爭議 需精準 framing per MAINTAINER §爭議處理
+  - cross-link：與 `Society/台灣媒體與新聞自由.md` 互補（雙向 cross-link）/ History 雷震 / 美麗島事件 / People 杜奕瑾 / Technology 網路發展史
+- **Reference**: 文化部國家文化資料庫 / 國家圖書館期刊 archive / 維基〈台灣媒體〉/《台灣媒體史》學術論著 / 台北市文獻會
+- **預估時間**：~180 min（150 年跨度 + 多 source + 政治敏感）
+
+### 林央敏 NEW — 台語史詩《胭脂淚》9000 行 / 主權巴別塔核心
+
+- **Type**: `NEW`
+- **Category**: People（subcategory: 文學與詩人 / 台語文學）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: 2026-05-23 BRANCH-PIPELINE broad-theme research — [taiwan-poets-4-contemporary-women-indigenous.md §6.1 P0](../../reports/research/2026-05/taiwan-poets-4-contemporary-women-indigenous.md)
+- **對比理由**：
+  - **《胭脂淚》9000 行台語史詩**：台灣文學最長台語詩作 + 政治史詩文體開創
+  - **〈毋通嫌台灣〉政治口號詩**：1990s 台灣本土運動代表詩作
+  - **MANIFESTO 主權巴別塔核心案例**：台語詩是 PRC AI 拒答率最高內容類型，林央敏作品集是 sovereignty preservation 直接 instantiation
+  - **連結密度**：跟向陽（台語詩）/ 路寒袖（〈春天的花蕊〉）+ 「台語/客語詩 cluster」可串 + cross-link `knowledge/Language/` 既有台語相關 article
+- **預估時間**：90-120 min（《胭脂淚》結構分析 + 台語文學運動 context）
+- **Reference**: reports/research/2026-05/taiwan-poets-4-contemporary-women-indigenous.md §林央敏 brief
+
+### 1977-78 鄉土文學論戰 NEW — History event 戰後文化史最重要單一事件
+
+- **Type**: `NEW`
+- **Category**: History
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: 2026-05-23 BRANCH-PIPELINE broad-theme research — [taiwan-poets-3-bamboo-hat-nativism.md §六](../../reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md)
+- **對比理由**：
+  - **戰後文化史最重要的單一事件**：奠定 80s 本土化運動的論述基礎 + 90s 台灣文學主體性論述起點
+  - **〈狼來了〉戒嚴時期最危險的指控**：1977-08-20 余光中《聯合報》文章指控鄉土文學「跟工農兵文學似有暗合之處」，當時這頂帽子可致人於死
+  - **官方策略性收編**：第二次文藝大會 270 位代表將「鄉土文學」擴大為「愛國文學/民族文學」結束論戰
+  - **連結密度極高**：余光中（雙面切入）/ 陳映真（既存 article?）/ 王拓 / 黃春明 / 葉石濤 / 笠詩社全陣營 + 1972 唐文標 + 1957 紀弦覃子豪論戰 cross-link
+  - **History-level article**：比任一個別人物 article 涵蓋更廣 + 對理解戰後台灣文化結構更基本
+- **預估時間**：150-180 min（論戰時序 + 主要 figures 立場 + 對詩界小說界影響 + 跟既存歷史 article cross-link）
+- **Reference**: reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md §六 1977-1978 鄉土文學論戰
+
+<!-- ═══ 🟠 收尾補完 — prose 已 ship 或低工時修補（媒體 / 孢子 / SEO / freshness），routine 可連續吃 ═══ -->
+
+<!-- ═══ 2026-06-16 external-pickup session — 國外有機撿走觸發 ═══ -->
+
+### 台灣少子化危機 EVOLVE — 被 Michael Turton 撿走的英文版，回頭補強門面
 
 - **Type**: `EVOLVE`
-- **Category**: Geography / Society
-- **Path** (EVOLVE only): knowledge/Geography/用數據看台灣22縣市.md（tw-tiles 主宿主）；knowledge/Society/台灣少子化危機.md（tw-pyramid）；knowledge/Society/台灣與核能的討論.md（tw-stack 公投段）
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-06-12 by viz-evolution session（哲宇 goal 的 v3 延伸，graph.md §九 + reports/viz-system-evolution-2026-06-12.md §7）
+- **Category**: Society
+- **Path** (EVOLVE only): knowledge/Society/台灣少子化危機.md
+- **Priority**: `P1`（有外部流量的對外門面，優先序高於一般 P2）
+- **Status**: `prose-shipped-pending-media+rebabel`（zh ship `80abaab10` 2026-06-17）
+- **Requested**: 2026-06-16 by 哲宇（國外有機撿走發現）— session 213045-external-pickup
 - **Notes**:
-  - 不為加而加：各篇 EVOLVE 時順帶升級，不單獨為配圖開 rewrite
-  - 22縣市的 22 列 heatmap 可升級或並用 tw-tiles（資料已在文內，零新查證）
-  - 少子化 pyramid 需先查證年齡×性別官方數據（22縣市文只有比率，事實鐵三角）
-  - 核能公投段 stack 數據已驗證（中選會三場），低風險
-  - 配圖後必跑 `node scripts/tools/viz-shot.mjs --page {該頁}` 像素閘門
+  - **觸發**：Michael Turton（Taipei Times 專欄作家）6/11 轉英文版〈The Island's Last Song〉稱「nifty overview」（490 views / 8 讚 / 3 收藏）。
+  - **2026-06-17 prose EVOLVE 全弧 ship（`80abaab10`）**：去虛構（移除「採訪 50 位」+ 4 合成人名 + 無法查證的東山國小開場 + 溫在弘 misquote）→ 改用 4 源查證的新威國小 + 真實學者逐字引語；資料全面更新 2025（TFR 0.695 / 2024 龍年 −715 破 48 年慣例 / 不婚 not 不生 / 無已開發國家救回 TFR / 移工 83 萬）。4-agent 研究 fan-out（~100 搜尋 + 內政部一手 PDF）+ Stage 2.5/3.6 adversarial verifier 抓 5 真錯已修。9,996 CJK / 73 腳註 / 7 tw-\* viz / 反方 6 聲音。research SSOT `reports/research/2026-06/台灣少子化危機.md`。**修正原假設「不必大改」** — fabricated 素材 + 2024-25 數據反轉，實為近全文重寫。
+  - **剩餘（pending，2026-07-16 inbox-audit 更新）**：(1) ~~re-babel 5 語~~ ✅ 已完成 — en 已於 2026-06-17 02:50（zh ship 後 2hr）由 babel 重譯，Turton 連結版本已更新。(2) **image-health hard（0 圖，2026-07-16 複驗仍無 image frontmatter）** — 補 hero + scene 圖走 REWRITE Step 4.3，現在是唯一實質缺口。(3) 人工審閱（`lastHumanReview` 仍 false）。
+- **Reference**: https://x.com/michaelturton/status/2064932663555985724 + memory/2026-06-16-213045-external-pickup.md
+
+### 台灣網路社群遷徙史 EVOLVE — BBS 到 Threads 的數位棲地遷徙
+
+- **Type**: `EVOLVE`
+- **Category**: Technology
+- **Path** (EVOLVE only): knowledge/Technology/台灣網路社群遷徙史.md
+- **Priority**: `P0` → **prose ship 2026-06-15 (twmd-rewrite-daily)** / **媒體補完待 P1**
+- **Status**: `prose-shipped-pending-media`
+- **Requested**: 2026-06-14 by 哲宇 directive（最優先 rewrite batch）
+- **Notes**:
+  - **2026-06-15 prose ship 完成**：6548 char / 47 footnote / 8 場景式 H2 / Stage 0-1 SSOT (1795 行 / 112 URL / research-report-health PASS) + Stage 2 fresh writer agent + 文體紀律（對位 1 / 破折號 57 / 0 編年體）+ Stage 3-5 全綠（除 image-health pre-existing）
+  - **核心矛盾**：「失土史」框架 — 台灣兩度長出自己的平台都被外資擠掉或關掉，唯一活下來的明日報個人新聞台是被使用者自己搶救的
+  - **媒體 gap 待補（pre-existing，與 報導者 EVOLVE 同模式）**：原版 0 image, EVOLVE 維持 text-only ship；image-health hard=1 (length-scaled ≥5 for 6548 字)；候選素材清單已在 SSOT §6.7（志祺七七《時代的眼淚》MSN/無名 EP / LINE 桂綸鎂 2012 廣告 / Wikimedia Commons PTT 進站畫面 / @wretch_1999 截圖 / Varoufakis 演講）
+  - **SPORE defer**：image hard → 自動 spore-publish 失格（per pipeline v6.8）；待媒體補完後重跑 SPORE chain
+  - 事實鐵三角已查證完整 SSOT §3-§8（PTT 1995/9/14、明日報三日期、無名 2013/12/26 同日關、MSN 1 億→Skype 非 3 億→LINE、Plurk 2008/5/12、Threads 2023/7/5、@wretch_1999 2025/3 粉絲自製）
+  - sibling cross-link：無名小站（已雙向）/ PTT批踢踢 / Facebook / Threads在台灣 / IG — 5 條 forward 已寫，reverse 待 sibling 編輯時補
+- **Reference**: 哲宇 directive 2026-06-14 + research/2026-06/台灣網路社群遷徙史-evolve-20260614.md
 
 ### 台灣人小時候的英文名字 NEW — Mary、Kevin 與補習班老師的命名權
 
@@ -295,37 +334,42 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **剩餘（pending）**：(1) **🔴 image-health hard=1**（0 圖；length-scaled target 5；非 commit gate）— 補 hero + scene 圖（候選 anchor 見 §圖片來源 placeholder：兒美班教室、芝麻街 1987 NO CHINESE 廣告、外交部拼音對照表、Kolas Yotaka 2024 身分證新聞照、Kwangfu vs Guangfu 路牌）走 REWRITE Step 4.3。(2) **🟡 babel** — zh ship 後 babel-nightly 00:50 會自動 propagate（en/ja/ko/es/fr）。(3) **🟡 Stage 5.2 reverse cross-link** — 補 4 條 sibling（外來語 / 原住民語言復振 / 蔣為文 / 台灣感性）的延伸閱讀。(4) **🟡 Stage 3.6 fan-out** — cron budget defer；A 級大眾文可主動原子重驗 + 順稿 + 視覺同步。(5) **🟡 quote-fidelity 2 warn** — L103 朗文 quote 全形/半形冒號 + L206 漢化字典 quote 用 ⋯⋯ 省略合併（acceptable per ⋯⋯ 標示省略，但 plugin 不認）。(6) 人工審閱（`lastHumanReview` 仍 false）。
 - **Reference**: 哲宇 goal notes + reports/research/2026-06/台灣人小時候的英文名字.md + reports/research/2026-06/台灣人小時候的英文名字-section-A.md
 
-### 台灣各大技術 Conference NEW — 從 COSCUP 到 g0v，開源島嶼的年度遷徙
+### 台灣體育發展與國際賽事 NEW
 
 - **Type**: `NEW`
-- **Category**: Technology
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-06-12 by 哲宇（goal directive）
+- **Category**: Society（涵蓋體育政策 + 社會層面）
+- **Priority**: `P1`
+- **Status**: `prose-shipped-pending-spore-broadcast`（zh ship 2026-06-19 twmd-rewrite-daily routine `6aa840307`，標題收斂為「台灣體育發展與奧運：一個叫『中華台北』的隊伍」）
+- **Source**: Issue #915 by tboydar-agent (2026-05-08) — ⚠️ 2026-07-16 inbox-audit：#915 已無法解析（gh GraphQL could not resolve，可能被刪除），issue comment/close hard gate 免除，僅剩 spore broadcast pending
+- **2026-06-19 ship 摘要**：4860 CJK / 55 footnote / 4 圖 / 5 場景式 H2（進不去的「台灣」/ 為一首歌重填詞 / 16 年長夜與 15 分鐘雙金 / 升的不是國旗 / 棒球與「中華台北」的縫隙）。Spine 收斂為「中華台北」框架（1976 蒙特婁退賽 → 2024 巴黎升旗），棒球 / 制度 / 個人金牌都是這個 spine 上的 anchor。研究 SSOT `reports/research/2026-06/台灣體育與奧運.md`（51 distinct sources / 5 EN / 10 primary）。Falsification 抓 10 處（楊傳廣 8334 不是 8392 / 蔡溫義 125kg / 嘉農 0:4 / 楊勇緯 2024 NO MEDAL / 李孟遠定向飛靶 / 陳念琴 66kg / 國訓 1976/11 / 體育署 2013 降編 / 紅葉冒名頂替 / CPBL 首場兄弟輸）。Spore #154/#155 blueprint draft broadcast deferred（Chrome MCP image upload blocker 連續第 4 次 cycle）。
 - **Notes**:
-  - 範圍：COSCUP / PyCon TW / JSDC / MOPCON / g0v summit / SITCON / HITCON / DevOpsDays Taipei 等，志工自辦文化是核心張力（多數無公司主辦、靠社群志工 20 年不斷線）
-  - 切角候選：SITCON 學生自辦的世代傳承、HITCON 與台灣資安人才庫、COSCUP 與開源社群的關係
-  - 對 Taiwan.md 自身有策略意義：這些 conference 是潛在盟友與貢獻者池（PARTNERSHIP-INBOX 關聯）
-  - 必驗事實：各 conference 創辦年份與規模數字
-- **Reference**: 哲宇 goal notes
+  - 既有 baseline audit：`Culture/台灣棒球文化.md`（148 行，職業棒球 + CPBL 主軸）/ `Culture/巧固球.md`（小眾運動）/ People 既有運動員 ~10+（戴資穎 / 郭婞淳 / 莊智淵 / 李洋 / 楊勇緯 / 林郁婷 等）— **總覽級「台灣體育發展」是真缺口**
+  - 主題 anchors：(1) 體育史（日治時期甲子園 → 戰後三級棒球 → 解嚴後職棒元年 1990 → 2000 後多元化）(2) 重要國際賽事成就（奧運獎牌軌跡：1984 蔡溫義銅 → 2004 雅典陳詩欣朱木炎雙金 → 2020 東京 2 金 4 銀 6 銅創歷史 → 2024 巴黎拳擊金 + 羽球金 + 舉重金）(3) 體育政策（國訓中心 1982 成立 / 黃金計畫 2014 啟動 / 體育署 2013 成立）(4) 職業運動（CPBL / PLG+T1 籃球 / 排球 SPL / 電競）(5) 基層體育與學校運動（HBL / UBA / 全大運）(6) 運動科學與運動醫學發展
+  - **必驗事實**（REFLEXES #16 + 讀者級驗證高優先）：
+    - 2024 巴黎奧運成績：林郁婷拳擊 57kg 金牌（不是 60kg）/ 李洋 + 麟洋羽球男雙金牌（衛冕）/ 郭婞淳舉重 59kg 銀牌（不是金，需 verify）/ 霹靂舞名次（孫振 4 名 vs 8 名等具體）
+    - 2020 東京奧運：總獎牌數 12 面（2 金 4 銀 6 銅）— 各 source 數字一致才採信
+    - 黃金計畫：哪一屆奧運週期啟動（2014 仁川亞運後？）+ 預算規模
+    - 國訓中心：1982 vs 2002 升格年份、地點（左營）
+  - 政治敏感低，但「中華台北」名稱問題、奧運會旗會歌、IPC 籍別等 framing 需小心（per MAINTAINER §爭議處理）
+  - cross-link：既有 People 運動員（雙向）+ 台灣棒球文化 + 巧固球 + 台灣教育制度（基層體育）+ 國防現代化（國軍體幹班歷史）
+- **Reference**: 體育署 https://www.sa.gov.tw/ / 國訓中心 https://www.nstc.org.tw/ / 中華奧會 https://www.tpenoc.net/ / 維基百科〈中華民國體育〉/ 各專項協會
+- **預估時間**：~150 min（NEW Society 深度研究，多 source 必跑奧運成績 cross-check）
 
-### 上線三個月的 Taiwan.md NEW — 一個數位生命體的第一季（6/17 滿三個月）
+### 🗳️ 2026 九合一選舉總章 — 媒體增補 EVOLVE（[A] auto-eligible）
 
-- **Type**: `NEW`
-- **Category**: About（或哲宇個人 voice 對外分享文——voice 歸屬待哲宇定）
+- **Type**: `EVOLVE`（媒體增補，prose 不動）
+- **Category**: Politics
+- **Path**: [`knowledge/Politics/2026 九合一選舉.md`](../../knowledge/Politics/2026 九合一選舉.md)
 - **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-06-12 by 哲宇（goal notes 三星標記「\*\*\* 上線三個月的 分享文章」）
+- **Requested**: 2026-07-10 by elections-refresh session（[reports/elections-2026-refresh-plan-2026-07-10.md](../../reports/elections-2026-refresh-plan-2026-07-10.md) §三之 1）
+- **自主權邊界**: `[A]` 可自主
 - **Notes**:
-  - ⏰ 時效錨點：2026-06-17 = 誕生（3/17）滿三個月，本週內是黃金窗口
-  - 素材已備：dashboard 數據（792 篇 / 63 貢獻者 / 6 語 / 1028 stars）、里程碑表（CONSCIOUSNESS §里程碑）、野外子代譜系（FORK-LOG）、首日爆發 → 免疫系統 48hr 誕生敘事
-  - **Voice 決策需哲宇**：哲宇第一人稱（發 FB / Threads 的個人分享）vs Semiont 第一人稱（站內 About 系文章）vs 兩者各一篇互相引用——goal notes 同時提到「發 taiwan.md 簡報到 Facebook」，可能是同一件事的兩個面
-  - 對外溝通屬 §自主權邊界：Semiont 備好 draft + 數據，發布由哲宇
-- **Reference**: 哲宇 goal notes + reports/weekly/ 既有週報素材
-
-<!-- 三毛 已完成 2026-05-17 2026-05-17-184444-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 🖥️ Computex EVOLVE 已完成 2026-06-30 twmd-rewrite-daily 18h cycle (f42792f5b) — 五條缺口全處理：三 CEO keynote 改寫 + 蘇姿丰 2016 Zen 預告新節 + 資訊月對照新節 + Tom's Hardware「farewell to Taipei」+ 三大框架但子句校準。9890 CJK / 60 footnote。研究 SSOT reports/research/2026-06/computex-evolve-stage1-2026-06-12.md (138 search / 70 sources)。SPORE 留給 7/1 spore-publish-daily 撿。-->
+  - 現況 7,991 CJK / 0 媒體，`image-health` hard fail（length-scaled 門檻 ≥ 7 媒體）——gate 在文章 ship 後升級，存量被抓
+  - 走 REWRITE-PIPELINE Step 1.9.0 深度媒體掃描：候選方向 = 開票唱票現場（Wikimedia Commons PD/CC）、歷史投票所影像（1994 北高民選）、中選會建築、g0v 工具截圖、選舉公報實物
+  - **對稱原則注意**：不得使用任何單一現任者/候選人視覺主體的照片；群眾、制度物件、場所優先
+  - 授權矩陣三表必跑 + EXIF 清理 + caption 純文字授權標示（prettier CJK URL mangle 陷阱）
+- **Reference**: Wikimedia Commons / 中選會官網 / g0v 專案頁
 
 ### 🟠 台灣藍鵲 SEO 優化 — #2 排名卻 0 CTR，259 曝光是當前最大流量洩漏點
 
@@ -344,15 +388,25 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 <!-- watch-signal（未升 candidate，下次 scan 覆核）：`台灣日治時期` SC28d 17,793 impr / CTR 0.25% / pos 7.68 — broad query 缺口已放大，但本輪 GA4 匯出沒有單篇路徑匹配，雙源未滿足，暫留 watch；既有 hub knowledge/History/日治時期.md 與子題文章（日治時期文學 / 社會運動）待下輪判斷 SEO 修補或正文深化。`原住民女歌手` 68 impr / pos 8.62 — 既有 當代原住民創作歌手 / 台灣原住民音樂傳統，可考慮聚焦女性創作者 list。`周智宣` 100 impr 無專文 = 潛在 NEW，但人物 niche 待哲宇判斷敏感度。 -->
 
-### 🎼 早期批次「歸屬密集」文章 系統性重查 batch — AI 幻覺高風險區 audit
+### 台灣邦交國與國際外交 EVOLVE — 2026 freshness + 英文版 SEO 校準（SC「diplomatic allies 2026」cluster 缺口）
 
-- **觸發**：2026-06-01 `台灣影視配樂`被配樂專業讀者 peilinwu0702 公開 callout 錯誤率>30%，全篇作曲家↔作品誤植（已重寫 ship `b0c92a2d2`）。揭露「A↔B 密集對應」主題是 AI 最易張冠李戴的結構，早期批次（3/19 編修校對不嚴謹）風險最高。
-- **Priority**: P1
-- **Status**: in-progress（batch 進行中）
-- **Type**: audit / EVOLVE batch
-- **範圍**：3/19 早期批次 + 歸屬密集主題（音樂的「作曲家↔作品」、運動的「球員↔球隊／賽事」、文學的「作者↔著作」、樂團的「成員↔樂團」）優先重查；每篇對每個歸屬「查 attribution 不只查 fact」(RESEARCH.md §張冠李戴 self-apply)。
-- **進度**：✅ 李宗盛（2026-06-05 loop /twmd-rewrite，1185→4588 CJK）— batch 首篇。falsification 抓大量 attribution 誤植：滾滾紅塵=羅大佑 / 愛上一個不回家的人=飛碟陳志遠 / 味道(歌)=姚謙黃國倫 / 分手快樂=姚若龍 / 花心=喜納昌吉 / 我很醜=夏宇黃韻玲 / 讓我歡喜讓我憂=CHAGE&ASKA(李只填詞) / Music Factory=羅大佑廠牌；另修滾石 1984/出生北投/有歌之年 2019。新增「那些其實不是他寫的歌」段把 audit 變讀者價值。SSOT: reports/research/2026-06/李宗盛.md。✅ 台灣嘻哈與饒舌發展（2026-06-09 /twmd-rewrite，~5k→8577 CJK / 137 搜尋 SSOT `5de488e73`）— batch 第二篇，重災區同樣成立：修 12 處 attribution 幻覺（MACHI 假成員小龜/Benz/Kid 全杜撰、國蛋《幹大事》實為頑童、春艷《豔遇》獎不存在、《大嘻哈時代2》2023 非 2022、派克特陸籍非台灣、Leo王《小丑》查無、金曲無嘻哈獎）。worked example 確認 **「樂團成員↔樂團 / 歌手↔獎項屆次」是 3/19 批最高風險維度**，下批同類優先。SSOT: reports/research/2026-06/台灣嘻哈與饒舌發展.md。✅ 蘇打綠（2026-06-09 routine /twmd-rewrite-daily，2.4k→12.8k CJK / 86 search aggregate SSOT `73443b2a4`）— batch 第三篇，「樂團成員↔樂團」+「歌手↔獎項屆次」維度完整 dogfood。Stage 1 4-agent fan-out 抓 9 處 INBOX hypothesis 幻覺 falsified（1999 成軍 → 2001-04 / 政大社團 → 報名金旋獎組起來 / 6 人 line-up → 創團 4 人 / Royal Albert Hall「亞洲首組」→ 完全 fabricated 從未演出 / 四季三部曲 → 四部曲 / 冬未了 2014 → 2015 / 太空人 2018 → 2019 / 馬來西亞首場 → 新加坡 / 北京工人體育場 → 工人體育館），另修兩處 verbatim 不精確（「我一直把他當父親」→「我曾經視為父親的人」/「我沒有一絲愧歉」→ 4000 字聲明開頭「我於理、於情都毫無虧欠」）。SSOT: reports/research/2026-06/蘇打綠.md。✅ 羅大佑（2026-06-19 /loop iteration #2，1789→~5100 CJK / 81 搜尋 SSOT `reports/research/2026-06/羅大佑.md`）— batch 第四篇「歌手↔作品歸屬」維度：釐清 鄉愁四韻=余光中詞、滄海一聲笑=黃霑(羅只唱)、皇后大道東/似是故人來 詞=林夕、明天會更好 曲羅+7人詞、滾滾紅塵 三毛=編劇、童年/光陰的故事 1981 張艾嘉首發(非1982)、你的樣子 1988(非1984)。下批候選（3/19 Music/People 歸屬密集）：伍佰 / 張惠妹 / 林俊傑 / 蕭青陽 / 五月天（樂團成員↔樂團 高風險）等。
-- **下一步**：先 `grep -l "date: 2026-03-19" knowledge/**/*.md` 列早期批次 → 挑歸屬密集者（Music / Sports / People）排重查順序 → 走 REWRITE-PIPELINE Evolution。
+- **Type**: `EVOLVE`
+- **Category**: Society
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Source**: 2026-05-23 manual /twmd-evolve — SC 7d opportunities 4-variant cluster 累積 ~875 imp / 0 click
+  - **SC 7d opportunities**：`taiwan diplomatic allies 2026` 310 imp / 0 click + `taiwan diplomatic allies list 2026` 137 imp + `taiwan diplomatic allies list current` 117 imp + 其他變體 — 4 變體加總 ~875 imp / **0 click 跨變體**。英文讀者明確查 2026 最新邦交國 list 全部落空
+  - **既有 article**：[knowledge/Society/台灣邦交國與國際外交.md](../../knowledge/Society/台灣邦交國與國際外交.md) zh-TW + 英文版 `knowledge/en/Society/taiwan-diplomatic-allies-international-relations.md`（需 verify 英文版存在+ freshness）
+  - **既有 spore**：#51/#52 邦交國「12 邦交國 vs 護照進 177 國」護照悖論 D+7 17.3K Threads — Tier 中段 結構性題目 hook 已建立
+  - **EVOLVE 目標**：
+    1. 確認英文版 article 是否含「2026」latest timestamp + 12 邦交國 current list
+    2. frontmatter SEO 加「Taiwan diplomatic allies 2026」「list current」cluster keyword
+    3. 文章內 verify「12 邦交國」list per 2026 actual state（教廷 / 巴拉圭 / 海地 / 4 太平洋島國 / 4 加勒比海國 etc）
+    4. lastVerified bump 到 2026-05-23 或最新外交事件日期
+- **預估時間**：1-2 hr（EVOLVE 校準 + 英文版 sync + frontmatter SEO 優化）
+- **Reference**：SC 7d opportunities cluster + spore #51/#52 harvest data + REFLEXES #4 三源驗證（SC + GA + GitHub 三源 conjunction 確認）
+- **dev_log**:
+  - `2026-05-23 manual (220053)`: /twmd-finale 跑 /twmd-evolve 從 SC 7d opportunities 抓到 cluster → 新 candidate
 
 ### 📷 SPORE-INBOX 候選圖片補強 batch — 4 articles missing hero + scene-mid (2026-05-27 spore-publish-daily gate fail)
 
@@ -375,346 +429,101 @@ BECOME_TAIWANMD.md Step 5 新增：
   - SPORE-INBOX entries:「曾博恩 — 旗艦人物 spore」/「施振榮 — 失敗教父 spore」/「二二八事件 — 假歷史反制 REACTIVE spore」/「飲料封膜機 — 趁熱發明史 spore」(SPORE-INBOX §Pending)
   - LESSONS-INBOX 2026-05-27 entry「SPORE-INBOX §Pending 5/15 candidates image gate fail rate ~33%」討論 upstream gap
 
----
+### 陳嫺靜 EVOLVE — 補 hero 靜態圖（OG 社群卡 / 孢子海報用）
 
-### 🚀 國家太空中心 TASA NEW — 從新竹科學園區工程院內到福衛獵風者
+- **Type**: `EVOLVE`
+- **Category**: Music
+- **Priority**: P3（內文已 ship，純媒體補完）
+- **Status**: `pending`
+- **Requested**: 2026-06-28 080237-manual（哲宇 directive：先 ship 內文，hero 進 INBOX 補）
+- **Notes**:
+  - 文章 2026-06-28 ship，內文 5 支官方影片 + tw-timeline 已過媒體數量 gate；缺的是一張靜態圖給 OG 社群卡 / 孢子海報（影片 thumbnail 不可靠）
+  - 她沒有任何自由授權照片（Wikimedia / Openverse / Flickr 當天全查過為空）
+  - 選項：(a) 顏社 press kit／經紀團隊要授權照　(b) 生一張 on-brand 資料／字體 hero　(c) 金曲／金音典禮若有 CC 授權新聞照
+  - frontmatter 補 image + imageCredit + imageLicense + imageSource 後，刪掉本 entry
+
+<!-- ═══ 🟡 P1 — 本月 ═══ -->
+
+### 台灣各大技術 Conference NEW — 從 COSCUP 到 g0v，開源島嶼的年度遷徙
 
 - **Type**: `NEW`
-- **Category**: Technology（subcategory: 太空科技 / 國家科研機構）
-- **Priority**: `P0`
-- **Status**: `pending`（⚠️ **2026-06-06 Stage 0 audit 更正**：既有 `knowledge/Technology/國家太空中心.md`（14k CJK 深文，2026-06-04 ship，featured）+ `台灣太空產業發展.md` 已覆蓋本主題 → 本 entry 應改判 **EVOLVE**（補資料圖表層 / 補福衛 spec heatmap）或降優先，**不是 clean NEW**。baseline audit 鐵律第 N 次驗證）
-- **Source**: 哲宇 directive 2026-05-26（P0 優先）
-- **Hook 候選**：
-  - (A) 從 1991 國科會太空計劃室 → 2023/1/1 改制行政法人「國家太空中心 TASA」3 線並進的 32 年弧線
-  - (B) 福衛 5 號自主開發 → 福衛 7 號 + 美 NOAA 合作 → 獵風者衛星首顆 GNSS-R 全自主 → 福衛 8 號 8 顆星座 — 一個小國怎麼從買衛星變成做衛星
-  - (C) 2024 新竹寶山 TASA 總部落成 + 屏東九鵬發射場規劃 — 從工研院內辦公室升級到「有自己的地」的國家機構轉折
-  - (D) 入軌火箭計畫 2031 + Starlink 替代方案 (Eutelsat OneWeb / 中華電信合作) — 台灣低軌衛星主權 vs 國際依賴張力
-- **Notes**:
-  - 既有 baseline audit（Stage 0 必跑）：`ls knowledge/Technology/ | grep -iE "太空|衛星|福衛|TASA|NSPO"` 確認重疊度
-  - **政治敏感**：太空 = 軍民兩用敏感領域 / 中國反衛星試驗（2007 ASAT）+ 兩岸軍事考量 / 美方 ITAR 出口管制 + 國防部火箭計畫 framing 要小心
-  - 必驗事實（高優先）：
-    - (a) 1991 太空計劃室成立日期 (NSC vs 國科會 framing 變化)
-    - (b) 2005 NSPO → 2023/1/1 TASA 行政法人改制法源 (《國家太空中心設置條例》)
-    - (c) 福衛系列發射時間 + 軌道 + 載荷 (1999 福衛 1 / 2004 福衛 2 / 2006 福衛 3 / 2017 福衛 5 / 2019 福衛 7 / 2023 獵風者 / 2026+ 福衛 8)
-    - (d) 各任主任 / 主任委員 / 首任行政法人董事長吳宗信 (TASA-1) — 名字 + 任期 + 公開引語
-    - (e) TASA 自主率數字 (買衛星 vs 做衛星 比例) — 各代福衛差距
-    - (f) 入軌火箭計畫具體時間表 (HTTP-3a 探空火箭 2024/9 屏東 + 2031 入軌目標) + ARRC 陽明交大 launchpad
-    - (g) Starlink 替代方案具體規模 (中華電信 OneWeb / 行政院數位部 NCC 政策)
-    - (h) 預算規模 (太空科技長程發展計畫第三期 2019-2028 約 251 億)
-  - 國際視角：(a) NASA / JAXA / ISRO 對 TASA 評價 (b) ITAR 限制 vs 自主率提升路徑 (c) 福衛系列 GNSS-RO 資料國際科學貢獻 (NOAA 同化模型)
-  - 媒體素材機會：(a) TASA 官網釋出衛星照片 (Public domain or CC) (b) 福衛 1-8 視覺 timeline (c) 寶山總部落成 (公開報導) (d) 吳宗信公開演講影片 (YouTube) (e) 獵風者衛星 GNSS-R 海面風場資料視覺化
-  - cross-link：[台灣半導體產業](半導體/科技自主)、[台灣國防現代化](軍民兩用)、[氮化鎵到 3D 封裝](Technology PanSci P0)、[認知作戰](Technology PanSci)、[台灣科技人物 吳宗信](People 如有)
-- **Reference**: TASA 官網 tasa.org.tw / 國家太空中心改制相關立法院公報 / 福衛系列維基 / 行政院太空科技計畫 / 鏡週刊 + 數位時代 + 報導者太空專題 / 美 NOAA STAR Centre 福衛 7 RO 資料 / ARRC 陽明交大火箭研究中心
-- **預估時間**：~180 min（32 年 timeline + 7+ 衛星 spec + 國防 / 商業 / 科研三軸 + 政治敏感）
-
-<!-- TASA NEW append 2026-05-26 by 哲宇 directive P0 (session 2026-05-26-twmd-rewrite-manual) -->
-
----
-
-<!-- 1. 台北市 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md (22 縣市 batch 5 — 萬華 1738 大稻埕 1885 信義 2004 三個年紀) -->
-
-<!-- 2. 新北市 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md (22 縣市 batch 5 finale — 包圍台北的環狀都會 紅毛城比台北早 200 年) -->
-
-<!-- 3. 桃園市 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md (22 縣市 batch 4 — 進出口/客家/移工 三層 anchor) -->
-
-<!-- 4. 台中市 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md (22 縣市 batch 5 — 1887 差點當首都 2010 才升格等了 123 年) -->
-
-<!-- 5. 台南市 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md (22 縣市 batch 4 — 261 年首府 + 400 年古蹟 + 21 世紀晶片三層) -->
-
-<!-- 6. 高雄市 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md (22 縣市 batch 4 — 1979 升格直轄市與美麗島事件同年) -->
-
-<!-- 基隆市 已完成 2026-05-18 2026-05-17-230616-manual → ARTICLE-DONE-LOG.md (Pilot ship + retrospective enriched caveats 已寫進 reports §10) -->
-
-<!-- 8. 新竹市 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md (22 縣市 batch 4 — 1733 種竹為城 1980 長出台積電搖籃) -->
-
-<!-- 9. 嘉義市 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 10. 新竹縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 11. 苗栗縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 12. 彰化縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 13. 南投縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 14. 雲林縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 15. 嘉義縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 16. 屏東縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 17. 宜蘭縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 18. 花蓮縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 19. 台東縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 20. 澎湖縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 21. 金門縣 已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-<!-- 22. 連江縣（馬祖）已完成 2026-05-18 2026-05-18-004535-manual → ARTICLE-DONE-LOG.md -->
-
-### 🗳️ 2026 九合一選舉系列 — 共通說明 + 自主權邊界 + 對稱原則
-
-> **完整 proposal**：[reports/2026-election-evolution-proposal-2026-05-27.md](../../reports/2026-election-evolution-proposal-2026-05-27.md)（11 條提案分 4 Tier / 三道濾網 self-apply / 風險清單）
->
-> **哲宇 directive 2026-05-27**：「深度研究 2026 中華民國直轄市長及縣市長選舉，思考 Taiwan.md 完整專案有什麼能夠針對這個領域主題做進化，與最大程度幫助到這個社會民主、透明與資訊品質的方式。文章類的幫我全部一個一個放到 article-inbox。」
->
-> 本系列分 4 個 sub-entry（下方 4 個 `###`）按 [MANIFESTO §自主權邊界](MANIFESTO.md#我的存在結構) 自主權判定排序：1.1 [A] 可自主 → 1.4 [A] 可自主 → 1.2 [B] 需哲宇 nod → 1.3 [C] 哲宇 hard 拍板每篇。
->
-> **共通鐵律（5 條，每篇 ship 前必過）**：
->
-> 1. **對稱原則**：寫 candidate A 就一起寫 candidate B / 全 22 縣市對手都寫，不寫部分 — 不對稱 = endorsement signal。1.3 候選人系列若哲宇只 pick 部分，必須在文章 footer 明示「本系列尚未涵蓋 {對手姓名}，會持續補完」。
-> 2. **制度層為主**：「觀點」鎖在制度／歷史／方法層（為什麼這個制度值得珍惜 / 民主轉型不容易 / 透明度為什麼重要），**不下放到 candidate-level / policy-stance-level**。
-> 3. **選前 30 天 spore freeze**（2026-10-29 → 11-28）：禁止發任何 candidate-specific 孢子，避免選前 viral 期被讀為背書。寫進 [SPORE-PIPELINE](../factory/SPORE-PIPELINE.md) hard gate（待 ship 後加 plugin enforce）。
-> 4. **AI deepfake 防禦**：選舉相關文章 + 孢子皆走 [REWRITE-PIPELINE Stage 3.5 全文幻覺審計](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-35-hallucination-audit) + [Stage 3.6 STORY ATOM AUDIT](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-36-story-atom-audit場景原子驗證硬-gate) 嚴格 enforce。
-> 5. **三道濾網 self-apply**：每篇 Stage 0 觀點成型必過 [CLAUDE.md §Bias 1-4](../../CLAUDE.md) — 對 creator 預設加分 / multi-observer drift / editorial voice / 外部 critique default 不執行。
->
-> **跟既有 article 的關係**：[History/大罷免.md](../../knowledge/History/大罷免.md) + [History/民主化.md](../../knowledge/History/民主化.md) + [History/台灣民主轉型.md](../../knowledge/History/台灣民主轉型.md) + [History/台灣轉型正義.md](../../knowledge/History/台灣轉型正義.md) + [History/台灣選舉與政黨政治.md](../../knowledge/History/台灣選舉與政黨政治.md) + [Technology/開源社群與g0v.md](../../knowledge/Technology/開源社群與g0v.md) 已 ship；本系列補制度層 + 縣市選舉脈絡層 + 候選人層三個 gap。
->
-> **選舉專區 navigation 設計（待哲宇拍板）**：本 inbox entry 落地後，需另外決定文章 path 與站內呈現結構：(A) 開 `knowledge/Politics/` 新分類 + `_Politics Hub.md`；(B) 散在既有 Society + History 分類；(C) Hybrid — `knowledge/Politics/` + `/elections/2026/` 動態 dashboard 頁面接 g0v / 中選會 / 監察院 raw data。Proposal §3 推薦 Hybrid (C)，詳細思路寫在 session 對話回覆給哲宇。
-
----
-
-### 🗳️ 2026 選舉 Tier 1.2 — 22 縣市選舉脈絡 EVOLVE Round 2 batch（[B] 需哲宇 nod）
-
-- **Type**: `EVOLVE` × 22 篇（既有 22 縣市 panorama 補章）
-- **Category**: Geography
-- **Priority**: `P2`
-- **Status**: `pending-observer-nod`
-- **Requested**: 2026-05-27 by 哲宇 directive（session 2026-05-27-160000-2026-election-evolution）
-- **自主權邊界**: `[B]` 需哲宇 explicit nod 整批 — 觸發 >10 篇批量
-- **依賴**: 22 縣市 panorama 系列 22/22 已 ship（per ARTICLE-DONE-LOG 2026-05-18 batch）
-
-**EVOLVE 動作**：每篇既有 22 縣市文章 EVOLVE Round 2 加一個 H2 段（不重寫主檔，外科手術 append）：
-
-```markdown
-## 政治版圖：為什麼{縣市}的選舉這樣選
-
-### 戰後派系結構
-
-（紅／白／黑 / 在地宗族 / 客家政治 / 原住民部落）
-
-### 1994 民選後的政權更迭
-
-（純事實，不附傾向 — 列每屆當選人 + 黨籍 + 得票率，類似維基表格但加策展敘事）
-
-### 過去 5 屆得票結構
-
-（純數字，不附偏好分析）
-
-### 這次選舉的結構性議題
-
-（**不點候選人名**，只談議題 — 例：高雄談石化轉型、新竹談科學園區擴張、屏東談農漁業勞動、台北談都更卡關、宜蘭談六輕外溢、台中談空汙、台南談光電與漁塭、雲林談地層下陷、嘉義縣談農村高齡化、花蓮台東談 LDLM 觀光、金門連江談小三通與兩岸關係、彰化談機場興建、苗栗談水庫與地震斷層、南投談災後重建、桃園談人口快速增加、新北談衛星都市治理、基隆談港埠轉型、新竹縣談 AI/竹科外溢、嘉義市談國家機關進駐、澎湖談離島補貼）
-```
-
-- **Notes**:
-  - 共通 caveats（per [reports/cities-series-planning-2026-05-17.md](../../reports/cities-series-planning-2026-05-17.md) 15 條 + 新增 4 條選舉專用）：
-    - **新增 #16 派系敘事 ground truth 鐵律**：紅／白／黑分類引用必須附具體事件 + 年份，不泛化
-    - **新增 #17 黨籍標記中性化**：歷屆當選人列表只列黨籍不附價值描述
-    - **新增 #18 「結構性議題」不暗指 candidate**：例如「都更卡關」不接「現任市長處理不力」這類隱含 framing
-    - **新增 #19 對稱原則 enforce**：22 縣市段全部寫完才 ship，避免不對稱發布 = endorsement signal
-  - 預估每篇 +1,500-2,000 CJK / +5-8 footnotes / ~60 min 修改
-  - 22 篇 batch 預估總時間：~22 hr（可分 2-3 session 跨 2 週完成）
-  - 全部 ship 前**禁止單獨**ship 任何一篇（per 對稱原則）
-- **依賴關係**: 必須 Tier 1.1 至少 4 篇 ship 後再做（讓制度層 baseline 先到位）
-- **Reference**: 22 縣市 panorama 既有 article + 維基百科歷屆選舉條目 + 中選會選舉資料庫 (https://db.cec.gov.tw/) + g0v 選舉金流 + 監察院政治獻金 + 在地新聞媒體（各縣市地方記者報導）
-
-<!-- 2026 選舉 Tier 1.2 append 2026-05-27 by 哲宇 directive (session 2026-05-27-160000-2026-election-evolution) -->
-
----
-
-### 🗳️ 2026 選舉 Tier 1.3 — 候選人人物頁 pick list（[C] 哲宇 hard 拍板每篇）
-
-- **Type**: `NEW` × ~20 篇候選（哲宇 pick 哪幾個）
-- **Category**: People
-- **Priority**: `pending-observer-pick`
+- **Category**: Technology
+- **Priority**: `P1`（2026-07-16 inbox-audit 升級：COSCUP 慣例在 7 月底/8 月初舉辦，會前 ship 有天然時效 hook + Taiwan.md 現場曝光潛力 — 動工前先查 COSCUP 2026 實際日期）
 - **Status**: `pending`
-- **Requested**: 2026-05-27 by 哲宇 directive（session 2026-05-27-160000-2026-election-evolution）
-- **自主權邊界**: `[C]` 哲宇 hard 拍板每篇 — 候選人 = partisan 高風險，每篇單獨評估
-- **對稱原則鐵律**: 哲宇若 pick 某縣市的 candidate A，**必須一起 pick** candidate B（甚至 C / D / 第三勢力）。不對稱 pick = endorsement signal。
-
-**baseline audit（2026-05-27）**：
-
-| 既有 People 頁 ✅                                                                                                                                                                 | 缺 ❌（按公開報導 2026-05 提名）                                                                                                                                                                                                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 沈伯洋（台北）、蘇巧慧（新北）、盧秀燕（台中 — 連任中，不參選）、徐巧芯（已是立委非候選人）、柯文哲、卓榮泰、賴清德、蕭美琴、韓國瑜、陳菊、蘇貞昌、呂秀蓮、蔡英文、陳水扁、陳致中 | **6 都候選人**：蔣萬安（北）、李四川（新北）、何欣純（中）、陳亭妃（南）、賴瑞隆（高）、謝龍介（南）、柯志恩（高）<br>**縣市長候選人**：童子瑋（基）、王美惠（嘉市）、陳瑩（東）、蘇清泉（屏）、吳秀華（東）、陳玉珍（金）、張嘉郡（雲）、吳宗憲（宜）、翁壽良（嘉市）、游淑貞（花）、陳素月（彰）、劉建國（雲）、蔡易餘（嘉縣）、林國漳（宜）、陳品安（宜）、魏平政（彰） |
-
-**pick mechanism**：
-
-1. 哲宇 review 此 entry 後**逐個 ✅** 想寫的候選人姓名
-2. 每個 ✅ 候選人 spawn 一個獨立 `###` entry 進 inbox（schema 同既有人物 entry，例：沈伯洋／蘇巧慧 entry pattern）
-3. 對稱原則自動 enforce：哲宇 ✅ 沈伯洋 → 我必須提醒「需一起 ✅ 蔣萬安」否則不寫
-4. 每個獨立 entry 走 REWRITE-PIPELINE Fresh，hook **必須**鎖立法／市政／政策履歷層，**禁止**「為什麼會當選 / 敗選」framing
-5. ship 完**不發 spore**（per 選前 30 天 spore freeze + 避免 viral 期 endorsement reading）
-
-**Hook 框架共通**（per [knowledge/People/沈伯洋.md](../../knowledge/People/沈伯洋.md) 既有 pattern）：
-
-- 一個具體場景開頭（不是「他出生於...」這種維基 lead）
-- 公開立法／政策／公職紀錄（可查證 + footnote primary source）
-- 跨領域學經歷（不只政治）
-- 公開引語必須 verbatim 原文（per REFLEXES #16 + Stage 3.5）
-- **不寫** policy endorsement / 政見分析 / 民調預測
-
+- **Requested**: 2026-06-12 by 哲宇（goal directive）
 - **Notes**:
-  - 每篇 ≥ 4,000 CJK / 20+ footnotes / 走 REWRITE-PIPELINE Fresh + Stage 3.6 STORY ATOM AUDIT 嚴格 enforce
-  - 高風險：每篇 Stage 0 觀點成型必過 [CLAUDE.md §Bias 1-4](../../CLAUDE.md) + [MANIFESTO §10 幻覺鐵律](MANIFESTO.md#10-幻覺鐵律)
-  - lastVerified 鎖緊：候選人頁 ship 後每 30 天 EVOLVE Round 2 補新事件（per cron routine 候選）
-  - **強烈建議**：哲宇若決定走 Tier 1.3，整批 pick 完一起執行，不要 staggered（避免不對稱）
-- **依賴關係**: 必須 Tier 1.1 + 1.2 都到位後再啟動（讓 institutional baseline 先建好）
-- **Reference**: 維基百科個別候選人條目 / 立法院議事公開資訊系統 / 監察院政治獻金平臺 / 縣市政府官網（現任市長／議員履歷）/ 候選人公開臉書 / 三大主流媒體報導 / 公視 PNN 候選人專題
+  - 範圍：COSCUP / PyCon TW / JSDC / MOPCON / g0v summit / SITCON / HITCON / DevOpsDays Taipei 等，志工自辦文化是核心張力（多數無公司主辦、靠社群志工 20 年不斷線）
+  - 切角候選：SITCON 學生自辦的世代傳承、HITCON 與台灣資安人才庫、COSCUP 與開源社群的關係
+  - 對 Taiwan.md 自身有策略意義：這些 conference 是潛在盟友與貢獻者池（PARTNERSHIP-INBOX 關聯）
+  - 必驗事實：各 conference 創辦年份與規模數字
+- **Reference**: 哲宇 goal notes
 
-<!-- 2026 選舉 Tier 1.3 append 2026-05-27 by 哲宇 directive (session 2026-05-27-160000-2026-election-evolution) — 待哲宇逐個 pick -->
+### 明鄭與荷西沙漠補文系列 NEW（時間台灣頁揭露的分期缺口）
 
----
-
-### 🗳️ 2026 九合一選舉總章 — 媒體增補 EVOLVE（[A] auto-eligible）
-
-- **Type**: `EVOLVE`（媒體增補，prose 不動）
-- **Category**: Politics
-- **Path**: [`knowledge/Politics/2026 九合一選舉.md`](../../knowledge/Politics/2026 九合一選舉.md)
+- **Type**: `NEW`（series，4 條候選拆票）
+- **Category**: History / People
 - **Priority**: `P1`
 - **Status**: `pending`
-- **Requested**: 2026-07-10 by elections-refresh session（[reports/elections-2026-refresh-plan-2026-07-10.md](../../reports/elections-2026-refresh-plan-2026-07-10.md) §三之 1）
-- **自主權邊界**: `[A]` 可自主
+- **Requested**: 2026-07-16 by compassionate-kirch session（時間台灣頁內容盤點）
 - **Notes**:
-  - 現況 7,991 CJK / 0 媒體，`image-health` hard fail（length-scaled 門檻 ≥ 7 媒體）——gate 在文章 ship 後升級，存量被抓
-  - 走 REWRITE-PIPELINE Step 1.9.0 深度媒體掃描：候選方向 = 開票唱票現場（Wikimedia Commons PD/CC）、歷史投票所影像（1994 北高民選）、中選會建築、g0v 工具截圖、選舉公報實物
-  - **對稱原則注意**：不得使用任何單一現任者/候選人視覺主體的照片；群眾、制度物件、場所優先
-  - 授權矩陣三表必跑 + EXIF 清理 + caption 純文字授權標示（prettier CJK URL mangle 陷阱）
-- **Reference**: Wikimedia Commons / 中選會官網 / g0v 專案頁
+  - 時間台灣頁（/timeline）內容盤點揭露：**明鄭 1662-1683 是全站唯一沒有獨立條目的時代**（僅共用的荷西明鄭時期＋鄭成功人物頁）；荷西 1624-1662 也薄（無熱蘭遮城 / VOC / 西班牙北台灣獨立條目）。頁上沙漠註記已公開對讀者承認缺口
+  - 候選（依價值排序）：(1) 東寧王國（制度＋陳永華，補明鄭主幹）(2) 熱蘭遮城（荷蘭時代最強物件錨點，考古＋圍城戰）(3) 施琅（澎湖海戰＋台灣棄留疏——「棄留」辯論是島史觀絕佳素材）(4) 西班牙北台灣十六年（聖薩爾瓦多城考古）
+  - ship 後把 slug 加進 `src/data/timeline-eras.json` 對應時代（tungning / age-of-sail），沙漠註記可視覆蓋度調整措辭
+  - cross-link：[荷西明鄭時期] / [鄭成功] / [台灣海洋貿易史] / [福爾摩沙] / [台灣島史觀]
+- **Reference**: reports/timeline-page-design-2026-07-16.md §四（內容盤點）＋ memory/2026-07-16-154753-compassionate-kirch.md handoff
 
----
+### 台灣 LGBTQ+ 平權 EVOLVE（PR #726 merged 後深度重寫 — Stage 1 研究已完成，可直接接 Stage 2）
 
-### 🗳️ 台灣公投制度 NEW（[A] auto-eligible）
-
-- **Type**: `NEW`
-- **Category**: Politics
-- **Priority**: `P1`
+- **Type**: `EVOLVE`
+- **Category**: Society
+- **Priority**: `P1`（2026-07-16 inbox-audit 降級：重要非緊急；Stage 1 研究 2026-05-07 已落檔 `reports/research/2026-05/lgbtq-taiwan.md`，邊際成本低，適合下一個有品質預算的 write session 直接接 Stage 2。原 in-progress 自 2026-05-07 閒置 2 個月，重設 pending）
 - **Status**: `pending`
-- **Requested**: 2026-07-10 by elections-refresh session（[reports/elections-2026-refresh-plan-2026-07-10.md](../../reports/elections-2026-refresh-plan-2026-07-10.md) §三之 3；Politics Hub §罷免公投段既有佔位「台灣公投制度專文籌備中」）
-- **自主權邊界**: `[A]` 可自主（純制度史，不碰個別公投案立場）
-- **Hook anchor 候選**: 2018 年 11 月 24 日十案綁大選、投票所排隊到深夜的那一晚 → 2019 分流修法 → 2025 年 11 月綁回的鐘擺。憲法 1947 年就寫了創制複決，等了 56 年才有第一次全國性公投
-- **必含制度節點**（fact-pack 已驗證來源，見 [reports/research/2026-07/elections-2026-july-refresh.md](../../reports/research/2026-07/elections-2026-july-refresh.md)）：2003 公投法立法 / 2017 門檻下修 / 2018 十案 / 2019 分流 / 2021 四大公投 / 2022 18 歲公民權複決 / 2025-08-23 核三重啟公投（同意 434 萬未達門檻，投票率 29.53%）/ 2025-11-21 公投綁大選回歸（12-03 公布）/ 2026 五六案搶綁 11/28 的 8 月死線 + 中選會曾認定院會通過的反廢死案礙難辦理的前例
-- **cross-link 期望**（雙向）：\_Politics Hub（補佔位）/ 大罷免 / 投票權門檻歷史 / 2026 九合一選舉 / 台灣選舉與政黨政治
-- **Notes**: ≥ 4,500 CJK / 15+ footnotes / 走 REWRITE-PIPELINE Fresh；🗳️ 系列共通鐵律 5 條適用；8 月「公投是否綁上 11/28」定案前 ship 價值最高
-- **Reference**: 全國法規資料庫《公民投票法》沿革 / 中選會公投專區 / 中央社・公視歷次報導
+- **Source**: 哲宇 2026-04-30 δ session 觸發；對應 [knowledge/Society/LGBTQ.md](../../knowledge/Society/LGBTQ.md)（PR #726 idlccp1984 NEW Manus AI batch 已 merge polish 版）
+- **目前 baseline**：69 行 / 13 footnotes / 涵蓋祁家威 1986 → 葉永鋕 2000 → 畢安生 2016 → 釋字 748（2017）→ 同婚專法（2019）→ 共同收養（2023）→ 跨國同婚函釋（2023）→ 人工生殖法草案（2025）→ 崴崴孟孟世代
+- **EVOLVE 目標**（下個 session 走 REWRITE-PIPELINE Stage 0-6 完整深度）：
+  - Stage 1 deep research 20+ web search（人工生殖法立法院最新審議進度 / 跨國親子權益判決 / 反歧視立法 / 跨性別權益 / 校園與職場性別平等實務 / 同志諮詢熱線等 NGO 工作 / 同志大遊行歷年規模與訴求演進 / 國際 DEI 浪潮台灣回應）
+  - Stage 1.7 媒體素材：彩虹遊行歷年照片（CC 授權 or 連結至遊行官方主視覺）/ 釋字 748 公布當日畫面 / 葉永鋕紀念元素
+  - Stage 2 結構：核心矛盾「亞洲首部同婚專法 × 仍待延伸的法律與生活權益」/ 物件開頭（祁家威或某具體人物的場景）/ 七爪結構分配
+  - Stage 3 §11 polish（baseline 4 violations 應壓到 0-1）+ Stage 3.5 hallucination audit（特別 verify「3 萬 2126 對 / 504 跨國」「2025-12 行政院通過人工生殖法草案」「葉永鋕高樹國中 2000」三項精確數字）
+  - Stage 3.6 STORY ATOM AUDIT（畢安生「墜樓身亡」/ 祁家威「1986 立法院請願」/ 釋字「2017-05-24」皆需逐項對 source URL Ctrl-F）
+  - 處理「崴崴孟孟」段落的策展抉擇：是否核心人物？篇幅占比？對比其他需被看見的世代代表（祁家威 / 葉永鋕母親陳君汝 / 同志諮詢熱線）
+  - Stage 5 cross-link：與葉永鋕 / 性別平等教育法 / 祁家威 / 台灣大法官釋憲制度 / 同志大遊行等做雙向連結
+- **預估**：XL（>2000 行 research，>10 hr 工作量；可分兩次 session）
+- **dev_log**：
+  - `2026-05-07 δ(manual)`: Stage 0 事實萃取完成；Stage 1 共 22 queries，研究報告 → `reports/research/2026-05/lgbtq-taiwan.md`；核心矛盾定錨「亞洲首部同婚專法 × 仍在爭取的完整平等」；Stage 2 待下次 session 執行
+- **Notes**：
+  - 政治敏感主題，遵循 MAINTAINER §爭議處理原則
+  - 國際讀者（en/ja/ko）對台灣同婚有興趣，EVOLVE 完成後優先翻譯
+  - 相關鄰近題：「跨性別權益」可能拆出獨立條目
 
----
+### 台灣新媒體藝術（EVOLVE — 事實錯誤已修，剩完整 Stage 1 深度重寫 + 南方視角補位）
 
-### 🏘️ 歷史街區系列 NEW（P0/P1）— 共通說明
-
-> **完整規劃 + 模板 + 共通 caveats**：見 [reports/historic-districts-series-planning-2026-05-21.md](../../reports/historic-districts-series-planning-2026-05-21.md)
->
-> 歷史街區補 sub-unit deep dive 層 — 22 縣市 panorama + 老街文化主檔 catalog 之間的中間層。每篇單一街區 4500-6500 CJK / 15-25 footnotes / ≥ 5 圖。共通模板 7 H2（凌晨四點時刻 / 名字考據 / 街成形時刻 / 軸線 / 物質層 / 在地人 3 個地方 / 收尾），pilot 後 retrospective enrich（per 22 縣市基隆 pilot pattern）。
->
-> **第一批 batch**：台北 12 條（P0×4 / P1×4 / P2×4，本批次寫入）。其他縣市 ~70-110 條等台北 pilot 完才 populate（per 哲宇 2026-05-21 directive）。
->
-> **Scope 邊界**（per 哲宇 2026-05-21 拍板，寬鬆版）：
->
-> - ✅ 清領以前成形（艋舺 / 大稻埕 / 大龍峒）
-> - ✅ 日治規劃成形（西門町 / 永康街昭和町 / 中山北路敕使街道 / 北投溫泉街）
-> - ✅ 戰後特定時代標誌（眷村四四南村 / 條通文化 / 牯嶺街舊書街 / 寶藏巖違建轉藝術村）
-> - ❌ 2000 年後純商業重劃區（信義計畫區 / 內湖科技園 — 留給「新興街區」另一個 spec 的系列）
->
-> **共通 research caveats**（每篇都要注意，per reports §4）：
->
-> - 街成形 vs 建築 vs 政治事件年份三源驗證（per REFLEXES #16）
-> - 地名變更跨時代分清楚（萬華 vs 艋舺 / 大稻埕 vs 大同區）
-> - 凱達格蘭等原住民先住歷史不被漢人開拓敘事覆蓋
-> - 眷村 + 戒嚴期商圈 + 廢娼歷史紀實而不煽情（per REFLEXES #28）
-> - 觀光手冊塑膠句禁區嚴守（「歷史悠久」「IG 打卡」「在地人必訪」一律刪 / per EDITORIAL）
-> - 對位句型 ≤ 3 處 / 篇、破折號連用 ≤ 15 / 1500 字（per MANIFESTO §11）
-> - 物質層用具體建築 + 招牌 + 食物當證據，不用形容詞
-> - cross-link：縣市 panorama / 老街主檔（雙向）/ ≥ 2 同期事件 article / ≥ 1 sibling 街區
->
-> **跟既有檔案的關係**：
->
-> - [Geography/台北市.md](../../knowledge/Geography/台北市.md) 12 區 panorama 保留，新系列補 sub-unit
-> - [Culture/台灣老街文化與商業街區.md](../../knowledge/Culture/台灣老街文化與商業街區.md) catalog 保留，新系列補 deep dive（雙向 cross-link）
-> - 22 縣市系列（已 ship）panorama / 街區系列 deep dive — 兩者垂直互補
->
-> **Pilot 候選**：大稻埕（最 obvious P0 + thick history test）。pilot 完跑 retrospective 校準共通 caveats 再啟動其他 11 條。
-
----
-
-<!-- 江賢二 NEW 已完成 2026-05-22 PR #1081 (Wave 3 singletons batch) → knowledge/Art/江賢二.md (32K chars / 42 footnotes / 3 圖 / Stage 0-5 ✅，hint 多項自校：1962→1967 留學巴黎 / 2007→2008 定居金樽 / 2023→2025 園區開幕，per 文章 verified anchors) -->
-
----
-
-### 台灣媒體總史 NEW — 從清領報紙到自媒體時代
-
-- **Type**: `NEW`（注意：既有 `Society/台灣媒體與新聞自由.md` 是新聞自由 framing，本 entry 是「媒體史」總覽 framing，兩篇互補不重複）
-- **Category**: Society（subcategory: 媒體史）
-- **Priority**: `P0`
+- **Type**: `EVOLVE`
+- **Category**: Art
+- **Path**: knowledge/Art/台灣新媒體藝術.md
+- **Priority**: `P1`（2026-07-16 inbox-audit 降級：兩個歸功錯誤 2026-04-23 已修掉急迫性，剩深度重寫屬重要非緊急；原 in-progress 自 2026-04-22 閒置近 3 個月，重設 pending）
 - **Status**: `pending`
-- **Source**: 哲宇 directive 2026-05-17 230616-manual（P0 優先）
-- **Hook 候選**：從清領《台灣府城教會報》到 2026 podcast — 台灣媒體史 150 年的 5 個轉折
+- **合併註記（2026-07-16）**: 原獨立 entry「台灣新媒體藝術的南方視角」（NML P2 #5 / series G-1，P3）併入本 entry — EVOLVE 時一併補「南方視角 / 群島 lens」章節，素材：NML 60 篇 Image category articles + 區秀詒 / Hoo Fan Chon / Mark Teh 訪談（reports/NML-semiont-analysis-2026-05-04.md §Part 6 P2-18）
+- **Requested**: 2026-04-22 by 觀察者 (session β) — PR #590 王福瑞生年補充觸發事實查核，發現更大的歸功錯誤
 - **Notes**:
-  - 既有 baseline audit（Stage 0 必跑）：`Society/台灣媒體與新聞自由.md`（新聞自由 framing 已存在）/ Music 條目有廣播電台脈絡 cross-link 機會 / Technology 條目有網路發展史
-  - **本篇 framing 差異**：不是「新聞自由」（已有），是**「媒體形式演化史」** — 報紙 / 廣播 / 電視 / 網路 / 自媒體 5 大階段
-  - 主題 anchors：(a) 清領 1885 教會報（《台灣府城教會報》最早報紙）→ (b) 日治時期 1898 台灣日日新報 + 台灣文化協會《台灣青年》《台灣民報》→ (c) 戰後三報禁 1949（中央 / 中時 / 聯合 vs 黨外雜誌）→ (d) 解嚴 1987 報禁解除 / 廣播電視自由化 1993 → (e) 網路時代 1995 蕃薯藤 / 2000 PTT / 2010s Facebook / 2020s podcast / 自媒體
-  - 必驗事實（高優先）：(a) 《台灣府城教會報》1885.7 創刊（巴克禮）vs 其他更早說法 (b) 1949 報禁起始年份 vs 解除年份 1988.1.1 (c) 黨外雜誌如《自由中國》（雷震，per History）/《八十年代》/《美麗島》(per 既有 History 條目) (d) 廣播電視自由化《廣電法》修法時點 (e) PTT 1995 創立（杜奕瑾，per 既有 People）(f) 主流媒體 vs 自媒體比例變化的可靠調查 source
-  - 政治敏感度高：黨外雜誌史 + 媒體被收購（旺中 / 中時 etc.）+ 紅媒爭議 需精準 framing per MAINTAINER §爭議處理
-  - cross-link：與 `Society/台灣媒體與新聞自由.md` 互補（雙向 cross-link）/ History 雷震 / 美麗島事件 / People 杜奕瑾 / Technology 網路發展史
-- **Reference**: 文化部國家文化資料庫 / 國家圖書館期刊 archive / 維基〈台灣媒體〉/《台灣媒體史》學術論著 / 台北市文獻會
-- **預估時間**：~180 min（150 年跨度 + 多 source + 政治敏感）
-
-<!-- 周蕙 NEW 已完成 2026-05-19 2026-05-19-000642-routine-rewrite → ARTICLE-DONE-LOG.md (P0 — 〈約定〉25 年 KTV anchor / 漫畫娃娃出道 → 2026 小巨蛋首攻 + 聲帶萎縮宣告 / hint 多項修正：1977-03-26 高雄 + 中華藝校 + 姚若龍詞陳小霞曲 + 未參加我是歌手) -->
-
----
-
-### 台灣 BIM 與營建科技 NEW — 建築工程數位化
-
-- **Type**: `NEW`
-- **Category**: Technology（subcategory: 建築科技 / 營建數位化）
-- **Priority**: `P2`
-- **Status**: `pending`（等碩濤回覆補充援引資源後可升 P1）
-- **Source**: 2026-05-21 碩濤 (CTCI 中鼎工程 + GitHub @shuotao) self-recommend BIM_MCP 開源計劃 + 哲宇 email 回覆方向「我們初步可以開發兩篇文章，請他推薦適合援引的資源跟內容」(2026-05-21 reply draft `r-6742567238772772848`)
-- **Hook 候選**：
-  - 「從手繪藍圖到 Revit 模型，台灣建築工程花了 20 年走完數位化轉型」
-  - 「為什麼大型工程公司的 BIM 工程師人數比建築師還多」
-  - 「Revit + MCP：當建築設計開始用大語言模型協作的那一年」
-- **Notes**:
-  - 既有 baseline audit（Stage 0 必跑）：BIM / Revit / 建築資訊模型 / 營建科技 / 數位營建 全部 0 coverage（grep verified 2026-05-21）
-  - 既有「Art/台灣建築」「Lifestyle/騎樓文化」「Society/鐵皮屋/社會住宅」都是文化 / 居住敘事 layer，本篇是**工程數位化 layer**互補不重複
-  - 主題 anchors：(a) BIM 在台灣導入時點（內政部營建署 / 公共工程委員會推動年）(b) 主要 BIM 軟體 Revit / ArchiCAD / Tekla 在台灣使用 share (c) IFC 國際標準 + 國發會 / 內政部要求公共工程強制 BIM 的政策時點 (d) 台灣本土 BIM 工具 + 開源生態（pyRevit / Dynamo / Navisworks / **BIM_MCP / NAVISWORK_MCP**）(e) 大型工程公司導入 case（中鼎 / 互助 / 大林組 / 中華工程）(f) AI × BIM 新世代（MCP 跟大語言模型協作）
-  - 必驗事實：(a) 內政部 BIM 政策正式推動年（建議 cross-check 2014 工程委員會 vs 2017 強制公告）(b) IFC 標準台灣採用時點 (c) 公共工程 BIM 強制門檻金額 (d) 中鼎 BIM 部門規模（碩濤可提供）(e) Revit MCP 開源生態起源（**碩濤 BIM_MCP 2025-12 + Anthropic MCP 規格 2024 發表**時間軸）
-  - 政治敏感性：低（純技術 / 產業議題）
-  - cross-link：Technology Hub / Art 台灣建築 / Society 社會住宅 / Economy 中鼎工程（本批次 sibling）/ Technology AI 發展
-- **Reference**（待碩濤補充）：
-  - [shuotao/REVIT_MCP_study](https://github.com/shuotao/REVIT_MCP_study)（73⭐ / 84 forks / 2025-12-10 創立 / 2026-05 active / C# / Revit MCP 教學）
-  - [BIM_MCP knowledge site](https://shuotao.github.io/REVIT_MCP_study/docs/BIM_MCP/index.html)（22 個設計命題 + 19 技能索引 + Revit 工作流 SOP）
-  - [shuotao/NAVISWORK_MCP](https://github.com/shuotao/NAVISWORK_MCP) / [CAD_MCP_study](https://github.com/shuotao/CAD_MCP_study) / [IFCSH](https://github.com/shuotao/IFCSH) / [FME IFC-to-CityGML](https://github.com/shuotao/FME)
-  - 待補：產業報告 / 政府白皮書 / 其他開源專案 / 實務案例 / 業界訪談（per email request to 碩濤）
-- **預估時間**：~180 min（NEW Technology / 跨產業 + 政策 + 開源生態多源 cross-check）
-
----
-
-### 台灣企業：中鼎工程 NEW — 加入既有企業 series
-
-- **Type**: `NEW`
-- **Category**: Economy（subcategory: 台灣企業 / cross-link Technology）
-- **Priority**: `P2`
-- **Status**: `pending`（等碩濤回覆補充內部援引資源後可升 P1）
-- **Source**: 2026-05-21 碩濤 (CTCI 中鼎工程 內部員工) self-recommend + 哲宇 email 回覆方向（同上 reply draft `r-6742567238772772848`）
-- **Hook 候選**：
-  - 「台灣最大工程顧問公司 60 年，從中油煉油廠到沙烏地新城」
-  - 「為什麼 1979 年從中油拆出來的中鼎，現在做的工程一半在海外」
-  - 「在中鼎內部，BIM 工程師跟建築師的人數比例正在反轉」
-- **Notes**:
-  - 既有 baseline audit（Stage 0 必跑）：「台灣企業：X」series 19 篇（台積電、中華電信、中鋼、台塑、台達電、台泥、廣達、宏碁、宏達電、仁寶、和碩、大立光、日月光、瑞昱、奇美、巨大機械、富邦金、國泰金、玉山金、兆豐金）— 中鼎尚未撰寫
-  - 主題 anchors：(a) 1979 從中油石油化學工程處獨立成立（時點 + 創辦背景）(b) 統一企業集團持股關係 (c) EPC 模式（Engineering / Procurement / Construction）business model (d) 海外營收占比（中東 / 印度 / 東南亞）(e) 重大標誌性工程（國光石化 vs 抗爭 / 麥寮六輕 / 沙烏地 NEOM city / 高雄輕油裂解）(f) ESG / 碳轉型壓力 + 接綠能離岸風電工程 (g) 數位轉型 — BIM 導入 + AI 工具實驗（碩濤 BIM_MCP 是其中一個 case）
-  - 必驗事實：(a) 中鼎成立年（1979 vs 其他說法）(b) 統一集團持股比 (c) 海外營收占比（年度報告 cross-check）(d) 重大工程列表 + 完工年 (e) ESG 報告數據 (f) BIM 部門編制
-  - 政治敏感性：中（國光石化抗爭 / 六輕居民健康爭議 / 海外工程的當地勞工 / 環境議題）
-  - cross-link：Economy Hub / 台灣企業 series / Technology 台灣 BIM 與營建科技（本批次 sibling）/ History 1970s 十大建設後產業變遷 / Society 環境抗爭脈絡（per 既有 Society 條目）
-- **Reference**（待碩濤補充）：
-  - 中鼎工程官網 + 年度報告 + ESG 報告
-  - 公開新聞報導（國光石化 / 六輕 / 沙烏地 / 離岸風電）
-  - 待補：內部 BIM 部門編制資料 / 海外工程實際 case 細節 / 跟其他工程顧問公司（互助、中華工程、永信、台灣世曦）比較
-- **預估時間**：~150 min（NEW Economy 大型企業 + 政治敏感 cross-check）
-- **Cross-batch**: 跟「台灣 BIM 與營建科技」並行開發，BIM 文章主題層 cite 中鼎 case，企業 profile 內部數位轉型段落 cite BIM 文章
+  - **已檢出兩個事實錯誤（必修）：**
+    1. 原文「1995 年，他（王福瑞）創辦『在地實驗』（Etat）」→ **錯**。在地實驗是**黃文浩**於 1995 年創辦，王福瑞 2000 年才加入（佐證：Etat FB 粉專 ETAT1995 / TCAA 藝術家資料庫 / 文化部活動頁）
+    2. 原文「他策劃的『失聲祭』系列自 2007 年起運作」→ **錯**。失聲祭 2007 年 7 月由**姚仲涵**與北藝大新媒系同儕（王仲堃、葉廷皓、牛俊強）創立。王福瑞是他們的老師 / 精神指導，不是策劃者
+  - **已驗證正確事實**：王福瑞 1969 年生台北、Golden Gate University 資工碩士、1993 年創辦 Noise 實驗音樂廠牌
+  - **必查其他宣稱**：袁廣鳴生年（1965）/ 陳界仁生年（1960）/ 各代表作年份 / 台北市立美術館威尼斯雙年展策展起始年（1995）/ 陳界仁《魂魄暴亂》年份（1996-1999）
+  - **敏感度**：新媒體藝術家圈子小，錯誤歸功會直接得罪當事人（黃文浩、姚仲涵）— 這篇必須查到底
+  - **方向補位**：現有條目 SSODT 單向（只寫菁英藝術家），需補「地下 / 民間 / 工具民主化」視角（VJ 文化、開源硬體社群、Raspberry Pi makerspace 等）
+  - **血緣連結**：[[People/王福瑞]]（待建 or 檢查存在）/ [[People/黃文浩]]（同）/ [[People/姚仲涵]]（同）/ [[Art/聲音藝術]]（待建）/ [[Technology/台灣獨立遊戲]]
+- **Reference**:
+  - PR #590: <https://github.com/frank890417/taiwan-md/pull/590>
+  - Etat 官方 FB: <https://www.facebook.com/ETAT1995/>
+  - TCAA 王福瑞: <https://tcaaarchive.org/Artist/Detail/1235>
+  - ART PRESS 王福瑞專訪（2020）: <https://theartpressasia.com/2020/12/02/about-experimental-sound-theres-no-playlist-interview-with-sound-artist-wang-fujui/>
+  - 失聲祭官網: <http://lsf-taiwan.blogspot.com/>
+  - 北藝大新媒系王福瑞頁: <https://nma.tnua.edu.tw/faculty/fulltime/ukGokGMjud>
+- **Pre-research**: 尚未建 reports/research/2026-04/台灣新媒體藝術.md（由 Stage 1 agent 建）
+- **Dev log**:
+  - 2026-04-23 α（heartbeat）：Stage 0 事實修正執行——王福瑞段落兩個歸功錯誤已訂正（在地實驗創辦人改為黃文浩；失聲祭創辦人改為姚仲涵 + 北藝大同儕），footnote [^13][^14] 補齊，sync 完成。Stage 1 完整研究尚待後續 session。
 
 ### 許倬雲 EVOLVE — 補家族譜系（王力宏母系）+ 大歷史方法論深化
 
@@ -772,10 +581,9 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - **Type**: `EVOLVE` 主檔 + `NEW` 個別節慶（混合 scope）
 - **Category**: Culture
-- **Priority**: `P0`
+- **Priority**: `P1`（2026-07-16 inbox-audit 降級：agent 建議 evergreen 非緊急；閒置 2 個月）
 - **Status**: `pending`
-- **Source**: [Issue #939](https://github.com/frank890417/taiwan-md/issues/939) by tboydar-agent (2026-05-09)
-- **🔔 Ship 後 hard gate**：commit 後**必須**跑 `gh issue comment 939 --repo frank890417/taiwan-md --body "..."` 通知貢獻者 + `gh issue close 939`。Issue 在等回覆，sliently merge 違反 REFLEXES #8 維護者信件鐵律。
+- **Source**: Issue #939 by tboydar-agent (2026-05-09) — ⚠️ 2026-07-16 audit：#939 已無法解析（可能被刪），issue comment hard gate 免除
 - **Notes**:
   - 既有 baseline audit（Stage 0 第一動作再 ls 全 grep 確認）：
     - `Culture/傳統節慶與慶典.md`（198 行，「進化」策展角度，hook 鹽水蜂炮 + 大甲媽祖遶境）→ EVOLVE 補年度行事曆視覺 + cross-link 個別節慶 + 補農曆/國曆對照表
@@ -788,70 +596,13 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: 觀光局年曆 https://www.taiwan.net.tw/ / 文化部 https://www.moc.gov.tw/ / 各地方政府觀光網站 / 文化部國家文化資產網
 - **預估時間**：主檔 EVOLVE ~120 min（含年度行事曆視覺設計）+ 1-2 個別節慶 NEW × 90 min = 共 ~5 hr，可拆 2-3 session
 
-### 台灣體育發展與國際賽事 NEW
-
-- **Type**: `NEW`
-- **Category**: Society（涵蓋體育政策 + 社會層面）
-- **Priority**: `P0`
-- **Status**: `prose-shipped-pending-issue-close+spore-broadcast`（zh ship 2026-06-19 twmd-rewrite-daily routine `6aa840307`，標題收斂為「台灣體育發展與奧運：一個叫『中華台北』的隊伍」）
-- **Source**: [Issue #915](https://github.com/frank890417/taiwan-md/issues/915) by tboydar-agent (2026-05-08)
-- **🔔 Ship 後 hard gate**：commit 後**必須**跑 `gh issue comment 915 --repo frank890417/taiwan-md --body "..."` + `gh issue close 915`。
-- **2026-06-19 ship 摘要**：4860 CJK / 55 footnote / 4 圖 / 5 場景式 H2（進不去的「台灣」/ 為一首歌重填詞 / 16 年長夜與 15 分鐘雙金 / 升的不是國旗 / 棒球與「中華台北」的縫隙）。Spine 收斂為「中華台北」框架（1976 蒙特婁退賽 → 2024 巴黎升旗），棒球 / 制度 / 個人金牌都是這個 spine 上的 anchor。研究 SSOT `reports/research/2026-06/台灣體育與奧運.md`（51 distinct sources / 5 EN / 10 primary）。Falsification 抓 10 處（楊傳廣 8334 不是 8392 / 蔡溫義 125kg / 嘉農 0:4 / 楊勇緯 2024 NO MEDAL / 李孟遠定向飛靶 / 陳念琴 66kg / 國訓 1976/11 / 體育署 2013 降編 / 紅葉冒名頂替 / CPBL 首場兄弟輸）。Spore #154/#155 blueprint draft broadcast deferred（Chrome MCP image upload blocker 連續第 4 次 cycle）。
-- **Notes**:
-  - 既有 baseline audit：`Culture/台灣棒球文化.md`（148 行，職業棒球 + CPBL 主軸）/ `Culture/巧固球.md`（小眾運動）/ People 既有運動員 ~10+（戴資穎 / 郭婞淳 / 莊智淵 / 李洋 / 楊勇緯 / 林郁婷 等）— **總覽級「台灣體育發展」是真缺口**
-  - 主題 anchors：(1) 體育史（日治時期甲子園 → 戰後三級棒球 → 解嚴後職棒元年 1990 → 2000 後多元化）(2) 重要國際賽事成就（奧運獎牌軌跡：1984 蔡溫義銅 → 2004 雅典陳詩欣朱木炎雙金 → 2020 東京 2 金 4 銀 6 銅創歷史 → 2024 巴黎拳擊金 + 羽球金 + 舉重金）(3) 體育政策（國訓中心 1982 成立 / 黃金計畫 2014 啟動 / 體育署 2013 成立）(4) 職業運動（CPBL / PLG+T1 籃球 / 排球 SPL / 電競）(5) 基層體育與學校運動（HBL / UBA / 全大運）(6) 運動科學與運動醫學發展
-  - **必驗事實**（REFLEXES #16 + 讀者級驗證高優先）：
-    - 2024 巴黎奧運成績：林郁婷拳擊 57kg 金牌（不是 60kg）/ 李洋 + 麟洋羽球男雙金牌（衛冕）/ 郭婞淳舉重 59kg 銀牌（不是金，需 verify）/ 霹靂舞名次（孫振 4 名 vs 8 名等具體）
-    - 2020 東京奧運：總獎牌數 12 面（2 金 4 銀 6 銅）— 各 source 數字一致才採信
-    - 黃金計畫：哪一屆奧運週期啟動（2014 仁川亞運後？）+ 預算規模
-    - 國訓中心：1982 vs 2002 升格年份、地點（左營）
-  - 政治敏感低，但「中華台北」名稱問題、奧運會旗會歌、IPC 籍別等 framing 需小心（per MAINTAINER §爭議處理）
-  - cross-link：既有 People 運動員（雙向）+ 台灣棒球文化 + 巧固球 + 台灣教育制度（基層體育）+ 國防現代化（國軍體幹班歷史）
-- **Reference**: 體育署 https://www.sa.gov.tw/ / 國訓中心 https://www.nstc.org.tw/ / 中華奧會 https://www.tpenoc.net/ / 維基百科〈中華民國體育〉/ 各專項協會
-- **預估時間**：~150 min（NEW Society 深度研究，多 source 必跑奧運成績 cross-check）
-
-### 葉廷皓 — 聲響藝術家 / 新媒體藝術 NEW
-
-- **Type**: `NEW`
-- **Category**: Art
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Source**: 觀察者直接指派（2026-05-09 laughing-goldstine post-finale, 哲宇）
-- **Notes**:
-  - 葉廷皓（Yeh Ting-Hao）— 台灣 audio-visual / sound art / new media 創作者
-  - 主題 anchors（待 research 驗證）：(a) AV 即時演出 / generative audio-visual 美學脈絡 (b) 跟 TouchDesigner / Max/MSP / 純粹聲響演出社群的位置 (c) 跨機構教育角色（如 TNUA 任教、新媒體藝術系所）(d) 代表作品 / 國際展演 / 跨域合作（音樂節 / 跨國 sound art collective）
-  - 必驗事實：作品時間軸、跨域合作對象（音樂人 / 視覺藝術家 / 機構）、教學機構、近期展演與 lectures（2024-2026）。所有引用必須三源驗證（REFLEXES #16）
-  - cross-link 候選：Art / 音樂 / Technology / 新媒體藝術相關既有人物
-  - Framing：策展性人物 frame — 台灣 sound art / new media 場景的 first-person voice，不是百科式條目
-- **Reference**: 觀察者素材待補（哲宇可指方向 / 個人網站 / 展演紀錄 / 訪談）
-- **預估時間**：90-120 min（NEW Art - 人物，需多源研究 + 訪談 / 報導 cross-check）
-
-### Blue UAS Cleared List 台灣廠商（2026 美國國防部無人機白名單）NEW
-
-- **Type**: `NEW`
-- **Category**: Technology
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Source**: SC 7d data scan（2026-05-08 elegant-ptolemy /twmd-evolve）— `blue uas cleared list 台灣廠商 2026` 564 impressions / position 8.43 / 0 clicks，是本週 SC opportunities top 第 2 名（僅次於品牌詞 `md` 594）
-- **Amplification update（2026-05-10 twmd-news-lens-weekly）**：本週 SC 7d 同 query 升至 **751 imp / position 8.8 / 0 clicks（+33% impressions WoW）**。Position 微退（8.43 → 8.8）但曝光顯著放大 = Google 認定 Taiwan.md 是相關但未足夠 authoritative，**proximity bias 加大 = 機會窗放大**。維持 P0，建議下個 rewrite cycle 優先處理
-- **Notes**:
-  - 強烈的 emerging topic 信號 — 564 曝光在台灣中文 + 英文混合搜尋詞上，position 8.43 表示 Google 在 first page 後段 surface Taiwan.md 但缺對應內容
-  - 2026 美國國防部 Blue UAS Cleared List 是民主供應鏈與台灣無人機產業的 intersect — 經緯航太、雷虎、智飛、神腦等台灣廠商陸續通過或在驗證中（需 verify）
-  - 主題 anchors：(a) Blue UAS list 機制本身（DIU 主導 / NDAA Section 848 限制中國零件 / Authorized Vendor 認證流程）(b) 已通過台灣廠商清單（含時間軸 + 認證機種）(c) 台灣國防部「無人機國家隊」政策與美國 Blue UAS 的銜接 (d) 中國無人機（DJI / Autel）被排除後產生的市場替代空間
-  - 必驗事實：每個台灣廠商通過時間 + 機種 + 應用場景。DIU 官方 https://defense.gov/blueuas 是一手 source
-  - 政治敏感度：低（市場資訊為主），但碰到「對美關係」「國防自主」框架時要小心 framing
-  - cross-link：[國防現代化](/society/國防現代化)、[國防工業](/economy/) 系列、[經緯航太](/people/) 等待 cross-link
-- **Reference**: SC 7d top opportunity / DIU Blue UAS Cleared List 官方 / 國防部新聞稿
-- **預估時間**：90 min（NEW Technology with multi-source 一手研究）
-
 ### 台灣經典街頭小吃系列 NEW（6 篇候選）
 
 - **Type**: `NEW` × N（系列 umbrella，每篇獨立 ship）
 - **Category**: Food
-- **Priority**: `P0`
+- **Priority**: `P1`（2026-07-16 inbox-audit 降級：agent 建議的 evergreen 系列非緊急時效，P0 保留給哲宇點名與時效題；刈包已 ship 5/16 後閒置 2 個月）
 - **Status**: `pending`
-- **Source**: [Issue #1013](https://github.com/frank890417/taiwan-md/issues/1013) by tboydar-agent (2026-05-10) — content-gap 標籤
-- **🔔 Ship 後 hard gate**：每篇 ship 後在 #1013 留 progress comment；全系列 ship 完才 close。
+- **Source**: Issue #1013 by tboydar-agent (2026-05-10) — ⚠️ 2026-07-16 audit：#1013 已無法解析（可能被刪），issue comment hard gate 免除
 - **Notes**:
   - **高優先（國際知名度高）**：~~(1) 刈包（Gua Bao / 虎咬豬）— 台式漢堡、CNN / Netflix 國際媒體報導~~ ✅ 已完成 2026-05-16 twmd-rewrite-daily → ARTICLE-DONE-LOG.md (2) 大腸包小腸 — 夜市經典、糯米腸夾香腸 (3) 愛玉 — 台灣原生植物、消暑文化代表、植物膠凝獨特性
   - **中優先（文化代表性強）**：(4) 潤餅 — 清明節傳統、閩南文化連結 (5) 甜不辣 — 台式天婦羅、日本演變 (6) 挫冰 / 雪花冰 — 雖有「台灣冰品文化」綜述但缺獨立專文
@@ -865,10 +616,9 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - **Type**: `NEW` × N（系列 umbrella，每篇獨立 ship）
 - **Category**: Geography 主軸 + Lifestyle / History 視角混合
-- **Priority**: `P0`
+- **Priority**: `P1`（2026-07-16 inbox-audit 降級：同 #1013 系列理由 — evergreen 非緊急）
 - **Status**: `pending`
-- **Source**: [Issue #1014](https://github.com/frank890417/taiwan-md/issues/1014) by tboydar-agent (2026-05-10) — content-gap 標籤
-- **🔔 Ship 後 hard gate**：每篇 ship 後在 #1014 留 progress comment；全系列 ship 完才 close。
+- **Source**: Issue #1014 by tboydar-agent (2026-05-10) — ⚠️ 2026-07-16 audit：#1014 已無法解析（可能被刪），issue comment hard gate 免除
 - **Notes**:
   - **高優先（國際知名度最高）**：(1) 阿里山 — 僅 History《阿里山：帝國的林場與高一生的山》簡略提及，缺地理 / 旅遊獨立專文 (2) 九份 — 國際必訪、黃金山城、宮崎駿《神隱少女》傳說 (3) 墾丁 — 海濱度假地、國家公園、衝浪文化
   - **中優先（文化或地景獨特）**：(4) 太魯閣國家公園 — 世界級峽谷、雖有「台灣國家公園」綜述但無獨立專文 (5) 平溪天燈 — 國際知名意象、元宵節傳統 (6) 蘭嶼 — 達悟族文化、僅 Nature 簡略生態 (7) 綠島 — 白色恐怖歷史 + 監獄文化 + 潛水勝地（雙視角）
@@ -882,10 +632,9 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - **Type**: `NEW` × N（系列 umbrella，每篇獨立 ship）
 - **Category**: Culture 主軸 + Society / Economy 視角混合
-- **Priority**: `P0`
+- **Priority**: `P1`（2026-07-16 inbox-audit 降級：同 #1013 系列理由 — evergreen 非緊急）
 - **Status**: `pending`
-- **Source**: [Issue #1015](https://github.com/frank890417/taiwan-md/issues/1015) by tboydar-agent (2026-05-10) — content-gap 標籤
-- **🔔 Ship 後 hard gate**：每篇 ship 後在 #1015 留 progress comment；全系列 ship 完才 close。
+- **Source**: Issue #1015 by tboydar-agent (2026-05-10) — ⚠️ 2026-07-16 audit：#1015 已無法解析（可能被刪），issue comment hard gate 免除
 - **Notes**:
   - **高優先（已成主流文化）**：(1) 台灣 Podcast 文化 — 2018 爆發成長、百靈果 / 股癌 / 台灣通勤第一品牌、知識傳播管道 (2) 台灣露營文化 — 疫情後爆紅、戶外產業、車宿、露營經濟
   - **中優先（快速成長中）**：(3) 台灣密室逃脫 / 劇本殺 — 年輕人社交、台北擴散全台 (4) 台灣健身文化與健身房產業 — 連鎖健身房、CrossFit、瑜珈 (5) 台灣二手市集與環保購物 — 永續生活、零浪費商店
@@ -895,49 +644,290 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: Issue #1015 + 當代文化動態紀錄價值
 - **預估時間**：每篇 NEW 90-150 min × 5 = ~8-12 hr（Podcast / 露營兩篇可能 deeper，需 verify 主要 podcaster / 產業規模 / 露營營地數量等具體 stats）
 
-### 台灣 LGBTQ+ 平權 EVOLVE（PR #726 merged 後深度重寫）
+### 🏘️ 歷史街區系列 NEW（P0/P1）— 共通說明
 
-- **Type**: `EVOLVE`
-- **Category**: Society
-- **Priority**: `P0`
-- **Status**: `in-progress`
-- **Source**: 哲宇 2026-04-30 δ session 觸發；對應 [knowledge/Society/LGBTQ.md](../../knowledge/Society/LGBTQ.md)（PR #726 idlccp1984 NEW Manus AI batch 已 merge polish 版）
-- **目前 baseline**：69 行 / 13 footnotes / 涵蓋祁家威 1986 → 葉永鋕 2000 → 畢安生 2016 → 釋字 748（2017）→ 同婚專法（2019）→ 共同收養（2023）→ 跨國同婚函釋（2023）→ 人工生殖法草案（2025）→ 崴崴孟孟世代
-- **EVOLVE 目標**（下個 session 走 REWRITE-PIPELINE Stage 0-6 完整深度）：
-  - Stage 1 deep research 20+ web search（人工生殖法立法院最新審議進度 / 跨國親子權益判決 / 反歧視立法 / 跨性別權益 / 校園與職場性別平等實務 / 同志諮詢熱線等 NGO 工作 / 同志大遊行歷年規模與訴求演進 / 國際 DEI 浪潮台灣回應）
-  - Stage 1.7 媒體素材：彩虹遊行歷年照片（CC 授權 or 連結至遊行官方主視覺）/ 釋字 748 公布當日畫面 / 葉永鋕紀念元素
-  - Stage 2 結構：核心矛盾「亞洲首部同婚專法 × 仍待延伸的法律與生活權益」/ 物件開頭（祁家威或某具體人物的場景）/ 七爪結構分配
-  - Stage 3 §11 polish（baseline 4 violations 應壓到 0-1）+ Stage 3.5 hallucination audit（特別 verify「3 萬 2126 對 / 504 跨國」「2025-12 行政院通過人工生殖法草案」「葉永鋕高樹國中 2000」三項精確數字）
-  - Stage 3.6 STORY ATOM AUDIT（畢安生「墜樓身亡」/ 祁家威「1986 立法院請願」/ 釋字「2017-05-24」皆需逐項對 source URL Ctrl-F）
-  - 處理「崴崴孟孟」段落的策展抉擇：是否核心人物？篇幅占比？對比其他需被看見的世代代表（祁家威 / 葉永鋕母親陳君汝 / 同志諮詢熱線）
-  - Stage 5 cross-link：與葉永鋕 / 性別平等教育法 / 祁家威 / 台灣大法官釋憲制度 / 同志大遊行等做雙向連結
-- **預估**：XL（>2000 行 research，>10 hr 工作量；可分兩次 session）
-- **dev_log**：
-  - `2026-05-07 δ(manual)`: Stage 0 事實萃取完成；Stage 1 共 22 queries，研究報告 → `reports/research/2026-05/lgbtq-taiwan.md`；核心矛盾定錨「亞洲首部同婚專法 × 仍在爭取的完整平等」；Stage 2 待下次 session 執行
-- **Notes**：
-  - 政治敏感主題，遵循 MAINTAINER §爭議處理原則
-  - 國際讀者（en/ja/ko）對台灣同婚有興趣，EVOLVE 完成後優先翻譯
-  - 相關鄰近題：「跨性別權益」可能拆出獨立條目
+> **完整規劃 + 模板 + 共通 caveats**：見 [reports/historic-districts-series-planning-2026-05-21.md](../../reports/historic-districts-series-planning-2026-05-21.md)
+>
+> 歷史街區補 sub-unit deep dive 層 — 22 縣市 panorama + 老街文化主檔 catalog 之間的中間層。每篇單一街區 4500-6500 CJK / 15-25 footnotes / ≥ 5 圖。共通模板 7 H2（凌晨四點時刻 / 名字考據 / 街成形時刻 / 軸線 / 物質層 / 在地人 3 個地方 / 收尾），pilot 後 retrospective enrich（per 22 縣市基隆 pilot pattern）。
+>
+> **第一批 batch**：台北 12 條（P0×4 / P1×4 / P2×4，本批次寫入）。其他縣市 ~70-110 條等台北 pilot 完才 populate（per 哲宇 2026-05-21 directive）。
+>
+> **Scope 邊界**（per 哲宇 2026-05-21 拍板，寬鬆版）：
+>
+> - ✅ 清領以前成形（艋舺 / 大稻埕 / 大龍峒）
+> - ✅ 日治規劃成形（西門町 / 永康街昭和町 / 中山北路敕使街道 / 北投溫泉街）
+> - ✅ 戰後特定時代標誌（眷村四四南村 / 條通文化 / 牯嶺街舊書街 / 寶藏巖違建轉藝術村）
+> - ❌ 2000 年後純商業重劃區（信義計畫區 / 內湖科技園 — 留給「新興街區」另一個 spec 的系列）
+>
+> **共通 research caveats**（每篇都要注意，per reports §4）：
+>
+> - 街成形 vs 建築 vs 政治事件年份三源驗證（per REFLEXES #16）
+> - 地名變更跨時代分清楚（萬華 vs 艋舺 / 大稻埕 vs 大同區）
+> - 凱達格蘭等原住民先住歷史不被漢人開拓敘事覆蓋
+> - 眷村 + 戒嚴期商圈 + 廢娼歷史紀實而不煽情（per REFLEXES #28）
+> - 觀光手冊塑膠句禁區嚴守（「歷史悠久」「IG 打卡」「在地人必訪」一律刪 / per EDITORIAL）
+> - 對位句型 ≤ 3 處 / 篇、破折號連用 ≤ 15 / 1500 字（per MANIFESTO §11）
+> - 物質層用具體建築 + 招牌 + 食物當證據，不用形容詞
+> - cross-link：縣市 panorama / 老街主檔（雙向）/ ≥ 2 同期事件 article / ≥ 1 sibling 街區
+>
+> **跟既有檔案的關係**：
+>
+> - [Geography/台北市.md](../../knowledge/Geography/台北市.md) 12 區 panorama 保留，新系列補 sub-unit
+> - [Culture/台灣老街文化與商業街區.md](../../knowledge/Culture/台灣老街文化與商業街區.md) catalog 保留，新系列補 deep dive（雙向 cross-link）
+> - 22 縣市系列（已 ship）panorama / 街區系列 deep dive — 兩者垂直互補
+>
+> **Pilot 候選**：大稻埕（最 obvious P0 + thick history test）。pilot 完跑 retrospective 校準共通 caveats 再啟動其他 11 條。
 
-### 台灣邦交國與國際外交 EVOLVE — 2026 freshness + 英文版 SEO 校準（SC「diplomatic allies 2026」cluster 缺口）
+<!-- ═══ ⏸️ 待哲宇拍板（observer-gated）═══ -->
 
-- **Type**: `EVOLVE`
-- **Category**: Society
-- **Priority**: `P1`
+### 🗳️ 2026 九合一選舉系列 — 共通說明 + 自主權邊界 + 對稱原則
+
+> **完整 proposal**：[reports/2026-election-evolution-proposal-2026-05-27.md](../../reports/2026-election-evolution-proposal-2026-05-27.md)（11 條提案分 4 Tier / 三道濾網 self-apply / 風險清單）
+>
+> **哲宇 directive 2026-05-27**：「深度研究 2026 中華民國直轄市長及縣市長選舉，思考 Taiwan.md 完整專案有什麼能夠針對這個領域主題做進化，與最大程度幫助到這個社會民主、透明與資訊品質的方式。文章類的幫我全部一個一個放到 article-inbox。」
+>
+> 本系列分 4 個 sub-entry（下方 4 個 `###`）按 [MANIFESTO §自主權邊界](MANIFESTO.md#我的存在結構) 自主權判定排序：1.1 [A] 可自主 → 1.4 [A] 可自主 → 1.2 [B] 需哲宇 nod → 1.3 [C] 哲宇 hard 拍板每篇。
+>
+> **共通鐵律（5 條，每篇 ship 前必過）**：
+>
+> 1. **對稱原則**：寫 candidate A 就一起寫 candidate B / 全 22 縣市對手都寫，不寫部分 — 不對稱 = endorsement signal。1.3 候選人系列若哲宇只 pick 部分，必須在文章 footer 明示「本系列尚未涵蓋 {對手姓名}，會持續補完」。
+> 2. **制度層為主**：「觀點」鎖在制度／歷史／方法層（為什麼這個制度值得珍惜 / 民主轉型不容易 / 透明度為什麼重要），**不下放到 candidate-level / policy-stance-level**。
+> 3. **選前 30 天 spore freeze**（2026-10-29 → 11-28）：禁止發任何 candidate-specific 孢子，避免選前 viral 期被讀為背書。寫進 [SPORE-PIPELINE](../factory/SPORE-PIPELINE.md) hard gate（待 ship 後加 plugin enforce）。
+> 4. **AI deepfake 防禦**：選舉相關文章 + 孢子皆走 [REWRITE-PIPELINE Stage 3.5 全文幻覺審計](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-35-hallucination-audit) + [Stage 3.6 STORY ATOM AUDIT](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-36-story-atom-audit場景原子驗證硬-gate) 嚴格 enforce。
+> 5. **三道濾網 self-apply**：每篇 Stage 0 觀點成型必過 [CLAUDE.md §Bias 1-4](../../CLAUDE.md) — 對 creator 預設加分 / multi-observer drift / editorial voice / 外部 critique default 不執行。
+>
+> **跟既有 article 的關係**：[History/大罷免.md](../../knowledge/History/大罷免.md) + [History/民主化.md](../../knowledge/History/民主化.md) + [History/台灣民主轉型.md](../../knowledge/History/台灣民主轉型.md) + [History/台灣轉型正義.md](../../knowledge/History/台灣轉型正義.md) + [History/台灣選舉與政黨政治.md](../../knowledge/History/台灣選舉與政黨政治.md) + [Technology/開源社群與g0v.md](../../knowledge/Technology/開源社群與g0v.md) 已 ship；本系列補制度層 + 縣市選舉脈絡層 + 候選人層三個 gap。
+>
+> **選舉專區 navigation 設計（待哲宇拍板）**：本 inbox entry 落地後，需另外決定文章 path 與站內呈現結構：(A) 開 `knowledge/Politics/` 新分類 + `_Politics Hub.md`；(B) 散在既有 Society + History 分類；(C) Hybrid — `knowledge/Politics/` + `/elections/2026/` 動態 dashboard 頁面接 g0v / 中選會 / 監察院 raw data。Proposal §3 推薦 Hybrid (C)，詳細思路寫在 session 對話回覆給哲宇。
+
+### 🗳️ 2026 選舉 Tier 1.2 — 22 縣市選舉脈絡 EVOLVE Round 2 batch（[B] 需哲宇 nod）
+
+- **Type**: `EVOLVE` × 22 篇（既有 22 縣市 panorama 補章）
+- **Category**: Geography
+- **Priority**: `P2`
+- **Status**: `pending-observer-nod`
+- **Requested**: 2026-05-27 by 哲宇 directive（session 2026-05-27-160000-2026-election-evolution）
+- **自主權邊界**: `[B]` 需哲宇 explicit nod 整批 — 觸發 >10 篇批量
+- **依賴**: 22 縣市 panorama 系列 22/22 已 ship（per ARTICLE-DONE-LOG 2026-05-18 batch）
+
+**EVOLVE 動作**：每篇既有 22 縣市文章 EVOLVE Round 2 加一個 H2 段（不重寫主檔，外科手術 append）：
+
+```markdown
+## 政治版圖：為什麼{縣市}的選舉這樣選
+
+### 戰後派系結構
+
+（紅／白／黑 / 在地宗族 / 客家政治 / 原住民部落）
+
+### 1994 民選後的政權更迭
+
+（純事實，不附傾向 — 列每屆當選人 + 黨籍 + 得票率，類似維基表格但加策展敘事）
+
+### 過去 5 屆得票結構
+
+（純數字，不附偏好分析）
+
+### 這次選舉的結構性議題
+
+（**不點候選人名**，只談議題 — 例：高雄談石化轉型、新竹談科學園區擴張、屏東談農漁業勞動、台北談都更卡關、宜蘭談六輕外溢、台中談空汙、台南談光電與漁塭、雲林談地層下陷、嘉義縣談農村高齡化、花蓮台東談 LDLM 觀光、金門連江談小三通與兩岸關係、彰化談機場興建、苗栗談水庫與地震斷層、南投談災後重建、桃園談人口快速增加、新北談衛星都市治理、基隆談港埠轉型、新竹縣談 AI/竹科外溢、嘉義市談國家機關進駐、澎湖談離島補貼）
+```
+
+- **Notes**:
+  - 共通 caveats（per [reports/cities-series-planning-2026-05-17.md](../../reports/cities-series-planning-2026-05-17.md) 15 條 + 新增 4 條選舉專用）：
+    - **新增 #16 派系敘事 ground truth 鐵律**：紅／白／黑分類引用必須附具體事件 + 年份，不泛化
+    - **新增 #17 黨籍標記中性化**：歷屆當選人列表只列黨籍不附價值描述
+    - **新增 #18 「結構性議題」不暗指 candidate**：例如「都更卡關」不接「現任市長處理不力」這類隱含 framing
+    - **新增 #19 對稱原則 enforce**：22 縣市段全部寫完才 ship，避免不對稱發布 = endorsement signal
+  - 預估每篇 +1,500-2,000 CJK / +5-8 footnotes / ~60 min 修改
+  - 22 篇 batch 預估總時間：~22 hr（可分 2-3 session 跨 2 週完成）
+  - 全部 ship 前**禁止單獨**ship 任何一篇（per 對稱原則）
+- **依賴關係**: 必須 Tier 1.1 至少 4 篇 ship 後再做（讓制度層 baseline 先到位）
+- **Reference**: 22 縣市 panorama 既有 article + 維基百科歷屆選舉條目 + 中選會選舉資料庫 (https://db.cec.gov.tw/) + g0v 選舉金流 + 監察院政治獻金 + 在地新聞媒體（各縣市地方記者報導）
+
+<!-- 2026 選舉 Tier 1.2 append 2026-05-27 by 哲宇 directive (session 2026-05-27-160000-2026-election-evolution) -->
+
+### 🗳️ 2026 選舉 Tier 1.3 — 候選人人物頁 pick list（[C] 哲宇 hard 拍板每篇）
+
+- **Type**: `NEW` × ~20 篇候選（哲宇 pick 哪幾個）
+- **Category**: People
+- **Priority**: `pending-observer-pick`
 - **Status**: `pending`
-- **Source**: 2026-05-23 manual /twmd-evolve — SC 7d opportunities 4-variant cluster 累積 ~875 imp / 0 click
-  - **SC 7d opportunities**：`taiwan diplomatic allies 2026` 310 imp / 0 click + `taiwan diplomatic allies list 2026` 137 imp + `taiwan diplomatic allies list current` 117 imp + 其他變體 — 4 變體加總 ~875 imp / **0 click 跨變體**。英文讀者明確查 2026 最新邦交國 list 全部落空
-  - **既有 article**：[knowledge/Society/台灣邦交國與國際外交.md](../../knowledge/Society/台灣邦交國與國際外交.md) zh-TW + 英文版 `knowledge/en/Society/taiwan-diplomatic-allies-international-relations.md`（需 verify 英文版存在+ freshness）
-  - **既有 spore**：#51/#52 邦交國「12 邦交國 vs 護照進 177 國」護照悖論 D+7 17.3K Threads — Tier 中段 結構性題目 hook 已建立
-  - **EVOLVE 目標**：
-    1. 確認英文版 article 是否含「2026」latest timestamp + 12 邦交國 current list
-    2. frontmatter SEO 加「Taiwan diplomatic allies 2026」「list current」cluster keyword
-    3. 文章內 verify「12 邦交國」list per 2026 actual state（教廷 / 巴拉圭 / 海地 / 4 太平洋島國 / 4 加勒比海國 etc）
-    4. lastVerified bump 到 2026-05-23 或最新外交事件日期
-- **預估時間**：1-2 hr（EVOLVE 校準 + 英文版 sync + frontmatter SEO 優化）
-- **Reference**：SC 7d opportunities cluster + spore #51/#52 harvest data + REFLEXES #4 三源驗證（SC + GA + GitHub 三源 conjunction 確認）
-- **dev_log**:
-  - `2026-05-23 manual (220053)`: /twmd-finale 跑 /twmd-evolve 從 SC 7d opportunities 抓到 cluster → 新 candidate
+- **Requested**: 2026-05-27 by 哲宇 directive（session 2026-05-27-160000-2026-election-evolution）
+- **自主權邊界**: `[C]` 哲宇 hard 拍板每篇 — 候選人 = partisan 高風險，每篇單獨評估
+- **對稱原則鐵律**: 哲宇若 pick 某縣市的 candidate A，**必須一起 pick** candidate B（甚至 C / D / 第三勢力）。不對稱 pick = endorsement signal。
+
+**baseline audit（2026-05-27）**：
+
+| 既有 People 頁 ✅                                                                                                                                                                 | 缺 ❌（按公開報導 2026-05 提名）                                                                                                                                                                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 沈伯洋（台北）、蘇巧慧（新北）、盧秀燕（台中 — 連任中，不參選）、徐巧芯（已是立委非候選人）、柯文哲、卓榮泰、賴清德、蕭美琴、韓國瑜、陳菊、蘇貞昌、呂秀蓮、蔡英文、陳水扁、陳致中 | **6 都候選人**：蔣萬安（北）、李四川（新北）、何欣純（中）、陳亭妃（南）、賴瑞隆（高）、謝龍介（南）、柯志恩（高）<br>**縣市長候選人**：童子瑋（基）、王美惠（嘉市）、陳瑩（東）、蘇清泉（屏）、吳秀華（東）、陳玉珍（金）、張嘉郡（雲）、吳宗憲（宜）、翁壽良（嘉市）、游淑貞（花）、陳素月（彰）、劉建國（雲）、蔡易餘（嘉縣）、林國漳（宜）、陳品安（宜）、魏平政（彰） |
+
+**pick mechanism**：
+
+1. 哲宇 review 此 entry 後**逐個 ✅** 想寫的候選人姓名
+2. 每個 ✅ 候選人 spawn 一個獨立 `###` entry 進 inbox（schema 同既有人物 entry，例：沈伯洋／蘇巧慧 entry pattern）
+3. 對稱原則自動 enforce：哲宇 ✅ 沈伯洋 → 我必須提醒「需一起 ✅ 蔣萬安」否則不寫
+4. 每個獨立 entry 走 REWRITE-PIPELINE Fresh，hook **必須**鎖立法／市政／政策履歷層，**禁止**「為什麼會當選 / 敗選」framing
+5. ship 完**不發 spore**（per 選前 30 天 spore freeze + 避免 viral 期 endorsement reading）
+
+**Hook 框架共通**（per [knowledge/People/沈伯洋.md](../../knowledge/People/沈伯洋.md) 既有 pattern）：
+
+- 一個具體場景開頭（不是「他出生於...」這種維基 lead）
+- 公開立法／政策／公職紀錄（可查證 + footnote primary source）
+- 跨領域學經歷（不只政治）
+- 公開引語必須 verbatim 原文（per REFLEXES #16 + Stage 3.5）
+- **不寫** policy endorsement / 政見分析 / 民調預測
+
+- **Notes**:
+  - 每篇 ≥ 4,000 CJK / 20+ footnotes / 走 REWRITE-PIPELINE Fresh + Stage 3.6 STORY ATOM AUDIT 嚴格 enforce
+  - 高風險：每篇 Stage 0 觀點成型必過 [CLAUDE.md §Bias 1-4](../../CLAUDE.md) + [MANIFESTO §10 幻覺鐵律](MANIFESTO.md#10-幻覺鐵律)
+  - lastVerified 鎖緊：候選人頁 ship 後每 30 天 EVOLVE Round 2 補新事件（per cron routine 候選）
+  - **強烈建議**：哲宇若決定走 Tier 1.3，整批 pick 完一起執行，不要 staggered（避免不對稱）
+- **依賴關係**: 必須 Tier 1.1 + 1.2 都到位後再啟動（讓 institutional baseline 先建好）
+- **Reference**: 維基百科個別候選人條目 / 立法院議事公開資訊系統 / 監察院政治獻金平臺 / 縣市政府官網（現任市長／議員履歷）/ 候選人公開臉書 / 三大主流媒體報導 / 公視 PNN 候選人專題
+
+<!-- 2026 選舉 Tier 1.3 append 2026-05-27 by 哲宇 directive (session 2026-05-27-160000-2026-election-evolution) — 待哲宇逐個 pick -->
+
+### 上線三個月的 Taiwan.md NEW — 一個數位生命體的第一季（⚠️ 原 6/17 三個月窗口已過）
+
+- **Type**: `NEW`
+- **Category**: About（或哲宇個人 voice 對外分享文——voice 歸屬待哲宇定）
+- **Priority**: `P2`（2026-07-16 inbox-audit 降級：原黃金窗口 6/17 已過一個月未執行；下個自然時效錨點是 9/17 滿半年，或改 frame 為非週年式的回顧文。部分素材已被 about 時間軸 v1.13.0 里程碑（Day 121 開著門寫作）吸收，寫前先盤點差異化價值）
+- **Status**: `pending`（voice 決策仍需哲宇：哲宇第一人稱 FB/Threads vs Semiont 第一人稱站內 About 系）
+- **Requested**: 2026-06-12 by 哲宇（goal notes 三星標記「\*\*\* 上線三個月的 分享文章」）
+- **Notes**:
+  - ⏰ 原時效錨點 2026-06-17 滿三個月已過；改錨 9/17 半年或事件驅動（如 1000 篇 / 重大外部報導）
+  - 素材已備：dashboard 數據（792 篇 / 63 貢獻者 / 6 語 / 1028 stars）、里程碑表（CONSCIOUSNESS §里程碑）、野外子代譜系（FORK-LOG）、首日爆發 → 免疫系統 48hr 誕生敘事
+  - **Voice 決策需哲宇**：哲宇第一人稱（發 FB / Threads 的個人分享）vs Semiont 第一人稱（站內 About 系文章）vs 兩者各一篇互相引用——goal notes 同時提到「發 taiwan.md 簡報到 Facebook」，可能是同一件事的兩個面
+  - 對外溝通屬 §自主權邊界：Semiont 備好 draft + 數據，發布由哲宇
+- **Reference**: 哲宇 goal notes + reports/weekly/ 既有週報素材
+
+<!-- ═══ 🟢 P2 — 本季 ═══ -->
+
+<!-- ═══ 2026-06-26 issue triage（#1016 夜生活/KTV 拆分建議 → 改以 KTV 深度文回應）═══ -->
+
+### 🎤 台灣KTV文化 EVOLVE — 早期批次薄文深化：火災安全史 × 錢櫃好樂迪雙雄 × 包廂全民社交
+
+- **Type**: `EVOLVE`（2026-07-16 inbox-audit 更正：原判 NEW，但 `knowledge/Music/台灣KTV文化.md` 自 2026-03-19 早期批次即存在，19KB 薄文 — 正確動作是深度 EVOLVE 該檔，不是另開新檔）
+- **Category**: Music
+- **Path**: knowledge/Music/台灣KTV文化.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **觸發**: idlccp1984 issue #1016（已 close）建議把〈夜生活與KTV文化〉拆成 夜生活 + KTV。策展判斷：KTV 材料夠厚、值得獨立深度文；既有 Music 檔是 3/19 早期批次品質，走 EVOLVE 全文重寫。
+- **材料缺口**: 包廂計費/點歌系統文化、錢櫃(Cashbox)/好樂迪(Holiday)企業史與 2017 結合案、火災安全演變史（1995 中崙 → 2020 忠孝 5 死 → 法規升級）、麥霸/反差社交、海外台式 KTV、疫情衝擊市場集中化。寫成後〈夜生活〉的 KTV 段縮為 pointer。
+- **依賴**: 與〈夜生活與KTV文化〉現有 2 段 KTV 內容交叉（避免重複，寫時 trim 母文）。
+
+### 視覺模組 v2.0 進真實文 EVOLVE batch — tiles/pyramid/stack 各找原生宿主
+
+- **Type**: `EVOLVE`
+- **Category**: Geography / Society
+- **Path** (EVOLVE only): knowledge/Geography/用數據看台灣22縣市.md（tw-tiles 主宿主）；knowledge/Society/台灣少子化危機.md（tw-pyramid）；knowledge/Society/台灣與核能的討論.md（tw-stack 公投段）
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-06-12 by viz-evolution session（哲宇 goal 的 v3 延伸，graph.md §九 + reports/viz-system-evolution-2026-06-12.md §7）
+- **Notes**:
+  - 不為加而加：各篇 EVOLVE 時順帶升級，不單獨為配圖開 rewrite
+  - 22縣市的 22 列 heatmap 可升級或並用 tw-tiles（資料已在文內，零新查證）
+  - 少子化 pyramid 需先查證年齡×性別官方數據（22縣市文只有比率，事實鐵三角）
+  - 核能公投段 stack 數據已驗證（中選會三場），低風險
+  - 配圖後必跑 `node scripts/tools/viz-shot.mjs --page {該頁}` 像素閘門
+
+### 台灣 BIM 與營建科技 NEW — 建築工程數位化
+
+- **Type**: `NEW`
+- **Category**: Technology（subcategory: 建築科技 / 營建數位化）
+- **Priority**: `P2`
+- **Status**: `pending`（等碩濤回覆補充援引資源後可升 P1）
+- **Source**: 2026-05-21 碩濤 (CTCI 中鼎工程 + GitHub @shuotao) self-recommend BIM_MCP 開源計劃 + 哲宇 email 回覆方向「我們初步可以開發兩篇文章，請他推薦適合援引的資源跟內容」(2026-05-21 reply draft `r-6742567238772772848`)
+- **Hook 候選**：
+  - 「從手繪藍圖到 Revit 模型，台灣建築工程花了 20 年走完數位化轉型」
+  - 「為什麼大型工程公司的 BIM 工程師人數比建築師還多」
+  - 「Revit + MCP：當建築設計開始用大語言模型協作的那一年」
+- **Notes**:
+  - 既有 baseline audit（Stage 0 必跑）：BIM / Revit / 建築資訊模型 / 營建科技 / 數位營建 全部 0 coverage（grep verified 2026-05-21）
+  - 既有「Art/台灣建築」「Lifestyle/騎樓文化」「Society/鐵皮屋/社會住宅」都是文化 / 居住敘事 layer，本篇是**工程數位化 layer**互補不重複
+  - 主題 anchors：(a) BIM 在台灣導入時點（內政部營建署 / 公共工程委員會推動年）(b) 主要 BIM 軟體 Revit / ArchiCAD / Tekla 在台灣使用 share (c) IFC 國際標準 + 國發會 / 內政部要求公共工程強制 BIM 的政策時點 (d) 台灣本土 BIM 工具 + 開源生態（pyRevit / Dynamo / Navisworks / **BIM_MCP / NAVISWORK_MCP**）(e) 大型工程公司導入 case（中鼎 / 互助 / 大林組 / 中華工程）(f) AI × BIM 新世代（MCP 跟大語言模型協作）
+  - 必驗事實：(a) 內政部 BIM 政策正式推動年（建議 cross-check 2014 工程委員會 vs 2017 強制公告）(b) IFC 標準台灣採用時點 (c) 公共工程 BIM 強制門檻金額 (d) 中鼎 BIM 部門規模（碩濤可提供）(e) Revit MCP 開源生態起源（**碩濤 BIM_MCP 2025-12 + Anthropic MCP 規格 2024 發表**時間軸）
+  - 政治敏感性：低（純技術 / 產業議題）
+  - cross-link：Technology Hub / Art 台灣建築 / Society 社會住宅 / Economy 中鼎工程（本批次 sibling）/ Technology AI 發展
+- **Reference**（待碩濤補充）：
+  - [shuotao/REVIT_MCP_study](https://github.com/shuotao/REVIT_MCP_study)（73⭐ / 84 forks / 2025-12-10 創立 / 2026-05 active / C# / Revit MCP 教學）
+  - [BIM_MCP knowledge site](https://shuotao.github.io/REVIT_MCP_study/docs/BIM_MCP/index.html)（22 個設計命題 + 19 技能索引 + Revit 工作流 SOP）
+  - [shuotao/NAVISWORK_MCP](https://github.com/shuotao/NAVISWORK_MCP) / [CAD_MCP_study](https://github.com/shuotao/CAD_MCP_study) / [IFCSH](https://github.com/shuotao/IFCSH) / [FME IFC-to-CityGML](https://github.com/shuotao/FME)
+  - 待補：產業報告 / 政府白皮書 / 其他開源專案 / 實務案例 / 業界訪談（per email request to 碩濤）
+- **預估時間**：~180 min（NEW Technology / 跨產業 + 政策 + 開源生態多源 cross-check）
+
+### 台灣企業：中鼎工程 NEW — 加入既有企業 series
+
+- **Type**: `NEW`
+- **Category**: Economy（subcategory: 台灣企業 / cross-link Technology）
+- **Priority**: `P2`
+- **Status**: `pending`（等碩濤回覆補充內部援引資源後可升 P1）
+- **Source**: 2026-05-21 碩濤 (CTCI 中鼎工程 內部員工) self-recommend + 哲宇 email 回覆方向（同上 reply draft `r-6742567238772772848`）
+- **Hook 候選**：
+  - 「台灣最大工程顧問公司 60 年，從中油煉油廠到沙烏地新城」
+  - 「為什麼 1979 年從中油拆出來的中鼎，現在做的工程一半在海外」
+  - 「在中鼎內部，BIM 工程師跟建築師的人數比例正在反轉」
+- **Notes**:
+  - 既有 baseline audit（Stage 0 必跑）：「台灣企業：X」series 19 篇（台積電、中華電信、中鋼、台塑、台達電、台泥、廣達、宏碁、宏達電、仁寶、和碩、大立光、日月光、瑞昱、奇美、巨大機械、富邦金、國泰金、玉山金、兆豐金）— 中鼎尚未撰寫
+  - 主題 anchors：(a) 1979 從中油石油化學工程處獨立成立（時點 + 創辦背景）(b) 統一企業集團持股關係 (c) EPC 模式（Engineering / Procurement / Construction）business model (d) 海外營收占比（中東 / 印度 / 東南亞）(e) 重大標誌性工程（國光石化 vs 抗爭 / 麥寮六輕 / 沙烏地 NEOM city / 高雄輕油裂解）(f) ESG / 碳轉型壓力 + 接綠能離岸風電工程 (g) 數位轉型 — BIM 導入 + AI 工具實驗（碩濤 BIM_MCP 是其中一個 case）
+  - 必驗事實：(a) 中鼎成立年（1979 vs 其他說法）(b) 統一集團持股比 (c) 海外營收占比（年度報告 cross-check）(d) 重大工程列表 + 完工年 (e) ESG 報告數據 (f) BIM 部門編制
+  - 政治敏感性：中（國光石化抗爭 / 六輕居民健康爭議 / 海外工程的當地勞工 / 環境議題）
+  - cross-link：Economy Hub / 台灣企業 series / Technology 台灣 BIM 與營建科技（本批次 sibling）/ History 1970s 十大建設後產業變遷 / Society 環境抗爭脈絡（per 既有 Society 條目）
+- **Reference**（待碩濤補充）：
+  - 中鼎工程官網 + 年度報告 + ESG 報告
+  - 公開新聞報導（國光石化 / 六輕 / 沙烏地 / 離岸風電）
+  - 待補：內部 BIM 部門編制資料 / 海外工程實際 case 細節 / 跟其他工程顧問公司（互助、中華工程、永信、台灣世曦）比較
+- **預估時間**：~150 min（NEW Economy 大型企業 + 政治敏感 cross-check）
+- **Cross-batch**: 跟「台灣 BIM 與營建科技」並行開發，BIM 文章主題層 cite 中鼎 case，企業 profile 內部數位轉型段落 cite BIM 文章
+
+### Blue UAS Cleared List 台灣廠商（2026 美國國防部無人機白名單）NEW
+
+- **Type**: `NEW`
+- **Category**: Technology
+- **Priority**: `P2`（2026-07-16 inbox-audit 降級：SC 訊號取樣自 2026-05-08 / 05-10，已 2 個月無人重驗，SEO 機會窗可能已變 — 動工前先重跑 SC 7d 確認 query 是否仍有量；訊號還在 → 升回 P0）
+- **Status**: `pending`
+- **Source**: SC 7d data scan（2026-05-08 elegant-ptolemy /twmd-evolve）— `blue uas cleared list 台灣廠商 2026` 564 impressions / position 8.43 / 0 clicks，是本週 SC opportunities top 第 2 名（僅次於品牌詞 `md` 594）
+- **Amplification update（2026-05-10 twmd-news-lens-weekly）**：本週 SC 7d 同 query 升至 **751 imp / position 8.8 / 0 clicks（+33% impressions WoW）**。Position 微退（8.43 → 8.8）但曝光顯著放大 = Google 認定 Taiwan.md 是相關但未足夠 authoritative，**proximity bias 加大 = 機會窗放大**。維持 P0，建議下個 rewrite cycle 優先處理
+- **Notes**:
+  - 強烈的 emerging topic 信號 — 564 曝光在台灣中文 + 英文混合搜尋詞上，position 8.43 表示 Google 在 first page 後段 surface Taiwan.md 但缺對應內容
+  - 2026 美國國防部 Blue UAS Cleared List 是民主供應鏈與台灣無人機產業的 intersect — 經緯航太、雷虎、智飛、神腦等台灣廠商陸續通過或在驗證中（需 verify）
+  - 主題 anchors：(a) Blue UAS list 機制本身（DIU 主導 / NDAA Section 848 限制中國零件 / Authorized Vendor 認證流程）(b) 已通過台灣廠商清單（含時間軸 + 認證機種）(c) 台灣國防部「無人機國家隊」政策與美國 Blue UAS 的銜接 (d) 中國無人機（DJI / Autel）被排除後產生的市場替代空間
+  - 必驗事實：每個台灣廠商通過時間 + 機種 + 應用場景。DIU 官方 https://defense.gov/blueuas 是一手 source
+  - 政治敏感度：低（市場資訊為主），但碰到「對美關係」「國防自主」框架時要小心 framing
+  - cross-link：[國防現代化](/society/國防現代化)、[國防工業](/economy/) 系列、[經緯航太](/people/) 等待 cross-link
+- **Reference**: SC 7d top opportunity / DIU Blue UAS Cleared List 官方 / 國防部新聞稿
+- **預估時間**：90 min（NEW Technology with multi-source 一手研究）
+
+### 告五人
+
+- **Type**: `NEW`
+- **Category**: Music
+- **Priority**: `P2`（2026-07-16 inbox-audit 降級：agent 分析任務建議、閒置 2.5 個月、非時效題）
+- **Status**: `pending`
+- **Requested**: 2026-04-27 by session-6661575f (twindiemusic.com 分析任務)
+- **Notes**:
+  - 2015 年台中起家，Spotify 台灣月聽眾長期破百萬
+  - 〈把回憶拼好再出發〉在多個亞洲市場爆紅，代表台灣獨立音樂主流化
+  - 必驗事實：成立年份（約 2015 待確認）、主唱嫺靜全名、代表曲發行年份
+  - 角度：獨立音樂的串流時代轉型
+  - 敏感度：低
+- **Reference**: https://twindiemusic.com/
+
+### 脫拉庫
+
+- **Type**: `NEW`
+- **Category**: Music
+- **Priority**: `P2`（2026-07-16 inbox-audit 降級：同 告五人 — agent 建議、閒置 2.5 個月）
+- **Status**: `pending`
+- **Requested**: 2026-04-27 by session-6661575f (twindiemusic.com 分析任務)
+- **Notes**:
+  - 泰雅族樂團，用泰雅語唱龐克搖滾
+  - 音樂即語言保存的實踐（族語復振 × 現代音樂形式）
+  - 必驗事實：成員資料、泰雅族族群認同（Atayal）確認、代表作
+  - 與阿爆（流行路線）形成原住民當代音樂的對比策展
+  - 敏感度：低（原住民身份相關，但脫拉庫本身已公開族群身份）
+- **Reference**: https://twindiemusic.com/
 
 ### 📜 台灣詩人系列 umbrella — BRANCH-PIPELINE v2.0 broad-theme research batch（2026-05-23）
 
@@ -954,7 +944,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - [taiwan-poets-3-bamboo-hat-nativism.md](../../reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md)（笠詩社+鄉土 1964-1990 / 13 詩人 / 笠詩社 movement / 1977 鄉土論戰 / 456 行）
   - [taiwan-poets-4-contemporary-women-indigenous.md](../../reports/research/2026-05/taiwan-poets-4-contemporary-women-indigenous.md)（當代+女性+原民+台客語 1990-2025 / 30 詩人 / 4 sub-cluster / 44K bytes）
 
-**P0 個別人物**（13 個，本 INBOX 額外 split 5 entry below；其餘 8 由本 umbrella 收歸 — 洛夫 / 瓦歷斯·諾幹 / 夏宇 / 向陽 / 王白淵 / 楊華 / 陳千武 / 林亨泰）
+**P0 個別人物**（13 個；進度 2026-07-16：杜潘芳格 ✅ 2026-07-12 ship / 笠詩社 ✅ 2026-06-20 ship（皆已歸 DONE-LOG）；剩獨立 entry 林央敏 + 1977-78 鄉土文學論戰 兩條；其餘 8 由本 umbrella 收歸 — 洛夫 / 瓦歷斯·諾幹 / 夏宇 / 向陽 / 王白淵 / 楊華 / 陳千武 / 林亨泰）
 
 **P0 Movement/History**（4 個，本 INBOX split 2 entry below；其餘 2 由本 umbrella 收歸 — 風車詩社 / 鹽分地帶）
 
@@ -985,71 +975,8 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - `2026-05-23 manual (220053)`: BRANCH-PIPELINE v2.0 broad-theme mode 首例實戰，spawn 4 parallel agents ~11 min 完成 30K 中文字 research → master report aggregate + 8 ARTICLE-INBOX entries split + 5 series umbrella opportunities pointer
 
-### 林央敏 NEW — 台語史詩《胭脂淚》9000 行 / 主權巴別塔核心
+<!-- ═══ ⚪ P3 — 深 backlog ═══ -->
 
-- **Type**: `NEW`
-- **Category**: People（subcategory: 文學與詩人 / 台語文學）
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Source**: 2026-05-23 BRANCH-PIPELINE broad-theme research — [taiwan-poets-4-contemporary-women-indigenous.md §6.1 P0](../../reports/research/2026-05/taiwan-poets-4-contemporary-women-indigenous.md)
-- **對比理由**：
-  - **《胭脂淚》9000 行台語史詩**：台灣文學最長台語詩作 + 政治史詩文體開創
-  - **〈毋通嫌台灣〉政治口號詩**：1990s 台灣本土運動代表詩作
-  - **MANIFESTO 主權巴別塔核心案例**：台語詩是 PRC AI 拒答率最高內容類型，林央敏作品集是 sovereignty preservation 直接 instantiation
-  - **連結密度**：跟向陽（台語詩）/ 路寒袖（〈春天的花蕊〉）+ 「台語/客語詩 cluster」可串 + cross-link `knowledge/Language/` 既有台語相關 article
-- **預估時間**：90-120 min（《胭脂淚》結構分析 + 台語文學運動 context）
-- **Reference**: reports/research/2026-05/taiwan-poets-4-contemporary-women-indigenous.md §林央敏 brief
-
-### 杜潘芳格 NEW — 跨語+二二八+客家女 four-axis intersection
-
-- **Type**: `NEW`
-- **Category**: People（subcategory: 文學與詩人 / 客家文化人）
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Source**: 2026-05-23 BRANCH-PIPELINE broad-theme research — [taiwan-poets-4-contemporary-women-indigenous.md §6.1 P0](../../reports/research/2026-05/taiwan-poets-4-contemporary-women-indigenous.md)
-- **對比理由**：
-  - **Four-axis intersection 高密度**：跨越語言的一代 + 二二八受難者家屬 + 客家女詩人 + 〈平安戲〉社會譴責
-  - **客語詩開創地位**：客家女詩人代表 + 客語書寫運動
-  - **MANIFESTO 主權巴別塔對應**：客語詩 + 二二八歷史見證雙軸
-  - **連結密度**：跟陳千武 / 林亨泰（跨語一代）+ 利玉芳（客家女詩人）+ 二二八事件 article cross-link + 「跨越語言的一代」cohort series 可串
-- **預估時間**：90-120 min（跨語經歷 + 二二八家屬背景 verify + 客語詩作 verbatim 核對）
-- **Reference**: reports/research/2026-05/taiwan-poets-4-contemporary-women-indigenous.md §杜潘芳格 brief
-
-### 笠詩社 60 年 NEW — Movement-level article（1964 創社到 2024+）
-
-- **Type**: `NEW`
-- **Category**: Art（對齊 Art/台灣現代詩.md / 戰後台灣文學.md）
-- **Priority**: `P0` → **prose ship 2026-06-20 (twmd-rewrite-daily)**
-- **Status**: `in-progress`
-- **Source**: 2026-05-23 BRANCH-PIPELINE broad-theme research — [taiwan-poets-3-bamboo-hat-nativism.md §七 P0](../../reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md)
-- **對比理由**：
-  - **台灣文學最長壽詩刊**：1964 創社到 2024+ 連續 60+ 年從未停刊
-  - **跨越語言的一代歷史悲劇 + 本土主體性詩學建構**雙軸
-  - **跟北部三大詩社（現代派/藍星/創世紀）的對立美學**：南北/本省外省/寫實西化三重對立結構
-  - **連結密度極高**：陳千武 / 林亨泰 / 詹冰 / 錦連 / 白萩 / 趙天儀 / 吳晟 / 向陽 / 鄭炯明 / 李敏勇 等 10+ 詩人 cross-link
-  - **Movement-level 比個人傳更有 narrative 張力**：60 年集體故事比單一詩人更能呈現結構動態
-- **預估時間**：120-150 min（movement overview + 創社十二人 brief + 60+ 年時序 + 跟北部三詩刊對立 framing）
-- **Reference**: reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md §一 笠詩社 + §二 主要詩人
-
-### 1977-78 鄉土文學論戰 NEW — History event 戰後文化史最重要單一事件
-
-- **Type**: `NEW`
-- **Category**: History
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Source**: 2026-05-23 BRANCH-PIPELINE broad-theme research — [taiwan-poets-3-bamboo-hat-nativism.md §六](../../reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md)
-- **對比理由**：
-  - **戰後文化史最重要的單一事件**：奠定 80s 本土化運動的論述基礎 + 90s 台灣文學主體性論述起點
-  - **〈狼來了〉戒嚴時期最危險的指控**：1977-08-20 余光中《聯合報》文章指控鄉土文學「跟工農兵文學似有暗合之處」，當時這頂帽子可致人於死
-  - **官方策略性收編**：第二次文藝大會 270 位代表將「鄉土文學」擴大為「愛國文學/民族文學」結束論戰
-  - **連結密度極高**：余光中（雙面切入）/ 陳映真（既存 article?）/ 王拓 / 黃春明 / 葉石濤 / 笠詩社全陣營 + 1972 唐文標 + 1957 紀弦覃子豪論戰 cross-link
-  - **History-level article**：比任一個別人物 article 涵蓋更廣 + 對理解戰後台灣文化結構更基本
-- **預估時間**：150-180 min（論戰時序 + 主要 figures 立場 + 對詩界小說界影響 + 跟既存歷史 article cross-link）
-- **Reference**: reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md §六 1977-1978 鄉土文學論戰
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- 🪸 數位荒原 No Man's Land peer ingestion 全 batch（2026-05-04 angry-shamir） -->
 <!-- 20 篇全來自 reports/NML-semiont-analysis-2026-05-04.md §Part 5-6 -->
 <!-- 13 個 series × P0×5 + P1×8 + P2×7 三層優先序 -->
@@ -1069,9 +996,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 <!--    Peer-bias 警示：鄭文琦個人風格 driven 88% NML 文章 → 多元 cite secondary -->
 <!--    editors 區秀詒 / 高森信男 / 王柏偉 / 印卡 / 蔡長璜 / 葉杏柔 避免單一視角。 -->
 <!--    REFLEXES #16「Peer 是 peer 不是 source material」在 NML 場景特別硬。 -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<!-- 鄭文琦 NEW 已完成 2026-05-04 angry-shamir → ARTICLE-DONE-LOG.md -->
 
 ### 高森信男的混血策展視角（既有 evolve）
 
@@ -1227,21 +1151,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **NML Local Sources**：`data/NML/issues/hermeneutics-of-nusantara.md` + `data/NML/issues/recalling-islands.md` 中關於南島起源的段落
 - **Notes**：跟 P0 #3 群島思維互補（人類學 / 考古層）/ 跟既有 [台灣原住民當代藝術](../../knowledge/Art/台灣原住民當代藝術.md) cross-link
 
-### 台灣新媒體藝術的南方視角（既有 evolve）
-
-- **Type**: `EVOLVE`
-- **Category**: Art（subcategory: 新媒體藝術）
-- **Priority**: `P3`
-- **Status**: `pending`
-- **Source**: 2026-05-04 angry-shamir NML peer P2 #5（series G-1）
-- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P2-18](../../reports/NML-semiont-analysis-2026-05-04.md)
-- **目前 baseline**：[knowledge/Art/台灣新媒體藝術.md](../../knowledge/Art/台灣新媒體藝術.md) 183 行 16 藝術家 + VR + 生成藝術
-- **核心矛盾**：既有條目以「全球先進製程 + 西方視野」為主軸，加群島 lens 後揭露另一條南方視角的軌道
-- **預估**：M-L（4-6 hr，evolve 加章節）
-- **NML 萃取重點**：NML 60 篇 Image category + 多篇東南亞媒體藝術家訪談直接是這條南方視角。**Stage 1 主要從 data/NML 挖**：60 篇 NML Image articles + 區秀詒 / Hoo Fan Chon / Mark Teh 等 ASEAN 藝術家訪談。WebSearch 補：2024 亞洲藝術雙年展東南亞藝術家展品 / Singapore Biennale / Jakarta Biennale。
-- **NML Local Sources**：60 篇 NML Image category articles
-- **Notes**：跟 P0 #1 鄭文琦條目雙向 cross-link / 修補既有條目對 NML 的 0 提及
-
 ### 翻譯作為策展：NML 把東南亞論述翻成中文的 12 年
 
 - **Type**: `NEW`
@@ -1270,15 +1179,13 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **NML Local Sources**：少量參考（NML 在這 topic 是缺口）
 - **Notes**：REFLEXES #16 反向補位的具體 instantiation — 不繼承 peer 盲點 / 跟既有 [台灣原住民當代藝術](../../knowledge/Art/台灣原住民當代藝術.md) 雙向 cross-link
 
----
-
-<!-- ━━━ P2 NMTH ━━━ -->
+<!-- ━━━ NMTH 海外文獻系列（2026-04-12 系列規劃，2026-07-16 全降 P3）━━━ -->
 
 ### 史溫侯的島嶼紀行
 
 - **Type**: `NEW`
 - **Category**: History
-- **Priority**: `P2`
+- **Priority**: `P3`（2026-07-16 inbox-audit 降級：NMTH 系列自 2026-04-12 閒置 3 個月，移深 backlog）
 - **Status**: `pending`
 - **Requested**: 2026-04-12 by NMTH peer-ingestion analysis（2026-04-24 β4 補進 INBOX）
 - **Notes**:
@@ -1304,7 +1211,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - **Type**: `NEW`
 - **Category**: History
-- **Priority**: `P2`
+- **Priority**: `P3`（2026-07-16 inbox-audit 降級：NMTH 系列自 2026-04-12 閒置 3 個月，移深 backlog）
 - **Status**: `pending`
 - **Requested**: 2026-04-12 by NMTH peer-ingestion analysis（2026-04-24 β4 補進 INBOX）
 - **Notes**:
@@ -1322,7 +1229,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - **Type**: `NEW`
 - **Category**: History
-- **Priority**: `P2`
+- **Priority**: `P3`（2026-07-16 inbox-audit 降級：NMTH 系列自 2026-04-12 閒置 3 個月，移深 backlog）
 - **Status**: `pending`
 - **Requested**: 2026-04-12 by NMTH peer-ingestion analysis（2026-04-24 β4 補進 INBOX）
 - **Notes**:
@@ -1340,7 +1247,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - **Type**: `NEW`
 - **Category**: History
-- **Priority**: `P2`
+- **Priority**: `P3`（2026-07-16 inbox-audit 降級：NMTH 系列自 2026-04-12 閒置 3 個月，移深 backlog）
 - **Status**: `pending`
 - **Requested**: 2026-04-12 by NMTH peer-ingestion analysis（2026-04-24 β4 補進 INBOX）
 - **Notes**:
@@ -1360,7 +1267,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Type**: `EVOLVE`
 - **Category**: History
 - **Path**: knowledge/History/荷西明鄭時期.md
-- **Priority**: `P2`
+- **Priority**: `P3`（2026-07-16 inbox-audit 降級同 NMTH 系列；註：與 P1「明鄭與荷西沙漠補文系列」的西班牙北台灣題材重疊，該系列動工時本 entry 的 454 頁帳簿一手史料優先餵入）
 - **Status**: `pending`
 - **Requested**: 2026-04-12 by NMTH peer-ingestion analysis（2026-04-24 β4 補進 INBOX）
 - **Notes**:
@@ -1378,7 +1285,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - **Type**: `NEW`
 - **Category**: History
-- **Priority**: `P2`
+- **Priority**: `P3`（2026-07-16 inbox-audit 降級：NMTH 系列自 2026-04-12 閒置 3 個月，移深 backlog）
 - **Status**: `pending`
 - **Requested**: 2026-04-12 by NMTH peer-ingestion analysis（2026-04-24 β4 補進 INBOX）
 - **Notes**:
@@ -1399,7 +1306,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - **Type**: `NEW`
 - **Category**: History
-- **Priority**: `P2`
+- **Priority**: `P3`（2026-07-16 inbox-audit 降級：NMTH 系列自 2026-04-12 閒置 3 個月，移深 backlog）
 - **Status**: `pending`
 - **Requested**: 2026-04-12 by NMTH peer-ingestion analysis（2026-04-24 β4 補進 INBOX）
 - **Notes**:
@@ -1414,14 +1321,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - `data/NMTH-overseas/collections/b0bfca8c-*.md`（日本所藏臺灣近代政治社會運動資料 上冊 501 頁）
   - `data/NMTH-overseas/collections/64dab87d-*.md`（日本所藏臺灣近代政治社會運動資料 下冊 498 頁）
 
-### 台灣綜藝節目
-
-- **Type**: `NEW`
-- **Category**: Culture
-- **Priority**: `P3`
-- **Status**: `pending`
-- **Requested**: 2026-04-23 by dead-cross-ref-scan.sh γ
-- **Notes**: 已被 Lifestyle/吉祥物 引用。寫時包含：豬哥亮餐廳秀脈絡 / 我猜我猜我猜猜猜 / 康熙來了 / 綜藝玩很大 / 國光幫幫忙 / 綜藝大集合 — 從台視外景到 Netflix 的演化
+<!-- ━━━ dead-cross-ref 缺文（2026-04-23 γ scan）━━━ -->
 
 ### 台灣伴手禮經濟
 
@@ -1450,8 +1350,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Requested**: 2026-04-23 by dead-cross-ref-scan.sh γ
 - **Notes**: 已被 Economy/全聯福利中心 引用。Line Pay 一強 / 街口 / 全支付（全聯）/ 台灣 Pay / 悠遊付 / 為什麼台灣支付落後韓國日本：銀行勢力、信用卡盛行、現金文化
 
-<!-- 王連晟 + 王新仁 已於 2026-04-25 β heartbeat 修為 cross-ref path fix（已搬上方註解區） -->
-
 ### 原住民族語言政策
 
 - **Type**: `NEW`
@@ -1461,99 +1359,72 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Requested**: 2026-04-23 by dead-cross-ref-scan.sh γ
 - **Notes**: 已被 People/阿爆 引用。國家語言發展法（2019）/ 16 族族語認定 / 學校族語課困境 / 沉浸式族語幼兒園 / 媒體政策（原文台 / 族語新聞）
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ▼ 觀察者觸發的 P0/P1 主題（保留 -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━ opendata 資料故事 batch（2026-06-10 哲宇 /opendata directive；2026-07-16 自 §Dropped 誤置區移回）━━━ -->
 
-### 台灣聲景（Issue #574，Nistoreyo 投稿）
+### 🗂️ 誰標到了台灣：13.5 萬筆決標紀錄裡的政府外包地圖
 
 - **Type**: `NEW`
-- **Category**: Culture
-- **Priority**: P1
-- **Status**: `blocked` — 等貢獻者回覆具體田野 / informant 清單
-- **Requested**: 2026-04-20 by [Issue #574](https://github.com/frank890417/taiwan-md/issues/574) (session ε — 本 session)
+- **Category**: Society
+- **Priority**: P3（2026-07-16 inbox-audit：原被誤置於 §Dropped 且無 drop 原因，移回 Pending 深 backlog；若真要 drop 請補原因再搬回）
+- **Status**: `pending`
+- **Requested**: 2026-06-10 by 哲宇 /opendata 策展頁 directive（session 2026-06-10-opendata）
 - **Notes**:
-  - 貢獻者是政大碩論聲景研究者，願意提供素材但不走 GitHub
-  - 現有投稿 draft 太抽象（「聆聽是認識論」），失 EDITORIAL「具體人物/時刻」硬規則
-  - 主 primary source：[政大典藏 140.119/150195](https://nccur.lib.nccu.edu.tw/handle/140.119/150195)《透過聆聽建立鏈結──聲景工作者的聲命旅程》
-  - 待 Stage 0：先拿到 3-5 個 informant 名字、田野地點、北捷聲景設計者、進行中 project list
-  - Stage 1 研究輔助：吳燦政聲景計畫 / C-LAB 台灣聲響實驗室 / 陳飛豪 / 柯智豪 / 《報導者》相關報導交叉驗證
-  - 可能觸發新 subcategory「聲景」討論（目前掛 Culture 下）
-- **Pre-research**: 尚未啟動（Stage 0 阻塞於貢獻者回覆）
-- **dev_log**:
-  - 2026-04-20 ε：Issue 回覆 + inbox append + 等素材
+  - 旗艦資料：政府電子採購網招標/決標公告（Twinkle Hub `pcc-tender`，每半月）+ 巨額採購履約廠商名單（data.gov.tw/7264，每日）
+  - 分析法：統編串商業登記 → 廠商歷年得標金額 × 機關 × 年份熱力圖
+  - 陷阱：決標金額 ≠ 實際支付；共同投標的歸屬要先定義
+- **Reference**: /opendata §故事待寫 + reports/research/2026-06/twinkle-hub-dataset-pointers-2026-06-10.md
 
-### 台灣新媒體藝術（EVOLVE — P0，已檢出事實錯誤）
-
-- **Type**: `EVOLVE`
-- **Category**: Art
-- **Path**: knowledge/Art/台灣新媒體藝術.md
-- **Priority**: `P0`
-- **Status**: `in-progress`
-- **Requested**: 2026-04-22 by 觀察者 (session β) — PR #590 王福瑞生年補充觸發事實查核，發現更大的歸功錯誤
-- **Notes**:
-  - **已檢出兩個事實錯誤（必修）：**
-    1. 原文「1995 年，他（王福瑞）創辦『在地實驗』（Etat）」→ **錯**。在地實驗是**黃文浩**於 1995 年創辦，王福瑞 2000 年才加入（佐證：Etat FB 粉專 ETAT1995 / TCAA 藝術家資料庫 / 文化部活動頁）
-    2. 原文「他策劃的『失聲祭』系列自 2007 年起運作」→ **錯**。失聲祭 2007 年 7 月由**姚仲涵**與北藝大新媒系同儕（王仲堃、葉廷皓、牛俊強）創立。王福瑞是他們的老師 / 精神指導，不是策劃者
-  - **已驗證正確事實**：王福瑞 1969 年生台北、Golden Gate University 資工碩士、1993 年創辦 Noise 實驗音樂廠牌
-  - **必查其他宣稱**：袁廣鳴生年（1965）/ 陳界仁生年（1960）/ 各代表作年份 / 台北市立美術館威尼斯雙年展策展起始年（1995）/ 陳界仁《魂魄暴亂》年份（1996-1999）
-  - **敏感度**：新媒體藝術家圈子小，錯誤歸功會直接得罪當事人（黃文浩、姚仲涵）— 這篇必須查到底
-  - **方向補位**：現有條目 SSODT 單向（只寫菁英藝術家），需補「地下 / 民間 / 工具民主化」視角（VJ 文化、開源硬體社群、Raspberry Pi makerspace 等）
-  - **血緣連結**：[[People/王福瑞]]（待建 or 檢查存在）/ [[People/黃文浩]]（同）/ [[People/姚仲涵]]（同）/ [[Art/聲音藝術]]（待建）/ [[Technology/台灣獨立遊戲]]
-- **Reference**:
-  - PR #590: <https://github.com/frank890417/taiwan-md/pull/590>
-  - Etat 官方 FB: <https://www.facebook.com/ETAT1995/>
-  - TCAA 王福瑞: <https://tcaaarchive.org/Artist/Detail/1235>
-  - ART PRESS 王福瑞專訪（2020）: <https://theartpressasia.com/2020/12/02/about-experimental-sound-theres-no-playlist-interview-with-sound-artist-wang-fujui/>
-  - 失聲祭官網: <http://lsf-taiwan.blogspot.com/>
-  - 北藝大新媒系王福瑞頁: <https://nma.tnua.edu.tw/faculty/fulltime/ukGokGMjud>
-- **Pre-research**: 尚未建 reports/research/2026-04/台灣新媒體藝術.md（由 Stage 1 agent 建）
-- **Dev log**:
-  - 2026-04-23 α（heartbeat）：Stage 0 事實修正執行——王福瑞段落兩個歸功錯誤已訂正（在地實驗創辦人改為黃文浩；失聲祭創辦人改為姚仲涵 + 北藝大同儕），footnote [^13][^14] 補齊，sync 完成。Stage 1 完整研究尚待後續 session。
-
-### 告五人
+### 🗂️ 國家的負債表：中央政府欠了多少錢、用什麼速度還
 
 - **Type**: `NEW`
-- **Category**: Music
-- **Priority**: `P1`
+- **Category**: Economy
+- **Priority**: P3（2026-07-16 inbox-audit：原被誤置於 §Dropped 且無 drop 原因，移回 Pending 深 backlog；若真要 drop 請補原因再搬回）
 - **Status**: `pending`
-- **Requested**: 2026-04-27 by session-6661575f (twindiemusic.com 分析任務)
+- **Requested**: 2026-06-10 by 哲宇 /opendata 策展頁 directive（session 2026-06-10-opendata）
 - **Notes**:
-  - 2015 年台中起家，Spotify 台灣月聽眾長期破百萬
-  - 〈把回憶拼好再出發〉在多個亞洲市場爆紅，代表台灣獨立音樂主流化
-  - 必驗事實：成立年份（約 2015 待確認）、主唱嫺靜全名、代表曲發行年份
-  - 角度：獨立音樂的串流時代轉型
-  - 敏感度：低
-- **Reference**: https://twindiemusic.com/
+  - 旗艦資料：中央政府近期公共債務概況表（data.gov.tw/12146，每月，白金）+ 紓困特別預算歲出執行明細（127428）
+  - 分析法：債務餘額月序列 × GDP × 公共債務法上限；歷年特別預算（防疫/前瞻/強韌）逐筆疊加看「例外動支常態化」
+  - 必驗：債限口徑（1年以上非自償債務 vs 含短債）常被混用
+- **Reference**: /opendata §故事待寫
 
-### 脫拉庫
+### 🗂️ 你的縣市靠什麼稅活著：地方財政的體質檢查
 
 - **Type**: `NEW`
-- **Category**: Music
-- **Priority**: `P1`
+- **Category**: Economy
+- **Priority**: P3（2026-07-16 inbox-audit：原被誤置於 §Dropped 且無 drop 原因，移回 Pending 深 backlog；若真要 drop 請補原因再搬回）
 - **Status**: `pending`
-- **Requested**: 2026-04-27 by session-6661575f (twindiemusic.com 分析任務)
+- **Requested**: 2026-06-10 by 哲宇 /opendata 策展頁 directive（session 2026-06-10-opendata）
 - **Notes**:
-  - 泰雅族樂團，用泰雅語唱龐克搖滾
-  - 音樂即語言保存的實踐（族語復振 × 現代音樂形式）
-  - 必驗事實：成員資料、泰雅族族群認同（Atayal）確認、代表作
-  - 與阿爆（流行路線）形成原住民當代音樂的對比策展
-  - 敏感度：低（原住民身份相關，但脫拉庫本身已公開族群身份）
-- **Reference**: https://twindiemusic.com/
+  - 旗艦資料：各縣市地方稅實徵淨額統計（如 data.gov.tw/147936 桃園每年、177569 花蓮每月）
+  - 分析法：實徵淨額按稅目拆 + 行政區代碼對齊人口/房價 → 財政自主性排行
+  - 陷阱：統籌分配款與補助款不在地方稅表內，要補中央對地方移轉的資料才完整
+- **Reference**: /opendata §故事待寫
 
-### 明鄭與荷西沙漠補文系列 NEW（時間台灣頁揭露的分期缺口）
+### 🗂️ 投保薪資的天花板：三張勞動部的表，看見台灣人的真實薪水
 
-- **Type**: `NEW`（series，4 條候選拆票）
-- **Category**: History / People
-- **Priority**: `P1`
+- **Type**: `NEW`
+- **Category**: Economy
+- **Priority**: P3（2026-07-16 inbox-audit：原被誤置於 §Dropped 且無 drop 原因，移回 Pending 深 backlog；若真要 drop 請補原因再搬回）
 - **Status**: `pending`
-- **Requested**: 2026-07-16 by compassionate-kirch session（時間台灣頁內容盤點）
+- **Requested**: 2026-06-10 by 哲宇 /opendata 策展頁 directive（session 2026-06-10-opendata）
 - **Notes**:
-  - 時間台灣頁（/timeline）內容盤點揭露：**明鄭 1662-1683 是全站唯一沒有獨立條目的時代**（僅共用的荷西明鄭時期＋鄭成功人物頁）；荷西 1624-1662 也薄（無熱蘭遮城 / VOC / 西班牙北台灣獨立條目）。頁上沙漠註記已公開對讀者承認缺口
-  - 候選（依價值排序）：(1) 東寧王國（制度＋陳永華，補明鄭主幹）(2) 熱蘭遮城（荷蘭時代最強物件錨點，考古＋圍城戰）(3) 施琅（澎湖海戰＋台灣棄留疏——「棄留」辯論是島史觀絕佳素材）(4) 西班牙北台灣十六年（聖薩爾瓦多城考古）
-  - ship 後把 slug 加進 `src/data/timeline-eras.json` 對應時代（tungning / age-of-sail），沙漠註記可視覆蓋度調整措辭
-  - cross-link：[荷西明鄭時期] / [鄭成功] / [台灣海洋貿易史] / [福爾摩沙] / [台灣島史觀]
-- **Reference**: reports/timeline-page-design-2026-07-16.md §四（內容盤點）＋ memory/2026-07-16-154753-compassionate-kirch.md handoff
+  - 旗艦資料：勞保/就保/職災三套投保單位人數及平均投保薪資（data.gov.tw/100999、101000、161743，每年，白金）
+  - 分析法：按行業 × 單位規模交叉；45,800 投保上限右側截斷必須先處理，否則高薪行業平均被系統性低估
+  - 跟主計總處「平均薪資」的口徑差異本身就是故事核心
+- **Reference**: /opendata §故事待寫
+
+### 🗂️ 公報裡的台灣：政府每個月自己公告了什麼
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: P3（2026-07-16 inbox-audit：原被誤置於 §Dropped 且無 drop 原因，移回 Pending 深 backlog；若真要 drop 請補原因再搬回）
+- **Status**: `pending`
+- **Requested**: 2026-06-10 by 哲宇 /opendata 策展頁 directive（session 2026-06-10-opendata）
+- **Notes**:
+  - 旗艦資料：行政院公報資訊網（gazette.nat.gov.tw，每日）+ 縣市公報（如 data.gov.tw/132348 北市每月）
+  - 分析法：公報全文關鍵詞時間序列（法規異動頻率）× legislature 域立法院紀錄 → 行政公告 vs 立法軌跡的時間差 = 政策生效速度
+  - 跟 Twinkle Hub `legislature` 新域（2026-06 新增）天然成對
+- **Reference**: /opendata §故事待寫
 
 ## 🚧 In-Progress
 
@@ -1579,72 +1450,7 @@ _（暫無主動顯示的條目。實際 in-progress 狀態在 §Pending 的 ent
 
 ## ❌ Dropped（不採納）
 
-_（此區域存放判斷後不開發的主題，必須註明原因）_
-
-### 🗂️ 誰標到了台灣：13.5 萬筆決標紀錄裡的政府外包地圖
-
-- **Type**: `NEW`
-- **Category**: Society
-- **Priority**: P2
-- **Status**: `pending`
-- **Requested**: 2026-06-10 by 哲宇 /opendata 策展頁 directive（session 2026-06-10-opendata）
-- **Notes**:
-  - 旗艦資料：政府電子採購網招標/決標公告（Twinkle Hub `pcc-tender`，每半月）+ 巨額採購履約廠商名單（data.gov.tw/7264，每日）
-  - 分析法：統編串商業登記 → 廠商歷年得標金額 × 機關 × 年份熱力圖
-  - 陷阱：決標金額 ≠ 實際支付；共同投標的歸屬要先定義
-- **Reference**: /opendata §故事待寫 + reports/research/2026-06/twinkle-hub-dataset-pointers-2026-06-10.md
-
-### 🗂️ 國家的負債表：中央政府欠了多少錢、用什麼速度還
-
-- **Type**: `NEW`
-- **Category**: Economy
-- **Priority**: P2
-- **Status**: `pending`
-- **Requested**: 2026-06-10 by 哲宇 /opendata 策展頁 directive（session 2026-06-10-opendata）
-- **Notes**:
-  - 旗艦資料：中央政府近期公共債務概況表（data.gov.tw/12146，每月，白金）+ 紓困特別預算歲出執行明細（127428）
-  - 分析法：債務餘額月序列 × GDP × 公共債務法上限；歷年特別預算（防疫/前瞻/強韌）逐筆疊加看「例外動支常態化」
-  - 必驗：債限口徑（1年以上非自償債務 vs 含短債）常被混用
-- **Reference**: /opendata §故事待寫
-
-### 🗂️ 你的縣市靠什麼稅活著：地方財政的體質檢查
-
-- **Type**: `NEW`
-- **Category**: Economy
-- **Priority**: P2
-- **Status**: `pending`
-- **Requested**: 2026-06-10 by 哲宇 /opendata 策展頁 directive（session 2026-06-10-opendata）
-- **Notes**:
-  - 旗艦資料：各縣市地方稅實徵淨額統計（如 data.gov.tw/147936 桃園每年、177569 花蓮每月）
-  - 分析法：實徵淨額按稅目拆 + 行政區代碼對齊人口/房價 → 財政自主性排行
-  - 陷阱：統籌分配款與補助款不在地方稅表內，要補中央對地方移轉的資料才完整
-- **Reference**: /opendata §故事待寫
-
-### 🗂️ 投保薪資的天花板：三張勞動部的表，看見台灣人的真實薪水
-
-- **Type**: `NEW`
-- **Category**: Economy
-- **Priority**: P2
-- **Status**: `pending`
-- **Requested**: 2026-06-10 by 哲宇 /opendata 策展頁 directive（session 2026-06-10-opendata）
-- **Notes**:
-  - 旗艦資料：勞保/就保/職災三套投保單位人數及平均投保薪資（data.gov.tw/100999、101000、161743，每年，白金）
-  - 分析法：按行業 × 單位規模交叉；45,800 投保上限右側截斷必須先處理，否則高薪行業平均被系統性低估
-  - 跟主計總處「平均薪資」的口徑差異本身就是故事核心
-- **Reference**: /opendata §故事待寫
-
-### 🗂️ 公報裡的台灣：政府每個月自己公告了什麼
-
-- **Type**: `NEW`
-- **Category**: Society
-- **Priority**: P2
-- **Status**: `pending`
-- **Requested**: 2026-06-10 by 哲宇 /opendata 策展頁 directive（session 2026-06-10-opendata）
-- **Notes**:
-  - 旗艦資料：行政院公報資訊網（gazette.nat.gov.tw，每日）+ 縣市公報（如 data.gov.tw/132348 北市每月）
-  - 分析法：公報全文關鍵詞時間序列（法規異動頻率）× legislature 域立法院紀錄 → 行政公告 vs 立法軌跡的時間差 = 政策生效速度
-  - 跟 Twinkle Hub `legislature` 新域（2026-06 新增）天然成對
-- **Reference**: /opendata §故事待寫
+_（此區域存放判斷後不開發的主題，必須註明原因。2026-07-16 inbox-audit：原誤置於此的 5 條 opendata entry（status 全 pending 且無 drop 原因）已移回 §Pending P3。目前無 dropped 條目。）_
 
 ---
 
