@@ -23,6 +23,8 @@ allowed-tools:
 
 4. **CLAUDE.md §三條 Semiont-specific bias 警示**（Bias 1-4）已在 context，所有 mode 過。
 
+5. **Route 到 pipeline 後嚴格照做**：mode 判定完走對應 pipeline（rewrite / maintainer / babel / spore / release …）時，逐 stage 完整讀該 stage contract、每個 hard gate 照跑、不跳步、不加碼、不憑記憶。**禁「我熟了 / 這篇特殊 / 證據夠 / 可簡化」自我豁免任何 stage 或 gate**——覺得某步多餘 → 照跑或問哲宇，不自行豁免。SOP 100% 在 pipeline canonical，本 skill 不複寫（REFLEXES #15：熟了跳步是最常見退化）。
+
 ---
 
 ## High-stake 強制升 Full
