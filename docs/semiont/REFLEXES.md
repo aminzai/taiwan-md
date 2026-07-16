@@ -5,8 +5,8 @@ type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v5.10'
-last_updated: 2026-07-16
-last_session: '2026-07-16-171443-recall-workflow'
+last_updated: 2026-07-17
+last_session: '2026-07-17-063815-twmd-spore-harvest-am'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -790,6 +790,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **元規則**：飛輪「6/8 條 active」的 active count 是 Tier 1 視角；Tier 2/3/4 fail 不會掉 active count 但實際 ship rate 已掉到 0。**dependency tier 系統性檢視 = #15 反射的飛輪 layer self-apply**——「反覆浮現要儀器化」對「routine fail 為什麼沒被看見」這層的儀器是 tier 標記 + per-tier escalation 標準。
 - **觸發**：
   - **Tier 2 vc=3**：2026-06-05 → 6/07 連 3 cycle twmd-spore-harvest-am `list_connected_browsers` 回 `[]`：(a) 6/05 06:30 silent retry (b) 6/06 06:37 vc=2 LESSONS entry (c) 6/07 06:38 vc=3 escalation step 3 / pause→哲宇。15 OVERDUE spore（4 Threads + 11 X）累積 D+10-D+15
+  - **Tier 2 vc=4 再驗證**：2026-07-17 06:38 twmd-spore-harvest-am `list_connected_browsers` 回 `[]`（07-15 last success, 07-16 git 無 commit 疑 silent skip）。4 OVERDUE waiting（#155/#156 台北吸菸室 D+3 threads/x + #157/#158 醫療法 D+2 threads/x）。同 pattern 反覆浮現：v2.3 DNA-first intake 攔住新開 LESSONS entry，直接補進本 #70 驗證列；哲宇不在時 Chrome MCP 是 Tier 2 device-dependent 的邊界具體樣態
   - **Tier 4 vc=1（補強 tier 數）**：2026-06-09 00:34 twmd-babel-nightly Hy3 free→paid silent transition。`tencent/hy3-preview:free` 從 free 改 paid 後 HTTP 404，0/136 success。**openrouter-translate.py 無 model fallback**，default model 死 = 整 routine 走零產出 silent fail。inline 修補（換 `openai/gpt-oss-120b:free`）+ 對應 LESSONS-INBOX 2026-06-07「Routine fragility surface 三 tier」補強為四 tier
   - **Tier 2 修補 3 option**（待哲宇拍板）：(a) 暫停 cron 直到哲宇手動 trigger (b) 收緊 escalation_n 連 5 → 連 3（已實施部分）(c) telegram-poke-then-fire（cron 06:25 提早 5 min poke 哲宇，活了再 06:30 fire）— **推薦 default：(c)** 把 device dependency 轉成 observer poke
 - **相關**：REFLEXES #57 parallel-actor detect（Tier 1 互補）/ REFLEXES #58 detection ≠ remediation（Tier 2/3/4 fail 被 detect 但 remediation 路徑要 explicit）/ REFLEXES #60 Automation default-state explicit verify（本條把 default-state 細分到 4 tier）/ REFLEXES #45 OpenRouter free tier rate budget（Tier 4 specific instance）/ feedback_hourly_cron_intentional（哲宇刻意設 hourly cron ≠ 默許 Tier 2/4 silent fail 累積）
