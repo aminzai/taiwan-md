@@ -1541,6 +1541,20 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 敏感度：低（原住民身份相關，但脫拉庫本身已公開族群身份）
 - **Reference**: https://twindiemusic.com/
 
+### 明鄭與荷西沙漠補文系列 NEW（時間台灣頁揭露的分期缺口）
+
+- **Type**: `NEW`（series，4 條候選拆票）
+- **Category**: History / People
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-16 by compassionate-kirch session（時間台灣頁內容盤點）
+- **Notes**:
+  - 時間台灣頁（/timeline）內容盤點揭露：**明鄭 1662-1683 是全站唯一沒有獨立條目的時代**（僅共用的荷西明鄭時期＋鄭成功人物頁）；荷西 1624-1662 也薄（無熱蘭遮城 / VOC / 西班牙北台灣獨立條目）。頁上沙漠註記已公開對讀者承認缺口
+  - 候選（依價值排序）：(1) 東寧王國（制度＋陳永華，補明鄭主幹）(2) 熱蘭遮城（荷蘭時代最強物件錨點，考古＋圍城戰）(3) 施琅（澎湖海戰＋台灣棄留疏——「棄留」辯論是島史觀絕佳素材）(4) 西班牙北台灣十六年（聖薩爾瓦多城考古）
+  - ship 後把 slug 加進 `src/data/timeline-eras.json` 對應時代（tungning / age-of-sail），沙漠註記可視覆蓋度調整措辭
+  - cross-link：[荷西明鄭時期] / [鄭成功] / [台灣海洋貿易史] / [福爾摩沙] / [台灣島史觀]
+- **Reference**: reports/timeline-page-design-2026-07-16.md §四（內容盤點）＋ memory/2026-07-16-154753-compassionate-kirch.md handoff
+
 ## 🚧 In-Progress
 
 _（暫無主動顯示的條目。實際 in-progress 狀態在 §Pending 的 entries 裡用 `Status: in-progress` 標記。）_
