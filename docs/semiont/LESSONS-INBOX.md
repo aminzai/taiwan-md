@@ -331,6 +331,13 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-16 newsroom — shell-cwd-silent-reset-cross-worktree：長 session 的 Bash cwd 靜默跳回主 repo，worktree 相對路徑操作落錯樹
+
+- **現象**：worktree session 中段，shell cwd 在某次工具呼叫之間回到主 repo；後續用相對路徑的 python 腳本把 ui.ts 六語鍵與 Header 桌面版改動寫進主 repo 的同名檔。兩棵樹檔案結構相同，零報錯，直到 dev server 渲染出 literal i18n key 才現形。
+- **修復**：git diff 主 repo → patch apply 到 worktree → 主 repo checkout 還原。
+- **教訓方向**：worktree session 內的檔案操作用絕對路徑，或每個 Bash 呼叫開頭 cd；「pwd 斷言」可考慮進 worktree SOP。相鄰反射 #9（worktree 開工）與 #46（commit 前確認 working tree）都管 git 面，沒管 shell cwd 漂移這一層。vc=1。
+- **同 session 次要**：worktree 內跑 `npm run build` 會弄髒 derived tracked 檔（README stats／src/data JSON），ship 前需棄置——semiont-worktree.sh ship 撞 unstaged 即此因。
+
 ### 2026-06-28 twmd-routine-audit-weekly — polish-hint-default-broken：morning maintainer polish-hint 路徑被 contributor 解讀為「沒檢查就發送」
 
 - **pattern**: `polish-hint-default-broken`（maintainer relationship 紀律 gap）
