@@ -356,3 +356,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-16 | 163500-newsroom-dogfood | v9 首次全程 dogfood 啟動：大罷免 EVOLVE 跑至 Stage 0 觀點 agent 派發（run 進行中，context 壓縮前收官）；四路研究 fan-out 已備 | contract 盲點只有真執行者踩得出（F1-F3）；政治題邊界要 prompt 槽位 | [→](memory/2026-07-16-163500-newsroom-dogfood.md) |
 | 2026-07-16 | 165239-taiwan-md-support-cta | 啟維斗內建議落地：文章簽名檔三選項＋全站七贊助入口＋UTM/GA4 漏斗＋support-funnel.py；readingTime 污染 12 檔 heal；merge main | ask 放在價值交付時刻；不加的清單也是策展 | [→](memory/2026-07-16-165239-taiwan-md-support-cta.md) |
 | 2026-07-16 | 172705-release-v1.13.0 | v1.13.0 開著門寫作發版：257 commits 全讀＋四硬閘全過＋六語 about 里程碑＋認知層同步；順手收 babel 孤兒補丁 10 檔 | notes 過 prose-health 才 ship；孤兒檔先驗 YAML 再收 | [→](memory/2026-07-16-172705-release-v1.13.0.md) |
+| 2026-07-16 | 205022-inbox-audit | 雙 inbox 深度盤點：清 11 幽靈與重複＋補登 3 篇漏記 DONE-LOG＋分區重排；全站品質審核 69 篇單薄文排入重建 batch（洪醒夫 P0） | buffer 幽靈長在 ship 與歸檔的縫隙；無降級機制的優先序必然通膨 | [→](memory/2026-07-16-205022-inbox-audit.md) |
