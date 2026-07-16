@@ -351,4 +351,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-15 | 121155-manual | Finale：AAMA light 3.6 關單 + 草稿清掉 + H2 plugin 進 QUEUE #15；整日編輯弧 handoff 收乾 | 清 pending＝裁決不是加 TODO | [→](memory/2026-07-15-121155-manual.md) |
 | 2026-07-15 | 191335-manual | 尊深度重寫：27 個研究網址、72 個事實 atoms、責任分界與五節成年紀錄；最終查核修清死鏈與引用缺口 | 工具全綠後仍要逐 atom 回來源 | [→](memory/2026-07-15-191335-manual.md) |
 | 2026-07-15 | 231142-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 14.59% vc=12；免疫 60→58 首掉；rider heal 71h→0h + rewrite-daily silent-death | rider 沒進 SKILL.md、靠 yellow 提醒＝沒儀器化（#74 dual） | [→](memory/2026-07-15-231142-twmd-data-refresh-pm.md) |
+| 2026-07-16 | 154753-compassionate-kirch | 時間台灣誕生：探索新增六語歷史時間軸頁（/timeline），八時代＋40 事件＋74 篇文章接進軸線；明鄭沙漠標成邀請 | content-visibility 微優化會整頁不繪製；沙漠公開標示＝繁殖入口 | [→](memory/2026-07-16-154753-compassionate-kirch.md) |
 | 2026-07-16 | 161654-newsroom | REWRITE v9 索引化（10 stage contract、行數守恆）＋共享編輯台公開上線（泳道看板/making-of/nav/本機控制）＋編輯室攻防輪與總編室；`2b1102407` | 拆檔對錯隨讀者拓撲翻轉；看板從檔案推導不建第二本帳 | [→](memory/2026-07-16-161654-newsroom.md) |
