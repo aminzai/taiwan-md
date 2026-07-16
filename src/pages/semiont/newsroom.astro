@@ -161,7 +161,7 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
   description="Taiwan.md 的公開編輯台：每篇文章在生產線的哪一站、產出了什麼、下一步怎麼推進，總編輯視角一眼看完。"
   lang="zh-TW"
 >
-  <main class="newsroom">
+  <main class="newsroom semiont-paper">
     <header class="nr-head">
       <p class="nr-eyebrow">
         SEMIONT NEWSROOM <span class="nr-beta">beta</span>
@@ -172,12 +172,20 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
         被吵（編輯室分席對抗）、被驗（事實查核與成品總驗），生產狀態攤在這裡。
         看板由生產線的檔案現況直接推導，沒有第二本帳。第一階段唯讀。
       </p>
+      <div class="nr-stats">
+        <span class="nr-stat"
+          ><b>{inflight.length + blocked.length}</b> 產線上</span
+        >
+        <span class="nr-stat"><b>{inbox.length}</b> 收件</span>
+        <span class="nr-stat"><b>{shipped.length}</b> 已出刊</span>
+        <span class="nr-stat dim">{generatedAt} 更新</span>
+      </div>
       <p class="nr-meta">
-        資料時間 {generatedAt}（台北）· 進行中 {
-          inflight.length + blocked.length
-        } · 收件 {inbox.length} · 已出刊 {shipped.length} · 產線規格
-        <a href={GH + 'docs/pipelines/REWRITE-PIPELINE.md'}
-          >REWRITE-PIPELINE v9</a
+        產線規格
+        <a
+          href={GH + 'docs/pipelines/REWRITE-PIPELINE.md'}
+          target="_blank"
+          rel="noopener">REWRITE-PIPELINE v9</a
         > ·
         <a href="/about/文章如何誕生/">文章如何誕生 →</a>
       </p>
@@ -261,7 +269,12 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
                           <p>
                             <strong>階段產物：</strong>
                             {artifacts(a).map((x) => (
-                              <a class="nr-artifact" href={x.href}>
+                              <a
+                                class="nr-artifact"
+                                href={x.href}
+                                target="_blank"
+                                rel="noopener"
+                              >
                                 {x.lane} ↗
                               </a>
                             ))}
@@ -321,7 +334,9 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
       </div>
       <p class="nr-legend">
         ● 完成／pass　◐ 進行中／revise　○ 待做　✕ 卡關　· 尚未到站。欄位編號＝
-        <a href={GH + 'docs/pipelines/'}>REWRITE-STAGE contract</a> 序列。
+        <a href={GH + 'docs/pipelines/'} target="_blank" rel="noopener"
+          >REWRITE-STAGE contract</a
+        > 序列。
       </p>
     </section>
 
@@ -382,7 +397,12 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
                 <li>
                   {a.title}
                   {artifacts(a).map((x) => (
-                    <a class="nr-artifact" href={x.href}>
+                    <a
+                      class="nr-artifact"
+                      href={x.href}
+                      target="_blank"
+                      rel="noopener"
+                    >
                       {x.lane} ↗
                     </a>
                   ))}
@@ -491,6 +511,27 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
     opacity: 0.9;
     max-width: 60rem;
   }
+  .nr-stats {
+    display: flex;
+    gap: 0.7rem;
+    flex-wrap: wrap;
+    margin-top: 0.9rem;
+  }
+  .nr-stat {
+    border: 1px solid rgba(79, 209, 176, 0.35);
+    border-radius: 10px;
+    padding: 0.35em 0.9em;
+    font-size: 0.85rem;
+  }
+  .nr-stat b {
+    font-size: 1.15rem;
+    color: #4fd1b0;
+    margin-right: 0.3em;
+  }
+  .nr-stat.dim {
+    opacity: 0.6;
+    border-color: rgba(128, 128, 128, 0.3);
+  }
   .nr-meta {
     font-size: 0.85rem;
     opacity: 0.7;
@@ -527,7 +568,10 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
   table.nr-lane {
     width: 100%;
     border-collapse: collapse;
-    font-size: 0.95rem;
+    font-size: 1rem;
+  }
+  .nr-row:nth-child(even) {
+    background: rgba(255, 255, 255, 0.02);
   }
   .nr-lane th {
     padding: 0.6rem 0.4rem;
@@ -571,7 +615,8 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
     display: none;
   }
   .nr-title-text {
-    font-weight: 600;
+    font-weight: 700;
+    font-size: 1.02rem;
   }
   .nr-detail {
     font-size: 0.85rem;
@@ -642,9 +687,10 @@ const generatedAt = new Date(board.generated).toLocaleString('zh-TW', {
     color: rgba(128, 128, 128, 0.5);
   }
   .nr-cur {
-    outline: 1px dashed #e8a94f;
+    outline: 2px solid rgba(232, 169, 79, 0.8);
     outline-offset: -4px;
     border-radius: 8px;
+    background: rgba(232, 169, 79, 0.08);
   }
   /* 純 CSS tooltip */
   .nr-cell [data-tip] {

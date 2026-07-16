@@ -2,17 +2,17 @@
 import Layout from '../../../layouts/Layout.astro';
 import '../../../styles/semiont.css';
 // ─────────────────────────────────────────────────────────────────────────────
-// Making-of（單篇編輯台紀錄）— 公開唯讀 · beta
+// 編輯室現場（Making-of theater）— 公開唯讀 · beta · v2
 //
-// 這篇文章怎麼被想（投影論點）、被吵（編輯室分席對抗 + 主編裁決）、被驗
-// （事實查核），全部原始檔本來就活在公開 repo；本頁只是把它們排出來看。
-// 資料來源：src/lib/semiont-newsroom.ts 解析
-//   reports/article-projection/{slug}.md
-//   reports/editorial-room/*.md
-// 零 client JS，build-time 全靜態。
+// v2（2026-07-16 哲宇 directive）：從「產物陳列」升級成「看得見思考怎麼打架」：
+// 階段軌道（這篇走到哪）→ 投影論點（戰場）→ 各席開火（頭像對話）→ 攻防
+// （挑戰左、答辯右、裁決中）→ 主編拍板。多輪 review 依序演進（revise → pass
+// 的過程就是睨說的「爭議過程」）。捲動進場動畫、零框架 JS。
+// 資料：src/lib/semiont-newsroom.ts ＋ dashboard-newsroom.json（階段軌道）。
 // ─────────────────────────────────────────────────────────────────────────────
 import { getMakingOfSlugs, getMakingOf } from '../../../lib/semiont-newsroom';
 import type { ReviewData } from '../../../lib/semiont-newsroom';
+import board from '../../../../public/api/dashboard-newsroom.json';
 
 export async function getStaticPaths() {
   const slugs = await getMakingOfSlugs();
@@ -25,14 +25,59 @@ const { projection, projectionFile, reviews } = makingOf;
 
 const GH = 'https://github.com/frank890417/taiwan-md/blob/main/';
 
+// 階段軌道：從看板資料撈這篇的燈號
+const boardRec = (board as any).articles.find((a: any) => a.slug === slug);
+const RAIL = [
+  { id: 'viewpoint', short: '0', name: '觀點' },
+  { id: 'research', short: '1A', name: '研究' },
+  { id: 'projection', short: '2A', name: '投影' },
+  { id: 'room_projection', short: '2B', name: '投影室' },
+  { id: 'write', short: '2C', name: '寫作' },
+  { id: 'room_prose', short: '2E', name: '正文室' },
+  { id: 'verify', short: '3', name: '驗證' },
+  { id: 'room_chief', short: '3.7', name: '總編' },
+  { id: 'ship', short: '✓', name: '出刊' },
+];
+function railState(id: string): 'ok' | 'mid' | 'bad' | 'none' {
+  const st = boardRec?.stages?.[id]?.status;
+  if (!st) return 'none';
+  if (['done', 'pass', 'staged'].includes(st)) return 'ok';
+  if (['block', 'blocked', 'FAIL'].includes(st)) return 'bad';
+  return 'mid';
+}
+const shipArtifact = boardRec?.stages?.ship?.artifact as string | undefined;
+const articleHref = shipArtifact
+  ? '/' + shipArtifact.replace(/^knowledge\//, '').replace(/\.md$/, '/')
+  : null;
+const articleTitle =
+  boardRec?.title && boardRec.title !== slug ? boardRec.title : slug;
+
 const ROOM_LABEL: Record<string, string> = {
   projection: '投影室',
   'prose-structure': '正文結構室',
   chief: '總編室',
 };
-
+const ROOM_DESC: Record<string, string> = {
+  projection:
+    '藍圖還沒給寫手之前，三席先吵一輪：結構站不站得住、減法誠不誠實、會不會炎上。',
+  'prose-structure':
+    '正文寫完，兩席驗收：藍圖有沒有被執行、論點有沒有在中段被賺到。',
+  chief: '總編冷讀成品：不看藍圖、不看研究，只問這篇作為一篇報導成不成立。',
+};
 function roomLabel(room: string): string {
   return ROOM_LABEL[room] ?? (room ? room : '編輯室');
+}
+
+// 席位頭像（依席名 substring 對映）
+function seatAvatar(name: string): string {
+  if (name.includes('結構')) return '📐';
+  if (name.includes('減法')) return '✂️';
+  if (name.includes('炎上') || name.includes('倫理')) return '🔥';
+  if (name.includes('兌現') || name.includes('論點')) return '🎯';
+  if (name.includes('總編') || name.includes('門面') || name.includes('主軸'))
+    return '🗞️';
+  if (name.includes('事實') || name.includes('查核')) return '🔬';
+  return '🧑‍💼';
 }
 
 function verdictClass(v: string): 'ok' | 'mid' | 'bad' {
@@ -43,12 +88,21 @@ function verdictClass(v: string): 'ok' | 'mid' | 'bad' {
   if (w === 'block' || w === 'blocked') return 'bad';
   return 'mid';
 }
-
 function verdictLabel(v: string): string {
   return v && v.trim() ? v.trim() : '（未標註）';
 }
 
-// 頁尾原始檔連結：投影藍圖 + 每份 review，去重
+// 多輪演進：同 room 的 reviews 依檔名 -rN 排序（lib 已排），標輪次
+const roomsSeen = new Map<string, number>();
+const reviewsWithRound = reviews.map((r) => {
+  const n = (roomsSeen.get(r.room) ?? 0) + 1;
+  roomsSeen.set(r.room, n);
+  return { ...r, roundLabel: n };
+});
+const multiRound = new Set(
+  [...roomsSeen.entries()].filter(([, n]) => n > 1).map(([room]) => room),
+);
+
 const rawFiles = Array.from(
   new Set([
     ...(projectionFile ? [projectionFile] : []),
@@ -58,187 +112,257 @@ const rawFiles = Array.from(
 ---
 
 <Layout
-  title={`${slug} 的編輯台紀錄 — Taiwan.md Newsroom（beta）`}
-  description={`${slug} 這篇文章怎麼被想（投影論點）、被吵（編輯室分席對抗）、被驗——原始審查紀錄全部攤開。`}
+  title={`編輯室現場：${articleTitle} — Taiwan.md Newsroom（beta）`}
+  description={`看「${articleTitle}」在 AI 新聞台裡怎麼被想（投影論點）、被吵（分席對抗與攻防）、被驗——思考脈絡全部攤開。`}
   lang="zh-TW"
 >
-  <main class="mk">
-    <header class="mk-head">
-      <p class="mk-eyebrow">
-        SEMIONT NEWSROOM <span class="mk-beta">beta</span>
-      </p>
-      <h1>{slug}</h1>
-      <p class="mk-lede">這篇文章的編輯台紀錄</p>
-      <p class="mk-back"><a href="/semiont/newsroom">← 回共享編輯台看板</a></p>
-    </header>
+  <div class="mk-shell semiont-paper">
+    <main class="mk">
+      <header class="mk-head">
+        <p class="mk-eyebrow">
+          SEMIONT NEWSROOM <span class="mk-beta">beta</span>
+        </p>
+        <h1>編輯室現場</h1>
+        <p class="mk-lede">
+          {
+            articleHref ? (
+              <a href={articleHref}>{articleTitle}</a>
+            ) : (
+              articleTitle
+            )
+          }
+          ——這篇文章怎麼被想、被吵、被驗，思考的每一步都留了檔。
+        </p>
+        <p class="mk-back"><a href="/semiont/newsroom">← 回共享編輯台</a></p>
+      </header>
 
-    {
-      projection ? (
-        <section class="mk-card mk-projection">
-          <h2>
-            📐 投影藍圖
-            {projection.spineType && (
-              <span class="mk-badge spine">{projection.spineType}</span>
-            )}
-          </h2>
-          {projection.date && <p class="mk-meta">投影日期 {projection.date}</p>}
-
-          {projection.thesisHtml && (
-            <div class="mk-block">
-              <h3>論點</h3>
-              <div class="mk-quote" set:html={projection.thesisHtml} />
-            </div>
-          )}
-
-          {projection.skeletonHtml && (
-            <div class="mk-block">
-              <h3>骨架</h3>
-              <div class="mk-prose" set:html={projection.skeletonHtml} />
-            </div>
-          )}
-
-          {projection.subtractionHtml && (
-            <div class="mk-block">
-              <h3>減法</h3>
-              <div class="mk-prose" set:html={projection.subtractionHtml} />
-            </div>
-          )}
-        </section>
-      ) : (
-        <section class="mk-card mk-empty">
-          <p>
-            這篇文章目前沒有找到投影藍圖（reports/article-projection/
-            沒有對應檔案）。
-          </p>
-        </section>
-      )
-    }
-
-    {
-      reviews.length === 0 && (
-        <section class="mk-card mk-empty">
-          <p>目前沒有找到編輯室審查紀錄。</p>
-        </section>
-      )
-    }
-
-    {
-      reviews.map((review: ReviewData) => (
-        <section class="mk-card mk-room">
-          <h2>
-            🏛️ 編輯室・{roomLabel(review.room)}
-            {review.overall && (
-              <span class={`mk-badge v-${verdictClass(review.overall)}`}>
-                {verdictLabel(review.overall)}
+      {
+        boardRec && (
+          <section class="mk-rail reveal" aria-label="產線軌道">
+            {RAIL.map((r, i) => (
+              <span class="mk-rail-stop">
+                <span class={`mk-rail-dot ${railState(r.id)}`}>{r.short}</span>
+                <span class="mk-rail-name">{r.name}</span>
+                {i < RAIL.length - 1 && <span class="mk-rail-line" />}
               </span>
+            ))}
+          </section>
+        )
+      }
+
+      {
+        projection && (
+          <section class="mk-card mk-projection reveal">
+            <h2>
+              📐 開場：總編輯的投影藍圖
+              {projection.spineType && (
+                <span class="mk-badge spine">{projection.spineType}</span>
+              )}
+            </h2>
+            <p class="mk-meta">
+              {projection.date && <>投影日期 {projection.date} · </>}
+              寫手動筆之前，先決定這篇要說什麼、砍什麼。
+            </p>
+            {projection.thesisHtml && (
+              <div class="mk-block">
+                <h3>論點（這篇要賺到的一句話）</h3>
+                <div class="mk-quote" set:html={projection.thesisHtml} />
+              </div>
             )}
-          </h2>
-          <p class="mk-meta">
-            {review.date && <>{review.date} · </>}
-            {review.rounds && <>第 {review.rounds} 輪 · </>}
-            <a href={GH + review.file}>原始審查檔 →</a>
-          </p>
+            {projection.skeletonHtml && (
+              <details class="mk-fold">
+                <summary>骨架（動作序列）</summary>
+                <div class="mk-prose" set:html={projection.skeletonHtml} />
+              </details>
+            )}
+            {projection.subtractionHtml && (
+              <details class="mk-fold">
+                <summary>減法（刻意不寫的）</summary>
+                <div class="mk-prose" set:html={projection.subtractionHtml} />
+              </details>
+            )}
+          </section>
+        )
+      }
 
-          {review.seats.length > 0 && (
-            <div class="mk-seats">
-              {review.seats.map((seat) => (
-                <div class={`mk-bubble seat-${verdictClass(seat.verdict)}`}>
-                  <p class="mk-bubble-head">
-                    <span class="mk-seat-name">{seat.name}</span>
-                    <span class={`mk-badge v-${verdictClass(seat.verdict)}`}>
-                      {verdictLabel(seat.verdict)}
-                    </span>
-                  </p>
-                  <div class="mk-bubble-body" set:html={seat.findingsHtml} />
-                </div>
-              ))}
-            </div>
-          )}
+      {
+        reviewsWithRound.length === 0 && (
+          <section class="mk-card mk-empty reveal">
+            <p>
+              目前沒有找到編輯室審查紀錄（這篇可能還沒走到編輯室，或走的是舊制產線）。
+            </p>
+          </section>
+        )
+      }
 
-          {review.mustFix.length > 0 && (
-            <div class="mk-mustfix">
-              <h3>必改清單</h3>
-              <ol>
-                {review.mustFix.map((item) => (
-                  <li set:html={item} />
+      {
+        reviewsWithRound.map((review) => (
+          <section class="mk-card mk-room reveal">
+            <h2>
+              🏛️ {roomLabel(review.room)}
+              {multiRound.has(review.room) && (
+                <span class="mk-badge round">第 {review.roundLabel} 輪</span>
+              )}
+              {review.overall && (
+                <span class={`mk-badge v-${verdictClass(review.overall)}`}>
+                  {verdictLabel(review.overall)}
+                </span>
+              )}
+            </h2>
+            <p class="mk-meta">
+              {ROOM_DESC[review.room] ?? ''}
+              {review.date && <> · {review.date}</>} ·
+              <a href={GH + review.file} target="_blank" rel="noopener">
+                原始審查檔 ↗
+              </a>
+            </p>
+
+            {review.seats.length > 0 && (
+              <div class="mk-seats">
+                {review.seats.map((seat) => (
+                  <div
+                    class={`mk-bubble seat-${verdictClass(seat.verdict)} reveal`}
+                  >
+                    <p class="mk-bubble-head">
+                      <span class="mk-avatar">{seatAvatar(seat.name)}</span>
+                      <span class="mk-seat-name">{seat.name}</span>
+                      <span class={`mk-badge v-${verdictClass(seat.verdict)}`}>
+                        {verdictLabel(seat.verdict)}
+                      </span>
+                    </p>
+                    <div class="mk-bubble-body" set:html={seat.findingsHtml} />
+                  </div>
                 ))}
-              </ol>
-            </div>
-          )}
+              </div>
+            )}
 
-          {review.debate && review.debate.length > 0 && (
-            <div class="mk-debate">
-              <h3>攻防</h3>
-              {review.debate.map((d) => (
-                <div class="mk-debate-item">
-                  {d.challenge && (
-                    <p class="mk-debate-line line-challenge">
-                      <span class="mk-debate-label">質疑</span>
-                      <span set:html={d.challenge} />
-                    </p>
-                  )}
-                  {d.defense && (
-                    <p class="mk-debate-line line-defense">
-                      <span class="mk-debate-label">回應</span>
-                      <span set:html={d.defense} />
-                    </p>
-                  )}
-                  {d.ruling && (
-                    <p class="mk-debate-line line-ruling">
-                      <span class="mk-debate-label">裁決</span>
-                      <span set:html={d.ruling} />
-                    </p>
-                  )}
-                </div>
-              ))}
-            </div>
-          )}
+            {review.mustFix.length > 0 && (
+              <div class="mk-mustfix reveal">
+                <h3>⚡ 必改清單（主編收斂各席意見）</h3>
+                <ol>
+                  {review.mustFix.map((item) => (
+                    <li set:html={item} />
+                  ))}
+                </ol>
+              </div>
+            )}
 
-          {review.rulingHtml && (
-            <div class="mk-bubble mk-ruling">
-              <p class="mk-bubble-head">
-                <span class="mk-seat-name">主編裁決</span>
-              </p>
-              <div class="mk-bubble-body" set:html={review.rulingHtml} />
-            </div>
-          )}
-        </section>
-      ))
-    }
+            {review.debate && review.debate.length > 0 && (
+              <div class="mk-debate">
+                <h3>⚔️ 攻防（寫方有一次答辯權）</h3>
+                {review.debate.map((d) => (
+                  <div class="mk-debate-item reveal">
+                    {d.challenge && (
+                      <div class="mk-fight challenge">
+                        <span class="mk-fight-who">🏛️ 席位</span>
+                        <div class="mk-fight-text" set:html={d.challenge} />
+                      </div>
+                    )}
+                    {d.defense && (
+                      <div class="mk-fight defense">
+                        <span class="mk-fight-who">✍️ 寫方</span>
+                        <div class="mk-fight-text" set:html={d.defense} />
+                      </div>
+                    )}
+                    {d.ruling && (
+                      <div class="mk-fight ruling">
+                        <span class="mk-fight-who">⚖️ 主編</span>
+                        <div class="mk-fight-text" set:html={d.ruling} />
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+            )}
 
-    <footer class="mk-foot">
-      <p>素材全部活在公開 repo，以下是這篇文章編輯台紀錄用到的原始檔：</p>
-      <ul class="mk-raw-list">
-        {
-          rawFiles.map((f) => (
-            <li>
-              <a href={GH + f}>{f}</a>
-            </li>
-          ))
-        }
-      </ul>
-      <p class="mk-foot-note">
-        這是「編輯室對抗」與「思考脈絡公開化」實驗的一部分（2026-07-16 誕生）。
-        回饋歡迎開 <a href="https://github.com/frank890417/taiwan-md/issues"
-          >issue</a
-        >。🧬
-      </p>
-    </footer>
-  </main>
+            {review.rulingHtml && (
+              <div class="mk-bubble mk-ruling reveal">
+                <p class="mk-bubble-head">
+                  <span class="mk-avatar">⚖️</span>
+                  <span class="mk-seat-name">主編裁決</span>
+                </p>
+                <div class="mk-bubble-body" set:html={review.rulingHtml} />
+              </div>
+            )}
+          </section>
+        ))
+      }
+
+      <footer class="mk-foot">
+        <p>這裡的每一句吵架都有原始檔，全部活在公開 repo：</p>
+        <ul class="mk-raw-list">
+          {
+            rawFiles.map((f) => (
+              <li>
+                <a href={GH + f} target="_blank" rel="noopener">
+                  {f}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+        <p class="mk-foot-note">
+          「編輯室現場」是思考脈絡公開化實驗的一部分（2026-07-16
+          誕生，源自哲宇與
+          辯論教育者陳睨的對話：「會非常有趣，如果有爭議過程的話」）。回饋歡迎開
+          <a
+            href="https://github.com/frank890417/taiwan-md/issues"
+            target="_blank"
+            rel="noopener">issue</a
+          >。🧬
+        </p>
+      </footer>
+    </main>
+  </div>
 </Layout>
 
+<script is:inline>
+  // 捲動進場：IntersectionObserver 逐個 reveal（無框架、prefers-reduced-motion 尊重）
+  if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    const io = new IntersectionObserver(
+      (entries) => {
+        for (const e of entries) {
+          if (e.isIntersecting) {
+            e.target.classList.add('is-in');
+            io.unobserve(e.target);
+          }
+        }
+      },
+      { threshold: 0.08 },
+    );
+    document.querySelectorAll('.reveal').forEach((el) => io.observe(el));
+  } else {
+    document
+      .querySelectorAll('.reveal')
+      .forEach((el) => el.classList.add('is-in'));
+  }
+</script>
+
 <style>
+  .mk-shell {
+    min-height: 100vh;
+    padding: 0.5rem 0 0;
+  }
   .mk {
-    max-width: 46rem;
+    max-width: 48rem;
     margin: 0 auto;
     padding: 2rem 1.5rem 4rem;
-    background: #101418;
     color: #dce3e8;
-    min-height: 100vh;
-    line-height: 1.75;
+    line-height: 1.8;
+  }
+  .reveal {
+    opacity: 0;
+    transform: translateY(14px);
+    transition:
+      opacity 0.5s ease,
+      transform 0.5s ease;
+  }
+  .reveal.is-in {
+    opacity: 1;
+    transform: none;
   }
   .mk-head {
-    margin-bottom: 2rem;
+    margin-bottom: 1.6rem;
   }
   .mk-eyebrow {
     letter-spacing: 0.2em;
@@ -254,13 +378,16 @@ const rawFiles = Array.from(
     font-size: 0.7rem;
   }
   .mk-head h1 {
-    font-size: 1.9rem;
+    font-size: 2rem;
     margin: 0.25rem 0 0.5rem;
-    word-break: break-word;
   }
   .mk-lede {
-    opacity: 0.85;
+    opacity: 0.9;
     margin: 0 0 0.75rem;
+    font-size: 1.02rem;
+  }
+  .mk-lede a {
+    color: #4fd1b0;
   }
   .mk-back a {
     font-size: 0.85rem;
@@ -271,6 +398,64 @@ const rawFiles = Array.from(
     text-decoration: underline;
   }
 
+  /* 階段軌道 */
+  .mk-rail {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 0.15rem;
+    margin: 0 0 1.6rem;
+    padding: 0.9rem 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.02);
+  }
+  .mk-rail-stop {
+    display: flex;
+    align-items: center;
+  }
+  .mk-rail-dot {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2rem;
+    height: 2rem;
+    border-radius: 999px;
+    border: 1.5px solid rgba(128, 128, 128, 0.4);
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 0 0.3em;
+  }
+  .mk-rail-dot.ok {
+    border-color: #4fd1b0;
+    color: #4fd1b0;
+    background: rgba(79, 209, 176, 0.1);
+  }
+  .mk-rail-dot.mid {
+    border-color: #e8a94f;
+    color: #e8a94f;
+    background: rgba(232, 169, 79, 0.1);
+  }
+  .mk-rail-dot.bad {
+    border-color: #e87a7a;
+    color: #e87a7a;
+  }
+  .mk-rail-dot.none {
+    opacity: 0.35;
+  }
+  .mk-rail-name {
+    font-size: 0.68rem;
+    opacity: 0.7;
+    margin: 0 0.35em 0 0.35em;
+    white-space: nowrap;
+  }
+  .mk-rail-line {
+    width: 1.1rem;
+    height: 1px;
+    background: rgba(128, 128, 128, 0.35);
+    margin-right: 0.35rem;
+  }
+
   .mk-card {
     background: rgba(255, 255, 255, 0.03);
     border: 1px solid rgba(255, 255, 255, 0.08);
@@ -279,7 +464,7 @@ const rawFiles = Array.from(
     margin-bottom: 1.5rem;
   }
   .mk-card h2 {
-    font-size: 1.15rem;
+    font-size: 1.2rem;
     margin: 0 0 0.4rem;
     display: flex;
     align-items: center;
@@ -292,9 +477,10 @@ const rawFiles = Array.from(
     margin: 1rem 0 0.5rem;
   }
   .mk-meta {
-    font-size: 0.78rem;
-    opacity: 0.6;
+    font-size: 0.8rem;
+    opacity: 0.65;
     margin: 0 0 0.6rem;
+    line-height: 1.7;
   }
   .mk-meta a {
     color: #4fd1b0;
@@ -317,6 +503,10 @@ const rawFiles = Array.from(
     border-color: #7fb8e8;
     color: #7fb8e8;
   }
+  .mk-badge.round {
+    border-color: #b8a1e8;
+    color: #b8a1e8;
+  }
   .mk-badge.v-ok {
     border-color: #4fd1b0;
     color: #4fd1b0;
@@ -338,7 +528,7 @@ const rawFiles = Array.from(
     padding: 0.7rem 1.1rem;
     background: rgba(79, 209, 176, 0.06);
     border-radius: 0 8px 8px 0;
-    font-size: 0.98rem;
+    font-size: 1rem;
   }
   .mk-quote :global(blockquote) {
     margin: 0 0 0.6em;
@@ -346,9 +536,21 @@ const rawFiles = Array.from(
     border-left: 2px solid rgba(79, 209, 176, 0.5);
     opacity: 0.95;
   }
+  .mk-fold {
+    margin: 0.7rem 0;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    padding: 0.5rem 0.9rem;
+  }
+  .mk-fold summary {
+    cursor: pointer;
+    font-size: 0.9rem;
+    opacity: 0.85;
+  }
   .mk-prose {
     font-size: 0.92rem;
     opacity: 0.9;
+    margin-top: 0.5rem;
   }
   .mk-prose :global(ol),
   .mk-prose :global(ul) {
@@ -368,8 +570,8 @@ const rawFiles = Array.from(
     background: rgba(255, 255, 255, 0.04);
     border: 1px solid rgba(255, 255, 255, 0.08);
     border-left-width: 3px;
-    border-radius: 4px 10px 10px 10px;
-    padding: 0.7rem 0.9rem;
+    border-radius: 4px 12px 12px 12px;
+    padding: 0.8rem 1rem;
   }
   .mk-bubble.seat-ok {
     border-left-color: #4fd1b0;
@@ -385,13 +587,16 @@ const rawFiles = Array.from(
     align-items: center;
     gap: 0.5em;
     margin: 0 0 0.4rem;
-    font-size: 0.85rem;
+    font-size: 0.9rem;
+  }
+  .mk-avatar {
+    font-size: 1.15rem;
   }
   .mk-seat-name {
     font-weight: 600;
   }
   .mk-bubble-body {
-    font-size: 0.88rem;
+    font-size: 0.9rem;
     opacity: 0.9;
   }
   .mk-bubble-body :global(p) {
@@ -410,6 +615,8 @@ const rawFiles = Array.from(
     border-collapse: collapse;
     font-size: 0.82rem;
     margin: 0.5em 0;
+    display: block;
+    overflow-x: auto;
   }
   .mk-bubble-body :global(th),
   .mk-bubble-body :global(td) {
@@ -420,43 +627,52 @@ const rawFiles = Array.from(
 
   .mk-mustfix ol {
     padding-left: 1.3em;
-    font-size: 0.88rem;
-    opacity: 0.9;
+    font-size: 0.9rem;
+    opacity: 0.92;
   }
   .mk-mustfix li {
     margin-bottom: 0.45em;
   }
 
+  /* 攻防：挑戰左、答辯右、裁決中 */
   .mk-debate-item {
-    margin-bottom: 0.7rem;
+    margin-bottom: 1rem;
   }
-  .mk-debate-line {
-    margin: 0 0 0.4em 0;
-    padding: 0.4em 0.7em;
-    border-radius: 0 6px 6px 0;
-    font-size: 0.85rem;
+  .mk-fight {
+    max-width: 88%;
+    padding: 0.55rem 0.85rem;
+    border-radius: 12px;
+    margin-bottom: 0.45rem;
+    font-size: 0.88rem;
   }
-  .mk-debate-label {
-    display: inline-block;
-    font-weight: 600;
-    margin-right: 0.5em;
-    font-size: 0.75rem;
+  .mk-fight-who {
+    display: block;
+    font-size: 0.72rem;
+    font-weight: 700;
     opacity: 0.75;
+    margin-bottom: 0.2rem;
   }
-  .line-challenge {
-    border-left: 3px solid #e87a7a;
-    background: rgba(232, 122, 122, 0.06);
-    margin-left: 0;
+  .mk-fight-text :global(p) {
+    margin: 0;
   }
-  .line-defense {
-    border-left: 3px solid #7fb8e8;
-    background: rgba(127, 184, 232, 0.06);
-    margin-left: 1rem;
+  .mk-fight.challenge {
+    background: rgba(232, 122, 122, 0.09);
+    border: 1px solid rgba(232, 122, 122, 0.35);
+    border-radius: 4px 12px 12px 12px;
+    margin-right: auto;
   }
-  .line-ruling {
-    border-left: 3px solid #4fd1b0;
-    background: rgba(79, 209, 176, 0.06);
-    margin-left: 2rem;
+  .mk-fight.defense {
+    background: rgba(127, 184, 232, 0.09);
+    border: 1px solid rgba(127, 184, 232, 0.35);
+    border-radius: 12px 4px 12px 12px;
+    margin-left: auto;
+  }
+  .mk-fight.ruling {
+    background: rgba(79, 209, 176, 0.09);
+    border: 1px solid rgba(79, 209, 176, 0.4);
+    border-radius: 12px;
+    margin: 0.2rem auto 0;
+    max-width: 76%;
   }
 
   .mk-ruling {
@@ -471,7 +687,6 @@ const rawFiles = Array.from(
   }
 
   .mk-foot {
-    max-width: 46rem;
     margin: 2rem auto 0;
     font-size: 0.8rem;
     opacity: 0.75;
