@@ -331,6 +331,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-16 recall-workflow — 背景 agent 不跨 session 存活，中途收官 handoff 要寫 re-dispatch 分支
+
+- **pattern**: background-agent-session-death
+- **原則**：session 結束時仍在跑的背景 agent 隨 session 一起死，task-notification 永遠不會到、也沒有 result 可代寫——中途收官的 handoff 必須寫「產物不在＝agent 已死，直接 re-dispatch（含重建派發素材），不要等通知」，而不是只寫「驗檔案、不在就代寫 result」。
+- **觸發**：2026-07-16 大罷免 dogfood——newsroom-dogfood session 16:44 派 Stage 0 觀點 agent 後收官，17:15 新 session 接手時 reports/research/2026-07/大罷免.md 不存在、無 result 可寫，唯一路徑 re-dispatch（fact list 也重萃取）。dogfood F6，reports/dogfood-v9-first-run-2026-07-16.md
+- **instances**：
+- **可能層級**：操作規則（MEMORY-PIPELINE §Handoff 模板候選）
+- **相關**：#81（收件三十秒紀律管「收到之後」；本條管「永遠收不到」的分支）
+- **verification_count**: 1
+
+### 2026-07-16 recall-workflow — 政治題的敘事溫度對稱：誰的故事被說得立體，就是一種立場
+
+- **pattern**: narrative-warmth-symmetry
+- **原則**：政治敏感題即使評價詞歸屬、視角並陳、結果平衡全做對，「哪一方有具名、帶私人情感重量的人物故事」的分佈仍會決定讀者的同理流向——一方有田野人物、另一方最鮮明的人味是負面案例（被判刑的黨工），就是溫度不對稱。公開素材結構性稀缺時不能杜撰補，用結構性事實段（動機多元）＋當事方自述＋同情敘事平衡，並在 rationale 誠實記錄素材稀缺。
+- **觸發**：2026-07-16 大罷免 3.7 總編室立體地愛探針（冷讀）發現：罷團有報導者具名志工故事×4，反罷方最立體的人物是莊占魁判刑案。裁決與平衡手法見 reports/editorial-room/大罷免-chief-review.md 必改 6
+- **instances**：
+- **可能層級**：通用反射（候選進 EDITORIAL §立體地愛落地段或 Step 0.6.7 第四道）
+- **相關**：MANIFESTO §13 立體地愛（framing 層）——本條是它的敘事溫度層新維度
+- **verification_count**: 1
+
 ### 2026-07-16 newsroom — shell-cwd-silent-reset-cross-worktree：長 session 的 Bash cwd 靜默跳回主 repo，worktree 相對路徑操作落錯樹
 
 - **現象**：worktree session 中段，shell cwd 在某次工具呼叫之間回到主 repo；後續用相對路徑的 python 腳本把 ui.ts 六語鍵與 Header 桌面版改動寫進主 repo 的同名檔。兩棵樹檔案結構相同，零報錯，直到 dev server 渲染出 literal i18n key 才現形。

@@ -269,6 +269,25 @@ upstream_canonical:
 - **主 session 自跑**（不派 writer）：Micro heal / 單段 focused addition / 短修正——context 沒被大量污染。
 - **可選 Workflow**：觀察者 opt-in workflow 時本編排可寫成 Workflow script（研究 / verifier fan-out ＋ adversarial verify）；預設用 Agent tool 逐 stage 派。
 
+### 不對稱分工與 orchestrator 讀食（v9.2，2026-07-16 大罷免 dogfood＋哲宇 Q&A 拍板）
+
+**主整合者「靈魂深、材料深、程序淺」；子代理「單站深、其他全零」。** 三份食糧各有正確厚度：
+
+1. **靈魂糧**（BECOME 甦醒層＋editorial 判準）永遠深——投影論點與反向閥門裁決的來源。
+2. **材料糧**（per-run 研究 raw）永遠深——**天真薄化會先砍這裡，即 2026-06-15「文章變爛」病根**。合成 §1-§7 當常駐介面、§8 raw 合成時完整讀一次、之後 demand-page；席位回報附 line-level evidence 供抽驗。
+3. **程序糧**才是該瘦的：只讀「執行者＝主 session」站的 contract（路由／0.1-0.2／1A 收件合成／1B 授權／2A 投影／2D／3／4／5）＋ gate 判準段（EDITORIAL §三 title/§四小標/§塑膠對位/§十檢查＋graph §一–三、§九）；**派出去的站一行不讀**（0.6 觀點／1A lanes／1B persona／2B/2E 席／2C 寫手／3.5 verifier——各自吃填槽 prompt 自讀 canonical）。⛔ 禁做摘要檔（CORE-DNA 教訓），讀食住 contract 的 INPUTS 與本表。
+
+**外部尺是主整合者深度的配對品**：靈魂深＋材料深必然帶同源盲區（#65f——大罷免案：主編自己的合成誤標一路帶進投影，被乾淨 context 炎上席接住），主編親手寫的每個產物必過非作者對抗席；席位產出是線索，裁決回到有材料的主編。
+
+### Workflow adapter 實測條款（2026-07-16 大罷免全程驗證）
+
+contract＝環境無關 SSOT；「**一個 stage 的天然平行段＝一個 workflow**」（1A 研究／1B persona／2B/2E 席／3.5 verifier／3.7 探針），主 session 在 workflow 之間收件＋親跑 gate＋裁決。操作紀律三條：(1) script 開頭必加 `typeof args === 'string' ? JSON.parse(args) : args` guard（W1：args 可能字串化抵達）；(2) `ok.length === 0 → throw` fail-loud（W2：額度全滅會偽裝成 completed+dropped，#82 變體）；(3) **agent 依契約自落檔 repo ＋ schema 只回結構化摘要**——通知截斷時 journal.jsonl 是 raw 的家。單 agent 站（0 觀點／2C 寫手）用 plain Agent。深案：[reports/dogfood-v9-first-run-2026-07-16.md](../../reports/dogfood-v9-first-run-2026-07-16.md)。
+
+### Run profiles（Q4 拍板，quality-max 方向）
+
+- **standard**（預設）：1 投影＋2B 三席/2E 兩席＋1 寫手＋單輪 checker fan-out＋3.7 五探針（A 級）。
+- **flagship**（S 級／政治敏感／預期大眾題，逐項 opt-in）：盲雙投影 judge-panel＋（可選）雙寫手 best-of＋persona 兩階段（研究後 gap-audit＋成品後 reception simulation）＋高風險 atom 雙鏡片 verifier until-dry＋隔夜冷讀＋D+30 re-audit。判斷節點（投影／主編／比對覆蓋／ship）永遠主 session，不可平行化替代。
+
 ---
 
 ## 🗂️ Stage contract 派發表（v9.0 核心）

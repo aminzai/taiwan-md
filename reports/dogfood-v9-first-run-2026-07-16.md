@@ -2,18 +2,20 @@
 title: 'v9 pipeline 首次全程 dogfood — 大罷免 EVOLVE 實跑紀錄'
 description: '哲宇 goal directive：用大罷免完整實跑剛拆完的 REWRITE v9（薄索引＋stage contract），記錄所有摩擦與進化 — 邊跑邊記，收尾整理'
 type: 'ops'
-status: 'active'
-current_version: 'v0.1-running'
+status: 'done'
+current_version: 'v1.0'
 last_updated: 2026-07-16
-last_session: '2026-07-16-newsroom-dogfood'
+last_session: '2026-07-16-171443-recall-workflow'
 related:
   - 'newsroom-orchestration-design-2026-07-16.md'
 ---
 
-# v9 首次全程 dogfood — 大罷免 EVOLVE（跑動中的紀錄）
+# v9 首次全程 dogfood — 大罷免 EVOLVE（v1.0 收官）
 
 > 目的：驗證「執行者只讀一個 contract＋INPUTS 就能跑一步」是否成立；所有摩擦
-> 記錄於此，收尾時分「已修／待修／設計正確的證據」三類整理並回寫 contract。
+> 記錄於此，收尾分「已修／待修／設計正確的證據」三類整理並回寫 contract。
+> 收官結論：**成立**——7 摩擦（F1-F7）＋4 workflow 教訓（W1-W4）全數閉環或入庫，
+> 7 項設計驗證＋4 個哲宇設計問答（Q1-Q4）裁決回寫 canonical。詳見 §收尾整理。
 
 ## 執行紀錄（時間軸）
 
@@ -208,10 +210,64 @@ run 後 distill agent 挖全部 subagent journal 找主編沒注意到的摩擦�
 flagship，增量採兩樣不誇張的：top 風險 atom 雙鏡片驗證＋ship 前冷讀 pass；盲雙投影留
 給下一篇 flagship 首跑。
 
-（收尾補：F7+／W4+）
+### F7｜image-health 媒體地板量尺與 EDITORIAL v6.5 漂移（severity: 中，已修儀器）
 
-## 設計被驗證的部分（正面證據）
+Stage 4 gate 首跑 FAIL：`image_health` 地板只數「圖＋iframe」（需 7 有 4），但 EDITORIAL
+v6.5 的媒體密度口徑含 tw-\* viz 模組（本文 7 個模組全被無視）；同時字數分母把 53 條
+腳註的 CJK 全算進正文，密度被灌水。**per #56/#66 修尺不折文**：`image_health.py` 加
+`_RE_VIZ_MODULE` 計數進 `media_total`、`_RE_REF_SECTION` 擴到腳註定義行截斷分母。
+named 範本（陳建年／黃魚鴞／尊／台北吸菸室）回歸全過（commit af82d09）。
+教訓＝#65 儀器 cross-SSOT 亞型再驗證：**quality gate 的算法必須對照 EDITORIAL 條文
+口徑，不是自己發明口徑**。⚠️ threshold/quality-gate 調整屬 high-stake，本次是「儀器
+對齊既有 canonical 口徑」非放寬，但仍列入給哲宇的 review 清單。
+
+### W4｜chief-probes workflow：5 探針冷讀＋主編裁決的兩層結構成立（正面）
+
+Step 3.7 用第 5 個 workflow 派 5 探針（門面兌現／逐段主軸／H2 載體／連結成網／立體地愛）
+Sonnet 冷讀成品（禁讀藍圖與研究）。兩個經驗：(a) **探針發現 ≠ 必改清單**——16 項原始
+發現經主編裁決收斂成 7 項必改＋3 項品味保留（H2 隱喻載體是 EDITORIAL 認可型），
+editorial-room-health 的 ≤7 must-fix hard schema 反向逼迫主編做真裁決而非轉送；
+(b) **本輪最有價值發現來自「立體地愛」探針**（敘事溫度不對稱，見 LESSONS
+narrative-warmth-symmetry）——這是四種 drift 儀器與 FACTCHECK 都量不到的維度，
+證明價值觀探針與事實探針缺一不可。
+
+## 收尾整理（v1.0，三類分桶）
+
+### ✅ 已修（本 run 內閉環）
+
+| #     | 修法落點                                                                         |
+| ----- | -------------------------------------------------------------------------------- |
+| F1-F3 | STAGE-0 contract v9.1（必讀含自身路徑＋frontmatter 模板＋{TOPIC_GUARDRAILS} 槽） |
+| F4    | 三處 runtime readFileSync＋容錯＋dev 鏈生成器（commit e557c90bc）                |
+| F7    | image_health.py 對齊 EDITORIAL v6.5 口徑（commit af82d09）                       |
+| W1    | script args parse guard（`typeof args === 'string' ? JSON.parse : args`）        |
+| W2(b) | all-dropped → throw fail-loud；#82 canonical 補驗證行                            |
+
+### 📥 待修／回寫（本次自我進化落地 → 標示落點）
+
+| 項                        | 落點                                                                   | 狀態       |
+| ------------------------- | ---------------------------------------------------------------------- | ---------- |
+| Q2/Q3 不對稱分工＋讀食    | REWRITE 索引 §不對稱分工與 orchestrator 讀食（v9.2）＋CLAUDE.md Bias 3 | ✅ 本次    |
+| W1/W2/W3 操作紀律         | REWRITE 索引 §Workflow adapter 實測條款                                | ✅ 本次    |
+| Q4 run profiles           | REWRITE 索引 §Run profiles（standard／flagship）                       | ✅ 本次    |
+| F6 re-dispatch 分支       | LESSONS-INBOX `background-agent-session-death`（MEMORY-PIPELINE 候選） | 📥 distill |
+| 敘事溫度對稱              | LESSONS-INBOX `narrative-warmth-symmetry`（EDITORIAL/0.6.7 候選）      | 📥 distill |
+| contract INPUTS 雙欄標註  | 各 REWRITE-STAGE-\*.md INPUTS 加「主編讀／子代理讀」                   | 留下輪     |
+| workflow 模板 degraded 標 | 未來 workflow script 模板帶 dropped>0 degraded 標示                    | 留下輪     |
+
+### 🏛️ 設計正確的證據（不動，是資產）
 
 - V1｜薄索引的派發表讓 orchestrator 路由零猶豫：讀完 473 行即知第一站與 gate 指令
 - V2｜Step 0.2 萃取在 contract 內自足可執行（標籤表、frontmatter audit 清單都在）
 - V3｜RESEARCH-AGENT-PROMPT 填槽表＋anti-example 庫可直接用，四路 fan-out 準備零摩擦
+- V4｜乾淨 context 分席審是 same-DNA 盲點的唯一解（#65f 親身實例被接住）
+- V5｜{TOPIC_GUARDRAILS} 政治題槽＋persona 反向閥門兩層接力，中立紀實被儀器逐步逼近
+- W3｜「契約填槽×agent 自落檔×schema 結構化回報」三件套：溯源率 35%→97-100%
+- Q1｜「一個 stage 的天然平行段＝一個 workflow」路由原則五次實跑零翻案
+
+### 規模紀錄
+
+5 個 workflow（研究 fan-out／persona／投影室／factcheck+prose 室／chief 探針）＋
+2 個 plain Agent 站（Stage 0 觀點／2C 寫手），subagent 總量 ~2.1M tokens。成品：
+1,600 字 stub → 6,300+ 字深度文、53 腳註全 URL、7 viz 模組、3 CC 圖、audit 26 處批修
+全閉環，兩 profile hard=0 ship（commit 345e162）。
