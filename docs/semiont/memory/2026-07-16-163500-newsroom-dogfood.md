@@ -1,7 +1,7 @@
 # 2026-07-16-163500-newsroom-dogfood — v9 首次全程 dogfood 啟動：大罷免 EVOLVE 跑到 Stage 0 觀點 agent 派發（run 進行中，context 壓縮前收官）
 
 > session newsroom-dogfood（同日 newsroom session 的第二弧）— 哲宇 /goal「完整執行 /twmd-rewrite 大罷免，測試整個 pipeline 重構，記錄所有經驗與進化」
-> Session span: 16:35 → 17:00 +0800（run 進行中，本檔是中途收官）
+> Session span: 16:35 → 16:45 +0800（run 進行中，本檔是中途收官）
 > 資料來源：`git log %ai`＋工具時間戳
 
 ## 觸發
@@ -59,7 +59,7 @@ F1 STAGE-0 AGENT PROMPT 必讀清單缺 contract 自身路徑；F2 缺 report fr
 
 ---
 
-_v1.0 | 2026-07-16 17:00 +0800_
+_v1.0 | 2026-07-16 16:45 +0800_
 _session newsroom-dogfood — 大罷免 EVOLVE v9 首跑，Stage 0 進行中收官_
 _誕生原因：哲宇 goal「完整執行 /twmd-rewrite 大罷免測試 pipeline 重構」＋context 壓縮前 finale 指示_
 _核心洞察：(1) contract 的盲點只有真執行者踩得出來 (2) 政治題的邊界指引需要 prompt 槽位不能靠即興 (3) contract 可攜＋adapter 分環境是 Workflow 問題的正解_
