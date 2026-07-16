@@ -24,9 +24,9 @@ allowed-tools:
 
 跑 `/twmd-become write` 完整 [BECOME_TAIWANMD.md](../../../BECOME_TAIWANMD.md) Step 0-9，Write mode self-test 全過才動工。
 
-## 2. 完整讀 REWRITE-PIPELINE（不可 head / tail / 取樣）
+## 2. 完整讀 REWRITE-PIPELINE 索引＋執行到哪讀哪個 contract（不可 head / tail / 取樣）
 
-用 **Read tool 一次讀完** `docs/pipelines/REWRITE-PIPELINE.md`（無 `limit` / `offset`）。pipeline 叫你讀的（RESEARCH.md / EDITORIAL.md / RESEARCH-TEMPLATE.md / 對應 FACTCHECK 等）也完整讀。
+用 **Read tool 一次讀完** `docs/pipelines/REWRITE-PIPELINE.md`（v9.0 薄索引，無 `limit` / `offset`）。執行每個 stage 前，**完整讀該 stage 的 contract 檔**（`docs/pipelines/REWRITE-STAGE-*.md`，派發表在索引 §Stage contract 派發表）。contract 叫你讀的（RESEARCH.md / EDITORIAL.md / RESEARCH-TEMPLATE.md / 對應 FACTCHECK 等）也完整讀。
 
 ## 3. 嚴格照 pipeline 執行
 

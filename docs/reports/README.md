@@ -4,7 +4,7 @@
 
 本 folder 是 **2026-03-31 ~ 2026-04-07 早期遺跡**（誕生期沒分流好的 report 放錯位置）。已全部 `git mv` 到 [`reports/archive/2026-Q1/`](../../reports/archive/2026-Q1/)，git history 完整保留。
 
-未來所有 report 一律寫到 `reports/` 根目錄（per [REWRITE-PIPELINE Step 1.7](../pipelines/REWRITE-PIPELINE.md#step-17-研究報告必存-reportsresearchyyyy-mm-)）。
+未來所有 report 一律寫到 `reports/` 根目錄（per [REWRITE-PIPELINE Step 1.7](../pipelines/REWRITE-STAGE-1-RESEARCH.md#step-17-研究報告必存-reportsresearchyyyy-mm-)）。
 
 ## 舊路徑 → 新路徑 對照表
 

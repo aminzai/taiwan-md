@@ -33,7 +33,7 @@ audience: 'orchestrator-session-spawning-stage2-writer'
 
 ## Orchestrator 派發 SOP（五步）
 
-1. **前置**：Stage 1 已合成單檔 research report（[Step 1.7.4](REWRITE-PIPELINE.md#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）+ `research-report-health.py` PASS。writer 只讀一個 research 檔。
+1. **前置**：Stage 1 已合成單檔 research report（[Step 1.7.4](REWRITE-STAGE-1-RESEARCH.md#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）+ `research-report-health.py` PASS。writer 只讀一個 research 檔。
 2. **填槽** → copy 模板整塊，只動 `{SLOT}`，禁增刪改寫模板文字。
 3. **Spawn**：`general-purpose` + Opus，fresh context（per [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents)）。
 4. **驗 read-receipt**（收件第一動作）：四項逐一核對——(a) §8 texture quote 真在 research 檔、(b) EDITORIAL 引例真存在、(c) **graph.md 模組宣告**（要用哪幾個 `tw-*`＋各回答什麼資料關係；或引 graph.md §九 明寫「評估過、無適合資料」）、(d) spine＋結尾宣告與 research §0 一致。**任一造假／缺席 = SendMessage 退回重讀**，不是放行。

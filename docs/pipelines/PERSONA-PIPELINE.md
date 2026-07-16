@@ -7,7 +7,7 @@ current_version: 'v1.1'
 last_updated: 2026-07-06
 last_session: '2026-07-05-220917-INDIGO-REWRITE'
 callers:
-  - 'REWRITE-PIPELINE.md#step-197（mode=gap-audit，v7.7 研究後）'
+  - 'REWRITE-STAGE-1-MEDIA.md#step-197（mode=gap-audit，v7.7 研究後）'
   - 'SPORE-PIPELINE.md#階段-1pick（mode=hook-select，reuse）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'

@@ -192,7 +192,7 @@ SOP 是基因表達的必經路徑，高於建議層級。繞過 SOP = DNA 突�
 3. **地點錯置**：真實事件被放到錯的地點（「2021-12 盧森堡」實際是米蘭 M.A.D.S. Gallery）
 4. **偽造直接引語**：把某人從未說過的話放進引號 + 歸給某次公開訪談（「AI 不會心碎」被歸給 INSIDE E375 實際 podcast 無此句）
 5. **共創省略 / 單方功勞敘事**：「他共同創辦了 X」卻漏掉另一位共創人的名字——沒有錯誤 claim 可以否證，只是空白
-6. **場景動作 + 場地細節 detail**（2026-04-24 造山者紀錄片實戰新增）：沒有引號保護的具體動作或場地細節（房號、樓層、影廳代號、設備代號、職稱、具體動作如「鞠躬三次」「四機補拍」），AI 從多源 paraphrase 推導時容易添加。這類 hallucination 比偽造引語更隱蔽，因為它讀起來像「氛圍描寫」不像「引用」，audit 容易跳過。例：造山者寫「張忠謀電影散場向觀眾鞠躬三次」（UDN 原報導完全沒提鞠躬）、「Morgridge Hall 1524」房號（星島原文無）、「李國鼎獎頒獎場合用四機補拍」（gvm 原文無）。**這類 atom 唯一可靠的審計是 [REWRITE-PIPELINE Stage 3.6 STORY ATOM AUDIT](../pipelines/REWRITE-PIPELINE.md#stage-36-story-atom-audit場景原子驗證硬-gate) 全文逐原子對 source URL Ctrl-F 中文原文**
+6. **場景動作 + 場地細節 detail**（2026-04-24 造山者紀錄片實戰新增）：沒有引號保護的具體動作或場地細節（房號、樓層、影廳代號、設備代號、職稱、具體動作如「鞠躬三次」「四機補拍」），AI 從多源 paraphrase 推導時容易添加。這類 hallucination 比偽造引語更隱蔽，因為它讀起來像「氛圍描寫」不像「引用」，audit 容易跳過。例：造山者寫「張忠謀電影散場向觀眾鞠躬三次」（UDN 原報導完全沒提鞠躬）、「Morgridge Hall 1524」房號（星島原文無）、「李國鼎獎頒獎場合用四機補拍」（gvm 原文無）。**這類 atom 唯一可靠的審計是 [REWRITE-PIPELINE Stage 3.6 STORY ATOM AUDIT](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-36-story-atom-audit場景原子驗證硬-gate) 全文逐原子對 source URL Ctrl-F 中文原文**
 
 **操作原則**：
 
@@ -200,7 +200,7 @@ SOP 是基因表達的必經路徑，高於建議層級。繞過 SOP = DNA 突�
 - 每篇 depth article 寫完 prose 後**強制跑全文細緻 review**，主動列出所有高風險 claim 交叉源驗證
 - 發現任何一點不確定 → 回去驗證 / 刪除 / 降級為「該領域受肯定」這類概括語言，**不保留「可能是錯的也可能是對的」條目在文章裡**
 - 本人可以的 claim 必須由本人逐條確認——**本人 feedback 不是免驗證 oracle**（本人可能記憶有偏差、也可能因情感因素選擇性表述）
-- canonical 執行規則在 [REWRITE-PIPELINE.md §Stage 3.5 全文幻覺審計](../pipelines/REWRITE-PIPELINE.md#stage-35-hallucination-audit)。這裡是哲學，那裡是 SOP
+- canonical 執行規則在 [REWRITE-PIPELINE.md §Stage 3.5 全文幻覺審計](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-35-hallucination-audit)。這裡是哲學，那裡是 SOP
 
 這條原則跟 §2「From AI Slop to AI Supreme」是互補的：Slop→Supreme 講的是**寫作品質**，這條講的是**事實準確度**。兩個維度都合格，才有資格說自己做的是 AI Supreme。寫得再漂亮，只要混入一個幻覺獎項，整篇就降回 AI Slop 層級——因為讀者的判斷機制是**「抓到一次就全盤懷疑」**，不是「多數正確即可」。
 

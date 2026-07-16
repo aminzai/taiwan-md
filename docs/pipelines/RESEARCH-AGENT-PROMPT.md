@@ -19,16 +19,16 @@ audience: 'orchestrator-session-spawning-research-agents'
 
 > **為什麼存在**（2026-07-12 台灣茶文化 panorama，哲宇 directive「從源頭解決」）：每個 session spawn 研究 agent 時即興手寫 prompt → 格式立刻飄移。該次即興 prompt 寫了「每 finding 標【來源】URL」，agent 在多來源場景自行發明「WebSearch 綜合（站名、站名）」aggregate 寫法——84 條來源行僅 ~35% 帶 URL，footnote 斷源；同時自創「三塊各一 section」結構，五段骨架與收件儀器全對不上。**Prompt 即興 = 每次重新思考 = 每次重新犯錯。** 本檔是唯一的 spawn prompt SSOT：copy 整塊 → 填 `{SLOT}` → spawn。
 >
-> **職責分工**：[RESEARCH.md](../editorial/RESEARCH.md) 是研究方法論 SSOT（怎麼搜、怎麼判斷）；[RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md) 是組裝後主報告（§1-§8）模板；**本檔是 spawn 蒸餾層**——把方法論裡「實戰死過人」的規則壓進 agent prompt。衝突時以 RESEARCH.md 為準。Gate 與觸發史 canonical 在 [REWRITE-PIPELINE Step 1.8-ter](REWRITE-PIPELINE.md#step-18-ter-研究-sub-agent-輸出契約來源逐條可溯v710-)。
+> **職責分工**：[RESEARCH.md](../editorial/RESEARCH.md) 是研究方法論 SSOT（怎麼搜、怎麼判斷）；[RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md) 是組裝後主報告（§1-§8）模板；**本檔是 spawn 蒸餾層**——把方法論裡「實戰死過人」的規則壓進 agent prompt。衝突時以 RESEARCH.md 為準。Gate 與觸發史 canonical 在 [REWRITE-PIPELINE Step 1.8-ter](REWRITE-STAGE-1-RESEARCH.md#step-18-ter-研究-sub-agent-輸出契約來源逐條可溯v710-)。
 
 ---
 
 ## Orchestrator 派發 SOP（四步）
 
-1. **切子領域**：depth 文按子題切 N 個 agent（每 agent 搜尋配額 ~20-30，aggregate ≥ 80 per [Step 1.1](REWRITE-PIPELINE.md#step-11-搜尋深度--80-次v64含來源多樣性配額)）。每個 agent 拿到的 `{QUESTION_LIST}` 互不重疊。
+1. **切子領域**：depth 文按子題切 N 個 agent（每 agent 搜尋配額 ~20-30，aggregate ≥ 80 per [Step 1.1](REWRITE-STAGE-1-RESEARCH.md#step-11-搜尋深度--80-次v64含來源多樣性配額)）。每個 agent 拿到的 `{QUESTION_LIST}` 互不重疊。
 2. **填槽**（速查表見下）→ **copy 通用模板整塊**，只動 `{SLOT}`，**禁增刪改寫規則文字**。Anti-example 至少帶 2 條（從 §Anti-example 庫挑最近／最像的——sub-agent 是 pattern matcher，反例比規則有效）。
 3. **Spawn**：`general-purpose` + Sonnet（breadth+extract 夠用；contested atom 的複查才 escalate Opus）。Explore 是 read-only 不能落檔，研究 agent 一律 general-purpose。
-4. **收件**：走 [Step 1.8-bis 三步](REWRITE-PIPELINE.md#step-18-bis-async-agent-時代的-raw-保全-sopv772026-07-05-️)——先驗檔案真的存在於 repo（agent 宣稱 ≠ 存在，不存在就把 notification `<result>` verbatim 代寫），再跑收件 gate，FAIL 不准合成：
+4. **收件**：走 [Step 1.8-bis 三步](REWRITE-STAGE-1-RESEARCH.md#step-18-bis-async-agent-時代的-raw-保全-sopv772026-07-05-️)——先驗檔案真的存在於 repo（agent 宣稱 ≠ 存在，不存在就把 notification `<result>` verbatim 代寫），再跑收件 gate，FAIL 不准合成：
 
    ```bash
    python3 scripts/tools/agent-report-health.py reports/research/{YYYY-MM}/{slug}-research-{X}.md --claimed {配額}

@@ -456,7 +456,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 > 1. **對稱原則**：寫 candidate A 就一起寫 candidate B / 全 22 縣市對手都寫，不寫部分 — 不對稱 = endorsement signal。1.3 候選人系列若哲宇只 pick 部分，必須在文章 footer 明示「本系列尚未涵蓋 {對手姓名}，會持續補完」。
 > 2. **制度層為主**：「觀點」鎖在制度／歷史／方法層（為什麼這個制度值得珍惜 / 民主轉型不容易 / 透明度為什麼重要），**不下放到 candidate-level / policy-stance-level**。
 > 3. **選前 30 天 spore freeze**（2026-10-29 → 11-28）：禁止發任何 candidate-specific 孢子，避免選前 viral 期被讀為背書。寫進 [SPORE-PIPELINE](../factory/SPORE-PIPELINE.md) hard gate（待 ship 後加 plugin enforce）。
-> 4. **AI deepfake 防禦**：選舉相關文章 + 孢子皆走 [REWRITE-PIPELINE Stage 3.5 全文幻覺審計](../pipelines/REWRITE-PIPELINE.md#stage-35-hallucination-audit) + [Stage 3.6 STORY ATOM AUDIT](../pipelines/REWRITE-PIPELINE.md#stage-36-story-atom-audit場景原子驗證硬-gate) 嚴格 enforce。
+> 4. **AI deepfake 防禦**：選舉相關文章 + 孢子皆走 [REWRITE-PIPELINE Stage 3.5 全文幻覺審計](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-35-hallucination-audit) + [Stage 3.6 STORY ATOM AUDIT](../pipelines/REWRITE-STAGE-3-VERIFY.md#stage-36-story-atom-audit場景原子驗證硬-gate) 嚴格 enforce。
 > 5. **三道濾網 self-apply**：每篇 Stage 0 觀點成型必過 [CLAUDE.md §Bias 1-4](../../CLAUDE.md) — 對 creator 預設加分 / multi-observer drift / editorial voice / 外部 critique default 不執行。
 >
 > **跟既有 article 的關係**：[History/大罷免.md](../../knowledge/History/大罷免.md) + [History/民主化.md](../../knowledge/History/民主化.md) + [History/台灣民主轉型.md](../../knowledge/History/台灣民主轉型.md) + [History/台灣轉型正義.md](../../knowledge/History/台灣轉型正義.md) + [History/台灣選舉與政黨政治.md](../../knowledge/History/台灣選舉與政黨政治.md) + [Technology/開源社群與g0v.md](../../knowledge/Technology/開源社群與g0v.md) 已 ship；本系列補制度層 + 縣市選舉脈絡層 + 候選人層三個 gap。
