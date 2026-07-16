@@ -30,6 +30,17 @@ upstream_canonical:
 | **GATES**        | `article-health.py --check=format-structure`（sibling 預檢）；`python3 scripts/tools/sync-diary-links.py --diary {slug} --article {slug} --apply`；Merge：`npm run build` verify |
 | **context 預算** | 本檔＋成品＋sibling 標題層                                                                                                                                                       |
 
+## AGENT PROMPT
+
+**不派 agent**——cross-link 需要全站語境，主 session 自跑。
+
+## 交付條件（stage 完成的定義）
+
+- [ ] forward＋reverse 延伸閱讀落檔（sibling 先過 `--check=format-structure` 預檢）
+- [ ] `sync-diary-links.py --apply` 完成 relatedDiary 回扣（禁手編 frontmatter）
+- [ ] （Merge variant）Astro redirect 5 lang＋刪舊檔＋`npm run build` 過
+- [ ] commit 後編輯台已更新（HANDOFF 第 3 步）
+
 ## HANDOFF（stage 完成時）
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）

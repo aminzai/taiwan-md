@@ -30,6 +30,17 @@ upstream_canonical:
 | **GATES**        | `python3 scripts/tools/article-health.py knowledge/{Cat}/{slug}.md --profile=rewrite-stage-4`（hard=0）＋`--check=image-health`；`check-aspect.sh` |
 | **context 預算** | 本檔＋成品＋授權矩陣                                                                                                                               |
 
+## AGENT PROMPT
+
+**不派 agent**——格式與媒體插入主 session 自跑（授權同步與 aspect 判斷需 human 眼）。
+
+## 交付條件（stage 完成的定義）
+
+- [ ] `article-health.py knowledge/{Cat}/{slug}.md --profile=rewrite-stage-4` hard=0
+- [ ] `--check=image-health` pass（depth：媒體 ≥ max(3, round(prose-CJK/1200))）
+- [ ] 文末 `## 圖片來源` 段與授權矩陣一致；`check-aspect.sh` 過
+- [ ] （i18n 改動時）多語 visual smoke 6 步過
+
 ## HANDOFF（stage 完成時）
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）

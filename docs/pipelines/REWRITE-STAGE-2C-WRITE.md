@@ -1,5 +1,5 @@
 ---
-title: 'REWRITE-STAGE-2-WRITE'
+title: 'REWRITE-STAGE-2C-WRITE'
 description: 'REWRITE v9 stage contract — Stage 2 寫作主幹：結尾先行 / 小標題 / 正文 footnote / 7 條自檢 / staging 檔紀律'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
@@ -45,13 +45,24 @@ date: YYYY-MM-DD
 為什麼：編輯台（generate-newsroom-data.py）與任何 verifier 依顯式指標歸戶，不猜檔名
 （2026-07-12 Sol strict verifier 假陰性教訓）。
 
+## AGENT PROMPT
+
+writer prompt 唯一來源：[WRITER-PROMPT.md](WRITER-PROMPT.md)（v2.0 薄殼：必讀四 canonical＋read-receipt＋機械輸出契約＋anti-example）。填槽派發，禁即興。
+
+## 交付條件（stage 完成的定義）
+
+- [ ] Evolution：`reports/article-evolve/{slug}.md` staging 落檔（frontmatter 帶 `article:` 顯式指標）；Fresh：`knowledge/{Cat}/{slug}.md`
+- [ ] Stage 2 hard gates 10 條全過（本檔 §Stage 2 Hard gates）
+- [ ] `article-health.py --check=prose-health` ＋ `--check=chronicle-lead` 無 hard
+- [ ] writer read-receipt 驗過（research report §6＋§8／投影藍圖／EDITORIAL 全讀）
+
 ## HANDOFF（stage 完成時）
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）
 2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
 3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
 4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
-5. 下一棒：REWRITE-STAGE-2-SOURCE-FIDELITY.md（觸發面內）→ REWRITE-STAGE-2-ROOM.md 2.5-R
+5. 下一棒：REWRITE-STAGE-2D-SOURCE-FIDELITY.md（觸發面內）→ REWRITE-STAGE-2E-ROOM-PROSE.md
 
 ---
 

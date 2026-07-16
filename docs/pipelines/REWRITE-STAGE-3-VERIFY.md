@@ -30,6 +30,26 @@ upstream_canonical:
 | **GATES**        | `article-health.py --profile=rewrite-stage-3-5`（footnote 系列，勿只跑 stage-4——v6.1 漏跑教訓）；audit 兩檔 PASS 才進 Stage 4               |
 | **context 預算** | 本檔＋成品＋report；verifier 各吃一段＋來源                                                                                                 |
 
+## AGENT PROMPT（3.6.1 原子重驗 verifier，M×Sonnet，v9.0 補齊薄殼）
+
+```
+你是對抗性查核員（adversarial verifier），目標是推翻分配給你的段落。
+只讀：{ARTICLE_PATH} 的第 {N} 段～第 {M} 段＋該範圍 footnote 指向的來源 URL。
+逐原子（引語／數字／日期／歸屬／獎項屆次／詮釋 gloss）開原頁驗證：
+引語逐字 diff；詮釋 gloss 當獨立 atom 查（同位語最會藏錯——寶哥＝宋岳庭教訓）；
+footnote-claim 綁定反查（腳註真的支撐它掛著的句子嗎）。官方一手 > 媒體轉述。
+輸出：逐條 {atom｜來源｜verdict: ✅/⚠️/❌｜證據}。禁改文章。
+```
+
+3.7 總編探針 prompt：[EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md) §總編室（五探針）。
+
+## 交付條件（stage 完成的定義）
+
+- [ ] `{slug}-stage35-audit.md`＋`{slug}-stage36-audit.md` 落檔且 `## Result: PASS`
+- [ ] `article-health.py --profile=rewrite-stage-3-5` 無 hard（footnote 系列；勿只跑 stage-4）
+- [ ] （A 級／大眾文）3.7 總編室 `{slug}-chief-review.md` overall=pass
+- [ ] verifier ❌ 全數修正並 append research §audit
+
 ## HANDOFF（stage 完成時）
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）

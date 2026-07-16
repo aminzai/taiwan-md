@@ -34,6 +34,10 @@ for fn in stage_files:
         fails.append(f"{fn}: 缺 ## 執行卡")
     if "## HANDOFF" not in s:
         fails.append(f"{fn}: 缺 ## HANDOFF")
+    if "## AGENT PROMPT" not in s:
+        fails.append(f"{fn}: 缺 ## AGENT PROMPT（該階段派誰、prompt 在哪或為何不派）")
+    if "## 交付條件" not in s:
+        fails.append(f"{fn}: 缺 ## 交付條件（stage 完成的定義）")
     if "type: 'pipeline-sub-canonical'" not in s:
         fails.append(f"{fn}: frontmatter type 不是 pipeline-sub-canonical")
     if "parent_canonical: 'REWRITE-PIPELINE.md'" not in s:

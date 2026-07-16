@@ -365,11 +365,11 @@ done_entries = re.findall(r"### (.+?) — (\d{4}-\d{2}-\d{2})", read(DONE_LOG))[
 ORDER = [
     ("inbox", "REWRITE-STAGE-0-VIEWPOINT.md"),
     ("viewpoint", "REWRITE-STAGE-0-VIEWPOINT.md"),
-    ("research", "REWRITE-STAGE-1-RESEARCH.md"),
-    ("projection", "REWRITE-STAGE-2-PROJECTION.md"),
-    ("room_projection", "REWRITE-STAGE-2-ROOM.md"),
-    ("write", "REWRITE-STAGE-2-WRITE.md"),
-    ("room_prose", "REWRITE-STAGE-2-ROOM.md"),
+    ("research", "REWRITE-STAGE-1A-RESEARCH.md"),
+    ("projection", "REWRITE-STAGE-2A-PROJECTION.md"),
+    ("room_projection", "REWRITE-STAGE-2B-ROOM-PROJECTION.md"),
+    ("write", "REWRITE-STAGE-2C-WRITE.md"),
+    ("room_prose", "REWRITE-STAGE-2E-ROOM-PROSE.md"),
     ("verify", "REWRITE-STAGE-3-VERIFY.md"),
     ("ship", "REWRITE-STAGE-4-FORMAT.md → REWRITE-STAGE-5-CROSSLINK.md"),
 ]

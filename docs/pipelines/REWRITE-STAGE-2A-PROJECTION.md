@@ -1,5 +1,5 @@
 ---
-title: 'REWRITE-STAGE-2-PROJECTION'
+title: 'REWRITE-STAGE-2A-PROJECTION'
 description: 'REWRITE v9 stage contract — Step 2.0 投影藍圖＋2.0.5 視覺化思考：論點/骨架/減法/echo map，craft canonical 在 PROJECTION.md'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
@@ -30,13 +30,23 @@ upstream_canonical:
 | **GATES**        | PROJECTION §gate 5 題（論點非摘要/骨架 shuffle/全局功能/減法非空/echo 覆蓋）；depth 題續走 2.0-R 編輯室外部尺            |
 | **context 預算** | 本檔＋PROJECTION.md＋research report                                                                                     |
 
+## AGENT PROMPT
+
+**不派 agent**——投影是最高判斷，主 session（Opus orchestrator）讀整份 research report 親自做。craft canonical：[PROJECTION.md](../editorial/PROJECTION.md)（寫前完整讀）。
+
+## 交付條件（stage 完成的定義）
+
+- [ ] `reports/article-projection/{slug}.md` 存在，frontmatter：`article`＋`researchReport`＋`spine_type`＋`projection_done: true`
+- [ ] 六節齊：論點／骨架／每 section 雙重職責／減法／echo map／審定
+- [ ] PROJECTION §gate 5 題自檢過（作者自檢；外部尺在 2B）
+
 ## HANDOFF（stage 完成時）
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）
 2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
 3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
 4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
-5. 下一棒：REWRITE-STAGE-2-ROOM.md（投影編輯室，depth HARD）
+5. 下一棒：REWRITE-STAGE-2B-ROOM-PROJECTION.md（投影編輯室，depth HARD）
 
 ---
 
@@ -44,7 +54,7 @@ upstream_canonical:
 
 > **canonical [PROJECTION.md](../editorial/PROJECTION.md)（寫本步前完整讀）。** 誕生：2026-07-13 哲宇跟陳睨聊後 callout「每個 section 單獨看都完整、接起來卻沒有一個更大的敘事 / 論點 / 意圖」。Stage 0 給**角度**、投影給**建築**、Stage 2 prose 給**句子**——以前從角度直接跳句子，中間沒人設計「這篇到底怎麼長成一個論證」，寫手拿面向清單一段寫一個面向 → 面向巡禮、加法不是乘法、整篇空泛。
 
-**誰做**：主 session（Opus orchestrator），研究合成單檔（[Step 1.7.4](REWRITE-STAGE-1-RESEARCH.md#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）之後、派寫手之前。**不派給寫手**——寫手拿到的是已經想清楚的藍圖，執行結構不發明結構。
+**誰做**：主 session（Opus orchestrator），研究合成單檔（[Step 1.7.4](REWRITE-STAGE-1A-RESEARCH.md#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）之後、派寫手之前。**不派給寫手**——寫手拿到的是已經想清楚的藍圖，執行結構不發明結構。
 
 **產物**：`reports/article-projection/{slug}.md`（模板見 [PROJECTION.md §四](../editorial/PROJECTION.md)），六件事：
 

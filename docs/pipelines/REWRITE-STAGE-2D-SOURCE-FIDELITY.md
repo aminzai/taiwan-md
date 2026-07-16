@@ -1,5 +1,5 @@
 ---
-title: 'REWRITE-STAGE-2-SOURCE-FIDELITY'
+title: 'REWRITE-STAGE-2D-SOURCE-FIDELITY'
 description: 'REWRITE v9 stage contract — Stage 2.5：引用來源 artifact 逐字比對 / 門面句 scope / fact-check agent / Evolution staging 比對覆蓋'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
@@ -30,13 +30,31 @@ upstream_canonical:
 | **GATES**        | 觸發面：A 級 / fresh-writer EVOLVE 長文 / 含外部來源引用；三道（artifact 逐字 / 門面句 / fact-check pass）全過才覆蓋 canonical |
 | **context 預算** | 本檔＋成品＋來源頁                                                                                                             |
 
+## AGENT PROMPT（fact-check agent，v9.0 補齊薄殼）
+
+> fresh-writer 長文觸發第三道時填槽派發；主 session 自跑前兩道。
+
+```
+你是事實查核員，姿態是 falsification：試著讓這篇文章的引用不成立。
+只讀：{STAGING_PATH} 全文＋文內引用的來源 URL（用 WebFetch／curl 逐一開啟原頁）。
+對每個帶 footnote 的 claim：到原頁 Ctrl-F 找到支撐句，逐字比對；找不到或語意被改寫
+（詮釋 gloss、印象化、數字漂移）就列出。門面句（title／description／30 秒概覽）單獨過一輪。
+輸出：逐條 {claim｜來源｜verbatim 支撐句｜verdict: hold/drift/fabricated}，不重寫文章。
+```
+
+## 交付條件（stage 完成的定義）
+
+- [ ] 三道全過：來源 artifact 逐字比對／門面句 scope／（觸發面內）fact-check agent pass
+- [ ] Evolution：主 session 完成 staging vs 舊 canonical 比對（沒丟有價值素材）後親手覆蓋
+- [ ] 修正全部 in-place 完成，drift／fabricated 清零
+
 ## HANDOFF（stage 完成時）
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）
 2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
 3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
 4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
-5. 下一棒：REWRITE-STAGE-3-VERIFY.md
+5. 下一棒：REWRITE-STAGE-2E-ROOM-PROSE.md（正文結構編輯室）
 
 ---
 

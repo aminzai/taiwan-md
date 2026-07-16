@@ -1296,7 +1296,7 @@ WebFetch 工具對中文網站經常返回**英文 paraphrase 而非中文原文
 | 富媒體 mixed         | 天下雜誌       | 6（4 圖+2 影片）     | 0.92    | 圖+官方影片穿插               |
 | ⬇ media-poor（待補） | 中華台北       | 3（3 圖）            | 0.56    | 0 影片、密度低 → EVOLVE 補    |
 
-> **儀器（v6.8 媒體完整度低標提升，2026-06-07 哲宇 directive）**：`image-health` plugin **length-scaled HARD floor**——媒體（圖+影片）≥ `max(3, round(prose-CJK/1200))`（4500→4 / 7000→6 / 9000→8，rewrite-stage-4 必過）；`paragraph-rhythm` 密度 band floor **0.7→0.8→1.2（2026-07-12）** / ceiling **1.2→2.0** / hard **2.5**+median<55；`media-richness` 靜態圖 floor **2→3** + People/Music/Nature **≥1 官方影片 WARN**。**最大的低標槓桿不是數字，是 [REWRITE-PIPELINE Step 1.9.0 深度媒體掃描協議](../pipelines/REWRITE-STAGE-1-MEDIA.md#step-190-深度媒體掃描協議hardv68-)**：出「找不到媒體」結論前必跑 Chrome MCP rendered-DOM 圖掃（JS-CDN curl/WebFetch 失效）+ YouTube 官方頻道影片掃——複雜生活節同一主題 curl 全 404、瀏覽器 rendered DOM 挖出 9 圖 3 影片。校準（REFLEXES #66）：複雜 13 / 設研院 5 / 黃魚鴞 3 / 陳建年 8 named 範本全過、text-only 失格。富媒體不等於 atomization：陳建年 8 媒體 + median ≥ 55 = 富而不亂；周蕙 12 媒體 + median < 55 = atomization。
+> **儀器（v6.8 媒體完整度低標提升，2026-06-07 哲宇 directive）**：`image-health` plugin **length-scaled HARD floor**——媒體（圖+影片）≥ `max(3, round(prose-CJK/1200))`（4500→4 / 7000→6 / 9000→8，rewrite-stage-4 必過）；`paragraph-rhythm` 密度 band floor **0.7→0.8→1.2（2026-07-12）** / ceiling **1.2→2.0** / hard **2.5**+median<55；`media-richness` 靜態圖 floor **2→3** + People/Music/Nature **≥1 官方影片 WARN**。**最大的低標槓桿不是數字，是 [REWRITE-PIPELINE Step 1.9.0 深度媒體掃描協議](../pipelines/REWRITE-STAGE-1B-MEDIA.md#step-190-深度媒體掃描協議hardv68-)**：出「找不到媒體」結論前必跑 Chrome MCP rendered-DOM 圖掃（JS-CDN curl/WebFetch 失效）+ YouTube 官方頻道影片掃——複雜生活節同一主題 curl 全 404、瀏覽器 rendered DOM 挖出 9 圖 3 影片。校準（REFLEXES #66）：複雜 13 / 設研院 5 / 黃魚鴞 3 / 陳建年 8 named 範本全過、text-only 失格。富媒體不等於 atomization：陳建年 8 媒體 + median ≥ 55 = 富而不亂；周蕙 12 媒體 + median < 55 = atomization。
 
 **類型 × 媒體比重 baseline**（per-type 細項，總量仍以上方 band 為準）：
 
@@ -1314,7 +1314,7 @@ WebFetch 工具對中文網站經常返回**英文 paraphrase 而非中文原文
 
 **例外規則**：
 
-- 「找不到官方 / 高品質媒體」這個結論，**v6.8 起只在跑完 [Step 1.9.0 深度媒體掃描協議](../pipelines/REWRITE-STAGE-1-MEDIA.md#step-190-深度媒體掃描協議hardv68-)之後才成立**（Chrome MCP rendered-DOM 圖掃 + YouTube 官方頻道影片掃；curl/WebFetch 對 Medium/FB JS-CDN 失效不算「掃過」）。跑過深掃仍無 → 才可不塞，並在 research §6 記 negative finding。影片不是 KPI，但 People/Music/Nature 官方影片通常存在，`media-richness` 0 影片 WARN（不是 INFO）
+- 「找不到官方 / 高品質媒體」這個結論，**v6.8 起只在跑完 [Step 1.9.0 深度媒體掃描協議](../pipelines/REWRITE-STAGE-1B-MEDIA.md#step-190-深度媒體掃描協議hardv68-)之後才成立**（Chrome MCP rendered-DOM 圖掃 + YouTube 官方頻道影片掃；curl/WebFetch 對 Medium/FB JS-CDN 失效不算「掃過」）。跑過深掃仍無 → 才可不塞，並在 research §6 記 negative finding。影片不是 KPI，但 People/Music/Nature 官方影片通常存在，`media-richness` 0 影片 WARN（不是 INFO）
 - 長文（≥ 7000 字）→ 朝 圖+影片 ≥ 8（per band，但密度 ≤ 2.0/1k；超過 2.5 且段落 median < 55 = atomization HARD）
 - 翻譯文 → 跟原文同步（不另加 / 不另減）
 

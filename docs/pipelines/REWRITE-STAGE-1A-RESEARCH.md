@@ -1,5 +1,5 @@
 ---
-title: 'REWRITE-STAGE-1-RESEARCH'
+title: 'REWRITE-STAGE-1A-RESEARCH'
 description: 'REWRITE v9 stage contract — Stage 1 取材主幹：搜尋 ≥80 配額 / 矛盾鎖定 / 研究報告八段 SSOT / agent 收件 gate / 來源逐條可溯'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
@@ -30,13 +30,25 @@ upstream_canonical:
 | **GATES**        | 每份分部報告收件當下：`python3 scripts/tools/agent-report-health.py {file} --claimed {配額}`（FAIL 不准合成）；stage 終：`python3 scripts/tools/research-report-health.py {report} --tier=depth` |
 | **context 預算** | orchestrator 本檔＋收件；各研究 agent 只吃 RESEARCH-AGENT-PROMPT 填槽 prompt                                                                                                                     |
 
+## AGENT PROMPT
+
+研究 sub-agent 唯一 prompt 載體：[RESEARCH-AGENT-PROMPT.md](RESEARCH-AGENT-PROMPT.md)（含輸出模板＋來源逐條可溯契約＋anti-example 庫）。填槽派發，禁即興——2026-07-12 茶文化即興 prompt 讓 84 條來源行只 35% 帶 URL。
+
+## 交付條件（stage 完成的定義）
+
+- [ ] 每份分部報告收件當下 `agent-report-health.py {file} --claimed {配額}` exit 0（FAIL 不准合成）
+- [ ] 全部 raw verbatim 落 report §8（收到通知的第一個動作；禁 scratchpad／tmp）
+- [ ] sibling raw 檔 consolidate 進主檔後刪除
+- [ ] `research-report-health.py {report} --tier=depth` exit 0（distinct≥25／en≠0／一手≠0）
+- [ ] frontmatter 核心矛盾（或組織主軸＋facet）已鎖
+
 ## HANDOFF（stage 完成時）
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）
 2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
 3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
 4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
-5. 下一棒：REWRITE-STAGE-1-MEDIA.md（媒體＋persona 缺口）
+5. 下一棒：REWRITE-STAGE-1B-MEDIA.md（媒體＋persona 缺口）
 
 ---
 

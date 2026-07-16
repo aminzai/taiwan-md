@@ -30,13 +30,36 @@ upstream_canonical:
 | **GATES**        | `python3 scripts/tools/research-report-health.py reports/research/{YYYY-MM}/{slug}.md --stage 0`（hard_fail=0 才進 Stage 1） |
 | **context 預算** | 本檔 ＋ RESEARCH.md ＋（EVOLVE）舊文一篇                                                                                     |
 
+## AGENT PROMPT（觀點 agent，Opus ×1，v9.0 補齊薄殼）
+
+> callout-triggered case 必用 agent（blind to errata）；一般 depth 可主 session 自跑。填槽後 verbatim 派發，禁即興。
+
+```
+你是 Taiwan.md 的總編輯，為「{TOPIC}」做編輯前思考（觀點成型）。
+必讀（完整 Read，不准節選）：docs/editorial/RESEARCH.md、docs/editorial/RESEARCH-TEMPLATE.md、
+docs/semiont/MANIFESTO.md §13 立體地愛。
+先判 spine 類型（受愛戴／集體記憶題 → 立體群像 default；真爭議題才矛盾驅動）。
+回答六個核心問題（記憶／多元面貌／想法感受／歷史脈絡／社會關聯／類型專屬），
+做 ≥20 次探索搜尋（persona 不算搜尋），落 §觀點成型 到 reports/research/{YYYY-MM}/{SLUG}.md
+開頭（格式照本 contract §Step 0.6.5 模板），frontmatter 寫 spine_type 與 viewpoint_formed: true。
+{EVOLVE_ONLY: 以下事實清單是舊文萃取，只當素材：{FACT_LIST}}
+禁止輸入：舊文為什麼寫不好、讀者 callout、勘誤敘事（觀點從題材長出，不從錯誤長出）。
+```
+
+## 交付條件（stage 完成的定義）
+
+- [ ] `reports/research/{YYYY-MM}/{slug}.md` 存在且開頭有 §觀點成型（六核心 ≥4/6 結構）
+- [ ] frontmatter：`spine_type` ＋ `viewpoint_formed: true`
+- [ ] §探索搜尋紀錄 ≥20 query 落檔
+- [ ] `research-report-health.py {report} --stage 0` exit 0
+
 ## HANDOFF（stage 完成時）
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）
 2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
 3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
 4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
-5. 下一棒：REWRITE-STAGE-1-RESEARCH.md
+5. 下一棒：REWRITE-STAGE-1A-RESEARCH.md
 
 ---
 
@@ -241,7 +264,7 @@ Stage 0.6 觀點成型**當作 Fresh 在做**：從題材本身 + 一手研究�
 
 - Stage 2 的寫作輸入 = `reports/research/{slug}.md` **整份 report（§6 fact-pack ＋ §8 raw verbatim 全部讀）** + §觀點成型 + EDITORIAL.md。**隔離掉的是舊文 body + callout，不是 report。**
 - **Evolution mode：writer 寫到 staging 檔，永不 overwrite canonical（v7.5，2026-06-15 哲宇 callout）**——Write tool overwrite 既有檔**必須先 Read**，所以叫 writer「overwrite 舊文但別讀舊文」是自相矛盾、它被迫吃病毒。**改成**：writer 把成品 Write 到 **`reports/article-evolve/{slug}.md`**（全新檔、零感染面），**Stage 2.5 主 session 讀 staging ＋ 舊 canonical 比對後親手覆蓋** `knowledge/{cat}/{slug}.md`。
-- **首選**：spawn 一個 fresh writer agent（Step 1.8 既有 spawn 機制），**prompt 一律 copy [WRITER-PROMPT.md](WRITER-PROMPT.md) 薄殼模板填槽**（v7.11，禁即興手寫——即興＝每次規則不一、漏讀 EDITORIAL/pipeline＝飄移根因，哲宇 2026-07-12 callout）。**薄殼三件事、craft 規則零複寫**（v2.0，「極致 thin shell 不要重複」）：(1) 指向必讀四份 canonical——**合成後單檔** research report（[Step 1.7.4](REWRITE-STAGE-1-RESEARCH.md#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）＋ EDITORIAL 全檔＋本檔 Stage 2＋ **graph.md**（資料/對比/時序必評估視覺化——2026-07-12 茶文化 v1 零視覺化教訓）；(2) **read-receipt** — writer 動筆前 quote §8 texture ×3＋EDITORIAL 引例＋viz 模組宣告＋spine 宣告，主 session 逐項核對真偽，quote 不出來＝沒讀＝退回；(3) 機械輸出契約＋per-article 素材槽。⚠️ **反 pattern（v7.4，2026-06-15 哲宇 callout）：orchestrator 把 report 再摘要成精簡 fact-pack 塞進 prompt、又叫 writer 別讀 report ＝ 雙重失真，近期文章變爛的根因。**
+- **首選**：spawn 一個 fresh writer agent（Step 1.8 既有 spawn 機制），**prompt 一律 copy [WRITER-PROMPT.md](WRITER-PROMPT.md) 薄殼模板填槽**（v7.11，禁即興手寫——即興＝每次規則不一、漏讀 EDITORIAL/pipeline＝飄移根因，哲宇 2026-07-12 callout）。**薄殼三件事、craft 規則零複寫**（v2.0，「極致 thin shell 不要重複」）：(1) 指向必讀四份 canonical——**合成後單檔** research report（[Step 1.7.4](REWRITE-STAGE-1A-RESEARCH.md#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）＋ EDITORIAL 全檔＋本檔 Stage 2＋ **graph.md**（資料/對比/時序必評估視覺化——2026-07-12 茶文化 v1 零視覺化教訓）；(2) **read-receipt** — writer 動筆前 quote §8 texture ×3＋EDITORIAL 引例＋viz 模組宣告＋spine 宣告，主 session 逐項核對真偽，quote 不出來＝沒讀＝退回；(3) 機械輸出契約＋per-article 素材槽。⚠️ **反 pattern（v7.4，2026-06-15 哲宇 callout）：orchestrator 把 report 再摘要成精簡 fact-pack 塞進 prompt、又叫 writer 別讀 report ＝ 雙重失真，近期文章變爛的根因。**
 - **主 session 自寫時**：Stage 2 期間**不准重新打開舊文檔案**，但**必讀整份 research report（含 §8 raw verbatim）**。寫完跑下方 Step 3.2-bis backstop。
 
 #### Backstop 自檢句（Stage 3 hard gate，見 Step 3.2-bis）
@@ -299,7 +322,7 @@ cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 >
 > 兩個是不同動作：**六題給編輯視角形成立體畫布、≥20 探索給事實地基**，誰都不能省、誰都不能替代誰。
 >
-> **⚠️ persona（20 路讀者切入點）v7.7 搬到研究後**（[Step 1.9.7](REWRITE-STAGE-1-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)）：原本放 Stage 0（搜尋之前），但冷讀者天生問尖銳問題，放搜尋之前會把主軸往矛盾驅動推歪（施振榮 v1 教訓）。搬到研究報告 SSOT 之後，persona 從「發散定調」改成「讀者缺口稽核＋增補」——對已成形的立體觀點補洞，不再定調脊椎。設計：[reports/design-立體群像...](../../reports/design-立體群像-default-persona-reposition-2026-07-06.md)。
+> **⚠️ persona（20 路讀者切入點）v7.7 搬到研究後**（[Step 1.9.7](REWRITE-STAGE-1B-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)）：原本放 Stage 0（搜尋之前），但冷讀者天生問尖銳問題，放搜尋之前會把主軸往矛盾驅動推歪（施振榮 v1 教訓）。搬到研究報告 SSOT 之後，persona 從「發散定調」改成「讀者缺口稽核＋增補」——對已成形的立體觀點補洞，不再定調脊椎。設計：[reports/design-立體群像...](../../reports/design-立體群像-default-persona-reposition-2026-07-06.md)。
 
 #### Step 0.6.1: 六個核心問題（必答，落檔）
 
@@ -340,9 +363,9 @@ cat docs/editorial/RESEARCH-TEMPLATE.md  # 填空模板
 
 見下方 §類型加權矩陣。
 
-#### Step 0.6.1-bis: persona 已移到研究後（v7.7）→ 見 [Step 1.9.7](REWRITE-STAGE-1-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)
+#### Step 0.6.1-bis: persona 已移到研究後（v7.7）→ 見 [Step 1.9.7](REWRITE-STAGE-1B-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)
 
-> **v7.7（2026-07-06 施振榮）**：persona 20 路讀者切入點原本放這裡（Stage 0，搜尋之前），v7.7 搬到 [Step 1.9.7](REWRITE-STAGE-1-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)（研究報告 SSOT 之後）。**Stage 0 不再跑 persona。**
+> **v7.7（2026-07-06 施振榮）**：persona 20 路讀者切入點原本放這裡（Stage 0，搜尋之前），v7.7 搬到 [Step 1.9.7](REWRITE-STAGE-1B-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)（研究報告 SSOT 之後）。**Stage 0 不再跑 persona。**
 
 **為什麼搬**：persona 的價值仍然成立——六題都從同一個總編輯視角長出，漏掉真實讀者（12 歲小孩、在台日本人、政治冷感工程師、海外台僑二代、挑硬傷的專家）天差地別的入射角。但**冷讀者天生問尖銳問題**，放在搜尋之前，那些尖角會變研究方向 → 變切入點 → Stage 1.4 找一個對得上的矛盾 → 脊椎天生長矛盾形。**persona-at-Stage-0 有內建的、偏矛盾驅動的重力**（施振榮 v1：persona 冷問「虧千億還被叫老師 / 交學費誰付」把脊椎推向矛盾驅動）。
 
@@ -482,7 +505,7 @@ viewpoint_formed: true # Stage 0.6 通過
 2. **炎上 self-check**（所有 article）：把脊椎 / 壓軸念給「立場跟我不同的長輩」聽，是「認真在介紹這件事」還是「在吵架 / 在表態」？後者 → 退回立體群像，把對立框架拆成多 facet 並陳。
 
 3. **政治立場 self-check**（非政治主題尤其要跑）：這篇的脊椎或壓軸，是不是把政治 / 兩岸 / 主權 / 統獨當主軸？
-   - 主題**本身就是政治題**（政策 / 選舉 / 兩岸關係）→ 走 [Step 1.4.5 perspective scan](REWRITE-STAGE-1-RESEARCH.md#step-145-perspective-scan--跨陣營對立-spectrum-覆蓋-) + 政治敏感題 SSODT 5-7 perspective 立體並列。
+   - 主題**本身就是政治題**（政策 / 選舉 / 兩岸關係）→ 走 [Step 1.4.5 perspective scan](REWRITE-STAGE-1A-RESEARCH.md#step-145-perspective-scan--跨陣營對立-spectrum-覆蓋-) + 政治敏感題 SSODT 5-7 perspective 立體並列。
    - 主題**不是政治題**（機構 / 人物 / 文化 / 地方）卻把政治當脊椎或壓軸 → **這是把 MANIFESTO 主權 lens 誤當 content thesis（金曲獎 v1 教訓）**。命中 [MANIFESTO §自主權邊界 政治立場](../semiont/MANIFESTO.md#我的存在結構)：政治素材降為「**純中立紀實**」的一個 facet（只陳述事實、不下兩岸判斷、不用對抗語言、不當壓軸），**且這個處置交觀察者拍板**。
 
 #### Stage 0 收尾 checklist
@@ -497,7 +520,7 @@ Stage 0 結束時 deliverable：
 - [x] 六個核心問題全答（Step 0.6.1）
 - [x] **Stage 0 探索搜尋 ≥ 20 query 已落 §探索搜尋紀錄（Step 0.6.4）— 這是初步研究本體**
 - [x] **spine 類型 + 手法選單已定（Step 0.1.5）**：立體群像 default + 1-2 手法；例外解鎖矛盾驅動須寫 `unlock_reason`
-- [x] ~~20 路 persona 切入點~~ **v7.7 移到研究後 [Step 1.9.7](REWRITE-STAGE-1-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)，Stage 0 不再跑 persona**
+- [x] ~~20 路 persona 切入點~~ **v7.7 移到研究後 [Step 1.9.7](REWRITE-STAGE-1B-MEDIA.md#step-197-persona-讀者缺口稽核--增補v77-新增-persona-從-stage-0-搬來)，Stage 0 不再跑 persona**
 - [x] 切入點清單 + 核心矛盾候選（矛盾驅動）**或 組織主軸 + ≥4 facet 清單（立體群像）** + 研究方向 已列
 - [x] **Step 0.6.7 三道 self-check 過（v7.6）**：SSODT 三讀者測試 + 炎上 self-check + 政治立場 self-check 全綠
 - [x] research report frontmatter `viewpoint_formed: true` + `spine_type: 立體群像 | 矛盾驅動`

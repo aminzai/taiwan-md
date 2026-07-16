@@ -1,5 +1,5 @@
 ---
-title: 'REWRITE-STAGE-1-MEDIA'
+title: 'REWRITE-STAGE-1B-MEDIA'
 description: 'REWRITE v9 stage contract — Step 1.9 全段：深度媒體掃描協議 / 圖片授權矩陣 / transcript / persona 讀者缺口稽核'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
@@ -30,13 +30,25 @@ upstream_canonical:
 | **GATES**        | 深掃協議必跑才可下 no-media 結論（落 §6 negative finding）；增補後重跑 `research-report-health.py`                |
 | **context 預算** | 本檔＋research report；persona agent 只吃 PERSONA-PIPELINE 契約                                                   |
 
+## AGENT PROMPT
+
+- persona 讀者缺口稽核：4 Sonnet 契約唯一來源 [PERSONA-PIPELINE.md](PERSONA-PIPELINE.md)（mode=gap-audit）
+- 媒體深掃：主 session 自跑（Chrome MCP rendered-DOM；授權判斷永遠 human）；反方視角 agent prompt 在本檔 §Step 1.4.5 做法 A（含防呆三條）
+
+## 交付條件（stage 完成的定義）
+
+- [ ] 深掃協議跑過（no-media 結論必附 §6 negative finding）
+- [ ] research 檔末尾媒體授權矩陣三表齊
+- [ ] §讀者缺口稽核 落檔（20 persona 分類＋增補）
+- [ ] 增補後 `research-report-health.py` 重跑 exit 0
+
 ## HANDOFF（stage 完成時）
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）
 2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
 3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
 4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
-5. 下一棒：REWRITE-STAGE-2-PROJECTION.md
+5. 下一棒：REWRITE-STAGE-2A-PROJECTION.md
 
 ---
 
@@ -244,7 +256,7 @@ call PERSONA-PIPELINE:
 
 **輸出處理（三分類 + 一個閥門）**：
 
-1. 🆕 **真缺口** → 起 targeted 增補搜尋（補這個 facet 的事實/場景/引語），把 finding 加進 report §3/§6。**增補後 report 變了，Step 1.9.5 收尾前重跑 [research-report-health gate](REWRITE-STAGE-1-RESEARCH.md#step-17-研究報告--ssot對標研究所論文標準-)。**
+1. 🆕 **真缺口** → 起 targeted 增補搜尋（補這個 facet 的事實/場景/引語），把 finding 加進 report §3/§6。**增補後 report 變了，Step 1.9.5 收尾前重跑 [research-report-health gate](REWRITE-STAGE-1A-RESEARCH.md#step-17-研究報告--ssot對標研究所論文標準-)。**
 2. ✅ **已 cover** → 記錄不重複。
 3. ⛔ **超 scope** → 落 `rationale.whats_excluded`。
 4. 🔴 **反向閥門（立體 ≠ 迴避的自我糾正）**：如果 persona（尤其 D 軸挑硬傷/反方）揪出「這篇立體群像其實洗掉了一個真該被尖銳處理的公共爭議」→ 回 [Step 0.1.5](REWRITE-STAGE-0-VIEWPOINT.md#step-015-spine-類型判定v77-重構--立體群像是預設畫布) 重判：要不要把那個爭議升成一個 substantial facet，或（罕見）解鎖矛盾驅動主脊。**這條讓立體 default 不變擋箭牌。**
