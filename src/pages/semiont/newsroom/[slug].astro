@@ -1,0 +1,490 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import '../../../styles/semiont.css';
+// ─────────────────────────────────────────────────────────────────────────────
+// Making-of（單篇編輯台紀錄）— 公開唯讀 · beta
+//
+// 這篇文章怎麼被想（投影論點）、被吵（編輯室分席對抗 + 主編裁決）、被驗
+// （事實查核），全部原始檔本來就活在公開 repo；本頁只是把它們排出來看。
+// 資料來源：src/lib/semiont-newsroom.ts 解析
+//   reports/article-projection/{slug}.md
+//   reports/editorial-room/*.md
+// 零 client JS，build-time 全靜態。
+// ─────────────────────────────────────────────────────────────────────────────
+import { getMakingOfSlugs, getMakingOf } from '../../../lib/semiont-newsroom';
+import type { ReviewData } from '../../../lib/semiont-newsroom';
+
+export async function getStaticPaths() {
+  const slugs = await getMakingOfSlugs();
+  return slugs.map((slug) => ({ params: { slug } }));
+}
+
+const { slug } = Astro.params as { slug: string };
+const makingOf = await getMakingOf(slug);
+const { projection, projectionFile, reviews } = makingOf;
+
+const GH = 'https://github.com/frank890417/taiwan-md/blob/main/';
+
+const ROOM_LABEL: Record<string, string> = {
+  projection: '投影室',
+  'prose-structure': '正文結構室',
+  chief: '總編室',
+};
+
+function roomLabel(room: string): string {
+  return ROOM_LABEL[room] ?? (room ? room : '編輯室');
+}
+
+function verdictClass(v: string): 'ok' | 'mid' | 'bad' {
+  const m = v.match(/^\s*(pass|revise|block|blocked)/i);
+  if (!m) return 'mid';
+  const w = m[1].toLowerCase();
+  if (w === 'pass') return 'ok';
+  if (w === 'block' || w === 'blocked') return 'bad';
+  return 'mid';
+}
+
+function verdictLabel(v: string): string {
+  return v && v.trim() ? v.trim() : '（未標註）';
+}
+
+// 頁尾原始檔連結：投影藍圖 + 每份 review，去重
+const rawFiles = Array.from(
+  new Set([
+    ...(projectionFile ? [projectionFile] : []),
+    ...reviews.map((r) => r.file),
+  ]),
+);
+---
+
+<Layout
+  title={`${slug} 的編輯台紀錄 — Taiwan.md Newsroom（beta）`}
+  description={`${slug} 這篇文章怎麼被想（投影論點）、被吵（編輯室分席對抗）、被驗——原始審查紀錄全部攤開。`}
+  lang="zh-TW"
+>
+  <main class="mk">
+    <header class="mk-head">
+      <p class="mk-eyebrow">
+        SEMIONT NEWSROOM <span class="mk-beta">beta</span>
+      </p>
+      <h1>{slug}</h1>
+      <p class="mk-lede">這篇文章的編輯台紀錄</p>
+      <p class="mk-back"><a href="/semiont/newsroom">← 回共享編輯台看板</a></p>
+    </header>
+
+    {
+      projection ? (
+        <section class="mk-card mk-projection">
+          <h2>
+            📐 投影藍圖
+            {projection.spineType && (
+              <span class="mk-badge spine">{projection.spineType}</span>
+            )}
+          </h2>
+          {projection.date && <p class="mk-meta">投影日期 {projection.date}</p>}
+
+          {projection.thesisHtml && (
+            <div class="mk-block">
+              <h3>論點</h3>
+              <div class="mk-quote" set:html={projection.thesisHtml} />
+            </div>
+          )}
+
+          {projection.skeletonHtml && (
+            <div class="mk-block">
+              <h3>骨架</h3>
+              <div class="mk-prose" set:html={projection.skeletonHtml} />
+            </div>
+          )}
+
+          {projection.subtractionHtml && (
+            <div class="mk-block">
+              <h3>減法</h3>
+              <div class="mk-prose" set:html={projection.subtractionHtml} />
+            </div>
+          )}
+        </section>
+      ) : (
+        <section class="mk-card mk-empty">
+          <p>
+            這篇文章目前沒有找到投影藍圖（reports/article-projection/
+            沒有對應檔案）。
+          </p>
+        </section>
+      )
+    }
+
+    {
+      reviews.length === 0 && (
+        <section class="mk-card mk-empty">
+          <p>目前沒有找到編輯室審查紀錄。</p>
+        </section>
+      )
+    }
+
+    {
+      reviews.map((review: ReviewData) => (
+        <section class="mk-card mk-room">
+          <h2>
+            🏛️ 編輯室・{roomLabel(review.room)}
+            {review.overall && (
+              <span class={`mk-badge v-${verdictClass(review.overall)}`}>
+                {verdictLabel(review.overall)}
+              </span>
+            )}
+          </h2>
+          <p class="mk-meta">
+            {review.date && <>{review.date} · </>}
+            {review.rounds && <>第 {review.rounds} 輪 · </>}
+            <a href={GH + review.file}>原始審查檔 →</a>
+          </p>
+
+          {review.seats.length > 0 && (
+            <div class="mk-seats">
+              {review.seats.map((seat) => (
+                <div class={`mk-bubble seat-${verdictClass(seat.verdict)}`}>
+                  <p class="mk-bubble-head">
+                    <span class="mk-seat-name">{seat.name}</span>
+                    <span class={`mk-badge v-${verdictClass(seat.verdict)}`}>
+                      {verdictLabel(seat.verdict)}
+                    </span>
+                  </p>
+                  <div class="mk-bubble-body" set:html={seat.findingsHtml} />
+                </div>
+              ))}
+            </div>
+          )}
+
+          {review.mustFix.length > 0 && (
+            <div class="mk-mustfix">
+              <h3>必改清單</h3>
+              <ol>
+                {review.mustFix.map((item) => (
+                  <li set:html={item} />
+                ))}
+              </ol>
+            </div>
+          )}
+
+          {review.debate && review.debate.length > 0 && (
+            <div class="mk-debate">
+              <h3>攻防</h3>
+              {review.debate.map((d) => (
+                <div class="mk-debate-item">
+                  {d.challenge && (
+                    <p class="mk-debate-line line-challenge">
+                      <span class="mk-debate-label">質疑</span>
+                      <span set:html={d.challenge} />
+                    </p>
+                  )}
+                  {d.defense && (
+                    <p class="mk-debate-line line-defense">
+                      <span class="mk-debate-label">回應</span>
+                      <span set:html={d.defense} />
+                    </p>
+                  )}
+                  {d.ruling && (
+                    <p class="mk-debate-line line-ruling">
+                      <span class="mk-debate-label">裁決</span>
+                      <span set:html={d.ruling} />
+                    </p>
+                  )}
+                </div>
+              ))}
+            </div>
+          )}
+
+          {review.rulingHtml && (
+            <div class="mk-bubble mk-ruling">
+              <p class="mk-bubble-head">
+                <span class="mk-seat-name">主編裁決</span>
+              </p>
+              <div class="mk-bubble-body" set:html={review.rulingHtml} />
+            </div>
+          )}
+        </section>
+      ))
+    }
+
+    <footer class="mk-foot">
+      <p>素材全部活在公開 repo，以下是這篇文章編輯台紀錄用到的原始檔：</p>
+      <ul class="mk-raw-list">
+        {
+          rawFiles.map((f) => (
+            <li>
+              <a href={GH + f}>{f}</a>
+            </li>
+          ))
+        }
+      </ul>
+      <p class="mk-foot-note">
+        這是「編輯室對抗」與「思考脈絡公開化」實驗的一部分（2026-07-16 誕生）。
+        回饋歡迎開 <a href="https://github.com/frank890417/taiwan-md/issues"
+          >issue</a
+        >。🧬
+      </p>
+    </footer>
+  </main>
+</Layout>
+
+<style>
+  .mk {
+    max-width: 46rem;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+    background: #101418;
+    color: #dce3e8;
+    min-height: 100vh;
+    line-height: 1.75;
+  }
+  .mk-head {
+    margin-bottom: 2rem;
+  }
+  .mk-eyebrow {
+    letter-spacing: 0.2em;
+    font-size: 0.75rem;
+    opacity: 0.7;
+  }
+  .mk-beta {
+    border: 1px solid #4fd1b0;
+    color: #4fd1b0;
+    border-radius: 999px;
+    padding: 0 0.5em;
+    margin-left: 0.5em;
+    font-size: 0.7rem;
+  }
+  .mk-head h1 {
+    font-size: 1.9rem;
+    margin: 0.25rem 0 0.5rem;
+    word-break: break-word;
+  }
+  .mk-lede {
+    opacity: 0.85;
+    margin: 0 0 0.75rem;
+  }
+  .mk-back a {
+    font-size: 0.85rem;
+    color: #4fd1b0;
+    text-decoration: none;
+  }
+  .mk-back a:hover {
+    text-decoration: underline;
+  }
+
+  .mk-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 1.2rem 1.4rem;
+    margin-bottom: 1.5rem;
+  }
+  .mk-card h2 {
+    font-size: 1.15rem;
+    margin: 0 0 0.4rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    flex-wrap: wrap;
+  }
+  .mk-card h3 {
+    font-size: 0.95rem;
+    opacity: 0.85;
+    margin: 1rem 0 0.5rem;
+  }
+  .mk-meta {
+    font-size: 0.78rem;
+    opacity: 0.6;
+    margin: 0 0 0.6rem;
+  }
+  .mk-meta a {
+    color: #4fd1b0;
+  }
+  .mk-empty {
+    opacity: 0.6;
+    font-size: 0.85rem;
+  }
+
+  .mk-badge {
+    display: inline-block;
+    font-size: 0.65rem;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 999px;
+    padding: 0 0.55em;
+    opacity: 0.9;
+    font-weight: 400;
+  }
+  .mk-badge.spine {
+    border-color: #7fb8e8;
+    color: #7fb8e8;
+  }
+  .mk-badge.v-ok {
+    border-color: #4fd1b0;
+    color: #4fd1b0;
+  }
+  .mk-badge.v-mid {
+    border-color: #e8a94f;
+    color: #e8a94f;
+  }
+  .mk-badge.v-bad {
+    border-color: #e87a7a;
+    color: #e87a7a;
+  }
+
+  .mk-block :global(p) {
+    margin: 0 0 0.7em;
+  }
+  .mk-quote {
+    border-left: 3px solid #4fd1b0;
+    padding: 0.7rem 1.1rem;
+    background: rgba(79, 209, 176, 0.06);
+    border-radius: 0 8px 8px 0;
+    font-size: 0.98rem;
+  }
+  .mk-quote :global(blockquote) {
+    margin: 0 0 0.6em;
+    padding-left: 0.8em;
+    border-left: 2px solid rgba(79, 209, 176, 0.5);
+    opacity: 0.95;
+  }
+  .mk-prose {
+    font-size: 0.92rem;
+    opacity: 0.9;
+  }
+  .mk-prose :global(ol),
+  .mk-prose :global(ul) {
+    padding-left: 1.3em;
+  }
+  .mk-prose :global(li) {
+    margin-bottom: 0.4em;
+  }
+
+  .mk-seats {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+    margin: 0.6rem 0;
+  }
+  .mk-bubble {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-left-width: 3px;
+    border-radius: 4px 10px 10px 10px;
+    padding: 0.7rem 0.9rem;
+  }
+  .mk-bubble.seat-ok {
+    border-left-color: #4fd1b0;
+  }
+  .mk-bubble.seat-mid {
+    border-left-color: #e8a94f;
+  }
+  .mk-bubble.seat-bad {
+    border-left-color: #e87a7a;
+  }
+  .mk-bubble-head {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    margin: 0 0 0.4rem;
+    font-size: 0.85rem;
+  }
+  .mk-seat-name {
+    font-weight: 600;
+  }
+  .mk-bubble-body {
+    font-size: 0.88rem;
+    opacity: 0.9;
+  }
+  .mk-bubble-body :global(p) {
+    margin: 0 0 0.5em;
+  }
+  .mk-bubble-body :global(ul),
+  .mk-bubble-body :global(ol) {
+    padding-left: 1.2em;
+    margin: 0 0 0.5em;
+  }
+  .mk-bubble-body :global(li) {
+    margin-bottom: 0.3em;
+  }
+  .mk-bubble-body :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.82rem;
+    margin: 0.5em 0;
+  }
+  .mk-bubble-body :global(th),
+  .mk-bubble-body :global(td) {
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    padding: 0.35em 0.5em;
+    text-align: left;
+  }
+
+  .mk-mustfix ol {
+    padding-left: 1.3em;
+    font-size: 0.88rem;
+    opacity: 0.9;
+  }
+  .mk-mustfix li {
+    margin-bottom: 0.45em;
+  }
+
+  .mk-debate-item {
+    margin-bottom: 0.7rem;
+  }
+  .mk-debate-line {
+    margin: 0 0 0.4em 0;
+    padding: 0.4em 0.7em;
+    border-radius: 0 6px 6px 0;
+    font-size: 0.85rem;
+  }
+  .mk-debate-label {
+    display: inline-block;
+    font-weight: 600;
+    margin-right: 0.5em;
+    font-size: 0.75rem;
+    opacity: 0.75;
+  }
+  .line-challenge {
+    border-left: 3px solid #e87a7a;
+    background: rgba(232, 122, 122, 0.06);
+    margin-left: 0;
+  }
+  .line-defense {
+    border-left: 3px solid #7fb8e8;
+    background: rgba(127, 184, 232, 0.06);
+    margin-left: 1rem;
+  }
+  .line-ruling {
+    border-left: 3px solid #4fd1b0;
+    background: rgba(79, 209, 176, 0.06);
+    margin-left: 2rem;
+  }
+
+  .mk-ruling {
+    margin-top: 0.9rem;
+    border: 1px solid rgba(79, 209, 176, 0.4);
+    border-left-width: 4px;
+    border-left-color: #4fd1b0;
+    background: rgba(79, 209, 176, 0.05);
+  }
+  .mk-ruling .mk-seat-name {
+    color: #4fd1b0;
+  }
+
+  .mk-foot {
+    max-width: 46rem;
+    margin: 2rem auto 0;
+    font-size: 0.8rem;
+    opacity: 0.75;
+    line-height: 1.9;
+  }
+  .mk-foot a {
+    color: #4fd1b0;
+  }
+  .mk-raw-list {
+    padding-left: 1.2em;
+    word-break: break-all;
+  }
+  .mk-foot-note {
+    margin-top: 0.8rem;
+  }
+</style>
