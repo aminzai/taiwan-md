@@ -46,6 +46,12 @@ frontmatter（article／stage／mode／date／session 欄）沒給格式——�
 模板沒有槽位承載「這題是政治題，走多視角中立紀實」這類 per-topic 邊界。本次手動
 加進 prompt。**修法**：AGENT PROMPT 加 `{TOPIC_GUARDRAILS}` 槽（可空）。
 
+### F1-F3 修正已 ship（16:58，STAGE-0 contract v9.1）
+
+AGENT PROMPT 補：contract 自身路徑進必讀、frontmatter 最小塊 inline、`{TOPIC_GUARDRAILS}`
+槽位（政治題填多視角中立紀實邊界）、完成三步驗收（ls 驗檔＋gate＋spine 回報）。
+pipeline-shell-lint＋frontmatter gate 全綠。
+
 （收尾補：F4+）
 
 ## 設計被驗證的部分（正面證據）

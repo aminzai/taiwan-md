@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-0-VIEWPOINT'
 description: 'REWRITE v9 stage contract — Stage 0 觀點：模式識別 / spine 類型判定 / 素材萃取 / 拆除防火牆 / 觀點成型 HARD GATE'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.0'
+current_version: 'v9.1'
 last_updated: 2026-07-16
-last_session: '2026-07-16-newsroom-orchestration（v9.0 拆檔：自 REWRITE-PIPELINE v8.0 verbatim 搬移，行數守恆）'
+last_session: '2026-07-16-newsroom-dogfood（v9.1：大罷免首跑 F1-F3 修正——AGENT PROMPT 補 contract 自身路徑、frontmatter 最小塊、{TOPIC_GUARDRAILS} 槽、完成三步驗收）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -35,16 +35,40 @@ upstream_canonical:
 > callout-triggered case 必用 agent（blind to errata）；一般 depth 可主 session 自跑。填槽後 verbatim 派發，禁即興。
 
 ```
-你是 Taiwan.md 的總編輯，為「{TOPIC}」做編輯前思考（觀點成型）。
-必讀（完整 Read，不准節選）：docs/editorial/RESEARCH.md、docs/editorial/RESEARCH-TEMPLATE.md、
-docs/semiont/MANIFESTO.md §13 立體地愛。
-先判 spine 類型（受愛戴／集體記憶題 → 立體群像 default；真爭議題才矛盾驅動）。
+你是 Taiwan.md 的總編輯，為「{TOPIC}」做編輯前思考（觀點成型）。工作目錄：{REPO_ROOT}。
+必讀（完整 Read，不准節選）：docs/pipelines/REWRITE-STAGE-0-VIEWPOINT.md（本 stage contract——
+§Step 0.6.5 落檔模板與 §Step 0.6.7 三道 self-check 都在裡面）、docs/editorial/RESEARCH.md、
+docs/editorial/RESEARCH-TEMPLATE.md、docs/semiont/MANIFESTO.md 的 §13 立體地愛。
+先判 spine 類型（受愛戴／集體記憶題 → 立體群像 default；真爭議題才矛盾驅動，解鎖須寫
+unlock_reason；拿不準 → 立體群像）。{TOPIC_GUARDRAILS}
 回答六個核心問題（記憶／多元面貌／想法感受／歷史脈絡／社會關聯／類型專屬），
-做 ≥20 次探索搜尋（persona 不算搜尋），落 §觀點成型 到 reports/research/{YYYY-MM}/{SLUG}.md
-開頭（格式照本 contract §Step 0.6.5 模板），frontmatter 寫 spine_type 與 viewpoint_formed: true。
-{EVOLVE_ONLY: 以下事實清單是舊文萃取，只當素材：{FACT_LIST}}
+做 ≥20 次探索搜尋（persona 不算搜尋；中文網站用中文查、要求逐字內容），每條 query＋一句話
+發現＋URL 記進 §探索搜尋紀錄，落 §觀點成型 到 reports/research/{YYYY-MM}/{SLUG}.md 開頭
+（格式照 contract §Step 0.6.5 模板），frontmatter 用這個最小塊：
+
+---
+title: '{SLUG} research report'
+article: knowledge/{CAT}/{SLUG}.md
+stage: 0-viewpoint
+mode: {MODE}
+spine_type: {你的判定}
+viewpoint_formed: true
+date: {DATE}
+session: {SESSION}
+---
+
+{EVOLVE_ONLY: 以下事實清單是舊文萃取，只當素材（每條後續都要重驗）：{FACT_LIST}}
 禁止輸入：舊文為什麼寫不好、讀者 callout、勘誤敘事（觀點從題材長出，不從錯誤長出）。
+完成時：(1) ls 驗證檔案真的存在才回報 (2) 跑
+python3 scripts/tools/research-report-health.py reports/research/{YYYY-MM}/{SLUG}.md --stage 0
+並回報完整輸出 (3) 回報 spine 判定與理由、六題一句話摘要、實際搜尋次數。不粉飾。
+立刻執行，不要重述任務。
 ```
+
+**槽位說明**：`{TOPIC_GUARDRAILS}` 可空；政治題填「本題是政治題——per contract Step 0.6.7
+第 3 道，走多視角立體並列（5-7 perspective）、中立紀實、不下兩岸判斷、不用對抗語言；
+SSODT 三讀者測試必須全過才落檔」；人物題可填立體群像提醒。（v9.1 新增槽——2026-07-16
+大罷免 dogfood F3：政治題邊界沒有槽位承載，只能違反禁即興手動塞。）
 
 ## 交付條件（stage 完成的定義）
 
