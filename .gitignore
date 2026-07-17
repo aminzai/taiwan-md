@@ -73,6 +73,10 @@ public/api/dashboard-articles.json
 public/api/dashboard-vitals.json
 public/api/dashboard-translations.json
 public/api/dashboard-organism.json
+# public/_redirects — 由 scripts/core/generate-redirects.mjs 從
+# config/redirects-manual.txt（committed source）+ reports/404-monitor/latest.json
+# 重新產生，CF Pages 讀 build 輸出根目錄的這份檔案；不進 git
+public/_redirects
 # 2026-04-26 β8: contributors.json 從 .gitignore 移除（保留作為 CI fallback baseline）
 # 觸發：CF Pages CI 共享 IP 撞 GitHub anon rate limit (60/hr) → writeFallback wipe → Dashboard 顯示 0
 # 修正：commit 一份 good baseline + generator 在 API 失敗時 preserve 上一筆好的資料

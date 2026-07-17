@@ -135,6 +135,24 @@ if (cf) {
   }
 }
 
+// ── 3.5 全流量 404 監測（monitor-404.py resolution-based 分類，2026-07-17 加）──
+// 為什麼: 上面 §3 只看 24h 聚合 rate，不知道「哪個 family 造成的」。
+// monitor-404.py 逐日跑完把已經算好的 alerts 陣列放在
+// reports/404-monitor/latest.json，這裡直接轉發，不重算門檻（單一 SSOT 在
+// monitor-404.py compute_alerts()）。檔案不存在（還沒跑過 refresh）就跳過。
+// id 沿用 monitor-404.py 產出的 `cf-404-*` 前綴，ownerFor() 既有的 'cf-404'
+// prefix 自動配 owner=twmd-maintainer，不用改 OWNERS 表。
+const fourOhFourLatest = readJson('reports/404-monitor/latest.json');
+for (const a of fourOhFourLatest?.alerts || []) {
+  if (!a?.id || !a?.message) continue;
+  addAlert(
+    a.id,
+    a.severity === 'red' ? 'red' : 'yellow',
+    a.message,
+    'reports/404-monitor/latest.json',
+  );
+}
+
 // ── 4. UNKNOWNS 可證偽實驗到期未判定（audit I-3 根治：機械檢查取代人記）──
 const unknownsPath = 'docs/semiont/UNKNOWNS.md';
 if (existsSync(unknownsPath)) {

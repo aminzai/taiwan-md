@@ -5,6 +5,8 @@
 # 修補 5/17 → 5/28 11 天 silent stale）：
 #    1. Git sync                            (auto-stash + pull, hard abort on failure)
 #    2. fetch-sense-data.sh                 (CF + GA4 + SC + dashboard-analytics merge)
+#       + monitor-404.py (Step 2.5)         (全流量 404 常駐監測 — resolution-based 分類，
+#                                            2026-07-17 加，per 14.99% hreflang 死連結根因追查)
 #    3. sync-translations-json.py           (sync _translations.json from frontmatter SSOT)
 #    4. generate-spore-records.py           (spores.json 完整記錄層 — 2026-06-10 解耦)
 #       + generate-dashboard-spores.py      (spore dashboard from SPORE-HARVESTS body — Phase 6 primary)
@@ -119,6 +121,20 @@ if bash scripts/tools/fetch-sense-data.sh 2>&1 | grep -E '^\[|^   [✅⚠️❌]
   true
 else
   echo -e "${YEL}⚠️  fetch-sense-data 部分失敗 — 心跳繼續${RST}"
+fi
+echo ""
+
+# ────────────────── Step 2.5 — 全流量 404 常駐監測 ──────────────────
+# 為什麼: 2026-07-17 查明 14.99% CF 404 率根因是站體自己吐的 13,014 條 hreflang
+# 死連結（已修，commit f369f3c8e）。既有 analyze-crawler-404.py 只看 10 個
+# crawler UA allowlist，人類 404 結構性看不見。monitor-404.py 看全部流量，
+# resolution-based 分類（不是猜 regex），輸出 reports/404-monitor/latest.json
+# 給 Step 7 之後的 generate-dashboard-alerts.mjs 讀 alerts。單步失敗不擋 pipeline。
+echo -e "${GRN}[2.5/14]${RST} 全流量 404 常駐監測 (monitor-404.py)..."
+if python3 scripts/tools/monitor-404.py --days 1 2>&1 | tail -20; then
+  echo -e "${DIM}   ✓ reports/404-monitor/{state,latest}.json 已更新${RST}"
+else
+  echo -e "${YEL}⚠️  monitor-404 部分失敗 — 心跳繼續${RST}"
 fi
 echo ""
 

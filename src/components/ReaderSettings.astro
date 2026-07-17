@@ -332,9 +332,9 @@ const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
     }
     function setRawLink() {
       if (!rawLink) return;
-      // Map '/[lang/]<category>/<slug>' → '/[lang/]raw/<category>/<slug>'.
-      // Hub pages and non-article routes get hidden — there's no plain-text
-      // view for them yet (Hubs aren't a single .md file).
+      // Insert the raw segment after the lang prefix to reach the
+      // article's plain-text view. Hub pages and non-article routes get
+      // hidden — no raw view exists for them.
       var path = location.pathname.replace(/\/$/, '');
       var langPrefixes = ['/en', '/ja', '/ko', '/es', '/fr'];
       var prefix = '';

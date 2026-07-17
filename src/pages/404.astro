@@ -455,14 +455,105 @@ const categories = [
       });
     }
 
+    // ─── .md rescue (2026-07-17) ───────────────────────────
+    // LLM/agent readers fetch our raw markdown views and resolve relative
+    // wikilinks against them, producing dead paths such as
+    // /people/PersonA/PersonB.md (PersonB is a real article; PersonA is the
+    // referring article's title, mistaken for a path segment). CF log: 596
+    // .md 404s in 3 days. If the trailing segment matches a known article,
+    // send the reader straight to its raw plain-text view instead of a
+    // dead end. This flag is declared at IIFE top level (not var) so the
+    // tracking block near the bottom of this script can check it too.
+    // NOTE: this is a define:vars script — never write backticks anywhere in
+    // it (comments included); Astro's injection wrapper breaks on them.
+    let page404Fired = false;
+    if (/\.md$/.test(pathname)) {
+      const mdPath = pathWithoutLang.replace(/\.md$/, '');
+      const mdSegments = mdPath
+        .replace(/^\//, '')
+        .replace(/\/$/, '')
+        .split('/')
+        .filter(Boolean);
+
+      // Direct hit: category/slug is already a valid articleIndex key (the
+      // simple case — a reader appended .md to a known article URL). Falls
+      // back to matching against zhTitle, because the zh-TW raw view's real
+      // slug is the zh filename (e.g. knowledge/People/PersonB.md), which
+      // articleIndex only exposes as the zhTitle field, not as its key.
+      const findArticle = (category, slugSegment) => {
+        const decodedSlug = decodeURIComponent(slugSegment);
+        const directKey = category + '/' + decodedSlug;
+        if (articleIndex[directKey]) {
+          return { entry: articleIndex[directKey], key: directKey };
+        }
+        for (const key in articleIndex) {
+          const entry = articleIndex[key];
+          if (entry.category === category && entry.zhTitle === decodedSlug) {
+            return { entry: entry, key: key };
+          }
+        }
+        return null;
+      };
+
+      let mdMatch = null;
+      if (mdSegments.length >= 2) {
+        const lastSlug = mdSegments[mdSegments.length - 1];
+        mdMatch = findArticle(mdSegments[mdSegments.length - 2], lastSlug);
+        if (!mdMatch) {
+          mdMatch = findArticle(mdSegments[0], lastSlug);
+        }
+      }
+
+      if (
+        mdMatch &&
+        (lang === 'zh-TW' || mdMatch.entry.langs.indexOf(lang) !== -1)
+      ) {
+        // zh-TW raw slug = zh filename (zhTitle). Every other language's
+        // raw slug = the English slug half of the matched articleIndex key.
+        const rawSlug =
+          lang === 'zh-TW'
+            ? encodeURIComponent(mdMatch.entry.zhTitle)
+            : encodeURIComponent(mdMatch.key.split('/')[1]);
+        const rawPrefix = langPrefix ? langPrefix.replace(/^\//, '') + '/' : '';
+        const rawPath =
+          '/' +
+          rawPrefix +
+          'raw/' +
+          mdMatch.entry.category +
+          '/' +
+          rawSlug +
+          '.md';
+
+        try {
+          if (
+            typeof window !== 'undefined' &&
+            typeof window.gtag === 'function'
+          ) {
+            window.gtag('event', 'page_404', {
+              failed_path: window.location.pathname,
+              failed_url: window.location.href,
+              referrer: document.referrer || '(direct)',
+              page_lang: document.documentElement.lang || 'unknown',
+              had_suggestion: true,
+            });
+          }
+        } catch (e) {
+          console.error('[404] page_404 tracking failed:', e);
+        }
+        page404Fired = true;
+
+        setTimeout(() => {
+          window.location.replace(rawPath);
+        }, 150);
+      }
+    }
+
     // Smart detection: is this a known but untranslated article?
     // suggestedArticle lives at IIFE scope because the tracking block at the
     // bottom reports it. It used to read the block-scoped "article" const
     // declared two blocks down, which is out of scope there — a ReferenceError
     // thrown while building the payload, swallowed by that block's catch, so
     // page_404 never fired once between 2026-04 and 2026-07-17.
-    // NOTE: this is a define:vars script — never write backticks anywhere in
-    // it (comments included); Astro's injection wrapper breaks on them.
     let suggestedArticle = null;
     if (lang !== 'zh-TW' && pathWithoutLang !== '/') {
       // Parse: /food/beef-noodle-soup → category=food, slug=beef-noodle-soup
@@ -522,21 +613,26 @@ const categories = [
     // Track the actual failed URL so we can diagnose which paths 404.
     // GA4 otherwise only tells us "404 page visited" without the path.
     // See reports/sense-2026-04-11.md §2 for the full rationale.
-    try {
-      if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
-        window.gtag('event', 'page_404', {
-          failed_path: window.location.pathname,
-          failed_url: window.location.href,
-          referrer: document.referrer || '(direct)',
-          page_lang: document.documentElement.lang || 'unknown',
-          had_suggestion: !!suggestedArticle,
-        });
+    if (!page404Fired) {
+      try {
+        if (
+          typeof window !== 'undefined' &&
+          typeof window.gtag === 'function'
+        ) {
+          window.gtag('event', 'page_404', {
+            failed_path: window.location.pathname,
+            failed_url: window.location.href,
+            referrer: document.referrer || '(direct)',
+            page_lang: document.documentElement.lang || 'unknown',
+            had_suggestion: !!suggestedArticle,
+          });
+        }
+      } catch (e) {
+        // Never let tracking break the 404 page itself — but never let it die
+        // silently either. This catch hid a ReferenceError for three months
+        // while GA4 reported zero page_404 events and nothing complained.
+        console.error('[404] page_404 tracking failed:', e);
       }
-    } catch (e) {
-      // Never let tracking break the 404 page itself — but never let it die
-      // silently either. This catch hid a ReferenceError for three months
-      // while GA4 reported zero page_404 events and nothing complained.
-      console.error('[404] page_404 tracking failed:', e);
     }
   })();
 </script>

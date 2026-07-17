@@ -259,6 +259,16 @@ bash scripts/tools/fetch-sense-data.sh
 
 ---
 
+### 404 監測記帳（script Step 2.5 — monitor-404，2026-07-17 新增）
+
+```bash
+python3 scripts/tools/monitor-404.py --days 1
+```
+
+緊接三源感知之後跑（soft fail，同其他步驟）。對 CF 前一日全部 404 做 resolution-based 分家族（slug-variant / cross-lang-slug / untranslated-demand / renamed / scanner / stale-asset / …），寫 `reports/404-monitor/{state,latest}.json`（committed 記帳），alerts 由 `generate-dashboard-alerts.mjs` 讀入。**看訊號時的鐵律**：可解析家族（前四類）是我們能修的債；scanner / probe 是背景噪音，混在同一個總率裡讀 = 混維度（REFLEXES #38）。`untranslated-demand` 是讀者用 404 投票的翻譯需求排行，babel 排優先序時應參考。誕生背景：[reports/404-root-cause-2026-07-17.md](../../reports/404-root-cause-2026-07-17.md)。
+
+---
+
 ### Prebuild dashboard 數據（script Step 7 — rebuild static JSON）
 
 ```bash
