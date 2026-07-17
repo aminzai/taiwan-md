@@ -9,6 +9,7 @@ import {
   type Lang,
 } from '../config/languages';
 import { getLiveArticleCount } from '../utils/liveStats';
+import { getLangSwitchPath } from '../utils/getLangSwitchPath';
 
 // Live article count from prebuilt vitals so SEO meta tracks reality.
 // 2026-06-10 audit #5: hoisted to module-level cache (was a per-render
@@ -62,6 +63,53 @@ const {
 
 const fullTitle = `${title} | Taiwan.md`;
 const siteUrl = 'https://taiwan.md';
+
+// Per-locale URLs for the hreflang cluster. Shares the module-level registry
+// cache with Header.astro's switcher, so this costs one Map lookup per page.
+//
+// Slugs diverge per language for the same article (People/李珠珢.md is
+// en/lee-ju-eun but ja/ko/es/fr/lee-ju-eun-singer), so a locale prefix can
+// never be swapped onto the current slug — that manufactures 404s (13,014
+// dead alternates across 99.8% of pages before 2026-07-17). The registry is
+// the only thing that knows each locale's real URL, and the has* flags are
+// the only thing that knows whether a translation exists at all. Header.astro
+// already resolves the visible switcher this way; the machine-readable tags
+// must agree with it. Computed here in frontmatter — the Astro template
+// expression scanner mis-parses generics and nested template literals.
+const langSwitch = await getLangSwitchPath(new URL(url).pathname);
+
+const _hreflangLink: Record<string, string | undefined> = {
+  'zh-TW': langSwitch.hasZh ? langSwitch.zhLink : undefined,
+  en: langSwitch.hasEn ? langSwitch.enLink : undefined,
+  ja: langSwitch.hasJa ? langSwitch.jaLink : undefined,
+  ko: langSwitch.hasKo ? langSwitch.koLink : undefined,
+  es: langSwitch.hasEs ? langSwitch.esLink : undefined,
+  fr: langSwitch.hasFr ? langSwitch.frLink : undefined,
+};
+
+// Match the canonical's trailing slash so alternates resolve 200, not 301.
+// Registry values mix percent-encoded zh URLs (toZh side) and raw CJK
+// filenames (native lang slugs). encodeURI escapes bare '%', so running it
+// over an already-encoded path double-encodes (%E6 → %25E6) — only encode
+// paths that carry no %XX sequences yet.
+const _absAlt = (p: string) => {
+  const withSlash = p.endsWith('/') ? p : p + '/';
+  const alreadyEncoded = /%[0-9A-Fa-f]{2}/.test(withSlash);
+  return siteUrl + (alreadyEncoded ? withSlash : encodeURI(withSlash));
+};
+
+const hreflangTags = ENABLED_LANGUAGE_CODES.filter((c) => _hreflangLink[c]).map(
+  (c) => ({
+    hreflang: getLanguage(c)?.hreflang || c,
+    href: _absAlt(_hreflangLink[c] as string),
+  }),
+);
+
+const _defaultAlt = _hreflangLink[DEFAULT_LANGUAGE.code];
+const hreflangDefault = _defaultAlt ? _absAlt(_defaultAlt) : null;
+
+// A one-entry cluster tells Google nothing; omit rather than self-declare.
+const emitHreflang = hreflangTags.length >= 2;
 
 // OG image strategy (2026-04-22 β):
 //   - Article pages: per-article OG at /og-images/[lang]/[cat]/[slug].jpg
@@ -569,47 +617,17 @@ const breadcrumbLD = generateBreadcrumbLD();
 <link rel="dns-prefetch" href="//github.com" />
 <link rel="dns-prefetch" href="//x.com" />
 
-<!-- Dynamic Language Tags — driven by LANGUAGES registry -->
+<!-- Dynamic Language Tags — resolved through the LangMap registry (frontmatter) -->
 {
-  (() => {
-    const currentPath = new URL(url).pathname;
-    // Non-default locale prefixes (everything except zh-TW which has no prefix)
-    const nonDefaultCodes = ENABLED_LANGUAGE_CODES.filter(
-      (c) => c !== DEFAULT_LANGUAGE.code,
-    );
-
-    // Strip any locale prefix to get the base path
-    let basePath = currentPath;
-    for (const p of nonDefaultCodes) {
-      if (currentPath.startsWith(`/${p}/`) || currentPath === `/${p}`) {
-        basePath = currentPath.slice(`/${p}`.length) || '/';
-        break;
-      }
-    }
-
-    const buildHref = (code: string) =>
-      code === DEFAULT_LANGUAGE.code
-        ? `${siteUrl}${basePath}`
-        : `${siteUrl}/${code}${basePath === '/' ? '' : basePath}`;
-
-    const defaultHref = buildHref(DEFAULT_LANGUAGE.code);
-
-    return (
-      <>
-        {ENABLED_LANGUAGE_CODES.map((code) => {
-          const entry = getLanguage(code);
-          return (
-            <link
-              rel="alternate"
-              hreflang={entry?.hreflang || code}
-              href={buildHref(code)}
-            />
-          );
-        })}
-        <link rel="alternate" hreflang="x-default" href={defaultHref} />
-      </>
-    );
-  })()
+  emitHreflang &&
+    hreflangTags.map((t) => (
+      <link rel="alternate" hreflang={t.hreflang} href={t.href} />
+    ))
+}
+{
+  emitHreflang && hreflangDefault && (
+    <link rel="alternate" hreflang="x-default" href={hreflangDefault} />
+  )
 }
 
 <!-- Open Graph / Facebook -->

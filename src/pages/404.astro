@@ -456,6 +456,14 @@ const categories = [
     }
 
     // Smart detection: is this a known but untranslated article?
+    // suggestedArticle lives at IIFE scope because the tracking block at the
+    // bottom reports it. It used to read the block-scoped "article" const
+    // declared two blocks down, which is out of scope there — a ReferenceError
+    // thrown while building the payload, swallowed by that block's catch, so
+    // page_404 never fired once between 2026-04 and 2026-07-17.
+    // NOTE: this is a define:vars script — never write backticks anywhere in
+    // it (comments included); Astro's injection wrapper breaks on them.
+    let suggestedArticle = null;
     if (lang !== 'zh-TW' && pathWithoutLang !== '/') {
       // Parse: /food/beef-noodle-soup → category=food, slug=beef-noodle-soup
       const parts = pathWithoutLang
@@ -466,6 +474,7 @@ const categories = [
         const [category, slug] = parts;
         const key = `${category}/${decodeURIComponent(slug)}`;
         const article = articleIndex[key];
+        suggestedArticle = article || null;
 
         if (article && !article.langs.includes(lang)) {
           // Article exists but not in this language!
@@ -520,11 +529,14 @@ const categories = [
           failed_url: window.location.href,
           referrer: document.referrer || '(direct)',
           page_lang: document.documentElement.lang || 'unknown',
-          had_suggestion: !!article,
+          had_suggestion: !!suggestedArticle,
         });
       }
     } catch (e) {
-      // Never let tracking break the 404 page itself
+      // Never let tracking break the 404 page itself — but never let it die
+      // silently either. This catch hid a ReferenceError for three months
+      // while GA4 reported zero page_404 events and nothing complained.
+      console.error('[404] page_404 tracking failed:', e);
     }
   })();
 </script>

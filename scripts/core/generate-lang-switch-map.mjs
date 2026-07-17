@@ -127,7 +127,15 @@ async function buildRegistry() {
     const langKeys = new Set([nL, decodeURIComponent(nL)]);
     const zhKeys = new Set([nZ, decodeURIComponent(nZ)]);
     for (const k of langKeys) m.toZh[k] = nZ;
-    for (const k of zhKeys) m.fromZh[k] = nL;
+    // fromZh is an OUTPUT map (what URL do we link readers/crawlers to) —
+    // first write wins. The native-slug URL is registered before the en-slug
+    // alias, and only the native slug is a route that actually exists; the
+    // alias used to overwrite it here, sending switcher + hreflang links for
+    // every divergent-slug article to a 404 (e.g. ja 李珠珢 → /ja/people/
+    // lee-ju-eun instead of the real /ja/people/lee-ju-eun-singer).
+    for (const k of zhKeys) {
+      if (!(k in m.fromZh)) m.fromZh[k] = nL;
+    }
   }
 
   for (const [langFile, zhFile] of Object.entries(translations)) {

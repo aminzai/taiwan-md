@@ -198,7 +198,13 @@ async function buildLangMapRegistryUncached(): Promise<LangMapRegistry> {
     const langKeys = new Set([nL, decodeURIComponent(nL)]);
     const zhKeys = new Set([nZ, decodeURIComponent(nZ)]);
     for (const k of langKeys) m.toZh.set(k, nZ);
-    for (const k of zhKeys) m.fromZh.set(k, nL);
+    // fromZh is an OUTPUT map — first write wins. Native-slug URL registers
+    // before the en-slug alias and is the only route that actually exists;
+    // last-write-wins used to point divergent-slug articles at 404s. Keep in
+    // sync with scripts/core/generate-lang-switch-map.mjs (prebuilt SSOT).
+    for (const k of zhKeys) {
+      if (!m.fromZh.has(k)) m.fromZh.set(k, nL);
+    }
   }
 
   for (const [langFile, zhFile] of Object.entries(translations)) {
