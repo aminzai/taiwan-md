@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-18
-last_session: '2026-07-18-064225-twmd-spore-harvest-am (4 spore harvest 0 external reply, 兩 cycle gap 後首個 datapoint, platform-mix shift datapoint #2)'
+last_session: '2026-07-18-070644-twmd-feedback-triage (隊列連 5 日真空 file=0 + archive synced=0，兩入口同時空；REST 對賬 HTTP 200 */0 證真空非斷線)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -374,3 +374,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-18 | 052228-twmd-embeddings-nightly | bge-m3 nightly 六語 4942 向量 0 fail／PASS／本機命中／`b8c157d2f`；pre-push `set -e` 撞未同步 json 靜默擋 push 走逃生閘門 | gate 意圖 vs `sh -e` 行為分岔在命令替換，git 真調用才現形（LESSONS 候選） | [→](memory/2026-07-18-052228-twmd-embeddings-nightly.md) |
 | 2026-07-18 | 061012-twmd-data-refresh-am | am 14-step 全綠；CF 404 從 17.55%→16.68%（-0.87pp）；phantom 80→15；rider 補 55h stale live dump；`0ff3bab36` | rider 是 skill 步驟連 3 cycle 漏跑；升 chained call 候選 | [→](memory/2026-07-18-061012-twmd-data-refresh-am.md) |
 | 2026-07-18 | 064225-twmd-spore-harvest-am | 4 spore harvest 0 reply；#155-158 D+3/D+4；platform-mix shift datapoint #2；`1fe778126` | gap 記空不 backdate；題材影響 platform-mix vc=1 | [→](memory/2026-07-18-064225-twmd-spore-harvest-am.md) |
+| 2026-07-18 | 070644-twmd-feedback-triage | 隊列連 5 日空＋archive synced=0，兩入口同時靜；REST 對賬 HTTP 200 `*/0` 證真空非斷線 | 兩入口皆空仍摸 ground truth 非信 `fetched 0`；真空 vc=5 | [→](memory/2026-07-18-070644-twmd-feedback-triage.md) |
