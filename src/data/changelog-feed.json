@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-07-17T12:11:59.941Z",
+  "generatedAt": "2026-07-17T15:10:43.636Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "271b623c0a572bb0acd61a20b65b154ea19fed62",
+      "date": "2026-07-17T22:13:11+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 樂器製造 EVOLVE 收官 — 日記〈看起來有來源的句子，塌下來時最安靜〉+ relatedDiary 回扣",
+      "articles": [
+        {
+          "url": "/music/台灣樂器製造",
+          "name": "台灣樂器製造"
+        }
+      ]
+    },
+    {
+      "hash": "8edb8f967bc3a29bf15effa7df8bf37a7a2107e9",
+      "date": "2026-07-17T22:05:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣樂器製造業 — 從后里 salvage 到世界樂音裡的台灣手",
+      "articles": [
+        {
+          "url": "/geography/台中市",
+          "name": "台中市"
+        },
+        {
+          "url": "/music/台灣樂器製造",
+          "name": "台灣樂器製造"
+        }
+      ]
+    },
+    {
+      "hash": "346c05c1f1f95c4eb00e881204af9edbb77bc215",
+      "date": "2026-07-17T21:02:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 收官大掃除前的派生資料落地（文章數 853 同步進 i18n 與 llms）",
+      "articles": []
+    },
+    {
+      "hash": "400b149dae9063111178a0cab1ba695e6e0231d6",
+      "date": "2026-07-17T20:59:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 日記〈爬蟲沒有亂猜，它們只是相信了我說的每一個字〉+ SC 收尾 retire",
+      "articles": []
+    },
+    {
+      "hash": "f87bdad1f2c222da31f7538126c7f9ccd9cb87e3",
+      "date": "2026-07-17T20:56:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: SC 提交工具改讀 .env 的 property——權限升在 URL-prefix 不是 domain",
+      "articles": []
+    },
+    {
+      "hash": "93b16698ee71e89a26003e9e5ef4c6fd10626998",
+      "date": "2026-07-17T20:13:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 驗證 build 的派生資料落地（不留髒樹給 routine）",
+      "articles": []
+    },
     {
       "hash": "ff38d1a1f59101b4f73460ba17dbe77005a6d78d",
       "date": "2026-07-17T20:11:10+08:00",

@@ -1,47 +1,47 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-17T20:11:55+08:00",
-    "zhCommitHead": "ff38d1a1f",
+    "lastUpdated": "2026-07-17T23:10:38+08:00",
+    "zhCommitHead": "271b623c0",
     "totalZh": 855,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 855,
-        "fresh": 824,
-        "stale": 24,
-        "metadata_stale": 6,
+        "fresh": 822,
+        "stale": 25,
+        "metadata_stale": 7,
         "missing": 1,
         "orphan": 0
       },
       "ja": {
         "total_zh": 855,
-        "fresh": 815,
-        "stale": 25,
-        "metadata_stale": 6,
+        "fresh": 813,
+        "stale": 26,
+        "metadata_stale": 7,
         "missing": 9,
         "orphan": 0
       },
       "ko": {
         "total_zh": 855,
-        "fresh": 814,
-        "stale": 25,
-        "metadata_stale": 6,
+        "fresh": 812,
+        "stale": 26,
+        "metadata_stale": 7,
         "missing": 10,
         "orphan": 0
       },
       "es": {
         "total_zh": 855,
-        "fresh": 814,
-        "stale": 25,
-        "metadata_stale": 6,
+        "fresh": 812,
+        "stale": 26,
+        "metadata_stale": 7,
         "missing": 10,
         "orphan": 0
       },
       "fr": {
         "total_zh": 855,
-        "fresh": 813,
-        "stale": 26,
-        "metadata_stale": 6,
+        "fresh": 811,
+        "stale": 27,
+        "metadata_stale": 7,
         "missing": 10,
         "orphan": 0
       }
@@ -457,10 +457,10 @@
     },
     "Music/台灣樂器製造.md": {
       "zh": {
-        "lastCommit": "ce74fa26",
-        "lastModified": "2026-06-05T22:06:25+08:00",
-        "contentHash": "sha256:d7bd090bae6990bf",
-        "bodyHash": "sha256:381c1171bf2bf67f"
+        "lastCommit": "271b623c",
+        "lastModified": "2026-07-17T22:13:11+08:00",
+        "contentHash": "sha256:72775f6e0e1d12ab",
+        "bodyHash": "sha256:3c1ccee7444c5ae3"
       },
       "translations": {
         "en": {
@@ -474,8 +474,8 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (46→10)"
         },
         "ja": {
           "path": "ja/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
@@ -488,8 +488,8 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (46→10)"
         },
         "ko": {
           "path": "ko/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
@@ -502,8 +502,8 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (46→10)"
         },
         "es": {
           "path": "es/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
@@ -516,8 +516,8 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (46→10)"
         },
         "fr": {
           "path": "fr/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
@@ -530,8 +530,8 @@
           "translationLastModified": "2026-06-06T01:53:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (46→10)"
         }
       }
     },
@@ -61902,9 +61902,9 @@
     },
     "Geography/台中市.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:c76a9448141070d4",
+        "lastCommit": "8edb8f96",
+        "lastModified": "2026-07-17T22:05:29+08:00",
+        "contentHash": "sha256:70bc4982eb0f5b56",
         "bodyHash": "sha256:3689cbfc4a7bdf30"
       },
       "translations": {
@@ -61919,8 +61919,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ja": {
           "path": "ja/Geography/taichung-city.md",
@@ -61933,8 +61935,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "ko": {
           "path": "ko/Geography/taichung-city.md",
@@ -61947,8 +61951,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "es": {
           "path": "es/Geography/taichung-city.md",
@@ -61961,8 +61967,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         },
         "fr": {
           "path": "fr/Geography/taichung-city.md",
@@ -61975,8 +61983,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -0"
         }
       }
     },

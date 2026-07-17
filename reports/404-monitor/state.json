@@ -2,67 +2,73 @@
   "days": [
     {
       "date": "2026-07-16",
-      "total_404": 11254,
+      "total_404": 11258,
       "truncated": true,
       "families": {
         "unknown": {
-          "count": 7055,
-          "bot": 6693,
-          "browser": 362,
+          "count": 7246,
+          "bot": 6912,
+          "browser": 334,
           "empty": 0
         },
         "probe-wellknown": {
-          "count": 85,
+          "count": 79,
           "bot": 0,
-          "browser": 85,
+          "browser": 79,
           "empty": 0
         },
         "scanner": {
-          "count": 672,
+          "count": 664,
           "bot": 15,
-          "browser": 401,
+          "browser": 393,
           "empty": 256
         },
         "md-extension": {
-          "count": 184,
-          "bot": 127,
-          "browser": 57,
+          "count": 163,
+          "bot": 116,
+          "browser": 47,
           "empty": 0
         },
         "stale-asset": {
-          "count": 76,
+          "count": 70,
           "bot": 0,
-          "browser": 76,
+          "browser": 70,
           "empty": 0
         },
         "slug-variant": {
-          "count": 2530,
-          "bot": 2432,
-          "browser": 98,
+          "count": 2358,
+          "bot": 2280,
+          "browser": 78,
           "empty": 0
         },
         "missing-asset": {
-          "count": 75,
-          "bot": 3,
+          "count": 73,
+          "bot": 1,
           "browser": 72,
           "empty": 0
         },
-        "cross-lang-slug": {
-          "count": 509,
-          "bot": 473,
-          "browser": 36,
-          "empty": 0
-        },
         "untranslated-demand": {
-          "count": 52,
-          "bot": 51,
+          "count": 51,
+          "bot": 50,
           "browser": 1,
           "empty": 0
         },
+        "cross-lang-slug": {
+          "count": 457,
+          "bot": 438,
+          "browser": 19,
+          "empty": 0
+        },
+        "phantom": {
+          "count": 80,
+          "bot": 69,
+          "browser": 11,
+          "empty": 0
+        },
         "renamed-or-truncated": {
-          "count": 13,
-          "bot": 9,
-          "browser": 4,
+          "count": 14,
+          "bot": 12,
+          "browser": 2,
           "empty": 0
         },
         "bad-encoding": {
@@ -74,5 +80,5 @@
       }
     }
   ],
-  "updated": "2026-07-17T11:20:59.029725+00:00"
+  "updated": "2026-07-17T15:09:52.256574+00:00"
 }

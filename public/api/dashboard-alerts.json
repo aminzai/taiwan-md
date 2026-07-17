@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T12:12:09.102Z",
+  "lastUpdated": "2026-07-17T15:10:53.541Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
   "count": 4,
@@ -13,9 +13,9 @@
       "firstSeen": "2026-07-05"
     },
     {
-      "id": "cf-404-resolvable-2026-07-16",
+      "id": "cf-404-phantom-2026-07-16",
       "severity": "yellow",
-      "message": "2026-07-16 可解析 404（slug-variant+cross-lang-slug+untranslated-demand+renamed-or-truncated）共 3,104 > 3000/day",
+      "message": "2026-07-16 phantom（CF 說 404 但 route 表裡頁面存在）80 > 50/day — 異常，需要單獨查",
       "source": "reports/404-monitor/latest.json",
       "owner": "twmd-maintainer",
       "firstSeen": "2026-07-17"
@@ -23,7 +23,7 @@
     {
       "id": "memory-index-rows",
       "severity": "yellow",
-      "message": "MEMORY.md 索引 inline 106 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
+      "message": "MEMORY.md 索引 inline 107 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
       "source": "MEMORY.md",
       "owner": "twmd-distill-weekly",
       "firstSeen": "2026-07-15"
@@ -31,7 +31,7 @@
     {
       "id": "routine-silent-twmd-rewrite-daily",
       "severity": "yellow",
-      "message": "routine twmd-rewrite-daily 沉默死亡：2026-07-15T11:07 fire 後 49.1h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-rewrite-daily 沉默死亡：2026-07-15T11:07 fire 後 52.1h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-rewrite-daily",
       "firstSeen": "2026-07-16"

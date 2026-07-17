@@ -1,8 +1,26 @@
 {
-  "_generated": "2026-07-17T12:12:11.071Z",
+  "_generated": "2026-07-17T15:10:55.687Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台中市：1887 年差點當首都，2010 年才變第二大直轄市",
+        "desc": "1887 年劉銘傳奏請建省，省城選在彰化縣橋仔頭（今台中市區），規劃八卦形城池。1889 年開始築城。1894 年邵友濂上任後讓省會北遷台北，台中省城停工。1920 年 10 月 1 日日本人在這裡設台中州。1955 年東海大學在大度山動土，1963 年路思義教堂落成。1999 年 9 月 21 日凌晨，車籠埔斷層從南投集集一路撕到台中東勢，東勢鎮死了 358 人。2010 年 12 月 25 日縣市合併升格直轄市，29 區。2016 年伊東豐雄的國家歌劇院在西屯區開幕。286 萬人住在這座等了 123 年的城。",
+        "category": "geography",
+        "href": "/geography/%E5%8F%B0%E4%B8%AD%E5%B8%82",
+        "date": "2026-07-17T22:05:29+08:00",
+        "readingTime": 16,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/National_Taichung_Theater_20180317.jpg/1280px-National_Taichung_Theater_20180317.jpg"
+      },
+      {
+        "title": "台灣樂器製造業：世界樂音裡走過的台灣手",
+        "desc": "1940 年代末，后里裱畫師張連昌在火場旁拆一把燒黑的日本薩克斯風，焊出台灣第一把銅管；後來校隊的 Jupiter、楠梓線上的四百萬把吉他、小樽店裡叮叮作響的霧峰音梳，都曾在台灣人手裡過一遍。這條會發聲的供應鏈記憶，比會打架的英雄佔比更值得留下。",
+        "category": "music",
+        "href": "/music/%E5%8F%B0%E7%81%A3%E6%A8%82%E5%99%A8%E8%A3%BD%E9%80%A0",
+        "date": "2026-07-17T22:05:29+08:00",
+        "readingTime": 22,
+        "image": "/article-images/music/saxophone-craft-object-2017.webp"
+      },
       {
         "title": "台灣人工智慧學校：那通沒打完的電話，跟一萬名 AI 工程師",
         "desc": "2020 年 3 月 27 日，陳昇瑋慎重打電話給天下雜誌主編：他想開一種免費的全民程式課。兩天後他直排輪跌倒，13 天後不治，44 歲。他過世時，自己 2018 年創辦的台灣人工智慧學校（AIA）已訓練超過 6,000 人。同期國發會「AI 小國大戰略」喊 5 年 160 億，他靠台塑、奇美、英業達等六家企業 1.8 億民間募資自己開了學校。八年後校友破萬。AIA 是台灣產業升級裡，最不像台灣的一塊拼圖。",
@@ -254,24 +272,6 @@
         "date": "2026-07-12T08:44:51+08:00",
         "readingTime": null,
         "image": "/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp"
-      },
-      {
-        "title": "台灣的電力與半導體：護國神山的電力帳單",
-        "desc": "台灣半導體的國際籌碼，建立在非常具體的電力系統上。先進晶圓廠、EUV 曝光、先進封裝、AI 伺服器測試與資料中心，都需要穩定、低中斷、可擴張的供電。這篇文章不把半導體用電寫成單純的環保控訴，而是把它放回供應鏈博弈：世界需要台灣製造 AI 晶片，台灣也必須回答誰承擔電力成本、碳排壓力與能源安全風險。",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E7%9A%84%E9%9B%BB%E5%8A%9B%E8%88%87%E5%8D%8A%E5%B0%8E%E9%AB%94",
-        "date": "2026-07-12T08:44:51+08:00",
-        "readingTime": null,
-        "image": "/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp"
-      },
-      {
-        "title": "林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人",
-        "desc": "林昶佐以閃靈主唱 Freddy 的身份，把二二八、白色恐怖、霧社事件、台灣神話與台語金屬寫進公共記憶，也和夥伴把大港開唱做成南方文化場域。音樂、台灣意識、文化實踐、制度政治、家庭生命經驗與卸任後公共角色，在他身上彼此牽連，形成一條從舞台走向社會、國會與國際現場的路。",
-        "category": "people",
-        "href": "/people/%E6%9E%97%E6%98%B6%E4%BD%90",
-        "date": "2026-07-11T22:19:26+08:00",
-        "readingTime": 14,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg"
       }
     ],
     "en": [
