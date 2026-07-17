@@ -31,6 +31,7 @@
  */
 
 import { readdirSync, statSync, openSync, readSync, closeSync } from 'node:fs';
+import { LANGUAGES, DEFAULT_LANGUAGE } from '../../src/config/languages.mjs';
 import { join, relative, extname, sep } from 'node:path';
 
 const SITE_ORIGIN = 'https://taiwan.md';
@@ -357,6 +358,59 @@ function main() {
     result.totalDead += deadCount;
   }
 
+  // --- 反向覆蓋：dist 裡的文章頁必須全部出現在 sitemap ---
+  // 正向對賬抓「公告了不存在的」，這裡抓「存在了卻沒公告的」——對爬蟲與
+  // SC 隱形的頁面。黃燈起步：報告但不計入 totalDead（strict 不擋），
+  // 收數據確認無 false positive 後再升。
+  const CATS = new Set([
+    'history',
+    'geography',
+    'culture',
+    'food',
+    'art',
+    'music',
+    'technology',
+    'nature',
+    'people',
+    'society',
+    'economy',
+    'lifestyle',
+  ]);
+  const LANG_PREFIXES = new Set(
+    LANGUAGES.filter((l) => l.enabled && !l.isDefault).map((l) => l.code),
+  );
+  const sitemapSet = new Set();
+  for (const href of announced.sitemap.keys()) {
+    const p = toPathnameOrNull(href);
+    if (!p) continue;
+    const n = normalizeForLookup(p);
+    for (const v of [p, n]) {
+      sitemapSet.add(v);
+      sitemapSet.add(v.endsWith('/') && v !== '/' ? v.slice(0, -1) : v + '/');
+    }
+  }
+  const missingFromSitemap = [];
+  for (const file of htmlFiles) {
+    const rel = relative(distDir, file).replace(/\\/g, '/');
+    if (!rel.endsWith('/index.html')) continue;
+    const urlPath = '/' + rel.slice(0, -'/index.html'.length) + '/';
+    const segs = urlPath.split('/').filter(Boolean);
+    const catIdx = LANG_PREFIXES.has(segs[0]) ? 1 : 0;
+    if (segs.length !== catIdx + 2 || !CATS.has(segs[catIdx])) continue;
+    if (!sitemapSet.has(urlPath) && !sitemapSet.has(urlPath.slice(0, -1))) {
+      // redirect stub（astro.config redirects 渲染的 meta-refresh 頁）本來
+      // 就不該進 sitemap——只有真文章頁的缺席才是訊號
+      const head = readHead(file, 4096) || '';
+      if (/http-equiv=["']?refresh/i.test(head)) continue;
+      missingFromSitemap.push(urlPath);
+    }
+  }
+  result.sitemapCoverage = {
+    articlePagesChecked: htmlFiles.length,
+    missing: missingFromSitemap.length,
+    examples: missingFromSitemap.slice(0, MAX_EXAMPLES_PER_SOURCE),
+  };
+
   result.elapsedMs = Date.now() - startedAt;
 
   // --- output ---
@@ -366,8 +420,16 @@ function main() {
     printHumanReport(result, args.strict);
   }
 
-  if (args.strict && result.totalDead > 0) {
+  // URL_CONTRACT_MODE=warn 讓 CI 在誤報搶修時能不擋 deploy（緊急逃生口，
+  // 用了要在 commit message 說明）；預設不設 = strict 生效。
+  const downgraded = process.env.URL_CONTRACT_MODE === 'warn';
+  if (args.strict && result.totalDead > 0 && !downgraded) {
     process.exit(1);
+  }
+  if (downgraded && result.totalDead > 0) {
+    console.error(
+      `[check-url-contract] URL_CONTRACT_MODE=warn — ${result.totalDead} dead 未擋 deploy`,
+    );
   }
   process.exit(0);
 }
@@ -402,6 +464,14 @@ function printHumanReport(result, strict) {
         console.log(`    [${ex.file}] → ${ex.url}`);
       }
     }
+    console.log('');
+  }
+
+  if (result.sitemapCoverage) {
+    const c = result.sitemapCoverage;
+    console.log('--- sitemap 反向覆蓋（文章頁必須全在 sitemap）---');
+    console.log(`  缺席: ${c.missing}（黃燈：報告不擋）`);
+    for (const ex of c.examples) console.log(`    ✗ ${ex}`);
     console.log('');
   }
 
