@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T11:49:38.214Z",
+  "lastUpdated": "2026-07-17T12:07:54.773Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
   "count": 4,
@@ -31,7 +31,7 @@
     {
       "id": "routine-silent-twmd-rewrite-daily",
       "severity": "yellow",
-      "message": "routine twmd-rewrite-daily 沉默死亡：2026-07-15T11:07 fire 後 48.7h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-rewrite-daily 沉默死亡：2026-07-15T11:07 fire 後 49h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-rewrite-daily",
       "firstSeen": "2026-07-16"

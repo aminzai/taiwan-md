@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T19:49:36.315951",
+  "lastUpdated": "2026-07-17T20:07:52.745078",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 60,
@@ -11,7 +11,7 @@
     "citation_density": 91.4,
     "tool_freshness": 60,
     "drift_velocity": 90.0,
-    "external_rulers": 3.9
+    "external_rulers": 3.8
   },
   "componentWeights": {
     "review_coverage": 0.25,
@@ -245,7 +245,7 @@
     "note": "v2 score = loadable+registered ratio（orphan / import crash / 介面缺欄才算病）。age_watch 為資訊欄不進分數。v1 drift 定義的診斷與拍板紀錄：LESSONS immune-chronic entry §一頁診斷 2026-07-10。"
   },
   "externalRulersDetail": {
-    "ruledArticles": 33,
+    "ruledArticles": 32,
     "totalArticles": 853,
     "rulerSources": {
       "factcheckReports": true,

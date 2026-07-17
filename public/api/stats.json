@@ -1,8 +1,8 @@
 {
-  "totalArticles": 5097,
+  "totalArticles": 5095,
   "totalCategories": 20,
   "estimatedContributors": 340,
-  "totalTags": 6046,
+  "totalTags": 6038,
   "categories": [
     {
       "name": "es",
@@ -10,11 +10,11 @@
     },
     {
       "name": "ko",
-      "count": 846
+      "count": 845
     },
     {
       "name": "fr",
-      "count": 846
+      "count": 845
     },
     {
       "name": "en",
@@ -123,10 +123,6 @@
       "count": 25
     },
     {
-      "name": "AI",
-      "count": 24
-    },
-    {
       "name": "政治",
       "count": 23
     },
@@ -155,6 +151,10 @@
       "count": 23
     },
     {
+      "name": "AI",
+      "count": 23
+    },
+    {
       "name": "인물",
       "count": 22
     },
@@ -168,8 +168,8 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5097,
+    "zh-TW": 5095,
     "en": 0
   },
-  "lastUpdated": "2026-07-17T11:49:27.388Z"
+  "lastUpdated": "2026-07-17T12:07:43.440Z"
 }

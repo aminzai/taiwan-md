@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-07-17T11:49:39.754Z",
+  "_generated": "2026-07-17T12:07:56.633Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -276,6 +276,15 @@
     ],
     "en": [
       {
+        "title": "The Perpetual Donation Machine: FAB DAO and the Project % Social Experiment",
+        "desc": "How did a physician who quit his job use a flag made of press-on balls to open up an entirely new vision for Web3 philanthropy in Taiwan. FAB DAO and Project % have redefined the nature of donation: collecting is donating, art is social action.",
+        "category": "art",
+        "href": "/en/art/fab-dao",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
         "title": "Li Ang: Lukang 1952, the Trailblazer Who Opened the Path of Taiwanese Feminist Literature with 'The Butcher's Wife'",
         "desc": "Born in April 1952 in Lukang, Changhua, under the birth name Shih Shu-tuan. In 1983, 'The Butcher's Wife' was serialized in United Daily News, shocking the literary world with its subject matter of domestic violence. 'The Enchanted Garden' followed in 1991. In 2004, she was awarded the Chevalier de l'Ordre des Arts et des Lettres by France. Her works have been translated into English, French, German, Japanese, and other languages, making her one of the most internationally recognized female writers from Taiwan.",
         "category": "people",
@@ -535,18 +544,27 @@
         "date": "2026-06-10T12:21:10+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "Taiwan Environmental Movement History",
-        "desc": "The development trajectory of Taiwan's environmental movement from the anti-pollution protests of the 1980s to recent plastic reduction campaigns, witnessing the intertwining of societal environmental awareness awakening and democratization.",
-        "category": "nature",
-        "href": "/en/nature/taiwan-environmental-movement-history",
-        "date": "2026-06-09T11:27:50+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "ja": [
+      {
+        "title": "寄付の永久機関：FAB DAOと百岳計画の社会実験",
+        "desc": "離職した医師が一枚の圧線球国旗を通じて、台湾のWeb3公益に新たな想像を切り拓いた。FAB DAOと百岳計画は寄付の本質を再定義する：収集すなわち寄付、芸術すなわち社会行動。",
+        "category": "art",
+        "href": "/ja/art/fab-dao",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Highways: From the MacArthur Highway to the Xueshan Tunnel, Taiwan's 50 Years of Power and Speed",
+        "desc": "The MacArthur Highway, opened in 1964, was only 23 kilometers long; today, Taiwan's national highway network exceeds 1,000 kilometers. From the Zhongshan Expressway approved by Chiang Ching-kuo, the 'political road' (Fu-Hsin Expressway) that was mocked, the world's most difficult-to-dig Xueshan Tunnel, to ETC changing every driver's payment habits—each stretch of asphalt records post-war Taiwan's political will, engineering limits, and civilian resistance.",
+        "category": "lifestyle",
+        "href": "/ja/lifestyle/national-highway-system",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
       {
         "title": "梅雨（メイユー）：1981年に桃竹苗と台北を水没させた雨から、アメリカ人科学者を台湾へ飛ばせた科学実験まで",
         "desc": "1981年5月28日の未明、梅雨前線が桃竹苗と台北で同時に爆発的な豪雨をもたらし、公館周辺では時間雨量140ミリ超を記録、全島で8人が死亡し千棟以上の民家が損壊した。6年後にTAMEX計画が始まり、断交の影の中で125人以上の米台科学者がNOAA P-3研究機・3隻の観測船・3台のドップラーレーダーで前線を追い続けた。四十年後、この毎年5〜6月に必ず訪れる停滞前線は依然として2,300万人の飲料水の命脈であり、同時に都市を丸ごと水没させる元凶でもある。",
@@ -798,27 +816,36 @@
         "date": "2026-06-28T09:52:29+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "小虎隊：買ってきた旋律に、自分たちの青春を書き込む",
-        "desc": "1988年、華視のオーディション番組が小貓隊の相手役として男性メンバー3人を探した結果、日本の少年隊を模倣し日本の楽曲をカバーするアイドルグループが選び出された。5日で20万枚を売り、ファンが台北から高雄まで追いかけ回し、1991年には海峡を越えた。部品はほぼすべて輸入品だったのに、台湾はそれを一世代でもっとも堅固な青春として記憶した。そしてもっとも有名だった3つの身体は、のちにすべて海峡を越えた。",
-        "category": "music",
-        "href": "/ja/music/little-tigers-taiwan-boy-band",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 16,
-        "image": "/article-images/music/little-tigers-xiaoyaoyou-album.webp"
-      },
-      {
-        "title": "金曲奨：台湾が自らの音楽に賞を贈り、三十五年にわたり一生記憶に残る瞬間を刻んできた場所",
-        "desc": "2024 年の台北アリーナで、草東沒有派對は二度目の伝説をつくり、マネージャーが代理で受賞し、会場全体が亡くなったドラマーのために沈黙しました。三十五年にわたり、金曲奨は蔡琴の一通の手書きの手紙から国家級の式典へと成長し、周杰倫の『范特西』、張恵妹の 14 回ノミネートを戴冠させ、台湾語、客語、原住民族語の歌にも最高栄誉を授けてきました。ここは台湾が自らの音楽に賞を贈り、どの声が記憶されるべきかを決める場所です。",
-        "category": "music",
-        "href": "/ja/music/pop-music-and-golden-melody-awards",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 16,
-        "image": ""
       }
     ],
     "ko": [
+      {
+        "title": "기부 영구기관차: FAB DAO와 백악 프로젝트의 사회 실험",
+        "desc": "한 퇴직 의사가 어떻게 라인 터치 국기 하나로 대만 Web3 공익의 새로운 상상을 열었는가. FAB DAO와 백악 프로젝트는 기부의 본질을 재정의한다: 소장이 곧 기부이고, 예술이 곧 사회 행동이다.",
+        "category": "art",
+        "href": "/ko/art/fab-dao",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "대만 주식시장과 자본시장: 1990년 1만 포인트 붕괴에서 2026년 세계 6위까지, 자산의 44%를 한 종목에 건 섬",
+        "desc": "2026년 4월 28일 블룸버그에는 “Taiwan Overtakes Canada”라는 제목이 떴다. 1990년 1만 포인트 붕괴로 16만 명의 퇴직금을 앗아갔던 섬이 36년 뒤 세계 6위 주식시장에 올랐다. 그러나 시가총액 4조 4,700억 달러 가운데 거의 절반이 한 반도체 기업에 걸려 있다.",
+        "category": "economy",
+        "href": "/ko/economy/taiwan-stock-market",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "고속도로: 맥아더 고속도로에서 설산 터널까지, 대만 국도의 50년 권력과 속도",
+        "desc": "1964년의 맥아더 고속도로는 겨우 23km에 불과했으나, 오늘날 대만의 국도 네트워크는 1,000km를 넘는다. 장징궈가 결단한 중산 고속도로, \"정치 도로\"라며 조롱받았던 포르모사 고속도로, 세계에서 가장 난공사였던 설산 터널, 그리고 모든 운전자의 통행료 지불 습관을 바꾼 ETC까지—한 줄기 아스팔트는 전후 대만의 정치적 의지, 공사의 한계, 그리고 민간의 저항을 기록하고 있다.",
+        "category": "lifestyle",
+        "href": "/ko/lifestyle/national-highway-system",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
       {
         "title": "매우(梅雨)：1981년 타오주먀오와 대타이베이를 침수시킨 그 비에서, 미국인들이 타이완으로 날아온 과학 실험까지",
         "desc": "1981년 5월 28일 새벽, 매우 전선이 타오주먀오와 대타이베이에서 동시에 폭발했다. 공관 일대 시간당 강수량 140밀리미터 이상, 전국 8명 사망, 수천 채 민가 피해. 6년 후 TAMEX 계획이 시작되어 125명 이상의 미·타이완 과학자들이 미국과 타이완 단교의 그늘 아래 NOAA P-3 항공기, 3척 관측선, 3기 도플러 레이더로 전선을 추격했다. 40년이 지난 지금도 매년 5~6월에 정확히 찾아오는 이 정체 전선은 2,300만 명의 식수 명맥이자 도시 전체를 침수시키는 주범이다.",
@@ -1061,36 +1088,54 @@
         "date": "2026-06-28T09:52:29+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "샤오후두이: 사 온 선율에, 자신의 청춘을 채우다",
-        "desc": "1988년 화시의 한 오디션 프로그램은 샤오마오두이와 함께 노래하고 춤출 남학생 세 명을 찾으려 했다. 그 결과 일본 노래를 번안하고 일본 쇼넨타이를 모방한 아이돌 그룹이 선발되었다. 닷새 만에 20만 장을 팔고, 팬들이 타이베이에서 가오슝까지 줄곧 따라붙었으며, 1991년에는 해협을 건넜다. 부품은 거의 모두 수입품이었지만, 타이완은 그것을 한 세대의 가장 단단한 청춘으로 기억했다. 그리고 가장 유명했던 세 몸은 훗날 모두 해협을 건넜다.",
-        "category": "music",
-        "href": "/ko/music/little-tigers-taiwan-boy-band",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "탁수계공사: 대만어, 펑크, 농민, 그리고 30년 늦게 도상한 트로피",
-        "desc": "1989년, 사대부고(師大附中) 학생들이 졸업 공연을 위해 밴드를 결성했다. 대만대 법학과 커런젠(柯仁堅, 샤오커)이 합류한 뒤 탁수계공사(濁水溪公社)로 이름을 바꿨다. 이후 30년간 그들은 대만어로 정치인, 농민, 욕망, 사회운동을 노래하며 대만대에서 퇴학당하고 지하 공연장에서 활동했고, 한 번도 주류에 진입하지 못했다. 2020년 해산 해, 《장潢(裝潢)》이 제31회 금곡상 최우수 대만어 앨범상을 수상하며 첫 후보 지명으로 트로피를 거머쥐었다. 시상식 날, 보컬은 나타나지 않았다—그는 현재 국세국 공무원이다.",
-        "category": "music",
-        "href": "/ko/music/loh-tsui-kang-commune",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": "10min",
-        "image": ""
-      },
-      {
-        "title": "금곡장: 타이완이 자기 음악에 상을 주고, 35년 동안 평생 기억될 순간들",
-        "desc": "2024년 타이베이 아레나에서 차오둥메이유파이두이는 두 번째로 정상에 올랐고, 매니저가 대리 수상했으며, 장내는 세상을 떠난 한 드러머를 위해 침묵했다. 35년 동안 금곡장은 차이친의 손편지 한 통에서 국가급 시상식으로 성장했고, 저우제룬의 판터시, 장후이메이의 14회 후보 지명에 왕관을 씌웠으며, 타이완어, 하카어, 원주민어 노래에도 최고 영예를 안겼다. 이곳은 타이완이 자기 음악에 상을 주고, 어떤 소리가 기억될 가치가 있는지를 결정하는 자리이다.",
-        "category": "music",
-        "href": "/ko/music/pop-music-and-golden-melody-awards",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 16,
-        "image": ""
       }
     ],
     "fr": [
+      {
+        "title": "La machine à dons perpétuelle : l'expérience sociale de FAB DAO et du Projet Cent Sommets",
+        "desc": "Un médecin démissionnaire a utilisé un drapeau taïwanais « ballon sur la ligne » pour ouvrir une toute nouvelle imagination du Web3 caritatif à Taïwan. FAB DAO et le Projet Cent Sommets ont redéfini la nature du don : collectionner, c'est donner ; l'art, c'est l'action sociale.",
+        "category": "art",
+        "href": "/fr/art/fab-dao",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Le chant polyphonique Pasibutbut : un fossile vivant qui défie l'histoire occidentale de la musique",
+        "desc": "En 1943, le musicologue japonais Kurosawa Takatomo enregistre dans les montagnes de Taitung le Pasibutbut du peuple Bunun. Neuf ans plus tard, cet enregistrement parvient à l'UNESCO et stupéfie le monde académique : un peuple sans écriture avait développé une polyphonie chorale que l'Occident croyait réservée aux civilisations avancées.",
+        "category": "music",
+        "href": "/fr/music/bunun-pasibutbut-eight-part-polyphony",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bunun_pasibutbut.jpg/1280px-Bunun_pasibutbut.jpg"
+      },
+      {
+        "title": "La culture du bénévolat et l'engagement d'intérêt public à Taïwan : la bonté quotidienne d'une île",
+        "desc": "30 femmes au foyer qui économisent cinquante centimes par jour, et 60 ans plus tard, un empire caritatif couvrant 128 pays — la culture du bénévolat taïwanais n'est pas un slogan, c'est un ADN collectif inscrit dans le quotidien",
+        "category": "society",
+        "href": "/fr/society/volunteering-and-civic-charity-in-taiwan",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Za School: A Free Exhibition Funded by Bankrupt Savings, Opened by the Vice President 11 Years Later",
+        "desc": "In 2015, during the Huashan 1914 event, Su Yang-chih used 1.5 million in profit from his design company to host the 'Not Quite Obedient Education Festival,' ultimately losing 7 million. Eleven years later, Za School moved into the Taipei International Convention Center at Yuanshan Flower Expo to co-host IDEC, and rebranded as 'EDit' to settle in the Taoyuan Convention Center. This Taiwan case, which grew from a free, rebellious exhibition into Asia's largest education expo, is most interesting not for its scale, but for whether its 'not quite obedient' spirit has been compromised after growing so large.",
+        "category": "society",
+        "href": "/fr/society/za-share",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Autoroutes : de la MacArthur Highway au tunnel de Xueshan, cinquante ans de pouvoir et de vitesse sur les routes nationales taïwanaises",
+        "desc": "En 1964, la MacArthur Highway ne comptait que 23 kilomètres ; aujourd'hui, le réseau autoroutier de Taïwan dépasse les 1 000 kilomètres. De la Chiang Kai-shek Expressway décidée par Chiang Ching-kuo, à la Formosa Highway moquée comme « route politique », au tunnel de Xueshan, l'un des plus difficiles à creuser au monde, jusqu'au système ETC qui a transformé les habitudes de paiement de chaque conducteur — chaque bande d'asphalte enregistre la volonté politique, les limites de l'ingénierie et les résistances populaires du Taïwan d'après-guerre.",
+        "category": "lifestyle",
+        "href": "/fr/lifestyle/national-highway-system",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
       {
         "title": "Mei-yu à Taiwan : de la pluie dévastatrice de 1981 qui noya Taoyuan et Taipei à l'expérience scientifique qui fit venir des Américains sur l'île",
         "desc": "Le 28 mai 1981 au matin, un front de pluies Mei-yu dévasta simultanément la région Taoyuan-Hsinchu-Miaoli et le Grand Taipei, avec des précipitations horaires dépassant 140 mm à Gongguan. Six ans plus tard, le projet TAMEX mobilisa plus de 125 scientifiques américains et taïwanais qui poursuivirent les fronts pluvieux avec un NOAA P-3, 3 navires d'observation et 3 radars Doppler. Quarante ans après, ce front stagnant qui arrive ponctuellement chaque mai et juin reste à la fois l'artère vitale qui alimente en eau potable 23 millions de personnes et le facteur susceptible d'inonder une ville entière.",
@@ -1315,54 +1360,36 @@
         "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 12,
         "image": ""
-      },
+      }
+    ],
+    "es": [
       {
-        "title": "Tung Tzu-hsien : parti du Taipei Tech, Pegatron devient le plus grand partenaire sous-traitant d'Apple",
-        "desc": "Né le 25 juin 1960, Tung Tzu-hsien est diplômé du département d'électronique du Taipei Tech (aujourd'hui l'Université nationale de technologie de Taipei), et non de la faculté d'électrotechnique de l'NTU. Il rejoint ASUS en 1988, puis dirige la scission le 1er janvier 2008 et fonde Pegatron, devenant sous-traitant d'Apple, Sony et Nintendo. En 2019, il investit dans la librairie Eslite. En 2025, il continue de défendre publiquement une politique énergétique de « coexistence nucléaire et renouvelable ».",
-        "category": "people",
-        "href": "/fr/people/tung-tzu-hsien-tech-humanist",
-        "date": "2026-07-16T16:50:20+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "Yang Chuan-kwang : le village de Taitung, l'argent à Rome, et le record du monde à 9 121 points de l'Homme de fer asiatique",
-        "desc": "Né le 10 juillet 1933 dans le village Amis de Malan, à Taitung, Yang Chuan-kwang est le premier médaillé olympique de Taïwan. Aux Jeux olympiques de Rome en 1960, il décroche l'argent en décathlon avec 8 334 points, puis bat le record du monde en 1963 avec 9 121 points, son saut à la perche de 4,83 m contraignant l'IAAF à réviser ses barèmes de notation. Il meurt le 27 janvier 2007 d'un AVC en Californie, à l'âge de 73 ans. En avril 2025, le ministère de la Culture le classe Trésor national.",
-        "category": "people",
-        "href": "/fr/people/yang-chuan-kwang-asian-iron-man",
-        "date": "2026-07-16T16:50:20+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "Préhistoire et peuples autochtones : de la culture de Changbin il y a 20 000 à 30 000 ans au point de départ de la diffusion austronésienne",
-        "desc": "Plus ancienne activité humaine confirmée à Taïwan : la culture de Changbin, il y a environ 20 000 à 30 000 ans (Paléolithique, site des Huit Grottes de Baxian). 16 groupes autochtones officiellement reconnus. Taïwan considéré comme l'un des foyers possibles des langues austronésiennes (9 des 10 grandes branches austronésiennes sont taïwanaises). Étude la plus récente (2024) : les migrations depuis Taïwan représenteraient environ 20 %, avec une autre voie de diffusion depuis l'Indonésie, consensus académique en cours. Au XVIIe siècle, le royaume de Dadu, alliance intertribale. Culture de Shihsanhang, âge du fer.",
-        "category": "history",
-        "href": "/fr/history/prehistoric-era-and-indigenous-peoples",
-        "date": "2026-07-16T16:39:06+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "La génération slash à Taïwan — survivre avec plusieurs casquettes",
-        "desc": "Quand un master ne couvre même pas le loyer d'un studio à Taipei, le cumul d'emplois n'est pas un choix : c'est une équation de survie",
-        "category": "society",
-        "href": "/fr/society/taiwan-slash-generation-multi-job-economy",
-        "date": "2026-07-12T22:17:28+08:00",
+        "title": "La máquina perpetua de donaciones: FAB DAO y el experimento social del Proyecto Cien Cimas",
+        "desc": "Cómo un médico que dejó el hospital, con una bandera bordada con pelotas de béisbol, abrió una nueva imaginación para la filantropía Web3 en Taiwán. FAB DAO y el Proyecto Cien Cimas redefinen la esencia de la donación: coleccionar es donar, el arte es acción social.",
+        "category": "art",
+        "href": "/es/art/fab-dao",
+        "date": "2026-07-17T20:06:47+08:00",
         "readingTime": 8,
         "image": ""
       },
       {
-        "title": "Teach For Taiwan : comment une diplômée de Princeton a convaincu quatre cents jeunes d'entrer dans les classes rurales",
-        "desc": "En 2014, Liu An-Ting a démarré avec deux mille dollars taïwanais et neuf personnes. Onze ans plus tard, plus de quatre cents enseignants TFT travaillent dans les écoles primaires les plus reculées de Taïwan, aux côtés de sept mille enfants oubliés par le système. Ce n'est pas un récit inspirant sur la philanthropie éducative — c'est un débat permanent sur la question de savoir qui est responsable des inégalités.",
+        "title": "Za School: A Free Exhibition Founded with Blown Savings, Opened by the Vice President 11 Years Later",
+        "desc": "On May 9-10, 2015, Su Yang-chih used 1.5 million in profits from his design company to host the 'Not-So-Obedient Education Festival,' ultimately losing 7 million. Eleven years later, Za School moved into the Taipei International Convention Center (TICC) at the Huashan 1914 Cultural and Creative Park to co-host IDEC, and rebranded as 'EDit' to move into the Taoyuan Convention Center. This Taiwan case study, which grew from a free, rebellious exhibition into Asia's largest education fair, is most interesting not for its growth, but for whether its 'not-so-obedient' spirit has been compromised after becoming large.",
         "category": "society",
-        "href": "/fr/society/teach-for-taiwan",
-        "date": "2026-07-12T22:17:28+08:00",
+        "href": "/es/society/za-share",
+        "date": "2026-07-17T20:06:47+08:00",
         "readingTime": 12,
         "image": ""
-      }
-    ],
-    "es": [
+      },
+      {
+        "title": "Autopistas: de la carretera MacArthur al túnel de Xueshan, cincuenta años de poder y velocidad en las autopistas nacionales de Taiwán",
+        "desc": "En 1964, la carretera MacArthur solo tenía 23 kilómetros; hoy la red de autopistas nacionales de Taiwán supera los 1.000 kilómetros. Desde la autopista Zhongshan, impulsada por Chiang Ching-kuo, hasta la autopista Formosa, ridiculizada como \"carretera política\", el túnel de Xueshan —el más difícil de excavar del mundo— y el sistema ETC, que transformó los hábitos de pago de cada conductor, cada tramo de asfalto registra la voluntad política, los límites de la ingeniería y la resistencia popular de la Taiwán de posguerra.",
+        "category": "lifestyle",
+        "href": "/es/lifestyle/national-highway-system",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": "10",
+        "image": ""
+      },
       {
         "title": "La temporada de lluvias Mei-Yu en Taiwán: de las inundaciones de 1981 que arrasaron Taoyuan y Taipéi a un experimento científico que hizo volar aviones estadounidenses a la isla",
         "desc": "El 28 de mayo de 1981, un frente de lluvias Mei-Yu desencadenó aguaceros catastróficos en la región de Taoyuan-Zhuli-Miaoli y el Gran Taipéi, con precipitaciones horarias superiores a 140 mm en la zona de Gongguan. Seis años después, el experimento TAMEX movilizó a más de 125 científicos taiwaneses y estadounidenses, un avión P-3 de la NOAA, tres barcos de observación y tres radares Doppler para perseguir frentes de lluvia. Cuarenta años más tarde, ese mismo frente que llega cada mayo y junio sigue siendo la fuente de agua potable de 23 millones de personas y el detonante de inundaciones que pueden anegar ciudades enteras.",
@@ -1604,33 +1631,6 @@
         "href": "/es/music/pop-music-and-golden-melody-awards",
         "date": "2026-06-28T09:52:29+08:00",
         "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "Sodagreen: tardaron veinte años en descubrir que también tendrían que litigar por su propio nombre",
-        "desc": "Cuatro estudiantes formaron una banda en el escenario del Golden Melody de NCCU en 2001; en 2003 Lin Wei-che los descubrió en el Festival Oceánico de Gongliao; tras completar la tetralogía Vivaldi recorrieron Pekín y Berlín; en 2019 fueron llevados a los tribunales; y solo en 2023 recuperaron su nombre en el Taipei Arena. Sodagreen necesitó veinte años para aprender que lo primero que debe hacer una banda indie de Taiwán al debutar es registrar su nombre.",
-        "category": "music",
-        "href": "/es/music/sodagreen",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 28,
-        "image": ""
-      },
-      {
-        "title": "Desarrollo del hip hop y el rap en Taiwán: el chino no debería poder rapear, el taiwanés no podía subir al escenario, y esto no era un gueto; convirtieron tres desventajas en una huella vocal de soberanía",
-        "desc": "En 2004, Sung Yueh-ting llevaba ya dos años muerto. Su madre y su hermano menor subieron al escenario para recibir en su nombre el Golden Melody a mejor letrista. Las rimas dobles de «Life's a Struggle» empujaron un paso más allá el prejuicio de que «el chino no sirve para rapear». Desde los años underground, cuando se aprendía de manera autodidacta disco importado por disco importado, hasta que Leo Wang y MC HotDog ganaron sucesivamente el premio a mejor cantante masculino de rap, Taiwán recorrió ese camino en veinte años. Pero lo más conmovedor de esta isla no es cuánto se parece a Estados Unidos, sino cómo convirtió tres desventajas de origen —los tonos del chino, el acento del taiwanés y unos sujetos vulnerables que no venían del gueto— en una huella vocal plural de soberanía que sólo aquí podía cantarse.",
-        "category": "music",
-        "href": "/es/music/taiwan-hip-hop-and-rap",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 24,
-        "image": "/article-images/music/nine-one-one-2016.webp"
-      },
-      {
-        "title": "Abao (Aljenljeng Tjaluvie): la cantante de future pop que llevó la lengua puman al álbum del año en los Golden Melody Awards",
-        "desc": "En 2020, el premio al Álbum del Año de la 31.ª edición de los Golden Melody fue otorgado a un álbum íntegramente en lengua puman de electrónica: «kinakaian 母親的舌頭». Abao (Aljenljeng Tjaluvie, nacida en 1981 en Taitung, Jinfeng) debutó como parte del dúo de R&B Abao & Brandy, trabajó como enfermera durante casi una década y en 2019, junto al productor de electrónica Dizparity, convirtió su lengua materna en future pop, redefiniendo el paradigma «música indígena = preservación».",
-        "category": "people",
-        "href": "/es/people/aljenljeng-tjaluvie-abao",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 18,
         "image": ""
       }
     ]
