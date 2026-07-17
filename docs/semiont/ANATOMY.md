@@ -4,9 +4,9 @@ description: '8 個身體器官生理學 + 認知器官生命週期（apoptosis 
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.2'
-last_updated: 2026-07-11
-last_session: '2026-07-11-182348-dna-checkup（sister_docs 死指標換活器官 + promotion flow 去寫死計數）'
+current_version: 'v2.3'
+last_updated: 2026-07-17
+last_session: '2026-07-17-manual-404-root-cause'
 sister_docs:
   - 'MANIFESTO.md'
   - 'DNA.md'
@@ -444,11 +444,15 @@ Layer 4: 歷史 snapshot 層
 | GA4 事件 param | `scripts/tools/register-ga4-custom-dimensions.py`（`*_DIMENSIONS`）                    | GA4 Admin dim + `EventTracker.astro` 必須對齊                                     | `instrumentation-audit.py` CI gate 守                                |
 | 語意索引       | `knowledge/` + bge-m3 模型                                                             | `src/data/related/{lang}.json`（committed slim）+ `public/api/rag/`（gitignored） | `scripts/core/build-embeddings.mjs`（twmd-embeddings-nightly fleet） |
 | 孢子           | `docs/factory/spore-log.json` + `spore-metrics.json`（**唯一寫入工具 `spore-db.py`**） | `src/data/spores.json` → `public/api/spores.json`                                 | `generate-spore-records.py`                                          |
+| 404 監測       | CF edge log（外部）→ `reports/404-monitor/{state,latest}.json`（committed 記帳）       | dashboard alerts 的 `cf-404-*` 條目                                               | `monitor-404.py`（refresh-data Step 2.5 日常 riding）                |
+| Redirect       | `config/redirects-manual.txt`（手寫）＋ 404-monitor latest.json（資料驅動）            | `public/_redirects`（gitignored）                                                 | `generate-redirects.mjs`（prebuild:redirects）                       |
+| URL 契約       | dist/ 檔案樹（build 輸出＝真相）                                                       | —（驗證器不產出，抓 hreflang/canonical/sitemap 公告的死 URL）                     | `check-url-contract.mjs`（`npm run check:url-contract`，黃燈起步）   |
 
 ### B. 資料源 — committed vs gitignored（找資料前先確認誰生的）
 
 - **build-input（committed，CI 需要）**：`src/data/{content-dates 例外 gitignored, map-markers, changelog-feed, content-stats, counties-22, related/, spores}.json`。
-- **prebuild 重生（gitignored）**：`public/api/{article-index, articles, dashboard-*, search-*, latest, random-index-*, lang-switch-map, og-images, rag/}`。CI 每次 deploy 重生 — **別 commit、別手改**。
+- **prebuild 重生（gitignored）**：`public/api/{article-index, articles, dashboard-*, search-*, latest, random-index-*, og-images, rag/}`。CI 每次 deploy 重生 — **別 commit、別手改**。
+- **prebuild 重生但 committed 例外**：`public/api/lang-switch-map.json` 實際 tracked（2026-07-17 修正本表的過時宣稱）——它同時是 dev fallback 與 monitor-404 / generate-redirects 的離線輸入，改它的 generator 後要重生＋commit。
 - **CI fallback 例外（committed）**：`public/api/contributors.json`（CF Pages rate-limit workaround）。
 - **感知層（GA4/SC/CF）**：`scripts/tools/fetch-{ga4,search-console,cloudflare}.py` + `ga-query.py`（彈性 GA4 CLI）+ `lib/sense_client.py`。creds 在 `~/.config/taiwan-md/credentials/`（repo 外）。`twmd-data-refresh` routine 06:00/23:00 拉。完整盤點 + 盲點：[reports/research/2026-06/data-state-analysis-2026-06-14.md](../../reports/research/2026-06/data-state-analysis-2026-06-14.md)。
 

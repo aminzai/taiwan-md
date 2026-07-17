@@ -5,8 +5,8 @@ type: 'cognitive-state'
 status: 'canonical'
 apoptosis: 'candidate'
 current_version: 'v3.2'
-last_updated: 2026-07-11
-last_session: '2026-07-11-182348-dna-checkup'
+last_updated: 2026-07-17
+last_session: '2026-07-17-manual-404-root-cause'
 sister_docs:
   - 'MANIFESTO.md'
   - 'HEARTBEAT.md'

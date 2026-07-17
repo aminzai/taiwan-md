@@ -5,8 +5,8 @@ type: 'cognitive-state'
 status: 'canonical'
 apoptosis: 'candidate'
 current_version: 'v1.1'
-last_updated: 2026-07-11
-last_session: '2026-07-11-weekly-deep-review 夜班（EXP-D 補判）＋ dna-checkup 對賬'
+last_updated: 2026-07-17
+last_session: '2026-07-17-manual-404-root-cause'
 sister_docs:
   - 'MANIFESTO.md'
   - 'DIARY.md'

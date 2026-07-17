@@ -9,7 +9,7 @@
     "postinstall": "bash scripts/core/sync.sh",
     "twmd": "node scripts/twmd.mjs",
     "dev": "npm run prebuild:sync && npm run prebuild:gitinfo && (python3 scripts/core/generate-newsroom-data.py --quiet || true) && astro dev",
-    "prebuild": "npm run prebuild:sync && npm run prebuild:status && run-p prebuild:api prebuild:map prebuild:search prebuild:dashboard prebuild:changelog prebuild:contributors prebuild:verify-contributors prebuild:supporters prebuild:china-terms prebuild:spores prebuild:buildperf prebuild:langswitch prebuild:og prebuild:i18n prebuild:content-dates prebuild:gitinfo prebuild:content-stats prebuild:i18n-progress prebuild:llms prebuild:stats && npm run prebuild:latest",
+    "prebuild": "npm run prebuild:sync && npm run prebuild:status && run-p prebuild:api prebuild:map prebuild:search prebuild:dashboard prebuild:changelog prebuild:contributors prebuild:verify-contributors prebuild:supporters prebuild:china-terms prebuild:spores prebuild:buildperf prebuild:langswitch prebuild:og prebuild:i18n prebuild:content-dates prebuild:gitinfo prebuild:content-stats prebuild:i18n-progress prebuild:llms prebuild:stats && npm run prebuild:latest && npm run prebuild:redirects",
     "prebuild:sync": "bash scripts/core/sync.sh",
     "prebuild:status": "python3 scripts/tools/lang-sync/status.py && python3 scripts/tools/sync-translations-json.py && python3 scripts/tools/sync-spore-links.py --apply",
     "prebuild:api": "node scripts/core/generate-api.js",
@@ -61,7 +61,9 @@
     "format::write": "prettier --write .",
     "og:generate": "node scripts/core/generate-og-images.mjs",
     "prepare": "husky",
-    "prebuild:gitinfo": "node scripts/core/build-git-info.mjs"
+    "prebuild:gitinfo": "node scripts/core/build-git-info.mjs",
+    "prebuild:redirects": "node scripts/core/generate-redirects.mjs",
+    "check:url-contract": "node scripts/tools/check-url-contract.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.17",
