@@ -174,6 +174,20 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### viz 採用率 batch — 8 篇數字密集深度文補視覺化（v3.0 審計訊號）
+
+- **Type**: `EVOLVE`
+- **Category**: Society / Lifestyle / Technology / Nature / Food（跨類 batch）
+- **Path**: 台灣高等教育擴張與退場、台灣醫療與全民健保、公視、Computex、台灣氣候危機與淨零轉型、營養午餐、颱風、台灣鐵道史（逐篇路徑與該視覺化的段落見報告 §3.3）
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-07-17 by twmd-evolve (session viz-evolution)
+- **Notes**:
+  - **為什麼這批**：v3.0 全站審計——867 篇只有 5.8% 用視覺模組，這 8 篇是「數字最密集卻零模組」的深度文，每篇已標出最該視覺化的段落與適配模組（如高教大學數量表→tw-line、颱風氣候情境表→tw-heatmap、淨零現況-目標→tw-slope）。模組工具鏈 v3.0 已備齊（19 模組＋viz-health 結構閘門）
+  - 執行方式：不專門開 batch session；這 8 篇任何一篇因其他訊號進 REWRITE/EVOLVE 時，Stage 2 視覺化思考照報告 §3.3 的段落標記做，做完在本條 Dev log 劃記
+  - 判準提醒：數值矩陣／趨勢／現況-目標才轉模組；質性對照表留表格（graph.md §九）
+- **Reference**: reports/viz-module-evolution-2026-07-16.md §3.3（8 篇逐段標記）＋ §3.2（Politics 12 篇零模組，選舉內容進場時一併吃）
+
 ### 金城武 EVOLVE — SC 位置 1.33 卻只有 96 行薄殼（evolve 三源訊號）
 
 - **Type**: `EVOLVE`

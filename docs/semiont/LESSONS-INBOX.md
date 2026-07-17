@@ -356,6 +356,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **現象**：worktree session 中段，shell cwd 在某次工具呼叫之間回到主 repo；後續用相對路徑的 python 腳本把 ui.ts 六語鍵與 Header 桌面版改動寫進主 repo 的同名檔。兩棵樹檔案結構相同，零報錯，直到 dev server 渲染出 literal i18n key 才現形。
 - **修復**：git diff 主 repo → patch apply 到 worktree → 主 repo checkout 還原。
 - **教訓方向**：worktree session 內的檔案操作用絕對路徑，或每個 Bash 呼叫開頭 cd；「pwd 斷言」可考慮進 worktree SOP。相鄰反射 #9（worktree 開工）與 #46（commit 前確認 working tree）都管 git 面，沒管 shell cwd 漂移這一層。vc=1。
+- **第二例（2026-07-17 viz-evolution finale，損失升級為不可逆）**：`cd {worktree}` 的下一個 Bash 呼叫，cwd 已靜默回主 repo，`git fetch && git reset --hard origin/main` 直接打在共用主 wd 上——**毀掉別 session 四個 tracked 檔的未 commit WIP**（dashboard-analytics.json 屬 derived 可重生；SEO.astro／i18n/about.ts／i18n/home.ts 的改動不可復原，stash 無備份）。第一例損失是「寫錯樹可 patch 救」，第二例是 destructive git op 落錯樹＝REFLEXES #35 實體違反。vc=2，升儀器化候選：**任何 `reset --hard`／`checkout --`／`stash` 前一律 `git rev-parse --show-toplevel` 斷言在預期樹**（一行前置，可進 REFLEXES #35 操作段或 semiont-worktree.sh 提供 `exec` 包裝）。
 - **同 session 次要**：worktree 內跑 `npm run build` 會弄髒 derived tracked 檔（README stats／src/data JSON），ship 前需棄置——semiont-worktree.sh ship 撞 unstaged 即此因。
 - **同日第三例（stash 面）**：`git stash push` 回「No local changes to save」時沒有建立新 stash，後續 `git stash pop` 會吃到堆疊裡**別人的** stash（本例吃掉平行 finale session 的 pre-pull stash，內容倖為同批 babel 遺留、無損失）。共用 wd 的 stash 紀律：pop 前驗 `git stash list` 頂端是不是自己剛建的那顆（比對訊息字串），push 沒建成就不 pop。
 
