@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-07-17T11:26:52.195Z",
+  "_generated": "2026-07-17T11:49:39.754Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -548,6 +548,195 @@
     ],
     "ja": [
       {
+        "title": "梅雨（メイユー）：1981年に桃竹苗と台北を水没させた雨から、アメリカ人科学者を台湾へ飛ばせた科学実験まで",
+        "desc": "1981年5月28日の未明、梅雨前線が桃竹苗と台北で同時に爆発的な豪雨をもたらし、公館周辺では時間雨量140ミリ超を記録、全島で8人が死亡し千棟以上の民家が損壊した。6年後にTAMEX計画が始まり、断交の影の中で125人以上の米台科学者がNOAA P-3研究機・3隻の観測船・3台のドップラーレーダーで前線を追い続けた。四十年後、この毎年5〜6月に必ず訪れる停滞前線は依然として2,300万人の飲料水の命脈であり、同時に都市を丸ごと水没させる元凶でもある。",
+        "category": "nature",
+        "href": "/ja/nature/meiyu-stagnant-front",
+        "date": "2026-07-17T19:44:57+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "Democratization",
+        "desc": "On March 18, 1980, at the Kaohsiung Military Court, Shi Ming-de abandoned his 60,000-word defense statement and instead demanded the judge sentence him to death. In that same trial, the young lawyers defending the defendants—Chen Shui-bian, Hsieh Chang-ting, and Su Tseng-chang—would all become President or Premier of the Executive Yuan twenty years later. A trial intended to make an example of them accidentally produced the next generation of Taiwan's political leaders.",
+        "category": "history",
+        "href": "/ja/history/taiwan-democratization-history",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台湾島史観：繰り返し統治されてきた島は、いかにして自らの主体性を発明したのか",
+        "desc": "台湾は大陸帝国の最後のピースではなく、太平洋の海洋ネットワークにおける最初の礎石です。曹永和の「以地範史」から出発し、この島の生命力を改めて理解します。",
+        "category": "history",
+        "href": "/ja/history/taiwan-island-historiography",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "国連脱退：1971年のあの17分間、台湾はいかに「中国」から国際的孤児になったのですか",
+        "desc": "1971年10月25日、周書楷が国連総会議場の演壇を降りたその瞬間、中華民国は国連創設加盟国から、現在に至るまでなお門前で阻まれる観察者となりました。半世紀後、この「漢賊並び立たず」という決定はなお波紋を広げています。米国は2025年に法案を可決し、第2758号決議は台湾の代表権を一度も扱っていないことを改めて確認しました。",
+        "category": "history",
+        "href": "/ja/history/withdrawal-from-united-nations",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "斗笠：龍肚国中そばの夫婦が、六十年の桂竹を一つの帽子に編み込む",
+        "desc": "2017 年、高雄美濃の林榮春は八十代を過ぎても竹ひごを削っており、2014 年、台南龍崎の陳連親おばあさんは八十六歳で一時間に一つ作っていました。花蓮富里の徐貴珠は 2016 年、一つをわずか 150 元で売っていました。2022 年、客家公共伝播基金会のドキュメンタリー『傳、傳』では、苗栗の吳進運、徐寶妹が五十年作り続けてきた姿が記録されました。新竹芎林では最盛期に家々が桂竹を積み、桃園蘆竹の坑子では三十戸が一日百個を生産していました。現在、台湾全島で粗仕事用の斗笠を作れる職人の多くは七十歳を超え、2024 年に原住民保留地の禁伐補償が 1 ヘクタールあたり 6 万元へ増額された後は、桂竹の採材すら供給網が途切れつつあります。斗笠が田畑から消えたのではありません。消えつつあるのは、竹の葉を竹ひごの骨組みに挟み、綿糸で一周ずつ固定していく、その両手です。",
+        "category": "culture",
+        "href": "/ja/culture/bamboo-hat-craft",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "台湾茶文化",
+        "desc": "国際茶業列強による生産制限協定から除外された小島が、それゆえに茶業の黄金時代を創出し、最終的には「小さいお菓子」を加えたミルクティー一杯で全世界を征服しました",
+        "category": "food",
+        "href": "/ja/food/golden-age-echoes-taiwan-tea-culture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 12,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg"
+      },
+      {
+        "title": "台湾の氷品文化",
+        "desc": "玉井マンゴーかき氷から雪花氷革命まで、台湾人が冬でも氷を食べる独特の文化を探る",
+        "category": "food",
+        "href": "/ja/food/taiwanese-ice-cream-culture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台湾現代彫刻の発展",
+        "desc": "楊英風、朱銘から新世代へ、台湾彫刻芸術の変遷の軌跡と創作精神を探る",
+        "category": "art",
+        "href": "/ja/art/development-of-contemporary-taiwanese-sculpture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "台湾建築",
+        "desc": "石板屋から摩天楼へ：ある島の建築の時間旅行",
+        "category": "art",
+        "href": "/ja/art/taiwanese-architecture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台湾漫画",
+        "desc": "1970年代の漫画王国を築いた劉興欽、敖幼祥から、1991年に鄭問が日本を征服して「アジアの至宝」と称され、蔡志忠が『荘子説』で古典哲学を漫画化した時代を経て、2010年の金漫賞、2017年のCCC創作集へ——台湾漫画は日本漫画の猛撃による低潮を乗り越え、今まさに自らのオリジナルな声を取り戻しつつある。",
+        "category": "art",
+        "href": "/ja/art/taiwanese-comics-and-illustration",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "王新仁（アーラン）：コードで山水を生成し、公益を契約に書き込むジェネラティブアーティスト",
+        "desc": "1982年、台中に生まれる。台北芸術大学新メディア芸術修士。2021年8月22日、彼の《Good Vibrations》がArt Blocksに登場した台湾人アーティスト作品として初の事例となり、1,024体のNFTが1時間で完売した。翌年、FAB DAO《百岳計画》の6人組に参加し、公益をスマートコントラクトに組み込んだアジア初のNFT永続的分配構造を実現した。彼の創作はArt Blocks、Verse.works、fxhash、Tezosにまたがり、Art Basel Hong Kongで《Chaos Culture》を展示、C-LABとの共同没入型音響作品《好抖》を制作、Polypathsシリーズは国立台湾博物館に所蔵されている。2026年の最新作inkFieldはClaude Codeとの協働開発により、人間の躊躇いと停止を生成システムの中に残す作品である。",
+        "category": "art",
+        "href": "/ja/art/wang-hsin-jen-artist",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "台湾インディペンデント音楽：給料を払えない一軒のレコード店は、いかにして島の耳を開いたのか",
+        "desc": "水晶唱片を30万台湾元の負債ごと引き受けた冒険から、草東沒有派對がカフェで初回プレスを売り切るまで。台湾インディペンデント音楽の35年は逆転劇ではなく、「見られてこなかった声を聴かせる」ことにこだわった人々による、長い賭けでした",
+        "category": "music",
+        "href": "/ja/music/indie-music-scene",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "半導体産業：RCA 技術移転から窒化ガリウムと量子封裝への50年の材料革命",
+        "desc": "台湾の護国神山はファウンドリで世界の先進プロセスを制圧しているが、急速充電器の中の窒化ガリウム（GaN）、AIチップの下のCoWoS、量子ビットの上の希釈冷凍機――次の50年の材料科学の戦場はまだ整ったばかりである。",
+        "category": "technology",
+        "href": "/ja/technology/taiwan-semiconductor-industry",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": "22",
+        "image": ""
+      },
+      {
+        "title": "台湾黒熊",
+        "desc": "胸の白いV字は彼らの署名であり、未完の保全戦の象徴でもある",
+        "category": "nature",
+        "href": "/ja/nature/taiwanese-black-bear",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "李珠珢",
+        "desc": "「AI 女神」ブームから台湾での本格活動へ。彼女の歩みは、韓籍チアリーダーが台湾プロ野球で長期滞在する可能性を塗り替えました。",
+        "category": "people",
+        "href": "/ja/people/lee-ju-eun",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "王齊麟と李洋（麟洋ペア）",
+        "desc": "中学時代の同級生からオリンピック金メダルへ：「麟洋ペア」は34分で中国をストレートで破り、台湾バドミントン史上初のオリンピック金メダルを刻みました",
+        "category": "people",
+        "href": "/ja/people/lin-yang-duo-taiwan-badminton-champions",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "朴星垠",
+        "desc": "交流ゲストから富邦への正式加入へ。素早い適応力と舞台での安定感で、韓援五本柱の新世代代表として成長しました。",
+        "category": "people",
+        "href": "/ja/people/park-sung-eun-actress",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": "8",
+        "image": ""
+      },
+      {
+        "title": "台湾の環境正義とニンビー問題",
+        "desc": "台湾における環境負荷の分配不均等現象を、ごみ焼却炉、核廃棄物から石油化学産業に至るニンビー（NIMBY）紛争を通じて考察し、環境不平等の問題と社会的公正の課題を分析する",
+        "category": "society",
+        "href": "/ja/society/taiwan-environmental-justice-nimby-conflicts",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 13,
+        "image": ""
+      },
+      {
+        "title": "台湾企業：巨大機械",
+        "desc": "アメリカ大手ブランドに見捨てられた下請け工場から、世界の自転車技術標準を策定する見えざる帝国へ",
+        "category": "economy",
+        "href": "/ja/economy/giant-manufacturing-taiwan-bicycle-empire",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "『SLP 台北起業リーダーシッププログラム』：6,000 元で始まった講座が、58,000 元に値上がりしてもなお人手不足",
+        "desc": "2013 年、今週刊の記者は計算しました。当時台北には「創業リーダーシッププログラム」と呼ばれる訓練キャンプがあり、受講料は新台币6,000元でした。これは 17 回の講義（うち 3 回はフルデイ・ワークショップ）を含んでおり、時間当たりのコストは 100 元以下に収まります。それから十四年後の現在では、同じプログラムが百人以上が争う三十人の枠を持つ組織化されたコミュニティとなり、費用は六万近くに達しています。しかし公式サイトでの表現はずっと「全額を受講生へ」というものです。これは台湾スタートアップ界隈で、人情と実用主義によって支えられてきた互助の歴史です。",
+        "category": "economy",
+        "href": "/ja/economy/slp-taipei-startup-leadership-program",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "台湾企業：TSMC（台湾積体電路製造）",
+        "desc": "54歳でテキサス・インスツルメンツを離れ、56歳でTSMCを創業したモリス・チャン（張忠謀）は最初の18年間に3度の難を逃れ、6つの都市を住み渡った。38年後の2025年3月3日、トランプ大統領がホワイトハウスでTSMCの後継者ウェイ・チェジャを指して言った——「彼こそがこの部屋で最も重要な男だ」と。2026年第1四半期のTSMCの単期売上高は359億ドル。台風が頻繁に訪れ、水も電力も不足するこの島が、全人類のデジタル文明の心臓を作り上げた——しかしその心臓が大きくなるほど、この島がその代償を担えるかどうかはますます見えなくなっている。",
+        "category": "economy",
+        "href": "/ja/economy/tsmc",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 14,
+        "image": "/article-images/economy/tsmc-fabs-hsinchu-2020.webp"
+      },
+      {
         "title": "童子賢：台北工専から出発し、和碩がアップル最大の代工パートナーに",
         "desc": "1960年6月25日生まれ。童子賢は台北工専（現・国立台北科技大学）電子科を卒業し、台大電機ではない。1988年に華碩に入社、2008年1月1日に主導して分社化を実行し、和碩聯合科技を設立。アップル、ソニー、任天堂の代工場となった。2019年に誠品書店に投資。2025年も「核緑共存」のエネルギー政策主張を発表し続けている。",
         "category": "people",
@@ -627,198 +816,189 @@
         "date": "2026-06-28T09:52:29+08:00",
         "readingTime": 16,
         "image": ""
-      },
+      }
+    ],
+    "ko": [
       {
-        "title": "ソーダグリーン：彼らは二十年かけて、自分たちの名前にも訴訟が必要だと知りました",
-        "desc": "2001 年、政治大学金旋奨の舞台で四人の学生が結成し、2003 年に貢寮海洋音楽祭で林暐哲に見いだされ、ヴィヴァルディ四部作を歌い終えて北京、ベルリンを歩き、2019 年に法廷へ訴えられ、2023 年になって台北アリーナで自分たちの名前を取り戻しました。ソーダグリーンは二十年を歩み終えてようやく学びました。台湾の indie バンドがデビューして最初にすべきことは、まずバンド名を商標登録することです。",
-        "category": "music",
-        "href": "/ja/music/sodagreen",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 28,
-        "image": ""
-      },
-      {
-        "title": "台湾ヒップホップとラップの発展：中国語で rap できるはずがない、台湾語は表舞台に上がれない、貧民窟でもない、彼らは三つの不利を一枚の主権の声紋へと歌い変えた",
-        "desc": "2004 年、宋岳庭はすでに亡くなって 2 年がたっており、母親と弟が彼に代わって金曲奨の最優秀作詞人賞を受け取りました。あの《Life's a Struggle》の二重韻は、「中国語は rap に向かない」という先入観を一歩先へ押し進めました。輸入アルバムを 1 枚ずつ頼りに独学した地下時代から、Leo 王、熱狗が相次いでラップの歌王となるまで、台湾は 20 年をかけて一つの道を歩き切りました。しかし、この島でもっとも胸を打つのは、どれほど米国に似ているかではありません。中国語の声調、台湾語のなまり、貧民窟ではない弱者という三つの先天的な不利を、ここでしか歌えない多元的な主権の声紋へと反転させたことです。",
-        "category": "music",
-        "href": "/ja/music/taiwan-hip-hop-and-rap",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 24,
-        "image": ""
-      },
-      {
-        "title": "阿爆（阿仍仍）：パイワン族の言葉を金曲賞年度アルバムに送り込んだフューチャーポップの歌手",
-        "desc": "2020年、金曲賞31の年度アルバム賞は、全編パイワン族語のエレクトロニック・アルバム『kinakaian 母親の舌』に授与された。阿爆（アルジェンルジェン・チャルヴィエ、1981年台東金峰生まれ）はR&Bデュオ「Abao & Brandy」でデビューし、10年間看護師として働いた後、2019年にDizparityと共に族語をフューチャーポップに昇華させ、「原住民音楽＝保存」という枠組みを書き換えた。",
-        "category": "people",
-        "href": "/ja/people/aljenljeng-tjaluvie-abao",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "陳建騏：会計系出身から三金プロデューサーへ、華語ポップミュージックから「変なイントネーション」という赤い線を引きはがした人物",
-        "desc": "1973年生まれ、淡江大学会計学部卒業の陳建騏は、華語ポップミュージック史上稀に見る「不在の著作者」である。彼がプロデュースした魏如萱、徐佳瑩、田馥甄、彭佳慧の楽曲を聴いたことがある人は多いが、彼の名前を知らない人も少なくない。2021年第32回金曲獎最優秀アルバムプロデューサー賞、2023年金馬獎最優秀オリジナル映画歌曲賞、2025年金鐘獎ドラマオリジナル歌曲賞の三金受賞者。劇場のピアニストからポップミュージックの世界へ歩み込んだプロデューサーである。",
-        "category": "people",
-        "href": "/ja/people/chen-chien-chi-music-producer",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 20,
-        "image": ""
-      },
-      {
-        "title": "陳建年：派出所の金曲歌王、祖父が残した歌を孫が海へと書き継ぐ",
-        "desc": "1967年8月1日、台東の卑南・南王部落に生まれました。1986年に警察専科学校を卒業して台東・関山に配属され、警察界で30年10か月勤務しました。1999年、33歳で初の創作アルバム《海洋》を発表し、2000年の第11回金曲奨では張学友、王力宏、陶喆、庾澄慶を破って最優秀北京語男性歌手賞を受賞し、同じ回で〈神話〉により最優秀作曲賞も受賞しました。授賞台に立った彼は、なお警察官でした。同年9月、騒がしさを避けるため蘭嶼への転任を願い出て、退職まで17年間滞在しました。祖父の陸森宝は〈美麗的稻穗〉の作者であり、孫は三十年をかけてその音楽の線を受け止めました。",
-        "category": "people",
-        "href": "/ja/people/chen-chien-nien",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Cicada：2009年のモーラコット台風から2025年の半球を越える氷河まで、十六年のフィールド録音",
-        "desc": "2009年に台北で結成されたCicadaは、全曲が器楽で、ボーカルのないインディーバンドです。創設メンバーのピアニスト江致潔（こう・ちけつ／ジアン・ジージエ、台北芸大芸術史修士）は、その年のモーラコット台風のニュースを見たことをきっかけに最初の楽曲群を書きました。その後の十六年で、彼らは台湾の海岸消失、海洋生態、山林と渓流の源を、人声のないアルバムへと変えてきました。西海岸（《消えゆく辺境》2013）、東海岸の太平洋（《海面を仰ぎ見る》2015）から、中央山脈の渓流源（《渓流の源に棲む》2022、15日間120キロの遠征）へと歩みを進めました。日本映画《ある男》の音楽を担当し、日本アカデミー賞優秀音楽賞を受賞しました。2025年の《白い境界を見つめる》では、初めてフィールドを台湾の外へ広げ、氷河をたどってグリーンランド、アイスランド、ニュージーランドを歩き、さらに雪山へ戻って古代氷河が残した痕跡を探しました。",
-        "category": "people",
-        "href": "/ja/people/cicada-band",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 24,
-        "image": ""
-      },
-      {
-        "title": "康士坦の変化球：「バンドは忍耐じゃない、面白くなければ解散だ」の10年",
-        "desc": "2013年に台北で結成された4人組インディーバンド。バンド名はギリシャの哲学者ヘラクレイトスの「万物は流転する」と野球投手のチェンジアップを掛け合わせたもの。ボーカルのARNYはフィリピン生まれで、かつて滅火器のベースを務めた20年の音楽経験を持つベテラン。ドラマーの小米は関節リウマチを患い、現在も親指が曲がらない状態でドラムを叩き続けている。ベーシストの金毛は「バンドは忍耐じゃない、面白くなければ解散だ」と語る。2人の観客から始まったLegacyのステージから、2023年台北音楽センター（北流）の5,000人規模まで、ブレイクもヒット曲もなく——10年間の着実な進化だけがあった。",
-        "category": "people",
-        "href": "/ja/people/constant-and-change-band",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "黄大煒：2、3時間で書いた歌を、彼は人生の後半をかけて忘れようとしました",
-        "desc": "1979年、ハワイのある体育館で、15歳の黄大煒はヘヴィメタルのコンサートを見たあと、家に帰って教師にもらったギターを相手に独学を始めました。中国語はあまり得意ではなく、姚若龍や陳家麗に自分の感情を歌詞へと訳してもらいながら、かすれた声で華語音楽界に裸一貫で道を切り開きました。〈你把我灌醉〉は2、3時間で書き上げた曲でしたが、彼は人生の後半をかけてそれを忘れようとしました。彼は張学良をいつも「外公」と呼んでいましたが、厳密な続柄では姪外孫です。家柄と一曲の名曲によって定義されることから生涯逃れようとしたにもかかわらず、世界はその二つだけで彼を記憶しました。",
-        "category": "people",
-        "href": "/ja/people/david-wong",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "羅大佑：台湾の根なし草を歌い尽くした人、自身は十九回引っ越してなお道を探しています",
-        "desc": "1970年代、台中のある医学大学の解剖実習室で、放射線科の医学生が人目を避けて歌の練習をしていました。「あそこは反響がよく、誰にも歌っていることがわからない」からです。のちに彼は〈鹿港小鎮〉〈亞細亞的孤兒〉〈東方之珠〉を書き、世代全体に代わって「私は誰なのか」と問いかけました。けれども、根を失った人々を歌い尽くしたこの人自身も、台北からニューヨーク、香港、北京へと移り住み、二十九年で十九回も家を替えました。七十歳になった年、彼は自分のことをただの「たいした生存者」だと語りました。",
-        "category": "people",
-        "href": "/ja/people/luo-dayou",
-        "date": "2026-06-28T09:52:29+08:00",
+        "title": "매우(梅雨)：1981년 타오주먀오와 대타이베이를 침수시킨 그 비에서, 미국인들이 타이완으로 날아온 과학 실험까지",
+        "desc": "1981년 5월 28일 새벽, 매우 전선이 타오주먀오와 대타이베이에서 동시에 폭발했다. 공관 일대 시간당 강수량 140밀리미터 이상, 전국 8명 사망, 수천 채 민가 피해. 6년 후 TAMEX 계획이 시작되어 125명 이상의 미·타이완 과학자들이 미국과 타이완 단교의 그늘 아래 NOAA P-3 항공기, 3척 관측선, 3기 도플러 레이더로 전선을 추격했다. 40년이 지난 지금도 매년 5~6월에 정확히 찾아오는 이 정체 전선은 2,300만 명의 식수 명맥이자 도시 전체를 침수시키는 주범이다.",
+        "category": "nature",
+        "href": "/ko/nature/meiyu-stagnant-front",
+        "date": "2026-07-17T19:44:57+08:00",
         "readingTime": null,
         "image": ""
       },
       {
-        "title": "魏如萱：自然巻のボーカル「娃娃」から二座の金曲歌王へ、ただ聞かれたいと願った20年",
-        "desc": "2003年、自然巻のボーカル「娃娃」としてデビュー。2006年に声帯を負傷後「Waa Wei」としてソロ活動を開始し、2020年と2025年に二度の金曲最優秀中国語女性歌手賞を受賞。〈彼個所在〉で四つの言語を使ってル・カイトンを追悼し、〈Ophelia〉の童声バージョンで女性の抵抗を表現し、『珍珠刑』では痛みから芽生れた勇気を描き出す——彼女が20年間歩んできたのは、中国語ポップスにおいて最も直感に反する道だった。顔よりも声を有名にし、人格よりも作品を長く生きさせること。",
-        "category": "people",
-        "href": "/ja/people/waa-wei-singer",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "justfontと台湾フォント開発：台湾茶の名前で、文字を作る人たちを日の当たる場所へ",
-        "desc": "2015年9月8日の朝、台湾茶にちなんで命名されたフォント「金萱」がflyingVに登場し、76分で150万元の目標を突破。最終的に7,667人が2,593万元を集資した。全国民が毎日読むその文字を、かつての市場は一社の造字会社も養えないほど小さかった。華康の細明体、太原路の鉛字、仏画から入った林霞——これは台湾が、文字を作る人たちを日の当たる場所へ連れ出した物語だ。",
-        "category": "technology",
-        "href": "/ja/technology/justfont-and-taiwan-typography",
-        "date": "2026-06-19T11:09:34+08:00",
-        "readingTime": 18,
-        "image": "/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp"
-      },
-      {
-        "title": "美麗島事件：弾圧のつもりが最大の民主宣伝になった軍法大審",
-        "desc": "1979年12月10日、高雄で起きた衝突と逮捕、そして1980年の公開軍事裁判——反対運動を潰そうとした国民党政府の計算は、完全に裏目に出た",
+        "title": "미려도 사건",
+        "desc": "반대 운동을 완전히 붕괴시키려던 군사 재판이 공개 중계로 인해 타이완 민주주의 가장 강력한 홍보 영상이 되었다.",
         "category": "history",
-        "href": "/ja/history/kaohsiung-incident-formosa-incident",
-        "date": "2026-06-10T12:21:10+08:00",
-        "readingTime": 14,
+        "href": "/ko/history/kaohsiung-incident-formosa-incident",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
         "image": ""
       },
       {
-        "title": "リー・チャンユー（李昌鈺）",
-        "desc": "一片の砕骨から鑑識の伝説を築き上げた男が、一条のタオルに付いた「血痕」のために二人の青年を三十年以上もの冤罪に追い込んだ",
-        "category": "people",
-        "href": "/ja/people/henry-lee-forensic",
-        "date": "2026-06-10T12:21:10+08:00",
+        "title": "대만 애니메이션 문화",
+        "desc": "도라에몽, 슬램덩크, 미소녀전사 세일러문은 1980~90년대 대만 청소년들의 공통 언어였다. 개척 동만제(Fancy Frontier, FF)는 1999년부터 현재까지 40회 이상 개최되어 매회 10만 명 이상이 방문한다. 동인지와 코스프레는 《귀환》, 《환원》 같은 작품을 만든 창작자들을 길렀다. 대만 애니메이션 문화는 외부 엔터테인먼트의 모방이 아니라, 두 세대의 공통 기억이자 창작의 토양이다.",
+        "category": "culture",
+        "href": "/ko/culture/taiwan-anime-culture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
+      {
+        "title": "대만 차 문화",
+        "desc": "국제 차 생산 제한 협정에서 배제된 작은 섬은 오히려 차 산업의 황금기를 만들었고, 마지막에는 '작은 간식'을 넣은 밀크티 한 잔으로 세계를 사로잡았다",
+        "category": "food",
+        "href": "/ko/food/golden-age-echoes-taiwan-tea-culture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 12,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg"
+      },
+      {
+        "title": "대만 빙과 문화",
+        "desc": "옥정 망고빙에서 눈꽃빙 혁명까지, 대만인이 겨울에도 얼음을 먹는 독특한 문화 탐구",
+        "category": "food",
+        "href": "/ko/food/taiwanese-ice-cream-culture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "진마 빈관 현대미술관",
+        "desc": "냉전 시대 군사 여관으로 이별과 재회를 목격하다 20년간 잠들었던 건물이, 한 쌍의 부녀에 의해 깨어나 《론리 플래닛》이 추천하는 고웅 최고의 미술관이 되었다.",
+        "category": "art",
+        "href": "/ko/art/alien-art-centre",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 8,
         "image": ""
       },
       {
-        "title": "投票権の閾値の歴史：20歳から18歳へ、20年にわたる未完の改正への道",
-        "desc": "2022年11月26日午後4時、台湾全土の開票所の職員が憲法改正国民投票の投票箱の封を切りました——それは2005年に国民投票による改正手続きを採用して以来、初めて憲法改正案が全課程を経て公投の段階に進んだものでした。賛成564万票、反対502万票、賛成率53%でしたが、国民投票の改正閾値が「選挙人名簿総数の過半数＝賛成票962万票」と定められていたため、397万票足りず到達できませんでした。本稿は、1947年の制憲時の憲法第130条から2022年の改正失敗に至るまで、台湾の投票年齢の閾値が75年間変わらなかった構造的な原因を記録したものです。",
-        "category": "politics",
-        "href": "/ja/politics/voting-rights-threshold-history",
-        "date": "2026-06-10T12:21:10+08:00",
+        "title": "대만 현대 조각의 발전",
+        "desc": "양영봉·주명에서 신세계까지, 대만 조각 예술의 변천 궤적과 창작 정신을 탐구하다",
+        "category": "art",
+        "href": "/ko/art/development-of-contemporary-taiwanese-sculpture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "대만 건축",
+        "desc": "석판 가옥에서 마천루까지: 한 섬의 건축 시간 여행",
+        "category": "art",
+        "href": "/ko/art/taiwanese-architecture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "대만 만화",
+        "desc": "1970년대 만화 왕국의 류싱친과 아오유샹에서, 1991년 일본을 사로잡아 “아시아의 지보”가 된 정문, 《장자설》로 고전 철학을 만화화한 차이즈중을 거쳐, 2010년 금만장과 2017년 CCC 창작집에 이르기까지, 대만 만화는 일본 만화의 협공 속 침체기를 지나 자기만의 독창적 목소리를 되찾아가고 있다.",
+        "category": "art",
+        "href": "/ko/art/taiwanese-comics-and-illustration",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "왕신인(아란): 코드로 산수를 생성하고, 공익을 스마트 계약에 새긴 제너러티브 아티스트",
+        "desc": "1982년 타이중 출생, 국립타이베이예술대학교 신미디어 예술 석사. 2021년 8월 22일, 그의 《Good Vibrations》이 Art Blocks에 처음으로 등재된 대만 아티스트 작품이 되었으며, 1,024개의 NFT가 1시간 만에 완판되었다. 이듬해 그는 FAB DAO 《백악계획》의 여섯 명 아티스트 라인업에 합류하여, 아시아 최초로 공익을 스마트 컨트랙트에 명시한 NFT 지속 가능 로열티 구조를 구축했다. 그의 작품은 Art Blocks, Verse.works, fxhash, Tezos에 걸쳐 있으며, Art Basel Hong Kong에서 《Chaos Culture》를 전시하고, C-LAB과 협업한 몰입형 사운드 작품 《하오더우(好抖)》를 선보였으며, Polypaths 시리즈는 국립대만박물관에 소장되어 있다. 2026년 최신작 inkField는 Claude Code와 협업 개발을 통해 인간의 망설임과 정지를 제너레이티브 시스템 안에 남긴다.",
+        "category": "art",
+        "href": "/ko/art/wang-hsin-jen-artist",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "타이완 독립음악: 급여도 지급하지 못한 음반점은 어떻게 한 섬의 귀를 열었는가",
+        "desc": "크리스탈 레코드를 30만 대만달러의 부채와 함께 떠안은 모험에서, 노 파티 포 차오둥이 카페에서 초판을 매진시킨 순간까지. 타이완 독립음악 35년은 역전극이 아니라, “보이지 않던 소리가 들리게” 하려는 사람들이 오래도록 지속해 온 도박이었다",
+        "category": "music",
+        "href": "/ko/music/indie-music-scene",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "반도체 산업: RCA 기술 이전에서 질화 갈륨과 양자 패키징까지, 50년 재료 혁명",
+        "desc": "타이완의 호국신산은 파운드리로 세계 첨단 공정을 제패했지만, 고속 충전기 안의 질화 갈륨, AI 칩 아래의 CoWoS, 큐비트 위의 희석 냉동기까지, 다음 50년의 재료과학 전장은 이제 막 펼쳐지기 시작했다.",
+        "category": "technology",
+        "href": "/ko/technology/taiwan-semiconductor-industry",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 22,
+        "image": ""
+      },
+      {
+        "title": "대만 흑곰",
+        "desc": "가슴의 흰색 V자는 그의 서명이며, 끝나지 않은 보전 싸움이다",
+        "category": "nature",
+        "href": "/ko/nature/taiwanese-black-bear",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "No Sleep Without Entering the Cellar: Thirty Years of Taiwan's Gaming Community",
-        "desc": "In the late 1990s, a black-background, white-text website was filled with walkthroughs and cheat codes for 90% of Taiwan's single-player games; players called it the 'Cellar'. Then came Gamebase, then came Bahamut. Three names, three eras, a path from dial-up modems to a community of 6 million members.",
-        "category": "technology",
-        "href": "/ja/technology/into-the-cellar-taiwan-game-podcast",
-        "date": "2026-06-09T11:27:50+08:00",
+        "title": "이주은: ‘AI 여신’ 버즈에서 대만 커리어 구축까지",
+        "desc": "CPBL에서 한국 치어 멤버가 얼마나 오래 머물 수 있는지 상상을 바꾼다.",
+        "category": "people",
+        "href": "/ko/people/lee-ju-eun",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 10,
         "image": ""
       },
       {
-        "title": "National Cultural Memory Bank: Memory Curation and Cultural Co-creation in the Digital Age",
-        "desc": "The National Cultural Memory Bank is not merely a digital preservation platform, but a social project in a tug-of-war with time. Through open licensing and co-creation, it revitalizes and regenerates Taiwan's folk memories in the digital age.",
-        "category": "technology",
-        "href": "/ja/technology/national-cultural-memory-bank",
-        "date": "2026-06-09T11:27:50+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台湾環境運動史",
-        "desc": "台湾の環境運動は、1980年代の反公害運動から近年のプラスチック削減運動に至るまでの発展の軌跡であり、台湾社会における環境意識の覚醒と民主化の進展が交錯する過程を証言するものです。",
-        "category": "nature",
-        "href": "/ja/nature/taiwan-environmental-movement-history",
-        "date": "2026-06-09T11:27:50+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Cheng Li-wen",
-        "desc": "From the student activist who went on a hunger strike for Taiwan independence at the NTU gate in 1988 to the KMT Chairperson who told Xi Jinping in Beijing in 2026 that 'compatriots across the strait are all Chinese.' What happened along this trajectory?",
+        "title": "왕치린과 리양(린양 페어)",
+        "desc": "중학교 동창에서 올림픽 금메달까지: “린양 페어”는 34분 만에 중국을 2-0으로 꺾고 대만 배드민턴 사상 첫 올림픽 금메달을 기록했다",
         "category": "people",
-        "href": "/ja/people/cheng-li-wun",
-        "date": "2026-06-09T11:27:50+08:00",
+        "href": "/ko/people/lin-yang-duo-taiwan-badminton-champions",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "Chinese Taipei: The Ticket That Lets Taiwan Play, But Won't Print Its Own Name",
-        "desc": "At the 1960 Rome Olympics, the Taiwanese delegation marched into the opening ceremony holding a white banner reading 'UNDER PROTEST,' the only opening ceremony protest in Olympic history. From Chiang Ching-kuo rejecting the IOC's offer of 'Taiwan,' to Hsü Heng winning the lawsuit against the IOC, to the Lausanne Agreement bringing the Plum Blossom Flag and anthem, to the 2018 referendum where athletes themselves voted to reject renaming—this name has remained unchanged for forty years, but the athletes who are stuck in a dilemma on the podium are always the ones who need this name to compete, not the politicians arguing over names.",
+        "title": "박성은: 교류 게스트에서 푸방 엔젤스 정식 멤버까지",
+        "desc": "빠른 적응과 무대 안정성으로 한국 ‘다섯 기둥’ 신세대의 얼굴이 된 치어리더.",
+        "category": "people",
+        "href": "/ko/people/park-sung-eun-actress",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "타이완 국방과 군사 현대화",
+        "desc": "2025년 10월, 라이칭더는 후커우에서 M1A2T 전차대대 창설식을 주재했다. 같은 달, 전 참모총장 리시밍은 쓴웃음을 지으며 말했다. “전차도 비대칭 무기라면, 비대칭 무기가 아닌 것이 무엇이겠는가.” 이것은 한 섬이 두 가지 국방 논리 사이에서 끌려가는 이야기이다.",
         "category": "society",
-        "href": "/ja/society/chinese-taipei",
-        "date": "2026-06-09T11:27:50+08:00",
-        "readingTime": 12,
+        "href": "/ko/society/taiwan-defense-modernization",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": "16",
         "image": ""
       },
       {
-        "title": "新竹市：1733年に竹を植えて築かれた竹塹、1980年に台積電を生んだ揺籃",
-        "desc": "1733年（雍正11年）、淡水同知の徐治民が四周に茨竹を植え、周囲1408メートルの円形土城を築きました。1829年に石造城壁が完成し、東門の迎曦門は今も護城川のそばに立っています。247年後の1980年12月15日、蔣経国は迎曦門から5キロメートル離れた場所で台湾初の科学工業園区のテープカットを行いました。1953年から1974年にかけて、黒蝙蝠中隊の148人がこの風の街から中国大陸への偵察任務に飛び立ち、二度と帰ってきませんでした。45万人が住む省轄市が、冷戦最前線、北部で最も早く築かれた漢人都市、二つの頂尖大学、そして世界の半導体高品位チップ90%の起点を支えています。風城というあだ名は文学的ですが、この街のすべての産業は風と関係しています。",
-        "category": "geography",
-        "href": "/ja/geography/hsinchu-city",
-        "date": "2026-05-24T22:40:37+08:00",
-        "readingTime": 17,
+        "title": "대만 기업: 자이언트 기계(巨大機械)",
+        "desc": "미국 대형 브랜드에게 버림받은 하청 업체에서 글로벌 자전거 기술 표준을 제정하는 숨은 제국으로",
+        "category": "economy",
+        "href": "/ko/economy/giant-manufacturing-taiwan-bicycle-empire",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 15,
         "image": ""
       },
       {
-        "title": "『人間』誌",
-        "desc": "47号、4年間、写真と文字によって始動した静かな革命——台湾ルポルタージュ文学の起点",
-        "category": "culture",
-        "href": "/ja/culture/renjian-magazine",
-        "date": "2026-05-24T22:40:37+08:00",
+        "title": "대만 기업: TSMC (대만 반도체 제조사)",
+        "desc": "54세에 텍사스인스트루먼츠를 떠나 56세에 TSMC를 창업한 모리스 창은 지난 18년간 세 번의 피란을 겪고 여섯 도시를 전전했다. 38년 후인 2025년 3월 3일, 미국 대통령 트럼프는 백악관에서 모리스 창의 후계자 웨이저자를 가리키며 말했다: \"그는 이 방에서 가장 중요한 사람입니다.\" 2026년 1분기 TSMC의 단분기 매출은 359억 달러. 태풍이 잦고 물과 전기가 부족한 섬에 세워진, 전 인류 디지털 문명의 심장――그러나 이 심장이 커질수록 이 섬이 그 대가를 감당할 수 있을지는 점점 더 불분명해진다.",
+        "category": "economy",
+        "href": "/ko/economy/tsmc",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 14,
+        "image": "/article-images/economy/tsmc-fabs-hsinchu-2020.webp"
+      },
+      {
+        "title": "대만 교육 제도: 입시 지옥에서 다원화 미로까지, 섬의 실험",
+        "desc": "대만은 30년에 걸쳐 수능 제도를 폐지하려 했지만, 새로운 분과 시험이 오히려 재수학원 수를 두 배로 늘렸다. 이 섬은 입시 압박과 교육 평등 사이에서 끊임없이 사회 실험을 반복하고 있다.",
+        "category": "lifestyle",
+        "href": "/ko/lifestyle/taiwan-education-system",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 12,
         "image": ""
-      }
-    ],
-    "ko": [
+      },
       {
         "title": "이앙: 루강 1952, <살부>로 타이완 여성주의 문학의 개척자",
         "desc": "1952년 장화 루강 출생, 본명 시서단. 1983년 <살부>가 연합보에 연재되며 가정폭력 소재로 타이완 문단을 충격에 빠뜨림. 1991년 <미원>. 2004년 프랑스 예술문학훈장 기사 작위 수훈. 작품이 영어, 프랑스어, 독일어, 일본어 등 다국어로 번역되어 타이완에서 가장 국제적 주목을 받는 여성 작가 중 한 명.",
@@ -908,189 +1088,234 @@
         "date": "2026-06-28T09:52:29+08:00",
         "readingTime": 16,
         "image": ""
-      },
+      }
+    ],
+    "fr": [
       {
-        "title": "쑤다뤼: 그들은 20년이 지나서야 자기 이름도 법정에서 다투어야 한다는 것을 알았다",
-        "desc": "2001년 정치대학 금선장 무대에서 네 학생이 결성하고, 2003년 궁랴오 해양음악제에서 린웨이저에게 발굴되었으며, 비발디 4부작을 노래하며 베이징과 베를린을 누볐다. 2019년 법정에 섰고, 2023년에야 타이베이 아레나에서 자기 이름을 되찾았다. 쑤다뤼는 20년을 지나고 나서야 배웠다. 타이완 인디 밴드가 데뷔할 때 가장 먼저 해야 할 일은 밴드 이름을 등록하는 것이다.",
-        "category": "music",
-        "href": "/ko/music/sodagreen",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 28,
-        "image": ""
-      },
-      {
-        "title": "타이완 힙합과 랩의 발전: 중국어는 랩을 할 수 없어야 했고, 타이완어는 주류 무대에 설 수 없었으며, 빈민가는 아니었지만, 그들은 세 가지 열세를 하나의 주권적 성문으로 노래했다",
-        "desc": "2004년, 쑹웨팅은 이미 세상을 떠난 지 2년이 되었고, 그의 어머니와 동생이 그를 대신해 금곡장 최우수 작사가상을 받으러 무대에 올랐다. 그 노래 《Life's a Struggle》의 이중 운율은 “중국어는 랩에 적합하지 않다”는 선입견을 한 걸음 밀어냈다. 언더그라운드 시절 수입 앨범을 한 장씩 들으며 독학하던 때부터 Leo 왕과 MC HotDog이 잇달아 랩 가왕에 오르기까지, 타이완은 20년에 걸쳐 한 길을 걸어왔다. 그러나 이 섬에서 가장 감동적인 것은 그것이 얼마나 미국을 닮았는지가 아니라, 중국어 성조, 타이완어 억양, 빈민가 출신이 아닌 약자라는 세 가지 선천적 열세를 이곳에서만 노래할 수 있는 다원적 주권의 성문으로 바꾸어냈다는 점이다.",
-        "category": "music",
-        "href": "/ko/music/taiwan-hip-hop-and-rap",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 24,
-        "image": ""
-      },
-      {
-        "title": "아바오(아잉잉): 판완족어를 금곡 올해의 앨범에 올린 그 퓨처 팝 가수",
-        "desc": "2020년 금곡 31 올해의 앨범은 전곡 판완족어 일렉트로닉 음악 앨범 《kinakaian 어머니의 혀》에 수여되었다. 아바오(Aljenljeng Tjaluvie, 1981년 타이둥 진펑)는 R&B 듀오 Abao & Brandy로 데뷔한 뒤 10년간 간호사로 근무했고, 2019년 Dizparity와 함께 족어를 퓨처 팝으로 만들어 「원주민 음악 = 보존」이라는 등식을 다시 썼다.",
-        "category": "people",
-        "href": "/ko/people/aljenljeng-tjaluvie-abao",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "진건기: 회계학과에서 삼금(三金) 프로듀서까지, 중화 팝 음악의 「괴성괴조」 금지선을 없앤 사람",
-        "desc": "1973년생, 담강대학교 회계학과 졸업자인 진건기는 중화 팝 음악사에서 보기 드문 \"부재하는 저자\"다. 그가 프로듀싱한 위여선, 쉬지아잉, 톈푸전, 팽지후이의 노래는 들어봤을 것이다. 하지만 그가 누구인지 모를 수도 있다. 2021년 제32회 금곡상 최우수 앨범 프로듀서상, 2023년 금마상 최우수 영화 오리지널 주제가상, 2025년 금종상 드라마 오리지널 노래상 삼금 수상자. 극장 피아니스트로 팝 음악에 입문한 프로듀서.",
-        "category": "people",
-        "href": "/ko/people/chen-chien-chi-music-producer",
-        "date": "2026-06-28T09:52:29+08:00",
+        "title": "Mei-yu à Taiwan : de la pluie dévastatrice de 1981 qui noya Taoyuan et Taipei à l'expérience scientifique qui fit venir des Américains sur l'île",
+        "desc": "Le 28 mai 1981 au matin, un front de pluies Mei-yu dévasta simultanément la région Taoyuan-Hsinchu-Miaoli et le Grand Taipei, avec des précipitations horaires dépassant 140 mm à Gongguan. Six ans plus tard, le projet TAMEX mobilisa plus de 125 scientifiques américains et taïwanais qui poursuivirent les fronts pluvieux avec un NOAA P-3, 3 navires d'observation et 3 radars Doppler. Quarante ans après, ce front stagnant qui arrive ponctuellement chaque mai et juin reste à la fois l'artère vitale qui alimente en eau potable 23 millions de personnes et le facteur susceptible d'inonder une ville entière.",
+        "category": "nature",
+        "href": "/fr/nature/meiyu-stagnant-front",
+        "date": "2026-07-17T19:44:57+08:00",
         "readingTime": 20,
         "image": ""
       },
       {
-        "title": "천젠녠: 파출소의 금곡가왕, 외조부가 남긴 노래를 손자가 바다로 쓰다",
-        "desc": "1967년 8월 1일 타이둥 베이난 난왕부락에서 태어났다. 1986년 경찰전문학교를 졸업하고 타이둥 관산에 배치되어 경찰계에서 30년 10개월 근무했다. 1999년 33세에 첫 창작 앨범 《해양》을 발매했고, 2000년 제11회 금곡장에서 장쉐유, 왕리훙, 타오저, 위청칭을 꺾고 최우수 만다린 남자 가수상을 받았으며, 같은 회차에서 〈신화〉로 최우수 작곡상도 받았다. 시상대 위의 그는 여전히 경찰이었다. 같은 해 9월 소란을 피하고자 란위 전근을 신청했고, 은퇴할 때까지 17년을 머물렀다. 외조부 루선바오는 〈아름다운 벼이삭〉의 작자였고, 손자는 삼십 년이 지나서야 그 음악의 선을 받아낼 수 있었다.",
-        "category": "people",
-        "href": "/ko/people/chen-chien-nien",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 8,
+        "title": "La culture taïwanaise du manga et de l'animation",
+        "desc": "Doraemon, Slam Dunk et Sailor Moon étaient le langage commun des adolescents taïwanais dans les années 1980-1990 ; le Fancy Frontier (FF), le plus grand salon de doujinshi de Taïwan, a tenu plus de 40 éditions depuis 1999 et attire plus de cent mille visiteurs par événement ; les cercles de doujinshi et de cosplay ont formé les créateurs de Detention et Devotion — la culture taïwanaise du manga et de l'animation n'est pas une imitation du divertissement importé, c'est la mémoire commune et le terreau créatif de deux générations.",
+        "category": "culture",
+        "href": "/fr/culture/taiwan-anime-culture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 9,
         "image": ""
       },
       {
-        "title": "정이농: 가장 낯선 언어로 가장 정직한 노래를 쓰다 — 2016년 성소수자 커밍아웃부터 2023년 금곡상 대만어 부문 더블 수상까지의 7년",
-        "desc": "1987년생 정이농(Enno Cheng), 아버지는 신영화 감독 정문당(鄭文堂). 2007년 배우 데뷔 금마장 후보 진입, 2016년 페이스북 커밍아웃과 같은 달 이혼, 2022년 첫 전곡 대만어 앨범 《수역(水逆)》, 2023년 제34회 금곡상에서 대만어 여가수상 + 대만어 앨범상 더블 수상. 그녀는 이렇게 말했다: \"그러면 내가 그렇게 익숙하지 않은 언어를 직접 써서, 나 자신을 매우 어렵게 만들자.\"",
-        "category": "people",
-        "href": "/ko/people/cheng-i-nung",
-        "date": "2026-06-28T09:52:29+08:00",
+        "title": "La culture du thé à Taïwan",
+        "desc": "Une petite île exclue des accords internationaux de limitation de la production théicole a ainsi créé son âge d'or du thé, avant de conquérir le monde entier avec une tasse de lait aromatisé garnie de petites « perles »",
+        "category": "food",
+        "href": "/fr/food/golden-age-echoes-taiwan-tea-culture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 12,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg"
+      },
+      {
+        "title": "Le Musée d'Art Contemporain Jin-Ma Bin-Guan",
+        "desc": "Une ancienne gare militaire de la Guerre froide, témoin d'innombrables adieux et retrouvailles, réveillée après vingt ans de sommeil par un père et sa fille — aujourd'hui classée premier musée d'art de Kaohsiung par le Lonely Planet.",
+        "category": "art",
+        "href": "/fr/art/alien-art-centre",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 10,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg/800px-%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg"
+      },
+      {
+        "title": "Le développement de la sculpture contemporaine à Taïwan",
+        "desc": "De Yang Yingfeng et Zhu Ming aux nouvelles générations, explorer la trajectoire d'évolution et l'esprit créatif de l'art sculptural taïwanais",
+        "category": "art",
+        "href": "/fr/art/development-of-contemporary-taiwanese-sculpture",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 18,
         "image": ""
       },
       {
-        "title": "Cicada: 2009년 모라크부터 2025년 반구를 가로지른 빙하까지, 16년의 현장 녹음",
-        "desc": "2009년 타이베이에서 결성된 Cicada는 전곡이 기악곡이며 보컬이 없는 독립 밴드다. 창단 멤버인 피아니스트 장즈제(타이베이예술대 예술사 석사)는 그해 모라크 태풍 뉴스를 보고 첫 곡들을 썼다. 이후 16년 동안 이들은 타이완의 사라지는 해안, 해양 생태, 산림과 계류의 원천을 보컬 없는 앨범들로 바꾸어 왔다. 서해안(《邊境消逝》2013), 동해안 태평양(《仰望海平面》2015)을 거쳐 중앙산맥의 계류 원천(《棲居在溪源之上》2022, 15일 120km 원정)까지 나아갔다. 일본 영화 《한 남자》 음악을 맡아 일본 아카데미상 우수 음악상을 받았다. 2025년 《凝視白色的邊界》는 처음으로 현장을 타이완 밖으로 확장해 빙하를 따라 그린란드, 아이슬란드, 뉴질랜드를 지나고, 다시 쉐산으로 돌아와 고대 빙하가 남긴 흔적을 찾는다.",
-        "category": "people",
-        "href": "/ko/people/cicada-band",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 24,
-        "image": ""
-      },
-      {
-        "title": "콘스탄의 변화구: \"밴드는 인내로 버티는 게 아니라, 재미없으면 흩어지는 거야\" 10년의 기록",
-        "desc": "2013년 타이베이에서 결성된 4인조 인디 밴드. 그리스 철학자 헤라클레이토스의 \"만물은 흐른다\"는 사상과 야구 투수의 변화구를 결합해 지은 밴드명이다. 보컬 ARNY는 필리핀 출신으로 파이어 익스팅셔에서 베이스를 친 경력 20년의 음악인이고, 드러머 샤오미는 류마티스 관절염으로 엄지를 구부리지 못한 채로도 계속 드럼을 치며, 베이시스트 진마오는 \"밴드는 인내로 버티는 게 아니라, 재미없으면 흩어지는 거야\"라고 말했다. 이들은 레거시에서 관객 2명을 상대로 공연하다가 2023년 타이베이 뮤직 센터에서 5,000명 규모 공연을 열었다. 그 사이에 폭발적 인기나 히트곡은 없었다 — 10년간 꾸준한 진화만 있을 뿐이다.",
-        "category": "people",
-        "href": "/ko/people/constant-and-change-band",
-        "date": "2026-06-28T09:52:29+08:00",
+        "title": "L'architecture de Taïwan",
+        "desc": "Des maisons en ardoise aux gratte-ciel : un voyage dans le temps architectural d'une île",
+        "category": "art",
+        "href": "/fr/art/taiwanese-architecture",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 15,
         "image": ""
       },
       {
-        "title": "황다웨이: 두세 시간 만에 쓴 노래, 그는 남은 생애 동안 잊고자 했다",
-        "desc": "1979년 하와이의 한 체육관에서, 열다섯 살의 황다웨이는 헤비메탈 콘서트를 본 뒤 집으로 돌아와 선생님이 준 기타를 붙들고 독학을 시작했다. 그는 중국어를 그다지 잘하지 못했고, 야오뤄룽과 천자리가 자신의 감정을 가사로 옮겨 주는 데 기대어, 쉰 목소리 하나로 화어 음악계에서 맨손으로 출발했다. 〈니바워관쭈이〉는 두세 시간 만에 쓰였지만, 그는 남은 생애 동안 그것을 잊고자 했다. 그는 장쉐량을 습관적으로 “외할아버지”라 불렀지만, 항렬로는 사실 종외손이었다. 평생 가문과 한 곡의 ‘국민가요’가 자신을 규정하는 것을 벗어나려 했으나, 세상은 오직 이 두 가지로만 그를 기억했다.",
-        "category": "people",
-        "href": "/ko/people/david-wong",
-        "date": "2026-06-28T09:52:29+08:00",
+        "title": "La bande dessinée taïwanaise",
+        "desc": "Des années 1970, ère du « royaume de la BD » avec Liu Xingqin et Aoxiang, à la conquête du Japon par Zheng Wen en 1991 — sacré « trésor de l'Asie » —, en passant par la philosophie classique mise en images par Cai Zhizhong dans *Zhuangzi*, puis le Golden Comic Award en 2010 et la plateforme CCC en 2017 : la bande dessinée taïwanaise a traversé une longue traversée du désert face à la déferlante manga, et retrouve aujourd'hui sa voix créatrice.",
+        "category": "art",
+        "href": "/fr/art/taiwanese-comics-and-illustration",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
+      {
+        "title": "Wang Hsin-jen (Aluan Wang) : générer des paysages par le code et inscrire la philanthropie dans les smart contracts",
+        "desc": "Né en 1982 à Taichung, titulaire d'un master en arts des nouveaux médias de la Taipei National University of the Arts. Le 22 août 2021, son œuvre *Good Vibrations* est devenue la première œuvre d'un artiste taïwanais publiée sur Art Blocks, avec 1 024 NFT vendus en une heure. L'année suivante, il a rejoint l'équipe de six artistes du *Project %* (Plan des Cent Sommets) de FAB DAO, créant la première structure de redevance durable en Asie à intégrer la philanthropie dans un smart contract NFT. Son travail s'étend sur Art Blocks, Verse.works, fxhash et Tezos : *Chaos Culture* exposé à Art Basel Hong Kong, l'expérience sonore immersive *Hao Dou* en collaboration avec le C-LAB, la série *Polypaths* acquise par le Musée national de Taïwan, et en 2026 sa dernière œuvre *inkField*, développée en collaboration avec Claude Code, qui inscrit l'hésitation et les pauses humaines dans un système génératif.",
+        "category": "art",
+        "href": "/fr/art/wang-hsin-jen-artist",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "La musique indépendante taïwanaise : comment un disquaire incapable de payer ses employés a ouvert les oreilles d'une île",
+        "desc": "De la reprise à perte de Crystal Records, endettée de trois cent mille dollars taïwanais, à la rupture de stock du premier tirage de No Party for Cao Dong dans un café. Trente-cinq ans de musique indépendante à Taïwan ne sont pas une revanche, mais un pari de longue horde : un groupe de personnes déterminées à faire entendre « les voix que personne ne voit ».",
+        "category": "music",
+        "href": "/fr/music/indie-music-scene",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 14,
         "image": ""
       },
       {
-        "title": "뤄다유: 타이완의 뿌리 잃은 사람들을 노래한 이, 자신도 열아홉 번 이사하며 길을 찾다",
-        "desc": "1970년대, 타이중의 한 의과대학 해부실에서 한 방사선과 의대생이 몰래 노래 연습을 했다. “그곳은 울림이 좋고, 내가 노래하는 줄 아무도 모를 테니까.” 훗날 그는 〈루강 소진〉, 〈아시아의 고아〉, 〈동방지주〉를 써서 한 세대를 대신해 “나는 누구인가”를 물었다. 그러나 뿌리 잃은 사람들을 두루 노래한 이 사람 자신도 타이베이에서 뉴욕, 홍콩, 베이징으로 옮겨 다니며 29년 동안 열아홉 번 이사했다. 일흔 살이 되던 해, 그는 자신을 그저 “대단한 생존자”라고 말했다.",
-        "category": "people",
-        "href": "/ko/people/luo-dayou",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "차오둥메이유파이두이: 양밍산 차오둥제에서 두 차례 금곡상 최우수 밴드까지의 12년",
-        "desc": "2017년 제28회 금곡상에서 자비로 CD 2,000장을 찍은 4인조 밴드가 메이데이를 압도적으로 꺾고 3관왕을 차지했다. 그들은 7년 동안 사라졌고, 그 시간은 2021년 드러머 판판이 방역 호텔에서 세상을 떠난 일과 2년의 침묵을 가로질렀다. 2023년 《와허》로 돌아왔고, 2024년 제35회 금곡상에서 올해의 앨범 + 최우수 중국어 앨범 + 최우수 밴드 3관왕을 차지했다. 매니저는 대리 수상하며 말했다. “차오둥은 단 한 번도 무대 위에 선 4명만을 뜻한 적이 없다.”",
-        "category": "people",
-        "href": "/ko/people/no-party-for-cao-dong",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "손燕姿: 1표 차이로 주걸륜을 꺾고, AI가 1000곡의 목소리를 복제했지만 그녀는 \"나 자신으로 충분하다\"고 말했다",
-        "desc": "2000년 6월 9일, 한 싱가포르 여성이 〈天黑黑〉로 대만에서 데뷔하며 첫 앨범 33만 장으로 연간 판매 정상을 차지했다. 이듬해 금곡상에서 1표 차이로 주걸륜을 꺾고 신인상을 수상했으며, 4년 후 《Stefanie》로 금곡상 역사상 최초의 \"신인상 겸 여자 가수상\" 동시 수상자가 되었다. 2023년, AI가 그녀의 목소리로 1000곡 이상을 불렀을 때 그녀의 대답은 단 한 마디였다: \"나 자신으로, 충분하다.\"",
-        "category": "people",
-        "href": "/ko/people/stefanie-sun",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "justfont와 대만 서체 발전: 대만 차 이름으로 글자 만드는 사람들을 빛 속으로",
-        "desc": "2015년 9월 8일 오전, 대만 차 이름에서 따온 서체 「진쉬안(金萱)」이 flyingV에 올라 76분 만에 150만 원 목표를 돌파하고 최종 7,667명이 2,593만 원을 모았다. 온 국민이 매일 읽는 글자인데도, 시장은 한때 글자 만드는 회사 하나 먹여 살릴 수 없을 만큼 작았다. 화강의 세명체, 타이위안루의 납활자, 불화 그리기로 시작한 린샤까지—이것은 대만이 글자 만드는 사람들을 빛 속으로 데려온 이야기다.",
-        "category": "technology",
-        "href": "/ko/technology/justfont-and-taiwan-typography",
-        "date": "2026-06-19T11:09:34+08:00",
-        "readingTime": 18,
-        "image": "/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp"
-      },
-      {
-        "title": "陳士駿 — 여덟 살에 떠나, 마흔한 살에 돌아온 사람",
-        "desc": "그는 여덟 살에 대만을 떠났고, 스물일곱 살에 미국에서 누구나 영상을 올릴 수 있는 곳을 만들었다. 스무 달 뒤 16.5억 달러에 팔고, 뇌종양 진단을 받았다가, 아내와 아이들을 데리고 돌아왔다.",
-        "category": "people",
-        "href": "/ko/people/steve-chen-youtube-cofounder",
-        "date": "2026-06-16T09:42:19+09:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "금과석(진궈스): 모래금에서 전포, 아직 씻겨지지 않은 비소 토양까지, 한 산 위에 겹겹이 쌓인 삶의 층위",
-        "desc": "1942년 11월 14일, 523명의 연합군 전포가 금과석의 구리 광산갱으로 들어섰다. 누군가는 3년을 견디고, 누군가는 그 산을 벗어나지 못한 날들이 시작되었다. 이 산이 기억되는 방식은 대부분 13층 유적지의 주황색 야간 조명, 만져볼 수 있는 220kg 금괴, 구펀을 들르는 길에 우연히 마주치는 비경 해안 풍경이다. 그러나 같은 산 아래에는 현지 광부가 폐를 대가로 바꾼 금, 500여 명의 외국 전포의 뼈, 그리고 아직 정화되지 않은 비소 토양이 묻혀 있다. 이것들을 함께 보아야 비로소 금과석 전체를 볼 수 있다.",
-        "category": "geography",
-        "href": "/ko/geography/jinguashi",
-        "date": "2026-06-09T11:27:50+08:00",
-        "readingTime": "24",
-        "image": ""
-      },
-      {
-        "title": "Nantou County: The Only County Not Bordering the Sea, Where the Epicenter of the 921 Earthquake Lies at Its Center",
-        "desc": "At 1:47 AM on September 21, 1999, the Chelungpu Fault moved for 102 seconds beneath the earth of Jiji Township, killing 2,415 people across Taiwan; Nantou itself accounted for 886 deaths, with 90% of buildings in Zhongliao Township damaged. On the day of the flag-raising ceremony at Wushe Public School in 1930, Mona Rudao led 6 communities of the Seediq people to kill 134 Japanese civilians. In 1934, the Wugui Dam rose 18.18 meters, submerging the邵族's (Shao) Lalu Island. In 1957, Zhongxing New Village was built as the temporary office of the Provincial Government; by 1998, the 'Provincialization' emptied its functions, leaving only the Coconut Avenue. 470,000 people live in this inland county that rises from 100 meters to 3,952 meters, where Seediq, Bunan, Shao, and Tsou tribes coexist with Han Chinese. Taiwan's deepest wounds are here.",
-        "category": "geography",
-        "href": "/ko/geography/nantou-county",
-        "date": "2026-06-09T11:27:50+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "Penghu County: Two Rejections of Casinos, the Chrysanthemum Island Chose Not Poverty",
-        "desc": "On September 26, 2009, Ma announced the results: 17,359 votes against, the casino lost by 3,962 votes. Seven years later in 2016, they voted again, with 81.07% against. An island county with only 1,000 mm of annual rainfall, a registered population of 108,000 but only 80,000 residents, held the nation's first local gambling referendum, and then held it again. The same waters saw Shen Yourong repel the Dutch in 1604, the Dutch move from Fengchuiwei to Tainan in 1622, and French Admiral Courbet die of illness in Magong Harbor in 1885. The 17.4-million-year-old basalt columns remain; 89 islands are black volcanic rock, 1 is older andesite. In the winter vegetable garden stone walls, crops grow in the lee.",
-        "category": "geography",
-        "href": "/ko/geography/penghu-county",
-        "date": "2026-06-09T11:27:50+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "Taoyuan City: Taiwan's Import and Export Hub, Home to the Most Hakka People and Migrant Workers, All on This Plateau",
-        "desc": "On the evening of November 19, 1977, thousands of people surrounded the Zhongli Police Station; police opened fire from a high point, killing Central University student Jiang Wenguo and 19-year-old Zhang Zhiping. Hsu Hsin-liang was elected Taoyuan County Magistrate with 230,000 votes to 140,000. One year and three months later, on February 26, 1979, the Zhongzheng International Airport opened, moving Taiwan's gateway to the outside world from Keelung Port to this plateau. On December 25, 2014, Taoyuan was upgraded to the sixth special municipality, the last of the six. Today, 2.35 million people live on this 1,221 square kilometer plateau. With over 800,000 Hakka people, it has the most in the country, and with 132,158 migrant workers, it also has the most. Taoyuan is Taiwan's most diverse border.",
-        "category": "geography",
-        "href": "/ko/geography/taoyuan-city",
-        "date": "2026-06-09T11:27:50+08:00",
+        "title": "Musique hakka à Taïwan : des chants de montagne à la politique linguistique du refus de prix par Lin Sheng‑xiang",
+        "desc": "Les chants de montagne hakka trouvent leurs origines dans la vie laborieuse, les huit instruments hakka sont utilisés lors des mariages, des funérailles et des célébrations. En 1999, le groupe Jiaogong remporte le Golden Melody Award de la meilleure composition et du meilleur producteur avec « Je viendrai chanter des chants de montagne », inaugurant une génération de rock hakka. En 2003, la 14ᵉ édition du Golden Melody Awards crée la catégorie chant hakka ; en 2004, Hsieh Yu‑wei en devient la première lauréate. En 2007, Lin Sheng‑xiang refuse le prix pour « Plantation d’arbres », appelant à classer la musique par genre plutôt que par langue, déclenchant le débat sur la pertinence des prix hakka, qui conduit trois ans plus tard à la création du Golden Indie Music Award. La Hakka TV, créée en 2003, continue d’accroître la visibilité de la musique hakka. La menace de la perte linguistique persiste, mais la tension entre transmission et innovation pousse toujours les musiciens hakka à avancer.",
+        "category": "music",
+        "href": "/fr/music/taiwan-hakka-music-from-mountain-songs-to-rock",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 10,
         "image": ""
       },
       {
-        "title": "중산베이루 조통: 일본인이 신사로 가기 위해 닦은 길은 결국 일본 상사가 다시 접수했다",
-        "desc": "1923년 4월 17일, 19세의 일본 황태자 히로히토는 타이베이역에서 마차를 타고 폭 15미터의 길을 지나 위안산 타이완 신사로 향했다. 이 길은 칙사 가도라 불렸다. 1941년에는 폭 40미터의 5차선 대로로 확장되었다. 1945년 쑨원을 기념해 「중산베이루」로 개명되었다. 1951년 한국전쟁으로 미군이 주둔하면서 중산베이루 3단은 「미국 조계」가 되었다. 1972년 중일 단교 때 일본 상사는 떠나지 않았고, 1979년 미군은 떠났으며, 1980년대에는 일본 상사가 조통을 접수했다. 일본인이 신사로 가기 위해 닦은 길은 결국 일본 상사가 다시 접수했다.",
-        "category": "geography",
-        "href": "/ko/geography/zhongshan-north-road-tiaotong",
-        "date": "2026-06-09T11:27:50+08:00",
+        "title": "Développement du hip-hop et du rap à Taïwan : le chinois ne devrait pas pouvoir rapper, le taïwanais hoklo n'aurait pas sa place sur scène, et ce n'est pas un ghetto, mais ils ont transformé ces trois handicaps en empreinte vocale souveraine",
+        "desc": "En 2004, Sung Yueh-ting était mort depuis deux ans lorsque sa mère et son frère sont montés recevoir pour lui le Golden Melody Award des meilleures paroles. Les doubles rimes de « Life's a Struggle » ont fait reculer le préjugé selon lequel « le chinois ne convient pas au rap ». Des années underground où l'on apprenait seul, album importé après album importé, jusqu'aux couronnements successifs de Leo Wang et MC HotDog comme meilleurs chanteurs de rap, Taïwan a parcouru ce chemin en vingt ans. Mais ce que cette île a de plus émouvant n'est pas sa ressemblance avec les États-Unis : c'est sa manière de transformer trois handicaps innés, les tons du chinois, l'accent du taïwanais hoklo et la position de faibles qui ne viennent pas du ghetto, en une empreinte vocale plurielle et souveraine que seul ce lieu peut faire entendre.",
+        "category": "music",
+        "href": "/fr/music/taiwan-hip-hop-and-rap",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 24,
         "image": ""
       },
       {
-        "title": "Undersea Cables: The Silicon Shield Visible Above, The Lifeline Invisible Below",
-        "desc": "In February 2023, two undersea cables connecting Matsu to Taiwan proper broke consecutively within six days, plunging Lienchiang County into a digital blackout for approximately 50 days. Li Wen, Chairman of the DPP Lienchiang County Party Department, described the experience: 'Sending a single text message on Line took 15 to 20 minutes.' Taiwan relies on 14 deep-sea cables for 99% of its international internet traffic, all concentrated in four landing stations on the main island. TSMC's cleanrooms represent the heroic narrative of the Silicon Shield above, while these undersea cables are the unseen lifeline below—they have the power to disconnect 23 million people from the world without firing a single shot.",
-        "category": "technology",
-        "href": "/ko/technology/submarine-cables-taiwan-lifeline",
-        "date": "2026-06-09T11:27:50+08:00",
+        "title": "L'évolution de la musique taïwanaise en langue taïwanaise : du « chant des anciens » à la coqueluche des jeunes intellectuels",
+        "desc": "Retraçant l'évolution de la musique taïwanaise en langue taïwanaise, de l'ère du nakashi, de Hong Yi-feng et de [[Jody Chiang]] aux interprétations innovantes de nouvelles générations de groupes tels qu'[[Eggplant Egg Band]] et [[Sorry Youth Band]], cet article explore comment la musique en langue taïwanaise a regagné l'adhésion des jeunes générations.",
+        "category": "music",
+        "href": "/fr/music/taiwanese-hokkien-song-evolution",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "taiwanese-traditional-chinese-orchestra-music",
+        "desc": "",
+        "category": "music",
+        "href": "/fr/music/taiwanese-traditional-chinese-orchestra-music",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "L'ours noir de Taïwan",
+        "desc": "Le V blanc sur sa poitrine est sa signature, et le combat pour sa protection est loin d'être terminé",
+        "category": "nature",
+        "href": "/fr/nature/taiwanese-black-bear",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 12,
         "image": ""
-      }
-    ],
-    "fr": [
+      },
+      {
+        "title": "Lee Ju-eun",
+        "desc": "De la folie « déesse de l'IA » à un engagement total à Taïwan, sa trajectoire a redéfini l'imaginaire des pom-pom girls coréennes en CPBL.",
+        "category": "people",
+        "href": "/fr/people/lee-ju-eun",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "Wang Chi-lin et Lee Yang (« paire Lin-Yang »)",
+        "desc": "Des camarades de collège aux médaillés d’or olympiques : la « paire Lin-Yang » a battu la Chine en deux manches sèches en 34 minutes, offrant à Taïwan la première médaille d’or olympique de son histoire en badminton",
+        "category": "people",
+        "href": "/fr/people/lin-yang-duo-taiwan-badminton-champions",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Park Sung-eun",
+        "desc": "D'invitée d'échange à membre officielle des Fubon Angels, elle s'est imposée comme la nouvelle génération des cinq piliers du cheerleading coréen grâce à une adaptation rapide et une constance scénique remarquable.",
+        "category": "people",
+        "href": "/fr/people/park-sung-eun-actress",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Médias taïwanais et liberté de la presse",
+        "desc": "Du contrôle partisan-étatique à l'ère de la guerre des médias : le processus de démocratisation de la liberté de la presse à Taïwan et les défis de la transformation numérique",
+        "category": "society",
+        "href": "/fr/society/media-and-press-freedom-in-taiwan",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "La défense taïwanaise et la modernisation militaire",
+        "desc": "En octobre 2025, Lai Ching-te a présidé à Hukou la mise en service d'un bataillon de chars M1A2T. Le même mois, l'ancien chef d'état-major Hsi-ming Lee a déclaré avec un amer sourire : « Si un char peut être considéré comme une arme asymétrique, qu'est-ce qui ne le serait pas ? » C'est l'histoire d'une île tiraillée entre deux logiques de défense.",
+        "category": "society",
+        "href": "/fr/society/taiwan-defense-modernization",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "Les Supermen à pelle et la synchronisation insulaire : comment la culture taïwanaise du bénévolat en cas de catastrophe façonne l'identité nationale",
+        "desc": "En partant des « Supermen à pelle » de la crue de Mataian en 2025, cet article retrace la culture du bénévolat en cas de catastrophe accumulée à Taïwan depuis le séisme de Jiji du 21 septembre 1999, le mythe de la crue fondatrice de la tribu de Mataian et la résilience communautaire, le modèle Tzu Chi et les trois postes de commandement en moins de 500 mètres à Guangfu, et examine le moment où la chanson *Nous sommes compatriotes* de Chen Chien-nian est devenue un acte concret lors de cette inondation.",
+        "category": "society",
+        "href": "/fr/society/taiwan-disaster-volunteer-culture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "Justice environnementale et conflits NIMBY à Taïwan",
+        "desc": "Examen des inégalités dans la répartition des charges environnementales à Taïwan, des conflits de type NIMBY liés aux incinérateurs, aux déchets nucléaires et à l'industrie pétrochimique, analyse des problèmes d'inégalité environnementale et des enjeux de justice sociale",
+        "category": "society",
+        "href": "/fr/society/taiwan-environmental-justice-nimby-conflicts",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 13,
+        "image": ""
+      },
+      {
+        "title": "Le dernier chant de l'île : le 0,695 que même l'année du Dragon n'a pas sauvé",
+        "desc": "2024 était l'année du Dragon : les Taïwanais auraient dû se hâter d'avoir des enfants pour porter chance. Cette année-là a pourtant compté 715 bébés de moins que l'année précédente : pour la première fois en 48 ans, la magie du Dragon n'a pas opéré. L'année suivante, le taux de fécondité s'est effondré à 0,695. Mais le vrai code n'a jamais été que les Taïwanais ne font pas d'enfants (après le mariage, plus de sept couples sur dix en ont deux ou plus), mais qu'ils ne se marient pas ; or l'État a versé de l'argent pendant dix ans à ceux qui « n'osent pas enfanter », alors qu'aucun pays au monde n'a jamais racheté son taux de fécondité à coups de subventions.",
+        "category": "society",
+        "href": "/fr/society/taiwan-low-birth-rate-crisis",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Environnement politique et système électoral de Taïwan",
+        "desc": "De l'architecture constitutionnelle aux mécanismes électoraux centraux et locaux, en passant par la culture politique partisane profonde, une analyse complète de la manière dont Taïwan maintient une société démocratique dynamique et institutionnellement rigoureuse dans un contexte géopolitique complexe",
+        "category": "society",
+        "href": "/fr/society/taiwan-political-landscape-and-electoral-system",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "giant-manufacturing-taiwan-bicycle-empire",
+        "desc": "",
+        "category": "economy",
+        "href": "/fr/economy/giant-manufacturing-taiwan-bicycle-empire",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Le système éducatif taïwanais : de l'enfer du concours unique au labyrinthe du pluralisme",
+        "desc": "Taïwan a passé trente ans à vouloir démanteler son concours d'entrée à l'université — et la toute dernière réforme a fait doubler les inscriptions dans les classes de redoublement. Comment une île oscille-t-elle indéfiniment entre pression scolaire et équité éducative ?",
+        "category": "lifestyle",
+        "href": "/fr/lifestyle/taiwan-education-system",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "Tung Tzu-hsien : parti du Taipei Tech, Pegatron devient le plus grand partenaire sous-traitant d'Apple",
         "desc": "Né le 25 juin 1960, Tung Tzu-hsien est diplômé du département d'électronique du Taipei Tech (aujourd'hui l'Université nationale de technologie de Taipei), et non de la faculté d'électrotechnique de l'NTU. Il rejoint ASUS en 1988, puis dirige la scission le 1er janvier 2008 et fonde Pegatron, devenant sous-traitant d'Apple, Sony et Nintendo. En 2019, il investit dans la librairie Eslite. En 2025, il continue de défendre publiquement une politique énergétique de « coexistence nucléaire et renouvelable ».",
@@ -1135,234 +1360,171 @@
         "date": "2026-07-12T22:17:28+08:00",
         "readingTime": 12,
         "image": ""
-      },
+      }
+    ],
+    "es": [
       {
-        "title": "Golden Melody Awards : Taïwan récompense sa propre musique et trente-cinq ans de moments inoubliables",
-        "desc": "En 2024, à la Taipei Arena, No Party for Cao Dong est sacré une deuxième fois ; leur manager reçoit les prix à leur place, et toute la salle garde le silence pour une batteuse disparue. En trente-cinq ans, les Golden Melody Awards sont passés d'une lettre manuscrite de Tsai Chin à une cérémonie nationale ; ils ont couronné Fantasy de Jay Chou, les 14 nominations d'A-Mei, et ont aussi attribué les plus hautes distinctions à des chansons en taïwanais, en hakka et en langues autochtones. C'est là que Taïwan récompense sa propre musique et décide quelles voix méritent d'être retenues.",
-        "category": "music",
-        "href": "/fr/music/pop-music-and-golden-melody-awards",
-        "date": "2026-06-28T10:07:53+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "Chou Hui : la voix féminine qui chante « Promesse » depuis 25 ans, du personnage de manga au Taipei Arena",
-        "desc": "En 1999, Forward Music publie « Where Chou’s Greatest Hits » ; sur la pochette, une poupée dessinée appelée Huier remplace le visage de la chanteuse. « Promesse » entre dans tous les KTV et traverse 25 ans, mais la personne qui l’interprète reste toujours reconnue un pas après la chanson. Des cinq albums chez Forward Music au gel de sa carrière par BMG, de Seed Music à HIM International Music, puis à son passage au disco en 2025 comme productrice de son propre album, 12 albums ont parcouru 26 ans. Le 25 avril 2026, elle monte pour la première fois sur la scène du Taipei Arena ; à la fin du concert, elle annonce pourtant souffrir d’atrophie des cordes vocales : « Je ne sais pas si ce sera la dernière fois que je chanterai pour vous ».",
-        "category": "music",
-        "href": "/fr/music/chou-hui",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "Musique populaire taïwanaise : l'île qui a travaillé pour le monde entier, et à qui il reste finalement de pouvoir chanter ce que les autres ne peuvent pas",
-        "desc": "En 1997, Taïwan était le deuxième marché du disque en Asie, et 80 % des chansons de toute la scène musicale sinophone y étaient produites. En 2005, sa valeur de production n’était plus qu’un quart de ce qu’elle avait été, le marché avait été dépassé par la Chine, et même Jay Chou à son apogée ne vendait plus que 300 000 exemplaires d’un album. Quand ailleurs une chanson peut être réduite au silence pour une parole, un drapeau ou un tabou, cette île qui a perdu la bataille de l’échelle a fait de la question même de « ce qui peut être chanté » son dernier levier, et le plus solide.",
-        "category": "music",
-        "href": "/fr/music/golden-melodies-legacy-taiwan-pop-music",
-        "date": "2026-06-28T09:52:29+08:00",
+        "title": "La temporada de lluvias Mei-Yu en Taiwán: de las inundaciones de 1981 que arrasaron Taoyuan y Taipéi a un experimento científico que hizo volar aviones estadounidenses a la isla",
+        "desc": "El 28 de mayo de 1981, un frente de lluvias Mei-Yu desencadenó aguaceros catastróficos en la región de Taoyuan-Zhuli-Miaoli y el Gran Taipéi, con precipitaciones horarias superiores a 140 mm en la zona de Gongguan. Seis años después, el experimento TAMEX movilizó a más de 125 científicos taiwaneses y estadounidenses, un avión P-3 de la NOAA, tres barcos de observación y tres radares Doppler para perseguir frentes de lluvia. Cuarenta años más tarde, ese mismo frente que llega cada mayo y junio sigue siendo la fuente de agua potable de 23 millones de personas y el detonante de inundaciones que pueden anegar ciudades enteras.",
+        "category": "nature",
+        "href": "/es/nature/meiyu-stagnant-front",
+        "date": "2026-07-17T19:44:57+08:00",
         "readingTime": null,
         "image": ""
       },
       {
-        "title": "Little Tigers : des mélodies achetées, une jeunesse à soi",
-        "desc": "En 1988, une émission de télé-crochet de CTS cherchait trois garçons pour chanter et danser aux côtés des Little Cats. Elle finit par sélectionner un groupe d’idoles reprenant des chansons japonaises et imitant Shonentai, le boys band japonais. De deux cent mille exemplaires vendus en cinq jours aux fans qui les suivirent de Taipei à Kaohsiung, jusqu’au passage du détroit en 1991 : presque toutes les pièces étaient importées, mais Taïwan en a gardé le souvenir comme l’une des jeunesses les plus solides d’une génération, tandis que les trois corps les plus célèbres ont ensuite tous traversé le détroit.",
-        "category": "music",
-        "href": "/fr/music/little-tigers-taiwan-boy-band",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 16,
+        "title": "Douli: la pareja junto a la Secundaria Longdu que tejió sesenta años de bambú guizhu en un solo sombrero",
+        "desc": "En 2017, Lin Rongchun, de Meinong, Kaohsiung, seguía cortando tiras de bambú con más de ochenta años; en 2014, la abuela Chen Lianqin, de Longqi, Tainan, hacía uno en una hora a los ochenta y seis; Xu Guizhu, de Fuli, Hualien, vendía cada pieza por apenas 150 dólares taiwaneses en 2016; en 2022, el documental Chuan, chuan de la Fundación de Comunicación Pública Hakka registró a Wu Jinyun y Xu Baomei, de Miaoli, que llevaban cincuenta años fabricándolos. En la época de mayor auge de Qionglin, Hsinchu, cada casa apilaba bambú guizhu; en Kengzi, Luzhu, Taoyuan, treinta hogares producían cien piezas al día. Hoy, en toda la isla, la mayoría de los maestros capaces de fabricar douli de trabajo rudo superan los setenta años, y después de que en 2024 la compensación por prohibición de tala en tierras reservadas indígenas se elevó a 60.000 dólares taiwaneses por hectárea, incluso la recolección de bambú guizhu está entrando en una ruptura de cadena. El douli no ha desaparecido de los campos; lo que desaparece son esas manos capaces de insertar hojas de bambú en un armazón de tiras de bambú y fijarlas, vuelta tras vuelta, con hilo de algodón.",
+        "category": "culture",
+        "href": "/es/culture/bamboo-hat-craft",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 14,
         "image": ""
       },
       {
-        "title": "Sodagreen : il leur a fallu vingt ans pour comprendre que leur propre nom pouvait aussi se plaider au tribunal",
-        "desc": "En 2001, quatre étudiants forment un groupe sur la scène du Golden Melody de l'Université nationale Chengchi ; en 2003, ils sont repérés par Lin Wei-che au festival Ho-hai-yan de Gongliao ; après avoir chanté tout le cycle Vivaldi, ils passent par Pékin, Berlin et Londres ; en 2019, ils se retrouvent assignés en justice ; ce n'est qu'en 2023, à la Taipei Arena, qu'ils récupèrent leur propre nom. Après vingt ans, Sodagreen a appris ceci : pour un groupe indie taïwanais, la première chose à faire en début de carrière est d'enregistrer son nom.",
-        "category": "music",
-        "href": "/fr/music/sodagreen",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 28,
+        "title": "La cultura del anime y el manga en Taiwán",
+        "desc": "\"Doraemon\", \"Slam Dunk\" y \"Sailor Moon\" fueron el lenguaje común de los adolescentes taiwaneses en las décadas de 1980 y 1990; el Fancy Frontier (FF), el mayor evento de doujinshi de Taiwán, se celebra desde 1999 y ha superado las 40 ediciones, atrayendo a más de cien mil personas por evento; el doujinshi y el cosplay formaron a los creadores de \"Detention\" y \"Devotion\" — la cultura del anime y el manga en Taiwán no es una imitación del entretenimiento extranjero, sino la memoria compartida de dos generaciones y un terreno fértil para la creatividad.",
+        "category": "culture",
+        "href": "/es/culture/taiwan-anime-culture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 9,
         "image": ""
       },
       {
-        "title": "Abao (Aljenljeng Tjaluvie) : la chanteuse future pop qui a porté la langue paiwan jusqu'à l'album de l'année des Golden Melody Awards",
-        "desc": "En 2020, lors de la 31e cérémonie des Golden Melody Awards, le prix de l'album de l'année a été décerné à *kinakaian — La langue de ma mère*, un album entièrement en langue paiwan mêlant musique électronique. Abao (Aljenljeng Tjaluvie, née en 1981 à Taitung, Jinfeng) a débuté en duo R&B avec Abao & Brandy, puis exercé le métier d'infirmière pendant dix ans. En 2019, avec le producteur Dizparity, elle a transformé la langue autochtone en future pop, réécrivant l'équation « musique autochtone = préservation ».",
-        "category": "people",
-        "href": "/fr/people/aljenljeng-tjaluvie-abao",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 18,
+        "title": "Cultura del Té de Taiwán",
+        "desc": "Una pequeña isla excluida de los acuerdos de restricción de producción entre las grandes potencias del té, que por eso creó su propia edad de oro tetera, para terminar conquistando el mundo entero con una taza de té mezclado con 'pequeños postres'",
+        "category": "food",
+        "href": "/es/food/golden-age-echoes-taiwan-tea-culture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 12,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg"
+      },
+      {
+        "title": "La cultura del hielo en Taiwán",
+        "desc": "Del mango de Yuching a la revolución del hielo de nieve, explorando la cultura única de los taiwaneses que comen helado incluso en invierno",
+        "category": "food",
+        "href": "/es/food/taiwanese-ice-cream-culture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
         "image": ""
       },
       {
-        "title": "Chen Chien-chi : de la comptabilité à la triple couronne, l'homme qui a aboli la ligne rouge des « voix bizarres » dans la musique pop sinophone",
-        "desc": "Né en 1973 et diplômé en comptabilité de l'Université Tamkang, Chen Chien-chi est un « auteur absent » rare dans l'histoire de la musique pop sinophone : vous avez entendu les chansons qu'il a produites pour Waa Wei, Lala Hsu, Hebe Tien et Julia Peng, mais vous ne savez peut-être pas qui il est. Lauréat du meilleur producteur d'album aux 32e Golden Melody Awards en 2021, du meilleur chanson originale de film aux Golden Horse Awards en 2023, et du prix de la chanson originale dramatique aux Golden Bell Awards en 2025, il est l'un des rares producteurs à avoir remporté les trois couronnes (Golden Melody, Golden Horse, Golden Bell). Un pianiste de théâtre entré dans la musique pop.",
-        "category": "people",
-        "href": "/fr/people/chen-chien-chi-music-producer",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 20,
+        "title": "Museo de Arte Contemporáneo Jinma Bin Guan",
+        "desc": "Una estación militar de la Guerra Fría que fue testigo de despedidas y reencuentros, dormida durante veinte años hasta que un padre y su hija la despertaron, convirtiéndose en el museo de arte recomendado por Lonely Planet como la primera opción en Kaohsiung.",
+        "category": "art",
+        "href": "/es/art/alien-art-centre",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
         "image": ""
       },
       {
-        "title": "Chen Chien-nien : le roi des Golden Melody Awards du poste de police, le petit-fils qui fit de la chanson laissée par son grand-père maternel un océan",
-        "desc": "Né le 1er août 1967 dans la communauté Nanwang, à Beinan, Taitung. Diplômé de l’école de police en 1986, il est affecté à Guanshan, Taitung, et sert dans la police pendant 30 ans et 10 mois. En 1999, à 33 ans, il publie son premier album d’auteur-compositeur, 《海洋》. En 2000, lors de la 11e édition des Golden Melody Awards, il devance Jacky Cheung, Wang Leehom, David Tao et Harlem Yu pour remporter le prix du meilleur chanteur mandarin ; la même année, 〈神話〉 lui vaut aussi le prix de la meilleure composition. Sur la scène de la remise des prix, il est encore policier. En septembre de la même année, il demande sa mutation à Lanyu pour fuir l’agitation, et y reste 17 ans jusqu’à sa retraite. Son grand-père maternel Lu Sen-bao est l’auteur de 〈美麗的稻穗〉 ; il aura fallu trente ans au petit-fils pour saisir ce fil musical.",
-        "category": "people",
-        "href": "/fr/people/chen-chien-nien",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": "8",
+        "title": "Desarrollo de la escultura contemporánea en Taiwán",
+        "desc": "Desde Yang Ying-feng y Zhu Ming hasta la nueva generación, exploramos la trayectoria evolutiva y el espíritu creativo del arte escultórico taiwanés",
+        "category": "art",
+        "href": "/es/art/development-of-contemporary-taiwanese-sculpture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": "18",
         "image": ""
       },
       {
-        "title": "Enno Cheng : écrire les chansons les plus honnêtes dans la langue la plus étrangère — sept ans entre le coming-out de 2016 et le double prix taïwanais des Golden Melody 2023",
-        "desc": "Née en 1987, Enno Cheng (鄭宜農) est la fille du réalisateur de la Nouvelle Vague taïwanaise Cheng Wen-tang. Actrice révélée en 2007 avec une nomination aux Golden Horse, elle fait son coming-out sur Facebook en janvier 2016 le même mois que son divorce. En 2022 sort son premier album entièrement en taïwanais, *Mercury Retrograde* (水逆). En juillet 2023, aux 34e Golden Melody Awards, elle remporte le double prix de la meilleure chanteuse taïwanaise et du meilleur album taïwanais. Elle déclare : « J'ai décidé d'utiliser une langue que je ne maîtrise pas si bien, pour me mettre moi-même en difficulté. »",
-        "category": "people",
-        "href": "/fr/people/cheng-i-nung",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 18,
+        "title": "Arquitectura taiwanesa",
+        "desc": "De las casas de pizarra a los rascacielos: un viaje arquitectónico a través del tiempo en una isla",
+        "category": "art",
+        "href": "/es/art/taiwanese-architecture",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
         "image": ""
       },
       {
-        "title": "Cicada : seize ans d’enregistrements de terrain, du typhon Morakot en 2009 aux glaciers transhémisphériques en 2025",
-        "desc": "Fondé à Taipei en 2009, Cicada est un groupe indépendant entièrement instrumental, sans voix. Sa pianiste fondatrice, Chiang Chih-chieh (titulaire d’un master en histoire de l’art de l’Université nationale des arts de Taipei), a écrit ses premiers morceaux après avoir vu les informations sur le typhon Morakot cette année-là. Au cours des seize années suivantes, le groupe a transformé la disparition des côtes de Taïwan, l’écologie marine, les forêts de montagne et les sources des rivières en albums sans voix, de la côte ouest (_Coastland_, 2013) au Pacifique de la côte est (_Light Shining Through the Sea_, 2015), jusqu’aux sources des rivières de la chaîne Centrale (_Seeking the Sources of Streams_, 2022, expédition de 15 jours et 120 kilomètres). Il a composé la musique du film japonais _A Man_ et a reçu le prix d’excellence pour la musique aux Japan Academy Film Prize. En 2025, _Gazing the Shades of White_ a pour la première fois poussé son terrain hors de Taïwan, suivant les glaciers au Groenland, en Islande et en Nouvelle-Zélande, avant de revenir à Xueshan pour chercher les traces laissées par d’anciens glaciers.",
-        "category": "people",
-        "href": "/fr/people/cicada-band",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 24,
+        "title": "El cómic taiwanés",
+        "desc": "Desde los reyes del cómic de la era dorada de los años 1970, Liu Hsing-chin y Ao Yu-hsiang, hasta 1991 cuando Cheng Wen conquistó Japón y se convirtió en el \"Tesoro de Asia\", pasando por Chi Chih-chung quien filosofía clásica en cómics con \"Zhuangzi Shuo\", y luego el Premio Golden Comic en 2010 y CCC Creative Collection en 2017 — el cómic taiwanés atravesó un período de declive bajo el embate del manga japonés y ahora está recuperando su propia voz creativa.",
+        "category": "art",
+        "href": "/es/art/taiwanese-comics-and-illustration",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 11,
         "image": ""
       },
       {
-        "title": "Constant & Change : « Un groupe ne tient pas par la persévérance, si c'est plus amusant, il se sépare » — Dix ans d'évolution",
-        "desc": "Groupe indépendant de quatre membres formé à Taipei en 2013, dont le nom fusionne le « tout coule » du philosophe grec Héraclite et la balle courbe du lanceur de baseball. Le chanteur ARNY, né aux Philippines, est un musicien de 20 ans d'expérience qui a joué de la bass dans Fire EX. ; la batteuse Gail souffre de polyarthrite rhumatoïde et ne peut toujours pas plier le pouce, pourtant elle continue de jouer ; le bassiste SionC a déclaré : « Un groupe ne tient pas par la persévérance, si c'est plus amusant, il se sépare. » De deux spectateurs à Legacy aux 5 000 personnes du Taipei Music Center en 2023, sans succès viral, sans titre phare — seulement dix ans d'évolution constante.",
-        "category": "people",
-        "href": "/fr/people/constant-and-change-band",
-        "date": "2026-06-28T09:52:29+08:00",
+        "title": "Wang Hsin-jen (Aluan): el artista generativo que genera paisajes con código y escribe la solidaridad en contratos inteligentes",
+        "desc": "Nacido en Taichung en 1982, máster en Arte de Nuevos Medios por la Universidad de las Artes de Taipéi. El 22 de agosto de 2021, su obra «Good Vibrations» se convirtió en la primera pieza de un artista taiwanés en Art Blocks, agotando 1.024 NFT en una hora. Al año siguiente se unió al equipo de seis artistas del «Proyecto Baoyue» de FAB DAO, creando la primera estructura asiática de regalías sostenibles que inscribe la solidaridad en un contrato inteligente. Su obra abarca Art Blocks, Verse.works, fxhash y Tezos: expuso «Chaos Culture» en Art Basel Hong Kong, colaboró con C-LAB en la instalación sonora inmersiva «Haodou», la serie Polypaths fue adquirida por el Museo Nacional de Taiwán, y su trabajo más reciente de 2026, inkField, se desarrolló en colaboración con Claude Code, dejando la vacilación y las pausas humanas dentro del sistema generativo.",
+        "category": "art",
+        "href": "/es/art/wang-hsin-jen-artist",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 15,
         "image": ""
       },
       {
-        "title": "David Wong : la chanson écrite en deux ou trois heures qu'il a passé la seconde moitié de sa vie à vouloir oublier",
-        "desc": "Dans un gymnase de Hawaï en 1979, David Wong, quinze ans, assiste à un concert de heavy metal, puis rentre chez lui apprendre seul la guitare offerte par un professeur. Il parle mal chinois ; il s'appuie sur Yao Jo-lung et Chen Chia-li pour transformer ses sentiments en paroles, et se fait une place dans la musique mandopop avec sa voix rauque. 〈你把我灌醉〉 est écrite en deux ou trois heures, mais il passe la seconde moitié de sa vie à vouloir l'oublier. Il appelait d'ordinaire Chang Hsueh-liang « grand-père maternel » ; en stricte généalogie, il était en fait son petit-neveu par alliance maternelle. Toute sa vie, il a voulu échapper à la définition par sa lignée et par une chanson culte ; le monde, pourtant, ne se souvient de lui qu'à travers ces deux choses.",
-        "category": "people",
-        "href": "/fr/people/david-wong",
-        "date": "2026-06-28T09:52:29+08:00",
+        "title": "Música independiente taiwanesa: cómo una disquería que no podía pagar sueldos le abrió los oídos a una isla",
+        "desc": "Desde la apuesta de asumir Crystal Records con una deuda de 300.000 dólares taiwaneses, hasta No Party for Cao Dong agotando su primera tirada en una cafetería. Treinta y cinco años de música independiente taiwanesa no son una historia de revancha, sino una larga apuesta de un grupo de personas que insistió en hacer que “las voces no vistas fueran escuchadas”",
+        "category": "music",
+        "href": "/es/music/indie-music-scene",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 14,
         "image": ""
       },
       {
-        "title": "Lo Ta-yu : il a chanté les déracinés de Taïwan, mais a lui-même déménagé dix-neuf fois et cherche encore sa route",
-        "desc": "Dans les années 1970, dans la salle de dissection anatomique d'une faculté de médecine à Taichung, un étudiant en radiologie se cachait pour chanter, parce que « l'écho y était très bon, et personne ne saurait que je chantais ». Plus tard, il écrivit « La petite ville de Lukang », « L'Orphelin d'Asie » et « Perle de l'Orient », posant pour toute une génération la question : « Qui suis-je ? » Mais cet homme qui a chanté toutes les formes du déracinement a lui-même quitté Taipei pour New York, Hong Kong puis Pékin, déménageant dix-neuf fois en vingt-neuf ans. À soixante-dix ans, il disait n'être qu'un « survivant remarquable ».",
-        "category": "people",
-        "href": "/fr/people/luo-dayou",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Stefanie Sun : 1 voix d'avance sur Jay Chou, 1 000 chansons recréées par IA, elle répond « Être moi-même suffit »",
-        "desc": "Le 9 juin 2000, une jeune Singapourienne fait ses débuts à Taïwan avec « Tian Hei Hei » (天黑了), son premier album vendu à 330 000 exemplaires, remportant la première place des ventes annuelles. L'année suivante, aux Golden Melody Awards, elle bat Jay Chou d'une seule voix pour le prix de meilleure nouvelle artiste ; quatre ans plus tard, avec l'album « Stefanie », elle devient la première artiste de l'histoire des Golden Melody à remporter à la fois le prix de meilleure nouvelle artiste et celui de meilleure chanteuse. En 2023, une IA reproduit sa voix pour interpréter plus de 1 000 chansons. Sa réponse tient en une phrase : « Être moi-même, c'est déjà suffisant. »",
-        "category": "people",
-        "href": "/fr/people/stefanie-sun",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Waa Wei : de « WaWa », chanteuse de Natural Q, à deux fois meilleure chanteuse mandarin aux Golden Melody Awards, vingt ans à ne vouloir qu'être entendue",
-        "desc": "En 2003, elle est « WaWa », la voix de Natural Q et de « C'est La Vie ». En 2006, une blessure aux cordes vocales la contraint à s'envoler en solo sous le nom de « Waa Wei ». En 2020 puis en 2025, elle remporte deux fois le prix de la meilleure chanteuse mandarin aux Golden Melody Awards. De « Bi Ge Suo Zai », élégie quadrilingue pour Lovely Li, à la version enfantine d'« Ophelia » comme acte de résistance féminine, jusqu'à « Zhen Zhu Xing » (Peine de perle), où le courage naît de la douleur — pendant vingt ans, elle a tracé dans la pop mandarine un chemin contre-intuitif : rendre la voix plus célèbre que le visage, faire durer l'œuvre plus longtemps que la personne.",
-        "category": "people",
-        "href": "/fr/people/waa-wei-singer",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "justfont et le développement de la typographie taïwanaise : sous le nom d'un thé taïwanais, ramener les créateurs de polices à la lumière",
-        "desc": "Le 8 septembre 2015, la police « Jin Xuan » de justfont atteignait son objectif de 1,5 million NT$ en 76 minutes sur flyingV ; 7 667 personnes ont finalement investi 25 930 099 NT$ pour une police qui n'existait pas encore. Tout le monde lisait leurs caractères chaque jour, mais le marché avait failli ne pas pouvoir faire vivre une seule entreprise de fonderie. De la police MingLiU de DynaComware aux caractères en plomb de la rue Taiyuan, en passant par Lin Xia qui s'est formée en peignant des Bouddhas, c'est l'histoire de Taïwan ramenant ses créateurs de polices à la lumière du jour.",
-        "category": "technology",
-        "href": "/fr/technology/justfont-and-taiwan-typography",
-        "date": "2026-06-19T11:09:34+08:00",
-        "readingTime": 18,
-        "image": "/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp"
-      },
-      {
-        "title": "Logement national et justice résidentielle : ces logements bon marché construits par l'État, et l'ascenseur patrimonial qu'ils ont finalement créé",
-        "desc": "En 1985, les logements de Chenggong, à 67 000 dollars taïwanais le ping, ne trouvaient pas preneur ; un ancien chef de quartier réunit 400 000 dollars taïwanais d'apport initial pour en acheter un. Quarante ans plus tard, à la même adresse, le prix approche le million par ping. Le logement national devait être un outil pour « aider la population à pouvoir acheter un logement », mais il n'a jamais été doté d'un sas de récupération de la plus-value : la subvention publique est finalement devenue le patrimoine privé de ceux qui avaient acheté tôt. En 2026, Taoyuan remet ce sas en place, ce qui revient à reconnaître l'erreur du logement national.",
-        "category": "society",
-        "href": "/fr/society/public-housing-justice",
-        "date": "2026-06-10T12:21:10+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "Za School: A Free Exhibition Funded by Bankrupt Savings, Opened by the Vice President 11 Years Later",
-        "desc": "In 2015, during the Huashan 1914 event, Su Yang-chih used 1.5 million in profit from his design company to host the 'Not Quite Obedient Education Festival,' ultimately losing 7 million. Eleven years later, Za School moved into the Taipei International Convention Center at Yuanshan Flower Expo to co-host IDEC, and rebranded as 'EDit' to settle in the Taoyuan Convention Center. This Taiwan case, which grew from a free, rebellious exhibition into Asia's largest education expo, is most interesting not for its scale, but for whether its 'not quite obedient' spirit has been compromised after growing so large.",
-        "category": "society",
-        "href": "/fr/society/za-school",
-        "date": "2026-06-10T12:21:10+08:00",
+        "title": "El oso negro de Taiwán",
+        "desc": "La letra V blanca en su pecho es su firma, y la batalla por su conservación aún no ha terminado",
+        "category": "nature",
+        "href": "/es/nature/taiwanese-black-bear",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "Élections locales unifiées de 2026 : test de résistance des infrastructures démocratiques à l'ère de la guerre cognitive par l'IA",
-        "desc": "Le 28 novembre 2026, les 22 municipalités et comtés de Taïwan ouvriront simultanément leurs bureaux de vote pour élire neuf types de fonctions publiques, soit plus de 11 000 élus locaux et représentants. Cette élection ne ressemble à aucune de ses prédécesseurs — la différence ne réside pas dans les candidats, mais dans le contexte où elle se déroule : escalade de la guerre cognitive par l'IA au niveau étatique par la RPC, plus de 123 sites d'information contrefaits, et l'inclusion des désinformations générées par l'IA parmi les quatre axes prioritaires de contrôle du parquet. Cet article n'est pas un guide électoral : c'est une analyse du positionnement historique et des pressions structurelles de ce scrutin.",
-        "category": "politics",
-        "href": "/fr/politics/2026-local-elections-taiwan",
-        "date": "2026-06-10T12:21:10+08:00",
-        "readingTime": 16,
+        "title": "Lee Ju-eun",
+        "desc": "Desde el fenómeno de la \"diosa de la IA\" hasta su apuesta total por desarrollarse en Taiwán, su trayectoria ha reescrito la imaginación sobre la permanencia de animadoras coreanas en la Liga Profesional de Béisbol de Taiwán.",
+        "category": "people",
+        "href": "/es/people/lee-ju-eun",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 10,
         "image": ""
       },
       {
-        "title": "Historique du seuil du droit de vote : de 20 à 18 ans, vingt ans de révision constitutionnelle inachevée",
-        "desc": "Le 26 novembre 2022 à seize heures, les agents des bureaux de vote et de dépouillement de tout le pays ont commencé à ouvrir les urnes du référendum de révision constitutionnelle — c'était la première fois, depuis que Taïwan a adopté la procédure de révision constitutionnelle par référendum en 2005, qu'un projet de révision constitutionnelle parcourait l'ensemble du processus. 5,64 millions de voix pour, 5,02 millions contre, un taux d'approbation de 53 %, mais le seuil du référendum de révision constitutionnelle étant fixé à « la moitié du total des électeurs = 9,62 millions de voix favorables », il manquait 3,97 millions de voix pour le franchir. Cet article retrace le parcours depuis l'article 130 de la Constitution lors de sa promulgation en 1947 jusqu'au référendum de révision constitutionnelle échoué de 2022, documentant les raisons structurelles pour lesquelles le seuil d'âge du droit de vote à Taïwan n'a pas changé en soixante-quinze ans.",
-        "category": "politics",
-        "href": "/fr/politics/voting-rights-threshold-history",
-        "date": "2026-06-10T12:21:10+08:00",
+        "title": "Wang Chi-lin y Lee Yang (la dupla Lin-Yang)",
+        "desc": "De compañeros de secundaria a medallistas olímpicos: la dupla Lin-Yang venció a China en dos sets corridos en 34 minutos y obtuvo la primera medalla de oro olímpica en la historia del bádminton taiwanés",
+        "category": "people",
+        "href": "/es/people/lin-yang-duo-taiwan-badminton-champions",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "Période de domination Qing",
-        "desc": "De 1683 à 1895, la dynastie Qing a gouverné Taïwan pendant environ 212 ans, passant d'une administration passive à une construction active, posant les bases de la division administrative moderne de Taïwan et de la société han.",
-        "category": "history",
-        "href": "/fr/history/qing-dynasty-rule",
-        "date": "2026-05-25T07:49:49+08:00",
-        "readingTime": null,
+        "title": "Park Sung-eun",
+        "desc": "De invitada de intercambio a miembro oficial de los Fubon Angels, su rápida adaptación y solidez escénica la han convertido en la representante de la nueva generación de las cinco pilares del apoyo coreano.",
+        "category": "people",
+        "href": "/es/people/park-sung-eun-actress",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 8,
         "image": ""
       },
       {
-        "title": "Hsinchu : la cité de bambou de Zhuqian plantée en 1733, berceau de TSMC en 1980",
-        "desc": "En 1733, onzième année du règne de Yongzheng, le sous-préfet de Tamsui Xu Zhimin planta des bambous épineux tout autour de Zhuqian, érigant une muraille de terre circulaire de 1 408 mètres de circonférence. En 1829, la cité de pierre et brique fut achevée ; la porte orientale Yingximen se dresse encore aujourd'hui au bord du fossé. 247 ans plus tard, le 15 décembre 1980, Chiang Ching-kuo coupa le ruban rouge du premier parc scientifique de Taïwan, à 5 km de Yingximen. Entre 1953 et 1974, 148 membres de l'Escadrille des Chauves-souris noires décollèrent de cette cité du vent pour des missions de reconnaissance en Chine continentale, sans jamais revenir. Cette municipalité provinciale de 450 000 habitants a porté le front de la Guerre froide, abrité la plus ancienne cité han du nord, deux universités d'élite et le point de départ de 90 % des puces haut de gamme mondiales. Le surnom de « cité du vent » est poétique, mais toutes les industries de cette ville sont liées au vent.",
-        "category": "geography",
-        "href": "/fr/geography/hsinchu-city",
-        "date": "2026-05-25T07:49:49+08:00",
-        "readingTime": 17,
+        "title": "Empresas taiwanesas: Giant Manufacturing",
+        "desc": "De esclava de fabricación por encargo abandonada por gigantes estadounidenses a un imperio invisible que establece los estándares técnicos globales de la bicicleta",
+        "category": "economy",
+        "href": "/es/economy/giant-manufacturing-taiwan-bicycle-empire",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": 15,
         "image": ""
       },
       {
-        "title": "Les cinq grands reliefs et la structure géographique de Taïwan : d'une île de montagnes à de plaines",
-        "desc": "Explorez la structure géographique unique de Taïwan, de la Chaîne centrale aux plaines de l'ouest, et découvrez la diversité des reliefs de cette île",
-        "category": "geography",
-        "href": "/fr/geography/taiwan-five-major-landforms-and-geographic-structure",
-        "date": "2026-05-25T07:49:49+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Les parcs scientifiques de Taïwan : le pari d'une rizière qui est devenu l'artère vitale du monde, mais aussi son talon d'Achille",
-        "desc": "En 1979, à Jinshanmian, Hsinchu, Ho Yi-tzu, un ingénieur revenu de chez IBM à Taïwan, fit surgir le premier parc scientifique d'Asie au milieu d'une rizière. Quarante-cinq ans plus tard, le chiffre d'affaires annuel des parcs de Hsinchu, du Sud et du Centre dépasse 5,8 billions de dollars taïwanais, et les puces les plus avancées du monde sont produites en série dans ces trois sites. Mais le plus puissant talisman de cette île est aussi son point le plus fragile : une sécheresse, une panne d'électricité ou une carte géopolitique peuvent suffire à suspendre le souffle de toute la chaîne d'approvisionnement mondiale.",
-        "category": "technology",
-        "href": "/fr/technology/science-park-development",
-        "date": "2026-05-25T07:48:04+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "Keelung : le port le plus proche de Taipei, celui que Taipei voit le moins",
-        "desc": "À quatre heures du matin, le marché aux poissons de Kanziding résonne encore des cris des enchères. Les criées en hoklo fixent les prix, et en quelques secondes un panier de poisson passe des bateaux de pêche de Hualien, Yilan et Badouzi aux restaurants japonais de l'est de Taipei. En 1626, les Espagnols plantent leur drapeau sur l'île de Hoping ; en 1875, Shen Baozhen transforme « Jilong » en « Keelung », « base prospère » ; en 1984, ce port est le septième port à conteneurs du monde. Puis trois choses se produisent simultanément : le port de Kaohsiung le dépasse, l'aéroport de Taoyuan ouvre, le bassin minier s'effondre. Aujourd'hui 360 000 personnes vivent ici, 39 % font la navette vers Taipei pour travailler. Taipei voit le déclin ; la mer voit un port qui n'a jamais quitté sa position.",
-        "category": "geography",
-        "href": "/fr/geography/keelung-city",
-        "date": "2026-05-25T07:47:04+08:00",
+        "title": "Empresa taiwanesa: TSMC",
+        "desc": "Morris Chang dejó Texas Instruments a los 54 años y fundó TSMC a los 56, tras escapar tres veces de conflictos armados y vivir en seis ciudades durante sus primeros dieciocho años. Treinta y ocho años después, el 3 de marzo de 2025, el presidente Trump señaló en la Casa Blanca al sucesor de Chang, C.C. Wei, y dijo: 'Él es el hombre más importante de esta sala.' En el primer trimestre de 2026, los ingresos trimestrales de TSMC alcanzaron los 35.900 millones de dólares. En una isla sacudida por tifones, con escasez de agua y electricidad, se construyó el corazón de la civilización digital de la humanidad; pero cuanto más grande se vuelve ese corazón, más incierta es la capacidad de esta isla para soportar su peso.",
+        "category": "economy",
+        "href": "/es/economy/tsmc",
+        "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 14,
+        "image": "/article-images/economy/tsmc-fabs-hsinchu-2020.webp"
+      },
+      {
+        "title": "Sistema Educativo de Taiwán",
+        "desc": "Taiwán tardó 30 años en intentar romper el sistema del examen único, pero el nuevo currículo de 2022 hizo que las inscripciones en clases de reexamen se duplicaran. Un experimento de isla sobre cómo equilibrar la presión académica con la equidad educativa: desde las 100.000 personas que repetían en la calle Nanyang en 1981, hasta el renacimiento de las academias en 2022.",
+        "category": "lifestyle",
+        "href": "/es/lifestyle/taiwan-education-system",
+        "date": "2026-07-17T19:43:15+08:00",
+        "readingTime": null,
         "image": ""
-      }
-    ],
-    "es": [
+      },
       {
         "title": "Li-ang: Lukang 1952, la pionera de la literatura feminista taiwanesa con \"La mujer del verdugo",
         "desc": "Nacida en abril de 1952 en Lukang, condado de Changhua, con el nombre de nacimiento Shih Shu-duan. En 1983, \"La mujer del verdugo\" se publicó en serie en el United Daily News, conmocionando el mundo literario taiwanés por su tratamiento de la violencia doméstica. En 1991 publicó \"El jardín de los senderos que se bifurcan\". En 2004 recibió la condecoración de Caballero de la Orden de las Artes y las Letras de Francia. Sus obras han sido traducidas al inglés, francés, alemán, japonés y otros idiomas, y es una de las escritoras taiwanesas con mayor reconocimiento internacional.",
@@ -1469,168 +1631,6 @@
         "href": "/es/people/aljenljeng-tjaluvie-abao",
         "date": "2026-06-28T09:52:29+08:00",
         "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "Chen Chien-chi: de la carrera de contabilidad al productor de los Tres Premios, la persona que eliminó la línea roja de la \"entonación extraña\" en la música pop en chino",
-        "desc": "Nacido en 1973 y graduado en contabilidad por la Universidad Tamkang, Chen Chien-chi es un \"autor ausente\" poco común en la historia de la música pop en chino: probablemente has escuchado las canciones de Waa Wei, LaLa Hsu, Hebe Tien y Julia Peng que él produjo, pero quizás no sabes quién es. Ganador del Mejor Productor de Álbum en la 32.ª edición de los Golden Melody Awards (2021), del Mejor Tema Original de Película en los Golden Horse Awards (2023) y del Tema Original de Serie de Drama en los Golden Bell Awards (2025), es un productor que pasó de ser pianista de teatro a la música pop.",
-        "category": "people",
-        "href": "/es/people/chen-chien-chi-music-producer",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 20,
-        "image": ""
-      },
-      {
-        "title": "Enno Cheng: escribir las canciones más honestas en el idioma más ajeno — siete años desde la revelación de su identidad en 2016 hasta los dobles premios en Taiyu en los Golden Melody Awards 2023",
-        "desc": "Enno Cheng (鄭宜農), nacida en 1987, hija del director de la Nueva Ola del cine taiwanés Cheng Wen-tang (鄭文堂). Debutó como actriz en 2007 con nominación a los Golden Horse; en enero de 2016 salió del armario en Facebook y se divorció el mismo mes; en 2022 lanzó su primer álbum íntegramente en taiyu, 《水逆》 (Mercury Retrograde); en los Golden Melody Awards 34 de 2023 ganó Mejor Cantante Femenina en Taiyu + Mejor Álbum en Taiyu. Ella dijo: \"Entonces usé directamente un idioma con el que no estaba tan familiarizada, para ponerme a mí misma en una posición muy difícil.\"",
-        "category": "people",
-        "href": "/es/people/cheng-i-nung",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "Cicada: dieciséis años de grabaciones de campo, desde Morakot en 2009 hasta los glaciares transhemisféricos de 2025",
-        "desc": "Cicada, formada en Taipéi en 2009, es una banda independiente enteramente instrumental, sin voces. Su pianista fundadora, Chiang Chih-chieh (maestría en Historia del Arte por la Universidad Nacional de las Artes de Taipéi), escribió sus primeras piezas tras ver las noticias sobre el tifón Morakot de aquel año. Durante los dieciséis años siguientes, convirtieron la desaparición de las costas de Taiwán, la ecología marina y los nacientes de arroyos en montañas y bosques en una serie de álbumes sin voces: desde la costa oeste (Coastland, 2013) y el Pacífico de la costa este (Light Shining Through the Sea, 2015) hasta los nacientes de la cordillera Central (Seeking the Sources of Streams, 2022, una expedición de 15 días y 120 kilómetros). Compusieron la banda sonora de la película japonesa A Man y recibieron el Premio a la Música Destacada de la Academia Japonesa de Cine. En 2025, Gazing the Shades of White llevó por primera vez su trabajo de campo fuera de Taiwán: siguió glaciares por Groenlandia, Islandia y Nueva Zelanda, y luego volvió a Xueshan para buscar las huellas dejadas por antiguos glaciares.",
-        "category": "people",
-        "href": "/es/people/cicada-band",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 24,
-        "image": ""
-      },
-      {
-        "title": "Constant & Change: \"Una banda no se sostiene por persistencia; si ya no es divertida, se deshace\" — Diez años",
-        "desc": "Banda independiente de cuatro miembros formada en Taipéi en 2013. El nombre combina el \"todo fluye\" del filósofo griego Heráclito con la bola curva del béisbol. La vocalista ARNY nació en Filipinas y es una músico con 20 años de carrera que tocó el bajo en Fire EX.; la baterista Xiaomi padece artritis reumatoide y su pulgar no puede flexionarse, pero sigue tocando la batería; el bajista Jinmao dice: \"Una banda no se sostiene por persistencia; si ya no es divertida, se deshace\". Pasaron de tocar ante dos personas en Legacy a 5,000 en el Centro de Música de Taipéi en 2023, sin viralidad, sin un éxito explosivo — solo una evolución constante durante diez años.",
-        "category": "people",
-        "href": "/es/people/constant-and-change-band",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "David Wong: la canción que escribió en dos o tres horas y pasó la segunda mitad de su vida intentando olvidar",
-        "desc": "En 1979, en un estadio de Hawái, David Wong, de 15 años, vio un concierto de heavy metal y volvió a casa para aprender solo con una guitarra que le había regalado un profesor. No hablaba muy bien chino; dependió de Yao Ruo-lung y Chen Chia-li para convertir sus sentimientos en letras, y con su voz ronca se abrió camino desde cero en la escena musical en mandarín. 〈You Made Me Drunk〉 fue escrita en dos o tres horas, pero él pasó la segunda mitad de su vida intentando olvidarla. Solía llamar “abuelo materno” a Chang Hsueh-liang, aunque por parentesco era en realidad su sobrino nieto materno: toda su vida quiso escapar de las definiciones impuestas por su linaje y por una sola canción mítica, pero el mundo lo recuerda precisamente por esas dos cosas.",
-        "category": "people",
-        "href": "/es/people/david-wong",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "Lo Ta-yu: el hombre que cantó el desarraigo de Taiwán, se mudó diecinueve veces y sigue buscando el camino",
-        "desc": "En la década de 1970, en la sala de disección anatómica de una facultad de medicina en Taichung, un estudiante de radiología se escondía para practicar canto porque «allí había muy buen eco y nadie sabría que estaba cantando». Más tarde escribiría <Lukang, la pequeña ciudad>, <El huérfano de Asia> y <La perla de Oriente>, y formularía por toda una generación la pregunta: «¿quién soy?». Pero este hombre que cantó el desarraigo acabó mudándose de Taipéi a Nueva York, Hong Kong y Beijing: diecinueve casas en veintinueve años. A los setenta, dijo que no era más que un «sobreviviente extraordinario».",
-        "category": "people",
-        "href": "/es/people/luo-dayou",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "No Party for Cao Dong: doce años desde la calle Caodong de Yangmingshan hasta dos Premios Golden Melody a Mejor Banda",
-        "desc": "En los Golden Melody 28 de 2017, una banda de cuatro integrantes que había financiado por cuenta propia 2.000 CD derrotó de manera abrumadora a Mayday y se llevó tres premios. Desaparecieron durante siete años, atravesando la muerte de la baterista Fanfan en 2021 en un hotel de cuarentena y dos años de silencio. En 2023 regresaron con The Clod; en los Golden Melody 35 de 2024 obtuvieron la triple corona de Álbum del Año + Mejor Álbum en Mandarín + Mejor Banda, y su mánager recibió los premios en su nombre: «No Party for Cao Dong nunca ha sido solamente las 4 personas que están sobre el escenario».",
-        "category": "people",
-        "href": "/es/people/no-party-for-cao-dong",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "Stefanie Sun: venció a Jay Chou por 1 voz, la IA replicó 1000 voces y ella dijo \"ser yo misma es suficiente\"",
-        "desc": "El 9 de junio de 2000, una joven de Singapur debutó en Taiwán con «Tian Hei Hei» (Cielo oscuro); su primer álbum vendió 330 000 copias y se coronó campeón de ventas del año. Al año siguiente, en los Premios Golden Melody, ganó al Mejor Artista Novel por un margen de 1 voz sobre Jay Chou; 4 años después, con «Stefanie», se convirtió en la primera persona en la historia de los Golden Melody en ganar tanto el Mejor Artista Novel como la Mejor Cantante Femenina. En 2023, la IA utilizó su voz para interpretar más de 1000 canciones, y su respuesta fue una sola frase: \"Ser yo misma es suficiente.\"",
-        "category": "people",
-        "href": "/es/people/stefanie-sun",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Waa Wei: de \"Wa Wa\", vocalista de Natural Q, a dos veces ganadora del Golden Melody a Mejor Vocalista Femenina en Mandarín — veinte años de querer solo ser escuchada",
-        "desc": "En 2003 fue \"Wa Wa\", la vocalista de Natural Q. En 2006, tras una lesión en las cuerdas vocales, reinició en solitario como \"Waa Wei\". En 2020 y 2025 ganó dos veces el Golden Melody a Mejor Vocalista Femenina en Mandarín. Desde \"Bi Ge Suo Zai\", su homenaje en cuatro idiomas a Lu Kaitong, hasta la resistencia femenina de la versión infantil de \"Ophelia\", pasando por \"Zhen Zhu Xing\", donde el álbum nace del dolor convertido en valentía: durante veinte años recorrió el camino más contra intuitivo de la música popular en mandarín: hacer que su voz fuera más famosa que su rostro, que sus obras vivieran más que su persona.",
-        "category": "people",
-        "href": "/es/people/waa-wei-singer",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "justfont y el desarrollo tipográfico en Taiwán: con el nombre de un té taiwanés, sacaron a la luz a quienes crean las letras",
-        "desc": "El 8 de septiembre de 2015 por la mañana, una tipografía llamada Jinxuan —nombrada en honor a un té taiwanés— apareció en flyingV y superó el umbral de 1,5 millones en 76 minutos; al cierre, 7.667 personas habían aportado 25,93 millones de dólares taiwaneses. Todo el país leía sus caracteres a diario, pero el mercado era tan pequeño que ninguna empresa fabricante de tipografías podía subsistir. Desde la MingLiU de DynaFont hasta los tipos de plomo de la calle Taiyuan, pasando por Lin Xia, que comenzó pintando estatuas de Buda, esta es la historia de cómo Taiwán sacó a la luz a quienes crean las letras.",
-        "category": "technology",
-        "href": "/es/technology/justfont-and-taiwan-typography",
-        "date": "2026-06-19T11:09:34+08:00",
-        "readingTime": 18,
-        "image": "/article-images/technology/justfont-jinxuan-flyingv-cover-2015.webp"
-      },
-      {
-        "title": "Za School: A Free Exhibition Founded with Blown Savings, Opened by the Vice President 11 Years Later",
-        "desc": "On May 9-10, 2015, Su Yang-chih used 1.5 million in profits from his design company to host the 'Not-So-Obedient Education Festival,' ultimately losing 7 million. Eleven years later, Za School moved into the Taipei International Convention Center (TICC) at the Huashan 1914 Cultural and Creative Park to co-host IDEC, and rebranded as 'EDit' to move into the Taoyuan Convention Center. This Taiwan case study, which grew from a free, rebellious exhibition into Asia's largest education fair, is most interesting not for its growth, but for whether its 'not-so-obedient' spirit has been compromised after becoming large.",
-        "category": "society",
-        "href": "/es/society/za-school",
-        "date": "2026-06-10T12:21:10+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Rainie Yang: From the Weather Girl Group Rainie to the Producer Column of 'Ambiguous 2025'",
-        "desc": "On September 9, 2025, Rainie Yang released 'Ambiguous 2025,' a self-produced track, on the same month and day as the 20th anniversary of the original 'Ambiguous.' This singer, who debuted in the BMG virtual girl group 4 in Love in 2000, saw 'Ambiguous' become a hit across the Chinese-speaking world in 2005, and suffered a burst facial capillary after singing 'Take Me Away' while suspended upside down three meters in the air at Hong Kong's Red Arena in 2012, has spent twenty-five years negotiating 'who defines me' on every stage—until the producer column finally bore her own name.",
-        "category": "people",
-        "href": "/es/people/rainie-yang",
-        "date": "2026-06-09T11:27:50+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "Chinese Taipei: The Ticket That Lets Taiwan Enter, But Won't Print Its Own Name",
-        "desc": "In the 1960 Rome Olympics, the Taiwanese delegation marched into the opening ceremony holding a white banner reading 'UNDER PROTEST,' the only opening ceremony protest in Olympic history. From Chiang Ching-kuo rejecting the IOC's offer of 'Taiwan,' Hsü Hsiang winning the lawsuit against the IOC, and the Lausanne Agreement bringing the Plum Blossom flag and anthem, to the 2018 referendum where athletes themselves voted to reject renaming—this name has remained unchanged for forty years, but those who are stuck between advancing and retreating on the podium are always the athletes who need it to compete, not the politicians arguing over the name.",
-        "category": "society",
-        "href": "/es/society/chinese-taipei",
-        "date": "2026-06-09T11:27:50+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "El período de gobierno Qing",
-        "desc": "De 1683 a 1895, la dinastía Qing gobernó Taiwán durante aproximadamente 212 años, pasando de una administración pasiva a una construcción activa, sentando las bases de la división administrativa moderna de Taiwán y de la sociedad de etnia Han.",
-        "category": "history",
-        "href": "/es/history/qing-dynasty-rule",
-        "date": "2026-05-25T05:49:38+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Resolución sobre el futuro de Taiwán: dos palabras, \"actualmente\", que sostuvieron veintisiete años",
-        "desc": "En 1999, Lin Chuo-shui añadió dos palabras, \"actualmente\", antes de \"nombre nacional: República de China\". El círculo de Chen Shui-bian no quedó nada contento. Esas dos palabras apaciguaron simultáneamente a los independentistas y a los votantes centristas, abriendo la puerta al primer cambio de partido en el poder en el año 2000. Veintisiete años después, los jóvenes taiwaneses consideran un sentido común que \"Taiwán ya es independiente de por sí\", pero desconocen que ese sentido común proviene de un documento deliberadamente ambiguo.",
-        "category": "history",
-        "href": "/es/history/resolution-on-taiwans-future",
-        "date": "2026-05-25T05:49:38+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "Bangka: el lugar más animado del Taipéi bajo dominio Qing, hoy el distrito con la edad promedio más alta de Taipéi",
-        "desc": "El templo Longshan de Bangka fue construido en 1738 con fondos reunidos por inmigrantes de las tres comarcas de Quanzhou; en 2026 cumple 288 años, 137 años más que la prefectura de Taipéi establecida por la corte Qing. La riña de Ting-hsia Chiao de 1853 empujó a los tong'aneses hacia Dadaocheng y sembró dos siglos de bifurcación en el norte de Taiwán. Tras el periodo colonial japonés pasó a llamarse Wanhua, en 1990 se estableció como distrito y en 2010 Doze Niu filmó Monga; su índice de envejecimiento es ahora de 320.78%, el más alto de toda la ciudad. En esta, la calle más antigua de Taipéi, la primera varilla de incienso del atrio del templo aún arde a las seis de la mañana.",
-        "category": "geography",
-        "href": "/es/geography/bangka",
-        "date": "2026-05-25T05:49:38+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "Ciudad de Hsinchu: la muralla de bambú de Zhúqiàn plantada en 1733, cuna de TSMC nacida en 1980",
-        "desc": "En 1733, undécimo año del reinado de Yongzheng, el magistrado de la prefectura de Tamsui, Xu Zhimin, plantó bambú espinoso (cìzhú) alrededor del asentamiento de Zhúqiàn, formando una muralla circular de tierra de 1408 metros de circunferencia. En 1829 se completó la muralla de ladrillo y piedra; la puerta oriental, Puerta Yingxi (迎曦門), sigue en pie junto al foso. 247 años después, el 15 de diciembre de 1980, Chiang Ching-kuo cortó la cinta roja del primer parque científico de Taiwán, a 5 kilómetros de la Puerta Yingxi. Entre 1953 y 1974, 148 miembros del Escuadrón Murciélago Negro (黑蝙蝠中隊) despegaron de esta ciudad del viento para realizar misiones de reconocimiento sobre China continental y nunca regresaron. Una ciudad subprovincial de 450 000 habitantes sostuvo el frente de la Guerra Fría, fue la ciudad han más antigua del norte, alberga dos universidades de élite y es el punto de partida del 90 % de los chips de gama alta del mundo. El apodo \"Ciudad del Viento\" suena literario, pero todas las industrias de esta ciudad están relacionadas con el viento.",
-        "category": "geography",
-        "href": "/es/geography/hsinchu-city",
-        "date": "2026-05-25T05:49:38+08:00",
-        "readingTime": 17,
-        "image": ""
-      },
-      {
-        "title": "Condado de Hsinchu: 235 años de fe en los Yi-min y el ingreso per cápita más alto de Taiwán, conviviendo junto al mismo río Touqian",
-        "desc": "En el invierno de 1788, en la ladera de una colina en Xinpu, se colocó la fundación de un Pabellón Bao-chong para enterrar conjuntamente a más de doscientos milicianos yi-min (voluntarios justos) de origen Hakka caídos durante la rebelión de Lin Shuangwen. 235 años después, el ritual rotativo de los quince lián-zhuang (alianzas de aldeas) del Festival de los Yi-min, celebrado cada año el vigésimo día del séptimo mes lunar, sigue en marcha. A 5 kilómetros de distancia, en la ciudad de Zhubei, el ingreso per cápita de 1.442 millones de dólares taiwaneses en 2025 se alzó con el primer lugar entre las 368 divisiones municipales de todo Taiwán, atraído por la fábrica de obleas de 2 nanómetros de la Fase II de Baoshan de TSMC. El 67.8% de la población del Condado de Hsinchu es de origen Hakka, la proporción más alta de Taiwán. Pero entre los 220,000 habitantes de Zhubei, sede del condado, los jóvenes Hakka que pueden permitirse comprar una casa en su propia tierra natal son cada vez menos.",
-        "category": "geography",
-        "href": "/es/geography/hsinchu-county",
-        "date": "2026-05-25T05:49:38+08:00",
-        "readingTime": 17,
         "image": ""
       }
     ]
