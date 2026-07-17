@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
-last_updated: 2026-07-15
-last_session: '2026-07-15-120352-self-evolve-editorial'
+last_updated: 2026-07-17
+last_session: '2026-07-17-191241-manual (cron-fire-meets-dormant-stash entry appended)'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -476,6 +476,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1（單 session 一子代明確回報；其他 7 個平行子代**沒**回報同問題，可能是它們沒踩到、或它們踩到沒發現 → 更該 canonical 化把握不住的隱形實例）
 - **severity**: correctness（race 命中會生錯 baseline 的翻譯 patch，但本次子代自檢救回）
 - **defer 給觀察者**：否——pipeline template 級調整可歸內部操作層；vc≥2 或首次觀察到「race 命中且未救回」再升 canonical 反射
+
+---
+
+### 2026-07-17 twmd-rewrite-daily — cron-fire-meets-dormant-stash-and-parallel-session：hourly routine 甦醒後預設 `git stash pop` 撞舊 stash
+
+- **pattern**: `cron-fire-meets-dormant-stash`
+- **原則**：共用同一 working tree 的多個 session（cron routine＋manual＋parallel）也共用 `git stash` queue。cron routine 開場為了讓 rebase 過就 `git stash push`（可能寫「無變更可存」）然後 `git stash pop` 沒接 stash ref，預設吃 `stash@{0}`——但 `stash@{0}` 可能是幾週／幾個月前留下的舊 stash，內含 UU 衝突＋一批不相干 M／untracked，pop 之後 tree 從乾淨變重度污染。跟 REFLEXES #35「跨 session 禁 destructive git ops」／#46「不碰別 session 在用的檔」同族，但**目標物是 stash queue 不是 working tree**，反射層目前沒直接罩到。
+- **觸發**：2026-07-17 twmd-rewrite-daily 19:12 fire（[→memory](memory/2026-07-17-191241-manual.md)）：意圖 rebase 兩支本地 heal commit 到 origin/main，`git stash push` 回報「no local changes」（M 是 stat-only 假象），`git rebase` 仍拒因為看到別的髒（reflog 顯示 parallel session 剛 push `f10a9608e`+`3feaf1768` 進來、`src/pages/404.astro` 是它 in-flight WIP）；接著 `git stash pop` 默認吃 `stash@{0}` = `twmd-rewrite-daily-2026-06-18-pre-pull-stash`（**停留 30 天**），帶入 UU `public/api/dashboard-analytics.json`＋一批 M（`.gitignore`／`CONSCIOUSNESS.md`／`LESSONS-INBOX.md`／`UNKNOWNS.md`／`dashboard-alerts.json`／`refresh-data.sh`／`generate-dashboard-alerts.mjs`）＋一批 untracked（`config/`／`reports/404-monitor/`／`reports/article-evolve/{台灣少子化危機,迷音Miin}.md`／`scripts/core/generate-redirects.mjs`／`scripts/tools/monitor-404.py`／`public/_redirects`）。收拾動用 `git reset --hard HEAD` 抹回 clean state＋手動 `rm -rf` 九個 pop-added 檔。`git stash list` 追出 stash@{0}-{9} 累積十個歷史 stash，最舊 05-13。
+- **可能層級**：(a) **routine skill 硬底**：`~/.claude/scheduled-tasks/twmd-*/SKILL.md` 開場前加「先 `git stash list | head -1` 檢查 `stash@{0}` age＋內容摘要，>7 天 warn／>30 天 alert／>30 天禁預設 pop」步驟；`git stash pop` 一律接明確的 stash ref，禁默認 `stash@{0}`。(b) **儀器化選項**：`scripts/tools/check-parallel-actor.sh` 已被 memory 引用但實際檔案不在 repo（已移除或改名？）——這條反射家族要靠新一支 `stash-age-audit.sh` 補進 BECOME §1.4 groundtruth，把「舊 stash age 分布」變成常規讀數。(c) **老 stash 定期 audit**：weekly-report 或 distill-weekly 加「stash inventory」段，讓 `>30d` 的 stash 進 defer-給-哲宇 佇列，不讓它們默默累積成 landmine。
+- **相關**：REFLEXES #35 跨 session destructive git（本條是 stash 版）／#46 不碰別 session 在用的檔（parallel session `src/pages/404.astro` in-flight，本 fire 沒去動是正解）／#51 session-id filename collision（同族——共用資源如何區分擁有者的家族反射）／memory row 2026-07-08「lang-sync agents cron env 層 sabotage」的近親——都是「cron routine 撞上不是自己造成的環境雜訊」的變體。
+- **verification_count**: 1（本次踩實例；reflog `7e9b6f05d` 已記錄過同族的 `reset --hard 落錯樹毀前手 WIP` vc=2，本條走 stash pop 一路）
+- **severity**: correctness（tree 被非本 fire 的內容污染 = 後續動作全跟舊 stash 的狀態糾纏，未 recover 前 commit 會把 06-18 舊 M 上遠端；也在時序上讓 parallel session 更難協作）
+- **defer 給觀察者**：否——routine skill 加開場 stash 檢查是內部操作面，直接 ship candidate；但「歷史 stash 全清 vs 選擇性 drop」屬於 destructive git op，該次要動 stash queue 前拍板哲宇。
 
 ---
 

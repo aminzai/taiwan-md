@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-15
-last_session: '2026-07-15-231142-twmd-data-refresh-pm'
+last_updated: 2026-07-17
+last_session: '2026-07-17-191241-manual (rewrite-daily fire, stash pop landmine defer)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -367,3 +367,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-16 | 222859-viz-evolution | 視覺化 v3.0：模組 17→19（席次弧＋小倍數）＋renderer 六語 VIZ_STRINGS 補翻譯頁中文毛邊＋viz gate 補 timeline/versus/stat；`dfb17c05a` | 宣稱住正文、行為住儀器與邊角：gate 形狀與 aria 簡體字同病 | [→](memory/2026-07-16-222859-viz-evolution.md) |
 | 2026-07-16 | 213425-highered-evolve | 高教擴張與退場 EVOLVE ship：v9 第二次全程 dogfood（11 stage 零跳檔／20 agent／驗證層抓 13 處）＋F4-F8 回寫 | 儀器不只防 agent 也防主編；攻防輪可裁決「規格錯、作品對」 | [→](memory/2026-07-16-213425-highered-evolve.md) |
 | 2026-07-17 | 164540-knowledge-base-evolve | 知識庫 EVOLVE ship（1780→6505 字／25 腳註／`c8e5ac9ea`）；哲宇 callout「沒嚴格照 pipeline」→ 重跑 Stage 1；逐腳註查核攔下研究材料自身的假數字 | 自我豁免會偽裝成專業判斷；結構閘門對「事實錯、形狀對」全盲 | [→](memory/2026-07-17-164540-knowledge-base-evolve.md) |
+| 2026-07-17 | 191241-manual (rewrite-daily) | `git stash pop` 吃 06-18 停 30 天舊 stash＋parallel in-flight；`reset --hard`＋surgical rm 復原，anti-rewrite 保守 | cron 開場先看 stash@{0} age；hourly × 飽和加 defer 閘門 | [→](memory/2026-07-17-191241-manual.md) |
