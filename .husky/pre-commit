@@ -125,6 +125,16 @@ if [ -n "$staged_md" ]; then
   fi
 fi
 
+# ═══ 翻譯 slug 一致性（2026-07-17 新增）═══
+# 翻譯檔名必須與 en sibling 相同（en slug = canonical）。巴別塔模型自作主張
+# 取名累積 98 檔漂移 → hreflang / 切換器死鏈土壤，歷史已清償（unify-translation-
+# slugs.py），本 gate 防再犯。
+if echo "$staged_md" | grep -qE '^knowledge/(ja|ko|es|fr)/'; then
+  if ! python3 scripts/tools/check-slug-consistency.py --staged; then
+    exit 1
+  fi
+fi
+
 # MANIFESTO §11 書寫節制 enforcement 已併入 SSOT pre-commit（prose-health
 # Tier 1-3 在 release-pr profile 跑全 sweep；HARD violations 也會在 SSOT
 # pre-commit gate 上方被擋）。2026-05-04 cleanup-1-4 刪除原 check-manifesto-11.sh

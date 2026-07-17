@@ -123,3 +123,7 @@
 /fr/technology/semiconductor-industry /fr/technology/taiwan-semiconductor-industry 301
 /ja/technology/semiconductor-industry /ja/technology/taiwan-semiconductor-industry 301
 /ko/technology/semiconductor-industry /ko/technology/taiwan-semiconductor-industry 301
+/ja/nature/taiwan-mei-yu-season /ja/nature/meiyu-stagnant-front 301
+/ko/nature/taiwan-mei-yu-season /ko/nature/meiyu-stagnant-front 301
+/es/nature/taiwan-mei-yu-season /es/nature/meiyu-stagnant-front 301
+/fr/nature/taiwan-mei-yu-season /fr/nature/meiyu-stagnant-front 301
