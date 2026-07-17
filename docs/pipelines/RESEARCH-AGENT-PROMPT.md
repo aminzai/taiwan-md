@@ -3,7 +3,7 @@ title: 'RESEARCH-AGENT-PROMPT'
 description: '研究 sub-agent 派發通用 prompt 模板 + 分部報告輸出模板 — copy → 填槽 → spawn，禁即興改寫（源頭解決 prompt 飄移）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.0'
+current_version: 'v1.1'
 last_updated: 2026-07-12
 last_session: '2026-07-12-135710-twmd-tea-panorama'
 upstream_canonical:
@@ -92,6 +92,7 @@ audience: 'orchestrator-session-spawning-research-agents'
 ## 輸出契約（違反任一條 = 收件 gate FAIL 退件）
 1. 【五段骨架】依序：§1 搜尋軌跡 / §2 Findings / §3 引語庫 / §4 negative findings / §5 質地素材。
 2. 【每來源一行】一個 finding 有 N 個來源就寫 N 行 `【來源】完整URL — 一句話標注`。
+   URL 必須與【來源】**同一行**——「【來源】」單獨成行、URL 放次行，收件儀器同行解析會判 0% 斷源退件（2026-07-16 高教 gapfill F8）。
    交叉驗證 = 被交叉的每一條 URL 各自列出。**禁止「WebSearch 綜合」「多來源一致」「多站交叉」
    這類 aggregate 標籤當來源行**。站名／bare domain（例：tbn.org.tw）不算來源——
    footnote 需要能 Ctrl-F 驗證的完整 URL。

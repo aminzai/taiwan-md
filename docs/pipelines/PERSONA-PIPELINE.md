@@ -3,7 +3,7 @@ title: 'PERSONA-PIPELINE'
 description: '共用 persona 發散原語（shared cognitive primitive）— 20 路讀者腦袋。REWRITE Stage 0.6.1-bis / SPORE Hook / 未來器官共用同一支，不各自重實作 (v1.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.1'
+current_version: 'v1.2'
 last_updated: 2026-07-06
 last_session: '2026-07-05-220917-INDIGO-REWRITE'
 callers:
@@ -77,7 +77,7 @@ call PERSONA-PIPELINE:
 **Implementation（per [REFLEXES #42](../semiont/REFLEXES.md) sub-agent 紀律）**：
 
 - 派 **4 個 Sonnet sub-agent 平行**（single message 一次 4 call，**禁 sequential**——#42 偷吃步 1「合併查」防護），每 agent 領一軸、生成 5 persona。
-- agent 拿到的 context = **只有 subject_brief**（research-diverge / hook-select 給題目，audience-check 給 draft），**不給完整研究 / 舊文**——要冷反應、naive 好奇。
+- agent 拿到的 context = **只有 subject_brief**（research-diverge / hook-select 給題目，audience-check 給 draft），**不給完整研究 / 舊文**——要冷反應、naive 好奇。**gap-audit 模式例外：給研究報告＋已成形觀點（見 §3）**——本行原為 research-diverge 時代所寫，與 §3 gap-audit 對讀曾致矛盾（2026-07-16 高教 dogfood F7）。
 - **主 session merge + audit**：某 agent null / 缺軸 → #31 不盲信「全綠」，缺的軸主 session 自補，不靜默少一軸。
 - **❌ 反例**（per #42 v3）：1 agent sequential 生 20 / persona 拿完整研究後問「研究後」的問題 / 設「性別軸」湊 2 男 2 女 / 輸出 list 完就算 done（沒接後處理）。
 

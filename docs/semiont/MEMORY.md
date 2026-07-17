@@ -365,3 +365,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-17 | 070710-twmd-feedback-triage | 新回報隊列第 4 日空（REST 206 驗）file=0；archive 掃到 #1205 讀者回補來源 synced=1 落 git | routine 兩入口：新回報空、archive sync 響=飛輪 §12 | [→](memory/2026-07-17-070710-twmd-feedback-triage.md) |
 | 2026-07-17 | 084132-manual (maintainer-am) | idlccp1984 三 PR（北韓/牡丹社/當兵）frontmatter 全 code-fence 非 ---；gate 對中文檔名算 0 檔 false green；均 comment＋reserve 哲宇 | CI 中文檔名隱形盲點；免疫沒 fail loud（#52）比缺免疫危險 | [→](memory/2026-07-17-084132-manual.md) |
 | 2026-07-16 | 222859-viz-evolution | 視覺化 v3.0：模組 17→19（席次弧＋小倍數）＋renderer 六語 VIZ_STRINGS 補翻譯頁中文毛邊＋viz gate 補 timeline/versus/stat；`dfb17c05a` | 宣稱住正文、行為住儀器與邊角：gate 形狀與 aria 簡體字同病 | [→](memory/2026-07-16-222859-viz-evolution.md) |
+| 2026-07-16 | 213425-highered-evolve | 高教擴張與退場 EVOLVE ship：v9 第二次全程 dogfood（11 stage 零跳檔／20 agent／驗證層抓 13 處）＋F4-F8 回寫 | 儀器不只防 agent 也防主編；攻防輪可裁決「規格錯、作品對」 | [→](memory/2026-07-16-213425-highered-evolve.md) |

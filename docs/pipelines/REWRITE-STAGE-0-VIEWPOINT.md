@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-0-VIEWPOINT'
 description: 'REWRITE v9 stage contract — Stage 0 觀點：模式識別 / spine 類型判定 / 素材萃取 / 拆除防火牆 / 觀點成型 HARD GATE'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.1'
+current_version: 'v9.2'
 last_updated: 2026-07-16
-last_session: '2026-07-16-newsroom-dogfood（v9.1：大罷免首跑 F1-F3 修正——AGENT PROMPT 補 contract 自身路徑、frontmatter 最小塊、{TOPIC_GUARDRAILS} 槽、完成三步驗收）'
+last_session: '2026-07-16-213425-highered-evolve（v9.2：高教 dogfood F4-F5——執行卡補委派分工行、Step 0.2 萃取清單落檔規則）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -21,14 +21,14 @@ upstream_canonical:
 
 ## 執行卡
 
-|                  |                                                                                                                              |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **職責**         | 判定模式（Fresh/Evolution/Merge/Boundary ＋ callout 旗標）、spine 類型，完成六核心問題＋≥20 探索的觀點成型                   |
-| **執行者**       | 主 session；觀點成型可派 1 Opus agent（callout case blind to errata）                                                        |
-| **INPUTS**       | （EVOLVE）舊文 `knowledge/{Cat}/{slug}.md`；`docs/editorial/RESEARCH.md`＋`RESEARCH-TEMPLATE.md` 全文；MANIFESTO §13         |
-| **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}.md` 開頭 §觀點成型 ＋ frontmatter `spine_type` / `viewpoint_formed: true`                 |
-| **GATES**        | `python3 scripts/tools/research-report-health.py reports/research/{YYYY-MM}/{slug}.md --stage 0`（hard_fail=0 才進 Stage 1） |
-| **context 預算** | 本檔 ＋ RESEARCH.md ＋（EVOLVE）舊文一篇                                                                                     |
+|                  |                                                                                                                                                                                                     |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **職責**         | 判定模式（Fresh/Evolution/Merge/Boundary ＋ callout 旗標）、spine 類型，完成六核心問題＋≥20 探索的觀點成型                                                                                          |
+| **執行者**       | 主 session；觀點成型可派 1 Opus agent（callout case blind to errata）                                                                                                                               |
+| **INPUTS**       | （EVOLVE）舊文 `knowledge/{Cat}/{slug}.md`；`docs/editorial/RESEARCH.md`＋`RESEARCH-TEMPLATE.md` 全文；MANIFESTO §13                                                                                |
+| **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}.md` 開頭 §觀點成型 ＋ frontmatter `spine_type` / `viewpoint_formed: true`                                                                                        |
+| **GATES**        | `python3 scripts/tools/research-report-health.py reports/research/{YYYY-MM}/{slug}.md --stage 0`（hard_fail=0 才進 Stage 1）                                                                        |
+| **context 預算** | 本檔＋（EVOLVE）舊文一篇；**委派 Step 0.6 時 RESEARCH.md／RESEARCH-TEMPLATE.md 由觀點 agent 端讀，主 session 最小讀＝本檔＋舊文**（v9.2，2026-07-16 高教 dogfood F4——比照 Stage 1A 執行卡的分工行） |
 
 ## AGENT PROMPT（觀點 agent，Opus ×1，v9.0 補齊薄殼）
 
@@ -78,6 +78,8 @@ SSODT 三讀者測試必須全過才落檔」；人物題可填立體群像提�
 - [ ] `research-report-health.py {report} --stage 0` exit 0
 
 ## HANDOFF（stage 完成時）
+
+> stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
 
 1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）
 2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
@@ -251,6 +253,11 @@ Step 0.2 萃取既有素材後**強制**分成三類：
 - 接力者 5 分鐘自檢題：讀完 entry 能否回答「我這篇要寫什麼、不寫什麼、邊界在哪裡」？
 
 ⚠️ **萃取完畢後，舊文不再被參考。只看事實清單進入後續 step。**
+
+**萃取清單落檔（v9.2）**：Stage 0 gate 通過後，主 session 把萃取清單＋問題標記 append 至
+research report 尾端 §舊文素材萃取（orchestrator-owned section，避免與觀點 agent 寫檔 race）。
+否則清單只活在觀點 agent prompt 的 {EVOLVE_ONLY} 槽裡，Stage 2 writer 讀 report 看不見
+（2026-07-16 高教 dogfood F5）。
 
 ### Step 0.2-bis: 拆除防火牆（Teardown Firewall）— callout-triggered EVOLVE 強制 🔥🧱
 
