@@ -115,7 +115,7 @@ AI 可以生產垃圾，也可以生產最高品質的知識。
 
 **鐵律：只改 `knowledge/`。永遠。**
 
-**2026-05-12 起架構強制執行**（admiring-montalcini-post-finale session）：`src/content/{zh-TW,en,ja,ko,fr,es}/` 已 `.gitignore`，不在 git 內。sync.sh 接進 `npm run prebuild` 第一步，CF Pages CI / 本地 dev / routine 都自動觸發。直接改 src/content/ 連 git 都進不去，鐵律從 self-discipline 升結構性物理約束。`src/content/config.ts`（Astro content collection schema）是唯一留在 git 的 src/content/ 檔案。完整背景：[reports/sync-architecture-evolution-2026-05-12.md](../../reports/sync-architecture-evolution-2026-05-12.md) v2.0。
+**2026-05-12 起架構強制執行**（admiring-montalcini-post-finale session）：`src/content/{zh-TW,en,ja,ko,fr,es}/` 已 `.gitignore`，不在 git 內。sync.sh 接進 `npm run prebuild` 第一步，GitHub Pages CI（actions/deploy-pages；CF 是前面的 DNS/CDN 層，2026-07-17 部署平台真相修正）/ 本地 dev / routine 都自動觸發。直接改 src/content/ 連 git 都進不去，鐵律從 self-discipline 升結構性物理約束。`src/content/config.ts`（Astro content collection schema）是唯一留在 git 的 src/content/ 檔案。完整背景：[reports/sync-architecture-evolution-2026-05-12.md](../../reports/sync-architecture-evolution-2026-05-12.md) v2.0。
 
 ### 7. 做了不記 = 沒做
 
