@@ -1,46 +1,46 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-17T23:10:38+08:00",
-    "zhCommitHead": "271b623c0",
+    "lastUpdated": "2026-07-18T00:35:40+08:00",
+    "zhCommitHead": "3c8273c04",
     "totalZh": 855,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 855,
-        "fresh": 822,
-        "stale": 25,
+        "fresh": 818,
+        "stale": 29,
         "metadata_stale": 7,
         "missing": 1,
         "orphan": 0
       },
       "ja": {
         "total_zh": 855,
-        "fresh": 813,
-        "stale": 26,
+        "fresh": 809,
+        "stale": 30,
         "metadata_stale": 7,
         "missing": 9,
         "orphan": 0
       },
       "ko": {
         "total_zh": 855,
-        "fresh": 812,
-        "stale": 26,
+        "fresh": 808,
+        "stale": 30,
         "metadata_stale": 7,
         "missing": 10,
         "orphan": 0
       },
       "es": {
         "total_zh": 855,
-        "fresh": 812,
-        "stale": 26,
+        "fresh": 808,
+        "stale": 30,
         "metadata_stale": 7,
         "missing": 10,
         "orphan": 0
       },
       "fr": {
         "total_zh": 855,
-        "fresh": 811,
-        "stale": 27,
+        "fresh": 807,
+        "stale": 31,
         "metadata_stale": 7,
         "missing": 10,
         "orphan": 0
@@ -3513,8 +3513,8 @@
       "zh": {
         "lastCommit": "4b6d28c5",
         "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:442f27209d04a396",
-        "bodyHash": "sha256:1dc11e21cef45412"
+        "contentHash": "sha256:e0c98384db7eafcc",
+        "bodyHash": "sha256:304683b37bf5c1ea"
       },
       "translations": {
         "en": {
@@ -3528,8 +3528,8 @@
           "translationLastModified": "2026-06-13T02:54:43+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→14)"
         },
         "ja": {
           "path": "ja/Economy/taiwan-uniform-invoice.md",
@@ -3542,8 +3542,8 @@
           "translationLastModified": "2026-06-13T02:54:43+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→14)"
         },
         "ko": {
           "path": "ko/Economy/taiwan-uniform-invoice.md",
@@ -3556,8 +3556,8 @@
           "translationLastModified": "2026-06-13T02:54:43+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→14)"
         },
         "es": {
           "path": "es/Economy/taiwan-uniform-invoice.md",
@@ -3570,8 +3570,8 @@
           "translationLastModified": "2026-06-13T02:54:43+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→14)"
         },
         "fr": {
           "path": "fr/Economy/taiwan-uniform-invoice.md",
@@ -3584,8 +3584,8 @@
           "translationLastModified": "2026-06-13T02:54:43+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→14)"
         }
       }
     },
@@ -17809,8 +17809,8 @@
       "zh": {
         "lastCommit": "4b6d28c5",
         "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:5a8bf0cfcaa7dbd2",
-        "bodyHash": "sha256:6f25b03f0ed1d8d2"
+        "contentHash": "sha256:a784f175842780b0",
+        "bodyHash": "sha256:dac36c26bd7a8760"
       },
       "translations": {
         "en": {
@@ -17824,8 +17824,8 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (43→20)"
         },
         "ja": {
           "path": "ja/Lifestyle/national-highway-system.md",
@@ -17838,8 +17838,8 @@
           "translationLastModified": "2026-07-17T20:06:47+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (43→20)"
         },
         "ko": {
           "path": "ko/Lifestyle/national-highway-system.md",
@@ -17852,8 +17852,8 @@
           "translationLastModified": "2026-07-17T20:06:47+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (43→20)"
         },
         "es": {
           "path": "es/Lifestyle/national-highway-system.md",
@@ -17866,8 +17866,8 @@
           "translationLastModified": "2026-07-17T20:06:47+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (43→20)"
         },
         "fr": {
           "path": "fr/Lifestyle/national-highway-system.md",
@@ -17880,8 +17880,8 @@
           "translationLastModified": "2026-07-17T20:06:47+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (43→20)"
         }
       }
     },
@@ -40158,8 +40158,8 @@
       "zh": {
         "lastCommit": "fb010188",
         "lastModified": "2026-06-07T19:42:30+08:00",
-        "contentHash": "sha256:5c3f4c327ba8e029",
-        "bodyHash": "sha256:12c31fa42e4be425"
+        "contentHash": "sha256:875c364eea49b0ab",
+        "bodyHash": "sha256:f81d182af0fecd8d"
       },
       "translations": {
         "en": {
@@ -40173,8 +40173,8 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→0)"
         },
         "ja": {
           "path": "ja/People/andre-chiang-taiwanese-culinary-innovator.md",
@@ -40187,8 +40187,8 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→0)"
         },
         "ko": {
           "path": "ko/People/andre-chiang-taiwanese-culinary-innovator.md",
@@ -40201,8 +40201,8 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→0)"
         },
         "es": {
           "path": "es/People/andre-chiang-taiwanese-culinary-innovator.md",
@@ -40215,8 +40215,8 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→0)"
         },
         "fr": {
           "path": "fr/People/andre-chiang-taiwanese-culinary-innovator.md",
@@ -40229,8 +40229,8 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (28→0)"
         }
       }
     },
@@ -67779,8 +67779,8 @@
       "zh": {
         "lastCommit": "dd39065b",
         "lastModified": "2026-06-10T17:45:23+08:00",
-        "contentHash": "sha256:413833a72961c88e",
-        "bodyHash": "sha256:9858a809538deaaf"
+        "contentHash": "sha256:d9c36763a498e158",
+        "bodyHash": "sha256:8fd7e68407d2d33d"
       },
       "translations": {
         "en": {
@@ -67794,8 +67794,8 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→16)"
         },
         "ja": {
           "path": "ja/Culture/taiwanese-sensibility.md",
@@ -67808,8 +67808,8 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→16)"
         },
         "ko": {
           "path": "ko/Culture/taiwanese-sensibility.md",
@@ -67822,8 +67822,8 @@
           "translationLastModified": "2026-06-11T01:09:58+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (32→16)"
         },
         "es": {
           "path": "es/Culture/taiwanese-sensibility.md",
@@ -67836,8 +67836,8 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (32→16)"
         },
         "fr": {
           "path": "fr/Culture/taiwanese-sensibility.md",
@@ -67850,8 +67850,8 @@
           "translationLastModified": "2026-05-17T06:12:59+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (32→16)"
         }
       }
     },

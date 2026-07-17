@@ -20,8 +20,8 @@ lastVerified: 2026-06-04
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/開放文化基金會.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:e2396069534b4e28'
+sourceCommitSha: 'c8e5ac9e'
+sourceContentHash: 'sha256:c4ab423af923a984'
 sourceBodyHash: 'sha256:429230fac9b89ba1'
 translatedAt: '2026-06-16T17:04:27Z'
 ---

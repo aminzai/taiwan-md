@@ -25,8 +25,8 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/台中市.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:c76a9448141070d4'
+sourceCommitSha: '8edb8f96'
+sourceContentHash: 'sha256:70bc4982eb0f5b56'
 sourceBodyHash: 'sha256:3689cbfc4a7bdf30'
 translatedAt: '2026-06-16T17:13:36Z'
 ---

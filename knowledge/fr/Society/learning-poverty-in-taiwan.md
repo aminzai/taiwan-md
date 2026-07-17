@@ -24,8 +24,8 @@ featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 translatedFrom: "Society/學習貧窮.md"
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:cb63d08cef0d55b9'
+sourceCommitSha: '9d671671'
+sourceContentHash: 'sha256:87b9bdce32cd9e14'
 sourceBodyHash: 'sha256:605da09515483b90'
 translatedAt: "2026-04-14T12:32:34+08:00"
 ---

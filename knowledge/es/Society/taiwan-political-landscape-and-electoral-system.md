@@ -5,14 +5,22 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '民主與政治'
-tags: ['sistema político', 'sistema electoral', 'semipresidencialismo', 'autonomía local', 'sociedad civil', 'democracia digital']
+tags:
+  [
+    'sistema político',
+    'sistema electoral',
+    'semipresidencialismo',
+    'autonomía local',
+    'sociedad civil',
+    'democracia digital',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣政治環境與選舉制度.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:db13674bd2e78f06'
+sourceCommitSha: 'dbaf2895'
+sourceContentHash: 'sha256:815fdbbdd8e6757e'
 sourceBodyHash: 'sha256:c04d648a91c00bf4'
 translatedAt: '2026-05-17T05:34:54+08:00'
 ---
@@ -23,7 +31,7 @@ translatedAt: '2026-05-17T05:34:54+08:00'
 
 ## I. Marco constitucional: separación de cinco poderes y sistema dual de jefes de gobierno
 
-La estructura gubernamental de Taiwán se deriva de la *Constitución de la República de China*, y tras siete enmiendas clave ha evolucionado hacia el actual **semipresidencialismo (Semi-Presidentialism)**, también conocido como sistema dual de jefes de gobierno.[^1] El presidente es elegido directamente por todos los ciudadanos cada cuatro años, responsable de la defensa nacional, la diplomacia y las relaciones con China continental, y posee la facultad de nombrar directamente al presidente del Yuan Ejecutivo (sin necesidad de aprobación del Yuan Legislativo). El presidente del Yuan Ejecutivo es nombrado por el presidente, y los titulares de los ministerios y agencias son nombrados por el presidente a propuesta del presidente del Yuan Ejecutivo; el Yuan Legislativo es responsable ante el Yuan Legislativo, y si este aprueba una moción de censura, el presidente del Yuan Ejecutivo debe dimitir. El Yuan Legislativo es un parlamento unicameral responsable de la revisión de leyes, la aprobación del presupuesto y la supervisión del gobierno.
+La estructura gubernamental de Taiwán se deriva de la _Constitución de la República de China_, y tras siete enmiendas clave ha evolucionado hacia el actual **semipresidencialismo (Semi-Presidentialism)**, también conocido como sistema dual de jefes de gobierno.[^1] El presidente es elegido directamente por todos los ciudadanos cada cuatro años, responsable de la defensa nacional, la diplomacia y las relaciones con China continental, y posee la facultad de nombrar directamente al presidente del Yuan Ejecutivo (sin necesidad de aprobación del Yuan Legislativo). El presidente del Yuan Ejecutivo es nombrado por el presidente, y los titulares de los ministerios y agencias son nombrados por el presidente a propuesta del presidente del Yuan Ejecutivo; el Yuan Legislativo es responsable ante el Yuan Legislativo, y si este aprueba una moción de censura, el presidente del Yuan Ejecutivo debe dimitir. El Yuan Legislativo es un parlamento unicameral responsable de la revisión de leyes, la aprobación del presupuesto y la supervisión del gobierno.
 
 El diseño constitucional incluye el Yuan Judicial, el Yuan de Exámenes y el Yuan de Control, formando una estructura de separación de cinco poderes. Sin embargo, en la práctica, Taiwán se ha ido acercando gradualmente al núcleo de la separación de poderes ejecutivo, legislativo y judicial. La abolición o ajuste de funciones de los Yuan de Exámenes y de Control ha sido un tema de debate constitucional a largo plazo en Taiwán, pero actualmente no hay ninguna propuesta formal de reforma constitucional en proceso. El debate académico sobre si el semipresidencialismo es adecuado para Taiwán también persiste: los constitucionalistas Wu Yushan y Lin Jiwen, entre otros, señalan que el estancamiento constitucional cuando el gobierno es minoría en el Congreso es uno de los problemas estructurales del semipresidencialismo.
 
@@ -55,7 +63,7 @@ El 13 de enero de 2024, las elecciones presidenciales y legislativas se celebrar
 
 Entre mayo y junio de 2024, la mayoría opositora en el Yuan Legislativo (Kuomintang + Partido Popular) impulsó la **Ley de Reforma del Congreso**, que incluía cláusulas controvertidas como la ampliación del poder de investigación del Congreso, un sistema de audiencias y preguntas directas al presidente en sus informes sobre la situación nacional, generando dudas sobre su constitucionalidad y desencadenando protestas ciudadanas masivas (Movimiento de los Pájaros Azules). La ley fue finalmente sometida a revisión de constitucionalidad por el presidente Lai Ching-te y la bancada del DPP, y el **25 de octubre de 2024 el Tribunal Constitucional emitió la Sentencia N.° 113-Xian-Pan-9**, declarando inconstitucionales múltiples cláusulas, conocida históricamente como "**113 Xian-Pan 9**".
 
-La crisis por vacantes de magistrados del Tribunal Constitucional fue el desafío constitucional más grave de esta etapa. En octubre de 2024, **7 de los 15 magistrados** del Tribunal Constitucional habían completado sus mandatos (incluyendo al entonces presidente Xu Zongli y al vicepresidente Cai Jiongtun). Lai Chingte nominó 7 candidatos sucesores en agosto de 2024, pero el Yuan Legislativo, con mayoría azul-blanca, los rechazó en su totalidad el 24 de diciembre de 2024, dejando al Tribunal Constitucional operando durante un largo período con solo 8 miembros. Posteriormente, el Congreso enmendó la *Ley de Procedimientos Constitucionales* elevando el umbral de cálculo del número total de magistrados, comprimiendo aún más el espacio operativo del Tribunal Constitucional y generando controversias posteriores sobre su eficacia constitucional.[^4]
+La crisis por vacantes de magistrados del Tribunal Constitucional fue el desafío constitucional más grave de esta etapa. En octubre de 2024, **7 de los 15 magistrados** del Tribunal Constitucional habían completado sus mandatos (incluyendo al entonces presidente Xu Zongli y al vicepresidente Cai Jiongtun). Lai Chingte nominó 7 candidatos sucesores en agosto de 2024, pero el Yuan Legislativo, con mayoría azul-blanca, los rechazó en su totalidad el 24 de diciembre de 2024, dejando al Tribunal Constitucional operando durante un largo período con solo 8 miembros. Posteriormente, el Congreso enmendó la _Ley de Procedimientos Constitucionales_ elevando el umbral de cálculo del número total de magistrados, comprimiendo aún más el espacio operativo del Tribunal Constitucional y generando controversias posteriores sobre su eficacia constitucional.[^4]
 
 En 2025, el DPP y organizaciones de la sociedad civil lanzaron una campaña de recall a gran escala, iniciando peticiones de recall contra varios legisladores de la oposición, en lo que se conoce históricamente como la "ola de recall". Múltiples casos de recall superaron el umbral de petición y entraron en fase de votación, convirtiéndose en la acción de recall simultánea más grande en la historia democrática de Taiwán, y poniendo nuevamente a prueba el diseño procedural del sistema de recall.[^5]
 
@@ -70,9 +78,13 @@ La resiliencia de la democracia taiwanesa proviene tanto del propio diseño de s
 ## Referencias
 
 [^1]: [Base de Datos Nacional de Legislación: Constitución de la República de China](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001) — Texto constitucional y enmiendas.
+
 [^2]: [Base de Datos Histórica de la Comisión Electoral Central](https://db.cec.gov.tw/) — Datos electorales y estadísticas de participación desde la década de 1980.
+
 [^3]: [Comisión Electoral Central: Elección del Decimosexto Presidente y Vicepresidente, 2024](https://db.cec.gov.tw/histQuery.jsp?voteCode=20240101A1&type=presMain) — Confirmación del 40.05% de votos para Lai Ching-te y escaños legislativos por partido.
+
 [^4]: [Comunicado del Tribunal Constitucional: Situación de los magistrados](https://cons.judicial.gov.tw/) — Confirmación de la expiración de mandatos de 7 magistrados en octubre de 2024 y las vacantes resultantes.
+
 [^5]: [g0v (Gobierno Cero)](https://g0v.tw/) — Tecnología cívica y herramientas de seguimiento de peticiones para la ola de recall de 2025.
 
 **Lecturas complementarias**

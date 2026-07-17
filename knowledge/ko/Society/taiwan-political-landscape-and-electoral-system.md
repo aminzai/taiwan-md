@@ -5,14 +5,22 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '民主與政治'
-tags: ['정치 체제', '선거 제도', '반대통령제', '지방 자치', '시민 사회', '디지털 민주주의']
+tags:
+  [
+    '정치 체제',
+    '선거 제도',
+    '반대통령제',
+    '지방 자치',
+    '시민 사회',
+    '디지털 민주주의',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣政治環境與選舉制度.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:db13674bd2e78f06'
+sourceCommitSha: 'dbaf2895'
+sourceContentHash: 'sha256:815fdbbdd8e6757e'
 sourceBodyHash: 'sha256:c04d648a91c00bf4'
 translatedAt: '2026-05-17T05:34:52+08:00'
 ---
@@ -70,9 +78,13 @@ translatedAt: '2026-05-17T05:34:52+08:00'
 ## 참고 문헌
 
 [^1]: [전국법규데이터베이스: 중화민국 헌법](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001) — 헌법 본문 및 개정 조항.
+
 [^2]: [중앙선거위원회 역대 선거 데이터베이스](https://db.cec.gov.tw/) — 1980년대 이후의 선거 자료 및 투표율 통계.
+
 [^3]: [중앙선거위원회: 2024년 제16대 대통령 부통령 선거](https://db.cec.gov.tw/histQuery.jsp?voteCode=20240101A1&type=presMain) — 라이칭더 득표율 40.05%, 각 정당 입법위원 석수 확인.
+
 [^4]: [헌법재판소 공고: 대법관 인사 현황](https://cons.judicial.gov.tw/) — 2024년 10월 7석 대법관 임기 만료 및 공석 상황 확인.
+
 [^5]: [g0v 영시정부](https://g0v.tw/) — 시민 기술 및 2025년 대규모 탄핵 소추 운동의 서명 추적 도구.
 
 **더 읽기**
