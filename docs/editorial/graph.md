@@ -3,9 +3,9 @@ title: 'graph.md — Taiwan.md 視覺化編輯指南'
 description: '文章內視覺化的 DNA 層 canonical：何時用哪種圖、怎麼做才好、模組語法、AI 可讀性、多語、視覺化檢查清單。'
 type: 'editorial-canonical'
 status: 'canonical'
-current_version: 'v2.0'
-last_updated: 2026-06-12
-last_session: '2026-06-12-225752-viz-evolution'
+current_version: 'v3.0'
+last_updated: 2026-07-16
+last_session: '2026-07-16-222859-viz-evolution'
 sister_docs:
   - 'EDITORIAL.md'
   - 'RESEARCH.md'
@@ -22,7 +22,7 @@ related:
 
 # graph.md — 視覺化編輯指南
 
-> **🖼️ 活範例（17 模組實際渲染長相）**：[視覺化模組型錄](/about/視覺化模組型錄)（`knowledge/About/視覺化模組型錄.md`）。本檔講「何時用 / 怎麼做 / 語法」，型錄頁讓你直接看到「長什麼樣」，兩者互為搭檔。
+> **🖼️ 活範例（19 模組實際渲染長相）**：[視覺化模組型錄](/about/視覺化模組型錄)（`knowledge/About/視覺化模組型錄.md`）。本檔講「何時用 / 怎麼做 / 語法」，型錄頁讓你直接看到「長什麼樣」，兩者互為搭檔。**模組數量的 SSOT 是本檔 §四**——下游（DNA / ANATOMY / WRITER-PROMPT / renderer 註解）一律寫「以 graph.md §四 為準」，不寫死數字（dna-audit §S2 計數寫死病）。
 >
 > 文章內「資料視覺化／視覺對比」的 canonical。寫文走 [REWRITE-PIPELINE](../pipelines/REWRITE-PIPELINE.md) Stage 2「視覺化思考」+ Stage 4「視覺化檢查」時讀本檔。
 >
@@ -59,7 +59,9 @@ related:
 | **量級人性化** 大數字讓人有感？     | **單位圖（1 符號=N）** / 大字卡                          | 切半個符號表小數                  | `tw-iso` / `tw-figure`                                                            |
 | **流向** 怎麼流動/轉換？            | Sankey / 漏斗                                            | 並排比較                          | （v3；先用 `tw-stack` 或表格替代）                                                |
 | **地理** 地理分布？                 | **縣市磚圖（等大磚塊，需標準化率值）** / choropleth      | 原始數量未標準化                  | `tw-tiles`（22 縣市佈局寫死，零形狀幻覺，[REFLEXES #61](../semiont/REFLEXES.md)） |
-| **階層/網絡** 結構/關係？           | tree / network                                           | 毛球圖（先過濾）                  | （少用，v3）                                                                      |
+| **席次組成** 議會裡誰佔幾席？       | **席次弧（半圓點陣，帶過半線）**                         | 圓餅（角度難比、無過半語意）      | `tw-arc`（v3.0 新；政黨沿列出順序成連續扇形楔）                                   |
+| **多組同型趨勢** 好幾組的同款變化？ | **small multiples（共用軸網格）**                        | 一張圖擠 N 條線（義大利麵圖）     | `tw-multiples`（v3.0 新；強制共用 y 值域，3-20 格）                               |
+| **階層/網絡** 結構/關係？           | tree / network                                           | 毛球圖（先過濾）                  | （少用，v4）                                                                      |
 | **單一關鍵數字** 這數字重要嗎？     | big number card（必帶脈絡）                              | 只放數字不放脈絡                  | `tw-figure` / `tw-stat`                                                           |
 | **質性/標註** 哪句話最重要？        | pull quote / annotated timeline / **【說明】方法盒**     | ~~word cloud~~                    | `tw-quote` / `tw-timeline` / `tw-source` / `tw-note`                              |
 
@@ -77,31 +79,34 @@ related:
 ## 三、怎麼做才好（每條都有好壞對照）
 
 1. **標題說重點，不說標籤**：✅「健保費用 10 年漲 43%，但佔薪資比例反降」 ❌「健保費用趨勢」。讀者只讀標題要能帶走 takeaway。
-2. **直接標籤 ＞ 圖例**：折線終點直接標名（`tw-line` 已自動）；不要讓眼睛在圖例和線之間跳。
+2. **直接標籤 ＞ 圖例**：折線終點直接標名（`tw-line` 已自動）；不要讓眼睛在圖例和線之間跳。進一步（Datawrapper 2024-26 主推）：annotation 短句裡的關鍵詞可以直接染該類別的色，讓標註「沉回圖裡」——文字色比類別色再深一階以保對比。
 3. **色彩三鐵律**：① 語意色（紅=危險綠=好）但 8% 男性紅綠色盲 → ② 用色盲友善盤（模組已用暖橘/冷青/綠 Okabe-Ito 系）③ **顏色不可是唯一編碼**（配文字/形狀）。對比 WCAG（圖形 3:1、文字 4.5:1）。
 4. **排序**：幾乎都該排序（大→小），除非固定類別（月份/年齡/年份保持自然序）。
 5. **誠實座標軸**：長條**必從 0**；折線可不從 0 但 `tw-line` 會把 y 軸上下限標出來讓讀者看見範圍。
 6. **data-ink**：刪 3D/陰影/多餘格線/重複圖例（Tufte）。模組已內建簡潔。
 7. **敘事型五層**（Taiwan.md 全用敘事型，不是探索型）：作者選好 takeaway / **一圖一重點**（一張圖在說兩件事就拆兩張）/ **annotation 是第一公民** / 漸進揭露 / 文字與圖協作（不是裝飾）。
 8. **無障礙 + 可信度**：
-   - 圖表（`tw-line`/`tw-slope`/`tw-stack`/`tw-tiles`/`tw-heatmap`）自動帶**資料表 fallback** + `aria-label`。
+   - 圖表（`tw-line`/`tw-slope`/`tw-stack`/`tw-tiles`/`tw-heatmap`/`tw-arc`/`tw-multiples`）自動帶**資料表 fallback** + `aria-label`；SVG 模組另帶 `<title>` 子元素（W3C SVG a11y 標配，v3.0）。
    - **每個資料模組標來源**：在 fenced block 加一列 `來源：機構，年份`（自動變來源 caption，所有模組通用）。
    - 取樣偏誤揭露；N<30 警示、N<10 不畫趨勢線；不確定性盡量揭露。
 9. **預設全部看得見（visible-by-default）**：重要資訊不藏在 hover / click / 捲動觸發後面。NYT 圖表組的結論：「如果你做了 tooltip，假設沒有人會看到它」；Datawrapper 拒絕出貨下拉選單。我們是靜態站，這條天生成立——把它當鐵律守住，不要想辦法繞。
 10. **強調 + 灰色脈絡**：一張圖在講「其中一個」的故事時，用 `*` 強調該列（`tw-bars`/`tw-slope`/`tw-dot` 支援），其餘列自動退灰當脈絡。比「全部都上色」更會講話（Datawrapper：context grey + 1-2 highlighted）。
 11. **【說明】與（註）公約**（報導者 convention，對應 error boundary = traceability）：數據段的計算方式用 `tw-note`（`說明`／`方法`）交代；發布後的更正用（`註`／`更正`）保留在原地，不抹掉。讀者看得到你怎麼算、你錯過什麼，是信任訊號不是污點。
 12. **多語標籤要留呼吸**：六語的標籤長度差很大（zh 2 字 ≈ ko 5 字母 ≈ fr 12 字母）。SVG 模組的端點標籤邊界是動態算的，但寫作時序列名仍盡量 ≤ 4 個漢字，磚圖/堆疊的類別名 ≤ 6 字。
+13. **不確定性誠實呈現**（民調／推估類數據，2026 選舉年必修）：點估必帶區間——`tw-dot` 三值列（`標籤 | 點估 | 下界 | 上界`）畫成點估＋區間帶；同段配 `tw-note`【說明】標注「這是什麼量＋信心水準＋n＋抽樣期間」。研究實證：傳統誤差棒助長誤讀，區間帶／分布形狀較誠實（Wilke, Fundamentals of Data Visualization ch.16）。**民調點估畫成確定值，是選舉報導最常見的誠實性失守**。
+14. **進場動畫是飾品，不是內容**：模組的 scroll-reveal（v3.0）只在 `@supports (animation-timeline: view())` + `prefers-reduced-motion: no-preference` 雙護欄內生效，預設狀態＝完全可見的終態。AI 爬蟲不捲動、Firefox stable 尚未支援——**內容可見性絕不依賴捲動動畫**（§三.9 visible-by-default 的動畫層延伸）。要「圖釘住、文字捲過」的版式，用 CSS sticky 為體、動畫為飾（The Pudding sticky stepper 的零 JS 版）。
 
 ---
 
-## 四、模組語法（17 個，` ```tw-* ` fenced block，`|` 分欄）
+## 四、模組語法（19 個，` ```tw-* ` fenced block，`|` 分欄）
 
-> **共通約定（v2.0，所有模組一致）**：
+> **共通約定（v3.0，所有模組一致）**：
 >
-> 1. **來源列**：任一列 `來源：…` / `資料來源：…` 自動抽成模組下方的來源 caption（**全部 17 個模組都支援**，v1.0 的 figure/versus/timeline 漏接已修）。
-> 2. **標題列**：資料模組（bars/stat/versus/timeline/heatmap/slope/dot/stack/pyramid/tiles/iso）第一列**不含 `|`** 就視為模組標題——照 §三.1 寫成斷言句。
-> 3. **強調列**：`tw-bars` / `tw-slope` / `tw-dot` 的標籤開頭加 `*` = 強調該列，其餘列自動退灰。
-> 4. 模組讀 tokens.css → 深色模式/RWD/字體自動。
+> 1. **來源列**：任一列 `來源：…` / `資料來源：…` 自動抽成模組下方的來源 caption（**全部模組都支援**）。**含數據的編輯模組（timeline/versus/stat）也必標來源**——2026-07-16 審計：被 viz-health gate 的模組來源缺失 0%、沒被 gate 的這三個 41-46%，同日已納入 gate。
+> 2. **標題列**：資料模組（bars/stat/versus/timeline/heatmap/slope/dot/stack/pyramid/tiles/iso/arc/multiples）第一列**不含 `|`** 就視為模組標題——照 §三.1 寫成斷言句。
+> 3. **強調列**：`tw-bars` / `tw-slope` / `tw-dot` 的標籤開頭加 `*` = 強調該列（`tw-multiples` 的群組名同理），其餘自動退灰。
+> 4. **config 列**家族（都不是資料列）：`單位：`（iso）、`基準：`（line）、`過半：`（arc）、`欄：`（multiples）。
+> 5. 模組讀 tokens.css → 深色模式/RWD/字體自動。UI 字串（來源前綴、磚圖表頭、aria）由 renderer 依頁面語言輸出六語（v3.0 `VIZ_STRINGS`），作者不用管。
 
 ### 📐 編輯模組（語意 HTML，天然 AI 可讀）
 
@@ -253,7 +258,7 @@ line1 標題（選填）；header `左時點 | 右時點`（恰 2 欄）；rows 
 ```
 ````
 
-每列 `標籤 | 值 | (註)` 或 `標籤 | 起值 | 迄值 | (註)`（兩值畫成區間箭頭）。**何時用**：看分布與離群值（共用軸是它跟 bars 的差別）；before→after 的多條目版本。
+每列 `標籤 | 值 | (註)` 或 `標籤 | 起值 | 迄值 | (註)`（兩值畫成區間箭頭）或 **`標籤 | 點估 | 下界 | 上界 | (註)`（v3.0 三值列＝民調式點估＋區間帶，值文字顯示「點估（下–上）」）**。**何時用**：看分布與離群值（共用軸是它跟 bars 的差別）；before→after 的多條目版本；帶抽樣誤差的民調／推估（配 §三.13 的【說明】標注）。
 
 **`tw-stack` 堆疊條** — 100% 組成跨列比較：
 
@@ -323,6 +328,40 @@ header `組欄名 | 左名 | 右名`；左右共用同一個比例尺（誠實�
 
 line1 `角標 | 欄1 | 欄2…`；其餘 `列標 | v1 | v2…`。**何時用**：地區×指標、年×類別的矩陣比較。
 
+**`tw-arc` 席次弧**（v3.0） — 半圓點陣議會圖（每席一點，政黨成連續扇形楔）：
+
+````
+```tw-arc
+2024 立法院席次：三黨不過半（113 席）
+過半：57
+國民黨 | 52
+民進黨 | 51
+台灣民眾黨 | 8
+無黨籍 | 2
+來源：中央選舉委員會
+```
+````
+
+標題列（選填）＋選填 `過半：N` config（省略 = ⌊total/2⌋+1；填 0 = 不畫過半線）＋每列 `政黨 | 席次 | (註)`。過半線是虛線徑向標記＋標籤；legend 帶席次數（DOM 文字，AI 可讀）；自帶資料表 fallback。**何時用**：議會／委員會席次組成（立院 113 席、縣市議會）。**不是**首長選舉的圖（22 縣市長用 `tw-tiles`）。配色用中性五色盤——政黨官方色的映射是策展決策，涉政治色彩語意先過哲宇（§自主權邊界）。
+
+**`tw-multiples` 小倍數網格**（v3.0） — 多組同型迷你折線，強制共用 y 值域：
+
+````
+```tw-multiples
+六都高齡化率的十年爬坡（65 歲以上占比，%）
+欄：年 | 占比
+--- 台北
+2014 | 14.0
+2024 | 24.18
+--- *高雄
+2014 | 11.5
+2024 | 20.79
+來源：內政部戶政司
+```
+````
+
+標題列＋選填 `欄：x名 | 值名`（進資料表表頭）＋`--- 群組名` 分隔各組（`*` 前綴 = 強調該組，其餘退灰）。**全部群組共用同一個 y 值域**（small multiples 鐵律：不共軸就不可比），每格終點直接標最後值（direct labeling）。**何時用**：3-20 組的同款趨勢比較（22 縣市各自的時序、多屆選舉）；>20 組先聚合，<3 組改 `tw-line` 多序列或 `tw-versus`。
+
 ---
 
 ## 五、多語（三層分離，babel 不碰幾何）
@@ -336,12 +375,14 @@ viz 文字
 
 寫作時把「會被讀的文字」（標籤、標題、說明、來源）寫成自然語言，babel 翻譯時碰到的是文字列，幾何（數字）原樣保留。**這是相對 Datawrapper（六語要 duplicate 6 份）的結構性優勢。**
 
+v3.0 補上第四層：**renderer UI 字串也分語言**——來源 caption 前綴、磚圖表頭（縣市/數值）、fallback aria（方格圖/縣市資料地圖）、腳註 aria 由 `VIZ_STRINGS` 六語表依頁面語言輸出（v2 之前一律中文，翻譯頁有一圈中文毛邊）。`tw-tiles` 的縣市名正規化同步強化：EN 去 ` City/County` 後綴、JA `県`→`縣`——2026-07-16 審計發現 EN/JA 譯版磚圖曾因對不上而必然退化成 bars。
+
 ---
 
 ## 六、AI 可讀性（sovereignty 落地，逐項自檢）
 
 1. **數據在初始 HTML**（模組都是 build-time 生成的 semantic HTML，✅）。
-2. **圖表帶資料表 fallback**（`tw-line`/`tw-slope`/`tw-stack`/`tw-tiles` 自動 `<table class="tw-sr-only">`；`tw-heatmap` 本身是 table；`tw-dot`/`tw-pyramid`/`tw-iso` 的值就是 DOM 文字，✅）。
+2. **圖表帶資料表 fallback**（`tw-line`/`tw-slope`/`tw-stack`/`tw-tiles`/`tw-arc`/`tw-multiples` 自動 `<table class="tw-sr-only">`；`tw-heatmap` 本身是 table；`tw-dot`/`tw-pyramid`/`tw-iso` 的值就是 DOM 文字，✅）。**這不是無障礙補丁，是 AI 提取層**：2025-26 研究實證多模態 LLM 從圖片重建數值不可靠，文字節點才可靠——「數據進 DOM」的紀律被外部研究背書。
 3. **`tw-figure` 的 caption / 圖表 title 寫完整詮釋**，不是「圖一」。aria-label 公式（Datawrapper/Cesal）：圖型 + 資料內容 + takeaway。
 4. **絕不寫「如上圖／如下圖」**，關鍵數值也寫進 prose 讓 LLM 可提取。
 5. **不用圖片型 viz / D3 / Canvas**（AI 黑洞）。
@@ -359,7 +400,7 @@ viz 文字
 **⑥ 行動裝置**：手機讀得懂（字不小、不擠）？（模組已 RWD，仍要 preview 看）
 **⑦ 整體敘事**：一圖一事？文圖協作不重複？只看圖+標題能帶走正確 takeaway？沒有元素會被誤讀成誤導？
 
-**自動閘門**：`python3 scripts/tools/article-health.py {file} --check=viz-health`（來源標註 / 「如上圖」AI-blind 指示語 / 圖表 table fallback）。進 `rewrite-stage-4` profile。
+**自動閘門**：`python3 scripts/tools/article-health.py {file} --check=viz-health`。v3.0 檢查面：來源標註（圖表模組＋**timeline/versus/stat**，2026-07-16 起）/ 「如上圖」AI-blind 指示語 / **結構檢查**（slope 恰 2 時點、line ≤3 序列、stack ≤5 類、waffle 加總 ≈100、pyramid 恰 3 欄、multiples 2-20 組、空資料列 malformed 偵測——寫錯欄位數 renderer 會靜默略過，這層在發布前把它叫出來）。default WARN；`rewrite-stage-4` profile 升 HARD。
 
 **像素閘門**（2026-06-12 儀器化）：`node scripts/tools/viz-shot.mjs`（dev server 跑著時對頁面上每個 tw-\* 模組逐元件截圖，light/dark/mobile 三變體，模組清單自動偵測）。產出的 PNG 要**逐張人眼看過**才算驗證完成。為什麼是鐵律：markup 存在 ≠ 視覺正確——v1.0 的 quote/heatmap 在 production 壞了六天而 curl 驗證全綠，因為當時只驗了 class 名存在沒看像素。**模組樣式 / renderer / 全站 prose CSS 變更必跑**（全站樣式改動會 cascade 進模組，像素層才看得到）。
 
@@ -384,29 +425,37 @@ viz 文字
 | 磚圖/地圖放原始數量        | 人多的縣市永遠最深，圖只是在畫人口             | 先標準化成率值（每人/每戶/%），`tw-tiles` 只收率值                              |
 | 群組長條拿來比總量         | 讀者沒辦法目測加總                             | 比總量改單條；比組成改 `tw-stack`                                               |
 | 圖例跟資料分兩處           | 眼睛在圖例和圖之間來回跳（legend-hunting）     | 直接標籤（模組內建：折線終點標名、堆疊段內標值、磚上寫數字）                    |
-| 多序列折線全上面積填色     | 面積互疊成一坨，誰蓋誰看不出                   | 面積只給單序列（模組已內建）；多序列要比就模組連發 small multiples              |
+| 多序列折線全上面積填色     | 面積互疊成一坨，誰蓋誰看不出                   | 面積只給單序列（模組已內建）；多序列要比改 `tw-multiples`                       |
 | SVG 字級跟著容器無限放大   | 320px 設計稿放到 720px 欄寬，軸標籤脹成 25px   | 圖表 SVG 上限 520px 置中（模組已內建）                                          |
+| 一張圖擠 5+ 條折線         | 義大利麵圖，線互相纏繞誰也讀不出               | `tw-multiples` 共用軸小倍數（一組一格）                                         |
+| 民調點估畫成確定值         | 45%±3% 的 ±3 被吃掉，點估讀成事實              | `tw-dot` 三值列（點估＋區間帶）＋ tw-note 標「什麼量＋信心水準＋n」             |
+| 選舉結果用面積 choropleth  | 花蓮台東的面積搶走視覺重量，六都縮成小點       | `tw-tiles` 等大磚；席次組成用 `tw-arc`                                          |
+| 內容藏在捲動動畫後面       | AI 爬蟲不捲動；Firefox stable 拿不到動畫       | 進場動畫只做飾品（@supports 漸進增強），預設終態全可見（§三.14）                |
 
 ---
 
-## 九、邊界 + v3 候選
+## 九、邊界 + v4 候選
 
 - **不是每篇都要有圖**。沒有適合的資料就誠實不加（避免 chartjunk）。REWRITE-PIPELINE Stage 2 只要求**評估過**視覺化候選，不要求硬塞。
 - **Hub 頁 / 短修正 / 純人物抒情文**：可不用。
+- **markdown 資料表 vs 模組的分界**（2026-07-16 審計，161 篇用表格是用模組的 3.2 倍）：**數值矩陣／趨勢／現況-目標類轉模組**（讀者要看形狀）；**質性對照／規格型錄留表格**（機型表、制度手法表——表格本身是一等視覺化，不是退路，Datawrapper 2025 使用數據第一名就是 table）。
 - **模組外的複雜需求**：退回 prose + 資料表，不硬幹重 JS。HARD 類型都有 EASY 替代：
 
-| 想要的          | 替代（現有模組）                                    |
-| --------------- | --------------------------------------------------- |
-| Sankey / chord  | `tw-stack`（兩階段流向）或 `tw-heatmap`（流量矩陣） |
-| 散佈圖          | `tw-heatmap`（分桶矩陣）或 prose + 表格；v3 候選    |
-| 直方圖          | `tw-bars`（分桶後）；v3 候選                        |
-| 網絡圖          | prose 關係描述 + `tw-versus`；少用                  |
-| 國會席次弧      | `tw-stack`（政黨占比）；v3 候選（elections 區）     |
-| small multiples | 同款模組連發（報導者 chart-pack 結構：一節一圖）    |
+| 想要的          | 替代（現有模組）                                                        |
+| --------------- | ----------------------------------------------------------------------- |
+| Sankey / chord  | `tw-stack`（兩階段流向）或 `tw-heatmap`（流量矩陣）                     |
+| 散佈圖          | `tw-heatmap`（分桶矩陣）或 prose + 表格；v4 候選                        |
+| 直方圖          | `tw-bars`（分桶後）；v4 候選                                            |
+| 網絡圖          | prose 關係描述 + `tw-versus`；少用                                      |
+| 國會席次弧      | ✅ `tw-arc`（v3.0 已內建）                                              |
+| small multiples | ✅ `tw-multiples`（v3.0 已內建）；質性混排仍可一節一圖 chart-pack       |
+| 左右互搏 sticky | CSS sticky 版式 pattern（圖 sticky、步驟文字捲過），不做模組——見 §三.14 |
 
-- **v3 roadmap**（per [reports/viz-system-evolution-2026-06-12.md](../../reports/viz-system-evolution-2026-06-12.md)）：scrollytelling-lite（CSS scroll-driven 漸進揭露）+ DualChannel sticky（報導者「左右互搏」，CSS sticky 零 JS）做 1-2 篇旗艦專題；散佈 / 直方 / 國會弧視真實文章需求再長。
+- **v3.0 已兌現**（原 v3 roadmap，per [reports/viz-module-evolution-2026-07-16.md](../../reports/viz-module-evolution-2026-07-16.md)）：scrollytelling-lite = 模組 scroll-reveal 漸進增強（§三.14）；國會席次弧 = `tw-arc`；small multiples = `tw-multiples`；民調不確定性 = `tw-dot` 三值列。
+- **v4 候選**：散佈 / 直方（等真實文章需求）；schema.org Dataset JSON-LD（把數據標成 LLM retrieval 層的結構化事實——涉站台層對外呈現，交哲宇）；政黨官方色映射（涉政治色彩語意，交哲宇）；DualChannel sticky 旗艦專題一篇。
 
 ---
 
+_v3.0 | 2026-07-16 viz-evolution — 模組 17→19（+arc 席次弧/+multiples 小倍數）＋ renderer 六語 i18n（VIZ_STRINGS 修「翻譯頁中文毛邊」與簡體「脚注」）＋ tw-dot 三值列（民調點估＋區間）＋ scroll-reveal 漸進增強（§三.14 雙護欄）＋ tiles 縣市名 EN/JA 正規化＋ viz-health 結構檢查與 timeline/versus/stat 來源 gate（審計：被 gate 0% 缺源 vs 未 gate 41-46%）＋ §八 +4 反例 ＋ §九 v4 候選。研究與審計：reports/viz-module-evolution-2026-07-16.md。_
 _v2.0 | 2026-06-12 viz-evolution — 模組 10→17（+slope/dot/stack/pyramid/tiles/iso/note）；共通約定（標題列/來源列全模組/`*` 強調/`基準：` 線）；§三 +4 原則（visible-by-default / 灰色脈絡 / 【說明】公約 / 多語標籤）；§八 +6 反例（雙色相泥中段 / 磚圖放數量 / legend-hunting / 多序列面積 / SVG 字級膨脹 / 群組條比總量）；修 v1.0 三個 cascade leak（quote 灰框 / heatmap 字色 / 來源列三模組漏接）。視覺驗證 51 截圖 + 外部研究：reports/viz-system-evolution-2026-06-12.md。_
 _v1.0 | 2026-06-06 — 10 模組 + 型錄 + 設計原則 + AI 可讀 + 多語 + 檢查清單。設計研究：reports/article-visualization-design-2026-06-06.md（參考 The Pudding，長出自己的器官）。_

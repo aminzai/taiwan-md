@@ -9,7 +9,7 @@
  *   靜態 + semantic HTML + 標註優先 → 同時對人、螢幕閱讀器、Google、AI 爬蟲可讀。
  *   「讓 LLM 讀得懂的視覺化 = 主權的視覺化」。資料文字進 DOM，babel 翻譯天然能處理。
  *
- * 模組（17）：
+ * 模組清單（數量以 docs/editorial/graph.md §四 為準）：
  *   .tw-figure   數據大字   single big number / before→after          [編輯]
  *   .tw-stat     數據組     2-4 key stats in a row                    [編輯]
  *   .tw-versus   對比卡     two systems side by side                  [編輯]
@@ -27,6 +27,8 @@
  *   .tw-heatmap  熱力圖     intensity matrix (HTML table)             [圖表]
  *   .tw-tiles    縣市磚圖   Taiwan 22 縣市 tile cartogram             [圖表]
  *   .tw-iso      單位圖     isotype, 1 符號 = N（數得出來的大數字）   [圖表]
+ *   .tw-arc      席次弧     parliament seat arc（半圓點陣＋過半線）   [圖表 v3.0]
+ *   .tw-multiples 小倍數    shared-axis mini line grid                [圖表 v3.0]
  *
  * 全部讀 tokens.css 設計變數 → dark mode / RWD / 字體自動跟著走。
  * ⚠️ 不在這裡新增散落色號；module 專屬色集中在下方 --tw-* 區塊。
@@ -77,7 +79,9 @@
 .tw-pyramid,
 .tw-heatmap,
 .tw-tiles,
-.tw-iso {
+.tw-iso,
+.tw-arc,
+.tw-multiples {
   margin: var(--space-5) 0;
   font-family: var(--font-interface);
   color: var(--color-ink);
@@ -104,7 +108,9 @@
 .tw-pyramid,
 .tw-heatmap,
 .tw-tiles,
-.tw-iso {
+.tw-iso,
+.tw-arc,
+.tw-multiples {
   border: 1px solid var(--color-border);
   border-radius: var(--tw-mod-radius);
   background: var(--color-surface);
@@ -817,6 +823,18 @@
   transform: translateY(-50%);
   background: var(--tw-grid);
 }
+/* 三值列（點估＋區間，v3.0）：區間帶比 range 線粗而淡——它是「不確定的範圍」
+   不是「從 A 到 B 的移動」，視覺重量要低於主點 */
+.tw-dot-seg--range {
+  height: 9px;
+  border-radius: 4.5px;
+  background: color-mix(in srgb, var(--tw-warm) 22%, transparent);
+}
+.tw-dot-range {
+  font-weight: 400;
+  font-size: 0.82rem;
+  color: var(--color-ink-soft);
+}
 .tw-dot-val {
   font-family: var(--font-title);
   font-weight: 700;
@@ -919,22 +937,6 @@
 .tw-stack-seg[data-cat='4'],
 .tw-stack-swatch[data-cat='4'] {
   background: var(--tw-mute);
-}
-/* 單位圖符號用文字色（自訂 glyph 如 👤 也能渲染，不是被蓋成色塊） */
-.tw-iso-unit[data-cat='0'] {
-  color: var(--tw-warm);
-}
-.tw-iso-unit[data-cat='1'] {
-  color: var(--tw-cool);
-}
-.tw-iso-unit[data-cat='2'] {
-  color: var(--tw-green);
-}
-.tw-iso-unit[data-cat='3'] {
-  color: var(--color-accent);
-}
-.tw-iso-unit[data-cat='4'] {
-  color: var(--tw-mute);
 }
 
 /* ════════════════════════════ 14. 金字塔 .tw-pyramid ════════════════════════════ */
@@ -1095,6 +1097,23 @@
   line-height: 1;
   flex: none;
 }
+/* 單位圖符號用文字色（自訂 glyph 如 👤 也能渲染，不是被蓋成色塊）。
+   2026-07-16 從 13. tw-stack 段搬回本段（copy-paste 殘留造成 iso 樣式拆兩處）。 */
+.tw-iso-unit[data-cat='0'] {
+  color: var(--tw-warm);
+}
+.tw-iso-unit[data-cat='1'] {
+  color: var(--tw-cool);
+}
+.tw-iso-unit[data-cat='2'] {
+  color: var(--tw-green);
+}
+.tw-iso-unit[data-cat='3'] {
+  color: var(--color-accent);
+}
+.tw-iso-unit[data-cat='4'] {
+  color: var(--tw-mute);
+}
 .tw-iso-val {
   font-family: var(--font-title);
   font-weight: 700;
@@ -1140,6 +1159,151 @@
 }
 .tw-note-body p:last-child {
   margin-bottom: 0;
+}
+
+/* ════════════════════════════ 18. 席次弧 .tw-arc ════════════════════════════ */
+.tw-arc {
+  padding: var(--space-4);
+  margin: 0;
+}
+.tw-arc-plot {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  height: auto;
+}
+.tw-arc-dot[data-cat='0'] {
+  fill: var(--tw-warm);
+}
+.tw-arc-dot[data-cat='1'] {
+  fill: var(--tw-cool);
+}
+.tw-arc-dot[data-cat='2'] {
+  fill: var(--tw-green);
+}
+.tw-arc-dot[data-cat='3'] {
+  fill: var(--color-accent);
+}
+.tw-arc-dot[data-cat='4'] {
+  fill: var(--tw-mute);
+}
+.tw-arc-majority {
+  stroke: var(--color-ink-soft);
+  stroke-width: 1.5;
+  stroke-dasharray: 4 3;
+}
+.tw-arc-majlab {
+  font-family: var(--font-interface);
+  font-size: 11px;
+  fill: var(--color-ink-soft);
+}
+.tw-arc-total {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 30px;
+  fill: var(--color-ink);
+}
+.tw-arc-legend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4em 1.1em;
+  margin-top: 0.6em;
+}
+.tw-arc-key {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-size: 0.85rem;
+  color: var(--color-ink-soft);
+}
+.tw-arc-key b {
+  font-family: var(--font-title);
+  color: var(--color-ink);
+}
+.tw-arc-swatch {
+  width: 0.8em;
+  height: 0.8em;
+  border-radius: 50%;
+  flex: none;
+}
+.tw-arc-swatch[data-cat='0'] {
+  background: var(--tw-warm);
+}
+.tw-arc-swatch[data-cat='1'] {
+  background: var(--tw-cool);
+}
+.tw-arc-swatch[data-cat='2'] {
+  background: var(--tw-green);
+}
+.tw-arc-swatch[data-cat='3'] {
+  background: var(--color-accent);
+}
+.tw-arc-swatch[data-cat='4'] {
+  background: var(--tw-mute);
+}
+
+/* ════════════════════════ 19. 小倍數網格 .tw-multiples ════════════════════════ */
+.tw-multiples {
+  padding: var(--space-4);
+}
+.tw-mult-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0.9em 1.1em;
+}
+.tw-mult-cell {
+  margin: 0;
+}
+.tw-mult-name {
+  font-family: var(--font-interface);
+  font-weight: 600;
+  font-size: 0.82rem;
+  color: var(--color-ink-soft);
+  margin-bottom: 0.25em;
+}
+.tw-mult-cell--hi .tw-mult-name {
+  color: var(--color-ink);
+}
+.tw-mult-plot {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.tw-mult-path {
+  fill: none;
+  stroke: var(--tw-warm);
+  stroke-width: 2;
+  stroke-linejoin: round;
+}
+.tw-mult-area {
+  fill: var(--tw-warm);
+  opacity: 0.08;
+}
+.tw-mult-dot {
+  fill: var(--tw-warm);
+}
+.tw-mult-lab {
+  font-family: var(--font-title);
+  font-weight: 700;
+  font-size: 11px;
+  fill: var(--color-ink);
+}
+.tw-mult-xlab {
+  font-family: var(--font-interface);
+  font-size: 10px;
+  fill: var(--color-ink-soft);
+}
+/* 有強調群組時，其餘群組線退灰當脈絡（同 bars/slope/dot 的灰色脈絡 pattern） */
+.tw-multiples--focus .tw-mult-cell:not(.tw-mult-cell--hi) .tw-mult-path {
+  stroke: var(--tw-mute);
+}
+.tw-multiples--focus .tw-mult-cell:not(.tw-mult-cell--hi) .tw-mult-area {
+  fill: var(--tw-mute);
+}
+.tw-multiples--focus .tw-mult-cell:not(.tw-mult-cell--hi) .tw-mult-dot {
+  fill: var(--tw-mute);
 }
 
 /* ════════════════════════════ RWD ════════════════════════════ */
@@ -1234,5 +1398,50 @@
   }
   .tw-pyramid-mid {
     font-size: 0.78rem;
+  }
+}
+
+/* ═══════════════════ scroll-reveal 漸進增強（v3.0，graph.md §三.14） ═══════════════════
+   設計約束：內容可見性絕不依賴捲動動畫——AI 爬蟲不捲動、Firefox stable 的
+   animation-timeline 仍在 flag 後（2026-07）、舊 Safari 無支援。@supports 之外的
+   世界（含 reduced-motion 使用者與所有爬蟲）拿到的就是完全可見的終態；動畫只是
+   進場飾品，拿掉零語意損失。 */
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    :where(
+      .tw-figure,
+      .tw-stat,
+      .tw-stat-wrap,
+      .tw-versus,
+      .tw-bars,
+      .tw-waffle,
+      .tw-timeline,
+      .tw-quote,
+      .tw-note,
+      .tw-line,
+      .tw-slope,
+      .tw-dot,
+      .tw-stack,
+      .tw-pyramid,
+      .tw-tiles,
+      .tw-iso,
+      .tw-heatmap,
+      .tw-arc,
+      .tw-multiples
+    ) {
+      animation: tw-mod-rise 0.55s ease-out both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 40%;
+    }
+  }
+}
+@keyframes tw-mod-rise {
+  from {
+    opacity: 0.15;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
   }
 }

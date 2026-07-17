@@ -27,7 +27,7 @@ audience: 'orchestrator-session-spawning-stage2-writer'
 > 2. **read-receipt 驗證**：writer 動筆前產出讀取回執（逐字 quote 造假不了）——這是取代 inline 複寫的防 skim 機制
 > 3. **機械輸出契約**（路徑 / 字數 / 回報格式）＋ per-article 素材槽（護欄 / 媒體 / 外連——這些是本篇 research 的產物，不是 canonical 複寫）
 >
-> 寫作紀律的唯一住所：[EDITORIAL.md](../editorial/EDITORIAL.md)（風格與禁令＋Before/After 範例）、[REWRITE-PIPELINE.md](REWRITE-PIPELINE.md) Stage 2（流程＋7 條自檢）、[graph.md](../editorial/graph.md)（視覺化 17 模組＋何時用哪種）。writer 從那裡讀，不從這裡讀。
+> 寫作紀律的唯一住所：[EDITORIAL.md](../editorial/EDITORIAL.md)（風格與禁令＋Before/After 範例）、[REWRITE-PIPELINE.md](REWRITE-PIPELINE.md) Stage 2（流程＋7 條自檢）、[graph.md](../editorial/graph.md)（視覺化模組型錄＋何時用哪種，模組數以其 §四 為準）。writer 從那裡讀，不從這裡讀。
 
 ---
 
@@ -77,7 +77,7 @@ spine：{SPINE}
 1. `{RESEARCH_REPORT}` 整份——§6 fact-pack 是導航，§8 raw verbatim 才有血肉（場景/引語/數字 texture）。
 2. `docs/editorial/EDITORIAL.md` 全檔——風格、禁令、Before/After 範例。
 3. `docs/pipelines/REWRITE-PIPELINE.md` 的 Stage 2 全段——流程與 7 條自檢。
-4. `docs/editorial/graph.md`——視覺化 17 模組型錄＋何時用哪種（藍圖 §審定已列視覺化候選，你據此做）。
+4. `docs/editorial/graph.md`——視覺化模組型錄＋何時用哪種（模組數以其 §四 為準；藍圖 §審定已列視覺化候選，你據此做）。
 
 **讀完先寫「讀取回執」（逐字 quote 造假不了，這是防 skim 的閘門）**：
 - 【骨架複述】逐 section 複述藍圖給它的**全局功能**（這一段替論點做什麼），一句一段——證明你讀懂的是論證不是面向清單

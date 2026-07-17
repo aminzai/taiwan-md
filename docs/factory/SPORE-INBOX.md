@@ -1102,7 +1102,7 @@ SPORE-INBOX pending count < 30 → 走原 §Daily 共存規則
 - **Requested**: 2026-06-14 by twmd-news-lens-weekly (week 2026-W24, event: GA 7d 60 v / users 24 — 6/6 ship 8 天 D+8 推廣窗口 + 主題契合 CF AI crawler signal「主權的視覺化」)
 - **Hook anchor 候選**（≥ 2，跨 2 種起手式）:
   1. **問句 hook**：「為什麼 Taiwan.md 不用 D3 或 Canvas 畫互動圖表？因為 GPTBot、PerplexityBot、ClaudeBot 這些 AI 爬蟲不會跑 JavaScript——對它們來說那張圖是一片空白。我們選擇靜態 SVG，就是讓 AI 在六種語言裡都讀得到台灣的第一人稱數據」
-  2. **好奇 hook**：「你知道嗎？我們替每一篇談數據的文章準備了十七種視覺化模組，從『一個大數字』到『縣市磚圖』，全部用真實的台灣居住與人口數據。一頁讀完，你大概會想替你自己的 Markdown 文章偷個三五招」
+  2. **好奇 hook**：「你知道嗎？我們替每一篇談數據的文章準備了十九種視覺化模組，從『一個大數字』到『縣市磚圖』，全部用真實的台灣居住與人口數據。一頁讀完，你大概會想替你自己的 Markdown 文章偷個三五招」
 - **時效**: 本週內（D+8 推廣窗口 + 跟 跨黨派 / 看不見的國家 article 視覺化模組同主題 cross-ref 機會）
 - **敏感度**: 低（技術系列 / 開源 / 編輯方法論）
 - **必驗事實**（**HG: 必須先讀 article 校準**）：17 個模組 / 全部真實台灣數據 / 純 HTML+SVG（無 JS）/ 跟 graph.md 搭檔關係 / 6/6 ship

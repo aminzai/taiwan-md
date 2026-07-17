@@ -12,11 +12,117 @@
  *
  * 內容物全部 1:1 verbatim 搬運（sed 行段抽取），輸出 byte-identical：
  * - resolveWikilinks / marked renderer hooks（heading/link/image/code）
- * - renderTwModule：17 種 tw-* 視覺模組（graph.md §模組型錄 的 renderer 實體）
+ * - renderTwModule：tw-* 視覺模組（模組清單以 docs/editorial/graph.md §四 為準，計數不寫死）
  * - processFootnotes：GFM [^n] 腳註
  * - renderArticleHtml：title-dedup → wikilink → footnote → marked → 延伸閱讀 split
+ *
+ * i18n（2026-07-16 v3 renderer 主權補洞）：renderArticleHtml 第三參數 lang 決定
+ * VIZ_STRINGS 選用哪語系——「資料來源：」「腳注」等 renderer 自己輸出的 UI 字串，
+ * 六語頁面過去全部渲染成中文（含一個簡體字 bug：脚注）。作者寫的資料內容（tw-* 區塊
+ * 裡的文字）不受影響，那是 babel 翻譯的範圍，不是這層的責任。
  */
 import { marked } from 'marked';
+
+// ── VIZ_STRINGS：renderer 自產 UI 字串的六語對照表（非作者資料，是 renderer 輸出）──
+// 「資料來源：」「席次」欄名等改由這裡查表，不再寫死中文。冒號標點直接烤進字串
+// （zh/ja 全形「：」無空格；en/ko/es/fr 半形「: 」有空格）——這是各語言的標點慣例，
+// 不是需要 runtime 判斷的邏輯，存成常數比每次呼叫都判斷 lang 決定標點更直接。
+interface VizStrings {
+  srcPrefix: string; // 「資料來源：」，含冒號的完整前綴
+  county: string; // tw-tiles 資料表欄名「縣市」
+  value: string; // tw-tiles 資料表欄名「數值」
+  unmatched: string; // tw-tiles 未對應縣市警示，含冒號的完整前綴
+  tilesAria: string; // tw-tiles aria-label 預設值（無標題時）
+  waffleAria: string; // tw-waffle aria-label 預設值（無標題時）
+  fnAria: string; // 單一腳註 aria-label 字首（後接編號）
+  fnBackAria: string; // 腳註返回連結 aria-label 字首（後接編號）
+  fnSection: string; // 腳註區塊 <section> aria-label
+  majority: string; // tw-arc 過半線標籤字首（後接席次數）
+}
+const VIZ_STRINGS: Record<
+  'zh-TW' | 'en' | 'ja' | 'ko' | 'es' | 'fr',
+  VizStrings
+> = {
+  'zh-TW': {
+    srcPrefix: '資料來源：',
+    county: '縣市',
+    value: '數值',
+    unmatched: '未對應縣市：',
+    tilesAria: '台灣縣市資料地圖',
+    waffleAria: '方格圖',
+    fnAria: '腳註',
+    fnBackAria: '返回引用',
+    fnSection: '腳註',
+    majority: '過半',
+  },
+  en: {
+    srcPrefix: 'Source: ',
+    county: 'County',
+    value: 'Value',
+    unmatched: 'Unmatched counties: ',
+    tilesAria: 'Taiwan county data map',
+    waffleAria: 'Waffle chart',
+    fnAria: 'Footnote',
+    fnBackAria: 'Back to reference',
+    fnSection: 'Footnotes',
+    majority: 'Majority',
+  },
+  ja: {
+    srcPrefix: '出典：',
+    county: '県市',
+    value: '値',
+    unmatched: '未対応の県市：',
+    tilesAria: '台湾県市データマップ',
+    waffleAria: 'ワッフルチャート',
+    fnAria: '脚注',
+    fnBackAria: '本文に戻る',
+    fnSection: '脚注',
+    majority: '過半数',
+  },
+  ko: {
+    srcPrefix: '출처: ',
+    county: '시·군',
+    value: '값',
+    unmatched: '매칭되지 않은 시·군: ',
+    tilesAria: '대만 시·군 데이터 지도',
+    waffleAria: '와플 차트',
+    fnAria: '각주',
+    fnBackAria: '본문으로 돌아가기',
+    fnSection: '각주',
+    majority: '과반',
+  },
+  es: {
+    srcPrefix: 'Fuente: ',
+    county: 'Ciudad o condado',
+    value: 'Valor',
+    unmatched: 'Condados sin correspondencia: ',
+    tilesAria: 'Mapa de datos de los condados de Taiwán',
+    waffleAria: 'Gráfico de cuadrícula',
+    fnAria: 'Nota',
+    fnBackAria: 'Volver a la referencia',
+    fnSection: 'Notas',
+    majority: 'Mayoría',
+  },
+  fr: {
+    // 法文標點慣例：冒號前有空格（« Source : »）
+    srcPrefix: 'Source : ',
+    county: 'Ville ou comté',
+    value: 'Valeur',
+    unmatched: 'Comtés non appariés: ',
+    tilesAria: 'Carte des données des comtés de Taïwan',
+    waffleAria: 'Graphique en gaufre',
+    fnAria: 'Note',
+    fnBackAria: 'Retour à la référence',
+    fnSection: 'Notes',
+    majority: 'Majorité',
+  },
+};
+// module scope：整個 build 只有一份，renderArticleHtml 每次呼叫開頭覆寫。
+// 安全性建立在「marked.parse() 是同步呼叫、_locale 賦值到 parse 完成之間沒有
+// await」──JS 單執行緒下不會被其他 renderArticleHtml 呼叫插入打斷，一次 parse
+// 用到底都是同一個 lang。若未來 renderTwModule 或 processFootnotes 被改成 async，
+// 這個假設會失效，屆時 _locale 必須改成參數傳遞而非 module-scope 變數。
+let _locale: VizStrings = VIZ_STRINGS['zh-TW'];
 
 function resolveWikilinks(md: string) {
   if (!md) return md;
@@ -67,9 +173,12 @@ function renderTwModule(lang: string, raw: string): string {
     .filter(Boolean);
   if (lines.length === 0) return '';
 
-  // 跨模組「來源」列：任一列 `來源：…` / `資料來源：…` / `source: …` 抽成 sibling 來源 caption
+  // 跨模組「來源」列：任一列 `來源：…` / `資料來源：…` / `source: …` 抽成 sibling 來源 caption。
+  // 2026-07-16 擴充各語言標籤（Sources/出典/출처/Fuente(s)）——babel 會把「來源」翻成
+  // 目標語標籤，舊 regex 對不上時整列靜默變資料列被丟掉，譯版來源 caption 消失。
   let src = '';
-  const _srcRe = /^(?:資料來源|來源|source)\s*[:：]\s*(.+)$/i;
+  const _srcRe =
+    /^(?:資料來源|來源|sources?|出典|출처|fuentes?)\s*[:：]\s*(.+)$/i;
   lines = lines.filter((l) => {
     const m = l.match(_srcRe);
     if (m) {
@@ -79,7 +188,9 @@ function renderTwModule(lang: string, raw: string): string {
     return true;
   });
   if (lines.length === 0 && !src) return '';
-  const _src = src ? `<p class="tw-mod-src">資料來源：${_esc(src)}</p>` : '';
+  const _src = src
+    ? `<p class="tw-mod-src">${_esc(_locale.srcPrefix)}${_esc(src)}</p>`
+    : '';
 
   // 跨模組「標題」列：資料模組第一列若不含 `|` 視為模組標題（graph.md：標題說 takeaway）。
   // tw-figure / tw-quote / tw-source / tw-line / tw-waffle / tw-note 有自己的 positional 邏輯，不走這層。
@@ -95,6 +206,8 @@ function renderTwModule(lang: string, raw: string): string {
     'tw-pyramid',
     'tw-tiles',
     'tw-iso',
+    'tw-arc',
+    'tw-multiples',
   ]);
   let modTitle = '';
   if (
@@ -102,7 +215,9 @@ function renderTwModule(lang: string, raw: string): string {
     lines.length > 1 &&
     lines[0] &&
     !lines[0].includes('|') &&
-    !/^單位\s*[:：]/.test(lines[0])
+    // 排除模組自己的 config 列（單位：iso／過半：arc／欄：multiples）被誤判成標題——
+    // 這三個都可能出現在第一列（作者省略標題時），沒有 `|` 但不是 takeaway 句。
+    !/^(單位|過半|欄)\s*[:：]/.test(lines[0])
   ) {
     modTitle = lines.shift() || '';
   }
@@ -113,6 +228,10 @@ function renderTwModule(lang: string, raw: string): string {
   const _fmt = (v: number) =>
     Math.abs(v) >= 1000 ? v.toLocaleString('en-US') : String(v);
   const _num = (s: string) => parseFloat(String(s).replace(/[^0-9.\-]/g, ''));
+  // 嚴格數字判定（跟 _num 不同：_num 會從文字裡硬擠數字出來，"2,650，2015 年後約
+  // 2,400" 這種備註文字會被解讀成一串巨大數字；tw-dot 三值列要靠這個判斷第 4 欄
+  // 到底是「上界數值」還是「備註文字」，用 _num 會誤判）
+  const _isPureNum = (s: string) => /^-?[\d,]+(\.\d+)?%?$/.test(s.trim());
   // 強調列語法：標籤開頭 `*` → 該列 highlight、其餘列退灰（Datawrapper 灰色脈絡 pattern）
   const _emph = (raw: string) =>
     raw.startsWith('*')
@@ -133,7 +252,7 @@ function renderTwModule(lang: string, raw: string): string {
       `<div class="tw-figure"><div class="tw-figure-nums">${nums}</div>` +
       (cap ? `<div class="tw-figure-cap">${_esc(cap)}</div>` : '') +
       (figSrc
-        ? `<div class="tw-figure-src">資料來源：${_esc(figSrc)}</div>`
+        ? `<div class="tw-figure-src">${_esc(_locale.srcPrefix)}${_esc(figSrc)}</div>`
         : '') +
       `</div>`
     );
@@ -294,7 +413,7 @@ function renderTwModule(lang: string, raw: string): string {
     return (
       `<div class="tw-waffle">` +
       (title ? `<div class="tw-mod-title">${_esc(title)}</div>` : '') +
-      `<div class="tw-waffle-grid" role="img" aria-label="${_esc(title || '方格圖')}">${cells}</div>` +
+      `<div class="tw-waffle-grid" role="img" aria-label="${_esc(title || _locale.waffleAria)}">${cells}</div>` +
       `<div class="tw-waffle-legend">${legend}</div></div>${_src}`
     );
   }
@@ -408,7 +527,7 @@ function renderTwModule(lang: string, raw: string): string {
       const last = pts[pts.length - 1];
       g += `<text class="tw-line-slab ${cls}" x="${(last.x + 5).toFixed(1)}" y="${(last.y + 4).toFixed(1)}">${_esc(sname)}</text>`;
     });
-    const svg = `<svg class="tw-line-plot" viewBox="0 0 ${W} ${H}" role="img" aria-label="${_esc(title)}" xmlns="http://www.w3.org/2000/svg">${g}</svg>`;
+    const svg = `<svg class="tw-line-plot" viewBox="0 0 ${W} ${H}" role="img" aria-label="${_esc(title)}" xmlns="http://www.w3.org/2000/svg"><title>${_esc(title)}</title>${g}</svg>`;
     const capExtra = baselines.length
       ? `（基準線：${baselines.map((b) => `${b.label} = ${_fmt(b.v)}`).join('、')}）`
       : '';
@@ -536,7 +655,7 @@ function renderTwModule(lang: string, raw: string): string {
       g += `<text class="tw-slope-lab${cls}" x="${xR + 8}" y="${(labR[ri] + 3.5).toFixed(1)}" text-anchor="start"><tspan class="tw-slope-v">${_esc(r.s2)}</tspan></text>`;
     });
     const aria = modTitle || `${tL} 到 ${tR} 的變化`;
-    const svg = `<svg class="tw-slope-plot" viewBox="0 0 ${W} ${H}" role="img" aria-label="${_esc(aria)}" xmlns="http://www.w3.org/2000/svg">${g}</svg>`;
+    const svg = `<svg class="tw-slope-plot" viewBox="0 0 ${W} ${H}" role="img" aria-label="${_esc(aria)}" xmlns="http://www.w3.org/2000/svg"><title>${_esc(aria)}</title>${g}</svg>`;
     const thead = `<tr><th scope="col"></th><th scope="col">${_esc(tL)}</th><th scope="col">${_esc(tR)}</th></tr>`;
     const tbody = rows
       .map(
@@ -556,6 +675,25 @@ function renderTwModule(lang: string, raw: string): string {
         const c = l.split('|').map((s) => s.trim());
         const { label, hi } = _emph(c[0] || '');
         const v1 = _num(c[1] || '');
+        // 三值列（v3.0）：`標籤 | 點估 | 下界 | 上界 | (註)` → 民調式點估＋區間帶。
+        // 判定用 _isPureNum（第 3、4 欄都是純數字才算三值列，備註文字不會誤判）。
+        const isTriple =
+          c.length >= 4 && _isPureNum(c[2] || '') && _isPureNum(c[3] || '');
+        if (isTriple) {
+          return {
+            label,
+            hi,
+            v1,
+            v2: NaN,
+            lo: _num(c[2]),
+            hiV: _num(c[3]),
+            s1: c[1] || '',
+            s2: '',
+            sLo: c[2],
+            sHi: c[3],
+            note: c[4] || '',
+          };
+        }
         const v2 = c.length >= 3 && c[2] !== '' ? _num(c[2]) : NaN;
         const note = c[3] || (isNaN(v2) ? c[2] || '' : '');
         return {
@@ -563,14 +701,22 @@ function renderTwModule(lang: string, raw: string): string {
           hi,
           v1,
           v2,
+          lo: NaN,
+          hiV: NaN,
           s1: c[1] || '',
           s2: isNaN(v2) ? '' : c[2],
+          sLo: '',
+          sHi: '',
           note,
         };
       })
       .filter((r) => !isNaN(r.v1));
     if (rows.length === 0) return '';
-    const all = rows.flatMap((r) => (isNaN(r.v2) ? [r.v1] : [r.v1, r.v2]));
+    const all = rows.flatMap((r) => [
+      r.v1,
+      ...(isNaN(r.v2) ? [] : [r.v2]),
+      ...(isNaN(r.lo) ? [] : [r.lo, r.hiV]),
+    ]);
     const dMin = Math.min(...all),
       dMax = Math.max(...all);
     const span = dMax - dMin || 1;
@@ -582,6 +728,14 @@ function renderTwModule(lang: string, raw: string): string {
     const body = rows
       .map((r) => {
         const p1 = pos(r.v1);
+        // 三值列：區間帶（下界→上界）＋點估主點；值文字「點估（下–上）」
+        if (!isNaN(r.lo)) {
+          const pLo = pos(r.lo),
+            pHi = pos(r.hiV);
+          const band = `<span class="tw-dot-seg tw-dot-seg--range" style="left:${Math.min(+pLo, +pHi)}%;width:${Math.abs(+pHi - +pLo)}%"></span>`;
+          const valTxt = `${_esc(r.s1)}<span class="tw-dot-range">（${_esc(r.sLo)}–${_esc(r.sHi)}）</span>`;
+          return `<div class="tw-dot-row${r.hi ? ' tw-dot-row--hi' : ''}"><div class="tw-dot-label">${_esc(r.label)}</div><div class="tw-dot-track">${band}<span class="tw-dot-pt" style="left:${p1}%"></span></div><div class="tw-dot-val">${valTxt}${r.note ? `<span class="tw-bars-note"> ${_esc(r.note)}</span>` : ''}</div></div>`;
+        }
         const seg = !isNaN(r.v2)
           ? `<span class="tw-dot-seg" style="left:${Math.min(+p1, +pos(r.v2))}%;width:${Math.abs(+pos(r.v2) - +p1)}%"></span><span class="tw-dot-pt tw-dot-pt--end" style="left:${pos(r.v2)}%"></span>`
           : '';
@@ -713,8 +867,20 @@ function renderTwModule(lang: string, raw: string): string {
       matsu: '連江',
     };
     const normCounty = (raw: string) => {
-      const s = raw.replace(/臺/g, '台').trim();
-      const en = EN_ALIAS[s.toLowerCase()];
+      // 2026-07-16 審計：EN 譯版寫「Taipei City」（alias 只收 'taipei'）、JA 譯版寫
+      // 「新竹県」（日文「県」）——兩者都對不上 → 磚圖在譯版必然退化成 bars。
+      // 修法：日文県→縣先正規化；EN 先查完整字串（保住 hsinchu city/county 這類
+      // 必須帶後綴的鍵），查無再去掉 ' city'/' county' 後綴查一次。
+      // 空白一律摺成普通空格——babel 產物會夾 U+202F 窄不斷行空格（New Taipei），
+      // alias 鍵是普通空格，不摺就對不上。
+      const s = raw
+        .replace(/臺/g, '台')
+        .replace(/県/g, '縣')
+        .replace(/\s+/g, ' ')
+        .trim();
+      const lower = s.toLowerCase();
+      const en =
+        EN_ALIAS[lower] ?? EN_ALIAS[lower.replace(/\s+(city|county)$/, '')];
       if (en) return en;
       const stem = s.replace(/[市縣]$/, '');
       return stem === '新竹' || stem === '嘉義' ? s : stem;
@@ -760,7 +926,7 @@ function renderTwModule(lang: string, raw: string): string {
       .join('');
     const scale = `<div class="tw-tiles-scale"><span>${_esc(_fmt(tMin))}</span><i class="tw-tiles-grad" aria-hidden="true"></i><span>${_esc(_fmt(tMax))}</span></div>`;
     const warn = unmatched.length
-      ? `<p class="tw-tiles-warn">未對應縣市：${unmatched.map(_esc).join('、')}</p>`
+      ? `<p class="tw-tiles-warn">${_esc(_locale.unmatched)}${unmatched.map(_esc).join('、')}</p>`
       : '';
     const tbody = [...byCounty.entries()]
       .map(
@@ -768,8 +934,8 @@ function renderTwModule(lang: string, raw: string): string {
           `<tr><th scope="row">${_esc(n)}</th><td>${_esc(e.val)}</td></tr>`,
       )
       .join('');
-    const table = `<table class="tw-sr-only"><caption>${_esc(modTitle || '台灣縣市資料地圖')}</caption><thead><tr><th scope="col">縣市</th><th scope="col">數值</th></tr></thead><tbody>${tbody}</tbody></table>`;
-    return `<div class="tw-tiles" role="group" aria-label="${_esc(modTitle || '台灣縣市資料地圖')}">${_title}<div class="tw-tiles-grid">${cells}</div>${scale}${warn}${table}</div>${_src}`;
+    const table = `<table class="tw-sr-only"><caption>${_esc(modTitle || _locale.tilesAria)}</caption><thead><tr><th scope="col">${_esc(_locale.county)}</th><th scope="col">${_esc(_locale.value)}</th></tr></thead><tbody>${tbody}</tbody></table>`;
+    return `<div class="tw-tiles" role="group" aria-label="${_esc(modTitle || _locale.tilesAria)}">${_title}<div class="tw-tiles-grid">${cells}</div>${scale}${warn}${table}</div>${_src}`;
   }
 
   if (lang === 'tw-iso') {
@@ -812,6 +978,196 @@ function renderTwModule(lang: string, raw: string): string {
       .join('');
     const key = `<p class="tw-iso-key">${_esc(glyph)} ≈ ${_esc(_fmt(per))}${unitLabel ? ` ${_esc(unitLabel)}` : ''}</p>`;
     return `<div class="tw-iso">${_title}${body}${key}</div>${_src}`;
+  }
+
+  if (lang === 'tw-arc') {
+    // 席次弧（parliament chart，v3.0）：半圓點陣、每席一點，政黨依列出順序連續填入
+    // 成扇形楔（graph.md §四）。config 列 `過半：N`（省略 = ⌊total/2⌋+1；0 = 不畫）。
+    // 配色用中性 data-cat 五色盤——政黨官方色映射是策展決策，涉政治色彩語意（§九 v4）。
+    let majority = -1;
+    const mj = (lines[0] || '').match(/^過半\s*[:：]\s*(\d+)/);
+    if (mj) {
+      majority = parseInt(mj[1], 10);
+      lines.shift();
+    }
+    const rows = lines
+      .map((l) => {
+        const c = l.split('|').map((s) => s.trim());
+        return {
+          label: c[0] || '',
+          seats: Math.round(_num(c[1] || '')),
+          sVal: c[1] || '',
+          note: c[2] || '',
+        };
+      })
+      .filter((r) => r.label && !isNaN(r.seats) && r.seats > 0);
+    const total = rows.reduce((a, r) => a + r.seats, 0);
+    if (total === 0) return '';
+    if (majority < 0) majority = Math.floor(total / 2) + 1;
+
+    // 座位幾何：環數依 total 定，各環容量按半徑比例分（最大餘數法），
+    // 環內沿 180°→0° 均勻分布；全部座位照角度左→右排序後依政黨順序填入。
+    const rings = total <= 30 ? 2 : total <= 80 ? 3 : total <= 150 ? 4 : 5;
+    const R0 = 70,
+      R1 = 180,
+      acx = 200,
+      acy = 215;
+    const radii = Array.from(
+      { length: rings },
+      (_, i) => R0 + (i * (R1 - R0)) / (rings - 1),
+    );
+    const radiusSum = radii.reduce((a, b) => a + b, 0);
+    const floors = radii.map((r) => Math.floor((total * r) / radiusSum));
+    const remain = total - floors.reduce((a, b) => a + b, 0);
+    const fracs = radii
+      .map((r, i) => ({ i, f: (total * r) / radiusSum - floors[i] }))
+      .sort((a, b) => b.f - a.f);
+    for (let k = 0; k < remain; k++) floors[fracs[k % fracs.length].i]++;
+    const seats: { x: number; y: number; angle: number; ring: number }[] = [];
+    floors.forEach((cnt, ri) => {
+      for (let j = 0; j < cnt; j++) {
+        const angle =
+          cnt === 1 ? Math.PI / 2 : Math.PI - (j / (cnt - 1)) * Math.PI;
+        seats.push({
+          x: acx + radii[ri] * Math.cos(angle),
+          y: acy - radii[ri] * Math.sin(angle),
+          angle,
+          ring: ri,
+        });
+      }
+    });
+    seats.sort((a, b) => b.angle - a.angle || a.ring - b.ring);
+    const dotR = rings <= 2 ? 7 : rings === 3 ? 6 : 5;
+    let g = '';
+    let seatIdx = 0;
+    rows.forEach((r, pi) => {
+      for (let k = 0; k < r.seats && seatIdx < seats.length; k++, seatIdx++) {
+        const s = seats[seatIdx];
+        g += `<circle class="tw-arc-dot" data-cat="${pi % 5}" cx="${s.x.toFixed(1)}" cy="${s.y.toFixed(1)}" r="${dotR}"/>`;
+      }
+    });
+    // 過半線：第 majority 席與前一席的角度中線，畫內半徑到外半徑的徑向虛線＋標籤
+    if (majority > 0 && majority <= total) {
+      const aAt = seats[majority - 1].angle;
+      const aPrev = majority >= 2 ? seats[majority - 2].angle : Math.PI;
+      const am = (aAt + aPrev) / 2;
+      const x1 = acx + (R0 - 14) * Math.cos(am),
+        y1 = acy - (R0 - 14) * Math.sin(am);
+      const x2 = acx + (R1 + 10) * Math.cos(am),
+        y2 = acy - (R1 + 10) * Math.sin(am);
+      g += `<line class="tw-arc-majority" x1="${x1.toFixed(1)}" y1="${y1.toFixed(1)}" x2="${x2.toFixed(1)}" y2="${y2.toFixed(1)}"/>`;
+      const lx = Math.min(376, Math.max(24, acx + (R1 + 14) * Math.cos(am)));
+      const ly = Math.max(12, acy - (R1 + 22) * Math.sin(am));
+      g += `<text class="tw-arc-majlab" x="${lx.toFixed(1)}" y="${ly.toFixed(1)}" text-anchor="middle">${_esc(_locale.majority)} ${majority}</text>`;
+    }
+    // 半圓中心放總席次（內圈空間的 direct labeling）
+    g += `<text class="tw-arc-total" x="${acx}" y="${acy - 10}" text-anchor="middle">${total}</text>`;
+    const aria =
+      modTitle || rows.map((r) => `${r.label} ${r.seats}`).join('、');
+    const svg = `<svg class="tw-arc-plot" viewBox="0 0 400 235" role="img" aria-label="${_esc(aria)}" xmlns="http://www.w3.org/2000/svg"><title>${_esc(aria)}</title>${g}</svg>`;
+    const legend = rows
+      .map(
+        (r, pi) =>
+          `<span class="tw-arc-key"><span class="tw-arc-swatch" data-cat="${pi % 5}"></span>${_esc(r.label)} <b>${_esc(r.sVal)}</b>${r.note ? `<span class="tw-bars-note"> ${_esc(r.note)}</span>` : ''}</span>`,
+      )
+      .join('');
+    const tbody = rows
+      .map(
+        (r) =>
+          `<tr><th scope="row">${_esc(r.label)}</th><td>${_esc(r.sVal)}</td></tr>`,
+      )
+      .join('');
+    const table = `<table class="tw-sr-only"><caption>${_esc(aria)}</caption><thead><tr><th scope="col"></th><th scope="col">${_esc(_locale.value)}</th></tr></thead><tbody>${tbody}</tbody></table>`;
+    return `<figure class="tw-arc">${_title}${svg}<div class="tw-arc-legend">${legend}</div>${table}</figure>${_src}`;
+  }
+
+  if (lang === 'tw-multiples') {
+    // 小倍數折線網格（v3.0）：`--- 群組名` 分隔各組、全部群組共用 y 值域
+    // （small multiples 鐵律：不共軸就不可比，graph.md §四）。每格首尾兩值直接標
+    // （direct labeling），不畫個別 y 軸。群組名 `*` 前綴 = 強調、其餘退灰。
+    let xName = '',
+      yName = '';
+    if (/^欄\s*[:：]/.test(lines[0] || '')) {
+      const c = (lines.shift() as string)
+        .replace(/^欄\s*[:：]\s*/, '')
+        .split('|')
+        .map((s) => s.trim());
+      xName = c[0] || '';
+      yName = c[1] || '';
+    }
+    const groups: {
+      name: string;
+      hi: boolean;
+      pts: { x: string; v: number; sV: string }[];
+    }[] = [];
+    lines.forEach((l) => {
+      const gm = l.match(/^---\s*(.+)$/);
+      if (gm) {
+        const { label, hi } = _emph(gm[1].trim());
+        groups.push({ name: label, hi, pts: [] });
+        return;
+      }
+      if (groups.length === 0) return;
+      const c = l.split('|').map((s) => s.trim());
+      const v = _num(c[1] || '');
+      if (c[0] && !isNaN(v))
+        groups[groups.length - 1].pts.push({ x: c[0], v, sV: c[1] });
+    });
+    const gs = groups.filter((gr) => gr.pts.length >= 2);
+    if (gs.length === 0) return '';
+    const allV = gs.flatMap((gr) => gr.pts.map((p) => p.v));
+    let yMin = Math.min(...allV),
+      yMax = Math.max(...allV);
+    if (yMin === yMax) {
+      yMin -= 1;
+      yMax += 1;
+    }
+    const padV = (yMax - yMin) * 0.07;
+    yMin -= padV;
+    yMax += padV;
+    const anyHi = gs.some((gr) => gr.hi);
+    const MW = 150,
+      MH = 92,
+      mmL = 8,
+      mmR = 42,
+      mmT = 12,
+      mmB = 18;
+    const cells = gs
+      .map((gr) => {
+        const n = gr.pts.length;
+        const sx = (i: number) => mmL + (i / (n - 1)) * (MW - mmL - mmR);
+        const sy = (v: number) =>
+          mmT + (1 - (v - yMin) / (yMax - yMin)) * (MH - mmT - mmB);
+        const line = gr.pts
+          .map((p, i) => `${sx(i).toFixed(1)},${sy(p.v).toFixed(1)}`)
+          .join(' ');
+        const first = gr.pts[0];
+        const last = gr.pts[n - 1];
+        const base = (MH - mmB).toFixed(1);
+        let mg = '';
+        mg += `<line class="tw-line-axis" x1="${mmL}" y1="${base}" x2="${(MW - 8).toFixed(1)}" y2="${base}"/>`;
+        mg += `<polygon class="tw-mult-area" points="${sx(0).toFixed(1)},${base} ${line} ${sx(n - 1).toFixed(1)},${base}"/>`;
+        mg += `<polyline class="tw-mult-path" points="${line}"/>`;
+        mg += `<circle class="tw-mult-dot" cx="${sx(n - 1).toFixed(1)}" cy="${sy(last.v).toFixed(1)}" r="2.5"/>`;
+        mg += `<text class="tw-mult-lab" x="${(sx(0) + 2).toFixed(1)}" y="${(sy(first.v) - 5).toFixed(1)}" text-anchor="start">${_esc(first.sV)}</text>`;
+        mg += `<text class="tw-mult-lab" x="${(sx(n - 1) + 4).toFixed(1)}" y="${(sy(last.v) + 3.5).toFixed(1)}" text-anchor="start">${_esc(last.sV)}</text>`;
+        mg += `<text class="tw-mult-xlab" x="${mmL}" y="${MH - 4}" text-anchor="start">${_esc(first.x)}</text>`;
+        mg += `<text class="tw-mult-xlab" x="${sx(n - 1).toFixed(1)}" y="${MH - 4}" text-anchor="end">${_esc(last.x)}</text>`;
+        return `<figure class="tw-mult-cell${gr.hi ? ' tw-mult-cell--hi' : ''}"><figcaption class="tw-mult-name">${_esc(gr.name)}</figcaption><svg class="tw-mult-plot" viewBox="0 0 ${MW} ${MH}" role="img" aria-label="${_esc(gr.name)}" xmlns="http://www.w3.org/2000/svg"><title>${_esc(gr.name)}</title>${mg}</svg></figure>`;
+      })
+      .join('');
+    const tbody = gs
+      .map((gr) =>
+        gr.pts
+          .map(
+            (p) =>
+              `<tr><th scope="row">${_esc(gr.name)}</th><td>${_esc(p.x)}</td><td>${_esc(p.sV)}</td></tr>`,
+          )
+          .join(''),
+      )
+      .join('');
+    const table = `<table class="tw-sr-only"><caption>${_esc(modTitle)}</caption><thead><tr><th scope="col"></th><th scope="col">${_esc(xName)}</th><th scope="col">${_esc(yName || _locale.value)}</th></tr></thead><tbody>${tbody}</tbody></table>`;
+    return `<div class="tw-multiples${anyHi ? ' tw-multiples--focus' : ''}">${_title}<div class="tw-mult-grid">${cells}</div>${table}</div>${_src}`;
   }
 
   if (lang === 'tw-note') {
@@ -862,7 +1218,7 @@ function processFootnotes(md: string): string {
     const num = order.indexOf(label) + 1;
     const id = `fn-${label}`;
     const refId = `fnref-${label}`;
-    return `<sup id="${refId}"><a href="#${id}" class="footnote-ref" aria-label="脚注 ${num}">${num}</a></sup>`;
+    return `<sup id="${refId}"><a href="#${id}" class="footnote-ref" aria-label="${_locale.fnAria} ${num}">${num}</a></sup>`;
   });
 
   // Build footnotes section
@@ -873,11 +1229,11 @@ function processFootnotes(md: string): string {
       const refId = `fnref-${label}`;
       // Process links inside footnote text via marked inline parser
       const defHtml = marked.parseInline(definitions[label]) as string;
-      return `<li id="${id}">${defHtml}<a href="#${refId}" class="footnote-backref" aria-label="返回引用 ${num}">↩</a></li>`;
+      return `<li id="${id}">${defHtml}<a href="#${refId}" class="footnote-backref" aria-label="${_locale.fnBackAria} ${num}">↩</a></li>`;
     });
     body =
       body.trimEnd() +
-      `\n\n<section class="footnotes" aria-label="腳注"><ol>${items.join('')}</ol></section>`;
+      `\n\n<section class="footnotes" aria-label="${_locale.fnSection}"><ol>${items.join('')}</ol></section>`;
   }
 
   return body;
@@ -894,7 +1250,11 @@ export interface RenderedArticle {
 export function renderArticleHtml(
   title: string,
   content: string,
+  lang: string = 'zh-TW',
 ): RenderedArticle {
+  // 依頁面語言選 renderer UI 字串（見檔頭 i18n 註解與 _locale 的同步假設）
+  _locale =
+    VIZ_STRINGS[lang as keyof typeof VIZ_STRINGS] ?? VIZ_STRINGS['zh-TW'];
   // Strip a leading `# Title` heading when it duplicates the frontmatter title
   // — ArticleHero already renders the title as the H1 of the page, and ~40%
   // of zh-TW articles still include `# {Title}` as the first body line. The

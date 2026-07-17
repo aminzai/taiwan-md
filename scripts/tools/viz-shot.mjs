@@ -27,9 +27,10 @@ const getArg = (name, dflt) => {
 };
 
 const PORT = getArg('port', '4322');
+// 型錄頁住 knowledge/About/，recat 時本預設值要跟著搬——2026-07-16 曾 404 一個月沒人發現
 const PAGE = getArg(
   'page',
-  '/society/%E8%A6%96%E8%A6%BA%E5%8C%96%E6%A8%A1%E7%B5%84%E5%9E%8B%E9%8C%84/',
+  '/about/%E8%A6%96%E8%A6%BA%E5%8C%96%E6%A8%A1%E7%B5%84%E5%9E%8B%E9%8C%84/',
 );
 const OUT = getArg('out', '/tmp/viz-shots');
 const VARIANTS = getArg('variants', 'light,dark,mobile').split(',');
@@ -73,8 +74,12 @@ for (const vName of VARIANTS) {
     });
     return [...found].sort();
   });
-  if (mods.length === 0)
-    console.error(`WARN ${vName}: 頁面上沒偵測到任何 tw-* 模組`);
+  if (mods.length === 0) {
+    // 空頁 = 儀器對著 404 或壞掉的 render 截圖，靜默 WARN 會讓這種故障放一個月
+    // 沒人發現（2026-07-16 型錄頁 recat 後預設路徑 404 案例）。fail loud。
+    failed++;
+    console.error(`FAIL ${vName}: 頁面上沒偵測到任何 tw-* 模組`);
+  }
 
   for (const m of mods) {
     const el = page.locator(`.${m}`).first();

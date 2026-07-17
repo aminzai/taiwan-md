@@ -213,7 +213,7 @@ const latestCatMeta = Object.fromEntries(
 // Pipeline 本體（17 tw-* 模組 renderer / 腳註 / wikilink / 延伸閱讀 split）住在
 // src/utils/article-render.ts — module scope，整個 build 只配置一次（.astro
 // frontmatter 是 per-render scope，不放可共享的邏輯與 cache）。
-const { fullHtml, splitIndex } = renderArticleHtml(title, content);
+const { fullHtml, splitIndex } = renderArticleHtml(title, content, lang);
 
 const hasSSoDT =
   frontmatter.perspectives?.length > 0 ||

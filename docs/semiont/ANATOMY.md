@@ -466,7 +466,7 @@ Layer 4: 歷史 snapshot 層
 
 ### D. 共用 utils（別重寫）
 
-`src/utils/articles-index.ts`（per-lang 文章 index cache + `getRelatedArticles` 語意鄰居）、`article-render.ts`（md→html + 17 tw-\* 視覺模組 + 延伸閱讀 split）、`categoryConfig.ts`（`getCategoryConfigs(t)` + `categoryList`）、`contributors.ts`（git info cache）、`getLangSwitchPath.ts`（跨語連結）、`staticRoutes.ts`（路由 SSOT，存在性假設一律 filesystem-derive）。`src/i18n/utils.ts`：`useTranslations` / `getLangFromUrl` / `useTranslatedPath`。
+`src/utils/articles-index.ts`（per-lang 文章 index cache + `getRelatedArticles` 語意鄰居）、`article-render.ts`（md→html + tw-\* 視覺模組（數量以 graph.md §四 為準）+ 六語 VIZ_STRINGS + 延伸閱讀 split）、`categoryConfig.ts`（`getCategoryConfigs(t)` + `categoryList`）、`contributors.ts`（git info cache）、`getLangSwitchPath.ts`（跨語連結）、`staticRoutes.ts`（路由 SSOT，存在性假設一律 filesystem-derive）。`src/i18n/utils.ts`：`useTranslations` / `getLangFromUrl` / `useTranslatedPath`。
 
 > 完整逐檔盤點（44-file inspection）：本節是索引；明細見生成本節的 inventory（2026-06-14 component-ssot-audit session）。
 
