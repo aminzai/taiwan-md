@@ -1,0 +1,19 @@
+# config/redirects-manual.txt
+#
+# 手寫 redirect 規則的家 — scripts/core/generate-redirects.mjs 讀這份檔案，
+# 原樣複製到 public/_redirects 開頭，後面接資料驅動（reports/404-monitor/latest.json）
+# 產生的條目。
+#
+# 格式：Cloudflare Pages `_redirects` 格式，每行一條規則：
+#   /source /target 301
+# - source 支援萬用字元 `*`（比對路徑前綴）
+# - 301 = permanent redirect（讓爬蟲 / 瀏覽器更新快取的目標 URL）
+# - 以 `#` 開頭的行是註解，空行會被忽略比對；產生器會把整份檔案原樣複製到
+#   public/_redirects 開頭，所以註解也會出現在輸出檔裡
+#
+# 新增規則：直接在下面加一行即可，不需要跑任何工具。
+# 這份檔案是 committed source（SSOT）；public/_redirects 是 build 產生物，
+# 已加進 .gitignore，不進 git。
+
+# iOS 會自行請求各種尺寸的 apple-touch-icon 變體，全部導回主檔
+/apple-touch-icon-* /apple-touch-icon.png 301
