@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-17
-last_session: '2026-07-17-231219-twmd-data-refresh-pm (pm 14-step green, CF 404 反彈 +1.54pp, phantom 80 新 yellow)'
+last_updated: 2026-07-18
+last_session: '2026-07-18-061012-twmd-data-refresh-am (am 14-step green, CF 404 回落 -0.87pp, rider 補 55h stale live dump)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -372,3 +372,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-17 | 221115-manual | 樂器製造 EVOLVE ship：salvage 起源＋楠梓吉他＋霧峰音梳；假產量／假書目 falsify；`8edb8f967` push | 形狀對≠事實對；點名 rewrite 可插隊 P0 | [→](memory/2026-07-17-221115-manual.md) |
 | 2026-07-17 | 231219-twmd-data-refresh-pm | pm 14-step 全綠；CF 404 16.53% +1.54pp（am 14.99）；07-16 phantom 80 新 yellow；免疫 60 同 am；`8b96967ca`| hreflang 剛拆 CF edge 未跟上；下輪 am diagnose phantom | [→](memory/2026-07-17-231219-twmd-data-refresh-pm.md) |
 | 2026-07-18 | 052228-twmd-embeddings-nightly | bge-m3 nightly 六語 4942 向量 0 fail／PASS／本機命中／`b8c157d2f`；pre-push `set -e` 撞未同步 json 靜默擋 push 走逃生閘門 | gate 意圖 vs `sh -e` 行為分岔在命令替換，git 真調用才現形（LESSONS 候選） | [→](memory/2026-07-18-052228-twmd-embeddings-nightly.md) |
+| 2026-07-18 | 061012-twmd-data-refresh-am | am 14-step 全綠；CF 404 從 17.55%→16.68%（-0.87pp）；phantom 80→15；rider 補 55h stale live dump；`0ff3bab36` | rider 是 skill 步驟連 3 cycle 漏跑；升 chained call 候選 | [→](memory/2026-07-18-061012-twmd-data-refresh-am.md) |
