@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T15:10:39.800Z",
+  "generated_at": "2026-07-17T22:11:52.085Z",
   "languages": ["en", "ja", "ko", "es", "fr"],
-  "total_entries": 12450,
+  "total_entries": 12456,
   "registry": {
     "en": {
       "toZh": {
@@ -85,6 +85,7 @@
         "/en/culture/penghu-folk-culture": "/culture/%E6%BE%8E%E6%B9%96%E6%B0%91%E4%BF%97%E6%96%87%E5%8C%96",
         "/en/culture/plurk-taiwan-microblog": "/culture/%E5%99%97%E6%B5%AAPlurk",
         "/en/culture/renjian-magazine": "/culture/%E4%BA%BA%E9%96%93%E9%9B%9C%E8%AA%8C",
+        "/en/culture/shopping-design": "/culture/Shopping%20Design",
         "/en/culture/sky-lanterns-pingxi": "/culture/%E5%A4%A9%E7%87%88",
         "/en/culture/taiwan-advertising-history": "/culture/%E5%8F%B0%E7%81%A3%E5%BB%A3%E5%91%8A%E5%8F%B2",
         "/en/culture/taiwan-anime-culture": "/culture/%E5%8F%B0%E7%81%A3%E5%8B%95%E6%BC%AB%E6%96%87%E5%8C%96",
@@ -1007,6 +1008,8 @@
         "/culture/噗浪Plurk": "/en/culture/plurk-taiwan-microblog",
         "/culture/%E4%BA%BA%E9%96%93%E9%9B%9C%E8%AA%8C": "/en/culture/renjian-magazine",
         "/culture/人間雜誌": "/en/culture/renjian-magazine",
+        "/culture/Shopping%20Design": "/en/culture/shopping-design",
+        "/culture/Shopping Design": "/en/culture/shopping-design",
         "/culture/%E5%A4%A9%E7%87%88": "/en/culture/sky-lanterns-pingxi",
         "/culture/天燈": "/en/culture/sky-lanterns-pingxi",
         "/culture/%E5%8F%B0%E7%81%A3%E5%BB%A3%E5%91%8A%E5%8F%B2": "/en/culture/taiwan-advertising-history",
@@ -2597,6 +2600,7 @@
         "/ja/culture/penghu-folk-culture": "/culture/%E6%BE%8E%E6%B9%96%E6%B0%91%E4%BF%97%E6%96%87%E5%8C%96",
         "/ja/culture/plurk-taiwan-microblog": "/culture/%E5%99%97%E6%B5%AAPlurk",
         "/ja/culture/renjian-magazine": "/culture/%E4%BA%BA%E9%96%93%E9%9B%9C%E8%AA%8C",
+        "/ja/culture/shopping-design": "/culture/Shopping%20Design",
         "/ja/culture/sky-lanterns-pingxi": "/culture/%E5%A4%A9%E7%87%88",
         "/ja/culture/taiwan-advertising-history": "/culture/%E5%8F%B0%E7%81%A3%E5%BB%A3%E5%91%8A%E5%8F%B2",
         "/ja/culture/taiwan-anime-culture": "/culture/%E5%8F%B0%E7%81%A3%E5%8B%95%E6%BC%AB%E6%96%87%E5%8C%96",
@@ -3513,6 +3517,8 @@
         "/culture/噗浪Plurk": "/ja/culture/plurk-taiwan-microblog",
         "/culture/%E4%BA%BA%E9%96%93%E9%9B%9C%E8%AA%8C": "/ja/culture/renjian-magazine",
         "/culture/人間雜誌": "/ja/culture/renjian-magazine",
+        "/culture/Shopping%20Design": "/ja/culture/shopping-design",
+        "/culture/Shopping Design": "/ja/culture/shopping-design",
         "/culture/%E5%A4%A9%E7%87%88": "/ja/culture/sky-lanterns-pingxi",
         "/culture/天燈": "/ja/culture/sky-lanterns-pingxi",
         "/culture/%E5%8F%B0%E7%81%A3%E5%BB%A3%E5%91%8A%E5%8F%B2": "/ja/culture/taiwan-advertising-history",

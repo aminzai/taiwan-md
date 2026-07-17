@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-17T15:10:43Z",
+  "timestamp": "2026-07-17T22:11:54Z",
   "total": 855,
-  "flagged": 342,
+  "flagged": 341,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -476,8 +476,8 @@
     },
     {
       "file": "lifestyle/高速公路.md",
-      "score": 6,
-      "reasons": "未人工審核; 破折號16個; 稀薄段落×5"
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句1個; 破折號14個"
     },
     {
       "file": "society/學習貧窮.md",
@@ -1018,11 +1018,6 @@
       "file": "people/朱一貴.md",
       "score": 6,
       "reasons": "年份3個; 未人工審核; 後段清單堆砌33%; 稀薄段落×7"
-    },
-    {
-      "file": "people/江振誠.md",
-      "score": 10,
-      "reasons": "未人工審核; 塑膠句1個; 破折號13個; 後段清單堆砌41%; 稀薄段落×2; 無腳註"
     },
     {
       "file": "people/蔡健雅.md",

@@ -1,8 +1,8 @@
 {
-  "totalArticles": 5095,
+  "totalArticles": 5097,
   "totalCategories": 20,
   "estimatedContributors": 66,
-  "totalTags": 6038,
+  "totalTags": 6037,
   "categories": [
     {
       "name": "es",
@@ -18,11 +18,11 @@
     },
     {
       "name": "en",
-      "count": 859
+      "count": 860
     },
     {
       "name": "ja",
-      "count": 846
+      "count": 847
     },
     {
       "name": "History",
@@ -88,7 +88,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 71
+      "count": 72
     },
     {
       "name": "人物",
@@ -168,13 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5095,
+    "zh-TW": 5097,
     "en": 0
   },
-  "lastUpdated": "2026-07-17T15:10:41.744Z",
-  "stars": 1108,
+  "lastUpdated": "2026-07-17T22:11:53.412Z",
+  "stars": 1109,
   "forks": 166,
   "zhPages": 853,
-  "enPages": 859,
+  "enPages": 860,
   "totalPages": 853
 }

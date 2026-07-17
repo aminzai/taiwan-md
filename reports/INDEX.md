@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-17 23:11
+last_generated: 2026-07-18 06:12
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-17 23:11** · 頂層 \*.md 共 **215** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-18 06:12** · 頂層 \*.md 共 **215** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -20,9 +20,9 @@ type: auto-index
 | ----------------------- | ----: | -------- | ---------------------------------------------------- |
 | `research/`             |   448 | 59.4 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `visual/`               |   111 | 214.5 MB | Visual smoke test 基線 (partial gitignored)          |
-| `editorial-room/`       |    35 | 218.5 KB | —                                                    |
+| `editorial-room/`       |    46 | 300.9 KB | —                                                    |
 | `archive/`              |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
-| `article-evolve/`       |    21 | 790.1 KB | —                                                    |
+| `article-evolve/`       |    25 | 947.6 KB | —                                                    |
 | `weekly/`               |    20 | 3.7 MB   | Self-evolve weekly digest                            |
 | `article-projection/`   |    13 | 180.4 KB | —                                                    |
 | `scratch/`              |    10 | 1.7 MB   | POC / 暫存 (per audit Layer 1，已 .gitignored)       |
@@ -35,7 +35,7 @@ type: auto-index
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 81.4 KB  | —                                                    |
+| `404-monitor/`          |     2 | 94.9 KB  | —                                                    |
 | `fork-census/`          |     2 | 36.2 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |

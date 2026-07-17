@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-07-17T15:10:43.636Z",
+  "generatedAt": "2026-07-17T22:11:55.195Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "765e04b7a3117ce07060b58e5f44a65b1a28cedf",
+      "date": "2026-07-18T05:27:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] lessons: hook-set-e-cmdsubst-abort — husky sh -e 讓 pre-push orphan gate 的命令替換賦值靜默 abort，繞過只認 grep 的判斷邏輯",
+      "articles": []
+    },
+    {
+      "hash": "f6e64f81934b7a1bc7d31140a115160a4ef6f550",
+      "date": "2026-07-18T05:25:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-18-052228-twmd-embeddings-nightly — bge-m3 nightly 4942 向量 0 fail / PASS / b8c157d2f + pre-push set -e 脆弱性",
+      "articles": []
+    },
+    {
+      "hash": "b8c157d2f6bb4f03b532bce488118704620da212",
+      "date": "2026-07-18T05:18:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-18 05:18",
+      "articles": []
+    },
+    {
+      "hash": "0934bb0ad75ba25e683747038221f25e09223bb4",
+      "date": "2026-07-18T00:38:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel-nightly: Tier 0b metadata bump — 7 zh commits × 5 langs = 35 translations 補源指標",
+      "articles": []
+    },
+    {
+      "hash": "3c8273c043bfe36587d22dbe13d6b441a9f0267c",
+      "date": "2026-07-17T23:15:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-17-231219-twmd-data-refresh-pm — pm 14-step 全綠，CF 404 反彈＋phantom 新 yellow",
+      "articles": []
+    },
+    {
+      "hash": "8b96967ca96b9df5c54f104f65b5e824993809c8",
+      "date": "2026-07-17T23:11:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-pm: 14-step ground truth refresh — 2026-07-17 pm",
+      "articles": []
+    },
     {
       "hash": "271b623c0a572bb0acd61a20b65b154ea19fed62",
       "date": "2026-07-17T22:13:11+08:00",

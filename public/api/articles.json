@@ -448,6 +448,17 @@
     "path": "fr/People/red-shin-minecraft-youtuber.md"
   },
   {
+    "title": "《Shopping Design》：デザインを選別する雑誌が最後に読者に問うのは、自分自身のこと",
+    "description": "2006年に創刊し、第1号で「白」をテーマとした『Shopping Design』は、20年をかけて「デザイン」を展示場の専門用語から、店舗を巡りアイテムを選ぶ日常の動詞へと変えた。それが台湾に真に教えたのは、「見極める力」が訓練可能な能力であるということだ。そしてその能力は、年間ベスト100リスト、季刊、カーニバルへと拡大され、さらに親会社の「雑誌出版＋広告サービス」という同一の免許証へと拡張された。つまり、見極め方を教えるこの雑誌が、最後に読者に問う対象は、まさにそれ自身なのである。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/culture/shopping-design",
+    "readingTime": 57,
+    "featured": false,
+    "date": "2026-07-13",
+    "path": "ja/Culture/shopping-design.md"
+  },
+  {
     "title": "《인간》 잡지",
     "description": "47호, 4년, 사진과 문자로 일으킨 조용한 혁명 — 타이완 르포르타주 문학의 출발점",
     "category": "ko",
@@ -9441,12 +9452,12 @@
     "path": "Art/台灣傳統藝術.md"
   },
   {
-    "title": "台灣感性：韓國人眼中的台式美學",
-    "description": "兩個高雄人花十年拍下兩千種鐵窗花，韓國人花五年把它拍成一個文化現象——「대만감성」如何讓台灣的日常街景成為亞洲最迷人的美學符號",
+    "title": "台灣感性：我們是不是要韓國人先按讚，才敢說自己的老房子很美？",
+    "description": "2008 年，台南一群人就發起「老屋欣力」，開始重新看自己的老房子，比韓國人用「대만감성」瘋台灣街景整整早了十一年。可是當這股風潮在 2024 年被 K-pop 鏡頭引爆，我們卻沿用觀光署、文化部的「文化輸出」框架去講它，彷彿那份最早的凝視，得先被韓國人按過讚，才算數。",
     "category": "Culture",
     "tags": [],
     "url": "https://taiwan.md/culture/%E5%8F%B0%E7%81%A3%E6%84%9F%E6%80%A7",
-    "readingTime": 21,
+    "readingTime": 52,
     "featured": true,
     "date": "2026-04-08",
     "path": "Culture/台灣感性.md"
@@ -11546,25 +11557,6 @@
   },
   {
     "title": "江振誠",
-    "description": "從淡水商工到世界第14、塞舌爾的頓悟到台北大直的回歸，André Chiang 以八角哲學在國際餐飲界為台灣廚師確立了一個新座標",
-    "category": "People",
-    "tags": [
-      "人物",
-      "江振誠",
-      "名廚",
-      "米其林",
-      "RAW",
-      "餐飲",
-      "台灣"
-    ],
-    "url": "https://taiwan.md/people/%E6%B1%9F%E6%8C%AF%E8%AA%A0",
-    "readingTime": 20,
-    "featured": false,
-    "date": "2026-03-30",
-    "path": "People/江振誠.md"
-  },
-  {
-    "title": "江振誠",
     "description": "淡水商工から世界第14位へ、セーシェルでの悟りから台北大直への回帰へ。André Chiangは八角哲学をもって国際飲食界において台湾のシェフたちに新たな座標を打ち立てた",
     "category": "ja",
     "tags": [
@@ -11581,6 +11573,25 @@
     "featured": false,
     "date": "2026-03-30",
     "path": "ja/People/andre-chiang-taiwanese-culinary-innovator.md"
+  },
+  {
+    "title": "江振誠：他從來不等一件事被定義死，就先轉身",
+    "description": "1997 年，西華飯店一個二十出頭、不會半句法文的副主廚，跟兩位法國三星主廚共事十天，然後買了機票。從南法削兩年馬鈴薯，到把新加坡的餐廳排名推上世界第 14 隔年主動熄燈，再到台北開出最難訂的 RAW 又在第十年轉身——江振誠最不可替代的動作，是每次快被一個頭銜定義死的時候，先關燈去問下一題：台灣味到底是什麼。",
+    "category": "People",
+    "tags": [
+      "人物",
+      "江振誠",
+      "名廚",
+      "米其林",
+      "RAW",
+      "餐飲",
+      "台灣"
+    ],
+    "url": "https://taiwan.md/people/%E6%B1%9F%E6%8C%AF%E8%AA%A0",
+    "readingTime": 57,
+    "featured": true,
+    "date": "2026-07-17",
+    "path": "People/江振誠.md"
   },
   {
     "title": "江賢二：台湾を四十五年離れ、帰郷して初めて生涯最高の絵を描けた画家",
@@ -16480,20 +16491,20 @@
   },
   {
     "title": "高速公路：從麥帥公路到雪山隧道，台灣國道五十年的權力與速度",
-    "description": "1964 年的麥帥公路只有 23 公里，今天的台灣國道路網超過 1,000 公里。從蔣經國拍板的中山高、被嘲笑「政治路」的福高、世界最難挖的雪隧，到 ETC 改變每個駕駛的繳費習慣——一條條柏油記錄了戰後台灣的政治意志、工程極限與民間反抗。",
+    "description": "1978 年中山高通車那天，剪綵的不是蔣經國；這條路流傳五十年的說法，幾乎沒有一個查得到出處。但另一條線查多少次都推不翻：地政官員王朝生經手的中壢獨居老人、楊梅盲人夫妻，到高雄拷潭三度被徵收、對著王爺祈求「千萬不要開闢成功」的老農王春發，每一次「快一點」的背後，都有人在替速度付帳。",
     "category": "Lifestyle",
     "tags": [
+      "高速公路",
       "國道",
+      "中山高速公路",
       "交通建設",
-      "十大建設",
-      "雪山隧道",
-      "ETC",
-      "戰後台灣"
+      "國道收費員",
+      "土地徵收"
     ],
     "url": "https://taiwan.md/lifestyle/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF",
-    "readingTime": 18,
+    "readingTime": 68,
     "featured": false,
-    "date": "2026-05-03",
+    "date": "2026-07-18",
     "path": "Lifestyle/高速公路.md"
   },
   {
@@ -19053,11 +19064,18 @@
   },
   {
     "title": "發票：1951 年那張把全民變成稅務稽查員的紙",
-    "description": "1951 年元旦，台灣省財政廳長任顯群把抽獎號碼印在每一張收據上，要求全台商家照著開。一張 20 元的飲料發票同時是交易明細、抽獎券，也是政府放出去的稽查耳目。70 年後它演化成雲端載具、社福命脈、AI 演算法爭議，從威權時期的財政急救包長成台灣特有的數位治理樣本。",
+    "description": "1951 年元旦，38 歲的財政廳長任顯群把抽獎號碼印上收據，讓消費者為了一張免費彩券主動替國家盯著店家報稅，一年就把營業稅收拉高七成五。七十多年後，這套設計比它的發明人活得久、比它誕生時的威權政體都活得久——直到 2024 年演算法接手決定誰會中獎，這串號碼才第一次被要求證明：它憑什麼還是公平的？",
     "category": "Economy",
-    "tags": [],
+    "tags": [
+      "Economy",
+      "統一發票",
+      "財政稅制",
+      "任顯群",
+      "數位治理",
+      "公益"
+    ],
     "url": "https://taiwan.md/economy/%E7%99%BC%E7%A5%A8",
-    "readingTime": 20,
+    "readingTime": 51,
     "featured": false,
     "date": "2026-05-01",
     "path": "Economy/發票.md"
@@ -30973,14 +30991,7 @@
     "title": "El panorama político y el sistema electoral de Taiwán",
     "description": "Desde el marco constitucional y los mecanismos electorales centrales y locales hasta la profunda cultura política partidista, un análisis integral de cómo Taiwán mantiene una sociedad democrática vibrante y rigurosamente institucionalizada en medio de una compleja geopolítica.",
     "category": "es",
-    "tags": [
-      "sistema político",
-      "sistema electoral",
-      "semipresidencialismo",
-      "autonomía local",
-      "sociedad civil",
-      "democracia digital"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/society/taiwan-political-landscape-and-electoral-system",
     "readingTime": 56,
     "featured": false,
@@ -47616,6 +47627,17 @@
     "path": "es/Geography/shilin.md"
   },
   {
+    "title": "Shopping Design: A Magazine That Teaches You to Curate Design, Ultimately Asking You to Judge Itself",
+    "description": "Launched in 2006 with a white-themed first issue, Shopping Design has spent two decades turning 'design' from an exhibition-bound noun into a daily verb for browsing and selecting goods. What it truly taught Taiwan is that 'discernment' can be cultivated as a skill—and it expanded this skill into an annual Top 100 list, a quarterly magazine, a carnival, and even onto its parent company's single 'magazine publishing + advertising services' license. Thus, this magazine that teaches you to discern ultimately asks you to discern itself.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/culture/shopping-design",
+    "readingTime": 129,
+    "featured": false,
+    "date": "2026-07-13",
+    "path": "en/Culture/shopping-design.md"
+  },
+  {
     "title": "Shopping Design：教你採買設計的雜誌，最後要你分辨的是它自己",
     "description": "2006 年創刊、第一期談白色的《Shopping Design》，二十年來把設計從展場名詞變成逛店選物的日常動詞。它真正教會台灣的，是「分辨」可以被練成一種能力——而它把這能力擴成年度百大名單、季刊、嘉年華，也擴到母公司同一張「雜誌出版＋廣告服務」的執照上。於是這本教你分辨的雜誌，最後要你分辨的，就是它自己。",
     "category": "Culture",
@@ -60583,14 +60605,7 @@
     "title": "대만의 정치 환경과 선거 제도",
     "description": "헌법 체제, 중앙과 지방의 선거 메커니즘, 그리고 심층적인 정당 정치 문화에 이르기까지, 대만이 복잡한 지정학 속에서 역동적이고 제도적으로 엄밀한 민주 사회를 어떻게 유지해 왔는지를 종합적으로 분석한다",
     "category": "ko",
-    "tags": [
-      "정치 체제",
-      "선거 제도",
-      "반대통령제",
-      "지방 자치",
-      "시민 사회",
-      "디지털 민주주의"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/society/taiwan-political-landscape-and-electoral-system",
     "readingTime": 20,
     "featured": false,
