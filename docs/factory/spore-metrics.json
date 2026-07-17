@@ -6053,6 +6053,18 @@
       "source": "chrome-mcp"
     },
     {
+      "spore": 155,
+      "dPlus": 4,
+      "at": "2026-07-18 06:45",
+      "batch": "batch-2026-07-18-am",
+      "views": 522,
+      "likes": 14,
+      "reposts": 1,
+      "comments": 2,
+      "shares": 2,
+      "source": "harvest"
+    },
+    {
       "spore": 156,
       "dPlus": 1,
       "at": "2026-07-15 06:40",
@@ -6063,6 +6075,42 @@
       "comments": 0,
       "shares": null,
       "source": "chrome-mcp"
+    },
+    {
+      "spore": 156,
+      "dPlus": 4,
+      "at": "2026-07-18 06:45",
+      "batch": "batch-2026-07-18-am",
+      "views": 744,
+      "likes": 5,
+      "reposts": 1,
+      "comments": 0,
+      "shares": null,
+      "source": "harvest"
+    },
+    {
+      "spore": 157,
+      "dPlus": 3,
+      "at": "2026-07-18 06:45",
+      "batch": "batch-2026-07-18-am",
+      "views": 1580,
+      "likes": 13,
+      "reposts": 1,
+      "comments": 1,
+      "shares": null,
+      "source": "harvest"
+    },
+    {
+      "spore": 158,
+      "dPlus": 3,
+      "at": "2026-07-18 06:45",
+      "batch": "batch-2026-07-18-am",
+      "views": 598,
+      "likes": 19,
+      "reposts": 7,
+      "comments": 0,
+      "shares": null,
+      "source": "harvest"
     }
   ]
 }

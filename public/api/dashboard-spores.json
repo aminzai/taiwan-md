@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T22:11:52.160974Z",
+  "lastUpdated": "2026-07-17T22:41:35.512721Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 148,
@@ -32,10 +32,10 @@
       "url": "https://x.com/taiwandotmd/status/2077235621287084160",
       "highlight": "機構規範 vs 市場拉扯；護病比入法後人手仍可能關床塞急診",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 598,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 157,
@@ -48,10 +48,10 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DazHQR3kz3B",
       "highlight": "機構規範 vs 市場拉扯；護病比入法後人手仍可能關床塞急診",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 1580,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 156,
@@ -64,7 +64,7 @@
       "url": "https://x.com/taiwandotmd/status/2076992601543327976",
       "highlight": "同#155六段長文，X Premium inline s156 UTM；方形production圖與日星字體",
       "views_7d": null,
-      "views_latest": 344,
+      "views_latest": 744,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -80,7 +80,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DaxYe4Sk52Q",
       "highlight": "從台北戶外吸菸室回看1937至2026年的菸業、反菸與公共空氣發展足跡；方形production圖、日星字體、六段長文",
       "views_7d": null,
-      "views_latest": 451,
+      "views_latest": 522,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -320,7 +320,7 @@
     {
       "week": "2026-W29",
       "published": 4,
-      "avgViews": 398
+      "avgViews": 861
     }
   ],
   "harvestStatus": [
@@ -1771,8 +1771,8 @@
       "publishDate": "2026-07-14",
       "daysSincePublish": 4,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-07-15 06:40"
+      "harvestCount": 2,
+      "lastHarvest": "2026-07-18 06:45"
     },
     {
       "n": 156,
@@ -1781,8 +1781,8 @@
       "publishDate": "2026-07-14",
       "daysSincePublish": 4,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-07-15 06:40"
+      "harvestCount": 2,
+      "lastHarvest": "2026-07-18 06:45"
     },
     {
       "n": 157,
@@ -1791,8 +1791,8 @@
       "publishDate": "2026-07-15",
       "daysSincePublish": 3,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-07-18 06:45"
     },
     {
       "n": 158,
@@ -1801,8 +1801,8 @@
       "publishDate": "2026-07-15",
       "daysSincePublish": 3,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-07-18 06:45"
     }
   ]
 }

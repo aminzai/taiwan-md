@@ -1,10 +1,10 @@
 {
-  "_generated": "2026-07-15T23:10:15+08:00",
+  "_generated": "2026-07-18T06:41:35+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 148,
     "articles": 72,
-    "withMetrics": 136
+    "withMetrics": 138
   },
   "spores": [
     {
@@ -8202,16 +8202,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DaxYe4Sk52Q",
       "template": "B 冷知識型／歷史足跡",
       "metrics": {
-        "views": 451,
-        "likes": 11,
+        "views": 522,
+        "likes": 14,
         "reposts": 1,
-        "comments": 1,
-        "shares": 1
+        "comments": 2,
+        "shares": 2
       },
       "metricsAsOf": {
-        "dPlus": 1,
-        "harvestDate": "2026-07-15 06:40",
-        "batch": "batch-2026-07-15-am",
+        "dPlus": 4,
+        "harvestDate": "2026-07-18 06:45",
+        "batch": "batch-2026-07-18-am",
         "source": "harvest"
       },
       "history": [
@@ -8224,6 +8224,16 @@
           "reposts": 1,
           "comments": 1,
           "shares": 1
+        },
+        {
+          "dPlus": 4,
+          "harvestDate": "2026-07-18 06:45",
+          "batch": "batch-2026-07-18-am",
+          "views": 522,
+          "likes": 14,
+          "reposts": 1,
+          "comments": 2,
+          "shares": 2
         }
       ]
     },
@@ -8238,16 +8248,16 @@
       "url": "https://x.com/taiwandotmd/status/2076992601543327976",
       "template": "B 冷知識型／歷史足跡",
       "metrics": {
-        "views": 344,
-        "likes": 4,
+        "views": 744,
+        "likes": 5,
         "reposts": 1,
         "comments": 0,
         "shares": null
       },
       "metricsAsOf": {
-        "dPlus": 1,
-        "harvestDate": "2026-07-15 06:40",
-        "batch": "batch-2026-07-15-am",
+        "dPlus": 4,
+        "harvestDate": "2026-07-18 06:45",
+        "batch": "batch-2026-07-18-am",
         "source": "harvest"
       },
       "history": [
@@ -8257,6 +8267,16 @@
           "batch": "batch-2026-07-15-am",
           "views": 344,
           "likes": 4,
+          "reposts": 1,
+          "comments": 0,
+          "shares": null
+        },
+        {
+          "dPlus": 4,
+          "harvestDate": "2026-07-18 06:45",
+          "batch": "batch-2026-07-18-am",
+          "views": 744,
+          "likes": 5,
           "reposts": 1,
           "comments": 0,
           "shares": null
@@ -8274,14 +8294,30 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DazHQR3kz3B",
       "template": "A2 結構性題目+護病比",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
+        "views": 1580,
+        "likes": 13,
+        "reposts": 1,
+        "comments": 1,
         "shares": null
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 3,
+        "harvestDate": "2026-07-18 06:45",
+        "batch": "batch-2026-07-18-am",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 3,
+          "harvestDate": "2026-07-18 06:45",
+          "batch": "batch-2026-07-18-am",
+          "views": 1580,
+          "likes": 13,
+          "reposts": 1,
+          "comments": 1,
+          "shares": null
+        }
+      ]
     },
     {
       "id": 158,
@@ -8294,14 +8330,30 @@
       "url": "https://x.com/taiwandotmd/status/2077235621287084160",
       "template": "A2 結構性題目+護病比",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
+        "views": 598,
+        "likes": 19,
+        "reposts": 7,
+        "comments": 0,
         "shares": null
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 3,
+        "harvestDate": "2026-07-18 06:45",
+        "batch": "batch-2026-07-18-am",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 3,
+          "harvestDate": "2026-07-18 06:45",
+          "batch": "batch-2026-07-18-am",
+          "views": 598,
+          "likes": 19,
+          "reposts": 7,
+          "comments": 0,
+          "shares": null
+        }
+      ]
     }
   ],
   "byArticle": {
