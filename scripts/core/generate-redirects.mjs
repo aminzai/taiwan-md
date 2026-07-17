@@ -369,16 +369,27 @@ async function main() {
     const m = line.trim().match(/^(\/\S+)\s+(\/\S+)\s+301$/);
     return m ? [m[1], m[2]] : null;
   };
+  // Astro 的 redirects config 兩端都要「解碼後」的路徑（inline 條目一直是
+  // raw CJK 字串）；沿用 _redirects 的 percent-encoded 字串會被 Astro 渲染
+  // canonical 時再編一次成 %25——2026-07-17 夜 CI strict gate 第一戰擋下的
+  // 就是這個雙重編碼。
+  const dec = (s) => {
+    try {
+      return decodeURIComponent(s);
+    } catch {
+      return s;
+    }
+  };
   for (const line of manualBlock.split('\n')) {
     if (line.startsWith('#') || !line.trim()) continue;
     const rule = parseRuleLine(line);
     if (rule && !/\.[a-z0-9]{2,5}$/i.test(rule[0])) {
-      astroRedirects[rule[0]] = rule[1];
+      astroRedirects[dec(rule[0])] = dec(rule[1]);
     }
   }
   for (const c of kept) {
     if (!/\.[a-z0-9]{2,5}$/i.test(c.source)) {
-      astroRedirects[c.source] = c.target;
+      astroRedirects[dec(c.source)] = dec(c.target);
     }
   }
   const ASTRO_OUT = join(REPO, 'config/redirects-generated.json');
