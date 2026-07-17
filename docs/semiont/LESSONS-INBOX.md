@@ -331,6 +331,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-17 manual — 對外公告的機器 URL 契約沒有對賬閘門，自己成了最大死鏈發行者
+
+- **pattern**: outbound-url-contract-unreconciled
+- **原則**：站體對機器公告的每一條 URL（hreflang / canonical / sitemap / 頁面承諾的檔名 pattern / 內嵌 script 裡 URL 形狀的字串）都是一份契約；沒有「公告 vs 真實 route 表」的對賬閘門，公告層就會各自算 URL 並靜默發行死鏈。爬蟲會忠實跟隨——78% 的 404 是我們自己發出去的邀請。
+- **觸發**：2026-07-17 哲宇 /goal 查 404 根因。hreflang 字串拼接 13,014 條死 alternate（99.8% 頁面）+ registry fromZh 被別名蓋掉（可見切換器同病）+ taiwan-shape 公告 22 縣市只放 6 檔 + ReaderSettings 註解被 Googlebot 當 URL 爬。修復 `f369f3c8e`＋`check-url-contract.mjs` 對舊 dist 實測 18,406 dead（sitemap 0 dead——唯一有對賬機制的公告層唯一乾淨）。證據鏈 [reports/404-root-cause-2026-07-17.md](../../reports/404-root-cause-2026-07-17.md)
+- **instances**：
+  - 同日四個 fold 進既有反射的 instance（不另開 entry）：instrumentation-audit 查註冊不查發射 → #82 驗證；`<strange-chars>` 是 CF 佔位符被當站上 bug 追 → #24 驗證；2026-04-18 報告 handoff 五格三個月全未勾 → #15 驗證；EXP-A 只修 apple-touch-icon 主檔漏尺寸變體 → #67 驗證
+- **可能層級**：通用反射（候選：#82 的發佈側新維度，或獨立編號）
+- **相關**：#82（proxy signal——差異：#82 講我們**消費**的訊號量到替身，本條講我們**發佈**的契約完全沒有被驗證這件事）＋ #52（immune 沒 fail loud）
+- **verification_count**: 1
+
 ### 2026-07-16 recall-workflow — 背景 agent 不跨 session 存活，中途收官 handoff 要寫 re-dispatch 分支
 
 - **pattern**: background-agent-session-death
