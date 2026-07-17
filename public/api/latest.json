@@ -1,8 +1,44 @@
 {
-  "_generated": "2026-07-16T22:11:20.133Z",
+  "_generated": "2026-07-17T11:26:52.195Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台灣人工智慧學校：那通沒打完的電話，跟一萬名 AI 工程師",
+        "desc": "2020 年 3 月 27 日，陳昇瑋慎重打電話給天下雜誌主編：他想開一種免費的全民程式課。兩天後他直排輪跌倒，13 天後不治，44 歲。他過世時，自己 2018 年創辦的台灣人工智慧學校（AIA）已訓練超過 6,000 人。同期國發會「AI 小國大戰略」喊 5 年 160 億，他靠台塑、奇美、英業達等六家企業 1.8 億民間募資自己開了學校。八年後校友破萬。AIA 是台灣產業升級裡，最不像台灣的一塊拼圖。",
+        "category": "technology",
+        "href": "/technology/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%AD%B8%E6%A0%A1",
+        "date": "2026-07-17T15:40:32+08:00",
+        "readingTime": 18,
+        "image": "/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp"
+      },
+      {
+        "title": "台灣人工智慧實驗室 (Taiwan AI Labs)",
+        "desc": "由「PTT之父」杜奕瑾2017年3月創立的非營利AI研究機構。開源模型：TAIDE（繁體中文大型語言模型）、TAME、FedGPT，超過600億token繁體中文語料。專注智慧醫療、認知戰防制。COVID社交距離App（去中心化藍牙）。",
+        "category": "technology",
+        "href": "/technology/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%AF%A6%E9%A9%97%E5%AE%A4",
+        "date": "2026-07-17T15:40:32+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "開放文化基金會：幫台灣最不受控的一群人，做最無聊的那件事",
+        "desc": "2020 年口罩地圖三天上線，全台灣都記得那個奇蹟，沒人記得是誰幫專案報帳、簽約、報勞健保。那個後台叫開放文化基金會——一場喊著「沒有人是萬能的」的去中心化運動，為了讓黑客繼續黑客，最後得自己長出一個會開發票、受董事會約束的財團法人。十年後，這個只想幫人報帳的後台，成了台灣在國際上談數位人權時會被想起的名字。",
+        "category": "technology",
+        "href": "/technology/%E9%96%8B%E6%94%BE%E6%96%87%E5%8C%96%E5%9F%BA%E9%87%91%E6%9C%83",
+        "date": "2026-07-17T15:40:32+08:00",
+        "readingTime": 13,
+        "image": "/article-images/technology/ocf-open-freedom-share-poster.webp"
+      },
+      {
+        "title": "台灣高等教育的擴張與退場：從 58 所大學到 148 所，然後開始關門",
+        "desc": "1994 年四一〇遊行喊出廣設大學，不到二十年，大學校院從 58 所膨脹到 148 所，淨在學率衝破七成。然後少子化的牆到了：學生數 2012 年到頂，退場條例卻等到 2022 年才立法。高鳳、永達、稻江先後熄燈，永達安置的學生近三分之一沒走到畢業，退場教師轉職成功率 14%。這是一場只設計了開門的實驗——關門的規則遲到了十年，紅利真實而分散，帳單落在最沒有選擇的人身上。",
+        "category": "society",
+        "href": "/society/%E5%8F%B0%E7%81%A3%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E6%93%B4%E5%BC%B5%E8%88%87%E9%80%80%E5%A0%B4",
+        "date": "2026-07-17T11:49:24+08:00",
+        "readingTime": 20,
+        "image": "/article-images/society/yungta-gate-2013.webp"
+      },
       {
         "title": "大罷免：三十三案全數未過的史上最大罷免潮，量出台灣民主的每一道刻度",
         "desc": "2025 年 7 月 26 日深夜，全台三分之一選區同時開票，25 案罷免全數未過。從青鳥行動到宣稱逾 130 萬人次的連署、三波投票 33 案掛零，這場台灣史上規模最大的罷免潮沒有罷掉任何一個人，卻把民主的動員能量、門檻的高度與極化的代價，第一次同時量了出來。",
@@ -236,42 +272,6 @@
         "date": "2026-07-11T22:19:26+08:00",
         "readingTime": 14,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg"
-      },
-      {
-        "title": "閃靈：把台灣歷史唱進黑金屬的樂團",
-        "desc": "閃靈是 1995 年成立於台北的台灣重金屬樂團，以黑金屬、二胡、台語、台灣神話、亡靈敘事與歷史創傷為核心，把林投姊、霧社事件、二二八事件、高砂義勇隊、白色恐怖與台灣主權議題推上國際金屬舞台。它不是林昶佐從政前的背景板，而是一個由 Freddy、Doris、Jesse、Dani、CJ 等團員共同撐出的創作體。",
-        "category": "music",
-        "href": "/music/%E9%96%83%E9%9D%88",
-        "date": "2026-07-11T21:28:38+08:00",
-        "readingTime": null,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/12-08_Wacken_Chthonic_02.jpg/1280px-12-08_Wacken_Chthonic_02.jpg"
-      },
-      {
-        "title": "大支：從台南練功房走出的台語饒舌校長",
-        "desc": "大支（Dwagie，本名曾冠榕）是台南出身的台灣饒舌歌手、人人有功練創辦人。從 MU 留言板與魔岩唱片《舌粲蓮花》，到〈台灣SONG〉、《人》、動物權、大嘻哈時代與台南嘻哈教育，他把台語饒舌、地方場域、公共議題、新世代培力與台灣主體意識放進同一支麥克風，也讓台南成為台灣饒舌史不能跳過的現場。",
-        "category": "people",
-        "href": "/people/%E5%A4%A7%E6%94%AF",
-        "date": "2026-07-11T21:09:12+08:00",
-        "readingTime": 14,
-        "image": "/article-images/music/dwagie-portrait-2019.webp"
-      },
-      {
-        "title": "史明：用一間餃子店，養了四十年的台灣革命",
-        "desc": "史明本名施朝暉，曾在中國替中共做地下情報，卻在親眼見過土改屠殺後幻滅，回台密謀刺殺蔣介石，事敗後偷渡日本。他在東京池袋開了一間叫「新珍味」的麵店，白天賣餃子、夜晚寫台灣史，用這間店的收入養了四十年的台獨運動，也寫出喚起台灣民族意識的《台灣人四百年史》。",
-        "category": "people",
-        "href": "/people/%E5%8F%B2%E6%98%8E",
-        "date": "2026-07-11T12:28:54+08:00",
-        "readingTime": 13,
-        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
-      },
-      {
-        "title": "臺灣島史觀：被反覆統治的島，如何發明自己的主體性",
-        "desc": "臺灣島史觀把台灣從外部政權的年表中拿回來，改問這座島上的人如何生活、遷徙、被統治、求生與重組記憶。它不是把台灣寫成天生特別的島，而是提醒我們：認同也會從共同生活、共同受傷與共同承擔中長出來；台灣史的主角，不該永遠只是來過的政權。",
-        "category": "history",
-        "href": "/history/%E5%8F%B0%E7%81%A3%E5%B3%B6%E5%8F%B2%E8%A7%80",
-        "date": "2026-07-11T12:25:15+08:00",
-        "readingTime": null,
-        "image": "/article-images/history/formosa-dutch-map-1640.webp"
       }
     ],
     "en": [

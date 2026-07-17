@@ -1,47 +1,47 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-17T06:11:07+08:00",
-    "zhCommitHead": "9460cf123",
+    "lastUpdated": "2026-07-17T19:26:37+08:00",
+    "zhCommitHead": "0c1ef7426",
     "totalZh": 855,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 855,
-        "fresh": 834,
-        "stale": 18,
-        "metadata_stale": 2,
+        "fresh": 824,
+        "stale": 24,
+        "metadata_stale": 6,
         "missing": 1,
         "orphan": 0
       },
       "ja": {
         "total_zh": 855,
-        "fresh": 825,
-        "stale": 19,
-        "metadata_stale": 2,
+        "fresh": 815,
+        "stale": 25,
+        "metadata_stale": 6,
         "missing": 9,
         "orphan": 0
       },
       "ko": {
         "total_zh": 855,
-        "fresh": 824,
-        "stale": 19,
-        "metadata_stale": 2,
+        "fresh": 814,
+        "stale": 25,
+        "metadata_stale": 6,
         "missing": 10,
         "orphan": 0
       },
       "es": {
         "total_zh": 855,
-        "fresh": 824,
-        "stale": 19,
-        "metadata_stale": 2,
+        "fresh": 814,
+        "stale": 25,
+        "metadata_stale": 6,
         "missing": 10,
         "orphan": 0
       },
       "fr": {
         "total_zh": 855,
-        "fresh": 823,
-        "stale": 20,
-        "metadata_stale": 2,
+        "fresh": 813,
+        "stale": 26,
+        "metadata_stale": 6,
         "missing": 10,
         "orphan": 0
       }
@@ -8757,10 +8757,10 @@
     },
     "Technology/台灣人工智慧學校.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:4e403df024cd43dc",
-        "bodyHash": "sha256:04e9009c16ede3cb"
+        "lastCommit": "c8e5ac9e",
+        "lastModified": "2026-07-17T15:40:32+08:00",
+        "contentHash": "sha256:aeb22f9372adc2ef",
+        "bodyHash": "sha256:6ec984b54802baea"
       },
       "translations": {
         "en": {
@@ -8774,8 +8774,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Technology/taiwan-ai-academy.md",
@@ -8788,8 +8790,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Technology/taiwan-ai-academy.md",
@@ -8802,8 +8806,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Technology/taiwan-ai-academy.md",
@@ -8816,8 +8822,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Technology/taiwan-ai-academy.md",
@@ -8830,8 +8838,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -8917,9 +8927,9 @@
     },
     "Technology/台灣人工智慧實驗室.md": {
       "zh": {
-        "lastCommit": "ab47ff39",
-        "lastModified": "2026-06-15T23:21:34+08:00",
-        "contentHash": "sha256:04b7d67d84ccc6da",
+        "lastCommit": "c8e5ac9e",
+        "lastModified": "2026-07-17T15:40:32+08:00",
+        "contentHash": "sha256:905a736099878754",
         "bodyHash": "sha256:f134440a7453a1a5"
       },
       "translations": {
@@ -8934,8 +8944,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Technology/taiwan-ai-labs.md",
@@ -8948,8 +8960,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Technology/taiwan-ai-labs.md",
@@ -8962,8 +8976,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Technology/taiwan-ai-labs.md",
@@ -8976,8 +8992,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Technology/taiwan-ai-labs.md",
@@ -8990,8 +9008,10 @@
           "translationLastModified": "2026-06-16T02:23:25+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -11127,9 +11147,9 @@
     },
     "Technology/開放文化基金會.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:e2396069534b4e28",
+        "lastCommit": "c8e5ac9e",
+        "lastModified": "2026-07-17T15:40:32+08:00",
+        "contentHash": "sha256:c4ab423af923a984",
         "bodyHash": "sha256:429230fac9b89ba1"
       },
       "translations": {
@@ -11144,8 +11164,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Technology/open-culture-foundation.md",
@@ -11158,8 +11180,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Technology/open-culture-foundation.md",
@@ -11172,8 +11196,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Technology/open-culture-foundation.md",
@@ -11186,8 +11212,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Technology/open-culture-foundation.md",
@@ -11200,8 +11228,10 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -17937,9 +17967,9 @@
     },
     "Society/學習貧窮.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:cb63d08cef0d55b9",
+        "lastCommit": "9d671671",
+        "lastModified": "2026-07-17T11:42:04+08:00",
+        "contentHash": "sha256:87b9bdce32cd9e14",
         "bodyHash": "sha256:605da09515483b90"
       },
       "translations": {
@@ -17954,8 +17984,10 @@
           "translationLastModified": "2026-07-12T22:17:28+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Society/learning-poverty-in-taiwan.md",
@@ -17968,8 +18000,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Society/learning-poverty-in-taiwan.md",
@@ -17982,8 +18016,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Society/learning-poverty-in-taiwan.md",
@@ -17996,8 +18032,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Society/learning-poverty-in-taiwan.md",
@@ -18010,8 +18048,10 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -18213,10 +18253,10 @@
     },
     "Society/台灣少子化危機.md": {
       "zh": {
-        "lastCommit": "80abaab1",
-        "lastModified": "2026-06-17T00:53:41+08:00",
-        "contentHash": "sha256:4d4988b8bf883dac",
-        "bodyHash": "sha256:c3704f8a5bbd569e"
+        "lastCommit": "9d671671",
+        "lastModified": "2026-07-17T11:42:04+08:00",
+        "contentHash": "sha256:9829b9d0d40f4604",
+        "bodyHash": "sha256:f3644fb9b5fc5a53"
       },
       "translations": {
         "en": {
@@ -18230,8 +18270,10 @@
           "translationLastModified": "2026-06-17T02:50:01+08:00",
           "inferred": false,
           "footnoteDefs": 73,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Society/taiwan-low-birth-rate-crisis.md",
@@ -18244,8 +18286,10 @@
           "translationLastModified": "2026-06-17T02:50:01+08:00",
           "inferred": false,
           "footnoteDefs": 73,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Society/taiwan-low-birth-rate-crisis.md",
@@ -18258,8 +18302,10 @@
           "translationLastModified": "2026-06-17T02:50:01+08:00",
           "inferred": false,
           "footnoteDefs": 73,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Society/taiwan-low-birth-rate-crisis.md",
@@ -18272,8 +18318,10 @@
           "translationLastModified": "2026-06-17T02:50:01+08:00",
           "inferred": false,
           "footnoteDefs": 73,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Society/low-birth-rate-crisis-new.md",
@@ -18286,8 +18334,10 @@
           "translationLastModified": "2026-06-17T02:50:01+08:00",
           "inferred": false,
           "footnoteDefs": 73,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -19653,10 +19703,10 @@
     },
     "Society/台灣高等教育擴張與退場.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:2521a3fdec4ce789",
-        "bodyHash": "sha256:a1690337698d47c6"
+        "lastCommit": "454f5b00",
+        "lastModified": "2026-07-17T11:49:24+08:00",
+        "contentHash": "sha256:7815244051a97ae6",
+        "bodyHash": "sha256:c8750617f19dbb07"
       },
       "translations": {
         "en": {
@@ -19670,8 +19720,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (33→11)"
         },
         "ja": {
           "path": "ja/Society/taiwan-higher-education-expansion-and-decline.md",
@@ -19684,8 +19734,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (33→11)"
         },
         "ko": {
           "path": "ko/Society/taiwan-higher-education-expansion-and-decline.md",
@@ -19698,8 +19748,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (33→11)"
         },
         "es": {
           "path": "es/Society/taiwan-higher-education-expansion-and-decline.md",
@@ -19712,8 +19762,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (33→11)"
         },
         "fr": {
           "path": "fr/Society/taiwan-higher-education-expansion-and-decline.md",
@@ -19726,8 +19776,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (33→11)"
         }
       }
     },
@@ -20133,10 +20183,10 @@
     },
     "Society/教育制度與升學文化.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:0a7458b73a859fea",
-        "bodyHash": "sha256:b2b271a1c8432769"
+        "lastCommit": "9d671671",
+        "lastModified": "2026-07-17T11:42:04+08:00",
+        "contentHash": "sha256:b3fec964553963ea",
+        "bodyHash": "sha256:605626e47ccc1b01"
       },
       "translations": {
         "en": {
@@ -20150,8 +20200,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "ja": {
           "path": "ja/Society/education-system-and-admissions-culture.md",
@@ -20164,8 +20216,10 @@
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "ko": {
           "path": "ko/Society/education-system-and-admissions-culture.md",
@@ -20178,8 +20232,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "es": {
           "path": "es/Society/education-system-and-admissions-culture.md",
@@ -20192,8 +20248,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         },
         "fr": {
           "path": "fr/Society/education-system-and-admissions-culture.md",
@@ -20206,8 +20264,10 @@
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -0"
         }
       }
     },
@@ -25033,9 +25093,9 @@
     },
     "About/文章如何誕生.md": {
       "zh": {
-        "lastCommit": "f3ad5912",
-        "lastModified": "2026-06-19T12:47:44+08:00",
-        "contentHash": "sha256:161ac3ed8dce6782",
+        "lastCommit": "ddd0bc8f",
+        "lastModified": "2026-07-17T10:13:21+08:00",
+        "contentHash": "sha256:6cb79369739e9f7e",
         "bodyHash": "sha256:94e246d8ffddee69"
       },
       "translations": {
@@ -25050,8 +25110,10 @@
           "translationLastModified": "2026-06-20T01:15:18+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/About/how-an-article-is-born.md",
@@ -25064,8 +25126,10 @@
           "translationLastModified": "2026-06-20T01:15:18+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/About/how-an-article-is-born.md",
@@ -25078,8 +25142,10 @@
           "translationLastModified": "2026-06-20T01:15:18+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/About/how-an-article-is-born.md",
@@ -25092,8 +25158,10 @@
           "translationLastModified": "2026-06-20T01:15:18+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/About/how-an-article-is-born.md",
@@ -25106,8 +25174,10 @@
           "translationLastModified": "2026-06-20T01:15:18+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -25193,10 +25263,10 @@
     },
     "About/為什麼台灣需要自己的知識庫.md": {
       "zh": {
-        "lastCommit": "a05d2431",
-        "lastModified": "2026-04-04T02:18:02+08:00",
-        "contentHash": "sha256:62ec81a90f901dec",
-        "bodyHash": "sha256:352de879384e19e9"
+        "lastCommit": "e47282ce",
+        "lastModified": "2026-07-17T16:54:41+08:00",
+        "contentHash": "sha256:06044e0d0f197060",
+        "bodyHash": "sha256:6f57fe13df15b543"
       },
       "translations": {
         "en": {
@@ -25210,8 +25280,8 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→0)"
         },
         "ja": {
           "path": "ja/About/why-taiwan-needs-its-own-knowledge-base.md",
@@ -25224,8 +25294,8 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→0)"
         },
         "ko": {
           "path": "ko/About/why-taiwan-needs-its-own-knowledge-base.md",
@@ -25238,8 +25308,8 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→0)"
         },
         "es": {
           "path": "es/About/why-taiwan-needs-its-own-knowledge-base.md",
@@ -25252,8 +25322,8 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→0)"
         },
         "fr": {
           "path": "fr/About/why-taiwan-needs-its-own-knowledge-base.md",
@@ -25266,8 +25336,8 @@
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (25→0)"
         }
       }
     },
@@ -25433,10 +25503,10 @@
     },
     "About/視覺化模組型錄.md": {
       "zh": {
-        "lastCommit": "e98d3ac5",
-        "lastModified": "2026-06-19T10:36:17+08:00",
-        "contentHash": "sha256:38fecc11c893b25a",
-        "bodyHash": "sha256:09331c2942b129a6"
+        "lastCommit": "dbf93456",
+        "lastModified": "2026-07-17T10:34:21+08:00",
+        "contentHash": "sha256:178bda05ad0b4ec6",
+        "bodyHash": "sha256:f6a2ecc9e1606c44"
       },
       "translations": {
         "en": {
@@ -25450,8 +25520,8 @@
           "translationLastModified": "2026-06-19T10:36:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (7→5)"
         },
         "ja": {
           "path": "ja/About/visualization-module-catalog.md",
@@ -25464,8 +25534,8 @@
           "translationLastModified": "2026-06-19T10:36:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (7→5)"
         },
         "ko": {
           "path": "ko/About/visualization-module-catalog.md",
@@ -25478,8 +25548,8 @@
           "translationLastModified": "2026-06-19T10:36:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (7→5)"
         },
         "es": {
           "path": "es/About/visualization-module-catalog.md",
@@ -25492,8 +25562,8 @@
           "translationLastModified": "2026-06-19T10:36:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (7→5)"
         },
         "fr": {
           "path": "fr/About/visualization-module-catalog.md",
@@ -25506,8 +25576,8 @@
           "translationLastModified": "2026-06-19T10:36:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (7→5)"
         }
       }
     },

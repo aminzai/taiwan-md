@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T06:11:17.282963",
+  "lastUpdated": "2026-07-17T19:26:48.306892",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 60,
@@ -52,9 +52,9 @@
   },
   "citationDetail": {
     "grades": {
-      "A": 680,
+      "A": 681,
       "B": 10,
-      "C": 150,
+      "C": 149,
       "D": 4,
       "F": 9
     },
@@ -62,7 +62,7 @@
   },
   "freshnessDetail": {
     "editorial_days_old": 1,
-    "avg_plugin_days_old": 49.4,
+    "avg_plugin_days_old": 48.1,
     "plugin_count": 27,
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
@@ -225,9 +225,9 @@
       },
       {
         "plugin": "viz_health",
-        "plugin_age_days": 35,
+        "plugin_age_days": 0,
         "healthy": true,
-        "age_watch": true
+        "age_watch": false
       },
       {
         "plugin": "wikilink_target",

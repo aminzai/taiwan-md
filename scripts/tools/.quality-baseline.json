@@ -1,6 +1,6 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-16T22:11:10Z",
+  "timestamp": "2026-07-17T11:26:40Z",
   "total": 855,
   "flagged": 342,
   "files": [
@@ -203,6 +203,11 @@
       "file": "technology/IG.md",
       "score": 4,
       "reasons": "未人工審核; 破折號5個; 稀薄段落×4"
+    },
+    {
+      "file": "technology/台灣人工智慧實驗室.md",
+      "score": 4,
+      "reasons": "後段清單堆砌33%; 稀薄段落×2"
     },
     {
       "file": "technology/台灣數位影像與動畫產業.md",
@@ -668,11 +673,6 @@
       "file": "about/緣起故事.md",
       "score": 8,
       "reasons": "無URL來源; 未人工審核; 套路結尾; 稀薄段落×2"
-    },
-    {
-      "file": "about/為什麼台灣需要自己的知識庫.md",
-      "score": 13,
-      "reasons": "年份僅0個; 未人工審核; 破折號10個; 後段清單堆砌45%; 稀薄段落×3; 品質衰退前21%後13%; 無腳註"
     },
     {
       "file": "about/台灣官方網站資源重寫.md",
