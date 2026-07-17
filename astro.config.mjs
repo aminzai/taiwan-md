@@ -212,7 +212,7 @@ export default defineConfig({
     // /about/創辦人/ → /people/吳哲宇/ (Google top-5 結果但 404)
     '/about/創辦人': '/people/吳哲宇/',
     // /en/people/mayday/ → /en/people/mayday-band/ (51 req/day)
-    '/en/people/mayday': '/en/people/mayday-band/',
+    '/en/people/mayday': '/en/music/mayday-band/',
     // 2026-05-08 #883: 八炯 romanization Ba Jiong → Pa Chiung (Wade-Giles per
     // Taipei Times 2025-08-05 article, Taiwan-canonical romanization). Sovereignty-
     // aligned correction (per MANIFESTO §主權的巴別塔: avoid PRC pinyin where
@@ -255,9 +255,12 @@ export default defineConfig({
     '/art/台灣當代文學發展': '/art/台灣文學史/',
     '/en/art/development-of-contemporary-taiwanese-literature':
       '/en/art/history-of-taiwanese-literature/',
-    '/ja/art/contemporary-literature': '/ja/art/taiwan-literature-history/',
-    '/ko/art/taiwan-contemporary-literature': '/ko/art/literary-history/',
-    '/fr/art/contemporary-literature-development': '/fr/art/literary-history/',
+    '/ja/art/contemporary-literature':
+      '/ja/art/history-of-taiwanese-literature/',
+    '/ko/art/taiwan-contemporary-literature':
+      '/ko/art/history-of-taiwanese-literature/',
+    '/fr/art/contemporary-literature-development':
+      '/fr/art/history-of-taiwanese-literature/',
     // 2026-04-28 κ-late: issue #655 (@idlccp1984) — 3 篇宗教文章整併為 1 篇深度文章。
     // canonical: Culture/台灣宗教與寺廟文化.md (slug 沿用 + title EVOLVE 為「台灣宗教信仰：在恐懼裡長出的信仰帝國」)
     // archive 1: Lifestyle/宗教與民間信仰.md (137 行 / lastHumanReview: false / 0 footnotes)
@@ -269,7 +272,7 @@ export default defineConfig({
     '/ko/lifestyle/religion-and-folk-beliefs':
       '/ko/culture/taiwan-religion-and-temple-culture/',
     '/fr/lifestyle/religion-folk-beliefs':
-      '/fr/culture/religion-and-temple-culture/',
+      '/fr/culture/taiwan-religion-and-temple-culture/',
     '/culture/台灣新興宗教與心靈文化': '/culture/台灣宗教與寺廟文化/',
     '/en/culture/emerging-religions-and-spiritual-culture':
       '/en/culture/taiwan-religion-and-temple-culture/',
@@ -278,7 +281,7 @@ export default defineConfig({
     '/ko/culture/new-religions-and-spirituality':
       '/ko/culture/taiwan-religion-and-temple-culture/',
     '/fr/culture/new-religions-and-spirituality':
-      '/fr/culture/religion-and-temple-culture/',
+      '/fr/culture/taiwan-religion-and-temple-culture/',
     // 2026-05-07: 阿志頭 → 台灣髮型介紹 (整併: 阿志頭 EVOLVE 進 台灣髮型介紹)
     // canonical: Lifestyle/台灣髮型介紹.md (slug 沿用)
     // archive: Lifestyle/阿志頭.md (被刪, 內容全部整合進 台灣髮型介紹)

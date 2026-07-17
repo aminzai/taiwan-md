@@ -16,4 +16,21 @@
 # 已加進 .gitignore，不進 git。
 
 # iOS 會自行請求各種尺寸的 apple-touch-icon 變體，全部導回主檔
-/apple-touch-icon-* /apple-touch-icon.png 301
+# CF Pages 不支援段中萬用字元（/apple-touch-icon-* 永遠不會匹配），逐一枚舉 iOS 會請求的尺寸
+/apple-touch-icon-57x57.png /apple-touch-icon.png 301
+/apple-touch-icon-60x60.png /apple-touch-icon.png 301
+/apple-touch-icon-72x72.png /apple-touch-icon.png 301
+/apple-touch-icon-76x76.png /apple-touch-icon.png 301
+/apple-touch-icon-114x114.png /apple-touch-icon.png 301
+/apple-touch-icon-120x120.png /apple-touch-icon.png 301
+/apple-touch-icon-144x144.png /apple-touch-icon.png 301
+/apple-touch-icon-152x152.png /apple-touch-icon.png 301
+/apple-touch-icon-167x167.png /apple-touch-icon.png 301
+/apple-touch-icon-180x180.png /apple-touch-icon.png 301
+/apple-touch-icon-57x57-precomposed.png /apple-touch-icon-precomposed.png 301
+/apple-touch-icon-72x72-precomposed.png /apple-touch-icon-precomposed.png 301
+/apple-touch-icon-114x114-precomposed.png /apple-touch-icon-precomposed.png 301
+/apple-touch-icon-120x120-precomposed.png /apple-touch-icon-precomposed.png 301
+/apple-touch-icon-144x144-precomposed.png /apple-touch-icon-precomposed.png 301
+/apple-touch-icon-152x152-precomposed.png /apple-touch-icon-precomposed.png 301
+/apple-touch-icon-180x180-precomposed.png /apple-touch-icon-precomposed.png 301
