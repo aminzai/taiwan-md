@@ -2,20 +2,31 @@
 title: "L'évolution de la musique taïwanaise en langue taïwanaise : du « chant des anciens » à la coqueluche des jeunes intellectuels"
 description: "Retraçant l'évolution de la musique taïwanaise en langue taïwanaise, de l'ère du nakashi, de Hong Yi-feng et de [[Jody Chiang]] aux interprétations innovantes de nouvelles générations de groupes tels qu'[[Eggplant Egg Band]] et [[Sorry Youth Band]], cet article explore comment la musique en langue taïwanaise a regagné l'adhésion des jeunes générations."
 date: 2026-03-19
-author: "Taiwan.md"
-category: "Music"
-subcategory: "流行音樂"
-tags: ["chanson taïwanaise", "nakashi", "Hong Yi-feng", "Jody Chiang", "Eggplant Egg Band", "Sorry Youth Band", "Collage", "Golden Melody Awards"]
+author: 'Taiwan.md'
+category: 'Music'
+subcategory: '流行音樂'
+tags:
+  [
+    'chanson taïwanaise',
+    'nakashi',
+    'Hong Yi-feng',
+    'Jody Chiang',
+    'Eggplant Egg Band',
+    'Sorry Youth Band',
+    'Collage',
+    'Golden Melody Awards',
+  ]
 readingTime: 14
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Music/台灣台語歌曲演進.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:f008ac775b92e042"
-sourceBodyHash: "sha256:14cffd9d61fb7eb9"
-translatedAt: "2026-05-17T05:34:56+08:00"
+translatedFrom: 'Music/台灣台語歌曲演進.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:f008ac775b92e042'
+sourceBodyHash: 'sha256:14cffd9d61fb7eb9'
+translatedAt: '2026-05-17T05:34:56+08:00'
 ---
+
 # L'évolution de la musique taïwanaise en langue taïwanaise : du « chant des anciens » à la coqueluche des jeunes intellectuels
 
 ## Vue d'ensemble en 30 secondes
@@ -46,13 +57,13 @@ La culture des chanteurs ambulants a également forgé le style vocal caractéri
 
 ### Hong Yi-feng : l'ascension du roi de la chanson taïwanaise
 
-Hong Yi-feng est salué comme le « roi de la chanson taïwanaise ». Son apparition a marqué le passage de la musique taïwanaise de la rue à l'industrie musicale formelle. *« La personne que j'aime en silence »* (思慕的人), sorti en 1957, est devenu un classique de l'histoire de la musique taïwanaise, sa mélodie gracieuse et ses paroles émouvantes illustrant la hauteur artistique de cette musique.
+Hong Yi-feng est salué comme le « roi de la chanson taïwanaise ». Son apparition a marqué le passage de la musique taïwanaise de la rue à l'industrie musicale formelle. _« La personne que j'aime en silence »_ (思慕的人), sorti en 1957, est devenu un classique de l'histoire de la musique taïwanaise, sa mélodie gracieuse et ses paroles émouvantes illustrant la hauteur artistique de cette musique.
 
 Le succès de Hong Yi-feng ne tenait pas seulement à ses remarquables talents vocaux, mais aussi à sa capacité à saisir avec justesse les émotions collectives des Taïwanais. Ses chansons décrivaient souvent les joies et les peines des petites gens, exprimant les émotions les plus profondes dans le langage le plus simple, suscitant une forte résonance chez les auditeurs.
 
 ### Wen Xia : pionnier du chanteur-auteur-compositeur
 
-Wen Xia est un autre roi de la chanson ayant marqué la scène musicale taïwanaise, à la fois excellent interprète et compositeur prolifique. Ses œuvres représentatives, telles que *« Maman, prends aussi soin de toi »* (媽媽請你也保重) et *« Le village natal au crépuscule »* (黃昏的故鄉), sont encore largement chantées aujourd'hui.[^2]
+Wen Xia est un autre roi de la chanson ayant marqué la scène musicale taïwanaise, à la fois excellent interprète et compositeur prolifique. Ses œuvres représentatives, telles que _« Maman, prends aussi soin de toi »_ (媽媽請你也保重) et _« Le village natal au crépuscule »_ (黃昏的故鄉), sont encore largement chantées aujourd'hui.[^2]
 
 Le style créatif de Wen Xia fusionnait des éléments du folklore traditionnel taïwanais et de la musique pop moderne, préservant à la fois le caractère local de la musique taïwanaise tout en lui conférant une dimension contemporaine. Son succès a prouvé que la musique en langue taïwanaise pouvait atteindre un très haut niveau artistique, établissant un modèle pour les musiciens taïwanais ultérieurs.
 
@@ -90,7 +101,7 @@ Les concerts de Jody Chiang étaient souvent complets, démontrant la place impo
 
 ### Eggplant Egg Band : une interprétation taïwanaise de l'esprit rock
 
-L'apparition d'[[Eggplant Egg Band]] a marqué l'entrée de la musique taïwanaise dans une toute nouvelle ère. Ce groupe a créé un style musical unique en associant des arrangements rock à des paroles en langue taïwanaise. Leur titre représentatif *« Le retour du vagabond »* (浪子回頭) est devenu viral sur Internet, permettant à de nombreux jeunes de redécouvrir le charme de la musique en langue taïwanaise.
+L'apparition d'[[Eggplant Egg Band]] a marqué l'entrée de la musique taïwanaise dans une toute nouvelle ère. Ce groupe a créé un style musical unique en associant des arrangements rock à des paroles en langue taïwanaise. Leur titre représentatif _« Le retour du vagabond »_ (浪子回頭) est devenu viral sur Internet, permettant à de nombreux jeunes de redécouvrir le charme de la musique en langue taïwanaise.
 
 Le succès d'Eggplant Egg Band réside dans leur capacité à interpréter des chansons taïwanaises dans un langage musical familier aux jeunes, éliminant ainsi la barrière linguistique. Leurs paroles, souvent empreintes d'expressions tirées du quotidien, associées à des arrangements solides, confèrent à la musique taïwanaise une modernité sans précédent.
 
@@ -154,8 +165,8 @@ Les données de streaming ont également permis de quantifier pour la première 
 
 ## Références
 
-- Jian Shang-ren : *Légendes de la chanson taïwanaise*, Taipei : Nongxueshe
-- Zhuang Yongming : *Sentiments locaux dans la chanson taïwanaise*, Taipei : China Times Publishing
+- Jian Shang-ren : _Légendes de la chanson taïwanaise_, Taipei : Nongxueshe
+- Zhuang Yongming : _Sentiments locaux dans la chanson taïwanaise_, Taipei : China Times Publishing
 - Liste des lauréats et rapports du jury du meilleur album en langue taïwanaise aux Golden Melody Awards : https://gma.tavis.tw/
 - Base de données de l'Association culturelle musicale de Hong Yi-feng
 - Compilation des archives de concerts officiels et des reportages médiatiques de Jody Chiang
@@ -163,12 +174,16 @@ Les données de streaming ont également permis de quantifier pour la première 
 - Groupe Sorry Youth Band : https://sorryyouth.bandcamp.com/
 - Données officielles des plateformes musicales de Collage
 - Actes de conférence de la Société de recherche sur la culture musicale taïwanaise
-- *Histoire du développement de la chanson taïwanaise*, publié par le Musée national de littérature taïwanaise
+- _Histoire du développement de la chanson taïwanaise_, publié par le Musée national de littérature taïwanaise
 - Base de données des programmes musicaux en langue taïwanaise de la chaîne Hakka TV
 - Études thématiques sur la musique taïwanaise de l'Association d'échange des musiciens chinois
 
 [^1]: Wikipédia, article « Meilleur album en langue taïwanaise aux Golden Melody Awards » : le prix du meilleur album en langue taïwanaise a été créé à partir de la 16e édition (2005). https://zh.wikipedia.org/wiki/金曲獎最佳台語專輯
-[^2]: Wikipédia, article « Wen Xia » : biographie de Wen Xia, œuvres représentatives telles que *« Maman, prends aussi soin de toi »* et *« Le village natal au crépuscule »*. https://zh.wikipedia.org/wiki/文夏
+
+[^2]: Wikipédia, article « Wen Xia » : biographie de Wen Xia, œuvres représentatives telles que _« Maman, prends aussi soin de toi »_ et _« Le village natal au crépuscule »_. https://zh.wikipedia.org/wiki/文夏
+
 [^3]: Wikipédia, article « Jody Chiang » : biographie et parcours artistique de Jody Chiang, contexte de la reprise du marché de la musique taïwanaise après la levée de la loi martiale. https://zh.wikipedia.org/wiki/江蕙
+
 [^4]: Chaîne musicale officielle et présentations créatives de Collage. [StreetVoice](https://streetvoice.com/collage7275/) ｜ [YouTube](https://www.youtube.com/@collage7275)
+
 [^5]: Site officiel des Golden Melody Awards : palmarès du meilleur album en langue taïwanaise. https://gma.tavis.tw/

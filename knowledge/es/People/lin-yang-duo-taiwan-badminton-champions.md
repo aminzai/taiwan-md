@@ -6,7 +6,16 @@ author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
 tags:
-  ['deportistas', 'Wang Chi-lin', 'Lee Yang', 'dupla Lin-Yang', 'bádminton', 'Juegos Olímpicos de Tokio', 'Juegos Olímpicos de París', 'medalla de oro']
+  [
+    'deportistas',
+    'Wang Chi-lin',
+    'Lee Yang',
+    'dupla Lin-Yang',
+    'bádminton',
+    'Juegos Olímpicos de Tokio',
+    'Juegos Olímpicos de París',
+    'medalla de oro',
+  ]
 readingTime: 12
 lastVerified: 2026-05-19
 lastHumanReview: true

@@ -107,10 +107,15 @@ ICE MONSTERの登場により、台湾のマンゴーかき氷は国際的な舞
 ## 参考文献
 
 [^1]: [ICE MONSTER ブランド公式サイト](https://www.icemonster.com.tw/) — ブランド沿革。1995年の永康15冰館の創業、2010年の改名と移転の説明を含む。
+
 [^2]: [交通部観光署「台湾美食」公式ページ](https://www.taiwan.net.tw/) — 台湾を代表する氷品の紹介。マンゴーかき氷と雪花氷の項目を含む。
+
 [^3]: [CNN Travel：台湾マンゴーかき氷の報道](https://edition.cnn.com/travel) — CNNによる台湾マンゴーかき氷に関する国際メディア報道。ICE MONSTERと玉井マンゴーかき氷を代表事例として引用。
+
 [^4]: [Lonely Planet Taiwan：Food Guide](https://www.lonelyplanet.com/taiwan) — 国際旅行ガイドによる台湾氷品文化の紹介と推薦店。
+
 [^5]: [Wikipedia：ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — ICE MONSTERのブランド歴史、前身「永康15冰館」および国際出店情報。
+
 [^6]: [かき氷 — Wikipedia](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — 日本のかき氷文化の起源と日本統治時代の台湾への伝来の歴史背景、および台湾の伝統的な剉冰の具材の変遷。
 
 ## 関連記事

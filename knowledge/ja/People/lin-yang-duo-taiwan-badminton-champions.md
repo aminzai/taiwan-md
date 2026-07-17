@@ -6,7 +6,16 @@ author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
 tags:
-  ['選手', '王齊麟', '李洋', '麟洋ペア', 'バドミントン', '東京オリンピック', 'パリオリンピック', '金メダル']
+  [
+    '選手',
+    '王齊麟',
+    '李洋',
+    '麟洋ペア',
+    'バドミントン',
+    '東京オリンピック',
+    'パリオリンピック',
+    '金メダル',
+  ]
 readingTime: 12
 lastVerified: 2026-05-19
 lastHumanReview: true

@@ -1,18 +1,18 @@
 ---
-title: "Musique hakka à Taïwan : des chants de montagne à la politique linguistique du refus de prix par Lin Sheng‑xiang"
-description: "Les chants de montagne hakka trouvent leurs origines dans la vie laborieuse, les huit instruments hakka sont utilisés lors des mariages, des funérailles et des célébrations. En 1999, le groupe Jiaogong remporte le Golden Melody Award de la meilleure composition et du meilleur producteur avec « Je viendrai chanter des chants de montagne », inaugurant une génération de rock hakka. En 2003, la 14ᵉ édition du Golden Melody Awards crée la catégorie chant hakka ; en 2004, Hsieh Yu‑wei en devient la première lauréate. En 2007, Lin Sheng‑xiang refuse le prix pour « Plantation d’arbres », appelant à classer la musique par genre plutôt que par langue, déclenchant le débat sur la pertinence des prix hakka, qui conduit trois ans plus tard à la création du Golden Indie Music Award. La Hakka TV, créée en 2003, continue d’accroître la visibilité de la musique hakka. La menace de la perte linguistique persiste, mais la tension entre transmission et innovation pousse toujours les musiciens hakka à avancer."
+title: 'Musique hakka à Taïwan : des chants de montagne à la politique linguistique du refus de prix par Lin Sheng‑xiang'
+description: 'Les chants de montagne hakka trouvent leurs origines dans la vie laborieuse, les huit instruments hakka sont utilisés lors des mariages, des funérailles et des célébrations. En 1999, le groupe Jiaogong remporte le Golden Melody Award de la meilleure composition et du meilleur producteur avec « Je viendrai chanter des chants de montagne », inaugurant une génération de rock hakka. En 2003, la 14ᵉ édition du Golden Melody Awards crée la catégorie chant hakka ; en 2004, Hsieh Yu‑wei en devient la première lauréate. En 2007, Lin Sheng‑xiang refuse le prix pour « Plantation d’arbres », appelant à classer la musique par genre plutôt que par langue, déclenchant le débat sur la pertinence des prix hakka, qui conduit trois ans plus tard à la création du Golden Indie Music Award. La Hakka TV, créée en 2003, continue d’accroître la visibilité de la musique hakka. La menace de la perte linguistique persiste, mais la tension entre transmission et innovation pousse toujours les musiciens hakka à avancer.'
 date: 2026-03-19
-category: "Music"
+category: 'Music'
 tags:
-  - "musique hakka"
-  - "chant de montagne"
-  - "huit instruments hakka"
-  - "Lin Sheng‑xiang"
-  - "Jiaogong Band"
-  - "chansons hakka"
-  - "Golden Melody Awards"
-subcategory: "傳統音樂"
-author: "Taiwan.md Contributors"
+  - 'musique hakka'
+  - 'chant de montagne'
+  - 'huit instruments hakka'
+  - 'Lin Sheng‑xiang'
+  - 'Jiaogong Band'
+  - 'chansons hakka'
+  - 'Golden Melody Awards'
+subcategory: '傳統音樂'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 lastHumanReview: true
@@ -21,11 +21,11 @@ readingTime: 10
 #   why_this_hook: "林生祥2007拒獎：不是拿了就謝謝，而是把獎項本身當成議題——這才是客家音樂史最有力的錨點"
 #   whats_excluded: "榮興客家採茶劇團完整史；客委會組織架構；WOMAD詳細場次"
 #   where_it_hedges: "羅思容代表作《攬花去》（第23屆）確認，《天光》得獎資訊未能核實"
-translatedFrom: "Music/台灣客家音樂.md"
-sourceCommitSha: "0f8fae0ae"
-sourceContentHash: "sha256:a1abbcd1a1bce08a"
-sourceBodyHash: "sha256:ffa289d8ac5acb30"
-translatedAt: "2026-05-18T05:08:09+08:00"
+translatedFrom: 'Music/台灣客家音樂.md'
+sourceCommitSha: '0f8fae0ae'
+sourceContentHash: 'sha256:a1abbcd1a1bce08a'
+sourceBodyHash: 'sha256:ffa289d8ac5acb30'
+translatedAt: '2026-05-18T05:08:09+08:00'
 ---
 
 # Musique hakka à Taïwan : des chants de montagne à la politique linguistique du refus de prix par Lin Sheng‑xiang
@@ -56,9 +56,9 @@ Né à Meinong, Kaohsiung, Lin Sheng‑xiang forme au début des années 1990 le
 
 En 1999, Lin Sheng‑xiang, Zhong Yong‑feng, Zhong Cheng‑da et Guo Jin‑cai créent le « Jiaogong Band » (le nom provient du hakka « travailler ensemble »). Le groupe s’engage sur les thèmes de l’environnement, des problèmes ruraux et des populations marginalisées, utilisant la musique pour faire entendre ces voix.
 
-L’album *Je viendrai chanter des chants de montagne* (1999) remporte, à la 11ᵉ édition du Golden Melody Awards en 2000, le **Meilleur compositeur** et le **Meilleur producteur**.[^3] Le style fusionne chants de montagne hakka, folk taïwanais et rock ; les concerts suscitent souvent l’émotion même chez les spectateurs qui ne comprennent pas le hakka.
+L’album _Je viendrai chanter des chants de montagne_ (1999) remporte, à la 11ᵉ édition du Golden Melody Awards en 2000, le **Meilleur compositeur** et le **Meilleur producteur**.[^3] Le style fusionne chants de montagne hakka, folk taïwanais et rock ; les concerts suscitent souvent l’émotion même chez les spectateurs qui ne comprennent pas le hakka.
 
-Après la dissolution du Jiaogong Band en 2003, Lin forme le « Sheng‑xiang Band », poursuivant des expérimentations jazz, blues et world music, tout en maintenant le cœur culturel hakka. Œuvres majeures : *Wild*, *La bibliothèque de la terre* et *Mon village*.
+Après la dissolution du Jiaogong Band en 2003, Lin forme le « Sheng‑xiang Band », poursuivant des expérimentations jazz, blues et world music, tout en maintenant le cœur culturel hakka. Œuvres majeures : _Wild_, _La bibliothèque de la terre_ et _Mon village_.
 
 ## Catégorie hakka du Golden Melody Awards : création, controverse et évolution
 
@@ -66,21 +66,21 @@ Après la dissolution du Jiaogong Band en 2003, Lin forme le « Sheng‑xiang 
 
 La 14ᵉ édition du Golden Melody Awards (2003) segmente les prix de chant par langue, créant le **Meilleur chanteur hakka** (au même titre que les prix taïwanais et autochtones), distinct du précédent **Meilleur chanteur dialectal**.[^4] En 2007, la catégorie devient **Meilleur chanteur hakka**.
 
-En 2004, lors de la 15ᵉ édition, Hsieh Yu‑wei remporte le premier **Meilleur chanteur hakka** avec l’album *Sous un arbre en fleurs*, marquant l’entrée du pop hakka dans le courant dominant.[^5]
+En 2004, lors de la 15ᵉ édition, Hsieh Yu‑wei remporte le premier **Meilleur chanteur hakka** avec l’album _Sous un arbre en fleurs_, marquant l’entrée du pop hakka dans le courant dominant.[^5]
 
 ### 2007 : le refus de Lin Sheng‑xiang — la déclaration politique la plus puissante
 
-À la 18ᵉ édition (2007), Lin Sheng‑xiang obtient à la fois le **Meilleur chanteur hakka** et le **Meilleur album hakka** pour *Plantation d’arbres*. Sur le podium, il refuse les deux trophées, fait don du prix en argent et proclame : **« La musique doit être classée par genre ; la classification par langue est une inversion des priorités. »** Il interroge : « Pourquoi le meilleur producteur peut travailler sur plusieurs langues, alors que l’album ne le peut‑il pas ? »[^6]
+À la 18ᵉ édition (2007), Lin Sheng‑xiang obtient à la fois le **Meilleur chanteur hakka** et le **Meilleur album hakka** pour _Plantation d’arbres_. Sur le podium, il refuse les deux trophées, fait don du prix en argent et proclame : **« La musique doit être classée par genre ; la classification par langue est une inversion des priorités. »** Il interroge : « Pourquoi le meilleur producteur peut travailler sur plusieurs langues, alors que l’album ne le peut‑il pas ? »[^6]
 
 Cet acte déclenche un débat public sur le système de classification linguistique du Golden Melody Awards, menant en 2010 à la création du **Golden Indie Music Award** (金音創作獎) par le ministère de la Culture, qui classe les œuvres par rock, folk, hip‑hop, électro, jazz, etc., plutôt que par langue. En 2017, le Golden Melody Awards ajoute un prix d’album de l’année sans distinction linguistique, pouvant être vu comme une réponse partielle à la revendication de Lin.
 
 ### Luo Si‑rong : perspective féminine dans la musique hakka
 
-Luo Si‑rong, grâce à sa voix douce et ses paroles poétiques, apporte une couleur différente à la musique hakka. Son œuvre phare *Aller cueillir des fleurs* (prix du meilleur chanteur hakka et du meilleur album hakka à la 23ᵉ édition) décrit la vie des femmes hakka sous un angle féminin, comblant le manque relatif de voix féminines dans le répertoire hakka.[^7]
+Luo Si‑rong, grâce à sa voix douce et ses paroles poétiques, apporte une couleur différente à la musique hakka. Son œuvre phare _Aller cueillir des fleurs_ (prix du meilleur chanteur hakka et du meilleur album hakka à la 23ᵉ édition) décrit la vie des femmes hakka sous un angle féminin, comblant le manque relatif de voix féminines dans le répertoire hakka.[^7]
 
 ### Hsieh Yu‑wei : pionnière du pop hakka
 
-Hsieh Yu‑wei cumule les rôles de chanteuse, actrice, compositrice, productrice et peintre, promouvant la musique hakka depuis des années. En 1992, elle remporte le premier prix du Concours national de création musicale avec *Chanson de divination*, marquant la première reconnaissance nationale du pop hakka ; elle devient la première lauréate du **Meilleur chanteur hakka** en 2004.[^5]
+Hsieh Yu‑wei cumule les rôles de chanteuse, actrice, compositrice, productrice et peintre, promouvant la musique hakka depuis des années. En 1992, elle remporte le premier prix du Concours national de création musicale avec _Chanson de divination_, marquant la première reconnaissance nationale du pop hakka ; elle devient la première lauréate du **Meilleur chanteur hakka** en 2004.[^5]
 
 ## Infrastructure de diffusion : Hakka TV et le Conseil des affaires hakka
 
@@ -88,7 +88,7 @@ En 2001, le Conseil des affaires hakka (客家委員會) est créé sous l’ex�
 
 ## Huang Lian‑yu : une autre voie de création traditionnelle
 
-Huang Lian‑yu est une autre figure importante de la musique hakka. Son œuvre *Un chemin de chants de montagne* réarrange les chants traditionnels avec des instruments modernes, conservant le charme ancestral tout en ajoutant une dimension contemporaine. En plus de ses propres compositions, il œuvre depuis longtemps à la promotion de la culture hakka.
+Huang Lian‑yu est une autre figure importante de la musique hakka. Son œuvre _Un chemin de chants de montagne_ réarrange les chants traditionnels avec des instruments modernes, conservant le charme ancestral tout en ajoutant une dimension contemporaine. En plus de ses propres compositions, il œuvre depuis longtemps à la promotion de la culture hakka.
 
 ## Défis et opportunités contemporains
 
@@ -102,14 +102,14 @@ Le numérique offre toutefois de nouvelles opportunités : les plateformes de 
 
 [^2]: [國立傳統藝術中心：客家八音傳習資料](https://www.ncfta.gov.tw/) — Explication de la pratique du suona comme instrument principal des huit instruments hakka.
 
-[^3]: [文化部影視及流行音樂產業局：歷屆得獎入圍名單](https://www.bamid.gov.tw/information_176_64106.html) — Confirmation que *Je viendrai chanter des chants de montagne* a reçu le Meilleur compositeur et le Meilleur producteur à la 11ᵉ édition du Golden Melody Awards (et non le prix du meilleur groupe).
+[^3]: [文化部影視及流行音樂產業局：歷屆得獎入圍名單](https://www.bamid.gov.tw/information_176_64106.html) — Confirmation que _Je viendrai chanter des chants de montagne_ a reçu le Meilleur compositeur et le Meilleur producteur à la 11ᵉ édition du Golden Melody Awards (et non le prix du meilleur groupe).
 
 [^4]: [第14屆金曲獎 — 維基百科](https://zh.wikipedia.org/wiki/第14屆金曲獎) — Confirmation de la création du Meilleur chanteur hakka en 2003 et du renommage en 2007.
 
-[^5]: [謝宇威 — 維基百科](https://zh.wikipedia.org/zh-tw/謝宇威) — Confirmation du prix du Meilleur chanteur hakka en 2004 et de l’album *Sous un arbre en fleurs*.
+[^5]: [謝宇威 — 維基百科](https://zh.wikipedia.org/zh-tw/謝宇威) — Confirmation du prix du Meilleur chanteur hakka en 2004 et de l’album _Sous un arbre en fleurs_.
 
 [^6]: [金曲18年第1次……林生祥丟震撼彈 合手拒領獎｜自由娛樂](https://ent.ltn.com.tw/news/paper/136087) — Détails du refus de Lin Sheng‑xiang lors de la 18ᵉ édition du Golden Melody Awards (2007) et de la donation du prix.
 
-[^7]: [最佳客語專輯獎（金曲獎）— 維基百科](https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_\(金曲獎\)) — Confirmation que Luo Si‑rong a reçu le prix du Meilleur chanteur hakka et du Meilleur album hakka à la 23ᵉ édition.
+[^7]: [最佳客語專輯獎（金曲獎）— 維基百科](<https://zh.wikipedia.org/zh-tw/最佳客語專輯獎_(金曲獎)>) — Confirmation que Luo Si‑rong a reçu le prix du Meilleur chanteur hakka et du Meilleur album hakka à la 23ᵉ édition.
 
 [^8]: [客家電視台官網](https://www.hakkatv.org.tw/) — Confirmation du lancement en 2003, première chaîne mondiale à diffuser en hakka 24 h/24.

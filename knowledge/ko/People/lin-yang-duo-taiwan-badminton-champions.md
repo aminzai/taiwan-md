@@ -6,7 +6,16 @@ author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
 tags:
-  ['운동선수', '왕치린', '리양', '린양 페어', '배드민턴', '도쿄 올림픽', '파리 올림픽', '금메달']
+  [
+    '운동선수',
+    '왕치린',
+    '리양',
+    '린양 페어',
+    '배드민턴',
+    '도쿄 올림픽',
+    '파리 올림픽',
+    '금메달',
+  ]
 readingTime: 12
 lastVerified: '2026-05-19'
 lastHumanReview: true

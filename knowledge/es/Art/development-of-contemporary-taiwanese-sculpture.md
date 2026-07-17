@@ -1,29 +1,30 @@
 ---
-title: "Desarrollo de la escultura contemporánea en Taiwán"
-description: "Desde Yang Ying-feng y Zhu Ming hasta la nueva generación, exploramos la trayectoria evolutiva y el espíritu creativo del arte escultórico taiwanés"
+title: 'Desarrollo de la escultura contemporánea en Taiwán'
+description: 'Desde Yang Ying-feng y Zhu Ming hasta la nueva generación, exploramos la trayectoria evolutiva y el espíritu creativo del arte escultórico taiwanés'
 date: 2026-03-18
-category: "Art"
+category: 'Art'
 tags:
-  - "雕塑"
-  - "朱銘"
-  - "楊英風"
-  - "林舜龍"
-  - "洪易"
-  - "公共藝術"
-  - "當代藝術"
-  - "木雕"
-subcategory: "視覺藝術"
-author: "Taiwan.md"
-readingTime: "18"
+  - '雕塑'
+  - '朱銘'
+  - '楊英風'
+  - '林舜龍'
+  - '洪易'
+  - '公共藝術'
+  - '當代藝術'
+  - '木雕'
+subcategory: '視覺藝術'
+author: 'Taiwan.md'
+readingTime: '18'
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
-translatedFrom: "Art/台灣當代雕塑發展.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:91ce45b4be5f77a7"
-sourceBodyHash: "sha256:fe5beda00418f863"
-translatedAt: "2026-05-20T05:08:32+08:00"
+translatedFrom: 'Art/台灣當代雕塑發展.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:91ce45b4be5f77a7'
+sourceBodyHash: 'sha256:fe5beda00418f863'
+translatedAt: '2026-05-20T05:08:32+08:00'
 ---
+
 # Desarrollo de la escultura contemporánea en Taiwán
 
 ## Visión general en 30 segundos
@@ -545,13 +546,23 @@ A través de cada obra escultórica, vemos no solo la maestría y la imaginació
 ## Referencias
 
 [^1]: [Wikipedia «Zhu Ming (escultor)»](https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98) — biografía, trayectoria y museo de Zhu Ming (versión actualizada 2025)
+
 [^2]: [Ravenel Auction House](https://ravenel.com/) — archivo oficial y datos de mercado de Zhu Ming
+
 [^3]: [Universidad China de Cultura – Conferencia «Los tres grandes de la escultura taiwanesa»](https://uge.pccu.edu.tw/p/405-1017-27790,c6858.php?Lang=zh-tw) — ponencia del profesor Hsiao Chiu-jui sobre Huang Tushui, Yang Ying-feng y Zhu Ming (2022)
+
 [^4]: [Chinatimes «El camino del maestro Zhu Ming, Yang Ying-feng exhibe su obra y la serie Taiji causa sensación en Japón»](https://www.chinatimes.com/realtimenews/20230423002796-263301) — exposición de Zhu Ming en Tokio 1977 y relación con Yang Ying-feng (23 abr 2023)
+
 [^5]: [Vocus «Zhu Ming y su vínculo con Hong Kong»](https://vocus.cc/article/644cd3f8fd897800015f9262) — origen y exposiciones de Zhu Ming en Hong Kong (2024)
+
 [^6]: [Museo Zhu Ming](https://www.juming.org.tw/) — sitio oficial, exposiciones, catálogo completo y programas educativos
+
 [^7]: [Museo Nacional de Arte de Taiwán](https://www.ntmofa.gov.tw/) — informe de investigación «Desarrollo de la escultura contemporánea en Taiwán» (2021)
+
 [^8]: [Museo Yang Ying-feng](https://yuyuyang.org.tw/) — archivo digital y información de exposiciones
+
 [^9]: [Ministerio de Cultura – Arte público](https://publicart.moc.gov.tw/) — política, normativa y casos de arte público en Taiwán
+
 [^11]: [Universidad Nacional de Artes de Taiwán](https://www.ntua.edu.tw/) — programa de escultura y publicaciones académicas
+
 [^12]: [Museo de Arte de la Ciudad de Taipéi](https://www.tfam.museum/) — catálogo de la exposición «Escultura taiwanesa 1945‑2020» (2020)

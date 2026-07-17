@@ -1,19 +1,26 @@
 ---
-title: "La culture taïwanaise des desserts glacés"
+title: 'La culture taïwanaise des desserts glacés'
 description: "De la glace à la mangue de Yujing à la révolution de la glace en flocons, explorez la culture unique de Taïwan où l'on mange de la glace même en hiver"
 date: 2026-03-19
-author: "Taiwan.md Contributors"
-category: "Food"
-subcategory: "烘焙與甜點"
-tags: ["desserts glacés", "glace à la mangue", "glace en flocons", "glace pilée", "ICE MONSTER"]
+author: 'Taiwan.md Contributors'
+category: 'Food'
+subcategory: '烘焙與甜點'
+tags:
+  [
+    'desserts glacés',
+    'glace à la mangue',
+    'glace en flocons',
+    'glace pilée',
+    'ICE MONSTER',
+  ]
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
-translatedFrom: "Food/台灣冰品文化.md"
-sourceCommitSha: "18157ab5d"
-sourceContentHash: "sha256:4dac67a4f3297b76"
-sourceBodyHash: "sha256:aae5f010fab3924f"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'Food/台灣冰品文化.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:4dac67a4f3297b76'
+sourceBodyHash: 'sha256:aae5f010fab3924f'
+translatedAt: '2026-05-20T05:08:34+08:00'
 ---
 
 # La culture taïwanaise des desserts glacés
@@ -107,10 +114,15 @@ La logique profonde de la culture taïwanaise des desserts glacés est la suivan
 ## Références
 
 [^1]: [Site officiel de la marque ICE MONSTER](https://www.icemonster.com.tw/) — Historique de la marque, incluant la fondation du « Yongkang 15 Bingguan » en 1995, le changement de nom et le déménagement en 2010.
+
 [^2]: [Page officielle « Cuisine taïwanaise » de l'Administration du tourisme du ministère des Transports](https://www.taiwan.net.tw/) — Présentation des desserts glacés emblématiques de Taïwan, incluant la glace à la mangue et la glace en flocons.
+
 [^3]: [CNN Travel : reportage sur la glace à la mangue taïwanaise](https://edition.cnn.com/travel) — Couverture médiatique internationale par CNN de la glace à la mangue taïwanaise, citant ICE MONSTER et la glace à la mangue de Yujing comme cas représentatifs.
+
 [^4]: [Lonely Planet Taiwan : Food Guide](https://www.lonelyplanet.com/taiwan) — Présentation de la culture des desserts glacés taïwanais et recommandations d'enseignes dans un guide touristique international.
+
 [^5]: [Wikipédia : ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — Historique de la marque ICE MONSTER, son prédécesseur « Yongkang 15 Bingguan » et ses informations d'expansion internationale.
+
 [^6]: [Kakigōri — Wikipédia](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — Origines de la culture japonaise de la glace pilée et contexte historique de son introduction à Taïwan durant la période de domination japonaise, ainsi que l'évolution des garnitures de la glace pilée traditionnelle taïwanaise.
 
 ## Pour aller plus loin

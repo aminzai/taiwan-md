@@ -107,10 +107,15 @@ ICE MONSTER의 등장은 대만 망고빙을 국무대 위로 올려놓았다. �
 ## 참고 자료
 
 [^1]: [ICE MONSTER 브랜드 공식 웹사이트](https://www.icemonster.com.tw/) — 브랜드 연보, 1995년 융카이 15 빙관 창업, 2010년 명칭 변경 및 이전 설명 포함.
+
 [^2]: [교통부 관광서 "대만 미식" 공식 페이지](https://www.taiwan.net.tw/) — 대만 대표 빙과 소개, 망고빙 및 눈꽃빙 항목 포함.
+
 [^3]: [CNN Travel: 대만 망고빙 보도](https://edition.cnn.com/travel) — CNN의 대만 망고빙에 대한 국제 미디어 보도, ICE MONSTER와 옥정 망고빙을 대표 사례로 인용.
+
 [^4]: [Lonely Planet Taiwan: Food Guide](https://www.lonelyplanet.com/taiwan) — 국제 여행 가이드의 대만 빙과 문화 소개 및 추천 가게.
+
 [^5]: [위키백과: ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — ICE MONSTER 브랜드 역사, 전신 "융카이 15 빙관" 및 국제 매장 확장 정보.
+
 [^6]: [가키고오리(かき氷) — 위키백과](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — 일본 빙수 문화의 기원과 일제강점기 대만 전래의 역사적 배경, 및 대만 전통 촬빙의 토핑 변천.
 
 ## 더 읽어보기

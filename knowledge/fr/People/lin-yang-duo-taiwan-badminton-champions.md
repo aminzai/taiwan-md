@@ -1,12 +1,21 @@
 ---
 title: 'Wang Chi-lin et Lee Yang (« paire Lin-Yang »)'
-description: "Des camarades de collège aux médaillés d’or olympiques : la « paire Lin-Yang » a battu la Chine en deux manches sèches en 34 minutes, offrant à Taïwan la première médaille d’or olympique de son histoire en badminton"
+description: 'Des camarades de collège aux médaillés d’or olympiques : la « paire Lin-Yang » a battu la Chine en deux manches sèches en 34 minutes, offrant à Taïwan la première médaille d’or olympique de son histoire en badminton'
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
 tags:
-  ['athlètes', 'Wang Chi-lin', 'Lee Yang', 'paire Lin-Yang', 'badminton', 'Jeux olympiques de Tokyo', 'Jeux olympiques de Paris', 'médaille d’or']
+  [
+    'athlètes',
+    'Wang Chi-lin',
+    'Lee Yang',
+    'paire Lin-Yang',
+    'badminton',
+    'Jeux olympiques de Tokyo',
+    'Jeux olympiques de Paris',
+    'médaille d’or',
+  ]
 readingTime: 12
 lastVerified: 2026-05-19
 lastHumanReview: true

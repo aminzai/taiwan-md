@@ -1,20 +1,28 @@
 ---
-title: "Environnement politique et système électoral de Taïwan"
+title: 'Environnement politique et système électoral de Taïwan'
 description: "De l'architecture constitutionnelle aux mécanismes électoraux centraux et locaux, en passant par la culture politique partisane profonde, une analyse complète de la manière dont Taïwan maintient une société démocratique dynamique et institutionnellement rigoureuse dans un contexte géopolitique complexe"
 date: 2026-03-18
-author: "Taiwan.md Contributors"
-category: "Society"
-subcategory: "民主與政治"
-tags: ["Système politique", "Système électoral", "Semi-présidentialisme", "Autonomie locale", "Société civile", "Démocratie numérique"]
+author: 'Taiwan.md Contributors'
+category: 'Society'
+subcategory: '民主與政治'
+tags:
+  [
+    'Système politique',
+    'Système électoral',
+    'Semi-présidentialisme',
+    'Autonomie locale',
+    'Société civile',
+    'Démocratie numérique',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
-translatedFrom: "Society/台灣政治環境與選舉制度.md"
-sourceCommitSha: "18157ab5d"
-sourceContentHash: "sha256:db13674bd2e78f06"
-sourceBodyHash: "sha256:c04d648a91c00bf4"
-translatedAt: "2026-05-17T05:34:56+08:00"
+translatedFrom: 'Society/台灣政治環境與選舉制度.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:db13674bd2e78f06'
+sourceBodyHash: 'sha256:c04d648a91c00bf4'
+translatedAt: '2026-05-17T05:34:56+08:00'
 ---
 
 # Environnement politique et système électoral de Taïwan
@@ -23,7 +31,7 @@ translatedAt: "2026-05-17T05:34:56+08:00"
 
 ## I. Architecture constitutionnelle : séparation des cinq pouvoirs et système bicéphale
 
-La structure gouvernementale de Taïwan découle de la *Constitution de la République de Chine*. Après sept amendements clés, elle a évolué vers le **semi-présidentialisme** actuel, également appelé système bicéphale.[^1] Le président est élu au suffrage universel direct tous les quatre ans par l'ensemble de la population. Il est responsable de la défense nationale, des affaires étrangères et des relations avec la Chine continentale, et dispose du pouvoir de nomination directe du Premier ministre (sans l'approbement du Yuan législatif). Le Premier ministre est nommé par le président, et les chefs de ministères sont nommés par le président sur proposition du Premier ministre ; le Yuan exécutif est responsable devant le Yuan législatif, et si celui-ci adopte une motion de censure, le Premier ministre doit démissionner. Le Yuan législatif est un parlement monocaméral chargé de l'examen des lois, du contrôle budgétaire et de la surveillance du gouvernement.
+La structure gouvernementale de Taïwan découle de la _Constitution de la République de Chine_. Après sept amendements clés, elle a évolué vers le **semi-présidentialisme** actuel, également appelé système bicéphale.[^1] Le président est élu au suffrage universel direct tous les quatre ans par l'ensemble de la population. Il est responsable de la défense nationale, des affaires étrangères et des relations avec la Chine continentale, et dispose du pouvoir de nomination directe du Premier ministre (sans l'approbement du Yuan législatif). Le Premier ministre est nommé par le président, et les chefs de ministères sont nommés par le président sur proposition du Premier ministre ; le Yuan exécutif est responsable devant le Yuan législatif, et si celui-ci adopte une motion de censure, le Premier ministre doit démissionner. Le Yuan législatif est un parlement monocaméral chargé de l'examen des lois, du contrôle budgétaire et de la surveillance du gouvernement.
 
 La conception constitutionnelle comprend le Yuan judiciaire, le Yuan des examens et le Yuan de contrôle, formant une architecture de séparation des cinq pouvoirs. Mais dans la pratique, Taïwan s'est progressivement rapproché du noyau classique de la séparation des trois pouvoirs — exécutif, législatif et judiciaire. La question de l'abolition ou de l'ajustement des fonctions des Yens des examens et de contrôle fait l'objet de débats de longue date sur la réforme constitutionnelle à Taïwan, mais aucune proposition formelle de révision constitutionnelle n'est actuellement en cours. Le débat académique sur la question de savoir « si le semi-présidentialisme convient à Taïwan » persiste également — les constitutionnalistes Wu Yushan et Lin Jiwen, entre autres, soulignent que les blocages constitutionnels en situation de cohabitation (le parti présidentiel étant minoritaire au Parlement) constituent l'un des problèmes structurels du semi-présidentialisme.
 
@@ -55,7 +63,7 @@ Le 13 janvier 2024, l'élection présidentielle et les élections législatives 
 
 En mai-juin 2024, la majorité d'opposition au Yuan législatif (Kuomintang + Parti populaire de Taïwan) a promu une **« loi de réforme parlementaire »** comprenant des clauses controversées : extension du pouvoir d'enquête du Parlement, institution d'un système d'auditions, obligation pour le président de répondre aux questions en direct lors de son rapport sur la situation nationale. Ces dispositions ont suscité des inquiétudes quant à leur constitutionnalité et déclenché d'importantes manifestations citoyennes dans les rues (mouvement des Oiseaux bleus). La loi a finalement fait l'objet d'un recours en inconstitutionnalité déposé par le président Lai Ching-te et le groupe parlementaire du DPP. Le **25 octobre 2024, la Cour constitutionnelle a rendu son arrêt n° 9 de l'année 113**, déclarant plusieurs clauses inconstitutionnelles, un arrêt historiquement connu sous le nom de **« Arrêt constitutionnel 113-9 »**.
 
-La crise des vacances de sièges à la Cour constitutionnelle a constitué le défi constitutionnel le plus grave de cette période. En octobre 2024, **7 des 15 juges constitutionnels** avaient vu leur mandat expirer (y compris le président de la Cour de l'époque, Xu Zongli, et le vice-président Cai Jiongduo). Lai Ching-te avait proposé 7 candidats de remplacement en août 2024, mais le Yuan législatif, à majorité bleue-blanc, les a tous rejetés le 24 décembre 2024, laissant la Cour constitutionnelle fonctionner durablement avec seulement 8 juges. Le Parlement a ensuite amendé la *Loi sur la procédure constitutionnelle* pour relever le seuil de calcul du nombre total de juges constitutionnels, réduisant davantage l'espace de fonctionnement de la Cour constitutionnelle et suscitant des controverses ultérieures sur la validité constitutionnelle de ces mesures.[^4]
+La crise des vacances de sièges à la Cour constitutionnelle a constitué le défi constitutionnel le plus grave de cette période. En octobre 2024, **7 des 15 juges constitutionnels** avaient vu leur mandat expirer (y compris le président de la Cour de l'époque, Xu Zongli, et le vice-président Cai Jiongduo). Lai Ching-te avait proposé 7 candidats de remplacement en août 2024, mais le Yuan législatif, à majorité bleue-blanc, les a tous rejetés le 24 décembre 2024, laissant la Cour constitutionnelle fonctionner durablement avec seulement 8 juges. Le Parlement a ensuite amendé la _Loi sur la procédure constitutionnelle_ pour relever le seuil de calcul du nombre total de juges constitutionnels, réduisant davantage l'espace de fonctionnement de la Cour constitutionnelle et suscitant des controverses ultérieures sur la validité constitutionnelle de ces mesures.[^4]
 
 En 2025, le DPP et des organisations de la société civile ont lancé une campagne de révocation à grande échelle, initiant des pétitions de révocation contre plusieurs législateurs de l'opposition, dans ce qui est historiquement connu sous le nom de **« grande vague de révocations »**. Plusieurs propositions de révocation ont franchi le seuil de pétition et sont entrées en phase de vote, constituant la plus grande opération de révocation simultanée de l'histoire démocratique taïwanaise et mettant à nouveau à l'épreuve la conception procédurale du système de révocation.[^5]
 
@@ -70,9 +78,13 @@ La résilience de la démocratie taïwanaise provient à la fois de la conceptio
 ## Références
 
 [^1]: [Base de données nationale des lois et réglementations : Constitution de la République de Chine](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001) — Texte de la Constitution et amendements.
+
 [^2]: [Base de données électorale historique de la Commission électorale centrale](https://db.cec.gov.tw/) — Données électorales et statistiques de participation depuis les années 1980.
+
 [^3]: [Commission électorale centrale : Élection du 16ᵉ président et vice-président, 2024](https://db.cec.gov.tw/histQuery.jsp?voteCode=20240101A1&type=presMain) — Confirmation du score de Lai Ching-te à 40,05 % et des sièges législatifs par parti.
+
 [^4]: [Annonces de la Cour constitutionnelle : situation des nominations de juges constitutionnels](https://cons.judicial.gov.tw/) — Confirmation de l'expiration des mandats de 7 juges constitutionnels en octobre 2024 et des vacances de sièges.
+
 [^5]: [g0v — Gouvernement zéro](https://g0v.tw/) — Technologie citoyenne et outils de suivi des pétitions de la grande vague de révocations de 2025.
 
 **Pour aller plus loin**

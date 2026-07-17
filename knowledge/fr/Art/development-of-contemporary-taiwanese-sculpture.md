@@ -1,10 +1,11 @@
 ---
 title: 'Le développement de la sculpture contemporaine à Taïwan'
-description: 'De Yang Yingfeng et Zhu Ming aux nouvelles générations, explorer la trajectoire d''évolution et l''esprit créatif de l''art sculptural taïwanais'
+description: "De Yang Yingfeng et Zhu Ming aux nouvelles générations, explorer la trajectoire d'évolution et l'esprit créatif de l'art sculptural taïwanais"
 date: 2026-03-18
 category: 'Art'
 subcategory: '視覺藝術'
-tags: ['雕塑', '朱銘', '楊英風', '林舜龍', '洪易', '公共藝術', '當代藝術', '木雕']
+tags:
+  ['雕塑', '朱銘', '楊英風', '林舜龍', '洪易', '公共藝術', '當代藝術', '木雕']
 author: 'Taiwan.md'
 readingTime: 18
 lastVerified: 2026-03-19
@@ -47,7 +48,7 @@ L'histoire de la sculpture taïwanienne peut être divisée en trois strates : l
 
 Les racines de la tradition artisanale se sont implantées dans la société d'immigration, et les besoins en sculpture religieuse ont soutenu l'ensemble du système de maîtrise artisanale. Le système d'expositions officielles de la période coloniale japonaise a ouvert une fenêtre sur les techniques réalistes occidentales, tandis que la mise en place du système d'éducation artistique d'après-guerre a fourni le terreau fertile pour la génération des maîtres.
 
-Depuis l'œuvre de Huang Tu-shui *Eau douce* (甘露水), sélectionnée à l'Exposition impériale (帝展) en 1920, jusqu'à l'accession de la sculpture taïwanaise sur la scène des expositions internationales dans les années 1990, cette évolution s'étend sur soixante-dix ans et traverse trois contextes historiques distincts : l'éducation coloniale, la construction culturelle d'après-guerre et la mondialisation.
+Depuis l'œuvre de Huang Tu-shui _Eau douce_ (甘露水), sélectionnée à l'Exposition impériale (帝展) en 1920, jusqu'à l'accession de la sculpture taïwanaise sur la scène des expositions internationales dans les années 1990, cette évolution s'étend sur soixante-dix ans et traverse trois contextes historiques distincts : l'éducation coloniale, la construction culturelle d'après-guerre et la mondialisation.
 
 ### Les fondements traditionnels : les racines profondes de l'artisanat populaire
 
@@ -74,7 +75,7 @@ Depuis l'œuvre de Huang Tu-shui *Eau douce* (甘露水), sélectionnée à l'Ex
 **Huang Tu-shui (1895-1930)** : Premier sculpteur moderne de Taïwan
 
 - Caractéristiques de ses œuvres : fusion du réalisme japonais et de la ruralité taïwanaise
-- Œuvres majeures : *Eau douce* (甘露水), *Faisan Mikado* (帝雉), *Pays du Sud* (南國)
+- Œuvres majeures : _Eau douce_ (甘露水), _Faisan Mikado_ (帝雉), _Pays du Sud_ (南國)
 - Signification historique : ouverture de la voie à la sculpture moderne taïwanaise
 
 **Le développement durant la période coloniale japonaise** :
@@ -95,9 +96,9 @@ Depuis l'œuvre de Huang Tu-shui *Eau douce* (甘露水), sélectionnée à l'Ex
 
 **Œuvres majeures** :
 
-- *Le Phénix accueilli* (鳳凰來儀) : emblème de l'aéroport international de Taipei
-- *Taroko* (太魯閣) : représentation abstraite de la beauté des montagnes taïwanaises
-- *Porte du Dragon* (龍門) : interprétation moderne d'une imagerie traditionnelle avec des matériaux contemporains
+- _Le Phénix accueilli_ (鳳凰來儀) : emblème de l'aéroport international de Taipei
+- _Taroko_ (太魯閣) : représentation abstraite de la beauté des montagnes taïwanaises
+- _Porte du Dragon_ (龍門) : interprétation moderne d'une imagerie traditionnelle avec des matériaux contemporains
 
 **Caractéristiques créatives** :
 
@@ -121,9 +122,9 @@ Zhu Ming (1938-2023) est l'artiste jouissant de la plus grande notoriété inter
 
 **Œuvres représentatives** :
 
-- *Le Petit Berger* (牧童) : représentation de la vie rurale dans sa simplicité
-- *Travailler d'un même cœur* (同心協力) : représentation vivante de la vie paysanne
-- *Le Buffle d'eau* (水牛) : alliance parfaite de la force et de la beauté
+- _Le Petit Berger_ (牧童) : représentation de la vie rurale dans sa simplicité
+- _Travailler d'un même cœur_ (同心協力) : représentation vivante de la vie paysanne
+- _Le Buffle d'eau_ (水牛) : alliance parfaite de la force et de la beauté
 
 **Caractéristiques créatives** :
 
@@ -147,9 +148,9 @@ Zhu Ming (1938-2023) est l'artiste jouissant de la plus grande notoriété inter
 
 **Œuvres majeures** :
 
-- *Série Taiji — Simple fouet en position basse* (太極系列-單鞭下勢)
-- *Série Taiji — Exercice à deux* (太極系列-對練)
-- *Série Taiji — Position de départ* (太極系列-起勢)
+- _Série Taiji — Simple fouet en position basse_ (太極系列-單鞭下勢)
+- _Série Taiji — Exercice à deux_ (太極系列-對練)
+- _Série Taiji — Position de départ_ (太極系列-起勢)
 
 **Impact international** :
 
@@ -216,9 +217,9 @@ La période de formation de ces sculpteurs de la nouvelle génération coïncide
 
 **Œuvres majeures** :
 
-- *Le Poisson-Lune* (月亮魚) : art paysager pour l'Exposition florale de Taichung 2018
-- *Écouter la fleur s'ouvrir* (聆聽花開的聲音) : forêt arborée de l'Exposition florale de Taichung
-- *Le Bateau de graines* (種子船) : art environnemental au Parc naturel de Guandu
+- _Le Poisson-Lune_ (月亮魚) : art paysager pour l'Exposition florale de Taichung 2018
+- _Écouter la fleur s'ouvrir_ (聆聽花開的聲音) : forêt arborée de l'Exposition florale de Taichung
+- _Le Bateau de graines_ (種子船) : art environnemental au Parc naturel de Guandu
 
 **Caractéristiques créatives** :
 
@@ -236,9 +237,9 @@ La période de formation de ces sculpteurs de la nouvelle génération coïncide
 
 **Œuvres représentatives** :
 
-- Série *Le Bœuf* (牛) : interprétation contemporaine du buffle d'eau taïwanais
-- *Le Singe de la Fortune et de la Prospérité* (福祿猴) : lanterne principale du Festival des lanternes de Taipei 2016
-- *Le Roi des Singes* (美猴王) : combinaison de la mythologie traditionnelle et de l'esthétique moderne
+- Série _Le Bœuf_ (牛) : interprétation contemporaine du buffle d'eau taïwanais
+- _Le Singe de la Fortune et de la Prospérité_ (福祿猴) : lanterne principale du Festival des lanternes de Taipei 2016
+- _Le Roi des Singes_ (美猴王) : combinaison de la mythologie traditionnelle et de l'esthétique moderne
 
 **Caractéristiques créatives** :
 
@@ -274,7 +275,7 @@ La période de formation de ces sculpteurs de la nouvelle génération coïncide
 
 ## L'art public et l'espace urbain
 
-En 1992, le *Règlement d'encouragement aux arts et à la culture* (文化藝術獎助條例) a instauré la politique de « 1 % d'art public », exigeant que 1 % du budget des travaux publics soit consacré à l'installation d'œuvres d'art[^9]. Cette politique a transformé le mode de production de la sculpture taïwanaise : les artistes disposaient de sources de commandes stables, et les espaces urbains ont ainsi accumulé un grand nombre d'œuvres sculpturales.
+En 1992, le _Règlement d'encouragement aux arts et à la culture_ (文化藝術獎助條例) a instauré la politique de « 1 % d'art public », exigeant que 1 % du budget des travaux publics soit consacré à l'installation d'œuvres d'art[^9]. Cette politique a transformé le mode de production de la sculpture taïwanaise : les artistes disposaient de sources de commandes stables, et les espaces urbains ont ainsi accumulé un grand nombre d'œuvres sculpturales.
 
 À ce jour, plus de 3 000 œuvres d'art public ont été installées à Taïwan, dans des nœuds de transport, des campus, des parcs et des bâtiments gouvernementaux[^7]. Derrière ce chiffre se cache un système complexe composé de comités d'évaluation, de participation communautaire et de concours pour les artistes, dont l'efficacité et les controverses font toujours l'objet de débats dans le milieu de la politique culturelle.
 
@@ -284,7 +285,7 @@ Maintenir la qualité artistique dans les limites budgétaires et les processus 
 
 **Processus de législation** :
 
-- *Règlement d'encouragement aux arts et à la culture* de 1992
+- _Règlement d'encouragement aux arts et à la culture_ de 1992
 - Élaboration de réglementations pour l'installation d'art public
 - Mise en œuvre de la politique du « 1 % d'art public »
 
@@ -304,15 +305,15 @@ Maintenir la qualité artistique dans les limites budgétaires et les processus 
 
 **Emblèmes de nœuds de transport** :
 
-- *Le Phénix accueilli* (鳳凰來儀) de Yang Yingfeng à l'aéroport de Taoyuan
-- *La Coupole de lumière* (光之穹頂) de Narcissus à la station Formosa Boulevard du métro de Kaohsiung
-- *La Fleur de sagesse* (智慧之花) conçue par Issey Miyake pour le Taipei 101
+- _Le Phénix accueilli_ (鳳凰來儀) de Yang Yingfeng à l'aéroport de Taoyuan
+- _La Coupole de lumière_ (光之穹頂) de Narcissus à la station Formosa Boulevard du métro de Kaohsiung
+- _La Fleur de sagesse_ (智慧之花) conçue par Issey Miyake pour le Taipei 101
 
 **Sculptures paysagères urbaines** :
 
-- *Le Cœur de Taichung* (台中之心) à l'hôtel de ville de Taichung
-- *Le Bateau de l'amour* (愛之船) sur l'Aihe à Kaohsiung
-- *Le Parc culturel du Temple de Confucius* (孔廟文化園區) à Tainan
+- _Le Cœur de Taichung_ (台中之心) à l'hôtel de ville de Taichung
+- _Le Bateau de l'amour_ (愛之船) sur l'Aihe à Kaohsiung
+- _Le Parc culturel du Temple de Confucius_ (孔廟文化園區) à Tainan
 
 **Art sur les campus scolaires** :
 
@@ -537,13 +538,23 @@ De la création du Musée Zhu Ming à la construction de parcs de sculptures à 
 ## Références
 
 [^1]: [Article Wikipédia « Zhu Ming (sculpteur) »](https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98) — Biographie de Zhu Ming, parcours créatif et présentation du musée (édition mise à jour en 2025)
+
 [^2]: [Maison de ventes Ravenel](https://ravenel.com/) — Fichier officiel de l'artiste Zhu Ming et données de marché
+
 [^3]: [Page du cours d'éducation générale de l'Université chinoise de culture, « Trois sommets de la sculpture taïwanaise »](https://uge.pccu.edu.tw/p/405-1017-27790,c6858.php?Lang=zh-tw) — Conférence du professeur Xiao Qiongri, comparaison des trois générations Huang Tu-shui, Yang Yingfeng et Zhu Ming (2022)
+
 [^4]: [China Times, « Le parcours du maître Zhu Ming : Yang Yingfeng organise une exposition, le disciple se révèle, la Série Taiji fait sensation au Japon »](https://www.chinatimes.com/realtimenews/20230423002796-263301) — Exposition de Zhu Ming à Tokyo en 1977 et relation de maître à disciple avec Yang Yingfeng (23 avril 2023)
+
 [^5]: [Vocus, reportage spécial « Le sculpteur taïwanais Zhu Ming et ses liens avec Hong Kong »](https://vocus.cc/article/644cd3f8fd897800015f9262) — Liens créatifs et expositions entre Zhu Ming et le monde artistique de Hong Kong (2024)
+
 [^6]: [Musée Zhu Ming](https://www.juming.org.tw/) — Site officiel, informations sur les expositions, catalogue raisonné et programmes éducatifs
+
 [^7]: [Musée national des beaux-arts de Taïwan](https://www.ntmofa.gov.tw/) — Rapport de recherche « Histoire du développement de la sculpture contemporaine à Taïwan » (2021)
-[^8]: [Musée Yang Yingfeng](https://yuyuyang.org.tw/) — Archives numériques des *Œuvres complètes de Yang Yingfeng* et informations sur les expositions
+
+[^8]: [Musée Yang Yingfeng](https://yuyuyang.org.tw/) — Archives numériques des _Œuvres complètes de Yang Yingfeng_ et informations sur les expositions
+
 [^9]: [Site officiel de l'art public du ministère de la Culture](https://publicart.moc.gov.tw/) — Politique d'art public à Taïwan, réglementation et cas d'installation
+
 [^11]: [Université nationale des arts de Taïwan](https://www.ntua.edu.tw/) — Programmes du département de sculpture et informations sur les revues de recherche
+
 [^12]: [Musée des beaux-arts de Taipei](https://www.tfam.museum/) — Catalogue d'exposition « La sculpture taïwanaise 1945-2020 » (2020)
