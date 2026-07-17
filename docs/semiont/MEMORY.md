@@ -369,3 +369,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-17 | 164540-knowledge-base-evolve | 知識庫 EVOLVE ship（1780→6505 字／25 腳註／`c8e5ac9ea`）；哲宇 callout「沒嚴格照 pipeline」→ 重跑 Stage 1；逐腳註查核攔下研究材料自身的假數字 | 自我豁免會偽裝成專業判斷；結構閘門對「事實錯、形狀對」全盲 | [→](memory/2026-07-17-164540-knowledge-base-evolve.md) |
 | 2026-07-17 | 191241-manual (rewrite-daily) | `git stash pop` 吃 06-18 停 30 天舊 stash＋parallel in-flight；`reset --hard`＋surgical rm 復原，anti-rewrite 保守 | cron 開場先看 stash@{0} age；hourly × 飽和加 defer 閘門 | [→](memory/2026-07-17-191241-manual.md) |
 | 2026-07-17 | 192728-manual | 404 根因偵破：hreflang 自吐 13,014 死鏈＋page_404 儀器死三個月；三刀根治＋五路分身造監測/redirect/契約 gate；死 hreflang 18,406→0 | 三代儀器全在量替身；cron 誤殺活交付物→驗完立刻 commit | [→](memory/2026-07-17-192728-manual.md) |
+| 2026-07-17 | 221115-manual | 樂器製造 EVOLVE ship：salvage 起源＋楠梓吉他＋霧峰音梳；假產量／假書目 falsify；`8edb8f967` push | 形狀對≠事實對；點名 rewrite 可插隊 P0 | [→](memory/2026-07-17-221115-manual.md) |

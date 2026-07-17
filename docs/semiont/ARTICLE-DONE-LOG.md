@@ -59,6 +59,17 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 台灣樂器製造業 EVOLVE — 2026-07-17-221115-manual 完成
+
+- **Article**: [knowledge/Music/台灣樂器製造.md](../../knowledge/Music/台灣樂器製造.md)
+- **Pipeline**: REWRITE-PIPELINE v9 — EVOLVE（立體群像；傳承與世代＋時代縮影）
+- **組織主軸**：世界各地的樂音裡，有多少銅與木曾在台灣人手裡過一遍
+- **Hook**：后里 salvage 第一把銅 → 隱形三層（校隊 Jupiter／楠梓四百萬／霧峰音梳）
+- **品質**：~5285 CJK／46 腳註／5 圖+1 iframe／tw-stat+timeline+note；rewrite-stage-4 hard=0
+- **Research**: [reports/research/2026-07/台灣樂器製造.md](../../reports/research/2026-07/台灣樂器製造.md)
+- **大事實修正**：1970s 開廠 falsify；10萬/35% 刪；Jupiter 非后里起家；協櫻 1979；霧峰非日月潭；假書目四本 negative；楠梓吉他主線補上
+- **Commit**: `8edb8f967`
+
 ### 阿神 EVOLVE — 2026-07-15 2026-07-15-twmd-rewrite-deep 完成（十一年日更、兩次退休宣告與 2026 新片）
 
 - **Article**: [knowledge/People/阿神.md](../../knowledge/People/阿神.md) — 1,494 CJK 薄人物簡介全文重寫為 4,500 CJK 深度人物文。
