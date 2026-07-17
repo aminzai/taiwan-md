@@ -360,6 +360,33 @@ async function main() {
   const output = `${manualBlock}${dataDrivenBlock}`;
   await writeFile(OUT_PATH, output);
 
+  // 4b. Astro config 版本（部署平台真相：GitHub Pages，_redirects 不被支援。
+  // astro.config.mjs 讀這份 JSON 生成 meta-refresh + canonical stub 頁——
+  // GH Pages 上唯一的原生 redirect 路徑。只收 HTML 導覽路徑：帶副檔名的
+  // 資產請求不會跟 meta-refresh，交給真檔案處理）
+  const astroRedirects = {};
+  const parseRuleLine = (line) => {
+    const m = line.trim().match(/^(\/\S+)\s+(\/\S+)\s+301$/);
+    return m ? [m[1], m[2]] : null;
+  };
+  for (const line of manualBlock.split('\n')) {
+    if (line.startsWith('#') || !line.trim()) continue;
+    const rule = parseRuleLine(line);
+    if (rule && !/\.[a-z0-9]{2,5}$/i.test(rule[0])) {
+      astroRedirects[rule[0]] = rule[1];
+    }
+  }
+  for (const c of kept) {
+    if (!/\.[a-z0-9]{2,5}$/i.test(c.source)) {
+      astroRedirects[c.source] = c.target;
+    }
+  }
+  const ASTRO_OUT = join(REPO, 'config/redirects-generated.json');
+  await writeFile(ASTRO_OUT, JSON.stringify(astroRedirects, null, 2) + '\n');
+  console.log(
+    `   ✓ ${ASTRO_OUT}（${Object.keys(astroRedirects).length} 條 HTML 導覽 redirect → astro.config 生成 stub）`,
+  );
+
   const totalRuleCount = manualCount + kept.length;
 
   console.log(`   manual 條目：${manualCount} 條`);

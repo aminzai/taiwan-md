@@ -187,7 +187,17 @@ export default defineConfig({
   // 2026-04-11 heartbeat: Static redirects for top 404 URLs identified via
   // Cloudflare logs. Astro generates HTML meta-refresh pages for each entry.
   // Review with: bash scripts/tools/fetch-cloudflare.py --days 1
+  //
+  // 2026-07-17: generated redirects merged in from config/redirects-generated
+  // .json (slug-unification renames + monitor-404 observed dead URLs with
+  // resolvable targets; producer: scripts/core/generate-redirects.mjs, runs in
+  // prebuild). Deploy platform truth is GitHub Pages — _redirects files are
+  // NOT supported there, meta-refresh stubs are the only native redirect path.
+  // Inline entries below win on key collision (spread order).
   redirects: {
+    ...(existsSync('./config/redirects-generated.json')
+      ? JSON.parse(readFileSync('./config/redirects-generated.json', 'utf-8'))
+      : {}),
     // 2026-06-19: 立蛋.md Merge 進 端午節.md（idlccp1984 #1167/#1168 同日初稿，
     // 立蛋「迷信 vs 科學」吸納為端午節對比模組）。立蛋為當日新建 zh-TW only，1 lang redirect。
     '/culture/立蛋': '/culture/端午節/',
