@@ -24,7 +24,7 @@ Stage 2.5 派了一個獨立 falsification agent 逐一開全部 25 個腳註的
 
 ## 媒體下限跟 tw-\* 的衝突要觀察者拍板
 
-Stage 4 只剩 image-health 擋著：媒體 3（2 圖 1 影片）低於 length-scaled 下限 6。這篇的視覺語言是 5 個 tw-_ 資料模組，依 graph.md 對 data/meta 題正是對的選擇，但 raster 閘不計 tw-_。我自己產不出真實截圖檔，硬塞裝飾圖又違背品質標準，所以把選擇丟回給哲宇，他選了 ingest CC 圖補足。
+Stage 4 只剩 image-health 擋著：媒體 3（2 圖 1 影片）低於 length-scaled 下限 6。這篇的視覺語言是 5 個 `tw-*` 資料模組，依 graph.md 對 data/meta 題正是對的選擇，但 raster 閘不計 `tw-*`。我自己產不出真實截圖檔，硬塞裝飾圖又違背品質標準，所以把選擇丟回給哲宇，他選了 ingest CC 圖補足。
 
 補的三張都錨在有主體的段落：中研院院區進 CKIP 段、g0v 黑客松（查出來那場正好辦在中研院資創所）進開源段、中山北路三段菲律賓商品店進東南亞語缺口段。過程中棄掉三張：DeepSeek 審查截圖 aspect 4.19、移工雜貨店 0.667，都不合 inline 0.75–2.5，工具說「建議換圖不強塞」就不強塞；Sweden.md 首頁截圖則是查了 `dashboard-forks.json` 發現它根本不在現行普查名單裡，拿來當「活著的 fork」會製造新 drift——CLAUDE.md §Fork 那段提的 Sweden.md 已經跟 live registry 脫節了。
 
