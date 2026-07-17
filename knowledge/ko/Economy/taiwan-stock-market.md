@@ -1,221 +1,227 @@
 ---
-title: "Taiwan Stock Market and Capital Market: From the 1990 10,000-Point Crash to the 2026 Global No. 6, with 44% of Wealth Tied to a Single Stock"
-description: "On April 28, 2026, Bloomberg reported 'Taiwan Overtakes Canada.' An island that once lost the retirement funds of 160,000 people in the 1990 10,000-point crash has, thirty-six years later, ascended to become the world's 6th largest stock market—yet nearly half of its $4.47 trillion market cap is tied to a single semiconductor company."
-date: 2026-05-03
-tags: ['Taiwan Stock', 'Stock Exchange', 'Capital Market', 'ETF', 'TSMC', 'Retail Investors', 'AI']
-subcategory: 'Economy'
+title: '대만 주식시장과 자본시장: 1990년 1만 포인트 붕괴에서 2026년 세계 6위까지, 자산의 44%를 한 종목에 건 섬'
+description: '2026년 4월 28일 블룸버그에는 “Taiwan Overtakes Canada”라는 제목이 떴다. 1990년 1만 포인트 붕괴로 16만 명의 퇴직금을 앗아갔던 섬이 36년 뒤 세계 6위 주식시장에 올랐다. 그러나 시가총액 4조 4,700억 달러 가운데 거의 절반이 한 반도체 기업에 걸려 있다.'
+date: '2026-05-03'
 author: 'Taiwan.md'
-featured: true
+category: 'Economy'
+subcategory: 'Economy'
+tags: ['대만 증시', '증권거래소', '자본시장', 'ETF', 'TSMC', '개인투자자', 'AI']
 readingTime: 16
-lastVerified: 2026-05-03
+lastVerified: '2026-05-03'
 lastHumanReview: false
-researchReport: reports/research/2026-05/Taiwan Stock Market and Capital Market.md
+featured: true
+translatedFrom: 'Economy/台灣股市與資本市場.md'
+sourceCommitSha: 'e10215bc7'
+sourceContentHash: 'sha256:5f40e129854187a5'
+sourceBodyHash: 'sha256:fa7e9d68ca508066'
+translatedAt: '2026-05-12T11:51:04+08:00'
 ---
 
-> **30-Second Overview:** On April 28, 2026, the total market capitalization of Taiwan's stock market surged to $4.47 trillion, surpassing Canada to become the world's 6th largest stock market; earlier in the mid-month, it had already surpassed the UK. The driving force behind this is TSMC—valued at $1.8 trillion, with a weight of nearly 45% in the weighted index. Thirty-six years ago, the 10,000-point crash that wiped out the accounts of 4.6 million people, and the Hong Yuan Institution that trapped 160,000 people with a monthly interest rate of 4%, have not yet dried up in the financial memory of this island. From over ten listed companies in the year the Securities and Futures Exchange was established to 13.93 million accounts sharing a global No. 6 capital market today, Taiwan took sixty-four years. But this No. 6 ranking has a structural paradox: remove TSMC, and the remaining 1,000+ stocks combined would barely squeeze into the global No. 15 spot.
+> **30초 개요:** 2026년 4월 28일, 대만 증시의 총시가총액은 4조 4,700억 달러로 치솟아 캐나다를 제치고 세계 6위 주식시장이 되었다. 같은 달 중순에는 이미 영국을 넘어섰다. 그 배후의 동력은 TSMC였다. 시가총액 1조 8,000억 달러, 가권지수 내 비중은 45%에 가깝다. 36년 전 460만 개 계좌를 집단 증발시킨 1만 포인트 붕괴, 월 4% 이자로 16만 명을 빠뜨린 훙위안 기관의 기억은 이 섬의 금융 기억 속에서 아직 마르지 않았다. 증권거래소가 설립된 해의 상장사는 십여 곳에 불과했지만, 오늘날 1,393만 개 계좌가 세계 6위 자본시장을 나누어 떠받치기까지 대만은 64년을 보냈다. 그러나 이 6위에는 구조적 역설이 있다. TSMC를 빼면 나머지 1,000여 종목을 모두 합쳐도 대략 세계 15위권에 겨우 들어가는 수준이다.
 
-## 2026-04-28, New York Bloomberg Terminal
+## 2026-04-28, 뉴욕 블룸버그 단말기
 
-It was midnight Taipei time on April 28, 2026. The Bloomberg Terminal flashed a headline: "Taiwan Overtakes Canada as World's Sixth-Largest Stock Market" [^bloomberg].
+그날은 2026년 4월 28일, 타이베이 시간으로 한밤중이었다. 블룸버그 단말기에 한 제목이 떴다. “Taiwan Overtakes Canada as World's Sixth-Largest Stock Market”[^bloomberg].
 
-The numbers were calm: Taiwan's total listed company market cap was $4.47 trillion, Canada's was $4.44 trillion. With a gap of less than 1%, Taiwan officially pushed out this G7 nation [^biggo].
+숫자는 냉정했다. 대만 상장사의 총시가총액은 4조 4,700억 달러, 캐나다는 4조 4,400억 달러였다. 대만 증시는 1%도 안 되는 차이로 이 G7 국가를 공식적으로 밀어냈다[^biggo].
 
-A few hours later, a taxi driver on Xinyi Road in Taipei switched the radio to a financial station, where the host was reading another record broken this year: In April alone, the weighted index rose by 7,200 points, a gain of 22.7% [^biggo2]. Intraday, it touched 40,194.92 points on the morning of April 27, breaking the 40,000-point barrier for the first time in history [^taipeitimes].
+몇 시간 뒤, 타이베이 신이로의 택시 기사는 라디오를 경제 채널로 돌렸다. 진행자는 올해 막 깨진 또 하나의 기록을 읽고 있었다. 4월 한 달 동안 가권지수는 7,200포인트, 22.7% 올랐고[^biggo2], 장중에는 4월 27일 오전 40,194.92포인트를 찍으며 사상 처음으로 4만 선을 돌파했다[^taipeitimes].
 
-The driver didn't look up. He just said one thing: "TSMC can hit 2,500 this time."
+기사는 고개를 들지 않았다. 그는 한마디만 했다. “이번에 TSMC는 2,500까지도 노릴 수 있겠네.”
 
-He didn't know what headline Bloomberg flashed, nor did he need to know—for him, the stock market行情 (trend) of this island was condensed into the numbers of a single stock.
+그는 블룸버그에 어떤 제목이 떴는지 몰랐고, 알 필요도 없었다. 그에게 이 섬의 주식시장 흐름은 본래 한 종목의 숫자로 압축되어 있었기 때문이다.
 
-And his intuition matched the conclusion of analysts worldwide holding Bloomberg terminals.
+그리고 그의 직감은 블룸버그 단말기를 들여다보는 전 세계 애널리스트들의 결론과 사실상 같았다.
 
-## Firecrackers, the Stock Exchange, and the Retirement Funds of 160,000 People
+## 폭죽, 증권거래소, 그리고 16만 명의 퇴직금
 
-To understand the red line of April 2026, we must first return to the black line of February 1990.
+2026년 4월의 그 붉은 선을 이해하려면, 먼저 1990년 2월의 검은 선으로 돌아가야 한다.
 
-On February 12, 1990, Taiwan's weighted stock price index surged to 12,682 points, the highest in history. People set off firecrackers outside the Securities and Futures Exchange [^泡沫]. At that time, there were approximately 4.6 million active trading accounts across Taiwan, with almost every family having someone buying stocks. Retail trading volume accounted for 90% [^技術新報]. Taxi drivers discussed "insider tips" (mingpai), vegetable market aunties placed orders via hotline phones, and civil servants secretly watched scrolling LED boards in the office.
+1990년 2월 12일, 대만 가권주가지수는 12,682포인트까지 올라 사상 최고치를 기록했다. 증권거래소 앞에서는 누군가 폭죽을 터뜨렸다[^泡沫]. 당시 대만 전역의 활발한 거래 계좌는 약 460만 개였고, 거의 모든 가정에 주식을 사는 사람이 있었다. 개인투자자 거래량은 90%를 차지했다[^技術新報]. 택시 기사는 추천 종목을 논했고, 재래시장 아주머니는 증권사 객장 전화로 주문을 냈으며, 공무원은 사무실에서 몰래 전광판을 훔쳐보았다.
 
-Eight months later, the index fell to 2,485 points. It lost 80% [^udn1990].
+8개월 뒤 지수는 2,485포인트까지 떨어졌다. 80%가 증발했다[^udn1990].
 
-> **📝 Curator's Note**
-> The phrase "Taiwanese money floods to the ankles" originated in this era. Too much money, too few places to go; the stock market and real estate became two reservoirs without floodgates.
+> **📝 큐레이터 노트**
+> “대만의 돈이 발목까지 차오른다”는 말은 바로 이 시대의 산물이다. 돈은 너무 많고 갈 곳은 너무 적었다. 주식시장과 부동산시장은 배수구 없는 두 개의 저수지가 되었다.
 
-To make matters worse was the Hong Yuan Institution. This underground investment company began absorbing private funds with a monthly interest rate of 4% (monthly return rate of 4%) starting in 1981. At its peak, its absorption scale reached NT$94 billion. On January 9, 1990, Hong Yuan announced the cessation of withdrawals, leaving over 160,000 creditors bloodless overnight—most of whom had bet their retirement funds and life savings on it, particularly military, civil, and teaching personnel [^鴻源].
+설상가상으로 훙위안 기관이 있었다. 이 지하 투자회사는 1981년부터 월 4% 이자, 즉 월 수익률 4%를 내세워 민간 자금을 끌어모았고, 전성기에는 흡수 자금 규모가 940억 신대만달러에 달했다. 1990년 1월 9일, 훙위안은 출금 중단을 선언했다. 16만 명이 넘는 채권자가 하룻밤 사이에 원금을 모두 잃었다. 다수는 퇴직금과 평생 저축을 전부 넣은 군인·공무원·교원이었다[^鴻源].
 
-> **⚠️ Controversial Viewpoint**
-> Hong Yuan's leader Shen Chang-sheng was sentenced to seven years in prison, plus a fine of three million. He was released on parole in 1994 [^鴻源wiki]. "Sixteen thousand people's retirement funds exchanged for seven years in prison" is the most painful scar in Taiwan's financial regulatory history. Even until Shen Chang-sheng died suddenly in Xiamen in 2022, outsiders still suspected where the money for his luxurious life after release came from [^沈長聲].
+> **⚠️ 논쟁적 관점**
+> 훙위안 사건의 주범 선창성은 징역 7년과 벌금 300만 신대만달러를 선고받고, 1994년 가석방으로 출소했다[^鴻源wiki]. “16만 명의 퇴직금이 7년형으로 바뀌었다”는 말은 대만 금융감독사에서 가장 아픈 흉터다. 2022년 선창성이 샤먼에서 급사할 때까지도, 외부에서는 그가 출소 후 호화로운 생활을 한 돈이 어디에서 나왔는지 의심했다[^沈長聲].
 
-The aftermath of this double blow lasted for a full decade. In the 1990s, "stocks" were a dirty word in many Taiwanese families. Parents warned their children: Don't touch stocks; that's gambling.
+이 이중 충격의 후유증은 꼬박 10년 동안 이어졌다. 1990년대 많은 대만 가정에서 “주식”은 금기어였다. 부모는 아이들에게 타일렀다. 주식은 건드리지 마라. 그건 도박이다.
 
-## Foreign Capital, ETFs, and the Gravity Field of TSMC
+## 외국인 자금, ETF, 그리고 TSMC의 중력장
 
-Taiwan's stock market in the new century was rewritten by three things.
+새 세기의 대만 증시는 세 가지에 의해 다시 쓰였다.
 
-The first is foreign capital. In the early 1990s, foreign capital holdings were less than 5%. In the 2000s, the government relaxed restrictions and introduced the QFII system, causing it to rise gradually. Institutional investors replaced retail investors as the main force, shifting the trading logic from "listening to insider tips" to "reading financial reports" [^技術新報].
+첫째는 외국인 자금이었다. 1990년대 초 외국인 지분율은 5%에도 못 미쳤지만, 2000년대 정부가 제한을 완화하고 QFII 제도를 도입한 뒤 점차 상승했다. 기관투자자가 개인투자자의 주도권을 대체했고, 거래 논리는 “추천 종목을 듣는 것”에서 “재무제표를 읽는 것”으로 바뀌었다[^技術新報].
 
-The second is ETFs. In June 2003, Yuan Taiwan Asset Management issued 0050 (Yuan Taiwan 50), Taiwan's first ETF. It did something simple: allowing people who don't understand individual stocks to participate in the overall growth of Taiwan's top 50 companies. Twenty years later, the number of beneficiaries for 0050 exceeded 2.74 million. Combined with the later high-dividend groups, ETFs have become the default option for household financial management in Taiwan [^ETF].
+둘째는 ETF였다. 2003년 6월 위안다투신은 0050, 즉 위안다 타이완 50을 발행했다. 대만 최초의 ETF였다. 그것이 한 일은 단순했다. 개별 종목을 모르는 사람도 대만 상위 50대 기업의 전체 성장에 참여할 수 있게 한 것이다. 20년 뒤 0050의 수익자 수는 274만 명을 돌파했고, 이후의 고배당 상품군까지 더해지며 ETF는 대만 가계 자산관리의 기본 선택지가 되었다[^ETF].
 
-The third, larger than the previous two combined—TSMC.
+셋째는 앞의 둘을 합친 것보다 더 컸다. TSMC였다.
 
-When discussing Taiwan's stock market in 2026, one cannot discuss [[Taiwan Enterprises: TSMC]]. The Taiwan stock market is like the solar system, and TSMC is the sun. **As of March 10, 2026, TSMC's weight in the weighted index reached 45.0041%** [^TWSE權重]. When the stock price is around 2,265 NTD, for every one yuan this individual stock moves, the broader market index moves by approximately 8 points [^TWSE權重].
+2026년의 대만 증시를 말하면서 [대만 기업: TSMC](/ko/Economy/tsmc-taiwan-semiconductor/)를 말하지 않을 수 없다. 대만 증시가 태양계라면, TSMC는 그 태양이다. **2026년 3월 10일 기준 TSMC의 가권지수 내 비중은 45.0041%에 이르렀다**[^TWSE權重]. 주가가 2,265신대만달러 부근일 때 이 종목이 1신대만달러 움직일 때마다 대형 지수는 약 8포인트 움직인다[^TWSE權重].
 
-Describing this proportion as an "important component stock" is severely inaccurate. It has become the market itself.
+이 비율을 “중요한 구성 종목”이라고 표현하면 심각하게 부정확하다. 그것은 이미 시장 자체다.
 
-## The New Year's Red Packet of January 5, 2026
+## 2026년 1월 5일의 신년 보너스
 
-On January 5, 2026, the second trading day of the Year of the Horse. The weighted index gapped up in the early session, touching 30,339.32 points intraday and closing at 30,105.04 points, officially entering the 30,000-point era [^三萬點]. On that day, TSMC rose 5.36%, touching 1,695 NTD intraday. This single stock contributed approximately 680 points to the broader market. In two days, Taiwan's stock market capitalization increased by NT$3.7 trillion, with an average paper profit of NT$268,000 per investor [^三萬點].
+2026년 1월 5일, 말의 해 두 번째 거래일이었다. 가권지수는 장 초반 갭상승했고, 장중 30,339.32포인트를 찍은 뒤 30,105.04포인트로 마감하며 공식적으로 3만 포인트 시대에 들어섰다[^三萬點]. 그날 TSMC는 5.36% 올랐고, 장중 1,695신대만달러를 찍었다. 이 한 종목만으로 지수에 약 680포인트를 보탰다. 이틀 사이 대만 증시 시가총액은 3조 7,000억 신대만달러 늘었고, 투자자 1인당 장부상 평균 평가이익은 26만 8,000신대만달러에 달했다[^三萬點].
 
-Behind this 30,000-point figure lies a compressed timeline: After the 10,000-point bubble in 1990, it took nearly thirty years for Taiwan's stock market to stand above 10,000 points again; it took seven years to go from 10,000 to 20,000 points; from 20,000 to 30,000 points, it only took two years.
+이 3만 포인트 뒤에는 압축된 시간선이 숨어 있다. 1990년 1만 포인트 거품 이후 대만 증시가 다시 1만 선에 서기까지 거의 30년이 걸렸다. 1만에서 2만까지 가는 데에는 7년이 걸렸다. 2만에서 3만까지는 단 2년이 걸렸다.
 
-> **✦** "That 10,000-point thirty years ago was a bubble piled up by 4.6 million accounts buying and selling. Thirty-six years later, this 30,000-point peak is supported by 13.93 million accounts sitting on ETFs, plus one stock, TSMC, holding up the sky. The index is still numbers, but the capital structure is completely different."
+> **✦** “30년 전의 그 1만 포인트는 460만 개 계좌가 앞다투어 사고팔며 쌓아 올린 거품이었다. 36년 뒤의 이 3만 포인트는 1,393만 개 계좌가 ETF 위에 앉고, 여기에 TSMC 한 종목이 떠받친 천장이다. 지수는 똑같이 숫자이지만, 자금 구조는 완전히 다르다.”
 
-By April 2026, that momentum had not yet ended.
+2026년 4월이 되었을 때에도 그 동력은 끝나지 않았다.
 
-## April's 22.7% Monthly Surge
+## 4월의 22.7% 단월 폭등
 
-April was a subversive month for Taiwan's stock market.
+4월은 대만 증시에 전복적인 한 달이었다.
 
-Around April 15, Taiwan's total market capitalization surged to $4.14 trillion, surpassing the UK ($3.99 trillion) and squeezing into the world's 7th largest stock market [^超英].同期 (同期), South Korea's KOSPI also surpassed the UK with $4.04 trillion, rising to 8th place—within a month, two East Asian semiconductor economies simultaneously crossed a G7老牌 (old-established) market [^韓國].
+4월 15일 전후, 대만 증시의 총시가총액은 4조 1,400억 달러로 뛰어 영국 3조 9,900억 달러를 넘어서며 세계 7위 주식시장에 진입했다[^超英]. 같은 시기 한국 KOSPI도 4조 400억 달러로 영국을 넘어 세계 8위에 올랐다. 한 달 안에 동아시아의 두 반도체 경제가 동시에 G7의 오래된 시장 하나를 넘어선 것이다[^韓國].
 
-On April 24, the Financial Supervisory Commission officially approved the "TSMC Clause": the limit on fund holdings of a single stock was relaxed from 10% to 25%. The next day, TSMC's stock price gapped up to break new highs [^台積電條款].
+4월 24일, 금융감독관리위원회는 이른바 “TSMC 조항”을 공식 확정했다. 펀드가 단일 종목을 보유할 수 있는 상한을 10%에서 25%로 완화한 것이다. 다음 날 TSMC 주가는 갭상승하며 사상 최고가를 새로 썼다[^台積電條款].
 
-At 9:25 AM on April 27, the weighted index jumped to 40,194.92 points, touching 40,000 for the first time in history. Although it gave back gains at the end of the day, closing at 39,616.63 points, the trading value surged to NT$1.18 trillion [^taipeitimes]. Moore Advisory analyst Adam Lin told Taipei Times: "TSMC was the major driver of the Taiex's gains today." He added that he is not worried about holding steady: "I expect TSMC will continue to move higher on its sound fundamentals." (Quote from [Taipei Times 2026-04-28](https://www.taipeitimes.com/News/biz/archives/2026/04/28/2003856343)).
+4월 27일 오전 9시 25분, 가권지수는 40,194.92포인트로 뛰어 사상 처음 4만을 찍었다. 그날 장 막판에는 상승분을 일부 반납해 39,616.63포인트로 마감했지만, 거래대금은 1조 1,800억 신대만달러까지 치솟았다[^taipeitimes]. 무어투자자문 애널리스트 Adam Lin은 타이베이 타임스에 “TSMC was the major driver of the Taiex's gains today.”라고 말했다. 이어 그는 상승세 유지에 대해 걱정하지 않는다며 “I expect TSMC will continue to move higher on its sound fundamentals.”라고 덧붙였다([Taipei Times 2026-04-28](https://www.taipeitimes.com/News/biz/archives/2026/04/28/2003856343)).
 
-The day after the 40,000-point mark (April 28), Taiwan's total market capitalization rose to $4.47 trillion, surpassing Canada ($4.44 trillion) and leaping to the world's 6th largest [^bloomberg]. Throughout April, the weighted index accumulated a gain of 22.7%, rising 7,200 points for the month—one of the most violent monthly trends in Taiwan stock market history [^biggo2].
+4만 포인트를 찍은 다음 날인 4월 28일, 대만 증시 총시가총액은 4조 4,700억 달러로 올라 캐나다 4조 4,400억 달러를 넘어서며 세계 6위로 뛰어올랐다[^bloomberg]. 4월 전체로 보면 가권지수의 누적 상승률은 22.7%, 한 달 상승폭은 7,200포인트였다. 대만 증시 역사상 가장 격렬한 단월 장세 가운데 하나였다[^biggo2].
 
-| Top 9 Global Stock Markets (Closing 2026-04-28) [^biggo] | Market Cap (Trillion USD) |
-| ------------------------------------------- | -------------- |
-| United States | 75.04 |
-| China | 14.84 |
-| Japan | 8.19 |
-| Hong Kong | 7.41 |
-| India | 4.97 |
-| **Taiwan** | **4.47** |
-| Canada | 4.44 |
-| South Korea | 4.04 |
-| United Kingdom | 3.99 |
+| 세계 9대 주식시장(2026-04-28 종가)[^biggo] | 시가총액(조 달러) |
+| ------------------------------------------ | ----------------- |
+| 미국                                       | 75.04             |
+| 중국                                       | 14.84             |
+| 일본                                       | 8.19              |
+| 홍콩                                       | 7.41              |
+| 인도                                       | 4.97              |
+| **대만**                                   | **4.47**          |
+| 캐나다                                     | 4.44              |
+| 한국                                       | 4.04              |
+| 영국                                       | 3.99              |
 
-There is a detail worth pausing to look at in this list: The top five are traditional financial heavyweight economies. Taiwan ranks 6th, followed by two members of the G7. An island with an area 300 times smaller than Canada and a population 40% smaller than the UK has surpassed them on the scale of the capital market.
+이 명단에는 잠시 멈춰 보아야 할 세부사항이 있다. 상위 다섯 곳은 전통적인 금융 중량급 경제권이고, 대만은 6위이며, 그 뒤에는 두 개의 G7 회원국이 이어진다. 면적은 캐나다의 300분의 1도 되지 않고, 인구는 영국보다 40% 적은 섬이 자본시장의 척도에서는 이들을 넘어섰다.
 
-J.P. Morgan Asset Management's outlook for Taiwan's stock market in 2026 is straightforward: "The AI arms race drives capital expenditure, boosting Taiwan's exports and strong semiconductor growth," "Taiwan stocks have risen more than 90% in the past 3 years," "The P/E ratio has risen from 12.4x to 17.7x," "Tech stocks account for 70%-75% of Taiwan stock market capitalization" [^JPM].
+J.P. Morgan Asset Management는 2026년 대만 증시 전망에서 직설적으로 썼다. “AI 군비 경쟁이 자본지출을 이끌며 대만 수출과 반도체의 강한 성장을 견인한다”, “대만 증시의 최근 3년 상승률은 90%를 넘었다”, “주가수익비율은 12.4배에서 17.7배로 상승했다”, “기술주의 대만 증시 시가총액 비중은 70%-75%에 달한다”[^JPM].
 
-Then it writes a very restrained sentence: "Industrial concentration and valuation increases may add volatility; active stock selection ability is the key."
+이어 그것은 매우 절제된 문장을 적었다. “산업 집중화와 밸류에이션 상승은 변동성을 더할 수 있으며, 적극적 종목 선택 능력이 중요한 열쇠가 될 것이다.”
 
-The meaning of this sentence can only be understood in the next section.
+이 말의 의미는 다음 절을 보아야 이해된다.
 
-## The 44% Watermelon Effect
+## 44%의 수박 효과
 
-On April 28, 2026, Taiwan's stock market capitalization was $4.47 trillion, TSMC's market cap was $1.8 trillion, and the TAIEX weight was close to 45% [^bloomberg][^TSMC].
+2026년 4월 28일 대만 증시의 시가총액은 4조 4,700억 달러, TSMC의 시가총액은 1조 8,000억 달러였고, TAIEX 내 비중은 45%에 가까웠다[^bloomberg][^TSMC].
 
-Translating this proportion into a more concrete image: Over 1,000 listed companies, the number one player eats 45% alone; the remaining 1,000+ companies combined split the remaining 55%.
+이 비율을 더 구체적인 장면으로 번역하면 이렇다. 1,000곳이 넘는 상장사 가운데 1위 한 곳이 45%를 먹고, 나머지 1,000여 곳이 합쳐 남은 55%를 나누어 가진다.
 
-> **📝 Curator's Note**
-> A scholar described to the media in April 2026: "TSMC is like a big watermelon, sucking up all the nutrients from other watermelons." (Retold from [Wan De Fu 2026-04-25](https://wantrich.chinatimes.com/news/20260425900045-420101)). This metaphor has a formal name in finance called "Dutch Disease" (Dutch Disease): A single industry becomes overly prosperous, sucking talent, capital, and land from the entire economy, eventually pushing traditional industries and service sectors to the margins [^荷蘭病]. The brighter the AI dividend for Taiwan, the more locked-in this structure becomes.
+> **📝 큐레이터 노트**
+> 한 학자는 2026년 4월 언론에 이렇게 묘사했다. “TSMC는 큰 수박 하나처럼 다른 수박들의 영양분을 전부 빨아들였다.”([왕더푸 2026-04-25](https://wantrich.chinatimes.com/news/20260425900045-420101) 재인용) 이 비유에는 금융학에서 “네덜란드병”(Dutch Disease)이라는 공식 명칭이 있다. 단일 산업이 지나치게 번성하면서 경제 전체의 인재, 자금, 토지를 빨아들이고, 결국 전통 제조업과 서비스업까지 주변으로 밀려나는 현상이다[^荷蘭病]. 대만의 AI 배당이 눈부실수록 이 구조는 더 굳어진다.
 
-This 45% sits alongside other numbers.
+이 45% 옆에는 또 다른 숫자들이 놓여 있다.
 
-Goldman Sachs Securities released its "2026 Investment Outlook: 10 Key Investment Trends" report in January 2026, led by Zhang Bokai, Head of Greater China Technology Industry Research. It locked in 25 buy-list stocks for Taiwan's stock market: TSMC (2330), ASE Technology Holding (3711), Foxconn (2317), Wistron (3231), Inventec (6669), Chicony (3017), Delta Electronics (2308), Everlight Electronics (2383), Largan Precision (3008), Chuanhu (2059), Qtech (8210), Shenda (3706), Sunon (3376), Taiding (6274), Golden Century Electronics (2368), Nan Ya Printed Circuit (8046), etc. [^高盛].
+골드만삭스증권은 2026년 1월 《2026 투자전망: 10대 핵심 투자 추세》 보고서를 발표했다. 중화권 기술산업 리서치 책임자 장보카이가 이끈 이 보고서는 대만 증시에서 25개 매수 종목을 제시했다. TSMC(2330), ASE Technology Holding(3711), 폭스콘(2317), 위스트론(3231), Wiwynn(6669), 치훙(3017), 솽훙(3324), 델타전자(2308), 타이완 유니온 테크놀로지(2383), 라간정밀(3008), 카와후(2059), 치너청(8210), 신다컴퓨터(3706), 신르싱(3376), 타이야오(6274), 골드서킷전자(2368), 난야PCB(8046) 등이었다[^高盛].
 
-The investment theme of the entire list is very consistent: Semiconductors, AI servers, optical transceiver modules, thermal management modules, ODM factories, PCs, smartphones, PCBs, L4 autonomous vehicles, low-orbit satellites [^高盛]. Not a single financial stock, not a single consumer stock, not a single traditional industry leader.
+전체 명단의 투자 주제는 매우 일관적이었다. 반도체, AI 서버, 광송수신 모듈, 냉각 모듈, ODM 업체, PC, 스마트폰, PCB, L4 자율주행차, 저궤도 위성이다[^高盛]. 금융주는 한 종목도 없고, 소비재주도 한 종목도 없으며, 전통산업 대표주도 한 종목도 없다.
 
-In other words, when Goldman Sachs strategists look at Taiwan's $4.47 trillion market cap and ask "how to bet next," their answer is: Bet on the same horse again.
+다시 말해 골드만삭스의 전략가들이 대만 증시 4조 4,700억 달러의 시가총액을 보며 “앞으로 어디에 베팅할 것인가”라고 물었을 때, 그들의 답은 이렇다. 다시 한 번 같은 말에 베팅하라.
 
-The report card for active ETFs also points in the same direction. As of April 29, Nomura Hongyun Fund YTD return was 89.58%, Yuan Duoduo 77.56%, Uni-President Black Horse 75.30%, Franklin Templeton First Rich 75.09%—all doubled their performance over the broader market's 36.45% [^主動]. The commonality among these funds is: Betting on AI semiconductors, betting on thermal management, betting on power supplies, betting on high-speed transmission.
+액티브 ETF의 성적표도 같은 방향을 가리킨다. 4월 29일 기준 노무라 훙윈 펀드의 연초 이후 수익률은 89.58%, 위안다 둬둬는 77.56%, 통이 헤이마는 75.30%, 프랭클린 화메이 제일부는 75.09%였다. 모두 가권지수의 36.45%를 두 배 이상 웃돌았다[^主動]. 이 펀드들의 공통점은 AI 반도체, 냉각, 전원, 고속 전송에 집중했다는 점이다.
 
-Throughout April, foreign capital's net buying of Taiwan stocks exceeded $8.9 billion for the month at one point; on April 21, the single-day net buying was NT$60.153 billion, the 7th largest in history [^外資]. Money flows into this island from all over the world, then amplifies into the broader market red line through TSMC's single stock.
+4월 전체로 외국인은 한때 대만 증시를 월간 89억 달러 넘게 순매수했다. 4월 21일 하루 순매수액은 601억 5,300만 신대만달러로 사상 일곱 번째 규모였다[^外資]. 돈은 세계 각지에서 이 섬으로 흘러 들어왔고, 다시 TSMC 한 종목을 통해 대형 지수의 붉은 선으로 증폭되었다.
 
-The most efficient time is also the most fragile time.
+효율이 가장 높을 때가 취약성도 가장 높은 때다.
 
-## 13.93 Million Accounts and One ETF
+## 1,393만 개 계좌와 한 장의 ETF
 
-By the end of February 2026, the cumulative number of Taiwan stock market accounts reached 13.93 million, an increase of about 80,000 from January, setting a new historical record [^開戶]. On an island with a total population of 23.4 million, nearly 60% of people have securities accounts.
+2026년 2월 말, 대만 증시의 누적 계좌 수는 1,393만 명에 이르렀다. 1월보다 약 8만 명이 더 늘며 연속으로 사상 최고치를 경신했다[^開戶]. 총인구 2,340만 명의 섬에서 거의 60%가 증권 계좌를 가진 셈이다.
 
-What is more worth pausing to look at is the structure: Investors under 30 account for about 60% of new accounts; the 20-30 age group exceeds 1.7 million people. Day trading, fractional shares, regular investment plans, and ETF subscriptions are the daily tools of this generation; they are unlikely to know the term "scrolling LED board."
+더 주목할 것은 구조다. 30세 이하 투자자는 신규 계좌의 약 60%를 차지했고, 20-30세 집단은 170만 명을 넘어섰다. 당일매매, 단주 거래, 정기적립, ETF 청약은 이 세대의 일상적 도구다. 그들은 “전광판”이라는 단어를 그리 잘 알지 못한다.
 
-From the 1990s "stocks are gambling" to the 2020s "not investing is the risk," Taiwan society's attitude toward the capital market took thirty years to flip.
+1990년대의 “주식은 도박”에서 2020년대의 “투자하지 않는 것이 위험”으로, 대만 사회의 자본시장에 대한 태도는 30년에 걸쳐 뒤집혔다.
 
-| 1990 | 2026 |
-| ---------------------- | ---------------------- |
-| 4.6 Million Active Accounts | 13.93 Million Cumulative Accounts |
-| Retail Investors Account for 90% of Volume | Institutional + ETFs Continue to Grow |
-| Hotline Phone Orders, Scrolling LED Boards | Smartphone Swiping, Regular Investment Plans |
-| Hong Yuan Absorbing Funds at 4% Monthly Interest | 0050 with 5-8% Annualized Returns |
-| One Company's Collapse Ruins 160,000 People | One Stock Determines the Broader Market Position |
+| 1990년                          | 2026년                            |
+| ------------------------------- | --------------------------------- |
+| 활발한 계좌 460만 개            | 누적 계좌 1,393만 개              |
+| 개인투자자 거래량 90%           | 법인 + ETF의 지속 성장            |
+| 객장 전화 주문, 전광판          | 스마트폰, 정기적립                |
+| 월 4% 이자의 훙위안 흡금        | 연환산 5-8%의 0050                |
+| 한 회사의 파산이 16만 명을 파괴 | 한 종목이 대형 지수의 위치를 결정 |
 
-The left side of this table is traumatic memory; the right side is the AI dividend. Separating them are thirty-six years—but the line in between did not climb straight up.
+이 표의 왼쪽은 트라우마의 기억이고, 오른쪽은 AI 배당이다. 그 사이에는 36년이 놓여 있다. 그러나 그 사이의 선은 곧게 위로만 올라간 선이 아니었다.
 
-## The Same Index, Two Perspectives
+## 같은 지수, 두 가지 시각
 
-On February 9, 1962, the Stock Exchange opened, with only over ten listed companies in the first batch [^TWSE]. Sixty-four years later, on April 28, 2026, the weighted index was close to 40,000 points, and total market capitalization rose to the world's 6th largest.
+1962년 2월 9일, 증권거래소가 문을 열었을 때 첫 상장사는 십여 곳뿐이었다[^TWSE]. 64년 뒤인 2026년 4월 28일, 가권지수는 4만 포인트를 눈앞에 두었고 총시가총액은 세계 6위로 올라섰다.
 
-Writing these sixty-four years into a press release is glamorous: From the industrial era's cement, paper, agriculture/forestry, and mining, to the knowledge economy era's wafer foundries, AI thermal management, and optical communications. Taiwan's capital market took a generation to grow from a rural grocery store into the world's 6th largest stock exchange.
+이 64년을 보도자료로 쓰면 화려하다. 산업화 시대의 시멘트, 제지, 농림, 광업에서 지식경제 시대의 파운드리, AI 냉각, 광통신으로. 대만 자본시장은 한 갑자에 걸쳐 시골 잡화점에서 세계 6위 증권거래소로 자랐다.
 
-But this No. 6 ranking in 2026 has a structural paradox.
+하지만 2026년의 이 6위에는 구조적 역설이 있다.
 
-Of Taiwan's $4.47 trillion market cap, TSMC eats nearly 45% alone. If you remove TSMC from the weighted index, the remaining 1,000+ stocks total approximately $2.67 trillion—likely dropping to around the world's 10th largest, at the same level as Saudi Arabia. In the world of capital markets, the identity of "World's 6th Largest" has a thinner relationship with "an island" than imagined.
+대만 증시 시가총액 4조 4,700억 달러 가운데 TSMC 한 곳이 거의 45%를 먹는다. TSMC를 가권지수에서 빼면 나머지 1,000여 종목의 합계는 약 2조 6,700억 달러다. 대략 세계 10위 전후로 떨어져 사우디아라비아와 비슷한 규모가 된다. 자본시장의 세계에서 “세계 6위”라는 정체성과 “하나의 섬” 사이의 관계는 생각보다 얇다.
 
-> **✦** "On April 28, 2026, the New York Bloomberg Terminal flashed 'Taiwan Overtakes Canada.' On the same night, a taxi driver in Taipei waited for the next financial segment on the radio. He didn't care which G7 country Taiwan surpassed; he cared about whether TSMC would close at 2,300 tomorrow. Bloomberg's headline wrote 'A Victory for an Island'; the driver cared about 'The Status of One Stock.' Two perspectives on the same thing—and the latter may be closer to the truth than the former."
+> **✦** “2026년 4월 28일, 뉴욕 블룸버그 단말기에는 ‘Taiwan Overtakes Canada’가 떴다. 같은 밤 타이베이의 택시 기사는 라디오 앞에서 다음 경제 뉴스를 기다렸다. 그가 신경 쓴 것은 대만이 어느 G7 국가를 넘어섰는지가 아니라, TSMC가 내일 2,300에 마감할 수 있는지였다. 블룸버그의 제목은 ‘한 섬의 승리’를 썼고, 기사의 관심은 ‘한 종목의 위치’에 있었다. 같은 사건, 두 가지 시각. 그리고 후자가 전자보다 진실에 더 가까울지 모른다.”
 
-The 1990 10,000-point crash destroyed a generation's trust in the stock market. The 2026 bull market, which ascended to 40,000 points and pushed out Canada, rebuilt the trust of the same group of people—only this time, the object of trust changed from "the insider tip I picked myself" to "TSMC that the whole world is buying."
+1990년의 1만 포인트 붕괴가 무너뜨린 것은 한 세대의 주식시장에 대한 신뢰였다. 2026년 4만 포인트에 올라 캐나다를 밀어낸 강세장은 같은 사람들의 신뢰를 다시 세웠다. 다만 이번에는 신뢰의 대상이 “내가 직접 고른 추천 종목”에서 “전 세계가 사는 그 TSMC”로 바뀌었을 뿐이다.
 
-The peak where 13.93 million accounts stand together has a foundation that is 45% the same rock. The rock is hard, but there is only one piece of it.
+1,393만 개 계좌가 함께 서 있는 이 산꼭대기의 지반 45%는 같은 한 덩어리의 바위다. 그 바위는 단단하지만, 단 하나뿐이다.
 
-What will Taiwan's capital market learn in the next thirty years? Ask your neighbor who bought the dip three times in 1990—he will probably tell you: The most dangerous time for the market is precisely when everyone feels it won't fall.
+다음 30년 동안 대만 자본시장은 무엇을 배우게 될까? 1990년에 세 번이나 저점 매수에 나섰던 이웃에게 물어보면 된다. 그는 아마 이렇게 말할 것이다. 시장이 가장 위험한 때는 모두가 떨어질 리 없다고 느끼는 바로 그 순간이라고.
 
-**Further Reading**
+**더 읽을거리**
 
-- [Taiwan Enterprises: TSMC](/economy/Taiwan Enterprises: TSMC) — The sun accounting for 45% of Taiwan's stock weight, and the story behind the term "National God Mountain"
-- [Semiconductor Industry](/technology/Semiconductor Industry) — The entire supply chain ecosystem supporting Taiwan's stock market's No. 6 status
-- [Taiwan Enterprises: Foxconn Precision](/economy/Taiwan Enterprises: Foxconn Precision) — Another heavyweight in Goldman Sachs' 25-stock buy list, transforming from a contract manufacturing giant to an AI server player
-- [Taiwan Industrial Transformation and Upgrading](/economy/Taiwan Industrial Transformation and Upgrading) — The trajectory from 1980s contract manufacturing to the 2026 AI dividend
-- [Taiwan Economic Miracle](/history/Taiwan Economic Miracle) — The money from the "Taiwanese money floods to the ankles" era ultimately flowed into the 1990 stock market and Hong Yuan
-- [Taiwan FinTech Development](/economy/Taiwan FinTech Development) — From hotline phones to smartphone regular investment plans, the financial infrastructure behind an account
+- [대만 기업: TSMC](/economy/台灣企業：台積電) — 대만 증시의 45% 비중을 차지하는 그 태양, 그리고 “호국신산”이라는 말 뒤의 이야기
+- [반도체 산업](/technology/半導體產業) — 대만 증시의 세계 6위 지위를 떠받치는 전체 공급망 생태계
+- [대만 기업: 훙하이정밀](/economy/台灣企業：鴻海精密) — 골드만삭스 25개 매수 명단의 또 다른 대형 비중 종목, 위탁생산 거인에서 AI 서버 전환자로
+- [대만 산업 전환과 고도화](/economy/台灣產業轉型升級) — 1980년대 위탁생산에서 2026년 AI 배당까지의 궤적
+- [대만 경제 기적](/history/台灣經濟奇蹟) — “대만의 돈이 발목까지 차오르던” 시대의 돈이 결국 1990년의 주식시장과 훙위안으로 흘러 들어간 과정
+- [대만 금융기술 발전](/economy/台灣金融科技發展) — 객장 전화에서 스마트폰 정기적립까지, 하나의 계좌 뒤에 있는 금융 인프라
+- [애플 사이다](/food/蘋果西打) — 1965년 상장사 대서양음료(주식 코드 1213)의 지분 이동 사슬은 1985년 십신 사건과 1990년 훙위안 사건이라는 두 자본사 분기점의 축소판이다
 
-## References
+## 참고자료
 
-[^bloomberg]: [Taiwan Overtakes Canada as World's Sixth-Largest Stock Market — Bloomberg via TaiwanPlus](https://www.taiwanplus.com/news/taiwan-news/economy/260429002/taiwan-becomes-worlds-6th-largest-stock-market-riding-ai-boom) — Bloomberg reported on 2026-04-29 that Taiwan's stock market closed on April 28 with a total market cap of $4.47 trillion, surpassing Canada. TaiwanPlus simultaneously reprinted it, supplementing the AI momentum background.
+[^bloomberg]: [Taiwan Overtakes Canada as World's Sixth-Largest Stock Market — Bloomberg via TaiwanPlus](https://www.taiwanplus.com/news/taiwan-news/economy/260429002/taiwan-becomes-worlds-6th-largest-stock-market-riding-ai-boom) — 블룸버그 2026-04-29 보도. 대만 증시가 4월 28일 종가 기준 총시가총액 4조 4,700억 달러로 캐나다를 넘어섰으며, TaiwanPlus가 이를 전재하고 AI 동력 배경을 보충했다.
 
-[^biggo]: [Taiwan Stock Market Surpasses Canada to Rank 6th Globally — BigGo Finance](https://finance.biggo.com/news/SFOp3p0B6tLPsnrZ4Dpo) — Lists the complete ranking of the top 9 global stock market capitalizations as of 2026-04-28 (US 75.04 / China 14.84 / Japan 8.19 / HK 7.41 / India 4.97 / Taiwan 4.47 / Canada 4.44 / Korea 4.04 / UK 3.99 trillion USD) and compares Taiwan YTD +35% / Canada +5%.
+[^biggo]: [Taiwan Stock Market Surpasses Canada to Rank 6th Globally — BigGo Finance](https://finance.biggo.com/news/SFOp3p0B6tLPsnrZ4Dpo) — 2026-04-28 세계 9대 주식시장 시가총액 순위(미국 75.04 / 중국 14.84 / 일본 8.19 / 홍콩 7.41 / 인도 4.97 / 대만 4.47 / 캐나다 4.44 / 한국 4.04 / 영국 3.99조 달러)를 완전히 제시하고, 대만 YTD +35%와 캐나다 +5%를 비교했다.
 
-[^biggo2]: [Taiwan Stocks Test 40,000 Points in Historic Surge — BigGo Finance](https://finance.biggo.com/news/qhzK5Z0BoicNoOgC6d9i) — Taiwan's stock market rose 7,200 points in April 2026, a gain of 22.7%, a historical monthly trend, analyzing Dutch Disease risks and excessive capital concentration phenomena.
+[^biggo2]: [Taiwan Stocks Test 40,000 Points in Historic Surge — BigGo Finance](https://finance.biggo.com/news/qhzK5Z0BoicNoOgC6d9i) — 2026년 4월 대만 증시가 한 달 동안 7,200포인트, 22.7% 상승한 역사적 단월 장세를 다루며, 네덜란드병 위험과 자금 과도 집중 현상을 분석했다.
 
-[^taipeitimes]: [TAIEX briefly tops 40,000 for first time — Taipei Times](https://www.taipeitimes.com/News/biz/archives/2026/04/28/2003856343) — On 2026-04-27, the weighted index hit a high of 40,194.92 points intraday, closed at 39,616.63 points, with a trading value of NT$1.18 trillion; analyst Adam Lin's verbatim English quotes on the TSMC bullish view.
+[^taipeitimes]: [TAIEX briefly tops 40,000 for first time — Taipei Times](https://www.taipeitimes.com/News/biz/archives/2026/04/28/2003856343) — 2026-04-27 가권지수 장중 최고 40,194.92포인트, 종가 39,616.63포인트, 거래대금 1조 1,800억 신대만달러. 애널리스트 Adam Lin의 TSMC 강세 전망에 대한 영어 직접 인용을 포함한다.
 
-[^泡沫]: [Wikipedia: Taiwan Bubble Economy](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B3%A1%E6%B2%AB%E7%B6%93%E6%BF%9F) — Complete process record of the weighted index reaching a historic high of 12,682 points on 1990-02-12 and falling to 2,485 points within eight months of the same year.
+[^泡沫]: [위키백과: 대만 거품경제](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%B3%A1%E6%B2%AB%E7%B6%93%E6%BF%9F) — 1990-02-12 가권지수 12,682포인트 사상 최고치와 같은 해 8개월 안에 2,485포인트까지 하락한 전 과정을 기록했다.
 
-[^技術新報]: [TechNews: Taiwan Stocks 60 Years, From Institutional Main Force Era to Universal Participation](https://finance.technews.tw/2022/02/06/the-history-of-taiwan-stocks/) — Record of the market structure shift in the 1990s where retail trading volume accounted for 90%, and foreign capital gradually replaced retail investors as the main force.
+[^技術新報]: [TechNews: 대만 증시 60년, 주력 법인 시대에서 전 국민 참여까지](https://finance.technews.tw/2022/02/06/the-history-of-taiwan-stocks/) — 1990년대 개인투자자 거래량이 90%를 차지했고 외국인 자금이 점차 개인투자자 주도권을 대체한 시장 구조 변화를 기록했다.
 
-[^udn1990]: [Time Newspaper: Stock Market Changes! 1990 Stock Index Changed from 12,000 to 2,000](https://time.udn.com/udntime/story/122833/6390429) — United Daily News historical image library records the eight months from 1990 when the weighted index fell from 12,682 points to 2,485 points, including photos of retail investor mentality and market sentiment at the time.
+[^udn1990]: [보시광: 주식시장의 변화! 1990년 주가지수, 1만 2천에서 2천으로](https://time.udn.com/udntime/story/122833/6390429) — 연합보 역사 이미지 아카이브가 1990년 가권지수 12,682포인트에서 2,485포인트까지의 8개월을 기록했으며, 당시 개인투자자 심리와 시장 정서의 현장 사진을 포함한다.
 
-[^鴻源]: [The News Lens: Taiwan's Largest Fraud Group in History, "Hong Yuan Institution"](https://www.thenewslens.com/article/161202) — Review of Hong Yuan absorbing nearly 100 billion with 4% monthly interest, collapsing on 1990-01-09, causing 160,000 people to be victims (mostly military, civil, and teaching personnel).
+[^鴻源]: [더뉴스렌즈: 대만 역사상 최대 사기집단 “훙위안 기관”](https://www.thenewslens.com/article/161202) — 훙위안이 월 4% 이자로 거의 1,000억 신대만달러를 흡수했고, 1990-01-09 파산으로 16만 명이 피해를 입은 사건을 회고했다. 피해자 다수는 군인·공무원·교원이었다.
 
-[^鴻源wiki]: [Wikipedia: Hong Yuan Case](https://zh.wikipedia.org/zh-tw/%E9%B4%BB%E6%BA%90%E6%A1%88) — Judgment record of Hong Yuan leader Shen Chang-sheng being sentenced to seven years in prison plus a three million fine, released on parole in 1994.
+[^鴻源wiki]: [위키백과: 훙위안 사건](https://zh.wikipedia.org/zh-tw/%E9%B4%BB%E6%BA%90%E6%A1%88) — 훙위안 사건의 주범 선창성이 징역 7년과 벌금 300만 신대만달러를 선고받고 1994년 가석방으로 출소한 판결 기록.
 
-[^沈長聲]: [Business Today: "Hong Yuan" Leader Shen Chang-sheng Dies Suddenly / 4% Interest Absorbed Nearly 100 Billion, Harmed 160,000 Civil Servants](https://www.businesstoday.com.tw/article/category/183027/post/202202160009/) — Follow-up report on Shen Chang-sheng dying suddenly in Xiamen in 2022, reviewing the scale of the Hong Yuan case and the fate of the three responsible persons.
+[^沈長聲]: [금주간: “훙위안” 주범 선창성 급사 / 4% 이자로 거의 1,000억을 흡수해 16만 군공교를 파탄시킨 사건](https://www.businesstoday.com.tw/article/category/183027/post/202202160009/) — 선창성이 2022년 샤먼에서 급사한 후속 보도. 훙위안 사건의 규모와 세 책임자의 결말을 회고했다.
 
-[^TWSE權重]: [HiStock Hi Investment: Weighted Index Component Stocks and Market Cap Proportion](https://histock.tw/stock/taiexproportion.aspx) — Taiwan Stock Exchange official weighted index component stock weights, showing TSMC at 45.0041% as of 2026-03-10, and the calculation basis for TSMC stock price movement of one yuan affecting the broader market index by approximately 7.97 points.
+[^TWSE權重]: [HiStock 하이투자: 가권지수 구성 종목과 시가총액 비중](https://histock.tw/stock/taiexproportion.aspx) — 대만증권거래소 공식 가권지수 구성 종목 비중. 2026-03-10 기준 TSMC 45.0041%, TSMC 주가 1신대만달러 변동이 대형 지수에 약 7.97포인트 영향을 준다는 계산 기준을 제시한다.
 
-[^ETF]: [StockFeel: 0050 Yuan Taiwan 50 ETF](https://www.stockfeel.com.tw/%E3%80%90-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-%E3%80%910050-%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E6%88%90%E5%88%86%E8%82%A1%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/) — 0050 was issued in June 2003 as Taiwan's first ETF, assets approaching NT$1.4 trillion, beneficiary count exceeding 2.74 million, detailed history.
+[^ETF]: [StockFeel: 0050 위안다 타이완 50 ETF](https://www.stockfeel.com.tw/%E3%80%90-%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0-%E3%80%910050-%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E6%88%90%E5%88%86%E8%82%A1%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/) — 0050이 2003년 6월 대만 최초 ETF로 발행되었고, 자산 규모가 1조 4,000억 신대만달러에 근접했으며, 수익자 수가 274만 명을 돌파한 상세 연혁.
 
-[^三萬點]: [Cnyes: Strongest New Year's Red Packet in History! Taiwan Stocks Write Five Records, Enter 30,000 Point Era](https://news.cnyes.com/news/id/6298630) — Detailed data for 2026-01-05: Weighted index closed at 30,105.04 points, TSMC rose 5.36% to 1,670 NTD, single-day trading value 800.793 billion.
+[^三萬點]: [쥐헝망: 사상 최강 신년 보너스! 대만 증시 5대 기록을 쓰며 3만 포인트 시대 진입](https://news.cnyes.com/news/id/6298630) — 2026-01-05 가권지수 종가 30,105.04포인트, TSMC 5.36% 상승해 1,670신대만달러, 단일 거래일 거래대금 8,007억 9,300만 신대만달러의 상세 데이터.
 
-[^超英]: [Liberty Times Finance: Taiwan Stock Market Capitalization Surpasses UK, Becomes World's 7th Largest Stock Market](https://ec.ltn.com.tw/article/breakingnews/5405784) — Timeline record of Taiwan's stock market capitalization reaching $4.14 trillion in mid-April 2026, surpassing the UK ($3.99 trillion), squeezing into the world's 7th largest stock market.
+[^超英]: [자유재경: 대만 증시 시가총액, 영국을 넘어 세계 7위 주식시장으로](https://ec.ltn.com.tw/article/breakingnews/5405784) — 2026년 4월 중순 대만 증시 시가총액 4조 1,400억 달러가 영국 3조 9,900억 달러를 넘어 세계 7위 주식시장에 진입한 시계열 기록.
 
-[^韓國]: [Liberty Times Finance: Korean Stock Market Capitalization Ranks 8th Globally, Overtakes UK](https://ec.ltn.com.tw/article/breakingnews/5418477) — Comparison record of South Korea's KOSPI market cap reaching $4.04 trillion, surpassing the UK to rise to 8th place globally, YTD gain +45% in the same period.
+[^韓國]: [자유재경: 한국 증시 시가총액 세계 8위, 영국 추월](https://ec.ltn.com.tw/article/breakingnews/5418477) — 2026년 한국 KOSPI 시가총액이 4조 400억 달러로 같은 시기 영국을 넘어 세계 8위에 올랐고, YTD 상승률이 +45%였다는 비교 기록.
 
-[^台積電條款]: [Fengyun Academy: Financial Supervisory Commission Major Relaxation, "TSMC Clause" Officially Approved](https://www.sinotrade.com.tw/richclub/hotstock/%E9%87%91%E7%AE%A1%E6%9C%83%E5%A4%A7%E9%AC%86%E7%B6%81--%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%A2%9D%E6%AC%BE-%E6%AD%A3%E5%BC%8F%E6%8B%8D%E6%9D%BF-%E5%9F%BA%E9%87%91%E6%8C%81%E8%82%A1%E4%B8%8A%E9%99%90%E8%AA%83%E8%87%B3-25--%E6%B3%A8%E5%85%A5%E5%B8%82%E5%A0%B4%E5%BC%B7%E5%BF%83%E9%87%9D-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-69eadadd86807e0a532f8ad5) — Policy explanation of the Financial Supervisory Commission relaxing the limit on fund holdings of a single stock from 10% to 25% in April 2026, with TSMC as the main beneficiary.
+[^台積電條款]: [펑윈학당: 금융감독관리위원회 대폭 완화, “TSMC 조항” 공식 확정](https://www.sinotrade.com.tw/richclub/hotstock/%E9%87%91%E7%AE%A1%E6%9C%83%E5%A4%A7%E9%AC%86%E7%B6%81--%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%A2%9D%E6%AC%BE-%E6%AD%A3%E5%BC%8F%E6%8B%8D%E6%9D%BF-%E5%9F%BA%E9%87%91%E6%8C%81%E8%82%A1%E4%B8%8A%E9%99%90%E8%AA%BF%E5%8D%87%E8%87%B3-25--%E6%B3%A8%E5%85%A5%E5%B8%82%E5%A0%B4%E5%BC%B7%E5%BF%83%E9%87%9D-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-69eadadd86807e0a532f8ad5) — 금융감독관리위원회가 2026년 4월 펀드의 단일 종목 보유 상한을 10%에서 25%로 완화했고, TSMC가 주요 수혜 대상이라는 정책 설명.
 
-[^TSMC]: [World Journal: World's 6th Largest, Taiwan Stock Market Capitalization Surpasses UK Then Catches Up to Canada](https://www.worldjournal.com/wj/story/121347/9471660) — Bloomberg data citation for TSMC market cap of $1.8 trillion, accounting for "close to 45%" of the weighted index weight, including the top 9 global market ranking table.
+[^TSMC]: [세계신문망: 세계 6위, 대만 증시 시가총액 영국 이어 캐나다도 추월](https://www.worldjournal.com/wj/story/121347/9471660) — TSMC 시가총액 1조 8,000억 달러, 가권지수 비중 “45%에 가까움”이라는 블룸버그 데이터 인용과 세계 9대 시장 순위표를 포함한다.
 
-[^JPM]: [J.P. Morgan Asset Management: Taiwan Stock Market 2026 Bull Market Continues Key](https://am.jpmorgan.com/tw/zh/asset-management/per/insights/market-insights/market-outlook-2026/key-factors-for-the-taiwan-stocks-in-2026/) — J.P. Morgan 2026 Taiwan stock market outlook: P/E ratio rises from 12.4x to 17.7x, tech stocks account for 70-75%, estimated profit growth nearly 20% YoY, warning of industrial concentration volatility risks.
+[^JPM]: [J.P. Morgan Asset Management: 대만 주식시장 2026년 강세 지속의 핵심](https://am.jpmorgan.com/tw/zh/asset-management/per/insights/market-insights/market-outlook-2026/key-factors-for-the-taiwan-stocks-in-2026/) — J.P. Morgan의 2026년 대만 증시 전망. 주가수익비율이 12.4배에서 17.7배로 상승했고, 기술주 비중이 70-75%이며, 예상 이익 증가율이 거의 20%에 달한다는 내용과 산업 집중화에 따른 변동성 위험 경고를 담았다.
 
-[^荷蘭病]: [CommonWealth Magazine: What is Dutch Disease? Could Taiwan Catch "Dutch Disease"?](https://www.cw.com.tw/article/5123513) — Analysis of the Dutch Disease economic concept, discussion of the risk of single industry prosperity in Taiwan's electronics industry sucking talent and capital.
+[^荷蘭病]: [천하잡지: 네덜란드병이란 무엇인가? 대만도 “네덜란드병”에 걸릴 수 있는가?](https://www.cw.com.tw/article/5123513) — 네덜란드병이라는 경제학 개념을 해설하고, 대만 전자산업이 인재와 자금을 흡수하는 단일 산업 번영의 위험을 논의했다.
 
-[^高盛]: [Economic Daily: Investors Look Here! 2026 Layout Goldman Sachs Calls to Buy These 25 Stocks](https://money.udn.com/money/story/5607/9246073) — Goldman Sachs 2026-01-05 "2026 Investment Outlook" report, led by Greater China Technology Industry Research Head Zhang Bokai calling to buy 25 Taiwan stocks, including TSMC / Foxconn / Wistron / Inventec / Chicony / Delta Electronics etc. AI semiconductor supply chain stocks.
+[^高盛]: [경제일보: 투자자 주목! 2026년 포트폴리오에서 골드만삭스가 매수를 외친 25개 종목](https://money.udn.com/money/story/5607/9246073) — 골드만삭스의 2026-01-05 《2026 투자전망》 보고서. 중화권 기술산업 리서치 책임자 장보카이가 이끌어 TSMC / 폭스콘 / 위스트론 / Wiwynn / 치훙 / 델타전자 등 AI 반도체 공급망 대만 기업 25개 종목에 매수 의견을 제시했다.
 
-[^主動]: [United Daily News Online: Taiwan Stocks Leap to World's 6th Largest, AI Dividend Works, Active Taiwan Stock Funds Double Performance Over Broader Market](https://udn.com/news/story/10103/9471924) — Lipper statistics as of 2026-04-29, Nomura Hongyun 89.58% / Yuan Duoduo 77.56% / Uni-President Black Horse 75.30% / Franklin Templeton First Rich 75.09% YTD returns, compared to the weighted index 36.45%.
+[^主動]: [연합신문망: 대만 증시 세계 6위 도약, AI 배당 발휘, 액티브형 대만 주식 펀드 성과 대형 지수 두 배](https://udn.com/news/story/10103/9471924) — Lipper가 2026-04-29까지 집계한 노무라 훙윈 89.58% / 위안다 둬둬 77.56% / 통이 헤이마 75.30% / 프랭클린 화메이 제일부 75.09%의 YTD 수익률과 가권지수 36.45%를 비교했다.
 
-[^外資]: [Cnyes: Foreign Capital Adds 55.7 Billion to Assist 37,000](https://m.cnyes.com/news/id/6421775) — Record of foreign capital momentum in April 2026: Net buying of Taiwan stocks exceeded $8.9 billion for the month at one point; single-day net buying on 4-21 was NT$60.153 billion (7th largest in history).
+[^外資]: [쥐헝망: 외국인 557억 신대만달러 추가 매수, 3만 7천 돌파 지원](https://m.cnyes.com/news/id/6421775) — 2026년 4월 외국인의 대만 증시 월간 순매수가 한때 89억 달러를 넘었고, 4월 21일 하루 순매수액 601억 5,300만 신대만달러가 사상 일곱 번째 규모였다는 자금 동력 기록.
 
-[^開戶]: [CNA: Taiwan Stock Market February Account Count Increases by 80,000 Month-on-Month to 13.93 Million, Setting New High Again](https://www.cna.com.tw/news/afe/202603020145.aspx) — Cumulative Taiwan stock market accounts reached 13,939,987 by the end of February 2026, an increase of 80,800 from January, setting a new record consecutively.
+[^開戶]: [중앙통신사: 대만 증시 2월 계좌 수 월 8만 명 증가해 1,393만 명, 다시 사상 최고치](https://www.cna.com.tw/news/afe/202603020145.aspx) — 2026년 2월 말 대만 증시 누적 계좌 1,393만 9,987명, 1월보다 8만 800명 증가해 연속 사상 최고치를 기록했다.
 
-[^TWSE]: [TWSE Taiwan Stock Exchange: Historical Introduction](https://www.twse.com.tw/zh/about/company/history.html) — Taiwan Stock Exchange established on 1961-10-23, officially opened on 1962-02-09, official history of the first chairman Koo Chen-fu.
+[^TWSE]: [TWSE 대만증권거래소: 역사 소개](https://www.twse.com.tw/zh/about/company/history.html) — 대만증권거래소가 1961-10-23 설립되고 1962-02-09 공식 개업했으며, 초대 이사장은 구전푸였다는 공식 연혁.

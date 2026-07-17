@@ -127,3 +127,19 @@
 /ko/nature/taiwan-mei-yu-season /ko/nature/meiyu-stagnant-front 301
 /es/nature/taiwan-mei-yu-season /es/nature/meiyu-stagnant-front 301
 /fr/nature/taiwan-mei-yu-season /fr/nature/meiyu-stagnant-front 301
+# ── slug review 7 案清償（2026-07-17 晚間）──
+/es/lifestyle/freeway /es/lifestyle/national-highway-system 301
+/fr/lifestyle/freeway /fr/lifestyle/national-highway-system 301
+/ja/lifestyle/freeway /ja/lifestyle/national-highway-system 301
+/ko/lifestyle/freeway /ko/lifestyle/national-highway-system 301
+/fr/music/polyphonic-chanting /fr/music/bunun-pasibutbut-eight-part-polyphony 301
+/fr/society/volunteer-culture /fr/society/volunteering-and-civic-charity-in-taiwan 301
+/es/society/za-school /es/society/za-share 301
+/fr/society/za-school /fr/society/za-share 301
+/en/art/taiwanese-experimental-and-new-media-art /en/art/fab-dao 301
+/fr/art/taiwanese-experimental-and-new-media-art /fr/art/fab-dao 301
+/ja/art/taiwanese-experimental-and-new-media-art /ja/art/fab-dao 301
+/ko/art/taiwanese-experimental-and-new-media-art /ko/art/fab-dao 301
+/es/art/fab-dao-proyecto-cien-cimas /es/art/fab-dao 301
+/ko/economy/taiwan-stock-market-and-capital-markets /ko/economy/taiwan-stock-market 301
+/fr/music/zhang-xuan-anpu /fr/music/deserts-chang-and-anpu 301

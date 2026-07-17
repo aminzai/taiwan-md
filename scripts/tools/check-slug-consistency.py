@@ -25,15 +25,7 @@ CHECK_LANGS = {"ja", "ko", "es", "fr"}
 
 # unify-translation-slugs.py 2026-07-17 review 保留的歷史漂移（zh path）。
 # 清償一案就從這裡刪一行；新檔案不得加入。
-ALLOWLIST = {
-    "Art/FAB DAO與百岳計畫.md",
-    "Economy/台灣股市與資本市場.md",
-    "Lifestyle/高速公路.md",
-    "Music/八部合音.md",
-    "Music/張懸與安溥.md",
-    "Society/台灣志工文化與公益參與.md",
-    "Society/雜學校.md",
-}
+ALLOWLIST = set()  # 2026-07-17 晚間 7 案全數清償，歸零
 
 
 def translated_from(path: Path):
