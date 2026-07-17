@@ -25,7 +25,15 @@ from googleapiclient.discovery import build  # noqa: E402
 from googleapiclient.errors import HttpError  # noqa: E402
 
 CRED_DIR = Path.home() / ".config/taiwan-md/credentials"
-SITE = "sc-domain:taiwan.md"
+def _site_from_env():
+    env = CRED_DIR / ".env"
+    if env.exists():
+        for line in env.read_text().splitlines():
+            if line.startswith("SC_SITE_URL="):
+                return line.split("=", 1)[1].strip().strip("'\"")
+    return "https://taiwan.md/"
+
+SITE = _site_from_env()  # 與 fetch-search-console.py 同源（.env SC_SITE_URL）
 SITEMAP = "https://taiwan.md/sitemap-index.xml"
 
 
