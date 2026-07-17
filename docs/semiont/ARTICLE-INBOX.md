@@ -174,7 +174,24 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
-### viz 採用率 batch — 8 篇數字密集深度文補視覺化（v3.0 審計訊號）
+### 台灣 BIM 與營建科技 英文版 metadata — SC 623 曝光排第 7 卻 0 點擊（evolve 雙源訊號）
+
+- **Type**: `EVOLVE`（🟠 SEO 優化 action，非 rewrite——文章本體品質合格）
+- **Category**: Technology
+- **Path**: knowledge/en/Technology/taiwan-bim-construction-tech.md（中文版 knowledge/Technology/台灣BIM與營建科技.md 的 desc 189 字亦略超標，可一併順手）
+- **Priority**: `P0`（5 分鐘可修，ROI 全站最高級；位置已在第一頁，改門面即兌現）
+- **Status**: `pending`
+- **Requested**: 2026-07-17 by twmd-evolve (session highered-evolve finale)
+- **Notes**:
+  - **雙源 pointer**：① SC 7d「bim residential housing construction taiwan case study」**623 曝光／位置 7.19／CTR ~0**、「bim building information modeling taiwan construction industry」166 曝光／位置 6.48／CTR ~0（`public/api/dashboard-analytics.json` `.searchConsole7d.opportunities`，2026-07-17T06:10 抓）② GA4 7d `/technology/台灣BIM與營建科技/` 57 views 排全站第 5（`.ga.topArticles7d`）。兩源獨立確認需求真實存在。
+  - **病灶（量測過，不是印象）**：英文版 **title 130 字**（Google SERP 截 ~60）、**description 670 字**（截 ~155，超標 4.3 倍）。SERP 上讀者看到的是被切斷的「On May 23, 2014, the Public Construction Commission of the Executive Yuan launched the "Platform for Promoting BIM in Public Works," adopting the eight-cha…」——**title 沒有承諾答案**（搜尋者要的是 "case study"），description 前 155 字全是政策機關名。命中 §神經迴路「title 先承諾答案，description 再說故事」＋ EDITORIAL §Description 四原則（預算 120-160 字）。
+  - **為什麼這篇 vs 其他**：本輪 SC opportunities 第一名（623 曝光是第二名 166 的 3.8 倍），且**位置 7.19 已在第一頁**——不需要拚排名，純門面轉換。對照組：「jolin tsai」160 曝光但位置 12.64（第二頁，要先拚排名才輪到 CTR）；「bobby chen」144 曝光位置 9；金城武（INBOX 既有 P1）是 rewrite 型（96 行薄殼要補內容，30-60 min）。本條是四種行動裡最便宜的 🟠 SEO 優化（5 min/篇）。
+  - **文章本體不動**：53 條腳註、2026-05-22 新文、內容合格。**只改 frontmatter title + description**，不碰正文。
+  - **修法方向**（給執行者，非定稿）：title 讓 "Taiwan BIM case study" 這組詞在前 60 字內出現並承諾答案；description 壓到 120-160 字，三段結構（具體場景 ~40／軌跡一句 ~40／核心張力收尾 ~40，per EDITORIAL）。REVIT_MCP 70+ stars 與「十二年因案制宜 vs 十八個月 protocol」的張力是現成的 hook，只是現在被埋在第 400 字。
+  - **⚠️ Gate 揭露（不粉飾）**：進化分數 v2.0 算出 **58.2 < 60**，技術上未過 Phase 2 gate。扣分來自「品質缺陷 20%×20」與「文章年齡 10%×15」——但這兩個維度分數低的原因正是**文章寫得好且新**，而 EVOLVE 行動表對 🟠 SEO 優化 的觸發條件白紙黑字是「高曝光＋低 CTR＋**品質 OK**」（100% 命中）。公式是 rewrite 形狀的，對 SEO 型 candidate 有結構性偏誤：ROI 最高的行動類型反而最難過 gate。**未擅自改公式**（threshold 調整命中 §自主權邊界），已升 [OBSERVER-QUEUE #16](OBSERVER-QUEUE.md) 待哲宇拍板；本條依行動表觸發條件 append，gate 分數如實揭露供 maintainer 判斷。
+- **Reference**: LONGINGS §身體渴望「我的英文版品質不輸中文版」（辨識指標：美國 CTR ≥ 1%，目前 0.39%）＋ §神經迴路「英文 metadata 改一頁的 ROI 可能 = 重寫 10 篇文章」
+
+### viz 採用率 batch — 8 篇數字密集深度文補視覺化（v3.0 審計訊號；1 篇已完成，剩 7）
 
 - **Type**: `EVOLVE`
 - **Category**: Society / Lifestyle / Technology / Nature / Food（跨類 batch）
@@ -185,6 +202,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Notes**:
   - **為什麼這批**：v3.0 全站審計——867 篇只有 5.8% 用視覺模組，這 8 篇是「數字最密集卻零模組」的深度文，每篇已標出最該視覺化的段落與適配模組（如高教大學數量表→tw-line、颱風氣候情境表→tw-heatmap、淨零現況-目標→tw-slope）。模組工具鏈 v3.0 已備齊（19 模組＋viz-health 結構閘門）
   - 執行方式：不專門開 batch session；這 8 篇任何一篇因其他訊號進 REWRITE/EVOLVE 時，Stage 2 視覺化思考照報告 §3.3 的段落標記做，做完在本條 Dev log 劃記
+  - **Dev log 2026-07-17**：~~台灣高等教育擴張與退場~~ ✅ 完成（session highered-evolve 全程 EVOLVE 時一併做，`2bd1d5e03`）——報告 §3.3 標記的「大學數量表→tw-line」如實執行，另加碼 tw-line 學生數鐘形＋tw-timeline 退場機制遲到史＋tw-stat 三帳單數字，共 4 模組。**驗證了本條的執行方式假設**（不開 batch session、搭其他訊號的順風車）真的會發生。剩 7 篇：台灣醫療與全民健保、公視、Computex、台灣氣候危機與淨零轉型、營養午餐、颱風、台灣鐵道史
   - 判準提醒：數值矩陣／趨勢／現況-目標才轉模組；質性對照表留表格（graph.md §九）
 - **Reference**: reports/viz-module-evolution-2026-07-16.md §3.3（8 篇逐段標記）＋ §3.2（Politics 12 篇零模組，選舉內容進場時一併吃）
 
