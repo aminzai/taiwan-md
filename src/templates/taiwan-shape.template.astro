@@ -59,13 +59,29 @@ const typeLabel: Record<string, Record<string, string>> = {
   },
 };
 
-const municipalityFiles = [
-  { code: '63000', name: '臺北市 Taipei', size: '11 KB' },
-  { code: '64000', name: '高雄市 Kaohsiung', size: '35 KB' },
-  { code: '65000', name: '新北市 New Taipei', size: '13 KB' },
-  { code: '66000', name: '臺中市 Taichung', size: '11 KB' },
-  { code: '67000', name: '臺南市 Tainan', size: '15 KB' },
-  { code: '68000', name: '桃園市 Taoyuan', size: '7 KB' },
+const townsFiles = [
+  { code: '63000', name: '臺北市 Taipei', size: '23 KB' },
+  { code: '64000', name: '高雄市 Kaohsiung', size: '69 KB' },
+  { code: '65000', name: '新北市 New Taipei', size: '24 KB' },
+  { code: '66000', name: '臺中市 Taichung', size: '21 KB' },
+  { code: '67000', name: '臺南市 Tainan', size: '27 KB' },
+  { code: '68000', name: '桃園市 Taoyuan', size: '13 KB' },
+  { code: '10002', name: '宜蘭縣 Yilan', size: '8 KB' },
+  { code: '10004', name: '新竹縣 Hsinchu', size: '7 KB' },
+  { code: '10005', name: '苗栗縣 Miaoli', size: '8 KB' },
+  { code: '10007', name: '彰化縣 Changhua', size: '9 KB' },
+  { code: '10008', name: '南投縣 Nantou', size: '10 KB' },
+  { code: '10009', name: '雲林縣 Yunlin', size: '12 KB' },
+  { code: '10010', name: '嘉義縣 Chiayi', size: '12 KB' },
+  { code: '10013', name: '屏東縣 Pingtung', size: '14 KB' },
+  { code: '10014', name: '臺東縣 Taitung', size: '11 KB' },
+  { code: '10015', name: '花蓮縣 Hualien', size: '10 KB' },
+  { code: '10016', name: '澎湖縣 Penghu', size: '4 KB' },
+  { code: '10017', name: '基隆市 Keelung', size: '2 KB' },
+  { code: '10018', name: '新竹市 Hsinchu City', size: '1 KB' },
+  { code: '10020', name: '嘉義市 Chiayi City', size: '1 KB' },
+  { code: '09007', name: '連江縣 Lienchiang (Matsu)', size: '2 KB' },
+  { code: '09020', name: '金門縣 Kinmen', size: '3 KB' },
 ];
 ---
 
@@ -378,7 +394,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         <p>{t('taiwanShape.geo.townsDesc')}</p>
         <div class="geo-grid">
           {
-            municipalityFiles.map((f) => (
+            townsFiles.map((f) => (
               <div class="geo-download-card small">
                 <div class="geo-file-name">
                   <code>taiwan-towns-{f.code}.topo.json</code>
@@ -400,19 +416,27 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         <p class="geo-note">
           {
             lang === 'en'
-              ? 'For the full 22-county set of township files, see '
+              ? 'All 22 counties and cities are included above. Township boundary data extracted from '
               : lang === 'ja'
-                ? '22 県市全体の町丁目ファイルは '
+                ? '22 県市すべてを上記に収録。町丁目境界データの出典は '
                 : lang === 'ko'
-                  ? '22개 현시 전체의 향진 파일은 '
-                  : '完整 22 縣市鄉鎮檔案請見 '
+                  ? '22개 현시 전체를 위에 수록. 향진 경계 데이터 출처는 '
+                  : '以上已收錄全部 22 縣市。鄉鎮界資料出自 '
           }
           <a
             href="https://github.com/waiting7777/taiwan-vue-components/tree/master/src/json"
             target="_blank"
             rel="noopener noreferrer"
             >github.com/waiting7777/taiwan-vue-components</a
-          >.
+          >{
+            lang === 'en'
+              ? ', MIT License © 2018 Waiting.'
+              : lang === 'ja'
+                ? '、MIT License © 2018 Waiting。'
+                : lang === 'ko'
+                  ? ', MIT License © 2018 Waiting.'
+                  : '，MIT License © 2018 Waiting。'
+          }
         </p>
       </div>
     </section>

@@ -46,9 +46,9 @@ export const taiwanShapeUI = {
     'taiwanShape.geo.countryHeading': 'Country-level outline (22 counties)',
     'taiwanShape.geo.countryDesc':
       '~21 KB TopoJSON file with all 22 counties and special municipalities as separate features. Perfect for choropleth maps.',
-    'taiwanShape.geo.townsHeading': 'Township-level (6 special municipalities)',
+    'taiwanShape.geo.townsHeading': 'Township-level (all 22 counties & cities)',
     'taiwanShape.geo.townsDesc':
-      "We bundle the 6 special municipalities' township-level files. For the other 16 counties, see the source repository on GitHub.",
+      'We bundle township-level TopoJSON files for all 22 counties and cities, all extracted from the same source repository.',
 
     // Admin codes
     'taiwanShape.codes.heading': '🧭 Administrative division codes',
@@ -127,9 +127,9 @@ export const taiwanShapeUI = {
     'taiwanShape.geo.countryHeading': '全國輪廓（22 個縣市）',
     'taiwanShape.geo.countryDesc':
       '約 21 KB 的 TopoJSON 檔案，包含 22 個縣市與直轄市，每個都是獨立的 feature。做 choropleth 地圖的起點。',
-    'taiwanShape.geo.townsHeading': '六都鄉鎮級資料',
+    'taiwanShape.geo.townsHeading': '全 22 縣市鄉鎮級資料',
     'taiwanShape.geo.townsDesc':
-      '我們打包了六都的鄉鎮級 TopoJSON 檔案。其他 16 個縣市的檔案請到原始 GitHub repo 下載。',
+      '我們打包了全部 22 縣市的鄉鎮級 TopoJSON 檔案，皆萃取自同一個來源 repo。',
 
     'taiwanShape.codes.heading': '🧭 行政區代碼對照表',
     'taiwanShape.codes.intro':
@@ -202,9 +202,9 @@ export const taiwanShapeUI = {
     'taiwanShape.geo.countryHeading': '国レベルの輪郭（22 県市）',
     'taiwanShape.geo.countryDesc':
       '約 21 KB の TopoJSON。22 の県市と直轄市がそれぞれ独立した feature。Choropleth 地図の出発点。',
-    'taiwanShape.geo.townsHeading': '六直轄市の町丁目レベル',
+    'taiwanShape.geo.townsHeading': '全 22 県市の町丁目レベル',
     'taiwanShape.geo.townsDesc':
-      '台北、新北、桃園、台中、台南、高雄の六直轄市の町丁目レベル TopoJSON を同梱しています。他の 16 県市は GitHub リポジトリをご覧ください。',
+      '全 22 県市の町丁目レベル TopoJSON を同梱しています。すべて同じソースリポジトリから抽出。',
 
     'taiwanShape.codes.heading': '🧭 行政区コード対照表',
     'taiwanShape.codes.intro':
@@ -277,9 +277,9 @@ export const taiwanShapeUI = {
     'taiwanShape.geo.countryHeading': '국가 수준 윤곽 (22 현시)',
     'taiwanShape.geo.countryDesc':
       '약 21 KB TopoJSON 파일, 22개 현시와 직할시가 각각 독립적인 feature. Choropleth 지도의 출발점.',
-    'taiwanShape.geo.townsHeading': '6대 직할시 향진 수준 데이터',
+    'taiwanShape.geo.townsHeading': '전체 22개 현시 향진 수준 데이터',
     'taiwanShape.geo.townsDesc':
-      '6대 직할시(타이베이, 신베이, 타오위안, 타이중, 타이난, 가오슝)의 향진 수준 TopoJSON 파일을 번들로 제공합니다. 나머지 16개 현시는 원본 GitHub 저장소를 참고하세요.',
+      '전체 22개 현시의 향진 수준 TopoJSON 파일을 번들로 제공합니다. 모두 동일한 소스 저장소에서 추출했습니다.',
 
     'taiwanShape.codes.heading': '🧭 행정구역 코드 대조표',
     'taiwanShape.codes.intro':
@@ -347,9 +347,9 @@ export const taiwanShapeUI = {
     'taiwanShape.geo.countryHeading': 'Contour au niveau national (22 comtés)',
     'taiwanShape.geo.countryDesc':
       "Fichier TopoJSON d'environ 21 Ko contenant les 22 comtés et municipalités spéciales en tant qu'entités distinctes. Parfait pour les cartes choroplèthes.",
-    'taiwanShape.geo.townsHeading': 'Niveau canton (6 municipalités spéciales)',
+    'taiwanShape.geo.townsHeading': 'Niveau canton (les 22 comtés et villes)',
     'taiwanShape.geo.townsDesc':
-      'Nous fournissons les fichiers au niveau canton pour les 6 municipalités spéciales. Pour les 16 autres comtés, consultez le dépôt source sur GitHub.',
+      'Nous fournissons les fichiers au niveau canton pour les 22 comtés et villes, tous extraits du même dépôt source.',
     'taiwanShape.codes.heading': '🧭 Codes de divisions administratives',
     'taiwanShape.codes.intro':
       'Les divisions administratives de Taïwan utilisent des codes numériques. Voici le tableau de référence pour les 22 divisions au niveau du comté (le nommage des fichiers suit le format `towns-{code}.json`).',
@@ -414,9 +414,9 @@ export const taiwanShapeUI = {
     'taiwanShape.geo.countryDesc':
       'Archivo TopoJSON de ~21 KB con los 22 condados y municipios especiales como entidades separadas. Perfecto para mapas coropléticos.',
     'taiwanShape.geo.townsHeading':
-      'Nivel de municipio (6 municipios especiales)',
+      'Nivel de municipio (los 22 condados y ciudades)',
     'taiwanShape.geo.townsDesc':
-      'Incluimos los archivos a nivel de municipio de los 6 municipios especiales. Para los otros 16 condados, consulta el repositorio de origen en GitHub.',
+      'Incluimos los archivos a nivel de municipio de los 22 condados y ciudades, todos extraídos del mismo repositorio de origen.',
     'taiwanShape.codes.heading': '🧭 Códigos de divisiones administrativas',
     'taiwanShape.codes.intro':
       'Las divisiones administrativas de Taiwán usan códigos numéricos. Aquí tienes la tabla de referencia para las 22 divisiones a nivel de condado (la nomenclatura de archivos sigue el formato `towns-{código}.json`).',
