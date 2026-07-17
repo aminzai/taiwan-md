@@ -492,6 +492,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **severity**: correctness（tree 被非本 fire 的內容污染 = 後續動作全跟舊 stash 的狀態糾纏，未 recover 前 commit 會把 06-18 舊 M 上遠端；也在時序上讓 parallel session 更難協作；誤判方向反過來時會銷毀平行 session 的活工作）
 - **defer 給觀察者**：否——routine skill 加開場 stash 檢查是內部操作面，直接 ship candidate；但「歷史 stash 全清 vs 選擇性 drop」屬於 destructive git op，該次要動 stash queue 前拍板哲宇。
 
+### 2026-07-18 twmd-embeddings-nightly — pre-push orphan gate 在 husky `sh -e` 下被命令替換賦值靜默 abort
+
+- **pattern**: `hook-set-e-cmdsubst-abort`
+- **原則**：hook 的「意圖判斷」（只在真失格時 fail，例如只擋真 orphan）跟它在 husky wrapper `sh -e` 下的「實際行為」會分岔，分岔點藏在命令替換賦值 `x="$(cmd)"`：只要 cmd exit≠0，errexit 就 abort 整個 hook，根本走不到後面那道 grep 判斷。設計者以為「只有 grep 命中才擋」，實際變成「cmd 一非零就擋」。直接 `sh hook` 手測看不到（無 `-e`），只有 git 真正調用（走 `.husky/_/h` 的 `sh -e "$s"`）才現形——診斷靠老實比對「我怎麼跑」vs「git 怎麼跑」，不是信任任一次表面輸出。
+- **觸發**：2026-07-18 embeddings-nightly push（[→memory](memory/2026-07-18-052228-twmd-embeddings-nightly.md)）。`.husky/pre-push` orphan gate `tf_out="$(python3 sync-translations-json.py --check ...)"`；`--check` 因平行寫手 session 的 untracked `knowledge/{en,ja}/Culture/shopping-design.md` 未進 `_translations.json`（out-of-sync，真 orphans=0）而 exit 1，`sh -e` 讓賦值非零直接 abort。hook 先印「✅ 全站 article-health 全綠」再靜默 exit 1，訊號跟結果對不上。判定非真阻斷（article-health 獨立驗 exit 0、真 orphans=0、untracked 檔不在 push 範圍→CI fresh clone 會綠），走文件化逃生閘門 `TWMD_SKIP_PREPUSH_SWEEP=1`（reflog 留痕、CI 仍把關）。
+- **可能層級**：操作規則 / 通用反射候選。低風險修法：orphan gate 命令替換改 `tf_out="$(cmd 2>&1 || true)"`，或先存 `rc=$?` 再只認 grep（讓「意圖只認 grep」在 `-e` 下也成立）。屬共用 correctness hook 改動（§自主權邊界），本 cron session flag 不逕改。
+- **相關**：REFLEXES #24「工具在說謊」（hook 印綠再靜默 abort = tool lying 的一種）/ #68 多核 git push 協調（本條是 pre-push 內一行的 `set -e` 脆弱性，#68 沒罩到）/ #5 pre-commit dogfood。
+- **verification_count**: 1
+- **severity**: correctness（scope 乾淨的 routine push 被無關 out-of-sync 靜默擋；凡平行寫手留 untracked 新譯檔即復發；逃生閘門存在但每次都要人繞）
+
 ---
 
 ## ✅ 已消化（保留 pointer）
