@@ -3,12 +3,12 @@
     "About": 40,
     "Art": 211,
     "Culture": 336,
-    "Economy": 281,
+    "Economy": 280,
     "Food": 310,
     "Geography": 330,
     "History": 245,
     "Lifestyle": 150,
-    "Music": 180,
+    "Music": 179,
     "Nature": 190,
     "People": 1184,
     "Politics": 55,
@@ -462,5 +462,5 @@
       "count": 1
     }
   ],
-  "updated": "2026-07-16"
+  "updated": "2026-07-17"
 }
