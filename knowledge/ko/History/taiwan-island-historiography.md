@@ -64,7 +64,7 @@ translatedAt: '2026-05-12T11:51:04+08:00'
 
 사람들은 농경 지혜와 종족 조직을 가지고 섬에 왔다. 그러나 빈번히 변동하는 환경에서 살아남기 위해, 그들은 대륙의 모국보다 더 유연하고 더 현실적인 사회계약을 익혔다. 대만의 ‘한인 사회’는 처음부터 어떤 불안정성과 모험의 유전자를 지니고 있었으며, 이는 청치 시기의 빈번한 봉기, 예컨대 “3년에 한 번 작은 반란, 5년에 한 번 큰 소요”라는 말에서 단적으로 드러난다.
 
-관련 확장: [청치 시기](/ko/History/qing-dynasty-rule/), [대만 경제 기적](/ko/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger/)
+관련 확장: [청치 시기](/ko/History/qing-dynasty-rule/), [대만 경제 기적](/ko/economy/economic-miracle/)
 
 ## 5. 1895: 식민지 근대성의 양날
 

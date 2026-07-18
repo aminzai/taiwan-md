@@ -164,7 +164,7 @@ Regresando al día de noviembre de 1942 al principio. Esos 523 prisioneros de gu
 
 Bajo cada foto hermosa que tomas en Jinguashi hay una capa de vida. La belleza de esta montaña es real, la herida también lo es, y son la misma cosa. La próxima vez que vengas, además de fotografiar esa luz anaranjada, quizás puedas caminar hasta ese muro de nombres. Los nombres que puedes reconocer son pocos, pero cada uno fue una vida que esta montaña soportó.
 
-**Lectura complementaria**: [Período de Gobierno Japonés](/history/日治時期) | [Keelung](/geography/基隆市) | [Culto al Emperador Divino Guan](/culture/關聖帝君信仰) | [El Milagro Económico de Taiwán](/history/台灣經濟奇蹟) (el contexto completo de la gestión capitalista estatal de Jinguashi tras la guerra por Taijin Company) | [Alishan: El Bosque Imperial y la Montaña de Gao Yisheng](/history/阿里山：帝國的林場與高一生的山), [Historia del Desarrollo Forestal de Taiwán](/history/台灣森林開發史) (capítulos hermanos del mismo sistema colonial de recursos del Imperio Japonés)
+**Lectura complementaria**: [Período de Gobierno Japonés](/history/日治時期) | [Keelung](/geography/基隆市) | [Culto al Emperador Divino Guan](/culture/關聖帝君信仰) | [El Milagro Económico](/es/economy/economic-miracle) (el contexto completo de la gestión capitalista estatal de Jinguashi tras la guerra por Taijin Company) | [Alishan: El Bosque Imperial y la Montaña de Gao Yisheng](/history/阿里山：帝國的林場與高一生的山), [Historia del Desarrollo Forestal de Taiwán](/history/台灣森林開發史) (capítulos hermanos del mismo sistema colonial de recursos del Imperio Japonés)
 
 ## Fuentes de imagen
 

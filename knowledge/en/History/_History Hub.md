@@ -46,7 +46,7 @@ On September 28, 1986, the Democratic Progressive Party was founded at the Grand
 
 Postwar Taiwan's greatest mystery isn't political transition, but economic miracle. How did a small island lacking natural resources, densely populated, and politically turbulent leap from agricultural society to industrial powerhouse within thirty years? The answer lies in Taiwanese oceanic genes. From being a 17th-century international trade hub to developing a 20th-century export-oriented economy, Taiwanese inherently knew how to do business with the world. Even during the most isolated martial law years, Taiwan's economic tentacles extended to every corner of the globe. Yet economic achievements cannot escape geopolitical realities. Taiwan Strait crises, cross-strait division, and international isolation are structural challenges Taiwan must face. Taiwan's history teaches us that small nations' survival depends not on resisting great powers, but on creating their own irreplaceability.
 
-[[taiwan-economic-miracle-from-agriculture-to-asian-tiger]] | [[postwar-economic-development]] | [[taiwan-maritime-trade-history]] | [[taiwan-strait-crises-and-cross-strait-relations]]
+[[economic-miracle]] | [[taiwan-maritime-trade-history]] | [[taiwan-strait-crises-and-cross-strait-relations]]
 
 ![Chiang Kai-shek Memorial Hall](/images/wiki/aeba97222b07.jpg)
 _Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Taipei_ChiangKaiShekMemorial_Square_amk.jpg) | CC BY-SA 3.0 | Photo: Andreas Krebs_

@@ -1,29 +1,29 @@
 ---
-title: "Jinguashi : les mille soldats britanniques enfermés dans les galeries pour extraire le cuivre, et une montagne d’or qui n’a pas encore été nettoyée"
-description: "De 1942 à 1945, plus d’un millier de prisonniers de guerre alliés britanniques furent enfermés dans le « 凸鼻仔寮 » de Jinguashi pour extraire du cuivre ; le 23 novembre 1997, les survivants retournèrent sur le site et érigèrent eux‑mêmes un monument commémoratif. Cette ville de montagne, célèbre pour ses mines d’or, doit surtout être rappelée non pas pour l’or, mais pour le conduit de fumée pollué dont le sol dépasse encore les normes de sécurité."
+title: 'Jinguashi : les mille soldats britanniques enfermés dans les galeries pour extraire le cuivre, et une montagne d’or qui n’a pas encore été nettoyée'
+description: 'De 1942 à 1945, plus d’un millier de prisonniers de guerre alliés britanniques furent enfermés dans le « 凸鼻仔寮 » de Jinguashi pour extraire du cuivre ; le 23 novembre 1997, les survivants retournèrent sur le site et érigèrent eux‑mêmes un monument commémoratif. Cette ville de montagne, célèbre pour ses mines d’or, doit surtout être rappelée non pas pour l’or, mais pour le conduit de fumée pollué dont le sol dépasse encore les normes de sécurité.'
 date: 2026-05-04
-category: "Geography"
+category: 'Geography'
 tags:
-  - "Jinguashi"
-  - "Ruifang"
-  - "Musée de l’or"
-  - "Site des Treize Étages"
-  - "Camp de prisonniers de guerre de Jinguashi"
-  - "Prisonniers de guerre alliés"
-  - "Tanaka Chōbei"
-  - "Période coloniale japonaise"
-  - "Mer Yin-Yang"
-  - "Les collines muettes"
-subcategory: "東北角・礦業聚落"
-author: "Taiwan.md"
+  - 'Jinguashi'
+  - 'Ruifang'
+  - 'Musée de l’or'
+  - 'Site des Treize Étages'
+  - 'Camp de prisonniers de guerre de Jinguashi'
+  - 'Prisonniers de guerre alliés'
+  - 'Tanaka Chōbei'
+  - 'Période coloniale japonaise'
+  - 'Mer Yin-Yang'
+  - 'Les collines muettes'
+subcategory: '東北角・礦業聚落'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-04
 lastHumanReview: true
-translatedFrom: "Geography/金瓜石.md"
-sourceCommitSha: "f187773fe"
-sourceContentHash: "sha256:d506ddde43d15d15"
-sourceBodyHash: "sha256:bbf94bacf1d03bd7"
-translatedAt: "2026-05-18T05:08:09+08:00"
+translatedFrom: 'Geography/金瓜石.md'
+sourceCommitSha: 'f187773fe'
+sourceContentHash: 'sha256:d506ddde43d15d15'
+sourceBodyHash: 'sha256:bbf94bacf1d03bd7'
+translatedAt: '2026-05-18T05:08:09+08:00'
 ---
 
 > **30 second overview :** la plupart des visiteurs de Jinguashi viennent pour la grande brique d’or de 220 kg du Musée de l’or, ou pour la lampe orange allumée en 2019 au site des Treize Étages[^1][^2]. Mais l’histoire réelle de la montagne ne réside pas dans l’or — de 1942 à 1945, les Japonais y ont enfermé plus d’un millier de prisonniers de guerre alliés, principalement britanniques, dans les galeries de cuivre, qu’ils appelaient « Kinkaseki », tandis que les Taïwanais l’appelaient « 凸鼻仔寮 »[^3][^4]. Le 23 novembre 1997, le Canadien Michael Hurst et 150 survivants ainsi que leurs familles ont érigé un monument commémoratif sur le site original[^3]. Aujourd’hui, les touristes marchent sur le conduit de fumée devenu un lieu de selfie, alors que le sol reste plusieurs fois au-dessus des seuils de sécurité pour l’arsenic et les métaux lourds[^5][^6].
@@ -106,7 +106,7 @@ Après la guerre, il fut rebaptisé « Première Maison d’Hôte » et gér
 
 Fondé entre 1896 et 1897, le Qian‑Ji‑Tang de Jinguashi (金瓜石勸濟堂) rend hommage à quatre divinités protectrices : Guan Yu, Lü Bu, Zhang Fei et Wang Yue. En 1991, une statue de Guan Yu en cuivre pur de 25 tonnes et 35 tailles (en pieds taïwanais) fut coulée au sommet du temple, faisant de lui la plus grande statue extérieure de Guan Yu de la côte nord[^28][^29].
 
-Une enquête du *Science Monthly* (janvier 2021) montre que le paysage religieux de Jinguashi combine le sanctuaire shintoïste japonais (1897), le Qian‑Ji‑Tang local et le pèlerinage annuel de Mazu en avril, reflétant une coexistence de croyances. Après le départ des Japonais, le sanctuaire resta en ruines, tandis que le Qian‑Ji‑Tang continue d’être actif — non pas à cause d’une supériorité théologique, mais parce qu’il a survécu avec la communauté locale, contrairement au sanctuaire shintoïste[^30].
+Une enquête du _Science Monthly_ (janvier 2021) montre que le paysage religieux de Jinguashi combine le sanctuaire shintoïste japonais (1897), le Qian‑Ji‑Tang local et le pèlerinage annuel de Mazu en avril, reflétant une coexistence de croyances. Après le départ des Japonais, le sanctuaire resta en ruines, tandis que le Qian‑Ji‑Tang continue d’être actif — non pas à cause d’une supériorité théologique, mais parce qu’il a survécu avec la communauté locale, contrairement au sanctuaire shintoïste[^30].
 
 📝 Note du commissaire : les mineurs priaient Guan Yu avant d’entrer dans les galeries, non pas comme un rituel culturel, mais comme une forme de gestion du risque. Dans un environnement où la mortalité était élevée, confier son destin à une divinité constituait une véritable assurance psychologique.
 
@@ -123,7 +123,7 @@ Jinguashi n’est pas seulement de l’or. C’est le sable d’or de 1890, les 
 **Lectures complémentaires** :
 
 - [Période coloniale japonaise](/history/日治時期) — comment le « Règlement minier de Taïwan » a privé les autochtones de leurs droits d’exploitation.
-- [Taiwan Metal Mining Co.](/economy/台灣經濟奇蹟) — de la création de Tai‑Kin en 1955 à sa fermeture en 1987, le parcours complet de la gestion de Jinguashi par le capital d’État.
+- [Taiwan Metal Mining Co.](/fr/economy/economic-miracle) — de la création de Tai‑Kin en 1955 à sa fermeture en 1987, le parcours complet de la gestion de Jinguashi par le capital d’État.
 - [Histoire du développement forestier de Taïwan](/history/台灣森林開發史) — Jinguashi, comme Alishan ou Taiping, faisait partie du système colonial d’exploitation des ressources de l’Empire japonais.
 - [Sun Moon Lake](/geography/日月潭), [Alishan : forêts impériales et montagnes](/history/阿里山：帝國的林場與高一生的山) — trois « sites touristiques » dont le récit cache une économie impériale.
 - [Histoire du commerce maritime taïwanais](/history/台灣海洋貿易史) — les routes maritimes qui transportaient l’or et le cuivre de Jinguashi vers le Japon.
@@ -133,32 +133,61 @@ Jinguashi n’est pas seulement de l’or. C’est le sable d’or de 1890, les 
 ## Références
 
 [^1]: [Historique | Musée de l’or de New Taipei](https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0Q018377887368898201) — description officielle du musée, depuis les références au sable d’or du 13ᵉ siècle jusqu’à l’exposition actuelle de la brique d’or de 220 kg.
+
 [^2]: [Vidéo : Cette lampe a mis 32 ans à s’allumer ! Le site des Treize Étages illumine le « Shui‑Jin‑Jiu »](https://www.ettoday.net/news/20190911/1532394.htm) — reportage sur l’allumage du site en 2019.
+
 [^3]: [The Kinkaseki Memorial Dedication | Taiwan POW Camps Memorial Society](http://www.taiwanpow.org/archives_detail.php?THE-KINKASEKI-MEMORIAL-DEDICATION-15=) — compte‑rendu anglais de l’inauguration du monument le 23 novembre 1997.
+
 [^4]: [BBC News 中文 : Les prisonniers alliés de la Seconde Guerre mondiale à Taïwan, presque oubliés](https://www.bbc.com/zhongwen/trad/china/2015/07/150707_wwii_taiwan_alliance_pow_history) — reportage de 2015 incluant photos et interview de Michael Hurst.
+
 [^5]: [UDN : Le conduit de fumée des Treize Étages, point de selfie, reste pollué](https://vip.udn.com/vip/story/121163/4834306) — enquête de 2020 sur la contamination en arsenic, cuivre, plomb et zinc.
+
 [^6]: [PNN : Contamination des métaux lourds au site des Treize Étages](https://news.pts.org.tw/article/446222) — article sur la désignation officielle du site comme zone de contrôle de la contamination.
+
 [^7]: [Jinguashi | Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E9%87%91%E7%93%9C%E7%9F%B3) — article complet depuis la découverte du sable d’or en 1890 jusqu’à la transformation touristique post‑2019.
+
 [^8]: [Tanaka Chōbei II | Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BB%A3%E7%94%B0%E4%B8%AD%E9%95%B7%E5%85%B5%E8%A1%9B) — biographie du fondateur du groupe Tanaka.
+
 [^9]: [Shōtarō Kōshō | Wikipédia (ja)](https://ja.wikipedia.org/wiki/%E5%BE%8C%E5%AE%AE%E4%BF%A1%E5%A4%AA%E9%83%8E) — acquisition du site en 1925 et titre de « Roi des mines d’or ».
+
 [^10]: [Taiwan Mining Co., Ltd. | Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%8F%B0%E7%81%A3%E9%87%91%E9%91%9B%E6%A5%AD%E5%85%AC%E5%8F%B8) — histoire du groupe Tanaka, de Kōshō et de la restructuration post‑guerre.
+
 [^11]: [‘Hell Camp’ Remembered | Taipei Times](https://www.taipeitimes.com/News/feat/archives/2005/05/01/2003252765) — interview de Michael Hurst en 2005 sur le « Hell Camp ».
+
 [^12]: [The Society | Taiwan POW Camps Memorial Society](http://www.taiwanpow.org/The%20Society/index.php) — page officielle du groupe, retraçant le projet commémoratif depuis 1996.
+
 [^13]: [Les collines muettes | Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Film/PrintFrameContent?ContentUrl=22671) — description officielle du film, incluant réalisateur, scénariste et casting.
+
 [^14]: [Les collines muettes | Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E7%84%A1%E8%A8%80%E7%9A%84%E5%B1%B1%E4%B8%98) — récompenses du Golden Horse 1992.
+
 [^15]: [Musée de l’or de New Taipei — présentation (PDF)](https://www.gep.ntpc.gov.tw/files/file_pool/1/0G252584947817531498/4.pdf) — documents officiels sur l’ouverture en 2004.
+
 [^16]: [Musée de l’or | National Cultural Memory](https://tcmb.culture.tw/zh-tw/detail?id=313245&indexCode=Culture_Place) — photos et informations de 2010.
+
 [^17]: [Site des Treize Étages | New Taipei Travel](https://newtaipei.travel/zh-tw/attractions/detail/110923) — description officielle du site et de son éclairage 2019.
+
 [^18]: [Taipower : Réponse aux protestations de Ruifang | Taipower](https://www.taipower.com.tw/2289/2323/2332/34057/normalPost) — déclaration officielle du 19 août 2019.
+
 [^19]: [Cinq puits principaux | Musée de l’or de New Taipei](https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246370798582080200) — page officielle du musée.
+
 [^20]: [Exposition « Sanctuaire de Jinguashi et culte du dieu de la montagne » | National Cultural Memory](https://tcmb.culture.tw/zh-tw/detail?id=557903&indexCode=Culture_Event) — documents sur le sanctuaire de 1897.
+
 [^21]: [FM Taiwan : Qu’est‑ce que la mine ? | Podcast](https://www.fmtaiwan.com.tw/blog/gold-museum-the-stories-that-you-should-know) — description du puits à 160 m, du déjeuner des mineurs et de la silicose.
+
 [^22]: [Ancien hôpital de Jinguashi | Musée de l’or de New Taipei](https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246378033877603476) — page officielle sur l’hôpital géré par le groupe Tanaka puis Tai‑Kin.
+
 [^23]: [Exploration de Ruifang : de l’âge d’or minier à la renaissance locale | VERSE](https://www.verse.com.tw/article/ruifang-mining-heritage-and-transformation) — témoignage d’un aîné sur la perte de plus de 200 m d’altitude.
+
 [^24]: [Taiwan Mining History | Shu University](https://shuj.shu.edu.tw/blog/2023/12/21/%e5%8f%b0%e7%81%a3%e6%8e%92%e7%9f%a5%e5%b9%b4%e9%96%93-%e7%9f%a5%e5%8a%9b%e5%af%ab%e5%8f%b2%e9%ab%98%e5%ba%a7) — article sur le musée des mineurs de Houtong, créé par Zhou Chaonan.
+
 [^25]: [Prince‑Hôtel de Jinguashi | National Cultural Memory](https://tcmb.culture.tw/zh-tw/detail?id=313192&indexCode=Culture_Place) — description du bâtiment construit pour le prince héritier.
+
 [^26]: [Prince‑Hôtel | Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%AD%90%E8%B3%93%E9%A4%A8) — histoire du bâtiment depuis 1922.
+
 [^27]: [Four‑Building | Musée de l’or de New Taipei](https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246370374868788211) — description officielle des logements japonais des années 1930.
+
 [^28]: [Qian‑Ji‑Tang de Jinguashi | Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E9%87%91%E7%93%9C%E7%9F%B3%E5%8B%B8%E6%BF%9F%E5%A0%82) — informations sur le temple et la statue de Guan Yu.
+
 [^29]: [Guide du Qian‑Ji‑Tang | WelcomeTW](https://www.welcometw.com/%e9%87%91%e7%93%9c%e7%9f%b3%e5%8b%b8%e6%bf%9f%e5%a0%82/) — localisation, distance à Jiufen, état de la statue.
+
 [^30]: [Histoire du culte du dieu de la montagne à Jinguashi | Science Monthly 613](https://www.scimonth.com.tw/archives/4895) — analyse du spectre religieux unique de la communauté minière.

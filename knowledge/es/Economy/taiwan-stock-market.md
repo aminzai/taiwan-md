@@ -181,7 +181,7 @@ La cima sobre la que se sostienen conjuntamente 13,93 millones de cuentas tiene 
 - [Industria de semiconductores](/technology/半導體產業) — Todo el ecosistema de cadena de suministro que sostiene la identidad de la bolsa taiwanesa como sexta del mundo
 - [Hon Hai Precision, empresa taiwanesa](/economy/台灣企業：鴻海精密) — Otro peso pesado en la lista de 25 compras de Goldman, del gigante de la manufactura por contrato al actor en transformación hacia servidores de IA
 - [Transformación y modernización industrial de Taiwán](/economy/台灣產業轉型升級) — La trayectoria desde la manufactura por contrato de los años ochenta hasta el dividendo de la IA en 2026
-- [Milagro económico de Taiwán](/history/台灣經濟奇蹟) — El dinero de aquella época en que “en Taiwán el dinero inundaba hasta los tobillos” terminó fluyendo hacia la bolsa de 1990 y Hung Yuan
+- [Milagro económico de Taiwán](/es/economy/economic-miracle) — El dinero de aquella época en que “en Taiwán el dinero inundaba hasta los tobillos” terminó fluyendo hacia la bolsa de 1990 y Hung Yuan
 - [Desarrollo fintech de Taiwán](/economy/台灣金融科技發展) — De las órdenes telefónicas en casas de bolsa a los aportes periódicos por celular: la infraestructura financiera detrás de una cuenta
 - [Apple Sidra](/food/蘋果西打) — La cadena de transferencias accionarias de Oceanic Beverages, empresa cotizada desde 1965 (código bursátil 1213), es un caso en miniatura de dos hitos de la historia del capital: el caso de la Décima Cooperativa de Crédito de 1985 y el caso Hung Yuan de 1990
 

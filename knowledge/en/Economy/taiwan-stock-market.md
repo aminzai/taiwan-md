@@ -181,7 +181,7 @@ What will Taiwan’s capital market learn over the next thirty years? Ask the ne
 - [Semiconductor Industry](/technology/半導體產業) — the entire supply-chain ecosystem that supports Taiwan’s identity as the sixth-largest stock market
 - [Taiwanese Company: Hon Hai Precision](/economy/台灣企業：鴻海精密) — another heavyweight in Goldman Sachs’s 25-stock buy list, from contract-manufacturing giant to AI-server transformer
 - [Taiwan’s Industrial Transformation and Upgrading](/economy/台灣產業轉型升級) — the trajectory from 1980s contract manufacturing to the 2026 AI dividend
-- [Taiwan Economic Miracle](/history/台灣經濟奇蹟) — the money from the era when “money flooded up to people’s ankles” eventually flowed into the 1990 stock market and Hung Yuan
+- [Taiwan Economic Miracle](/en/economy/economic-miracle) — the money from the era when “money flooded up to people’s ankles” eventually flowed into the 1990 stock market and Hung Yuan
 - [Development of Financial Technology in Taiwan](/economy/台灣金融科技發展) — from brokerage-phone orders to fixed-amount investing by smartphone, the financial infrastructure behind a single account
 - [Apple Sidra](/food/蘋果西打) — the chain of equity transfers at Oceanic Beverages, listed in 1965 under stock code 1213, as a miniature case of two capital-history nodes: the 1985 Tenth Credit Cooperative scandal and the 1990 Hung Yuan case
 

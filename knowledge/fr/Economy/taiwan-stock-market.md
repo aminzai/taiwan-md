@@ -181,7 +181,7 @@ Qu’apprendra le marché de capitaux taïwanais au cours des trente prochaines 
 - [Industrie des semi-conducteurs](/technology/半導體產業) — tout l’écosystème de chaîne d’approvisionnement qui soutient l’identité de Taïwan comme 6e marché mondial
 - [Hon Hai Precision, entreprise taïwanaise](/economy/台灣企業：鴻海精密) — un autre poids lourd de la liste des 25 titres à l’achat de Goldman Sachs, du géant de la sous-traitance à l’acteur en transition vers les serveurs d’IA
 - [Transformation et montée en gamme de l’industrie taïwanaise](/economy/台灣產業轉型升級) — la trajectoire allant de la sous-traitance des années 1980 au dividende de l’IA en 2026
-- [Miracle économique taïwanais](/history/台灣經濟奇蹟) — l’argent de l’époque où « l’argent de Taïwan montait jusqu’aux chevilles » a finalement afflué vers la Bourse de 1990 et Hung Yuan
+- [Miracle économique taïwanais](/fr/economy/economic-miracle) — l’argent de l’époque où « l’argent de Taïwan montait jusqu’aux chevilles » a finalement afflué vers la Bourse de 1990 et Hung Yuan
 - [Développement de la fintech à Taïwan](/economy/台灣金融科技發展) — du téléphone de maison de courtage au plan d’investissement périodique sur smartphone, l’infrastructure financière derrière un compte
 - [Apple Sidra](/food/蘋果西打) — la chaîne de transferts de participation d’Atlantic Beverage, société cotée en 1965 (code 1213), constitue un cas miniature reliant deux moments de l’histoire du capital : l’affaire de la Tenth Credit Cooperative en 1985 et l’affaire Hung Yuan en 1990
 

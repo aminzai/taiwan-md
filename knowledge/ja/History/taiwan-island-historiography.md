@@ -64,7 +64,7 @@ translatedAt: '2026-05-12T11:51:04+08:00'
 
 人々は農耕の知恵と宗族組織を携えて島に渡りました。しかし頻繁に変動する環境で生き延びるために、彼らは大陸の母国よりも柔軟で、より現実的な社会契約を学びました。台湾の「漢人社会」は当初から、ある種の不安定性と冒険の遺伝子を帯びていました。それは清朝統治期の頻繁な蜂起、たとえば「三年に一度小反乱、五年に一度大騒乱」という表現にも見て取れます。
 
-関連する展開：[清朝統治期](/ja/History/qing-dynasty-rule/)、[台湾経済奇跡](/ja/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger/)
+関連する展開：[清朝統治期](/ja/History/qing-dynasty-rule/)、[台湾経済の奇跡](/ja/economy/economic-miracle/)
 
 ## 五、1895年：植民地的近代性という両刃の剣
 

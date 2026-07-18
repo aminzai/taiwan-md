@@ -59,6 +59,19 @@ read_strategy: 'on-demand'
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 經濟奇蹟三篇合一 Merge variant — 2026-07-18 完成
+
+- **Article**: [knowledge/Economy/經濟奇蹟.md](../../knowledge/Economy/經濟奇蹟.md)（canonical，保留＋補強）
+- **Pipeline**: REWRITE-PIPELINE v9.0 — Merge variant（三篇覆蓋同一段戰後經濟史，無獨立不重疊 scope）
+- **併入後刪除**：`History/台灣經濟奇蹟.md` + `History/戰後經濟發展.md`（各 + 5 lang，共 12 檔）
+- **Canonical 選定理由**：Step 0.3 判準逐條比較——經濟奇蹟為三篇中唯一場景式敘事（EVOLVE 狀態最高優先判準）+ `lastHumanReview: true`；輸給另兩篇的腳註數與站內連結數已在合併時補強
+- **`[MERGE-IN]` 補入**：土地改革三階段（三七五減租/公地放領/耕者有其田）+ 亞洲四小龍國際比較 + 社會變遷段（教育/都市化/女性地位）+ 腳註從 0 補到 9
+- **Stage 1 查證修正一處**：原欲引用「1966 聯合國羅馬世界土地改革會議」細節經 WebFetch 逐字核對來源頁面**找不到**，判定為未經獨立驗證的合成摘要，改用可查證版本（1968 林肯土地政策學院共同創辦 + 2000 更名）
+- **Stage 4 media**：原文 0 圖，本輪從行政院珍貴史料展示 + Wikimedia Commons 補 4 張（hero + 3 inline，皆官方史料庫 / Public Domain）
+- **Stage 5**：Astro redirect 12 條（2 篇 × 6 語言）+ 跨語言 cross-link 修正 20 處（台灣股市與資本市場／金瓜石／台灣歷史書寫史／兩個 Hub／timeline-eras.json 等）+ `npm run build` 全綠驗證
+- **Research**: [reports/research/2026-07/經濟奇蹟.md](../../reports/research/2026-07/經濟奇蹟.md)
+- **起因**：哲宇原僅點名 2 篇疑似重複，investigate 時另揪出第三篇（`戰後經濟發展.md`），完整 3 篇比對記錄見上方 research report
+
 ### 台灣樂器製造業 EVOLVE — 2026-07-17-221115-manual 完成
 
 - **Article**: [knowledge/Music/台灣樂器製造.md](../../knowledge/Music/台灣樂器製造.md)

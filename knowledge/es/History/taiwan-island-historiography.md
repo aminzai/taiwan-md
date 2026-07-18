@@ -64,7 +64,7 @@ En 1662, Zheng Chenggong expulsó a los neerlandeses; en 1683, las fuerzas Qing 
 
 Las personas llegaron a la isla con saberes agrícolas y organizaciones de linaje, pero para sobrevivir en un entorno de cambios frecuentes aprendieron a establecer contratos sociales más flexibles y pragmáticos que los de la metrópoli continental. Desde el comienzo, la “sociedad han” de Taiwán llevó consigo cierto gen de inestabilidad y aventura, algo visible en los frecuentes levantamientos del periodo Qing, resumidos en la expresión “una pequeña rebelión cada tres años y un gran disturbio cada cinco”.
 
-Lecturas relacionadas: [Periodo de dominio Qing](/es/History/qing-dynasty-rule/), [Milagro económico de Taiwán](/es/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger/)
+Lecturas relacionadas: [Periodo de dominio Qing](/es/History/qing-dynasty-rule/), [Milagro económico de Taiwán](/es/economy/economic-miracle/)
 
 ## V. 1895: la doble hoja de la modernidad colonial
 

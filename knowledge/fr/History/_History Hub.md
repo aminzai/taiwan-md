@@ -48,7 +48,7 @@ Le 28 septembre 1986, le Parti démocrate progressiste (PDP) est fondé à l'hô
 
 La plus grande énigme de l'après-guerre taïwanais n'est pas la transition politique, mais le miracle économique. Comment une petite île pauvre en ressources naturelles, densément peuplée et politiquement instable, a-t-elle réussi à passer d'une société agricole à une puissance industrielle en trente ans ? La réponse est inscrite dans les gènes marins des Taïwanais. Du carrefour commercial international du XVIIe siècle à l'économie exportatrice du XXe siècle, les Taïwanais ont toujours su comment faire des affaires avec le monde. Même durant les années les plus fermées de la loi martiale, les tentacules économiques de Taïwan s'étendaient dans tous les coins du globe. Mais la réussite économique ne peut faire abstraction des réalités géopolitiques. Crises du détroit de Taïwan, division des deux rives, isolement international : ce sont là des défis structurels auxquels Taïwan doit faire face. L'histoire de Taïwan nous enseigne que la survie d'un petit pays ne tient pas à la résistance face aux grandes puissances, mais à la capacité de créer sa propre irremplaçabilité.
 
-台灣經濟奇蹟 | 戰後經濟發展 | 台灣海洋貿易史 | 台海危機與兩岸關係發展
+經濟奇蹟 | 台灣海洋貿易史 | 台海危機與兩岸關係發展
 
 ![Mémorial Chiang Kai-shek](/images/wiki/aeba97222b07.jpg)
 _Source de l'image : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Taipei_ChiangKaiShekMemorial_Square_amk.jpg) | CC BY-SA 3.0 | Photographe : Andreas Krebs_

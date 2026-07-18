@@ -176,4 +176,4 @@ If, in 2050, someone wants to know what Taiwanese people in 1949 cared about, wh
 
 ---
 
-**Further Reading**: [Martial Law Era](/en/History/martial-law-era/), White Terror, [228 Incident](/en/History/228-incident/), [Taiwan Economic Miracle](/en/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger/)
+**Further Reading**: [Martial Law Era](/en/History/martial-law-era/), White Terror, [228 Incident](/en/History/228-incident/), [The Economic Miracle](/en/economy/economic-miracle/)

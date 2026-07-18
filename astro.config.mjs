@@ -201,6 +201,28 @@ export default defineConfig({
     // 2026-06-19: 立蛋.md Merge 進 端午節.md（idlccp1984 #1167/#1168 同日初稿，
     // 立蛋「迷信 vs 科學」吸納為端午節對比模組）。立蛋為當日新建 zh-TW only，1 lang redirect。
     '/culture/立蛋': '/culture/端午節/',
+    // 2026-07-18: 台灣經濟奇蹟.md + 戰後經濟發展.md 三篇合一併入 經濟奇蹟.md（三篇
+    // 皆覆蓋同一段戰後經濟史，無獨立不重疊 scope；經濟奇蹟 canonical 選定理由見
+    // reports/research/2026-07/經濟奇蹟.md：唯一場景式敘事 + lastHumanReview:true，
+    // 兩篇 History 版本的土地改革/亞洲四小龍比較/社會變遷/腳註已吸收進 canonical）。
+    // 6-lang redirect ×2 篇（en/ja/ko/es/fr 譯本暫留舊內容，待 babel re-sync）。
+    '/history/台灣經濟奇蹟': '/economy/經濟奇蹟/',
+    '/history/戰後經濟發展': '/economy/經濟奇蹟/',
+    '/en/history/taiwan-economic-miracle-from-agriculture-to-asian-tiger':
+      '/en/economy/economic-miracle/',
+    '/ja/history/taiwan-economic-miracle-from-agriculture-to-asian-tiger':
+      '/ja/economy/economic-miracle/',
+    '/ko/history/taiwan-economic-miracle-from-agriculture-to-asian-tiger':
+      '/ko/economy/economic-miracle/',
+    '/es/history/taiwan-economic-miracle-from-agriculture-to-asian-tiger':
+      '/es/economy/economic-miracle/',
+    '/fr/history/taiwan-economic-miracle-from-agriculture-to-asian-tiger':
+      '/fr/economy/economic-miracle/',
+    '/en/history/postwar-economic-development': '/en/economy/economic-miracle/',
+    '/ja/history/postwar-economic-development': '/ja/economy/economic-miracle/',
+    '/ko/history/postwar-economic-development': '/ko/economy/economic-miracle/',
+    '/es/history/postwar-economic-development': '/es/economy/economic-miracle/',
+    '/fr/history/postwar-economic-development': '/fr/economy/economic-miracle/',
     // 2026-06-26: 台灣鹹酥雞.md 合併進 台灣鹽酥雞.md（idlccp1984 #1175，同一食物不同
     // 拼法；鹽酥雞 canonical — 10 footnote + 已含「鹽/鹹」naming section + 在 Food Hub）。
     // 6-lang redirect（鹹酥雞 譯名 salt-and-pepper-fried-chicken → 鹽酥雞 popcorn-chicken-redux）。

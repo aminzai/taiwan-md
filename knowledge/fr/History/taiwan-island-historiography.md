@@ -64,7 +64,7 @@ En 1662, Zheng Chenggong expulsa les Néerlandais ; en 1683, l’armée Qing pri
 
 Les gens arrivèrent sur l’île avec leur savoir agricole et leurs organisations lignagères ; mais pour survivre dans un environnement soumis à des transformations fréquentes, ils apprirent à élaborer un contrat social plus souple et plus réaliste que celui de la patrie continentale. Dès l’origine, la « société han » de Taïwan porta en elle une forme d’instabilité et d’aventure, perceptible dans les soulèvements fréquents de la période Qing, comme le disait l’adage : « une petite révolte tous les trois ans, un grand désordre tous les cinq ans ».
 
-Pour aller plus loin : [Période de domination Qing](/fr/History/qing-dynasty-rule/), [Miracle économique taïwanais](/fr/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger/)
+Pour aller plus loin : [Période de domination Qing](/fr/History/qing-dynasty-rule/), [Miracle économique taïwanais](/fr/economy/economic-miracle/)
 
 ## V. 1895 : le double tranchant de la modernité coloniale
 
