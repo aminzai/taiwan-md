@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-19
-last_session: '2026-07-19-030848-twmd-distill-weekly (W29 distill — LESSONS §未消化 16→12 fold 3 pattern 進 REFLEXES #35/#81 + superseded sweep + MEMORY 索引 rollup 128→40 inline + 88 列歸檔 2026-07.md)'
+last_session: '2026-07-19-052130-twmd-embeddings-nightly (bge-m3 nightly 十語 5234 向量 0 fail / verify PASS / d551d6b70; 四語新生 vi/id/pt/hi 首次入索引)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -305,3 +305,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-19 | 021852-twmd-weekly-report-sun | W29 週報 22KB ship〈巴別塔第一次照到自己的臉〉；roadmap 07-10→07-19 換代；BCC 17 Resend 200 `0e719aee` | 週報=44 session×15 routine 的 second-order meta-diary | [→](memory/2026-07-19-021852-twmd-weekly-report-sun.md) |
 | 2026-07-19 | 030848-twmd-distill-weekly | W29 distill：§未消化 16→12（3 fold #35/#81 + 1 sweep + 1 vc bump）；MEMORY rollup 128→40 | 共祖先「共享資源靜默漂移」→ fold 家族 > 新開 #N | [→](memory/2026-07-19-030848-twmd-distill-weekly.md) |
 | 2026-07-19 | 042035-twmd-self-evolve-weekly | W29 3 ship：SPORE SOP 加 3-週高原閾值 + REFLEXES #82(e) sensor 兩端對稱 + #73(e) 外部聚光燈；`8d10bb508`+`5a5f5736f` | fold subrule 門檻 ≠ 新反射 vc=3 硬門檻 | [→](memory/2026-07-19-042035-twmd-self-evolve-weekly.md) |
+| 2026-07-19 | 052130-twmd-embeddings-nightly | bge-m3 nightly 十語 5234 向量 0 fail／verify PASS／`d551d6b70`；四語新生 vi/id/pt/hi 首次入索引；pre-push 首推瞬時擋 retry 即綠 | 同症狀不同根因靠三環境獨立複驗分辨，不反射抄上次解法 | [→](memory/2026-07-19-052130-twmd-embeddings-nightly.md) |
