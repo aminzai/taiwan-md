@@ -23,8 +23,8 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **851 curated articles** (zh-TW SSOT) across 14 categories — projected to **6 languages** = 5,106 article-versions
-- 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français — 5 lang each ≥ 80% real freshPct (en 96% / ja 97% / ko 93% / fr 93% / es 80%)
+- 📖 **851 curated articles** (zh-TW SSOT) across 14 categories — projected to **10 languages** = 8,510 article-versions
+- 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी — 9 languages (2026-07-19 主權的巴別塔擴到九語)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
 - 🌳 **Resource mindmap** — D3.js bidirectional tidy tree with 146+ official Taiwan websites
@@ -50,7 +50,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 | ------------------------------ | ----- |
 | 📄 Total articles (zh-TW SSOT) | 851   |
 | 🇹🇼 Chinese (zh-TW)             | 851   |
-| 🇺🇸 English (en)                | 858   |
+| 🇺🇸 English (en)                | 857   |
 | 🇯🇵 日本語 (ja)                 | 845   |
 | 🇰🇷 한국어 (ko)                 | 843   |
 | 🇪🇸 Español (es)                | 843   |
@@ -61,8 +61,8 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 | 👥 Contributors                | 66    |
 | ⭐ GitHub Stars                | 1109  |
 | 🍴 Forks                       | 166   |
-| 📅 Articles last 7 days        | 66    |
-| 📅 Articles last 30 days       | 150   |
+| 📅 Articles last 7 days        | 69    |
+| 📅 Articles last 30 days       | 152   |
 
 <!-- STATS:END -->
 
@@ -222,7 +222,7 @@ taiwan-md/
 **Tech:** Astro v5 · GitHub Pages · marked.js · D3.js · Google Fonts (Noto Serif TC)  
 **SSOT:** All content lives in `knowledge/`. Website is a projection. `scripts/core/sync.sh` syncs to `src/content/`.  
 **SEO:** JSON-LD · Open Graph · per-article OG cards (`/og/[category]/[slug]`) · Twitter Cards · RSS · `<meta ai-summary>`  
-**i18n:** zh-TW (default SSOT) + en + ja + ko + es + fr — 5 lang each ≥ 80% real freshPct via 4-tier translation cascade（cloud free × N → Local LLM 最後捕手 → paid sub-agent last resort）  
+**i18n:** zh-TW (default SSOT) + en + ja + ko + es + fr + vi + id + pt + hi — 9 languages via translation cascade（codex + 本機 qwen3.6 主權捕手 + free tier；vi/id/pt/hi 2026-07-19 出生）  
 **Quality:** 14-dimension automated scanner + editorial pipeline. See [EDITORIAL.md](./docs/editorial/EDITORIAL.md) and [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---

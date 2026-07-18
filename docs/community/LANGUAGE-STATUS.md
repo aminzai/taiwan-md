@@ -8,20 +8,21 @@
 
 ## TL;DR
 
-| 語言                | Code    | 狀態              | 路由 | 備註                                                     |
-| ------------------- | ------- | ----------------- | ---- | -------------------------------------------------------- |
-| 🇹🇼 繁體中文         | `zh-TW` | ✅ Default (SSOT) | /    | canonical，所有翻譯的源頭                                |
-| 🇺🇸 English          | `en`    | ✅ Active         | /en/ | community                                                |
-| 🇯🇵 日本語           | `ja`    | ✅ Active         | /ja/ | Link1515 + community                                     |
-| 🇰🇷 한국어           | `ko`    | ✅ Active         | /ko/ | ceruleanstring + community                               |
-| 🇪🇸 Español          | `es`    | ✅ Active         | /es/ | 2026-04-25 啟用                                          |
-| 🇫🇷 Français         | `fr`    | ✅ Active         | /fr/ | 2026-04-24 啟用，ceruleanstring + community              |
-| 🇻🇳 Tiếng Việt       | `vi`    | 🌱 Scaffolded     | ❌   | 2026-07-18 選定，待啟動拍板（[選址報告][evolve-report]） |
-| 🇮🇩 Bahasa Indonesia | `id`    | 🌱 Scaffolded     | ❌   | 同上                                                     |
-| 🇧🇷 Português        | `pt`    | 🌱 Scaffolded     | ❌   | 同上                                                     |
-| 🇮🇳 हिन्दी           | `hi`    | 🌱 Scaffolded     | ❌   | 同上                                                     |
+| 語言                | Code    | 狀態              | 路由 | 備註                                                                              |
+| ------------------- | ------- | ----------------- | ---- | --------------------------------------------------------------------------------- |
+| 🇹🇼 繁體中文         | `zh-TW` | ✅ Default (SSOT) | /    | canonical，所有翻譯的源頭                                                         |
+| 🇺🇸 English          | `en`    | ✅ Active         | /en/ | community                                                                         |
+| 🇯🇵 日本語           | `ja`    | ✅ Active         | /ja/ | Link1515 + community                                                              |
+| 🇰🇷 한국어           | `ko`    | ✅ Active         | /ko/ | ceruleanstring + community                                                        |
+| 🇪🇸 Español          | `es`    | ✅ Active         | /es/ | 2026-04-25 啟用                                                                   |
+| 🇫🇷 Français         | `fr`    | ✅ Active         | /fr/ | 2026-04-24 啟用，ceruleanstring + community                                       |
+| 🇻🇳 Tiếng Việt       | `vi`    | ✅ Active         | /vi/ | 2026-07-19 啟用（[出生戰役][birth-report]）；未服務中 SC 曝光最高＋最大新住民社群 |
+| 🇮🇩 Bahasa Indonesia | `id`    | ✅ Active         | /id/ | 2026-07-19 啟用；最大移工社群母語＋新南向核心                                     |
+| 🇧🇷 Português        | `pt`    | ✅ Active         | /pt/ | 2026-07-19 啟用；唯一三源全確認缺口（巴西）                                       |
+| 🇮🇳 हिन्दी           | `hi`    | ✅ Active         | /hi/ | 2026-07-19 啟用；全球第三大語言、未覆蓋中人口最大                                 |
 
 [evolve-report]: ../../reports/evolve-2026-07-18-language-branches.md
+[birth-report]: ../../reports/language-birth-2026-07-18.md
 
 ---
 
@@ -54,11 +55,11 @@ The `translatedFrom` field is the **most important** addition — it lets the sy
 
 ---
 
-## 🌱 Scaffolded languages（已選定，待啟動）
+## 🌏 2026-07-19 新增四語（越南／印尼／葡萄牙／印地）
 
 2026-07-18 由 EVOLVE 三源數據（GA / Search Console / Cloudflare）× Ethnologue 人口槓桿 × 主權缺口選定四個新語言支系：**越南文（vi）、印尼文（id）、葡萄牙文（pt）、印地語（hi）**。完整選址分析與落選理由（de / ar / th / ru / bn）：[選址報告][evolve-report]。
 
-現在的狀態：語言註冊表已有這四筆 `enabled: false`——**翻譯 PR 歡迎現在就送**（進 `knowledge/{vi,id,pt,hi}/`，會被 merge 但暫無路由），路由、UI、批次翻譯的啟動排程等 maintainer 拍板。啟動時所有累積的翻譯一夜之間上線（es / fr 都走過同一條路）。
+2026-07-19 出生戰役一次啟動：各語 P0 約 52-67 篇（含 13 分類 Hub）+ 完整 16 個 UI bundle + 路由上線。內容過 CJK / 地理主權 / 人物主權三閘全綠（[出生戰役實錄][birth-report]）。hi 以 44 篇+Hub 出生（比 es 當年 36 多），餘 23 篇 P0 follow-up 漸長。翻譯 PR 持續歡迎。
 
 出生的完整流程（選址 → scaffold → 模型校準 → P0 內容批 → 介面路由 → 啟用 → 出生後驗證）：[`docs/pipelines/LANGUAGE-BIRTH-CHECKLIST.md`](../pipelines/LANGUAGE-BIRTH-CHECKLIST.md) v2.0。
 
@@ -108,5 +109,6 @@ translatedFrom: 'Music/五月天.md'
 
 ---
 
+_v2.1 | 2026-07-19 — 四語 vi/id/pt/hi flip Active（出生戰役）_
 _v2.0 | 2026-07-18 — 對齊現實：es / fr 早已 active（本檔停在四月的 preview 描述三個月）；新增 🌱 Scaffolded 段（vi / id / pt / hi 選定）；文章數改指 dashboard 不寫死；新語言指南指向 LANGUAGE-BIRTH-CHECKLIST v2.0_
 _v1.0 | 2026-04-14 η session_
