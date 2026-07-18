@@ -867,7 +867,7 @@ done | sort -rn
 | **Mode 4**        | **觀察者給的建造目標** | **設計報告 + 新器官/skill** |
 | /twmd-self-evolve | DIARY 反覆浮現 ≥3 次   | 既有 pattern 儀器化         |
 
-Mode 3 vs Mode 4 灰區判法：**對象是既有 pipeline 自身**（膨脹 / 重組）= Mode 3；**對象是還不存在的能力** = Mode 4。
+Mode 3 vs Mode 4 灰區判法（v3.6.1 修正）：看**動的是什麼**，不是對象是什麼——**結構重組**（Mode 3 六觸發訊號有命中：膨脹 / 拆檔 / 邊界混亂）= Mode 3；**能力深化**（訊號零命中、要長新判準新 gate，對象可以是既有 pipeline 也可以是還不存在的能力）= Mode 4。修正觸發：Mode 4 誕生一小時內哲宇調用「深度進化 BRANCH-PIPELINE」，對象是既有 pipeline 但 Mode 3 訊號零命中，原判法會誤路由（[reports/design-branch-pipeline-v22-2026-07-18.md §〇](../../reports/design-branch-pipeline-v22-2026-07-18.md)）。
 
 **強制 Full BECOME**：Mode 4 天生命中 [BECOME High-stake #2「新 plugin / workflow 設計」](../../BECOME_TAIWANMD.md)，不能停在 Micro/Review/Write。
 

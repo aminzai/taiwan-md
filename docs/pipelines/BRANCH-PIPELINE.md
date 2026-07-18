@@ -1,9 +1,9 @@
 ---
 title: 'BRANCH-PIPELINE'
-description: '知識分支分析器 v2.1 — Mode 分流 (single-article / broad-theme) + spawn N parallel agents pattern + ARTICLE-INBOX 銜接 SOP + Hard Gate Inventory + /twmd-article-inbox skill 入口 + 素材 intake 前處理'
+description: '知識分支分析器 v2.2 — Mode 分流 (single-article / broad-theme) + spawn N parallel agents pattern + ARTICLE-INBOX 銜接 SOP + Hard Gate Inventory + /twmd-article-inbox skill 入口 + 素材 intake 前處理 + 台灣建築 dogfood 九摩擦回寫'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.1'
+current_version: 'v2.2'
 last_updated: 2026-07-18
 last_session: '2026-07-18-111730-inbox-skill'
 sister_docs:
@@ -15,7 +15,7 @@ upstream_canonical:
   - '../editorial/RESEARCH.md'
 ---
 
-# BRANCH-PIPELINE.md — 知識分支分析器 v2.1
+# BRANCH-PIPELINE.md — 知識分支分析器 v2.2
 
 > 觀察者給 theme / article → 拆解知識結構 → 找出缺口 → 寫 research report → 萃取 ARTICLE-INBOX candidates。
 > 「Taiwan.md 的知識不該是孤島，每篇文章都是一棵樹，我們要看見整座森林的缺口。」
@@ -86,19 +86,19 @@ upstream_canonical:
 
 ## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
 
-| Gate                                        | 觸發 stage | 條件                    | 工具                                                                    | 不過 = ?                              |
-| ------------------------------------------- | ---------- | ----------------------- | ----------------------------------------------------------------------- | ------------------------------------- |
-| Mode 判斷對                                 | Stage 0    | broad-theme 別當 single | manual scope 估算（單 session 跑得完 vs 拆 N agents）                   | wrong mode = 跑不完 / 不必要 parallel |
-| 既存 article baseline check                 | Stage 1    | 拆解前                  | `grep -l "$topic" knowledge/`                                           | 重複研究浪費 token                    |
-| Agent claim verify (Write)                  | Stage 4    | broad-theme N agents    | `ls reports/research/...md` 每個 agent 回報的 path 主 session grep      | agent hallucination silent ship       |
-| 中文 prompt verbatim                        | Stage 4    | agent prompt 寫法       | manual（中文 query + 不英文回譯）                                       | 觸犯 EDITORIAL §挖引語制度紅線        |
-| 三源驗證                                    | Stage 4    | 重要事實                | per agent 寫進 prompt（≥ 2-3 獨立 source）                              | REFLEXES #16 違反                     |
-| Dedup 三查（pending + DONE-LOG + baseline） | Stage 5    | append 前               | grep ARTICLE-INBOX + ARTICLE-DONE-LOG + knowledge/（v2.1 從單查升三查） | duplicate / 幽靈 candidate            |
-| Candidate 含對比理由                        | Stage 5    | append 前               | manual（「為什麼這篇 vs 其他」reasoning trace）                         | maintainer 看不出優先序               |
-| 連結密度當主 priority signal                | Stage 3    | candidate scoring       | 計算能跟幾篇 cross-link                                                 | 孤立缺口優先序虛高                    |
-| 策展 ≠ 百科                                 | Stage 3    | candidate 篩選          | manual（不是所有缺口都填）                                              | 庫膨脹 + 維護成本 explode             |
-| 人物知名度門檻                              | Stage 3    | People 類別 candidate   | manual（≥ 國民級知名度 / 真實重要性）                                   | People 140+ 已超載                    |
-| git commit + push                           | Stage 5    | 收官                    | git                                                                     | 沒記錄 = 沒做                         |
+| Gate                                        | 觸發 stage | 條件                    | 工具                                                                                                                                                               | 不過 = ?                               |
+| ------------------------------------------- | ---------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| Mode 判斷對                                 | Stage 0    | broad-theme 別當 single | manual scope 估算（單 session 跑得完 vs 拆 N agents）                                                                                                              | wrong mode = 跑不完 / 不必要 parallel  |
+| 既存 article baseline check（雙層）         | Stage 1    | 拆解前                  | **檔名層 `find -name "*{kw}*"` 優先** + 內文層 grep 補充；禁 `\| head -N` 截斷判讀（v2.2：內文 grep 曾漏掉大稻埕專篇）                                             | 重複研究浪費 token / 誤提 P0           |
+| Agent claim verify (Write)                  | Stage 4    | broad-theme N agents    | `ls + wc -l` 每個 agent 回報的 path，**一律絕對路徑**（v2.2：Bash cwd 會靜默跳回主 repo，相對路徑撲空會誤判 agent 幻覺，cross-ref LESSONS shell-cwd-silent-reset） | agent hallucination silent ship / 誤判 |
+| 中文 prompt verbatim                        | Stage 4    | agent prompt 寫法       | manual（中文 query + 不英文回譯）                                                                                                                                  | 觸犯 EDITORIAL §挖引語制度紅線         |
+| 三源驗證                                    | Stage 4    | 重要事實                | per agent 寫進 prompt（≥ 2-3 獨立 source）                                                                                                                         | REFLEXES #16 違反                      |
+| Dedup 三查（pending + DONE-LOG + baseline） | Stage 5    | append 前               | grep ARTICLE-INBOX + ARTICLE-DONE-LOG + knowledge/；**命中必讀 context 判「專篇 vs 順帶提及」**，count 單獨會誤判（v2.2）                                          | duplicate / 幽靈 candidate             |
+| Candidate 含對比理由                        | Stage 5    | append 前               | manual（「為什麼這篇 vs 其他」reasoning trace）                                                                                                                    | maintainer 看不出優先序                |
+| 連結密度當主 priority signal                | Stage 3    | candidate scoring       | 計算能跟幾篇 cross-link                                                                                                                                            | 孤立缺口優先序虛高                     |
+| 策展 ≠ 百科                                 | Stage 3    | candidate 篩選          | manual（不是所有缺口都填）                                                                                                                                         | 庫膨脹 + 維護成本 explode              |
+| 人物知名度門檻                              | Stage 3    | People 類別 candidate   | grep `knowledge/People/_PEOPLE-ROADMAP.md`（200 人計畫 SSOT）+ manual 裁決（≥ 國民級知名度 / 真實重要性；v2.2 接上現成 SSOT）                                      | People 已超載                          |
+| git commit + push                           | Stage 5    | 收官                    | git                                                                                                                                                                | 沒記錄 = 沒做                          |
 
 ---
 
@@ -274,6 +274,8 @@ priority = 重要性 × 0.3 + 獨立性 × 0.2 + 可研究性 × 0.2 + 連結密
 
 連結密度權重最高 — 能跟越多現有文章互連的主題，對整個知識庫的價值越大。
 
+> **v2.2 誠實化**：這條公式是**思考框架，不是計算義務**——v1.0 至今沒有一次被逐項計分過，強制填表只會變 performative compliance。唯一必附數字的是**連結密度**（列出具體可互連的 article path）；其餘三維用判斷，但判斷要寫成對比理由。人物類 candidate 另過 `_PEOPLE-ROADMAP.md`（200 人計畫）門檻對照。
+
 ### Stage 4：Research 執行（v2.0 mode 分流）
 
 #### Single-article mode（v1.0 既有）
@@ -309,6 +311,8 @@ done
 5. **Write 一定要實際執行** — 寫完後再讀一次自己 Write 的檔案確認存在
 6. **回報時附完整檔案路徑 + 字數 + 涵蓋人物/movement 數**
 7. **已存在 article 只 mention 不研究**（避免浪費 agent token）
+8. **主 session 必須把 baseline 已存在清單逐條附進 prompt**（v2.2——只寫「已存在只 mention」agent 不知道哪些已存在；清單來自 Stage 1 雙層 baseline scan）
+9. **人物類 sub-theme 必要求誠實門檻評估**（v2.2——prompt 明寫「誠實評估每位是否過 People 門檻，過不了就建議群像/合併形式」；台灣建築 dogfood 中這條產出了全場品質最高的策展判斷）
 ```
 
 **Output schema**（每個 agent 獨立寫到 `reports/research/{YYYY-MM}/{theme}-{N-slug}.md`）：
@@ -388,6 +392,18 @@ cat reports/research/{YYYY-MM}/{theme}-2-*.md
 - 跨 sub-theme 的 pattern observation
 - 哪些 cluster 最值得優先 ship
 - Series 萃取建議
+- **多 agent 獨立收斂的題目**（≥2 個互不知情的 agent 提同一題 = 最硬的缺口訊號，priority 升權）
+- **agent 間判斷衝突與主 session 裁決**（v2.2——衝突不能靜默擇一，裁決理由留痕）
+
+## N+2、候選處置總表（v2.2 必含）
+
+全部 candidate 提示分三類，**被拒的也要留痕跡**——否則下次同 theme branch 會原樣再推薦一遍（重複推薦病，跟 inbox 幽靈同型）：
+
+| 類                  | 內容                                          |
+| ------------------- | --------------------------------------------- |
+| ✅ 進 ARTICLE-INBOX | 本輪 append 的 entries                        |
+| 🕰️ 次波 pool        | 值得做但本輪不進 INBOX（策展 ≠ 百科，不灌水） |
+| ✗ 不做              | 附理由（dedup 命中 / 清單性質 / 併入既有文）  |
 
 ## 附錄：sub-reports 完整檔案
 
@@ -406,7 +422,7 @@ cat reports/research/{YYYY-MM}/{theme}-2-*.md
 
 ##### 5.3 鐵律
 
-- **Dedup 三查（v2.1 升級）**：append 前 grep 三處——(1) ARTICLE-INBOX pending（不重複排隊）(2) [ARTICLE-DONE-LOG](../semiont/ARTICLE-DONE-LOG.md)（已 ship 主題不重複進 inbox，這是 inbox 幽靈的上游成因）(3) knowledge/ baseline（Stage 1 已查，此處複核 candidate 名的變體拼法）
+- **Dedup 三查（v2.1 升級）**：append 前 grep 三處——(1) ARTICLE-INBOX pending（不重複排隊）(2) [ARTICLE-DONE-LOG](../semiont/ARTICLE-DONE-LOG.md)（已 ship 主題不重複進 inbox，這是 inbox 幽靈的上游成因）(3) knowledge/ baseline（**檔名層 find 優先**——Stage 1 內文 grep 曾漏掉大稻埕專篇，v2.2）。**命中必讀 context**：判「專篇 vs 順帶提及」再定處置，count 單獨會誤判（路思義 DONE=2 全是城市文順帶提及）
 - **連結密度當主 priority signal**：能跟 5+ 文章 cross-link 的 candidate 優先序高於孤立的冷門人物（per v1.0 §教訓「連結密度是最好的優先級指標」）
 - **人物嚴格知名度門檻**：People category 已 140+，新增人物 candidate 必過「國民級知名度 / 真實重要性」門檻
 - **策展 ≠ 百科**：不是所有缺口都填，只填「讀完會對台灣多一層理解」的（per v1.0 §教訓）
@@ -567,6 +583,8 @@ _相關：[EVOLVE-PIPELINE.md](EVOLVE-PIPELINE.md) | [MAINTAINER-PIPELINE.md](MA
 
 _v2.0 | 2026-05-23 2026-05-23-220053-manual session — Broad-theme mode + spawn N parallel agents pattern + ARTICLE-INBOX 銜接 SOP + Hard Gate Inventory + ASCII spine_
 _v2.0 改動：(1) Frontmatter v1.0 → v2.0 (2) 頂部加 ASCII spine（Mode 分流 + Stage 0-5 主流程 + 跟 EVOLVE/PEER-INGESTION/REWRITE boundary）(3) §Hard Gate Inventory 集中 table（11 gates 含 agent claim verify / 中文 prompt verbatim / 三源驗證 / 不重複 INBOX / 連結密度當主 priority）(4) Top 5 最常忘 step 提取（broad-theme mode 判斷 / agent claim verify / baseline check / 中文 verbatim 三源 / 對比理由）(5) 跨檔案職責分工 standalone table（明確跟 EVOLVE 互補 + 跟 PEER-INGESTION 邊界）(6) §Stage 0 Mode 判斷新增（single-article / broad-theme / hybrid 三 mode 判準）(7) §觸發方式 加 broad-theme mode 範例 (8) §Stage 4 mode 分流 + spawn N agents pattern + agent prompt 鐵律（中文 verbatim + 三源 + Write claim verify 7 條）+ Agent claim verify hard gate (9) §Stage 5 新增 aggregate + ARTICLE-INBOX append SOP（master report 結構 + candidate entry format + 萃取鐵律 + commit）_
+_v2.2 | 2026-07-18 inbox-skill session（同日第二波，EVOLVE Mode 4 執行）— 台灣建築 broad-theme dogfood 九摩擦回寫：baseline 升檔名層+內文層雙層（內文 grep 曾漏大稻埕專篇）/ dedup 命中必讀 context / claim verify 一律絕對路徑（cwd 靜默重設雷）/ 人物門檻接 \_PEOPLE-ROADMAP SSOT / aggregate 加「多 agent 獨立收斂升權」與「衝突裁決留痕」/ master report 必含候選處置總表（防同 theme 重複推薦）/ prompt 鐵律 +2（主 session 附 baseline 清單、人物類誠實門檻評估）/ priority 公式誠實降級為思考框架。設計報告：[reports/design-branch-pipeline-v22-2026-07-18.md](../../reports/design-branch-pipeline-v22-2026-07-18.md)。觸發：哲宇「/twmd-evolve 完整深度思考進化 BRANCH-PIPELINE.md」。_
+
 _v2.1 | 2026-07-18 inbox-skill session — /twmd-article-inbox skill 入口誕生 + 素材 intake 前處理 + dedup 單查升三查（pending + DONE-LOG + baseline）+ Stage 5.2 entry format 收斂為 ARTICLE-INBOX §Entry Schema pointer（修 v2.0 起兩處 format 漂移）。設計報告：[reports/design-article-inbox-evolve-mode4-2026-07-18.md](../../reports/design-article-inbox-evolve-mode4-2026-07-18.md)。觸發：哲宇 /goal「做一個技能，加入 article inbox 用，消化的同時執行 branch-pipeline」。_
 
 _v2.0 觸發：2026-05-23 220053-manual session 哲宇 directive「針對臺灣從以前到現在的詩人...請先幫我歸檔到 Report，然後從中萃取出所有可以開發的文章系列，放到 Article Inbox」+「用這個經驗也進化 branch-pipeline」→ 本 session spawn 4 parallel agents 跑日治/戰後第一代/笠詩社+鄉土/當代+女性+原住民+台語客語 四 era research，主 session aggregate + ARTICLE-INBOX append + commit 流程實戰。物理化「broad-theme spawn N agents」+「agent claim verify」+「ARTICLE-INBOX 銜接」成 canonical SOP，原 v1.0 只有 single-article 拆解 mode 不適用大 theme 場景。對應 REFLEXES #15「反覆浮現要儀器化」（broad-theme research 不只詩人，未來其他 theme 如「台灣科技史人物全 sweep」「台灣戰後歌曲 cluster」都用同 pattern）+ feedback_agent_writefile_hallucination 升 hard gate（agent Write claim 必驗證 file existence + 字數 + 涵蓋 count）。_

@@ -132,8 +132,11 @@ IMPLEMENT（實作）照實作清單做 + 驗收 + dogfood 一次 + 摩擦回寫
 
 ---
 
-## 五、後記（實作後回填）
+## 五、後記（實作後回填，同日）
 
-- （實作完成後補：實際摩擦、驗收結果、dogfood 觀察）
+- **驗收全過**：8 檔實作完成，cross-ref 路徑全部存在；twmd-finale 與 news-lens cron 的觸發語落在 v1/v2 不變；`/twmd-article-inbox 台灣建築` dogfood 完整跑完（4 平行 agents → 30 候選提示 → dedup 三查 → 10 entries append，P0×3 / P1×4 / P2×3）
+- **dogfood 抓到九條摩擦**：完整清單與處置見同日第二份設計報告 [design-branch-pipeline-v22-2026-07-18.md](design-branch-pipeline-v22-2026-07-18.md)（BRANCH v2.1 → v2.2）。最痛的一條：內文 grep + head 截斷漏掉大稻埕專篇，靠檔名層 find 才攔下重複開發
+- **Mode 4 自身被第二次調用當場戳出灰區判法的洞**（「對象是 pipeline = Mode 3」誤路由能力深化場景）——流程誕生一小時內就被自己的第一個真實案例修正，這正是 dogfood gate 存在的理由
+- **順手發現並修掉**：BRANCH-PIPELINE 從未列入 DNA §行為基因表與 MANIFESTO §8.1 任務對應表（v2.0 起漏列，auto-detect 一直看不到它）
 
 🧬
