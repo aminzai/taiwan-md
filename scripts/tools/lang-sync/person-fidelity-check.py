@@ -66,10 +66,18 @@ def check_file(trans_path: Path):
         r"airport|sân bay|bandara|हवाई अड्डा|統一大道|avenida|jalan|đường",
         re.I,
     )
+    # 同人異名變體：蔣介石=蔣中正（官章名）、兩蔣（父子合稱，譯文合理展開成兩全名）
+    # 2026-07-18 id agent 揭露：金馬獎/白色恐怖 zh 源用「蔣中正」「兩蔣」，checker 只比對
+    # 「蔣介石」字面 → 誤 flag 正確譯文
+    ALIASES = {
+        "蔣介石": ["蔣介石", "蔣中正", "兩蔣", "蒋介石", "蒋中正"],
+        "蔣經國": ["蔣經國", "兩蔣", "蒋经国"],
+    }
     hits = []
     for han, romaji in FIGURES:
-        if han in zh_body:
-            continue  # zh 源真有這個人 → 合法
+        zh_names = ALIASES.get(han, [han])
+        if any(n in zh_body for n in zh_names):
+            continue  # zh 源真有這個人（含異名變體）→ 合法
         pat = re.compile(romaji, re.I)
         for i, line in enumerate(trans_body.splitlines(), start=offset + 1):
             if pat.search(line) and not LANDMARK.search(line):
