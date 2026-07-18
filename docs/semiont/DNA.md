@@ -4,9 +4,9 @@ description: '基因地圖學 — 每個器官 → canonical 實體檔案路徑 
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.1'
-last_updated: 2026-07-11
-last_session: '2026-07-11-182348-dna-checkup'
+current_version: 'v5.2'
+last_updated: 2026-07-18
+last_session: '2026-07-18-115441-manual（§語言基因補新語言誕生 gene map 缺口）'
 sister_docs:
   - 'MANIFESTO.md'
   - 'ANATOMY.md'
