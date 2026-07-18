@@ -868,6 +868,14 @@ export const mapUI = {
     'map.routes.oldStreets.name': '🏮 老街散策',
     'map.routes.oldStreets.description':
       '百年の街並みに刻まれた台湾の記憶、建築が語る歴史',
+    'map.routes.counties22.name': '📍 22県市深掘り記事',
+    'map.routes.counties22.description':
+      'Taiwan.md の22本の県市深掘り記事を辿る——基隆のパイロットから新北のフィナーレまで、各県市にひとつの核心的矛盾。',
+    'map.counties22.panel.title': '📍 22県市深掘り記事',
+    'map.counties22.panel.hint': '県市カードを開くか、地図上で県市をクリック',
+    'map.counties22.tooltip.openDeep': 'クリックで深掘り記事を開く',
+    'map.counties22.deepCard.badge': '📖 22県市シリーズ · 深掘り記事',
+    'map.counties22.deepCard.cta': '全文を読む →',
 
     // Night Markets Stops
     'map.stops.shilinNightMarket.name': '士林夜市',
@@ -2925,6 +2933,15 @@ export const mapUI = {
     'map.routes.oldStreets.name': '🏮 Promenade des Vieilles Rues',
     'map.routes.oldStreets.description':
       "Les souvenirs taïwanais dans des rues centenaires, l'architecture comme histoire",
+    'map.routes.counties22.name': '📍 22 comtés et villes en profondeur',
+    'map.routes.counties22.description':
+      'Parcourez les 22 articles de fond de Taiwan.md — une contradiction centrale par lieu, du pilote de Keelung au finale de Nouveau Taipei.',
+    'map.counties22.panel.title': '📍 22 comtés et villes en profondeur',
+    'map.counties22.panel.hint':
+      'Ouvrez une carte de comté ici, ou cliquez sur un comté sur la carte',
+    'map.counties22.tooltip.openDeep': "Cliquez pour ouvrir l'article de fond",
+    'map.counties22.deepCard.badge': '📖 Série 22 comtés · Article de fond',
+    'map.counties22.deepCard.cta': "Lire l'article complet →",
     'map.stops.shilinNightMarket.name': 'Marché Nocturne de Shilin',
     'map.stops.shilinNightMarket.note':
       'Le plus grand marché nocturne touristique de Taïwan, berceau de la galette enveloppée dans une galette',
@@ -3020,32 +3037,32 @@ export const mapUI = {
     'map.markers.founderCheYuWu.title': 'Fondateur — Che-Yu Wu',
     'map.markers.founderCheYuWu.desc':
       "Du code à la poésie : le parcours d'un artiste taïwanais vers la reconnaissance internationale",
-    'map.markers.taiwanIndigenousContemporaryArt.name':
+    'map.markers.taiwanIndigenousContemporaryArt.title':
       'Art contemporain autochtone de Taiwan',
     'map.markers.taiwanIndigenousContemporaryArt.desc':
       "De l'artisanat traditionnel à la création contemporaine, explorez comment les artistes autochtones de Taiwan font entendre leur présence sur la scène artistique mondiale, redéfinissant le dialogue entre identité autochtone et art contemporain",
-    'map.markers.taiwanExperimentalNewMediaArt.name':
+    'map.markers.taiwanExperimentalNewMediaArt.title':
       'Art expérimental et nouveaux médias de Taiwan',
     'map.markers.taiwanExperimentalNewMediaArt.desc':
       "De l'art vidéo aux interactions VR, explorez le développement innovant de l'art des nouveaux médias à Taiwan et son écosystème d'art technologique",
-    'map.markers.taiwanArchitecture.name': 'Architecture de Taiwan',
+    'map.markers.taiwanArchitecture.title': 'Architecture de Taiwan',
     'map.markers.taiwanArchitecture.desc':
       "Des maisons en dalle de pierre aux gratte-ciel : le parcours architectural d'une île à travers le temps",
-    'map.markers.taiwanNewMediaArt.name': 'Art des nouveaux médias de Taiwan',
+    'map.markers.taiwanNewMediaArt.title': 'Art des nouveaux médias de Taiwan',
     'map.markers.taiwanNewMediaArt.desc':
       'Explorez la culture et les récits de Taiwan',
-    'map.markers.taiwanWatercolorCenturyEvolution.name':
+    'map.markers.taiwanWatercolorCenturyEvolution.title':
       "Un siècle d'évolution de l'aquarelle à Taiwan",
     'map.markers.taiwanWatercolorCenturyEvolution.desc':
       "De l'éveil de Kinichiro Ishikawa durant la période coloniale japonaise à la renommée internationale de Chien Chung-Wei, l'aquarelle taïwanaise a parcouru un siècle pour devenir le centre de création aquarelliste le plus dynamique d'Asie.",
-    'map.markers.taiwanModernPoetry.name': 'Poésie moderne de Taiwan',
+    'map.markers.taiwanModernPoetry.title': 'Poésie moderne de Taiwan',
     'map.markers.taiwanModernPoetry.desc':
       'Comment des expérimentations modernistes issues de trois cabinets de travail ont donné naissance à la révolution poétique la plus nativiste',
-    'map.markers.taiwanContemporarySculpture.name':
+    'map.markers.taiwanContemporarySculpture.title':
       'Développement de la sculpture contemporaine à Taiwan',
     'map.markers.taiwanContemporarySculpture.desc':
       "De Yuyu Yang et Ju Ming à la nouvelle génération, explorez la trajectoire évolutive et l'esprit créatif de l'art sculptural taïwanais",
-    'map.markers.taiwanCuratorsArtCulture.name':
+    'map.markers.taiwanCuratorsArtCulture.title':
       "Commissaires d'exposition et construction culturelle à Taiwan",
     'map.markers.taiwanCuratorsArtCulture.desc':
       "De la commissariat indépendant aux systèmes muséaux, comment les commissaires taïwanais construisent le discours culturel de l'art contemporain et le dialogue international",
@@ -3662,6 +3679,16 @@ export const mapUI = {
     'map.routes.oldStreets.name': '🏮 Paseo por Calles Antiguas',
     'map.routes.oldStreets.description':
       'Recuerdos taiwaneses en calles centenarias, la arquitectura como historia',
+    'map.routes.counties22.name': '📍 22 condados y ciudades en profundidad',
+    'map.routes.counties22.description':
+      'Recorre los 22 artículos en profundidad de Taiwan.md — una contradicción central por lugar, del piloto de Keelung al final en Nuevo Taipéi.',
+    'map.counties22.panel.title': '📍 22 condados y ciudades en profundidad',
+    'map.counties22.panel.hint':
+      'Abre una tarjeta de condado aquí, o haz clic en un condado en el mapa',
+    'map.counties22.tooltip.openDeep':
+      'Haz clic para abrir el artículo en profundidad',
+    'map.counties22.deepCard.badge': '📖 Serie 22 condados · En profundidad',
+    'map.counties22.deepCard.cta': 'Leer el artículo completo →',
     'map.stops.shilinNightMarket.name': 'Mercado Nocturno de Shilin',
     'map.stops.shilinNightMarket.note':
       'El mercado nocturno turístico más grande de Taiwán, cuna del panqueque grande envuelto con panqueque pequeño',
