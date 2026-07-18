@@ -151,6 +151,7 @@ upstream_canonical:
   1. `cjk-residue-check.py --lang {lang}`——codex 產融合殘字（phong杀）、**qwen 漏簡體/Hangul 片段**（连霸／野百合世代「白」→백），ratio gate 全穿
   2. **`geo-fidelity-check.py --lang {lang}`（主權關鍵）**——翻譯模型會**幻覺式地點遷移**：出生戰役發現 vi/taiwan-democratization 系統性把「台北」譯成「北京」（整篇民主化文 7 處，含「台北高雄市長」→「北京市長」、天安門對照段的台北學生→北京學生）。把台灣的事搬進中國是巴別塔最致命失效。flag 的每檔逐行對照 zh 源人審（合法天安門 vs 幻覺台北→北京）
   3. `article-health.py`（pre-commit 自動跑）——含 wikilink-target、frontmatter；譯文 lang 偵測靠 loader `_LANG_DIRS`（已 registry-derive，勿再寫死）
+  4. **`person-fidelity-check.py --lang {lang}`（主權關鍵）**——翻譯模型會**政治人物張冠李戴**：出生戰役發現 蔣經國（1987 解嚴、1988 去世）被系統性譯成「Chiang Kai-shek」（1975 已死）跨四語、陳水扁（美麗島大審辯護律師）在 id 被譯成「Tsai Ing-wen」（當時還是學生）、賴清德（2025 現任）在 tsmc 被譯成「Tsai Ing-wen」。懂台灣史的讀者一眼看破。flag 逐處對照 zh 源（中正紀念堂等地標為合法 false positive）
 
 ## Stage 4 — 介面與路由
 

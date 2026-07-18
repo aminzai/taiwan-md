@@ -168,6 +168,7 @@ downstream_dependents:
 | Hub 直通翻譯         | [`hub-translate.py`](../../scripts/tools/lang-sync/hub-translate.py)                                 | `_* Hub.md` 不在 status 索引、標準批次不服務——手構 group entry 直呼 translate_one（2026-07-18 出生戰役）                                                                   |
 | CJK 殘留檢查         | [`cjk-residue-check.py`](../../scripts/tools/lang-sync/cjk-residue-check.py)                         | 非 CJK 譯文的裸漢字殘留 QA gate（codex 融合殘字／qwen 簡體滲出兩型都穿得過 ratio gate）                                                                                    |
 | 地理主權保真         | [`geo-fidelity-check.py`](../../scripts/tools/lang-sync/geo-fidelity-check.py)                       | 譯文幻覺式地點遷移偵測（台北→北京把台灣的事搬進中國，主權最致命失效；2026-07-18 出生戰役誕生）                                                                             |
+| 人物主權保真         | [`person-fidelity-check.py`](../../scripts/tools/lang-sync/person-fidelity-check.py)                 | 譯文政治人物張冠李戴偵測（蔣經國→蔣介石、陳水扁/賴清德→蔡英文；讀者級事實錯誤，geo 抓不到；2026-07-18 出生戰役誕生）                                                       |
 | 譯文 wikilink 扁平   | [`flatten-translation-wikilinks.py`](../../scripts/tools/lang-sync/flatten-translation-wikilinks.py) | 譯文 wikilink 目標譯壞不解析 → 轉純文字（神經迴路『無對應轉純文字』儀器化）                                                                                                |
 
 ### 🏛️ 治理基因（社群契約）
