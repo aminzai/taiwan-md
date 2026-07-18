@@ -145,8 +145,12 @@ upstream_canonical:
 - [ ] 跑 babel cascade（[SQUEEZE v4.4](SQUEEZE-MODELS-MAX-PIPELINE.md)：Tier 0 diff-patch / Tier 1-2 cloud / 本地捕手 / fleet），每篇 frontmatter `translatedFrom` + `sourceCommitSha` 齊
 - [ ] **算力雙軌**（v2.1，2026-07-18 實戰定型）：codex 池吃品質關鍵與大檔、本機 qwen 池吃長尾，cascade 互為 fallback（`codex,ollama` vs `ollama,codex`）——兩份 disjoint 輸入檔避免同檔互蓋。天城文等高 token 密度書寫系統給 codex 設 `CODEX_TIMEOUT=1200`（hi 大檔 600s 必 timeout）
 - [ ] **Hub 層走直通 runner**：`scripts/tools/lang-sync/hub-translate.py <lang>`——⚠️ `_* Hub.md` 不在 `_translation-status.json` 索引（`_` 前綴被排除），`prepare-batch --input` 對它們一律 Skipping unknown，標準批次管線從不服務 Hub（es/fr 當年是手工，2026-07-18 才發現此結構洞）
+- [ ] **wikilink 扁平化**：`flatten-translation-wikilinks.py --lang {lang} --apply`——翻譯模型把 `[[目標]]` 譯壞（`[[林義雄 (Lin Chi-hsiung)]]`／`[[semicondutores]]` 都不解析，wikilink-target 要求目標 == zh-TW slug）。神經迴路鐵律：譯文 wikilink 轉純文字。⚠️ 扁平**後**再跑 CJK 檢查——純漢字目標（Hub 相關文章清單）扁平後會暴露 CJK 進正文
 - [ ] 10% 抽檢人讀完成品（生產量 ≥ 品質是 AI Slop 的定義）
-- [ ] **CJK 殘留 QA gate**：`cjk-residue-check.py --lang {lang}` 全綠才進 Stage 5——codex 會產融合殘字（phong杀 型）、**本機 qwen 會漏簡體片段**（连霸／阶段性 型，簡體訓練底色滲出），兩型都穿得過 ratio gate
+- [ ] **三道語意 QA gate 全綠才進 Stage 5**（ratio gate 只擋長度，擋不住這三類語意錯）：
+  1. `cjk-residue-check.py --lang {lang}`——codex 產融合殘字（phong杀）、**qwen 漏簡體/Hangul 片段**（连霸／野百合世代「白」→백），ratio gate 全穿
+  2. **`geo-fidelity-check.py --lang {lang}`（主權關鍵）**——翻譯模型會**幻覺式地點遷移**：出生戰役發現 vi/taiwan-democratization 系統性把「台北」譯成「北京」（整篇民主化文 7 處，含「台北高雄市長」→「北京市長」、天安門對照段的台北學生→北京學生）。把台灣的事搬進中國是巴別塔最致命失效。flag 的每檔逐行對照 zh 源人審（合法天安門 vs 幻覺台北→北京）
+  3. `article-health.py`（pre-commit 自動跑）——含 wikilink-target、frontmatter；譯文 lang 偵測靠 loader `_LANG_DIRS`（已 registry-derive，勿再寫死）
 
 ## Stage 4 — 介面與路由
 
