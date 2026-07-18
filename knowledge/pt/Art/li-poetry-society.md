@@ -148,7 +148,7 @@ A razão pela qual ele escrevia poemas em taiwanês, ele explicou claramente na 
 
 Xiang Yang é atualmente presidente da Fundação Nacional de Cultura e Artes. Daquele estudante do terceiro ano que não conseguia dormir a noite toda em 1976, para a pessoa que gerencia o mecanismo de subsídio de maior valor monetário do setor artístico e cultural de Taiwan em 2024 — um arco de 50 anos.
 
-A prática multilingue interna da Sociedade Poética Li nunca foi apenas "escrita em chinês" tão simples. Jin Lian traduziu seus próprios poemas em japonês para publicação em 2002, [[杜潘芳格]] (a poetisa hakka translingual que se juntou depois) compilou _Antologia de Poemas em Taiwano_ nos anos 2000, reunindo 24 poetas[^40], Xiang Yang escreveu poemas em taiwanês em 1976 — neste contexto da sociedade poética, "nativo" sempre foi definido na tensão do multilinguismo.
+A prática multilingue interna da Sociedade Poética Li nunca foi apenas "escrita em chinês" tão simples. Jin Lian traduziu seus próprios poemas em japonês para publicação em 2002, Du Panfangge (a poetisa hakka translingual que se juntou depois) compilou _Antologia de Poemas em Taiwano_ nos anos 2000, reunindo 24 poetas[^40], Xiang Yang escreveu poemas em taiwanês em 1976 — neste contexto da sociedade poética, "nativo" sempre foi definido na tensão do multilinguismo.
 
 ## Poesia nos livros didáticos do ensino fundamental: Carga
 

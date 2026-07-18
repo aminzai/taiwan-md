@@ -67,7 +67,7 @@ A primeira fábrica de wafers de 8 polegadas da TSMC, a Fab 3, começou a subir 
 
 Computadores pessoais e celulares explodiram simultaneamente nos anos 2000, aumentando a demanda por chips. Empresas "fabless" (sem fábrica) que separavam design e fabricação (NVIDIA, Qualcomm, Broadcom) começaram a surgir. O modelo de negócios da TSMC passou de "ninguém entendia" para "indispensável".
 
-Em 2005, Chang Kun-mao se aposentou pela primeira vez, e Tsai Ing-wen assumiu a CEO. Em 9 de setembro de 2014, a Apple apresentou o iPhone 6/6 Plus, onde o chip da série Apple A foi fabricado exclusivamente pela TSMC (20 nanômetros) pela primeira vez, substituindo oficialmente a Samsung[^18]. Desde então, os processadores de cada iPhone são produzidos em Taiwan.
+Em 2005, Chang Kun-mao se aposentou pela primeira vez, e Tsai Li-hsing assumiu a CEO. Em 9 de setembro de 2014, a Apple apresentou o iPhone 6/6 Plus, onde o chip da série Apple A foi fabricado exclusivamente pela TSMC (20 nanômetros) pela primeira vez, substituindo oficialmente a Samsung[^18]. Desde então, os processadores de cada iPhone são produzidos em Taiwan.
 
 Em 2018, Chang Kun-mao se aposentou oficialmente, com Liu Ming-hwa e Wei Cerf assumindo o sistema de dupla liderança; em 2024, Liu Ming-hwa deixou o cargo, e Wei Cerf assumiu sozinho como presidente e CEO.
 
@@ -79,13 +79,13 @@ Então, a IA chegou.
 
 No início de 2009, o tsunami financeiro varreu o mundo.
 
-O então CEO, Tsai Ing-wen, demitiu 840 funcionários sob o pretexto de "desempenho insatisfatório e avaliação reprovada", evitando deliberadamente a palavra "demissão". Os demitidos formaram uma associação de autoajuda e foram protestar embaixo da casa de Chang Kun-mao em Taipei.
+O então CEO, Tsai Li-hsing, demitiu 840 funcionários sob o pretexto de "desempenho insatisfatório e avaliação reprovada", evitando deliberadamente a palavra "demissão". Os demitidos formaram uma associação de autoajuda e foram protestar embaixo da casa de Chang Kun-mao em Taipei.
 
 A esposa de Chang Kun-mao, Chang Shu-fen, não dormiu a noite toda. Na manhã seguinte, ela desceu com a segurança, comprou pessoalmente "suficiente leite de soja, bolos e frituras para 30 pessoas" e distribuiu aos funcionários que protestavam durante a noite. Os funcionários disseram à mídia mais tarde[^14]:
 
 > "Todos ficaram emocionados e decidiram cancelar a manifestação planejada na Praça da Paz e da Harmonia (Zhongshan North/South Road)."
 
-Na manhã de 11 de junho daquele ano, no conselho de administração da TSMC. Chang Kun-mao, com 78 anos, propôs remover o cargo de CEO de Tsai Ing-wen em "menos de dez minutos"[^14], voltando ao comando.
+Na manhã de 11 de junho daquele ano, no conselho de administração da TSMC. Chang Kun-mao, com 78 anos, propôs remover o cargo de CEO de Tsai Li-hsing em "menos de dez minutos"[^14], voltando ao comando.
 
 Ele explicou mais tarde o porquê[^14]:
 
@@ -205,7 +205,7 @@ O investimento em cada geração de processo excede o da anterior: uma fábrica 
 
 Em maio de 2026, o valor de mercado da TSMC é equivalente a 2,3 vezes o PIB de Taiwan. Uma empresa maior do que o valor anual de produção de todo o país — não há segundo exemplo no mundo.
 
-Chang Kun-mao já disse ao _Wall Street Journal_ que já "concluiu", descrevendo-se como um veterano, "vivo, mas gradualmente murchando"[^27]. Mas o que ele criou vai muito além de uma empresa. Ao redor da TSMC, Taiwan construiu o cluster de [[semicondutores]] mais apertado do mundo, desde equipamentos até materiais e testes de embalagem, com toda a cadeia de suprimentos num raio de 100 km. Essa densidade permite que a TSMC responda às alterações de engenharia dos clientes em 24 horas, algo que Samsung e Intel não conseguem fazer.
+Chang Kun-mao já disse ao _Wall Street Journal_ que já "concluiu", descrevendo-se como um veterano, "vivo, mas gradualmente murchando"[^27]. Mas o que ele criou vai muito além de uma empresa. Ao redor da TSMC, Taiwan construiu o cluster de semicondutores mais apertado do mundo, desde equipamentos até materiais e testes de embalagem, com toda a cadeia de suprimentos num raio de 100 km. Essa densidade permite que a TSMC responda às alterações de engenharia dos clientes em 24 horas, algo que Samsung e Intel não conseguem fazer.
 
 Em 1987, Chang Kun-mao disse que "só queria sobreviver". Trinta e oito anos depois, o mundo inteiro precisa que a TSMC sobreviva. De uma luta pela sobrevivência de uma pessoa, para a luta pela sobrevivência de uma ilha, e depois para a luta pela sobrevivência de uma civilização.
 
@@ -253,7 +253,7 @@ Este artigo usa 2 imagens, todas em cache em `public/article-images/economy/` pa
 
 [^13]: [Business Weekly Excerpt: Revealing the Origin of TSMC Founding — Chang Kun-mao I Have an Appointment with Fate](https://www.businessweekly.com.tw/business/blog/3017310) — Excerto da autobiografia em dois volumes de Chang Kun-mao da Business Weekly chinesa em novembro de 2024, registrando o trecho _verbatim_ em chinês da proposta de 14 dias "Common Wafer Fab" no gabinete de Li Kuo-ting em 04/09/1985, estrutura de capital de fundação de 1987 (Philips 27,5% / Executivo Yuan 48,3% / Wang Yung-ching 5%), e lemas _verbatim_ "não promessa fácil aos clientes" + "não competir com os clientes".
 
-[^14]: [Business Today: Why Chang Kun-mao Retook TSMC CEO 16 Years Ago](https://www.businesstoday.com.tw/article/category/183015/post/202502030032/) — Relatório profundo da Business Today chinesa em fevereiro de 2025, registrando o evento de 2009 onde Tsai Ing-wen demitiu 840 funcionários, a história do leite de soja embaixo da casa, a substituição _verbatim_ em "menos de dez minutos" no conselho de administração de 11 de junho, e a explicação _verbatim_ do princípio "não demitir as pessoas" por Chang Kun-mao.
+[^14]: [Business Today: Why Chang Kun-mao Retook TSMC CEO 16 Years Ago](https://www.businesstoday.com.tw/article/category/183015/post/202502030032/) — Relatório profundo da Business Today chinesa em fevereiro de 2025, registrando o evento de 2009 onde Tsai Li-hsing demitiu 840 funcionários, a história do leite de soja embaixo da casa, a substituição _verbatim_ em "menos de dez minutos" no conselho de administração de 11 de junho, e a explicação _verbatim_ do princípio "não demitir as pessoas" por Chang Kun-mao.
 
 [^15]: [Wikipedia: Chang Kun-mao](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80) — Artigo da Wikipédia sobre Chang Kun-mao, registrando nascimento em Ningbo em 1931, moradia em seis cidades (Ningbo/Nanquim/Guangzhou/Hong Kong/Chongqing/Xangai) antes dos 18 anos, 10 escolas trocadas, e vida pregressa estudando nos EUA em 1949.
 

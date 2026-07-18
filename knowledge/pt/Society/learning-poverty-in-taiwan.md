@@ -128,7 +128,7 @@ O design desse sistema não tem problemas. Os desafios na implementação são:
 
 É por isso que algumas escolas rurais com recursos estão começando a tentar intervenções mais estruturais [^14]: **leitura em níveis** (aulas agrupadas pela capacidade real de leitura, não pela série), **aprendizagem inter-séries** (concentrando estudantes atrasados de diferentes séries em uma turma), **acompanhamento pós-escolar** (integrando ONGs para fornecer pessoal de acompanhamento estável e de longo prazo). Essas práticas são corretas na pedagogia, mas difíceis na administração: as escolas em Taiwan são organizadas por série, e o currículo inter-série requer uma grande coordenação de pessoal, enquanto as escolas rurais já têm poucos recursos administrativos.
 
-[[偏遠地區學校教育發展條例全解]] (Artigo 11) permite que escolas rurais formem turmas mistas por idade, e o Artigo 16 autoriza a cooperação de cinco partes. Essas duas disposições já deixaram espaço para a reforma estrutural do ensino de recuperação. Mas as ferramentas do regulamento precisam ser usadas por alguém, e usá-las requer coordenação intensiva entre escolas, bureaus de educação, ONGs, universidades e pais.
+O Regulamento de Desenvolvimento Escolar em Áreas Remotas (Artigo 11) permite que escolas rurais formem turmas mistas por idade, e o Artigo 16 autoriza a cooperação de cinco partes. Essas duas disposições já deixaram espaço para a reforma estrutural do ensino de recuperação. Mas as ferramentas do regulamento precisam ser usadas por alguém, e usá-las requer coordenação intensiva entre escolas, bureaus de educação, ONGs, universidades e pais.
 
 ## O TFT Torna Isso a Visão para 2030
 
@@ -142,7 +142,7 @@ Em 2024, o TFT (Teach For Taiwan) lançou o Roteiro Estratégico 2030, propondo 
 
 O framework 3A do TFT [^15] (Access / Achievement / Aspiration) coloca a pobreza de aprendizagem no segundo A (Achievement / Conquista). Access é "ter oportunidade de entrar na escola"; Achievement é "realmente aprender as competências-chave". A pobreza de aprendizagem é a descrição precisa de "Access foi alcançado, mas Achievement não".
 
-A observação do TFT no local rural é consistente com a da Fundação Boyou: **o que mais se precisa não é de materiais didáticos extras, mas de um ambiente que permita às crianças aprenderem de maneira familiar** [^16]. Esse ambiente não precisa apenas da paixão dos professores, mas do design estrutural de todo o sistema: corpo docente estável (師資) (o problema do [[一個教師的誕生：台灣師資培育制度]]), currículo completo (os artigos do [[偏遠地區學校教育發展條例全解]]), sensibilidade intercultural (o desafio do [[台灣原住民族教育與語言復振的交界]]), apoio familiar e comunitário (framework do círculo concêntrico do TFT). Cada camada precisa estar no lugar para ter a possibilidade real de reduzir a taxa de pobreza de aprendizagem.
+A observação do TFT no local rural é consistente com a da Fundação Boyou: **o que mais se precisa não é de materiais didáticos extras, mas de um ambiente que permita às crianças aprenderem de maneira familiar** [^16]. Esse ambiente não precisa apenas da paixão dos professores, mas do design estrutural de todo o sistema: corpo docente estável (師資) (o problema do 一個教師的誕生：台灣師資培育制度), currículo completo (os artigos do 偏遠地區學校教育發展條例全解), sensibilidade intercultural (o desafio do 台灣原住民族教育與語言復振的交界), apoio familiar e comunitário (framework do círculo concêntrico do TFT). Cada camada precisa estar no lugar para ter a possibilidade real de reduzir a taxa de pobreza de aprendizagem.
 
 ## Por que Esse Termo Deveria Entrar no Debate Público de Taiwan
 
@@ -156,7 +156,7 @@ A observação do TFT no local rural é consistente com a da Fundação Boyou: *
 
 ## Final: Evasão Escolar na Cadeira
 
-[[台灣偏鄉教育]] descreveu uma criança chamada A-Wei, que faltou às aulas para ajudar na loja de chá com bolhas de bolha da família; depois que o professor do TFT a recuperou, ela tirou a maior nota da turma. Essa é uma versão inspiradora da história. A pobreza de aprendizagem é outra versão:
+Educação Rural de Taiwan descreveu uma criança chamada A-Wei, que faltou às aulas para ajudar na loja de chá com bolhas de bolha da família; depois que o professor do TFT a recuperou, ela tirou a maior nota da turma. Essa é uma versão inspiradora da história. A pobreza de aprendizagem é outra versão:
 
 **O colega de A-Wei não faltou às aulas, foi à escola todos os dias pontualmente, mas quando se formou no ensino fundamental e fez o JSEC, tirou três notas C.**
 

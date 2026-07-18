@@ -1,186 +1,183 @@
 ---
-title: 'A democratização'
-description: 'Na noite de 26 de julho de 2025, um terço das circunscrições eleitorais de Taiwan apuraram votos simultaneamente; 25 processos de destituição falharam. Da Ação Pássaro Azul à declaração de mais de 1,3 milhão de assinaturas, e três rodadas de votação com 33 casos zerados, esta maior onda de destituições na história de Taiwan não destituiu ninguém, mas mediu pela primeira vez a energia de mobilização da democracia, a altura do limiar e o custo da polarização.'
-date: 2026-04-13
-category: 'pt'
+title: 'Democratização'
+description: 'Em 18 de março de 1980, diante de um tribunal militar em Kaohsiung, Shih Ming-teh abandonou sua defesa de 60 mil caracteres e passou a pedir ao juiz que o condenasse à morte. No mesmo julgamento, os jovens advogados Chen Shui-bian, Hsieh Chang-ting e Su Tseng-chang, que defendiam os réus, tornaram-se, vinte anos depois, presidentes ou primeiros-ministros. Um julgamento concebido para servir de exemplo acabou, inesperadamente, formando a geração seguinte de líderes políticos de Taiwan.'
+date: 2026-03-27
+author: 'Taiwan.md'
+category: 'History'
+subcategory: '戰後與威權'
 tags:
   [
-    'A grande destituição',
-    'Destituição',
-    'Ação Pássaro Azul',
-    'Lei Eleitoral e de Remoção',
-    'Democracia direta',
-    'Movimento cívico',
-    'Governo pequeno, parlamento grande',
+    'História',
+    'Democratização',
+    'Política',
+    'Incidente de Kaohsiung',
+    'Movimento Estudantil dos Lírios Selvagens',
   ]
-subcategory: '民主與治理'
-author: 'Taiwan.md Contributors'
-featured: true
-lastVerified: 2026-07-16
+lastVerified: 2026-03-27
 lastHumanReview: false
-readingTime: '22'
-translatedFrom: 'History/大罷免.md'
-sourceCommitSha: '6262f8c93'
-sourceContentHash: 'sha256:0bdd57229f623a95'
-sourceBodyHash: 'sha256:9d022e52199911fd'
-translatedAt: '2026-07-18T18:59:52+08:00'
+featured: true
+translatedFrom: 'History/民主化.md'
+sourceCommitSha: 'dbaf28954'
+sourceContentHash: 'sha256:0f572861e1f79f7d'
+sourceBodyHash: 'sha256:b51e57f04bd06fc2'
+translatedAt: '2026-07-19T00:08:21+08:00'
 ---
 
-# A grande destituição
+# Democratização
 
-> **Resumo em 30 segundos:** Em 18 de março de 1980, no tribunal militar de Kaohsiung, Shi Ming-de abandonou sua defesa de 60.000 palavras e mudou sua declaração, exigindo que o juiz o condenasse à morte. No mesmo julgamento, os jovens advogados que defendiam o réu — Chen Shui-bian, Hsieh Chang-ting e Su Tseng-chang — tornaram-se todos presidentes ou primeiros-ministros do Yuan Executivo vinte anos depois. Um julgamento que deveria ter servido de exemplo para intimidar outros acabou, por acidente, criando a próxima geração de líderes políticos de Taiwan.
+> **Visão geral em 30 segundos:** Em 10 de dezembro de 1979, Chen Chu, então com 29 anos, foi arrastada para um veículo policial em meio à fumaça de gás lacrimogêneo nas ruas de Kaohsiung. Na prisão, escreveu uma carta de despedida, acreditando que seria executada por fuzilamento. Quarenta anos depois, tornou-se presidente do Yuan de Controle, o mais alto órgão fiscalizador do governo de Taiwan. A democratização de Taiwan não foi um interruptor, mas um experimento que levou quarenta anos: o país passou da lei marcial mais longa do mundo — 38 anos e 56 dias — a uma das democracias mais livres da Ásia, com 93 pontos em 100 e a sexta posição mundial na avaliação de 2025 da Freedom House. Todo o processo ocorreu sem revolução sangrenta e sem golpe militar.
 
-Em 18 de março de 1980, o tribunal militar de Taiwan julgou o Caso Ilha Formosa (Meilidao). Shi Ming-de, Huang Hsin-chung, Chen Chu e Lu Hsiu-lien estavam sentados na bancada dos réus; a sala de audiências estava lotada de jornalistas internacionais, e o senador americano Ted Kennedy incluiu o caso de Shi Ming-de nos registros do Congresso.
+Em 18 de março de 1980, um tribunal militar de Taiwan começou a julgar o Incidente de Kaohsiung. No banco dos réus estavam Shih Ming-teh, Huang Hsin-chieh, Chen Chu e Annette Lu; a galeria estava lotada de jornalistas internacionais, e o senador norte-americano Ted Kennedy havia incluído o caso de Shih Ming-teh nos registros do Congresso dos Estados Unidos.
 
-O Kuomintang (KMT) originalmente pretendia realizar um julgamento público para demonstrar a legitimidade judicial. O resultado, contudo, foi o oposto do desejado.
+O Kuomintang pretendia realizar um julgamento público para demonstrar a legitimidade do sistema judicial. O resultado foi exatamente o contrário.
 
-O julgamento forneceu aos réus um palco nacional. Shi Ming-de havia preparado uma defesa de 60.000 palavras, mas, após o início da sessão, soube que a mãe de [[林義雄 (Lin Chi-hsiung)]] e um par de filhas gêmeas haviam sido assassinadas fora da prisão (o [[二二八事件 (Incidente de 28 de Fevereiro) | Caso da Mansão Lin]]). Ele abandonou a defesa no local e mudou sua declaração, exigindo que o juiz o condenasse à morte. Esta cena foi transmitida por toda a ilha através da mídia.
+O julgamento deu aos réus um palco nacional. Shih Ming-teh havia preparado uma defesa de 60 mil caracteres, mas, depois de saber durante a audiência que a mãe e as filhas gêmeas de Lin I-hsiung (林義雄) haviam sido assassinadas enquanto ele estava preso — no massacre da família Lin (二二八事件) —, abandonou a defesa naquele mesmo instante e passou a pedir ao juiz que o condenasse à morte. A cena espalhou-se por Taiwan por meio da imprensa.
 
-> 📝 **Nota da curadoria:** A consequência mais absurda do grande julgamento do Caso Ilha Formosa foi que os jovens advogados que defenderam os réus — [[陳水扁 (Chen Shui-bian)]], Hsieh Chang-ting, Su Tseng-chang e Chang Chun-hsiung — quase todos se tornaram presidentes, primeiros-ministros do Yuan Executivo ou prefeitos de cidades especiais de Taiwan dentro de vinte anos. O julgamento meticulosamente planejado pelo Kuomintang, inadvertidamente, cultivou toda uma geração de elites políticas para o movimento de oposição.
+> 📝 **Nota curatorial:** A consequência mais absurda do grande julgamento do Incidente de Kaohsiung foi que quase todos os jovens advogados de defesa — Chen Shui-bian (陳水扁), Hsieh Chang-ting, Su Tseng-chang, Chang Chun-hsiung e Yu Ching — tornaram-se, em menos de vinte anos, presidentes, primeiros-ministros ou prefeitos de municípios diretamente administrados pelo governo central. O julgamento cuidadosamente planejado pelo Kuomintang acabou formando, involuntariamente, toda uma geração da elite política do movimento de oposição.
 
-## Os 71 dias de Zheng Nan-rong
+## Os 71 dias de Cheng Nan-jung
 
-Nos dez anos seguintes ao julgamento do Caso Ilha Formosa, a sociedade de Taiwan aquecia como uma panela de água sendo lentamente aquecida. O movimento "fora do partido" (dangwai) continuava a se expandir, mas quem realmente levou a temperatura ao ponto de ebulição foi um chinês do continente chamado [[鄭南榕 (Zheng Nan-rong)]].
+Nos dez anos que se seguiram ao julgamento do Incidente de Kaohsiung, a sociedade taiwanesa parecia uma panela de água aquecida lentamente. O movimento tangwai — a oposição política que atuava “fora do partido” durante o regime de partido único — continuou a crescer, mas quem realmente levou a temperatura ao ponto de ebulição foi um waishengren, isto é, um descendente dos chineses que chegaram a Taiwan após a Segunda Guerra Mundial, chamado Cheng Nan-jung (鄭南榕).
 
-Em 10 de dezembro de 1988, Dia Internacional dos Direitos Humanos, Zheng Nan-rong publicou na íntegra no 254º número da revista _Era da Liberdade_, que ele editava, um "Projeto de Constituição da República da Formosa". Na época, isso equivalia ao crime de rebelião, passível de pena de morte.
+Em 10 de dezembro de 1988, Dia Internacional dos Direitos Humanos, Cheng publicou na íntegra um “Projeto de Constituição da República de Taiwan” na edição nº 254 da revista semanal _Freedom Era_, da qual era editor-chefe. Na época, isso equivalia ao crime de sedição, passível de pena de morte.
 
-Após receber a citação judicial, Zheng Nan-rong se trancou na redação da revista e recusou-se a comparecer. Ele disse a sua esposa, Ye Ju-lan, a sua última frase:
+Depois de receber uma intimação judicial, Cheng trancou-se na redação da revista e recusou-se a comparecer ao tribunal. Suas últimas palavras à esposa, Yeh Chu-lan, foram:
 
-**"Agora, o resto é com vocês."**
+**“O que resta agora cabe a vocês.”**
 
-Na manhã de 7 de abril de 1989, às 7h30, cerca de 200 policiais cercaram a redação da revista. Às 9h15, Zheng Nan-rong suicidou-se por autoimolação, aos 41 anos de idade. A contracapa de sua revista sempre imprimia a mesma frase: "Lutar por 100% de liberdade de expressão!"
+Às 7h30 de 7 de abril de 1989, quase duzentos policiais cercaram a redação. Às 9h15, Cheng morreu após atear fogo ao próprio corpo. Tinha apenas 41 anos. A contracapa de sua revista trazia sempre a mesma frase: “Lutar por 100% de liberdade de expressão!”
 
-Em 19 de maio, dezenas de milhares de pessoas seguiram seu caixão na chuva em direção ao Presidência Building.
+Em 19 de maio, dezenas de milhares de pessoas acompanharam seu caixão sob a chuva em direção ao Palácio Presidencial.
 
-> 📝 **Nota da curadoria:** O comandante da Unidade Tática Especial (Thunder Squad) que liderou a invasão da redação da revista era Hou Yu-i. Trinta e cinco anos depois, em 2024, ele representou o Kuomintang na corrida presidencial. A mesma pessoa, que estava do lado da violência estatal no momento mais trágico da democratização de Taiwan, concorreu ao mais alto cargo de poder dentro do sistema democrático. Este fato, por si só, é a absurdidade e a complexidade da história de Taiwan.
+> 📝 **Nota curatorial:** O comandante da unidade policial de operações especiais que liderou a invasão da redação chamava-se Hou Yu-ih. Trinta e cinco anos depois, em 2024, ele concorreu à Presidência pelo Kuomintang. A mesma pessoa esteve do lado da violência estatal em um dos episódios mais brutais da democratização de Taiwan e, depois, disputou o poder máximo dentro de um sistema democrático. Esse fato, por si só, expressa o absurdo e a complexidade da história taiwanesa.
 
-A morte de Zheng Nan-rong impulsionou diretamente a emenda do Artigo 100 do Código Penal em 1992 e a abolição do "Regulamento de Punição da Rebelião". A partir daí, o pensamento deixou de ser crime. 7 de abril foi posteriormente designado como o "Dia da Liberdade de Expressão".
+A morte de Cheng impulsionou diretamente a revisão, em 1992, do Artigo 100 do Código Penal e a revogação do Estatuto para a Punição da Rebelião. A partir de então, ideias deixaram de ser crime. Mais tarde, 7 de abril foi instituído como o “Dia da Liberdade de Expressão”.
 
-## A Lei Marcial: não é uma chave
+## O fim da lei marcial não foi um interruptor
 
-Em 14 de julho de 1987, Chiang Ching-kuo, aos 75 anos, realizou uma coletiva de imprensa no Presidência Building, anunciando que a lei marcial seria levantada na meia-noite do dia seguinte. Doze dias depois, em 27 de julho, ele convidou doze anciãos locais para o Presidência Building para tomar chá e disse uma frase que seria repetidamente citada:
+Em 14 de julho de 1987, Chiang Ching-kuo, então com 75 anos, realizou uma coletiva de imprensa no Palácio Presidencial e anunciou que a lei marcial seria suspensa à meia-noite do dia seguinte. Doze dias depois, em 27 de julho, convidou doze anciãos e notáveis locais para tomar chá no Palácio Presidencial e pronunciou uma frase que seria repetidamente citada:
 
-**"Vivi na Taiwan por quarenta anos; sou um taiwanês, e, claro, também sou um chinês."**
+**“Vivo em Taiwan há quarenta anos. Sou taiwanês e, naturalmente, também sou chinês.”**
 
-Esta frase foi posteriormente citada seletivamente em diferentes espectros políticos. Os separatistas tomaram apenas a primeira metade; os unificacionistas enfatizaram a segunda metade. Mas, no contexto de 1987, sua função era harmonizar as contradições provinciais: um líder do continente reconhecia que também era taiwanês, tentando resfriar o clima para a abertura política iminente.
+Mais tarde, diferentes campos do espectro político passaram a citar essa frase de forma seletiva. Os defensores da independência usavam apenas a primeira metade; os partidários da unificação enfatizavam a segunda. No contexto de 1987, porém, sua função era atenuar as tensões entre os diferentes grupos de origem provincial: um líder autoritário waishengren reconhecia que também era taiwanês, tentando reduzir as tensões diante da abertura política que se aproximava.
 
-Chiang Ching-kuo faleceu seis meses depois.
+Chiang morreu seis meses depois.
 
-No entanto, levantar a lei marcial não equivalia à liberdade. O governo promulgou simultaneamente a "Lei de Segurança Nacional", cujo Artigo 9º estabelecia: "As decisões dos tribunais militares sobre civis durante o período da lei marcial não podem ser apeladas ou contestadas perante o tribunal competente". Em outras palavras, as vítimas do Terror Branco foram legalmente bloqueadas de qualquer recurso.
+O fim da lei marcial, contudo, não significou liberdade. Ao mesmo tempo, o governo aprovou a Lei de Segurança Nacional, cujo Artigo 9 determinava que as sentenças impostas a civis por tribunais militares durante a lei marcial “não poderiam ser objeto de recurso ou impugnação perante o tribunal competente”. Em outras palavras, as vítimas do Terror Branco tiveram legalmente bloqueadas todas as vias de reparação.
 
-> **"Alguns estudiosos argumentam, portanto, que o ponto de partida real da democratização de Taiwan foi 1992 (emenda do Artigo 100 do Código Penal, abolição do Regulamento de Punição da Rebelião), e não o levantamento da lei marcial em 1987."**
+> **“Por essa razão, alguns estudiosos sustentam que o verdadeiro ponto de partida da democratização de Taiwan foi 1992 — com a revisão do Artigo 100 do Código Penal e a revogação do Estatuto para a Punição da Rebelião —, e não o fim da lei marcial em 1987.”**
 
-É por isso que algumas pessoas que viveram sob a lei marcial não lembram 15 de julho como um dia de êxtase, mas de confusão: podiam fazer manifestações, mas quem ousava fazer manifestações? Podiam formar partidos, mas seriam presos se o fizessem? A democracia não é uma luz que se acende ao pressionar um botão; ela exige que toda a sociedade reaprenda "como não ter medo".
+Isso também explica por que algumas pessoas que viveram sob a lei marcial não recordam o dia 15 de julho com euforia, mas com perplexidade: agora era permitido protestar, mas quem ousaria fazê-lo? Era permitido fundar partidos, mas seus integrantes seriam presos? A democracia não é uma luz que se acende ao apertar um interruptor. Ela exige que toda a sociedade reaprenda “como não ter medo”.
 
-## 6.000 Lírios-de-Névoa vs. Tiananmen
+## Seis mil lírios selvagens contra a Praça da Paz Celestial
 
-Em 16 de março de 1990, menos de nove meses após o Incidente de Tiananmen, estudantes da Universidade Nacional de Taiwan começaram uma vigília na Praça do Memorial Chiang Kai-shek. A causa era que [[李登輝 (Lee Teng-hui)]] seria reeleito presidente, mas o Congresso Nacional para a votação ainda era o "Parlamento Eterno" eleito em 1947 no continente chinês, com mais de 700 velhos representantes que nunca foram reeleitos.
+Em 16 de março de 1990, menos de nove meses depois do massacre da Praça da Paz Celestial, estudantes da Universidade Nacional de Taiwan começaram uma manifestação sentada na praça do Memorial Chiang Kai-shek. O motivo era a tentativa de reeleição de Lee Teng-hui (李登輝) à Presidência, embora a Assembleia Nacional encarregada da votação ainda fosse o chamado “Parlamento dos Dez Mil Anos”, eleito na China continental em 1947 e composto por mais de setecentos representantes idosos que jamais haviam disputado uma nova eleição.
 
-A faixa dos estudantes dizia: "Povo chinês, vocês podem suportar a opressão de 700 imperadores?"
+Uma faixa dos estudantes dizia: “Compatriotas, vocês conseguem suportar a opressão de setecentos imperadores?”
 
-Começando com uma dezena de pessoas, em seis dias o número cresceu para quase 6.000. Eles seguravam lírios-de-névoa (símbolo da flor nativa de Taiwan que representa a pureza) e apresentaram quatro demandas: dissolver o Congresso Nacional, abolir as Cláusulas Provisórias, convocar uma Conferência de Assuntos Nacionais e estabelecer um cronograma para reformas.
+O protesto começou com pouco mais de uma dezena de pessoas e, em seis dias, reuniu quase seis mil. Segurando lírios selvagens — uma flor nativa de Taiwan que simbolizava pureza —, os estudantes apresentaram quatro reivindicações: dissolver a Assembleia Nacional, abolir as Disposições Temporárias, convocar uma conferência sobre os assuntos nacionais e estabelecer um cronograma de reformas.
 
-Em 21 de março, Lee Teng-hui recebeu cinquenta representantes estudantis no Presidência Building.
+Em 21 de março, Lee recebeu cinquenta representantes estudantis no Palácio Presidencial.
 
-Este foi o espelho do fim de Tiananmen. Nove meses antes, os estudantes em Pequim receberam tanques; os estudantes em Taipei receberam a promessa do presidente. Lee Teng-hui mais tarde disse que havia ordenado "não machucar os estudantes" (segundo relatório da ETtoday em 2015).
+Foi o desfecho inverso ao da Praça da Paz Celestial. Nove meses antes, os estudantes de Pequim haviam recebido tanques; os de Taipé receberam uma promessa do presidente. Lee afirmaria mais tarde que dera a ordem de “não ferir os estudantes”, segundo uma reportagem publicada pelo ETtoday em 2015.
 
-As promessas foram cumpridas uma a uma: em maio de 1991, as Cláusulas Provisórias foram abolidas; em dezembro do mesmo ano, o Parlamento Eterno foi dissolvido; em 1992, o Yuan Legislativo foi totalmente reeleito; em 23 de março de 1996, Taiwan realizou a primeira eleição direta para presidente.
+As promessas foram cumpridas uma a uma: as Disposições Temporárias foram abolidas em maio de 1991, e o Parlamento dos Dez Mil Anos foi dissolvido em dezembro do mesmo ano; em 1992, todos os assentos do Yuan Legislativo foram submetidos a eleições; em 23 de março de 1996, Taiwan realizou sua primeira eleição presidencial direta.
 
-> 📝 **Nota da curadoria:** As trajetórias de vida dos líderes estudantis da Movimento dos Lírios-de-Névoa tornaram-se, elas mesmas, uma história da política de Taiwan: Fan Yun tornou-se uma legisladora do Partido Democrático Progressista (PDP); Lin Chia-lung tornou-se Ministro das Relações Exteriores; Luo Wen-chia tornou-se uma figura chave do PDP; Cheng Wen-tsair tornou-se prefeito de Taoyuan. Este movimento estudantil não apenas mudou o sistema, mas também definiu a personalidade política de toda uma geração.
+> 📝 **Nota curatorial:** A trajetória posterior dos líderes estudantis do Movimento dos Lírios Selvagens constitui, por si só, uma história da política taiwanesa: Fan Yun tornou-se deputada do Partido Democrático Progressista; Lin Chia-lung, ministro das Relações Exteriores; Lo Wen-jia, uma figura de destaque do partido; e Cheng Wen-tsan, prefeito de Taoyuan. O movimento estudantil não apenas transformou as instituições, mas também definiu a identidade política de toda uma geração.
 
-## Votação sob os mísseis
+## Votar sob a ameaça de mísseis
 
-Em março de 1996, véspera da primeira eleição direta para presidente de Taiwan, a China testou mísseis a 20 milhas marítimas ao largo de Keelung e a 29 milhas marítimas ao largo de Kaohsiung, paralisando 70% do tráfego comercial que passava por esses portos. O Exército de Libertação Popular também concentrou 100.000 tropas na costa.
+Em março de 1996, às vésperas da primeira eleição presidencial direta de Taiwan, a China realizou testes de mísseis a 20 milhas náuticas da costa de Keelung e a 29 milhas náuticas da costa de Kaohsiung, paralisando 70% do transporte comercial que passava pelos dois portos. Ao mesmo tempo, o Exército de Libertação Popular concentrou cem mil soldados no litoral.
 
-A intenção de Pequim era clara: dissuadir os taiwaneses de votar em Lee Teng-hui.
+A intenção de Pequim era evidente: intimidar os taiwaneses para que não votassem em Lee Teng-hui.
 
-A resposta dos Estados Unidos foi enviar dois grupos de combate de porta-aviões, o Nimitz e o Independence, a maior implantação militar dos EUA no Pacífico desde a Guerra do Vietnã.
+Os Estados Unidos responderam enviando os grupos de batalha dos porta-aviões _USS Nimitz_ e _USS Independence_, na maior mobilização militar norte-americana no Pacífico desde a Guerra do Vietnã.
 
-Em 23 de março, a participação eleitoral foi de 76,04%. Lee Teng-hui obteve 5.813.699 votos, uma taxa de 54%. Os mísseis da China não apenas não afastaram os eleitores, mas podem ter atraído cerca de 5% adicionais de votos para Lee Teng-hui, transformando uma maioria relativa em maioria absoluta.
+Em 23 de março, a participação eleitoral foi de 76,04%. Lee recebeu 5.813.699 votos, ou 54% do total. Os mísseis chineses não apenas deixaram de afastar os eleitores das urnas, como possivelmente renderam a Lee cerca de cinco pontos percentuais adicionais, transformando uma maioria relativa prevista em maioria absoluta.
 
-A intimidação meticulosamente planejada por Pequim criou o resultado que ela mais temia.
+A intimidação cuidadosamente planejada por Pequim produziu justamente o resultado que ela menos desejava.
 
-| Itemo                         | Dados                    |
-| ----------------------------- | ------------------------ |
-| Dia da votação                | 23 de março de 1996      |
-| Taxa de participação          | 76,04%                   |
-| Taxa de votos de Lee Teng-hui | 54,00% (5.813.699 votos) |
-| Peng Ming-min (PDP)           | 21,12%                   |
-| Lin Yang-kang                 | 14,90%                   |
-| Chen Lü-an                    | 9,98%                    |
+| Item                                             | Dados                    |
+| ------------------------------------------------ | ------------------------ |
+| Data da votação                                  | 23 de março de 1996      |
+| Participação eleitoral                           | 76,04%                   |
+| Votação de Lee Teng-hui                          | 54,00% (5.813.699 votos) |
+| Peng Ming-min (Partido Democrático Progressista) | 21,12%                   |
+| Lin Yang-kang                                    | 14,90%                   |
+| Chen Li-an                                       | 9,98%                    |
 
-## Três rodadas de alternância: o caráter dos perdedores
+## Três alternâncias: o caráter dos derrotados
 
-O que realmente testa a democracia não são as eleições, mas "se os perdedores estão dispostos a ir embora".
+O verdadeiro teste de uma democracia não são as eleições, mas saber “se quem perde aceita sair”.
 
-**2000:** Chen Shui-bian foi eleito com 39,3% dos votos, encerrando 55 anos de domínio do Kuomintang. Esta foi a primeira vez na sociedade de língua chinesa que o poder foi transferido pacificamente através de votos. A divisão do KMT foi crucial: Song Chu-yu concorreu como independente e levou 37% dos votos; Lien Chan obteve apenas 23%.
+**2000:** Chen Shui-bian foi eleito com 39,3% dos votos, encerrando 55 anos de governo do Kuomintang. Foi a primeira transferência pacífica de poder por meio do voto em uma sociedade de tradição cultural chinesa. A divisão do Kuomintang foi decisiva: James Soong deixou o partido, concorreu como independente e obteve 37% dos votos, enquanto Lien Chan recebeu apenas 23%.
 
-**2008:** Ma Ying-jeou derrotou Hsieh Chang-ting com 58,45%. O PDP entregou o poder pacificamente, provando que "admitir a derrota" não é uma especialidade exclusiva do Kuomintang.
+**2008:** Ma Ying-jeou derrotou Hsieh Chang-ting com 58,45% dos votos. O Partido Democrático Progressista entregou o poder pacificamente, demonstrando que “aceitar a derrota” não era uma prerrogativa do Kuomintang.
 
-**2016:** Tsai Ing-wen derrotou Ju-lung Chu com 56,12%. O Kuomintang deixou o poder pacificamente novamente.
+**2016:** Tsai Ing-wen derrotou Eric Chu com 56,12% dos votos. O Kuomintang voltou a deixar o governo pacificamente.
 
-**2024:** Lai Ching-te foi eleito com 40,05%. O PDP governou pela primeira vez sem maioria absoluta, enquanto o parlamento foi controlado pela maioria da oposição. O sistema democrático passou por mais um teste de estresse.
+**2024:** Lai Ching-te foi eleito com 40,05% dos votos. Pela primeira vez, o Partido Democrático Progressista passou a governar sem ter obtido maioria absoluta, enquanto os partidos de oposição conquistaram a maioria no Parlamento. O sistema democrático voltou a ser submetido a um teste de resistência.
 
-Em trinta anos, quatro rodadas de alternância partidária ocorreram, todas concluídas pacificamente. Sem golpes militares, sem recusa em entregar o poder, sem protestos violentos.
+Em trinta anos, houve quatro alternâncias partidárias, todas pacíficas. Não ocorreu golpe militar, recusa de transferência do poder nem protesto violento.
 
-## Por que não houve sangue?
+## Por que não houve derramamento de sangue?
 
-As revoluções na Europa Oriental derrubaram os partidos comunistas; a Primavera Árabe gerou guerras civis; a junta militar de Mianmar esmagou com violência. Por que Taiwan conseguiu uma "revolução silenciosa"?
+As revoluções do Leste Europeu derrubaram partidos comunistas, a Primavera Árabe desencadeou guerras civis e a junta militar de Mianmar reprimiu brutalmente a população. Por que Taiwan conseguiu realizar uma “revolução silenciosa”?
 
-O politólogo Samuel Huntington, em _A Terceira Onda_, classificou Taiwan como "transformação" (transformation), uma democratização de cima para baixo liderada por elites, diferente da "transformação negociada" (transplacement) da Coreia do Sul ou da "substituição" (replacement) das Filipinas.
+Em _A Terceira Onda_, o cientista político Samuel Huntington classificou Taiwan como um caso de “transformação” (_transformation_): uma democratização conduzida de cima para baixo pelas elites, diferente da “transição negociada” (_transplacement_) da Coreia do Sul ou da “substituição” (_replacement_) ocorrida nas Filipinas.
 
-Mas a escolha das elites por reformas teve razões estruturais:
+Mas a decisão das elites de promover reformas tinha causas estruturais:
 
-**O milagre econômico criou uma classe média.** Entre 1960 e 1990, o PIB per capita de Taiwan subiu de 164 dólares para 8.111 dólares. A classe média tinha muito a perder; eles queriam reformas, não revoluções.
+**O milagre econômico criou uma classe média.** Entre 1960 e 1990, o PIB per capita de Taiwan saltou de 164 para 8.111 dólares. A classe média tinha coisas demais a perder: queria reformas, não uma revolução.
 
-**O isolamento diplomático forçou o regime a buscar legitimidade.** Saída da ONU (1971), ruptura de relações com os EUA (1979), exclusão do Comitê Olímpico Internacional. O Kuomintang não podia mais usar "retomar o continente" como desculpa para governar; precisava construir uma base de apoio popular internamente em Taiwan.
+**O isolamento diplomático obrigou o regime a buscar legitimidade.** Taiwan perdeu seu assento nas Nações Unidas em 1971, rompeu relações diplomáticas com os Estados Unidos em 1979 e foi excluído do Comitê Olímpico Internacional. O Kuomintang já não podia usar a “retomada da China continental” como justificativa para governar; precisava construir uma base de apoio popular dentro de Taiwan.
 
-**A autocontenção da oposição.** Os figuras do Caso Ilha Formosa e o PDP escolheram reformas institucionais em vez de resistência violenta em momentos cruciais. A Revolução do Poder Popular das Filipinas (1986, EDSA Revolution) provou que a transferência pacífica de poder era possível; este foi um sinal importante para os reformistas de Taiwan.
+**A autocontenção da oposição.** Em momentos decisivos, as figuras ligadas ao Incidente de Kaohsiung e ao Partido Democrático Progressista escolheram promover reformas dentro do sistema, em vez da luta violenta. A Revolução do Poder Popular nas Filipinas — a Revolução EDSA de 1986 — demonstrou que uma transferência pacífica de poder era possível, um sinal importante para os reformistas de Taiwan.
 
 ## Uma democracia imperfeita
 
-A Freedom House deu a Taiwan 93 pontos em 2025 (de 100), o sexto lugar global e o segundo na Ásia (apenas atrás do Japão, com 96 pontos). O Índice de Democracia do _The Economist_ em 2024 classificou Taiwan em 12º lugar global; obteve 10 pontos (máximo) em procedimentos eleitorais e pluralismo, sendo o único país "democracia plena" na Ásia.
+Em 2025, a Freedom House atribuiu 93 pontos a Taiwan, de um máximo de 100, colocando o país na sexta posição mundial e na segunda da Ásia, atrás apenas do Japão, com 96 pontos. No Índice de Democracia de 2024 da _The Economist Intelligence Unit_, Taiwan ficou em 12º lugar no mundo e recebeu a nota máxima de 10 pontos em processo eleitoral e pluralismo, sendo o único país asiático classificado como uma “democracia plena”.
 
 Mas há fissuras por trás dos números:
 
-Durante o [[台灣白色恐怖 (Terror Branco) | Terror Branco]], estima-se que 140.000 a 200.000 pessoas foram perseguidas politicamente, e 3.000 a 4.000 foram executadas. A justiça de transição ainda está incompleta. O Artigo 9º da Lei de Segurança Nacional só foi declarado inconstitucional pelos juízes do Yuan Judicial em 2019, 32 anos após o levantamento da lei marcial.
+Durante o Terror Branco de Taiwan (台灣白色恐怖), estima-se que entre 140 mil e 200 mil pessoas tenham sofrido perseguição política e que entre 3 mil e 4 mil tenham sido executadas. A justiça de transição permanece incompleta. O Artigo 9 da Lei de Segurança Nacional só foi declarado inconstitucional pelos grandes juízes em 2019, 32 anos depois do fim da lei marcial.
 
-As fake news são o novo campo de batalha. Houve operações em larga escala de fake news nas eleições locais de 2018 e nas eleições presidenciais de 2020, muitas das quais tinham origem no exterior. O governo chinês continua tentando influenciar a formulação de políticas, a mídia e a infraestrutura democrática de Taiwan (segundo o relatório da Freedom House de 2025).
+A desinformação é o novo campo de batalha. Tanto as eleições locais de 2018 quanto a eleição presidencial de 2020 foram alvo de operações de desinformação em grande escala, muitas delas atribuídas a fontes estrangeiras. O governo chinês continua tentando influenciar a formulação de políticas, a imprensa e a infraestrutura democrática de Taiwan, segundo o relatório de 2025 da Freedom House.
 
-A polarização azul-verde diminuiu a qualidade do debate político. Leis importantes frequentemente são postas de lado ou aprovadas à força com base na posição partidária, e não na mérito da política.
+A polarização entre os campos azul e verde reduziu a qualidade do debate sobre políticas públicas. Projetos importantes são frequentemente engavetados ou aprovados à força por razões partidárias, e não por seu mérito.
 
-A democracia de Taiwan é imperfeita. Mas ela está viva.
+A democracia de Taiwan é imperfeita. Mas está viva.
 
-## A carta de despedimento de Chen Chu
+## A carta de despedida de Chen Chu
 
-Em dezembro de 1979, Chen Chu, aos 29 anos, escreveu uma carta de despedimento na prisão, preparada para ser fuzilada. Na carta, ela se despediu do povo de Taiwan.
+Em dezembro de 1979, Chen Chu, então com 29 anos, escreveu uma carta de despedida na prisão, preparando-se para ser executada por fuzilamento. Na carta, despedia-se do povo de Taiwan.
 
-Ela não foi fuzilada. Ela cumpriu seis anos de prisão, depois participou da fundação do PDP, foi secretária de Assuntos Sociais de Taipé por dois mandatos, foi presidente da Comissão de Assuntos Laborais, foi prefeita de Kaohsiung por doze anos. Em 2014, ao ser reeleita, obteve 990.000 votos, o maior número de todo o país. Em 2020, ela foi nomeada presidente do Yuan de Controle.
+Ela não foi executada. Passou seis anos na prisão e, depois de ser libertada, participou da fundação do Partido Democrático Progressista. Exerceu dois mandatos como diretora do Departamento de Bem-Estar Social de Taipé, presidiu o Conselho de Assuntos Trabalhistas e foi prefeita de Kaohsiung por doze anos. Ao ser reeleita em 2014, recebeu 990 mil votos, o maior total do país. Em 2020, foi indicada para presidir o Yuan de Controle.
 
-Da carta de despedimento à presidência do Yuan de Controle, passaram-se quarenta e um anos.
+Da carta de despedida à presidência do Yuan de Controle, passaram-se 41 anos.
 
-A mesma pessoa, a mesma ilha. A única diferença é: em 1979, em Taiwan, o pensamento era crime; em 2020, em Taiwan, o ex-presidiário político supervisionava se o governo estava cometendo crimes.
+A mesma pessoa, a mesma ilha. A única diferença é que, em Taiwan de 1979, ideias eram crime; em Taiwan de 2020, uma ex-prisioneira política fiscalizava se o governo estava cometendo crimes.
 
-Isto é o significado da democratização. Não é uma história de sucesso lisa, mas um experimento político cheio de absurdos, contradições e custos. O experimento ainda está em andamento.
+É isso que significa democratização. Não uma história inspiradora e sem arestas, mas um experimento político repleto de absurdos, contradições e custos. O experimento continua.
 
-## Fontes
+## Referências
 
-- [Agência Central de Notícias: Shi Ming-de ficou na prisão política por mais de 25 anos](https://www.cna.com.tw/news/aipl/202401150025.aspx) (fonte primária)
-- [Museu Nacional de Direitos Humanos: Chen Chu](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3536) (fonte primária)
-- [Wikipedia: Zheng Nan-rong](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%8D%97%E6%A6%95)
-- [Wikipedia: Eleição presidencial da República da China de 1996](https://zh.wikipedia.org/zh-tw/1996%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89)
-- [Freedom House: Taiwan Freedom in the World 2025](https://freedomhouse.org/country/taiwan/freedom-world/2025) (fonte primária)
+- [Agência Central de Notícias: Shih Ming-teh passou mais de 25 anos como prisioneiro político](https://www.cna.com.tw/news/aipl/202401150025.aspx) (fonte primária)
+- [Museu Nacional dos Direitos Humanos: Chen Chu](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3536) (fonte primária)
+- [Wikipédia: Cheng Nan-jung](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%8D%97%E6%A6%95)
+- [Wikipédia: eleição presidencial de 1996 da República da China (Taiwan)](https://zh.wikipedia.org/zh-tw/1996%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89)
+- [Freedom House: Taiwan, Freedom in the World 2025](https://freedomhouse.org/country/taiwan/freedom-world/2025) (fonte primária)
 - [The Economist Democracy Index 2024](https://www.eiu.com/n/campaigns/democracy-index-2024/) (fonte primária)
-- [StoryStudio: O julgamento de 18 de março de 1980 que mudou Taiwan](https://storystudio.tw/article/gushi/taiwan-calendar-of-law)
-- [Taiwan Truth and Reconciliation Commission: Artigo 9º da Lei de Segurança Nacional](https://taiwantrc.org/%E5%9C%8B%E5%AE%89%E6%B3%95%E7%AC%AC%E4%B9%9D%E6%A2%9D/)
-- [ETtoday: Lee Teng-hui ordenou não machucar os estudantes](https://www.ettoday.net/news/20150730/542648.htm)
-- [Washington Post: China Falha em Influenciar Eleição em Taiwan (1996)](https://www.washingtonpost.com/archive/politics/1996/03/24/china-fails-to-sway-election-in-taiwan/) (inglês)
-- [Samuel Huntington, _The Third Wave_, University of Oklahoma Press, 1991](https://www.jstor.org/stable/jj.7762622) (inglês, acadêmico)
+- [StoryStudio: o julgamento que mudou Taiwan em 18 de março de 1980](https://storystudio.tw/article/gushi/taiwan-calendar-of-law)
+- [Associação Taiwanesa pela Verdade e Reconciliação: Artigo 9 da Lei de Segurança Nacional](https://taiwantrc.org/%E5%9C%8B%E5%AE%89%E6%B3%95%E7%AC%AC%E4%B9%9D%E6%A2%9D/)
+- [ETtoday: Lee Teng-hui ordenou que os estudantes não fossem feridos](https://www.ettoday.net/news/20150730/542648.htm)
+- [Washington Post: China Fails to Sway Election in Taiwan (1996)](https://www.washingtonpost.com/archive/politics/1996/03/24/china-fails-to-sway-election-in-taiwan/) (em inglês)
+- [Samuel Huntington, _The Third Wave_, University of Oklahoma Press, 1991](https://www.jstor.org/stable/jj.7762622) (em inglês, acadêmico)
 
-## Tópicos relacionados
+## Temas relacionados
 
-- [Período da Lei Marcial](/history/戒嚴時期): 38 anos de governo autoritário antes da democratização
-- [[台灣白色恐怖 (Terror Branco) | Terror Branco em Taiwan]]: A história de 140.000 pessoas perseguidas politicamente
-- [[二二八事件 (Incidente de 28 de Fevereiro) | Incidente de 28 de Fevereiro]]: O ponto de partida do trauma político pós-guerra em Taiwan
-- [Eleições e Política Partidária em Taiwan](/history/台灣選舉與政黨政治): Evolução do sistema eleitoral após a democratização
-- [A grande destituição](/history/大罷免): A maior onda de destituições na história de Taiwan em 2025, um teste de estresse dos direitos diretos quarenta anos após a democratização
+- [Período da lei marcial](/history/戒嚴時期): os 38 anos de regime autoritário anteriores à democratização
+- [Terror Branco de Taiwan](/history/台灣白色恐怖): a história da perseguição política de 140 mil pessoas
+- [Incidente de 28 de Fevereiro](/history/二二八事件): o ponto de partida do trauma político de Taiwan no pós-guerra
+- [Eleições e política partidária em Taiwan](/history/台灣選舉與政黨政治): a evolução do sistema eleitoral após a democratização
+- [Grande campanha de revogação de mandatos](/history/大罷免): a maior onda de revogações de mandatos da história, ocorrida em 2025, e um teste de resistência para os direitos políticos diretos quatro décadas após a democratização

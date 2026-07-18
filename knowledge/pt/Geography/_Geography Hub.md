@@ -30,7 +30,7 @@ Quando a Placa do Mar das Filipinas e a Placa Eurasiática se encontram em Taiwa
 
 Por trás do nascer do sol e do mar de nuvens da Cordilheira Alishan está o testemunho geológico de milhões de anos de compressão entre placas; o Monte Tulan, na Cordilheira Costeira, registra, por sua vez, a complexa história da colisão de arcos insulares. Da Cabeça da Rainha em Yehliu aos desfiladeiros de mármore de Taroko, das colunas de basalto de Penghu às plataformas de abrasão marinha da Ilha Verde, o relevo e a geologia de Taiwan formam uma espécie de museu natural da Terra, expondo todas as possibilidades produzidas pelo vulcanismo, pela erosão marinha e fluvial e pelos movimentos tectônicos. Não são paisagens estáticas, mas um manual vivo da dinâmica terrestre.
 
-[[台灣島嶼地理特色與形成]] | [[台灣五大地形與地理結構]] | [[地形與地質]] | [[台灣板塊運動與地震活動]] | [[漯底山]] | [[台灣海岸地形與海洋地景]] | [[台灣溫泉地景]]
+Características e formação geográfica da ilha de Taiwan | As cinco grandes formas de relevo e estrutura geográfica de Taiwan | Relevo e geologia | Movimento das placas tectônicas e atividade sísmica de Taiwan | Monte Tadian | Topografia costeira e paisagens marinhas de Taiwan | Paisagens de fontes termais de Taiwan
 
 ## 🌊 Hidrologia e clima — um laboratório climático sobre o Trópico de Câncer
 
@@ -38,7 +38,7 @@ Taiwan apresenta uma das mais extraordinárias distribuições verticais de zona
 
 O rio Choshui transporta a água da neve e das chuvas da Cordilheira Central e deposita seus sedimentos na costa de Changhua, formando um vasto leque aluvial. O sistema do rio Tamsui, por sua vez, moldou o relevo da Bacia de Taipé e também deu origem à região metropolitana mais importante de Taiwan. Reservatórios como Shihmen, Feitsui e Tsengwen não são apenas instalações de abastecimento hídrico, mas frutos da engenhosidade com que a população taiwanesa lida com o clima de monções. Quando a monção de nordeste traz chuvas abundantes, os reservatórios armazenam água; quando tufões vindos do sul representam uma ameaça, eles regulam as cheias. Essa gestão dos recursos hídricos, sincronizada com os ritmos da natureza, expressa tanto a complexidade do ambiente geográfico de Taiwan quanto a sabedoria da adaptação humana.
 
-[[氣候]] | [[台灣河川系統與水文特色]] | [[台灣水庫與水資源管理]]
+Clima | Sistema fluvial e características hidrológicas de Taiwan | Reservatórios e gestão de recursos hídricos de Taiwan
 
 ## 🏙️ Cidades e regiões — a paisagem humana das bacias às planícies
 
@@ -46,7 +46,7 @@ A história da geografia humana de Taiwan começa pelo relevo. A formação da B
 
 O conjunto de arranha-céus em torno do Taipei 101 simboliza o processo de modernização de Taiwan, mas suas fundações profundas também refletem os desafios impostos pela geologia frágil da Bacia de Taipé. A zona da indústria petroquímica de Kaohsiung foi instalada na Planície de Pingtung para aproveitar as vantagens geográficas do terreno plano e do porto de águas profundas. Já o Parque Científico de Hsinchu beneficia-se dos recursos hídricos do rio Touchien e da topografia plana. As cidades não são apenas lugares de concentração da atividade humana, mas uma arte espacial moldada pela interação entre o ambiente geográfico e a engenhosidade humana.
 
-[[台灣都市發展與城鄉差距]] | [[城市特色與區域文化]] | [[台北101]] | [[台灣農業地景與產業分布]]
+Desenvolvimento urbano e disparidade urbano-rural de Taiwan | Características urbanas e cultura regional | Taipei 101 | Paisagens agrícolas e distribuição industrial de Taiwan
 
 ## 🚗 Transportes — uma rede que atravessa montanhas e mares
 
@@ -54,7 +54,7 @@ Construir a rede de transportes de Taiwan é como desenhar linhas sobre um quebr
 
 A construção da ferrovia de alta velocidade é outro exemplo da perfeita combinação entre a geografia de Taiwan e a tecnologia de engenharia. Para percorrer os 345 quilômetros em linha reta entre Taipé e Kaohsiung, a ferrovia segue uma rota pelas planícies ocidentais, evitando as áreas montanhosas de geologia complexa e alcançando eficiência de transporte de nível mundial. A implantação do Aeroporto Internacional de Taoyuan aproveitou as vantagens topográficas do Planalto de Linkou, enquanto a profundidade do Porto de Kaohsiung decorre da estabilidade geológica da Planície de Pingtung. Cada nó da rede de transportes de Taiwan resulta de um diálogo entre conhecimento geográfico e tecnologia de engenharia.
 
-[[台灣交通運輸網路]]
+Rede de transportes de Taiwan
 
 ## 🌿 Conservação ecológica — um tesouro biológico dos trópicos às regiões frias
 
@@ -62,7 +62,7 @@ A diversidade geográfica de Taiwan criou um prodígio de biodiversidade. Nessa 
 
 Dos ecossistemas de recifes de coral de Kenting aos campos de altitude do Yushan, das aves migratórias dos pântanos de Taijiang aos ecossistemas dos desfiladeiros de Taroko, cada tipo de relevo de Taiwan abriga comunidades biológicas singulares. A criação do sistema de parques nacionais não representa apenas uma medida de conservação ecológica, mas também uma homenagem à diversidade geográfica do país. O Parque Nacional Yangmingshan protege ecossistemas de relevo vulcânico; o Parque Nacional Taroko preserva a paisagem geológica dos desfiladeiros; o Parque Nacional Yushan conserva ecossistemas de alta montanha; e o Parque Nacional Kenting administra o ambiente costeiro tropical. Esses parques nacionais são como museus vivos da geografia de Taiwan, revelando os prodígios da vida gerados por diferentes formas de relevo e condições ambientais.
 
-[[台灣生態多樣性熱點]] | [[台灣國家風景區系統]] | [[離島與海洋文化]]
+Pontos críticos de biodiversidade de Taiwan | Sistema de áreas cênicas nacionais de Taiwan | Ilhas periféricas e cultura marítima
 
 ---
 
