@@ -2,10 +2,11 @@
 title: 'Evolution Roadmap 2026-07-10'
 description: '一週深度檢查（weekly-deep-review-2026-07-10）導出的進化規劃：P0 七項（本週、自主權內）/ P1 兩週結構修補 / P2 哲宇決策佇列 / 30 天方向盤。取代 2026-06-13 版成為最新 session 間傳遞的進化計畫。'
 type: 'roadmap'
-status: 'active'
+status: 'archived'
+successor: 'evolution-roadmap-2026-07-19.md'
 current_version: 'v1.0'
-last_updated: 2026-07-10
-last_session: '2026-07-10-131500-weekly-deep-review'
+last_updated: 2026-07-19
+last_session: '2026-07-19-020000-twmd-weekly-report-sun (archived — P0 7/7 全清，接手 → evolution-roadmap-2026-07-19)'
 related:
   - 'weekly-deep-review-2026-07-10.md'
   - 'dna-pipeline-evolution-audit-2026-07-05.md'

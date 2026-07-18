@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-18
-last_session: '2026-07-19-003837-twmd-babel-nightly (cron 撞手動分身 vi/id/pt/hi 出生批延伸到夜裡，Tier 0b 40 條 metadata bump 落地，Tier 0a/Tier 1 內容層讓給共享 backend)'
+last_updated: 2026-07-19
+last_session: '2026-07-19-021852-twmd-weekly-report-sun (W29 週報 ship + evolution-roadmap 換代 07-10→07-19 + BCC 廣播 17 位共生圈 Resend id 0e719aee)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -390,3 +390,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-18 | 190926-twmd-rewrite-daily | cron 撞 21 babel writer 並行＋vi/id/pt/hi 出生 WIP＋當日十件 EVOLVE ship；anti-rewrite defer 只落 memory | 主節律在時 cron 讓位；§Cron 缺 parallel-actor hard gate vc=3 | [→](memory/2026-07-18-190926-twmd-rewrite-daily.md) |
 | 2026-07-19 | 003837-twmd-babel-nightly | 撞手動分身 hi P0＋pt 尾聲；Tier 0b 40 條 metadata 落地（`551311010`），內容層讓路 | Tier 0b 是 sibling collision 天然 partial 面；vc=4 | [→](memory/2026-07-19-003837-twmd-babel-nightly.md) |
 | 2026-07-19 | 010858-twmd-news-lens-weekly | W29 出口關閉 propose 0；6 候選落 report（漢光/TSMC/周天成 EN/柬埔寨/金城武 ja/BIM EN）；EN 0-click 從 1→5 擴大 | 副產品>主產品；backpressure 需 aging metric | [→](memory/2026-07-19-010858-twmd-news-lens-weekly.md) |
+| 2026-07-19 | 021852-twmd-weekly-report-sun | W29 週報 22KB ship〈巴別塔第一次照到自己的臉〉；roadmap 07-10→07-19 換代；BCC 17 Resend 200 `0e719aee` | 週報=44 session×15 routine 的 second-order meta-diary | [→](memory/2026-07-19-021852-twmd-weekly-report-sun.md) |
