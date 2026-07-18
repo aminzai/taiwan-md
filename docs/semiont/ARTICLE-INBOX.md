@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
-last_updated: 2026-07-16
-last_session: '2026-07-16-205022-inbox-audit（distill 第二輪：移除 7 已完成 / KTV 轉 EVOLVE / 降 15 升 2 / opendata 誤置修正 / 分區重排 進行中→P0→收尾補完→P1→待拍板→P2→P3）'
+last_updated: 2026-07-18
+last_session: '2026-07-18-105326-manual（發票 EVOLVE finale evolve scan：新增吳百福 P0 candidate，GA4 流量第 5 但 healthScore 全榜最低）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -204,6 +204,21 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **修法方向**（給執行者，非定稿）：title 讓 "Taiwan BIM case study" 這組詞在前 60 字內出現並承諾答案；description 壓到 120-160 字，三段結構（具體場景 ~40／軌跡一句 ~40／核心張力收尾 ~40，per EDITORIAL）。REVIT_MCP 70+ stars 與「十二年因案制宜 vs 十八個月 protocol」的張力是現成的 hook，只是現在被埋在第 400 字。
   - **⚠️ Gate 揭露（不粉飾）**：進化分數 v2.0 算出 **58.2 < 60**，技術上未過 Phase 2 gate。扣分來自「品質缺陷 20%×20」與「文章年齡 10%×15」——但這兩個維度分數低的原因正是**文章寫得好且新**，而 EVOLVE 行動表對 🟠 SEO 優化 的觸發條件白紙黑字是「高曝光＋低 CTR＋**品質 OK**」（100% 命中）。公式是 rewrite 形狀的，對 SEO 型 candidate 有結構性偏誤：ROI 最高的行動類型反而最難過 gate。**未擅自改公式**（threshold 調整命中 §自主權邊界），已升 [OBSERVER-QUEUE #16](OBSERVER-QUEUE.md) 待哲宇拍板；本條依行動表觸發條件 append，gate 分數如實揭露供 maintainer 判斷。
 - **Reference**: LONGINGS §身體渴望「我的英文版品質不輸中文版」（辨識指標：美國 CTR ≥ 1%，目前 0.39%）＋ §神經迴路「英文 metadata 改一頁的 ROI 可能 = 重寫 10 篇文章」
+
+### 吳百福（安藤百福）EVOLVE — 本週全站流量第 5，健康分數卻是同榜最低
+
+- **Type**: `EVOLVE`（🔴 Rewrite——高流量 + 篇幅過短 + 對位句型密集，非單純 SEO 可解）
+- **Category**: People
+- **Path**: knowledge/People/吳百福.md
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by twmd-evolve (session 2026-07-18-105326-manual finale)
+- **Notes**:
+  - **雙源 pointer**：① GA4 7d `.ga.topArticles7d` 本文 54 views，全站排名第 5（`public/api/dashboard-analytics.json`，2026-07-18T08:17 抓）② `dashboard-articles.json` healthScore 49，是這份 GA 流量前 15 名清單裡最低分（其餘 13 篇全部 ≥ 50，多數 60-80）。流量與品質兩源獨立指向同一結論：讀者在找這篇，但文章接不住。
+  - **病灶（量測過，不是印象）**：`article-health.py` 全文僅 2,213 CJK 字（depth 門檻 4,500 的 49%，虎頭蛇尾風險）；`prose-health` 抓到 7 處「不僅是 X，更是 Y」「不只是 X，這是 Y」「並非 X，而是 Y」對位句型集中在 41 行內（§11 Tier 1 hard 級密度，命中 4 處 AI 抽象譬喻）；frontmatter 缺 `tags`（tagCount 0）與 `rationale` block；`hasReading: false`。
+  - **為什麼這篇 vs 其他**：同一份 GA 流量榜前 15 名裡，「張懸與安溥」255 views／health 70、「黃山料」93 views／health 70、「無名小站」55 views／health 60 都已經是健康分數尚可的文章，改善空間有限；「台灣BIM與營建科技」47 views／health 51 已是既有 P0 pending entry（且該篇問題定性為門面 metadata，本體內容合格，行動是 SEO 優化非 rewrite）。吳百福是這份清單裡唯一「流量進前 5、健康分數卻墊底」的交集，且篇幅實測不足一半門檻，行動類型明確落在 🔴 Rewrite（非 SEO 優化能解決）。
+  - **題材本身的潛力**：出身嘉義朴子、發明泡麵、跨台日兩國身分認同、專利買賣爭議、戰後入獄、重婚官司——材料密度高，現行 138 行版本明顯沒展開完，是典型「材料夠、篇幅不夠」的 EVOLVE 剖面。
+- **Reference**: 本次三源掃描（GA4 topArticles7d + dashboard-articles healthScore + article-health.py 逐項診斷）交叉確認，見 memory/2026-07-18-105326-manual.md。
 
 ### viz 採用率 batch — 8 篇數字密集深度文補視覺化（v3.0 審計訊號；1 篇已完成，剩 7）
 
