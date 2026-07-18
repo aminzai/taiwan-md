@@ -62,7 +62,7 @@ def check_file(trans_path: Path):
     # 紀念堂/紀念館/機場/路名 等以人名命名的地標合法（中正紀念堂 = Chiang Kai-shek
     # Memorial，zh 源用「中正」不含「蔣介石」，會誤報）
     LANDMARK = re.compile(
-        r"memorial|mausol|monument|đài tưởng niệm|aula|balai|स्मारक|"
+        r"memorial|mausol|monument|tưởng niệm|aula|balai|स्मारक|"
         r"airport|sân bay|bandara|हवाई अड्डा|統一大道|avenida|jalan|đường",
         re.I,
     )
