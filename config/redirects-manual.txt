@@ -148,3 +148,8 @@
 /es/art/fab-dao-proyecto-cien-cimas /es/art/fab-dao 301
 /ko/economy/taiwan-stock-market-and-capital-markets /ko/economy/taiwan-stock-market 301
 /fr/music/zhang-xuan-anpu /fr/music/deserts-chang-and-anpu 301
+
+# 舊 slug soundscape-of-taiwan 已於 slug 統一時改名 taiwan-soundscape，
+# 但 Google 還握著 87 次曝光/90d 的舊 URL（SC 2026-07-18 抓到，pos 9.0 全數 404）
+/en/music/soundscape-of-taiwan /en/music/taiwan-soundscape/ 301
+/en/music/soundscape-of-taiwan/ /en/music/taiwan-soundscape/ 301

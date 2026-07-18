@@ -1,6 +1,6 @@
 ---
-title: 'Taiwan Soundscape'
-description: "From garbage trucks' Für Elise to Bunun eight-part polyphony: getting to know Taiwan by ear"
+title: "Taiwan's Sound Landscape: Garbage Truck Melodies, Temple Festivals, and Bunun Polyphony"
+description: "Why do Taiwan's garbage trucks play Für Elise? A guided tour of the island's sounds — temple firecrackers, night-market calls, MRT station melodies, and Bunun eight-part polyphony."
 date: 2026-03-17
 author: 'Taiwan.md Contributors'
 category: 'Music'
@@ -8,7 +8,7 @@ subcategory: '傳統音樂'
 tags:
   [
     'soundscape',
-    'soundscape',
+    'sounds of taiwan',
     'garbage truck music',
     'temple festivals',
     'Indigenous music',
