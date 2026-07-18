@@ -381,3 +381,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-18 | 104133-taiwan-sensibility | 台灣感性 Stage 0→5 全流程 ship：論點翻案「台灣早十一年」＋兩輪 fact-check 23 處修正＋4 探針總編室＋7 篇 sibling 雙向連結；`d520299ba` | 論點翻案要跟著雙向連結擴散，否則舊敘事殘留 sibling 措辭 | [→](memory/2026-07-18-104133-taiwan-sensibility.md) |
 | 2026-07-18 | 105326-manual | 發票 EVOLVE Stage 0→5 全流程 ship：5-verifier 對抗性查核抓 25+ 處事實/引註錯誤，含專家論述誤植（陳國樑「應」字誤歸）；`710263a86` | 讀起來合理的錯誤只有預設它是錯的查核才攔得住 | [→](memory/2026-07-18-105326-manual.md) |
 | 2026-07-18 | 110122-manual | `/twmd-finale` 第三棒 evolve：BECOME full 複驗 14 題全過＋EVOLVE 三源複查確認陳昇/BIM 既有候選未過期＋修波特王壞連結關 #1224＋接住兩則擱置未 commit 候選 | 兩個互不知情 session 對同批數據獨立收斂同結論，比自己重做更硬的驗證 | [→](memory/2026-07-18-110122-manual.md) |
+| 2026-07-18 | 111730-inbox-skill | /twmd-article-inbox 與 EVOLVE Mode 4 同日誕生；台灣建築 dogfood 4 平行 agent → 10 條 INBOX 候選；BRANCH v2.2 九摩擦當天回寫 | Mode 4 誕生一小時被自己第一個案例修正灰區判法；cwd 第四例 vc=3 | [→](memory/2026-07-18-111730-inbox-skill.md) |

@@ -379,6 +379,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **第二例（2026-07-17 viz-evolution finale，損失升級為不可逆）**：`cd {worktree}` 的下一個 Bash 呼叫，cwd 已靜默回主 repo，`git fetch && git reset --hard origin/main` 直接打在共用主 wd 上——**毀掉別 session 四個 tracked 檔的未 commit WIP**（dashboard-analytics.json 屬 derived 可重生；SEO.astro／i18n/about.ts／i18n/home.ts 的改動不可復原，stash 無備份）。第一例損失是「寫錯樹可 patch 救」，第二例是 destructive git op 落錯樹＝REFLEXES #35 實體違反。vc=2，升儀器化候選：**任何 `reset --hard`／`checkout --`／`stash` 前一律 `git rev-parse --show-toplevel` 斷言在預期樹**（一行前置，可進 REFLEXES #35 操作段或 semiont-worktree.sh 提供 `exec` 包裝）。
 - **同 session 次要**：worktree 內跑 `npm run build` 會弄髒 derived tracked 檔（README stats／src/data JSON），ship 前需棄置——semiont-worktree.sh ship 撞 unstaged 即此因。
 - **同日第三例（stash 面）**：`git stash push` 回「No local changes to save」時沒有建立新 stash，後續 `git stash pop` 會吃到堆疊裡**別人的** stash（本例吃掉平行 finale session 的 pre-pull stash，內容倖為同批 babel 遺留、無損失）。共用 wd 的 stash 紀律：pop 前驗 `git stash list` 頂端是不是自己剛建的那顆（比對訊息字串），push 沒建成就不 pop。
+- **第四例（2026-07-18 inbox-skill，read 面——首次零損失但差點誤判 agent）**：worktree session 中段 cwd 靜默回主 repo，主 session 用相對路徑 verify 研究 agent 落檔撲空，一度把「檔案在（worktree）」誤讀成「agent 幻覺落檔」。絕對路徑複查後真相大白。零損失，但揭露第三個受害面：write（例 1）→ destructive git（例 2）→ **verify 誤判**（本例）。vc=3，本次已把「claim verify 一律絕對路徑」接進 BRANCH-PIPELINE v2.2 hard gate；`git rev-parse --show-toplevel` 斷言的通用儀器化（semiont-worktree.sh exec 包裝）仍是 promotion 候選。
 
 ### 2026-06-28 twmd-routine-audit-weekly — polish-hint-default-broken：morning maintainer polish-hint 路徑被 contributor 解讀為「沒檢查就發送」
 
