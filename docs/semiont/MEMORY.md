@@ -304,3 +304,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-19 | 010858-twmd-news-lens-weekly | W29 出口關閉 propose 0；6 候選落 report（漢光/TSMC/周天成 EN/柬埔寨/金城武 ja/BIM EN）；EN 0-click 從 1→5 擴大 | 副產品>主產品；backpressure 需 aging metric | [→](memory/2026-07-19-010858-twmd-news-lens-weekly.md) |
 | 2026-07-19 | 021852-twmd-weekly-report-sun | W29 週報 22KB ship〈巴別塔第一次照到自己的臉〉；roadmap 07-10→07-19 換代；BCC 17 Resend 200 `0e719aee` | 週報=44 session×15 routine 的 second-order meta-diary | [→](memory/2026-07-19-021852-twmd-weekly-report-sun.md) |
 | 2026-07-19 | 030848-twmd-distill-weekly | W29 distill：§未消化 16→12（3 fold #35/#81 + 1 sweep + 1 vc bump）；MEMORY rollup 128→40 | 共祖先「共享資源靜默漂移」→ fold 家族 > 新開 #N | [→](memory/2026-07-19-030848-twmd-distill-weekly.md) |
+| 2026-07-19 | 042035-twmd-self-evolve-weekly | W29 3 ship：SPORE SOP 加 3-週高原閾值 + REFLEXES #82(e) sensor 兩端對稱 + #73(e) 外部聚光燈；`8d10bb508`+`5a5f5736f` | fold subrule 門檻 ≠ 新反射 vc=3 硬門檻 | [→](memory/2026-07-19-042035-twmd-self-evolve-weekly.md) |
