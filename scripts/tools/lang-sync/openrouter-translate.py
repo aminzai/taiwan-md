@@ -409,6 +409,13 @@ def translate_one(article, lang, api_key, model, dry_run=False):
     if src_fns > 0 and out_fns < src_fns:
         return False, f"footnote loss ({src_fns}→{out_fns} defs) — incomplete translation, not saved"
 
+    # Frontmatter integrity gate（2026-07-18 撇號批次修復補洞：legacy 路徑裸寫是
+    # fr 99 檔 YAML 病灶持續新生的產出端缺口；canonical translate.py 已有同閘）
+    from fm_gate import frontmatter_ok
+    fm_ok, fm_reason = frontmatter_ok(result)
+    if not fm_ok:
+        return False, f"{fm_reason} — not saved"
+
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(result + "\n")
 

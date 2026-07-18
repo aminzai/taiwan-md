@@ -136,6 +136,12 @@ def translate_one(article: dict, lang: str, dry_run: bool = False) -> tuple[bool
     if result.endswith("```"):
         result = result[:-3].rstrip("\n")
 
+    # Frontmatter integrity gate（2026-07-18：legacy 路徑裸寫補洞，同 translate.py P0-3）
+    from fm_gate import frontmatter_ok
+    fm_ok, fm_reason = frontmatter_ok(result)
+    if not fm_ok:
+        return False, f"{fm_reason} — not saved"
+
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(result + "\n")
 

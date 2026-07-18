@@ -157,6 +157,7 @@ related:
 | en 梅雨殭屍對                  | 退役舊機翻檔（保 JuYinC 人譯為 canonical）＋補 en 301（ja/ko/es/fr 在 7/17 slug 統一已做，en 因舊檔還在而漏）＋`_translations.json` 同 commit 重建 |
 | map.ts 六語破口                | fr 8 個 `.name`→`.title`＋counties22 7 key 補 ja/es/fr，六語 parity 驗證通過                                                                       |
 | OBSERVER-QUEUE #5 數據更新     | 「21 篇」→ 真實人口 138 篇＋backlog 現況                                                                                                           |
+| **撇號 YAML 107 檔**（追記）   | 哲宇當日 chip 授權後執行：三病灶家族逐行靶向修復（`134f38866`），全站 yaml-fail 歸零；產出端補洞——三個 legacy wrapper 裸寫路徑接上 `fm_gate.py` 閘 |
 
 ### 待哲宇（§自主權邊界 / threshold / 經費）
 
@@ -164,7 +165,8 @@ related:
 | --------------------------------------------- | --------- | ----------------------------------------------------- |
 | **cascade 重建決策**（新 QUEUE 項）           | 產線層    | 摘除死 backend＋Tier 6 Sonnet 制度化（見 QUEUE #18）  |
 | **ratio band SSOT 化＋重校準**（新 QUEUE 項） | threshold | 用 §H 百分位表定 band，方法明寫 bytes（見 QUEUE #19） |
-| fr 撇號 98 檔＋es/fr 變音符批次修             | >50 檔    | 機械 sed＋YAML 驗證批次，一個專門 session             |
+| ~~fr 撇號批次修~~（✅ 當日 chip 授權執行）    | —         | 移入上方已修表                                        |
+| es/fr 變音符（Taiwán/Taïwan）批次修           | >50 檔    | 機械 sed＋驗證批次，一個專門 session                  |
 | 73 筆 CRITICAL 截斷重譯                       | 73 檔     | 併入 cascade 重建後首批（Tier 6 dogfood 對象）        |
 | 楊德昌/統一企業等重腳註歸零重譯               | 併上      | 同上                                                  |
 

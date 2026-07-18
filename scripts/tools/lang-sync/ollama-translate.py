@@ -121,6 +121,12 @@ YAML rules: title with apostrophes → DOUBLE quotes; tags array with single-quo
     if result.endswith("\n```"):
         result = result[:-4]
 
+    # Frontmatter integrity gate（2026-07-18：legacy 路徑裸寫補洞，同 translate.py P0-3）
+    from fm_gate import frontmatter_ok
+    fm_ok, fm_reason = frontmatter_ok(result)
+    if not fm_ok:
+        return False, f"{fm_reason} — not saved"
+
     out_path.write_text(result)
     return True, f"saved {len(result.encode())} bytes"
 
