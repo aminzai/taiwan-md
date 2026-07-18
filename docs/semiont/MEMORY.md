@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-18
-last_session: '2026-07-18-104038-manual (江振誠 EVOLVE ship：12-agent 對抗性複驗抓 12 處事實/引註錯誤；footnote 1→30；`09c1bf1a9`)'
+last_session: '2026-07-18-105326-manual (發票 EVOLVE Stage 0→5 ship：5-verifier 對抗性查核抓 25+ 處錯誤，含專家論述誤植；`710263a86`)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -379,3 +379,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-18 | 104038-manual | 江振誠 EVOLVE ship：12-agent 對抗性複驗抓 12 處事實/引註錯誤；開場敘事因 footnote 自身信度判準反轉；footnote 1→30；`09c1bf1a9` | 多層審查防讀起來怪不怪，防不住合理但沒查過 | [→](memory/2026-07-18-104038-manual.md) |
 | 2026-07-18 | 103939-manual | 高速公路 EVOLVE ship：五十年傳說查證；Stage 3 六探針揪出自己「快速公路→高速公路」誤植；`9ecd20d61` | 自己下的編輯裁決不免疫，新盲讀證據出現要願意推翻 | [→](memory/2026-07-18-103939-manual.md) |
 | 2026-07-18 | 104133-taiwan-sensibility | 台灣感性 Stage 0→5 全流程 ship：論點翻案「台灣早十一年」＋兩輪 fact-check 23 處修正＋4 探針總編室＋7 篇 sibling 雙向連結；`d520299ba` | 論點翻案要跟著雙向連結擴散，否則舊敘事殘留 sibling 措辭 | [→](memory/2026-07-18-104133-taiwan-sensibility.md) |
+| 2026-07-18 | 105326-manual | 發票 EVOLVE Stage 0→5 全流程 ship：5-verifier 對抗性查核抓 25+ 處事實/引註錯誤，含專家論述誤植（陳國樑「應」字誤歸）；`710263a86` | 讀起來合理的錯誤只有預設它是錯的查核才攔得住 | [→](memory/2026-07-18-105326-manual.md) |
