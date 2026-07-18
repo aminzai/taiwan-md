@@ -1,11 +1,11 @@
 ---
 title: 'BRANCH-PIPELINE'
-description: '知識分支分析器 v2.0 — Mode 分流 (single-article / broad-theme) + spawn N parallel agents pattern + ARTICLE-INBOX 銜接 SOP + Hard Gate Inventory'
+description: '知識分支分析器 v2.1 — Mode 分流 (single-article / broad-theme) + spawn N parallel agents pattern + ARTICLE-INBOX 銜接 SOP + Hard Gate Inventory + /twmd-article-inbox skill 入口 + 素材 intake 前處理'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.0'
-last_updated: 2026-05-23
-last_session: '2026-05-23-220053-manual'
+current_version: 'v2.1'
+last_updated: 2026-07-18
+last_session: '2026-07-18-111730-inbox-skill'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -86,19 +86,19 @@ upstream_canonical:
 
 ## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
 
-| Gate                         | 觸發 stage | 條件                    | 工具                                                               | 不過 = ?                              |
-| ---------------------------- | ---------- | ----------------------- | ------------------------------------------------------------------ | ------------------------------------- |
-| Mode 判斷對                  | Stage 0    | broad-theme 別當 single | manual scope 估算（單 session 跑得完 vs 拆 N agents）              | wrong mode = 跑不完 / 不必要 parallel |
-| 既存 article baseline check  | Stage 1    | 拆解前                  | `grep -l "$topic" knowledge/`                                      | 重複研究浪費 token                    |
-| Agent claim verify (Write)   | Stage 4    | broad-theme N agents    | `ls reports/research/...md` 每個 agent 回報的 path 主 session grep | agent hallucination silent ship       |
-| 中文 prompt verbatim         | Stage 4    | agent prompt 寫法       | manual（中文 query + 不英文回譯）                                  | 觸犯 EDITORIAL §挖引語制度紅線        |
-| 三源驗證                     | Stage 4    | 重要事實                | per agent 寫進 prompt（≥ 2-3 獨立 source）                         | REFLEXES #16 違反                     |
-| 不重複 ARTICLE-INBOX pending | Stage 5    | append 前               | `grep -l "$candidate" docs/semiont/ARTICLE-INBOX.md`               | duplicate candidate                   |
-| Candidate 含對比理由         | Stage 5    | append 前               | manual（「為什麼這篇 vs 其他」reasoning trace）                    | maintainer 看不出優先序               |
-| 連結密度當主 priority signal | Stage 3    | candidate scoring       | 計算能跟幾篇 cross-link                                            | 孤立缺口優先序虛高                    |
-| 策展 ≠ 百科                  | Stage 3    | candidate 篩選          | manual（不是所有缺口都填）                                         | 庫膨脹 + 維護成本 explode             |
-| 人物知名度門檻               | Stage 3    | People 類別 candidate   | manual（≥ 國民級知名度 / 真實重要性）                              | People 140+ 已超載                    |
-| git commit + push            | Stage 5    | 收官                    | git                                                                | 沒記錄 = 沒做                         |
+| Gate                                        | 觸發 stage | 條件                    | 工具                                                                    | 不過 = ?                              |
+| ------------------------------------------- | ---------- | ----------------------- | ----------------------------------------------------------------------- | ------------------------------------- |
+| Mode 判斷對                                 | Stage 0    | broad-theme 別當 single | manual scope 估算（單 session 跑得完 vs 拆 N agents）                   | wrong mode = 跑不完 / 不必要 parallel |
+| 既存 article baseline check                 | Stage 1    | 拆解前                  | `grep -l "$topic" knowledge/`                                           | 重複研究浪費 token                    |
+| Agent claim verify (Write)                  | Stage 4    | broad-theme N agents    | `ls reports/research/...md` 每個 agent 回報的 path 主 session grep      | agent hallucination silent ship       |
+| 中文 prompt verbatim                        | Stage 4    | agent prompt 寫法       | manual（中文 query + 不英文回譯）                                       | 觸犯 EDITORIAL §挖引語制度紅線        |
+| 三源驗證                                    | Stage 4    | 重要事實                | per agent 寫進 prompt（≥ 2-3 獨立 source）                              | REFLEXES #16 違反                     |
+| Dedup 三查（pending + DONE-LOG + baseline） | Stage 5    | append 前               | grep ARTICLE-INBOX + ARTICLE-DONE-LOG + knowledge/（v2.1 從單查升三查） | duplicate / 幽靈 candidate            |
+| Candidate 含對比理由                        | Stage 5    | append 前               | manual（「為什麼這篇 vs 其他」reasoning trace）                         | maintainer 看不出優先序               |
+| 連結密度當主 priority signal                | Stage 3    | candidate scoring       | 計算能跟幾篇 cross-link                                                 | 孤立缺口優先序虛高                    |
+| 策展 ≠ 百科                                 | Stage 3    | candidate 篩選          | manual（不是所有缺口都填）                                              | 庫膨脹 + 維護成本 explode             |
+| 人物知名度門檻                              | Stage 3    | People 類別 candidate   | manual（≥ 國民級知名度 / 真實重要性）                                   | People 140+ 已超載                    |
+| git commit + push                           | Stage 5    | 收官                    | git                                                                     | 沒記錄 = 沒做                         |
 
 ---
 
@@ -134,6 +134,14 @@ upstream_canonical:
 ---
 
 ## 觸發方式
+
+### Skill 入口（v2.1 新增）
+
+**[`/twmd-article-inbox`](../../.claude/skills/twmd-article-inbox/SKILL.md) 是本 pipeline 的正式 skill 觸發層**（2026-07-18 誕生，設計報告：[reports/design-article-inbox-evolve-mode4-2026-07-18.md](../../reports/design-article-inbox-evolve-mode4-2026-07-18.md)）。觀察者說「把 X 加進 article inbox」「/twmd-article-inbox X」時走這條。核心語意：**進 inbox 的每條 entry 都要經過本 pipeline 消化**（baseline check + 缺口分析 + 連結密度 + 對比理由），raw 主題直接塞 inbox 是反面。mode 判斷照 Stage 0，skill 殼不複寫判準。
+
+### 素材 intake 前處理（v2.1 新增）
+
+觀察者丟的不是明確主題而是**素材**（URL / 一段文字 / 半成形想法 / Issue 內文）時，Stage 0 前先做一步消化：讀素材 → 萃取 1-3 個候選 theme + 初步 candidate 雛形 → 回到 Stage 0 判 mode。這是輸入軸的前處理，不是新 mode（mode 軸留給 scope，混在一起是 REFLEXES #38 混維度）。
 
 ### Single-article mode（v1.0 既有）
 
@@ -390,27 +398,15 @@ cat reports/research/{YYYY-MM}/{theme}-2-*.md
 
 ##### 5.2 ARTICLE-INBOX candidates 萃取
 
-按 priority 排序寫進 [ARTICLE-INBOX.md](../semiont/ARTICLE-INBOX.md)，每個 candidate 標準 entry format：
+按 priority 排序寫進 [ARTICLE-INBOX.md](../semiont/ARTICLE-INBOX.md)。**Entry 格式以 [ARTICLE-INBOX §Entry Schema](../semiont/ARTICLE-INBOX.md#entry-schema) 為唯一 canonical**（v2.1 收斂：本檔原自帶一份 format 已與 schema 漂移——`Source`/`預估時間` 欄位 vs schema 的 `Requested`/`Notes`/`Reference`——per 指標 over 複寫，計數與格式只住一處）。branch analysis 產出的 candidate 額外要求：
 
-```markdown
-### {Candidate 名稱} {NEW / EVOLVE} — {一句 hook}
-
-- **Type**: `NEW` / `EVOLVE`
-- **Category**: People / History / Culture / ...
-- **Priority**: `P0` / `P1` / `P2`
-- **Status**: `pending`
-- **Source**: {YYYY-MM-DD} branch analysis — {theme} comprehensive research
-- **對比理由**（為什麼這個 candidate 比其他優先）：
-  - 連結密度：能跟 N 篇現有文章互連 (列具體 article path)
-  - SC opportunity：{有 SC 缺口 hint 嗎}
-  - 跟既有 article 的關係：{cross-link 建議}
-- **預估時間**：{S/M/L/XL}
-- **Reference**：reports/research/{YYYY-MM}/{theme}-{N}-{slug}.md §{section}
-```
+- **Requested** 欄寫 `{YYYY-MM-DD} by branch-analysis — {theme} (session {id})`
+- **Notes** 欄必含**對比理由**（為什麼這個 candidate 比其他優先）：連結密度（能跟 N 篇現有文章互連，列具體 path）+ SC opportunity（如有）+ 跟既有 article 的 cross-link 建議
+- **Reference** 欄指向 `reports/research/{YYYY-MM}/{theme}-{N}-{slug}.md §{section}`
 
 ##### 5.3 鐵律
 
-- **不重複既有 pending entry**：append 前 grep ARTICLE-INBOX 確認 candidate 不在 pending list
+- **Dedup 三查（v2.1 升級）**：append 前 grep 三處——(1) ARTICLE-INBOX pending（不重複排隊）(2) [ARTICLE-DONE-LOG](../semiont/ARTICLE-DONE-LOG.md)（已 ship 主題不重複進 inbox，這是 inbox 幽靈的上游成因）(3) knowledge/ baseline（Stage 1 已查，此處複核 candidate 名的變體拼法）
 - **連結密度當主 priority signal**：能跟 5+ 文章 cross-link 的 candidate 優先序高於孤立的冷門人物（per v1.0 §教訓「連結密度是最好的優先級指標」）
 - **人物嚴格知名度門檻**：People category 已 140+，新增人物 candidate 必過「國民級知名度 / 真實重要性」門檻
 - **策展 ≠ 百科**：不是所有缺口都填，只填「讀完會對台灣多一層理解」的（per v1.0 §教訓）
@@ -571,4 +567,6 @@ _相關：[EVOLVE-PIPELINE.md](EVOLVE-PIPELINE.md) | [MAINTAINER-PIPELINE.md](MA
 
 _v2.0 | 2026-05-23 2026-05-23-220053-manual session — Broad-theme mode + spawn N parallel agents pattern + ARTICLE-INBOX 銜接 SOP + Hard Gate Inventory + ASCII spine_
 _v2.0 改動：(1) Frontmatter v1.0 → v2.0 (2) 頂部加 ASCII spine（Mode 分流 + Stage 0-5 主流程 + 跟 EVOLVE/PEER-INGESTION/REWRITE boundary）(3) §Hard Gate Inventory 集中 table（11 gates 含 agent claim verify / 中文 prompt verbatim / 三源驗證 / 不重複 INBOX / 連結密度當主 priority）(4) Top 5 最常忘 step 提取（broad-theme mode 判斷 / agent claim verify / baseline check / 中文 verbatim 三源 / 對比理由）(5) 跨檔案職責分工 standalone table（明確跟 EVOLVE 互補 + 跟 PEER-INGESTION 邊界）(6) §Stage 0 Mode 判斷新增（single-article / broad-theme / hybrid 三 mode 判準）(7) §觸發方式 加 broad-theme mode 範例 (8) §Stage 4 mode 分流 + spawn N agents pattern + agent prompt 鐵律（中文 verbatim + 三源 + Write claim verify 7 條）+ Agent claim verify hard gate (9) §Stage 5 新增 aggregate + ARTICLE-INBOX append SOP（master report 結構 + candidate entry format + 萃取鐵律 + commit）_
+_v2.1 | 2026-07-18 inbox-skill session — /twmd-article-inbox skill 入口誕生 + 素材 intake 前處理 + dedup 單查升三查（pending + DONE-LOG + baseline）+ Stage 5.2 entry format 收斂為 ARTICLE-INBOX §Entry Schema pointer（修 v2.0 起兩處 format 漂移）。設計報告：[reports/design-article-inbox-evolve-mode4-2026-07-18.md](../../reports/design-article-inbox-evolve-mode4-2026-07-18.md)。觸發：哲宇 /goal「做一個技能，加入 article inbox 用，消化的同時執行 branch-pipeline」。_
+
 _v2.0 觸發：2026-05-23 220053-manual session 哲宇 directive「針對臺灣從以前到現在的詩人...請先幫我歸檔到 Report，然後從中萃取出所有可以開發的文章系列，放到 Article Inbox」+「用這個經驗也進化 branch-pipeline」→ 本 session spawn 4 parallel agents 跑日治/戰後第一代/笠詩社+鄉土/當代+女性+原住民+台語客語 四 era research，主 session aggregate + ARTICLE-INBOX append + commit 流程實戰。物理化「broad-theme spawn N agents」+「agent claim verify」+「ARTICLE-INBOX 銜接」成 canonical SOP，原 v1.0 只有 single-article 拆解 mode 不適用大 theme 場景。對應 REFLEXES #15「反覆浮現要儀器化」（broad-theme research 不只詩人，未來其他 theme 如「台灣科技史人物全 sweep」「台灣戰後歌曲 cluster」都用同 pattern）+ feedback_agent_writefile_hallucination 升 hard gate（agent Write claim 必驗證 file existence + 字數 + 涵蓋 count）。_
