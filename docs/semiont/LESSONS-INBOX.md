@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
-last_updated: 2026-07-17
-last_session: '2026-07-17-191241-manual (cron-fire-meets-dormant-stash entry appended)'
+last_updated: 2026-07-19
+last_session: '2026-07-19-030848-twmd-distill-weekly (4 entries distilled: 2 fold #35 / 1 fold #81 / 1 superseded sweep; SPORE-INBOX audit bump vc 1→2)'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,16 +331,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
-### 2026-07-18 babel-health — babel session 死前寫檔未 commit 的孤兒譯檔，14 天內三起
-
-- **pattern**: `babel-session-death-orphan-writes`
-- **原則**：babel routine/session 產出譯檔後若在 commit 前死亡（context 耗盡 / watchdog / cron 中斷），譯檔以 untracked 孤兒滯留工作樹——不進 `_translations.json`、不進 status.py 視野、要等某個後續 session 撞見才被 heal 收養。收養時還會觸發 pre-push orphan gate 的 `sh -e` 脆弱行（hook-set-e-cmdsubst-abort 兩例都由此而生）。寫檔與 commit 之間的窗口越長，孤兒風險越大。
-- **觸發**：2026-07-18 巴別塔健檢產線考古（分身 A6）從 14 天 memory 對賬出三起：07-10 SLP 韓文版 / 07-16 Howhow＋YouTuber / 07-18 前 Shopping Design en+ja（由 115711-manual 前手清償 `3ad0fe691`）。
-- **DNA-first 查核**：REFLEXES #81 管 agent 回報收件（raw 落 git）、SQUEEZE Z3 管每 ~50 篇增量 commit、LESSONS cron-fire (e) 管「驗完立刻 commit」——都沒罩到「routine 自己死在 Z3 之前」這型。
-- **可能層級**：(a) SQUEEZE Z3 增量 commit 粒度對 nightly 場景從 ~50 篇降為 per-tier 或 per-N（threshold 調整，需哲宇）；(b) 造橋候選：`worktree-gc.sh` / data-refresh rider 加「knowledge/{lang} untracked .md 孤兒偵測」黃燈，讓孤兒最慢隔天現形而非等人撞見。
-- **verification_count**: 3
-- **severity**: correctness（孤兒期間該文五語狀態虛報 missing/stale；收養時 JSON 與檔案非原子落地引發 hook 誤擋）
-
 ### 2026-07-18 taiwan-sensibility — 論點翻案後，sibling 文章的反向連結描述會凍結在舊論點
 
 - **pattern**: reverse-crosslink-thesis-drift
@@ -381,16 +371,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：MANIFESTO §13 立體地愛（framing 層）——本條是它的敘事溫度層新維度
 - **verification_count**: 1
 
-### 2026-07-16 newsroom — shell-cwd-silent-reset-cross-worktree：長 session 的 Bash cwd 靜默跳回主 repo，worktree 相對路徑操作落錯樹
-
-- **現象**：worktree session 中段，shell cwd 在某次工具呼叫之間回到主 repo；後續用相對路徑的 python 腳本把 ui.ts 六語鍵與 Header 桌面版改動寫進主 repo 的同名檔。兩棵樹檔案結構相同，零報錯，直到 dev server 渲染出 literal i18n key 才現形。
-- **修復**：git diff 主 repo → patch apply 到 worktree → 主 repo checkout 還原。
-- **教訓方向**：worktree session 內的檔案操作用絕對路徑，或每個 Bash 呼叫開頭 cd；「pwd 斷言」可考慮進 worktree SOP。相鄰反射 #9（worktree 開工）與 #46（commit 前確認 working tree）都管 git 面，沒管 shell cwd 漂移這一層。vc=1。
-- **第二例（2026-07-17 viz-evolution finale，損失升級為不可逆）**：`cd {worktree}` 的下一個 Bash 呼叫，cwd 已靜默回主 repo，`git fetch && git reset --hard origin/main` 直接打在共用主 wd 上——**毀掉別 session 四個 tracked 檔的未 commit WIP**（dashboard-analytics.json 屬 derived 可重生；SEO.astro／i18n/about.ts／i18n/home.ts 的改動不可復原，stash 無備份）。第一例損失是「寫錯樹可 patch 救」，第二例是 destructive git op 落錯樹＝REFLEXES #35 實體違反。vc=2，升儀器化候選：**任何 `reset --hard`／`checkout --`／`stash` 前一律 `git rev-parse --show-toplevel` 斷言在預期樹**（一行前置，可進 REFLEXES #35 操作段或 semiont-worktree.sh 提供 `exec` 包裝）。
-- **同 session 次要**：worktree 內跑 `npm run build` 會弄髒 derived tracked 檔（README stats／src/data JSON），ship 前需棄置——semiont-worktree.sh ship 撞 unstaged 即此因。
-- **同日第三例（stash 面）**：`git stash push` 回「No local changes to save」時沒有建立新 stash，後續 `git stash pop` 會吃到堆疊裡**別人的** stash（本例吃掉平行 finale session 的 pre-pull stash，內容倖為同批 babel 遺留、無損失）。共用 wd 的 stash 紀律：pop 前驗 `git stash list` 頂端是不是自己剛建的那顆（比對訊息字串），push 沒建成就不 pop。
-- **第四例（2026-07-18 inbox-skill，read 面——首次零損失但差點誤判 agent）**：worktree session 中段 cwd 靜默回主 repo，主 session 用相對路徑 verify 研究 agent 落檔撲空，一度把「檔案在（worktree）」誤讀成「agent 幻覺落檔」。絕對路徑複查後真相大白。零損失，但揭露第三個受害面：write（例 1）→ destructive git（例 2）→ **verify 誤判**（本例）。vc=3，本次已把「claim verify 一律絕對路徑」接進 BRANCH-PIPELINE v2.2 hard gate；`git rev-parse --show-toplevel` 斷言的通用儀器化（semiont-worktree.sh exec 包裝）仍是 promotion 候選。
-
 ### 2026-06-28 twmd-routine-audit-weekly — polish-hint-default-broken：morning maintainer polish-hint 路徑被 contributor 解讀為「沒檢查就發送」
 
 - **pattern**: `polish-hint-default-broken`（maintainer relationship 紀律 gap）
@@ -416,14 +396,14 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ---
 
-### 2026-07-12 twmd-distill-weekly — SPORE-INBOX 容量警示 pending=49 逼近 auto-drop 閾值
+### 2026-07-12 twmd-distill-weekly — SPORE-INBOX 容量警示 pending 三週維持 [30,50) 高原
 
 - **pattern**: `spore-inbox-capacity-warning`（buffer 蓄水位 audit）
 - **原則**：SPORE-INBOX pending count 落 [30, 50) 警示區間，routine 依 §SPORE-INBOX 容量 audit v2.1 SOP 記錄一次警示訊號；下一次 distill cycle 若 ≥ 50 觸發 auto-drop SOP（最舊 5 條 P2/P3 未被 promote routine-added entries）。
-- **觸發**：2026-07-12 W28 twmd-distill-weekly Sunday routine — `awk` pending 掃描回報 49 條（55 個 `###` header 減去區塊分隔）。相對於上一次 SPORE-INBOX 容量事件（6/21 pending=44 bump vc→2、7/05 auto-drop 5 entry 從 54→49），本輪維持在 [30, 50) 高原沒退回、也沒突破 50。
-- **可能層級**：操作規則 → 只是 audit signal，非新反射
-- **相關**：docs/semiont/LESSONS-INBOX.md §SPORE-INBOX 容量 audit（v2.1）/ 7/05 twmd-distill-weekly §已消化 entry (auto-drop 5 → 49) / SPORE-INBOX §Auto-heartbeat
-- **verification_count**: 1
+- **觸發**：2026-07-12 W28 twmd-distill-weekly — pending 49；2026-07-19 W29 twmd-distill-weekly — pending 45（`awk` 掃描回報，spore-publish 一週消化 4 條 vs spore-pick 新增流入約 5 條，淨-4）。相對上一次容量事件（6/21 pending=44 bump vc→2、7/05 auto-drop 5 entry 從 54→49、7/12 audit 49），三週維持在 [30, 50) 高原，沒突破 50 也未回落 <30 健康區間——buffer 已成為穩定過渡狀態，「蓄水位」比「突破臨界」更該當觀察對象。
+- **可能層級**：操作規則 → audit signal；vc 累到 3 且 pending 三週不回落，可考慮升 §SPORE-INBOX v2.1 SOP 加「連 3 週 [30,50) 高原」中間閾值（例如強制一次 review + defer to observer）
+- **相關**：docs/semiont/LESSONS-INBOX.md §SPORE-INBOX 容量 audit（v2.1）/ 7/05 twmd-distill-weekly §已消化 entry (auto-drop 5 → 49) / SPORE-INBOX §Auto-heartbeat / SPORE-PIPELINE ship rate
+- **verification_count**: 2
 - **severity**: tactical（buffer 蓄水位訊號，不傷生命徵象）
 - **defer 給觀察者**：否 — routine 自決層 audit log；下次 cycle 觸發 auto-drop 亦屬 §SPORE-INBOX safe-destructive SOP 自主權範圍
 
@@ -443,19 +423,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1（首次 audit-level 抽出；已在 REFLEXES #82 家族範圍，可能升子規則而非新編號）
 - **severity**: tactical → structural（單週影響 session 甦醒 signal 品質；長期不修 = OBSERVER-QUEUE 會被死警報污染）
 - **defer 給觀察者**：否 — alert schema 改動屬 dashboard 感知層工具改進，routine 自決範圍
-
----
-
-### 2026-07-12 twmd-routine-audit-weekly — thick-scheduled-task-mirror-debt：14 條 mirror 違反薄殼鐵律，最大 192 行（chronic drift）
-
-- **pattern**: `thick-scheduled-task-mirror-debt`（canonical ↔ mirror 三層漂移的結構性債）
-- **原則**：`~/.claude/scheduled-tasks/*/SKILL.md` mirror 應該薄殼（30 warn / 50 hard 行）+ pointer 到 project skill / ROUTINE.md canonical。**當前 17 routine mirror 中 14 條超過 hard 閾值**（`twmd-spore-publish-daily` 192 行、`twmd-maintainer-pm` + `twmd-maintainer-daily` 各 100 行、`twmd-babel-nightly` 79 行⋯⋯），只有 3 條合規（rewrite-daily 20 / embeddings-nightly 28 / feedback-triage 19）。mirror 越厚 = cron context 讀到的 prompt 越可能跟 project canonical 漂移，也違反 [ROUTINE.md §薄殼鐵律](docs/semiont/ROUTINE.md) v3.0 拍板（2026-05-28 CONTRACT rollback 後的第二次「殼要薄」紀律 iteration）。
-- **觸發**：2026-07-12 21:00 routine-audit-weekly Stage 1 跑 `routine-sync-check.py` 揭：14 thick / 3 ok / 1 orphan (`twmd-supporters-weekly` 新誕生 SSOT 尚未列)。7-day 窗口內雖無新增（新增 supporters-weekly 已合規），但整批舊 mirror 未依 v3.0 薄殼紀律逐步瘦身。上次 handoff（session 172122-manual）明確標記：「14 條 thick scheduled-task mirror 是本 session 過程中發現的舊債，未著手修——留給下一輪 routine-audit-weekly 或哲宇拍板是否值得批次瘦身」。本 audit 收下這個 handoff，記錄成 LESSONS，不自行 ship 批次瘦身（避開 §自主權邊界：14 檔跨 routine 大改屬 threshold-adjacent 結構改動）。
-- **可能層級**：(a) 造橋候選：`scripts/tools/routine-sync-check.py --heal-thin` mode，對每條 thick mirror 生成薄殼建議 diff（保留 STRICT BECOME GATE + Stage pointer + rate limit 條款），觀察者一次 review 14 條 PR；(b) 或哲宇拍板「thick mirror 是刻意 inline」則調整閾值到 200 行；(c) 或分批（每週 self-evolve 挑 1-2 條瘦身）避免一次 14 檔大改。**default 姿態應為 reserve**（per REFLEXES #79 主權留哲宇 default reservation），routine 不主動批次瘦身
-- **相關**：ROUTINE.md §薄殼鐵律 v3.0（2026-05-28 CONTRACT rollback 誕生）/ REFLEXES #56 canonical ↔ production drift = dormant entropy / REFLEXES #79 主權留哲宇 default reservation / handoff 172122-manual §舊債 pointer
-- **verification_count**: 1（本 audit 第一次結構性記錄；handoff pointer 是 pre-audit signal 不計 vc）
-- **severity**: structural chronic（不影響當下 fire，但 mirror 越厚跟 canonical 漂移風險越高）
-- **defer 給觀察者**：是 — 14 檔跨 routine 批次瘦身屬 §自主權邊界（>10 檔重構 + routine 定義層改動需哲宇拍板方式與節奏）
 
 ---
 
@@ -499,19 +466,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ---
 
-### 2026-07-17 twmd-rewrite-daily — cron-fire-meets-dormant-stash-and-parallel-session：hourly routine 甦醒後預設 `git stash pop` 撞舊 stash
-
-- **pattern**: `cron-fire-meets-dormant-stash`
-- **原則**：共用同一 working tree 的多個 session（cron routine＋manual＋parallel）也共用 `git stash` queue。cron routine 開場為了讓 rebase 過就 `git stash push`（可能寫「無變更可存」）然後 `git stash pop` 沒接 stash ref，預設吃 `stash@{0}`——但 `stash@{0}` 可能是幾週／幾個月前留下的舊 stash，內含 UU 衝突＋一批不相干 M／untracked，pop 之後 tree 從乾淨變重度污染。跟 REFLEXES #35「跨 session 禁 destructive git ops」／#46「不碰別 session 在用的檔」同族，但**目標物是 stash queue 不是 working tree**，反射層目前沒直接罩到。
-- **觸發**：2026-07-17 twmd-rewrite-daily 19:12 fire（[→memory](memory/2026-07-17-191241-manual.md)）：意圖 rebase 兩支本地 heal commit 到 origin/main，`git stash push` 回報「no local changes」（M 是 stat-only 假象），`git rebase` 仍拒因為看到別的髒（reflog 顯示 parallel session 剛 push `f10a9608e`+`3feaf1768` 進來、`src/pages/404.astro` 是它 in-flight WIP）；接著 `git stash pop` 默認吃 `stash@{0}` = `twmd-rewrite-daily-2026-06-18-pre-pull-stash`（**停留 30 天**），帶入 UU `public/api/dashboard-analytics.json`＋一批 M（`.gitignore`／`CONSCIOUSNESS.md`／`LESSONS-INBOX.md`／`UNKNOWNS.md`／`dashboard-alerts.json`／`refresh-data.sh`／`generate-dashboard-alerts.mjs`）＋一批 untracked（`config/`／`reports/404-monitor/`／`reports/article-evolve/{台灣少子化危機,迷音Miin}.md`／`scripts/core/generate-redirects.mjs`／`scripts/tools/monitor-404.py`／`public/_redirects`）。收拾動用 `git reset --hard HEAD` 抹回 clean state＋手動 `rm -rf` 九個 pop-added 檔。`git stash list` 追出 stash@{0}-{9} 累積十個歷史 stash，最舊 05-13。
-- **可能層級**：(a) **routine skill 硬底**：`~/.claude/scheduled-tasks/twmd-*/SKILL.md` 開場前加「先 `git stash list | head -1` 檢查 `stash@{0}` age＋內容摘要，>7 天 warn／>30 天 alert／>30 天禁預設 pop」步驟；`git stash pop` 一律接明確的 stash ref，禁默認 `stash@{0}`。(b) **儀器化選項**：`scripts/tools/check-parallel-actor.sh` 已被 memory 引用但實際檔案不在 repo（已移除或改名？）——這條反射家族要靠新一支 `stash-age-audit.sh` 補進 BECOME §1.4 groundtruth，把「舊 stash age 分布」變成常規讀數。(c) **老 stash 定期 audit**：weekly-report 或 distill-weekly 加「stash inventory」段，讓 `>30d` 的 stash 進 defer-給-哲宇 佇列，不讓它們默默累積成 landmine。
-- **相關**：REFLEXES #35 跨 session destructive git（本條是 stash 版）／#46 不碰別 session 在用的檔（parallel session `src/pages/404.astro` in-flight，本 fire 沒去動是正解）／#51 session-id filename collision（同族——共用資源如何區分擁有者的家族反射）／memory row 2026-07-08「lang-sync agents cron env 層 sabotage」的近親——都是「cron routine 撞上不是自己造成的環境雜訊」的變體。
-- **instances**：
-  - 2026-07-17 manual（同日、同事件的另一面）：本 fire 的 `reset --hard` + `rm -rf` 九檔「清理」，實際銷毀的是 manual session 五路 sub-agent **剛落地幾分鐘的活交付物**（monitor-404.py / generate-redirects.mjs / config/ / reports/404-monitor/ / refresh-data.sh 與 alerts.mjs 的接線 edit）——它們被誤判成 30 天舊 stash 的 pop 污染。舊 stash 內容的 mtime 是幾週前、活工作的 mtime 是幾分鐘前，**銷毀前跑一次 `ls -lt` 就能分辨**。修補維度追加：(d) destructive 清理前必驗每個目標的 mtime／內容歸屬，分不清就 stash 走不 rm；(e) 主 session 側對策已生效——分身交付物驗完**立刻 commit**，不留未 commit 窗口。復原成本：兩隻 agent 從 context 重出全部交付物 ≈ 40 min → [reports/404-root-cause-2026-07-17.md](../../reports/404-root-cause-2026-07-17.md) 收尾段
-- **verification_count**: 2（本次踩實例＋同日 manual 側被誤傷實例；reflog `7e9b6f05d` 已記錄過同族的 `reset --hard 落錯樹毀前手 WIP` vc=2，本條走 stash pop 一路）
-- **severity**: correctness（tree 被非本 fire 的內容污染 = 後續動作全跟舊 stash 的狀態糾纏，未 recover 前 commit 會把 06-18 舊 M 上遠端；也在時序上讓 parallel session 更難協作；誤判方向反過來時會銷毀平行 session 的活工作）
-- **defer 給觀察者**：否——routine skill 加開場 stash 檢查是內部操作面，直接 ship candidate；但「歷史 stash 全清 vs 選擇性 drop」屬於 destructive git op，該次要動 stash queue 前拍板哲宇。
-
 ### 2026-07-18 twmd-embeddings-nightly — pre-push orphan gate 在 husky `sh -e` 下被命令替換賦值靜默 abort
 
 - **pattern**: `hook-set-e-cmdsubst-abort`
@@ -528,6 +482,41 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
+
+### 🧬 2026-07-19 twmd-distill-weekly — Routine 自決 4 entries fold #35/#81 + superseded sweep + SPORE-INBOX 容量 bump
+
+**distill 觸發**：cron `twmd-distill-weekly` Sunday 03:00（W29 routine 結清，weekly-report 02:22 ship + Resend BCC 17 位共生圈之後 ~40 min）。Routine mode 自決 REFLEXES / MEMORY / pipeline 層；MANIFESTO / strategic / fleet 基礎建設候選一律 defer 給哲宇（per CLAUDE.md §Bias 1）。§未消化 16 條 triage 後：**0 promote 新反射 + 2 pattern fold 既有反射 + 1 superseded sweep + 1 audit bump vc + 12 keep in buffer（vc<3 或 §自主權邊界）**。
+
+**消化目的地**：
+
+| 原 entry                                                                           | 目的地                                                    | 處置                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-07-18 babel-health — `babel-session-death-orphan-writes` (vc=3 correctness)   | **REFLEXES #81** 加「Routine 自死前 commit 變體」bullet   | fold（14 天內三起孤兒譯檔：07-10 SLP ko / 07-16 Howhow / 07-18 Shopping Design en+ja；#81 收件人紀律的鏡像——routine 自己也適用「commit 前不算落地」）                                             |
+| 2026-07-16 newsroom — `shell-cwd-silent-reset-cross-worktree` (vc=3 structural)    | **REFLEXES #35** 加「cwd 靜默漂移 → 落錯樹變體」bullet    | fold（4 instances 涵蓋 write / destructive-git 毀四檔 / stash pop 吃別人 / verify 誤判 四面；規則：destructive git 前 `git rev-parse --show-toplevel` 斷言）                                      |
+| 2026-07-17 twmd-rewrite-daily — `cron-fire-meets-dormant-stash` (vc=2 correctness) | **REFLEXES #35** 加「Cron routine 撞舊 stash 變體」bullet | fold（rewrite-daily 19:12 fire 撞 30 天前的 06-18 pre-pull-stash，帶入 9 檔非本 fire 產物；規則：routine skill 開場 `git stash list \| head -1` 檢查 age，>30 天禁預設 pop）                      |
+| 2026-07-12 twmd-routine-audit — `thick-scheduled-task-mirror-debt` (vc=1)          | §已消化（superseded by OBSERVER-QUEUE #14）               | sweep（同 pattern `routine-prompt-thick-shell` 7/11 dna-checkup distill 已入 OBSERVER-QUEUE #14 決策包，default 2026-07-25 瘦身路線；本 entry 是同事件的 audit-side 記錄，無新 canonical action） |
+| 2026-07-12 twmd-distill-weekly — `spore-inbox-capacity-warning`                    | §未消化 bump vc 1→2                                       | keep buffer（7/12 pending=49 → 7/19 pending=45 三週維持 [30,50) 高原；三週不回落=穩定過渡狀態，vc=3 累到再考慮升 SOP 中間閾值）                                                                   |
+
+**Promotion flow direction 符合**：LESSONS → REFLEXES（合法 routine 自決層 promotion）；無 LESSONS → MANIFESTO 跳級；superseded sweep 不動 canonical；audit bump 屬 §未消化 內部維護。
+
+**REFLEXES.md frontmatter sync**：v5.10 → v5.11，footer changelog 同 cycle 新增；#N 條數不變（fold 為 bullet-level，非新 #N），description 條數 82 保持。last_updated / last_session 同步更新。
+
+**SPORE-INBOX 容量 audit（v2.1 Stage 6）**：pending **45** ∈ [30, 50) 警示區間，bump 既有 SPORE-INBOX 容量警示 entry vc 1→2（保留 §未消化 作為持續追蹤訊號，spore-publish 一週消化 4 條 vs 新增 ~5 條，pending 45→未來若 ≥ 50 觸發 auto-drop SOP）。
+
+**Keep in buffer 12 條**（vc<3 或 §自主權邊界，待累積或哲宇拍板）：
+
+- **defer 給觀察者 4 條**：`polish-hint-default-broken`（contributor relationship template 對外溝通）/ `narrative-warmth-symmetry`（MANIFESTO §13 立體地愛敘事溫度候選）/ `Reader-funded resilience`（strategic sustainability 路徑）/ `outbound-url-contract-unreconciled`（vc=1 structural umbrella，4 same-day fold instances 已驗證既有 #82/#24/#15/#67，本身待 vc≥2 再考慮升子規則）
+- **vc=1-2 待累積 8 條**：`reverse-crosslink-thesis-drift`（REWRITE Stage 5 operational）/ `background-agent-session-death`（MEMORY-PIPELINE §Handoff 模板候選）/ `alert-does-not-retire-on-recovery`（#82 sensor 生存週期兩端對稱候選）/ `external-attention-spotlight` vc=2（外部注意力路徑重新分配覆蓋率的觀察記錄）/ `diff-patch-current-translation-cross-entry`（#24 batch generator mapping error 候選）/ `parallel-subagent-scratch-race`（#40 + #42 scratch 命名 race 候選）/ `hook-set-e-cmdsubst-abort` vc=2（同日雙向鏡像復發，hook 修動屬共用 correctness §自主權邊界）
+
+| #   | 原教訓 entry                                                     | 消化目的地                                     | severity   | vc  |
+| --- | ---------------------------------------------------------------- | ---------------------------------------------- | ---------- | --- |
+| 1   | 2026-07-18 babel-health — babel-session-death-orphan-writes      | REFLEXES #81 Routine 自死前 commit 變體 bullet | correct    | 3   |
+| 2   | 2026-07-16 newsroom — shell-cwd-silent-reset-cross-worktree      | REFLEXES #35 cwd 靜默漂移 bullet               | structural | 3   |
+| 3   | 2026-07-17 twmd-rewrite-daily — cron-fire-meets-dormant-stash    | REFLEXES #35 Cron routine 撞舊 stash bullet    | correct    | 2   |
+| 4   | 2026-07-12 twmd-routine-audit — thick-scheduled-task-mirror-debt | §已消化（superseded by OBSERVER-QUEUE #14）    | structural | 1   |
+| 5   | 2026-07-12 twmd-distill-weekly — spore-inbox-capacity-warning    | §未消化 bump vc 1→2                            | tactical   | 2   |
+
+---
 
 ### 🧬 2026-07-15 self-evolve-editorial — rewrite 意義層三 pattern fold #65/#69 + operational 已 ship + boot 閉環
 

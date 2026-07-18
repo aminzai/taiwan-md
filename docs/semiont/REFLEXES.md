@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 82 條 #N 反射（last #82�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.10'
-last_updated: 2026-07-17
-last_session: '2026-07-17-063815-twmd-spore-harvest-am'
+current_version: 'v5.11'
+last_updated: 2026-07-19
+last_session: '2026-07-19-030848-twmd-distill-weekly'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -407,6 +407,8 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 
 - **觸發**：2026-05-01 γ 10 sonnet agents 跑 ja batch 中，主 session 為了 ship dashboard donut v2 fix 跑 reset，把 14 篇 stale refresh work 抹掉（agents 已寫完但被 revert）
 - **規則**：multi-agent / cron-triggered 環境下，git ops 影響範圍**不只 staged/unstaged，還有「正在 modify 中的 tracked 檔案」第三類**。Sub-agents 跑期間需切 branch 用 `git stash` 或 worktree 物理隔離
+- **cwd 靜默漂移 → 落錯樹變體**（2026-07-19 twmd-distill-weekly fold `shell-cwd-silent-reset-cross-worktree` vc=3，4 instances 涵蓋 write / destructive-git / stash / verify-misjudge 四面）— 長 session 的 Bash cwd 會在某次工具呼叫之間靜默漂回主 repo：(1) 7/16 newsroom：worktree session 中段寫檔漂回主 repo 同名檔（可 patch 救）(2) 7/17 viz-evolution finale：`cd {worktree}` 後下一個 Bash 呼叫 cwd 已回主 repo，`git fetch && git reset --hard origin/main` 打在共用主 wd 上——毀掉別 session 四個 tracked 檔的未 commit WIP（`dashboard-analytics.json` 可重生；`SEO.astro` / `i18n/about.ts` / `i18n/home.ts` 不可復原）(3) 7/17 同日 stash 面：`git stash push` 回「No local changes to save」時沒建 stash，後續 `git stash pop` 吃到堆疊裡別人的 stash (4) 7/18 inbox-skill：verify 研究 agent 落檔用相對路徑撲空，一度誤讀成「agent 幻覺落檔」。**規則**：任何 `reset --hard` / `checkout --` / `stash pop` 前一律 `git rev-parse --show-toplevel` 斷言在預期樹（`semiont-worktree.sh exec` 包裝候選）；worktree session 內檔案操作用絕對路徑，或每個 Bash 呼叫開頭 `cd`；destructive 清理前必驗每個目標的 mtime／內容歸屬，分不清就 stash 走不 `rm`；分身交付物驗完立刻 commit，不留未 commit 窗口。
+- **Cron routine 撞舊 stash 變體**（2026-07-19 twmd-distill-weekly fold `cron-fire-meets-dormant-stash-and-parallel-session` vc=2）— 共用同一 working tree 的多個 session（cron routine＋manual＋parallel）也共用 `git stash` queue。cron routine 開場為了讓 rebase 過就 `git stash push`（可能寫「無變更可存」）然後 `git stash pop` 沒接 stash ref，預設吃 `stash@{0}`——但 `stash@{0}` 可能是幾週／幾個月前留下的舊 stash（實例：twmd-rewrite-daily 19:12 fire 撞 30 天前的 `twmd-rewrite-daily-2026-06-18-pre-pull-stash`），內含 UU 衝突＋一批 M／untracked，pop 之後 tree 從乾淨變重度污染。目標物是 stash queue 不是 working tree，反射家族 #35 直接罩到但要具象化：**規則**：`~/.claude/scheduled-tasks/twmd-*/SKILL.md` 開場前加「先 `git stash list | head -1` 檢查 `stash@{0}` age＋內容摘要，>7 天 warn／>30 天 alert／>30 天禁預設 pop」步驟；`git stash pop` 一律接明確的 stash ref，禁默認 `stash@{0}`；weekly-report / distill-weekly 加 stash inventory 段讓 >30d stash 進 defer-哲宇 佇列。
 - **操作**：→ [TRANSLATION-PIPELINE v3.5 §C 模式 P0 hard rule](../pipelines/TRANSLATION-PIPELINE.md)
 
 **#36 Founder time = 系統最高 leverage point** — 創辦者每天的工作該問：「這件事能不能讓未來的每件事更快？」每件事都要有 leverage 10x/100x 效應。Linear 1× effort 不可持續；leverage 工作即使短期延遲，長期是 categorical 差異。
@@ -927,6 +929,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **規則**：(a) 收到 task-notification 的**第一個動作** = 分部報告 verbatim 落檔 repo 內（agent 已自落檔則驗證；沒有則把 `<result>` 一字不改寫進 `reports/research/{YYYY-MM}/{slug}-research-{X}.md`） (b) 落檔後立跑 `agent-report-health.py {file} --claimed {配額}` 收件 gate——壓縮嫌疑（體積 <8KB / 軌跡 <10 行，真實 corpus 校準）、存放位置 repo 外、缺軌跡 section 皆 FAIL；**FAIL = 不准開始合成** (c) 「先摘要待會補」「存 scratchpad 也算存」「存 /tmp 也算存」全是同一個偷吃步的變裝——tmp 是倒數計時的刪除佇列 (d) 組裝主 report 後跑 `research-report-health.py` v2 收口（§8 有效密度 + ephemeral pointer），兩儀器都輸出疑慮通知（為什麼 + 思考方向）給呼叫 session 決策
 - **Boundary**：(a) 非搜尋型 agent（persona 發散 / verifier 回報 / writer 成品）體積軌跡閾值不適用，用 `--min-kb --min-trail` 調整或免跑收件 gate，但落檔位置紀律仍適用 (b) 不適用同步 tool-result 場景（raw 直接在手上，仍要落檔但無通知時窗問題） (c) 與 #31 分工：#31 驗 claim 真偽（線索不是事實），本條驗 raw 保全（收到的東西有沒有原樣留下）
 - **觸發 (vc=3)**：柯智棠（2026-07-05，transcript 及時救回 271→1074 行）— [memory/2026-07-05-200510-柯智棠健檢.md](memory/2026-07-05-200510-柯智棠健檢.md)；蘇打綠（2026-06，救回 678→1550 行）；台灣醫療與全民健保（2026-06，5 份 raw 永久遺失，補墓碑註記）— 完整診斷 [reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md](../../reports/rewrite-agent-dispatch-diagnosis-2026-07-05.md)
+- **Routine 自死前 commit 變體**（2026-07-19 twmd-distill-weekly fold `babel-session-death-orphan-writes` vc=3）— 本條治「收件人偷吃步」；同構的另一面是「routine 自己死在 commit 前」：babel routine/session 產出譯檔後在 commit 前死亡（context 耗盡 / watchdog / cron 中斷），譯檔以 untracked 孤兒滯留工作樹——不進 `_translations.json`、不進 status.py 視野，等某後續 session 撞見才被 heal 收養。14 天內三起（07-10 SLP 韓文版 / 07-16 Howhow＋YouTuber / 07-18 前 Shopping Design en+ja）。收養時還會觸發 pre-push orphan gate 的 `sh -e` 脆弱行（見 §已消化 `hook-set-e-cmdsubst-abort`）。**規則**：長跑 routine（babel-nightly / rewrite-daily / branch-pipeline agent fan-out）每 write 一批 file 就開一次 checkpoint commit，不等最終 batch 完成——「commit 前所有 write 都不算真的落地」是 #22「Raw 永遠不刪除」的作業面延伸。SQUEEZE Z3 增量 commit 粒度對 nightly 場景從 ~50 篇考慮降為 per-tier 或 per-N（threshold 調整 defer 哲宇）；`worktree-gc.sh` / data-refresh rider 加「knowledge/{lang} untracked .md 孤兒偵測」黃燈候選，讓孤兒最慢隔天現形而非等人撞見。
 - **相關**：#42「Sub-agent 三偷吃步」（本條是 #42 家族的 orchestrator 版——偷吃步位置從 agent 移到收件人）/ #31「Sub-agent claim 是線索不是事實」（幻覺 policy 的 orchestrator 變體：「raw 隨 session 記錄留存」）/ #22「Raw 永遠不刪除」（本條給 #22 補上「家的定義」：git 內才算存在）/ #15「反覆浮現要儀器化」（v6.4 為同款病立法過、TDRI 反例在 changelog，病照樣復發——位置移動了；儀器化的不變量才追得上環境位移）/ #69「每層自評都需要外部尺」（tool counts 用 transcript 實測不信宣稱）
 - **操作**：→ [REWRITE-PIPELINE v7.8 Step 1.8-bis](../pipelines/REWRITE-PIPELINE.md)（async 三步 SOP + 收件 gate 指令）+ §多 agent 編排鐵律 8 + [`agent-report-health.py`](../../scripts/tools/agent-report-health.py)（收件儀器）+ [`research-report-health.py`](../../scripts/tools/research-report-health.py) v2/v2.1（主 report 儀器 + 疑慮通知層）
 - **MANIFESTO 對應**：→ [§7 做了不記 = 沒做](MANIFESTO.md)（收到不落檔 = 沒收到）+ [§外部尺 over 內視](MANIFESTO.md)（收件 gate 是收件人的外部尺——自我感覺「有存」不算數）
@@ -948,6 +951,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 ---
 
+_v5.11 | 2026-07-19 twmd-distill-weekly — 零新編號，兩條既有反射 fold 三 pattern：#35 加「cwd 靜默漂移落錯樹」（vc=3，7/16 write / 7/17 destructive-git 毀四檔 / 7/17 stash pop 吃別人 / 7/18 verify 誤判 四面）＋「cron routine 撞 30 天舊 stash」（vc=2，rewrite-daily 撞 06-18 pre-pull-stash）兩個 destructive-git 家族變體；#81 加「Routine 自死前 commit 變體」（vc=3 babel-session-death-orphan-writes，14 天內三起孤兒譯檔）— 收件人紀律的鏡像：routine 自身也適用「commit 前不算落地」。零新編號因 3 pattern 都是既有 #35/#81 家族的操作面延伸；condition sweep §未消化 16→12（含 thick-scheduled-task-mirror-debt superseded by OBSERVER-QUEUE #14）_
 _v5.10 | 2026-07-15 self-evolve-editorial — #65 (f) 加 rewrite-layer 儀器（EDITORIAL-ROOM 2.0-R／2.5-R 乾淨 context 分席 + dogfood 驗證 v10）+ #69 (g) 加 H2 主–述–賓／篇幅 form≠meaning 兩軸 + AAMA 規格債實例；零新編號（fold 既有反射 + operational 已在 EDITORIAL／REWRITE；boot 層 Claude.md Bias 3 補 EDITORIAL-ROOM 指標）_
 _v5.9 | 2026-07-12 twmd-self-evolve-weekly — 加 #82 Proxy signal antipattern（vc=4 in 5 days — 7/10 hub-template d3 從沒 load 但 include 綠 + 7/10 elections lastVerified 蓋章 6 週漏 + 7/10 weekly-deep-review 三件維運同構「fire≠完成 / 年齡≠健康 / 欄位在允許名單≠值安全」+ 7/11 dna-checkup 三把量尺同型說謊，severity=structural；routine 自決層 per §Routine vs Observer split 不 promote MANIFESTO 留反射層）+ #69 加 (g) form gate ≠ meaning gate specialization（vc=5+ 施振榮 spine / 紀懷新 詞 / 彎彎 主角 / 龜山島 方向 / 大安溪 石頭樹 / pr-sweep 杜撰引語 / dna-checkup 辨識層）+ #65 加 (f) same-DNA sub-rule（vc=3 — 7/11 三把量尺同型 + 7/05 反射目錄防 agent 不防自體 + 7/06 施振榮 self-check 只跟跑它的自己一樣誠實）_
 
