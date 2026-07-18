@@ -1,32 +1,32 @@
 {
-  "totalArticles": 5097,
+  "totalArticles": 5085,
   "totalCategories": 20,
-  "estimatedContributors": 66,
-  "totalTags": 6037,
+  "estimatedContributors": 339,
+  "totalTags": 6012,
   "categories": [
     {
       "name": "es",
-      "count": 845
+      "count": 843
     },
     {
       "name": "ko",
-      "count": 845
+      "count": 843
     },
     {
       "name": "fr",
-      "count": 845
+      "count": 843
     },
     {
       "name": "en",
-      "count": 860
+      "count": 858
     },
     {
       "name": "ja",
-      "count": 847
+      "count": 845
     },
     {
       "name": "History",
-      "count": 49
+      "count": 47
     },
     {
       "name": "Politics",
@@ -163,18 +163,13 @@
       "count": 22
     },
     {
-      "name": "歷史",
+      "name": "原住民",
       "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5097,
+    "zh-TW": 5085,
     "en": 0
   },
-  "lastUpdated": "2026-07-17T22:11:53.412Z",
-  "stars": 1109,
-  "forks": 166,
-  "zhPages": 853,
-  "enPages": 860,
-  "totalPages": 853
+  "lastUpdated": "2026-07-18T03:00:15.136Z"
 }

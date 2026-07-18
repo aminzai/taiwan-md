@@ -4162,24 +4162,6 @@
     "path": "ja/History/taiwan-military-dependents-villages-history.md"
   },
   {
-    "title": "台湾経済奇跡：農業社会からアジア四小龍へ",
-    "description": "1960年代から1990年代にかけて、台湾は世界的に注目される経済奇跡を達成し、農業社会から工業化国家へと転換しました。韓国、香港、シンガポールとともに「アジア四小龍」として並び称されています。",
-    "category": "ja",
-    "tags": [
-      "歴史",
-      "経済発展",
-      "経済奇跡",
-      "十大建設",
-      "アジア四小龍",
-      "工業化"
-    ],
-    "url": "https://taiwan.md/ja/history/taiwan-economic-miracle-from-agriculture-to-asian-tiger",
-    "readingTime": 25,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "ja/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger.md"
-  },
-  {
     "title": "台湾黒熊",
     "description": "胸の白いV字は彼らの署名であり、未完の保全戦の象徴でもある",
     "category": "ja",
@@ -8209,7 +8191,7 @@
       "日治"
     ],
     "url": "https://taiwan.md/art/%E5%8F%B0%E7%81%A3%E5%BB%BA%E7%AF%89",
-    "readingTime": 28,
+    "readingTime": 29,
     "featured": true,
     "date": "2026-03-28",
     "path": "Art/台灣建築.md"
@@ -9584,24 +9566,6 @@
     "path": "Art/當代藝術.md"
   },
   {
-    "title": "台灣經濟奇蹟：從農業社會到亞洲四小龍",
-    "description": "1960-1990年代台灣創造了舉世矚目的經濟奇蹟，從農業社會轉型為工業化國家，與韓國、香港、新加坡並列亞洲四小龍。",
-    "category": "History",
-    "tags": [
-      "歷史",
-      "經濟發展",
-      "經濟奇蹟",
-      "十大建設",
-      "亞洲四小龍",
-      "工業化"
-    ],
-    "url": "https://taiwan.md/history/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E5%A5%87%E8%B9%9F",
-    "readingTime": 20,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "History/台灣經濟奇蹟.md"
-  },
-  {
     "title": "台灣補習班文化：一條街的興衰，與一整個社會的焦慮帳單",
     "description": "1981年，台北南陽街擠進十萬名重考生和48家補習班。四十年後只剩三家，學生不到2,500人，一樓全變成手搖飲店。但補習班沒有消失，它搬進了每個社區的巷弄，從18,000家長成比便利商店還多的存在。教改說要鬆綁，結果補習班數量翻了三倍。",
     "category": "Society",
@@ -10254,7 +10218,7 @@
       "白色恐怖"
     ],
     "url": "https://taiwan.md/history/%E5%8F%B0%E7%81%A3%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9",
-    "readingTime": 25,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-03-31",
     "path": "History/台灣轉型正義.md"
@@ -11576,7 +11540,7 @@
   },
   {
     "title": "江振誠：他從來不等一件事被定義死，就先轉身",
-    "description": "1997 年，西華飯店一個二十出頭、不會半句法文的副主廚，跟兩位法國三星主廚共事十天，然後買了機票。從南法削兩年馬鈴薯，到把新加坡的餐廳排名推上世界第 14 隔年主動熄燈，再到台北開出最難訂的 RAW 又在第十年轉身——江振誠最不可替代的動作，是每次快被一個頭銜定義死的時候，先關燈去問下一題：台灣味到底是什麼。",
+    "description": "1997 年，西華飯店一個二十出頭的法式餐廳主廚，主動邀請兩位法國三星主廚來台客座、共事十天，然後買了機票追去法國。從南法削兩年馬鈴薯，到把新加坡的餐廳排名推上世界第 14 隔年主動熄燈，再到台北開出最難訂的 RAW 又在第十年轉身——江振誠最不可替代的動作，是每次快被一個頭銜定義死的時候，先關燈去問下一題：台灣味到底是什麼。",
     "category": "People",
     "tags": [
       "人物",
@@ -11588,7 +11552,7 @@
       "台灣"
     ],
     "url": "https://taiwan.md/people/%E6%B1%9F%E6%8C%AF%E8%AA%A0",
-    "readingTime": 57,
+    "readingTime": 61,
     "featured": true,
     "date": "2026-07-17",
     "path": "People/江振誠.md"
@@ -12091,7 +12055,7 @@
       "轉型正義"
     ],
     "url": "https://taiwan.md/history/%E6%88%92%E5%9A%B4%E6%99%82%E6%9C%9F",
-    "readingTime": 15,
+    "readingTime": 16,
     "featured": true,
     "date": "2026-03-17",
     "path": "History/戒嚴時期.md"
@@ -16502,7 +16466,7 @@
       "土地徵收"
     ],
     "url": "https://taiwan.md/lifestyle/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF",
-    "readingTime": 68,
+    "readingTime": 70,
     "featured": false,
     "date": "2026-07-18",
     "path": "Lifestyle/高速公路.md"
@@ -18589,7 +18553,7 @@
       "台灣精神"
     ],
     "url": "https://taiwan.md/technology/%E9%9B%AA%E5%B1%B1%E9%9A%A7%E9%81%93",
-    "readingTime": 25,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-04-29",
     "path": "Technology/雪山隧道.md"
@@ -19064,7 +19028,7 @@
   },
   {
     "title": "發票：1951 年那張把全民變成稅務稽查員的紙",
-    "description": "1951 年元旦，38 歲的財政廳長任顯群把抽獎號碼印上收據，讓消費者為了一張免費彩券主動替國家盯著店家報稅，一年就把營業稅收拉高七成五。七十多年後，這套設計比它的發明人活得久、比它誕生時的威權政體都活得久——直到 2024 年演算法接手決定誰會中獎，這串號碼才第一次被要求證明：它憑什麼還是公平的？",
+    "description": "1951 年元旦，38 歲的財政廳長任顯群把抽獎號碼印上收據，讓消費者的貪念替國家看住了店家有沒有報稅，一年就把營業稅收拉高七成五。七十多年後，這套設計比它的發明人活得久、比它誕生時的威權統治都活得久——直到 2024 年一場程式碼風波，才第一次讓人問出口：這套系統憑什麼還值得相信？",
     "category": "Economy",
     "tags": [
       "Economy",
@@ -19075,7 +19039,7 @@
       "公益"
     ],
     "url": "https://taiwan.md/economy/%E7%99%BC%E7%A5%A8",
-    "readingTime": 51,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-05-01",
     "path": "Economy/發票.md"
@@ -19877,23 +19841,6 @@
     "path": "ja/Art/postwar-taiwanese-literature.md"
   },
   {
-    "title": "戦後経済発展",
-    "description": "台湾が農業社会からアジア四小龍の一つへと飛躍した経済奇跡の発展過程",
-    "category": "ja",
-    "tags": [
-      "経済史",
-      "工業化",
-      "十大建設",
-      "経済奇跡",
-      "産業転換"
-    ],
-    "url": "https://taiwan.md/ja/history/postwar-economic-development",
-    "readingTime": 16,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "ja/History/postwar-economic-development.md"
-  },
-  {
     "title": "新北市：包圍台北的環狀都會，401 萬人撐起首都的通勤、工業跟記憶",
     "description": "淡水紅毛城從 1628 年西班牙人砌下第一塊磚開始，已經 398 年。比 1875 年沈葆楨設台北府早 247 年。今天新北市 29 區包圍台北市 12 區，401 萬人住在這座全台最大的直轄市裡，39 萬人跨縣市通勤到台北上班。但這座「環狀都會」不是台北的睡眠城——它有 1853 年板橋林家、1869 年從淡水出去的烏龍茶賣到紐約、1890 年代亞洲第一金礦九份金瓜石、1929 年運煤的平溪鐵路、1947 年李梅樹開始的三峽祖師廟雕刻、烏來泰雅族德拉楠部落。新北是台灣 400 年的縮影，剛好不在台北市裡。",
     "category": "Geography",
@@ -20470,18 +20417,20 @@
     "path": "People/瘂弦.md"
   },
   {
-    "title": "經濟奇蹟",
-    "description": "1952年，台灣人均GDP只有196美元，比海地還窮。40年後，台灣成為「亞洲四小龍」之首，人均GDP超過1萬美元。但這個「奇蹟」的代價是什麼？當我們讚美台灣錢淹腳目的年代時，很少人談起那些在加工出口區裡每天工作12小時的女工，和那些把一生積蓄押在小工廠裡的老闆們。",
+    "title": "經濟奇蹟：從地瓜簽到台積電，兩千萬人拼出來的翻身故事",
+    "description": "1950年代初，台灣平均每人所得只有一百多美元，一位農家女兒的「好日子」是地瓜簽配三成白米。四十年後，台灣人均所得突破萬美元，躋身「亞洲四小龍」。但這段翻身史的起點不是加工出口區，是一場把地契換成機會的土地改革——中間還有每天工作12小時的女工、把全家積蓄押進小工廠的老闆，和一場外匯存底只有10億美元卻砸下兩千億的豪賭。",
     "category": "Economy",
     "tags": [
       "Economy",
       "台灣經濟",
       "中小企業",
       "科學園區",
-      "半導體"
+      "半導體",
+      "土地改革",
+      "亞洲四小龍"
     ],
     "url": "https://taiwan.md/economy/%E7%B6%93%E6%BF%9F%E5%A5%87%E8%B9%9F",
-    "readingTime": 22,
+    "readingTime": 34,
     "featured": false,
     "date": "2026-03-23",
     "path": "Economy/經濟奇蹟.md"
@@ -22264,23 +22213,6 @@
     "path": "Art/戰後台灣文學.md"
   },
   {
-    "title": "戰後經濟發展",
-    "description": "台灣從農業社會躍升為亞洲四小龍之一的經濟奇蹟發展歷程",
-    "category": "History",
-    "tags": [
-      "經濟史",
-      "工業化",
-      "十大建設",
-      "經濟奇蹟",
-      "產業轉型"
-    ],
-    "url": "https://taiwan.md/history/%E6%88%B0%E5%BE%8C%E7%B6%93%E6%BF%9F%E7%99%BC%E5%B1%95",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "History/戰後經濟發展.md"
-  },
-  {
     "title": "濁水溪公社：台語、龐克、農友，以及一座遲來三十年的獎座",
     "description": "1989 年，師大附中一群學生為了畢業表演組了樂團。台大法律系的柯仁堅（小柯）加入後，改名濁水溪公社。此後三十年，他們用台語唱政客、農民、慾望、社運，在台大被開除、在地下場館演出，從未進入主流。2020 年解散當年，《裝潢》奪得第 31 屆金曲獎最佳台語專輯，首度入圍就拿獎。頒獎典禮上，主唱沒有來——他現在是國稅局公務員。",
     "category": "Music",
@@ -23245,7 +23177,7 @@
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/people/%E8%81%B6%E6%B0%B8%E7%9C%9F",
-    "readingTime": 50,
+    "readingTime": 51,
     "featured": false,
     "date": "2026-05-08",
     "path": "People/聶永真.md"
@@ -29782,17 +29714,6 @@
     "path": "es/Society/long-term-care-system-development.md"
   },
   {
-    "title": "Desarrollo económico de posguerra",
-    "description": "El proceso de desarrollo del milagro económico de Taiwán, desde una sociedad agrícola hasta convertirse en uno de los Cuatro Tigres Asiáticos",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/history/postwar-economic-development",
-    "readingTime": 50,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "es/History/postwar-economic-development.md"
-  },
-  {
     "title": "Desarrollo urbano y brecha rural-urbana en Taiwán",
     "description": "70 años de transformación de isla agrícola a isla urbana: las seis metrópolis concentran el 70 % de la población, el contraste cruel entre la prosperidad de Taichung y el declive de Yunlin",
     "category": "es",
@@ -29988,17 +29909,6 @@
     "featured": false,
     "date": "2026-06-19",
     "path": "fr/Society/taiwan-sports-olympics.md"
-  },
-  {
-    "title": "Développement économique d'après-guerre",
-    "description": "Le parcours de développement économique miraculeux de Taïwan, passant d'une société agricole à l'une des Quatre Tigres asiatiques",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/history/postwar-economic-development",
-    "readingTime": 52,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "fr/History/postwar-economic-development.md"
   },
   {
     "title": "Développement urbain et fracture ville-campagne à Taïwan",
@@ -30894,24 +30804,6 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "es/Economy/economic-miracle.md"
-  },
-  {
-    "title": "El milagro económico de Taiwán: de una sociedad agrícola a uno de los cuatro tigres asiáticos",
-    "description": "Entre las décadas de 1960 y 1990, Taiwán produjo un milagro económico que atrajo la atención mundial: pasó de ser una sociedad agrícola a un país industrializado y fue agrupado, junto con Corea del Sur, Hong Kong y Singapur, entre los cuatro tigres asiáticos.",
-    "category": "es",
-    "tags": [
-      "historia",
-      "desarrollo económico",
-      "milagro económico",
-      "Diez Grandes Construcciones",
-      "cuatro tigres asiáticos",
-      "industrialización"
-    ],
-    "url": "https://taiwan.md/es/history/taiwan-economic-miracle-from-agriculture-to-asian-tiger",
-    "readingTime": 83,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "es/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger.md"
   },
   {
     "title": "El movimiento de la canción folclórica taiwanesa",
@@ -39759,24 +39651,6 @@
     "path": "fr/Economy/economic-miracle.md"
   },
   {
-    "title": "Le miracle économique de Taïwan : d’une société agricole aux quatre dragons asiatiques",
-    "description": "Dans les années 1960-1990, Taïwan a créé un miracle économique qui a retenu l’attention du monde entier, passant d’une société agricole à un pays industrialisé et rejoignant la Corée du Sud, Hong Kong et Singapour parmi les quatre dragons asiatiques.",
-    "category": "fr",
-    "tags": [
-      "histoire",
-      "développement économique",
-      "miracle économique",
-      "Dix grands projets de construction",
-      "quatre dragons asiatiques",
-      "industrialisation"
-    ],
-    "url": "https://taiwan.md/fr/history/taiwan-economic-miracle-from-agriculture-to-asian-tiger",
-    "readingTime": 86,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "fr/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger.md"
-  },
-  {
     "title": "Le mont Luodi",
     "description": "La zone de badlands volcanique boueuse la plus proche du littoral de Taïwan — ancienne forteresse militaire reconvertie en parc naturel, avec des bouches d'éjection de boue actives et des sentiers offrant de splendides panoramas sur la mer.",
     "category": "fr",
@@ -45853,17 +45727,6 @@
     "path": "fr/Lifestyle/toll-station.md"
   },
   {
-    "title": "Postwar Economic Development",
-    "description": "The trajectory of Taiwan's economic miracle, rising from an agricultural society to become one of the Four Asian Tigers",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/history/postwar-economic-development",
-    "readingTime": 44,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/History/postwar-economic-development.md"
-  },
-  {
     "title": "Postwar Taiwanese Literature: Learning to Speak the Unspeakable (1945–1987)",
     "description": "In August 1945, Yeh Shih-tao was twenty years old, freshly discharged from the Japanese Imperial Army, back in Tainan, staring at a blank sheet of paper — unable to write a single character of Chinese. That blank page would wait forty-two years. In between: aphasia, imprisonment, polemic, and the slow mastery of indirection. In February 1987, he published a 232-page book whose title contained only two words: 'Taiwan.'",
     "category": "en",
@@ -50730,24 +50593,6 @@
     "featured": true,
     "date": "2026-04-06",
     "path": "en/Technology/e-commerce-and-digital-payment-ecosystem.md"
-  },
-  {
-    "title": "Taiwan's Economic Miracle: From an Agricultural Society to an Asian Tiger",
-    "description": "From the 1960s to the 1990s, Taiwan created an economic miracle that drew worldwide attention, transforming from an agricultural society into an industrialized country and joining South Korea, Hong Kong, and Singapore as one of the Four Asian Tigers.",
-    "category": "en",
-    "tags": [
-      "History",
-      "Economic Development",
-      "Economic Miracle",
-      "Ten Major Construction Projects",
-      "Four Asian Tigers",
-      "Industrialization"
-    ],
-    "url": "https://taiwan.md/en/history/taiwan-economic-miracle-from-agriculture-to-asian-tiger",
-    "readingTime": 73,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger.md"
   },
   {
     "title": "Taiwan's Education System: From Exam Hell to the Maze of Diversity",
@@ -58060,24 +57905,6 @@
     "path": "ko/Technology/taiwan-gaming-industry.md"
   },
   {
-    "title": "대만 경제 기적: 농업 사회에서 아시아 네 마리 용으로",
-    "description": "1960년대부터 1990년대까지 대만은 세계가 주목하는 경제 기적을 이루며 농업 사회에서 공업화 국가로 전환했다. 한국, 홍콩, 싱가포르와 함께 '아시아 네 마리 용(아시아 소국 네 개국)'으로 불리게 되었다.",
-    "category": "ko",
-    "tags": [
-      "역사",
-      "경제 발전",
-      "경제 기적",
-      "10대 건설",
-      "아시아 네 마리 용",
-      "공업화"
-    ],
-    "url": "https://taiwan.md/ko/history/taiwan-economic-miracle-from-agriculture-to-asian-tiger",
-    "readingTime": 29,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "ko/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger.md"
-  },
-  {
     "title": "대만 고등교육의 확장과 퇴장: 58개 대학에서 140개로, 그리고 문을 닫기 시작하다",
     "description": "1994년 교육개혁위원회가 \"고등학교와 대학을 널리 설립하자\"고 외친 이후, 10년 만에 대학 수가 58개에서 145개로 급증했고, 사립 비중은 67%까지 치솟았다. 순취학률은 26%에서 72%로 급등하여 거의 모든 사람이 대학에 진학할 수 있게 되었다. 그리고 저출산이 찾아왔다. 2022년 신생아 수는 13만 8천 명으로 역대 최저를 기록했다. 대학들은 퇴장, 통합, 학생 유치 경쟁에 들어갔다. \"너무 적음\"에서 \"너무 많음\"으로, 다시 \"생존 불가능\"으로 이어진 30년간의 실험 뒤에는 진지하게 답변된 적 없는 질문이 도사리고 있다: 대학은 공공재인가, 시장 상품인가?",
     "category": "ko",
@@ -64718,23 +64545,6 @@
     "featured": false,
     "date": "2026-04-26",
     "path": "ko/People/hebe-tien-singer.md"
-  },
-  {
-    "title": "전후 경제 발전",
-    "description": "대만이 농업 사회에서 아시아 네 마리 용(四小龍) 중 하나로 도약한 경제 기적의 발전 과정",
-    "category": "ko",
-    "tags": [
-      "경제사",
-      "산업화",
-      "10대 건설",
-      "경제 기적",
-      "산업 전환"
-    ],
-    "url": "https://taiwan.md/ko/history/postwar-economic-development",
-    "readingTime": 19,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "ko/History/postwar-economic-development.md"
   },
   {
     "title": "전후 대만 문학: 말할 수 없는 것에서, 어떻게 말하는지를 배우기까지 (1945-1987)",

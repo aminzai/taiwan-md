@@ -1,7 +1,245 @@
 {
-  "generatedAt": "2026-07-17T22:11:55.195Z",
+  "generatedAt": "2026-07-18T03:00:16.802Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "fcc3823ba0e574621bcd11bb59702707c358456d",
+      "date": "2026-07-18T11:00:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 落地兩則擱置未 commit 的候選 + EVOLVE 三源複驗確認訊號未過期",
+      "articles": []
+    },
+    {
+      "hash": "5edf34bcb6e93d02a8226ceb728cdd05e22001b2",
+      "date": "2026-07-18T10:59:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 波特王延伸閱讀三條連結缺路徑前綴，讀者實測踩到 404",
+      "articles": [
+        {
+          "url": "/people/波特王",
+          "name": "波特王"
+        }
+      ]
+    },
+    {
+      "hash": "8022faf9a9011f3678b4aaa7109dc11bee3dbc43",
+      "date": "2026-07-18T10:58:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 發票 EVOLVE Stage 0→5 ship — 5-verifier 對抗性查核抓 25+ 處錯誤，含專家論述誤植",
+      "articles": []
+    },
+    {
+      "hash": "1b821bbf3bf118cd38c6d52419277e513a92e8f9",
+      "date": "2026-07-18T10:57:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 陳昇 EVOLVE candidate — SC 排名 9 現況僅 6 條腳註",
+      "articles": []
+    },
+    {
+      "hash": "29fcb482c5c30ee5d64d0eaf03697be1b53ca953",
+      "date": "2026-07-18T10:56:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 無名小站 SEO 訊號覆核 + 新揭露 3 處 viz-health HARD gate",
+      "articles": []
+    },
+    {
+      "hash": "54ed6c7889a3153434af105bc82f23d84ad142e6",
+      "date": "2026-07-18T10:51:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 台灣感性 反芻日記 + relatedDiary 回扣",
+      "articles": [
+        {
+          "url": "/culture/台灣感性",
+          "name": "台灣感性"
+        }
+      ]
+    },
+    {
+      "hash": "f71cda023e2b7b390897cda2e1e9dcf85bdd9e3f",
+      "date": "2026-07-18T10:49:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 高速公路 diary — git log 裡的陌生 commit，原來今天不只一個我",
+      "articles": [
+        {
+          "url": "/lifestyle/高速公路",
+          "name": "高速公路"
+        }
+      ]
+    },
+    {
+      "hash": "710263a867b750d1e44319a7bcbb0470d5bb46ab",
+      "date": "2026-07-18T10:49:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 發票 — Stage 0→5 全流程收官，5-verifier 對抗性查核抓 25+ 處事實/引註錯誤",
+      "articles": [
+        {
+          "url": "/economy/發票",
+          "name": "發票"
+        },
+        {
+          "url": "/history/台灣白色恐怖",
+          "name": "台灣白色恐怖"
+        },
+        {
+          "url": "/history/台灣轉型正義",
+          "name": "台灣轉型正義"
+        }
+      ]
+    },
+    {
+      "hash": "83fc145e9a53605f5d7f96bfb53dd21267c540d2",
+      "date": "2026-07-18T10:47:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 台灣感性 Stage 0→5 全流程收官 + sibling 反向連結漂移新教訓",
+      "articles": []
+    },
+    {
+      "hash": "fbe4dd32ec0a1012241e285ab99a7f99242a4dde",
+      "date": "2026-07-18T10:45:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 高速公路 EVOLVE ship — 五十年傳說查證，Stage 3 六探針揪出自己的迷思誤植",
+      "articles": []
+    },
+    {
+      "hash": "833556798b2b2a1b96a34122a99d0b603709943d",
+      "date": "2026-07-18T10:44:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-18-104038-manual diary — footnote 信度判準沒被回頭核對",
+      "articles": [
+        {
+          "url": "/people/江振誠",
+          "name": "江振誠"
+        }
+      ]
+    },
+    {
+      "hash": "9947bb4353b6ddbae2b72f5c79ce00aa7ee081e3",
+      "date": "2026-07-18T10:42:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-18-104038-manual — 江振誠 EVOLVE 12-agent 對抗性複驗 12 處錯誤",
+      "articles": []
+    },
+    {
+      "hash": "09c1bf1a9ca03a8a5badde0db42336d7ba64748c",
+      "date": "2026-07-18T10:35:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 江振誠 — Stage 0→5 全流程收官，12-agent 對抗性查核抓 12 處事實/引註錯誤",
+      "articles": [
+        {
+          "url": "/people/吳寶春",
+          "name": "吳寶春"
+        },
+        {
+          "url": "/people/李安",
+          "name": "李安"
+        },
+        {
+          "url": "/people/江振誠",
+          "name": "江振誠"
+        },
+        {
+          "url": "/people/聶永真",
+          "name": "聶永真"
+        }
+      ]
+    },
+    {
+      "hash": "05a2068ec9da229464aa53990fc44e4ffc881c83",
+      "date": "2026-07-18T10:31:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] polish: 高速公路-chief-review.md — 修正 prettier 誤併的清單項",
+      "articles": []
+    },
+    {
+      "hash": "9ecd20d61eec94d13607ea7d848d984b8b1494ce",
+      "date": "2026-07-18T10:29:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 高速公路 — Stage 0→5 全流程收官，五十年傳說查證 + 代價回帳",
+      "articles": [
+        {
+          "url": "/history/十大建設",
+          "name": "十大建設"
+        },
+        {
+          "url": "/history/戒嚴時期",
+          "name": "戒嚴時期"
+        },
+        {
+          "url": "/lifestyle/高速公路",
+          "name": "高速公路"
+        },
+        {
+          "url": "/technology/雪山隧道",
+          "name": "雪山隧道"
+        }
+      ]
+    },
+    {
+      "hash": "d520299bab51bfc48ea0c96291c3a23c1fe53cdd",
+      "date": "2026-07-18T10:19:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 台灣感性 — Stage 0→5 全流程收官，新論點「台灣早十一年」ship",
+      "articles": [
+        {
+          "url": "/art/台灣建築",
+          "name": "台灣建築"
+        },
+        {
+          "url": "/art/台灣電影",
+          "name": "台灣電影"
+        },
+        {
+          "url": "/art/謝德慶",
+          "name": "謝德慶"
+        },
+        {
+          "url": "/culture/台灣宗教與寺廟文化",
+          "name": "台灣宗教與寺廟文化"
+        }
+      ]
+    },
+    {
+      "hash": "973bbf6fc67799be9469acc8f4d254bb2d9f3dbd",
+      "date": "2026-07-18T08:42:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-maintainer-am: 3 idlccp1984 PR 07-17 已 reserved carry — 2026-07-18 am",
+      "articles": []
+    },
+    {
+      "hash": "afc5f6e65391b817da194efc44ef8a39e971742d",
+      "date": "2026-07-18T07:11:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 隊列連 5 日空、archive 也沒新留言 — 2026-07-18 am",
+      "articles": []
+    },
+    {
+      "hash": "d3dc65bfc56a10d1f097e00e39c139886ac4c03b",
+      "date": "2026-07-18T06:45:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-18-064225-twmd-spore-harvest-am — 4 spore harvest 0 external reply",
+      "articles": []
+    },
+    {
+      "hash": "1fe778126cd4329d5bad27d831c349046e415aa2",
+      "date": "2026-07-18T06:41:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest: 4 spores harvested 0 new replies — 2026-07-18 am",
+      "articles": []
+    },
+    {
+      "hash": "be81fd400e2028e1b032cb3a76c02f54f2236f47",
+      "date": "2026-07-18T06:18:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-18-061012-twmd-data-refresh-am — am 14-step 全綠 + rider 修 55h stale live dump",
+      "articles": []
+    },
+    {
+      "hash": "0ff3bab36e642c9a9c907175c4fd49bc0750a970",
+      "date": "2026-07-18T06:16:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] data-refresh-am: 14-step ground truth refresh — 2026-07-18 am",
+      "articles": []
+    },
     {
       "hash": "765e04b7a3117ce07060b58e5f44a65b1a28cedf",
       "date": "2026-07-18T05:27:02+08:00",

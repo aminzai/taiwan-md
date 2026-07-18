@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-17T22:11:54Z",
-  "total": 855,
-  "flagged": 341,
+  "timestamp": "2026-07-18T03:00:16Z",
+  "total": 853,
+  "flagged": 342,
   "files": [
     {
       "file": "music/拍謝少年.md",
@@ -65,6 +65,11 @@
       "reasons": "年份僅1個; 未人工審核; 塑膠句1個; 後段清單堆砌41%; 稀薄段落×2"
     },
     {
+      "file": "economy/發票.md",
+      "score": 4,
+      "reasons": "空洞詞5個; 未人工審核; 破折號12個"
+    },
+    {
       "file": "economy/台灣自媒體創作者經濟.md",
       "score": 6,
       "reasons": "未人工審核; 破折號7個; 後段清單堆砌35%; 稀薄段落×1; 無腳註"
@@ -76,8 +81,8 @@
     },
     {
       "file": "economy/經濟奇蹟.md",
-      "score": 10,
-      "reasons": "連續bullet4行; 塑膠句3個; 套路結尾; 後段清單堆砌49%; 稀薄段落×3; 無腳註"
+      "score": 11,
+      "reasons": "空洞詞6個; 連續bullet4行; 塑膠句3個; 破折號9個; 套路結尾; 後段清單堆砌41%; 稀薄段落×1"
     },
     {
       "file": "economy/台灣企業：日月光半導體.md",
@@ -476,8 +481,8 @@
     },
     {
       "file": "lifestyle/高速公路.md",
-      "score": 4,
-      "reasons": "未人工審核; 塑膠句1個; 破折號14個"
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句1個; 破折號17個"
     },
     {
       "file": "society/學習貧窮.md",
@@ -1382,7 +1387,7 @@
     {
       "file": "history/戒嚴時期.md",
       "score": 4,
-      "reasons": "後段清單堆砌32%; 稀薄段落×2"
+      "reasons": "後段清單堆砌34%; 稀薄段落×2"
     },
     {
       "file": "history/心戰.md",

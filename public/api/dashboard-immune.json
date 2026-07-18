@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-18T06:12:01.771509",
+  "lastUpdated": "2026-07-18T11:00:23.293109",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 60,
   "status": "需關注 — T1 review < 80% OR plugin pass < 90%",
   "components": {
-    "review_coverage": 24.4,
+    "review_coverage": 24.5,
     "plugin_pass_rate": 70.0,
     "plugin_health": 100.0,
     "citation_density": 91.5,
@@ -24,9 +24,9 @@
   },
   "tierBreakdown": {
     "T1": {
-      "total": 377,
+      "total": 375,
       "reviewed": 98,
-      "pct": 26.0,
+      "pct": 26.1,
       "weight": 3.0
     },
     "T2": {
@@ -43,8 +43,8 @@
     }
   },
   "pluginPassDetail": {
-    "total_files": 855,
-    "hard_pass_files": 855,
+    "total_files": 853,
+    "hard_pass_files": 853,
     "hard_pass_pct": 100.0,
     "warn_pass_files": 0,
     "warn_pass_pct": 0.0,
@@ -52,13 +52,13 @@
   },
   "citationDetail": {
     "grades": {
-      "A": 682,
+      "A": 681,
       "B": 10,
-      "C": 148,
+      "C": 147,
       "D": 4,
       "F": 9
     },
-    "files_with_grade": 853
+    "files_with_grade": 851
   },
   "freshnessDetail": {
     "editorial_days_old": 2,
@@ -246,7 +246,7 @@
   },
   "externalRulersDetail": {
     "ruledArticles": 32,
-    "totalArticles": 853,
+    "totalArticles": 851,
     "rulerSources": {
       "factcheckReports": true,
       "readerErrataCommits90d": true,

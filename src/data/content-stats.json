@@ -6,7 +6,7 @@
     "Economy": 280,
     "Food": 310,
     "Geography": 330,
-    "History": 245,
+    "History": 235,
     "Lifestyle": 150,
     "Music": 179,
     "Nature": 190,
@@ -462,5 +462,5 @@
       "count": 1
     }
   ],
-  "updated": "2026-07-17"
+  "updated": "2026-07-18"
 }
