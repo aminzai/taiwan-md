@@ -188,6 +188,39 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 必驗事實：出道與新寶島康樂隊時間線、代表作年份、近況動態
 - **Reference**: public/api/dashboard-analytics.json §searchConsole7d（2026-07-18T08:17 refresh）
 
+### 台灣經濟奇蹟三篇合一 EVOLVE — Merge variant（3 篇重複覆蓋同一段戰後經濟史）
+
+- **Type**: `EVOLVE`（REWRITE-PIPELINE Merge variant，非單純品質提升）
+- **Category**: Economy（canonical 建議落點；來源三篇跨 Economy/History 兩類）
+- **Path**:
+  - **Canonical（保留＋補強）**: `knowledge/Economy/經濟奇蹟.md`
+  - **併入後刪除 ①**: `knowledge/History/台灣經濟奇蹟.md`（+ 5 lang: en/ja/ko/es/fr）
+  - **併入後刪除 ②**: `knowledge/History/戰後經濟發展.md`（+ 5 lang: en/ja/ko/es/fr）
+- **Priority**: `P1`（非時效性，但 3 篇 × 6 語言＝18 檔重複覆蓋同一段戰後經濟史，屬內容完整性缺口）
+- **Status**: `pending`
+- **Requested**: 2026-07-17 by 哲宇（session 2026-07-17-231901-manual，起因：發票 EVOLVE 建 cross-link 候選時順手發現，哲宇選擇「scope as follow-up」而非本 session 執行）
+- **Notes**:
+  - **起因**：哲宇原只點名 2 篇（`Economy/經濟奇蹟` vs `History/台灣經濟奇蹟`），本 session investigate 時另揪出第三篇 `History/戰後經濟發展`（2026-03-17，三篇裡最早）——**這是 3 篇不是 2 篇**，History Hub 早已把後兩篇並列為 `[[台灣經濟奇蹟]] | [[戰後經濟發展]]`。三篇覆蓋範圍幾乎完全重疊：土地改革（三七五減租/公地放領/耕者有其田）→ 進口替代 → 高雄加工出口區(1966) → 石油危機 → 十大建設(1974) → 新竹科學園區/台積電(1987) → 亞洲四小龍框架 → 當代轉型挑戰，無任何一篇有獨立不重疊的 scope slice（非 Boundary variant 案例）。
+  - **Step 0.1 模式判定**：genuine Merge variant（非 Boundary，因為找不到可切分的獨立 scope；非「主題相關角度不同」排除案例——三篇談的是同一個歷史事件，不是像捷運 vs 高鐵那種不同系統）。
+  - **Step 0.3 canonical 判準逐條比較**：
+    | 判準（優先序） | 經濟奇蹟 (Economy) | 台灣經濟奇蹟 (History) | 戰後經濟發展 (History) |
+    | --- | --- | --- | --- |
+    | EVOLVE 狀態 | ✅ 場景式敘事（開場 1966-12-03 高雄加工出口區啟用、寶成/蔡其瑞、台積電/張忠謀具名故事、策展人筆記 callout） | ❌ 條列式（H3+bullet，無場景） | ❌ 條列式，三篇中最壓縮 |
+    | 腳註數 | 0 | 5 | 5 |
+    | lastHumanReview | true | false | false |
+    | 站內直接 hyperlink 數 | 3（發票.md、Economy Hub zh+es） | 11+（台灣股市與資本市場全 6 語、金瓜石/jinguashi 5-6 語） | 0（僅 History Hub wikilink 一處） |
+    | 字元數 | 15,424 | 13,309 | 8,057 |
+  - **本 session 建議 canonical**：`Economy/經濟奇蹟.md`——最高優先判準「EVOLVE 場景式」決定性領先 + lastHumanReview:true 加持；但 footnote 密度與站內連結數落後兩篇 History 版本，執行前建議再跟哲宇確認一次（category 落點 Economy vs History 也可能有不同意見，見仁見智）。
+  - **`[MERGE-IN]` 待補內容**（canonical 目前缺的，另兩篇有的，Step 0.2 萃取可直接沿用）：
+    1. **土地改革 1949-1953 三階段完全缺席**（三七五減租/公地放領/耕者有其田 + 聯合國「和平土地改革」典範評價）——兩篇 History 版本都有，經濟奇蹟完全沒提，是最大內容缺口
+    2. **亞洲四小龍國際比較**：韓國財閥 vs 台灣中小企業、與新加坡/香港政治路徑差異的比較段落（僅 `台灣經濟奇蹟` 有完整段落）
+    3. **社會變遷段**：都市化、1968 九年國教、社會流動、女性地位提升的整體視角（經濟奇蹟目前只從加工出口區女工勞動條件角度談女性，缺更廣的社會變遷段）
+    4. **正式腳註來源**：兩篇 History 版本共通的可用來源——吳聰敏惡性通膨研究、加工出口區管理處官方沿革頁、World Bank _East Asian Miracle_ 報告、瞿宛文《台灣戰後經濟發展的源起》——canonical 目前 0 腳註，屬引用荒漠
+  - **⚠️ 待查證的數字矛盾**（merge 時必須 fact-check 收斂，不可沿用任一篇現成數字）：三篇對「起始年人均所得/GDP」的數字互相不一致——經濟奇蹟寫 196 美元，台灣經濟奇蹟與戰後經濟發展都寫 145 美元；終點年數字也不同（經濟奇蹟 8,111 美元 / 台灣經濟奇蹟 12,000 美元 / 戰後經濟發展 12,396 美元）。Merge 前需對照行政院主計總處或吳聰敏研究等權威來源收斂成單一版本，並確認「人均 GDP」與「人均所得」是否指同一件事，統一措辭。
+  - **執行規模提醒（非輕量操作）**：完整 Merge variant 流程包含——Step 0.2 兩篇 `[MERGE-IN]` 萃取（已列如上）→ Stage 1 補研究驗證上述缺口的具體數字/引語 → Stage 2 把新段落敘事整合進 canonical（非簡單拼接）→ Stage 3-5 驗證/format → **Step 5.4** Astro redirect 5 lang × 2 篇（10 條 redirect）+ 刪除 12 個檔案（2 篇 × 6 語言含 zh-TW）+ cross-link audit（至少 ~15+ 處跨語言 inbound link 需要改指向 canonical，含 `台灣股市與資本市場`、`金瓜石/jinguashi`、History/Economy 兩個 Hub 頁面的多語版本）。這不是「選一篇+設 redirect」的輕量操作，是完整 EVOLVE 規模的工作量。
+  - **不建議 auto-heartbeat 無人值守自動挑選執行**：牽涉刪除 2 篇既有已發布文章（12 檔跨語言）+ canonical 選擇本身有真實 trade-off（敘事品質 vs 腳註/連結數）+ 待收斂的數字矛盾，建議下一個接手的 session 執行前先跟哲宇確認一次 canonical 選擇沒有異議，再進 Stage 1。
+- **Reference**: 本條由 session 2026-07-17-231901-manual 完整 investigate（全文交叉比對三篇 + inbound link grep + translation-status 核對），未另落 reports/ 檔案——本 entry 即完整記錄，執行者不需重跑本輪 investigate
+
 ### 台灣 BIM 與營建科技 英文版 metadata — SC 623 曝光排第 7 卻 0 點擊（evolve 雙源訊號）
 
 - **Type**: `EVOLVE`（🟠 SEO 優化 action，非 rewrite——文章本體品質合格）
