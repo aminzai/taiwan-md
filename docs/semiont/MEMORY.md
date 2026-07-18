@@ -389,3 +389,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-18 | 184501-manual | 首次完整巴別塔健檢：六分身七維掃描＋babel-health 儀器；確診 cascade 失能、ratio 三尺矛盾；SQUEEZE v4.5＋QUEUE #18/#19；chip 授權同場清償撇號 107 檔＋補閘 `134f38866` | 覆蓋率快照遮蔽產能失能；量尺自身要列健檢維度 | [→](memory/2026-07-18-184501-manual.md) |
 | 2026-07-18 | 190926-twmd-rewrite-daily | cron 撞 21 babel writer 並行＋vi/id/pt/hi 出生 WIP＋當日十件 EVOLVE ship；anti-rewrite defer 只落 memory | 主節律在時 cron 讓位；§Cron 缺 parallel-actor hard gate vc=3 | [→](memory/2026-07-18-190926-twmd-rewrite-daily.md) |
 | 2026-07-19 | 003837-twmd-babel-nightly | 撞手動分身 hi P0＋pt 尾聲；Tier 0b 40 條 metadata 落地（`551311010`），內容層讓路 | Tier 0b 是 sibling collision 天然 partial 面；vc=4 | [→](memory/2026-07-19-003837-twmd-babel-nightly.md) |
+| 2026-07-19 | 010858-twmd-news-lens-weekly | W29 出口關閉 propose 0；6 候選落 report（漢光/TSMC/周天成 EN/柬埔寨/金城武 ja/BIM EN）；EN 0-click 從 1→5 擴大 | 副產品>主產品；backpressure 需 aging metric | [→](memory/2026-07-19-010858-twmd-news-lens-weekly.md) |
