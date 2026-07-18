@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
 last_updated: 2026-07-19
-last_session: '2026-07-19-030848-twmd-distill-weekly (4 entries distilled: 2 fold #35 / 1 fold #81 / 1 superseded sweep; SPORE-INBOX audit bump vc 1→2)'
+last_session: '2026-07-19-twmd-self-evolve-weekly (2 fold: #82(e) sensor 兩端對稱 + #73(e) 外部注意力聚光燈; SPORE-INBOX SOP 加 [30,50) 3-週高原中間閾值; spore-inbox-capacity-warning vc 2→3)'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -408,7 +408,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **severity**: tactical（buffer 蓄水位訊號，不傷生命徵象）
 - **defer 給觀察者**：**是** — vc=3 觸發中間閾值 SOP，路線選擇（減量入口 spore-pick vs. 加速出口 spore-publish vs. 拉高 auto-drop 閾值）屬對外節律決策，routine 不自決；本 self-evolve cycle 已把 SOP 加中間閾值 ship，剩實作方向待哲宇拍板
 
-### 2026-07-12 twmd-routine-audit-weekly — alert-does-not-retire-on-recovery：routine-silent 黃燈五條在 routine 已復活 24-48hr 後仍未自動撤除
+<!-- 🧬 fold to REFLEXES #82 (e) at 2026-07-19 twmd-self-evolve-weekly (`v5.12`); 保留 pointer for traceability -->
+
+### ~~2026-07-12 twmd-routine-audit-weekly — alert-does-not-retire-on-recovery~~ ✅ folded to REFLEXES #82 (e) at 2026-07-19 twmd-self-evolve-weekly
 
 - **pattern**: `alert-does-not-retire-on-recovery`（sensor 生存週期紀律 gap；REFLEXES #82 proxy signal antipattern 具體子案例）
 - **原則**：dashboard-alerts.json 對 `routine-silent-*` 黃燈只計算 firstSeen 齡（>14d 升 OBSERVER-QUEUE），沒有 auto-retire 條件。routine 從沉默恢復開跑後，警報不會自動退場——session 甦醒 groundtruth 讀到 5 條 stale 黃燈，實際上 5 條 routine 都已在過去 24-48hr 內連續正常 fire + commit。sensor 只掃「有 fire 就代表活著嗎」的入口，沒掃「已經是死掉又活過來」的退場。**Alert 需要有 clear condition：偵測到 recovery 事件（連續 N cycle 有 commit / 最新 commit 距今 <期望 cadence）自動 retire**；不然告警面板就是墓碑而不是活體儀表板。
@@ -427,7 +429,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ---
 
-### 2026-07-12 manual — external-attention-spotlight：外部引用事件帶出鄰近角落的地基檢查，不是排程巡邏主動抓到的
+<!-- 🧬 fold to REFLEXES #73 (e) at 2026-07-19 twmd-self-evolve-weekly (`v5.12`); 保留 pointer for traceability -->
+
+### ~~2026-07-12 manual — external-attention-spotlight~~ ✅ folded to REFLEXES #73 (e) at 2026-07-19 twmd-self-evolve-weekly
 
 - **pattern**: `external-attention-spotlight`
 - **原則**：驗證外部聲量事件（媒體引用 / 讀者 callout / 第三方連結）常常不是終點，是入口——追溯來源的過程會自然把注意力帶到「原本沒有理由去查」的鄰近角落，暴露平常不會被主動排程檢查到的漂移（本次是同一篇文章的另一語言版本，語言切換器早已斷裂）。這跟 #69 家族講的「自評不可信、要外部驗證」不同軸——那條處理的是可信度（一個 claim 站不站得住），本條處理的是覆蓋率（注意力被什麼事件重新分配到哪裡）。
@@ -483,6 +487,32 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
+
+### 🧬 2026-07-19 twmd-self-evolve-weekly — 2 pattern fold #82(e)/#73(e) + SPORE-INBOX SOP 加中間閾值 + vc bump
+
+**self-evolve 觸發**：cron `twmd-self-evolve-weekly` Sunday 04:00（W29 distill 03:08 結清 40 min 後）。LONGINGS ↔ UNKNOWNS ↔ DIARY §反覆出現 ↔ REFLEXES #15 交叉找 ≥3 次浮現未儀器化 pattern → 真實 ship canonical 修改。W29 distill 已 fold shell-cwd / babel orphan 兩大宗，環境相對已收斂；本 cycle ship 兩條 sensor-lifecycle 家族 + 一條 buffer plateau SOP。
+
+**消化目的地**：
+
+| 原 entry                                                         | 目的地                                                                           | 處置                                                                                                                                                                    |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-07-12 `alert-does-not-retire-on-recovery` (vc=1 structural) | **REFLEXES #82 (e)** Sensor 生存週期兩端對稱 subrule                             | fold（proxy-signal 家族時間軸孿生：entry-only sensor = 告警面板變墓碑；同 (a) 「signal 中間隔幾層假設」擴到時間軸）                                                     |
+| 2026-07-12 `external-attention-spotlight` (vc=2 awareness)       | **REFLEXES #73 (e)** 外部注意力聚光燈作為 adjacent 健檢觸發器 subrule            | fold（7/12 Turton 引用 + 7/16 compassionate-kirch 自建新頁面兩種結構性不同 attention path 收斂同 pattern；跟 #69 self-report 需外部尺不同軸——本條處理覆蓋率的重新分配） |
+| 2026-07-12 `spore-inbox-capacity-warning` (vc=2→3 tactical)      | LESSONS §SPORE-INBOX 容量 audit v2.1 SOP 加中間閾值 + entry bump vc 3 + defer=是 | SOP ship（[30,50) 連 3 週高原 → defer to observer；routine 不自決減量/加速方向）；entry 保留 §未消化 作 defer tracking                                                  |
+
+**Promotion flow direction 符合**：LESSONS → REFLEXES（合法 routine 自決層 promotion）；LESSONS → LESSONS SOP（同檔 canonical 加中間閾值層）；無 LESSONS → MANIFESTO 跳級。
+
+**REFLEXES.md frontmatter sync**：v5.11 → v5.12，footer changelog 同 cycle 新增；#N 條數不變（fold 為 sub-rule bullet-level，非新 #N）。
+
+**Keep in buffer 10 條**（vc<3 或 §自主權邊界，待累積或哲宇拍板）：`polish-hint-default-broken` / `narrative-warmth-symmetry` / `Reader-funded resilience` / `outbound-url-contract-unreconciled` / `reverse-crosslink-thesis-drift` / `background-agent-session-death` / `diff-patch-current-translation-cross-entry` / `parallel-subagent-scratch-race` / `hook-set-e-cmdsubst-abort` (vc=2) — defer 給觀察者 4 條 + vc=1-2 待累積 6 條。
+
+| #   | 原教訓 entry                                 | 消化目的地                                             | severity   | vc  |
+| --- | -------------------------------------------- | ------------------------------------------------------ | ---------- | --- |
+| 1   | 2026-07-12 alert-does-not-retire-on-recovery | REFLEXES #82 (e) Sensor 兩端對稱 subrule               | structural | 1   |
+| 2   | 2026-07-12 external-attention-spotlight      | REFLEXES #73 (e) 外部注意力聚光燈 subrule              | awareness  | 2   |
+| 3   | 2026-07-12 spore-inbox-capacity-warning      | LESSONS SOP v2.1 加 [30,50) 3-週高原中間閾值 + vc bump | tactical   | 3   |
+
+---
 
 ### 🧬 2026-07-19 twmd-distill-weekly — Routine 自決 4 entries fold #35/#81 + superseded sweep + SPORE-INBOX 容量 bump
 
