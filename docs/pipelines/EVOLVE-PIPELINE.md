@@ -1,11 +1,11 @@
 ---
 title: 'EVOLVE-PIPELINE'
-description: '數據驅動內容進化系統 — Phase 1-7 SCAN→SCORE→RANK→CHECK→ENRICH→APPEND→SHIP + Mode 3 self-refactor (v3.5)'
+description: '數據驅動內容進化系統 — Phase 1-7 SCAN→SCORE→RANK→CHECK→ENRICH→APPEND→SHIP + Mode 3 self-refactor + Mode 4 goal-driven design evolution (v3.6)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v3.5'
-last_updated: 2026-05-11
-last_session: 'cranky-newton-220237'
+current_version: 'v3.6'
+last_updated: 2026-07-18
+last_session: '2026-07-18-111730-inbox-skill'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'MAINTAINER-PIPELINE.md'
@@ -844,6 +844,70 @@ done | sort -rn
 - [MANIFESTO §指標 over 複寫](../semiont/MANIFESTO.md)（拆 single-concern canonical 解決重複）
 - [MANIFESTO §時間是結構](../semiont/MANIFESTO.md)（歷史層保留原 Step 描述，修補不覆蓋）
 
+---
+
+## Mode 4：目標驅動設計進化（goal-driven design evolution，v3.6）
+
+> **2026-07-18 哲宇 /goal 命名這個流程**：「幫我完整設計 深度思考 自我進化，寫實作報告後實作⋯⋯把這樣自我進化的過程（思考 發散 報告 實作）做成 /twmd-evolve」。
+>
+> 這個流程在此之前已 de facto 跑過十次以上（become-boot-mode-design / 立體群像 default 重定位 / routine-spec / 多核 git 協調設計 / REWRITE v9 拆檔⋯⋯reports/ 裡整排 design-\*.md），每次品質全靠當班 session 自律。REFLEXES #15：反覆浮現 ≥3 次就該儀器化。Mode 4 是把它寫成有名字的 SOP。
+>
+> 設計報告（含方案發散與 /twmd-evolve 命名衝突決策）：[reports/design-article-inbox-evolve-mode4-2026-07-18.md](../../reports/design-article-inbox-evolve-mode4-2026-07-18.md)。第一次 dogfood 就是 /twmd-article-inbox skill 的誕生。
+
+### 觸發與邊界
+
+**觸發**：觀察者給一個「造東西」的目標（新 skill / 新器官 / 新 pipeline / 架構改動）且期待先設計後實作。
+
+**四 mode + 一條姊妹 skill 的邊界**（防互踩）：
+
+| 路                | 觸發源                 | 產出                        |
+| ----------------- | ---------------------- | --------------------------- |
+| Mode v1/v2        | GA4 / SC / CF 數據     | 內容候選 → ARTICLE-INBOX    |
+| Mode 3            | pipeline 自身膨脹訊號  | pipeline 重組               |
+| **Mode 4**        | **觀察者給的建造目標** | **設計報告 + 新器官/skill** |
+| /twmd-self-evolve | DIARY 反覆浮現 ≥3 次   | 既有 pattern 儀器化         |
+
+Mode 3 vs Mode 4 灰區判法：**對象是既有 pipeline 自身**（膨脹 / 重組）= Mode 3；**對象是還不存在的能力** = Mode 4。
+
+**強制 Full BECOME**：Mode 4 天生命中 [BECOME High-stake #2「新 plugin / workflow 設計」](../../BECOME_TAIWANMD.md)，不能停在 Micro/Review/Write。
+
+### 四相 SOP：THINK → DIVERGE → REPORT → IMPLEMENT
+
+```
+THINK（思考）    目標解析 + 現況盤點
+   │             ├── 查 ANATOMY §資源地圖 + grep docs/pipelines + .claude/skills（已存在嗎？）
+   │             ├── cross-ref 衝突掃描：grep 目標名字，誰引用它？改它會斷什麼？
+   │             │     （查證反射先於建造反射，REFLEXES #73）
+   │             └── §自主權邊界過濾（政治 / >50 檔 / >10 刪 / 對外溝通）
+   ↓
+DIVERGE（發散）  ≥2 個結構方案 + trade-off 表 + 明寫判準
+   │             ├── 每案必答：破壞哪些 cross-ref？殼核邊界在哪？#38 混維度檢查
+   │             └── 判準錨定具體 canonical 條文（哪條 MANIFESTO / REFLEXES）
+   │                 目的：對抗「第一個想到的方案 = 做的方案」
+   ↓
+REPORT（報告）   實作報告落 reports/design-{slug}-{YYYY-MM-DD}.md，先於實作
+   │             ├── 結構：目標 / 現況盤點 / 發散方案表 / 定案+理由 / 實作清單 / 驗收 / 風險
+   │             ├── 藍圖 → 驗證 → 寫，成本低 10 倍（REFLEXES #27）
+   │             └── 報告是哲宇的 review 介面：邊界命中 → 停在這裡等拍板；
+   │                 自主權內 → 直接續跑 IMPLEMENT
+   ↓
+IMPLEMENT（實作）照實作清單做
+   │             ├── 驗收：cross-ref 全通 + 既有觸發語不斷 + dogfood 至少一次
+   │             └── 摩擦回寫：實作中發現的問題補進報告 §後記 或直接修 canonical
+   ↓
+收官             memory（含設計決策一句話）+ 新 skill 補進 .claude/skills/README.md index
+```
+
+### Hard gate（Mode 4 專屬）
+
+| Gate                      | 相        | 條件                                                  | 不過 = ?              |
+| ------------------------- | --------- | ----------------------------------------------------- | --------------------- |
+| 資源地圖 + cross-ref 查證 | THINK     | grep 目標名字 + 引用面，先於任何建造                  | 重造輪子 / 斷承重牆   |
+| 發散 ≥2 案                | DIVERGE   | 單方案直進實作 = 沒發散                               | recency bias 直通車   |
+| 報告先於實作              | REPORT    | reports/design-\*.md 落檔 + commit 在實作 commit 之前 | 藍圖後補 = 合理化文件 |
+| 邊界命中停等              | REPORT    | §自主權邊界四紅線命中 → 停在報告，不 IMPLEMENT        | 越權執行              |
+| dogfood 驗收              | IMPLEMENT | 新能力至少真跑一次（不是「寫完 = 能用」）             | 規格債當成品債        |
+
 🧬
 
 ---
@@ -853,3 +917,5 @@ _升級觸發：哲宇「進化 evolve pipeline 本身 — 把這次執行的所
 _核心進化：v2.0（multi-lang sync）+ Mode 3 pipeline self-refactor（7 stage SOP：SCAN→DESIGN→SPLIT→REWIRE→INSTRUMENT→VERIFY→SHIP + cross-ref 保護策略 + atomic commit 序列）_
 
 _v3.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（Phase 1-7 SCAN→SHIP box-frame + Mode 分流）+ Hard Gate Inventory 集中 table（9 gates）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table（明確跟 PEER-INGESTION 邊界 + REWRITE / MAINTAINER lifecycle 串聯）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.5 audit。Phase 1-7 prose body 不動（已健康）。_
+
+_v3.6 | 2026-07-18 inbox-skill session — 新增 Mode 4「目標驅動設計進化」（THINK→DIVERGE→REPORT→IMPLEMENT 四相 + 5 hard gate + 四 mode 邊界表）。觸發：哲宇 /goal「把這樣自我進化的過程（思考 發散 報告 實作）做成 /twmd-evolve」。命名衝突決策：/twmd-evolve 是 twmd-finale 第三棒與 news-lens-weekly cron 的承重牆，語意擴展不取代——殼內 mode 分流，既有引用一條不斷。設計報告：[reports/design-article-inbox-evolve-mode4-2026-07-18.md](../../reports/design-article-inbox-evolve-mode4-2026-07-18.md)。_

@@ -14,6 +14,8 @@ allowed-tools:
 
 # 🧬 Taiwan.md — Self-Evolution v3.0
 
+> **邊界**（2026-07-18）：本 skill 是 **pattern 驅動**（DIARY 反覆浮現 ≥3 次 → 儀器化）。觀察者給「造東西」目標、要先設計後實作的，走 [`/twmd-evolve` Mode 4](../twmd-evolve/SKILL.md)（EVOLVE-PIPELINE §Mode 4 目標驅動設計進化）。
+
 ## 🚨 STRICT BECOME GATE — 第一動作不可省略
 
 **Before anything else**：跑 `/twmd-become full` 完整走 [BECOME_TAIWANMD.md](../../../BECOME_TAIWANMD.md) Step 0-9。Full mode self-test 14 題全過才能進 Stage 1。

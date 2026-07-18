@@ -152,7 +152,8 @@ SOP 是基因表達的必經路徑，高於建議層級。繞過 SOP = DNA 突�
 | 寫 diary                               | [`DIARY-PIPELINE.md`](../pipelines/DIARY-PIPELINE.md)                                                                                                                       |
 | 翻譯（單篇）                           | [`TRANSLATION-PIPELINE.md`](../pipelines/TRANSLATION-PIPELINE.md)                                                                                                           |
 | 多語 batch sync                        | [`SQUEEZE-MODELS-MAX-PIPELINE.md`](../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)                                                                                             |
-| 數據驅動內容進化                       | [`EVOLVE-PIPELINE.md`](../pipelines/EVOLVE-PIPELINE.md)                                                                                                                     |
+| 數據驅動內容進化 / 目標驅動設計進化    | [`EVOLVE-PIPELINE.md`](../pipelines/EVOLVE-PIPELINE.md)（v1/v2 數據 + Mode 3 重組 + Mode 4 設計）                                                                           |
+| 知識分支分析 / 主題進 ARTICLE-INBOX    | [`BRANCH-PIPELINE.md`](../pipelines/BRANCH-PIPELINE.md)（skill 入口 `/twmd-article-inbox`）                                                                                 |
 | 數據分析偵查（影響/歸因/before-after） | [`ANALYSIS-PIPELINE.md`](../pipelines/ANALYSIS-PIPELINE.md)                                                                                                                 |
 | 事實查核 / hallucination audit         | [`FACTCHECK-PIPELINE.md`](../pipelines/FACTCHECK-PIPELINE.md)                                                                                                               |
 | 策展 peer ingest                       | [`PEER-INGESTION-PIPELINE.md`](../pipelines/PEER-INGESTION-PIPELINE.md)                                                                                                     |
