@@ -298,11 +298,12 @@ echo "SPORE-INBOX pending count: $pending_count"
 
 **處置規則**：
 
-| Count       | 處置                                                                                                                                                                      |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| < 30        | no-op（健康範圍 — daily routine 補 ~3/day 抵 SHIP ~1/day 消化）                                                                                                           |
-| 30 ≤ N < 50 | append LESSONS-INBOX entry「SPORE-INBOX 容量警示 vc=N」+ telegram alert（觀察者 review）                                                                                  |
-| ≥ 50        | **Auto-drop 最舊 5 條** `Requested by twmd-spore-pick-daily routine` 未被 promote（priority 仍 P2 / 未被改 Hook 或 必驗事實）的 entries。哲宇 promote 過的 entry **不動** |
+| Count                   | 處置                                                                                                                                                                                                                                                                        |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| < 30                    | no-op（健康範圍 — daily routine 補 ~3/day 抵 SHIP ~1/day 消化）                                                                                                                                                                                                             |
+| 30 ≤ N < 50             | append LESSONS-INBOX entry「SPORE-INBOX 容量警示 vc=N」+ telegram alert（觀察者 review）                                                                                                                                                                                    |
+| **[30,50) 連 3 週高原** | **升 defer to observer**：手動 review 一次 pending 內容組成、寫進當週 weekly-report §7 SPOF、telegram-poke 觀察者拍板方向（減量 vs. 加速 ship vs. 拉高 auto-drop 閾值三選一）。routine 不自決；蓄水位是穩定過渡狀態不是 acute 事件，長期不解 = auto-drop 觸發前就變隱形習慣 |
+| ≥ 50                    | **Auto-drop 最舊 5 條** `Requested by twmd-spore-pick-daily routine` 未被 promote（priority 仍 P2 / 未被改 Hook 或 必驗事實）的 entries。哲宇 promote 過的 entry **不動**                                                                                                   |
 
 **Auto-drop 安全 SOP**（≥ 50 觸發時）：
 
@@ -400,12 +401,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 - **pattern**: `spore-inbox-capacity-warning`（buffer 蓄水位 audit）
 - **原則**：SPORE-INBOX pending count 落 [30, 50) 警示區間，routine 依 §SPORE-INBOX 容量 audit v2.1 SOP 記錄一次警示訊號；下一次 distill cycle 若 ≥ 50 觸發 auto-drop SOP（最舊 5 條 P2/P3 未被 promote routine-added entries）。
-- **觸發**：2026-07-12 W28 twmd-distill-weekly — pending 49；2026-07-19 W29 twmd-distill-weekly — pending 45（`awk` 掃描回報，spore-publish 一週消化 4 條 vs spore-pick 新增流入約 5 條，淨-4）。相對上一次容量事件（6/21 pending=44 bump vc→2、7/05 auto-drop 5 entry 從 54→49、7/12 audit 49），三週維持在 [30, 50) 高原，沒突破 50 也未回落 <30 健康區間——buffer 已成為穩定過渡狀態，「蓄水位」比「突破臨界」更該當觀察對象。
-- **可能層級**：操作規則 → audit signal；vc 累到 3 且 pending 三週不回落，可考慮升 §SPORE-INBOX v2.1 SOP 加「連 3 週 [30,50) 高原」中間閾值（例如強制一次 review + defer to observer）
-- **相關**：docs/semiont/LESSONS-INBOX.md §SPORE-INBOX 容量 audit（v2.1）/ 7/05 twmd-distill-weekly §已消化 entry (auto-drop 5 → 49) / SPORE-INBOX §Auto-heartbeat / SPORE-PIPELINE ship rate
-- **verification_count**: 2
+- **觸發**：2026-07-12 W28 twmd-distill-weekly — pending 49；2026-07-19 W29 twmd-distill-weekly — pending 45；2026-07-19 W29 twmd-self-evolve-weekly — pending 仍 45（`awk` 掃描回報，spore-publish 一週消化 4 條 vs spore-pick 新增流入約 5 條，淨-4）。相對上一次容量事件（6/21 pending=44 bump vc→2、7/05 auto-drop 5 entry 從 54→49、7/12 audit 49、7/19 W29 distill 45、7/19 self-evolve 補判），**三週維持在 [30, 50) 高原**，沒突破 50 也未回落 <30 健康區間——buffer 已成為穩定過渡狀態，「蓄水位」比「突破臨界」更該當觀察對象。
+- **可能層級**：**操作規則 canonical 已 ship**（2026-07-19 self-evolve）— §SPORE-INBOX 容量 audit v2.1 SOP 加「[30,50) 連 3 週高原 → defer to observer」中間閾值行；routine 不自決減量/加速方向，把選項交給哲宇拍板（減量 vs. 加速 ship vs. 拉高 auto-drop 閾值三選一）
+- **相關**：docs/semiont/LESSONS-INBOX.md §SPORE-INBOX 容量 audit（v2.1 加中間閾值）/ 7/05 twmd-distill-weekly §已消化 entry (auto-drop 5 → 49) / SPORE-INBOX §Auto-heartbeat / SPORE-PIPELINE ship rate
+- **verification_count**: 3
 - **severity**: tactical（buffer 蓄水位訊號，不傷生命徵象）
-- **defer 給觀察者**：否 — routine 自決層 audit log；下次 cycle 觸發 auto-drop 亦屬 §SPORE-INBOX safe-destructive SOP 自主權範圍
+- **defer 給觀察者**：**是** — vc=3 觸發中間閾值 SOP，路線選擇（減量入口 spore-pick vs. 加速出口 spore-publish vs. 拉高 auto-drop 閾值）屬對外節律決策，routine 不自決；本 self-evolve cycle 已把 SOP 加中間閾值 ship，剩實作方向待哲宇拍板
 
 ### 2026-07-12 twmd-routine-audit-weekly — alert-does-not-retire-on-recovery：routine-silent 黃燈五條在 routine 已復活 24-48hr 後仍未自動撤除
 
