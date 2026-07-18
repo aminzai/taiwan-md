@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-18
-last_session: '2026-07-18-190926-twmd-rewrite-daily (cron fire 撞 21 babel writer 並行＋巴別塔擴張 WIP，anti-rewrite 保守路徑 defer，只落 memory)'
+last_session: '2026-07-19-003837-twmd-babel-nightly (cron 撞手動分身 vi/id/pt/hi 出生批延伸到夜裡，Tier 0b 40 條 metadata bump 落地，Tier 0a/Tier 1 內容層讓給共享 backend)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -387,3 +387,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-18 | 114442-soundscape-evolve | /soundscape 完整進化：fr/es 六語補齊＋iigmir 孤兒錄音救援＋sound_play 埋點＋en 同名雙文分家；`8d70e4736` | 善意機制是盲區：fallback 藏 lang 錯置、merge-first 藏孤兒貢獻 | [→](memory/2026-07-18-114442-soundscape-evolve.md) |
 | 2026-07-18 | 184501-manual | 首次完整巴別塔健檢：六分身七維掃描＋babel-health 儀器；確診 cascade 失能、ratio 三尺矛盾；SQUEEZE v4.5＋QUEUE #18/#19；chip 授權同場清償撇號 107 檔＋補閘 `134f38866` | 覆蓋率快照遮蔽產能失能；量尺自身要列健檢維度 | [→](memory/2026-07-18-184501-manual.md) |
 | 2026-07-18 | 190926-twmd-rewrite-daily | cron 撞 21 babel writer 並行＋vi/id/pt/hi 出生 WIP＋當日十件 EVOLVE ship；anti-rewrite defer 只落 memory | 主節律在時 cron 讓位；§Cron 缺 parallel-actor hard gate vc=3 | [→](memory/2026-07-18-190926-twmd-rewrite-daily.md) |
+| 2026-07-19 | 003837-twmd-babel-nightly | 撞手動分身 hi P0＋pt 尾聲；Tier 0b 40 條 metadata 落地（`551311010`），內容層讓路 | Tier 0b 是 sibling collision 天然 partial 面；vc=4 | [→](memory/2026-07-19-003837-twmd-babel-nightly.md) |
