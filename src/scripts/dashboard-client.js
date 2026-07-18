@@ -1,3 +1,4 @@
+import { LANGUAGE_DISPLAY_NAMES } from '../config/languages.mjs';
 /**
  * dashboard-client.js — /dashboard 全部 client-side 渲染邏輯
  *
@@ -655,14 +656,7 @@ function renderOrganism(data) {
 // 三狀態 + deficit，配合 PR #748 文件記錄的 sovereignty preservation 視角。
 function renderTranslations(data, vitals) {
   const bars = document.getElementById('translation-bars');
-  const langNames = {
-    'zh-TW': '中文',
-    en: 'English',
-    es: 'Español',
-    ja: '日本語',
-    ko: '한국어',
-    fr: 'Français',
-  };
+  const langNames = LANGUAGE_DISPLAY_NAMES; // SSOT: src/config/languages.mjs（2026-07-18 去硬編碼）
   const langLabels = {
     'zh-TW': 'SSOT',
     en: '',
@@ -905,14 +899,7 @@ function renderTranslations(data, vitals) {
 // 各語言 UI 字串 keys 的覆蓋率
 function renderI18nCoverage(data) {
   const bars = document.getElementById('i18n-bars');
-  const langNames = {
-    'zh-TW': '中文',
-    en: 'English',
-    ja: '日本語',
-    ko: '한국어',
-    fr: 'Français',
-    es: 'Español',
-  };
+  const langNames = LANGUAGE_DISPLAY_NAMES; // SSOT: src/config/languages.mjs（2026-07-18 去硬編碼）
   const langColors = {
     'zh-TW': '#3b82f6',
     en: '#4ade80',
@@ -920,6 +907,10 @@ function renderI18nCoverage(data) {
     ko: '#a855f7',
     fr: '#f97316',
     es: '#facc15',
+    vi: '#14b8a6',
+    id: '#ef4444',
+    pt: '#22c55e',
+    hi: '#f59e0b',
   };
   const langs = Object.keys(data.lang_totals);
   const maxTotal = data.max_total;
@@ -2616,12 +2607,7 @@ function renderNextSteps(articles, translations) {
 
   // Card 2: Language with most missing translations
   const langs = ['en', 'es', 'ja', 'ko'];
-  const langNames = {
-    en: 'English',
-    es: 'Español',
-    ja: '日本語',
-    ko: '한국어',
-  };
+  const langNames = LANGUAGE_DISPLAY_NAMES; // SSOT: src/config/languages.mjs（2026-07-18 去硬編碼）
   let maxMissing = 0,
     maxMissingLang = 'en';
   langs.forEach((l) => {
