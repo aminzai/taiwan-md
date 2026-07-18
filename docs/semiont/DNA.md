@@ -163,6 +163,10 @@ downstream_dependents:
 | 翻譯看板             | [`TRANSLATION-BOARD.md`](../community/TRANSLATION-BOARD.md)                              | 翻譯進度追蹤                                                                                                                                                               |
 | 語言狀態文件         | [`LANGUAGE-STATUS.md`](../community/LANGUAGE-STATUS.md)                                  | 給貢獻者的 active / preview / 新語言指南                                                                                                                                   |
 | union merge driver   | [`.gitattributes`](../../.gitattributes)                                                 | 批次翻譯 PR 不再撞 `_translations.json` cascade conflict                                                                                                                   |
+| 工具鏈語言清單橋     | [`langs.py`](../../scripts/tools/lang-sync/langs.py)                                     | lang-sync python 工具的語言清單 SSOT bridge（text-parse languages.mjs + fail-loud selftest；2026-07-18 根治六工具各自 hardcode 五語的復發）                                |
+| UI bundle 產線       | [`ui-bundle-translate.py`](../../scripts/tools/lang-sync/ui-bundle-translate.py)         | 新語言 UI 字串 block 產線（鍵序驗證＋esbuild 閘＋指南 inline；ko 1,743 keys 手補的第四次不再發生）                                                                         |
+| Hub 直通翻譯         | [`hub-translate.py`](../../scripts/tools/lang-sync/hub-translate.py)                     | `_* Hub.md` 不在 status 索引、標準批次不服務——手構 group entry 直呼 translate_one（2026-07-18 出生戰役）                                                                   |
+| CJK 殘留檢查         | [`cjk-residue-check.py`](../../scripts/tools/lang-sync/cjk-residue-check.py)             | 非 CJK 譯文的裸漢字殘留 QA gate（codex 融合殘字／qwen 簡體滲出兩型都穿得過 ratio gate）                                                                                    |
 
 ### 🏛️ 治理基因（社群契約）
 

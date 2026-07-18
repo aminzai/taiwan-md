@@ -3,9 +3,9 @@ title: 'LANGUAGE-BIRTH-CHECKLIST'
 description: '新語言誕生 pipeline — 選址→scaffold→模型校準→P0 內容批→介面與路由→啟用 flip→出生後驗證 7 stage + 四層完整度 hard gate（v2.0）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.0'
+current_version: 'v2.1'
 last_updated: 2026-07-18
-last_session: '2026-07-18-115441-manual（vi/id/pt/hi 選址後全檔重寫，對齊註冊表時代的身體）'
+last_session: '2026-07-18 出生戰役（首次全程 dogfood 回寫：算力雙軌／Hub runner／CJK gate／UI 產線）'
 sister_docs:
   - 'TRANSLATION-PIPELINE.md'
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -143,12 +143,14 @@ upstream_canonical:
 
 - [ ] 選批：首頁接觸點（策展過最能代表台灣的文章）＋該語言市場 SC 熱點，約 50 篇
 - [ ] 跑 babel cascade（[SQUEEZE v4.4](SQUEEZE-MODELS-MAX-PIPELINE.md)：Tier 0 diff-patch / Tier 1-2 cloud / 本地捕手 / fleet），每篇 frontmatter `translatedFrom` + `sourceCommitSha` 齊
+- [ ] **算力雙軌**（v2.1，2026-07-18 實戰定型）：codex 池吃品質關鍵與大檔、本機 qwen 池吃長尾，cascade 互為 fallback（`codex,ollama` vs `ollama,codex`）——兩份 disjoint 輸入檔避免同檔互蓋。天城文等高 token 密度書寫系統給 codex 設 `CODEX_TIMEOUT=1200`（hi 大檔 600s 必 timeout）
+- [ ] **Hub 層走直通 runner**：`scripts/tools/lang-sync/hub-translate.py <lang>`——⚠️ `_* Hub.md` 不在 `_translation-status.json` 索引（`_` 前綴被排除），`prepare-batch --input` 對它們一律 Skipping unknown，標準批次管線從不服務 Hub（es/fr 當年是手工，2026-07-18 才發現此結構洞）
 - [ ] 10% 抽檢人讀完成品（生產量 ≥ 品質是 AI Slop 的定義）
-- [ ] Hub 層：分類 Hub 頁有基本策展內容，不是空骨架（用讀者已知座標系寫，參考 ko Hub「韓台平行線」手法）
+- [ ] **CJK 殘留 QA gate**：`cjk-residue-check.py --lang {lang}` 全綠才進 Stage 5——codex 會產融合殘字（phong杀 型）、**本機 qwen 會漏簡體片段**（连霸／阶段性 型，簡體訓練底色滲出），兩型都穿得過 ratio gate
 
 ## Stage 4 — 介面與路由
 
-- [ ] `src/i18n/` 各 bundle（以目錄實際檔案數為準，2026-07 為 17 檔）加 `{lang}` block：機翻 cascade 產初版＋母語者或高信心 model spot-check
+- [ ] `src/i18n/` 各 bundle（以目錄實際檔案數為準，2026-07 為 17 檔）加 `{lang}` block：**跑產線儀器 `scripts/tools/lang-sync/ui-bundle-translate.py --file src/i18n/{f} --lang {lang} --backend codex --fallback ollama --apply`**（字串感知括號配對＋鍵序驗證＋esbuild 語法閘＋指南 TL;DR inline；2026-07-18 誕生，同檔四語序列跑避免並寫互蓋）＋母語者或高信心 model spot-check
 - [ ] Key 數對齊驗證（防 ko 1,743 keys 空洞重演）——見下方 §驗證指令
 - [ ] `src/pages/{lang}/` 路由目錄：現狀為複製既有語言目錄（以 `src/pages/en/` 實際內容為準）。**已知結構債**：每語一份實體目錄在 10 語時代不可維護，去複製化（動態 `[lang]` 路由或腳本化產生）是巴別塔結構進化項，評估紀錄在 2026-07-18 報告 §三個結構性進化項
 - [ ] Header 語言切換、nav、`getLangSwitchPath`（LangMapRegistry uniform 2-step，加語言 = registry 一行）確認自動 derive
@@ -210,5 +212,6 @@ npm run check:url-contract
 
 ---
 
+_v2.1 | 2026-07-18 出生戰役 — vi/id/pt/hi 首次全程 dogfood 回寫：Stage 3 收算力雙軌定型＋Hub 直通 runner（`_` 前綴不在 status 索引的結構洞）＋CJK 殘留 QA gate（codex 融合殘字與 qwen 簡體滲出兩型）；Stage 4 UI 產線儀器化（ui-bundle-translate.py）。完整實錄：[reports/language-birth-2026-07-18.md](../../reports/language-birth-2026-07-18.md)\_
 _v2.0 | 2026-07-18 115441-manual — 全檔重寫對齊註冊表時代：7 stage（選址→scaffold→校準→P0 批→介面路由→flip→出生後驗證）+ Hard Gate Inventory + 主權前測紀律 + 殭屍步驟清除。觸發：哲宇「紀錄經驗＋進化整個新語言誕生＋支援的過程跟完整需要執行的 pipeline 跟 dna」_
 _v1.0 | 2026-04-08 γ — ko 誕生教訓：語言器官四層結構，只量文章數 = 只量一維_

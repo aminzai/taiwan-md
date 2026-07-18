@@ -518,10 +518,20 @@ Action: purged 19 + ship → status.py 確認 fresh count 反映正確真實基�
 
 ### 退役紀錄
 
-| Model                              | 退役日期   | 原因                                    | 影響                                             |
-| ---------------------------------- | ---------- | --------------------------------------- | ------------------------------------------------ |
-| `tencent/hy3-preview:free`         | 2026-05-12 | 轉付費 / 不在 OpenRouter free inventory | v3 → v4 abstraction 觸發；gpt-oss-120b 接 Tier 2 |
-| `openrouter-batch.sh` for Hy3 副批 | 2026-05-12 | Hy3 退役連動                            | 改走 v4 translate.py cascade                     |
+| Model                              | 退役日期   | 原因                                                                                                                                       | 影響                                                                         |
+| ---------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| `tencent/hy3-preview:free`         | 2026-05-12 | 轉付費 / 不在 OpenRouter free inventory                                                                                                    | v3 → v4 abstraction 觸發；gpt-oss-120b 接 Tier 2                             |
+| `openrouter-batch.sh` for Hy3 副批 | 2026-05-12 | Hy3 退役連動                                                                                                                               | 改走 v4 translate.py cascade                                                 |
+| `openai/gpt-oss-120b:free`         | 2026-07-18 | OpenRouter 下架（HTTP 404 model unavailable）；同日探 Tier 3 佇列：hermes-405b 回空、nemotron-super reasoning 漏思考進輸出                 | Tier 2 free 缺位；戰時 cascade 靠 codex+ollama 兩腿，季度 recalibration 補位 |
+| `gemini` CLI（個人版 tier）        | 2026-07-18 | **服務端永久死亡**：`IneligibleTierError`，Google 收掉 Gemini Code Assist for individuals（要遷 Antigravity）。TERM 警告是煙霧彈，別修錯層 | queue #18 (a)「摘出 default cascade」的死因確認；遷移是哲宇帳號決策          |
+
+## 2026-07-18 出生戰役 backend 現況筆記（vi/id/pt/hi 四語啟動實測）
+
+- **codex 復活**：nvm PATH 舊殼（vendor 目錄改版後 binary ENOENT）清除＋symlink `~/.hermes/node/bin/codex`。此殼病很可能就是「Tier 1 連死 ≥10 夜」的病根——cron 環境同樣走壞 PATH。實測：一般篇 165-460s、大檔 ~7-8 min
+- **ollama qwen3.6 復活**：thinking 模型必須 payload `"think": false`，否則 token 預算全燒思考通道回空（backends/ollama.py 已固定）。實測 101-260s/篇；**refusal 探針（張懸與安溥）零拒絕**，主權捕手地位實測維持
+- **per-lang timeout**：hi 天城文輸出 token 2-3×，codex 600s 對大檔必 timeout → `CODEX_TIMEOUT` env 覆蓋（backends/codex.py），hi 批建議 1200s。結構解候選：cascade per-lang timeout 倍率表
+- **新語言校準結果**：4 語 × 4 篇校準集 refusal 全過（hi 1 篇 timeout 屬容量非拒絕）；ratio band 實測 2.2-4.0 全語系同量級（天城文「較緊湊」預想被推翻），已入 `translation-ratio-check.sh`
+- **下游 QA 新閘**：`cjk-residue-check.py`——codex 產融合殘字（phong杀）、qwen 漏簡體片段（连霸/阶段性），兩型都穿得過 ratio gate，非 CJK 語言 batch 後必掃
 
 ## 驗證 SOP — 把候選 model 升上 Tier 2
 
