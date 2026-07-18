@@ -42,6 +42,7 @@ TARGET_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi"}
 
 
 MULTILINE_LINK = re.compile(r"\]\([^)]*?\)", re.S)  # 連結目標可被 prettier 摺行
+BARE_URL = re.compile(r'https?://[^\s"\')]+')  # 裸 URL（含 zh.wikipedia CJK path）合法
 
 
 def check_file(path: Path):
@@ -51,6 +52,7 @@ def check_file(path: Path):
     offset = text[: m.end()].count("\n") if m else 0
     # 跨行連結目標先全文級挖掉（保行數：換行以外置空）
     body = MULTILINE_LINK.sub(lambda mm: "".join(c if c == "\n" else " " for c in mm.group(0)), body)
+    body = BARE_URL.sub(lambda mm: " " * len(mm.group(0)), body)
     hits = []
     for i, line in enumerate(body.splitlines(), start=offset + 1):
         stripped = PAREN.sub("", line)
