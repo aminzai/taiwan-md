@@ -595,7 +595,38 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **源信心**：SC 單源強訊號（position+impressions 確定）；per-article GA 在本次 cached export 只有首頁級彙總、無法交叉確認站內行為。DNA #4 雙源未滿足，標記為 SC-primary。
 - **Reference**: public/api/dashboard-analytics.json `searchConsole7d.opportunities[0]`
 
-<!-- watch-signal（未升 candidate，下次 scan 覆核）：`台灣日治時期` SC28d 17,793 impr / CTR 0.25% / pos 7.68 — broad query 缺口已放大，但本輪 GA4 匯出沒有單篇路徑匹配，雙源未滿足，暫留 watch；既有 hub knowledge/History/日治時期.md 與子題文章（日治時期文學 / 社會運動）待下輪判斷 SEO 修補或正文深化。`原住民女歌手` 68 impr / pos 8.62 — 既有 當代原住民創作歌手 / 台灣原住民音樂傳統，可考慮聚焦女性創作者 list。`周智宣` 100 impr 無專文 = 潛在 NEW，但人物 niche 待哲宇判斷敏感度。 -->
+### 日治時期 EVOLVE — 種站第一天出生的裸標題 hub，SC 28d 曝光 1.7 萬次只拿 0.25% CTR
+
+- **Type**: `EVOLVE`
+- **Category**: History
+- **Path**: knowledge/History/日治時期.md
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by /twmd-evolve 完整進化 scan (session 2026-07-18-115711-manual)
+- **Notes**:
+  - **為什麼這篇 vs 其他**：進化分數 ~76，本輪最高。上輪 scan 已把 `台灣日治時期` 留 watch（SC 28d 17,793 impr / CTR 0.25% / pos 7.68，當時 GA 單篇路徑沒對上、雙源未滿足）；本輪 GA 7d `/history/日治時期/` 33 views（全站文章第 12）對上，雙源成立。文章是 2026-03-17 種站第一天出生的初代文：裸標題「日治時期」、百科腔 description（「帶來全面現代化建設與制度化管理」）、1,903 字 / 5 腳註 / healthScore 54 / lastVerified 2026-03-19 是本輪流量榜上最老的一篇。對照同為 History 支柱的近期文（6,000+ 字 / 20+ 腳註），它是「流量最大 × 品質最舊」交集的第一名
+  - 圖譜位置：它是 History hub——日治時期文學 / 日治時期社會運動 / 蓬萊米 / 台灣日日新報脈絡都回連它，母頁單薄 = 圖譜結構性洞
+  - 政治敏感度中高：殖民現代化 vs 同化政策的雙面性。立體群像 spine（REFLEXES #77）、紀實而不煽情；舊 description 的單面「建設」表述正是要清掉的東西
+  - 必驗事實：統治起訖與分期（1895 馬關-1945）、三階段統治政策的學界分期、皇民化運動時點、「殖民現代性」的多方學術觀點（矢內原忠雄以降）
+  - CTR 修補跟正文深化一起做：title/description 是洩漏主因（pos 7.68 預期 CTR 2-3%，實際 0.25%），但 hub 本體 1,903 字也該同輪進化，不做半套
+- **Reference**: public/api/dashboard-analytics.json（GA 7d topArticles + SC 28d watch-signal 2026-06-04 首記）
+
+### 🟠 彎彎 SEO 優化 — SC 7d 1,363 曝光 CTR 0.81%，第 7 名的位置該有三倍點擊
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path** (EVOLVE only): knowledge/People/彎彎.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by /twmd-evolve 完整進化 scan (session 2026-07-18-115711-manual)
+- **Notes**:
+  - **訊號**：SC 7d `彎彎` 1,363 impr / 11 clicks / CTR 0.81% / pos 7.52 — 本輪非品牌人物 query 曝光第 2 高（僅次金城武），pos 7-8 預期 CTR 2-3%
+  - **動作判定 🟠 SEO 優化（非 Rewrite）**：文章 2026-06-29 才重寫（7,259 字 / 24 腳註 / healthScore 65），品質維度乾淨，問題在 SERP 呈現層
+  - ⚠️ **de-center 紀律**：06-29 重寫時哲宇拍板「私人爭議不做脊椎」（EDITORIAL v6.13）——SEO 調整不得為了 CTR 把爭議放回 title/description。優化方向是把搜尋者真正在找的座標（MSN 時代 / 部落格始祖 / 貼圖）放到 SERP 可見的前段
+  - 必查：實搜「彎彎」看 SERP 長相（wiki / 新聞卡 / 圖片包是否壓在上面），對症下藥再動 frontmatter
+- **Reference**: public/api/dashboard-analytics.json searchConsole7d.topQueries
+
+<!-- watch-signal（未升 candidate，下次 scan 覆核）：`原住民女歌手` 68 impr / pos 8.62 — 既有 當代原住民創作歌手 / 台灣原住民音樂傳統，可考慮聚焦女性創作者 list（沿上輪）。`周智宣` 100 impr 無專文 = 潛在 NEW，人物 niche 待哲宇判斷敏感度（沿上輪）。2026-07-18 本輪新增：`台灣的道德課去哪了` GA7d 37 views / health 50 / lv 04-25，進化分數 ~50 未過 60 gate（單源 GA、無 SC 訊號）；`退出聯合國` GA7d 37 views / health 57 / lv 05-02，~49 同未過；`MTV包廂` GA7d 27 views / health 41 / lv 05-10，~48——KTV EVOLVE 已在 pending，未來可同波處理包廂娛樂史；`曾博恩` SC7d 972 impr / CTR 0.93% / pos 10.09 — 低 CTR 主因是排名第 10 不是呈現層，health 44 但 9,267 字 51 腳註（分數疑受 lastVerified 05-13 與格式扣分拖累），先觀察。 -->
 
 ### 台灣邦交國與國際外交 EVOLVE — 2026 freshness + 英文版 SEO 校準（SC「diplomatic allies 2026」cluster 缺口）
 
@@ -1135,7 +1166,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Requested**: 2026-06-12 by viz-evolution session（哲宇 goal 的 v3 延伸，graph.md §九 + reports/viz-system-evolution-2026-06-12.md §7）
 - **Notes**:
   - 不為加而加：各篇 EVOLVE 時順帶升級，不單獨為配圖開 rewrite
-  - 22縣市的 22 列 heatmap 可升級或並用 tw-tiles（資料已在文內，零新查證）
+  - 22縣市的 22 列 heatmap 可升級或並用 tw-tiles（資料已在文內，零新查證）。2026-07-18 evolve scan 補訊號：GA 7d 28 views / healthScore 41 / 5 腳註——它有穩定真流量，batch 內優先序靠前，viz 升級時順手補引用密度
   - 少子化 pyramid 需先查證年齡×性別官方數據（22縣市文只有比率，事實鐵三角）
   - 核能公投段 stack 數據已驗證（中選會三場），低風險
   - 配圖後必跑 `node scripts/tools/viz-shot.mjs --page {該頁}` 像素閘門
