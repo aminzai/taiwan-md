@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
 last_updated: 2026-07-18
-last_session: '2026-07-18-105326-manual（發票 EVOLVE finale evolve scan：新增吳百福 P0 candidate，GA4 流量第 5 但 healthScore 全榜最低）'
+last_session: '2026-07-18-111730-inbox-skill（/twmd-article-inbox 台灣建築 首次 dogfood：4 平行 agent 研究 → 10 條 candidates append，P0×3 / P1×4 / P2×3）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -173,6 +173,137 @@ BECOME_TAIWANMD.md Step 5 新增：
 ---
 
 ## 📥 Pending（待開發）
+
+### 台灣建築 EVOLVE — 總覽 hub 只有 136 行 0 腳註，四份研究報告已備好當素材
+
+- **Type**: `EVOLVE`
+- **Category**: Art
+- **Path**: knowledge/Art/台灣建築.md
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by 哲宇 /goal + branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
+- **Notes**:
+  - **為什麼這篇 vs 其他**：它是整個建築 theme 的 hub（本批全部候選都會回連它），現況 136 行 / 0 腳註 / 2026-03-28 後未再驗證，是早期單薄文的典型；且四份 branch 研究報告（A-D）已就位，Stage 1 素材現成，ROI 全批最高
+  - 連結密度：騎樓 / 鐵皮屋 / 眷村 / 廟宇文化 / 台北101 / 大稻埕 / 各縣市文 全可互連（5+ 篇）
+  - 敘事弧建議：「誰有權定義這座島的樣子」四百年接力（見 master report §跨部觀察 1）
+- **Pre-research**: reports/research/2026-07/台灣建築-comprehensive.md + A/B/C/D 四份子報告
+
+### 台灣古蹟保存運動史 NEW — 從林安泰古厝拆遷到樂生與老屋新生
+
+- **Type**: `NEW`
+- **Category**: History
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
+- **Notes**:
+  - **為什麼這篇 vs 其他**：A、D 兩個互不知情的 research agent 獨立收斂到同一題（雙 agent 收斂 = 最硬的缺口訊號）。林安泰古厝（1978，李重耀編碼保存法）→ 文資法（1982）→ 樂生療養院 → 老屋新生，四十餘年敘事完整、有人物有制度有衝突
+  - 連結密度：台灣建築 / 社會住宅與居住正義 / 台灣眷村歷史 / 廟宇文化（4+ 篇）
+  - 敏感度：樂生案兼具居住正義與保存的價值衝突，紀實而不煽情（REFLEXES #28）
+- **Pre-research**: reports/research/2026-07/台灣建築-A-歷史軸.md §2.2 + 台灣建築-D-常民與保存.md §四
+
+### 衛武營國家藝術文化中心 NEW — 榕樹下的世界級單一屋頂
+
+- **Type**: `NEW`
+- **Category**: Art
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
+- **Notes**:
+  - **為什麼這篇 vs 其他**：C 報告最高優先——TIME 2019 世界最佳景點、亞洲最大管風琴、Mecanoo/法蘭馨・侯班的榕樹意象，敘事完整度接近台北101 等級的地標文
+  - ⚠️ 必驗事實：「全球最大單一屋頂表演藝術中心」是媒體共識非金氏紀錄（4 源已交叉），寫作用「號稱」級語氣
+  - 連結密度：高雄市 / 台灣建築 / 音樂類文章 / 國際建築師脈絡（4+ 篇）
+  - Series 種子：與台北表演藝術中心、台中國家歌劇院構成「國際建築師三部曲」（後兩篇在 master report 次波 pool，衛武營先行驗證讀者反應）
+- **Pre-research**: reports/research/2026-07/台灣建築-C-當代建築.md §四
+
+### 台灣戰後現代主義建築群像 NEW — 王大閎、陳其寬、修澤蘭、漢寶德、王秋華合一篇
+
+- **Type**: `NEW`
+- **Category**: Art
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
+- **Notes**:
+  - **為什麼群像不是五篇**：B 報告逐位誠實評估，五位都過不了 People 獨立成篇門檻（\_PEOPLE-ROADMAP 200 人計畫建築師零命中）→ 群像文；「宮殿式（楊卓成）vs 現代主義」路線之爭當脊椎
+  - 修澤蘭是最接近門檻的一位（近年專書＋特展＋女性建築師敘事）——是否走「真實重要性」例外路徑獨立成篇，留哲宇裁決
+  - ⚠️ 路思義教堂歸屬爭議已在 台中市.md 完整處理，群像文只連結不重寫
+  - 連結密度：台灣建築 / 台中市 / 圓山大飯店段 / 東海相關（3+ 篇）
+- **Pre-research**: reports/research/2026-07/台灣建築-B-戰後現代主義.md
+
+### 森山松之助與日治州廳建築 NEW — 一位建築師如何用紅磚定義台灣的官方臉孔
+
+- **Type**: `NEW`
+- **Category**: History
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
+- **Notes**:
+  - **為什麼這篇 vs 其他**：總覽文只用一段帶過總統府；A 報告挖到森山 14 年 20+ 作品與台北/台中/台南州廳三部曲（三座今為監察院/台中州廳/台南文學館），足撐「主文＋深度篇」分工
+  - 連結密度：台灣建築 / 台南市 / 台中市 / 日治時期相關（4+ 篇）
+- **Pre-research**: reports/research/2026-07/台灣建築-A-歷史軸.md §3
+
+### 台灣都市更新爭議 NEW — 從文林苑到危老條例
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
+- **Notes**:
+  - **為什麼這篇 vs 其他**：文林苑（2012）→ 釋字 709 → 都更條例修法 → 危老條例的政策因果鏈清晰，且 2025 修法動向仍活躍（時效性）；與社宅/國宅兩篇分工——那兩篇談居住政策，本篇談「拆與不拆」的產權與程序
+  - 連結密度：社會住宅與居住正義 / 國宅與居住正義 / 鐵皮屋 / 古蹟保存運動（4+ 篇）
+  - 寫作提示：都更 vs 危老 容積獎勵與程序差異表格化（D 報告建議）
+- **Pre-research**: reports/research/2026-07/台灣建築-D-常民與保存.md §五
+
+### 黃聲遠與田中央工作群 NEW — 留在宜蘭蓋沒有圍牆的建築
+
+- **Type**: `NEW`
+- **Category**: People
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
+- **Notes**:
+  - **為什麼這篇 vs 其他**：國家文藝獎＋吉阪隆正賞首位外國得主＋歐洲巡展，是當代台灣建築師中敘事獨特性最強的一位；「沒有圍牆的建築」與土地關係的哲學命題適合策展式寫法
+  - ⚠️ **People 門檻裁決留哲宇**：B、C 兩個 agent 對「建築師過不過 People 門檻」判斷相反（B：roadmap 零建築師 = 策展有意排除；C：黃聲遠明顯過門檻）。收 P1 但動工前過一次門檻確認
+  - 連結密度：台灣建築 / 宜蘭相關 / 幾米（已提及黃聲遠）（3+ 篇）
+- **Pre-research**: reports/research/2026-07/台灣建築-C-當代建築.md §一
+
+### 廟宇建築與對場作 NEW — 兩位大木匠師在保安宮各蓋半邊廟
+
+- **Type**: `NEW`
+- **Category**: Culture
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
+- **Notes**:
+  - **與既有文分工（dedup 降級理由）**：台灣傳統工藝與無形文化資產.md（29 腳註）已 cover 匠師工藝總覽 → 本篇限縮「廟宇建築本身＋對場作制度」：陳應彬 vs 郭塔保安宮拚場（三源已驗）、王益順龍山寺
+  - ⚠️ 必驗事實：陳應彬/王益順/葉王/何金龍/潘麗水皆卒於 2009 人間國寶制度上路前，不可稱人間國寶（D 報告時序警示）
+  - 連結密度：台灣宗教與寺廟文化 / 台灣廟會與陣頭文化 / 傳統工藝文（3+ 篇）
+- **Pre-research**: reports/research/2026-07/台灣建築-D-常民與保存.md §三
+
+### 台灣綠建築運動 NEW — 全球第二個國家級綠建築標章的島嶼
+
+- **Type**: `NEW`
+- **Category**: Technology
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
+- **Notes**:
+  - **為什麼這篇 vs 其他**：「EEWH 是全球第二個國家級綠建築標章」是少見具全球對照座標的軟實力敘事；制度史寫法，北投圖書館＋花博夢想館當血肉
+  - 連結密度：台灣建築 / 永續相關 / 北投相關（3 篇）
+- **Pre-research**: reports/research/2026-07/台灣建築-C-當代建築.md §三
+
+### 鐵窗花 NEW — 戰後台灣窗上的手工幾何
+
+- **Type**: `NEW`
+- **Category**: Culture
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by branch-analysis — 台灣建築 (session 2026-07-18-111730-inbox-skill)
+- **Notes**:
+  - **為什麼這篇 vs 其他**：常民視覺元素中圖像化潛力最高（適合配圖），與騎樓/鐵皮屋構成「台灣街景視覺元素」小系列
+  - ⚠️ 深度依賴老屋顏工作室單一田野來源（圖案地域分類無第二研究體系可交叉）——寫作標「根據老屋顏工作室踏查」不當學術定論
+  - 連結密度：台灣騎樓文化與街景 / 鐵皮屋 / 台灣眷村歷史（3 篇）
+- **Pre-research**: reports/research/2026-07/台灣建築-D-常民與保存.md §一
 
 ### 陳昇 EVOLVE — SC 排名 9 逼近首頁邊緣，現況僅 6 條腳註（evolve SC 訊號）
 
