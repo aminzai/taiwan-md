@@ -220,7 +220,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 必驗事實：廣告代言時間線（長榮航空 I SEE YOU 2013）、《重慶森林》《墮落天使》年份、日台混血家世敘述口徑
   - 潛在陷阱：私生活低調是人設一部分，不八卦化；日籍身分議題不炒作
 - **Reference**: public/api/dashboard-analytics.json §searchConsole7d
-- **附帶快修（同訊號批）**：無名小站 title/description SEO 優化（2,025 imp / 0.74% CTR / pos 8.37）；張懸與安溥 freshness 重驗＋「張懸為什麼改名」query（81 imp / 12.35% CTR / pos 3.54）確認 description 有答到
+- **附帶快修（同訊號批）**：無名小站 title/description SEO 優化（2,025 imp / 0.74% CTR / pos 8.37，2026-07-18 複查仍在 1,974 imp / 0.71% CTR / pos 8.33，訊號穩定未修，非一次性波動）＋ 2026-07-18 `article-health.py --profile=rewrite-stage-4` 新揭露 3 處 viz-health HARD gate（L75 `tw-stat`／L116 `tw-versus`／L127 `tw-timeline` 皆缺來源標註，各補一行「來源：機構，年份」即可，來源應已在 `reports/research/2026-06/無名小站.md` 內，非新研究）；張懸與安溥 freshness 重驗＋「張懸為什麼改名」query（81 imp / 12.35% CTR / pos 3.54）確認 description 有答到
 
 <!-- ═══ 2026-06-19 inbox distill（哲宇 directive：深度研究 + 查看現況 + 整理）═══ -->
 <!-- 移除 16 幽靈/重複條目（詳見 session memory 2026-06-19-123909-inbox-distill）；NML batch 14 條全降 P3（哲宇 nod）-->
