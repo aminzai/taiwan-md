@@ -1,19 +1,26 @@
 ---
 title: 'Lin Huai-min'
-description: 'Un romancier a fondé la première compagnie de danse contemporaine du monde sinophone — et l'a fait vivre plus de cinquante ans'
+description: "Un romancier a fondé la première compagnie de danse contemporaine du monde sinophone — et l'a fait vivre plus de cinquante ans"
 date: 2026-03-23
-tags: ['Personnalité', 'Danse', 'Arts', 'Arts du spectacle', 'Cloud Gate Dance Theatre']
+tags:
+  [
+    'Personnalité',
+    'Danse',
+    'Arts',
+    'Arts du spectacle',
+    'Cloud Gate Dance Theatre',
+  ]
 subcategory: 'Arts et création'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-23
-translatedFrom: "People/林懷民.md"
+translatedFrom: 'People/林懷民.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:42fcc41544e48198'
 sourceBodyHash: 'sha256:13ac312ffbbbdc9b'
-translatedAt: "2026-04-14T19:15:55+08:00"
+translatedAt: '2026-04-14T19:15:55+08:00'
 ---
 
 > **En 30 secondes :** En 1973, Lin Huai-min, romancier de 26 ans sans formation professionnelle en danse, fonde à Taïwan la première compagnie de danse contemporaine professionnelle du monde sinophone : le Cloud Gate Dance Theatre. La troupe restera active sur la scène internationale pendant plus de cinquante ans et sera saluée par le _New York Times_ comme « la compagnie de danse contemporaine la plus importante d'Asie ».

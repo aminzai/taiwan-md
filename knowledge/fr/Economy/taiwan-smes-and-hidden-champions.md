@@ -1,19 +1,28 @@
 ---
-title: 'PME taïwanaises et champions cachés : le miracle économique porté par 1,71 million d'entreprises ordinaires'
-description: 'Ce qui soutient véritablement l'économie de Taïwan, ce ne sont pas les géants nationaux, mais 1,71 million d'entreprises apparemment banales qui génèrent 79 % des emplois. Des artisans des années 1960 aux royaumes de la fabrication de précision qui dominent aujourd'hui des niches mondiales.'
+title: "PME taïwanaises et champions cachés : le miracle économique porté par 1,71 million d'entreprises ordinaires"
+description: "Ce qui soutient véritablement l'économie de Taïwan, ce ne sont pas les géants nationaux, mais 1,71 million d'entreprises apparemment banales qui génèrent 79 % des emplois. Des artisans des années 1960 aux royaumes de la fabrication de précision qui dominent aujourd'hui des niches mondiales."
 date: 2026-03-24
-tags: [PME, champions cachés, industrie manufacturière, sous-traitance, chaîne d'approvisionnement mondiale, entreprises familiales, esprit entrepreneurial]
+tags:
+  [
+    PME,
+    champions cachés,
+    industrie manufacturière,
+    sous-traitance,
+    chaîne d'approvisionnement mondiale,
+    entreprises familiales,
+    esprit entrepreneurial,
+  ]
 subcategory: 'Développement économique'
 category: Economy
 author: 'Taiwan.md Translation Team'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-24
-translatedFrom: "Economy/台灣中小企業與隱形冠軍.md"
+translatedFrom: 'Economy/台灣中小企業與隱形冠軍.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:51e4bbc49efeda40'
 sourceBodyHash: 'sha256:a547cd2ed92973fa'
-translatedAt: "2026-04-14T19:20:24+08:00"
+translatedAt: '2026-04-14T19:20:24+08:00'
 ---
 
 # PME taïwanaises et champions cachés

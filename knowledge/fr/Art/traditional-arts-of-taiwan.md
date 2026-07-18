@@ -1,15 +1,24 @@
 ---
 title: 'Les arts traditionnels de Taïwan'
-description: 'Le plus grand miracle culturel du XXIe siècle en Asie : comment le théâtre de marionnettes Pili, avec un chiffre d'affaires annuel dépassant le milliard, est passé d'un spectacle de village à une puissance douce qui conquiert le monde.'
+description: "Le plus grand miracle culturel du XXIe siècle en Asie : comment le théâtre de marionnettes Pili, avec un chiffre d'affaires annuel dépassant le milliard, est passé d'un spectacle de village à une puissance douce qui conquiert le monde."
 date: 2026-03-24
-tags: [arts, arts traditionnels, théâtre de marionnettes, opéra taïwanais, céramique jiaozhi, patrimoine culturel immatériel, préservation culturelle]
+tags:
+  [
+    arts,
+    arts traditionnels,
+    théâtre de marionnettes,
+    opéra taïwanais,
+    céramique jiaozhi,
+    patrimoine culturel immatériel,
+    préservation culturelle,
+  ]
 subcategory: 'Arts du spectacle'
 category: Art
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-24
-translatedFrom: "Art/台灣傳統藝術.md"
+translatedFrom: 'Art/台灣傳統藝術.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8199dcc4edeb2fce'
 sourceBodyHash: 'sha256:de7228ea44ad062e'

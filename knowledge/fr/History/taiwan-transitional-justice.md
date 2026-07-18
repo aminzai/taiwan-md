@@ -1,14 +1,21 @@
 ---
 title: 'La justice transitionnelle à Taïwan'
-description: 'Taïwan a annulé près de six mille condamnations prononcées sous le régime autoritaire, mais presque aucun bourreau n'a eu à rendre de comptes — cet écart est plus difficile à expliquer que la Terreur blanche elle-même.'
+description: "Taïwan a annulé près de six mille condamnations prononcées sous le régime autoritaire, mais presque aucun bourreau n'a eu à rendre de comptes — cet écart est plus difficile à expliquer que la Terreur blanche elle-même."
 date: 2026-03-31
-tags: [histoire, justice transitionnelle, démocratisation, droits humains, Terreur blanche]
+tags:
+  [
+    histoire,
+    justice transitionnelle,
+    démocratisation,
+    droits humains,
+    Terreur blanche,
+  ]
 subcategory: 'Histoire contemporaine'
 category: 'History'
 author: 'Taiwan.md Translation Team'
 readingTime: 14
 featured: false
-translatedFrom: "History/台灣轉型正義.md"
+translatedFrom: 'History/台灣轉型正義.md'
 lastVerified: 2026-03-31
 lastHumanReview: false
 sourceCommitSha: '6c2f8ea8'

@@ -1,6 +1,6 @@
 ---
 title: 'La controverse sur les médicaments vétérinaires à Taïwan'
-description: 'Le 1er juillet 2026, une nouvelle réglementation sur l'utilisation des médicaments humains chez les chiens et chats entre en vigueur. Sur les 701 médicaments annoncés par le gouvernement, seulement 144 ont complété leur enregistrement, l'oxygène médical d'urgence est à zéro, et plus de cent mille propriétaires d'animaux ont signé une pétition pour demander un report. Cette histoire, ouverte en 2012, révèle le fossé entre une île qui traite ses animaux comme des membres de la famille, mais leurs médicaments comme de simples marchandises.'
+description: "Le 1er juillet 2026, une nouvelle réglementation sur l'utilisation des médicaments humains chez les chiens et chats entre en vigueur. Sur les 701 médicaments annoncés par le gouvernement, seulement 144 ont complété leur enregistrement, l'oxygène médical d'urgence est à zéro, et plus de cent mille propriétaires d'animaux ont signé une pétition pour demander un report. Cette histoire, ouverte en 2012, révèle le fossé entre une île qui traite ses animaux comme des membres de la famille, mais leurs médicaments comme de simples marchandises."
 date: 2026-04-10
 tags:
   [
@@ -20,7 +20,7 @@ featured: false
 readingTime: 18
 lastVerified: 2026-04-10
 lastHumanReview: false
-translatedFrom: "Society/台灣動物用藥爭議.md"
+translatedFrom: 'Society/台灣動物用藥爭議.md'
 sourceCommitSha: '9a60e8fd'
 sourceContentHash: 'sha256:670bf6306d125685'
 sourceBodyHash: 'sha256:58df60a34bbdc3ea'

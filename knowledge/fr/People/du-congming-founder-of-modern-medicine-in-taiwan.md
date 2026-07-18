@@ -1,6 +1,6 @@
 ---
 title: 'Du Cong-ming'
-description: 'Premier docteur en médecine de Taïwan, Du Cong-ming a développé la méthode de sevrage progressif qui permit à 11 498 personnes de se libérer de l'opium en dix-sept ans. Il est également le fondateur de l'Université de médecine de Kaohsiung.'
+description: "Premier docteur en médecine de Taïwan, Du Cong-ming a développé la méthode de sevrage progressif qui permit à 11 498 personnes de se libérer de l'opium en dix-sept ans. Il est également le fondateur de l'Université de médecine de Kaohsiung."
 date: 2026-03-31
 tags:
   [
@@ -19,7 +19,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-31
-translatedFrom: "People/杜聰明.md"
+translatedFrom: 'People/杜聰明.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'

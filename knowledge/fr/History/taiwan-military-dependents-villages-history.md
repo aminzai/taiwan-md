@@ -1,8 +1,15 @@
 ---
-title: 'Les villages militaires de Taïwan — mémoire d'un exil fondateur'
-description: 'Des soldats perdus en Birmanie aux royaumes de bambou : comment 1,2 million de réfugiés ont réinventé l'idée de "chez soi" à Taïwan'
+title: "Les villages militaires de Taïwan — mémoire d'un exil fondateur"
+description: 'Des soldats perdus en Birmanie aux royaumes de bambou : comment 1,2 million de réfugiés ont réinventé l''idée de "chez soi" à Taïwan'
 date: 2026-03-22
-tags: ['villages militaires', 'immigrés continentaux', 'guerre civile chinoise', 'patrimoine culturel', 'rénovation urbaine']
+tags:
+  [
+    'villages militaires',
+    'immigrés continentaux',
+    'guerre civile chinoise',
+    'patrimoine culturel',
+    'rénovation urbaine',
+  ]
 subcategory: 'Histoire sociale et quotidienne'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -11,11 +18,11 @@ category: 'History'
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
-translatedFrom: "History/台灣眷村歷史.md"
+translatedFrom: 'History/台灣眷村歷史.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e26ca70cc051b743'
 sourceBodyHash: 'sha256:6ea24f40d826e7d7'
-translatedAt: "2026-04-14T12:31:49+08:00"
+translatedAt: '2026-04-14T12:31:49+08:00'
 ---
 
 # Les villages militaires de Taïwan — mémoire d'un exil fondateur

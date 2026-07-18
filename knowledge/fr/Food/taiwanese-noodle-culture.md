@@ -1,19 +1,28 @@
 ---
-title: 'La culture des nouilles à Taïwan : soixante-dix ans d'histoire, de mémoire et d'innovation culinaire'
-description: 'De la farine américaine de l'après-guerre aux tables du monde entier, la culture des nouilles taïwanaises tisse ensemble la nostalgie des migrants, le génie local et une créativité qui ne s'est jamais éteinte.'
+title: "La culture des nouilles à Taïwan : soixante-dix ans d'histoire, de mémoire et d'innovation culinaire"
+description: "De la farine américaine de l'après-guerre aux tables du monde entier, la culture des nouilles taïwanaises tisse ensemble la nostalgie des migrants, le génie local et une créativité qui ne s'est jamais éteinte."
 date: 2026-03-24
-tags: ['nouilles', 'culture culinaire', 'cuisine taïwanaise', 'cuisine des provinces', 'culture des villages militaires', 'nouilles au bœuf', 'dan-tsai noodles']
+tags:
+  [
+    'nouilles',
+    'culture culinaire',
+    'cuisine taïwanaise',
+    'cuisine des provinces',
+    'culture des villages militaires',
+    'nouilles au bœuf',
+    'dan-tsai noodles',
+  ]
 subcategory: 'Aliments de base et nouilles'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: true
-translatedFrom: "Food/台灣麵食文化.md"
+translatedFrom: 'Food/台灣麵食文化.md'
 lastVerified: 2026-03-24
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7aeb090ae7f880d7'
 sourceBodyHash: 'sha256:07d9c3b482846ce9'
-translatedAt: "2026-04-14T12:29:25+08:00"
+translatedAt: '2026-04-14T12:29:25+08:00'
 ---
 
 # La culture des nouilles à Taïwan : soixante-dix ans d'histoire, de mémoire et d'innovation

@@ -1,19 +1,29 @@
 ---
 title: 'Li Chih-kai'
-description: 'Du petit garçon culbuteur des marchés de Yilan à la médaille d'argent olympique, seize ans de ténacité qui ont réécrit l'histoire de la gymnastique taïwanaise'
+description: "Du petit garçon culbuteur des marchés de Yilan à la médaille d'argent olympique, seize ans de ténacité qui ont réécrit l'histoire de la gymnastique taïwanaise"
 date: 2026-03-21
-tags: [personnalité, Li Chih-kai, gymnastique, Jeux olympiques, médaille d'argent, athlète, cheval d'arçons, Taïwan]
+tags:
+  [
+    personnalité,
+    Li Chih-kai,
+    gymnastique,
+    Jeux olympiques,
+    médaille d'argent,
+    athlète,
+    cheval d'arçons,
+    Taïwan,
+  ]
 subcategory: 'Sport'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
-translatedFrom: "People/李智凱.md"
+translatedFrom: 'People/李智凱.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
-translatedAt: "2026-04-14T19:15:26+08:00"
+translatedAt: '2026-04-14T19:15:26+08:00'
 ---
 
 # Li Chih-kai

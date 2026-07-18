@@ -1,6 +1,6 @@
 ---
 title: 'Mayday — Le groupe qui a réinventé le rock mandarin'
-description: 'En 1997, cinq lycéens de Taipei se sont inscrits à un festival underground avec un pseudonyme BBS. Trente ans plus tard, ils ont écoulé 320 000 billets en dix minutes à la grande salle de Taipei, rempli le Nid d'Oiseau de Pékin trente fois — et prononcé quatre mots qui ont brisé le cœur de Taïwan.'
+description: "En 1997, cinq lycéens de Taipei se sont inscrits à un festival underground avec un pseudonyme BBS. Trente ans plus tard, ils ont écoulé 320 000 billets en dix minutes à la grande salle de Taipei, rempli le Nid d'Oiseau de Pékin trente fois — et prononcé quatre mots qui ont brisé le cœur de Taïwan."
 category: Music
 tags:
   [
@@ -21,11 +21,11 @@ lastHumanReview: '2026-04-13'
 subcategory: 'Rock et pop taïwanais'
 author: 'Taiwan.md Translation Team'
 featured: true
-translatedFrom: "Music/五月天.md"
+translatedFrom: 'Music/五月天.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2d73cb00a5f5d254'
 sourceBodyHash: 'sha256:7f6b080a953be003'
-translatedAt: "2026-04-15T17:32:16+08:00"
+translatedAt: '2026-04-15T17:32:16+08:00'
 ---
 
 # Mayday

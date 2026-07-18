@@ -1,15 +1,22 @@
 ---
 title: 'Les emprunts linguistiques à Taïwan et le contact des langues'
-description: 'Du bento au "shipin" : l'histoire du contact linguistique d'une île, et comment Taïwan est devenu le laboratoire le plus réussi au monde pour l'intégration des mots empruntés'
+description: 'Du bento au "shipin" : l''histoire du contact linguistique d''une île, et comment Taïwan est devenu le laboratoire le plus réussi au monde pour l''intégration des mots empruntés'
 date: 2026-03-23
-tags: ['linguistique', 'sociolinguistique', 'culture taïwanaise', 'contact des langues', 'emprunts linguistiques']
+tags:
+  [
+    'linguistique',
+    'sociolinguistique',
+    'culture taïwanaise',
+    'contact des langues',
+    'emprunts linguistiques',
+  ]
 subcategory: 'Langue et écriture'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-23
-translatedFrom: "Culture/台灣外來語與語言接觸.md"
+translatedFrom: 'Culture/台灣外來語與語言接觸.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:eec4f271a84a1f94'
 sourceBodyHash: 'sha256:8e1b986c4cf0a1f3'

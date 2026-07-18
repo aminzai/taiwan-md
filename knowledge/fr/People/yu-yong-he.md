@@ -1,19 +1,29 @@
 ---
 title: 'Yu Yonghe — Le lettré qui traversa Taïwan pour du soufre'
-description: 'En 1697, un lettré de Hangzhou s'est porté volontaire pour traverser Taïwan du sud au nord jusqu'à Beitou, afin d'y collecter du soufre. Son récit de voyage constitue la première œuvre littéraire documentant la géographie et les peuples du nord de l'île.'
+description: "En 1697, un lettré de Hangzhou s'est porté volontaire pour traverser Taïwan du sud au nord jusqu'à Beitou, afin d'y collecter du soufre. Son récit de voyage constitue la première œuvre littéraire documentant la géographie et les peuples du nord de l'île."
 date: 2026-03-25
-tags: ['personnage historique', 'Yu Yonghe', 'Pihai Jiyou', 'ère Qing', 'exploration', 'Beitou', 'soufre', 'littérature taïwanaise']
+tags:
+  [
+    'personnage historique',
+    'Yu Yonghe',
+    'Pihai Jiyou',
+    'ère Qing',
+    'exploration',
+    'Beitou',
+    'soufre',
+    'littérature taïwanaise',
+  ]
 subcategory: 'Histoire et exploration'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-25
-translatedFrom: "People/郁永河.md"
+translatedFrom: 'People/郁永河.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: "2026-04-14T19:19:05+08:00"
+translatedAt: '2026-04-14T19:19:05+08:00'
 ---
 
 # Yu Yonghe — Le lettré de Hangzhou au bout du monde

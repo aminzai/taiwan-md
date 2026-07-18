@@ -1,9 +1,17 @@
 ---
 title: 'La musique électronique et la culture party à Taïwan : des raves underground à la scène internationale'
-description: 'Des raves des années 1990 au festival Road to Ultra, comment la musique électronique taïwanaise est passée de l\'underground au grand public, en donnant naissance à des DJ de renommée internationale et à des labels électroniques indépendants'
+description: "Des raves des années 1990 au festival Road to Ultra, comment la musique électronique taïwanaise est passée de l'underground au grand public, en donnant naissance à des DJ de renommée internationale et à des labels électroniques indépendants"
 date: 2026-03-19
 category: 'Music'
-tags: ['musique électronique', 'rave', 'culture party', 'DJ', 'festival électro', 'musique underground']
+tags:
+  [
+    'musique électronique',
+    'rave',
+    'culture party',
+    'DJ',
+    'festival électro',
+    'musique underground',
+  ]
 subcategory: '電子與實驗'
 author: 'Taiwan.md Contributors'
 featured: true

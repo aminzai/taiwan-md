@@ -1,19 +1,29 @@
 ---
-title: 'Hung Hsing-fu : l''étoile filante de la littérature rurale taïwanaise'
-description: 'Né en 1949 dans une famille paysanne pauvre de Erlin, Changhua, Hung Hsing-fu publie sa première nouvelle à dix-huit ans et perd la vie dans un accident de voiture à trente-trois ans. Instituteur le jour, écrivain la nuit, il laisse en quinze ans de création des œuvres majeures comme « Hei Mian Qing-a », « Ma Terre » et « La Troupe se disperse », capturant avec une sincérité rare la mutation de la campagne taïwanaise à l'ère de l'industrialisation. Surnommé « Hung Hsing-fu-ski » par ses amis littéraires, il demeure l'une des voix les plus authentiques de la littérature taïwanaise de l'après-guerre.'
+title: "Hung Hsing-fu : l'étoile filante de la littérature rurale taïwanaise"
+description: "Né en 1949 dans une famille paysanne pauvre de Erlin, Changhua, Hung Hsing-fu publie sa première nouvelle à dix-huit ans et perd la vie dans un accident de voiture à trente-trois ans. Instituteur le jour, écrivain la nuit, il laisse en quinze ans de création des œuvres majeures comme « Hei Mian Qing-a », « Ma Terre » et « La Troupe se disperse », capturant avec une sincérité rare la mutation de la campagne taïwanaise à l'ère de l'industrialisation. Surnommé « Hung Hsing-fu-ski » par ses amis littéraires, il demeure l'une des voix les plus authentiques de la littérature taïwanaise de l'après-guerre."
 category: People
-tags: [littérature rurale, écrivain, romancier, Changhua, littérature paysanne, littérature taïwanaise, gens de la campagne, écrivain-enseignant]
+tags:
+  [
+    littérature rurale,
+    écrivain,
+    romancier,
+    Changhua,
+    littérature paysanne,
+    littérature taïwanaise,
+    gens de la campagne,
+    écrivain-enseignant,
+  ]
 subcategory: 'Littérature'
 author: 'Taiwan.md Translation Team'
 date: 2026-03-27
 readingTime: 8
 lastVerified: 2026-03-27
 lastHumanReview: true
-translatedFrom: "People/洪醒夫.md"
+translatedFrom: 'People/洪醒夫.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7de74580c2e1d825'
 sourceBodyHash: 'sha256:669b88afae826e6b'
-translatedAt: "2026-04-14T19:16:28+08:00"
+translatedAt: '2026-04-14T19:16:28+08:00'
 ---
 
 Né le 10 décembre 1949 à Beiping Li, dans le bourg d'Erlin, au comté de Changhua, au sein d'une famille paysanne qui cultivait la terre depuis des générations, Hung Hsing-fu s'appelait à l'état civil Hung Ma-cong. À dix-huit ans, il publie sa première nouvelle, « L'Auberge de passage », dans le Taiwan Daily News, et s'engage dès lors sur la voie de la littérature. Le 31 juillet 1982, alors qu'il rentrait chez lui sous le typhon Andy, il trouve la mort dans un accident de voiture à l'âge de trente-trois ans, mettant fin à une carrière créatrice brève mais lumineuse.

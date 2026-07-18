@@ -1,8 +1,18 @@
 ---
-title: 'Le repli du gouvernement nationaliste à Taïwan et la reconstruction d'après-guerre'
-description: 'Yan Chia-kan a quitté le Fujian pour assister à l'exil du gouvernement nationaliste en 1949. 1,2 million de civils et soldats, 38 ans de loi martiale, réforme agraire — comment cette période a-t-elle redessiné Taïwan ?'
+title: "Le repli du gouvernement nationaliste à Taïwan et la reconstruction d'après-guerre"
+description: "Yan Chia-kan a quitté le Fujian pour assister à l'exil du gouvernement nationaliste en 1949. 1,2 million de civils et soldats, 38 ans de loi martiale, réforme agraire — comment cette période a-t-elle redessiné Taïwan ?"
 date: 2026-03-18
-tags: ['Gouvernement nationaliste', 'Exil à Taïwan', 'Reconstruction d''après-guerre', '1949', 'Guerre civile chinoise', 'Migrants continentaux', 'Yan Chia-kan', 'Période de loi martiale']
+tags:
+  [
+    'Gouvernement nationaliste',
+    'Exil à Taïwan',
+    "Reconstruction d'après-guerre",
+    '1949',
+    'Guerre civile chinoise',
+    'Migrants continentaux',
+    'Yan Chia-kan',
+    'Période de loi martiale',
+  ]
 subcategory: 'Après-guerre et autoritarisme'
 category: 'History'
 author: 'Taiwan.md Translation Team'
@@ -10,11 +20,11 @@ readingTime: 18
 featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
-translatedFrom: "History/國民政府遷台與戰後重建.md"
+translatedFrom: 'History/國民政府遷台與戰後重建.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:4e071d84893835c3'
 sourceBodyHash: 'sha256:fdd1a6127fff34df'
-translatedAt: "2026-05-17T05:33:00Z"
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # Le repli du gouvernement nationaliste à Taïwan et la reconstruction d'après-guerre

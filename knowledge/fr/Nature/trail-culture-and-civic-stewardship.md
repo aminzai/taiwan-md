@@ -1,6 +1,6 @@
 ---
 title: 'La culture des sentiers à Taïwan et la garde citoyenne'
-description: 'De l'association Qianli Budao à la plateforme iTrail, plongez dans la culture unique de préservation des sentiers et l'esprit de science citoyenne à Taïwan'
+description: "De l'association Qianli Budao à la plateforme iTrail, plongez dans la culture unique de préservation des sentiers et l'esprit de science citoyenne à Taïwan"
 date: 2026-03-19
 tags: [nature, sentiers, science citoyenne, conservation écologique]
 subcategory: 'Parcs nationaux et sentiers'
@@ -9,11 +9,11 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: "Nature/台灣步道文化與公民守護.md"
+translatedFrom: 'Nature/台灣步道文化與公民守護.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:6a877621bb6ceb6f'
 sourceBodyHash: 'sha256:855af6d5f189b0bd'
-translatedAt: "2026-05-17T05:33:00Z"
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # La culture des sentiers à Taïwan et la garde citoyenne
@@ -155,7 +155,11 @@ Qianli BuDao insiste sur le fait que la garde des sentiers vise à apprendre à 
 ## Références
 
 [^1]: [Chronologie de l'association Qianli BuDao - iTrail](https://itrail.tw/aboutus/important-events) — Vérifie le lancement du mouvement Qianli BuDao le 23 avril 2006 et la constitution de la personne morale le 8 juin 2011.
+
 [^2]: [Site officiel de Qianli BuDao](https://www.tmitrail.org.tw/) — Mission de l'association, politique des « deux zéros » et idées de Huang Wu-xiong en matière de protection des sentiers.
+
 [^3]: [Plateforme iTrail des sentiers intelligents](https://itrail.tw/) — Plateforme de signalement de l'état des sentiers, lancée en 2024, plus de 15 000 signalements reçus la première année.
+
 [^4]: [Chemin historique de Danlan - Gouvernement de New Taipei](https://trails.ntpc.gov.tw/) — Présentation des trois axes du chemin historique de Danlan et de son plan de restauration.
+
 [^5]: [Vingt ans de Qianli BuDao : la naissance d'un chemin - Smile Taiwan](https://smiletaiwan.cw.com.tw/article/9059) — Reportage sur les vingt ans d'action de l'association Qianli BuDao.

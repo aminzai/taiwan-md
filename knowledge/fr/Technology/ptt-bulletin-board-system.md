@@ -1,8 +1,16 @@
 ---
 title: 'PTT Bulletin Board : la place publique la plus tenace de Taïwan'
-description: 'Un BBS fondé en 1995 dans une résidence universitaire, qui fonctionne encore trente ans plus tard avec une interface en texte brut, et qui a profondément façonné le langage d'internet, le débat politique et la mémoire collective à Taïwan'
+description: "Un BBS fondé en 1995 dans une résidence universitaire, qui fonctionne encore trente ans plus tard avec une interface en texte brut, et qui a profondément façonné le langage d'internet, le débat politique et la mémoire collective à Taïwan"
 date: 2026-03-21
-tags: ['PTT', 'BBS', 'culture internet', 'kémin', 'démocratie numérique', 'réseaux sociaux']
+tags:
+  [
+    'PTT',
+    'BBS',
+    'culture internet',
+    'kémin',
+    'démocratie numérique',
+    'réseaux sociaux',
+  ]
 subcategory: 'Communautés et culture numérique'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
@@ -10,11 +18,11 @@ featured: true
 category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: "Technology/PTT批踢踢.md"
+translatedFrom: 'Technology/PTT批踢踢.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f28d98485199bc24'
 sourceBodyHash: 'sha256:110038d2fb23bc2a'
-translatedAt: "2026-04-14T12:32:55+08:00"
+translatedAt: '2026-04-14T12:32:55+08:00'
 ---
 
 # PTT Bulletin Board : la place publique la plus tenace de Taïwan

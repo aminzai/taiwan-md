@@ -1,19 +1,26 @@
 ---
 title: 'Du Yi-Jin'
-description: 'Un ordinateur 486 pour bâtir le plus grand forum de Taïwan, une carrière chez Microsoft pour lancer Cortana, puis l'abandon d'un salaire confortable pour rentrer au pays et créer un laboratoire d'IA à but non lucratif — trente ans d'histoire numérique avec le fondateur légendaire de PTT'
+description: "Un ordinateur 486 pour bâtir le plus grand forum de Taïwan, une carrière chez Microsoft pour lancer Cortana, puis l'abandon d'un salaire confortable pour rentrer au pays et créer un laboratoire d'IA à but non lucratif — trente ans d'histoire numérique avec le fondateur légendaire de PTT"
 date: 2026-03-30
-tags: ['Du Yi-Jin', 'PTT', 'Taiwan AI Labs', 'démocratie numérique', 'intelligence artificielle']
+tags:
+  [
+    'Du Yi-Jin',
+    'PTT',
+    'Taiwan AI Labs',
+    'démocratie numérique',
+    'intelligence artificielle',
+  ]
 subcategory: 'Technologie et entrepreneuriat'
 readingTime: 9
 featured: true
 category: 'People'
 lastVerified: 2026-03-30
 author: 'Taiwan.md Translation Team'
-translatedFrom: "People/杜奕瑾.md"
+translatedFrom: 'People/杜奕瑾.md'
 sourceCommitSha: 'ab47ff39'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: "2026-04-14T19:15:40+08:00"
+translatedAt: '2026-04-14T19:15:40+08:00'
 ---
 
 # Du Yi-Jin

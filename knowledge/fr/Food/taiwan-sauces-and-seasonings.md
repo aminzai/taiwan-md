@@ -1,19 +1,26 @@
 ---
 title: 'Les sauces et condiments de Taïwan'
-description: 'La sauce soja épaisse, la sauce satay, la sauce aigre-douce-pimentée, la pâte de haricots fermentés — ces condiments emblématiques forment le socle des saveurs taïwanaises et témoignent d'une philosophie culinaire née de multiples héritages culturels'
+description: "La sauce soja épaisse, la sauce satay, la sauce aigre-douce-pimentée, la pâte de haricots fermentés — ces condiments emblématiques forment le socle des saveurs taïwanaises et témoignent d'une philosophie culinaire née de multiples héritages culturels"
 date: 2026-03-20
-tags: ['sauces', 'condiments', 'culture culinaire', 'saveurs taïwanaises', 'aliments fermentés']
+tags:
+  [
+    'sauces',
+    'condiments',
+    'culture culinaire',
+    'saveurs taïwanaises',
+    'aliments fermentés',
+  ]
 subcategory: 'Ingrédients et assaisonnements'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
 readingTime: 7
 featured: false
-translatedFrom: "Food/台灣醬料與調味.md"
+translatedFrom: 'Food/台灣醬料與調味.md'
 lastVerified: 2026-03-20
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:80c0f5a5b4a4fc5f'
 sourceBodyHash: 'sha256:165e3d5c431f4c83'
-translatedAt: "2026-04-14T12:29:25+08:00"
+translatedAt: '2026-04-14T12:29:25+08:00'
 ---
 
 # Les sauces et condiments de Taïwan

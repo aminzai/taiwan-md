@@ -1,19 +1,20 @@
 ---
 title: 'Tchang Kaï-chek'
-description: 'Ses statues sont en train d'être démontées, mais les fondations qu'il a posées — que vous les appeliez construction ou carcans — soutiennent encore chaque route, chaque école, chaque élection de cette île.'
+description: "Ses statues sont en train d'être démontées, mais les fondations qu'il a posées — que vous les appeliez construction ou carcans — soutiennent encore chaque route, chaque école, chaque élection de cette île."
 date: 2026-03-31
-tags: [politique, histoire, loi martiale, justice transitionnelle, guerre froide]
+tags:
+  [politique, histoire, loi martiale, justice transitionnelle, guerre froide]
 subcategory: 'Personnalités politiques'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-31
-translatedFrom: "People/蔣中正.md"
+translatedFrom: 'People/蔣中正.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ad64f216ed170575'
 sourceBodyHash: 'sha256:447dc5d1bea38591'
-translatedAt: "2026-04-14T19:17:00+08:00"
+translatedAt: '2026-04-14T19:17:00+08:00'
 ---
 
 > **En 30 secondes :** Tchang Kaï-chek (1887–1975) a gouverné Taïwan pendant 26 ans. La loi martiale qu'il a instaurée a duré 38 ans (1949–1987), faisant de Taïwan l'un des régimes de loi martiale les plus longs de l'histoire mondiale. Il a conduit la réforme agraire et instauré la scolarité obligatoire de neuf ans, jetant les bases du miracle économique taïwanais. Mais il a aussi envoyé l'armée réprimer l'incident du 28 Février, et son régime a ordonné l'exécution de milliers de personnes durant la période de la Terreur blanche. Un seul homme, deux bilans historiques radicalement opposés — un débat qui divise encore la société taïwanaise aujourd'hui.

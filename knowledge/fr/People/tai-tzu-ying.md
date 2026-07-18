@@ -1,19 +1,28 @@
 ---
 title: 'Tai Tzu-ying'
-description: 'Recordwoman de 214 semaines consécutives au rang mondial numéro un, la reine du badminton taïwanais, de Cianjhen à la médaille d'argent olympique'
+description: "Recordwoman de 214 semaines consécutives au rang mondial numéro un, la reine du badminton taïwanais, de Cianjhen à la médaille d'argent olympique"
 date: 2026-03-21
-tags: [personnalités, Tai Tzu-ying, badminton, numéro un mondial, Jeux olympiques, athlète, Taïwan]
+tags:
+  [
+    personnalités,
+    Tai Tzu-ying,
+    badminton,
+    numéro un mondial,
+    Jeux olympiques,
+    athlète,
+    Taïwan,
+  ]
 subcategory: 'Sport'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: true
 lastVerified: 2026-03-21
-translatedFrom: "People/戴資穎.md"
+translatedFrom: 'People/戴資穎.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
-translatedAt: "2026-04-14T19:14:57+08:00"
+translatedAt: '2026-04-14T19:14:57+08:00'
 ---
 
 # Tai Tzu-ying

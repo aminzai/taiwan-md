@@ -6,7 +6,7 @@ category: Art
 subcategory: '文學'
 tags:
   [
-    'Littérature d\'après-guerre',
+    "Littérature d'après-guerre",
     'Débat sur la littérature nativiste',
     'Modernisme',
     'Ye Shih-tao',

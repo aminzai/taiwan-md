@@ -1,8 +1,15 @@
 ---
 title: 'Formes côtières et paysages marins de Taïwan'
-description: 'Rares sont les endroits sur Terre où l'on peut partir du sommet d'une montagne de près de 4 000 mètres et plonger dans une fosse océanique à 7 500 mètres de profondeur en moins de 150 kilomètres. Taïwan le peut. Le littoral de cette île est le théâtre d'un accident de la route au ralenti — d'une beauté à couper le souffle.'
+description: "Rares sont les endroits sur Terre où l'on peut partir du sommet d'une montagne de près de 4 000 mètres et plonger dans une fosse océanique à 7 500 mètres de profondeur en moins de 150 kilomètres. Taïwan le peut. Le littoral de cette île est le théâtre d'un accident de la route au ralenti — d'une beauté à couper le souffle."
 date: 2026-03-24
-tags: ['formes côtières', 'paysages marins', 'tectonique des plaques', 'processus géologiques', 'paysages naturels']
+tags:
+  [
+    'formes côtières',
+    'paysages marins',
+    'tectonique des plaques',
+    'processus géologiques',
+    'paysages naturels',
+  ]
 subcategory: 'Reliefs et géologie'
 category: 'Geography'
 author: 'Taiwan.md Translation Team'
@@ -11,11 +18,11 @@ readingTime: 10
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: true
-translatedFrom: "Geography/台灣海岸地形與海洋地景.md"
-sourceCommitSha: "d6e87d07"
+translatedFrom: 'Geography/台灣海岸地形與海洋地景.md'
+sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:8973e8b56e7201bf'
 sourceBodyHash: 'sha256:a8f819c22dc292c1'
-translatedAt: "2026-05-16T22:36:54Z"
+translatedAt: '2026-05-16T22:36:54Z'
 ---
 
 > **En 30 secondes :** Du sommet de Yushan (3 952 m) jusqu'à la fosse de Ryukyu (-7 507 m) au large de la côte est, le dénivelé vertical dépasse 11 000 mètres pour une distance horizontale inférieure à 150 kilomètres. Ce chiffre fait de Taïwan l'une des îles au gradient topographique le plus abrupt du monde — une densité verticale supérieure à celle qu'on obtiendrait en projetant l'Everest dans la fosse des Mariannes. Et tout cela s'est forgé en seulement cinq millions d'années.

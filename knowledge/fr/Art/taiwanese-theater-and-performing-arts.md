@@ -1,15 +1,22 @@
 ---
 title: 'Le théâtre et les arts de la scène à Taïwan'
-description: 'Comment un jeune littéraire de 26 ans a fondé la première compagnie de danse contemporaine du monde sinophone, et comment des acteurs de l'opéra de Pékin ont fait parler Shakespeare en chinois'
+description: "Comment un jeune littéraire de 26 ans a fondé la première compagnie de danse contemporaine du monde sinophone, et comment des acteurs de l'opéra de Pékin ont fait parler Shakespeare en chinois"
 date: 2026-03-22
-tags: [théâtre, arts de la scène, danse, Cloud Gate Dance Theatre, Contemporary Legend Theatre]
+tags:
+  [
+    théâtre,
+    arts de la scène,
+    danse,
+    Cloud Gate Dance Theatre,
+    Contemporary Legend Theatre,
+  ]
 subcategory: 'Littérature'
 category: 'Art'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-22
-translatedFrom: "Art/台灣劇場與表演藝術.md"
+translatedFrom: 'Art/台灣劇場與表演藝術.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cddfbcb9ade43ff2'
 sourceBodyHash: 'sha256:0f8dee8662286dcf'

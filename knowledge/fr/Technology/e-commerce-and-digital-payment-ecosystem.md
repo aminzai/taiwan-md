@@ -1,6 +1,6 @@
 ---
 title: 'Commerce en ligne et paiements numériques à Taïwan : trois batailles sur une île'
-description: 'De la promesse risquée de Jan Hung-tze sur la livraison en 24 heures, à la guerre de subventions de 30 milliards de Shopee, jusqu'à l'offensive éclair de Coupang — vingt ans d'e-commerce à Taïwan, une histoire de pionniers locaux éclipsés par des capitaux étrangers, encore et encore.'
+description: "De la promesse risquée de Jan Hung-tze sur la livraison en 24 heures, à la guerre de subventions de 30 milliards de Shopee, jusqu'à l'offensive éclair de Coupang — vingt ans d'e-commerce à Taïwan, une histoire de pionniers locaux éclipsés par des capitaux étrangers, encore et encore."
 date: 2026-04-06
 tags:
   [
@@ -21,11 +21,11 @@ readingTime: 12
 category: Technology
 lastVerified: 2026-04-06
 lastHumanReview: false
-translatedFrom: "Technology/電子商務與數位支付生態系.md"
+translatedFrom: 'Technology/電子商務與數位支付生態系.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e6d4ecca5e8c9269'
 sourceBodyHash: 'sha256:8a4126afbbcc2d61'
-translatedAt: "2026-04-14T12:33:27+08:00"
+translatedAt: '2026-04-14T12:33:27+08:00'
 ---
 
 # Commerce en ligne et paiements numériques à Taïwan : trois batailles sur une île

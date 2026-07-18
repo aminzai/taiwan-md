@@ -1,8 +1,15 @@
 ---
 title: 'Réservoirs et gestion des ressources en eau à Taïwan'
-description: 'De la crise de sécheresse à l'envasement des barrages, les défis de la gestion de l'eau à Taïwan et les inégalités de répartition entre le nord et le sud'
+description: "De la crise de sécheresse à l'envasement des barrages, les défis de la gestion de l'eau à Taïwan et les inégalités de répartition entre le nord et le sud"
 date: 2026-03-20
-tags: ['ressources en eau', 'réservoirs', 'sécheresse', 'génie hydraulique', 'changement climatique']
+tags:
+  [
+    'ressources en eau',
+    'réservoirs',
+    'sécheresse',
+    'génie hydraulique',
+    'changement climatique',
+  ]
 subcategory: 'Hydrologie et ressources en eau'
 author: 'Taiwan.md Translation Team'
 difficulty: 'beginner'
@@ -11,11 +18,11 @@ category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: "Geography/台灣水庫與水資源管理.md"
+translatedFrom: 'Geography/台灣水庫與水資源管理.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:58cfc27dba0ac67b'
 sourceBodyHash: 'sha256:4e6245b3f0401bec'
-translatedAt: "2026-04-15T17:33:26+08:00"
+translatedAt: '2026-04-15T17:33:26+08:00'
 ---
 
 # Réservoirs et gestion des ressources en eau à Taïwan

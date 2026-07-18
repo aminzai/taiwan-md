@@ -1,19 +1,27 @@
 ---
-title: 'Quanta Computer : le géant taïwanais de l'informatique'
+title: "Quanta Computer : le géant taïwanais de l'informatique"
 description: "D'un incendie d'usine à la première place mondiale dans l'assemblage d'ordinateurs portables — comment Barry Lam a bâti un nouvel empire à l'ère de l'IA."
 date: 2026-03-21
-tags: [Économie, Entreprise, Sous-traitance électronique, ODM, Cloud IA, Ordinateurs portables]
-subcategory: 'Portraits d'entreprises'
+tags:
+  [
+    Économie,
+    Entreprise,
+    Sous-traitance électronique,
+    ODM,
+    Cloud IA,
+    Ordinateurs portables,
+  ]
+subcategory: "Portraits d'entreprises"
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
-translatedFrom: "Economy/台灣企業：廣達電腦.md"
+translatedFrom: 'Economy/台灣企業：廣達電腦.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:917f1503c2ff61d8'
 sourceBodyHash: 'sha256:8336e4cef45a1444'
-translatedAt: "2026-04-14T19:20:58+08:00"
+translatedAt: '2026-04-14T19:20:58+08:00'
 ---
 
 > **En 30 secondes :** En 1987, un incendie d'usine pousse Barry Lam à démissionner de Kinpo Electronics. En 1988, il loue deux étages à Shilin, Taipei, et fonde Quanta Computer avec un capital de départ de 30 millions de dollars taïwanais. Trente-six ans plus tard, Quanta est le plus grand assembleur d'ordinateurs portables au monde, avec un chiffre d'affaires de 1 080 milliards de NT$ en 2023. Un ordinateur portable sur trois dans le monde sort de ses usines. À l'aube de l'ère de l'IA, Quanta se réinvente une fois encore, en devenant le partenaire d'assemblage de serveurs le plus stratégique de NVIDIA.

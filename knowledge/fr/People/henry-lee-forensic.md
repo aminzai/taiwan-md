@@ -1,20 +1,21 @@
 ---
 title: 'Henry Lee (李昌鈺)'
-description: 'Un homme qui bâtit sa légende à partir de fragments d'os — et que la justice finit par rattraper à cause d'une serviette tachée'
+description: "Un homme qui bâtit sa légende à partir de fragments d'os — et que la justice finit par rattraper à cause d'une serviette tachée"
 date: 2026-03-29
 category: 'People'
 subcategory: 'Sciences et monde académique'
-tags: ['personnalité', 'criminalistique', 'Taïwanais d'Amérique', 'enquête pénale']
+tags:
+  ['personnalité', 'criminalistique', "Taïwanais d'Amérique", 'enquête pénale']
 featured: false
 lastHumanReview: false
 readingTime: 8
 lastVerified: 2026-03-29
 author: 'Taiwan.md Translation Team'
-translatedFrom: "People/李昌鈺.md"
+translatedFrom: 'People/李昌鈺.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: "2026-04-14T19:15:26+08:00"
+translatedAt: '2026-04-14T19:15:26+08:00'
 ---
 
 # Henry Lee (李昌鈺)

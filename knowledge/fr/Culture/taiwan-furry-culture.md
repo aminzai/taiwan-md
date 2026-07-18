@@ -1,6 +1,6 @@
 ---
 title: 'La culture furry à Taïwan'
-description: 'En 2015, la première convention furry de Taïwan n'accueillait qu'une cinquantaine de participants et moins de dix créateurs de fursuits. Dix ans plus tard, Infurnity réunit 3 251 personnes en une seule édition, avec 689 fursuits sur scène et près d'un million de dollars taïwanais récoltés pour des œuvres caritatives. La communauté furry taïwanaise, née des forums BBS de l'ère du modem, est devenue la communauté d'amateurs de personnages anthropomorphes la mieux organisée d'Asie.'
+description: "En 2015, la première convention furry de Taïwan n'accueillait qu'une cinquantaine de participants et moins de dix créateurs de fursuits. Dix ans plus tard, Infurnity réunit 3 251 personnes en une seule édition, avec 689 fursuits sur scène et près d'un million de dollars taïwanais récoltés pour des œuvres caritatives. La communauté furry taïwanaise, née des forums BBS de l'ère du modem, est devenue la communauté d'amateurs de personnages anthropomorphes la mieux organisée d'Asie."
 date: 2026-04-01
 tags: ['furry', 'sous-culture', 'fursuit', 'culture taïwanaise']
 subcategory: 'Sous-cultures et culture jeunesse'
@@ -8,7 +8,7 @@ category: 'Culture'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-04-01
-translatedFrom: "Culture/台灣獸迷文化.md"
+translatedFrom: 'Culture/台灣獸迷文化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:fb754fde867da6b6'
 sourceBodyHash: 'sha256:b8b517c948537006'

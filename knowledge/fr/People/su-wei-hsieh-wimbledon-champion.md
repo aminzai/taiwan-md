@@ -1,6 +1,6 @@
 ---
 title: 'Hsieh Su-wei : Hsinchu 1986, première championne en Grand Slam de Taïwan et sept titres en double dames'
-description: 'Née le 4 janvier 1986 à Hsinchu. Son père, Hsieh Tzu-lung (chauffeur de bus de la Taiwan Motor Transport Company), est décédé en octobre 2023. Meilleure classement WTA en simple : 23ᵉ mondiale (2013). Sept titres en double dames en Grand Slam (Wimbledon 2013 / Roland-Garros 2014 / Wimbledon 2019 / Wimbledon 2021 / Roland-Garros 2023 / Wimbledon 2023 / Open d'Australie 2024). En 2021, première Taïwanaise à atteindre les demi-finales de simple en Grand Slam (Open d'Australie). Finaliste en double dames à Wimbledon en juillet 2025.'
+description: "Née le 4 janvier 1986 à Hsinchu. Son père, Hsieh Tzu-lung (chauffeur de bus de la Taiwan Motor Transport Company), est décédé en octobre 2023. Meilleure classement WTA en simple : 23ᵉ mondiale (2013). Sept titres en double dames en Grand Slam (Wimbledon 2013 / Roland-Garros 2014 / Wimbledon 2019 / Wimbledon 2021 / Roland-Garros 2023 / Wimbledon 2023 / Open d'Australie 2024). En 2021, première Taïwanaise à atteindre les demi-finales de simple en Grand Slam (Open d'Australie). Finaliste en double dames à Wimbledon en juillet 2025."
 date: 2026-03-19
 category: 'People'
 tags: ['體育', '網球', '溫布頓', '大滿貫', '女雙', '職業網球']

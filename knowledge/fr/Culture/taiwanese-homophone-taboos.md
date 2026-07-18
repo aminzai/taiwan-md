@@ -1,15 +1,21 @@
 ---
 title: 'La culture des tabous phonétiques à Taïwan : pourquoi le « quatre » fait disparaître des étages entiers ?'
-description: 'Des hôpitaux sans quatrième étage aux plaques d'immatriculation vendues à prix d'or, les Taïwanais entretiennent une sensibilité aux homophones parmi les plus poussées au monde'
+description: "Des hôpitaux sans quatrième étage aux plaques d'immatriculation vendues à prix d'or, les Taïwanais entretiennent une sensibilité aux homophones parmi les plus poussées au monde"
 date: 2026-03-21
-tags: ['culture taïwanaise', 'croyances populaires', 'culture des homophones', 'tabous numériques']
+tags:
+  [
+    'culture taïwanaise',
+    'croyances populaires',
+    'culture des homophones',
+    'tabous numériques',
+  ]
 subcategory: 'Fêtes et coutumes'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
 featured: false
 readingTime: 6
 lastVerified: 2026-03-21
-translatedFrom: "Culture/台灣諧音禁忌文化.md"
+translatedFrom: 'Culture/台灣諧音禁忌文化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d88f480a1e1f7ae0'
 sourceBodyHash: 'sha256:ab7935ab2e6c6ed8'

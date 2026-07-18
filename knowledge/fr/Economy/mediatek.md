@@ -2,18 +2,26 @@
 title: 'Entreprises taïwanaises : MediaTek'
 description: "Longtemps moquée comme la reine des téléphones contrefaits, l'entreprise détient aujourd'hui 1,5 fois la part de marché de Qualcomm dans les puces pour smartphones"
 date: 2026-03-25
-tags: [Economy, Entreprises, Semi-conducteurs, Conception de puces, IC Design, MediaTek]
-subcategory: 'Portraits d'entreprises'
+tags:
+  [
+    Economy,
+    Entreprises,
+    Semi-conducteurs,
+    Conception de puces,
+    IC Design,
+    MediaTek,
+  ]
+subcategory: "Portraits d'entreprises"
 category: Economy
 author: Taiwan.md Translation Team
 readingTime: 10
 featured: false
 lastVerified: 2026-03-25
-translatedFrom: "Economy/台灣企業：聯發科技.md"
+translatedFrom: 'Economy/台灣企業：聯發科技.md'
 sourceCommitSha: 'b900f18d'
 sourceContentHash: 'sha256:51c6274e50fa4d01'
 sourceBodyHash: 'sha256:ca7ccf342ddb45cb'
-translatedAt: "2026-04-14T19:21:16+08:00"
+translatedAt: '2026-04-14T19:21:16+08:00'
 ---
 
 > **En 30 secondes**

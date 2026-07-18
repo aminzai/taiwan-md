@@ -1,11 +1,12 @@
 ---
 title: 'En la encrucijada de la educación y la revitalización lingüística de los pueblos indígenas de Taiwán: la escuela primaria aguanta, la secundaria no'
-description: 'En 2012, el maestro tsou Markacaw Fala'ur de la escuela primaria Taiwu en Pingtung utilizó una grabadora para recoger canciones antiguas de los ancianos y llevó a los niños a cantar hasta ganar un premio Golden Melody. En 2017, la Ley de Desarrollo de las Lenguas Indígenas elevó las lenguas de las tribus al rango de lenguas nacionales. En 2019, la Ley de Educación Indígena incorporó una cláusula de "cumplimiento en diez años" sobre la proporción de docentes. Las escuelas experimentales indígenas en nivel primaria pasaron de 25 a 38. Pero al llegar a secundaria, todo el sistema colapsa: en todo Taiwán solo hay 6 escuelas experimentales indígenas de secundaria, la tasa bruta de matrícula universitaria de estudiantes indígenas es del 56.3%, 35.3 puntos porcentuales menos que la de los estudiantes generales. Markacaw falleció en 2021 a los 42 años. La escuela primaria aguanta, la secundaria no. La brecha sigue ahí.'
+description: 'En 2012, el maestro tsou Markacaw Fala''ur de la escuela primaria Taiwu en Pingtung utilizó una grabadora para recoger canciones antiguas de los ancianos y llevó a los niños a cantar hasta ganar un premio Golden Melody. En 2017, la Ley de Desarrollo de las Lenguas Indígenas elevó las lenguas de las tribus al rango de lenguas nacionales. En 2019, la Ley de Educación Indígena incorporó una cláusula de "cumplimiento en diez años" sobre la proporción de docentes. Las escuelas experimentales indígenas en nivel primaria pasaron de 25 a 38. Pero al llegar a secundaria, todo el sistema colapsa: en todo Taiwán solo hay 6 escuelas experimentales indígenas de secundaria, la tasa bruta de matrícula universitaria de estudiantes indígenas es del 56.3%, 35.3 puntos porcentuales menos que la de los estudiantes generales. Markacaw falleció en 2021 a los 42 años. La escuela primaria aguanta, la secundaria no. La brecha sigue ahí.'
 date: 2026-04-11
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '教育'
-tags: [
+tags:
+  [
     'educación indígena',
     'lenguas indígenas',
     'revitalización lingüística',

@@ -1,6 +1,6 @@
 ---
-title: 'L'art mystérieux de l'estimation au jugé de la tante du buffet taïwanais'
-description: 'Le premier restaurant self-service de Taïwan en 1962 n'a survécu que deux ans, mais la technique de tarification à vue d'œil qu'il a légué reste à ce jour la compétence humaine la plus difficile à reproduire par l'IA'
+title: "L'art mystérieux de l'estimation au jugé de la tante du buffet taïwanais"
+description: "Le premier restaurant self-service de Taïwan en 1962 n'a survécu que deux ans, mais la technique de tarification à vue d'œil qu'il a légué reste à ce jour la compétence humaine la plus difficile à reproduire par l'IA"
 tags:
   [
     'buffet',
@@ -19,11 +19,11 @@ featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 category: 'Society'
-translatedFrom: "Society/自助餐阿姨的謎之目測精算能力.md"
+translatedFrom: 'Society/自助餐阿姨的謎之目測精算能力.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c40e9256e5031f97'
 sourceBodyHash: 'sha256:b933f7d83c83a92f'
-translatedAt: "2026-04-14T12:32:44+08:00"
+translatedAt: '2026-04-14T12:32:44+08:00'
 ---
 
 # L'art mystérieux de l'estimation au jugé de la tante du buffet taïwanais

@@ -2,7 +2,14 @@
 title: 'La biodiversité de Taïwan'
 description: 'Taïwan ne représente que 0,025 % des terres émergées du globe, mais abrite plus de 50 000 espèces répertoriées, avec un taux de couverture forestière de 60,71 % — classé 33e au monde.'
 date: 2026-03-21
-tags: ['biodiversité', 'espèces endémiques', 'conservation', 'écosystèmes', 'protection de l'environnement']
+tags:
+  [
+    'biodiversité',
+    'espèces endémiques',
+    'conservation',
+    'écosystèmes',
+    "protection de l'environnement",
+  ]
 subcategory: 'Écosystèmes'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -11,11 +18,11 @@ featured: true
 category: 'Nature'
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: "Nature/生態多樣性.md"
+translatedFrom: 'Nature/生態多樣性.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7c8e2ae7ead043fa'
 sourceBodyHash: 'sha256:337a7730efae1092'
-translatedAt: "2026-04-14T19:23:22+08:00"
+translatedAt: '2026-04-14T19:23:22+08:00'
 ---
 
 # La biodiversité de Taïwan

@@ -1,6 +1,6 @@
 ---
 title: 'Doze Niu : le cinéaste entre génie et controverse'
-description: 'Réalisateur de Monga et Paradise in Service, Doze Niu a traversé une trajectoire remarquable — de l'enfant star au metteur en scène reconnu — avant d'être rattrapé par des accusations d'agression sexuelle en 2018.'
+description: "Réalisateur de Monga et Paradise in Service, Doze Niu a traversé une trajectoire remarquable — de l'enfant star au metteur en scène reconnu — avant d'être rattrapé par des accusations d'agression sexuelle en 2018."
 date: 2026-03-19
 tags: ['Doze Niu', 'cinéma', 'réalisateur', 'acteur', 'Monga', 'controverse']
 subcategory: 'Cinéma et arts dramatiques'
@@ -8,12 +8,12 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
-translatedFrom: "People/鈕承澤.md"
+translatedFrom: 'People/鈕承澤.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:03252333a42bc60e'
 sourceBodyHash: 'sha256:decf157a216cec86'
-translatedAt: "2026-05-17T06:15:00Z"
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 # Doze Niu : le cinéaste entre génie et controverse
@@ -95,8 +95,13 @@ L'héritage cinématographique de Doze Niu est réel. Mais il est désormais ind
 ## Références
 
 [^1]: Taro News, « Affaire d'agression sexuelle Doze Niu : la Cour suprême rend la décision définitive — quatre ans d'emprisonnement », https://taronews.tw/, septembre 2021
+
 [^2]: Système de recherche juridique du Pouvoir judiciaire, jugement dans l'affaire Doze Niu pour agression sexuelle, https://judgment.judicial.gov.tw/
+
 [^3]: Central News Agency, « Doze Niu accusé d'agression sexuelle : le tribunal de district de Taipei le déclare coupable en première instance et le condamne à quatre ans », https://www.cna.com.tw/, avril 2020
+
 [^4]: Ministère de la Culture, politique d'égalité de genre dans l'industrie audiovisuelle taïwanaise, https://www.moc.gov.tw/
+
 [^5]: Fondation des nouvelles femmes (Awakening Foundation), ressources de plaidoyer sur le mouvement #MeToo dans la société taïwanaise, https://www.awakening.org.tw/
+
 [^6]: Wikipédia, entrée « Doze Niu », https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4

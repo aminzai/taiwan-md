@@ -1,9 +1,17 @@
 ---
-title: 'Quand l'épidémie s'éteint, les feux d'artifice deviennent tradition : l'évolution inattendue des fêtes à Taïwan'
-description: 'Un rituel de village lancé pour combattre la peste en 1885 est devenu, 140 ans plus tard, l'une des fêtes populaires les plus dangereuses du monde'
+title: "Quand l'épidémie s'éteint, les feux d'artifice deviennent tradition : l'évolution inattendue des fêtes à Taïwan"
+description: "Un rituel de village lancé pour combattre la peste en 1885 est devenu, 140 ans plus tard, l'une des fêtes populaires les plus dangereuses du monde"
 date: 2026-03-24
 category: 'Culture'
-tags: ['fêtes traditionnelles', 'folklore', 'pèlerinage Mazu', 'fête des pétards de Yanshuei', 'Nouvel An chinois', 'barbecue de la mi-automne']
+tags:
+  [
+    'fêtes traditionnelles',
+    'folklore',
+    'pèlerinage Mazu',
+    'fête des pétards de Yanshuei',
+    'Nouvel An chinois',
+    'barbecue de la mi-automne',
+  ]
 subcategory: 'Religion et folklore'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -11,7 +19,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
-translatedFrom: "Culture/傳統節慶與慶典.md"
+translatedFrom: 'Culture/傳統節慶與慶典.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3bac2c2faa70bd6e'
 sourceBodyHash: 'sha256:325c4509ad66d26d'

@@ -1,8 +1,16 @@
 ---
-title: 'Tony Hsiao : du chef de projet jeux vidéo au fondateur d'INSIDE, le « maire de quartier » du web taïwanais'
-description: 'En 2009, six acteurs du web lancent un blog collaboratif : INSIDE 硬塞的網路趨勢觀察 voit le jour. Tony Hsiao (fOx) cofonde simultanément iCook, la plus grande plateforme de recettes de Taïwan — deux des plateformes en ligne les plus connues du pays deviennent ses œuvres, et toutes deux sont vendues au même repreneur. Il continue aujourd'hui, en tant qu'observateur, de dire à Taïwan : il ne faut pas trop s'inquiéter face à la technologie.'
+title: "Tony Hsiao : du chef de projet jeux vidéo au fondateur d'INSIDE, le « maire de quartier » du web taïwanais"
+description: "En 2009, six acteurs du web lancent un blog collaboratif : INSIDE 硬塞的網路趨勢觀察 voit le jour. Tony Hsiao (fOx) cofonde simultanément iCook, la plus grande plateforme de recettes de Taïwan — deux des plateformes en ligne les plus connues du pays deviennent ses œuvres, et toutes deux sont vendues au même repreneur. Il continue aujourd'hui, en tant qu'observateur, de dire à Taïwan : il ne faut pas trop s'inquiéter face à la technologie."
 date: 2026-04-27
-tags: ['INSIDE', 'iCook', 'média en ligne', 'entrepreneuriat technologique', 'web taïwanais', 'fOx']
+tags:
+  [
+    'INSIDE',
+    'iCook',
+    'média en ligne',
+    'entrepreneuriat technologique',
+    'web taïwanais',
+    'fOx',
+  ]
 category: 'People'
 subcategory: '科技與企業'
 author: 'Taiwan.md'

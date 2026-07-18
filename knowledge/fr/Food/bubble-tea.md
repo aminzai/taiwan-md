@@ -1,8 +1,16 @@
 ---
 title: 'Le bubble tea — comment une tasse a conquis le monde'
-description: 'En 1987, lors d'une réunion d'équipe à Taichung, un geste anodin a donné naissance à une boisson qui allait conquérir la planète. Origines disputées, politique culturelle et débat sur les 500 calories d'un verre de bubble tea.'
+description: "En 1987, lors d'une réunion d'équipe à Taichung, un geste anodin a donné naissance à une boisson qui allait conquérir la planète. Origines disputées, politique culturelle et débat sur les 500 calories d'un verre de bubble tea."
 date: 2026-03-30
-tags: [gastronomie, bubble tea, boissons à emporter, mondialisation, soft power, diplomatie culturelle]
+tags:
+  [
+    gastronomie,
+    bubble tea,
+    boissons à emporter,
+    mondialisation,
+    soft power,
+    diplomatie culturelle,
+  ]
 subcategory: 'Culture des boissons'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
@@ -12,11 +20,11 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
 imageAlt: 'Bubble tea classique'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
-translatedFrom: "Food/珍珠奶茶.md"
+translatedFrom: 'Food/珍珠奶茶.md'
 sourceCommitSha: '30569f74'
 sourceContentHash: 'sha256:d90e80b19559290b'
 sourceBodyHash: 'sha256:9bc13bf8c8054628'
-translatedAt: "2026-05-17T06:15:00Z"
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 # Le bubble tea

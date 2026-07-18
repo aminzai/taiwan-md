@@ -2,7 +2,14 @@
 title: 'Le système des zones panoramiques nationales de Taïwan'
 description: 'Une expérience touristique sous label « national » : comment 13 zones panoramiques naviguent entre préservation et développement'
 date: 2026-03-23
-tags: ['zones panoramiques nationales', 'politique touristique', 'protection de l'environnement', 'tourisme durable', 'aménagement du territoire']
+tags:
+  [
+    'zones panoramiques nationales',
+    'politique touristique',
+    "protection de l'environnement",
+    'tourisme durable',
+    'aménagement du territoire',
+  ]
 subcategory: 'Géographie écologique'
 category: 'Geography'
 author: 'Taiwan.md Translation Team'
@@ -11,11 +18,11 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
-translatedFrom: "Geography/台灣國家風景區系統.md"
+translatedFrom: 'Geography/台灣國家風景區系統.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9369d7f73b449799'
 sourceBodyHash: 'sha256:efc3d350be263a65'
-translatedAt: "2026-04-15T17:33:26+08:00"
+translatedAt: '2026-04-15T17:33:26+08:00'
 ---
 
 # Le système des zones panoramiques nationales de Taïwan

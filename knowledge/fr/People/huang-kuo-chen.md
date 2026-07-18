@@ -1,19 +1,27 @@
 ---
 title: 'Huang Kuo-chen'
-description: 'Fondateur de Pinxuetang, il a transformé l'éducation à la lecture à Taïwan en apprenant aux élèves à comprendre les textes en profondeur, et non à simplement les parcourir.'
+description: "Fondateur de Pinxuetang, il a transformé l'éducation à la lecture à Taïwan en apprenant aux élèves à comprendre les textes en profondeur, et non à simplement les parcourir."
 date: 2026-03-20
-tags: ['éducation', 'littératie', 'Pinxuetang', 'compréhension de lecture', 'innovation pédagogique', 'enseignement par compétences']
+tags:
+  [
+    'éducation',
+    'littératie',
+    'Pinxuetang',
+    'compréhension de lecture',
+    'innovation pédagogique',
+    'enseignement par compétences',
+  ]
 subcategory: 'Éducation et société'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 5
 featured: false
-translatedFrom: "People/黃國珍.md"
+translatedFrom: 'People/黃國珍.md'
 lastVerified: 2026-03-20
 sourceCommitSha: 'df2e7558'
 sourceContentHash: 'sha256:4ca80675bb1a1122'
 sourceBodyHash: 'sha256:2b34fd0038a36214'
-translatedAt: "2026-04-14T19:20:08+08:00"
+translatedAt: '2026-04-14T19:20:08+08:00'
 ---
 
 # Huang Kuo-chen : apprendre aux enfants de Taïwan à « comprendre » et pas seulement à « finir de lire »

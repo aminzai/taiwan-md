@@ -1,11 +1,18 @@
 ---
-title: "Le miracle économique"
-description: "En 1952, le PIB par habitant de Taïwan n'était que de 196 dollars, soit moins que celui d'Haïti. Quarante ans plus tard, Taïwan était devenu le premier des « Quatre Tigres asiatiques », avec un PIB par habitant dépassant les 10 000 dollars. Mais quel a été le prix de ce "miracle" ? Quand nous célébrons l'époque où "l'argent montait jusqu'aux chevilles" à Taïwan, on parle rarement des ouvrières des zones franches industrielles qui travaillaient 12 heures par jour, ni des patrons qui avaient investi toute leur vie d'épargne dans de petites usines."
+title: 'Le miracle économique'
+description: 'En 1952, le PIB par habitant de Taïwan n''était que de 196 dollars, soit moins que celui d''Haïti. Quarante ans plus tard, Taïwan était devenu le premier des « Quatre Tigres asiatiques », avec un PIB par habitant dépassant les 10 000 dollars. Mais quel a été le prix de ce "miracle" ? Quand nous célébrons l''époque où "l''argent montait jusqu''aux chevilles" à Taïwan, on parle rarement des ouvrières des zones franches industrielles qui travaillaient 12 heures par jour, ni des patrons qui avaient investi toute leur vie d''épargne dans de petites usines.'
 date: 2026-03-23
 author: Taiwan.md
 category: Economy
 subcategory: '經濟發展'
-tags: ["Economy", "Économie taïwanaise", "PME", "Parc scientifique", "Semi-conducteurs"]
+tags:
+  [
+    'Economy',
+    'Économie taïwanaise',
+    'PME',
+    'Parc scientifique',
+    'Semi-conducteurs',
+  ]
 readingTime: 10
 lastVerified: 2026-03-23
 lastHumanReview: true

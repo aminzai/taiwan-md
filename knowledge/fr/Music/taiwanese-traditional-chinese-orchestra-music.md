@@ -1,19 +1,26 @@
 ---
-title: 'La musique nationale taïwanaise : des sons insulaires nés d'instruments chinois'
-description: 'Le erhu et le pipa traversèrent la mer en 1949. Soixante-dix ans plus tard, ils interprètent à Taïwan les harmonies en huit parties des Bunun. Comment la musique nationale taïwanaise s'est transformée d'un symbole de légitimité politique en une espèce musicale résolument distincte de celle du continent.'
+title: "La musique nationale taïwanaise : des sons insulaires nés d'instruments chinois"
+description: "Le erhu et le pipa traversèrent la mer en 1949. Soixante-dix ans plus tard, ils interprètent à Taïwan les harmonies en huit parties des Bunun. Comment la musique nationale taïwanaise s'est transformée d'un symbole de légitimité politique en une espèce musicale résolument distincte de celle du continent."
 date: 2026-04-03
-tags: ['musique nationale', 'musique traditionnelle', 'Orchestre national de Taipei', 'ethnomusicologie', 'métissage culturel']
+tags:
+  [
+    'musique nationale',
+    'musique traditionnelle',
+    'Orchestre national de Taipei',
+    'ethnomusicologie',
+    'métissage culturel',
+  ]
 subcategory: 'Musique traditionnelle'
 category: 'Music'
 author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
 lastVerified: 2026-04-03
-translatedFrom: "Music/台灣國樂.md"
+translatedFrom: 'Music/台灣國樂.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:e1bc3aa8197e4184'
 sourceBodyHash: 'sha256:c0bd2cc77ca9d51c'
-translatedAt: "2026-04-15T17:36:15+08:00"
+translatedAt: '2026-04-15T17:36:15+08:00'
 ---
 
 # La musique nationale taïwanaise : des sons insulaires nés d'instruments chinois

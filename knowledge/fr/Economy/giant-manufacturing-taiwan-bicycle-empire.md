@@ -1,19 +1,29 @@
 ---
 title: 'Entreprises taïwanaises : Giant Bicycles'
-description: "De sous-traitant rejeté par les géants américains à empire invisible qui dicte les normes techniques mondiales du vélo"
+description: 'De sous-traitant rejeté par les géants américains à empire invisible qui dicte les normes techniques mondiales du vélo'
 date: 2026-03-22
 category: Economy
-tags: [économie, entreprise, Giant, vélo, industrie manufacturière, transformation de marque, A-Team, vélo électrique]
-subcategory: 'Portraits d'entreprises'
+tags:
+  [
+    économie,
+    entreprise,
+    Giant,
+    vélo,
+    industrie manufacturière,
+    transformation de marque,
+    A-Team,
+    vélo électrique,
+  ]
+subcategory: "Portraits d'entreprises"
 author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
-translatedFrom: "Economy/台灣企業：巨大機械.md"
+translatedFrom: 'Economy/台灣企業：巨大機械.md'
 lastVerified: 2026-03-22
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:59a5006dd9b19748'
 sourceBodyHash: 'sha256:ba1854308daac0e3'
-translatedAt: "2026-04-14T19:20:58+08:00"
+translatedAt: '2026-04-14T19:20:58+08:00'
 ---
 
 # Entreprises taïwanaises : Giant Bicycles

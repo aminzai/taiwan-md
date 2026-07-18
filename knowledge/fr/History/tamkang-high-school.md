@@ -2,7 +2,14 @@
 title: "Le Lycée Tamkang : comment un seul campus condense l'histoire de l'éducation à Taïwan"
 description: "Ce qui rend le Lycée Tamkang digne d'être écrit, ce n'est pas son ancienneté, mais le fait qu'il a inscrit sur un même campus les tensions entre mission évangélisatrice, éducation des femmes et système colonial."
 date: 2026-03-24
-tags: ['Tamsui', 'Lycée Tamkang', 'histoire de l'éducation', 'George Mackay', 'période coloniale japonaise']
+tags:
+  [
+    'Tamsui',
+    'Lycée Tamkang',
+    "histoire de l'éducation",
+    'George Mackay',
+    'période coloniale japonaise',
+  ]
 subcategory: '殖民與帝國'
 category: 'History'
 author: 'Terry'

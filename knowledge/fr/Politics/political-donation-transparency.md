@@ -1,11 +1,12 @@
 ---
-title: 'Transparence des dons politiques : plateforme du Yuan de contrôle, visualisation g0v, 22 ans d'infrastructure de publication'
+title: "Transparence des dons politiques : plateforme du Yuan de contrôle, visualisation g0v, 22 ans d'infrastructure de publication"
 description: "Ouvrez la plateforme publique de consultation des dons politiques du Yuan de contrôle, saisissez le nom de n'importe quel candidat, et vous pouvez voir de qui il a reçu combien d'argent et sur quelles activités de campagne il l'a dépensé. Cette infrastructure n'est pas tombée du ciel — elle a été construite article par article de loi, rapport par rapport comptable, ingénieur citoyen par ingénieur citoyen : la loi sur les dons politiques de 2004, la mise en ligne de la plateforme en 2008, l'accord de publication des données entre la Commission électorale centrale et le Yuan de contrôle en 2017, et dix ans de visualisation complémentaire par les ingénieurs de g0v."
 date: 2026-05-27
 author: 'Taiwan.md'
 category: 'Politics'
 subcategory: '公民監督'
-tags: ['政治獻金', '透明度', '監察院', 'g0v', '選舉金流', '2004立法', '2026選舉']
+tags:
+  ['政治獻金', '透明度', '監察院', 'g0v', '選舉金流', '2004立法', '2026選舉']
 readingTime: 12
 lastVerified: 2026-05-27
 lastHumanReview: 'false'

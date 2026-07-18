@@ -1,6 +1,6 @@
 ---
-title: 'Su Chiao-hui : dans l'ombre du « Chong Chong Chong », la commissaire qui suture New Taipei par le droit et les détails'
-description: 'De fille d'avocate des défenseurs de l'Incident de Kaohsiung à députée excellente élue 16 fois, comment Su Chiao-hui s'est affranchie de l'étiquette « fille à papa », a refaçonné la chaleur humaine du droit à travers la Loi sur la prévention et le contrôle du cancer et la Loi sur le développement de l'industrie du sport à l'Assemblée nationale, et a assemblé sa propre carte politique locale par le métro, les canalisations d'eau potable et la rénovation scolaire.'
+title: "Su Chiao-hui : dans l'ombre du « Chong Chong Chong », la commissaire qui suture New Taipei par le droit et les détails"
+description: "De fille d'avocate des défenseurs de l'Incident de Kaohsiung à députée excellente élue 16 fois, comment Su Chiao-hui s'est affranchie de l'étiquette « fille à papa », a refaçonné la chaleur humaine du droit à travers la Loi sur la prévention et le contrôle du cancer et la Loi sur le développement de l'industrie du sport à l'Assemblée nationale, et a assemblé sa propre carte politique locale par le métro, les canalisations d'eau potable et la rénovation scolaire."
 category: People
 tags:
   [

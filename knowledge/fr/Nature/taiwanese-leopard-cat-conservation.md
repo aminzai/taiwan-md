@@ -1,19 +1,28 @@
 ---
 title: 'Conservation du chat-léopard de Taïwan'
-description: 'Le chat fantôme dont il reste moins de cinq cents individus — quand le dernier félin indigène de l'île s'approche du bord de l'extinction'
+description: "Le chat fantôme dont il reste moins de cinq cents individus — quand le dernier félin indigène de l'île s'approche du bord de l'extinction"
 date: 2026-03-18
-tags: ['chat-léopard', 'conservation', 'collision routière', 'habitat', 'Miaoli', 'espèce menacée', 'écologie']
+tags:
+  [
+    'chat-léopard',
+    'conservation',
+    'collision routière',
+    'habitat',
+    'Miaoli',
+    'espèce menacée',
+    'écologie',
+  ]
 subcategory: 'Faune sauvage'
 category: 'Nature'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-30
-translatedFrom: "Nature/台灣石虎保育.md"
+translatedFrom: 'Nature/台灣石虎保育.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:bbca77501c197a81'
 sourceBodyHash: 'sha256:76487fd0d26564e6'
-translatedAt: "2026-05-17T05:33:00Z"
+translatedAt: '2026-05-17T05:33:00Z'
 ---
 
 # Conservation du chat-léopard de Taïwan
@@ -189,9 +198,13 @@ Les Taïwanais aiment dire : « Qui prie, sera exaucé. » Mais le chat-léopard
 ## Références
 
 [^1]: [Règlement autonome de conservation du chat-léopard de Miaoli - Environmental Information Center](https://e-info.org.tw/node/221882) — Confirme l'adoption en troisième lecture du règlement autonome de conservation du chat-léopard du comté de Miaoli, le 10 décembre 2019.
+
 [^2]: [Wuo Wuo : _Scroutch !_ — dossier sur les collisions routières](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Statistiques des collisions routières mortelles pour le chat-léopard, 2017-2023.
+
 [^3]: [Programme de paiement écologique du ministère de l'Agriculture](https://www.moa.gov.tw/) — Présentation du programme de paiement pour l'agriculture respectueuse du chat-léopard.
+
 [^4]: [Institut de recherche sur la biodiversité (TBRI), ministère de l'Agriculture](https://www.tbri.gov.tw/) — Programme de reproduction en captivité et recherche sur la conservation du chat-léopard.
+
 [^5]: [Wuo Wuo : Avant l'extinction — dossier chat-léopard de Taïwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Panorama complet de la conservation du chat-léopard à Taïwan.
 
 Pour aller plus loin :

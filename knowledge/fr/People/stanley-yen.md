@@ -1,6 +1,6 @@
 ---
 title: 'Yen Chang-shou : du garçon de bureau au parrain du tourisme, puis il a tout abandonné'
-description: 'Bachelier seulement, à 23 ans il triait le courrier chez American Express. Cinq ans plus tard, il en devenait directeur général. Cinq ans encore, et il présidait l'un des hôtels les plus réputés d'Asie, inventant un système de service capable d'accueillir un client par son nom avant même qu'il ait ouvert sa portière. 600 000 exemplaires vendus. Puis, à 62 ans, il a démissionné pour aller fonder une école dans les régions reculées de Taïwan oriental — et l'année suivante, on lui a retiré un rein. À 78 ans, il a inauguré un parc artistique au bord du Pacifique.'
+description: "Bachelier seulement, à 23 ans il triait le courrier chez American Express. Cinq ans plus tard, il en devenait directeur général. Cinq ans encore, et il présidait l'un des hôtels les plus réputés d'Asie, inventant un système de service capable d'accueillir un client par son nom avant même qu'il ait ouvert sa portière. 600 000 exemplaires vendus. Puis, à 62 ans, il a démissionné pour aller fonder une école dans les régions reculées de Taïwan oriental — et l'année suivante, on lui a retiré un rein. À 78 ans, il a inauguré un parc artistique au bord du Pacifique."
 date: 2026-04-06
 tags:
   [
@@ -18,7 +18,7 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 lastVerified: 2026-04-06
-translatedFrom: "People/嚴長壽.md"
+translatedFrom: 'People/嚴長壽.md'
 sourceCommitSha: 'df2e7558'
 sourceContentHash: 'sha256:259b129f305ff5f9'
 sourceBodyHash: 'sha256:366255e36a4fa0f5'

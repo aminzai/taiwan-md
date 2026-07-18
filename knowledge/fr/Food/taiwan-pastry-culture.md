@@ -8,8 +8,8 @@ tags:
   [
     'pâtisserie',
     'gâteaux han',
-    'pâtisserie à l'ananas',
-    'pâtisserie au jaune d'œuf',
+    "pâtisserie à l'ananas",
+    "pâtisserie au jaune d'œuf",
     'gâteau soleil',
     'Fête de la Mi-Automne',
     'cadeau de voyage',

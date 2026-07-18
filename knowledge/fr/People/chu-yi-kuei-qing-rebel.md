@@ -1,19 +1,26 @@
 ---
-title: 'Zhu Yigui, le « Roi des Canards » : premier chef rebelle à s'être proclamé roi à Taïwan'
+title: "Zhu Yigui, le « Roi des Canards » : premier chef rebelle à s'être proclamé roi à Taïwan"
 description: "Récit de l'insurrection de Zhu Yigui en 1721 — de l'éleveur de canards au roi autoproclamé — et l'influence durable de cet événement sur la politique de gouvernance de la cour Qing à Taïwan."
 date: 2026-03-24
-tags: ['Histoire de Taïwan', 'Période Qing', 'Soulèvement populaire', 'Zhu Yigui', 'Roi des Canards']
+tags:
+  [
+    'Histoire de Taïwan',
+    'Période Qing',
+    'Soulèvement populaire',
+    'Zhu Yigui',
+    'Roi des Canards',
+  ]
 subcategory: 'Personnages historiques'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: false
 lastVerified: 2026-03-24
-translatedFrom: "People/朱一貴.md"
+translatedFrom: 'People/朱一貴.md'
 sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:59a6177c37cf5305'
 sourceBodyHash: 'sha256:731cd7121531d2ac'
-translatedAt: "2026-04-14T19:15:12+08:00"
+translatedAt: '2026-04-14T19:15:12+08:00'
 ---
 
 # Zhu Yigui, le « Roi des Canards » : premier chef rebelle à s'être proclamé roi à Taïwan

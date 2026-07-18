@@ -1,19 +1,29 @@
 ---
 title: 'Le mont Luodi'
-description: 'La zone de badlands volcanique boueuse la plus proche du littoral de Taïwan — ancienne forteresse militaire reconvertie en parc naturel, avec des bouches d'éjection de boue actives et des sentiers offrant de splendides panoramas sur la mer.'
+description: "La zone de badlands volcanique boueuse la plus proche du littoral de Taïwan — ancienne forteresse militaire reconvertie en parc naturel, avec des bouches d'éjection de boue actives et des sentiers offrant de splendides panoramas sur la mer."
 date: 2026-03-23
-tags: ['géographie', 'nature', 'volcan de boue', 'badlands', 'Kaohsiung', 'district de Mituo', 'sentiers de randonnée', 'vestiges militaires']
+tags:
+  [
+    'géographie',
+    'nature',
+    'volcan de boue',
+    'badlands',
+    'Kaohsiung',
+    'district de Mituo',
+    'sentiers de randonnée',
+    'vestiges militaires',
+  ]
 subcategory: 'Sites remarquables'
 category: 'Geography'
 author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: false
-translatedFrom: "Geography/漯底山.md"
+translatedFrom: 'Geography/漯底山.md'
 lastVerified: 2026-03-23
 sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:2cef849f8ebc6df7'
 sourceBodyHash: 'sha256:a56d3c9283c22ceb'
-translatedAt: "2026-04-15T17:34:06+08:00"
+translatedAt: '2026-04-15T17:34:06+08:00'
 ---
 
 # Le mont Luodi

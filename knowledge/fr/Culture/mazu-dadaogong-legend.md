@@ -1,15 +1,22 @@
 ---
-title: 'Mazu et Baoshengdadi : la légende d'amour la plus romantique de Taïwan'
+title: "Mazu et Baoshengdadi : la légende d'amour la plus romantique de Taïwan"
 description: '« La pluie de Mazu, le vent de Baoshengdadi » — derrière ce dicton météorologique se cache une passion tumultueuse entre deux divinités'
 date: 2026-03-21
-tags: ['culture taïwanaise', 'croyances populaires', 'Mazu', 'Baoshengdadi', 'proverbes météorologiques']
+tags:
+  [
+    'culture taïwanaise',
+    'croyances populaires',
+    'Mazu',
+    'Baoshengdadi',
+    'proverbes météorologiques',
+  ]
 subcategory: 'Religion et folklore'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
-translatedFrom: "Culture/媽祖與大道公的傳說.md"
+translatedFrom: 'Culture/媽祖與大道公的傳說.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e0f0df37674e0a42'
 sourceBodyHash: 'sha256:0cf1fac1d7c9b8b4'

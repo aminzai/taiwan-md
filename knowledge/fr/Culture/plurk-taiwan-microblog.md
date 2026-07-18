@@ -1,14 +1,15 @@
 ---
-title: 'Plurk — Le microblog qui a survécu à l'ère des algorithmes'
-description: 'Lancée en 2008, la plateforme de microblog Plurk a tenu bon face à la déferlante Facebook et Twitter grâce à sa timeline horizontale en « rivière » et à une diffusion totalement dénuée d'algorithmes. Après le blocage de Google en 2016, elle s'est redressée grâce aux « Plurk Coins », un modèle d'abonnement payant soutenu par une communauté taïwanaise fidèle — une rivière qui coule selon ses propres règles, loin de toute manipulation algorithmique.'
+title: "Plurk — Le microblog qui a survécu à l'ère des algorithmes"
+description: "Lancée en 2008, la plateforme de microblog Plurk a tenu bon face à la déferlante Facebook et Twitter grâce à sa timeline horizontale en « rivière » et à une diffusion totalement dénuée d'algorithmes. Après le blocage de Google en 2016, elle s'est redressée grâce aux « Plurk Coins », un modèle d'abonnement payant soutenu par une communauté taïwanaise fidèle — une rivière qui coule selon ses propres règles, loin de toute manipulation algorithmique."
 date: 2026-04-01
-tags: ['médias sociaux', 'culture geek', 'histoire du web taïwanais', 'Plurk Coins']
+tags:
+  ['médias sociaux', 'culture geek', 'histoire du web taïwanais', 'Plurk Coins']
 subcategory: 'Vie numérique'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-04-01
-translatedFrom: "Culture/噗浪Plurk.md"
+translatedFrom: 'Culture/噗浪Plurk.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:96026947f084b369'
 sourceBodyHash: 'sha256:147f1c5986f4274b'

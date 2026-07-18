@@ -1,19 +1,27 @@
 ---
 title: 'Le Grand Référendum de Révocation — Quand la démocratie taïwanaise se teste elle-même'
-description: 'En 2025, la société civile taïwanaise a lancé le plus vaste mouvement de révocation de l'histoire du pays, visant des législateurs du Kuomintang responsables de lois jugées dangereuses pour la souveraineté nationale. Malgré une mobilisation sans précédent, les trois vagues de vote ont toutes échoué — laissant derrière elles une réflexion profonde sur les limites et la force de la démocratie directe.'
+description: "En 2025, la société civile taïwanaise a lancé le plus vaste mouvement de révocation de l'histoire du pays, visant des législateurs du Kuomintang responsables de lois jugées dangereuses pour la souveraineté nationale. Malgré une mobilisation sans précédent, les trois vagues de vote ont toutes échoué — laissant derrière elles une réflexion profonde sur les limites et la force de la démocratie directe."
 date: 2026-04-13
-tags: ['révocation', 'Kuomintang', 'action citoyenne', 'Parlement', 'relations cross-détroit', '2025']
+tags:
+  [
+    'révocation',
+    'Kuomintang',
+    'action citoyenne',
+    'Parlement',
+    'relations cross-détroit',
+    '2025',
+  ]
 category: 'History'
 subcategory: 'Démocratie contemporaine'
 author: 'Taiwan.md Translation Team'
 featured: true
 lastVerified: 2026-04-13
 lastHumanReview: true
-translatedFrom: "History/大罷免.md"
+translatedFrom: 'History/大罷免.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:6a3389f4e3aa59c9'
 sourceBodyHash: 'sha256:ac361a928edec55d'
-translatedAt: "2026-04-14T12:31:49+08:00"
+translatedAt: '2026-04-14T12:31:49+08:00'
 ---
 
 > 📝 **En 30 secondes :**

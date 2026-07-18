@@ -6,7 +6,7 @@ tags:
   [
     'café',
     'café de Gukeng',
-    'café de l'Alishan',
+    "café de l'Alishan",
     'Simple Kaffa',
     'troisième vague café',
     'Cup of Excellence',
@@ -17,11 +17,11 @@ author: 'Taiwan.md Translation Team'
 category: 'Food'
 lastVerified: 2026-03-23
 lastHumanReview: true
-translatedFrom: "Food/台灣咖啡產業.md"
+translatedFrom: 'Food/台灣咖啡產業.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bf3c7b57d2ee1eb5'
 sourceBodyHash: 'sha256:9eb2ce39000f61fe'
-translatedAt: "2026-04-14T12:29:18+08:00"
+translatedAt: '2026-04-14T12:29:18+08:00'
 ---
 
 # L'industrie du café à Taïwan

@@ -1,19 +1,28 @@
 ---
 title: 'Li Mei-shu'
-description: 'Un peintre qui consacra 36 ans à la reconstruction d'un temple, introduisant l'esthétique académique dans la foi populaire taïwanaise'
+description: "Un peintre qui consacra 36 ans à la reconstruction d'un temple, introduisant l'esthétique académique dans la foi populaire taïwanaise"
 date: 2026-03-23
-tags: ['Personnalité', 'Art', 'Beaux-arts', 'Sanxia', 'Temple Zushi', 'Réalisme', 'Exposition de Taïwan']
+tags:
+  [
+    'Personnalité',
+    'Art',
+    'Beaux-arts',
+    'Sanxia',
+    'Temple Zushi',
+    'Réalisme',
+    'Exposition de Taïwan',
+  ]
 category: 'People'
 subcategory: 'Art et création'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-23
 readingTime: 8
-translatedFrom: "People/李梅樹.md"
+translatedFrom: 'People/李梅樹.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7bf4114050e0bd18'
 sourceBodyHash: 'sha256:56cd3707ce723649'
-translatedAt: "2026-04-14T19:15:40+08:00"
+translatedAt: '2026-04-14T19:15:40+08:00'
 ---
 
 > **En 30 secondes :** Li Mei-shu ne fut pas seulement un peintre primé aux expositions officielles de Taïwan — il est le seul artiste de l'île à avoir dirigé la reconstruction d'un temple traditionnel avec une vision résolument académique. À partir de 1947, il consacra 36 ans à la reconstruction du temple Zushi de Sanxia, créant un phénomène sans précédent d'hybridation entre Orient et Occident, si bien que cet humble sanctuaire rural fut salué comme un « Palais des arts de l'Orient ».

@@ -2,7 +2,18 @@
 title: "Cheng Wen-chi : 12 ans pour pousser le milieu artistique taïwanais vers l'archipel malais"
 description: "En mai 2017, l'artiste malaisienne Okui Lala (Chou Ying-chen) est arrivée à Taipei, devenant la première artiste en résidence de « No Man's Land » (Désert numérique). Lors de sa présentation, elle a diffusé une vidéo où elle récitait des prières en teochew avec sa belle-mère. Cette scène résume le projet que Cheng Wen-chi a lancé en 2011 avec « No Man's Land » — 12 ans plus tard, 56 numéros, 384 articles et 10 volumes de l'« Archive de l'archipel » (Nusantara Archive), il a remplacé le terme « Asie du Sud-Est » par « archipel », orientant le milieu artistique taïwanais vers le monde malais, mais se heurtant aussi au plafond de la vision périphérique."
 date: 2026-05-04
-tags: ['Cheng Wen-chi', 'No Man's Land', 'No Mans Land', 'Archive de l'archipel', 'Nusantara Archive', 'art contemporain', 'commissaire d''exposition', 'perspective méridionale', 'périphérie']
+tags:
+  [
+    'Cheng Wen-chi',
+    "No Man's Land",
+    'No Mans Land',
+    "Archive de l'archipel",
+    'Nusantara Archive',
+    'art contemporain',
+    "commissaire d'exposition",
+    'perspective méridionale',
+    'périphérie',
+  ]
 category: People
 subcategory: '策展與藝術評論'
 author: 'Taiwan.md'

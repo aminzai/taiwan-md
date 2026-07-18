@@ -1,19 +1,27 @@
 ---
-title: 'Far Eastern Group : d'une filature shanghaïenne à l'empire industriel de Taïwan'
-description: 'Comment une modeste filature fondée à Shanghai il y a 87 ans est-elle devenue un empire commercial couvrant dix secteurs d'activité, avec des actifs dépassant 3 000 milliards de NT$ ? L'histoire du Far Eastern Group retrace l'intégralité du parcours des entrepreneurs taïwanais, des heures de gloire jusqu'aux risques politiques.'
+title: "Far Eastern Group : d'une filature shanghaïenne à l'empire industriel de Taïwan"
+description: "Comment une modeste filature fondée à Shanghai il y a 87 ans est-elle devenue un empire commercial couvrant dix secteurs d'activité, avec des actifs dépassant 3 000 milliards de NT$ ? L'histoire du Far Eastern Group retrace l'intégralité du parcours des entrepreneurs taïwanais, des heures de gloire jusqu'aux risques politiques."
 date: 2026-03-24
 category: Economy
-tags: [entreprises, conglomérats, diversification, industrie textile, entrepreneurs taïwanais, risque politique]
-subcategory: 'Portraits d'entreprises'
+tags:
+  [
+    entreprises,
+    conglomérats,
+    diversification,
+    industrie textile,
+    entrepreneurs taïwanais,
+    risque politique,
+  ]
+subcategory: "Portraits d'entreprises"
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-24
-translatedFrom: "Economy/台灣企業：遠東集團.md"
+translatedFrom: 'Economy/台灣企業：遠東集團.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d6da6fce353b5bfa'
 sourceBodyHash: 'sha256:4d55bf95947dc191'
-translatedAt: "2026-04-14T19:21:16+08:00"
+translatedAt: '2026-04-14T19:21:16+08:00'
 ---
 
 En novembre 2021, une nouvelle ébranle le monde des affaires à Taïwan : le Far Eastern Group écope d'une amende de 474 millions de yuans (soit environ 2,06 milliards de NT$) infligée par les autorités chinoises, au motif de « violations des réglementations environnementales, d'utilisation des terres et de santé au travail ». Tout le monde savait pourtant que cette affaire dépassait largement le cadre réglementaire.

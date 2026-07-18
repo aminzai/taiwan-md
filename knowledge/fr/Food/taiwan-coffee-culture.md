@@ -1,8 +1,16 @@
 ---
-title: "La culture du café à Taïwan : une île où les supérettes vendent six cents millions de tasses par an"
+title: 'La culture du café à Taïwan : une île où les supérettes vendent six cents millions de tasses par an'
 description: "Planté sous l'ère japonaise à Gukeng dans le comté de Yunlin, le premier caféier de Taïwan a donné naissance, un siècle plus tard, à un paysage urbain où un café apparaît tous les cinquante mètres. Louisa Coffee a ouvert quelque six cents enseignes, dépassant Starbucks. Le café d'Alishan s'est imposé dans les compétitions internationales. Le café à Taïwan n'a jamais été qu'une simple boisson."
 date: 2026-04-06
-tags: ['café', 'Louisa Coffee', 'café d\'Alishan', 'café de spécialité', 'supérette', 'troisième lieu']
+tags:
+  [
+    'café',
+    'Louisa Coffee',
+    "café d'Alishan",
+    'café de spécialité',
+    'supérette',
+    'troisième lieu',
+  ]
 category: Food
 subcategory: '飲品文化'
 author: 'Taiwan.md Contributors'

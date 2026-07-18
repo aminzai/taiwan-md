@@ -1,9 +1,16 @@
 ---
-title: 'La cérémonie du thé à Taïwan et l'esthétique du quotidien'
-description: 'Un insecte qui mord une feuille pour en révéler le miel, une maison japonaise devenue foyer de la démocratie, un thé aux perles qui conquiert le monde — comment la culture du thé taïwanaise s'est transformée d'un héritage colonial en une véritable philosophie de vie'
+title: "La cérémonie du thé à Taïwan et l'esthétique du quotidien"
+description: "Un insecte qui mord une feuille pour en révéler le miel, une maison japonaise devenue foyer de la démocratie, un thé aux perles qui conquiert le monde — comment la culture du thé taïwanaise s'est transformée d'un héritage colonial en une véritable philosophie de vie"
 date: 2026-03-25
 category: 'Culture'
-tags: ['culture du thé', 'cérémonie du thé', 'esthétique du quotidien', 'Oriental Beauty', 'Maison du Wistaria']
+tags:
+  [
+    'culture du thé',
+    'cérémonie du thé',
+    'esthétique du quotidien',
+    'Oriental Beauty',
+    'Maison du Wistaria',
+  ]
 subcategory: 'Artisanat et esthétique'
 author: 'Taiwan.md Translation Team'
 difficulty: 'beginner'
@@ -11,7 +18,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
-translatedFrom: "Culture/台灣茶道與生活美學.md"
+translatedFrom: 'Culture/台灣茶道與生活美學.md'
 sourceCommitSha: 'e564525c'
 sourceContentHash: 'sha256:741b3d02ada8cbbb'
 sourceBodyHash: 'sha256:31e39ab99f97ad00'

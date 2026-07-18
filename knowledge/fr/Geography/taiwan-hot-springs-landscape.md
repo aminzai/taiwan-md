@@ -1,8 +1,16 @@
 ---
 title: 'Les paysages thermaux de Taïwan'
-description: 'De la « soupe des sorcières » au top 15 mondial des destinations thermales : comment la collision de plaques tectoniques a forgé l'âme curative de cette île'
+description: "De la « soupe des sorcières » au top 15 mondial des destinations thermales : comment la collision de plaques tectoniques a forgé l'âme curative de cette île"
 date: 2026-03-23
-tags: ['sources thermales', 'géologie', 'volcanisme', 'culture thermale', 'tourisme', 'tectonique des plaques']
+tags:
+  [
+    'sources thermales',
+    'géologie',
+    'volcanisme',
+    'culture thermale',
+    'tourisme',
+    'tectonique des plaques',
+  ]
 subcategory: 'Climat et sources thermales'
 author: 'Taiwan.md Translation Team'
 difficulty: 'beginner'
@@ -11,11 +19,11 @@ category: 'Geography'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-translatedFrom: "Geography/台灣溫泉地景.md"
+translatedFrom: 'Geography/台灣溫泉地景.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5501454d0b0366dd'
 sourceBodyHash: 'sha256:7e3bd7915270078d'
-translatedAt: "2026-04-15T17:33:45+08:00"
+translatedAt: '2026-04-15T17:33:45+08:00'
 ---
 
 # Les paysages thermaux de Taïwan

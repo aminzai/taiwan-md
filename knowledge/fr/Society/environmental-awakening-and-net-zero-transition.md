@@ -1,8 +1,15 @@
 ---
 title: 'Environnement et développement durable à Taïwan'
-description: 'De l'île aux cheminées à Taïwan zéro carbone : 40 ans d'éveil écologique'
+description: "De l'île aux cheminées à Taïwan zéro carbone : 40 ans d'éveil écologique"
 date: 2026-03-21
-tags: ['environnement', 'développement durable', 'zéro émission nette', 'économie circulaire', 'changement climatique']
+tags:
+  [
+    'environnement',
+    'développement durable',
+    'zéro émission nette',
+    'économie circulaire',
+    'changement climatique',
+  ]
 subcategory: 'Mouvements sociaux'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
@@ -10,11 +17,11 @@ featured: true
 category: 'Society'
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: "Society/環保與永續發展.md"
+translatedFrom: 'Society/環保與永續發展.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
-translatedAt: "2026-04-14T12:32:44+08:00"
+translatedAt: '2026-04-14T12:32:44+08:00'
 ---
 
 # Environnement et développement durable : l'éveil vert d'une île

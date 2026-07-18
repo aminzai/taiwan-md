@@ -1,25 +1,26 @@
 ---
-title: 'Le secteur Beida : trente ans d'urbanisme et une expérience de vie universitaire'
-description: 'Du champ de bataille historique de Longenpu en 1895 à la station de métro Daxuecheng en 2026, ceci est une encyclopédie approfondie sur la terre, l'esthétique et l'identité sélective.'
+title: "Le secteur Beida : trente ans d'urbanisme et une expérience de vie universitaire"
+description: "Du champ de bataille historique de Longenpu en 1895 à la station de métro Daxuecheng en 2026, ceci est une encyclopédie approfondie sur la terre, l'esthétique et l'identité sélective."
 date: 2026-04-29
 author: 'idlccp1984'
 category: 'Geography'
 subcategory: '城市與人文地理'
-tags: [
-  Sanxia,
-  Shulin,
-  Université de Taipei,
-  Boulevard de l'Art,
-  Ligne Sanying,
-  District scolaire prestigieux,
-  Esthétique architecturale,
-  Économie du rail,
-  Gentrification,
-  Identité sélective,
-  Procession du Wanggong,
-  Parade religieuse,
-  Li Meishu,
-]
+tags:
+  [
+    Sanxia,
+    Shulin,
+    Université de Taipei,
+    Boulevard de l'Art,
+    Ligne Sanying,
+    District scolaire prestigieux,
+    Esthétique architecturale,
+    Économie du rail,
+    Gentrification,
+    Identité sélective,
+    Procession du Wanggong,
+    Parade religieuse,
+    Li Meishu,
+  ]
 readingTime: 18
 lastVerified: 2026-04-29
 lastHumanReview: false

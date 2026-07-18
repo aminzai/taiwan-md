@@ -1,19 +1,29 @@
 ---
 title: 'Kao Chun-ming'
-description: 'Un inconnu frappant à sa porte, un pasteur qui a tout risqué — le choix de foi derrière l'incident de Formosa'
+description: "Un inconnu frappant à sa porte, un pasteur qui a tout risqué — le choix de foi derrière l'incident de Formosa"
 date: 2026-03-22
-tags: [personnalité, pasteur, mouvement des droits humains, ère martiale, prisonnier de conscience, Église presbytérienne de Taïwan, incident de Formosa, Shih Ming-teh]
+tags:
+  [
+    personnalité,
+    pasteur,
+    mouvement des droits humains,
+    ère martiale,
+    prisonnier de conscience,
+    Église presbytérienne de Taïwan,
+    incident de Formosa,
+    Shih Ming-teh,
+  ]
 subcategory: 'Politique et démocratie'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-22
-translatedFrom: "People/高俊明.md"
+translatedFrom: 'People/高俊明.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:eaeba845240b369e'
 sourceBodyHash: 'sha256:b37aec09305a898c'
-translatedAt: "2026-04-14T19:19:52+08:00"
+translatedAt: '2026-04-14T19:19:52+08:00'
 ---
 
 > **En 30 secondes :** Le pasteur Kao Chun-ming (1929-2019) a purgé 4 ans de prison pour avoir caché le fugitif Shih Ming-teh après l'incident de Formosa de 1979 — alors qu'ils ne se connaissaient presque pas, s'étant croisés deux fois à peine dans des lieux publics. C'est une histoire de choix moral : confronté à un conflit entre obligation éthique et risque personnel, il a choisi l'éthique.

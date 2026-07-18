@@ -1,8 +1,17 @@
 ---
-title: 'Les 19 vaches du mont擎天崗 : de la race Genyuan au bouillon de bœuf de Tainan, l'odyssée d'une île vers l'autonomie bovine'
-description: 'Taïwan importe plus de 95 % de son bœuf, mais en 2024 elle a vu naître sa toute première race bovine reconnue officiellement. L'histoire des vaches Genyuan est celle d'un homme de 94 ans, de 19 bêtes noires sauvages et d'un bol de soupe fumante servi aux aurores — un scénario d'émancipation industrielle contre toute attente.'
+title: "Les 19 vaches du mont擎天崗 : de la race Genyuan au bouillon de bœuf de Tainan, l'odyssée d'une île vers l'autonomie bovine"
+description: "Taïwan importe plus de 95 % de son bœuf, mais en 2024 elle a vu naître sa toute première race bovine reconnue officiellement. L'histoire des vaches Genyuan est celle d'un homme de 94 ans, de 19 bêtes noires sauvages et d'un bol de soupe fumante servi aux aurores — un scénario d'émancipation industrielle contre toute attente."
 category: History
-tags: [race Genyuan, bouillon de bœuf de Tainan, bœuf frais non réfrigéré, élevage bovin, agriculture taïwanaise, Lee Teng-hui, filière bœuf]
+tags:
+  [
+    race Genyuan,
+    bouillon de bœuf de Tainan,
+    bœuf frais non réfrigéré,
+    élevage bovin,
+    agriculture taïwanaise,
+    Lee Teng-hui,
+    filière bœuf,
+  ]
 subcategory: 'Histoire sociale et du quotidien'
 author: 'Taiwan.md Translation Team'
 date: 2026-03-25
@@ -10,11 +19,11 @@ readingTime: 9
 featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
-translatedFrom: "History/源興牛與牛肉湯的歷史.md"
+translatedFrom: 'History/源興牛與牛肉湯的歷史.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ed10e8c11ed48896'
 sourceBodyHash: 'sha256:4ef8874799781420'
-translatedAt: "2026-04-14T12:32:06+08:00"
+translatedAt: '2026-04-14T12:32:06+08:00'
 ---
 
 > **En 30 secondes :** Plus de 95 % du bœuf consommé à Taïwan est importé. Le territoire est exigu, sans vastes pâturages, et les pouvoirs publics n'ont jamais élaboré de politique sérieuse en faveur des bovins à viande. Pourtant, en 2024, une première race bovine née d'une initiative privée a obtenu la reconnaissance officielle des autorités : la race Genyuan. Tout a commencé en 1933 avec un troupeau de vaches Tajima débarquées du Japon, et tout aboutit à un bol de soupe qu'il faut impérativement servir dans les six à huit heures suivant l'abattage. Ce n'est pas un récit de croissance industrielle triomphante — c'est l'histoire d'un archipel qui a su trouver une fissure dans une structure défavorable et s'y glisser.

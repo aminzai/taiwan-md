@@ -1,8 +1,15 @@
 ---
 title: 'Développement urbain et fracture ville-campagne à Taïwan'
-description: 'En 70 ans, Taïwan a basculé d'une île agricole à une île urbaine. Six métropoles concentrent 70 % de la population sur 30 % du territoire — portrait contrasté entre la prospérité de Taichung et le déclin de Yunlin.'
+description: "En 70 ans, Taïwan a basculé d'une île agricole à une île urbaine. Six métropoles concentrent 70 % de la population sur 30 % du territoire — portrait contrasté entre la prospérité de Taichung et le déclin de Yunlin."
 date: 2026-03-21
-tags: ['développement urbain', 'fracture ville-campagne', 'six métropoles', 'migrations de population', 'développement régional']
+tags:
+  [
+    'développement urbain',
+    'fracture ville-campagne',
+    'six métropoles',
+    'migrations de population',
+    'développement régional',
+  ]
 subcategory: 'Géographie urbaine et humaine'
 author: 'Taiwan.md Translation Team'
 difficulty: 'beginner'
@@ -11,11 +18,11 @@ category: 'Geography'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: "Geography/台灣都市發展與城鄉差距.md"
+translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:abb1bddb60e0e0c6'
 sourceBodyHash: 'sha256:85a0db4806eee7dd'
-translatedAt: "2026-04-15T17:33:45+08:00"
+translatedAt: '2026-04-15T17:33:45+08:00'
 ---
 
 # Développement urbain et fracture ville-campagne à Taïwan

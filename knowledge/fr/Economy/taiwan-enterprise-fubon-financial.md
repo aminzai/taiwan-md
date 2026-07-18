@@ -1,19 +1,28 @@
 ---
-title: 'Fubon Financial Holdings : l'empire financier des frères Tsai'
+title: "Fubon Financial Holdings : l'empire financier des frères Tsai"
 description: 'De 10 à 60 000 employés : comment les frères Tsai ont bâti en 60 ans le plus grand empire financier de Taïwan'
 date: 2026-03-22
 category: 'Economy'
-tags: [économie, entreprise, Fubon Financial, Tsai Ming-chung, finance, fusion-acquisition, transformation numérique]
-subcategory: 'Portraits d'entreprises'
+tags:
+  [
+    économie,
+    entreprise,
+    Fubon Financial,
+    Tsai Ming-chung,
+    finance,
+    fusion-acquisition,
+    transformation numérique,
+  ]
+subcategory: "Portraits d'entreprises"
 author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
-translatedFrom: "Economy/台灣企業：富邦金控.md"
+translatedFrom: 'Economy/台灣企業：富邦金控.md'
 lastVerified: 2026-03-22
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
-translatedAt: "2026-04-14T19:20:40+08:00"
+translatedAt: '2026-04-14T19:20:40+08:00'
 ---
 
 # Fubon Financial Holdings : l'empire financier des frères Tsai

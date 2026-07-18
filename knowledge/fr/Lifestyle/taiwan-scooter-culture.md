@@ -1,8 +1,18 @@
 ---
 title: 'La culture du scooter à Taïwan'
-description: 'Le pays à la plus haute densité de deux-roues au monde n'est pas une nation de passionnés de moto — c'est une nation sans autre choix. Et c'est devenu, presque par accident, le laboratoire mondial du deux-roues électrique.'
+description: "Le pays à la plus haute densité de deux-roues au monde n'est pas une nation de passionnés de moto — c'est une nation sans autre choix. Et c'est devenu, presque par accident, le laboratoire mondial du deux-roues électrique."
 date: 2026-03-25
-tags: [vie quotidienne, scooter, moto, Gogoro, KYMCO, SYM, deux-roues électrique, transports]
+tags:
+  [
+    vie quotidienne,
+    scooter,
+    moto,
+    Gogoro,
+    KYMCO,
+    SYM,
+    deux-roues électrique,
+    transports,
+  ]
 subcategory: 'Transports et mobilité'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
@@ -10,11 +20,11 @@ featured: true
 category: 'Lifestyle'
 lastVerified: 2026-03-25
 lastHumanReview: false
-translatedFrom: "Lifestyle/台灣機車文化.md"
+translatedFrom: 'Lifestyle/台灣機車文化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:6e1ce0a29ebd4e81'
 sourceBodyHash: 'sha256:5fa0068bcb11d00b'
-translatedAt: "2026-04-15T17:34:49+08:00"
+translatedAt: '2026-04-15T17:34:49+08:00'
 ---
 
 # La culture du scooter à Taïwan

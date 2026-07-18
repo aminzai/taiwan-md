@@ -1,15 +1,24 @@
 ---
 title: 'Chi-Huey Wong'
-description: 'Figure mondiale de la chimie des glucides, lauréat du prix Wolf de chimie 2014, ancien président de l'Academia Sinica, dont la carrière a été éclipsée par l'affaire OBI Pharma avant que la justice ne le disculpe'
+description: "Figure mondiale de la chimie des glucides, lauréat du prix Wolf de chimie 2014, ancien président de l'Academia Sinica, dont la carrière a été éclipsée par l'affaire OBI Pharma avant que la justice ne le disculpe"
 date: 2026-03-31
-tags: ['universitaire', 'chimie', 'Academia Sinica', 'chimie des glucides', 'affaire OBI Pharma', 'Nobel', 'prix Wolf']
+tags:
+  [
+    'universitaire',
+    'chimie',
+    'Academia Sinica',
+    'chimie des glucides',
+    'affaire OBI Pharma',
+    'Nobel',
+    'prix Wolf',
+  ]
 subcategory: 'Sciences et monde académique'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-31
-translatedFrom: "People/翁啟惠.md"
+translatedFrom: 'People/翁啟惠.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'

@@ -1,14 +1,21 @@
 ---
 title: 'Le Mouvement du Lys sauvage'
-description: 'En mars 1990, des étudiants taïwanais ont occupé la place de Chiang Kai-shek pendant sept jours et ont contraint un régime figé depuis quarante ans à s'ouvrir enfin à la réforme démocratique. Le Mouvement du Lys sauvage n'a pas seulement engendré la Conférence nationale — il a révélé, pour la première fois, que des étudiants pouvaient réécrire le calendrier de la réforme constitutionnelle de Taïwan.'
+description: "En mars 1990, des étudiants taïwanais ont occupé la place de Chiang Kai-shek pendant sept jours et ont contraint un régime figé depuis quarante ans à s'ouvrir enfin à la réforme démocratique. Le Mouvement du Lys sauvage n'a pas seulement engendré la Conférence nationale — il a révélé, pour la première fois, que des étudiants pouvaient réécrire le calendrier de la réforme constitutionnelle de Taïwan."
 date: 2026-03-23
-tags: ['société', 'histoire', 'mouvement étudiant', 'démocratisation', 'engagement civique']
+tags:
+  [
+    'société',
+    'histoire',
+    'mouvement étudiant',
+    'démocratisation',
+    'engagement civique',
+  ]
 subcategory: 'Démocratie et politique'
 category: 'Society'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
-translatedFrom: "Society/野百合學運.md"
+translatedFrom: 'Society/野百合學運.md'
 lastVerified: 2026-03-23
 sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:bc1d9c831c947934'

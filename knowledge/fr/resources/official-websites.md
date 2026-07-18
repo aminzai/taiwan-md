@@ -1,16 +1,16 @@
 ---
 title: 'Répertoire complet des sites officiels de Taïwan'
-description: 'Les sites officiels de Taïwan ne se limitent pas aux services gouvernementaux et aux informations politiques : ils constituent aussi une fenêtre essentielle pour comprendre le système politique, le développement culturel et la gouvernance sociale de l'île. Ce répertoire recense 81 sites de référence, de la présidence aux musées nationaux en passant par les plateformes de données ouvertes.'
+description: "Les sites officiels de Taïwan ne se limitent pas aux services gouvernementaux et aux informations politiques : ils constituent aussi une fenêtre essentielle pour comprendre le système politique, le développement culturel et la gouvernance sociale de l'île. Ce répertoire recense 81 sites de référence, de la présidence aux musées nationaux en passant par les plateformes de données ouvertes."
 date: 2026-03-17
 tags: [ressources, gouvernement, officiel, Taiwan.md]
 subcategory: 'Ressources'
 category: 'resources'
 author: 'Taiwan.md Translation Team'
-translatedFrom: "resources/official-websites.md"
+translatedFrom: 'resources/official-websites.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0d481ed818da82f8'
 sourceBodyHash: 'sha256:6713c8a6c615e62a'
-translatedAt: "2026-04-15T17:35:32+08:00"
+translatedAt: '2026-04-15T17:35:32+08:00'
 ---
 
 # Répertoire complet des sites officiels de Taïwan 🏛️

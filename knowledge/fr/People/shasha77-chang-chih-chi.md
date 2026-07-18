@@ -2,7 +2,14 @@
 title: "Chang Chih-chi : de SimpleInfo à shasha77, un « curateur d'informations » en quête de dialogue à l'ère de la polarisation"
 description: "Designer d'informations connu pour sa chaîne « shasha77 », mise à jour quotidiennement depuis sept ans et forte de 1,65 million d'abonnés, il traduit les enjeux sociaux complexes en synthèses accessibles. À l'ère de la polarisation, il explore sans relâche les possibilités de dialogue au sein de la société taïwanaise."
 date: 2026-04-20
-tags: ['Chang Chih-chi', 'shasha77', 'design d\'informations', 'YouTuber', 'enjeux sociaux']
+tags:
+  [
+    'Chang Chih-chi',
+    'shasha77',
+    "design d'informations",
+    'YouTuber',
+    'enjeux sociaux',
+  ]
 category: 'People'
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'

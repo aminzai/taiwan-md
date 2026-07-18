@@ -1,10 +1,10 @@
 ---
-title: 'La pauvreté d'apprentissage : assis en classe, mais sans rien apprendre'
-description: 'En 2019, la Banque mondiale a introduit le concept de « Learning Poverty » pour désigner un phénomène plus difficile à percevoir que le décrochage scolaire : un enfant de 10 ans qui se présente en classe chaque matin, remet ses devoirs, mais est incapable de comprendre un court texte adapté à son âge. En 2023, la Banque mondiale a confirmé que le taux mondial de pauvreté d'apprentissage demeurait autour de 70 %. Taïwan s'est classé dans le top 5 mondial au PISA 2022, avec les 20 % d'élèves les plus défavorisés en mathématiques qui rejoignent la moyenne de l'OCDE — une progression spectaculaire en apparence. Pourtant, le même rapport révèle un écart de 54 points entre les zones urbaines (571) et rurales (517) ; une enquête de la fondation Boyo portant sur 13 collèges ruraux montrait que dans 6 d'entre eux, 70 % des élèves obtenaient un C en anglais, et dans 5 autres, 70 % un C en mathématiques. La pauvreté d'apprentissage à la taïwanaise se loge précisément dans cet écart — et n'a jamais été officiellement mesurée.'
+title: "La pauvreté d'apprentissage : assis en classe, mais sans rien apprendre"
+description: "En 2019, la Banque mondiale a introduit le concept de « Learning Poverty » pour désigner un phénomène plus difficile à percevoir que le décrochage scolaire : un enfant de 10 ans qui se présente en classe chaque matin, remet ses devoirs, mais est incapable de comprendre un court texte adapté à son âge. En 2023, la Banque mondiale a confirmé que le taux mondial de pauvreté d'apprentissage demeurait autour de 70 %. Taïwan s'est classé dans le top 5 mondial au PISA 2022, avec les 20 % d'élèves les plus défavorisés en mathématiques qui rejoignent la moyenne de l'OCDE — une progression spectaculaire en apparence. Pourtant, le même rapport révèle un écart de 54 points entre les zones urbaines (571) et rurales (517) ; une enquête de la fondation Boyo portant sur 13 collèges ruraux montrait que dans 6 d'entre eux, 70 % des élèves obtenaient un C en anglais, et dans 5 autres, 70 % un C en mathématiques. La pauvreté d'apprentissage à la taïwanaise se loge précisément dans cet écart — et n'a jamais été officiellement mesurée."
 date: 2026-04-12
 tags:
   [
-    'pauvreté d'apprentissage',
+    "pauvreté d'apprentissage",
     'inégalités éducatives',
     'compétences fondamentales',
     'PISA',
@@ -23,11 +23,11 @@ readingTime: 13
 featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-translatedFrom: "Society/學習貧窮.md"
+translatedFrom: 'Society/學習貧窮.md'
 sourceCommitSha: '9d671671'
 sourceContentHash: 'sha256:87b9bdce32cd9e14'
 sourceBodyHash: 'sha256:605da09515483b90'
-translatedAt: "2026-04-14T12:32:34+08:00"
+translatedAt: '2026-04-14T12:32:34+08:00'
 ---
 
 > **En 30 secondes :** En 2019, la Banque mondiale et l'UNESCO ont publié conjointement le rapport _Ending Learning Poverty: What Will It Take?_, qui a formalisé le concept de « Learning Poverty » (pauvreté d'apprentissage)[^1]. La définition tient en une phrase : un enfant de 10 ans incapable de lire et de comprendre un texte simple adapté à son âge[^1]. En 2019, le taux de pauvreté d'apprentissage dans les pays à faible revenu et à revenu intermédiaire inférieur était de **53 %** ; après la pandémie, en 2022, il est passé à environ **70 %** ; selon la mise à jour publiée par la Banque mondiale en février 2023, même au rythme actuel des progrès, ce taux ne redescendrait qu'à **43 %** d'ici 2030[^2][^3]. Taïwan ne dispose pas de statistique officielle sur la pauvreté d'apprentissage, mais les résultats du PISA 2022 livrent une réponse à double face[^4] : **les élèves taïwanais se classent 3es mondiaux en mathématiques, 5es en lecture et 4es en sciences**. Les **20 % d'élèves les plus défavorisés affichent un score de 471 points en mathématiques, soit presque à égalité avec la moyenne OCDE de 472 points**, ce qui a valu à Taïwan la mention « système éducatif résilient » de l'OCDE[^5]. Mais le même rapport indique que **les élèves des zones urbaines obtiennent en moyenne 571 points en mathématiques, contre 517 dans les zones rurales — un écart de 54 points** (soit environ un an et demi à deux ans de progression scolaire)[^6]. Selon une enquête de la fondation Boyo sur 13 collèges ruraux en 2019, **dans 6 de ces établissements, 70 % des élèves obtenaient un C en anglais ; dans 5 autres, 70 % obtenaient un C en mathématiques**[^7]. Le PISA 2018 relevait que **l'écart entre les 10 % les plus performants et les 10 % les moins performants à Taïwan représentait environ 6 années de niveau scolaire en lecture**[^8]. La pauvreté d'apprentissage à la taïwanaise ne se lit pas dans les moyennes nationales — elle est inscrite dans les bulletins de collège des zones rurales, et n'a jamais fait l'objet d'une mesure officielle.

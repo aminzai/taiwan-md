@@ -1,14 +1,21 @@
 ---
 title: 'Le mouvement de revitalisation des langues autochtones à Taïwan'
-description: 'Le peuple Thao ne compte plus que 4 locuteurs natifs, et pourtant Taïwan abrite l'une des expériences de revitalisation linguistique les plus intenses au monde. De la loi de 2017 sur les langues autochtones aux plateformes numériques, une course contre la montre est engagée.'
+description: "Le peuple Thao ne compte plus que 4 locuteurs natifs, et pourtant Taïwan abrite l'une des expériences de revitalisation linguistique les plus intenses au monde. De la loi de 2017 sur les langues autochtones aux plateformes numériques, une course contre la montre est engagée."
 date: 2026-03-29
-tags: ['peuples autochtones', 'revitalisation linguistique', 'éducation en langue ancestrale', 'politique linguistique', 'transmission culturelle']
+tags:
+  [
+    'peuples autochtones',
+    'revitalisation linguistique',
+    'éducation en langue ancestrale',
+    'politique linguistique',
+    'transmission culturelle',
+  ]
 subcategory: 'Langue et écriture'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
-translatedFrom: "Culture/台灣原住民語言復振運動.md"
+translatedFrom: 'Culture/台灣原住民語言復振運動.md'
 lastVerified: 2026-03-29
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9c408bfc603af1d1'

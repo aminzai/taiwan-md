@@ -1,20 +1,28 @@
 ---
 title: 'Tseng Ya-ni'
-description: '109 semaines au rang mondial numéro un, 15 victoires sur le circuit LPGA dont 5 Majeurs — à 22 ans, la joueuse la plus jeune de l'histoire à détenir 5 trophées en Grand Chelem, surpassant le record de Tiger Woods. En 2025, elle met fin à onze ans de disette en remportant à nouveau un titre.'
+description: "109 semaines au rang mondial numéro un, 15 victoires sur le circuit LPGA dont 5 Majeurs — à 22 ans, la joueuse la plus jeune de l'histoire à détenir 5 trophées en Grand Chelem, surpassant le record de Tiger Woods. En 2025, elle met fin à onze ans de disette en remportant à nouveau un titre."
 date: 2026-03-31
 tags:
-  ['Sport', 'Golf', 'LPGA', 'Numéro un mondial', 'Golf professionnel', 'Grand Chelem', 'Golf féminin']
+  [
+    'Sport',
+    'Golf',
+    'LPGA',
+    'Numéro un mondial',
+    'Golf professionnel',
+    'Grand Chelem',
+    'Golf féminin',
+  ]
 subcategory: 'Sport'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-31
-translatedFrom: "People/曾雅妮.md"
+translatedFrom: 'People/曾雅妮.md'
 sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
-translatedAt: "2026-04-14T19:15:12+08:00"
+translatedAt: '2026-04-14T19:15:12+08:00'
 ---
 
 # Tseng Ya-ni

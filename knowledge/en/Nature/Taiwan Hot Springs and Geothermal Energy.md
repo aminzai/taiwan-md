@@ -1,16 +1,25 @@
 ---
 title: 'Taiwan Hot Springs and Geothermal Energy'
-description: 'From a failed geothermal plant to the world\'s only Hokutolite mineral: How one island turned underground fire into healing and green electricity'
+description: "From a failed geothermal plant to the world's only Hokutolite mineral: How one island turned underground fire into healing and green electricity"
 date: 2026-03-23
-tags: ['hot springs', 'geothermal energy', 'Hokutolite', 'Green Island Zhaori Hot Springs', 'Qingshui Geothermal Power Plant', 'geology', 'spa culture']
+tags:
+  [
+    'hot springs',
+    'geothermal energy',
+    'Hokutolite',
+    'Green Island Zhaori Hot Springs',
+    'Qingshui Geothermal Power Plant',
+    'geology',
+    'spa culture',
+  ]
 category: Nature
 lastVerified: 2026-03-23
 lastHumanReview: false
-translatedFrom: "Nature/台灣溫泉與地熱.md"
+translatedFrom: 'Nature/台灣溫泉與地熱.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c950b0e6980af7aa'
 sourceBodyHash: 'sha256:76aaf6bdf8e233fe'
-translatedAt: "2026-04-14T12:25:09+08:00"
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Hot Springs and Geothermal Energy

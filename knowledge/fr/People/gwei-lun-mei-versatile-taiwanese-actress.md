@@ -2,18 +2,25 @@
 title: 'Guei Lun-Mei'
 description: "De « The Secret » aux festivals internationaux, une actrice discrète et d'une grande profondeur"
 date: 2026-03-19
-tags: ['Guei Lun-Mei', 'actrice', 'The Secret', 'festivals internationaux', 'jeu d'acteur']
+tags:
+  [
+    'Guei Lun-Mei',
+    'actrice',
+    'The Secret',
+    'festivals internationaux',
+    "jeu d'acteur",
+  ]
 subcategory: 'Cinéma et Théâtre'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: "People/桂綸鎂.md"
+translatedFrom: 'People/桂綸鎂.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:266bd954eeb032d3'
 sourceBodyHash: 'sha256:c06a0cb5b90069e3'
-translatedAt: "2026-05-17T06:15:00Z"
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 # Guei Lun-Mei : une actrice discrète et d'une rare profondeur
@@ -127,7 +134,11 @@ Guei Lun-Mei a prouvé, par toute sa carrière, ce que signifie réellement êtr
 - [Développement international des acteurs taïwanais — Bureau de l'audiovisuel et de la musique populaire, Ministère de la Culture](https://www.bamid.gov.tw/) — Données sur les coopérations internationales
 
 [^1]: Wikipédia, entrée « Soul » (失魂) : _Soul_ (2013), réalisé par Chung Mong-hong, avec Guei Lun-Mei et Chang Hsiao-chuan. https://zh.wikipedia.org/wiki/失魂
-[^2]: Wikipédia, entrée « Guei Lun-Mei », répertoriant les œuvres dont _Blue Gate Crossing_, _The Secret_, _GF*BF_. https://zh.wikipedia.org/wiki/桂綸鎂
+
+[^2]: Wikipédia, entrée « Guei Lun-Mei », répertoriant les œuvres dont _Blue Gate Crossing_, _The Secret_, _GF\*BF_. https://zh.wikipedia.org/wiki/桂綸鎂
+
 [^3]: _Blue Gate Crossing_ (2002), réalisé par Yee Chih-yen, avec Guei Lun-Mei et Chen Bo-lin, sélectionné dans plusieurs festivals internationaux. Taiwan Cinema Database : <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
-[^4]: _GF*BF_ (2012), réalisé par Yang Ya-che, nommée meilleure actrice à la 49e cérémonie des Golden Horse Awards. Site officiel des Golden Horse Awards : https://www.goldenhorse.org.tw/
+
+[^4]: _GF\*BF_ (2012), réalisé par Yang Ya-che, nommée meilleure actrice à la 49e cérémonie des Golden Horse Awards. Site officiel des Golden Horse Awards : https://www.goldenhorse.org.tw/
+
 [^5]: _Our Time Will Come_ (2017), réalisé par Ann Hui, avec Guei Lun-Mei, illustrant une collaboration transrégionale. Hong Kong Film Archive : <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>

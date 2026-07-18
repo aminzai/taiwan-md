@@ -1,19 +1,27 @@
 ---
-title: 'La cuisine de maître à Taïwan : l'art des plats signatures et la culture des banquets de rue'
-description: 'La tshiú-lōo-tshài (手路菜) désigne en taïwanais les plats qui requièrent un vrai savoir-faire — transmis de maître à disciple, sans recette écrite. À Neimen, district de Kaohsiung, une terre trop alcaline pour cultiver quoi que ce soit a paradoxalement forgé la plus haute concentration de maîtres-traiteurs de tout Taïwan. À leur apogée, ils assuraient 25 000 banquets par an. Aujourd'hui, le secteur lutte pour survivre.'
+title: "La cuisine de maître à Taïwan : l'art des plats signatures et la culture des banquets de rue"
+description: "La tshiú-lōo-tshài (手路菜) désigne en taïwanais les plats qui requièrent un vrai savoir-faire — transmis de maître à disciple, sans recette écrite. À Neimen, district de Kaohsiung, une terre trop alcaline pour cultiver quoi que ce soit a paradoxalement forgé la plus haute concentration de maîtres-traiteurs de tout Taïwan. À leur apogée, ils assuraient 25 000 banquets par an. Aujourd'hui, le secteur lutte pour survivre."
 date: 2026-03-31
-tags: ['cuisine taïwanaise', 'cuisine traditionnelle', 'banquet de rue', 'plats signatures', 'maître-traiteur', 'culture gastronomique']
+tags:
+  [
+    'cuisine taïwanaise',
+    'cuisine traditionnelle',
+    'banquet de rue',
+    'plats signatures',
+    'maître-traiteur',
+    'culture gastronomique',
+  ]
 subcategory: 'Culture gastronomique'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: true
-translatedFrom: "Food/台灣手路菜.md"
+translatedFrom: 'Food/台灣手路菜.md'
 lastVerified: 2026-03-31
 sourceCommitSha: 'b0e441fa'
 sourceContentHash: 'sha256:976bf813ab549fe2'
 sourceBodyHash: 'sha256:c76694b44c893f41'
-translatedAt: "2026-06-10T16:45:50Z"
+translatedAt: '2026-06-10T16:45:50Z'
 ---
 
 > **En 30 secondes :** La _tshiú-lōo-tshài_ (手路菜) — littéralement « le plat de la main experte » — désigne des préparations qui exigent un vrai tour de main : pas de recette standardisée, un savoir transmis oralement de maître à disciple. Son cadre d'expression par excellence est le _pān-toh_, banquet de rue dressé sous chapiteau avec fourneaux installés sur place. Neimen (Kaohsiung), dont les sols calcaires ne permettaient aucune culture, est devenu contre toute attente la capitale taïwanaise des maîtres-traiteurs — au plus fort de leur activité, une seule entreprise organisait 25 000 tables par an. Mais entre l'essor des banquets en hôtel et la crise du COVID-19, les commandes de _pān-toh_ ont fondu de 90 % en vingt ans. Ce qui disparaît avec eux, ce n'est pas seulement une saveur : c'est toute une forme d'entraide de quartier, incarnée par la soupe _tshài-bé_ que l'on portait de porte en porte après chaque fête.

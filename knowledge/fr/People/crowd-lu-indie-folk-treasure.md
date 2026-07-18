@@ -1,6 +1,6 @@
 ---
 title: 'Crowd Lu : le roi des trois trophées renversé par un bus'
-description: 'En 2003, un lycéen de Tainan sort acheter un snack de nuit à vélo. Un bus lui écrase la jambe, fracture ouverte et éclate. Cloué au lit par l'ennui, il saisit la guitare laissée par son cousin. Vingt-deux ans plus tard, il est le plus jeune lauréat du Grand Chelem des Trois Prix d'Or de l'histoire de Taïwan — Golden Melody, Golden Bell, Golden Horse — un chemin parcouru avec une guitare et deux jambes qui avaient fracassé.'
+description: "En 2003, un lycéen de Tainan sort acheter un snack de nuit à vélo. Un bus lui écrase la jambe, fracture ouverte et éclate. Cloué au lit par l'ennui, il saisit la guitare laissée par son cousin. Vingt-deux ans plus tard, il est le plus jeune lauréat du Grand Chelem des Trois Prix d'Or de l'histoire de Taïwan — Golden Melody, Golden Bell, Golden Horse — un chemin parcouru avec une guitare et deux jambes qui avaient fracassé."
 date: 2026-04-07
 tags:
   [
@@ -25,7 +25,7 @@ author: 'Taiwan.md Translation Team'
 featured: false
 readingTime: 12
 lastVerified: 2026-04-07
-translatedFrom: "People/盧廣仲.md"
+translatedFrom: 'People/盧廣仲.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'

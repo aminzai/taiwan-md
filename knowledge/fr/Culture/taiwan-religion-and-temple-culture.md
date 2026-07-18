@@ -16,7 +16,7 @@ tags:
     'taoïsme',
     'Yiguandao',
     'Église presbytérienne',
-    'Temple Bao\'an',
+    "Temple Bao'an",
   ]
 readingTime: '22'
 lastVerified: '2026-04-28'

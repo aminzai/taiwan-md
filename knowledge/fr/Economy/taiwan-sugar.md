@@ -1,8 +1,15 @@
 ---
-title: 'Taiwan Sugar : de l'empire sucré qui finançait 74 % des devises à la grande propriétaire terrienne « hors sol » qui bat des records de profit en 2025'
-description: 'En 2025, le bénéfice net après impôts de Taiwan Sugar a atteint un sommet historique de 7,4 milliards de dollars taïwanais, mais cette entreprise centenaire ne vit plus de la vente de sucre. De pilier colonial sous l'occupation japonaise à poumon économique de l'après-guerre, retour sur la manière dont Taiwan Sugar s'est détourné du saccharose pour se réinventer dans les orchidées, les biotechnologies et l'architecture circulaire.'
+title: "Taiwan Sugar : de l'empire sucré qui finançait 74 % des devises à la grande propriétaire terrienne « hors sol » qui bat des records de profit en 2025"
+description: "En 2025, le bénéfice net après impôts de Taiwan Sugar a atteint un sommet historique de 7,4 milliards de dollars taïwanais, mais cette entreprise centenaire ne vit plus de la vente de sucre. De pilier colonial sous l'occupation japonaise à poumon économique de l'après-guerre, retour sur la manière dont Taiwan Sugar s'est détourné du saccharose pour se réinventer dans les orchidées, les biotechnologies et l'architecture circulaire."
 category: Economy
-tags: ['Taiwan Sugar', 'histoire sucrière', 'transition', 'économie circulaire', 'Phalaenopsis']
+tags:
+  [
+    'Taiwan Sugar',
+    'histoire sucrière',
+    'transition',
+    'économie circulaire',
+    'Phalaenopsis',
+  ]
 author: 'Taiwan.md Contributors'
 date: 2026-05-03
 readingTime: 8

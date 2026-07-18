@@ -1,8 +1,17 @@
 ---
 title: 'Le sommet Zheng-Xi de 2026 : dix minutes qui valent dix ans'
-description: 'Le 10 avril 2026, Cheng Li-wên rencontre Xi Jinping à Pékin — première dirigeante d'un grand parti taïwanais à voir le secrétaire général du PCC depuis une décennie. Dix minutes de dialogue, cent navires de guerre au large de Taïwan. Que cherche vraiment ce "voyage pour la paix" ?'
+description: 'Le 10 avril 2026, Cheng Li-wên rencontre Xi Jinping à Pékin — première dirigeante d''un grand parti taïwanais à voir le secrétaire général du PCC depuis une décennie. Dix minutes de dialogue, cent navires de guerre au large de Taïwan. Que cherche vraiment ce "voyage pour la paix" ?'
 date: 2026-04-11
-tags: ['Relations entre les deux rives', 'Dialogue KMT-PCC', 'Cheng Li-wên', 'Xi Jinping', 'Géopolitique', 'Politique', '2026']
+tags:
+  [
+    'Relations entre les deux rives',
+    'Dialogue KMT-PCC',
+    'Cheng Li-wên',
+    'Xi Jinping',
+    'Géopolitique',
+    'Politique',
+    '2026',
+  ]
 subcategory: 'Démocratie et politique'
 category: 'Society'
 author: 'Taiwan.md Translation Team'
@@ -11,7 +20,7 @@ readingTime: 14
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-translatedFrom: "Society/2026鄭習會與國共十年再會.md"
+translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'
 sourceBodyHash: 'sha256:3d0acbeaa8a56355'

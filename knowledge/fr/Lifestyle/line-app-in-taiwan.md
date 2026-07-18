@@ -1,10 +1,20 @@
 ---
-title: 'LINE : l'infrastructure numérique taïwanaise née d'une catastrophe sismique'
-description: 'LINE affiche un taux de pénétration supérieur à 93 % à Taïwan. Ayant commencé par remplacer MSN comme messagerie, il s'est transformé en une porte d'entrée unique regroupant paiement, services financiers, communications officielles et « images de bonne intention », devenant ainsi une infrastructure numérique centrale de la société taïwanaise.'
+title: "LINE : l'infrastructure numérique taïwanaise née d'une catastrophe sismique"
+description: "LINE affiche un taux de pénétration supérieur à 93 % à Taïwan. Ayant commencé par remplacer MSN comme messagerie, il s'est transformé en une porte d'entrée unique regroupant paiement, services financiers, communications officielles et « images de bonne intention », devenant ainsi une infrastructure numérique centrale de la société taïwanaise."
 date: 2026-04-30
 author: 'Taiwan.md Contributors'
 category: Lifestyle
-tags: ['messagerie instantanée', 'vie numérique', 'LINE Pay', 'LINE Bank', 'culture taïwanaise', 'monopole', 'sécurité de l'information', 'héritage numérique']
+tags:
+  [
+    'messagerie instantanée',
+    'vie numérique',
+    'LINE Pay',
+    'LINE Bank',
+    'culture taïwanaise',
+    'monopole',
+    "sécurité de l'information",
+    'héritage numérique',
+  ]
 readingTime: 15
 lastVerified: 2026-04-30
 lastHumanReview: false

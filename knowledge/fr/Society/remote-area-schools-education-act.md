@@ -1,6 +1,6 @@
 ---
-title: 'La loi sur l'éducation dans les zones rurales isolées de Taïwan : 17,5 milliards investis, mais la gravité démographique reste implacable'
-description: 'Le 21 novembre 2016, le Yuan législatif taïwanais adoptait en troisième lecture la Loi sur le développement de l'éducation dans les écoles des zones éloignées, en 21 articles. L'existence même de cette loi constitue une reconnaissance officielle par l'État de ses propres défaillances institutionnelles. Huit ans plus tard, le gouvernement a investi 17,5 milliards de dollars taïwanais dans les infrastructures rurales — mais l'année scolaire 2024-25 a vu fermer 18 écoles primaires en une seule fois, un record absolu dans l'histoire de l'éducation à Taïwan. La loi a sauvé le cadre juridique, mais elle n'a pas pu contenir la gravité démographique.'
+title: "La loi sur l'éducation dans les zones rurales isolées de Taïwan : 17,5 milliards investis, mais la gravité démographique reste implacable"
+description: "Le 21 novembre 2016, le Yuan législatif taïwanais adoptait en troisième lecture la Loi sur le développement de l'éducation dans les écoles des zones éloignées, en 21 articles. L'existence même de cette loi constitue une reconnaissance officielle par l'État de ses propres défaillances institutionnelles. Huit ans plus tard, le gouvernement a investi 17,5 milliards de dollars taïwanais dans les infrastructures rurales — mais l'année scolaire 2024-25 a vu fermer 18 écoles primaires en une seule fois, un record absolu dans l'histoire de l'éducation à Taïwan. La loi a sauvé le cadre juridique, mais elle n'a pas pu contenir la gravité démographique."
 date: 2026-04-11
 tags:
   [
@@ -9,9 +9,9 @@ tags:
     'législation scolaire',
     'enseignement multi-âges',
     'enseignants suppléants',
-    'fermeture d'écoles',
+    "fermeture d'écoles",
     'petites écoles',
-    'centre d'innovation éducative de Pingtung',
+    "centre d'innovation éducative de Pingtung",
     'inégalités éducatives',
   ]
 category: 'Society'
@@ -22,11 +22,11 @@ readingTime: 16
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-translatedFrom: "Society/偏遠地區學校教育發展條例全解.md"
+translatedFrom: 'Society/偏遠地區學校教育發展條例全解.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d99122254e2c5422'
 sourceBodyHash: 'sha256:1c338a244e1bf25e'
-translatedAt: "2026-04-14T12:32:15+08:00"
+translatedAt: '2026-04-14T12:32:15+08:00'
 ---
 
 > 📝 **En 30 secondes :** Le 21 novembre 2016, le Yuan législatif a adopté en troisième lecture la Loi sur le développement de l'éducation dans les écoles des zones éloignées, composée de 21 articles[^1]. La loi a été promulguée par le président le 6 décembre 2017[^1]. Huit ans plus tard, selon un rapport thématique présenté au Yuan législatif en mai 2024, le gouvernement a investi **environ 17,5 milliards de dollars taïwanais** dans l'amélioration des infrastructures scolaires rurales, et depuis l'année scolaire 2015-16, plus de **1,378 milliard de dollars taïwanais** ont été injectés pour rénover les dortoirs de 1 639 établissements ruraux[^2]. Pourtant, ce même rapport révèle une autre réalité moins flatteuse : l'année scolaire 2024-25 a vu **18 écoles primaires fermer leurs portes** — un record absolu dans l'histoire éducative taïwanaise. Dans le comté de Pingtung, sept établissements ont été fusionnés ou supprimés en quatre ans ; à l'échelle du comté, **40 % des écoles primaires comptent moins de 100 élèves, et 12,12 % moins de 50**[^3][^4]. La loi a consolidé le cadre légal, a libéré des crédits, a stabilisé la mobilité des enseignants, et a permis à 82 écoles de pratiquer légalement l'enseignement multi-âges[^5]. Mais elle n'a pas pu enrayer la force plus profonde qui agit en dessous : la gravité qui attire les populations vers les villes. Cet article explique pourquoi une bonne loi ne peut pas toujours sauver les écoles qu'elle cherche à protéger.

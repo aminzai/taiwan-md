@@ -1,9 +1,16 @@
 ---
-title: 'Les collisions d'oiseaux contre les vitres à Taïwan : un tueur urbain invisible'
-description: 'Une exploration approfondie du phénomène de collision aviaire contre les surfaces vitrées à Taïwan : état des lieux, mécanismes scientifiques, variations saisonnières, études de cas et avancées réglementaires en faveur d''une architecture respectueuse des oiseaux.'
+title: "Les collisions d'oiseaux contre les vitres à Taïwan : un tueur urbain invisible"
+description: "Une exploration approfondie du phénomène de collision aviaire contre les surfaces vitrées à Taïwan : état des lieux, mécanismes scientifiques, variations saisonnières, études de cas et avancées réglementaires en faveur d'une architecture respectueuse des oiseaux."
 date: 2026-03-23
 tags:
-  ['collision aviaire', 'protection des oiseaux', 'architecture écologique', 'science citoyenne', 'rapaces', 'bâtiment durable']
+  [
+    'collision aviaire',
+    'protection des oiseaux',
+    'architecture écologique',
+    'science citoyenne',
+    'rapaces',
+    'bâtiment durable',
+  ]
 subcategory: 'Faune sauvage'
 category: Nature
 author: Taiwan.md Translation Team
@@ -11,11 +18,11 @@ featured: false
 lastHumanReview: false
 lastVerified: 2026-03-23
 readingTime: 15
-translatedFrom: "Nature/台灣鳥類窗殺議題.md"
+translatedFrom: 'Nature/台灣鳥類窗殺議題.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7b5c9a385e90141f'
 sourceBodyHash: 'sha256:e55bf8d3c335463a'
-translatedAt: "2026-04-14T19:23:02+08:00"
+translatedAt: '2026-04-14T19:23:02+08:00'
 ---
 
 > **En 30 secondes**

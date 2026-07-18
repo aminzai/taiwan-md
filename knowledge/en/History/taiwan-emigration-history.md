@@ -1,10 +1,21 @@
 ---
-title: 'Taiwan's History of Going Abroad: An Island People's Cross-Border Narrative from "Police Headquarters Approval" to "Worldwide Access"'
+title: 'Taiwan''s History of Going Abroad: An Island People''s Cross-Border Narrative from "Police Headquarters Approval" to "Worldwide Access"'
 description: "On New Year's Day 1979, Taiwan issued its first tourist passport. This was more than the release of a piece of paper — it was a turning point from martial-law isolation to citizen diplomacy, documenting how Taiwanese people transformed from 'foreign-exchange-wasting' sinners into world travelers."
 date: '2026-05-02'
 author: 'Taiwan.md Contributors'
 category: 'History'
-tags: ['Going Abroad', '1979', 'Martial Law', 'Tourism', 'Passport', 'Study Abroad Wave', 'Foreign Exchange Control', 'Lin Xiantang', 'Freedom of Movement']
+tags:
+  [
+    'Going Abroad',
+    '1979',
+    'Martial Law',
+    'Tourism',
+    'Passport',
+    'Study Abroad Wave',
+    'Foreign Exchange Control',
+    'Lin Xiantang',
+    'Freedom of Movement',
+  ]
 readingTime: '25'
 lastVerified: '2026-05-02'
 lastHumanReview: false

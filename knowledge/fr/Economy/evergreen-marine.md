@@ -1,19 +1,20 @@
 ---
 title: 'Entreprise taïwanaise : Evergreen Marine'
-description: 'Un cargo d'occasion de 15 ans, un trône mondial décroché 17 ans plus tard — et un testament qui a déchiré un empire'
+description: "Un cargo d'occasion de 15 ans, un trône mondial décroché 17 ans plus tard — et un testament qui a déchiré un empire"
 date: 2026-03-24
-tags: [Economy, Entreprise, Transport maritime, Logistique, Commerce international]
-subcategory: 'Portraits d'entreprises'
+tags:
+  [Economy, Entreprise, Transport maritime, Logistique, Commerce international]
+subcategory: "Portraits d'entreprises"
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
 lastVerified: 2026-03-24
-translatedFrom: "Economy/台灣企業：長榮海運.md"
-sourceCommitSha: "d6e87d07"
+translatedFrom: 'Economy/台灣企業：長榮海運.md'
+sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:8bed402beaecae31'
 sourceBodyHash: 'sha256:97f9ec5722ee27b9'
-translatedAt: "2026-05-17T06:15:00Z"
+translatedAt: '2026-05-17T06:15:00Z'
 ---
 
 > **Vue d'ensemble en 30 secondes**
