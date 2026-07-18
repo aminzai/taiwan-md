@@ -89,8 +89,19 @@ CONVERTER_DIMENSIONS = [
     ("to", "Converter Toggle Target", "converter_direction_toggle 切到的方向 cn2tw/tw2cn"),
 ]
 
+# ── soundscape events（2026-07-18 /soundscape EVOLVE：21 錄音的播放量測）──
+# param 名以 src/templates/soundscape.template.astro sound_play script 實際送的為準。
+SOUNDSCAPE_DIMENSIONS = [
+    ("sound_file", "Soundscape Sound File", "sound_play 播放的錄音檔名（/assets/sounds/ 下）"),
+    ("sound_category", "Soundscape Category", "sound_play 錄音所屬分類 urban/mrt-soundscape/sacred/indigenous/nature/vanishing"),
+]
+
 DIMENSIONS = (
-    SEARCH_DIMENSIONS + ENGAGEMENT_DIMENSIONS + PAGE_DIMENSIONS + CONVERTER_DIMENSIONS
+    SEARCH_DIMENSIONS
+    + ENGAGEMENT_DIMENSIONS
+    + PAGE_DIMENSIONS
+    + CONVERTER_DIMENSIONS
+    + SOUNDSCAPE_DIMENSIONS
 )
 
 # ── 廢棄維度（archive 而非刪除，GA4 archive 可重建）──────────────────────────
