@@ -27,7 +27,8 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
-LANGS = ["en", "ja", "ko", "es", "fr"]
+from langs import ALL_TRANSLATION_LANGS
+LANGS = ALL_TRANSLATION_LANGS  # SSOT via langs.py (2026-07-18)
 
 _TRAILER_PATTERNS = [
     r"\n#{1,4}\s*延伸閱讀\s*\n.*?(?=\n#{1,4}\s|\Z)",

@@ -59,7 +59,8 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[3]
-LANGS = ["en", "ja", "ko", "es", "fr"]
+from langs import ALL_TRANSLATION_LANGS
+LANGS = ALL_TRANSLATION_LANGS  # SSOT via langs.py (2026-07-18)
 
 # Hash 函式 canonical 在 status.py — 本檔曾自帶一份實作（full-file hash + lstrip 差異），
 # 跟 status.py 的 body-only hash 語意分歧，patch 寫回的 sourceContentHash 永遠對不上

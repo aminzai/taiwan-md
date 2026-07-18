@@ -74,7 +74,9 @@ class GeminiBackend(TranslationBackend):
             "OUTPUT: ONLY the translated markdown content. No preamble, no commentary."
         )
 
-        env = {**os.environ, "TERM": "dumb", "GEMINI_CLI_TRUST_WORKSPACE": "true"}
+        # TERM=dumb 是舊版 CLI 的選擇；gemini-cli ≥0.41 對 dumb terminal 直接 exit 1
+        # （2026-07-18 出生戰役 health-check 病根），改給真實 TERM。
+        env = {**os.environ, "TERM": "xterm-256color", "GEMINI_CLI_TRUST_WORKSPACE": "true"}
         cmd = ["gemini", "--skip-trust", "--prompt", full_prompt]
         if self.CAPABILITIES.model and self.CAPABILITIES.model != "default":
             cmd.extend(["--model", self.CAPABILITIES.model])

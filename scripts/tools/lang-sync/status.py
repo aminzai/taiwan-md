@@ -36,7 +36,8 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
 STATUS_JSON = KNOWLEDGE / "_translation-status.json"
-LANG_DIRS = ["en", "ja", "ko", "es", "fr"]
+from langs import ALL_TRANSLATION_LANGS
+LANG_DIRS = ALL_TRANSLATION_LANGS  # SSOT: src/config/languages.mjs via langs.py (2026-07-18 出生戰役去硬編碼)
 
 
 # ---------- frontmatter parsing (no yaml dep, single-line scalar only) ----------

@@ -24,6 +24,12 @@ const FALLBACK_CHAIN: Record<string, readonly Lang[]> = {
   ja: ['ja', 'zh-TW'] as Lang[],
   ko: ['ko', 'zh-TW'] as Lang[],
   en: ['en', 'zh-TW'] as Lang[],
+  // 2026-07-18 出生：vi/id/hi 拉丁/天城文讀者缺 key 時英文比中文可讀；
+  // pt 讀者對 es 的可讀性高（姊妹語），多墊一層
+  vi: ['vi', 'en', 'zh-TW'] as Lang[],
+  id: ['id', 'en', 'zh-TW'] as Lang[],
+  pt: ['pt', 'es', 'en', 'zh-TW'] as Lang[],
+  hi: ['hi', 'en', 'zh-TW'] as Lang[],
   'zh-TW': ['zh-TW'] as Lang[],
 };
 

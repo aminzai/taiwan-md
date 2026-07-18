@@ -1,0 +1,80 @@
+#!/usr/bin/env python3
+"""cjk-residue-check.py — 非 CJK 語言譯文的漢字殘留檢查。
+
+2026-07-18 vi/id/pt/hi 出生戰役造：codex 把「封杀」譯成「phong杀」（漢越音 phong +
+未譯殘字 杀）穿過所有既有 gate。對拉丁/天城文語言，正文裡的 CJK 字元除了
+「括號內的人名/原文注記」（per-language 指南 §2 明文允許，如 `Thái Anh Văn (蔡英文)`）
+之外都是翻譯缺陷。
+
+用法：
+    python3 cjk-residue-check.py --lang vi            # 掃 knowledge/vi/ 全部
+    python3 cjk-residue-check.py --files a.md b.md
+Exit 1 = 有殘留（供 batch QA 當 gate）。
+"""
+
+from __future__ import annotations
+
+import argparse
+import re
+import sys
+from pathlib import Path
+
+REPO = Path(__file__).resolve().parents[3]
+
+CJK = re.compile(r"[一-鿿㐀-䶿]")
+# 括號注記（含全形括號）與 wikilink 內的 CJK 視為合法
+PAREN = re.compile(r"\([^)]*\)|（[^）]*）|\[\[[^\]]*\]\]")
+
+# 這些語言的正文不該有裸 CJK；ja/ko 混寫合法不在此清單
+TARGET_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi"}
+
+
+def check_file(path: Path):
+    text = path.read_text(encoding="utf-8")
+    m = re.match(r"^---\n.*?\n---\n", text, re.S)
+    body = text[m.end():] if m else text
+    offset = text[: m.end()].count("\n") if m else 0
+    hits = []
+    for i, line in enumerate(body.splitlines(), start=offset + 1):
+        stripped = PAREN.sub("", line)
+        found = CJK.findall(stripped)
+        if found:
+            hits.append((i, "".join(found)[:20], line.strip()[:80]))
+    return hits
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--lang")
+    ap.add_argument("--files", nargs="*")
+    args = ap.parse_args()
+
+    files = []
+    if args.files:
+        files = [Path(f) for f in args.files]
+    elif args.lang:
+        if args.lang not in TARGET_LANGS:
+            sys.exit(f"❌ {args.lang} 不在檢查對象（ja/ko 混寫合法）")
+        files = sorted((REPO / "knowledge" / args.lang).rglob("*.md"))
+    else:
+        ap.error("--lang or --files required")
+
+    total = 0
+    for f in files:
+        hits = check_file(f)
+        if hits:
+            total += len(hits)
+            rel = f.relative_to(REPO) if f.is_absolute() else f
+            print(f"⚠️  {rel}")
+            for line_no, chars, ctx in hits[:5]:
+                print(f"    L{line_no} [{chars}] {ctx}")
+            if len(hits) > 5:
+                print(f"    … 共 {len(hits)} 行")
+    if total:
+        print(f"\n❌ {total} 行裸 CJK 殘留（括號注記外）")
+        sys.exit(1)
+    print(f"✅ {len(files)} 檔無裸 CJK 殘留")
+
+
+if __name__ == "__main__":
+    main()

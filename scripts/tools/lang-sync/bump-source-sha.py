@@ -25,7 +25,8 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
-LANGS = ["en", "ja", "ko", "es", "fr"]
+from langs import ALL_TRANSLATION_LANGS
+LANGS = ALL_TRANSLATION_LANGS  # SSOT via langs.py (2026-07-18)
 
 
 def run_status_json() -> dict:

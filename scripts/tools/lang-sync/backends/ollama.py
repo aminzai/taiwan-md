@@ -90,6 +90,10 @@ class OllamaBackend(TranslationBackend):
                 {"role": "user", "content": user},
             ],
             "stream": False,
+            # qwen3.6 是 thinking 模型：不關 think 時 token 預算全燒在思考通道，
+            # message.content 回空（2026-07-18 出生戰役 health-check「empty/tiny
+            # output」的病根）。翻譯任務不需要 CoT，直接關。
+            "think": False,
             "options": {
                 "temperature": 0.3,
                 "num_predict": max_tokens,

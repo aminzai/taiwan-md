@@ -45,7 +45,8 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
-LANGS = ["en", "ja", "ko", "es", "fr"]
+from langs import ENABLED_TRANSLATION_LANGS
+LANGS = ENABLED_TRANSLATION_LANGS  # 站體層 audit 只看已啟用語言；SSOT via langs.py (2026-07-18)
 
 # Body lang detection regex
 LATIN_RE = re.compile(r"[a-zA-ZÀ-ſ]")

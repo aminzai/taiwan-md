@@ -34,6 +34,10 @@ LANG_NAMES = {
     "ko": "Korean (한국어 standard literary)",
     "es": "Spanish (Español neutral)",
     "fr": "French (Français neutral)",
+    "vi": "Vietnamese (Tiếng Việt, văn phong báo chí trang trọng; Sino-Vietnamese readings for Chinese personal names per TRANSLATION-vi.md)",
+    "id": "Indonesian (Bahasa Indonesia baku; Tiongkok/Tionghoa/Cina register rules per TRANSLATION-id.md)",
+    "pt": "Portuguese (Português brasileiro neutral, legible across the Lusophone world)",
+    "hi": "Hindi (हिन्दी, standard news register; Devanagari transliteration rules per TRANSLATION-hi.md)",
 }
 
 
