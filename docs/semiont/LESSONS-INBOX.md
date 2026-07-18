@@ -509,7 +509,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-07-18 embeddings-nightly push（[→memory](memory/2026-07-18-052228-twmd-embeddings-nightly.md)）。`.husky/pre-push` orphan gate `tf_out="$(python3 sync-translations-json.py --check ...)"`；`--check` 因平行寫手 session 的 untracked `knowledge/{en,ja}/Culture/shopping-design.md` 未進 `_translations.json`（out-of-sync，真 orphans=0）而 exit 1，`sh -e` 讓賦值非零直接 abort。hook 先印「✅ 全站 article-health 全綠」再靜默 exit 1，訊號跟結果對不上。判定非真阻斷（article-health 獨立驗 exit 0、真 orphans=0、untracked 檔不在 push 範圍→CI fresh clone 會綠），走文件化逃生閘門 `TWMD_SKIP_PREPUSH_SWEEP=1`（reflog 留痕、CI 仍把關）。
 - **可能層級**：操作規則 / 通用反射候選。低風險修法：orphan gate 命令替換改 `tf_out="$(cmd 2>&1 || true)"`，或先存 `rc=$?` 再只認 grep（讓「意圖只認 grep」在 `-e` 下也成立）。屬共用 correctness hook 改動（§自主權邊界），本 cron session flag 不逕改。
 - **相關**：REFLEXES #24「工具在說謊」（hook 印綠再靜默 abort = tool lying 的一種）/ #68 多核 git push 協調（本條是 pre-push 內一行的 `set -e` 脆弱性，#68 沒罩到）/ #5 pre-commit dogfood。
-- **verification_count**: 1
+- **第二例（2026-07-18 inbox-skill，同日 6.5 小時後鏡像方向復發）**：worktree push 被同一行 abort。這次 out-of-sync 方向相反：committed `_translations.json` **已含** shopping-design en/ja 兩 entry，但實體譯檔仍是主 wd 的 untracked WIP → worktree（＝committed tree）`--check` 回「Would remove (2)」exit 1。跟第一例合起來證明：只要「JSON 與譯檔不同 commit 原子性落地」，這行就雙向都會炸。真 orphans=0、article-health 全綠，照文件化逃生閘門走。**上游真問題**：某 session 把 JSON entry 先 commit、譯檔留 untracked——JSON 與譯檔應同 commit 原子落地。vc=2，修 hook 那行（`|| true` 或先存 rc）的 promotion 壓力升高。
+- **verification_count**: 2
 - **severity**: correctness（scope 乾淨的 routine push 被無關 out-of-sync 靜默擋；凡平行寫手留 untracked 新譯檔即復發；逃生閘門存在但每次都要人繞）
 
 ---
