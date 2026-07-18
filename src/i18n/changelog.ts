@@ -74,6 +74,106 @@ export const changelogUI = {
     'changelog.time.hours-ago': '시간 전',
     'changelog.time.days-ago': '일 전',
   },
+  vi: {
+    // Meta
+    'changelog.meta.title': 'Nhật ký cập nhật trang web',
+    'changelog.meta.description':
+      'Lịch sử cập nhật theo thời gian thực của Taiwan.md, theo dõi từng nội dung mới và cải tiến trang web.',
+
+    // Header
+    'changelog.header.title': 'Nhật ký cập nhật trang web',
+    'changelog.header.subtitle':
+      'Theo dõi từng nội dung mới và cải tiến trang web của Taiwan.md',
+    'changelog.header.meta.updates': 'bản ghi cập nhật',
+    'changelog.header.meta.synced': 'Tự động đồng bộ từ',
+
+    // Timeline
+    'changelog.day.updates': 'bản cập nhật',
+
+    // Locale for date formatting
+    'changelog.locale': 'vi-VN',
+
+    // Relative time
+    'changelog.time.just-now': 'Vừa xong',
+    'changelog.time.minutes-ago': 'phút trước',
+    'changelog.time.hours-ago': 'giờ trước',
+    'changelog.time.days-ago': 'ngày trước',
+  },
+  id: {
+    // Meta
+    'changelog.meta.title': 'Riwayat Pembaruan Situs',
+    'changelog.meta.description':
+      'Riwayat pembaruan langsung Taiwan.md yang melacak setiap penambahan konten dan penyempurnaan situs.',
+
+    // Header
+    'changelog.header.title': 'Riwayat Pembaruan Situs',
+    'changelog.header.subtitle':
+      'Lacak setiap penambahan konten dan penyempurnaan situs Taiwan.md',
+    'changelog.header.meta.updates': ' catatan pembaruan',
+    'changelog.header.meta.synced': 'Disinkronkan otomatis dari',
+
+    // Timeline
+    'changelog.day.updates': ' pembaruan',
+
+    // Locale for date formatting
+    'changelog.locale': 'id-ID',
+
+    // Relative time
+    'changelog.time.just-now': 'baru saja',
+    'changelog.time.minutes-ago': ' menit yang lalu',
+    'changelog.time.hours-ago': ' jam yang lalu',
+    'changelog.time.days-ago': ' hari yang lalu',
+  },
+  pt: {
+    // Meta
+    'changelog.meta.title': 'Registro de atualizações do site',
+    'changelog.meta.description':
+      'Histórico de atualizações em tempo real do Taiwan.md, acompanhando cada novo conteúdo e melhoria do site.',
+
+    // Header
+    'changelog.header.title': 'Registro de atualizações do site',
+    'changelog.header.subtitle':
+      'Acompanhe cada novo conteúdo e melhoria do Taiwan.md',
+    'changelog.header.meta.updates': 'atualizações',
+    'changelog.header.meta.synced': 'Sincronizado automaticamente de',
+
+    // Timeline
+    'changelog.day.updates': 'atualizações',
+
+    // Locale for date formatting
+    'changelog.locale': 'pt-BR',
+
+    // Relative time
+    'changelog.time.just-now': 'Agora mesmo',
+    'changelog.time.minutes-ago': 'minutos atrás',
+    'changelog.time.hours-ago': 'horas atrás',
+    'changelog.time.days-ago': 'dias atrás',
+  },
+  hi: {
+    // Meta
+    'changelog.meta.title': 'वेबसाइट अपडेट रिकॉर्ड',
+    'changelog.meta.description':
+      'Taiwan.md का रीयल-टाइम अपडेट इतिहास, जिसमें हर नई सामग्री और वेबसाइट सुधार दर्ज है।',
+
+    // Header
+    'changelog.header.title': 'वेबसाइट अपडेट रिकॉर्ड',
+    'changelog.header.subtitle':
+      'Taiwan.md पर जोड़ी गई हर नई सामग्री और वेबसाइट सुधार पर नज़र रखें',
+    'changelog.header.meta.updates': ' अपडेट रिकॉर्ड',
+    'changelog.header.meta.synced': 'से स्वतः सिंक',
+
+    // Timeline
+    'changelog.day.updates': ' अपडेट',
+
+    // Locale for date formatting
+    'changelog.locale': 'hi-IN',
+
+    // Relative time
+    'changelog.time.just-now': 'अभी-अभी',
+    'changelog.time.minutes-ago': ' मिनट पहले',
+    'changelog.time.hours-ago': ' घंटे पहले',
+    'changelog.time.days-ago': ' दिन पहले',
+  },
   'zh-TW': {
     // Meta
     'changelog.meta.title': '網站更新紀錄',

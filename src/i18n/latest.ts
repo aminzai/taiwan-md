@@ -105,6 +105,91 @@ export const latestUI = {
     'latest.dayCount': 'articles',
     'latest.today': 'Aujourd’hui',
   },
+  vi: {
+    'nav.latest': 'Bài viết mới nhất',
+    'latest.meta.title': 'Bài viết mới nhất',
+    'latest.meta.description':
+      'Các bài viết mới hoàn thành của AI và cộng tác viên, được sắp xếp theo thời gian hoàn thành.',
+    'latest.eyebrow': 'Khám phá theo trình tự thời gian',
+    'latest.title': 'Bài viết mới nhất',
+    'latest.subtitle':
+      'Các bài viết mới hoàn thành của AI và cộng tác viên, được sắp xếp theo thời gian hoàn thành.',
+    'latest.filterAll': 'Tất cả',
+    'latest.empty': 'Hiện chưa có dữ liệu.',
+    'latest.changelogCta':
+      'Muốn xem toàn bộ hoạt động cập nhật của AI (biên dịch, sửa lỗi, cải tiến)? → Nhật ký cập nhật',
+    'latest.railHeading': 'Mới nhất trên trang',
+    'latest.railViewAll': 'Xem tất cả bài viết mới nhất',
+    'latest.exploreSub': 'Các bài viết mới hoàn thành của AI và cộng tác viên',
+    'latest.exploreSeeAll': 'Xem tất cả →',
+    'latest.minRead': 'phút',
+    'latest.dayCount': 'bài',
+    'latest.today': 'Hôm nay',
+  },
+  id: {
+    'nav.latest': 'Artikel terbaru',
+    'latest.meta.title': 'Artikel terbaru',
+    'latest.meta.description':
+      'Artikel terbaru dari AI dan kontributor, diurutkan berdasarkan waktu penyelesaian.',
+    'latest.eyebrow': 'Jelajahi kronologi',
+    'latest.title': 'Artikel terbaru',
+    'latest.subtitle':
+      'Artikel terbaru dari AI dan kontributor, diurutkan berdasarkan waktu penyelesaian.',
+    'latest.filterAll': 'Semua',
+    'latest.empty': 'Belum ada data saat ini.',
+    'latest.changelogCta':
+      'Ingin melihat seluruh aktivitas pembaruan AI (penerjemahan, perbaikan, evolusi)? → Log pembaruan',
+    'latest.railHeading': 'Terbaru di situs',
+    'latest.railViewAll': 'Lihat semua artikel terbaru',
+    'latest.exploreSub': 'Artikel terbaru dari AI dan kontributor',
+    'latest.exploreSeeAll': 'Lihat semua →',
+    'latest.minRead': 'menit',
+    'latest.dayCount': 'artikel',
+    'latest.today': 'Hari ini',
+  },
+  pt: {
+    'nav.latest': 'Artigos mais recentes',
+    'latest.meta.title': 'Artigos mais recentes',
+    'latest.meta.description':
+      'Conteúdos recém-produzidos pela IA e pelos colaboradores, ordenados pela data de conclusão.',
+    'latest.eyebrow': 'Exploração cronológica',
+    'latest.title': 'Artigos mais recentes',
+    'latest.subtitle':
+      'Conteúdos recém-produzidos pela IA e pelos colaboradores, ordenados pela data de conclusão.',
+    'latest.filterAll': 'Todos',
+    'latest.empty': 'Ainda não há dados.',
+    'latest.changelogCta':
+      'Quer ver todas as atividades de atualização da IA (traduções, correções e evolução)? → Registro de alterações',
+    'latest.railHeading': 'Mais recentes no site',
+    'latest.railViewAll': 'Ver todos os artigos mais recentes',
+    'latest.exploreSub':
+      'Conteúdos recém-produzidos pela IA e pelos colaboradores',
+    'latest.exploreSeeAll': 'Ver tudo →',
+    'latest.minRead': 'min',
+    'latest.dayCount': 'artigos',
+    'latest.today': 'Hoje',
+  },
+  hi: {
+    'nav.latest': 'नवीनतम लेख',
+    'latest.meta.title': 'नवीनतम लेख',
+    'latest.meta.description':
+      'AI और योगदानकर्ताओं द्वारा हाल में तैयार किए गए लेख, पूर्ण होने के समय के क्रम में।',
+    'latest.eyebrow': 'कालक्रमिक अन्वेषण',
+    'latest.title': 'नवीनतम लेख',
+    'latest.subtitle':
+      'AI और योगदानकर्ताओं द्वारा हाल में तैयार किए गए लेख, पूर्ण होने के समय के क्रम में।',
+    'latest.filterAll': 'सभी',
+    'latest.empty': 'फ़िलहाल कोई डेटा उपलब्ध नहीं है।',
+    'latest.changelogCta':
+      'AI की सभी अपडेट गतिविधियाँ (अनुवाद, सुधार, उन्नयन) देखना चाहते हैं? → बदलाव लॉग',
+    'latest.railHeading': 'साइट पर नवीनतम',
+    'latest.railViewAll': 'सभी नवीनतम लेख देखें',
+    'latest.exploreSub': 'AI और योगदानकर्ताओं द्वारा हाल में तैयार किए गए',
+    'latest.exploreSeeAll': 'सभी देखें →',
+    'latest.minRead': 'मिनट',
+    'latest.dayCount': 'लेख',
+    'latest.today': 'आज',
+  },
   'zh-TW': {
     'nav.latest': '最新文章',
     'latest.meta.title': '最新文章',

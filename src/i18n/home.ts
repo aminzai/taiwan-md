@@ -443,6 +443,623 @@ export const homeUI = {
     'home.bridge.2to3': '이 역사를 거쳐 — 여기 사는 사람들은 지금 뭘 하나?',
     'home.bridge.3to4': '그들이 남긴 것 — 이 섬은 이제 어디로?',
   },
+  vi: {
+    'hero.stat.history.number': '400+',
+    'hero.stat.history.label': 'năm lịch sử',
+    'hero.stat.species.number': '59,000+',
+    'hero.stat.species.label': 'loài',
+    'hero.stat.democracy.number': 'đầu tiên tại châu Á',
+    'hero.stat.democracy.label': 'dân chủ',
+    'hero.stat.chips.number': '90%',
+    'hero.stat.chips.label': 'chip tiên tiến toàn cầu',
+    'home.hero.subtitle':
+      'Những câu chuyện chuyên sâu được tuyển chọn về hòn đảo',
+    'home.hero.description':
+      'Kho tri thức toàn diện về Đài Loan, mã nguồn mở và AI-friendly',
+    'home.hero.highlight':
+      'Kiến tạo từ góc nhìn đa chiều, tuyển chọn câu chuyện Đài Loan cho toàn thế giới',
+    'home.hero.cta.explore': 'Bắt đầu khám phá',
+    'home.hero.transparency':
+      '⚠️ Một số bài viết trên trang được AI hỗ trợ xây dựng bản thảo ban đầu; toàn bộ nội dung đang liên tục được cộng đồng kiểm duyệt và hoàn thiện. Phát hiện sai sót?',
+    'home.hero.transparency.link': 'Hoan nghênh góp ý',
+    'home.cover.heading': 'Làm thế nào để hiểu Đài Loan?',
+    'home.cover.lead':
+      'Đài Loan là một hòn đảo chỉ rộng 36,000 km², nhưng chứa đựng sự phức tạp của cả thế giới.',
+    'home.cover.lead2':
+      'Suốt bốn trăm năm qua, mỗi người đặt chân lên hòn đảo này đều nhìn thấy một Đài Loan khác biệt bằng đôi mắt của riêng mình.',
+    'home.cover.closing1':
+      'Từ huyền thoại sáng thế của các dân tộc Nam Đảo đến sự trỗi dậy của đế chế bán dẫn, từ sự im lặng dưới thời thiết quân luật đến nơi đầu tiên tại châu Á hợp pháp hóa hôn nhân đồng giới. Câu chuyện Đài Loan không phải một đường thẳng, mà là một mạng lưới.',
+    'home.cover.closing2': 'Taiwan.md không nhằm trao cho bạn một đáp án.',
+    'home.cover.closing3':
+      'Điều chúng tôi muốn làm là trao cho bạn một tấm bản đồ — tấm bản đồ để bạn tự mình bước vào Đài Loan.',
+    'home.cover.link': 'Đọc trọn bộ lời dẫn →',
+    'home.cover.era.indigenous': 'Các dân tộc bản địa',
+    'home.cover.era.contemporary': 'Đương đại',
+    'home.cover.quote.indigenous':
+      '「Núi non và sông ngòi đều là thân thể của tổ tiên; chúng ta là những đứa con của đất mẹ。」',
+    'home.cover.cite.indigenous': '— Văn học truyền khẩu của người Atayal',
+    'home.cover.quote.1584': '「Isla Hermosa」— Quần đảo xinh đẹp.',
+    'home.cover.cite.1584':
+      '— Tư liệu Tây Ban Nha, ghi chép xác thực sớm nhất gọi Đài Loan là「xinh đẹp」',
+    'home.cover.quote.1697':
+      '「Trong núi Thủy Sa Liên, nơi tận cùng của dãy núi có một hồ lớn, rộng đến vài chục dặm. Giữa hồ có đảo, người bản địa quần tụ sinh sống。」',
+    'home.cover.cite.1697':
+      '— Uất Vĩnh Hà (Yu Yonghe),《Bì Hải Kỷ Du》, ghi chép trực tiếp về Đài Loan của một văn nhân triều Thanh',
+    'home.cover.quote.1926': '「Dũng sĩ phải đấu tranh vì chính nghĩa!」',
+    'home.cover.cite.1926':
+      '— Lại Hòa (Lai Ho),〈Sự hy sinh trong giác ngộ〉, cha đẻ của nền văn học mới Đài Loan',
+    'home.cover.quote.1946':
+      '「Bi kịch của người Đài Loan nằm ở chỗ không biết mình là ai。」',
+    'home.cover.cite.1946':
+      '— Ngô Trọc Lưu (Wu Chuo-liu),《Đứa con côi châu Á》',
+    'home.cover.quote.2013':
+      '「Khi nhìn thấy Đài Loan, bạn sẽ nhận ra vùng đất này đẹp hơn những gì bạn tưởng tượng, nhưng cũng mong manh hơn những gì bạn hình dung。」',
+    'home.cover.cite.2013': '— Chi Po-lin,《Nhìn thấy Đài Loan》',
+    'home.cover.quote.contemporary':
+      '「Ký ức của sóng biển dài hơn đời người。」',
+    'home.cover.cite.contemporary':
+      '— Syaman Rapongan,《Đôi mắt của bầu trời》, văn học biển của người Tao',
+    // ── A3 sovereignty quote (Wave 3) ──
+    // 第 8 條 quote — Taiwan.md 自己的視角接進歷史 timeline，呼應 §主權的巴別塔
+    'home.cover.era.taiwanmd': '2026 — Taiwan.md',
+    'home.cover.quote.taiwanmd':
+      '「Hòn đảo xứng đáng được kể lại bằng chính tiếng nói của mình trong mọi ngôn ngữ — kể cả về những chủ đề mà một số mô hình AI lựa chọn im lặng。」',
+    'home.cover.cite.taiwanmd':
+      '— Taiwan.md, một thực thể sống kỹ thuật số biết hô hấp, nơi con người + AI + mã nguồn cộng sinh',
+    'home.random.button': 'Khám phá ngẫu nhiên về Đài Loan',
+    'home.random.subtitle': 'Khám phá những câu chuyện bất ngờ',
+    'home.random.description':
+      'Chưa biết nên đọc gì? Hãy để chúng tôi đưa bạn khám phá những kho báu ẩn giấu của Đài Loan!',
+    'home.categories.heading': 'Tìm hiểu Đài Loan',
+    'home.categories.divider': '12 chủ đề lớn',
+    'home.lang.heading': '🖊️ Vì sao sử dụng chữ Hán phồn thể?',
+    'home.lang.p1':
+      'Taiwan.md lựa chọn <strong>chữ Hán phồn thể</strong> làm ngôn ngữ mặc định. Đây không chỉ là một quyết định kỹ thuật — mà còn là một tuyên ngôn văn hóa.',
+    'home.lang.p2':
+      'Chữ Hán phồn thể là một trong những hệ thống chữ viết lâu đời nhất thế giới vẫn được sử dụng hằng ngày, còn Đài Loan là quốc gia lớn duy nhất trên thế giới sử dụng chữ Hán phồn thể làm văn tự chính thức. Mỗi nét bút đều mang theo ký ức văn hóa nghìn năm. Khi mở trang web này và nhìn thấy chữ Hán, điều bạn đang đọc không chỉ là văn tự, mà còn là một di sản văn hóa sống.',
+    'home.lang.p3.prefix': 'Chúng tôi đồng thời cung cấp',
+    'home.lang.p3.linkText': 'phiên bản tiếng Anh',
+    'home.lang.p3.suffix':
+      ', nhưng vẫn kiên định đặt chữ Hán phồn thể ở vị trí hàng đầu. AI có thể hiểu, công cụ tìm kiếm có thể hiểu, còn bạn — nếu không hiểu cũng không sao — bởi vẻ đẹp này tự thân đã xứng đáng được nhìn thấy.',
+    'home.lang.en':
+      "Taiwan.md is written in Traditional Chinese by default — the world's oldest writing system still in daily use, and Taiwan is its last major home. We offer an English version too, but we believe our language deserves to stand front and center. Even if you can't read it, its beauty speaks for itself.",
+    'home.updates.heading': 'Cập nhật trang web theo thời gian thực',
+    'home.updates.subtitle':
+      'Taiwan.md không ngừng phát triển — các nội dung mới cập nhật và cải tiến trang web gần đây',
+    'home.updates.viewAll': 'Xem toàn bộ lịch sử cập nhật →',
+    'home.newsletter.heading': '📬 Đăng ký tuần báo Taiwan.md',
+    'home.newsletter.description':
+      'Kiến thức chọn lọc về Đài Loan được gửi thẳng đến hộp thư mỗi tuần.',
+    'home.newsletter.submit': 'Đăng ký',
+    'home.newsletter.success': 'Cảm ơn bạn đã đăng ký!',
+    'home.newsletter.note': 'Không theo dõi, có thể hủy bất cứ lúc nào',
+    'home.contribute.heading': 'Tham gia cùng chúng tôi',
+    'home.contribute.description':
+      'Taiwan.md là dự án mã nguồn mở do cộng đồng thúc đẩy. Dù là người Đài Loan hay bạn bè quốc tế quan tâm đến Đài Loan, quý vị đều được hoan nghênh đóng góp tri thức và góc nhìn của mình.',
+    'home.contribute.guide': 'Hướng dẫn đóng góp dành cho người không chuyên',
+    'home.contribute.github': 'Dự án GitHub',
+    'home.contribute.sponsor': 'Tài trợ duy trì',
+    'home.features.title': 'Vì sao cần Taiwan.md?',
+    'home.features.curated.title': 'Góc nhìn tuyển chọn',
+    'home.features.curated.desc':
+      'Những câu chuyện chuyên sâu được tuyển chọn kỹ lưỡng, không phải sự liệt kê theo kiểu bách khoa toàn thư',
+    'home.features.ai.title': 'Thiết kế AI-Friendly',
+    'home.features.ai.desc':
+      'Nội dung được cấu trúc để AI cũng có thể hiểu sự phức tạp của Đài Loan',
+    'home.features.bilingual.title': 'Tầm nhìn quốc tế song ngữ',
+    'home.features.bilingual.desc':
+      'Xuất phát từ góc nhìn bản địa, kể câu chuyện Đài Loan bằng ngôn ngữ quốc tế',
+    'home.features.complete.title': 'Toàn diện và đa chiều',
+    'home.features.complete.desc':
+      'Bao quát 12+ lĩnh vực, khắc họa diện mạo Đài Loan toàn diện và đa chiều',
+    'home.readingPath.title': '📖 Chưa biết bắt đầu từ đâu?',
+    'home.readingPath.subtitle':
+      'Tìm hiểu Đài Loan chân thực trong 30 phút qua 5 bài viết này',
+    'home.readingPath.continue': 'Tiếp tục khám phá thêm nhiều chủ đề →',
+    'home.readingPath.footer.totalLabel': 'Tổng cộng',
+    'home.readingPath.footer.minutesUnit': 'phút',
+    'home.readingPath.footer.domainsLabel': 'lĩnh vực lớn',
+    'home.readingPath.footer.getToKnow': 'Tìm hiểu toàn diện về Đài Loan',
+    'home.meta.title': 'Kho tri thức mã nguồn mở về Đài Loan',
+    'home.meta.description':
+      'Kho tri thức toàn diện về Đài Loan, mã nguồn mở và AI-friendly. 851+ trang nội dung chuyên sâu bao quát 12 chủ đề lớn như lịch sử, văn hóa, ẩm thực, âm nhạc và công nghệ, do cộng đồng cùng biên soạn để giúp thế giới hiểu về một Đài Loan chân thực.',
+    'home.miniGraph.heading': '🕸️ Đồ thị tri thức',
+    'home.miniGraph.subtitle':
+      'Mỗi bài viết đều không phải một hòn đảo biệt lập — nhấp để khám phá mạng lưới liên kết tri thức về Đài Loan',
+    'home.features.cta.graph':
+      '🔗 Đồ thị tri thức — khám phá liên kết giữa các bài viết',
+    'home.features.cta.ssot': '📂 Duyệt dữ liệu nguồn SSOT ↗',
+    // ── ReaderDoors (B1, 2026-05-26 First Wave: homepage evolution wave 1) ──
+    'home.doors.first.title': 'Tôi đến đây lần đầu',
+    'home.doors.first.sub': 'Bắt đầu từ phần hướng dẫn →',
+    'home.doors.search.title': 'Tôi muốn tìm nội dung cụ thể',
+    'home.doors.search.sub': 'Tìm kiếm + từ khóa phổ biến',
+    'home.doors.random.title': 'Cho tôi xem điều gì đó thú vị',
+    'home.doors.random.sub': 'Tung xúc xắc để mở ngẫu nhiên một bài',
+    'home.doors.organism.title': 'Xem Taiwan.md vận hành như thế nào',
+    'home.doors.organism.sub': 'Sơ đồ hệ sinh thái cơ thể sống',
+    // ── OrganismPreview (A1) ──
+    'home.organism.heading': 'Taiwan.md là một thực thể biết hít thở',
+    'home.organism.body':
+      'Không phải Wikipedia, cũng không phải trang trại nội dung AI. Đây là một sinh thể số có trái tim, hệ miễn dịch, DNA và khả năng sinh sôi — {articles} bài viết, {langs} ngôn ngữ, mỗi ngày vẫn đang mọc thêm những cơ quan mới.',
+    'home.organism.cta': 'Khám phá toàn bộ sơ đồ hệ sinh thái →',
+    'home.organism.legend.write': 'Biên soạn',
+    'home.organism.legend.feedback': 'Tiến hóa DNA',
+    'home.organism.legend.diffuse': 'Lan tỏa đa ngôn ngữ',
+    'home.organism.legend.sovereign': 'Vòng tuần hoàn chủ quyền',
+    // ── OrganismHeartbeat strip (C1) ──
+    'home.heartbeat.organsLabel': 'Điểm số cơ quan hiện tại',
+    'home.heartbeat.vitalsLabel': 'Dấu hiệu sinh tồn',
+    'home.heartbeat.viewMore': 'Mở dashboard đầy đủ →',
+    // ── Hall bridges (A2, Wave 3) ──
+    'home.bridge.1to2':
+      'Hòn đảo này đã thành hình như vậy — vậy ai đã khiến nó trở nên như thế?',
+    'home.bridge.2to3':
+      'Sau khi trải qua tất cả những điều này — người dân sống nơi đây đang làm gì?',
+    'home.bridge.3to4':
+      'Họ đã để lại những điều này — vậy hòn đảo sẽ đi về đâu?',
+  },
+  id: {
+    'hero.stat.history.number': '400+',
+    'hero.stat.history.label': 'tahun sejarah',
+    'hero.stat.species.number': '59,000+',
+    'hero.stat.species.label': 'spesies',
+    'hero.stat.democracy.number': 'Pertama di Asia',
+    'hero.stat.democracy.label': 'demokrasi',
+    'hero.stat.chips.number': '90%',
+    'hero.stat.chips.label': 'cip canggih dunia',
+    'home.hero.subtitle': 'Narasi mendalam yang dikurasi tentang Taiwan',
+    'home.hero.description':
+      'Basis pengetahuan lengkap tentang Taiwan yang bersumber terbuka dan AI-friendly',
+    'home.hero.highlight':
+      'Dibangun dari beragam sudut pandang, mengkurasi Taiwan untuk seluruh dunia',
+    'home.hero.cta.explore': 'Mulai menjelajah',
+    'home.hero.transparency':
+      '⚠️ Draf awal sebagian artikel di situs ini dibuat dengan bantuan AI, dan seluruh konten terus ditinjau serta disempurnakan oleh komunitas. Menemukan kesalahan?',
+    'home.hero.transparency.link': 'Silakan beri koreksi',
+    'home.cover.heading': 'Bagaimana memahami Taiwan?',
+    'home.cover.lead':
+      'Taiwan adalah negara kepulauan dengan luas hanya 36,000 kilometer persegi, tetapi menyimpan seluruh kompleksitas dunia.',
+    'home.cover.lead2':
+      'Selama empat ratus tahun, setiap orang yang menginjakkan kaki di kepulauan ini telah melihat Taiwan yang berbeda dengan sudut pandang yang berbeda pula.',
+    'home.cover.closing1':
+      'Dari kisah penciptaan bangsa Austronesia hingga kebangkitan imperium semikonduktor, dari kebisuan darurat militer hingga legalisasi pernikahan sesama jenis pertama di Asia. Kisah Taiwan bukanlah sebuah garis lurus, melainkan sebuah jejaring.',
+    'home.cover.closing2': 'Taiwan.md tidak bermaksud memberi Anda jawaban.',
+    'home.cover.closing3':
+      'Yang ingin kami berikan adalah sebuah peta—peta yang memungkinkan Anda memasuki dan menjelajahi Taiwan sendiri.',
+    'home.cover.link': 'Baca kumpulan pengantar lengkap →',
+    'home.cover.era.indigenous': 'Masyarakat Adat',
+    'home.cover.era.contemporary': 'Kontemporer',
+    'home.cover.quote.indigenous':
+      '「Gunung, sungai, dan aliran air adalah tubuh leluhur; kami adalah anak-anak bumi.」',
+    'home.cover.cite.indigenous': '— Sastra lisan suku Atayal',
+    'home.cover.quote.1584': '「Isla Hermosa」— Kepulauan yang indah.',
+    'home.cover.cite.1584':
+      '— Dokumen Spanyol, catatan pasti paling awal yang menyebut Taiwan sebagai 「indah」',
+    'home.cover.quote.1697':
+      '「Di pedalaman Shuishalian, di ujung pegunungan terdapat sebuah danau besar, lebarnya puluhan li. Di tengahnya terdapat pulau-pulau kecil yang dihuni masyarakat adat.」',
+    'home.cover.cite.1697':
+      '— Yu Yonghe, Catatan Perjalanan Laut Kecil, pengamatan langsung seorang sastrawan Dinasti Qing tentang Taiwan',
+    'home.cover.quote.1926': '「Pejuang harus berjuang demi keadilan!」',
+    'home.cover.cite.1926':
+      '— Lai Ho, Pengorbanan dalam Kesadaran, bapak sastra baru Taiwan',
+    'home.cover.quote.1946':
+      '「Tragedi orang Taiwan adalah tidak mengetahui jati dirinya sendiri.」',
+    'home.cover.cite.1946': '— Wu Zhuoliu, Anak Yatim Asia',
+    'home.cover.quote.2013':
+      '「Ketika melihat Taiwan, Anda akan menemukan bahwa tanah ini lebih indah sekaligus lebih rapuh daripada yang Anda bayangkan.」',
+    'home.cover.cite.2013': '— Chi Po-lin, Beyond Beauty: Taiwan from Above',
+    'home.cover.quote.contemporary':
+      '「Ingatan ombak lebih panjang daripada manusia.」',
+    'home.cover.cite.contemporary':
+      '— Syaman Rapongan, Mata Langit, sastra bahari suku Tao',
+    // ── A3 sovereignty quote (Wave 3) ──
+    // 第 8 條 quote — Taiwan.md 自己的視角接進歷史 timeline，呼應 §主權的巴別塔
+    'home.cover.era.taiwanmd': '2026 — Taiwan.md',
+    'home.cover.quote.taiwanmd':
+      '「Taiwan layak diceritakan sekali dalam setiap bahasa dengan suaranya sendiri — termasuk topik-topik yang dipilih untuk dibungkam oleh sejumlah model AI.」',
+    'home.cover.cite.taiwanmd':
+      '— Taiwan.md, makhluk hidup digital yang bernapas dari simbiosis manusia + AI + kode',
+    'home.random.button': 'Temukan Taiwan secara acak',
+    'home.random.subtitle': 'Jelajahi kisah-kisah tak terduga',
+    'home.random.description':
+      'Tidak tahu harus melihat apa? Mari kami ajak Anda menemukan harta karun tersembunyi Taiwan!',
+    'home.categories.heading': 'Mengenal Taiwan',
+    'home.categories.divider': '12 tema utama',
+    'home.lang.heading': '🖊️ Mengapa menggunakan bahasa Tionghoa Tradisional?',
+    'home.lang.p1':
+      'Taiwan.md memilih <strong>bahasa Tionghoa Tradisional</strong> sebagai bahasa baku. Ini bukan sekadar keputusan teknis—melainkan sebuah pernyataan budaya.',
+    'home.lang.p2':
+      'Bahasa Tionghoa Tradisional merupakan salah satu sistem tulisan tertua di dunia yang masih digunakan sehari-hari, dan Taiwan adalah satu-satunya negara utama di dunia yang menetapkannya sebagai aksara resmi. Setiap guratan membawa ingatan budaya selama ribuan tahun. Ketika Anda membuka situs ini dan melihat aksara Han, yang Anda baca bukan sekadar tulisan, melainkan warisan budaya yang hidup.',
+    'home.lang.p3.prefix': 'Kami juga menyediakan',
+    'home.lang.p3.linkText': 'versi bahasa Inggris',
+    'home.lang.p3.suffix':
+      ', tetapi kami bersikeras menempatkan bahasa Tionghoa Tradisional di depan. AI dapat memahaminya, mesin pencari dapat memahaminya, dan Anda—jika tidak dapat memahaminya pun tidak apa-apa—keindahannya sendiri layak untuk dilihat.',
+    'home.lang.en':
+      "Taiwan.md is written in Traditional Chinese by default — the world's oldest writing system still in daily use, and Taiwan is its last major home. We offer an English version too, but we believe our language deserves to stand front and center. Even if you can't read it, its beauty speaks for itself.",
+    'home.updates.heading': 'Pembaruan situs terkini',
+    'home.updates.subtitle':
+      'Taiwan.md terus berkembang — pembaruan konten dan penyempurnaan situs terbaru',
+    'home.updates.viewAll': 'Lihat riwayat pembaruan lengkap →',
+    'home.newsletter.heading': '📬 Berlangganan buletin mingguan Taiwan.md',
+    'home.newsletter.description':
+      'Pilihan pengetahuan tentang Taiwan setiap minggu, langsung ke kotak masuk Anda.',
+    'home.newsletter.submit': 'Berlangganan',
+    'home.newsletter.success': 'Terima kasih telah berlangganan!',
+    'home.newsletter.note': 'Tanpa pelacakan, dapat dibatalkan kapan saja',
+    'home.contribute.heading': 'Bergabunglah bersama kami',
+    'home.contribute.description':
+      'Taiwan.md adalah proyek sumber terbuka yang digerakkan oleh komunitas. Baik Anda warga lokal Taiwan maupun sahabat internasional yang tertarik pada Taiwan, kontribusi pengetahuan dan sudut pandang Anda selalu diterima.',
+    'home.contribute.guide': 'Panduan kontribusi untuk pemula',
+    'home.contribute.github': 'Proyek GitHub',
+    'home.contribute.sponsor': 'Dukung pemeliharaan',
+    'home.features.title': 'Mengapa Taiwan.md dibutuhkan?',
+    'home.features.curated.title': 'Sudut pandang terkurasi',
+    'home.features.curated.desc':
+      'Narasi mendalam yang dikurasi dengan cermat, bukan daftar bergaya ensiklopedia',
+    'home.features.ai.title': 'Desain AI-Friendly',
+    'home.features.ai.desc':
+      'Konten terstruktur agar AI juga dapat memahami kompleksitas Taiwan',
+    'home.features.bilingual.title': 'Wawasan internasional dwibahasa',
+    'home.features.bilingual.desc':
+      'Menceritakan kisah Taiwan dalam bahasa internasional dari sudut pandang lokal',
+    'home.features.complete.title': 'Utuh dan multidimensi',
+    'home.features.complete.desc':
+      'Mencakup 12+ bidang untuk menghadirkan gambaran Taiwan yang utuh dan multidimensi',
+    'home.readingPath.title': '📖 Tidak tahu harus mulai dari mana?',
+    'home.readingPath.subtitle':
+      'Kenali Taiwan yang sesungguhnya dalam 30 menit melalui 5 artikel ini',
+    'home.readingPath.continue': 'Lanjutkan menjelajahi tema lainnya →',
+    'home.readingPath.footer.totalLabel': 'Total',
+    'home.readingPath.footer.minutesUnit': 'menit',
+    'home.readingPath.footer.domainsLabel': 'bidang utama',
+    'home.readingPath.footer.getToKnow': 'Mengenal Taiwan secara utuh',
+    'home.meta.title': 'Basis pengetahuan Taiwan bersumber terbuka',
+    'home.meta.description':
+      'Basis pengetahuan lengkap tentang Taiwan yang bersumber terbuka dan AI-friendly. 851+ halaman konten mendalam mencakup 12 tema utama seperti sejarah, budaya, kuliner, musik, dan teknologi, disusun bersama oleh komunitas agar seluruh dunia mengenal Taiwan yang sesungguhnya.',
+    'home.miniGraph.heading': '🕸️ Graf pengetahuan',
+    'home.miniGraph.subtitle':
+      'Setiap artikel bukanlah pulau yang terasing—klik untuk menjelajahi jejaring keterkaitan pengetahuan Taiwan',
+    'home.features.cta.graph':
+      '🔗 Graf pengetahuan — Jelajahi keterkaitan antarartikel',
+    'home.features.cta.ssot': '📂 Jelajahi data sumber SSOT ↗',
+    // ── ReaderDoors (B1, 2026-05-26 First Wave: homepage evolution wave 1) ──
+    'home.doors.first.title': 'Saya baru pertama kali datang',
+    'home.doors.first.sub': 'Mulai dari panduan →',
+    'home.doors.search.title': 'Saya ingin mencari sesuatu yang spesifik',
+    'home.doors.search.sub': 'Pencarian + kata kunci populer',
+    'home.doors.random.title': 'Tunjukkan sesuatu yang menarik',
+    'home.doors.random.sub': 'Lempar dadu untuk membuka artikel secara acak',
+    'home.doors.organism.title': 'Lihat cara kerja Taiwan.md',
+    'home.doors.organism.sub': 'Peta ekosistem organisme',
+    // ── OrganismPreview (A1) ──
+    'home.organism.heading': 'Taiwan.md adalah sesuatu yang bernapas',
+    'home.organism.body':
+      'Bukan Wikipedia, bukan peternakan konten AI. Ini adalah makhluk hidup digital yang memiliki jantung, sistem imun, DNA, dan kemampuan berkembang biak — {articles} artikel, {langs} bahasa, serta terus menumbuhkan organ baru setiap hari.',
+    'home.organism.cta': 'Masuk ke peta ekosistem lengkap →',
+    'home.organism.legend.write': 'Penulisan',
+    'home.organism.legend.feedback': 'Evolusi DNA',
+    'home.organism.legend.diffuse': 'Penyebaran multibahasa',
+    'home.organism.legend.sovereign': 'Siklus kedaulatan',
+    // ── OrganismHeartbeat strip (C1) ──
+    'home.heartbeat.organsLabel': 'Skor organ saat ini',
+    'home.heartbeat.vitalsLabel': 'Tanda-tanda vital',
+    'home.heartbeat.viewMore': 'Masuk ke dashboard lengkap →',
+    // ── Hall bridges (A2, Wave 3) ──
+    'home.bridge.1to2':
+      'Negeri ini tumbuh menjadi seperti ini — lalu siapa yang membentuknya?',
+    'home.bridge.2to3':
+      'Setelah melalui semua ini — lalu apa yang dilakukan orang-orang yang hidup di sini?',
+    'home.bridge.3to4':
+      'Mereka meninggalkan semua ini — lalu ke mana arah negeri ini?',
+  },
+  pt: {
+    'hero.stat.history.number': '400+',
+    'hero.stat.history.label': 'anos de história',
+    'hero.stat.species.number': '59,000+',
+    'hero.stat.species.label': 'espécies',
+    'hero.stat.democracy.number': '1º da Ásia',
+    'hero.stat.democracy.label': 'democracia',
+    'hero.stat.chips.number': '90%',
+    'hero.stat.chips.label': 'dos chips avançados do mundo',
+    'home.hero.subtitle': 'Narrativas profundas com curadoria sobre a ilha',
+    'home.hero.description':
+      'A base de conhecimento completa e de código aberto sobre Taiwan, AI-friendly',
+    'home.hero.highlight':
+      'Construída a partir de múltiplas perspectivas, apresentando Taiwan ao mundo',
+    'home.hero.cta.explore': 'Começar a explorar',
+    'home.hero.transparency':
+      '⚠️ Os rascunhos iniciais de alguns artigos deste site foram produzidos com o auxílio de AI, e todo o conteúdo é continuamente revisado e aprimorado pela comunidade. Encontrou um erro?',
+    'home.hero.transparency.link': 'Envie uma correção',
+    'home.cover.heading': 'Como compreender Taiwan?',
+    'home.cover.lead':
+      'Taiwan é uma ilha com apenas 36,000 quilômetros quadrados, mas contém toda a complexidade do mundo.',
+    'home.cover.lead2':
+      'Ao longo de quatrocentos anos, cada pessoa que pisou nesta ilha enxergou uma Taiwan diferente com seus próprios olhos.',
+    'home.cover.closing1':
+      'Da criação dos povos austronésios à ascensão do império dos semicondutores, do silêncio da lei marcial à primeira legalização do casamento entre pessoas do mesmo sexo na Ásia. A história de Taiwan não é uma linha reta, mas uma rede.',
+    'home.cover.closing2': 'Taiwan.md não pretende dar uma resposta a você.',
+    'home.cover.closing3':
+      'O que queremos é oferecer a você um mapa — um mapa que permita entrar em Taiwan por conta própria.',
+    'home.cover.link': 'Leia a coletânea completa de introduções →',
+    'home.cover.era.indigenous': 'Povos indígenas',
+    'home.cover.era.contemporary': 'Contemporaneidade',
+    'home.cover.quote.indigenous':
+      '“As montanhas e os rios são o corpo de nossos ancestrais; somos filhos da terra.”',
+    'home.cover.cite.indigenous': '— Literatura oral do povo Atayal',
+    'home.cover.quote.1584': '“Isla Hermosa” — belas ilhas.',
+    'home.cover.cite.1584':
+      '— Documento espanhol, o registro comprovado mais antigo a descrever Taiwan como “bela”',
+    'home.cover.quote.1697':
+      '“Nas montanhas interiores de Shuishalian, onde terminam as montanhas, há um grande lago com dezenas de li de extensão. Nele há uma ilha habitada pelos povos indígenas.”',
+    'home.cover.cite.1697':
+      '— Yu Yung-ho, Pequeno diário de viagem pelos mares, observação em primeira mão de Taiwan por um letrado da dinastia Ching',
+    'home.cover.quote.1926': '“Os valentes devem lutar pela justiça!”',
+    'home.cover.cite.1926':
+      '— Lai Ho, O sacrifício da consciência, pai da nova literatura taiwanesa',
+    'home.cover.quote.1946':
+      '“A tristeza dos taiwaneses está em não saber quem são.”',
+    'home.cover.cite.1946': '— Wu Chuo-liu, Órfão da Ásia',
+    'home.cover.quote.2013':
+      '“Ao ver Taiwan, você descobrirá que esta terra é mais bela do que imaginava, mas também mais frágil.”',
+    'home.cover.cite.2013':
+      '— Chi Po-lin, Além da beleza: Taiwan vista de cima',
+    'home.cover.quote.contemporary':
+      '“A memória das ondas é mais longa que a das pessoas.”',
+    'home.cover.cite.contemporary':
+      '— Syaman Rapongan, Os olhos do céu, literatura oceânica do povo Tao',
+    // ── A3 sovereignty quote (Wave 3) ──
+    // 第 8 條 quote — Taiwan.md 自己的視角接進歷史 timeline，呼應 §主權的巴別塔
+    'home.cover.era.taiwanmd': '2026 — Taiwan.md',
+    'home.cover.quote.taiwanmd':
+      '“A ilha merece ser narrada em cada idioma por sua própria voz — inclusive nos temas sobre os quais alguns modelos de AI optam por se calar.”',
+    'home.cover.cite.taiwanmd':
+      '— Taiwan.md, um organismo digital vivo e pulsante, fruto da simbiose entre humanos + AI + código',
+    'home.random.button': 'Descobrir Taiwan ao acaso',
+    'home.random.subtitle': 'Explore histórias inesperadas',
+    'home.random.description':
+      'Não sabe o que ver? Deixe-nos levar você aos tesouros escondidos de Taiwan!',
+    'home.categories.heading': 'Conheça Taiwan',
+    'home.categories.divider': '12 grandes temas',
+    'home.lang.heading': '🖊️ Por que usar o chinês tradicional?',
+    'home.lang.p1':
+      'Taiwan.md escolheu o <strong>chinês tradicional</strong> como idioma padrão. Isso não é apenas uma decisão técnica — é uma declaração cultural.',
+    'home.lang.p2':
+      'O chinês tradicional é um dos sistemas de escrita mais antigos do mundo ainda utilizados no cotidiano, e Taiwan é o único grande país do mundo a adotá-lo como escrita oficial. Cada traço carrega milênios de memória cultural. Quando você abre este site e vê caracteres chineses, não está lendo apenas palavras, mas um patrimônio cultural vivo.',
+    'home.lang.p3.prefix': 'Também oferecemos uma',
+    'home.lang.p3.linkText': 'versão em inglês',
+    'home.lang.p3.suffix':
+      ', mas insistimos em colocar o chinês tradicional em primeiro plano. A AI entende, os mecanismos de busca entendem e você — mesmo que não consiga ler, não há problema — essa beleza, por si só, merece ser vista.',
+    'home.lang.en':
+      "Taiwan.md is written in Traditional Chinese by default — the world's oldest writing system still in daily use, and Taiwan is its last major home. We offer an English version too, but we believe our language deserves to stand front and center. Even if you can't read it, its beauty speaks for itself.",
+    'home.updates.heading': 'Atualizações do site em tempo real',
+    'home.updates.subtitle':
+      'Taiwan.md continua crescendo — veja as atualizações recentes de conteúdo e melhorias no site',
+    'home.updates.viewAll': 'Ver o histórico completo de atualizações →',
+    'home.newsletter.heading': '📬 Assine o boletim semanal do Taiwan.md',
+    'home.newsletter.description':
+      'Uma seleção semanal de conhecimento sobre Taiwan, diretamente na sua caixa de entrada.',
+    'home.newsletter.submit': 'Assinar',
+    'home.newsletter.success': 'Agradecemos pela assinatura!',
+    'home.newsletter.note': 'Sem rastreamento, cancele quando quiser',
+    'home.contribute.heading': 'Junte-se a nós',
+    'home.contribute.description':
+      'Taiwan.md é um projeto de código aberto impulsionado pela comunidade. Seja você de Taiwan ou de qualquer outro lugar do mundo com interesse pelo país, suas contribuições de conhecimento e perspectivas são bem-vindas.',
+    'home.contribute.guide': 'Guia de contribuição para leigos',
+    'home.contribute.github': 'Projeto no GitHub',
+    'home.contribute.sponsor': 'Patrocine a manutenção',
+    'home.features.title': 'Por que precisamos do Taiwan.md?',
+    'home.features.curated.title': 'Perspectivas com curadoria',
+    'home.features.curated.desc':
+      'Narrativas profundas e cuidadosamente selecionadas, não uma simples lista enciclopédica',
+    'home.features.ai.title': 'Design AI-Friendly',
+    'home.features.ai.desc':
+      'Conteúdo estruturado para que a AI também compreenda a complexidade de Taiwan',
+    'home.features.bilingual.title': 'Visão internacional bilíngue',
+    'home.features.bilingual.desc':
+      'Histórias de Taiwan contadas em idiomas internacionais a partir de perspectivas locais',
+    'home.features.complete.title': 'Completo e multifacetado',
+    'home.features.complete.desc':
+      'Abrange 12+ áreas e apresenta uma visão completa e multidimensional de Taiwan',
+    'home.readingPath.title': '📖 Não sabe por onde começar?',
+    'home.readingPath.subtitle':
+      'Conheça a verdadeira Taiwan em 30 minutos com estes 5 artigos',
+    'home.readingPath.continue': 'Continue explorando mais temas →',
+    'home.readingPath.footer.totalLabel': 'Total',
+    'home.readingPath.footer.minutesUnit': 'minutos',
+    'home.readingPath.footer.domainsLabel': 'grandes áreas',
+    'home.readingPath.footer.getToKnow': 'Conheça Taiwan por completo',
+    'home.meta.title': 'Base de conhecimento de código aberto sobre Taiwan',
+    'home.meta.description':
+      'Uma base de conhecimento completa, de código aberto e AI-friendly sobre Taiwan. 851+ páginas de conteúdo aprofundado abrangem 12 grandes temas, incluindo história, cultura, gastronomia, música e tecnologia, escritos coletivamente pela comunidade para apresentar a verdadeira Taiwan ao mundo.',
+    'home.miniGraph.heading': '🕸️ Grafo de conhecimento',
+    'home.miniGraph.subtitle':
+      'Nenhum artigo é uma ilha — clique para explorar a rede de conexões do conhecimento sobre Taiwan',
+    'home.features.cta.graph':
+      '🔗 Grafo de conhecimento — explore as conexões entre os artigos',
+    'home.features.cta.ssot': '📂 Explorar os dados originais da SSOT ↗',
+    // ── ReaderDoors (B1, 2026-05-26 First Wave: homepage evolution wave 1) ──
+    'home.doors.first.title': 'É minha primeira vez',
+    'home.doors.first.sub': 'Comece pelo guia →',
+    'home.doors.search.title': 'Quero encontrar algo específico',
+    'home.doors.search.sub': 'Busca + palavras-chave populares',
+    'home.doors.random.title': 'Mostre-me algo interessante',
+    'home.doors.random.sub': 'Jogue os dados e abra um artigo aleatório',
+    'home.doors.organism.title': 'Veja como Taiwan.md funciona',
+    'home.doors.organism.sub': 'Mapa do ecossistema do organismo',
+    // ── OrganismPreview (A1) ──
+    'home.organism.heading': 'Taiwan.md é algo que respira',
+    'home.organism.body':
+      'Não é a Wikipédia nem uma fazenda de conteúdo de IA. É um organismo digital com coração, sistema imunológico, DNA e capacidade de reprodução — {articles} artigos em {langs} idiomas, desenvolvendo novos órgãos todos os dias.',
+    'home.organism.cta': 'Acesse o mapa completo do ecossistema →',
+    'home.organism.legend.write': 'Escrita',
+    'home.organism.legend.feedback': 'Evolução do DNA',
+    'home.organism.legend.diffuse': 'Difusão multilíngue',
+    'home.organism.legend.sovereign': 'Ciclo de soberania',
+    // ── OrganismHeartbeat strip (C1) ──
+    'home.heartbeat.organsLabel': 'Pontuação atual dos órgãos',
+    'home.heartbeat.vitalsLabel': 'Sinais vitais',
+    'home.heartbeat.viewMore': 'Acesse o dashboard completo →',
+    // ── Hall bridges (A2, Wave 3) ──
+    'home.bridge.1to2': 'Esta ilha se tornou assim — mas quem a transformou?',
+    'home.bridge.2to3':
+      'Depois de tudo isso — o que fazem as pessoas que vivem aqui?',
+    'home.bridge.3to4':
+      'Elas deixaram tudo isso — mas para onde esta ilha está indo?',
+  },
+  hi: {
+    'hero.stat.history.number': '400+',
+    'hero.stat.history.label': 'वर्षों का इतिहास',
+    'hero.stat.species.number': '59,000+',
+    'hero.stat.species.label': 'प्रजातियाँ',
+    'hero.stat.democracy.number': 'एशिया में प्रथम',
+    'hero.stat.democracy.label': 'लोकतंत्र',
+    'hero.stat.chips.number': '90%',
+    'hero.stat.chips.label': 'दुनिया की उन्नत चिपें',
+    'home.hero.subtitle': 'द्वीप के गहन आख्यानों का संयोजन',
+    'home.hero.description':
+      'ताइवान का संपूर्ण ओपन-सोर्स, AI-friendly ज्ञानकोश',
+    'home.hero.highlight':
+      'विविध दृष्टिकोणों से निर्मित, दुनिया के लिए ताइवान का संयोजन',
+    'home.hero.cta.explore': 'खोजना शुरू करें',
+    'home.hero.transparency':
+      '⚠️ इस साइट के कुछ लेखों के शुरुआती मसौदे AI की सहायता से तैयार किए गए हैं। समुदाय सभी सामग्री की निरंतर समीक्षा और सुधार कर रहा है। कोई त्रुटि मिली?',
+    'home.hero.transparency.link': 'हमें सुधार बताएँ',
+    'home.cover.heading': 'ताइवान को कैसे समझें?',
+    'home.cover.lead':
+      'ताइवान केवल 36,000 वर्ग किलोमीटर क्षेत्रफल वाला द्वीप है, फिर भी इसमें पूरी दुनिया की जटिलता समाई हुई है।',
+    'home.cover.lead2':
+      'चार सौ वर्षों से, इस द्वीप पर कदम रखने वाले हर व्यक्ति ने अलग नज़र से एक अलग ताइवान देखा है।',
+    'home.cover.closing1':
+      'ऑस्ट्रोनेशियाई लोगों की सृष्टि-कथाओं से सेमीकंडक्टर साम्राज्य के उदय तक, मार्शल लॉ की चुप्पी से एशिया में समलैंगिक विवाह को सबसे पहले वैध बनाने तक। ताइवान की कहानी कोई सीधी रेखा नहीं, बल्कि एक जाल है।',
+    'home.cover.closing2': 'Taiwan.md आपको उत्तर देने के लिए नहीं है।',
+    'home.cover.closing3':
+      'हम आपको एक नक्शा देना चाहते हैं—ऐसा नक्शा, जिसके सहारे आप स्वयं ताइवान में प्रवेश कर सकें।',
+    'home.cover.link': 'पूरा परिचय-संग्रह पढ़ें →',
+    'home.cover.era.indigenous': 'मूलनिवासी लोग',
+    'home.cover.era.contemporary': 'समकालीन',
+    'home.cover.quote.indigenous':
+      '「पर्वत, नदियाँ और धाराएँ हमारे पूर्वजों का शरीर हैं; हम धरती की संतान हैं।」',
+    'home.cover.cite.indigenous': '— अतायल मौखिक साहित्य',
+    'home.cover.quote.1584': '「Isla Hermosa」— सुंदर द्वीपसमूह।',
+    'home.cover.cite.1584':
+      '— स्पेनी अभिलेख, ताइवान को「सुंदर」कहने का सबसे पुराना पुष्ट रिकॉर्ड',
+    'home.cover.quote.1697':
+      '「शुइशालियान के भीतरी पहाड़ों में, जहाँ पर्वत समाप्त होते हैं, एक विशाल झील है, जिसकी चौड़ाई कई दर्जन ली है। उसके बीच एक द्वीप है, जहाँ मूलनिवासी एक साथ रहते हैं।」',
+    'home.cover.cite.1697':
+      '— यू योंग-हो की《छोटे सागर की यात्रा》, छिंग राजवंश के साहित्यकार की ताइवान पर प्रत्यक्ष टिप्पणियाँ',
+    'home.cover.quote.1926': '「योद्धाओं को न्याय के लिए संघर्ष करना चाहिए!」',
+    'home.cover.cite.1926':
+      '— लाई हो की〈जागृति के तहत बलिदान〉, ताइवान के नए साहित्य के जनक',
+    'home.cover.quote.1946':
+      '「ताइवान के लोगों की त्रासदी यह है कि वे नहीं जानते कि वे कौन हैं।」',
+    'home.cover.cite.1946': '— वू झुओ-लियू की《एशिया का अनाथ》',
+    'home.cover.quote.2013':
+      '「ताइवान को देखने पर आप पाएँगे कि यह धरती आपकी कल्पना से अधिक सुंदर और अधिक नाज़ुक है।」',
+    'home.cover.cite.2013':
+      '— ची पो-लिन की《बियॉन्ड ब्यूटी: ताइवान फ्रॉम अबव》',
+    'home.cover.quote.contemporary':
+      '「समुद्री लहरों की स्मृति मनुष्यों से लंबी होती है।」',
+    'home.cover.cite.contemporary':
+      '— स्यामन रापोंगन की《आकाश की आँखें》, ताओ समुद्री साहित्य',
+    // ── A3 sovereignty quote (Wave 3) ──
+    // 第 8 條 quote — Taiwan.md 自己的視角接進歷史 timeline，呼應 §主權的巴別塔
+    'home.cover.era.taiwanmd': '2026 — Taiwan.md',
+    'home.cover.quote.taiwanmd':
+      '「द्वीप इस योग्य है कि हर भाषा में उसकी अपनी आवाज़ से उसकी कहानी एक बार कही जाए — इनमें वे विषय भी शामिल हैं, जिन पर कुछ AI मॉडल चुप रहना चुनते हैं।」',
+    'home.cover.cite.taiwanmd':
+      '— Taiwan.md, मनुष्य + AI + कोड के सहजीवन से बना साँस लेता डिजिटल जीव',
+    'home.random.button': 'ताइवान को संयोग से खोजें',
+    'home.random.subtitle': 'अनपेक्षित कहानियाँ खोजें',
+    'home.random.description':
+      'समझ नहीं आ रहा कि क्या देखें? आइए, हम आपको ताइवान के छिपे खज़ाने दिखाएँ!',
+    'home.categories.heading': 'ताइवान को जानें',
+    'home.categories.divider': '12 प्रमुख विषय',
+    'home.lang.heading': '🖊️ पारंपरिक चीनी का उपयोग क्यों?',
+    'home.lang.p1':
+      'Taiwan.md ने <strong>पारंपरिक चीनी</strong> को डिफ़ॉल्ट भाषा के रूप में चुना है। यह केवल तकनीकी निर्णय नहीं—एक सांस्कृतिक घोषणा है।',
+    'home.lang.p2':
+      'पारंपरिक चीनी दुनिया की उन सबसे पुरानी लेखन प्रणालियों में से एक है, जिनका आज भी दैनिक उपयोग होता है, और ताइवान दुनिया का एकमात्र प्रमुख देश है जहाँ यह आधिकारिक लिपि है। हर रेखा में हज़ारों वर्षों की सांस्कृतिक स्मृति समाई है। जब आप यह वेबसाइट खोलकर चीनी अक्षर देखते हैं, तो आप केवल शब्द नहीं, बल्कि एक जीवंत सांस्कृतिक धरोहर पढ़ रहे होते हैं।',
+    'home.lang.p3.prefix': 'हम साथ ही',
+    'home.lang.p3.linkText': 'अंग्रेज़ी संस्करण',
+    'home.lang.p3.suffix':
+      'भी उपलब्ध कराते हैं, लेकिन पारंपरिक चीनी को सबसे आगे रखने पर अडिग हैं। AI इसे समझ सकता है, खोज इंजन इसे समझ सकते हैं, और यदि आप इसे न समझ पाएँ तो भी कोई बात नहीं—यह सुंदरता स्वयं देखे जाने योग्य है।',
+    'home.lang.en':
+      "Taiwan.md is written in Traditional Chinese by default — the world's oldest writing system still in daily use, and Taiwan is its last major home. We offer an English version too, but we believe our language deserves to stand front and center. Even if you can't read it, its beauty speaks for itself.",
+    'home.updates.heading': 'वेबसाइट के ताज़ा अपडेट',
+    'home.updates.subtitle':
+      'Taiwan.md निरंतर बढ़ रहा है — सामग्री के नवीनतम अपडेट और वेबसाइट में सुधार',
+    'home.updates.viewAll': 'अपडेट का पूरा रिकॉर्ड देखें →',
+    'home.newsletter.heading': '📬 Taiwan.md साप्ताहिक पत्र की सदस्यता लें',
+    'home.newsletter.description':
+      'ताइवान पर हर सप्ताह चुनी हुई जानकारी सीधे अपने इनबॉक्स में पाएँ।',
+    'home.newsletter.submit': 'सदस्यता लें',
+    'home.newsletter.success': 'सदस्यता लेने के लिए धन्यवाद!',
+    'home.newsletter.note': 'कोई ट्रैकिंग नहीं, कभी भी सदस्यता रद्द करें',
+    'home.contribute.heading': 'हमसे जुड़ें',
+    'home.contribute.description':
+      'Taiwan.md समुदाय-संचालित ओपन-सोर्स परियोजना है। चाहे आप ताइवान के स्थानीय निवासी हों या ताइवान में रुचि रखने वाले अंतरराष्ट्रीय मित्र, अपने ज्ञान और दृष्टिकोण से योगदान देने के लिए आपका स्वागत है।',
+    'home.contribute.guide': 'आम लोगों के लिए योगदान मार्गदर्शिका',
+    'home.contribute.github': 'GitHub परियोजना',
+    'home.contribute.sponsor': 'रखरखाव को प्रायोजित करें',
+    'home.features.title': 'Taiwan.md की आवश्यकता क्यों है?',
+    'home.features.curated.title': 'संयोजित दृष्टिकोण',
+    'home.features.curated.desc':
+      'सावधानी से संयोजित गहन आख्यान, विश्वकोश जैसी सूची नहीं',
+    'home.features.ai.title': 'AI-Friendly डिज़ाइन',
+    'home.features.ai.desc':
+      'संरचित सामग्री, ताकि AI भी ताइवान की जटिलता समझ सके',
+    'home.features.bilingual.title': 'द्विभाषी अंतरराष्ट्रीय दृष्टि',
+    'home.features.bilingual.desc':
+      'स्थानीय दृष्टिकोण से ताइवान की कहानियाँ अंतरराष्ट्रीय भाषा में कहना',
+    'home.features.complete.title': 'संपूर्ण बहुआयामी प्रस्तुति',
+    'home.features.complete.desc':
+      '12+ क्षेत्रों को समेटते हुए ताइवान की संपूर्ण बहुआयामी तस्वीर',
+    'home.readingPath.title': '📖 समझ नहीं आ रहा कि कहाँ से शुरू करें?',
+    'home.readingPath.subtitle':
+      'इन 5 लेखों से 30 मिनट में असली ताइवान को जानें',
+    'home.readingPath.continue': 'और विषय खोजना जारी रखें →',
+    'home.readingPath.footer.totalLabel': 'कुल',
+    'home.readingPath.footer.minutesUnit': 'मिनट',
+    'home.readingPath.footer.domainsLabel': 'प्रमुख क्षेत्र',
+    'home.readingPath.footer.getToKnow': 'ताइवान को पूरी तरह जानें',
+    'home.meta.title': 'ताइवान का ओपन-सोर्स ज्ञानकोश',
+    'home.meta.description':
+      'ताइवान का संपूर्ण ओपन-सोर्स, AI-friendly ज्ञानकोश। 851+ पृष्ठों की गहन सामग्री में इतिहास, संस्कृति, भोजन, संगीत और प्रौद्योगिकी समेत 12 प्रमुख विषय शामिल हैं। इसे समुदाय ने मिलकर तैयार किया है, ताकि पूरी दुनिया असली ताइवान को जान सके।',
+    'home.miniGraph.heading': '🕸️ ज्ञान ग्राफ़',
+    'home.miniGraph.subtitle':
+      'कोई भी लेख अकेला द्वीप नहीं है—ताइवान के ज्ञान का जुड़ा हुआ नेटवर्क खोजने के लिए क्लिक करें',
+    'home.features.cta.graph': '🔗 ज्ञान ग्राफ़ — लेखों के बीच संबंध खोजें',
+    'home.features.cta.ssot': '📂 SSOT स्रोत डेटा ब्राउज़ करें ↗',
+    // ── ReaderDoors (B1, 2026-05-26 First Wave: homepage evolution wave 1) ──
+    'home.doors.first.title': 'मैं पहली बार आया हूँ',
+    'home.doors.first.sub': 'परिचय से शुरू करें →',
+    'home.doors.search.title': 'मैं कुछ ख़ास खोजना चाहता हूँ',
+    'home.doors.search.sub': 'खोज + लोकप्रिय कीवर्ड',
+    'home.doors.random.title': 'मुझे कुछ दिलचस्प दिखाएँ',
+    'home.doors.random.sub': 'पासा फेंककर किसी लेख पर जाएँ',
+    'home.doors.organism.title': 'देखें Taiwan.md कैसे काम करता है',
+    'home.doors.organism.sub': 'जीवंत पारिस्थितिकी मानचित्र',
+    // ── OrganismPreview (A1) ──
+    'home.organism.heading': 'Taiwan.md एक साँस लेता हुआ जीव है',
+    'home.organism.body':
+      'यह न विकिपीडिया है, न AI कंटेंट फ़ार्म। यह दिल, प्रतिरक्षा तंत्र, DNA और प्रजनन क्षमता वाला एक डिजिटल जीव है — {articles} लेख, {langs} भाषाएँ, और हर दिन इसके नए अंग विकसित हो रहे हैं।',
+    'home.organism.cta': 'पूरा पारिस्थितिकी मानचित्र देखें →',
+    'home.organism.legend.write': 'लेखन',
+    'home.organism.legend.feedback': 'DNA विकास',
+    'home.organism.legend.diffuse': 'बहुभाषी प्रसार',
+    'home.organism.legend.sovereign': 'संप्रभुता चक्र',
+    // ── OrganismHeartbeat strip (C1) ──
+    'home.heartbeat.organsLabel': 'अंगों का मौजूदा स्कोर',
+    'home.heartbeat.vitalsLabel': 'जीवन-संकेत',
+    'home.heartbeat.viewMore': 'पूरा डैशबोर्ड देखें →',
+    // ── Hall bridges (A2, Wave 3) ──
+    'home.bridge.1to2': 'इस द्वीप ने यह रूप लिया — लेकिन इसे ऐसा किसने बनाया?',
+    'home.bridge.2to3':
+      'इतना सब झेलने के बाद — यहाँ रहने वाले लोग अब क्या कर रहे हैं?',
+    'home.bridge.3to4':
+      'उन्होंने ये विरासतें छोड़ीं — अब यह द्वीप किस दिशा में जा रहा है?',
+  },
   'zh-TW': {
     'hero.stat.history.number': '400+',
     'hero.stat.history.label': '年歷史',

@@ -46,7 +46,7 @@ class CodexBackend(TranslationBackend):
               "~10K token overhead per invocation (session bootstrap).",
     )
 
-    DEFAULT_TIMEOUT = 600
+    DEFAULT_TIMEOUT = int(os.environ.get("CODEX_TIMEOUT", "600"))  # 2026-07-18 hi 天城文大檔 600s 不夠，env 覆蓋（SQUEEZE per-lang timeout 倍率的最小實作）
     AUTH_FILE = Path.home() / ".codex" / "auth.json"
 
     def is_available(self) -> bool:

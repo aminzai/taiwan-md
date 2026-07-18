@@ -22,11 +22,18 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[3]
 
 CJK = re.compile(r"[一-鿿㐀-䶿]")
-# 括號注記（含全形括號）與 wikilink 內的 CJK 視為合法
-PAREN = re.compile(r"\([^)]*\)|（[^）]*）|\[\[[^\]]*\]\]")
+# 合法 CJK 位置：括號注記（含全形）、wikilink、code span、markdown 連結目標
+# （譯文常連到中文檔名的 repo 路徑，如 reports/research/2026-07/台灣BIM….md——
+#  2026-07-18 首掃 51+126+21 行「殘留」大宗即此類假陽性）
+PAREN = re.compile(
+    r"\([^)]*\)|（[^）]*）|\[\[[^\]]*\]\]|`[^`]*`|\]\([^)]*\)"
+)
 
 # 這些語言的正文不該有裸 CJK；ja/ko 混寫合法不在此清單
 TARGET_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi"}
+
+
+MULTILINE_LINK = re.compile(r"\]\([^)]*?\)", re.S)  # 連結目標可被 prettier 摺行
 
 
 def check_file(path: Path):
@@ -34,6 +41,8 @@ def check_file(path: Path):
     m = re.match(r"^---\n.*?\n---\n", text, re.S)
     body = text[m.end():] if m else text
     offset = text[: m.end()].count("\n") if m else 0
+    # 跨行連結目標先全文級挖掉（保行數：換行以外置空）
+    body = MULTILINE_LINK.sub(lambda mm: "".join(c if c == "\n" else " " for c in mm.group(0)), body)
     hits = []
     for i, line in enumerate(body.splitlines(), start=offset + 1):
         stripped = PAREN.sub("", line)

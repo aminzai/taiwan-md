@@ -2185,6 +2185,3131 @@ export const mapUI = {
     'map.markers.wangLeeOlympicGold.desc':
       '중학교 동급생에서 올림픽 금메달까지: 「린양 페어」가 34분 만에 중국을 2-0으로 꺾고 대만 배드민턴 역사상 첫 올림픽 금메달을 쓰다',
   },
+  vi: {
+    // Meta
+    'map.meta.title': 'Bản đồ Đài Loan Map',
+    'map.meta.description':
+      'Khám phá mạch nội dung của Taiwan.md dưới góc nhìn bản đồ',
+
+    // Hero Section
+    'map.hero.kicker': 'Map View',
+    'map.hero.title': 'Bản đồ Đài Loan',
+    'map.hero.subtitle':
+      'Khám phá các dấu mốc văn hóa, ẩm thực, thiên nhiên và lịch sử của Đài Loan qua bản đồ.',
+
+    // Controls - Region Filter
+    'map.controls.region.title': 'Lọc theo khu vực',
+    'map.controls.region.all': 'Tất cả',
+    'map.controls.region.north': 'Miền Bắc',
+    'map.controls.region.central': 'Miền Trung',
+    'map.controls.region.south': 'Miền Nam',
+    'map.controls.region.east': 'Miền Đông',
+    'map.controls.region.islands': 'Các đảo ngoài khơi',
+
+    // Controls - Category Filter
+    'map.controls.category.title': 'Lọc theo danh mục',
+    'map.controls.category.all': 'Tất cả',
+    'map.controls.category.food': '🍜 Ẩm thực',
+    'map.controls.category.history': '📜 Lịch sử',
+    'map.controls.category.nature': '🌿 Thiên nhiên',
+    'map.controls.category.culture': '🎭 Văn hóa',
+    'map.controls.category.technology': '💻 Công nghệ',
+    'map.controls.category.economy': '📈 Kinh tế',
+    'map.controls.category.lifestyle': '🏮 Đời sống',
+    'map.controls.category.art': '🎨 Nghệ thuật',
+    'map.controls.category.geography': '🗺️ Địa lý',
+
+    // Route Section
+    'map.route.title': '🗺️ Lộ trình tuyển chọn',
+    'map.route.normal-mode': 'Chế độ thông thường',
+
+    // Sidebar - Default
+    'map.sidebar.default.title': '📍 Khám phá bài viết về Đài Loan',
+    'map.sidebar.default.hint':
+      'Nhấp vào huyện, thành phố hoặc điểm đánh dấu trên bản đồ để khám phá bài viết',
+
+    // Sidebar - County
+    'map.sidebar.county.clear': '✕ Xóa lựa chọn',
+    'map.sidebar.county.articles-count': 'bài viết',
+    'map.sidebar.county.no-articles': 'Khu vực này chưa có bài viết',
+
+    // Sidebar - Article
+    'map.sidebar.article.back': '← Quay lại',
+    'map.sidebar.article.read-more': 'Đọc toàn văn →',
+
+    // Zoom Controls
+    'map.zoom.in': '＋',
+    'map.zoom.out': '－',
+    'map.zoom.reset': '⌂',
+
+    // Tooltips
+    'map.tooltip.county.articles': 'bài viết liên quan',
+    'map.tooltip.county.click': 'Nhấp để lọc khu vực này',
+    'map.tooltip.marker.reading-time': 'phút đọc',
+
+    // Panel (for compatibility)
+    'map.panel.title': 'Bản đồ tri thức Đài Loan',
+    'map.panel.stat.points': 'Điểm tri thức',
+    'map.panel.stat.categories': 'Danh mục',
+    'map.panel.category-distribution': 'Phân bố danh mục',
+    'map.panel.link.graph': '🕸️ Đồ thị tri thức',
+    'map.panel.link.home': '🏠 Tổng quan danh mục',
+
+    // Category Names (for JS usage)
+    'map.category.history': '📜 Lịch sử',
+    'map.category.geography': '🗺️ Địa lý',
+    'map.category.culture': '🎭 Văn hóa',
+    'map.category.food': '🍜 Ẩm thực',
+    'map.category.art': '🎨 Nghệ thuật',
+    'map.category.music': '🎵 Âm nhạc',
+    'map.category.technology': '💻 Công nghệ',
+    'map.category.nature': '🌿 Thiên nhiên',
+    'map.category.people': '👥 Nhân vật',
+    'map.category.society': '⚖️ Xã hội',
+    'map.category.economy': '📈 Kinh tế',
+    'map.category.lifestyle': '🏮 Đời sống',
+
+    // Additional UI text
+    'map.sidebar.more-articles': '⋯và',
+    'map.sidebar.more-articles-suffix': 'bài khác',
+
+    // Routes
+    'map.routes.nightMarkets.name': '🍜 Hành trình khám phá chợ đêm',
+    'map.routes.nightMarkets.description':
+      'Từ Bắc chí Nam, khám phá văn hóa chợ đêm tiêu biểu nhất của Đài Loan',
+    'map.routes.nationalParks.name':
+      '🏔️ Hành trình khám phá công viên quốc gia',
+    'map.routes.nationalParks.description':
+      'Từ núi cao 3,952 mét đến rạn san hô nhiệt đới, khám phá những kỳ quan thiên nhiên của Đài Loan',
+    'map.routes.historyTrail.name': '📜 Dấu chân lịch sử',
+    'map.routes.historyTrail.description':
+      'Từ thời kỳ thuộc địa Hà Lan đến dân chủ hóa, ngược dòng bốn trăm năm lịch sử Đài Loan',
+    'map.routes.oldStreets.name': '🏮 Dạo bước phố cổ',
+    'map.routes.oldStreets.description':
+      'Ký ức Đài Loan trên những con phố trăm năm, nơi kiến trúc chính là lịch sử',
+
+    'map.routes.counties22.name': '📍 22 bài chuyên sâu về huyện, thành phố',
+    'map.routes.counties22.description':
+      'Khám phá 22 bài chuyên sâu về các huyện, thành phố trên Taiwan.md, từ pilot Cơ Long đến finale Tân Bắc — mỗi nơi xoay quanh một mâu thuẫn cốt lõi.',
+    'map.counties22.panel.title': '📍 22 bài chuyên sâu về huyện, thành phố',
+    'map.counties22.panel.hint':
+      'Nhấp vào thẻ huyện, thành phố để mở hoặc chọn địa phương trên bản đồ',
+    'map.counties22.tooltip.openDeep': 'Nhấp để mở bài viết chuyên sâu',
+    'map.counties22.deepCard.badge':
+      '📖 Loạt bài 22 huyện, thành phố · Bài viết chuyên sâu',
+    'map.counties22.deepCard.cta': 'Đọc toàn văn →',
+
+    // Night Markets Stops
+    'map.stops.shilinNightMarket.name': 'Chợ đêm Sĩ Lâm',
+    'map.stops.shilinNightMarket.note':
+      'Chợ đêm du lịch lớn nhất Đài Loan, nơi khai sinh món bánh lớn bọc bánh nhỏ',
+    'map.stops.raoheNightMarket.name': 'Chợ đêm Nhiêu Hà',
+    'map.stops.raoheNightMarket.note':
+      'Thánh địa xếp hàng mua bánh tiêu, điểm đến địa phương được người Đài Bắc yêu thích',
+    'map.stops.ningxiaNightMarket.name': 'Chợ đêm Ninh Hạ',
+    'map.stops.ningxiaNightMarket.note':
+      'Nơi có mật độ hàng quán cao nhất, phố ẩm thực bình dân được Michelin đề xuất',
+    'map.stops.fengjiaNightMarket.name': 'Chợ đêm Phùng Giáp',
+    'map.stops.fengjiaNightMarket.note':
+      'Phòng thí nghiệm món ăn vặt sáng tạo, tuyến đầu đổi mới của chợ đêm Đài Loan',
+    'map.stops.huayuanNightMarket.name': 'Chợ đêm Hoa Viên',
+    'map.stops.huayuanNightMarket.note':
+      'Chợ đêm lớn nhất Đài Nam, lễ hội náo nhiệt chỉ diễn ra ba ngày mỗi tuần',
+    'map.stops.liuheNightMarket.name': 'Chợ đêm Lục Hợp',
+    'map.stops.liuheNightMarket.note':
+      'Chợ đêm biểu tượng của Cao Hùng, nơi hải sản giữ vai trò chủ đạo',
+
+    // National Parks Stops
+    'map.stops.yangmingshanNationalPark.name':
+      'Công viên quốc gia Dương Minh Sơn',
+    'map.stops.yangmingshanNationalPark.note':
+      'Khu vườn sau nhà của Đài Bắc, với địa hình núi lửa và những suối nước nóng bí ẩn',
+    'map.stops.tarokoNationalPark.name': 'Công viên quốc gia Taroko',
+    'map.stops.tarokoNationalPark.note':
+      'Hẻm núi đá cẩm thạch, kỳ quan địa chất đẳng cấp thế giới',
+    'map.stops.yushanNationalPark.name': 'Công viên quốc gia Ngọc Sơn',
+    'map.stops.yushanNationalPark.note':
+      'Đỉnh cao nhất Đông Bắc Á（3,952m）, nóc nhà của Đài Loan',
+    'map.stops.alishanScenicArea.name': 'Khu thắng cảnh quốc gia A Lý Sơn',
+    'map.stops.alishanScenicArea.note':
+      'Bình minh trên biển mây, quần thể cổ thụ và đường sắt xuyên rừng',
+    'map.stops.sunMoonLakeScenicArea.name':
+      'Khu thắng cảnh quốc gia Nhật Nguyệt Đàm',
+    'map.stops.sunMoonLakeScenicArea.note':
+      'Hồ tự nhiên lớn nhất Đài Loan, hồ thiêng của người Thao',
+    'map.stops.kentingNationalPark.name': 'Công viên quốc gia Khẩn Đinh',
+    'map.stops.kentingNationalPark.note':
+      'Cực nam Đài Loan, với rạn san hô nhiệt đới và bán đảo Hằng Xuân',
+
+    // History Trail Stops
+    'map.stops.anpingFort.name': 'Pháo đài cổ An Bình',
+    'map.stops.anpingFort.note':
+      'Do người Hà Lan xây dựng năm 1624, là pháo đài lâu đời nhất Đài Loan',
+    'map.stops.chikanTower.name': 'Xích Khảm Lâu',
+    'map.stops.chikanTower.note':
+      'Từ thành Provintia của Hà Lan đến biểu tượng quyền lực của Trịnh Thành Công',
+    'map.stops.lukang.name': 'Lộc Cảng',
+    'map.stops.lukang.note':
+      'Thành phố lớn thứ hai Đài Loan thời Thanh,「nhất Phủ, nhì Lộc, tam Mãnh Giáp」',
+    'map.stops.presidentialOffice.name':
+      'Phủ Tổng thống（nguyên là Phủ Tổng đốc Đài Loan）',
+    'map.stops.presidentialOffice.note':
+      'Hoàn thành năm 1919, trung tâm quyền lực tối cao thời Nhật trị',
+    'map.stops.chiangKaiShekMemorialHall.name': 'Nhà tưởng niệm Trung Chính',
+    'map.stops.chiangKaiShekMemorialHall.note':
+      'Biểu tượng của chế độ uy quyền và tâm điểm tranh luận về công lý chuyển tiếp',
+    'map.stops.legislativeYuan.name':
+      'Lập pháp viện（Phong trào Hoa Hướng Dương）',
+    'map.stops.legislativeYuan.note':
+      'Địa điểm diễn ra Phong trào Sinh viên Hoa Hướng Dương năm 2014, một cột mốc của nền dân chủ Đài Loan',
+
+    // Old Streets Stops
+    'map.stops.dihuaStreet.name': 'Phố Địch Hóa',
+    'map.stops.dihuaStreet.note':
+      'Trái tim của Đại Đạo Trình, khu phố chuyên bán hàng hóa nam bắc và đồ Tết',
+    'map.stops.jiufenOldStreet.name': 'Phố cổ Cửu Phần',
+    'map.stops.jiufenOldStreet.note':
+      'Dấu ấn thời hoàng kim của ngành khai khoáng và nguồn cảm hứng cho Vùng đất linh hồn',
+    'map.stops.lukangOldStreet.name': 'Phố cổ Lộc Cảng',
+    'map.stops.lukangOldStreet.note':
+      'Bảo tàng sống của những ngôi nhà gạch đỏ cổ kính và nghề thủ công truyền thống',
+    'map.stops.anpingOldStreet.name': 'Phố cổ An Bình',
+    'map.stops.anpingOldStreet.note':
+      'Con phố đầu tiên của Đài Loan, nơi lưu giữ những lớp trầm tích của bốn trăm năm lịch sử',
+    'map.stops.qishanOldStreet.name': 'Phố cổ Kỳ Sơn',
+    'map.stops.qishanOldStreet.note':
+      'Quần thể kiến trúc Baroque của vương quốc chuối',
+    'map.stops.tamsuiOldStreet.name': 'Phố cổ Đạm Thủy',
+    'map.stops.tamsuiOldStreet.note':
+      'Hoàng hôn, a-gei và nét lịch sử đặc sắc nơi cửa sông Đạm Thủy',
+
+    // Cities
+    'map.city.taipei': 'Đài Bắc',
+    'map.city.newTaipei': 'Tân Bắc',
+    'map.city.keelung': 'Cơ Long',
+    'map.city.taoyuan': 'Đào Viên',
+    'map.city.hsinchu': 'Tân Trúc',
+    'map.city.miaoli': 'Miêu Lật',
+    'map.city.taichung': 'Đài Trung',
+    'map.city.changhua': 'Chương Hóa',
+    'map.city.nantou': 'Nam Đầu',
+    'map.city.chiayi': 'Chiayi',
+    'map.city.tainan': 'Đài Nam',
+    'map.city.kaohsiung': 'Cao Hùng',
+    'map.city.pingtung': 'Bình Đông',
+    'map.city.yilan': 'Nghi Lan',
+    'map.city.hualien': 'Hoa Liên',
+    'map.city.taitung': 'Đài Đông',
+    'map.city.penghu': 'Bành Hồ',
+    'map.city.kinmen': 'Kim Môn',
+
+    // Markers
+    'map.markers.founderCheYuWu.title': 'Nhà sáng lập — Ngô Triết Vũ Che-Yu Wu',
+    'map.markers.founderCheYuWu.desc':
+      'Từ mã lệnh đến thi ca: hành trình đột phá trên trường quốc tế của một nghệ sĩ Đài Loan',
+    'map.markers.taiwanIndigenousContemporaryArt.title':
+      'Nghệ thuật đương đại của người bản địa Đài Loan',
+    'map.markers.taiwanIndigenousContemporaryArt.desc':
+      'Từ nghề thủ công truyền thống đến sáng tác đương đại, khám phá cách các nghệ sĩ bản địa Đài Loan cất tiếng nói trên sân khấu nghệ thuật toàn cầu, tái định nghĩa bản sắc bản địa và cuộc đối thoại với nghệ thuật đương đại',
+    'map.markers.taiwanExperimentalNewMediaArt.title':
+      'Nghệ thuật thể nghiệm và truyền thông mới Đài Loan',
+    'map.markers.taiwanExperimentalNewMediaArt.desc':
+      'Từ nghệ thuật video đến tương tác VR, khám phá bước phát triển đổi mới của nghệ thuật truyền thông mới và hệ sinh thái nghệ thuật công nghệ tại Đài Loan',
+    'map.markers.taiwanArchitecture.title': 'Kiến trúc Đài Loan',
+    'map.markers.taiwanArchitecture.desc':
+      'Từ nhà đá phiến đến những tòa nhà chọc trời: hành trình xuyên thời gian của kiến trúc trên một hòn đảo',
+    'map.markers.taiwanNewMediaArt.title':
+      'Nghệ thuật truyền thông mới Đài Loan',
+    'map.markers.taiwanNewMediaArt.desc':
+      'Khám phá văn hóa và những câu chuyện của Đài Loan',
+    'map.markers.taiwanWatercolorCenturyEvolution.title':
+      'Một thế kỷ biến chuyển của hội họa màu nước Đài Loan',
+    'map.markers.taiwanWatercolorCenturyEvolution.desc':
+      'Từ sự khai mở của Ishikawa Kinichiro thời Nhật trị đến danh tiếng quốc tế của Giản Trung Uy đương đại, hội họa màu nước Đài Loan đã trải qua hành trình trăm năm và trở thành một trong những trung tâm sáng tác màu nước năng động nhất châu Á.',
+    'map.markers.taiwanModernPoetry.title': 'Thơ hiện đại Đài Loan',
+    'map.markers.taiwanModernPoetry.desc':
+      'Những thử nghiệm chủ nghĩa hiện đại bước ra từ ba thư phòng đã bất ngờ khai sinh cuộc cách mạng thi ca mang đậm bản sắc bản địa như thế nào',
+    'map.markers.taiwanContemporarySculpture.title':
+      'Sự phát triển của điêu khắc đương đại Đài Loan',
+    'map.markers.taiwanContemporarySculpture.desc':
+      'Từ Dương Anh Phong, Chu Minh đến thế hệ mới, khám phá tiến trình biến đổi và tinh thần sáng tạo của nghệ thuật điêu khắc Đài Loan',
+    'map.markers.taiwanCuratorsArtCulture.title':
+      'Giám tuyển Đài Loan và công cuộc kiến tạo văn hóa nghệ thuật',
+    'map.markers.taiwanCuratorsArtCulture.desc':
+      'Từ giám tuyển độc lập đến hệ thống bảo tàng mỹ thuật, các giám tuyển Đài Loan đã kiến tạo diễn ngôn văn hóa và đối thoại quốc tế cho nghệ thuật đương đại như thế nào',
+    'map.markers.newMediaArt.title': 'Nghệ thuật truyền thông mới',
+    'map.markers.newMediaArt.desc':
+      'Hành trình tiên phong khám phá nghệ thuật số Đài Loan, nơi công nghệ và nhân văn giao thoa từ phòng thí nghiệm đến sân khấu quốc tế',
+    'map.markers.contemporaryTaiwanLiterature.title':
+      'Văn học Đài Loan đương đại',
+    'map.markers.contemporaryTaiwanLiterature.desc':
+      'Khám phá văn hóa và những câu chuyện của Đài Loan',
+    'map.markers.taiwanContemporaryArt.title': 'Nghệ thuật đương đại Đài Loan',
+    'map.markers.taiwanContemporaryArt.desc':
+      'Từ Bảo tàng Mỹ thuật Đài Bắc đến Gian trưng bày Đài Loan tại Biennale Venezia, vị thế độc đáo của nghệ thuật đương đại Đài Loan trên sân khấu toàn cầu',
+    'map.markers.kinmenGuesthouseMuseum.title':
+      'Bảo tàng Nghệ thuật Đương đại Kim Mã Tân Quán',
+    'map.markers.kinmenGuesthouseMuseum.desc':
+      'Một trạm quân sự thời Chiến tranh Lạnh từng chứng kiến những cuộc chia ly và đoàn tụ, được hai cha con đánh thức sau hai mươi năm ngủ quên để trở thành bảo tàng mỹ thuật hàng đầu tại Cao Hùng do《Lonely Planet》đề xuất.',
+    'map.markers.renjianMagazine.title': 'Tạp chí Nhân Gian',
+    'map.markers.renjianMagazine.desc':
+      '47 số, bốn năm, một cuộc cách mạng thầm lặng được khởi xướng bằng nhiếp ảnh và ngôn từ——khởi điểm của văn học phóng sự Đài Loan',
+    'map.markers.taiwanIndigenousCulture.title':
+      'Văn hóa người bản địa Đài Loan',
+    'map.markers.taiwanIndigenousCulture.desc':
+      'Từ truyền thống đa dạng của mười sáu dân tộc đến sự phục hưng trong nghệ thuật đương đại, khám phá chiều sâu di sản và quá trình chuyển hóa hiện đại của văn hóa bản địa Đài Loan',
+    'map.markers.taiwan16IndigenousTribes.title':
+      'Bản đồ văn hóa 16 dân tộc bản địa Đài Loan',
+    'map.markers.taiwan16IndigenousTribes.desc':
+      'Khám phá khu vực phân bố, hệ thống ngôn ngữ, lễ hội quan trọng và sự phát triển sáng tác đương đại của 16 dân tộc bản địa Đài Loan, qua đó tìm hiểu diện mạo văn hóa đa dạng của các dân tộc bản địa Đài Loan',
+    'map.markers.taiwanNightMarketCulture.title':
+      'Văn hóa chợ đêm và ẩm thực đường phố Đài Loan',
+    'map.markers.taiwanNightMarketCulture.desc':
+      'Khám phá chuyên sâu bối cảnh hình thành, sức hấp dẫn độc đáo của văn hóa chợ đêm Đài Loan, cùng những câu chuyện lịch sử và ý nghĩa văn hóa của các món ăn tiêu biểu',
+    'map.markers.taiwanSensibilityKoreanPerspective.title':
+      'Cảm thức Đài Loan: mỹ học kiểu Đài Loan trong mắt người Hàn Quốc',
+    'map.markers.taiwanSensibilityKoreanPerspective.desc':
+      'Từ MV K-pop đến hội sách Seoul,「대만감성」đã biến cảnh phố thường nhật của Đài Loan thành biểu tượng thẩm mỹ quyến rũ bậc nhất châu Á như thế nào',
+    'map.markers.taiwanCulturalCreativeParks.title':
+      'Sự phát triển của các công viên văn hóa sáng tạo Đài Loan',
+    'map.markers.taiwanCulturalCreativeParks.desc':
+      'Từ tái sinh công trình cũ đến hình thành các cụm sáng tạo, tiến trình phát triển và mô hình đổi mới của các công viên văn hóa sáng tạo Đài Loan',
+    'map.markers.taiwanOldStreetCulture.title':
+      'Văn hóa phố cổ và các khu phố thương mại Đài Loan',
+    'map.markers.taiwanOldStreetCulture.desc':
+      'Từ sự phồn thịnh của các thương cảng thời Thanh đến những dãy nhà kiểu Tây mang phong cách Baroque thời Nhật trị, phố cổ Đài Loan là pho sử dân gian được viết bằng gạch ngói',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.title':
+      'Trà đạo Đài Loan và mỹ học đời sống',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.desc':
+      'Từ trà công phu đến mỹ học trà tịch, khám phá cách Đài Loan dung hòa và đổi mới văn hóa trà phương Đông với mỹ học đời sống bản địa',
+    'map.markers.taiwanStreetArtGraffiti.title':
+      'Nghệ thuật đường phố và văn hóa graffiti Đài Loan',
+    'map.markers.taiwanStreetArtGraffiti.desc':
+      'Từ graffiti ngầm đến tranh tường hợp pháp, những bức tường đô thị đã trở thành sân khấu sáng tác của các nghệ sĩ Đài Loan như thế nào',
+    'map.markers.taiwanIncenseMakingCulture.title':
+      'Văn hóa làm hương Đài Loan và quê hương của chân hương',
+    'map.markers.taiwanIncenseMakingCulture.desc':
+      'Từ kỹ nghệ làm chân hương trăm năm tại cộng đồng Vân Tiêu ở Chiayi đến ngành sản xuất hương trải khắp Đài Loan — một nghề cổ xưa gắn liền với lòng thành kính, tay nghề và sự kiên trì',
+    'map.markers.taiwanHomophoneTaboos.title':
+      'Văn hóa kiêng kỵ từ đồng âm tại Đài Loan: Vì sao số「四」khiến cả xã hội bỏ qua một tầng lầu?',
+    'map.markers.taiwanHomophoneTaboos.desc':
+      'Từ bệnh viện không có tầng bốn đến biển số 8888 được đấu giá với mức giá trên trời, mức độ nhạy cảm của người Đài Loan với từ đồng âm có thể xem là cao nhất thế giới',
+    'map.markers.hakkaCultureLanguage.title': 'Văn hóa và ngôn ngữ Khách Gia',
+    'map.markers.hakkaCultureLanguage.desc':
+      'Tinh thần ngạnh cảnh và Ngày Thiên Xuyên: Sự kế thừa văn hóa và công cuộc phục hưng hiện đại của người Khách Gia tại Đài Loan',
+    'map.markers.ethnicGroupsTaiwan.title':
+      'Các cộng đồng sắc tộc（Mân Nam, Khách Gia, thổ dân bản địa, người từ các tỉnh Trung Quốc và tân di dân）',
+    'map.markers.ethnicGroupsTaiwan.desc':
+      'Sự đa dạng sắc tộc của Đài Loan không chỉ là kết quả của tiến trình lịch sử mà còn là chìa khóa để thấu hiểu xã hội Đài Loan đương đại. Cấu trúc xã hội đa nguyên cùng tồn tại này vừa là nguồn cảm hứng cho sức sáng tạo văn hóa Đài Loan, vừa là nền tảng quan trọng cho sự phát triển chính trị dân chủ. Làm thế nào để xây dựng bản sắc Đài Loan chung trong khi vẫn tôn trọng đặc trưng văn hóa của từng cộng đồng là vấn đề quan trọng mà xã hội Đài Loan không ngừng đối diện.',
+    'map.markers.chinaSteel.title':
+      'China Steel: Huyền thoại gang thép của vị bộ trưởng cứng đầu và Mười công trình kiến thiết lớn',
+    'map.markers.chinaSteel.desc':
+      'Từ việc Triệu Diệu Đông (Chao Yao-tung) khôn khéo giành được công nghệ trong các cuộc đàm phán với Âu Mỹ đến làn khói trắng đầu tiên bay lên tại Tiểu Cảng, Cao Hùng, China Steel đã dành 50 năm xây dựng xương sống cho ngành công nghiệp nặng Đài Loan, trở thành viên ngọc thành công nhất của Mười công trình kiến thiết lớn',
+    'map.markers.taiwanCement.title':
+      'Taiwan Cement: Huyền thoại chuyển đổi xanh của công ty niêm yết đầu tiên tại Đài Loan',
+    'map.markers.taiwanCement.desc':
+      'Năm 1962, Sở Giao dịch Chứng khoán Đài Loan ra đời vì công ty này, còn mã cổ phiếu 1101 tượng trưng cho nguồn cội của thị trường chứng khoán Đài Loan. Qua ba thế hệ gia tộc họ Cô điều hành suốt 76 năm, Taiwan Cement đã dùng từng lò nung xi măng để chứng kiến kỳ tích kiến thiết Đài Loan, nay chuyển mình thành doanh nghiệp xanh nhằm đón đầu kỷ nguyên trung hòa carbon',
+    'map.markers.tsmc.title': 'Doanh nghiệp Đài Loan: TSMC',
+    'map.markers.tsmc.desc':
+      'Doanh nghiệp dẫn đầu thế giới về gia công chip, nắm giữ huyết mạch then chốt của nền văn minh số nhân loại',
+    'map.markers.chimeiCorporation.title':
+      'Chi Mei Corporation: Vương quốc acrylic và giấc mơ bảo tàng của Hứa Văn Long',
+    'map.markers.chimeiCorporation.desc':
+      'Khởi đầu từ một nhà máy nhỏ tại Nhân Đức, Đài Nam vào năm 1960, Hứa Văn Long (Shi Wen-long) đã dành cả đời gây dựng vương quốc vật liệu ABS lớn nhất châu Á, đồng thời thành lập Bảo tàng Chi Mei để cống hiến cho xã hội. Câu chuyện chứng minh doanh nghiệp Đài Loan có thể đồng thời đạt thành công thương mại và đề cao tinh thần nhân văn',
+    'map.markers.acer.title':
+      'Tập đoàn Acer - Nhà tiên phong cải cách ngành PC',
+    'map.markers.acer.desc':
+      'Nhà tiên phong máy tính cá nhân khởi nghiệp tại Đào Viên, Đài Loan đã sáng tạo mô hình kinh doanh「đa thương hiệu, đa kênh phân phối」, trở thành động lực cải cách ngành PC toàn cầu',
+    'map.markers.giantBicycles.title':
+      'Doanh nghiệp Đài Loan: Giant Manufacturing',
+    'map.markers.giantBicycles.desc':
+      'Từ kẻ gia công lệ thuộc bị tập đoàn lớn của Mỹ ruồng bỏ đến đế chế vô hình thiết lập các tiêu chuẩn công nghệ xe đạp toàn cầu',
+    'map.markers.quantaComputer.title':
+      'Doanh nghiệp Đài Loan: Quanta Computer',
+    'map.markers.quantaComputer.desc':
+      'Từ vụ cháy nhà máy đến ngôi vương máy tính xách tay toàn cầu, Lâm Bách Lý (Barry Lam) đã xây dựng đế chế mới của kỷ nguyên AI như thế nào?',
+    'map.markers.aseGroup.title': 'Doanh nghiệp Đài Loan: ASE Semiconductor',
+    'map.markers.aseGroup.desc':
+      'Doanh nghiệp đóng gói và kiểm thử bán dẫn lớn nhất thế giới: Vì sao một ông chủ công ty xây dựng lại chuyển sang ngành bán dẫn?',
+    'map.markers.esunFinancialHolding.title':
+      'Doanh nghiệp Đài Loan: E.Sun Financial Holding',
+    'map.markers.esunFinancialHolding.desc':
+      'Từ ngân hàng chuyên về thẻ tín dụng đến tiên phong tài chính số, câu chuyện đột phá của vị tổng giám đốc tập đoàn tài chính trẻ nhất ở tuổi 43',
+    'map.markers.changChunPetrochemical.title':
+      'Doanh nghiệp Đài Loan: Chang Chun Petrochemical',
+    'map.markers.changChunPetrochemical.desc':
+      'Từ nhà máy nhỏ tại Đài Nam năm 1949 đến tập đoàn hóa chất toàn cầu, câu chuyện về nhà vô địch ẩn mình「không niêm yết, không vay tiền」',
+    'map.markers.formosaPlasticsGroup.title':
+      'Doanh nghiệp Đài Loan: Evergreen Marine',
+    'map.markers.formosaPlasticsGroup.desc':
+      'Từ một con tàu cũ đến đế chế vận tải biển toàn cầu, huyền thoại đại dương xanh của Trương Vinh Phát (Chang Yung-fa)',
+    'map.markers.taipeiFubon.title':
+      'Kinh tế học chợ đêm: Một kỳ tích kinh doanh không thương hiệu',
+    'map.markers.taipeiFubon.desc':
+      'Khám phá cách các chợ đêm Đài Loan tạo nên kỳ tích kinh tế với giá trị sản lượng hằng năm gần 4000 tỷ dù không có thương hiệu, trang trí cửa hàng hay địa điểm cố định',
+    'map.markers.taiwan7Eleven.title': 'Ngành cà phê Đài Loan',
+    'map.markers.taiwan7Eleven.desc':
+      'Từ nguồn gốc canh tác dưới thời Nhật Bản cai trị đến chức vô địch thế giới của Simple Kaffa, lịch sử tiến hóa trăm năm của cà phê Đài Loan',
+    'map.markers.taiwanHighSpeedRail.title':
+      'Bản đồ đặc sản địa phương Đài Loan',
+    'map.markers.taiwanHighSpeedRail.desc':
+      'Từ canh đỉnh biên hồ ở khu miếu Khẩu, Cơ Long đến chân giò Vạn Loan, Bình Đông, từ thịt viên Tân Trúc đến mãng cầu Đài Đông, mỗi thành phố đều có DNA hương vị riêng. Hãy theo chân người bản địa khám phá những món ăn địa phương tiêu biểu nhất tại 22 huyện, thành phố của Đài Loan và thưởng thức văn hóa bình dân chân thực nhất trên hòn đảo.',
+    'map.markers.taiwanSemiconductorIndustry.title':
+      'Món sở trường Đài Loan: Ký ức vị giác đang dần biến mất',
+    'map.markers.taiwanSemiconductorIndustry.desc':
+      'Từ gà bạc hà Chiayi đến canh thái vĩ, những món sở trường của bà lưu giữ ký ức gia đình nhưng đang dần thất truyền giữa biến thiên thời đại',
+    'map.markers.taiwanBankingSystem.title':
+      'Sự giao thoa ẩm thực của tân di dân Đài Loan',
+    'map.markers.taiwanBankingSystem.desc':
+      'Khi vị chua cay Thái Lan gặp vị ngọt mặn Đài Loan, khi phở Việt Nam hội ngộ món kho kiểu Đài, khi gia vị Indonesia hòa quyện cùng nguyên liệu bản địa, một cuộc cách mạng vị giác vượt biên giới đang âm thầm diễn ra tại Đài Loan. Những tân di dân không chỉ mang đến món ăn quê hương mà còn mở ra những khả năng hoàn toàn mới, làm phong phú văn hóa ẩm thực Đài Loan.',
+    'map.markers.taiwanSmes.title': 'Vương quốc trái cây Đài Loan',
+    'map.markers.taiwanSmes.desc':
+      'Từ xoài, vải đến mãng cầu, mận roi, huyền thoại ngọt ngào về sự đa dạng của trái cây nhiệt đới và những đột phá trong công nghệ nông nghiệp',
+    'map.markers.youbikePublicBikeSystem.title': 'Văn hóa hải sản Đài Loan',
+    'map.markers.youbikePublicBikeSystem.desc':
+      'Hải sản tươi giao thẳng từ cảng cá, văn hóa nhà hàng hải sản và các món đậm vị biển như hàu chiên trứng thể hiện đặc trưng hải đảo bốn bề giáp biển cùng truyền thống ẩm thực hải sản phong phú của Đài Loan',
+    'map.markers.taiwanFoodBeverageIndustry.title':
+      'Michelin Đài Loan và ẩm thực cao cấp',
+    'map.markers.taiwanFoodBeverageIndustry.desc':
+      'Năm 2018, bìa đỏ của Cẩm nang Michelin lần đầu tiên in dòng chữ「TAIPEI」, đánh dấu ngành ẩm thực Đài Loan chính thức bước vào hệ thống đánh giá quốc tế. Từ hàng quán ven đường đến nhà hàng được gắn sao, từ món ăn bình dân đến ẩm thực cao cấp, văn hóa ẩm thực Đài Loan phô diễn diện mạo quyến rũ vừa truyền thống vừa sáng tạo trên sân khấu quốc tế.',
+    'map.markers.taiwanAgriculturalReform.title': 'Văn hóa chợ đêm',
+    'map.markers.taiwanAgriculturalReform.desc':
+      '164 chợ đêm được quản lý, tại Đài Nam trung bình cứ 3.8 vạn người lại có một chợ đêm, từ sân miếu đến điểm tham quan quốc tế',
+    'map.markers.taiwanTeaIndustry.title': 'Văn hóa ẩm thực Khách Gia',
+    'map.markers.taiwanTeaIndustry.desc':
+      'Văn hóa ẩm thực phong phú và đa dạng của người Khách Gia, từ hương vị đậm đà của trà lôi đến phong vị núi rừng của bánh ú hoa dã khương, thể hiện trí tuệ đời sống cần kiệm, vun vén gia đình và tận dụng nguyên liệu tại chỗ của cộng đồng Khách Gia',
+    'map.markers.taiwanFishingIndustry.title': 'Mì bò',
+    'map.markers.taiwanFishingIndustry.desc':
+      'Từ nỗi hoài hương của người di cư từ các tỉnh Trung Quốc đến món ăn quốc dân Đài Loan, sự giao thoa văn hóa và hương thơm lan tỏa toàn cầu của mì bò',
+    'map.markers.taiwanFruitIndustry.title': 'Văn hóa trà',
+    'map.markers.taiwanFruitIndustry.desc':
+      'Sự phát triển văn hóa trà Đài Loan từ nghệ thuật trà truyền thống đến đồ uống pha lắc hiện đại, thể hiện các giống trà và văn hóa thưởng trà độc đáo của hòn đảo',
+    'map.markers.taiwanRiceVarieties.title':
+      'Trên hòn đảo rung chuyển, họ đã dựng nên một tòa tháp có thể bay',
+    'map.markers.taiwanRiceVarieties.desc':
+      'Chỉ cách đứt gãy đang hoạt động 200 mét, người Đài Loan vẫn quyết xây tòa nhà cao nhất thế giới trên vùng đất bất ổn nhất——rồi một kẻ điên đã tay không trèo lên đó trong 91 phút.',
+    'map.markers.nightMarketCulture.title':
+      'Năm dạng địa hình lớn và cấu trúc địa lý Đài Loan: Diện mạo hải đảo từ núi non đến đồng bằng',
+    'map.markers.nightMarketCulture.desc':
+      'Khám phá cấu trúc địa lý độc đáo của Đài Loan, từ dãy núi Trung Ương đến đồng bằng phía tây, tìm hiểu sự đa dạng địa hình của hòn đảo này',
+    'map.markers.bubbleTeaGlobalPhenomenon.title':
+      'Mạng lưới giao thông vận tải Đài Loan',
+    'map.markers.bubbleTeaGlobalPhenomenon.desc':
+      'Đường sắt cao tốc, metro, đường bộ và hàng không đan thành mạng lưới giao thông đa tầng đưa Đài Loan chuyển động',
+    'map.markers.taiwanBeefNoodle.title':
+      'Hệ thống khu thắng cảnh quốc gia Đài Loan',
+    'map.markers.taiwanBeefNoodle.desc':
+      'Từ Đông Bắc Giác đến Khẩn Đinh, 13 khu thắng cảnh quốc gia của Đài Loan thể hiện cảnh quan thiên nhiên và nhân văn phong phú',
+    'map.markers.taiwanHotPotCulture.title':
+      'Đặc trưng và quá trình hình thành địa lý đảo Đài Loan',
+    'map.markers.taiwanHotPotCulture.desc':
+      'Khám phá những đặc trưng địa lý đảo độc đáo của Đài Loan, từ vận động kiến tạo mảng đến cấu trúc địa hình, qua đó tìm hiểu những bí ẩn tự nhiên của đảo Formosa',
+    'map.markers.taiwanFineDining.title':
+      'Vận động kiến tạo mảng và hoạt động động đất tại Đài Loan',
+    'map.markers.taiwanFineDining.desc':
+      'Tìm hiểu đặc điểm địa chất của Đài Loan tại ranh giới giữa mảng Á-Âu và mảng biển Philippines, cũng như nguyên nhân dẫn đến hoạt động động đất thường xuyên',
+    'map.markers.taiwanStreetFood.title':
+      'Hồ chứa và quản lý tài nguyên nước tại Đài Loan',
+    'map.markers.taiwanStreetFood.desc':
+      'Từ khủng hoảng thiếu nước đến bồi lắng hồ chứa, những thách thức đối với tài nguyên nước Đài Loan và tình trạng phân bổ không đồng đều giữa miền bắc và miền nam',
+    'map.markers.taiwanVegetarianCulture.title':
+      'Hệ thống sông ngòi và đặc trưng thủy văn Đài Loan: dòng chảy ngắn, xiết và biến đổi theo mùa',
+    'map.markers.taiwanVegetarianCulture.desc':
+      'Khám phá hệ thống sông ngòi độc đáo của Đài Loan, từ sông Trạc Thủy đến sông Cao Bình, qua đó tìm hiểu cách địa hình đảo định hình các đặc trưng thủy văn của Đài Loan',
+    'map.markers.taiwanCoffeeCulture.title':
+      'Địa hình bờ biển và cảnh quan đại dương Đài Loan',
+    'map.markers.taiwanCoffeeCulture.desc':
+      'Từ bờ biển mũi-vịnh ở miền bắc đến bờ biển đứt gãy ở miền đông, địa hình bờ biển phong phú và đa dạng của Đài Loan phô bày kỳ công của vận động kiến tạo mảng',
+    'map.markers.taiwanSnackCulture.title': 'Cảnh quan suối nước nóng Đài Loan',
+    'map.markers.taiwanSnackCulture.desc':
+      'Bắc Đầu, Tri Bản, Tiêu Khê — nơi văn hóa suối nước nóng giao hòa tuyệt đẹp với khoa học địa chất',
+    'map.markers.taiwanSeafoodCulture.title':
+      'Điểm nóng đa dạng sinh thái Đài Loan',
+    'map.markers.taiwanSeafoodCulture.desc':
+      'Hòn đảo rộng 3.6 vạn km² quy tụ 5.9 vạn loài sinh vật, với mật độ gấp 100 lần mức trung bình toàn cầu',
+    'map.markers.taiwanPineappleCake.title':
+      'Cảnh quan nông nghiệp và phân bố ngành sản xuất tại Đài Loan',
+    'map.markers.taiwanPineappleCake.desc':
+      'Sự biến đổi cảnh quan nông nghiệp từ bắc xuống nam cho thấy hành trình chuyển mình của Đài Loan từ 「vựa lúa Đài Loan」 sang 「nông nghiệp tinh hoa」',
+    'map.markers.taiwanPorkRibSoup.title':
+      'Phát triển đô thị và khoảng cách thành thị-nông thôn tại Đài Loan',
+    'map.markers.taiwanPorkRibSoup.desc':
+      'Sự phát triển không đồng đều giữa thành thị và nông thôn Đài Loan trong cục diện sáu đô thị trực thuộc, cùng quá trình chuyển đổi không gian từ một Đài Loan nông nghiệp sang một Đài Loan đô thị',
+    'map.markers.taiwanOysterOmelette.title': 'Địa hình và địa chất',
+    'map.markers.taiwanOysterOmelette.desc':
+      'Hòn đảo 600 vạn năm tuổi lưu giữ ký ức cổ xưa suốt 2 ức năm — kỳ tích của vành đai tạo sơn trẻ nhất thế giới và sự va chạm kiến tạo mảng dữ dội nhất',
+    'map.markers.taiwanBreakfastCulture.title':
+      'Đặc trưng đô thị và văn hóa vùng miền',
+    'map.markers.taiwanBreakfastCulture.desc':
+      'Từ đô thị quốc tế Đài Bắc đến phong vị cố đô Đài Nam, các thành phố Đài Loan đã định hình bản sắc địa phương độc đáo như thế nào',
+    'map.markers.taiwanConvenienceStoreFood.title':
+      'Hải đảo và văn hóa đại dương: từ mật độ đăng đá bắt cá cao nhất thế giới đến luật sinh thái mùa cá chuồn',
+    'map.markers.taiwanConvenienceStoreFood.desc':
+      'Toàn thế giới có chưa đến 600 đăng đá bắt cá, riêng Bành Hồ đã có 574. Một cộng đồng dân tộc trên đảo chuyên đánh bắt cá chuồn đã biến những điều cấm kỵ thành hệ thống quản lý tài nguyên biển tinh vi nhất',
+    'map.markers.dutchSpanishColonialPeriod.title':
+      'Sự kiện 28 tháng 2 và Khủng bố Trắng: sang chấn và ký ức dưới chế độ uy quyền tại Đài Loan',
+    'map.markers.dutchSpanishColonialPeriod.desc':
+      'Từ Sự kiện 28 tháng 2 năm 1947 đến chế độ thiết quân luật kéo dài 38 năm, Đài Loan đã trải qua bạo lực nhà nước dưới ách cai trị uy quyền; chỉ sau khi dỡ bỏ thiết quân luật, xã hội mới bắt đầu đối diện với sang chấn lịch sử và thúc đẩy công lý chuyển tiếp.',
+    'map.markers.zhengDynastyPeriod.title':
+      'Khủng hoảng eo biển Đài Loan và sự phát triển quan hệ hai bờ',
+    'map.markers.zhengDynastyPeriod.desc':
+      'Nhìn lại ba cuộc khủng hoảng lớn tại eo biển Đài Loan và tiến trình hơn bảy mươi năm phát triển quan hệ hai bờ, qua đó hiểu rõ bối cảnh lịch sử và những thách thức đương đại của tình hình eo biển',
+    'map.markers.qingDynastyTaiwanHistory.title':
+      'Lịch sử thương mại hàng hải Đài Loan',
+    'map.markers.qingDynastyTaiwanHistory.desc':
+      'Đài Loan trong Thời đại Khám phá, với huyền thoại thăng trầm từ trung tâm thương mại quốc tế đến vương quốc hải tặc',
+    'map.markers.japaneseColonialRule.title':
+      'Lịch sử các làng quân nhân Đài Loan',
+    'map.markers.japaneseColonialRule.desc':
+      'Từ đội quân cô độc ở Miến Điện đến vương quốc hàng rào tre, cuộc đại di cư của 120 vạn người đã định nghĩa lại 「nhà」 như thế nào',
+    'map.markers.februaryTwentyEightIncident.title':
+      'Lịch sử đường sắt Đài Loan',
+    'map.markers.februaryTwentyEightIncident.desc':
+      'Từ Lưu Minh Truyền thời nhà Thanh, tuyến đường sắt dọc đảo thời Nhật trị đến đường sắt cao tốc, đường sắt đã định hình sự phát triển đô thị và ký ức văn hóa Đài Loan như thế nào',
+    'map.markers.martialLawPeriod.title':
+      'Chính phủ Quốc dân dời sang Đài Loan và công cuộc tái thiết hậu chiến',
+    'map.markers.martialLawPeriod.desc':
+      'Tìm hiểu bối cảnh lịch sử, quá trình và tác động của việc Chính phủ Quốc dân dời sang Đài Loan năm 1949, cũng như công cuộc tái thiết chính trị, kinh tế và xã hội tại Đài Loan sau chiến tranh',
+    'map.markers.democratization.title': 'Thời kỳ Nhật trị',
+    'map.markers.democratization.desc':
+      'Trong 50 năm Nhật Bản cai trị Đài Loan từ 1895-1945, chính quyền đã tiến hành hiện đại hóa toàn diện và quản lý theo thể chế, đồng thời thực thi chính sách đồng hóa, tác động sâu sắc đến sự phát triển xã hội Đài Loan',
+    'map.markers.taiwanIndependenceMovement.title': 'Thời kỳ Thanh trị',
+    'map.markers.taiwanIndependenceMovement.desc':
+      'Trong khoảng 212 năm nhà Thanh cai trị Đài Loan từ 1683-1895, chính sách chuyển từ quản lý thụ động sang xây dựng tích cực, đặt nền móng cho phân chia hành chính Đài Loan hiện đại và xã hội người Hán',
+    'map.markers.taiwanChinaRelations.title':
+      'Thời kỳ Hà Lan, Tây Ban Nha và Minh-Trịnh',
+    'map.markers.taiwanChinaRelations.desc':
+      'Lần đầu tiên trong lịch sử Đài Loan xuất hiện chế độ thuộc địa có hệ thống, từ khi người Hà Lan xây dựng thành Zeelandia đến khi Trịnh Thành Công (Koxinga) khai phá Đài Loan, đặt nền móng cho sự di cư của người Hán và hệ thống chính trị',
+    'map.markers.taiwanUsRelations.title': 'Văn hóa cửa hàng tiện lợi',
+    'map.markers.taiwanUsRelations.desc':
+      'Các cửa hàng tiện lợi Đài Loan có mật độ cao nhất thế giới đã chuyển mình từ điểm bán lẻ thành hệ điều hành đời sống của cả một quốc gia như thế nào',
+    'map.markers.taiwanInternationalStatus.title':
+      'Hệ thống giao thông Đài Loan',
+    'map.markers.taiwanInternationalStatus.desc':
+      'Đường sắt cao tốc xuyên suốt bắc-nam trong 90 phút, tàu điện ngầm dệt kín huyết mạch đô thị, xe máy len lỏi giữa những ngõ hẻm',
+    'map.markers.taiwanHistoricalFigures.title':
+      'Văn hóa cửa hàng tiện lợi Đài Loan',
+    'map.markers.taiwanHistoricalFigures.desc':
+      'Vương quốc cửa hàng tiện lợi có mật độ cao nhất thế giới, với những đổi mới bản địa hóa của 7-11 và FamilyMart, đã định nghĩa lại lối sống hiện đại',
+    'map.markers.taiwanPoliticalFigures.title':
+      'Công viên và hoạt động thư giãn thường nhật tại Đài Loan',
+    'map.markers.taiwanPoliticalFigures.desc':
+      'Từ tập thái cực quyền lúc bình minh đến tản bộ ban đêm——góc nhìn văn hóa về công viên Đài Loan như không gian giao lưu liên thế hệ',
+    'map.markers.kuomintangHistory.title': 'Văn hóa cà phê Đài Loan',
+    'map.markers.kuomintangHistory.desc':
+      'Nằm trong ba nơi có mật độ quán cà phê độc lập cao nhất thế giới, từ hạt cà phê A Lý Sơn đến văn hóa làm việc tại quán — một nền cà phê học của đảo',
+    'map.markers.democraticProgressivePartyHistory.title':
+      'Hòn đảo đuổi theo xe rác: Đài Loan từ khủng hoảng rác thải đến kỳ tích tái chế',
+    'map.markers.democraticProgressivePartyHistory.desc':
+      'Một nơi từng có 400 bãi chôn lấp sắp đầy vào thập niên 1990 và bị truyền thông quốc tế gọi là 「đảo rác」 đã dùng âm nhạc của Beethoven để 2,300 vạn người đuổi theo xe rác mỗi ngày; 30 năm sau, tỷ lệ tái chế tài nguyên vượt qua phần lớn các nước châu Âu',
+    'map.markers.taipeiHistory.title':
+      'Lịch sử phát triển tàu điện ngầm Đài Loan: thuyết tiến hóa đô thị được viết bằng máu và tiền',
+    'map.markers.taipeiHistory.desc':
+      'Dầm thép nặng 209 tấn từ trên trời rơi xuống cướp đi 4 sinh mạng, khoản bồi thường 16.4 ức, hoạt động cốt lõi của tàu điện ngầm Đài Bắc đến nay vẫn thua lỗ——cái giá thực sự phía sau hệ thống tàu điện ngầm toàn Đài Loan',
+    'map.markers.taiwanPrehistoricCulture.title':
+      'Hệ thống giáo dục Đài Loan: cuộc thử nghiệm trên đảo từ địa ngục thi tuyển chung đến mê cung đa dạng',
+    'map.markers.taiwanPrehistoricCulture.desc':
+      'Đài Loan dành 30 năm để tìm cách phá bỏ chế độ thi tuyển chung, nhưng kỳ thi phân ban mới nhất lại khiến số học viên đăng ký các lớp luyện thi lại tăng gấp đôi. Một hòn đảo đã liên tục tiến hành những thử nghiệm xã hội giữa áp lực học lên và công bằng giáo dục như thế nào?',
+    'map.markers.taiwanIndigenousHistory.title': 'Văn hóa xe máy Đài Loan',
+    'map.markers.taiwanIndigenousHistory.desc':
+      'Vương quốc đảo có mật độ xe máy thuộc nhóm cao nhất thế giới, với quá trình phát triển văn hóa từ phương tiện đi lại hằng ngày thành lối sống',
+    'map.markers.taiwanMilitaryHistory.title':
+      'Văn hóa hành lang mái vòm và cảnh quan đường phố Đài Loan',
+    'map.markers.taiwanMilitaryHistory.desc':
+      'Hành lang sinh hoạt che mưa chắn gió, nơi xe máy, hàng rong và tình người đan xen thành ký ức đường phố Đài Loan',
+    'map.markers.taiwanWomenHistory.title': 'Đời sống về đêm và văn hóa KTV',
+    'map.markers.taiwanWomenHistory.desc':
+      'Từ phòng hát Cashbox Partyworld đến quán ăn đêm, đời sống về đêm trên hòn đảo không ngủ suốt 24 giờ',
+    'map.markers.taiwanEducationHistory.title':
+      'Tôn giáo và tín ngưỡng dân gian: từ quản trị nỗi sợ đến đế chế đức tin',
+    'map.markers.taiwanEducationHistory.desc':
+      'Đài Loan có mật độ đền miếu cao nhất thế giới, đồng thời đứng đầu thế giới về tự do tôn giáo——đằng sau nghịch lý này là trí tuệ sinh tồn của những di dân quân sự từ thế kỷ 17',
+    'map.markers.taiwanReligiousHistory.title': 'Văn hóa suối nước nóng',
+    'map.markers.taiwanReligiousHistory.desc':
+      'Từ nơi điều dưỡng quân sự đến một trong ba suối bùn lớn nhất thế giới: câu chuyện Đài Loan bất ngờ trở thành vương quốc suối nước nóng',
+    'map.markers.taiwanMediaHistory.title':
+      'Truyền thống âm nhạc của các dân tộc bản địa Đài Loan',
+    'map.markers.taiwanMediaHistory.desc':
+      'Khám phá nền văn hóa âm nhạc phong phú của 16 dân tộc bản địa Đài Loan, từ lối ngâm hát cổ truyền đến nhạc cụ truyền thống, chứng kiến di sản văn hóa được lưu truyền suốt hàng nghìn năm',
+    'map.markers.badmintonChampions.title':
+      'Ngành chế tạo nhạc cụ Đài Loan: từ saxophone Hậu Lý đến công xưởng âm nhạc toàn cầu',
+    'map.markers.badmintonChampions.desc':
+      'Khám phá quá trình phát triển của ngành chế tạo nhạc cụ Đài Loan, từ vị thế thống trị toàn cầu của saxophone Hậu Lý, vương quốc gia công guitar đến kỹ nghệ chế tác hộp nhạc tinh xảo, cùng hành trình Đài Loan chuyển từ gia công sang xây dựng thương hiệu riêng',
+    'map.markers.baseballCulture.title': 'Phong trào dân ca Đài Loan',
+    'map.markers.baseballCulture.desc':
+      'Từ «hát những bài ca của chính mình» đến thay đổi toàn bộ nền âm nhạc Hoa ngữ——cuộc cách mạng văn hóa của giới trẻ trong thập niên 1970',
+    'map.markers.taiwanBasketball.title':
+      'Sự chuyển mình của đời sống âm nhạc độc lập Đài Loan',
+    'map.markers.taiwanBasketball.desc':
+      'Từ ban nhạc ngầm đến âm nhạc độc lập, khám phá hành trình phát triển ba mươi năm và ý nghĩa văn hóa của âm nhạc phi chính thống Đài Loan',
+    'map.markers.marathonRunning.title':
+      'Âm nhạc điện tử và văn hóa tiệc tùng Đài Loan: từ Rave ngầm đến sân khấu quốc tế',
+    'map.markers.marathonRunning.desc':
+      'Từ văn hóa tiệc Rave thập niên 1990 đến lễ hội nhạc điện tử Road to Ultra, âm nhạc điện tử Đài Loan đã đi từ thế giới ngầm ra dòng chính, nuôi dưỡng các DJ đẳng cấp quốc tế và hãng đĩa điện tử độc lập như thế nào',
+    'map.markers.taiwanEsports.title':
+      'Văn hóa lễ hội âm nhạc Đài Loan: từ Spring Scream đến phương tiện chuyên chở văn hóa thanh niên nở rộ khắp nơi',
+    'map.markers.taiwanEsports.desc':
+      'Khám phá hành trình phát triển của các lễ hội âm nhạc Đài Loan, từ Spring Scream, Lễ hội Âm nhạc Đại dương đến Megaport Festival, cùng cách chúng trở thành vườn ươm ban nhạc độc lập và nền tảng biểu đạt cốt lõi của văn hóa thanh niên',
+    'map.markers.taiwanOlympics.title':
+      'Đời sống âm nhạc độc lập Đài Loan đương đại',
+    'map.markers.taiwanOlympics.desc':
+      'Từ các buổi biểu diễn ngầm đến hệ sinh thái công nghiệp, phân tích tiến trình phát triển và sức ảnh hưởng văn hóa của hệ sinh thái âm nhạc độc lập Đài Loan hiện đại',
+    'map.markers.taipeiCycle.title':
+      'Trí tuệ sinh thái và bảo tồn môi trường của các dân tộc bản địa Đài Loan',
+    'map.markers.taipeiCycle.desc':
+      'Tìm hiểu tri thức sinh thái truyền thống được các dân tộc bản địa Đài Loan tích lũy suốt hàng nghìn năm, cùng giá trị quan trọng và phương thức thực hành trong công cuộc bảo tồn môi trường hiện đại',
+    'map.markers.taiwanBetelNutCulture.title':
+      'Núi non và văn hóa leo núi Đài Loan',
+    'map.markers.taiwanBetelNutCulture.desc':
+      '268 ngọn núi cao ba nghìn mét và văn hóa Bách Nhạc: sự phát triển của phong trào leo núi Đài Loan và những thách thức trong bảo tồn núi rừng',
+    'map.markers.taiwanElections.title': 'Hệ sinh thái rừng Đài Loan',
+    'map.markers.taiwanElections.desc':
+      'Từ bờ biển cận nhiệt đới đến rừng lá kim vùng núi cao, thế giới rừng phong phú trong chênh lệch độ cao 3000 mét của Đài Loan',
+    'map.markers.taiwanLgbtCulture.title':
+      'Biến đổi khí hậu và chuyển đổi phát thải ròng bằng 0 tại Đài Loan',
+    'map.markers.taiwanLgbtCulture.desc':
+      'Đài Loan đang đối mặt với tác động của biến đổi khí hậu, từ hiện tượng thời tiết cực đoan xảy ra thường xuyên đến kế hoạch chính sách nhằm đạt mục tiêu phát thải carbon ròng bằng 0 vào năm 2050, qua đó tìm hiểu những cơ hội và thách thức trong quá trình chuyển đổi năng lượng',
+    'map.markers.taiwanMotorcycleCulture.title':
+      'Bảo tồn biển Đài Loan: vì sao hệ thống được xây dựng suốt 30 năm không thể cứu nổi một đợt tẩy trắng san hô?',
+    'map.markers.taiwanMotorcycleCulture.desc':
+      'Năm 2020, vùng biển Đài Loan trải qua đợt tẩy trắng san hô lớn nhất trong lịch sử. Từ Tiểu Lưu Cầu đến rạn san hô vòng Đông Sa, ngay cả san hô trong các khu bảo tồn cũng chết vì nhiệt độ cao. Điều này phơi bày những vấn đề gì?',
+    'map.markers.taipeiMrt.title':
+      'Quản lý ô nhiễm biển và thách thức bảo tồn tại Đài Loan',
+    'map.markers.taipeiMrt.desc':
+      'Trước rác thải biển, tình trạng đánh bắt quá mức và biến đổi khí hậu, tìm hiểu thực trạng, thách thức cùng các giải pháp sáng tạo trong công cuộc bảo tồn biển tại Đài Loan',
+    'map.markers.kaohsiungMrt.title': 'Sinh thái biển Đài Loan',
+    'map.markers.kaohsiungMrt.desc':
+      'Vùng biển được người Tao bảo vệ bằng những điều cấm kỵ nay đang tẩy trắng giữa nhiệt độ cao và tiếng ồn dưới nước: khi trí tuệ sinh thái hàng nghìn năm đối mặt với khủng hoảng đại dương hiện đại',
+    'map.markers.taichungMrt.title':
+      'Sinh thái biển và bảo tồn rạn san hô Đài Loan',
+    'map.markers.taichungMrt.desc':
+      'Đài Loan bốn bề giáp biển và sở hữu hệ sinh thái biển phong phú; từ khủng hoảng tẩy trắng rạn san hô đến bảo tồn cá voi và cá heo, tìm hiểu hiệu quả bảo vệ của các công viên quốc gia biển cùng những thách thức trong tương lai',
+    'map.markers.taiwanTrainSystem.title':
+      'Suối nước nóng và địa nhiệt Đài Loan',
+    'map.markers.taiwanTrainSystem.desc':
+      'Từ nhà máy điện địa nhiệt thất bại 30 năm trước đến đá Bắc Đầu duy nhất trên thế giới: một hòn đảo đã biến ngọn lửa dưới lòng đất thành liệu pháp chữa lành và điện xanh như thế nào',
+    'map.markers.taiwanBusSystem.title': 'Bảo tồn mèo báo Đài Loan',
+    'map.markers.taiwanBusSystem.desc':
+      'Loài mèo ma chỉ còn chưa đến năm trăm cá thể trên toàn Đài Loan——khi loài mèo bản địa cuối cùng tiến đến bờ vực biến mất',
+    'map.markers.taiwanInnovationEcosystem.title': 'Tê tê Đài Loan',
+    'map.markers.taiwanInnovationEcosystem.desc':
+      'Loài thú bị buôn lậu nhiều nhất thế giới đã tìm thấy một mái nhà an toàn tại Đài Loan',
+    'map.markers.taiwanMedicalSystem.title':
+      'Hệ sinh thái núi cao và các loài sót lại từ thời băng hà tại Đài Loan',
+    'map.markers.taiwanMedicalSystem.desc':
+      'Tìm hiểu hệ sinh thái độc đáo ở vùng núi cao trên 3000 mét của Đài Loan, từ sam Đài Loan, đỗ quyên Ngọc Sơn đến sự đa dạng sinh học quý giá của các loài sót lại từ thời băng hà',
+    'map.markers.taiwanEducationSystem.title': 'Gấu đen Đài Loan',
+    'map.markers.taiwanEducationSystem.desc':
+      'Chữ V màu trắng trước ngực là dấu ấn của loài——vị vua cuối cùng của núi rừng Đài Loan và cuộc chiến bảo tồn vẫn chưa kết thúc',
+    'map.markers.taiwanMusicIndustry.title': 'Công viên quốc gia',
+    'map.markers.taiwanMusicIndustry.desc':
+      '36,197 kilômét vuông chứa 9 công viên quốc gia, kỳ tích bảo tồn có mật độ cao nhất thế giới',
+    'map.markers.mandarinPopMusic.title': 'Các công viên quốc gia Đài Loan',
+    'map.markers.mandarinPopMusic.desc':
+      'Khám phá hệ sinh thái độc đáo và giá trị bảo tồn của chín công viên quốc gia Đài Loan, từ bờ biển cận nhiệt đới đến đường tuyết vùng núi cao, tạo nên một cảnh quan toàn vẹn',
+    'map.markers.taiwaneseIndieMusic.title': 'Các loài đặc hữu',
+    'map.markers.taiwaneseIndieMusic.desc':
+      'Nguồn sinh vật đặc hữu phong phú của Đài Loan thể hiện kỳ tích tiến hóa của địa sinh học hải đảo và tầm quan trọng của công tác bảo tồn',
+    'map.markers.taiwanRapHipHop.title': 'Đa dạng sinh thái',
+    'map.markers.taiwanRapHipHop.desc':
+      'Diện tích Đài Loan chỉ chiếm 0.025% toàn cầu nhưng có hơn 5 vạn loài sinh vật, với tỷ lệ che phủ rừng 60.71%, đứng thứ 33 thế giới',
+    'map.markers.taiwanElectronicMusic.title': 'Cá voi và cá heo tại Đài Loan',
+    'map.markers.taiwanElectronicMusic.desc':
+      'Môi trường sống của một phần ba số loài cá voi và cá heo trên toàn cầu——từ săn bắt cá voi trong quá khứ đến ngắm cá voi ngày nay, Đài Loan đã chuyển mình thành trung tâm nghiên cứu sinh thái biển như thế nào?',
+    'map.markers.taiwanTraditionalMusic.title': 'Mayday',
+    'map.markers.taiwanTraditionalMusic.desc':
+      'Từ Trường Trung học trực thuộc Đại học Sư phạm Quốc gia Đài Loan vươn ra sân khấu thế giới, những chàng trai mãi tuổi thanh xuân đã định hình tinh thần rock Hoa ngữ',
+    'map.markers.taiwanFilmIndustry.title': 'Wu Bai',
+    'map.markers.taiwanFilmIndustry.desc':
+      'Báu vật quốc gia của rock Đài Loan, biểu tượng của nhạc rock bản địa, khẳng định vị thế trong làng rock bằng các tác phẩm như «Rừng Na Uy»',
+    'map.markers.newTaiwanCinema.title': 'Ngô Bảo Xuân (Wu Pao-chun)',
+    'map.markers.newTaiwanCinema.desc':
+      'Nhà vô địch cuộc thi bánh mì thế giới, gây tiếng vang quốc tế với bánh mì vải thiều hoa hồng, từ miền quê Bình Đông vươn lên hàng ngũ nghệ nhân làm bánh hàng đầu thế giới',
+    'map.markers.taiwanDocumentary.title': 'Lữ Tú Liên (Annette Lu)',
+    'map.markers.taiwanDocumentary.desc':
+      'Từ tội phạm phản loạn đến phó tổng thống: cuộc đời huyền thoại của nữ phó tổng thống đầu tiên trong thế giới Hoa ngữ',
+    'map.markers.taiwanAnimationIndustry.title': 'Jimmy Liao',
+    'map.markers.taiwanAnimationIndustry.desc':
+      'Nhà thơ minh họa sưởi ấm thế giới bằng sách tranh, đưa sách tranh Đài Loan lên sân khấu quốc tế',
+    'map.markers.taiwanTelevisionIndustry.title': 'Tai Tzu-ying',
+    'map.markers.taiwanTelevisionIndustry.desc':
+      'Người giữ kỷ lục 214 tuần đứng đầu thế giới, nữ hoàng cầu lông Đài Loan vươn từ Tiền Trấn, Cao Hùng đến tấm huy chương bạc Olympic',
+    'map.markers.taiwanOttPlatforms.title': 'Lý Ngang (Li Ang)',
+    'map.markers.taiwanOttPlatforms.desc':
+      'Tác giả 《Giết chồng》《Khu vườn mê lộ》, nhà tiên phong của văn học nữ quyền Đài Loan',
+    'map.markers.taiwanPodcastIndustry.title': 'Lý Trí Khải (Lee Chih-kai)',
+    'map.markers.taiwanPodcastIndustry.desc':
+      'Từ cậu Khải chợ rau trong 《Lộn nhào nào! Các cậu bé》 đến huy chương bạc Olympic, hành trình nhào lộn 16 năm của hoàng tử ngựa tay quay Đài Loan',
+    'map.markers.taiwanPublishing.title': 'Lý Viễn Triết (Lee Yuan-tseh)',
+    'map.markers.taiwanPublishing.desc':
+      'Chủ nhân Giải Nobel Hóa học năm 1986, người khai mở lĩnh vực mới trong động lực học hóa học bằng kỹ thuật chùm phân tử giao nhau và là nhà khoa học Đài Loan đầu tiên đoạt Giải Nobel',
+    'map.markers.taiwanBookstoreCulture.title': 'Đỗ Thông Minh (Tu Tsung-ming)',
+    'map.markers.taiwanBookstoreCulture.desc':
+      'Tiến sĩ y khoa đầu tiên của Đài Loan, cha đẻ của nền y học hiện đại Đài Loan',
+    'map.markers.taiwanComicMangaIndustry.title': 'Lâm Thư Hào (Jeremy Lin)',
+    'map.markers.taiwanComicMangaIndustry.desc':
+      'Cầu thủ người Mỹ gốc Đài Loan đi từ sinh viên xuất sắc Harvard đến chức vô địch NBA, tạo nên cơn sốt Linsanity toàn cầu',
+    'map.markers.taiwanGameIndustry.title': 'Lâm Nghĩa Kiệt (Kevin Lin)',
+    'map.markers.taiwanGameIndustry.desc':
+      'Từ cậu bé gầy gò bị đội điền kinh từ chối đến vận động viên chạy địa hình khắc nghiệt lập nên lịch sử khi băng qua sa mạc Sahara bằng đôi chân',
+    'map.markers.nationalPalaceMuseum.title': 'Lâm Nghĩa Hùng (Lin I-hsiung)',
+    'map.markers.nationalPalaceMuseum.desc':
+      'Nhà tiên phong của phong trào dân chủ, nạn nhân vụ thảm sát gia đình họ Lâm và lãnh tụ phong trào phản đối Nhà máy điện hạt nhân số 4',
+    'map.markers.nationalParks.title': 'Edward Yang (Dương Đức Xương)',
+    'map.markers.nationalParks.desc':
+      'Nhân vật nòng cốt của phong trào Điện ảnh mới Đài Loan, đạo diễn xuất sắc nhất Cannes và thi sĩ của sự tha hóa đô thị',
+    'map.markers.taiwanGeography.title': 'Bạch Tiên Dũng (Pai Hsien-yung)',
+    'map.markers.taiwanGeography.desc':
+      'Tác giả 《Người Đài Bắc》, bậc thầy văn học hiện đại và người thúc đẩy sự phục hưng Côn khúc',
+    'map.markers.taiwanClimate.title': 'Crowd Lu (Lư Quảng Trọng)',
+    'map.markers.taiwanClimate.desc':
+      'Ca sĩ kiêm nhạc sĩ sáng tác và diễn viên Đài Loan, chủ nhân ba giải Kim Khúc, Kim Chung và Kim Mã, nổi tiếng với hình ảnh bình dị, gần gũi cùng lối hát độc đáo',
+    'map.markers.taiwanEcosystem.title': 'Trang Trí Uyên (Chuang Chih-yuan)',
+    'map.markers.taiwanEcosystem.desc':
+      'Người được mệnh danh là cha đỡ đầu của bóng bàn, đại diện bốn kỳ Olympic và người hùng cô độc một mình khổ luyện',
+    'map.markers.taiwanEndangeredSpecies.title':
+      'Tsai Ming-liang (Thái Minh Lượng)',
+    'map.markers.taiwanEndangeredSpecies.desc':
+      'Chủ nhân Sư tử vàng Venice, nhà làm phim người Hoa tại Malaysia và bậc thầy mỹ học điện ảnh chậm',
+    'map.markers.taiwanMarineEcology.title': 'Hứa Văn Long (Shi Wen-long)',
+    'map.markers.taiwanMarineEcology.desc':
+      'Nhà sáng lập Tập đoàn Chi Mei, mang ba vai trò doanh nhân, nghệ sĩ vĩ cầm và nhà sưu tập nghệ thuật, đồng thời là người sáng lập Bảo tàng Chi Mei',
+    'map.markers.taiwanBirdwatching.title': 'Hứa Phương Nghi (Fang-Yi Sheu)',
+    'map.markers.taiwanBirdwatching.desc':
+      'Từ cô gái Nghi Lan đến vũ công chính của Đoàn vũ kịch Martha Graham, rồi trở về Đài Loan thành lập LAFA & Artists——cô dùng cơ thể kể những câu chuyện mạnh mẽ nhất của Đài Loan',
+    'map.markers.taiwanHotSprings.title':
+      'Lại Thanh Đức (Lai Ching-te): từ gia đình thợ mỏ đến vị bác sĩ y tế công cộng tại Phủ Tổng thống',
+    'map.markers.taiwanHotSprings.desc':
+      'Tổng thống thứ 16 của Đài Loan, chính khách đầu tiên trong lịch sử hiến chính Trung Hoa Dân Quốc tranh cử từ cương vị phó tổng thống và đắc cử',
+    'map.markers.taiwanIslands.title': 'Quách Hạnh Thuần (Kuo Hsing-chun)',
+    'map.markers.taiwanIslands.desc':
+      'Nữ thần cử tạ Đài Loan, chủ nhân huy chương vàng Olympic Tokyo 2021 và người giữ ba kỷ lục Olympic hạng 59 kg',
+    'map.markers.taiwanMountains.title': 'Đặng Vũ Hiền (Teng Yu-hsien)',
+    'map.markers.taiwanMountains.desc':
+      'Cha đẻ của dân ca Đài Loan, tác giả những ca khúc tiếng Đài kinh điển như 《Ngóng gió xuân》《Hoa đêm mưa》《Sầu đêm trăng》',
+    'map.markers.taiwanRivers.title': 'Chung Lý Hòa (Chung Li-ho)',
+    'map.markers.taiwanRivers.desc':
+      'Tác giả 《Người quê cũ》, cha đẻ của văn học Đài Loan và chiến sĩ văn chương vẫn kiên trì sáng tác giữa cảnh nghèo khó, bệnh tật',
+    'map.markers.taiwanCoastline.title': 'Trần Thụ Cúc (Chen Shu-chu)',
+    'map.markers.taiwanCoastline.desc':
+      'Những nghĩa cử bình dị của người bán rau tại Đài Đông đã dùng cả cuộc đời để diễn giải thế nào là giàu có đích thực',
+    'map.markers.taiwanForests.title': 'Trần Thủy Biển (Chen Shui-bian)',
+    'map.markers.taiwanForests.desc':
+      'Tổng thống thứ mười và mười một, nhân vật chính trong cuộc chuyển giao quyền lực giữa các chính đảng lần đầu tiên vào năm 2000 và là nhân vật quan trọng của tiến trình dân chủ hóa Đài Loan',
+    'map.markers.taiwanNaturalDisasters.title': 'Mã Anh Cửu (Ma Ying-jeou)',
+    'map.markers.taiwanNaturalDisasters.desc':
+      'Tổng thống thứ mười hai và mười ba, người thúc đẩy phá băng quan hệ hai bờ eo biển và ký kết ECFA',
+    'map.markers.taiwanEarthquakes.title': 'Hoàng Xuân Minh (Huang Chun-ming)',
+    'map.markers.taiwanEarthquakes.desc':
+      'Tác giả 《Con rối lớn của con trai》《Những ngày ngắm biển》, nhà văn tiêu biểu của văn học bản địa Nghi Lan',
+    'map.markers.taiwanTyphoons.title':
+      'Hoàng Chấn Nam (Huang Chen-nan): “Takenouchi Yutaka của giới sưu tầm sách” và nguồn nước sống của văn sử Đài Loan',
+    'map.markers.taiwanTyphoons.desc':
+      'Hoàng Chấn Nam là nhà nghiên cứu văn sử, nhà sưu tầm sách và nhà văn Đài Loan, khởi đầu với biệt danh Sizumaru trên PTT, điều hành trang “Hoạt Thủy Lai Sách Phòng” để chia sẻ lịch sử Đài Loan và văn hóa sách cũ. Ông là tác giả của những cuốn sách như 《Lịch sử Đài Loan dí dỏm nhất trong lịch sử Đài Loan》, được mệnh danh là Takenouchi Yutaka của giới sưu tầm sách. Xuất thân từ một gia đình hiếu học tại Lục Cước, Chiayi, ông cùng cha phân công hai miền nam bắc để sưu tầm tư liệu, nỗ lực đưa lịch sử Đài Loan nghiêm túc trở nên thú vị và gần gũi.',
+    'map.markers.sunflowerMovement.title':
+      'Vườn thú và đạo đức đối với động vật biểu diễn',
+    'map.markers.sunflowerMovement.desc':
+      'Từ những chú voi trong lồng sắt đến bức tường sứa tại Xpark——Đài Loan đang định nghĩa lại mối quan hệ giữa con người và động vật bị trưng bày',
+    'map.markers.taiwanSocialMovements.title':
+      'Công lý đất đai và lãnh thổ truyền thống của các dân tộc bản địa Đài Loan',
+    'map.markers.taiwanSocialMovements.desc':
+      'Khảo sát bối cảnh lịch sử của quyền đất đai các dân tộc bản địa Đài Loan, quá trình phát triển pháp luật, tranh cãi về việc phân định lãnh thổ truyền thống và thành quả hoạt động của Ủy ban Công lý Chuyển tiếp cho các Dân tộc Bản địa',
+    'map.markers.taiwanMarriageEquality.title':
+      'Hôn nhân đồng giới và bình đẳng giới tại Đài Loan',
+    'map.markers.taiwanMarriageEquality.desc':
+      'Từ một tù nhân thời thiết quân luật đến đạo luật hôn nhân đồng giới đầu tiên ở châu Á, cuộc đấu tranh 30 năm của một người đàn ông đã viết lại định nghĩa tình yêu trên hòn đảo ra sao',
+    'map.markers.taiwanEnvironmentalJustice.title':
+      'Công lý môi trường và tranh cãi NIMBY tại Đài Loan',
+    'map.markers.taiwanEnvironmentalJustice.desc':
+      'Khảo sát hiện tượng phân bổ bất bình đẳng gánh nặng môi trường tại Đài Loan, từ xung đột NIMBY quanh lò đốt rác, chất thải hạt nhân đến ngành hóa dầu, qua đó phân tích bất bình đẳng môi trường và các vấn đề công bằng xã hội',
+    'map.markers.taiwanCommunityRiCulture.title':
+      'Cộng đồng và văn hóa lý tại Đài Loan',
+    'map.markers.taiwanCommunityRiCulture.desc':
+      'Từ thực hành dân chủ ở cấp cơ sở nhất đến đổi mới xã hội trong kiến tạo cộng đồng',
+    'map.markers.taiwanLongTermCare.title':
+      'Sự phát triển của hệ thống chăm sóc dài hạn Đài Loan',
+    'map.markers.taiwanLongTermCare.desc':
+      'Một trong những hệ thống chăm sóc dài hạn tiên tiến nhất thế giới, nhưng đồng thời tồn tại mạng lưới chăm sóc vô hình lớn nhất',
+    'map.markers.taiwanLaborMovement.title':
+      'Bảo vệ môi trường và phát triển bền vững',
+    'map.markers.taiwanLaborMovement.desc':
+      'Từ hòn đảo ống khói đến Đài Loan phát thải ròng bằng 0: hành trình thức tỉnh của 40 năm phong trào bảo vệ môi trường',
+    'map.markers.taiwanHousingIssues.title': 'Nhà ở xã hội và công lý cư trú',
+    'map.markers.taiwanHousingIssues.desc':
+      'Đài Loan hiện thực hóa công lý cư trú thông qua chính sách nhà ở xã hội ra sao để mọi người đều có chốn an cư lạc nghiệp',
+    'map.markers.taiwanHealthcareSystem.title': 'Phát triển khu công nghệ',
+    'map.markers.taiwanHealthcareSystem.desc':
+      'Từ Khu khoa học Tân Trúc đến Khu khoa học miền Nam, khảo sát tiến trình phát triển các khu khoa học Đài Loan và vị thế riêng biệt của ba khu lớn',
+    'map.markers.taiwanImmigration.title': 'Ngành công nghiệp bán dẫn',
+    'map.markers.taiwanImmigration.desc':
+      'Từ canh bạc lịch sử của Morris Chang đến kỷ nguyên 2 nanomet: TSMC đã đưa Đài Loan trở thành huyết mạch công nghệ toàn cầu ra sao',
+    'map.markers.taiwanReligiousDiversity.title':
+      'Địa hình bờ biển và cảnh quan biển Đài Loan',
+    'map.markers.taiwanReligiousDiversity.desc':
+      'Phần cổ của Đầu Nữ vương Dã Liễu đang mỏng đi với tốc độ 0.2 cm mỗi năm và một ngày nào đó sẽ gãy——đó chính là định mệnh và vẻ đẹp của địa hình bờ biển Đài Loan',
+    'map.markers.taiwanBuddhismTaoism.title':
+      'Trà đạo và mỹ học đời sống Đài Loan',
+    'map.markers.taiwanBuddhismTaoism.desc':
+      'Đêm khai trương Tử Đằng Lư năm 1981, các nhân sĩ đối lập và văn nhân tao nhã tụ họp thưởng trà; nơi đây không chỉ là một trà quán mà còn là căn cứ bí mật của phong trào đối lập',
+    'map.markers.taiwanFolkReligion.title':
+      'Bầu cử và chính trị đảng phái Đài Loan',
+    'map.markers.taiwanFolkReligion.desc':
+      'Từ hội đồng địa phương năm 1950 đến cuộc chuyển giao quyền lực giữa các chính đảng năm 2000, hãy nhìn lại cách Đài Loan dùng lá phiếu viết nên kỳ tích chuyển đổi dân chủ',
+    'map.markers.taiwanChristianity.title':
+      'Phát triển đô thị và khoảng cách thành thị–nông thôn tại Đài Loan',
+    'map.markers.taiwanChristianity.desc':
+      'Trong 70 năm, từ một hòn đảo nông nghiệp trở thành đảo đô thị, ánh sáng và bóng tối khi 70% dân số tập trung tại sáu đô thị trực thuộc: sự đối lập khắc nghiệt giữa Đài Trung phồn vinh và Vân Lâm suy tàn',
+    'map.markers.taiwanIslamJudaism.title':
+      'Đặc trưng đô thị và văn hóa vùng miền',
+    'map.markers.taiwanIslamJudaism.desc':
+      'Từ 404萬 người ở Tân Bắc đến 185萬 người ở Đài Nam, hãy nhìn cách sáu đô thị trực thuộc định hình bản sắc riêng trong quá trình chuyển đổi công nghiệp',
+    'map.markers.kaohsiungIncident.title': 'Dân chủ hóa',
+    'map.markers.kaohsiungIncident.desc':
+      'Cuộc xung đột giữa cảnh sát và người dân trên đường phố Cao Hùng ngày 10 tháng 12 năm 1979 cuối cùng đã thúc đẩy quá trình chuyển đổi dân chủ của Đài Loan——nhưng bao nhiêu người đã phải đánh đổi tuổi trẻ và tự do?',
+    'map.markers.wangLeeOlympicGold.title':
+      'Vương Tề Lân và Lý Dương（cặp đôi Lân–Dương）',
+    'map.markers.wangLeeOlympicGold.desc':
+      'Từ bạn học thời trung học cơ sở đến huy chương vàng Olympic：「cặp đôi Lân–Dương」chỉ mất 34 phút để đánh bại Trung Quốc sau hai ván liên tiếp, giành tấm huy chương vàng Olympic đầu tiên trong lịch sử cầu lông Đài Loan',
+  },
+  id: {
+    // Meta
+    'map.meta.title': 'Peta Taiwan Map',
+    'map.meta.description':
+      'Jelajahi konteks konten Taiwan.md melalui perspektif peta',
+
+    // Hero Section
+    'map.hero.kicker': 'Tampilan Peta',
+    'map.hero.title': 'Peta Taiwan',
+    'map.hero.subtitle':
+      'Jelajahi simpul budaya, kuliner, alam, dan sejarah Taiwan melalui perspektif peta.',
+
+    // Controls - Region Filter
+    'map.controls.region.title': 'Filter Wilayah',
+    'map.controls.region.all': 'Semua',
+    'map.controls.region.north': 'Utara',
+    'map.controls.region.central': 'Tengah',
+    'map.controls.region.south': 'Selatan',
+    'map.controls.region.east': 'Timur',
+    'map.controls.region.islands': 'Kepulauan Terluar',
+
+    // Controls - Category Filter
+    'map.controls.category.title': 'Filter Kategori',
+    'map.controls.category.all': 'Semua',
+    'map.controls.category.food': '🍜 Kuliner',
+    'map.controls.category.history': '📜 Sejarah',
+    'map.controls.category.nature': '🌿 Alam',
+    'map.controls.category.culture': '🎭 Budaya',
+    'map.controls.category.technology': '💻 Teknologi',
+    'map.controls.category.economy': '📈 Ekonomi',
+    'map.controls.category.lifestyle': '🏮 Gaya Hidup',
+    'map.controls.category.art': '🎨 Seni',
+    'map.controls.category.geography': '🗺️ Geografi',
+
+    // Route Section
+    'map.route.title': '🗺️ Rute Kurasi',
+    'map.route.normal-mode': 'Mode Normal',
+
+    // Sidebar - Default
+    'map.sidebar.default.title': '📍 Jelajahi Artikel Taiwan',
+    'map.sidebar.default.hint':
+      'Klik kota/kabupaten atau penanda di peta untuk menjelajahi artikel',
+
+    // Sidebar - County
+    'map.sidebar.county.clear': '✕ Hapus Pilihan',
+    'map.sidebar.county.articles-count': 'artikel',
+    'map.sidebar.county.no-articles': 'Belum ada artikel untuk wilayah ini',
+
+    // Sidebar - Article
+    'map.sidebar.article.back': '← Kembali',
+    'map.sidebar.article.read-more': 'Baca Selengkapnya →',
+
+    // Zoom Controls
+    'map.zoom.in': '＋',
+    'map.zoom.out': '－',
+    'map.zoom.reset': '⌂',
+
+    // Tooltips
+    'map.tooltip.county.articles': 'artikel terkait',
+    'map.tooltip.county.click': 'Klik untuk memfilter wilayah ini',
+    'map.tooltip.marker.reading-time': 'menit baca',
+
+    // Panel (for compatibility)
+    'map.panel.title': 'Peta Pengetahuan Taiwan',
+    'map.panel.stat.points': 'Titik Pengetahuan',
+    'map.panel.stat.categories': 'Kategori',
+    'map.panel.category-distribution': 'Distribusi Kategori',
+    'map.panel.link.graph': '🕸️ Graf Pengetahuan',
+    'map.panel.link.home': '🏠 Ikhtisar Kategori',
+
+    // Category Names (for JS usage)
+    'map.category.history': '📜 Sejarah',
+    'map.category.geography': '🗺️ Geografi',
+    'map.category.culture': '🎭 Budaya',
+    'map.category.food': '🍜 Kuliner',
+    'map.category.art': '🎨 Seni',
+    'map.category.music': '🎵 Musik',
+    'map.category.technology': '💻 Teknologi',
+    'map.category.nature': '🌿 Alam',
+    'map.category.people': '👥 Tokoh',
+    'map.category.society': '⚖️ Masyarakat',
+    'map.category.economy': '📈 Ekonomi',
+    'map.category.lifestyle': '🏮 Gaya Hidup',
+
+    // Additional UI text
+    'map.sidebar.more-articles': '⋯dan lainnya',
+    'map.sidebar.more-articles-suffix': 'artikel',
+
+    // Routes
+    'map.routes.nightMarkets.name': '🍜 Wisata Pasar Malam',
+    'map.routes.nightMarkets.description':
+      'Budaya pasar malam paling representatif di Taiwan, dari utara hingga selatan',
+    'map.routes.nationalParks.name': '🏔️ Wisata Taman Nasional',
+    'map.routes.nationalParks.description':
+      'Dari pegunungan setinggi 3,952 meter hingga terumbu karang tropis, keajaiban alam Taiwan',
+    'map.routes.historyTrail.name': '📜 Jejak Sejarah',
+    'map.routes.historyTrail.description':
+      'Menelusuri empat ratus tahun Taiwan, dari penjajahan Belanda hingga demokratisasi',
+    'map.routes.oldStreets.name': '🏮 Jelajah Jalan Tua',
+    'map.routes.oldStreets.description':
+      'Kenangan Taiwan di jalan-jalan berusia seabad, arsitektur adalah sejarah',
+
+    'map.routes.counties22.name': '📍 22 Artikel Mendalam Kota dan Kabupaten',
+    'map.routes.counties22.description':
+      'Jelajahi 22 artikel mendalam kota dan kabupaten Taiwan.md, dari pilot Keelung hingga finale New Taipei — satu kontradiksi utama untuk setiap kota dan kabupaten.',
+    'map.counties22.panel.title': '📍 22 Artikel Mendalam Kota dan Kabupaten',
+    'map.counties22.panel.hint':
+      'Klik kartu kota/kabupaten untuk membuka, atau klik kota/kabupaten di peta',
+    'map.counties22.tooltip.openDeep': 'Klik untuk membuka artikel mendalam',
+    'map.counties22.deepCard.badge':
+      '📖 Seri 22 Kota dan Kabupaten · Artikel Mendalam',
+    'map.counties22.deepCard.cta': 'Baca Selengkapnya →',
+
+    // Night Markets Stops
+    'map.stops.shilinNightMarket.name': 'Pasar Malam Shilin',
+    'map.stops.shilinNightMarket.note':
+      'Pasar malam wisata terbesar di Taiwan, tempat asal kue besar membungkus kue kecil',
+    'map.stops.raoheNightMarket.name': 'Pasar Malam Raohe',
+    'map.stops.raoheNightMarket.note':
+      'Tempat antre legendaris untuk roti lada, favorit warga lokal Taipei',
+    'map.stops.ningxiaNightMarket.name': 'Pasar Malam Ningxia',
+    'map.stops.ningxiaNightMarket.note':
+      'Kepadatan kuliner tertinggi, pusat jajanan rakyat rekomendasi Michelin',
+    'map.stops.fengjiaNightMarket.name': 'Pasar Malam Fengjia',
+    'map.stops.fengjiaNightMarket.note':
+      'Laboratorium jajanan kreatif, garis depan inovasi pasar malam Taiwan',
+    'map.stops.huayuanNightMarket.name': 'Pasar Malam Huayuan',
+    'map.stops.huayuanNightMarket.note':
+      'Pasar malam terbesar di Tainan, pesta terbatas yang hanya buka tiga hari seminggu',
+    'map.stops.liuheNightMarket.name': 'Pasar Malam Liuhe',
+    'map.stops.liuheNightMarket.note':
+      'Pasar malam ikonis Kaohsiung, dengan hidangan laut sebagai bintang utama',
+
+    // National Parks Stops
+    'map.stops.yangmingshanNationalPark.name': 'Taman Nasional Yangmingshan',
+    'map.stops.yangmingshanNationalPark.note':
+      'Halaman belakang Taipei, dengan bentang alam vulkanis dan mata air panas tersembunyi',
+    'map.stops.tarokoNationalPark.name': 'Taman Nasional Taroko',
+    'map.stops.tarokoNationalPark.note':
+      'Ngarai marmer, keajaiban geologi kelas dunia',
+    'map.stops.yushanNationalPark.name': 'Taman Nasional Yushan',
+    'map.stops.yushanNationalPark.note':
+      'Puncak tertinggi di Asia Timur Laut（3,952m）, atap Taiwan',
+    'map.stops.alishanScenicArea.name': 'Kawasan Pemandangan Nasional Alishan',
+    'map.stops.alishanScenicArea.note':
+      'Matahari terbit di lautan awan, gugusan pohon keramat, dan kereta api hutan',
+    'map.stops.sunMoonLakeScenicArea.name':
+      'Kawasan Pemandangan Nasional Danau Sun Moon',
+    'map.stops.sunMoonLakeScenicArea.note':
+      'Danau alami terbesar di Taiwan, danau suci suku Thao',
+    'map.stops.kentingNationalPark.name': 'Taman Nasional Kenting',
+    'map.stops.kentingNationalPark.note':
+      'Ujung paling selatan Taiwan, dengan terumbu karang tropis dan Semenanjung Hengchun',
+
+    // History Trail Stops
+    'map.stops.anpingFort.name': 'Benteng Kuno Anping',
+    'map.stops.anpingFort.note':
+      'Dibangun oleh Belanda pada 1624, benteng tertua di Taiwan',
+    'map.stops.chikanTower.name': 'Menara Chihkan',
+    'map.stops.chikanTower.note':
+      'Dari Fort Provintia Belanda hingga simbol pemerintahan Koxinga',
+    'map.stops.lukang.name': 'Lukang',
+    'map.stops.lukang.note':
+      'Kota terbesar kedua di Taiwan pada zaman Dinasti Qing, “pertama Tainan, kedua Lukang, ketiga Bangka”',
+    'map.stops.presidentialOffice.name':
+      'Kantor Kepresidenan (bekas Kantor Gubernur Jenderal Taiwan)',
+    'map.stops.presidentialOffice.note':
+      'Selesai dibangun pada 1919, pusat kekuasaan tertinggi pada masa pemerintahan Jepang',
+    'map.stops.chiangKaiShekMemorialHall.name':
+      'Balai Peringatan Chiang Kai-shek',
+    'map.stops.chiangKaiShekMemorialHall.note':
+      'Simbol otoritarianisme dan pusat perdebatan tentang keadilan transisional',
+    'map.stops.legislativeYuan.name':
+      'Yuan Legislatif (Gerakan Bunga Matahari)',
+    'map.stops.legislativeYuan.note':
+      'Lokasi Gerakan Mahasiswa Bunga Matahari pada 2014, tonggak demokrasi Taiwan',
+
+    // Old Streets Stops
+    'map.stops.dihuaStreet.name': 'Jalan Dihua',
+    'map.stops.dihuaStreet.note':
+      'Jantung Dadaocheng, pusat bahan pangan dari utara dan selatan serta belanja Tahun Baru Imlek',
+    'map.stops.jiufenOldStreet.name': 'Jalan Tua Jiufen',
+    'map.stops.jiufenOldStreet.note':
+      'Kenangan masa keemasan pertambangan dan sumber inspirasi Spirited Away',
+    'map.stops.lukangOldStreet.name': 'Jalan Tua Lukang',
+    'map.stops.lukangOldStreet.note':
+      'Museum hidup rumah bata merah bersejarah dan kerajinan tradisional',
+    'map.stops.anpingOldStreet.name': 'Jalan Tua Anping',
+    'map.stops.anpingOldStreet.note':
+      'Jalan pertama Taiwan, tempat berlapisnya sejarah selama empat ratus tahun',
+    'map.stops.qishanOldStreet.name': 'Jalan Tua Qishan',
+    'map.stops.qishanOldStreet.note':
+      'Kompleks bangunan bergaya Barok di kerajaan pisang',
+    'map.stops.tamsuiOldStreet.name': 'Jalan Tua Tamsui',
+    'map.stops.tamsuiOldStreet.note':
+      'Pesona sejarah matahari terbenam, ageh, dan muara Sungai Tamsui',
+
+    // Cities
+    'map.city.taipei': 'Taipei',
+    'map.city.newTaipei': 'New Taipei',
+    'map.city.keelung': 'Keelung',
+    'map.city.taoyuan': 'Taoyuan',
+    'map.city.hsinchu': 'Hsinchu',
+    'map.city.miaoli': 'Miaoli',
+    'map.city.taichung': 'Taichung',
+    'map.city.changhua': 'Changhua',
+    'map.city.nantou': 'Nantou',
+    'map.city.chiayi': 'Chiayi',
+    'map.city.tainan': 'Tainan',
+    'map.city.kaohsiung': 'Kaohsiung',
+    'map.city.pingtung': 'Pingtung',
+    'map.city.yilan': 'Yilan',
+    'map.city.hualien': 'Hualien',
+    'map.city.taitung': 'Taitung',
+    'map.city.penghu': 'Penghu',
+    'map.city.kinmen': 'Kinmen',
+
+    // Markers
+    'map.markers.founderCheYuWu.title': 'Pendiri — Wu Che-Yu Che-Yu Wu',
+    'map.markers.founderCheYuWu.desc':
+      'Dari kode program menuju puisi: perjalanan seorang seniman Taiwan menembus panggung internasional',
+    'map.markers.taiwanIndigenousContemporaryArt.title':
+      'Seni Kontemporer Masyarakat Adat Taiwan',
+    'map.markers.taiwanIndigenousContemporaryArt.desc':
+      'Dari kerajinan tradisional hingga kreasi kontemporer, menelusuri cara seniman masyarakat adat Taiwan menyuarakan diri di panggung seni global serta mendefinisikan ulang dialog antara identitas masyarakat adat dan seni kontemporer',
+    'map.markers.taiwanExperimentalNewMediaArt.title':
+      'Seni Eksperimental dan Media Baru Taiwan',
+    'map.markers.taiwanExperimentalNewMediaArt.desc':
+      'Dari seni video hingga interaksi VR, menelusuri perkembangan inovatif seni media baru dan ekosistem seni teknologi Taiwan',
+    'map.markers.taiwanArchitecture.title': 'Arsitektur Taiwan',
+    'map.markers.taiwanArchitecture.desc':
+      'Dari rumah batu sabak hingga pencakar langit: perjalanan arsitektur sebuah negara melintasi waktu',
+    'map.markers.taiwanNewMediaArt.title': 'Seni Media Baru Taiwan',
+    'map.markers.taiwanNewMediaArt.desc': 'Menjelajahi budaya dan kisah Taiwan',
+    'map.markers.taiwanWatercolorCenturyEvolution.title':
+      'Seabad Transformasi Seni Cat Air Taiwan',
+    'map.markers.taiwanWatercolorCenturyEvolution.desc':
+      'Dari perintisan Ishikawa Kinichiro pada masa pemerintahan Jepang hingga keberhasilan internasional Chien Chung-Wei pada era kontemporer, seni cat air Taiwan telah menempuh perjalanan satu abad dan menjadi salah satu pusat penciptaan cat air paling aktif di Asia.',
+    'map.markers.taiwanModernPoetry.title': 'Puisi Modern Taiwan',
+    'map.markers.taiwanModernPoetry.desc':
+      'Bagaimana eksperimen modernisme yang lahir dari tiga ruang studi tanpa diduga memicu revolusi puisi yang paling membumi',
+    'map.markers.taiwanContemporarySculpture.title':
+      'Perkembangan Seni Patung Kontemporer Taiwan',
+    'map.markers.taiwanContemporarySculpture.desc':
+      'Dari Yuyu Yang dan Ju Ming hingga generasi baru, menelusuri evolusi dan semangat kreatif seni patung Taiwan',
+    'map.markers.taiwanCuratorsArtCulture.title':
+      'Kurator Taiwan dan Pembentukan Budaya Seni',
+    'map.markers.taiwanCuratorsArtCulture.desc':
+      'Dari kurasi independen hingga sistem museum seni, cara kurator Taiwan membangun wacana budaya dan dialog internasional tentang seni kontemporer',
+    'map.markers.newMediaArt.title': 'Seni Media Baru',
+    'map.markers.newMediaArt.desc':
+      'Eksplorasi perintis seni digital Taiwan, memadukan teknologi dan humaniora dari laboratorium hingga panggung internasional',
+    'map.markers.contemporaryTaiwanLiterature.title':
+      'Sastra Taiwan Kontemporer',
+    'map.markers.contemporaryTaiwanLiterature.desc':
+      'Menjelajahi budaya dan kisah Taiwan',
+    'map.markers.taiwanContemporaryArt.title': 'Seni Kontemporer Taiwan',
+    'map.markers.taiwanContemporaryArt.desc':
+      'Dari Museum Seni Rupa Taipei hingga Paviliun Taiwan di Biennale Venesia, posisi unik seni kontemporer Taiwan di panggung global',
+    'map.markers.kinmenGuesthouseMuseum.title':
+      'Museum Seni Kontemporer Jinma Guesthouse',
+    'map.markers.kinmenGuesthouseMuseum.desc':
+      'Sebuah penginapan militer era Perang Dingin yang menjadi saksi perpisahan dan pertemuan kembali, dibangunkan oleh sepasang ayah dan anak perempuan setelah tertidur selama dua puluh tahun, lalu menjadi museum seni pilihan utama di Kaohsiung yang direkomendasikan oleh Lonely Planet.',
+    'map.markers.renjianMagazine.title': 'Majalah Ren Jian',
+    'map.markers.renjianMagazine.desc':
+      '47 edisi, empat tahun, sebuah revolusi senyap yang digerakkan melalui fotografi dan tulisan—titik awal sastra reportase Taiwan',
+    'map.markers.taiwanIndigenousCulture.title':
+      'Budaya Masyarakat Adat Taiwan',
+    'map.markers.taiwanIndigenousCulture.desc':
+      'Dari keragaman tradisi enam belas suku hingga kebangkitan seni kontemporer, menelusuri kekayaan budaya masyarakat adat Taiwan dan transformasi modernnya',
+    'map.markers.taiwan16IndigenousTribes.title':
+      'Peta Budaya 16 Suku Masyarakat Adat Taiwan',
+    'map.markers.taiwan16IndigenousTribes.desc':
+      'Menjelajahi wilayah persebaran, sistem bahasa, upacara penting, dan perkembangan kreasi kontemporer 16 suku masyarakat adat Taiwan untuk memahami wajah multikultural masyarakat adat Taiwan',
+    'map.markers.taiwanNightMarketCulture.title':
+      'Budaya Pasar Malam dan Pesona Jajanan Taiwan',
+    'map.markers.taiwanNightMarketCulture.desc':
+      'Menjelajahi secara mendalam latar terbentuknya budaya pasar malam Taiwan, daya tariknya yang khas, serta kisah sejarah dan makna budaya jajanan ikoniknya',
+    'map.markers.taiwanSensibilityKoreanPerspective.title':
+      'Kepekaan Taiwan: Estetika Khas Taiwan di Mata Orang Korea',
+    'map.markers.taiwanSensibilityKoreanPerspective.desc':
+      'Dari MV K-pop hingga pameran buku Seoul, bagaimana “대만감성” menjadikan pemandangan jalanan sehari-hari Taiwan sebagai simbol estetika paling memikat di Asia',
+    'map.markers.taiwanCulturalCreativeParks.title':
+      'Perkembangan Taman Budaya dan Kreatif Taiwan',
+    'map.markers.taiwanCulturalCreativeParks.desc':
+      'Dari revitalisasi bangunan tua hingga komunitas kreatif, perjalanan perkembangan dan model inovatif taman budaya dan kreatif Taiwan',
+    'map.markers.taiwanOldStreetCulture.title':
+      'Budaya Jalan Tua dan Kawasan Niaga Taiwan',
+    'map.markers.taiwanOldStreetCulture.desc':
+      'Dari kemakmuran pelabuhan zaman Dinasti Qing hingga bangunan Barat bergaya Barok pada masa pemerintahan Jepang, jalan-jalan tua Taiwan adalah sejarah rakyat yang ditulis dengan batu bata dan genting',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.title':
+      'Upacara Minum Teh dan Estetika Kehidupan Taiwan',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.desc':
+      'Dari teh kungfu hingga estetika penyajian teh, menelusuri cara Taiwan memadukan dan memperbarui budaya teh Timur dengan estetika kehidupan setempat',
+    'map.markers.taiwanStreetArtGraffiti.title':
+      'Seni Jalanan dan Budaya Grafiti Taiwan',
+    'map.markers.taiwanStreetArtGraffiti.desc':
+      'Dari grafiti bawah tanah hingga mural legal, bagaimana tembok kota menjadi panggung kreasi bagi seniman Taiwan',
+    'map.markers.taiwanIncenseMakingCulture.title':
+      'Budaya Pembuatan Dupa Taiwan dan Kampung Halaman Batang Dupa',
+    'map.markers.taiwanIncenseMakingCulture.desc':
+      'Dari keterampilan membuat batang dupa berusia seabad di Komunitas Yunxiao, Chiayi, hingga industri dupa yang tersebar di seluruh Taiwan——sebuah usaha kuno tentang kesalehan, keterampilan tangan, dan ketekunan',
+    'map.markers.taiwanHomophoneTaboos.title':
+      'Budaya Tabu Homofon Taiwan: Mengapa「Empat」Membuat Seluruh Masyarakat Melewatkan Nomor Lantai?',
+    'map.markers.taiwanHomophoneTaboos.desc':
+      'Dari rumah sakit tanpa lantai empat hingga pelat nomor 8888 yang dilelang dengan harga fantastis, kepekaan orang Taiwan terhadap homofon dapat disebut yang tertinggi di dunia',
+    'map.markers.hakkaCultureLanguage.title': 'Budaya dan Bahasa Hakka',
+    'map.markers.hakkaCultureLanguage.desc':
+      'Semangat pantang menyerah dan Hari Tianchuan: pewarisan budaya dan kebangkitan modern masyarakat Hakka Taiwan',
+    'map.markers.ethnicGroupsTaiwan.title':
+      'Kelompok Etnis（Hoklo, Hakka, Masyarakat Adat, Waishengren, Penduduk Baru）',
+    'map.markers.ethnicGroupsTaiwan.desc':
+      'Keberagaman kelompok etnis Taiwan bukan hanya hasil perkembangan sejarah, melainkan juga kunci untuk memahami masyarakat Taiwan masa kini. Struktur sosial yang beragam dan hidup berdampingan ini merupakan sumber kreativitas budaya Taiwan sekaligus landasan penting perkembangan politik demokratis. Membangun identitas Taiwan bersama seraya menghormati kekhasan budaya setiap kelompok etnis adalah persoalan penting yang terus dihadapi masyarakat Taiwan.',
+    'map.markers.chinaSteel.title':
+      'China Steel: Menteri Berkepala Besi dan Legenda Baja Sepuluh Proyek Pembangunan Besar',
+    'map.markers.chinaSteel.desc':
+      'Dari keberhasilan Chao Yao-tung memperoleh teknologi melalui perundingan di Eropa dan Amerika hingga kepulan asap putih pertama di Siaogang, Kaohsiung, China Steel membangun tulang punggung industri berat Taiwan selama 50 tahun dan menjadi permata tersukses dari Sepuluh Proyek Pembangunan Besar',
+    'map.markers.taiwanCement.title':
+      'Taiwan Cement: Legenda Transformasi Hijau Perusahaan Publik Pertama Taiwan',
+    'map.markers.taiwanCement.desc':
+      'Pada 1962 Bursa Efek Taiwan didirikan untuknya, dan kode saham 1101 melambangkan awal pasar saham Taiwan. Dari pengelolaan tiga generasi keluarga Koo selama 76 tahun, Taiwan Cement menyaksikan keajaiban pembangunan Taiwan melalui deretan tanur semennya, dan kini bertransformasi menjadi perusahaan hijau untuk menghadapi era netralitas karbon',
+    'map.markers.tsmc.title': 'Perusahaan Taiwan: TSMC',
+    'map.markers.tsmc.desc':
+      'Pemimpin global manufaktur cip kontrak yang memegang urat nadi utama peradaban digital manusia',
+    'map.markers.chimeiCorporation.title':
+      'Chi Mei Corporation: Kerajaan Akrilik Hsu Wen-lung dan Impian Museum',
+    'map.markers.chimeiCorporation.desc':
+      'Berawal dari pabrik kecil di Rende, Tainan, pada 1960, Hsu Wen-lung mengabdikan hidupnya untuk membangun kerajaan bahan ABS terbesar di Asia dan mendirikan Museum Chimei sebagai bentuk kontribusi kepada masyarakat. Ini membuktikan bahwa perusahaan Taiwan dapat meraih kesuksesan bisnis sekaligus menjunjung kepedulian humanis',
+    'map.markers.acer.title':
+      'Acer Group (Acer) - Pelopor Transformasi Industri PC',
+    'map.markers.acer.desc':
+      'Pelopor komputer pribadi yang berawal dari Taoyuan, Taiwan, menciptakan model bisnis「multimerek, multisaluran」dan menjadi penggerak transformasi industri PC global',
+    'map.markers.giantBicycles.title': 'Perusahaan Taiwan: Giant Manufacturing',
+    'map.markers.giantBicycles.desc':
+      'Dari budak manufaktur kontrak yang ditinggalkan perusahaan besar Amerika Serikat hingga menjadi imperium tak kasatmata yang menetapkan standar teknologi sepeda global',
+    'map.markers.quantaComputer.title': 'Perusahaan Taiwan: Quanta Computer',
+    'map.markers.quantaComputer.desc':
+      'Dari kebakaran pabrik hingga menjadi raja laptop dunia, bagaimana Barry Lam membangun imperium baru pada era AI?',
+    'map.markers.aseGroup.title': 'Perusahaan Taiwan: ASE Semiconductor',
+    'map.markers.aseGroup.desc':
+      'Perusahaan pengemasan dan pengujian semikonduktor terbesar di dunia, mengapa pemilik perusahaan konstruksi beralih ke industri semikonduktor?',
+    'map.markers.esunFinancialHolding.title':
+      'Perusahaan Taiwan: E.SUN Financial Holding',
+    'map.markers.esunFinancialHolding.desc':
+      'Dari bank spesialis kartu kredit hingga pelopor keuangan digital, kisah terobosan direktur utama perusahaan induk keuangan termuda yang berusia 43 tahun',
+    'map.markers.changChunPetrochemical.title':
+      'Perusahaan Taiwan: Chang Chun Petrochemical',
+    'map.markers.changChunPetrochemical.desc':
+      'Dari pabrik kecil di Tainan pada 1949 hingga menjadi raksasa kimia global, kisah sang juara tersembunyi yang「tidak melantai di bursa dan tidak meminjam uang」',
+    'map.markers.formosaPlasticsGroup.title':
+      'Perusahaan Taiwan: Evergreen Marine',
+    'map.markers.formosaPlasticsGroup.desc':
+      'Dari sebuah kapal bekas hingga menjadi imperium pelayaran global, legenda samudra biru Chang Yung-fa',
+    'map.markers.taipeiFubon.title':
+      'Ekonomi Pasar Malam: Keajaiban Bisnis Tanpa Merek',
+    'map.markers.taipeiFubon.desc':
+      'Menelusuri bagaimana pasar malam Taiwan menciptakan keajaiban ekonomi dengan nilai produksi tahunan hampir 4000 miliar tanpa merek, dekorasi, maupun lokasi tetap',
+    'map.markers.taiwan7Eleven.title': 'Industri Kopi Taiwan',
+    'map.markers.taiwan7Eleven.desc':
+      'Dari awal penanaman pada masa pemerintahan Jepang hingga gelar juara dunia Simple Kaffa, sejarah evolusi kopi Taiwan selama seabad',
+    'map.markers.taiwanHighSpeedRail.title': 'Peta Kudapan Khas Daerah Taiwan',
+    'map.markers.taiwanHighSpeedRail.desc':
+      'Dari ding bian hu di Pasar Malam Kuil Keelung hingga kaki babi Wanluan di Pingtung, dari bakso babi Hsinchu hingga srikaya Taitung, setiap kota memiliki DNA cita rasanya sendiri. Ikuti langkah warga setempat untuk menjelajahi kudapan daerah paling representatif dari 22 kabupaten dan kota di Taiwan serta menikmati budaya rakyat yang paling autentik di negara ini.',
+    'map.markers.taiwanSemiconductorIndustry.title':
+      'Hidangan Keahlian Tradisional Taiwan: Kenangan Rasa yang Mulai Menghilang',
+    'map.markers.taiwanSemiconductorIndustry.desc':
+      'Dari ayam mint Chiayi hingga sup caiwei, hidangan andalan nenek menyimpan kenangan keluarga, tetapi perlahan menghilang ditelan perubahan zaman',
+    'map.markers.taiwanBankingSystem.title':
+      'Perpaduan Kuliner Penduduk Baru Taiwan',
+    'map.markers.taiwanBankingSystem.desc':
+      'Ketika rasa asam pedas Thailand bertemu rasa manis asin Taiwan, ketika pho Vietnam berjumpa luwei ala Taiwan, dan ketika rempah Indonesia berpadu dengan bahan pangan setempat, revolusi cita rasa lintas batas tengah berlangsung diam-diam di Taiwan. Penduduk baru tidak hanya membawa masakan kampung halaman, tetapi juga kemungkinan baru yang memperkaya budaya kuliner Taiwan.',
+    'map.markers.taiwanSmes.title': 'Kerajaan Buah Taiwan',
+    'map.markers.taiwanSmes.desc':
+      'Dari mangga dan leci hingga srikaya dan jambu air, legenda manis keberagaman buah tropis dan terobosan teknologi pertanian',
+    'map.markers.youbikePublicBikeSystem.title': 'Budaya Hidangan Laut Taiwan',
+    'map.markers.youbikePublicBikeSystem.desc':
+      'Hasil laut segar yang dikirim langsung dari pelabuhan perikanan, budaya restoran hidangan laut, dan olahan bercita rasa laut seperti omelet tiram menampilkan ciri khas Taiwan yang dikelilingi laut serta kekayaan tradisi kuliner hasil lautnya',
+    'map.markers.taiwanFoodBeverageIndustry.title':
+      'Michelin dan Santapan Mewah Taiwan',
+    'map.markers.taiwanFoodBeverageIndustry.desc':
+      'Pada 2018, sampul merah Panduan Michelin untuk pertama kalinya memuat tulisan「TAIPEI」, menandai masuknya industri kuliner Taiwan secara resmi ke dalam sistem penilaian internasional. Dari kios pinggir jalan hingga restoran berbintang, dari kuliner rakyat hingga hidangan mewah, budaya kuliner Taiwan menampilkan pesona yang tradisional sekaligus inovatif di panggung internasional.',
+    'map.markers.taiwanAgriculturalReform.title': 'Budaya Pasar Malam',
+    'map.markers.taiwanAgriculturalReform.desc':
+      '164 pasar malam terdaftar, rata-rata satu pasar malam untuk setiap 3.8 ribu orang di Tainan, dari pelataran kuil hingga destinasi wisata internasional',
+    'map.markers.taiwanTeaIndustry.title': 'Budaya Kuliner Hakka',
+    'map.markers.taiwanTeaIndustry.desc':
+      'Budaya kuliner masyarakat Hakka yang kaya dan beragam, dari aroma lembut dan pekat lei cha hingga nuansa pegunungan pada bakcang bunga jahe liar, mencerminkan kebijaksanaan hidup masyarakat Hakka yang hemat, pandai mengelola rumah tangga, dan memanfaatkan bahan setempat',
+    'map.markers.taiwanFishingIndustry.title': 'Mi Daging Sapi',
+    'map.markers.taiwanFishingIndustry.desc':
+      'Dari kerinduan kampung halaman para pendatang waishengren hingga menjadi makanan nasional Taiwan, perpaduan budaya dan aroma mi daging sapi yang mendunia',
+    'map.markers.taiwanFruitIndustry.title': 'Budaya Teh',
+    'map.markers.taiwanFruitIndustry.desc':
+      'Evolusi budaya teh Taiwan dari seni teh tradisional hingga minuman racikan tangan modern, menampilkan varietas teh dan budaya minum teh yang khas dari negara ini',
+    'map.markers.taiwanRiceVarieties.title':
+      'Di Atas Tanah yang Berguncang, Mereka Membangun Menara yang Bisa Terbang',
+    'map.markers.taiwanRiceVarieties.desc':
+      'Hanya berjarak 200 meter dari sesar aktif, orang Taiwan justru bersikeras membangun gedung tertinggi di dunia di atas tanah yang paling tidak stabil——lalu seorang nekat memanjatnya dengan tangan kosong selama 91 menit.',
+    'map.markers.nightMarketCulture.title':
+      'Lima Bentang Alam Utama dan Struktur Geografis Taiwan: Panorama dari Pegunungan hingga Dataran',
+    'map.markers.nightMarketCulture.desc':
+      'Menjelajahi struktur geografis Taiwan yang unik, dari Pegunungan Tengah hingga dataran barat, serta mengenal keragaman bentang alam negara ini',
+    'map.markers.bubbleTeaGlobalPhenomenon.title':
+      'Jaringan Transportasi Taiwan',
+    'map.markers.bubbleTeaGlobalPhenomenon.desc':
+      'Kereta cepat, MRT, jalan raya, dan penerbangan merajut jaringan transportasi multidimensi yang menggerakkan Taiwan',
+    'map.markers.taiwanBeefNoodle.title':
+      'Sistem Kawasan Pemandangan Nasional Taiwan',
+    'map.markers.taiwanBeefNoodle.desc':
+      'Dari Pantai Timur Laut hingga Kenting, 13 kawasan pemandangan nasional Taiwan menampilkan kekayaan bentang alam dan budaya',
+    'map.markers.taiwanHotPotCulture.title':
+      'Karakteristik dan Pembentukan Geografi Kepulauan Taiwan',
+    'map.markers.taiwanHotPotCulture.desc':
+      'Jelajahi karakteristik unik geografi kepulauan Taiwan, mulai dari pergerakan lempeng hingga struktur topografi, serta pahami misteri alam Pulau Formosa',
+    'map.markers.taiwanFineDining.title':
+      'Pergerakan Lempeng dan Aktivitas Gempa Bumi di Taiwan',
+    'map.markers.taiwanFineDining.desc':
+      'Membahas karakteristik geologis Taiwan yang terletak di pertemuan Lempeng Eurasia dan Lempeng Laut Filipina, serta penyebab seringnya aktivitas gempa bumi',
+    'map.markers.taiwanStreetFood.title':
+      'Waduk dan Pengelolaan Sumber Daya Air Taiwan',
+    'map.markers.taiwanStreetFood.desc':
+      'Dari krisis kekurangan air hingga sedimentasi waduk, tantangan sumber daya air Taiwan dan persoalan ketimpangan distribusi antara wilayah utara dan selatan',
+    'map.markers.taiwanVegetarianCulture.title':
+      'Sistem Sungai dan Karakteristik Hidrologi Taiwan: Aliran Pendek dan Deras serta Perubahan Musiman dalam Geografi Hidrologi',
+    'map.markers.taiwanVegetarianCulture.desc':
+      'Jelajahi sistem sungai Taiwan yang unik, dari Sungai Zhuoshui hingga Sungai Gaoping, serta pahami bagaimana topografi kepulauan membentuk karakteristik hidrologi Taiwan',
+    'map.markers.taiwanCoffeeCulture.title':
+      'Topografi Pesisir dan Bentang Laut Taiwan',
+    'map.markers.taiwanCoffeeCulture.desc':
+      'Dari pesisir tanjung dan teluk di utara hingga pesisir patahan di timur, keragaman topografi pesisir Taiwan memperlihatkan mahakarya pergerakan lempeng',
+    'map.markers.taiwanSnackCulture.title':
+      'Bentang Alam Mata Air Panas Taiwan',
+    'map.markers.taiwanSnackCulture.desc':
+      'Beitou, Zhiben, Jiaoxi—pertemuan indah antara budaya mata air panas dan ilmu geologi',
+    'map.markers.taiwanSeafoodCulture.title':
+      'Titik Panas Keanekaragaman Hayati Taiwan',
+    'map.markers.taiwanSeafoodCulture.desc':
+      'Wilayah seluas 3.6萬 kilometer persegi menampung 5.9萬 spesies, dengan kepadatan 100 kali rata-rata global',
+    'map.markers.taiwanPineappleCake.title':
+      'Bentang Pertanian dan Persebaran Industri Taiwan',
+    'map.markers.taiwanPineappleCake.desc':
+      'Perubahan bentang pertanian dari utara ke selatan mencerminkan perjalanan transformasi Taiwan dari 「Lumbung Taiwan」 menuju 「pertanian bernilai tinggi」',
+    'map.markers.taiwanPorkRibSoup.title':
+      'Perkembangan Perkotaan dan Kesenjangan Kota-Desa di Taiwan',
+    'map.markers.taiwanPorkRibSoup.desc':
+      'Ketimpangan perkembangan kota-desa Taiwan dalam tatanan enam munisipalitas khusus, serta transformasi ruang dari Taiwan agraris menuju Taiwan urban',
+    'map.markers.taiwanOysterOmelette.title': 'Topografi dan Geologi',
+    'map.markers.taiwanOysterOmelette.desc':
+      'Daratan berusia 600萬 tahun yang menyimpan kenangan purba selama 2億 tahun — keajaiban sabuk pembentukan pegunungan termuda dan tumbukan lempeng terdahsyat di dunia',
+    'map.markers.taiwanBreakfastCulture.title':
+      'Karakteristik Kota dan Budaya Regional',
+    'map.markers.taiwanBreakfastCulture.desc':
+      'Dari metropolis internasional Taipei hingga pesona kota tua Tainan, bagaimana setiap kota di Taiwan membentuk identitas lokal yang unik',
+    'map.markers.taiwanConvenienceStoreFood.title':
+      'Pulau Terluar dan Budaya Bahari: Dari Kepadatan Bendungan Perangkap Ikan Tertinggi di Dunia hingga Hukum Ekologi Musim Ikan Terbang',
+    'map.markers.taiwanConvenienceStoreFood.desc':
+      'Di seluruh dunia terdapat kurang dari 600 bendungan perangkap ikan, dan 574 di antaranya berada di Penghu. Sebuah suku kepulauan yang khusus menangkap ikan terbang mengubah pantangan menjadi sistem pengelolaan sumber daya laut yang sangat presisi',
+    'map.markers.dutchSpanishColonialPeriod.title':
+      'Insiden 28 Februari dan Teror Putih: Trauma dan Ingatan di Bawah Pemerintahan Otoriter Taiwan',
+    'map.markers.dutchSpanishColonialPeriod.desc':
+      'Dari Insiden 28 Februari 1947 hingga rezim darurat militer selama 38 tahun, Taiwan mengalami kekerasan negara di bawah pemerintahan otoriter dan baru mulai menghadapi trauma sejarah serta mendorong keadilan transisional setelah darurat militer dicabut.',
+    'map.markers.zhengDynastyPeriod.title':
+      'Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat',
+    'map.markers.zhengDynastyPeriod.desc':
+      'Meninjau tiga krisis besar Selat Taiwan dan perjalanan perkembangan hubungan lintas selat selama lebih dari tujuh puluh tahun untuk memahami konteks sejarah dan tantangan kontemporer situasi Selat Taiwan',
+    'map.markers.qingDynastyTaiwanHistory.title':
+      'Sejarah Perdagangan Maritim Taiwan',
+    'map.markers.qingDynastyTaiwanHistory.desc':
+      'Kisah legendaris pasang surut Taiwan pada Zaman Penjelajahan, dari pusat perdagangan internasional hingga kerajaan bajak laut',
+    'map.markers.japaneseColonialRule.title':
+      'Sejarah Permukiman Keluarga Militer Taiwan',
+    'map.markers.japaneseColonialRule.desc':
+      'Dari pasukan terlantar di Myanmar hingga kerajaan berpagar bambu, bagaimana migrasi besar 120萬 orang mendefinisikan ulang 「rumah」',
+    'map.markers.februaryTwentyEightIncident.title':
+      'Sejarah Perkeretaapian Taiwan',
+    'map.markers.februaryTwentyEightIncident.desc':
+      'Dari Liu Ming-chuan pada masa Dinasti Qing, Jalur Utama masa pemerintahan Jepang, hingga kereta cepat, bagaimana perkeretaapian membentuk perkembangan kota dan ingatan budaya Taiwan',
+    'map.markers.martialLawPeriod.title':
+      'Perpindahan Pemerintah Nasionalis ke Taiwan dan Rekonstruksi Pascaperang',
+    'map.markers.martialLawPeriod.desc':
+      'Membahas latar belakang sejarah, proses, dan dampak perpindahan Pemerintah Nasionalis ke Taiwan pada 1949, serta rekonstruksi politik, ekonomi, dan sosial Taiwan pascaperang',
+    'map.markers.democratization.title': 'Masa Pemerintahan Jepang',
+    'map.markers.democratization.desc':
+      'Pada 1895-1945, Jepang memerintah Taiwan selama 50 tahun, menghadirkan pembangunan modernisasi menyeluruh dan pengelolaan terlembaga sekaligus menerapkan kebijakan asimilasi yang sangat memengaruhi perkembangan masyarakat Taiwan',
+    'map.markers.taiwanIndependenceMovement.title': 'Masa Pemerintahan Qing',
+    'map.markers.taiwanIndependenceMovement.desc':
+      'Pada 1683-1895, Dinasti Qing memerintah Taiwan selama sekitar 212 tahun, beralih dari tata kelola pasif menuju pembangunan aktif serta meletakkan dasar pembagian administratif Taiwan modern dan masyarakat Han',
+    'map.markers.taiwanChinaRelations.title':
+      'Masa Belanda, Spanyol, dan Kerajaan Tungning',
+    'map.markers.taiwanChinaRelations.desc':
+      'Pemerintahan kolonial sistematis pertama dalam sejarah Taiwan, dari pembangunan Benteng Zeelandia oleh Belanda hingga pembukaan Taiwan oleh Koxinga, yang meletakkan dasar migrasi masyarakat Han dan sistem politik',
+    'map.markers.taiwanUsRelations.title': 'Budaya Toko Serba Ada',
+    'map.markers.taiwanUsRelations.desc':
+      'Bagaimana toko serba ada Taiwan, yang kepadatannya tertinggi di dunia, bertransformasi dari gerai ritel menjadi sistem operasi kehidupan bagi seluruh negara',
+    'map.markers.taiwanInternationalStatus.title': 'Sistem Transportasi Taiwan',
+    'map.markers.taiwanInternationalStatus.desc':
+      'Kereta cepat melintasi utara dan selatan dalam 90 menit, MRT merajut urat nadi perkotaan dengan rapat, dan sepeda motor menyusuri gang-gang',
+    'map.markers.taiwanHistoricalFigures.title': 'Budaya Toko Serba Ada Taiwan',
+    'map.markers.taiwanHistoricalFigures.desc':
+      'Negara toko serba ada dengan kepadatan tertinggi di dunia; inovasi lokalisasi 7-11 dan FamilyMart mendefinisikan ulang gaya hidup modern',
+    'map.markers.taiwanPoliticalFigures.title':
+      'Taman dan Rekreasi Sehari-hari di Taiwan',
+    'map.markers.taiwanPoliticalFigures.desc':
+      'Dari tai chi pada dini hari hingga berjalan-jalan pada malam hari——pengamatan budaya terhadap taman Taiwan sebagai ruang sosial lintas generasi',
+    'map.markers.kuomintangHistory.title': 'Budaya Kopi Taiwan',
+    'map.markers.kuomintangHistory.desc':
+      'Dengan kepadatan kedai kopi independen termasuk tiga tertinggi di dunia, dari biji Alishan hingga bekerja di kedai kopi—seluk-beluk kopi di negara kepulauan ini',
+    'map.markers.democraticProgressivePartyHistory.title':
+      'Negara yang Mengejar Truk Sampah: Taiwan dari Krisis Sampah hingga Keajaiban Daur Ulang',
+    'map.markers.democraticProgressivePartyHistory.desc':
+      'Sebuah tempat yang pada 1990-an memiliki 400 tempat pembuangan akhir yang hampir penuh dan disebut 「negara sampah」 oleh media internasional, menggunakan musik Beethoven agar 2,300萬 orang mengejar truk sampah setiap hari; 30 tahun kemudian, tingkat daur ulang sumber dayanya melampaui sebagian besar negara Eropa',
+    'map.markers.taipeiHistory.title':
+      'Sejarah Perkembangan MRT Taiwan: Evolusi Kota yang Ditulis dengan Darah dan Uang',
+    'map.markers.taipeiHistory.desc':
+      'Balok baja seberat 209 ton jatuh dari langit dan merenggut 4 nyawa, ganti rugi 16.4億, sementara bisnis utama MRT Taipei masih merugi hingga kini——harga nyata di balik seluruh sistem MRT Taiwan',
+    'map.markers.taiwanPrehistoricCulture.title':
+      'Sistem Pendidikan Taiwan: Eksperimen Negara Kepulauan dari Neraka Ujian Bersama hingga Labirin Multijalur',
+    'map.markers.taiwanPrehistoricCulture.desc':
+      'Taiwan menghabiskan 30 tahun untuk menghapus sistem ujian masuk bersama, tetapi ujian mata pelajaran terbaru justru membuat pendaftaran di lembaga persiapan ujian ulang melonjak dua kali lipat. Bagaimana sebuah negara kepulauan berulang kali menjalankan eksperimen sosial di antara tekanan melanjutkan pendidikan dan keadilan pendidikan?',
+    'map.markers.taiwanIndigenousHistory.title': 'Budaya Sepeda Motor Taiwan',
+    'map.markers.taiwanIndigenousHistory.desc':
+      'Negara kepulauan dengan salah satu kepadatan sepeda motor tertinggi di dunia, serta evolusi budayanya dari sarana komuter menjadi gaya hidup',
+    'map.markers.taiwanMilitaryHistory.title':
+      'Budaya Arkade dan Lanskap Jalan Taiwan',
+    'map.markers.taiwanMilitaryHistory.desc':
+      'Koridor kehidupan yang melindungi dari angin dan hujan, serta kenangan jalanan Taiwan tempat sepeda motor, pedagang kaki lima, dan kehangatan antarmanusia berpadu',
+    'map.markers.taiwanWomenHistory.title': 'Kehidupan Malam dan Budaya KTV',
+    'map.markers.taiwanWomenHistory.desc':
+      'Dari ruang karaoke Cashbox Partyworld hingga kedai makan larut malam, kehidupan malam Taiwan yang berlangsung 24 jam tanpa henti',
+    'map.markers.taiwanEducationHistory.title':
+      'Agama dan Kepercayaan Rakyat: Dari Pengelolaan Ketakutan hingga Imperium Keagamaan',
+    'map.markers.taiwanEducationHistory.desc':
+      'Taiwan memiliki kepadatan kuil tertinggi di dunia, tetapi juga menempati peringkat pertama dunia dalam kebebasan beragama—di balik kontradiksi ini tersembunyi kearifan bertahan hidup para migran militer abad ke-17',
+    'map.markers.taiwanReligiousHistory.title': 'Budaya Pemandian Air Panas',
+    'map.markers.taiwanReligiousHistory.desc':
+      'Dari pemulihan kesehatan militer hingga salah satu dari tiga mata air lumpur utama dunia: kisah Taiwan yang tanpa diduga menjadi kerajaan pemandian air panas',
+    'map.markers.taiwanMediaHistory.title':
+      'Tradisi Musik Masyarakat Adat Taiwan',
+    'map.markers.taiwanMediaHistory.desc':
+      'Menjelajahi kekayaan budaya musik 16 kelompok masyarakat adat Taiwan, dari lantunan melodi kuno hingga alat musik tradisional, serta menyaksikan warisan budaya selama ribuan tahun',
+    'map.markers.badmintonChampions.title':
+      'Industri Manufaktur Alat Musik Taiwan: Dari Saksofon Houli hingga Pabrik Musik Dunia',
+    'map.markers.badmintonChampions.desc':
+      'Menjelajahi perkembangan industri manufaktur alat musik Taiwan, dari dominasi global saksofon Houli dan kerajaan produksi gitar berdasarkan kontrak hingga keahlian presisi pembuatan kotak musik, serta bagaimana Taiwan beralih dari produksi kontrak menuju merek sendiri',
+    'map.markers.baseballCulture.title': 'Gerakan Lagu Rakyat Taiwan',
+    'map.markers.baseballCulture.desc':
+      'Dari “menyanyikan lagu kita sendiri” hingga mengubah seluruh kancah musik berbahasa Tionghoa—revolusi budaya milik kaum muda pada 1970-an',
+    'map.markers.taiwanBasketball.title':
+      'Evolusi Kancah Musik Independen Taiwan',
+    'map.markers.taiwanBasketball.desc':
+      'Dari grup musik bawah tanah hingga musik independen, menjelajahi tiga dekade perkembangan dan makna budaya musik nonarus utama Taiwan',
+    'map.markers.marathonRunning.title':
+      'Musik Elektronik dan Budaya Pesta Taiwan: Dari Rave Bawah Tanah hingga Panggung Internasional',
+    'map.markers.marathonRunning.desc':
+      'Dari budaya pesta Rave pada 1990-an hingga festival musik elektronik Road to Ultra, bagaimana musik elektronik Taiwan beralih dari bawah tanah ke arus utama serta melahirkan DJ kelas internasional dan label elektronik independen',
+    'map.markers.taiwanEsports.title':
+      'Budaya Festival Musik Taiwan: Dari Spring Scream hingga Wadah Budaya Kaum Muda yang Berkembang di Mana-mana',
+    'map.markers.taiwanEsports.desc':
+      'Menjelajahi perkembangan festival musik Taiwan dari Spring Scream dan Hohaiyan Rock Festival hingga Megaport Festival, serta bagaimana festival-festival tersebut menjadi inkubator grup musik independen dan wadah utama ekspresi budaya kaum muda',
+    'map.markers.taiwanOlympics.title':
+      'Kancah Musik Independen Taiwan Kontemporer',
+    'map.markers.taiwanOlympics.desc':
+      'Dari pertunjukan bawah tanah hingga matriks industri, menguraikan perkembangan ekosistem musik independen Taiwan modern dan pengaruh budayanya',
+    'map.markers.taipeiCycle.title':
+      'Kearifan Ekologis dan Pelestarian Lingkungan Masyarakat Adat Taiwan',
+    'map.markers.taipeiCycle.desc':
+      'Mengkaji pengetahuan ekologis tradisional yang dihimpun masyarakat adat Taiwan selama ribuan tahun serta nilai penting dan penerapannya dalam pelestarian lingkungan modern',
+    'map.markers.taiwanBetelNutCulture.title':
+      'Pegunungan dan Budaya Pendakian Taiwan',
+    'map.markers.taiwanBetelNutCulture.desc':
+      '268 gunung setinggi tiga ribu meter dan budaya Seratus Puncak: perkembangan olahraga pendakian Taiwan dan tantangan pelestarian pegunungan',
+    'map.markers.taiwanElections.title': 'Ekosistem Hutan Taiwan',
+    'map.markers.taiwanElections.desc':
+      'Dari pesisir subtropis hingga hutan konifer pegunungan tinggi, kekayaan dunia hutan dalam perbedaan elevasi vertikal 3000 meter di Taiwan',
+    'map.markers.taiwanLgbtCulture.title':
+      'Perubahan Iklim dan Transisi Nol Bersih Taiwan',
+    'map.markers.taiwanLgbtCulture.desc':
+      'Taiwan menghadapi dampak perubahan iklim, dari makin seringnya cuaca ekstrem hingga perencanaan kebijakan untuk mencapai target emisi karbon nol bersih pada 2050, seraya mengkaji peluang dan tantangan dalam proses transisi energi',
+    'map.markers.taiwanMotorcycleCulture.title':
+      'Pelestarian Laut Taiwan: Mengapa Sistem yang Dibangun Selama 30 Tahun Tak Mampu Menyelamatkan Satu Peristiwa Pemutihan Karang?',
+    'map.markers.taiwanMotorcycleCulture.desc':
+      'Pada 2020, perairan Taiwan mengalami pemutihan karang terbesar sepanjang sejarah. Dari Xiaoliuqiu hingga Atol Dongsha, bahkan karang di dalam kawasan lindung mati akibat suhu tinggi. Masalah apa yang diungkap oleh peristiwa ini?',
+    'map.markers.taipeiMrt.title':
+      'Pengendalian Pencemaran Laut dan Tantangan Pelestarian Taiwan',
+    'map.markers.taipeiMrt.desc':
+      'Menghadapi sampah laut, penangkapan ikan berlebihan, dan perubahan iklim, mengkaji kondisi terkini, tantangan, serta solusi inovatif bagi pelestarian laut Taiwan',
+    'map.markers.kaohsiungMrt.title': 'Ekologi Laut Taiwan',
+    'map.markers.kaohsiungMrt.desc':
+      'Perairan yang dijaga suku Tao melalui pantangan kini memutih akibat suhu tinggi dan kebisingan bawah air: ketika kearifan ekologis ribuan tahun berhadapan dengan krisis laut modern',
+    'map.markers.taichungMrt.title':
+      'Ekologi Laut dan Pelestarian Terumbu Karang Taiwan',
+    'map.markers.taichungMrt.desc':
+      'Dikelilingi laut, Taiwan memiliki ekologi laut yang kaya; dari krisis pemutihan terumbu karang hingga pelestarian paus dan lumba-lumba, mengkaji efektivitas perlindungan taman nasional laut dan tantangan masa depannya',
+    'map.markers.taiwanTrainSystem.title':
+      'Pemandian Air Panas dan Energi Panas Bumi Taiwan',
+    'map.markers.taiwanTrainSystem.desc':
+      'Dari pembangkit listrik tenaga panas bumi yang gagal 30 tahun lalu hingga hokutolit yang satu-satunya di dunia: bagaimana Taiwan mengubah api bawah tanah menjadi sarana penyembuhan dan listrik hijau',
+    'map.markers.taiwanBusSystem.title': 'Pelestarian Kucing Tutul Taiwan',
+    'map.markers.taiwanBusSystem.desc':
+      'Kucing hantu yang tersisa kurang dari lima ratus ekor di seluruh Taiwan—ketika spesies kucing asli terakhir berada di ambang kepunahan',
+    'map.markers.taiwanInnovationEcosystem.title': 'Trenggiling Taiwan',
+    'map.markers.taiwanInnovationEcosystem.desc':
+      'Mamalia yang paling banyak diselundupkan di dunia menemukan rumah yang aman di Taiwan',
+    'map.markers.taiwanMedicalSystem.title':
+      'Ekosistem Pegunungan Tinggi dan Relik Glasial Taiwan',
+    'map.markers.taiwanMedicalSystem.desc':
+      'Mengkaji ekosistem unik lingkungan pegunungan Taiwan di atas 3000 meter serta keanekaragaman hayati berharganya, dari Taiwania dan rhododendron Yushan hingga spesies relik zaman es',
+    'map.markers.taiwanEducationSystem.title': 'Beruang Hitam Taiwan',
+    'map.markers.taiwanEducationSystem.desc':
+      'Huruf V putih di dadanya adalah ciri khasnya—penguasa terakhir hutan pegunungan Taiwan dan perjuangan pelestariannya yang belum usai',
+    'map.markers.taiwanMusicIndustry.title': 'Taman Nasional',
+    'map.markers.taiwanMusicIndustry.desc':
+      '9 taman nasional dalam wilayah seluas 36,197 kilometer persegi, keajaiban pelestarian dengan kepadatan tertinggi di dunia',
+    'map.markers.mandarinPopMusic.title': 'Taman Nasional Taiwan',
+    'map.markers.mandarinPopMusic.desc':
+      'Menjelajahi ekosistem unik dan nilai pelestarian sembilan taman nasional Taiwan, dari pesisir subtropis hingga garis salju pegunungan tinggi dengan bentang alam yang lengkap',
+    'map.markers.taiwaneseIndieMusic.title': 'Spesies Endemik',
+    'map.markers.taiwaneseIndieMusic.desc':
+      'Kekayaan spesies endemik Taiwan memperlihatkan keajaiban evolusi biogeografi kepulauan dan pentingnya pelestarian',
+    'map.markers.taiwanRapHipHop.title': 'Keanekaragaman Ekologis',
+    'map.markers.taiwanRapHipHop.desc':
+      'Luas Taiwan hanya mencakup 0.025% wilayah dunia, tetapi memiliki lebih dari 5万 spesies, dengan tutupan hutan sebesar 60.71% yang menempati peringkat ke-33 dunia',
+    'map.markers.taiwanElectronicMusic.title': 'Paus dan Lumba-Lumba Taiwan',
+    'map.markers.taiwanElectronicMusic.desc':
+      'Habitat bagi sepertiga spesies paus dan lumba-lumba dunia—dari perburuan paus pada masa lalu hingga wisata pengamatan paus masa kini, bagaimana Taiwan bertransformasi menjadi pusat penting penelitian ekologi laut?',
+    'map.markers.taiwanTraditionalMusic.title': 'Mayday',
+    'map.markers.taiwanTraditionalMusic.desc':
+      'Dari SMA Afiliasi Universitas Normal Nasional Taiwan menuju panggung dunia, para pemuda abadi yang mendefinisikan semangat musik rock berbahasa Tionghoa',
+    'map.markers.taiwanFilmIndustry.title': 'Wu Bai',
+    'map.markers.taiwanFilmIndustry.desc':
+      'Pusaka nasional musik rock Taiwan dan sosok yang identik dengan musik rock lokal, yang mengukuhkan kedudukannya melalui karya-karya seperti 《Norwegian Wood》',
+    'map.markers.newTaiwanCinema.title': 'Wu Pao-chun',
+    'map.markers.newTaiwanCinema.desc':
+      'Juara kompetisi roti dunia yang memukau dunia internasional dengan roti mawar lecinya, dari pedesaan Pingtung hingga menjadi perajin roti kelas dunia',
+    'map.markers.taiwanDocumentary.title': 'Lu Hsiu-lien',
+    'map.markers.taiwanDocumentary.desc':
+      'Dari terpidana pemberontakan hingga wakil presiden: kisah hidup legendaris wakil presiden perempuan pertama di dunia Tionghoa',
+    'map.markers.taiwanAnimationIndustry.title': 'Jimmy Liao',
+    'map.markers.taiwanAnimationIndustry.desc':
+      'Penyair ilustrasi yang menghangatkan dunia melalui buku bergambar dan membawa buku bergambar Taiwan ke panggung internasional',
+    'map.markers.taiwanTelevisionIndustry.title': 'Tai Tzu-ying',
+    'map.markers.taiwanTelevisionIndustry.desc':
+      'Pemegang rekor peringkat satu dunia selama 214 pekan, ratu bulu tangkis Taiwan yang meniti jalan dari Qianzhen, Kaohsiung, hingga meraih medali perak Olimpiade',
+    'map.markers.taiwanOttPlatforms.title': 'Li Ang',
+    'map.markers.taiwanOttPlatforms.desc':
+      'Penulis 《Istri Tukang Jagal》 dan 《Taman yang Tersesat》, pelopor sastra feminis Taiwan',
+    'map.markers.taiwanPodcastIndustry.title': 'Lee Chih-kai',
+    'map.markers.taiwanPodcastIndustry.desc':
+      'Dari Kai si anak pasar dalam 《Jump! Boys》 hingga meraih medali perak Olimpiade, enam belas tahun perjalanan jungkir balik sang pangeran kuda pelana Taiwan',
+    'map.markers.taiwanPublishing.title': 'Lee Yuan-tseh',
+    'map.markers.taiwanPublishing.desc':
+      'Pemenang Hadiah Nobel Kimia 1986 yang merintis bidang baru dinamika kimia melalui teknik berkas molekul bersilang, serta ilmuwan Taiwan pertama yang meraih Hadiah Nobel',
+    'map.markers.taiwanBookstoreCulture.title': 'Tu Tsung-ming',
+    'map.markers.taiwanBookstoreCulture.desc':
+      'Doktor ilmu kedokteran pertama Taiwan, bapak kedokteran modern Taiwan',
+    'map.markers.taiwanComicMangaIndustry.title': 'Jeremy Lin',
+    'map.markers.taiwanComicMangaIndustry.desc':
+      'Pemain Amerika keturunan Taiwan yang melangkah dari mahasiswa berprestasi Harvard hingga menjadi juara NBA dan memicu demam Linsanity di seluruh dunia',
+    'map.markers.taiwanGameIndustry.title': 'Lin Yi-chieh',
+    'map.markers.taiwanGameIndustry.desc':
+      'Dari anak kurus yang ditolak tim atletik hingga pelari ekstrem yang mencetak sejarah dengan menyeberangi Gurun Sahara berjalan kaki',
+    'map.markers.nationalPalaceMuseum.title': 'Lin Yi-hsiung',
+    'map.markers.nationalPalaceMuseum.desc':
+      'Pelopor gerakan demokrasi, korban Pembantaian Keluarga Lin, dan pemimpin gerakan penolakan PLTN Keempat',
+    'map.markers.nationalParks.title': 'Edward Yang',
+    'map.markers.nationalParks.desc':
+      'Tokoh utama gerakan Sinema Baru Taiwan, peraih penghargaan Sutradara Terbaik Cannes, dan penyair keterasingan perkotaan',
+    'map.markers.taiwanGeography.title': 'Pai Hsien-yung',
+    'map.markers.taiwanGeography.desc':
+      'Penulis 《Orang-Orang Taipei》, maestro sastra modern dan penggerak kebangkitan opera Kunqu',
+    'map.markers.taiwanClimate.title': 'Crowd Lu',
+    'map.markers.taiwanClimate.desc':
+      'Penyanyi-penulis lagu dan aktor Taiwan, pemenang tiga penghargaan utama (Golden Melody, Golden Bell, dan Golden Horse), terkenal karena citranya yang membumi dan ramah serta gaya bernyanyinya yang khas',
+    'map.markers.taiwanEcosystem.title': 'Chuang Chih-yuan',
+    'map.markers.taiwanEcosystem.desc':
+      'Bapak tenis meja Taiwan, wakil Taiwan dalam empat Olimpiade, dan pahlawan penyendiri yang berlatih keras seorang diri',
+    'map.markers.taiwanEndangeredSpecies.title': 'Tsai Ming-liang',
+    'map.markers.taiwanEndangeredSpecies.desc':
+      'Peraih Singa Emas Venesia, seorang Tionghoa Malaysia, dan maestro estetika sinema lambat',
+    'map.markers.taiwanMarineEcology.title': 'Hsu Wen-lung',
+    'map.markers.taiwanMarineEcology.desc':
+      'Pendiri Chi Mei Group yang sekaligus berkiprah sebagai pengusaha, pemain biola, dan kolektor seni, serta pendiri Museum Chimei',
+    'map.markers.taiwanBirdwatching.title': 'Hsu Fang-yi',
+    'map.markers.taiwanBirdwatching.desc':
+      'Dari gadis Yilan menjadi penari utama Martha Graham Dance Company, lalu kembali ke Taiwan untuk mendirikan LAFA & Artists——melalui tubuhnya, ia menuturkan kisah Taiwan yang paling penuh daya',
+    'map.markers.taiwanHotSprings.title':
+      'Lai Ching-te: dokter kesehatan masyarakat dari keluarga penambang hingga Istana Kepresidenan',
+    'map.markers.taiwanHotSprings.desc':
+      'Presiden Taiwan ke-16, tokoh politik pertama dalam sejarah konstitusional Republik Tiongkok (Taiwan) yang mencalonkan diri sebagai presiden ketika menjabat wakil presiden dan berhasil terpilih',
+    'map.markers.taiwanIslands.title': 'Kuo Hsing-chun',
+    'map.markers.taiwanIslands.desc':
+      'Dewi angkat besi Taiwan, peraih medali emas Olimpiade Tokyo 2021, dan pemegang tiga rekor Olimpiade kelas 59 kilogram',
+    'map.markers.taiwanMountains.title': 'Teng Yu-hsien',
+    'map.markers.taiwanMountains.desc':
+      'Bapak lagu rakyat Taiwan, pencipta lagu klasik berbahasa Taiwan seperti 《Bāng Chhun-hong》, 《Ú-iā Hoe》, dan 《Gue̍h-iā Chhiû》',
+    'map.markers.taiwanRivers.title': 'Chung Li-ho',
+    'map.markers.taiwanRivers.desc':
+      'Penulis 《Orang dari Kampung Halaman》, bapak sastra Taiwan, dan pejuang sastra yang terus berkarya meski didera kemiskinan dan penyakit',
+    'map.markers.taiwanCoastline.title': 'Chen Shu-chu',
+    'map.markers.taiwanCoastline.desc':
+      'Kebaikan sederhana seorang pedagang sayur dari Taitung yang sepanjang hidupnya menunjukkan arti kekayaan sejati',
+    'map.markers.taiwanForests.title': 'Chen Shui-bian',
+    'map.markers.taiwanForests.desc':
+      'Presiden ke-10 dan ke-11, tokoh utama peralihan kekuasaan antarpartai pertama pada 2000, dan figur penting demokratisasi Taiwan',
+    'map.markers.taiwanNaturalDisasters.title': 'Ma Ying-jeou',
+    'map.markers.taiwanNaturalDisasters.desc':
+      'Presiden ke-12 dan ke-13, penggerak pencairan hubungan lintas Selat Taiwan, dan penanda tangan ECFA',
+    'map.markers.taiwanEarthquakes.title': 'Huang Chun-ming',
+    'map.markers.taiwanEarthquakes.desc':
+      'Penulis 《Boneka Besar Putraku》 dan 《Hari-Hari Menatap Laut》, sastrawan terkemuka sastra kedaerahan Yilan',
+    'map.markers.taiwanTyphoons.title':
+      'Huang Chen-nan: “Takeshi Kaneshiro” dunia koleksi buku dan mata air hidup sejarah serta budaya Taiwan',
+    'map.markers.taiwanTyphoons.desc':
+      'Huang Chen-nan adalah pegiat sejarah dan budaya Taiwan, kolektor buku, serta penulis. Ia mengawali kiprahnya dengan nama pengguna PTT Sizumaru dan mengelola laman 「Ruang Buku Mata Air Hidup」 untuk berbagi sejarah Taiwan serta budaya buku lawas. Ia menulis buku seperti 《Sejarah Taiwan Paling Jenaka dalam Sejarah Taiwan》 dan dijuluki “Takeshi Kaneshiro” dunia koleksi buku. Berasal dari keluarga pencinta buku di Liujiao, Chiayi, ia dan ayahnya berbagi tugas mengumpulkan dokumen di Taiwan utara dan selatan, serta berupaya menjadikan sejarah Taiwan yang serius terasa menarik dan mudah didekati.',
+    'map.markers.sunflowerMovement.title':
+      'Kebun Binatang dan Etika Satwa Pertunjukan',
+    'map.markers.sunflowerMovement.desc':
+      'Dari gajah dalam kandang besi hingga dinding ubur-ubur Xpark——Taiwan tengah mendefinisikan ulang hubungan manusia dengan satwa yang dipamerkan',
+    'map.markers.taiwanSocialMovements.title':
+      'Keadilan Tanah dan Wilayah Tradisional Masyarakat Adat Taiwan',
+    'map.markers.taiwanSocialMovements.desc':
+      'Membahas konteks sejarah hak atas tanah masyarakat adat Taiwan, perkembangan hukum, sengketa penetapan wilayah tradisional, serta hasil kerja Komisi Keadilan Transisional Masyarakat Adat',
+    'map.markers.taiwanMarriageEquality.title':
+      'Pernikahan Sesama Jenis dan Kesetaraan Gender di Taiwan',
+    'map.markers.taiwanMarriageEquality.desc':
+      'Dari narapidana pada masa darurat militer hingga undang-undang pernikahan sesama jenis pertama di Asia, bagaimana perjuangan seorang pria selama 30 tahun mengubah definisi cinta di Taiwan',
+    'map.markers.taiwanEnvironmentalJustice.title':
+      'Keadilan Lingkungan dan Sengketa NIMBY di Taiwan',
+    'map.markers.taiwanEnvironmentalJustice.desc':
+      'Membahas ketimpangan distribusi beban lingkungan di Taiwan, dari konflik NIMBY terkait insinerator, limbah nuklir, hingga industri petrokimia, serta menganalisis persoalan ketidaksetaraan lingkungan dan keadilan sosial',
+    'map.markers.taiwanCommunityRiCulture.title':
+      'Budaya Komunitas dan Lingkungan Setempat di Taiwan',
+    'map.markers.taiwanCommunityRiCulture.desc':
+      'Dari praktik demokrasi paling akar rumput hingga inovasi sosial dalam pembangunan komunitas',
+    'map.markers.taiwanLongTermCare.title':
+      'Perkembangan Sistem Perawatan Jangka Panjang Taiwan',
+    'map.markers.taiwanLongTermCare.desc':
+      'Salah satu sistem perawatan jangka panjang paling maju di dunia, tetapi sekaligus memiliki sistem perawatan tak kasatmata terbesar',
+    'map.markers.taiwanLaborMovement.title':
+      'Pelestarian Lingkungan dan Pembangunan Berkelanjutan',
+    'map.markers.taiwanLaborMovement.desc':
+      'Dari pulau cerobong asap menuju Taiwan nol emisi bersih: perjalanan kebangkitan gerakan lingkungan selama 40 tahun',
+    'map.markers.taiwanHousingIssues.title':
+      'Perumahan Sosial dan Keadilan Hunian',
+    'map.markers.taiwanHousingIssues.desc':
+      'Bagaimana Taiwan mewujudkan keadilan hunian melalui kebijakan perumahan sosial agar setiap orang memiliki tempat tinggal yang aman',
+    'map.markers.taiwanHealthcareSystem.title':
+      'Perkembangan Kawasan Sains dan Teknologi',
+    'map.markers.taiwanHealthcareSystem.desc':
+      'Dari Hsinchu Science Park hingga Southern Taiwan Science Park, menelusuri perkembangan kawasan sains Taiwan dan posisi unik ketiga kawasan utamanya',
+    'map.markers.taiwanImmigration.title': 'Industri Semikonduktor',
+    'map.markers.taiwanImmigration.desc':
+      'Dari pertaruhan bersejarah Morris Chang hingga era 2 nanometer: bagaimana TSMC menjadikan Taiwan urat nadi teknologi global',
+    'map.markers.taiwanReligiousDiversity.title':
+      'Bentang Alam Pesisir dan Laut Taiwan',
+    'map.markers.taiwanReligiousDiversity.desc':
+      'Leher Queen’s Head di Yehliu menipis dengan kecepatan 0.2 sentimeter per tahun dan suatu hari akan patah——inilah takdir sekaligus keindahan bentang alam pesisir Taiwan',
+    'map.markers.taiwanBuddhismTaoism.title':
+      'Budaya Teh dan Estetika Kehidupan Taiwan',
+    'map.markers.taiwanBuddhismTaoism.desc':
+      'Pada malam Wistaria Tea House dibuka pada 1981, tokoh oposisi dan sastrawan berkumpul menikmati teh; tempat ini bukan sekadar kedai teh, melainkan juga markas rahasia gerakan perlawanan',
+    'map.markers.taiwanFolkReligion.title':
+      'Pemilu dan Politik Kepartaian Taiwan',
+    'map.markers.taiwanFolkReligion.desc':
+      'Dari anggota dewan daerah pada 1950 hingga pergantian partai berkuasa pada 2000, lihat bagaimana Taiwan menorehkan keajaiban transisi demokrasi melalui surat suara',
+    'map.markers.taiwanChristianity.title':
+      'Perkembangan Perkotaan dan Kesenjangan Kota-Desa di Taiwan',
+    'map.markers.taiwanChristianity.desc':
+      'Dalam 70 tahun, Taiwan berubah dari pulau agraris menjadi pulau perkotaan; sisi terang dan gelap ketika enam kota khusus menampung 70% populasi: kontras tajam antara Taichung yang makmur dan Yunlin yang merosot',
+    'map.markers.taiwanIslamJudaism.title':
+      'Ciri Khas Kota dan Budaya Regional',
+    'map.markers.taiwanIslamJudaism.desc':
+      'Dari New Taipei berpenduduk 404萬人 hingga Tainan berpenduduk 185萬人, lihat bagaimana enam kota khusus membentuk karakter perkotaan masing-masing di tengah transformasi industri',
+    'map.markers.kaohsiungIncident.title': 'Demokratisasi',
+    'map.markers.kaohsiungIncident.desc':
+      'Bentrok antara polisi dan warga di jalanan Kaohsiung pada 1979年12月10日 akhirnya melahirkan transisi demokrasi Taiwan——tetapi berapa banyak masa muda dan kebebasan yang harus dikorbankan?',
+    'map.markers.wangLeeOlympicGold.title':
+      'Wang Chi-lin dan Lee Yang（Pasangan Lin-Yang）',
+    'map.markers.wangLeeOlympicGold.desc':
+      'Dari teman semasa SMP hingga peraih medali emas Olimpiade:「Pasangan Lin-Yang」mengalahkan Tiongkok dua gim langsung dalam 34 menit, menorehkan medali emas Olimpiade pertama dalam sejarah bulu tangkis Taiwan',
+  },
+  pt: {
+    // Meta
+    'map.meta.title': 'Mapa de Taiwan Map',
+    'map.meta.description':
+      'Explore as conexões do conteúdo do Taiwan.md por meio do mapa',
+
+    // Hero Section
+    'map.hero.kicker': 'Map View',
+    'map.hero.title': 'Mapa de Taiwan',
+    'map.hero.subtitle':
+      'Explore a cultura, a gastronomia, a natureza e os marcos históricos de Taiwan por meio do mapa.',
+
+    // Controls - Region Filter
+    'map.controls.region.title': 'Filtrar por região',
+    'map.controls.region.all': 'Todas',
+    'map.controls.region.north': 'Norte',
+    'map.controls.region.central': 'Centro',
+    'map.controls.region.south': 'Sul',
+    'map.controls.region.east': 'Leste',
+    'map.controls.region.islands': 'Ilhas periféricas',
+
+    // Controls - Category Filter
+    'map.controls.category.title': 'Filtrar por categoria',
+    'map.controls.category.all': 'Todas',
+    'map.controls.category.food': '🍜 Gastronomia',
+    'map.controls.category.history': '📜 História',
+    'map.controls.category.nature': '🌿 Natureza',
+    'map.controls.category.culture': '🎭 Cultura',
+    'map.controls.category.technology': '💻 Tecnologia',
+    'map.controls.category.economy': '📈 Economia',
+    'map.controls.category.lifestyle': '🏮 Estilo de vida',
+    'map.controls.category.art': '🎨 Arte',
+    'map.controls.category.geography': '🗺️ Geografia',
+
+    // Route Section
+    'map.route.title': '🗺️ Roteiros temáticos',
+    'map.route.normal-mode': 'Modo normal',
+
+    // Sidebar - Default
+    'map.sidebar.default.title': '📍 Explore artigos sobre Taiwan',
+    'map.sidebar.default.hint':
+      'Clique em uma cidade, um condado ou um marcador no mapa para explorar os artigos',
+
+    // Sidebar - County
+    'map.sidebar.county.clear': '✕ Limpar seleção',
+    'map.sidebar.county.articles-count': 'artigos',
+    'map.sidebar.county.no-articles': 'Ainda não há artigos sobre esta região',
+
+    // Sidebar - Article
+    'map.sidebar.article.back': '← Voltar',
+    'map.sidebar.article.read-more': 'Leia o artigo completo →',
+
+    // Zoom Controls
+    'map.zoom.in': '＋',
+    'map.zoom.out': '－',
+    'map.zoom.reset': '⌂',
+
+    // Tooltips
+    'map.tooltip.county.articles': 'artigos relacionados',
+    'map.tooltip.county.click': 'Clique para filtrar esta região',
+    'map.tooltip.marker.reading-time': 'minutos de leitura',
+
+    // Panel (for compatibility)
+    'map.panel.title': 'Mapa do conhecimento de Taiwan',
+    'map.panel.stat.points': 'Pontos de conhecimento',
+    'map.panel.stat.categories': 'Categorias',
+    'map.panel.category-distribution': 'Distribuição por categoria',
+    'map.panel.link.graph': '🕸️ Grafo do conhecimento',
+    'map.panel.link.home': '🏠 Visão geral das categorias',
+
+    // Category Names (for JS usage)
+    'map.category.history': '📜 História',
+    'map.category.geography': '🗺️ Geografia',
+    'map.category.culture': '🎭 Cultura',
+    'map.category.food': '🍜 Gastronomia',
+    'map.category.art': '🎨 Arte',
+    'map.category.music': '🎵 Música',
+    'map.category.technology': '💻 Tecnologia',
+    'map.category.nature': '🌿 Natureza',
+    'map.category.people': '👥 Personalidades',
+    'map.category.society': '⚖️ Sociedade',
+    'map.category.economy': '📈 Economia',
+    'map.category.lifestyle': '🏮 Estilo de vida',
+
+    // Additional UI text
+    'map.sidebar.more-articles': '⋯e mais',
+    'map.sidebar.more-articles-suffix': 'artigos',
+
+    // Routes
+    'map.routes.nightMarkets.name': '🍜 Circuito dos mercados noturnos',
+    'map.routes.nightMarkets.description':
+      'De norte a sul, a emblemática cultura dos mercados noturnos de Taiwan',
+    'map.routes.nationalParks.name': '🏔️ Circuito dos parques nacionais',
+    'map.routes.nationalParks.description':
+      'Das montanhas de 3,952 metros aos recifes de coral tropicais, as maravilhas naturais de Taiwan',
+    'map.routes.historyTrail.name': '📜 Trilha histórica',
+    'map.routes.historyTrail.description':
+      'Da colonização neerlandesa à democratização, percorra quatrocentos anos de Taiwan',
+    'map.routes.oldStreets.name': '🏮 Passeio pelas ruas históricas',
+    'map.routes.oldStreets.description':
+      'As memórias de Taiwan em ruas centenárias, onde a arquitetura é história',
+
+    'map.routes.counties22.name':
+      '📍 Artigos aprofundados sobre 22 cidades e condados',
+    'map.routes.counties22.description':
+      'Explore os 22 artigos aprofundados do Taiwan.md sobre cidades e condados, do pilot de Keelung ao finale de Nova Taipé — cada local revela uma tensão central.',
+    'map.counties22.panel.title':
+      '📍 Artigos aprofundados sobre 22 cidades e condados',
+    'map.counties22.panel.hint':
+      'Clique no cartão ou selecione a cidade ou o condado no mapa',
+    'map.counties22.tooltip.openDeep': 'Clique para abrir o artigo aprofundado',
+    'map.counties22.deepCard.badge':
+      '📖 Série das 22 cidades e condados · Artigo aprofundado',
+    'map.counties22.deepCard.cta': 'Leia o artigo completo →',
+
+    // Night Markets Stops
+    'map.stops.shilinNightMarket.name': 'Mercado Noturno de Shilin',
+    'map.stops.shilinNightMarket.note':
+      'O maior mercado noturno turístico de Taiwan e berço do bolinho grande recheado com bolinho pequeno',
+    'map.stops.raoheNightMarket.name': 'Mercado Noturno de Raohe',
+    'map.stops.raoheNightMarket.note':
+      'Templo das filas pelo bolinho de pimenta e favorito dos moradores de Taipé',
+    'map.stops.ningxiaNightMarket.name': 'Mercado Noturno de Ningxia',
+    'map.stops.ningxiaNightMarket.note':
+      'A maior concentração de sabores, em uma rua de comida popular recomendada pelo Michelin',
+    'map.stops.fengjiaNightMarket.name': 'Mercado Noturno de Fengchia',
+    'map.stops.fengjiaNightMarket.note':
+      'Laboratório de petiscos criativos e vanguarda da inovação nos mercados noturnos de Taiwan',
+    'map.stops.huayuanNightMarket.name': 'Mercado Noturno de Huayuan',
+    'map.stops.huayuanNightMarket.note':
+      'O maior mercado noturno de Tainan, uma celebração exclusiva que acontece apenas três dias por semana',
+    'map.stops.liuheNightMarket.name': 'Mercado Noturno de Liuhe',
+    'map.stops.liuheNightMarket.note':
+      'Mercado noturno emblemático de Kaohsiung, onde os frutos do mar são protagonistas',
+
+    // National Parks Stops
+    'map.stops.yangmingshanNationalPark.name':
+      'Parque Nacional de Yangmingshan',
+    'map.stops.yangmingshanNationalPark.note':
+      'O quintal de Taipé, com paisagens vulcânicas e refúgios de águas termais',
+    'map.stops.tarokoNationalPark.name': 'Parque Nacional de Taroko',
+    'map.stops.tarokoNationalPark.note':
+      'Um cânion de mármore e maravilha geológica de nível mundial',
+    'map.stops.yushanNationalPark.name': 'Parque Nacional de Yushan',
+    'map.stops.yushanNationalPark.note':
+      'O pico mais alto do nordeste da Ásia（3,952m）e o teto de Taiwan',
+    'map.stops.alishanScenicArea.name': 'Área Cênica Nacional de Alishan',
+    'map.stops.alishanScenicArea.note':
+      'Nascer do sol sobre um mar de nuvens, árvores sagradas e ferrovia florestal',
+    'map.stops.sunMoonLakeScenicArea.name':
+      'Área Cênica Nacional do Lago Sun Moon',
+    'map.stops.sunMoonLakeScenicArea.note':
+      'O maior lago natural de Taiwan e lago sagrado do povo Thao',
+    'map.stops.kentingNationalPark.name': 'Parque Nacional de Kenting',
+    'map.stops.kentingNationalPark.note':
+      'O extremo sul de Taiwan, com recifes de coral tropicais e a Península de Hengchun',
+
+    // History Trail Stops
+    'map.stops.anpingFort.name': 'Forte de Anping',
+    'map.stops.anpingFort.note':
+      'Construído pelos holandeses em 1624, é o forte mais antigo de Taiwan',
+    'map.stops.chikanTower.name': 'Torre Chikan',
+    'map.stops.chikanTower.note':
+      'Do forte holandês Provintia ao símbolo do domínio de Koxinga',
+    'map.stops.lukang.name': 'Lukang',
+    'map.stops.lukang.note':
+      'Segunda maior cidade de Taiwan durante a dinastia Ching: “Tainan em primeiro, Lukang em segundo e Manka em terceiro”',
+    'map.stops.presidentialOffice.name':
+      'Palácio Presidencial (antigo Gabinete do Governador-Geral de Taiwan)',
+    'map.stops.presidentialOffice.note':
+      'Concluído em 1919, foi o principal centro de poder durante o domínio japonês',
+    'map.stops.chiangKaiShekMemorialHall.name': 'Memorial Chiang Kai-shek',
+    'map.stops.chiangKaiShekMemorialHall.note':
+      'Símbolo do autoritarismo e foco dos debates sobre justiça de transição',
+    'map.stops.legislativeYuan.name': 'Yuan Legislativo (Movimento Girassol)',
+    'map.stops.legislativeYuan.note':
+      'Palco do Movimento Estudantil Girassol de 2014, um marco da democracia de Taiwan',
+
+    // Old Streets Stops
+    'map.stops.dihuaStreet.name': 'Rua Dihua',
+    'map.stops.dihuaStreet.note':
+      'O coração de Dadaocheng, famoso pelos produtos do norte e do sul e pelo mercado de Ano-Novo',
+    'map.stops.jiufenOldStreet.name': 'Rua Antiga de Jiufen',
+    'map.stops.jiufenOldStreet.note':
+      'Os anos dourados da mineração e a inspiração para A Viagem de Chihiro',
+    'map.stops.lukangOldStreet.name': 'Rua Antiga de Lukang',
+    'map.stops.lukangOldStreet.note':
+      'Um museu vivo de antigas casas de tijolos vermelhos e artesanato tradicional',
+    'map.stops.anpingOldStreet.name': 'Rua Antiga de Anping',
+    'map.stops.anpingOldStreet.note':
+      'A primeira rua de Taiwan, com quatrocentos anos de história acumulada',
+    'map.stops.qishanOldStreet.name': 'Rua Antiga de Chishan',
+    'map.stops.qishanOldStreet.note':
+      'O conjunto arquitetônico barroco do reino da banana',
+    'map.stops.tamsuiOldStreet.name': 'Rua Antiga de Tamsui',
+    'map.stops.tamsuiOldStreet.note':
+      'O pôr do sol, o agei e a atmosfera histórica da foz do rio Tamsui',
+
+    // Cities
+    'map.city.taipei': 'Taipé',
+    'map.city.newTaipei': 'Nova Taipé',
+    'map.city.keelung': 'Keelung',
+    'map.city.taoyuan': 'Taoyuan',
+    'map.city.hsinchu': 'Hsinchu',
+    'map.city.miaoli': 'Miaoli',
+    'map.city.taichung': 'Taichung',
+    'map.city.changhua': 'Changhua',
+    'map.city.nantou': 'Nantou',
+    'map.city.chiayi': 'Chiayi',
+    'map.city.tainan': 'Tainan',
+    'map.city.kaohsiung': 'Kaohsiung',
+    'map.city.pingtung': 'Pingtung',
+    'map.city.yilan': 'Yilan',
+    'map.city.hualien': 'Hualien',
+    'map.city.taitung': 'Taitung',
+    'map.city.penghu': 'Penghu',
+    'map.city.kinmen': 'Kinmen',
+
+    // Markers
+    'map.markers.founderCheYuWu.title': 'Fundador — Wu Che-Yu',
+    'map.markers.founderCheYuWu.desc':
+      'Do código à poesia: a trajetória de projeção internacional de um artista taiwanês',
+    'map.markers.taiwanIndigenousContemporaryArt.title':
+      'Arte indígena contemporânea de Taiwan',
+    'map.markers.taiwanIndigenousContemporaryArt.desc':
+      'Do artesanato tradicional à criação contemporânea, descubra como os artistas indígenas de Taiwan fazem suas vozes serem ouvidas no cenário artístico mundial e redefinem o diálogo entre identidade indígena e arte contemporânea',
+    'map.markers.taiwanExperimentalNewMediaArt.title':
+      'Arte experimental e de novas mídias de Taiwan',
+    'map.markers.taiwanExperimentalNewMediaArt.desc':
+      'Da videoarte às experiências interativas em VR, explore o desenvolvimento inovador e o ecossistema de arte e tecnologia das novas mídias de Taiwan',
+    'map.markers.taiwanArchitecture.title': 'Arquitetura de Taiwan',
+    'map.markers.taiwanArchitecture.desc':
+      'Das casas de pedra aos arranha-céus: uma viagem pela história arquitetônica de uma ilha',
+    'map.markers.taiwanNewMediaArt.title': 'Arte de novas mídias de Taiwan',
+    'map.markers.taiwanNewMediaArt.desc':
+      'Explore a cultura e as histórias de Taiwan',
+    'map.markers.taiwanWatercolorCenturyEvolution.title':
+      'Um século de transformações na aquarela de Taiwan',
+    'map.markers.taiwanWatercolorCenturyEvolution.desc':
+      'Da iniciação promovida por Ishikawa Kinichiro durante o domínio japonês ao reconhecimento internacional de Chien Chung-wei na atualidade, a aquarela de Taiwan percorreu um século e tornou a ilha um dos centros mais ativos dessa arte na Ásia.',
+    'map.markers.taiwanModernPoetry.title': 'Poesia moderna de Taiwan',
+    'map.markers.taiwanModernPoetry.desc':
+      'Como os experimentos modernistas surgidos de três gabinetes de estudo desencadearam, inesperadamente, a mais local das revoluções poéticas',
+    'map.markers.taiwanContemporarySculpture.title':
+      'Desenvolvimento da escultura contemporânea de Taiwan',
+    'map.markers.taiwanContemporarySculpture.desc':
+      'De Yuyu Yang e Ju Ming à nova geração, explore a evolução e o espírito criativo da escultura de Taiwan',
+    'map.markers.taiwanCuratorsArtCulture.title':
+      'Curadores e construção da cultura artística em Taiwan',
+    'map.markers.taiwanCuratorsArtCulture.desc':
+      'Da curadoria independente ao sistema de museus de arte, descubra como os curadores de Taiwan constroem o discurso cultural e o diálogo internacional da arte contemporânea',
+    'map.markers.newMediaArt.title': 'Arte de novas mídias',
+    'map.markers.newMediaArt.desc':
+      'A exploração pioneira da arte digital de Taiwan, unindo tecnologia e humanidades dos laboratórios ao cenário internacional',
+    'map.markers.contemporaryTaiwanLiterature.title':
+      'Literatura contemporânea de Taiwan',
+    'map.markers.contemporaryTaiwanLiterature.desc':
+      'Explore a cultura e as histórias de Taiwan',
+    'map.markers.taiwanContemporaryArt.title': 'Arte contemporânea de Taiwan',
+    'map.markers.taiwanContemporaryArt.desc':
+      'Do Museu de Belas Artes de Taipé ao Pavilhão de Taiwan na Bienal de Veneza, a posição singular da arte contemporânea taiwanesa no cenário mundial',
+    'map.markers.kinmenGuesthouseMuseum.title':
+      'Museu de Arte Contemporânea ALIEN Art Centre',
+    'map.markers.kinmenGuesthouseMuseum.desc':
+      'Uma antiga hospedaria militar da Guerra Fria que testemunhou partidas e reencontros, despertada após vinte anos por um pai e sua filha e transformada no museu de arte mais recomendado de Kaohsiung pelo Lonely Planet.',
+    'map.markers.renjianMagazine.title': 'Revista Renjian',
+    'map.markers.renjianMagazine.desc':
+      '47 edições, quatro anos, uma revolução silenciosa conduzida pela fotografia e pela escrita — o ponto de partida da literatura de reportagem de Taiwan',
+    'map.markers.taiwanIndigenousCulture.title': 'Cultura indígena de Taiwan',
+    'map.markers.taiwanIndigenousCulture.desc':
+      'Das diversas tradições dos dezesseis povos à revitalização pela arte contemporânea, explore as raízes profundas e as transformações modernas das culturas indígenas de Taiwan',
+    'map.markers.taiwan16IndigenousTribes.title':
+      'Mapa cultural dos 16 povos indígenas de Taiwan',
+    'map.markers.taiwan16IndigenousTribes.desc':
+      'Explore a distribuição territorial, os sistemas linguísticos, os principais festivais e o desenvolvimento da criação contemporânea dos 16 povos indígenas de Taiwan e conheça a diversidade de suas culturas',
+    'map.markers.taiwanNightMarketCulture.title':
+      'Cultura dos mercados noturnos e petiscos de Taiwan',
+    'map.markers.taiwanNightMarketCulture.desc':
+      'Explore em profundidade as origens e o encanto singular da cultura dos mercados noturnos de Taiwan, bem como as histórias e os significados culturais de seus petiscos mais representativos',
+    'map.markers.taiwanSensibilityKoreanPerspective.title':
+      'Sensibilidade taiwanesa: a estética de Taiwan pelo olhar coreano',
+    'map.markers.taiwanSensibilityKoreanPerspective.desc':
+      'Dos videoclipes de K-pop à Feira do Livro de Seul, como a “대만감성” transformou as paisagens urbanas cotidianas de Taiwan em um dos símbolos estéticos mais fascinantes da Ásia',
+    'map.markers.taiwanCulturalCreativeParks.title':
+      'Desenvolvimento dos parques culturais e criativos de Taiwan',
+    'map.markers.taiwanCulturalCreativeParks.desc':
+      'Da revitalização de edifícios antigos à formação de polos criativos, a trajetória e os modelos inovadores dos parques culturais e criativos de Taiwan',
+    'map.markers.taiwanOldStreetCulture.title':
+      'Cultura das ruas antigas e distritos comerciais de Taiwan',
+    'map.markers.taiwanOldStreetCulture.desc':
+      'Da prosperidade portuária da dinastia Ching aos edifícios barrocos do domínio japonês, as ruas antigas de Taiwan são uma história popular escrita em tijolos e telhas',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.title':
+      'Cerimônia do chá e estética da vida em Taiwan',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.desc':
+      'Do chá gongfu à estética da mesa de chá, explore como Taiwan integra e reinventa a cultura oriental do chá e a estética da vida local',
+    'map.markers.taiwanStreetArtGraffiti.title':
+      'Arte de rua e cultura do grafite em Taiwan',
+    'map.markers.taiwanStreetArtGraffiti.desc':
+      'Do grafite clandestino aos murais autorizados, como os muros urbanos se tornaram o palco criativo dos artistas de Taiwan',
+    'map.markers.taiwanIncenseMakingCulture.title':
+      'A cultura da fabricação de incenso em Taiwan e a terra natal das varetas',
+    'map.markers.taiwanIncenseMakingCulture.desc':
+      'Da técnica centenária de varetas de incenso da comunidade Yunxiao, em Chiayi, à indústria de incenso espalhada por toda Taiwan — um ofício ancestral marcado por devoção, habilidade e perseverança',
+    'map.markers.taiwanHomophoneTaboos.title':
+      'A cultura dos tabus homófonos em Taiwan: por que o número「四」faz toda a sociedade pular andares?',
+    'map.markers.taiwanHomophoneTaboos.desc':
+      'De hospitais sem quarto andar a placas 8888 leiloadas por preços exorbitantes, a sensibilidade dos taiwaneses aos homófonos está entre as maiores do mundo',
+    'map.markers.hakkaCultureLanguage.title': 'Cultura e língua hakka',
+    'map.markers.hakkaCultureLanguage.desc':
+      'O espírito de obstinação e o Dia do Céu Perfurado: a herança cultural e a revitalização moderna dos hakkas de Taiwan',
+    'map.markers.ethnicGroupsTaiwan.title':
+      'Grupos étnicos (hoklo, hakka, povos indígenas, continentais e novos imigrantes)',
+    'map.markers.ethnicGroupsTaiwan.desc':
+      'A diversidade étnica de Taiwan não é apenas resultado de seu desenvolvimento histórico, mas também a chave para compreender a sociedade taiwanesa contemporânea. Essa estrutura social de coexistência plural é tanto fonte da criatividade cultural de Taiwan quanto uma base importante para o desenvolvimento de sua política democrática. Construir uma identidade taiwanesa comum, respeitando ao mesmo tempo as particularidades culturais de cada grupo, é um desafio importante que a sociedade de Taiwan continua enfrentando.',
+    'map.markers.chinaSteel.title':
+      'China Steel: o ministro cabeça-dura e a lenda siderúrgica dos Dez Grandes Projetos de Infraestrutura',
+    'map.markers.chinaSteel.desc':
+      'Das negociações astutas de Chao Yao-tung na Europa e nos Estados Unidos para obter tecnologia à primeira coluna de fumaça branca que se ergueu em Hsiaokang, Kaohsiung, a China Steel levou 50 anos para construir a espinha dorsal da indústria pesada de Taiwan e se tornou a joia mais bem-sucedida dos Dez Grandes Projetos de Infraestrutura',
+    'map.markers.taiwanCement.title':
+      'Taiwan Cement: a lendária transformação verde da primeira empresa de Taiwan listada em bolsa',
+    'map.markers.taiwanCement.desc':
+      'Em 1962, a Bolsa de Valores de Taiwan nasceu para ela, e o código de ação 1101 simboliza a origem do mercado acionário taiwanês. Administrada por três gerações da família Koo ao longo de 76 anos, a Taiwan Cement testemunhou o milagre da construção de Taiwan por meio de cada um de seus fornos de cimento e agora se transforma em uma empresa verde para enfrentar a era da neutralidade de carbono',
+    'map.markers.tsmc.title': 'Empresa taiwanesa: TSMC',
+    'map.markers.tsmc.desc':
+      'Líder mundial na fabricação de chips por contrato, controla uma artéria vital da civilização digital humana',
+    'map.markers.chimeiCorporation.title':
+      'Chi Mei Corporation: o império do acrílico e o sonho de um museu de Hsu Wen-lung',
+    'map.markers.chimeiCorporation.desc':
+      'Partindo de uma pequena fábrica em Jen-te, Tainan, em 1960, Hsu Wen-lung dedicou a vida a construir o maior império de materiais ABS da Ásia e criou o Museu Chimei para retribuir à sociedade. Uma prova de que as empresas de Taiwan podem conciliar o sucesso comercial com a preocupação humanista',
+    'map.markers.acer.title':
+      'Grupo Acer (Acer) - pioneiro da transformação do setor de PCs',
+    'map.markers.acer.desc':
+      'Pioneira dos computadores pessoais, nascida em Taoyuan, Taiwan, criou o modelo de negócios de「múltiplas marcas e múltiplos canais」e se tornou um motor da transformação mundial do setor de PCs',
+    'map.markers.giantBicycles.title': 'Empresa taiwanesa: Giant Manufacturing',
+    'map.markers.giantBicycles.desc':
+      'De fabricante terceirizada explorada e abandonada por uma gigante americana a império invisível que define os padrões tecnológicos mundiais das bicicletas',
+    'map.markers.quantaComputer.title': 'Empresa taiwanesa: Quanta Computer',
+    'map.markers.quantaComputer.desc':
+      'De um incêndio na fábrica à liderança mundial em notebooks: como Barry Lam construiu um novo império para a era da AI?',
+    'map.markers.aseGroup.title': 'Empresa taiwanesa: ASE Semiconductor',
+    'map.markers.aseGroup.desc':
+      'Maior empresa mundial de encapsulamento e testes de semicondutores: por que o dono de uma construtora migrou para o setor de semicondutores?',
+    'map.markers.esunFinancialHolding.title':
+      'Empresa taiwanesa: E.SUN Financial Holding',
+    'map.markers.esunFinancialHolding.desc':
+      'De banco especializado em cartões de crédito a pioneiro das finanças digitais, a história de superação do mais jovem presidente de uma holding financeira, aos 43 anos',
+    'map.markers.changChunPetrochemical.title':
+      'Empresa taiwanesa: Chang Chun Petrochemical',
+    'map.markers.changChunPetrochemical.desc':
+      'De uma pequena fábrica em Tainan, em 1949, a gigante química mundial: a história da campeã invisível que「não abre capital nem toma dinheiro emprestado」',
+    'map.markers.formosaPlasticsGroup.title':
+      'Empresa taiwanesa: Evergreen Marine',
+    'map.markers.formosaPlasticsGroup.desc':
+      'De um navio de segunda mão a um império mundial do transporte marítimo, a lenda do oceano azul de Chang Yung-fa',
+    'map.markers.taipeiFubon.title':
+      'A economia dos mercados noturnos: um milagre comercial sem marcas',
+    'map.markers.taipeiFubon.desc':
+      'Descubra como os mercados noturnos de Taiwan criam um milagre econômico com produção anual de quase 400 bilhões, sem marcas, decoração ou locais fixos',
+    'map.markers.taiwan7Eleven.title': 'A indústria do café em Taiwan',
+    'map.markers.taiwan7Eleven.desc':
+      'Das origens do cultivo durante o domínio japonês ao título mundial do Simple Kaffa, um século de evolução do café taiwanês',
+    'map.markers.taiwanHighSpeedRail.title':
+      'Mapa dos petiscos regionais de Taiwan',
+    'map.markers.taiwanHighSpeedRail.desc':
+      'Da sopa ting-pien-hu da região do Templo de Keelung ao joelho de porco de Wanluan, em Pingtung, das almôndegas de peixe de Hsinchu às pinhas de Taitung, cada cidade tem seu próprio DNA de sabores. Siga os passos dos moradores locais, descubra os petiscos regionais mais representativos dos 22 condados e cidades de Taiwan e saboreie a cultura popular mais autêntica da ilha.',
+    'map.markers.taiwanSemiconductorIndustry.title':
+      'Pratos artesanais de Taiwan: memórias gustativas que estão desaparecendo',
+    'map.markers.taiwanSemiconductorIndustry.desc':
+      'Do frango com hortelã de Chiayi à sopa de sobras, as especialidades da vovó carregam memórias familiares, mas desaparecem lentamente em meio às mudanças dos tempos',
+    'map.markers.taiwanBankingSystem.title':
+      'A fusão gastronômica dos novos imigrantes de Taiwan',
+    'map.markers.taiwanBankingSystem.desc':
+      'Quando o azedo e picante tailandês encontra o doce e salgado de Taiwan, quando o pho vietnamita cruza com os petiscos refogados taiwaneses e quando as especiarias indonésias abraçam ingredientes locais, uma revolução de sabores que atravessa fronteiras acontece silenciosamente em Taiwan. Os novos imigrantes não trazem apenas a culinária de sua terra natal, mas também possibilidades inteiramente novas que enriquecem a cultura gastronômica taiwanesa.',
+    'map.markers.taiwanSmes.title': 'Taiwan, o reino das frutas',
+    'map.markers.taiwanSmes.desc':
+      'Da manga e lichia à pinha e maçã-d’água, uma doce lenda de diversidade de frutas tropicais e avanços na tecnologia agrícola',
+    'map.markers.youbikePublicBikeSystem.title':
+      'A cultura dos frutos do mar em Taiwan',
+    'map.markers.youbikePublicBikeSystem.desc':
+      'Produtos frescos vindos diretamente dos portos pesqueiros, a cultura dos restaurantes de frutos do mar e pratos marítimos como omelete de ostras revelam o caráter insular de Taiwan, cercada pelo mar, e sua rica tradição culinária de frutos do mar',
+    'map.markers.taiwanFoodBeverageIndustry.title':
+      'A gastronomia Michelin e a alta cozinha de Taiwan',
+    'map.markers.taiwanFoodBeverageIndustry.desc':
+      'Em 2018, a palavra「TAIPEI」apareceu pela primeira vez na capa vermelha do Guia Michelin, marcando a entrada oficial do setor gastronômico de Taiwan no sistema internacional de avaliação. Das barracas de rua aos restaurantes estrelados, da comida popular à alta cozinha, a cultura gastronômica taiwanesa exibe no cenário internacional um charme fascinante que combina tradição e inovação.',
+    'map.markers.taiwanAgriculturalReform.title':
+      'Cultura dos mercados noturnos',
+    'map.markers.taiwanAgriculturalReform.desc':
+      '164 mercados noturnos regulamentados e uma média de um mercado para cada 38 mil habitantes em Tainan: dos pátios dos templos às atrações turísticas internacionais',
+    'map.markers.taiwanTeaIndustry.title': 'Cultura gastronômica hakka',
+    'map.markers.taiwanTeaIndustry.desc':
+      'A rica e diversificada cultura gastronômica hakka, do aroma encorpado do chá moído às notas da floresta dos bolinhos de arroz envoltos em folhas de gengibre-selvagem, revela a sabedoria cotidiana dos hakkas para administrar o lar com diligência e economia e aproveitar ingredientes locais',
+    'map.markers.taiwanFishingIndustry.title': 'Macarrão com carne bovina',
+    'map.markers.taiwanFishingIndustry.desc':
+      'Da nostalgia dos imigrantes continentais a prato nacional de Taiwan, a fusão cultural e a fama mundial do macarrão com carne bovina',
+    'map.markers.taiwanFruitIndustry.title': 'Cultura do chá',
+    'map.markers.taiwanFruitIndustry.desc':
+      'A evolução da cultura do chá em Taiwan, da arte tradicional às modernas bebidas preparadas na hora e agitadas à mão, revela as variedades de chá e os hábitos de consumo únicos da ilha',
+    'map.markers.taiwanRiceVarieties.title':
+      'Em uma ilha que treme, eles construíram uma torre capaz de voar',
+    'map.markers.taiwanRiceVarieties.desc':
+      'A apenas 200 metros de uma falha ativa, os taiwaneses insistiram em erguer o edifício mais alto do mundo sobre o solo mais instável — e então um louco o escalou com as próprias mãos em 91 minutos.',
+    'map.markers.nightMarketCulture.title':
+      'As cinco principais formas de relevo e a estrutura geográfica de Taiwan: das montanhas às planícies, as paisagens da ilha',
+    'map.markers.nightMarketCulture.desc':
+      'Explore a estrutura geográfica singular de Taiwan, da Cordilheira Central às planícies ocidentais, e conheça a diversidade de relevo desta ilha',
+    'map.markers.bubbleTeaGlobalPhenomenon.title':
+      'Rede de transportes de Taiwan',
+    'map.markers.bubbleTeaGlobalPhenomenon.desc':
+      'Trem de alta velocidade, metrô, rodovias e aviação tecem uma rede de transportes multidimensional que movimenta Taiwan',
+    'map.markers.taiwanBeefNoodle.title':
+      'Sistema nacional de áreas cênicas de Taiwan',
+    'map.markers.taiwanBeefNoodle.desc':
+      'Do Cabo Nordeste a Kenting, as 13 áreas cênicas nacionais de Taiwan revelam uma rica diversidade de paisagens naturais e culturais',
+    'map.markers.taiwanHotPotCulture.title':
+      'Características geográficas e formação da ilha de Taiwan',
+    'map.markers.taiwanHotPotCulture.desc':
+      'Explore as características geográficas únicas de Taiwan, dos movimentos tectônicos à estrutura do relevo, e descubra os mistérios naturais da ilha Formosa',
+    'map.markers.taiwanFineDining.title':
+      'Movimentos tectônicos e atividade sísmica em Taiwan',
+    'map.markers.taiwanFineDining.desc':
+      'Conheça as características geológicas de Taiwan, situada no encontro das placas Eurasiática e do Mar das Filipinas, e as causas de sua frequente atividade sísmica',
+    'map.markers.taiwanStreetFood.title':
+      'Reservatórios e gestão dos recursos hídricos de Taiwan',
+    'map.markers.taiwanStreetFood.desc':
+      'Da crise de escassez de água ao assoreamento dos reservatórios, os desafios dos recursos hídricos de Taiwan e a desigualdade de sua distribuição entre o norte e o sul',
+    'map.markers.taiwanVegetarianCulture.title':
+      'Sistema fluvial e características hidrológicas de Taiwan: rios curtos e rápidos e variações sazonais',
+    'map.markers.taiwanVegetarianCulture.desc':
+      'Explore o sistema fluvial único de Taiwan, do rio Choshui ao rio Kaoping, e descubra como o relevo da ilha molda suas características hidrológicas',
+    'map.markers.taiwanCoffeeCulture.title':
+      'Relevo costeiro e paisagens marinhas de Taiwan',
+    'map.markers.taiwanCoffeeCulture.desc':
+      'Das costas recortadas por cabos e baías no norte às costas de falha no leste, o rico e variado relevo costeiro de Taiwan revela a extraordinária ação dos movimentos tectônicos',
+    'map.markers.taiwanSnackCulture.title': 'Paisagens termais de Taiwan',
+    'map.markers.taiwanSnackCulture.desc':
+      'Beitou, Chihpen e Chiaohsi: um belo encontro entre a cultura das águas termais e a ciência geológica',
+    'map.markers.taiwanSeafoodCulture.title':
+      'Ponto crítico de biodiversidade de Taiwan',
+    'map.markers.taiwanSeafoodCulture.desc':
+      'Uma ilha de 3.6 dezenas de milhares de quilômetros quadrados abriga 5.9 dezenas de milhares de espécies, uma densidade 100 vezes superior à média mundial',
+    'map.markers.taiwanPineappleCake.title':
+      'Paisagens agrícolas e distribuição produtiva de Taiwan',
+    'map.markers.taiwanPineappleCake.desc':
+      'As mudanças nas paisagens agrícolas de norte a sul refletem a transformação de Taiwan, de «celeiro de Taiwan» para uma «agricultura sofisticada»',
+    'map.markers.taiwanPorkRibSoup.title':
+      'Desenvolvimento urbano e desigualdade entre áreas urbanas e rurais em Taiwan',
+    'map.markers.taiwanPorkRibSoup.desc':
+      'O desenvolvimento desigual entre áreas urbanas e rurais de Taiwan sob a estrutura dos seis municípios especiais e sua transformação espacial de uma Taiwan agrícola para uma Taiwan urbana',
+    'map.markers.taiwanOysterOmelette.title': 'Relevo e geologia',
+    'map.markers.taiwanOysterOmelette.desc':
+      'Uma ilha de 600 milhões de anos guarda memórias de 200 milhões de anos — o milagre do cinturão orogênico mais jovem do mundo e de uma das colisões tectônicas mais intensas',
+    'map.markers.taiwanBreakfastCulture.title':
+      'Características urbanas e culturas regionais',
+    'map.markers.taiwanBreakfastCulture.desc':
+      'Da metrópole internacional de Taipé ao charme histórico da antiga capital Tainan, como as cidades de Taiwan constroem identidades locais únicas',
+    'map.markers.taiwanConvenienceStoreFood.title':
+      'Ilhas periféricas e cultura marítima: da maior densidade mundial de armadilhas de pedra para peixes às leis ecológicas da temporada dos peixes-voadores',
+    'map.markers.taiwanConvenienceStoreFood.desc':
+      'Há menos de 600 armadilhas de pedra para peixes no mundo, e Penghu abriga 574 delas. Um povo insular especializado na pesca de peixes-voadores transformou tabus no mais sofisticado sistema de gestão de recursos marinhos',
+    'map.markers.dutchSpanishColonialPeriod.title':
+      'Incidente de 28 de Fevereiro e Terror Branco: trauma e memória sob o regime autoritário de Taiwan',
+    'map.markers.dutchSpanishColonialPeriod.desc':
+      'Do Incidente de 28 de Fevereiro de 1947 aos 38 anos de lei marcial, Taiwan sofreu a violência estatal do regime autoritário e só após o fim da lei marcial começou a enfrentar seus traumas históricos e promover a justiça de transição.',
+    'map.markers.zhengDynastyPeriod.title':
+      'Crises no estreito de Taiwan e evolução das relações através do estreito',
+    'map.markers.zhengDynastyPeriod.desc':
+      'Relembre as três grandes crises no estreito de Taiwan e mais de setenta anos de relações através do estreito para compreender o contexto histórico e os desafios atuais da região',
+    'map.markers.qingDynastyTaiwanHistory.title':
+      'História do comércio marítimo de Taiwan',
+    'map.markers.qingDynastyTaiwanHistory.desc':
+      'Taiwan na Era dos Descobrimentos: a lendária ascensão e queda de um centro de comércio internacional que se tornou um reino pirata',
+    'map.markers.japaneseColonialRule.title':
+      'História das vilas de dependentes militares de Taiwan',
+    'map.markers.japaneseColonialRule.desc':
+      'Dos soldados isolados na Birmânia aos reinos cercados por bambu, como a grande migração de 120 milhões de pessoas redefiniu o conceito de «lar»',
+    'map.markers.februaryTwentyEightIncident.title':
+      'História ferroviária de Taiwan',
+    'map.markers.februaryTwentyEightIncident.desc':
+      'De Liu Ming-chuan na dinastia Ching à linha longitudinal do período japonês e ao trem de alta velocidade, como as ferrovias moldaram o desenvolvimento urbano e a memória cultural de Taiwan',
+    'map.markers.martialLawPeriod.title':
+      'Transferência do governo nacionalista para Taiwan e reconstrução pós-guerra',
+    'map.markers.martialLawPeriod.desc':
+      'Uma análise do contexto histórico, do processo e dos impactos da transferência do governo nacionalista para Taiwan em 1949, além da reconstrução política, econômica e social do pós-guerra',
+    'map.markers.democratization.title': 'Período do domínio japonês',
+    'map.markers.democratization.desc':
+      'Entre 1895-1945, o Japão governou Taiwan por 50 anos, promovendo ampla modernização e gestão institucionalizada, mas também aplicando políticas de assimilação que marcaram profundamente o desenvolvimento da sociedade taiwanesa',
+    'map.markers.taiwanIndependenceMovement.title': 'Período do domínio Ching',
+    'map.markers.taiwanIndependenceMovement.desc':
+      'Entre 1683-1895, a dinastia Ching governou Taiwan por cerca de 212 anos, passando de uma administração passiva a investimentos ativos e estabelecendo as bases das divisões administrativas modernas e da sociedade han de Taiwan',
+    'map.markers.taiwanChinaRelations.title':
+      'Períodos colonial holandês e espanhol e do Reino de Tungning',
+    'map.markers.taiwanChinaRelations.desc':
+      'O primeiro domínio colonial sistemático da história de Taiwan, da construção do Forte Zeelandia pelos holandeses à abertura da ilha por Cheng Cheng-kung, estabeleceu as bases da migração han e das instituições políticas',
+    'map.markers.taiwanUsRelations.title': 'Cultura das lojas de conveniência',
+    'map.markers.taiwanUsRelations.desc':
+      'Como as lojas de conveniência de Taiwan, com a maior densidade do mundo, deixaram de ser simples pontos de varejo para se tornar o sistema operacional cotidiano de um país inteiro',
+    'map.markers.taiwanInternationalStatus.title':
+      'Sistema de transportes de Taiwan',
+    'map.markers.taiwanInternationalStatus.desc':
+      'O trem de alta velocidade cruza o país de norte a sul em 90 minutos, o metrô tece as artérias urbanas e as motocicletas percorrem vielas',
+    'map.markers.taiwanHistoricalFigures.title':
+      'Cultura das lojas de conveniência de Taiwan',
+    'map.markers.taiwanHistoricalFigures.desc':
+      'O reino das lojas de conveniência com a maior densidade do mundo: as inovações locais da 7-11 e da FamilyMart redefinem o modo de vida moderno',
+    'map.markers.taiwanPoliticalFigures.title':
+      'Parques e lazer cotidiano em Taiwan',
+    'map.markers.taiwanPoliticalFigures.desc':
+      'Do tai chi ao amanhecer aos passeios noturnos——um olhar cultural sobre os parques de Taiwan como espaços de convivência entre gerações',
+    'map.markers.kuomintangHistory.title': 'Cultura do café em Taiwan',
+    'map.markers.kuomintangHistory.desc':
+      'Uma das três maiores densidades mundiais de cafeterias independentes: dos grãos de Alishan ao trabalho remoto em cafés, a cultura insular do café',
+    'map.markers.democraticProgressivePartyHistory.title':
+      'A ilha que corre atrás do caminhão de lixo: da crise dos resíduos ao milagre da reciclagem em Taiwan',
+    'map.markers.democraticProgressivePartyHistory.desc':
+      'Um lugar que, nos anos 1990, tinha 400 aterros quase lotados e era chamado de «ilha do lixo» pela imprensa internacional usou a música de Beethoven para fazer 2,300 dezenas de milhares de pessoas correrem diariamente atrás do caminhão de lixo; 30 anos depois, sua taxa de reciclagem supera a da maioria dos países europeus',
+    'map.markers.taipeiHistory.title':
+      'História do metrô de Taiwan: uma evolução urbana escrita com sangue e dinheiro',
+    'map.markers.taipeiHistory.desc':
+      'Uma viga de aço de 209 toneladas despencou e tirou 4 vidas, as indenizações chegaram a 16.4 centenas de milhões, e a atividade principal do metrô de Taipé continua deficitária——o verdadeiro preço por trás dos sistemas de metrô de Taiwan',
+    'map.markers.taiwanPrehistoricCulture.title':
+      'Sistema educacional de Taiwan: um experimento insular do inferno dos vestibulares ao labirinto da diversidade',
+    'map.markers.taiwanPrehistoricCulture.desc':
+      'Taiwan passou 30 anos tentando acabar com o sistema de vestibular unificado, mas o mais recente exame por disciplinas dobrou as matrículas nos cursinhos para repetentes. Como uma ilha realiza repetidos experimentos sociais entre a pressão pelo ingresso universitário e a igualdade educacional?',
+    'map.markers.taiwanIndigenousHistory.title':
+      'Cultura das motocicletas em Taiwan',
+    'map.markers.taiwanIndigenousHistory.desc':
+      'Um reino insular com uma das maiores densidades de motocicletas do mundo e sua evolução cultural, de meio de transporte diário a estilo de vida',
+    'map.markers.taiwanMilitaryHistory.title':
+      'Cultura das galerias cobertas e paisagem urbana de Taiwan',
+    'map.markers.taiwanMilitaryHistory.desc':
+      'Corredores cotidianos protegidos do vento e da chuva, onde motocicletas, vendedores ambulantes e calor humano se entrelaçam nas memórias das ruas de Taiwan',
+    'map.markers.taiwanWomenHistory.title': 'Vida noturna e cultura de KTV',
+    'map.markers.taiwanWomenHistory.desc':
+      'Das salas privativas do Cashbox Partyworld aos restaurantes da madrugada, a vida noturna de uma ilha que nunca fecha',
+    'map.markers.taiwanEducationHistory.title':
+      'Religião e crenças populares: da gestão do medo ao império da fé',
+    'map.markers.taiwanEducationHistory.desc':
+      'Taiwan tem a maior densidade de templos do mundo e, ao mesmo tempo, lidera o mundo em liberdade religiosa — por trás dessa contradição está a sabedoria de sobrevivência dos colonos militares do século XVII',
+    'map.markers.taiwanReligiousHistory.title': 'Cultura das fontes termais',
+    'map.markers.taiwanReligiousHistory.desc':
+      'Da convalescença militar a uma das três grandes fontes de lama do mundo: a história de como Taiwan se tornou, por acaso, o reino das fontes termais',
+    'map.markers.taiwanMediaHistory.title':
+      'Tradições musicais dos povos indígenas de Taiwan',
+    'map.markers.taiwanMediaHistory.desc':
+      'Explore a rica cultura musical dos 16 povos indígenas de Taiwan, dos cantos ancestrais aos instrumentos tradicionais, testemunhando milhares de anos de transmissão cultural',
+    'map.markers.badmintonChampions.title':
+      'Indústria de instrumentos musicais de Taiwan: dos saxofones de Houli à fábrica musical do mundo',
+    'map.markers.badmintonChampions.desc':
+      'Explore a trajetória da indústria de instrumentos musicais de Taiwan, da liderança mundial dos saxofones de Houli ao reino da fabricação terceirizada de violões e à precisão artesanal das caixas de música, e descubra como Taiwan passou da produção sob encomenda às marcas próprias',
+    'map.markers.baseballCulture.title': 'Movimento da música folk de Taiwan',
+    'map.markers.baseballCulture.desc':
+      'De “cantar nossas próprias canções” a transformar todo o universo da música em língua chinesa — a revolução cultural dos jovens na década de 1970',
+    'map.markers.taiwanBasketball.title':
+      'Evolução da cena musical independente de Taiwan',
+    'map.markers.taiwanBasketball.desc':
+      'Das bandas underground à música independente, explore três décadas de evolução e significado cultural da música alternativa de Taiwan',
+    'map.markers.marathonRunning.title':
+      'Música eletrônica e cultura de festas em Taiwan: das raves underground ao cenário internacional',
+    'map.markers.marathonRunning.desc':
+      'Da cultura das raves da década de 1990 ao festival Road to Ultra, veja como a música eletrônica de Taiwan saiu do underground e chegou ao mainstream, revelando DJs de nível internacional e selos eletrônicos independentes',
+    'map.markers.taiwanEsports.title':
+      'Cultura dos festivais de música de Taiwan: do Spring Scream à efervescência cultural da juventude por toda a ilha',
+    'map.markers.taiwanEsports.desc':
+      'Explore a evolução dos festivais de música de Taiwan, do Spring Scream e do Hohaiyan Rock Festival ao Megaport Festival, e descubra como se tornaram incubadoras de bandas independentes e plataformas centrais de expressão da cultura jovem',
+    'map.markers.taiwanOlympics.title':
+      'Cena musical independente contemporânea de Taiwan',
+    'map.markers.taiwanOlympics.desc':
+      'Dos shows underground à matriz industrial, analise a evolução e a influência cultural do ecossistema moderno da música independente de Taiwan',
+    'map.markers.taipeiCycle.title':
+      'Sabedoria ecológica e conservação ambiental dos povos indígenas de Taiwan',
+    'map.markers.taipeiCycle.desc':
+      'Conheça o saber ecológico tradicional acumulado pelos povos indígenas de Taiwan ao longo de milhares de anos, bem como seu valor e suas práticas essenciais na conservação ambiental moderna',
+    'map.markers.taiwanBetelNutCulture.title':
+      'Montanhas e cultura do montanhismo em Taiwan',
+    'map.markers.taiwanBetelNutCulture.desc':
+      '268 montanhas com mais de três mil metros e a cultura dos Cem Picos: o desenvolvimento do montanhismo em Taiwan e os desafios da conservação das montanhas',
+    'map.markers.taiwanElections.title': 'Ecossistemas florestais de Taiwan',
+    'map.markers.taiwanElections.desc':
+      'Do litoral subtropical às florestas de coníferas das altas montanhas, o rico universo florestal de Taiwan em um desnível vertical de 3000 metros',
+    'map.markers.taiwanLgbtCulture.title':
+      'Mudanças climáticas e transição para emissões líquidas zero em Taiwan',
+    'map.markers.taiwanLgbtCulture.desc':
+      'Taiwan enfrenta os impactos das mudanças climáticas, desde a crescente frequência de eventos extremos até o planejamento de políticas para alcançar emissões líquidas zero de carbono em 2050; conheça as oportunidades e os desafios da transição energética',
+    'map.markers.taiwanMotorcycleCulture.title':
+      'Conservação marinha em Taiwan: por que um sistema construído ao longo de 30 anos não conseguiu impedir um episódio de branqueamento de corais?',
+    'map.markers.taiwanMotorcycleCulture.desc':
+      'Em 2020, as águas de Taiwan sofreram o maior branqueamento de corais de sua história. De Hsiao Liuchiu ao Atol de Dongsha, até os corais em áreas protegidas morreram devido às altas temperaturas. Que problemas isso revelou?',
+    'map.markers.taipeiMrt.title':
+      'Combate à poluição marinha e desafios da conservação em Taiwan',
+    'map.markers.taipeiMrt.desc':
+      'Diante do lixo marinho, da pesca excessiva e das mudanças climáticas, conheça a situação atual, os desafios e as soluções inovadoras para a conservação marinha em Taiwan',
+    'map.markers.kaohsiungMrt.title': 'Ecologia marinha de Taiwan',
+    'map.markers.kaohsiungMrt.desc':
+      'As águas protegidas pelos tabus do povo Tao agora embranquecem em meio às altas temperaturas e ao ruído subaquático: quando milhares de anos de sabedoria ecológica encontram a crise marinha moderna',
+    'map.markers.taichungMrt.title':
+      'Ecologia marinha e conservação dos recifes de coral em Taiwan',
+    'map.markers.taichungMrt.desc':
+      'Cercada pelo mar, Taiwan possui uma rica ecologia marinha; da crise do branqueamento de corais à conservação de cetáceos, conheça a eficácia da proteção nos parques nacionais marinhos e os desafios futuros',
+    'map.markers.taiwanTrainSystem.title':
+      'Fontes termais e energia geotérmica de Taiwan',
+    'map.markers.taiwanTrainSystem.desc':
+      'Da usina geotérmica que fracassou há 30 anos à hokutolita, única no mundo: como uma ilha transformou o fogo subterrâneo em bem-estar e energia verde',
+    'map.markers.taiwanBusSystem.title':
+      'Conservação do gato-leopardo de Taiwan',
+    'map.markers.taiwanBusSystem.desc':
+      'O gato-fantasma, do qual restam menos de quinhentos em toda Taiwan — quando o último felino nativo se aproxima da extinção',
+    'map.markers.taiwanInnovationEcosystem.title': 'Pangolim de Taiwan',
+    'map.markers.taiwanInnovationEcosystem.desc':
+      'O mamífero mais traficado do mundo encontrou um lar seguro em Taiwan',
+    'map.markers.taiwanMedicalSystem.title':
+      'Ecossistemas de alta montanha e relíquias glaciais de Taiwan',
+    'map.markers.taiwanMedicalSystem.desc':
+      'Conheça os ecossistemas singulares das montanhas de Taiwan acima de 3000 metros e a preciosa biodiversidade que vai da Cunninghamia konishii e dos rododendros de Yushan às espécies remanescentes da era glacial',
+    'map.markers.taiwanEducationSystem.title': 'Urso-negro-de-Taiwan',
+    'map.markers.taiwanEducationSystem.desc':
+      'O V branco no peito é sua assinatura — o último soberano das florestas de Taiwan e sua batalha inacabada pela conservação',
+    'map.markers.taiwanMusicIndustry.title': 'Parques nacionais',
+    'map.markers.taiwanMusicIndustry.desc':
+      '9 parques nacionais concentrados em 36,197 quilômetros quadrados, um milagre de conservação com a maior densidade do mundo',
+    'map.markers.mandarinPopMusic.title': 'Parques nacionais de Taiwan',
+    'map.markers.mandarinPopMusic.desc':
+      'Explore os ecossistemas singulares e o valor de conservação dos nove parques nacionais de Taiwan, com paisagens completas que vão do litoral subtropical à linha de neve das altas montanhas',
+    'map.markers.taiwaneseIndieMusic.title': 'Espécies endêmicas',
+    'map.markers.taiwaneseIndieMusic.desc':
+      'A rica biodiversidade endêmica de Taiwan revela os milagres evolutivos da biogeografia insular e a importância da conservação',
+    'map.markers.taiwanRapHipHop.title': 'Diversidade ecológica',
+    'map.markers.taiwanRapHipHop.desc':
+      'Taiwan ocupa apenas 0.025% da área do planeta, mas abriga mais de 50 mil espécies e tem 60.71% de cobertura florestal, a 33ª maior do mundo',
+    'map.markers.taiwanElectronicMusic.title': 'Cetáceos de Taiwan',
+    'map.markers.taiwanElectronicMusic.desc':
+      'Habitat de um terço das espécies de cetáceos do mundo — da antiga caça às baleias à atual observação desses animais, como Taiwan se transformou em um importante centro de pesquisa da ecologia marinha?',
+    'map.markers.taiwanTraditionalMusic.title': 'Mayday',
+    'map.markers.taiwanTraditionalMusic.desc':
+      'Da Escola Secundária Afiliada à Universidade Nacional Normal de Taiwan aos palcos mundiais, os eternos jovens que definiram o espírito do rock em língua chinesa',
+    'map.markers.taiwanFilmIndustry.title': 'Wu Bai',
+    'map.markers.taiwanFilmIndustry.desc':
+      'Tesouro nacional do rock de Taiwan e sinônimo do rock local, consolidou seu lugar no gênero com obras como “Norwegian Forest”',
+    'map.markers.newTaiwanCinema.title': 'Wu Pao-chun',
+    'map.markers.newTaiwanCinema.desc':
+      'Campeão mundial de panificação, surpreendeu o mundo com seu pão de lichia e rosas e saiu do interior de Pingtung para se tornar um dos melhores padeiros do mundo',
+    'map.markers.taiwanDocumentary.title': 'Annette Lu',
+    'map.markers.taiwanDocumentary.desc':
+      'De condenada por sedição a vice-presidente: a vida lendária da primeira mulher a ocupar a vice-presidência no mundo de língua chinesa',
+    'map.markers.taiwanAnimationIndustry.title': 'Jimmy Liao',
+    'map.markers.taiwanAnimationIndustry.desc':
+      'O poeta da ilustração que aqueceu o mundo com seus livros ilustrados e levou a produção taiwanesa ao cenário internacional',
+    'map.markers.taiwanTelevisionIndustry.title': 'Tai Tzu-ying',
+    'map.markers.taiwanTelevisionIndustry.desc':
+      'Detentora do recorde de 214 semanas como número 1 do mundo, a rainha taiwanesa do badminton que saiu de Cianjhen, Kaohsiung, para conquistar a prata olímpica',
+    'map.markers.taiwanOttPlatforms.title': 'Li Ang',
+    'map.markers.taiwanOttPlatforms.desc':
+      'Autora de 《A morte do marido》 e 《O jardim dos enigmas》, pioneira da literatura feminista de Taiwan',
+    'map.markers.taiwanPodcastIndustry.title': 'Lee Chih-kai',
+    'map.markers.taiwanPodcastIndustry.desc':
+      'De Kai do mercado, em 《Salto mortal! Garotos》, à prata olímpica: os dezesseis anos de acrobacias do príncipe taiwanês do cavalo com alças',
+    'map.markers.taiwanPublishing.title': 'Lee Yuan-tseh',
+    'map.markers.taiwanPublishing.desc':
+      'Laureado com o Nobel de Química de 1986, abriu uma nova área na dinâmica química com a técnica de feixes moleculares cruzados e foi o primeiro taiwanês a receber um Nobel científico',
+    'map.markers.taiwanBookstoreCulture.title': 'Tu Tsung-ming',
+    'map.markers.taiwanBookstoreCulture.desc':
+      'Primeiro doutor em medicina de Taiwan e pai da medicina moderna taiwanesa',
+    'map.markers.taiwanComicMangaIndustry.title': 'Jeremy Lin',
+    'map.markers.taiwanComicMangaIndustry.desc':
+      'De aluno brilhante de Harvard a campeão da NBA, o jogador taiwanês-americano que desencadeou a Linsanity no mundo inteiro',
+    'map.markers.taiwanGameIndustry.title': 'Kevin Lin',
+    'map.markers.taiwanGameIndustry.desc':
+      'Da criança franzina rejeitada pela equipe de atletismo ao corredor de ultradistância que fez história atravessando o deserto do Saara a pé',
+    'map.markers.nationalPalaceMuseum.title': 'Lin I-hsiung',
+    'map.markers.nationalPalaceMuseum.desc':
+      'Pioneiro do movimento democrático, vítima do massacre da família Lin e líder do movimento contra a quarta usina nuclear',
+    'map.markers.nationalParks.title': 'Edward Yang',
+    'map.markers.nationalParks.desc':
+      'Figura central do movimento do Novo Cinema Taiwanês, melhor diretor em Cannes e poeta da alienação urbana',
+    'map.markers.taiwanGeography.title': 'Pai Hsien-yung',
+    'map.markers.taiwanGeography.desc':
+      'Autor de 《Gente de Taipé》, mestre da literatura moderna e impulsionador do renascimento da ópera kunqu',
+    'map.markers.taiwanClimate.title': 'Crowd Lu',
+    'map.markers.taiwanClimate.desc':
+      'Cantor-compositor e ator taiwanês, vencedor dos três grandes prêmios de Taiwan — Golden Melody, Golden Bell e Golden Horse —, conhecido por sua imagem simples e acolhedora e por seu estilo vocal singular',
+    'map.markers.taiwanEcosystem.title': 'Chuang Chih-yuan',
+    'map.markers.taiwanEcosystem.desc':
+      'Padrinho do tênis de mesa, representante olímpico em quatro edições e herói solitário que treinou por conta própria',
+    'map.markers.taiwanEndangeredSpecies.title': 'Tsai Ming-liang',
+    'map.markers.taiwanEndangeredSpecies.desc':
+      'Vencedor do Leão de Ouro de Veneza, sino-malaio e mestre da estética do cinema lento',
+    'map.markers.taiwanMarineEcology.title': 'Hsu Wen-lung',
+    'map.markers.taiwanMarineEcology.desc':
+      'Fundador do Grupo Chimei, reuniu as identidades de empresário, violinista e colecionador de arte e criou o Museu Chimei',
+    'map.markers.taiwanBirdwatching.title': 'Fang-Yi Sheu',
+    'map.markers.taiwanBirdwatching.desc':
+      'De garota de Yilan a bailarina principal da Martha Graham Dance Company, antes de voltar a Taiwan para fundar a LAFA Dance Company — com o corpo, ela conta as histórias mais poderosas de Taiwan',
+    'map.markers.taiwanHotSprings.title':
+      'Lai Ching-te: o médico sanitarista que saiu de uma família de mineiros para chegar ao Palácio Presidencial',
+    'map.markers.taiwanHotSprings.desc':
+      '16º presidente de Taiwan e primeira figura política na história constitucional da República da China (Taiwan) a concorrer como vice-presidente e ser eleita com sucesso',
+    'map.markers.taiwanIslands.title': 'Kuo Hsing-chun',
+    'map.markers.taiwanIslands.desc':
+      'Deusa taiwanesa do levantamento de peso, medalhista de ouro nos Jogos Olímpicos de Tóquio de 2021 e detentora dos três recordes olímpicos da categoria até 59 kg',
+    'map.markers.taiwanMountains.title': 'Teng Yu-hsien',
+    'map.markers.taiwanMountains.desc':
+      'Pai da música popular taiwanesa, compôs clássicos em taiwanês como 《望春風》, 《雨夜花》 e 《月夜愁》',
+    'map.markers.taiwanRivers.title': 'Chung Li-ho',
+    'map.markers.taiwanRivers.desc':
+      'Autor de 《O homem da terra natal》, pai da literatura taiwanesa e guerreiro das letras que continuou escrevendo apesar da pobreza e da doença',
+    'map.markers.taiwanCoastline.title': 'Chen Shu-chu',
+    'map.markers.taiwanCoastline.desc':
+      'Os gestos simples de bondade de uma vendedora de verduras de Taitung que mostrou, ao longo da vida, o verdadeiro significado da riqueza',
+    'map.markers.taiwanForests.title': 'Chen Shui-bian',
+    'map.markers.taiwanForests.desc':
+      '10º e 11º presidente, protagonista da primeira alternância partidária em 2000 e figura importante da democratização de Taiwan',
+    'map.markers.taiwanNaturalDisasters.title': 'Ma Ying-jeou',
+    'map.markers.taiwanNaturalDisasters.desc':
+      '12º e 13º presidente, promotor do degelo nas relações entre Taiwan e a China e signatário do ECFA',
+    'map.markers.taiwanEarthquakes.title': 'Huang Chun-ming',
+    'map.markers.taiwanEarthquakes.desc':
+      'Autor de 《O grande boneco do filho》 e 《Os dias de contemplar o mar》, escritor representativo da literatura regional de Yilan',
+    'map.markers.taiwanTyphoons.title':
+      'Huang Chen-nan: o “Takenouchi Yutaka dos bibliófilos” e a fonte viva da história e da cultura de Taiwan',
+    'map.markers.taiwanTyphoons.desc':
+      'Huang Chen-nan é pesquisador da história e da cultura de Taiwan, bibliófilo e escritor. Tornou-se conhecido no PTT pelo apelido Sizumaru e administra a página 「活水來冊房」, onde compartilha a história de Taiwan e a cultura dos livros antigos. Autor de obras como 《A história mais cheia de sacadas da história de Taiwan》, é chamado de “Takenouchi Yutaka dos bibliófilos”. Oriundo de uma família de estudiosos de Lioujiao, Chiayi, divide com o pai a coleta de documentos entre o norte e o sul e se dedica a tornar a rigorosa história de Taiwan interessante e acessível.',
+    'map.markers.sunflowerMovement.title':
+      'Zoológicos e ética dos animais em exibição',
+    'map.markers.sunflowerMovement.desc':
+      'Do elefante na jaula de ferro à parede de águas-vivas do Xpark — Taiwan está redefinindo a relação entre as pessoas e os animais expostos',
+    'map.markers.taiwanSocialMovements.title':
+      'Justiça territorial e territórios tradicionais dos povos indígenas de Taiwan',
+    'map.markers.taiwanSocialMovements.desc':
+      'Uma análise do contexto histórico dos direitos territoriais dos povos indígenas de Taiwan, da evolução jurídica, das controvérsias sobre a demarcação dos territórios tradicionais e dos resultados do trabalho da Comissão de Justiça Transicional Indígena',
+    'map.markers.taiwanMarriageEquality.title':
+      'Casamento entre pessoas do mesmo sexo e igualdade de gênero em Taiwan',
+    'map.markers.taiwanMarriageEquality.desc':
+      'De prisioneiro durante a lei marcial à primeira lei asiática sobre o casamento entre pessoas do mesmo sexo: como os 30 anos de luta de um homem reescreveram a definição do amor na ilha',
+    'map.markers.taiwanEnvironmentalJustice.title':
+      'Justiça ambiental e conflitos de rejeição local em Taiwan',
+    'map.markers.taiwanEnvironmentalJustice.desc':
+      'Uma análise da distribuição desigual dos impactos ambientais em Taiwan, dos conflitos de rejeição local envolvendo incineradores, resíduos nucleares e a indústria petroquímica às questões de desigualdade ambiental e justiça social',
+    'map.markers.taiwanCommunityRiCulture.title':
+      'Comunidades e cultura dos bairros li de Taiwan',
+    'map.markers.taiwanCommunityRiCulture.desc':
+      'Da prática democrática mais básica à inovação social do desenvolvimento comunitário',
+    'map.markers.taiwanLongTermCare.title':
+      'Desenvolvimento do sistema de cuidados de longa duração de Taiwan',
+    'map.markers.taiwanLongTermCare.desc':
+      'Um dos sistemas de cuidados de longa duração mais avançados do mundo, que ao mesmo tempo abriga a maior rede invisível de cuidadores',
+    'map.markers.taiwanLaborMovement.title':
+      'Proteção ambiental e desenvolvimento sustentável',
+    'map.markers.taiwanLaborMovement.desc':
+      'Da ilha das chaminés a Taiwan com emissões líquidas zero: o despertar de 40 anos de movimento ambientalista',
+    'map.markers.taiwanHousingIssues.title':
+      'Habitação social e justiça habitacional',
+    'map.markers.taiwanHousingIssues.desc':
+      'Como Taiwan busca concretizar a justiça habitacional por meio de políticas de moradia social, garantindo a todos um lugar seguro para viver',
+    'map.markers.taiwanHealthcareSystem.title':
+      'Desenvolvimento dos parques tecnológicos',
+    'map.markers.taiwanHealthcareSystem.desc':
+      'De Hsinchu ao sul de Taiwan, uma análise da evolução dos parques científicos taiwaneses e do posicionamento singular dos três principais parques',
+    'map.markers.taiwanImmigration.title': 'Indústria de semicondutores',
+    'map.markers.taiwanImmigration.desc':
+      'Da aposta histórica de Morris Chang à era dos 2 nanômetros: como a TSMC transformou Taiwan no eixo vital da tecnologia mundial',
+    'map.markers.taiwanReligiousDiversity.title':
+      'Relevo costeiro e paisagens marinhas de Taiwan',
+    'map.markers.taiwanReligiousDiversity.desc':
+      'O pescoço da Cabeça da Rainha de Yehliu está afinando 0.2 centímetro por ano e um dia acabará se rompendo — esse é precisamente o destino e a beleza do relevo costeiro de Taiwan',
+    'map.markers.taiwanBuddhismTaoism.title':
+      'Cultura do chá e estética da vida em Taiwan',
+    'map.markers.taiwanBuddhismTaoism.desc':
+      'Na noite da inauguração da Wistaria Tea House, em 1981, oposicionistas e intelectuais se reuniram para tomar chá; mais que uma casa de chá, o local era uma base secreta do movimento de oposição',
+    'map.markers.taiwanFolkReligion.title':
+      'Eleições e política partidária em Taiwan',
+    'map.markers.taiwanFolkReligion.desc':
+      'Dos vereadores locais de 1950 à alternância partidária de 2000, veja como Taiwan escreveu com votos o milagre de sua transição democrática',
+    'map.markers.taiwanChristianity.title':
+      'Desenvolvimento urbano e desigualdade entre cidade e campo em Taiwan',
+    'map.markers.taiwanChristianity.desc':
+      'Em 70 anos, uma ilha agrícola tornou-se urbana; luzes e sombras das seis municipalidades especiais, que concentram 7 décimos da população: o contraste cruel entre a próspera Taichung e Yunlin em declínio',
+    'map.markers.taiwanIslamJudaism.title':
+      'Características urbanas e culturas regionais',
+    'map.markers.taiwanIslamJudaism.desc':
+      'Dos 404 grupos de dez mil habitantes de Nova Taipé aos 185 grupos de dez mil de Tainan, veja como as seis municipalidades especiais moldaram personalidades urbanas próprias durante a transformação industrial',
+    'map.markers.kaohsiungIncident.title': 'Democratização',
+    'map.markers.kaohsiungIncident.desc':
+      'O confronto entre policiais e cidadãos nas ruas de Kaohsiung em 10 de dezembro de 1979 acabou impulsionando a transição democrática de Taiwan — mas quantas pessoas pagaram com sua juventude e liberdade?',
+    'map.markers.wangLeeOlympicGold.title':
+      'Wang Chi-lin e Lee Yang (dupla Lin-Yang)',
+    'map.markers.wangLeeOlympicGold.desc':
+      'De colegas no ensino fundamental a campeões olímpicos: em 34 minutos, a dupla Lin-Yang derrotou a China em dois sets diretos e conquistou a primeira medalha de ouro olímpica da história do badminton de Taiwan',
+  },
+  hi: {
+    // Meta
+    'map.meta.title': 'ताइवान मानचित्र Map',
+    'map.meta.description':
+      'मानचित्र के दृष्टिकोण से Taiwan.md की विषयवस्तु के संदर्भों को जानें',
+
+    // Hero Section
+    'map.hero.kicker': 'Map View',
+    'map.hero.title': 'ताइवान का मानचित्र',
+    'map.hero.subtitle':
+      'मानचित्र के माध्यम से ताइवान की संस्कृति, खान-पान, प्रकृति और ऐतिहासिक स्थलों को जानें।',
+
+    // Controls - Region Filter
+    'map.controls.region.title': 'क्षेत्र फ़िल्टर',
+    'map.controls.region.all': 'सभी',
+    'map.controls.region.north': 'उत्तरी क्षेत्र',
+    'map.controls.region.central': 'मध्य क्षेत्र',
+    'map.controls.region.south': 'दक्षिणी क्षेत्र',
+    'map.controls.region.east': 'पूर्वी क्षेत्र',
+    'map.controls.region.islands': 'बाहरी द्वीप',
+
+    // Controls - Category Filter
+    'map.controls.category.title': 'श्रेणी फ़िल्टर',
+    'map.controls.category.all': 'सभी',
+    'map.controls.category.food': '🍜 खान-पान',
+    'map.controls.category.history': '📜 इतिहास',
+    'map.controls.category.nature': '🌿 प्रकृति',
+    'map.controls.category.culture': '🎭 संस्कृति',
+    'map.controls.category.technology': '💻 प्रौद्योगिकी',
+    'map.controls.category.economy': '📈 अर्थव्यवस्था',
+    'map.controls.category.lifestyle': '🏮 जीवनशैली',
+    'map.controls.category.art': '🎨 कला',
+    'map.controls.category.geography': '🗺️ भूगोल',
+
+    // Route Section
+    'map.route.title': '🗺️ क्यूरेटेड मार्ग',
+    'map.route.normal-mode': 'सामान्य मोड',
+
+    // Sidebar - Default
+    'map.sidebar.default.title': '📍 ताइवान संबंधी लेख खोजें',
+    'map.sidebar.default.hint':
+      'लेख खोजने के लिए मानचित्र पर किसी काउंटी, शहर या चिह्न पर क्लिक करें',
+
+    // Sidebar - County
+    'map.sidebar.county.clear': '✕ चयन हटाएँ',
+    'map.sidebar.county.articles-count': ' लेख',
+    'map.sidebar.county.no-articles': 'इस क्षेत्र पर अभी कोई लेख नहीं है',
+
+    // Sidebar - Article
+    'map.sidebar.article.back': '← वापस',
+    'map.sidebar.article.read-more': 'पूरा लेख पढ़ें →',
+
+    // Zoom Controls
+    'map.zoom.in': '＋',
+    'map.zoom.out': '－',
+    'map.zoom.reset': '⌂',
+
+    // Tooltips
+    'map.tooltip.county.articles': ' संबंधित लेख',
+    'map.tooltip.county.click': 'इस क्षेत्र को फ़िल्टर करने के लिए क्लिक करें',
+    'map.tooltip.marker.reading-time': ' मिनट का पठन',
+
+    // Panel (for compatibility)
+    'map.panel.title': 'ताइवान ज्ञान मानचित्र',
+    'map.panel.stat.points': 'ज्ञान बिंदु',
+    'map.panel.stat.categories': 'श्रेणियाँ',
+    'map.panel.category-distribution': 'श्रेणी वितरण',
+    'map.panel.link.graph': '🕸️ ज्ञान ग्राफ़',
+    'map.panel.link.home': '🏠 श्रेणी अवलोकन',
+
+    // Category Names (for JS usage)
+    'map.category.history': '📜 इतिहास',
+    'map.category.geography': '🗺️ भूगोल',
+    'map.category.culture': '🎭 संस्कृति',
+    'map.category.food': '🍜 खान-पान',
+    'map.category.art': '🎨 कला',
+    'map.category.music': '🎵 संगीत',
+    'map.category.technology': '💻 प्रौद्योगिकी',
+    'map.category.nature': '🌿 प्रकृति',
+    'map.category.people': '👥 व्यक्तित्व',
+    'map.category.society': '⚖️ समाज',
+    'map.category.economy': '📈 अर्थव्यवस्था',
+    'map.category.lifestyle': '🏮 जीवनशैली',
+
+    // Additional UI text
+    'map.sidebar.more-articles': '⋯और अन्य',
+    'map.sidebar.more-articles-suffix': ' लेख',
+
+    // Routes
+    'map.routes.nightMarkets.name': '🍜 रात्रि बाज़ार यात्रा',
+    'map.routes.nightMarkets.description':
+      'उत्तर से दक्षिण तक ताइवान की सर्वाधिक प्रतिनिधि रात्रि बाज़ार संस्कृति',
+    'map.routes.nationalParks.name': '🏔️ राष्ट्रीय उद्यान यात्रा',
+    'map.routes.nationalParks.description':
+      '3,952 मीटर ऊँचे पर्वतों से उष्णकटिबंधीय प्रवाल भित्तियों तक, ताइवान के प्राकृतिक चमत्कार',
+    'map.routes.historyTrail.name': '📜 इतिहास के पदचिह्न',
+    'map.routes.historyTrail.description':
+      'डच उपनिवेश से लोकतंत्रीकरण तक, ताइवान के चार सौ वर्षों की यात्रा',
+    'map.routes.oldStreets.name': '🏮 पुरानी गलियों की सैर',
+    'map.routes.oldStreets.description':
+      'सदियों पुरानी गलियों में ताइवान की स्मृतियाँ, जहाँ वास्तुकला ही इतिहास है',
+
+    'map.routes.counties22.name': '📍 22 काउंटियों और शहरों पर गहन लेख',
+    'map.routes.counties22.description':
+      'Taiwan.md पर 22 काउंटियों और शहरों के गहन लेख पढ़ें, कीलुंग pilot से न्यू ताइपे finale तक — हर काउंटी और शहर का एक केंद्रीय अंतर्विरोध।',
+    'map.counties22.panel.title': '📍 22 काउंटियों और शहरों पर गहन लेख',
+    'map.counties22.panel.hint':
+      'खोलने के लिए काउंटी या शहर के कार्ड पर अथवा मानचित्र में उस काउंटी या शहर पर क्लिक करें',
+    'map.counties22.tooltip.openDeep': 'गहन लेख खोलने के लिए क्लिक करें',
+    'map.counties22.deepCard.badge': '📖 22 काउंटी और शहर श्रृंखला · गहन लेख',
+    'map.counties22.deepCard.cta': 'पूरा लेख पढ़ें →',
+
+    // Night Markets Stops
+    'map.stops.shilinNightMarket.name': 'शिलिन रात्रि बाज़ार',
+    'map.stops.shilinNightMarket.note':
+      'पूरे ताइवान का सबसे बड़ा पर्यटक रात्रि बाज़ार और बड़े पैनकेक में छोटा पैनकेक लपेटने वाले व्यंजन का जन्मस्थान',
+    'map.stops.raoheNightMarket.name': 'राओहे रात्रि बाज़ार',
+    'map.stops.raoheNightMarket.note':
+      'काली मिर्च वाले बन के लिए कतारों का प्रसिद्ध स्थल और ताइपे निवासियों का स्थानीय पसंदीदा बाज़ार',
+    'map.stops.ningxiaNightMarket.name': 'निंगशिया रात्रि बाज़ार',
+    'map.stops.ningxiaNightMarket.note':
+      'खान-पान की सर्वाधिक सघन विविधता वाली मिशलिन-अनुशंसित जनसाधारण की फूड स्ट्रीट',
+    'map.stops.fengjiaNightMarket.name': 'फेंगजिया रात्रि बाज़ार',
+    'map.stops.fengjiaNightMarket.note':
+      'रचनात्मक स्नैक्स की प्रयोगशाला और ताइवान के रात्रि बाज़ार नवाचार का अग्रिम मोर्चा',
+    'map.stops.huayuanNightMarket.name': 'हुआयुआन रात्रि बाज़ार',
+    'map.stops.huayuanNightMarket.note':
+      'ताइनान का सबसे बड़ा रात्रि बाज़ार, जो सप्ताह में केवल तीन दिन लगने वाला विशेष उत्सव है',
+    'map.stops.liuheNightMarket.name': 'लिउहे रात्रि बाज़ार',
+    'map.stops.liuheNightMarket.note':
+      'काऊशुंग का प्रतिष्ठित रात्रि बाज़ार, जहाँ समुद्री भोजन मुख्य आकर्षण है',
+
+    // National Parks Stops
+    'map.stops.yangmingshanNationalPark.name': 'यांगमिंगशान राष्ट्रीय उद्यान',
+    'map.stops.yangmingshanNationalPark.note':
+      'ताइपे का पिछला बगीचा, ज्वालामुखीय भूभाग और छिपे हुए गर्म पानी के झरने',
+    'map.stops.tarokoNationalPark.name': 'तारोको राष्ट्रीय उद्यान',
+    'map.stops.tarokoNationalPark.note':
+      'संगमरमर की घाटी और विश्वस्तरीय भूवैज्ञानिक अजूबा',
+    'map.stops.yushanNationalPark.name': 'यूशान राष्ट्रीय उद्यान',
+    'map.stops.yushanNationalPark.note':
+      'पूर्वोत्तर एशिया की सबसे ऊँची चोटी（3,952m）और ताइवान की छत',
+    'map.stops.alishanScenicArea.name': 'अलीशान राष्ट्रीय मनोरम क्षेत्र',
+    'map.stops.alishanScenicArea.note':
+      'सूर्योदय, बादलों का सागर, पवित्र वृक्षों के समूह और वन रेलवे',
+    'map.stops.sunMoonLakeScenicArea.name':
+      'सन मून लेक राष्ट्रीय मनोरम क्षेत्र',
+    'map.stops.sunMoonLakeScenicArea.note':
+      'ताइवान की सबसे बड़ी प्राकृतिक झील और थाओ लोगों की पवित्र झील',
+    'map.stops.kentingNationalPark.name': 'केंटिंग राष्ट्रीय उद्यान',
+    'map.stops.kentingNationalPark.note':
+      'ताइवान का सबसे दक्षिणी छोर, उष्णकटिबंधीय प्रवाल भित्तियाँ और हेंगचुन प्रायद्वीप',
+
+    // History Trail Stops
+    'map.stops.anpingFort.name': 'आनपिंग पुराना किला',
+    'map.stops.anpingFort.note':
+      '1624 में डच लोगों द्वारा निर्मित, ताइवान का सबसे पुराना किला',
+    'map.stops.chikanTower.name': 'चिहकान टावर',
+    'map.stops.chikanTower.note':
+      'डच फोर्ट प्रोविंटिया से कोक्सिंगा के शासन के प्रतीक तक',
+    'map.stops.lukang.name': 'लुकांग',
+    'map.stops.lukang.note':
+      'छिंग राजवंश के समय ताइवान का दूसरा सबसे बड़ा नगर, “पहला ताइनान, दूसरा लुकांग, तीसरा बांगका”',
+    'map.stops.presidentialOffice.name':
+      'राष्ट्रपति कार्यालय (पूर्व ताइवान गवर्नर-जनरल कार्यालय)',
+    'map.stops.presidentialOffice.note':
+      '1919 में निर्मित, जापानी शासनकाल में सत्ता का सर्वोच्च केंद्र',
+    'map.stops.chiangKaiShekMemorialHall.name': 'च्यांग काई-शेक स्मारक भवन',
+    'map.stops.chiangKaiShekMemorialHall.note':
+      'अधिनायकवाद के प्रतीक और संक्रमणकालीन न्याय पर बहस का केंद्र',
+    'map.stops.legislativeYuan.name': 'विधायी युआन (सूरजमुखी आंदोलन)',
+    'map.stops.legislativeYuan.note':
+      '2014 के सूरजमुखी छात्र आंदोलन का प्रमुख स्थल, ताइवान के लोकतंत्र का एक मील का पत्थर',
+
+    // Old Streets Stops
+    'map.stops.dihuaStreet.name': 'दिहुआ स्ट्रीट',
+    'map.stops.dihuaStreet.note':
+      'दादाओचेंग का हृदय, उत्तर-दक्षिण के सामान और नववर्ष की खरीदारी का प्रमुख बाज़ार',
+    'map.stops.jiufenOldStreet.name': 'जिउफेन ओल्ड स्ट्रीट',
+    'map.stops.jiufenOldStreet.note':
+      'खनन उद्योग के स्वर्णिम वर्षों और स्पिरिटेड अवे की प्रेरणा का स्रोत',
+    'map.stops.lukangOldStreet.name': 'लुकांग ओल्ड स्ट्रीट',
+    'map.stops.lukangOldStreet.note':
+      'लाल ईंटों के पुराने मकानों और पारंपरिक शिल्प का जीवंत संग्रहालय',
+    'map.stops.anpingOldStreet.name': 'आनपिंग ओल्ड स्ट्रीट',
+    'map.stops.anpingOldStreet.note':
+      'ताइवान की पहली सड़क, चार सौ वर्षों के इतिहास की परतें',
+    'map.stops.qishanOldStreet.name': 'छीशान ओल्ड स्ट्रीट',
+    'map.stops.qishanOldStreet.note':
+      'केला साम्राज्य की बारोक वास्तुकला का समूह',
+    'map.stops.tamsuiOldStreet.name': 'तामसुई ओल्ड स्ट्रीट',
+    'map.stops.tamsuiOldStreet.note':
+      'सूर्यास्त, आ-गेई और तामसुई नदी के मुहाने का ऐतिहासिक आकर्षण',
+
+    // Cities
+    'map.city.taipei': 'ताइपे',
+    'map.city.newTaipei': 'न्यू ताइपे',
+    'map.city.keelung': 'कीलुंग',
+    'map.city.taoyuan': 'ताओयुआन',
+    'map.city.hsinchu': 'शिन्चू',
+    'map.city.miaoli': 'मियाओली',
+    'map.city.taichung': 'ताइचुंग',
+    'map.city.changhua': 'चांगहुआ',
+    'map.city.nantou': 'नानतोउ',
+    'map.city.chiayi': 'चियाई',
+    'map.city.tainan': 'ताइनान',
+    'map.city.kaohsiung': 'काओशिउंग',
+    'map.city.pingtung': 'पिंगतुंग',
+    'map.city.yilan': 'यीलान',
+    'map.city.hualien': 'हुआलिएन',
+    'map.city.taitung': 'ताइतुंग',
+    'map.city.penghu': 'पेंघू',
+    'map.city.kinmen': 'किनमेन',
+
+    // Markers
+    'map.markers.founderCheYuWu.title': 'संस्थापक — वू चे-यू Che-Yu Wu',
+    'map.markers.founderCheYuWu.desc':
+      'कोड से काव्यात्मकता तक: ताइवान के एक कलाकार की अंतरराष्ट्रीय सफलता की यात्रा',
+    'map.markers.taiwanIndigenousContemporaryArt.title':
+      'ताइवान की आदिवासी समकालीन कला',
+    'map.markers.taiwanIndigenousContemporaryArt.desc':
+      'पारंपरिक शिल्प से समकालीन सृजन तक, जानें कि ताइवान के आदिवासी कलाकार वैश्विक कला मंच पर अपनी आवाज़ कैसे बुलंद कर रहे हैं और आदिवासी पहचान एवं समकालीन कला के बीच संवाद को कैसे पुनर्परिभाषित कर रहे हैं',
+    'map.markers.taiwanExperimentalNewMediaArt.title':
+      'ताइवान की प्रयोगात्मक और न्यू मीडिया कला',
+    'map.markers.taiwanExperimentalNewMediaArt.desc':
+      'वीडियो कला से VR संवादात्मक अनुभवों तक, ताइवान की न्यू मीडिया कला के अभिनव विकास और कला-प्रौद्योगिकी पारिस्थितिकी को जानें',
+    'map.markers.taiwanArchitecture.title': 'ताइवान की वास्तुकला',
+    'map.markers.taiwanArchitecture.desc':
+      'पत्थर की पट्टियों वाले घरों से गगनचुंबी इमारतों तक: एक द्वीप की वास्तुशिल्पीय समय-यात्रा',
+    'map.markers.taiwanNewMediaArt.title': 'ताइवान की न्यू मीडिया कला',
+    'map.markers.taiwanNewMediaArt.desc':
+      'ताइवान की संस्कृति और कहानियों को जानें',
+    'map.markers.taiwanWatercolorCenturyEvolution.title':
+      'ताइवान की जलरंग चित्रकला का शताब्दी विकास',
+    'map.markers.taiwanWatercolorCenturyEvolution.desc':
+      'जापानी शासनकाल में इशिकावा किनइचिरो की प्रेरणा से लेकर समकालीन चिएन चुंग-वेई की अंतरराष्ट्रीय ख्याति तक, ताइवान की जलरंग चित्रकला ने सौ वर्षों की यात्रा तय की है और एशिया के सबसे सक्रिय जलरंग सृजन केंद्रों में स्थान बनाया है।',
+    'map.markers.taiwanModernPoetry.title': 'ताइवान की आधुनिक कविता',
+    'map.markers.taiwanModernPoetry.desc':
+      'तीन अध्ययन-कक्षों से निकले आधुनिकतावादी प्रयोग ने अनायास ही सबसे अधिक स्थानीयता से जुड़ी काव्य क्रांति को कैसे जन्म दिया',
+    'map.markers.taiwanContemporarySculpture.title':
+      'ताइवान की समकालीन मूर्तिकला का विकास',
+    'map.markers.taiwanContemporarySculpture.desc':
+      'यांग यिंग-फेंग और जू मिंग से नई पीढ़ी तक, ताइवान की मूर्तिकला के विकासक्रम और सृजनात्मक भावना को जानें',
+    'map.markers.taiwanCuratorsArtCulture.title':
+      'ताइवान के क्यूरेटर और कला-संस्कृति का निर्माण',
+    'map.markers.taiwanCuratorsArtCulture.desc':
+      'स्वतंत्र क्यूरेशन से कला संग्रहालय व्यवस्था तक, जानें कि ताइवान के क्यूरेटर समकालीन कला का सांस्कृतिक विमर्श और अंतरराष्ट्रीय संवाद कैसे गढ़ते हैं',
+    'map.markers.newMediaArt.title': 'न्यू मीडिया कला',
+    'map.markers.newMediaArt.desc':
+      'ताइवान की डिजिटल कला की अग्रणी खोज, प्रयोगशाला से अंतरराष्ट्रीय मंच तक प्रौद्योगिकी और मानविकी का संगम',
+    'map.markers.contemporaryTaiwanLiterature.title': 'समकालीन ताइवानी साहित्य',
+    'map.markers.contemporaryTaiwanLiterature.desc':
+      'ताइवान की संस्कृति और कहानियों को जानें',
+    'map.markers.taiwanContemporaryArt.title': 'ताइवान की समकालीन कला',
+    'map.markers.taiwanContemporaryArt.desc':
+      'ताइपे फाइन आर्ट्स म्यूज़ियम से वेनिस बिएनाले के ताइवान पवेलियन तक, वैश्विक मंच पर ताइवान की समकालीन कला का विशिष्ट स्थान',
+    'map.markers.kinmenGuesthouseMuseum.title':
+      'जिनमा गेस्टहाउस समकालीन कला संग्रहालय',
+    'map.markers.kinmenGuesthouseMuseum.desc':
+      'बिछोह और पुनर्मिलन का साक्षी रहा शीतयुद्धकालीन सैन्य पड़ाव, जिसे बीस वर्षों की निद्रा के बाद एक पिता-पुत्री ने जगाया और जो 《Lonely Planet》 द्वारा अनुशंसित काओशिउंग का शीर्ष कला संग्रहालय बना।',
+    'map.markers.renjianMagazine.title': 'रेनजियान पत्रिका',
+    'map.markers.renjianMagazine.desc':
+      '47 अंक, चार वर्ष और फोटोग्राफी एवं शब्दों से छेड़ी गई एक शांत क्रांति——ताइवान के रिपोर्ताज साहित्य का आरंभ-बिंदु',
+    'map.markers.taiwanIndigenousCulture.title': 'ताइवान की आदिवासी संस्कृति',
+    'map.markers.taiwanIndigenousCulture.desc':
+      '16 समुदायों की विविध परंपराओं से समकालीन कला के पुनरुत्थान तक, ताइवान की आदिवासी संस्कृति की गहरी विरासत और आधुनिक रूपांतरण को जानें',
+    'map.markers.taiwan16IndigenousTribes.title':
+      'ताइवान के 16 आदिवासी समुदायों का सांस्कृतिक मानचित्र',
+    'map.markers.taiwan16IndigenousTribes.desc':
+      'ताइवान के 16 आदिवासी समुदायों के वितरण क्षेत्रों, भाषा प्रणालियों, प्रमुख अनुष्ठानों और समकालीन रचनात्मक विकास को जानें तथा ताइवान के आदिवासी समुदायों की बहुसांस्कृतिक छवि को समझें',
+    'map.markers.taiwanNightMarketCulture.title':
+      'ताइवान की नाइट मार्केट संस्कृति और अल्पाहारों का आकर्षण',
+    'map.markers.taiwanNightMarketCulture.desc':
+      'ताइवान की नाइट मार्केट संस्कृति के उद्भव की पृष्ठभूमि, उसके अनूठे आकर्षण तथा प्रतिनिधि अल्पाहारों की ऐतिहासिक कहानियों और सांस्कृतिक अर्थों को गहराई से जानें',
+    'map.markers.taiwanSensibilityKoreanPerspective.title':
+      'ताइवान संवेदना: कोरियाई नज़र से ताइवानी सौंदर्यबोध',
+    'map.markers.taiwanSensibilityKoreanPerspective.desc':
+      'K-pop MV से सियोल पुस्तक मेले तक, जानें कि “대만감성” ने ताइवान के रोज़मर्रा के सड़क-दृश्यों को एशिया का सबसे मनमोहक सौंदर्य प्रतीक कैसे बनाया',
+    'map.markers.taiwanCulturalCreativeParks.title':
+      'ताइवान के सांस्कृतिक एवं रचनात्मक पार्कों का विकास',
+    'map.markers.taiwanCulturalCreativeParks.desc':
+      'पुरानी इमारतों के पुनर्जीवन से रचनात्मक समूहों तक, ताइवान के सांस्कृतिक एवं रचनात्मक पार्कों की विकास-यात्रा और नवाचार मॉडल',
+    'map.markers.taiwanOldStreetCulture.title':
+      'ताइवान की पुरानी सड़कों की संस्कृति और वाणिज्यिक क्षेत्र',
+    'map.markers.taiwanOldStreetCulture.desc':
+      'छिंग राजवंशकालीन बंदरगाहों की समृद्धि से जापानी शासनकालीन बारोक शैली की इमारतों तक, ताइवान की पुरानी सड़कें ईंटों और खपरैलों में लिखा आम लोगों का इतिहास हैं',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.title':
+      'ताइवान की चाय परंपरा और जीवन-सौंदर्य',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.desc':
+      'गोंगफू चाय से लेकर चाय-सज्जा के सौंदर्यशास्त्र तक, जानें कि ताइवान ने पूर्वी चाय संस्कृति और स्थानीय जीवन-सौंदर्य को मिलाकर कैसे नवाचार किया',
+    'map.markers.taiwanStreetArtGraffiti.title':
+      'ताइवान की स्ट्रीट आर्ट और ग्रैफिटी संस्कृति',
+    'map.markers.taiwanStreetArtGraffiti.desc':
+      'भूमिगत ग्रैफिटी से लेकर वैध भित्तिचित्रों तक, शहरों की दीवारें ताइवान के कलाकारों का रचनात्मक मंच कैसे बनीं',
+    'map.markers.taiwanIncenseMakingCulture.title':
+      'ताइवान की अगरबत्ती-निर्माण संस्कृति और अगरबत्ती की डंडियों का मूल क्षेत्र',
+    'map.markers.taiwanIncenseMakingCulture.desc':
+      'चियाई के युनशियाओ समुदाय में अगरबत्ती की डंडियां बनाने की सदियों पुरानी कला से लेकर पूरे ताइवान में फैले अगरबत्ती उद्योग तक——आस्था, कारीगरी और दृढ़ता से जुड़ा एक प्राचीन व्यवसाय',
+    'map.markers.taiwanHomophoneTaboos.title':
+      'ताइवान में समोच्चारित शब्दों से जुड़ी वर्जनाएं：क्यों「चार」के कारण पूरा समाज एक मंजिल छोड़ देता है？',
+    'map.markers.taiwanHomophoneTaboos.desc':
+      'अस्पतालों में चौथी मंजिल न होने से लेकर 8888 नंबर प्लेट की आसमान छूती नीलामी कीमत तक, समोच्चारित शब्दों के प्रति ताइवान के लोगों की संवेदनशीलता दुनिया में शायद सबसे अधिक है',
+    'map.markers.hakkaCultureLanguage.title': 'हक्का संस्कृति और भाषा',
+    'map.markers.hakkaCultureLanguage.desc':
+      'दृढ़ता की भावना और थ्यान-छ्वान दिवस：ताइवान के हक्का समुदाय की सांस्कृतिक विरासत और आधुनिक पुनरुत्थान',
+    'map.markers.ethnicGroupsTaiwan.title':
+      'जातीय समुदाय（होक्लो हक्का मूलनिवासी युद्धोत्तर चीनी प्रवासी नए निवासी）',
+    'map.markers.ethnicGroupsTaiwan.desc':
+      'ताइवान की जातीय विविधता केवल ऐतिहासिक विकास का परिणाम नहीं, बल्कि समकालीन ताइवानी समाज को समझने की कुंजी भी है। विविध समुदायों के सह-अस्तित्व वाली यह सामाजिक संरचना ताइवानी संस्कृति की रचनात्मकता का स्रोत होने के साथ लोकतांत्रिक राजनीति के विकास की महत्वपूर्ण नींव भी है। प्रत्येक समुदाय की सांस्कृतिक विशेषताओं का सम्मान करते हुए साझा ताइवानी पहचान का निर्माण कैसे किया जाए, यह ताइवानी समाज के सामने लगातार बना हुआ एक महत्वपूर्ण प्रश्न है।',
+    'map.markers.chinaSteel.title':
+      'चाइना स्टील：लौह-पुरुष मंत्री और दस प्रमुख निर्माण परियोजनाओं की इस्पाती गाथा',
+    'map.markers.chinaSteel.desc':
+      'चाओ याओ-तुंग द्वारा यूरोप और अमेरिका से बातचीत में चतुराई से तकनीक हासिल करने से लेकर काऊशुंग के शियाओकांग में उठे सफेद धुएं के पहले गुबार तक, चाइना स्टील ने 50 वर्षों में ताइवान के भारी उद्योग की रीढ़ तैयार की और दस प्रमुख निर्माण परियोजनाओं का सबसे सफल रत्न बना',
+    'map.markers.taiwanCement.title':
+      'ताइवान सीमेंट：ताइवान की पहली सूचीबद्ध कंपनी के हरित रूपांतरण की गाथा',
+    'map.markers.taiwanCement.desc':
+      '1962 में ताइवान स्टॉक एक्सचेंज इसी के लिए अस्तित्व में आया और स्टॉक कोड 1101 ताइवानी शेयर बाजार की उत्पत्ति का प्रतीक बना। कू परिवार की तीन पीढ़ियों के 76 वर्षों के संचालन में ताइवान सीमेंट ने अपनी सीमेंट भट्ठियों से ताइवान के निर्माण चमत्कार को देखा और अब कार्बन-तटस्थता के युग का सामना करने के लिए हरित उद्यम में बदल रहा है',
+    'map.markers.tsmc.title': 'ताइवानी कंपनी：TSMC',
+    'map.markers.tsmc.desc':
+      'दुनिया की अग्रणी चिप फाउंड्री कंपनी, जिसके हाथों में मानवता की डिजिटल सभ्यता की महत्वपूर्ण जीवनरेखा है',
+    'map.markers.chimeiCorporation.title':
+      'ची मेई कॉरपोरेशन：श्यू वेन-लोंग का ऐक्रिलिक साम्राज्य और संग्रहालय का सपना',
+    'map.markers.chimeiCorporation.desc':
+      '1960 में ताइनान के रेनदे स्थित एक छोटे कारखाने से शुरुआत कर श्यू वेन-लोंग ने अपना पूरा जीवन एशिया का सबसे बड़ा ABS सामग्री साम्राज्य बनाने में लगाया और समाज को लौटाने के लिए ची मेई संग्रहालय भी स्थापित किया। उन्होंने सिद्ध किया कि ताइवानी कंपनियां व्यावसायिक सफलता और मानवीय सरोकार दोनों को साथ लेकर चल सकती हैं',
+    'map.markers.acer.title': 'Acer समूह - PC उद्योग में बदलाव का अग्रदूत',
+    'map.markers.acer.desc':
+      'ताइवान के ताओयुआन से उभरे पर्सनल कंप्यूटर अग्रदूत ने「कई ब्रांड、कई बिक्री माध्यम」का व्यावसायिक मॉडल बनाकर वैश्विक PC उद्योग में बदलाव का इंजन बनने तक का सफर तय किया',
+    'map.markers.giantBicycles.title': 'ताइवानी कंपनी：जायंट मैन्युफैक्चरिंग',
+    'map.markers.giantBicycles.desc':
+      'एक बड़ी अमेरिकी कंपनी द्वारा छोड़े गए ठेका-निर्माण मजदूर से लेकर वैश्विक साइकिल तकनीकी मानक तय करने वाले अदृश्य साम्राज्य तक',
+    'map.markers.quantaComputer.title': 'ताइवानी कंपनी：क्वांटा कंप्यूटर',
+    'map.markers.quantaComputer.desc':
+      'कारखाने में आग लगने से लेकर दुनिया का लैपटॉप बादशाह बनने तक, बैरी लैम ने AI युग का नया साम्राज्य कैसे बनाया？',
+    'map.markers.aseGroup.title': 'ताइवानी कंपनी：ASE सेमीकंडक्टर',
+    'map.markers.aseGroup.desc':
+      'दुनिया की सबसे बड़ी सेमीकंडक्टर असेंबली और परीक्षण कंपनी, एक निर्माण कंपनी के मालिक ने सेमीकंडक्टर उद्योग का रुख क्यों किया？',
+    'map.markers.esunFinancialHolding.title':
+      'ताइवानी कंपनी：E.SUN फाइनेंशियल होल्डिंग',
+    'map.markers.esunFinancialHolding.desc':
+      'क्रेडिट कार्ड विशेषज्ञ बैंक से डिजिटल वित्त के अग्रदूत तक, 43 वर्ष की आयु में सबसे युवा फाइनेंशियल होल्डिंग महाप्रबंधक बनने की उपलब्धि की कहानी',
+    'map.markers.changChunPetrochemical.title':
+      'ताइवानी कंपनी：चांग चुन पेट्रोकेमिकल',
+    'map.markers.changChunPetrochemical.desc':
+      '1949 में ताइनान के छोटे कारखाने से वैश्विक रासायनिक दिग्गज तक,「न सूचीबद्ध होना न कर्ज लेना」की नीति वाले अदृश्य विजेता की कहानी',
+    'map.markers.formosaPlasticsGroup.title': 'ताइवानी कंपनी：एवरग्रीन मरीन',
+    'map.markers.formosaPlasticsGroup.desc':
+      'एक पुराने जहाज से वैश्विक समुद्री परिवहन साम्राज्य तक, चांग युंग-फा की महासागरीय गाथा',
+    'map.markers.taipeiFubon.title':
+      'रात्रि बाजार का अर्थशास्त्र：बिना ब्रांड का एक व्यावसायिक चमत्कार',
+    'map.markers.taipeiFubon.desc':
+      'जानें कि ताइवान के रात्रि बाजारों ने ब्रांड、साज-सज्जा और स्थायी स्थान के बिना करीब 4000 अरब की वार्षिक उत्पादन-वैल्यू वाला आर्थिक चमत्कार कैसे रचा',
+    'map.markers.taiwan7Eleven.title': 'ताइवान का कॉफी उद्योग',
+    'map.markers.taiwan7Eleven.desc':
+      'जापानी शासनकाल में खेती की शुरुआत से लेकर Simple Kaffa की विश्व चैंपियनशिप तक, ताइवानी कॉफी के सौ वर्षों के विकास का इतिहास',
+    'map.markers.taiwanHighSpeedRail.title':
+      'ताइवान के स्थानीय व्यंजनों का मानचित्र',
+    'map.markers.taiwanHighSpeedRail.desc':
+      'कीलुंग के मियाओकोउ के तिंगपियनहू से लेकर पिंगतुंग के वानलुआन के पोर्क नकल तक, शिनचू के मीटबॉल से लेकर ताइतुंग के शरीफे तक, हर शहर का अपना स्वाद-DNA है। स्थानीय लोगों के कदमों पर चलते हुए ताइवान की 22 काउंटियों और शहरों के सबसे प्रतिनिधि स्थानीय व्यंजनों को खोजें और इस द्वीप की सबसे प्रामाणिक जन-संस्कृति का स्वाद चखें।',
+    'map.markers.taiwanSemiconductorIndustry.title':
+      'ताइवान के पारंपरिक भोज-व्यंजन：लुप्त होती स्वाद-स्मृतियां',
+    'map.markers.taiwanSemiconductorIndustry.desc':
+      'चियाई के पुदीना चिकन से लेकर बची हुई सामग्री के सूप तक, दादी के खास व्यंजनों में परिवार की यादें बसी हैं, लेकिन बदलते समय के साथ वे धीरे-धीरे लुप्त हो रहे हैं',
+    'map.markers.taiwanBankingSystem.title':
+      'ताइवान के नए निवासियों का पाक-संलयन',
+    'map.markers.taiwanBankingSystem.desc':
+      'जब थाई खट्टा-तीखा स्वाद ताइवानी मीठे-नमकीन स्वाद से मिलता है、जब वियतनामी फो की भेंट ताइवानी ब्रेज़्ड व्यंजनों से होती है、जब इंडोनेशियाई मसाले स्थानीय सामग्रियों को अपनाते हैं, तब ताइवान में सीमाओं से परे स्वाद की एक क्रांति चुपचाप जन्म ले रही है। नए निवासी केवल अपनी मातृभूमि के व्यंजन ही नहीं लाए हैं, बल्कि ताइवान की खाद्य संस्कृति को समृद्ध करने वाली बिल्कुल नई संभावनाएं भी लेकर आए हैं।',
+    'map.markers.taiwanSmes.title': 'ताइवान का फल साम्राज्य',
+    'map.markers.taiwanSmes.desc':
+      'आम और लीची से लेकर शरीफा और वैक्स एप्पल तक, उष्णकटिबंधीय फलों की विविधता और कृषि-तकनीकी सफलताओं की मधुर गाथा',
+    'map.markers.youbikePublicBikeSystem.title':
+      'ताइवान की समुद्री भोजन संस्कृति',
+    'map.markers.youbikePublicBikeSystem.desc':
+      'मत्स्य बंदरगाहों से सीधे पहुंचने वाली ताजा उपज、समुद्री भोजन रेस्तरां की संस्कृति、ऑयस्टर ऑमलेट जैसे समुद्री स्वाद वाले व्यंजन, चारों ओर समुद्र से घिरे ताइवान की द्वीपीय विशेषता और समृद्ध समुद्री भोजन परंपरा को दर्शाते हैं',
+    'map.markers.taiwanFoodBeverageIndustry.title':
+      'ताइवान के मिशेलिन और उत्कृष्ट भोजनालय',
+    'map.markers.taiwanFoodBeverageIndustry.desc':
+      '2018 में मिशेलिन गाइड के लाल आवरण पर पहली बार「TAIPEI」छपा, जिसने ताइवान के भोजन उद्योग के औपचारिक रूप से अंतरराष्ट्रीय मूल्यांकन प्रणाली में प्रवेश को चिह्नित किया। सड़क किनारे के ठेलों से लेकर सितारा-प्राप्त रेस्तरां तक, आम लोगों के भोजन से लेकर उत्कृष्ट पाक-कला तक, ताइवान की भोजन संस्कृति अंतरराष्ट्रीय मंच पर परंपरा और नवाचार के आकर्षक संगम के रूप में उभरी है।',
+    'map.markers.taiwanAgriculturalReform.title': 'रात्रि बाजार संस्कृति',
+    'map.markers.taiwanAgriculturalReform.desc':
+      '164 पंजीकृत रात्रि बाजार、ताइनान में औसतन हर 3.8万人 पर एक रात्रि बाजार, मंदिर प्रांगण से अंतरराष्ट्रीय पर्यटन स्थल तक',
+    'map.markers.taiwanTeaIndustry.title': 'हक्का खानपान संस्कृति',
+    'map.markers.taiwanTeaIndustry.desc':
+      'हक्का समुदाय की समृद्ध और विविध खानपान संस्कृति, लेई चा की गहरी सुगंध से लेकर जंगली अदरक के फूल में लिपटे चावल के पकवान के पर्वतीय स्वाद तक, मितव्ययी गृह-प्रबंधन और स्थानीय सामग्री के उपयोग से जुड़ी हक्का जीवन-बुद्धि को दर्शाती है',
+    'map.markers.taiwanFishingIndustry.title': 'बीफ नूडल सूप',
+    'map.markers.taiwanFishingIndustry.desc':
+      'युद्धोत्तर चीनी प्रवासियों की घर की याद से लेकर ताइवान के राष्ट्रीय व्यंजन तक, बीफ नूडल सूप के सांस्कृतिक संलयन और विश्वव्यापी सुगंध की कहानी',
+    'map.markers.taiwanFruitIndustry.title': 'चाय संस्कृति',
+    'map.markers.taiwanFruitIndustry.desc':
+      'पारंपरिक चाय-कला से लेकर आधुनिक हाथ से बनाए जाने वाले पेयों तक ताइवान की चाय संस्कृति का विकास, द्वीप की अनूठी चाय किस्मों और चाय पीने की संस्कृति को दर्शाता है',
+    'map.markers.taiwanRiceVarieties.title':
+      'हिलते हुए द्वीप पर उन्होंने एक ऐसी मीनार बनाई जो उड़ सकती है',
+    'map.markers.taiwanRiceVarieties.desc':
+      'सक्रिय भ्रंश से केवल 200 मीटर दूर, ताइवान के लोगों ने सबसे अस्थिर भूमि पर ही दुनिया की सबसे ऊंची इमारत खड़ी करने की ठानी——फिर एक सनकी 91 मिनट में बिना किसी उपकरण के उस पर चढ़ गया।',
+    'map.markers.nightMarketCulture.title':
+      'ताइवान की पांच प्रमुख भू-आकृतियां और भौगोलिक संरचना：पर्वत शृंखलाओं से मैदानों तक द्वीप का स्वरूप',
+    'map.markers.nightMarketCulture.desc':
+      'ताइवान की अनूठी भौगोलिक संरचना को जानें, केंद्रीय पर्वत शृंखला से पश्चिमी मैदानों तक इस द्वीप की भू-आकृतिक विविधता को समझें',
+    'map.markers.bubbleTeaGlobalPhenomenon.title': 'ताइवान का परिवहन नेटवर्क',
+    'map.markers.bubbleTeaGlobalPhenomenon.desc':
+      'हाई-स्पीड रेल、मेट्रो、राजमार्ग और विमान सेवाएं, ताइवान को गतिमान रखने वाला बहुस्तरीय परिवहन नेटवर्क बुनती हैं',
+    'map.markers.taiwanBeefNoodle.title':
+      'ताइवान की राष्ट्रीय दर्शनीय क्षेत्र प्रणाली',
+    'map.markers.taiwanBeefNoodle.desc':
+      'पूर्वोत्तर तट से केंटिंग तक, ताइवान के 13 राष्ट्रीय दर्शनीय क्षेत्र समृद्ध प्राकृतिक और सांस्कृतिक परिदृश्य प्रस्तुत करते हैं',
+    'map.markers.taiwanHotPotCulture.title':
+      'ताइवान द्वीप की भौगोलिक विशेषताएँ और निर्माण',
+    'map.markers.taiwanHotPotCulture.desc':
+      'प्लेट विवर्तनिकी से लेकर भू-आकृतिक संरचना तक, ताइवान की अनूठी द्वीपीय भौगोलिक विशेषताओं और फॉर्मोसा द्वीप के प्राकृतिक रहस्यों को जानें',
+    'map.markers.taiwanFineDining.title':
+      'ताइवान में प्लेट विवर्तनिकी और भूकंपीय गतिविधि',
+    'map.markers.taiwanFineDining.desc':
+      'यूरेशियन प्लेट और फिलीपीन सागर प्लेट की सीमा पर स्थित ताइवान की भूवैज्ञानिक विशेषताओं तथा बार-बार आने वाले भूकंपों के कारणों का विश्लेषण',
+    'map.markers.taiwanStreetFood.title':
+      'ताइवान में जलाशय और जल संसाधन प्रबंधन',
+    'map.markers.taiwanStreetFood.desc':
+      'जल संकट से लेकर जलाशयों में गाद भरने तक, ताइवान के जल संसाधनों की चुनौतियाँ और उत्तर-दक्षिण असमान वितरण की समस्या',
+    'map.markers.taiwanVegetarianCulture.title':
+      'ताइवान की नदी प्रणाली और जलवैज्ञानिक विशेषताएँ: छोटी तीव्र धाराएँ और मौसमी बदलावों का जल-भूगोल',
+    'map.markers.taiwanVegetarianCulture.desc':
+      'झुओशुई नदी से गाओपिंग नदी तक, ताइवान की अनूठी नदी प्रणाली और द्वीपीय भू-आकृति द्वारा निर्मित उसकी जलवैज्ञानिक विशेषताओं को जानें',
+    'map.markers.taiwanCoffeeCulture.title':
+      'ताइवान की तटीय भू-आकृतियाँ और समुद्री परिदृश्य',
+    'map.markers.taiwanCoffeeCulture.desc':
+      'उत्तर के अंतरीप-खाड़ी तट से पूर्व के भ्रंश तट तक, ताइवान की विविध तटीय भू-आकृतियाँ प्लेट विवर्तनिकी की विलक्षण कारीगरी दर्शाती हैं',
+    'map.markers.taiwanSnackCulture.title':
+      'ताइवान के गर्म जलस्रोतों का परिदृश्य',
+    'map.markers.taiwanSnackCulture.desc':
+      'बेइतौ, झिबेन और जियाओशी में गर्म जलस्रोत संस्कृति और भूवैज्ञानिक विज्ञान का सुंदर संगम',
+    'map.markers.taiwanSeafoodCulture.title':
+      'ताइवान: जैव विविधता का प्रमुख केंद्र',
+    'map.markers.taiwanSeafoodCulture.desc':
+      '3.6 लाख वर्ग किलोमीटर के द्वीप में 5.9 लाख प्रजातियाँ सिमटी हैं, जिनका घनत्व वैश्विक औसत से 100 गुना है',
+    'map.markers.taiwanPineappleCake.title':
+      'ताइवान के कृषि परिदृश्य और उद्योग का वितरण',
+    'map.markers.taiwanPineappleCake.desc':
+      'उत्तर से दक्षिण तक बदलते कृषि परिदृश्य ताइवान के「ताइवान का अन्नभंडार」से「उन्नत कृषि」तक रूपांतरण की राह दर्शाते हैं',
+    'map.markers.taiwanPorkRibSoup.title':
+      'ताइवान का शहरी विकास और शहर-गाँव का अंतर',
+    'map.markers.taiwanPorkRibSoup.desc':
+      'छह विशेष नगरपालिकाओं की संरचना में ताइवान का असमान शहरी-ग्रामीण विकास और कृषि-प्रधान ताइवान से शहरी ताइवान तक स्थानिक रूपांतरण',
+    'map.markers.taiwanOysterOmelette.title': 'भू-आकृति और भूविज्ञान',
+    'map.markers.taiwanOysterOmelette.desc':
+      '600लाख वर्ष पुराने द्वीप में छिपी है2करोड़ वर्षों पुरानी स्मृति — विश्व की सबसे युवा पर्वतनिर्माण पट्टी और सबसे भीषण प्लेट टकराव का चमत्कार',
+    'map.markers.taiwanBreakfastCulture.title':
+      'शहरी विशेषताएँ और क्षेत्रीय संस्कृति',
+    'map.markers.taiwanBreakfastCulture.desc':
+      'ताइपे के अंतरराष्ट्रीय महानगर से ताइनान के प्राचीन राजधानी वाले परिवेश तक, ताइवान के शहरों ने अपनी विशिष्ट स्थानीय पहचान कैसे गढ़ी',
+    'map.markers.taiwanConvenienceStoreFood.title':
+      'दूरस्थ द्वीप और समुद्री संस्कृति: विश्व में सबसे अधिक पत्थर के ज्वारीय जाल से उड़नमछली ऋतु के पारिस्थितिक नियमों तक',
+    'map.markers.taiwanConvenienceStoreFood.desc':
+      'दुनिया भर में पत्थर के ज्वारीय जाल 600 से भी कम हैं, जबकि पेंगहू में ही 574 हैं। उड़नमछली पकड़ने वाला एक द्वीपीय समुदाय वर्जनाओं को सबसे परिष्कृत समुद्री संसाधन प्रबंधन प्रणाली में बदल देता है',
+    'map.markers.dutchSpanishColonialPeriod.title':
+      '28 फरवरी घटना और श्वेत आतंक: ताइवान में अधिनायकवादी शासन के घाव और स्मृतियाँ',
+    'map.markers.dutchSpanishColonialPeriod.desc':
+      '1947की 28 फरवरी घटना से लेकर 38वर्ष लंबी मार्शल लॉ व्यवस्था तक, ताइवान ने अधिनायकवादी शासन में राजकीय हिंसा झेली और मार्शल लॉ हटने के बाद ही ऐतिहासिक घावों का सामना कर संक्रमणकालीन न्याय को आगे बढ़ाना शुरू किया।',
+    'map.markers.zhengDynastyPeriod.title':
+      'ताइवान जलडमरूमध्य संकट और दोनों ओर के संबंधों का विकास',
+    'map.markers.zhengDynastyPeriod.desc':
+      'ताइवान जलडमरूमध्य के तीन बड़े संकटों और दोनों ओर के संबंधों के सत्तर से अधिक वर्षों के विकास की समीक्षा के जरिए ऐतिहासिक संदर्भ और समकालीन चुनौतियों को समझें',
+    'map.markers.qingDynastyTaiwanHistory.title':
+      'ताइवान के समुद्री व्यापार का इतिहास',
+    'map.markers.qingDynastyTaiwanHistory.desc':
+      'समुद्री अन्वेषण युग के ताइवान में अंतरराष्ट्रीय व्यापार केंद्र से समुद्री डाकू साम्राज्य तक उत्थान-पतन की गाथा',
+    'map.markers.japaneseColonialRule.title':
+      'ताइवान की सैन्य-आश्रित बस्तियों का इतिहास',
+    'map.markers.japaneseColonialRule.desc':
+      'म्यांमार की अलग-थलग सेना से बाँस की बाड़ वाले साम्राज्य तक, 120लाख लोगों के विशाल पलायन ने「घर」को कैसे नई परिभाषा दी',
+    'map.markers.februaryTwentyEightIncident.title':
+      'ताइवान के रेलमार्गों का इतिहास',
+    'map.markers.februaryTwentyEightIncident.desc':
+      'चिंग राजवंश के लियू मिंग-चुआन से जापानी शासन की उत्तर-दक्षिण मुख्य रेल लाइन और हाई-स्पीड रेल तक, रेलमार्गों ने ताइवान के शहरी विकास और सांस्कृतिक स्मृति को कैसे आकार दिया',
+    'map.markers.martialLawPeriod.title':
+      'राष्ट्रवादी सरकार का ताइवान स्थानांतरण और युद्धोत्तर पुनर्निर्माण',
+    'map.markers.martialLawPeriod.desc':
+      '1949में राष्ट्रवादी सरकार के ताइवान स्थानांतरण की ऐतिहासिक पृष्ठभूमि, प्रक्रिया और प्रभावों तथा युद्धोत्तर ताइवान के राजनीतिक, आर्थिक और सामाजिक पुनर्निर्माण का विश्लेषण',
+    'map.markers.democratization.title': 'जापानी शासन काल',
+    'map.markers.democratization.desc':
+      '1895-1945के बीच जापान ने ताइवान पर 50वर्ष शासन किया, व्यापक आधुनिकीकरण और संस्थागत प्रबंधन के साथ आत्मसातीकरण नीतियाँ लागू कीं, जिन्होंने ताइवान के सामाजिक विकास पर गहरा प्रभाव डाला',
+    'map.markers.taiwanIndependenceMovement.title': 'चिंग शासन काल',
+    'map.markers.taiwanIndependenceMovement.desc':
+      '1683-1895के बीच चिंग राजवंश ने ताइवान पर लगभग 212वर्ष शासन किया और निष्क्रिय प्रशासन से सक्रिय निर्माण तक आधुनिक ताइवान के प्रशासनिक विभाजन तथा हान समाज की नींव रखी',
+    'map.markers.taiwanChinaRelations.title': 'डच-स्पेनी और मिंग-झेंग काल',
+    'map.markers.taiwanChinaRelations.desc':
+      'ताइवान के इतिहास में पहली व्यवस्थित औपनिवेशिक सत्ता—डचों द्वारा फोर्ट ज़ीलैंडिया के निर्माण से लेकर कोक्सिंगा द्वारा ताइवान में शासन स्थापित करने तक—ने हान प्रवासन और राजनीतिक संस्थाओं की नींव रखी',
+    'map.markers.taiwanUsRelations.title': 'कन्वीनियंस स्टोर संस्कृति',
+    'map.markers.taiwanUsRelations.desc':
+      'विश्व में सर्वाधिक घनत्व वाले ताइवान के कन्वीनियंस स्टोर खुदरा दुकानों से पूरे देश की दैनिक जीवन संचालन प्रणाली कैसे बने',
+    'map.markers.taiwanInternationalStatus.title': 'ताइवान की परिवहन प्रणाली',
+    'map.markers.taiwanInternationalStatus.desc':
+      'हाई-स्पीड रेल 90 मिनट में उत्तर से दक्षिण तक जाती है, मेट्रो शहरों की धमनियों का घना जाल बुनती है और स्कूटर गलियों में दौड़ते हैं',
+    'map.markers.taiwanHistoricalFigures.title':
+      'ताइवान की कन्वीनियंस स्टोर संस्कृति',
+    'map.markers.taiwanHistoricalFigures.desc':
+      'विश्व में सबसे अधिक घनत्व वाला कन्वीनियंस स्टोर साम्राज्य, 7-11और फैमिलीमार्ट के स्थानीय नवाचारों ने आधुनिक जीवनशैली को नई परिभाषा दी',
+    'map.markers.taiwanPoliticalFigures.title':
+      'ताइवान के पार्क और रोजमर्रा का अवकाश',
+    'map.markers.taiwanPoliticalFigures.desc':
+      'सुबह की ताई ची से रात की सैर तक——पीढ़ियों के बीच सामाजिक मेलजोल के स्थल के रूप में ताइवान के पार्कों का सांस्कृतिक अवलोकन',
+    'map.markers.kuomintangHistory.title': 'ताइवान की कॉफी संस्कृति',
+    'map.markers.kuomintangHistory.desc':
+      'स्वतंत्र कैफ़े के घनत्व में विश्व के शीर्ष तीन में शामिल ताइवान की कॉफी संस्कृति—अलीशान की फलियों से कैफ़े में काम करने तक',
+    'map.markers.democraticProgressivePartyHistory.title':
+      'कचरा गाड़ी के पीछे दौड़ता द्वीप: कचरा संकट से पुनर्चक्रण चमत्कार तक ताइवान',
+    'map.markers.democraticProgressivePartyHistory.desc':
+      '1990के दशक में 400लगभग भर चुके लैंडफिल वाला और अंतरराष्ट्रीय मीडिया द्वारा「कचरा द्वीप」कहा गया स्थान बीथोवेन के संगीत से 2,300लाख लोगों को हर दिन कचरा गाड़ी के पीछे दौड़ाता है; 30वर्ष बाद इसकी संसाधन पुनर्चक्रण दर अधिकांश यूरोपीय देशों से आगे है',
+    'map.markers.taipeiHistory.title':
+      'ताइवान मेट्रो का विकास इतिहास: खून और पैसे से लिखा शहरी विकास का सिद्धांत',
+    'map.markers.taipeiHistory.desc':
+      '209 टन वजनी इस्पात की शहतीर आसमान से गिरने पर 4 लोगों की जान गई, 16.4 करोड़ का मुआवजा हुआ और ताइपे मेट्रो का मूल परिचालन आज भी घाटे में है——पूरे ताइवान की मेट्रो व्यवस्था की वास्तविक कीमत',
+    'map.markers.taiwanPrehistoricCulture.title':
+      'ताइवान की शिक्षा व्यवस्था: संयुक्त प्रवेश परीक्षा के नरक से बहुविकल्पी भूलभुलैया तक द्वीपीय प्रयोग',
+    'map.markers.taiwanPrehistoricCulture.desc':
+      'ताइवान ने संयुक्त प्रवेश परीक्षा प्रणाली खत्म करने में 30वर्ष लगाए, लेकिन नवीनतम विषय-आधारित परीक्षा से दोबारा परीक्षा की तैयारी कराने वाले संस्थानों में दाखिले दोगुने हो गए। एक द्वीप उच्च शिक्षा प्रवेश के दबाव और शैक्षिक समानता के बीच बार-बार सामाजिक प्रयोग कैसे करता है？',
+    'map.markers.taiwanIndigenousHistory.title': 'ताइवान की स्कूटर संस्कृति',
+    'map.markers.taiwanIndigenousHistory.desc':
+      'मोटरबाइक घनत्व में विश्व के अग्रणी द्वीपों में शामिल ताइवान में आवागमन के साधन से जीवनशैली तक का सांस्कृतिक विकास',
+    'map.markers.taiwanMilitaryHistory.title':
+      'ताइवान की आर्केड संस्कृति और सड़कों का दृश्य',
+    'map.markers.taiwanMilitaryHistory.desc':
+      'धूप और बारिश से बचाने वाले जीवन गलियारे, जहाँ स्कूटर, रेहड़ी-पटरी वाले और मानवीय अपनापन मिलकर ताइवान की सड़कों की स्मृतियाँ बुनते हैं',
+    'map.markers.taiwanWomenHistory.title': 'रात्रिजीवन और KTV संस्कृति',
+    'map.markers.taiwanWomenHistory.desc':
+      'कैशबॉक्स के निजी कमरों से देर रात के भोजनालयों तक, 24 घंटे कभी न थमने वाला द्वीपीय रात्रिजीवन',
+    'map.markers.taiwanEducationHistory.title':
+      'धर्म और लोक आस्था: भय के प्रबंधन से आस्था के साम्राज्य तक',
+    'map.markers.taiwanEducationHistory.desc':
+      'ताइवान में दुनिया में मंदिरों का घनत्व सबसे अधिक है, फिर भी वह धार्मिक स्वतंत्रता में विश्व में पहले स्थान पर है—इस विरोधाभास के पीछे 17वीं सदी के सैन्य प्रवासियों की जीवन-रक्षा की बुद्धिमत्ता छिपी है',
+    'map.markers.taiwanReligiousHistory.title': 'गर्म झरनों की संस्कृति',
+    'map.markers.taiwanReligiousHistory.desc':
+      'सैन्य आरोग्य-लाभ से दुनिया के तीन प्रमुख मृदा-स्रोतों तक: ताइवान के अनायास गर्म झरनों का साम्राज्य बनने की कहानी',
+    'map.markers.taiwanMediaHistory.title':
+      'ताइवान के मूल निवासियों की संगीत परंपराएं',
+    'map.markers.taiwanMediaHistory.desc':
+      'ताइवान के 16 मूल निवासी समुदायों की समृद्ध संगीत संस्कृति का अन्वेषण—प्राचीन धुनों के गायन से पारंपरिक वाद्ययंत्रों तक—और हजारों वर्षों की सांस्कृतिक विरासत का साक्षात्कार',
+    'map.markers.badmintonChampions.title':
+      'ताइवान का वाद्ययंत्र निर्माण उद्योग: हौली के सैक्सोफोन से वैश्विक संगीत कारखाने तक',
+    'map.markers.badmintonChampions.desc':
+      'ताइवान के वाद्ययंत्र निर्माण उद्योग की विकास-यात्रा का अन्वेषण—हौली के सैक्सोफोन के वैश्विक वर्चस्व से गिटार अनुबंध-निर्माण के साम्राज्य और फिर संगीत-पेटी निर्माण की सूक्ष्म शिल्पकला तक—और यह कि ताइवान अनुबंध-निर्माण से अपने ब्रांडों तक कैसे पहुंचा',
+    'map.markers.baseballCulture.title': 'ताइवान का लोकगीत आंदोलन',
+    'map.markers.baseballCulture.desc':
+      '“अपने गीत गाओ” से पूरे चीनी-भाषी संगीत जगत को बदलने तक—1970 के दशक की वह सांस्कृतिक क्रांति, जो युवाओं की थी',
+    'map.markers.taiwanBasketball.title':
+      'ताइवान के स्वतंत्र संगीत परिदृश्य का विकास',
+    'map.markers.taiwanBasketball.desc':
+      'भूमिगत बैंडों से स्वतंत्र संगीत तक, ताइवान के गैर-मुख्यधारा संगीत की तीस वर्षों की विकास-यात्रा और सांस्कृतिक महत्त्व का अन्वेषण',
+    'map.markers.marathonRunning.title':
+      'ताइवान का इलेक्ट्रॉनिक संगीत और पार्टी संस्कृति: भूमिगत Rave से अंतरराष्ट्रीय मंच तक',
+    'map.markers.marathonRunning.desc':
+      '1990 के दशक की Rave पार्टी संस्कृति से Road to Ultra इलेक्ट्रॉनिक संगीत महोत्सव तक, ताइवान का इलेक्ट्रॉनिक संगीत किस तरह भूमिगत दुनिया से मुख्यधारा में आया और अंतरराष्ट्रीय स्तर के DJ तथा स्वतंत्र इलेक्ट्रॉनिक लेबल तैयार हुए',
+    'map.markers.taiwanEsports.title':
+      'ताइवान की संगीत महोत्सव संस्कृति: स्प्रिंग स्क्रीम से हर ओर फलते-फूलते युवा संस्कृति के माध्यम तक',
+    'map.markers.taiwanEsports.desc':
+      'स्प्रिंग स्क्रीम, होहाईयान रॉक फेस्टिवल से मेगापोर्ट फेस्टिवल तक ताइवान के संगीत महोत्सवों की विकास-यात्रा और उनके स्वतंत्र बैंडों की पौधशाला तथा युवा संस्कृति की अभिव्यक्ति का केंद्रीय मंच बनने का अन्वेषण',
+    'map.markers.taiwanOlympics.title':
+      'समकालीन ताइवान का स्वतंत्र संगीत परिदृश्य',
+    'map.markers.taiwanOlympics.desc':
+      'भूमिगत प्रस्तुतियों से उद्योग तंत्र तक, आधुनिक ताइवान के स्वतंत्र संगीत पारिस्थितिकी तंत्र के विकास और सांस्कृतिक प्रभाव का विश्लेषण',
+    'map.markers.taipeiCycle.title':
+      'ताइवान के मूल निवासियों का पारिस्थितिक ज्ञान और पर्यावरण संरक्षण',
+    'map.markers.taipeiCycle.desc':
+      'ताइवान के मूल निवासी समुदायों द्वारा हजारों वर्षों में संचित पारंपरिक पारिस्थितिक ज्ञान तथा आधुनिक पर्यावरण संरक्षण में उसके महत्त्वपूर्ण मूल्य और व्यावहारिक तरीकों की पड़ताल',
+    'map.markers.taiwanBetelNutCulture.title':
+      'ताइवान के पर्वत और पर्वतारोहण संस्कृति',
+    'map.markers.taiwanBetelNutCulture.desc':
+      '3000 मीटर ऊंचे 268 पर्वत और सौ शिखरों की संस्कृति: ताइवान में पर्वतारोहण का विकास और पर्वत संरक्षण की चुनौतियां',
+    'map.markers.taiwanElections.title': 'ताइवान का वन पारिस्थितिकी तंत्र',
+    'map.markers.taiwanElections.desc':
+      'उपोष्णकटिबंधीय तटों से ऊंचे पर्वतों के शंकुधारी वनों तक, ताइवान के 3000 मीटर ऊर्ध्वाधर अंतराल में फैला समृद्ध वन संसार',
+    'map.markers.taiwanLgbtCulture.title':
+      'ताइवान में जलवायु परिवर्तन और नेट-ज़ीरो संक्रमण',
+    'map.markers.taiwanLgbtCulture.desc':
+      'ताइवान जलवायु परिवर्तन के प्रभावों का सामना कर रहा है—चरम मौसम की बढ़ती घटनाओं से 2050 के नेट-ज़ीरो कार्बन उत्सर्जन लक्ष्य की नीतिगत योजना तक—ऊर्जा संक्रमण की प्रक्रिया में अवसरों और चुनौतियों की पड़ताल',
+    'map.markers.taiwanMotorcycleCulture.title':
+      'ताइवान का समुद्री संरक्षण: 30 वर्षों में बनी व्यवस्था प्रवाल विरंजन की एक घटना को क्यों नहीं रोक सकी?',
+    'map.markers.taiwanMotorcycleCulture.desc':
+      '2020 में ताइवान के समुद्री क्षेत्र ने इतिहास के सबसे बड़े प्रवाल विरंजन का सामना किया। श्याओ लिउचिउ से दोंगशा एटोल तक, संरक्षित क्षेत्रों के भीतर के प्रवाल भी ऊंचे तापमान में मर गए। इससे कौन-सी समस्याएं उजागर हुईं?',
+    'map.markers.taipeiMrt.title':
+      'ताइवान में समुद्री प्रदूषण प्रबंधन और संरक्षण की चुनौतियां',
+    'map.markers.taipeiMrt.desc':
+      'समुद्री कचरे, अत्यधिक मछली पकड़ने और जलवायु परिवर्तन के बीच ताइवान के समुद्री संरक्षण की मौजूदा स्थिति, चुनौतियों और अभिनव समाधानों की पड़ताल',
+    'map.markers.kaohsiungMrt.title': 'ताइवान की समुद्री पारिस्थितिकी',
+    'map.markers.kaohsiungMrt.desc':
+      'ताओ समुदाय ने जिस समुद्री क्षेत्र की वर्जनाओं से रक्षा की, वह आज ऊंचे तापमान और पानी के भीतर के शोर से विरंजित हो रहा है: जब हजारों वर्षों का पारिस्थितिक ज्ञान आधुनिक समुद्री संकट से टकराता है',
+    'map.markers.taichungMrt.title':
+      'ताइवान की समुद्री पारिस्थितिकी और प्रवाल भित्ति संरक्षण',
+    'map.markers.taichungMrt.desc':
+      'चारों ओर समुद्र से घिरे ताइवान में समृद्ध समुद्री पारिस्थितिकी है—प्रवाल भित्तियों के विरंजन संकट से व्हेल और डॉल्फ़िन संरक्षण तक—समुद्री राष्ट्रीय उद्यानों के संरक्षण-प्रभाव और भावी चुनौतियों की पड़ताल',
+    'map.markers.taiwanTrainSystem.title':
+      'ताइवान के गर्म झरने और भूतापीय ऊर्जा',
+    'map.markers.taiwanTrainSystem.desc':
+      '30 वर्ष पहले विफल हुए भूतापीय बिजलीघर से दुनिया के एकमात्र बेइतौ पत्थर तक: एक द्वीप ने धरती के भीतर की आग को आरोग्य और हरित बिजली में कैसे बदला',
+    'map.markers.taiwanBusSystem.title': 'ताइवान में तेंदुआ बिल्ली का संरक्षण',
+    'map.markers.taiwanBusSystem.desc':
+      'पूरे ताइवान में 500 से भी कम बची अदृश्य-सी बिल्लियां—जब अंतिम देशज बिल्ली प्रजाति विलुप्ति के कगार पर पहुंचती है',
+    'map.markers.taiwanInnovationEcosystem.title': 'ताइवान का पैंगोलिन',
+    'map.markers.taiwanInnovationEcosystem.desc':
+      'दुनिया में सबसे अधिक तस्करी किया जाने वाला स्तनपायी, जिसे ताइवान में एक सुरक्षित घर मिला',
+    'map.markers.taiwanMedicalSystem.title':
+      'ताइवान का उच्च पर्वतीय पारिस्थितिकी तंत्र और हिमयुगीय अवशेष',
+    'map.markers.taiwanMedicalSystem.desc':
+      'ताइवान में 3000 मीटर से अधिक ऊंचाई वाले पर्वतीय पर्यावरण के विशिष्ट पारिस्थितिकी तंत्र की पड़ताल—ताइवानिया, युशान रोडोडेंड्रॉन से हिमयुगीन अवशेष प्रजातियों की बहुमूल्य जैव विविधता तक',
+    'map.markers.taiwanEducationSystem.title': 'ताइवान का काला भालू',
+    'map.markers.taiwanEducationSystem.desc':
+      'छाती पर सफ़ेद V उसका हस्ताक्षर है—ताइवान के पर्वतीय वनों का अंतिम सम्राट और उसके संरक्षण की अधूरी लड़ाई',
+    'map.markers.taiwanMusicIndustry.title': 'राष्ट्रीय उद्यान',
+    'map.markers.taiwanMusicIndustry.desc':
+      '36,197 वर्ग किलोमीटर में समाए 9 राष्ट्रीय उद्यान—दुनिया में सर्वाधिक घनत्व वाला संरक्षण चमत्कार',
+    'map.markers.mandarinPopMusic.title': 'ताइवान के राष्ट्रीय उद्यान',
+    'map.markers.mandarinPopMusic.desc':
+      'ताइवान के नौ राष्ट्रीय उद्यानों के विशिष्ट पारिस्थितिकी तंत्र और संरक्षण-मूल्य का अन्वेषण—उपोष्णकटिबंधीय तटों से ऊंचे पर्वतों की हिमरेखा तक का संपूर्ण भूदृश्य',
+    'map.markers.taiwaneseIndieMusic.title': 'स्थानिक प्रजातियां',
+    'map.markers.taiwaneseIndieMusic.desc':
+      'ताइवान की समृद्ध स्थानिक जैव प्रजातियां द्वीपीय जैव-भूगोल के विकासवादी चमत्कार और संरक्षण के महत्त्व को दर्शाती हैं',
+    'map.markers.taiwanRapHipHop.title': 'पारिस्थितिक विविधता',
+    'map.markers.taiwanRapHipHop.desc':
+      'ताइवान का क्षेत्रफल दुनिया का केवल 0.025% है, फिर भी यहां 50,000 से अधिक जैव प्रजातियां हैं और 60.71% वनावरण के साथ यह दुनिया में 33वें स्थान पर है',
+    'map.markers.taiwanElectronicMusic.title': 'ताइवान की व्हेल और डॉल्फ़िन',
+    'map.markers.taiwanElectronicMusic.desc':
+      'दुनिया की एक-तिहाई व्हेल और डॉल्फ़िन प्रजातियों का आवास—अतीत के व्हेल शिकार से आज के व्हेल-दर्शन तक, ताइवान समुद्री पारिस्थितिकी अनुसंधान का प्रमुख केंद्र कैसे बना?',
+    'map.markers.taiwanTraditionalMusic.title': 'मेडे',
+    'map.markers.taiwanTraditionalMusic.desc':
+      'नेशनल ताइवान नॉर्मल यूनिवर्सिटी के संबद्ध सीनियर हाई स्कूल से विश्व मंच तक, चीनी-भाषी रॉक की भावना को परिभाषित करने वाले चिरयुवा',
+    'map.markers.taiwanFilmIndustry.title': 'वू बाई',
+    'map.markers.taiwanFilmIndustry.desc':
+      'ताइवान के रॉक संगीत का राष्ट्रीय गौरव और स्थानीय रॉक का पर्याय, जिन्होंने 《नॉर्वेजियन वुड》 जैसी कृतियों से रॉक जगत में अपना स्थान स्थापित किया',
+    'map.markers.newTaiwanCinema.title': 'वू पाओ-चुन',
+    'map.markers.newTaiwanCinema.desc':
+      'विश्व ब्रेड प्रतियोगिता के विजेता, जिन्होंने लीची-गुलाब ब्रेड से अंतरराष्ट्रीय जगत को चकित किया और पिंगतुंग के ग्रामीण इलाके से दुनिया के शीर्ष बेकिंग शिल्पकार बने',
+    'map.markers.taiwanDocumentary.title': 'एनेट लू',
+    'map.markers.taiwanDocumentary.desc':
+      'राजद्रोह की दोषी से उपराष्ट्रपति तक: चीनी-भाषी दुनिया की पहली महिला उपराष्ट्रपति का असाधारण जीवन',
+    'map.markers.taiwanAnimationIndustry.title': 'जिमी',
+    'map.markers.taiwanAnimationIndustry.desc':
+      'चित्र-पुस्तकों से दुनिया को स्नेह देने वाले चित्रकार-कवि, जिन्होंने ताइवान की चित्र-पुस्तकों को अंतरराष्ट्रीय मंच तक पहुंचाया',
+    'map.markers.taiwanTelevisionIndustry.title': 'ताई त्ज़ु-यिंग',
+    'map.markers.taiwanTelevisionIndustry.desc':
+      '214 सप्ताह तक विश्व नंबर 1 रहने का रिकॉर्ड रखने वाली, काऊशुंग के चिएनचेन से ओलंपिक रजत पदक तक पहुँची ताइवान की बैडमिंटन रानी',
+    'map.markers.taiwanOttPlatforms.title': 'ली आंग',
+    'map.markers.taiwanOttPlatforms.desc':
+      '《पति की हत्या》《भटकता उपवन》 की लेखिका और ताइवान के नारीवादी साहित्य की अग्रदूत',
+    'map.markers.taiwanPodcastIndustry.title': 'ली चिह-काई',
+    'map.markers.taiwanPodcastIndustry.desc':
+      '《कूदो! लड़कों》 के मार्केट काई से ओलंपिक रजत पदक तक, ताइवान के पॉमेल हॉर्स राजकुमार का सोलह वर्षों का कलाबाज़ी भरा जीवन',
+    'map.markers.taiwanPublishing.title': 'ली युआन-त्से',
+    'map.markers.taiwanPublishing.desc':
+      '1986 के रसायन विज्ञान नोबेल पुरस्कार विजेता, जिन्होंने क्रॉस्ड मॉलेक्युलर बीम तकनीक से रासायनिक गतिकी में नया क्षेत्र खोला और ताइवान से विज्ञान का नोबेल पुरस्कार पाने वाले पहले व्यक्ति बने',
+    'map.markers.taiwanBookstoreCulture.title': 'तु त्सुंग-मिंग',
+    'map.markers.taiwanBookstoreCulture.desc':
+      'ताइवान के पहले चिकित्सा डॉक्टरेट और ताइवान की आधुनिक चिकित्सा के जनक',
+    'map.markers.taiwanComicMangaIndustry.title': 'जेरेमी लिन',
+    'map.markers.taiwanComicMangaIndustry.desc':
+      'हार्वर्ड के मेधावी छात्र से NBA चैंपियन तक, वैश्विक ‘लिनसैनिटी’ की लहर पैदा करने वाले ताइवानी-अमेरिकी खिलाड़ी',
+    'map.markers.taiwanGameIndustry.title': 'लिन यी-चिए',
+    'map.markers.taiwanGameIndustry.desc':
+      'एथलेटिक्स टीम से ठुकराए गए दुबले बच्चे से सहारा रेगिस्तान को पैदल पार कर इतिहास रचने वाले चरम-दूरी धावक तक',
+    'map.markers.nationalPalaceMuseum.title': 'लिन यी-शिओंग',
+    'map.markers.nationalPalaceMuseum.desc':
+      'लोकतंत्र आंदोलन के अग्रदूत, लिन परिवार हत्याकांड के पीड़ित और चौथे परमाणु संयंत्र-विरोधी आंदोलन के नेता',
+    'map.markers.nationalParks.title': 'एडवर्ड यांग',
+    'map.markers.nationalParks.desc':
+      'ताइवान न्यू सिनेमा आंदोलन के केंद्रीय व्यक्तित्व, कान के सर्वश्रेष्ठ निर्देशक और शहरी अलगाव के कवि',
+    'map.markers.taiwanGeography.title': 'पाई श्येन-युंग',
+    'map.markers.taiwanGeography.desc':
+      '《ताइपे के लोग》 के लेखक, आधुनिक साहित्य के दिग्गज और कुनक्यू ओपेरा के पुनरुत्थान के प्रमुख प्रेरक',
+    'map.markers.taiwanClimate.title': 'क्राउड लू',
+    'map.markers.taiwanClimate.desc':
+      'ताइवान के गायक-गीतकार और अभिनेता, तीन गोल्ड पुरस्कारों—गोल्डन मेलोडी, गोल्डन बेल और गोल्डन हॉर्स—के विजेता, अपने सहज जमीनी व्यक्तित्व और अनूठी गायन शैली के लिए प्रसिद्ध',
+    'map.markers.taiwanEcosystem.title': 'चुआंग चिह-युआन',
+    'map.markers.taiwanEcosystem.desc':
+      'टेबल टेनिस के दिग्गज, चार बार के ओलंपियन और अकेले कठिन अभ्यास करने वाले एकाकी नायक',
+    'map.markers.taiwanEndangeredSpecies.title': 'त्साई मिंग-लियांग',
+    'map.markers.taiwanEndangeredSpecies.desc':
+      'वेनिस गोल्डन लायन विजेता, मलेशियाई चीनी और स्लो सिनेमा सौंदर्यशास्त्र के उस्ताद',
+    'map.markers.taiwanMarineEcology.title': 'श्यू वेन-लॉन्ग',
+    'map.markers.taiwanMarineEcology.desc':
+      'ची मेई समूह के संस्थापक, उद्यमी, वायलिनवादक और कला संग्राहक की तिहरी पहचान वाले तथा ची मेई संग्रहालय के निर्माता',
+    'map.markers.taiwanBirdwatching.title': 'फांग-यी श्यू',
+    'map.markers.taiwanBirdwatching.desc':
+      'यीलान की एक लड़की से मार्था ग्राहम डांस कंपनी की प्रधान नृत्यांगना और फिर ताइवान लौटकर ला फांग डांस कंपनी की संस्थापक बनने तक——उन्होंने अपने शरीर से ताइवान की सबसे सशक्त कहानी कही',
+    'map.markers.taiwanHotSprings.title':
+      'लाई चिंग-ते: खनिक परिवार से राष्ट्रपति कार्यालय तक पहुँचे जनस्वास्थ्य चिकित्सक',
+    'map.markers.taiwanHotSprings.desc':
+      'ताइवान के 16वें राष्ट्रपति और चीन गणराज्य (ताइवान) के संवैधानिक इतिहास में उपराष्ट्रपति रहते हुए राष्ट्रपति चुनाव लड़कर सफलतापूर्वक निर्वाचित होने वाले पहले राजनेता',
+    'map.markers.taiwanIslands.title': 'कुओ ह्सिंग-चुन',
+    'map.markers.taiwanIslands.desc':
+      'ताइवान की भारोत्तोलन देवी, 2021 टोक्यो ओलंपिक की स्वर्ण पदक विजेता और 59 किलोग्राम वर्ग की तीनों स्पर्धाओं में ओलंपिक रिकॉर्डधारक',
+    'map.markers.taiwanMountains.title': 'तेंग यू-श्येन',
+    'map.markers.taiwanMountains.desc':
+      'ताइवान के लोकगीतों के जनक, जिन्होंने 《वसंत की हवा की प्रतीक्षा》《बरसाती रात का फूल》《चाँदनी रात का दुख》 जैसे क्लासिक ताइवानी-भाषी गीत रचे',
+    'map.markers.taiwanRivers.title': 'चुंग ली-हो',
+    'map.markers.taiwanRivers.desc':
+      '《मूलभूमि का मनुष्य》 के लेखक, ताइवान साहित्य के जनक और गरीबी व बीमारी के बावजूद लेखन में डटे रहने वाले साहित्यिक योद्धा',
+    'map.markers.taiwanCoastline.title': 'चेन शू-चू',
+    'map.markers.taiwanCoastline.desc':
+      'ताइतुंग की सब्ज़ी विक्रेता के साधारण परोपकारी कार्य, जिन्होंने अपने पूरे जीवन से सच्ची समृद्धि का अर्थ समझाया',
+    'map.markers.taiwanForests.title': 'चेन शुई-बियान',
+    'map.markers.taiwanForests.desc':
+      '10वें और 11वें राष्ट्रपति, 2000 में पहली बार सत्ता के दलगत हस्तांतरण के केंद्रीय व्यक्तित्व और ताइवान के लोकतंत्रीकरण की अहम हस्ती',
+    'map.markers.taiwanNaturalDisasters.title': 'मा यिंग-जिउ',
+    'map.markers.taiwanNaturalDisasters.desc':
+      '12वें और 13वें राष्ट्रपति, ताइवान जलडमरूमध्य के दोनों ओर संबंधों में जमी बर्फ तोड़ने के प्रमुख प्रेरक और ECFA के हस्ताक्षरकर्ता',
+    'map.markers.taiwanEarthquakes.title': 'हुआंग चुन-मिंग',
+    'map.markers.taiwanEarthquakes.desc':
+      '《बेटे की बड़ी गुड़िया》《समुद्र देखने के दिन》 के लेखक और यीलान के स्थानीय साहित्य के प्रतिनिधि रचनाकार',
+    'map.markers.taiwanTyphoons.title':
+      'हुआंग चेन-नान: पुस्तक-संग्रह जगत के ताकेनोउची युताका और ताइवान के इतिहास-संस्कृति का जीवंत स्रोत',
+    'map.markers.taiwanTyphoons.desc':
+      'हुआंग चेन-नान ताइवान के इतिहास-संस्कृति शोधकर्ता, पुस्तक-संग्राहक और लेखक हैं। उन्होंने PTT पर Sizumaru उपनाम से शुरुआत की और ताइवान के इतिहास तथा पुरानी पुस्तकों की संस्कृति साझा करने के लिए 「हुओशुई लाई पुस्तक-कक्ष」 पेज चलाया। 《ताइवान के इतिहास का सबसे मज़ेदार ताइवान इतिहास》 समेत कई पुस्तकों के लेखक हुआंग को पुस्तक-संग्रह जगत का ताकेनोउची युताका कहा जाता है। चियाई के लिउचियाओ में पुस्तक-प्रेमी परिवार से निकले हुआंग और उनके पिता उत्तर-दक्षिण में काम बाँटकर दस्तावेज़ जुटाते हैं तथा ताइवान के गंभीर इतिहास को रोचक और जनसुलभ बनाने के लिए समर्पित हैं।',
+    'map.markers.sunflowerMovement.title':
+      'चिड़ियाघर और प्रदर्शन में रखे जाने वाले पशुओं की नैतिकता',
+    'map.markers.sunflowerMovement.desc':
+      'लोहे के पिंजरे में बंद हाथी से Xpark की जेलीफ़िश दीवार तक——ताइवान मनुष्यों और प्रदर्शित किए जाने वाले पशुओं के संबंध को नए सिरे से परिभाषित कर रहा है',
+    'map.markers.taiwanSocialMovements.title':
+      'ताइवान के मूलनिवासी समुदायों के लिए भूमि न्याय और पारंपरिक क्षेत्र',
+    'map.markers.taiwanSocialMovements.desc':
+      'ताइवान के मूलनिवासी समुदायों के भूमि अधिकारों की ऐतिहासिक पृष्ठभूमि, कानूनी विकास, पारंपरिक क्षेत्रों के सीमांकन संबंधी विवादों और मूलनिवासी ऐतिहासिक न्याय एवं संक्रमणकालीन न्याय समिति के कार्य-परिणामों का विश्लेषण',
+    'map.markers.taiwanMarriageEquality.title':
+      'ताइवान में समलैंगिक विवाह और लैंगिक समानता',
+    'map.markers.taiwanMarriageEquality.desc':
+      'मार्शल लॉ काल के एक जेल बंदी से एशिया के पहले समलैंगिक विवाह कानून तक, एक व्यक्ति के 30 वर्षों के संघर्ष ने द्वीप पर प्रेम की परिभाषा कैसे बदल दी',
+    'map.markers.taiwanEnvironmentalJustice.title':
+      'ताइवान में पर्यावरणीय न्याय और NIMBY विवाद',
+    'map.markers.taiwanEnvironmentalJustice.desc':
+      'ताइवान में पर्यावरणीय बोझ के असमान वितरण का अध्ययन—कचरा भस्मीकरण संयंत्रों और परमाणु कचरे से पेट्रोकेमिकल उद्योग तक के NIMBY संघर्षों के माध्यम से पर्यावरणीय असमानता और सामाजिक न्याय के मुद्दों का विश्लेषण',
+    'map.markers.taiwanCommunityRiCulture.title':
+      'ताइवान के समुदाय और ली संस्कृति',
+    'map.markers.taiwanCommunityRiCulture.desc':
+      'लोकतंत्र के सबसे जमीनी अभ्यास से समुदाय निर्माण के सामाजिक नवाचार तक',
+    'map.markers.taiwanLongTermCare.title':
+      'ताइवान की दीर्घकालिक देखभाल व्यवस्था का विकास',
+    'map.markers.taiwanLongTermCare.desc':
+      'दुनिया की सबसे उन्नत दीर्घकालिक देखभाल व्यवस्थाओं में से एक, जिसके साथ सबसे विशाल अदृश्य देखभाल तंत्र भी मौजूद है',
+    'map.markers.taiwanLaborMovement.title': 'पर्यावरण संरक्षण और सतत विकास',
+    'map.markers.taiwanLaborMovement.desc':
+      'धुएँ की चिमनियों के द्वीप से नेट-ज़ीरो ताइवान तक: पर्यावरण आंदोलन के 40 वर्षों की जागृति-यात्रा',
+    'map.markers.taiwanHousingIssues.title': 'सामाजिक आवास और आवासीय न्याय',
+    'map.markers.taiwanHousingIssues.desc':
+      'ताइवान सामाजिक आवास नीति के माध्यम से आवासीय न्याय कैसे साकार कर रहा है, ताकि हर व्यक्ति को स्थिर और सुरक्षित घर मिल सके',
+    'map.markers.taiwanHealthcareSystem.title':
+      'विज्ञान एवं प्रौद्योगिकी पार्कों का विकास',
+    'map.markers.taiwanHealthcareSystem.desc':
+      'शिनचू साइंस पार्क से सदर्न ताइवान साइंस पार्क तक, ताइवान के विज्ञान पार्कों की विकास-यात्रा और तीन प्रमुख पार्कों की विशिष्ट भूमिकाओं का अध्ययन',
+    'map.markers.taiwanImmigration.title': 'सेमीकंडक्टर उद्योग',
+    'map.markers.taiwanImmigration.desc':
+      'मॉरिस चांग के ऐतिहासिक दाँव से 2 नैनोमीटर युग तक: TSMC ने ताइवान को वैश्विक प्रौद्योगिकी की जीवनरेखा कैसे बनाया',
+    'map.markers.taiwanReligiousDiversity.title':
+      'ताइवान की तटीय स्थलाकृति और समुद्री भू-दृश्य',
+    'map.markers.taiwanReligiousDiversity.desc':
+      'येह्लिउ की क्वीन्स हेड चट्टान की गर्दन हर वर्ष 0.2 सेंटीमीटर की दर से पतली हो रही है और एक दिन टूट जाएगी——यही ताइवान की तटीय स्थलाकृति की नियति और सुंदरता है',
+    'map.markers.taiwanBuddhismTaoism.title':
+      'ताइवान की चाय परंपरा और जीवन-सौंदर्य',
+    'map.markers.taiwanBuddhismTaoism.desc':
+      '1981 में विस्टेरिया टी हाउस के उद्घाटन की रात, विपक्षी कार्यकर्ताओं और साहित्यकारों ने चाय पर गोष्ठी की; यह सिर्फ़ चायघर नहीं, बल्कि विपक्षी आंदोलन का गुप्त अड्डा भी था',
+    'map.markers.taiwanFolkReligion.title': 'ताइवान में चुनाव और दलीय राजनीति',
+    'map.markers.taiwanFolkReligion.desc':
+      '1950 के स्थानीय पार्षद चुनावों से लेकर 2000 में सत्ता परिवर्तन तक, देखिए ताइवान ने मतपत्रों से लोकतांत्रिक बदलाव का चमत्कार कैसे रचा',
+    'map.markers.taiwanChristianity.title':
+      'ताइवान का शहरी विकास और शहर-गांव की खाई',
+    'map.markers.taiwanChristianity.desc':
+      '70 वर्षों में कृषि प्रधान द्वीप से शहरी द्वीप तक, छह महानगरों में 70 प्रतिशत आबादी के केंद्रीकरण के उजले और स्याह पहलू: समृद्ध ताइचुंग vs उजड़ता युनलिन',
+    'map.markers.taiwanIslamJudaism.title':
+      'शहरों की विशेषताएं और क्षेत्रीय संस्कृति',
+    'map.markers.taiwanIslamJudaism.desc':
+      'न्यू ताइपे के 404 लाख लोगों से लेकर ताइनान के 185 लाख लोगों तक, देखिए औद्योगिक बदलाव के बीच छह महानगरों ने अपना अलग शहरी चरित्र कैसे गढ़ा',
+    'map.markers.kaohsiungIncident.title': 'लोकतंत्रीकरण',
+    'map.markers.kaohsiungIncident.desc':
+      '1979年12月10日 को काऊशुंग की सड़कों पर पुलिस और नागरिकों के बीच हुआ टकराव अंततः ताइवान के लोकतांत्रिक बदलाव का कारण बना——लेकिन इसकी कीमत कितने लोगों की जवानी और आज़ादी थी？',
+    'map.markers.wangLeeOlympicGold.title':
+      'वांग ची-लिन और ली यांग（लिन-यांग जोड़ी）',
+    'map.markers.wangLeeOlympicGold.desc':
+      'मिडिल स्कूल के सहपाठियों से ओलंपिक स्वर्ण विजेता तक：「लिन-यांग जोड़ी」ने 34 मिनट में चीन को सीधे 2 गेमों में हराकर ताइवान के बैडमिंटन इतिहास का पहला ओलंपिक स्वर्ण पदक जीता',
+  },
   'zh-TW': {
     // Meta
     'map.meta.title': '台灣地圖 Map',

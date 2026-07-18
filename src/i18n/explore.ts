@@ -205,6 +205,266 @@ export const exploreUI = {
     'explore.cta.contribute': '기사 기여하기',
     'explore.cta.github': 'GitHub 에서 보기',
   },
+  vi: {
+    'explore.meta.title':
+      'Khám phá Taiwan.md — Duyệt kho tri thức mở về Đài Loan',
+    'explore.meta.description':
+      'Duyệt hơn 685 bài viết tuyển chọn về Đài Loan: lịch sử, địa lý, văn hóa, ẩm thực, nghệ thuật, âm nhạc, công nghệ, thiên nhiên, nhân vật, xã hội, kinh tế, đời sống. Tìm kiếm, khám phá, tìm hiểu.',
+
+    'explore.hero.eyebrow': 'Kho tri thức',
+    'explore.hero.title': 'Khám phá Taiwan.md',
+    'explore.hero.subtitle':
+      'Những câu chuyện chuyên sâu được tuyển chọn về hòn đảo — tìm kiếm, khám phá, duyệt theo danh mục.',
+
+    'explore.search.heading': 'Tìm kiếm cơ sở dữ liệu',
+    'explore.search.placeholder':
+      'Tìm kiếm mọi điều về Đài Loan (con người, địa danh, văn hóa, sự kiện)',
+    'explore.search.button': 'Tìm kiếm',
+    'explore.search.random': 'Khám phá ngẫu nhiên',
+    'explore.search.randomSubtitle':
+      'Gieo xúc xắc — gặp một câu chuyện bạn chưa từng nghĩ tới',
+    'explore.hotSearches.label': 'Tìm kiếm phổ biến',
+    'explore.hotSearches.term1': 'Chất bán dẫn',
+    'explore.hotSearches.term2': 'Chợ đêm',
+    'explore.hotSearches.term3': 'Người bản địa',
+    'explore.hotSearches.term4': 'Sự kiện 28 tháng 2',
+    'explore.hotSearches.term5': 'TSMC',
+    'explore.hotSearches.term6': 'Trà sữa trân châu',
+
+    'explore.stats.articles': 'bài viết',
+    'explore.stats.contributors': 'người đóng góp',
+    'explore.stats.languages': 'ngôn ngữ',
+    'explore.stats.last30d': 'Cập nhật trong 30 ngày qua',
+
+    'explore.categories.heading': 'Duyệt theo danh mục',
+    'explore.categories.subtitle':
+      'Mười hai lĩnh vực, mỗi lĩnh vực là một lát cắt của hòn đảo này.',
+
+    'explore.featured.heading': 'Tuyển chọn chuyên sâu',
+    'explore.featured.subtitle':
+      'Bài viết hạng A — chú thích đầy đủ, trích dẫn chéo giữa các bài, tiến trình nghiên cứu có thể truy nguyên.',
+    'explore.featured.viewAll': 'Xem toàn bộ tuyển chọn →',
+    'explore.featured.citations': 'Trích dẫn',
+    'explore.featured.minRead': 'phút',
+    'explore.popular.heading': 'Bài viết phổ biến',
+    'explore.popular.subtitle':
+      'Những bài được đọc nhiều nhất trong 7 ngày qua.',
+    'explore.popular.views': 'lượt xem',
+
+    'explore.more.heading': 'Các cách khám phá khác',
+    'explore.more.graph.title': 'Đồ thị tri thức',
+    'explore.more.graph.desc':
+      'Xem cách các bài viết liên kết với nhau bằng đồ thị hướng lực.',
+    'explore.more.graph.cta': 'Mở đồ thị →',
+    'explore.more.map.title': 'Bản đồ địa lý',
+    'explore.more.map.desc': 'Tìm bài viết theo vị trí trên đảo.',
+    'explore.more.map.cta': 'Mở bản đồ →',
+    'explore.more.terminology.title': 'Đối chiếu thuật ngữ',
+    'explore.more.terminology.desc':
+      'Bảng tra cứu nhanh các thuật ngữ dùng chung trong kho tri thức.',
+    'explore.more.terminology.cta': 'Mở bảng đối chiếu →',
+
+    'explore.cta.heading': 'Không tìm thấy nội dung mong muốn?',
+    'explore.cta.body':
+      'Taiwan.md là dự án mã nguồn mở — bất kỳ ai cũng có thể đóng góp một bài viết, sửa một dữ kiện hoặc dịch một trang.',
+    'explore.cta.contribute': 'Đóng góp một bài',
+    'explore.cta.github': 'Duyệt trên GitHub',
+  },
+  id: {
+    'explore.meta.title':
+      'Jelajahi Taiwan.md — Telusuri basis pengetahuan terbuka Taiwan',
+    'explore.meta.description':
+      'Telusuri 685+ artikel pilihan tentang Taiwan: sejarah, geografi, budaya, kuliner, seni, musik, teknologi, alam, tokoh, masyarakat, ekonomi, dan kehidupan. Cari, temukan, jelajahi.',
+
+    'explore.hero.eyebrow': 'Basis Pengetahuan',
+    'explore.hero.title': 'Jelajahi Taiwan.md',
+    'explore.hero.subtitle':
+      'Narasi mendalam pilihan tentang pulau ini — cari, temukan, dan telusuri berdasarkan kategori.',
+
+    'explore.search.heading': 'Cari di Basis Data',
+    'explore.search.placeholder':
+      'Cari segala hal tentang Taiwan (tokoh, tempat, budaya, peristiwa)',
+    'explore.search.button': 'Cari',
+    'explore.search.random': 'Jelajahi Secara Acak',
+    'explore.search.randomSubtitle':
+      'Lempar dadu — temukan kisah yang tak pernah kamu bayangkan',
+    'explore.hotSearches.label': 'Pencarian Populer',
+    'explore.hotSearches.term1': 'Semikonduktor',
+    'explore.hotSearches.term2': 'Pasar malam',
+    'explore.hotSearches.term3': 'Masyarakat adat',
+    'explore.hotSearches.term4': 'Insiden 28 Februari',
+    'explore.hotSearches.term5': 'TSMC',
+    'explore.hotSearches.term6': 'Teh susu mutiara',
+
+    'explore.stats.articles': 'artikel',
+    'explore.stats.contributors': 'kontributor',
+    'explore.stats.languages': 'bahasa',
+    'explore.stats.last30d': 'diperbarui dalam 30 hari terakhir',
+
+    'explore.categories.heading': 'Telusuri Berdasarkan Kategori',
+    'explore.categories.subtitle':
+      'Dua belas bidang, masing-masing menampilkan satu sisi pulau ini.',
+
+    'explore.featured.heading': 'Pilihan Mendalam',
+    'explore.featured.subtitle':
+      'Artikel kelas A — catatan kaki lengkap, rujukan antarartikel, dan jejak penelitian yang dapat ditelusuri.',
+    'explore.featured.viewAll': 'Lihat semua pilihan →',
+    'explore.featured.citations': 'Kutipan',
+    'explore.featured.minRead': 'menit',
+    'explore.popular.heading': 'Artikel Populer',
+    'explore.popular.subtitle':
+      'Artikel yang paling banyak dibaca dalam 7 hari terakhir.',
+    'explore.popular.views': 'tayangan',
+
+    'explore.more.heading': 'Cara Lain untuk Menjelajah',
+    'explore.more.graph.title': 'Graf Pengetahuan',
+    'explore.more.graph.desc':
+      'Lihat keterkaitan antarartikel melalui graf berbasis gaya.',
+    'explore.more.graph.cta': 'Buka graf →',
+    'explore.more.map.title': 'Peta Geografis',
+    'explore.more.map.desc':
+      'Temukan artikel berdasarkan lokasinya di pulau ini.',
+    'explore.more.map.cta': 'Buka peta →',
+    'explore.more.terminology.title': 'Padanan Istilah',
+    'explore.more.terminology.desc':
+      'Panduan ringkas istilah yang digunakan bersama dalam basis pengetahuan.',
+    'explore.more.terminology.cta': 'Buka tabel padanan →',
+
+    'explore.cta.heading': 'Tidak menemukan yang ingin dibaca?',
+    'explore.cta.body':
+      'Taiwan.md bersifat sumber terbuka — siapa pun dapat menyumbangkan artikel, memperbaiki fakta, atau menerjemahkan halaman.',
+    'explore.cta.contribute': 'Sumbangkan artikel',
+    'explore.cta.github': 'Telusuri di GitHub',
+  },
+  pt: {
+    'explore.meta.title':
+      'Explore Taiwan.md — Navegue pela base de conhecimento aberta de Taiwan',
+    'explore.meta.description':
+      'Navegue por mais de 685 artigos selecionados sobre Taiwan: história, geografia, cultura, gastronomia, arte, música, tecnologia, natureza, personalidades, sociedade, economia e cotidiano. Pesquise, descubra, explore.',
+
+    'explore.hero.eyebrow': 'Base de conhecimento',
+    'explore.hero.title': 'Explore Taiwan.md',
+    'explore.hero.subtitle':
+      'Narrativas aprofundadas e selecionadas sobre a ilha — pesquise, descubra e navegue por categoria.',
+
+    'explore.search.heading': 'Pesquise na base de dados',
+    'explore.search.placeholder':
+      'Pesquise tudo sobre Taiwan (pessoas, lugares, cultura, eventos)',
+    'explore.search.button': 'Pesquisar',
+    'explore.search.random': 'Explorar aleatoriamente',
+    'explore.search.randomSubtitle':
+      'Jogue os dados — encontre uma história que você não esperava',
+    'explore.hotSearches.label': 'Pesquisas populares',
+    'explore.hotSearches.term1': 'Semicondutores',
+    'explore.hotSearches.term2': 'Mercados noturnos',
+    'explore.hotSearches.term3': 'Povos indígenas',
+    'explore.hotSearches.term4': 'Incidente de 28 de fevereiro',
+    'explore.hotSearches.term5': 'TSMC',
+    'explore.hotSearches.term6': 'Chá com pérolas de tapioca',
+
+    'explore.stats.articles': 'artigos',
+    'explore.stats.contributors': 'colaboradores',
+    'explore.stats.languages': 'idiomas',
+    'explore.stats.last30d': 'atualizados nos últimos 30 dias',
+
+    'explore.categories.heading': 'Navegue por categoria',
+    'explore.categories.subtitle':
+      'Doze áreas, cada uma revelando uma faceta desta ilha.',
+
+    'explore.featured.heading': 'Seleção aprofundada',
+    'explore.featured.subtitle':
+      'Artigos de nível A — notas de rodapé completas, referências cruzadas e um percurso de pesquisa rastreável.',
+    'explore.featured.viewAll': 'Ver toda a seleção →',
+    'explore.featured.citations': 'citações',
+    'explore.featured.minRead': 'minutos',
+    'explore.popular.heading': 'Artigos populares',
+    'explore.popular.subtitle': 'Os artigos mais lidos nos últimos 7 dias.',
+    'explore.popular.views': 'visualizações',
+
+    'explore.more.heading': 'Outras formas de explorar',
+    'explore.more.graph.title': 'Grafo de conhecimento',
+    'explore.more.graph.desc':
+      'Veja em um grafo direcionado por forças como cada artigo se conecta aos demais.',
+    'explore.more.graph.cta': 'Abrir o grafo →',
+    'explore.more.map.title': 'Mapa geográfico',
+    'explore.more.map.desc':
+      'Encontre artigos de acordo com sua localização na ilha.',
+    'explore.more.map.cta': 'Abrir o mapa →',
+    'explore.more.terminology.title': 'Glossário comparativo',
+    'explore.more.terminology.desc':
+      'Uma referência rápida dos termos usados em toda a base de conhecimento.',
+    'explore.more.terminology.cta': 'Abrir o glossário →',
+
+    'explore.cta.heading': 'Não encontrou o que procurava?',
+    'explore.cta.body':
+      'Taiwan.md é de código aberto — qualquer pessoa pode contribuir com um artigo, corrigir um fato ou traduzir uma página.',
+    'explore.cta.contribute': 'Contribuir com um artigo',
+    'explore.cta.github': 'Navegar no GitHub',
+  },
+  hi: {
+    'explore.meta.title':
+      'Taiwan.md खोजें — ताइवान के खुले ज्ञानकोश को ब्राउज़ करें',
+    'explore.meta.description':
+      'ताइवान पर 685+ क्यूरेटेड लेख ब्राउज़ करें: इतिहास, भूगोल, संस्कृति, खान-पान, कला, संगीत, प्रौद्योगिकी, प्रकृति, व्यक्तित्व, समाज, अर्थव्यवस्था और जीवन। खोजें, जानें, अन्वेषण करें।',
+
+    'explore.hero.eyebrow': 'ज्ञानकोश',
+    'explore.hero.title': 'Taiwan.md खोजें',
+    'explore.hero.subtitle':
+      'द्वीप की गहन क्यूरेटेड कथाएँ — खोजें, जानें और श्रेणी के अनुसार ब्राउज़ करें।',
+
+    'explore.search.heading': 'डेटाबेस खोजें',
+    'explore.search.placeholder':
+      'ताइवान से जुड़ी हर चीज़ खोजें (लोग, स्थान, संस्कृति, घटनाएँ)',
+    'explore.search.button': 'खोजें',
+    'explore.search.random': 'अचानक कुछ खोजें',
+    'explore.search.randomSubtitle':
+      'पासा फेंकें — किसी अनपेक्षित कहानी से मिलें',
+    'explore.hotSearches.label': 'लोकप्रिय खोजें',
+    'explore.hotSearches.term1': 'सेमीकंडक्टर',
+    'explore.hotSearches.term2': 'रात्रि बाज़ार',
+    'explore.hotSearches.term3': 'मूल निवासी',
+    'explore.hotSearches.term4': '二二八',
+    'explore.hotSearches.term5': 'TSMC',
+    'explore.hotSearches.term6': 'बबल टी',
+
+    'explore.stats.articles': 'लेख',
+    'explore.stats.contributors': 'योगदानकर्ता',
+    'explore.stats.languages': 'भाषाएँ',
+    'explore.stats.last30d': 'पिछले 30 दिनों में अपडेट',
+
+    'explore.categories.heading': 'श्रेणी के अनुसार ब्राउज़ करें',
+    'explore.categories.subtitle':
+      'बारह क्षेत्र, जिनमें से हर एक इस द्वीप का एक अलग पहलू दिखाता है।',
+
+    'explore.featured.heading': 'गहन चयन',
+    'explore.featured.subtitle':
+      'श्रेणी A के लेख — संपूर्ण पाद-टिप्पणियाँ, लेखों के बीच संदर्भ और सत्यापन योग्य शोध-क्रम।',
+    'explore.featured.viewAll': 'पूरा चयन देखें →',
+    'explore.featured.citations': 'संदर्भ',
+    'explore.featured.minRead': 'मिनट',
+    'explore.popular.heading': 'लोकप्रिय लेख',
+    'explore.popular.subtitle': 'पिछले 7 दिनों में सबसे अधिक पढ़े गए लेख।',
+    'explore.popular.views': 'व्यू',
+
+    'explore.more.heading': 'खोजने के अन्य तरीके',
+    'explore.more.graph.title': 'ज्ञान ग्राफ़',
+    'explore.more.graph.desc':
+      'फ़ोर्स-डायरेक्टेड ग्राफ़ में देखें कि हर लेख दूसरे लेखों से कैसे जुड़ा है।',
+    'explore.more.graph.cta': 'ग्राफ़ खोलें →',
+    'explore.more.map.title': 'भौगोलिक मानचित्र',
+    'explore.more.map.desc': 'द्वीप पर लेखों के स्थान के अनुसार उन्हें खोजें।',
+    'explore.more.map.cta': 'मानचित्र खोलें →',
+    'explore.more.terminology.title': 'शब्दावली मिलान',
+    'explore.more.terminology.desc':
+      'ज्ञानकोश में प्रयुक्त साझा शब्दों की त्वरित संदर्भ-सूची।',
+    'explore.more.terminology.cta': 'मिलान-सूची खोलें →',
+
+    'explore.cta.heading': 'मनचाही सामग्री नहीं मिली?',
+    'explore.cta.body':
+      'Taiwan.md ओपन सोर्स है — कोई भी लेख लिख सकता है, किसी तथ्य को सुधार सकता है या किसी पृष्ठ का अनुवाद कर सकता है।',
+    'explore.cta.contribute': 'लेख का योगदान करें',
+    'explore.cta.github': 'GitHub पर ब्राउज़ करें',
+  },
   'zh-TW': {
     'explore.meta.title': '探索 Taiwan.md — 瀏覽開放的台灣知識庫',
     'explore.meta.description':

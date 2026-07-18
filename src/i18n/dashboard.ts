@@ -300,6 +300,438 @@ export const dashboardUI = {
     'dashboard.growth.total': '누적 문서',
     'dashboard.growth.daily': '일일 신규',
   },
+  vi: {
+    // Meta
+    'dashboard.meta.title':
+      'Bảng điều khiển — Giám sát sinh thể số theo thời gian thực',
+    'dashboard.meta.description':
+      'Giám sát sức khỏe theo thời gian thực của sinh thể số Taiwan.md — tổng quan bài viết, sức khỏe cơ quan, độ phủ bản dịch, chỉ số tăng trưởng',
+
+    // Hero
+    'dashboard.hero.title': 'Giám sát sinh thể số theo thời gian thực',
+    'dashboard.hero.subtitle': 'Phòng giải phẫu công khai của Taiwan.md',
+    'dashboard.hero.description':
+      'Mọi cơ quan, mọi tế bào, mọi nhịp tim — đều hiển hiện minh bạch.',
+
+    // Vital Signs
+    'dashboard.vitals.title': 'Dấu hiệu sinh tồn',
+    'dashboard.vitals.heartbeat': 'Nhịp tim',
+    'dashboard.vitals.heartbeat.desc': 'Bài viết mới/cập nhật trong 7 ngày qua',
+    'dashboard.vitals.cells': 'Tổng số tế bào',
+    'dashboard.vitals.cells.desc': 'Bài viết tiếng Trung (SSOT)',
+    'dashboard.vitals.immunity': 'Khả năng miễn dịch',
+    'dashboard.vitals.immunity.desc': 'Tỷ lệ hoàn tất duyệt thủ công',
+    'dashboard.vitals.dna': 'Độ đa dạng DNA',
+    'dashboard.vitals.dna.desc': 'Độ phủ ngôn ngữ',
+    'dashboard.vitals.revision': 'Chiều sâu hiệu đính',
+    'dashboard.vitals.revision.desc': 'Số lần hiệu đính trung bình mỗi bài',
+    'dashboard.vitals.featured': 'Nổi bật',
+    'dashboard.vitals.featured.desc': 'Bài viết tiêu điểm',
+
+    // Article Registry
+    'dashboard.registry.title': 'Bảng tổng quan bài viết',
+    'dashboard.registry.subtitle': 'Danh sách đầy đủ mọi tế bào trong sinh thể',
+    'dashboard.registry.search': 'Tìm kiếm bài viết...',
+    'dashboard.registry.filter.category': 'Chuyên mục',
+    'dashboard.registry.filter.all': 'Tất cả',
+    'dashboard.registry.filter.reviewed': 'Duyệt thủ công',
+    'dashboard.registry.filter.reviewed.yes': 'Đã duyệt',
+    'dashboard.registry.filter.reviewed.no': 'Chưa duyệt',
+    'dashboard.registry.filter.featured': 'Nổi bật',
+    'dashboard.registry.filter.translation': 'Bản dịch',
+    'dashboard.registry.filter.translation.has-en': 'Có tiếng Anh',
+    'dashboard.registry.filter.translation.missing-en': 'Thiếu tiếng Anh',
+    'dashboard.registry.col.title': 'Tiêu đề',
+    'dashboard.registry.col.category': 'Chuyên mục',
+    'dashboard.registry.col.date': 'Ngày',
+    'dashboard.registry.col.verified': 'Xác minh',
+    'dashboard.registry.col.reviewed': 'Duyệt',
+    'dashboard.registry.col.words': 'Số từ',
+    'dashboard.registry.col.tags': 'Thẻ',
+    'dashboard.registry.col.translations': 'Ngôn ngữ',
+    'dashboard.registry.col.revisions': 'Hiệu đính',
+    'dashboard.registry.showing': 'Hiển thị',
+    'dashboard.registry.of': '/',
+    'dashboard.registry.articles': 'bài viết',
+
+    // Organism Anatomy
+    'dashboard.organism.title': 'Giải phẫu cơ quan',
+    'dashboard.organism.subtitle': 'Tình trạng sức khỏe của từng hệ cơ quan',
+    'dashboard.organism.score': 'Điểm sức khỏe',
+    'dashboard.organism.trend.up': 'Đang tăng',
+    'dashboard.organism.trend.down': 'Đang giảm',
+    'dashboard.organism.trend.stable': 'Ổn định',
+
+    // Translation Coverage
+    'dashboard.translation.title': 'Độ phủ bản dịch',
+    'dashboard.translation.subtitle':
+      'Số tế bào đã được sao chép sang các ngôn ngữ khác nhau',
+    'dashboard.translation.ssot': 'Nguồn dữ liệu chuẩn duy nhất',
+    'dashboard.translation.full': 'Phủ đầy đủ',
+    'dashboard.translation.growing': 'Đang tăng trưởng',
+    'dashboard.translation.seedling': 'Giai đoạn nảy mầm',
+    'dashboard.translation.legend.aria': 'Chú giải trạng thái bản dịch',
+    'dashboard.translation.legend.fresh':
+      'Mới nhất — đồng bộ với bản gốc tiếng Trung',
+    'dashboard.translation.legend.stale':
+      'Bản cũ — bản gốc tiếng Trung đã cập nhật, bản dịch chưa theo kịp',
+    'dashboard.translation.legend.missing': 'Chưa dịch — chưa có bản dịch',
+    'dashboard.translation.legend.format':
+      'Đã dịch / Chưa dịch·Bản cũ (theo chuyên mục)',
+
+    // Immune System
+    'dashboard.immune.title': 'Hệ miễn dịch',
+    'dashboard.immune.subtitle':
+      'Tình trạng phòng vệ chất lượng và các nhiệm vụ chờ xử lý',
+    'dashboard.immune.reviewed': 'Duyệt thủ công',
+    'dashboard.immune.featured': 'Bài viết nổi bật',
+    'dashboard.immune.verified': 'Xác minh lần cuối',
+    'dashboard.immune.defense.title': 'Tuyến phòng vệ',
+    'dashboard.immune.defense.line1': 'quality-scan.sh',
+    'dashboard.immune.defense.line1.desc': 'Quét tự động, chặn khi >4 điểm',
+    'dashboard.immune.defense.line2': 'PR Review',
+    'dashboard.immune.defense.line2.desc': 'Tiêu chuẩn EDITORIAL v4',
+    'dashboard.immune.defense.line3': 'Viết lại để nâng cao chất lượng',
+    'dashboard.immune.defense.line3.desc': 'Kích hoạt viết lại thủ công',
+    'dashboard.immune.defense.line4': 'Cập nhật EDITORIAL',
+    'dashboard.immune.defense.line4.desc': 'Tiến hóa gen chất lượng',
+    'dashboard.immune.queue.title': 'Danh sách chờ miễn dịch',
+    'dashboard.immune.queue.desc':
+      'Các bài viết cần duyệt thủ công nhất (ưu tiên bài cũ nhất)',
+
+    // Growth
+    'dashboard.growth.title': 'Dòng thời gian tăng trưởng',
+    'dashboard.growth.subtitle': 'Sự tiến hóa của sinh thể theo thời gian',
+    'dashboard.growth.total': 'Bài viết tích lũy',
+    'dashboard.growth.daily': 'Bài mới mỗi ngày',
+  },
+  id: {
+    // Meta
+    'dashboard.meta.title':
+      'Dasbor — Pemantauan Organisme Digital secara Real-Time',
+    'dashboard.meta.description':
+      'Pemantauan kesehatan organisme digital Taiwan.md secara real-time — ikhtisar artikel, kesehatan organ, cakupan terjemahan, indikator pertumbuhan',
+
+    // Hero
+    'dashboard.hero.title': 'Pemantauan Organisme Digital secara Real-Time',
+    'dashboard.hero.subtitle': 'Ruang anatomi publik Taiwan.md',
+    'dashboard.hero.description':
+      'Setiap organ, setiap sel, setiap detak jantung — terlihat secara transparan.',
+
+    // Vital Signs
+    'dashboard.vitals.title': 'Tanda Vital',
+    'dashboard.vitals.heartbeat': 'Detak jantung',
+    'dashboard.vitals.heartbeat.desc':
+      'Artikel yang ditambahkan/diperbarui dalam 7 hari terakhir',
+    'dashboard.vitals.cells': 'Jumlah sel',
+    'dashboard.vitals.cells.desc': 'Artikel berbahasa Tionghoa (SSOT)',
+    'dashboard.vitals.immunity': 'Imunitas',
+    'dashboard.vitals.immunity.desc':
+      'Persentase peninjauan manual yang selesai',
+    'dashboard.vitals.dna': 'Keragaman DNA',
+    'dashboard.vitals.dna.desc': 'Cakupan bahasa',
+    'dashboard.vitals.revision': 'Kedalaman revisi',
+    'dashboard.vitals.revision.desc': 'Rata-rata jumlah revisi per artikel',
+    'dashboard.vitals.featured': 'Pilihan',
+    'dashboard.vitals.featured.desc': 'Artikel sorotan',
+
+    // Article Registry
+    'dashboard.registry.title': 'Ikhtisar Artikel',
+    'dashboard.registry.subtitle': 'Daftar lengkap setiap sel dalam organisme',
+    'dashboard.registry.search': 'Cari artikel...',
+    'dashboard.registry.filter.category': 'Kategori',
+    'dashboard.registry.filter.all': 'Semua',
+    'dashboard.registry.filter.reviewed': 'Peninjauan manual',
+    'dashboard.registry.filter.reviewed.yes': 'Sudah ditinjau',
+    'dashboard.registry.filter.reviewed.no': 'Belum ditinjau',
+    'dashboard.registry.filter.featured': 'Pilihan',
+    'dashboard.registry.filter.translation': 'Terjemahan',
+    'dashboard.registry.filter.translation.has-en':
+      'Tersedia dalam bahasa Inggris',
+    'dashboard.registry.filter.translation.missing-en':
+      'Belum tersedia dalam bahasa Inggris',
+    'dashboard.registry.col.title': 'Judul',
+    'dashboard.registry.col.category': 'Kategori',
+    'dashboard.registry.col.date': 'Tanggal',
+    'dashboard.registry.col.verified': 'Verifikasi',
+    'dashboard.registry.col.reviewed': 'Peninjauan',
+    'dashboard.registry.col.words': 'Jumlah kata',
+    'dashboard.registry.col.tags': 'Label',
+    'dashboard.registry.col.translations': 'Bahasa',
+    'dashboard.registry.col.revisions': 'Revisi',
+    'dashboard.registry.showing': 'Menampilkan',
+    'dashboard.registry.of': '/',
+    'dashboard.registry.articles': 'artikel',
+
+    // Organism Anatomy
+    'dashboard.organism.title': 'Anatomi Organ',
+    'dashboard.organism.subtitle': 'Status kesehatan setiap sistem organ',
+    'dashboard.organism.score': 'Skor kesehatan',
+    'dashboard.organism.trend.up': 'Meningkat',
+    'dashboard.organism.trend.down': 'Menurun',
+    'dashboard.organism.trend.stable': 'Stabil',
+
+    // Translation Coverage
+    'dashboard.translation.title': 'Cakupan Terjemahan',
+    'dashboard.translation.subtitle':
+      'Jumlah sel yang telah direplikasi dalam berbagai bahasa',
+    'dashboard.translation.ssot': 'Sumber fakta tunggal',
+    'dashboard.translation.full': 'Cakupan penuh',
+    'dashboard.translation.growing': 'Bertumbuh',
+    'dashboard.translation.seedling': 'Tahap awal',
+    'dashboard.translation.legend.aria': 'Keterangan status terjemahan',
+    'dashboard.translation.legend.fresh':
+      'Terbaru — sinkron dengan naskah asli berbahasa Tionghoa',
+    'dashboard.translation.legend.stale':
+      'Versi lama — naskah asli berbahasa Tionghoa telah diperbarui, tetapi terjemahan belum menyusul',
+    'dashboard.translation.legend.missing':
+      'Belum diterjemahkan — terjemahan belum tersedia',
+    'dashboard.translation.legend.format':
+      'Sudah diterjemahkan / belum diterjemahkan·versi lama (menurut kategori)',
+
+    // Immune System
+    'dashboard.immune.title': 'Sistem Imun',
+    'dashboard.immune.subtitle':
+      'Status pertahanan mutu dan tugas yang menunggu penanganan',
+    'dashboard.immune.reviewed': 'Peninjauan manual',
+    'dashboard.immune.featured': 'Artikel pilihan',
+    'dashboard.immune.verified': 'Verifikasi terakhir',
+    'dashboard.immune.defense.title': 'Garis Pertahanan',
+    'dashboard.immune.defense.line1': 'quality-scan.sh',
+    'dashboard.immune.defense.line1.desc':
+      'Pemindaian otomatis, memblokir skor >4',
+    'dashboard.immune.defense.line2': 'Peninjauan PR',
+    'dashboard.immune.defense.line2.desc': 'Standar EDITORIAL v4',
+    'dashboard.immune.defense.line3': 'Penulisan ulang bermutu',
+    'dashboard.immune.defense.line3.desc':
+      'Memicu penulisan ulang secara manual',
+    'dashboard.immune.defense.line4': 'Pembaruan EDITORIAL',
+    'dashboard.immune.defense.line4.desc': 'Evolusi gen mutu',
+    'dashboard.immune.queue.title': 'Daftar Tunggu Imunisasi',
+    'dashboard.immune.queue.desc':
+      'Artikel yang paling membutuhkan peninjauan manual (yang terlama diprioritaskan)',
+
+    // Growth
+    'dashboard.growth.title': 'Linimasa Pertumbuhan',
+    'dashboard.growth.subtitle': 'Evolusi organisme dari waktu ke waktu',
+    'dashboard.growth.total': 'Artikel kumulatif',
+    'dashboard.growth.daily': 'Tambahan harian',
+  },
+  pt: {
+    // Meta
+    'dashboard.meta.title':
+      'Painel — Monitoramento em tempo real do organismo digital',
+    'dashboard.meta.description':
+      'Monitoramento em tempo real da saúde do organismo digital Taiwan.md — visão geral dos artigos, saúde dos órgãos, cobertura de traduções e indicadores de crescimento',
+
+    // Hero
+    'dashboard.hero.title': 'Monitoramento em tempo real do organismo digital',
+    'dashboard.hero.subtitle': 'A sala de anatomia pública do Taiwan.md',
+    'dashboard.hero.description':
+      'Cada órgão, cada célula, cada batimento — tudo visível com transparência.',
+
+    // Vital Signs
+    'dashboard.vitals.title': 'Sinais vitais',
+    'dashboard.vitals.heartbeat': 'Batimento',
+    'dashboard.vitals.heartbeat.desc':
+      'Artigos adicionados/atualizados nos últimos 7 dias',
+    'dashboard.vitals.cells': 'Total de células',
+    'dashboard.vitals.cells.desc': 'Artigos em chinês (SSOT)',
+    'dashboard.vitals.immunity': 'Imunidade',
+    'dashboard.vitals.immunity.desc':
+      'Proporção de revisões humanas concluídas',
+    'dashboard.vitals.dna': 'Diversidade do DNA',
+    'dashboard.vitals.dna.desc': 'Cobertura de idiomas',
+    'dashboard.vitals.revision': 'Profundidade das revisões',
+    'dashboard.vitals.revision.desc': 'Média de revisões por artigo',
+    'dashboard.vitals.featured': 'Destaques',
+    'dashboard.vitals.featured.desc': 'Artigos em evidência',
+
+    // Article Registry
+    'dashboard.registry.title': 'Visão geral dos artigos',
+    'dashboard.registry.subtitle': 'Lista completa de cada célula do organismo',
+    'dashboard.registry.search': 'Pesquisar artigos...',
+    'dashboard.registry.filter.category': 'Categoria',
+    'dashboard.registry.filter.all': 'Todos',
+    'dashboard.registry.filter.reviewed': 'Revisão humana',
+    'dashboard.registry.filter.reviewed.yes': 'Revisado',
+    'dashboard.registry.filter.reviewed.no': 'Não revisado',
+    'dashboard.registry.filter.featured': 'Destaques',
+    'dashboard.registry.filter.translation': 'Tradução',
+    'dashboard.registry.filter.translation.has-en': 'Com tradução em inglês',
+    'dashboard.registry.filter.translation.missing-en':
+      'Sem tradução em inglês',
+    'dashboard.registry.col.title': 'Título',
+    'dashboard.registry.col.category': 'Categoria',
+    'dashboard.registry.col.date': 'Data',
+    'dashboard.registry.col.verified': 'Verificação',
+    'dashboard.registry.col.reviewed': 'Revisão',
+    'dashboard.registry.col.words': 'Palavras',
+    'dashboard.registry.col.tags': 'Tags',
+    'dashboard.registry.col.translations': 'Idiomas',
+    'dashboard.registry.col.revisions': 'Revisões',
+    'dashboard.registry.showing': 'Exibindo',
+    'dashboard.registry.of': '/',
+    'dashboard.registry.articles': 'artigos',
+
+    // Organism Anatomy
+    'dashboard.organism.title': 'Anatomia dos órgãos',
+    'dashboard.organism.subtitle': 'Estado de saúde de cada sistema de órgãos',
+    'dashboard.organism.score': 'Pontuação de saúde',
+    'dashboard.organism.trend.up': 'Em alta',
+    'dashboard.organism.trend.down': 'Em queda',
+    'dashboard.organism.trend.stable': 'Estável',
+
+    // Translation Coverage
+    'dashboard.translation.title': 'Cobertura de traduções',
+    'dashboard.translation.subtitle':
+      'Quantas células já foram replicadas em diferentes idiomas',
+    'dashboard.translation.ssot': 'Fonte única da verdade',
+    'dashboard.translation.full': 'Cobertura completa',
+    'dashboard.translation.growing': 'Em crescimento',
+    'dashboard.translation.seedling': 'Em fase inicial',
+    'dashboard.translation.legend.aria': 'Legenda do status das traduções',
+    'dashboard.translation.legend.fresh':
+      'Atualizada — sincronizada com o original em chinês',
+    'dashboard.translation.legend.stale':
+      'Desatualizada — o original em chinês foi atualizado, mas a tradução não',
+    'dashboard.translation.legend.missing':
+      'Não traduzida — tradução ainda não disponível',
+    'dashboard.translation.legend.format':
+      'Traduzidas / não traduzidas·desatualizadas (por categoria)',
+
+    // Immune System
+    'dashboard.immune.title': 'Sistema imunológico',
+    'dashboard.immune.subtitle':
+      'Estado das defesas de qualidade e tarefas pendentes',
+    'dashboard.immune.reviewed': 'Revisão humana',
+    'dashboard.immune.featured': 'Artigos em destaque',
+    'dashboard.immune.verified': 'Última verificação',
+    'dashboard.immune.defense.title': 'Linhas de defesa',
+    'dashboard.immune.defense.line1': 'quality-scan.sh',
+    'dashboard.immune.defense.line1.desc':
+      'Verificação automática, bloqueio acima de 4 pontos',
+    'dashboard.immune.defense.line2': 'Revisão de PR',
+    'dashboard.immune.defense.line2.desc': 'Padrão EDITORIAL v4',
+    'dashboard.immune.defense.line3': 'Reescrita de qualidade',
+    'dashboard.immune.defense.line3.desc': 'Reescrita acionada manualmente',
+    'dashboard.immune.defense.line4': 'Atualização do EDITORIAL',
+    'dashboard.immune.defense.line4.desc': 'Evolução dos genes de qualidade',
+    'dashboard.immune.queue.title': 'Fila de imunização',
+    'dashboard.immune.queue.desc':
+      'Artigos que mais precisam de revisão humana (mais antigos primeiro)',
+
+    // Growth
+    'dashboard.growth.title': 'Linha do tempo do crescimento',
+    'dashboard.growth.subtitle': 'Evolução do organismo ao longo do tempo',
+    'dashboard.growth.total': 'Total acumulado de artigos',
+    'dashboard.growth.daily': 'Novos por dia',
+  },
+  hi: {
+    // Meta
+    'dashboard.meta.title': 'डैशबोर्ड — डिजिटल जीव की रीयल-टाइम निगरानी',
+    'dashboard.meta.description':
+      'Taiwan.md डिजिटल जीव के स्वास्थ्य की रीयल-टाइम निगरानी — लेखों का अवलोकन, अंगों का स्वास्थ्य, अनुवाद कवरेज, वृद्धि संकेतक',
+
+    // Hero
+    'dashboard.hero.title': 'डिजिटल जीव की रीयल-टाइम निगरानी',
+    'dashboard.hero.subtitle': 'Taiwan.md का सार्वजनिक विच्छेदन कक्ष',
+    'dashboard.hero.description':
+      'हर अंग, हर कोशिका, हर धड़कन — पारदर्शी और दृश्यमान।',
+
+    // Vital Signs
+    'dashboard.vitals.title': 'जीवन संकेत',
+    'dashboard.vitals.heartbeat': 'धड़कन',
+    'dashboard.vitals.heartbeat.desc':
+      'पिछले 7 दिनों में जोड़े/अपडेट किए गए लेख',
+    'dashboard.vitals.cells': 'कुल कोशिकाएँ',
+    'dashboard.vitals.cells.desc': 'चीनी भाषा के लेख (SSOT)',
+    'dashboard.vitals.immunity': 'प्रतिरक्षा',
+    'dashboard.vitals.immunity.desc': 'मानवीय समीक्षा पूरी होने का अनुपात',
+    'dashboard.vitals.dna': 'DNA विविधता',
+    'dashboard.vitals.dna.desc': 'भाषा कवरेज',
+    'dashboard.vitals.revision': 'संशोधन की गहराई',
+    'dashboard.vitals.revision.desc': 'प्रति लेख संशोधनों की औसत संख्या',
+    'dashboard.vitals.featured': 'चुनिंदा',
+    'dashboard.vitals.featured.desc': 'प्रमुखता से प्रदर्शित लेख',
+
+    // Article Registry
+    'dashboard.registry.title': 'लेख अवलोकन तालिका',
+    'dashboard.registry.subtitle': 'जीव की प्रत्येक कोशिका की पूरी सूची',
+    'dashboard.registry.search': 'लेख खोजें...',
+    'dashboard.registry.filter.category': 'श्रेणी',
+    'dashboard.registry.filter.all': 'सभी',
+    'dashboard.registry.filter.reviewed': 'मानवीय समीक्षा',
+    'dashboard.registry.filter.reviewed.yes': 'समीक्षित',
+    'dashboard.registry.filter.reviewed.no': 'असमीक्षित',
+    'dashboard.registry.filter.featured': 'चुनिंदा',
+    'dashboard.registry.filter.translation': 'अनुवाद',
+    'dashboard.registry.filter.translation.has-en': 'अंग्रेज़ी उपलब्ध',
+    'dashboard.registry.filter.translation.missing-en': 'अंग्रेज़ी अनुपलब्ध',
+    'dashboard.registry.col.title': 'शीर्षक',
+    'dashboard.registry.col.category': 'श्रेणी',
+    'dashboard.registry.col.date': 'तारीख़',
+    'dashboard.registry.col.verified': 'सत्यापन',
+    'dashboard.registry.col.reviewed': 'समीक्षा',
+    'dashboard.registry.col.words': 'शब्द संख्या',
+    'dashboard.registry.col.tags': 'टैग',
+    'dashboard.registry.col.translations': 'भाषाएँ',
+    'dashboard.registry.col.revisions': 'संशोधन',
+    'dashboard.registry.showing': 'दिखाए जा रहे हैं',
+    'dashboard.registry.of': '/',
+    'dashboard.registry.articles': 'लेख',
+
+    // Organism Anatomy
+    'dashboard.organism.title': 'अंगों की संरचना',
+    'dashboard.organism.subtitle': 'प्रत्येक अंग-तंत्र के स्वास्थ्य की स्थिति',
+    'dashboard.organism.score': 'स्वास्थ्य स्कोर',
+    'dashboard.organism.trend.up': 'बढ़ रहा है',
+    'dashboard.organism.trend.down': 'घट रहा है',
+    'dashboard.organism.trend.stable': 'स्थिर',
+
+    // Translation Coverage
+    'dashboard.translation.title': 'अनुवाद कवरेज',
+    'dashboard.translation.subtitle':
+      'कितनी कोशिकाएँ अलग-अलग भाषाओं में प्रतिलिपित की गई हैं',
+    'dashboard.translation.ssot': 'तथ्य का एकमात्र स्रोत',
+    'dashboard.translation.full': 'पूर्ण कवरेज',
+    'dashboard.translation.growing': 'वृद्धिशील',
+    'dashboard.translation.seedling': 'अंकुरण चरण',
+    'dashboard.translation.legend.aria': 'अनुवाद स्थिति संकेत',
+    'dashboard.translation.legend.fresh':
+      'नवीनतम — चीनी मूल पाठ के साथ समकालिक',
+    'dashboard.translation.legend.stale':
+      'पुराना संस्करण — चीनी मूल पाठ अपडेट हो चुका है, अनुवाद पीछे है',
+    'dashboard.translation.legend.missing': 'अनूदित नहीं — अभी अनुवाद नहीं हुआ',
+    'dashboard.translation.legend.format':
+      'अनूदित / अनूदित नहीं·पुराना संस्करण (श्रेणी के अनुसार)',
+
+    // Immune System
+    'dashboard.immune.title': 'प्रतिरक्षा तंत्र',
+    'dashboard.immune.subtitle': 'गुणवत्ता रक्षा की स्थिति और लंबित कार्य',
+    'dashboard.immune.reviewed': 'मानवीय समीक्षा',
+    'dashboard.immune.featured': 'चुनिंदा लेख',
+    'dashboard.immune.verified': 'अंतिम सत्यापन',
+    'dashboard.immune.defense.title': 'रक्षा पंक्तियाँ',
+    'dashboard.immune.defense.line1': 'quality-scan.sh',
+    'dashboard.immune.defense.line1.desc': 'स्वचालित स्कैन, >4 स्कोर पर अवरोध',
+    'dashboard.immune.defense.line2': 'PR Review',
+    'dashboard.immune.defense.line2.desc': 'EDITORIAL v4 मानक',
+    'dashboard.immune.defense.line3': 'गुणवत्ता पुनर्लेखन',
+    'dashboard.immune.defense.line3.desc':
+      'मैन्युअल रूप से पुनर्लेखन शुरू करें',
+    'dashboard.immune.defense.line4': 'EDITORIAL अपडेट',
+    'dashboard.immune.defense.line4.desc': 'गुणवत्ता जीन का विकास',
+    'dashboard.immune.queue.title': 'लंबित प्रतिरक्षा सूची',
+    'dashboard.immune.queue.desc':
+      'मानवीय समीक्षा की सर्वाधिक आवश्यकता वाले लेख (सबसे पुराने पहले)',
+
+    // Growth
+    'dashboard.growth.title': 'वृद्धि समयरेखा',
+    'dashboard.growth.subtitle': 'समय के साथ जीव का विकास',
+    'dashboard.growth.total': 'संचयी लेख',
+    'dashboard.growth.daily': 'प्रतिदिन नए',
+  },
   'zh-TW': {
     // Meta
     'dashboard.meta.title': 'Dashboard — 數位生命體即時監測',

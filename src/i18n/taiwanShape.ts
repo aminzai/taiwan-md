@@ -85,6 +85,324 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.copied': '✓ Copied',
   },
 
+  vi: {
+    // Meta
+    'taiwanShape.meta.title':
+      'Hình dáng Đài Loan — Bộ dữ liệu bản đồ nguồn mở: SVG, GeoJSON, TopoJSON',
+    'taiwanShape.meta.description':
+      'Dữ liệu bản đồ Đài Loan nguồn mở đầy đủ: đường nét SVG, TopoJSON cấp huyện thị và hương trấn, ví dụ sử dụng D3.js / Leaflet / Python / Vue. Đài Loan do AI vẽ luôn sai, còn ở đây là chính xác.',
+
+    'taiwanShape.hero.kicker': '🗺️ Bộ dữ liệu bản đồ nguồn mở',
+    'taiwanShape.hero.title': 'Hình dáng Đài Loan',
+    'taiwanShape.hero.subtitle':
+      'SVG, GeoJSON, TopoJSON — dữ liệu bản đồ nguồn mở đầy đủ dành cho nhà phát triển, nhà thiết kế và nhà nghiên cứu.',
+
+    'taiwanShape.story.heading': 'Vì sao hình dáng Đài Loan quan trọng',
+    'taiwanShape.story.p1':
+      'Hãy yêu cầu bất kỳ công cụ tạo ảnh AI nào vẽ Đài Loan, kết quả gần như luôn là một vật tròn trịa, mập mạp, nửa giống quả ô liu, nửa giống củ khoai tây. Đài Loan không phải quả ô liu. Đó là một củ khoai lang dài 394 km, với dãy núi Trung Ương chạy dọc từ bắc xuống nam và hơn một trăm đảo ngoài khơi.',
+    'taiwanShape.story.p2':
+      'Vẽ đúng hình dáng không chỉ là một chi tiết thiết kế, mà còn là vấn đề bản sắc. Trang này tập hợp toàn bộ tài nguyên bản đồ nguồn mở mà chúng tôi sử dụng trên taiwan.md, giúp bất kỳ ai cũng có thể thể hiện Đài Loan một cách chính xác trong dự án của mình.',
+
+    'taiwanShape.comparison.title':
+      '🤖 vs. 🇹🇼 — AI lần nào cũng vẽ sai, thật đấy',
+    'taiwanShape.comparison.aiLabel': 'Do AI tạo (sai)',
+    'taiwanShape.comparison.correctLabel': 'Phiên bản chính xác (Wikipedia)',
+
+    'taiwanShape.svg.heading': '📐 Đường nét SVG — nhúng trực tiếp',
+    'taiwanShape.svg.description':
+      'Bốn bộ tệp SVG tuyển chọn, tất cả đều theo giấy phép CC hoặc thuộc phạm vi công cộng. Có thể đưa trực tiếp vào bất kỳ trang web, App hoặc bản thiết kế nào.',
+    'taiwanShape.svg.usageHeading': 'Cách sử dụng',
+    'taiwanShape.svg.licenseNote':
+      'Tất cả SVG đều theo giấy phép Creative Commons hoặc thuộc phạm vi công cộng. Nên ghi nguồn nhưng không bắt buộc.',
+
+    'taiwanShape.geo.heading': '🌐 TopoJSON — bản đồ tương tác cấp huyện thị',
+    'taiwanShape.geo.intro1':
+      'Nếu muốn làm bản đồ tương tác — thu phóng, di chuột, tô màu theo giá trị dữ liệu — thứ bạn cần không phải là đường dẫn SVG, mà là dữ liệu tọa độ địa lý thực sự. Chúng tôi đã đóng gói các tệp TopoJSON trích xuất từ taiwan-vue-components của Waiting (giấy phép MIT, 2018).',
+    'taiwanShape.geo.intro2':
+      'TopoJSON là phiên bản nén của GeoJSON: ranh giới dùng chung giữa các huyện thị liền kề chỉ được lưu một lần, giúp tệp nhỏ hơn 80%. Có thể dùng topojson-client để chuyển đổi tức thời về GeoJSON.',
+    'taiwanShape.geo.formatHeading': 'TopoJSON vs GeoJSON — nên chọn loại nào',
+    'taiwanShape.geo.formatTopo':
+      'TopoJSON: tệp nhỏ, các khu vực liền kề dùng chung ranh giới, phù hợp để làm bản đồ web tương tác.',
+    'taiwanShape.geo.formatGeo':
+      'GeoJSON: định dạng đơn giản, tương thích trực tiếp với Python geopandas, QGIS và phần lớn công cụ GIS.',
+    'taiwanShape.geo.countryHeading': 'Đường nét toàn quốc (22 huyện thị)',
+    'taiwanShape.geo.countryDesc':
+      'Tệp TopoJSON khoảng 21 KB, gồm 22 huyện, thị và thành phố trực thuộc trung ương, mỗi đơn vị là một feature độc lập. Điểm khởi đầu để tạo bản đồ choropleth.',
+    'taiwanShape.geo.townsHeading':
+      'Dữ liệu cấp hương trấn của toàn bộ 22 huyện thị',
+    'taiwanShape.geo.townsDesc':
+      'Chúng tôi đã đóng gói các tệp TopoJSON cấp hương trấn của toàn bộ 22 huyện thị, đều được trích xuất từ cùng một repo nguồn.',
+
+    'taiwanShape.codes.heading': '🧭 Bảng đối chiếu mã đơn vị hành chính',
+    'taiwanShape.codes.intro':
+      'Các đơn vị hành chính của Đài Loan được mã hóa bằng số. Dưới đây là bảng đối chiếu 22 đơn vị hành chính cấp huyện thị (quy tắc đặt tên tệp: `towns-{code}.json`).',
+    'taiwanShape.codes.codeCol': 'Mã',
+    'taiwanShape.codes.nameCol': 'Đơn vị hành chính',
+    'taiwanShape.codes.typeCol': 'Loại',
+
+    'taiwanShape.examples.heading': '💻 Ví dụ sử dụng',
+    'taiwanShape.examples.htmlTitle': 'HTML — nhúng tĩnh',
+    'taiwanShape.examples.cssTitle': 'CSS — ảnh nền',
+    'taiwanShape.examples.d3Title': 'D3.js — choropleth tương tác',
+    'taiwanShape.examples.pythonTitle': 'Python — geopandas',
+    'taiwanShape.examples.leafletTitle': 'Leaflet — lớp phủ trên bản đồ lát',
+    'taiwanShape.examples.vueTitle': 'Vue — taiwan-vue-components',
+
+    'taiwanShape.others.heading': '📚 Các nguồn dữ liệu mở khác',
+    'taiwanShape.others.intro':
+      'Nếu bạn cần nhiều hơn những gì được đóng gói ở đây — độ phân giải cao hơn, phép chiếu khác, ranh giới hành chính lịch sử — dưới đây là các nguồn chúng tôi đề xuất:',
+
+    'taiwanShape.license.heading': '⚖️ Giấy phép và nguồn',
+    'taiwanShape.license.intro':
+      'Mọi tệp trên trang này đều là nguồn mở. Dưới đây là thông tin đầy đủ về nguồn và giấy phép:',
+
+    'taiwanShape.download.svg': 'Tải SVG',
+    'taiwanShape.download.topo': 'Tải TopoJSON',
+    'taiwanShape.download.all': 'Tải tất cả (ZIP)',
+    'taiwanShape.copy.button': 'Sao chép SVG',
+    'taiwanShape.copy.copied': '✓ Đã sao chép',
+  },
+  id: {
+    // Meta
+    'taiwanShape.meta.title':
+      'Bentuk Taiwan — Kumpulan Data Peta Sumber Terbuka: SVG, GeoJSON, TopoJSON',
+    'taiwanShape.meta.description':
+      'Data peta Taiwan sumber terbuka yang lengkap: kontur SVG, TopoJSON tingkat kabupaten/kota dan kecamatan, serta contoh penggunaan D3.js / Leaflet / Python / Vue. Taiwan yang digambar AI selalu salah, yang benar ada di sini.',
+
+    'taiwanShape.hero.kicker': '🗺️ Kumpulan Data Peta Sumber Terbuka',
+    'taiwanShape.hero.title': 'Bentuk Taiwan',
+    'taiwanShape.hero.subtitle':
+      'SVG, GeoJSON, TopoJSON — data peta sumber terbuka yang lengkap untuk pengembang, desainer, dan peneliti.',
+
+    'taiwanShape.story.heading': 'Mengapa Bentuk Taiwan Penting',
+    'taiwanShape.story.p1':
+      'Mintalah alat pembuat gambar AI mana pun untuk menggambar Taiwan, hasilnya hampir selalu berupa benda bulat dan gemuk, antara buah zaitun dan kentang. Taiwan bukan buah zaitun. Bentuknya seperti ubi jalar sepanjang 394 kilometer, dengan Pegunungan Tengah yang membentang dari utara ke selatan serta lebih dari seratus pulau lepas pantai.',
+    'taiwanShape.story.p2':
+      'Menggambar bentuknya dengan benar bukan sekadar detail desain, melainkan persoalan identitas. Halaman ini mengumpulkan semua materi peta sumber terbuka yang kami gunakan di taiwan.md agar siapa pun dapat menampilkan Taiwan secara akurat dalam proyek mereka sendiri.',
+
+    'taiwanShape.comparison.title':
+      '🤖 vs. 🇹🇼 — AI Selalu Salah Menggambarnya, Sungguh',
+    'taiwanShape.comparison.aiLabel': 'Buatan AI (Salah)',
+    'taiwanShape.comparison.correctLabel': 'Versi yang Benar (Wikipedia)',
+
+    'taiwanShape.svg.heading': '📐 Kontur SVG — Sematkan Langsung',
+    'taiwanShape.svg.description':
+      'Empat set berkas SVG pilihan, semuanya berlisensi CC atau berada dalam domain publik. Dapat langsung digunakan di halaman web, App, atau rancangan desain apa pun.',
+    'taiwanShape.svg.usageHeading': 'Cara Penggunaan',
+    'taiwanShape.svg.licenseNote':
+      'Semua SVG berlisensi Creative Commons atau berada dalam domain publik. Sebaiknya cantumkan sumber, tetapi tidak wajib.',
+
+    'taiwanShape.geo.heading':
+      '🌐 TopoJSON — Peta Interaktif Tingkat Kabupaten/Kota',
+    'taiwanShape.geo.intro1':
+      'Jika Anda ingin membuat peta interaktif—dengan fitur zoom, efek saat kursor diarahkan, dan pewarnaan berdasarkan nilai data—yang Anda butuhkan bukan jalur SVG, melainkan data koordinat geografis yang sesungguhnya. Kami telah mengemas berkas TopoJSON yang diekstrak dari taiwan-vue-components milik Waiting (lisensi MIT, 2018).',
+    'taiwanShape.geo.intro2':
+      'TopoJSON adalah versi GeoJSON yang dikompresi: batas yang digunakan bersama oleh kabupaten/kota bertetangga hanya disimpan satu kali sehingga ukuran berkas 80% lebih kecil. Gunakan topojson-client untuk mengonversinya kembali menjadi GeoJSON secara langsung.',
+    'taiwanShape.geo.formatHeading':
+      'TopoJSON vs GeoJSON — Mana yang Harus Dipilih',
+    'taiwanShape.geo.formatTopo':
+      'TopoJSON: berkas lebih kecil, wilayah bertetangga berbagi batas, cocok untuk membuat peta web interaktif.',
+    'taiwanShape.geo.formatGeo':
+      'GeoJSON: format sederhana, langsung kompatibel dengan Python geopandas, QGIS, dan sebagian besar alat GIS.',
+    'taiwanShape.geo.countryHeading':
+      'Kontur Seluruh Negara (22 Kabupaten/Kota)',
+    'taiwanShape.geo.countryDesc':
+      'Berkas TopoJSON berukuran sekitar 21 KB yang mencakup 22 kabupaten, kota, dan munisipalitas khusus, masing-masing sebagai feature tersendiri. Titik awal untuk membuat peta choropleth.',
+    'taiwanShape.geo.townsHeading':
+      'Data Tingkat Kecamatan untuk Seluruh 22 Kabupaten/Kota',
+    'taiwanShape.geo.townsDesc':
+      'Kami telah mengemas berkas TopoJSON tingkat kecamatan untuk seluruh 22 kabupaten/kota, semuanya diekstrak dari repo sumber yang sama.',
+
+    'taiwanShape.codes.heading':
+      '🧭 Tabel Referensi Kode Wilayah Administratif',
+    'taiwanShape.codes.intro':
+      'Wilayah administratif Taiwan dikodekan menggunakan angka. Berikut adalah tabel referensi untuk 22 wilayah administratif tingkat kabupaten/kota (aturan penamaan berkas: `towns-{code}.json`).',
+    'taiwanShape.codes.codeCol': 'Kode',
+    'taiwanShape.codes.nameCol': 'Wilayah Administratif',
+    'taiwanShape.codes.typeCol': 'Jenis',
+
+    'taiwanShape.examples.heading': '💻 Contoh Penggunaan',
+    'taiwanShape.examples.htmlTitle': 'HTML — Penyematan Statis',
+    'taiwanShape.examples.cssTitle': 'CSS — Gambar Latar Belakang',
+    'taiwanShape.examples.d3Title': 'D3.js — Choropleth Interaktif',
+    'taiwanShape.examples.pythonTitle': 'Python — geopandas',
+    'taiwanShape.examples.leafletTitle': 'Leaflet — Hamparan Peta Ubin',
+    'taiwanShape.examples.vueTitle': 'Vue — taiwan-vue-components',
+
+    'taiwanShape.others.heading': '📚 Sumber Data Terbuka Lainnya',
+    'taiwanShape.others.intro':
+      'Jika Anda membutuhkan lebih banyak daripada yang kami kemas di sini—resolusi lebih tinggi, proyeksi berbeda, atau batas wilayah administratif historis—berikut adalah sumber yang kami rekomendasikan:',
+
+    'taiwanShape.license.heading': '⚖️ Lisensi dan Sumber',
+    'taiwanShape.license.intro':
+      'Setiap berkas di halaman ini bersifat sumber terbuka. Berikut adalah informasi lengkap mengenai sumber dan lisensinya:',
+
+    'taiwanShape.download.svg': 'Unduh SVG',
+    'taiwanShape.download.topo': 'Unduh TopoJSON',
+    'taiwanShape.download.all': 'Unduh Semua (ZIP)',
+    'taiwanShape.copy.button': 'Salin SVG',
+    'taiwanShape.copy.copied': '✓ Disalin',
+  },
+  pt: {
+    // Meta
+    'taiwanShape.meta.title':
+      'O formato de Taiwan — Conjunto de dados cartográficos de código aberto: SVG, GeoJSON, TopoJSON',
+    'taiwanShape.meta.description':
+      'Dados cartográficos completos e de código aberto de Taiwan: contornos SVG, TopoJSON de condados, cidades e municípios, além de exemplos de uso com D3.js / Leaflet / Python / Vue. A Taiwan desenhada por IA está sempre errada; aqui está correta.',
+
+    'taiwanShape.hero.kicker':
+      '🗺️ Conjunto de dados cartográficos de código aberto',
+    'taiwanShape.hero.title': 'O formato de Taiwan',
+    'taiwanShape.hero.subtitle':
+      'SVG, GeoJSON, TopoJSON — dados cartográficos completos e de código aberto para desenvolvedores, designers e pesquisadores.',
+
+    'taiwanShape.story.heading': 'Por que o formato de Taiwan é importante',
+    'taiwanShape.story.p1':
+      'Peça a qualquer ferramenta de geração de imagens por IA para desenhar Taiwan e o resultado quase sempre será algo redondo e rechonchudo, entre uma azeitona e uma batata. Taiwan não é uma azeitona. É uma batata-doce de 394 quilômetros de comprimento, com uma cordilheira central que atravessa a ilha de norte a sul e mais de cem ilhas periféricas.',
+    'taiwanShape.story.p2':
+      'Representar o formato corretamente não é apenas um detalhe de design, mas uma questão de identidade. Esta página reúne todos os recursos cartográficos de código aberto que usamos no taiwan.md, para que qualquer pessoa possa representar Taiwan com precisão em seu próprio projeto.',
+
+    'taiwanShape.comparison.title':
+      '🤖 vs. 🇹🇼 — A IA erra toda vez, de verdade',
+    'taiwanShape.comparison.aiLabel': 'Gerado por IA (errado)',
+    'taiwanShape.comparison.correctLabel': 'Versão correta (Wikipédia)',
+
+    'taiwanShape.svg.heading': '📐 Contornos SVG — incorporação direta',
+    'taiwanShape.svg.description':
+      'Quatro conjuntos selecionados de arquivos SVG, todos sob licenças CC ou em domínio público. Podem ser inseridos diretamente em qualquer página web, App ou projeto de design.',
+    'taiwanShape.svg.usageHeading': 'Como usar',
+    'taiwanShape.svg.licenseNote':
+      'Todos os SVG estão sob licenças Creative Commons ou em domínio público. A atribuição da fonte é recomendada, mas não obrigatória.',
+
+    'taiwanShape.geo.heading':
+      '🌐 TopoJSON — mapa interativo por condado e cidade',
+    'taiwanShape.geo.intro1':
+      'Se você deseja criar um mapa interativo — com zoom, efeitos ao passar o mouse e cores baseadas em valores de dados — não precisa de caminhos SVG, mas de dados com coordenadas geográficas reais. Empacotamos os arquivos TopoJSON extraídos do taiwan-vue-components de Waiting (licença MIT, 2018).',
+    'taiwanShape.geo.intro2':
+      'TopoJSON é uma versão compactada do GeoJSON: as fronteiras compartilhadas entre condados e cidades vizinhos são armazenadas apenas uma vez, reduzindo o arquivo em 80%. Com topojson-client, é possível convertê-lo novamente em GeoJSON em tempo real.',
+    'taiwanShape.geo.formatHeading': 'TopoJSON vs GeoJSON — qual escolher',
+    'taiwanShape.geo.formatTopo':
+      'TopoJSON: arquivos menores, fronteiras compartilhadas entre regiões vizinhas, ideal para mapas interativos na web.',
+    'taiwanShape.geo.formatGeo':
+      'GeoJSON: formato simples, diretamente compatível com Python geopandas, QGIS e a maioria das ferramentas GIS.',
+    'taiwanShape.geo.countryHeading':
+      'Contorno nacional (22 condados e cidades)',
+    'taiwanShape.geo.countryDesc':
+      'Arquivo TopoJSON de aproximadamente 21 KB, contendo 22 condados, cidades e municípios especiais, cada um como uma feature independente. Um ponto de partida para criar mapas choropleth.',
+    'taiwanShape.geo.townsHeading':
+      'Dados municipais dos 22 condados e cidades',
+    'taiwanShape.geo.townsDesc':
+      'Empacotamos os arquivos TopoJSON em nível municipal de todos os 22 condados e cidades, extraídos do mesmo repo de origem.',
+
+    'taiwanShape.codes.heading':
+      '🧭 Tabela de códigos das divisões administrativas',
+    'taiwanShape.codes.intro':
+      'As divisões administrativas de Taiwan são codificadas com códigos numéricos. Veja abaixo a tabela das 22 divisões administrativas em nível de condado e cidade (padrão dos nomes de arquivo: `towns-{code}.json`).',
+    'taiwanShape.codes.codeCol': 'Código',
+    'taiwanShape.codes.nameCol': 'Divisão administrativa',
+    'taiwanShape.codes.typeCol': 'Tipo',
+
+    'taiwanShape.examples.heading': '💻 Exemplos de uso',
+    'taiwanShape.examples.htmlTitle': 'HTML — incorporação estática',
+    'taiwanShape.examples.cssTitle': 'CSS — imagem de fundo',
+    'taiwanShape.examples.d3Title': 'D3.js — choropleth interativo',
+    'taiwanShape.examples.pythonTitle': 'Python — geopandas',
+    'taiwanShape.examples.leafletTitle':
+      'Leaflet — sobreposição em mapa de mosaicos',
+    'taiwanShape.examples.vueTitle': 'Vue — taiwan-vue-components',
+
+    'taiwanShape.others.heading': '📚 Outras fontes de dados abertos',
+    'taiwanShape.others.intro':
+      'Se você precisa de mais do que está incluído aqui — maior resolução, projeções diferentes ou limites administrativos históricos — estas são as fontes que recomendamos:',
+
+    'taiwanShape.license.heading': '⚖️ Licenças e fontes',
+    'taiwanShape.license.intro':
+      'Todos os arquivos desta página são de código aberto. Confira abaixo as informações completas sobre fontes e licenças:',
+
+    'taiwanShape.download.svg': 'Baixar SVG',
+    'taiwanShape.download.topo': 'Baixar TopoJSON',
+    'taiwanShape.download.all': 'Baixar tudo (ZIP)',
+    'taiwanShape.copy.button': 'Copiar SVG',
+    'taiwanShape.copy.copied': '✓ Copiado',
+  },
+  hi: {
+    // Meta
+    'taiwanShape.meta.title':
+      'ताइवान का आकार — ओपन-सोर्स मानचित्र डेटासेट: SVG, GeoJSON, TopoJSON',
+    'taiwanShape.meta.description':
+      'ताइवान का संपूर्ण ओपन-सोर्स मानचित्र डेटा: SVG रूपरेखा, काउंटी-शहर और टाउनशिप स्तर के TopoJSON, तथा D3.js / Leaflet / Python / Vue के उपयोग के उदाहरण।AI से बनाया गया ताइवान हमेशा ग़लत होता है, यहाँ वाला सही है।',
+
+    'taiwanShape.hero.kicker': '🗺️ ओपन-सोर्स मानचित्र डेटासेट',
+    'taiwanShape.hero.title': 'ताइवान का आकार',
+    'taiwanShape.hero.subtitle':
+      'SVG, GeoJSON, TopoJSON — डेवलपरों, डिज़ाइनरों और शोधकर्ताओं के लिए संपूर्ण ओपन-सोर्स मानचित्र डेटा।',
+
+    'taiwanShape.story.heading': 'ताइवान का आकार क्यों महत्वपूर्ण है',
+    'taiwanShape.story.p1':
+      'किसी भी AI चित्रण टूल से ताइवान बनवाएँ, तो लगभग हर बार एक गोल-मटोल चीज़ निकलती है, जो जैतून और आलू के बीच की लगती है।ताइवान जैतून नहीं है।यह 394 किलोमीटर लंबा शकरकंद जैसा द्वीप है, जिसके बीच उत्तर से दक्षिण तक केंद्रीय पर्वतमाला और सौ से अधिक अपतटीय द्वीप हैं।',
+    'taiwanShape.story.p2':
+      'आकार को सही बनाना केवल डिज़ाइन का विवरण नहीं, पहचान का प्रश्न है।इस पृष्ठ पर taiwan.md में उपयोग की गई सभी ओपन-सोर्स मानचित्र सामग्रियाँ संकलित हैं, ताकि कोई भी अपने प्रोजेक्ट में ताइवान को सटीक रूप से प्रस्तुत कर सके।',
+
+    'taiwanShape.comparison.title':
+      '🤖 vs. 🇹🇼 — AI हर बार ग़लत बनाता है, सचमुच',
+    'taiwanShape.comparison.aiLabel': 'AI-जनित (ग़लत)',
+    'taiwanShape.comparison.correctLabel': 'सही संस्करण (विकिपीडिया)',
+
+    'taiwanShape.svg.heading': '📐 SVG रूपरेखा — सीधे एम्बेड करें',
+    'taiwanShape.svg.description':
+      'चार चुनिंदा SVG फ़ाइल समूह, सभी CC लाइसेंस या सार्वजनिक डोमेन के अंतर्गत।इन्हें सीधे किसी भी वेबपेज, App या डिज़ाइन ड्राफ़्ट में डाला जा सकता है।',
+    'taiwanShape.svg.usageHeading': 'उपयोग का तरीका',
+    'taiwanShape.svg.licenseNote':
+      'सभी SVG Creative Commons लाइसेंस या सार्वजनिक डोमेन के अंतर्गत हैं।स्रोत का उल्लेख करना बेहतर है, लेकिन आवश्यक नहीं।',
+
+    'taiwanShape.geo.heading':
+      '🌐 TopoJSON — काउंटी और शहर स्तर का इंटरैक्टिव मानचित्र',
+    'taiwanShape.geo.intro1':
+      'यदि आप इंटरैक्टिव मानचित्र बनाना चाहते हैं—ज़ूम, माउस होवर और डेटा मान के अनुसार रंग भरना—तो आपको SVG पाथ नहीं, बल्कि वास्तविक भौगोलिक निर्देशांक डेटा चाहिए।हमने Waiting के taiwan-vue-components (MIT लाइसेंस, 2018) से निकाली गई TopoJSON फ़ाइलें पैकेज की हैं।',
+    'taiwanShape.geo.intro2':
+      'TopoJSON, GeoJSON का संपीड़ित संस्करण है: पड़ोसी काउंटियों और शहरों की साझा सीमाएँ केवल एक बार संग्रहीत होती हैं, जिससे फ़ाइल 80% छोटी होती है।topojson-client से इसे तुरंत वापस GeoJSON में बदला जा सकता है।',
+    'taiwanShape.geo.formatHeading': 'TopoJSON vs GeoJSON — किसे चुनें',
+    'taiwanShape.geo.formatTopo':
+      'TopoJSON: छोटी फ़ाइल, पड़ोसी क्षेत्रों की साझा सीमाएँ और वेब के इंटरैक्टिव मानचित्रों के लिए उपयुक्त।',
+    'taiwanShape.geo.formatGeo':
+      'GeoJSON: सरल प्रारूप, Python geopandas, QGIS और अधिकांश GIS टूल के साथ सीधे संगत।',
+    'taiwanShape.geo.countryHeading': 'पूरे देश की रूपरेखा (22 काउंटी और शहर)',
+    'taiwanShape.geo.countryDesc':
+      'लगभग 21 KB की TopoJSON फ़ाइल, जिसमें 22 काउंटी, शहर और विशेष नगरपालिकाएँ शामिल हैं और प्रत्येक एक स्वतंत्र फ़ीचर है।कोरोप्लेथ मानचित्र बनाने का शुरुआती बिंदु।',
+    'taiwanShape.geo.townsHeading':
+      'सभी 22 काउंटियों और शहरों का टाउनशिप स्तर का डेटा',
+    'taiwanShape.geo.townsDesc':
+      'हमने सभी 22 काउंटियों और शहरों की टाउनशिप स्तर की TopoJSON फ़ाइलें पैकेज की हैं, जो एक ही स्रोत repo से निकाली गई हैं।',
+
+    'taiwanShape.codes.heading': '🧭 प्रशासनिक क्षेत्र कोड संदर्भ तालिका',
+    'taiwanShape.codes.intro':
+      'ताइवान के प्रशासनिक क्षेत्रों को संख्यात्मक कोड दिए गए हैं।नीचे 22 काउंटी और शहर स्तर के प्रशासनिक क्षेत्रों की संदर्भ तालिका है (फ़ाइल नाम नियम: `towns-{code}.json`)।',
+    'taiwanShape.codes.codeCol': 'कोड',
+    'taiwanShape.codes.nameCol': 'प्रशासनिक क्षेत्र',
+    'taiwanShape.codes.typeCol': 'प्रकार',
+
+    'taiwanShape.examples.heading': '💻 उपयोग के उदाहरण',
+    'taiwanShape.examples.htmlTitle': 'HTML — स्थिर एम्बेड',
+    'taiwanShape.examples.cssTitle': 'CSS — पृष्ठभूमि चित्र',
+    'taiwanShape.examples.d3Title': 'D3.js — इंटरैक्टिव कोरोप्लेथ',
+    'taiwanShape.examples.pythonTitle': 'Python — geopandas',
+    'taiwanShape.examples.leafletTitle': 'Leaflet — टाइल मानचित्र ओवरले',
+    'taiwanShape.examples.vueTitle': 'Vue — taiwan-vue-components',
+
+    'taiwanShape.others.heading': '📚 अन्य ओपन-सोर्स डेटा स्रोत',
+    'taiwanShape.others.intro':
+      'यदि आपको यहाँ पैकेज किए गए डेटा से अधिक चाहिए—उच्च रिज़ॉल्यूशन, अलग प्रोजेक्शन या ऐतिहासिक प्रशासनिक सीमाएँ—तो ये हमारे सुझाए स्रोत हैं:',
+
+    'taiwanShape.license.heading': '⚖️ लाइसेंस और स्रोत',
+    'taiwanShape.license.intro':
+      'इस पृष्ठ की प्रत्येक फ़ाइल ओपन-सोर्स है।स्रोत और लाइसेंस की पूरी जानकारी नीचे दी गई है:',
+
+    'taiwanShape.download.svg': 'SVG डाउनलोड करें',
+    'taiwanShape.download.topo': 'TopoJSON डाउनलोड करें',
+    'taiwanShape.download.all': 'सभी डाउनलोड करें (ZIP)',
+    'taiwanShape.copy.button': 'SVG कॉपी करें',
+    'taiwanShape.copy.copied': '✓ कॉपी किया गया',
+  },
   'zh-TW': {
     // Meta
     'taiwanShape.meta.title':

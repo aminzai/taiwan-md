@@ -1518,6 +1518,2100 @@ export const resourcesUI = {
     'resources.site.npgov': '국립공원 포털',
     'resources.site.taiwanmd': 'Taiwan.md',
   },
+  vi: {
+    // Meta
+    'resources.meta.title': 'Cẩm nang tài nguyên Đài Loan - Taiwan.md',
+    'resources.meta.description':
+      'Tổng hợp đầy đủ các trang web chính thức của cơ quan chính phủ, tổ chức văn hóa, nền tảng dữ liệu mở Đài Loan và nhiều đơn vị khác, cung cấp cổng truy cập một cửa tới thông tin chính sách, nội dung văn hóa và dữ liệu thống kê',
+
+    // Hero
+    'resources.hero.title': 'Cẩm nang tài nguyên Đài Loan',
+    'resources.hero.subtitle.html':
+      'Tổng hợp đầy đủ các nguồn tài nguyên chính thức như cơ quan chính phủ, tổ chức văn hóa và dữ liệu mở<br />Nắm bắt nguồn thông tin uy tín nhất về Đài Loan tại một nơi duy nhất',
+
+    // Breadcrumb
+    'resources.breadcrumb.home': 'Trang chủ',
+    'resources.breadcrumb.current': 'Tài nguyên',
+
+    // Core section
+    'resources.core.title': '🏆 Tuyển chọn cốt lõi',
+    'resources.core.desc':
+      'Những nguồn tài nguyên uy tín quan trọng nhất của Đài Loan được trình bày trong sơ đồ tư duy',
+
+    // More section
+    'resources.more.title': '🔍 Thêm danh mục',
+    'resources.more.desc':
+      'Bao quát chính quyền địa phương, trường đại học và các nguồn tài nguyên chi tiết trong từng lĩnh vực',
+
+    // Category labels (heroData)
+    'resources.category.government.label': '🏛️ Cơ quan chính thức',
+    'resources.category.culture.label': '📚 Văn hóa và giáo dục',
+    'resources.category.tourism.label': '✈️ Tham quan và du lịch',
+    'resources.category.economy.label': '💼 Công nghệ và kinh tế',
+    'resources.category.media.label': '📰 Truyền thông và tin tức',
+    'resources.category.opendata.label': '🌐 Dữ liệu mở',
+    'resources.category.taiwanmd.label': '📡 Liên quan đến Taiwan.md',
+
+    // Section titles & descriptions
+    'resources.section.localGov.title': '🏙️ Chính quyền địa phương',
+    'resources.section.localGov.desc':
+      'Trang web chính thức của chính quyền 6 thành phố trực thuộc trung ương cùng các huyện và thành phố tại Đài Loan',
+
+    'resources.section.universities.title':
+      '🎓 Trường đại học và viện nghiên cứu',
+    'resources.section.universities.desc':
+      'Các trường đại học hàng đầu và cơ quan nghiên cứu quan trọng của Đài Loan',
+
+    'resources.section.nationalParks.title': '🏔️ Vườn quốc gia',
+    'resources.section.nationalParks.desc':
+      'Các vườn quốc gia và cơ quan quản lý khu danh thắng tại Đài Loan',
+
+    'resources.section.artsCulture.title': '🎭 Không gian văn hóa nghệ thuật',
+    'resources.section.artsCulture.desc':
+      'Các bảo tàng, bảo tàng mỹ thuật và địa điểm biểu diễn quan trọng',
+
+    'resources.section.healthcare.title': '🏥 Y tế và sức khỏe',
+    'resources.section.healthcare.desc':
+      'Cơ quan quản lý y tế và các cơ sở y tế quan trọng',
+
+    'resources.section.ngoSociety.title': '🤝 NGO / Xã hội dân sự',
+    'resources.section.ngoSociety.desc':
+      'Các tổ chức phi lợi nhuận và đoàn thể xã hội dân sự quan trọng',
+
+    'resources.section.ministries.title': '🏛️ Các bộ, hội đồng và cơ quan',
+    'resources.section.ministries.desc':
+      'Các bộ, hội đồng và cơ quan liên quan trực thuộc Hành chính viện',
+
+    'resources.section.companies.title': '🏢 Doanh nghiệp quan trọng',
+    'resources.section.companies.desc':
+      'Các doanh nghiệp tiêu biểu và công ty công nghệ của Đài Loan',
+
+    'resources.section.mediaExtra.title': '📺 Truyền thông truyền thống',
+    'resources.section.mediaExtra.desc':
+      'Các hãng tin tức chủ lưu cùng đài phát thanh và truyền hình',
+
+    'resources.section.transportation.title': '🚄 Giao thông vận tải',
+    'resources.section.transportation.desc':
+      'Giao thông công cộng và dịch vụ vận tải',
+
+    'resources.section.digitalCulture.title': '💾 Văn hóa số',
+    'resources.section.digitalCulture.desc':
+      'Nền tảng lưu trữ số và giáo dục phổ biến khoa học',
+
+    // Projects
+    'resources.projects.title': '🚀 Dự án cộng đồng',
+    'resources.projects.desc':
+      'Sức sáng tạo và nhiệt huyết từ cộng đồng, khám phá Đài Loan qua mã nguồn',
+
+    'resources.projects.food.title': '🍔 Bản đồ ẩm thực',
+    'resources.projects.food.burger.name': 'Bản đồ hamburger Đài Bắc',
+    'resources.projects.food.burger.desc':
+      'Bản đồ tương tác xếp hạng các nhà hàng hamburger tại Đài Bắc, phân hạng theo chất lượng（T0-T6）và có thể lọc theo khu hành chính',
+    'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
+
+    'resources.projects.nightmarket.title': '🌙 Cẩm nang chợ đêm',
+    'resources.projects.nightmarket.app.name': 'NightMarketSwift',
+    'resources.projects.nightmarket.app.desc':
+      'Ứng dụng iOS về chợ đêm Đài Loan, tổng hợp hơn 400 địa điểm chợ đêm, kèm giờ hoạt động và chỉ đường qua Google Maps',
+    'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
+
+    'resources.projects.civictech.title': '🗳️ Công nghệ dân sự',
+    'resources.projects.civictech.g0v.name': 'g0v Chính phủ Số Không',
+    'resources.projects.civictech.g0v.desc':
+      'Cộng đồng công nghệ dân sự lớn nhất Đài Loan, thúc đẩy chính phủ mở và minh bạch thông tin',
+    'resources.projects.civictech.g0v.tech': 'Công nghệ đa dạng',
+
+    'resources.projects.civictech.cofacts.name': 'Cofacts Thật hay giả',
+    'resources.projects.civictech.cofacts.desc':
+      'Chatbot kiểm chứng thông tin dựa trên sự cộng tác của cộng đồng, chống lại thông tin sai lệch',
+    'resources.projects.civictech.cofacts.tech': 'JavaScript / GraphQL',
+
+    'resources.projects.civictech.disfactory.name':
+      'Disfactory Nhà máy trái phép trên đất nông nghiệp',
+    'resources.projects.civictech.disfactory.desc':
+      'Nền tảng để người dân báo cáo các nhà máy trái phép trên đất nông nghiệp, góp phần bảo vệ đất nông nghiệp Đài Loan',
+    'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
+
+    // CTA & Links
+    'resources.projects.cta.html':
+      'Bạn có dự án muốn giới thiệu? Hãy gửi đề xuất qua <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a>!',
+    'resources.projects.github.link': 'GitHub',
+    'resources.backToHome': '← Trở về trang chủ',
+
+    // Mindmap
+    'resources.mindmap.root.label': '🇹🇼 Tài nguyên Đài Loan',
+
+    // Chapter nav labels
+    'resources.nav.governance': 'Quản trị',
+    'resources.nav.culture': 'Văn hóa',
+    'resources.nav.media': 'Truyền thông',
+    'resources.nav.economy': 'Kinh tế',
+    'resources.nav.community': 'Cộng đồng',
+
+    // Chapter titles & stories
+    'resources.chapter.government.title': 'Cổng quản trị quốc gia',
+    'resources.chapter.government.story':
+      'Tháng 2 năm 2020, một kỹ sư Đài Loan đã dành một cuối tuần để kết nối dữ liệu tồn kho khẩu trang theo thời gian thực của 6,000 nhà thuốc. Một người, một chiếc máy tính xách tay, 72 giờ. Điều này có thể trở thành hiện thực vì hơn 50,000 bộ dữ liệu của chính phủ trên data.gov.tw luôn sẵn sàng để bất kỳ ai sử dụng. Đài Loan đã đưa tinh thần「minh bạch trong quản trị」vào từng API có thể tải xuống.',
+    'resources.chapter.culture.title': 'Thánh đường văn hóa và tri thức',
+    'resources.chapter.culture.story':
+      'Trên diện tích chưa đến 36,000 kilômét vuông, Đài Loan có 159 trường đại học, hơn 500 bảo tàng, 9 vườn quốc gia, trải dài từ Ngọc Sơn cao 3,952 mét đến những bờ biển san hô. Bảo tàng Cố Cung Quốc gia lưu giữ gần 700 nghìn báu vật văn hóa Trung Hoa, trong khi lễ hội tại ngôi miếu đầu ngõ cũng là một di sản văn hóa sống động. Mật độ văn hóa của hòn đảo này vượt xa kích thước của nó trên bản đồ.',
+    'resources.chapter.media.title': 'Lắng nghe tiếng nói Đài Loan',
+    'resources.chapter.media.story':
+      'Năm 1995, sinh viên Đại học Quốc lập Đài Loan dựng một máy chủ BBS trong ký túc xá và đặt tên là PTT. 30 năm sau, diễn đàn với giao diện thuần văn bản này vẫn là nền tảng thảo luận công cộng có ảnh hưởng nhất tại Đài Loan. Trong Phong trào Hoa Hướng Dương năm 2014, PTT là nguồn thông tin thời gian thực nhanh nhất và đầy đủ nhất. Trong hệ sinh thái truyền thông Đài Loan, từ báo chí chủ lưu đến diễn đàn cư dân mạng, mọi tầng lớp đều đang đấu tranh cho quyền lên tiếng trong nền dân chủ.',
+    'resources.chapter.economy.title': 'Động lực kinh tế và đời sống',
+    'resources.chapter.economy.story':
+      'Trên toàn thế giới, cứ hai điện thoại di động thì có một chiếc sử dụng chip do TSMC sản xuất; các học giả địa chính trị gọi hiện tượng này là “lá chắn silicon”. Nhưng chip chỉ là phần nổi của tảng băng: bảo hiểm y tế toàn dân với độ bao phủ 99.9%, cứ mỗi 2.3 km² có một cửa hàng tiện lợi, đường sắt cao tốc từ Đài Bắc đến Cao Hùng chỉ mất 90 phút. Nâng đỡ đời sống thường nhật của 2,300 vạn người là một hệ thống tinh vi gần như không thể cảm nhận, nhưng hiện diện ở khắp mọi nơi.',
+    'resources.chapter.community.title': 'Công nghệ công dân và cộng đồng',
+    'resources.chapter.community.story':
+      'Khẩu hiệu của g0v — chính phủ thời đại số 0 — là: “Đừng hỏi vì sao không có ai làm việc này, bởi chính bạn là ‘không có ai’ ấy.” Bản đồ khẩu trang, bot kiểm chứng tin giả và công cụ theo dõi cam kết tranh cử đều ra đời từ các cuộc thi hackathon cuối tuần. Ở Đài Loan, sự tham gia của công dân mang hình hài như thế này: viết mã, mở Issue, gửi Pull Request. Taiwan.md cũng là sản phẩm của tinh thần ấy.',
+
+    // Insight cards
+    'resources.insight.gov.branches.number': '5',
+    'resources.insight.gov.branches.label': 'cơ quan cấp viện',
+    'resources.insight.gov.ministries.number': '20+',
+    'resources.insight.gov.ministries.label': 'bộ, hội đồng và cơ quan',
+    'resources.insight.gov.local.number': '22',
+    'resources.insight.gov.local.label': 'chính quyền huyện, thành phố',
+
+    'resources.insight.culture.universities.number': '159',
+    'resources.insight.culture.universities.label': 'trường đại học',
+    'resources.insight.culture.museums.number': '500+',
+    'resources.insight.culture.museums.label': 'bảo tàng',
+    'resources.insight.culture.parks.number': '9',
+    'resources.insight.culture.parks.label': 'công viên quốc gia',
+
+    'resources.insight.media.ptt.number': '20 vạn',
+    'resources.insight.media.ptt.label': 'người hoạt động hằng ngày trên PTT',
+    'resources.insight.media.outlets.number': '100+',
+    'resources.insight.media.outlets.label': 'cơ quan truyền thông',
+    'resources.insight.media.ngo.number': '1000+',
+    'resources.insight.media.ngo.label': 'NGO',
+
+    'resources.insight.econ.tsmc.number': '92%',
+    'resources.insight.econ.tsmc.label': 'quy trình tiên tiến của TSMC',
+    'resources.insight.econ.hsr.number': '99.5%',
+    'resources.insight.econ.hsr.label': 'tỷ lệ đúng giờ của đường sắt cao tốc',
+    'resources.insight.econ.nhi.number': '99.9%',
+    'resources.insight.econ.nhi.label': 'độ bao phủ bảo hiểm y tế',
+
+    'resources.insight.community.g0v.number': '2012',
+    'resources.insight.community.g0v.label': 'g0v được thành lập',
+    'resources.insight.community.contributors.number': '10K+',
+    'resources.insight.community.contributors.label': 'người đóng góp',
+    'resources.insight.community.projects.number': '800+',
+    'resources.insight.community.projects.label': 'dự án',
+
+    // Subcategory titles
+    'resources.sub.fiveYuan': 'Năm viện cốt lõi',
+    'resources.sub.fiveYuan.desc':
+      'Năm viện này cấu thành chế độ phân lập ngũ quyền độc đáo của Đài Loan, mô hình duy nhất trên thế giới.',
+    'resources.sub.ministries': 'Các bộ, hội đồng và cơ quan',
+    'resources.sub.ministries.desc':
+      'Từ Bộ Phát triển Kỹ thuật số đến Hội đồng Dân tộc Nguyên住, mỗi cơ quan đều có chuyên mục dữ liệu mở riêng.',
+    'resources.sub.localGov': 'Chính quyền địa phương',
+    'resources.sub.localGov.desc':
+      '22 huyện, thành phố với 22 phong cách quản trị địa phương. Cuộc đua thành phố thông minh giữa sáu đô thị trực thuộc trung ương đang định nghĩa lại dịch vụ dành cho người dân.',
+    'resources.sub.openData': 'Dữ liệu mở',
+    'resources.sub.openData.desc':
+      'Đây là điểm khởi đầu của kỳ tích công nghệ công dân Đài Loan. Bản đồ khẩu trang, đặt lịch tiêm vaccine và giám sát chất lượng không khí đều bắt đầu từ những nền tảng này.',
+    'resources.sub.universities': 'Các đại học và cơ sở nghiên cứu hàng đầu',
+    'resources.sub.universities.desc':
+      'Các trường đại học Đài Loan không chỉ giảng dạy. Phòng thí nghiệm điện toán lượng tử của Đại học Quốc lập Đài Loan và trung tâm nghiên cứu bán dẫn của Đại học Quốc lập Thành Công đều là những nút quan trọng trong mạng lưới học thuật toàn cầu.',
+    'resources.sub.museums': 'Bảo tàng và thư viện',
+    'resources.sub.museums.desc':
+      'Từ Bắp cải ngọc bích của Bảo tàng Cố Cung đến bộ sưu tập đàn violin của Bảo tàng Kỳ Mỹ, các bảo tàng Đài Loan là những cánh cửa thần kỳ xuyên thời gian và không gian.',
+    'resources.sub.venues':
+      'Không gian văn hóa nghệ thuật và công nghiệp sáng tạo',
+    'resources.sub.venues.desc':
+      'Hệ sinh thái văn hóa nghệ thuật Đài Loan đang cất cánh. C-LAB, Nhà hát và Phòng hòa nhạc Quốc gia, Trung tâm Nghệ thuật Quốc gia Vệ Vũ Doanh tại Cao Hùng — mật độ các địa điểm đẳng cấp thế giới đủ khiến New York phải ghen tị.',
+    'resources.sub.parks': 'Công viên quốc gia và khu thắng cảnh',
+    'resources.sub.parks.desc':
+      'Từ độ cao 0 đến 3,952 mét, 9 công viên quốc gia của Đài Loan bao quát mọi đới khí hậu trên Trái Đất. Chỉ trong một ngày, bạn có thể đi từ rạn san hô nhiệt đới đến đường tuyết trên núi cao.',
+    'resources.sub.mainstream': 'Truyền thông chính thống',
+    'resources.sub.mainstream.desc':
+      'Từ việc dỡ bỏ lệnh cấm báo chí sau khi thiết quân luật chấm dứt vào năm 1988 đến cuộc cạnh tranh giữa các kênh tin tức 24 giờ ngày nay, tự do truyền thông ở Đài Loan không phải thành quả dễ dàng có được.',
+    'resources.sub.digital': 'Truyền thông thuần kỹ thuật số',
+    'resources.sub.digital.desc':
+      'Trong lúc truyền thông truyền thống chật vật, các cơ quan truyền thông thuần kỹ thuật số của Đài Loan đang định nghĩa lại báo chí. Mô hình phi lợi nhuận của The Reporter chứng minh rằng báo chí chuyên sâu có thể tồn tại mà không phụ thuộc vào quảng cáo.',
+    'resources.sub.ngo': 'Xã hội dân sự và NGO',
+    'resources.sub.ngo.desc':
+      'Đài Loan có mật độ NGO cao nhất châu Á. Từ bảo vệ môi trường đến nhân quyền, các tổ chức này không chỉ giám sát chính quyền mà thường còn đi trước chính sách.',
+    'resources.sub.companies': 'Doanh nghiệp đầu ngành',
+    'resources.sub.companies.desc':
+      'Từ TSMC đến Foxconn, tên của những doanh nghiệp này xuất hiện trong các báo cáo chuỗi cung ứng trên toàn thế giới.',
+    'resources.sub.transport': 'Giao thông vận tải',
+    'resources.sub.transport.desc':
+      'Đường sắt cao tốc Đài Loan rút ngắn hành trình từ Đài Bắc đến Cao Hùng còn 90 phút. Cùng với hệ thống metro, thông tin xe buýt theo thời gian thực và YouBike, giao thông công cộng Đài Loan là nhà vô địch thầm lặng của châu Á.',
+    'resources.sub.healthcare': 'Y tế và sức khỏe',
+    'resources.sub.healthcare.desc':
+      'Bảo hiểm y tế toàn dân: một tấm thẻ, độ bao phủ 99.9%, thời gian chờ trung bình 15 phút. Ngay cả Mỹ cũng đang nghiên cứu cách Đài Loan làm được điều đó.',
+    'resources.sub.finance': 'Tài chính và dữ liệu',
+    'resources.sub.finance.desc':
+      'Sở Giao dịch Chứng khoán Đài Loan là một trong những thị trường minh bạch nhất châu Á. Từ báo cáo tài chính của doanh nghiệp niêm yết đến dữ liệu giao dịch theo thời gian thực, tất cả đều được công khai để tra cứu.',
+    'resources.sub.civicTech': 'Dự án công nghệ công dân',
+    'resources.sub.foodMaps': 'Bản đồ ẩm thực và văn hóa',
+
+    // Related articles
+    'resources.related.democracy':
+      'Đọc thêm: Quá trình chuyển đổi dân chủ của Đài Loan',
+    'resources.related.label': 'Đọc thêm',
+    'resources.related.government.1':
+      'Quá trình chuyển đổi dân chủ của Đài Loan',
+    'resources.related.government.2': 'Bầu cử và chính trị đảng phái',
+    'resources.related.government.3': 'Cộng đồng nguồn mở và g0v',
+    'resources.related.culture.1': 'Văn hóa các dân tộc bản địa',
+    'resources.related.culture.2': 'Hệ thống giáo dục',
+    'resources.related.culture.3': 'Công viên quốc gia',
+    'resources.related.media.1': 'Phong trào Sinh viên Hoa Hướng Dương',
+    'resources.related.media.2': 'Truyền thông và tự do báo chí',
+    'resources.related.media.3': 'PTT BBS',
+    'resources.related.economy.1': 'TSMC',
+    'resources.related.economy.2': 'Ngành công nghiệp bán dẫn',
+    'resources.related.economy.3': 'Bảo hiểm y tế toàn dân',
+    'resources.related.community.1': 'Cộng đồng nguồn mở và g0v',
+    'resources.related.community.2':
+      'Phong trào xã hội và sự tham gia của công dân',
+    'resources.related.community.3': 'Chính phủ kỹ thuật số',
+
+    // Footer stats
+    'resources.stats.collected': 'tài nguyên được tuyển chọn',
+    'resources.stats.chapters': 'chương lớn',
+    'resources.stats.subcategories': 'tiểu mục',
+
+    // Search
+    'resources.search.placeholder': 'Tìm kiếm tài nguyên...',
+
+    // Aria labels
+    'resources.aria.viewGithub': 'Xem dự án GitHub',
+    'resources.aria.backToTop': 'Trở về đầu trang',
+
+    // Reading Guide
+    'resources.guide.title': 'Bắt đầu từ đâu',
+    'resources.guide.desc':
+      'Hãy tưởng tượng bạn vừa đặt chân đến Đài Loan mà không có sách hướng dẫn du lịch. “Quản trị” cho bạn thấy hệ điều hành: một quốc gia dân chủ trẻ vận hành ra sao bằng sự minh bạch triệt để. “Văn hóa” là linh hồn: 500 bảo tàng, 15,000 lễ hội đền miếu mỗi năm và 16 ngôn ngữ bản địa, tất cả cùng hội tụ trên một hòn đảo nhỏ hơn cả Thụy Sĩ. “Truyền thông” mở ra cuộc đối thoại: một diễn đàn thuần văn bản có lịch sử 30 năm đến nay vẫn tác động đến bầu cử, và tòa soạn phi lợi nhuận táo bạo nhất châu Á nằm ngay tại đây. “Kinh tế” là nhịp tim: một công ty sản xuất 92% chip tiên tiến của thế giới, còn chi phí bảo hiểm y tế toàn dân thấp hơn cả hóa đơn điện thoại của bạn. “Cộng đồng” là lời mời: hãy gia nhập cộng đồng công dân nguồn mở, những người dùng các cuộc thi lập trình cuối tuần để xây dựng công cụ phục vụ xã hội.',
+
+    // Curator Notes
+    'resources.curator.government':
+      '🔍 Trong thời kỳ COVID-19, các nhà phát triển dân sự Đài Loan đã xây dựng bản đồ khẩu trang và hệ thống đặt lịch tiêm vaccine chỉ trong 72 giờ. Đằng sau tốc độ ấy là nền tảng dữ liệu mở của chính phủ thuộc top 3 thế giới, với 50,000+ bộ dữ liệu, API thời gian thực và quyền truy cập dành cho bất kỳ ai. Khi các nhà phát triển ở những quốc gia khác vẫn chờ chính phủ tổ chức họp báo, các nhà phát triển Đài Loan đã bắt tay viết code.',
+    'resources.curator.culture':
+      '🔍 Ít người biết rằng mật độ bảo tàng tại Đài Loan thuộc hàng cao nhất châu Á. Nhưng những con số chỉ là bề nổi; điều thực sự đặc biệt là một nền văn hóa “sống”: hơn 15,000 lễ hội đền miếu mỗi năm, 16 ngôn ngữ của các dân tộc bản địa và những cuộc thi sơn ca của người Khách Gia. Văn hóa Đài Loan không chỉ nằm trong tủ kính mà hiện diện ngay trên đường phố.',
+    'resources.curator.media':
+      '🔍 Sức ảnh hưởng của PTT lớn đến mức nào? Trong thời gian diễn ra cuộc trưng cầu dân ý năm 2018, lượng thảo luận trên bảng Gossiping của PTT đã tác động trực tiếp đến tỷ lệ cử tri đi bỏ phiếu. Sự hiện diện của The Reporter còn đáng kinh ngạc hơn: một cơ quan truyền thông điều tra hoạt động hoàn toàn nhờ quyên góp, nhiều năm liên tiếp được đề cử tại các giải báo chí châu Á. Trong thời đại tin giả tràn lan, Đài Loan vừa có văn hóa cư dân mạng sôi động bậc nhất, vừa có cộng đồng kiểm chứng sự thật nghiêm túc bậc nhất. Chính sự tương phản này là sức sống của nền dân chủ.',
+    'resources.curator.economy':
+      '🔍 Khi các quốc gia còn tranh luận nên trợ cấp bao nhiêu tiền cho “đạo luật chip”, Đài Loan đã dành 30 năm viết câu trả lời lên những tấm wafer: một hòn đảo không có dầu mỏ hay quặng sắt đã dựa vào nhân tài và quy trình chế tạo cấp nanomet để nắm giữ 92% năng lực sản xuất chip tiên tiến toàn cầu. Con số này đã đưa thêm một thuật ngữ vào các báo cáo của Lầu Năm Góc: “lá chắn silicon”.',
+    'resources.curator.community':
+      '🔍 Cuộc thi lập trình hai tháng một lần của g0v đã được tổ chức hơn 60 kỳ, mỗi kỳ thu hút hàng trăm kỹ sư, nhà thiết kế và nhân viên NGO tự nguyện tham gia. Không thù lao, không cấp trên, chỉ có một chiếc laptop và một vấn đề cần giải quyết. Bản đồ khẩu trang đã ra đời như thế: một cuối tuần, vài kỹ sư và dữ liệu thời gian thực của sáu nghìn nhà thuốc. Thung lũng Silicon hô hào “thay đổi thế giới”, còn cộng đồng nguồn mở Đài Loan trực tiếp làm ra kết quả cho bạn thấy.',
+
+    // Featured site descriptions
+    'resources.featured.dataGov':
+      'Nền tảng dữ liệu mở của chính phủ đứng đầu thế giới, với hơn 50,000 bộ dữ liệu, từ chất lượng không khí đến vị trí xe buýt theo thời gian thực, tất cả đều được tải xuống miễn phí.',
+    'resources.featured.g0vGov':
+      'Chính phủ Số Không: cộng đồng công nghệ dân sự viết lại cách thức quản trị. Từ bản đồ khẩu trang đến vTaiwan, cộng đồng này đã làm mờ ranh giới giữa hacker và nhà hoạch định chính sách.',
+    'resources.featured.legislativeYuan':
+      'Quốc hội Đài Loan, nơi phát trực tiếp các phiên họp, theo dõi dự luật và đứng ở tuyến đầu của tiến trình thảo luận dân chủ.',
+
+    'resources.featured.npm':
+      'Lưu giữ hơn 70 vạn hiện vật trải dài suốt 8000 năm, một trong những bộ sưu tập nghệ thuật Trung Hoa vĩ đại nhất thế giới, nay đã ra mắt các triển lãm kỹ thuật số.',
+    'resources.featured.ncl':
+      'Thư viện quốc gia kiêm trung tâm lưu chiểu của Đài Loan, nơi lưu giữ kho tri thức xuất bản quốc gia.',
+    'resources.featured.npgov':
+      'Cổng vào 9 vườn quốc gia, từ núi cao ba nghìn mét đến các rạn san hô, bao quát sự đa dạng sinh học phi thường trên 36,000 kilômét vuông của Đài Loan.',
+
+    'resources.featured.twreporter':
+      'Đơn vị tiên phong về báo chí điều tra phi lợi nhuận trong thế giới Hoa ngữ, chuyên phân tích sâu các vấn đề môi trường, xã hội và chính trị.',
+    'resources.featured.ptt':
+      'Diễn đàn trực tuyến lớn nhất Đài Loan. Kể từ năm 1995, 20 vạn người dùng hoạt động mỗi ngày đã tạo nên nền “dân chủ cư dân mạng” độc đáo.',
+    'resources.featured.ptsNews':
+      'Kênh tin tức truyền hình công cộng Đài Loan, cung cấp nội dung độc lập, công bằng và là chuẩn mực vàng của báo chí vì lợi ích công cộng.',
+
+    'resources.featured.tsmc':
+      'Công ty bán dẫn có giá trị nhất thế giới, sản xuất 92% số chip tiên tiến nhất dùng để vận hành AI, điện thoại thông minh và siêu máy tính.',
+    'resources.featured.twse':
+      'Trung tâm của thị trường vốn Đài Loan, nơi niêm yết TSMC và Hon Hai.',
+    'resources.featured.nhi':
+      'Hệ thống bảo hiểm y tế toàn dân bao phủ 99.9% dân số nhưng chỉ chiếm 6.6% GDP, một hình mẫu được các chuyên gia chính sách y tế toàn cầu nghiên cứu.',
+
+    'resources.featured.g0v':
+      'Cộng đồng công nghệ dân sự có ảnh hưởng hàng đầu thế giới, nơi khai sinh bản đồ khẩu trang COVID, nền tảng thảo luận vTaiwan và một bộ trưởng kỹ thuật số.',
+    'resources.featured.cofacts':
+      'Nền tảng kiểm chứng sự thật cộng tác trên LINE, nơi hàng triệu người dùng xác minh thông tin với sự hỗ trợ của AI để chống lại thông tin sai lệch.',
+    'resources.featured.taiwanmd':
+      'Dự án bạn đang xem, một bách khoa toàn thư về Đài Loan có mã nguồn mở và được cộng đồng cộng tác xây dựng.',
+
+    // Section footer
+    'resources.section.footer.verified': 'Xác minh lần cuối: 2026-03-24',
+    'resources.section.footer.reportLink': 'Báo cáo liên kết hỏng',
+
+    // Footer / Last updated
+    'resources.footer.lastUpdated': 'Cập nhật lần cuối: Tháng 3 năm 2026',
+    'resources.footer.report': 'Báo cáo liên kết hỏng',
+    'resources.footer.reportUrl':
+      'https://github.com/frank890417/taiwan-md/issues',
+    'resources.footer.stats.total': '200+',
+
+    // Site names
+    'resources.site.president': 'Phủ Tổng thống Trung Hoa Dân Quốc',
+    'resources.site.executiveYuan': 'Hành chính viện',
+    'resources.site.legislativeYuan': 'Lập pháp viện',
+    'resources.site.judicialYuan': 'Tư pháp viện',
+    'resources.site.examinationYuan': 'Khảo thí viện',
+    'resources.site.controlYuan': 'Giám sát viện',
+
+    'resources.site.mofa': 'Bộ Ngoại giao',
+    'resources.site.moda': 'Bộ Phát triển Kỹ thuật số',
+    'resources.site.cip': 'Ủy ban Dân tộc Bản địa',
+    'resources.site.moc': 'Bộ Văn hóa',
+    'resources.site.moe': 'Bộ Giáo dục',
+    'resources.site.moea': 'Bộ Kinh tế',
+    'resources.site.motc': 'Bộ Giao thông',
+    'resources.site.moi': 'Bộ Nội chính',
+    'resources.site.ndc': 'Ủy ban Phát triển Quốc gia',
+    'resources.site.mac': 'Ủy ban Đại lục',
+    'resources.site.mol': 'Bộ Lao động',
+    'resources.site.moenv': 'Bộ Môi trường',
+    'resources.site.moa': 'Bộ Nông nghiệp',
+    'resources.site.mnd': 'Bộ Quốc phòng',
+    'resources.site.moj': 'Bộ Tư pháp',
+    'resources.site.mohw': 'Bộ Y tế và Phúc lợi',
+    'resources.site.trade': 'Cục Thương mại Quốc tế, Bộ Kinh tế',
+    'resources.site.sme': 'Cục Doanh nghiệp Vừa, Nhỏ và Khởi nghiệp',
+    'resources.site.tipo': 'Cục Sở hữu Trí tuệ, Bộ Kinh tế',
+    'resources.site.fsc': 'Ủy ban Giám sát Tài chính',
+    'resources.site.immigration': 'Cục Di trú, Bộ Nội chính',
+    'resources.site.cwa': 'Cục Khí tượng Trung ương',
+    'resources.site.nstc': 'Ủy ban Khoa học và Công nghệ Quốc gia',
+
+    'resources.site.taipei': 'Chính quyền thành phố Đài Bắc',
+    'resources.site.newTaipei': 'Chính quyền thành phố Tân Bắc',
+    'resources.site.taichung': 'Chính quyền thành phố Đài Trung',
+    'resources.site.kaohsiung': 'Chính quyền thành phố Cao Hùng',
+    'resources.site.tainan': 'Chính quyền thành phố Đài Nam',
+    'resources.site.taoyuan': 'Chính quyền thành phố Đào Viên',
+    'resources.site.keelung': 'Chính quyền thành phố Cơ Long',
+    'resources.site.hsinchu': 'Chính quyền thành phố Tân Trúc',
+    'resources.site.chiayi': 'Chính quyền thành phố Chiayi',
+    'resources.site.yilan': 'Chính quyền huyện Nghi Lan',
+    'resources.site.hsinchuCounty': 'Chính quyền huyện Tân Trúc',
+    'resources.site.miaoli': 'Chính quyền huyện Miêu Lật',
+    'resources.site.changhua': 'Chính quyền huyện Chương Hóa',
+    'resources.site.nantou': 'Chính quyền huyện Nam Đầu',
+    'resources.site.yunlin': 'Chính quyền huyện Vân Lâm',
+    'resources.site.chiayiCounty': 'Chính quyền huyện Chiayi',
+    'resources.site.pingtung': 'Chính quyền huyện Bình Đông',
+    'resources.site.taitung': 'Chính quyền huyện Đài Đông',
+    'resources.site.hualien': 'Chính quyền huyện Hoa Liên',
+    'resources.site.penghu': 'Chính quyền huyện Bành Hồ',
+    'resources.site.kinmenGov': 'Chính quyền huyện Kim Môn',
+    'resources.site.lienchiang': 'Chính quyền huyện Liên Giang',
+    'resources.site.dataGov': 'Nền tảng dữ liệu mở của Chính phủ',
+    'resources.site.taiwanGov': 'Cổng thông tin Chính phủ',
+    'resources.site.lawDb': 'Cơ sở dữ liệu pháp luật toàn quốc',
+    'resources.site.g0v': 'g0v Chính phủ Số Không',
+
+    'resources.site.ntu': 'Đại học Quốc lập Đài Loan',
+    'resources.site.nthu': 'Đại học Quốc lập Thanh Hoa',
+    'resources.site.nycu': 'Đại học Quốc lập Dương Minh Giao Thông',
+    'resources.site.ncku': 'Đại học Quốc lập Thành Công',
+    'resources.site.nccu': 'Đại học Quốc lập Chính trị',
+    'resources.site.ntnu': 'Đại học Sư phạm Quốc lập Đài Loan',
+    'resources.site.sinica': 'Viện Nghiên cứu Trung ương',
+    'resources.site.tesd':
+      'Nền tảng dữ liệu khảo sát thực chứng Kinh nghiệm Đài Loan',
+    'resources.site.tcs': 'Cơ sở dữ liệu Khảo sát Truyền thông Đài Loan',
+    'resources.site.brill': 'Bách khoa toàn thư Nghiên cứu Đài Loan Brill',
+    'resources.site.itri': 'Viện Nghiên cứu Công nghệ Công nghiệp',
+    'resources.site.niar': 'Viện Nghiên cứu Thực nghiệm Quốc gia',
+    'resources.site.airitilibrary': 'Thư viện trực tuyến Airiti',
+    'resources.site.ndltd':
+      'Hệ thống tri thức gia tăng luận văn thạc sĩ và tiến sĩ Đài Loan',
+
+    'resources.site.ncl': 'Thư viện Quốc gia',
+    'resources.site.npm': 'Bảo tàng Cố Cung Quốc gia',
+    'resources.site.ntm': 'Bảo tàng Quốc gia Đài Loan',
+    'resources.site.nmth': 'Bảo tàng Lịch sử Quốc gia Đài Loan',
+    'resources.site.nmns': 'Bảo tàng Khoa học Tự nhiên Quốc gia',
+    'resources.site.nmmba': 'Bảo tàng Sinh vật Biển Quốc gia',
+    'resources.site.nmtl': 'Bảo tàng Văn học Quốc gia Đài Loan',
+    'resources.site.ntmofa': 'Bảo tàng Mỹ thuật Quốc gia Đài Loan',
+
+    'resources.site.tfam': 'Bảo tàng Mỹ thuật Thành phố Đài Bắc',
+    'resources.site.kmfa': 'Bảo tàng Mỹ thuật Thành phố Cao Hùng',
+    'resources.site.npacNtt': 'Nhà hát Quốc gia Đài Trung',
+    'resources.site.npacNtch': 'Nhà hát và Phòng hòa nhạc Quốc gia',
+    'resources.site.weiwuying': 'Trung tâm Nghệ thuật Vệ Vũ Doanh',
+    'resources.site.songshan': 'Công viên Văn hóa Sáng tạo Tùng Sơn',
+    'resources.site.huashan': 'Công viên Văn hóa Sáng tạo Hoa Sơn',
+    'resources.site.pier2': 'Đặc khu Nghệ thuật Bác Nhị',
+    'resources.site.digitalArchives': 'Kho lưu trữ số Đài Loan',
+    'resources.site.scitechVista': 'Công viên Toàn cảnh Khoa học Công nghệ',
+    'resources.site.tcmb': 'Kho Ký ức Văn hóa Quốc gia',
+    'resources.site.taicca': 'Viện Nội dung Văn hóa TAICCA',
+
+    'resources.site.yushan': 'Vườn quốc gia Ngọc Sơn',
+    'resources.site.taroko': 'Vườn quốc gia Taroko',
+    'resources.site.kenting': 'Vườn quốc gia Khẩn Đinh',
+    'resources.site.sheipa': 'Vườn quốc gia Tuyết Bá',
+    'resources.site.yangmingshan': 'Vườn quốc gia Dương Minh Sơn',
+    'resources.site.kinmenPark': 'Vườn quốc gia Kim Môn',
+    'resources.site.taijiang': 'Vườn quốc gia Đài Giang',
+    'resources.site.dongsha': 'Vườn quốc gia Rạn san hô vòng Đông Sa',
+    'resources.site.southPenghu': 'Vườn quốc gia Bốn đảo phía Nam Bành Hồ',
+    'resources.site.taiwanTourism': 'Taiwan Tourism',
+    'resources.site.sunMoonLake': 'Khu thắng cảnh quốc gia Nhật Nguyệt Đàm',
+    'resources.site.alishan': 'Khu thắng cảnh quốc gia A Lý Sơn',
+
+    'resources.site.cna': 'Thông tấn xã Trung ương',
+    'resources.site.pts': 'Đài Truyền hình Công cộng',
+    'resources.site.focusTaiwan': 'Focus Taiwan',
+    'resources.site.taiwanToday': 'Taiwan Today',
+    'resources.site.panorama': 'Tạp chí Taiwan Panorama',
+    'resources.site.rti': 'Đài Phát thanh Trung ương',
+    'resources.site.udn': 'Mạng Tin tức Liên Hợp',
+    'resources.site.ltn': 'Thời báo Tự do',
+    'resources.site.tvbs': 'Mạng Tin tức TVBS',
+    'resources.site.setn': 'Mạng Tin tức Tam Lập',
+    'resources.site.ebc': 'Tin tức Đông Sâm',
+    'resources.site.commonwealth': 'Tạp chí Thiên Hạ',
+    'resources.site.businesstoday': 'Tuần san Kim Chu',
+    'resources.site.businessweekly': 'Tuần san Thương nghiệp',
+
+    'resources.site.twreporter': 'The Reporter',
+    'resources.site.taiwanNews': 'Taiwan News',
+    'resources.site.thenewslens': 'The News Lens',
+    'resources.site.upmedia': 'Thượng Báo',
+    'resources.site.storm': 'Phong Truyền Thông',
+
+    'resources.site.tahr': 'Hiệp hội Thúc đẩy Nhân quyền Đài Loan',
+    'resources.site.teia': 'Hiệp hội Thông tin Môi trường Đài Loan',
+    'resources.site.sow': 'Hiệp hội Bảo vệ Thiên nhiên Hoang dã',
+    'resources.site.ocf': 'Quỹ Văn hóa Mở',
+    'resources.site.tfc': 'Trung tâm Kiểm chứng Thông tin Đài Loan',
+    'resources.site.twnic': 'Trung tâm Thông tin Mạng Đài Loan',
+    'resources.site.wikimedia': 'Hiệp hội Wikimedia Đài Loan',
+    'resources.site.digitalDiplomacy':
+      'Hiệp hội Ngoại giao Kỹ thuật số Đài Loan',
+
+    'resources.site.tsmc': 'Công ty Sản xuất Chất bán dẫn Đài Loan',
+    'resources.site.umc': 'Liên Hoa Điện tử',
+    'resources.site.foxconn': 'Công nghệ Hồng Hải',
+    'resources.site.delta': 'Điện tử Delta',
+    'resources.site.taiwanExcellence': 'Taiwan Excellence',
+    'resources.site.cht': 'Viễn thông Trung Hoa',
+    'resources.site.taipower': 'Công ty Điện lực Đài Loan',
+    'resources.site.iii': 'Viện Công nghiệp Thông tin',
+    'resources.site.investTaiwan': 'Đầu tư Đài Loan',
+
+    'resources.site.railway': 'Đường sắt Đài Loan',
+    'resources.site.thsrc': 'Đường sắt cao tốc Đài Loan',
+    'resources.site.taiwanTrip': 'Xe buýt du lịch Đài Loan',
+    'resources.site.taoyuanAirport': 'Sân bay Quốc tế Đào Viên',
+    'resources.site.metroTaipei': 'Tàu điện ngầm Đài Bắc',
+    'resources.site.krtc': 'Tàu điện ngầm Cao Hùng',
+
+    'resources.site.cdc': 'Cơ quan Kiểm soát Dịch bệnh',
+    'resources.site.nhi': 'Cơ quan Bảo hiểm Y tế Quốc gia',
+    'resources.site.ntuh': 'Bệnh viện Đại học Quốc lập Đài Loan',
+    'resources.site.vghtpe': 'Bệnh viện Đa khoa Cựu chiến binh Đài Bắc',
+    'resources.site.cgmh': 'Hệ thống Y tế Trường Canh',
+    'resources.site.cmuh': 'Bệnh viện trực thuộc Đại học Y dược Trung Quốc',
+    'resources.site.kmuh': 'Bệnh viện trực thuộc Đại học Y khoa Cao Hùng',
+
+    'resources.site.stat': 'Thống kê Quốc gia',
+    'resources.site.twse': 'Sở Giao dịch Chứng khoán Đài Loan',
+    'resources.site.tpex': 'Trung tâm Giao dịch Chứng khoán Phi tập trung',
+
+    'resources.site.github': 'Kho dự án GitHub',
+    'resources.site.contribute': 'Hướng dẫn đóng góp',
+    'resources.site.rss': 'Đăng ký RSS',
+
+    // New community site names
+    'resources.site.electionMap': 'Bản đồ bầu cử Đài Loan',
+    'resources.site.maskMap': 'Bản đồ khẩu trang（2020）',
+    'resources.site.goodinfo': 'Goodinfo Thông tin chứng khoán Đài Loan',
+    'resources.site.ccw': 'Liên minh Công dân Giám sát Quốc hội',
+    'resources.site.thaubing': 'Dấu chân Minh bạch',
+    'resources.site.politicalDonation':
+      'Tra cứu công khai tiền quyên góp chính trị',
+    'resources.site.burgerMap': 'Bản đồ hamburger Đài Bắc',
+    'resources.site.nightMarket': 'App chợ đêm',
+    'resources.site.cofacts': 'Cofacts Thật hay giả',
+    'resources.site.disfactory':
+      'Disfactory Nhà máy trái phép trên đất nông nghiệp',
+    'resources.site.ptt': 'PTT BBS',
+    'resources.site.ptsNews': 'Mạng Tin tức Truyền hình Công cộng',
+    'resources.site.npgov': 'Cổng thông tin Vườn quốc gia',
+    'resources.site.taiwanmd': 'Taiwan.md',
+  },
+  id: {
+    // Meta
+    'resources.meta.title': 'Panduan Sumber Daya Taiwan - Taiwan.md',
+    'resources.meta.description':
+      'Kumpulan lengkap situs web resmi lembaga pemerintah Taiwan, institusi budaya, platform data terbuka, dan lainnya, sebagai gerbang terpadu menuju informasi kebijakan, konten budaya, dan data statistik',
+
+    // Hero
+    'resources.hero.title': 'Panduan Sumber Daya Taiwan',
+    'resources.hero.subtitle.html':
+      'Kumpulan lengkap sumber daya resmi dari lembaga pemerintah, institusi budaya, data terbuka, dan lainnya<br />Akses terpadu ke sumber informasi Taiwan yang paling tepercaya',
+
+    // Breadcrumb
+    'resources.breadcrumb.home': 'Beranda',
+    'resources.breadcrumb.current': 'Sumber Daya',
+
+    // Core section
+    'resources.core.title': '🏆 Pilihan Utama',
+    'resources.core.desc':
+      'Sumber daya tepercaya Taiwan terpenting yang ditampilkan dalam peta pikiran',
+
+    // More section
+    'resources.more.title': '🔍 Kategori Lainnya',
+    'resources.more.desc':
+      'Mencakup pemerintah daerah, universitas, dan sumber daya terperinci dari berbagai bidang',
+
+    // Category labels (heroData)
+    'resources.category.government.label': '🏛️ Lembaga Resmi',
+    'resources.category.culture.label': '📚 Budaya dan Pendidikan',
+    'resources.category.tourism.label': '✈️ Pariwisata dan Perjalanan',
+    'resources.category.economy.label': '💼 Teknologi dan Ekonomi',
+    'resources.category.media.label': '📰 Media dan Berita',
+    'resources.category.opendata.label': '🌐 Data Terbuka',
+    'resources.category.taiwanmd.label': '📡 Terkait Taiwan.md',
+
+    // Section titles & descriptions
+    'resources.section.localGov.title': '🏙️ Pemerintah Daerah',
+    'resources.section.localGov.desc':
+      'Situs web resmi enam munisipalitas khusus serta pemerintah kabupaten dan kota di Taiwan',
+
+    'resources.section.universities.title':
+      '🎓 Universitas dan Lembaga Penelitian',
+    'resources.section.universities.desc':
+      'Universitas terkemuka dan lembaga penelitian penting di Taiwan',
+
+    'resources.section.nationalParks.title': '🏔️ Taman Nasional',
+    'resources.section.nationalParks.desc':
+      'Kantor pengelola taman nasional dan kawasan wisata Taiwan',
+
+    'resources.section.artsCulture.title': '🎭 Sarana Seni dan Budaya',
+    'resources.section.artsCulture.desc':
+      'Museum, galeri seni, dan tempat pertunjukan penting',
+
+    'resources.section.healthcare.title': '🏥 Kesehatan dan Layanan Medis',
+    'resources.section.healthcare.desc':
+      'Otoritas kesehatan dan lembaga medis penting',
+
+    'resources.section.ngoSociety.title': '🤝 LSM / Masyarakat Sipil',
+    'resources.section.ngoSociety.desc':
+      'Organisasi nirlaba dan kelompok penting masyarakat sipil',
+
+    'resources.section.ministries.title': '🏛️ Kementerian dan Badan',
+    'resources.section.ministries.desc':
+      'Berbagai kementerian dan lembaga terkait di bawah Yuan Eksekutif',
+
+    'resources.section.companies.title': '🏢 Perusahaan Penting',
+    'resources.section.companies.desc':
+      'Perusahaan terkemuka dan perusahaan teknologi Taiwan',
+
+    'resources.section.mediaExtra.title': '📺 Media Tradisional',
+    'resources.section.mediaExtra.desc':
+      'Media berita arus utama serta lembaga penyiaran radio dan televisi',
+
+    'resources.section.transportation.title': '🚄 Transportasi',
+    'resources.section.transportation.desc':
+      'Angkutan umum dan layanan transportasi',
+
+    'resources.section.digitalCulture.title': '💾 Budaya Digital',
+    'resources.section.digitalCulture.desc':
+      'Platform arsip digital dan pendidikan sains populer',
+
+    // Projects
+    'resources.projects.title': '🚀 Proyek Komunitas',
+    'resources.projects.desc':
+      'Kreativitas dan semangat dari komunitas untuk mengenal Taiwan melalui kode',
+
+    'resources.projects.food.title': '🍔 Peta Kuliner',
+    'resources.projects.food.burger.name': 'Peta Burger Taipei',
+    'resources.projects.food.burger.desc':
+      'Peta interaktif peringkat restoran burger Taipei berdasarkan tingkat kualitas (T0-T6), dengan penyaringan menurut distrik administratif',
+    'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
+
+    'resources.projects.nightmarket.title': '🌙 Panduan Pasar Malam',
+    'resources.projects.nightmarket.app.name': 'NightMarketSwift',
+    'resources.projects.nightmarket.app.desc':
+      'Aplikasi iOS pasar malam Taiwan yang memuat lebih dari 400 lokasi pasar malam, lengkap dengan jam operasional dan navigasi Google Maps',
+    'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
+
+    'resources.projects.civictech.title': '🗳️ Teknologi Sipil',
+    'resources.projects.civictech.g0v.name': 'g0v Pemerintah Nol',
+    'resources.projects.civictech.g0v.desc':
+      'Komunitas teknologi sipil terbesar di Taiwan yang mendorong pemerintahan terbuka dan transparansi informasi',
+    'resources.projects.civictech.g0v.tech': 'Beragam Teknologi',
+
+    'resources.projects.civictech.cofacts.name': 'Cofacts Benar atau Tidak',
+    'resources.projects.civictech.cofacts.desc':
+      'Bot percakapan pemeriksa fakta kolaboratif berbasis urun daya untuk melawan disinformasi',
+    'resources.projects.civictech.cofacts.tech': 'JavaScript / GraphQL',
+
+    'resources.projects.civictech.disfactory.name':
+      'Disfactory Pabrik Ilegal di Lahan Pertanian',
+    'resources.projects.civictech.disfactory.desc':
+      'Platform pelaporan warga untuk pabrik ilegal di lahan pertanian demi melindungi lahan pertanian Taiwan',
+    'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
+
+    // CTA & Links
+    'resources.projects.cta.html':
+      'Punya proyek yang ingin direkomendasikan? Silakan kirim rekomendasi melalui <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a>!',
+    'resources.projects.github.link': 'GitHub',
+    'resources.backToHome': '← Kembali ke Beranda',
+
+    // Mindmap
+    'resources.mindmap.root.label': '🇹🇼 Sumber Daya Taiwan',
+
+    // Chapter nav labels
+    'resources.nav.governance': 'Tata Kelola',
+    'resources.nav.culture': 'Budaya',
+    'resources.nav.media': 'Media',
+    'resources.nav.economy': 'Ekonomi',
+    'resources.nav.community': 'Komunitas',
+
+    // Chapter titles & stories
+    'resources.chapter.government.title': 'Gerbang Tata Kelola Negara',
+    'resources.chapter.government.story':
+      'Pada Februari 2020, seorang insinyur Taiwan menghubungkan data stok masker waktu nyata dari 6,000 apotek dalam satu akhir pekan. Satu orang, satu laptop, 72 jam. Hal ini dapat terwujud karena 50,000+ kumpulan data pemerintah di data.gov.tw selalu tersedia untuk digunakan siapa saja. Taiwan menanamkan prinsip “transparansi tata kelola” ke dalam setiap API yang dapat diunduh.',
+    'resources.chapter.culture.title': 'Khazanah Budaya dan Pengetahuan',
+    'resources.chapter.culture.story':
+      'Di wilayah seluas kurang dari 36,000 kilometer persegi, Taiwan memiliki 159 universitas, lebih dari 500 museum, 9 taman nasional, serta bentang alam dari Gunung Yushan setinggi 3,952 meter hingga pesisir terumbu karang. Museum Istana Nasional menyimpan hampir 700 ribu khazanah budaya Tionghoa, sementara perayaan kuil di sudut jalan juga merupakan warisan budaya yang hidup. Kepadatan budaya negara ini jauh melampaui ukurannya di peta.',
+    'resources.chapter.media.title': 'Mendengar Suara Taiwan',
+    'resources.chapter.media.story':
+      'Pada 1995, mahasiswa Universitas Nasional Taiwan mendirikan sebuah server BBS di asrama dan menamainya PTT. 30 tahun kemudian, forum berantarmuka teks murni ini tetap menjadi platform diskusi publik paling berpengaruh di Taiwan. Selama Gerakan Bunga Matahari pada 2014, PTT menjadi sumber informasi waktu nyata yang paling cepat dan lengkap. Dalam ekosistem media Taiwan, dari surat kabar arus utama hingga forum warganet, setiap lapisan memperjuangkan hak bersuara dalam demokrasi.',
+    'resources.chapter.economy.title': 'Penggerak Ekonomi dan Kehidupan',
+    'resources.chapter.economy.story':
+      'Dari setiap dua ponsel di seluruh dunia, satu di antaranya menggunakan cip buatan TSMC, yang oleh para ahli geopolitik disebut sebagai “Perisai Silikon”. Namun, cip hanyalah puncak gunung es: jaminan kesehatan nasional dengan cakupan 99.9%, satu minimarket setiap 2.3 kilometer persegi, dan kereta cepat yang menempuh Taipei–Kaohsiung dalam 90 menit. Kehidupan sehari-hari 2,300 juta orang ditopang oleh sebuah sistem presisi yang nyaris tak terasa, tetapi hadir di mana-mana.',
+    'resources.chapter.community.title': 'Teknologi Sipil dan Komunitas',
+    'resources.chapter.community.story':
+      'Moto g0v adalah “Jangan bertanya mengapa tidak ada yang mengerjakannya, karena Andalah si ‘tidak ada’ itu.” Peta masker, bot pemeriksa berita palsu, dan pelacak janji pemilu, semuanya lahir dari hackathon akhir pekan. Di Taiwan, partisipasi warga berbentuk seperti ini: menulis program, membuka Issue, dan mengirim Pull Request. Taiwan.md juga merupakan buah dari semangat ini.',
+
+    // Insight cards
+    'resources.insight.gov.branches.number': '5',
+    'resources.insight.gov.branches.label': 'lembaga setingkat yuan',
+    'resources.insight.gov.ministries.number': '20+',
+    'resources.insight.gov.ministries.label': 'kementerian dan badan',
+    'resources.insight.gov.local.number': '22',
+    'resources.insight.gov.local.label': 'pemerintah kabupaten dan kota',
+
+    'resources.insight.culture.universities.number': '159',
+    'resources.insight.culture.universities.label': 'universitas',
+    'resources.insight.culture.museums.number': '500+',
+    'resources.insight.culture.museums.label': 'museum',
+    'resources.insight.culture.parks.number': '9',
+    'resources.insight.culture.parks.label': 'taman nasional',
+
+    'resources.insight.media.ptt.number': '200 ribu',
+    'resources.insight.media.ptt.label': 'pengguna aktif harian PTT',
+    'resources.insight.media.outlets.number': '100+',
+    'resources.insight.media.outlets.label': 'media',
+    'resources.insight.media.ngo.number': '1000+',
+    'resources.insight.media.ngo.label': 'NGO',
+
+    'resources.insight.econ.tsmc.number': '92%',
+    'resources.insight.econ.tsmc.label': 'proses manufaktur canggih TSMC',
+    'resources.insight.econ.hsr.number': '99.5%',
+    'resources.insight.econ.hsr.label': 'ketepatan waktu kereta cepat',
+    'resources.insight.econ.nhi.number': '99.9%',
+    'resources.insight.econ.nhi.label': 'cakupan jaminan kesehatan nasional',
+
+    'resources.insight.community.g0v.number': '2012',
+    'resources.insight.community.g0v.label': 'g0v didirikan',
+    'resources.insight.community.contributors.number': '10K+',
+    'resources.insight.community.contributors.label': 'kontributor',
+    'resources.insight.community.projects.number': '800+',
+    'resources.insight.community.projects.label': 'proyek',
+
+    // Subcategory titles
+    'resources.sub.fiveYuan': 'Lima Yuan Utama',
+    'resources.sub.fiveYuan.desc':
+      'Kelima yuan ini membentuk sistem pemisahan lima kekuasaan yang unik di Taiwan, satu-satunya di dunia.',
+    'resources.sub.ministries': 'Kementerian dan Badan',
+    'resources.sub.ministries.desc':
+      'Dari Kementerian Urusan Digital hingga Dewan Masyarakat Adat, setiap kementerian dan badan memiliki bagian data terbukanya sendiri.',
+    'resources.sub.localGov': 'Pemerintah Daerah',
+    'resources.sub.localGov.desc':
+      '22 kabupaten dan kota, dengan 22 gaya tata kelola lokal. Persaingan kota pintar di enam munisipalitas khusus tengah mendefinisikan ulang layanan bagi warga.',
+    'resources.sub.openData': 'Data Terbuka',
+    'resources.sub.openData.desc':
+      'Inilah titik awal keajaiban teknologi sipil Taiwan. Peta masker, reservasi vaksin, dan pemantauan kualitas udara, semuanya bermula dari platform-platform ini.',
+    'resources.sub.universities':
+      'Universitas dan Lembaga Penelitian Terkemuka',
+    'resources.sub.universities.desc':
+      'Universitas di Taiwan tidak hanya mengajar. Laboratorium komputasi kuantum NTU dan pusat penelitian semikonduktor NCKU merupakan simpul penting dalam jaringan akademik global.',
+    'resources.sub.museums': 'Museum dan Perpustakaan',
+    'resources.sub.museums.desc':
+      'Dari Kubis Giok di Museum Istana Nasional hingga koleksi biola Museum Chimei, museum-museum Taiwan adalah pintu ajaib yang melintasi ruang dan waktu.',
+    'resources.sub.venues': 'Ruang Seni Budaya dan Industri Kreatif',
+    'resources.sub.venues.desc':
+      'Ekosistem seni budaya Taiwan tengah berkembang pesat. C-LAB, Teater Nasional dan Gedung Konser Nasional, serta National Kaohsiung Center for the Arts, memiliki kepadatan fasilitas kelas dunia yang bahkan membuat New York iri.',
+    'resources.sub.parks': 'Taman Nasional dan Kawasan Pemandangan',
+    'resources.sub.parks.desc':
+      'Dari ketinggian 0 hingga 3,952 meter, 9 taman nasional Taiwan mencakup seluruh zona iklim di Bumi. Dalam satu hari, Anda dapat berjalan dari terumbu karang tropis hingga batas salju pegunungan.',
+    'resources.sub.mainstream': 'Media Arus Utama',
+    'resources.sub.mainstream.desc':
+      'Dari pencabutan larangan penerbitan surat kabar setelah berakhirnya darurat militer pada 1988 hingga persaingan saluran berita 24 jam saat ini, kebebasan media Taiwan diperoleh dengan perjuangan panjang.',
+    'resources.sub.digital': 'Media Digital-Natif',
+    'resources.sub.digital.desc':
+      'Ketika media tradisional berjuang bertahan, media digital-natif Taiwan tengah mendefinisikan ulang jurnalisme. Model nirlaba The Reporter membuktikan bahwa laporan mendalam dapat bertahan tanpa iklan.',
+    'resources.sub.ngo': 'Masyarakat Sipil dan NGO',
+    'resources.sub.ngo.desc':
+      'Kepadatan NGO di Taiwan adalah yang tertinggi di Asia. Dari lingkungan hidup hingga hak asasi manusia, organisasi-organisasi ini tidak hanya mengawasi pemerintah, tetapi juga sering berada di garis depan kebijakan.',
+    'resources.sub.companies': 'Pemimpin Industri',
+    'resources.sub.companies.desc':
+      'Dari TSMC hingga Hon Hai, nama perusahaan-perusahaan ini muncul dalam laporan rantai pasok di seluruh dunia.',
+    'resources.sub.transport': 'Transportasi',
+    'resources.sub.transport.desc':
+      'Kereta cepat Taiwan menghubungkan Taipei dan Kaohsiung hanya dalam 90 menit. Ditambah MRT, sistem informasi bus waktu nyata, dan YouBike, transportasi umum Taiwan adalah juara tersembunyi Asia.',
+    'resources.sub.healthcare': 'Layanan Kesehatan',
+    'resources.sub.healthcare.desc':
+      'Jaminan kesehatan nasional: satu kartu, cakupan 99.9%, dan waktu tunggu rata-rata 15 menit. Bahkan Amerika Serikat mempelajari bagaimana Taiwan mewujudkannya.',
+    'resources.sub.finance': 'Keuangan dan Data',
+    'resources.sub.finance.desc':
+      'Bursa Efek Taiwan adalah salah satu pasar paling transparan di Asia. Dari laporan keuangan perusahaan terbuka hingga data perdagangan waktu nyata, semuanya terbuka dan dapat diperiksa.',
+    'resources.sub.civicTech': 'Proyek Teknologi Sipil',
+    'resources.sub.foodMaps': 'Peta Kuliner dan Budaya',
+
+    // Related articles
+    'resources.related.democracy':
+      'Bacaan lanjutan: Transformasi Demokrasi Taiwan',
+    'resources.related.label': 'Bacaan lanjutan',
+    'resources.related.government.1': 'Transformasi Demokrasi Taiwan',
+    'resources.related.government.2': 'Pemilu dan Politik Partai',
+    'resources.related.government.3': 'Komunitas Sumber Terbuka dan g0v',
+    'resources.related.culture.1': 'Budaya Masyarakat Adat',
+    'resources.related.culture.2': 'Sistem Pendidikan',
+    'resources.related.culture.3': 'Taman Nasional',
+    'resources.related.media.1': 'Gerakan Mahasiswa Bunga Matahari',
+    'resources.related.media.2': 'Media dan Kebebasan Pers',
+    'resources.related.media.3': 'PTT',
+    'resources.related.economy.1': 'TSMC',
+    'resources.related.economy.2': 'Industri Semikonduktor',
+    'resources.related.economy.3': 'Jaminan Kesehatan Nasional',
+    'resources.related.community.1': 'Komunitas Sumber Terbuka dan g0v',
+    'resources.related.community.2': 'Gerakan Sosial dan Partisipasi Warga',
+    'resources.related.community.3': 'Pemerintahan Digital',
+
+    // Footer stats
+    'resources.stats.collected': 'sumber terkumpul',
+    'resources.stats.chapters': 'bab utama',
+    'resources.stats.subcategories': 'subkategori',
+
+    // Search
+    'resources.search.placeholder': 'Cari sumber daya...',
+
+    // Aria labels
+    'resources.aria.viewGithub': 'Lihat proyek GitHub',
+    'resources.aria.backToTop': 'Kembali ke atas',
+
+    // Reading Guide
+    'resources.guide.title': 'Mulai dari mana',
+    'resources.guide.desc':
+      'Bayangkan Anda baru saja mendarat di Taiwan tanpa buku panduan wisata. “Tata kelola” memperlihatkan sistem operasinya: bagaimana sebuah negara demokrasi muda berjalan dengan transparansi radikal. “Budaya” adalah jiwanya: 500 museum, 15,000 festival kuil setiap tahun, dan 16 bahasa masyarakat adat, semuanya berdesakan di sebuah pulau yang lebih kecil daripada Swiss. “Media” menyingkap percakapan: sebuah forum berbasis teks murni berusia 30 tahun masih memengaruhi pemilu hingga kini, sementara ruang redaksi nirlaba paling berani di Asia berada di sini. “Ekonomi” adalah denyut nadinya: satu perusahaan memproduksi 92% cip canggih dunia, sementara biaya asuransi kesehatan nasional lebih murah daripada tagihan ponsel Anda. “Komunitas” adalah undangannya: bergabunglah dengan para warga sumber terbuka yang membangun perangkat sipil melalui hackathon akhir pekan.',
+
+    // Curator Notes
+    'resources.curator.government':
+      '🔍 Selama COVID-19, pengembang sipil Taiwan membuat peta masker dan sistem reservasi vaksin dalam 72 jam. Di balik kecepatan ini terdapat platform data terbuka pemerintah yang masuk tiga besar dunia, dengan 50,000+ set data, API waktu nyata, dan akses bagi siapa saja. Ketika pengembang di negara lain masih menunggu pemerintah mengadakan konferensi pers, pengembang Taiwan sudah menulis code.',
+    'resources.curator.culture':
+      '🔍 Tidak banyak orang tahu bahwa kepadatan museum Taiwan termasuk yang tertinggi di Asia. Namun, angka hanyalah permukaan; yang benar-benar istimewa adalah budaya yang “hidup”: lebih dari 15,000 festival dan ritual kuil setiap tahun, 16 bahasa masyarakat adat, serta lomba lagu rakyat Hakka. Budaya Taiwan tidak hanya berada di dalam lemari kaca; budaya itu berjalan di jalanan.',
+    'resources.curator.media':
+      '🔍 Seberapa besar pengaruh PTT? Selama referendum 2018, volume diskusi di forum Gossiping PTT secara langsung memengaruhi tingkat partisipasi pemilih. Keberadaan The Reporter bahkan lebih mengagumkan: media investigasi yang sepenuhnya beroperasi dari donasi dan selama bertahun-tahun berturut-turut masuk nominasi penghargaan jurnalisme Asia. Di era maraknya berita palsu, Taiwan memiliki budaya warganet paling aktif sekaligus komunitas pemeriksa fakta paling serius. Kontradiksi ini sendiri merupakan daya hidup demokrasi.',
+    'resources.curator.economy':
+      '🔍 Ketika berbagai negara memperdebatkan berapa besar subsidi untuk “undang-undang cip”, Taiwan telah menghabiskan 30 tahun menuliskan jawabannya di atas wafer: sebuah pulau kecil tanpa minyak dan bijih besi yang mengandalkan talenta serta proses berskala nanometer untuk menguasai 92% kapasitas produksi cip canggih dunia. Angka ini menambahkan satu istilah ke dalam laporan Pentagon: “Perisai Silikon”.',
+    'resources.curator.community':
+      '🔍 Hackathon dua bulanan g0v telah diselenggarakan lebih dari 60 kali, dengan ratusan insinyur, desainer, dan pekerja NGO yang hadir secara sukarela setiap kalinya. Tanpa bayaran, tanpa atasan, hanya sebuah laptop dan masalah yang ingin diselesaikan. Beginilah peta masker lahir: satu akhir pekan, beberapa insinyur, dan data waktu nyata dari enam ribu apotek. Silicon Valley menyerukan “mengubah dunia”, sedangkan komunitas sumber terbuka Taiwan langsung memperlihatkan caranya kepada Anda.',
+
+    // Featured site descriptions
+    'resources.featured.dataGov':
+      'Platform data terbuka pemerintah peringkat pertama dunia, dengan lebih dari 50,000 set data, mulai dari kualitas udara hingga posisi bus waktu nyata, semuanya dapat diunduh gratis.',
+    'resources.featured.g0vGov':
+      'Pemerintah Nol: komunitas teknologi sipil yang menulis ulang tata kelola. Dari peta masker hingga vTaiwan, komunitas ini mengaburkan batas antara peretas dan pembuat kebijakan.',
+    'resources.featured.legislativeYuan':
+      'Parlemen Taiwan, dengan siaran langsung persidangan dan pelacakan rancangan undang-undang, berada di garis depan deliberasi demokratis.',
+
+    'resources.featured.npm':
+      'Menyimpan lebih dari 700 ribu artefak yang mencakup 8000 tahun, salah satu koleksi seni Tionghoa terhebat di dunia, dan kini menghadirkan pameran digital.',
+    'resources.featured.ncl':
+      'Perpustakaan nasional sekaligus pusat serah simpan Taiwan, pusat koleksi pengetahuan terbitan negara.',
+    'resources.featured.npgov':
+      'Gerbang menuju 9 taman nasional, dari pegunungan setinggi tiga ribu meter hingga terumbu karang, yang mencakup keanekaragaman hayati luar biasa di wilayah Taiwan seluas 36,000 kilometer persegi.',
+
+    'resources.featured.twreporter':
+      'Pelopor jurnalisme investigasi nirlaba di dunia berbahasa Tionghoa, yang mengulas secara mendalam isu lingkungan, sosial, dan politik.',
+    'resources.featured.ptt':
+      'Forum internet terbesar di Taiwan. Sejak 1995, 200 ribu pengguna aktif harian menggerakkan “demokrasi warganet” yang unik.',
+    'resources.featured.ptsNews':
+      'Berita Televisi Publik Taiwan, dengan pemberitaan independen dan berimbang, standar emas jurnalisme kepentingan publik.',
+
+    'resources.featured.tsmc':
+      'Perusahaan semikonduktor paling bernilai di dunia, yang memproduksi 92% cip tercanggih untuk menggerakkan AI, ponsel pintar, dan superkomputer.',
+    'resources.featured.twse':
+      'Jantung pasar modal Taiwan, tempat TSMC dan Hon Hai tercatat di bursa.',
+    'resources.featured.nhi':
+      'Asuransi kesehatan nasional yang mencakup 99.9% penduduk dengan biaya hanya 6.6% dari GDP, sebuah teladan yang dikaji para pakar kebijakan kesehatan dunia.',
+
+    'resources.featured.g0v':
+      'Komunitas teknologi sipil paling berpengaruh di dunia, yang melahirkan peta masker COVID, platform deliberasi vTaiwan, dan seorang menteri digital.',
+    'resources.featured.cofacts':
+      'Pemeriksaan fakta kolaboratif di LINE, tempat jutaan pengguna melawan informasi palsu melalui verifikasi berbantuan AI.',
+    'resources.featured.taiwanmd':
+      'Proyek yang sedang Anda lihat sekarang, ensiklopedia Taiwan yang bersumber terbuka dan dikerjakan secara kolaboratif oleh komunitas.',
+
+    // Section footer
+    'resources.section.footer.verified': 'Terakhir diverifikasi: 2026-03-24',
+    'resources.section.footer.reportLink': 'Laporkan tautan rusak',
+
+    // Footer / Last updated
+    'resources.footer.lastUpdated': 'Terakhir diperbarui: Maret 2026',
+    'resources.footer.report': 'Laporkan tautan rusak',
+    'resources.footer.reportUrl':
+      'https://github.com/frank890417/taiwan-md/issues',
+    'resources.footer.stats.total': '200+',
+
+    // Site names
+    'resources.site.president':
+      'Kantor Kepresidenan Republik Tiongkok (Taiwan)',
+    'resources.site.executiveYuan': 'Yuan Eksekutif',
+    'resources.site.legislativeYuan': 'Yuan Legislatif',
+    'resources.site.judicialYuan': 'Yuan Yudisial',
+    'resources.site.examinationYuan': 'Yuan Ujian',
+    'resources.site.controlYuan': 'Yuan Pengawas',
+
+    'resources.site.mofa': 'Kementerian Luar Negeri',
+    'resources.site.moda': 'Kementerian Urusan Digital',
+    'resources.site.cip': 'Dewan Masyarakat Adat',
+    'resources.site.moc': 'Kementerian Kebudayaan',
+    'resources.site.moe': 'Kementerian Pendidikan',
+    'resources.site.moea': 'Kementerian Perekonomian',
+    'resources.site.motc': 'Kementerian Perhubungan dan Komunikasi',
+    'resources.site.moi': 'Kementerian Dalam Negeri',
+    'resources.site.ndc': 'Dewan Pembangunan Nasional',
+    'resources.site.mac': 'Dewan Urusan Tiongkok Daratan',
+    'resources.site.mol': 'Kementerian Ketenagakerjaan',
+    'resources.site.moenv': 'Kementerian Lingkungan Hidup',
+    'resources.site.moa': 'Kementerian Pertanian',
+    'resources.site.mnd': 'Kementerian Pertahanan Nasional',
+    'resources.site.moj': 'Kementerian Kehakiman',
+    'resources.site.mohw': 'Kementerian Kesehatan dan Kesejahteraan',
+    'resources.site.trade':
+      'Administrasi Perdagangan Internasional, Kementerian Perekonomian',
+    'resources.site.sme': 'Administrasi Usaha Kecil, Menengah, dan Rintisan',
+    'resources.site.tipo':
+      'Kantor Kekayaan Intelektual, Kementerian Perekonomian',
+    'resources.site.fsc': 'Komisi Pengawas Keuangan',
+    'resources.site.immigration':
+      'Badan Imigrasi Nasional, Kementerian Dalam Negeri',
+    'resources.site.cwa': 'Administrasi Cuaca Pusat',
+    'resources.site.nstc': 'Dewan Sains dan Teknologi Nasional',
+
+    'resources.site.taipei': 'Pemerintah Kota Taipei',
+    'resources.site.newTaipei': 'Pemerintah Kota New Taipei',
+    'resources.site.taichung': 'Pemerintah Kota Taichung',
+    'resources.site.kaohsiung': 'Pemerintah Kota Kaohsiung',
+    'resources.site.tainan': 'Pemerintah Kota Tainan',
+    'resources.site.taoyuan': 'Pemerintah Kota Taoyuan',
+    'resources.site.keelung': 'Pemerintah Kota Keelung',
+    'resources.site.hsinchu': 'Pemerintah Kota Hsinchu',
+    'resources.site.chiayi': 'Pemerintah Kota Chiayi',
+    'resources.site.yilan': 'Pemerintah Kabupaten Yilan',
+    'resources.site.hsinchuCounty': 'Pemerintah Kabupaten Hsinchu',
+    'resources.site.miaoli': 'Pemerintah Kabupaten Miaoli',
+    'resources.site.changhua': 'Pemerintah Kabupaten Changhua',
+    'resources.site.nantou': 'Pemerintah Kabupaten Nantou',
+    'resources.site.yunlin': 'Pemerintah Kabupaten Yunlin',
+    'resources.site.chiayiCounty': 'Pemerintah Kabupaten Chiayi',
+    'resources.site.pingtung': 'Pemerintah Kabupaten Pingtung',
+    'resources.site.taitung': 'Pemerintah Kabupaten Taitung',
+    'resources.site.hualien': 'Pemerintah Kabupaten Hualien',
+    'resources.site.penghu': 'Pemerintah Kabupaten Penghu',
+    'resources.site.kinmenGov': 'Pemerintah Kabupaten Kinmen',
+    'resources.site.lienchiang': 'Pemerintah Kabupaten Lienchiang',
+    'resources.site.dataGov': 'Platform Data Terbuka Pemerintah',
+    'resources.site.taiwanGov': 'Portal Pemerintah',
+    'resources.site.lawDb': 'Basis Data Peraturan Nasional',
+    'resources.site.g0v': 'g0v Pemerintah Zeroth',
+
+    'resources.site.ntu': 'Universitas Nasional Taiwan',
+    'resources.site.nthu': 'Universitas Nasional Tsing Hua',
+    'resources.site.nycu': 'Universitas Nasional Yang Ming Chiao Tung',
+    'resources.site.ncku': 'Universitas Nasional Cheng Kung',
+    'resources.site.nccu': 'Universitas Nasional Chengchi',
+    'resources.site.ntnu': 'Universitas Normal Nasional Taiwan',
+    'resources.site.sinica': 'Academia Sinica',
+    'resources.site.tesd': 'Platform Data Survei Empiris Pengalaman Taiwan',
+    'resources.site.tcs': 'Basis Data Survei Komunikasi Taiwan',
+    'resources.site.brill': 'Ensiklopedia Studi Taiwan Brill',
+    'resources.site.itri': 'Institut Riset Teknologi Industri',
+    'resources.site.niar': 'Laboratorium Riset Terapan Nasional',
+    'resources.site.airitilibrary': 'Perpustakaan Daring Airiti',
+    'resources.site.ndltd':
+      'Sistem Pengayaan Pengetahuan Tesis dan Disertasi Taiwan',
+
+    'resources.site.ncl': 'Perpustakaan Nasional',
+    'resources.site.npm': 'Museum Istana Nasional',
+    'resources.site.ntm': 'Museum Nasional Taiwan',
+    'resources.site.nmth': 'Museum Nasional Sejarah Taiwan',
+    'resources.site.nmns': 'Museum Nasional Ilmu Pengetahuan Alam',
+    'resources.site.nmmba': 'Museum Nasional Biologi Laut dan Akuarium',
+    'resources.site.nmtl': 'Museum Nasional Sastra Taiwan',
+    'resources.site.ntmofa': 'Museum Seni Rupa Nasional Taiwan',
+
+    'resources.site.tfam': 'Museum Seni Rupa Taipei',
+    'resources.site.kmfa': 'Museum Seni Rupa Kaohsiung',
+    'resources.site.npacNtt': 'Teater Nasional Taichung',
+    'resources.site.npacNtch': 'Teater dan Gedung Konser Nasional',
+    'resources.site.weiwuying': 'Pusat Seni Nasional Kaohsiung',
+    'resources.site.songshan': 'Taman Budaya dan Kreatif Songshan',
+    'resources.site.huashan': 'Taman Budaya dan Kreatif Huashan',
+    'resources.site.pier2': 'Kawasan Seni Pier-2',
+    'resources.site.digitalArchives': 'Koleksi Taiwan',
+    'resources.site.scitechVista': 'Panorama Sains dan Teknologi',
+    'resources.site.tcmb': 'Bank Memori Budaya Nasional',
+    'resources.site.taicca': 'TAICCA Badan Konten Kreatif Taiwan',
+
+    'resources.site.yushan': 'Taman Nasional Yushan',
+    'resources.site.taroko': 'Taman Nasional Taroko',
+    'resources.site.kenting': 'Taman Nasional Kenting',
+    'resources.site.sheipa': 'Taman Nasional Shei-Pa',
+    'resources.site.yangmingshan': 'Taman Nasional Yangmingshan',
+    'resources.site.kinmenPark': 'Taman Nasional Kinmen',
+    'resources.site.taijiang': 'Taman Nasional Taijiang',
+    'resources.site.dongsha': 'Taman Nasional Atol Dongsha',
+    'resources.site.southPenghu': 'Taman Nasional Laut Penghu Selatan',
+    'resources.site.taiwanTourism': 'Pariwisata Taiwan',
+    'resources.site.sunMoonLake':
+      'Kawasan Pemandangan Nasional Danau Matahari Bulan',
+    'resources.site.alishan': 'Kawasan Pemandangan Nasional Alishan',
+
+    'resources.site.cna': 'Kantor Berita Pusat',
+    'resources.site.pts': 'Televisi Publik',
+    'resources.site.focusTaiwan': 'Fokus Taiwan',
+    'resources.site.taiwanToday': 'Taiwan Hari Ini',
+    'resources.site.panorama': 'Majalah Taiwan Panorama',
+    'resources.site.rti': 'Radio Taiwan Internasional',
+    'resources.site.udn': 'Jaringan Berita United Daily',
+    'resources.site.ltn': 'Liberty Times',
+    'resources.site.tvbs': 'Jaringan Berita TVBS',
+    'resources.site.setn': 'Jaringan Berita SET',
+    'resources.site.ebc': 'Berita EBC',
+    'resources.site.commonwealth': 'Majalah CommonWealth',
+    'resources.site.businesstoday': 'Business Today',
+    'resources.site.businessweekly': 'Business Weekly',
+
+    'resources.site.twreporter': 'The Reporter',
+    'resources.site.taiwanNews': 'Berita Taiwan',
+    'resources.site.thenewslens': 'The News Lens',
+    'resources.site.upmedia': 'Up Media',
+    'resources.site.storm': 'Storm Media',
+
+    'resources.site.tahr': 'Asosiasi Hak Asasi Manusia Taiwan',
+    'resources.site.teia': 'Asosiasi Informasi Lingkungan Taiwan',
+    'resources.site.sow': 'Masyarakat Alam Liar',
+    'resources.site.ocf': 'Yayasan Budaya Terbuka',
+    'resources.site.tfc': 'Pusat Pemeriksa Fakta Taiwan',
+    'resources.site.twnic': 'Pusat Informasi Jaringan Taiwan',
+    'resources.site.wikimedia': 'Asosiasi Wikimedia Taiwan',
+    'resources.site.digitalDiplomacy': 'Asosiasi Diplomasi Digital Taiwan',
+
+    'resources.site.tsmc': 'Manufaktur Semikonduktor Taiwan',
+    'resources.site.umc': 'United Microelectronics',
+    'resources.site.foxconn': 'Teknologi Hon Hai',
+    'resources.site.delta': 'Delta Electronics',
+    'resources.site.taiwanExcellence': 'Keunggulan Taiwan',
+    'resources.site.cht': 'Chunghwa Telecom',
+    'resources.site.taipower': 'Perusahaan Listrik Taiwan',
+    'resources.site.iii': 'Institut Industri Informasi',
+    'resources.site.investTaiwan': 'Investasi di Taiwan',
+
+    'resources.site.railway': 'Kereta Api Taiwan',
+    'resources.site.thsrc': 'Kereta Cepat Taiwan',
+    'resources.site.taiwanTrip': 'Bus Wisata Taiwan',
+    'resources.site.taoyuanAirport': 'Bandar Udara Internasional Taoyuan',
+    'resources.site.metroTaipei': 'Metro Taipei',
+    'resources.site.krtc': 'Metro Kaohsiung',
+
+    'resources.site.cdc': 'Pusat Pengendalian Penyakit',
+    'resources.site.nhi': 'Administrasi Asuransi Kesehatan Nasional',
+    'resources.site.ntuh': 'Rumah Sakit Universitas Nasional Taiwan',
+    'resources.site.vghtpe': 'Rumah Sakit Umum Veteran Taipei',
+    'resources.site.cgmh': 'Sistem Medis Chang Gung',
+    'resources.site.cmuh': 'Rumah Sakit Universitas Kedokteran Tiongkok',
+    'resources.site.kmuh': 'Rumah Sakit Universitas Kedokteran Kaohsiung',
+
+    'resources.site.stat': 'Statistik Nasional',
+    'resources.site.twse': 'Bursa Efek Taiwan',
+    'resources.site.tpex': 'Bursa Taipei',
+
+    'resources.site.github': 'Repositori Proyek GitHub',
+    'resources.site.contribute': 'Panduan Kontribusi',
+    'resources.site.rss': 'Langganan RSS',
+
+    // New community site names
+    'resources.site.electionMap': 'Peta Pemilu Taiwan',
+    'resources.site.maskMap': 'Peta Masker（2020）',
+    'resources.site.goodinfo': 'Goodinfo Informasi Saham Taiwan',
+    'resources.site.ccw': 'Aliansi Pengawasan Parlemen oleh Warga',
+    'resources.site.thaubing': 'Jejak Transparan',
+    'resources.site.politicalDonation': 'Pencarian Terbuka Sumbangan Politik',
+    'resources.site.burgerMap': 'Peta Burger Taipei',
+    'resources.site.nightMarket': 'App Pasar Malam',
+    'resources.site.cofacts': 'Cofacts Benar atau Tidak',
+    'resources.site.disfactory': 'Disfactory Pabrik Ilegal di Lahan Pertanian',
+    'resources.site.ptt': 'PTT Bulletin Board System',
+    'resources.site.ptsNews': 'Jaringan Berita PTS',
+    'resources.site.npgov': 'Portal Taman Nasional',
+    'resources.site.taiwanmd': 'Taiwan.md',
+  },
+  pt: {
+    // Meta
+    'resources.meta.title': 'Guia de recursos de Taiwan - Taiwan.md',
+    'resources.meta.description':
+      'Reúne sites oficiais de órgãos governamentais, instituições culturais, plataformas de dados abertos e muito mais, oferecendo um ponto de acesso único a políticas públicas, conteúdos culturais e dados estatísticos',
+
+    // Hero
+    'resources.hero.title': 'Guia de recursos de Taiwan',
+    'resources.hero.subtitle.html':
+      'Reúne recursos oficiais de órgãos governamentais, instituições culturais, dados abertos e muito mais<br />Acesse em um só lugar as fontes de informação mais confiáveis de Taiwan',
+
+    // Breadcrumb
+    'resources.breadcrumb.home': 'Início',
+    'resources.breadcrumb.current': 'Recursos',
+
+    // Core section
+    'resources.core.title': '🏆 Seleção essencial',
+    'resources.core.desc':
+      'Os recursos oficiais mais importantes de Taiwan apresentados no mapa mental',
+
+    // More section
+    'resources.more.title': '🔍 Mais categorias',
+    'resources.more.desc':
+      'Inclui governos locais, universidades e recursos detalhados de diversas áreas',
+
+    // Category labels (heroData)
+    'resources.category.government.label': '🏛️ Órgãos oficiais',
+    'resources.category.culture.label': '📚 Cultura e educação',
+    'resources.category.tourism.label': '✈️ Turismo e viagens',
+    'resources.category.economy.label': '💼 Tecnologia e economia',
+    'resources.category.media.label': '📰 Mídia e notícias',
+    'resources.category.opendata.label': '🌐 Dados abertos',
+    'resources.category.taiwanmd.label': '📡 Sobre Taiwan.md',
+
+    // Section titles & descriptions
+    'resources.section.localGov.title': '🏙️ Governos locais',
+    'resources.section.localGov.desc':
+      'Sites oficiais dos seis municípios especiais e dos demais condados e cidades de Taiwan',
+
+    'resources.section.universities.title':
+      '🎓 Universidades e instituições de pesquisa',
+    'resources.section.universities.desc':
+      'Principais universidades e instituições de pesquisa de Taiwan',
+
+    'resources.section.nationalParks.title': '🏔️ Parques nacionais',
+    'resources.section.nationalParks.desc':
+      'Administrações dos parques nacionais e das áreas cênicas de Taiwan',
+
+    'resources.section.artsCulture.title': '🎭 Espaços artísticos e culturais',
+    'resources.section.artsCulture.desc':
+      'Importantes museus, galerias de arte e espaços de espetáculos',
+
+    'resources.section.healthcare.title': '🏥 Saúde e assistência médica',
+    'resources.section.healthcare.desc':
+      'Autoridades de saúde e importantes instituições médicas',
+
+    'resources.section.ngoSociety.title': '🤝 ONGs / Sociedade civil',
+    'resources.section.ngoSociety.desc':
+      'Organizações sem fins lucrativos e importantes grupos da sociedade civil',
+
+    'resources.section.ministries.title': '🏛️ Ministérios e agências',
+    'resources.section.ministries.desc':
+      'Ministérios e órgãos relacionados do Yuan Executivo',
+
+    'resources.section.companies.title': '🏢 Empresas de destaque',
+    'resources.section.companies.desc':
+      'Empresas emblemáticas e companhias de tecnologia de Taiwan',
+
+    'resources.section.mediaExtra.title': '📺 Mídia tradicional',
+    'resources.section.mediaExtra.desc':
+      'Principais veículos de notícias, rádio e televisão',
+
+    'resources.section.transportation.title': '🚄 Transportes',
+    'resources.section.transportation.desc':
+      'Transporte público e serviços de mobilidade',
+
+    'resources.section.digitalCulture.title': '💾 Cultura digital',
+    'resources.section.digitalCulture.desc':
+      'Plataformas de acervos digitais e divulgação científica',
+
+    // Projects
+    'resources.projects.title': '🚀 Projetos da comunidade',
+    'resources.projects.desc':
+      'Criatividade e paixão vindas da comunidade para conhecer Taiwan por meio do código',
+
+    'resources.projects.food.title': '🍔 Mapa gastronômico',
+    'resources.projects.food.burger.name': 'Mapa de hambúrgueres de Taipé',
+    'resources.projects.food.burger.desc':
+      'Mapa interativo com classificação de hamburguerias de Taipé por qualidade (T0-T6), com filtros por distrito administrativo',
+    'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
+
+    'resources.projects.nightmarket.title': '🌙 Guia de mercados noturnos',
+    'resources.projects.nightmarket.app.name': 'NightMarketSwift',
+    'resources.projects.nightmarket.app.desc':
+      'App para iOS sobre os mercados noturnos de Taiwan, com mais de 400 locais, horários de funcionamento e navegação pelo Google Maps',
+    'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
+
+    'resources.projects.civictech.title': '🗳️ Tecnologia cívica',
+    'resources.projects.civictech.g0v.name': 'g0v Governo Zero',
+    'resources.projects.civictech.g0v.desc':
+      'A maior comunidade de tecnologia cívica de Taiwan, que promove o governo aberto e a transparência da informação',
+    'resources.projects.civictech.g0v.tech': 'Tecnologias diversas',
+
+    'resources.projects.civictech.cofacts.name': 'Cofacts Verdadeiro ou falso',
+    'resources.projects.civictech.cofacts.desc':
+      'Chatbot colaborativo de verificação de fatos para combater a desinformação',
+    'resources.projects.civictech.cofacts.tech': 'JavaScript / GraphQL',
+
+    'resources.projects.civictech.disfactory.name':
+      'Disfactory Fábricas ilegais em terras agrícolas',
+    'resources.projects.civictech.disfactory.desc':
+      'Plataforma para denúncias cidadãs de fábricas ilegais em terras agrícolas, protegendo as áreas rurais de Taiwan',
+    'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
+
+    // CTA & Links
+    'resources.projects.cta.html':
+      'Conhece algum projeto para recomendar? Envie sua sugestão por meio de uma <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a>!',
+    'resources.projects.github.link': 'GitHub',
+    'resources.backToHome': '← Voltar ao início',
+
+    // Mindmap
+    'resources.mindmap.root.label': '🇹🇼 Recursos de Taiwan',
+
+    // Chapter nav labels
+    'resources.nav.governance': 'Governança',
+    'resources.nav.culture': 'Cultura',
+    'resources.nav.media': 'Mídia',
+    'resources.nav.economy': 'Economia',
+    'resources.nav.community': 'Comunidade',
+
+    // Chapter titles & stories
+    'resources.chapter.government.title': 'Portal da governança nacional',
+    'resources.chapter.government.story':
+      'Em fevereiro de 2020, engenheiros taiwaneses conectaram em um fim de semana os estoques de máscaras em tempo real de 6,000 farmácias. Uma pessoa, um notebook, 72 horas. Isso só foi possível porque mais de 50,000 conjuntos de dados governamentais no data.gov.tw estavam disponíveis para qualquer pessoa usar a qualquer momento. Taiwan incorporou a “transparência na governança” a cada API disponível para download.',
+    'resources.chapter.culture.title': 'Templo da cultura e do conhecimento',
+    'resources.chapter.culture.story':
+      'Em uma área de menos de 36,000 quilômetros quadrados, Taiwan reúne 159 universidades, mais de 500 museus, 9 parques nacionais e paisagens que vão dos 3,952 metros da Montanha de Jade às costas de recifes de coral. O Museu Nacional do Palácio conserva quase 700 mil tesouros da cultura chinesa, enquanto as festas dos templos de bairro também são patrimônios culturais vivos. A densidade cultural desta ilha supera em muito o seu tamanho no mapa.',
+    'resources.chapter.media.title': 'Ouça a voz de Taiwan',
+    'resources.chapter.media.story':
+      'Em 1995, estudantes da Universidade Nacional de Taiwan instalaram um servidor BBS em um dormitório e o chamaram de PTT. 30 anos depois, esse fórum com interface exclusivamente textual continua sendo a plataforma de debate público mais influente de Taiwan. Durante o Movimento Girassol de 2014, o PTT foi a fonte de informações em tempo real mais rápida e completa. No ecossistema de mídia de Taiwan, dos principais jornais aos fóruns de internautas, todos disputam o direito à voz na democracia.',
+    'resources.chapter.economy.title': 'Motor da economia e da vida cotidiana',
+    'resources.chapter.economy.story':
+      'De cada duas telas de celular no mundo, uma usa um chip fabricado pela TSMC, algo que estudiosos de geopolítica chamam de “escudo de silício”. Mas os chips são apenas a ponta do iceberg: seguro nacional de saúde com 99.9% de cobertura, uma loja de conveniência a cada 2.3 quilômetros quadrados e trem de alta velocidade de Taipé a Kaohsiung em 90 minutos. Por trás do cotidiano de 2,300 milhões de pessoas está um sistema preciso que você quase não percebe, mas que está presente em toda parte.',
+    'resources.chapter.community.title': 'Tecnologia cívica e comunidades',
+    'resources.chapter.community.story':
+      'O motto do g0v, o “governo zero”, é: “Não pergunte por que ninguém está fazendo isso, pois você é esse ‘ninguém’.” Mapas de disponibilidade de máscaras, robôs de verificação de notícias falsas e rastreadores de promessas eleitorais: tudo nasceu em hackathons de fim de semana. Em Taiwan, a participação cívica é assim: escrever código, abrir Issue e enviar Pull Request. Taiwan.md também é fruto desse espírito.',
+
+    // Insight cards
+    'resources.insight.gov.branches.number': '5',
+    'resources.insight.gov.branches.label': 'órgãos em nível de Yuan',
+    'resources.insight.gov.ministries.number': '20+',
+    'resources.insight.gov.ministries.label':
+      'ministérios, conselhos e agências',
+    'resources.insight.gov.local.number': '22',
+    'resources.insight.gov.local.label': 'governos locais',
+
+    'resources.insight.culture.universities.number': '159',
+    'resources.insight.culture.universities.label': 'universidades',
+    'resources.insight.culture.museums.number': '500+',
+    'resources.insight.culture.museums.label': 'museus',
+    'resources.insight.culture.parks.number': '9',
+    'resources.insight.culture.parks.label': 'parques nacionais',
+
+    'resources.insight.media.ptt.number': '200 mil',
+    'resources.insight.media.ptt.label': 'usuários ativos diários no PTT',
+    'resources.insight.media.outlets.number': '100+',
+    'resources.insight.media.outlets.label': 'veículos de mídia',
+    'resources.insight.media.ngo.number': '1000+',
+    'resources.insight.media.ngo.label': 'ONGs',
+
+    'resources.insight.econ.tsmc.number': '92%',
+    'resources.insight.econ.tsmc.label': 'processos avançados da TSMC',
+    'resources.insight.econ.hsr.number': '99.5%',
+    'resources.insight.econ.hsr.label':
+      'pontualidade do trem de alta velocidade',
+    'resources.insight.econ.nhi.number': '99.9%',
+    'resources.insight.econ.nhi.label': 'cobertura do seguro nacional de saúde',
+
+    'resources.insight.community.g0v.number': '2012',
+    'resources.insight.community.g0v.label': 'fundação do g0v',
+    'resources.insight.community.contributors.number': '10K+',
+    'resources.insight.community.contributors.label': 'colaboradores',
+    'resources.insight.community.projects.number': '800+',
+    'resources.insight.community.projects.label': 'projetos',
+
+    // Subcategory titles
+    'resources.sub.fiveYuan': 'Os cinco Yuans centrais',
+    'resources.sub.fiveYuan.desc':
+      'Esses cinco Yuans formam o sistema singular de separação em cinco poderes de Taiwan, único no mundo.',
+    'resources.sub.ministries': 'Ministérios, conselhos e agências',
+    'resources.sub.ministries.desc':
+      'Do Ministério de Assuntos Digitais ao Conselho dos Povos Indígenas, cada órgão possui sua própria seção de dados abertos.',
+    'resources.sub.localGov': 'Governos locais',
+    'resources.sub.localGov.desc':
+      '22 condados e cidades, 22 estilos de governança local. A competição por cidades inteligentes entre os seis municípios especiais está redefinindo os serviços públicos.',
+    'resources.sub.openData': 'Dados abertos',
+    'resources.sub.openData.desc':
+      'Este é o ponto de partida do milagre da tecnologia cívica de Taiwan. Mapas de disponibilidade de máscaras, agendamento de vacinas e monitoramento da qualidade do ar começaram nessas plataformas.',
+    'resources.sub.universities':
+      'Principais universidades e instituições de pesquisa',
+    'resources.sub.universities.desc':
+      'As universidades de Taiwan fazem muito mais do que ensinar. O laboratório de computação quântica da Universidade Nacional de Taiwan e o centro de pesquisa de semicondutores da Universidade Nacional Cheng Kung são nós importantes da rede acadêmica mundial.',
+    'resources.sub.museums': 'Museus e bibliotecas',
+    'resources.sub.museums.desc':
+      'Do repolho de jadeíta do Museu Nacional do Palácio à coleção de violinos do Museu Chimei, os museus de Taiwan são portais que atravessam o tempo e o espaço.',
+    'resources.sub.venues': 'Espaços culturais e indústrias criativas',
+    'resources.sub.venues.desc':
+      'O ecossistema artístico e cultural de Taiwan está decolando. C-LAB, Teatro Nacional e Sala Nacional de Concertos e Centro Nacional de Artes de Kaohsiung: uma concentração de espaços de nível mundial capaz de causar inveja até em Nova York.',
+    'resources.sub.parks': 'Parques nacionais e áreas cênicas',
+    'resources.sub.parks.desc':
+      'De 0 a 3,952 metros de altitude, os 9 parques nacionais de Taiwan abrangem todas as zonas climáticas da Terra. Em um único dia, você pode ir de recifes de coral tropicais à linha de neve nas altas montanhas.',
+    'resources.sub.mainstream': 'Mídia tradicional',
+    'resources.sub.mainstream.desc':
+      'Do fim das restrições à imprensa após o término da lei marcial em 1988 à atual concorrência entre canais de notícias 24 horas, a liberdade de imprensa em Taiwan foi conquistada com muita dificuldade.',
+    'resources.sub.digital': 'Mídia nativa digital',
+    'resources.sub.digital.desc':
+      'Enquanto a mídia tradicional enfrenta dificuldades, a mídia nativa digital de Taiwan está redefinindo o jornalismo. O modelo sem fins lucrativos do The Reporter prova que o jornalismo aprofundado pode sobreviver sem publicidade.',
+    'resources.sub.ngo': 'Sociedade civil e ONGs',
+    'resources.sub.ngo.desc':
+      'Taiwan tem a maior concentração de ONGs da Ásia. Do meio ambiente aos direitos humanos, essas organizações não apenas fiscalizam o governo: muitas vezes estão à frente das políticas públicas.',
+    'resources.sub.companies': 'Líderes do setor',
+    'resources.sub.companies.desc':
+      'Da TSMC à Hon Hai, os nomes dessas empresas aparecem em relatórios de cadeias de suprimentos do mundo inteiro.',
+    'resources.sub.transport': 'Transportes',
+    'resources.sub.transport.desc':
+      'O trem de alta velocidade de Taiwan reduz a viagem de Taipé a Kaohsiung a apenas 90 minutos. Com metrô, sistemas de ônibus em tempo real e YouBike, o transporte público de Taiwan é o campeão discreto da Ásia.',
+    'resources.sub.healthcare': 'Saúde',
+    'resources.sub.healthcare.desc':
+      'Seguro nacional de saúde: um cartão, 99.9% de cobertura e tempo médio de espera de 15 minutos. Até os Estados Unidos estudam como Taiwan conseguiu fazer isso.',
+    'resources.sub.finance': 'Finanças e dados',
+    'resources.sub.finance.desc':
+      'A Bolsa de Valores de Taiwan é um dos mercados mais transparentes da Ásia. De demonstrações financeiras de empresas de capital aberto a dados de negociação em tempo real, tudo está disponível para consulta pública.',
+    'resources.sub.civicTech': 'Projetos de tecnologia cívica',
+    'resources.sub.foodMaps': 'Mapas gastronômicos e culturais',
+
+    // Related articles
+    'resources.related.democracy':
+      'Leia também: transição democrática de Taiwan',
+    'resources.related.label': 'Leia também',
+    'resources.related.government.1': 'Transição democrática de Taiwan',
+    'resources.related.government.2': 'Eleições e política partidária',
+    'resources.related.government.3': 'Comunidades de código aberto e g0v',
+    'resources.related.culture.1': 'Culturas dos povos indígenas',
+    'resources.related.culture.2': 'Sistema educacional',
+    'resources.related.culture.3': 'Parques nacionais',
+    'resources.related.media.1': 'Movimento Estudantil Girassol',
+    'resources.related.media.2': 'Mídia e liberdade de imprensa',
+    'resources.related.media.3': 'PTT',
+    'resources.related.economy.1': 'TSMC',
+    'resources.related.economy.2': 'Indústria de semicondutores',
+    'resources.related.economy.3': 'Seguro nacional de saúde',
+    'resources.related.community.1': 'Comunidades de código aberto e g0v',
+    'resources.related.community.2': 'Movimentos sociais e participação cívica',
+    'resources.related.community.3': 'Governo digital',
+
+    // Footer stats
+    'resources.stats.collected': 'recursos catalogados',
+    'resources.stats.chapters': 'capítulos principais',
+    'resources.stats.subcategories': 'subcategorias',
+
+    // Search
+    'resources.search.placeholder': 'Pesquisar recursos...',
+
+    // Aria labels
+    'resources.aria.viewGithub': 'Ver projeto no GitHub',
+    'resources.aria.backToTop': 'Voltar ao topo',
+
+    // Reading Guide
+    'resources.guide.title': 'Por onde começar',
+    'resources.guide.desc':
+      'Imagine que você acabou de chegar a Taiwan sem um guia de viagem. “Governo” mostra o sistema operacional: como uma jovem democracia funciona com transparência radical. “Cultura” é a alma: 500 museus, 15,000 festivais de templos por ano e 16 línguas indígenas, tudo concentrado em uma ilha menor que a Suíça. “Mídia” revela o diálogo: um fórum exclusivamente textual com 30 anos de história ainda influencia eleições, e a redação jornalística sem fins lucrativos mais ousada da Ásia fica aqui. “Economia” é o coração: uma empresa produz 92% dos chips avançados do mundo, e o seguro nacional de saúde custa menos que sua conta de celular. “Comunidade” é o convite: junte-se aos cidadãos do código aberto que criam ferramentas cívicas em hackathons de fim de semana.',
+
+    // Curator Notes
+    'resources.curator.government':
+      '🔍 Durante a COVID-19, desenvolvedores civis de Taiwan criaram em 72 horas um mapa de máscaras e um sistema de agendamento de vacinação. Por trás dessa velocidade está uma plataforma governamental de dados abertos entre as três melhores do mundo, com 50,000+ conjuntos de dados, APIs em tempo real e acesso para todos. Enquanto desenvolvedores de outros países ainda aguardavam coletivas de imprensa do governo, os de Taiwan já estavam escrevendo código.',
+    'resources.curator.culture':
+      '🔍 Poucas pessoas sabem que Taiwan tem uma das maiores densidades de museus da Ásia. Mas os números são apenas a superfície: o que realmente se destaca é a cultura “viva”, com mais de 15,000 festivais de templos por ano, 16 línguas dos povos indígenas e concursos de cantos tradicionais hakka. A cultura de Taiwan não fica apenas em vitrines; ela caminha pelas ruas.',
+    'resources.curator.media':
+      '🔍 Qual é o tamanho da influência do PTT? Durante os referendos de 2018, o volume de discussões no fórum Gossiping do PTT afetou diretamente a participação eleitoral. A existência do The Reporter é ainda mais impressionante: um veículo de jornalismo investigativo mantido inteiramente por doações e finalista por vários anos consecutivos em prêmios asiáticos de jornalismo. Em uma era de proliferação de notícias falsas, Taiwan abriga simultaneamente a cultura de internautas mais ativa e a comunidade de checagem de fatos mais rigorosa. Essa própria contradição é a vitalidade da democracia.',
+    'resources.curator.economy':
+      '🔍 Enquanto os países discutem quanto subsidiar em suas “leis dos chips”, Taiwan passou 30 anos gravando a resposta em wafers: uma pequena ilha sem petróleo nem minério de ferro que, graças a talentos e processos em escala nanométrica, controla 92% da capacidade mundial de produção de chips avançados. Esse número acrescentou um termo aos relatórios do Pentágono: “escudo de silício”.',
+    'resources.curator.community':
+      '🔍 Os hackathons bimestrais do g0v já tiveram mais de 60 edições, cada uma reunindo voluntariamente centenas de engenheiros, designers e profissionais de ONGs. Sem remuneração e sem chefes, apenas um notebook e um problema a resolver. Foi assim que nasceu o mapa de máscaras: um fim de semana, alguns engenheiros e dados em tempo real de seis mil farmácias. O Vale do Silício fala em “mudar o mundo”; a comunidade de código aberto de Taiwan mostra como se faz.',
+
+    // Featured site descriptions
+    'resources.featured.dataGov':
+      'A plataforma governamental de dados abertos número um do mundo, com mais de 50,000 conjuntos de dados, da qualidade do ar à localização de ônibus em tempo real, todos disponíveis para download gratuito.',
+    'resources.featured.g0vGov':
+      'Governo Zero: a comunidade de tecnologia cívica que reescreve a governança. Do mapa de máscaras ao vTaiwan, ela desfaz a fronteira entre hackers e formuladores de políticas públicas.',
+    'resources.featured.legislativeYuan':
+      'O parlamento de Taiwan, com sessões ao vivo e acompanhamento de projetos de lei, na linha de frente da deliberação democrática.',
+
+    'resources.featured.npm':
+      'Com mais de 70 mil peças que abrangem 8000 anos, é uma das maiores coleções de arte chinesa do mundo e agora oferece exposições digitais.',
+    'resources.featured.ncl':
+      'A biblioteca nacional e centro de depósito legal de Taiwan, responsável por preservar o conhecimento publicado no país.',
+    'resources.featured.npgov':
+      'Portal de entrada para 9 parques nacionais, de montanhas com três mil metros de altitude a recifes de coral, abrangendo a extraordinária biodiversidade dos 36,000 quilômetros quadrados de Taiwan.',
+
+    'resources.featured.twreporter':
+      'Pioneiro do jornalismo investigativo sem fins lucrativos no mundo de língua chinesa, com análises aprofundadas de questões ambientais, sociais e políticas.',
+    'resources.featured.ptt':
+      'O maior fórum on-line de Taiwan. Desde 1995, 20 mil usuários ativos por dia impulsionam uma singular “democracia dos internautas”.',
+    'resources.featured.ptsNews':
+      'O jornalismo da televisão pública de Taiwan, com cobertura independente e imparcial, referência máxima em notícias de interesse público.',
+
+    'resources.featured.tsmc':
+      'A empresa de semicondutores mais valiosa do mundo, responsável por 92% dos chips mais avançados que impulsionam IA, smartphones e supercomputadores.',
+    'resources.featured.twse':
+      'O centro do mercado de capitais de Taiwan, onde TSMC e Foxconn estão listadas.',
+    'resources.featured.nhi':
+      'Seguro nacional de saúde que cobre 99.9% da população e representa apenas 6.6% do PIB, um modelo estudado por especialistas em políticas de saúde do mundo todo.',
+
+    'resources.featured.g0v':
+      'A comunidade de tecnologia cívica mais influente do mundo, berço do mapa de máscaras da COVID, da plataforma deliberativa vTaiwan e de uma ministra digital.',
+    'resources.featured.cofacts':
+      'Checagem colaborativa de fatos no LINE, em que milhões de usuários combatem a desinformação com verificação assistida por IA.',
+    'resources.featured.taiwanmd':
+      'O projeto que você está vendo agora: uma enciclopédia de Taiwan de código aberto e construída de forma colaborativa pela comunidade.',
+
+    // Section footer
+    'resources.section.footer.verified': 'Última verificação: 2026-03-24',
+    'resources.section.footer.reportLink': 'Informar link quebrado',
+
+    // Footer / Last updated
+    'resources.footer.lastUpdated': 'Última atualização: março de 2026',
+    'resources.footer.report': 'Informar link quebrado',
+    'resources.footer.reportUrl':
+      'https://github.com/frank890417/taiwan-md/issues',
+    'resources.footer.stats.total': '200+',
+
+    // Site names
+    'resources.site.president':
+      'Gabinete Presidencial da República da China (Taiwan)',
+    'resources.site.executiveYuan': 'Yuan Executivo',
+    'resources.site.legislativeYuan': 'Yuan Legislativo',
+    'resources.site.judicialYuan': 'Yuan Judiciário',
+    'resources.site.examinationYuan': 'Yuan de Exames',
+    'resources.site.controlYuan': 'Yuan de Controle',
+
+    'resources.site.mofa': 'Ministério das Relações Exteriores',
+    'resources.site.moda': 'Ministério de Assuntos Digitais',
+    'resources.site.cip': 'Conselho dos Povos Indígenas',
+    'resources.site.moc': 'Ministério da Cultura',
+    'resources.site.moe': 'Ministério da Educação',
+    'resources.site.moea': 'Ministério de Assuntos Econômicos',
+    'resources.site.motc': 'Ministério dos Transportes e Comunicações',
+    'resources.site.moi': 'Ministério do Interior',
+    'resources.site.ndc': 'Conselho Nacional de Desenvolvimento',
+    'resources.site.mac': 'Conselho de Assuntos do Continente',
+    'resources.site.mol': 'Ministério do Trabalho',
+    'resources.site.moenv': 'Ministério do Meio Ambiente',
+    'resources.site.moa': 'Ministério da Agricultura',
+    'resources.site.mnd': 'Ministério da Defesa Nacional',
+    'resources.site.moj': 'Ministério da Justiça',
+    'resources.site.mohw': 'Ministério da Saúde e Bem-Estar',
+    'resources.site.trade':
+      'Administração de Comércio Internacional do Ministério de Assuntos Econômicos',
+    'resources.site.sme': 'Administração de Pequenas, Médias e Novas Empresas',
+    'resources.site.tipo':
+      'Escritório de Propriedade Intelectual do Ministério de Assuntos Econômicos',
+    'resources.site.fsc': 'Comissão de Supervisão Financeira',
+    'resources.site.immigration':
+      'Agência Nacional de Imigração do Ministério do Interior',
+    'resources.site.cwa': 'Administração Meteorológica Central',
+    'resources.site.nstc': 'Conselho Nacional de Ciência e Tecnologia',
+
+    'resources.site.taipei': 'Governo da Cidade de Taipé',
+    'resources.site.newTaipei': 'Governo da Cidade de Nova Taipé',
+    'resources.site.taichung': 'Governo da Cidade de Taichung',
+    'resources.site.kaohsiung': 'Governo da Cidade de Kaohsiung',
+    'resources.site.tainan': 'Governo da Cidade de Tainan',
+    'resources.site.taoyuan': 'Governo da Cidade de Taoyuan',
+    'resources.site.keelung': 'Governo da Cidade de Keelung',
+    'resources.site.hsinchu': 'Governo da Cidade de Hsinchu',
+    'resources.site.chiayi': 'Governo da Cidade de Chiayi',
+    'resources.site.yilan': 'Governo do Condado de Yilan',
+    'resources.site.hsinchuCounty': 'Governo do Condado de Hsinchu',
+    'resources.site.miaoli': 'Governo do Condado de Miaoli',
+    'resources.site.changhua': 'Governo do Condado de Changhua',
+    'resources.site.nantou': 'Governo do Condado de Nantou',
+    'resources.site.yunlin': 'Governo do Condado de Yunlin',
+    'resources.site.chiayiCounty': 'Governo do Condado de Chiayi',
+    'resources.site.pingtung': 'Governo do Condado de Pingtung',
+    'resources.site.taitung': 'Governo do Condado de Taitung',
+    'resources.site.hualien': 'Governo do Condado de Hualien',
+    'resources.site.penghu': 'Governo do Condado de Penghu',
+    'resources.site.kinmenGov': 'Governo do Condado de Kinmen',
+    'resources.site.lienchiang': 'Governo do Condado de Lienchiang',
+    'resources.site.dataGov': 'Plataforma de Dados Governamentais Abertos',
+    'resources.site.taiwanGov': 'Portal do Governo',
+    'resources.site.lawDb': 'Banco de Dados Nacional de Leis e Regulamentos',
+    'resources.site.g0v': 'g0v Governo Zero',
+
+    'resources.site.ntu': 'Universidade Nacional de Taiwan',
+    'resources.site.nthu': 'Universidade Nacional Tsing Hua',
+    'resources.site.nycu': 'Universidade Nacional Yang Ming Chiao Tung',
+    'resources.site.ncku': 'Universidade Nacional Cheng Kung',
+    'resources.site.nccu': 'Universidade Nacional Chengchi',
+    'resources.site.ntnu': 'Universidade Nacional Normal de Taiwan',
+    'resources.site.sinica': 'Academia Sinica',
+    'resources.site.tesd':
+      'Plataforma de Dados de Pesquisas Empíricas sobre a Experiência de Taiwan',
+    'resources.site.tcs': 'Banco de Dados da Pesquisa de Comunicação de Taiwan',
+    'resources.site.brill': 'Enciclopédia Brill de Estudos de Taiwan',
+    'resources.site.itri': 'Instituto de Pesquisa de Tecnologia Industrial',
+    'resources.site.niar': 'Institutos Nacionais de Pesquisa Aplicada',
+    'resources.site.airitilibrary': 'Biblioteca Digital Airiti',
+    'resources.site.ndltd':
+      'Sistema de Conhecimento de Teses e Dissertações de Taiwan',
+
+    'resources.site.ncl': 'Biblioteca Nacional Central',
+    'resources.site.npm': 'Museu Nacional do Palácio',
+    'resources.site.ntm': 'Museu Nacional de Taiwan',
+    'resources.site.nmth': 'Museu Nacional de História de Taiwan',
+    'resources.site.nmns': 'Museu Nacional de Ciências Naturais',
+    'resources.site.nmmba': 'Museu Nacional de Biologia Marinha e Aquário',
+    'resources.site.nmtl': 'Museu Nacional da Literatura de Taiwan',
+    'resources.site.ntmofa': 'Museu Nacional de Belas-Artes de Taiwan',
+
+    'resources.site.tfam': 'Museu de Belas-Artes de Taipé',
+    'resources.site.kmfa': 'Museu de Belas-Artes de Kaohsiung',
+    'resources.site.npacNtt': 'Teatro Nacional de Taichung',
+    'resources.site.npacNtch': 'Teatro Nacional e Sala Nacional de Concertos',
+    'resources.site.weiwuying': 'Centro Nacional de Artes de Kaohsiung',
+    'resources.site.songshan': 'Parque Cultural e Criativo Songshan',
+    'resources.site.huashan': 'Parque Cultural e Criativo Huashan',
+    'resources.site.pier2': 'Centro de Arte Pier-2',
+    'resources.site.digitalArchives': 'Acervos Digitais de Taiwan',
+    'resources.site.scitechVista': 'Panorama da Ciência e Tecnologia',
+    'resources.site.tcmb': 'Banco Nacional de Memória Cultural',
+    'resources.site.taicca': 'Agência de Conteúdo Criativo de Taiwan TAICCA',
+
+    'resources.site.yushan': 'Parque Nacional Yushan',
+    'resources.site.taroko': 'Parque Nacional Taroko',
+    'resources.site.kenting': 'Parque Nacional Kenting',
+    'resources.site.sheipa': 'Parque Nacional Shei-Pa',
+    'resources.site.yangmingshan': 'Parque Nacional Yangmingshan',
+    'resources.site.kinmenPark': 'Parque Nacional Kinmen',
+    'resources.site.taijiang': 'Parque Nacional Taijiang',
+    'resources.site.dongsha': 'Parque Nacional do Atol de Dongsha',
+    'resources.site.southPenghu':
+      'Parque Nacional Marinho dos Quatro Ilhéus do Sul de Penghu',
+    'resources.site.taiwanTourism': 'Turismo em Taiwan',
+    'resources.site.sunMoonLake':
+      'Área Cênica Nacional do Lago do Sol e da Lua',
+    'resources.site.alishan': 'Área Cênica Nacional de Alishan',
+
+    'resources.site.cna': 'Agência Central de Notícias',
+    'resources.site.pts': 'Serviço Público de Televisão',
+    'resources.site.focusTaiwan': 'Focus Taiwan',
+    'resources.site.taiwanToday': 'Taiwan Today',
+    'resources.site.panorama': 'Revista Taiwan Panorama',
+    'resources.site.rti': 'Rádio Taiwan Internacional',
+    'resources.site.udn': 'Rede de Notícias United Daily',
+    'resources.site.ltn': 'Liberty Times',
+    'resources.site.tvbs': 'Rede de Notícias TVBS',
+    'resources.site.setn': 'Rede de Notícias SETN',
+    'resources.site.ebc': 'Notícias EBC',
+    'resources.site.commonwealth': 'Revista CommonWealth',
+    'resources.site.businesstoday': 'Business Today',
+    'resources.site.businessweekly': 'Business Weekly',
+
+    'resources.site.twreporter': 'The Reporter',
+    'resources.site.taiwanNews': 'Taiwan News',
+    'resources.site.thenewslens': 'The News Lens',
+    'resources.site.upmedia': 'Up Media',
+    'resources.site.storm': 'The Storm Media',
+
+    'resources.site.tahr': 'Associação Taiwanesa de Direitos Humanos',
+    'resources.site.teia': 'Associação de Informação Ambiental de Taiwan',
+    'resources.site.sow': 'Sociedade da Natureza Selvagem',
+    'resources.site.ocf': 'Fundação Cultura Aberta',
+    'resources.site.tfc': 'Centro de Verificação de Fatos de Taiwan',
+    'resources.site.twnic': 'Centro de Informações de Rede de Taiwan',
+    'resources.site.wikimedia': 'Wikimedia Taiwan',
+    'resources.site.digitalDiplomacy':
+      'Associação de Diplomacia Digital de Taiwan',
+
+    'resources.site.tsmc': 'Taiwan Semiconductor Manufacturing Company',
+    'resources.site.umc': 'United Microelectronics Corporation',
+    'resources.site.foxconn': 'Hon Hai Technology',
+    'resources.site.delta': 'Delta Electronics',
+    'resources.site.taiwanExcellence': 'Taiwan Excellence',
+    'resources.site.cht': 'Chunghwa Telecom',
+    'resources.site.taipower': 'Companhia de Energia Elétrica de Taiwan',
+    'resources.site.iii': 'Instituto da Indústria da Informação',
+    'resources.site.investTaiwan': 'Invista em Taiwan',
+
+    'resources.site.railway': 'Ferrovias de Taiwan',
+    'resources.site.thsrc': 'Ferrovia de Alta Velocidade de Taiwan',
+    'resources.site.taiwanTrip': 'Ônibus Turístico de Taiwan',
+    'resources.site.taoyuanAirport': 'Aeroporto Internacional de Taoyuan',
+    'resources.site.metroTaipei': 'Metrô de Taipé',
+    'resources.site.krtc': 'Metrô de Kaohsiung',
+
+    'resources.site.cdc': 'Centros de Controle de Doenças',
+    'resources.site.nhi': 'Administração Nacional do Seguro de Saúde',
+    'resources.site.ntuh': 'Hospital da Universidade Nacional de Taiwan',
+    'resources.site.vghtpe': 'Hospital Geral de Veteranos de Taipé',
+    'resources.site.cgmh': 'Sistema Médico Chang Gung',
+    'resources.site.cmuh': 'Hospital da Universidade Médica da China',
+    'resources.site.kmuh': 'Hospital da Universidade Médica de Kaohsiung',
+
+    'resources.site.stat': 'Estatísticas Nacionais',
+    'resources.site.twse': 'Bolsa de Valores de Taiwan',
+    'resources.site.tpex': 'Bolsa de Valores de Taipé',
+
+    'resources.site.github': 'Repositório do Projeto no GitHub',
+    'resources.site.contribute': 'Guia de Contribuição',
+    'resources.site.rss': 'Assinatura RSS',
+
+    // New community site names
+    'resources.site.electionMap': 'Mapa Eleitoral de Taiwan',
+    'resources.site.maskMap': 'Mapa de Máscaras (2020)',
+    'resources.site.goodinfo': 'Goodinfo Informações sobre Ações de Taiwan',
+    'resources.site.ccw': 'Aliança de Supervisão Cidadã do Parlamento',
+    'resources.site.thaubing': 'Pegada Transparente',
+    'resources.site.politicalDonation': 'Consulta Pública de Doações Políticas',
+    'resources.site.burgerMap': 'Mapa de Hambúrgueres de Taipé',
+    'resources.site.nightMarket': 'App de Mercados Noturnos',
+    'resources.site.cofacts': 'Cofacts Verdadeiro ou Falso',
+    'resources.site.disfactory':
+      'Disfactory Fábricas Ilegais em Terras Agrícolas',
+    'resources.site.ptt': 'PTT Bulletin Board System',
+    'resources.site.ptsNews': 'Rede de Notícias PTS',
+    'resources.site.npgov': 'Portal dos Parques Nacionais',
+    'resources.site.taiwanmd': 'Taiwan.md',
+  },
+  hi: {
+    // Meta
+    'resources.meta.title': 'ताइवान संसाधन मार्गदर्शिका - Taiwan.md',
+    'resources.meta.description':
+      'ताइवान की सरकारी एजेंसियों, सांस्कृतिक संस्थानों, खुले डेटा प्लेटफ़ॉर्म और अन्य आधिकारिक वेबसाइटों का व्यापक संग्रह, जो नीतिगत जानकारी, सांस्कृतिक सामग्री और सांख्यिकीय डेटा तक एक ही स्थान से पहुंच प्रदान करता है',
+
+    // Hero
+    'resources.hero.title': 'ताइवान संसाधन मार्गदर्शिका',
+    'resources.hero.subtitle.html':
+      'सरकारी एजेंसियों, सांस्कृतिक संस्थानों, खुले डेटा और अन्य आधिकारिक संसाधनों का व्यापक संग्रह<br />ताइवान के सबसे प्रामाणिक सूचना स्रोतों तक एक ही स्थान से पहुंच',
+
+    // Breadcrumb
+    'resources.breadcrumb.home': 'मुखपृष्ठ',
+    'resources.breadcrumb.current': 'संसाधन',
+
+    // Core section
+    'resources.core.title': '🏆 प्रमुख चयन',
+    'resources.core.desc':
+      'माइंड मैप में प्रदर्शित ताइवान के सबसे महत्वपूर्ण प्रामाणिक संसाधन',
+
+    // More section
+    'resources.more.title': '🔍 और श्रेणियां',
+    'resources.more.desc':
+      'स्थानीय सरकारों, विश्वविद्यालयों और विभिन्न क्षेत्रों के विस्तृत संसाधन',
+
+    // Category labels (heroData)
+    'resources.category.government.label': '🏛️ आधिकारिक संस्थान',
+    'resources.category.culture.label': '📚 संस्कृति और शिक्षा',
+    'resources.category.tourism.label': '✈️ पर्यटन और यात्रा',
+    'resources.category.economy.label': '💼 प्रौद्योगिकी और अर्थव्यवस्था',
+    'resources.category.media.label': '📰 मीडिया और समाचार',
+    'resources.category.opendata.label': '🌐 खुला डेटा',
+    'resources.category.taiwanmd.label': '📡 Taiwan.md से संबंधित',
+
+    // Section titles & descriptions
+    'resources.section.localGov.title': '🏙️ स्थानीय सरकारें',
+    'resources.section.localGov.desc':
+      'ताइवान की छह विशेष नगरपालिकाओं और सभी काउंटी व शहर सरकारों की आधिकारिक वेबसाइटें',
+
+    'resources.section.universities.title':
+      '🎓 विश्वविद्यालय और अनुसंधान संस्थान',
+    'resources.section.universities.desc':
+      'ताइवान के शीर्ष विश्वविद्यालय और प्रमुख अनुसंधान संस्थान',
+
+    'resources.section.nationalParks.title': '🏔️ राष्ट्रीय उद्यान',
+    'resources.section.nationalParks.desc':
+      'ताइवान के राष्ट्रीय उद्यानों और दर्शनीय क्षेत्रों के प्रशासनिक कार्यालय',
+
+    'resources.section.artsCulture.title': '🎭 कला और संस्कृति स्थल',
+    'resources.section.artsCulture.desc':
+      'प्रमुख संग्रहालय, कला दीर्घाएं और प्रदर्शन स्थल',
+
+    'resources.section.healthcare.title': '🏥 चिकित्सा और स्वास्थ्य',
+    'resources.section.healthcare.desc':
+      'स्वास्थ्य नियामक प्राधिकरण और प्रमुख चिकित्सा संस्थान',
+
+    'resources.section.ngoSociety.title': '🤝 NGO / नागरिक समाज',
+    'resources.section.ngoSociety.desc':
+      'गैर-लाभकारी संगठन और नागरिक समाज के प्रमुख समूह',
+
+    'resources.section.ministries.title': '🏛️ मंत्रालय और एजेंसियां',
+    'resources.section.ministries.desc':
+      'कार्यकारी युआन के मंत्रालय और संबंधित एजेंसियां',
+
+    'resources.section.companies.title': '🏢 प्रमुख कंपनियां',
+    'resources.section.companies.desc':
+      'ताइवान की अग्रणी कंपनियां और प्रौद्योगिकी उद्यम',
+
+    'resources.section.mediaExtra.title': '📺 पारंपरिक मीडिया',
+    'resources.section.mediaExtra.desc':
+      'मुख्यधारा के समाचार माध्यम, रेडियो और टेलीविज़न',
+
+    'resources.section.transportation.title': '🚄 परिवहन',
+    'resources.section.transportation.desc':
+      'सार्वजनिक परिवहन और यातायात सेवाएं',
+
+    'resources.section.digitalCulture.title': '💾 डिजिटल संस्कृति',
+    'resources.section.digitalCulture.desc':
+      'डिजिटल अभिलेख और विज्ञान शिक्षा प्लेटफ़ॉर्म',
+
+    // Projects
+    'resources.projects.title': '🚀 सामुदायिक परियोजनाएं',
+    'resources.projects.desc':
+      'समुदाय की रचनात्मकता और उत्साह से कोड के माध्यम से ताइवान को जानें',
+
+    'resources.projects.food.title': '🍔 भोजन मानचित्र',
+    'resources.projects.food.burger.name': 'ताइपे बर्गर मानचित्र',
+    'resources.projects.food.burger.desc':
+      'ताइपे के बर्गर रेस्तरां की इंटरैक्टिव रैंकिंग वाला मानचित्र, गुणवत्ता के आधार पर वर्गीकृत (T0-T6) और प्रशासनिक जिले के अनुसार फ़िल्टर करने योग्य',
+    'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
+
+    'resources.projects.nightmarket.title': '🌙 रात्रि बाज़ार मार्गदर्शिका',
+    'resources.projects.nightmarket.app.name': 'NightMarketSwift',
+    'resources.projects.nightmarket.app.desc':
+      'ताइवान के रात्रि बाज़ारों का iOS App, जिसमें 400 से अधिक स्थान, खुलने का समय और Google Maps नेविगेशन शामिल हैं',
+    'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
+
+    'resources.projects.civictech.title': '🗳️ नागरिक प्रौद्योगिकी',
+    'resources.projects.civictech.g0v.name': 'g0v शून्यकालीन सरकार',
+    'resources.projects.civictech.g0v.desc':
+      'ताइवान का सबसे बड़ा नागरिक प्रौद्योगिकी समुदाय, जो खुली सरकार और सूचना पारदर्शिता को बढ़ावा देता है',
+    'resources.projects.civictech.g0v.tech': 'विविध प्रौद्योगिकियां',
+
+    'resources.projects.civictech.cofacts.name': 'Cofacts सच या झूठ',
+    'resources.projects.civictech.cofacts.desc':
+      'भ्रामक सूचना से निपटने के लिए सामुदायिक सहयोग से संचालित तथ्य-जांच चैटबॉट',
+    'resources.projects.civictech.cofacts.tech': 'JavaScript / GraphQL',
+
+    'resources.projects.civictech.disfactory.name':
+      'Disfactory कृषि भूमि पर अवैध कारखाने',
+    'resources.projects.civictech.disfactory.desc':
+      'कृषि भूमि पर बने अवैध कारखानों की नागरिकों द्वारा सूचना देने का प्लेटफ़ॉर्म, जो ताइवान की कृषि भूमि की रक्षा करता है',
+    'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
+
+    // CTA & Links
+    'resources.projects.cta.html':
+      'क्या आपके पास सुझाने के लिए कोई परियोजना है? <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a> के माध्यम से सुझाव भेजें!',
+    'resources.projects.github.link': 'GitHub',
+    'resources.backToHome': '← मुखपृष्ठ पर वापस जाएं',
+
+    // Mindmap
+    'resources.mindmap.root.label': '🇹🇼 ताइवान संसाधन',
+
+    // Chapter nav labels
+    'resources.nav.governance': 'शासन',
+    'resources.nav.culture': 'संस्कृति',
+    'resources.nav.media': 'मीडिया',
+    'resources.nav.economy': 'अर्थव्यवस्था',
+    'resources.nav.community': 'समुदाय',
+
+    // Chapter titles & stories
+    'resources.chapter.government.title': 'राष्ट्रीय शासन प्रवेश-द्वार',
+    'resources.chapter.government.story':
+      'फरवरी 2020 में, ताइवान के एक इंजीनियर ने एक सप्ताहांत में 6,000 दवा दुकानों के रियल-टाइम मास्क भंडार को आपस में जोड़ दिया। एक व्यक्ति, एक लैपटॉप, 72 घंटे। यह इसलिए संभव हुआ क्योंकि data.gov.tw पर 50,000+ सरकारी डेटा सेट किसी भी व्यक्ति के उपयोग के लिए हर समय उपलब्ध हैं। ताइवान ने प्रत्येक डाउनलोड योग्य API में 「शासन की पारदर्शिता」 को समाहित किया है।',
+    'resources.chapter.culture.title': 'संस्कृति और ज्ञान का केंद्र',
+    'resources.chapter.culture.story':
+      '36,000 वर्ग किलोमीटर से भी कम क्षेत्रफल में ताइवान में 159 विश्वविद्यालय, 500 से अधिक संग्रहालय, 9 राष्ट्रीय उद्यान और 3,952 मीटर ऊंचे युशान से लेकर प्रवाल-भित्ति तट तक मौजूद हैं। नेशनल पैलेस म्यूज़ियम में चीनी संस्कृति की लगभग 7 लाख बहुमूल्य कलाकृतियां संग्रहित हैं, जबकि गली के नुक्कड़ पर होने वाला मंदिर उत्सव भी उतनी ही जीवंत सांस्कृतिक धरोहर है। इस द्वीप का सांस्कृतिक घनत्व मानचित्र पर इसके आकार से कहीं अधिक है।',
+    'resources.chapter.media.title': 'ताइवान की आवाज़ सुनें',
+    'resources.chapter.media.story':
+      '1995 में नेशनल ताइवान यूनिवर्सिटी के छात्रों ने छात्रावास में एक BBS सर्वर स्थापित कर उसका नाम PTT रखा। 30 साल बाद भी शुद्ध टेक्स्ट इंटरफ़ेस वाला यह फ़ोरम ताइवान का सबसे प्रभावशाली सार्वजनिक चर्चा मंच है। 2014 के सनफ़्लावर आंदोलन के दौरान PTT रियल-टाइम जानकारी का सबसे तेज़ और सबसे व्यापक स्रोत था। मुख्यधारा के समाचार पत्रों से लेकर नेटिज़न फ़ोरम तक, ताइवान के मीडिया परिवेश का हर स्तर लोकतंत्र में अपनी आवाज़ के अधिकार के लिए संघर्ष करता है।',
+    'resources.chapter.economy.title': 'अर्थव्यवस्था और जीवन का इंजन',
+    'resources.chapter.economy.story':
+      'दुनिया में हर दो मोबाइल फ़ोन में से एक में TSMC द्वारा निर्मित चिप इस्तेमाल होती है, जिसे भू-राजनीतिक विद्वान 「सिलिकॉन शील्ड」 कहते हैं। लेकिन चिप तो हिमशैल का सिरा भर हैं: 99.9% कवरेज वाली सार्वभौमिक राष्ट्रीय स्वास्थ्य बीमा व्यवस्था, हर 2.3 वर्ग किलोमीटर पर एक कन्वीनियंस स्टोर और ताइपे से काऊशुंग तक 90 मिनट में पहुँचाने वाली हाई-स्पीड रेल। 2,300 लाख लोगों के रोज़मर्रा के जीवन को एक ऐसी सटीक व्यवस्था सहारा देती है, जिसकी मौजूदगी लगभग महसूस नहीं होती, फिर भी वह हर जगह है।',
+    'resources.chapter.community.title': 'नागरिक प्रौद्योगिकी और समुदाय',
+    'resources.chapter.community.story':
+      'g0v ज़ीरो आवर गवर्नमेंट का motto है, 「यह मत पूछिए कि कोई यह काम क्यों नहीं कर रहा, क्योंकि वह 『कोई नहीं』 आप ही हैं।」 मास्क मानचित्र, फ़ेक न्यूज़ जाँच बॉट और चुनावी वादों के ट्रैकर—ये सभी सप्ताहांत हैकाथॉन से निकले हैं। ताइवान में नागरिक भागीदारी ऐसी दिखती है: कोड लिखना, Issue खोलना और Pull Request भेजना। Taiwan.md भी इसी भावना की उपज है।',
+
+    // Insight cards
+    'resources.insight.gov.branches.number': '5',
+    'resources.insight.gov.branches.label': 'युआन-स्तरीय संस्थाएँ',
+    'resources.insight.gov.ministries.number': '20+',
+    'resources.insight.gov.ministries.label': 'मंत्रालय, परिषदें और एजेंसियाँ',
+    'resources.insight.gov.local.number': '22',
+    'resources.insight.gov.local.label': 'काउंटी और नगर सरकारें',
+
+    'resources.insight.culture.universities.number': '159',
+    'resources.insight.culture.universities.label': 'विश्वविद्यालय',
+    'resources.insight.culture.museums.number': '500+',
+    'resources.insight.culture.museums.label': 'संग्रहालय',
+    'resources.insight.culture.parks.number': '9',
+    'resources.insight.culture.parks.label': 'राष्ट्रीय उद्यान',
+
+    'resources.insight.media.ptt.number': '20 लाख',
+    'resources.insight.media.ptt.label': 'PTT पर दैनिक सक्रिय उपयोगकर्ता',
+    'resources.insight.media.outlets.number': '100+',
+    'resources.insight.media.outlets.label': 'मीडिया संस्थान',
+    'resources.insight.media.ngo.number': '1000+',
+    'resources.insight.media.ngo.label': 'NGO',
+
+    'resources.insight.econ.tsmc.number': '92%',
+    'resources.insight.econ.tsmc.label': 'TSMC की उन्नत विनिर्माण प्रक्रिया',
+    'resources.insight.econ.hsr.number': '99.5%',
+    'resources.insight.econ.hsr.label': 'हाई-स्पीड रेल की समयपालन दर',
+    'resources.insight.econ.nhi.number': '99.9%',
+    'resources.insight.econ.nhi.label': 'राष्ट्रीय स्वास्थ्य बीमा कवरेज',
+
+    'resources.insight.community.g0v.number': '2012',
+    'resources.insight.community.g0v.label': 'g0v की स्थापना',
+    'resources.insight.community.contributors.number': '10K+',
+    'resources.insight.community.contributors.label': 'योगदानकर्ता',
+    'resources.insight.community.projects.number': '800+',
+    'resources.insight.community.projects.label': 'परियोजनाएँ',
+
+    // Subcategory titles
+    'resources.sub.fiveYuan': 'पाँच युआन का मूल तंत्र',
+    'resources.sub.fiveYuan.desc':
+      'ये पाँच युआन ताइवान की विशिष्ट पाँच-शक्ति पृथक्करण व्यवस्था बनाते हैं, जो दुनिया में अपनी तरह की इकलौती व्यवस्था है।',
+    'resources.sub.ministries': 'मंत्रालय, परिषदें और एजेंसियाँ',
+    'resources.sub.ministries.desc':
+      'डिजिटल मामलों के मंत्रालय से लेकर स्वदेशी जन परिषद तक, हर मंत्रालय और एजेंसी का अपना खुला डेटा अनुभाग है।',
+    'resources.sub.localGov': 'स्थानीय सरकारें',
+    'resources.sub.localGov.desc':
+      '22 काउंटी और नगर, स्थानीय शासन की 22 शैलियाँ। छह विशेष नगरपालिकाओं की स्मार्ट सिटी प्रतिस्पर्धा नागरिक सेवाओं को नए सिरे से परिभाषित कर रही है।',
+    'resources.sub.openData': 'खुला डेटा',
+    'resources.sub.openData.desc':
+      'यहीं से ताइवान के नागरिक प्रौद्योगिकी चमत्कार की शुरुआत हुई। मास्क मानचित्र, टीकाकरण बुकिंग और वायु गुणवत्ता निगरानी—सबकी शुरुआत इन्हीं प्लेटफ़ॉर्म से हुई।',
+    'resources.sub.universities': 'शीर्ष विश्वविद्यालय और अनुसंधान संस्थान',
+    'resources.sub.universities.desc':
+      'ताइवान के विश्वविद्यालय केवल पढ़ाते नहीं हैं। नेशनल ताइवान यूनिवर्सिटी की क्वांटम कंप्यूटिंग प्रयोगशाला और नेशनल चेंग कुंग यूनिवर्सिटी का सेमीकंडक्टर अनुसंधान केंद्र वैश्विक अकादमिक नेटवर्क के महत्वपूर्ण केंद्र हैं।',
+    'resources.sub.museums': 'संग्रहालय और पुस्तकालय',
+    'resources.sub.museums.desc':
+      'नेशनल पैलेस म्यूज़ियम की जेडाइट कैबेज से लेकर ची मेई म्यूज़ियम के वायलिन संग्रह तक, ताइवान के संग्रहालय समय और स्थान के पार ले जाने वाले मनचाहे द्वार हैं।',
+    'resources.sub.venues': 'कला-सांस्कृतिक स्थल और रचनात्मक उद्योग',
+    'resources.sub.venues.desc':
+      'ताइवान का कला-सांस्कृतिक परिदृश्य तेज़ी से उभर रहा है। C-LAB, नेशनल थिएटर एंड कॉन्सर्ट हॉल और काऊशुंग का वेइवुयिंग—विश्वस्तरीय स्थलों की यह सघनता न्यूयॉर्क को भी ईर्ष्या करा दे।',
+    'resources.sub.parks': 'राष्ट्रीय उद्यान और दर्शनीय क्षेत्र',
+    'resources.sub.parks.desc':
+      'समुद्र तल से 0 से 3,952 मीटर तक फैले ताइवान के 9 राष्ट्रीय उद्यानों में पृथ्वी के सभी जलवायु क्षेत्र मिलते हैं। एक ही दिन में आप उष्णकटिबंधीय प्रवाल भित्तियों से ऊँचे पहाड़ों की हिमरेखा तक पहुँच सकते हैं।',
+    'resources.sub.mainstream': 'मुख्यधारा मीडिया',
+    'resources.sub.mainstream.desc':
+      '1988 में मार्शल लॉ हटने के बाद समाचार-पत्र प्रतिबंध समाप्त होने से लेकर आज के 24 घंटे समाचार चैनलों की प्रतिस्पर्धा तक, ताइवान को मीडिया की स्वतंत्रता आसानी से नहीं मिली।',
+    'resources.sub.digital': 'डिजिटल-मूल मीडिया',
+    'resources.sub.digital.desc':
+      'पारंपरिक मीडिया के संघर्ष के बीच ताइवान का डिजिटल-मूल मीडिया पत्रकारिता को नए सिरे से परिभाषित कर रहा है। द रिपोर्टर के गैर-लाभकारी मॉडल ने साबित किया है कि गहन पत्रकारिता विज्ञापन के बिना भी टिक सकती है।',
+    'resources.sub.ngo': 'नागरिक समाज और NGO',
+    'resources.sub.ngo.desc':
+      'ताइवान में NGO का घनत्व एशिया में सबसे अधिक है। पर्यावरण संरक्षण से लेकर मानवाधिकार तक, ये संगठन केवल सरकार की निगरानी ही नहीं करते, बल्कि अक्सर नीति से भी आगे चलते हैं।',
+    'resources.sub.companies': 'उद्योग जगत के अग्रणी',
+    'resources.sub.companies.desc':
+      'TSMC से लेकर Hon Hai तक, इन कंपनियों के नाम दुनिया भर की आपूर्ति शृंखला रिपोर्टों में दिखाई देते हैं।',
+    'resources.sub.transport': 'परिवहन',
+    'resources.sub.transport.desc':
+      'ताइवान हाई-स्पीड रेल ताइपे से काऊशुंग की यात्रा केवल 90 मिनट में पूरी कराती है। मेट्रो, बसों की रियल-टाइम सूचना प्रणालियों और YouBike के साथ ताइवान का सार्वजनिक परिवहन एशिया का छिपा हुआ चैंपियन है।',
+    'resources.sub.healthcare': 'चिकित्सा और स्वास्थ्य',
+    'resources.sub.healthcare.desc':
+      'सार्वभौमिक राष्ट्रीय स्वास्थ्य बीमा: एक कार्ड, 99.9% कवरेज और औसतन 15 मिनट की प्रतीक्षा। अमेरिका भी अध्ययन कर रहा है कि ताइवान ने यह कैसे किया।',
+    'resources.sub.finance': 'वित्त और डेटा',
+    'resources.sub.finance.desc':
+      'ताइवान स्टॉक एक्सचेंज एशिया के सबसे पारदर्शी बाज़ारों में से एक है। सूचीबद्ध कंपनियों की वित्तीय रिपोर्ट से लेकर रियल-टाइम ट्रेडिंग डेटा तक, सब कुछ सार्वजनिक रूप से उपलब्ध और जाँच योग्य है।',
+    'resources.sub.civicTech': 'नागरिक प्रौद्योगिकी परियोजनाएँ',
+    'resources.sub.foodMaps': 'खान-पान और संस्कृति के मानचित्र',
+
+    // Related articles
+    'resources.related.democracy': 'आगे पढ़ें: ताइवान का लोकतांत्रिक रूपांतरण',
+    'resources.related.label': 'आगे पढ़ें',
+    'resources.related.government.1': 'ताइवान का लोकतांत्रिक रूपांतरण',
+    'resources.related.government.2': 'चुनाव और दलगत राजनीति',
+    'resources.related.government.3': 'ओपन-सोर्स समुदाय और g0v',
+    'resources.related.culture.1': 'स्वदेशी जन संस्कृति',
+    'resources.related.culture.2': 'शिक्षा व्यवस्था',
+    'resources.related.culture.3': 'राष्ट्रीय उद्यान',
+    'resources.related.media.1': 'सनफ्लावर छात्र आंदोलन',
+    'resources.related.media.2': 'मीडिया और प्रेस की स्वतंत्रता',
+    'resources.related.media.3': 'PTT पिटीपिटी',
+    'resources.related.economy.1': 'TSMC',
+    'resources.related.economy.2': 'सेमीकंडक्टर उद्योग',
+    'resources.related.economy.3': 'सार्वभौमिक राष्ट्रीय स्वास्थ्य बीमा',
+    'resources.related.community.1': 'ओपन-सोर्स समुदाय और g0v',
+    'resources.related.community.2': 'सामाजिक आंदोलन और नागरिक भागीदारी',
+    'resources.related.community.3': 'डिजिटल सरकार',
+
+    // Footer stats
+    'resources.stats.collected': 'संसाधन संकलित',
+    'resources.stats.chapters': 'मुख्य अध्याय',
+    'resources.stats.subcategories': 'उपश्रेणियाँ',
+
+    // Search
+    'resources.search.placeholder': 'संसाधन खोजें...',
+
+    // Aria labels
+    'resources.aria.viewGithub': 'GitHub परियोजना देखें',
+    'resources.aria.backToTop': 'शीर्ष पर वापस जाएं',
+
+    // Reading Guide
+    'resources.guide.title': 'कहां से शुरू करें',
+    'resources.guide.desc':
+      'कल्पना कीजिए कि आप अभी-अभी ताइवान पहुंचे हैं और आपके पास कोई यात्रा-पुस्तिका नहीं है। «शासन» आपको इसकी परिचालन प्रणाली दिखाता है: एक युवा लोकतांत्रिक देश आमूल पारदर्शिता के साथ कैसे काम करता है। «संस्कृति» इसकी आत्मा है: स्विट्जरलैंड से भी छोटे द्वीप पर 500 संग्रहालय, हर साल 15,000 मंदिर उत्सव और 16 आदिवासी भाषाएं। «मीडिया» संवाद को सामने लाता है: 30 साल पुराना केवल-पाठ वाला एक फोरम आज भी चुनावों को प्रभावित करता है, और एशिया का सबसे निर्भीक गैर-लाभकारी न्यूज़रूम यहीं है। «अर्थव्यवस्था» इसकी धड़कन है: एक कंपनी दुनिया के 92% उन्नत चिप बनाती है, और सार्वभौमिक स्वास्थ्य बीमा की लागत आपके मोबाइल बिल से भी कम है। «समुदाय» एक निमंत्रण है: सप्ताहांत हैकाथॉन में नागरिक उपकरण बनाने वाले मुक्त-स्रोत नागरिकों के समूह से जुड़ें।',
+
+    // Curator Notes
+    'resources.curator.government':
+      '🔍 COVID-19 के दौरान ताइवान के नागरिक डेवलपरों ने 72 घंटों के भीतर मास्क मानचित्र और टीका आरक्षण प्रणाली बना दी। इस गति के पीछे दुनिया के शीर्ष तीन सरकारी मुक्त डेटा मंचों में शामिल एक मंच है, जहां 50,000+ डेटासेट, रियल-टाइम API और सभी के लिए खुली पहुंच उपलब्ध है। जब दूसरे देशों के डेवलपर सरकार की प्रेस कॉन्फ्रेंस का इंतजार कर रहे थे, तब ताइवान के डेवलपर code लिख रहे थे।',
+    'resources.curator.culture':
+      '🔍 बहुत कम लोग जानते हैं कि ताइवान में संग्रहालयों का घनत्व एशिया में सबसे अधिक में से एक है। लेकिन आंकड़े केवल ऊपरी तस्वीर हैं; असली विशेषता इसकी «जीवंत» संस्कृति है: हर साल 15,000 से अधिक मंदिर उत्सव, आदिवासी समुदायों की 16 भाषाएं और हक्का लोकगीत प्रतियोगिताएं। ताइवान की संस्कृति केवल कांच की अलमारियों में नहीं है, वह सड़कों पर चलती-फिरती है।',
+    'resources.curator.media':
+      '🔍 PTT कितना प्रभावशाली है? 2018 के जनमत-संग्रह के दौरान PTT के गॉसिप बोर्ड पर हुई चर्चा की मात्रा ने मतदान प्रतिशत को सीधे प्रभावित किया। वहीं द रिपोर्टर (The Reporter) का अस्तित्व और भी विस्मयकारी है: पूरी तरह दान से संचालित यह खोजी मीडिया संस्थान लगातार कई वर्षों से एशियाई पत्रकारिता पुरस्कारों के लिए नामांकित होता रहा है। फर्जी खबरों से भरे इस दौर में ताइवान के पास सबसे सक्रिय नेटिजन संस्कृति और तथ्य-जांच करने वाला सबसे गंभीर समुदाय, दोनों हैं। यह विरोधाभास स्वयं लोकतंत्र की जीवंतता है।',
+    'resources.curator.economy':
+      '🔍 जब देश इस पर बहस कर रहे थे कि «चिप अधिनियम» के तहत कितनी सब्सिडी दी जाए, तब ताइवान 30 साल लगाकर इसका उत्तर सिलिकॉन वेफर पर लिख चुका था: तेल और लौह अयस्क से रहित एक छोटा द्वीप प्रतिभा और नैनोमीटर-स्तरीय विनिर्माण प्रक्रियाओं के बल पर दुनिया की 92% उन्नत चिप उत्पादन क्षमता नियंत्रित करता है। इस आंकड़े ने पेंटागन की रिपोर्टों में एक नया शब्द जोड़ दिया: «सिलिकॉन शील्ड»।',
+    'resources.curator.community':
+      '🔍 g0v के द्विमासिक हैकाथॉन 60 से अधिक बार आयोजित हो चुके हैं, जिनमें हर बार सैकड़ों इंजीनियर, डिजाइनर और NGO कर्मी स्वेच्छा से पहुंचते हैं। न पारिश्रमिक, न बॉस—केवल एक लैपटॉप और हल की प्रतीक्षा करती एक समस्या। मास्क मानचित्र ऐसे ही बना था: एक सप्ताहांत, कुछ इंजीनियर और छह हजार दवा दुकानों का रियल-टाइम डेटा। सिलिकॉन वैली «दुनिया बदलने» का नारा लगाती है; ताइवान का मुक्त-स्रोत समुदाय इसे करके दिखाता है।',
+
+    // Featured site descriptions
+    'resources.featured.dataGov':
+      'दुनिया में पहले स्थान वाला सरकारी मुक्त डेटा मंच, जहां वायु गुणवत्ता से लेकर बसों की रियल-टाइम स्थिति तक 50,000 से अधिक डेटासेट मुफ्त डाउनलोड के लिए उपलब्ध हैं।',
+    'resources.featured.g0vGov':
+      'शून्यकालीन सरकार: शासन को नए सिरे से गढ़ने वाला नागरिक प्रौद्योगिकी समुदाय। मास्क मानचित्र से vTaiwan तक, इसने हैकरों और नीति-निर्माताओं के बीच की सीमा धुंधली कर दी है।',
+    'resources.featured.legislativeYuan':
+      'ताइवान की संसद—सदन की कार्यवाही का सीधा प्रसारण, विधेयकों की निगरानी और लोकतांत्रिक विचार-विमर्श की अग्रिम पंक्ति।',
+
+    'resources.featured.npm':
+      '8000 वर्षों में फैली 70 लाख से अधिक कलाकृतियों का संग्रह; दुनिया के महानतम चीनी कला संग्रहों में से एक, जो अब डिजिटल प्रदर्शनियां भी प्रस्तुत करता है।',
+    'resources.featured.ncl':
+      'ताइवान का राष्ट्रीय पुस्तकालय और वैधानिक जमा केंद्र, जो देश में प्रकाशित ज्ञान के संग्रहण का केंद्रीय संस्थान है।',
+    'resources.featured.npgov':
+      '9 राष्ट्रीय उद्यानों का प्रवेश-द्वार, जो तीन हजार मीटर ऊंचे पर्वतों से प्रवाल भित्तियों तक ताइवान के 36,000 वर्ग किलोमीटर में फैली असाधारण जैव विविधता को समेटता है।',
+
+    'resources.featured.twreporter':
+      'चीनी-भाषी जगत में गैर-लाभकारी खोजी पत्रकारिता का अग्रदूत, जो पर्यावरण, सामाजिक और राजनीतिक मुद्दों की गहन पड़ताल करता है।',
+    'resources.featured.ptt':
+      'ताइवान का सबसे बड़ा ऑनलाइन फोरम। 1995 से हर दिन 20 लाख सक्रिय उपयोगकर्ता इसकी अनूठी «नेटिजन लोकतंत्र» संस्कृति को संचालित करते हैं।',
+    'resources.featured.ptsNews':
+      'ताइवान सार्वजनिक टेलीविजन समाचार—स्वतंत्र और निष्पक्ष रिपोर्टिंग तथा जनहित पत्रकारिता का स्वर्ण मानक।',
+
+    'resources.featured.tsmc':
+      'दुनिया की सबसे मूल्यवान सेमीकंडक्टर कंपनी, जो AI, स्मार्टफोन और सुपरकंप्यूटर चलाने वाले 92% सर्वाधिक उन्नत चिप बनाती है।',
+    'resources.featured.twse':
+      'ताइवान के पूंजी बाजार का केंद्र, जहां TSMC और Hon Hai सूचीबद्ध हैं।',
+    'resources.featured.nhi':
+      '99.9% आबादी को कवर करने वाला और GDP का केवल 6.6% खर्च करने वाला सार्वभौमिक स्वास्थ्य बीमा, जिसका अध्ययन दुनिया भर के स्वास्थ्य नीति विशेषज्ञ एक आदर्श के रूप में करते हैं।',
+
+    'resources.featured.g0v':
+      'दुनिया के सबसे प्रभावशाली नागरिक प्रौद्योगिकी समुदायों में से एक, जिसने COVID मास्क मानचित्र, vTaiwan विचार-विमर्श मंच और एक डिजिटल मंत्री को जन्म दिया।',
+    'resources.featured.cofacts':
+      'LINE पर सामुदायिक सहयोग से तथ्य-जांच, जहां लाखों उपयोगकर्ता AI की सहायता से सत्यापन कर झूठी सूचनाओं का मुकाबला करते हैं।',
+    'resources.featured.taiwanmd':
+      'जिस परियोजना को आप अभी देख रहे हैं—ताइवान का मुक्त-स्रोत, सामुदायिक सहयोग से निर्मित विश्वकोश।',
+
+    // Section footer
+    'resources.section.footer.verified': 'अंतिम सत्यापन: 2026-03-24',
+    'resources.section.footer.reportLink': 'निष्क्रिय लिंक की सूचना दें',
+
+    // Footer / Last updated
+    'resources.footer.lastUpdated': 'अंतिम अपडेट: मार्च 2026',
+    'resources.footer.report': 'निष्क्रिय लिंक की सूचना दें',
+    'resources.footer.reportUrl':
+      'https://github.com/frank890417/taiwan-md/issues',
+    'resources.footer.stats.total': '200+',
+
+    // Site names
+    'resources.site.president': 'चीन गणराज्य (ताइवान) राष्ट्रपति कार्यालय',
+    'resources.site.executiveYuan': 'कार्यकारी युआन',
+    'resources.site.legislativeYuan': 'विधायी युआन',
+    'resources.site.judicialYuan': 'न्यायिक युआन',
+    'resources.site.examinationYuan': 'परीक्षा युआन',
+    'resources.site.controlYuan': 'नियंत्रण युआन',
+
+    'resources.site.mofa': 'विदेश मंत्रालय',
+    'resources.site.moda': 'डिजिटल मामलों का मंत्रालय',
+    'resources.site.cip': 'आदिवासी जन परिषद',
+    'resources.site.moc': 'संस्कृति मंत्रालय',
+    'resources.site.moe': 'शिक्षा मंत्रालय',
+    'resources.site.moea': 'आर्थिक मामलों का मंत्रालय',
+    'resources.site.motc': 'परिवहन एवं संचार मंत्रालय',
+    'resources.site.moi': 'गृह मंत्रालय',
+    'resources.site.ndc': 'राष्ट्रीय विकास परिषद',
+    'resources.site.mac': 'मुख्यभूमि मामलों की परिषद',
+    'resources.site.mol': 'श्रम मंत्रालय',
+    'resources.site.moenv': 'पर्यावरण मंत्रालय',
+    'resources.site.moa': 'कृषि मंत्रालय',
+    'resources.site.mnd': 'राष्ट्रीय रक्षा मंत्रालय',
+    'resources.site.moj': 'न्याय मंत्रालय',
+    'resources.site.mohw': 'स्वास्थ्य एवं कल्याण मंत्रालय',
+    'resources.site.trade':
+      'आर्थिक मामलों के मंत्रालय का अंतरराष्ट्रीय व्यापार प्रशासन',
+    'resources.site.sme': 'लघु, मध्यम एवं स्टार्टअप उद्यम प्रशासन',
+    'resources.site.tipo':
+      'आर्थिक मामलों के मंत्रालय का बौद्धिक संपदा कार्यालय',
+    'resources.site.fsc': 'वित्तीय पर्यवेक्षण आयोग',
+    'resources.site.immigration': 'गृह मंत्रालय की राष्ट्रीय आव्रजन एजेंसी',
+    'resources.site.cwa': 'केंद्रीय मौसम प्रशासन',
+    'resources.site.nstc': 'राष्ट्रीय विज्ञान एवं प्रौद्योगिकी परिषद',
+
+    'resources.site.taipei': 'ताइपे नगर सरकार',
+    'resources.site.newTaipei': 'न्यू ताइपे नगर सरकार',
+    'resources.site.taichung': 'ताइचुंग नगर सरकार',
+    'resources.site.kaohsiung': 'काऊशुंग नगर सरकार',
+    'resources.site.tainan': 'ताइनान नगर सरकार',
+    'resources.site.taoyuan': 'ताओयुआन नगर सरकार',
+    'resources.site.keelung': 'कीलुंग नगर सरकार',
+    'resources.site.hsinchu': 'सिन्चू नगर सरकार',
+    'resources.site.chiayi': 'चियाई नगर सरकार',
+    'resources.site.yilan': 'यीलान काउंटी सरकार',
+    'resources.site.hsinchuCounty': 'सिन्चू काउंटी सरकार',
+    'resources.site.miaoli': 'मियाओली काउंटी सरकार',
+    'resources.site.changhua': 'चांगहुआ काउंटी सरकार',
+    'resources.site.nantou': 'नानतौ काउंटी सरकार',
+    'resources.site.yunlin': 'युनलिन काउंटी सरकार',
+    'resources.site.chiayiCounty': 'चियाई काउंटी सरकार',
+    'resources.site.pingtung': 'पिंगतुंग काउंटी सरकार',
+    'resources.site.taitung': 'ताइतुंग काउंटी सरकार',
+    'resources.site.hualien': 'हुआलिएन काउंटी सरकार',
+    'resources.site.penghu': 'पेंगहू काउंटी सरकार',
+    'resources.site.kinmenGov': 'किनमेन काउंटी सरकार',
+    'resources.site.lienchiang': 'लिएनचियांग काउंटी सरकार',
+    'resources.site.dataGov': 'सरकारी डेटा खुला मंच',
+    'resources.site.taiwanGov': 'सरकारी पोर्टल वेबसाइट',
+    'resources.site.lawDb': 'राष्ट्रीय विधि एवं विनियम डेटाबेस',
+    'resources.site.g0v': 'g0v शून्यकालीन सरकार',
+
+    'resources.site.ntu': 'राष्ट्रीय ताइवान विश्वविद्यालय',
+    'resources.site.nthu': 'राष्ट्रीय त्सिंग हुआ विश्वविद्यालय',
+    'resources.site.nycu': 'राष्ट्रीय यांग मिंग चियाओ तुंग विश्वविद्यालय',
+    'resources.site.ncku': 'राष्ट्रीय चेंग कुंग विश्वविद्यालय',
+    'resources.site.nccu': 'राष्ट्रीय चेंगची विश्वविद्यालय',
+    'resources.site.ntnu': 'राष्ट्रीय ताइवान नॉर्मल विश्वविद्यालय',
+    'resources.site.sinica': 'एकेडेमिया सिनिका',
+    'resources.site.tesd': 'ताइवान अनुभवजन्य सर्वेक्षण डेटा मंच',
+    'resources.site.tcs': 'ताइवान संचार सर्वेक्षण डेटाबेस',
+    'resources.site.brill': 'Brill ताइवान अध्ययन विश्वकोश',
+    'resources.site.itri': 'औद्योगिक प्रौद्योगिकी अनुसंधान संस्थान',
+    'resources.site.niar': 'राष्ट्रीय अनुप्रयुक्त अनुसंधान प्रयोगशालाएँ',
+    'resources.site.airitilibrary': 'एयरिटी ऑनलाइन पुस्तकालय',
+    'resources.site.ndltd': 'ताइवान शोध-प्रबंध ज्ञान संवर्धन प्रणाली',
+
+    'resources.site.ncl': 'राष्ट्रीय केंद्रीय पुस्तकालय',
+    'resources.site.npm': 'राष्ट्रीय पैलेस संग्रहालय',
+    'resources.site.ntm': 'राष्ट्रीय ताइवान संग्रहालय',
+    'resources.site.nmth': 'राष्ट्रीय ताइवान इतिहास संग्रहालय',
+    'resources.site.nmns': 'राष्ट्रीय प्राकृतिक विज्ञान संग्रहालय',
+    'resources.site.nmmba':
+      'राष्ट्रीय समुद्री जीवविज्ञान एवं एक्वेरियम संग्रहालय',
+    'resources.site.nmtl': 'राष्ट्रीय ताइवान साहित्य संग्रहालय',
+    'resources.site.ntmofa': 'राष्ट्रीय ताइवान ललित कला संग्रहालय',
+
+    'resources.site.tfam': 'ताइपे ललित कला संग्रहालय',
+    'resources.site.kmfa': 'काऊशुंग ललित कला संग्रहालय',
+    'resources.site.npacNtt': 'ताइचुंग राष्ट्रीय रंगमंच',
+    'resources.site.npacNtch': 'राष्ट्रीय रंगमंच एवं संगीत सभागार',
+    'resources.site.weiwuying': 'वेइवूयिंग कला केंद्र',
+    'resources.site.songshan': 'सोंगशान सांस्कृतिक एवं रचनात्मक पार्क',
+    'resources.site.huashan': 'हुआशान सांस्कृतिक एवं रचनात्मक पार्क',
+    'resources.site.pier2': 'पियर-2 कला केंद्र',
+    'resources.site.digitalArchives': 'ताइवान डिजिटल अभिलेखागार',
+    'resources.site.scitechVista': 'विज्ञान एवं प्रौद्योगिकी विस्टा',
+    'resources.site.tcmb': 'राष्ट्रीय सांस्कृतिक स्मृति बैंक',
+    'resources.site.taicca': 'ताइवान क्रिएटिव कंटेंट एजेंसी TAICCA',
+
+    'resources.site.yushan': 'यूशान राष्ट्रीय उद्यान',
+    'resources.site.taroko': 'तारोको राष्ट्रीय उद्यान',
+    'resources.site.kenting': 'केंटिंग राष्ट्रीय उद्यान',
+    'resources.site.sheipa': 'शेई-पा राष्ट्रीय उद्यान',
+    'resources.site.yangmingshan': 'यांगमिंगशान राष्ट्रीय उद्यान',
+    'resources.site.kinmenPark': 'किनमेन राष्ट्रीय उद्यान',
+    'resources.site.taijiang': 'ताइचियांग राष्ट्रीय उद्यान',
+    'resources.site.dongsha': 'डोंगशा एटोल राष्ट्रीय उद्यान',
+    'resources.site.southPenghu': 'दक्षिण पेंघू समुद्री राष्ट्रीय उद्यान',
+    'resources.site.taiwanTourism': 'Taiwan Tourism',
+    'resources.site.sunMoonLake': 'सन मून लेक राष्ट्रीय दर्शनीय क्षेत्र',
+    'resources.site.alishan': 'अलीशान राष्ट्रीय दर्शनीय क्षेत्र',
+
+    'resources.site.cna': 'केंद्रीय समाचार एजेंसी',
+    'resources.site.pts': 'सार्वजनिक टेलीविजन सेवा',
+    'resources.site.focusTaiwan': 'Focus Taiwan',
+    'resources.site.taiwanToday': 'Taiwan Today',
+    'resources.site.panorama': 'ताइवान पैनोरमा पत्रिका',
+    'resources.site.rti': 'रेडियो ताइवान इंटरनेशनल',
+    'resources.site.udn': 'यूनाइटेड डेली न्यूज़',
+    'resources.site.ltn': 'लिबर्टी टाइम्स',
+    'resources.site.tvbs': 'TVBS समाचार वेबसाइट',
+    'resources.site.setn': 'SETN समाचार वेबसाइट',
+    'resources.site.ebc': 'ईबीसी न्यूज़',
+    'resources.site.commonwealth': 'कॉमनवेल्थ पत्रिका',
+    'resources.site.businesstoday': 'बिज़नेस टुडे',
+    'resources.site.businessweekly': 'बिज़नेस वीकली',
+
+    'resources.site.twreporter': 'द रिपोर्टर',
+    'resources.site.taiwanNews': 'Taiwan News',
+    'resources.site.thenewslens': 'द न्यूज़ लेंस',
+    'resources.site.upmedia': 'अप मीडिया',
+    'resources.site.storm': 'द स्टॉर्म मीडिया',
+
+    'resources.site.tahr': 'ताइवान मानवाधिकार संघ',
+    'resources.site.teia': 'ताइवान पर्यावरण सूचना संघ',
+    'resources.site.sow': 'सोसाइटी ऑफ वाइल्डरनेस',
+    'resources.site.ocf': 'ओपन कल्चर फाउंडेशन',
+    'resources.site.tfc': 'ताइवान तथ्य-जाँच केंद्र',
+    'resources.site.twnic': 'ताइवान नेटवर्क सूचना केंद्र',
+    'resources.site.wikimedia': 'विकिमीडिया ताइवान',
+    'resources.site.digitalDiplomacy': 'ताइवान डिजिटल कूटनीति संघ',
+
+    'resources.site.tsmc': 'ताइवान सेमीकंडक्टर मैन्युफैक्चरिंग कंपनी',
+    'resources.site.umc': 'यूनाइटेड माइक्रोइलेक्ट्रॉनिक्स कॉर्पोरेशन',
+    'resources.site.foxconn': 'होन हाई टेक्नोलॉजी',
+    'resources.site.delta': 'डेल्टा इलेक्ट्रॉनिक्स',
+    'resources.site.taiwanExcellence': 'Taiwan Excellence',
+    'resources.site.cht': 'चुंगह्वा टेलीकॉम',
+    'resources.site.taipower': 'ताइवान पावर कंपनी',
+    'resources.site.iii': 'सूचना उद्योग संस्थान',
+    'resources.site.investTaiwan': 'ताइवान में निवेश करें',
+
+    'resources.site.railway': 'ताइवान रेलवे',
+    'resources.site.thsrc': 'ताइवान हाई स्पीड रेल',
+    'resources.site.taiwanTrip': 'ताइवान टूरिस्ट शटल',
+    'resources.site.taoyuanAirport': 'ताओयुआन अंतरराष्ट्रीय हवाई अड्डा',
+    'resources.site.metroTaipei': 'ताइपे मेट्रो',
+    'resources.site.krtc': 'काऊशुंग मेट्रो',
+
+    'resources.site.cdc': 'रोग नियंत्रण प्रशासन',
+    'resources.site.nhi': 'राष्ट्रीय स्वास्थ्य बीमा प्रशासन',
+    'resources.site.ntuh': 'राष्ट्रीय ताइवान विश्वविद्यालय अस्पताल',
+    'resources.site.vghtpe': 'ताइपे वेटरन्स जनरल अस्पताल',
+    'resources.site.cgmh': 'चांग गुंग चिकित्सा प्रणाली',
+    'resources.site.cmuh': 'चाइना मेडिकल यूनिवर्सिटी अस्पताल',
+    'resources.site.kmuh': 'काऊशुंग मेडिकल यूनिवर्सिटी अस्पताल',
+
+    'resources.site.stat': 'राष्ट्रीय सांख्यिकी',
+    'resources.site.twse': 'ताइवान स्टॉक एक्सचेंज',
+    'resources.site.tpex': 'ताइपे एक्सचेंज',
+
+    'resources.site.github': 'GitHub परियोजना रिपॉज़िटरी',
+    'resources.site.contribute': 'योगदान दिशानिर्देश',
+    'resources.site.rss': 'RSS सदस्यता',
+
+    // New community site names
+    'resources.site.electionMap': 'ताइवान चुनाव मानचित्र',
+    'resources.site.maskMap': 'मास्क मानचित्र（2020）',
+    'resources.site.goodinfo': 'Goodinfo ताइवान शेयर जानकारी',
+    'resources.site.ccw': 'नागरिक कांग्रेस निगरानी गठबंधन',
+    'resources.site.thaubing': 'पारदर्शी पदचिह्न',
+    'resources.site.politicalDonation': 'राजनीतिक चंदा सार्वजनिक खोज',
+    'resources.site.burgerMap': 'ताइपे बर्गर मानचित्र',
+    'resources.site.nightMarket': 'नाइट मार्केट App',
+    'resources.site.cofacts': 'Cofacts सच या झूठ',
+    'resources.site.disfactory': 'Disfactory कृषि भूमि पर अवैध कारखाने',
+    'resources.site.ptt': 'PTT पिटीटी',
+    'resources.site.ptsNews': 'पीटीएस न्यूज़ वेबसाइट',
+    'resources.site.npgov': 'राष्ट्रीय उद्यान पोर्टल',
+    'resources.site.taiwanmd': 'Taiwan.md',
+  },
   'zh-TW': {
     // Meta
     'resources.meta.title': '台灣資源導覽 - Taiwan.md',

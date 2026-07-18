@@ -174,6 +174,142 @@ export const timelineUI = {
     'timeline.outroContribute': 'Proposer un article',
     'timeline.outroHistory': 'Parcourir la section Histoire',
   },
+  vi: {
+    'timeline.figures': 'Những gương mặt của thời đại',
+    'timeline.prologueSource':
+      'Cách phân kỳ trên trang này dựa trên «Quan điểm lịch sử đảo Đài Loan» do nhà sử học Tào Vĩnh Hòa (Ts’ao Yung-ho) đề xuất năm 1990.',
+    'timeline.prologueSourceCta': 'Đọc bài viết',
+    'timeline.outroMap': 'Địa lý Đài Loan: Bản đồ',
+    'timeline.statEras': 'thời đại',
+    'timeline.statEvents': 'thời khắc then chốt',
+    'timeline.statArticles': 'bài viết nối vào trục thời gian',
+    'timeline.outroLinked': 'bài viết đã được nối vào trục thời gian này',
+    'nav.timeline': 'Đài Loan theo dòng thời gian',
+    'nav.timeline.subtitle': 'Mở rộng hòn đảo theo chiều thời gian',
+    'timeline.meta.title':
+      'Đài Loan theo dòng thời gian: Trục lịch sử từ thời tiền sử đến nay',
+    'timeline.meta.description':
+      'Cuộn từ trên xuống để mở ra từng thời đại của Đài Loan: từ nguồn gốc Nam Đảo, cuộc tranh giành giữa Hà Lan và Tây Ban Nha, thời Minh–Trịnh, thời Thanh cai trị, thời Nhật cai trị, thiết quân luật, dân chủ hóa đến đương đại — mỗi thời đại đều được kết nối với các bài viết chuyên sâu và nghiên cứu trên trang.',
+    'timeline.eyebrow': 'Từ thời tiền sử đến nay',
+    'timeline.title': 'Đài Loan theo dòng thời gian',
+    'timeline.subtitle':
+      'Bản đồ mở rộng hòn đảo này theo chiều không gian, còn trang này mở rộng nó theo chiều thời gian. Hãy cuộn từ thời tiền sử đến hiện tại; mỗi thời đại đều được kết nối với các bài viết và nghiên cứu trên trang.',
+    'timeline.heroNote':
+      'Lấy hòn đảo làm sân khấu, lấy con người làm nhân vật chính — các chính quyền chỉ là những diễn viên đến rồi đi.',
+    'timeline.jumpLabel': 'Chuyển đến một thời đại',
+    'timeline.events': 'Thời khắc then chốt',
+    'timeline.anchorsLabel': 'Bắt đầu đọc từ bài này',
+    'timeline.articlesLabel': 'Bài viết về thời đại này',
+    'timeline.desertTitle': 'Giai đoạn này vẫn còn rất ít nội dung',
+    'timeline.desertCta': 'Hãy cùng chấp bút',
+    'timeline.outroTitle': 'Bạn cũng là người viết nên lịch sử',
+    'timeline.outroBody':
+      'Trục thời gian này được kết nối từ các bài viết trên trang, nhưng vẫn còn lâu mới hoàn chỉnh — một số thời đại gần như vẫn còn bỏ trống. Taiwan.md là một kho tri thức nguồn mở: mỗi khoảng trống đều là một lời mời.',
+    'timeline.outroContribute': 'Đóng góp một bài viết',
+    'timeline.outroHistory': 'Duyệt chuyên mục lịch sử',
+  },
+  id: {
+    'timeline.figures': 'Wajah zaman ini',
+    'timeline.prologueSource':
+      'Pembagian periode di halaman ini mengacu pada “Perspektif Sejarah Pulau Taiwan” yang dikemukakan oleh sejarawan Ts’ao Yung-ho pada tahun 1990.',
+    'timeline.prologueSourceCta': 'Baca tulisan ini',
+    'timeline.outroMap': 'Geografi Taiwan: Peta',
+    'timeline.statEras': 'era',
+    'timeline.statEvents': 'momen penting',
+    'timeline.statArticles': 'artikel terhubung ke linimasa',
+    'timeline.outroLinked': 'artikel telah terhubung ke linimasa ini',
+    'nav.timeline': 'Taiwan dalam Lintasan Waktu',
+    'nav.timeline.subtitle': 'Membentangkan Taiwan sepanjang waktu',
+    'timeline.meta.title':
+      'Taiwan dalam Lintasan Waktu: Linimasa Sejarah dari Prasejarah hingga Kini',
+    'timeline.meta.description':
+      'Gulir dari atas ke bawah untuk membentangkan setiap era Taiwan: mulai dari asal-usul Austronesia, persaingan Belanda-Spanyol, Kerajaan Tungning, pemerintahan Qing, pemerintahan Jepang, darurat militer, demokratisasi, hingga masa kini—setiap era terhubung dengan artikel mendalam dan riset di situs ini.',
+    'timeline.eyebrow': 'Dari prasejarah hingga kini',
+    'timeline.title': 'Taiwan dalam Lintasan Waktu',
+    'timeline.subtitle':
+      'Peta membentangkan Taiwan dalam ruang, sementara halaman ini membentangkannya dalam waktu. Gulir dari masa prasejarah hingga kini; setiap era terhubung dengan artikel dan riset di situs ini.',
+    'timeline.heroNote':
+      'Taiwan adalah panggungnya, manusia adalah tokoh utamanya—rezim hanyalah para pemain yang datang dan pergi.',
+    'timeline.jumpLabel': 'Lompat ke suatu era',
+    'timeline.events': 'Momen penting',
+    'timeline.anchorsLabel': 'Mulai membaca dari sini',
+    'timeline.articlesLabel': 'Artikel dari era ini',
+    'timeline.desertTitle': 'Bagian ini masih sangat minim',
+    'timeline.desertCta': 'Mari menulis bersama',
+    'timeline.outroTitle': 'Anda juga penulis sejarah',
+    'timeline.outroBody':
+      'Linimasa ini dirajut dari artikel-artikel di situs ini, dan penulisannya masih jauh dari selesai—beberapa era bahkan nyaris kosong. Taiwan.md adalah basis pengetahuan sumber terbuka: setiap bagian yang kosong merupakan sebuah undangan.',
+    'timeline.outroContribute': 'Kontribusikan sebuah artikel',
+    'timeline.outroHistory': 'Jelajahi kategori sejarah',
+  },
+  pt: {
+    'timeline.figures': 'Os rostos desta era',
+    'timeline.prologueSource':
+      'A periodização desta página baseia-se na perspectiva histórica centrada na ilha de Taiwan, proposta pelo historiador Tsao Yung-ho em 1990.',
+    'timeline.prologueSourceCta': 'Leia o artigo',
+    'timeline.outroMap': 'Geografia de Taiwan: mapa',
+    'timeline.statEras': 'eras',
+    'timeline.statEvents': 'momentos decisivos',
+    'timeline.statArticles': 'artigos ligados à linha do tempo',
+    'timeline.outroLinked': 'artigos já ligados a esta linha do tempo',
+    'nav.timeline': 'Taiwan através do tempo',
+    'nav.timeline.subtitle': 'Explore a ilha ao longo do tempo',
+    'timeline.meta.title':
+      'Taiwan através do tempo: uma linha do tempo da pré-história ao presente',
+    'timeline.meta.description':
+      'Role para baixo e explore cada era de Taiwan: das origens austronésias, passando pelas disputas entre neerlandeses e espanhóis, pelo Reino de Tungning, pelo domínio Qing, pelo domínio japonês, pela lei marcial e pela democratização, até os dias atuais — cada era está ligada a artigos aprofundados e pesquisas do site.',
+    'timeline.eyebrow': 'Da pré-história ao presente',
+    'timeline.title': 'Taiwan através do tempo',
+    'timeline.subtitle':
+      'O mapa revela esta ilha no espaço; esta página a revela no tempo. Role da pré-história ao presente e encontre, em cada era, artigos e pesquisas do site.',
+    'timeline.heroNote':
+      'A ilha é o palco e as pessoas são as protagonistas — os regimes são apenas atores que vêm e vão.',
+    'timeline.jumpLabel': 'Ir para uma era',
+    'timeline.events': 'Momentos decisivos',
+    'timeline.anchorsLabel': 'Comece por aqui',
+    'timeline.articlesLabel': 'Artigos desta era',
+    'timeline.desertTitle': 'Este período ainda tem pouco conteúdo',
+    'timeline.desertCta': 'Venha escrever conosco',
+    'timeline.outroTitle': 'Você também escreve a história',
+    'timeline.outroBody':
+      'Esta linha do tempo é costurada com os artigos do site, mas está longe de estar completa — algumas eras ainda estão quase em branco. Taiwan.md é uma base de conhecimento de código aberto: cada espaço em branco é um convite.',
+    'timeline.outroContribute': 'Contribua com um artigo',
+    'timeline.outroHistory': 'Explorar a categoria de história',
+  },
+  hi: {
+    'timeline.figures': 'इस युग के चेहरे',
+    'timeline.prologueSource':
+      'इस पृष्ठ की काल-विभाजन पद्धति इतिहासकार त्साओ युंग-हो द्वारा 1990 में प्रस्तुत ‘‘ताइवान द्वीप-केंद्रित इतिहास-दृष्टि’’ से ली गई है।',
+    'timeline.prologueSourceCta': 'यह लेख पढ़ें',
+    'timeline.outroMap': 'ताइवान का भूगोल: मानचित्र',
+    'timeline.statEras': 'युग',
+    'timeline.statEvents': 'निर्णायक क्षण',
+    'timeline.statArticles': 'लेख इस समयरेखा से जुड़े हैं',
+    'timeline.outroLinked': 'लेख इस समयरेखा से जुड़ चुके हैं',
+    'nav.timeline': 'समय में ताइवान',
+    'nav.timeline.subtitle': 'द्वीप को समय के क्रम में खोलें',
+    'timeline.meta.title':
+      'समय में ताइवान: प्रागैतिहासिक काल से वर्तमान तक की ऐतिहासिक समयरेखा',
+    'timeline.meta.description':
+      'ऊपर से नीचे स्क्रॉल कर ताइवान के हर युग को खोलें: ऑस्ट्रोनेशियाई उद्गम, डच-स्पेनी होड़, झेंग शासन, छिंग शासन, जापानी शासन, मार्शल लॉ और लोकतंत्रीकरण से लेकर समकालीन दौर तक——हर युग साइट पर उपलब्ध गहन लेखों और शोध से जुड़ा है।',
+    'timeline.eyebrow': 'प्रागैतिहासिक काल से वर्तमान तक',
+    'timeline.title': 'समय में ताइवान',
+    'timeline.subtitle':
+      'मानचित्र इस द्वीप को स्थान के आयाम में खोलता है, जबकि यह पृष्ठ इसे समय के क्रम में खोलता है। प्रागैतिहासिक काल से वर्तमान तक स्क्रॉल करें; हर युग साइट पर उपलब्ध लेखों और शोध से जुड़ा है।',
+    'timeline.heroNote':
+      'मंच है द्वीप और मुख्य पात्र हैं लोग——सत्ताएँ तो केवल आने-जाने वाले कलाकार हैं।',
+    'timeline.jumpLabel': 'किसी युग पर जाएँ',
+    'timeline.events': 'निर्णायक क्षण',
+    'timeline.anchorsLabel': 'यहाँ से पढ़ना शुरू करें',
+    'timeline.articlesLabel': 'इस युग के लेख',
+    'timeline.desertTitle': 'यह हिस्सा अभी बहुत अधूरा है',
+    'timeline.desertCta': 'आइए, मिलकर लिखें',
+    'timeline.outroTitle': 'आप भी इतिहास लिखने वालों में हैं',
+    'timeline.outroBody':
+      'यह समयरेखा साइट पर उपलब्ध लेखों को जोड़कर बुनी गई है, और इसका लेखन अभी पूरा होने से बहुत दूर है——कुछ युग अब भी लगभग रिक्त हैं।Taiwan.md एक ओपन-सोर्स ज्ञानकोश है: हर रिक्त स्थान एक आमंत्रण है।',
+    'timeline.outroContribute': 'एक लेख का योगदान दें',
+    'timeline.outroHistory': 'इतिहास श्रेणी देखें',
+  },
   'zh-TW': {
     'timeline.figures': '這個時代的臉',
     'timeline.prologueSource':

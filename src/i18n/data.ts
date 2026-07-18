@@ -1404,6 +1404,2007 @@ export const dataUI = {
     'data.tooltip.employees': '직원',
     'data.tooltip.founded': '설립',
   },
+  vi: {
+    // Company Names (50 companies)
+    'data.company.taiwan-semiconductor': 'TSMC',
+    'data.company.hon-hai-foxconn': 'Hồng Hải Foxconn',
+    'data.company.mediatek': 'MediaTek',
+    'data.company.delta-electronics': 'Delta Electronics',
+    'data.company.ase-group': 'ASE',
+    'data.company.quanta-computer': 'Quanta',
+    'data.company.cathay-financial': 'Cathay Financial',
+    'data.company.fubon-financial': 'Fubon Financial',
+    'data.company.chunghwa-telecom': 'Chunghwa Telecom',
+    'data.company.umc': 'UMC',
+    'data.company.uni-president': 'Uni-President Enterprises',
+    'data.company.evergreen-marine': 'Evergreen Marine',
+    'data.company.asustek': 'ASUS',
+    'data.company.pegatron': 'Pegatron',
+    'data.company.formosa-petrochemical': 'Formosa Petrochemical',
+    'data.company.mega-financial': 'Mega Financial',
+    'data.company.china-steel': 'China Steel',
+    'data.company.taiwan-mobile': 'Taiwan Mobile',
+    'data.company.realtek': 'Realtek',
+    'data.company.advantech': 'Advantech',
+    'data.company.formosa-plastics': 'Formosa Plastics',
+    'data.company.wistron': 'Wistron',
+    'data.company.nan-ya-plastics': 'Nan Ya Plastics',
+    'data.company.compal-electronics': 'Compal',
+    'data.company.largan-precision': 'Largan',
+    'data.company.acer': 'Acer',
+    'data.company.e-sun-financial': 'E.SUN Financial',
+    'data.company.taiwan-cement': 'Taiwan Cement',
+    'data.company.far-eastern-new-century': 'Far Eastern New Century',
+    'data.company.ctbc-financial': 'CTBC Financial',
+    'data.company.yuanta-financial': 'Yuanta Financial',
+    'data.company.giant-manufacturing': 'Giant',
+    'data.company.first-financial': 'First Financial',
+    'data.company.formosa-chemicals': 'Formosa Chemicals',
+    'data.company.fareastone': 'Far EasTone',
+    'data.company.hua-nan-financial': 'Hua Nan Financial',
+    'data.company.lite-on-technology': 'LITEON Technology',
+    'data.company.taiwan-cooperative-bank': 'Taiwan Cooperative Financial',
+    'data.company.catcher-technology': 'Catcher Technology',
+    'data.company.taiwan-high-speed-rail': 'Đường sắt cao tốc Đài Loan',
+    'data.company.htc': 'HTC',
+    'data.company.chang-chun-petrochemical': 'Chang Chun Petrochemical',
+    'data.company.chi-mei-corporation': 'Chi Mei Corporation',
+    'data.company.wiwynn': 'Wiwynn',
+    'data.company.powerchip-semiconductor': 'Powerchip Semiconductor',
+    'data.company.unimicron-technology': 'Unimicron Technology',
+    'data.company.silergy': 'Silergy-KY',
+    'data.company.inventec': 'Inventec',
+    'data.company.hiwin-technologies': 'HIWIN Technologies',
+    'data.company.novatek': 'Novatek',
+
+    // Top-50 new entrants (2026 AI supply-chain repricing)
+    'data.company.elite-material': 'Elite Material',
+    'data.company.accton': 'Accton',
+    'data.company.avc': 'AVC',
+    'data.company.chroma-ate': 'Chroma',
+    'data.company.hon-precision': 'Hon Precision',
+    'data.company.jentech': 'Jentech',
+    'data.company.gold-circuit': 'Gold Circuit',
+    'data.company.nanya-technology': 'Nanya Technology',
+    'data.company.yageo': 'Yageo',
+    'data.company.nan-ya-pcb': 'Nan Ya PCB',
+    'data.company.taishin-shinkong': 'Taishin Shinkong Financial',
+    'data.company.global-unichip': 'GUC',
+    'data.company.bizlink': 'BizLink',
+    'data.company.zhen-ding': 'Zhen Ding',
+    'data.company.sinopac-financial': 'SinoPac Financial',
+    'data.company.winbond': 'Winbond',
+    'data.company.winway': 'WinWay',
+    'data.company.king-slide': 'King Slide',
+    'data.company.kyec': 'KYEC',
+    'data.company.kgi-financial': 'KGI Financial',
+
+    // New AI-era sectors
+    'data.sector.networking': 'Thiết bị mạng',
+    'data.sector.cooling': 'Tản nhiệt',
+    'data.sector.testing': 'Kiểm thử',
+
+    // Fell-off-the-list reasons (displaced by the AI supply chain)
+    'data.fellOff.china-steel':
+      'Ngành thép suy yếu, thua lỗ nhiều năm liền và không bắt kịp AI',
+    'data.fellOff.htc':
+      'Thất bại trên thị trường điện thoại thông minh, VR／XR không tạo được quy mô',
+    'data.fellOff.taiwan-cement':
+      'Mảng xi măng cốt lõi suy yếu, chuyển đổi sang lưu trữ năng lượng vẫn chưa tạo sản lượng lớn',
+    'data.fellOff.far-eastern-new-century':
+      'Ngành sợi hóa học polyester đi xuống, công nghiệp truyền thống thiếu động lực từ AI',
+    'data.fellOff.giant-manufacturing':
+      'Giải phóng tồn kho xe đạp, doanh thu suy giảm ba năm liên tiếp',
+
+    // Standalone /companies page
+    'data.companies.meta.title':
+      '50 doanh nghiệp lớn nhất Đài Loan — Cuộc tái phân hạng trong kỷ nguyên AI',
+    'data.companies.meta.description':
+      'Khám phá vốn hóa thị trường, doanh thu và số nhân viên của 50 doanh nghiệp niêm yết lớn nhất Đài Loan qua biểu đồ bong bóng tương tác, cùng cách chuỗi cung ứng AI viết lại bảng xếp hạng（snapshot 2026/06）。',
+    'data.companies.hero.title': '50 doanh nghiệp lớn nhất Đài Loan',
+    'data.companies.hero.subtitle':
+      'Diện tích bong bóng thể hiện vốn hóa thị trường, phác họa bản đồ công nghiệp của hòn đảo 2300 vạn dân',
+    'data.companies.hero.description':
+      'Bong bóng càng lớn＝vốn hóa thị trường càng cao, màu sắc đại diện cho ngành. Có thể chuyển đổi sang doanh thu／số nhân viên, nhấp vào nhãn ngành để lọc và kéo bong bóng。',
+    'data.companies.snapshot':
+      '📊 Nguồn dữ liệu：TWSE、công bố doanh thu cả năm 2025、báo cáo thường niên của các công ty · snapshot 2026/06（giá trị ước tính, không cấu thành khuyến nghị đầu tư）',
+    'data.companies.story.title': 'Làn sóng AI định giá lại toàn bộ hòn đảo',
+    'data.companies.story.p1':
+      'Chỉ trong hai năm ngắn ngủi, hoạt động xây dựng hạ tầng AI đã viết lại bảng xếp hạng doanh nghiệp Đài Loan. Riêng TSMC chiếm 43.8% toàn thị trường（tăng đều từ 39%）, trong khi 10 cổ phiếu có tỷ trọng lớn nhất chiếm tổng cộng khoảng 61%。',
+    'data.companies.story.p2':
+      'Sau TSMC, những doanh nghiệp vươn lên đều thuộc chuỗi cung ứng AI：Delta Electronics nhờ nguồn điện AI đã tiến lên vị trí số 2 chỉ trong một năm（vốn hóa tăng khoảng 5 lần）, MediaTek tăng vọt; hàng loạt tên tuổi PCB／đế mạch、tản nhiệt、kiểm thử、thiết bị mạng như Elite Material、AVC、Chroma、Accton、Yageo chen chân vào top 50, thay thế khoảng 20 gương mặt cũ。',
+    'data.companies.table.heading': '📋 Bảng xếp hạng đầy đủ',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': 'Doanh nghiệp',
+    'data.companies.table.sector': 'Ngành',
+    'data.companies.table.marketCap': 'Vốn hóa thị trường（trăm triệu TWD）',
+    'data.companies.table.revenue': 'Doanh thu 2025（trăm triệu TWD）',
+    'data.companies.table.employees': 'Số nhân viên',
+    'data.companies.table.founded': 'Thành lập',
+    'data.companies.insights.heading': '🔍 Nhận định chính',
+    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.label':
+      'Tỷ trọng của TSMC trong tổng vốn hóa thị trường chứng khoán Đài Loan',
+    'data.companies.insights.card1.detail':
+      'Tăng từ 39%, riêng một doanh nghiệp tương đương khoảng bốn phần năm tổng số còn lại cộng lại',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label':
+      'Tỷ trọng của 10 cổ phiếu có quyền số lớn nhất trong tổng vốn hóa',
+    'data.companies.insights.card2.detail':
+      'Tập trung cao độ vào một số ít cổ phiếu vốn hóa lớn',
+    'data.companies.insights.card3.number': 'Khoảng 20',
+    'data.companies.insights.card3.label':
+      'Doanh nghiệp mới lọt bảng trong hai năm nhờ chuỗi cung ứng AI',
+    'data.companies.insights.card3.detail':
+      'PCB／đế chip, tản nhiệt, kiểm thử, thiết bị mạng — hai năm trước vẫn chưa có tên trong bảng',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label': 'Số tập đoàn tài chính trong top 50',
+    'data.companies.insights.card4.detail':
+      'Sau sáp nhập, đây là trụ cột ổn định nhất của chỉ số',
+    'data.companies.fellOff.title': '📉 Những ai đã rời bảng',
+    'data.companies.fellOff.intro':
+      'Việc AI định giá lại thị trường cũng tạo ra những bên thua cuộc. Các tên tuổi quen thuộc toàn dân — thép, xi măng, dệt may, xe đạp và cả ngôi sao điện thoại một thời — đã rời top 50 khi dòng vốn đổ vào chuỗi AI.',
+    'data.companies.fellOff.marketCapNow': 'Vốn hóa hiện tại',
+    'data.companies.method.heading': '📝 Thuyết minh phương pháp',
+    'data.companies.method.body':
+      'Vốn hóa được ước tính bằng cách lấy quyền số chỉ số của từng cổ phiếu trên TWSE vào 2026/06, nhân với tổng vốn hóa toàn thị trường được neo theo TSMC (khoảng NT$59 nghìn tỷ／43.8%). Doanh thu là doanh thu hợp nhất cả năm 2025 (tập đoàn tài chính dùng doanh thu hoạt động hợp nhất, bao gồm bảo hiểm). Số nhân viên là giá trị gần đúng, ưu tiên số liệu theo tập đoàn／hợp nhất, nhưng phạm vi ghi nhận của mỗi doanh nghiệp khác nhau; vì vậy, trục số nhân viên chỉ nên được xem theo cấp độ quy mô, không phải phép so sánh chính xác.',
+    'data.companies.related': '📖 Đọc thêm',
+
+    // Category 1: Government Open Data
+    'data.category.1.title': 'Dữ liệu mở của chính phủ',
+    'data.category.1.description':
+      'Các bộ dữ liệu có cấu trúc và nền tảng thống kê do cơ quan chính phủ công bố',
+    'data.category.1.item.1.name': 'Nền tảng dữ liệu mở của chính phủ',
+    'data.category.1.item.1.desc':
+      'Năm 2020, các kỹ sư đã dùng dữ liệu tại đây để xây dựng bản đồ khẩu trang trong 72 giờ, giải quyết tình trạng xếp hàng tại các nhà thuốc trên toàn quốc',
+    'data.category.1.item.2.name': 'Cơ sở dữ liệu thống kê của Tổng cục Chủ kế',
+    'data.category.1.item.2.desc':
+      'Các số liệu thống kê quốc gia cốt lõi về dân số, kinh tế, giá cả và nhiều lĩnh vực khác',
+    'data.category.1.item.3.name':
+      'Cơ sở dữ liệu bầu cử của Ủy ban Bầu cử Trung ương',
+    'data.category.1.item.3.desc':
+      'Kết quả và dữ liệu bỏ phiếu của các kỳ bầu cử',
+    'data.category.1.item.4.name': 'Cơ sở dữ liệu pháp luật toàn quốc',
+    'data.category.1.item.4.desc':
+      'Tra cứu toàn văn mọi luật, mệnh lệnh và án lệ',
+    'data.category.1.item.5.name': 'Mạng lưới giám sát chất lượng không khí',
+    'data.category.1.item.5.desc':
+      'Dữ liệu giám sát AQI、PM2.5 theo thời gian thực',
+
+    // Category 2: Interactive Maps & Visualization
+    'data.category.2.title': 'Bản đồ tương tác và trực quan hóa',
+    'data.category.2.description':
+      'Các công cụ giám sát thời gian thực, dữ liệu địa lý và trực quan hóa môi trường',
+    'data.category.2.item.1.name': 'Bản đồ động cáp biển Đài Loan',
+    'data.category.2.item.1.desc':
+      'Công cụ giám sát cáp ngầm theo thời gian thực do khu vực tư nhân phát triển,hình mẫu của công nghệ công dân',
+    'data.category.2.item.2.name':
+      'Đám mây dịch vụ dữ liệu bản đồ đo đạc lãnh thổ',
+    'data.category.2.item.2.desc':
+      'Dữ liệu bản đồ Đài Loan、ảnh hàng không、địa chính',
+    'data.category.2.item.3.name': 'Trung tâm Quan trắc và Báo cáo Động đất',
+    'data.category.2.item.3.desc':
+      'Thông tin động đất theo thời gian thực và hồ sơ lịch sử',
+    'data.category.2.item.4.name':
+      'Mạng thông tin phòng chống thiên tai của Cục Thủy lợi',
+    'data.category.2.item.4.desc':
+      'Tình hình nguồn nước、mực nước sông、dung tích hồ chứa theo thời gian thực',
+    'data.category.2.item.5.name': 'Môi trường tức thời',
+    'data.category.2.item.5.desc':
+      'Giám sát chất lượng không khí、tia cực tím、chất lượng nước theo thời gian thực',
+
+    // Category 3: Civic Tech
+    'data.category.3.title': 'Công nghệ công dân (Civic Tech)',
+    'data.category.3.description':
+      'Cộng đồng nguồn mở, công cụ kiểm chứng sự thật và dân chủ số',
+    'data.category.3.item.1.name': 'g0v Chính phủ Không Giờ',
+    'data.category.3.item.1.desc':
+      'Được thành lập năm 2012, nơi đây đã khai sinh bản đồ khẩu trang、Cofacts、vTaiwan cùng nhiều dự án công nghệ công dân làm thay đổi Đài Loan',
+    'data.category.3.item.2.name': 'Sự kiện công nghệ công dân KKTIX',
+    'data.category.3.item.2.desc':
+      'Cổng thông tin về hackathon g0v và các hoạt động cộng đồng dữ liệu mở',
+    'data.category.3.item.3.name': 'Cofacts Thật hay giả',
+    'data.category.3.item.3.desc':
+      'Bất kỳ ai cũng có thể gửi tin giả được chuyển tiếp trong các nhóm LINE để kiểm chứng; nền tảng đã tích lũy hàng chục nghìn hồ sơ kiểm chứng',
+    'data.category.3.item.4.name': 'vTaiwan',
+    'data.category.3.item.4.desc':
+      'Sử dụng thuật toán Polis để tìm đồng thuận, qua đó tác động thành công đến các chính sách như quy định quản lý Uber và pháp luật về giáo dục từ xa',
+    'data.category.3.item.5.name': 'Nền tảng tham gia chính sách công JOIN',
+    'data.category.3.item.5.desc':
+      'Đề xuất với chính phủ、kiến nghị、thảo luận chính sách',
+
+    // Category 4: Data Journalism & Fact-Checking
+    'data.category.4.title': 'Báo chí dữ liệu và kiểm chứng',
+    'data.category.4.description':
+      'Phóng sự điều tra chuyên sâu, kiểm chứng sự thật và truyền thông báo chí dữ liệu',
+    'data.category.4.item.1.name': 'The Reporter',
+    'data.category.4.item.1.desc':
+      'Được thành lập năm 2015, đây là cơ quan truyền thông điều tra chuyên sâu phi lợi nhuận đầu tiên của Đài Loan, nhiều lần phanh phui các vấn đề công cộng lớn',
+    'data.category.4.item.2.name': 'Trung tâm Kiểm chứng Sự thật Đài Loan',
+    'data.category.4.item.2.desc':
+      'Được Liên minh Kiểm chứng Sự thật Quốc tế IFCN chứng nhận, đối tác kiểm chứng bên thứ ba của Facebook',
+    'data.category.4.item.3.name': 'READr Đọc+',
+    'data.category.4.item.3.desc':
+      'Báo chí dữ liệu và các bài viết trực quan hóa dữ liệu mở',
+    'data.category.4.item.4.name': 'Điển Tàng ARTouch',
+    'data.category.4.item.4.desc':
+      'Cơ quan truyền thông về tin tức nghệ thuật và bình luận chuyên sâu của Đài Loan',
+
+    // Category 5: Academic & Research
+    'data.category.5.title': 'Học thuật và nghiên cứu',
+    'data.category.5.description':
+      'Kho lưu trữ số, dữ liệu sinh thái và kho ngữ liệu AI',
+    'data.category.5.item.1.name': 'Bảo tàng Mở của Viện Nghiên cứu Trung ương',
+    'data.category.5.item.1.desc': 'Kho lưu trữ số và triển lãm trực tuyến',
+    'data.category.5.item.2.name': 'Kho Ký ức Văn hóa Quốc gia',
+    'data.category.5.item.2.desc': 'Bảo tồn số ký ức văn hóa Đài Loan',
+    'data.category.5.item.3.name': 'Mạng lưới Đa dạng Sinh học Đài Loan',
+    'data.category.5.item.3.desc': 'Phân bố loài、quan trắc sinh thái',
+    'data.category.5.item.4.name':
+      'Kho ngữ liệu huấn luyện AI chủ quyền Đài Loan TAIC',
+    'data.category.5.item.4.desc':
+      'Bộ dữ liệu huấn luyện AI bản địa của Đài Loan',
+
+    // Meta
+    'data.meta.title': '📊 Đài Loan qua dữ liệu — Taiwan.md',
+    'data.meta.description':
+      'Tìm hiểu một hòn đảo qua những con số: bản đồ doanh nghiệp, dữ liệu mở, đường nét chính xác của Đài Loan và trực quan hóa tương tác',
+
+    // Hero
+    'data.hero.title': 'Đài Loan qua dữ liệu',
+    'data.hero.subtitle':
+      'Khám phá diện mạo chân thực của một hòn đảo qua trực quan hóa tương tác và dữ liệu mở',
+    'data.hero.description':
+      'Đây là không gian tuyển chọn dữ liệu về Đài Loan. Từ bản đồ doanh nghiệp đến dữ liệu mở, từ đường nét chính xác của Đài Loan đến các thử nghiệm dân chủ số — chúng tôi dùng trực quan hóa tương tác và tài nguyên mở để những con số kể câu chuyện của Đài Loan.',
+
+    // Enterprise Section
+    'data.enterprise.title': '🏢 Bản đồ doanh nghiệp',
+    'data.enterprise.story.p1':
+      'Một hòn đảo nâng đỡ chuỗi cung ứng toàn cầu bằng cách nào?',
+    'data.enterprise.story.p2':
+      'Từ mức vốn hóa 2,670 tỷ của TSMC đến 87 vạn nhân viên của Hon Hai, 50 doanh nghiệp lớn nhất Đài Loan tạo thành xương sống kinh tế của hòn đảo. 12 doanh nghiệp bán dẫn khẳng định danh xưng “lá chắn silicon”, 12 tập đoàn tài chính củng cố sự ổn định tài chính, còn các ông lớn gia công kết nối đời sống số toàn cầu. Hãy khám phá qua biểu đồ bong bóng cách Đài Loan, với 2% dân số thế giới, tạo ra 4% GDP toàn cầu.',
+    'data.enterprise.controls.sizeLabel': 'Kích thước bong bóng:',
+    'data.enterprise.controls.marketCap': 'Vốn hóa thị trường',
+    'data.enterprise.controls.revenue': 'Doanh thu',
+    'data.enterprise.controls.employees': 'Số nhân viên',
+    'data.enterprise.controls.filterAll': 'Tất cả',
+    'data.enterprise.insights.heading': 'Nhận định chính',
+    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.label':
+      'TSMC chiếm tổng vốn hóa thị trường chứng khoán Đài Loan',
+    'data.enterprise.insights.card1.detail':
+      'Một công ty ≈ 2/3 tổng vốn hóa của hàng nghìn công ty niêm yết còn lại',
+    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.label':
+      '50 doanh nghiệp hàng đầu chiếm tổng vốn hóa thị trường chứng khoán Đài Loan',
+    'data.enterprise.insights.card2.detail':
+      'Thị trường chứng khoán Đài Loan tập trung cao độ vào các doanh nghiệp lớn',
+    'data.enterprise.insights.card3.number': '12 doanh nghiệp',
+    'data.enterprise.insights.card3.label':
+      'Doanh nghiệp bán dẫn lọt bảng xếp hạng',
+    'data.enterprise.insights.card3.detail':
+      'Minh chứng cho “lá chắn silicon” — bán dẫn là nền tảng quốc phòng của Đài Loan',
+    'data.enterprise.insights.card4.number': '12 doanh nghiệp',
+    'data.enterprise.insights.card4.label': 'Doanh nghiệp tài chính lọt top 50',
+    'data.enterprise.insights.card4.detail':
+      'Nguồn sức mạnh ổn định sau quá trình hợp nhất các tập đoàn tài chính',
+    'data.enterprise.exploreLink': 'Xem bảng xếp hạng đầy đủ →',
+
+    // Taiwan vs World Section
+    'data.taiwanVsWorld.title': '🌏 Vị thế của Đài Loan trên thế giới',
+    'data.taiwanVsWorld.story.p1':
+      'Một hòn đảo có diện tích tương đương Bỉ nuôi sống 2,300 vạn người, nhưng lại sản xuất 92% chip máy tính tiên tiến nhất toàn cầu. Mật độ kinh tế của Đài Loan thật đáng kinh ngạc: diện tích nhỏ hơn Thụy Sĩ nhưng dân số lại đông hơn Úc, GDP bình quân đầu người đạt tới 7.5 vạn USD.',
+    'data.taiwanVsWorld.story.p2':
+      'Những con số này không chỉ là thống kê — chúng là bản thiết kế của một câu chuyện tưởng chừng bất khả thi. Làm thế nào 0.32% diện tích đất liền của Trái Đất có thể tạo ra 4% của cải toàn cầu? Từ mật độ cửa hàng tiện lợi cao nhất thế giới đến vị trí số một châu Á về xếp hạng dân chủ, tám chỉ số này giải mã dấu ấn toàn cầu vượt xa quy mô của Đài Loan.',
+
+    'data.taiwanVsWorld.area.number': '36,197 km²',
+    'data.taiwanVsWorld.area.label': 'Diện tích ≈ quy mô của Bỉ',
+    'data.taiwanVsWorld.area.context':
+      'Nhưng dân số gấp 2.35 lần Bỉ（2,350 vạn so với 1,170 vạn）',
+
+    'data.taiwanVsWorld.gdp.number': '$75K',
+    'data.taiwanVsWorld.gdp.label': 'GDP bình quân đầu người (PPP)',
+    'data.taiwanVsWorld.gdp.context':
+      'Thuộc top 15 toàn cầu, so với mức danh nghĩa $38K（chênh lệch sức mua rất lớn）',
+
+    'data.taiwanVsWorld.semiconductor.number': '90%+',
+    'data.taiwanVsWorld.semiconductor.label':
+      'Thị phần chip tiên tiến toàn cầu',
+    'data.taiwanVsWorld.semiconductor.context':
+      'TSMC độc chiếm quy trình <7nm, trái tim của các thiết bị số toàn cầu',
+
+    'data.taiwanVsWorld.democracy.number': 'Hạng 12',
+    'data.taiwanVsWorld.democracy.label': 'Xếp hạng chỉ số dân chủ',
+    'data.taiwanVsWorld.democracy.context':
+      'Đứng đầu châu Á, thuộc top 10 “nền dân chủ hoàn chỉnh” toàn cầu (EIU 2024)',
+
+    'data.taiwanVsWorld.birthRate.number': '0.87',
+    'data.taiwanVsWorld.birthRate.label': 'Tỷ suất sinh（2024）',
+    'data.taiwanVsWorld.birthRate.context':
+      'Thuộc nhóm thấp nhất thế giới, đặt ra thách thức về già hóa dân số',
+
+    'data.taiwanVsWorld.convenience.number': '1/2,000 người',
+    'data.taiwanVsWorld.convenience.label': 'Mật độ cửa hàng tiện lợi',
+    'data.taiwanVsWorld.convenience.context':
+      '12,368 cửa hàng（7-11+FamilyMart+Hi-Life+OK），cao nhất thế giới',
+
+    'data.taiwanVsWorld.hsr.number': '345 km',
+    'data.taiwanVsWorld.hsr.label': 'Phạm vi bao phủ của đường sắt cao tốc',
+    'data.taiwanVsWorld.hsr.context':
+      '12 nhà ga, phục vụ 18 vạn lượt khách mỗi ngày, tỷ lệ đúng giờ 96%',
+
+    'data.taiwanVsWorld.healthcare.number': '99.9%',
+    'data.taiwanVsWorld.healthcare.label':
+      'Tỷ lệ bao phủ bảo hiểm y tế toàn dân',
+    'data.taiwanVsWorld.healthcare.context':
+      'Bảo hiểm y tế toàn dân, hình mẫu của thế giới',
+
+    // Digital Democracy Timeline Section
+    'data.digitalDemocracy.title':
+      '📡 Dòng thời gian dân chủ số — 30 năm phát triển quản trị số',
+    'data.digitalDemocracy.story.p1':
+      'Từ số hóa chính phủ đến dân chủ số: hành trình phát triển của Đài Loan từ chính phủ điện tử, chính phủ mở đến khả năng phục hồi số.',
+    'data.digitalDemocracy.story.p2':
+      'Di chuột qua từng cột mốc để tìm hiểu sâu hơn về thử nghiệm dân chủ số độc đáo của Đài Loan.',
+
+    'data.timeline.1997.title': 'Khởi động kế hoạch chính phủ điện tử',
+    'data.timeline.1997.desc': 'Bắt đầu số hóa các dịch vụ công',
+
+    'data.timeline.2003.title': 'Kế hoạch thúc đẩy phần mềm tự do',
+    'data.timeline.2003.desc':
+      'Các cơ quan chính phủ áp dụng phần mềm nguồn mở',
+
+    'data.timeline.2012.title': 'Thành lập g0v — Chính phủ Không giờ',
+    'data.timeline.2012.desc':
+      'Hạt giống công nghệ công dân được gieo 2 năm trước Phong trào Hoa Hướng Dương',
+
+    'data.timeline.2013.title': 'data.gov.tw chính thức hoạt động',
+    'data.timeline.2013.desc': 'Đài Loan bước vào kỷ nguyên dữ liệu mở',
+
+    'data.timeline.2014.title': 'Phong trào Hoa Hướng Dương',
+    'data.timeline.2014.desc':
+      'Công nghệ công dân bùng nổ, dân chủ số thức tỉnh',
+
+    'data.timeline.2015.title': 'Đứng đầu thế giới về dữ liệu mở',
+    'data.timeline.2015.desc': 'Ba năm liên tiếp dẫn đầu thế giới（2015-2017）',
+
+    'data.timeline.2016.title':
+      'Audrey Tang nhậm chức Ủy viên Chính vụ phụ trách kỹ thuật số',
+    'data.timeline.2016.desc':
+      'Hacker g0v trở thành người đứng đầu cơ quan chính phủ',
+
+    'data.timeline.2020.title': 'Bản đồ khẩu trang thành công',
+    'data.timeline.2020.desc':
+      'Được phát triển trong 72 giờ và toàn dân sử dụng trong thời kỳ COVID-19',
+
+    'data.timeline.2022.title': 'Thành lập Bộ Phát triển Kỹ thuật số',
+    'data.timeline.2022.desc': 'Quản trị số được nâng lên cấp bộ（moda）',
+
+    'data.timeline.2023.title': 'Kho ngữ liệu AI Đài Loan TAIDE',
+    'data.timeline.2023.desc': 'Mô hình ngôn ngữ AI có chủ quyền của Đài Loan',
+
+    'data.timeline.2024.title': 'Xuất khẩu dân chủ số Plurality',
+    'data.timeline.2024.desc': 'Mô hình dân chủ số được phổ biến ra toàn cầu',
+
+    // Population Pyramid Section
+    'data.population.title':
+      '👥 Cơ cấu dân số: chân dung độ tuổi của một hòn đảo',
+    'data.population.story.p1':
+      'Năm 2025, độ tuổi trung vị của Đài Loan vượt 43 tuổi. Hòn đảo từng trẻ trung này đang già đi — không phải chậm rãi, mà với tốc độ thuộc hàng nhanh nhất thế giới.',
+    'data.population.story.p2':
+      'Kéo dòng thời gian để xem chân dung độ tuổi của một hòn đảo chuyển từ hình kim tự tháp thành tam giác ngược như thế nào trong vòng nửa thế kỷ.',
+
+    'data.population.insights.card1.title': 'Độ tuổi trung vị',
+    'data.population.insights.card1.subtitle': 'tuổi',
+    'data.population.insights.card1.detail': '43 tuổi',
+
+    'data.population.insights.card2.title': 'Tỷ suất sinh',
+    'data.population.insights.card2.subtitle': 'Mức sinh',
+    'data.population.insights.card2.detail': '0.87',
+
+    'data.population.insights.card3.title': 'Tỷ lệ người từ 65 tuổi trở lên',
+    'data.population.insights.card3.subtitle': 'Từ 65 tuổi trở lên',
+    'data.population.insights.card3.detail': '18%',
+
+    'data.population.insights.card4.title': 'Tổng dân số',
+    'data.population.insights.card4.subtitle': 'vạn người',
+    'data.population.insights.card4.detail': '2,340 vạn → <2,000 vạn',
+
+    // Taiwan Shape Section
+    'data.taiwanShape.title': '🗺️ Hình dáng Đài Loan',
+    'data.taiwanComparison.title': 'Đài Loan do AI vẽ vs Đài Loan thực tế',
+    'data.taiwanComparison.aiGenerated':
+      'Do Claude Opus 4.6 tạo (2025/3/22, không cố ý vẽ sai)',
+    'data.taiwanComparison.correct': 'Đường nét chính xác',
+    'data.taiwanShape.story.p1':
+      'Đài Loan do AI vẽ đều sai. Đây là phiên bản chính xác.',
+    'data.taiwanShape.story.p2':
+      'Dữ liệu huấn luyện của phần lớn mô hình tạo ảnh AI thiếu dữ liệu địa lý có cấu trúc về Đài Loan. Hệ quả là hình dáng bị bóp méo, tỷ lệ sai lệch, thậm chí bị nhầm lẫn với các hòn đảo khác. Taiwan.md cung cấp bản đồ đường nét Đài Loan định dạng SVG chính xác, mã nguồn mở và có thể tự do sử dụng, tạo ra đáp án chuẩn cho mọi tình huống cần biết「Đài Loan trông như thế nào」.',
+
+    // SVG Cards
+    'data.svg.card1.title': 'taiwan-icon.svg',
+    'data.svg.card1.description':
+      'Icon đường nét Đài Loan — phù hợp làm icon, logo và hiển thị ở kích thước nhỏ',
+    'data.svg.card2.title': 'taiwan-simplemaps.svg',
+    'data.svg.card2.description':
+      'Phiên bản SimpleMaps — đồ họa vector gọn gàng, phù hợp nhúng vào trang web',
+    'data.svg.card3.title': 'taiwan-location-map.svg',
+    'data.svg.card3.description':
+      'Bản đồ vị trí địa lý — có kinh độ, vĩ độ và ký hiệu thành phố',
+    'data.svg.card4.title': 'taiwan-political-division.svg',
+    'data.svg.card4.description':
+      'Bản đồ phân chia hành chính — phân khu huyện, thành phố và đầy đủ đường biên',
+    'data.svg.button.download': 'Tải xuống SVG',
+    'data.svg.button.copy': 'Sao chép mã',
+    'data.svg.button.copied': '✅ Đã sao chép',
+    'data.svg.button.failed': '❌ Sao chép thất bại',
+    'data.svg.usage.heading': '📝 Cách sử dụng',
+    'data.svg.usage.licenseNote':
+      'Tất cả tệp SVG được phát hành theo giấy phép CC BY-SA 4.0. Có thể tự do sử dụng, chỉnh sửa và dùng cho mục đích thương mại, chỉ cần ghi nguồn.',
+
+    // Open Data Section (legacy, now part of digital democracy)
+    'data.openData.title': '📡 Dữ liệu mở và dân chủ số',
+    'data.openData.story.p1':
+      'Từ điện tử hóa đến mở hóa: ba mươi năm phát triển của quản trị số Đài Loan',
+    'data.openData.story.p2':
+      'Năm 1997,「Kế hoạch Chính phủ điện tử」được khởi động; năm 2013, data.gov.tw đi vào hoạt động, đưa Đài Loan từ chính phủ điện tử bước vào kỷ nguyên chính phủ mở. Trong giai đoạn 2015-2017, Đài Loan ba lần liên tiếp đứng đầu「Chỉ số Dữ liệu Mở Toàn cầu」. g0v Chính phủ Không giờ đã ươm tạo bản đồ khẩu trang và chatbot kiểm chứng thông tin Cofacts. Những thử nghiệm của Bộ trưởng Kỹ thuật số Audrey Tang đã biến Đài Loan thành phòng thí nghiệm dân chủ số của thế giới.',
+    'data.openData.story.p3':
+      'Khi công dân có khả năng hiểu dữ liệu và chính phủ sẵn sàng công bố dữ liệu, dân chủ không chỉ là cuộc bỏ phiếu bốn năm một lần, mà là sự hợp tác diễn ra mỗi ngày.',
+
+    // Knowledge Graph Section
+    'data.knowledgeGraph.title': '🕸️ Đồ thị tri thức',
+    'data.knowledgeGraph.story.p1':
+      'Hơn 200 bài viết của taiwan.md liên kết với nhau như thế nào?',
+    'data.knowledgeGraph.story.p2':
+      'Từ lịch sử đến địa lý, từ văn hóa đến công nghệ, mỗi bài viết là một nút trong mạng lưới câu chuyện Đài Loan. Thông qua liên kết thẻ và trích dẫn Hub, chúng tôi dệt những tri thức phân tán thành một đồ thị sống động. Hãy nhấp để truy cập và khám phá cấu trúc chiều sâu của tri thức Đài Loan.',
+    'data.knowledgeGraph.ctaButton': 'Khám phá đồ thị tri thức',
+    'data.knowledgeGraph.ctaButton.description':
+      'Mạng lưới liên kết bài viết tương tác',
+
+    // Footer
+    'data.footer.heading': 'Khám phá thêm',
+    'data.footer.link1.name': 'Kinh tế',
+    'data.footer.link1.description':
+      'Các bài viết kinh tế và phân tích chuyên sâu',
+    'data.footer.link2.name': 'Đồ thị tri thức',
+    'data.footer.link2.description':
+      'Mạng lưới trực quan hóa liên kết bài viết',
+    'data.footer.link3.name': 'Hướng dẫn đóng góp',
+    'data.footer.link3.description': 'Cách tham gia xây dựng Taiwan.md',
+
+    // Sector Names (Chinese)
+    'data.sector.semiconductor': 'Chất bán dẫn',
+    'data.sector.electronicsManufacturing': 'Gia công điện tử',
+    'data.sector.electronicComponents': 'Linh kiện điện tử',
+    'data.sector.financial': 'Tài chính',
+    'data.sector.telecommunications': 'Viễn thông',
+    'data.sector.foodBeverage': 'Thực phẩm và đồ uống',
+    'data.sector.shipping': 'Vận tải biển',
+    'data.sector.computerBrand': 'Thương hiệu máy tính',
+    'data.sector.steel': 'Sắt thép',
+    'data.sector.petrochemical': 'Hóa dầu',
+    'data.sector.cement': 'Xi măng',
+    'data.sector.optics': 'Quang học',
+    'data.sector.bicycle': 'Xe đạp',
+    'data.sector.textileFiber': 'Dệt may và sợi',
+    'data.sector.transportation': 'Vận tải',
+    'data.sector.consumerElectronics': 'Điện tử tiêu dùng',
+    'data.sector.industrialComputer': 'Máy tính công nghiệp',
+    'data.sector.casing': 'Vỏ thiết bị',
+    'data.sector.petrochemicalPanel': 'Tấm nền',
+    'data.sector.server': 'Máy chủ',
+    'data.sector.pcb': 'PCB',
+    'data.sector.precisionMachinery': 'Máy móc chính xác',
+
+    // Tooltip
+    'data.tooltip.marketCap': 'Giá trị vốn hóa thị trường',
+    'data.tooltip.revenue': 'Doanh thu',
+    'data.tooltip.employees': 'Nhân viên',
+    'data.tooltip.founded': 'Thành lập',
+  },
+  id: {
+    // Company Names (50 companies)
+    'data.company.taiwan-semiconductor': 'TSMC',
+    'data.company.hon-hai-foxconn': 'Hon Hai Foxconn',
+    'data.company.mediatek': 'MediaTek',
+    'data.company.delta-electronics': 'Delta Electronics',
+    'data.company.ase-group': 'ASE',
+    'data.company.quanta-computer': 'Quanta',
+    'data.company.cathay-financial': 'Cathay Financial Holdings',
+    'data.company.fubon-financial': 'Fubon Financial Holdings',
+    'data.company.chunghwa-telecom': 'Chunghwa Telecom',
+    'data.company.umc': 'UMC',
+    'data.company.uni-president': 'Uni-President Enterprises',
+    'data.company.evergreen-marine': 'Evergreen Marine',
+    'data.company.asustek': 'ASUS',
+    'data.company.pegatron': 'Pegatron',
+    'data.company.formosa-petrochemical': 'Formosa Petrochemical',
+    'data.company.mega-financial': 'Mega Financial Holdings',
+    'data.company.china-steel': 'China Steel',
+    'data.company.taiwan-mobile': 'Taiwan Mobile',
+    'data.company.realtek': 'Realtek',
+    'data.company.advantech': 'Advantech',
+    'data.company.formosa-plastics': 'Formosa Plastics',
+    'data.company.wistron': 'Wistron',
+    'data.company.nan-ya-plastics': 'Nan Ya Plastics',
+    'data.company.compal-electronics': 'Compal',
+    'data.company.largan-precision': 'Largan',
+    'data.company.acer': 'Acer',
+    'data.company.e-sun-financial': 'E.Sun Financial Holdings',
+    'data.company.taiwan-cement': 'Taiwan Cement',
+    'data.company.far-eastern-new-century': 'Far Eastern New Century',
+    'data.company.ctbc-financial': 'CTBC Financial Holdings',
+    'data.company.yuanta-financial': 'Yuanta Financial Holdings',
+    'data.company.giant-manufacturing': 'Giant',
+    'data.company.first-financial': 'First Financial Holdings',
+    'data.company.formosa-chemicals': 'Formosa Chemicals',
+    'data.company.fareastone': 'Far EasTone Telecom',
+    'data.company.hua-nan-financial': 'Hua Nan Financial Holdings',
+    'data.company.lite-on-technology': 'Lite-On Technology',
+    'data.company.taiwan-cooperative-bank':
+      'Taiwan Cooperative Financial Holdings',
+    'data.company.catcher-technology': 'Catcher Technology',
+    'data.company.taiwan-high-speed-rail': 'Kereta Cepat Taiwan',
+    'data.company.htc': 'HTC',
+    'data.company.chang-chun-petrochemical': 'Chang Chun Petrochemical',
+    'data.company.chi-mei-corporation': 'Chi Mei Corporation',
+    'data.company.wiwynn': 'Wiwynn',
+    'data.company.powerchip-semiconductor': 'Powerchip Semiconductor',
+    'data.company.unimicron-technology': 'Unimicron Technology',
+    'data.company.silergy': 'Silergy-KY',
+    'data.company.inventec': 'Inventec',
+    'data.company.hiwin-technologies': 'HIWIN Technologies',
+    'data.company.novatek': 'Novatek',
+
+    // Top-50 new entrants (2026 AI supply-chain repricing)
+    'data.company.elite-material': 'Elite Material',
+    'data.company.accton': 'Accton',
+    'data.company.avc': 'AVC',
+    'data.company.chroma-ate': 'Chroma',
+    'data.company.hon-precision': 'Hon Precision',
+    'data.company.jentech': 'Jentech',
+    'data.company.gold-circuit': 'Gold Circuit',
+    'data.company.nanya-technology': 'Nanya',
+    'data.company.yageo': 'Yageo',
+    'data.company.nan-ya-pcb': 'Nan Ya PCB',
+    'data.company.taishin-shinkong': 'Taishin',
+    'data.company.global-unichip': 'GUC',
+    'data.company.bizlink': 'BizLink',
+    'data.company.zhen-ding': 'Zhen Ding',
+    'data.company.sinopac-financial': 'SinoPac',
+    'data.company.winbond': 'Winbond',
+    'data.company.winway': 'WinWay',
+    'data.company.king-slide': 'King Slide',
+    'data.company.kyec': 'KYEC',
+    'data.company.kgi-financial': 'KGI',
+
+    // New AI-era sectors
+    'data.sector.networking': 'Jaringan komunikasi',
+    'data.sector.cooling': 'Pendinginan',
+    'data.sector.testing': 'Pengujian',
+
+    // Fell-off-the-list reasons (displaced by the AI supply chain)
+    'data.fellOff.china-steel':
+      'Lesunya industri baja dan kerugian selama bertahun-tahun, serta tertinggal dari AI',
+    'data.fellOff.htc':
+      'Kegagalan bisnis ponsel pintar, sementara VR／XR tidak mampu mencapai skala',
+    'data.fellOff.taiwan-cement':
+      'Bisnis utama semen melemah, sementara transformasi ke penyimpanan energi belum mencapai skala',
+    'data.fellOff.far-eastern-new-century':
+      'Lesunya industri serat poliester dan minimnya peluang AI dalam industri tradisional',
+    'data.fellOff.giant-manufacturing':
+      'Pengurangan persediaan sepeda dan penurunan pendapatan selama tiga tahun berturut-turut',
+
+    // Standalone /companies page
+    'data.companies.meta.title':
+      '50 perusahaan terbesar Taiwan — perombakan pada era AI',
+    'data.companies.meta.description':
+      'Lihat kapitalisasi pasar, pendapatan, dan jumlah karyawan dari 50 perusahaan terbuka terbesar Taiwan melalui diagram gelembung interaktif, serta bagaimana rantai pasok AI menyusun ulang peringkat tersebut (snapshot 2026/06).',
+    'data.companies.hero.title': '50 perusahaan terbesar Taiwan',
+    'data.companies.hero.subtitle':
+      'Luas gelembung menunjukkan kapitalisasi pasar, peta industri sebuah pulau berpenduduk 2300 laksa jiwa',
+    'data.companies.hero.description':
+      'Semakin besar gelembung＝semakin tinggi kapitalisasi pasar, sedangkan warna mewakili industri. Beralihlah antara pendapatan／jumlah karyawan, pilih label industri untuk memfilter, dan seret gelembung.',
+    'data.companies.snapshot':
+      '📊 Sumber data: TWSE, pengumuman pendapatan setahun penuh 2025, laporan tahunan setiap perusahaan · snapshot 2026/06 (nilai perkiraan, bukan saran investasi)',
+    'data.companies.story.title': 'Gelombang AI menilai ulang seluruh Taiwan',
+    'data.companies.story.p1':
+      'Hanya dalam dua tahun, pembangunan AI telah menyusun ulang peringkat perusahaan Taiwan. TSMC sendiri mencakup 43.8% dari seluruh pasar (terus meningkat dari 39%), sedangkan gabungan 10 saham berkapitalisasi terbesar mencakup sekitar 61%.',
+    'data.companies.story.p2':
+      'Setelah TSMC, seluruh perusahaan yang melejit berasal dari rantai pasok AI: Delta Electronics melesat ke posisi ke-2 dalam setahun berkat catu daya AI (kapitalisasi pasarnya naik sekitar 5 kali lipat), MediaTek tumbuh pesat, sementara sederet nama di bidang PCB／substrat, pendinginan, pengujian, dan jaringan komunikasi seperti Elite Material, AVC, Chroma, Accton, dan Yageo menembus 50 besar, menggusur sekitar 20 perusahaan lama.',
+    'data.companies.table.heading': '📋 Peringkat lengkap',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': 'Perusahaan',
+    'data.companies.table.sector': 'Industri',
+    'data.companies.table.marketCap': 'Kapitalisasi pasar (ratusan juta TWD)',
+    'data.companies.table.revenue': 'Pendapatan 2025 (ratusan juta TWD)',
+    'data.companies.table.employees': 'Jumlah karyawan',
+    'data.companies.table.founded': 'Didirikan',
+    'data.companies.insights.heading': '🔍 Wawasan utama',
+    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.label':
+      'Porsi TSMC dalam total kapitalisasi pasar saham Taiwan',
+    'data.companies.insights.card1.detail':
+      'Naik dari 39%, satu perusahaan ini bernilai sekitar empat perlima dari gabungan seluruh perusahaan lainnya',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label':
+      'Porsi 10 saham berbobot terbesar dalam total kapitalisasi pasar',
+    'data.companies.insights.card2.detail':
+      'Sangat terkonsentrasi pada segelintir saham berkapitalisasi besar',
+    'data.companies.insights.card3.number': 'Sekitar 20',
+    'data.companies.insights.card3.label':
+      'Pendatang baru dalam dua tahun berkat rantai pasok AI',
+    'data.companies.insights.card3.detail':
+      'PCB／substrat, pendinginan, pengujian, dan jaringan komunikasi, dua tahun lalu belum masuk daftar',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label':
+      'Jumlah perusahaan induk keuangan dalam 50 besar',
+    'data.companies.insights.card4.detail':
+      'Setelah konsolidasi, menjadi jangkar paling stabil dalam indeks',
+    'data.companies.fellOff.title': '📉 Siapa yang keluar dari daftar',
+    'data.companies.fellOff.intro':
+      'Penilaian ulang akibat AI juga melahirkan pihak yang kalah. Nama-nama besar yang dikenal luas ini——baja, semen, tekstil, sepeda, dan mantan raksasa ponsel——terlempar dari 50 besar saat modal membanjiri rantai AI.',
+    'data.companies.fellOff.marketCapNow': 'Kapitalisasi pasar saat ini',
+    'data.companies.method.heading': '📝 Penjelasan metode',
+    'data.companies.method.body':
+      'Kapitalisasi pasar diperkirakan dari bobot indeks setiap saham di TWSE pada 2026/06, dikalikan dengan total kapitalisasi pasar yang mengacu pada TSMC (sekitar NT$59 triliun／43.8%). Pendapatan adalah pendapatan konsolidasi sepanjang 2025 (perusahaan induk keuangan menggunakan pendapatan operasional konsolidasi, termasuk asuransi). Jumlah karyawan merupakan perkiraan, sedapat mungkin berdasarkan grup／konsolidasi, tetapi cakupan pengakuan tiap perusahaan berbeda. Karena itu, sumbu jumlah karyawan sebaiknya dipandang sebagai gambaran skala, bukan perbandingan yang presisi.',
+    'data.companies.related': '📖 Bacaan lebih lanjut',
+
+    // Category 1: Government Open Data
+    'data.category.1.title': 'Data Terbuka Pemerintah',
+    'data.category.1.description':
+      'Kumpulan data terstruktur dan platform statistik yang dirilis lembaga pemerintah',
+    'data.category.1.item.1.name': 'Platform Data Terbuka Pemerintah',
+    'data.category.1.item.1.desc':
+      'Pada 2020, para insinyur memakai data dari sini untuk membuat peta masker dalam 72 jam, mengatasi masalah antrean di apotek seluruh negeri',
+    'data.category.1.item.2.name':
+      'Basis Data Statistik Direktorat Jenderal Anggaran, Akuntansi, dan Statistik',
+    'data.category.1.item.2.desc':
+      'Statistik inti negara mengenai penduduk, ekonomi, harga, dan lainnya',
+    'data.category.1.item.3.name':
+      'Basis Data Pemilu Komisi Pemilihan Umum Pusat',
+    'data.category.1.item.3.desc':
+      'Hasil pemilu terdahulu dan data pemungutan suara',
+    'data.category.1.item.4.name': 'Basis Data Peraturan Nasional',
+    'data.category.1.item.4.desc':
+      'Pencarian teks lengkap seluruh undang-undang, perintah, dan yurisprudensi',
+    'data.category.1.item.5.name': 'Jaringan Pemantauan Kualitas Udara',
+    'data.category.1.item.5.desc': 'Data pemantauan AQI dan PM2.5 waktu nyata',
+
+    // Category 2: Interactive Maps & Visualization
+    'data.category.2.title': 'Peta Interaktif dan Visualisasi',
+    'data.category.2.description':
+      'Perangkat pemantauan waktu nyata, informasi geospasial, dan visualisasi lingkungan',
+    'data.category.2.item.1.name': 'Peta Dinamis Kabel Laut Taiwan',
+    'data.category.2.item.1.desc':
+      'Pemantauan waktu nyata kabel bawah laut yang dikembangkan masyarakat,contoh teknologi sipil',
+    'data.category.2.item.2.name':
+      'Layanan Awan Informasi Pemetaan Wilayah Nasional',
+    'data.category.2.item.2.desc': 'Data peta Taiwan, foto udara, dan kadaster',
+    'data.category.2.item.3.name': 'Pusat Pemantauan dan Pelaporan Gempa Bumi',
+    'data.category.2.item.3.desc':
+      'Informasi gempa bumi waktu nyata dan catatan historis',
+    'data.category.2.item.4.name':
+      'Jaringan Informasi Penanggulangan Bencana Badan Sumber Daya Air',
+    'data.category.2.item.4.desc':
+      'Kondisi air, tinggi muka sungai, dan volume tampungan waduk secara waktu nyata',
+    'data.category.2.item.5.name': 'Informasi Lingkungan Waktu Nyata',
+    'data.category.2.item.5.desc':
+      'Pemantauan waktu nyata kualitas udara, ultraviolet, dan kualitas air',
+
+    // Category 3: Civic Tech
+    'data.category.3.title': 'Teknologi Sipil (Civic Tech)',
+    'data.category.3.description':
+      'Komunitas sumber terbuka, pemeriksaan fakta, dan perangkat demokrasi digital',
+    'data.category.3.item.1.name': 'g0v Pemerintahan Nol',
+    'data.category.3.item.1.desc':
+      'Didirikan pada 2012, melahirkan berbagai proyek teknologi sipil yang mengubah Taiwan, seperti peta masker, Cofacts, dan vTaiwan',
+    'data.category.3.item.2.name': 'Kegiatan Teknologi Sipil KKTIX',
+    'data.category.3.item.2.desc':
+      'Pintu masuk kegiatan hackathon g0v dan komunitas data terbuka',
+    'data.category.3.item.3.name': 'Cofacts Benar atau Tidak',
+    'data.category.3.item.3.desc':
+      'Siapa pun dapat mengajukan pesan palsu yang diteruskan di grup LINE untuk diperiksa, dengan puluhan ribu catatan pemeriksaan yang telah terkumpul',
+    'data.category.3.item.4.name': 'vTaiwan',
+    'data.category.3.item.4.desc':
+      'Menggunakan algoritma Polis untuk menemukan konsensus dan berhasil memengaruhi kebijakan seperti peraturan pengelolaan Uber serta regulasi pembelajaran jarak jauh',
+    'data.category.3.item.5.name': 'Platform Partisipasi Kebijakan Publik JOIN',
+    'data.category.3.item.5.desc':
+      'Usulan pemerintah, petisi, dan diskusi kebijakan',
+
+    // Category 4: Data Journalism & Fact-Checking
+    'data.category.4.title': 'Jurnalisme Data dan Pemeriksaan Fakta',
+    'data.category.4.description':
+      'Laporan investigasi mendalam, pemeriksaan fakta, dan media jurnalisme data',
+    'data.category.4.item.1.name': 'The Reporter',
+    'data.category.4.item.1.desc':
+      'Didirikan pada 2015, media investigasi mendalam nirlaba pertama di Taiwan yang berulang kali mengungkap isu publik besar',
+    'data.category.4.item.2.name': 'Pusat Pemeriksaan Fakta Taiwan',
+    'data.category.4.item.2.desc':
+      'Terakreditasi oleh IFCN, Aliansi Pemeriksaan Fakta Internasional, dan menjadi mitra pemeriksa fakta pihak ketiga Facebook',
+    'data.category.4.item.3.name': 'READr Baca+',
+    'data.category.4.item.3.desc':
+      'Jurnalisme data dan laporan visualisasi data terbuka',
+    'data.category.4.item.4.name': 'ARTouch',
+    'data.category.4.item.4.desc':
+      'Media berita seni dan ulasan mendalam Taiwan',
+
+    // Category 5: Academic & Research
+    'data.category.5.title': 'Akademik dan Penelitian',
+    'data.category.5.description': 'Arsip digital, data ekologi, dan korpus AI',
+    'data.category.5.item.1.name': 'Museum Terbuka Academia Sinica',
+    'data.category.5.item.1.desc': 'Arsip digital dan kurasi pameran daring',
+    'data.category.5.item.2.name': 'Bank Memori Budaya Nasional',
+    'data.category.5.item.2.desc': 'Pelestarian digital memori budaya Taiwan',
+    'data.category.5.item.3.name': 'Jaringan Keanekaragaman Hayati Taiwan',
+    'data.category.5.item.3.desc': 'Persebaran spesies dan pengamatan ekologi',
+    'data.category.5.item.4.name': 'Korpus Pelatihan AI Berdaulat Taiwan TAIC',
+    'data.category.5.item.4.desc': 'Kumpulan data pelatihan AI lokal Taiwan',
+
+    // Meta
+    'data.meta.title': '📊 Data Taiwan — Taiwan.md',
+    'data.meta.description':
+      'Mengenal sebuah pulau melalui angka: lanskap perusahaan, data terbuka, kontur Taiwan yang akurat, dan visualisasi interaktif',
+
+    // Hero
+    'data.hero.title': 'Data Taiwan',
+    'data.hero.subtitle':
+      'Mengenal wajah nyata sebuah pulau melalui visualisasi interaktif dan data terbuka',
+    'data.hero.description':
+      'Inilah ruang kurasi data Taiwan. Dari lanskap perusahaan hingga data terbuka, dari kontur Taiwan yang akurat hingga eksperimen demokrasi digital——kami menggunakan visualisasi interaktif dan sumber daya terbuka agar angka-angka menuturkan kisah Taiwan.',
+
+    // Enterprise Section
+    'data.enterprise.title': '🏢 Lanskap Perusahaan',
+    'data.enterprise.story.p1':
+      'Bagaimana sebuah pulau menopang rantai pasok global?',
+    'data.enterprise.story.p2':
+      'Dari kapitalisasi pasar TSMC sebesar 2,670 miliar hingga 87 ribu karyawan Hon Hai, 50 perusahaan terbesar Taiwan membentuk tulang punggung ekonomi negara ini. 12 perusahaan semikonduktor menegaskan julukan 「perisai silikon」, 12 perusahaan induk keuangan menopang stabilitas keuangan, dan para raksasa manufaktur kontrak menghubungkan kehidupan digital global. Jelajahi melalui diagram gelembung bagaimana Taiwan, dengan 2% populasi dunia, menghasilkan 4% GDP global.',
+    'data.enterprise.controls.sizeLabel': 'Ukuran gelembung:',
+    'data.enterprise.controls.marketCap': 'Kapitalisasi pasar',
+    'data.enterprise.controls.revenue': 'Pendapatan',
+    'data.enterprise.controls.employees': 'Jumlah karyawan',
+    'data.enterprise.controls.filterAll': 'Semua',
+    'data.enterprise.insights.heading': 'Wawasan utama',
+    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.label':
+      'TSMC menyumbang total kapitalisasi pasar saham Taiwan',
+    'data.enterprise.insights.card1.detail':
+      'Satu perusahaan ≈ 2/3 dari ribuan perusahaan tercatat lainnya',
+    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.label':
+      '50 perusahaan terbesar menyumbang total kapitalisasi pasar saham Taiwan',
+    'data.enterprise.insights.card2.detail':
+      'Pasar saham Taiwan sangat terkonsentrasi pada perusahaan besar',
+    'data.enterprise.insights.card3.number': '12 perusahaan',
+    'data.enterprise.insights.card3.label':
+      'Perusahaan semikonduktor masuk dalam daftar',
+    'data.enterprise.insights.card3.detail':
+      'Menegaskan “perisai silikon”—— semikonduktor adalah pertahanan nasional Taiwan',
+    'data.enterprise.insights.card4.number': '12 perusahaan',
+    'data.enterprise.insights.card4.label':
+      'Perusahaan sektor keuangan masuk 50 besar',
+    'data.enterprise.insights.card4.detail':
+      'Kekuatan stabil setelah konsolidasi perusahaan induk keuangan',
+    'data.enterprise.exploreLink': 'Lihat peringkat lengkap →',
+
+    // Taiwan vs World Section
+    'data.taiwanVsWorld.title': '🌏 Posisi Taiwan di dunia',
+    'data.taiwanVsWorld.story.p1':
+      'Sebuah pulau dengan luas hampir sama dengan Belgia menghidupi 2,300 juta orang, tetapi memproduksi 92% cip komputer tercanggih di dunia. Kepadatan ekonomi Taiwan sungguh mencengangkan: wilayahnya lebih kecil daripada Swiss, tetapi penduduknya lebih banyak daripada Australia, dengan GDP per kapita mencapai 7.5 puluh ribu dolar AS.',
+    'data.taiwanVsWorld.story.p2':
+      'Angka-angka ini bukan sekadar statistik——semuanya adalah cetak biru sebuah kisah yang mustahil. Bagaimana 0.32% daratan Bumi menghasilkan 4% kekayaan dunia? Dari kepadatan minimarket tertinggi di dunia hingga peringkat demokrasi pertama di Asia, kedelapan indikator ini menguraikan jejak global Taiwan yang jauh melampaui ukurannya.',
+
+    'data.taiwanVsWorld.area.number': '36,197 km²',
+    'data.taiwanVsWorld.area.label': 'Luas ≈ seukuran Belgia',
+    'data.taiwanVsWorld.area.context':
+      'Namun, populasinya 2.35 kali Belgia（2,350 laksa vs 1,170 laksa）',
+
+    'data.taiwanVsWorld.gdp.number': '$75K',
+    'data.taiwanVsWorld.gdp.label': 'GDP per kapita (PPP)',
+    'data.taiwanVsWorld.gdp.context':
+      '15 besar dunia, vs nominal $38K（kesenjangan daya beli sangat besar）',
+
+    'data.taiwanVsWorld.semiconductor.number': '90%+',
+    'data.taiwanVsWorld.semiconductor.label': 'Pangsa global cip canggih',
+    'data.taiwanVsWorld.semiconductor.context':
+      'TSMC mendominasi proses <7nm, jantung perangkat digital dunia',
+
+    'data.taiwanVsWorld.democracy.number': 'Peringkat ke-12',
+    'data.taiwanVsWorld.democracy.label': 'Peringkat indeks demokrasi',
+    'data.taiwanVsWorld.democracy.context':
+      'Pertama di Asia, 10 besar “demokrasi penuh” dunia (EIU 2024)',
+
+    'data.taiwanVsWorld.birthRate.number': '0.87',
+    'data.taiwanVsWorld.birthRate.label': 'Angka kelahiran（2024）',
+    'data.taiwanVsWorld.birthRate.context':
+      'Salah satu yang terendah di dunia, tantangan masyarakat menua',
+
+    'data.taiwanVsWorld.convenience.number': '1/2,000 orang',
+    'data.taiwanVsWorld.convenience.label': 'Kepadatan minimarket',
+    'data.taiwanVsWorld.convenience.context':
+      '12,368 gerai（7-11+FamilyMart+Hi-Life+OK）, tertinggi di dunia',
+
+    'data.taiwanVsWorld.hsr.number': '345 kilometer',
+    'data.taiwanVsWorld.hsr.label': 'Cakupan kereta cepat',
+    'data.taiwanVsWorld.hsr.context':
+      '12 stasiun, 18 laksa perjalanan penumpang per hari, tingkat ketepatan waktu 96%',
+
+    'data.taiwanVsWorld.healthcare.number': '99.9%',
+    'data.taiwanVsWorld.healthcare.label': 'Cakupan jaminan kesehatan nasional',
+    'data.taiwanVsWorld.healthcare.context':
+      'Asuransi kesehatan nasional, tolok ukur dunia',
+
+    // Digital Democracy Timeline Section
+    'data.digitalDemocracy.title':
+      '📡 Linimasa demokrasi digital — 30 tahun evolusi tata kelola digital',
+    'data.digitalDemocracy.story.p1':
+      'Dari digitalisasi pemerintah hingga demokrasi digital: perjalanan evolusi Taiwan dari pemerintahan elektronik menuju pemerintahan terbuka hingga ketahanan digital.',
+    'data.digitalDemocracy.story.p2':
+      'Arahkan tetikus ke setiap tonggak untuk mempelajari lebih lanjut eksperimen demokrasi digital Taiwan yang unik.',
+
+    'data.timeline.1997.title': 'Program pemerintahan elektronik dimulai',
+    'data.timeline.1997.desc': 'Awal digitalisasi layanan pemerintah',
+
+    'data.timeline.2003.title': 'Program pengembangan perangkat lunak bebas',
+    'data.timeline.2003.desc':
+      'Instansi pemerintah mengadopsi perangkat lunak sumber terbuka',
+
+    'data.timeline.2012.title': 'g0v Zero Government didirikan',
+    'data.timeline.2012.desc':
+      '2 tahun sebelum Gerakan Bunga Matahari, benih teknologi sipil ditanam',
+
+    'data.timeline.2013.title': 'data.gov.tw diluncurkan',
+    'data.timeline.2013.desc': 'Taiwan memasuki era data terbuka',
+
+    'data.timeline.2014.title': 'Gerakan Bunga Matahari',
+    'data.timeline.2014.desc':
+      'Ledakan teknologi sipil, kebangkitan demokrasi digital',
+
+    'data.timeline.2015.title': 'Peringkat pertama data terbuka dunia',
+    'data.timeline.2015.desc':
+      'Juara dunia selama tiga tahun berturut-turut（2015-2017）',
+
+    'data.timeline.2016.title':
+      'Audrey Tang menjabat sebagai menteri digital tanpa portofolio',
+    'data.timeline.2016.desc':
+      'Peretas g0v menjadi kepala kementerian pemerintah',
+
+    'data.timeline.2020.title': 'Peta masker berhasil',
+    'data.timeline.2020.desc':
+      'Dikembangkan dalam 72 jam, digunakan seluruh masyarakat selama COVID-19',
+
+    'data.timeline.2022.title': 'Kementerian Urusan Digital didirikan',
+    'data.timeline.2022.desc':
+      'Tata kelola digital ditingkatkan ke tingkat kementerian（moda）',
+
+    'data.timeline.2023.title': 'Korpus AI Taiwan TAIDE',
+    'data.timeline.2023.desc': 'Model bahasa AI berdaulat Taiwan',
+
+    'data.timeline.2024.title': 'Ekspor demokrasi digital Plurality',
+    'data.timeline.2024.desc':
+      'Model demokrasi digital diekspor ke seluruh dunia',
+
+    // Population Pyramid Section
+    'data.population.title': '👥 Struktur penduduk: potret usia sebuah pulau',
+    'data.population.story.p1':
+      'Pada 2025, usia median Taiwan melampaui 43 tahun. Pulau yang dahulu muda ini sedang menua——bukan secara perlahan, melainkan dengan salah satu laju tercepat di dunia.',
+    'data.population.story.p2':
+      'Geser linimasa untuk melihat bagaimana potret usia sebuah pulau berubah dari piramida menjadi segitiga terbalik dalam waktu setengah abad.',
+
+    'data.population.insights.card1.title': 'Usia median',
+    'data.population.insights.card1.subtitle': 'tahun',
+    'data.population.insights.card1.detail': '43 tahun',
+
+    'data.population.insights.card2.title': 'Angka kelahiran',
+    'data.population.insights.card2.subtitle': 'Tingkat fertilitas',
+    'data.population.insights.card2.detail': '0.87',
+
+    'data.population.insights.card3.title': 'Proporsi usia 65+',
+    'data.population.insights.card3.subtitle': 'Usia 65 tahun ke atas',
+    'data.population.insights.card3.detail': '18%',
+
+    'data.population.insights.card4.title': 'Total populasi',
+    'data.population.insights.card4.subtitle': 'laksa orang',
+    'data.population.insights.card4.detail':
+      '2,340 puluh ribu → <2,000 puluh ribu',
+
+    // Taiwan Shape Section
+    'data.taiwanShape.title': '🗺️ Bentuk Taiwan',
+    'data.taiwanComparison.title': 'Taiwan buatan AI vs Taiwan sebenarnya',
+    'data.taiwanComparison.aiGenerated':
+      'Dibuat oleh Claude Opus 4.6（2025/3/22，tidak sengaja dibuat buruk）',
+    'data.taiwanComparison.correct': 'Kontur yang benar',
+    'data.taiwanShape.story.p1':
+      'Semua gambar Taiwan buatan AI keliru. Inilah versi yang benar.',
+    'data.taiwanShape.story.p2':
+      'Sebagian besar data pelatihan model pembuat gambar AI tidak memiliki data geografis Taiwan yang terstruktur. Akibatnya, bentuknya terdistorsi, proporsinya tidak akurat, bahkan tertukar dengan pulau lain. Taiwan.md menyediakan gambar kontur SVG Taiwan yang akurat, bersumber terbuka, dan bebas digunakan, sehingga tersedia jawaban baku untuk setiap kebutuhan yang mempertanyakan「seperti apa bentuk Taiwan」.',
+
+    // SVG Cards
+    'data.svg.card1.title': 'taiwan-icon.svg',
+    'data.svg.card1.description':
+      'Ikon kontur Taiwan — cocok untuk ikon、logo、ukuran kecil',
+    'data.svg.card2.title': 'taiwan-simplemaps.svg',
+    'data.svg.card2.description':
+      'Versi SimpleMaps — vektor bersih，cocok untuk disematkan di halaman web',
+    'data.svg.card3.title': 'taiwan-location-map.svg',
+    'data.svg.card3.description':
+      'Peta lokasi geografis — dilengkapi garis lintang dan bujur、penanda kota',
+    'data.svg.card4.title': 'taiwan-political-division.svg',
+    'data.svg.card4.description':
+      'Peta pembagian administratif — pembagian kabupaten dan kota、batas lengkap',
+    'data.svg.button.download': 'Unduh SVG',
+    'data.svg.button.copy': 'Salin kode',
+    'data.svg.button.copied': '✅ Telah disalin',
+    'data.svg.button.failed': '❌ Gagal menyalin',
+    'data.svg.usage.heading': '📝 Cara penggunaan',
+    'data.svg.usage.licenseNote':
+      'Semua berkas SVG dirilis dengan lisensi CC BY-SA 4.0. Bebas digunakan、diubah、dan dimanfaatkan secara komersial，cukup cantumkan sumbernya.',
+
+    // Open Data Section (legacy, now part of digital democracy)
+    'data.openData.title': '📡 Data Terbuka dan Demokrasi Digital',
+    'data.openData.story.p1':
+      'Dari digitalisasi menuju keterbukaan：tiga puluh tahun evolusi tata kelola digital Taiwan',
+    'data.openData.story.p2':
+      '「Program Pemerintahan Elektronik」dimulai pada 1997，data.gov.tw diluncurkan pada 2013，dan Taiwan beralih dari era pemerintahan elektronik menuju pemerintahan terbuka. Pada 2015-2017，Taiwan tiga kali berturut-turut menduduki peringkat pertama「Indeks Data Terbuka Global」. g0v menginkubasi peta masker dan bot pemeriksa fakta Cofacts. Eksperimen menteri digital Audrey Tang menjadikan Taiwan sebagai laboratorium demokrasi digital dunia.',
+    'data.openData.story.p3':
+      'Ketika warga mampu memahami data dan pemerintah bersedia merilis data，demokrasi bukan sekadar pemungutan suara empat tahun sekali，melainkan kolaborasi yang berlangsung setiap hari.',
+
+    // Knowledge Graph Section
+    'data.knowledgeGraph.title': '🕸️ Graf Pengetahuan',
+    'data.knowledgeGraph.story.p1':
+      'Bagaimana 200+ artikel taiwan.md saling terhubung？',
+    'data.knowledgeGraph.story.p2':
+      'Dari sejarah hingga geografi，dari budaya hingga teknologi，setiap artikel merupakan sebuah simpul dalam jaringan kisah Taiwan. Melalui tautan label dan rujukan Hub，kami merajut pengetahuan yang tersebar menjadi graf yang hidup. Klik untuk masuk dan menjelajahi struktur mendalam pengetahuan tentang Taiwan.',
+    'data.knowledgeGraph.ctaButton': 'Jelajahi Graf Pengetahuan',
+    'data.knowledgeGraph.ctaButton.description':
+      'Jaringan tautan artikel interaktif',
+
+    // Footer
+    'data.footer.heading': 'Jelajahi Lebih Lanjut',
+    'data.footer.link1.name': 'Ekonomi',
+    'data.footer.link1.description': 'Artikel ekonomi dan analisis mendalam',
+    'data.footer.link2.name': 'Graf Pengetahuan',
+    'data.footer.link2.description': 'Jaringan visual tautan artikel',
+    'data.footer.link3.name': 'Panduan Kontribusi',
+    'data.footer.link3.description':
+      'Cara berpartisipasi dalam pengembangan Taiwan.md',
+
+    // Sector Names (Chinese)
+    'data.sector.semiconductor': 'Semikonduktor',
+    'data.sector.electronicsManufacturing': 'Manufaktur Elektronik Kontrak',
+    'data.sector.electronicComponents': 'Komponen Elektronik',
+    'data.sector.financial': 'Keuangan',
+    'data.sector.telecommunications': 'Telekomunikasi',
+    'data.sector.foodBeverage': 'Makanan dan Minuman',
+    'data.sector.shipping': 'Pelayaran',
+    'data.sector.computerBrand': 'Merek Komputer',
+    'data.sector.steel': 'Baja',
+    'data.sector.petrochemical': 'Petrokimia',
+    'data.sector.cement': 'Semen',
+    'data.sector.optics': 'Optik',
+    'data.sector.bicycle': 'Sepeda',
+    'data.sector.textileFiber': 'Tekstil dan Serat',
+    'data.sector.transportation': 'Transportasi',
+    'data.sector.consumerElectronics': 'Elektronik Konsumen',
+    'data.sector.industrialComputer': 'Komputer Industri',
+    'data.sector.casing': 'Casing',
+    'data.sector.petrochemicalPanel': 'Panel',
+    'data.sector.server': 'Server',
+    'data.sector.pcb': 'PCB',
+    'data.sector.precisionMachinery': 'Mesin Presisi',
+
+    // Tooltip
+    'data.tooltip.marketCap': 'Kapitalisasi pasar',
+    'data.tooltip.revenue': 'Pendapatan',
+    'data.tooltip.employees': 'Karyawan',
+    'data.tooltip.founded': 'Didirikan',
+  },
+  pt: {
+    // Company Names (50 companies)
+    'data.company.taiwan-semiconductor': 'Taiwan Semiconductor TSMC',
+    'data.company.hon-hai-foxconn': 'Hon Hai Foxconn',
+    'data.company.mediatek': 'MediaTek',
+    'data.company.delta-electronics': 'Delta Electronics',
+    'data.company.ase-group': 'ASE Group',
+    'data.company.quanta-computer': 'Quanta Computer',
+    'data.company.cathay-financial': 'Cathay Financial Holdings',
+    'data.company.fubon-financial': 'Fubon Financial Holdings',
+    'data.company.chunghwa-telecom': 'Chunghwa Telecom',
+    'data.company.umc': 'UMC',
+    'data.company.uni-president': 'Uni-President Enterprises',
+    'data.company.evergreen-marine': 'Evergreen Marine',
+    'data.company.asustek': 'ASUS',
+    'data.company.pegatron': 'Pegatron',
+    'data.company.formosa-petrochemical': 'Formosa Petrochemical',
+    'data.company.mega-financial': 'Mega Financial Holdings',
+    'data.company.china-steel': 'China Steel',
+    'data.company.taiwan-mobile': 'Taiwan Mobile',
+    'data.company.realtek': 'Realtek',
+    'data.company.advantech': 'Advantech',
+    'data.company.formosa-plastics': 'Formosa Plastics',
+    'data.company.wistron': 'Wistron',
+    'data.company.nan-ya-plastics': 'Nan Ya Plastics',
+    'data.company.compal-electronics': 'Compal Electronics',
+    'data.company.largan-precision': 'Largan Precision',
+    'data.company.acer': 'Acer',
+    'data.company.e-sun-financial': 'E.SUN Financial Holdings',
+    'data.company.taiwan-cement': 'Taiwan Cement',
+    'data.company.far-eastern-new-century': 'Far Eastern New Century',
+    'data.company.ctbc-financial': 'CTBC Financial Holdings',
+    'data.company.yuanta-financial': 'Yuanta Financial Holdings',
+    'data.company.giant-manufacturing': 'Giant Manufacturing',
+    'data.company.first-financial': 'First Financial Holdings',
+    'data.company.formosa-chemicals': 'Formosa Chemicals',
+    'data.company.fareastone': 'Far EasTone Telecommunications',
+    'data.company.hua-nan-financial': 'Hua Nan Financial Holdings',
+    'data.company.lite-on-technology': 'LITE-ON Technology',
+    'data.company.taiwan-cooperative-bank':
+      'Taiwan Cooperative Financial Holdings',
+    'data.company.catcher-technology': 'Catcher Technology',
+    'data.company.taiwan-high-speed-rail': 'Trem de Alta Velocidade de Taiwan',
+    'data.company.htc': 'HTC',
+    'data.company.chang-chun-petrochemical': 'Chang Chun Petrochemical',
+    'data.company.chi-mei-corporation': 'Chi Mei Corporation',
+    'data.company.wiwynn': 'Wiwynn',
+    'data.company.powerchip-semiconductor':
+      'Powerchip Semiconductor Manufacturing',
+    'data.company.unimicron-technology': 'Unimicron Technology',
+    'data.company.silergy': 'Silergy-KY',
+    'data.company.inventec': 'Inventec',
+    'data.company.hiwin-technologies': 'HIWIN Technologies',
+    'data.company.novatek': 'Novatek',
+
+    // Top-50 new entrants (2026 AI supply-chain repricing)
+    'data.company.elite-material': 'Elite Material',
+    'data.company.accton': 'Accton',
+    'data.company.avc': 'AVC',
+    'data.company.chroma-ate': 'Chroma',
+    'data.company.hon-precision': 'Hon Precision',
+    'data.company.jentech': 'Jentech',
+    'data.company.gold-circuit': 'Gold Circuit',
+    'data.company.nanya-technology': 'Nanya',
+    'data.company.yageo': 'Yageo',
+    'data.company.nan-ya-pcb': 'Nan Ya PCB',
+    'data.company.taishin-shinkong': 'Taishin',
+    'data.company.global-unichip': 'GUC',
+    'data.company.bizlink': 'BizLink',
+    'data.company.zhen-ding': 'Zhen Ding',
+    'data.company.sinopac-financial': 'SinoPac',
+    'data.company.winbond': 'Winbond',
+    'data.company.winway': 'WinWay',
+    'data.company.king-slide': 'King Slide',
+    'data.company.kyec': 'KYEC',
+    'data.company.kgi-financial': 'KGI',
+
+    // New AI-era sectors
+    'data.sector.networking': 'Redes e telecomunicações',
+    'data.sector.cooling': 'Refrigeração',
+    'data.sector.testing': 'Testes',
+
+    // Fell-off-the-list reasons (displaced by the AI supply chain)
+    'data.fellOff.china-steel':
+      'Setor siderúrgico em baixa, prejuízos por vários anos e nenhuma participação na onda da IA',
+    'data.fellOff.htc':
+      'Fracasso no mercado de smartphones; VR／XR não alcançaram escala',
+    'data.fellOff.taiwan-cement':
+      'Negócio principal de cimento enfraquecido; transição para armazenamento de energia ainda sem escala',
+    'data.fellOff.far-eastern-new-century':
+      'Queda no setor de fibras de poliéster; indústria tradicional sem impulso da IA',
+    'data.fellOff.giant-manufacturing':
+      'Redução dos estoques de bicicletas; receita em queda por três anos consecutivos',
+
+    // Standalone /companies page
+    'data.companies.meta.title':
+      'As 50 maiores empresas de Taiwan — A reviravolta da era da IA',
+    'data.companies.meta.description':
+      'Explore em um gráfico de bolhas interativo o valor de mercado, a receita e o número de funcionários das 50 maiores empresas listadas de Taiwan, e veja como a cadeia de suprimentos de IA está reescrevendo o ranking (snapshot de 2026/06).',
+    'data.companies.hero.title': 'As 50 maiores empresas de Taiwan',
+    'data.companies.hero.subtitle':
+      'A área das bolhas representa o valor de mercado — o panorama industrial de uma ilha com 2300 milhões de habitantes',
+    'data.companies.hero.description':
+      'Quanto maior a bolha, maior o valor de mercado; a cor representa o setor. Alterne entre receita／número de funcionários, selecione etiquetas de setores para filtrar e arraste as bolhas.',
+    'data.companies.snapshot':
+      '📊 Fontes dos dados: TWSE, divulgações de receita do ano completo de 2025 e relatórios anuais das empresas · snapshot de 2026/06 (valores aproximados, não constitui recomendação de investimento)',
+    'data.companies.story.title': 'A onda da IA reprecificou toda a ilha',
+    'data.companies.story.p1':
+      'Em apenas dois anos, a expansão da IA reescreveu o ranking empresarial de Taiwan. Sozinha, a TSMC passou a representar 43.8% de todo o mercado (ante 39%, em alta contínua), enquanto as 10 ações de maior peso somam cerca de 61%.',
+    'data.companies.story.p2':
+      'Depois da TSMC, todas as empresas que avançaram pertencem à cadeia de suprimentos de IA: a Delta Electronics saltou para o 2º lugar em um ano graças às fontes de alimentação para IA (com valor de mercado multiplicado por cerca de 5), a MediaTek disparou, e nomes como Elite Material, AVC, Chroma, Accton e Yageo — de PCB／substratos, refrigeração, testes e redes — entraram em massa no top 50, substituindo cerca de 20 empresas tradicionais.',
+    'data.companies.table.heading': '📋 Ranking completo',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': 'Empresa',
+    'data.companies.table.sector': 'Setor',
+    'data.companies.table.marketCap': 'Valor de mercado (100 milhões de TWD)',
+    'data.companies.table.revenue': 'Receita de 2025 (100 milhões de TWD)',
+    'data.companies.table.employees': 'Número de funcionários',
+    'data.companies.table.founded': 'Fundação',
+    'data.companies.insights.heading': '🔍 Principais conclusões',
+    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.label':
+      'Participação da TSMC no valor total de mercado das ações de Taiwan',
+    'data.companies.insights.card1.detail':
+      'Subiu de 39%; uma única empresa equivale a cerca de quatro quintos de todas as demais somadas',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label':
+      'Participação das 10 maiores ações no valor total de mercado',
+    'data.companies.insights.card2.detail':
+      'Altamente concentrado em poucas ações de grandes empresas',
+    'data.companies.insights.card3.number': 'Cerca de 20',
+    'data.companies.insights.card3.label':
+      'Novas no ranking em dois anos graças à cadeia de fornecimento de AI',
+    'data.companies.insights.card3.detail':
+      'PCB／substratos, refrigeração, testes e equipamentos de rede; há dois anos, ainda não estavam no ranking',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label':
+      'Holdings financeiras entre as 50 maiores',
+    'data.companies.insights.card4.detail':
+      'Após as fusões, são a âncora mais estável do índice',
+    'data.companies.fellOff.title': '📉 Quem saiu do ranking',
+    'data.companies.fellOff.intro':
+      'A reprecificação provocada pela AI também teve perdedores. Estes nomes conhecidos em todo o país——siderurgia, cimento, indústria têxtil, bicicletas e uma antiga estrela dos celulares——saíram das 50 maiores enquanto o capital fluía para a cadeia de AI.',
+    'data.companies.fellOff.marketCapNow': 'Valor de mercado atual',
+    'data.companies.method.heading': '📝 Metodologia',
+    'data.companies.method.body':
+      'O valor de mercado foi estimado multiplicando o peso de cada ação no índice da TWSE em 2026/06 pelo valor total do mercado, ancorado na TSMC (cerca de NT$59 trilhões／43.8%). A receita corresponde à receita consolidada de todo o ano de 2025 (para holdings financeiras, receita operacional consolidada, incluindo seguros). O número de funcionários é aproximado e, sempre que possível, segue a base do grupo／consolidada; como o escopo de contabilização varia entre as empresas, considere esse eixo apenas como uma ordem de grandeza, não como uma comparação precisa.',
+    'data.companies.related': '📖 Leitura complementar',
+
+    // Category 1: Government Open Data
+    'data.category.1.title': 'Dados governamentais abertos',
+    'data.category.1.description':
+      'Conjuntos de dados estruturados e plataformas estatísticas disponibilizados por órgãos públicos',
+    'data.category.1.item.1.name': 'Plataforma de Dados Abertos do Governo',
+    'data.category.1.item.1.desc':
+      'Em 2020, engenheiros usaram os dados daqui para criar em 72 horas um mapa de máscaras, solucionando o problema das filas nas farmácias de todo o país',
+    'data.category.1.item.2.name':
+      'Banco de Dados Estatísticos da Direção-Geral de Orçamento, Contabilidade e Estatística',
+    'data.category.1.item.2.desc':
+      'Principais estatísticas nacionais sobre população, economia, preços e outros temas',
+    'data.category.1.item.3.name':
+      'Banco de Dados Eleitorais da Comissão Central de Eleições',
+    'data.category.1.item.3.desc':
+      'Resultados e dados de votação de eleições anteriores',
+    'data.category.1.item.4.name':
+      'Banco de Dados Nacional de Leis e Regulamentos',
+    'data.category.1.item.4.desc':
+      'Pesquisa no texto integral de todas as leis, normas e decisões judiciais',
+    'data.category.1.item.5.name': 'Rede de Monitoramento da Qualidade do Ar',
+    'data.category.1.item.5.desc':
+      'Dados de monitoramento de AQI e PM2.5 em tempo real',
+
+    // Category 2: Interactive Maps & Visualization
+    'data.category.2.title': 'Mapas interativos e visualização',
+    'data.category.2.description':
+      'Ferramentas de monitoramento em tempo real, dados geoespaciais e visualização ambiental',
+    'data.category.2.item.1.name':
+      'Mapa Dinâmico dos Cabos Submarinos de Taiwan',
+    'data.category.2.item.1.desc':
+      'Monitoramento em tempo real de cabos submarinos desenvolvido pela sociedade civil,um exemplo de tecnologia cívica',
+    'data.category.2.item.2.name':
+      'Nuvem Nacional de Serviços de Cartografia e Dados Geoespaciais',
+    'data.category.2.item.2.desc':
+      'Mapas de Taiwan, fotografias aéreas e cadastro fundiário',
+    'data.category.2.item.3.name': 'Centro de Monitoramento e Alerta Sísmico',
+    'data.category.2.item.3.desc':
+      'Informações sísmicas em tempo real e registros históricos',
+    'data.category.2.item.4.name':
+      'Rede de Informações para Prevenção de Desastres da Agência de Recursos Hídricos',
+    'data.category.2.item.4.desc':
+      'Condições hídricas, níveis dos rios e volume dos reservatórios em tempo real',
+    'data.category.2.item.5.name': 'Informações Ambientais em Tempo Real',
+    'data.category.2.item.5.desc':
+      'Monitoramento em tempo real da qualidade do ar, radiação ultravioleta e qualidade da água',
+
+    // Category 3: Civic Tech
+    'data.category.3.title': 'Tecnologia cívica (Civic Tech)',
+    'data.category.3.description':
+      'Comunidades de código aberto, verificação de fatos e ferramentas de democracia digital',
+    'data.category.3.item.1.name': 'g0v Governo Zero',
+    'data.category.3.item.1.desc':
+      'Fundado em 2012, deu origem a projetos de tecnologia cívica que transformaram Taiwan, como o mapa de máscaras, Cofacts e vTaiwan',
+    'data.category.3.item.2.name': 'Eventos de Tecnologia Cívica no KKTIX',
+    'data.category.3.item.2.desc':
+      'Portal de hackathons do g0v e eventos da comunidade de dados abertos',
+    'data.category.3.item.3.name': 'Cofacts Verdadeiro ou Falso',
+    'data.category.3.item.3.desc':
+      'Qualquer pessoa pode enviar para verificação mensagens falsas encaminhadas em grupos do LINE; a plataforma já acumula dezenas de milhares de verificações',
+    'data.category.3.item.4.name': 'vTaiwan',
+    'data.category.3.item.4.desc':
+      'Usa o algoritmo Polis para encontrar consensos e já influenciou políticas como a regulamentação do Uber e as normas de ensino remoto',
+    'data.category.3.item.5.name':
+      'Plataforma JOIN de Participação em Políticas Públicas',
+    'data.category.3.item.5.desc':
+      'Propostas ao governo, petições e debates sobre políticas públicas',
+
+    // Category 4: Data Journalism & Fact-Checking
+    'data.category.4.title': 'Jornalismo de dados e verificação',
+    'data.category.4.description':
+      'Reportagens investigativas aprofundadas, verificação de fatos e veículos de jornalismo de dados',
+    'data.category.4.item.1.name': 'The Reporter',
+    'data.category.4.item.1.desc':
+      'Fundado em 2015, foi o primeiro veículo sem fins lucrativos de jornalismo investigativo aprofundado de Taiwan e revelou diversas questões públicas importantes',
+    'data.category.4.item.2.name': 'Centro de Verificação de Fatos de Taiwan',
+    'data.category.4.item.2.desc':
+      'Certificado pela IFCN, a Rede Internacional de Verificação de Fatos, e parceiro terceirizado de verificação do Facebook',
+    'data.category.4.item.3.name': 'READr 讀+',
+    'data.category.4.item.3.desc':
+      'Reportagens de jornalismo de dados e visualização de dados abertos',
+    'data.category.4.item.4.name': 'ARTouch',
+    'data.category.4.item.4.desc':
+      'Veículo de notícias de arte e análises aprofundadas de Taiwan',
+
+    // Category 5: Academic & Research
+    'data.category.5.title': 'Academia e pesquisa',
+    'data.category.5.description':
+      'Acervos digitais, dados ecológicos e corpora de AI',
+    'data.category.5.item.1.name': 'Museu Aberto da Academia Sinica',
+    'data.category.5.item.1.desc': 'Acervos digitais e exposições on-line',
+    'data.category.5.item.2.name': 'Banco Nacional da Memória Cultural',
+    'data.category.5.item.2.desc':
+      'Preservação digital da memória cultural de Taiwan',
+    'data.category.5.item.3.name': 'Rede de Biodiversidade de Taiwan',
+    'data.category.5.item.3.desc':
+      'Distribuição de espécies e observações ecológicas',
+    'data.category.5.item.4.name':
+      'Corpus Taiwanês Soberano para Treinamento de AI TAIC',
+    'data.category.5.item.4.desc':
+      'Conjunto de dados local de Taiwan para treinamento de AI',
+
+    // Meta
+    'data.meta.title': '📊 Taiwan em dados — Taiwan.md',
+    'data.meta.description':
+      'Conheça uma ilha por meio dos números: panorama empresarial, dados abertos, o contorno correto de Taiwan e visualizações interativas',
+
+    // Hero
+    'data.hero.title': 'Taiwan em dados',
+    'data.hero.subtitle':
+      'Descubra a verdadeira face de uma ilha por meio de visualizações interativas e dados abertos',
+    'data.hero.description':
+      'Este é um espaço de curadoria de dados sobre Taiwan. Do panorama empresarial aos dados abertos, do contorno correto de Taiwan aos experimentos de democracia digital——usamos visualizações interativas e recursos abertos para deixar os números contarem a história de Taiwan.',
+
+    // Enterprise Section
+    'data.enterprise.title': '🏢 Panorama empresarial',
+    'data.enterprise.story.p1':
+      'Como uma ilha sustenta a cadeia global de fornecimento?',
+    'data.enterprise.story.p2':
+      'Dos 267 bilhões em valor de mercado da TSMC aos 870 mil funcionários da Hon Hai, as 50 maiores empresas de Taiwan formam a espinha dorsal econômica da ilha. 12 empresas de semicondutores confirmam o nome de «escudo de silício», 12 holdings financeiras sustentam a estabilidade financeira e gigantes da manufatura por contrato conectam a vida digital global. Explore no gráfico de bolhas como Taiwan, com 2% da população mundial, gera 4% do GDP global.',
+    'data.enterprise.controls.sizeLabel': 'Tamanho da bolha:',
+    'data.enterprise.controls.marketCap': 'Valor de mercado',
+    'data.enterprise.controls.revenue': 'Receita',
+    'data.enterprise.controls.employees': 'Número de funcionários',
+    'data.enterprise.controls.filterAll': 'Todos',
+    'data.enterprise.insights.heading': 'Principais insights',
+    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.label':
+      'Participação da TSMC no valor total do mercado acionário de Taiwan',
+    'data.enterprise.insights.card1.detail':
+      'Uma empresa ≈ 2/3 das outras mil empresas listadas',
+    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.label':
+      'Participação das 50 maiores no valor total do mercado acionário de Taiwan',
+    'data.enterprise.insights.card2.detail':
+      'O mercado acionário de Taiwan é altamente concentrado em grandes empresas',
+    'data.enterprise.insights.card3.number': '12 empresas',
+    'data.enterprise.insights.card3.label':
+      'Empresas de semicondutores no ranking',
+    'data.enterprise.insights.card3.detail':
+      'Confirma o «escudo de silício» — os semicondutores são a defesa nacional de Taiwan',
+    'data.enterprise.insights.card4.number': '12 empresas',
+    'data.enterprise.insights.card4.label':
+      'Empresas financeiras entre as 50 maiores',
+    'data.enterprise.insights.card4.detail':
+      'A força estabilizadora após as consolidações das holdings financeiras',
+    'data.enterprise.exploreLink': 'Ver ranking completo →',
+
+    // Taiwan vs World Section
+    'data.taiwanVsWorld.title': '🌏 O lugar de Taiwan no mundo',
+    'data.taiwanVsWorld.story.p1':
+      'Uma ilha com área semelhante à da Bélgica abriga 2,300 milhões de pessoas, mas produz 92% dos chips de computador mais avançados do mundo. A densidade econômica de Taiwan impressiona: em um território menor que a Suíça, vive uma população maior que a da Austrália, com um PIB per capita de até 7.5 mil dólares.',
+    'data.taiwanVsWorld.story.p2':
+      'Esses números não são apenas estatísticas — são o esboço de uma história impossível. Como 0.32% das terras do planeta geram 4% da riqueza mundial? Da maior densidade de lojas de conveniência do mundo à liderança democrática na Ásia, estes oito indicadores decifram a presença global desproporcional de Taiwan.',
+
+    'data.taiwanVsWorld.area.number': '36,197 km²',
+    'data.taiwanVsWorld.area.label': 'Área ≈ tamanho da Bélgica',
+    'data.taiwanVsWorld.area.context':
+      'Mas a população é 2.35 vezes a da Bélgica (2,350 milhões vs 1,170 milhões)',
+
+    'data.taiwanVsWorld.gdp.number': '$75K',
+    'data.taiwanVsWorld.gdp.label': 'PIB per capita (PPC)',
+    'data.taiwanVsWorld.gdp.context':
+      'Entre os 15 maiores do mundo, vs $38K nominais (enorme diferença de poder de compra)',
+
+    'data.taiwanVsWorld.semiconductor.number': '90%+',
+    'data.taiwanVsWorld.semiconductor.label':
+      'Participação global em chips avançados',
+    'data.taiwanVsWorld.semiconductor.context':
+      'A TSMC domina os processos de <7nm, o coração dos dispositivos digitais do mundo',
+
+    'data.taiwanVsWorld.democracy.number': '12º lugar',
+    'data.taiwanVsWorld.democracy.label': 'Posição no Índice de Democracia',
+    'data.taiwanVsWorld.democracy.context':
+      '1º lugar na Ásia e entre as 10 «democracias plenas» do mundo (EIU 2024)',
+
+    'data.taiwanVsWorld.birthRate.number': '0.87',
+    'data.taiwanVsWorld.birthRate.label': 'Taxa de natalidade (2024)',
+    'data.taiwanVsWorld.birthRate.context':
+      'Uma das mais baixas do mundo, um desafio para uma sociedade em envelhecimento',
+
+    'data.taiwanVsWorld.convenience.number': '1/2,000 pessoas',
+    'data.taiwanVsWorld.convenience.label':
+      'Densidade de lojas de conveniência',
+    'data.taiwanVsWorld.convenience.context':
+      '12,368 lojas (7-11+FamilyMart+Hi-Life+OK), a maior densidade do mundo',
+
+    'data.taiwanVsWorld.hsr.number': '345 quilômetros',
+    'data.taiwanVsWorld.hsr.label': 'Cobertura ferroviária de alta velocidade',
+    'data.taiwanVsWorld.hsr.context':
+      '12 estações, 18 mil passageiros por dia e pontualidade de 96%',
+
+    'data.taiwanVsWorld.healthcare.number': '99.9%',
+    'data.taiwanVsWorld.healthcare.label':
+      'Cobertura do seguro nacional de saúde',
+    'data.taiwanVsWorld.healthcare.context':
+      'Seguro Nacional de Saúde, uma referência mundial',
+
+    // Digital Democracy Timeline Section
+    'data.digitalDemocracy.title':
+      '📡 Linha do tempo da democracia digital — 30 anos de evolução da governança digital',
+    'data.digitalDemocracy.story.p1':
+      'Da digitalização do governo à democracia digital: a trajetória de Taiwan passou pelo governo eletrônico, pelo governo aberto e chegou à resiliência digital.',
+    'data.digitalDemocracy.story.p2':
+      'Passe o mouse sobre cada marco para conhecer melhor a experiência singular de Taiwan com a democracia digital.',
+
+    'data.timeline.1997.title': 'Lançamento do projeto de governo eletrônico',
+    'data.timeline.1997.desc': 'Início da digitalização dos serviços públicos',
+
+    'data.timeline.2003.title': 'Projeto de promoção do software livre',
+    'data.timeline.2003.desc':
+      'Órgãos governamentais adotam software de código aberto',
+
+    'data.timeline.2012.title': 'Fundação do g0v, o governo zero',
+    'data.timeline.2012.desc':
+      'As sementes da tecnologia cívica são plantadas 2 anos antes do Movimento Girassol',
+
+    'data.timeline.2013.title': 'Lançamento do data.gov.tw',
+    'data.timeline.2013.desc': 'Taiwan entra na era dos dados abertos',
+
+    'data.timeline.2014.title': 'Movimento Girassol',
+    'data.timeline.2014.desc':
+      'Explosão da tecnologia cívica e despertar da democracia digital',
+
+    'data.timeline.2015.title': '1º lugar mundial em dados abertos',
+    'data.timeline.2015.desc':
+      'Campeão mundial por três anos consecutivos (2015-2017)',
+
+    'data.timeline.2016.title':
+      'Audrey Tang assume como ministra digital sem pasta',
+    'data.timeline.2016.desc':
+      'Hacker do g0v torna-se dirigente ministerial do governo',
+
+    'data.timeline.2020.title': 'Sucesso do mapa de máscaras',
+    'data.timeline.2020.desc':
+      'Desenvolvido em 72 horas e usado por toda a população durante a COVID-19',
+
+    'data.timeline.2022.title': 'Criação do Ministério de Assuntos Digitais',
+    'data.timeline.2022.desc':
+      'Governança digital elevada ao nível ministerial (moda)',
+
+    'data.timeline.2023.title': 'Corpus de IA taiwanês TAIDE',
+    'data.timeline.2023.desc': 'Modelo soberano de linguagem de IA de Taiwan',
+
+    'data.timeline.2024.title': 'Exportação da democracia digital Plurality',
+    'data.timeline.2024.desc':
+      'Modelo de democracia digital exportado para o mundo',
+
+    // Population Pyramid Section
+    'data.population.title':
+      '👥 Estrutura populacional: o retrato etário de uma ilha',
+    'data.population.story.p1':
+      'Em 2025, a idade mediana em Taiwan ultrapassa 43 anos. Esta ilha, antes jovem, está envelhecendo — não lentamente, mas em um dos ritmos mais rápidos do mundo.',
+    'data.population.story.p2':
+      'Arraste a linha do tempo e veja como o retrato etário de uma ilha se transforma de uma pirâmide em um triângulo invertido ao longo de meio século.',
+
+    'data.population.insights.card1.title': 'Idade mediana',
+    'data.population.insights.card1.subtitle': 'anos',
+    'data.population.insights.card1.detail': '43 anos',
+
+    'data.population.insights.card2.title': 'Taxa de natalidade',
+    'data.population.insights.card2.subtitle': 'Taxa de fecundidade',
+    'data.population.insights.card2.detail': '0.87',
+
+    'data.population.insights.card3.title': 'Proporção de pessoas com 65+',
+    'data.population.insights.card3.subtitle': '65 anos ou mais',
+    'data.population.insights.card3.detail': '18%',
+
+    'data.population.insights.card4.title': 'População total',
+    'data.population.insights.card4.subtitle': 'dezenas de milhares de pessoas',
+    'data.population.insights.card4.detail': '2,340 dez mil → <2,000 dez mil',
+
+    // Taiwan Shape Section
+    'data.taiwanShape.title': '🗺️ O formato de Taiwan',
+    'data.taiwanComparison.title': 'Taiwan desenhado por IA vs Taiwan real',
+    'data.taiwanComparison.aiGenerated':
+      'Gerado pelo Claude Opus 4.6 (2025/3/22, sem distorção intencional)',
+    'data.taiwanComparison.correct': 'Contorno correto',
+    'data.taiwanShape.story.p1':
+      'Todos os desenhos de Taiwan feitos por IA estão errados. Esta é a versão correta.',
+    'data.taiwanShape.story.p2':
+      'Os dados de treinamento da maioria dos modelos de geração de imagens por IA carecem de dados geográficos estruturados sobre Taiwan. O resultado são formas distorcidas, proporções incorretas e até confusão com outras ilhas. Taiwan.md oferece contornos SVG corretos, de código aberto e de uso livre de Taiwan, garantindo uma referência padrão para todas as situações em que é preciso saber «qual é o formato de Taiwan».',
+
+    // SVG Cards
+    'data.svg.card1.title': 'taiwan-icon.svg',
+    'data.svg.card1.description':
+      'Ícone com o contorno de Taiwan — ideal para ícones, logotipos e tamanhos pequenos',
+    'data.svg.card2.title': 'taiwan-simplemaps.svg',
+    'data.svg.card2.description':
+      'Versão SimpleMaps — vetor limpo, ideal para incorporação em páginas web',
+    'data.svg.card3.title': 'taiwan-location-map.svg',
+    'data.svg.card3.description':
+      'Mapa de localização geográfica — inclui latitude, longitude e marcadores de cidades',
+    'data.svg.card4.title': 'taiwan-political-division.svg',
+    'data.svg.card4.description':
+      'Mapa de divisões administrativas — condados, cidades e limites completos',
+    'data.svg.button.download': 'Baixar SVG',
+    'data.svg.button.copy': 'Copiar código',
+    'data.svg.button.copied': '✅ Copiado',
+    'data.svg.button.failed': '❌ Falha ao copiar',
+    'data.svg.usage.heading': '📝 Como usar',
+    'data.svg.usage.licenseNote':
+      'Todos os arquivos SVG são disponibilizados sob a licença CC BY-SA 4.0. Você pode usá-los, modificá-los e explorá-los comercialmente, bastando atribuir a fonte.',
+
+    // Open Data Section (legacy, now part of digital democracy)
+    'data.openData.title': '📡 Dados abertos e democracia digital',
+    'data.openData.story.p1':
+      'Da digitalização à abertura: trinta anos de evolução da governança digital de Taiwan',
+    'data.openData.story.p2':
+      'O «Plano de Governo Eletrônico» foi lançado em 1997 e o data.gov.tw entrou no ar em 2013, levando Taiwan da era do governo eletrônico à do governo aberto. Entre 2015-2017, Taiwan ocupou o primeiro lugar no «Índice Global de Dados Abertos» por três vezes consecutivas. A comunidade g0v incubou o mapa de máscaras e o robô de verificação de fatos Cofacts. As experiências de Audrey Tang como ministra digital transformaram Taiwan em um laboratório mundial de democracia digital.',
+    'data.openData.story.p3':
+      'Quando os cidadãos conseguem compreender os dados e o governo se dispõe a divulgá-los, a democracia deixa de ser apenas uma votação a cada quatro anos e passa a ser uma colaboração diária.',
+
+    // Knowledge Graph Section
+    'data.knowledgeGraph.title': '🕸️ Grafo de conhecimento',
+    'data.knowledgeGraph.story.p1':
+      'Como os mais de 200 artigos de taiwan.md se conectam?',
+    'data.knowledgeGraph.story.p2':
+      'Da história à geografia, da cultura à tecnologia, cada artigo é um nó na rede de histórias de Taiwan. Por meio de conexões entre etiquetas e referências em Hubs, transformamos conhecimentos dispersos em um grafo vivo. Entre e explore a estrutura profunda do conhecimento sobre Taiwan.',
+    'data.knowledgeGraph.ctaButton': 'Explorar o grafo de conhecimento',
+    'data.knowledgeGraph.ctaButton.description':
+      'Rede interativa de conexões entre artigos',
+
+    // Footer
+    'data.footer.heading': 'Explore mais',
+    'data.footer.link1.name': 'Economia',
+    'data.footer.link1.description':
+      'Artigos e análises aprofundadas sobre economia',
+    'data.footer.link2.name': 'Grafo de conhecimento',
+    'data.footer.link2.description': 'Rede visual das conexões entre artigos',
+    'data.footer.link3.name': 'Guia de contribuição',
+    'data.footer.link3.description':
+      'Como participar da construção do Taiwan.md',
+
+    // Sector Names (Chinese)
+    'data.sector.semiconductor': 'Semicondutores',
+    'data.sector.electronicsManufacturing':
+      'Fabricação terceirizada de eletrônicos',
+    'data.sector.electronicComponents': 'Componentes eletrônicos',
+    'data.sector.financial': 'Finanças',
+    'data.sector.telecommunications': 'Telecomunicações',
+    'data.sector.foodBeverage': 'Alimentos e bebidas',
+    'data.sector.shipping': 'Transporte marítimo',
+    'data.sector.computerBrand': 'Marcas de computadores',
+    'data.sector.steel': 'Siderurgia',
+    'data.sector.petrochemical': 'Petroquímica',
+    'data.sector.cement': 'Cimento',
+    'data.sector.optics': 'Óptica',
+    'data.sector.bicycle': 'Bicicletas',
+    'data.sector.textileFiber': 'Fibras têxteis',
+    'data.sector.transportation': 'Transportes',
+    'data.sector.consumerElectronics': 'Eletrônicos de consumo',
+    'data.sector.industrialComputer': 'Computadores industriais',
+    'data.sector.casing': 'Gabinetes',
+    'data.sector.petrochemicalPanel': 'Painéis',
+    'data.sector.server': 'Servidores',
+    'data.sector.pcb': 'PCB',
+    'data.sector.precisionMachinery': 'Máquinas de precisão',
+
+    // Tooltip
+    'data.tooltip.marketCap': 'Valor de mercado',
+    'data.tooltip.revenue': 'Receita',
+    'data.tooltip.employees': 'Funcionários',
+    'data.tooltip.founded': 'Fundação',
+  },
+  hi: {
+    // Company Names (50 companies)
+    'data.company.taiwan-semiconductor': 'ताइवान सेमीकंडक्टर TSMC',
+    'data.company.hon-hai-foxconn': 'होन हाई Foxconn',
+    'data.company.mediatek': 'लियानफा टेक्नोलॉजी MediaTek',
+    'data.company.delta-electronics': 'डेल्टा इलेक्ट्रॉनिक्स Delta',
+    'data.company.ase-group': 'एडवांस्ड सेमीकंडक्टर इंजीनियरिंग ASE',
+    'data.company.quanta-computer': 'क्वांटा कंप्यूटर Quanta',
+    'data.company.cathay-financial': 'कैथे फाइनेंशियल होल्डिंग्स',
+    'data.company.fubon-financial': 'फुबोन फाइनेंशियल होल्डिंग्स',
+    'data.company.chunghwa-telecom': 'चुंगह्वा टेलीकॉम',
+    'data.company.umc': 'यूनाइटेड माइक्रोइलेक्ट्रॉनिक्स UMC',
+    'data.company.uni-president': 'यूनी-प्रेसिडेंट एंटरप्राइजेज',
+    'data.company.evergreen-marine': 'एवरग्रीन मरीन',
+    'data.company.asustek': 'आसुस ASUS',
+    'data.company.pegatron': 'पेगाट्रॉन Pegatron',
+    'data.company.formosa-petrochemical': 'फॉर्मोसा पेट्रोकेमिकल',
+    'data.company.mega-financial': 'मेगा फाइनेंशियल होल्डिंग',
+    'data.company.china-steel': 'चाइना स्टील',
+    'data.company.taiwan-mobile': 'ताइवान मोबाइल',
+    'data.company.realtek': 'रियलटेक Realtek',
+    'data.company.advantech': 'एडवांटेक Advantech',
+    'data.company.formosa-plastics': 'फॉर्मोसा प्लास्टिक्स',
+    'data.company.wistron': 'विस्ट्रॉन Wistron',
+    'data.company.nan-ya-plastics': 'नान या प्लास्टिक्स',
+    'data.company.compal-electronics': 'कम्पाल इलेक्ट्रॉनिक्स Compal',
+    'data.company.largan-precision': 'लार्गन प्रिसीजन Largan',
+    'data.company.acer': 'एसर Acer',
+    'data.company.e-sun-financial': 'ई.सन फाइनेंशियल होल्डिंग्स',
+    'data.company.taiwan-cement': 'ताइवान सीमेंट',
+    'data.company.far-eastern-new-century': 'फार ईस्टर्न न्यू सेंचुरी',
+    'data.company.ctbc-financial': 'CTBC फाइनेंशियल होल्डिंग',
+    'data.company.yuanta-financial': 'युआंटा फाइनेंशियल होल्डिंग्स',
+    'data.company.giant-manufacturing': 'जायंट मैन्युफैक्चरिंग Giant',
+    'data.company.first-financial': 'फर्स्ट फाइनेंशियल होल्डिंग',
+    'data.company.formosa-chemicals': 'फॉर्मोसा केमिकल्स',
+    'data.company.fareastone': 'फार ईस्टोन टेलीकम्युनिकेशंस',
+    'data.company.hua-nan-financial': 'हुआ नान फाइनेंशियल होल्डिंग्स',
+    'data.company.lite-on-technology': 'लाइट-ऑन टेक्नोलॉजी',
+    'data.company.taiwan-cooperative-bank':
+      'ताइवान कोऑपरेटिव फाइनेंशियल होल्डिंग',
+    'data.company.catcher-technology': 'कैचर टेक्नोलॉजी',
+    'data.company.taiwan-high-speed-rail': 'ताइवान हाई स्पीड रेल',
+    'data.company.htc': 'हाई टेक कंप्यूटर HTC',
+    'data.company.chang-chun-petrochemical': 'चांग चुन पेट्रोकेमिकल',
+    'data.company.chi-mei-corporation': 'ची मेई कॉर्पोरेशन',
+    'data.company.wiwynn': 'विविन टेक्नोलॉजी',
+    'data.company.powerchip-semiconductor': 'पावरचिप सेमीकंडक्टर',
+    'data.company.unimicron-technology': 'यूनिमाइक्रॉन टेक्नोलॉजी',
+    'data.company.silergy': 'सिलर्जी-KY',
+    'data.company.inventec': 'इन्वेंटेक',
+    'data.company.hiwin-technologies': 'हाइविन टेक्नोलॉजीज',
+    'data.company.novatek': 'नोवाटेक माइक्रोइलेक्ट्रॉनिक्स',
+
+    // Top-50 new entrants (2026 AI supply-chain repricing)
+    'data.company.elite-material': 'एलीट मटेरियल Elite Material',
+    'data.company.accton': 'ऐक्टन Accton',
+    'data.company.avc': 'एशिया वाइटल कंपोनेंट्स AVC',
+    'data.company.chroma-ate': 'क्रोमा Chroma',
+    'data.company.hon-precision': 'होन प्रिसीजन Hon Precision',
+    'data.company.jentech': 'जेनटेक Jentech',
+    'data.company.gold-circuit': 'गोल्ड सर्किट Gold Circuit',
+    'data.company.nanya-technology': 'नान्या टेक्नोलॉजी Nanya',
+    'data.company.yageo': 'यागेओ Yageo',
+    'data.company.nan-ya-pcb': 'नान या PCB Nan Ya PCB',
+    'data.company.taishin-shinkong': 'ताइशिन शिन कोंग फाइनेंशियल Taishin',
+    'data.company.global-unichip': 'ग्लोबल यूनिचिप GUC',
+    'data.company.bizlink': 'बिज़लिंक BizLink',
+    'data.company.zhen-ding': 'झेन डिंग Zhen Ding',
+    'data.company.sinopac-financial': 'सिनोपैक फाइनेंशियल SinoPac',
+    'data.company.winbond': 'विनबॉन्ड इलेक्ट्रॉनिक्स Winbond',
+    'data.company.winway': 'विनवे WinWay',
+    'data.company.king-slide': 'किंग स्लाइड King Slide',
+    'data.company.kyec': 'किंग युआन इलेक्ट्रॉनिक्स KYEC',
+    'data.company.kgi-financial': 'KGI फाइनेंशियल KGI',
+
+    // New AI-era sectors
+    'data.sector.networking': 'नेटवर्किंग',
+    'data.sector.cooling': 'ताप अपव्यय',
+    'data.sector.testing': 'परीक्षण',
+
+    // Fell-off-the-list reasons (displaced by the AI supply chain)
+    'data.fellOff.china-steel':
+      'इस्पात क्षेत्र में सुस्ती और लगातार कई वर्षों के घाटे के बीच AI की दौड़ से बाहर',
+    'data.fellOff.htc':
+      'स्मार्टफोन कारोबार धराशायी, VR／XR पर्याप्त विस्तार नहीं दे सके',
+    'data.fellOff.taiwan-cement':
+      'मुख्य सीमेंट कारोबार कमजोर, ऊर्जा भंडारण में बदलाव ने अभी रफ्तार नहीं पकड़ी',
+    'data.fellOff.far-eastern-new-century':
+      'पॉलिएस्टर और रासायनिक फाइबर क्षेत्र में मंदी, पारंपरिक उद्योग के पास AI से जुड़ा आकर्षण नहीं',
+    'data.fellOff.giant-manufacturing':
+      'साइकिल भंडार घटाने की प्रक्रिया के बीच राजस्व में लगातार तीन वर्षों से गिरावट',
+
+    // Standalone /companies page
+    'data.companies.meta.title':
+      'ताइवान की शीर्ष 50 कंपनियां — AI युग में फेरबदल',
+    'data.companies.meta.description':
+      'इंटरैक्टिव बबल चार्ट में ताइवान की बाजार पूंजीकरण के लिहाज से शीर्ष 50 सूचीबद्ध कंपनियों का बाजार मूल्य, राजस्व और कर्मचारी संख्या देखें, साथ ही जानें कि AI आपूर्ति शृंखला ने रैंकिंग को कैसे बदल दिया（2026/06 snapshot）。',
+    'data.companies.hero.title': 'ताइवान की शीर्ष 50 कंपनियां',
+    'data.companies.hero.subtitle':
+      'बबल का क्षेत्रफल बाजार पूंजीकरण दर्शाता है—2300 लाख लोगों के द्वीप का औद्योगिक मानचित्र',
+    'data.companies.hero.description':
+      'बबल जितना बड़ा＝बाजार पूंजीकरण उतना अधिक; रंग उद्योग दर्शाता है। राजस्व／कर्मचारी संख्या के बीच बदलें, उद्योग टैग चुनकर फ़िल्टर करें और बबल खींचें।',
+    'data.companies.snapshot':
+      '📊 डेटा स्रोत：TWSE、2025 के पूरे वर्ष की राजस्व घोषणाएं、कंपनियों की वार्षिक रिपोर्ट · snapshot 2026/06（अनुमानित आंकड़े, निवेश सलाह नहीं）',
+    'data.companies.story.title':
+      'AI की लहर ने पूरे द्वीप का मूल्यांकन बदल दिया',
+    'data.companies.story.p1':
+      'सिर्फ दो वर्षों में AI बुनियादी ढांचे ने ताइवान की कॉर्पोरेट रैंकिंग बदल दी। अकेली ताइवान सेमीकंडक्टर की पूरे बाजार में 43.8% हिस्सेदारी है（जो 39% से लगातार बढ़ी）, जबकि शीर्ष 10 दिग्गज शेयरों की संयुक्त हिस्सेदारी करीब 61% है।',
+    'data.companies.story.p2':
+      'TSMC के बाद बढ़ने वाली सभी कंपनियां AI आपूर्ति शृंखला से जुड़ी हैं：डेल्टा इलेक्ट्रॉनिक्स AI बिजली समाधानों के दम पर एक वर्ष में दूसरे स्थान पर पहुंची（बाजार मूल्य करीब 5 गुना）, MediaTek में जोरदार उछाल आया, जबकि एलीट मटेरियल、एशिया वाइटल कंपोनेंट्स、क्रोमा、ऐक्टन और यागेओ जैसे PCB／सब्सट्रेट、ताप अपव्यय、परीक्षण और नेटवर्किंग क्षेत्र के नाम शीर्ष 50 में आ गए और करीब 20 पुराने नाम बाहर हो गए।',
+    'data.companies.table.heading': '📋 पूरी रैंकिंग',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': 'कंपनी',
+    'data.companies.table.sector': 'उद्योग',
+    'data.companies.table.marketCap': 'बाजार पूंजीकरण（करोड़ TWD）',
+    'data.companies.table.revenue': '2025 राजस्व（करोड़ TWD）',
+    'data.companies.table.employees': 'कर्मचारी संख्या',
+    'data.companies.table.founded': 'स्थापना',
+    'data.companies.insights.heading': '🔍 प्रमुख निष्कर्ष',
+    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.label':
+      'ताइवान के शेयर बाज़ार के कुल बाज़ार पूंजीकरण में TSMC की हिस्सेदारी',
+    'data.companies.insights.card1.detail':
+      '39% से बढ़कर, अकेली एक कंपनी शेष सभी कंपनियों के संयुक्त मूल्य के लगभग चार-पाँचवें हिस्से के बराबर',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label':
+      'कुल बाज़ार पूंजीकरण में शीर्ष 10 प्रमुख शेयरों की हिस्सेदारी',
+    'data.companies.insights.card2.detail':
+      'चंद बड़ी कंपनियों के शेयरों में अत्यधिक संकेंद्रण',
+    'data.companies.insights.card3.number': 'लगभग 20',
+    'data.companies.insights.card3.label':
+      'AI आपूर्ति शृंखला के कारण दो वर्षों में सूची में नई प्रविष्टियाँ',
+    'data.companies.insights.card3.detail':
+      'PCB／सब्सट्रेट, ताप प्रबंधन, परीक्षण और नेटवर्क संचार कंपनियाँ दो वर्ष पहले सूची में नहीं थीं',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label':
+      'शीर्ष 50 में वित्तीय होल्डिंग कंपनियों की संख्या',
+    'data.companies.insights.card4.detail':
+      'विलय के बाद, सूचकांक का सबसे स्थिर आधार',
+    'data.companies.fellOff.title': '📉 सूची से कौन बाहर हुआ',
+    'data.companies.fellOff.intro':
+      'AI के कारण नए मूल्यांकन में कुछ कंपनियाँ पिछड़ी भी हैं। इस्पात, सीमेंट, कपड़ा, साइकिल और कभी मोबाइल फ़ोन क्षेत्र की दिग्गज रहीं ये जानी-पहचानी कंपनियाँ——AI शृंखला में पूंजी उमड़ने के बीच शीर्ष 50 से बाहर हो गईं।',
+    'data.companies.fellOff.marketCapNow': 'वर्तमान बाज़ार पूंजीकरण',
+    'data.companies.method.heading': '📝 कार्यप्रणाली',
+    'data.companies.method.body':
+      'बाज़ार पूंजीकरण का अनुमान प्रत्येक शेयर के 2026/06 के TWSE सूचकांक भार को TSMC (लगभग NT$59 ट्रिलियन／43.8%) के आधार पर तय समूचे बाज़ार के कुल पूंजीकरण से गुणा करके लगाया गया है। राजस्व 2025 का पूरे वर्ष का समेकित राजस्व है (वित्तीय होल्डिंग कंपनियों के लिए बीमा सहित समेकित परिचालन आय)। कर्मचारियों की संख्या अनुमानित है और जहाँ तक संभव हो समूह／समेकित आधार पर ली गई है, लेकिन हर कंपनी में गणना का दायरा अलग है; इसलिए कर्मचारी संख्या वाले अक्ष को केवल परिमाण के संकेत के रूप में देखें, सटीक तुलना के रूप में नहीं।',
+    'data.companies.related': '📖 संबंधित आलेख',
+
+    // Category 1: Government Open Data
+    'data.category.1.title': 'सरकारी मुक्त डेटा',
+    'data.category.1.description':
+      'सरकारी संस्थाओं द्वारा जारी संरचित डेटा-समुच्चय और सांख्यिकीय मंच',
+    'data.category.1.item.1.name': 'सरकारी डेटा मुक्त मंच',
+    'data.category.1.item.1.desc':
+      '2020 में इंजीनियरों ने यहाँ के डेटा से 72 घंटों के भीतर मास्क मानचित्र बनाया और देशभर की दवा दुकानों पर कतारों की समस्या हल की',
+    'data.category.1.item.2.name':
+      'बजट, लेखा एवं सांख्यिकी महानिदेशालय का सांख्यिकीय डेटाबेस',
+    'data.category.1.item.2.desc':
+      'जनसंख्या, अर्थव्यवस्था और कीमतों समेत प्रमुख राष्ट्रीय आँकड़े',
+    'data.category.1.item.3.name': 'केंद्रीय निर्वाचन आयोग का चुनाव डेटाबेस',
+    'data.category.1.item.3.desc': 'पिछले चुनावों के परिणाम और मतदान आँकड़े',
+    'data.category.1.item.4.name': 'राष्ट्रीय विधि-विनियम डेटाबेस',
+    'data.category.1.item.4.desc':
+      'सभी कानूनों, आदेशों और न्यायिक निर्णयों की पूर्ण-पाठ खोज',
+    'data.category.1.item.5.name': 'वायु गुणवत्ता निगरानी नेटवर्क',
+    'data.category.1.item.5.desc': 'रीयल-टाइम AQI और PM2.5 निगरानी डेटा',
+
+    // Category 2: Interactive Maps & Visualization
+    'data.category.2.title': 'इंटरैक्टिव मानचित्र और दृश्यांकन',
+    'data.category.2.description':
+      'रीयल-टाइम निगरानी, भू-स्थानिक डेटा और पर्यावरण दृश्यांकन उपकरण',
+    'data.category.2.item.1.name': 'ताइवान समुद्री केबल का गतिशील मानचित्र',
+    'data.category.2.item.1.desc':
+      'नागरिकों द्वारा विकसित समुद्री केबल की रीयल-टाइम निगरानी,नागरिक प्रौद्योगिकी का आदर्श उदाहरण',
+    'data.category.2.item.2.name':
+      'राष्ट्रीय भू-सर्वेक्षण मानचित्र डेटा क्लाउड सेवा',
+    'data.category.2.item.2.desc':
+      'ताइवान के मानचित्र डेटा, हवाई तस्वीरें और भू-अभिलेख',
+    'data.category.2.item.3.name': 'भूकंप निगरानी एवं सूचना केंद्र',
+    'data.category.2.item.3.desc': 'रीयल-टाइम भूकंप जानकारी और ऐतिहासिक अभिलेख',
+    'data.category.2.item.4.name':
+      'जल संसाधन एजेंसी का आपदा-निवारण सूचना नेटवर्क',
+    'data.category.2.item.4.desc':
+      'रीयल-टाइम जल स्थिति, नदियों का जलस्तर और जलाशयों में जल भंडारण',
+    'data.category.2.item.5.name': 'रीयल-टाइम पर्यावरण सूचना',
+    'data.category.2.item.5.desc':
+      'वायु गुणवत्ता, पराबैंगनी किरणों और जल गुणवत्ता की रीयल-टाइम निगरानी',
+
+    // Category 3: Civic Tech
+    'data.category.3.title': 'नागरिक प्रौद्योगिकी (Civic Tech)',
+    'data.category.3.description':
+      'मुक्त-स्रोत समुदाय, तथ्य-जाँच और डिजिटल लोकतंत्र के उपकरण',
+    'data.category.3.item.1.name': 'g0v शून्यकालीन सरकार',
+    'data.category.3.item.1.desc':
+      '2012 में स्थापित, इसने मास्क मानचित्र, Cofacts और vTaiwan जैसी ताइवान को बदलने वाली नागरिक प्रौद्योगिकी परियोजनाओं को जन्म दिया',
+    'data.category.3.item.2.name': 'KKTIX नागरिक प्रौद्योगिकी कार्यक्रम',
+    'data.category.3.item.2.desc':
+      'g0v हैकाथॉन और मुक्त डेटा सामुदायिक कार्यक्रमों का प्रवेश-द्वार',
+    'data.category.3.item.3.name': 'Cofacts सच या झूठ',
+    'data.category.3.item.3.desc':
+      'LINE समूहों में भेजी गई भ्रामक सूचना को कोई भी जाँच के लिए प्रस्तुत कर सकता है; अब तक तथ्य-जाँच के दसियों हज़ार अभिलेख जमा हो चुके हैं',
+    'data.category.3.item.4.name': 'vTaiwan',
+    'data.category.3.item.4.desc':
+      'Polis एल्गोरिदम से सहमति तलाशते हुए इसने Uber नियमन और दूरस्थ शिक्षा संबंधी कानूनों समेत कई नीतियों को सफलतापूर्वक प्रभावित किया',
+    'data.category.3.item.5.name': 'JOIN सार्वजनिक नीति सहभागिता मंच',
+    'data.category.3.item.5.desc':
+      'सरकारी प्रस्ताव, हस्ताक्षर अभियान और नीति चर्चा',
+
+    // Category 4: Data Journalism & Fact-Checking
+    'data.category.4.title': 'डेटा पत्रकारिता और तथ्य-जाँच',
+    'data.category.4.description':
+      'गहन खोजी रिपोर्टिंग, तथ्य-जाँच और डेटा पत्रकारिता मीडिया',
+    'data.category.4.item.1.name': 'द रिपोर्टर',
+    'data.category.4.item.1.desc':
+      '2015 में स्थापित, ताइवान का पहला गैर-लाभकारी गहन खोजी मीडिया संस्थान, जिसने कई बार प्रमुख सार्वजनिक मुद्दों को उजागर किया',
+    'data.category.4.item.2.name': 'ताइवान तथ्य-जाँच केंद्र',
+    'data.category.4.item.2.desc':
+      'IFCN अंतरराष्ट्रीय तथ्य-जाँच नेटवर्क से प्रमाणित, Facebook का तृतीय-पक्ष तथ्य-जाँच साझेदार',
+    'data.category.4.item.3.name': 'READr रीड+',
+    'data.category.4.item.3.desc':
+      'डेटा पत्रकारिता और मुक्त डेटा दृश्यांकन रिपोर्ट',
+    'data.category.4.item.4.name': 'ARTouch',
+    'data.category.4.item.4.desc':
+      'ताइवान की कला संबंधी ख़बरों और गहन समीक्षाओं का मीडिया मंच',
+
+    // Category 5: Academic & Research
+    'data.category.5.title': 'अकादमिक एवं अनुसंधान',
+    'data.category.5.description':
+      'डिजिटल अभिलेख, पारिस्थितिक डेटा और AI कॉर्पस',
+    'data.category.5.item.1.name': 'एकेडेमिया सिनिका मुक्त संग्रहालय',
+    'data.category.5.item.1.desc': 'डिजिटल संग्रह और ऑनलाइन प्रदर्शनी संयोजन',
+    'data.category.5.item.2.name': 'राष्ट्रीय सांस्कृतिक स्मृति-भंडार',
+    'data.category.5.item.2.desc':
+      'ताइवान की सांस्कृतिक स्मृतियों का डिजिटल संरक्षण',
+    'data.category.5.item.3.name': 'ताइवान जैव विविधता नेटवर्क',
+    'data.category.5.item.3.desc': 'प्रजातियों का वितरण और पारिस्थितिक अवलोकन',
+    'data.category.5.item.4.name': 'ताइवान संप्रभु AI प्रशिक्षण कॉर्पस TAIC',
+    'data.category.5.item.4.desc':
+      'ताइवान का स्थानीय AI प्रशिक्षण डेटा-समुच्चय',
+
+    // Meta
+    'data.meta.title': '📊 डेटा ताइवान — Taiwan.md',
+    'data.meta.description':
+      'आँकड़ों के ज़रिए एक द्वीप को जानें: कॉर्पोरेट परिदृश्य, मुक्त डेटा, ताइवान की सटीक रूपरेखा और इंटरैक्टिव दृश्यांकन',
+
+    // Hero
+    'data.hero.title': 'डेटा ताइवान',
+    'data.hero.subtitle':
+      'इंटरैक्टिव दृश्यांकन और मुक्त डेटा से एक द्वीप की वास्तविक तस्वीर जानें',
+    'data.hero.description':
+      'यह ताइवान के डेटा की सुव्यवस्थित प्रदर्शनी है। कॉर्पोरेट परिदृश्य से मुक्त डेटा तक, ताइवान की सटीक रूपरेखा से डिजिटल लोकतंत्र के प्रयोगों तक——हम इंटरैक्टिव दृश्यांकन और मुक्त संसाधनों के माध्यम से आँकड़ों को ताइवान की कहानी कहने देते हैं।',
+
+    // Enterprise Section
+    'data.enterprise.title': '🏢 कॉर्पोरेट परिदृश्य',
+    'data.enterprise.story.p1':
+      'एक द्वीप वैश्विक आपूर्ति शृंखला को कैसे संभालता है？',
+    'data.enterprise.story.p2':
+      'TSMC के 2,670 अरब बाज़ार पूंजीकरण से Hon Hai के 87 लाख कर्मचारियों तक, ताइवान की शीर्ष 50 कंपनियाँ इस द्वीप की आर्थिक रीढ़ बनाती हैं। 12 सेमीकंडक्टर कंपनियाँ「सिलिकॉन शील्ड」नाम को सार्थक करती हैं, 12 वित्तीय होल्डिंग कंपनियाँ वित्तीय स्थिरता को सहारा देती हैं और अनुबंध विनिर्माण की दिग्गज कंपनियाँ वैश्विक डिजिटल जीवन को आपस में जोड़ती हैं। बबल चार्ट के ज़रिए जानें कि ताइवान दुनिया की 2% आबादी के साथ वैश्विक GDP का 4% कैसे सृजित करता है।',
+    'data.enterprise.controls.sizeLabel': 'बबल का आकार：',
+    'data.enterprise.controls.marketCap': 'बाज़ार पूंजीकरण',
+    'data.enterprise.controls.revenue': 'राजस्व',
+    'data.enterprise.controls.employees': 'कर्मचारियों की संख्या',
+    'data.enterprise.controls.filterAll': 'सभी',
+    'data.enterprise.insights.heading': 'प्रमुख निष्कर्ष',
+    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.label':
+      'ताइवान शेयर बाज़ार के कुल पूंजीकरण में टीएसएमसी की हिस्सेदारी',
+    'data.enterprise.insights.card1.detail':
+      'एक कंपनी ≈ शेष हज़ार सूचीबद्ध कंपनियों के कुल मूल्य का 2/3',
+    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.label':
+      'ताइवान शेयर बाज़ार के कुल पूंजीकरण में शीर्ष 50 की हिस्सेदारी',
+    'data.enterprise.insights.card2.detail':
+      'ताइवान का शेयर बाज़ार बड़ी कंपनियों में अत्यधिक केंद्रित है',
+    'data.enterprise.insights.card3.number': '12 कंपनियां',
+    'data.enterprise.insights.card3.label': 'सेमीकंडक्टर कंपनियां सूची में',
+    'data.enterprise.insights.card3.detail':
+      '「सिलिकॉन शील्ड」की पुष्टि——सेमीकंडक्टर ताइवान की रक्षा का आधार हैं',
+    'data.enterprise.insights.card4.number': '12 कंपनियां',
+    'data.enterprise.insights.card4.label':
+      'वित्तीय क्षेत्र की कंपनियां शीर्ष 50 में',
+    'data.enterprise.insights.card4.detail':
+      'वित्तीय होल्डिंग कंपनियों के एकीकरण के बाद उभरी स्थिर शक्ति',
+    'data.enterprise.exploreLink': 'पूरी रैंकिंग देखें →',
+
+    // Taiwan vs World Section
+    'data.taiwanVsWorld.title': '🌏 विश्व में ताइवान का स्थान',
+    'data.taiwanVsWorld.story.p1':
+      'बेल्जियम के लगभग बराबर क्षेत्रफल वाला एक द्वीप 2,300 लाख लोगों का भरण-पोषण करता है, फिर भी दुनिया के 92% सबसे उन्नत कंप्यूटर चिप बनाता है। ताइवान का आर्थिक घनत्व चौंकाने वाला है：भूमि स्विट्ज़रलैंड से भी छोटी, लेकिन आबादी ऑस्ट्रेलिया से भी अधिक और प्रति व्यक्ति GDP 7.5 लाख अमेरिकी डॉलर तक।',
+    'data.taiwanVsWorld.story.p2':
+      'ये आंकड़े केवल सांख्यिकी नहीं हैं——ये एक असंभव-सी कहानी का खाका हैं। पृथ्वी की 0.32% भूमि वैश्विक संपदा का 4% कैसे पैदा करती है？दुनिया में सुविधा स्टोर के सर्वाधिक घनत्व से लेकर एशिया में लोकतंत्र की सर्वोच्च रैंकिंग तक, ये आठ संकेतक ताइवान की उसके आकार से कहीं बड़ी वैश्विक छाप को समझाते हैं।',
+
+    'data.taiwanVsWorld.area.number': '36,197 km²',
+    'data.taiwanVsWorld.area.label': 'क्षेत्रफल ≈ बेल्जियम के बराबर',
+    'data.taiwanVsWorld.area.context':
+      'लेकिन आबादी बेल्जियम की 2.35 गुना（2,350लाख vs 1,170लाख）',
+
+    'data.taiwanVsWorld.gdp.number': '$75K',
+    'data.taiwanVsWorld.gdp.label': 'प्रति व्यक्ति GDP (PPP)',
+    'data.taiwanVsWorld.gdp.context':
+      'विश्व के शीर्ष 15 में, vs सांकेतिक $38K（क्रय शक्ति में भारी अंतर）',
+
+    'data.taiwanVsWorld.semiconductor.number': '90%+',
+    'data.taiwanVsWorld.semiconductor.label':
+      'उन्नत चिप के वैश्विक बाज़ार में हिस्सेदारी',
+    'data.taiwanVsWorld.semiconductor.context':
+      '<7nm प्रक्रिया पर टीएसएमसी का एकाधिकार, दुनिया के डिजिटल उपकरणों का हृदय',
+
+    'data.taiwanVsWorld.democracy.number': '12वां स्थान',
+    'data.taiwanVsWorld.democracy.label': 'लोकतंत्र सूचकांक रैंकिंग',
+    'data.taiwanVsWorld.democracy.context':
+      'एशिया में प्रथम、विश्व के शीर्ष 10「पूर्ण लोकतंत्रों」में (EIU 2024)',
+
+    'data.taiwanVsWorld.birthRate.number': '0.87',
+    'data.taiwanVsWorld.birthRate.label': 'जन्म दर（2024）',
+    'data.taiwanVsWorld.birthRate.context':
+      'दुनिया की सबसे कम दरों में से एक, वृद्ध होते समाज की चुनौती',
+
+    'data.taiwanVsWorld.convenience.number': '1/2,000लोग',
+    'data.taiwanVsWorld.convenience.label': 'सुविधा स्टोर का घनत्व',
+    'data.taiwanVsWorld.convenience.context':
+      '12,368 स्टोर（7-11+फैमिलीमार्ट+Hi-Life+OK），दुनिया में सर्वाधिक',
+
+    'data.taiwanVsWorld.hsr.number': '345किलोमीटर',
+    'data.taiwanVsWorld.hsr.label': 'हाई-स्पीड रेल का दायरा',
+    'data.taiwanVsWorld.hsr.context':
+      '12 स्टेशन，दैनिक यात्री संख्या 18 लाख，समयपालन दर 96%',
+
+    'data.taiwanVsWorld.healthcare.number': '99.9%',
+    'data.taiwanVsWorld.healthcare.label': 'सार्वभौमिक स्वास्थ्य बीमा कवरेज',
+    'data.taiwanVsWorld.healthcare.context':
+      'सार्वभौमिक स्वास्थ्य बीमा，दुनिया के लिए मानक',
+
+    // Digital Democracy Timeline Section
+    'data.digitalDemocracy.title':
+      '📡 डिजिटल लोकतंत्र समयरेखा — डिजिटल शासन के विकास का 30 वर्षीय इतिहास',
+    'data.digitalDemocracy.story.p1':
+      'सरकार के डिजिटलीकरण से डिजिटल लोकतंत्र तक：ताइवान की ई-सरकार से खुली सरकार और फिर डिजिटल दृढ़ता तक की विकास-यात्रा।',
+    'data.digitalDemocracy.story.p2':
+      'माउस को प्रत्येक उपलब्धि पर ले जाकर ताइवान के अनूठे डिजिटल लोकतांत्रिक प्रयोग को गहराई से समझें।',
+
+    'data.timeline.1997.title': 'ई-सरकार योजना शुरू',
+    'data.timeline.1997.desc': 'सरकारी सेवाओं के डिजिटलीकरण की शुरुआत',
+
+    'data.timeline.2003.title': 'मुक्त सॉफ्टवेयर प्रोत्साहन योजना',
+    'data.timeline.2003.desc': 'सरकारी विभागों ने ओपन-सोर्स सॉफ्टवेयर अपनाया',
+
+    'data.timeline.2012.title': 'g0v ज़ीरोथ गवर्नमेंट की स्थापना',
+    'data.timeline.2012.desc':
+      'सूरजमुखी आंदोलन से 2 वर्ष पहले नागरिक प्रौद्योगिकी के बीज बोए गए',
+
+    'data.timeline.2013.title': 'data.gov.tw शुरू',
+    'data.timeline.2013.desc': 'ताइवान ने खुले डेटा के युग में प्रवेश किया',
+
+    'data.timeline.2014.title': 'सूरजमुखी आंदोलन',
+    'data.timeline.2014.desc':
+      'नागरिक प्रौद्योगिकी का विस्फोटक विस्तार，डिजिटल लोकतंत्र का जागरण',
+
+    'data.timeline.2015.title': 'खुले डेटा में विश्व में प्रथम',
+    'data.timeline.2015.desc': 'लगातार तीन वर्ष विश्व विजेता（2015-2017）',
+
+    'data.timeline.2016.title': 'ऑड्री तांग ने डिजिटल मंत्री का पद संभाला',
+    'data.timeline.2016.desc': 'g0v हैकर सरकारी मंत्रालय की प्रमुख बनीं',
+
+    'data.timeline.2020.title': 'मास्क मानचित्र सफल',
+    'data.timeline.2020.desc':
+      '72 घंटे में विकसित，COVID-19 के दौरान पूरे देश ने उपयोग किया',
+
+    'data.timeline.2022.title': 'डिजिटल मामलों के मंत्रालय की स्थापना',
+    'data.timeline.2022.desc':
+      'डिजिटल शासन को मंत्रालय स्तर तक उन्नत किया गया（moda）',
+
+    'data.timeline.2023.title': 'TAIDE ताइवान AI कॉर्पस',
+    'data.timeline.2023.desc': 'ताइवान का संप्रभु AI भाषा मॉडल',
+
+    'data.timeline.2024.title': 'Plurality डिजिटल लोकतंत्र का निर्यात',
+    'data.timeline.2024.desc': 'डिजिटल लोकतंत्र मॉडल का दुनिया भर में निर्यात',
+
+    // Population Pyramid Section
+    'data.population.title': '👥 जनसंख्या संरचना：एक द्वीप का आयु-चित्र',
+    'data.population.story.p1':
+      '2025 में，ताइवान की औसत आयु 43 वर्ष से अधिक हो गई। कभी युवा रहा यह द्वीप बूढ़ा हो रहा है——धीरे-धीरे नहीं，बल्कि दुनिया की सबसे तेज़ दरों में से एक से।',
+    'data.population.story.p2':
+      'समयरेखा खींचकर देखें कि आधी सदी में एक द्वीप का आयु-चित्र पिरामिड से उल्टे त्रिकोण में कैसे बदलता है।',
+
+    'data.population.insights.card1.title': 'औसत आयु',
+    'data.population.insights.card1.subtitle': 'वर्ष',
+    'data.population.insights.card1.detail': '43 वर्ष',
+
+    'data.population.insights.card2.title': 'जन्म दर',
+    'data.population.insights.card2.subtitle': 'प्रजनन दर',
+    'data.population.insights.card2.detail': '0.87',
+
+    'data.population.insights.card3.title': '65+ का अनुपात',
+    'data.population.insights.card3.subtitle': '65वर्ष से अधिक',
+    'data.population.insights.card3.detail': '18%',
+
+    'data.population.insights.card4.title': 'कुल जनसंख्या',
+    'data.population.insights.card4.subtitle': 'लाख लोग',
+    'data.population.insights.card4.detail': '2,340 दस हज़ार → <2,000 दस हज़ार',
+
+    // Taiwan Shape Section
+    'data.taiwanShape.title': '🗺️ ताइवान का आकार',
+    'data.taiwanComparison.title': 'AI द्वारा बनाया ताइवान vs असली ताइवान',
+    'data.taiwanComparison.aiGenerated':
+      'Claude Opus 4.6 द्वारा निर्मित（2025/3/22，जानबूझकर ख़राब नहीं बनाया गया）',
+    'data.taiwanComparison.correct': 'सही रूपरेखा',
+    'data.taiwanShape.story.p1':
+      'AI द्वारा बनाए गए ताइवान के सभी चित्र ग़लत हैं। यह सही संस्करण है।',
+    'data.taiwanShape.story.p2':
+      'अधिकांश AI छवि निर्माण मॉडलों के प्रशिक्षण डेटा में ताइवान के संरचित भौगोलिक डेटा की कमी है। नतीजतन आकार विकृत होता है, अनुपात बिगड़ जाते हैं और कभी-कभी इसे अन्य द्वीपों से भी मिला दिया जाता है। Taiwan.md ताइवान की सही, मुक्त-स्रोत और स्वतंत्र रूप से उपयोग योग्य SVG रूपरेखा उपलब्ध कराता है, ताकि हर उस परिस्थिति के लिए एक मानक उत्तर हो जहाँ यह जानना ज़रूरी है कि「ताइवान कैसा दिखता है」।',
+
+    // SVG Cards
+    'data.svg.card1.title': 'taiwan-icon.svg',
+    'data.svg.card1.description':
+      'ताइवान रूपरेखा आइकन — आइकन、लोगो、छोटे आकार के लिए उपयुक्त',
+    'data.svg.card2.title': 'taiwan-simplemaps.svg',
+    'data.svg.card2.description':
+      'SimpleMaps संस्करण — साफ़ वेक्टर，वेब पेज में एम्बेड करने के लिए उपयुक्त',
+    'data.svg.card3.title': 'taiwan-location-map.svg',
+    'data.svg.card3.description':
+      'भौगोलिक स्थान मानचित्र — अक्षांश-देशांतर、शहर चिह्नों सहित',
+    'data.svg.card4.title': 'taiwan-political-division.svg',
+    'data.svg.card4.description':
+      'प्रशासनिक विभाजन मानचित्र — काउंटी और शहरों के क्षेत्र、पूर्ण सीमाएँ',
+    'data.svg.button.download': 'SVG डाउनलोड करें',
+    'data.svg.button.copy': 'कोड कॉपी करें',
+    'data.svg.button.copied': '✅ कॉपी किया गया',
+    'data.svg.button.failed': '❌ कॉपी विफल',
+    'data.svg.usage.heading': '📝 उपयोग विधि',
+    'data.svg.usage.licenseNote':
+      'सभी SVG फ़ाइलें CC BY-SA 4.0 लाइसेंस के अंतर्गत जारी की गई हैं। स्वतंत्र रूप से उपयोग、संशोधन और व्यावसायिक उपयोग की अनुमति है，केवल स्रोत का उल्लेख करना आवश्यक है।',
+
+    // Open Data Section (legacy, now part of digital democracy)
+    'data.openData.title': '📡 मुक्त डेटा और डिजिटल लोकतंत्र',
+    'data.openData.story.p1':
+      'डिजिटलीकरण से खुलेपन तक：ताइवान के डिजिटल शासन का तीस वर्षों का विकास',
+    'data.openData.story.p2':
+      '1997 में「ई-सरकार योजना」शुरू हुई，2013 में data.gov.tw ऑनलाइन हुआ और ताइवान ने ई-सरकार से खुले शासन के युग में प्रवेश किया। 2015-2017 के दौरान उसने लगातार तीन बार「वैश्विक मुक्त डेटा सूचकांक」में पहला स्थान हासिल किया।g0v ज़ीरो आवर सरकार ने मास्क मानचित्र और Cofacts तथ्य-जाँच बॉट विकसित किए।ऑड्री तांग के डिजिटल मंत्री-स्तरीय प्रयोगों ने ताइवान को डिजिटल लोकतंत्र की वैश्विक प्रयोगशाला बना दिया।',
+    'data.openData.story.p3':
+      'जब नागरिकों में डेटा समझने की क्षमता हो और सरकार डेटा जारी करने को तैयार हो，तब लोकतंत्र केवल हर चार वर्ष में होने वाला मतदान नहीं रहता，बल्कि हर दिन जारी रहने वाला सहयोग बन जाता है。',
+
+    // Knowledge Graph Section
+    'data.knowledgeGraph.title': '🕸️ ज्ञान ग्राफ़',
+    'data.knowledgeGraph.story.p1':
+      'taiwan.md के 200+ लेख आपस में कैसे जुड़े हैं？',
+    'data.knowledgeGraph.story.p2':
+      'इतिहास से भूगोल तक，संस्कृति से प्रौद्योगिकी तक，हर लेख ताइवान की कहानियों के नेटवर्क का एक नोड है। टैग लिंक और हब संदर्भों के माध्यम से हम बिखरे ज्ञान को एक जीवंत ग्राफ़ में बुनते हैं। प्रवेश करने के लिए क्लिक करें और ताइवान-संबंधी ज्ञान की गहरी संरचना खोजें।',
+    'data.knowledgeGraph.ctaButton': 'ज्ञान ग्राफ़ खोजें',
+    'data.knowledgeGraph.ctaButton.description':
+      'लेखों के लिंक का इंटरैक्टिव नेटवर्क',
+
+    // Footer
+    'data.footer.heading': 'और अधिक खोजें',
+    'data.footer.link1.name': 'अर्थव्यवस्था',
+    'data.footer.link1.description': 'अर्थव्यवस्था संबंधी लेख और गहन विश्लेषण',
+    'data.footer.link2.name': 'ज्ञान ग्राफ़',
+    'data.footer.link2.description': 'लेखों के लिंक का दृश्य नेटवर्क',
+    'data.footer.link3.name': 'योगदान दिशानिर्देश',
+    'data.footer.link3.description':
+      'Taiwan.md के निर्माण में भाग लेने का तरीका',
+
+    // Sector Names (Chinese)
+    'data.sector.semiconductor': 'सेमीकंडक्टर',
+    'data.sector.electronicsManufacturing': 'इलेक्ट्रॉनिक्स अनुबंध विनिर्माण',
+    'data.sector.electronicComponents': 'इलेक्ट्रॉनिक कलपुर्ज़े',
+    'data.sector.financial': 'वित्त',
+    'data.sector.telecommunications': 'दूरसंचार',
+    'data.sector.foodBeverage': 'खाद्य और पेय',
+    'data.sector.shipping': 'नौवहन',
+    'data.sector.computerBrand': 'कंप्यूटर ब्रांड',
+    'data.sector.steel': 'इस्पात',
+    'data.sector.petrochemical': 'पेट्रोरसायन',
+    'data.sector.cement': 'सीमेंट',
+    'data.sector.optics': 'प्रकाशिकी',
+    'data.sector.bicycle': 'साइकिल',
+    'data.sector.textileFiber': 'वस्त्र रेशा',
+    'data.sector.transportation': 'परिवहन',
+    'data.sector.consumerElectronics': 'उपभोक्ता इलेक्ट्रॉनिक्स',
+    'data.sector.industrialComputer': 'औद्योगिक कंप्यूटर',
+    'data.sector.casing': 'केसिंग',
+    'data.sector.petrochemicalPanel': 'डिस्प्ले पैनल',
+    'data.sector.server': 'सर्वर',
+    'data.sector.pcb': 'PCB',
+    'data.sector.precisionMachinery': 'सटीक मशीनरी',
+
+    // Tooltip
+    'data.tooltip.marketCap': 'बाज़ार पूंजीकरण',
+    'data.tooltip.revenue': 'राजस्व',
+    'data.tooltip.employees': 'कर्मचारी',
+    'data.tooltip.founded': 'स्थापना',
+  },
   'zh-TW': {
     // Company Names (50 companies)
     'data.company.taiwan-semiconductor': '台積電 TSMC',
