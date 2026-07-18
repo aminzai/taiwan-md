@@ -88,6 +88,11 @@
 /es/lifestyle/taiwan-education-system-overview /es/lifestyle/taiwan-education-system 301
 /fr/lifestyle/taiwan-education-system-overview /fr/lifestyle/taiwan-education-system 301
 /ko/lifestyle/taiwan-education-system-overview /ko/lifestyle/taiwan-education-system 301
+/en/lifestyle/education-system /en/lifestyle/taiwan-education-system 301
+/ja/lifestyle/education-system /ja/lifestyle/taiwan-education-system 301
+/ko/lifestyle/education-system /ko/lifestyle/taiwan-education-system 301
+/es/lifestyle/education-system /es/lifestyle/taiwan-education-system 301
+/fr/lifestyle/education-system /fr/lifestyle/taiwan-education-system 301
 /fr/music/taiwanese-language-songs-evolution /fr/music/taiwanese-hokkien-song-evolution 301
 /fr/music/hip-hop-rap /fr/music/taiwan-hip-hop-and-rap 301
 /fr/music/guoyue-chinese-instruments /fr/music/taiwanese-traditional-chinese-orchestra-music 301
