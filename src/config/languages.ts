@@ -1,12 +1,12 @@
 /**
  * LANGUAGES_REGISTRY — Single source of truth for all i18n languages.
  *
- * ⚠️ This file's data MUST stay in sync with src/config/languages.json.
- * The JSON is read by Node-direct scripts (astro.config.mjs, scripts/core/*).
- * The TS data here is used by Astro/Vite-compiled code that can't reliably
- * import JSON in prerender chunks.
+ * ⚠️ This file's data MUST stay in sync with src/config/languages.mjs.
+ * The MJS mirror is read by Node-direct scripts (astro.config.mjs,
+ * scripts/core/*). The TS data here is used by Astro/Vite-compiled code.
+ * `bash scripts/tools/check-language-registry-sync.sh` enforces the sync.
  *
- * Adding a new language: edit BOTH this file and languages.json. Yes, two
+ * Adding a new language: edit BOTH this file and languages.mjs. Yes, two
  * places — but those two places replace 15 hardcoded touchpoints scattered
  * across the codebase. Net win: 15 → 2.
  *
@@ -81,6 +81,38 @@ export const LANGUAGES = [
     enabled: true,
     notes:
       '2026-04-24 β3 enabled. 484 articles from ceruleanstring + community. UI bundle wired through src/i18n/ui.ts on 2026-05-02.',
+  },
+  {
+    code: 'vi',
+    displayName: 'Tiếng Việt',
+    hreflang: 'vi',
+    enabled: false,
+    notes:
+      '2026-07-18 selected (disabled scaffold). Highest unserved SC demand (7,994 imp / 0.5% CTR) + largest new-immigrant community in Taiwan. Activation pending: reports/evolve-2026-07-18-language-branches.md',
+  },
+  {
+    code: 'id',
+    displayName: 'Bahasa Indonesia',
+    hreflang: 'id',
+    enabled: false,
+    notes:
+      '2026-07-18 selected (disabled scaffold). SC 5,521 imp / 0.3% CTR + largest migrant-worker community in Taiwan. Activation pending: reports/evolve-2026-07-18-language-branches.md',
+  },
+  {
+    code: 'pt',
+    displayName: 'Português',
+    hreflang: 'pt',
+    enabled: false,
+    notes:
+      '2026-07-18 selected (disabled scaffold). Only gap confirmed by all three sources (SC 6,659 imp / 0.1% CTR + CF #6 + GA). Reuses es LatAm playbook. Activation pending: reports/evolve-2026-07-18-language-branches.md',
+  },
+  {
+    code: 'hi',
+    displayName: 'हिन्दी',
+    hreflang: 'hi',
+    enabled: false,
+    notes:
+      '2026-07-18 selected (disabled scaffold). Largest unserved language (609M speakers, Ethnologue 2025 #3). Activation pending: reports/evolve-2026-07-18-language-branches.md',
   },
 ] as const satisfies readonly LanguageEntry[];
 

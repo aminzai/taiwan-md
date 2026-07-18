@@ -58,6 +58,38 @@ export const LANGUAGES = [
     notes:
       '2026-04-24 β3 enabled. 484 articles from ceruleanstring + community. UI bundle wired through src/i18n/ui.ts on 2026-05-02.',
   },
+  {
+    code: 'vi',
+    displayName: 'Tiếng Việt',
+    hreflang: 'vi',
+    enabled: false,
+    notes:
+      '2026-07-18 selected (disabled scaffold). Highest unserved SC demand (7,994 imp / 0.5% CTR) + largest new-immigrant community in Taiwan. Activation pending: reports/evolve-2026-07-18-language-branches.md',
+  },
+  {
+    code: 'id',
+    displayName: 'Bahasa Indonesia',
+    hreflang: 'id',
+    enabled: false,
+    notes:
+      '2026-07-18 selected (disabled scaffold). SC 5,521 imp / 0.3% CTR + largest migrant-worker community in Taiwan. Activation pending: reports/evolve-2026-07-18-language-branches.md',
+  },
+  {
+    code: 'pt',
+    displayName: 'Português',
+    hreflang: 'pt',
+    enabled: false,
+    notes:
+      '2026-07-18 selected (disabled scaffold). Only gap confirmed by all three sources (SC 6,659 imp / 0.1% CTR + CF #6 + GA). Reuses es LatAm playbook. Activation pending: reports/evolve-2026-07-18-language-branches.md',
+  },
+  {
+    code: 'hi',
+    displayName: 'हिन्दी',
+    hreflang: 'hi',
+    enabled: false,
+    notes:
+      '2026-07-18 selected (disabled scaffold). Largest unserved language (609M speakers, Ethnologue 2025 #3). Activation pending: reports/evolve-2026-07-18-language-branches.md',
+  },
 ];
 
 export const ENABLED_LANGUAGE_CODES = LANGUAGES.filter((l) => l.enabled).map(
