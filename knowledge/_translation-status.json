@@ -1,47 +1,47 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-18T11:00:13+08:00",
-    "zhCommitHead": "fcc3823ba",
+    "lastUpdated": "2026-07-18T18:33:45+08:00",
+    "zhCommitHead": "4e59fcfcf",
     "totalZh": 853,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 853,
-        "fresh": 806,
-        "stale": 41,
-        "metadata_stale": 6,
+        "fresh": 801,
+        "stale": 44,
+        "metadata_stale": 8,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 853,
-        "fresh": 796,
-        "stale": 42,
-        "metadata_stale": 7,
+        "fresh": 792,
+        "stale": 45,
+        "metadata_stale": 8,
         "missing": 8,
         "orphan": 0
       },
       "ko": {
         "total_zh": 853,
-        "fresh": 794,
-        "stale": 42,
-        "metadata_stale": 7,
+        "fresh": 790,
+        "stale": 45,
+        "metadata_stale": 8,
         "missing": 10,
         "orphan": 0
       },
       "es": {
         "total_zh": 853,
-        "fresh": 794,
-        "stale": 42,
-        "metadata_stale": 7,
+        "fresh": 790,
+        "stale": 45,
+        "metadata_stale": 8,
         "missing": 10,
         "orphan": 0
       },
       "fr": {
         "total_zh": 853,
-        "fresh": 793,
-        "stale": 43,
-        "metadata_stale": 7,
+        "fresh": 790,
+        "stale": 45,
+        "metadata_stale": 8,
         "missing": 10,
         "orphan": 0
       }
@@ -2551,10 +2551,10 @@
     },
     "Music/台灣聲音地景.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:7adf886859780281",
-        "bodyHash": "sha256:71e26aa0fa803402"
+        "lastCommit": "8b61d368",
+        "lastModified": "2026-07-18T12:09:19+08:00",
+        "contentHash": "sha256:2ab486612117b285",
+        "bodyHash": "sha256:d0787b51ce5718fb"
       },
       "translations": {
         "en": {
@@ -2564,12 +2564,14 @@
           "sourceContentHash": "sha256:7adf886859780281",
           "sourceBodyHash": "sha256:71e26aa0fa803402",
           "translatedAt": "2026-05-24T05:06:32+08:00",
-          "translationLastCommit": "3d8d5e7e",
-          "translationLastModified": "2026-05-24T08:42:27+08:00",
+          "translationLastCommit": "8b61d368",
+          "translationLastModified": "2026-07-18T12:09:19+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+16 -1"
         },
         "ja": {
           "path": "ja/Music/taiwan-soundscape.md",
@@ -2582,8 +2584,10 @@
           "translationLastModified": "2026-05-24T08:42:27+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+16 -1"
         },
         "ko": {
           "path": "ko/Music/taiwan-soundscape.md",
@@ -2596,8 +2600,10 @@
           "translationLastModified": "2026-05-24T08:42:27+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+16 -1"
         },
         "es": {
           "path": "es/Music/taiwan-soundscape.md",
@@ -2610,8 +2616,10 @@
           "translationLastModified": "2026-05-24T08:42:27+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+16 -1"
         },
         "fr": {
           "path": "fr/Music/taiwan-soundscape.md",
@@ -2624,8 +2632,10 @@
           "translationLastModified": "2026-05-24T08:42:27+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+16 -1"
         }
       }
     },
@@ -3511,8 +3521,8 @@
     },
     "Economy/發票.md": {
       "zh": {
-        "lastCommit": "710263a8",
-        "lastModified": "2026-07-18T10:49:15+08:00",
+        "lastCommit": "150628b2",
+        "lastModified": "2026-07-18T11:03:19+08:00",
         "contentHash": "sha256:e59cd4ddc87e06b8",
         "bodyHash": "sha256:1ceacad6a69109ee"
       },
@@ -3991,9 +4001,9 @@
     },
     "Economy/經濟奇蹟.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:07190f3479b3c96b",
+        "lastCommit": "9c5ad569",
+        "lastModified": "2026-07-18T11:06:05+08:00",
+        "contentHash": "sha256:97768e7e71587490",
         "bodyHash": "sha256:411e4d6f8779c88a"
       },
       "translations": {
@@ -6241,8 +6251,8 @@
     },
     "Economy/台灣股市與資本市場.md": {
       "zh": {
-        "lastCommit": "e10215bc",
-        "lastModified": "2026-05-11T23:48:17+08:00",
+        "lastCommit": "9c5ad569",
+        "lastModified": "2026-07-18T11:06:05+08:00",
         "contentHash": "sha256:323486e516e428ed",
         "bodyHash": "sha256:c34c5e10c2fbc812"
       },
@@ -6254,12 +6264,14 @@
           "sourceContentHash": "sha256:5f40e129854187a5",
           "sourceBodyHash": "sha256:fa7e9d68ca508066",
           "translatedAt": "2026-05-12T11:51:04+08:00",
-          "translationLastCommit": "4c23b53c",
-          "translationLastModified": "2026-06-10T12:21:10+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Economy/taiwan-stock-market.md",
@@ -6268,12 +6280,14 @@
           "sourceContentHash": "sha256:5f40e129854187a5",
           "sourceBodyHash": "sha256:fa7e9d68ca508066",
           "translatedAt": "2026-05-12T11:51:04+08:00",
-          "translationLastCommit": "710e95ff",
-          "translationLastModified": "2026-05-12T12:42:44+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Economy/taiwan-stock-market.md",
@@ -6282,12 +6296,14 @@
           "sourceContentHash": "sha256:5f40e129854187a5",
           "sourceBodyHash": "sha256:fa7e9d68ca508066",
           "translatedAt": "2026-05-12T11:51:04+08:00",
-          "translationLastCommit": "0cacdfcf",
-          "translationLastModified": "2026-07-17T20:06:47+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Economy/taiwan-stock-market.md",
@@ -6296,12 +6312,14 @@
           "sourceContentHash": "sha256:5f40e129854187a5",
           "sourceBodyHash": "sha256:fa7e9d68ca508066",
           "translatedAt": "2026-05-12T11:51:05+08:00",
-          "translationLastCommit": "710e95ff",
-          "translationLastModified": "2026-05-12T12:42:44+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Economy/taiwan-stock-market.md",
@@ -6310,12 +6328,14 @@
           "sourceContentHash": "sha256:5f40e129854187a5",
           "sourceBodyHash": "sha256:fa7e9d68ca508066",
           "translatedAt": "2026-05-12T11:51:05+08:00",
-          "translationLastCommit": "710e95ff",
-          "translationLastModified": "2026-05-12T12:42:44+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -55749,8 +55769,8 @@
           "sourceContentHash": "sha256:a449ffee99fa24a3",
           "sourceBodyHash": "sha256:ba46b21b9cb6be40",
           "translatedAt": "2026-05-12T11:51:04+08:00",
-          "translationLastCommit": "021f678c",
-          "translationLastModified": "2026-07-17T19:43:15+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "stale",
@@ -55763,8 +55783,8 @@
           "sourceContentHash": "sha256:a449ffee99fa24a3",
           "sourceBodyHash": "sha256:ba46b21b9cb6be40",
           "translatedAt": "2026-05-12T11:51:04+08:00",
-          "translationLastCommit": "710e95ff",
-          "translationLastModified": "2026-05-12T12:42:44+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "stale",
@@ -55777,8 +55797,8 @@
           "sourceContentHash": "sha256:a449ffee99fa24a3",
           "sourceBodyHash": "sha256:ba46b21b9cb6be40",
           "translatedAt": "2026-05-12T11:51:05+08:00",
-          "translationLastCommit": "710e95ff",
-          "translationLastModified": "2026-05-12T12:42:44+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "stale",
@@ -55791,8 +55811,8 @@
           "sourceContentHash": "sha256:a449ffee99fa24a3",
           "sourceBodyHash": "sha256:ba46b21b9cb6be40",
           "translatedAt": "2026-05-12T11:51:05+08:00",
-          "translationLastCommit": "710e95ff",
-          "translationLastModified": "2026-05-12T12:42:44+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "stale",
@@ -57032,8 +57052,8 @@
     },
     "History/國民政府遷台與戰後重建.md": {
       "zh": {
-        "lastCommit": "85926aa3",
-        "lastModified": "2026-05-17T00:31:47+08:00",
+        "lastCommit": "9c5ad569",
+        "lastModified": "2026-07-18T11:06:05+08:00",
         "contentHash": "sha256:a28bcadbb01460c5",
         "bodyHash": "sha256:fdd1a6127fff34df"
       },
@@ -57045,12 +57065,14 @@
           "sourceContentHash": "sha256:4e071d84893835c3",
           "sourceBodyHash": "sha256:fdd1a6127fff34df",
           "translatedAt": "2026-06-07T00:37:30+08:00",
-          "translationLastCommit": "5136ed19",
-          "translationLastModified": "2026-06-07T05:26:41+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+12 -2"
         },
         "ja": {
           "path": "ja/History/kmt-government-relocation-and-postwar-reconstruction.md",
@@ -57752,8 +57774,8 @@
     },
     "Geography/金瓜石.md": {
       "zh": {
-        "lastCommit": "676c8cd6",
-        "lastModified": "2026-07-05T23:44:34+08:00",
+        "lastCommit": "9c5ad569",
+        "lastModified": "2026-07-18T11:06:05+08:00",
         "contentHash": "sha256:c3748ae1610fed44",
         "bodyHash": "sha256:68f6beb778ba92ff"
       },
@@ -57765,12 +57787,14 @@
           "sourceContentHash": "sha256:36ec0adabddd5612",
           "sourceBodyHash": "sha256:7a207109d1ae592a",
           "translatedAt": "2026-07-16T00:45:14+08:00",
-          "translationLastCommit": "23b9d360",
-          "translationLastModified": "2026-07-16T00:45:41+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Geography/jinguashi.md",
@@ -57779,12 +57803,14 @@
           "sourceContentHash": "sha256:36ec0adabddd5612",
           "sourceBodyHash": "sha256:7a207109d1ae592a",
           "translatedAt": "2026-07-16T00:45:14+08:00",
-          "translationLastCommit": "23b9d360",
-          "translationLastModified": "2026-07-16T00:45:41+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Geography/jinguashi.md",
@@ -57793,12 +57819,14 @@
           "sourceContentHash": "sha256:36ec0adabddd5612",
           "sourceBodyHash": "sha256:7a207109d1ae592a",
           "translatedAt": "2026-07-16T00:45:14+08:00",
-          "translationLastCommit": "23b9d360",
-          "translationLastModified": "2026-07-16T00:45:41+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Geography/jinguashi.md",
@@ -57807,12 +57835,14 @@
           "sourceContentHash": "sha256:36ec0adabddd5612",
           "sourceBodyHash": "sha256:7a207109d1ae592a",
           "translatedAt": "2026-07-16T00:45:14+08:00",
-          "translationLastCommit": "23b9d360",
-          "translationLastModified": "2026-07-16T00:45:41+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Geography/jinguashi.md",
@@ -57821,8 +57851,8 @@
           "sourceContentHash": "sha256:d506ddde43d15d15",
           "sourceBodyHash": "sha256:bbf94bacf1d03bd7",
           "translatedAt": "2026-05-18T05:08:09+08:00",
-          "translationLastCommit": "d106a126",
-          "translationLastModified": "2026-05-18T09:47:16+08:00",
+          "translationLastCommit": "9c5ad569",
+          "translationLastModified": "2026-07-18T11:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "stale",
@@ -64345,8 +64375,8 @@
           "sourceContentHash": "sha256:5d83fb5eff7a2309",
           "sourceBodyHash": "sha256:da4269ea46f7ec77",
           "translatedAt": "2026-07-15T00:51:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3ad0fe69",
+          "translationLastModified": "2026-07-18T11:49:17+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -64359,8 +64389,8 @@
           "sourceContentHash": "sha256:5d83fb5eff7a2309",
           "sourceBodyHash": "sha256:da4269ea46f7ec77",
           "translatedAt": "2026-07-15T00:51:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3ad0fe69",
+          "translationLastModified": "2026-07-18T11:49:17+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -65579,9 +65609,9 @@
     },
     "Culture/台灣聲景.md": {
       "zh": {
-        "lastCommit": "6be46f2f",
-        "lastModified": "2026-06-30T21:34:27+08:00",
-        "contentHash": "sha256:0c33e898d4ba7e93",
+        "lastCommit": "8b61d368",
+        "lastModified": "2026-07-18T12:09:19+08:00",
+        "contentHash": "sha256:819a7ee143f7b981",
         "bodyHash": "sha256:efd1cd3b8e9f03d6"
       },
       "translations": {
@@ -65596,8 +65626,10 @@
           "translationLastModified": "2026-07-03T00:36:21+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ja": {
           "path": "ja/Culture/taiwan-soundscape.md",
@@ -65610,8 +65642,10 @@
           "translationLastModified": "2026-07-03T00:36:21+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Culture/taiwan-soundscape.md",
@@ -65624,8 +65658,10 @@
           "translationLastModified": "2026-07-03T00:36:21+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "es": {
           "path": "es/Culture/taiwan-soundscape.md",
@@ -65638,8 +65674,10 @@
           "translationLastModified": "2026-07-03T00:36:21+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "fr": {
           "path": "fr/Culture/taiwan-soundscape.md",
@@ -65652,8 +65690,10 @@
           "translationLastModified": "2026-07-03T00:36:21+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
