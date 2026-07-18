@@ -19,7 +19,19 @@ from .types import FileTarget
 
 # Path patterns: knowledge/{Category}/{slug}.md (zh-TW) or
 #               knowledge/{lang}/{Category}/{slug}.md (translations)
-_LANG_DIRS = {"en", "ja", "ko", "es", "fr"}
+# 語言清單從註冊表 SSOT derive，不寫死（2026-07-18：pt 出生時此處寫死漏掉，
+# knowledge/pt/ 被當成 zh-TW → cjk-punct 對葡文半形冒號報 31 hard，pre-commit 卡死；
+# 「新語言出生感知系統不會自動更新」在 article-health loader 的復發）。
+def _load_lang_dirs() -> set[str]:
+    try:
+        _reg = Path(__file__).resolve().parents[3] / "src" / "config" / "languages.mjs"
+        codes = re.findall(r"code:\s*'([\w-]+)'", _reg.read_text(encoding="utf-8"))
+        return {c for c in codes if c != "zh-TW"}
+    except Exception:  # noqa: BLE001 — fallback 保底，永不讓 loader 因 registry 讀取失敗而崩
+        return {"en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"}
+
+
+_LANG_DIRS = _load_lang_dirs()
 
 # Protected region patterns
 _RE_FENCED_CODE = re.compile(r"```[\s\S]*?```", re.MULTILINE)
