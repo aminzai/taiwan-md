@@ -377,3 +377,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-18 | 070644-twmd-feedback-triage | 隊列連 5 日空＋archive synced=0，兩入口同時靜；REST 對賬 HTTP 200 `*/0` 證真空非斷線 | 兩入口皆空仍摸 ground truth 非信 `fetched 0`；真空 vc=5 | [→](memory/2026-07-18-070644-twmd-feedback-triage.md) |
 | 2026-07-18 | 083937-manual (maintainer-am) | 3 idlccp1984 PR 07-17 reserved carry；18 issue 無新；build 綠 broken 0.35% | defer-carry ≠ empty；REFLEXES #79 續 cycle 不重打擾 | [→](memory/2026-07-18-083937-manual.md) |
 | 2026-07-18 | 104038-manual | 江振誠 EVOLVE ship：12-agent 對抗性複驗抓 12 處事實/引註錯誤；開場敘事因 footnote 自身信度判準反轉；footnote 1→30；`09c1bf1a9` | 多層審查防讀起來怪不怪，防不住合理但沒查過 | [→](memory/2026-07-18-104038-manual.md) |
+| 2026-07-18 | 103939-manual | 高速公路 EVOLVE ship：五十年傳說查證；Stage 3 六探針揪出自己「快速公路→高速公路」誤植；`9ecd20d61` | 自己下的編輯裁決不免疫，新盲讀證據出現要願意推翻 | [→](memory/2026-07-18-103939-manual.md) |
