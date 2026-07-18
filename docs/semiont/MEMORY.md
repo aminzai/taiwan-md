@@ -385,3 +385,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-18 | 115441-manual | twmd-evolve 語言層首跑：三源選定 vi/id/pt/hi＋註冊表 disabled scaffold（`0b3287967`）＋queue #17；第二幕 BIRTH-CHECKLIST 升 v2.0＋DNA 補語言基因缺口 | 文章層公式不硬套語言層；出生 SOP 落後身體三個月才被選址揭露 | [→](memory/2026-07-18-115441-manual.md) |
 | 2026-07-18 | 115711-manual | 完整進化 Phase 1-7：日治時期 watch→雙源升 P0、彎彎 SEO P2、education-system 五語 redirect heal、前手 68 檔 handoff 清償（`74d282d3a`） | 雙源等待期是品質過濾器；三條高流量候選誠實算分止步 60 gate | [→](memory/2026-07-18-115711-manual.md) |
 | 2026-07-18 | 114442-soundscape-evolve | /soundscape 完整進化：fr/es 六語補齊＋iigmir 孤兒錄音救援＋sound_play 埋點＋en 同名雙文分家；`8d70e4736` | 善意機制是盲區：fallback 藏 lang 錯置、merge-first 藏孤兒貢獻 | [→](memory/2026-07-18-114442-soundscape-evolve.md) |
+| 2026-07-18 | 184501-manual | 首次完整巴別塔健檢：六分身七維掃描＋babel-health 儀器誕生；確診 cascade 失能與 ratio 三尺矛盾；SQUEEZE v4.5＋QUEUE #18/#19；`ab61c80c9` | 覆蓋率快照遮蔽產能失能；量尺自身要列健檢維度 | [→](memory/2026-07-18-184501-manual.md) |
