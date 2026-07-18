@@ -79,8 +79,18 @@ UI workers ×3（codex 主力）: 16 bundle × 4 語 = 64 blocks
 ### QA 首掃發現（heal pass 素材）
 
 - codex 殘留型：融合殘字（phong杀 型）
-- **qwen 殘留型：偶爾漏出簡體中文片段**（「连霸」）——本機模型的簡體訓練底色會滲出，cjk-residue-check 是必要的下游閘
+- **qwen 殘留型：偶爾漏出簡體中文片段**（「连霸」）＋偶爾漏 Hangul（野百合世代「白」→백）——本機模型的簡體訓練底色會滲出，cjk-residue-check 是必要的下游閘
 - checker 自身第一版假陽性大宗：譯文合法連到中文檔名的 repo 路徑（跨行連結仍待修）
+
+### 語意 QA：三類 ratio gate 抓不到的錯（本戰役最大教訓）
+
+heal agent 逐檔清 CJK 時連環揪出三類語意錯誤，全都穿得過 ratio gate 與 CJK gate，只有專門的語意閘才擋得住。這是出生戰役對 pipeline 最重要的貢獻——三把新尺誕生：
+
+1. **地理主權幻覺（`geo-fidelity-check`）**：vi/taiwan-democratization 系統性把「台北」譯成「北京」——整篇民主化文 7 處，含「台北高雄市長直選」→「北京市長」、天安門對照段的「台北學生」→「北京學生」（毀掉整個對照的意義）。把台灣的事搬進中國是巴別塔最致命失效。四語掃修全綠。
+2. **政治人物張冠李戴（`person-fidelity-check`）**：**蔣經國**（1987 解嚴、1988 去世、江南案交出汪希苓）被系統性譯成「Chiang Kai-shek」（蔣介石 1975 已死）**跨四語**；**陳水扁**（美麗島大審辯護律師、2000 首位輪替總統）在 id 被譯成「Tsai Ing-wen」（她當時是學生）；**賴清德**（2025 現任）在 tsmc 被譯成「Tsai Ing-wen」。懂台灣史的讀者一眼看破——這是 §主權的巴別塔在「讓世界看見真實台灣」上的反效果（放出錯誤反而傷可信度）。
+3. **wikilink 目標譯壞（`flatten-translation-wikilinks`）**：`[[林義雄 (Lin Chi-hsiung)]]` / `[[semicondutores]]` 都不解析。轉純文字。
+
+**元教訓**：機器翻譯對政治史文章的專有名詞（人、地）有系統性錯誤率，MANIFESTO §10 幻覺鐵律在翻譯層的 instance。ratio gate 只擋長度，語意保真需要 domain-specific 的 fidelity 閘。這三把尺升 BIRTH Stage 3 永久 QA gate + DNA §語言基因。政治史文章（taiwan-democratization / white-terror）是最高風險載體。
 
 ---
 
