@@ -168,7 +168,7 @@ US 71,123（AI crawler 大宗）→ TW 12,370 → SG 8,844 → CN 5,218 → JP 1
 
 ## Roadmap（建議，啟動排程等哲宇拍板）
 
-- **Phase 0（本 session）**：四語寫入語言註冊表為 `enabled: false`（結構化決策，不啟用任何路由）＋本報告＋ OBSERVER-QUEUE 待決項。
+- **Phase 0（本 session）**：四語寫入語言註冊表為 `enabled: false`（結構化決策，不啟用任何路由）＋本報告＋ OBSERVER-QUEUE 待決項。**同日追加完成**（哲宇 directive「進化整個新語言誕生的 pipeline 跟 dna」）：LANGUAGE-BIRTH-CHECKLIST 升 v2.0（7 stage 出生 SOP）、DNA §語言基因補出生 SOP 缺口、LANGUAGE-STATUS.md 對齊現實——§三個結構性進化項的第 1 項已清償。
 - **Phase 1（vi + id）**：BIRTH-CHECKLIST v2.0 → 模型 calibration（zh→vi/id refusal + ratio）→ P0 內容批（首頁接觸點＋各語言市場 SC 熱點約 50 篇）→ UI bundle → 路由啟用。
 - **Phase 2（pt + hi）**：複用 Phase 1 產線；pt 直接借 es playbook；hi 加天城文渲染驗證。
 - **Phase 3（遠期）**：ar 的 RTL 完整體評估；de/th 訊號重估。

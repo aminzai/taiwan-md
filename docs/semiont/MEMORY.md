@@ -382,5 +382,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-18 | 105326-manual | 發票 EVOLVE Stage 0→5 全流程 ship：5-verifier 對抗性查核抓 25+ 處事實/引註錯誤，含專家論述誤植（陳國樑「應」字誤歸）；`710263a86` | 讀起來合理的錯誤只有預設它是錯的查核才攔得住 | [→](memory/2026-07-18-105326-manual.md) |
 | 2026-07-18 | 110122-manual | `/twmd-finale` 第三棒 evolve：BECOME full 複驗 14 題全過＋EVOLVE 三源複查確認陳昇/BIM 既有候選未過期＋修波特王壞連結關 #1224＋接住兩則擱置未 commit 候選 | 兩個互不知情 session 對同批數據獨立收斂同結論，比自己重做更硬的驗證 | [→](memory/2026-07-18-110122-manual.md) |
 | 2026-07-18 | 111730-inbox-skill | /twmd-article-inbox 與 EVOLVE Mode 4 同日誕生；台灣建築 dogfood 4 平行 agent → 10 條 INBOX 候選；BRANCH v2.2 九摩擦當天回寫 | Mode 4 誕生一小時被自己第一個案例修正灰區判法；cwd 第四例 vc=3 | [→](memory/2026-07-18-111730-inbox-skill.md) |
-| 2026-07-18 | 115441-manual | twmd-evolve 語言層首跑：三源交叉選定 vi/id/pt/hi 四個新語言支系＋巴別塔盤點；註冊表掛 disabled scaffold（`0b3287967`）；啟動排程進 OBSERVER-QUEUE #17 | 文章層評分公式不硬套語言層決策；pt 靠 CF 邊緣訊號才現形 | [→](memory/2026-07-18-115441-manual.md) |
+| 2026-07-18 | 115441-manual | twmd-evolve 語言層首跑：三源選定 vi/id/pt/hi＋註冊表 disabled scaffold（`0b3287967`）＋queue #17；第二幕 BIRTH-CHECKLIST 升 v2.0＋DNA 補語言基因缺口 | 文章層公式不硬套語言層；出生 SOP 落後身體三個月才被選址揭露 | [→](memory/2026-07-18-115441-manual.md) |
 | 2026-07-18 | 115711-manual | 完整進化 Phase 1-7：日治時期 watch→雙源升 P0、彎彎 SEO P2、education-system 五語 redirect heal、前手 68 檔 handoff 清償（`74d282d3a`） | 雙源等待期是品質過濾器；三條高流量候選誠實算分止步 60 gate | [→](memory/2026-07-18-115711-manual.md) |

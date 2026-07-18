@@ -150,18 +150,19 @@ downstream_dependents:
 - **`knowledge/_translations.json`**：是 derived cache，由 `sync-translations-json.py` 從 frontmatter 自動重建（refresh-data.sh 每次心跳跑）
 - **狀態**：見 [`docs/community/LANGUAGE-STATUS.md`](../community/LANGUAGE-STATUS.md)
 
-| 基因                 | 檔案                                                                                     | 決定什麼                                                                  |
-| -------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 語言註冊表 SSOT      | [`src/config/languages.ts`](../../src/config/languages.ts) + `.mjs`                      | 哪些語言 active / preview / disabled，所有 i18n touchpoint 從這裡 derive  |
-| 註冊表 sync 檢查     | [`check-language-registry-sync.sh`](../../scripts/tools/check-language-registry-sync.sh) | pre-commit 檢查 .ts 和 .mjs code list 一致                                |
-| 翻譯來源 SSOT        | 每篇翻譯 frontmatter `translatedFrom`                                                    | 防止孤兒：file-level self-documentation                                   |
-| translation backfill | [`backfill-translated-from.py`](../../scripts/tools/backfill-translated-from.py)         | 從 `_translations.json` 回填 translatedFrom（一次性遷移工具）             |
-| translation sync     | [`sync-translations-json.py`](../../scripts/tools/sync-translations-json.py)             | 從 frontmatter 重建 `_translations.json` derived cache（含 --check mode） |
-| 翻譯管線             | [`TRANSLATION-PIPELINE.md`](../pipelines/TRANSLATION-PIPELINE.md)                        | 怎麼產生新語言版本（含批次翻譯 v2）                                       |
-| 翻譯 Prompt          | [`TRANSLATE_PROMPT.md`](../prompts/TRANSLATE_PROMPT.md)                                  | wikilink 處理 + 優先序 + 品質 checklist                                   |
-| 翻譯看板             | [`TRANSLATION-BOARD.md`](../community/TRANSLATION-BOARD.md)                              | 翻譯進度追蹤                                                              |
-| 語言狀態文件         | [`LANGUAGE-STATUS.md`](../community/LANGUAGE-STATUS.md)                                  | 給貢獻者的 active / preview / 新語言指南                                  |
-| union merge driver   | [`.gitattributes`](../../.gitattributes)                                                 | 批次翻譯 PR 不再撞 `_translations.json` cascade conflict                  |
+| 基因                 | 檔案                                                                                     | 決定什麼                                                                                                                                                                   |
+| -------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 語言註冊表 SSOT      | [`src/config/languages.ts`](../../src/config/languages.ts) + `.mjs`                      | 哪些語言 active / preview / disabled，所有 i18n touchpoint 從這裡 derive                                                                                                   |
+| 新語言誕生           | [`LANGUAGE-BIRTH-CHECKLIST.md`](../pipelines/LANGUAGE-BIRTH-CHECKLIST.md)                | 出生 7 stage SOP（選址→scaffold→模型校準→P0 批→介面路由→flip→出生後驗證）+ 四層完整度 gate（v2.0 2026-07-18；此前不在本表 = gene map 缺口，出生 SOP 對 cron session 隱形） |
+| 註冊表 sync 檢查     | [`check-language-registry-sync.sh`](../../scripts/tools/check-language-registry-sync.sh) | pre-commit 檢查 .ts 和 .mjs code list 一致                                                                                                                                 |
+| 翻譯來源 SSOT        | 每篇翻譯 frontmatter `translatedFrom`                                                    | 防止孤兒：file-level self-documentation                                                                                                                                    |
+| translation backfill | [`backfill-translated-from.py`](../../scripts/tools/backfill-translated-from.py)         | 從 `_translations.json` 回填 translatedFrom（一次性遷移工具）                                                                                                              |
+| translation sync     | [`sync-translations-json.py`](../../scripts/tools/sync-translations-json.py)             | 從 frontmatter 重建 `_translations.json` derived cache（含 --check mode）                                                                                                  |
+| 翻譯管線             | [`TRANSLATION-PIPELINE.md`](../pipelines/TRANSLATION-PIPELINE.md)                        | 怎麼產生新語言版本（含批次翻譯 v2）                                                                                                                                        |
+| 翻譯 Prompt          | [`TRANSLATE_PROMPT.md`](../prompts/TRANSLATE_PROMPT.md)                                  | wikilink 處理 + 優先序 + 品質 checklist                                                                                                                                    |
+| 翻譯看板             | [`TRANSLATION-BOARD.md`](../community/TRANSLATION-BOARD.md)                              | 翻譯進度追蹤                                                                                                                                                               |
+| 語言狀態文件         | [`LANGUAGE-STATUS.md`](../community/LANGUAGE-STATUS.md)                                  | 給貢獻者的 active / preview / 新語言指南                                                                                                                                   |
+| union merge driver   | [`.gitattributes`](../../.gitattributes)                                                 | 批次翻譯 PR 不再撞 `_translations.json` cascade conflict                                                                                                                   |
 
 ### 🏛️ 治理基因（社群契約）
 
