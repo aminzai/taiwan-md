@@ -21,8 +21,8 @@ featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'History/國民政府遷台與戰後重建.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:4e071d84893835c3'
+sourceCommitSha: '9c5ad569'
+sourceContentHash: 'sha256:a28bcadbb01460c5'
 sourceBodyHash: 'sha256:fdd1a6127fff34df'
 translatedAt: '2026-05-17T05:33:00Z'
 ---

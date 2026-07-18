@@ -10,8 +10,8 @@ lastVerified: 2026-06-26
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/台灣聲景.md'
-sourceCommitSha: '6be46f2f'
-sourceContentHash: 'sha256:0c33e898d4ba7e93'
+sourceCommitSha: '8b61d368'
+sourceContentHash: 'sha256:819a7ee143f7b981'
 sourceBodyHash: 'sha256:efd1cd3b8e9f03d6'
 translatedAt: '2026-06-27T00:54:19+08:00'
 ---

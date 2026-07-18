@@ -1,19 +1,26 @@
 ---
-title: "Túnel Hsuehshan: de una «misión imposible» al milagro de sangre y lágrimas de la ingeniería taiwanesa"
-description: "El 15 de diciembre de 1997, un accidente por irrupción de agua estuvo a punto de arrebatar trescientas vidas y convirtió en chatarra una TBM, una máquina excavadora de mil millones de dólares taiwaneses. Este túnel, incluido por la Encyclopaedia Britannica entre las obras de ingeniería más difíciles del mundo, no es solo una arteria de transporte: es un milagro de sangre y lágrimas excavado en arenisca Szeleng, más dura que el acero, por 25 trabajadores fallecidos en servicio e innumerables héroes anónimos."
+title: 'Túnel Hsuehshan: de una «misión imposible» al milagro de sangre y lágrimas de la ingeniería taiwanesa'
+description: 'El 15 de diciembre de 1997, un accidente por irrupción de agua estuvo a punto de arrebatar trescientas vidas y convirtió en chatarra una TBM, una máquina excavadora de mil millones de dólares taiwaneses. Este túnel, incluido por la Encyclopaedia Britannica entre las obras de ingeniería más difíciles del mundo, no es solo una arteria de transporte: es un milagro de sangre y lágrimas excavado en arenisca Szeleng, más dura que el acero, por 25 trabajadores fallecidos en servicio e innumerables héroes anónimos.'
 date: 2026-04-29
-author: "Taiwan.md"
-category: "Technology"
-subcategory: "科技園區"
-tags: ["Túnel Hsuehshan", "infraestructura de transporte", "Yilan", "milagro de ingeniería", "espíritu taiwanés"]
+author: 'Taiwan.md'
+category: 'Technology'
+subcategory: '科技園區'
+tags:
+  [
+    'Túnel Hsuehshan',
+    'infraestructura de transporte',
+    'Yilan',
+    'milagro de ingeniería',
+    'espíritu taiwanés',
+  ]
 lastVerified: 2026-04-29
 lastHumanReview: false
 featured: false
-translatedFrom: "Technology/雪山隧道.md"
-sourceCommitSha: "4b6d28c54"
-sourceContentHash: "sha256:1afac37fa8da0b75"
-sourceBodyHash: "sha256:909022379c9cd8a0"
-translatedAt: "2026-05-20T05:08:32+08:00"
+translatedFrom: 'Technology/雪山隧道.md'
+sourceCommitSha: '9ecd20d6'
+sourceContentHash: 'sha256:9e7ddff3899aaa85'
+sourceBodyHash: 'sha256:909022379c9cd8a0'
+translatedAt: '2026-05-20T05:08:32+08:00'
 ---
 
 > **Resumen en 30 segundos:**
@@ -89,20 +96,20 @@ Sin embargo, desde su apertura, el Túnel Hsuehshan sigue enfrentando desafíos.
 
 La escala de ingeniería del Túnel Hsuehshan tenía, en su momento, un peso considerable en el mapa mundial:
 
-| Ítem | Dato | Nota |
-| :--------------- | :----------------------------------------- | :------------------------------------------ |
-| **Longitud total** | Tubo este: 12.871 metros / tubo oeste: 12.947 metros | El túnel carretero más largo de Taiwán [^10] |
-| **Ranking mundial** | Aproximadamente puesto 13-15 | Ranking mundial por longitud de túneles carreteros; entre los principales de Asia / Sudeste Asiático [^21] |
-| **Periodo de construcción** | 15 años (1991-2006) | Originalmente se estimaba completarlo en 6 años [^10] |
-| **Presupuesto total** | Aproximadamente 18.500 millones de dólares taiwaneses | Solo costos de obra del tramo del Túnel Hsuehshan [^10] |
-| **Fecha de apertura** | 16 de junio de 2006 | Abierto durante el mandato del premier Su Tseng-chang [^7] |
-| **Límite máximo de velocidad** | 90 km/h | Elevado a ese valor en 2010 [^10] |
-| **Fallecidos en servicio** | 25 personas (obra de la Autopista Taipéi-Yilan) / aprox. 13 personas (obra del Túnel Hsuehshan) | Incluye trabajadores nacionales y extranjeros [^11] [^19] |
-| **Veces que la TBM quedó atrapada** | 26 veces | La TBM llegó a quedar atrapada dentro de la montaña durante 885 días [^14] |
-| **Derrumbes de macizo rocoso** | 63 veces | [^14] |
-| **Sistema de ventilación** | 36 ventiladores axiales principales + 112 ventiladores de chorro | Primer sistema longitudinal reforzado del mundo [^10] |
-| **Galerías transversales de conexión** | 36 peatonales / 8 vehiculares | Para evacuación y rescate de emergencia [^10] |
-| **Escala total del sistema de túneles** | 58 túneles | Incluye túneles principales, galerías piloto, túneles de conexión, etc. [^10] |
+| Ítem                                    | Dato                                                                                            | Nota                                                                                                       |
+| :-------------------------------------- | :---------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| **Longitud total**                      | Tubo este: 12.871 metros / tubo oeste: 12.947 metros                                            | El túnel carretero más largo de Taiwán [^10]                                                               |
+| **Ranking mundial**                     | Aproximadamente puesto 13-15                                                                    | Ranking mundial por longitud de túneles carreteros; entre los principales de Asia / Sudeste Asiático [^21] |
+| **Periodo de construcción**             | 15 años (1991-2006)                                                                             | Originalmente se estimaba completarlo en 6 años [^10]                                                      |
+| **Presupuesto total**                   | Aproximadamente 18.500 millones de dólares taiwaneses                                           | Solo costos de obra del tramo del Túnel Hsuehshan [^10]                                                    |
+| **Fecha de apertura**                   | 16 de junio de 2006                                                                             | Abierto durante el mandato del premier Su Tseng-chang [^7]                                                 |
+| **Límite máximo de velocidad**          | 90 km/h                                                                                         | Elevado a ese valor en 2010 [^10]                                                                          |
+| **Fallecidos en servicio**              | 25 personas (obra de la Autopista Taipéi-Yilan) / aprox. 13 personas (obra del Túnel Hsuehshan) | Incluye trabajadores nacionales y extranjeros [^11] [^19]                                                  |
+| **Veces que la TBM quedó atrapada**     | 26 veces                                                                                        | La TBM llegó a quedar atrapada dentro de la montaña durante 885 días [^14]                                 |
+| **Derrumbes de macizo rocoso**          | 63 veces                                                                                        | [^14]                                                                                                      |
+| **Sistema de ventilación**              | 36 ventiladores axiales principales + 112 ventiladores de chorro                                | Primer sistema longitudinal reforzado del mundo [^10]                                                      |
+| **Galerías transversales de conexión**  | 36 peatonales / 8 vehiculares                                                                   | Para evacuación y rescate de emergencia [^10]                                                              |
+| **Escala total del sistema de túneles** | 58 túneles                                                                                      | Incluye túneles principales, galerías piloto, túneles de conexión, etc. [^10]                              |
 
 ## Conclusión: un largo río de historia en movimiento
 

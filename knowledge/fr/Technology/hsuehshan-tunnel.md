@@ -5,13 +5,20 @@ date: 2026-04-29
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: '科技園區'
-tags: ['Tunnel de Hsuehshan', 'infrastructures de transport', 'Yilan', "miracle d'ingénierie", 'esprit taïwanais']
+tags:
+  [
+    'Tunnel de Hsuehshan',
+    'infrastructures de transport',
+    'Yilan',
+    "miracle d'ingénierie",
+    'esprit taïwanais',
+  ]
 lastVerified: 2026-04-29
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/雪山隧道.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:1afac37fa8da0b75'
+sourceCommitSha: '9ecd20d6'
+sourceContentHash: 'sha256:9e7ddff3899aaa85'
 sourceBodyHash: 'sha256:909022379c9cd8a0'
 translatedAt: '2026-05-20T05:08:34+08:00'
 ---
@@ -89,20 +96,20 @@ Depuis son ouverture, le tunnel de Hsuehshan reste toutefois confronté à des d
 
 À l'époque, l'échelle du chantier du tunnel de Hsuehshan pesait lourd sur la carte mondiale de l'ingénierie :
 
-| Élément             | Données                                      | Remarques                                      |
-| :------------------ | :------------------------------------------- | :--------------------------------------------- |
-| **Longueur totale** | Tube est 12 871 mètres / tube ouest 12 947 mètres | Plus long tunnel routier de Taïwan [^10]       |
-| **Rang mondial**    | Environ 13e-15e                              | Classement mondial par longueur des tunnels routiers, parmi les premiers en Asie/Asie du Sud-Est [^21] |
-| **Durée du chantier** | 15 ans (1991-2006)                         | Achèvement initialement prévu en 6 ans [^10]   |
-| **Budget total**    | Environ 18,5 milliards de dollars taïwanais  | Coût du seul tronçon du tunnel de Hsuehshan [^10] |
-| **Date d'ouverture** | 16 juin 2006                                | Ouvert sous le mandat du premier ministre Su Tseng-chang [^7] |
-| **Vitesse maximale** | 90 km/h                                     | Limite relevée à ce niveau en 2010 [^10]       |
-| **Morts en service** | 25 personnes (chantier de l'autoroute Taipei-Yilan) / environ 13 personnes (chantier du tunnel de Hsuehshan) | Inclut travailleurs taïwanais et étrangers [^11] [^19] |
-| **Nombre de blocages du TBM** | 26 fois                            | Le TBM resta bloqué dans la montagne jusqu'à 885 jours [^14] |
-| **Nombre d'effondrements du massif rocheux** | 63 fois              | [^14]                                          |
-| **Système de ventilation** | 36 ventilateurs axiaux principaux + 112 ventilateurs à jet | Premier système longitudinal renforcé au monde [^10] |
-| **Passages transversaux** | 36 passages piétons / 8 passages véhicules | Pour l'évacuation d'urgence et les secours [^10] |
-| **Taille totale de l'ensemble de tunnels** | 58 tunnels           | Inclut tunnels principaux, galeries pilotes, tunnels de liaison, etc. [^10] |
+| Élément                                      | Données                                                                                                      | Remarques                                                                                              |
+| :------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- |
+| **Longueur totale**                          | Tube est 12 871 mètres / tube ouest 12 947 mètres                                                            | Plus long tunnel routier de Taïwan [^10]                                                               |
+| **Rang mondial**                             | Environ 13e-15e                                                                                              | Classement mondial par longueur des tunnels routiers, parmi les premiers en Asie/Asie du Sud-Est [^21] |
+| **Durée du chantier**                        | 15 ans (1991-2006)                                                                                           | Achèvement initialement prévu en 6 ans [^10]                                                           |
+| **Budget total**                             | Environ 18,5 milliards de dollars taïwanais                                                                  | Coût du seul tronçon du tunnel de Hsuehshan [^10]                                                      |
+| **Date d'ouverture**                         | 16 juin 2006                                                                                                 | Ouvert sous le mandat du premier ministre Su Tseng-chang [^7]                                          |
+| **Vitesse maximale**                         | 90 km/h                                                                                                      | Limite relevée à ce niveau en 2010 [^10]                                                               |
+| **Morts en service**                         | 25 personnes (chantier de l'autoroute Taipei-Yilan) / environ 13 personnes (chantier du tunnel de Hsuehshan) | Inclut travailleurs taïwanais et étrangers [^11] [^19]                                                 |
+| **Nombre de blocages du TBM**                | 26 fois                                                                                                      | Le TBM resta bloqué dans la montagne jusqu'à 885 jours [^14]                                           |
+| **Nombre d'effondrements du massif rocheux** | 63 fois                                                                                                      | [^14]                                                                                                  |
+| **Système de ventilation**                   | 36 ventilateurs axiaux principaux + 112 ventilateurs à jet                                                   | Premier système longitudinal renforcé au monde [^10]                                                   |
+| **Passages transversaux**                    | 36 passages piétons / 8 passages véhicules                                                                   | Pour l'évacuation d'urgence et les secours [^10]                                                       |
+| **Taille totale de l'ensemble de tunnels**   | 58 tunnels                                                                                                   | Inclut tunnels principaux, galeries pilotes, tunnels de liaison, etc. [^10]                            |
 
 ## Conclusion : un long fleuve d'histoire en mouvement
 

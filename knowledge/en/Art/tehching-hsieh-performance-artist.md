@@ -29,8 +29,8 @@ sporeLinks:
     date: '2026-04-20'
     url: 'https://x.com/taiwandotmd/status/2046066338138104130'
 translatedFrom: 'Art/謝德慶.md'
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:6c03cf0ef8e01a7d'
+sourceCommitSha: 'd520299b'
+sourceContentHash: 'sha256:97f19e04671843c8'
 sourceBodyHash: 'sha256:63227fedc7d1144a'
 translatedAt: '2026-06-10T16:43:34Z'
 ---

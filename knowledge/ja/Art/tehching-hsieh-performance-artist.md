@@ -20,8 +20,8 @@ readingTime: 16
 lastVerified: 2026-04-20
 lastHumanReview: true
 translatedFrom: 'Art/謝德慶.md'
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:6c03cf0ef8e01a7d'
+sourceCommitSha: 'd520299b'
+sourceContentHash: 'sha256:97f19e04671843c8'
 translatedAt: '2026-06-10T16:41:16Z'
 sourceBodyHash: 'sha256:63227fedc7d1144a'
 ---

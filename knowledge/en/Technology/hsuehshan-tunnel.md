@@ -10,8 +10,8 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/雪山隧道.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:1afac37fa8da0b75'
+sourceCommitSha: '9ecd20d6'
+sourceContentHash: 'sha256:9e7ddff3899aaa85'
 sourceBodyHash: 'sha256:909022379c9cd8a0'
 translatedAt: '2026-05-20T05:08:27+08:00'
 ---
@@ -89,20 +89,20 @@ However, challenges remain to this day. Holiday traffic management is the bigges
 
 The Hsuehshan Tunnel's engineering scale was a significant entry on the world stage:
 
-| Item | Data | Notes |
-| :--- | :--- | :--- |
-| **Total length** | Eastbound 12,871 m / Westbound 12,947 m | Longest road tunnel in Taiwan [^10] |
-| **World ranking** | Approximately 13th–15th | Among the world's longest road tunnels; leading in Asia/Southeast Asia [^21] |
-| **Construction period** | 15 years (1991–2006) | Originally projected at 6 years [^10] |
-| **Total budget** | Approximately NT$18.5 billion | Hsuehshan Tunnel section only [^10] |
-| **Opening date** | June 16, 2006 | Opened during Premier Su Tseng-chang's tenure [^7] |
-| **Maximum speed limit** | 90 km/h | Raised to this level in 2010 [^10] |
-| **Fatalities** | 25 (Beiyi Expressway) / ~13 (Hsuehshan Tunnel) | Including Taiwanese and foreign workers [^11] [^19] |
-| **TBM entrapments** | 26 times | TBM was once trapped for 885 days [^14] |
-| **Rockfall/collapse events** | 63 times | [^14] |
-| **Ventilation system** | 36 axial main fans + 112 jet fans | World's first enhanced longitudinal system [^10] |
-| **Cross passages** | 36 pedestrian / 8 vehicular | For emergency evacuation and rescue [^10] |
-| **Total tunnel complex** | 58 tunnels | Including main tunnels, pilot tunnels, and cross passages [^10] |
+| Item                         | Data                                           | Notes                                                                        |
+| :--------------------------- | :--------------------------------------------- | :--------------------------------------------------------------------------- |
+| **Total length**             | Eastbound 12,871 m / Westbound 12,947 m        | Longest road tunnel in Taiwan [^10]                                          |
+| **World ranking**            | Approximately 13th–15th                        | Among the world's longest road tunnels; leading in Asia/Southeast Asia [^21] |
+| **Construction period**      | 15 years (1991–2006)                           | Originally projected at 6 years [^10]                                        |
+| **Total budget**             | Approximately NT$18.5 billion                  | Hsuehshan Tunnel section only [^10]                                          |
+| **Opening date**             | June 16, 2006                                  | Opened during Premier Su Tseng-chang's tenure [^7]                           |
+| **Maximum speed limit**      | 90 km/h                                        | Raised to this level in 2010 [^10]                                           |
+| **Fatalities**               | 25 (Beiyi Expressway) / ~13 (Hsuehshan Tunnel) | Including Taiwanese and foreign workers [^11] [^19]                          |
+| **TBM entrapments**          | 26 times                                       | TBM was once trapped for 885 days [^14]                                      |
+| **Rockfall/collapse events** | 63 times                                       | [^14]                                                                        |
+| **Ventilation system**       | 36 axial main fans + 112 jet fans              | World's first enhanced longitudinal system [^10]                             |
+| **Cross passages**           | 36 pedestrian / 8 vehicular                    | For emergency evacuation and rescue [^10]                                    |
+| **Total tunnel complex**     | 58 tunnels                                     | Including main tunnels, pilot tunnels, and cross passages [^10]              |
 
 ## Conclusion: A Flowing River of History
 

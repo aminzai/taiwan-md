@@ -10,8 +10,8 @@ featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'History/戒嚴時期.md'
-sourceCommitSha: '49728f9d'
-sourceContentHash: 'sha256:3810dc2ca3fa3982'
+sourceCommitSha: '9ecd20d6'
+sourceContentHash: 'sha256:7647443db6f06a5f'
 sourceBodyHash: 'sha256:028c0bee94ad5d00'
 translatedAt: '2026-05-17T05:33:00Z'
 ---
