@@ -86,33 +86,33 @@ export const LANGUAGES = [
     code: 'vi',
     displayName: 'Tiếng Việt',
     hreflang: 'vi',
-    enabled: false,
+    enabled: true,
     notes:
-      '2026-07-18 selected (disabled scaffold). Highest unserved SC demand (7,994 imp / 0.5% CTR) + largest new-immigrant community in Taiwan. Activation pending: reports/evolve-2026-07-18-language-branches.md',
+      '2026-07-18 selected (disabled scaffold). Highest unserved SC demand (7,994 imp / 0.5% CTR) + largest new-immigrant community in Taiwan. 2026-07-19 enabled (birth battle). Report: reports/language-birth-2026-07-18.md',
   },
   {
     code: 'id',
     displayName: 'Bahasa Indonesia',
     hreflang: 'id',
-    enabled: false,
+    enabled: true,
     notes:
-      '2026-07-18 selected (disabled scaffold). SC 5,521 imp / 0.3% CTR + largest migrant-worker community in Taiwan. Activation pending: reports/evolve-2026-07-18-language-branches.md',
+      '2026-07-18 selected (disabled scaffold). SC 5,521 imp / 0.3% CTR + largest migrant-worker community in Taiwan. 2026-07-19 enabled (birth battle). Report: reports/language-birth-2026-07-18.md',
   },
   {
     code: 'pt',
     displayName: 'Português',
     hreflang: 'pt',
-    enabled: false,
+    enabled: true,
     notes:
-      '2026-07-18 selected (disabled scaffold). Only gap confirmed by all three sources (SC 6,659 imp / 0.1% CTR + CF #6 + GA). Reuses es LatAm playbook. Activation pending: reports/evolve-2026-07-18-language-branches.md',
+      '2026-07-18 selected (disabled scaffold). Only gap confirmed by all three sources (SC 6,659 imp / 0.1% CTR + CF #6 + GA). Reuses es LatAm playbook. 2026-07-19 enabled (birth battle). Report: reports/language-birth-2026-07-18.md',
   },
   {
     code: 'hi',
     displayName: 'हिन्दी',
     hreflang: 'hi',
-    enabled: false,
+    enabled: true,
     notes:
-      '2026-07-18 selected (disabled scaffold). Largest unserved language (609M speakers, Ethnologue 2025 #3). Activation pending: reports/evolve-2026-07-18-language-branches.md',
+      '2026-07-18 selected (disabled scaffold). Largest unserved language (609M speakers, Ethnologue 2025 #3). 2026-07-19 enabled (birth battle). Report: reports/language-birth-2026-07-18.md',
   },
 ] as const satisfies readonly LanguageEntry[];
 

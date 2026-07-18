@@ -5,7 +5,7 @@ date: '2026-03-21'
 author: "'Taiwan.md'"
 category: "'Food'"
 subcategory: "'饮食场景'"
-tags: "['रात्र बाज़ार', 'स्नैक्स', 'संस्कृति', 'पर्यटन', 'जनजीवन']"
+tags: ['रात्र बाज़ार', 'स्नैक्स', 'संस्कृति', 'पर्यटन', 'जनजीवन']
 lastVerified: '2026-03-21'
 lastHumanReview: 'true'
 featured: 'false'
