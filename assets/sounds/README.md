@@ -4,37 +4,41 @@ Field recordings capturing the sounds of Taiwan — because some stories are bes
 
 台灣的田野錄音——因為有些故事，用耳朵聽比用眼睛看更真實。
 
+> ⚠️ **This folder is a legacy intake point — the live sound library does NOT read from here.**
+> **本資料夾是早期的貢獻入口，網站不會讀取這裡的檔案。**
+>
+> One contribution ([PR #559](https://github.com/frank890417/taiwan-md/pull/559), thank you @iigmir!)
+> followed the old instructions here and stayed invisible on the site for three months.
+> This note exists so that never happens again.
+
+## Where things actually live / 檔案真正的家
+
+| What                  | Where                                                              |
+| --------------------- | ------------------------------------------------------------------ |
+| Audio files（音檔）   | [`public/assets/sounds/`](../../public/assets/sounds/)             |
+| Sound entries（資料） | [`src/data/soundscape-data.ts`](../../src/data/soundscape-data.ts) |
+| The page（頁面）      | <https://taiwan.md/soundscape/>                                    |
+
 ## How to Contribute / 如何貢獻
 
 1. Record a sound that represents Taiwan (30 seconds – 2 minutes)
 2. Convert to `.mp3` format (128kbps or higher)
-3. Name the file: `{location}-{description}.mp3` (English, kebab-case)
-4. Add an entry to the table below
-5. Open a PR!
+3. Name the file `{city}-{location}-{sound}.mp3` (English, kebab-case)
+4. Put it in **`public/assets/sounds/`** and open a PR — mention the location,
+   what we're hearing, and how you'd like to be credited
+5. Maintainers will wire the entry into `src/data/soundscape-data.ts`
+   (or add it yourself if you're comfortable with TypeScript — six languages welcome)
 
-## Sound Library / 聲音圖書館
-
-| File                                      | Location                              | Description                       | Recorded By | Date    |
-| ----------------------------------------- | ------------------------------------- | --------------------------------- | ----------- | ------- |
-| `taichung-green-museumbrary-crickets.mp3` | 台中綠美圖 Taichung Green Museumbrary | 夜晚蟋蟀聲 Evening cricket chorus | @bugnimusic | 2026-03 |
-| `taipei-nangang-garbage-truck-melody-maidens-prayer.mp3` | 台北南港 Taipei Nangang | 垃圾車音樂（少女的祈禱）Garbage truck melody (Maiden's Prayer) | @x1001000 | 2021-03 |
-| `new-taipei-banqiao-garbage-truck-melody-fur-elise.mp3` | 新北板橋 New Taipei Banqiao | 垃圾車音樂（給愛麗絲）Garbage truck melody (Fur Elise) | @x1001000 | 2026-03 |
-| `taichung-dali-street-and-automobile.mp3` | 台中大里 Taichung Dali | 台中市街頭的車子音樂，有垃圾車音樂（少女的祈禱）、機車起步聲、ubike騎車的聲音 Garbage truck melody (Maiden's Prayer), scooter swarm at green light, and someone riding UBike | @iigmir | 2026-04 |
+Not a GitHub user? Email <taiwanmd@monoame.com> with the audio file and location description.
 
 ## Guidelines / 規範
 
 - **Length**: 30 seconds – 2 minutes
 - **Format**: MP3, 128kbps+
 - **Content**: Natural or cultural sounds (no copyrighted music)
-- **Naming**: `{city}-{location}-{sound}.mp3`
 - **License**: By contributing, you agree to release under the project's open license
 
 ## Ideas / 想收集的聲音
 
-- 🚛 各縣市垃圾車音樂 Garbage truck melodies (regional variations)
-- 🏯 廟會北管鑼鼓 Temple Beiguan drums
-- 🌊 東海岸浪聲 East coast waves
-- 🏙️ 夜市叫賣 Night market vendors
-- 🐦 山林鳥鳴 Mountain birdsong
-- 🦗 各地蟲鳴 Insect choruses across Taiwan
-- 🚂 火車進站音樂 Train station jingles
+The live wishlist is on the page itself: <https://taiwan.md/soundscape/> — every category
+shows what we're still hoping to collect（各分類的「想收集」清單直接看頁面）。

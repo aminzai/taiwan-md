@@ -1,7 +1,8 @@
 ---
 /**
  * soundscape.template.astro — shared template for /soundscape across
- * all four language variants (zh-TW / en / ja / ko).
+ * every enabled language (src/config/languages.ts is the registry;
+ * six variants as of 2026-07: zh-TW / en / ja / ko / fr / es).
  *
  * Data comes from `src/data/soundscape-data.ts` (single source of
  * truth). This template reads `Astro.props.lang`, localizes each
@@ -37,6 +38,24 @@ const L = (field: Parameters<typeof localize>[0]) => localize(field, lang);
 const S = (field: Parameters<typeof secondary>[0]) => secondary(field, lang);
 
 const ui = soundscapeUI;
+
+/**
+ * Deep-article links in soundscape-data use the zh-TW route. Translations
+ * of both articles share the unified slug `taiwan-soundscape` (2026-07-17
+ * slug unification), so non-zh pages must deep-link into their own
+ * language — before this map, /en/soundscape/ sent readers to the Chinese
+ * article (GA 30d: en visitors average 92s engagement; they deserve the
+ * en article).
+ */
+const ARTICLE_SLUGS: Record<string, string> = {
+  '/music/台灣聲音地景': 'music/taiwan-soundscape',
+  '/culture/台灣聲景': 'culture/taiwan-soundscape',
+};
+const articlePath = (zhPath: string): string => {
+  if (lang === 'zh-TW') return zhPath;
+  const slug = ARTICLE_SLUGS[zhPath];
+  return slug ? `/${lang}/${slug}` : zhPath;
+};
 
 const statsText = L(ui.sections.statsFormat)
   .replace('{sounds}', String(totalSounds))
@@ -75,7 +94,13 @@ const statsText = L(ui.sections.statsFormat)
       <Fragment slot="meta">{statsText}</Fragment>
       <Fragment slot="footer">
         {L(ui.hero.readMoreLabel)}<a
-          href={categories[0].article}
+          href={articlePath('/culture/台灣聲景')}
+          class="border-b border-dashed border-[rgba(59,130,246,0.4)] text-[#3b82f6] no-underline hover:border-solid"
+          >{L(ui.hero.readMoreLink2)}</a
+        >
+        <span class="text-[#64748b]"> · </span>
+        <a
+          href={articlePath('/music/台灣聲音地景')}
           class="border-b border-dashed border-[rgba(59,130,246,0.4)] text-[#3b82f6] no-underline hover:border-solid"
           >{L(ui.hero.readMoreLink)}</a
         >
@@ -151,6 +176,8 @@ const statsText = L(ui.sections.statsFormat)
                       controls
                       preload="none"
                       class="h-9 w-full rounded-md"
+                      data-sound-file={sound.file}
+                      data-sound-category={cat.id}
                     >
                       <source
                         src={`/assets/sounds/${sound.file}`}
@@ -196,7 +223,7 @@ const statsText = L(ui.sections.statsFormat)
             )}
 
             <a
-              href={cat.article}
+              href={articlePath(cat.article)}
               class="mt-2 inline-block text-[0.9rem] text-[#3b82f6] no-underline transition-colors duration-200 hover:text-[#2563eb]"
             >
               {L(ui.sections.readArticle)}
@@ -247,4 +274,33 @@ const statsText = L(ui.sections.statsFormat)
       </div>
     </section>
   </div>
+
+  <script>
+    /**
+     * sound_play — the 21 recordings are this page's core interaction, yet
+     * until 2026-07-18 nothing measured whether anyone pressed play (GA 30d:
+     * 376 page_view vs 11 generic clicks, zero audio signal). Fires once per
+     * <audio> per pageview, on first play.
+     *
+     * instrumentation-audit.py scans this file (TRACKER_FILES); any param
+     * change here must be mirrored in register-ga4-custom-dimensions.py.
+     */
+    document
+      .querySelectorAll<HTMLAudioElement>('audio[data-sound-file]')
+      .forEach((el) => {
+        el.addEventListener(
+          'play',
+          () => {
+            const gtag = (window as any).gtag;
+            if (typeof gtag !== 'function') return;
+            gtag('event', 'sound_play', {
+              sound_file: el.dataset.soundFile,
+              sound_category: el.dataset.soundCategory,
+              page_lang: document.documentElement.lang || '',
+            });
+          },
+          { once: true },
+        );
+      });
+  </script>
 </Layout>
