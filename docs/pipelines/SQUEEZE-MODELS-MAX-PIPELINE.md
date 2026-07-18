@@ -3,9 +3,9 @@ title: 'SQUEEZE-MODELS-MAX-PIPELINE'
 description: '多語 batch sync 主流程 — priority schema P0/P1/P2/P2.5/P3 + Tier 0a Sonnet diff-patch + 4-tier cascade + Z0-Z6 stage spine + §義務鐵律推 100% + v4.4 對齊 translate.py v4.3（owl-alpha 移出 default / preflight 冷凍 / audit-quality.py 已存在）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v4.4'
-last_updated: 2026-07-05
-last_session: '2026-07-05-165518-五病根治'
+current_version: 'v4.5'
+last_updated: 2026-07-18
+last_session: '2026-07-18-184501-manual（巴別塔健檢：cascade 番號對賬 + Tier 0a 硬底 ×2 + babel-health 儀器）'
 production_signal: 'scripts/tools/lang-sync/translate.py §DEFAULT_CASCADE_ID docstring（本檔 cascade 描述必須鏡射它；audit 時 diff 這兩處，REFLEXES #56 rule (a)）'
 sister_docs:
   - 'TRANSLATION-PIPELINE.md'
@@ -107,6 +107,17 @@ upstream_canonical:
 | Size-ratio scan ≥ 0.5           | Z6         | 每篇新翻譯         | `audit-quality.py`（已存在 2026-05-13——本檔曾標「待造」八週，dna-audit 修正）              | flag + retry                                                                  |
 | Healthy ratio ≥ 90%             | Z6         | sample audit       | random N = max(10, 5%)                                                                     | 回 Z4 retry                                                                   |
 | `lang-sync status` fresh        | Z5         | ship 前            | `status.py`                                                                                | retry 直到達標                                                                |
+
+---
+
+## 🩺 健檢儀器（v4.5，2026-07-18 誕生）
+
+```bash
+python3 scripts/tools/lang-sync/babel-health.py          # 六維度：coverage/yaml/footnote/ratio/zombie/stub
+python3 scripts/tools/lang-sync/babel-health.py --json   # 機器可讀
+```
+
+WARN 級（exit 永遠 0），不是 gate——閾值升 HARD 需哲宇拍板（儀器化黃燈路線：先 WARN 收數據）。誕生於首次完整巴別塔健檢：[reports/babel-health-2026-07-18.md](../../reports/babel-health-2026-07-18.md)（含各維度基線數字＋ratio band 三處 canonical 矛盾的量尺自查）。**ratio band 的數值 SSOT 待哲宇拍板前，只有 `<0.5 CRITICAL` 地板可信**（OBSERVER-QUEUE #19）。
 
 ---
 
@@ -603,19 +614,25 @@ Tier 3: Ollama qwen3.6:35b-a3b-coding-nvfp4 (LOCAL, no budget, sovereignty backb
 Tier 4: Sonnet sub-agent (paid, last resort — should rarely fire)
 ```
 
-**v4.4 現行 cascade（= translate.py DEFAULT_CASCADE v4.3 鏡射，取代上方）**：
+**v4.5 現行 cascade（= translate.py `DEFAULT_CASCADE_ID = "codex,gemini,openrouter:openai/gpt-oss-120b:free,ollama,fleet"` 鏡射，取代上方）**：
 
 ```
 Tier 1: codex (gpt-5.5 subscription) → gemini (subscription)
-   ↓
+   ↓                    ⚠️ 2026-07 健檢：兩者連死 ≥10 夜，gemini 免費層已被 Google 永久收回
 Tier 2: openai/gpt-oss-120b:free (verified；owl-alpha 6/10 silent 轉 paid 移出 default)
    ↓ refused or rate-limited
 Tier 3: Free 驗證佇列 — hermes-3-405b → llama-3.3-70b → nemotron-3-super-120b → gemma-4-31b（未驗證，顯式 override）
    ↓ refused (PRC-sensitive)
-Tier 4: Ollama qwen3.6:35b (LOCAL「永遠收下」；主權定位 pending 決策 4，fleet 端 gemma4-only)
+Tier 4: Ollama qwen3.6:35b (LOCAL「永遠收下」；主權定位 pending 決策 4)
+   ↓
+Tier 5: fleet HTTP 直打（roadmap P0-2 收編進 DEFAULT_CASCADE 第 5 位；`fleet-endpoint.sh` adapter，
+        cron env 層 sabotage CLI 時的繞道，embeddings 鏈連夜驗證過的同型路徑）
    ↓ rare
-Tier 5: Sonnet sub-agent (paid, last resort — should rarely fire)
+Tier 6: Sonnet sub-agent (paid, last resort — 2026-07-11 babel-nightly memory 提議編為正式 Tier 6；
+        高腳註深度文（cascade footnote-gate 天花板已滑到 <39fn）的制度化路線待哲宇拍板，OBSERVER-QUEUE #18)
 ```
+
+> **番號對賬紀錄（2026-07-18 健檢）**：本區塊曾同時存在兩套「Tier 5」（roadmap P0-2 的 fleet vs 本檔的 Sonnet），且 doc 漏列 DEFAULT_CASCADE 已收編的 `fleet`——per frontmatter `production_signal` 對賬修正。cascade 描述的 SSOT 永遠在 `translate.py` docstring，本檔是鏡子。
 
 preflight health-check（v4.3）：batch 起跑先 probe 每個 backend，死模型整 run 冷凍（6h），不讓 N 篇各自撞 timeout 燒時間。
 
@@ -733,6 +750,11 @@ You are a translation patch agent for Taiwan.md. Apply this zh diff to the exist
 {lang} translation, preserving unchanged paragraphs verbatim.
 
 Step 1: Read patch task JSON from .lang-sync-tasks/diff-patch/{lang}-patch-tasks.json
+Step 1b: 【硬底】用 JSON 前先 verify entry 的 `translatedFrom` == 你被指派的 zh_path；
+  不一致（batch 生成器 index/mapping 錯位會讓 `current_translation` 拿到別篇的內容）
+  → 不用 JSON 內容，fall back 直接讀 `translation_path` 真檔案當 baseline
+Step 1c: 【硬底】暫存檔一律用 `{task_index}_` 或 `{zh_slug}_` 前綴命名，禁通名
+  （`zh_diff.txt` / `current_translation.md` 這類通名在平行兄弟分身下會 last-write-wins 互蓋）
 Step 2: Decide what to patch:
   - frontmatter changes (tags reformat / sporeLinks updates) → mirror to translation
   - body prose changes → translate ONLY changed sentences/paragraphs
@@ -741,6 +763,8 @@ Step 2: Decide what to patch:
 Step 3: Write atomic via Write tool
 Step 4: Verify YAML valid + body length ±10%
 ```
+
+> Step 1b/1c 誕生：2026-07-14 babel-nightly 一夜兩起——兩個子代獨立回報 batch JSON `current_translation` 跨 entry 汙染（林昶佐 en 拿到閃靈內容、便利商店 ko 拿到法文）＋一個子代踩到共用 scratchpad 通名檔被兄弟覆蓋。當夜靠子代自檢 improvised 救回；本次把救法升 canonical 硬底（LESSONS 2026-07-14 兩條收償）。`diff-patch-prepare.py` 生成端的 mapping 驗證是另一半修法（工具 candidate，尚未 ship）。
 
 **驗證範例**（2026-05-09 賈永婕 P2 stale en）：
 
@@ -947,6 +971,8 @@ python3 scripts/tools/lang-sync/translate.py --zh-path Society/颱風假.md --la
 | #49    | 4-tier cascade canonical      | v4 變 N-tier abstract（具體 tier 在 cascade config 不在 DNA） |
 
 ---
+
+_v4.5 | 2026-07-18 184501-manual（巴別塔健檢）— 首次完整健檢的經驗回寫：(1) cascade 番號對賬——doc 漏列 DEFAULT_CASCADE 已收編的 fleet、「Tier 5」被 fleet 與 Sonnet 雙重佔用，對齊 production_signal 並把 Sonnet 正名 Tier 6（制度化待 OBSERVER-QUEUE #18）；(2) Tier 0a prompt template 補 Step 1b/1c 硬底（batch JSON 跨 entry 汙染驗證 + scratch 檔唯一前綴，收償 LESSONS 2026-07-14 兩條）；(3) 新增 §健檢儀器 babel-health.py（六維 WARN 級）。健檢完整報告與產線 14 天考古：[reports/babel-health-2026-07-18.md](../../reports/babel-health-2026-07-18.md)_
 
 _v4.4 | 2026-07-05 2026-07-05-165518-五病根治 — #56 復發修補：doc 對齊 translate.py v4.3（owl-alpha 移出 default / gpt-oss-120b 單獨扛 Tier 2 / preflight 冷凍入 spine / cascade 範例改 DEFAULT_CASCADE_ID 逐字）+ audit-quality.py 兩處「待造/待建」修正（工具 5/13 已存在）+ qwen Tier 4 主權定位標 pending 哲宇決策 4（fleet 端 6/14 bench 後 gemma4-only）+ frontmatter 新增 production_signal 欄。歷史段搬 reports/ 瘦身（~-375 行）另排 P1-19。_
 

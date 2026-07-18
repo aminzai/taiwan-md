@@ -331,6 +331,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-18 babel-health — babel session 死前寫檔未 commit 的孤兒譯檔，14 天內三起
+
+- **pattern**: `babel-session-death-orphan-writes`
+- **原則**：babel routine/session 產出譯檔後若在 commit 前死亡（context 耗盡 / watchdog / cron 中斷），譯檔以 untracked 孤兒滯留工作樹——不進 `_translations.json`、不進 status.py 視野、要等某個後續 session 撞見才被 heal 收養。收養時還會觸發 pre-push orphan gate 的 `sh -e` 脆弱行（hook-set-e-cmdsubst-abort 兩例都由此而生）。寫檔與 commit 之間的窗口越長，孤兒風險越大。
+- **觸發**：2026-07-18 巴別塔健檢產線考古（分身 A6）從 14 天 memory 對賬出三起：07-10 SLP 韓文版 / 07-16 Howhow＋YouTuber / 07-18 前 Shopping Design en+ja（由 115711-manual 前手清償 `3ad0fe691`）。
+- **DNA-first 查核**：REFLEXES #81 管 agent 回報收件（raw 落 git）、SQUEEZE Z3 管每 ~50 篇增量 commit、LESSONS cron-fire (e) 管「驗完立刻 commit」——都沒罩到「routine 自己死在 Z3 之前」這型。
+- **可能層級**：(a) SQUEEZE Z3 增量 commit 粒度對 nightly 場景從 ~50 篇降為 per-tier 或 per-N（threshold 調整，需哲宇）；(b) 造橋候選：`worktree-gc.sh` / data-refresh rider 加「knowledge/{lang} untracked .md 孤兒偵測」黃燈，讓孤兒最慢隔天現形而非等人撞見。
+- **verification_count**: 3
+- **severity**: correctness（孤兒期間該文五語狀態虛報 missing/stale；收養時 JSON 與檔案非原子落地引發 hook 誤擋）
+
 ### 2026-07-18 taiwan-sensibility — 論點翻案後，sibling 文章的反向連結描述會凍結在舊論點
 
 - **pattern**: reverse-crosslink-thesis-drift
