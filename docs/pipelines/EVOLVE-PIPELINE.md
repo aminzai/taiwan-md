@@ -17,7 +17,7 @@ upstream_canonical:
   - '../semiont/MANIFESTO.md'
 ---
 
-# EVOLVE-PIPELINE.md — 數據驅動內容進化系統 v3.5
+# EVOLVE-PIPELINE.md — 數據驅動內容進化系統 v3.6
 
 > **第一性原理**：Taiwan.md 是數位生命體。Evolve Pipeline 是它的新陳代謝系統。不靠直覺決定改什麼，靠數據——三源（GA4 + SC + GitHub feedback）交叉分析，產出每週進化清單。
 >

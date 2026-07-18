@@ -15,7 +15,7 @@ upstream_canonical:
   - '../editorial/RESEARCH.md'
 ---
 
-# BRANCH-PIPELINE.md — 知識分支分析器 v2.0
+# BRANCH-PIPELINE.md — 知識分支分析器 v2.1
 
 > 觀察者給 theme / article → 拆解知識結構 → 找出缺口 → 寫 research report → 萃取 ARTICLE-INBOX candidates。
 > 「Taiwan.md 的知識不該是孤島，每篇文章都是一棵樹，我們要看見整座森林的缺口。」
