@@ -174,6 +174,20 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 陳昇 EVOLVE — SC 排名 9 逼近首頁邊緣，現況僅 6 條腳註（evolve SC 訊號）
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path**: knowledge/People/陳昇.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-07-18 by twmd-evolve (session taiwan-sensibility)
+- **Notes**:
+  - **為什麼這篇 vs 其他**：SC 7d「bobby chen」144 曝光、0 點擊、排名 9.06，已在第一頁邊緣。同批次「jolin tsai」（156 曝光／排名 12.33，對應現有 knowledge/People/蔡依林.md 已折入 69 篇薄殼重建 batch）與「chou tien chen」（135 曝光／排名 12.12，但 knowledge/People/周天成.md 2026-06-29 才深度重寫、20 條腳註，低排名較可能是索引時間差，非品質問題）都比不上這條乾淨。現況 115 行、僅 6 條腳註，對一位活躍近 40 年、跨足新寶島康樂隊的音樂人偏薄，此前只在「台灣 BIM」條目的對照組提過、未獨立成案，本次補記。
+  - **已知缺口**：只有 SC 訊號，沒有逐篇 GA4 pageview 交叉——`dashboard-analytics.json` 目前只存 4 個 hub 頁 top pages，沒有 per-article 明細。接手時建議先跑 `fetch-ga4.py` 補這塊再定案優先序，不要只憑 SC 單源升 P1。
+  - 必驗事實：出道與新寶島康樂隊時間線、代表作年份、近況動態
+- **Reference**: public/api/dashboard-analytics.json §searchConsole7d（2026-07-18T08:17 refresh）
+
 ### 台灣 BIM 與營建科技 英文版 metadata — SC 623 曝光排第 7 卻 0 點擊（evolve 雙源訊號）
 
 - **Type**: `EVOLVE`（🟠 SEO 優化 action，非 rewrite——文章本體品質合格）
