@@ -2,15 +2,15 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-07-17",
+    "last_census": "2026-07-18",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 389965,
-      "users": 190977
+      "views": 392355,
+      "users": 192483
     },
     "dev_noise": {
-      "views": 11319,
+      "views": 11361,
       "users": 156
     },
     "verified_by": "background agent 2026-06-25 (VERIFIED/INFERRED 標記),GA data 主 session 驗",
@@ -283,39 +283,6 @@
       "first_seen": "2026-07"
     },
     {
-      "id": "weilinlai719-taiwan-md",
-      "label": "weilinlai719/taiwan-md (vanilla)",
-      "hostnames": ["weilinlai719.github.io"],
-      "title_brands": [],
-      "type": "place-keeper (未改的台灣複本)",
-      "topic": "Taiwan (unchanged upstream copy)",
-      "language": "zh-TW + en",
-      "github": "weilinlai719/taiwan-md",
-      "who": "weilinlai719 — 台灣 hobbyist (INFERRED; 鄰接 repo earth-science-explore/luckydraw)",
-      "network_fork": true,
-      "credits_upstream": "inherited vanilla footer (= 原版的 credit,非新 attribution)",
-      "cognitive_layer": "no",
-      "ga_leaking": true,
-      "deployment": "GitHub Pages (project subpath)",
-      "content_articles": "~400 (近完整複本)",
-      "health": "abandoned",
-      "last_push": "2026-03-26",
-      "first_seen": "2026-03",
-      "last_seen": "2026-07",
-      "ga": {
-        "window": "365daysAgo",
-        "views": 10,
-        "users": 10
-      },
-      "title_ga": {
-        "window": "365daysAgo",
-        "views": 0,
-        "users": 0
-      },
-      "confidence": "high (status); medium (who)",
-      "notes": "創 3/19 棄 3/26,一週內放棄。未改 vanilla 複本"
-    },
-    {
       "id": "portaly.cc",
       "label": "portaly.cc",
       "hostnames": ["portaly.cc"],
@@ -334,8 +301,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 2,
-        "users": 1
+        "views": 13,
+        "users": 10
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -369,11 +336,44 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 2,
-        "users": 1
+        "views": 13,
+        "users": 10
       },
       "last_seen": "2026-07",
       "first_seen": "2026-07"
+    },
+    {
+      "id": "weilinlai719-taiwan-md",
+      "label": "weilinlai719/taiwan-md (vanilla)",
+      "hostnames": ["weilinlai719.github.io"],
+      "title_brands": [],
+      "type": "place-keeper (未改的台灣複本)",
+      "topic": "Taiwan (unchanged upstream copy)",
+      "language": "zh-TW + en",
+      "github": "weilinlai719/taiwan-md",
+      "who": "weilinlai719 — 台灣 hobbyist (INFERRED; 鄰接 repo earth-science-explore/luckydraw)",
+      "network_fork": true,
+      "credits_upstream": "inherited vanilla footer (= 原版的 credit,非新 attribution)",
+      "cognitive_layer": "no",
+      "ga_leaking": true,
+      "deployment": "GitHub Pages (project subpath)",
+      "content_articles": "~400 (近完整複本)",
+      "health": "abandoned",
+      "last_push": "2026-03-26",
+      "first_seen": "2026-03",
+      "last_seen": "2026-07",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 10,
+        "users": 10
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "confidence": "high (status); medium (who)",
+      "notes": "創 3/19 棄 3/26,一週內放棄。未改 vanilla 複本"
     },
     {
       "id": "(ephemeral-experiments)",

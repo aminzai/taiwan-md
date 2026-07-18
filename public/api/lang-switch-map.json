@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T03:00:13.961Z",
-  "languages": ["en", "ja", "ko", "es", "fr"],
-  "total_entries": 12426,
+  "generated_at": "2026-07-18T22:11:17.868Z",
+  "languages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
+  "total_entries": 12421,
   "registry": {
     "en": {
       "toZh": {
@@ -450,7 +450,6 @@
         "/en/nature/taiwan-marine-conservation-challenges": "/nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E4%BF%9D%E8%82%B2%E8%88%87%E6%8C%91%E6%88%B0",
         "/en/nature/taiwan-marine-ecology-and-coral-conservation": "/nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E7%94%9F%E6%85%8B%E8%88%87%E7%8F%8A%E7%91%9A%E7%A4%81%E4%BF%9D%E8%82%B2",
         "/en/nature/taiwan-marine-ecology": "/nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E7%94%9F%E6%85%8B",
-        "/en/nature/taiwan-mei-yu-season": "/nature/%E6%A2%85%E9%9B%A8",
         "/en/nature/taiwan-mountains-and-hiking-culture": "/nature/%E5%8F%B0%E7%81%A3%E5%B1%B1%E5%B2%B3%E8%88%87%E7%99%BB%E5%B1%B1%E6%96%87%E5%8C%96",
         "/en/nature/taiwan-pangolin": "/nature/%E5%8F%B0%E7%81%A3%E7%A9%BF%E5%B1%B1%E7%94%B2",
         "/en/nature/taiwanese-black-bear": "/nature/%E5%8F%B0%E7%81%A3%E9%BB%91%E7%86%8A",
@@ -2950,7 +2949,6 @@
         "/ja/nature/malayan-night-heron": "/nature/%E9%BB%91%E5%86%A0%E9%BA%BB%E9%B7%BA",
         "/ja/nature/marine-pollution-governance-and-conservation": "/nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E6%B1%A1%E6%9F%93%E6%B2%BB%E7%90%86%E8%88%87%E4%BF%9D%E8%82%B2%E6%8C%91%E6%88%B0",
         "/ja/nature/meiyu-stagnant-front": "/nature/%E6%A2%85%E9%9B%A8",
-        "/ja/nature/taiwan-mei-yu-season": "/nature/%E6%A2%85%E9%9B%A8",
         "/ja/nature/national-parks": "/nature/%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92",
         "/ja/nature/orchid-island-ecosystem": "/nature/%E8%98%AD%E5%B6%BC%E7%94%9F%E6%85%8B%E7%B3%BB",
         "/ja/nature/palakaw": "/nature/Palakaw",
@@ -5440,7 +5438,6 @@
         "/ko/nature/malayan-night-heron": "/nature/%E9%BB%91%E5%86%A0%E9%BA%BB%E9%B7%BA",
         "/ko/nature/marine-pollution-governance-and-conservation": "/nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E6%B1%A1%E6%9F%93%E6%B2%BB%E7%90%86%E8%88%87%E4%BF%9D%E8%82%B2%E6%8C%91%E6%88%B0",
         "/ko/nature/meiyu-stagnant-front": "/nature/%E6%A2%85%E9%9B%A8",
-        "/ko/nature/taiwan-mei-yu-season": "/nature/%E6%A2%85%E9%9B%A8",
         "/ko/nature/national-parks": "/nature/%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92",
         "/ko/nature/orchid-island-ecosystem": "/nature/%E8%98%AD%E5%B6%BC%E7%94%9F%E6%85%8B%E7%B3%BB",
         "/ko/nature/palakaw": "/nature/Palakaw",
@@ -7925,7 +7922,6 @@
         "/es/nature/malayan-night-heron": "/nature/%E9%BB%91%E5%86%A0%E9%BA%BB%E9%B7%BA",
         "/es/nature/marine-pollution-governance-and-conservation": "/nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E6%B1%A1%E6%9F%93%E6%B2%BB%E7%90%86%E8%88%87%E4%BF%9D%E8%82%B2%E6%8C%91%E6%88%B0",
         "/es/nature/meiyu-stagnant-front": "/nature/%E6%A2%85%E9%9B%A8",
-        "/es/nature/taiwan-mei-yu-season": "/nature/%E6%A2%85%E9%9B%A8",
         "/es/nature/national-parks": "/nature/%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92",
         "/es/nature/orchid-island-ecosystem": "/nature/%E8%98%AD%E5%B6%BC%E7%94%9F%E6%85%8B%E7%B3%BB",
         "/es/nature/palakaw": "/nature/Palakaw",
@@ -10408,7 +10404,6 @@
         "/fr/nature/malayan-night-heron": "/nature/%E9%BB%91%E5%86%A0%E9%BA%BB%E9%B7%BA",
         "/fr/nature/marine-pollution-governance-and-conservation": "/nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E6%B1%A1%E6%9F%93%E6%B2%BB%E7%90%86%E8%88%87%E4%BF%9D%E8%82%B2%E6%8C%91%E6%88%B0",
         "/fr/nature/meiyu-stagnant-front": "/nature/%E6%A2%85%E9%9B%A8",
-        "/fr/nature/taiwan-mei-yu-season": "/nature/%E6%A2%85%E9%9B%A8",
         "/fr/nature/national-parks": "/nature/%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92",
         "/fr/nature/orchid-island-ecosystem": "/nature/%E8%98%AD%E5%B6%BC%E7%94%9F%E6%85%8B%E7%B3%BB",
         "/fr/nature/palakaw": "/nature/Palakaw",
@@ -12458,6 +12453,22 @@
         "/technology/%E8%95%83%E8%96%AF%E8%97%A4": "/fr/technology/yam-yam-taiwan-portal",
         "/technology/蕃薯藤": "/fr/technology/yam-yam-taiwan-portal"
       }
+    },
+    "vi": {
+      "toZh": {},
+      "fromZh": {}
+    },
+    "id": {
+      "toZh": {},
+      "fromZh": {}
+    },
+    "pt": {
+      "toZh": {},
+      "fromZh": {}
+    },
+    "hi": {
+      "toZh": {},
+      "fromZh": {}
     }
   }
 }

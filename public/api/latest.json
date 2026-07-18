@@ -1,8 +1,71 @@
 {
-  "_generated": "2026-07-18T03:00:26.457Z",
+  "_generated": "2026-07-18T22:11:30.885Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台灣聲景：垃圾車的古典樂、捷運的鳥鳴，和一座只聽見卻很少聆聽的島",
+        "desc": "同一年，台北捷運一邊找雷光夏、李欣芸把進站音樂變成藝術，一邊把關門警示音的旋律拿掉、改回鳥鳴聲。聲音同時被美學化與功能化。台灣用《噪音管制法》要消除的這些聲音，其實是我們辨認「這裡是家」的地標。一個聲景研究碩士的提問：理解台灣，可以從問「我們習慣忽略什麼聲音」開始。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E8%81%B2%E6%99%AF",
+        "date": "2026-07-18T12:09:19+08:00",
+        "readingTime": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg"
+      },
+      {
+        "title": "台灣聲音地景",
+        "desc": "從垃圾車的致愛麗絲到布農族八部合音——用耳朵認識台灣",
+        "category": "music",
+        "href": "/music/%E5%8F%B0%E7%81%A3%E8%81%B2%E9%9F%B3%E5%9C%B0%E6%99%AF",
+        "date": "2026-07-18T12:09:19+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "國民政府遷台與戰後重建",
+        "desc": "嚴家淦從福建走來，見證 1949 年國民政府遷台的歷史。120 萬軍民、38 年戒嚴、土地改革——這段歷史如何重塑台灣？",
+        "category": "history",
+        "href": "/history/%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0%E8%88%87%E6%88%B0%E5%BE%8C%E9%87%8D%E5%BB%BA",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "金瓜石：一座山上疊起來的許多層命，從砂金、戰俘到還沒洗乾淨的砷土",
+        "desc": "1942 年 11 月 14 日，523 名盟軍戰俘走進金瓜石的銅礦坑，開始一段有人熬了三年、有人沒能走出來的日子。這座山被記得的方式，多半是十三層遺址的橘黃夜燈、可以摸的 220 公斤大金磚、去九份順路繞來的秘境海景。但同一座山也埋著本地礦工用肺換來的金、五百多個外國戰俘的骨、和一片至今尚未整治完成的砷土。把這些一起看見，才看見整座金瓜石。",
+        "category": "geography",
+        "href": "/geography/%E9%87%91%E7%93%9C%E7%9F%B3",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": 24,
+        "image": "/article-images/geography/jinguashi-13-levels-lighting-2019.webp"
+      },
+      {
+        "title": "台灣股市與資本市場：從 1990 萬點崩盤到 2026 全球第 6 大，44% 身家壓在一檔上的島嶼",
+        "desc": "2026 年 4 月 28 日彭博跳出「Taiwan Overtakes Canada」。一個曾在 1990 年萬點崩盤帶走十六萬人退休金的島嶼，三十六年後攻上全球第 6 大股市——但市值 4.47 兆美元裡，接近一半壓在一家半導體公司身上。",
+        "category": "economy",
+        "href": "/economy/%E5%8F%B0%E7%81%A3%E8%82%A1%E5%B8%82%E8%88%87%E8%B3%87%E6%9C%AC%E5%B8%82%E5%A0%B4",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "經濟奇蹟：從地瓜簽到台積電，兩千萬人拼出來的翻身故事",
+        "desc": "1950年代初，台灣平均每人所得只有一百多美元，一位農家女兒的「好日子」是地瓜簽配三成白米。四十年後，台灣人均所得突破萬美元，躋身「亞洲四小龍」。但這段翻身史的起點不是加工出口區，是一場把地契換成機會的土地改革——中間還有每天工作12小時的女工、把全家積蓄押進小工廠的老闆，和一場外匯存底只有10億美元卻砸下兩千億的豪賭。",
+        "category": "economy",
+        "href": "/economy/%E7%B6%93%E6%BF%9F%E5%A5%87%E8%B9%9F",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": 15,
+        "image": "/article-images/economy/kaohsiung-epz-inauguration-1966.webp"
+      },
+      {
+        "title": "發票：1951 年那張把全民變成稅務稽查員的紙",
+        "desc": "1951 年元旦，38 歲的財政廳長任顯群把抽獎號碼印上收據，讓消費者的貪念替國家看住了店家有沒有報稅，一年就把營業稅收拉高七成五。七十多年後，這套設計比它的發明人活得久、比它誕生時的威權統治都活得久——直到 2024 年一場程式碼風波，才第一次讓人問出口：這套系統憑什麼還值得相信？",
+        "category": "economy",
+        "href": "/economy/%E7%99%BC%E7%A5%A8",
+        "date": "2026-07-18T11:03:19+08:00",
+        "readingTime": 14,
+        "image": "/article-images/economy/invoice-tk3c-receipt-2007.webp"
+      },
       {
         "title": "波特王 — 從「撩妹」娛樂到「粉紅」獵手，在法律與主權間掙扎的數位博弈者",
         "desc": "波特王（陳加晉）的職業生涯演化，紀錄了台灣創作者從兩岸商業紅利的收割者，轉型為數位主權防禦者的過程，同時揭示了創作者與資本體系長期糾纏的法律、產權與財務複雜性。",
@@ -38,15 +101,6 @@
         "date": "2026-07-18T10:49:15+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "發票：1951 年那張把全民變成稅務稽查員的紙",
-        "desc": "1951 年元旦，38 歲的財政廳長任顯群把抽獎號碼印上收據，讓消費者的貪念替國家看住了店家有沒有報稅，一年就把營業稅收拉高七成五。七十多年後，這套設計比它的發明人活得久、比它誕生時的威權統治都活得久——直到 2024 年一場程式碼風波，才第一次讓人問出口：這套系統憑什麼還值得相信？",
-        "category": "economy",
-        "href": "/economy/%E7%99%BC%E7%A5%A8",
-        "date": "2026-07-18T10:49:15+08:00",
-        "readingTime": 14,
-        "image": "/article-images/economy/invoice-tk3c-receipt-2007.webp"
       },
       {
         "title": "江振誠：他從來不等一件事被定義死，就先轉身",
@@ -218,63 +272,45 @@
         "date": "2026-07-17T15:40:32+08:00",
         "readingTime": 18,
         "image": "/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp"
-      },
-      {
-        "title": "台灣人工智慧實驗室 (Taiwan AI Labs)",
-        "desc": "由「PTT之父」杜奕瑾2017年3月創立的非營利AI研究機構。開源模型：TAIDE（繁體中文大型語言模型）、TAME、FedGPT，超過600億token繁體中文語料。專注智慧醫療、認知戰防制。COVID社交距離App（去中心化藍牙）。",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%AF%A6%E9%A9%97%E5%AE%A4",
-        "date": "2026-07-17T15:40:32+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "開放文化基金會：幫台灣最不受控的一群人，做最無聊的那件事",
-        "desc": "2020 年口罩地圖三天上線，全台灣都記得那個奇蹟，沒人記得是誰幫專案報帳、簽約、報勞健保。那個後台叫開放文化基金會——一場喊著「沒有人是萬能的」的去中心化運動，為了讓黑客繼續黑客，最後得自己長出一個會開發票、受董事會約束的財團法人。十年後，這個只想幫人報帳的後台，成了台灣在國際上談數位人權時會被想起的名字。",
-        "category": "technology",
-        "href": "/technology/%E9%96%8B%E6%94%BE%E6%96%87%E5%8C%96%E5%9F%BA%E9%87%91%E6%9C%83",
-        "date": "2026-07-17T15:40:32+08:00",
-        "readingTime": 13,
-        "image": "/article-images/technology/ocf-open-freedom-share-poster.webp"
-      },
-      {
-        "title": "台灣高等教育的擴張與退場：從 58 所大學到 148 所，然後開始關門",
-        "desc": "1994 年四一〇遊行喊出廣設大學，不到二十年，大學校院從 58 所膨脹到 148 所，淨在學率衝破七成。然後少子化的牆到了：學生數 2012 年到頂，退場條例卻等到 2022 年才立法。高鳳、永達、稻江先後熄燈，永達安置的學生近三分之一沒走到畢業，退場教師轉職成功率 14%。這是一場只設計了開門的實驗——關門的規則遲到了十年，紅利真實而分散，帳單落在最沒有選擇的人身上。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E7%81%A3%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E6%93%B4%E5%BC%B5%E8%88%87%E9%80%80%E5%A0%B4",
-        "date": "2026-07-17T11:49:24+08:00",
-        "readingTime": 20,
-        "image": "/article-images/society/yungta-gate-2013.webp"
-      },
-      {
-        "title": "大罷免：三十三案全數未過的史上最大罷免潮，量出台灣民主的每一道刻度",
-        "desc": "2025 年 7 月 26 日深夜，全台三分之一選區同時開票，25 案罷免全數未過。從青鳥行動到宣稱逾 130 萬人次的連署、三波投票 33 案掛零，這場台灣史上規模最大的罷免潮沒有罷掉任何一個人，卻把民主的動員能量、門檻的高度與極化的代價，第一次同時量了出來。",
-        "category": "history",
-        "href": "/history/%E5%A4%A7%E7%BD%B7%E5%85%8D",
-        "date": "2026-07-16T21:50:29+08:00",
-        "readingTime": 22,
-        "image": "/article-images/history/recall-bluebird-legislative-yuan-2024.webp"
-      },
-      {
-        "title": "吉祥物：從黑熊迷戀到諧音救贖的文化策展",
-        "desc": "2013 年「喔熊」誕生開啟台灣吉祥物戰國時代。從全台黑熊大亂鬥、醜到登美國脫口秀的「虱目魚小子」，到年收上億的「福利熊」與在議會備詢的「熊讚」，台灣吉祥物正從政府宣傳工具演化為具備靈魂與社會共鳴的文化符號。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%90%89%E7%A5%A5%E7%89%A9",
-        "date": "2026-07-16T21:08:17+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "史前時代與原住民：長濱2-3萬年到南島語族擴散起點",
-        "desc": "台灣最早的人類活動是約2-3萬年前的長濱文化（舊石器時代，八仙洞遺址）；官方認定的原住民族有16族。現存南島語10大分支有9支在台灣，讓它被視為南島語族可能的發源地之一；2024年最新研究指出台灣移出約佔20%、另有印尼擴散路徑，學術共識仍在形成。17世紀已有大肚王國跨部落聯盟，十三行文化則開啟鐵器時代。",
-        "category": "history",
-        "href": "/history/%E5%8F%B2%E5%89%8D%E6%99%82%E4%BB%A3%E8%88%87%E5%8E%9F%E4%BD%8F%E6%B0%91",
-        "date": "2026-07-16T16:43:39+08:00",
-        "readingTime": 7,
-        "image": ""
       }
     ],
     "en": [
+      {
+        "title": "Taiwan's Sound Landscape: Garbage Truck Melodies, Temple Festivals, and Bunun Polyphony",
+        "desc": "Why do Taiwan's garbage trucks play Für Elise? A guided tour of the island's sounds — temple firecrackers, night-market calls, MRT station melodies, and Bunun eight-part polyphony.",
+        "category": "music",
+        "href": "/en/music/taiwan-soundscape",
+        "date": "2026-07-18T12:09:19+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "The KMT Government's Relocation to Taiwan and Postwar Reconstruction",
+        "desc": "Yen Chia-kan came from Fujian and witnessed the history of the KMT government's 1949 relocation to Taiwan. 1.2 million soldiers and civilians, 38 years of martial law, land reform: how did this history reshape Taiwan?",
+        "category": "history",
+        "href": "/en/history/kmt-government-relocation-and-postwar-reconstruction",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "Jinguashi: Many Layers of Lives Stacked on One Mountain—from Alluvial Gold and POWs to Arsenic Soil Still Not Cleaned",
+        "desc": "On November 14, 1942, 523 Allied POWs walked into the copper mines of Jinguashi, beginning a period where some endured for three years while others never made it out. This mountain is remembered mostly through the orange night lights of the Thirteen Levels Ruins, the 220-kilogram gold brick you can touch, and the secluded sea views when detouring from Jiufen to nearby spots. But this same mountain also buries gold earned by local miners at the cost of their lungs, bones of over five hundred foreign POWs, and a patch of arsenic soil that remains unremediated today. Only seeing these together reveals the full Jinguashi.",
+        "category": "geography",
+        "href": "/en/geography/jinguashi",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": "24",
+        "image": ""
+      },
+      {
+        "title": "Taiwan’s Stock Market and Capital Market: From the 1990 Collapse at 10,000 Points to the World’s Sixth Largest in 2026, an Island with 44% of Its Net Worth Staked on One Stock",
+        "desc": "On April 28, 2026, Bloomberg flashed the headline “Taiwan Overtakes Canada.” An island whose 1990 collapse from the 10,000-point level wiped out the retirement savings of 160,000 people climbed, thirty-six years later, to become the world’s sixth-largest stock market — but of its US$4.47 trillion in market capitalization, nearly half rested on a single semiconductor company.",
+        "category": "economy",
+        "href": "/en/economy/taiwan-stock-market",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
       {
         "title": "The Perpetual Donation Machine: FAB DAO and the Project % Social Experiment",
         "desc": "How did a physician who quit his job use a flag made of press-on balls to open up an entirely new vision for Web3 philanthropy in Taiwan. FAB DAO and Project % have redefined the nature of donation: collecting is donating, art is social action.",
@@ -508,45 +544,36 @@
         "date": "2026-06-19T11:09:34+08:00",
         "readingTime": 18,
         "image": ""
-      },
+      }
+    ],
+    "ja": [
       {
-        "title": "Semiconductor Industry: Fifty Years of Materials Revolution from RCA Technology Transfer to Gallium Nitride and Quantum Packaging",
-        "desc": "Taiwan's sacred mountain protecting the nation dominates global advanced process manufacturing through foundry services, but the gallium nitride inside fast chargers, the CoWoS beneath AI chips, and the dilution refrigerators above qubits show that the next fifty-year battleground in materials science has only just opened.",
-        "category": "technology",
-        "href": "/en/technology/taiwan-semiconductor-industry",
-        "date": "2026-06-13T18:23:15+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "The Reporter: Ten Years of Turning Investigative Journalism from a Line of Business into a Public Good",
-        "desc": "From 4 recurring donors to 8,000 each month, from the Blood-Stained Fishing Grounds trilogy to the 2026 united-front special report, the costs The Reporter has burned through over a decade--eight months undercover, reporting across three countries, comparing years of violation records--are exactly the things people least want to pay to read in the algorithmic age. Taiwan's civil society, through monthly deductions from strangers' accounts, has rescued investigative journalism from a line of business in commercial media and turned it into a public good that is constantly being sustained, even as it burns through resources ever faster.",
-        "category": "society",
-        "href": "/en/society/the-reporter-investigative-journalism",
-        "date": "2026-06-10T12:21:10+08:00",
+        "title": "台湾島史観：繰り返し統治されてきた島は、いかにして自らの主体性を発明したのか",
+        "desc": "台湾は大陸帝国の最後のピースではなく、太平洋の海洋ネットワークにおける最初の礎石です。曹永和の「以地範史」から出発し、この島の生命力を改めて理解します。",
+        "category": "history",
+        "href": "/ja/history/taiwan-island-historiography",
+        "date": "2026-07-18T11:06:05+08:00",
         "readingTime": null,
         "image": ""
       },
       {
-        "title": "2026 Nine-in-One Elections: Stress Testing Democratic Infrastructure in the Age of AI Cognitive Warfare",
-        "desc": "On November 28, 2026, all 22 cities and counties across Taiwan will simultaneously open polling stations to elect nine categories of office, filling over 11,000 elected executive and representative positions. This election is unlike any before — the difference is not the candidates, but the environment in which it takes place: the CCP's escalation of state-level AI cognitive warfare, 123+ spoofed news websites, and prosecutors listing AI disinformation as one of four key election investigation priorities. This is not an election information roundup — it is a historical positioning and structural pressure analysis of this election.",
-        "category": "politics",
-        "href": "/en/politics/2026-local-elections-taiwan",
-        "date": "2026-06-10T12:21:10+08:00",
-        "readingTime": 16,
+        "title": "金瓜石：砂金、戦俘、そして未だ洗われぬ砒素土が重なる、一つの山に重ねられた多くの命",
+        "desc": "1942年11月14日、523名の連合軍捕虜が金瓜石の銅鉱坑へ足を踏み入れ、ある者は3年間耐え抜き、ある者は帰らぬ人となった日々が始まった。この山が記憶される方法は、十三層遺跡のオレンジ色の夜景灯、触れることのできる220kgの大金塊、九份へ向かう途中に寄る秘境の海景であることが多い。しかし、同じ山には地元鉱夫が肺と引き換えた金、500人以上の外国捕虜の骨、そして今も復旧が完了していない砒素土が眠っている。これらをすべて見るとき、初めて金瓜石全体が見えてくる。",
+        "category": "geography",
+        "href": "/ja/geography/jinguashi",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": "24",
         "image": ""
       },
       {
-        "title": "The Councilor System: Why It Differs from the Legislator System, and SNTV's 30 Years in Local Politics",
-        "desc": "In 2008, legislators switched to the single-member district two-vote system, while that same year's city and county councilor elections still used the SNTV system from the 1980s — the same country, the same voters, different offices on the same ballot, yet governed by two entirely different sets of rules. This is not a bug; it is the greatest unfinished business in Taiwan's electoral reform history, bound up with local factions, party interests, and the costs of complementary reforms. A structural map of how the two systems operate, why one was reformed and the other was not, and what this means for small parties and diverse representation.",
-        "category": "politics",
-        "href": "/en/politics/city-councilor-system-taiwan",
-        "date": "2026-06-10T12:21:10+08:00",
-        "readingTime": 12,
+        "title": "台湾株式市場と資本市場：1990 年の万点崩落から 2026 年の世界第 6 位へ、資産の 44% を一銘柄に託す島",
+        "desc": "2026 年 4 月 28 日、Bloomberg に「Taiwan Overtakes Canada」という見出しが流れました。1990 年の万点崩落で 16 万人の退職金を失わせた島は、36 年後に世界第 6 位の株式市場へと上り詰めました。ただし時価総額 4.47 兆米ドルのうち、半分近くが一社の半導体企業に集中しています。",
+        "category": "economy",
+        "href": "/ja/economy/taiwan-stock-market",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": 16,
         "image": ""
-      }
-    ],
-    "ja": [
+      },
       {
         "title": "寄付の永久機関：FAB DAOと百岳計画の社会実験",
         "desc": "離職した医師が一枚の圧線球国旗を通じて、台湾のWeb3公益に新たな想像を切り拓いた。FAB DAOと百岳計画は寄付の本質を再定義する：収集すなわち寄付、芸術すなわち社会行動。",
@@ -581,15 +608,6 @@
         "href": "/ja/history/taiwan-democratization-history",
         "date": "2026-07-17T19:43:15+08:00",
         "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台湾島史観：繰り返し統治されてきた島は、いかにして自らの主体性を発明したのか",
-        "desc": "台湾は大陸帝国の最後のピースではなく、太平洋の海洋ネットワークにおける最初の礎石です。曹永和の「以地範史」から出発し、この島の生命力を改めて理解します。",
-        "category": "history",
-        "href": "/ja/history/taiwan-island-historiography",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": null,
         "image": ""
       },
       {
@@ -798,34 +816,25 @@
         "date": "2026-07-12T22:17:28+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "周蕙：25年にわたり〈約定〉を歌い続けた女性歌手、漫画の人形から台北アリーナまでの長距離走",
-        "desc": "1999年、福茂唱片は《周蕙精選》を発売し、ジャケットには本人の顔の代わりに「蕙兒」という漫画の人形を用いました。〈約定〉はあらゆるKTV（カラオケボックス）に入り、25年を歩みましたが、彼女本人は歌より一歩遅れて認識され続けました。福茂での5枚からBMGでの雪蔵、群石、華研を経て、2025年には自らプロデューサーを務めDiscoへ踏み込むまで、12枚のアルバムで26年を歩んできました。2026年4月25日、彼女は初めて台北アリーナの舞台に立ちましたが、コンサート終盤に声帯萎縮を公表し、「これが皆さんに歌を聴いていただく最後になるのかは分かりません」と語りました。",
-        "category": "music",
-        "href": "/ja/music/chou-hui",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "台湾ポップミュージック：世界のために花嫁衣装を仕立てた島に、最後に残ったのは他者が歌えないものを歌えることでした",
-        "desc": "1997年、台湾はアジア第2位のレコード市場であり、華語音楽圏の楽曲の8割がここで制作されていました。2005年には産業規模が4分の1に縮小し、市場は中国に追い抜かれ、全盛期の周杰倫でさえアルバム1枚の売上は30万枚にとどまりました。ほかの場所では、歌が歌詞の一節、旗の一枚、ひとつの忌避事項によって消されることがあります。規模で敗れたこの島は、「歌えるかどうか」そのものを、最後にして最も硬い切り札に変えたのです。",
-        "category": "music",
-        "href": "/ja/music/golden-melodies-legacy-taiwan-pop-music",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "ko": [
       {
-        "title": "기부 영구기관차: FAB DAO와 백악 프로젝트의 사회 실험",
-        "desc": "한 퇴직 의사가 어떻게 라인 터치 국기 하나로 대만 Web3 공익의 새로운 상상을 열었는가. FAB DAO와 백악 프로젝트는 기부의 본질을 재정의한다: 소장이 곧 기부이고, 예술이 곧 사회 행동이다.",
-        "category": "art",
-        "href": "/ko/art/fab-dao",
-        "date": "2026-07-17T20:06:47+08:00",
-        "readingTime": 8,
+        "title": "대만 섬 사관: 반복적으로 지배된 섬은 어떻게 자신의 주체성을 발명했는가",
+        "desc": "대만은 대륙 제국의 마지막 퍼즐 조각이 아니라 태평양 해양 네트워크의 첫 주춧돌이다. 차오융허의 ‘땅으로 역사를 규정한다’는 관점에서 출발해 이 섬의 생명력을 다시 이해한다.",
+        "category": "history",
+        "href": "/ko/history/taiwan-island-historiography",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "금과석(진궈스): 모래금에서 전포, 아직 씻겨지지 않은 비소 토양까지, 한 산 위에 겹겹이 쌓인 삶의 층위",
+        "desc": "1942년 11월 14일, 523명의 연합군 전포가 금과석의 구리 광산갱으로 들어섰다. 누군가는 3년을 견디고, 누군가는 그 산을 벗어나지 못한 날들이 시작되었다. 이 산이 기억되는 방식은 대부분 13층 유적지의 주황색 야간 조명, 만져볼 수 있는 220kg 금괴, 구펀을 들르는 길에 우연히 마주치는 비경 해안 풍경이다. 그러나 같은 산 아래에는 현지 광부가 폐를 대가로 바꾼 금, 500여 명의 외국 전포의 뼈, 그리고 아직 정화되지 않은 비소 토양이 묻혀 있다. 이것들을 함께 보아야 비로소 금과석 전체를 볼 수 있다.",
+        "category": "geography",
+        "href": "/ko/geography/jinguashi",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": "24",
         "image": ""
       },
       {
@@ -833,8 +842,17 @@
         "desc": "2026년 4월 28일 블룸버그에는 “Taiwan Overtakes Canada”라는 제목이 떴다. 1990년 1만 포인트 붕괴로 16만 명의 퇴직금을 앗아갔던 섬이 36년 뒤 세계 6위 주식시장에 올랐다. 그러나 시가총액 4조 4,700억 달러 가운데 거의 절반이 한 반도체 기업에 걸려 있다.",
         "category": "economy",
         "href": "/ko/economy/taiwan-stock-market",
-        "date": "2026-07-17T20:06:47+08:00",
+        "date": "2026-07-18T11:06:05+08:00",
         "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "기부 영구기관차: FAB DAO와 백악 프로젝트의 사회 실험",
+        "desc": "한 퇴직 의사가 어떻게 라인 터치 국기 하나로 대만 Web3 공익의 새로운 상상을 열었는가. FAB DAO와 백악 프로젝트는 기부의 본질을 재정의한다: 소장이 곧 기부이고, 예술이 곧 사회 행동이다.",
+        "category": "art",
+        "href": "/ko/art/fab-dao",
+        "date": "2026-07-17T20:06:47+08:00",
+        "readingTime": 8,
         "image": ""
       },
       {
@@ -1070,299 +1088,326 @@
         "date": "2026-07-12T22:17:28+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "저우후이: 25년 동안 〈약속〉을 불러온 여성 보컬, 만화 인형에서 타이베이 아레나까지의 장거리 주행",
-        "desc": "1999년 푸마오 레코드는 《저우후이 정선》을 발매하며, 표지에 본인의 얼굴 대신 후이얼이라는 만화 인형을 내세웠다. 〈약속〉은 모든 KTV와 25년의 시간을 통과했지만, 정작 그녀 자신은 늘 노래보다 한발 늦게 알아봐졌다. 푸마오에서의 다섯 장에서 BMG의 활동 중단, 군스와 화옌을 거쳐 2025년 직접 프로듀서를 맡아 Disco로 들어선 데까지, 12장의 앨범이 26년을 걸어왔다. 2026년 4월 25일 그녀는 처음으로 타이베이 아레나 무대에 섰고, 공연 말미에 성대 위축을 고백하며 “이것이 여러분께 노래를 들려드리는 마지막이 될지 모르겠다”고 말했다.",
-        "category": "music",
-        "href": "/ko/music/chou-hui",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "타이완 대중음악: 전 세계를 위해 혼수를 지어 주던 섬에, 끝내 남은 것은 남들이 부를 수 없는 것을 부를 자유",
-        "desc": "1997년 타이완은 아시아에서 두 번째로 큰 음반 시장이었고, 전 세계 중국어권 음악의 80%가 이곳에서 제작되었다. 2005년 산업 규모는 4분의 1로 줄었고, 시장은 중국에 추월당했으며, 저우제룬의 전성기 앨범조차 30만 장밖에 팔리지 않았다. 다른 곳의 노래가 가사 한 구절, 깃발 하나, 금기 하나 때문에 소거될 때, 규모에서 패한 이 섬은 ‘부를 수 있는가 없는가’ 자체를 마지막이자 가장 단단한 협상 카드로 바꾸었다.",
-        "category": "music",
-        "href": "/ko/music/golden-melodies-legacy-taiwan-pop-music",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "fr": [
       {
-        "title": "La machine à dons perpétuelle : l'expérience sociale de FAB DAO et du Projet Cent Sommets",
-        "desc": "Un médecin démissionnaire a utilisé un drapeau taïwanais « ballon sur la ligne » pour ouvrir une toute nouvelle imagination du Web3 caritatif à Taïwan. FAB DAO et le Projet Cent Sommets ont redéfini la nature du don : collectionner, c'est donner ; l'art, c'est l'action sociale.",
-        "category": "art",
-        "href": "/fr/art/fab-dao",
-        "date": "2026-07-17T20:06:47+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Le chant polyphonique Pasibutbut : un fossile vivant qui défie l'histoire occidentale de la musique",
-        "desc": "En 1943, le musicologue japonais Kurosawa Takatomo enregistre dans les montagnes de Taitung le Pasibutbut du peuple Bunun. Neuf ans plus tard, cet enregistrement parvient à l'UNESCO et stupéfie le monde académique : un peuple sans écriture avait développé une polyphonie chorale que l'Occident croyait réservée aux civilisations avancées.",
-        "category": "music",
-        "href": "/fr/music/bunun-pasibutbut-eight-part-polyphony",
-        "date": "2026-07-17T20:06:47+08:00",
-        "readingTime": null,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bunun_pasibutbut.jpg/1280px-Bunun_pasibutbut.jpg"
-      },
-      {
-        "title": "La culture du bénévolat et l'engagement d'intérêt public à Taïwan : la bonté quotidienne d'une île",
-        "desc": "30 femmes au foyer qui économisent cinquante centimes par jour, et 60 ans plus tard, un empire caritatif couvrant 128 pays — la culture du bénévolat taïwanais n'est pas un slogan, c'est un ADN collectif inscrit dans le quotidien",
-        "category": "society",
-        "href": "/fr/society/volunteering-and-civic-charity-in-taiwan",
-        "date": "2026-07-17T20:06:47+08:00",
+        "title": "Le Grand Référendum de Révocation — Quand la démocratie taïwanaise se teste elle-même",
+        "desc": "En 2025, la société civile taïwanaise a lancé le plus vaste mouvement de révocation de l'histoire du pays, visant des législateurs du Kuomintang responsables de lois jugées dangereuses pour la souveraineté nationale. Malgré une mobilisation sans précédent, les trois vagues de vote ont toutes échoué — laissant derrière elles une réflexion profonde sur les limites et la force de la démocratie directe.",
+        "category": "history",
+        "href": "/fr/history/great-recall-movement-2024",
+        "date": "2026-07-18T19:07:01+08:00",
         "readingTime": null,
         "image": ""
       },
       {
-        "title": "Za School: A Free Exhibition Funded by Bankrupt Savings, Opened by the Vice President 11 Years Later",
-        "desc": "In 2015, during the Huashan 1914 event, Su Yang-chih used 1.5 million in profit from his design company to host the 'Not Quite Obedient Education Festival,' ultimately losing 7 million. Eleven years later, Za School moved into the Taipei International Convention Center at Yuanshan Flower Expo to co-host IDEC, and rebranded as 'EDit' to settle in the Taoyuan Convention Center. This Taiwan case, which grew from a free, rebellious exhibition into Asia's largest education expo, is most interesting not for its scale, but for whether its 'not quite obedient' spirit has been compromised after growing so large.",
-        "category": "society",
-        "href": "/fr/society/za-share",
-        "date": "2026-07-17T20:06:47+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Autoroutes : de la MacArthur Highway au tunnel de Xueshan, cinquante ans de pouvoir et de vitesse sur les routes nationales taïwanaises",
-        "desc": "En 1964, la MacArthur Highway ne comptait que 23 kilomètres ; aujourd'hui, le réseau autoroutier de Taïwan dépasse les 1 000 kilomètres. De la Chiang Kai-shek Expressway décidée par Chiang Ching-kuo, à la Formosa Highway moquée comme « route politique », au tunnel de Xueshan, l'un des plus difficiles à creuser au monde, jusqu'au système ETC qui a transformé les habitudes de paiement de chaque conducteur — chaque bande d'asphalte enregistre la volonté politique, les limites de l'ingénierie et les résistances populaires du Taïwan d'après-guerre.",
-        "category": "lifestyle",
-        "href": "/fr/lifestyle/national-highway-system",
-        "date": "2026-07-17T20:06:47+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "Mei-yu à Taiwan : de la pluie dévastatrice de 1981 qui noya Taoyuan et Taipei à l'expérience scientifique qui fit venir des Américains sur l'île",
-        "desc": "Le 28 mai 1981 au matin, un front de pluies Mei-yu dévasta simultanément la région Taoyuan-Hsinchu-Miaoli et le Grand Taipei, avec des précipitations horaires dépassant 140 mm à Gongguan. Six ans plus tard, le projet TAMEX mobilisa plus de 125 scientifiques américains et taïwanais qui poursuivirent les fronts pluvieux avec un NOAA P-3, 3 navires d'observation et 3 radars Doppler. Quarante ans après, ce front stagnant qui arrive ponctuellement chaque mai et juin reste à la fois l'artère vitale qui alimente en eau potable 23 millions de personnes et le facteur susceptible d'inonder une ville entière.",
-        "category": "nature",
-        "href": "/fr/nature/meiyu-stagnant-front",
-        "date": "2026-07-17T19:44:57+08:00",
-        "readingTime": 20,
-        "image": ""
-      },
-      {
-        "title": "La culture taïwanaise du manga et de l'animation",
-        "desc": "Doraemon, Slam Dunk et Sailor Moon étaient le langage commun des adolescents taïwanais dans les années 1980-1990 ; le Fancy Frontier (FF), le plus grand salon de doujinshi de Taïwan, a tenu plus de 40 éditions depuis 1999 et attire plus de cent mille visiteurs par événement ; les cercles de doujinshi et de cosplay ont formé les créateurs de Detention et Devotion — la culture taïwanaise du manga et de l'animation n'est pas une imitation du divertissement importé, c'est la mémoire commune et le terreau créatif de deux générations.",
-        "category": "culture",
-        "href": "/fr/culture/taiwan-anime-culture",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "La culture du thé à Taïwan",
-        "desc": "Une petite île exclue des accords internationaux de limitation de la production théicole a ainsi créé son âge d'or du thé, avant de conquérir le monde entier avec une tasse de lait aromatisé garnie de petites « perles »",
-        "category": "food",
-        "href": "/fr/food/golden-age-echoes-taiwan-tea-culture",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 12,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg"
-      },
-      {
-        "title": "Le Musée d'Art Contemporain Jin-Ma Bin-Guan",
-        "desc": "Une ancienne gare militaire de la Guerre froide, témoin d'innombrables adieux et retrouvailles, réveillée après vingt ans de sommeil par un père et sa fille — aujourd'hui classée premier musée d'art de Kaohsiung par le Lonely Planet.",
-        "category": "art",
-        "href": "/fr/art/alien-art-centre",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 10,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg/800px-%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg"
-      },
-      {
-        "title": "Le développement de la sculpture contemporaine à Taïwan",
-        "desc": "De Yang Yingfeng et Zhu Ming aux nouvelles générations, explorer la trajectoire d'évolution et l'esprit créatif de l'art sculptural taïwanais",
-        "category": "art",
-        "href": "/fr/art/development-of-contemporary-taiwanese-sculpture",
-        "date": "2026-07-17T19:43:15+08:00",
+        "title": "Le repli du gouvernement nationaliste à Taïwan et la reconstruction d'après-guerre",
+        "desc": "Yan Chia-kan a quitté le Fujian pour assister à l'exil du gouvernement nationaliste en 1949. 1,2 million de civils et soldats, 38 ans de loi martiale, réforme agraire — comment cette période a-t-elle redessiné Taïwan ?",
+        "category": "history",
+        "href": "/fr/history/kmt-government-relocation-and-postwar-reconstruction",
+        "date": "2026-07-18T19:07:01+08:00",
         "readingTime": 18,
         "image": ""
       },
       {
-        "title": "L'architecture de Taïwan",
-        "desc": "Des maisons en ardoise aux gratte-ciel : un voyage dans le temps architectural d'une île",
-        "category": "art",
-        "href": "/fr/art/taiwanese-architecture",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 15,
+        "title": "Les villages militaires de Taïwan — mémoire d'un exil fondateur",
+        "desc": "Des soldats perdus en Birmanie aux royaumes de bambou : comment 1,2 million de réfugiés ont réinventé l'idée de \"chez soi\" à Taïwan",
+        "category": "history",
+        "href": "/fr/history/taiwan-military-dependents-villages-history",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 12,
         "image": ""
       },
       {
-        "title": "La bande dessinée taïwanaise",
-        "desc": "Des années 1970, ère du « royaume de la BD » avec Liu Xingqin et Aoxiang, à la conquête du Japon par Zheng Wen en 1991 — sacré « trésor de l'Asie » —, en passant par la philosophie classique mise en images par Cai Zhizhong dans *Zhuangzi*, puis le Golden Comic Award en 2010 et la plateforme CCC en 2017 : la bande dessinée taïwanaise a traversé une longue traversée du désert face à la déferlante manga, et retrouve aujourd'hui sa voix créatrice.",
-        "category": "art",
-        "href": "/fr/art/taiwanese-comics-and-illustration",
-        "date": "2026-07-17T19:43:15+08:00",
+        "title": "La justice transitionnelle à Taïwan",
+        "desc": "Taïwan a annulé près de six mille condamnations prononcées sous le régime autoritaire, mais presque aucun bourreau n'a eu à rendre de comptes — cet écart est plus difficile à expliquer que la Terreur blanche elle-même.",
+        "category": "history",
+        "href": "/fr/history/taiwan-transitional-justice",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "Les 19 vaches du mont擎天崗 : de la race Genyuan au bouillon de bœuf de Tainan, l'odyssée d'une île vers l'autonomie bovine",
+        "desc": "Taïwan importe plus de 95 % de son bœuf, mais en 2024 elle a vu naître sa toute première race bovine reconnue officiellement. L'histoire des vaches Genyuan est celle d'un homme de 94 ans, de 19 bêtes noires sauvages et d'un bol de soupe fumante servi aux aurores — un scénario d'émancipation industrielle contre toute attente.",
+        "category": "history",
+        "href": "/fr/history/yuan-xing-cattle-beef-soup-history",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
+      {
+        "title": "Le secteur Beida : trente ans d'urbanisme et une expérience de vie universitaire",
+        "desc": "Du champ de bataille historique de Longenpu en 1895 à la station de métro Daxuecheng en 2026, ceci est une encyclopédie approfondie sur la terre, l'esthétique et l'identité sélective.",
+        "category": "geography",
+        "href": "/fr/geography/beida-special-district-sanxia",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "Le système des zones panoramiques nationales de Taïwan",
+        "desc": "Une expérience touristique sous label « national » : comment 13 zones panoramiques naviguent entre préservation et développement",
+        "category": "geography",
+        "href": "/fr/geography/national-scenic-area-system",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Les îles périphériques et la culture maritime : des pièges à poissons en pierre les plus denses au monde aux lois écologiques de la saison du poisson volant",
+        "desc": "Il existe moins de 600 shihu dans le monde entier, et les Pescadores en comptent à elles seules 574. Un peuple insulaire qui chasse le poisson volant a transformé ses tabous en l'un des systèmes de gestion des ressources marines les plus sophistiqués qui soient.",
+        "category": "geography",
+        "href": "/fr/geography/offshore-islands-and-maritime-culture",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Le mont Luodi",
+        "desc": "La zone de badlands volcanique boueuse la plus proche du littoral de Taïwan — ancienne forteresse militaire reconvertie en parc naturel, avec des bouches d'éjection de boue actives et des sentiers offrant de splendides panoramas sur la mer.",
+        "category": "geography",
+        "href": "/fr/geography/tadian-mountain",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 6,
+        "image": ""
+      },
+      {
+        "title": "Formes côtières et paysages marins de Taïwan",
+        "desc": "Rares sont les endroits sur Terre où l'on peut partir du sommet d'une montagne de près de 4 000 mètres et plonger dans une fosse océanique à 7 500 mètres de profondeur en moins de 150 kilomètres. Taïwan le peut. Le littoral de cette île est le théâtre d'un accident de la route au ralenti — d'une beauté à couper le souffle.",
+        "category": "geography",
+        "href": "/fr/geography/taiwan-coastal-landforms-and-seascapes",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "Les paysages thermaux de Taïwan",
+        "desc": "De la « soupe des sorcières » au top 15 mondial des destinations thermales : comment la collision de plaques tectoniques a forgé l'âme curative de cette île",
+        "category": "geography",
+        "href": "/fr/geography/taiwan-hot-springs-landscape",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Réservoirs et gestion des ressources en eau à Taïwan",
+        "desc": "De la crise de sécheresse à l'envasement des barrages, les défis de la gestion de l'eau à Taïwan et les inégalités de répartition entre le nord et le sud",
+        "category": "geography",
+        "href": "/fr/geography/taiwan-reservoirs-and-water-resource-management",
+        "date": "2026-07-18T19:07:01+08:00",
         "readingTime": 11,
         "image": ""
       },
       {
-        "title": "Wang Hsin-jen (Aluan Wang) : générer des paysages par le code et inscrire la philanthropie dans les smart contracts",
-        "desc": "Né en 1982 à Taichung, titulaire d'un master en arts des nouveaux médias de la Taipei National University of the Arts. Le 22 août 2021, son œuvre *Good Vibrations* est devenue la première œuvre d'un artiste taïwanais publiée sur Art Blocks, avec 1 024 NFT vendus en une heure. L'année suivante, il a rejoint l'équipe de six artistes du *Project %* (Plan des Cent Sommets) de FAB DAO, créant la première structure de redevance durable en Asie à intégrer la philanthropie dans un smart contract NFT. Son travail s'étend sur Art Blocks, Verse.works, fxhash et Tezos : *Chaos Culture* exposé à Art Basel Hong Kong, l'expérience sonore immersive *Hao Dou* en collaboration avec le C-LAB, la série *Polypaths* acquise par le Musée national de Taïwan, et en 2026 sa dernière œuvre *inkField*, développée en collaboration avec Claude Code, qui inscrit l'hésitation et les pauses humaines dans un système génératif.",
-        "category": "art",
-        "href": "/fr/art/wang-hsin-jen-artist",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "La musique indépendante taïwanaise : comment un disquaire incapable de payer ses employés a ouvert les oreilles d'une île",
-        "desc": "De la reprise à perte de Crystal Records, endettée de trois cent mille dollars taïwanais, à la rupture de stock du premier tirage de No Party for Cao Dong dans un café. Trente-cinq ans de musique indépendante à Taïwan ne sont pas une revanche, mais un pari de longue horde : un groupe de personnes déterminées à faire entendre « les voix que personne ne voit ».",
-        "category": "music",
-        "href": "/fr/music/indie-music-scene",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "Musique hakka à Taïwan : des chants de montagne à la politique linguistique du refus de prix par Lin Sheng‑xiang",
-        "desc": "Les chants de montagne hakka trouvent leurs origines dans la vie laborieuse, les huit instruments hakka sont utilisés lors des mariages, des funérailles et des célébrations. En 1999, le groupe Jiaogong remporte le Golden Melody Award de la meilleure composition et du meilleur producteur avec « Je viendrai chanter des chants de montagne », inaugurant une génération de rock hakka. En 2003, la 14ᵉ édition du Golden Melody Awards crée la catégorie chant hakka ; en 2004, Hsieh Yu‑wei en devient la première lauréate. En 2007, Lin Sheng‑xiang refuse le prix pour « Plantation d’arbres », appelant à classer la musique par genre plutôt que par langue, déclenchant le débat sur la pertinence des prix hakka, qui conduit trois ans plus tard à la création du Golden Indie Music Award. La Hakka TV, créée en 2003, continue d’accroître la visibilité de la musique hakka. La menace de la perte linguistique persiste, mais la tension entre transmission et innovation pousse toujours les musiciens hakka à avancer.",
-        "category": "music",
-        "href": "/fr/music/taiwan-hakka-music-from-mountain-songs-to-rock",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "Développement du hip-hop et du rap à Taïwan : le chinois ne devrait pas pouvoir rapper, le taïwanais hoklo n'aurait pas sa place sur scène, et ce n'est pas un ghetto, mais ils ont transformé ces trois handicaps en empreinte vocale souveraine",
-        "desc": "En 2004, Sung Yueh-ting était mort depuis deux ans lorsque sa mère et son frère sont montés recevoir pour lui le Golden Melody Award des meilleures paroles. Les doubles rimes de « Life's a Struggle » ont fait reculer le préjugé selon lequel « le chinois ne convient pas au rap ». Des années underground où l'on apprenait seul, album importé après album importé, jusqu'aux couronnements successifs de Leo Wang et MC HotDog comme meilleurs chanteurs de rap, Taïwan a parcouru ce chemin en vingt ans. Mais ce que cette île a de plus émouvant n'est pas sa ressemblance avec les États-Unis : c'est sa manière de transformer trois handicaps innés, les tons du chinois, l'accent du taïwanais hoklo et la position de faibles qui ne viennent pas du ghetto, en une empreinte vocale plurielle et souveraine que seul ce lieu peut faire entendre.",
-        "category": "music",
-        "href": "/fr/music/taiwan-hip-hop-and-rap",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 24,
-        "image": ""
-      },
-      {
-        "title": "L'évolution de la musique taïwanaise en langue taïwanaise : du « chant des anciens » à la coqueluche des jeunes intellectuels",
-        "desc": "Retraçant l'évolution de la musique taïwanaise en langue taïwanaise, de l'ère du nakashi, de Hong Yi-feng et de [[Jody Chiang]] aux interprétations innovantes de nouvelles générations de groupes tels qu'[[Eggplant Egg Band]] et [[Sorry Youth Band]], cet article explore comment la musique en langue taïwanaise a regagné l'adhésion des jeunes générations.",
-        "category": "music",
-        "href": "/fr/music/taiwanese-hokkien-song-evolution",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "taiwanese-traditional-chinese-orchestra-music",
-        "desc": "",
-        "category": "music",
-        "href": "/fr/music/taiwanese-traditional-chinese-orchestra-music",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "L'ours noir de Taïwan",
-        "desc": "Le V blanc sur sa poitrine est sa signature, et le combat pour sa protection est loin d'être terminé",
-        "category": "nature",
-        "href": "/fr/nature/taiwanese-black-bear",
-        "date": "2026-07-17T19:43:15+08:00",
+        "title": "Développement urbain et fracture ville-campagne à Taïwan",
+        "desc": "En 70 ans, Taïwan a basculé d'une île agricole à une île urbaine. Six métropoles concentrent 70 % de la population sur 30 % du territoire — portrait contrasté entre la prospérité de Taichung et le déclin de Yunlin.",
+        "category": "geography",
+        "href": "/fr/geography/taiwan-urban-development-and-rural-urban-divide",
+        "date": "2026-07-18T19:07:01+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "Lee Ju-eun",
-        "desc": "De la folie « déesse de l'IA » à un engagement total à Taïwan, sa trajectoire a redéfini l'imaginaire des pom-pom girls coréennes en CPBL.",
-        "category": "people",
-        "href": "/fr/people/lee-ju-eun",
-        "date": "2026-07-17T19:43:15+08:00",
+        "title": "Guan Yu : comment un général vaincu est devenu le dieu universel de Taïwan",
+        "desc": "Guan Yu, général des Trois Royaumes mort décapité après une défaite militaire, a engendré à Taïwan un système de croyance unique au monde autour du \"Seigneur Bienfaiteur\" — et le temple dédié à son culte le plus fréquenté de l'île interdit depuis 2014 jusqu'au moindre bâton d'encens.",
+        "category": "culture",
+        "href": "/fr/culture/guan-sheng-di-jun-belief",
+        "date": "2026-07-18T19:07:01+08:00",
         "readingTime": 10,
         "image": ""
       },
       {
-        "title": "Wang Chi-lin et Lee Yang (« paire Lin-Yang »)",
-        "desc": "Des camarades de collège aux médaillés d’or olympiques : la « paire Lin-Yang » a battu la Chine en deux manches sèches en 34 minutes, offrant à Taïwan la première médaille d’or olympique de son histoire en badminton",
-        "category": "people",
-        "href": "/fr/people/lin-yang-duo-taiwan-badminton-champions",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Park Sung-eun",
-        "desc": "D'invitée d'échange à membre officielle des Fubon Angels, elle s'est imposée comme la nouvelle génération des cinq piliers du cheerleading coréen grâce à une adaptation rapide et une constance scénique remarquable.",
-        "category": "people",
-        "href": "/fr/people/park-sung-eun-actress",
-        "date": "2026-07-17T19:43:15+08:00",
+        "title": "Le mouvement de revitalisation des langues autochtones à Taïwan",
+        "desc": "Le peuple Thao ne compte plus que 4 locuteurs natifs, et pourtant Taïwan abrite l'une des expériences de revitalisation linguistique les plus intenses au monde. De la loi de 2017 sur les langues autochtones aux plateformes numériques, une course contre la montre est engagée.",
+        "category": "culture",
+        "href": "/fr/culture/indigenous-language-revitalization-movement",
+        "date": "2026-07-18T19:07:01+08:00",
         "readingTime": 8,
         "image": ""
       },
       {
-        "title": "Médias taïwanais et liberté de la presse",
-        "desc": "Du contrôle partisan-étatique à l'ère de la guerre des médias : le processus de démocratisation de la liberté de la presse à Taïwan et les défis de la transformation numérique",
-        "category": "society",
-        "href": "/fr/society/media-and-press-freedom-in-taiwan",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 15,
+        "title": "Carte culturelle des 16 peuples autochtones de Taïwan",
+        "desc": "« 16 » n'est pas un chiffre né de lui-même — c'est le fruit d'une négociation. Des 210 000 Amis aux 441 Kanakanavu, la richesse culturelle des peuples autochtones de Taïwan dépasse de loin n'importe quel registre officiel.",
+        "category": "culture",
+        "href": "/fr/culture/indigenous-peoples-16-tribes-cultural-map",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 9,
         "image": ""
       },
       {
-        "title": "La défense taïwanaise et la modernisation militaire",
-        "desc": "En octobre 2025, Lai Ching-te a présidé à Hukou la mise en service d'un bataillon de chars M1A2T. Le même mois, l'ancien chef d'état-major Hsi-ming Lee a déclaré avec un amer sourire : « Si un char peut être considéré comme une arme asymétrique, qu'est-ce qui ne le serait pas ? » C'est l'histoire d'une île tiraillée entre deux logiques de défense.",
-        "category": "society",
-        "href": "/fr/society/taiwan-defense-modernization",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "Les Supermen à pelle et la synchronisation insulaire : comment la culture taïwanaise du bénévolat en cas de catastrophe façonne l'identité nationale",
-        "desc": "En partant des « Supermen à pelle » de la crue de Mataian en 2025, cet article retrace la culture du bénévolat en cas de catastrophe accumulée à Taïwan depuis le séisme de Jiji du 21 septembre 1999, le mythe de la crue fondatrice de la tribu de Mataian et la résilience communautaire, le modèle Tzu Chi et les trois postes de commandement en moins de 500 mètres à Guangfu, et examine le moment où la chanson *Nous sommes compatriotes* de Chen Chien-nian est devenue un acte concret lors de cette inondation.",
-        "category": "society",
-        "href": "/fr/society/taiwan-disaster-volunteer-culture",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "Justice environnementale et conflits NIMBY à Taïwan",
-        "desc": "Examen des inégalités dans la répartition des charges environnementales à Taïwan, des conflits de type NIMBY liés aux incinérateurs, aux déchets nucléaires et à l'industrie pétrochimique, analyse des problèmes d'inégalité environnementale et des enjeux de justice sociale",
-        "category": "society",
-        "href": "/fr/society/taiwan-environmental-justice-nimby-conflicts",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": 13,
-        "image": ""
-      },
-      {
-        "title": "Le dernier chant de l'île : le 0,695 que même l'année du Dragon n'a pas sauvé",
-        "desc": "2024 était l'année du Dragon : les Taïwanais auraient dû se hâter d'avoir des enfants pour porter chance. Cette année-là a pourtant compté 715 bébés de moins que l'année précédente : pour la première fois en 48 ans, la magie du Dragon n'a pas opéré. L'année suivante, le taux de fécondité s'est effondré à 0,695. Mais le vrai code n'a jamais été que les Taïwanais ne font pas d'enfants (après le mariage, plus de sept couples sur dix en ont deux ou plus), mais qu'ils ne se marient pas ; or l'État a versé de l'argent pendant dix ans à ceux qui « n'osent pas enfanter », alors qu'aucun pays au monde n'a jamais racheté son taux de fécondité à coups de subventions.",
-        "category": "society",
-        "href": "/fr/society/taiwan-low-birth-rate-crisis",
-        "date": "2026-07-17T19:43:15+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Environnement politique et système électoral de Taïwan",
-        "desc": "De l'architecture constitutionnelle aux mécanismes électoraux centraux et locaux, en passant par la culture politique partisane profonde, une analyse complète de la manière dont Taïwan maintient une société démocratique dynamique et institutionnellement rigoureuse dans un contexte géopolitique complexe",
-        "category": "society",
-        "href": "/fr/society/taiwan-political-landscape-and-electoral-system",
-        "date": "2026-07-17T19:43:15+08:00",
+        "title": "Les emprunts linguistiques à Taïwan et le contact des langues",
+        "desc": "Du bento au \"shipin\" : l'histoire du contact linguistique d'une île, et comment Taïwan est devenu le laboratoire le plus réussi au monde pour l'intégration des mots empruntés",
+        "category": "culture",
+        "href": "/fr/culture/loanwords-and-language-contact-in-taiwan",
+        "date": "2026-07-18T19:07:01+08:00",
         "readingTime": 12,
         "image": ""
       },
       {
-        "title": "giant-manufacturing-taiwan-bicycle-empire",
-        "desc": "",
-        "category": "economy",
-        "href": "/fr/economy/giant-manufacturing-taiwan-bicycle-empire",
-        "date": "2026-07-17T19:43:15+08:00",
+        "title": "Mazu et Baoshengdadi : la légende d'amour la plus romantique de Taïwan",
+        "desc": "« La pluie de Mazu, le vent de Baoshengdadi » — derrière ce dicton météorologique se cache une passion tumultueuse entre deux divinités",
+        "category": "culture",
+        "href": "/fr/culture/mazu-dadaogong-legend",
+        "date": "2026-07-18T19:07:01+08:00",
         "readingTime": null,
         "image": ""
       },
       {
-        "title": "Le système éducatif taïwanais : de l'enfer du concours unique au labyrinthe du pluralisme",
-        "desc": "Taïwan a passé trente ans à vouloir démanteler son concours d'entrée à l'université — et la toute dernière réforme a fait doubler les inscriptions dans les classes de redoublement. Comment une île oscille-t-elle indéfiniment entre pression scolaire et équité éducative ?",
-        "category": "lifestyle",
-        "href": "/fr/lifestyle/taiwan-education-system",
-        "date": "2026-07-17T19:43:15+08:00",
+        "title": "Plurk — Le microblog qui a survécu à l'ère des algorithmes",
+        "desc": "Lancée en 2008, la plateforme de microblog Plurk a tenu bon face à la déferlante Facebook et Twitter grâce à sa timeline horizontale en « rivière » et à une diffusion totalement dénuée d'algorithmes. Après le blocage de Google en 2016, elle s'est redressée grâce aux « Plurk Coins », un modèle d'abonnement payant soutenu par une communauté taïwanaise fidèle — une rivière qui coule selon ses propres règles, loin de toute manipulation algorithmique.",
+        "category": "culture",
+        "href": "/fr/culture/plurk-taiwan-microblog",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "La culture furry à Taïwan",
+        "desc": "En 2015, la première convention furry de Taïwan n'accueillait qu'une cinquantaine de participants et moins de dix créateurs de fursuits. Dix ans plus tard, Infurnity réunit 3 251 personnes en une seule édition, avec 689 fursuits sur scène et près d'un million de dollars taïwanais récoltés pour des œuvres caritatives. La communauté furry taïwanaise, née des forums BBS de l'ère du modem, est devenue la communauté d'amateurs de personnages anthropomorphes la mieux organisée d'Asie.",
+        "category": "culture",
+        "href": "/fr/culture/taiwan-furry-culture",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Les croyances religieuses à Taïwan : un empire de foi né de la peur",
+        "desc": "L'île possédant la plus haute densité de temples au monde et classée deuxième en liberté religieuse en Asie, ses deux croyances les plus répandues — les Rois célestes (Wangye) et la déesse Mazu — trouvent toutes deux leur origine historique dans la peste et la mort. Du XVIIe siècle, lorsque des colons militaires traversaient le détroit de Taïwan avec des idoles liées à leur corps, au rapport 2025 sur la liberté mondiale attribuant à Taïwan un score de 94 ; de l'interdiction du Yiguandao en 1953 à sa légalisation en 1987, première religion à être légalisée après la levée de la loi martiale, en passant par les quatre grands bouddhismes de montagne et l'Église presbytérienne empruntant chacune leur propre voie dans les relations État-religion — la foi taïwanaise ne réside pas dans les écritures, mais dans l'encens du coin de la rue.",
+        "category": "culture",
+        "href": "/fr/culture/taiwan-religion-and-temple-culture",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": "22",
+        "image": ""
+      },
+      {
+        "title": "La cérémonie du thé à Taïwan et l'esthétique du quotidien",
+        "desc": "Un insecte qui mord une feuille pour en révéler le miel, une maison japonaise devenue foyer de la démocratie, un thé aux perles qui conquiert le monde — comment la culture du thé taïwanaise s'est transformée d'un héritage colonial en une véritable philosophie de vie",
+        "category": "culture",
+        "href": "/fr/culture/taiwan-tea-ceremony-and-aesthetic-living",
+        "date": "2026-07-18T19:07:01+08:00",
         "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "La culture des tabous phonétiques à Taïwan : pourquoi le « quatre » fait disparaître des étages entiers ?",
+        "desc": "Des hôpitaux sans quatrième étage aux plaques d'immatriculation vendues à prix d'or, les Taïwanais entretiennent une sensibilité aux homophones parmi les plus poussées au monde",
+        "category": "culture",
+        "href": "/fr/culture/taiwanese-homophone-taboos",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 6,
+        "image": ""
+      },
+      {
+        "title": "La culture du café à Taïwan : une île où les supérettes vendent six cents millions de tasses par an",
+        "desc": "Planté sous l'ère japonaise à Gukeng dans le comté de Yunlin, le premier caféier de Taïwan a donné naissance, un siècle plus tard, à un paysage urbain où un café apparaît tous les cinquante mètres. Louisa Coffee a ouvert quelque six cents enseignes, dépassant Starbucks. Le café d'Alishan s'est imposé dans les compétitions internationales. Le café à Taïwan n'a jamais été qu'une simple boisson.",
+        "category": "food",
+        "href": "/fr/food/taiwan-coffee-culture",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "La culture des pâtisseries de Taïwan",
+        "desc": "De la pâtisserie « œil de phénix » de Yuzhenzhai à Lukang en 1877 aux pâtisseries au jaune d'œuf « Red Soil » de Chen Yaoxun, vendues en 30 secondes via le système de billetterie Tixcraft en 2026, 150 ans d'histoires stratifiées de la pâtisserie taïwanaise. Entre les deux : la révolution du carré d'ananas de Yifutang sous l'ère japonaise, l'expérience de l'olive en pâte feuilletée de Baoquan à Fengyuan, les 270 hectares de contrat de culture d'ananas locaux au pied du mont Bagua, la mutation technique de l'enveloppe de pâte feuilletée, et les centenaires pâtisseries han partageant la même table de la Fête de la Mi-Automne avec les champions du monde de la boulangerie.",
+        "category": "food",
+        "href": "/fr/food/taiwan-pastry-culture",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Littérature taïwanaise d'après-guerre : apprendre à dire ce qui ne pouvait pas l'être (1945-1987)",
+        "desc": "En août 1945, Ye Shih-tao, âgé de 20 ans, revient à Tainan après avoir été démobilisé de l'armée impériale japonaise. Il ouvre une feuille de papier et ne parvient pas à écrire un seul caractère en mandarin. Cette page blanche devra attendre 42 ans. Entre-temps : mutisme, prison, polémiques, apprentissage de la détourne. En février 1987, il publie un livre de 232 pages dont le titre ne contient que le mot « Taïwan ».",
+        "category": "art",
+        "href": "/fr/art/postwar-taiwanese-literature",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Le théâtre et les arts de la scène à Taïwan",
+        "desc": "Comment un jeune littéraire de 26 ans a fondé la première compagnie de danse contemporaine du monde sinophone, et comment des acteurs de l'opéra de Pékin ont fait parler Shakespeare en chinois",
+        "category": "art",
+        "href": "/fr/art/taiwanese-theater-and-performing-arts",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "Les arts traditionnels de Taïwan",
+        "desc": "Le plus grand miracle culturel du XXIe siècle en Asie : comment le théâtre de marionnettes Pili, avec un chiffre d'affaires annuel dépassant le milliard, est passé d'un spectacle de village à une puissance douce qui conquiert le monde.",
+        "category": "art",
+        "href": "/fr/art/traditional-arts-of-taiwan",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Mayday — Le groupe qui a réinventé le rock mandarin",
+        "desc": "En 1997, cinq lycéens de Taipei se sont inscrits à un festival underground avec un pseudonyme BBS. Trente ans plus tard, ils ont écoulé 320 000 billets en dix minutes à la grande salle de Taipei, rempli le Nid d'Oiseau de Pékin trente fois — et prononcé quatre mots qui ont brisé le cœur de Taïwan.",
+        "category": "music",
+        "href": "/fr/music/mayday-band",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": "12min",
+        "image": ""
+      },
+      {
+        "title": "La musique électronique et la culture party à Taïwan : des raves underground à la scène internationale",
+        "desc": "Des raves des années 1990 au festival Road to Ultra, comment la musique électronique taïwanaise est passée de l'underground au grand public, en donnant naissance à des DJ de renommée internationale et à des labels électroniques indépendants",
+        "category": "music",
+        "href": "/fr/music/taiwan-electronic-music-and-party-culture",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": null,
         "image": ""
       }
     ],
     "es": [
+      {
+        "title": "Dadaocheng: tres siglos en 800 metros, del Formosa Tea al primer disparo del 228",
+        "desc": "A las cinco y media de la mañana, la calle Dihua está en silencio. El edificio occidental de la antigua casa de té Chin Ki, que Chen Tianlai abrió en 1891 en la calle Gui De, sigue en su lugar original, y el incensario del templo del Dios de la Ciudad Xia Hai lleva 167 años encendido. En 1851 unas cuantas familias abrieron tiendas aquí; en 1853 los Tong'an huyeron de la violencia y se instalaron; en 1869 las primeras 120.000 jin de Formosa Tea salieron de Tamsui rumbo a Nueva York; en 1885 Liu Mingchuan estableció aquí la primera escuela de estilo occidental de Taiwán; en 1921 Jiang Weishui abrió el Hospital Da'an en Ping Ancho como punto de partida político de la Asociación Cultural; el 27 de febrero de 1947, por la tarde, un paquete de cigarrillos de contrabando frente a la puerta de la cafetería Tianma Tea House encendió el Incidente del 228. Una calle que comerció con té, albergó una escuela moderna y se convirtió en la herida más profunda de la posguerra taiwanesa: 800 metros contienen tres siglos.",
+        "category": "geography",
+        "href": "/es/geography/dadaocheng",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "En la encrucijada de la educación y la revitalización lingüística de los pueblos indígenas de Taiwán: la escuela primaria aguanta, la secundaria no",
+        "desc": "En 2012, el maestro tsou Markacaw Fala'ur de la escuela primaria Taiwu en Pingtung utilizó una grabadora para recoger canciones antiguas de los ancianos y llevó a los niños a cantar hasta ganar un premio Golden Melody. En 2017, la Ley de Desarrollo de las Lenguas Indígenas elevó las lenguas de las tribus al rango de lenguas nacionales. En 2019, la Ley de Educación Indígena incorporó una cláusula de \"cumplimiento en diez años\" sobre la proporción de docentes. Las escuelas experimentales indígenas en nivel primaria pasaron de 25 a 38. Pero al llegar a secundaria, todo el sistema colapsa: en todo Taiwán solo hay 6 escuelas experimentales indígenas de secundaria, la tasa bruta de matrícula universitaria de estudiantes indígenas es del 56.3%, 35.3 puntos porcentuales menos que la de los estudiantes generales. Markacaw falleció en 2021 a los 42 años. La escuela primaria aguanta, la secundaria no. La brecha sigue ahí.",
+        "category": "society",
+        "href": "/es/society/taiwan-indigenous-education-and-language-revival",
+        "date": "2026-07-18T19:07:01+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "Perspectiva historiográfica de la isla de Taiwán: cómo una isla gobernada repetidamente inventó su propia subjetividad",
+        "desc": "Taiwán no es la última pieza del rompecabezas de un imperio continental, sino la primera piedra angular de la red marítima del Pacífico. A partir del enfoque de Ts’ao Yung-ho de “delimitar la historia desde el territorio”, esta lectura reconsidera la vitalidad de la isla.",
+        "category": "history",
+        "href": "/es/history/taiwan-island-historiography",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Jinguashi: muchas capas de vida apiladas en una montaña, desde el oro aluvial, los prisioneros de guerra hasta el suelo arsenical sin limpiar",
+        "desc": "El 14 de noviembre de 1942, 523 prisioneros de guerra aliados entraron en las minas de cobre de Jinguashi, dando inicio a un período del que algunos salieron vivos tras tres años, mientras que otros no lograron salir. La forma en que se recuerda esta montaña suele ser a través de las luces nocturnas anaranjadas del sitio de los Trece Niveles, del gran lingote de oro de 220 kg que se puede tocar y del paisaje costero secreto que se visita de paso al ir a Jiufen. Sin embargo, la misma montaña también oculta el oro obtenido por los minadores locales a cambio de sus pulmones, los huesos de más de quinientos prisioneros de guerra extranjeros y un terreno arsenical que aún no ha sido completamente descontaminado. Solo al visualizar todo esto en conjunto se comprende la montaña completa de Jinguashi.",
+        "category": "geography",
+        "href": "/es/geography/jinguashi",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": "24",
+        "image": ""
+      },
+      {
+        "title": "Mercado bursátil y mercado de capitales de Taiwán: de la caída desde los diez mil puntos en 1990 al sexto lugar mundial en 2026, una isla con el 44% de su patrimonio concentrado en una sola acción",
+        "desc": "El 28 de abril de 2026, Bloomberg publicó el titular “Taiwan Overtakes Canada”. Una isla donde la caída desde los diez mil puntos en 1990 se llevó los fondos de jubilación de 160.000 personas ascendió, treinta y seis años después, al sexto mercado bursátil más grande del mundo; pero, dentro de una capitalización de 4,47 billones de dólares, casi la mitad descansa sobre una sola empresa de semiconductores.",
+        "category": "economy",
+        "href": "/es/economy/taiwan-stock-market",
+        "date": "2026-07-18T11:06:05+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
       {
         "title": "La máquina perpetua de donaciones: FAB DAO y el experimento social del Proyecto Cien Cimas",
         "desc": "Cómo un médico que dejó el hospital, con una bandera bordada con pelotas de béisbol, abrió una nueva imaginación para la filantropía Web3 en Taiwán. FAB DAO y el Proyecto Cien Cimas redefinen la esencia de la donación: coleccionar es donar, el arte es acción social.",
@@ -1586,51 +1631,6 @@
         "href": "/es/people/liu-an-ting-teach-for-taiwan",
         "date": "2026-07-12T22:17:28+08:00",
         "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "Teach For Taiwan: una chica de Princeton regresa a casa y convence a cuatrocientos jóvenes para enseñar en las aulas rurales",
-        "desc": "En 2014, Liu An-ting empezó con dos mil dólares taiwaneses y nueve personas. Once años después, más de cuatrocientos profesores de TFT han llegado a las escuelas primarias más remotas de Taiwán, acompañando a más de siete mil niños olvidados por el sistema. Esta no es una historia inspiradora de caridad educativa: es un debate continuo sobre \"quién debe asumir la responsabilidad de la desigualdad\".",
-        "category": "society",
-        "href": "/es/society/teach-for-taiwan",
-        "date": "2026-07-12T22:17:28+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Chou Hui: la voz femenina que cantó 25 años 〈Promise〉, una carrera de fondo desde una muñeca de cómic hasta el Taipei Arena",
-        "desc": "En 1999, Linfair Records lanzó 《Chou Hui Selection》 y puso en la portada una muñeca de cómic llamada Huier en lugar del rostro de la cantante. 〈Promise〉 entró en cada KTV y atravesó 25 años, pero la persona detrás de la canción siempre fue reconocida un paso después que la canción. De cinco álbumes en Linfair al congelamiento en BMG; de Group Stone y HIM International Music a asumir en 2025 la producción ejecutiva y entrar en el disco: 12 álbumes en 26 años. El 25 de abril de 2026 subió por primera vez al Taipei Arena, pero al final del concierto anunció atrofia de las cuerdas vocales: “No sé si esta será la última vez que cante para ustedes”.",
-        "category": "music",
-        "href": "/es/music/chou-hui",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 22,
-        "image": ""
-      },
-      {
-        "title": "Música pop de Taiwán: la isla que confeccionó el traje nupcial para todo el mundo y acabó conservando lo que otros no pueden cantar",
-        "desc": "En 1997, Taiwán era el segundo mayor mercado discográfico de Asia, y el 80 % de las canciones de todo el mundo musical en mandarín se producían allí. En 2005, el valor de producción había caído a una cuarta parte, el mercado había sido superado por China y hasta Jay Chou, en su apogeo, vendía apenas 300.000 copias por álbum. Cuando en otros lugares una canción puede ser silenciada por una línea de letra, una bandera o un tabú, esta isla que perdió escala convirtió el propio hecho de 'poder cantar o no' en su última y más dura baza.",
-        "category": "music",
-        "href": "/es/music/golden-melodies-legacy-taiwan-pop-music",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Little Tigers: melodías compradas, juventud propia",
-        "desc": "En 1988, un concurso de CTS buscaba a tres chicos para cantar y bailar junto a Little Kitten Team; terminó eligiendo a un grupo idol que versionaba canciones japonesas e imitaba a Shonentai, la boy band japonesa. De vender 200.000 copias en cinco días, a ser seguido por fans de Taipéi a Kaohsiung, hasta cruzar el estrecho en 1991. Casi todas las piezas eran importadas, pero Taiwán lo recuerda como la juventud más sólida de una generación; y los tres cuerpos más famosos acabaron cruzando también el estrecho.",
-        "category": "music",
-        "href": "/es/music/little-tigers-taiwan-boy-band",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "Premios Golden Melody: Taiwán premia su propia música y los momentos de treinta y cinco años que quedan para toda la vida",
-        "desc": "En 2024, en el Taipei Arena, No Party for Cao Dong volvió a consagrarse; su mánager recibió los premios en su nombre, y todo el recinto guardó silencio por una baterista fallecida. En treinta y cinco años, los Premios Golden Melody pasaron de una carta manuscrita de Tsai Chin a una ceremonia de escala nacional: coronaron el Fantasy de Jay Chou, las 14 nominaciones de A-mei, y también otorgaron los máximos honores a canciones en taiwanés, hakka y lenguas indígenas. Es el lugar donde Taiwán premia su propia música y decide qué sonidos merecen ser recordados.",
-        "category": "music",
-        "href": "/es/music/pop-music-and-golden-melody-awards",
-        "date": "2026-06-28T09:52:29+08:00",
-        "readingTime": 16,
         "image": ""
       }
     ]

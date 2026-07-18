@@ -1,8 +1,8 @@
 {
-  "totalArticles": 5085,
-  "totalCategories": 20,
-  "estimatedContributors": 339,
-  "totalTags": 6012,
+  "totalArticles": 5295,
+  "totalCategories": 24,
+  "estimatedContributors": 66,
+  "totalTags": 5706,
   "categories": [
     {
       "name": "es",
@@ -18,11 +18,15 @@
     },
     {
       "name": "en",
-      "count": 858
+      "count": 857
     },
     {
       "name": "ja",
       "count": 845
+    },
+    {
+      "name": "hi",
+      "count": 49
     },
     {
       "name": "History",
@@ -81,6 +85,18 @@
       "count": 42
     },
     {
+      "name": "pt",
+      "count": 54
+    },
+    {
+      "name": "id",
+      "count": 54
+    },
+    {
+      "name": "vi",
+      "count": 54
+    },
+    {
       "name": "resources",
       "count": 2
     }
@@ -88,11 +104,11 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 72
+      "count": 68
     },
     {
       "name": "人物",
-      "count": 62
+      "count": 66
     },
     {
       "name": "企業",
@@ -108,7 +124,7 @@
     },
     {
       "name": "ODM",
-      "count": 27
+      "count": 26
     },
     {
       "name": "客家",
@@ -121,6 +137,10 @@
     {
       "name": "기업",
       "count": 25
+    },
+    {
+      "name": "AI",
+      "count": 24
     },
     {
       "name": "政治",
@@ -151,15 +171,11 @@
       "count": 23
     },
     {
-      "name": "AI",
+      "name": "台灣",
       "count": 23
     },
     {
       "name": "인물",
-      "count": 22
-    },
-    {
-      "name": "YouTuber",
       "count": 22
     },
     {
@@ -168,8 +184,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5085,
+    "zh-TW": 5295,
     "en": 0
   },
-  "lastUpdated": "2026-07-18T03:00:15.136Z"
+  "lastUpdated": "2026-07-18T22:11:19.176Z",
+  "stars": 1110,
+  "forks": 167,
+  "zhPages": 851,
+  "enPages": 857,
+  "totalPages": 851
 }

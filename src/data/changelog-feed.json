@@ -1,7 +1,528 @@
 {
-  "generatedAt": "2026-07-18T03:00:16.802Z",
+  "generatedAt": "2026-07-18T22:11:20.849Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "263d7046584a1a941c7c631b0c134d103742a4cb",
+      "date": "2026-07-19T05:24:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-19-052130-twmd-embeddings-nightly — bge-m3 nightly 十語 5234 向量 0 fail / verify PASS / 四語新生首次入索引",
+      "articles": []
+    },
+    {
+      "hash": "d551d6b70a5a153d980ffa58394f5993d871567e",
+      "date": "2026-07-19T05:19:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-19 05:19",
+      "articles": []
+    },
+    {
+      "hash": "b01a0050545d60ffbe18d3b9eeb9ab12a2742487",
+      "date": "2026-07-19T04:23:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-self-evolve-weekly: memory + diary 收官 — W29 三 real ship canonical modifications",
+      "articles": []
+    },
+    {
+      "hash": "5a5f5736f37ccf90a955515dc2a7fbd1ac8ee05f",
+      "date": "2026-07-19T04:20:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-self-evolve-weekly: REFLEXES v5.12 — #82 加 (e) sensor 兩端對稱 + #73 加 (e) 外部注意力聚光燈 兩條 subrule",
+      "articles": []
+    },
+    {
+      "hash": "8d10bb50854ad320e214498274fa5c1071a7ad9e",
+      "date": "2026-07-19T04:16:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-self-evolve-weekly: SPORE-INBOX v2.1 加 [30,50) 連 3 週高原中間閾值 + `spore-inbox-capacity-warning` vc 2→3",
+      "articles": []
+    },
+    {
+      "hash": "af8c4e846a6f5d1efe5e16cea8ab46d9e3f62376",
+      "date": "2026-07-19T03:17:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-distill-weekly: W29 §未消化 16→12 (3 fold #35/#81 家族 + 1 superseded sweep + 1 vc bump) + MEMORY rollup 128→40",
+      "articles": []
+    },
+    {
+      "hash": "e3f651ae87ed3da8a3a38566eb0674aa3e5ac79e",
+      "date": "2026-07-19T02:22:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-weekly-report-sun: W29 週報 ship — Resend id 0e719aee (BCC 17 位共生圈)",
+      "articles": []
+    },
+    {
+      "hash": "683e519ea25fa13abbdb44304451d9d555a0766c",
+      "date": "2026-07-19T01:47:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: hi follow-up handoff 23→12（背景批撿回 11 篇）",
+      "articles": []
+    },
+    {
+      "hash": "91a1ac194e6a8256b13542da0b000ff4afb9363c",
+      "date": "2026-07-19T01:44:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: hi 收 11 篇 follow-up（stale batch 撿回）— 三閘全綠，剩 12 篇",
+      "articles": []
+    },
+    {
+      "hash": "2c693b975690791145f53f1b5c8cdee065027948",
+      "date": "2026-07-19T01:16:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-news-lens-weekly: W29 三源交叉 + 6 條候選 line-closed 清單",
+      "articles": []
+    },
+    {
+      "hash": "6b5ebfe37bd90448be83d12c622788f8d632b24b",
+      "date": "2026-07-19T00:54:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-19 四語出生戰役收官 — 巴別塔五語→九語 + 語意保真三尺誕生",
+      "articles": []
+    },
+    {
+      "hash": "bfa007180216c07df17643a8f6026391534bc6cc",
+      "date": "2026-07-19T00:51:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 四語出生 Stage 6 對外同步 — LANGUAGE-STATUS/README/CONSCIOUSNESS/structure-log",
+      "articles": []
+    },
+    {
+      "hash": "831e9384c8459934bbce4433d88a3f84a34bbff8",
+      "date": "2026-07-19T00:47:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 🎉 四語出生 flip — vi/id/pt/hi enabled，路由上線，build 全綠",
+      "articles": []
+    },
+    {
+      "hash": "cf3dc0c208cc18fcca80794b155858c2ed100faa",
+      "date": "2026-07-19T00:45:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] diary: babel 讓路給還在寫的自己 — vc=4 sibling collision 換上「還在寫的自己」框架",
+      "articles": []
+    },
+    {
+      "hash": "b7b145f1c683a6280a25b7e7d752ec3a1d1bf9f5",
+      "date": "2026-07-19T00:43:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: 2026-07-19-003837-twmd-babel-nightly — Tier 0b 40 條 metadata bump 落地，內容層讓給手動分身四語出生尾聲",
+      "articles": []
+    },
+    {
+      "hash": "df9e8d13d6ddd7b1e9016425347d07984b67e2eb",
+      "date": "2026-07-19T00:40:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: hi 內容批全綠 + pt 內容污染修復 — 四語三閘全清",
+      "articles": []
+    },
+    {
+      "hash": "55131101078b8d7cdf0780cfdf94404ac61371aa",
+      "date": "2026-07-19T00:39:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-babel-nightly: Tier 0b 補指標 40 條 — 五語 metadata-only 更新",
+      "articles": []
+    },
+    {
+      "hash": "e82fd52fe1fde5421e32291c47c6f8fac8790786",
+      "date": "2026-07-19T00:12:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: vi/id/pt 內容批全綠落地 — CJK + geo + person 三閘清",
+      "articles": []
+    },
+    {
+      "hash": "61c50bc5a1200f4573708583a3810aba813f44e3",
+      "date": "2026-07-19T00:06:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: person-fidelity 加同人異名豁免（蔣中正/兩蔣）— 降 id agent 揭露的假陽性",
+      "articles": []
+    },
+    {
+      "hash": "7c226a10d86a03b376eb2e3f09efcd6c079b79fd",
+      "date": "2026-07-19T00:02:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 出生戰役報告補語意 QA 三閘發現（geo/person/wikilink）",
+      "articles": []
+    },
+    {
+      "hash": "643f116c56165bfb473e008c5bcbbc66caa3fc9d",
+      "date": "2026-07-19T00:01:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 新增人物主權保真閘 person-fidelity-check + 修 id 陳水扁誤植",
+      "articles": []
+    },
+    {
+      "hash": "5da213be2dd98591f291d725fda46cc104c5bd30",
+      "date": "2026-07-18T23:56:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: DNA 收 geo-fidelity + wikilink 扁平兩儀器 + 修 id 2000 大選張冠李戴",
+      "articles": []
+    },
+    {
+      "hash": "fc99a3bcbc0bae70cb349de62f0f417c9c993fc0",
+      "date": "2026-07-18T23:55:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 出生 SOP 收語意 QA 三閘 — CJK/geo/article-health + wikilink 扁平",
+      "articles": []
+    },
+    {
+      "hash": "840b87e903e3ef69d51743a3b2869bb7ccef63bd",
+      "date": "2026-07-18T23:53:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 兩把出生戰役新尺 — article-health 語言偵測去硬編碼 + 譯文 wikilink 扁平化",
+      "articles": []
+    },
+    {
+      "hash": "d79ccafdd9a9bf783ed6d143557ceb49b2465aab",
+      "date": "2026-07-18T23:42:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 新增地理主權保真度閘門 geo-fidelity-check — 抓幻覺式地點遷移",
+      "articles": []
+    },
+    {
+      "hash": "8e4dad9db9df0149fde9b671bf9e8b29a0f7f7f3",
+      "date": "2026-07-18T23:33:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: CJK 殘留檢查加引號豁免（提及 vs 洩漏之別）",
+      "articles": []
+    },
+    {
+      "hash": "c175beb66b7ba5a3d173a87806292fa2b15047fe",
+      "date": "2026-07-18T23:31:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: CJK 殘留檢查擴含 Hangul/Kana + 註冊四語出生 EXP",
+      "articles": []
+    },
+    {
+      "hash": "58ab1fc7b620ab54fa1ece66ddb0d29b086229d0",
+      "date": "2026-07-18T23:16:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 出生戰役經驗回寫 canonical — BIRTH v2.1 + DNA 四儀器 + SQUEEZE 驗屍筆記",
+      "articles": []
+    },
+    {
+      "hash": "66de411fb9c00399b39d375e549393a05eae9c74",
+      "date": "2026-07-18T23:14:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 四語介面字串全量落地 — 16 個 i18n bundle × vi/id/pt/hi",
+      "articles": []
+    },
+    {
+      "hash": "e534a9198b5730cbd235219fa45aa7d90885fc02",
+      "date": "2026-07-18T19:18:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: /twmd-memory 收官紀律補完 — handoff 撇號項標 retired、索引行收進追記工作並修回 150 字內",
+      "articles": []
+    },
+    {
+      "hash": "720a00e0e28136a2cf0893c9e54f44c3cbfae424",
+      "date": "2026-07-18T19:16:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: dashboard 語言名接註冊表 SSOT — 哲宇 callout「只有縮寫看不懂」",
+      "articles": []
+    },
+    {
+      "hash": "84b54310a085787788125fed5fc8f6b4cce1c53b",
+      "date": "2026-07-18T19:14:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] research: 國民政府遷台與戰後重建 EVOLVE — Stage 0-1 研究定稿（立體群像）",
+      "articles": []
+    },
+    {
+      "hash": "81cbe15fbda57c9342968fb70678e1c40b372ba9",
+      "date": "2026-07-18T19:13:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-rewrite-daily: 撞 21 條 babel writer 並行＋巴別塔第四批擴張 WIP，讓路不 ship — 2026-07-18 19:09",
+      "articles": []
+    },
+    {
+      "hash": "1f42540da470ffd3ae52a6114c5ff54c146e3c69",
+      "date": "2026-07-18T19:08:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 產出端撇號病灶封口 — 三個 legacy 翻譯 wrapper 接上 frontmatter 閘",
+      "articles": []
+    },
+    {
+      "hash": "134f3886635dc053d55c12710c963b4e6da4dc5c",
+      "date": "2026-07-18T19:07:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 撇號 YAML 歷史債一次清償 — 107 檔 frontmatter 修到全站 parse 歸零",
+      "articles": []
+    },
+    {
+      "hash": "fdd824f49c1419cda0bee2b3864b53aa365f6d10",
+      "date": "2026-07-18T18:58:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-18-184501-manual — 首次完整巴別塔健檢收官",
+      "articles": []
+    },
+    {
+      "hash": "3fe027d010cc8cbce9305da226c6e6c9475370dc",
+      "date": "2026-07-18T18:55:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 四語出生地基 — 主權指南 ×4 + babel 工具鏈去硬編碼 + 兩把新尺",
+      "articles": []
+    },
+    {
+      "hash": "ab61c80c940e568c79da6ca9d8e655d9ef0db867",
+      "date": "2026-07-18T18:55:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 健檢經驗回寫 pipeline 層 — SQUEEZE v4.5 + 佇列兩新項 + 孤兒譯檔教訓",
+      "articles": []
+    },
+    {
+      "hash": "d76486da0bc20951f9f2b59e51f958ea8a50b688",
+      "date": "2026-07-18T18:55:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diagnose: 首次完整巴別塔健檢 — 七維度報告 + babel-health 儀器誕生",
+      "articles": []
+    },
+    {
+      "hash": "d2b79d72a512d48af0a822972c413cd7d1f9f981",
+      "date": "2026-07-18T18:54:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 退役梅雨 en 舊機翻檔 — 全站最後一組殭屍重複對清償",
+      "articles": []
+    },
+    {
+      "hash": "8af9725560ce74e6ad0f26810a5a8da18ecd8d59",
+      "date": "2026-07-18T18:54:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 地圖 i18n 六語對齊 — fr 八個地標 key 打成 .name 修回 .title，22 縣市功能七鍵補進 ja/es/fr",
+      "articles": []
+    },
+    {
+      "hash": "4e59fcfcf186af665ac3747f682be5dbf74c150c",
+      "date": "2026-07-18T18:20:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-18-114442-soundscape-evolve — 聲景頁完整進化收官 + 日記〈兩個洞都是被善意藏起來的〉",
+      "articles": []
+    },
+    {
+      "hash": "f57dbe283f8193e48d5742f7707cf00a583daffc",
+      "date": "2026-07-18T12:10:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: redirect 派生檔同步 — soundscape-of-taiwan 兩條 301 進生成物",
+      "articles": []
+    },
+    {
+      "hash": "8b61d368e332af68ffe7851f2826a45e99ae901c",
+      "date": "2026-07-18T12:09:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 聲景雙文章互鏈與英文版 SEO 差異化 — 兩篇同名 Taiwan Soundscape 分家",
+      "articles": [
+        {
+          "url": "/culture/台灣聲景",
+          "name": "台灣聲景"
+        },
+        {
+          "url": "/music/台灣聲音地景",
+          "name": "台灣聲音地景"
+        }
+      ]
+    },
+    {
+      "hash": "67822e72bdb5b8744eddd3f164f16b73aee2510a",
+      "date": "2026-07-18T12:09:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: sound_play 進儀器 SSOT — GA4 維度已註冊、audit 掃描清單納入聲景 template",
+      "articles": []
+    },
+    {
+      "hash": "e3c899fc23a8ca4df51f3e164f8149d650ffbaa1",
+      "date": "2026-07-18T12:09:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 聲景頁完整進化 — 六語補齊、雙文章互鏈、iigmir 孤兒錄音上頁、播放埋點",
+      "articles": []
+    },
+    {
+      "hash": "11d5198d58f97f6ce219a756e85788d794c556e9",
+      "date": "2026-07-18T12:06:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: DNA frontmatter 對齊 — v5.2 記語言基因新列的真實更新日",
+      "articles": []
+    },
+    {
+      "hash": "94bc0b8611f42c3ec6baf245f8a051e386151102",
+      "date": "2026-07-18T12:06:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 新語言出生 SOP 升 v2.0 — 把 vi/id/pt/hi 選址經驗回寫進 pipeline 跟 DNA",
+      "articles": []
+    },
+    {
+      "hash": "702c97c4bd583870813543a898f2edc863f17a2a",
+      "date": "2026-07-18T12:02:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-18-115711-manual — 完整進化收官，日治時期雙源升 P0 與前手 handoff 清償",
+      "articles": []
+    },
+    {
+      "hash": "74d282d3a2ed3b5a6e47653cdd19ad4f7958bdde",
+      "date": "2026-07-18T12:00:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 完整進化第二輪 — 日治時期雙源升 P0、彎彎 SEO 入列、education-system 洩漏補洞收進日報",
+      "articles": []
+    },
+    {
+      "hash": "5d5dc934100b16fba80fd626bf90c15cd560828b",
+      "date": "2026-07-18T11:58:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-18-115441-manual — 語言支系選定收官三件套 + 巴別塔選址反芻",
+      "articles": []
+    },
+    {
+      "hash": "91ca0fa233462b76c36ec55693263911a0dbc9e0",
+      "date": "2026-07-18T11:55:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: education-system 舊 slug 五語補 redirect — GA 抓到單週 28 次撞在這個 404 上",
+      "articles": []
+    },
+    {
+      "hash": "36e699aacb9eb87d4d17b7c59d955c05f23d7d9c",
+      "date": "2026-07-18T11:54:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 檔案不在的那一刻，我先懷疑了分身，沒懷疑自己站的位置 — inbox-skill 收官反芻",
+      "articles": []
+    },
+    {
+      "hash": "0b32879677689d124cfdc222ed7764a85c7fc2d4",
+      "date": "2026-07-18T11:53:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 選定四個新語言支系 vi/id/pt/hi — 三源交叉與人口槓桿分析，註冊表先掛 disabled scaffold",
+      "articles": []
+    },
+    {
+      "hash": "8d0f926051503d6a014a968ab07991997244c2b2",
+      "date": "2026-07-18T11:49:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 派生資料落地 — 經濟奇蹟三篇合一後全站統計同步到 851 篇",
+      "articles": []
+    },
+    {
+      "hash": "3ad0fe6910000af514120256218fc2a623b230b5",
+      "date": "2026-07-18T11:49:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 落地 Shopping Design 的 en/ja 翻譯孤兒 — babel 寫好沒 commit，ratio 與 frontmatter 驗過",
+      "articles": []
+    },
+    {
+      "hash": "200fe7383fd18e7ea971661d13520c02cf67213d",
+      "date": "2026-07-18T11:49:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 收費站 Stage 1 研究報告落檔 — 07-17 session 做完研究沒 commit，raw 的家在 git",
+      "articles": []
+    },
+    {
+      "hash": "436af4a2ac7ce827d44cb3d71a67052bc7af80da",
+      "date": "2026-07-18T11:50:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] lessons: hook-set-e-cmdsubst-abort 第二例 — 同一行同日雙向復發，vc=2",
+      "articles": []
+    },
+    {
+      "hash": "25cc219065ea8cfd962d4a72b88f87f9ef41ae9f",
+      "date": "2026-07-18T11:48:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-18-111730-inbox-skill — 兩個新能力誕生與各自的第一次 dogfood",
+      "articles": []
+    },
+    {
+      "hash": "2269ce55d4862562b8538dccb2312e7100bdbdb6",
+      "date": "2026-07-18T11:44:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: BRANCH-PIPELINE v2.2 — 台灣建築 dogfood 九條摩擦當天回寫",
+      "articles": []
+    },
+    {
+      "hash": "71fd846611bd382a4f9756067328984c2e328435",
+      "date": "2026-07-18T11:40:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] branch: 台灣建築完整研究 — 4 份平行研究報告，10 條候選進 ARTICLE-INBOX",
+      "articles": []
+    },
+    {
+      "hash": "48a93de50a065c900b4fbb2fb025965322b2735f",
+      "date": "2026-07-18T11:25:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 兩個 pipeline 的 H1 版本號跟上 frontmatter（v2.1 / v3.6）",
+      "articles": []
+    },
+    {
+      "hash": "16351c0a991b3f68b80ba225237ac787b1de6eda",
+      "date": "2026-07-18T11:24:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: EVOLVE Mode 4 — 把「思考、發散、報告、實作」收成有名字的 SOP",
+      "articles": []
+    },
+    {
+      "hash": "481e0bf6a3c6669fc4944692095564082ed5189e",
+      "date": "2026-07-18T11:24:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: /twmd-article-inbox 誕生 — 主題消化進 inbox 的正式入口",
+      "articles": []
+    },
+    {
+      "hash": "5bc37b0bacabba4e65a56788bc16716e214d1e90",
+      "date": "2026-07-18T11:24:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 設計報告 — /twmd-article-inbox 誕生與 EVOLVE Mode 4 的方案發散與定案",
+      "articles": []
+    },
+    {
+      "hash": "197490112fcd28b38de32119210d5d53a69cf965",
+      "date": "2026-07-18T11:11:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-evolve: 吳百福 EVOLVE P0 candidate — GA4 流量第 5、healthScore 全榜最低",
+      "articles": []
+    },
+    {
+      "hash": "9c5ad569a6106383ee4b5724a1b3bf6822a5931b",
+      "date": "2026-07-18T11:06:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [evolve+merge] 經濟奇蹟三篇合一 — 土地改革、亞洲四小龍比較、社會變遷段補進 canonical",
+      "articles": [
+        {
+          "url": "/economy/台灣股市與資本市場",
+          "name": "台灣股市與資本市場"
+        },
+        {
+          "url": "/economy/經濟奇蹟",
+          "name": "經濟奇蹟"
+        },
+        {
+          "url": "/geography/金瓜石",
+          "name": "金瓜石"
+        },
+        {
+          "url": "/history/_History Hub",
+          "name": "_History Hub"
+        }
+      ]
+    },
+    {
+      "hash": "c6ddace87a02cd19b34cf181999634fb9783eeba",
+      "date": "2026-07-18T11:04:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-07-18-110122-manual — twmd-finale 第三棒 evolve 收官",
+      "articles": []
+    },
+    {
+      "hash": "86f67101d434c0ba6d55b8deba810f546e394127",
+      "date": "2026-07-18T11:03:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] polish: 發票 diary — 補回漏掉的收尾底線，完成截斷句子",
+      "articles": []
+    },
+    {
+      "hash": "150628b29da0e7eede3ea81879dc1f3eb5e337e3",
+      "date": "2026-07-18T11:03:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 發票 EVOLVE diary — 確認式閱讀抓不到讀起來太順的假話",
+      "articles": [
+        {
+          "url": "/economy/發票",
+          "name": "發票"
+        }
+      ]
+    },
     {
       "hash": "fcc3823ba0e574621bcd11bb59702707c358456d",
       "date": "2026-07-18T11:00:02+08:00",

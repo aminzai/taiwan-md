@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T03:00:23.329Z",
+  "lastUpdated": "2026-07-18T22:11:27.575Z",
   "organs": [
     {
       "id": "heart",
@@ -10,8 +10,8 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 67,
-        "articlesLast30Days": 151,
+        "articlesLast7Days": 69,
+        "articlesLast30Days": 152,
         "totalArticles": 851
       }
     },
@@ -109,18 +109,22 @@
       "nameZh": "語言器官",
       "metaphor": "多語言複製",
       "emoji": "🌐",
-      "score": 93,
-      "trend": "up",
+      "score": 80,
+      "trend": "stable",
       "metrics": {
         "languageCoverage": {
           "zh-TW": 851,
-          "en": 856,
+          "en": 855,
           "ja": 843,
           "ko": 841,
           "es": 841,
-          "fr": 841
+          "fr": 841,
+          "vi": 54,
+          "id": 54,
+          "pt": 54,
+          "hi": 49
         },
-        "translationPct": 93,
+        "translationPct": 80,
         "langHealthDetails": {
           "en": {
             "ui": {
@@ -137,8 +141,8 @@
               "pct": 100
             },
             "articles": {
-              "count": 856,
-              "pct": 101
+              "count": 855,
+              "pct": 100
             },
             "score": 100
           },
@@ -221,6 +225,86 @@
               "pct": 99
             },
             "score": 85
+          },
+          "vi": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 13,
+              "total": 12,
+              "pct": 108
+            },
+            "articles": {
+              "count": 54,
+              "pct": 6
+            },
+            "score": 64
+          },
+          "id": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 13,
+              "total": 12,
+              "pct": 108
+            },
+            "articles": {
+              "count": 54,
+              "pct": 6
+            },
+            "score": 64
+          },
+          "pt": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 13,
+              "total": 12,
+              "pct": 108
+            },
+            "articles": {
+              "count": 54,
+              "pct": 6
+            },
+            "score": 64
+          },
+          "hi": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 13,
+              "total": 12,
+              "pct": 108
+            },
+            "articles": {
+              "count": 49,
+              "pct": 6
+            },
+            "score": 64
           }
         }
       }

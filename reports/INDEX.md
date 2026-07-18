@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-18 06:12
+last_generated: 2026-07-19 06:11
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,19 +12,19 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-18 06:12** · 頂層 \*.md 共 **215** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-19 06:11** · 頂層 \*.md 共 **222** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size     | 用途                                                 |
 | ----------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`             |   448 | 59.4 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`             |   460 | 60.0 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `visual/`               |   111 | 214.5 MB | Visual smoke test 基線 (partial gitignored)          |
-| `editorial-room/`       |    46 | 300.9 KB | —                                                    |
+| `editorial-room/`       |    49 | 328.4 KB | —                                                    |
 | `archive/`              |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
-| `article-evolve/`       |    25 | 947.6 KB | —                                                    |
-| `weekly/`               |    20 | 3.7 MB   | Self-evolve weekly digest                            |
-| `article-projection/`   |    13 | 180.4 KB | —                                                    |
+| `article-evolve/`       |    26 | 970.6 KB | —                                                    |
+| `weekly/`               |    22 | 4.0 MB   | Self-evolve weekly digest                            |
+| `article-projection/`   |    15 | 222.9 KB | —                                                    |
 | `scratch/`              |    10 | 1.7 MB   | POC / 暫存 (per audit Layer 1，已 .gitignored)       |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB   | —                                                    |
@@ -35,11 +35,11 @@ type: auto-index
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 94.9 KB  | —                                                    |
+| `404-monitor/`          |     2 | 75.3 KB  | —                                                    |
 | `fork-census/`          |     2 | 36.2 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
+| `news-lens/`            |     2 | 37.9 KB  | —                                                    |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
-| `news-lens/`            |     1 | 18.2 KB  | —                                                    |
 
 ## 🏷️ By type (頂層 \*.md only)
 
@@ -95,8 +95,10 @@ type: auto-index
 - `2026-04-13` [ssodt-spore-linkback-plan-2026-04-13](ssodt-spore-linkback-plan-2026-04-13.md)
 - `2026-04-12` [semiont-public-pages-plan-2026-04-12](semiont-public-pages-plan-2026-04-12.md)
 
-### evolution (34)
+### evolution (36)
 
+- `2026-07-19` [evolution-roadmap-2026-07-19](evolution-roadmap-2026-07-19.md) — Evolution Roadmap 2026-07-19
+- `2026-07-18` [design-article-inbox-evolve-mode4-2026-07-18](design-article-inbox-evolve-mode4-2026-07-18.md)
 - `2026-07-16` [instrument-evolution-2026-07-16](instrument-evolution-2026-07-16.md) — 文章儀器進化：speak-human-tw 轉譯 + 盤點工作儀器化 + gate 整理
 - `2026-07-16` [timeline-page-evolution-2026-07-16](timeline-page-evolution-2026-07-16.md)
 - `2026-07-16` [viz-module-evolution-2026-07-16](viz-module-evolution-2026-07-16.md)
@@ -214,8 +216,13 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (73)
+### ops (78)
 
+- `2026-07-18` [babel-health-2026-07-18](babel-health-2026-07-18.md) — 巴別塔健檢 2026-07-18
+- `2026-07-18` [design-branch-pipeline-v22-2026-07-18](design-branch-pipeline-v22-2026-07-18.md)
+- `2026-07-18` [evolve-2026-07-18-language-branches](evolve-2026-07-18-language-branches.md)
+- `2026-07-18` [evolve-2026-07-18](evolve-2026-07-18.md) — EVOLVE scan 2026-07-18
+- `2026-07-18` [language-birth-2026-07-18](language-birth-2026-07-18.md)
 - `2026-07-17` [404-root-cause-2026-07-17](404-root-cause-2026-07-17.md)
 - `2026-07-16` [dogfood-v9-first-run-2026-07-16](dogfood-v9-first-run-2026-07-16.md) — v9 pipeline 首次全程 dogfood — 大罷免 EVOLVE 實跑紀錄
 - `2026-07-16` [dogfood-v9-run2-highered-2026-07-16](dogfood-v9-run2-highered-2026-07-16.md) — REWRITE v9 第二次 dogfood — 台灣高等教育擴張與退場 EVOLVE
@@ -297,9 +304,16 @@ type: auto-index
 - Type breakdown: ops: 1
   - `????` [README](README.md)
 
-### 2026-07 (38 files)
+### 2026-07 (45 files)
 
-- Type breakdown: ops: 17 / evolution: 9 / design: 8 / audit-routine: 2 / audit: 1 / plan: 1
+- Type breakdown: ops: 22 / evolution: 11 / design: 8 / audit-routine: 2 / audit: 1 / plan: 1
+  - `2026-07-19` [evolution-roadmap-2026-07-19](evolution-roadmap-2026-07-19.md)
+  - `2026-07-18` [babel-health-2026-07-18](babel-health-2026-07-18.md)
+  - `2026-07-18` [design-article-inbox-evolve-mode4-2026-07-18](design-article-inbox-evolve-mode4-2026-07-18.md)
+  - `2026-07-18` [design-branch-pipeline-v22-2026-07-18](design-branch-pipeline-v22-2026-07-18.md)
+  - `2026-07-18` [evolve-2026-07-18-language-branches](evolve-2026-07-18-language-branches.md)
+  - `2026-07-18` [evolve-2026-07-18](evolve-2026-07-18.md)
+  - `2026-07-18` [language-birth-2026-07-18](language-birth-2026-07-18.md)
   - `2026-07-17` [404-root-cause-2026-07-17](404-root-cause-2026-07-17.md)
   - `2026-07-16` [article-quality-audit-2026-07-16](article-quality-audit-2026-07-16.md)
   - `2026-07-16` [dogfood-v9-first-run-2026-07-16](dogfood-v9-first-run-2026-07-16.md)
