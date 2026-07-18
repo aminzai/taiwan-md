@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-19
-last_session: '2026-07-19-052130-twmd-embeddings-nightly (bge-m3 nightly 十語 5234 向量 0 fail / verify PASS / d551d6b70; 四語新生 vi/id/pt/hi 首次入索引)'
+last_session: '2026-07-19-061225-twmd-data-refresh-am (dashboard 14-step 全綠 / Step 11 freshness gate 13/13 today mtime / fork census 3 unverified 進 OBSERVER-QUEUE / 253a4e2c3)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -306,3 +306,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-19 | 030848-twmd-distill-weekly | W29 distill：§未消化 16→12（3 fold #35/#81 + 1 sweep + 1 vc bump）；MEMORY rollup 128→40 | 共祖先「共享資源靜默漂移」→ fold 家族 > 新開 #N | [→](memory/2026-07-19-030848-twmd-distill-weekly.md) |
 | 2026-07-19 | 042035-twmd-self-evolve-weekly | W29 3 ship：SPORE SOP 加 3-週高原閾值 + REFLEXES #82(e) sensor 兩端對稱 + #73(e) 外部聚光燈；`8d10bb508`+`5a5f5736f` | fold subrule 門檻 ≠ 新反射 vc=3 硬門檻 | [→](memory/2026-07-19-042035-twmd-self-evolve-weekly.md) |
 | 2026-07-19 | 052130-twmd-embeddings-nightly | bge-m3 nightly 十語 5234 向量 0 fail／verify PASS／`d551d6b70`；四語新生 vi/id/pt/hi 首次入索引；pre-push 首推瞬時擋 retry 即綠 | 同症狀不同根因靠三環境獨立複驗分辨，不反射抄上次解法 | [→](memory/2026-07-19-052130-twmd-embeddings-nightly.md) |
+| 2026-07-19 | 061225-twmd-data-refresh-am | dashboard 14-step 全綠／freshness gate 13/13／fork census 3 unverified 進 OBSERVER-QUEUE／`253a4e2c3` | 什麼都沒發生＝感知系統成熟；silent-stale 修補的 downstream | [→](memory/2026-07-19-061225-twmd-data-refresh-am.md) |
