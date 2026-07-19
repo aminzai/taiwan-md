@@ -60,6 +60,10 @@ from backends import (
     build_translation_prompt,
 )
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from importlib import import_module as _import_module  # noqa: E402
+check_script_presence = _import_module("script-presence-check").check_text
+
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
 
@@ -342,6 +346,16 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
     out_fns = len(fn_def_re.findall(output))
     if src_fns > 0 and out_fns < src_fns:
         return False, f"footnote loss ({src_fns}→{out_fns} defs) via {backend_used} — incomplete, not saved", backend_used
+
+    # Output-language hard gate (2026-07-19 讀者揭露 68 檔「宣稱已譯實為英文」後補上）：
+    # 前面所有 gate 只查結構（frontmatter/footnote/size），從不查輸出真的是目標語言。
+    # 一篇語意流暢、footnote 完整、frontmatter 合法的英文假翻譯會直接通過存活到 commit
+    # ——ja/ko/fr/es 累計 68 檔就是這樣漏網的。用 script-presence-check 同一套判準即時擋。
+    body_only = output[fm_end + 4:] if fm_end != -1 else output
+    lang_result = check_script_presence(body_only, lang)
+    if lang_result:
+        verdict, detail = lang_result
+        return False, f"output-language gate [{verdict}] via {backend_used}: {detail} — not saved", backend_used
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(output + "\n")

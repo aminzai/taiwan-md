@@ -48,6 +48,14 @@ KNOWLEDGE = REPO / "knowledge"
 from langs import ENABLED_TRANSLATION_LANGS
 LANGS = ENABLED_TRANSLATION_LANGS  # 站體層 audit 只看已啟用語言；SSOT via langs.py (2026-07-18)
 
+from importlib import import_module as _import_module
+_script_presence = _import_module("script-presence-check")
+# check_text() 用變音符號/功能詞比對——本檔 body_lang_mismatch（Check 3）的 Latin-pct
+# 法對「英文假裝法文/西文/葡文」structurally 瞎眼（English/French/Spanish 都 ~99% latin_pct，
+# 過不了任何 latin 門檻差異）。2026-07-19 讀者揭露：cross-lang-audit 只抓到 ja=27/ko=19，
+# es/fr 完全零 hit——不是因為乾淨，是偵測法本身抓不到同字母系統誤譯。委派給
+# script-presence-check 補這個結構盲點，兩支檢查器共用同一判準不各自漂移。
+
 # Body lang detection regex
 LATIN_RE = re.compile(r"[a-zA-ZÀ-ſ]")
 HAN_RE = re.compile(r"[一-鿿]")
@@ -234,6 +242,17 @@ def audit():
                             "jp_kana_pct": round(stats["jp_kana_pct"], 1),
                             "ko_hangul_pct": round(stats["ko_hangul_pct"], 1),
                         },
+                    })
+
+                # Check 3b: script-presence delegate (catches Latin-vs-Latin English leak
+                # that Check 3's Latin-pct method structurally cannot — see module docstring)
+                sp_result = _script_presence.check_text(rec["body"], lang)
+                if sp_result:
+                    verdict, detail = sp_result
+                    rec_issues.append({
+                        "type": "script_presence_english_leak",
+                        "severity": "critical",
+                        "msg": f"[{verdict}] {detail}",
                     })
 
                 # Check 4: frontmatter completeness

@@ -1,11 +1,11 @@
 ---
 title: 'LANGUAGE-BIRTH-CHECKLIST'
-description: '新語言誕生 pipeline — 選址→scaffold→模型校準→P0 內容批→介面與路由→啟用 flip→出生後驗證 7 stage + 四層完整度 hard gate（v2.0）'
+description: '新語言誕生 pipeline — 選址→scaffold→模型校準→P0 內容批→介面與路由→啟用 flip→出生後驗證 7 stage + 四層完整度 hard gate（v2.2）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.1'
-last_updated: 2026-07-18
-last_session: '2026-07-18 出生戰役（首次全程 dogfood 回寫：算力雙軌／Hub runner／CJK gate／UI 產線）'
+current_version: 'v2.2'
+last_updated: 2026-07-19
+last_session: '2026-07-19（讀者揭露 es/fr/ja/ko 68 檔「宣稱已譯實為英文」— Stage 3 QA gate 三道升四道，補 script-presence-check + translate.py 即時 hard gate）'
 sister_docs:
   - 'TRANSLATION-PIPELINE.md'
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -147,11 +147,12 @@ upstream_canonical:
 - [ ] **Hub 層走直通 runner**：`scripts/tools/lang-sync/hub-translate.py <lang>`——⚠️ `_* Hub.md` 不在 `_translation-status.json` 索引（`_` 前綴被排除），`prepare-batch --input` 對它們一律 Skipping unknown，標準批次管線從不服務 Hub（es/fr 當年是手工，2026-07-18 才發現此結構洞）
 - [ ] **wikilink 扁平化**：`flatten-translation-wikilinks.py --lang {lang} --apply`——翻譯模型把 `[[目標]]` 譯壞（`[[林義雄 (Lin Chi-hsiung)]]`／`[[semicondutores]]` 都不解析，wikilink-target 要求目標 == zh-TW slug）。神經迴路鐵律：譯文 wikilink 轉純文字。⚠️ 扁平**後**再跑 CJK 檢查——純漢字目標（Hub 相關文章清單）扁平後會暴露 CJK 進正文
 - [ ] 10% 抽檢人讀完成品（生產量 ≥ 品質是 AI Slop 的定義）
-- [ ] **三道語意 QA gate 全綠才進 Stage 5**（ratio gate 只擋長度，擋不住這三類語意錯）：
+- [ ] **四道語意 QA gate 全綠才進 Stage 5**（ratio gate 只擋長度，擋不住這四類語意錯）：
   1. `cjk-residue-check.py --lang {lang}`——codex 產融合殘字（phong杀）、**qwen 漏簡體/Hangul 片段**（连霸／野百合世代「白」→백），ratio gate 全穿
   2. **`geo-fidelity-check.py --lang {lang}`（主權關鍵）**——翻譯模型會**幻覺式地點遷移**：出生戰役發現 vi/taiwan-democratization 系統性把「台北」譯成「北京」（整篇民主化文 7 處，含「台北高雄市長」→「北京市長」、天安門對照段的台北學生→北京學生）。把台灣的事搬進中國是巴別塔最致命失效。flag 的每檔逐行對照 zh 源人審（合法天安門 vs 幻覺台北→北京）
   3. `article-health.py`（pre-commit 自動跑）——含 wikilink-target、frontmatter；譯文 lang 偵測靠 loader `_LANG_DIRS`（已 registry-derive，勿再寫死）
   4. **`person-fidelity-check.py --lang {lang}`（主權關鍵）**——翻譯模型會**政治人物張冠李戴**：出生戰役發現 蔣經國（1987 解嚴、1988 去世）被系統性譯成「Chiang Kai-shek」（1975 已死）跨四語、陳水扁（美麗島大審辯護律師）在 id 被譯成「Tsai Ing-wen」（當時還是學生）、賴清德（2025 現任）在 tsmc 被譯成「Tsai Ing-wen」。懂台灣史的讀者一眼看破。flag 逐處對照 zh 源（中正紀念堂等地標為合法 false positive）
+  5. **`script-presence-check.py --lang {lang}`（主權關鍵，2026-07-19 誕生）**——翻譯模型會**整篇配合但用英文回答**（不是拒答，是「宣稱已譯」的 frontmatter + 語意流暢的英文本文，前四道 gate 全部穿——footnote 數對、frontmatter 合法、無漢字殘留、無地名/人名幻覺，因為它根本沒被判定為「翻譯」而是被判定為「英文原創」）。es/fr/ja/ko 累計查出 68 檔，4 篇（taiwan-generations／complex-life-festival／huang-shan-liao／psychological-warfare）四語同時中鏢，全是主權敏感題材（統戰／白色恐怖／心戰／認知作戰）。此 gate 已同時內嵌進 `translate.py` 即時 hard gate（`check_script_presence()`），新出生語言若有非拉丁字母（ja/ko/hi）或有特殊變音符號（fr/es/pt/vi）會自動擋；`id` 走功能詞比對。詳見 [reports/ja-fr-es-ko-english-leak-2026-07-19.md](../../reports/ja-fr-es-ko-english-leak-2026-07-19.md)
 
 ## Stage 4 — 介面與路由
 
