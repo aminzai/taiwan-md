@@ -166,6 +166,16 @@ fail_on = "warn"
 checks = "*"
 fail_on = "hard"
 
+# ── 破折號/分號全站升 hard（2026-07-19 完整選項3）───────────────────────────────
+# legacy 清理 campaign 已把 144 篇 legacy 全清乾淨（worklist 歸零，143 篇實改 + 手路菜
+# 經 gate precision 修正後達標），此刻全站 0 篇 emdash>15 或分號>12（可編輯正文計數）。
+# 因此把 pre-commit 的觸檔即硬 override 同步到 ci-deploy，全站升 hard = 新舊文章都硬性
+# 擋超量破折號/分號。計數只算可編輯正文（blockquote/腳註/書名/圖說/參考裝置不計，
+# _uneditable_punct_predicate SSOT）。campaign 收官：reports/prose-instrument-upgrade-2026-07-19.md。
+[profiles.ci-deploy.options_overrides.prose-health]
+emdash_hard_over = 15
+semicolon_hard_over = 12
+
 [profiles.dashboard]
 # 全跑、不擋、JSON output for site dashboards.
 checks = "*"
