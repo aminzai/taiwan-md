@@ -564,3 +564,81 @@ def test_plugin_registered():
     registry.reset_registry()
     found = registry.discover_checks()
     assert "prose-health" in found, list(found.keys())
+
+
+# ════════════════════════════════════════════════════════════════════════
+# 2026-07-19 哲宇 directive — 分號 / 英文短句開場 / 長句 / 強加對比收束
+# ════════════════════════════════════════════════════════════════════════
+
+
+def _filler(n=22):
+    """夠長的敘事 filler，讓文章過 20 行門檻 + 帶年份/URL 避免無關維度污染 score。"""
+    return "\n".join(["敘事內容 2020 年 2024 年在這裡展開。"] * n) + \
+        "\n\n[^1]: [來源](https://e.com) — 說明文字足夠長度證明來源。"
+
+
+def test_semicolon_density_scored_and_itemized(tmp_path):
+    """全形分號 > 3 → 逐處 WARN + 計分（§8c，哲宇 2026-07-19）。"""
+    body = ("以為甲；以為乙；以為丙；以為丁；以為戊。\n\n" + _filler())
+    violations = _check(tmp_path, body)
+    semis = _hope(violations, "全形分號")
+    assert len(semis) >= 4, f"5 個分號應逐處 flag，got {len(semis)}"
+    assert any("；" in (v.snippet or "") for v in semis)
+
+
+def test_semicolon_footnote_line_exempt(tmp_path):
+    """腳註定義行的分號不計（引用裝置，分隔多來源可接受）。"""
+    body = "正常敘事一句話在這裡。\n\n" + _filler()
+    body += "\n[^2]: [來源A](https://a.com) — 甲說明；[來源B](https://b.com) — 乙說明；丙說明。"
+    semis = _hope(_check(tmp_path, body), "全形分號")
+    assert len(semis) == 0, f"腳註行分號應豁免，got {[v.line for v in semis]}"
+
+
+def test_english_short_opener_detected(tmp_path):
+    """段落以超短平述句（。）開場 + 接長句 = 英文 topic-sentence 腔（哲宇 anti-example）。"""
+    body = ("協議並沒有收尾。自救會指控補償被打了六七折、有成員被排除在外，"
+            "爭議一路打進行政法院最後敗訴。\n\n" + _filler())
+    openers = _hope(_check(tmp_path, body), "短句開場")
+    assert len(openers) >= 1, "「協議並沒有收尾。」+ 長句應觸發"
+    assert "協議並沒有收尾" in openers[0].snippet
+
+
+def test_english_opener_question_not_flagged(tmp_path):
+    """開場短問句（？）是中文設問，非英文 topic-sentence，不報。"""
+    body = ("為什麼選這塊地？因為這裡靠近港口、腹地夠大、地價便宜，"
+            "當年的規劃者算過很多筆帳才決定落腳在此處。\n\n" + _filler())
+    openers = _hope(_check(tmp_path, body), "短句開場")
+    assert len(openers) == 0, f"設問開場不該報，got {[v.snippet for v in openers]}"
+
+
+def test_english_opener_concrete_date_not_flagged(tmp_path):
+    """含數字的具體場景定調句是自然中文敘事，不報。"""
+    body = ("1978 年通車了。這條路從基隆一路鋪到高雄，把西部走廊的南北往來"
+            "大幅縮短，也改變了整個島嶼的物流節奏。\n\n" + _filler())
+    openers = _hope(_check(tmp_path, body), "短句開場")
+    assert len(openers) == 0, f"含數字場景句不該報，got {[v.snippet for v in openers]}"
+
+
+def test_forced_contrast_closer_detected(tmp_path):
+    """「根本是兩件事 / 兩本帳」強加對比收束句（§11 Tier1 散文變體）。"""
+    body = ("大眾的直覺和官方的統計邏輯，量的根本是兩件事。\n\n"
+            "這條路的兩本帳，從來沒有攤開在同一頁上過。\n\n" + _filler())
+    contrasts = _hope(_check(tmp_path, body), "強加對比")
+    assert len(contrasts) >= 2, f"應抓到 兩件事 + 兩本帳，got {len(contrasts)}"
+
+
+def test_forced_contrast_literal_two_things_not_flagged(tmp_path):
+    """實指「兩件事」（這篇要做兩件事）不是對比收束，不報。"""
+    body = ("這篇文章要做兩件事：查證傳說、記錄代價。完工與命名是相隔半年的兩件事。\n\n"
+            + _filler())
+    contrasts = _hope(_check(tmp_path, body), "強加對比")
+    assert len(contrasts) == 0, f"實指兩件事不該報，got {[v.snippet for v in contrasts]}"
+
+
+def test_runon_sentence_detected(tmp_path):
+    """超長句（≥62 字 + ≥8 停頓）= 沒呼吸的辭藻湯（§8d）。"""
+    body = ("他主辦中壢段、楊梅段、三義段的用地取得，地籍調查、地上物查估、"
+            "現場勘查、補償協商、拆遷安置他都要親自到場，前前後後，"
+            "來來回回，不知道走了幾遍，花了很多時間才順利取得全部用地。\n\n" + _filler())
+    runons = _hope(_check(tmp_path, body), "長句沒呼吸")
+    assert len(runons) >= 1, "超長多逗號句應觸發 run-on WARN"

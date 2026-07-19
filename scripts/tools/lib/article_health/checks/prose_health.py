@@ -13,9 +13,20 @@ quality-scan dims:
   1. bullet density           7. repeated bullet blocks    13. (THIN — deferred)
   2. year count               8. plastic phrases (5 variants + extras)
   3. URL count               8b. em-dash overuse
-  4. hollow words             9. textbook opening
-  5. (prose lines — deferred) 10. formulaic ending
-  6. lastHumanReview          11. template H2
+  4. hollow words             8c. 全形分號「；」density (2026-07-19 哲宇, scored)
+  5. (prose lines — deferred) 8d. run-on 長句 / 辭藻湯 (2026-07-19, WARN-only)
+  6. lastHumanReview          8e. 英文式短句開場 (2026-07-19, WARN-only)
+                              9. textbook opening
+                             10. formulaic ending
+                             11. template H2
+
+2026-07-19 哲宇 directive (高速公路.md live review) 新增三 dim + Tier1 一變體：
+  - §8c 全形分號：繁中散文水印，翻譯腔。scored（只在 rewrite-stage-3 咬）。
+  - §8d run-on 長句：≥62 字 + ≥8 停頓 = 沒呼吸的辭藻湯。WARN-only soft-launch。
+  - §8e 英文式短句開場：≤8 字平述句（。結尾、無數字）+ 接長句 = topic-sentence 腔。
+    排除設問（？）與具體場景句。WARN-only soft-launch。corpus 校準見
+    reports/prose-instrument-upgrade-2026-07-19.md。
+  - Tier1 補「強加對比收束句」：根本是兩件事 / 兩本帳 / 不同的語言（散文對位變體）。
                              12. (LIST-DUMP — deferred)
                              14. (QUALITY-DECAY — deferred)
                              15. (CHINA-TERM — deferred to terminology plugin)
@@ -98,6 +109,39 @@ _RE_HOLLOW = re.compile(
 # ── Em-dash (manifesto-11 [9-10] / quality-scan §8b) ─────────────────────────
 _RE_EMDASH = re.compile(r"——")
 
+# ── 中文字元計數（開場短句 / 長句判定用）─────────────────────────────────────
+_CJK_CHAR = re.compile(r"[一-鿿]")
+
+# ── 全形分號「；」(quality-scan §8c，2026-07-19 哲宇 directive) ────────────────
+# 繁中自然散文極少用全形分號。它是翻譯腔 / 學術腔的水印：作者把英文一個帶 ';' 的長句
+# 直譯過來，或把「該用句號斷成兩句」「該用頓號列舉」的並列子句硬用；接起來，讀起來像
+# 論文或法律條文而不像人話。自然中文做法：句號（。）斷句、頓號（、）列舉。合法殘餘
+# （引用官方 / 法律原文、腳註分隔多來源）用「排除腳註行 + ≤3 免計」兜住，不追殺文學例外。
+_RE_SEMICOLON = re.compile(r"；")
+
+# ── 英文式超短句開場（歐化語法，2026-07-19 哲宇 directive）────────────────────
+# 哲宇 anti-example：「協議並沒有收尾。自救會指控補償被打了六、七折…」——段落以一句
+# 超短陳述（≤ 10 字）開頭，緊接一句長得多的句子。這是英文 topic-sentence / punchy
+# lead 的腔調（先甩一句短的定調，再展開），中文自然行文會直接流進主題，不會孤立一個
+# 四五字的短句當引子。判準刻意排除「整段只有一句短句」的電影感過場句（那是另一種手法，
+# 不在此 detector 打擊範圍）——只抓「短開場 + 同段接長句」這個 English structure 指紋。
+# 門檻經 2026-07-19 全 corpus 853 篇校準：初版 (≤10/≥15/2×) 誤報 58%（哲宇 anti-example
+# 只是最極端一種，中文正常段落也常見中短句開頭）。收緊到 ≤8 字開場 + 後接 ≥28 字 + ≥3.5×
+# 落差，把打擊面收到「真的甩一句超短定調再長篇展開」的英文 topic-sentence 指紋。
+_ENGLISH_OPENER_MAX_CHARS = 8    # 開場句中文字數 ≤ 此值才算「超短」
+_ENGLISH_OPENER_NEXT_MIN = 28    # 後接句中文字數 ≥ 此值（確保是「短→長」不是「短→中」）
+_ENGLISH_OPENER_RATIO = 3.5      # 後接句 ≥ 開場句的幾倍
+
+# ── 長句 / 華麗辭藻湯（quality-scan §8d，2026-07-19 哲宇 directive）────────────
+# 哲宇：「有些段落切得太長，語感不順，看起來像是華麗的辭藻湯」。機械 proxy：單一句子
+# （。！？之間）塞太多逗號 / 頓號 / 分號子句又太長 = 沒有呼吸的 run-on，讀起來像堆疊
+# 修飾語的湯。soft-launch WARN，門檻抓得保守（同時超過長度 + 停頓數才報）避免誤殺
+# 正常敘事長句。
+# 門檻經 2026-07-19 corpus 校準：55字/7停頓誤報偏多（37%，多為正常敘事長句）。
+# 收到 62字 + 8停頓，聚焦真正沒呼吸的辭藻湯。WARN-only（不計分）故寬鬆代價低，但仍收緊減噪。
+_RUNON_MIN_CJK = 62       # 句子中文字數 ≥ 此值
+_RUNON_MIN_PAUSES = 8     # 句內停頓（，、；）數 ≥ 此值
+
 # 歐化「(不)是 X 的」判斷句 (余光中〈中文的常態與變態〉)：是/不是 + 評價形容詞 + 的 + 句末標點。
 # 自然中文直接讓形容詞當謂語：「這個選址不隨便」優於「這個選址不是隨便的」。2026-06-07 哲宇
 # directive 加入 (live review 複雜生活節「這個選址不是隨便的」)。curated 評價形容詞 list +
@@ -136,6 +180,20 @@ _TIER1_PATTERNS = [
     re.compile(r"並非[^而\n]{1,30}[，,]\s*而是"),
     re.compile(r"並不[^而是\n]{1,30}[，,]\s*而是"),
 ]
+
+# ── §11 Tier 1 補：強加對比的收束句（2026-07-19 哲宇 directive）───────────────
+# 對位句型的散文變體：不是「不是 X 是 Y」的句型，而是段末 / 節末拿一個抽象對比當
+# 結論——「（大眾直覺與官方統計）量的根本是兩件事」「（兩邊講的）根本是不同的語言」
+# 「這條路的兩本帳，從來沒有攤開在同一頁上」。tell 是「根本是 …兩件事 / 兩回事 /
+# 不同的 X」「兩本帳」「沒攤開在同一頁」這種把並列的兩者硬拗成「其實是兩種東西」的
+# essay 收尾腔。跟「兩件事」裸詞不同（「這篇要做兩件事」「相隔半年的兩件事」是實指，
+# 不抓）——只抓「根本是 / 其實是 + 兩件事 / 不同的」與「兩本帳 / 同一頁」高精度變體。
+_RE_FORCED_CONTRAST_CLOSER = re.compile(
+    r"(?:根本|其實|說到底|講的|量的|要的|問的)(?:是|上是|其實是)?[^，。！？\n]{0,10}"
+    r"(?:兩件事|兩回事|兩碼事|不同的(?:語言|東西|世界|邏輯|事|概念))"
+    r"|兩本帳"
+    r"|(?:從來)?(?:沒有|沒|未曾|不曾)[^，。！？\n]{0,8}(?:攤開|放|擺)[^，。！？\n]{0,6}同一(?:頁|張|條|個)"
+)
 
 # ── Manifesto §11 Tier 2: AI 抽象 metaphor 詞 ────────────────────────────────
 _TIER2_WORDS = [
@@ -378,6 +436,100 @@ def _detect_time_hat_opening(body: str) -> bool:
             continue
         return bool(_RE_TIME_HAT_OPENING.match(stripped))
     return False
+
+
+def _paragraphs_with_offset(body: str) -> list[tuple[int, str]]:
+    """Blank-line-separated paragraph blocks with their start char offset in body.
+
+    Offset aligns with body (loader pads leading blank lines for source-line
+    parity), so _line_at_offset(body, offset) gives the source .md line number.
+    """
+    out: list[tuple[int, str]] = []
+    offset = 0
+    cur_start: int | None = None
+    cur_lines: list[str] = []
+    for line in body.split("\n"):
+        if line.strip() == "":
+            if cur_lines:
+                out.append((cur_start or 0, "\n".join(cur_lines)))
+                cur_lines = []
+                cur_start = None
+        else:
+            if cur_start is None:
+                cur_start = offset
+            cur_lines.append(line)
+        offset += len(line) + 1  # +1 for the split '\n'
+    if cur_lines:
+        out.append((cur_start or 0, "\n".join(cur_lines)))
+    return out
+
+
+# 段落開頭若是這些字元 = 非散文 block（heading / list / quote / callout / caption /
+# HTML / code / image / link），英文短句開場 detector 一律跳過。
+_NON_PROSE_LEAD = set("># -*|`![_<+=~")
+
+
+def _detect_english_openers(body: str) -> list[tuple[int, str, int, int]]:
+    """英文式超短句開場：段落以 ≤N 字短陳述開頭 + 同段緊接長句。
+
+    回傳 [(offset, 開場句, 開場字數, 後接字數)]。刻意排除「整段只有一句短句」的
+    過場句（rest 為空 → skip），只抓「短開場 + 接長句」的 English topic-sentence 腔。
+    """
+    hits: list[tuple[int, str, int, int]] = []
+    for start, para in _paragraphs_with_offset(body):
+        s = para.strip()
+        if not s or s[0] in _NON_PROSE_LEAD or s.startswith("```"):
+            continue
+        # 跳過數字 / 英文字母 / 粗體標籤開頭（清單、年份條列、callout 標題）
+        if re.match(r"^(?:\d|[A-Za-z]|\*\*)", s):
+            continue
+        # 只抓「。」結尾的平述定調句：英文 topic-sentence 是平述句。開場短問句（？）是
+        # 中文設問（「為什麼選這塊地？」「軍人多到什麼程度？」）是自然修辭，不是這個病；
+        # 驚嘆句（！）也是另一種語氣。限定 。 結尾把打擊面收到哲宇 anti-example 的句型
+        # （2026-07-19 corpus 抽樣揭：？ 開場全是設問 false positive）。
+        m = re.match(r"^([^。！？\n]{1,40}。)", s)
+        if not m:
+            continue
+        first = m.group(1)
+        opener_len = len(_CJK_CHAR.findall(first))
+        if opener_len == 0 or opener_len > _ENGLISH_OPENER_MAX_CHARS:
+            continue
+        # 具體場景定調句（含數字：年份 / 日期 / 數量）是自然中文敘事節奏（「1978 年通車。」
+        # 長段），不是英文抽象 topic-sentence 腔。哲宇 anti-example「協議並沒有收尾」是抽象
+        # 狀態陳述、無數字——用「開場句含數字則豁免」把打擊面收到抽象定調句（2026-07-19 校準）。
+        if re.search(r"[0-9]", first):
+            continue
+        rest = s[m.end():].strip()
+        if not rest:
+            continue  # 單句過場段 — 另一種手法，不打擊
+        m2 = re.match(r"^([^。！？\n]{1,200}[。！？]?)", rest)
+        next_seg = m2.group(1) if m2 else rest
+        next_len = len(_CJK_CHAR.findall(next_seg))
+        if next_len >= _ENGLISH_OPENER_NEXT_MIN and next_len >= opener_len * _ENGLISH_OPENER_RATIO:
+            lead = len(para) - len(para.lstrip())
+            hits.append((start + lead, first, opener_len, next_len))
+    return hits
+
+
+def _detect_runon_sentences(text: str) -> list[tuple[int, str, int, int]]:
+    """長句 / 華麗辭藻湯：單句同時超過長度門檻 + 停頓數門檻 = 沒呼吸的 run-on。
+
+    回傳 [(offset, 句子, 中文字數, 停頓數)]。保守雙門檻避免誤殺正常敘事長句。
+    """
+    hits: list[tuple[int, str, int, int]] = []
+    for m in re.finditer(r"[^。！？\n]{1,400}[。！？]", text):
+        # 排除腳註定義行（[^N]: …）與 blockquote 行（> …）：引用裝置 / 直接引語不是
+        # 作者散文，長是來源本身的事，不該當 run-on 罰（2026-07-19 dogfood 揭 4 處腳註 FP）。
+        ls = text.rfind("\n", 0, m.start()) + 1
+        line_prefix = text[ls:ls + 4].lstrip()
+        if line_prefix.startswith("[^") or line_prefix.startswith(">"):
+            continue
+        seg = m.group(0)
+        cjk = len(_CJK_CHAR.findall(seg))
+        pauses = seg.count("，") + seg.count("、") + seg.count("；")
+        if cjk >= _RUNON_MIN_CJK and pauses >= _RUNON_MIN_PAUSES:
+            hits.append((m.start(), seg, cjk, pauses))
+    return hits
 
 
 def _count_template_h2(body: str) -> int:
@@ -677,6 +829,74 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 fix_suggestion="改用「，即」「（）」「：」/ 分句 / 短句 / bullet",
             )
 
+    # ── 8c. Semicolon density (；) — 2026-07-19 哲宇 directive ──
+    # 排除腳註定義行（引用裝置，分號分隔多來源可接受）。text_for_patterns 已排除
+    # code fence（tw-timeline/tw-bars 的 ；不算）+ URL。
+    semi_matches = []
+    for m in _RE_SEMICOLON.finditer(text_for_patterns):
+        ls = text_for_patterns.rfind("\n", 0, m.start()) + 1
+        le = text_for_patterns.find("\n", m.start())
+        line_text = text_for_patterns[ls:(le if le != -1 else len(text_for_patterns))]
+        if re.match(r"^\s*\[\^", line_text):  # 腳註定義行 → 免計
+            continue
+        semi_matches.append(m)
+    semi_n = len(semi_matches)
+    if semi_n > 8:
+        score += 2
+        reasons.append(f"分號{semi_n}個")
+    elif semi_n > 3:
+        score += 1
+        reasons.append(f"分號{semi_n}個")
+    if semi_n > 3:
+        for m in semi_matches[:10]:
+            line_no = _line_at_offset(text_for_patterns, m.start())
+            ctx = _context_around(text_for_patterns, m.start(), m.end(), before=18, after=18)
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=f"全形分號連用 (§quality-scan #8c 第 {semi_matches.index(m)+1}/{semi_n} 處)：{ctx}",
+                line=line_no,
+                snippet="；",
+                editorial_ref="EDITORIAL.md §歐化語法 §分號 + quality-scan #8c",
+                fix_suggestion=(
+                    "繁中散文少用全形分號（翻譯腔水印）。多數情況：前後子句拆成兩個句號句"
+                    "（；→。），或並列項改頓號（、）。分號讀起來像論文/法律條文不像人話。"
+                ),
+            )
+
+    # ── 8d. Run-on sentence / 華麗辭藻湯 (soft-launch WARN，不計分) — 哲宇 directive ──
+    for off, seg, cjk, pauses in _detect_runon_sentences(text_for_patterns)[:8]:
+        line_no = _line_at_offset(text_for_patterns, off)
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=f"長句沒呼吸 (§quality-scan #8d {cjk}字/{pauses}個停頓)：{seg[:50]}…",
+            line=line_no,
+            snippet=seg[:80],
+            editorial_ref="EDITORIAL.md §段落呼吸 + §歐化語法",
+            fix_suggestion=(
+                "這句塞太多逗號子句、太長，讀起來像堆修飾語的湯。在意義段落處斷成 2-3 個"
+                "句號句；一句話講一件事，讓句子之間有呼吸。"
+            ),
+        )
+
+    # ── 8e. 英文式超短句開場 (soft-launch WARN，不計分) — 哲宇 directive ──
+    for off, opener, olen, nlen in _detect_english_openers(body)[:8]:
+        line_no = _line_at_offset(body, off)
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=f"英文式短句開場 (§歐化：開場{olen}字→接{nlen}字)：「{opener}」",
+            line=line_no,
+            snippet=opener[:60],
+            editorial_ref="EDITORIAL.md §歐化語法 §英文式短句開場",
+            fix_suggestion=(
+                "段落以超短句定調再展開，是英文 topic-sentence 腔（哲宇 anti-example："
+                "「協議並沒有收尾。自救會指控…」）。中文自然行文直接流進主題：把短開場併入"
+                "後句，或改成有具體人事時地的句子起頭，不要孤立一個四五字短句當引子。"
+            ),
+        )
+
     # ── 9. Textbook opening ──
     if _detect_textbook_opening(body):
         score += 2
@@ -787,6 +1007,24 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                         "(3) 讀者真會預設 X 嗎？三題全 no = 改成正面斷言"
                     ),
                 )
+
+    # ── §11 Tier 1 補：強加對比的收束句 — 2026-07-19 哲宇 directive ──
+    for m in _RE_FORCED_CONTRAST_CLOSER.finditer(text_for_patterns):
+        line_no = _line_at_offset(text_for_patterns, m.start())
+        ctx = _context_around(text_for_patterns, m.start(), m.end())
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=f"強加對比收束句 (§11 Tier 1 散文變體)：{ctx}",
+            line=line_no,
+            snippet=m.group(0)[:60],
+            editorial_ref="MANIFESTO.md §11 Tier 1 + EDITORIAL §對位句型",
+            fix_suggestion=(
+                "把並列的兩者硬拗成「其實是兩件事 / 兩本帳 / 不同的語言」是對位句型的散文變體："
+                "作者用一個抽象對比幫段落強行收尾。改法：直接寫出兩者各自是什麼、差在哪的具體"
+                "後果，不要用「根本是兩件事」這種抽象標籤代替說明。"
+            ),
+        )
 
     # ── 歐化「(不)是 X 的」判斷句 — 2026-06-07 哲宇 directive 儀器化 ──
     for m in _RE_EURO_DE.finditer(text_for_patterns):
