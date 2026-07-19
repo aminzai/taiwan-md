@@ -55,15 +55,27 @@ REFLEXES #24「儀器哭狼」守則：新偵測器一定要對全 corpus 量假
 
 高速公路.md 升級後：score **5 → 7**（+2 分號），5 類全中，含哲宇 anti-example「協議並沒有收尾。」逐字命中。0 crash / 867 檔，38 test（30 舊 + 8 新）全過。
 
-## 給哲宇的決策：要不要把執行缺口補上？
+## 執行缺口：哲宇選 選項3（升 hard）→ 責任式分階段實作
 
-偵測都補齊了，但**破折號 / 分號這種 WARN 永遠不擋 ship** 的結構沒動——因為那是 §自主權邊界（會影響 850 篇 corpus 的 gate 行為）。三個選項：
+哲宇選最強的選項 3（破折號/分號升 hard）。但升 hard 前先量 blast radius：
 
-1. **維持現狀**：新偵測器都在，rewrite-stage-3 主動寫作時會咬。批量 / legacy 文章不回頭 gate。（最保守）
-2. **把「批量寫文章」也強制走 rewrite-stage-3 score-budget 閘**：治本，但要改批量 pipeline，且會讓一批 legacy 文章 fail 需要清。
-3. **把破折號 / 分號某個門檻升 hard**：最強，但 fail_on=hard 會擋 commit/push，等於逼全 corpus 立刻清乾淨——衝擊最大，不建議未經哲宇點頭。
+| 惡性門檻             | 會 hard-fail 的 legacy 篇數 |
+| -------------------- | --------------------------- |
+| 破折號 > 15          | 68 篇                       |
+| 全形分號 > 12        | 89 篇                       |
+| 聯集（> 15 或 > 12） | **144 篇**                  |
 
-建議走 **選項 1 + 對高速公路.md 這種已 ship 的旗艦文個別 polish**（分號 20 → 拆句、破折號 17 → 減半、4 處強加對比收束改寫）。要不要我接著 polish 高速公路.md，你決定。
+最惡：蘇打綠 72 破折號、認知作戰 29 分號 + 24 破折號、醫療與健保 46 分號。**直接把 ci-deploy 全站升 hard 會 brick 每一次 push**（144 篇立刻紅），而這 144 篇的清理是判斷密集的改寫（拆句要讀懂語意），不是機械 auto-fix。
+
+**責任式實作（本 session 已 ship，425d41125）**：破折號 > 15 / 分號 > 12 只在 **pre-commit profile**（`--staged`，只查你 commit 的檔）升 HARD；ci-deploy 全站掃描刻意不設 → legacy 144 維持 WARN、**不 brick**。
+
+- 效果：你**新寫或編輯**的檔超量就擋 commit（觸檔即清 touch-it-fix-it）→ recurrence 立刻止血，且觸碰 legacy 就順手清。
+- 方向安全性：pre-commit 比 ci-deploy 嚴（過嚴閘必過鬆閘），非 2026-05-11 那種 pass-local-fail-CI 反向 asymmetry。
+- 驗證：認知作戰.md ci-deploy=hard0（過）/ pre-commit=hard2（擋）；全站 ci-deploy sweep passed=True。
+
+**剩下的：全站升 hard 需要 legacy 清理 campaign**。144 篇批次清（分號拆句、破折號減半），清完再把同組 override 加進 ci-deploy → 全站升 hard，達成完整選項 3。這步是 >50 檔判斷密集改寫，屬 §自主權邊界，要哲宇點頭 scope／節奏（一次全清 vs 分批 vs 只清 featured 旗艦文）才啟動。
+
+高速公路.md 本篇已個別 polish（見 git log）。
 
 ## 給未來 agent 的一句話
 
