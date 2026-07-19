@@ -7,8 +7,13 @@
 ＋主權的巴別塔：譯文不該把台灣的事搬到中國）。
 
 機制：對每個 (zh source, translation) 對，數中國地名標記在譯文 vs zh 源的出現數。
-若譯文提到北京/上海/中國大陸而 zh 源完全沒有對應原詞 → 幻覺式遷移，flag 人審。
-保守設計：只抓「譯文有、源頭零」的強訊號，避免正常提及中國的文章誤報。
+兩道訊號：
+  (1) 強訊號 — 譯文提北京/上海/中國大陸但 zh 源完全零對應原詞 → 逐行 flag（幻覺遷移）
+  (2) 計數不符 — zh 源有 N 次但譯文有 M 次且 M-N ≥ 3 → 標整檔人審。這道補 (1) 的
+      file-level 盲點：一篇同時有合法北京提及＋台北→北京 幻覺的文章（如整篇民主化文
+      被搬到北京），(1) 會因 zh 源含北京而整檔豁免，(2) 靠計數超額抓多出來的替換。
+      閾值 ≥3 因為外交/兩岸類文章翻譯常把裸「中國」展開成北京，+1~2 是措辭差非錯。
+      2026-07-19 讀者揭露 file-level 盲點後補上（occurrence-based 兩邊同單位）。
 
 用法：
     python3 geo-fidelity-check.py --lang vi           # 掃 knowledge/vi/ 全部
@@ -88,16 +93,35 @@ def check_file(trans_path: Path):
 
     hits = []
     for marker in MARKERS:
-        # zh 源有對應原詞 → 該 marker 整篇合法，跳過
-        if any(t in zh_body for t in marker["zh_terms"]):
-            continue
-        # zh 源零對應，但譯文出現 → 逐行 flag（該行本身若是合法語境如 Beijing opera 則跳過）
         line_exempt = marker.get("line_exempt")
+        # 譯文命中該 marker 的所有行（扣掉行級合法語境如 Beijing opera），逐行記 occurrence 數
+        marker_lines = []  # (line_no, line, occ_count)
         for i, line in enumerate(trans_body.splitlines(), start=offset + 1):
-            if marker["target"].search(line):
-                if line_exempt and line_exempt.search(line):
-                    continue
+            if line_exempt and line_exempt.search(line):
+                continue
+            occ = len(marker["target"].findall(line))
+            if occ:
+                marker_lines.append((i, line, occ))
+        if not marker_lines:
+            continue
+
+        trans_count = sum(occ for _, _, occ in marker_lines)  # occurrence-based（與 zh 同單位）
+        zh_count = sum(zh_body.count(t) for t in marker["zh_terms"])
+        if zh_count == 0:
+            # zh 源零對應，但譯文出現 → 逐行 flag（幻覺遷移強訊號）
+            for i, line, _ in marker_lines:
                 hits.append((marker["name"], i, line.strip()[:90]))
+        elif trans_count - zh_count >= 3:
+            # zh 源有 N 次但譯文有 M 次且 M-N ≥ 2 → 多出的疑似 台北→北京 類替換藏在
+            # 合法 Beijing 提及底下（file-level 豁免的盲點，2026-07-19 讀者揭露）。
+            # 閾值 ≥3：+1~2 幾乎都是翻譯把裸「中國」展開（外交類文章尤其）成 Pequim/北京 的措辭差，
+            # 系統性地名幻覺（如整篇台北→北京）會多出好幾次。標整檔供人審——per-line
+            # 對齊太難，先給計數訊號。occurrence-based 兩邊同單位（同行多次也算數）。
+            hits.append((
+                f"{marker['name']} 計數不符",
+                marker_lines[0][0],
+                f"譯文 {trans_count} 次 > zh 源 {zh_count} 次（多 {trans_count - zh_count}）——疑似地名幻覺，逐行對照 zh",
+            ))
     return hits
 
 
