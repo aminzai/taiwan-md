@@ -60,6 +60,20 @@ phase = "7-pre-commit-wired"
 checks = "*"
 fail_on = "hard"
 
+# ── 破折號/分號「觸檔即硬」gate（2026-07-19 哲宇選項3）───────────────────────────
+# 只在 pre-commit（--staged，只查你 commit 的檔）把惡性超量破折號/分號升 HARD →
+# 你新寫 or 編輯的檔破折號 > 15 或全形分號 > 12 就擋 commit，逼「觸檔即清」。
+# ci-deploy 全站掃描【刻意不設】這兩個 override → legacy 144 篇維持 WARN、不 brick
+# push/deploy。這是分階段 legacy-grandfather 路徑（全站升 hard 需先跑 legacy 清理
+# campaign，見 reports/prose-instrument-upgrade-2026-07-19.md）。
+#
+# 對「對稱原則」（上方 2026-05-11 註解）的但書：那條防的是 pre-commit【比 ci-deploy 鬆】
+# （pass local → fail CI 的 asymmetric ship）。這裡 pre-commit【比 ci-deploy 嚴】方向相反，
+# 是安全的：過了 pre-commit（嚴）必然過 ci-deploy（鬆），不會 pass-local-fail-CI。
+[profiles.pre-commit.options_overrides.prose-health]
+emdash_hard_over = 15
+semicolon_hard_over = 12
+
 [profiles."rewrite-stage-3"]
 # REWRITE-PIPELINE Stage 3 (Verify): quality-scan ≤ 3 budget.
 checks = ["prose-health"]

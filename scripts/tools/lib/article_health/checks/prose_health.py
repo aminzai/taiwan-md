@@ -711,6 +711,24 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             except (TypeError, ValueError):
                 score_budget = 3
 
+    # 破折號 / 分號「觸檔即硬」門檻（2026-07-19 哲宇選項3）：只在有設此 config 的 profile
+    # 才把超量破折號 / 分號升成 HARD。pre-commit profile 設了 → 你 commit 的檔（新寫 or
+    # 編輯）超量就擋，逼觸檔即清（touch-it-fix-it）。ci-deploy 全站掃描不設 → 保持 WARN，
+    # 144 篇 legacy 不會 brick push/deploy。門檻設在惡性等級（破折號>15 / 分號>12），
+    # 抓 高速公路(17/20)、蘇打綠(72 dash)、認知作戰(29 semi) 這種，不動輕症。
+    def _hard_over(key: str):
+        if not config:
+            return None
+        v = config.get(key)
+        if v is None:
+            return None
+        try:
+            return int(v)
+        except (TypeError, ValueError):
+            return None
+    emdash_hard_over = _hard_over("emdash_hard_over")
+    semicolon_hard_over = _hard_over("semicolon_hard_over")
+
     # Use body without protected regions for pattern detection so code
     # blocks / link URLs don't trigger false positives.
     text_for_patterns = target.body_without_protected()
@@ -814,6 +832,21 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     elif dash_n > 4:
         score += 1
         reasons.append(f"破折號{dash_n}個")
+    # 觸檔即硬 gate（哲宇選項3）：pre-commit profile 設 emdash_hard_over 時，超量升 HARD。
+    if emdash_hard_over is not None and dash_n > emdash_hard_over:
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.HARD,
+            message=(
+                f"破折號連用超硬門檻：{dash_n} 處 > {emdash_hard_over}"
+                f"（§quality-scan #8b HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+            ),
+            editorial_ref="EDITORIAL.md §破折號 + MANIFESTO §11.2",
+            fix_suggestion=(
+                f"這是 pre-commit HARD gate：你改到的檔破折號必須降到 ≤ {emdash_hard_over}。"
+                "改用「，即」「（）」「：」/ 分句 / 短句。（全站 legacy 仍 WARN 不擋，只有你觸碰的檔要清。）"
+            ),
+        )
     # Only itemize if over budget (> 8) — don't spam < 5 instances
     if dash_n > 8:
         for m in dash_matches[:10]:
@@ -847,6 +880,21 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     elif semi_n > 3:
         score += 1
         reasons.append(f"分號{semi_n}個")
+    # 觸檔即硬 gate（哲宇選項3）：pre-commit profile 設 semicolon_hard_over 時，超量升 HARD。
+    if semicolon_hard_over is not None and semi_n > semicolon_hard_over:
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.HARD,
+            message=(
+                f"全形分號超硬門檻：{semi_n} 處 > {semicolon_hard_over}"
+                f"（§quality-scan #8c HARD gate，2026-07-19 哲宇選項3 觸檔即硬）"
+            ),
+            editorial_ref="EDITORIAL.md §歐化語法 §分號",
+            fix_suggestion=(
+                f"這是 pre-commit HARD gate：你改到的檔全形分號必須降到 ≤ {semicolon_hard_over}。"
+                "拆句號句 / 並列改頓號。（全站 legacy 仍 WARN 不擋，只有你觸碰的檔要清。）"
+            ),
+        )
     if semi_n > 3:
         for m in semi_matches[:10]:
             line_no = _line_at_offset(text_for_patterns, m.start())

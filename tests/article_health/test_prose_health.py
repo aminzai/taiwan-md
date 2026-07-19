@@ -642,3 +642,33 @@ def test_runon_sentence_detected(tmp_path):
             "來來回回，不知道走了幾遍，花了很多時間才順利取得全部用地。\n\n" + _filler())
     runons = _hope(_check(tmp_path, body), "長句沒呼吸")
     assert len(runons) >= 1, "超長多逗號句應觸發 run-on WARN"
+
+
+def test_punct_hard_gate_off_by_default(tmp_path):
+    """無 config override 時，超量破折號/分號仍是 WARN（ci-deploy 全站不 brick）。"""
+    body = ("正文。" + "區隔——插語。" * 18 + "\n\n" + _filler())
+    f = _make_article(tmp_path, body)
+    target = load_target(f)
+    violations = list(prose_health.check(target, {}))  # no override
+    hards = [v for v in violations if v.severity == Severity.HARD]
+    assert hards == [], f"default 不該有 HARD，got {[v.message for v in hards]}"
+
+
+def test_punct_hard_gate_fires_when_configured(tmp_path):
+    """pre-commit config 設 emdash_hard_over 時，超量破折號升 HARD（觸檔即硬）。"""
+    body = ("正文。" + "區隔——插語。" * 18 + "\n\n" + _filler())
+    f = _make_article(tmp_path, body)
+    target = load_target(f)
+    violations = list(prose_health.check(target, {"emdash_hard_over": 15}))
+    hards = [v for v in violations if v.severity == Severity.HARD and "破折號" in v.message]
+    assert len(hards) == 1, f"18 破折號 > 15 應升 1 條 HARD，got {len(hards)}"
+
+
+def test_semicolon_hard_gate_fires_when_configured(tmp_path):
+    """分號 > semicolon_hard_over 升 HARD。"""
+    body = ("甲；乙；丙；丁；戊；己；庚；辛；壬；癸；子；丑；寅；卯。\n\n" + _filler())
+    f = _make_article(tmp_path, body)
+    target = load_target(f)
+    violations = list(prose_health.check(target, {"semicolon_hard_over": 12}))
+    hards = [v for v in violations if v.severity == Severity.HARD and "分號" in v.message]
+    assert len(hards) == 1, f"13 分號 > 12 應升 HARD，got {len(hards)}"
