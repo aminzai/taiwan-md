@@ -126,7 +126,7 @@ Empat kelompok kandidat, armada media internasional, ancaman peluru kendali, lal
 
 ## Pergantian Partai: Tes Tekanan Demokrasi (2000–2024)
 
-Pada malam 18 Maret 2000, stasiun televisi secara bertahap mengumumkan: Chen Shui-bian dan Lu Hsiu-lien terpilih. Kuomintang kehilangan kekuasaan di Taiwan selama lima puluh lima tahun. Lu Hsiu-lien, tahanan politik dua puluh tahun sebelumnya, menjadi wakil presiden. Pengacara pembela dari Pengadilan Besar Mei Li Tao menduduki Istana Presiden. Pada 20 Mei, Li Teng-hui menyerahkan segel presiden kepada Tsai Ing-wen. Serah terima kekuasaan damai, lengkap, dan tanpa pertumpahan darah.[^13]
+Pada malam 18 Maret 2000, stasiun televisi secara bertahap mengumumkan: Chen Shui-bian dan Lu Hsiu-lien terpilih. Kuomintang kehilangan kekuasaan di Taiwan selama lima puluh lima tahun. Lu Hsiu-lien, tahanan politik dua puluh tahun sebelumnya, menjadi wakil presiden. Pengacara pembela dari Pengadilan Besar Mei Li Tao menduduki Istana Presiden. Pada 20 Mei, Li Teng-hui menyerahkan segel presiden kepada Chen Shui-bian. Serah terima kekuasaan damai, lengkap, dan tanpa pertumpahan darah.[^13]
 
 Ma Ying-jeou terpilih pada 2008, pergantian kedua, membuktikan pertama kali bukan kebetulan. Tsai Ing-wen terpilih pada 2016, Taiwan memiliki kepala negara perempuan pertama. Lai Ching-te terpilih pada 2024, membuka era pemerintahan minoritas.
 
