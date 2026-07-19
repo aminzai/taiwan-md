@@ -669,6 +669,42 @@ def _context_around(body: str, start: int, end: int, before: int = 20, after: in
     return f"{leading}{pre}《{mid}》{post}{trailing}"
 
 
+def _uneditable_punct_predicate(text: str):
+    """回傳 is_uneditable(start) — 該標點位置是否落在 campaign 鐵律禁改的合法區。
+
+    破折號/分號 gate 只該數「可編輯正文裡的修辭性用法」，不該數這些合法且鐵律禁改的區：
+      - 參考裝置段（## 參考資料 / 延伸閱讀 / 圖片來源…）之後全部
+      - blockquote 行（> …）：引用材料，—— / ； 是來源的不是作者的
+      - 腳註定義行（[^n]: …）：引用裝置
+      - 圖片行（![…]）與斜體圖說行（_…_）：來源標註
+      - 書名號內《…——…》：破折號是書名的一部分
+    2026-07-19 campaign 揭：不排除這些區，一篇合法引用/書名多的文章（辦桌/花蓮縣/手路菜）
+    無論正文清得多乾淨都過不了 gate（禁改區本身就超標）。排除後量的才是真正的寫作 tic。
+    text_for_patterns 已先移除 code fence / URL，本 predicate 再補上述行級 + 書名 span。
+    """
+    m = _REF_APPARATUS_RE.search(text)
+    ref_cut = m.start() if m else len(text)
+    title_spans = [(mm.start(), mm.end()) for mm in re.finditer(r"《[^》]*》", text)]
+
+    def is_uneditable(start: int) -> bool:
+        if start >= ref_cut:
+            return True
+        ls = text.rfind("\n", 0, start) + 1
+        le = text.find("\n", start)
+        line = text[ls:(le if le != -1 else len(text))]
+        st = line.lstrip()
+        if st.startswith((">", "[^", "![")):
+            return True
+        if st.startswith("_") and st.rstrip().endswith("_"):
+            return True
+        for a, b in title_spans:
+            if a <= start < b:
+                return True
+        return False
+
+    return is_uneditable
+
+
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     """Yield prose-health violations + a final score-summary violation.
 
@@ -821,7 +857,10 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         )
 
     # ── 8b. Em-dash overuse ──
-    dash_matches = list(_RE_EMDASH.finditer(text_for_patterns))
+    # 只數可編輯正文的修辭性破折號——排除 blockquote/腳註/圖說/書名/參考裝置（禁改合法區，
+    # 2026-07-19 campaign 揭：不排除的話引用/書名多的文章正文清乾淨也過不了 gate）。
+    _is_uneditable = _uneditable_punct_predicate(text_for_patterns)
+    dash_matches = [m for m in _RE_EMDASH.finditer(text_for_patterns) if not _is_uneditable(m.start())]
     dash_n = len(dash_matches)
     if dash_n > 15:
         score += 3
@@ -865,14 +904,8 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     # ── 8c. Semicolon density (；) — 2026-07-19 哲宇 directive ──
     # 排除腳註定義行（引用裝置，分號分隔多來源可接受）。text_for_patterns 已排除
     # code fence（tw-timeline/tw-bars 的 ；不算）+ URL。
-    semi_matches = []
-    for m in _RE_SEMICOLON.finditer(text_for_patterns):
-        ls = text_for_patterns.rfind("\n", 0, m.start()) + 1
-        le = text_for_patterns.find("\n", m.start())
-        line_text = text_for_patterns[ls:(le if le != -1 else len(text_for_patterns))]
-        if re.match(r"^\s*\[\^", line_text):  # 腳註定義行 → 免計
-            continue
-        semi_matches.append(m)
+    # 同 §8b：只數可編輯正文的分號（排除 blockquote/腳註/圖說/參考裝置等禁改合法區）。
+    semi_matches = [m for m in _RE_SEMICOLON.finditer(text_for_patterns) if not _is_uneditable(m.start())]
     semi_n = len(semi_matches)
     if semi_n > 8:
         score += 2

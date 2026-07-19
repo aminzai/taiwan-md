@@ -39,6 +39,13 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[2]
 KNOWLEDGE = REPO / "knowledge"
 
+# SSOT：破折號/分號的「可編輯正文」判定跟 prose-health gate 共用同一 predicate，兩邊不漂
+# （2026-07-19 campaign 揭：raw 全 body 計數會把 blockquote/腳註/圖說/書名/參考裝置等
+#  鐵律禁改的合法區也數進去，引用/書名多的文章正文清乾淨也過不了 → gate 與 verifier 都改
+#  只數可編輯正文的修辭性用法）。
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from lib.article_health.checks.prose_health import _uneditable_punct_predicate as _uneditable
+
 # gate 門檻（跟 article-health.config.toml pre-commit override 對齊）
 EMDASH_MAX = 15
 SEMICOLON_MAX = 12
@@ -63,15 +70,19 @@ def _fm_block(text: str) -> str:
     return text[: m.end()] if m else ""
 
 
-def _body_semicolons(text: str) -> int:
-    """全形分號數，排除腳註定義行（引用裝置可接受）。"""
+def _editable_counts(text: str) -> tuple[int, int]:
+    """(可編輯正文破折號數, 分號數)。跟 prose-health gate 用同一 predicate，只數修辭性用法。
+
+    先移除 frontmatter + code fence + HTML 區塊（近似 prose-health 的 body_without_protected），
+    再用共用 predicate 排除 blockquote/腳註/圖說/書名/參考裝置。與 gate 計數對齊。
+    """
     body = _strip_fm(text)
-    n = 0
-    for line in body.split("\n"):
-        if re.match(r"^\s*\[\^", line):
-            continue
-        n += len(_RE_SEMICOLON.findall(line))
-    return n
+    body = re.sub(r"```.*?```", "", body, flags=re.S)
+    body = re.sub(r"<(div|iframe)[\s\S]*?</\1>", "", body)
+    is_un = _uneditable(body)
+    dash = sum(1 for m in _RE_EMDASH.finditer(body) if not is_un(m.start()))
+    semi = sum(1 for m in _RE_SEMICOLON.finditer(body) if not is_un(m.start()))
+    return dash, semi
 
 
 # ── worklist ──────────────────────────────────────────────────────────────
@@ -96,8 +107,7 @@ def worklist():
         body = _strip_fm(text)
         # em-dash: exclude the 《…——…》 book-title & quote-attribution lines is hard to do
         # generically; count raw and let the agent apply the known exceptions.
-        dash = len(_RE_EMDASH.findall(body))
-        semi = _body_semicolons(text)
+        dash, semi = _editable_counts(text)
         if dash > EMDASH_MAX or semi > SEMICOLON_MAX:
             featured = bool(re.search(r"(?m)^featured:\s*true", text))
             rows.append((f.relative_to(REPO), dash, semi, f.parent.name, featured))
@@ -165,13 +175,12 @@ def verify(path: Path) -> bool:
         if miss or add:
             fails.append(f"連結 URL 變動：缺 {miss[:3]} 多 {add[:3]}")
 
-    # 6. 達標
-    body = _strip_fm(new)
-    dash = len(_RE_EMDASH.findall(body)); semi = _body_semicolons(new)
+    # 6. 達標（可編輯正文修辭性用法；禁改合法區不計）
+    dash, semi = _editable_counts(new)
     if dash > EMDASH_MAX:
-        fails.append(f"破折號 {dash} > {EMDASH_MAX}（未達標，扣掉書名/引語出處後仍超）")
+        fails.append(f"破折號 {dash} > {EMDASH_MAX}（可編輯正文仍超，繼續清；書名/引語出處/blockquote/腳註已不計）")
     if semi > SEMICOLON_MAX:
-        fails.append(f"全形分號 {semi} > {SEMICOLON_MAX}（未達標）")
+        fails.append(f"全形分號 {semi} > {SEMICOLON_MAX}（可編輯正文仍超，繼續清）")
 
     # 7. article-health pre-commit hard gate
     try:
