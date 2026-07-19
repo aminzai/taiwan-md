@@ -309,3 +309,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-19 | 061225-twmd-data-refresh-am | dashboard 14-step 全綠／freshness gate 13/13／fork census 3 unverified 進 OBSERVER-QUEUE／`253a4e2c3` | 什麼都沒發生＝感知系統成熟；silent-stale 修補的 downstream | [→](memory/2026-07-19-061225-twmd-data-refresh-am.md) |
 | 2026-07-19 | 063828-twmd-spore-harvest-am | 4 harvest 續（吸菸室 D+5／醫療法 D+4）0 external 連 29 cycle；platform-mix stability vc=2；X gap 5x vc=1 | 題材影響 platform-mix；D+12 close case | [→](memory/2026-07-19-063828-twmd-spore-harvest-am.md) |
 | 2026-07-19 | 070820-twmd-feedback-triage | 隊列真空第 6 日（7/13-7/19）file=0；REST `*/0` HTTP 200 證真空非斷線；archive-scanned=36 synced=0 | 構不到的那格（前端有沒有送）升 chip 給哲宇，不再往 handoff 疊；REFLEXES #82+#60 | [→](memory/2026-07-19-070820-twmd-feedback-triage.md) |
+| 2026-07-19 | 084051-twmd-maintainer-am | 3 idlccp1984 PR reserved carry D+3；17 issue 無新；broken 0.41% | defer-carry ≠ empty；REFLEXES #79+#74 同 cycle apply | [→](memory/2026-07-19-084051-twmd-maintainer-am.md) |
