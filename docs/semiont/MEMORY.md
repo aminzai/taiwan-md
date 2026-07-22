@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-19
-last_session: '2026-07-19-070820-twmd-feedback-triage (隊列真空第 6 日 file=0；REST */0 HTTP 200 證真空非斷線；前端 existence check 升 chip task_78eedf9e)'
+last_updated: 2026-07-22
+last_session: '2026-07-22-094625-manual (九個線上 PR 完成逐篇審核；八篇擋下，一篇 draft 內容通過)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -312,3 +312,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-19 | 084051-twmd-maintainer-am | 3 idlccp1984 PR reserved carry D+3；17 issue 無新；broken 0.41% | defer-carry ≠ empty；REFLEXES #79+#74 同 cycle apply | [→](memory/2026-07-19-084051-twmd-maintainer-am.md) |
 | 2026-07-19 | 092138-標點主權閘 | 讀者揭 68 檔英文假翻譯→script-presence gate；哲宇 review 補 prose 三 dim + 選項3 觸檔即硬 gate | 觀察者抓的是 instance 要找 class；偵測 fire≠有擋，看 fail_on 層級 | [→](memory/2026-07-19-092138-標點主權閘.md) |
 | 2026-07-22 | 092851-manual | 主工作樹完成分流清理；未完投影進 recovery branch，12 個安全 worktree 移除，42 個有工作者保留 | 乾淨不能以遺失未完工作為代價 | [→](memory/2026-07-22-092851-manual.md) |
+| 2026-07-22 | 094625-manual | 九個線上 PR 逐篇審核：八篇擋下，一篇 draft 內容通過 | 綠色 CI 仍需獨立文章健檢與來源抽查 | [→](memory/2026-07-22-094625-manual.md) |
