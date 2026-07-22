@@ -28,7 +28,7 @@ case "$mode" in
 esac
 
 count="$(printf '%s\n' "$files" | grep -c . || true)"; count="${count:-0}"; dels="${dels:-0}"
-echo "scope（$label）: ${count} 檔 / ${dels} deletions（expected: ${expected:-未指定}）"
+echo "scope（${label}）: ${count} 檔 / ${dels} deletions（expected: ${expected:-未指定}）"
 [ "$count" -gt 0 ] && printf '%s\n' "$files" | sed 's/^/  + /'
 [ "$dels" -gt 0 ] && git show HEAD --name-only --format="" --diff-filter=D 2>/dev/null | grep . | sed 's/^/  - DEL /' 2>/dev/null || true
 

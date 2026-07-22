@@ -129,6 +129,13 @@ src/content/ja/
 src/content/ko/
 src/content/fr/
 src/content/es/
+src/content/vi/
+src/content/id/
+src/content/pt/
+src/content/hi/
+
+# Local batch scratch space and logs. Everything here is disposable/recoverable.
+/tmp/
 
 # Contributor profile：個人化 Taiwan.md 互動設定
 # `.example.yml` 是模板，入 git；`.local.yml` 是每個 contributor 自己的 profile，不 commit
