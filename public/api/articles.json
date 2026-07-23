@@ -1435,6 +1435,17 @@
     "path": "ja/Geography/shilin.md"
   },
   {
+    "title": "大支：台南の練功房から出てきた台湾語ラップの「校長」",
+    "description": "大支（Dwagie、本名は曾冠榕）は台南出身の台湾のラッパーであり、音楽スタジオ「人人有功練」の創設者です。MU 掲示板と魔岩レコードの『舌粲蓮花』から、〈台灣SONG〉、『人』、動物の権利、『大嘻哈時代』、そして台南のヒップホップ教育まで、彼は台湾語ラップ、地域の現場、公共的な課題、新世代の育成、台湾の主体意識を同じ一本のマイクの中に収めました。そして台南を、台湾ラップ史が飛ばすことのできない現場に変えたのです。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/dwagie",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ja/People/dwagie.md"
+  },
+  {
     "title": "大支：從台南練功房走出的台語饒舌校長",
     "description": "大支（Dwagie，本名曾冠榕）是台南出身的台灣饒舌歌手、人人有功練創辦人。從 MU 留言板與魔岩唱片《舌粲蓮花》，到〈台灣SONG〉、《人》、動物權、大嘻哈時代與台南嘻哈教育，他把台語饒舌、地方場域、公共議題、新世代培力與台灣主體意識放進同一支麥克風，也讓台南成為台灣饒舌史不能跳過的現場。",
     "category": "People",
@@ -2809,6 +2820,17 @@
     "path": "ja/Technology/taiwan-semiconductor-industry.md"
   },
   {
+    "title": "半導体の水利用と台湾の水資源：ウェハー工場のとなりのダム",
+    "description": "チップの製造には超純水が必要ですが、台湾の水は工場の配管の中だけに存在するのではなく、ダム、降雨、干ばつ、農業用の灌漑、再生水、地域の配分のあいだにも存在します。本稿は半導体の水利用を「TSMC が水を奪う」という一本線の対立としては書かず、先端プロセスがどのように台湾の島の水文、公共のガバナンス、再生水の整備、世界のサプライチェーンを結びつけ、ハイテクをダム、農地、地域の信頼へ引き戻すのかを説明します。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/technology/semiconductor-water-use-and-taiwan-water-resources",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "ja/Technology/semiconductor-water-use-and-taiwan-water-resources.md"
+  },
+  {
     "title": "半導體用水與台灣水資源：晶圓廠旁邊的水庫",
     "description": "晶片製造需要超純水，但台灣的水不是只存在於工廠管線裡，也存在於水庫、降雨、旱災、農業灌溉、再生水與地方調度之間。這篇文章不把半導體用水寫成「台積電搶水」的單線衝突，而是說明先進製程如何把台灣的島嶼水文、公共治理、再生水建設與全球供應鏈綁在一起，讓高科技回到水庫、農田與地方信任。",
     "category": "Technology",
@@ -2931,6 +2953,17 @@
     "featured": false,
     "date": "2026-05-05",
     "path": "Society/台北鼠患.md"
+  },
+  {
+    "title": "台北の喫煙室：無煙都市の中の、呼吸するガラスの箱",
+    "description": "2026年5月7日、西門MRT6番出口の脇に一つの透明な箱が立ちました。台湾初の屋外負圧式喫煙室です。扉を開けると、風は中へ吸い込まれ、外へは出ていきません。台北は無煙都市を目指しながら、まず街頭にたばこを吸うためのガラスの家を建てました。嚴道が肺葉を切除した1984年から、屋内の受動喫煙が3.2%まで下がり、扉の外ではなお半分近くが残る現在まで。この箱の中には、一本の合法なたばこと、この都市がまだ話し終えていない公共空間をめぐる契約が収まっています。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/society/taipei-smoking-room",
+    "readingTime": 74,
+    "featured": false,
+    "date": "2026-07-14",
+    "path": "ja/Society/taipei-smoking-room.md"
   },
   {
     "title": "台北の鼠害：1896年の総督府のペスト令から、2026年の大安区的ハンタウイルスまで",
@@ -4856,14 +4889,7 @@
     "title": "台湾の手揺り飲料文化",
     "description": "タピオカミルクティーからプレミアム茶飲料まで、台湾の手揺り飲料文化の台頭とグローバル展開",
     "category": "ja",
-    "tags": [
-      "美食",
-      "手揺り飲料",
-      "タピオカミルクティー",
-      "茶飲料",
-      "文化輸出",
-      "ブランド国際化"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/food/hand-shaken-drink-culture",
     "readingTime": 22,
     "featured": true,
@@ -5314,15 +5340,7 @@
     "title": "台湾の発酵食品と漬物文化",
     "description": "臭豆腐から豆腐乳（とうふる）まで、台湾独自の発酵技術と漬物文化の伝統を探る",
     "category": "ja",
-    "tags": [
-      "発酵食品",
-      "漬物文化",
-      "臭豆腐",
-      "豆腐乳",
-      "キムチ",
-      "伝統技術",
-      "微生物"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/food/taiwan-fermented-and-pickled-foods",
     "readingTime": 21,
     "featured": false,
@@ -5599,15 +5617,7 @@
     "title": "台湾の朝食文化",
     "description": "卵焼きパン（蛋餅）、焼餅油条（焼きパンと揚げパン）から永和豆漿（ヨウワドウジャン）の世界展開まで、朝食店のおばさんと台湾人の朝の儀式",
     "category": "ja",
-    "tags": [
-      "朝食",
-      "卵焼きパン（蛋餅）",
-      "焼餅油条（焼きパンと揚げパン）",
-      "永和豆漿（ヨウワドウジャン）",
-      "美而美（ビールミー）",
-      "朝食店",
-      "豆漿店（豆乳専門店）"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/food/taiwan-breakfast-culture",
     "readingTime": 26,
     "featured": false,
@@ -11344,13 +11354,21 @@
   },
   {
     "title": "收費站：國道上那消失的三秒鐘停頓",
-    "description": "1974 年泰山收費站開啟了台灣國道的收費時代。這段橫跨半世紀的歷史，不僅是技術從人工計次轉向電子計程的演進，更隱藏著石油危機後的財政需求、票亭內高溫廢氣的辛勞、以及國道收費員從「家」被拋向抗爭街頭的社會陣痛。",
+    "description": "1974 年泰山收費站啟用當天，遞出一張回數票要花不到三秒。那個動作後來被國家精確測量、壓縮到 3.7 秒，2013 年整套壓縮到零，換來 947 位收費員一場打了十一年的官司。今天國道邊還留著三座票亭，可以看，不能停。",
     "category": "Lifestyle",
-    "tags": [],
+    "tags": [
+      "收費站",
+      "國道",
+      "國道收費員",
+      "回數票",
+      "ETC",
+      "交通建設",
+      "集體記憶"
+    ],
     "url": "https://taiwan.md/lifestyle/%E6%94%B6%E8%B2%BB%E7%AB%99",
-    "readingTime": 18,
+    "readingTime": 49,
     "featured": false,
-    "date": "2026-05-03",
+    "date": "2026-07-19",
     "path": "Lifestyle/收費站.md"
   },
   {
@@ -12593,6 +12611,17 @@
     "path": "People/杜潘芳格.md"
   },
   {
+    "title": "杜潘芳格：三つの言語、一場の平安戲",
+    "description": "言語を跨いだ世代の客家女性詩人であり、二・二八事件で犠牲となった張七郎一族の遺族。〈平安戲〉は民俗の神への感謝の芝居を、白色テロ下の生き延びるための共犯の記録へと書き換えました——政権に言語を奪われた者にとって、母語でもっとも鋭い一句は、自分の側の人びとへ宛てて書かれるのです。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/tu-pan-fangke",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-07-12",
+    "path": "ja/People/tu-pan-fangke.md"
+  },
+  {
     "title": "杜聰明",
     "description": "台灣第一位醫學博士，發明漸進斷癮法在17年間幫助11498人戒除鴉片，高雄醫學大學創辦人",
     "category": "People",
@@ -13568,6 +13597,17 @@
     "featured": false,
     "date": "2026-04-20",
     "path": "People/林宥嘉.md"
+  },
+  {
+    "title": "林昶佐：閃靈のボーカルから国会の現場へ、台湾史を公共の声にした人",
+    "description": "林昶佐は閃靈のボーカル Freddy として、二・二八、白色テロ、霧社事件、台湾の神話、台湾語メタルを公共の記憶へ書き込み、仲間とともに大港開唱を南部の文化的な場へ育てました。音楽、台湾意識、文化的な実践、制度政治、家族としての生の経験、そして退任後の公共的な役割が、彼の上で互いに絡み合い、舞台から社会、国会、そして国際的な現場へと向かう一本の道を形づくっています。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/people/freddy-lim",
+    "readingTime": 61,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ja/People/freddy-lim.md"
   },
   {
     "title": "林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人",
@@ -15312,19 +15352,7 @@
     "title": "苗栗県：客家の硬頸の県、8年で県庫の負債を倍増させた県長を選んだ場所",
     "description": "日本統治期の苗栗の樟脳は台湾全体の 95% を占め、三義は樟脳製造後の樹根を利用して木彫を始めました。2002 年、公館の北河村で第 1 回桐花祭が開かれました。2008 年、劉政鴻は 202 億元の負債を抱えた県を引き継ぎ、2014 年の退任時には帳簿上 676 億元になっていました。その間には、朱馮敏の農薬自殺、張薬房の強制撤去、1.2 億元を投じた客家円楼の蚊子館化が起きました。現在、53 万人が客家人口比率 62.5% と台湾で 2 番目に高いこの県に暮らしています。",
     "category": "ja",
-    "tags": [
-      "苗栗",
-      "苗栗県",
-      "客家",
-      "客家文化",
-      "大埔事件",
-      "三義木彫",
-      "油桐花",
-      "サイシャット族",
-      "矮霊祭",
-      "劉政鴻",
-      "22県市シリーズ"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/geography/miaoli-county",
     "readingTime": 80,
     "featured": false,
@@ -15941,20 +15969,7 @@
     "title": "桃園市：台湾の輸出入、最多の客家人、最多の外国人労働者、すべてがこの台地の上にある",
     "description": "1977年11月19日の夕暮れ、数万人の民衆が中壢警察署を包囲し、警察が民衆に向けて発砲して中央大学の学生江文国と19歳の張治平が死亡し、許信良は23万票対14万票で桃園県長に当選した。1年3か月後の1979年2月26日、中正国際空港が開業し、台湾の対外の玄関口が基隆港からこの台地に移った。2014年12月25日、桃園は第6の直轄市に昇格し、六都の中で最後となった。現在、235万人がこの1,221平方キロメートルの台地に住んでおり、客家系住民は80万人以上で全国最多、外国人労働者は13万2,158人も全国最多である。桃園は台湾で最も多様な境界である。",
     "category": "ja",
-    "tags": [
-      "桃園",
-      "桃園市",
-      "北部",
-      "機場",
-      "客家",
-      "中壢事件",
-      "石門水庫",
-      "大溪老街",
-      "埤塘",
-      "移工",
-      "泰雅族",
-      "22縣市系列"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/geography/taoyuan-city",
     "readingTime": 70,
     "featured": false,
@@ -16385,6 +16400,17 @@
     "featured": false,
     "date": "2026-05-02",
     "path": "History/退出聯合國.md"
+  },
+  {
+    "title": "閃靈：台湾史をブラックメタルに歌い込んだバンド",
+    "description": "閃靈（CHTHONIC）は1995年に台北で結成された台湾のヘヴィメタルバンドです。ブラックメタル、二胡、台湾語（ホーロー語）、台湾の神話、亡霊の語り、歴史的トラウマを核として、林投姊、霧社事件、二・二八事件、高砂義勇隊、白色テロ、そして台湾の主権をめぐる問いを国際的なメタルの舞台へ押し上げました。林昶佐が政治家になる前の背景幕ではなく、Freddy、Doris、Jesse、Dani、CJ といったメンバーが共に支えてきた創作体です。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/music/chthonic",
+    "readingTime": 52,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ja/Music/chthonic.md"
   },
   {
     "title": "閃靈：把台灣歷史唱進黑金屬的樂團",
@@ -17672,7 +17698,7 @@
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/people/%E8%A8%B1%E5%80%AC%E9%9B%B2",
-    "readingTime": 92,
+    "readingTime": 91,
     "featured": false,
     "date": "2026-05-23",
     "path": "People/許倬雲.md"
@@ -17748,20 +17774,7 @@
     "title": "連江県：台湾から最も遠い県であり、冷戦に最も近い県です",
     "description": "南竿の山頂から眺めると、福州市街はわずか 16 キロ先にあります。台北は 200 キロ先にあり、連江県の県治は共産党軍の側にあります。1617 年、沈有容は東莒山下で倭寇 69 人を生け捕りにし、1956 年に国軍はこの 5 つの島を戦地政務区域に変え、1992 年に金門・馬祖は台湾本島より 5 年遅れて戒厳を解除しました。現在ここには 13,646 人が暮らし、馬祖語の喪失率は 94%、2012 年に全国で唯一可決されたカジノ住民投票はいまなお進展していません。藍眼涙は年間 20 万人の観光客を呼びますが、地元の人びとは灯火管制を記憶しています。28.8 平方キロの一つの県が、台湾の冷戦史を自らの身に圧縮しています。",
     "category": "ja",
-    "tags": [
-      "連江県",
-      "馬祖",
-      "南竿",
-      "北竿",
-      "東莒",
-      "東引",
-      "戦地政務",
-      "藍眼涙",
-      "芹壁",
-      "福州語",
-      "閩東語",
-      "22県市シリーズ"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/geography/lienchiang-county",
     "readingTime": 83,
     "featured": false,
@@ -19284,22 +19297,7 @@
     "title": "雲林県：宜蘭が選ばなかったものを、雲林は三十年分の肺と引き換えに受け入れました",
     "description": "1987 年 12 月 13 日、陳定南は華視のスタジオ内で第六ナフサ分解工場を宜蘭から退け、1991 年 6 月 26 日、行政院は第六ナフサ分解工場を雲林・麥寮沖へ移すことを認可し、1994 年 7 月に正式着工、1998 年に第 1 期が稼働しました。現在までに 2,255 ヘクタールが埋め立てられています。2011 年、台湾大学公衆衛生学院の詹長権チームは、第六ナフサ分解工場周辺 10 キロの住民のがん発生率が台湾全体の 1.29 倍であることを発見しました。しかし同じ県内には、1694 年、清の康熙 33 年から 332 年にわたり媽祖を祀ってきた北港朝天宮があり、1953 年 1 月 28 日には米国援助の鋼材が 1,939 メートルの西螺大橋を支えました。一つの県が、台湾最古級の媽祖廟、最重要の米どころ、最大の石油化学王国であるのです。",
     "category": "ja",
-    "tags": [
-      "雲林",
-      "雲林県",
-      "第六ナフサ分解工場",
-      "麥寮",
-      "北港朝天宮",
-      "媽祖",
-      "西螺大橋",
-      "西螺米",
-      "虎尾糖廠",
-      "古坑コーヒー",
-      "陳定南",
-      "王永慶",
-      "濁水溪",
-      "22県市シリーズ"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/geography/yunlin-county",
     "readingTime": 90,
     "featured": false,
@@ -19423,7 +19421,7 @@
       "世界冠軍"
     ],
     "url": "https://taiwan.md/people/%E9%BB%83%E5%B1%B1%E6%96%99",
-    "readingTime": 60,
+    "readingTime": 59,
     "featured": true,
     "date": "2026-06-07",
     "path": "People/黃山料.md"
@@ -19717,7 +19715,7 @@
     "category": "Culture",
     "tags": [],
     "url": "https://taiwan.md/culture/%E9%BB%91%E7%99%BD%E5%A4%A7%E5%BB%9A%E5%9C%A8%E5%8F%B0%E7%81%A3",
-    "readingTime": 37,
+    "readingTime": 36,
     "featured": false,
     "date": "2026-04-25",
     "path": "Culture/黑白大廚在台灣.md"
@@ -19892,22 +19890,7 @@
     "title": "新北市：台北を囲む環状都市圏、401万人が首都の通勤・工業・記憶を支えています",
     "description": "淡水紅毛城は、1628年にスペイン人が最初のレンガを積んでから398年になります。1875年に沈葆楨が台北府を設置する247年前のことです。現在、新北市の29区は台北市の12区を囲み、401万人が台湾最大の直轄市に暮らし、39万人が県市を越えて台北へ通勤しています。しかしこの「環状都市圏」は台北のベッドタウンではありません。1853年の板橋林家、1869年に淡水から輸出されニューヨークで売られた烏龍茶、1890年代のアジア第一の金鉱である九份・金瓜石、1929年に石炭を運んだ平渓鉄道、1947年に李梅樹が始めた三峡祖師廟の彫刻、烏来タイヤル族の德拉楠部落があります。新北は台湾400年の縮図であり、たまたま台北市の中にないだけです。",
     "category": "ja",
-    "tags": [
-      "新北",
-      "新北市",
-      "北部",
-      "板橋",
-      "淡水",
-      "九份",
-      "金瓜石",
-      "三峡",
-      "鶯歌",
-      "烏来",
-      "平渓",
-      "貢寮",
-      "環状都市圏",
-      "22県市シリーズ"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/geography/new-taipei-city",
     "readingTime": 105,
     "featured": false,
@@ -21178,7 +21161,7 @@
     "category": "Society",
     "tags": [],
     "url": "https://taiwan.md/society/%E8%AA%8D%E7%9F%A5%E4%BD%9C%E6%88%B0",
-    "readingTime": 64,
+    "readingTime": 63,
     "featured": false,
     "date": "2026-04-23",
     "path": "Society/認知作戰.md"
@@ -21556,21 +21539,7 @@
     "title": "澎湖県：二度カジノを拒否した菊島が選んだのは清貧ではない",
     "description": "2009年9月26日、馬公で投票が行われ、反対17,359票に対し賛成は3,962票でカジノは否決された。7年後の2016年に再び投票が行われ、反対率は81.07%に達した。年間降水量わずか1,000ミリメートル、戸籍人口10.8万人に対し常住人口は約8万人の離島が、全国初の地方ギャンブル住民投票を実施し、さらにもう一度実施した。同じ海域で、1604年に沈有容がオランダ人を撤退させ、1622年にオランダ人が風櫃尾から台南に転じ、1885年にフランス軍司令官孤拔が媽宮港で病死した。1,740万年前の玄武岩の柱は今も残り、89の島は黒い火山岩、1の島はより古い安山岩である。冬の菜宅の石垣の中で、作物が風下側で育っている。",
     "category": "ja",
-    "tags": [
-      "澎湖",
-      "澎湖県",
-      "離島",
-      "馬公",
-      "菊島",
-      "玄武岩",
-      "双心石滬",
-      "跨海大橋",
-      "二崁聚落",
-      "開臺天后宮",
-      "ギャンブル住民投票",
-      "南方四島",
-      "22県市シリーズ"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ja/geography/penghu-county",
     "readingTime": 68,
     "featured": false,
@@ -23549,7 +23518,7 @@
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/music/%E8%98%87%E6%89%93%E7%B6%A0",
-    "readingTime": 92,
+    "readingTime": 91,
     "featured": false,
     "date": "2026-06-09",
     "path": "Music/蘇打綠.md"
@@ -24417,6 +24386,17 @@
     "path": "en/Technology/ai-supply-chain-overseas-manufacturing.md"
   },
   {
+    "title": "AI 공급망의 해외 공장 건설: 대만의 능력이 세계에 불려 나가다",
+    "description": "AI 하드웨어 공급망의 해외 공장 건설은 TSMC가 미국·일본·독일로 향하는 것만이 아니다. 훙하이, 웨이촹, 타이다, 패키징·테스트와 서버의 공급업체 또한 고객과 관세와 보조금과 지정학에 의해 미국, 일본, 유럽, 인도, 동남아시아, 멕시코로 끌려가고 있다. 본고는 세계화, 디리스킹, 공급망의 겨루기에서 설명한다 — 대만 기업의 해외 진출은 능력의 연장이며, 동시에 세계가 한 점 의존을 낮추는 움직임이기도 해서, 단순한 기업의 이사가 아니다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/technology/ai-supply-chain-overseas-manufacturing",
+    "readingTime": 56,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "ko/Technology/ai-supply-chain-overseas-manufacturing.md"
+  },
+  {
     "title": "AI 섬나라의 부상: 대만의 인공지능 발전과 미래 전략",
     "description": "AlphaGo의 충격에서 생성형 AI 물결까지, 대만은 어떻게 「소국의 대전략」으로 인공지능 분야에서 독자적 위치를 찾고 있는가",
     "category": "ko",
@@ -24449,6 +24429,39 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "ko/Technology/artificial-intelligence-industry.md"
+  },
+  {
+    "title": "AI 하드웨어 공급망: 대만이 클라우드를 기계로 바꾸는 곳",
+    "description": "생성형 AI는 클라우드 서비스처럼 보이지만, 실제로는 하나의 물리적인 도로를 통째로 필요로 한다. 칩을 설계하는 사람, 웨이퍼를 제조하는 사람, 패키징을 하는 사람, 메모리와 전력과 방열과 메인보드와 랙을 다루는 사람이 있다. 대만의 중요성은 TSMC에만 있는 것이 아니라, 이 도로 위의 여러 중요한 관문이 여기에 집중되어 있다는 데 있다. 이 공동의 이익은 실재하지만, 동시에 전력과 물, 탄소 배출, 소득 분배, 해외 공장 건설, 지정학적 위험을 동반하며, 추상적인 구호를 검증 가능한 공급망의 증거로 바꾸어 간다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/technology/ai-hardware-supply-chain",
+    "readingTime": 56,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "ko/Technology/ai-hardware-supply-chain.md"
+  },
+  {
+    "title": "AI サプライチェーンの海外工場建設：台湾の能力が世界に招き出される",
+    "description": "AI ハードウェアのサプライチェーンの海外工場建設は、TSMC がアメリカ、日本、ドイツへ向かうことだけではありません。鴻海、緯創、台達、パッケージング・テストやサーバーのサプライヤーもまた、顧客、関税、補助金、地政学によってアメリカ、日本、ヨーロッパ、インド、東南アジア、メキシコへ引き寄せられています。本稿はグローバル化、デリスキング、サプライチェーンの駆け引きから説明します——台湾企業の海外進出は能力の延長であり、同時に世界が一点依存を下げる動きでもあって、単純な企業の引っ越しではありません。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/technology/ai-supply-chain-overseas-manufacturing",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "ja/Technology/ai-supply-chain-overseas-manufacturing.md"
+  },
+  {
+    "title": "AI ハードウェアのサプライチェーン：台湾がクラウドを機械に変える場所",
+    "description": "生成 AI はクラウドのサービスに見えますが、実際には一本の物理的な道路をまるごと必要とします。チップを設計する人、ウェハーを製造する人、パッケージングをする人、メモリ、電力、放熱、マザーボード、ラックを扱う人がいます。台湾の重要性は TSMC だけにあるのではなく、この道路の上にある多くの重要な関門がここに集中していることにあります。この共通の利益は本当に存在しますが、同時に電力と水、炭素排出、所得分配、海外での工場建設、地政学的リスクを伴い、抽象的なスローガンを検証可能なサプライチェーンの証拠へと変えていきます。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/technology/ai-hardware-supply-chain",
+    "readingTime": 52,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "ja/Technology/ai-hardware-supply-chain.md"
   },
   {
     "title": "AI人工知能産業",
@@ -24570,17 +24583,9 @@
     "title": "Alimentos fermentados y cultura del encurtido en Taiwán",
     "description": "Desde el tofu apestoso hasta el queso de soja fermentado, explorando las técnicas de fermentación únicas de Taiwán y la tradición cultural del encurtido",
     "category": "es",
-    "tags": [
-      "alimentos fermentados",
-      "cultura del encurtido",
-      "tofu apestoso",
-      "queso de soja fermentado",
-      "kimchi taiwanés",
-      "técnica tradicional",
-      "microorganismos"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 64,
+    "readingTime": 65,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Food/taiwan-fermented-and-pickled-foods.md"
@@ -25486,14 +25491,7 @@
     "title": "Beef Noodle Soup",
     "description": "From the nostalgia of waishengren immigrants to a Taiwanese national dish: the cultural fusion and global reach of beef noodle soup",
     "category": "en",
-    "tags": [
-      "Cuisine",
-      "beef noodle soup",
-      "waishengren cuisine",
-      "cultural fusion",
-      "Taipei Beef Noodle Festival",
-      "Michelin"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/food/beef-noodle-soup",
     "readingTime": 68,
     "featured": true,
@@ -27872,6 +27870,28 @@
     "path": "en/Culture/christianity-in-taiwan.md"
   },
   {
+    "title": "CHTHONIC : le groupe qui a fait entrer l’histoire de Taïwan dans le black metal",
+    "description": "CHTHONIC (閃靈) est un groupe taïwanais de heavy metal fondé à Taipei en 1995. Avec le black metal, l’erhu, le taïwanais, la mythologie de l’île, le récit des esprits et le traumatisme historique pour noyau, il a porté sur les scènes internationales du metal la légende de la Sœur Lintou, l’incident de Musha, l’incident du 28 février, les Unités de volontaires Takasago, la Terreur blanche et la question de la souveraineté taïwanaise. Ce n’est pas la toile de fond de Freddy Lim avant son entrée en politique, mais un corps créatif porté ensemble par Freddy, Doris, Jesse, Dani et CJ.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/music/chthonic",
+    "readingTime": 123,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "fr/Music/chthonic.md"
+  },
+  {
+    "title": "CHTHONIC: la banda que metió la historia de Taiwán en el black metal",
+    "description": "CHTHONIC (閃靈) es una banda taiwanesa de heavy metal fundada en Taipéi en 1995. Con el black metal, el erhu, el taiwanés, la mitología de la isla, el relato de los espíritus y el trauma histórico como núcleo, llevó a los escenarios internacionales del metal la leyenda de la Hermana Lintou, el incidente de Musha, el incidente del 28 de febrero, las Unidades de Voluntarios Takasago, el Terror Blanco y la cuestión de la soberanía taiwanesa. No es el telón de fondo de Freddy Lim antes de su entrada en política, sino un cuerpo creativo sostenido en común por Freddy, Doris, Jesse, Dani y CJ.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/music/chthonic",
+    "readingTime": 122,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "es/Music/chthonic.md"
+  },
+  {
     "title": "Chthonic: The Band That Sang Taiwanese History Into Black Metal",
     "description": "Chthonic is a Taiwanese heavy metal band founded in Taipei in 1995. Centered on black metal, erhu, Taiwanese Hokkien, mythology, ghost narratives, and historical trauma, it brought the Lady of Linshui, the Wushe Incident, the 228 Incident, the Takasago Volunteers, White Terror memory, and Taiwan’s sovereignty issues onto the international metal stage.",
     "category": "en",
@@ -27881,6 +27901,17 @@
     "featured": false,
     "date": "2026-07-10",
     "path": "en/Music/chthonic.md"
+  },
+  {
+    "title": "CHTHONIC(閃靈): 대만의 역사를 블랙메탈로 부른 밴드",
+    "description": "CHTHONIC(閃靈)은 1995년 타이베이에서 결성된 대만의 헤비메탈 밴드다. 블랙메탈, 얼후, 대만어(호로어), 대만 신화, 망령의 서사, 역사적 트라우마를 핵심에 두고 린터우제 전설, 우서 사건, 2·28 사건, 다카사고 의용대, 백색테러, 그리고 대만 주권 문제를 국제 메탈 무대 위로 밀어 올렸다. 이 밴드는 린창쭤가 정치에 입문하기 전의 배경막이 아니라, Freddy·Doris·Jesse·Dani·CJ 같은 멤버들이 함께 떠받쳐 온 하나의 창작 공동체다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/music/chthonic",
+    "readingTime": 59,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ko/Music/chthonic.md"
   },
   {
     "title": "Chú âm phù hiệu: Mật mã chữ viết độc hữu của Đài Loan",
@@ -28248,22 +28279,7 @@
     "title": "Ciudad de Nuevo Taipéi: la metrópolis anular que rodea Taipéi, donde 4,01 millones de personas sostienen los desplazamientos, la industria y la memoria de la capital",
     "description": "Desde que los españoles colocaron el primer ladrillo del Fuerte Santo Domingo de Tamsui en 1628, han pasado 398 años. Eso fue 247 años antes de que Shen Baozhen estableciera la Prefectura de Taipéi en 1875. Hoy, los 29 distritos de la Ciudad de Nuevo Taipéi rodean los 12 distritos de la Ciudad de Taipéi; 4,01 millones de personas viven en el mayor municipio especial de todo Taiwán, y 390.000 cruzan límites municipales para trabajar en Taipéi. Pero esta “metrópolis anular” no es una ciudad dormitorio de Taipéi: allí están la familia Lin de Banqiao de 1853, el té oolong que salió de Tamsui en 1869 y se vendió en Nueva York, Jiufen y Jinguashi, la primera mina de oro de Asia en la década de 1890, el Ferrocarril de Pingxi de 1929 que transportaba carbón, las tallas del Templo Zushi de Sanxia iniciadas por Li Meishu en 1947, y la comunidad Tranan del pueblo atayal en Wulai. Nuevo Taipéi es una síntesis de 400 años de Taiwán, justo fuera de la Ciudad de Taipéi.",
     "category": "es",
-    "tags": [
-      "Nuevo Taipéi",
-      "Ciudad de Nuevo Taipéi",
-      "norte",
-      "Banqiao",
-      "Tamsui",
-      "Jiufen",
-      "Jinguashi",
-      "Sanxia",
-      "Yingge",
-      "Wulai",
-      "Pingxi",
-      "Gongliao",
-      "metrópolis anular",
-      "serie de 22 condados y ciudades"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/geography/new-taipei-city",
     "readingTime": 310,
     "featured": false,
@@ -28307,20 +28323,7 @@
     "title": "Ciudad de Taoyuan: la puerta de entrada y salida de Taiwán, la mayor población hakka, la mayor población de trabajadores migrantes, todo sobre esta meseta",
     "description": "El 19 de noviembre de 1977, al anochecer, decenas de miles de personas rodearon la estación de policía de Zhongli. La policía disparó desde posiciones elevadas, matando al estudiante de la Universidad Nacional Central Jiang Wenguo y a Zhang Zhiping, de 19 años. Xun Xianliang fue elegido magistrado del condado de Taoyuan con 230.000 votos contra 140.000. Tres meses después, el 26 de febrero de 1979, se inauguró el Aeropuerto Internacional de Taoyuan (entonces Aeropuerto Internacional Chiang Kai-shek), y la puerta exterior de Taiwán se trasladó del puerto de Keelung a esta meseta. El 25 de diciembre de 2014, Taoyuan se convirtió en la sexta municipalidad especial, la última de las seis. Hoy 2,35 millones de personas viven en esta meseta de 1.221 kilómetros cuadrados: más de 800.000 hakka, la mayor cifra nacional, y 132.158 trabajadores migrantes, también la mayor cifra nacional. Taoyuan es la frontera más diversa de Taiwán.",
     "category": "es",
-    "tags": [
-      "Taoyuan",
-      "Ciudad de Taoyuan",
-      "norte",
-      "aeropuerto",
-      "hakka",
-      "Incidente de Zhongli",
-      "Presa Shimen",
-      "Calle Vieja de Daxi",
-      "estanques",
-      "trabajadores migrantes",
-      "pueblo atayal",
-      "serie de 22 condados y ciudades"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/geography/taoyuan-city",
     "readingTime": 218,
     "featured": false,
@@ -28687,20 +28690,7 @@
     "title": "Comté de Lienchiang : le comté le plus éloigné de Taïwan est celui qui se trouve le plus près de la guerre froide",
     "description": "Depuis les sommets de Nangan, la ville de Fuzhou n'est qu'à 16 kilomètres. Taipei est à 200 kilomètres, et le siège du comté de Lienchiang se trouve du côté de l'Armée communiste. En 1617, Shen Yourong captura vivant 69 pirates japonais au pied des montagnes de Dongju ; en 1956, l'armée nationaliste transforma ces 5 îles en zone d'administration militaire ; en 1992, Kinmen et Matsu levèrent la loi martiale 5 ans après Taïwan. Aujourd'hui, 13 646 personnes vivent ici, le taux de perte du matsu atteint 94 %, et le seul référendum national jamais adopté sur les jeux d'argent, en 2012, reste sans suite. Les larmes bleues attirent 200 000 visiteurs par an, mais les habitants se souviennent du couvre-feu lumineux. Un comté de 28,8 kilomètres carrés concentre en lui l'histoire taïwanaise de la guerre froide.",
     "category": "fr",
-    "tags": [
-      "comté de Lienchiang",
-      "Matsu",
-      "Nangan",
-      "Beigan",
-      "Dongju",
-      "Dongyin",
-      "administration de zone de guerre",
-      "larmes bleues",
-      "Qinbi",
-      "fuzhou",
-      "min oriental",
-      "série des 22 villes et comtés"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/geography/lienchiang-county",
     "readingTime": 234,
     "featured": false,
@@ -28777,22 +28767,7 @@
     "title": "Comté de Yunlin : ce que Yilan a choisi de refuser, Yunlin l'a payé de trente ans de poumons",
     "description": "Le 13 décembre 1987, Chen Ding-nan écarta le Sixième complexe de craquage de naphta de Yilan dans un studio de CTS ; le 26 juin 1991, le Yuan exécutif approuva son transfert au large de Mailiao, à Yunlin ; en juillet 1994, les travaux commencèrent officiellement ; en 1998, la première phase entra en service ; à ce jour, 2 255 hectares ont été gagnés sur la mer. En 2011, l'équipe de Chan Chang-chuan, de la santé publique de l'Université nationale de Taïwan, constata que l'incidence du cancer parmi les habitants vivant dans un rayon de 10 km autour du complexe était 1,29 fois celle de l'ensemble de Taïwan. Mais dans le même comté, le temple Chaotian de Beigang vénère depuis déjà 332 ans Mazu, depuis 1694, 33e année du règne Kangxi des Qing ; et le 28 janvier 1953, l'acier de l'aide américaine soutint les 1 939 mètres du pont de Xiluo. Un même comté est à la fois l'un des plus anciens temples de Mazu de Taïwan, l'un de ses plus importants greniers à riz et son plus grand royaume pétrochimique.",
     "category": "fr",
-    "tags": [
-      "Yunlin",
-      "comté de Yunlin",
-      "Sixième complexe de craquage",
-      "Mailiao",
-      "temple Chaotian de Beigang",
-      "Mazu",
-      "pont de Xiluo",
-      "riz de Xiluo",
-      "raffinerie sucrière de Huwei",
-      "café de Gukeng",
-      "Chen Ding-nan",
-      "Wang Yung-ching",
-      "rivière Zhuoshui",
-      "série des 22 villes et comtés"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/geography/yunlin-county",
     "readingTime": 248,
     "featured": false,
@@ -28874,20 +28849,7 @@
     "title": "Condado de Lienchiang: el condado más alejado de Taiwán es el más cercano a la Guerra Fría",
     "description": "Desde la cima de las montañas de Nangan, la ciudad de Fuzhou está a solo 16 kilómetros. Taipéi está a 200 kilómetros, y la sede original del condado de Lienchiang está del lado del Ejército comunista. En 1617, Shen Yourong capturó vivos a 69 wokou al pie de la montaña en Dongju; en 1956, el Ejército Nacional convirtió estas 5 islas en una zona de administración militar de frente de guerra; en 1992, Kinmen y Matsu levantaron la ley marcial 5 años más tarde que Taiwán. Hoy viven aquí 13.646 personas, la tasa de pérdida del matsunés es del 94%, y el único referéndum sobre juego aprobado en todo el país, en 2012, sigue sin resultados. Las lágrimas azules atraen 200.000 turistas al año, pero la población local recuerda el apagón obligatorio. Un condado de 28,8 kilómetros cuadrados condensa sobre sí mismo la historia taiwanesa de la Guerra Fría.",
     "category": "es",
-    "tags": [
-      "Condado de Lienchiang",
-      "Matsu",
-      "Nangan",
-      "Beigan",
-      "Dongju",
-      "Dongyin",
-      "administración militar de frente de guerra",
-      "lágrimas azules",
-      "Qinbi",
-      "fuzhounés",
-      "min oriental",
-      "serie de 22 condados y ciudades"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/geography/lienchiang-county",
     "readingTime": 235,
     "featured": false,
@@ -28898,19 +28860,7 @@
     "title": "Condado de Miaoli: el condado hakka de cuello duro que eligió en ocho años a un magistrado que duplicó con creces la deuda del erario",
     "description": "Durante el dominio japonés, el alcanfor de Miaoli representaba el 95% del total de Taiwán; Sanyi inició su talla en madera con los tocones sobrantes de destilar alcanforeros. En 2002, la aldea Beihe de Gongguan organizó el primer Festival de la Flor de Tung. En 2008, Liu Cheng-hung recibió un condado con 20.200 millones de deuda; al dejar el cargo en 2014, la deuda contable era de 67.600 millones. Entre medio ocurrieron el suicidio con pesticida de Zhu Feng-min, la demolición forzosa de la Farmacia Zhang y el Hakka Round House, construido por 120 millones y convertido en un edificio mosquito. Hoy, 530.000 personas viven en este condado, el segundo de Taiwán con mayor proporción hakka: 62,5%.",
     "category": "es",
-    "tags": [
-      "Miaoli",
-      "condado de Miaoli",
-      "hakka",
-      "cultura hakka",
-      "incidente de Dapu",
-      "talla en madera de Sanyi",
-      "flor de tung",
-      "pueblo saisiyat",
-      "Festival de los Espíritus Pequeños",
-      "Liu Cheng-hung",
-      "serie de 22 ciudades y condados"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/geography/miaoli-county",
     "readingTime": 216,
     "featured": false,
@@ -28965,22 +28915,7 @@
     "title": "Condado de Yunlin: lo que Yilan decidió rechazar, Yunlin lo pagó con treinta años de pulmones",
     "description": "El 13 de diciembre de 1987, Chen Ding-nan bloqueó la entrada del Sexto Complejo de Craqueo de Nafta a Yilan en un estudio de CTS; el 26 de junio de 1991, el Yuan Ejecutivo aprobó trasladarlo al mar frente a Mailiao, Yunlin; en julio de 1994 comenzó formalmente la construcción; en 1998 se encendió la primera fase, y hasta hoy se han ganado 2.255 hectáreas al mar. En 2011, el equipo de Chan Chang-chuan, de la Escuela de Salud Pública de la Universidad Nacional de Taiwán, encontró que la incidencia de cáncer entre residentes a 10 kilómetros del complejo era 1,29 veces la media de todo Taiwán. Pero en el mismo condado, el templo Beigang Chaotian ya veneraba a Mazu desde 1694, año 33 del reinado Kangxi de la dinastía Qing, hace 332 años; y el 28 de enero de 1953, acero de la ayuda estadounidense sostuvo los 1.939 metros del puente Xiluo. Un solo condado es, al mismo tiempo, sede de uno de los templos de Mazu más antiguos de Taiwán, uno de sus graneros más importantes y su mayor reino petroquímico.",
     "category": "es",
-    "tags": [
-      "Yunlin",
-      "condado de Yunlin",
-      "Sexto Complejo de Craqueo de Nafta",
-      "Mailiao",
-      "templo Beigang Chaotian",
-      "Mazu",
-      "puente Xiluo",
-      "arroz de Xiluo",
-      "azucarera de Huwei",
-      "café de Gukeng",
-      "Chen Ding-nan",
-      "Wang Yung-ching",
-      "río Zhuoshui",
-      "serie de 22 condados y ciudades"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/geography/yunlin-county",
     "readingTime": 235,
     "featured": false,
@@ -29407,15 +29342,7 @@
     "title": "Cultura del desayuno en Taiwán",
     "description": "De danbing, shaobing y youtiao a la expansión global de Yonghe Doujiang: las tías de las tiendas de desayuno y el ritual matutino de los taiwaneses",
     "category": "es",
-    "tags": [
-      "desayuno",
-      "danbing",
-      "shaobing y youtiao",
-      "Yonghe Doujiang",
-      "Mei & Mei",
-      "tienda de desayuno",
-      "tienda de leche de soya"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/food/taiwan-breakfast-culture",
     "readingTime": 76,
     "featured": false,
@@ -30757,6 +30684,28 @@
     "path": "fr/People/ethan-tu.md"
   },
   {
+    "title": "Dwagie : le « proviseur » du rap en taïwanais sorti d’une salle de répétition de Tainan",
+    "description": "Dwagie (大支, de son vrai nom Tseng Kuan-jung) est un rappeur taïwanais originaire de Tainan et le fondateur du studio Kung Fu Entertainment (人人有功練). Du forum MU et de l’album « Lotus from the Tongue » chez Magic Stone Records jusqu’à « Taiwan Song », « Refugee », les droits des animaux, « The Rappers » et l’enseignement du hip-hop à Tainan, il a fait tenir dans un même micro le rap en taïwanais, les scènes locales, les questions publiques, la formation d’une nouvelle génération et la conscience de Taïwan comme sujet. Et il a fait de Tainan un lieu que l’histoire du rap taïwanais ne peut pas sauter.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/dwagie",
+    "readingTime": 101,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "fr/People/dwagie.md"
+  },
+  {
+    "title": "Dwagie: el «director» del rap en taiwanés salido de una sala de ensayo de Tainan",
+    "description": "Dwagie (大支, nombre real Tseng Kuan-jung) es un rapero taiwanés nacido en Tainan y fundador del estudio musical Kung Fu Entertainment (人人有功練). Desde el tablón de MU y el álbum «Lotus from the Tongue» de Magic Stone Records hasta «Taiwan Song», «Refugee», los derechos de los animales, «The Rappers» y la enseñanza del hip hop en Tainan, ha metido en un mismo micrófono el rap en taiwanés, los escenarios locales, los asuntos públicos, la formación de una nueva generación y la conciencia de Taiwán como sujeto. Y ha convertido Tainan en un lugar que la historia del rap taiwanés no puede saltarse.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/dwagie",
+    "readingTime": 100,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "es/People/dwagie.md"
+  },
+  {
     "title": "Dwagie: The Taiwanese Rap Schoolmaster Who Built a Training Room in Tainan",
     "description": "Dwagie, born Tseng Kuan-jung, is a Taiwanese rapper from Tainan and the founder of Kung-Fu Entertainment. From the Master U message board and Magic Stone’s Lotus from the Tongue to “Taiwan Song,” The People, animal-rights advocacy, The Rappers, and hip-hop education in Tainan, he put Taiwanese Hokkien rap, local scene-building, public issues, next-generation mentoring, and Taiwan-centered identity into the same microphone.",
     "category": "en",
@@ -31743,6 +31692,17 @@
     "path": "fr/Politics/2026-local-elections-taiwan.md"
   },
   {
+    "title": "Électricité et semi-conducteurs à Taïwan : la facture électrique de la montagne sacrée qui protège le pays",
+    "description": "L’atout international des semi-conducteurs taïwanais repose sur un système électrique très concret. Les usines de plaquettes de pointe, la lithographie EUV, l’encapsulation avancée, les tests de serveurs d’IA et les centres de données exigent tous une alimentation stable, peu interrompue et extensible. Ce texte ne fait pas de la consommation électrique des semi-conducteurs une simple dénonciation écologiste : il la replace dans le rapport de force des chaînes d’approvisionnement — le monde a besoin que Taïwan fabrique les puces d’IA, et Taïwan doit aussi répondre à la question de savoir qui assume le coût électrique, la pression carbone et le risque pour la sécurité énergétique.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/technology/taiwan-electricity-and-semiconductors",
+    "readingTime": 95,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "fr/Technology/taiwan-electricity-and-semiconductors.md"
+  },
+  {
     "title": "Elephant Gym : le trio taïwanais où personne ne chante, mais où l’on entend une chanson",
     "description": "Du groupe d'étudiants des clubs de musique amplifiée du lycée rattaché à l'Université normale nationale de Kaohsiung et du lycée de filles de Kaohsiung jusqu'à la scène Red Marquee de Fuji Rock, Camp Flog Gnaw et ArcTangent, Elephant Gym a mis 13 ans à faire entendre au monde un son taïwanais sans chanteur. Après avoir remporté le Prix du jury aux Golden Melody Awards en 2024, le groupe a annoncé une longue pause ; le documentaire sorti en parallèle, More Real than Dreams, révèle qu'il était au bord de la séparation à la veille de sa tournée de 2023.",
     "category": "fr",
@@ -32467,6 +32427,17 @@
     "path": "ja/Lifestyle/esports.md"
   },
   {
+    "title": "Fábricas de la cadena de IA en el extranjero: cuando el mundo invita a salir a la capacidad taiwanesa",
+    "description": "Construir fábricas de la cadena de hardware de IA fuera de Taiwán no es solo que TSMC vaya a Estados Unidos, Japón y Alemania: también Foxconn, Wistron, Delta y los proveedores de empaquetado, pruebas y servidores están siendo atraídos hacia Estados Unidos, Japón, Europa, la India, el Sudeste Asiático y México por los clientes, los aranceles, las subvenciones y la geopolítica. Este texto lo explica desde la globalización, la reducción de riesgos y el pulso de las cadenas de suministro: la salida al exterior de las empresas taiwanesas es una prolongación de su capacidad y a la vez un movimiento del mundo para reducir su dependencia de un solo punto; no es una simple mudanza empresarial.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/technology/ai-supply-chain-overseas-manufacturing",
+    "readingTime": 119,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "es/Technology/ai-supply-chain-overseas-manufacturing.md"
+  },
+  {
     "title": "Facebook: \"작물 훔치기\" 열풍부터 디지털 민주주의의 양날의 검까지, 20년간 대만 소셜을 정의한 파란 좌표",
     "description": "2009년 《해피팜(開心農場)》이 대만에 작물 훔치기 열풍을 일으켰고, 2014년에는 해바라기 학생운동(太陽花學運)의 동원 신경망이 되었다. Facebook은 대만에서 \"기반시설\"과 \"인지전 전장\"이라는 두 가지 정체성을 거쳐왔으며, 2025년의 콘텐츠 심사 논란으로 또 하나의 이름을 얻었다: FB 난민의 출발점.",
     "category": "ko",
@@ -32937,6 +32908,28 @@
     "featured": false,
     "date": "2026-06-13",
     "path": "en/History/bipartisan-good-policy.md"
+  },
+  {
+    "title": "Freddy Lim : du chanteur de CHTHONIC à l’hémicycle, celui qui a fait de l’histoire de Taïwan une voix publique",
+    "description": "En tant que Freddy, chanteur de CHTHONIC, Freddy Lim a inscrit dans la mémoire publique le 28 février, la Terreur blanche, l’incident de Musha, la mythologie taïwanaise et le metal en taïwanais, et a fait du Megaport Festival, avec ses camarades, un lieu culturel du Sud. La musique, la conscience taïwanaise, la pratique culturelle, la politique institutionnelle, l’expérience familiale et son rôle public après son départ du Parlement s’enchevêtrent chez lui et dessinent un chemin qui va de la scène à la société, au Parlement et aux enceintes internationales.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/freddy-lim",
+    "readingTime": 143,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "fr/People/freddy-lim.md"
+  },
+  {
+    "title": "Freddy Lim: del vocalista de CHTHONIC al hemiciclo, el hombre que convirtió la historia de Taiwán en voz pública",
+    "description": "Como Freddy, vocalista de CHTHONIC, Freddy Lim escribió en la memoria pública el 28 de febrero, el Terror Blanco, el incidente de Musha, la mitología taiwanesa y el metal en taiwanés, y junto a sus compañeros convirtió el Megaport Festival en un espacio cultural del sur. La música, la conciencia taiwanesa, la práctica cultural, la política institucional, la experiencia vital familiar y su papel público tras dejar el escaño se enlazan en él y forman un camino que va del escenario a la sociedad, al Parlamento y a los foros internacionales.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/freddy-lim",
+    "readingTime": 141,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "es/People/freddy-lim.md"
   },
   {
     "title": "Freddy Lim: From Chthonic Frontman to Parliament, Turning Taiwan’s History Into a Public Voice",
@@ -34529,24 +34522,7 @@
     "title": "Hsinchu City: The Bamboo Fortress Planted in 1733, the Cradle That Grew TSMC in 1980",
     "description": "In 1733, the 11th year of the Yongzheng reign, Magistrate Xu Zhimin of the Tamsui Subprefecture planted thorny bamboo all around the settlement, enclosing a circular earthen wall 1,408 meters in circumference. In 1829, the brick-and-stone city was completed; the East Gate, Yingximen (Gate of Greeting the Dawn), still stands beside its moat today. 247 years later, on December 15, 1980, Chiang Ching-kuo cut the red ribbon for Taiwan's first science park, just 5 kilometers from Yingximen. Between 1953 and 1974, 148 members of the Black Bat Squadron took off from this Wind City to conduct reconnaissance over mainland China and never came back. A provincial city of 450,000 people that held the Cold War front line, the earliest Han-built city in northern Taiwan, two top universities, and the starting point of 90% of the world's advanced semiconductor chips. The nickname 'Wind City' sounds literary, but every industry in this city is connected to the wind.",
     "category": "en",
-    "tags": [
-      "Hsinchu",
-      "Hsinchu City",
-      "Northern Taiwan",
-      "Wind City",
-      "Zhujian City",
-      "Yingximen",
-      "Black Bat Squadron",
-      "Hsinchu Science Park",
-      "TSMC",
-      "City God Temple",
-      "Rice Noodles",
-      "Meatballs",
-      "Glass Craft",
-      "National Tsing Hua University",
-      "National Yang Ming Chiao Tung University",
-      "22 Counties and Cities Series"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/geography/hsinchu-city",
     "readingTime": 194,
     "featured": false,
@@ -35765,13 +35741,7 @@
     "title": "Jamie Lin: del Academia Sinica a Google Taiwán, activo en la primera línea del emprendimiento tras su retiro en 2020",
     "description": "Nacido en 1963, Jamie Lin obtuvo su licenciatura en Ingeniería Informática en la Universidad Nacional de Taiwán (NTU); su doctorado está pendiente de confirmación (según reportes, de la Universidad de Maryland, EE. UU.). Fue subdirector del Instituto de Ciencia de la Información del Academia Sinica entre 1993 y 2005. En 2006 se incorporó a Google como primer empleado del centro de I+D de Google Taiwán, y se retiró el 31 de enero de 2020. Tras su retiro, asumió cargos en los consejos de administración de startups como iKala y Appier, y ha continuado promoviendo la educación en IA.",
     "category": "es",
-    "tags": [
-      "科技與企業",
-      "Google",
-      "Inteligencia artificial",
-      "Academia Sinica",
-      "Educación en IA"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/people/jamie-lin-ai-industry-pioneer",
     "readingTime": 55,
     "featured": false,
@@ -37056,6 +37026,17 @@
     "path": "fr/Society/the-buffet-aunties-intuitive-pricing.md"
   },
   {
+    "title": "L’eau des semi-conducteurs et les ressources hydriques de Taïwan : le barrage à côté de l’usine de plaquettes",
+    "description": "La fabrication des puces exige de l’eau ultrapure, mais l’eau de Taïwan n’existe pas seulement dans les canalisations de l’usine : elle existe aussi entre les barrages, les pluies, les sécheresses, l’irrigation agricole, l’eau régénérée et la répartition locale. Ce texte n’écrit pas l’eau des semi-conducteurs comme un conflit linéaire du type « TSMC accapare l’eau » : il explique comment les procédés de pointe relient l’hydrologie insulaire de Taïwan, la gouvernance publique, les installations d’eau régénérée et les chaînes d’approvisionnement mondiales, et ramènent la haute technologie aux barrages, aux champs et à la confiance locale.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/technology/semiconductor-water-use-and-taiwan-water-resources",
+    "readingTime": 86,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "fr/Technology/semiconductor-water-use-and-taiwan-water-resources.md"
+  },
+  {
     "title": "L’École taïwanaise d’intelligence artificielle : cet appel resté inachevé, et dix mille ingénieurs en IA",
     "description": "Le 27 mars 2020, Chen Shengwei appela avec gravité la rédactrice en chef du magazine CommonWealth : il voulait lancer un cours de programmation gratuit pour toute la population. Deux jours plus tard, il chuta en rollers ; treize jours après, il mourut, à 44 ans. Au moment de sa disparition, l’École taïwanaise d’intelligence artificielle (AIA), qu’il avait fondée en 2018, avait déjà formé plus de 6 000 personnes. À la même période, le Conseil national du développement annonçait, avec sa stratégie « petit pays, grande stratégie IA », 16 milliards de dollars taïwanais sur cinq ans ; lui créa son école grâce à 180 millions de dollars taïwanais levés auprès de six entreprises, dont Formosa Plastics, Chi Mei et Inventec. Huit ans plus tard, les anciens élèves dépassent les dix mille. L’AIA est, dans la montée en gamme industrielle de Taïwan, la pièce du puzzle la moins typiquement taïwanaise.",
     "category": "fr",
@@ -37586,6 +37567,17 @@
     "path": "fr/Nature/biodiversity.md"
   },
   {
+    "title": "La cadena de suministro del hardware de IA: el lugar donde Taiwán convierte la nube en máquinas",
+    "description": "La IA generativa parece un servicio en la nube, pero en realidad necesita toda una carretera física: alguien diseña los chips, alguien fabrica las obleas, alguien las empaqueta, alguien se ocupa de la memoria, la electricidad, la disipación, las placas base y los racks. La importancia de Taiwán no está solo en TSMC, sino en que muchos de los pasos clave de esa carretera se concentran aquí. Ese interés común existe de verdad, y viene acompañado de agua y electricidad, emisiones de carbono, reparto de la renta, fábricas en el extranjero y riesgo geopolítico, convirtiendo los eslóganes abstractos en pruebas verificables sobre la cadena de suministro.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/technology/ai-hardware-supply-chain",
+    "readingTime": 118,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "es/Technology/ai-hardware-supply-chain.md"
+  },
+  {
     "title": "La calle antigua de Hukou: al mudarse el tren en 1929, la calle de ladrillo rojo quedó inmóvil durante un siglo",
     "description": "En 1893, el ferrocarril de Liu Mingchuan estableció una estación aquí, transformando un poblado hakka disperso en un centro de distribución de productos de Zhu-Miao; en 1917 se iniciaron las obras del Templo Sanyuan, que se completaron al año siguiente, y se alzaron edificios de ladrillo rojo a lo largo de la calle. En 1929, los japoneses consideraron la pendiente demasiado pronunciada y trasladaron la estación al norte, hacia la actual estación de Hukou; la prosperidad de dieciséis años cesó abruptamente, y desde entonces este lugar pasó a conocerse como «Hukou Antiguo». Sobre la base del antiguo estación se construyó posteriormente una iglesia católica, mientras el Templo Sanyuan permanecía en su sitio; la calle abandonada por el ferrocarril, paradójicamente, evitó las demoliciones y reconstrucciones de posguerra.",
     "category": "es",
@@ -37628,6 +37620,17 @@
     "featured": true,
     "date": "2026-03-25",
     "path": "fr/Culture/taiwan-tea-ceremony-and-aesthetic-living.md"
+  },
+  {
+    "title": "La chaîne d’approvisionnement du matériel d’IA : là où Taïwan transforme le nuage en machines",
+    "description": "L’IA générative ressemble à un service dans le nuage, mais elle exige en réalité toute une route physique : quelqu’un conçoit les puces, quelqu’un fabrique les plaquettes, quelqu’un les encapsule, quelqu’un s’occupe de la mémoire, de l’électricité, de la dissipation, des cartes mères et des racks. L’importance de Taïwan ne tient pas seulement à TSMC, mais au fait que beaucoup de verrous de cette route s’y concentrent. Cet intérêt commun existe réellement, et il s’accompagne d’eau et d’électricité, d’émissions de carbone, de répartition des revenus, d’usines à l’étranger et de risque géopolitique, transformant des slogans abstraits en preuves vérifiables sur la chaîne d’approvisionnement.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/technology/ai-hardware-supply-chain",
+    "readingTime": 122,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "fr/Technology/ai-hardware-supply-chain.md"
   },
   {
     "title": "La cocina de mano maestra en Taiwán: significado, origen y los \"platos estrella\" de la cultura del banquete callejero",
@@ -37766,14 +37769,7 @@
     "title": "La cultura de las bebidas preparadas a mano en Taiwán",
     "description": "Desde el té de burbujas hasta las infusiones premium, el auge y la expansión global de la cultura taiwanesa de bebidas preparadas a mano",
     "category": "es",
-    "tags": [
-      "gastronomía",
-      "bebidas preparadas a mano",
-      "té de burbujas",
-      "bebidas de té",
-      "exportación cultural",
-      "internacionalización de marcas"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/food/hand-shaken-drink-culture",
     "readingTime": 62,
     "featured": true,
@@ -38093,14 +38089,7 @@
     "title": "La culture des boissons à emporter taïwanaises",
     "description": "De la bubble tea aux thés haut de gamme, l'essor et l'expansion mondiale de la culture des boissons à emporter à Taïwan",
     "category": "fr",
-    "tags": [
-      "gastronomie",
-      "boissons à emporter",
-      "bubble tea",
-      "boissons au thé",
-      "rayonnement culturel",
-      "internationalisation de marques"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/food/hand-shaken-drink-culture",
     "readingTime": 64,
     "featured": true,
@@ -38306,15 +38295,7 @@
     "title": "La culture du petit-déjeuner à Taïwan",
     "description": "De la crêpe aux œufs (dànbǐng) au shaobing-youtiao et à l'expansion mondiale du lait de soja de Yonghe, la tante du comptoir et le rituel matinal des Taïwanais",
     "category": "fr",
-    "tags": [
-      "petit-déjeuner",
-      "crêpe aux œufs",
-      "shaobing-youtiao",
-      "lait de soja de Yonghe",
-      "Meiermei",
-      "comptoir de petit-déjeuner",
-      "maison de lait de soja"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/food/taiwan-breakfast-culture",
     "readingTime": 80,
     "featured": false,
@@ -38429,13 +38410,7 @@
     "title": "La culture végétarienne de Taïwan",
     "description": "La proportion de population végétarienne à Taïwan se classe parmi les trois premières au monde, de la tradition végétarienne bouddhiste à l'évolution culturelle de l'innovation moderne en matière d'ingrédients végétaux",
     "category": "fr",
-    "tags": [
-      "végétarisme",
-      "bouddhisme",
-      "ingrédients végétaux",
-      "Tzu Chi",
-      "restaurants végétariens"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/food/taiwan-vegetarian-culture",
     "readingTime": 57,
     "featured": false,
@@ -38567,6 +38542,17 @@
     "featured": false,
     "date": "2026-04-09",
     "path": "es/Society/taiwan-rural-education.md"
+  },
+  {
+    "title": "La electricidad y los semiconductores en Taiwán: la factura eléctrica de la montaña sagrada que protege al país",
+    "description": "La baza internacional de los semiconductores taiwaneses se apoya en un sistema eléctrico muy concreto. Las fábricas de obleas de vanguardia, la litografía EUV, el empaquetado avanzado, las pruebas de servidores de IA y los centros de datos necesitan un suministro estable, con pocas interrupciones y capaz de crecer. Este texto no convierte el consumo eléctrico de los semiconductores en una simple denuncia ecologista, sino que lo devuelve al pulso de la cadena de suministro: el mundo necesita que Taiwán fabrique los chips de IA, y Taiwán también debe responder a quién asume el coste eléctrico, la presión de las emisiones y el riesgo para la seguridad energética.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/technology/taiwan-electricity-and-semiconductors",
+    "readingTime": 91,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "es/Technology/taiwan-electricity-and-semiconductors.md"
   },
   {
     "title": "La Enciclopedia de Taiwán: el sueño nacional de conocimiento de quinientos millones",
@@ -39332,6 +39318,17 @@
     "path": "es/Nature/taiwanese-indigenous-ecological-wisdom-conservation.md"
   },
   {
+    "title": "La sala de fumar de Taipéi: la caja de cristal que respira dentro de una ciudad sin humo",
+    "description": "El 7 de mayo de 2026 se levantó junto a la salida 6 del metro de Ximen una caja transparente: la primera sala de fumar exterior de presión negativa de Taiwán. Al abrir la puerta, el aire entra y no sale. Taipéi quiere ser una ciudad sin humo y, sin embargo, ha empezado construyendo en plena calle una casa de cristal para fumar. Desde 1984, cuando Yen Tao perdió un lóbulo pulmonar, hasta hoy, con el humo ajeno en interiores reducido al 3,2% y todavía casi la mitad puertas afuera, esta caja contiene un cigarrillo legal y un contrato sobre el espacio público que la ciudad aún no ha terminado de negociar.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/taipei-smoking-room",
+    "readingTime": 192,
+    "featured": false,
+    "date": "2026-07-14",
+    "path": "es/Society/taipei-smoking-room.md"
+  },
+  {
     "title": "La señora del desayuno y la red de inteligencia comunitaria",
     "description": "En serio, yo pensaba que la señora solo le decía \"guapo\" a todo el mundo. Un artículo sobre cómo la dueña de una cafetería de desayunos se convierte en el centro de inteligencia de toda la comunidad.",
     "category": "es",
@@ -39364,16 +39361,7 @@
     "title": "La sensibilité taïwanaise : l'esthétique taiwanoise vue par les Coréens",
     "description": "Deux habitants de Kaohsiung ont passé dix ans à photographier deux mille motifs de grilles en fer forgé ; des Coréens ont mis cinq ans à en faire un phénomène culturel — comment « 대만감성 » a transformé les rues quotidiennes de Taïwan en l'un des symboles esthétiques les plus fascinants d'Asie",
     "category": "fr",
-    "tags": [
-      "Sensibilité taïwanaise",
-      "대만감성",
-      "Corée",
-      "Esthétique",
-      "Paysage urbain",
-      "Rayonnement culturel",
-      "Grilles en fer forgé",
-      "Vieux visages de maisons"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/culture/taiwanese-sensibility",
     "readingTime": 75,
     "featured": true,
@@ -40134,6 +40122,17 @@
     "featured": false,
     "date": "2026-06-28",
     "path": "fr/Food/rice-ball.md"
+  },
+  {
+    "title": "Le fumoir de Taipei : la boîte de verre qui respire dans une ville sans fumée",
+    "description": "Le 7 mai 2026, une boîte transparente s’est dressée à côté de la sortie 6 du métro Ximen : le premier fumoir extérieur à pression négative de Taïwan. On ouvre la porte, l’air entre et ne ressort pas. Taipei veut être une ville sans fumée et a pourtant commencé par bâtir en pleine rue une maison de verre pour fumer. De 1984, quand Yen Tao a perdu un lobe pulmonaire, à aujourd’hui, avec un tabagisme passif intérieur tombé à 3,2 % et encore près de la moitié dehors, cette boîte contient une cigarette légale et un contrat sur l’espace public que la ville n’a pas fini de négocier.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/taipei-smoking-room",
+    "readingTime": 193,
+    "featured": false,
+    "date": "2026-07-14",
+    "path": "fr/Society/taipei-smoking-room.md"
   },
   {
     "title": "Le gâteau soleil : de l'interdiction du « tournesol » sous la loi martiale aux cent fleuves en concurrence sur la route de la Liberté à Taichung",
@@ -41153,15 +41152,7 @@
     "title": "Les aliments fermentés et la culture de la salaison à Taïwan",
     "description": "Du tofu malodorant au tofu fermenté, exploration des techniques de fermentation uniques et des traditions de salaison de Taïwan",
     "category": "fr",
-    "tags": [
-      "aliments fermentés",
-      "culture de la salaison",
-      "tofu malodorant",
-      "tofu fermenté",
-      "kimchi taïwanais",
-      "techniques traditionnelles",
-      "micro-organismes"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/food/taiwan-fermented-and-pickled-foods",
     "readingTime": 67,
     "featured": false,
@@ -42028,20 +42019,7 @@
     "title": "Lienchiang County: The County Farthest from Taiwan, and Closest to the Cold War",
     "description": "Looking out from the mountaintop on Nangan, Fuzhou lies just 16 kilometers away. Taipei is 200 kilometers away, and the Lienchiang county seat is on the Communist side. In 1617, Shen Yourong captured 69 wokou pirates alive below Dongju’s hills; in 1956, the ROC military turned these five islands into a warzone administration area; in 1992, Kinmen and Matsu lifted martial law five years later than Taiwan. Today, 13,646 people live here; the attrition rate of the Matsu language is 94%; and the only gambling referendum ever passed in Taiwan, in 2012, has still led nowhere. Blue tears bring 200,000 tourists a year, but locals remember blackout controls. A county of 28.8 square kilometers compresses Taiwan’s Cold War history onto itself.",
     "category": "en",
-    "tags": [
-      "Lienchiang County",
-      "Matsu",
-      "Nangan",
-      "Beigan",
-      "Dongju",
-      "Dongyin",
-      "warzone administration",
-      "blue tears",
-      "Qinbi",
-      "Fuzhou dialect",
-      "Eastern Min",
-      "22 Counties and Cities Series"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/geography/lienchiang-county",
     "readingTime": 216,
     "featured": false,
@@ -43601,6 +43579,28 @@
     "path": "es/Economy/mega-financial-holding-global-banking-network.md"
   },
   {
+    "title": "Megaport Festival : le festival taïwanais né sur les quais de Kaohsiung",
+    "description": "Le Megaport Festival (大港開唱) est un grand festival taïwanais en plein air fondé en 2006 sur le port de Kaohsiung. Parti de l’expérience curatoriale de l’équipe du Formoz Festival, des membres de CHTHONIC et de TRA Music, il a réuni dans un même espace les groupes du sud de Taïwan, les concerts en taïwanais, les affiches internationales, le village associatif et le paysage portuaire. Grâce à lui, les quais de Kaohsiung sont devenus un lieu majeur où se croisent la culture des concerts, l’identité urbaine et les questions publiques de Taïwan.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/music/megaport-festival",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "fr/Music/megaport-festival.md"
+  },
+  {
+    "title": "Megaport Festival: el festival de música taiwanés que creció junto al puerto de Kaohsiung",
+    "description": "Megaport Festival (大港開唱) es un gran festival taiwanés al aire libre fundado en 2006 junto al puerto de Kaohsiung. Partiendo de la experiencia curatorial del equipo de Formoz Festival, de los miembros de CHTHONIC y de TRA Music, reunió en un mismo espacio a las bandas del sur de Taiwán, los directos en taiwanés, los carteles internacionales, la aldea de ONG y el paisaje portuario. Gracias a él, la ribera del puerto de Kaohsiung se convirtió en un escenario clave donde se cruzan la cultura de ir a ver bandas, la identidad urbana y los asuntos públicos de Taiwán.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/music/megaport-festival",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "es/Music/megaport-festival.md"
+  },
+  {
     "title": "Megaport Festival: The Taiwanese Music Festival That Grew Out of Kaohsiung Harbor",
     "description": "Megaport Festival is a major Taiwanese outdoor music festival founded beside Kaohsiung Harbor in 2006. Growing from the Formoz Festival team, Chthonic members, and TRA Music’s curatorial experience, it brings southern Taiwanese bands, Taiwanese Hokkien live stages, international lineups, NGO issue villages, and harbor-city landscapes into one field, making Kaohsiung’s waterfront a key site where Taiwan’s live-band culture, city identity, and public issues meet.",
     "category": "en",
@@ -43664,19 +43664,7 @@
     "title": "Miaoli County: A Hakka Stubborn-Spirited County That Elected a Magistrate Who More Than Doubled Its Debt in Eight Years",
     "description": "During the Japanese period, Miaoli accounted for 95% of Taiwan's camphor output, and Sanyi built its woodcarving industry from the roots left after camphor refining. In 2002, Beihe Village in Gongguan held the first Tung Blossom Festival. In 2008, Liu Cheng-hung took over a county with NT$20.2 billion in debt; by the time he left office in 2014, the books showed NT$67.6 billion. In between came Zhu Feng-min drinking pesticide, the forced demolition of Chang Pharmacy, and the NT$120 million Hakka Round House becoming a mosquito hall. Today, 530,000 people live in this county, whose 62.5% Hakka population share is Taiwan's second highest.",
     "category": "en",
-    "tags": [
-      "Miaoli",
-      "Miaoli County",
-      "Hakka",
-      "Hakka Culture",
-      "Dapu Incident",
-      "Sanyi Woodcarving",
-      "Tung Blossom",
-      "Saisiyat",
-      "Ritual to the Short Spirits",
-      "Liu Cheng-hung",
-      "22 Counties and Cities Series"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/geography/miaoli-county",
     "readingTime": 200,
     "featured": false,
@@ -44830,22 +44818,7 @@
     "title": "New Taipei : la métropole annulaire qui entoure Taipei, où 4,01 millions d’habitants portent les trajets pendulaires, l’industrie et la mémoire de la capitale",
     "description": "Depuis que les Espagnols ont posé la première brique du fort San Domingo de Tamsui en 1628, 398 ans se sont écoulés. C’était 247 ans avant que Shen Baozhen n’établisse la préfecture de Taipei en 1875. Aujourd’hui, les 29 districts de New Taipei entourent les 12 districts de Taipei ; 4,01 millions de personnes vivent dans cette municipalité spéciale, la plus peuplée de Taïwan, et 390 000 traversent les limites municipales pour aller travailler à Taipei. Mais cette « métropole annulaire » n’est pas une cité-dortoir de Taipei : elle porte la famille Lin de Banqiao en 1853, le thé oolong expédié de Tamsui jusqu’à New York en 1869, les premières mines d’or d’Asie à Jiufen et Jinguashi dans les années 1890, la ligne ferroviaire de Pingxi qui transportait le charbon en 1929, les sculptures du temple Zushi de Sanxia commencées par Li Meishu en 1947, et le village Tranan des Atayal de Wulai. New Taipei est un condensé de 400 ans d’histoire taïwanaise, situé précisément hors de la ville de Taipei.",
     "category": "fr",
-    "tags": [
-      "New Taipei",
-      "ville de New Taipei",
-      "Nord",
-      "Banqiao",
-      "Tamsui",
-      "Jiufen",
-      "Jinguashi",
-      "Sanxia",
-      "Yingge",
-      "Wulai",
-      "Pingxi",
-      "Gongliao",
-      "métropole annulaire",
-      "série des 22 villes et comtés"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/fr/geography/new-taipei-city",
     "readingTime": 304,
     "featured": false,
@@ -44867,22 +44840,7 @@
     "title": "New Taipei City: The Ring Metropolis Around Taipei, Where 4.01 Million People Sustain the Capital’s Commute, Industry, and Memory",
     "description": "Fort San Domingo in Tamsui has stood for 398 years since the Spanish laid its first brick in 1628. That is 247 years before Shen Baozhen established Taipei Prefecture in 1875. Today, New Taipei City’s 29 districts surround Taipei City’s 12 districts; 4.01 million people live in Taiwan’s largest special municipality, and 390,000 commute across city and county lines to work in Taipei. But this “ring metropolis” is not Taipei’s bedroom community: it has the Banqiao Lin Family from 1853, oolong tea shipped from Tamsui to New York in 1869, Jiufen and Jinguashi as Asia’s first gold-mining district in the 1890s, the Pingxi Railway that carried coal in 1929, the Sanxia Zushi Temple carvings begun by Li Mei-shu in 1947, and the Tranan community of the Atayal people in Wulai. New Taipei is a microcosm of Taiwan’s 400 years, located just outside Taipei City.",
     "category": "en",
-    "tags": [
-      "New Taipei",
-      "New Taipei City",
-      "Northern Taiwan",
-      "Banqiao",
-      "Tamsui",
-      "Jiufen",
-      "Jinguashi",
-      "Sanxia",
-      "Yingge",
-      "Wulai",
-      "Pingxi",
-      "Gongliao",
-      "Ring Metropolis",
-      "22 Cities and Counties Series"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/geography/new-taipei-city",
     "readingTime": 292,
     "featured": false,
@@ -46162,21 +46120,7 @@
     "title": "Penghu: dos veces rechazó el casino, y la Isla del Crisantemo no eligió la pobreza",
     "description": "El 26 de septiembre de 2009, en Magong se abrieron las urnas: 17.359 votos en contra, el casino perdió por 3.962 votos. Siete años después, en 2016, se votó de nuevo: 81,07 % en contra. Un archipiélago con apenas 1.000 mm de lluvia al año, 108.000 habitantes registrados pero solo 80.000 residentes efectivos, celebró el primer referéndum local sobre juego en todo el país y luego lo repitió. En esas mismas aguas, en 1604 Shen Yourong hizo retirarse a los holandeses; en 1622 los holandeses partieron de Fengguetou hacia Tainan; en 1885 el almirante francés Amédée Courbet murió de cólera en el puerto de Magong. Las columnas de basalto de 1,740 millones de años siguen en pie, 89 islas son roca volcánica negra y 1 es una andesita más antigua. Dentro de los muros de piedra de los huertos de invierno, los cultivos crecen al abrigo del viento.",
     "category": "es",
-    "tags": [
-      "Penghu",
-      "Condado de Penghu",
-      "Islas periféricas",
-      "Magong",
-      "Isla del Crisantemo",
-      "Basalto",
-      "Presa de piedra en forma de doble corazón",
-      "Puente transmarino",
-      "Asentamiento de Erkan",
-      "Tianhou Temple de la Fundación de Taiwán",
-      "Referéndum sobre juego",
-      "Cuatro Islas del Sur",
-      "Serie de 22 condados y ciudades"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/geography/penghu-county",
     "readingTime": 197,
     "featured": false,
@@ -48469,6 +48413,17 @@
     "path": "es/Geography/shilin.md"
   },
   {
+    "title": "Shopping Design : la revue qui apprend à acheter du design et qui, à la fin, vous demande de la distinguer elle-même",
+    "description": "Fondée en 2006 avec le blanc pour thème de son premier numéro, « Shopping Design » a transformé en vingt ans le design, de substantif de salle d’exposition en verbe du quotidien : arpenter les boutiques et choisir des objets. Ce qu’elle a vraiment appris à Taïwan, c’est que « distinguer » peut s’entraîner comme une capacité ; et elle a étendu cette capacité jusqu’à un palmarès annuel de cent, une revue trimestrielle et un festival, ainsi qu’à la licence unique de sa maison mère, qui mentionne à la fois « édition de revues » et « services publicitaires ». Ainsi, la revue qui enseigne à distinguer finit par vous demander de la distinguer, elle.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/culture/shopping-design",
+    "readingTime": 141,
+    "featured": false,
+    "date": "2026-07-13",
+    "path": "fr/Culture/shopping-design.md"
+  },
+  {
     "title": "Shopping Design: A Magazine That Teaches You to Curate Design, Ultimately Asking You to Judge Itself",
     "description": "Launched in 2006 with a white-themed first issue, Shopping Design has spent two decades turning 'design' from an exhibition-bound noun into a daily verb for browsing and selecting goods. What it truly taught Taiwan is that 'discernment' can be cultivated as a skill—and it expanded this skill into an annual Top 100 list, a quarterly magazine, a carnival, and even onto its parent company's single 'magazine publishing + advertising services' license. Thus, this magazine that teaches you to discern ultimately asks you to discern itself.",
     "category": "en",
@@ -48478,6 +48433,28 @@
     "featured": false,
     "date": "2026-07-13",
     "path": "en/Culture/shopping-design.md"
+  },
+  {
+    "title": "Shopping Design: la revista que enseña a comprar diseño y que al final te pide distinguirla a ella misma",
+    "description": "Fundada en 2006 y con el blanco como tema de su primer número, «Shopping Design» ha convertido en veinte años el diseño de un sustantivo de sala de exposiciones en un verbo cotidiano: recorrer tiendas y elegir objetos. Lo que de verdad le ha enseñado a Taiwán es que «distinguir» puede entrenarse como una capacidad; y ha extendido esa capacidad hasta una lista anual de los cien mejores, una revista trimestral y un festival, y también hasta la misma licencia de su empresa matriz, que dice a la vez «edición de revistas» y «servicios de publicidad». Así, la revista que enseña a distinguir acaba pidiéndote que la distingas a ella.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/culture/shopping-design",
+    "readingTime": 136,
+    "featured": false,
+    "date": "2026-07-13",
+    "path": "es/Culture/shopping-design.md"
+  },
+  {
+    "title": "Shopping Design: 디자인을 사는 법을 가르치는 잡지가, 마지막에 분간하라고 하는 것은 그 자신이다",
+    "description": "2006년에 창간해 첫 호에서 흰색을 다룬 《Shopping Design》은 20년 동안 디자인을 전시장의 명사에서 가게를 둘러보고 물건을 고르는 일상의 동사로 바꾸어 왔다. 이 잡지가 대만에 정말로 가르친 것은 \"분간하기\"가 하나의 능력으로 단련될 수 있다는 것이었고, 그리고 그 능력을 연간 100선의 명단으로, 계간지로, 축제로 확대했으며, 모회사의 같은 한 장의 \"잡지 출판＋광고 서비스\"의 면허 위로도 확대했다. 그리하여 분간하는 법을 가르치는 이 잡지가 마지막에 분간하라고 하는 대상은, 바로 그 자신이다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/culture/shopping-design",
+    "readingTime": 70,
+    "featured": false,
+    "date": "2026-07-13",
+    "path": "ko/Culture/shopping-design.md"
   },
   {
     "title": "Shopping Design：教你採買設計的雜誌，最後要你分辨的是它自己",
@@ -52632,15 +52609,7 @@
     "title": "Taiwanese Breakfast Culture",
     "description": "From danbing, shaobing, and youtiao to the global expansion of Yonghe Soy Milk, breakfast-shop aunties and Taiwanese morning rituals",
     "category": "en",
-    "tags": [
-      "breakfast",
-      "danbing",
-      "shaobing and youtiao",
-      "Yonghe Soy Milk",
-      "Mei & Mei",
-      "breakfast shops",
-      "soy milk shops"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/food/taiwan-breakfast-culture",
     "readingTime": 69,
     "featured": false,
@@ -53305,20 +53274,7 @@
     "title": "Taoyuan City: Taiwan's Gateway for Imports and Exports, the Largest Hakka Population, the Most Migrant Workers — All on This Tableland",
     "description": "On the evening of November 19, 1977, tens of thousands of people surrounded the Zhongli Police Station. Police opened fire from elevated positions, killing Chiang Wen-kuo, a student at National Central University, and 19-year-old Chang Chih-ping. Hsin-liang Hsu was elected Taoyuan County Magistrate by a landslide margin of 230,000 to 140,000 votes. One year and three months later, on February 26, 1979, Chiang Kai-shek International Airport opened, and Taiwan's gateway to the world moved from Keelung Harbor to this tableland. On December 25, 2014, Taoyuan was upgraded to a special municipality — the sixth and last of the six. Today 2.35 million people live on this 1,221-square-kilometer tableland. The Hakka population exceeds 800,000, the most of any county or city in Taiwan, and the migrant worker population of 132,158 is also the highest in the nation. Taoyuan is Taiwan's most diverse border.",
     "category": "en",
-    "tags": [
-      "桃園",
-      "桃園市",
-      "北部",
-      "機場",
-      "客家",
-      "中壢事件",
-      "石門水庫",
-      "大溪老街",
-      "埤塘",
-      "移工",
-      "泰雅族",
-      "22縣市系列"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/geography/taoyuan-city",
     "readingTime": 198,
     "featured": false,
@@ -55134,6 +55090,17 @@
     "path": "fr/People/yani-tseng.md"
   },
   {
+    "title": "Tu Pan Fang-ke: tres lenguas, una función de teatro de la paz",
+    "description": "Poeta hakka de la generación que atravesó las lenguas y familiar de las víctimas de la familia Chang Chi-lang en el incidente del 28 de febrero. «Ping-an-hsi» reescribe el teatro folclórico de agradecimiento a los dioses como un acta de complicidad para sobrevivir bajo el Terror Blanco: para quien el régimen le ha quitado la lengua, el verso más afilado en la lengua materna está escrito para los suyos.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/tu-pan-fangke",
+    "readingTime": 120,
+    "featured": false,
+    "date": "2026-07-12",
+    "path": "es/People/tu-pan-fangke.md"
+  },
+  {
     "title": "Từ Trương Huyền đến An Phổ — hai cái tên, cùng một câu hỏi",
     "description": "Viết nên 〈Bảo bối〉 năm 13 tuổi, bị Trung Quốc phong sát năm 32 tuổi vì một lá cờ, rồi tự tay khai tử nghệ danh của mình năm 34 tuổi. Tiêu An Phổ dùng hai chặng đời để trả lời câu hỏi mà mọi người Đài Loan đều đặt ra: rốt cuộc cô đứng về phía nào?",
     "category": "vi",
@@ -55459,6 +55426,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Culture/urban-character-and-regional-culture.md"
+  },
+  {
+    "title": "Usines de la chaîne d’IA à l’étranger : quand le monde fait sortir la capacité taïwanaise",
+    "description": "Construire des usines de la chaîne du matériel d’IA hors de Taïwan, ce n’est pas seulement TSMC qui va aux États-Unis, au Japon et en Allemagne : Foxconn, Wistron, Delta ainsi que les fournisseurs d’encapsulation, de tests et de serveurs sont eux aussi attirés vers les États-Unis, le Japon, l’Europe, l’Inde, l’Asie du Sud-Est et le Mexique par les clients, les droits de douane, les subventions et la géopolitique. Ce texte l’explique par la mondialisation, la réduction des risques et le rapport de force des chaînes d’approvisionnement : la sortie des entreprises taïwanaises est un prolongement de leur capacité et en même temps un geste du monde pour réduire sa dépendance à un point unique ; ce n’est pas un simple déménagement.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/technology/ai-supply-chain-overseas-manufacturing",
+    "readingTime": 124,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "fr/Technology/ai-supply-chain-overseas-manufacturing.md"
   },
   {
     "title": "Vận động xã hội và tham gia công dân",
@@ -57657,22 +57635,7 @@
     "title": "Yunlin County: What Yilan Chose to Reject, Yunlin Paid for with Thirty Years of Its Lungs",
     "description": "On December 13, 1987, Chen Ding-nan kept the Sixth Naphtha Cracker out of Yilan in a CTS studio. On June 26, 1991, the Executive Yuan approved moving the Sixth Naphtha Cracker to the waters off Mailiao, Yunlin. Construction formally began in July 1994, Phase I fired up in 1998, and 2,255 hectares have since been reclaimed from the sea. In 2011, a team led by Chan Chang-chuan at National Taiwan University's College of Public Health found that residents within 10 kilometers of the Sixth Naphtha Cracker had a cancer incidence 1.29 times Taiwan's average. Yet within the same county, Beigang Chaotian Temple has worshipped Mazu for 332 years since 1694, the 33rd year of the Qing Kangxi reign, and U.S. aid steel held up the 1,939-meter Xiluo Bridge on January 28, 1953. One county is at once home to one of Taiwan's oldest Mazu temples, its most important rice granary, and its largest petrochemical kingdom.",
     "category": "en",
-    "tags": [
-      "Yunlin",
-      "Yunlin County",
-      "Sixth Naphtha Cracker",
-      "Mailiao",
-      "Beigang Chaotian Temple",
-      "Mazu",
-      "Xiluo Bridge",
-      "Xiluo Rice",
-      "Huwei Sugar Refinery",
-      "Gukeng Coffee",
-      "Chen Ding-nan",
-      "Wang Yung-ching",
-      "Zhuoshui River",
-      "22 Counties and Cities Series"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/geography/yunlin-county",
     "readingTime": 227,
     "featured": false,
@@ -59539,6 +59502,17 @@
     "path": "ko/People/tai-tzu-ying.md"
   },
   {
+    "title": "다즈(大支): 타이난의 연습실에서 나온 대만어 랩의 \"교장\"",
+    "description": "다즈(大支, Dwagie, 본명 쩡관룽)는 타이난 출신의 대만 래퍼이자 음악 스튜디오 \"런런유궁롄\"의 창설자다. MU 게시판과 마옌 레코드의 《설찬연화》에서 〈台灣SONG〉, 《인(人)》, 동물권, 《대힙합시대》, 그리고 타이난의 힙합 교육까지, 그는 대만어 랩과 지역의 현장과 공적 의제와 새로운 세대의 육성과 대만의 주체 의식을 같은 하나의 마이크 안에 담았다. 그리고 타이난을, 대만 랩의 역사가 건너뛸 수 없는 현장으로 바꾸어 놓았다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/dwagie",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ko/People/dwagie.md"
+  },
+  {
     "title": "단오절: 고대인이 죽음에 맞서기 위해 마련한 도구 꾸러미, 타이완인은 이를 해마다 돌아오는 가족의 재회로 만들었다",
     "description": "2025년의 중학교 교육회고에는 열다섯 살 학생들에게 '단오 달걀 세우기' 미신을 반박하는 실험을 설계하라는 문제가 출제되었다. 이 장면은 명절 전체의 비밀을 압축한다. 쑥, 웅황주, 오시수, 곧게 선 그 달걀은 본래 모두 고대인이 역병과 죽음에 맞서기 위해 마련한 도구였다. 과학은 그 약효를 하나씩 깨뜨렸지만, 단오는 타이완에서 누구보다 왕성하게 살아 있다. 약효는 만료되었어도, 타이완인은 해마다 그대로 복용한다.",
     "category": "ko",
@@ -60455,15 +60429,7 @@
     "title": "대만 발효식품과 절임 문화",
     "description": "취두부에서 두부유까지, 대만 고유의 발효 기술과 절임 문화 전통을 탐구하다",
     "category": "ko",
-    "tags": [
-      "발효식품",
-      "절임 문화",
-      "취두부",
-      "두부유",
-      "김치",
-      "전통 기술",
-      "미생물"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/food/taiwan-fermented-and-pickled-foods",
     "readingTime": 24,
     "featured": false,
@@ -62257,6 +62223,17 @@
     "path": "ko/Society/inclusive-travel-taiwan.md"
   },
   {
+    "title": "대만의 전력과 반도체: 호국의 신산의 전기 요금 청구서",
+    "description": "대만 반도체의 국제적인 카드는 지극히 구체적인 전력 시스템 위에 세워져 있다. 선단 웨이퍼 공장, EUV 노광, 첨단 패키징, AI 서버의 테스트, 데이터센터는 모두 안정되고 중단이 적으며 확장할 수 있는 전력 공급을 필요로 한다. 본고는 반도체의 전력 사용을 단순한 환경 고발로 쓰지 않고, 그것을 공급망의 겨루기로 되돌린다 — 세계는 대만이 AI 칩을 제조하기를 필요로 하고, 대만 또한 누가 전력의 비용과 탄소 배출의 압력과 에너지 안보의 위험을 떠맡는지에 답해야 한다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/technology/taiwan-electricity-and-semiconductors",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "ko/Technology/taiwan-electricity-and-semiconductors.md"
+  },
+  {
     "title": "대만의 정치 환경과 선거 제도",
     "description": "헌법 체제, 중앙과 지방의 선거 메커니즘, 그리고 심층적인 정당 정치 문화에 이르기까지, 대만이 복잡한 지정학 속에서 역동적이고 제도적으로 엄밀한 민주 사회를 어떻게 유지해 왔는지를 종합적으로 분석한다",
     "category": "ko",
@@ -62625,6 +62602,17 @@
     "path": "ko/People/du-congming-founder-of-modern-medicine-in-taiwan.md"
   },
   {
+    "title": "두판팡거(杜潘芳格): 세 개의 언어, 한 편의 평안희",
+    "description": "언어를 건너뛴 세대의 하카 여성 시인이자, 2·28에서 희생된 장치랑 일가의 유족. 〈평안희〉는 민속의 신에게 감사하는 연극을 백색테러 아래 살아남기 위한 공범의 기록으로 고쳐 썼다 — 정권에게 언어를 빼앗긴 사람에게, 모어로 쓴 가장 날카로운 한 구절은 자기 편 사람들을 향해 쓰인다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/tu-pan-fangke",
+    "readingTime": 57,
+    "featured": false,
+    "date": "2026-07-12",
+    "path": "ko/People/tu-pan-fangke.md"
+  },
+  {
     "title": "디즈니와 타이완: 훙광 하청 제작, 웨메이의 아쉬움에서 IP 현지화까지 이어진 환상적 여정",
     "description": "1980년대 할리우드 애니메이션의 절반을 떠받친 ‘동방의 디즈니’ 훙광에서, 디즈니랜드 유치 기회를 두 차례 놓친 일, 나아가 《토이 스토리 3》가 한때 타이완을 배경으로 구상되었던 사실과 오토바이를 타는 스티치의 현지화 이미지에 이르기까지, 타이완과 디즈니의 연결은 상상보다 훨씬 깊고 다층적이다.",
     "category": "ko",
@@ -62758,20 +62746,7 @@
     "title": "롄장현: 타이완에서 가장 먼 현, 냉전에 가장 가까운 현",
     "description": "난간의 산정에서 바라보면 푸저우 도심은 16킬로미터 밖에 있다. 타이베이는 200킬로미터 밖에 있고, 롄장현의 현청 소재지는 공산군 쪽에 있다. 1617년 선유룽은 둥쥐 산 아래에서 왜구 69명을 생포했고, 1956년 국군은 이 5개 섬을 전지정무구로 만들었으며, 1992년 진먼과 마쭈는 타이완보다 5년 늦게 계엄이 해제되었다. 오늘날 이곳에는 13,646명이 살고, 마쭈어 소실률은 94%이며, 2012년 전국에서 유일하게 통과된 도박 국민투표는 지금까지 후속 조치가 없다. 푸른 눈물은 해마다 관광객 20만 명을 불러오지만, 현지인들은 등화관제를 기억한다. 28.8제곱킬로미터의 한 현이 타이완 냉전사를 자기 몸에 압축해 담고 있다.",
     "category": "ko",
-    "tags": [
-      "롄장현",
-      "마쭈",
-      "난간",
-      "베이간",
-      "둥쥐",
-      "둥인",
-      "전지정무",
-      "푸른 눈물",
-      "친비",
-      "푸저우어",
-      "민둥어",
-      "22현시 시리즈"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/geography/lienchiang-county",
     "readingTime": 95,
     "featured": false,
@@ -63146,6 +63121,17 @@
     "path": "ko/People/lim-giong.md"
   },
   {
+    "title": "린창쭤(林昶佐): CHTHONIC의 보컬에서 국회의 현장으로, 대만사를 공공의 목소리로 만든 사람",
+    "description": "린창쭤는 CHTHONIC의 보컬 Freddy로서 2·28, 백색테러, 우서 사건, 대만 신화, 대만어 메탈을 공적인 기억으로 써 넣었고, 동료들과 함께 다강카이창을 남부의 문화적인 장으로 키웠다. 음악, 대만 의식, 문화적인 실천, 제도 정치, 가족으로서의 삶의 경험, 그리고 퇴임 후의 공적인 역할이 그의 위에서 서로 얽히며, 무대에서 사회로, 국회로, 그리고 국제적인 현장으로 향하는 하나의 길을 이루고 있다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/people/freddy-lim",
+    "readingTime": 69,
+    "featured": false,
+    "date": "2026-07-10",
+    "path": "ko/People/freddy-lim.md"
+  },
+  {
     "title": "린취웨이: 국제 수상 실체 보드게임 브랜드에서 20만 크리에이터 소프트웨어 플랫폼까지",
     "description": "린취웨이(Chi-Wei Lin, 온라인상에서는 CW로 통함)는 대만의 기업가이다. 2014년 그의 교육용 보드게임은 미국의 \"Parents'' Choice Awards\"에서 레고를 제치고 은메달을 수상했다. 10년 후 그가 설립한 Portaly는 대만 최대의 크리에이터 비즈니스 플랫폼으로 자리 잡았으며, 20만 명이 이를 활용해 영향력을 수익으로 전환했다. 2025년부터 흑자를 기록했으며, 유료 마케팅 없이 유기적 PLG(제품 주도 성장)로 성장했다. 전통 산업에서 소프트웨어로, 다시 AI로 영역을 넓히며 매번 제로베이스에서 재학습했다. 그는 항상 동일한 일을 해왔다: 다른 사람이 한 것을 다른 것으로 바꾸고, 그 방법을 공개적으로 공유하는 것이다.",
     "category": "ko",
@@ -63303,19 +63289,7 @@
     "title": "먀오리현: 하카의 ‘경항’이 깃든 현, 8년 만에 현 금고 부채를 두 배 넘게 만든 현장을 선출하다",
     "description": "일본 통치기 먀오리의 장뇌는 대만 전체의 95%를 차지했고, 싼이는 장뇌를 정제하고 남은 녹나무 그루터기로 목조각 산업을 일으켰다. 2002년 궁관 베이허촌에서 첫 퉁꽃 축제가 열렸다. 2008년 류정훙은 202억 부채의 현을 넘겨받았고, 2014년 퇴임 때 장부상 부채는 676억에 이르렀다. 그 사이 주펑민의 농약 음독, 장약방 강제 철거, 1.2억을 들여 지은 하카 원루의 ‘모기 건물’화가 있었다. 오늘날 53만 명이 하카 인구 비율 62.5%로 대만에서 두 번째로 높은 이 현에 살고 있다.",
     "category": "ko",
-    "tags": [
-      "먀오리",
-      "먀오리현",
-      "하카",
-      "하카 문화",
-      "다푸 사건",
-      "싼이 목조각",
-      "유동꽃",
-      "사이샤족",
-      "왜령제",
-      "류정훙",
-      "22개 현시 시리즈"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/geography/miaoli-county",
     "readingTime": 91,
     "featured": false,
@@ -63637,6 +63611,17 @@
     "featured": true,
     "date": "2026-03-17",
     "path": "ko/Technology/taiwan-semiconductor-industry.md"
+  },
+  {
+    "title": "반도체의 물 사용과 대만의 수자원: 웨이퍼 공장 옆의 댐",
+    "description": "칩의 제조에는 초순수가 필요하지만, 대만의 물은 공장의 배관 안에만 존재하는 것이 아니라 댐, 강우, 가뭄, 농업용 관개, 재생수, 지역의 배분 사이에도 존재한다. 본고는 반도체의 물 사용을 \"TSMC가 물을 빼앗는다\"는 한 줄기의 대립으로 쓰지 않고, 선단 공정이 어떻게 대만의 섬의 수문과 공공의 거버넌스와 재생수의 정비와 세계의 공급망을 잇고, 하이테크를 댐과 농지와 지역의 신뢰로 되돌리는지를 설명한다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/technology/semiconductor-water-use-and-taiwan-water-resources",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "ko/Technology/semiconductor-water-use-and-taiwan-water-resources.md"
   },
   {
     "title": "벚꽃 곤들매기: 빙하 시대 잔존종의 귀향길, 멸종 위기에서 유역 전체 보전으로 이끈 대만의 기적",
@@ -64147,14 +64132,7 @@
     "title": "소고기 국수(牛肉麵)",
     "description": "외성인 이민의 향수에서 대만 국민 음식으로, 소고기 국수의 문화 융합과 세계적 확산",
     "category": "ko",
-    "tags": [
-      "미식",
-      "소고기 국수",
-      "외성인 요리",
-      "문화 융합",
-      "타이베이 소고기 국수 축제",
-      "미슐랭"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/food/beef-noodle-soup",
     "readingTime": 30,
     "featured": true,
@@ -64409,22 +64387,7 @@
     "title": "신베이시: 타이베이를 둘러싼 환상형 대도시, 401만 명이 떠받치는 수도의 통근, 산업, 기억",
     "description": "단수이 훙마오청은 1628년 스페인인이 첫 벽돌을 쌓은 때부터 이미 398년이 지났다. 1875년 선바오전이 타이베이부를 설치한 것보다 247년 앞선다. 오늘날 신베이시 29개 구는 타이베이시 12개 구를 둘러싸고 있으며, 401만 명이 타이완 최대 직할시인 이 도시에 살고, 39만 명이 현·시 경계를 넘어 타이베이로 출근한다. 그러나 이 '환상형 대도시'는 타이베이의 베드타운이 아니다. 이곳에는 1853년 반차오 린 가문, 1869년 단수이에서 출항해 뉴욕으로 팔려 간 우롱차, 1890년대 아시아 제일의 금광 지우펀·진과스, 1929년 석탄을 운반하던 핑시 철도, 1947년 리메이수가 시작한 싼샤 조사묘 조각, 우라이 타이야족 더라난 부락이 있다. 신베이는 타이완 400년의 축소판이며, 마침 타이베이시 안에 있지 않을 뿐이다.",
     "category": "ko",
-    "tags": [
-      "신베이",
-      "신베이시",
-      "북부",
-      "반차오",
-      "단수이",
-      "지우펀",
-      "진과스",
-      "싼샤",
-      "잉거",
-      "우라이",
-      "핑시",
-      "궁랴오",
-      "환상형 대도시",
-      "22개 현·시 시리즈"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/geography/new-taipei-city",
     "readingTime": 124,
     "featured": false,
@@ -65515,22 +65478,7 @@
     "title": "윈린현: 이란이 거부한 것을 윈린은 30년의 폐로 받아냈다",
     "description": "1987년 12월 13일 천딩난은 CTS 스튜디오 안에서 제6 나프타 분해공장의 이란 진입을 막아냈고, 1991년 6월 26일 행정원은 제6 나프타 분해공장을 윈린 마이랴오 앞바다로 이전하는 안을 승인했다. 1994년 7월 정식 착공, 1998년 1기 가동을 거쳐 지금까지 2,255헥타르의 바다를 매립했다. 2011년 국립대만대 공중보건대학 잔창취안 연구팀은 제6 나프타 분해공장 반경 10킬로미터 주민의 암 발생률이 대만 전체의 1.29배임을 발견했다. 그러나 같은 현 안에서 1694년 청 강희 33년에 세워진 베이강 차오톈궁은 이미 332년 동안 마쭈를 모셔 왔고, 1953년 1월 28일에는 미국 원조 철강재가 1,939미터의 시뤄대교를 지탱했다. 하나의 현은 동시에 대만에서 가장 오래된 마쭈 사원 가운데 하나이자, 가장 중요한 곡창이며, 최대의 석유화학 왕국이다.",
     "category": "ko",
-    "tags": [
-      "윈린",
-      "윈린현",
-      "제6 나프타 분해공장",
-      "마이랴오",
-      "베이강 차오톈궁",
-      "마쭈",
-      "시뤄대교",
-      "시뤄 쌀",
-      "후웨이 제당공장",
-      "구컹 커피",
-      "천딩난",
-      "왕융칭",
-      "줘수이강",
-      "22개 현시 시리즈"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/geography/yunlin-county",
     "readingTime": 102,
     "featured": false,
@@ -67637,6 +67585,17 @@
     "path": "ko/Geography/keelung-city.md"
   },
   {
+    "title": "타이베이의 흡연실: 무연 도시 속의, 숨 쉬는 유리 상자",
+    "description": "2026년 5월 7일, 시먼 MRT 6번 출구 옆에 투명한 상자 하나가 세워졌다. 대만 최초의 옥외 음압식 흡연실이다. 문을 열면 바람은 안으로 빨려 들어가고 밖으로는 나가지 않는다. 타이베이는 무연 도시를 지향하면서, 먼저 거리에 담배를 피우기 위한 유리집을 지었다. 옌다오가 폐엽을 잘라 낸 1984년부터, 실내의 간접흡연이 3.2%까지 내려가고 문밖에서는 여전히 절반 가까이가 남아 있는 현재까지. 이 상자 안에는 합법적인 담배 한 개비와, 이 도시가 아직 다 이야기하지 못한 공공 공간을 둘러싼 계약이 담겨 있다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/society/taipei-smoking-room",
+    "readingTime": 87,
+    "featured": false,
+    "date": "2026-07-14",
+    "path": "ko/Society/taipei-smoking-room.md"
+  },
+  {
     "title": "타이완 Game Jam 커뮤니티",
     "description": "Global Game Jam이 타이완에 상륙한 때부터 KUSO GAME JAM이 못난 작품을 철학으로 삼기까지—타이완 Game Jam 커뮤니티가 10년간 어떻게 인디 게임 생태계의 배양접이자 실험장이 되었는가",
     "category": "ko",
@@ -68130,15 +68089,7 @@
     "title": "타이완 아침 문화",
     "description": "계란빵(蛋餅), 샤오빠오유탸오(燒餅油條)에서 융허두장(永和豆漿)의 글로벌 확장까지, 아침집 아줌마와 타이완 사람들의 아침 의식",
     "category": "ko",
-    "tags": [
-      "아침",
-      "계란빵",
-      "샤오빠오유탸오",
-      "융허두장",
-      "메이얼메이",
-      "아침집",
-      "두장집"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/ko/food/taiwan-breakfast-culture",
     "readingTime": 29,
     "featured": false,
@@ -69483,12 +69434,12 @@
     "path": "ko/Society/kuma-academy-civil-defense-school.md"
   },
   {
-    "title": "흑백요리사가 대만에 미친 영향: 한 편의 넷플릭스 한국 예능, 16개월 안에 7개 소비 산업으로 이어진 미각 스트레스 테스트",
-    "description": "2024년 9월, 넷플릭스 《흑백요리사: 요리 계급 전쟁》은 첫 방영 주에 대만 시청률 1위를 차지했다. 이후 16개월간 프로그램 속 9명의 한국 셰프들이 콜라보, 게스트, 광고 모델 형태로 대만 편의점 식품, 손음료, 패스트푸드 체인, 5성급 호텔 뷔페, 배달 플랫폼, 한식 체인, 그리고 갤럭시 Z 폴드폰까지—거의 무관한 7개 소비 산업으로 촉수를 뻗었다. 그 가운데 김태성이 보증한 손음료 브랜드 '시성(十盛)'은 20개월 만인 2025-12-26 폐업하면서, 대만에서 처음으로 '한국 예능 셰프 보증'에 대한 역방향 검증이 이루어졌다.",
+    "title": "흑백요리사 인 대만: 넷플릭스 한능이 16개월 동안 7개 소비 산업에 가져온 미각 스트레스 테스트",
+    "description": "2024년 9월, 넷플릭스 《흑백요리사: 요리 계급 전쟁》 첫 방송 당주 대만에서 시청률 1위를 차지했습니다. 이후 16개월 동안 프로그램에 출연한 9명의 한국 셰프들이 브랜드 협업, 팝업, 광고 모델 등을 통해 대만의 편의점 신선 식품, 대만식 밀크티(수요음), 패스트푸드 체인, 5성급 호텔 뷔페, 배달 플랫폼, 한식 프랜차이즈, 심지어 Galaxy Z 폴더블폰까지 7개의 서로 다른 소비 산업군에 진출했습니다. 그 중 김태성 셰프가 보증한 밀크티 브랜드 \"십성(十盛)\"은 20개월 동안 영업한 후 2025년 12월 26일 폐업하며 대만 소비자가 한능 셰프 보증 브랜드에 대해 내린 첫 번째 역검증 사례가 되었습니다.",
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/culture/culinary-class-wars-in-taiwan",
-    "readingTime": 52,
+    "readingTime": 44,
     "featured": false,
     "date": "2026-04-25",
     "path": "ko/Culture/culinary-class-wars-in-taiwan.md"

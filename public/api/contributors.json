@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T22:11:21.830Z",
+  "lastUpdated": "2026-07-23T13:30:36.545Z",
   "totals": {
     "contributors": 66,
     "activeWindow": "last 30d"
@@ -7,15 +7,15 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 5249,
+      "commits": 5435,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-07-19 05:24:23 +0800",
+      "lastCommitAt": "2026-07-22 09:55:10 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1078,
-        "system": 3716,
+        "content": 1225,
+        "system": 3733,
         "translation": 871
       }
     },
@@ -221,12 +221,12 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/132933660?v=4",
       "profileUrl": "https://github.com/hansai-art",
       "firstCommitAt": "2026-03-18 21:37:00 +0800",
-      "lastCommitAt": "2026-03-18 23:15:33 +0800",
-      "primaryArea": "system",
+      "lastCommitAt": "2026-07-23 21:24:37 +0800",
+      "primaryArea": "translation",
       "breakdown": {
         "content": 2,
-        "system": 3,
-        "translation": 0
+        "system": 4,
+        "translation": 4
       }
     },
     {
@@ -397,7 +397,7 @@
       "name": "hansai-art",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132933660?v=4",
       "profileUrl": "https://github.com/hansai-art",
-      "types": ["💻", "🖋️", "🤔", "👀"]
+      "types": ["💻", "🖋️", "🤔", "🌍", "👀"]
     },
     {
       "login": "vaiskalivuan",
@@ -825,15 +825,15 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 5249,
+      "commits": 5435,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-07-19 05:24:23 +0800",
+      "lastCommitAt": "2026-07-22 09:55:10 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1078,
-        "system": 3716,
+        "content": 1225,
+        "system": 3733,
         "translation": 871
       }
     },
@@ -880,16 +880,16 @@
       }
     },
     {
-      "login": "hansai-art",
-      "commits": 5,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/132933660?v=4",
-      "profileUrl": "https://github.com/hansai-art",
-      "firstCommitAt": "2026-03-18 21:37:00 +0800",
-      "lastCommitAt": "2026-03-18 23:15:33 +0800",
+      "login": "f312213213",
+      "commits": 2,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/71749524?v=4",
+      "profileUrl": "https://github.com/f312213213",
+      "firstCommitAt": "2026-03-19 01:29:08 +0100",
+      "lastCommitAt": "2026-03-19 01:29:11 +0100",
       "primaryArea": "system",
       "breakdown": {
-        "content": 2,
-        "system": 3,
+        "content": 0,
+        "system": 2,
         "translation": 0
       }
     }
@@ -952,22 +952,22 @@
       }
     },
     {
-      "login": "ceruleanstring",
-      "commits": 4,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/265435204?v=4",
-      "profileUrl": "https://github.com/ceruleanstring",
-      "firstCommitAt": "2026-04-07 19:58:17 +0800",
-      "lastCommitAt": "2026-04-15 12:29:57 +0800",
+      "login": "hansai-art",
+      "commits": 5,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/132933660?v=4",
+      "profileUrl": "https://github.com/hansai-art",
+      "firstCommitAt": "2026-03-18 21:37:00 +0800",
+      "lastCommitAt": "2026-07-23 21:24:37 +0800",
       "primaryArea": "translation",
       "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 161
+        "content": 2,
+        "system": 4,
+        "translation": 4
       }
     }
   ],
-  "weeklyActive": 1,
-  "monthlyActive": 5,
+  "weeklyActive": 2,
+  "monthlyActive": 6,
   "recentlyJoined": [
     {
       "login": "ycku",

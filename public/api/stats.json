@@ -1,20 +1,20 @@
 {
-  "totalArticles": 5295,
+  "totalArticles": 5333,
   "totalCategories": 24,
-  "estimatedContributors": 66,
-  "totalTags": 5706,
+  "estimatedContributors": 356,
+  "totalTags": 5433,
   "categories": [
     {
       "name": "es",
-      "count": 843
+      "count": 853
     },
     {
       "name": "ko",
-      "count": 843
+      "count": 853
     },
     {
       "name": "fr",
-      "count": 843
+      "count": 853
     },
     {
       "name": "en",
@@ -22,7 +22,7 @@
     },
     {
       "name": "ja",
-      "count": 845
+      "count": 853
     },
     {
       "name": "hi",
@@ -116,7 +116,7 @@
     },
     {
       "name": "科技與企業",
-      "count": 41
+      "count": 40
     },
     {
       "name": "文學",
@@ -124,10 +124,6 @@
     },
     {
       "name": "ODM",
-      "count": 26
-    },
-    {
-      "name": "客家",
       "count": 26
     },
     {
@@ -159,6 +155,10 @@
       "count": 23
     },
     {
+      "name": "客家",
+      "count": 23
+    },
+    {
       "name": "金曲獎",
       "count": 23
     },
@@ -184,13 +184,8 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5295,
+    "zh-TW": 5333,
     "en": 0
   },
-  "lastUpdated": "2026-07-18T22:11:19.176Z",
-  "stars": 1110,
-  "forks": 167,
-  "zhPages": 851,
-  "enPages": 857,
-  "totalPages": 851
+  "lastUpdated": "2026-07-23T13:30:34.439Z"
 }
