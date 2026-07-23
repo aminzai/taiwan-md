@@ -770,6 +770,47 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
         fm = {**fm, "lastHumanReview": False}
         changes += 1
 
+    # ── 4b. Auto-assign missing subcategory (high-confidence only) ───────────
+    # 2026-07-23 idlccp1984 instrument evolution: contributor PRs often ship
+    # without subcategory. Keyword + taxonomy inference auto-heals when unique
+    # high-confidence; ambiguous cases stay HARD via frontmatter-title check
+    # and surface as advanced-review-required in that plugin's message.
+    sub_val = fm.get("subcategory")
+    if not (isinstance(sub_val, str) and sub_val.strip()) and path_category:
+        try:
+            from ..taxonomy_subcat import pick_auto_subcategory
+
+            tags = fm.get("tags") or []
+            if not isinstance(tags, list):
+                tags = []
+            title = str(fm.get("title") or target.slug or "")
+            picked = pick_auto_subcategory(
+                path_category,
+                title=title,
+                tags=[str(t) for t in tags],
+                filename=target.slug or "",
+                body=target.body or "",
+            )
+            if picked:
+                sub_name, _score, _reason = picked
+                # Escape single quotes in subcategory name for YAML
+                esc = sub_name.replace("'", "''")
+                if "subcategory" in fm:
+                    fm_text = _replace_field_value(
+                        fm_text, "subcategory", f"'{esc}'"
+                    )
+                else:
+                    anchor = "tags" if "tags" in fm else (
+                        "category" if "category" in fm else "title"
+                    )
+                    fm_text = _insert_after_key(
+                        fm_text, anchor, f"subcategory: '{esc}'"
+                    )
+                fm = {**fm, "subcategory": sub_name}
+                changes += 1
+        except Exception:
+            pass  # taxonomy helper optional — never block other fixes
+
     # ── 5. Quote single-line scalar fields that need single quotes ───────────
     lines_now = fm_text.splitlines()
     for key in SINGLE_QUOTED_SCALARS:

@@ -227,21 +227,228 @@ def normalize_footnote(line: str) -> Optional[str]:
     return None
 
 
-def heal_file(path: Path, apply: bool) -> tuple[int, int]:
-    """Returns (changes_count, total_footnotes_count)."""
-    text = path.read_text(encoding="utf-8")
+# GitHub-flavored footnote ref: [display](#user-content-fn-REALID)
+# IMPORTANT: display number ≠ real id. Example from NET PR:
+#   [1](#user-content-fn-19) → [^19]  (NOT [^1])
+#   [18](#user-content-fn-2) → [^2]
+_RE_GH_FN_REF = re.compile(
+    r"\[(\d+)\]\(#user-content-fn-(\d+)(?:-\d+)?\)"
+)
+# Numbered list footnote line variants (GitHub / APA / mixed):
+#   1. [Title](URL) — desc [↩](...)
+#   1. Author. (date). *Title*. https://... [↩]
+#   1. [Title](URL) — desc
+#
+# IMPORTANT: GitHub's rendered export often numbers EVERY list item as `1.`
+# The real footnote id lives in the backref: [↩](#user-content-fnref-N)
+# or [↩2](#user-content-fnref-N-2). Prefer that over the list marker.
+_RE_NUM_FN = re.compile(r"^(\d+)\.\s+(.+)$")
+_RE_FNREF_ID = re.compile(
+    r"\[↩[^\]]*\]\(#user-content-fnref-(\d+)(?:-\d+)?\)"
+)
+_RE_MD_LINK = re.compile(r"\[([^\]]+)\]\((https?://[^)]+)\)")
+_RE_URL = re.compile(r"(https?://\S+?)(?:\s|$|\.$|（|）|\))")
+# YAML fence frontmatter (GitHub web editor common mistake)
+_RE_YAML_FENCE = re.compile(
+    r"^```(?:ya?ml)?\s*\n(.*?)\n```\s*\n",
+    re.DOTALL | re.IGNORECASE,
+)
+
+
+def _strip_yaml_fence(text: str) -> tuple[str, int]:
+    """Convert ```yaml ... ``` leading fence to --- ... ---. Returns (text, changes)."""
+    m = _RE_YAML_FENCE.match(text)
+    if not m:
+        # Also handle: file starts with ```yaml without requiring trailing blank
+        m2 = re.match(r"^```(?:ya?ml)?\s*\n(.*?)```\s*\n?", text, re.DOTALL | re.I)
+        if not m2:
+            return text, 0
+        body = m2.group(1).strip("\n")
+        rest = text[m2.end() :]
+        return f"---\n{body}\n---\n{rest}", 1
+    body = m.group(1).strip("\n")
+    rest = text[m.end() :]
+    return f"---\n{body}\n---\n{rest}", 1
+
+
+def _convert_gh_refs(text: str) -> tuple[str, int]:
+    """[display](#user-content-fn-REALID) → [^REALID]
+
+    Always use the id embedded in the anchor (group 2), never the visible
+    list number (group 1). GitHub reorders display numbers independently
+    of definition ids.
+    """
+    changes = 0
+
+    def repl(m: re.Match) -> str:
+        nonlocal changes
+        changes += 1
+        return f"[^{m.group(2)}]"
+
+    return _RE_GH_FN_REF.sub(repl, text), changes
+
+
+def _resolve_fn_id(list_num: str, rest: str, seq_counter: list[int]) -> str:
+    """Pick footnote id: prefer GitHub fnref-N, else list marker, else sequence."""
+    ids = _RE_FNREF_ID.findall(rest)
+    if ids:
+        # First backref is the primary definition id
+        return ids[0]
+    if list_num and list_num != "1":
+        return list_num
+    # All-1s GitHub list with no fnref: fall back to sequential counter
+    seq_counter[0] += 1
+    return str(seq_counter[0])
+
+
+def _numbered_line_to_canonical(
+    list_num: str, rest: str, seq_counter: list[int]
+) -> Optional[str]:
+    """Convert one numbered footnote body to `[^N]: [Title](URL) — desc`."""
+    rest_raw = rest.strip()
+    num = _resolve_fn_id(list_num, rest_raw, seq_counter)
+    # Drop trailing github backref residue (may appear multiple times)
+    rest = re.sub(r"\s*\[↩[^\]]*\]\([^)]*\)", "", rest_raw).strip()
+    rest = re.sub(r"\s*↩\d*\s*$", "", rest).strip()
+
+    # Already almost canonical with md link
+    md = _RE_MD_LINK.search(rest)
+    if md:
+        title = md.group(1).strip()
+        url = md.group(2).strip()
+        after = rest[md.end() :].strip().lstrip("—-–：:，, ").strip()
+        before = rest[: md.start()].strip().strip(".—- ")
+        if not title or title.startswith("http"):
+            title = before if len(before) > 2 else title
+        title = re.sub(r"[\*_]+", "", title).strip()
+        if len(title) > 100:
+            title = title[:100] + "…"
+        desc = after if after and len(after) >= 6 else desc_for_url(url)
+        desc = re.sub(r"\s*↩\d*\s*$", "", desc).strip()
+        if len(desc) < 6:
+            desc = desc_for_url(url)
+        return f"[^{num}]: [{title}]({url}) — {desc}"
+
+    # APA / plain URL
+    um = _RE_URL.search(rest)
+    if um:
+        url = um.group(1).rstrip(".,，。、")
+        title_part = rest[: um.start()].rstrip(" ,，.").strip(". ").strip()
+        title_part = re.sub(r"[\*_]+", "", title_part)
+        title_part = re.sub(r"\s+", " ", title_part).strip()
+        if len(title_part) > 100:
+            title_part = title_part[:100] + "…"
+        if len(title_part) < 2:
+            title_part = "參考來源"
+        return f"[^{num}]: [{title_part}]({url}) — {desc_for_url(url)}"
+
+    return None
+
+
+def _convert_numbered_footnote_section(text: str) -> tuple[str, int]:
+    """Convert GitHub/APA numbered footnote lists under 參考資料 / Footnotes.
+
+    Heuristic: once we see a heading containing 參考資料/Footnotes/注釋/註腳,
+    subsequent `N. ...url...` lines become `[^N]: ...` until blank-heavy end
+    or a new ## heading that is not footnote-related.
+    """
     lines = text.split("\n")
     changes = 0
+    in_fn_zone = False
+    seq_counter = [0]  # mutable sequential fallback for all-1s lists
+    seen_ids: set[str] = set()
+    fn_zone_headers = re.compile(
+        r"^(?:#{1,3}\s*)?(?:\*\*)?(?:參考資料|注釋|註腳|Footnotes?|Sources?|References?)(?:\*\*)?",
+        re.I,
+    )
+    out: list[str] = []
+    for line in lines:
+        if fn_zone_headers.match(line.strip()):
+            in_fn_zone = True
+            # Normalize noisy headers
+            if re.match(r"^##\s*Footnotes", line, re.I) or line.strip() == "## Footnotes":
+                out.append("## 參考資料" if "參考" not in line else line)
+                changes += 1 if "Footnotes" in line else 0
+                continue
+            out.append(line)
+            continue
+        if in_fn_zone:
+            # Leave the zone on a real new H2 that's not refs
+            if re.match(r"^##\s+", line) and not fn_zone_headers.match(line.strip()):
+                in_fn_zone = False
+                out.append(line)
+                continue
+            nm = _RE_NUM_FN.match(line.strip())
+            if nm and ("http://" in line or "https://" in line or "](" in line):
+                converted = _numbered_line_to_canonical(
+                    nm.group(1), nm.group(2), seq_counter
+                )
+                if converted:
+                    # Dedup identical ids (GitHub sometimes repeats backrefs)
+                    id_m = re.match(r"^\[\^([^\]]+)\]:", converted)
+                    if id_m and id_m.group(1) in seen_ids:
+                        # Second definition with same id → keep but renumber seq
+                        seq_counter[0] += 1
+                        new_id = str(seq_counter[0])
+                        while new_id in seen_ids:
+                            seq_counter[0] += 1
+                            new_id = str(seq_counter[0])
+                        converted = re.sub(
+                            r"^\[\^[^\]]+\]:", f"[^{new_id}]:", converted, count=1
+                        )
+                        id_m = re.match(r"^\[\^([^\]]+)\]:", converted)
+                    if id_m:
+                        seen_ids.add(id_m.group(1))
+                    out.append(converted)
+                    changes += 1
+                    continue
+            # Already canonical [^N]: in zone — keep
+            if line.startswith("[^"):
+                id_m = re.match(r"^\[\^([^\]]+)\]:", line)
+                if id_m:
+                    seen_ids.add(id_m.group(1))
+                out.append(line)
+                continue
+        out.append(line)
+    return "\n".join(out), changes
+
+
+def heal_file(path: Path, apply: bool) -> tuple[int, int]:
+    """Returns (changes_count, total_footnotes_count).
+
+    Transforms (2026-07-23 expansion):
+      0. ```yaml fence frontmatter → ---
+      1. GitHub [n](#user-content-fn-n) → [^n]
+      2. Numbered list footnotes under 參考資料 → [^n]: canonical
+      3. Existing [^n]: lines via normalize_footnote (APA/angle/missing-desc)
+    """
+    text = path.read_text(encoding="utf-8")
+    changes = 0
+
+    text, c = _strip_yaml_fence(text)
+    changes += c
+
+    text, c = _convert_gh_refs(text)
+    changes += c
+
+    text, c = _convert_numbered_footnote_section(text)
+    changes += c
+
+    lines = text.split("\n")
     total = 0
     for i, line in enumerate(lines):
-        if line.startswith("[^"):
-            total += 1
-            new_line = normalize_footnote(line)
-            if new_line is not None and new_line != line:
-                lines[i] = new_line
-                changes += 1
+        if line.startswith("[^") and line.split(":", 1)[0].endswith("]"):
+            # definition line only
+            if re.match(r"^\[\^[0-9a-zA-Z_-]+\]:", line):
+                total += 1
+                new_line = normalize_footnote(line)
+                if new_line is not None and new_line != line:
+                    lines[i] = new_line
+                    changes += 1
+    text = "\n".join(lines)
+
     if changes and apply:
-        path.write_text("\n".join(lines), encoding="utf-8")
+        path.write_text(text, encoding="utf-8")
     return changes, total
 
 

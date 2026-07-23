@@ -159,13 +159,57 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     # Hub files (_*.md) are excluded by the upstream file filter.
     sub = target.frontmatter.get("subcategory")
     if target.category != "About" and (not isinstance(sub, str) or not sub.strip()):
+        # Surface max-match suggestions for advanced review / --fix path.
+        sugg_txt = ""
+        fix_sugg = None
+        try:
+            from ..taxonomy_subcat import pick_auto_subcategory, suggest_subcategory
+
+            tags = target.frontmatter.get("tags") or []
+            if not isinstance(tags, list):
+                tags = []
+            title = str(target.frontmatter.get("title") or target.slug or "")
+            ranked = suggest_subcategory(
+                target.category or "",
+                title=title,
+                tags=[str(t) for t in tags],
+                filename=target.slug or "",
+                body=target.body or "",
+            )
+            picked = pick_auto_subcategory(
+                target.category or "",
+                title=title,
+                tags=[str(t) for t in tags],
+                filename=target.slug or "",
+                body=target.body or "",
+            )
+            if ranked:
+                tops = ", ".join(
+                    f"{s} ({sc:.2f})" for s, sc, _ in ranked[:3]
+                )
+                if picked:
+                    sugg_txt = (
+                        f" — max match: {picked[0]} (ratio={picked[1]:.2f}, "
+                        f"auto-heal via --fix); candidates: {tops}"
+                    )
+                    fix_sugg = picked[0]
+                else:
+                    sugg_txt = (
+                        f" — max match: {ranked[0][0]} "
+                        f"(ratio={ranked[0][1]:.2f}); candidates: {tops} "
+                        f"[advanced-review-required]"
+                    )
+        except Exception:
+            pass
         yield Violation(
             check=CHECK_NAME,
             severity=Severity.HARD,
             message=(
                 f"frontmatter 缺 'subcategory' 欄位"
                 f" — {target.category} 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類"
+                f"{sugg_txt}"
             ),
             snippet=str(sub) if sub is not None else "(missing)",
+            fix_suggestion=fix_sugg,
             editorial_ref="docs/taxonomy/SUBCATEGORY.md",
         )

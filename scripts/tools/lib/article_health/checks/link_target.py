@@ -8,8 +8,17 @@ Two-phase validation of internal markdown links `[text](/path/)`:
 
   Phase 2 — EXISTENCE: `/en/history/non-existent-slug/` is broken even with
             correct casing. Cross-checks against the actual filesystem
-            (`knowledge/{lang}/{Category}/{slug}.md`). Not auto-fixable
-            (which slug did the author mean? human must decide).
+            (`knowledge/{lang}/{Category}/{slug}.md`).
+
+            Evolution 2026-07-23 (idlccp1984 batch / clownfish instrument):
+              - unquote percent-encoded paths before existence check
+                (false-negative: `/culture/%E9%95%B7%E8%BC%A9%E5%9C%96` was
+                flagged broken while `/culture/長輩圖` exists)
+              - surface max-match + ratio via difflib when missing
+              - auto-heal: decode-if-exists; high-confidence unique fuzzy
+                rewrite (ratio ≥ 0.90)
+              - medium confidence (0.70–0.90) stays WARN + suggestions
+                (advanced-review-required surface in message)
 
 Source-layer counterpart of `verify-internal-links.sh` (post-build dist scan).
 Catching at source means pre-commit / pre-PR gates fire instead of waiting
@@ -22,8 +31,10 @@ during fix: "目前有檢查內容交叉連結能否到達真實頁面嗎？沒�
 
 from __future__ import annotations
 import re
+from difflib import SequenceMatcher, get_close_matches
 from pathlib import Path
 from typing import Any, Iterator
+from urllib.parse import unquote
 
 from ..types import FileTarget, Severity, Violation
 
@@ -41,6 +52,11 @@ APPLIES_TO = ["*"]
 _LANGS = {"en", "ja", "ko", "fr", "es", "zh-TW"}
 _TRANSLATION_LANGS = {"en", "ja", "ko", "fr", "es"}
 _KNOWLEDGE_ROOT = Path("knowledge")
+
+# High-confidence fuzzy auto-heal threshold (unique top match only).
+_FUZZY_AUTO_RATIO = 0.90
+# Medium confidence: surface suggestions, advanced-review-required.
+_FUZZY_SUGGEST_RATIO = 0.70
 
 # Phase 1: capitalized category in link path.
 _RE_CASING = re.compile(
@@ -129,6 +145,108 @@ def _looks_like_article_path(path: str) -> bool:
     return False
 
 
+def _canonicalize_path(path: str) -> str:
+    """Lowercase category segment; keep slug as-is (CJK/latin)."""
+    parts = path.strip("/").split("/")
+    if not parts:
+        return path
+    if parts[0] in _LANGS and len(parts) >= 3:
+        parts[1] = parts[1].lower()
+    else:
+        parts[0] = parts[0].lower()
+    return "/" + "/".join(parts)
+
+
+def _slug_of(path: str) -> str:
+    parts = path.strip("/").split("/")
+    return parts[-1] if parts else path
+
+
+def _prefix_of(path: str) -> str:
+    """Everything except the final slug segment, with trailing slash."""
+    parts = path.strip("/").split("/")
+    if len(parts) <= 1:
+        return "/"
+    return "/" + "/".join(parts[:-1]) + "/"
+
+
+def _suggest_paths(canonical: str, valid: set[str], n: int = 3) -> list[tuple[str, float]]:
+    """Return top-n (path, ratio) suggestions for a missing path.
+
+    Strategy:
+      1. Prefer candidates sharing the same category/lang prefix.
+      2. Fall back to whole-corpus slug fuzzy match.
+    """
+    slug = _slug_of(canonical)
+    prefix = _prefix_of(canonical)
+    same_prefix = [p for p in valid if p.startswith(prefix)]
+    pool = same_prefix if same_prefix else list(valid)
+
+    # Score by slug similarity (not full path — category mismatches inflate).
+    scored: list[tuple[str, float]] = []
+    for p in pool:
+        ratio = SequenceMatcher(None, slug, _slug_of(p)).ratio()
+        if ratio >= _FUZZY_SUGGEST_RATIO:
+            scored.append((p, ratio))
+    scored.sort(key=lambda x: (-x[1], x[0]))
+
+    if scored:
+        return scored[:n]
+
+    # Last resort: get_close_matches on full path strings (cheap).
+    close = get_close_matches(canonical, list(valid), n=n, cutoff=_FUZZY_SUGGEST_RATIO)
+    return [(c, SequenceMatcher(None, canonical, c).ratio()) for c in close]
+
+
+def _resolve_path(path: str, valid: set[str]) -> tuple[str | None, list[tuple[str, float]], str]:
+    """Resolve a raw link path against the valid set.
+
+    Returns (resolved_path_or_None, suggestions, status) where status is one of:
+      ok | decode-ok | fuzzy-auto | missing
+    """
+    # 1. raw (after strip trailing slash)
+    raw = path.rstrip("/")
+    if not _looks_like_article_path(raw):
+        return None, [], "ok"  # not an article path — skip
+
+    # 2. unquote percent-encoding
+    decoded = unquote(raw)
+    # 3. canonicalize category casing
+    candidates = []
+    for p in (raw, decoded):
+        candidates.append(_canonicalize_path(p))
+        # also try decoded even if same
+    # dedupe preserve order
+    seen: set[str] = set()
+    ordered: list[str] = []
+    for c in candidates:
+        if c not in seen:
+            seen.add(c)
+            ordered.append(c)
+
+    for i, c in enumerate(ordered):
+        if c in valid:
+            if i == 0 and c == _canonicalize_path(raw) and "%" not in raw:
+                return c, [], "ok"
+            if "%" in raw or decoded != raw:
+                return c, [], "decode-ok"
+            return c, [], "ok"
+
+    # 4. fuzzy on the best canonical form (prefer decoded)
+    probe = ordered[-1] if ordered else _canonicalize_path(decoded)
+    suggestions = _suggest_paths(probe, valid, n=3)
+    if (
+        suggestions
+        and suggestions[0][1] >= _FUZZY_AUTO_RATIO
+        and (
+            len(suggestions) == 1
+            or suggestions[0][1] - suggestions[1][1] >= 0.05
+        )
+    ):
+        return suggestions[0][0], suggestions, "fuzzy-auto"
+    return None, suggestions, "missing"
+
+
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     body = target.body
     valid = _existing_link_targets()
@@ -150,56 +268,120 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             editorial_ref=EDITORIAL_REF,
         )
 
-    # Phase 2: existence violations — WARN (not auto-fixable, judgment call)
+    # Phase 2: existence + decode + fuzzy suggest
     for m in _RE_INTERNAL.finditer(body):
         if m.start() in casing_positions:
-            continue  # already flagged by Phase 1; skip until casing is fixed
+            continue
         path = m.group(1).rstrip("/")
         if not _looks_like_article_path(path):
             continue
-        # Canonicalize: lowercase the category segment for lookup
-        # (after Phase 1 fix all categories will be lowercase, but be defensive).
-        parts = path.strip("/").split("/")
-        if parts[0] in _LANGS:
-            # /lang/cat/slug
-            parts[1] = parts[1].lower()
-        else:
-            # /cat/slug
-            parts[0] = parts[0].lower()
-        canonical = "/" + "/".join(parts)
-        if canonical in valid:
-            continue
+        resolved, suggestions, status = _resolve_path(path, valid)
         line, col = _line_col(body, m.start())
+
+        if status == "ok":
+            continue
+
+        if status == "decode-ok":
+            # Percent-encoded but target exists after unquote — WARN + fixable.
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=(
+                    f"link 路徑含 percent-encoding，解碼後存在："
+                    f"{path} → {resolved}"
+                ),
+                line=line,
+                col=col,
+                snippet=_snippet(body, m.start(), m.end()),
+                fix_suggestion=resolved,
+                editorial_ref=EDITORIAL_REF,
+            )
+            continue
+
+        if status == "fuzzy-auto":
+            top = suggestions[0]
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=(
+                    f"link 目標不存在：{path} — 高信心 match "
+                    f"{top[0]} (ratio={top[1]:.2f})，--fix 可 auto-heal"
+                ),
+                line=line,
+                col=col,
+                snippet=_snippet(body, m.start(), m.end()),
+                fix_suggestion=top[0],
+                editorial_ref=EDITORIAL_REF,
+            )
+            continue
+
+        # missing — surface max match for advanced review
+        if suggestions:
+            tops = ", ".join(f"{p} ({r:.2f})" for p, r in suggestions[:3])
+            msg = (
+                f"link 目標不存在：{path} — max match: {suggestions[0][0]} "
+                f"(ratio={suggestions[0][1]:.2f}); candidates: {tops} "
+                f"[advanced-review-required]"
+            )
+            fix_sugg = suggestions[0][0] if suggestions[0][1] >= _FUZZY_SUGGEST_RATIO else None
+        else:
+            msg = f"link 目標不存在：{path} — 無接近 match [advanced-review-required]"
+            fix_sugg = None
         yield Violation(
             check=CHECK_NAME,
             severity=Severity.WARN,
-            message=f"link 目標不存在：{path}",
+            message=msg,
             line=line,
             col=col,
             snippet=_snippet(body, m.start(), m.end()),
-            fix_suggestion=None,  # human decides which slug
+            fix_suggestion=fix_sugg,
             editorial_ref=EDITORIAL_REF,
         )
 
 
-def fix(target: FileTarget, config: dict[str, Any]) -> bool:
-    """Phase 1 only: lowercase the category segment of every matching link.
+def fix(target: FileTarget, config: dict[str, Any]) -> int:
+    """Phase 1 casing + Phase 2 decode / high-confidence fuzzy rewrites.
 
-    Operates on `target.text` directly (full file). Safe because the regex
-    only matches markdown link syntax `](/lang/Cap/...)` which won't appear
-    inside YAML frontmatter as a real link target. Avoids the body-vs-text
-    splice trap (loader pads body with leading newlines for line-number
-    alignment, which breaks naive `text.rfind(body)`).
-
-    Phase 2 (existence) is NOT auto-fixed — the slug ambiguity needs a human.
-
-    Returns True if file was modified.
+    Returns number of link paths rewritten. Respects config['dry_run'].
     """
-    new_text = _RE_CASING.sub(
-        lambda m: f"{m.group(1)}{m.group(2).lower()}{m.group(3)}",
-        target.text,
-    )
-    if new_text == target.text:
-        return False
-    target.path.write_text(new_text, encoding="utf-8")
-    return True
+    text = target.text
+    valid = _existing_link_targets()
+    changes = 0
+
+    # Phase 1: casing
+    def _casing_sub(m: re.Match) -> str:
+        nonlocal changes
+        new = f"{m.group(1)}{m.group(2).lower()}{m.group(3)}"
+        if new != m.group(0):
+            changes += 1
+        return new
+
+    text = _RE_CASING.sub(_casing_sub, text)
+
+    # Phase 2: rewrite internal links that resolve via decode or fuzzy-auto
+    def _internal_sub(m: re.Match) -> str:
+        nonlocal changes
+        full = m.group(0)
+        path = m.group(1)
+        path_stripped = path.rstrip("/")
+        if not _looks_like_article_path(path_stripped):
+            return full
+        resolved, _suggestions, status = _resolve_path(path_stripped, valid)
+        if status in ("decode-ok", "fuzzy-auto") and resolved:
+            # Preserve trailing slash if original had one inside the capture
+            # (capture excludes trailing slash already via rstrip in check;
+            # keep path as resolved without trailing slash — site accepts both).
+            new = full.replace(path, resolved, 1)
+            if new != full:
+                changes += 1
+            return new
+        return full
+
+    text = _RE_INTERNAL.sub(_internal_sub, text)
+
+    if changes == 0:
+        return 0
+    if config.get("dry_run"):
+        return changes
+    target.path.write_text(text, encoding="utf-8")
+    return changes
