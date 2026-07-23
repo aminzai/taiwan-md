@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-07-23T13:30:36.093Z",
+  "generatedAt": "2026-07-23T13:39:51.407Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "ecf5d6d8ec719dcde4f6584dceb5482438273f9f",
+      "date": "2026-07-23T21:33:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] chore: refresh generated data after PR merges",
+      "articles": []
+    },
     {
       "hash": "0597bc0ea4ad61679a6dc2944aef93af85903dac",
       "date": "2026-07-23T22:29:23+09:00",

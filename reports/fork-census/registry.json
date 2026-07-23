@@ -2,15 +2,15 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-07-18",
+    "last_census": "2026-07-23",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 392355,
-      "users": 192483
+      "views": 404376,
+      "users": 200910
     },
     "dev_noise": {
-      "views": 11361,
+      "views": 11366,
       "users": 156
     },
     "verified_by": "background agent 2026-06-25 (VERIFIED/INFERRED 標記),GA data 主 session 驗",
@@ -39,12 +39,12 @@
       "last_seen": "2026-07",
       "ga": {
         "window": "365daysAgo",
-        "views": 619,
+        "views": 620,
         "users": 77
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 616,
+        "views": 617,
         "users": 60
       },
       "confidence": "high",
@@ -220,6 +220,66 @@
       "notes": "最成熟的遷移工程:7-phase + 自寫 MIGRATION.md 方法論(9 rule)。持續 git merge upstream/main + .gitattributes merge=ours。MIGRATION.md 值得吸收回 country-md-starter(弟弟教哥哥)"
     },
     {
+      "id": "portaly.cc",
+      "label": "portaly.cc",
+      "hostnames": ["portaly.cc"],
+      "title_brands": [],
+      "type": "(unverified)",
+      "topic": "(unverified)",
+      "language": "",
+      "github": "",
+      "network_fork": null,
+      "credits_upstream": null,
+      "cognitive_layer": "(unverified)",
+      "ga_leaking": true,
+      "deployment": "portaly.cc",
+      "health": "",
+      "confidence": "low",
+      "notes": "auto-detected via GA leak — needs investigation",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 38,
+        "users": 30
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "last_seen": "2026-07",
+      "first_seen": "2026-07"
+    },
+    {
+      "id": "Portaly",
+      "label": "Portaly",
+      "hostnames": [],
+      "title_brands": ["Portaly"],
+      "type": "(unverified)",
+      "topic": "(unverified)",
+      "language": "",
+      "github": "",
+      "network_fork": null,
+      "credits_upstream": null,
+      "cognitive_layer": "(unverified)",
+      "ga_leaking": true,
+      "deployment": "not public (localhost/intranet — title leak only)",
+      "health": "",
+      "confidence": "low",
+      "notes": "auto-detected via GA leak — needs investigation",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 38,
+        "users": 30
+      },
+      "last_seen": "2026-07",
+      "first_seen": "2026-07"
+    },
+    {
       "id": "Malaysia.md",
       "label": "Malaysia.md",
       "hostnames": [],
@@ -278,66 +338,6 @@
         "window": "365daysAgo",
         "views": 23,
         "users": 1
-      },
-      "last_seen": "2026-07",
-      "first_seen": "2026-07"
-    },
-    {
-      "id": "portaly.cc",
-      "label": "portaly.cc",
-      "hostnames": ["portaly.cc"],
-      "title_brands": [],
-      "type": "(unverified)",
-      "topic": "(unverified)",
-      "language": "",
-      "github": "",
-      "network_fork": null,
-      "credits_upstream": null,
-      "cognitive_layer": "(unverified)",
-      "ga_leaking": true,
-      "deployment": "portaly.cc",
-      "health": "",
-      "confidence": "low",
-      "notes": "auto-detected via GA leak — needs investigation",
-      "ga": {
-        "window": "365daysAgo",
-        "views": 13,
-        "users": 10
-      },
-      "title_ga": {
-        "window": "365daysAgo",
-        "views": 0,
-        "users": 0
-      },
-      "last_seen": "2026-07",
-      "first_seen": "2026-07"
-    },
-    {
-      "id": "Portaly",
-      "label": "Portaly",
-      "hostnames": [],
-      "title_brands": ["Portaly"],
-      "type": "(unverified)",
-      "topic": "(unverified)",
-      "language": "",
-      "github": "",
-      "network_fork": null,
-      "credits_upstream": null,
-      "cognitive_layer": "(unverified)",
-      "ga_leaking": true,
-      "deployment": "not public (localhost/intranet — title leak only)",
-      "health": "",
-      "confidence": "low",
-      "notes": "auto-detected via GA leak — needs investigation",
-      "ga": {
-        "window": "365daysAgo",
-        "views": 0,
-        "users": 0
-      },
-      "title_ga": {
-        "window": "365daysAgo",
-        "views": 13,
-        "users": 10
       },
       "last_seen": "2026-07",
       "first_seen": "2026-07"

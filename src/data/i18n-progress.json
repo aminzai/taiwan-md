@@ -3,33 +3,9 @@
   "total_en": 857,
   "coverage_en": 19.1,
   "categories": {
-    "es": {
-      "zh": 853,
-      "en": 0
-    },
-    "People": {
-      "zh": 239,
-      "en": 240
-    },
-    "hi": {
-      "zh": 49,
-      "en": 0
-    },
     "fr": {
       "zh": 853,
       "en": 0
-    },
-    "Food": {
-      "zh": 62,
-      "en": 63
-    },
-    "ja": {
-      "zh": 853,
-      "en": 0
-    },
-    "History": {
-      "zh": 47,
-      "en": 47
     },
     "ko": {
       "zh": 853,
@@ -39,21 +15,49 @@
       "zh": 56,
       "en": 57
     },
-    "Geography": {
-      "zh": 66,
-      "en": 64
+    "Food": {
+      "zh": 62,
+      "en": 63
     },
-    "About": {
-      "zh": 8,
-      "en": 8
+    "es": {
+      "zh": 853,
+      "en": 0
     },
-    "Culture": {
-      "zh": 68,
-      "en": 70
+    "Lifestyle": {
+      "zh": 30,
+      "en": 30
+    },
+    "Technology": {
+      "zh": 58,
+      "en": 57
+    },
+    "People": {
+      "zh": 239,
+      "en": 240
+    },
+    "ja": {
+      "zh": 853,
+      "en": 0
+    },
+    "Art": {
+      "zh": 42,
+      "en": 43
+    },
+    "History": {
+      "zh": 47,
+      "en": 47
     },
     "Society": {
       "zh": 89,
       "en": 90
+    },
+    "id": {
+      "zh": 54,
+      "en": 0
+    },
+    "Geography": {
+      "zh": 66,
+      "en": 64
     },
     "vi": {
       "zh": 54,
@@ -63,33 +67,29 @@
       "zh": 54,
       "en": 0
     },
-    "Technology": {
-      "zh": 58,
-      "en": 57
+    "hi": {
+      "zh": 49,
+      "en": 0
     },
-    "Music": {
-      "zh": 37,
-      "en": 37
+    "Culture": {
+      "zh": 68,
+      "en": 70
     },
     "Nature": {
       "zh": 38,
       "en": 38
     },
-    "id": {
-      "zh": 54,
-      "en": 0
-    },
-    "Lifestyle": {
-      "zh": 30,
-      "en": 30
-    },
-    "Art": {
-      "zh": 42,
-      "en": 43
+    "Music": {
+      "zh": 37,
+      "en": 37
     },
     "Politics": {
       "zh": 11,
       "en": 11
+    },
+    "About": {
+      "zh": 8,
+      "en": 8
     },
     "resources": {
       "zh": 2,

@@ -59,10 +59,10 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 66    |
-| ⭐ GitHub Stars                | 1110  |
+| ⭐ GitHub Stars                | 1114  |
 | 🍴 Forks                       | 167   |
-| 📅 Articles last 7 days        | 69    |
-| 📅 Articles last 30 days       | 152   |
+| 📅 Articles last 7 days        | 173   |
+| 📅 Articles last 30 days       | 231   |
 
 <!-- STATS:END -->
 
@@ -543,7 +543,7 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/iigmir"><img src="https://avatars.githubusercontent.com/u/11061770?v=4" width="100px;" alt=""/><br /><sub><b>iigmir</b></sub></a><br />💻</td>
-    <td align="center"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4" width="100px;" alt=""/><br /><sub><b>hansai-art</b></sub></a><br />💻 🖋️ 🤔 👀</td>
+    <td align="center"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4" width="100px;" alt=""/><br /><sub><b>hansai-art</b></sub></a><br />💻 🖋️ 🤔 🌍 👀</td>
     <td align="center"><a href="https://github.com/vaiskalivuan"><img src="https://avatars.githubusercontent.com/u/270533697?v=4" width="100px;" alt=""/><br /><sub><b>vaiskalivuan</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/ceruleanstring"><img src="https://avatars.githubusercontent.com/u/265435204?v=4" width="100px;" alt=""/><br /><sub><b>柒藍</b></sub></a><br />🌍</td>
     <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
