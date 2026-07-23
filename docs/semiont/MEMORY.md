@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-23
-last_session: '2026-07-23-214453-idlccp-clownfish-instrument (小丑魚 9 PR + 儀器進化)'
+last_session: '2026-07-23-222257-ui-container-sidebar (container 加寬 + 側欄排序)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -315,3 +315,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-22 | 094625-manual | 九個線上 PR 逐篇審核：八篇擋下，一篇 draft 內容通過 | 綠色 CI 仍需獨立文章健檢與來源抽查 | [→](memory/2026-07-22-094625-manual.md) |
 | 2026-07-23 | 214453-idlccp-clownfish-instrument | idlccp 9 PR 儀器進化+代修；誤 close 後 -s ours 補 MERGED；merge-first-then-heal 鐵律 | 格式稅勿轉嫁小丑魚；close≠merge 社會契約 | [→](memory/2026-07-23-214453-idlccp-clownfish-instrument.md) |
 | 2026-07-23 | 214147-pr-review-refresh-finale | 7 PR merge＋#1236 擋下＋#1228 draft；refresh 14/14、build URL 0 dead | draft 不是出貨意圖；wide PR gate 會掃 baseline | [→](memory/2026-07-23-214147-pr-review-refresh-finale.md) |
+| 2026-07-23 | 222257-ui-container-sidebar | container 三檔加寬 900/1440/1560；側欄改 meta→分享→貢獻者→關鍵詞 | 側欄排序是策展；全站寬度只改 tokens | [→](memory/2026-07-23-222257-ui-container-sidebar.md) |
