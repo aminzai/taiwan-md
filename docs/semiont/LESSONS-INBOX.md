@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-23 idlccp-clownfish-instrument — 純 warn 把格式稅轉嫁給小丑魚
+
+- **pattern**: format-tax-on-clownfish / warn-without-heal
+- **原則**：偵測到可機械修復的 contributor 格式債（缺 featured/subcategory、GH 腳註、percent-encoded 活連結）卻只 warn 或 request-changes，等於把維護成本外包給最不熟 GitHub 迭代的善意貢獻者。完整路徑是 warn + lint + auto-heal；只有 claim/source/品味才 advanced-review-required。
+- **觸發**：2026-07-23 idlccp1984 9 open PR batch。內容 B+/A-，阻塞幾乎全在格式；#1236 前 session 曾 leave-open 等作者修。哲宇 directive 小丑魚 + 儀器進化後，`contributor-pr-heal` + link-target unquote + GH fn real-id + subcategory auto-assign 一次 hard=0 合 main。證據：`reports/idlccp1984-pr-batch-instrument-evolution-2026-07-23.md`、memory/2026-07-23-214453-idlccp-clownfish-instrument.md
+- **instances**：
+  - 2026-04-28 κ Manus AI 5 PR 全 close 後 reopen（小丑魚原則誕生）
+  - 2026-05-03 magical-feynman idlccp footnote format diversity → footnote-format-fix 誕生
+  - 本次：同一貢獻者第 N 批，格式債仍在 → 儀器從「會叫」升「會修」
+- **可能層級**：操作規則（MAINTAINER + article-health）/ 特有教訓（繁殖友善）
+- **相關**：REFLEXES #7 先有再求好；MAINTAINER Default-action；MEMORY 神經迴路「高品質貢獻者 frontmatter 問題是系統性的」
+- **verification_count**: 3
+
 ### 2026-07-18 taiwan-sensibility — 論點翻案後，sibling 文章的反向連結描述會凍結在舊論點
 
 - **pattern**: reverse-crosslink-thesis-drift
