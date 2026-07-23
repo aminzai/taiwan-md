@@ -299,7 +299,7 @@ const encodedTitle = encodeURIComponent(title);
          inside the tall wrapper.
     -->
     <div
-      class="mx-auto grid max-w-[var(--container-article)] grid-cols-[220px_1fr_200px] [grid-template-areas:'toc_body_sidebar'] gap-14 px-8 pb-20 pt-16 max-lg:grid-cols-1 max-lg:[grid-template-areas:'body'_'sidebar'] max-lg:gap-8 max-lg:px-6 max-lg:pb-16 max-lg:pt-10 max-[640px]:px-4 max-[640px]:pb-12 max-[640px]:pt-6"
+      class="mx-auto grid max-w-[var(--container-article)] grid-cols-[260px_1fr_250px] [grid-template-areas:'toc_body_sidebar'] gap-12 px-8 pb-20 pt-16 max-xl:grid-cols-[240px_1fr_230px] max-lg:grid-cols-1 max-lg:[grid-template-areas:'body'_'sidebar'] max-lg:gap-8 max-lg:px-6 max-lg:pb-16 max-lg:pt-10 max-[640px]:px-4 max-[640px]:pb-12 max-[640px]:pt-6"
     >
       <!-- Left: Table of Contents (h-full lets the wrapper inherit grid row height,
            giving the inner sticky nav room to scroll within) -->
@@ -631,21 +631,26 @@ const encodedTitle = encodeURIComponent(title);
           </p>
         </aside>
 
-        <!-- Tags + bottom share row -->
+        <!-- Keywords + bottom share row（關鍵詞只留文末，側欄不重複） -->
         <div
           class="my-12 mb-8 flex flex-wrap items-center justify-between gap-4 border-t border-[rgba(26,60,52,0.08)] pt-8 max-[640px]:flex-col max-[640px]:items-start"
         >
           {
             frontmatter.tags && frontmatter.tags.length > 0 && (
-              <div class="flex flex-wrap gap-[0.4rem]">
-                {frontmatter.tags.map((tag: string) => (
-                  <span
-                    class="rounded-full border px-[0.7rem] py-1 font-['Inter',system-ui,sans-serif] text-[0.75rem] font-medium"
-                    style={`color:${categoryInfo.color}; background:${categoryInfo.colorLight}; border-color:${categoryInfo.color}28;`}
-                  >
-                    {tag}
-                  </span>
-                ))}
+              <div class="flex min-w-0 flex-1 flex-col gap-2">
+                <span class="font-['Inter',system-ui,sans-serif] text-[0.67rem] font-bold uppercase tracking-[0.2em] text-[#9aa89e]">
+                  {t('article.sidebar.keywordsLabel')}
+                </span>
+                <div class="flex flex-wrap gap-[0.4rem]">
+                  {frontmatter.tags.map((tag: string) => (
+                    <span
+                      class="rounded-full border px-[0.7rem] py-1 font-['Inter',system-ui,sans-serif] text-[0.75rem] font-medium"
+                      style={`color:${categoryInfo.color}; background:${categoryInfo.colorLight}; border-color:${categoryInfo.color}28;`}
+                    >
+                      {tag}
+                    </span>
+                  ))}
+                </div>
               </div>
             )
           }
