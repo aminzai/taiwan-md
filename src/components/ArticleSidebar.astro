@@ -1,6 +1,6 @@
 ---
 /**
- * ArticleSidebar — Right sidebar with reading time, tags, share buttons.
+ * ArticleSidebar — Right sidebar: meta → share → contributors → keywords.
  * Meta strings and dates follow `lang` via ui.ts + Intl.
  */
 import { useTranslatedPath, useTranslations } from '../i18n/utils';
@@ -295,28 +295,7 @@ const normalizedContributors = contributors.map((contributor) => {
     </div>
   </div>
 
-  <!-- Tags -->
-  {
-    tags.length > 0 && (
-      <div class="border-b border-[rgba(26,60,52,0.08)] py-5">
-        <p class="mb-[0.85rem] font-['Inter',system-ui,sans-serif] text-[0.67rem] font-bold uppercase tracking-[0.2em] text-[#9aa89e]">
-          {keywordsLabel}
-        </p>
-        <div class="flex flex-wrap gap-[0.4rem]">
-          {tags.map((tag) => (
-            <span
-              class="rounded-full border border-solid px-[0.65rem] py-[0.28rem] font-['Inter',system-ui,sans-serif] text-[0.75rem] font-medium"
-              style={`color: ${categoryColor}; background: ${categoryColor}12; border-color: ${categoryColor}28;`}
-            >
-              {tag}
-            </span>
-          ))}
-        </div>
-      </div>
-    )
-  }
-
-  <!-- Share -->
+  <!-- Share (before keywords — higher utility than tags) -->
   <div class="border-b border-[rgba(26,60,52,0.08)] py-5 last:border-b-0">
     <p
       class="mb-[0.85rem] font-['Inter',system-ui,sans-serif] text-[0.67rem] font-bold uppercase tracking-[0.2em] text-[#9aa89e]"
@@ -408,7 +387,7 @@ const normalizedContributors = contributors.map((contributor) => {
     </div>
   </div>
 
-  <!-- Contributors -->
+  <!-- Contributors (before keywords — higher utility than tags) -->
   {
     normalizedContributors.length > 0 && (
       <div class="border-b border-[rgba(26,60,52,0.08)] py-5 last:border-b-0">
@@ -432,6 +411,27 @@ const normalizedContributors = contributors.map((contributor) => {
               </span>
             ),
           )}
+        </div>
+      </div>
+    )
+  }
+
+  <!-- Tags / keywords (lowest utility — after share + contributors) -->
+  {
+    tags.length > 0 && (
+      <div class="border-b border-[rgba(26,60,52,0.08)] py-5 last:border-b-0">
+        <p class="mb-[0.85rem] font-['Inter',system-ui,sans-serif] text-[0.67rem] font-bold uppercase tracking-[0.2em] text-[#9aa89e]">
+          {keywordsLabel}
+        </p>
+        <div class="flex flex-wrap gap-[0.4rem]">
+          {tags.map((tag) => (
+            <span
+              class="rounded-full border border-solid px-[0.65rem] py-[0.28rem] font-['Inter',system-ui,sans-serif] text-[0.75rem] font-medium"
+              style={`color: ${categoryColor}; background: ${categoryColor}12; border-color: ${categoryColor}28;`}
+            >
+              {tag}
+            </span>
+          ))}
         </div>
       </div>
     )
