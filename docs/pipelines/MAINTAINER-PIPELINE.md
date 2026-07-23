@@ -1,11 +1,11 @@
 ---
 title: 'MAINTAINER-PIPELINE'
-description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow (v2.3 cron-generated content suggestion 5-phase + 4-route dedupe)'
+description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Git merge 優先 (merge-first-then-heal) / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.5'
-last_updated: 2026-07-05
-last_session: '2026-07-05-120817-dna-audit'
+current_version: 'v2.6'
+last_updated: 2026-07-23
+last_session: '2026-07-23-214453-idlccp-clownfish-instrument'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -107,6 +107,57 @@ upstream_canonical:
 
 完整論述：[LESSONS-INBOX β-r3 META-PATTERN「Default 是行動，不是 defer」](../semiont/LESSONS-INBOX.md) + [feedback_merge_first_then_polish.md](../../.claude/projects/-Users-cheyuwu-Projects-taiwan-md/memory/feedback_merge_first_then_polish.md) + [feedback_dont_keep_asking.md](../../.claude/projects/-Users-cheyuwu-Projects-taiwan-md/memory/feedback_dont_keep_asking.md)。
 
+### 1b. Git merge 優先（merge-first-then-heal）⭐ v2.6
+
+> **觀察者 2026-07-23 校正**（idlccp1984 9 PR batch）：內容直接 commit 進 main 再 `gh pr close` = **流程錯誤**。貢獻者必須拿到 GitHub **Merged** 狀態與譜系；close 是拒絕/失效，不是收割。  
+> 證據：memory/2026-07-23-214453-idlccp-clownfish-instrument.md Wave C · LESSONS `close-as-ship-breaks-merged-contract`。
+
+**鐵律一句話**：contributor / observer 善意 PR → **先 `gh pr merge`（或等價 merge commit 讓 PR 標 MERGED）→ 再 main 上 heal / polish**。  
+**禁止**：先把檔案塞進 main → `gh pr close` 當「收完了」。
+
+#### 優先序（由高到低，必須依序嘗試）
+
+| 順位            | 動作                                                                                  | 何時用                                                        | GitHub PR 狀態                   |
+| --------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------- |
+| **P0**          | `gh pr merge N --merge` 或 `--squash`（依 §合併策略）                                 | CI green / MERGEABLE / 無硬衝突                               | **MERGED** ✅                    |
+| **P1**          | heal 推回 PR head 分支（有 fork write 時）→ 再 `gh pr merge`                          | 需先過 hard gate 才敢 merge 的格式債                          | **MERGED** ✅                    |
+| **P2**          | `gh pr merge` 後立刻 main heal commit（Co-authored-by 保留）                          | 格式可後修（featured / subcategory / GH 腳註 / percent-link） | **MERGED** ✅ 再 polish          |
+| **P3**          | `bash scripts/tools/cherry-merge-prs.sh N`（native merge 優先，fallback 才 checkout） | GitHub 無法直接 merge（conflict / permission）                | 見腳本：fallback 後仍應標 MERGED |
+| **P4 事後補洞** | 內容已誤進 main 且 PR 誤 close → reopen + `git merge -s ours <pr-head>` + push        | **僅補救**，不是 default                                      | **MERGED**（tree 保持 main）     |
+
+#### 明確禁止
+
+| 禁止                                                 | 為什麼                                                 |
+| ---------------------------------------------------- | ------------------------------------------------------ |
+| `gh pr close` 代替 ship                              | 貢獻者無 Merged、譜系斷、像被拒絕                      |
+| 只 `git commit` 進 main、不接 PR head                | 同上；Co-authored-by 補不到綠色 Merged                 |
+| fallback cherry 後 `CLOSE_FALLBACK_PRS=1` 當 default | close ≠ merge；fallback 後應 `-s ours` 或再開 PR merge |
+| 「先 heal 乾淨再 close 比較安全」                    | 安全靠 pre-commit / article-health，不靠抹掉 PR 狀態   |
+
+#### 與 Decision matrix 對齊
+
+- Step 3.3 表裡的 **merge + heal / merge + polish** = 先 merge（P0–P2），再修
+- **leave open** = 合法 defer（deep research / contributor judgment）
+- **close** = 僅紅旗真命中、或 close hard gate 確認「接手也修不了且不該進庫」
+
+#### 操作速查
+
+```bash
+# P0 — 預設
+gh pr merge N --merge --delete-branch   # 或 --squash（見 §合併策略）
+# 然後 main 上 heal
+python3 scripts/tools/contributor-pr-heal.py knowledge/...
+git commit && git push
+
+# P4 — 僅事後補洞（內容已在 main、PR 誤 close）
+gh pr reopen N
+git fetch origin pull/N/head:pr/N
+git merge -s ours pr/N --no-ff -m "Merge pull request #N from …"
+git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
+```
+
+工具：`scripts/tools/cherry-merge-prs.sh`（**native `gh pr merge` 優先**；fallback 禁止預設 close）。
+
 ### 2. 策展不是百科
 
 百科全書追求完整性（什麼都要有）。Taiwan.md 追求策展性（選什麼、怎麼說）。
@@ -140,6 +191,7 @@ upstream_canonical:
 | ~~§collect-and-merge A 路徑~~ ⚠️ DEPRECATED v2.1 | Stage 3.1   | routine PR (owner + `[routine]`)（v2.1 起無 routine PR） | gh pr checks + view --json mergeable                    | n/a — routine 走 main-direct |
 | §collect-and-merge B 路徑                        | Stage 3.2   | contributor / observer PR                                | 紅旗 + CI + close-hard-gate decision matrix             | per-tier action              |
 | §Close 前 hard gate                              | Stage 3.3   | 任何 close 前                                            | 「我接手 X min 內可以修嗎」self-check                   | 改 polish 不 close           |
+| **Git merge 優先** ⭐ v2.6                       | Stage 3.2–3 | 任何「收」contributor PR                                 | `gh pr merge` 先於 heal；禁 close-as-ship               | 改 merge + heal / leave open |
 | §Footnote source audit                           | Stage 3.4   | 外部 PR with footnote 改動                               | 抽樣 ≥ 3 footnote URL WebFetch                          | request changes              |
 | pre-commit hook 全過                             | Stage 3.5   | 所有 heal commit                                         | `.husky/pre-commit`                                     | 不 commit                    |
 | article-health.py 全 plugin                      | Stage 3.5   | 內容改動的 PR (knowledge/\*.md)                          | `python3 scripts/tools/article-health.py {file}`        | request changes / heal       |
@@ -153,11 +205,12 @@ upstream_canonical:
 
 > 從 LESSONS-INBOX / memory 抽 ship-then-retract / friction 高的 step。Cycle 開始前主動掃一次。
 
-1. **Step 2.4 重複回應檢查** — 維護者剛回過、沒新 follow-up → SKIP（避免罐頭 reply 雜訊）
-2. **Step 3.3 §Close 前 hard gate** — close 前必問「我接手 X min 內可以修嗎」，default 是 polish 不 close
-3. **Step 3.4 §Footnote source authority audit** — 外部 PR footnote 必抽樣 WebFetch ≥ 3 URL（防 Manus AI 虛構內部 source 紅旗）
-4. **Step 3.5 article-health.py 全 plugin gate** — B 路徑 hard gate 必跑（PR-side CI 不等於 main-side deploy CI；footnote-format / image-health 只在後者跑）
-5. **Step 3.7 thank-you 用 `gh pr comment` 不是 `--body`** — `gh pr merge --body` 寫進 git log，貢獻者看不到
+1. **§1b Git merge 優先** ⭐ — 收 PR = `gh pr merge` 先；**禁** content 進 main 後 `gh pr close`（2026-07-23 哲宇校正）
+2. **Step 2.4 重複回應檢查** — 維護者剛回過、沒新 follow-up → SKIP（避免罐頭 reply 雜訊）
+3. **Step 3.3 §Close 前 hard gate** — close 前必問「我接手 X min 內可以修嗎」，default 是 polish 不 close
+4. **Step 3.4 §Footnote source authority audit** — 外部 PR footnote 必抽樣 WebFetch ≥ 3 URL（防 Manus AI 虛構內部 source 紅旗）
+5. **Step 3.5 article-health.py 全 plugin gate** — B 路徑 hard gate 必跑（PR-side CI 不等於 main-side deploy CI；footnote-format / image-health 只在後者跑）
+6. **Step 3.7 thank-you 用 `gh pr comment` 不是 `--body`** — `gh pr merge --body` 寫進 git log，貢獻者看不到
 
 ---
 
@@ -607,6 +660,7 @@ gh pr merge N --squash --delete-branch
 1. **Step 2.3 紅旗 check**：任一命中 → close + reason（除非紅旗 6/7/8/10，走 Step 3.5 polish）
 2. **CI 狀態檢查**：FAIL / CONFLICTING / PENDING → 同 A 路徑處置
 3. **Step 3.3 close-hard-gate decision matrix**：通過後決定 action
+4. **§1b Git merge 優先（HARD）**：action = ship 時 → **先 `gh pr merge`（P0–P2）** 再 Step 3.5 heal。**禁止**「檔案已寫進 main + `gh pr close`」當收割。
 
 **重要 fast-track 條件**（per v2.0）：observer [semiont] PR + author=frank890417 + mergeable CLEAN + 沒標 draft → 直接 squash merge（同 A 路徑 hard gate）。**不要套用「需 observer judgment」**除非命中 §自主權邊界。
 
@@ -668,6 +722,7 @@ gh pr merge N --squash --delete-branch
 - 2026-04-28 κ session 對 5 PR (idlccp1984 Manus AI batch) 全 close → 哲宇即時校正「忘記了小丑魚原則 / 如果你接手要怎麼調整」→ reopen + merge + polish 全部 ~25 min 完成。完整診斷：[memory/2026-04-28-κ.md §根因診斷](../semiont/memory/2026-04-28-κ.md#根因診斷為什麼忘記小丑魚原則哲宇要求)。
 - 2026-05-11 PM cycle 對 3 observer [semiont] PR (#1033/#1029/#1021) leave open → 哲宇即時校正「這些也都 merge 啊，有什麼疑慮？」→ rebase 解 anchor conflict + 全部 merged，~10 min。fast-track observer PR 升 v2.0 canonical。
 - 2026-05-16 AM cycle 對 PR #1070 第一輪 leave-open + 3-option observer ping → 哲宇即時校正「重新仔細的檢查一下 #1070」→ ground-truth diff query 回 8 篇 pure-delete 未觸發邊界 + upstream #1063 observer ruling 已明示 scope 允許 → squash merge `f712b7242`。**雙重 input precision 失敗**（用 PR body 描述代替 diff 實算 + 沒讀 upstream issue comment）。升 Step 2.3.1 紅旗 input ground-truth check canonical。完整診斷：[memory/2026-05-16-090909-maintainer-am-0900.md §第二輪重審](../semiont/memory/2026-05-16-090909-maintainer-am-0900.md) + [reports/routine-audit-2026-05-16.md §Pattern 3](../../reports/routine-audit-2026-05-16.md#pattern-3boundary-input-precision--規則正確不夠)。
+- 2026-07-23 idlccp1984 9 PR：儀器 heal 後 **直接 commit main + `gh pr close`** → 哲宇校正「要也是 pr merge 然後再來修」。補救 `git merge -s ours` 九燈轉 MERGED。升 **§1b Git merge 優先** canonical。完整：[memory/2026-07-23-214453-idlccp-clownfish-instrument.md](../semiont/memory/2026-07-23-214453-idlccp-clownfish-instrument.md) · LESSONS `close-as-ship-breaks-merged-contract`。
 
 #### 雙向校正 — Default action 反向風險
 
@@ -984,12 +1039,14 @@ gh pr merge <new-PR> --squash --delete-branch  # maintainer 自己 PR 可 auto-m
 
 #### 三級判斷（Close hard gate 通過後的 routing）
 
-| 級別               | 條件                                                                          | 動作                                                                   |
-| ------------------ | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| ✅ 直接 merge      | 品質 OK，不需改動                                                             | merge + `gh pr comment` 感謝                                           |
-| 🔧 merge + 自己修  | 小問題（< 10 分鐘能修好）                                                     | merge → 自己 commit 修正 → `gh pr comment` 說明                        |
-| 🛠️ merge + polish  | 中型問題（10-30 分鐘能修好）                                                  | merge → maintainer polish branch + heal commits → `gh pr comment` 說明 |
-| ❌ request changes | 問題太大（> 50% 需重寫 or > 30 分鐘修復量）+ close hard gate 確認屬合法 close | 打回 + 具體回饋（PR comment）                                          |
+> ⚠️ **v2.6**：下列每一級「merge」都指 **GitHub PR 狀態變 MERGED**（`gh pr merge` 或等價 merge commit），不是「內容出現在 main 就算」。見 §1b。
+
+| 級別               | 條件                                                                          | 動作                                                                       |
+| ------------------ | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| ✅ 直接 merge      | 品質 OK，不需改動                                                             | **`gh pr merge`** + `gh pr comment` 感謝                                   |
+| 🔧 merge + 自己修  | 小問題（< 10 分鐘能修好）                                                     | **`gh pr merge` 先** → main heal commit → `gh pr comment` 說明             |
+| 🛠️ merge + polish  | 中型問題（10-30 分鐘能修好）                                                  | **`gh pr merge` 先** → polish/heal commits → `gh pr comment` 說明          |
+| ❌ request changes | 問題太大（> 50% 需重寫 or > 30 分鐘修復量）+ close hard gate 確認屬合法 close | 打回 + 具體回饋（PR comment）；**仍 open 等修，不是 silent close-as-ship** |
 
 #### 翻譯 PR 的上游檢查
 
@@ -999,11 +1056,32 @@ gh pr merge <new-PR> --squash --delete-branch  # maintainer 自己 PR 可 auto-m
 
 完整翻譯 PR 流程見 [TRANSLATION-PIPELINE.md v3.0](TRANSLATION-PIPELINE.md)（八階段 + 17 條常漏 + 工具索引）。批次 PR（≥ 3 個同 author）：`bash scripts/tools/bulk-pr-analyze.sh --author X` 全景檢查。
 
-#### 合併策略
+#### 合併策略（merge-first，v2.6）
 
-- **文章 PR**：Squash merge（保持 git log 乾淨）
-- **程式碼 PR**：簡單 squash，複雜保留 commits
-- **重構 PR**：逐 commit 看，確認沒有遺漏 section
+**順序固定**：native GitHub merge →（可選）main heal → comment。Never close-as-ship。
+
+| PR 類型            | 建議 merge 形式                                    | 備註                                                              |
+| ------------------ | -------------------------------------------------- | ----------------------------------------------------------------- |
+| **文章 / 內容 PR** | `--merge`（保留 contributor commits）或 `--squash` | 小丑魚 batch 優先 `--merge` 讓譜系可見；log 乾淨需求強時才 squash |
+| **程式碼 PR**      | 簡單 `--squash`，複雜 `--merge` 保留 commits       |                                                                   |
+| **重構 PR**        | 逐 commit 看；`--merge` 或 stack                   |                                                                   |
+| **翻譯 batch**     | 依 TRANSLATION-PIPELINE；仍須 PR 標 MERGED         |                                                                   |
+
+```bash
+# 預設路徑（B 路徑 ship）
+gh pr merge N --merge --delete-branch
+# 或
+gh pr merge N --squash --delete-branch
+
+# 批次且 native merge 失敗時：工具優先 native，禁止預設 close
+bash scripts/tools/cherry-merge-prs.sh 1233 1232 1231
+# CLOSE_FALLBACK_PRS 預設 0。fallback 後應 merge -s ours 標 MERGED，不要 close。
+
+# 誤 close 補洞（僅 P4）
+gh pr reopen N && git fetch origin pull/N/head:pr/N
+git merge -s ours pr/N --no-ff -m "Merge pull request #N from …"
+git push origin main
+```
 
 ---
 
@@ -1153,9 +1231,12 @@ Branch protection：需 1 approval，`enforce_admins: false`。目前策略：�
 
 > **「拒絕一篇投稿，跟接受一篇一樣重要。」** — 策展的價值在選擇，不在收集。
 
-> **「能做就做完，不要一直問。」** — Default-action principle。Defer 預設要 justify，不是 default。
+> **「能做就做完，不要一直問。」** — Default-action principle。Defer 預設要 justify，不是 default。  
+> **「先 merge，再 heal。」** — Git merge 優先。Close 不是收割。
 
 ---
+
+_v2.6 | 2026-07-23 idlccp-clownfish-instrument — **§1b Git merge 優先（merge-first-then-heal）** 升核心原則：contributor PR ship 必須 `gh pr merge`（或等價 merge commit 讓 PR 標 MERGED）後再 main heal；**禁止** content 進 main + `gh pr close`。補 Hard Gate / Top 5 / Step 3.2 / 三級判斷 / 合併策略 / 歷史教訓。誕生：idlccp1984 9 PR 誤 close → 哲宇「要也是 pr merge 然後再來修」→ `-s ours` 補 MERGED。LESSONS `close-as-ship-breaks-merged-contract`。_
 
 _v2.5 | 2026-07-05 git-identity session（哲宇 /goal「完整升級 maintainer 也會去 review + 思考 Discussions」）— **Stage 1 感知納入第三個 contributor 入口**：(1) 新增 §Step 1.3b gh discussions scan（graphql 掃描 + 四類分流表 + 48hr 回應 SLA）(2) §Untrusted 輸入防火牆 範圍補 Discussions 貼文與 comment (3) ASCII spine Stage 1 5→6 steps。誕生：#1146 掛 22 天 / #307 掛 3 個月全 0 回應，LESSONS `github-discussions-structural-blind-spot`，分析 [reports/discussion-1146-response-2026-07-05.md](../../reports/discussion-1146-response-2026-07-05.md)。_
 
@@ -1173,6 +1254,7 @@ _v2.0 | 2026-05-11 twmd-maintainer-pm-211549-v2-spine — Stage spine restoratio
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/MAINTAINER-PIPELINE.md`）_：
 
+- **v2.6**（2026-07-23 idlccp-clownfish）— §1b Git merge 優先：merge-first-then-heal；禁 close-as-ship；合併策略 P0–P4 優先序 + `-s ours` 補洞
 - **v2.3**（2026-05-25 quirky-pasteur）— §Step 2.1.1 [Content] issue digest sub-flow（5-phase 消化→反投毒→雙層 DB check→4-route 分流→priority）+ §Step 3.6.b 4-route reply templates (R1/R2/R3/R4 + mixed + anti-poison fail)。誕生：tboydar-agent cron-generated [Content] issue 連 3 輪跟 INBOX 已 P0 entry 重疊揭露結構性 gap。同 session 演練在 #1092 + #1093 兩 issue 真實 reply
 - **v2.2**（2026-05-16 maintainer-am-0900-second-review）— §Step 2.3.1 紅旗 input ground-truth check + §雙向校正 over-defer 反向（PR #1070 第二輪 ground-truth diff query + upstream issue ruling 校正）
 - **v2.1**（2026-05-12 routine-v2-resync follow-up）— §collect-and-merge §A 路徑 DEPRECATED 擋頭（routine v2.1 main-direct ship 後 reconcile，保留 v1.x SOP body 作歷史證據鏈）

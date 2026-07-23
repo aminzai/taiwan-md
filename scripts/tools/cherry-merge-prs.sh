@@ -1,18 +1,23 @@
 #!/usr/bin/env bash
 # Merge PRs while preserving contributor history whenever possible.
 #
+# Aligns with MAINTAINER-PIPELINE §1b Git merge 優先 (merge-first-then-heal):
+#   contributor PR must end MERGED on GitHub — never close-as-ship.
+#
 # Default behavior:
-#   1. Try a real GitHub merge commit first. This keeps the PR marked MERGED and
-#      keeps the contributor's original commits reachable from main.
-#   2. If GitHub cannot merge the PR, fall back to API-based file checkout for
-#      knowledge/*.md files, preserving the PR author and Co-authored-by lines.
+#   1. Try real GitHub merge first (gh pr merge --merge). PR → MERGED.
+#   2. If unavailable, fall back to API checkout for knowledge/*.md
+#      (author + Co-authored-by preserved), then mark MERGED via
+#      `git merge -s ours <pr-head>` (tree stays main; PR parent linked).
+#   3. CLOSE_FALLBACK_PRS defaults OFF. Prefer MARK_MERGED_OURS (default ON).
 #
 # Environment:
 #   GH_REPO=owner/repo             Override the GitHub repository.
 #   REMOTE=origin                  Git remote used for fallback commits.
 #   BASE_BRANCH=main               Branch to fast-forward before fallback.
-#   FALLBACK_CHERRY=0             Disable file-checkout fallback.
-#   CLOSE_FALLBACK_PRS=1          Comment and close fallback-integrated PRs.
+#   FALLBACK_CHERRY=0              Disable file-checkout fallback.
+#   CLOSE_FALLBACK_PRS=1           LEGACY close after fallback (discouraged).
+#   MARK_MERGED_OURS=0             Disable post-fallback merge -s ours mark.
 set -euo pipefail
 
 PRS=("$@")
@@ -23,6 +28,7 @@ REMOTE="${REMOTE:-origin}"
 BASE_BRANCH="${BASE_BRANCH:-main}"
 FALLBACK_CHERRY="${FALLBACK_CHERRY:-1}"
 CLOSE_FALLBACK_PRS="${CLOSE_FALLBACK_PRS:-0}"
+MARK_MERGED_OURS="${MARK_MERGED_OURS:-1}"
 
 json_field() {
   local field="$1"
@@ -184,8 +190,25 @@ for pr in "${PRS[@]}"; do
 
   git push --quiet 2>/dev/null || { echo "  ❌ push failed"; FAILED+=("$pr"); break; }
 
+  # Prefer marking MERGED (merge -s ours) over close — MAINTAINER §1b
+  if [[ "$MARK_MERGED_OURS" == "1" ]]; then
+    if git fetch "$REMOTE" "pull/$pr/head" --quiet 2>/dev/null; then
+      if git merge -s ours FETCH_HEAD --no-ff -m "Merge pull request #$pr (fallback mark MERGED)" --quiet 2>/dev/null; then
+        if git push --quiet 2>/dev/null; then
+          echo "  ✅ marked MERGED via merge -s ours (tree unchanged)"
+          gh pr comment "$pr" --repo "$REPO" --body "Integrated via author-preserving fallback (native GitHub merge unavailable), then marked **Merged** with \`git merge -s ours\` so the PR keeps green Merged status while main keeps the healed tree. Per MAINTAINER-PIPELINE §1b merge-first-then-heal." >/dev/null 2>&1 || true
+        else
+          echo "  ⚠️ merge -s ours committed but push failed; PR may still be open"
+        fi
+      else
+        echo "  ⚠️ merge -s ours failed; leaving PR open for manual merge"
+      fi
+    fi
+  fi
+
   if [[ "$CLOSE_FALLBACK_PRS" == "1" ]]; then
-    gh pr comment "$pr" --repo "$REPO" --body "Integrated via fallback cherry-pick because a normal GitHub merge was unavailable. The fallback commit preserves the PR author and Co-authored-by metadata." >/dev/null 2>&1 || true
+    echo "  ⚠️ CLOSE_FALLBACK_PRS=1 is discouraged (close ≠ Merged). Prefer MARK_MERGED_OURS."
+    gh pr comment "$pr" --repo "$REPO" --body "Integrated via fallback cherry-pick because a normal GitHub merge was unavailable. The fallback commit preserves the PR author and Co-authored-by metadata. (Legacy close path — prefer Merged.)" >/dev/null 2>&1 || true
     gh pr close "$pr" --repo "$REPO" >/dev/null 2>&1 || true
   fi
 
