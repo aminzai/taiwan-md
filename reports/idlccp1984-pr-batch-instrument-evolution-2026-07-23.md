@@ -189,15 +189,23 @@ _執行過程中 append。_
 
 ### Wave A
 
-- （待填）
+- ✅ link-target unquote + max-match + fuzzy auto-heal（ratio≥0.90）
+- ✅ taxonomy_subcat + frontmatter subcategory auto-assign（高信心）
+- ✅ footnote-format-fix GH real-id + numbered list + yaml fence
+- ✅ contributor-pr-heal.py orchestrator
+- ✅ report 本檔
 
 ### Wave B
 
-- （待填）
+- ✅ 9/9 PR 代修進 main（commits `2a583ad30` instrument + `96bf8d193` content）
+- ✅ hard=0 pre-commit on all 9 files
+- ✅ #1225 advanced：移除 Google 搜尋頁 source；hedge 前法官煤炭 claim
+- ✅ 9/9 `gh pr close` + 中文感謝 comment（Co-authored-by idlccp1984）
+- 延伸閱讀：8 篇新文補站內關聯；台灣迷因既有 延伸閱讀 + link decode
 
 ### Wave C
 
-- （待填）
+- （finale 接續）
 
 ---
 
