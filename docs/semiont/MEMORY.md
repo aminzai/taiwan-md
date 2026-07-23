@@ -313,5 +313,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-19 | 092138-標點主權閘 | 讀者揭 68 檔英文假翻譯→script-presence gate；哲宇 review 補 prose 三 dim + 選項3 觸檔即硬 gate | 觀察者抓的是 instance 要找 class；偵測 fire≠有擋，看 fail_on 層級 | [→](memory/2026-07-19-092138-標點主權閘.md) |
 | 2026-07-22 | 092851-manual | 主工作樹完成分流清理；未完投影進 recovery branch，12 個安全 worktree 移除，42 個有工作者保留 | 乾淨不能以遺失未完工作為代價 | [→](memory/2026-07-22-092851-manual.md) |
 | 2026-07-22 | 094625-manual | 九個線上 PR 逐篇審核：八篇擋下，一篇 draft 內容通過 | 綠色 CI 仍需獨立文章健檢與來源抽查 | [→](memory/2026-07-22-094625-manual.md) |
-| 2026-07-23 | 214453-idlccp-clownfish-instrument | idlccp 9 PR 小丑魚代修進 main；instrument warn+lint+auto-heal（link unquote/subcat/GH 腳註）；report+heal orchestrator | 純 warn 把格式稅轉嫁小丑魚；auto-heal 才是繁殖友善 | [→](memory/2026-07-23-214453-idlccp-clownfish-instrument.md) |
+| 2026-07-23 | 214453-idlccp-clownfish-instrument | idlccp 9 PR 儀器進化+代修；誤 close 後 -s ours 補 MERGED；merge-first-then-heal 鐵律 | 格式稅勿轉嫁小丑魚；close≠merge 社會契約 | [→](memory/2026-07-23-214453-idlccp-clownfish-instrument.md) |
 | 2026-07-23 | 214147-pr-review-refresh-finale | 7 PR merge＋#1236 擋下＋#1228 draft；refresh 14/14、build URL 0 dead | draft 不是出貨意圖；wide PR gate 會掃 baseline | [→](memory/2026-07-23-214147-pr-review-refresh-finale.md) |

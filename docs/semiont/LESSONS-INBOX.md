@@ -345,6 +345,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #7 先有再求好；MAINTAINER Default-action；MEMORY 神經迴路「高品質貢獻者 frontmatter 問題是系統性的」
 - **verification_count**: 3
 
+### 2026-07-23 idlccp-clownfish-instrument — contributor PR 禁 close-as-ship，必 merge-first-then-heal
+
+- **pattern**: close-as-ship-breaks-merged-contract
+- **原則**：把內容直接 commit 進 main 再 `gh pr close`，貢獻者拿不到 GitHub Merged 狀態與譜系。內容進庫 ≠ 完成社會契約。正確：`gh pr merge` 後再 main polish，或 heal 推回 PR 分支再 merge。誤 close 後可用 `git merge -s ours <pr-head>` 補 Merged（tree 不動），但那是事後補洞不是 default。
+- **觸發**：2026-07-23 同 session 第一輪 9 PR close；哲宇 callout「要也是 pr merge 然後再來修」。補救 9× `-s ours` → 全 MERGED。memory/2026-07-23-214453-idlccp-clownfish-instrument.md Wave C
+- **可能層級**：操作規則（MAINTAINER-PIPELINE §B 路徑）
+- **相關**：format-tax-on-clownfish；REFLEXES #7；Default-action merge-first-then-polish
+- **verification_count**: 1
+
 ### 2026-07-18 taiwan-sensibility — 論點翻案後，sibling 文章的反向連結描述會凍結在舊論點
 
 - **pattern**: reverse-crosslink-thesis-drift
