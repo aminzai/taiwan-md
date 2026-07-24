@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-24 babel-fleet-dispatch — 大批次派發要在執行途中持續記錄＋觀察＋分析＋即時優化，不是跑完才復盤
+
+- **pattern**: batch-dispatch-loop-engineering-inline
+- **原則**：長跑批次任務（跨語言翻譯、fleet 派發、任何 N 篇/N 檔的重複執行）發現的系統性缺陷，要在**同一批次執行途中**修好、驗證、寫回 canonical 工具，再繼續下一批——不是先跑完整批、事後才復盤。發現一個 class 的 bug 就立刻問「這個 class 還有多少個 instance」，把偵測邏輯直接寫進 repo 內的儀器（不是 /tmp 手記），下一批立即受益。哲宇原話：「派發這些翻譯的 prompt template 你也根據實務執行經驗每一批都 loop-engineering 優化，以後都採這個模式，在執行途中就要持續記錄＋觀察＋分析＋即時優化的渦流」。
+- **觸發**：2026-07-24 babel-fleet-dispatch session 單一批次內連續發現並當場修復 6 類系統性缺陷：(1) 新語言 P0 missing 批次未帶 `--slug-map` → 262/300 篇會 collide 寫入同一個 `TBD-NEEDS-SLUG.md`（動手前攔下，未落地）(2) 已 commit 的 ja P1 stale 批次 6/8 篇 image/imageCredit 系列欄位掉失（zh source 仍有）(3) 同批 1 篇 tags 陣列原樣抄 zh 未翻譯 (4) 1 篇 readingTime/lastHumanReview/featured 被錯誤加引號（破壞 Zod schema）(5) `src/i18n/ui.ts` vi/id/pt/hi 四個語言 block 的 16 個 sub-bundle spread 全部指向 `['zh-TW']` 而非自己語言（scaffold 遺留，站上四語首頁功能區塊因此半年沒真的顯示對應語言）(6) fleet 遠端節點 gemma4:26b 因 payload 未帶 `num_ctx`，35K 字 prompt 被 Ollama 靜默截斷到 ~4096 token（`done_reason: length, eval_count: 1`），造成 100% 空輸出失敗。全部當場修好：(1)(6) 改 `scripts/tools/lang-sync/prepare-batch.py` 呼叫方式 + `backends/ollama.py` 動態 `num_ctx`；(2)(3)(4) 手動修復 + 泛化 `verify-translation.py` 從 en-only 升級為任何語言的 hard gate（CJK-script 目標用 byte-identical-to-source 判斷，非 CJK-script 目標用 has-CJK 判斷）；(5) 直接改 `ui.ts` spread 引用。
+- **反例對照**：如果照舊模式「先派發、跑完一輪、回頭 audit」，(1) 會造成 262 篇資料損毀（同檔互覆）、(5) 會繼續讓四個新語言的首頁功能介紹半年顯示中文不自知、(6) 會讓 4090 節點整晚 0% 產出卻誤判為「已經在跑」。
+- **可能層級**：操作規則（升進 twmd-babel skill §Self-evolution rule，該節已有「每次大波完成後」條款，本條把 cadence 從「大波完成後」收緊為「同批次執行途中」）
+- **相關**：REFLEXES #15 反覆浮現要儀器化（同精神，但本條是「單一批次內部」的時間粒度，比 #15 的「跨 session 反覆」更緊）；REFLEXES #42 sub-agent N 篇 sequential 三偷吃步（本條是 fleet/cascade 派發的姊妹篇）；MEMORY §神經迴路「工具在說謊」（本條新增 fleet-node context-truncation 為第 N 種說謊形式）
+- **verification_count**: 1（首次記錄，本 session 6 個 instance 同時發生足以直接升 canonical，不需等第二個 session 覆核）
+
 ### 2026-07-23 idlccp-clownfish-instrument — 純 warn 把格式稅轉嫁給小丑魚
 
 - **pattern**: format-tax-on-clownfish / warn-without-heal

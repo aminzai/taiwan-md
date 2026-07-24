@@ -117,9 +117,14 @@ Critical:
 
 ## Self-evolution rule
 
-**每次大波 babel 完成後**（≥ 50 translations shipped）：
+**2026-07-24 哲宇 directive 收緊 cadence**：發現系統性缺陷不等大波跑完才修——**同一批次執行途中**當場修（工具 + 已落地檔案），驗證過再繼續下一批。「先跑完一輪、事後才 audit」對 fleet/多節點派發是危險的（同一 bug 會在你沒看見的時候複製到下一批、下一個節點）。同日一次 dispatch 內連續現形 6 類缺陷（slug-map 缺失導致同檔互覆、image 欄位掉失、tags 未翻、frontmatter 型別被錯誤加引號、`ui.ts` 四新語言 spread 全指向 zh-TW、fleet 節點 `num_ctx` 未設被 Ollama 靜默截斷成空輸出）全部當場修復，證明「發現→修→驗證→繼續」比「跑完→回頭 audit」在真實派發中更省成本。詳見 [LESSONS-INBOX 2026-07-24 babel-fleet-dispatch](../../../docs/semiont/LESSONS-INBOX.md)。
+
+**每次大波 babel 完成後**（≥ 50 translations shipped，這條門檻仍是最終 batch-level 整合性驗證，不取代上面的同批次即時修復）：
 
 - **跑整合性閘門**（不只眼測抽樣）：article 走 `verify-batch.py` / diary 走 `diary-translation-audit.py`，收斂到 **0 critical** 才算完。**byte-size 不算閘門**（長檔靜默截斷成 2KB 仍 > 1KB；本地 LLM early-stop 必驗）
+- **P0 missing 批次（新語言 / 尚無現存翻譯）必帶 `--slug-map`**：`prepare-batch.py` 對缺 slug 的條目會 fallback 到 `TBD-NEEDS-SLUG`，多篇撞同檔名 = 靜默互覆。先用 `_translations.json` 反查已有語言（通常是 en）的既有 slug 建 slug-map，零 LLM call
+- **本地/遠端 Ollama 節點呼叫必帶動態 `num_ctx`**：不能只靠模型卡宣稱的 context length，Ollama runtime 有自己的預設值（常是 4096）會靜默截斷長 prompt。`backends/ollama.py` 已依 prompt 長度 + 輸出預算動態計算，新增 backend 或改 payload 時比照辦理
+- **fleet 新語言/新節點首次派發前跑一次 verify-translation.py 抽樣**（不是等批次全部跑完）：每個 (node, lang) 組合先驗 1-2 篇，確認不是 100% 空輸出/截斷才放大批次規模
 - 抽樣 5 random articles 各 lang，audit 品質（size ratio + sample translation）
 - 如有新 model refusal pattern → 寫進 `_refusal-cache.json`
 - 如有新 YAML quoting bug → 升 article-health.py plugin gate

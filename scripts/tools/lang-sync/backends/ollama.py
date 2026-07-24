@@ -83,6 +83,18 @@ class OllamaBackend(TranslationBackend):
     def translate(self, system: str, user: str, *, max_tokens: int = 32000, timeout: int = None) -> str:
         timeout = timeout or self.DEFAULT_TIMEOUT
 
+        # 2026-07-24 fleet-dispatch bug: without an explicit num_ctx, Ollama
+        # falls back to its server-side default runtime context window (often
+        # 4096) REGARDLESS of what the model card declares (gemma4:26b reports
+        # 262144 but a 35K-char / ~12K-token prompt still got silently
+        # truncated to prompt_eval_count=4095, eval_count=1, done_reason=
+        # "length" — the model saw a cut-off prompt and emitted one token).
+        # Size num_ctx to the actual prompt + requested output + margin, not a
+        # blanket max, so small articles don't pay for unused KV cache.
+        prompt_chars = len(system) + len(user)
+        est_prompt_tokens = prompt_chars // 3 + 512  # mixed CJK/Latin ~3 chars/token, +margin
+        num_ctx = min(max(est_prompt_tokens + max_tokens + 2048, 8192), 131072)
+
         payload = json.dumps({
             "model": self.CAPABILITIES.model,
             "messages": [
@@ -97,6 +109,7 @@ class OllamaBackend(TranslationBackend):
             "options": {
                 "temperature": 0.3,
                 "num_predict": max_tokens,
+                "num_ctx": num_ctx,
             },
         }).encode("utf-8")
 
