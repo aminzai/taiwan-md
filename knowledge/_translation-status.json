@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T02:31:50+08:00",
-    "zhCommitHead": "f9008c204",
+    "lastUpdated": "2026-07-25T02:37:15+08:00",
+    "zhCommitHead": "0dd6f4f83",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -59,26 +59,26 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 67,
+        "fresh": 65,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 779,
+        "missing": 781,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 95,
-        "stale": 12,
+        "fresh": 97,
+        "stale": 11,
         "metadata_stale": 0,
-        "missing": 755,
+        "missing": 754,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 105,
+        "fresh": 106,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 746,
+        "missing": 745,
         "orphan": 0
       },
       "hi": {
@@ -708,18 +708,16 @@
         "id": {
           "path": "id/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
           "translatedFrom": "Music/台灣樂器製造.md",
-          "sourceCommitSha": "271b623c0",
-          "sourceContentHash": "sha256:72775f6e0e1d12ab",
-          "sourceBodyHash": "sha256:3c1ccee7444c5ae3",
-          "translatedAt": "2026-07-18T18:59:54+08:00",
+          "sourceCommitSha": "b4f3dab63",
+          "sourceContentHash": "sha256:5ffbb5b925e1997f",
+          "sourceBodyHash": "sha256:cda00c8983ea5b23",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
           "translationLastCommit": "e82fd52f",
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 46,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -20"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
@@ -20347,18 +20345,7 @@
           "diffSummary": "+16 -16"
         },
         "vi": {
-          "path": "vi/Art/new-ecological-art-environment.md",
-          "translatedFrom": "Art/新生態藝術環境.md",
-          "sourceCommitSha": "c99df6503",
-          "sourceContentHash": "sha256:89f4f7c40c7428d6",
-          "sourceBodyHash": "sha256:dde1ab9552710d18",
-          "translatedAt": "2026-07-25T02:04:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 19,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "path": "id/Art/new-ecological-art-environment.md",
@@ -30686,7 +30673,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/chinese-taipei.md",
+          "translatedFrom": "Society/中華台北.md",
+          "sourceCommitSha": "bbd8788a3",
+          "sourceContentHash": "sha256:177fea3750c80f10",
+          "sourceBodyHash": "sha256:dab437d622fd59b0",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -33986,18 +33984,7 @@
           "diffSummary": "+1 -1"
         },
         "vi": {
-          "path": "vi/About/founder.md",
-          "translatedFrom": "About/taiwan-md.md",
-          "sourceCommitSha": "b8160c741",
-          "sourceContentHash": "sha256:de46b78b6b1ae5fb",
-          "sourceBodyHash": "sha256:ba0673429f6e80dd",
-          "translatedAt": "2026-07-25T02:04:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -47335,8 +47322,8 @@
           "sourceContentHash": "sha256:36208e14ce1c380c",
           "sourceBodyHash": "sha256:5eb269f5e4d722c4",
           "translatedAt": "2026-07-24T20:15:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dd6f4f8",
+          "translationLastModified": "2026-07-25T02:33:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -52410,8 +52397,8 @@
           "sourceContentHash": "sha256:59a6177c37cf5305",
           "sourceBodyHash": "sha256:731cd7121531d2ac",
           "translatedAt": "2026-07-24T23:02:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dd6f4f8",
+          "translationLastModified": "2026-07-25T02:33:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -61702,8 +61689,8 @@
           "sourceContentHash": "sha256:c6c5b08befa8584a",
           "sourceBodyHash": "sha256:65be42b8cac6c9ca",
           "translatedAt": "2026-07-24T23:02:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dd6f4f8",
+          "translationLastModified": "2026-07-25T02:33:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -68628,7 +68615,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-coffee-culture.md",
+          "translatedFrom": "Food/台灣咖啡文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:547ccdf1b16e61de",
+          "sourceBodyHash": "sha256:a7a3d68abd8527fd",
+          "translatedAt": "2026-07-25T01:31:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -70742,8 +70740,8 @@
           "sourceContentHash": "sha256:24a72a8ef4ad1c70",
           "sourceBodyHash": "sha256:67689aef546b2c21",
           "translatedAt": "2026-07-24T23:02:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dd6f4f8",
+          "translationLastModified": "2026-07-25T02:33:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -73347,18 +73345,7 @@
           "diffSummary": "+2 -1"
         },
         "vi": {
-          "path": "vi/History/taiwan-transitional-justice.md",
-          "translatedFrom": "History/台灣轉型正義.md",
-          "sourceCommitSha": "7c73f6a55",
-          "sourceContentHash": "sha256:c532a9d95ccbcaaf",
-          "sourceBodyHash": "sha256:530ea0ffb4d07e77",
-          "translatedAt": "2026-07-25T02:04:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -86705,8 +86692,8 @@
           "sourceContentHash": "sha256:90bff79aa4402b0e",
           "sourceBodyHash": "sha256:79bbd46fe867d775",
           "translatedAt": "2026-07-24T23:02:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dd6f4f8",
+          "translationLastModified": "2026-07-25T02:33:59+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -86950,7 +86937,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/national-theater-and-concert-hall.md",
+          "translatedFrom": "Culture/兩廳院.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1b722cc963da8ad2",
+          "sourceBodyHash": "sha256:b8e419f98d87f2d4",
+          "translatedAt": "2026-07-25T01:31:50+08:00",
+          "translationLastCommit": "0dd6f4f8",
+          "translationLastModified": "2026-07-25T02:33:59+08:00",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -87076,8 +87074,8 @@
           "sourceContentHash": "sha256:e0f0df37674e0a42",
           "sourceBodyHash": "sha256:0cf1fac1d7c9b8b4",
           "translatedAt": "2026-07-24T23:02:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dd6f4f8",
+          "translationLastModified": "2026-07-25T02:33:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -87207,8 +87205,8 @@
           "sourceContentHash": "sha256:c4dd3375c0cfa0a5",
           "sourceBodyHash": "sha256:a20df4f3c36414b3",
           "translatedAt": "2026-07-24T23:02:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dd6f4f8",
+          "translationLastModified": "2026-07-25T02:33:59+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
