@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T02:37:15+08:00",
-    "zhCommitHead": "0dd6f4f83",
+    "lastUpdated": "2026-07-25T02:51:10+08:00",
+    "zhCommitHead": "597a2eacc",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -59,34 +59,34 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 65,
+        "fresh": 66,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 781,
+        "missing": 780,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 97,
+        "fresh": 94,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 754,
+        "missing": 757,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 106,
+        "fresh": 109,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 745,
+        "missing": 742,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 104,
+        "fresh": 105,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 750,
+        "missing": 749,
         "orphan": 0
       },
       "ar": {
@@ -706,18 +706,7 @@
           "diffSummary": "+20 -20"
         },
         "id": {
-          "path": "id/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
-          "translatedFrom": "Music/台灣樂器製造.md",
-          "sourceCommitSha": "b4f3dab63",
-          "sourceContentHash": "sha256:5ffbb5b925e1997f",
-          "sourceBodyHash": "sha256:cda00c8983ea5b23",
-          "translatedAt": "2026-07-25T01:11:51+08:00",
-          "translationLastCommit": "e82fd52f",
-          "translationLastModified": "2026-07-19T00:12:50+08:00",
-          "inferred": false,
-          "footnoteDefs": 46,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
@@ -1115,7 +1104,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/eggplant-egg-band.md",
+          "translatedFrom": "Music/茄子蛋.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:1be7230ba8a26470",
+          "sourceBodyHash": "sha256:448d367a49551ee8",
+          "translatedAt": "2026-07-25T01:31:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/eggplant-egg-band.md",
@@ -11234,18 +11234,7 @@
           "diffSummary": "+14 -14"
         },
         "id": {
-          "path": "id/Technology/taiwan-bim-construction-tech.md",
-          "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "30072b76a",
-          "sourceContentHash": "sha256:7923803a611ee1da",
-          "sourceBodyHash": "sha256:ac277cd39572ac41",
-          "translatedAt": "2026-07-25T01:11:51+08:00",
-          "translationLastCommit": "f6054c73",
-          "translationLastModified": "2026-07-24T20:41:47+08:00",
-          "inferred": false,
-          "footnoteDefs": 53,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/Technology/taiwan-bim-construction-tech.md",
@@ -18960,7 +18949,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/taiwanese-curators-and-artistic-cultural-construction.md",
+          "translatedFrom": "Art/台灣策展人與藝術文化建構.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:01e74babf94ac8da",
+          "sourceBodyHash": "sha256:859c873057ee681d",
+          "translatedAt": "2026-07-25T01:31:52+08:00",
+          "translationLastCommit": "597a2eac",
+          "translationLastModified": "2026-07-25T02:46:40+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/taiwanese-curators-and-artistic-cultural-construction.md",
@@ -26419,18 +26419,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Society/taiwan-higher-education-expansion-and-decline.md",
-          "translatedFrom": "Society/台灣高等教育擴張與退場.md",
-          "sourceCommitSha": "3b2bfbb30",
-          "sourceContentHash": "sha256:0e32d79d3df5fb08",
-          "sourceBodyHash": "sha256:4ba5d74427c47aed",
-          "translatedAt": "2026-07-25T01:11:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -30673,18 +30662,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Society/chinese-taipei.md",
-          "translatedFrom": "Society/中華台北.md",
-          "sourceCommitSha": "bbd8788a3",
-          "sourceContentHash": "sha256:177fea3750c80f10",
-          "sourceBodyHash": "sha256:dab437d622fd59b0",
-          "translatedAt": "2026-07-25T01:11:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 38,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -72642,7 +72620,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/alishan-empire-forest-and-uongu-yatauyungana.md",
+          "translatedFrom": "History/阿里山：帝國的林場與高一生的山.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:e62d0eea59514d87",
+          "sourceBodyHash": "sha256:a7df3087b3ccbab6",
+          "translatedAt": "2026-07-25T01:31:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/alishan-empire-forest-and-uongu-yatauyungana.md",
@@ -84859,8 +84848,8 @@
           "sourceContentHash": "sha256:9c408bfc603af1d1",
           "sourceBodyHash": "sha256:f60b7a2b3f864e75",
           "translatedAt": "2026-07-25T01:31:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "597a2eac",
+          "translationLastModified": "2026-07-25T02:46:40+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -84881,7 +84870,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/indigenous-language-revitalization-movement.md",
+          "translatedFrom": "Culture/台灣原住民語言復振運動.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:9c408bfc603af1d1",
+          "sourceBodyHash": "sha256:f60b7a2b3f864e75",
+          "translatedAt": "2026-07-25T01:31:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -88863,7 +88863,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/christianity-in-taiwan.md",
+          "translatedFrom": "Culture/基督教在台灣.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:875b7e202aed03cb",
+          "sourceBodyHash": "sha256:4b3f831fea6a96bf",
+          "translatedAt": "2026-07-25T01:31:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/christianity-in-taiwan.md",
@@ -89381,7 +89392,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/tchoukball-in-taiwan.md",
+          "translatedFrom": "Culture/巧固球.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:01a29994f0cdcf17",
+          "sourceBodyHash": "sha256:620db6741686fb51",
+          "translatedAt": "2026-07-25T01:31:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/tchoukball-in-taiwan.md",
