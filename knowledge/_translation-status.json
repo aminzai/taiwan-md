@@ -1,16 +1,16 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T18:27:00+08:00",
-    "zhCommitHead": "38f1df693",
+    "lastUpdated": "2026-07-24T18:36:42+08:00",
+    "zhCommitHead": "d23e43724",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
       "en": {
         "total_zh": 862,
-        "fresh": 724,
-        "stale": 106,
+        "fresh": 717,
+        "stale": 103,
         "metadata_stale": 0,
-        "missing": 32,
+        "missing": 42,
         "orphan": 0
       },
       "ja": {
@@ -47,18 +47,18 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 44,
+        "fresh": 48,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 807,
+        "missing": 803,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 54,
+        "fresh": 56,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 798,
+        "missing": 796,
         "orphan": 0
       },
       "pt": {
@@ -2386,7 +2386,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Music/chthonic.md",
+          "translatedFrom": "Music/閃靈.md",
+          "sourceCommitSha": "087677fae",
+          "sourceContentHash": "sha256:428539ef61aee065",
+          "sourceBodyHash": "sha256:ca8382bb6533d023",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -3496,18 +3507,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Music/chou-hui.md",
-          "translatedFrom": "Music/周蕙.md",
-          "sourceCommitSha": "c40c53f61",
-          "sourceContentHash": "sha256:bad67aad8b965996",
-          "sourceBodyHash": "sha256:7f999c1dbadb14bb",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 39,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Music/chou-hui.md",
@@ -4380,7 +4380,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-uniform-invoice.md",
+          "translatedFrom": "Economy/發票.md",
+          "sourceCommitSha": "4a923c640",
+          "sourceContentHash": "sha256:3de7677c1cc54d07",
+          "sourceBodyHash": "sha256:1962c2279b937909",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -11949,18 +11960,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Technology/computex-taipei.md",
-          "translatedFrom": "Technology/Computex.md",
-          "sourceCommitSha": "52389a7cb",
-          "sourceContentHash": "sha256:c2deb4a945d2dc5b",
-          "sourceBodyHash": "sha256:a4c6e70e74235d09",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 60,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Technology/computex-taipei.md",
@@ -13514,18 +13514,16 @@
         "en": {
           "path": "en/Technology/justfont-and-taiwan-typography.md",
           "translatedFrom": "Technology/justfont與台灣字體發展.md",
-          "sourceCommitSha": "c673392a",
-          "sourceContentHash": "sha256:1463e5ff242b3b05",
-          "sourceBodyHash": "sha256:0d5ea03d7cea15ec",
-          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "sourceCommitSha": "e773ef6b0",
+          "sourceContentHash": "sha256:6e31a2264dcded4f",
+          "sourceBodyHash": "sha256:dcea1d33e3c8824c",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 65,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/justfont-and-taiwan-typography.md",
@@ -15333,7 +15331,18 @@
           "diffSummary": "+1 -1"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Art/wang-lien-cheng-artist.md",
+          "translatedFrom": "Art/王連晟.md",
+          "sourceCommitSha": "6bbbf62ba",
+          "sourceContentHash": "sha256:f395cb57343c4ecf",
+          "sourceBodyHash": "sha256:3e275e3c41071f38",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Art/wang-lien-cheng-artist.md",
@@ -26666,18 +26675,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Society/i-am-from.md",
-          "translatedFrom": "Society/我是OO人.md",
-          "sourceCommitSha": "72dc7d1dc",
-          "sourceContentHash": "sha256:5d890c10b178421f",
-          "sourceBodyHash": "sha256:0b63d09474dfeccb",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "6eb74c3a",
-          "translationLastModified": "2026-06-16T02:23:25+08:00",
-          "inferred": false,
-          "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Society/i-am-from.md",
@@ -27533,18 +27531,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Society/paraguay-taiwan.md",
-          "translatedFrom": "Society/巴拉圭與台灣.md",
-          "sourceCommitSha": "72a8b4432",
-          "sourceContentHash": "sha256:01affe2533530c02",
-          "sourceBodyHash": "sha256:21c703a5d9235d48",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Society/paraguay-taiwan.md",
@@ -30928,7 +30915,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/About/taiwan-official-resources.md",
+          "translatedFrom": "About/台灣官方網站資源.md",
+          "sourceCommitSha": "84e041681",
+          "sourceContentHash": "sha256:08b967bc1d90e0f6",
+          "sourceBodyHash": "sha256:637002941419ff56",
+          "translatedAt": "2026-07-24T18:27:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -37051,18 +37049,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/People/constant-and-change-band.md",
-          "translatedFrom": "People/康士坦的變化球.md",
-          "sourceCommitSha": "160c9d82d",
-          "sourceContentHash": "sha256:37d8610a843cfcf0",
-          "sourceBodyHash": "sha256:f8b9d7518607d1e1",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "fbca064a",
-          "translationLastModified": "2026-06-29T01:08:29+08:00",
-          "inferred": false,
-          "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/People/constant-and-change-band.md",
@@ -43572,18 +43559,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/People/cheng-chou-yu-poet.md",
-          "translatedFrom": "People/鄭愁予.md",
-          "sourceCommitSha": "cce7f2522",
-          "sourceContentHash": "sha256:05733d2c54bfc625",
-          "sourceBodyHash": "sha256:77382e9a08c09f18",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 12,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/People/cheng-chou-yu-poet.md",
@@ -44919,18 +44895,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/People/hsu-chiao-hsin.md",
-          "translatedFrom": "People/徐巧芯.md",
-          "sourceCommitSha": "200949f47",
-          "sourceContentHash": "sha256:a962a822b6113a98",
-          "sourceBodyHash": "sha256:77a2ffda234c910d",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
-          "inferred": false,
-          "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/People/hsu-chiao-hsin.md",
@@ -48602,18 +48567,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/People/andre-chiang-taiwanese-culinary-innovator.md",
-          "translatedFrom": "People/江振誠.md",
-          "sourceCommitSha": "afc8fbf91",
-          "sourceContentHash": "sha256:335773d0a09d68a9",
-          "sourceBodyHash": "sha256:257d28e459bd329d",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 30,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/People/andre-chiang-taiwanese-culinary-innovator.md",
@@ -61137,18 +61091,16 @@
         "en": {
           "path": "en/Food/taiwan-food-overview.md",
           "translatedFrom": "Food/台灣美食總覽.md",
-          "sourceCommitSha": "bb411ee0",
-          "sourceContentHash": "sha256:5170de2db0a4b0df",
-          "sourceBodyHash": "sha256:9da2f70ce1ba4f1f",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "53dd93dd8",
+          "sourceContentHash": "sha256:4e63535e7555a67e",
+          "sourceBodyHash": "sha256:607f80fde520e7fc",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 70,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-food-overview.md",
@@ -63167,7 +63119,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwan-banquet-culture.md",
+          "translatedFrom": "Food/台灣辦桌文化.md",
+          "sourceCommitSha": "26a67c779",
+          "sourceContentHash": "sha256:87996856be7f510f",
+          "sourceBodyHash": "sha256:dc734b24b423e098",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -73498,7 +73461,18 @@
           "diffSummary": "+4 -4"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/urban-character-and-regional-culture.md",
+          "translatedFrom": "Geography/城市特色與區域文化.md",
+          "sourceCommitSha": "2850f17bc",
+          "sourceContentHash": "sha256:d85bf01115410778",
+          "sourceBodyHash": "sha256:be641d09ea1153ea",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -80660,18 +80634,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
-          "translatedFrom": "Culture/台灣茶文化.md",
-          "sourceCommitSha": "4aabbe030",
-          "sourceContentHash": "sha256:85bd96c55701b918",
-          "sourceBodyHash": "sha256:164fab87d9636e11",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 32,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
@@ -81363,18 +81326,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Culture/taiwan-meme-culture.md",
-          "translatedFrom": "Culture/台灣迷因.md",
-          "sourceCommitSha": "f99a9959",
-          "sourceContentHash": "sha256:b8e2ae4ba4b5e3d9",
-          "sourceBodyHash": "sha256:971e379fee29d9f0",
-          "translatedAt": "2026-05-01T12:21:52+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (14→0)"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Culture/taiwan-meme-culture.md",
