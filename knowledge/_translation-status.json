@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T07:54:28+08:00",
-    "zhCommitHead": "d4a1ee326",
+    "lastUpdated": "2026-07-25T07:54:49+08:00",
+    "zhCommitHead": "44d7744c1",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 154,
+        "fresh": 155,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 702,
+        "missing": 701,
         "orphan": 0
       },
       "ar": {
@@ -46637,7 +46637,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/cho-yun-hsu-bridging-historian.md",
+          "translatedFrom": "People/許倬雲.md",
+          "sourceCommitSha": "ecb3f6520",
+          "sourceContentHash": "sha256:a7dc8d1152c0f436",
+          "sourceBodyHash": "sha256:5272c869278fa371",
+          "translatedAt": "2026-07-25T06:33:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 74,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -49215,8 +49226,8 @@
           "sourceContentHash": "sha256:890dbecd669ee83c",
           "sourceBodyHash": "sha256:480fe5c7e2becbe9",
           "translatedAt": "2026-07-25T06:34:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "44d7744c",
+          "translationLastModified": "2026-07-25T07:54:28+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -69490,8 +69501,8 @@
           "sourceContentHash": "sha256:39992ba044ff9cc4",
           "sourceBodyHash": "sha256:4a3a23738f45e5d9",
           "translatedAt": "2026-07-25T06:34:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "44d7744c",
+          "translationLastModified": "2026-07-25T07:54:28+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -69932,8 +69943,8 @@
           "sourceContentHash": "sha256:547ccdf1b16e61de",
           "sourceBodyHash": "sha256:a7a3d68abd8527fd",
           "translatedAt": "2026-07-25T06:34:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "44d7744c",
+          "translationLastModified": "2026-07-25T07:54:28+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -83842,8 +83853,8 @@
           "sourceContentHash": "sha256:5501454d0b0366dd",
           "sourceBodyHash": "sha256:7e3bd7915270078d",
           "translatedAt": "2026-07-25T06:34:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "44d7744c",
+          "translationLastModified": "2026-07-25T07:54:28+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
