@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-24
-last_session: '2026-07-24-143931-manual (排程心跳診斷，ACTOR_BUSY 讓路)'
+last_session: '2026-07-24-164626-manual (CI/CD 復原 + dispatcher v3 硬化 + OpenRouter 探勘)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -322,3 +322,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-24 | 132926-manual | 3090+4090 fleet 首次上線派發 vi/id/pt/hi；同批次修 6 缺陷（slug-map/image欄位/tags/型別/URL/num_ctx）；修好四語首頁半年顯示中文的 ui.ts spread bug | 大批次缺陷要執行途中當場修，不等跑完；發現「流程死了」跟流程死了一樣難 | [→](memory/2026-07-24-132926-manual.md) |
 | 2026-07-24 | 150709-manual | research-fleet 補完 digest 步驟（OpenRouter→Ollama cascade）；撞到模型下架+REFLEXES #68 vc=4 再驗 | 抽象介面要防兩層漂移；知道規則≠當下用上規則 | [→](memory/2026-07-24-150709-manual.md) |
 | 2026-07-24 | 143931-manual | 排程心跳診斷：check-parallel-actor 抓到 fleet 仍在跑（vi/id/pt/hi 6-7% coverage），無新警報、無到期決策，全程不碰工作樹讓路 | 心跳最有價值的輸出有時是確認不需要介入然後安靜退開 | [→](memory/2026-07-24-143931-manual.md) |
+| 2026-07-24 | 164626-manual | CI/CD 連 3 次部署失敗又救回（quarantine 誤斷 hreflang）；三 dispatcher 升 v3；建 discover-free-models.py，5/8 免費模型 PASS | 分層防護各防不同盲點；同一 bug 不同路徑要各補一次 | [→](memory/2026-07-24-164626-manual.md) |
