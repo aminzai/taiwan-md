@@ -332,6 +332,14 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-25 ar/ru 出生 — 人名幻覺的第二型：填空而非混淆
+
+- **pattern**: name-hallucination-gap-filling
+- **原則**：既有的人名 gate 與 guide 都針對**混淆兩個已知人物**（蔣介石/蔣經國、賴清德/蔡英文）設計，vi/id/pt/hi 出生戰役記的也是這型。ar 首批抓到**第二型**：zh 源寫「前衛生署長許子秋聽到女兒…」，譯文變成「前衛生署高官，他是蔣經國」——模型不認識許子秋（不在 guide 人名表、訓練資料罕見），於是拿它知道的最有名台灣政治人物填空。**不是分不清兩個人，是不知道一個人**。防法不同：混淆型靠人名表明確區辨，填空型靠「不認識就音譯並附原文漢字」的規則。已寫進 ar/ru guide §2；vi/id/pt/hi 四語 guide 同型風險待補。`person-fidelity-check.py` 能抓（譯文有總統名而 zh 源無），但它是事後網不是預防
+- **同批假陽性對照**：ru 同時報 3 處，逐一對照後全是「中正紀念堂 → Мемориального зала Чан Кайши」的地標名，checklist 早記過這是合法 false positive。真假各半，證明這道 gate 必須人審不能自動裁決
+- **觸發**：2026-07-25 ar 首批 22 篇（Lifestyle/台灣垃圾車音樂），錯誤譯文已移除待重翻
+- **verification_count**: 1
+
 ### 2026-07-25 vortex-babel — 同一檢查器四個假陽性家族：豁免規則沒有共用清單
 
 - **pattern**: exemption-list-divergence（gate-false-positive-family 的根因層）
