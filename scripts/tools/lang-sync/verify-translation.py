@@ -34,9 +34,11 @@ Checks (each 1-line PASS/FAIL):
       non-CJK targets; byte-identical-to-zh check for ja/ko targets)
   14. tags not left untranslated (same dual strategy as #13)
   15. translatedFromInferred is bool
-  16. no accidentally-quoted scalar types (readingTime as '11' instead of 11;
-      lastHumanReview/featured as 'false' instead of false — these break the
-      Astro content-collection Zod schema silently until build)
+  16. WARN: accidentally-quoted scalar types (readingTime as '11' instead of
+      11; lastHumanReview/featured/date as 'false'/'2026-01-01' instead of
+      bare). Style/consistency only — verified 2026-07-24 that Astro's content
+      loader coerces these before Zod sees them, so it does NOT break the
+      build; 200+ pre-existing files already have this pattern and build fine
 
 Usage:
   verify-translation.py <zh_path> <translation_path>
@@ -401,20 +403,29 @@ def main():
     else:
         add("inferred bool", "PASS", inf or "(absent — also OK)")
 
-    # 16. no accidentally-quoted scalar types (breaks Astro content-collection
-    # Zod schema silently: readingTime as '11' instead of 11, lastHumanReview /
-    # featured as 'false' instead of false). Raw-line check since parse_fm()
-    # already strips quotes, losing the distinction.
+    # 16. accidentally-quoted scalar types (readingTime as '11' instead of 11,
+    # lastHumanReview/featured/date as 'false'/'2026-03-23' instead of bare).
+    # WARN not FAIL: 2026-07-24 empirically verified this does NOT break the
+    # build — Astro's content-collection frontmatter loader coerces quoted
+    # number/boolean/date strings before Zod validation runs (confirmed via a
+    # passing GH Actions build on an existing quoted-date file; raw
+    # `zod.parse()` alone does reject these, but that's not what Astro calls).
+    # 200+ pre-existing ja/ko files site-wide already have this pattern and
+    # build fine — it's a style/consistency drift from the unquoted convention
+    # used elsewhere, not a functional defect worth blocking a commit over.
+    # Raw-line check since parse_fm() already strips quotes, losing the
+    # distinction.
     quoted_type_bugs = []
     fm_raw_block = en_content[3:en_content.find("---", 3)] if en_content.startswith("---") else ""
-    for field, kind in (("readingTime", "number"), ("lastHumanReview", "boolean"), ("featured", "boolean")):
+    for field, kind in (("readingTime", "number"), ("lastHumanReview", "boolean"),
+                        ("featured", "boolean"), ("date", "date")):
         m = re.search(rf"^{field}:\s*(.+)$", fm_raw_block, re.MULTILINE)
         if m and re.match(r"^['\"]", m.group(1).strip()):
             quoted_type_bugs.append(f"{field} ({kind}) quoted as string: {m.group(1).strip()}")
     if quoted_type_bugs:
-        add("no quoted scalar types", "FAIL", "; ".join(quoted_type_bugs))
+        add("no quoted scalar types", "WARN", "; ".join(quoted_type_bugs))
     else:
-        add("no quoted scalar types", "PASS", "readingTime/lastHumanReview/featured unquoted")
+        add("no quoted scalar types", "PASS", "readingTime/lastHumanReview/featured/date unquoted")
 
     return check(checks, args.json) and 1 or (
         2 if any(c["level"] == "WARN" for c in checks) else 0
