@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T07:47:14+08:00",
-    "zhCommitHead": "018aa85da",
+    "lastUpdated": "2026-07-25T07:49:48+08:00",
+    "zhCommitHead": "10f82a16e",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 862,
-        "fresh": 704,
-        "stale": 153,
+        "fresh": 705,
+        "stale": 152,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -83,18 +83,18 @@
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 160,
+        "fresh": 153,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 696,
+        "missing": 703,
         "orphan": 0
       },
       "ar": {
         "total_zh": 862,
-        "fresh": 42,
+        "fresh": 43,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 820,
+        "missing": 819,
         "orphan": 0
       },
       "ru": {
@@ -2622,18 +2622,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Music/chthonic.md",
-          "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "087677fae",
-          "sourceContentHash": "sha256:428539ef61aee065",
-          "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-07-25T06:33:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -6825,18 +6814,16 @@
         "ja": {
           "path": "ja/Economy/mediatek.md",
           "translatedFrom": "Economy/台灣企業：聯發科技.md",
-          "sourceCommitSha": "b900f18d",
-          "sourceContentHash": "sha256:51c6274e50fa4d01",
-          "sourceBodyHash": "sha256:ca7ccf342ddb45cb",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "sourceCommitSha": "21221045c",
+          "sourceContentHash": "sha256:b0c668da71eb8f7b",
+          "sourceBodyHash": "sha256:bda6180b6fe80c7a",
+          "translatedAt": "2026-07-25T07:41:01+08:00",
           "translationLastCommit": "e860007e",
           "translationLastModified": "2026-05-20T06:14:13+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/mediatek.md",
@@ -14649,18 +14636,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Technology/justfont-and-taiwan-typography.md",
-          "translatedFrom": "Technology/justfont與台灣字體發展.md",
-          "sourceCommitSha": "e773ef6b0",
-          "sourceContentHash": "sha256:6e31a2264dcded4f",
-          "sourceBodyHash": "sha256:dcea1d33e3c8824c",
-          "translatedAt": "2026-07-25T06:33:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 66,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -22453,8 +22429,8 @@
           "sourceContentHash": "sha256:241f6e09e82258d9",
           "sourceBodyHash": "sha256:8b4f70704fe27d7e",
           "translatedAt": "2026-07-25T06:33:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10f82a16",
+          "translationLastModified": "2026-07-25T07:47:32+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -29251,8 +29227,8 @@
           "sourceContentHash": "sha256:369f015f40df17bd",
           "sourceBodyHash": "sha256:87466d8232d3f86e",
           "translatedAt": "2026-07-25T06:34:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10f82a16",
+          "translationLastModified": "2026-07-25T07:47:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -50304,18 +50280,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/People/mona-rudao.md",
-          "translatedFrom": "People/莫那·魯道.md",
-          "sourceCommitSha": "d5ca846b6",
-          "sourceContentHash": "sha256:a925dd382d90f176",
-          "sourceBodyHash": "sha256:2e9a56655129cad4",
-          "translatedAt": "2026-07-25T06:33:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 75,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -52818,7 +52783,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/chu-yi-kuei-qing-rebel.md",
+          "translatedFrom": "People/朱一貴.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:59a6177c37cf5305",
+          "sourceBodyHash": "sha256:731cd7121531d2ac",
+          "translatedAt": "2026-07-25T06:34:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/chu-yi-kuei-qing-rebel.md",
@@ -58449,8 +58425,8 @@
           "sourceContentHash": "sha256:485587af49d56815",
           "sourceBodyHash": "sha256:433a66ecaa1d5d52",
           "translatedAt": "2026-07-25T06:34:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10f82a16",
+          "translationLastModified": "2026-07-25T07:47:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -61282,18 +61258,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/People/david-wong.md",
-          "translatedFrom": "People/黃大煒.md",
-          "sourceCommitSha": "5fbbcf417",
-          "sourceContentHash": "sha256:1cc8c36887977bc1",
-          "sourceBodyHash": "sha256:b9f5504c528ed428",
-          "translatedAt": "2026-07-25T06:33:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 37,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -69651,18 +69616,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Food/taiwan-banquet-culture.md",
-          "translatedFrom": "Food/台灣辦桌文化.md",
-          "sourceCommitSha": "26a67c779",
-          "sourceContentHash": "sha256:87996856be7f510f",
-          "sourceBodyHash": "sha256_dc734b24b423e098",
-          "translatedAt": "2026-07-25T06:33:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -75121,18 +75075,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/History/taiwan-railway-history.md",
-          "translatedFrom": "History/台灣鐵道史.md",
-          "sourceCommitSha": "0ab600a6e",
-          "sourceContentHash": "sha256:4de14c72bc8f2765",
-          "sourceBodyHash": "sha256:c391ed0c502effad",
-          "translatedAt": "2026-07-25T06:33:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -81529,18 +81472,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Geography/urban-character-and-regional-culture.md",
-          "translatedFrom": "Geography/城市特色與區域文化.md",
-          "sourceCommitSha": "2850f17bc",
-          "sourceContentHash": "sha256:d85bf01115410778",
-          "sourceBodyHash": "sha256:be641d09ea1153ea",
-          "translatedAt": "2026-07-25T06:33:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
