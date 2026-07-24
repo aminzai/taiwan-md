@@ -64,7 +64,7 @@ ZH_ONLY_MARKERS = [
 # parenthetical, where a short proper-noun citation like "(李安)" is normal)
 # is almost certainly a leak, not a false positive.
 CJK_RUN_RE = re.compile(r"[一-鿿]{4,}")
-NON_CJK_SCRIPT_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi"}
+NON_CJK_SCRIPT_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi", "ar", "ru"}
 
 # 括號 gloss 豁免 span：全形（）與半形 () 都認（2026-07-24 前只認半形——
 # zh-TW 源文與模型鏡射的標準標點是全形，整批好譯文被誤判 leak 反覆重翻，
@@ -125,6 +125,11 @@ def scan_file(path: Path, lang: str = None):
     #   markdown 連結（容忍一層巢狀中括號）— 引用的 zh 標題合法
     scan = re.sub(r"「[^「」]*」|『[^『』]*』", "", text)
     scan = TITLE_BRACKET_RE.sub("", scan)
+    # 括號內短內容（2026-07-25 第四家族）：巡演城市列表「上海（夏狂熱 + 你在煩惱
+    # 什麼）」裡的專輯名沒有書名號包，但保留原名同樣是正確編輯選擇。非 CJK 分支
+    # 早有這條豁免，ja/ko 分支漏了。上限 30 字同理——整句洩漏不會躲在括號裡，
+    # 蘇打綠那篇括號外的簡體混入（「就是抗争の载体」「这一次」）照樣被抓到。
+    scan = PAREN_GLOSS_RE.sub("", scan)
     scan = re.sub(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\([^)]*\)", "", scan)
     for marker in ZH_ONLY_MARKERS:
         c = scan.count(marker)
