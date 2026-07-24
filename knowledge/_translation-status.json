@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T02:51:10+08:00",
-    "zhCommitHead": "597a2eacc",
+    "lastUpdated": "2026-07-25T02:51:38+08:00",
+    "zhCommitHead": "c637a4c28",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 66,
+        "fresh": 67,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 780,
+        "missing": 779,
         "orphan": 0
       },
       "id": {
@@ -902,7 +902,18 @@
           "diffSummary": "+4 -4"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Music/golden-melodies-legacy-taiwan-pop-music.md",
+          "translatedFrom": "Music/台灣流行音樂.md",
+          "sourceCommitSha": "1e1040928",
+          "sourceContentHash": "sha256:8399301b29b6b0dc",
+          "sourceBodyHash": "sha256:eb706bc3431ec070",
+          "translatedAt": "2026-07-25T02:04:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 58,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -89398,8 +89409,8 @@
           "sourceContentHash": "sha256:01a29994f0cdcf17",
           "sourceBodyHash": "sha256:620db6741686fb51",
           "translatedAt": "2026-07-25T01:31:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c637a4c2",
+          "translationLastModified": "2026-07-25T02:51:10+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
