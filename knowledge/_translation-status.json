@@ -1,16 +1,16 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T19:17:08+08:00",
-    "zhCommitHead": "b44c49b7b",
+    "lastUpdated": "2026-07-24T19:30:27+08:00",
+    "zhCommitHead": "5fc8b0e76",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
       "en": {
         "total_zh": 862,
-        "fresh": 723,
-        "stale": 88,
+        "fresh": 719,
+        "stale": 83,
         "metadata_stale": 0,
-        "missing": 51,
+        "missing": 60,
         "orphan": 0
       },
       "ja": {
@@ -47,19 +47,19 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 47,
+        "fresh": 49,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 805,
+        "missing": 803,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 60,
+        "fresh": 56,
         "stale": 9,
         "metadata_stale": 0,
-        "missing": 793,
-        "orphan": 0
+        "missing": 797,
+        "orphan": 1
       },
       "pt": {
         "total_zh": 862,
@@ -85,7 +85,7 @@
       "es": [],
       "fr": [],
       "vi": [],
-      "id": [],
+      "id": ["id/Music/taiwan-hip-hop-and-rap.md"],
       "pt": [],
       "hi": []
     }
@@ -3004,18 +3004,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Music/hsien-ching-chen.md",
-          "translatedFrom": "Music/陳嫺靜.md",
-          "sourceCommitSha": "b38a5daba",
-          "sourceContentHash": "sha256:0530e001b5d0938d",
-          "sourceBodyHash": "sha256:3f93c99802db78df",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "fbca064a",
-          "translationLastModified": "2026-06-29T01:08:29+08:00",
-          "inferred": false,
-          "footnoteDefs": 43,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Music/hsien-ching-chen.md",
@@ -3091,8 +3080,8 @@
           "sourceContentHash": "sha256:0530e001b5d0938d",
           "sourceBodyHash": "sha256:3f93c99802db78df",
           "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5fc8b0e7",
+          "translationLastModified": "2026-07-24T19:25:37+08:00",
           "inferred": false,
           "footnoteDefs": 43,
           "status": "fresh",
@@ -4294,16 +4283,16 @@
         "en": {
           "path": "en/Economy/taiwan-uniform-invoice.md",
           "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:442f27209d04a396",
-          "sourceBodyHash": "sha256:1dc11e21cef45412",
-          "translatedAt": "2026-06-12T16:39:07Z",
+          "sourceCommitSha": "4a923c640",
+          "sourceContentHash": "sha256:3de7677c1cc54d07",
+          "sourceBodyHash": "sha256:1962c2279b937909",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
-          "footnoteDefs": 14,
-          "status": "stale",
-          "reason": "footnote-loss (28→14)"
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-uniform-invoice.md",
@@ -6419,7 +6408,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/mediatek.md",
+          "translatedFrom": "Economy/台灣企業：聯發科技.md",
+          "sourceCommitSha": "21221045c",
+          "sourceContentHash": "sha256:b0c668da71eb8f7b",
+          "sourceBodyHash": "sha256:bda6180b6fe80c7a",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "5fc8b0e7",
+          "translationLastModified": "2026-07-24T19:25:37+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -7263,20 +7263,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Economy/tech-park-peripheral-business-ecosystem.md",
-          "translatedFrom": "Economy/台灣科技園區外圍商圈生態.md",
-          "sourceCommitSha": "cfaa22a5",
-          "sourceContentHash": "sha256:516bf0a6d1966cf7",
-          "sourceBodyHash": "sha256:96ee687ae59d6522",
-          "translatedAt": "2026-05-19T05:08:06+08:00",
-          "translationLastCommit": "b4fa7ea4",
-          "translationLastModified": "2026-07-06T03:03:33+08:00",
-          "inferred": false,
-          "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -8031,16 +8018,16 @@
         "en": {
           "path": "en/Economy/taiwan-enterprise-uni-president.md",
           "translatedFrom": "Economy/台灣企業：統一企業.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:3fb7c059831bdebb",
-          "sourceBodyHash": "sha256:481f2cb6cfdcbd21",
-          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "sourceCommitSha": "05ed20149",
+          "sourceContentHash": "sha256:a081d71170a5a094",
+          "sourceBodyHash": "sha256:b22e5c952fc18259",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (64→0)"
+          "footnoteDefs": 64,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-enterprise-uni-president.md",
@@ -8215,16 +8202,16 @@
         "en": {
           "path": "en/Economy/agricultural-technology-and-refined-agriculture.md",
           "translatedFrom": "Economy/農業科技與精緻農業.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:cad6938758da3c7e",
-          "sourceBodyHash": "sha256:7f2dcf08f6952b25",
-          "translatedAt": "2026-05-17T06:10:00Z",
-          "translationLastCommit": "cf90406b",
-          "translationLastModified": "2026-05-17T06:12:59+08:00",
+          "sourceCommitSha": "369298aba",
+          "sourceContentHash": "sha256:19b72b95becb40d7",
+          "sourceBodyHash": "sha256:966a2693a6cccc59",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
+          "translationLastCommit": "794bb18c",
+          "translationLastModified": "2026-07-24T19:19:39+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -10312,18 +10299,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Technology/taiwan-bim-construction-tech.md",
-          "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "30072b76a",
-          "sourceContentHash": "sha256:7923803a611ee1da",
-          "sourceBodyHash": "sha256:ac277cd39572ac41",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 53,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Technology/taiwan-bim-construction-tech.md",
@@ -16307,18 +16283,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Art/mountain-makers-tsmc-documentary.md",
-          "translatedFrom": "Art/造山者世紀的賭注.md",
-          "sourceCommitSha": "36b472955",
-          "sourceContentHash": "sha256:04951f7f999b2b98",
-          "sourceBodyHash": "sha256:3df28689a2b61ed4",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 49,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Art/mountain-makers-tsmc-documentary.md",
@@ -25111,18 +25076,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Society/taiwan-generations.md",
-          "translatedFrom": "Society/台灣的年級生世代.md",
-          "sourceCommitSha": "805200859",
-          "sourceContentHash": "sha256:1b3e5e3f22f40ead",
-          "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -34189,7 +34143,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Nature/taiwan-island-natural-history.md",
+          "translatedFrom": "Nature/台灣島嶼博物學.md",
+          "sourceCommitSha": "540031d72",
+          "sourceContentHash": "sha256:371da55946bd0c24",
+          "sourceBodyHash": "sha256:7e95d6d709cb27df",
+          "translatedAt": "2026-07-24T19:17:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -42675,18 +42640,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/People/zun.md",
-          "translatedFrom": "People/尊.md",
-          "sourceCommitSha": "16c428cd9",
-          "sourceContentHash": "sha256:94b77718dfa4da62",
-          "sourceBodyHash": "sha256:5579d8d02a3f58ac",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "e82fd52f",
-          "translationLastModified": "2026-07-19T00:12:50+08:00",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/People/zun.md",
@@ -48521,18 +48475,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/People/andre-chiang-taiwanese-culinary-innovator.md",
-          "translatedFrom": "People/江振誠.md",
-          "sourceCommitSha": "afc8fbf91",
-          "sourceContentHash": "sha256:335773d0a09d68a9",
-          "sourceBodyHash": "sha256:257d28e459bd329d",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "26a727c9",
-          "translationLastModified": "2026-07-24T15:47:25+08:00",
-          "inferred": false,
-          "footnoteDefs": 30,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/People/andre-chiang-taiwanese-culinary-innovator.md",
@@ -67689,18 +67632,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/History/taiwan-railway-history.md",
-          "translatedFrom": "History/台灣鐵道史.md",
-          "sourceCommitSha": "0ab600a6e",
-          "sourceContentHash": "sha256:4de14c72bc8f2765",
-          "sourceBodyHash": "sha256:c391ed0c502effad",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/History/taiwan-railway-history.md",
@@ -67770,18 +67702,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/History/taiwan-railway-history.md",
-          "translatedFrom": "History/台灣鐵道史.md",
-          "sourceCommitSha": "0ab600a6e",
-          "sourceContentHash": "sha256:4de14c72bc8f2765",
-          "sourceBodyHash": "sha256:c391ed0c502effad",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 13,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -69298,18 +69219,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Geography/hualien-county.md",
-          "translatedFrom": "Geography/花蓮縣.md",
-          "sourceCommitSha": "b74252d93",
-          "sourceContentHash": "sha256:405286ffbb97b596",
-          "sourceBodyHash": "sha256:367ba2e7b9a712c5",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Geography/hualien-county.md",
@@ -74409,7 +74319,18 @@
           "diffSummary": "+21 -21"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/kinmen-county.md",
+          "translatedFrom": "Geography/金門縣.md",
+          "sourceCommitSha": "d3d4d7804",
+          "sourceContentHash": "sha256:1ce94059006f7d31",
+          "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -77580,18 +77501,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Culture/ethnic-groups.md",
-          "translatedFrom": "Culture/族群（閩南客家原住民外省新住民）.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:5bfd9c2eabdc2883",
-          "sourceBodyHash": "sha256:acd1d73d033867e1",
-          "translatedAt": "2026-05-16T22:19:17Z",
-          "translationLastCommit": "d5ed9ffc",
-          "translationLastModified": "2026-05-20T12:41:12+08:00",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Culture/ethnic-groups.md",
@@ -78132,18 +78042,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Culture/culinary-class-wars-in-taiwan.md",
-          "translatedFrom": "Culture/黑白大廚在台灣.md",
-          "sourceCommitSha": "44bdf7162",
-          "sourceContentHash": "sha256:158a36dc208ac1d9",
-          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "995f1458",
-          "translationLastModified": "2026-06-12T05:24:32+08:00",
-          "inferred": false,
-          "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Culture/culinary-class-wars-in-taiwan.md",
@@ -78211,18 +78110,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Culture/culinary-class-wars-in-taiwan.md",
-          "translatedFrom": "Culture/黑白大廚在台灣.md",
-          "sourceCommitSha": "44bdf7162",
-          "sourceContentHash": "sha256:158a36dc208ac1d9",
-          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -80924,18 +80812,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Culture/archipelago-thinking.md",
-          "translatedFrom": "Culture/群島思維.md",
-          "sourceCommitSha": "0c0b16686",
-          "sourceContentHash": "sha256:69f8f034dcafc5a6",
-          "sourceBodyHash": "sha256:f5fbc7ca5aa903a2",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 26,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Culture/archipelago-thinking.md",
