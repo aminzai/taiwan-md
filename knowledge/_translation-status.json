@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T03:39:05+08:00",
-    "zhCommitHead": "f903019ab",
+    "lastUpdated": "2026-07-25T03:42:36+08:00",
+    "zhCommitHead": "a5f76decd",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -59,18 +59,18 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 68,
-        "stale": 16,
+        "fresh": 69,
+        "stale": 15,
         "metadata_stale": 0,
         "missing": 778,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 101,
+        "fresh": 102,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 753,
+        "missing": 752,
         "orphan": 0
       },
       "pt": {
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 110,
+        "fresh": 111,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 744,
+        "missing": 743,
         "orphan": 0
       },
       "ar": {
@@ -15360,20 +15360,7 @@
           "diffSummary": "+3 -3"
         },
         "vi": {
-          "path": "vi/Technology/mini-taiwan-pulse-civic-tech.md",
-          "translatedFrom": "Technology/mini-taiwan-pulse.md",
-          "sourceCommitSha": "905aa4a82",
-          "sourceContentHash": "sha256:93ceaae8bc44512f",
-          "sourceBodyHash": "sha256:941fb85e8f2fbb98",
-          "translatedAt": "2026-07-18T18:59:51+08:00",
-          "translationLastCommit": "f6054c73",
-          "translationLastModified": "2026-07-24T20:41:47+08:00",
-          "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "missing"
         },
         "id": {
           "path": "id/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -68357,7 +68344,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/sanxia-tea.md",
+          "translatedFrom": "Food/三峽茶.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:39992ba044ff9cc4",
+          "sourceBodyHash": "sha256:4a3a23738f45e5d9",
+          "translatedAt": "2026-07-25T02:52:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -80869,7 +80867,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/terrain-and-geology.md",
+          "translatedFrom": "Geography/地形與地質.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1c19912f3b7cdf1b",
+          "sourceBodyHash": "sha256:ff4a4e3156ba7d86",
+          "translatedAt": "2026-07-25T02:52:45+08:00",
+          "translationLastCommit": "93d903ca",
+          "translationLastModified": "2026-07-25T03:41:23+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -83305,8 +83314,8 @@
           "sourceContentHash": "sha256:3bac2c2faa70bd6e",
           "sourceBodyHash": "sha256:325c4509ad66d26d",
           "translatedAt": "2026-07-25T02:52:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "93d903ca",
+          "translationLastModified": "2026-07-25T03:41:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -88486,7 +88495,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/archipelago-thinking.md",
+          "translatedFrom": "Culture/群島思維.md",
+          "sourceCommitSha": "0c0b16686",
+          "sourceContentHash": "sha256:69f8f034dcafc5a6",
+          "sourceBodyHash": "sha256:f5fbc7ca5aa903a2",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
