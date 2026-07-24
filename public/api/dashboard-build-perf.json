@@ -1,16 +1,76 @@
 {
-  "generated_at": "2026-07-23T13:40:03.060Z",
+  "generated_at": "2026-07-24T08:18:43.492Z",
   "status": "ok",
   "summary": {
-    "latest_build_seconds": 161,
-    "avg_build_seconds_7d": 181,
-    "avg_build_seconds_30d": 181,
-    "current_page_count": 8294,
-    "coverage_days": 4.8,
-    "ms_per_page_latest": 19,
+    "latest_build_seconds": 190,
+    "avg_build_seconds_7d": 185,
+    "avg_build_seconds_30d": 185,
+    "current_page_count": 8333,
+    "coverage_days": 2.3,
+    "ms_per_page_latest": 23,
     "flag_slow": false
   },
   "trend": [
+    {
+      "run_id": 30073120373,
+      "started_at": "2026-07-24T06:43:25Z",
+      "build_seconds": 190,
+      "url": "https://github.com/frank890417/taiwan-md/actions/runs/30073120373/job/89417972350"
+    },
+    {
+      "run_id": 30070985323,
+      "started_at": "2026-07-24T06:00:32Z",
+      "build_seconds": 191,
+      "url": "https://github.com/frank890417/taiwan-md/actions/runs/30070985323/job/89411645735"
+    },
+    {
+      "run_id": 30069981333,
+      "started_at": "2026-07-24T05:38:36Z",
+      "build_seconds": 192,
+      "url": "https://github.com/frank890417/taiwan-md/actions/runs/30069981333/job/89408640857"
+    },
+    {
+      "run_id": 30068101732,
+      "started_at": "2026-07-24T04:56:51Z",
+      "build_seconds": 189,
+      "url": "https://github.com/frank890417/taiwan-md/actions/runs/30068101732/job/89402932808"
+    },
+    {
+      "run_id": 30066592551,
+      "started_at": "2026-07-24T04:21:45Z",
+      "build_seconds": 196,
+      "url": "https://github.com/frank890417/taiwan-md/actions/runs/30066592551/job/89398668659"
+    },
+    {
+      "run_id": 30061108451,
+      "started_at": "2026-07-24T02:14:29Z",
+      "build_seconds": 187,
+      "url": "https://github.com/frank890417/taiwan-md/actions/runs/30061108451/job/89382765463"
+    },
+    {
+      "run_id": 30016659110,
+      "started_at": "2026-07-23T14:37:09Z",
+      "build_seconds": 189,
+      "url": "https://github.com/frank890417/taiwan-md/actions/runs/30016659110/job/89238305740"
+    },
+    {
+      "run_id": 30015632277,
+      "started_at": "2026-07-23T14:24:06Z",
+      "build_seconds": 190,
+      "url": "https://github.com/frank890417/taiwan-md/actions/runs/30015632277/job/89234760460"
+    },
+    {
+      "run_id": 30014410727,
+      "started_at": "2026-07-23T14:08:43Z",
+      "build_seconds": 190,
+      "url": "https://github.com/frank890417/taiwan-md/actions/runs/30014410727/job/89230580625"
+    },
+    {
+      "run_id": 30012525270,
+      "started_at": "2026-07-23T13:44:15Z",
+      "build_seconds": 161,
+      "url": "https://github.com/frank890417/taiwan-md/actions/runs/30012525270/job/89224026430"
+    },
     {
       "run_id": 30011423158,
       "started_at": "2026-07-23T13:29:47Z",
@@ -28,96 +88,6 @@
       "started_at": "2026-07-22T01:35:11Z",
       "build_seconds": 188,
       "url": "https://github.com/frank890417/taiwan-md/actions/runs/29883494181/job/88809148235"
-    },
-    {
-      "run_id": 29685635901,
-      "started_at": "2026-07-19T11:42:57Z",
-      "build_seconds": 193,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29685635901/job/88189294435"
-    },
-    {
-      "run_id": 29670702737,
-      "started_at": "2026-07-19T02:46:25Z",
-      "build_seconds": 194,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29670702737/job/88149026440"
-    },
-    {
-      "run_id": 29669151342,
-      "started_at": "2026-07-19T01:47:48Z",
-      "build_seconds": 197,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29669151342/job/88144940869"
-    },
-    {
-      "run_id": 29668656232,
-      "started_at": "2026-07-19T01:29:23Z",
-      "build_seconds": 189,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29668656232/job/88143588094"
-    },
-    {
-      "run_id": 29668436979,
-      "started_at": "2026-07-19T01:20:49Z",
-      "build_seconds": 190,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29668436979/job/88143001032"
-    },
-    {
-      "run_id": 29668231856,
-      "started_at": "2026-07-19T01:13:10Z",
-      "build_seconds": 187,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29668231856/job/88142455946"
-    },
-    {
-      "run_id": 29667790223,
-      "started_at": "2026-07-19T00:56:57Z",
-      "build_seconds": 189,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29667790223/job/88141261623"
-    },
-    {
-      "run_id": 29667398121,
-      "started_at": "2026-07-19T00:42:56Z",
-      "build_seconds": 186,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29667398121/job/88140163953"
-    },
-    {
-      "run_id": 29666356006,
-      "started_at": "2026-07-19T00:05:10Z",
-      "build_seconds": 179,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29666356006/job/88137312293"
-    },
-    {
-      "run_id": 29664796614,
-      "started_at": "2026-07-18T23:11:50Z",
-      "build_seconds": 181,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29664796614/job/88133301880"
-    },
-    {
-      "run_id": 29663874875,
-      "started_at": "2026-07-18T22:40:38Z",
-      "build_seconds": 188,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29663874875/job/88130950408"
-    },
-    {
-      "run_id": 29663130517,
-      "started_at": "2026-07-18T22:16:22Z",
-      "build_seconds": 189,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29663130517/job/88129065708"
-    },
-    {
-      "run_id": 29661549930,
-      "started_at": "2026-07-18T21:24:57Z",
-      "build_seconds": 148,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29661549930/job/88124984715"
-    },
-    {
-      "run_id": 29659632499,
-      "started_at": "2026-07-18T20:24:31Z",
-      "build_seconds": 128,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29659632499/job/88119941608"
-    },
-    {
-      "run_id": 29657532444,
-      "started_at": "2026-07-18T19:18:14Z",
-      "build_seconds": 185,
-      "url": "https://github.com/frank890417/taiwan-md/actions/runs/29657532444/job/88114448787"
     }
   ]
 }

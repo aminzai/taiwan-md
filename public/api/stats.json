@@ -1,28 +1,32 @@
 {
-  "totalArticles": 5333,
+  "totalArticles": 5366,
   "totalCategories": 24,
-  "estimatedContributors": 356,
-  "totalTags": 5433,
+  "estimatedContributors": 358,
+  "totalTags": 5491,
   "categories": [
     {
       "name": "es",
-      "count": 853
+      "count": 858
     },
     {
       "name": "ko",
-      "count": 853
+      "count": 859
     },
     {
       "name": "fr",
-      "count": 853
-    },
-    {
-      "name": "en",
-      "count": 857
+      "count": 862
     },
     {
       "name": "ja",
-      "count": 853
+      "count": 856
+    },
+    {
+      "name": "en",
+      "count": 844
+    },
+    {
+      "name": "vi",
+      "count": 53
     },
     {
       "name": "hi",
@@ -30,7 +34,7 @@
     },
     {
       "name": "History",
-      "count": 47
+      "count": 49
     },
     {
       "name": "Politics",
@@ -38,7 +42,7 @@
     },
     {
       "name": "Society",
-      "count": 89
+      "count": 90
     },
     {
       "name": "Food",
@@ -50,7 +54,7 @@
     },
     {
       "name": "Culture",
-      "count": 68
+      "count": 70
     },
     {
       "name": "People",
@@ -66,11 +70,11 @@
     },
     {
       "name": "Economy",
-      "count": 56
+      "count": 59
     },
     {
       "name": "Technology",
-      "count": 58
+      "count": 59
     },
     {
       "name": "Nature",
@@ -86,15 +90,11 @@
     },
     {
       "name": "pt",
-      "count": 54
+      "count": 53
     },
     {
       "name": "id",
-      "count": 54
-    },
-    {
-      "name": "vi",
-      "count": 54
+      "count": 70
     },
     {
       "name": "resources",
@@ -108,7 +108,7 @@
     },
     {
       "name": "人物",
-      "count": 66
+      "count": 64
     },
     {
       "name": "企業",
@@ -133,6 +133,14 @@
     {
       "name": "기업",
       "count": 25
+    },
+    {
+      "name": "原住民",
+      "count": 24
+    },
+    {
+      "name": "歷史",
+      "count": 24
     },
     {
       "name": "AI",
@@ -173,19 +181,11 @@
     {
       "name": "台灣",
       "count": 23
-    },
-    {
-      "name": "인물",
-      "count": 22
-    },
-    {
-      "name": "原住民",
-      "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5333,
+    "zh-TW": 5366,
     "en": 0
   },
-  "lastUpdated": "2026-07-23T13:39:49.655Z"
+  "lastUpdated": "2026-07-24T08:18:33.875Z"
 }

@@ -1,7 +1,452 @@
 {
-  "generatedAt": "2026-07-23T13:39:51.407Z",
+  "generatedAt": "2026-07-24T08:18:35.591Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "d40bcdc5c6a5948c2fea3c9a5021d081b9e23961",
+      "date": "2026-07-24T16:14:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: unblock deploy — restore founder.md, remove vi article with broken hreflang alternate",
+      "articles": []
+    },
+    {
+      "hash": "105d6a9fac1e121876274b160fe787b12366229b",
+      "date": "2026-07-24T15:51:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: fix es P1 batch image-field drops, quarantine 4 needing full retranslation",
+      "articles": []
+    },
+    {
+      "hash": "26a727c9dd2d42740a704ff4321d9a46803ede6c",
+      "date": "2026-07-24T15:47:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: recover ~1hr stuck batch (en quarantine cleanup + id/vi P0 additions)",
+      "articles": []
+    },
+    {
+      "hash": "da4f94508715c3d562d47ae80a4d7c51c055d64c",
+      "date": "2026-07-24T15:10:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 規則早就寫在那裡，我還是先犯了一次才想起去查",
+      "articles": []
+    },
+    {
+      "hash": "4bf53c3008593c1b1e749c19180420da5fcdda0a",
+      "date": "2026-07-24T15:09:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: research-fleet digest 步驟補完收官",
+      "articles": []
+    },
+    {
+      "hash": "c08f2578a5e92ba6f6f28c7b7e1523a4043f9857",
+      "date": "2026-07-24T14:48:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] docs: REFLEXES #68 vc=4 — 外送專法+babel-fleet 雙向互撞再驗",
+      "articles": []
+    },
+    {
+      "hash": "de02c26bd25cd6fba180d21bfb318a2da23e77ee",
+      "date": "2026-07-24T14:46:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: en P1 stale refresh (ollama-only, codex unavailable)",
+      "articles": []
+    },
+    {
+      "hash": "52a8765e2e21dbc30c0ed6a2f83653dd07b4ff95",
+      "date": "2026-07-24T14:42:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 排程心跳診斷 — 遇 fleet ACTOR_BUSY 全程讓路",
+      "articles": []
+    },
+    {
+      "hash": "4eff7fef99e89d92919e34b31c1f4bb5d782a16e",
+      "date": "2026-07-24T14:21:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: classic P1 stale refresh (fr)",
+      "articles": []
+    },
+    {
+      "hash": "ff0857d14fe24fd36349ee7a4e04bf1b16f7aa0a",
+      "date": "2026-07-24T13:59:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: LESSONS-INBOX append round-2 instances (body-leak / codex outage / git race)",
+      "articles": []
+    },
+    {
+      "hash": "3f5d3c611c1af6ecedb08490fe35776fecbc8ceb",
+      "date": "2026-07-24T13:58:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: sync _translations.json after quarantining 9 leak-affected ja/ko files",
+      "articles": []
+    },
+    {
+      "hash": "a3ffc25572da7d8f3ea3f2ddf5f2685111f48a14",
+      "date": "2026-07-24T13:55:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: cjk-leak-check.py extend to non-CJK-script targets (en/es/fr/vi/id/pt/hi)",
+      "articles": []
+    },
+    {
+      "hash": "6ff21f6695152c11682278c93812430144d87ec3",
+      "date": "2026-07-24T13:51:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: quarantine ja/ko P1 files with body-level zh leakage + new leak detector + fix remaining image drops",
+      "articles": []
+    },
+    {
+      "hash": "adec8a8367693c7b490604839218f768d0b54fde",
+      "date": "2026-07-24T13:43:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "3579dfd1e19aee5d823d046baa7fc19e82e6738e",
+      "date": "2026-07-24T13:38:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 外送專法研究中途轉向 research-fleet 反芻",
+      "articles": []
+    },
+    {
+      "hash": "aa153cc495bb3b3c322ae37b25340f10cdb3b1e3",
+      "date": "2026-07-24T13:36:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: diary — 兩種死法長得完全不像，但都是同一件事",
+      "articles": []
+    },
+    {
+      "hash": "3a02fe09949934a7825d4c6f8d777175de5180d6",
+      "date": "2026-07-24T13:34:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: fleet dispatch session — 3090+4090 上線 + 同批次修 6 缺陷 + ui.ts spread bug",
+      "articles": []
+    },
+    {
+      "hash": "a3d70c712ba2c009f4775b248d250de274d7f8a2",
+      "date": "2026-07-24T12:56:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] tool: research-fleet 抽象介面 — search/fetch 供應商可抽換 + 外送專法研究補強",
+      "articles": []
+    },
+    {
+      "hash": "7951612ede122a0307344721d43231ba21b5563e",
+      "date": "2026-07-24T12:42:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: babel fleet dispatch interim report — defects + speedup + recommendations",
+      "articles": []
+    },
+    {
+      "hash": "4bbef3cb81d4f62631ebc60b7778901bcf8a7a81",
+      "date": "2026-07-24T12:39:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: subcategory-i18n.json full 229-entry × 9-lang coverage",
+      "articles": []
+    },
+    {
+      "hash": "86d81d04064fd952269393fc7794c4a5cc6f4c06",
+      "date": "2026-07-24T12:38:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: classic P1 stale refresh (ko)",
+      "articles": []
+    },
+    {
+      "hash": "11ba07af212fe352d377957b7dd25a55fdd1e758",
+      "date": "2026-07-24T12:35:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: Ollama backend silently truncates long prompts without explicit num_ctx",
+      "articles": []
+    },
+    {
+      "hash": "4234c1271f51c52de00592254f01655f0131747b",
+      "date": "2026-07-24T12:30:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "18e4faf61d9b08d1bf8c4198d45068e7610f2b0e",
+      "date": "2026-07-24T12:28:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "34bfda2c324c26d136c9b8dfdf3a20efce298e35",
+      "date": "2026-07-24T12:28:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "76b674b9ae6cda99450c8e67a4c3505291c07ad7",
+      "date": "2026-07-24T12:26:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "e2479d2ea5f78dcbb685d73829aaade0cbc41752",
+      "date": "2026-07-24T12:25:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "b8930b3c1cb2934221b958957ec6cc6f7b77ed56",
+      "date": "2026-07-24T12:21:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: ja P1 batch frontmatter fixes + generalize verify-translation.py",
+      "articles": []
+    },
+    {
+      "hash": "d8a42970ad61044bbc9596cc0acd0297315aa0aa",
+      "date": "2026-07-24T12:19:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: vi/id/pt/hi UI bundle spreads pointed to zh-TW, not own lang",
+      "articles": []
+    },
+    {
+      "hash": "66092cbcce9642880d36927ddbf03e4e246d7760",
+      "date": "2026-07-24T11:52:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: classic P1 stale refresh (ja)",
+      "articles": []
+    },
+    {
+      "hash": "8fd826843616e7bfec2429b1135acd38132c5ed7",
+      "date": "2026-07-24T11:11:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: classic P1 stale refresh (en)",
+      "articles": []
+    },
+    {
+      "hash": "9dfc8adc39a163bd82c72ef2f425c99dc782897b",
+      "date": "2026-07-24T10:30:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: classic P1 首兩篇 en 刷新（十大建設、許倬雲）",
+      "articles": []
+    },
+    {
+      "hash": "9e89e11056b0d3a71f06b871390302f9f7ce5803",
+      "date": "2026-07-24T10:14:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 編輯室 404 對齊 + 外送專法 P0 收官",
+      "articles": []
+    },
+    {
+      "hash": "402b256c9c470cadc1b998aa8cd9e33d33c22ccd",
+      "date": "2026-07-24T10:10:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "fix(newsroom)+inbox: 編輯室現場 research-only 404；外送專法 P0",
+      "articles": []
+    },
+    {
+      "hash": "1fe4864efa2edf5cd87e6c5d8010db197697e873",
+      "date": "2026-07-24T10:08:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: 本機 ollama 巴別塔 P0 收官",
+      "articles": []
+    },
+    {
+      "hash": "5fb5a444111d0ee703c8f3d756b58aa68c073af1",
+      "date": "2026-07-24T10:06:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 本機 ollama 清完 classic 五語 P0 missing",
+      "articles": []
+    },
+    {
+      "hash": "c7d466e81dce018ee401827de246ed1aa54528e3",
+      "date": "2026-07-24T10:06:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: ollama 輸出補 frontmatter --- fence",
+      "articles": []
+    },
+    {
+      "hash": "9c571e2037656aaa9af08c92a74f7a58544c81a5",
+      "date": "2026-07-23T22:36:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] ui: 加寬左右欄、側欄去關鍵詞、文末標註關鍵詞",
+      "articles": []
+    },
+    {
+      "hash": "08c62ae413a939d7b3e533129b544a172137cc43",
+      "date": "2026-07-23T22:23:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: UI container 加寬 + 側欄排序收官",
+      "articles": []
+    },
+    {
+      "hash": "400a1a0b88fbd15d25add6f46dd50b584e84c60f",
+      "date": "2026-07-23T22:22:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] ui: 加寬 container token + 側欄分享/貢獻者優先",
+      "articles": []
+    },
+    {
+      "hash": "a725057de6e80cd698fcd3a1b4cfc18831191b4f",
+      "date": "2026-07-23T22:08:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "docs(pipeline): §1b Git merge 優先 — merge-first-then-heal",
+      "articles": []
+    },
+    {
+      "hash": "1b3c22ac75eb51e15a4b94c3d3c3a4d2d4b459b6",
+      "date": "2026-07-23T22:05:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] finale: close idlccp clownfish arc (merge-first lesson)",
+      "articles": [
+        {
+          "url": "/culture/中元節",
+          "name": "中元節"
+        },
+        {
+          "url": "/culture/台灣迷因",
+          "name": "台灣迷因"
+        },
+        {
+          "url": "/culture/農曆七月",
+          "name": "農曆七月"
+        },
+        {
+          "url": "/economy/NET",
+          "name": "NET"
+        }
+      ]
+    },
+    {
+      "hash": "96957465bf155614bcffc7519092be4dfc9c283e",
+      "date": "2026-07-23T22:02:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge pull request #1225 from idlccp1984:patch-128537",
+      "articles": []
+    },
+    {
+      "hash": "ab0242ddbbd313135be9dc59e1d33bb8658c398f",
+      "date": "2026-07-23T22:02:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge pull request #1226 from idlccp1984:patch-942036",
+      "articles": []
+    },
+    {
+      "hash": "48f85366ad84fdafa7a1f5f75884e1bd19d87165",
+      "date": "2026-07-23T22:02:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge pull request #1227 from idlccp1984:patch-788004",
+      "articles": []
+    },
+    {
+      "hash": "7cf348af12ef4952d2cdf0ed6c2e4e1f7168ba65",
+      "date": "2026-07-23T22:02:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge pull request #1229 from idlccp1984:patch-243943",
+      "articles": []
+    },
+    {
+      "hash": "1d48da42fc8d4a97878c58f2cd3fad54ce35cbc1",
+      "date": "2026-07-23T22:02:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge pull request #1230 from idlccp1984:patch-434599",
+      "articles": []
+    },
+    {
+      "hash": "84b11244a886e83e6735cf56620b30581c8a4ffd",
+      "date": "2026-07-23T22:02:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge pull request #1231 from idlccp1984:patch-575146",
+      "articles": []
+    },
+    {
+      "hash": "6cf5ba05d33902145eeaebe110e93a1e23c1d2fa",
+      "date": "2026-07-23T22:02:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge pull request #1232 from idlccp1984:patch-406678",
+      "articles": []
+    },
+    {
+      "hash": "95a23deb3b4ecc62dd084b21b26103a64a3cc866",
+      "date": "2026-07-23T22:02:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge pull request #1233 from idlccp1984:patch-273895",
+      "articles": []
+    },
+    {
+      "hash": "1e885d51d023c59df4a9c012c98b6b7606b279c2",
+      "date": "2026-07-23T22:02:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge pull request #1236 from idlccp1984:patch-541295",
+      "articles": []
+    },
+    {
+      "hash": "528d6a84b896f2beb3e6ff96fe3ba3630f7a8d0b",
+      "date": "2026-07-23T22:00:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory+diary: idlccp clownfish instrument finale",
+      "articles": []
+    },
+    {
+      "hash": "d95fa9648d0e11d3d4ab6f6a773c628e0ec0e07a",
+      "date": "2026-07-23T21:57:32+08:00",
+      "author": "Dar",
+      "message": "content: add 台灣教師與 AI 教學 (#1228)",
+      "articles": [
+        {
+          "url": "/technology/台灣教師與AI教學",
+          "name": "台灣教師與AI教學"
+        }
+      ]
+    },
+    {
+      "hash": "37a76f64c5c7cb2ac25ed7844e91c1f557cfbb4e",
+      "date": "2026-07-23T21:57:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "docs(report): append execution log for idlccp1984 instrument evolution",
+      "articles": []
+    },
+    {
+      "hash": "96bf8d1932ac596f0f8923dc252d6506bf25b8c6",
+      "date": "2026-07-23T21:55:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "docs+heal: integrate idlccp1984 9 PRs (clownfish auto-heal)",
+      "articles": [
+        {
+          "url": "/culture/中元節",
+          "name": "中元節"
+        },
+        {
+          "url": "/culture/台灣迷因",
+          "name": "台灣迷因"
+        },
+        {
+          "url": "/culture/農曆七月",
+          "name": "農曆七月"
+        },
+        {
+          "url": "/economy/NET",
+          "name": "NET"
+        }
+      ]
+    },
+    {
+      "hash": "2a583ad3058bfd520fd8742cd2c212f6cc03e3bc",
+      "date": "2026-07-23T21:55:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] instrument: warn+lint+auto-heal for contributor PR format debt",
+      "articles": []
+    },
+    {
+      "hash": "c283e8c7746803ee8163e236233246f3057f6ac7",
+      "date": "2026-07-23T21:43:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: record PR review refresh finale",
+      "articles": []
+    },
+    {
+      "hash": "59c0a15495b2e1d1634dd13f7b24cac71edf0e56",
+      "date": "2026-07-23T21:41:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] refresh: update dashboard ground truth",
+      "articles": []
+    },
     {
       "hash": "ecf5d6d8ec719dcde4f6584dceb5482438273f9f",
       "date": "2026-07-23T21:33:04+08:00",
@@ -64,6 +509,18 @@
       "articles": []
     },
     {
+      "hash": "d76df556ec89dd2daf091fe4935909f961e652b5",
+      "date": "2026-07-23T01:17:45+08:00",
+      "author": "idlccp1984",
+      "message": "Update 台灣迷因.md",
+      "articles": [
+        {
+          "url": "/culture/台灣迷因",
+          "name": "台灣迷因"
+        }
+      ]
+    },
+    {
       "hash": "dba3a7bb606a8d803b5e6247690d0e160df7c740",
       "date": "2026-07-22T09:55:10+08:00",
       "author": "Che-Yu Wu",
@@ -83,6 +540,114 @@
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] heal: 收住新語投影與本機批次暫存",
       "articles": []
+    },
+    {
+      "hash": "55d46329d7d50f4a719d9a295b27df38414592e5",
+      "date": "2026-07-22T07:11:05+08:00",
+      "author": "idlccp1984",
+      "message": "Update NET.md",
+      "articles": [
+        {
+          "url": "/economy/NET",
+          "name": "NET"
+        }
+      ]
+    },
+    {
+      "hash": "d8d949920f3e81a7ae9e09aeb3c1bc35124a961c",
+      "date": "2026-07-21T07:32:31+08:00",
+      "author": "idlccp1984",
+      "message": "Create 萊爾富.md",
+      "articles": [
+        {
+          "url": "/economy/萊爾富",
+          "name": "萊爾富"
+        }
+      ]
+    },
+    {
+      "hash": "eebbfdeca123ed9bdb2f1b89927780e340b2770d",
+      "date": "2026-07-21T07:22:00+08:00",
+      "author": "idlccp1984",
+      "message": "Create NET.md",
+      "articles": [
+        {
+          "url": "/economy/NET",
+          "name": "NET"
+        }
+      ]
+    },
+    {
+      "hash": "8670ab7a5d7c264f6604685dcce215a569356085",
+      "date": "2026-07-20T23:13:33+08:00",
+      "author": "idlccp1984",
+      "message": "Revise Taiwan-North Korea relations document",
+      "articles": [
+        {
+          "url": "/history/台灣與北朝鮮關係",
+          "name": "台灣與北朝鮮關係"
+        }
+      ]
+    },
+    {
+      "hash": "0161f42365e8fcfa23ce4ef1f295718985cb2fbc",
+      "date": "2026-07-20T23:12:00+08:00",
+      "author": "idlccp1984",
+      "message": "Update 牡丹社事件.md",
+      "articles": [
+        {
+          "url": "/history/牡丹社事件",
+          "name": "牡丹社事件"
+        }
+      ]
+    },
+    {
+      "hash": "b13385571d61d2c442e71367cdb6a52fb78f325f",
+      "date": "2026-07-20T23:11:31+08:00",
+      "author": "idlccp1984",
+      "message": "Update 當兵.md",
+      "articles": [
+        {
+          "url": "/society/當兵",
+          "name": "當兵"
+        }
+      ]
+    },
+    {
+      "hash": "be6d90650e9e19b698670604c0020bae4aee73c9",
+      "date": "2026-07-20T23:10:50+08:00",
+      "author": "idlccp1984",
+      "message": "Create 農曆七月.md",
+      "articles": [
+        {
+          "url": "/culture/農曆七月",
+          "name": "農曆七月"
+        }
+      ]
+    },
+    {
+      "hash": "219e16e30b8351ab64bff28bbf7e2fb470bd84d4",
+      "date": "2026-07-20T23:07:48+08:00",
+      "author": "idlccp1984",
+      "message": "Revise 中元節.md for cultural and historical insights",
+      "articles": [
+        {
+          "url": "/culture/中元節",
+          "name": "中元節"
+        }
+      ]
+    },
+    {
+      "hash": "4c23e9a995c8e192aeec91e82d4183eb5a658786",
+      "date": "2026-07-20T22:59:56+08:00",
+      "author": "idlccp1984",
+      "message": "Create 紡織業.md",
+      "articles": [
+        {
+          "url": "/economy/紡織業",
+          "name": "紡織業"
+        }
+      ]
     },
     {
       "hash": "09ffe560f456cb67e7dec58968f3a737f87773a0",
@@ -3372,6 +3937,42 @@
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-17 05:17",
       "articles": []
+    },
+    {
+      "hash": "81402e4104703c9a36b3606f2b28c9e8532eaf07",
+      "date": "2026-07-17T03:08:43+08:00",
+      "author": "idlccp1984",
+      "message": "Create 當兵.md",
+      "articles": [
+        {
+          "url": "/society/當兵",
+          "name": "當兵"
+        }
+      ]
+    },
+    {
+      "hash": "feeb7deca3148c76675bcae248a2ab4d43cd9fa9",
+      "date": "2026-07-17T02:38:16+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台灣與北朝鮮關係.md",
+      "articles": [
+        {
+          "url": "/history/台灣與北朝鮮關係",
+          "name": "台灣與北朝鮮關係"
+        }
+      ]
+    },
+    {
+      "hash": "e054c6c122919adf43c0a9ddd31b4f2c38b942e2",
+      "date": "2026-07-17T01:51:48+08:00",
+      "author": "idlccp1984",
+      "message": "Create 牡丹社事件.md",
+      "articles": [
+        {
+          "url": "/history/牡丹社事件",
+          "name": "牡丹社事件"
+        }
+      ]
     },
     {
       "hash": "973c8a6dc0ed16871d399999a99e4a5cc3b15783",

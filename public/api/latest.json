@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-07-23T13:40:04.343Z",
+  "_generated": "2026-07-24T08:18:50.152Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -11,6 +11,96 @@
         "date": "2026-07-23T22:24:59+09:00",
         "readingTime": 14,
         "image": ""
+      },
+      {
+        "title": "台灣與北韓：從第四大出口國到影子艦隊的灰色交鋒",
+        "desc": "台灣曾是北韓第四大出口國，平壤辦公室裡隨處可見 Acer 電腦與和成衛浴。這段從熱絡貿易到全面禁運的歷史，交織著秘密農業援助、海上走私與國安情報的深層角力。",
+        "category": "history",
+        "href": "/history/%E5%8F%B0%E7%81%A3%E8%88%87%E5%8C%97%E6%9C%9D%E9%AE%AE%E9%97%9C%E4%BF%82",
+        "date": "2026-07-23T22:05:31+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "牡丹社事件：石門峽谷下的文明碰撞與主權覺醒",
+        "desc": "1874年，一場由海難引發的軍事行動，讓台灣南端的石門峽谷成為近代東亞格局的震央。這不僅是日本帝國擴張的試金石，更是清廷從邊陲防禦轉向積極治理的命運轉捩點。",
+        "category": "history",
+        "href": "/history/%E7%89%A1%E4%B8%B9%E7%A4%BE%E4%BA%8B%E4%BB%B6",
+        "date": "2026-07-23T22:05:31+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "中元節：從安撫孤魂的恐懼，到一座島嶼的集體和解",
+        "desc": "中元節在台灣不只是對鬼魂的敬畏，更是一段關於拓墾、衝突與族群融合的生存紀錄。從基隆的血淚和解到頭城的極限搶孤，這場祭典揭示了台灣人如何將恐懼轉化為社會的和平條約。",
+        "category": "culture",
+        "href": "/culture/%E4%B8%AD%E5%85%83%E7%AF%80",
+        "date": "2026-07-23T22:05:31+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "台灣迷因：從 PTT 鄉民到社會安全閥的三十年文化演進",
+        "desc": "台灣迷因不只是網路笑話，而是一場跨越三十年的集體創作實驗。從 PTT 匿名論壇的語言煉金術，到「杰哥不要」的社會集體療癒，再到「上巴」、「穿山甲」等經典案例，台灣迷因演化出一套獨特的「社會安全閥」機制，將尷尬、創傷與政治焦慮轉化為可共同承擔的文化符號。",
+        "category": "culture",
+        "href": "/culture/%E5%8F%B0%E7%81%A3%E8%BF%B7%E5%9B%A0",
+        "date": "2026-07-23T22:05:31+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "農曆七月：從「鬼門開」的集體恐懼，到一座島嶼的溫柔和解",
+        "desc": "2026 年的盛夏，台灣街頭依然擺起長桌。從基隆望海巷的火光到頭城孤棚上的汗水，從新竹城隍廟的「開虎門」到民雄火化大士爺的壯烈，農曆七月不只是關於禁忌，更是一場關於共存、記憶與跨越陰陽邊界的島嶼敘事。",
+        "category": "culture",
+        "href": "/culture/%E8%BE%B2%E6%9B%86%E4%B8%83%E6%9C%88",
+        "date": "2026-07-23T22:05:31+08:00",
+        "readingTime": 25,
+        "image": ""
+      },
+      {
+        "title": "從金馬獎到漢光演習：台灣男人的集體成年禮與生存演練",
+        "desc": "1945年至今，台灣兵役從三年縮短至四個月，又在2024年回歸一年制。這場涉及數百萬人的集體記憶，不僅是「么兩三四五六拐八勾洞」的口令，更是這座島嶼在灰色地帶下的生存張力。",
+        "category": "society",
+        "href": "/society/%E7%95%B6%E5%85%B5",
+        "date": "2026-07-23T22:05:31+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "NET：從外銷庫存到國民衣櫃，這家最神祕的本土服飾品牌",
+        "desc": "1991年成立的NET，從基隆「主婦商場」的外銷庫存起家，在快時尚夾擊下屹立三十年。它不僅是全台門市最多的本土服飾品牌，更因連續 15 年「封館行善」與近期基隆東岸廣場的產權爭議，成為台灣人心中最具溫度的商業傳奇。",
+        "category": "economy",
+        "href": "/economy/NET",
+        "date": "2026-07-23T22:05:31+08:00",
+        "readingTime": 28,
+        "image": ""
+      },
+      {
+        "title": "台灣紡織業：從夕陽產業到奧運機能服的隱形冠軍",
+        "desc": "一個曾被視為「夕陽」的傳統產業，如何靠著回收寶特瓶、廢棄漁網甚至捕捉工廠廢氣，在 2024 巴黎奧運撐起全球代表隊的黑科技戰袍，翻轉台灣傳產的韌性敘事。",
+        "category": "economy",
+        "href": "/economy/%E7%B4%A1%E7%B9%94%E6%A5%AD",
+        "date": "2026-07-23T22:05:31+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "萊爾富：從光泉紅到聯邦綠，台灣「超商老三」的靈魂突圍",
+        "desc": "萊爾富作為台灣唯一純本土血統的四大超商，如何在 7-ELEVEN 與全家的夾擊下，靠著「首創年菜」與「數位轉型」活出自我？一場 2023 年的經營權大洗牌，又將如何改變這家 35 年老店的基因？",
+        "category": "economy",
+        "href": "/economy/%E8%90%8A%E7%88%BE%E5%AF%8C",
+        "date": "2026-07-23T22:05:31+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "AI 走進教室：三百支代理人，接住培訓後孤單的老師",
+        "desc": "2026 年，徐臺屏把約八十位教師設計的三百支 AI 代理人放進共享大市集。台灣兩份不同調查一面顯示九成教師已接觸 AI，一面顯示 95.6% 仍有學習需求。從大佳國小的三小時研習、內湖高中的「漚客」測試，到教育部人才方舟計畫，本文追問：工具已經進教室，誰來接住回校後的老師？這是工具普及之後更難的教育工程。",
+        "category": "technology",
+        "href": "/technology/%E5%8F%B0%E7%81%A3%E6%95%99%E5%B8%AB%E8%88%87AI%E6%95%99%E5%AD%B8",
+        "date": "2026-07-23T21:57:32+08:00",
+        "readingTime": null,
+        "image": "/article-images/technology/taiwan-students-digital-learning-2019.webp"
       },
       {
         "title": "收費站：國道上那消失的三秒鐘停頓",
@@ -182,96 +272,6 @@
         "date": "2026-07-19T10:05:11+08:00",
         "readingTime": 18,
         "image": ""
-      },
-      {
-        "title": "AI 硬體供應鏈：台灣把雲端變成機器的地方",
-        "desc": "生成式 AI 看起來像雲端服務，其實需要一整條實體道路：有人設計晶片、有人製造晶圓、有人封裝、有人處理記憶體、電力、散熱、主機板與機櫃。台灣的重要性不只在台積電，而在這條道路上有許多關鍵關口集中於此；這份共同利益真實存在，也伴隨水電、碳排、所得分配、海外設廠與地緣風險，把抽象口號變成可檢查的供應鏈證據。",
-        "category": "technology",
-        "href": "/technology/AI%E7%A1%AC%E9%AB%94%E4%BE%9B%E6%87%89%E9%8F%88",
-        "date": "2026-07-19T10:04:33+08:00",
-        "readingTime": null,
-        "image": "/article-images/technology/ai-hardware-supply-chain-flow.svg"
-      },
-      {
-        "title": "林昶佐：從閃靈主唱到國會現場，把台灣歷史唱成公共聲音的人",
-        "desc": "林昶佐以閃靈主唱 Freddy 的身份，把二二八、白色恐怖、霧社事件、台灣神話與台語金屬寫進公共記憶，也和夥伴把大港開唱做成南方文化場域。音樂、台灣意識、文化實踐、制度政治、家庭生命經驗與卸任後公共角色，在他身上彼此牽連，形成一條從舞台走向社會、國會與國際現場的路。",
-        "category": "people",
-        "href": "/people/%E6%9E%97%E6%98%B6%E4%BD%90",
-        "date": "2026-07-19T10:04:10+08:00",
-        "readingTime": 14,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Freddy_Lim%2C_founder_of_ChthoniC.jpg/1280px-Freddy_Lim%2C_founder_of_ChthoniC.jpg"
-      },
-      {
-        "title": "族群（閩南客家原住民外省新住民）",
-        "desc": "一場道歉儀式、一萬人的遊行、57萬個新來的家庭——台灣族群的故事，比「多元共融」四個字複雜得多。",
-        "category": "culture",
-        "href": "/culture/%E6%97%8F%E7%BE%A4%EF%BC%88%E9%96%A9%E5%8D%97%E5%AE%A2%E5%AE%B6%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%A4%96%E7%9C%81%E6%96%B0%E4%BD%8F%E6%B0%91%EF%BC%89",
-        "date": "2026-07-19T10:03:46+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "阿神：十一年日更之後，「永久停更」為何仍有新片",
-        "desc": "2026 年 7 月，阿神的主頻道一面寫著「退休我爽才拍片」，一面排出昨天上線的 Minecraft 新片。十一年日更曾把個人頻道變成每天都有下一集的節目表；三年前的「永久停更」為何沒有成為永久離場？",
-        "category": "people",
-        "href": "/people/%E9%98%BF%E7%A5%9E",
-        "date": "2026-07-19T10:03:16+08:00",
-        "readingTime": 18,
-        "image": "/article-images/people/ashan-2026-return-minecraft.webp"
-      },
-      {
-        "title": "台灣鐵道史：肺病鐵道、黑頭仔，以及那條失去外國名字的譜系",
-        "desc": "一條被日本人罵是「肺病鐵道」的爛路，如何在一百多年間變成每天載運二十萬人的高速動脈。劉銘傳聘的德英工程師後來被日本人砍掉重練，長谷川謹介的縱貫線又被戰後台鐵改名換編號，每一代都把上一代的紀錄推到注腳；外國名字一路掉漆，剩下台語的「黑頭仔」「火車仔」、剩下莒光自強復興的政治口號，最後在普悠瑪太魯閣這一代才把原住民地名鋪回鐵軌上。",
-        "category": "history",
-        "href": "/history/%E5%8F%B0%E7%81%A3%E9%90%B5%E9%81%93%E5%8F%B2",
-        "date": "2026-07-19T10:02:54+08:00",
-        "readingTime": 16,
-        "image": "/article-images/history/tra-taitung-line-fireman-1970s.webp"
-      },
-      {
-        "title": "遊覽車：載著台灣人上山下海六十年的鐵盒子，為什麼總在出事？",
-        "desc": "從日治時期 14 歲考上車掌的余劉菊蘭、1959 年金馬號開上中橫、1980 年代橫行國道的野雞車，到 2017 年蝶戀花南港翻覆 33 死、2025 年國一火燒車與杉林溪墜谷，遊覽車承載了台灣戰後所有的觀光夢、進香團與校外教學。但靠行制度、低團費競爭與長工時，讓這個鐵盒子也成了島上最危險的交通工具之一。2026 年元旦上路的駕駛身分識別新制，能不能終結這場循環？",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E9%81%8A%E8%A6%BD%E8%BB%8A",
-        "date": "2026-07-19T10:02:27+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "金門縣：1949 年那 56 小時，決定了金門 75 年的命運",
-        "desc": "金門距廈門角嶼最近處只有 1.8 公里，距台北 358 公里。1387 年江夏侯周德興在這裡建所城取「固若金湯，雄鎮海門」之意。1949 年 10 月 25 日凌晨兩點共軍三個團 9,086 人在古寧頭灘頭登陸，國軍激戰 56 小時擊退。1958 年 8 月 23 日下午五點半開始的 44 天裡，474,910 發砲彈落在 151 平方公里的島上，後續單打雙不打又打了 21 年。今天 14.5 萬人設籍金門，凌晨四點的水頭碼頭駛往廈門的船比飛台北的飛機多。葉華成的曾孫等了 67 年要一個道歉。",
-        "category": "geography",
-        "href": "/geography/%E9%87%91%E9%96%80%E7%B8%A3",
-        "date": "2026-07-19T10:01:56+08:00",
-        "readingTime": 16,
-        "image": "/article-images/geography/kinmen-hero.webp"
-      },
-      {
-        "title": "認知作戰：台灣資訊戰場的 AI 工業化階段",
-        "desc": "2024 年 12 月《中國統戰紀錄片》衝破 200 萬觀看，2025 年第四季 1076 個中共官媒帳號在抖音發布 56 萬支影片、透過臉部辨識識別 57 位台灣人士，2025 年 10 月沈伯洋被重慶公安以「分裂國家罪」立案。認知作戰進入 AI 工業化與「以台批台」的新階段，但「認知作戰」這個詞本身也在台灣內部承受被濫用的張力。",
-        "category": "society",
-        "href": "/society/%E8%AA%8D%E7%9F%A5%E4%BD%9C%E6%88%B0",
-        "date": "2026-07-19T10:01:33+08:00",
-        "readingTime": 28,
-        "image": ""
-      },
-      {
-        "title": "許倬雲：兩根手指寫出一條中國史的長河，王力宏外舅公的九十五年",
-        "desc": "1930 年生於廈門、1949 年隨國府渡台、1970 年到匹茲堡的史學家，先天肢障一生坐輪椅，卻用兩根能施力的手指敲鍵盤完成近四十部著作。2024 年第六屆唐獎漢學獎得主，獎金 5,000 萬全捐設「許-孫獎學金」；他是王力宏的七舅公、李建復的舅舅。2025 年 8 月辭世前留下一句「我嚥氣的一刻，我還在學習」。",
-        "category": "people",
-        "href": "/people/%E8%A8%B1%E5%80%AC%E9%9B%B2",
-        "date": "2026-07-19T10:01:01+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/hsu-cho-yun-academia-sinica-hero.webp"
-      },
-      {
-        "title": "台灣美食總覽：沒有一道菜是純粹台灣的，每一道菜都是最台灣的",
-        "desc": "1949 年的嘉義噴水池圓環旁，林添壽把雞肉切片鋪在白飯上、淋上閩南滷汁；戰後駐台美軍進駐水上機場後帶大量火雞來台，這碗才從雞肉飯演化成火雞肉飯。從原住民石板烤山豬、客家薑絲炒大腸、眷村川味牛肉麵到 1986 年台中發明的珍珠奶茶，再到 2025 年米其林收進的 419 家餐廳。這座島嶼花了四百年把每一道借來的菜煮成自己的方式。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E7%81%A3%E7%BE%8E%E9%A3%9F%E7%B8%BD%E8%A6%BD",
-        "date": "2026-07-19T09:59:02+08:00",
-        "readingTime": null,
-        "image": "/article-images/food/taiwan-food-overview-raohe-night-market-2023.webp"
       }
     ],
     "en": [
@@ -548,6 +548,15 @@
     ],
     "ja": [
       {
+        "title": "尊：国二の部屋から二つの百万チャンネルへ、あるYouTuberの成人記録",
+        "desc": "尊は国二の時にゲーム実況を撮影し始め、19歳で当時台湾最年少の百万回再生突破YouTuberとなった。その後、サブチャンネルも百万回再生を突破した。14年間のデータを通じて、創作の負担、家族の嵐、スポンサー広告のミスに直面し、大人になっていく過程を記録する。",
+        "category": "people",
+        "href": "/ja/people/zun",
+        "date": "2026-07-24T12:21:05+08:00",
+        "readingTime": 11,
+        "image": "/article-images/people/zun-new-home-2025.webp"
+      },
+      {
         "title": "乙未戦争：台湾民主国の148日間",
         "desc": "1895年、清朝が台湾を日本に割譲した。島の官員たちはアジア初の共和国の樹立を宣言したが、大統領はわずか10日で逃亡し、詩人も4日後に去った。本当に残って戦ったのは、19歳の客家人の少年と、家産を散じて集めた民兵たちだった。148日後、民主国は消え、日本統治が始まった。",
         "category": "history",
@@ -807,18 +816,36 @@
         "date": "2026-07-23T22:29:23+09:00",
         "readingTime": 15,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bridge_across_the_Houmen_Channel.jpg/1280px-Bridge_across_the_Houmen_Channel.jpg"
-      },
-      {
-        "title": "屏東県：国家の運命の転機はここで起きましたが、台北はほとんど覚えていません",
-        "desc": "1874 年 5 月 22 日、日本陸軍中佐の佐久間左馬太が 150 人を率いて石門峡谷に入り、パイワン族（排湾族）の頭目アルク父子が戦死しました。この戦闘は清朝の台湾統治政策を転換させ、沈葆楨が恒春県を設置し、1883 年には鵝鑾鼻灯台が建設されました。78 万人が屏東県 33 郷鎮市に暮らし、5 つの原住民族と客家六堆の 6 郷鎮が共住しています。2009 年の早朝 4 時半、林辺の水門は持ちこたえられなくなりました。台湾を変えた歴史はこの半島から二度始まりましたが、首都が覚えているのは墾丁の春吶だけです。",
-        "category": "geography",
-        "href": "/ja/geography/pingtung-county",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 15,
-        "image": "/article-images/geography/pingtung-hero.webp"
       }
     ],
     "ko": [
+      {
+        "title": "존: 중2 방에서 더블 채널 백만 구독까지, 한 유튜버의 성인 기록",
+        "desc": "존은 중2 때 게임 실황을 촬영하기 시작해, 19세 때 당시 대만에서 가장 젊은 백만 구독 유튜버가 되었고, 이후 부 채널도 백만 구독을 돌파했다. 14년간의 데이터를 통해 그가 창작의 부담, 가족의 폭풍, 그리고 광고 실수를 어떻게 마주하며 서서히 성인이 되어가는 과정을 기록한다.",
+        "category": "people",
+        "href": "/ko/people/zun",
+        "date": "2026-07-24T13:51:01+08:00",
+        "readingTime": 11,
+        "image": "/article-images/people/zun-new-home-2025.webp"
+      },
+      {
+        "title": "독감마 감자: 200ppm 외에도 30ppm, 14일, 그리고 15년 간의 식안 흉터",
+        "desc": "2026년 4월 29일, 중국 국대판 대변인 천빈화(陳斌華)는 \"독감마 감자\"라는 표현을 사용하여 라이칭더(賴清德) 정부를 비판하며 \"다시 한번 국민 건강을 미국에 아부하는 투명장(投名狀)으로 삼았다\"고 주장했다. 논쟁의 진정한 핵심은 세 층위를 가로지른다: 억제제 CIPC 잔류 EU 0.2ppm vs 대만 30ppm의 150배 격차, 국경 85명의 실제 인력이 어떻게 3억 개의 감자를 \"개별 검사\"하는지, 그리고 2011년 가소화제 사건 이후 누적된 15년 간의 식안 흉터—이 서사가 정확히踩準한(발판으로 삼은) 기반이다.",
+        "category": "society",
+        "href": "/ko/society/poisoned-potato-cognitive-warfare-taiwan",
+        "date": "2026-07-24T13:51:01+08:00",
+        "readingTime": null,
+        "image": "/article-images/society/du-mali-maine-potato-1940.webp"
+      },
+      {
+        "title": "AAMA 타이베이 요람 프로젝트: 퇴직할 수도 있던 사람들이 가장 느린 방식으로 기술을 건넨다",
+        "desc": "2012년, 퇴직할 수도 있던 사람들이 타이베이 작은 방에 앉아 창업가 한 명을 2년 동안 돕겠다고 약속했다. 지분은 받지 않고, 일상 운영에는 간섭하지 않으며, 오직 기술을 건넬 뿐이다. 13년 동안 15기, 명단에는 Appier, 사기업류(社企流), Portaly가 있다. 창립자는 여전히 \"길은 절반도 못 갔다\"라고 말한다. 가장 느린传承(계승)은 제도에 쓰여 있으며, 지름길은 복사할 수 없다. 벽에 걸린 이름의 대부분은 여전히 길 위에 있다.",
+        "category": "economy",
+        "href": "/ko/economy/aama-taipei-cradle-program",
+        "date": "2026-07-24T13:51:01+08:00",
+        "readingTime": null,
+        "image": "/article-images/economy/aama-15th-cohort-2026.webp"
+      },
       {
         "title": "'범람과 범록 너머의 네 자: 한 조각 논에서 한 장의 건강보험카드까지, 자신의 정치를 넘어 살아남은 타이완의 정책들'",
         "desc": "한 독자가 범람과 범록이 식탁에서 서로 욕하는 장면에 지쳐, 타이완에 진정으로 좋았던 일을 기억하고 싶어 했다. 그래서 우리는 지난 70년의 열한 가지 정책을 골랐다. 권위주의가 농지를 강제 징수한 토지개혁, 계엄 해제, 전민건강보험부터 여전히 논쟁 중인 동성혼과 전향적 인프라까지, 일부러 범람과 범록의 자로 재지 않고 민생, 민주, 민권, 주권이라는 네 자로 재보았다. 결론은 조금 직관에 어긋난다. 자신의 당파적 출신을 넘어 살아남은 정책은, 태어난 날 대개 가장 격렬하게 다투어진 바로 그 정책이었다.",
@@ -1061,33 +1088,6 @@
         "date": "2026-07-23T22:29:23+09:00",
         "readingTime": 18,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2017_Fort_San_Domingo.jpg/1280px-2017_Fort_San_Domingo.jpg"
-      },
-      {
-        "title": "핑둥현: 국가 운명의 전환은 이곳에서 일어났지만, 타이베이는 거의 기억하지 않았다",
-        "desc": "1874년 5월 22일, 일본 중좌 사쿠마 사마타가 150명을 이끌고 스먼 협곡으로 잠입했고, 파이완족 두목 아루구 부자가 전사했다. 이 전투는 청 조정의 대만 통치 정책을 뒤집어 놓았고, 선바오전이 와서 헝춘현을 설치했으며, 1883년에는 어롼비 등대가 세워졌다. 78만 명은 핑둥현 33개 향진시에 흩어져 살고, 5개 원주민족과 하카 류두이 6개 향진이 함께 산다. 2009년 새벽 4시 반, 린볜 수문은 더 이상 버티지 못했다. 대만을 바꾼 역사는 이 반도에서 두 차례 출발했지만, 수도가 기억하는 것은 컨딩 춘나뿐이다.",
-        "category": "geography",
-        "href": "/ko/geography/pingtung-county",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 15,
-        "image": "/article-images/geography/pingtung-hero.webp"
-      },
-      {
-        "title": "스린: 케타갈란족의 땅, 장저우·취안저우 무력 충돌의 사원, 그리고 지금은 매일 밤 타이베이에서 가장 붐비는 야시장",
-        "desc": "저녁 7시 30분, 스린 야시장 길목에서 한국 관광객들이 대형 지파이를 들고 셀카를 찍고, 그 옆 다난로 84호의 츠셴궁은 1796년 가경 원년부터 2026년까지 230년을 서 있다. 1859년 함풍 9년 장저우 사람들이 이 거리에서 취안저우 사람들에게 불타 쫓겨났고, 1860년 경신년에 반영청은 샤수린에 다둥로, 다난로, 다시로, 다베이로 네 갈래의 반듯한 거리를 긋고 사원을 정중앙에 두었다. 1909년 일본인은 사원 맞은편에 시장을 세웠고, 1955년 양밍극장이 원린로에 준공되었으며, 1992년 하오다다 지파이는 타이중에서 발명되어 1999년 스린에 들어왔다. 2002년 전후에 증축된 가설 지붕이 철거되고, 2011년 새 시장이 개장했으며, 지하 먹거리 거리는 아침부터 밤까지 두 부류의 사람을 번갈아 받는다. 사원은 여전히 원래 자리에 있지만, 그 발밑에서는 매일 두 도시가 교대로 돌아간다.",
-        "category": "geography",
-        "href": "/ko/geography/shilin",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/shilin-cixian-temple-2010.webp"
-      },
-      {
-        "title": "타이중시: 1887년에 수도가 될 뻔했고, 2010년에야 두 번째로 큰 직할시가 되다",
-        "desc": "1887년 류밍촨은 타이완 건성(建省)을 상주했고, 성도는 장화현 차오쯔터우(오늘날 타이중 시내)에 정해졌으며, 팔괘형 성곽 도시가 계획되었다. 1889년에 축성이 시작되었다. 1894년 사오유롄이 부임한 뒤 성회는 타이베이로 북천했고, 타이중 성도 공사는 중단되었다. 1920년 10월 1일 일본인은 이곳에 타이중주를 설치했다. 1955년 둥하이 대학이 다두산에서 기공했고, 1963년 루스 기념 예배당이 준공되었다. 1999년 9월 21일 새벽, 처룽푸 단층이 난터우 지지에서 타이중 둥스까지 찢고 올라왔고, 둥스진에서 358명이 사망했다. 2010년 12월 25일 현과 시가 합병되어 직할시로 승격했고, 29개 구가 되었다. 2016년 이토 도요가 설계한 국가가극원이 시툰구에서 개관했다. 286만 명이 123년을 기다린 이 도시에 살고 있다.",
-        "category": "geography",
-        "href": "/ko/geography/taichung-city",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 16,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/National_Taichung_Theater_20180317.jpg/1280px-National_Taichung_Theater_20180317.jpg"
       }
     ],
     "fr": [
@@ -1364,6 +1364,78 @@
     ],
     "es": [
       {
+        "title": "Los Diez Proyectos de Construcción: una apuesta de dos mil millones de dólares en divisas de diez millones",
+        "desc": "En 1973, las reservas de divisas de Taiwán apenas sumaban mil millones de dólares, pero Chiang Kai-shek anunció la inversión de unos 300.000 millones de dólares taiwaneses para impulsar los Diez Proyectos de Construcción. Esto no solo fue un giro económico para responder a la crisis petrolera y al aislamiento diplomático, sino también una narrativa política que reempaquetó los planos heredados de la era colonial japonesa para transformarlos en identidad nacional.",
+        "category": "history",
+        "href": "/es/history/ten-major-construction-projects",
+        "date": "2026-07-24T15:51:37+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "El cine nacional de Taiwán: La persona que hablaba junto a la pantalla y una historia cinematográfica que murió y renació",
+        "desc": "En 1930, en los cines, un narrador (benshi) se paraba junto a la pantalla para improvisar diálogos en taiwanés para las películas mudas; noventa años después, \"Cape No. 7\" hizo que cinco idiomas volvieran juntos a la pantalla. El cine en taiwanés fue una vez el tercer mayor productor de largometrajes del mundo, pero fue estrangulado; en los años en que el \"Nuevo Cine\" ganaba el León de Oro en Venecia, la cuota de taquilla de las películas nacionales en los cines cayó a solo el 0,36 %. El cine nacional no es una línea recta que va de malo a bueno, es una historia que fue declarada muerta y renació repetidamente.",
+        "category": "art",
+        "href": "/es/art/taiwanese-cinema",
+        "date": "2026-07-24T15:51:37+08:00",
+        "readingTime": "18",
+        "image": "/article-images/art/tsai-ming-liang-lee-kang-sheng.webp"
+      },
+      {
+        "title": "Sodagreen: Tardaron veinte años en descubrir que incluso su nombre también daba lugar a una demanda",
+        "desc": "En 2001, cuatro estudiantes se unieron en el escenario del Premio Jin Xuan de la Universidad Nacional Chengchi; en 2003, fueron descubiertos por Lin Weizhe en el Festival del Mar de Gongliao; tras completar la Cuarta Parte de la serie Vivaldi y recorrer Pekín y Berlín, fueron demandados en 2019 y solo en 2023 lograron recuperar su nombre en el Estadio Pequeno de Taiwán. Tras veintidós años, Sodagreen aprendió que la primera regla para debutar como banda indie en Taiwán es registrar el nombre del grupo.",
+        "category": "music",
+        "href": "/es/music/sodagreen",
+        "date": "2026-07-24T15:51:37+08:00",
+        "readingTime": "28",
+        "image": "/article-images/music/sodagreen-six-members-2014.webp"
+      },
+      {
+        "title": "El paisaje sonoro de Taiwán",
+        "desc": "Desde el \"Für Elise\" del camión de basura hasta el canto de ocho voces de los Bunan: conoce Taiwán con los oídos",
+        "category": "music",
+        "href": "/es/music/taiwan-soundscape",
+        "date": "2026-07-24T15:51:37+08:00",
+        "readingTime": "10",
+        "image": ""
+      },
+      {
+        "title": "Hsu Cho-yun: Dos dedos escriben el largo río de la historia de China, el tío-abuelo materno de Wang Leehom",
+        "desc": "Nacido en 1930 en Xiamen, llegó a Taiwán en 1949 con el gobierno nacionalista y se mudó a Pittsburgh en 1970. Historiador con discapacidad física congénita que pasó toda su vida en silla de ruedas, pero que con solo dos dedos capaces de ejercer fuerza tecleó el teclado para completar casi cuarenta obras. Ganador de la sexta edición del Premio Tang de Estudios Chinos en 2024, donó los 50 millones de NT$ completos para crear la \"Beca Hsu-Sun\"; es el tío-abuelo materno de Wang Leehom y el tío materno de Li Jianfu. Antes de fallecer en agosto de 2025, dejó una frase: \"En el momento de mi último aliento, aún estaba aprendiendo\".",
+        "category": "people",
+        "href": "/es/people/cho-yun-hsu-bridging-historian",
+        "date": "2026-07-24T15:51:37+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/hsu-cho-yun-academia-sinica-hero.webp"
+      },
+      {
+        "title": "Guerra cognitiva: La etapa de industrialización por IA en el campo de batalla informativo de Taiwán",
+        "desc": "En diciembre de 2024, el documental \"Documental de la Guerra Unida de China\" superó los 2 millones de reproducciones; en el cuarto trimestre de 2025, 1076 cuentas de medios oficiales del PCCh publicaron 560.000 videos en Douyin, identificando a 57 personas taiwanesas mediante reconocimiento facial; en octubre de 2025, Shen Pei-yang fue investigado por la Policía de Chongqing bajo el cargo de \"delito de división del Estado\". La guerra cognitiva entra en una nueva etapa de industrialización por IA y \"criticar a Taiwán con taiwaneses\", pero el propio término \"guerra cognitiva\" también sufre la tensión de ser mal utilizado internamente en Taiwán.",
+        "category": "society",
+        "href": "/es/society/cognitive-warfare-against-taiwan",
+        "date": "2026-07-24T15:51:37+08:00",
+        "readingTime": 28,
+        "image": ""
+      },
+      {
+        "title": "La patata envenenada: más allá de los 200 ppm, hay 30 ppm, 14 días y la cicatriz de 15 años de la seguridad alimentaria",
+        "desc": "El 29 de abril de 2026, el portavoz de la Oficina de Asuntos de Taiwán de China, Chen Bin-hua, criticó al gobierno de Lai Ching-te con el término 'patata envenenada', afirmando que 'ponía nuevamente la salud de los ciudadanos como un salvoconducto para halagar a Estados Unidos'. El núcleo real de la controversia abarca tres capas: la brecha de 150 veces entre el residuo del inhibidor de brotes CIPC (0,2 ppm de la UE vs. 30 ppm de Taiwán), cómo los 85 efectivos contratados en la frontera pueden 'inspeccionar grano a grano' 300 millones de unidades, y la cicatriz de 15 años de desconfianza en la seguridad alimentaria acumulada desde el caso del plastificante de 2011; este es el cimiento preciso sobre el que se asienta la narrativa.",
+        "category": "society",
+        "href": "/es/society/poisoned-potato-cognitive-warfare-taiwan",
+        "date": "2026-07-24T15:51:37+08:00",
+        "readingTime": null,
+        "image": "/article-images/society/du-mali-maine-potato-1940.webp"
+      },
+      {
+        "title": "El programa Cuna de Taipéi de AAMA: un grupo de personas que podían jubilarse entregando su oficio de la forma más lenta",
+        "desc": "En 2012, un grupo de personas que podían jubilarse se sentó en una pequeña habitación en Taipéi y prometió acompañar a un emprendedor durante dos años: sin tomar acciones, sin intervenir en la gestión diaria, solo entregando su oficio. Trece años y quince cohortes, la lista incluye Appier, Sheqiliu (Social Enterprise Stream) y Portaly; el fundador aún dice que el camino está solo a la mitad. La herencia más lenta está escrita en el sistema, los atajos no se pueden copiar: la mayoría de los nombres colgados en la pared aún están en el camino.",
+        "category": "economy",
+        "href": "/es/economy/aama-taipei-cradle-program",
+        "date": "2026-07-24T15:51:37+08:00",
+        "readingTime": null,
+        "image": "/article-images/economy/aama-15th-cohort-2026.webp"
+      },
+      {
         "title": "La Guerra de Yiwei: los 148 días de la República Democrática de Taiwán",
         "desc": "En 1895, la corte Qing cedió Taiwán a Japón. Los funcionarios de la isla proclamaron la primera república de Asia, pero el presidente huyó en diez días y el poeta se marchó en cuatro. Quienes realmente se quedaron para luchar fueron un muchacho hakka de diecinueve años y las milicias que reclutó gastando toda su fortuna. Tras 148 días, la república desapareció y comenzó el dominio japonés.",
         "category": "history",
@@ -1560,78 +1632,6 @@
         "date": "2026-07-23T22:29:23+09:00",
         "readingTime": 18,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg/1600px-Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg"
-      },
-      {
-        "title": "Keelung: el puerto más cercano a Taipéi, el más invisible para Taipéi",
-        "desc": "A las cuatro de la madrugada, el mercado de pescado de Kanzaiding sigue inmerso en el ruido de las subastas. El subastador grita precios en hokkien, y en cuestión de segundos una cesta de pescado pasa de los barcos pesqueros de Hualien, Yilang y Badouzu a los restaurantes de cocina japonesa del este de Taipéi. En 1626 los españoles plantaron su bandera en la Isla de la Paz; en 1875 Shen Baozhen cambió el nombre de «Jilong» (jaula de gallinas) por «Keelung», que significa «base próspera»; en 1984 este puerto fue el séptimo mayor puerto de contenedores del mundo. Entonces ocurrieron tres cosas al mismo tiempo: el puerto de Kaohsiung lo superó, el aeropuerto de Taoyuan entró en funcionamiento y el círculo minero colapsó. Hoy 360.000 personas viven aquí, el 39% conmuta a Taipéi para trabajar. Taipéi ve decadencia; el océano ve un puerto que nunca ha abandonado su posición.",
-        "category": "geography",
-        "href": "/es/geography/keelung-city",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 14,
-        "image": "/article-images/geography/keelung-hero.webp"
-      },
-      {
-        "title": "Condado de Kinmen: las 56 horas de 1949 que decidieron 75 años de destino para Kinmen",
-        "desc": "Kinmen está a apenas 1,8 km de Jiaoyu, en Xiamen, en su punto más cercano, y a 358 km de Taipéi. En 1387, Zhou Dexing, marqués de Jiangxia, construyó aquí una ciudad fortificada cuyo nombre tomó el sentido de «sólida como metal y muralla hirviente, imponente guardiana de la puerta del mar». A las dos de la madrugada del 25 de octubre de 1949, tres regimientos comunistas, 9.086 hombres, desembarcaron en la playa de Guningtou; el Ejército Nacionalista los repelió tras 56 horas de combate feroz. Durante los 44 días iniciados a las cinco y media de la tarde del 23 de agosto de 1958, 474.910 proyectiles cayeron sobre una isla de 151 km²; después, el bombardeo en días impares y pausa en días pares continuó otros 21 años. Hoy hay 145.000 personas registradas en Kinmen, y a las cuatro de la madrugada salen más barcos desde el muelle de Shuitou hacia Xiamen que aviones hacia Taipéi. El bisnieto de Yeh Hua-cheng esperó 67 años para pedir una disculpa.",
-        "category": "geography",
-        "href": "/es/geography/kinmen-county",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 16,
-        "image": "/article-images/geography/kinmen-hero.webp"
-      },
-      {
-        "title": "Condado de Lienchiang: el condado más alejado de Taiwán es el más cercano a la Guerra Fría",
-        "desc": "Desde la cima de las montañas de Nangan, la ciudad de Fuzhou está a solo 16 kilómetros. Taipéi está a 200 kilómetros, y la sede original del condado de Lienchiang está del lado del Ejército comunista. En 1617, Shen Yourong capturó vivos a 69 wokou al pie de la montaña en Dongju; en 1956, el Ejército Nacional convirtió estas 5 islas en una zona de administración militar de frente de guerra; en 1992, Kinmen y Matsu levantaron la ley marcial 5 años más tarde que Taiwán. Hoy viven aquí 13.646 personas, la tasa de pérdida del matsunés es del 94%, y el único referéndum sobre juego aprobado en todo el país, en 2012, sigue sin resultados. Las lágrimas azules atraen 200.000 turistas al año, pero la población local recuerda el apagón obligatorio. Un condado de 28,8 kilómetros cuadrados condensa sobre sí mismo la historia taiwanesa de la Guerra Fría.",
-        "category": "geography",
-        "href": "/es/geography/lienchiang-county",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 15,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Matsu_Montage.png/560px-Matsu_Montage.png"
-      },
-      {
-        "title": "Condado de Miaoli: el condado hakka de cuello duro que eligió en ocho años a un magistrado que duplicó con creces la deuda del erario",
-        "desc": "Durante el dominio japonés, el alcanfor de Miaoli representaba el 95% del total de Taiwán; Sanyi inició su talla en madera con los tocones sobrantes de destilar alcanforeros. En 2002, la aldea Beihe de Gongguan organizó el primer Festival de la Flor de Tung. En 2008, Liu Cheng-hung recibió un condado con 20.200 millones de deuda; al dejar el cargo en 2014, la deuda contable era de 67.600 millones. Entre medio ocurrieron el suicidio con pesticida de Zhu Feng-min, la demolición forzosa de la Farmacia Zhang y el Hakka Round House, construido por 120 millones y convertido en un edificio mosquito. Hoy, 530.000 personas viven en este condado, el segundo de Taiwán con mayor proporción hakka: 62,5%.",
-        "category": "geography",
-        "href": "/es/geography/miaoli-county",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 16,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg"
-      },
-      {
-        "title": "Condado de Nantou: el único condado sin costa, el epicentro del terremoto 921 está en su centro",
-        "desc": "El 21 de septiembre de 1999 a la 1:47 a. m., la falla de Chelungpu bajo el municipio de Jiji se desplazó durante 102 segundos. En toda Taiwán murieron 2.415 personas; Nantou registró 886 muertos y el 90 % de los edificios del municipio de Zhongliao sufrieron daños. El 27 de octubre de 1930, durante la izada de bandera en la escuela pública de Wushe, Mona Rudao lideró a seis comunidades Seediq y mató a 134 civiles japoneses. En 1934, la presa de Wujie elevó el nivel del agua 18,18 metros y sumergió la isla Lalu, tierra sagrada de los Thao. En 1957 se terminó Zhongxing New Village como sede temporal del gobierno provincial; en 1998, la racionalización provincial lo dejó vacío, solo con la avenida de palmeras. 470.000 personas viven en este condado interior que va de 100 a 3.952 metros de altitud, donde conviven cuatro pueblos indígenas —Seediq, Bunun, Thao, Tsou— con la población Han. Las heridas más profundas de Taiwán están aquí.",
-        "category": "geography",
-        "href": "/es/geography/nantou-county",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 16,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_in_Twilight.JPG/1280px-Sun_Moon_Lake_in_Twilight.JPG"
-      },
-      {
-        "title": "Ciudad de Nuevo Taipéi: la metrópolis anular que rodea Taipéi, donde 4,01 millones de personas sostienen los desplazamientos, la industria y la memoria de la capital",
-        "desc": "Desde que los españoles colocaron el primer ladrillo del Fuerte Santo Domingo de Tamsui en 1628, han pasado 398 años. Eso fue 247 años antes de que Shen Baozhen estableciera la Prefectura de Taipéi en 1875. Hoy, los 29 distritos de la Ciudad de Nuevo Taipéi rodean los 12 distritos de la Ciudad de Taipéi; 4,01 millones de personas viven en el mayor municipio especial de todo Taiwán, y 390.000 cruzan límites municipales para trabajar en Taipéi. Pero esta “metrópolis anular” no es una ciudad dormitorio de Taipéi: allí están la familia Lin de Banqiao de 1853, el té oolong que salió de Tamsui en 1869 y se vendió en Nueva York, Jiufen y Jinguashi, la primera mina de oro de Asia en la década de 1890, el Ferrocarril de Pingxi de 1929 que transportaba carbón, las tallas del Templo Zushi de Sanxia iniciadas por Li Meishu en 1947, y la comunidad Tranan del pueblo atayal en Wulai. Nuevo Taipéi es una síntesis de 400 años de Taiwán, justo fuera de la Ciudad de Taipéi.",
-        "category": "geography",
-        "href": "/es/geography/new-taipei-city",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 18,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2017_Fort_San_Domingo.jpg/1280px-2017_Fort_San_Domingo.jpg"
-      },
-      {
-        "title": "Penghu: dos veces rechazó el casino, y la Isla del Crisantemo no eligió la pobreza",
-        "desc": "El 26 de septiembre de 2009, en Magong se abrieron las urnas: 17.359 votos en contra, el casino perdió por 3.962 votos. Siete años después, en 2016, se votó de nuevo: 81,07 % en contra. Un archipiélago con apenas 1.000 mm de lluvia al año, 108.000 habitantes registrados pero solo 80.000 residentes efectivos, celebró el primer referéndum local sobre juego en todo el país y luego lo repitió. En esas mismas aguas, en 1604 Shen Yourong hizo retirarse a los holandeses; en 1622 los holandeses partieron de Fengguetou hacia Tainan; en 1885 el almirante francés Amédée Courbet murió de cólera en el puerto de Magong. Las columnas de basalto de 1,740 millones de años siguen en pie, 89 islas son roca volcánica negra y 1 es una andesita más antigua. Dentro de los muros de piedra de los huertos de invierno, los cultivos crecen al abrigo del viento.",
-        "category": "geography",
-        "href": "/es/geography/penghu-county",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 15,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bridge_across_the_Houmen_Channel.jpg/1280px-Bridge_across_the_Houmen_Channel.jpg"
-      },
-      {
-        "title": "Condado de Pingtung: aquí ocurrieron giros decisivos del destino nacional, y Taipéi casi nunca los recordó",
-        "desc": "El 22 de mayo de 1874, el teniente coronel japonés Sakuma Samata llevó a 150 hombres a internarse en el desfiladero de Shimen, donde murieron el jefe paiwan Aruqu y su hijo. Aquella batalla hizo que la corte Qing revirtiera su política de gobierno sobre Taiwán: Shen Baozhen llegó para establecer el condado de Hengchun y en 1883 se construyó el faro de Eluanbi. Unas 780.000 personas están dispersas en las 33 ciudades, municipios y poblados del condado de Pingtung, donde conviven 5 pueblos indígenas y 6 localidades del Liudui hakka. En 2009, a las cuatro y media de la madrugada, las compuertas de Linbian ya no pudieron contener el agua. La historia que cambió Taiwán partió dos veces de esta península, pero lo único que la capital recuerda es el Spring Scream de Kenting.",
-        "category": "geography",
-        "href": "/es/geography/pingtung-county",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 15,
-        "image": "/article-images/geography/pingtung-hero.webp"
       }
     ]
   }

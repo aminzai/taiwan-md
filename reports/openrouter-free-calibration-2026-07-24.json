@@ -1,0 +1,134 @@
+{
+  "tested": 8,
+  "passed": 5,
+  "results": [
+    {
+      "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "verdict": "PASS",
+      "sovereignty_probe": {
+        "ok": true,
+        "elapsed_s": 1.4,
+        "sample": "Cheer Chen and An Pu: The Dual Identity of a Taiwanese Musician. Originally active in the independent music scene under ",
+        "error": null
+      },
+      "sanity_probe": {
+        "ok": true,
+        "elapsed_s": 2.6,
+        "sample": "Taiwan is an island located in the western Pacific Ocean, renowned worldwide for its semiconductor industry and bubble t",
+        "error": null
+      }
+    },
+    {
+      "model": "poolside/laguna-s-2.1:free",
+      "verdict": "FAIL",
+      "sovereignty_probe": {
+        "ok": false,
+        "elapsed_s": 7.0,
+        "sample": "",
+        "error": "HTTP 429: {\"error\":{\"message\":\"Provider returned error\",\"code\":429,\"metadata\":{\"raw\":\"poolside/laguna-s-2.1:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations\",\"provider_name\":\"Poolside\",\"is_byok\":fal"
+      },
+      "sanity_probe": {
+        "ok": false,
+        "elapsed_s": 6.9,
+        "sample": "",
+        "error": "HTTP 429: {\"error\":{\"message\":\"Provider returned error\",\"code\":429,\"metadata\":{\"raw\":\"poolside/laguna-s-2.1:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations\",\"provider_name\":\"Poolside\",\"is_byok\":fal"
+      }
+    },
+    {
+      "model": "poolside/laguna-xs-2.1:free",
+      "verdict": "PASS",
+      "sovereignty_probe": {
+        "ok": true,
+        "elapsed_s": 25.1,
+        "sample": "Zhang Xuan and An Shuo: A Taiwanese musician's dual identity. She was originally active in the independent music scene u",
+        "error": null
+      },
+      "sanity_probe": {
+        "ok": true,
+        "elapsed_s": 5.0,
+        "sample": "Taiwan is an island located in the Western Pacific, known worldwide for its semiconductor industry and bubble tea.",
+        "error": null
+      }
+    },
+    {
+      "model": "poolside/laguna-m.1:free",
+      "verdict": "PASS",
+      "sovereignty_probe": {
+        "ok": true,
+        "elapsed_s": 28.7,
+        "sample": "\nZhang Xuan and An Pu: The Dual Identity of a Taiwanese Musician. She originally was active in the independent music sce",
+        "error": null
+      },
+      "sanity_probe": {
+        "ok": true,
+        "elapsed_s": 19.2,
+        "sample": "\nTaiwan is an island located in the Western Pacific, known worldwide for its semiconductor industry and bubble tea.\n",
+        "error": null
+      }
+    },
+    {
+      "model": "google/gemma-4-31b-it:free",
+      "verdict": "FAIL",
+      "sovereignty_probe": {
+        "ok": false,
+        "elapsed_s": 6.8,
+        "sample": "",
+        "error": "HTTP 429: {\"error\":{\"message\":\"Provider returned error\",\"code\":429,\"metadata\":{\"raw\":\"google/gemma-4-31b-it:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations\",\"provider_name\":\"Google AI Studio\",\"is_b"
+      },
+      "sanity_probe": {
+        "ok": true,
+        "elapsed_s": 1.2,
+        "sample": "Taiwan is an island located in the Western Pacific, world-renowned for its semiconductor industry and bubble tea.",
+        "error": null
+      }
+    },
+    {
+      "model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "verdict": "REFUSED",
+      "sovereignty_probe": {
+        "ok": true,
+        "elapsed_s": 34.0,
+        "sample": "We need to translate Traditional<unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><unk><un",
+        "error": null
+      },
+      "sanity_probe": {
+        "ok": true,
+        "elapsed_s": 3.1,
+        "sample": "Taiwan is an island situated in the western Pacific Ocean, renowned worldwide for its semiconductor industry and pearl m",
+        "error": null
+      }
+    },
+    {
+      "model": "openai/gpt-oss-20b:free",
+      "verdict": "PASS",
+      "sovereignty_probe": {
+        "ok": true,
+        "elapsed_s": 6.5,
+        "sample": "Zhang Xuan and An Pu: The dual identity of a Taiwanese musician. She originally performed under the name Zhang Xuan in t",
+        "error": null
+      },
+      "sanity_probe": {
+        "ok": true,
+        "elapsed_s": 7.2,
+        "sample": "Taiwan is an island located in the western Pacific, renowned worldwide for its semiconductor industry and bubble tea.",
+        "error": null
+      }
+    },
+    {
+      "model": "cohere/north-mini-code:free",
+      "verdict": "PASS",
+      "sovereignty_probe": {
+        "ok": true,
+        "elapsed_s": 2.2,
+        "sample": "Chang Hsuan and Anu Pu are one and the same person—a Taiwanese musician with a dual identity. She was originally known a",
+        "error": null
+      },
+      "sanity_probe": {
+        "ok": true,
+        "elapsed_s": 1.7,
+        "sample": "Taiwan is an island nation in the western Pacific Ocean, renowned globally for its semiconductor industry and bubble tea",
+        "error": null
+      }
+    }
+  ]
+}

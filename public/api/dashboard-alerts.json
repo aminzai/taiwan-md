@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T13:40:02.825Z",
+  "lastUpdated": "2026-07-24T08:18:48.484Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
   "count": 2,
@@ -15,7 +15,7 @@
     {
       "id": "routine-livestate-stale",
       "severity": "yellow",
-      "message": "routine-live-state.json dump 齡 135.4h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
+      "message": "routine-live-state.json dump 齡 154.1h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
       "source": "routine-live-state.json",
       "owner": "twmd-data-refresh",
       "firstSeen": "2026-07-23"

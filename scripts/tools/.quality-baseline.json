@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-23T13:39:52Z",
-  "total": 853,
-  "flagged": 421,
+  "timestamp": "2026-07-24T08:18:36Z",
+  "total": 862,
+  "flagged": 426,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -155,6 +155,11 @@
       "reasons": "年份2個; 空洞詞11個; 未人工審核; 塑膠句6個; 破折號6個; 套路結尾; 稀薄段落×1"
     },
     {
+      "file": "economy/萊爾富.md",
+      "score": 6,
+      "reasons": "空洞詞10個; 未人工審核; 塑膠句7個"
+    },
+    {
       "file": "economy/新創生態系.md",
       "score": 4,
       "reasons": "空洞詞8個; 分號8個; 稀薄段落×3"
@@ -223,6 +228,16 @@
       "file": "economy/農業科技與精緻農業.md",
       "score": 5,
       "reasons": "未人工審核; 分號12個; 稀薄段落×4"
+    },
+    {
+      "file": "economy/紡織業.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句2個; 稀薄段落×1; 假推論密度×2"
+    },
+    {
+      "file": "economy/NET.md",
+      "score": 6,
+      "reasons": "空洞詞5個; 未人工審核; 塑膠句3個; 稀薄段落×4"
     },
     {
       "file": "technology/Threads在台灣.md",
@@ -1760,6 +1775,11 @@
       "reasons": "未人工審核; 塑膠句1個; 套路結尾"
     },
     {
+      "file": "history/台灣與北朝鮮關係.md",
+      "score": 6,
+      "reasons": "空洞詞10個; 未人工審核; 塑膠句1個; 分號4個; 稀薄段落×1"
+    },
+    {
       "file": "history/台灣眷村歷史.md",
       "score": 7,
       "reasons": "未人工審核; 連續bullet4行; 塑膠句4個; 破折號7個; 無腳註; 立場真空×1"
@@ -2020,6 +2040,11 @@
       "reasons": "僅2個URL; 空洞詞8個; 破折號5個; 分號8個"
     },
     {
+      "file": "culture/農曆七月.md",
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句3個; 分號4個"
+    },
+    {
       "file": "culture/台灣聲景.md",
       "score": 4,
       "reasons": "未人工審核; 破折號10個; 分號7個"
@@ -2076,8 +2101,8 @@
     },
     {
       "file": "culture/台灣迷因.md",
-      "score": 8,
-      "reasons": "未人工審核; 塑膠句4個; 後段清單堆砌41%; 稀薄段落×3; 無腳註"
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句2個; 稀薄段落×4"
     },
     {
       "file": "culture/台灣綜藝.md",

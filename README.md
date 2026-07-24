@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **851 curated articles** (zh-TW SSOT) across 14 categories — projected to **10 languages** = 8,510 article-versions
+- 📖 **860 curated articles** (zh-TW SSOT) across 14 categories — projected to **10 languages** = 8,600 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी — 9 languages (2026-07-19 主權的巴別塔擴到九語)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -48,20 +48,20 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 851   |
-| 🇹🇼 Chinese (zh-TW)             | 851   |
-| 🇺🇸 English (en)                | 857   |
-| 🇯🇵 日本語 (ja)                 | 853   |
-| 🇰🇷 한국어 (ko)                 | 853   |
-| 🇪🇸 Español (es)                | 853   |
-| 🇫🇷 Français (fr)               | 853   |
+| 📄 Total articles (zh-TW SSOT) | 860   |
+| 🇹🇼 Chinese (zh-TW)             | 860   |
+| 🇺🇸 English (en)                | 844   |
+| 🇯🇵 日本語 (ja)                 | 856   |
+| 🇰🇷 한국어 (ko)                 | 859   |
+| 🇪🇸 Español (es)                | 858   |
+| 🇫🇷 Français (fr)               | 862   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 66    |
-| ⭐ GitHub Stars                | 1114  |
-| 🍴 Forks                       | 167   |
-| 📅 Articles last 7 days        | 173   |
+| ⭐ GitHub Stars                | 1115  |
+| 🍴 Forks                       | 168   |
+| 📅 Articles last 7 days        | 168   |
 | 📅 Articles last 30 days       | 231   |
 
 <!-- STATS:END -->
@@ -538,15 +538,15 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/eryet"><img src="https://avatars.githubusercontent.com/u/48248414?v=4" width="100px;" alt=""/><br /><sub><b>EryetChen</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/260387338?v=4" width="100px;" alt=""/><br /><sub><b>Bugni</b></sub></a><br />💻 🖋️ 🌍 🐛</td>
     <td align="center"><a href="https://github.com/BrianHuang813"><img src="https://avatars.githubusercontent.com/u/66238110?v=4" width="100px;" alt=""/><br /><sub><b>Brian Huang</b></sub></a><br />💻 🤔 🌍</td>
+    <td align="center"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4" width="100px;" alt=""/><br /><sub><b>hansai-art</b></sub></a><br />💻 🖋️ 🤔 🌍 👀</td>
     <td align="center"><a href="https://github.com/p3nchan"><img src="https://avatars.githubusercontent.com/u/5032148?v=4" width="100px;" alt=""/><br /><sub><b>Penchan</b></sub></a><br />🖋️ 🌍</td>
-    <td align="center"><a href="https://github.com/weilinlai719"><img src="https://avatars.githubusercontent.com/u/173038591?v=4" width="100px;" alt=""/><br /><sub><b>weilin lai</b></sub></a><br />💻 🐛</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/weilinlai719"><img src="https://avatars.githubusercontent.com/u/173038591?v=4" width="100px;" alt=""/><br /><sub><b>weilin lai</b></sub></a><br />💻 🐛</td>
     <td align="center"><a href="https://github.com/iigmir"><img src="https://avatars.githubusercontent.com/u/11061770?v=4" width="100px;" alt=""/><br /><sub><b>iigmir</b></sub></a><br />💻</td>
-    <td align="center"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4" width="100px;" alt=""/><br /><sub><b>hansai-art</b></sub></a><br />💻 🖋️ 🤔 🌍 👀</td>
+    <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/vaiskalivuan"><img src="https://avatars.githubusercontent.com/u/270533697?v=4" width="100px;" alt=""/><br /><sub><b>vaiskalivuan</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/ceruleanstring"><img src="https://avatars.githubusercontent.com/u/265435204?v=4" width="100px;" alt=""/><br /><sub><b>柒藍</b></sub></a><br />🌍</td>
-    <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/gn00295120"><img src="https://avatars.githubusercontent.com/u/30173341?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Wang</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/r000tmnt"><img src="https://avatars.githubusercontent.com/u/62630285?v=4" width="100px;" alt=""/><br /><sub><b>ParkCorner</b></sub></a><br />💻 🖋️</td>
   </tr>

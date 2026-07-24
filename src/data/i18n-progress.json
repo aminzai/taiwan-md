@@ -1,100 +1,100 @@
 {
-  "total_zh": 4476,
-  "total_en": 857,
-  "coverage_en": 19.1,
+  "total_zh": 4522,
+  "total_en": 844,
+  "coverage_en": 18.7,
   "categories": {
-    "fr": {
-      "zh": 853,
+    "es": {
+      "zh": 858,
       "en": 0
     },
-    "ko": {
-      "zh": 853,
+    "id": {
+      "zh": 70,
       "en": 0
     },
-    "Economy": {
-      "zh": 56,
-      "en": 57
+    "ja": {
+      "zh": 856,
+      "en": 0
     },
     "Food": {
       "zh": 62,
       "en": 63
     },
-    "es": {
-      "zh": 853,
+    "fr": {
+      "zh": 862,
       "en": 0
     },
-    "Lifestyle": {
-      "zh": 30,
-      "en": 30
+    "ko": {
+      "zh": 859,
+      "en": 0
     },
     "Technology": {
-      "zh": 58,
-      "en": 57
+      "zh": 59,
+      "en": 54
     },
-    "People": {
-      "zh": 239,
-      "en": 240
-    },
-    "ja": {
-      "zh": 853,
+    "pt": {
+      "zh": 53,
       "en": 0
-    },
-    "Art": {
-      "zh": 42,
-      "en": 43
     },
     "History": {
-      "zh": 47,
-      "en": 47
+      "zh": 49,
+      "en": 48
     },
-    "Society": {
-      "zh": 89,
-      "en": 90
-    },
-    "id": {
-      "zh": 54,
-      "en": 0
+    "Music": {
+      "zh": 37,
+      "en": 35
     },
     "Geography": {
       "zh": 66,
       "en": 64
     },
-    "vi": {
-      "zh": 54,
-      "en": 0
-    },
-    "pt": {
-      "zh": 54,
-      "en": 0
-    },
-    "hi": {
-      "zh": 49,
-      "en": 0
-    },
     "Culture": {
-      "zh": 68,
+      "zh": 70,
       "en": 70
-    },
-    "Nature": {
-      "zh": 38,
-      "en": 38
-    },
-    "Music": {
-      "zh": 37,
-      "en": 37
     },
     "Politics": {
       "zh": 11,
       "en": 11
     },
+    "People": {
+      "zh": 239,
+      "en": 233
+    },
+    "Lifestyle": {
+      "zh": 30,
+      "en": 28
+    },
+    "Nature": {
+      "zh": 38,
+      "en": 38
+    },
+    "Economy": {
+      "zh": 59,
+      "en": 60
+    },
+    "Society": {
+      "zh": 90,
+      "en": 88
+    },
+    "Art": {
+      "zh": 42,
+      "en": 41
+    },
+    "hi": {
+      "zh": 49,
+      "en": 0
+    },
+    "vi": {
+      "zh": 53,
+      "en": 0
+    },
     "About": {
       "zh": 8,
-      "en": 8
+      "en": 9
     },
     "resources": {
       "zh": 2,
       "en": 2
     }
   },
-  "updated": "2026-07-23"
+  "updated": "2026-07-24"
 }
