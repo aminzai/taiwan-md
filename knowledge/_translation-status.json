@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T05:08:48+08:00",
-    "zhCommitHead": "8d68d3fef",
+    "lastUpdated": "2026-07-25T05:11:54+08:00",
+    "zhCommitHead": "63c7af2fa",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 862,
-        "fresh": 106,
+        "fresh": 107,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 750,
+        "missing": 749,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 141,
+        "fresh": 142,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 711,
+        "missing": 710,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 862,
-        "fresh": 1,
+        "fresh": 3,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 861,
+        "missing": 859,
         "orphan": 0
       },
       "ru": {
         "total_zh": 862,
-        "fresh": 2,
+        "fresh": 3,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 860,
+        "missing": 859,
         "orphan": 0
       }
     },
@@ -1601,8 +1601,8 @@
           "sourceContentHash": "sha256:6df07f794411626f",
           "sourceBodyHash": "sha256:49c1a63539596208",
           "translatedAt": "2026-07-25T01:11:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63c7af2f",
+          "translationLastModified": "2026-07-25T05:09:06+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "status": "fresh",
@@ -17104,7 +17104,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/yingge-ceramics-museum.md",
+          "translatedFrom": "Art/鶯歌陶瓷博物館.md",
+          "sourceCommitSha": "9b94676e6",
+          "sourceContentHash": "sha256:9a60e6a6f1ead864",
+          "sourceBodyHash": "sha256:913432e882e783cc",
+          "translatedAt": "2026-07-25T05:00:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/yingge-ceramics-museum.md",
@@ -27778,7 +27789,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/kuma-academy-civil-defense-school.md",
+          "translatedFrom": "Society/黑熊學院.md",
+          "sourceCommitSha": "cdc7cc719",
+          "sourceContentHash": "sha256:f79e860b49a16b41",
+          "sourceBodyHash": "sha256:dd6e524ad9f23527",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -56940,7 +56962,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/huang-yu-chiao-democracy-elder.md",
+          "translatedFrom": "People/黃玉嬌.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:cac2434cbb03924f",
+          "sourceBodyHash": "sha256:80650db2e1788a43",
+          "translatedAt": "2026-07-25T05:00:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -88618,10 +88651,32 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/national-palace-museum.md",
+          "translatedFrom": "Culture/國立故宮博物院.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a6a3b3bae8b8f64b",
+          "sourceBodyHash": "sha256:a2026a7fcf36b68c",
+          "translatedAt": "2026-07-25T05:00:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/national-palace-museum.md",
+          "translatedFrom": "Culture/國立故宮博物院.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a6a3b3bae8b8f64b",
+          "sourceBodyHash": "sha256:a2026a7fcf36b68c",
+          "translatedAt": "2026-07-25T05:00:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
