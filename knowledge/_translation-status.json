@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T00:47:43+08:00",
-    "zhCommitHead": "f14b977c2",
+    "lastUpdated": "2026-07-25T00:49:43+08:00",
+    "zhCommitHead": "a5ef59468",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -67,27 +67,27 @@
       },
       "id": {
         "total_zh": 862,
-        "fresh": 81,
+        "fresh": 82,
         "stale": 14,
         "metadata_stale": 0,
-        "missing": 767,
+        "missing": 766,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 78,
+        "fresh": 79,
         "stale": 13,
         "metadata_stale": 0,
-        "missing": 771,
+        "missing": 770,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 85,
+        "fresh": 81,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 769,
-        "orphan": 1
+        "missing": 773,
+        "orphan": 0
       },
       "ar": {
         "total_zh": 862,
@@ -115,7 +115,7 @@
       "vi": [],
       "id": [],
       "pt": [],
-      "hi": ["hi/Geography/kaohsiung-city.md"],
+      "hi": [],
       "ar": [],
       "ru": []
     }
@@ -8922,18 +8922,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Economy/agricultural-technology-and-refined-agriculture.md",
-          "translatedFrom": "Economy/農業科技與精緻農業.md",
-          "sourceCommitSha": "369298aba",
-          "sourceContentHash": "sha256:19b72b95becb40d7",
-          "sourceBodyHash": "sha256:966a2693a6cccc59",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -17247,18 +17236,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Art/no-mans-land-art-platform.md",
-          "translatedFrom": "Art/數位荒原.md",
-          "sourceCommitSha": "a74c440b3",
-          "sourceContentHash": "sha256:f8ec8d5fb97942ca",
-          "sourceBodyHash": "sha256:7bfa784449cb0cb6",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 26,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -27946,8 +27924,8 @@
           "sourceContentHash": "sha256:ea94b427916538a7",
           "sourceBodyHash": "sha256:bcba667c74795d16",
           "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a5ef5946",
+          "translationLastModified": "2026-07-25T00:48:15+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "status": "fresh",
@@ -33066,7 +33044,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-slash-generation-multi-job-economy.md",
+          "translatedFrom": "Society/台灣斜槓世代.md",
+          "sourceCommitSha": "b6f8b00d8",
+          "sourceContentHash": "sha256:f40c65ff14acd5cb",
+          "sourceBodyHash": "sha256:7fc8e0dbb23602c5",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "a5ef5946",
+          "translationLastModified": "2026-07-25T00:48:15+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -37124,8 +37113,8 @@
           "sourceContentHash": "sha256:371da55946bd0c24",
           "sourceBodyHash": "sha256:7e95d6d709cb27df",
           "translatedAt": "2026-07-25T00:12:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b34289f5",
+          "translationLastModified": "2026-07-25T00:47:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -48567,18 +48556,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/People/hsu-chiao-hsin.md",
-          "translatedFrom": "People/徐巧芯.md",
-          "sourceCommitSha": "200949f47",
-          "sourceContentHash": "sha256:a962a822b6113a98",
-          "sourceBodyHash": "sha256:77a2ffda234c910d",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -51773,18 +51751,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/People/red-shin-minecraft-youtuber.md",
-          "translatedFrom": "People/阿神.md",
-          "sourceCommitSha": "fb7f4f824",
-          "sourceContentHash": "sha256:5d4d8978fc43c7cd",
-          "sourceBodyHash": "sha256:02c4e1b3fececdae",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 18,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -74930,18 +74897,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Geography/hualien-county.md",
-          "translatedFrom": "Geography/花蓮縣.md",
-          "sourceCommitSha": "b74252d93",
-          "sourceContentHash": "sha256:405286ffbb97b596",
-          "sourceBodyHash": "sha256:367ba2e7b9a712c5",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -77183,8 +77139,8 @@
           "sourceContentHash": "sha256:061c7b5484113eed",
           "sourceBodyHash": "sha256:e080c9e068d13667",
           "translatedAt": "2026-07-25T00:12:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b34289f5",
+          "translationLastModified": "2026-07-25T00:47:43+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -83276,10 +83232,32 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/jiaobei-divination-blocks.md",
+          "translatedFrom": "Culture/擲筊.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:f8a1e86f13d5a657",
+          "sourceBodyHash": "sha256:ef724755039c89a7",
+          "translatedAt": "2026-07-25T00:11:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/jiaobei-divination-blocks.md",
+          "translatedFrom": "Culture/擲筊.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:f8a1e86f13d5a657",
+          "sourceBodyHash": "sha256:ef724755039c89a7",
+          "translatedAt": "2026-07-25T00:12:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -84127,8 +84105,8 @@
           "sourceContentHash": "sha256:d88f480a1e1f7ae0",
           "sourceBodyHash": "sha256:ab7935ab2e6c6ed8",
           "translatedAt": "2026-07-25T00:12:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a5ef5946",
+          "translationLastModified": "2026-07-25T00:48:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -87849,8 +87827,8 @@
           "sourceContentHash": "sha256:96026947f084b369",
           "sourceBodyHash": "sha256:147f1c5986f4274b",
           "translatedAt": "2026-07-25T00:12:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b34289f5",
+          "translationLastModified": "2026-07-25T00:47:43+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
