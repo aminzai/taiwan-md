@@ -14,7 +14,7 @@ tags:
   ]
 category: 'Society'
 subcategory: 'Éducation'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 13
 lastVerified: 2026-04-09
