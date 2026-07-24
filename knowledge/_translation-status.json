@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T07:05:03+08:00",
-    "zhCommitHead": "3d3e856e9",
+    "lastUpdated": "2026-07-25T07:06:30+08:00",
+    "zhCommitHead": "34f20b3e9",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 79,
+        "fresh": 80,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 775,
+        "missing": 774,
         "orphan": 0
       },
       "id": {
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 170,
+        "fresh": 172,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 682,
+        "missing": 680,
         "orphan": 0
       },
       "hi": {
@@ -10679,8 +10679,8 @@
           "sourceContentHash": "sha256:84d56ad19effe1d5",
           "sourceBodyHash": "sha256:e55206c67a0d4344",
           "translatedAt": "2026-07-25T04:46:08+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "34f20b3e",
+          "translationLastModified": "2026-07-25T07:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 72,
           "status": "fresh",
@@ -27327,8 +27327,8 @@
           "sourceContentHash": "sha256:1b3e5e3f22f40ead",
           "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
           "translatedAt": "2026-07-25T04:46:08+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "34f20b3e",
+          "translationLastModified": "2026-07-25T07:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -30929,8 +30929,8 @@
           "sourceContentHash": "sha256:44e0e02cb3bfe9f8",
           "sourceBodyHash": "sha256:275d00c9499cbf78",
           "translatedAt": "2026-05-16T22:22:48Z",
-          "translationLastCommit": "3521fd77",
-          "translationLastModified": "2026-05-17T06:34:49+08:00",
+          "translationLastCommit": "34f20b3e",
+          "translationLastModified": "2026-07-25T07:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "stale",
@@ -51739,8 +51739,8 @@
           "sourceContentHash": "sha256:423bfa0c83cbe434",
           "sourceBodyHash": "sha256:5eacf1a20c5ad4bd",
           "translatedAt": "2026-07-25T04:46:08+08:00",
-          "translationLastCommit": "d106a126",
-          "translationLastModified": "2026-05-18T09:47:16+08:00",
+          "translationLastCommit": "34f20b3e",
+          "translationLastModified": "2026-07-25T07:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -53441,7 +53441,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/jody-chiang.md",
+          "translatedFrom": "People/江蕙.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:af8cff27f6cadb30",
+          "sourceBodyHash": "sha256:09c26c642594595d",
+          "translatedAt": "2026-07-25T06:34:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -54334,7 +54345,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/kuo-chin-fa-taiwanese-singer.md",
+          "translatedFrom": "People/郭金發.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ffef27b2909f9d95",
+          "sourceBodyHash": "sha256:b629819d5dc38d6a",
+          "translatedAt": "2026-07-25T06:34:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -86349,7 +86371,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/taiwanese-homophone-taboos.md",
+          "translatedFrom": "Culture/台灣諧音禁忌文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d88f480a1e1f7ae0",
+          "sourceBodyHash": "sha256:ab7935ab2e6c6ed8",
+          "translatedAt": "2026-07-25T06:34:13+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
