@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T02:18:36+08:00",
-    "zhCommitHead": "10db09785",
+    "lastUpdated": "2026-07-25T02:31:50+08:00",
+    "zhCommitHead": "f9008c204",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -59,26 +59,26 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 64,
+        "fresh": 67,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 782,
+        "missing": 779,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 92,
-        "stale": 13,
+        "fresh": 95,
+        "stale": 12,
         "metadata_stale": 0,
-        "missing": 757,
+        "missing": 755,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 102,
+        "fresh": 105,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 749,
+        "missing": 746,
         "orphan": 0
       },
       "hi": {
@@ -11238,18 +11238,16 @@
         "id": {
           "path": "id/Technology/taiwan-bim-construction-tech.md",
           "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:5500ed1d9d4e0f85",
-          "sourceBodyHash": "sha256:6207b1decb9dcfc4",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
+          "sourceCommitSha": "30072b76a",
+          "sourceContentHash": "sha256:7923803a611ee1da",
+          "sourceBodyHash": "sha256:ac277cd39572ac41",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
           "translationLastCommit": "f6054c73",
           "translationLastModified": "2026-07-24T20:41:47+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -14"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-bim-construction-tech.md",
@@ -20349,7 +20347,18 @@
           "diffSummary": "+16 -16"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Art/new-ecological-art-environment.md",
+          "translatedFrom": "Art/新生態藝術環境.md",
+          "sourceCommitSha": "c99df6503",
+          "sourceContentHash": "sha256:89f4f7c40c7428d6",
+          "sourceBodyHash": "sha256:dde1ab9552710d18",
+          "translatedAt": "2026-07-25T02:04:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Art/new-ecological-art-environment.md",
@@ -26423,7 +26432,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-higher-education-expansion-and-decline.md",
+          "translatedFrom": "Society/台灣高等教育擴張與退場.md",
+          "sourceCommitSha": "3b2bfbb30",
+          "sourceContentHash": "sha256:0e32d79d3df5fb08",
+          "sourceBodyHash": "sha256:4ba5d74427c47aed",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -33966,7 +33986,18 @@
           "diffSummary": "+1 -1"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/About/founder.md",
+          "translatedFrom": "About/taiwan-md.md",
+          "sourceCommitSha": "b8160c741",
+          "sourceContentHash": "sha256:de46b78b6b1ae5fb",
+          "sourceBodyHash": "sha256:ba0673429f6e80dd",
+          "translatedAt": "2026-07-25T02:04:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -68186,7 +68217,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/sanxia-tea.md",
+          "translatedFrom": "Food/三峽茶.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:39992ba044ff9cc4",
+          "sourceBodyHash": "sha256:4a3a23738f45e5d9",
+          "translatedAt": "2026-07-25T01:31:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -68690,8 +68732,8 @@
           "sourceContentHash": "sha256:75886d0c9c5c9b1f",
           "sourceBodyHash": "sha256:b1f515f692de800c",
           "translatedAt": "2026-07-25T01:31:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "69226431",
+          "translationLastModified": "2026-07-25T02:18:37+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -73305,7 +73347,18 @@
           "diffSummary": "+2 -1"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taiwan-transitional-justice.md",
+          "translatedFrom": "History/台灣轉型正義.md",
+          "sourceCommitSha": "7c73f6a55",
+          "sourceContentHash": "sha256:c532a9d95ccbcaaf",
+          "sourceBodyHash": "sha256:530ea0ffb4d07e77",
+          "translatedAt": "2026-07-25T02:04:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -81445,7 +81498,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/sun-moon-lake.md",
+          "translatedFrom": "Geography/日月潭.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:38e87349431f9040",
+          "sourceBodyHash": "sha256:6436714823ccf368",
+          "translatedAt": "2026-07-25T01:31:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -81549,8 +81613,8 @@
           "sourceContentHash": "sha256:098044cbe17d84d6",
           "sourceBodyHash": "sha256:0dee5d4db7ae7893",
           "translatedAt": "2026-07-25T01:31:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "69226431",
+          "translationLastModified": "2026-07-25T02:18:37+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -84184,7 +84248,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/loanwords-and-language-contact-in-taiwan.md",
+          "translatedFrom": "Culture/台灣外來語與語言接觸.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eec4f271a84a1f94",
+          "sourceBodyHash": "sha256:8e1b986c4cf0a1f3",
+          "translatedAt": "2026-07-25T01:31:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -84791,7 +84866,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/indigenous-language-revitalization-movement.md",
+          "translatedFrom": "Culture/台灣原住民語言復振運動.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:9c408bfc603af1d1",
+          "sourceBodyHash": "sha256:f60b7a2b3f864e75",
+          "translatedAt": "2026-07-25T01:31:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/indigenous-language-revitalization-movement.md",
@@ -89833,8 +89919,8 @@
           "sourceContentHash": "sha256:4f24d54138c9fd30",
           "sourceBodyHash": "sha256:e1adcb11fb9e8afa",
           "translatedAt": "2026-07-25T01:31:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "69226431",
+          "translationLastModified": "2026-07-25T02:18:37+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
