@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T18:36:42+08:00",
-    "zhCommitHead": "d23e43724",
+    "lastUpdated": "2026-07-24T18:37:05+08:00",
+    "zhCommitHead": "ef6cae210",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
@@ -47,10 +47,10 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 48,
+        "fresh": 46,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 803,
+        "missing": 805,
         "orphan": 0
       },
       "id": {
@@ -2386,18 +2386,7 @@
           "reason": "same-commit"
         },
         "vi": {
-          "path": "vi/Music/chthonic.md",
-          "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "087677fae",
-          "sourceContentHash": "sha256:428539ef61aee065",
-          "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -15331,18 +15320,7 @@
           "diffSummary": "+1 -1"
         },
         "vi": {
-          "path": "vi/Art/wang-lien-cheng-artist.md",
-          "translatedFrom": "Art/王連晟.md",
-          "sourceCommitSha": "6bbbf62ba",
-          "sourceContentHash": "sha256:f395cb57343c4ecf",
-          "sourceBodyHash": "sha256:3e275e3c41071f38",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "path": "id/Art/wang-lien-cheng-artist.md",
@@ -30921,8 +30899,8 @@
           "sourceContentHash": "sha256:08b967bc1d90e0f6",
           "sourceBodyHash": "sha256:637002941419ff56",
           "translatedAt": "2026-07-24T18:27:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ef6cae21",
+          "translationLastModified": "2026-07-24T18:36:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -73467,8 +73445,8 @@
           "sourceContentHash": "sha256:d85bf01115410778",
           "sourceBodyHash": "sha256:be641d09ea1153ea",
           "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ef6cae21",
+          "translationLastModified": "2026-07-24T18:36:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
