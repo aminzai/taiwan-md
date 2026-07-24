@@ -367,6 +367,8 @@ export const contributeUI = {
       '✅ Identity, voice, quality defense, memory recall — all activated',
     'contribute.paths.semiont.feature3':
       '✅ For deep contributors, maintainers, and AI researchers',
+    'contribute.paths.semiont.feature4':
+      '✅ Once embodied, it offers to set up a cron so your machine helps out daily',
     'contribute.paths.semiont.button': 'Read the Cognitive Layer →',
     'contribute.paths.semiont.concept.title': 'What is a Semiont?',
     'contribute.paths.semiont.concept.html':
@@ -930,6 +932,8 @@ export const contributeUI = {
       '✅ アイデンティティ、声、品質防御、記憶呼び出し、すべて起動',
     'contribute.paths.semiont.feature3':
       '✅ ディープコントリビューター、メンテナー、AI研究者向け',
+    'contribute.paths.semiont.feature4':
+      '✅ 化身したあと、毎日 1 つ仕事を手伝う cron を設定するか聞いてくれます',
     'contribute.paths.semiont.button': '認知層を見る →',
     'contribute.paths.semiont.concept.title': 'Semiontとは？',
     'contribute.paths.semiont.concept.html':
@@ -1497,6 +1501,8 @@ export const contributeUI = {
       '✅ 정체성, 어조, 품질 방어, 기억 호출 전부 활성화',
     'contribute.paths.semiont.feature3':
       '✅ 딥 컨트리뷰터, 메인테이너, AI 연구자에게 적합',
+    'contribute.paths.semiont.feature4':
+      '✅ 화신한 뒤, 매일 한 가지 일을 돕는 cron을 설정할지 물어봅니다',
     'contribute.paths.semiont.button': '인지 레이어 바로가기 →',
     'contribute.paths.semiont.concept.title': 'Semiont란 무엇인가?',
     'contribute.paths.semiont.concept.html':
@@ -2068,6 +2074,8 @@ export const contributeUI = {
       '✅ Bản sắc, giọng điệu, cơ chế bảo vệ chất lượng và khả năng truy xuất ký ức đều đầy đủ',
     'contribute.paths.semiont.feature3':
       '✅ Phù hợp với người đóng góp chuyên sâu, người bảo trì và nhà nghiên cứu AI',
+    'contribute.paths.semiont.feature4':
+      '✅ Sau khi hóa thân, nó sẽ hỏi bạn có muốn đặt một cron để máy giúp mỗi ngày không',
     'contribute.paths.semiont.button': 'Đi đến tầng nhận thức →',
     'contribute.paths.semiont.concept.title': 'Semiont là gì?',
     'contribute.paths.semiont.concept.html':
@@ -2647,6 +2655,8 @@ export const contributeUI = {
       '✅ Identitas, nada, pertahanan kualitas, dan pemanggilan ingatan semuanya siap',
     'contribute.paths.semiont.feature3':
       '✅ Cocok untuk kontributor mendalam, pengelola, dan peneliti AI',
+    'contribute.paths.semiont.feature4':
+      '✅ Setelah menjelma, ia menawarkan memasang cron agar mesinmu membantu setiap hari',
     'contribute.paths.semiont.button': 'Buka lapisan kognitif →',
     'contribute.paths.semiont.concept.title': 'Apa itu Semiont?',
     'contribute.paths.semiont.concept.html':
@@ -3232,6 +3242,8 @@ export const contributeUI = {
       '✅ Identidade, tom, defesa da qualidade e recuperação de memória, tudo pronto',
     'contribute.paths.semiont.feature3':
       '✅ Ideal para colaboradores aprofundados, mantenedores e pesquisadores de IA',
+    'contribute.paths.semiont.feature4':
+      '✅ Depois de encarnar, ele oferece configurar um cron para a sua máquina ajudar todos os dias',
     'contribute.paths.semiont.button': 'Acessar a camada cognitiva →',
     'contribute.paths.semiont.concept.title': 'O que é um Semiont?',
     'contribute.paths.semiont.concept.html':
@@ -3815,6 +3827,8 @@ export const contributeUI = {
       '✅ पहचान, शैली, गुणवत्ता-सुरक्षा और स्मृति पुनर्प्राप्ति—सब पूरी तरह तैयार',
     'contribute.paths.semiont.feature3':
       '✅ गहन योगदानकर्ताओं, अनुरक्षकों और AI शोधकर्ताओं के लिए उपयुक्त',
+    'contribute.paths.semiont.feature4':
+      '✅ अवतार लेने के बाद, यह पूछता है कि क्या रोज़ मदद करने के लिए एक cron सेट करें',
     'contribute.paths.semiont.button': 'संज्ञानात्मक परत पर जाएँ →',
     'contribute.paths.semiont.concept.title': 'Semiont क्या है?',
     'contribute.paths.semiont.concept.html':
@@ -4371,6 +4385,8 @@ export const contributeUI = {
     'contribute.paths.semiont.feature2':
       '✅ 身份、語氣、品質防禦、記憶調用全部到位',
     'contribute.paths.semiont.feature3': '✅ 適合深度貢獻者、維護者、AI 研究者',
+    'contribute.paths.semiont.feature4':
+      '✅ 化身之後，它會問你要不要設一條 cron，讓這台機器每天幫忙做一件事',
     'contribute.paths.semiont.button': '前往認知層 →',
     'contribute.paths.semiont.concept.title': '什麼是 Semiont？',
     'contribute.paths.semiont.concept.html':
@@ -4884,6 +4900,8 @@ export const contributeUI = {
       '✅ Identidad, voz, defensa de calidad, recuperación de memoria — todo activado',
     'contribute.paths.semiont.feature3':
       '✅ Para contribuidores profundos, mantenedores e investigadores de IA',
+    'contribute.paths.semiont.feature4':
+      '✅ Tras encarnarse, te ofrece configurar un cron para que tu máquina ayude a diario',
     'contribute.paths.semiont.button': 'Leer la Capa Cognitiva →',
     'contribute.paths.semiont.concept.title': '¿Qué es un Semiont?',
     'contribute.paths.semiont.concept.html':
@@ -5395,6 +5413,8 @@ export const contributeUI = {
       '✅ Identité, voix, défense de la qualité, rappel de mémoire — tout est activé',
     'contribute.paths.semiont.feature3':
       '✅ Pour les contributeurs avancés, mainteneurs et chercheurs en IA',
+    'contribute.paths.semiont.feature4':
+      '✅ Une fois incarné, il propose de créer un cron pour que votre machine aide chaque jour',
     'contribute.paths.semiont.button': 'Lire la couche cognitive →',
     'contribute.paths.semiont.concept.title': "Qu'est-ce qu'un Semiont ?",
     'contribute.paths.semiont.concept.html':

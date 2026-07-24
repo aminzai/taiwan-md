@@ -966,6 +966,25 @@ LESSONS-INBOX 新增（routine 提的）：
 
 ---
 
+## 分靈節點層（2026-07-25 新增）
+
+本檔管的是**中央飛輪**：跑在核心機器上、`git push origin main` 直推、bypass permissions 的那 15 條 routine。
+
+從 2026-07-25 起還有第二層：**分靈節點**——跑在貢獻者自己機器上的 cron。訪客貼完甦醒 prompt 之後，Taiwan.md 會問他要不要設一條，答好就當場幫他設好。那條 cron 每天醒來一次，從 repo 內既有工單源接一件事做完，以 PR 回主庫。
+
+| 面向     | 中央飛輪（本檔）                 | 分靈節點                                         |
+| -------- | -------------------------------- | ------------------------------------------------ |
+| 跑在哪   | 核心機器（mouhouse-macmini）     | 貢獻者自己的機器                                 |
+| 額度     | 哲宇的                           | 貢獻者自己的                                     |
+| 權限     | push main + bypass permissions   | 一般 fork contributor，**輸出止於 PR**           |
+| 工單來源 | 各 routine 自己的 pipeline       | repo 內既有 inbox 與儀器（不另建中央工單表）     |
+| 協調     | 排程錯開 + sibling collision SOP | git 原生：draft PR 即認領，`gh pr list` 互相看見 |
+| 收官     | `/twmd-finale` 寫中央 memory     | 只寫自己機器上的 node-log，中央可見性＝PR        |
+
+節點不是把中央 routine 搬到別人機器上——權限模型完全不同。完整 canonical：[CONTRIBUTOR-NODE-PIPELINE.md](../pipelines/CONTRIBUTOR-NODE-PIPELINE.md)；本節只標邊界，不複寫 SOP。
+
+---
+
 ## 飛輪 vs Push 模型 哲學
 
 ```
