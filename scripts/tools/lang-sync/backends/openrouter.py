@@ -24,6 +24,7 @@ Per REFLEXES #45: same provider keys share budget. 哲宇 has 5 keys in
 from __future__ import annotations
 
 import json
+import sys
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -182,14 +183,24 @@ class OpenRouterBackend(TranslationBackend):
 # ────────────────── helpers ──────────────────
 
 def _load_all_keys():
-    """Yield (key_id, key_value) tuples from credentials dir."""
+    """Yield (key_id, key_value) tuples from credentials dir.
+
+    2026-07-24 硬化：只認 *.key 檔且值必須是 sk-or-v1- 開頭的 ASCII token。
+    輪動目錄裡出現過 KEYS.md（帳號對照筆記，含中文）——舊版把每個檔都當
+    key，輪到它時中文進 auth header 直接 UnicodeEncodeError 炸整個 backend。
+    """
+    def _valid(key: str) -> bool:
+        return key.startswith("sk-or-v1-") and key.isascii() and "\n" not in key
+
     if KEY_ROTATION_DIR.exists() and KEY_ROTATION_DIR.is_dir():
         for f in sorted(KEY_ROTATION_DIR.iterdir()):
-            if f.is_file() and not f.name.startswith("."):
+            if f.is_file() and f.suffix == ".key" and not f.name.startswith("."):
                 key = f.read_text().strip()
-                if key:
+                if key and _valid(key):
                     yield (f.name, key)
+                elif key:
+                    print(f"⚠️  openrouter key file {f.name} 內容不是合法 key token，略過", file=sys.stderr)
     if KEY_FILE.exists():
         key = KEY_FILE.read_text().strip()
-        if key:
+        if key and _valid(key):
             yield ("default", key)
