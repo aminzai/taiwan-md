@@ -1,16 +1,16 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T18:47:31+08:00",
-    "zhCommitHead": "ca62e0b3b",
+    "lastUpdated": "2026-07-24T19:57:25+08:00",
+    "zhCommitHead": "f68fa6db0",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
       "en": {
         "total_zh": 862,
-        "fresh": 720,
-        "stale": 100,
+        "fresh": 716,
+        "stale": 95,
         "metadata_stale": 0,
-        "missing": 42,
+        "missing": 51,
         "orphan": 0
       },
       "ja": {
@@ -55,10 +55,10 @@
       },
       "id": {
         "total_zh": 862,
-        "fresh": 60,
+        "fresh": 54,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 792,
+        "missing": 798,
         "orphan": 0
       },
       "pt": {
@@ -4089,20 +4089,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
-          "translatedFrom": "Economy/台灣產業轉型升級.md",
-          "sourceCommitSha": "bb3e6a0b",
-          "sourceContentHash": "sha256:9aa75ab5aaf39eb6",
-          "sourceBodyHash": "sha256:4a2bc57ff97cab00",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
-          "translationLastCommit": "480c6c9d",
-          "translationLastModified": "2026-07-07T04:20:20+08:00",
-          "inferred": false,
-          "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
@@ -4172,18 +4159,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
-          "translatedFrom": "Economy/台灣產業轉型升級.md",
-          "sourceCommitSha": "d6377e82e",
-          "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
-          "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "26a727c9",
-          "translationLastModified": "2026-07-24T15:47:25+08:00",
-          "inferred": false,
-          "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -4380,18 +4356,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Economy/taiwan-uniform-invoice.md",
-          "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "4a923c640",
-          "sourceContentHash": "sha256:3de7677c1cc54d07",
-          "sourceBodyHash": "sha256:1962c2279b937909",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -5985,16 +5950,16 @@
         "en": {
           "path": "en/Economy/taiwan-fintech-development.md",
           "translatedFrom": "Economy/台灣金融科技發展.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:c4241632c676aa85",
-          "sourceBodyHash": "sha256:b0709e8ad615db88",
-          "translatedAt": "2026-05-17T06:10:00Z",
-          "translationLastCommit": "3521fd77",
-          "translationLastModified": "2026-05-17T06:34:49+08:00",
+          "sourceCommitSha": "879ed9e77",
+          "sourceContentHash": "sha256:54da57abafa311d1",
+          "sourceBodyHash": "sha256:eb1efaa0a4f468ff",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
+          "translationLastCommit": "f797335b",
+          "translationLastModified": "2026-07-24T18:52:59+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-fintech-development.md",
@@ -6464,20 +6429,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Economy/circular-economy-and-resource-recycling.md",
-          "translatedFrom": "Economy/台灣循環經濟與資源再利用.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:d8fda6edab5e4cc6",
-          "sourceBodyHash": "sha256:f3027d8d17d75948",
-          "translatedAt": "2026-05-15T13:52:05+08:00",
-          "translationLastCommit": "3147a527",
-          "translationLastModified": "2026-05-15T14:22:09+08:00",
-          "inferred": false,
-          "footnoteDefs": 8,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Economy/circular-economy-and-resource-recycling.md",
@@ -12017,18 +11969,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Technology/computex-taipei.md",
-          "translatedFrom": "Technology/Computex.md",
-          "sourceCommitSha": "52389a7cb",
-          "sourceContentHash": "sha256:c2deb4a945d2dc5b",
-          "sourceBodyHash": "sha256:a4c6e70e74235d09",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 60,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -13499,18 +13440,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Technology/justfont-and-taiwan-typography.md",
-          "translatedFrom": "Technology/justfont與台灣字體發展.md",
-          "sourceCommitSha": "e773ef6b0",
-          "sourceContentHash": "sha256:6e31a2264dcded4f",
-          "sourceBodyHash": "sha256:dcea1d33e3c8824c",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 65,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Technology/justfont-and-taiwan-typography.md",
@@ -20641,20 +20571,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Lifestyle/transportation-system.md",
-          "translatedFrom": "Lifestyle/台灣交通系統.md",
-          "sourceCommitSha": "755eeda4",
-          "sourceContentHash": "sha256:beaa2c8eefc377c5",
-          "sourceBodyHash": "sha256:7b8c052d67180597",
-          "translatedAt": "2026-06-26T00:40:00+08:00",
-          "translationLastCommit": "5bc8a207",
-          "translationLastModified": "2026-06-26T00:56:22+08:00",
-          "inferred": false,
-          "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Lifestyle/transportation-system.md",
@@ -25119,18 +25036,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Society/taiwan-generations.md",
-          "translatedFrom": "Society/台灣的年級生世代.md",
-          "sourceCommitSha": "805200859",
-          "sourceContentHash": "sha256:1b3e5e3f22f40ead",
-          "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Society/taiwan-generations.md",
@@ -26730,18 +26636,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Society/i-am-from.md",
-          "translatedFrom": "Society/我是OO人.md",
-          "sourceCommitSha": "72dc7d1dc",
-          "sourceContentHash": "sha256:5d890c10b178421f",
-          "sourceBodyHash": "sha256:0b63d09474dfeccb",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -27333,20 +27228,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Society/taiwan-disaster-volunteer-culture.md",
-          "translatedFrom": "Society/台灣災難志工文化.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:2758b5b1f9c739df",
-          "sourceBodyHash": "sha256:5c5a60eea00bbc8d",
-          "translatedAt": "2026-06-16T17:03:25Z",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Society/taiwan-disaster-volunteer-culture.md",
@@ -27416,18 +27298,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Society/taiwan-disaster-volunteer-culture.md",
-          "translatedFrom": "Society/台灣災難志工文化.md",
-          "sourceCommitSha": "ae0bea081",
-          "sourceContentHash": "sha256:c3e60eb6650d8dfb",
-          "sourceBodyHash": "sha256:260082957a9cf952",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 15,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -27608,18 +27479,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Society/paraguay-taiwan.md",
-          "translatedFrom": "Society/巴拉圭與台灣.md",
-          "sourceCommitSha": "72a8b4432",
-          "sourceContentHash": "sha256:01affe2533530c02",
-          "sourceBodyHash": "sha256:21c703a5d9235d48",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -30660,7 +30520,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-slash-generation-multi-job-economy.md",
+          "translatedFrom": "Society/台灣斜槓世代.md",
+          "sourceCommitSha": "b6f8b00d8",
+          "sourceContentHash": "sha256:f40c65ff14acd5cb",
+          "sourceBodyHash": "sha256:7fc8e0dbb23602c5",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "76816a48",
+          "translationLastModified": "2026-07-24T18:48:14+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -31169,18 +31040,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/About/why-taiwan-needs-its-own-knowledge-base.md",
-          "translatedFrom": "About/為什麼台灣需要自己的知識庫.md",
-          "sourceCommitSha": "b7dd78637",
-          "sourceContentHash": "sha256:20046b0bdaf571de",
-          "sourceBodyHash": "sha256:43aaf2c0f446a093",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/About/why-taiwan-needs-its-own-knowledge-base.md",
@@ -61107,18 +60967,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Food/taiwan-food-overview.md",
-          "translatedFrom": "Food/台灣美食總覽.md",
-          "sourceCommitSha": "53dd93dd8",
-          "sourceContentHash": "sha256:4e63535e7555a67e",
-          "sourceBodyHash": "sha256:607f80fde520e7fc",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 70,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Food/taiwan-food-overview.md",
@@ -63054,18 +62903,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Food/taiwan-banquet-culture.md",
-          "translatedFrom": "Food/台灣辦桌文化.md",
-          "sourceCommitSha": "26a67c779",
-          "sourceContentHash": "sha256:87996856be7f510f",
-          "sourceBodyHash": "sha256:dc734b24b423e098",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Food/taiwan-banquet-culture.md",
@@ -63135,18 +62973,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Food/taiwan-banquet-culture.md",
-          "translatedFrom": "Food/台灣辦桌文化.md",
-          "sourceCommitSha": "26a67c779",
-          "sourceContentHash": "sha256:87996856be7f510f",
-          "sourceBodyHash": "sha256:dc734b24b423e098",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"

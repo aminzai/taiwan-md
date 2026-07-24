@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-07-24T08:18:50.152Z",
+  "_generated": "2026-07-24T11:57:46.275Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -276,6 +276,24 @@
     ],
     "en": [
       {
+        "title": "Mini Taiwan Pulse: Drawing Taiwan as a Breathing Map Through a Curator's Eye",
+        "desc": "In 2026, data analyst Migu layered Taiwan's scattered open data on aircraft, ships, trains, buses, and garbage trucks into a breathing map. AI handles the drudgery of retrieving data, but deciding which layers belong together, what colors to use, and which layer should light up depends on a curator's eye trained in urban planning.",
+        "category": "technology",
+        "href": "/en/technology/mini-taiwan-pulse-civic-tech",
+        "date": "2026-07-24T18:09:37+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/mini-taiwan-pulse-map-2026.webp"
+      },
+      {
+        "title": "MediaTek: From Shanzhai King to Chip Throne",
+        "desc": "The company mocked as the 'king of knockoff phones' now outsells Qualcomm in smartphone chips by a factor of 1.5",
+        "category": "economy",
+        "href": "/en/economy/mediatek",
+        "date": "2026-07-24T18:09:37+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
         "title": "Four Measures Beyond Blue and Green: From a Plot of Land to a National Health Insurance Card, the Taiwan Policies That Outlived Their Own Politics",
         "desc": "A reader, tired of blue-green bickering at the dinner table, wanted to remember the things that truly helped Taiwan. So we found eleven policies from the past seventy years, from land reform that coercively expropriated farmland under authoritarian rule, the lifting of martial law, and National Health Insurance, to same-sex marriage and the Forward-looking Infrastructure Development Program, both still contested. We deliberately set aside the blue-green yardstick and used four measures instead: livelihood, democracy, civil rights, and sovereignty. The conclusion is a little counterintuitive: policies that outlive their own partisan origins are often the ones that were most fiercely contested on the day they were born.",
         "category": "history",
@@ -465,15 +483,6 @@
         "image": "/article-images/geography/kinmen-hero.webp"
       },
       {
-        "title": "Lienchiang County: The County Farthest from Taiwan, and Closest to the Cold War",
-        "desc": "Looking out from the mountaintop on Nangan, Fuzhou lies just 16 kilometers away. Taipei is 200 kilometers away, and the Lienchiang county seat is on the Communist side. In 1617, Shen Yourong captured 69 wokou pirates alive below Dongju’s hills; in 1956, the ROC military turned these five islands into a warzone administration area; in 1992, Kinmen and Matsu lifted martial law five years later than Taiwan. Today, 13,646 people live here; the attrition rate of the Matsu language is 94%; and the only gambling referendum ever passed in Taiwan, in 2012, has still led nowhere. Blue tears bring 200,000 tourists a year, but locals remember blackout controls. A county of 28.8 square kilometers compresses Taiwan’s Cold War history onto itself.",
-        "category": "geography",
-        "href": "/en/geography/lienchiang-county",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 15,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Matsu_Montage.png/560px-Matsu_Montage.png"
-      },
-      {
         "title": "Miaoli County: A Hakka Stubborn-Spirited County That Elected a Magistrate Who More Than Doubled Its Debt in Eight Years",
         "desc": "During the Japanese period, Miaoli accounted for 95% of Taiwan's camphor output, and Sanyi built its woodcarving industry from the roots left after camphor refining. In 2002, Beihe Village in Gongguan held the first Tung Blossom Festival. In 2008, Liu Cheng-hung took over a county with NT$20.2 billion in debt; by the time he left office in 2014, the books showed NT$67.6 billion. In between came Zhu Feng-min drinking pesticide, the forced demolition of Chang Pharmacy, and the NT$120 million Hakka Round House becoming a mosquito hall. Today, 530,000 people live in this county, whose 62.5% Hakka population share is Taiwan's second highest.",
         "category": "geography",
@@ -535,15 +544,6 @@
         "date": "2026-07-23T22:29:23+09:00",
         "readingTime": 16,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/National_Taichung_Theater_20180317.jpg/1280px-National_Taichung_Theater_20180317.jpg"
-      },
-      {
-        "title": "Tainan City: 261 Years as Capital, 400 Years of Monuments, and 21st-Century Chips Layered on the Same Land",
-        "desc": "In 1624, the Dutch began building Fort Zeelandia on the dunes of Tayouan; on February 1, 1662, Frederik Coyett signed the surrender papers in that fort, and on February 9 left the beach with 2,000 Dutch people. In 1665, Chen Yonghua built the Confucius Temple, later known as Taiwan's First Academy. In 1684, the Qing court established Taiwan Prefecture in present-day Tainan; in 1885 Taiwan became a province, the provincial capital moved north to Taipei, and Tainan's 261-year status as capital ended. At noon on March 13, 1947, Tang Te-chang was bound, forced onto a truck at Minsheng Green Park, paraded through the streets, and then three gunshots rang out. On December 25, 2010, city-county merger created 37 districts and a population of 1.86 million. In 2023, Southern Taiwan Science Park's annual revenue reached NT$1.5 trillion, surpassing Hsinchu Science Park. Three layers of history press down on the same middle stretch of the Chianan Plain.",
-        "category": "geography",
-        "href": "/en/geography/tainan-city",
-        "date": "2026-07-23T22:29:23+09:00",
-        "readingTime": 18,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Anping_Fort_1.JPG/1280px-Anping_Fort_1.JPG"
       }
     ],
     "ja": [
