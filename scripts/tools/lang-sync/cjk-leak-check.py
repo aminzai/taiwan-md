@@ -64,6 +64,12 @@ ZH_ONLY_MARKERS = [
 CJK_RUN_RE = re.compile(r"[一-鿿]{4,}")
 NON_CJK_SCRIPT_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi"}
 
+# 括號 gloss 豁免 span：全形（）與半形 () 都認（2026-07-24 前只認半形——
+# zh-TW 源文與模型鏡射的標準標點是全形，整批好譯文被誤判 leak 反覆重翻，
+# nemotron 實測 ~85% "leak" gate-fail 多為此假陽性）。內容上限 30 字：
+# 命名 gloss（人名／機構／書名＋對照拼音）在界內，整句洩漏不會躲在括號裡。
+PAREN_GLOSS_RE = re.compile(r"[(（][^()（）]{0,30}[)）]")
+
 
 def detect_lang(path: Path) -> str:
     parts = path.parts
@@ -96,11 +102,10 @@ def scan_file(path: Path, lang: str = None):
         body = re.sub(r"\[[^\]]*\]\([^)]*\)", "", body)          # [text](url)
         body = re.sub(r"^\[\^[^\]]+\]:.*$", "", body, flags=re.MULTILINE)  # [^n]: ...
 
+        gloss_spans = [g.span() for g in PAREN_GLOSS_RE.finditer(body)]
         for m in CJK_RUN_RE.finditer(body):
             start, end = m.span()
-            before = body[max(0, start - 1):start]
-            after = body[end:end + 1]
-            if before == "(" and after == ")":
+            if any(s < start and end < e for s, e in gloss_spans):
                 continue
             ctx = body[max(0, start - 20):end + 20].replace("\n", " ")
             hits.append(f"CJK run {m.group(0)!r} (e.g. …{ctx}…)")
