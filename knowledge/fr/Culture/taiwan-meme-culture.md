@@ -1,173 +1,141 @@
 ---
-title: 'Quand les blessures sociales deviennent une guérison collective : le mécanisme de soupape de sécurité de la culture mémétique taïwanaise'
-description: "De « Jie-ge, non ! » à « Tsung-Shen porte la fondue », les mèmes taïwanais ne sont pas qu'un divertissement : ils constituent un système sophistiqué de décompression sociale, transformant gêne, traumatismes et anxiétés en rituels collectifs de guérison."
-date: 2026-03-24
+title: 'Mèmes taïwanais : Trente ans d’évolution culturelle, des utilisateurs de PTT au soupape de sécurité sociale'
+description: 'Les mèmes taïwanais ne sont pas de simples blagues Internet, mais une expérience de création collective s’étendant sur trois décennies. De l’alchimie linguistique des forums anonymes de PTT à la guérison collective sociale de « Jeger, ne pas ! », en passant par des cas classiques tels que « Shangba » et le « Pangolin », les mèmes taïwanais ont évolué vers un mécanisme unique de « soupape de sécurité sociale », transformant l’embarras, le traumatisme et l’anxiété politique en symboles culturels assumés collectivement.'
+date: 2026-07-23
+author: 'Taiwan.md Contributors'
+category: 'Culture'
+subcategory: '網路文化'
 tags:
   [
-    'mèmes',
-    'culture numérique',
-    'spécificité taïwanaise',
+    'Mèmes',
+    'Culture Internet',
     'PTT',
-    'médias sociaux',
+    'Komica',
+    'Soupape de sécurité sociale',
+    'Mèmes classiques',
   ]
-subcategory: '網路文化'
-author: 'Taiwan.md Contributors'
-readingTime: 8
-featured: false
-lastVerified: 2026-03-24
-lastHumanReview: false
-translatedFrom: Culture/台灣迷因.md
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:b8e2ae4ba4b5e3d9'
-sourceBodyHash: 'sha256:971e379fee29d9f0'
-translatedAt: 2026-05-01T22:19:06+08:00
-category: Culture
+readingTime: '12'
+lastVerified: '2026-07-23'
+lastHumanReview: 'false'
+featured: 'false'
+translatedFrom: 'Culture/台灣迷因.md'
+sourceCommitSha: '1b3c22ac7'
+sourceContentHash: 'sha256:21f968d51e24c095'
+sourceBodyHash: 'sha256:758baf07e7746d38'
+translatedAt: '2026-07-24T22:03:25+08:00'
 ---
 
-# Quand les blessures sociales deviennent une guérison collective : le mécanisme de soupape de sécurité de la culture mémétique taïwanaise
+> **En 30 secondes :** En 1995, un ordinateur 486 installé dans le dortoir masculin No. 8 de l’Université de Taïwan a donné naissance à PTT, ouvrant par inadvertance la préhistoire des mèmes taïwanais. Au cours de ces trente dernières années, les mèmes taïwanais sont passés du langage subculturel des forums anonymes à un mécanisme social traitant les traumatismes collectifs (comme « Jeger, ne pas ! ») et l’anxiété politique. Dotés d’une « originalité locale » unique et d’une « critique non conflictuelle », ils constituent, à travers des cas classiques tels que « Shangba », le « Pangolin » et « Pas de trucs cochons », la soupape de décompression la plus ingénieuse de la société taïwanaise face aux pressions systémiques.
 
-> _« Jie-ge, non ! » — une réplique initialement grave tirée d'un film d'éducation sexuelle, transformée par les internautes taïwanais en d'innombrables moments de liesse collective. Ce n'est pas une moquerie envers les victimes, mais un mécanisme de guérison propre à la société taïwanaise : transformer une douleur indicible en un rire que l'on peut porter ensemble._
+# Mèmes taïwanais : Trente ans d’évolution culturelle, des utilisateurs de PTT au soupape de sécurité sociale
 
-## Retour sur scène : de la salle de classe au voyage fantastique du web entier
+En 2013, une vidéo de prévention contre les agressions sexuelles réalisée par le Ministère de l’Éducation, _Si l’on avait su que les garçons pouvaient aussi être victimes d’agressions sexuelles_, a provoqué un raz-de-marée dans les communautés Internet taïwanaises avec la phrase initialement lourde de sens « Jeger, ne pas ! » (Jeger, ne le fais pas). Cette phrase, qui portait initialement une mission éducative, est rapidement devenue, grâce à la créativité des internautes, un mème pérenne. Il a même franchi la barre des 27 millions de vues sur Bilibili en 2021 et a été adapté en jeu Steam et en comédie musicale [^1]. Il ne s’agit pas de se moquer des victimes, mais bien du mécanisme central de la culture des mèmes taïwanais : sublimer les douleurs sociales indicibles en rires partagés.
 
-Imaginez la scène : en 2012, le ministère de l'Éducation tourne un court-métrage de prévention des agressions sexuelles intitulé _Si j'avais su que les garçons pouvaient aussi être agressés sexuellement_. La réplique « Jie-ge, bu yao la » (« Jie-ge, non ! ») portait à l'origine une lourde mission pédagogique. Mais lorsque la vidéo est mise en ligne sur YouTube en 2013, cette phrase entame un voyage fantastique.
+## Origines historiques : PTT et l’alchimie du langage
 
-Les internautes créent des versions accélérées, des versions épurées, voire une version « Xie Jin-yan en boucle ». En 2021, la vidéo est retransférée sur Bilibili et dépasse les 27 millions de vues. Plus remarquable encore : ce mème ne reste pas cantonné au web — il devient une comédie musicale, puis est adapté en jeu sur Steam.
+Les racines des mèmes taïwanais remontent au PTT (Ptt BBS) du milieu des années 1990 et à Komica (K-Island), fondée en 2005 [^9] [^6]. Dans ces espaces numériques anonymes, les internautes taïwanais ont développé un système linguistique unique, jetant les bases de la culture des mèmes :
 
-Ce n'est pas un cas isolé. De « Par temps de typhon, il faut faire du canoë ! Sinon quoi d'autre ? » lors du typhon Linfa en 2015, à la vague de liens piégés « Tsung-Shen porte la fondue » en 2020, en passant par les slogans politiques de Han Kuo-yu — « Faire fortune ! » (_fa da cai_), « Pauvre lui ! » (_ke lian na_) —, la culture mémétique taïwanaise révèle un phénomène singulier : **plus un contenu est gênant ou traumatique, plus il a de chances de devenir matière à liesse nationale**.
+1. **La culture des commentaires (Tuiwen)** : Création du maximum d’effet comique avec un texte extrêmement concis, donnant naissance aux premiers « mèmes textuels ».
 
-**Note du curateur #1** : _Cette capacité à « transformer les blessures en lumière » est la qualité la plus fascinante de la culture numérique taïwanaise. Nous ne nous moquons pas des victimes ; nous utilisons la puissance créative collective pour transformer une réalité difficile à digérer en symboles culturels que l'on peut porter ensemble._
+2. **Homophonie et traduction** : Comme « Dingding est un talent » ou « Qu’est-ce que tu cries ? » [^4], réassemblage décontextualisé de matériel audiovisuel.
 
-## De PTT à TikTok : la trajectoire évolutive des mèmes taïwanais
+3. **Intelligence collective née de l’anonymat** : La forme de K-Island, qui imite le 5ch japonais, met l’accent sur une création purement « purement anonyme », complétant la « culture des utilisateurs de PTT » à dimension sociale [^2] [^3].
 
-Les racines de la culture mémétique taïwanaise remontent à la culture _xiangmin_ (citoyens) de PTT, le plus grand forum en ligne de Taïwan. Dans cet espace numérique anonyme, les internautes taïwanais ont développé un système linguistique unique :
+📝 **Note du conservateur #1** : L’origine des mèmes taïwanais n’est pas visuelle, mais « linguistique ». Nous sommes doués pour capturer le rythme et l’absurdité des dialogues pour les transformer en outils linguistiques réutilisables, ce qui explique pourquoi de nombreux mèmes classiques sont étroitement liés à la « voix » ou au « ton ».
 
-- **La culture des _tuiwen_ (commentaires empilés)** : créer un effet comique maximal avec un texte minimal
-- **La tradition du _baogua_ (révélation explosive)** : transformer rapidement un événement social en discussion collective
-- **La justice _xiangmin_** : une critique sociale enveloppée d'humour
+## Caractéristiques centrales : Pourquoi les mèmes taïwanais sont « différents » ?
 
-Ce patrimoine culturel s'est encore affiné à l'ère des médias sociaux. Contrairement aux mèmes occidentaux, souvent issus de « retouches d'images libres de droits », les mèmes taïwanais se distinguent par une **originalité locale** et une **dimension critique sociale** plus fortes :
+Contrairement aux mèmes occidentaux issus majoritairement de la retouche d’images gratuites (Image Macro), les mèmes taïwanais font preuve d’une forte **originalité locale** et d’une **critique sociale** [^4]. Ils ne se limitent pas au collage d’images, mais constituent une réponse profonde au contexte social taïwanais. Le tableau ci-dessous résume les caractéristiques des mèmes taïwanais selon leurs différentes phases de développement :
 
-| Caractéristiques des mèmes occidentaux   | Caractéristiques des mèmes taïwanais                |
-| ---------------------------------------- | --------------------------------------------------- |
-| Retouche visuelle d'images               | Créativité linguistique et recréation de situations |
-| Expression humoristique individuelle     | Commentaire social à résonance collective           |
-| Diffusion virale orientée divertissement | Pratique culturelle orientée guérison               |
-| Cycle de popularisation commerciale      | Croissance organique par le bas                     |
+| Phase de développement                     | Plateforme centrale | Caractéristiques des mèmes                                          | Cas classiques                                             |
+| ------------------------------------------ | ------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Ère préhistorique (1995-2005)              | PTT / BBS           | Jeux de mots, art ASCII                                             | 5566 Premier, Merci d’ajouter un commentaire au 5ème étage |
+| Émergence audiovisuelle (2006-2012)        | YouTube / K-Island  | Retouches de captures d’écran, détournement de dialogues            | Jeger, ne pas !, Qu’est-ce que tu cries ?                  |
+| Expansion sociale (2013-2019)              | Facebook / LINE     | Satire politique, images de « grands-parents », blagues d’actualité | Frère Fan Zhou, Prospérité, Pauvre toi                     |
+| Évolution des plateformes (2020-à présent) | Threads / IG        | Musicalisation, vidéos courtes, résonance quotidienne               | Shangshen porte le fondue, Calme et maîtrisé               |
 
-**Note du curateur #2** : _La « longévité thermique » des mèmes taïwanais est particulièrement frappante. « Jie-ge, non ! » est passé de 2013 à 2026 sans prendre une ride ; le « canoë guy » est réinvoqué à chaque typhon. Ce n'est pas un simple « retour à la mode », mais l'expression d'un besoin culturel profond qui continue de s'exprimer._
+### 1. Une « radicalité douce » de « la moquerie sans cible »
 
-## Le cœur contre-intuitif : le mème comme soupape de sécurité sociale
+Les mèmes taïwanais adoptent souvent une stratégie particulière : ils pointent du doigt les problèmes systémiques tout en les exprimant de manière non conflictuelle. Par exemple, les « Pauvre toi » ou « Prospérité » à l’égard des figures politiques, bien que satiriques, tendent davantage à dissoudre la gravité politique en banalités quotidiennes [^3]. Cet humour permet à la critique de se diffuser dans un climat relativement harmonieux.
 
-Voici un point de vue contre-intuitif : **les mèmes taïwanais ne sont pas un sous-produit du divertissement, mais le mécanisme principal d'une soupape de sécurité sociale**.
+### 2. Le mécanisme de décompression de la soupape de sécurité sociale
 
-Lorsque la société fait face aux situations suivantes, les mèmes s'activent automatiquement :
+C’est une perspective contre-intuitive : **les mèmes taïwanais constituent le mécanisme principal de la soupape de sécurité sociale**. Lorsque le public fait face à l’incapacité des autorités, à l’absurdité des médias (comme les réponses absurdes de Frère Fan Zhou aux interviews de rue [^5]) ou à l’anxiété économique, les mèmes offrent un espace de « farce inoffensive », permettant à la pression sociale d’être libérée sans provoquer de conflits physiques [^3].
 
-1. **Défaillance de l'autorité** : les propos aberrants de personnalités politiques (la série Han Kuo-yu)
-2. **Situations éducatives embarrassantes** : l'exécution maladroite d'un film d'éducation sexuelle (« Jie-ge, non ! »)
-3. **Absurdité médiatique** : les micro-trottoirs décalés par temps de typhon (le « canoë guy »)
-4. **Anxiété économique** : le sentiment d'impuissance face aux prix immobiliers élevés et aux bas salaires (l'« esthétique économique » de Monsieur Pxmart)
+## Analyse des cas classiques : La localisation et la résonance sociale des mèmes
 
-Le point commun de ces mèmes : ils renvoient tous à des **problèmes systémiques** de la société taïwanaise, mais expriment le mécontentement d'une manière **non conflictuelle**.
+La vitalité des mèmes taïwanais provient souvent de leur capture précise des événements locaux et du contexte. Les cas classiques suivants montrent comment les mèmes naissent d’événements spécifiques et génèrent une résonance sociale large :
 
-Prenons l'exemple de « Tsung-Shen porte la fondue ». Cette vidéo, réalisée en 2020, est devenue une vague de liens piégés en février 2021, à une période où Taïwan traversait une phase d'incertitude épidémique et économique accrue. Les internautes, en « piégeant des clics », créaient de petites farces collectives — en réalité, **ils libéraient la pression sociale de manière inoffensive**.
+### « Il a frappé mon menton » [^12]
 
-## Mèmes taïwanais vs. mèmes internationaux : les différences d'ADN culturel
+En 2018, lors d’un reportage de l’agence Newsview sur la « vague de conflits fonciers à Tai’an », un interviewé a déclaré avec émotion : « Il a simplement donné un coup de poing et a frappé mon « menton » (Shangba) ». Cette déclaration, marquée par un accent local et une erreur physiologique, est devenue virale sur Internet en raison de son absurdité, devenant la phrase classique pour décrire les chocs inattendus ou les événements absurdes. Il ne s’agit pas seulement d’un décalage linguistique, mais reflète également l’expression authentique des émotions des parties prenantes dans les événements médiatiques et la localité de l’expression linguistique.
 
-La culture mémétique taïwanaise présente plusieurs caractéristiques uniques en comparaison internationale :
+### « Hé ! C’est un pangolin ! Peut-on l’élever ? » [^13]
 
-### 1. **L'explosion de la créativité linguistique**
+En 2020, un internaute nommé Lin a rencontré un pangolin à vélo de nuit et a crié avec excitation à ses amis : « Hé ! C’est un pangolin ! Ouah ! », « Peut-on l’élever ? ». Cette vidéo, grâce à sa réaction authentique et absurde, ainsi qu’à la surprise et la curiosité face à cette espèce protégée endémique de Taïwan, est rapidement devenue un mème. Elle montre non seulement la proximité des Taïwanais avec la faune sauvage, mais aborde également avec humour la frontière des relations entre les humains et la nature à travers la question « Peut-on l’élever ? ».
 
-Le Japon privilégie **l'exécution parfaite des détails**, les États-Unis préfèrent **la concision du choc visuel**, tandis que Taïwan excelle dans **la variation du rythme linguistique**. Des phrases comme « Qu'est-ce que tu cries si fort ! » (_Ni zai da sheng shen me la !_) ou « Il se passe quelque chose, ah-pè ! » (_Chu shi le a bei !_) possèdent un rythme phonétique distinctif, sont faciles à retenir et chargées d'émotion.
+### « Pas de trucs cochons » [^14]
 
-### 2. **La satire politique entre douceur et radicalité**
+En 2021, une image montrant le chien Shiba Inu PONSAN assis dans un panier d’achat, l’air委屈 (lèsé), avec l’inscription « Pas de trucs cochons », a rapidement envahi les réseaux Internet taïwanais et hongkongais. Ce mème « kawaiiise » le mot « trucs cochons » (sexuel), initialement péjoratif, à travers l’image mignonne du Shiba Inu, le transformant en une expression humoristique de rappel ou d’autocontrôle. Il a donné naissance aux « batailles de cartes sexuelles » au style Yu-Gi-Oh !, reflétant également le traitement léger et l’exploration des limites par les communautés Internet des questions liées à la sexualité.
 
-Contrairement à l'attaque politique frontale des mèmes américains ou à l'« humour autodérisif » japonais, les mèmes taïwanais adoptent une stratégie de **« taquinerie sans cibler »**. On dira de Han Kuo-yu qu'il est « pauvre lui ! », mais les mèmes malveillants à caractère personnel restent rares.
+### « C’est arrivé, Grand-père ! » [^11]
 
-### 3. **La pratique culturelle de la guérison collective**
+Ce mème provient d’une vidéo Internet où un témoin d’un accident de la circulation crie anxieusement à un passant qui semble être un aîné : « C’est arrivé, Grand-père ! ». En raison de l’urgence du ton et de la localité du terme « Grand-père » (Abbei), il s’est rapidement propagé sur Internet, devenant la phrase classique pour décrire les situations inattendues ou pour attirer l’attention des autres. Il capture le mode d’interaction direct et chaleureux entre les personnes dans la société taïwanaise, conservant une touche d’humanité même dans les situations d’urgence.
 
-C'est peut-être la fonction la plus singulière des mèmes taïwanais. Nous utilisons les mèmes pour traiter les **traumatismes collectifs** (le mème du « rachat à bas prix » lors de l'effondrement de FTX), l'**anxiété sociale** (les mèmes sur l'immobilier), les **conflits générationnels** (la série « Les jeunes ne font pas d'efforts »).
+📝 **Note du conservateur #2** : La « persistance de la popularité » des mèmes taïwanais est particulièrement surprenante. De nombreux mèmes continuent d’être remodelés après plusieurs années ; il ne s’agit pas d’un simple « retour à la mode », mais d’une demande culturelle profonde qui continue de s’exprimer, réinterprétant constamment les questions sociales à travers les mèmes.
 
-**Note du curateur #3** : _Si les mèmes américains relèvent de « l'expression individuelle » et les mèmes japonais de « l'harmonie de groupe », alors les mèmes taïwanais relèvent de la « thérapie collective ». Nous ne faisons pas que créer des moments drôles : nous pratiquons une forme de psychothérapie culturelle._
+## Fonction culturelle : De la transformation du traumatisme à la guérison
 
-## Tendances récentes 2024-2026 : de la statique au visuel dynamique
+La particularité la plus unique des mèmes taïwanais réside dans leur capacité à traiter les **traumatismes collectifs**. En 2020, le lien de pêche « Shangshen porte le fondue » est devenu viral, créant un sentiment de synchronicité collective parmi tous les internautes taïwanais à travers une petite farce de « lien trompeur » dans un contexte de tension pandémique et d’incertitude économique croissante [^2]. Cette résonance de « nous nous sommes tous fait avoir » dissout implicitement le sentiment d’isolement dans la vie réelle.
 
-Ces dernières années, la culture mémétique taïwanaise a vu émerger de nouvelles tendances :
+## Le côté sombre des mèmes : La fine ligne entre guérison et division
 
-### **L'essor des mèmes musicalisés**
+Bien que les mèmes taïwanais possèdent de puissantes fonctions de guérison et sociales, leur développement s’accompagne de risques potentiels. Le caractère divertissant des mèmes peut entraîner une **dérive des sujets**, détournant l’attention du public des questions politiques qui devraient faire l’objet de discussions citoyennes vers des fragments d’information, masquant ainsi la gravité des problèmes [^3]. De plus, les algorithmes des réseaux sociaux peuvent renforcer **l’effet de chambre d’écho**, exacerbant la division sociale plutôt que de favoriser la compréhension. Lorsque les mèmes sont excessivement commercialisés, ils peuvent également perdre leur fonction de guérison originale, devenant de purs symboles de consommation [^3].
 
-- « Il y a une voiture derrière toi ! » de E.SO (瘦子) devient viral grâce à son effet dramatique intense
-- Le format court de TikTok accélère la « musicalisation » des mèmes
-- Passage de l'image fixe au contenu audiovisuel dynamique
+## Conclusion : Les mèmes comme miroir de la culture taïwanaise
 
-### **L'héritage mémétique intergénérationnel**
-
-- Monsieur Pxmart (邱彥翔) évolue de l'« esthétique économique » à l'image hip-hop de « Monsieur e-commerce »
-- Les mèmes classiques sont « réinterprétés » sur de nouvelles plateformes (la version comédie musicale de « Jie-ge, non ! »)
-
-### **L'accélération de la mémétisation des enjeux sociaux**
-
-- Les événements politiques (la controverse du discours de Ko Wen-je à l'université de Tōhō) génèrent rapidement du matériel mémétique
-- Les célébrités du web comme « Chicken Sister » (雞排妹) deviennent des « machines à produire des mèmes »
-
-## Pourquoi les Taïwanais sont-ils particulièrement doués pour rendre le sérieux hilarant ?
-
-Ce phénomène s'enracine dans des origines culturelles profondes :
-
-### **La résilience créative de l'insularité**
-
-En tant que culture insulaire, Taïwan a longtemps évolué dans un environnement de **conflits multiculturels** et de **pressions extérieures**. Nous avons développé une sagesse de survie où « tout peut faire l'objet d'une plaisanterie », utilisant l'humour comme **amortisseur culturel**.
-
-### **Le sous-produit de la démocratisation**
-
-Après la levée de la loi martiale à Taïwan, « oser rire de l'autorité » est devenu un indicateur important de démocratisation. La culture mémétique est, en un sens, une **pratique quotidienne de la culture démocratique** — exprimer une mise en question du pouvoir par la raque plutôt que par la révolution.
-
-### **La création collective des natifs du web**
-
-La génération PTT a cultivé une « intelligence collective » qui rend les internautes taïwanais particulièrement doués pour la **création en relais**. Un mème passe entre les mains de différents internautes qui le font évoluer sans cesse, jusqu'à devenir un produit culturel qui dépasse l'œuvre originale.
-
-## La face sombre du mème : la ligne fine entre guérison et fracture
-
-Cependant, la culture mémétique comporte aussi ses risques :
-
-### **Le problème de la dérive thématique**
-
-Comme l'analyse PTS+, les mèmes « déplacent souvent l'attention du public et l'opinion des questions politiques qui devraient faire l'objet de débats citoyens vers des informations plus fragmentaires ». Le caractère divertissant peut masquer la gravité des problèmes.
-
-### **Le renforcement de l'effet de bulle**
-
-Les algorithmes des médias sociaux créent un « effet d'écho » autour des mèmes au sein de groupes spécifiques, ce qui peut approfondir les divisions sociales plutôt que de favoriser la compréhension.
-
-### **Le risque de commercialisation des traumatismes**
-
-Lorsque les mèmes sont sur-commercialisés, ils peuvent perdre leur fonction de guérison originelle et devenir de purs symboles de consommation.
-
-## Conclusion : le mème comme miroir de la culture taïwanaise
-
-La culture mémétique taïwanaise reflète la complexité de notre société : une abondance de créativité, mais aussi une tendance à l'évitement ; une sagesse collective manifeste, mais aussi des problèmes structurels exposés.
-
-Mais par-dessus tout, elle prouve une capacité unique des Taïwanais face à l'adversité : **transformer les blessures en lumière, élever la douleur individuelle au rang de guérison collective**. En ce sens, « Jie-ge, non ! » n'est pas qu'un mème — c'est un microcosme du mécanisme émotionnel de la société taïwanaise. Nous portons ensemble notre vulnérabilité par le rire partagé.
+En regardant en arrière sur ces trente années, la culture des mèmes taïwanais reflète la complexité de cette île. Elle est à la fois l’émergence de la créativité et la sublimation de l’impuissance face aux problèmes structurels. Des commentaires textuels purs de PTT aux vidéos courtes de Threads aujourd’hui, les formes changent, mais le cœur reste le même : **nous assumons collectivement notre vulnérabilité commune à travers le rire partagé**. À ce titre, les mèmes ne sont pas de simples blagues Internet ; ils constituent la forme de résistance la plus douce et la plus humoristique des Taïwanais face aux difficultés.
 
 ---
 
 ## Pour aller plus loin
 
-- [Mèmes de Ma Ying-jeou](/society/馬英九迷因) — Un cas unique de mème politique : comment 19 mèmes ont constitué un second visage public pour un ancien président
-- [Images de la génération aînée](/culture/長輩圖) — Une autre voie de diffusion des mèmes dans l'écosystème des groupes LINE
-- [PTT (Ptt)](/technology/PTT批踢踢) — La plateforme d'origine de la plupart des mèmes politiques
-- [VTubers taïwanais](/culture/台灣VTuber) — L'extension culturelle des mèmes aux idoles virtuelles
+- [PTT批踢踢](/technology/PTT批踢踢) — Le lieu de naissance de la majorité des mèmes et de la culture des utilisateurs de Taïwan
+
+- [馬英九迷因](/society/馬英九迷因) — Étude de cas classique de la politisation des mèmes
+
+- [長輩圖](/culture/長輩圖) — Un autre chemin de diffusion Internet aux caractéristiques taïwanaises
+
+- [台灣VTuber](/culture/台灣VTuber) — Fusion contemporaine des personnages virtuels et de la culture des mèmes
 
 ---
 
 ## Références
 
-1. [« Jie-ge, non ! » : explorer l'attitude sociale face aux agressions sexuelles sur les hommes à travers le phénomène mémétique - Newtalk](https://newtalk.tw/citizen/view/57727) (2021)
-2. [Tsung-Shen porte la fondue - Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%B5%B1%E7%A5%9E%E7%AB%AF%E7%81%AB%E9%8D%8B) (2023)
-3. [Quelles sont les caractéristiques de la culture mémétique dans les communautés en ligne taïwanaises ? - PTS+](https://issues.ptsplus.tv/articles/1591/) (2024)
-4. [Dossier mème #3 : « Qu'est-ce que tu cries si fort ! » — la culture mémétique à Taïwan - DQ](https://dq.yam.com/post/13088) (2021)
-5. [Zhang Ji-yin (le « canoë guy ») - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E5%90%89%E5%90%9F) (2025)
-6. [Qiu Yan-xiang (Monsieur Pxmart) - Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%82%B1%E5%BD%A5%E7%BF%94) (2025)
-7. [Test en une seconde si t'es un vrai internaute ! Les 10 mèmes communautaires de 2025 - United Daily News](https://udn.com/news/story/7266/8933160) (2025)
-8. [Mèmes taïwanis Ⅰ - Cultiver le mème](https://cultivatememe.moe/taiwan1.html) (2020)
-9. [Les _xiangmin_ sont effrayants — la culture _xiangmin_ de PTT est-elle difficile d'accès ? - Université Shih Hsin](https://shuj.shu.edu.tw/blog/2020/06/29/) (2020)
-10. [C'est quoi un mème, ça se mange ? Grand décryptage des phénomènes viraux de la nouvelle génération - udn Game Corner](https://game.udn.com/game/story/10455/3763286) (2021)
+[^1]: [« Jeger, ne pas ! » : Explorer l’attitude de la société envers l’agression sexuelle des hommes à travers le phénomène des mèmes. (2021). Newtalk News](https://newtalk.tw/citizen/view/57727) — Voir les compléments de données dans le lien original
+
+[^2]: [Shangshen porte le fondue. (2023). Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%B5%B1%E7%A5%9E%E7%AB%AF%E7%81%AB%E9%8D%8B) — Article Wikipédia : Article Wikipédia
+
+[^3]: [Quelles sont les caractéristiques de la culture des mèmes dans les communautés Internet taïwanaises ? (2024). PTS+ Opinion Same or Different](https://issues.ptsplus.tv/articles/1591/) — Voir les compléments de données dans le lien original
+
+[^4]: [【Spécial Mèmes 03】« Qu’est-ce que tu cries ? » La culture des mèmes à Taïwan. (2021). DQ Earth Map Team](https://dq.yam.com/post/13088) — Voir les compléments de données dans le lien original
+
+[^5]: [Zhang Jiyin (Frère Fan Zhou). (2025). Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%90%89%E5%90%9F) — Article Wikipédia : Article Wikipédia
+
+[^6]: [Komica. (2024). Wikipédia](https://zh.wikipedia.org/zh-hant/Komica) — Article Wikipédia : Article Wikipédia
+
+[^7]: [L’origine des mèmes et leur diffusion à Taïwan. (2020). École de Journalisme de l’Université Shih Hsin](https://shuj.shu.edu.tw/blog/2020/06/29/%E8%BF%B7%E5%9B%A0%E7%9A%84%E8%B5%B7%E6%BA%90%E8%88%87%E5%9C%A8%E5%8F%B0%E7%81%A3%E7%9A%84%E6%93%B4%E6%95%A3/) — Voir les compléments de données dans le lien original
+
+[^8]: [【Utilisateurs 1】Les utilisateurs sont si féroces, si effrayants — La culture des utilisateurs de Ptt est-elle difficile d’accès ? (2020). École de Journalisme de l’Université Shih Hsin](https://shuj.shu.edu.tw/blog/2020/06/29/) — Voir les compléments de données dans le lien original
+
+[^9]: [Qu’est-ce qu’un « mème » ? (2023). Blog Newm App](https://www.newm.app/blog/e7a60864e3b) — Voir les compléments de données dans le lien original
+
+[^10]: [Collecte et analyse des cas du phénomène des mèmes sur Internet. (2021). Artech Interpreter](https://medium.com/artech-interpreter/%E7%B6%B2%E8%B7%AF%E7%9A%84%E8%BF%B7%E5%9B%A0%E7%8F%BE%E8%B1%A1%E4%B9%8B%E6%A1%88%E4%BE%8B%E6%94%B6%E9%9B%86%E8%88%87%E5%88%86%E6%9E%90-c9879a8eddef) — Voir les compléments de données dans le lien original
+
+[^11]: [C’est arrivé, Grand-père. (2023). Dictionnaire des mèmes taïwanais](https://itshsinyu.github.io/TWmeme/category.html) — Voir les compléments de données dans le lien original
+
+[^12]: [Origine des mèmes EP2 #Shangba issue du reportage Newsview du 25/03/2018 sur la « vague de conflits fonciers à Tai’an ». (2024). YouTube](https://www.youtube.com/shorts/_cJeDzWYyRc) — Enregistrement vidéo YouTube
+
+[^13]: [« Hé ! C’est un pangolin ! » Épisode 2 ! La personne du mème devient instantanément un homme chaud pour l’accompagner traverser la route. (2021). Liberty Times Net](https://news.ltn.com.tw/news/novelty/breakingnews/3454280) — Rapport Liberty Times Net : Rapport Liberty Times Net
+
+[^14]: [【Pas de trucs cochons】Origine complète du mème | Comment les expressions faciales de Shiba Inu ont envahi les réseaux Internet taïwanais et hongkongais. (2023). Hong Kong Financial News](https://www.hongkongfinancenews.com/%E8%89%B2%E8%89%B2/) — Voir les compléments de données dans le lien original
