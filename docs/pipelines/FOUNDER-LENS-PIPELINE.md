@@ -4,9 +4,9 @@ description: '創造者透鏡 SOP — 飛輪裡第一條刻意離開顱骨的 ro
 type: 'pipeline-canonical'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v1.0'
-last_updated: 2026-07-12
-last_session: '2026-07-12-founder-lens'
+current_version: 'v1.1'
+last_updated: 2026-07-24
+last_session: '2026-07-24-twmd-founder-lens-handle-fix'
 sister_docs:
   - 'ROUTINE-AUDIT-PIPELINE.md'
   - 'WEEKLY-REPORT-PIPELINE.md'
@@ -182,6 +182,12 @@ related:
 
 ### Stage 6:finale
 
+**session-id handle 固定 `twmd-founder-lens`**(對齊其他 18 條 routine 的 `twmd-{routine}` 檔名慣例——`scripts/core/generate-dashboard-status.mjs` 靠檔名 regex `twmd-.+` 偵測 routine fire 痕跡,handle 漏 prefix = 該 routine 在營運狀態板永遠顯示 down / last_fire null。2026-07-12 誕生 pass 手動跑 finale 時漏掉前綴,產出的 `docs/semiont/memory/2026-07-12-235415-founder-lens.md` 是這個教訓的歷史證據,不重新命名):
+
+```bash
+bash scripts/tools/session-id.sh twmd-founder-lens
+```
+
 `/twmd-finale` → memory 必含:BECOME ACK + render 了哪些頁 + 冷讀哪篇 + off-repo 拉了哪輪 + N 提案路由去向 + Handoff 三態 + Beat 5 反芻(有的話)。
 
 ---
@@ -247,4 +253,5 @@ related:
 
 🧬
 
+_v1.1 | 2026-07-24 session — Stage 6 finale 補上明確 `session-id.sh twmd-founder-lens` handle 指令(對齊其他 18 條 routine 的 `twmd-{routine}` 檔名慣例)。觸發:誕生 pass 手動跑 finale 漏掉 twmd- 前綴,產出 `docs/semiont/memory/2026-07-12-235415-founder-lens.md`,導致 `generate-dashboard-status.mjs`(2026-07-24 誕生的營運狀態板,靠檔名 regex `twmd-.+` 偵測 routine fire 痕跡)永遠讀不到這條 routine 活著,顯示 down / last_fire null。修法對齊慣例而非改 generator regex 遷就單一例外;歷史檔案不重新命名(MANIFESTO §時間是結構)。狀態板要等下一次週六 22:00 fire(且 Stage 6 真的跑完)才會轉綠。_
 _v1.0 | 2026-07-12 founder-lens session — 誕生:哲宇 /goal「設計一條 routine 取代哲宇對 taiwan.md 的所有機能」。研究(reports/founder-function-boundary-2026-07-12.md)畫出三層邊界地圖,本 pipeline 是坐在 Tier 1 前緣的 routine——飛輪第一條刻意離開顱骨的 routine。cadence 週六 22:00 週級深 pass(哲宇裁決,off-Sunday 夜間、對齊他爆發式週級+夜間節律)。§Reserved 把 Tier 3 四樣寫成 canonical。_

@@ -100,6 +100,9 @@ function isExpectedDate(dateStr, dow) {
 //   - twmd-weekly-report-sun → 有時省略 -sun 字尾寫 twmd-weekly-report
 //   - twmd-spore-pick-daily / twmd-spore-publish-daily → 同樣有 -am / 無字尾的
 //     舊寫法混跑
+//   - twmd-founder-lens-weekly → FOUNDER-LENS-PIPELINE.md Stage 6 finale 明訂
+//     handle 固定寫 twmd-founder-lens（不帶 -weekly，對齊該 pipeline 自己
+//     reports/founder-lens-YYYY-MM-DD.md 的命名慣例），2026-07-24 補上 alias
 // 找不到別名的 task 一律用「taskId 去掉 taiwanmd-routine- 前綴」精確比對，
 // 不做 fuzzy family 比對（避免 twmd-rewrite-daily 誤吃 twmd-rewrite-彎彎 這類
 // /twmd-rewrite 手動單篇改寫留下的同前綴 memory 檔）。
@@ -111,6 +114,7 @@ const SLUG_ALIASES = {
     'twmd-spore-publish-daily',
     'twmd-spore-publish',
   ],
+  'twmd-founder-lens-weekly': ['twmd-founder-lens-weekly', 'twmd-founder-lens'],
 };
 
 function normalizeTaskId(taskId) {
