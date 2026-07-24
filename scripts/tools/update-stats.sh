@@ -108,8 +108,8 @@ if ac:
         for c in ac
     ]
     rows = [
-        "  <tr>\n    " + "\n    ".join(cells[i : i + 7]) + "\n  </tr>"
-        for i in range(0, len(cells), 7)
+        "  <tr>\n    " + "\n    ".join(cells[i : i + 8]) + "\n  </tr>"
+        for i in range(0, len(cells), 8)
     ]
     table = "<table>\n" + "\n".join(rows) + "\n</table>"
     block = (
