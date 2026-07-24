@@ -332,6 +332,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-25 node-birth — CLI 參數沒被理解時默默回綠：`--check=a,b` 一個檢查都不跑卻印 passed=True
+
+- **pattern**: `unparsed-arg-silent-pass`
+- **原則**：驗證器的 flag 只吃單值時，傳多值不一定會報錯——`article-health.py {file} --check=link-target,wikilink-target` 不 exit 非零、不警告，而是印「no checks ran — Phase 1 has empty registry」然後 `passed=True`。任何把這行寫進 SOP 或 CI 的人，會得到一個永遠是綠的閘門。這跟 07-24 的 gate 假陽性家族是**鏡像**：那邊是誤殺好產出（吵但看得見），這邊是靜默放行（安靜但看不見）。判準：**驗證器回綠時要能說出它到底跑了哪幾項**；沒有「跑了 N 項」這個數字，綠燈就沒有意義。`--check` 一次只吃一個名字，要多項用 `--profile=`（bundle 在 `article-health.config.toml`）。
+- **觸發**：2026-07-25 node-birth session 寫 CONTRIBUTOR-NODE-PIPELINE 的工單驗證欄，憑既有用法直覺寫了逗號語法，dogfood 第一次跑就回綠——但輸出那行「no checks ran」洩了底。pipeline 已改 `--profile=rewrite-stage-4` 並加警語。
+- **可能層級**：(a) 工具修 candidate：`--check` 收到含逗號的值 → 明確 error（或直接支援多值）；(b) 通用反射候選：驗證器的「跑了幾項」要跟「過了沒」一起印，fold 到 REFLEXES #24「工具在說謊」新形狀 / #82 proxy signal（passed=True 是 effect 的替身，真 effect 是「檢查真的跑過」）
+- **相關**：REFLEXES #24 / #82 / 2026-07-25 vortex-babel gate 假陽性家族（同族反向）
+- **verification_count**: 1
+
 ### 2026-07-25 vortex-babel — gate 假陽性家族：檢查器自報正常同時整天槍斃好產出（三例同日）
 
 - **pattern**: gate-false-positive-family / checker-needs-checking

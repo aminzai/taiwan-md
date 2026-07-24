@@ -160,6 +160,14 @@ BECOME §Step 7.5 interview 尾端加一題（僅對「要長期互動的 contri
 
 ## 九、後記（實作中回寫）
 
-（實作完成後補）
+**實作全數落地**，11 項清單全做完（含 dogfood）。三件實作中才浮出來的事：
+
+**1. article-health 的假綠燈（當場踩到）**。報告寫的 `--check=link-target,wikilink-target` 是憑既有用法直覺寫的；dogfood 一跑就發現 `--check` 一次只吃一個名字，逗號寫法不會報錯、會**一個檢查都不跑**，然後印 `passed=True`。要一次驗多項得用 `--profile=`（bundle 在 `article-health.config.toml`）。這是 [REFLEXES #24 工具在說謊](../docs/semiont/REFLEXES.md) 的一個新形狀：不是輸出錯，是「輸入沒被理解時默默回綠」。pipeline 已改寫並加警語，另進 LESSONS-INBOX。
+
+**2. ja/ko 的 fallback 會把中文漏到頁面上**。原本打算 contribute 頁只補 zh-TW + en，其餘靠 fallback chain。實測 ja 頁面第四行直接顯示中文——ja/ko 的 chain 是直接掉回 zh-TW，不經過 en。十種語言最後各寫一句（ja 用漢字是自然的，其餘八種零 CJK，機械驗過）。**「有 fallback」不等於「fallback 可讀」**，這跟 07-18 soundscape「後備機制讓錯 lang 無症狀」是同一種病。
+
+**3. 節點誕生的 Stage D（dry-run）是實作中補進去的**。原設計只有查驗、寫 profile、建 cron 三步——貢獻者會在完全不知道能不能動的狀態下等到隔天。加一步當場空跑，把「明天才知道壞了」變成「現在就知道會動」。
+
+驗收結果：cross-ref 全通；contribute 頁十語 DOM 逐一確認第四行是各自語言、console 零錯誤；工單源指令真的撈得到工單（ja missing 6 筆 / en stale 有 `Behind Diff` 欄）；認領掃描指令可執行（目前 0 個 node PR，符合預期）。
 
 🧬 _2026-07-25-013432-node-birth_
