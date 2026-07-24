@@ -1,9 +1,10 @@
 ---
-title: "Walking on the Filled-in Harbor: Five Street Foods of Tainan's Central-West District"
-description: "Beneath Guohua Street and Hai'an Road lie the riverbed ruins of the Qing-era Five Ports; beef soup, milkfish congee, sweet eel pasta, and pig heart glass noodle soup—each dish's timing, location, and ingredients are fossils left by the survival logic of four centuries of dockworkers."
+title: 'Walking on the Filled-in Harbor: Five Street Foods of Tainan’s Central-West District'
+description: "Beneath Guohua Street and Hai'an Road lie the riverbed ruins of the Qing Dynasty’s Five Ports; beef soup, milkfish porridge, eel noodles, and pig heart glass noodles—each dish’s timing, location, and ingredients are fossils of the survival logic left by four centuries of dockworkers."
 date: 2026-06-30
 author: 'Taiwan.md Contributors'
 category: 'Food'
+subcategory: 'Classic Street Food'
 tags:
   [
     'Tainan',
@@ -12,119 +13,118 @@ tags:
     'Central-West District',
     'Beef Soup',
     'Milkfish',
-    'Sweet Eel Pasta',
+    'Eel Noodles',
   ]
-subcategory: '經典小吃'
 readingTime: 8
 lastVerified: 2026-06-30
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
-sourceCommitSha: '3011828ba'
-sourceContentHash: 'sha256:ba0e98c9d772c0f4'
-sourceBodyHash: 'sha256:c9b71900ee0b75bf'
-translatedAt: '2026-07-06T00:39:48+08:00'
+sourceCommitSha: '93facb6ce'
+sourceContentHash: 'sha256:0b469697cef600b9'
+sourceBodyHash: 'sha256:9c9d5bf9b829829e'
+translatedAt: '2026-07-24T16:23:46+08:00'
 ---
 
-At 4:30 a.m., Guohua Street is still dark. A few people walk over from Tainan Railway Station, phone screens illuminating the path toward Liuchian Beef Soup, its sign still shrouded in darkness. They are not the first—people are already waiting at the door. The cattle from the Shanhua Meat Market are slaughtered the night before, delivered by refrigerated trucks before dawn, and the first pot of broth begins to boil at 5:00 a.m. Those who arrive early know one thing: **the sweetness of the first pot is different from the evening's.**
+At 4:30 a.m., Guohua Street is still dark. A few people walk over from Tainan Railway Station, their phone screens illuminating the path toward the sign of Liuqian Beef Soup, which is still shrouded in darkness. They are not the first: people are already waiting at the door. The cattle from the Shanhua Meat Market were slaughtered the previous night; refrigerated trucks arrived before dawn, and the first pot of soup began boiling at 5:00 a.m. Those who arrive early know one thing: **the sweetness of the first pot is different from that of the evening batch.**
 
 This is not about ritual. It is about logistics.
 
-## The Five Ports: The Reason They Disappeared
+## The Five Ports: The Reason for Disappearance
 
-You are now walking on Guohua Street and Hai'an Road, stepping on a filled-in harbor channel.
+You are now walking on Guohua Street and Hai'an Road, treading on filled-in harbor channels.
 
-In the mid-Qing dynasty, the inner sea of Taijiang on Tainan's western side gradually silted up, but five waterways still connected the coast to the prefectural city, historically known as the "Five Ports." This was the most important trading hub in Qing-era Taiwan—Quanzhou cloth, Zhangzhou pottery, and goods from various provinces were unloaded, transferred, and traded here. Dockworkers divided territories by ancestral origin: Xingangqian Port was dominated by the Huang clan from Jinjiang, Quanzhou; Anhai Port by the Xu clan from Anhai; each built temples, gathered fellow townsmen, and developed their own food circles.
+In the mid-Qing Dynasty, the Taijiang Inner Sea on the west side of Tainan gradually silted up, but five waterways still connected the sea to the Prefecture City, historically known as the "Five Ports" (Wutiao Gang). This was the most important trade hub in Qing Taiwan: Quanzhou cloth, Zhangzhou pottery, and goods from various provinces were unloaded, transshipped, and traded here. Dockworkers allocated territories based on their ancestral origins: Xingangqian Port was dominated by the Huang clan from Jinjiang, Quanzhou; Anhai Port by the Xu clan from Anhai; each built temples, gathered fellow townsmen, and maintained their own food circles.
 
-📝 Curator's Note: The Shen-nong Street now favored by hipsters was called "Beishi Street" in the Qing dynasty, with the entire street built over the Beishi Port riverbed. The street's width and orientation have remained unchanged for four centuries.
+📝 Curator’s Note: The Shen-nong Street most beloved by hipsters today was called "Beishi Street" in the Qing Dynasty, with the entire street built over the Beishi Port channel. The street’s width and orientation have remained unchanged for four hundred years.
 
-In the 19th century, the harbor channels gradually silted up. During the Japanese colonial period, the Tainan Canal was dug, the Five Ports' functions were completely terminated, the riverbeds were filled in, and roads were paved over them. During the recent widening of Hai'an Road, workers unearthed Qing-era foundations and temple ruins underground, halting construction temporarily. Today, those ruins are directly embedded in transparent display windows on the pavement. As people walk past, the bricks beneath their feet are four hundred years old.
+In the 19th century, the channels silted up sequentially. During the Japanese colonial period, the Tainan Canal was dug, terminating the function of the Five Ports entirely. The channels were filled in, and roads were paved over them. During the widening construction of Hai'an Road today, workers unearthed Qing Dynasty foundations and temple ruins underground, halting construction temporarily. Those ruins are now embedded directly into transparent display windows in the ground. People walk over them, their feet stepping on bricks from four hundred years ago.
 
-Why are street foods most densely concentrated here? Because this was once the place that most urgently needed to quickly feed a large workforce.
+Why are street foods most dense here? Because this was once the place that needed to feed a large number of workers most quickly.
 
-## Milkfish Congee: A Four-Century Morning
+## Milkfish Porridge: A Four-Century Morning
 
 Milkfish was not brought by Koxinga (Zheng Chenggong).
 
-Folklore claims that when Zheng's army ran out of food upon arriving in Taiwan, Koxinga established fish ponds in Anping to breed milkfish. After tasting it, he asked, "What fish is this?" The name later mutated into "milkfish" (shīmù-yú). The story is compelling, but historians point out that the Dutch East India Company was actually the party that introduced milkfish breeding technology from Indonesia to Taiwan—during the Dutch colonial period (1624–1662), well before Koxinga. Written records of milkfish cultivation already appeared in the late 17th century in the _Records of the Prefecture of Taiwan_. That is over four hundred years.
+Folklore says that when Koxinga’s army ran out of food upon arriving in Taiwan, he opened fish ponds in Anping to breed milkfish. After tasting one, he asked, "What fish is this?" The name later mutated into "Milkfish" (Shimu Yu). This story sounds good, but historians point out that it was the Dutch East India Company that introduced milkfish breeding technology from Indonesia to Taiwan—during the Dutch colonial period (1624–1662), earlier than Koxinga. Written records of milkfish breeding appear in the _Taiwan Prefecture Gazetteer_ (Taiwan Fu Zhi) from the late 17th century. Over four hundred years.
 
-📝 Curator's Note: Tainan remains the largest milkfish production area in Taiwan today, with Qigu as the core breeding ground. From the Anping fish ponds to the congee stalls on Guohua Street, the waterway distance is no more than fifteen kilometers.
+📝 Curator’s Note: Tainan remains the largest milkfish production area in Taiwan today, with Qigu as the core breeding ground. From the fish ponds in Anping to the porridge stalls on Guohua Street, the waterway distance is no more than fifteen kilometers.
 
-At 5:30 a.m., milkfish congee shops blanch the fish intestines, stomachs, and skin separately, portioning them into different small dishes. White congee forms the base; toppings are added by the customer. This is the breakfast logic of dockworkers: fast, generous with ingredients, and zero waste.
+At 5:30 a.m., milkfish porridge shops blanch the fish intestines, stomachs, and skins separately, portioning them into different small dishes. White porridge is the base; toppings are added by the customer. This is the breakfast logic of dockworkers: fast, generous with ingredients, and zero waste.
 
-Every part of the whole fish has its proper destination. In the congee, the meat is fresh, sweet, and elastic, supported by the congee's light fragrance without overpowering it. Pan-fried dry, the fatty belly becomes crispy and fragrant without burning, delivering both crunch and freshness in a single bite—two textures, one motion. The intestines are deep-fried until crisp, stimulating the palate so you cannot stop eating them. The skin is made into soup, rich in collagen, elastic, soft but not mushy, leaving a slight sticky sensation on the lips after drinking the broth. Every cut is precise because every part deserves to be treated individually.
+The whole fish, every part has its proper place. In the porridge, the fish meat is fresh, sweet, and elastic, supported by the porridge’s clear fragrance without overpowering it. Pan-fried dry, the fatty abdomen is fried until crispy but not burnt, offering both crunch and freshness in one bite—two textures, one action. The fish intestines are deep-fried until crispy, stimulating the mouth, making it impossible to stop eating. The fish skin is made into soup, high in collagen, elastic, soft but not mushy, leaving the lips slightly sticky after drinking the soup. Every cut is clean because every part deserves to be treated individually.
 
 ## Beef Soup: An Invented Tradition
 
 The history of Tainan beef soup is not as ancient as one might imagine.
 
-Qing-era Taiwanese farmers did not eat beef because cattle were agricultural tools. During the Japanese colonial period, the Japanese government promoted Western diets, and beef consumption gradually entered daily Taiwanese life. Chaoshan immigrants brought beef dishes to Tainan, shaping this culinary direction. What truly elevated "beef soup" to a "representative Tainan delicacy" was the Tainan Beef Festival, which began in 2004—barely over two decades ago.
+In Qing Taiwan, farmers did not eat beef because cattle were agricultural tools. During the Japanese colonial period, the Japanese government promoted Western-style diets, and beef consumption gradually entered daily Taiwanese life. Chaoshan immigrants brought beef dishes to Tainan, shaping the direction of today’s cuisine. What truly made "beef soup" the "representative food of Tainan" was the Tainan Beef Festival, which began in 2004—only just over twenty years ago.
 
-But the reason it is worth trying is real, and it is tied to time.
+But the reason it is worth trying is real, and it is about time.
 
-The Shanhua Meat Market is about twenty minutes from downtown Tainan. Slaughter begins the night before, completes in the early hours, and refrigerated trucks or taxis deliver the fresh meat to each shop before dawn. It is never frozen, never kept overnight, and always within a few hours of processing. The beef in the bowl you drink at 5:00 a.m. was alive just hours earlier.
+The Shanhua Meat Market is about twenty minutes from downtown Tainan. Slaughtering begins the previous night, completing in the early hours. Refrigerated trucks or taxis bring the warm-body beef into each shop before dawn. No freezing, no overnight storage; the entire process takes only a few hours. The beef in the bowl you drink at 5:00 a.m. was alive just hours ago.
 
-Each shop's broth is a secret. Some add onions, others ginger root, some sugarcane or pineapple, others use Chinese herbs to build the base. They simmer in large pots from dawn, developing their own distinct sweetness and layers. But every shop shares one action: after you order, the owner hand-slices the beef and, just before serving, precisely drops the slices into boiling broth for a few seconds. When it arrives at your table, the beef is still bright red.
+Each shop’s soup base is a secret. Some add onions, some ginger root, some sugarcane or pineapple, some use Chinese herbs to build the base, simmering in large pots from early morning to develop their own sweetness and layers. But all shops share one action: after you order, the owner cuts the beef by hand, dipping the slices into the boiling soup for just a few seconds before serving. When it arrives, the beef is still bright red.
 
 At this moment, you cannot hesitate. Pick it up and eat it immediately.
 
-Fresh beef (wēntǐ) has a "crunch-crunch" texture—the muscle fibers are intact, carrying the firm elasticity right after slaughter. Biting down meets resistance, produces sound, and releases juice. Thawed frozen beef has broken fibers and ruptured cell walls; its texture is soft and wet, a completely different food. When Tainanese say "fresh beef" (wēntǐ), they are referring not just to temperature, but to the precise moment when a life has just ended and has not yet begun to loosen.
+The texture of warm-body beef is "crunchy-crunchy"—the muscle fibers are intact, retaining the firm elasticity just after slaughter. Biting down offers resistance, sound, and juice. Frozen beef, once thawed, has broken fibers and ruptured cell walls; its texture is soft and wet, a different food entirely. When Tainan people say "warm-body" (wen ti), they are not just talking about temperature, but about the moment when a life has just ended and has not yet begun to loosen.
 
-📝 Curator's Note: In college, I organized a trip with classmates to Tainan for the first time. At 4:00 a.m., I was woken up by a pat: "Hey, get up, we're going for beef soup." Half-asleep, my first thought was: What time is this? Who sells beef soup at this hour? Even if they do, why get up now? But my classmates were insistent. Reluctantly, we stepped outside. On Hai'an Road, before we could even see which shop it was, we saw a row of silhouettes under the market awning, lit by streetlights—twenty or thirty people already waiting. The shop opens at 5:00 a.m., and we secured the first pot. That sweetness—no sugar added, but the natural sweetness seeping from muscle fibers at their freshest state—the evening beef soup is equally charming, but the freshness of the first pot is a spiritual enjoyment on another level. It is a satisfaction so profound it feels almost unfair. At that moment, my classmate reminded me: "How is it? Worth it, right? I'm telling you, don't come on Mondays. They're closed." It turns out Tainan beef soup shops are typically closed on Mondays because the Shanhua Meat Market does not slaughter cattle on Mondays.
+📝 Curator’s Note: In college, I gathered friends for our first trip to Tainan. At 4:00 a.m., someone woke me up by slapping my shoulder: "Hey, get up, we’re going to drink beef soup." Half-asleep, my first thought was: What time is this? Who sells beef soup at this hour? And even if they do, why get up now? But my friend was insistent. Reluctantly, we went out. On Hai'an Road, before we could even see which shop it was, we saw a row of people under the market awning, illuminated by streetlights—twenty or thirty people already waiting. The shop opened at 5:00 a.m., securing the first pot. That sweetness—not added sugar, but the natural sweetness seeping into the soup from muscle fibers in their freshest state—the evening beef soup is equally charming, but the freshness of the first pot is a spiritual enjoyment on another level. It is a satisfaction that feels almost unfair. At that moment, my friend reminded me: "How is it? Worth it? I’m telling you, don’t come on Mondays. Mondays are closed." It turns out that Tainan beef soup shops are usually closed on Mondays because the Shanhua Meat Market does not slaughter cattle on Mondays.
 
-## Sweet Eel Pasta: The Physics of 27 Seconds
+## Eel Noodles: The Physics of 27 Seconds
 
-Sweet eel pasta exists elsewhere in Taiwan, but outside Tainan, almost no one makes it correctly, because the core technique demands extreme precision: from when the eel hits the wok to when it comes out, it cannot exceed 27 seconds. Exceed that, and the meat turns tough, the fishy odor emerges, and the entire batch is ruined.
+Eel noodles exist in other parts of Taiwan, but outside Tainan, almost no one makes them correctly, because the core technique requires extreme precision: from the eel hitting the wok to taking it out, no more than 27 seconds. Exceed that, and the meat becomes tough, the fishy smell emerges, and the whole pot is ruined.
 
-The dish originated at You'ai Street Market (Sakariba). During the Japanese colonial period, Tainan had no eel, but wild eel-like fish of similar size were easily caught in ponds, yet no one knew how to prepare them. Brothers Liao Bingnan and Liao Huotu learned the "knife-frying" (to-tsì) technique from a Fuzhou master, developing a stir-fried method to mimic eel. The sweet-and-sour Tainan flavor even won over Japanese officials, establishing their reputation at Sakariba. Liao Bingnan was later known as "Eel Nan"; the Liao family's techniques were passed down, and today's Sakariba Liao Family Stir-Fried Eel, A-Yuan on Chenggong Road, and A-Jiang on Minzu Road all descend from the same lineage.
+The origin of this dish is in You’ai Street Market (Shakariba). During the Japanese colonial period, Tainan had no eels, but wild eels of similar size were easily caught from ponds, yet no one knew how to cook them. Brothers Liao Bingnan and Liao Huotu learned the "knife" (to-tsì) cooking method from a Fuzhou master, developing a stir-fry technique that mimicked eel. The salty-sour-sweet Tainan flavor even convinced Japanese officials, establishing its reputation at Shakariba. Liao Bingnan was later known as "Eel Nan"; the Liao family’s techniques were passed down, and today, the Liao family’s stir-fried eel at Shakariba, A-Yuan on Chenggong Road, and A-Jiang on Minzu Road all stem from the same lineage.
 
-Garlic is sautéed until fragrant, eel segments go into the wok, followed by scallions, onions, chili, seasonings, starch slurry, and Wu Yin vinegar. It is plated and poured over the prepared pasta. The sound of the wok hei rising is how the old masters judge the heat—with their ears, not their eyes.
+Garlic is fragrant, eel segments hit the wok, scallions, onions, chili, seasonings, thickening, five-spice vinegar, take out, pour over the prepared noodles. The sound of the wok hei rising is how the old master judges the heat with his ears, not his eyes.
 
-The pasta is a local Tainan variety, deep-fried while half-cooked to set its shape, then soaked in broth to absorb the sauce. Its texture is completely different from standard noodles. Wu Yin vinegar is essential—the sweet and sour finish resets the palate, allowing diners to continue eating the next stall after the oil and protein.
+The noodles are a local Tainan variety, fried in a half-cooked state to set their shape, absorbing the sauce fully. The texture is completely different from standard noodles. Five-spice vinegar is essential—the sweet-sour finish resets the palate, allowing you to continue eating the next stall after the oil and protein.
 
-📝 Curator's Note: "Sakariba" is a Taiwanese Hokkien transliteration of the Japanese word 盛り場 (sakariba), meaning a bustling market. The name itself reveals the dish's origin: a colonial-era gathering place for workers.
+📝 Curator’s Note: "Shakariba" is the Taiwanese transliteration of the Japanese word "盛り場" (sakariba), meaning a bustling market. This name itself explains the origin of eel noodles: a worker gathering place during the Japanese colonial period.
 
-## A-Ming's Pig Heart Glass Noodle Soup: The Philosophy of Two-Hour Queues
+## A-Ming Pig Heart Glass Noodles: The Philosophy of Two-Hour Waiting
 
-Waiting in line for two hours for a bowl of pig heart glass noodle soup sounds absurd, but you will understand after just one visit.
+Waiting in line for two hours for a bowl of pig heart glass noodles sounds absurd, but once you’ve been, you understand.
 
-A-Ming Pig Heart Glass Noodle Soup at 72 Bao'an Road: Huang Xianming's father used to push a cart selling angelica duck along this road in his early years, later shifting to offal dishes, settling on Bao'an Road for seventy years. After being listed in the Michelin Guide's Bib Gourmand in 2022, the line grew longer, but the technique remained unchanged.
+A-Ming Pig Heart Glass Noodles at 72 Bao’an Road: Huang Xianming’s father pushed a cart selling Angelica Duck on this road in his early years, later shifting to pig offal dishes, settling on Bao’an Road for seventy years. After being listed as a Michelin Bib Gourmand recommendation in 2022, the line grew longer, but the method remained unchanged.
 
-A-Ming's core technique is the cooking method: **water-bath heating**. The owner places thinly sliced pig heart into small aluminum cups, adds herbal broth, and submerges the entire cup in boiling water, allowing heat to slowly and evenly penetrate from the outside in—delivering consistent tenderness from outside to inside, no fishy odor, and a faint natural sweetness. This method cannot be rushed; rush it, and it becomes something else. Thus, the output is fixed, and waiting is simply waiting.
+A-Ming’s core technique is the cooking method: **double-boiling**. The owner places thinly sliced pig heart into small aluminum cups, adds medicinal broth, and places the entire cup into boiling water, allowing the heat to penetrate slowly and evenly from the outside in—consistent tenderness from outside to inside, no fishy smell, with a faint natural sweetness. This method cannot be rushed; if rushed, it becomes something else. Thus, the yield is fixed, and waiting is necessary.
 
-Pig heart, pig liver, and offal are salty, blood-rich worker ingredients. Transforming them into a dish that is not fishy, not tough, and slightly sweet is both culinary skill and basic respect for trim ingredients. In Tainan, even offal cannot be treated carelessly.
+Pig heart, liver, and offal are salty, blood-rich worker ingredients. Turning them into a dish that is not fishy, not tough, and slightly sweet is culinary skill, but also basic respect for marginal ingredients. In Tainan, even offal cannot be treated carelessly.
 
-📝 Curator's Note: Water-bath heating follows the Western culinary logic of a bain-marie—allowing heat to penetrate slowly from the outside, preventing any part from becoming tough due to direct high heat. A-Ming applied this technique to pig heart not by formal training, but by reverse-engineering from the ingredient's nature: pig heart requires even heat distribution, which direct fire cannot achieve.
+📝 Curator’s Note: Double-boiling follows the logic of the Western culinary _bain-marie_—allowing heat to penetrate slowly from the outside, preventing any part from becoming tough due to direct fire overcooking. A-Ming applied this technique to pig heart, not because he learned it, but because he deduced it from the nature of the ingredient: pig heart requires even heat distribution, which direct fire cannot achieve.
 
-## Fruit Stalls: Punctuation Marks in Dietary Rhythm
+## Fruit Shops: Punctuation Marks of Dietary Rhythm
 
-After finishing the savory dishes, go buy a bag of fruit. This is not a travel tip; it is dietary rhythm.
+After eating savory food, go buy a bag of fruit. This is not a tourist suggestion; it is dietary rhythm.
 
-Tainan's fruit stalls—sliced pineapple, mango, wax apple, beef tomatoes sprinkled with ginger sugar—form a complete system for resetting the palate. Tomatoes are sold as fruit in Tainan; ginger sugar balances sweet and salty. It is not strange; it is logic. Fruit stalls around Guohua Street and Hai'an Road mostly operate in the early morning or evening, sandwiched between beef soup and sweet eel pasta. They are not desserts; they are punctuation marks between paragraphs.
+Tainan’s fruit shops—cut pineapple, mango, wax apple, tomato with ginger sugar—are a complete system for resetting the palate. Tomatoes are sold as fruit in Tainan; ginger sugar is a balance of sweet and salty, not strange, but logical. Fruit stalls in the Guohua Street and Hai'an Road area mostly do business in the early morning or evening, sandwiched between beef soup and eel noodles. They are not desserts; they are punctuation marks between paragraphs.
 
-📝 Curator's Note: Ginger sugar beef tomatoes are a unique Tainan pairing—tomatoes are tart, ginger powder adds pungent heat, sugar powder finishes with sweetness. The three stimuli hit the mouth simultaneously, clearing the oiliness left by the previous stall more effectively than eating sweets alone. Its reason for existing is not to be delicious, but to give you the appetite to continue to the next stall.
+📝 Curator’s Note: Ginger sugar tomatoes are a unique Tainan dietary pairing—tomatoes are sour, ginger powder is spicy and hot, sugar powder is sweet. The three stimuli enter the mouth simultaneously, clearing the oiliness left by the previous stall more effectively than eating sweets alone. The reason for its existence is not that it tastes good, but that it gives you the appetite to continue eating the next stall.
 
-## The Harbor Channels Vanish, The Way of Eating Remains
+## The Channels Disappear, the Eating Methods Remain
 
-During the Hai'an Road widening project, workers unearthed Qing-era floor tiles and temple foundations underground. Construction halted, the Culture Bureau intervened, and the ruins now sit beneath transparent display windows under the street surface. You walk past, stepping on concrete, but beneath your feet lies a four-hundred-year-old dock.
+In the year Hai'an Road was widened, workers unearthed Qing Dynasty bricks and temple foundations underground. Construction stopped, the Cultural Affairs Bureau intervened, and the ruins are now in transparent display windows beneath the street surface. You walk over, stepping on cement, but underneath are the docks of four hundred years ago.
 
-Those river channels will not return. But the logic that fed dockworkers—using the freshest ingredients in the shortest time to create something that gives people the strength to keep working—still lives on in every bowl of 5:00 a.m. beef soup, in the 27-second wok hei of sweet eel pasta, and in A-Ming's water-bathed pig heart, slow to the point of immobility.
+Those channels will not return. But the logic of feeding dockworkers—providing the strength to continue working in the shortest time with the freshest ingredients—still lives in every bowl of 5:00 a.m. beef soup, in the 27-second wok hei of eel noodles, in A-Ming’s slow-to-the-extreme double-boiled pig heart.
 
-Tainan's street food is not a coincidence of delicious items gathering together. It is a city's metabolic system, running without interruption for four hundred years.
+Tainan’s street food is not just delicious things happening to gather together. It is a city’s metabolic system, running for four hundred years without stopping.
 
 ---
 
 ## References
 
-- ["An Invented Tradition"! When Did Beef Soup Become One of Tainan's Representative Foods?](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=105780)
-- [The Five Ports (Tainan) — Wikipedia](<https://zh.wikipedia.org/zh-tw/%E4%BA%94%E6%A2%9D%E6%B8%AF_(%E8%87%BA%E5%8D%97)>)
-- [Walking History of Tainan: Milkfish Enriched the Fish Ponds and Enriched the Prefectural City People's Mornings and Stomachs — The News Lens](https://www.thenewslens.com/article/131368)
-- [Tainan's Yellowfin Tuna Soup and Milkfish May Originate from 17th-Century European Imports — CNA](https://www.cna.com.tw/news/acul/202403060184.aspx)
-- [The Origins and Secrets of Tainan Beef Soup](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81/)
-- [Sweet Eel Pasta — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
-- [How Can Stir-Fried Eel Be Considered Sincere? — Independent Review @天下](https://opinion.cw.com.tw/blog/profile/194/article/8595)
-- [Tainan Food Diary: A Classic Sweet Eel Pasta ● Sakariba Liao Family Eel — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
-- [The Five Ports of Qing Tainan Vanish; Ancient Streets Inherit River Harbor Cultural Heritage — CNA](https://www.cna.com.tw/news/acul/202501260043.aspx)
+- ["Invented Tradition"! When did beef soup become one of Tainan's representative foods?](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=105780)
+- [Five Ports (Tainan) — Wikipedia](<https://zh.wikipedia.org/zh-tw/%E4%BA%94%E6%A2%9D%E6%B8%AF_(%E8%87%BA%E5%8D%97)>)
+- [Walking Tainan History: Milkfish enriched the fish ponds, and also enriched the mornings and stomachs of Prefecture City people — The News Lens](https://www.thenewslens.com/article/131368)
+- [Tainan Tuna Soup, Milkfish May Originate from 17th Century European Imports — CNA](https://www.cna.com.tw/news/acul/202403060184.aspx)
+- [The Origin and Secrets of Tainan Beef Soup](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81/)
+- [Eel Noodles — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
+- [How Can Stir-Fried Eel Be Called Sincere? — Independent Review @天下](https://opinion.cw.com.tw/blog/profile/194/article/8595)
+- [Food Diary Tainan. Old Brand Eel Noodles ● Shakariba Eel Liao — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
+- [Qing Dynasty Tainan Five Ports No Longer Visible, Ancient Streets Inherit River Port Cultural Assets — CNA](https://www.cna.com.tw/news/acul/202501260043.aspx)
 - [Tainan Beef Soup Culture and Map](https://mytainan.com/tainan-food-drink/tainan-beef-soup/)
-- [Tainan's Late-Night Pig Heart Glass Noodle Soup Has Been Sold for Nearly 70 Years! Prepare for the Queue First — ETtoday Travel](https://travel.ettoday.net/article/2931941.htm)
-- [A-Ming Pig Heart Glass Noodle Soup Michelin Bib Gourmand Recommendation | Bao'an Road's Most Popular Queued Food — Bonnie's Food Talk](https://foodieteller.com/amin-pig-heart/)
+- [Sold for Nearly 70 Years: Tainan Late-Night Pig Heart Glass Noodles! Prepare for Queuing First — ETtoday Travel Cloud](https://travel.ettoday.net/article/2931941.htm)
+- [A-Ming Pig Heart Glass Noodles Michelin Bib Gourmand Recommendation | Bao’an Road’s Most Popular Queuing Food — Bonnie Says Food Talk](https://foodieteller.com/amin-pig-heart/)
