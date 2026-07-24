@@ -1,135 +1,137 @@
 ---
-title: "Taiwan's Slash Generation — Survival and Choice in the Multi-Job Economy"
-description: "When a master's degree only covers a Taipei studio apartment's rent, slashing is not a lifestyle choice — it's a math problem you solve to stay alive."
+title: "Taiwan's Slash Generation — Survival and Choice in a Multi-Job Economy"
+description: "When a master's degree only buys a Taipei studio apartment's rent, slash employment is not a choice; it's a math problem for survival"
 date: 2026-03-29
+author: 'p3nchan'
+category: 'Society'
+subcategory: '世代與社會'
 tags:
   [
-    'slash generation',
+    'slash employment',
     'gig economy',
     'wages',
     'housing prices',
     'youth employment',
   ]
-subcategory: '世代與社會'
-author: 'p3nchan'
 readingTime: 8
-category: 'Society'
 lastVerified: 2026-03-29
-featured: false
 lastHumanReview: false
+featured: false
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:bdd6bcaeb167f0b4'
-sourceBodyHash: 'sha256:cfe750f00aea3ad6'
-translatedAt: '2026-05-01T14:11:02+08:00'
+sourceCommitSha: 'b6f8b00d8'
+sourceContentHash: 'sha256:f40c65ff14acd5cb'
+sourceBodyHash: 'sha256:7fc8e0dbb23602c5'
+translatedAt: '2026-07-24T14:22:03+08:00'
 ---
 
-> Taiwan's 25–35-year-olds are living through a survival experiment no one announced. The median wage sits at NT$38,000; a Taipei studio apartment starts at NT$14,000. One full-time job is not enough — so after work they open the food delivery app, hustle freelance jobs on weekends, and edit videos deep into the night. This is not a "slash generation trend." It is a survival strategy squeezed out by structural crisis.
+> Taiwan’s young people aged 25–35 are undergoing a survival experiment with no declared start. The median salary has stalled at NT$38,000, while a studio apartment in Taipei starts at NT$14,000. One full-time job is no longer enough, so after work they open delivery apps, rush to take on freelance projects on weekends, and edit videos late at night. This is not a “slash trend”; it is a survival strategy forced by structural困境 (dilemmas).
 
-Xiao-jie, 28, graduated from a private university with an English degree. During the day she works as a social media editor at a mid-size marketing firm for NT$33,000 per month. Every evening after 6 p.m. she switches identities, getting on her scooter and opening the Uber Eats app to make deliveries until 10. On weekends she takes translation jobs on 104 Outsourcing — a 3,000-word Chinese-to-English piece earns her NT$2,500. Three income streams combined bring her roughly NT$52,000 per month. After paying NT$13,500 rent on an 8-ping studio apartment in Songshan District, scooter fuel, food, and student loan repayments, she can save less than NT$8,000 per month.
+Xiao Jie, 28, graduated from the English Department of a private university. During the day, she works as a social media editor at a mid-sized marketing firm for a monthly salary of NT$33,000. Every evening at 6 p.m., after getting off work, she switches identities on her motorbike: she opens the Uber Eats app and delivers food until 10 p.m. On weekends, she takes on translation jobs on the 104 Freelance platform, charging NT$2,500 for a 3,000-word Chinese-to-English draft. With three jobs combined, her monthly income is approximately NT$52,000. After deducting the rent for an 8-ping studio in Songshan District, Taipei (NT$13,500), motorbike fuel costs, food expenses, and student loan repayments, she can save less than NT$8,000 each month.
 
-"It's not that I'm not working hard — one salary genuinely doesn't cover a life," she says.
+“I’m not lazy; one salary simply isn’t enough to live on,” she says.
 
-This is the portrait of Taiwan's slash generation. Not the polished "multi-career" narrative of LinkedIn, but the survival equation young people are piecing together under the double pressure of structurally stagnant wages and skyrocketing housing costs.
-
----
-
-## Numbers Don't Lie: Wages Can't Keep Up With Rent
-
-Start with wages. According to the Directorate-General of Budget, Accounting and Statistics 2025 data, the median regular earnings for all salaried employees is NT$38,319 per month. Note: this is the **median** — meaning half of all workers take home less than this figure. The average starting salary for university graduates is around NT$34,000; for non-STEM fields, landing in the NT$28,000–32,000 range is very common.
-
-Now look at rent. The average monthly rent for an independent studio in Taipei is NT$14,400; even retreating to New Taipei City that figure is NT$13,100. Using the internationally recognized guideline that rent should not exceed 30% of income, a person in Taipei needs a monthly income of at least NT$43,000 just to be within healthy range. But a university graduate earning NT$34,000 is already spending 42% of income on rent alone.
-
-And that's only renting. If the subject is buying: Taipei's housing price-to-income ratio reached 16.36 times at the end of 2024 — meaning a household that spends nothing and saves every cent of income would need more than 16 years to afford one apartment. This figure surpasses London, New York, and Toronto, placing it among the highest of major global cities.
-
-How much does a master's degree help? Average starting salaries for graduate-school graduates run NT$38,000–42,000 (outside tech industries) — a few thousand more than a bachelor's, but Taipei studio rents don't give discounts for academic credentials. A humanities master's starting salary in Taipei might just barely cover studio rent plus basic living costs. The wage premium from two more years of education is almost entirely swallowed by rent.
+This is a microcosm of Taiwan’s slash generation. It is not the glamorous “multi-career” narrative seen on LinkedIn, but a survival formula pieced together by young people squeezed between structurally stagnant wages and soaring housing prices.
 
 ---
 
-## Delivery Platforms: A Generation's Safety Net
+## The Numbers Speak: Wages Can’t Keep Up with Rent
 
-The number of food delivery workers in Taiwan jumped from 45,000 in 2019 to 145,000 in 2022 — tripling in three years.
+First, look at wages. According to the Directorate-General of Budget, Accounting and Statistics (DGBAS) 2025 statistics, the median regular salary for all employed persons is NT$38,319. Note that this is the “median”—meaning half of the workforce earns less than this amount in actual take-home pay. The average starting salary for fresh university graduates is approximately NT$34,000; for non-STEM majors, it is extremely common to fall in the NT$28,000 to NT$32,000 range.
 
-Who are these 145,000 people? According to a 104 Job Bank analysis of 8,402 resumes with delivery experience, 42.9% of delivery workers were under 24 when they started — large numbers are university students still in school and youth under 29. The median monthly income is NT$36,000, and the median tenure is only 0.9 years — meaning most people quit within a year.
+Next, look at rent. The average monthly rent for an independent studio apartment in Taipei is NT$14,400; even retreating to New Taipei City, it is NT$13,100. According to the internationally accepted guideline that rent should not exceed 30% of income, to rent a studio apartment in Taipei healthily, one needs a monthly salary of at least NT$43,000. But for someone with a starting salary of NT$34,000, rent alone consumes 42% of their income.
 
-Delivery is not a career endpoint; it's a transition. It's a safety net when a regular wage falls short, a cushion when the ideal job hasn't materialized after graduation.
+This is just for renting. If we talk about buying a house, Taipei’s housing price-to-income ratio reached 16.36 times by the end of 2024. This means a family must save all their income without eating or drinking for more than 16 years to afford a house. This figure exceeds London, New York, and Toronto, ranking among the highest in the world’s major cities.
 
-In January 2026, the Legislative Yuan passed the Act for the Protection of Food Delivery Workers' Rights and the Regulation of Delivery Platforms in its third reading, specifying a minimum per-order base fee of NT$45 and a minimum hourly rate of 1.25 times the minimum wage. This was long-overdue regulatory patchwork. Before this, delivery workers existed in a Labor Standards Act gray zone for years — not qualifying as formal employment, with no labor or health insurance, no occupational accident protection, no base salary. Platforms could unilaterally cut per-order rates; delivery workers had no bargaining power.
-
-"Having law to govern it" is progress — but it also reveals something: a form of work that hundreds of thousands of people depend on for their livelihoods took nearly seven years to receive basic legal protection.
+How much can a master’s degree improve this? The average starting salary for fresh master’s graduates is between NT$38,000 and NT$42,000 (excluding the tech industry). It’s a few thousand more than a bachelor’s, but Taipei studio rents do not discount based on your degree. A liberal arts master’s starting salary in Taipei might barely break even with the rent for a studio apartment plus basic living expenses. The salary gap gained from two extra years of study is almost swallowed by rent.
 
 ---
 
-## Not Just Delivery: The Full Spectrum of Side Hustles
+## Delivery Platforms: A Generation’s Airbag
 
-Delivery is just the easiest entry point. The side-hustle spectrum of Taiwan's youth is far broader than most imagine.
+The number of food delivery workers in Taiwan surged from 45,000 in 2019 to 145,000 in 2022. Tripled in three years.
 
-**Freelance design and engineering.** Platforms include 104 Outsourcing, Tasker, and direct social media solicitation. A young person with UI design skills earns NT$38K at their day job and earns NT$15,000–30,000 per landing page project at night. Software engineers have it even better — a React front-end project can be quoted at NT$50,000 or more. The upside of freelancing is a high hourly rate; the downside is unstable pipelines, where "fat this month, starving next month" is the norm.
+Who are these 145,000 people? According to an analysis of 8,402 resumes with delivery experience by 104 Human Resources Bank, 42.9% of delivery workers started delivering when they were under 24, with many being university students still in school and youth under 29. The median monthly salary is NT$36,000, and the median experience is only 0.9 years: meaning most people leave the job within a year.
 
-**Online teaching and knowledge monetization.** Hahow Good School has accumulated more than 1,000 online courses with 800,000 platform members. PressPlay Academy has more than 500 creators. A blockbuster course can generate revenues in the millions or even tens of millions — but that's the top of the pyramid. Most course creators earn far less, and the time cost of course production is high: filming, editing, and marketing routinely take three to six months.
+Delivery is not a career endpoint; it is a transition. It is an airbag when full-time salaries are insufficient, a cushion when graduates cannot find ideal jobs.
 
-**Self-media.** YouTube, Instagram, Threads, Podcasts. The barrier to entry is the lowest; the ceiling is the most uncertain. A Taiwanese YouTuber typically needs to break 100,000 followers to earn stable advertising income. Before that, self-media is more like a "side hustle you're paying time into."
+In January 2026, the Legislative Yuan passed the _Food Delivery Worker Rights Protection and Food Delivery Platform Management Act_ in its third reading, stipulating that the basic remuneration for each order must not be less than NT$45, and the hourly wage must not be less than 1.25 times the minimum wage. This is a late institutional patch. Before this, delivery workers had long existed in a gray area of the Labor Standards Act: not formal employment relationships, no labor or health insurance, no occupational injury protection, no base salary. Platforms could unilaterally lower unit prices, leaving delivery workers with no bargaining power.
 
-**Reselling and e-commerce.** Japan-Korea personal shopping (代購) and Shopee sellers. Margins are thin but cash flow is fast. Many young people start with personal shopping and gradually figure out a path to small-scale e-commerce.
-
-According to a 104 Job Bank 2025 survey, 39% of salaried workers have a side hustle. The breakdown by generation is even more striking: Gen Z (born approximately 1997 or later) with a side hustle reaches 57%; Millennials hit 48%. A yes123 Job Bank survey is even more dramatic — 93.2% of respondents expressed willingness to become a "slash person." The primary reason people want a side hustle? 78.8% say "to increase income." Not self-actualization — money is not enough.
+“Having laws to govern” is indeed progress, but it also illustrates one thing: a work style relied upon by over 100,000 people for their livelihood waited nearly seven years for basic legal protection.
 
 ---
 
-## The Freelancer at the Convenience Store
+## Not Just Delivery: A Spectrum of Side Hustles
 
-Taiwan has a sight rarely seen anywhere else in the world: rows of people working inside convenience stores.
+Delivery is just the easiest entry point. Taiwan youth’s side-hustle spectrum is far wider than imagined.
 
-More than 13,000 convenience stores nationwide, and almost every one has seating, free Wi-Fi, and power outlets. A NT$45 Americano is enough to sit there all afternoon. For freelancers and slash workers who can't afford shared office space, 7-Eleven and FamilyMart are the cheapest mobile offices around.
+**Freelance Design and Engineering.** 104 Freelance, Tasker, or even taking jobs directly on social media. A young person skilled in UI design earns NT$38K during the day and takes on freelance projects at night, charging NT$15,000 to NT$30,000 for a Landing Page. Programmers fare better: a React frontend project can be quoted at over NT$50,000. The benefit of freelancing is high hourly wages; the downside is unstable project sources. “Fat month this, dirt month next” is the norm.
 
-Cafes too. Taiwan has an extremely high density of unrestricted-time cafes. The Cafe Nomad website lists hundreds of work-friendly cafes annotated with Wi-Fi speed, outlet count, and noise level. This fact itself demonstrates the scale of the need — there is an entire population of people who need somewhere cheap to sit down and earn money on a laptop.
+**Online Teaching and Knowledge Monetization.** Hahow has accumulated over 1,000 online courses, with 800,000 platform members. PressPlay Academy has over 500 creators. A hit course can bring in millions or even tens of millions in revenue, but that is the tip of the pyramid. Most course creators’ income is far from this level, yet the time cost of creating courses is high: filming, editing, marketing, often taking three to six months.
 
-Taiwan ranked 12th globally and first in Asia in the 2024 Global Digital Nomad Report. Behind that ranking is not only foreign remote workers coming to Taiwan to enjoy lower costs. A large portion of it is Taiwan's own local freelancers and slash workers supporting that ecosystem.
+**Social Media Management.** YouTube, Instagram, Threads, Podcasts. The lowest barrier to entry, but also the most uncertain ceiling. For Taiwan YouTubers to achieve stable advertising income, the follower count usually needs to break 100,000. Until then, social media management is more like a “side hustle that subsidizes time.”
 
----
+**Purchasing Agents and E-commerce.** Japanese and Korean purchasing agents, Shopee sellers. Thin profits but fast cash flow. Many young people start with purchasing agents and slowly carve out a path for small-scale e-commerce.
 
-## The Gray Zone: A Reality the Law Can't Keep Up With
+According to a 2025 survey by 104 Human Resources Bank, 39% of office workers have side hustles. Looking at it by generation is even more striking: the proportion of Z-generation (born after 1997) with side hustles is as high as 57%, and the millennial generation is also at 48%. A survey by yes123 Job Network is even more extreme: 93.2% of respondents expressed willingness to become slash workers.
 
-Taiwan's Labor Standards Act does not prohibit employees from moonlighting. The Ministry of Labor's position is that workers have the right to engage in other work outside normal working hours, and employers may not penalize employees for this.
-
-This sounds enlightened. But the reality is more complicated than the statute.
-
-Many companies' work rules or employment contracts contain hidden "non-compete" or "exclusive employment" clauses requiring employees not to engage in any other paid work. Although the legal enforceability of such clauses is disputed — non-competes require reasonable compensation and a maximum two-year term — most young employees don't know this and don't dare push back on their companies. The result: side hustles happen, but kept secret from the employer.
-
-Another gray zone is taxes. Freelance income, delivery income, e-commerce income all theoretically need to be declared as income tax. But large volumes of small transactions — a NT$3,000 design job, NT$15,000 earned from a month of food deliveries — often stay below the radar of the filing system. It's not deliberate tax evasion; it's that the institutional design hasn't kept pace with the speed of the gig economy.
-
-The gap in labor protections is even larger. Taiwan's non-typical employment population in 2024 totaled 804,000 people — 6.95% of total employed. This number looks small, but it only counts people whose **primary job** is non-typical employment. Those with a regular day job who run deliveries or do freelance at night — their side hustle identities don't appear anywhere in labor statistics. No labor insurance, no occupational accident protection, no pension contributions. If they're in an accident while delivering, their regular employer's labor insurance won't cover it — because it didn't happen during commuting to or from that job.
+The primary reason for wanting a side hustle? 78.8% said “increase income.” Not pursuing self-realization, but because money is not enough.
 
 ---
 
-## Structural Problems Don't Get Solved by Individual Effort
+## Freelancers in Convenience Stores
 
-A brutal fact: Taiwan's housing price-to-income ratio surged 77% from 2012 to 2023, while the median wage over the same period grew only 14%. That scissors gap cannot be closed by "picking up another job."
+Taiwan has a sight rare in the world: rows of people working inside convenience stores.
 
-104's survey shows that 57% of Gen Z have a side hustle. This figure is often packaged as "young people are so energetic" and "slashing is the new trend." But if you put it back in context — a generation where more than half of people feel that the income from one full-time job is insufficient to support a life — this is not a trend. It is a warning signal.
+There are over 13,000 convenience stores across Taiwan, almost every one with seating areas, free Wi-Fi, and outlets. A NT$45 Americano allows you to sit for the entire afternoon. For freelancers and slash workers without the budget to rent a co-working space, 7-ELEVEN and FamilyMart are the cheapest mobile offices.
 
-Taiwan's AI industry has driven semiconductor exports, with electronic information product exports up 52% year-on-year in 2024. GDP figures look good; per-capita income ranks among the top in Asia. But the DGBAS simultaneously noted that the share of salaried employees earning below-average wages has reached a historic high of 69.77%. The fruits of economic growth are highly concentrated in specific industry chains; most people don't get a share.
+Coffee shops are also key. Taiwan’s density of all-you-can-drink coffee shops is extremely high. The Cafe Nomad website lists hundreds of coffee shops suitable for work, marking Wi-Fi speed, number of outlets, and noise level. This fact alone illustrates the magnitude of demand: there is an entire demographic of people who need a cheap place to sit down and earn money with a laptop.
 
-Young people see this clearly. They don't complain — they open the food delivery app. They don't wait for policy improvement — they take freelance jobs on weekends. They don't hope to buy a house — they calculate how to keep living.
+Taiwan ranked 12th in the 2024 Global Digital Nomad Report, first in Asia. Behind this ranking is not just foreign remote workers enjoying low prices in Taiwan. A significant part is the ecosystem sustained by Taiwan’s local freelancers and slash workers.
 
-The story of the slash generation ultimately comes down to a math problem: when the growth rate of income perpetually trails the growth rate of living costs, you either accept getting poorer and poorer, or you turn yourself into multiple people.
+---
 
-Taiwan's young people chose the latter. But this should not be celebrated. It should be treated as a problem to solve.
+## Gray Areas: Reality Lags Behind Law
+
+Taiwan’s Labor Standards Act does not prohibit employees from having part-time jobs. The Ministry of Labor’s stance is: workers have the right to engage in other work outside normal working hours, and employers cannot punish employees for this.
+
+Sounds progressive. But reality is more complex than legal text.
+
+Many companies’ work rules or labor contracts hide “non-compete” or “exclusive employment” clauses, requiring employees not to engage in other paid work. Although the legal validity of such clauses is controversial—non-compete clauses require reasonable compensation and a limit of two years—most young employees do not understand this and dare not challenge the company. The result: they do side jobs but dare not let the company know.
+
+Another gray area is taxation. Freelance income, delivery income, and e-commerce income theoretically must be declared for income tax. But a large volume of small transactions—a NT$3,000 design project, an extra NT$15,000 earned from delivery in a month—often fall below the radar of the declaration system. It is not deliberate tax evasion; the institutional design itself has not kept up with the speed of the gig economy.
+
+The gap in labor protection is even larger. Taiwan’s non-standard employment population was 804,000 in 2024, accounting for 6.95% of total employment. This number looks low, but it only counts people whose “primary job” is non-standard. Those who have full-time jobs during the day and deliver food or take on freelance projects at night have their side-hustle identity completely absent from labor statistics. No labor insurance, no occupational injury protection, no pension contributions. If you get into a car accident while delivering, your full-time company’s labor insurance will not cover you, because it was not during the commute.
+
+---
+
+## Structural Problems Cannot Be Solved by Individual Effort
+
+A cruel fact is: Taiwan’s housing price-to-income ratio surged 77% from 2012 to 2023, while the median salary increased only 14% in the same period. This scissors gap cannot be closed by “taking on one more job.”
+
+104’s survey shows that 57% of the Z-generation have side hustles. This figure is often packaged as “young people are so energetic” or “slash is the new trend.” But if you put it back in context—seeing that over half a generation feels one full-time job’s income is insufficient to support life—this is not a trend, it is a warning signal.
+
+Taiwan’s AI industry has driven semiconductor exports; electronic and information product exports increased by 52% year-on-year in 2024. GDP figures look good, and per capita income ranks in the top tier in Asia. But the Directorate-General of Budget, Accounting and Statistics simultaneously pointed out that the proportion of employed persons earning below the average salary has reached a historical high of 69.77%. The fruits of economic growth are highly concentrated in specific industrial chains; most people get none.
+
+Young people see this clearly. They do not complain; they open delivery apps. They do not wait for policy improvements; they take on freelance projects on weekends. They do not hope to buy houses; they calculate how to survive.
+
+The story of the slash generation, at its root, is an arithmetic problem: when the growth rate of income always lags behind the cost of living, you either accept becoming poorer and poorer, or you turn yourself into several people.
+
+Taiwan’s young people chose the latter. But this should not be celebrated. It should be treated as a problem to be solved.
 
 ---
 
 ## References
 
-1. [DGBAS: Median Wage and Distribution Statistics](https://www.stat.gov.tw/cl.aspx?n=2715) — 2025 median regular earnings NT$38,319
-2. [104 Job Bank: 2025–2026 Taiwan Region Salary and Benefits Survey Report](https://blog.104.com.tw/104data/) — 39% of salaried workers have side hustles; Gen Z reaches 57%
-3. [Ministry of the Interior Real Estate Information Platform: Housing Price-to-Income Ratio Statistics](https://pip.moi.gov.tw/Publicize/Info/E1050) — Taipei housing price-to-income ratio 16.36 times
-4. [Ministry of Labor Occupational Safety and Health Administration: Delivery Worker Population Statistics](https://www.mol.gov.tw/1607/71771/71774/76068/nodelist) — 145,000 food delivery workers nationwide in 2022
-5. [Digital Times: 2026 Delivery Specialist Law Specifies Minimum NT$45 Per Order](https://www.bnext.com.tw/article/89738//taiwan-food-delivery-law-2026) — Legislative Yuan passes Food Delivery Workers' Rights Protection Act
-6. [591 News: Hard Times for Renters; Average Rent Starts at NT$6,000 Nationwide](https://news.591.com.tw/news/11622) — Average monthly rent for Taipei independent studio NT$14,400
-7. [The News Lens International: Taiwan's Housing Crisis — Housing Prices Among the Highest Globally](https://international.thenewslens.com/article/182910) — International comparison of Taiwan's housing costs vs. wages
-8. [Taipei Times: The housing crisis is still pricing out young people (2025)](https://www.taipeitimes.com/News/editorials/archives/2025/05/20/2003837174) — Difficulties for young Taipei residents trying to buy homes
-9. [Ketagalan Media: Taiwan Needs to Raise Wages Faster to Protect Its Democracy (2025)](https://ketagalanmedia.com/2025/09/03/taiwan-needs-to-raise-wages-faster-to-protect-its-democracy/) — Impact of wage stagnation on Taiwan's democracy
-10. [Merit Times: Non-Typical Employment Share Hits 10-Year Low in 2024; Moonlighting Population Hits Record High](https://www.merit-times.com/news/76429) — DGBAS non-typical employment statistics
+1. [Directorate-General of Budget, Accounting and Statistics: Median Salary and Distribution Statistics](https://www.stat.gov.tw/cl.aspx?n=2715)——2025 regular salary median NT$38,319
+2. [104 Human Resources Bank: 2025–2026 Taiwan Region Salary and Benefits Survey Report](https://blog.104.com.tw/104data/)——39% of office workers have side hustles, Z-generation reaches 57%
+3. [Ministry of the Interior Real Estate Information Platform: Housing Price-to-Income Ratio Statistics](https://pip.moi.gov.tw/Publicize/Info/E1050)——Taipei housing price-to-income ratio 16.36 times
+4. [Ministry of Labor Occupational Safety and Health Administration: Delivery Worker Statistics](https://www.mol.gov.tw/1607/71771/71774/76068/nodelist)——145,000 delivery workers nationwide in 2022
+5. [Bnext: 2026 Delivery Special Law Mandates Minimum NT$45 per Order](https://www.bnext.com.tw/article/89738//taiwan-food-delivery-law-2026)——Legislative Yuan passes Food Delivery Worker Rights Protection Law in third reading
+6. [591 News: Renters Suffer, Nationwide Rent Average Starts at NT$6,000](https://news.591.com.tw/news/11622)——Taipei independent studio average monthly rent NT$14,400
+7. [The News Lens International: Taiwan's Housing Crisis — Housing Prices Among the Highest Globally](https://international.thenewslens.com/article/182910)——International comparison of Taiwan’s housing prices and wages
+8. [Taipei Times: The housing crisis is still pricing out young people (2025)](https://www.taipeitimes.com/News/editorials/archives/2025/05/20/2003837174)——English report on Taipei youth’s housing purchase difficulties
+9. [Ketagalan Media: Taiwan Needs to Raise Wages Faster to Protect Its Democracy (2025)](https://ketagalanmedia.com/2025/09/03/taiwan-needs-to-raise-wages-faster-to-protect-its-democracy/)——Impact of wage stagnation on Taiwan’s democracy
+10. [Merit Times: 2024 Non-Standard Employment Proportion Hits 10-Year Low, Part-Time Workers Hit Record High](https://www.merit-times.com/news/76429)——DGBAS non-standard employment statistics
 
 ---
 
