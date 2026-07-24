@@ -1,14 +1,14 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T18:37:05+08:00",
-    "zhCommitHead": "ef6cae210",
+    "lastUpdated": "2026-07-24T18:47:31+08:00",
+    "zhCommitHead": "ca62e0b3b",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
       "en": {
         "total_zh": 862,
-        "fresh": 717,
-        "stale": 103,
+        "fresh": 720,
+        "stale": 100,
         "metadata_stale": 0,
         "missing": 42,
         "orphan": 0
@@ -47,18 +47,18 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 46,
-        "stale": 11,
+        "fresh": 47,
+        "stale": 10,
         "metadata_stale": 0,
         "missing": 805,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 56,
+        "fresh": 60,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 796,
+        "missing": 792,
         "orphan": 0
       },
       "pt": {
@@ -4172,7 +4172,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
+          "translatedFrom": "Economy/台灣產業轉型升級.md",
+          "sourceCommitSha": "d6377e82e",
+          "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
+          "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "26a727c9",
+          "translationLastModified": "2026-07-24T15:47:25+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -10420,20 +10431,7 @@
           "diffSummary": "+14 -14"
         },
         "vi": {
-          "path": "vi/Technology/taiwan-bim-construction-tech.md",
-          "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:5500ed1d9d4e0f85",
-          "sourceBodyHash": "sha256:6207b1decb9dcfc4",
-          "translatedAt": "2026-07-18T18:59:51+08:00",
-          "translationLastCommit": "e82fd52f",
-          "translationLastModified": "2026-07-19T00:12:50+08:00",
-          "inferred": false,
-          "footnoteDefs": 53,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -14"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -17465,7 +17463,18 @@
           "diffSummary": "+3 -3"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Art/alien-art-centre.md",
+          "translatedFrom": "Art/金馬賓館當代美術館.md",
+          "sourceCommitSha": "20908cd3c",
+          "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
+          "sourceBodyHash": "sha256:ab8b8f728e87222a",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "ca62e0b3",
+          "translationLastModified": "2026-07-24T18:39:09+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "status": "missing"
@@ -25112,18 +25121,16 @@
         "en": {
           "path": "en/Society/taiwan-generations.md",
           "translatedFrom": "Society/台灣的年級生世代.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:c08e2d9389a9aa31",
-          "sourceBodyHash": "sha256:006a7ebb808c91b9",
-          "translatedAt": "2026-06-16T17:03:25Z",
+          "sourceCommitSha": "805200859",
+          "sourceContentHash": "sha256:1b3e5e3f22f40ead",
+          "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/taiwan-generations.md",
@@ -26723,7 +26730,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/i-am-from.md",
+          "translatedFrom": "Society/我是OO人.md",
+          "sourceCommitSha": "72dc7d1dc",
+          "sourceContentHash": "sha256:5d890c10b178421f",
+          "sourceBodyHash": "sha256:0b63d09474dfeccb",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -27398,7 +27416,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-disaster-volunteer-culture.md",
+          "translatedFrom": "Society/台灣災難志工文化.md",
+          "sourceCommitSha": "ae0bea081",
+          "sourceContentHash": "sha256:c3e60eb6650d8dfb",
+          "sourceBodyHash": "sha256:260082957a9cf952",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -27579,7 +27608,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/paraguay-taiwan.md",
+          "translatedFrom": "Society/巴拉圭與台灣.md",
+          "sourceCommitSha": "72a8b4432",
+          "sourceContentHash": "sha256:01affe2533530c02",
+          "sourceBodyHash": "sha256:21c703a5d9235d48",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -31131,16 +31171,16 @@
         "en": {
           "path": "en/About/why-taiwan-needs-its-own-knowledge-base.md",
           "translatedFrom": "About/為什麼台灣需要自己的知識庫.md",
-          "sourceCommitSha": "a05d2431",
-          "sourceContentHash": "sha256:62ec81a90f901dec",
-          "sourceBodyHash": "sha256:352de879384e19e9",
-          "translatedAt": "2026-06-16T17:10:15Z",
+          "sourceCommitSha": "b7dd78637",
+          "sourceContentHash": "sha256:20046b0bdaf571de",
+          "sourceBodyHash": "sha256:43aaf2c0f446a093",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (25→0)"
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/About/why-taiwan-needs-its-own-knowledge-base.md",
@@ -63016,18 +63056,16 @@
         "en": {
           "path": "en/Food/taiwan-banquet-culture.md",
           "translatedFrom": "Food/台灣辦桌文化.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:0689f4ef37606e24",
-          "sourceBodyHash": "sha256:ad9bd62c3f44776c",
-          "translatedAt": "2026-06-16T17:03:25Z",
+          "sourceCommitSha": "26a67c779",
+          "sourceContentHash": "sha256:87996856be7f510f",
+          "sourceBodyHash": "sha256:dc734b24b423e098",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+18 -18"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-banquet-culture.md",
