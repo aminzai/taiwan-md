@@ -332,6 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-25 vortex-babel — gate 假陽性家族：檢查器自報正常同時整天槍斃好產出（三例同日）
+
+- **pattern**: gate-false-positive-family / checker-needs-checking
+- **原則**：品質閘門的假陽性比缺席更毀產能——缺席看得見缺口，假陽性把好產出殺掉還回報「把關勤快」。三例同日現形：cjk-leak-check 括號豁免只認半形（全形（）gloss 全誤殺）、ja/ko marker 表含 的/了/一個/淘汰（跟自己 docstring 矛盾，健康 ja 檔 3/3 誤判 = ja lane 100% 死路）、書名號《》〈〉不在豁免（歌詞詩刊類反覆槍斃）。破案全靠「隔離前存證」：quarantine 前把失敗 blob 留 run dir，屍體讓「當時被判 leak、現行 checker 重驗通過」的矛盾可見。likely fold → REFLEXES #66（gate 閾值要 dogfood 校準）+ #24（工具說謊）+ #69（自評需外部尺）；「隔離前存證」是可泛化子規則候選
+- **觸發**：2026-07-24 vortex-babel（[memory](memory/2026-07-24-174300-vortex-babel.md) + [diary](diary/2026-07-24-174300-vortex-babel.md)）
+- **verification_count**: 3（三家族同日）
+
+### 2026-07-25 vortex-babel — 共用 git index 的並行 session：merge commit 是掃射面（#68 新變體）
+
+- **pattern**: shared-index-merge-sweep
+- **原則**：兩個 session 在同一工作樹並行時，任何一方的 merge/commit 會把對方**已 staged 的變更**（含刪除）掃進自己的 commit——本例掃進 dashboard.css 刪除但對方的 17 個新 CSS 檔還沒 staged，CI 紅一輪。子代 smoke test 同日的目錄級 git add 掃走 fleet 未 commit 譯文是同型病的另一面。fold → REFLEXES #68 vc bump；修補方向：多 session 高風險期用 worktree 隔離（#9），或 commit 前 `git diff --cached --stat` 對賬預期檔數（verify-commit-scope 已有，merge commit 路徑漏接）
+- **觸發**：2026-07-25 00:08 merge 009d6c410 與 dashboard 重構 session 實撞（雙方 memory 都有記錄）
+- **verification_count**: 2（同日兩面）
+
 ### 2026-07-24 migration-mouhouse — headless 遷移的驗證要驗到真的那層（兩課）
 
 - **pattern**: verify-at-the-real-layer / headless-migration
