@@ -93,6 +93,7 @@ class Logger:
 class JsonlWriter:
     def __init__(self, path: Path):
         self.lock = threading.Lock()
+        self.path = path
         self.fp = open(path, "a", encoding="utf-8")
 
     def write(self, obj: dict) -> None:
@@ -558,6 +559,17 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         subprocess.run(["npx", "prettier", "--write", trans_path],
                        cwd=REPO, capture_output=True, text=True)
         ok, fail_reason = verify_one(zh_path, trans_path, log)
+        if not ok:
+            # 隔離前存證（2026-07-24）：失敗 blob 直接 unlink/restore 就沒有
+            # 屍體可驗，反覆 fail 的 pattern 只能用猜的。留一份在 run dir
+            # 供 post-mortem（gate 假陽性家族診斷全靠這個）。
+            try:
+                qdir = report.path.parent / "quarantine"
+                qdir.mkdir(exist_ok=True)
+                (qdir / f"{lang}--{Path(trans_path).stem}.md").write_text(
+                    target.read_text(encoding="utf-8"), encoding="utf-8")
+            except Exception:
+                pass
         disposition = "kept" if ok else restore_head_or_quarantine(trans_path, log)
 
     report.write({

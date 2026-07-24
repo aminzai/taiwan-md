@@ -72,6 +72,11 @@ NON_CJK_SCRIPT_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi"}
 # 命名 gloss（人名／機構／書名＋對照拼音）在界內，整句洩漏不會躲在括號裡。
 PAREN_GLOSS_RE = re.compile(r"[(（][^()（）]{0,30}[)）]")
 
+# 作品名書名號豁免 span（2026-07-24 第三家族）：《專輯／書名》〈單曲／詩名〉
+# 在任何目標語言保留原文都是正確編輯選擇（蘇打綠〈小情歌〉、《笠》詩刊）。
+# 上限 30 字同 gloss 理由——整句洩漏不會躲在書名號裡。
+TITLE_BRACKET_RE = re.compile(r"《[^《》]{0,30}》|〈[^〈〉]{0,30}〉")
+
 
 def detect_lang(path: Path) -> str:
     parts = path.parts
@@ -105,6 +110,7 @@ def scan_file(path: Path, lang: str = None):
         body = re.sub(r"^\[\^[^\]]+\]:.*$", "", body, flags=re.MULTILINE)  # [^n]: ...
 
         gloss_spans = [g.span() for g in PAREN_GLOSS_RE.finditer(body)]
+        gloss_spans += [g.span() for g in TITLE_BRACKET_RE.finditer(body)]
         for m in CJK_RUN_RE.finditer(body):
             start, end = m.span()
             if any(s < start and end < e for s, e in gloss_spans):
@@ -115,8 +121,10 @@ def scan_file(path: Path, lang: str = None):
 
     # ja/ko marker 掃描前的合法區剝除（2026-07-24）：
     #   「…」『…』引述 span — 引用原文 zh 是編輯選擇（陳建仁原話等），非洩漏
+    #   《…》〈…〉作品名 — 專輯／書／單曲／詩名保留原文合法
     #   markdown 連結（容忍一層巢狀中括號）— 引用的 zh 標題合法
     scan = re.sub(r"「[^「」]*」|『[^『』]*』", "", text)
+    scan = TITLE_BRACKET_RE.sub("", scan)
     scan = re.sub(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\([^)]*\)", "", scan)
     for marker in ZH_ONLY_MARKERS:
         c = scan.count(marker)
