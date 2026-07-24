@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T00:38:43+08:00",
-    "zhCommitHead": "481b57203",
+    "lastUpdated": "2026-07-25T00:38:56+08:00",
+    "zhCommitHead": "4ba9911f2",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 75,
+        "fresh": 76,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 779,
+        "missing": 778,
         "orphan": 1
       },
       "ar": {
@@ -85426,7 +85426,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-furry-culture.md",
+          "translatedFrom": "Culture/台灣獸迷文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:fb754fde867da6b6",
+          "sourceBodyHash": "sha256:b8b517c948537006",
+          "translatedAt": "2026-07-25T00:12:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -87804,8 +87815,8 @@
           "sourceContentHash": "sha256:21f968d51e24c095",
           "sourceBodyHash": "sha256:758baf07e7746d38",
           "translatedAt": "2026-07-24T22:03:24+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "4ba9911f",
+          "translationLastModified": "2026-07-25T00:38:43+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
