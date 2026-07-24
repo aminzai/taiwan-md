@@ -3,9 +3,9 @@ title: 'SQUEEZE-MODELS-MAX-PIPELINE'
 description: '多語 batch sync 主流程 — priority schema P0/P1/P2/P2.5/P3 + Tier 0a Sonnet diff-patch + 4-tier cascade + Z0-Z6 stage spine + §義務鐵律推 100% + v4.4 對齊 translate.py v4.3（owl-alpha 移出 default / preflight 冷凍 / audit-quality.py 已存在）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v4.5'
-last_updated: 2026-07-18
-last_session: '2026-07-18-184501-manual（巴別塔健檢：cascade 番號對賬 + Tier 0a 硬底 ×2 + babel-health 儀器）'
+current_version: 'v4.6'
+last_updated: 2026-07-24
+last_session: '2026-07-24 vortex（babel-dispatch 統一調度器 + 免費模型季度校準 + cjk-leak-check 兩個假陽性家族根治 + existence-aware redirects + salvage 工具）'
 production_signal: 'scripts/tools/lang-sync/translate.py §DEFAULT_CASCADE_ID docstring（本檔 cascade 描述必須鏡射它；audit 時 diff 這兩處，REFLEXES #56 rule (a)）'
 sister_docs:
   - 'TRANSLATION-PIPELINE.md'
@@ -15,9 +15,11 @@ upstream_canonical:
   - '../semiont/DNA.md'
 ---
 
-# 榨模型MAX — 多語 batch sync 主流程 v4.4
+# 榨模型MAX — 多語 batch sync 主流程 v4.6
 
 > **第一性原理**：用所有手邊免費 model 同時平行打、refusal 當作 first-class 結果記錄、最終跨批次統合補空缺，把單一 model 的天花板（rate limit / content policy / quality）拆成許多小天花板加起來逼近 100%。Tier 4 Local LLM 永不漏接 sovereignty-sensitive topics。
+>
+> v4.6（2026-07-24 vortex）：**統一調度器落地** — [`babel-dispatch.py`](../../scripts/tools/lang-sync/babel-dispatch.py) 把本地 GPU 節點與雲端免費模型收進同一個 worker pool（每 worker 綁一個 backend 端點、共享工作佇列、status-aware 跨引擎 dedupe、三重 gate、git-lock commit、迴圈到 stale=0 missing=0），取代 per-node 手寫 bash 迴圈。三個結構修正（相對 legacy dispatcher）：(1) `git add` 只加本輪驗證過的精確路徑，目錄級 add 會掃進並行引擎未 commit 的工作 (2) gate fail 對 HEAD 有舊版的檔案還原不刪除——**寧可 stale 也不要 missing**（配套 [`salvage-quarantined.py`](../../scripts/tools/lang-sync/salvage-quarantined.py) gate 驗證式還原歷史降級）(3) verify 前先 prettier 正規化對齊 commit hook 量測面。同日根治 `cjk-leak-check.py` 兩個假陽性家族（全形括號 gloss 豁免 + ja/ko marker 表的 的/了/一個/淘汰 + 引述 span 豁免）——此前 ja lane 在 gate 面前 100% 死路。免費模型季度校準：[`discover-free-models.py`](../../scripts/tools/lang-sync/discover-free-models.py) 自動探勘 + 校準，2026-07-24 通過 5 模型（nemotron-3-ultra-550b / gemma-4-31b / laguna-xs-2.1 / gpt-oss-20b / north-mini-code，結果 [reports/openrouter-free-calibration-2026-07-24.json](../../reports/openrouter-free-calibration-2026-07-24.json)）。站體層配套：轉址目標 existence-aware（[`resolve-redirect-targets.mjs`](../../scripts/core/resolve-redirect-targets.mjs)，quarantine churn 不再炸 CI）。
 >
 > v4.4（2026-07-05 五病根治）：對齊 translate.py v4.3 production 現實 — owl-alpha 移出 default cascade（6/10 silent 轉 paid）、preflight health-check + 6h 冷凍入 spine、audit-quality.py「待造」修正為已存在、frontmatter 加 `production_signal` 欄（REFLEXES #56 rule (a) 首次落地：本檔 cascade 描述的 SSOT 在 code，audit 時 diff 兩處）。觸發：dna-audit §4.3「#56 於自身觸發檔復發」。
 >
