@@ -32,10 +32,12 @@ FILES=()
 if [[ "${1:-}" == "--pr" ]] && [[ -n "${2:-}" ]]; then
   MODE="pr"
   PR_NUM="$2"
-elif [[ "${1:-}" == "--all-ja" ]]; then
-  MODE="all-ja"
-elif [[ "${1:-}" == "--all-en" ]]; then
-  MODE="all-en"
+elif [[ "${1:-}" == --all-* ]]; then
+  # 2026-07-25 泛化：原本只硬編碼 --all-ja 與 --all-en，其他語言傳進來會被
+  # 當成檔名（FILES=("--all-ar")）→ 找不到檔案 → 假 FAIL 1/1。新語言出生時
+  # 沒人會想到這裡也寫死了語言（神經迴路：新語言出生時感知系統不會自動更新）。
+  MODE="all-lang"
+  ALL_LANG="${1#--all-}"
 elif [[ "${1:-}" == "--help" ]] || [[ -z "${1:-}" ]]; then
   grep "^#" "$0" | head -25
   exit 0
@@ -52,14 +54,18 @@ if [[ "$MODE" == "pr" ]]; then
     echo -e "${RED}❌ 無法取得 PR #$PR_NUM 的檔案清單${RST}"
     exit 1
   fi
-elif [[ "$MODE" == "all-ja" ]]; then
+elif [[ "$MODE" == "all-lang" ]]; then
+  if [[ ! -d "knowledge/$ALL_LANG" ]]; then
+    echo -e "${RED}❌ knowledge/$ALL_LANG 不存在（語言代碼打錯？）${RST}"
+    exit 1
+  fi
   while IFS= read -r line; do
     FILES+=("$line")
-  done < <(find knowledge/ja/ -name '*.md' ! -name '_*' 2>/dev/null | sort)
-elif [[ "$MODE" == "all-en" ]]; then
-  while IFS= read -r line; do
-    FILES+=("$line")
-  done < <(find knowledge/en/ -name '*.md' ! -name '_*' 2>/dev/null | sort)
+  done < <(find "knowledge/$ALL_LANG/" -name '*.md' ! -name '_*' 2>/dev/null | sort)
+  if [[ ${#FILES[@]:-0} -eq 0 ]]; then
+    echo -e "${YEL:-}⚠️  knowledge/$ALL_LANG 沒有譯文${RST}"
+    exit 0
+  fi
 fi
 
 # Run Python for accurate character counting (handles unicode properly)
@@ -90,6 +96,14 @@ RANGES = {
     'id':    (1.50, 2.00, 4.30),  # 2026-07-18 Stage 2 校準定案（實測 2.32-3.58，n=3）
     'pt':    (1.50, 2.00, 4.30),  # 2026-07-18 Stage 2 校準定案（實測 2.44-3.97，n=4）
     'hi':    (1.50, 2.00, 4.00),  # 2026-07-18 Stage 2 校準定案（實測 2.20-3.38，n=3；天城文預想較緊湊被實測推翻）
+    'ar':    (1.50, 2.00, 3.30),  # 2026-07-25 Stage 3 首批定案（本工具字元比實測
+                                  # 2.08-2.95 中位 2.65，n=21）
+    'ru':    (1.60, 2.20, 3.90),  # 2026-07-25 Stage 3 首批定案（字元比實測
+                                  # 2.31-3.74 中位 2.93，n=29；俄語詞長，上限最高）
+                                  # ⚠️ 本表單位是「字元比」不是 bytes 比——首次定案時
+                                  # 用 bytes 算差了 1.5 倍（西里爾 2 bytes/char vs
+                                  # 中文 3），band 訂太緊而把健康譯文全報 LONG。
+                                  # 新語言定 band 一律用本工具自己的輸出，不另外算。
     'zh-TW': (0.95, 1.00, 1.00),
 }
 
