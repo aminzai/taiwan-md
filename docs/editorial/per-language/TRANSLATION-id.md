@@ -87,6 +87,22 @@ audience: 'translator (human + AI)'
 
 **Catatan konteks khusus id**: pembaca yang pernah bekerja di Taiwan lebih mengenal ejaan Wade-Giles dari plakat jalan dan KTP kerja ketimbang pinyin RRT yang kadang salah kutip di media Indonesia. Taiwan.md ikut realitas lapangan Taiwan, bukan kesalahan media pihak ketiga.
 
+### ⚠️ Aturan krusial: jangan ganti nama asing dengan nama terkenal
+
+**Menemui nama Taiwan yang tidak ada di tabel di atas — transliterasikan.
+Jangan menggantinya dengan nama tokoh terkenal.**
+
+Kasus nyata (2026-07-25, batch Arab pertama; risiko sama untuk bahasa
+Indonesia): sumber Tionghoa menulis «mantan Kepala Badan Kesehatan **Hsu
+Tzu-chiu** (許子秋) mendengar putrinya…», terjemahan menghasilkan «seorang
+pejabat tinggi kesehatan, **yaitu Chiang Ching-kuo**» — kepala badan diganti
+presiden. Ini bukan kekeliruan antara dua tokoh yang sama-sama dikenal (jebakan
+di §12) melainkan **pengisian kekosongan**: model tidak tahu namanya lalu
+memasang nama politik Taiwan paling sering muncul di data latihnya.
+
+Pencegahan lebih murah: **nama asing ditransliterasi, dengan aksara Tionghoa
+asli dalam kurung**, misalnya «Hsu Tzu-chiu (許子秋)».
+
 ## 3. Romanisasi nama tempat
 
 **Kota** (Wade-Giles resmi Taiwan, bukan pinyin RRT) — **prinsip: jangan mengindonesiakan ejaan** (mis. jangan `Kaosiung`, jangan `Taipe`). Ejaan Latin dipertahankan persis seperti bentuk internasional:

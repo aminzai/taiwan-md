@@ -63,6 +63,22 @@
 
 **Nhân vật đặc thù khác cần lưu ý cách viết**: 林佳龍 → Lâm Giai Long; 陳菊 → Trần Cúc; 謝長廷 → Tạ Trường Đình — các nhân vật chính trị cấp bộ trưởng/thị trưởng ít xuất hiện quốc tế thì dùng Hán-Việt là lựa chọn an toàn nhất vì chưa có "tên quốc tế" cạnh tranh.
 
+### ⚠️ Quy tắc then chốt: đừng thay tên lạ bằng tên nổi tiếng
+
+**Gặp một tên Đài Loan không có trong bảng trên — hãy phiên âm nó. Đừng thay
+bằng tên một nhân vật nổi tiếng.**
+
+Ca thực tế (2026-07-25, mẻ tiếng Ả Rập đầu tiên; rủi ro giống hệt cho tiếng
+Việt): nguồn tiếng Trung viết «nguyên Cục trưởng Y tế **Hứa Tử Thu** (許子秋)
+nghe con gái mình…», bản dịch cho ra «một quan chức cấp cao ngành y tế, **đó là
+Tưởng Kinh Quốc**» — cục trưởng bị thay bằng tổng thống. Đây không phải lẫn lộn
+hai nhân vật đã biết (cái bẫy ghi ở §12) mà là **lấp chỗ trống**: mô hình không
+biết cái tên nên điền vào cái tên chính trị Đài Loan phổ biến nhất trong dữ liệu
+huấn luyện của nó.
+
+Phòng còn rẻ hơn chữa: **tên lạ thì phiên âm, kèm chữ Hán gốc trong ngoặc**,
+ví dụ «Hứa Tử Thu (許子秋)».
+
 ## 3. Địa danh — âm Hán-Việt truyền thống + ngoại lệ tránh trùng tên nội địa
 
 **Thành phố/huyện** (âm Hán-Việt là quy ước có sẵn trong địa lý học tiếng Việt, không phải phát minh riêng của Taiwan.md):

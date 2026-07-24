@@ -91,6 +91,22 @@ audience: 'translator (human + AI)'
 
 > ⚠️ **Atenção falso amigo**: em textos de imprensa em português já é possível encontrar `Lai Ching-te` e `Tsai Ing-wen` escritos exatamente como acima (CNN Brasil, PÚBLICO) — a forma internacional já circula no ecossistema pt. O risco de vazamento pinyin é menor aqui do que a tentação de "aportuguesar" incorretamente sílabas do nome (ex.: escrever `Ingüen` ou separar o hífen).
 
+### ⚠️ Regra crítica: não substitua um nome desconhecido por um famoso
+
+**Ao encontrar um nome taiwanês que não está na tabela acima — translitere-o.
+Não coloque no lugar o nome de uma figura conhecida.**
+
+Caso real (2026-07-25, primeiro lote em árabe; o risco é idêntico em português):
+a fonte em chinês diz «o ex-diretor da Agência de Saúde **Hsu Tzu-chiu** (許子秋)
+ouviu a filha…», e a tradução saiu «um alto funcionário da saúde, **era Chiang
+Ching-kuo**» — o diretor de uma agência virou presidente da República. Não é
+confusão entre duas figuras conhecidas (a armadilha documentada em §12), é
+**preenchimento de lacuna**: o modelo não conhece o nome e coloca o nome político
+taiwanês mais frequente nos seus dados de treino.
+
+Prevenir sai mais barato: **nome desconhecido translitera-se, com o original em
+caracteres chineses entre parênteses**, por exemplo «Hsu Tzu-chiu (許子秋)».
+
 ## 3. Topônimos
 
 ### Regra Taipé vs Taipei (decisão explícita)
