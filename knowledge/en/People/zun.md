@@ -1,194 +1,172 @@
 ---
-title: "Zun: From 'Yellow-Haired Pig' to Two Million-Subscriber Channels, the Lonely Weight of a 27-Year-Old 'Clean Stream'"
-description: "In January 2018, 19-year-old Chu Yu-en became Taiwan's youngest million-subscriber YouTuber. Eight years later, at 27, his second channel has also passed one million subscribers, he has bought his first home, and his girlfriend is the engineer Lauren. Behind the fan-given gift of the label 'clean stream' lies a Taiwanese case study: a young man carrying stigma for his older brother, a persona for his fans, and loneliness for himself."
-date: 2026-06-03
+title: 'Zun: From a Middle School Room to Dual Million-Subscriber Channels, an Adulting Record'
+description: "Zun started streaming games in the second year of middle school, became Taiwan's youngest millionaire YouTuber at 19, and later pushed his secondary channel past the million mark. Spanning fourteen calendar years, this record documents his process of growing up while facing creative burdens, family storms, and sponsorship missteps."
+date: 2026-07-15
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '數位與媒體'
+subcategory: 'Digital and Media'
 tags:
   [
     'YouTuber',
     'Zun',
-    'Taiwanese culture',
-    'online creator',
+    'Taiwanese Culture',
+    'Online Creator',
     'Life Otaku',
-    'clean stream',
+    'Digital Culture',
   ]
-readingTime: 14
-lastVerified: 2026-06-03
+readingTime: 11
+lastVerified: 2026-07-15
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'aeb8b0e4'
-sourceContentHash: 'sha256:0d80278055d155a0'
-sourceBodyHash: 'sha256:44a77176cac892eb'
-translatedAt: '2026-06-05T16:40:22Z'
-image: /article-images/people/zun-new-home-2025.webp
-imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
+sourceCommitSha: '16c428cd9'
+sourceContentHash: 'sha256:94b77718dfa4da62'
+sourceBodyHash: 'sha256:5579d8d02a3f58ac'
+translatedAt: '2026-07-24T10:29:42+08:00'
 ---
 
-> **30-second overview:**
-> Chu Yu-en, nicknamed “Zun,” was born in Kaohsiung on November 16, 1998. On January 14, 2018, at age 19, he pushed his main channel, “人生肥宅x尊” (Life Otaku x Zun), past one million subscribers, becoming Taiwan’s youngest million-subscriber YouTuber at the time. Eight years later, he is 27; his second channel, “人生魯宅x尊” (Life Loser-Otaku x Zun), also passed one million subscribers at the end of 2024, completing a “double million” milestone. His brother Xiao Yu, then in prison, sent him a joss-paper dragon boat from the correctional facility in congratulations. Yet Zun has publicly admitted that “the home I live in is rented, and the car I drive is a ten-year-old used car,” and that he “probably does not count as what people call a winner in life.” This article is about how the fan-given gift of the label “clean stream,” after the 2023 Top War sponsored-content debacle and the 2021 Deepfake case involving his older brother, became a threefold weight carried by a 27-year-old young man.
+> **30-Second Overview:**
+> Zun began uploading game streams to YouTube starting in the second year of middle school. In 2018, at age 19, he had 1.2 million subscribers, making him Taiwan's youngest millionaire YouTuber at the time; by the end of 2024, his secondary channel also crossed the million-subscriber mark. Spanning fourteen calendar years of data, he shifted from games to experimental content, unboxings, and daily life, while also encountering his brother Xiao Yu's Deepfake criminal case and a "Pocket Warriors" sponsorship error. Videos, interviews, and public responses together leave behind a record of adulting: a Taiwanese youth admitting he has burdens, makes mistakes, and continues to live his life.
 
-## From “Yellow-Haired Pig” to Japanese-Style Rapid Editing: Imitation as the Entry Ticket
+In 2018, when 19-year-old Zun was interviewed, he did not attribute his million subscribers to talent. He said he was simply "one of the first to start," gaining an early advantage. When discussing the changes after his subscriber count increased, he added, "When subscribers are low, you dare to film anything; when subscribers are high, you have a certain burden."[^1]
 
-In 2012, a junior high school student in Kaohsiung sat in his room and, under the nickname “Yellow-Haired Pig,” recorded _Minecraft_ gameplay commentary and uploaded it to YouTube[^1]. He also occasionally used another, even more ungainly nickname: “Chu Mao-mao.” At the time, his name was Chu Yu-en. He was 14, and like boys his age across Taiwan, he watched videos by A-Shen (chaoneat) and Gu Amo.
+These two sentences, separated by years, still sound very much like Zun: downplaying his achievements on one hand, while honestly admitting that the larger the lens, the smaller the space for him to act freely. From game streams in a middle school room to two million-subscriber channels, a new home, and a girlfriend, a public record spanning fourteen calendar years allows viewers to see a channel grow, and also see the channel owner slowly coming of age.
 
-Years later, in a video on his second channel titled “Digging Up My Dark-History Videos from Five Years Ago,” Zun mocked his early years as having “started out by plagiarizing A-Shen”[^2]: from tone and editing rhythm to the way he approached topics, he was imitating the top gaming streamers in Taiwan’s YouTube scene at the time. He later locked those old videos, and when filming his own videos he would often joke about this prehistoric period.
+## A Middle Schooler Turns His Room Into a Studio
 
-The real turning point came when he began following Japan’s YouTube scene, especially Hajime-shachō (はじめしゃちょー). He brought into Taiwan the rapid jump cuts, exaggerated typographic effects, and experimental topics common in Japanese videos. At the time, Taiwan’s YouTube field was still dominated by long-form gameplay commentary, and this sense of rhythm was like replacing an entire system of visual language. The channel name “人生肥宅x尊” also took shape during this period. It evolved from “Yellow-Haired Pig” through several changes and eventually became the symbol of a generation. “肥宅” (fei-zhai, literally “fat otaku,” a self-deprecating internet label for a socially withdrawn nerd) still carried a strong self-mocking tone in 2014-2015; on PTT’s C*Chat board, users wore the two characters almost like a badge. By attaching it to his own ID, Zun was effectively telling viewers: “I am not trying to act like a sunny boy. I am the otaku recording \_Minecraft* in his room.” That refusal to pretend was an early foreshadowing of why the “clean stream” label would later stick to him.
+Reports from 2018 record that Zun started filming in the second year of middle school, initially doing game streams. Later feeling that the original format had run its course, he was influenced by Japanese YouTubers and shifted to experimental content, unboxings, and urban legends. By August of that year, his main channel, "Life Otaku x Zun" (人生肥宅x尊), had 1.2 million subscribers. At 19, he was called Taiwan's youngest millionaire-subscriber YouTuber at the time.[^1]
 
-📝 Curator’s note: Imitation is the entry ticket to creation, but whether one can grow something of one’s own after imitation is a separate matter. The key to Zun is not “whom he imitated,” but how he localized a Japanese visual language into an otaku culture Taiwanese teenagers could understand.
+This starting point is important because Zun would later publicly dig up his early videos, using his own imitation and awkwardness as material for jokes.[^2] His teenage years were not organized into a polished resume, but rather returned again and again to new videos through "black history" (embarrassing past content), old footage, and later retrospectives. The fourteen-year-spanning record thus has an early, visible anchor point.
 
-On January 14, 2018, his main channel passed one million subscribers[^3]. Zun was 19 at the time. He was the tenth Taiwanese creator to reach one million subscribers[^4], and the media labeled him the “youngest”: while classmates his age were still in their first year of university, he was already financially free. Challenges involving the spiciest lollipops, tests of urban legends, and all kinds of absurd experiments looked ridiculous on the surface, but they precisely captured the internet generation’s desire for the “meaning of meaninglessness.” He graduated from National Lo-Tung Commercial Vocational High School, later entered the continuing bachelor’s program in Public Administration and Policy at National Taipei University, subsequently suspended his studies, and settled in Taipei[^5].
+![Zun holding early video footage in the thumbnail of an official "black history" retrospective video](/article-images/people/zun-old-video-review-2017.webp)
 
-## “The Only Clean Stream in the YT World”: A Gift Conferred by Fans
+When early videos were re-watched by himself, their content took on a new purpose. On first upload, they were works intended to attract viewers. Years later, when they appeared again, they became material for the current Zun to comment on his past self. Viewers see two timelines simultaneously: the awkward teenager in the frame, and the creator outside the frame who already knows what is embarrassing and what imitation is too obvious. This self-retrospective is warmer than a milestone timeline because the change is directly left in the tone and reactions.
 
-Before discussing “clean stream,” one has to unpack the channel name “人生肥宅x尊” once. “肥宅” was a badge on PTT’s C_Chat board in the mid-2010s; putting “人生” (life) in front of it turned otaku-ness into a life posture rather than a mockery of appearance; the “尊” in “x尊” was both a name and a kind of cold smile. When these three terms were joined together, Taiwan’s YouTube scene did not yet have the term “persona management,” and creators’ ways of positioning themselves were still quite plain. The junior and senior high school students of that generation, whose first act after turning on the computer was to watch Zun “challenge the spiciest lollipop,” have now largely entered society. The videos they remember are only a small part of it. More important was a generational tacit understanding defined by the channel name: “My life is very otaku, and I do not plan to explain it.”
+The 2018 interview itself is also a time slice. It confirms that Zun started filming in middle school and shifted from games to experimental content, recording his age of 19 and 1.2 million subscribers. However, it cannot fill in a complete resume for every earlier year. After old videos were locked or scattered, later retrospective videos became one of the few remaining self-commentaries visible. This article preserves that incompleteness: we know he started early, and we see him laughing back at his awkwardness, but we do not fill in the missing first video, equipment, or family support into a scene.
 
-The term “clean stream” did not appear out of nowhere in Taiwan’s YouTube scene. The person first crowned “the only clean stream in YT” was actually Bald Brother Chen Chun-chieh: he went viral in 2017 for “Brother, no; m̄-thang o” (a Taiwanese Hokkien phrase meaning “don’t do that”), insisted on not accepting donations, and when he died in 2019, the entire PTT Gossiping board collectively mourned him[^6]. The prototype of the label was “not relying on sex, shock, or sensationalism; not grabbing quick money; making content steadily.”
-
-After Chen Chun-chieh’s death, the term gradually shifted onto Zun. On the day in September 2018 when HouseFun News reported on “Taiwan’s youngest million-subscriber YT creator,” comments on PTT’s Gossiping board already included the phrase “Zun is the only clean stream in YT”[^7]. In 2022, when SET News reported on whether “Sheng-Huo-Yu-Zun” had fallen from grace, it explicitly wrote that “Dcard users all say Zun is the clean stream of the YouTuber world”[^8].
-
-During that period, incident after incident erupted in Taiwan’s YouTube scene: Gu Amo was sued by multiple film distributors in 2017 for copyright infringement over his “watch a whole movie in X minutes” videos; Tsai A-ga became embroiled in controversy over employee dismissal; Zhong Mingxuan and Holger Chen clashed repeatedly; Saint was dragged over resurfaced early remarks. The “clean stream” seat became more and more secure on Zun’s head. Among the “Sheng-Huo-Yu-Zun” quartet (Saint, Fang Huo, Xiao Yu, and Zun, also called the “Four Heavenly Kings of YouTube” in 2019), the first three were successively hit by excavated dark histories. Only Zun appeared clean[^9].
-
-But “clean stream” is conferred by fans; the creator has no right to refuse it. Its reverse side is a shackle: once a mistake is made, the backlash will be far greater than for other YouTubers, because viewers feel they have been “deceived.” When an ordinary YouTuber slips up, fans say, “That is just how he is.” When a “clean stream” YouTuber slips up, fans say, “So he is like that too.”
-
-⚠️ Controversial view: The term “clean stream” is itself a kind of moral overload projected onto YouTubers. Why should a young man who reached one million subscribers at 19 have to carry fans’ imagination of “not making mistakes”? In November 2023, that question received a concrete answer.
-
-## The 24 Hours of Top War: The First Crack in the Clean-Stream Label
-
-On November 2, 2023, YouTuber Lai Hong-lin exposed in his own video that Zun had accepted a sponsored placement for the mobile game _Top War_, but the advertisement footage was completely different from the actual game, and Zun had not played it in the video at all; he had simply voiced and performed according to a script provided by the company[^10].
-
-On the night the incident broke, Zun posted a long apology on Instagram Stories. He did not use a public video on his main channel, and he did not livestream. It was just a Story:
-
-> “Regarding the controversy over Top War, I need to apologize to everyone. At the beginning, I received five videos from the company, and they hoped I could voice and perform over the footage. I thought at the time that it seemed quite easy to make, so I accepted it carelessly. Later, after someone reminded me, I realized that we had a problem in vetting the game. This was my own negligence.”[^11]
-
-What cut even more sharply was the part he added:
-
-> “Actually, after discovering that this was a shit game, I did not take this advertisement again. I should have asked the advertiser to take down my video at that time.”[^11]
-
-The three Chinese characters “糞 game” (shit game) stood out glaringly in the apology: he was admitting both that he had failed to vet it and that, after later knowing the game was bad, he still did not proactively stop the damage. The next day, CTWANT’s headline was: “Has the ‘only clean stream in the YT world’ crashed?”[^10].
-
-Four months after the incident, in March 2024, when FTV interviewed Zun, it still called him “the only clean stream in the YT world”[^12]. Fans had not torn off the label, but they already knew there was a crack behind it.
-
-## Brother Xiao Yu’s Prison Sentence and “I’m Really Very Tired”
-
-If 2023 was the first crack in the clean-stream label, then 2021 had already produced a deeper one. It is just that most people remember “Xiao Yu’s case” and not “the passage Zun wrote that year.”
-
-On October 17, 2021, the police contacted Zun. The next day, October 18, he posted a message on Instagram Stories apologizing for the Deepfake face-swapping porn case involving his older brother Chu Yu-chen (Xiao Yu)[^13]:
-
-> “From the time this happened until now, I have actually been even more shocked than you. Xiao Yu never mentioned to his family what he is doing now. Even now I still feel baffled, and I also do not know what I should say to him anymore.”[^14]
-
-The next passage was even heavier:
-
-> “I am not going to cut ties with Xiao Yu. He is still my older brother, and that will not change. In my capacity as his younger brother, I apologize for bringing a bad impression to the public, and I say sorry to all the victims. I am truly very sorry. Other than apologizing for him, I really do not know what else I can do. Too many things have happened all at once. I am really very tired.”[^14]
-
-“I am really very tired” is a sentence rarely quoted in the history of Taiwanese YouTube, but it may be the most naked thing Zun has ever said. It was not an apology, but a confession: a 23-year-old carrying his brother’s case, carrying viewers’ expectations attached to the “clean stream” label, and carrying the overnight transformation from “two brothers’ channels” into a family-ethics decision over whether someone needed to be cut off. He chose “not to cut ties.”
-
-📝 Curator’s note: Western creators facing a family member’s crime usually distance themselves immediately and issue a public statement saying, in effect, “this has nothing to do with me.” Zun’s “not cutting ties” was another choice: placing family ethics above public image. What that choice later brought him would find an answer at the double-million moment at the end of 2024.
-
-Xiao Yu’s case later went through the full judicial process: five years and six months in the first instance in 2022; reduced to four years and ten months on second instance in 2023; finalized by the Supreme Court on May 8, 2024; and imprisonment began on May 29[^15]. In prison, Xiao Yu’s monthly wage was NT$900.
-
-## Double Million and the Joss-Paper Dragon Boat from Prison
-
-Time jumps to the end of 2024. Zun’s second channel, “人生魯宅x尊” (handle `@nerdzun`, created sometime between 2015 and 2017, with third-party sources disagreeing on the date), originally a side line for PVC figurine unboxings, casual shorts, and nonsense edits, also reached one million subscribers[^16].
-
-Nearly seven years after his main channel passed one million, this was a “second one million” and the simultaneous establishment of two million-subscriber channels. In Taiwan’s YouTube scene, the creators whose two channels have both exceeded one million subscribers can be counted on one hand: Lao Gao and Xiao Mo’s two channels, Saint’s two channels, and only a few more when Zun is included. For a 27-year-old, the meaning of this achievement lies not in the subscriber count, but in the fact that “I can sustain two content lines with completely different tones at the same time.”
-
-In its January 13, 2025 report, UDN recorded one detail: after Xiao Yu, serving his sentence in prison, learned that his younger brother had achieved double million, he sent Zun a gift from the correctional facility. It was a dragon boat folded from joss paper during his prison time, together with a letter[^16].
-
-```
-Outside the prison, the younger brother with two million-subscriber channels.
-Inside the prison, the older brother earning NT$900 a month, folding a joss-paper dragon boat by hand in congratulations.
+```tw-stat
+Middle School Year 2 | Started uploading game streams | Approx. 2012
+Age 19 | Taiwan's youngest millionaire YouTuber at the time | 2018 Report
+2 | Main and secondary channels both broke 1 million | End of 2024
 ```
 
-After the storm of 2021, these two brothers did not follow the Western creator model of distance, nor did they take the path of cutting ties. One used a public YouTube channel to record a “prison visit series,” turning his older brother’s situation in prison into subject matter; the other used prison time to fold a paper boat and send it out. Four years later, the words “not cutting ties” had acquired a concrete object as their counterpart. In prison-visit-related videos later uploaded on Zun’s second channel, he speaks calmly about everyday details such as “having to line up for an hour to see my brother” and “speaking for fifteen minutes through glass.” There is no accusation and no beautification, only a record of facts. For Taiwanese viewers, this posture of “my family member committed a crime; I will not cut ties, but I will not speak for you either” is not unusual: in traditional ethics, the dual-track idea that “blood kin is blood kin, right and wrong are right and wrong” is deeply rooted. Zun’s decision to move it onto a public YouTube channel instead became a rare contemporary demonstration.
+📝 Curator's Note: Zun himself admits that starting "early" brought platform dividends. For readers, starting early has an additional layer of meaning: every subsequent retrospective can find the old footage left by that middle schooler.
 
-📝 Curator’s note: The double million is less like a sequel to success studies than a moment when two completely unequal life trajectories are placed side by side. If one had to choose a single anchor to represent Zun in 2024, this joss-paper dragon boat would be more precise than 1.71 million subscribers.
+## Million Subscribers Trade Freedom for a Burden
 
-## Age 27: Renting, a Used Car, and Outside the Winner’s Circle
+In 2018, Zun had already encountered the most difficult exchange to articulate in creator economics. He did not sign with an agency and rarely did sponsorships; his income relied mainly on video views. But the higher the subscribers, the less he dared to film "very boring, very bad things."[^1] The platform gave him work earlier than his peers, handing him audience expectations, commercial pressure, and self-doubt all at once.
 
-In March 2024, ETtoday interviewed Zun. On camera, he said a passage that was later repeatedly quoted by various media outlets:
+This burden has two layers. The first comes from the numbers: a video is no longer just about whether it is fun for him, but also faces whether million subscribers will click or not. The second comes from memory: viewers remember what he said before, what collaborations he accepted, and who he appeared with. Videos can be taken down, but long-accumulated trust does not disappear along with backend buttons. Zun felt the first layer in 2018. A few years later, he encountered the second.
 
-> “From birth until now, every home I have lived in has been rented, and the car I drive is a ten-year-old used car. I go abroad about two or three times a year. I probably do not count as what people call a winner in life. Maybe your classmates around you are all more winning than I am.”[^17]
+At that time, media often called him a "clear stream" (清流). This term contains both content impression and moral expectation: self-deprecation, challenges, life fun, relying less on controversy to grab attention. But creators still have to handle ads and judgment errors. The title can explain why viewers are particularly disappointed, but it cannot fact-check collaborations, nor fix a person into a role that never makes mistakes.
 
-FTV’s 2024 report added the half-sentence that followed: “But I have a girlfriend and cats, so I’m winning na~”[^12], half joking and half serious.
+In November 2023, YouTuber Lai Hung-lin pointed out that the mobile game "Pocket Warriors" (口袋奇兵) hired multiple creators to voice the same ad video, the content of which did not match the actual game. Zun was one of the collaborators. Zun immediately admitted he received five videos provided by the manufacturer, felt the work was easy, and "rashly accepted" it without proper vetting. He stated he had requested the ad be taken down and would scrutinize sponsorship content more strictly in the future.[^3]
 
-His girlfriend’s real name has not appeared in public reports. Her Instagram account is `@laurenveur`; she is an engineer nicknamed “Lauren.” On May 30, 2022, when Lauren’s channel reached 50,000 subscribers, the two filmed a Q&A video titled “Honestly Answering 50 Questions,” formally making their relationship public[^18]. In Newtalk’s report from the same period, Lauren recalled that she first met Zun through Zun’s younger brother “Xiao Yu”; the two decided to be together in only three days, without any deliberate confession[^19]. When asked “Will you get married?”, both answered without hesitation: “Yes.” In the comments under the Q&A video, what people mentioned most was not whether the two were sweet, but that “Zun smiles more now.”
+According to the response preserved by Newtalk that day, Zun later found the game quality problematic and did not continue with the same ad, even refusing when the manufacturer offered more money. However, he admitted he did not immediately request the removal of the already filmed videos. He said, "I should have had the advertiser take down my video at that time."[^3] The problem, therefore, was not only in accepting the case initially, but also in whether he proactively handled existing content after discovering it was inappropriate.
 
-By December 13, 2025, the main channel uploaded a video titled “My! New! Home!”[^20]: the first time Zun introduced a home he had bought in a public video. From recording _Minecraft_ commentary in his room at age 14 to titling a video “my new home” at 27, the line had stretched across 13 years. In the video, he did not flaunt the house or deliberately display its price range. He talked more instead about trivialities such as “finally not having to follow a landlord’s rules” and “Lauren and I argued for a week over whether the sofa should go here or there.” Within three months of upload, the video accumulated tens of thousands of comments. The highest-temperature comments were not things like “the house is so big,” but a sentence along the lines of: “Seeing Zun really have a home of his own makes me feel at ease.” When fans grow older together with a creator, they feel happy that he is finally no longer renting, as if they were happy for a classmate of their own. In Taiwan’s YouTube scene, this kind of long-term relationship in which “fans become almost family” is not common; most million-subscriber followings are built on topicality rather than companionship. Zun’s two channels happen to be the opposite. Much of the subject matter is aimless, everyday, and about “what Lauren, the cats, and I do at home.” This seemingly unfocused content has instead nurtured the stickiest viewer structure.
+A creator providing voiceovers for a manufacturer's footage is not necessarily deception in itself. The true boundary lies in whether the ad makes viewers believe the creator actually played, used, or endorses the content. This incident did not have a fully public brand, agent, and creator contract, so the article cannot assign responsibility across the entire industry chain. What can be confirmed is the part Zun admitted himself: he accepted rashly, vetted insufficiently, and was one step late in requesting removal.
 
-A-Shen (chaoneat, born in 1992) is six years older than Zun. In 2022, when he was 28, he founded KAMIKAMI BURGER, opening a burger business and cooperating with 50 restaurants in a cloud-kitchen model; on September 10, 2023, he announced that he would permanently stop updating YouTube on October 15, his 31st birthday[^21], switching to a side-business-owner track. Tsai A-ga (born in 1984) is 14 years older than Zun. At age 30, in 2014, he had already stabilized his company, Dtoufo Entertainment; later he married, had children, and moved into a family-oriented route[^22], with his wife Er Bo and their sons becoming part of the channel’s content.
+This is not an event that can be swept aside with the four words "clear stream persona collapse." It concretely shows that the boy who said in 2018 that his income relied mainly on views and that he rarely did sponsorships could still make rash commercial judgments after the channel became a long-term job. Zun's response did not make the error disappear, but at least put the responsibility back on himself, rather than just pushing it to the manufacturer.
 
-Zun is not yet 30. He is now in the same transition-age range as A-Shen, but his path is different: A-Shen shifted to B2C food service and stopped YouTube; Zun kept YouTube, but lowered the intensity, split content through a secondary channel, and added home ownership and a stable relationship. **He chose to change tracks, not to leave the field.**
+## After His Brother's Crime, Zun Answers His Own Position
 
-💡 Did you know: In 2024, media outlets such as Liberty Times Entertainment and _The Storm Media_ were calling it a “major YouTuber retreat” and saying “influencers moving toward a family route is a prelude to exit”[^23]. But Zun’s two channels were still growing in subscribers, and his second channel had just reached one million. That “prelude to exit” framing does not apply to him. “Slowing down” means leaving the field for some creators; for others, it means changing tracks. The difference lies in whether a second curve is growing at the same time.
+A harder test occurred as early as 2021. Zun's brother, Zhu Yu-Chen (朱玉宸), also known as YouTuber Xiao Yu (小玉), was investigated for producing and selling Deepfake face-swap pornography. The case involved 119 victims, with illegal gains exceeding NT$10 million. In 2024, the Supreme Court upheld the second-instance judgment; the part not eligible for fine substitution should be executed as 5 years imprisonment, with another 1 year and 8 months eligible for fine substitution.[^4]
 
-## “But I Have a Girlfriend and Cats”
+This is not an abstract "influencer scandal." The judgment found that Xiao Yu and his assistant synthesized public figures' facial features into pornographic videos and provided them for paid viewing. The second-instance court pointed out that once online video images are circulated, they are difficult to completely eliminate, and the victims' dignity, reputation, and mental damage are also difficult to restore. Of the 119 people, 83 filed defamation complaints, while 36 did not.[^4] Placing these numbers first is because no family member can subsequently take the place of the victims.
 
-Placed back into the larger map of Taiwanese YouTube, Zun was the youngest million-subscriber creator in the 2014-2018 wave. That group is now generally approaching or just past 30, and everyone is facing the same question: how to define themselves for the next decade. Tsai A-ga took the family route, A-Shen shifted into food entrepreneurship, HowHow manages his identity as the king of sponsored content, and Lao Gao and Xiao Mo, because they started later, are still in an acceleration phase.
+After the case was exposed, Zun stated on his Instagram Stories that Xiao Yu had never told the family what he was doing. He apologized to the victims and stated he would not cut off his brotherly relationship. The last sentence was: "Too many things happened at once, I am really tired."[^5]
 
-Zun’s chosen path can be summarized in one sentence: keep YouTube, but let it become part of life instead of compressing life into YouTube. The double-million channels are only mid-game evidence of this choice, not its endpoint. As he described himself in an interview: “I am not trying to leave this industry. I just need to learn how to do this while living.”
+In the same public response, he said that if his brother did wrong, he should bear it himself, with nothing to shield. He would then leave it to the legal judgment.[^5] This layer of meaning explains his boundaries better than "cutting off" or "not cutting off." Zun has no power to decide his brother's criminal liability, nor can he eliminate kinship with just a statement. What he can do is admit he did not know beforehand, apologize to the victims, and return criminal responsibility to the perpetrator and judicial procedures.
 
-The “clean stream” label was never a talent. Chen Chun-chieh’s kind of “clean stream,” defined by refusing donations, and Zun’s kind of “clean stream,” defined by “not causing major incidents but still causing minor ones,” are both essentially fans’ moral projections onto creators. When a projection lasts long enough, a creator either gets crushed by it (taking bad sponsored content and crashing, or having family dark histories dug up), or learns to treat it like a coat: wear it when it is cold, take it off when it is hot.
+This response was originally placed on Instagram Stories, which usually disappear after 24 hours. The content can still be traced today because news outlets saved screenshots and text on the same day. It also reveals the fragility of "public records": YouTube videos may stay online for a long time, but Stories, comments, and platform numbers disappear or change. Therefore, this article only quotes the words that media definitely saved that day, not reprocessing later circulated summaries into a more beautiful confession.
 
-That March 2024 line, “But I have a girlfriend and cats, so I’m winning na~,” may be the way Zun found to take it off after the “clean stream” label passed its tenth year. He did not try to tear off the label. Instead, he let fans see the 27-year-old person underneath it: rented housing, a used car, the joss-paper dragon boat from his brother, weekends arguing with Lauren over where to put the sofa, and the video schedule table behind two channels. Those everyday things do not count as “winner in life” material, but they did indeed exist.
+Criminal responsibility belongs to Xiao Yu; Zun is not the perpetrator of the case. Zun choosing not to deny his brotherly relationship does not equal defending the crime. The reason his words at the time are memorable is precisely because they did not provide a clean, likable answer: a person can condemn what a family member did, while simultaneously admitting that blood ties do not disappear due to a statement.
 
-For the viewers who grew up watching Zun in the 2014-2018 wave, this article is, in a sense, also their own mirror. The YouTuber they followed in high school is now entering, alongside them, the zone of 27, 28, and 30, facing home buying, stable relationships, side businesses, and family storms. A generation of Taiwanese young people is learning one thing on the same timeline: how to move from “fast” to “enough.” Zun’s story does not need to be packaged in an inspirational frame, because it is real enough not to need packaging.
+In the previous section, Zun had to be responsible for his own sponsorship judgment. In this section, he could answer his position as a family member, but could not bear the criminal liability for his brother. The public record here has left the simple space of teenage play. Later, partners and residences reappear; responsibility and ordinary days coexist in the same adult life.
 
-✦ Perhaps the so-called “clean stream” was never a posture of being so clean that one remains untouched by the world, but the willingness to admit one has been touched by the world and still slowly wash oneself every day.
+```tw-timeline
+2018 | Main channel crosses 1 million | Age 19, media calls him Taiwan's youngest at the time
+2021 | Brother's case exposed | Zun apologizes to victims, explicitly states he will not cut blood ties
+2023 | Pocket Warriors sponsorship error | Admits rash acceptance and vetting negligence
+2024 | Secondary channel crosses 1 million | Two different tonal content lines both cross 1 million
+2025 | Camera moves into new home | Channel extends from teenage experiments to adult daily life
+```
+
+## Life Begins to Pass Through Different Channels
+
+The main channel first left behind games and experiments; the secondary channel later accommodated figures, games, and looser daily life. Partner Lauren's channel left behind a public Q&A with the two of them in 2022. By the end of 2024, the secondary channel also crossed the million mark. In 2025, new home videos returned to the main channel. Life thus enters public records step by step along different channels. These distributions are not necessarily a long autobiography pre-designed by Zun. Categorization on platforms is often more direct: which one fits the main channel, which goes to the secondary channel, which time visits the partner's channel. Looking back years later, the scattered upload locations instead leave traces of how life boundaries moved. The main channel retains the facade of planning; the secondary channel allows looseness; the story of the two is filmed by each party respectively. Adult life is not collected into a single series, but slowly pieces together a silhouette between different accounts.
+
+Three upload positions answer different questions. The main channel allows readers to see how Zun arranges planning. The secondary channel preserves looser content and leaves the million Q&A from the end of 2024. Lauren's channel preserves the two's joint narrative of their dating history. These are life fragments they actively made public, with limited boundaries. Arranged by year, the trajectory of increasingly increasing daily topics emerges in public records, making the content each channel bears clearer.
+
+When the secondary channel broke 1 million, Zun uploaded a viewer Q&A video on December 28, 2024, with the title directly including "Million Subscribers" and visiting Xiao Yu in prison.[^8] This video could easily be used to continue the brother drama, but it has another layer of meaning: the secondary channel, originally accepting figures, games, and casual content, also accumulated enough to independently cross 1 million. The main channel's milestone occurred in 2018; the secondary channel's milestone was six years later. The same "million" is no longer the same life.
+
+![Official thumbnail of Zun's second channel million-subscriber Q&A video](/article-images/people/zun-second-channel-million-2024.webp)
+
+This transformation is particularly obvious in Zun and Lauren's public videos. In 2022, the two answered questions together about dating, how they met, and future plans. Lauren said the two met through Xiao Yu, decided to date quickly, and had already been together for several years at the time.[^6] The video's fun does not rely on large-scale planning, but on the pauses, roasts, and familiarity of the two answering questions.
+
+Media details organized from the video include: the first meeting was set up by Xiao Yu; the two decided to date after three days of相处 (getting along); there was no formal confession. By the time of filming in 2022, they had been dating for four and a half years.[^9] This Q&A adds time thickness: the lens not only remembers the two dating publicly, but also remembers how they look back to narrate how they met.
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;">
+   <iframe src="https://www.youtube.com/embed/BDxeiny76y4" title="Lauren and Zun Honestly Answer 50 Questions" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+In December 2025, the main channel uploaded "Me! My! New! Home!" (〈我！的！新！家！〉).[7] From recording games in a room in middle school to introducing his residence with a lens as an adult, the visuals completed a natural loop. This is not proof of "shooting family after traffic recedes." Without words spoken by Zun himself, outsiders should not announce a transformation or exit for him. What can be confirmed is only: he is still filming, and the channel already has space for life that does not require challenge questions.
+
+The video title only writes "New Home," so this article also stops at this minimal fact: not inferring home ownership, not estimating house prices, not writing it as the first house. The room loop thus stays within the scope public materials can bear. The room in middle school was the starting point for filming. The new home in 2025 is currently a later life node. The two visuals span fourteen calendar years; this is the scale the article intends to preserve.
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;">
+   <iframe src="https://www.youtube.com/embed/twgMJSxS-H8" title="Zun: Me! My! New! Home!" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+📝 Curator's Note: Tracking a YouTuber for years is not quite the same as following a star's works. Rooms, friends, partners, and family enter the frame bit by bit; viewers think they are watching new videos, but are actually using others' time to mark their own youth.
+
+## He Does Not Conclude for Adulthood
+
+In 2018, Zun said that if one day he stopped being an influencer, he wanted to draw manga; in the same interview, he also said his success was mainly due to starting early, and others copying that method would not succeed again.[^1] This self-awareness means his story does not need to be packaged as an entrepreneurship myth. He made some judgments correctly, and some incorrectly; he received platform dividends, and paid the price of public life.
+
+"Adulting Record" does not equal completed growth. Public apologies do not automatically repair trust; the secondary channel's million does not prove work is stable from now on; the new home video has no obligation to provide a conclusion for life. What these materials can explain is that a creator who started working early left answers he was willing to make public in different years. Contradictions between answers exist precisely because people grow up and make new judgments in new situations.
+
+This record is composed of different materials, each with its own boundaries. Videos allow us to see how Zun performs and looks back at himself; person interviews leave his self-description of opportunity, burden, and manga dreams; Stories save the response at the moment of crisis; court judgments confirm the victims, gains, and criminal liability of his brother's crime. The four types of materials cannot replace each other. The new home video cannot prove home ownership; apology text cannot replace judicial facts; media titles cannot prove a person's character. The meaning of putting them together is to keep the appearance of adulthood complex, while not crossing the scope what each piece of evidence can truly say.
+
+Time also adds different limitations to these materials. The 2018 person interview can only represent the answer at age 19; the 2021 Stories only save the family member's reaction at the moment the case was exposed; the 2024 million Q&A and 2025 new home video are life slices he was willing to make public at the time. They can be arranged by date, but cannot be pieced into a straight line of "becoming more successful" or "finally mature." Whether Zun has changed must be judged case by case based on specific words and deeds, not because age increased, we write a conclusion for him first. Every node has a date, and each retains the part of public materials that has not yet been answered. This boundary keeps the uncertainty of each year, and prevents later milestones from retroactively adding inevitability to early decisions. Time order is a verification tool, not a script for a success story.
+
+Therefore, dual-channel millions are just a set of time markers in this article. The main channel's million occurred at age 19, when he talked about opportunity and burden; when the secondary channel crossed 1 million, he had already experienced family cases and his own sponsorship negligence, and public content had added partners and residences. The numbers look similar on the surface, but the people standing behind them are already different. What truly connects the two milestones are the uneven, even ugly, public traces in between.
+
+Public data cannot prove that viewers across fourteen calendar years are always the same group, nor can it invent shared feelings for the audience. What can be confirmed is that early videos are still re-watched by Zun, and the secondary channel also crossed 1 million in 2024; this record does not stop at the moment of teenage viral fame, but extends all the way from the old room to the new room.
+
+Taiwan's early YouTubers had no existing precedents to demonstrate how to film from their teens into adulthood. Zun started early enough that this growth left a public record spanning fourteen calendar years.
+
+Zun in the new home video is still the same person as the game streamer in middle school. The difference is that the public record has spanned fourteen calendar years: a burden brought by one million subscribers, a family response that could not exonerate his brother, a false sponsorship video he should be responsible for, and life becoming increasingly present in different channels. The new home lens does not answer for him what adulthood is; it only leaves the latest room for this record.
 
 **Further Reading**:
 
-- [HowHow](/people/Howhow) — A million-subscriber YouTuber from the same period, and another model of transformation as the king of sponsored content
-- [Tsai A-ga](/people/蔡阿嘎) — A Taiwanese YouTuber 14 years older than Zun who completed the family-route arc, offering a deeper point of comparison
-- [History of YouTube in Taiwan](/culture/台灣youtube發展史) — The overall map from the 2010 incubation period to the 2024 major retreat
+- [Ah Shen](/people/阿神) — Also started from game videos; Ah Shen's eleven years of daily updates and later withdrawal of the fixed posting commitment can be contrasted with another long-term creator's work rhythm.
+- [HowHow](/people/Howhow) — Also came from Taiwan's early YouTube, putting absurd comedy, sponsorships, and family life into the same creative identity.
+- [Cai A-Ga](/people/蔡阿嘎) — Moved from personal short videos to team and family channels, contrasting with another long-term creator's path to adulthood.
+- [Gamer](/culture/巴哈姆特) — An important entry point for Taiwan's gaming and online communities, and one of the soils where early streaming culture grew.
+
+## Image Sources
+
+- [Life Otaku x Zun YouTube Channel: "Me! My! New! Home!"](https://www.youtube.com/watch?v=twgMJSxS-H8) — Video thumbnail as fair use editorial commentary for person and work critique.
+- [Life Otaku x Zun YouTube Channel: Early Video Retrospective](https://www.youtube.com/watch?v=OUZB30lyGcc) — Official video thumbnail as fair use for creative starting point and self-retrospective critique.
+- [Life Lu Otaku x Zun YouTube Channel: Million Subscriber Q&A](https://www.youtube.com/watch?v=m5Za_ARPRx0) — Official video thumbnail as fair use for secondary channel milestone critique.
 
 ## References
 
-[^1]: [Wikipedia: 人生肥宅x尊](https://zh.wikipedia.org/zh-tw/%E4%BA%BA%E7%94%9F%E8%82%A5%E5%AE%85x%E5%B0%8A) — The entry records Zun’s real name, Chu Yu-en; his birth in Kaohsiung on November 16, 1998; his earliest nicknames, “Yellow-Haired Pig” and “Chu Mao-mao”; and his creative trajectory beginning with _Minecraft_ gameplay commentary.
+[^1]: [Housefun News / United Daily News: Life Otaku x Zun Becomes "Taiwan's Tiniest Million YT Subscriber Owner"](https://news.housefun.com.tw/news/article/196239205065.html) — August 2018 person interview, recording Zun starting filming in middle school, shifting topics, 1.2 million subscribers, and his direct quotes on opportunity, burden, and manga dreams.
 
-[^2]: [Taiwan Talent Show: Revealing His Dark History as a Filming Newcomer](https://ttshow.tw/articles/48444) — The report quotes verbatim passages from Zun’s self-mocking remarks in the second-channel series “Digging Up My Dark-History Videos from Five Years Ago,” including that he “started out by plagiarizing A-Shen,” showing his reflection on the early stage of his creation.
+[^2]: [Taiwan Talent Show: Zun Reveals Rookie Filming Black History](https://www.ttshow.tw/article/49685) — 2018 report organizing Zun's video content of looking back at early game streams and imitation experience, for cross-verification of creative starting points.
 
-[^3]: [HouseFun News: The Youngest Million-Subscriber Creator in the YT World, 19-Year-Old Zun](https://news.housefun.com.tw/news/article/142016215033.html) — An August 24, 2018 report recording that Zun reached one million subscribers on January 14, 2018, at only 19 years old, making him Taiwan’s youngest million-subscriber YouTuber at the time.
+[^3]: [Newtalk: Zun Apologizes for "Pocket Warriors" Sponsorship Controversy](https://newtalk.tw/news/view/2023-11-03/895065) — November 2023 report quoting Zun's public apology paragraph by paragraph, including rash acceptance, vetting negligence, ad removal, and strengthening scrutiny.
 
-[^4]: [Business Next: 2017, the Big Year for Taiwanese YouTubers Reaching One Million Subscribers](https://www.bnext.com.tw/article/47428) — The Taiwanese creators who reached one million subscribers in 2017 included Ray Du, Anny Kou, A-Shen (March 9, the third), Gu Amo, Saint, Vegetable, Fang Huo, and seven groups in total; Zun was not among them. Zun joined the million-subscriber ranks in January 2018, becoming Taiwan’s tenth.
+[^4]: [CNA: Influencer Xiao Yu Makes Millions from Face-Swap Mystery Videos, Sentenced to 5 Years Finalized](https://www.cna.com.tw/news/asoc/202405090066.aspx) — May 2024 judicial report, recording 119 victims, illegal gains, and the execution structure after the Supreme Court finalized the judgment.
 
-[^5]: [Wikipedia: 人生肥宅x尊](https://zh.wikipedia.org/zh-tw/%E4%BA%BA%E7%94%9F%E8%82%A5%E5%AE%85x%E5%B0%8A) — The entry records that Zun graduated from National Lo-Tung Commercial Vocational High School, studied in the continuing bachelor’s program in Public Administration and Policy at National Taipei University (now suspended), and currently resides in Taipei City.
+[^5]: [TVBS News: Zun Responds to Brother Xiao Yu's Deepfake Case](https://news.tvbs.com.tw/entertainment/1611575) — October 2021 same-day report saving Zun's Stories, including apologizing to victims, not cutting blood ties, requiring brother to bear responsibility, and "I am really tired."
 
-[^6]: [PTT Gossiping Board: Discussion of Bald Brother Chen Chun-chieh and the Origins of the “Only Clean Stream in YT” Label](https://www.pttweb.cc/bbs/Gossiping/M.1731573740.A.E07) — PTT comments record that the title “the only clean stream in YT” was first applied to Bald Brother Chen Chun-chieh, who went viral in 2017 for “Brother, no; m̄-thang o,” insisted on not accepting donations, and died on November 13, 2019.
+[^6]: [YouTube: Lauren and Zun Honestly Answer 50 Questions](https://www.youtube.com/watch?v=BDxeiny76y4) — May 2022 uploaded public Q&A between the two, a primary audio-visual source for the two discussing meeting, dating, and future plans.
 
-[^7]: [PTT Gossiping Board: Comment Thread on the 2018 HouseFun News Story About Taiwan’s Youngest Million-Subscriber YT Creator](https://disp.cc/ptt/Gossiping/1RcBHO3W) — In the PTT comment thread for that news item on September 12, 2018, users including yorkyoung applied the “only clean stream” label to Zun, an early record of the label’s transfer from Chen Chun-chieh to Zun.
+[^7]: [YouTube: Zun "Me! My! New! Home!"](https://www.youtube.com/watch?v=twgMJSxS-H8) — December 2025 uploaded to the official "Life Otaku x Zun" channel, serving as the primary primary audio-visual for the adult life section and the article's closing visuals.
 
-[^8]: [SET News: Has Sheng-Huo-Yu-Zun Fallen from Grace? Only “He” Has Stable Views](https://tw.news.yahoo.com/聖火玉尊跌落神壇-只剩-他-點閱超穩-110003983.html) — An October 17, 2022 report citing Dcard users’ assessments of Zun: “Dcard users all say Zun is the clean stream of the YouTuber world,” “Zun has always been very stable, with no big ups and downs,” and “few negative reviews, funny, and has a girlfriend.”
+[^8]: [YouTube: Zun's Second Channel Million Subscriber Q&A](https://www.youtube.com/watch?v=m5Za_ARPRx0) — Uploaded December 28, 2024, to the official "Life Lu Otaku x Zun" channel; title and metadata confirm the secondary channel's million milestone and Q&A content.
 
-[^9]: [ETtoday: Origin of the “Sheng-Huo-Yu-Zun” Four Heavenly Kings Grouping](https://www.ettoday.net/news/20200729/) — A July 29, 2020 report recording that “Sheng-Huo-Yu-Zun” refers to the four creators Saint, Fang Huo, Xiao Yu, and Zun, not three people, and that they were also called the “Four Heavenly Kings of YouTube” in online circles in 2019.
-
-[^10]: [CTWANT: Has the “Only Clean Stream in the YT World” Crashed? Zun Exposed for Fake Sponsored Content](https://www.ctwant.com/article/294919/) — A November 3, 2023 report documenting the full course of the sponsored-content controversy over the mobile game _Top War_: the whistleblower was YouTuber Lai Hong-lin; the advertisement footage seriously diverged from the actual game; Zun did not actually play it and only voiced a script; and the headline used the question of whether the “only clean stream in the YT world” had crashed.
-
-[^11]: [Newtalk: Zun Apologizes, Says He Will Review Content More Strictly](https://newtalk.tw/news/view/2023-11-03/895065) — A November 3, 2023 report fully quoting Zun’s verbatim apology on Instagram Stories, including key original phrases such as “accepted it carelessly,” “my own negligence,” “shit game,” and “should have asked the advertiser to take down my video at that time.”
-
-[^12]: [FTV News: Exclusive Interview with Zun, the Only Clean Stream in the YT World](https://www.ftvnews.com.tw/news/detail/2024314NX002) — FTV’s March 14, 2024 interview report still referred to Zun as “the only clean stream in the YT world” four months after the incident, and added his self-mocking half-sentence: “But I have a girlfriend and cats, so I’m winning na~”
-
-[^13]: [Mirror Weekly: Xiao Yu Case Breaks; Younger Brother Zun Apologizes on IG Stories](https://www.mirrormedia.mg/tag/5b9791d434cc3f100061bd2f) — An October 18, 2021 report recording that police contacted Zun on October 17, and that on October 18 Zun posted an Instagram Story apologizing for the Deepfake face-swapping porn case involving his older brother Chu Yu-chen.
-
-[^14]: [ETtoday: Full Text of Zun’s Apology for Xiao Yu](https://star.ettoday.net/news/2099273) — An October 18, 2021 report fully quoting Zun’s verbatim apology on Instagram Stories, including key original phrases such as “From the time this happened until now, I have actually been even more shocked than you,” “Xiao Yu never mentioned to his family what he is doing now,” “Even now I still feel baffled,” “I am not going to cut ties with Xiao Yu. He is still my older brother, and that will not change,” and “I am really very tired.”
-
-[^15]: [UDN: Supreme Court Finalizes Xiao Yu Deepfake Case](https://udn.com/news/story/7321/8045673) — Records the Supreme Court’s finalization of the case on May 8, 2024, Xiao Yu’s imprisonment beginning on May 29, and the NT$900 monthly prison labor wage.
-
-[^16]: [UDN: Zun Reaches Double Million; Imprisoned Xiao Yu Sends Joss-Paper Dragon Boat in Congratulations](https://udn.com/news/story/7321/8492810) — A January 13, 2025 report recording that Zun’s second channel, “人生魯宅x尊,” reached one million subscribers at the end of 2024; that his main and secondary channels achieved the double-million milestone; and that Xiao Yu sent his younger brother a handmade joss-paper dragon boat from prison as a gift.
-
-[^17]: [ETtoday: Zun Self-Mockingly Says He Is Not a Winner in Life](https://star.ettoday.net/news/2701524) — A March 13, 2024 report quoting Zun’s original words: “From birth until now, every home I have lived in has been rented, and the car I drive is a ten-year-old used car. I go abroad about two or three times a year. I probably do not count as what people call a winner in life. Maybe your classmates around you are all more winning than I am.”
-
-[^18]: [YouTube: Honestly Answering 50 Questions Ft. Lauren](https://www.youtube.com/watch?v=BDxeiny76y4) — Uploaded to Lauren’s channel on May 29, 2022, for reaching 50,000 subscribers, this Q&A was the key video in which Zun and Lauren made their relationship public.
-
-[^19]: [Newtalk: Lauren’s 50,000-Subscriber Q&A Interview](https://newtalk.tw/news/view/2022-05-30/757123) — A May 30, 2022 report recording Lauren’s recollection of how she met Zun: they were introduced through Zun’s younger brother Xiao Yu, decided to date within three days, had no formal confession, and had been in a stable relationship for four and a half years by 2022.
-
-[^20]: [YouTube: 【Zun】My! New! Home!](https://www.youtube.com/watch?v=twgMJSxS-H8) — Uploaded on December 13, 2025, this is the first public video in which Zun introduces the home he purchased.
-
-[^21]: [Wikipedia: A-Shen (YouTuber)](https://zh.wikipedia.org/zh-tw/%E9%98%BF%E7%A5%9E) — The entry records that A-Shen was born on October 15, 1992; founded KAMIKAMI BURGER on April 21, 2022, in a cloud-kitchen model cooperating with 50 restaurants; and announced on September 10, 2023 that he would permanently stop updating YouTube on October 15, his 31st birthday.
-
-[^22]: [Wikipedia: Tsai A-ga](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E9%98%BF%E5%98%8E) — The entry records that Tsai A-ga was born on July 21, 1984; founded Dtoufo Entertainment Co., Ltd. in 2013 at age 29; married Er Bo in 2016; and had two sons between 2018 and 2020.
-
-[^23]: [The Storm Media: Major YouTubers May Continue to Exit in 2025; the Ecosystem Has Already Been Played Out](https://www.storm.mg/lifestyle/5011075) — A 2024 report analyzing the major retreat phenomenon in Taiwan’s YouTube ecosystem, the substitution effect of TikTok short video, and the discourse around whether creators shifting toward family-oriented routes constitutes a prelude to exit.
+[^9]: [Newtalk: Lauren and Zun Discuss Meeting and Dating History](https://newtalk.tw/news/view/2022-05-30/762807) — May 2022 report organizing the official Q&A, recording being set up by Xiao Yu, deciding to date in three days, no formal confession, and the number of years dating at the time.

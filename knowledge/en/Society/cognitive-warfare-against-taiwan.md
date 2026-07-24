@@ -1,374 +1,367 @@
 ---
-title: "Cognitive Warfare: Taiwan's Information Battlefield Enters the AI-Industrialization Phase"
-description: 'In December 2024, the "China United Front Documentary" broke 2 million views. In Q4 2025, 1,076 CCP state-media accounts on Douyin posted 560,000 videos and identified 57 Taiwanese figures via facial recognition. In October 2025, Puma Shen was placed under criminal investigation by Chongqing police for "secession." Cognitive warfare has entered a new phase of AI industrialization and "using Taiwanese to attack Taiwan" — but the very term "cognitive warfare" is itself under tension as it gets overused inside Taiwan.'
-category: Society
+title: "Cognitive Warfare: The AI Industrialization Phase of Taiwan's Information Battlefield"
+description: "In December 2024, the 'China United Front Documentary' surpassed 2 million views. In Q4 2025, 1,076 CCP state media accounts on Douyin published 560,000 videos, using facial recognition to identify 57 Taiwanese individuals. In October 2025, Shen Pei-yang was formally investigated by the Chongqing Public Security Bureau for the 'crime of splitting the country.' Cognitive warfare has entered a new phase of AI industrialization and 'using Taiwan to criticize Taiwan,' but the term 'cognitive warfare' itself is also facing internal tensions regarding its potential for abuse in Taiwan."
+date: 2026-04-23
+author: 'Taiwan.md Contributors'
+category: 'Society'
 subcategory: 'Media and Speech'
 tags:
-  [
-    Cognitive Warfare,
-    Information Warfare,
-    Disinformation,
-    AI Deepfake,
-    TikTok,
-    CCP Against Taiwan,
-    Media Literacy,
-    Fact-Checking,
-    Platform Responsibility,
-  ]
-author: 'Taiwan.md Contributors'
-date: 2026-04-23
+  - Cognitive Warfare
+  - Information Warfare
+  - Disinformation
+  - AI Deepfakes
+  - Douyin
+  - CCP Cross-Strait Tactics
+  - Media Literacy
+  - Fact-checking
+  - Platform Responsibility
 readingTime: 28
 lastVerified: 2026-04-23
 lastHumanReview: false
+featured: false
 translatedFrom: 'Society/認知作戰.md'
-sourceCommitSha: 'e1b5668a'
-sourceContentHash: 'sha256:c0eb85e49c561e22'
-sourceBodyHash: 'sha256:53132f584b9b6657'
-translatedAt: '2026-06-22T00:30:00+08:00'
-sporeLinks:
-  - id: 41
-    platform: 'threads'
-    date: '2026-04-23'
-    url: 'https://www.threads.com/@taiwandotmd/post/DXdyoqkEdma'
-  - id: 42
-    platform: 'x'
-    date: '2026-04-23'
-    url: 'https://x.com/taiwandotmd/status/2047213679826149450'
+sourceCommitSha: '7c4a58918'
+sourceContentHash: 'sha256:0b5ddca64df69aa6'
+sourceBodyHash: 'sha256:0fcafeba09518f70'
+translatedAt: '2026-07-24T10:40:41+08:00'
 ---
 
-> **30-second overview:**
-> The CCP's cognitive warfare against Taiwan entered a new phase in 2024-2026: "AI industrialization × using Taiwanese to attack Taiwan × named retaliation." In December 2024, Pa Chiung and Chen Po-yuan released the _China United Front Documentary_ exposing Fujian Province's united-front bases, with the upper episode breaking 2 million views[^1]. A year later, in December 2025, an AI fake "Doctor Chen Chih-ming" appeared, impersonating doctors at NTU Hospital and Taipei Veterans General Hospital — Taipei VGH Vice Superintendent Lee Wei-chiang personally clarified the matter[^2]. Reuters and IORG found that in the same quarter, 1,076 CCP state-media accounts on Douyin published 560,000 videos and used facial recognition to identify 57 Taiwanese figures appearing in them[^3]. But this is a two-way battlefield: in October 2025, Chongqing police opened a criminal investigation into legislator Puma Shen for "secession"[^4]. And at the height of the counter-attack, UNLV political scientist Wang Hung-en cautioned: "A cluster of accounts that always come online together for moral support might genuinely just be a group of friends."[^5] What this entry tries to map is a three-sided cognitive battlefield where one must be alert to CCP operations, alert to homegrown labeling, and acknowledge the limits of research tools themselves.
+> **30-Second Overview:**
+> CCP cognitive warfare against Taiwan entered a new phase of "AI Industrialization × Using Taiwan to Criticize Taiwan × Named Retaliation" between 2024 and 2026. In December 2024, Ba Jiong and Chen Po-yuan released the first part of the _China United Front Documentary_, exposing Fujian Province's Taiwan-focused united front bases, with the first part surpassing 2 million views[^1]. One year later, in December 2025, an AI-generated fake doctor named "Chen Chih-ming" impersonating staff from National Taiwan University (NTU) and Taipei Veterans General Hospital (TVGH) appeared, prompting TVGH Vice President Li Wei-chiang to personally clarify the situation[^2]. A Reuters and IORG investigation found that in Q4 2025, 1,076 CCP state media accounts published 560,000 videos on Douyin, using facial recognition to identify 57 Taiwanese individuals appearing in the content[^3]. However, this is a two-way battlefield: in October 2025, the Chongqing Public Security Bureau filed a case against Legislator Shen Pei-yang for the "crime of splitting the country" under the charge of "splitting the nation"[^4]. At the height of this counter-narrative, UNLV Political Science Assistant Professor Wang Hong-en (Austin Wang) warned: "A group of accounts that always log on together for warmth might just really be a group of good friends"[^5]. This entry attempts to map a three-sided cognitive battlefield that requires vigilance against CCP manipulation, vigilance against local labeling, and an acknowledgment of the limitations of research tools themselves.
 
-## A LINE group on a parent's phone
+## An Elderly Person’s LINE Group
 
-On 28 December 2025, Lee Wei-chiang, Vice Superintendent of Taipei Veterans General Hospital, took a media inquiry: who exactly was the white-coated, confident-sounding man on the YouTube channel "Doctor Chen Chih-ming," who claimed to be a Taipei VGH doctor?[^2]
+On December 28, 2025, Li Wei-chiang, Vice President of Taipei Veterans General Hospital (TVGH), received inquiries from the media: Who was the man in the white coat on the YouTube channel "Dr. Chen Chih-ming," speaking with certainty and claiming to be a doctor at TVGH?[^2]
 
-The answer: no such person.
+The answer was: No such person exists.
 
-Lee told reporters, "After the hospital verified, no such doctor exists." The channel had even featured two completely different "Chen Chih-ming" faces[^2]. The other side used AI-generated virtual personas to impersonate doctors at medical centers like Taipei VGH and NTU, claiming pseudoscientific therapies like "treating diabetes with bacterial infection" to lure elders into sharing the videos. After technical analysis, the Taiwan FactCheck Center (TFC) said this was AI video "produced by a multimodal, audio-driven character animation generation model"[^2]. By the time it was exposed, the channel had accumulated 23,100 subscribers, with the top single video at 150,000 views[^6].
+Li Wei-chiang told reporters that "after verification, the hospital confirmed there is no such doctor." The channel even featured two completely different faces for "Chen Chih-ming"[^2]. The perpetrator used an AI-generated virtual avatar to impersonate a medical center doctor from TVGH and NTU, attracting elderly users to share videos with pseudoscientific claims such as "treating diabetes with bacterial infections." The Taiwan FactCheck Center (TFC), after technical analysis, pointed out that this was an AI video generated by a "multimodal, audio-driven character animation generation model"[^2]. By the time it was exposed, the channel had accumulated 23,100 subscribers and a single video had reached 150,000 views[^6].
 
-📝 Curator's note: The most critical detail of this case is that it could be **publicly clarified by name** — the vice superintendent spoke in person, TFC published its check, and the Ministry of Health and Welfare announced a regulatory plan[^2]. This entire structure of accountable response is exactly what the Chinese side of Douyin cannot produce. Verifiability itself is the texture of a democratic society.
+📝 **Curator’s Note:** The most critical detail in this case is that it could be **named and clarified**: The Vice President spoke directly, TFC published a public fact-check, and the Ministry of Health and Welfare announced regulatory oversight[^2]. This entire structure of accountable response is something the Chinese side of Douyin cannot replicate. Verifiability itself is the texture of a democratic society.
 
-That same year, the New Taipei Department of Social Welfare received calls asking how to apply for "elder subsidies of NT$8,000+ a month." Verification revealed it was another AI-generated video circulating on YouTube and LINE groups — unnatural facial expressions, illogical pause patterns, vocal tone lacking real emotion[^7]. The household of entertainer Wang Jen-fu suffered a voice-deepfake scam: his daughter first received a fake market-research call and her voiceprint was harvested; days later, his wife Jenny received a "daughter calling for help" demanding a money transfer[^8]. The Criminal Investigation Bureau later cracked Taiwan's first AI-voice-fraud case, revealing the scale of industrialization: an illegal investment-advisory ring designed more than 20 conversational scenarios, with at least 70 people deceived — one elderly woman lost NT$20 million[^9].
+In the same year, the New Taipei City Social Affairs Bureau received calls from citizens asking how to apply for "monthly subsidies of over 8,000 NTD for the elderly." Verification revealed it was another AI-generated video circulating on YouTube and LINE groups: the character’s expressions were unnatural, pauses in speech were illogical, and the tone lacked genuine emotion[^7]. Artist Wang Jen-fu’s family experienced voice deepfake fraud: his daughter first received a fake market research call to collect voiceprints, and days later, his wife Chi Chin received a distress call from "the daughter" demanding a wire transfer[^8]. The Criminal Investigation Bureau later broke the first AI voice fraud case in Taiwan, revealing the industrialized nature of the operation: an illegal investment advisory group designed over 20 dialogue scenarios, deceiving at least 70 people, with one woman losing 20 million NTD[^9].
 
-The three scenes share the same point: making you "no longer trust."
+The common thread in these three scenarios points to the same thing: making you "stop believing."
 
-## Scale: from individual cases to a system
+## Scale: From Cases to Systems
 
-The National Security Bureau's 2025 _Analysis of CCP Cognitive Warfare Operations Against Taiwan_ revealed: that year, more than 45,000 anomalous accounts were tracked, more than 2.31 million pieces of contentious information collected, and over 3,200 reports filed to government agencies[^10].
+The National Security Bureau’s 2025 report, _Analysis of CCP Cognitive Warfare Tactics Against Taiwan_, revealed that in that year, over 45,000 abnormal accounts were reported, over 2.31 million pieces of contentious information were collected, and over 3,200 reports were made to government agencies[^10].
 
-A joint Reuters-IORG (Information Operations Research Group) investigation published in April 2026 showed: in Q4 2025, **1,076 accounts operated by Chinese state media** on Douyin published about **560,000 videos**, of which around **18,000 involved Taiwan-related topics**[^3]. By using facial recognition on 2,730 of these videos, they identified **57 Taiwanese figures** appearing in them; among the top 25, 13 were KMT-affiliated. The most-exposed was then-KMT chair Cheng Li-wun — she appeared in 460 videos posted by 68 Douyin accounts, accumulating over 5 million interactions[^3].
+A Reuters and Taiwan Information Environment Research Center (IORG) investigation published in April 2026 showed that in Q4 2025, **1,076 accounts operated by CCP state media** published approximately **560,000 videos** on Douyin, of which approximately **18,000 involved Taiwan-related topics**[^3]. By cross-referencing 2,730 such videos with facial recognition, **57 Taiwanese individuals** were identified as appearing in the content; among the top 25, 13 were associated with the Kuomintang (KMT). The most exposed figure was then-KMT Chairperson Cheng Li-wen: she appeared in 460 videos published on 68 Douyin accounts, accumulating over 5 million interactions[^3].
 
-Another IORG tracking study found that of 84 "America-skeptic" narratives, **70 were initiated or amplified by CCP state media**[^11]. Doublethink Lab's 2025 survey indicated that heavy TikTok users tend to lean more pro-China and more agreeable to "populist skepticism" stances[^12].
+Another IORG tracking study indicated that among 84 "doubt-the-US" narratives, **70 were initiated or amplified by CCP state media**[^11]. A 2025 study by Doublethink Lab (Taiwan Democracy Lab) indicated that heavy TikTok users were more likely to be pro-Beijing and more likely to认同 "populist skepticism" positions[^12].
 
-But sheer quantity does not equal "battle results." The observation by criminologist and Kuma Academy co-founder [Puma Shen](/en/people/puma-shen/) (沈伯洋) is worth placing alongside: "In China's information war on Taiwan, **80% has nothing to do with true or false** — most of it is narrative attack, the manufacture of a perspective."[^13] This sentence shifts the focus from the first reflex of "fact-checking" to a harder second-order problem: when what the other side is delivering is a perspective and a narrative frame, fact-checking has insufficient range.
+But volume itself does not equal "battlefield success." The observation of criminologist and co-founder of the Black Bear Academy, Shen Pei-yang, is worth including: "80% of the propaganda war China conducts against Taiwan has **nothing to do with truth or falsehood**; it is mostly narrative attacks, i.e., fabricating a perspective."[^13] This statement shifts the focus from the first reflex of "fact-checking" to a more difficult second layer: when the adversary is deploying perspectives and narrative frameworks, the reach of fact-checking is simply not far enough.
 
-Pull back two electoral cycles and the axis becomes clearer. IORG's tracking found that the "ballot-rigging" narrative first appeared in late 2019, recurring across the 2020 election, the June 2020 Han Kuo-yu recall, and the 2021 referendum. The 2020 election also saw a new phenomenon: direct intervention by Chinese officials, with attacks even targeting the legitimacy of the Central Election Commission[^14]. After Lai Ching-te's 2024 election, the NSB report flagged new features: AI virtual newsreaders spreading fake Tsai Ing-wen news, deepfake video, election betting markets[^15]. In 2025, AI-altered footage even surfaced of [Lai Ching-te](/en/people/lai-ching-te/) "swearing"[^16].
+Looking back two election cycles further clarifies the axis. IORG tracking found that narratives like "ballot stuffing" first appeared in late 2019, reappearing repeatedly during the 2020 general election, the June 2020 recall of Han Kuo-yu, and the 2021 referendum period. The 2020 general election also saw a new phenomenon of direct intervention by Chinese officials, with attack targets even including the legitimacy of the Central Election Commission[^14]. After Lai Ching-te’s election in 2024, the National Security Bureau report noted new characteristics: AI virtual anchors spreading disinformation about Tsai Ing-wen, deepfake videos, and election betting markets[^15]. In 2025, AI-fabricated videos of Lai Ching-te "cursing" even appeared[^16].
 
-### The five coordinated tactics dissected by the NSB
+### Five Coordinated Tactics Dissected by the National Security Bureau
 
-The NSB breaks down CCP cognitive warfare against Taiwan into five tactics[^10]:
+The National Security Bureau has broken down CCP cognitive warfare against Taiwan into five tactics[^10]:
 
-| Tactic                                                | Specific tools / companies                                                                                                                            | Representative case                        |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| 1. Data-analytic monitoring of public sentiment       | "Zhongke Tianji," "MeiyaPico," "Wo Min Gao Xin" — crawlers gathering politicians' personal data and polling                                           | Pinpointing public-opinion hotspots        |
-| 2. Multi-channel injection of contentious information | "Haixunshe," "Haimai," "Huya" PR firms imitate international media sites; nurture "Wubianjie Group" to set up Facebook content farms                  | Laundering origin                          |
-| 3. Anomalous account infiltration                     | Public Security Ministry's "Longqiao" online troll group across 180 platforms; "Zhongke Click," "Beijing Starlight" controlling 10,000+ fake accounts | Volume injection                           |
-| 4. AI-generated audio-visual content                  | "Mobvoi," "iFlytek" develop intelligent voice systems; place ads on Taiwanese sites to lure citizens into recordings, harvesting voiceprints          | Fake doctors, voice fraud                  |
-| 5. Network hacking of local accounts                  | During the April 2025 military exercises, more than 10 PTT accounts were hijacked to amplify narratives like "CCP blockading natural-gas shipping"    | Pushing CCP narratives in Taiwanese voices |
+| Tactic                                        | Specific Tools / Companies                                                                                                                                         | Representative Events                         |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
+| 1. Data Analysis of Social Sentiment          | Crawlers like "Zhongke Tianji," "Meiya PoCo," and "Womin Gaoxin" scraping political figures' personal data and polls                                               | Locking onto public opinion hotspots          |
+| 2. Multi-channel Disinformation Deployment    | PR firms like "Haixun Society," "Haimai," and "Huya" impersonating international media websites; supporting "Borderless Group" to set up Facebook content farms    | Washing origin                                |
+| 3. Abnormal Account Penetration               | Ministry of Public Security's "Longqiao" cyber army spanning 180 platforms; "Zhongke Click" and "Beijing Starlight" controlling tens of thousands of fake accounts | Inflating volume                              |
+| 4. AI Realistic Audio/Video                   | "Qingshu Smart Tech" and "iFlytek" developing smart voice systems, advertising on Taiwanese websites to induce recording of voiceprints                            | Fake doctors, voice fraud                     |
+| 5. Cyber-hacking and Hijacking Local Accounts | During the April 2025 military drills, hijacked over 10 PTT accounts, amplifying disinformation like "CCP blocking natural gas transport"                          | Using Taiwan’s voice to spread CCP narratives |
 
-The significance of this breakdown is replacing the vague phrase "external forces" with **a structural map that allows accountability to be traced down to corporate-entity level** — each tactic maps to specific Chinese companies and government units. But it also means the complexity of fact-checking and prosecution rises sharply: videos mass-produced by overseas AI factories, reposted by anonymous Taiwan-local accounts, then pushed back to Taiwanese readers by the algorithms — there is no single speaker in the whole chain.
+The significance of this breakdown is replacing the vague term "foreign forces" with a **structure where responsibility can be traced to the corporate level**: each tactic corresponds to specific companies and government units within China. But this also means the complexity of fact-checking and prosecution has risen significantly: videos are mass-produced by offshore AI factories, reposted by anonymous local Taiwanese accounts, and then pushed back to Taiwanese readers by algorithms; the entire chain has no single speaker.
 
-## How a user can "read" a suspicious channel
+## How Users "Read" a Suspicious Channel
 
-In February 2025, Threads user @derek_foxx posted[^17] a record of how he judged that the YouTube channel "Unicorn Calls Like That" was problematic:
+In February 2025, Threads user @derek_foxx posted a thread[^17] documenting how he determined that the YouTube channel "Unicorn So Loud" (Dujiaoshu Name Jiao) was problematic:
 
-1. **Accent cues**: the speaker's voice carried a non-Taiwanese accent, deliberately mimicking Taiwanese usage, with the details slipping out
-2. **Pivot signs**: the channel's earlier content was financial-tips and lifestyle farm content; about a year ago it pivoted to a "MythBusters"-style format
-3. **Wind-direction sync**: content topics aligned with the livelihood-issue critiques of certain opposition camps
-4. **Anonymity**: the operator didn't disclose identity; later content fully switched to AI voiceover
+1. **Accent Clues**: The speaker’s voice lacked a Taiwanese accent, deliberately catering to Taiwanese usage but revealing details in subtleties.
+2. **Transformation Traces**: The channel’s early content focused on financial management and lifestyle habits (typical content farm material), shifting to "MythBusters"-style content about a year ago.
+3. **Wind Direction Synchronization**: The content themes were identical in tone to livelihood criticisms from certain opposition camps.
+4. **Anonymity**: The operator did not disclose their identity, later switching entirely to AI dubbing.
 
-This warning was reposted and discussed by TFC and other users[^18], who noted that the channel had over 340,000 subscribers, with topics concentrated on livelihood-sensitive issues like "Taiwan's milk is more expensive than Europe's and America's," "Taiwan tilapia is a re-naming scam of Mozambique tilapia," and "currency manipulation causes low wages" — using editing and decontextualization to amplify emotion[^19].
+This warning was retweeted and discussed by TFC and other users[^18], pointing out that the channel had over 340,000 subscribers, focusing on livelihood-sensitive topics like "Taiwanese fresh milk is more expensive than Europe and the US," "Taiwanese tilapia is a renaming scam for tilapia," and "exchange rate manipulation causes low wages," using editing and decontextualization to amplify emotion[^19].
 
-📝 Curator's note: This passage needs careful handling. Taiwan.md is not an intelligence agency — it **cannot arbitrarily designate any specific channel as a CCP direct operation**. As of the time of this entry, no research institution or government unit has listed this channel as a verified case of overseas operation. The reason this passage stays is to demonstrate **how an ordinary reader can ask questions from observable features**: accent, anonymity, algorithmic trajectory, topic pivot — these four cues, combined, can at least let someone hit pause on "wait, before I share this." Certifying who is a CCP account is the work of judicial and research institutions; training one's reading instinct is what every individual can do.
+📝 **Curator’s Note:** This section requires careful handling. Taiwan.md is not an intelligence agency; **we cannot arbitrarily accuse a specific channel of being directly operated by the CCP**: as of the completion of this entry, no research institution or government unit has listed this channel as a certified foreign-operated case. The significance of retaining this section is to demonstrate **how general readers can ask questions based on observable characteristics**: accent, anonymity, algorithmic traces, and thematic shifts; these four clues combined can at least give people a pause button to "not rush to share." Determining who is a CCP account is the work of judicial and research institutions. Training one’s own literacy intuition is something everyone can do.
 
-## The AI cost cliff
+## The AI Cost Cliff
 
-How low has the tooling threshold for contemporary cognitive warfare fallen? Before the 2024 New Hampshire primary, political operative Steve Kramer hired magician Paul Carpenter to use ElevenLabs to synthesize former president Biden's voice and place thousands of robocalls telling Democratic voters not to vote[^20]. The aftermath: a US$6 million FCC fine, with Kramer indicted on 13 charges of voter suppression (felonies) plus 13 counts of impersonating a candidate[^20]. The production cost: **US$1, 20 minutes, US$150 paid by Kramer to Carpenter**.
+How low has the tool threshold for contemporary cognitive warfare become? Before the 2024 New Hampshire primaries in the US, political operator Steve Kramer hired magician Paul Carpenter to synthesize former President Biden’s voice using ElevenLabs, making thousands of robocalls urging Democrats not to vote[^20]. The FCC later fined $6 million, and Kramer was charged with 13 counts of election suppression (felonies) and 13 counts of impersonating a candidate[^20]. The production cost? **$1, 20 minutes, and Kramer paid Carpenter $150**.
 
-That same January, AI-generated pornographic deepfakes of Taylor Swift appeared on X. A single image surpassed 47 million views, and X temporarily suspended search for the keyword "Taylor Swift"[^21]. The incident pushed US Congress to pass the _TAKE IT DOWN Act_ in 2025, mandating takedowns of non-consensual intimate images[^22], and in January 2026 the _DEFIANCE Act_ passed the Senate by unanimous consent, granting deepfake-pornography victims civil-litigation rights[^23].
+In January of the same year, AI pornographic deepfakes of Taylor Swift appeared on X, with a single post exceeding 47 million views, causing X to temporarily suspend search for the "Taylor Swift" keyword[^21]. The incident pushed the US Congress to pass the _TAKE IT DOWN Act_ in 2025, mandating the removal of non-consensual intimate images[^22], and in January 2026, the _DEFIANCE Act_ passed the Senate unanimously, granting civil rights to deepfake pornography victims[^23].
 
-This cost curve means that future election-period cognitive battlefields don't need Chinese backing to be launched — anyone willing to spend US$1 can do it. The defensive focus shifts from "specific source" to "this category of tool has become commoditized."
+This cost curve means: cognitive warfare on future election battlefields can be launched without Chinese support: as long as someone is willing to spend $1. The focus of defense shifts from "specific sources" to the fact that "a certain class of tools has become ubiquitous."
 
-## Two counterattack lines: the camera and the institution
+## Two Lines of Counterattack: The Lens and the System
 
-Taiwan is not only on the defensive. Since 2024, at least two clear counterattack lines have appeared — one is YouTuber-style camera reportage; the other is the building of academic and civil-defense institutions. Both have drawn precision retaliation from the CCP.
+Taiwan is not just passively taking hits. Since 2024, at least two distinct counterattack lines have emerged: one is influencer-style lens counterattacks, the other is the construction of academic and civil defense systems. Both have been met with precise retaliation from the CCP.
 
-### Camera reportage: Pa Chiung and Chen Po-yuan's _China United Front Documentary_
+### Lens Counterattack: Ba Jiong and Chen Po-yuan’s _China United Front Documentary_
 
-On 6 December 2024, the YouTuber Pa Chiung (Wen Tzu-yu) of "Photographer Diary Fun TV" and former Little Pink Chen Po-yuan ("Min-nan Wolf PYC") released the upper episode of _China United Front Documentary_. Chen Po-yuan went undercover in Fujian Province to document how the CCP-set "Taiwanese youth entrepreneurship base" works — startup funds that don't need to be repaid, assistance with applying for a "Chinese ID card" for Taiwanese youth, oversized bank loans[^1]. Cumulative views of the upper episode exceeded 2 million, and the lower episode released on the 28th of the same month — further detailing the Xiamen entrepreneurship base — broke 1.17 million views[^24]. Pa Chiung claimed in the film that, through these programs, the CCP had absorbed Taiwanese who had taken Chinese ID cards, allegedly reaching 200,000 people (this figure is asserted in the film; the Mainland Affairs Council only said it would "strictly investigate united-front tactics," without directly confirming the specific number)[^25].
+On December 6, 2024, YouTubers "Shetu Diary Fun TV" Ba Jiong (Wen Tzu-yu) and former "Little Pink" Chen Po-yuan (Minnan Wolf PYC) released the first part of the _China United Front Documentary_. Chen Po-yuan went undercover in Fujian Province, documenting how the CCP’s "Taiwan Youth Entrepreneurship Bases" operate: interest-free startup funds, assistance in obtaining "Chinese ID cards," and bank over-lending[^1]. The first part accumulated over 2 million views. The second part, released on the 28th of the same month, further exposed details of the Xiamen entrepreneurship base, surpassing 1.17 million views[^24]. Ba Jiong pointed out in the film that the CCP absorbs Taiwanese people who obtain Chinese ID cards through such programs, claiming the number has reached 200,000 (this is a claim in the film; the Mainland Affairs Council only stated it would "strictly investigate united front tactics," without directly confirming the specific number)[^25].
 
-The cost of the narrative arrived immediately. Chen Po-yuan's Weibo was swarmed by "Little Pinks" calling him a "Taiwan-independence dog"; his Douyin account "Min-nan Wolf PYC" was deleted by Chinese authorities; the show _China Bosses_ in which he had earlier participated had a cumulative 1 billion views in China — but he never got royalties[^24]. The tension of this story: **the anti-CCP figure was once a product of the CCP, and neither side of the strait readily welcomes a "former Little Pink."**
+The cost of the narrative arrived immediately. Chen Po-yuan’s Weibo was attacked by "Little Pinks," who called him a "Taiwan independence dog." His Douyin account "Minnan Wolf PYC" was deleted by Chinese authorities. He had participated in producing _The Old Boss_, which accumulated 1 billion views in the China region, but he never received copyright fees[^24]. The tension in this story is: **anti-CCP figures were once products of the CCP; neither side of the strait easily welcomes "former Little Pinks."**
 
-### Institutional counterattack: Puma Shen's enemy medal
+### System Counterattack: Shen Pei-yang’s "Enemy Medal"
 
-The other line is the building of academic and civil-defense institutions. Kuma Academy was co-founded in 2021 by Puma Shen and Ho Cheng-hui, with UMC honorary chairman Tsao Hsing-cheng donating NT$600 million in 2022[^26]. IORG was co-led by Puma Shen and Yu Chih-hao starting in 2019, publishing the annual _Taiwan Information Environment Report_ tracking the spread of "America-skeptic" narratives[^27].
+The other line is the construction of academic and civil defense systems. The Black Bear Academy was founded in 2021 by Shen Pei-yang and Ho Cheng-hui, with honorary chairman of United Microelectronics Corp. (UMC), Tsao Hsing-cheng, donating 600 million NTD in 2022[^26]. IORG was co-hosted by Shen Pei-yang and Yu Chih-hao in 2019, publishing the annual _Taiwan Information Environment Report_ to track the spread of narratives like "doubt-the-US"[^27].
 
-The retaliation followed the same axis. On 14 October 2024, the TAO listed Puma Shen as a "stubborn Taiwanese-independence element," banning him and his family from entering China, Hong Kong, and Macao[^28]. On 28 October 2025, Chongqing's Public Security Bureau issued a police notice formally opening a criminal investigation against Puma Shen for "**the crime of secession**," alleging that through "Kuma Academy" he had engaged in secessionist criminal activity, citing the PRC Criminal Code[^4]. CCTV later aired a nearly 8-minute "exposé" feature, threatening global apprehension via Interpol; Shen replied: "One country on each side. Don't even think about reaching your hand into Taiwan."[^29] (Worth noting: CCTV's threat of an Interpol warrant is the language of a TV program plus statements by Renmin University Law School professor Cheng Lei, not a formal warrant from China's Ministry of Public Security or the courts.)
+Retaliation followed the same axis. On October 14, 2024, the Taiwan Affairs Office listed Shen Pei-yang on the list of "stubborn independence separatists," banning him and his family from entering China, Hong Kong, and Macau[^28]. On October 28, 2025, the Chongqing Public Security Bureau issued a police bulletin, formally investigating Shen Pei-yang for the **"crime of splitting the country,"** alleging he engaged in criminal activities splitting the country through the "Black Bear Academy," based on the _Criminal Law of the People's Republic of China_[^4]. CCTV subsequently released an nearly 8-minute "exposé" special, threatening global arrest through Interpol. Shen Pei-yang responded: "One country, one side; don't妄想 (dream) of extending your hand into Taiwan."[^29] (Note to readers: CCTV’s threat to arrest is program commentary and the statement of Professor Cheng Lei from the Law School of Renmin University of China, not an official arrest warrant from the Chinese Ministry of Public Security or the courts.)
 
-This is the first time in Taiwanese history that a sitting legislator has been put under criminal investigation by name by the CCP[^4]. Columnist Huang Peng-hsiao titled it: **"Congratulations to DPP legislator Puma Shen on receiving the 'Enemy Medal.'"** The irony: the man teaching Taiwanese about cognitive warfare has had the value of his work certified by the CCP's state apparatus.
+This is the first time in Taiwan’s history that a legislator has been formally investigated by the CCP with a named charge[^4]. Columnist Huang Peng-hsiao titled the piece: **"Congratulations to DPP Legislator Shen Pei-yang on Receiving the 'Enemy Medal.'"** The irony is that the person teaching Taiwanese how to conduct cognitive warfare was certified by the CCP’s state machinery as having value in his work.
 
-The contrast between these two lines reveals both the strategic difference of counter-attack (Pa Chiung's camera goes for emotional infiltration and personal advocacy; Shen's institution-building goes for academic research and civil-defense training) and the precision of CCP retaliation: for influencers, account deletion; for institution-builders, criminal filings.
+The contrast between these two lines reveals differences in counterattack strategies (Ba Jiong’s lens relies on emotional penetration and personal代言, while Shen Pei-yang’s system relies on academic research and civil defense training), as well as the precision of CCP retaliation: deleting accounts for influencers, filing cases for system builders.
 
-## Beyond the CCP: domestic shadows, platform responsibility, terminological tension
+## Beyond the CCP: Local Shadows, Platform Responsibility, and Lexical Tension
 
-In addition to defense, an honest account must acknowledge the shadows of domestic information operations and the tension created by the over-use of the term "cognitive warfare" inside Taiwan.
+Beyond defense, an honest observation must acknowledge: Taiwan also has shadows of information operations internally, and tensions regarding the potential abuse of the term "cognitive warfare."
 
-### Domestic cyber armies: Lin Wei-feng, "1450," the "47-account fiasco"
+### Local Cyber Armies: Lin Wei-feng, 1450, and the "47 Accounts" Blunder
 
-In 2021, pro-green writer Lin Wei-feng was caught using the PTT account `bj26bj` to ironically post pro-China content, then using his real name on Facebook to accuse PTT of being infiltrated[^30]. The Investigation Bureau received over 70 complaints; the case went on for months. Lin's spouse Yang Min was at the time deputy director of the DPP's Department of Online Communities[^30].
+In 2021, pro-DPP writer Lin Wei-feng was exposed for using the account `bj26bj` on PTT to post pro-CCP articles in reverse, then using his real name on Facebook to accuse PTT of being penetrated[^30]. The Investigation Bureau received over 70 reports, and the incident burned for months. Lin Wei-feng’s spouse, Yang Min-shi, was then the Deputy Director of the DPP’s Network Community Center[^30].
 
-The term "1450" refers to the DPP's online auxiliary arms. The official version is that in 2019, the Council of Agriculture earmarked NT$14.5 million for online marketing — hence the name; the opposition version directly accuses the DPP of running an organized troll operation[^31]. Another case: the DPP authorities once listed 47 online accounts as Chinese "agents" — but verification later showed **most of them were the DPP's own supporters**[^32].
+The term "1450" refers to the DPP’s cyber army sidekick. The official version is that the Council of Agriculture allocated 14.5 million NTD for network marketing in 2019, hence the name. The opposition version directly points to the DPP’s organized cyber army operations[^31]. Another case: the DPP administration once listed 47 network accounts as Chinese "agents," only to find after verification that **most were DPP supporters**[^32].
 
-### The Kansai Airport Incident: a triangle of truth and falsehood as historical study material
+### The Kansai Airport Incident: A Historical Textbook for the Truth Triangle
 
-The September 2018 Kansai Airport Incident is the hardest-to-handle but most instructive case at the boundary of "cognitive warfare" to date.
+The 2018 Kansai Airport incident is the most difficult but most reference-worthy case of "cognitive warfare boundaries" to date.
 
-On 6 September that year, Typhoon Jebi struck Kansai Airport. Afterward, Taiwanese internet was flooded with the false claim that "China's embassy sent buses to pick up Chinese travelers," with criticism aimed at Taiwan's Osaka office for inaction. Puma Shen later traced the source, confirming that the false footage first appeared on the Chinese Weibo account "Floods, Fierce Beasts, Baby" and was turned into news by _Guancha.cn_ a full 24 hours before Taiwanese news[^33].
+On September 6 that year, Typhoon Jebi hit Kansai Airport. Subsequently, false information circulated on the Taiwanese internet claiming "the Chinese Embassy sent cars to pick up Chinese passengers," criticizing the Taiwan Representative Office in Osaka for inaction. Shen Pei-yang later traced the source, confirming the fake video first appeared on the Chinese Weibo account "Floods and Fierce Beasts baby," made into news by "Observer Network," 24 hours earlier than Taiwanese news[^33].
 
-But that's only half the story. On the Taiwanese domestic side, Yang Hui-ju provided internet access to Tsai Fu-ming, who used PTT account `idcc` to viciously attack the Osaka office as "rotten to the bone, a remnant of the party-state"; through a LINE group called "Kaohsiung Group" she directed cyber-army operatives to push the narrative within one minute[^34]. On 14 September, Su Chii-cherng (蘇啟誠), head of the Osaka office, took his own life at his official residence. His suicide note didn't directly mention fake-news pressure — it only said "I do not wish to suffer humiliation" and "I am unwilling to bear punishment, transfer, or demerits over groundless charges"[^35]. In November 2021, Yang Hui-ju was sentenced in the first instance to 6 months[^36]; she later petitioned for a constitutional review, and in March 2025 the Constitutional Court ruled the offense "insulting public office" unconstitutional, after which Yang's case was finally dismissed[^37].
+But this was only half the story. On the Taiwanese local side, Yang Hui-ju provided internet to Cai Fu-ming, who used the PTT account `idcc` to criticize the Osaka Representative Office as "rotten to the core, remnants of the party-state state." Within one minute, he directed the cyber army via the LINE group "Kaohsiung Group" to amplify the tone[^34]. On September 14, the Director of the Taipei Representative Office in Osaka, **Su Chi-cheng**, committed suicide at his official residence. His suicide note did not directly mention pressure from fake news, only writing "did not want to be humiliated" and "unwilling to be punished, transferred, or recorded for demerits due to baseless charges"[^35]. In November 2021, Yang Hui-ju was sentenced to 6 months in the first instance[^36]. She later applied for constitutional interpretation; in March 2025, the Constitutional Court ruled the crime of insulting official duties unconstitutional, leading to Yang Hui-ju’s case being dismissed[^37].
 
-📝 Curator's note: The value of this case is that it lays open the boundary between "cognitive warfare" and "domestic cyber army." The same incident can simultaneously have a Chinese-origin disinformation source and a Taiwanese-domestic cyber-army relay. Any simplification disrespects the dead. Su Chii-cherng's family has yet to recover, while the Constitutional Court's decision led to dismissal of charges — judicial truth, factual truth, and grief: these three lines cannot be aligned.
+📝 **Curator’s Note:** The value of this case lies in laying bare the boundary between "cognitive warfare" and "local cyber armies." The same event can have both Chinese-source disinformation and relayed Taiwanese local cyber armies; any simplification is disrespectful to the deceased. Su Chi-cheng’s family has never been able to recover, and the Constitutional Court’s judgment made the legal responsibility dismissal final: justice, truth, and pain, these three lines cannot align.
 
-### Wang Hung-en's caution: the three elements of cognitive warfare
+### Austin Wang’s Warning: Three Elements of Cognitive Warfare
 
-University of Nevada, Las Vegas (UNLV) political-science assistant professor Wang Hung-en, in a long essay on Medium, listed the three elements of "cognitive warfare": **originating overseas, coordinated attack, and a specific motive** — all three required[^5]. He also cautioned:
+In a long essay on Medium, UNLV Political Science Assistant Professor Austin Wang (Wang Hong-en) explicitly lists the three elements of "cognitive warfare": **coming from abroad, coordinated attacks, and having specific motives**: all three are indispensable[^5]. He also warns:
 
-> **"A cluster of accounts that always come online together for moral support might genuinely just be a group of friends."**
+> **"A group of accounts that always log on together for warmth might just really be a group of good friends."**
 >
-> **"People of different colors have different probabilities of having their messages categorized as fake news."**
+> **"Messages transmitted by people of different colors are judged to be disinformation with different probabilities."**
 
-Wang's stance is not to absolve the CCP — he himself studies CCP cognitive warfare. He's pointing out a methodological double-standard risk: academic researchers can usually only access public data and cannot reach financial flows or communications; the government, simultaneously the punisher and the holder of information, has an agency problem. TPP legislator Chang Chi-lu has said something similar: "Treating everyone who criticizes the government as a CCP fellow-traveler or directed by China makes people feel this is the green camp's own cognitive warfare."[^38]
+Wang’s stance is not to exonerate the CCP: he himself studies CCP cognitive warfare. He points out the risk of methodological double standards: academic research mostly only has access to public data, unable to access financial flows and communications. The government, acting simultaneously as the punisher and the information holder, has an agency problem. People First Party Legislator Chang Chi-lu also said something similar: "Treating all critics of the government as CCP accomplices or directed by the old CCP will only make people feel this is a green camp cognitive warfare operation."[^38]
 
-### Why the Digital Intermediary Service Act was withdrawn
+### Why the Digital Intermediary Services Act Was Withdrawn
 
-On 29 June 2022, the National Communications Commission (NCC) approved a draft of the Digital Intermediary Service Act. At the third public hearing on 18 August, Meta, Google, and PTT pushed back hard, arguing that the act would chill freedom of speech; on 20 August Premier Su Tseng-chang intervened to delay the hearing; on 7 September the NCC announced it was withdrawing the draft to its internal task force for review, with no timetable[^39]. The opposition's core concern: a platform-responsibility regime might lead operators to over-delete content to avoid liability, becoming the "speech gatekeepers."
+On June 29, 2022, the National Communications Commission (NCC) passed the draft _Digital Intermediary Services Act_. At the third public hearing on August 18, Meta, Google, and PTT strongly reacted, arguing the act stifled freedom of speech. On August 20, Premier Su Tseng-chang intervened to postpone the hearing. On September 7, the NCC announced the withdrawal of the draft for internal review, with no timeline[^39]. The core concern of the opposition was: the platform responsibility mechanism might cause operators to delete content excessively to avoid liability, becoming "speech gatekeepers."
 
-This withdrawal is the most concrete marker of the tension between "cognitive-warfare governance" and "freedom of speech." As of April 2026, the Digital Intermediary Act has not been resubmitted.
+This withdrawal is the most concrete marker of the tension between "cognitive warfare governance" and "freedom of speech." As of April 2026, the Digital Intermediary Act has not been resubmitted.
 
-### Meta's US$16 billion threshold
+### Meta’s 16 Billion Threshold
 
-Facebook's platform responsibility deserves a look too. A November 2025 Reuters exclusive revealed that Meta internally estimated **about US$16 billion in 2024 (10% of global revenue) came from scam ads**[^40]. The platform pushes 15 billion "high-risk" scam ads daily, generating US$7 billion annually; Meta only blocks an ad **once its automated systems are 95% certain it's a scam**, because broadly imposing advertiser verification would reduce revenue.
+Facebook’s platform responsibility is also worth looking at. A Reuters exclusive investigation in November 2025 revealed that Meta internally estimated **approximately $16 billion (10% of global revenue) in 2024 came from scam ads**[^40]. Daily push of "high-risk" scam ads reached 1.5 billion, with annual revenue of $700 million. Meta only bans when the automated system is **95% certain it is a scam**, because widespread introduction of advertiser verification would reduce revenue.
 
-But there's a detail with positive significance for Taiwan: **Meta only implements advertiser verification in jurisdictions like Singapore and Taiwan where it is "legally mandated"**[^40]. This means Taiwan's _Anti-Fraud Special Act_ has actually pushed Meta to add an extra verification step — legal agency is not zero.
+But there is a detail that is a positive signal for Taiwan: **Meta only introduced advertiser verification in "legally mandatory" regions like Singapore and Taiwan**[^40]. This means Taiwan’s _Anti-Scam Special Law_ did force Meta to do one more verification step; legal agency is not zero.
 
-## The governance layer: government, law, technology
+## Governance Layer: Government, Law, and Technology
 
-In the face of this complex ecosystem, government responses are scattered across multiple agencies.
+Facing this complex ecosystem, government responses are scattered across multiple ministries.
 
-### MOHW: finding account applicants under the _Physicians Act_
+### Ministry of Health and Welfare: Finding Account Applicants via the _Physicians Act_
 
-In response to the AI fake-doctor case, the Ministry of Health and Welfare (MOHW) is planning multi-layered measures: completing the digital-applicability of medical regulations, strengthening cross-agency cooperation, establishing law-enforcement criteria for social posts and AI content, planning rapid takedown mechanisms, complaint and reporting channels, and adding safety reminders for medication and emergency-care information[^41]. Following the US model, MOHW plans to require Taiwanese doctor channels to disclose certified physician identity in their channel descriptions; and **under the _Physicians Act_, to find the people who applied for the accounts and have local health departments impose fines**; while seeking cooperation from Google and Meta[^42].
+Regarding the AI fake doctor case, the Ministry of Health and Welfare plans a multi-layered response: improving the digital application of medical regulations, strengthening cross-ministerial cooperation, establishing enforcement judgment standards for social media posts and AI content, planning rapid takedown mechanisms, appeal and reporting channels, and adding safety reminders for medication/emergency information[^41]. Modeling after the US system, the Ministry plans to require Taiwanese doctor channels to disclose legal physician status in their descriptions. It will also **identify account applicants via the _Physicians Act_ and penalize them via local health bureaus**, while seeking assistance from Google and Meta[^42].
 
-### Ministry of Digital Affairs: an "Anti-Fraud Reporting and Lookup Network"
+### Ministry of Digital Affairs: "Scam Reporting and Inquiry Network"
 
-Former Minister of Digital Affairs Huang Yen-nien announced during his term that within three months the Ministry would build an "Anti-Fraud Reporting and Lookup Network," using AI to fight AI: members of the public can paste suspicious messages into a platform, where AI analyzes and routes them to relevant agencies (health issues → MOHW, agriculture → Ministry of Agriculture), with collaborative defense mechanisms established with e-commerce and telecom operators, and a push to require real-name registration for online ads[^43]. Notable in the governance philosophy: **"The truth or falsity of content should not be judged by the government."** The Ministry of Digital Affairs' planned disinformation committee initially has NGOs as committee members; if takedown is required, public power must still execute it[^43]. Huang resigned in August 2025 at the end of his secondment, returning to Academia Sinica[^44].
+Former Minister of Digital Affairs Huang Yen-nan announced during his tenure that within three months, a "Scam Reporting and Inquiry Network" would be built to use AI against AI: after citizens paste suspicious messages into the platform, AI analyzes and routes them to corresponding ministries (health topics → MOHW, agriculture topics → Council of Agriculture), establishing a joint defense mechanism with e-commerce and telecom operators, and promoting real-name registration for online ads[^43]. Notably, the governance philosophy is: **"Content truth/falsehood should not be judged by the government."** The MOCA’s planned disinformation committee initially consists of NGO members; takedowns still require public power execution[^43]. Huang Yen-nan resigned on August 22, 2025, after his secondment period ended, returning to the Academia Sinica[^44].
 
-### TikTok: banned in the public sector, not banned for ordinary citizens
+### TikTok: Public Sector Ban, General Public Not Banned
 
-TikTok's legal status in Taiwan is often misunderstood. The Executive Yuan's 2019 "Principles for Restricted Use of Products Endangering National Cyber Security by Government Agencies" **bans TikTok, Douyin, and Xiaohongshu on public-sector ICT equipment and in associated premises**; ordinary citizens and personal devices of civil servants are not within the restriction[^45]. In 2024, the draft _Anti-Fraud Crime Hazard Prevention Act_ further required that TikTok must comply with Chinese-investment regulatory provisions to set a legal representative — at most "blocking the network"[^46].
+TikTok’s legal status in Taiwan is often misunderstood. The Executive Yuan’s 2019 publication of the "Principles on Restricting the Use of Products Endangering National Cyber Security" **banned TikTok, Douyin, and Xiaohongshu for public sector cyber devices and premises**. However, general citizens and civil servants’ private devices are not restricted[^45]. The 2024 draft _Regulations for the Prevention and Punishment of Fraudulent Crimes_ further stipulated that TikTok must comply with Chinese-invested enterprise legal norms to establish a legal representative, with the heaviest penalty being "network blocking"[^46].
 
-### C2PA: making real content verifiable
+### C2PA: Making Authentic Content Verifiable
 
-On the technology front, the **C2PA (Coalition for Content Provenance and Authenticity)** protocol attempts to attach an unforgeable "ID" to digital content. Its steering committee includes Adobe, Microsoft, OpenAI, Google, Intel, BBC, and Sony[^47]. OpenAI automatically embeds Content Credentials in DALL-E 3 outputs[^48]. The Google Pixel 10 phone, released on 10 September 2025, **automatically embeds C2PA Content Credentials at the native camera-app level**, achieving Assurance Level 2 — currently the highest in the C2PA Conformance Program — and is the first smartphone to adopt the standard at the mobile-camera layer[^49].
+Technically, the **C2PA (Content Credentials and Provenance Alliance)** protocol attempts to add an unforgeable "ID card" to digital content. Its steering committee includes Adobe, Microsoft, OpenAI, Google, Intel, BBC, and Sony[^47]. OpenAI automatically embedded Content Credentials in DALL-E 3[^48]. The Google Pixel 10 phone released on September 10, 2025, **natively embeds C2PA content credentials in its camera app**, achieving the highest current Assurance Level 2 of the C2PA Conformance Program, making it the first smartphone to adopt this standard at the mobile device camera level[^49].
 
-The logic of this direction is to make real content verifiable — shifting the burden of proof from "the reader verifies" to "the content carries provenance." But C2PA is not yet widespread on short-form-video platforms like TikTok and YouTube Shorts, nor has it penetrated encrypted messaging like LINE groups.
+The logic of this direction is to make authentic content verifiable: shifting the burden of proof from "reader verification" to "content附带 provenance." However, C2PA has not yet popularized to short-video platforms like TikTok or YouTube Shorts, nor has it penetrated encrypted communications like LINE groups.
 
-## Taiwan's anti-cognitive-warfare infrastructure
+## Taiwan’s Resistance Infrastructure
 
-Beyond government tools, Taiwan has built a distributed verification ecosystem — the distribution itself is a form of resilience design:
+Beyond government tools, Taiwan has established a decentralized verification ecosystem: this decentralization itself is a resilience design:
 
-| Organization                                                     | Founded  | Core output                                                                                                                                                                       |
+| Organization                                                     | Founded  | Core Outputs                                                                                                                                                                      |
 | ---------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Taiwan FactCheck Center (TFC)**                                | 2018     | In 2025, produced 540+ fact-checks, 85 explanatory reports, 200+ Instagram cards, 46 video pieces; the "5 July Japan earthquake prophecy" check broke 1 million views[^50]        |
-| **IORG (Information Operations Research Group)**                 | 2019     | Annual _Taiwan Information Environment Report_, America-skeptic narrative tracking, Douyin investigations[^27]                                                                    |
-| **Doublethink Lab**                                              | 2019     | Co-conducted the TikTok youth survey with NTHU Sociology and Academia Sinica Sociology[^12]                                                                                       |
-| **Cofacts**                                                      | 2016     | A crowdsourced LINE bot developed by the g0v community[^51]                                                                                                                       |
-| **MyGoPen**                                                      | 2015     | The only LINE service that simultaneously checks text, images, video, and audio[^52]                                                                                              |
-| **LINE Fact Check**                                              | Official | LINE's official portal integrating the four major fact-check platforms[^53]                                                                                                       |
-| **Kuma Academy**                                                 | 2021     | Co-founded by Puma Shen and Ho Cheng-hui; NT$600M donation from Tsao Hsing-cheng in 2022; civil-defense courses include cognitive warfare and information-warfare techniques[^26] |
-| **INDSR (Institute for National Defense and Security Research)** | 2018     | Established the Cybersecurity and Decision Support Research Institute; publishes the _National Defense and Security Biweekly_[^54]                                                |
+| **Taiwan FactCheck Center (TFC)**                                | 2018     | 540+ fact-check reports, 85 explanatory articles, 200+ IG infographics, 46 videos in 2025; "7/5 Japan Earthquake Prediction" fact-check exceeded 1 million views[^50]             |
+| **IORG Taiwan Information Environment Research Center**          | 2019     | Annual _Taiwan Information Environment Report_, "Doubt-the-US" tracking research, Douyin investigation[^27]                                                                       |
+| **Doublethink Lab Taiwan Democracy Lab**                         | 2019     | Collaborated with NTU Sociology and Academia Sinica Sociology on TikTok youth survey[^12]                                                                                         |
+| **Cofacts True or False**                                        | 2016     | Crowd-sourced LINE bot developed by g0v community[^51]                                                                                                                            |
+| **MyGoPen**                                                      | 2015     | Only LINE service capable of checking text, images, video, and audio simultaneously[^52]                                                                                          |
+| **LINE Message Verification**                                    | Official | Official entry integrating four major verification platforms[^53]                                                                                                                 |
+| **Black Bear Academy**                                           | 2021     | Founded by Shen Pei-yang and Ho Cheng-hui; Tsao Hsing-cheng donated 600 million NTD in 2022; civil defense courses include cognitive warfare and information warfare tactics[^26] |
+| **Institute for National Defense and Security Research (INDSR)** | 2018     | Established Institute of Cybersecurity and Decision Simulation; publishes _National Defense and Security Biweekly_[^54]                                                           |
 
-The design significance of this distributed ecosystem is **separation of powers**: TFC operates by journalism standards, IORG by academic research, Cofacts by crowdsourcing, LINE official integration by platform layer — no single institution can monopolize the definition of "what is true." This matters more than any "Anti-Disinformation Act," because the latter will always run into the perpetual question, "who decides?"
+The design significance of this decentralized ecosystem is **checks and balances**: TFC follows journalistic standards, IORG follows academic research, Cofacts follows crowd-sourcing, and LINE Official follows platform-level integration: no single institution can monopolize the definition of "what is true." This is more important than any _Disinformation Prevention Special Law_, because the latter will always encounter the tail-end problem of "who determines."
 
-## Cross-generational dialogue: where to start
+## Intergenerational Dialogue: Where to Start
 
-There is a counterintuitive observation at the conversational layer. LINE has more than **18 million users** in Taiwan, with usage rates exceeding 90% in both the 40-49 and 50-65 age groups[^55]. Adults over 65 make up 20.25% of fraud victims[^55]. But multiple surveys suggest that, when receiving suspected disinformation, **about 30% of older adults actively verify** — more proactive than parts of the younger generation[^56].
+There is an anomalous observation in the dialogue layer. LINE’s user base in Taiwan exceeds **18 million**, with usage rates for ages 40-49 and 50-65 both exceeding 90%[^55]. The elderly (65+) account for 20.25% of fraud victims[^55]. But multiple surveys show that **when receiving suspected disinformation, about 30% of the elderly proactively verify**, more active than some younger generations[^56].
 
-The stereotype of "elders = victims" needs correction. The audience for information-literacy education spans the entire society; every age group has gaps in algorithmic literacy. The AI Society Research Institute at Soochow University proposes the concept of "**Critical Algorithmic Literacy**," defined as "Should we use it? On whose terms?" — a higher-order angle of scrutiny than "digital literacy," "information literacy," or "media literacy"[^57].
+The stereotype "elderly = victims" needs to be corrected. Information literacy education spans the entire society; all age groups have gaps in algorithmic literacy. The AI Society Research Center at Soochow University proposed the concept of "Critical Algorithmic Literacy," defined as "Should we use it? On whose terms?": a meta-perspective higher than "digital literacy," "information literacy," or "media literacy"[^57].
 
-A concrete starting point for talking to elders can be the "Fact Check" account on LINE that they're already using — LINE's official portal integrating the four major fact-check platforms; you paste in the message and it gets checked[^53]. Cofacts' LINE bot is similarly install-free and crowdsource-verified[^51]. What these tools share is lowering the interface threshold, so elders can get checking results within their familiar social space.
+A concrete starting point for dialogue with the elderly can be the "Message Verification" account they are already using on LINE: LINE’s official entry integrating the four major verification platforms, paste it in to check[^53]. Cofacts’ LINE bot is also installation-free and crowd-sourced[^51]. The commonality of these two tools is lowering the interface threshold, allowing the elderly to obtain verification results in their original social field.
 
-## International experience: from Ukraine to the EU
+## International Experience: From Ukraine to the EU
 
-Taiwan is not alone. After the 2014 Crimea events, Ukrainian journalist Yevhen Fedchenko and faculty and students at the Kyiv-Mohyla Academy School of Journalism founded **StopFake**; by the time the war broke out in earnest, they had verified more than 3,000 Russian disinformation items[^58]. After full-scale war broke out in 2022, Western pro-Ukraine netizens spontaneously organized the **North Atlantic Fellas Organization (NAFO)**, using satirical memes to rapidly counter Russian propaganda[^58] — the first appearance on a cognitive battlefield of purely civilian-organized, tactical-level countermeasures.
+Taiwan is not an isolated case. After the 2014 Crimea incident, Ukrainian journalist Dmytro Kuznetsov and students from the Kyiv Mohyla Academy of Journalism founded **StopFake**, which had verified over 3,000 pieces of Russian disinformation by the time the war broke out[^58]. After the 2022 war fully escalated, pro-Ukrainian netizens in Europe and the US spontaneously organized the "**North Atlantic Fellowship (NAFO)**," using satirical memes to quickly respond to Russian propaganda[^58]: this was the first appearance of purely civilian self-organized tactical countermeasures on the cognitive battlefield.
 
-On the legislative front, **Article 50 of the EU AI Act**, taking effect in August 2026, mandates that deepfakes must be clearly disclosed as AI-generated/manipulated; AI-generated text on matters of public interest must be labeled; providers must ensure outputs are marked in machine-readable form[^59]. The European Commission released the first draft of a transparency code of practice on 17 December 2025; a second draft in March 2026; final version in June 2026[^60].
+On the legislative front, **Article 50 of the EU AI Act** will take effect in August 2026, mandating that deepfakes must be clearly disclosed as AI-generated/manipulated, and AI-generated text on public interest topics must be labeled. Providers must ensure outputs are marked in machine-readable form[^59]. The European Commission released the first draft of the transparency code of practice on December 17, 2025, the second version in March 2026, and finalized it in June 2026[^60].
 
-US legislation is also progressing: the 2025 _TAKE IT DOWN Act_ was signed into law by Trump, mandating platform takedowns of non-consensual intimate images[^22]; the _DEFIANCE Act_ passed the Senate by unanimous consent in January 2026 and is now in the House, granting deepfake-pornography victims civil-litigation rights[^23].
+US legislation is also advancing: the 2025 _TAKE IT DOWN Act_ was signed into law by Trump, mandating platforms to remove non-consensual intimate images[^22]. The _DEFIANCE Act_ passed the Senate unanimously in January 2026 and is now in the House, granting civil rights to deepfake pornography victims[^23].
 
-Cross-border fraud has reached new scale. On 14 October 2025, the US and the UK simultaneously sanctioned the Cambodia-based Prince Group, seizing Bitcoin assets worth US$15 billion (the largest in US-UK history); Taiwan seized 26 luxury cars (worth NT$400 million); the sanctions list included 9 Taiwanese companies and 3 Taiwanese nationals; the group's offices were located in Taipei 101 and the Heping Daadi residence[^61]. This case ties AI deepfake tools, transnational fraud, and Taiwan's local structure into a single thread.
+Cross-border fraud has reached a new scale. On October 14, 2025, the US and UK simultaneously sanctioned Cambodia’s Prince Group, seizing Bitcoin assets worth $15 billion (the largest in US/UK history), while Taiwan seized 26 luxury cars (worth 400 million NTD). The sanction list included 9 Taiwanese companies and 3 Taiwanese individuals. The group’s office was located in Taipei 101 and Heping Grand Hotel[^61]. This case connects AI deepfake tools, cross-border fraud, and Taiwan’s local structures into a single line.
 
-## One structure, three distances
+## One Structure, Three Distances
 
-Wang Hung-en said: "A cluster of accounts that always come online together for moral support might genuinely just be a group of friends." This sentence has to be read alongside Puma Shen's "80% has nothing to do with true or false; it's narrative attack." The first reminds researchers and government not to treat "synchronization" as a sole accusation; the second reminds readers not to treat "fact-checking" as the sole defensive line. Together, the two lines outline the hardest two faces of cognitive warfare: **alert and yet restrained**.
+Wang said: "A group of accounts that always log on together for warmth might just really be a group of good friends." This sentence must be read together with Shen Pei-yang’s "80% has nothing to do with truth or falsehood, it is narrative attacks." The former reminds researchers and the government not to treat "synchronization" as the only accusation. The latter reminds readers not to treat "fact-checking" as the only defense line. Together, the two sentences outline the most difficult two sides of cognitive warfare: **vigilance, but also restraint**.
 
-Back to the structure. A workable answer is composed of three distances cooperating:
+Back to the structure. An operable answer is composed of three distances:
 
-**The state layer** — the government's job is to set the floor, not to define truth and falsehood. MOHW finding account applicants under the _Physicians Act_, MoDA building the Anti-Fraud Reporting Network, the _Anti-Fraud Special Act_ pushing Meta into one extra verification step — these are structural moves at the legal layer. What the government must avoid is becoming the "judge of truth" — whoever's on stage will have their own version of truth. The lesson of the Digital Intermediary Act's withdrawal still stands.
+**National Level**: The government’s task is to set the bottom line, not to define truth or falsehood. The MOHW finding account applicants via the _Physicians Act_, the MOCA building the scam reporting network, the _Anti-Scam Special Law_ forcing Meta to do one more verification: these are structural actions at the legal level. The government must avoid becoming the "truth judge" itself, because whoever is in power will have their own truth. The lesson of the Digital Intermediary Act’s withdrawal remains.
 
-**The community layer** — TFC, IORG, Doublethink Lab, Cofacts, MyGoPen, Kuma Academy, INDSR, plus LINE's official Fact Check — this is separation of powers. Eight organizations each go by their own standards, supervising one another and patching one another's blind spots; no single capture is fatal.
+**Community Level**: TFC, IORG, Doublethink Lab, Cofacts, MyGoPen, Black Bear Academy, INDSR, plus LINE Official Message Verification, this is checks and balances. Eight organizations each following their own standards, supervising and complementing each other; no single institution being caught is fatal.
 
-**The individual layer** — every person's 15-second action. The next time a "doctor's recommendation" or "official subsidy" video lands in your LINE group, spend 15 seconds clicking into TFC or MyGoPen and searching the keywords to see whether it's been fact-checked; or paste it into LINE's official Fact Check bot and let the machine check. The cost of the action is low, but multiplied a thousand- or ten-thousand-fold, it slows the spread of disinformation.
+**Individual Level**: Each person’s 15-second action. Next time you receive a "doctor’s advice" or "official subsidy" video in a LINE group, spend 15 seconds clicking into TFC or MyGoPen to search keywords, seeing if it has been fact-checked. Or forward it to the LINE Official Message Verification account for the bot to check. This action has low cost, but amplified by thousands or millions, it can suppress the spread speed of disinformation.
 
-When an elder forwards an AI fake-doctor video, it's because they care about their family's health; when a young person shares an "Unicorn Calls Like That" clip, it's because they have real grievances about Taiwanese prices. What cognitive warfare exploits with precision are these irreplaceable real emotions. It then uses fake authority or exaggerated conclusions to translate emotion into a directional cognitive bias.
+An elderly person sharing an AI fake doctor video is because they care about their family’s health. A young person sharing the "Unicorn So Loud" edit is because they truly resent Taiwan’s prices. Cognitive warfare precisely exploits these irreplaceable genuine emotions. Then, using false authority or exaggerated conclusions, it transforms emotion into cognitive bias in a specific direction.
 
-"Doctor Chen Chih-ming" has disappeared from YouTube. Pa Chiung and Chen Po-yuan are still filming new documentaries. Puma Shen is still attending the Legislative Yuan. TFC's fact-checkers, Cofacts volunteers, Kuma Academy lecturers, IORG researchers — all of them will be at their posts again tomorrow.
+"Dr. Chen Chih-ming" has disappeared from YouTube. Ba Jiong and Chen Po-yuan are still filming new documentaries, Shen Pei-yang is still meeting in the Legislative Yuan, TFC fact-checkers, Cofacts volunteers, Black Bear Academy instructors, IORG researchers: tomorrow they will still be in place.
 
-The ultimate battleground of cognitive warfare is **the relationship of trust itself**. And that relationship of trust isn't on Douyin, isn't in Facebook's ads back end, isn't in CCTV's eight-minute features. The relationship of trust lives in the moment when you're willing to spend 15 seconds searching keywords, then turn to your family and say, "I checked — this one's fake."
+The ultimate battlefield of cognitive warfare is **trust relationships themselves**. And trust relationships are not in Douyin, not in Facebook ad backends, not in CCTV’s 8-minute exposés. Trust relationships are in that action where you are willing to spend 15 seconds searching keywords, then turning back to tell your family, "I checked, this is fake."
 
-## Further reading
+## Further Reading
 
-- Mountain-Makers: A Century's Wager (造山者：世紀的賭注) — Hsiao Chu-jen's 2025 documentary, five years interviewing 80+ semiconductor pioneers; in 2026 it travels to Purdue / Wisconsin / Michigan, the three CHIPS Act investment hubs
+- [The Mountain Makers: A Century’s Bet](/art/the-mountain-makers-a-centurys-bet) — Hsiao Ju-chen’s 2025 documentary, five years of interviews with 80+ semiconductor pioneers, entering three CHIPS Act investment hubs in 2026: Purdue, Wisconsin, Michigan
 
-- [Threads in Taiwan](/en/technology/threads-in-taiwan/) — Taiwan's social-media migration history and the platform structure of the information battlefield
-- Miin (迷音) — The open-source ecosystem to which g0v's Cofacts belongs
-- [Taiwan Online Community Migration](/en/technology/taiwan-online-community-migration/) — Understanding the role of platforms like PTT, Dcard, and Threads in cognitive warfare
-- Taiwan Media and Press Freedom (台灣媒體與新聞自由) — News ecosystem and platforms' responsibility in cognitive warfare
-- [Puma Shen](/en/people/puma-shen/) — One of the leading researchers on cognitive warfare; in 2025, the first elected Taiwanese politician to be placed under criminal investigation by China for "the crime of secession"
-- [Hēixióng Academy (Kuma Academy)](/society/黑熊學院) — Civilian organization that folds cognitive-warfare detection into its civil-defense basic course, training ordinary people to keep judgment under disinformation and psychological operations
-- [Poisoned Potatoes: Beyond the 200 ppm — There's 30 ppm, 14 Days, and 15 Years of Food-Safety Scars](/en/society/poisoned-potato-cognitive-warfare-taiwan/) — A dissection of how the TAO's April 2026 "offering" narrative stepped precisely onto the 15-year food-safety scar accumulated since the 2011 plasticizer scandal
+- [Threads in Taiwan](/technology/threads-in-taiwan) — Taiwan’s social media migration history and the platform structure of the information battlefield
+- [Miin](/technology/miin) — Du Yi-jin and Taiwan’s AI Lab’s anti-disinformation platform, using AI to catch coordinated operation accounts (not checking content item by item)
+- [Open Culture Foundation](/technology/open-culture-foundation) — The backend organization hosting Cofacts’ verification bot, guarding Taiwan’s internet freedom
+- [History of Taiwan’s Online Community Migration](/technology/history-of-taiwans-online-community-migration) — Understanding the role of platforms like PTT, Dcard, and Threads in cognitive warfare
+- [Taiwan Media and Press Freedom](/society/taiwan-media-and-press-freedom) — News ecology and platform responsibility in cognitive warfare
+- [Shen Pei-yang](/people/shen-pei-yang) — One of the main researchers on cognitive warfare; in 2025, became the first Taiwanese elected official investigated by China for the "crime of splitting the country"
+- [Black Bear Academy](/society/black-bear-academy) — A civil organization putting cognitive warfare recognition into basic civil defense camps, teaching ordinary people to maintain judgment amidst disinformation and psychological warfare
+- [Toxic Potatoes: Beyond 200 ppm, There Are 30 ppm, 14 Days, and a 15-Year Food Safety Scar](/society/toxic-potatoes-cognitive-warfare) — Anatomy of how the 2026-04 Taiwan Affairs Office "letter of allegiance" narrative precisely stepped on the 15-year food safety scar since the 2011 melamine scandal
+- [Taiwan and Eswatini](/society/taiwan-and-eswatini) — Concrete scenarios of Chinese language operations like "rat," "stowaway-style diplomatic breakthrough," "international laughingstock": Lai Ching-te’s reaction during the 2026-05 visit to Eswatini
+- [Taiwan and Paraguay](/society/taiwan-and-paraguay) — How Taiwan uses long-term cooperation to withstand Chinese market temptation and political lobbying, supporting the only diplomatic ally in South America
 
 ## References
 
-[^1]: [YouTuber Pa Chiung's new documentary exposes CCP united-front against Taiwan](https://www.cna.com.tw/news/aipl/202412280227.aspx) — Central News Agency, 28 December 2024; details of Pa Chiung + Chen Po-yuan's _China United Front Documentary_ upper episode
+[^1]: [YouTuber Ba Jiong’s New Documentary Exposes CCP’s United Front Tactics Against Taiwan](https://www.cna.com.tw/news/aipl/202412280227.aspx) — CNA, 2024-12-28, details of Ba Jiong + Chen Po-yuan’s _China United Front Documentary_ Part 1
 
-[^2]: [AI fake doctor impersonates medical center; Taipei VGH clarifies no such person](https://www.cna.com.tw/news/ahel/202512280162.aspx) — CNA, 28 December 2025; main reveal report and Lee Wei-chiang Vice-Superintendent statement, plus TFC technical analysis
+[^2]: [AI Fake Doctor Impersonates Medical Center Staff, TVGH Clarifies No Such Person Exists](https://www.cna.com.tw/news/ahel/202512280162.aspx) — CNA, 2025-12-28, main exposé report and Vice President Li Wei-chiang’s statement, TFC technical analysis
 
-[^3]: [Reuters: CCP uses Taiwanese local voices to wage information war on Taiwan](https://www.cna.com.tw/news/aipl/202604170313.aspx) — CNA citing Reuters, 17 April 2026; the 1,076 accounts, 560,000 videos, 57 Taiwanese figures data
+[^3]: [Reuters: CCP Uses Local Taiwanese Voices to Launch Information Warfare Against Taiwan](https://www.cna.com.tw/news/aipl/202604170313.aspx) — CNA citing Reuters, 2026-04-17, data on 1,076 accounts, 560,000 videos, 57 Taiwanese individuals
 
-[^4]: [Chongqing PSB opens criminal investigation against Puma Shen](https://m.mps.gov.cn/n6935718/n6936559/c10280070/content.html) — China's Ministry of Public Security website, 28 October 2025; verbatim notice on "secession" criminal investigation
+[^4]: [Chongqing Public Security Bureau Investigates Shen Pei-yang](https://m.mps.gov.cn/n6935718/n6936559/c10280070/content.html) — Chinese Ministry of Public Security official website, 2025-10-28, original text of the "crime of splitting the country" investigation notice
 
-[^5]: [Free speech, cognitive warfare, research limits, moral dilemmas, and double standards](https://austinwang-23988.medium.com/%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1-%E8%AA%8D%E7%9F%A5%E4%BD%9C%E6%88%B0-%E7%A0%94%E7%A9%B6%E9%99%90%E5%88%B6-%E9%81%93%E5%BE%B7%E5%9B%B0%E5%A2%83-%E8%88%87%E9%9B%99%E9%87%8D%E6%A8%99%E6%BA%96-53e8280c2db3) — Wang Hung-en on Medium; long reflection essay by the UNLV political-science assistant professor
+[^5]: [Freedom of Speech, Cognitive Warfare, Research Limitations, Moral Dilemmas, and Double Standards](https://austinwang-23988.medium.com/%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1-%E8%AA%8D%E7%9F%A5%E4%BD%9C%E6%88%B0-%E7%A0%94%E7%A9%B6%E9%99%90%E5%88%B6-%E9%81%93%E5%BE%B7%E5%9B%B0%E5%A2%83-%E8%88%87%E9%9B%99%E9%87%8D%E6%A8%99%E6%BA%96-53e8280c2db3) — Austin Wang Medium, reflective essay by UNLV Political Science Assistant Professor
 
-[^6]: [YT-viral doctor exposed as fake; 23,000 viewers all duped](https://www.storm.mg/lifestyle/11091094) — Storm Media, 28 December 2025; subscriber and view count details
+[^6]: [YT Viral Doctor Exposed as Fake, 23,000 People Deceived](https://www.storm.mg/lifestyle/11091094) — Storm Media, 2025-12-28, details on subscriber and view counts
 
-[^7]: [New Taipei Department of Social Welfare confirms elder-subsidy AI fake message](https://news.ltn.com.tw/news/NewTaipei/breakingnews/5282196) — _Liberty Times_, 2025; specific identification cues
+[^7]: [New Taipei Social Affairs Bureau Confirms Elderly Subsidy AI Disinformation](https://news.ltn.com.tw/news/NewTaipei/breakingnews/5282196) — Liberty Times Net, 2025, specific identification clues
 
-[^8]: [Entertainer Wang Jen-fu's family hit by AI voice fraud](https://www.gvm.com.tw/article/100491) — _Global Views Monthly_; concrete Taiwan case of voice-cloning fraud
+[^8]: [Artist Wang Jen-fu’s Family Encounters AI Voice Fraud](https://www.gvm.com.tw/article/100491) — GVM Magazine, specific Taiwanese case of voice cloning fraud
 
-[^9]: [Taiwan's first AI voice-fraud case cracked](https://www.mirrormedia.mg/story/20221201soc008) — _Mirror Weekly_; CIB's 20+ conversational scenarios, 70 victims, single-case NT$20M loss
+[^9]: [Taiwan’s First AI Voice Fraud Case Solved](https://www.mirrormedia.mg/story/20221201soc008) — Mirror Media, Criminal Investigation Bureau: 20+ dialogue scenarios, 70 deceived, single case 20 million NTD
 
-[^10]: [NSB reveals 5 CCP cognitive-warfare tactics; over 2.31M contentious items in a year](https://www.storm.mg/article/11094106) — Storm Media, 2025; public summary of the NSB's _2025 Analysis of CCP Cognitive Warfare Operations_
+[^10]: [National Security Bureau Exposes 5 CCP Cognitive Warfare Tactics, Breaking 2.31 Million Contentious Items Annually](https://www.storm.mg/article/11094106) — Storm Media, 2025, public summary of the National Security Bureau’s _2025 Analysis of CCP Cognitive Warfare Tactics Against Taiwan_
 
-[^11]: [IORG: America-skeptic narratives and where they come from](https://iorg.tw/_en/a/press-release-20230921) — Information Operations Research Group; 84-narrative tracking research
+[^11]: [IORG: Doubt-the-US Narratives and Their Origins](https://iorg.tw/_en/a/press-release-20230921) — Taiwan Information Environment Research Center, tracking study of 84 narratives
 
-[^12]: [Doublethink Lab TikTok youth survey 2025](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%96%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B2%E9%80%8F-tiktok-458e3c5f7475) — Doublethink Lab; abridged version of three interlinked reports
+[^12]: [Doublethink Lab TikTok Youth Survey 2025](https://medium.com/doublethinklab-tw/%E7%B2%BE%E6%BA%96%E6%8E%A8%E6%92%AD%E8%88%87%E8%AA%8D%E7%9F%A5%E6%BB%B7%E9%80%8F-tiktok-458e3c5f7475) — Taiwan Democracy Lab, summary version of three interconnected reports
 
-[^13]: [Puma Shen: 80% of public-opinion warfare has nothing to do with true or false; it's narrative attack](https://feja.org.tw/74059/) — Foundation for Excellent Journalism Award; record of Puma Shen's lecture
+[^13]: [Shen Pei-yang: Propaganda War 80% Has Nothing to Do with Truth or Falsehood, It Is Narrative Attacks](https://feja.org.tw/74059/) — Excellence Journalism Award Foundation, record of Shen Pei-yang’s speech
 
-[^14]: [IORG: Disinformed democracy — Taiwan disinformation research](https://iorg.tw/_en/a/disinformed-democracy) — Dissection of the 2020 election-interference techniques; direct involvement of Chinese officials as a new phenomenon
+[^14]: [IORG: Disinformed Democracy Taiwan Disinformation Research](https://iorg.tw/_en/a/disinformed-democracy) — Breakdown of 2020 general election interference tactics, Chinese official intervention as a new phenomenon
 
-[^15]: [NSB: AI virtual newsreaders become a CCP election-interference tool](https://www.epochtimes.com/b5/26/1/11/n14673839.htm) — Epoch Times, January 2026; new features post-2024 presidential election
+[^15]: [National Security Bureau: AI Virtual Anchors Become CCP Election Interference Tool](https://www.epochtimes.com/b5/26/1/11/n14673839.htm) — The Epoch Times, 2026-01, new characteristics after the 2024 presidential election
 
-[^16]: [AI-altered Lai Ching-te "swearing" video](https://news.ltn.com.tw/news/politics/breakingnews/5157285) — _Liberty Times_, 2025; DPP's Hsu Shu-hua: "the disinformation profits the CCP"
+[^16]: [AI Fabricates Lai Ching-te "Cursing" Video](https://news.ltn.com.tw/news/politics/breakingnews/5157285) — Liberty Times Net, 2025, DPP’s Hsu Shu-chhua criticizes "disinformation profits the CCP"
 
-[^17]: [Threads @derek_foxx warns about Unicorn Calls Like That](https://www.threads.com/@derek_foxx/post/DGPyYuIpzjK) — Threads, 18 February 2025; user demonstrates how to reverse-engineer suspicious channels by accent and trend
+[^17]: [Threads @derek_foxx Warns About Unicom So Loud](https://www.threads.com/@derek_foxx/post/DGPyYuIpzjK) — Threads, 2025-02-18, user demonstrates how to infer suspicious channels from accent and wind direction
 
-[^18]: [Threads @derek_foxx follow-up observations](https://www.threads.com/@derek_foxx/post/DQI5HNKCWEq/) — Follow-up post documenting fan-base behavior patterns of the suspicious channel
+[^18]: [Threads @derek_foxx Follow-up Observation](https://www.threads.com/@derek_foxx/post/DQI5HNKCWEq/) — Follow-up post recording suspicious channel fan behavior patterns
 
-[^19]: [Threads user @kuilam409 observations](https://www.threads.com/@kuilam409/post/DXM9ZQDEuK1) — Another user lists common controversial topics on the channel
+[^19]: [Threads User @kuilam409 Observation](https://www.threads.com/@kuilam409/post/DXM9ZQDEuK1) — Another user lists common controversial topics of the channel
 
-[^20]: [Steve Kramer admits faking Biden's voice in NH primary robocall](https://www.nbcnews.com/politics/2024-election/steve-kramer-admitted-deepfaking-bidens-voice-new-hampshire-primary-rcna153626) — NBC News, 2024; judicial details of the US case
+[^20]: [Steve Kramer Admits Faking Biden's Voice in NH Primary Robocall](https://www.nbcnews.com/politics/2024-election/steve-kramer-admitted-deepfaking-bidens-voice-new-hampshire-primary-rcna153626) — NBC News, 2024, judicial details of the US case
 
-[^21]: [Taylor Swift deepfake pornography controversy](https://en.wikipedia.org/wiki/Taylor_Swift_deepfake_pornography_controversy) — Wikipedia; the 2024 incident and the legislative push for the DEFIANCE Act
+[^21]: [Taylor Swift deepfake pornography controversy](https://en.wikipedia.org/wiki/Taylor_Swift_deepfake_pornography_controversy) — Wikipedia, 2024 event and _DEFIANCE Act_ legislative push
 
-[^22]: [TAKE IT DOWN Act](https://en.wikipedia.org/wiki/TAKE_IT_DOWN_Act) — Wikipedia; signed into law by Trump on 19 May 2025, mandating platform takedowns of non-consensual intimate images
+[^22]: [TAKE IT DOWN Act](https://en.wikipedia.org/wiki/TAKE_IT_DOWN_Act) — Wikipedia, signed into law by Trump on 2025-05-19, mandating platforms to remove non-consensual intimate images
 
-[^23]: [DEFIANCE Act S.1837 in Senate](https://www.congress.gov/bill/119th-congress/senate-bill/1837) — US Congress; passed the Senate by unanimous consent in January 2026
+[^23]: [DEFIANCE Act S.1837 in Senate](https://www.congress.gov/bill/119th-congress/senate-bill/1837) — US Congress, passed unanimously in the Senate in January 2026
 
-[^24]: [Taiwanese YouTuber releases sequel documentary exposing CCP's united-front tactics](https://www.voachinese.com/a/taiwanese-youtuber-releases-sequel-documentary-exposing-ccp-s-united-front-tactics-122824/7917109.html) — VOA Chinese, December 2024; lower-episode view count + Chen Po-yuan backlash details
+[^24]: [Taiwanese YouTuber Releases Sequel Documentary Exposing CCP's United Front Tactics](https://www.voachinese.com/a/taiwanese-youtuber-releases-sequel-documentary-exposing-ccp-s-united-front-tactics-122824/7917109.html) — VOA Chinese, 2024-12, second part view count + Chen Po-yuan’s backlash details
 
-[^25]: [Pa Chiung's documentary reveals CCP united-front; MAC promises tough investigation](https://news.ltn.com.tw/news/politics/breakingnews/4907609) — _Liberty Times_; the 200,000 Taiwanese with Chinese ID cards is a claim made in the film
+[^25]: [Ba Jiong Documentary Exposes CCP United Front, MAC Responds with Strict Investigation](https://news.ltn.com.tw/news/politics/breakingnews/4907609) — Liberty Times Net, 200,000 Taiwanese obtaining Chinese IDs is a claim in the film
 
-[^26]: [Puma Shen — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B2%88%E4%BC%AF%E6%B4%8B) — Kuma Academy scale, the Tsao Hsing-cheng NT$600M donation, education and career
+[^26]: [Shen Pei-yang Wikipedia](https://zh.wikipedia.org/wiki/%E6%B2%88%E4%BC%AF%E6%B4%8B) — Black Bear Academy scale, Tsao Hsing-cheng’s 600 million NTD donation, academic background
 
-[^27]: [IORG official site](https://iorg.tw/_en) — Background and research scope of the Information Operations Research Group
+[^27]: [IORG Official Website](https://iorg.tw/_en) — Taiwan Information Environment Research Center founding background and research scope
 
-[^28]: [TAO publishes "stubborn Taiwanese-independence elements" list](http://www.gwytb.gov.cn/xwdt/xwfb/wyly/202410/t20241014_12656119.htm) — TAO, 14 October 2024; Puma Shen on the list
+[^28]: [Taiwan Affairs Office Announces "Stubborn Independence Separatists" List](http://www.gwytb.gov.cn/xwdt/xwfb/wyly/202410/t20241014_12656119.htm) — Taiwan Affairs Office, 2024-10-14, Shen Pei-yang listed
 
-[^29]: [CCTV ~8-min exposé of Puma Shen, threatens global apprehension](https://news.ltn.com.tw/news/politics/breakingnews/5239735) — _Liberty Times_, October 2025; Puma Shen's "one country on each side" reply
+[^29]: [CCTV Nearly 8-Minute Exposé on Shen Pei-yang, Threatens Global Arrest](https://news.ltn.com.tw/news/politics/breakingnews/5239735) — Liberty Times Net, 2025-10, Shen Pei-yang’s "One Country, One Side" response
 
-[^30]: [Lin Wei-feng pretend-troll case: pro-green writer posts pro-China on PTT](https://news.ltn.com.tw/news/society/breakingnews/3545245) — _Liberty Times_, 2021; a domestic Taiwanese information-operation case
+[^30]: [Lin Wei-feng Reverse-Role Incident: Pro-DPP Writer Posts Pro-CCP Articles on PTT](https://news.ltn.com.tw/news/society/breakingnews/3545245) — Liberty Times Net, 2021, Taiwanese local information operation case
 
-[^31]: [1450 cyber army](https://zh.wikipedia.org/zh/1450%E7%B6%B2%E8%BB%8D) — Wikipedia; both the official and opposition versions of "1450"
+[^31]: [1450 Cyber Army](https://zh.wikipedia.org/zh/1450%E7%B6%B2%E8%BB%8D) — Wikipedia, official and opposition versions of the 1450 term side by side
 
-[^32]: [Scholars criticize green camp's labeling of dissent; the 47-account fiasco](https://www.thenewslens.com/article/177909) — The News Lens; other-party auxiliary forces and labeling controversies
+[^32]: [Scholars Criticize Green Camp Labeling Dissent, 47 Accounts Blunder Case](https://www.thenewslens.com/article/177909) — The News Lens, other parties’ sidekicks and labeling controversies
 
-[^33]: [Puma Shen 2019 traces the Kansai Airport incident's source](https://newtalk.tw/news/view/2019-12-02/334745) — Newtalk; Puma Shen's public lecture exposing the Chinese Weibo source
+[^33]: [Shen Pei-yang Traces Kansai Airport Incident Source in 2019](https://newtalk.tw/news/view/2019-12-02/334745) — Newtalk, Shen Pei-yang’s public speech exposes Chinese Weibo source
 
-[^34]: [Yang Hui-ju first-instance 6 months: PTT setting the wind direction](https://www.cna.com.tw/news/firstnews/202111120033.aspx) — CNA, 12 November 2021; the LINE group "Kaohsiung Group" one-minute mobilization detail
+[^34]: [Yang Hui-ju First Instance Sentenced to 6 Months: PTT Sets Wind Direction](https://www.cna.com.tw/news/firstnews/202111120033.aspx) — CNA, 2021-11-12, LINE group "Kaohsiung Group" one-minute mobilization details
 
-[^35]: [Su Chii-cherng — Wikipedia](https://zh.wikipedia.org/zh-hant/%E8%98%87%E5%95%9F%E8%AA%A0) — Suicide-note content; event timeline
+[^35]: [Su Chi-cheng Wikipedia](https://zh.wikipedia.org/zh-hant/%E8%98%87%E5%95%9F%E8%AA%A0) — Suicide note content, event timeline: Wikipedia entry
 
-[^36]: [Yang Hui-ju Kansai Airport case first-instance ruling](https://www.cna.com.tw/news/firstnews/202111120033.aspx) — CNA; same as [^34]
+[^36]: [Yang Hui-ju Kansai Airport Case First Instance Judgment](https://www.cna.com.tw/news/firstnews/202111120033.aspx) — CNA, same as [^34]
 
-[^37]: [Yang Hui-ju, who ran cyber-army insulting the Osaka office, granted dismissal](https://www.ettoday.net/news/20250221/2912746.htm) — ETtoday, 21 February 2025; charges dismissed after the Constitutional Court ruled the offense "insulting public office" unconstitutional
+[^37]: [Raising Cyber Army to Insult Osaka Office, Yang Hui-ju Granted Dismissal](https://www.ettoday.net/news/20250221/2912746.htm) — ETtoday, 2025-02-21, dismissal confirmed after Constitutional Court ruled insulting official duties unconstitutional
 
-[^38]: [TPP's Chang Chi-lu: labeling critics may itself be the green camp's cognitive warfare](https://udn.com/news/story/10930/5610468) — UDN, 2021; TPP stance
+[^38]: [People First Party’s Chang Chi-lu: Labeling Critics May Be Green Camp Cognitive Warfare](https://udn.com/news/story/10930/5610468) — United Daily News, 2021, People First Party stance
 
-[^39]: [Digital Intermediary Service Act controversy](https://zh.wikipedia.org/zh-hant/%E6%95%B8%E4%BD%8D%E4%B8%AD%E4%BB%8B%E6%9C%8D%E5%8B%99%E6%B3%95%E7%88%AD%E8%AD%B0%E4%BA%8B%E4%BB%B6) — Wikipedia; full timeline of the 2022 withdrawal
+[^39]: [Digital Intermediary Services Act Controversy](https://zh.wikipedia.org/zh-hant/%E6%95%B8%E4%BD%8D%E4%B8%AD%E4%BB%8B%E6%9C%8D%E5%8B%99%E6%B3%95%E7%88%AD%E8%AD%B0%E4%BA%8B%E4%BB%B6) — Wikipedia, complete timeline of the 2022 withdrawal of the Digital Intermediary Act
 
-[^40]: [Meta estimated 10% of 2024 sales from scam and fraud ads](https://www.cnbc.com/2025/11/06/meta-reportedly-projected-10percent-of-2024-sales-came-from-scam-fraud-ads.html) — CNBC citing Reuters, 6 November 2025; US$16 billion, 95% threshold, Taiwan and Singapore legal-mandate verification
+[^40]: [Meta Estimated 10% of 2024 Sales from Scam and Fraud Ads](https://www.cnbc.com/2025/11/06/meta-reportedly-projected-10percent-of-2024-sales-came-from-scam-fraud-ads.html) — CNBC citing Reuters, 2025-11-06, $16 billion, 95% threshold, Taiwan/Singapore legal mandatory verification
 
-[^41]: [MOHW: AI fake doctors fined under the _Physicians Act_](https://www.cna.com.tw/news/ahel/202512280182.aspx) — CNA, 28 December 2025; cross-agency cooperation plan
+[^41]: [MOHW: Penalizing AI Fake Doctors via _Physicians Act_](https://www.cna.com.tw/news/ahel/202512280182.aspx) — CNA, 2025-12-28, cross-ministerial cooperation plans
 
-[^42]: [MOHW reviewing strengthened AI-content enforcement](https://technews.tw/2025/12/29/ai-doctor-dispute) — TechNews, 29 December 2025; following the US model of disclosing physician identity
+[^42]: [MOHW Studies Strengthening AI Content Enforcement](https://technews.tw/2025/12/29/ai-doctor-dispute) — TechNews, 2025-12-29, modeling after US system to disclose physician status
 
-[^43]: [Ministry of Digital Affairs begins testing the anti-fraud reporting and lookup network](https://www.ithome.com.tw/news/164718) — iThome, 2024; "AI vs. AI" routing architecture; the policy philosophy that NGOs serve on the disinformation committee
+[^43]: [Digital Ministry Begins Testing Scam Reporting and Inquiry Network](https://www.ithome.com.tw/news/164718) — iThome, 2024, "AI against AI" routing architecture, NGO serving as disinformation committee member policy philosophy
 
-[^44]: [Huang Yen-nien resigns at end of secondment, returns to Academia Sinica](https://newtalk.tw/news/view/2025-08-22/989343) — Newtalk, 22 August 2025
+[^44]: [Huang Yen-nan Resigns After Secondment Ends, Returns to Academia Sinica](https://newtalk.tw/news/view/2025-08-22/989343) — Newtalk, 2025-08-22
 
-[^45]: [TikTok's legal restriction status in Taiwan](https://moda.gov.tw/press/clarification/3473) — Ministry of Digital Affairs clarification; banned in the public sector vs. unrestricted for ordinary citizens
+[^45]: [TikTok’s Legal Restriction Status in Taiwan](https://moda.gov.tw/press/clarification/3473) — Ministry of Digital Affairs clarification, public sector banned vs. general public not restricted
 
-[^46]: [Anti-fraud crime hazard prevention act draft TikTok provisions](https://www.thenewslens.com/article/177703) — The News Lens; legal-representative and network-blocking clauses
+[^46]: [Regulations for the Prevention and Punishment of Fraudulent Crimes Draft Provisions on TikTok](https://www.thenewslens.com/article/177703) — The News Lens, legal representative and network blocking clauses
 
-[^47]: [C2PA official site](https://c2pa.org/) — Coalition for Content Provenance and Authenticity; steering-committee members
+[^47]: [C2PA Official Website](https://c2pa.org/) — Content Credentials and Provenance Alliance, steering committee members
 
-[^48]: [OpenAI joins C2PA steering committee](https://spec.c2pa.org/post/openai_pr/) — C2PA official; Content Credentials embedded in DALL-E 3
+[^48]: [OpenAI Joins C2PA Steering Committee](https://spec.c2pa.org/post/openai_pr/) — C2PA Official, DALL-E 3 embeds Content Credentials
 
-[^49]: [Pixel 10 brings C2PA Content Credentials to photos](https://security.googleblog.com/2025/09/pixel-android-trusted-images-c2pa-content-credentials.html) — Google Security Blog, 10 September 2025; achieving Assurance Level 2
+[^49]: [Pixel 10 Brings C2PA Content Credentials to Photos](https://security.googleblog.com/2025/09/pixel-android-trusted-images-c2pa-content-credentials.html) — Google Security Blog, 2025-09-10, Achieves Assurance Level 2
 
-[^50]: [TFC 2025 annual review](https://tfc-taiwan.org.tw/2025-annual-review/) — Taiwan FactCheck Center annual output statistics (site temporarily unstable at time of writing; URL is correct)
+[^50]: [TFC 2025 Annual Review](https://tfc-taiwan.org.tw/2025-annual-review/) — Taiwan Factcheck Center annual output statistics (site temporarily unstable at time of writing, URL correct)
 
-[^51]: [Cofacts](https://cofacts.tw/) — g0v community crowdsourced fact-check LINE bot
+[^51]: [Cofacts True or False](https://cofacts.tw/) — g0v community crowd-sourced verification LINE bot
 
-[^52]: [MyGoPen](https://www.mygopen.com/) — Fact-check service across text/image/video/audio
+[^52]: [MyGoPen](https://www.mygopen.com/) — Verification service capable of checking text/image/video/audio four media
 
-[^53]: [LINE Fact Check](https://fact-checker.line.me/) — LINE's official portal integrating the four major fact-check platforms
+[^53]: [LINE Message Verification](https://fact-checker.line.me/) — LINE official entry integrating four major verification platforms
 
-[^54]: [Institute for National Defense and Security Research](https://indsr.org.tw/) — Founded 1 May 2018; Cybersecurity and Decision Support Research Institute
+[^54]: [Institute for National Defense and Security Research](https://indsr.org.tw/) — Founded 2018-05-01, established Institute of Cybersecurity and Decision Simulation
 
-[^55]: [Senior LINE dependence and information fraud](https://www.commonhealth.com.tw/article/83033) — _Common Health_; 18 million users; 90% usage rate at 40-65
+[^55]: [Elderly LINE Dependency and Information Fraud](https://www.commonhealth.com.tw/article/83033) — CommonHealth Magazine, 18 million users, 90% usage for ages 40-65
 
-[^56]: [Content-farm survey: older adults actively verify](https://www.twreporter.org/a/information-warfare-business-disinformation-fake-news-behind-line-groups) — _The Reporter_; 30% of older adults actively report
+[^56]: [Content Farm Survey: Elderly Proactively Verify](https://www.twreporter.org/a/information-warfare-business-disinformation-fake-news-behind-line-groups) — The Reporter, 30% of elderly proactively report
 
-[^57]: [Critical Algorithmic Literacy](https://rcais.medium.com/ai%E4%BD%9C%E7%82%BA%E5%AA%92%E4%BB%8B-%E8%A9%A6%E8%AB%96%E6%89%B9%E5%88%A4%E6%BC%94%E7%AE%97%E6%B3%95%E7%B4%A0%E9%A4%8A-critical-algorithmic-literacy-%E7%9A%84%E5%85%A7%E6%B6%B5-dde8235a0a4e) — AI Society Research Institute, Soochow University (RCAIS)
+[^57]: [Critical Algorithmic Literacy](https://rcais.medium.com/ai%E4%BD%9C%E7%82%BA%E5%AA%92%E4%BB%8B-%E8%A9%A6%E8%AB%96%E6%89%B9%E5%88%A4%E6%BC%94%E7%AE%97%E6%B3%95%E7%B4%A0%E9%A4%8A-critical-algorithmic-literacy-%E7%9A%84%E5%85%A7%E6%B6%B5-dde8235a0a4e) — Soochow University AI Society Research Center (RCAIS)
 
-[^58]: [StopFake and NAFO: Ukraine's civilian self-organization](https://www.twreporter.org/a/russian-invasion-of-ukraine-2022-stopfake) — _The Reporter_; civilian tactical-level countermeasures from 2022 onward
+[^58]: [StopFake and NAFO: Ukrainian Civilian Self-Organization](https://www.twreporter.org/a/russian-invasion-of-ukraine-2022-stopfake) — The Reporter, post-2022 civilian tactical countermeasures
 
-[^59]: [EU AI Act Article 50 Transparency Obligations](https://artificialintelligenceact.eu/article/50/) — EU AI Act; deepfake and AI-generated-content labeling obligations
+[^59]: [EU AI Act Article 50 Transparency Obligations](https://artificialintelligenceact.eu/article/50/) — EU AI Act, deepfake and AI-generated content labeling obligations
 
-[^60]: [EU Code of Practice for Transparency in AI Content](https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content) — European Commission; transparency code-of-practice timeline
+[^60]: [EU Code of Practice for Transparency in AI Content](https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content) — European Commission, transparency code of practice timeline
 
-[^61]: [Prince Group transnational criminal organization case](https://zh.wikipedia.org/zh-hant/%E5%A4%AA%E5%AD%90%E9%9B%86%E5%9C%98%E8%B7%A8%E5%9C%8B%E7%8A%AF%E7%BD%AA%E7%B5%84%E7%B9%94%E6%A1%88) — Wikipedia; 14 October 2025 US-UK sanctions, US$15B Bitcoin, Taiwan seizure details
+[^61]: [Prince Group Transnational Criminal Organization Case](https://zh.wikipedia.org/zh-hant/%E5%A4%AA%E5%AD%90%E9%9B%86%E5%9C%98%E8%B7%A8%E5%9C%8B%E7%8A%AF%E7%BD%AA%E7%B5%84%E7%B9%94%E6%A1%88) — Wikipedia, 2025-10-14 US/UK sanctions, 15 billion Bitcoin, Taiwan seizure details

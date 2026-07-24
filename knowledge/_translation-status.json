@@ -1,14 +1,14 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T10:29:42+08:00",
-    "zhCommitHead": "9e89e1105",
+    "lastUpdated": "2026-07-24T10:40:41+08:00",
+    "zhCommitHead": "9dfc8adc3",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
       "en": {
         "total_zh": 862,
-        "fresh": 692,
-        "stale": 170,
+        "fresh": 693,
+        "stale": 169,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -43073,18 +43073,16 @@
         "en": {
           "path": "en/People/zun.md",
           "translatedFrom": "People/尊.md",
-          "sourceCommitSha": "aeb8b0e4",
-          "sourceContentHash": "sha256:0d80278055d155a0",
-          "sourceBodyHash": "sha256:44a77176cac892eb",
-          "translatedAt": "2026-06-05T16:40:22Z",
+          "sourceCommitSha": "16c428cd9",
+          "sourceContentHash": "sha256:94b77718dfa4da62",
+          "sourceBodyHash": "sha256:5579d8d02a3f58ac",
+          "translatedAt": "2026-07-24T10:29:42+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
-          "footnoteDefs": 23,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 4,
-          "diffSummary": "+92 -107"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/zun.md",
@@ -43231,8 +43229,8 @@
           "sourceContentHash": "sha256:a7dc8d1152c0f436",
           "sourceBodyHash": "sha256:5272c869278fa371",
           "translatedAt": "2026-07-24T10:19:54+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "9dfc8adc",
+          "translationLastModified": "2026-07-24T10:30:56+08:00",
           "inferred": false,
           "footnoteDefs": 68,
           "status": "fresh",
@@ -66604,8 +66602,8 @@
           "sourceContentHash": "sha256:c56d8ded11ccacaf",
           "sourceBodyHash": "sha256:b63c0b30d24f0d0a",
           "translatedAt": "2026-07-24T10:19:54+08:00",
-          "translationLastCommit": "40894e77",
-          "translationLastModified": "2026-06-02T01:19:52+08:00",
+          "translationLastCommit": "9dfc8adc",
+          "translationLastModified": "2026-07-24T10:30:56+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
