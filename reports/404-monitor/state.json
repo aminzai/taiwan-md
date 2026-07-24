@@ -227,67 +227,61 @@
     },
     {
       "date": "2026-07-23",
-      "total_404": 7494,
+      "total_404": 9266,
       "truncated": false,
       "families": {
-        "probe-wellknown": {
-          "count": 86,
-          "bot": 34,
-          "browser": 52,
+        "unknown": {
+          "count": 5366,
+          "bot": 3442,
+          "browser": 1924,
           "empty": 0
         },
-        "unknown": {
-          "count": 4246,
-          "bot": 2331,
-          "browser": 1915,
+        "probe-wellknown": {
+          "count": 86,
+          "bot": 35,
+          "browser": 51,
           "empty": 0
         },
         "scanner": {
-          "count": 1675,
-          "bot": 1372,
-          "browser": 44,
-          "empty": 259
+          "count": 1783,
+          "bot": 1373,
+          "browser": 10,
+          "empty": 400
         },
         "stale-asset": {
-          "count": 85,
-          "bot": 38,
-          "browser": 47,
+          "count": 100,
+          "bot": 41,
+          "browser": 59,
           "empty": 0
         },
         "md-extension": {
-          "count": 444,
-          "bot": 132,
-          "browser": 312,
+          "count": 688,
+          "bot": 349,
+          "browser": 339,
           "empty": 0
         },
         "slug-variant": {
-          "count": 462,
-          "bot": 290,
-          "browser": 172,
+          "count": 524,
+          "bot": 364,
+          "browser": 160,
           "empty": 0
         },
         "cross-lang-slug": {
-          "count": 393,
-          "bot": 136,
-          "browser": 257,
-          "empty": 0
-        },
-        "missing-asset": {
-          "count": 31,
-          "bot": 8,
-          "browser": 23,
+          "count": 538,
+          "bot": 303,
+          "browser": 235,
           "empty": 0
         },
         "renamed-or-truncated": {
-          "count": 27,
-          "bot": 8,
-          "browser": 19,
+          "count": 37,
+          "bot": 17,
+          "browser": 20,
           "empty": 0
         },
         "untranslated-demand": {
-          "count": 30,
-          "bot": 19,
-          "browser": 11,
+          "count": 105,
+          "bot": 75,
+          "browser": 30,
           "empty": 0
         },
         "phantom": {
@@ -295,9 +289,15 @@
           "bot": 9,
           "browser": 6,
           "empty": 0
+        },
+        "missing-asset": {
+          "count": 24,
+          "bot": 8,
+          "browser": 16,
+          "empty": 0
         }
       }
     }
   ],
-  "updated": "2026-07-24T15:09:55.517629+00:00"
+  "updated": "2026-07-24T22:12:58.720499+00:00"
 }
