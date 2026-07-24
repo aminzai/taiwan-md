@@ -199,6 +199,20 @@ else
 fi
 echo ""
 
+# ────────────────── Step 6.6 — dashboard-status.json (🩺 營運狀態 board) ──────────────────
+# 為什麼: /dashboard 新 section「🩺 營運狀態」讀 routine-live-state.json ×
+# docs/semiont/memory/ fire 痕跡 + babel progress jsonl + alerts + gh run list，
+# 投影成 status.claude.com 式狀態板。跟 Step 6 immune 同款：先在這裡跑一次讓
+# 資料在 Step 7 之前就新鮮（也已掛進 prebuild:dashboard chain，Step 7 會再跑一次，
+# 冪等無害）。per reports/design-dashboard-status-section-2026-07-24.md §六。
+echo -e "${GRN}[6.6/14]${RST} generate dashboard-status.json (routine + babel 營運狀態)..."
+if node scripts/core/generate-dashboard-status.mjs 2>&1 | tail -5; then
+  echo -e "${DIM}   ✓ dashboard-status.json generated${RST}"
+else
+  echo -e "${YEL}⚠️  generate-dashboard-status 部分失敗 — 心跳繼續${RST}"
+fi
+echo ""
+
 # ────────────────── Step 7 — prebuild dashboard data ──────────────────
 echo -e "${GRN}[7/14]${RST} npm run prebuild..."
 if npm run prebuild > /tmp/prebuild.log 2>&1; then

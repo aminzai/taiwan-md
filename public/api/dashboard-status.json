@@ -1,0 +1,1426 @@
+{
+  "generated_at": "2026-07-24T14:41:00.426Z",
+  "routines": {
+    "fetched_at": "2026-07-18T06:14:23+08:00",
+    "stale_hours": 160.4,
+    "items": [
+      {
+        "id": "twmd-feedback-triage",
+        "cron": "0 7 * * *",
+        "cadence_human": "每天 07:00",
+        "enabled": true,
+        "status": "down",
+        "last_fire": "2026-07-19T07:08:20+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "missed"
+          }
+        ]
+      },
+      {
+        "id": "twmd-babel-nightly",
+        "cron": "30 0 * * *",
+        "cadence_human": "每天 00:30",
+        "enabled": true,
+        "status": "down",
+        "last_fire": "2026-07-19T00:38:37+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "missed"
+          }
+        ]
+      },
+      {
+        "id": "twmd-data-refresh-am",
+        "cron": "0 6 * * *",
+        "cadence_human": "每天 06:00",
+        "enabled": true,
+        "status": "down",
+        "last_fire": "2026-07-19T06:12:25+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "missed"
+          }
+        ]
+      },
+      {
+        "id": "twmd-data-refresh-pm",
+        "cron": "0 23 * * *",
+        "cadence_human": "每天 23:00",
+        "enabled": true,
+        "status": "down",
+        "last_fire": "2026-07-17T23:12:19+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "idle"
+          }
+        ]
+      },
+      {
+        "id": "twmd-distill-weekly",
+        "cron": "0 3 * * 0",
+        "cadence_human": "每週日 03:00",
+        "enabled": true,
+        "status": "operational",
+        "last_fire": "2026-07-19T03:08:48+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "idle"
+          }
+        ]
+      },
+      {
+        "id": "twmd-embeddings-nightly",
+        "cron": "0 5 * * *",
+        "cadence_human": "每天 05:00",
+        "enabled": true,
+        "status": "down",
+        "last_fire": "2026-07-19T05:21:30+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "missed"
+          }
+        ]
+      },
+      {
+        "id": "twmd-founder-lens-weekly",
+        "cron": "0 22 * * 6",
+        "cadence_human": "每週六 22:00",
+        "enabled": true,
+        "status": "down",
+        "last_fire": null,
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "idle"
+          }
+        ]
+      },
+      {
+        "id": "twmd-maintainer-daily",
+        "cron": "30 8 * * *",
+        "cadence_human": "每天 08:30",
+        "enabled": true,
+        "status": "down",
+        "last_fire": "2026-07-19T08:40:51+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "missed"
+          }
+        ]
+      },
+      {
+        "id": "twmd-maintainer-pm",
+        "cron": "0 22 * * *",
+        "cadence_human": "每天 22:00",
+        "enabled": false,
+        "status": "disabled",
+        "last_fire": "2026-07-07T22:04:14+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "missed"
+          }
+        ]
+      },
+      {
+        "id": "twmd-music-media-audit-weekly",
+        "cron": "0 10 * * 6",
+        "cadence_human": "每週六 10:00",
+        "enabled": false,
+        "status": "disabled",
+        "last_fire": "2026-05-23T10:10:13+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "idle"
+          }
+        ]
+      },
+      {
+        "id": "twmd-news-lens-weekly",
+        "cron": "0 1 * * 0",
+        "cadence_human": "每週日 01:00",
+        "enabled": true,
+        "status": "operational",
+        "last_fire": "2026-07-19T01:08:58+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "idle"
+          }
+        ]
+      },
+      {
+        "id": "twmd-rewrite-daily",
+        "cron": "0 19 * * *",
+        "cadence_human": "每天 19:00",
+        "enabled": true,
+        "status": "down",
+        "last_fire": "2026-07-18T19:09:26+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "missed"
+          }
+        ]
+      },
+      {
+        "id": "twmd-routine-audit-weekly",
+        "cron": "0 21 * * 0",
+        "cadence_human": "每週日 21:00",
+        "enabled": true,
+        "status": "degraded",
+        "last_fire": "2026-07-12T21:00:00+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "idle"
+          }
+        ]
+      },
+      {
+        "id": "twmd-self-evolve-weekly",
+        "cron": "0 4 * * 0",
+        "cadence_human": "每週日 04:00",
+        "enabled": true,
+        "status": "operational",
+        "last_fire": "2026-07-19T04:20:35+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "idle"
+          }
+        ]
+      },
+      {
+        "id": "twmd-spore-harvest-am",
+        "cron": "30 6 * * *",
+        "cadence_human": "每天 06:30",
+        "enabled": true,
+        "status": "down",
+        "last_fire": "2026-07-19T06:38:28+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "missed"
+          }
+        ]
+      },
+      {
+        "id": "twmd-spore-pick-daily",
+        "cron": "0 8 * * *",
+        "cadence_human": "每天 08:00",
+        "enabled": false,
+        "status": "disabled",
+        "last_fire": "2026-06-14T08:03:52+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "missed"
+          }
+        ]
+      },
+      {
+        "id": "twmd-spore-publish-daily",
+        "cron": "30 17 * * *",
+        "cadence_human": "每天 17:30",
+        "enabled": false,
+        "status": "disabled",
+        "last_fire": "2026-06-14T17:40:39+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "missed"
+          }
+        ]
+      },
+      {
+        "id": "twmd-supporters-weekly",
+        "cron": "0 1 * * 1",
+        "cadence_human": "每週一 01:00",
+        "enabled": true,
+        "status": "degraded",
+        "last_fire": "2026-07-13T01:10:12+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "idle"
+          }
+        ]
+      },
+      {
+        "id": "twmd-weekly-report-sun",
+        "cron": "0 2 * * 0",
+        "cadence_human": "每週日 02:00",
+        "enabled": true,
+        "status": "operational",
+        "last_fire": "2026-07-19T02:18:52+08:00",
+        "grid14": [
+          {
+            "date": "2026-07-11",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-12",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-13",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-14",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-15",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-16",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-17",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-18",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-19",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-20",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-21",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-22",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-23",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-24",
+            "state": "idle"
+          }
+        ]
+      }
+    ]
+  },
+  "babel": {
+    "snapshot_ts": "2026-07-24T22:22:01+08:00",
+    "total_zh": 862,
+    "langs": [
+      {
+        "lang": "en",
+        "fresh": 724,
+        "stale": 104,
+        "missing": 34,
+        "coverage_pct": 96.1
+      },
+      {
+        "lang": "ja",
+        "fresh": 700,
+        "stale": 156,
+        "missing": 6,
+        "coverage_pct": 99.3
+      },
+      {
+        "lang": "ko",
+        "fresh": 700,
+        "stale": 159,
+        "missing": 3,
+        "coverage_pct": 99.7
+      },
+      {
+        "lang": "es",
+        "fresh": 704,
+        "stale": 155,
+        "missing": 3,
+        "coverage_pct": 99.7
+      },
+      {
+        "lang": "fr",
+        "fresh": 701,
+        "stale": 161,
+        "missing": 0,
+        "coverage_pct": 100
+      },
+      {
+        "lang": "vi",
+        "fresh": 55,
+        "stale": 16,
+        "missing": 791,
+        "coverage_pct": 8.2
+      },
+      {
+        "lang": "id",
+        "fresh": 65,
+        "stale": 14,
+        "missing": 783,
+        "coverage_pct": 9.2
+      },
+      {
+        "lang": "pt",
+        "fresh": 47,
+        "stale": 15,
+        "missing": 800,
+        "coverage_pct": 7.2
+      },
+      {
+        "lang": "hi",
+        "fresh": 47,
+        "stale": 11,
+        "missing": 804,
+        "coverage_pct": 6.7
+      }
+    ],
+    "gap_total": 4015,
+    "gap_delta_vs_prev": 0,
+    "fresh_delta_24h": 50,
+    "nodes": [
+      {
+        "name": "worker:nemo",
+        "ok": 18,
+        "fail": 68,
+        "avg_s": 139.2
+      },
+      {
+        "name": "worker:mac",
+        "ok": 2,
+        "fail": 20,
+        "avg_s": 304.9
+      },
+      {
+        "name": "worker:gemma31",
+        "ok": 1,
+        "fail": 22,
+        "avg_s": 2.2
+      },
+      {
+        "name": "worker:laguna",
+        "ok": 3,
+        "fail": 10,
+        "avg_s": 318.3
+      },
+      {
+        "name": "fleet:desktop-3090",
+        "ok": 30,
+        "fail": 111,
+        "avg_s": null
+      },
+      {
+        "name": "fleet:laptop-4090",
+        "ok": 17,
+        "fail": 77,
+        "avg_s": null
+      },
+      {
+        "name": "mac-m4max",
+        "alive": true
+      },
+      {
+        "name": "desktop-3090",
+        "alive": true
+      },
+      {
+        "name": "laptop-4090",
+        "alive": true
+      }
+    ]
+  },
+  "incidents": [
+    {
+      "ts": "2026-07-23",
+      "level": "yellow",
+      "text": "routine-live-state.json dump 齡 160.4h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
+      "source": "routine-live-state.json"
+    },
+    {
+      "ts": "2026-07-05",
+      "level": "yellow",
+      "text": "免疫 v3=60：需關注 — T1 review < 80% OR plugin pass < 90%",
+      "source": "dashboard-immune.json"
+    }
+  ],
+  "deploys": [
+    {
+      "ts": "2026-07-24T14:22:55Z",
+      "conclusion": "success",
+      "title": "Deploy to GitHub Pages: Merge remote-tracking branch 'origin/main'"
+    },
+    {
+      "ts": "2026-07-24T14:19:19Z",
+      "conclusion": "failure",
+      "title": "Deploy to GitHub Pages: fix(weekly-report): count CJK-named zh articles on all platforms (#1250)"
+    },
+    {
+      "ts": "2026-07-24T14:14:38Z",
+      "conclusion": "success",
+      "title": "PR Content Review: fix(weekly-report): count CJK-named zh articles on all platforms"
+    },
+    {
+      "ts": "2026-07-24T14:03:31Z",
+      "conclusion": "success",
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] fix: leak-check 第三家族（書名號作品名）＋dispatch 隔離前存證"
+    },
+    {
+      "ts": "2026-07-24T13:28:27Z",
+      "conclusion": "success",
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] heal: marker 修復後再救回 2 篇 ja/ko 譯文（引述誤判類）"
+    }
+  ]
+}
