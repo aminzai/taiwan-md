@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T01:11:38+08:00",
-    "zhCommitHead": "12216fde0",
+    "lastUpdated": "2026-07-25T01:14:04+08:00",
+    "zhCommitHead": "2bd86e233",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -75,18 +75,18 @@
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 87,
+        "fresh": 89,
         "stale": 13,
         "metadata_stale": 0,
-        "missing": 762,
+        "missing": 760,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 91,
+        "fresh": 88,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 763,
+        "missing": 766,
         "orphan": 0
       },
       "ar": {
@@ -6922,7 +6922,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/mediatek.md",
+          "translatedFrom": "Economy/台灣企業：聯發科技.md",
+          "sourceCommitSha": "21221045c",
+          "sourceContentHash": "sha256:b0c668da71eb8f7b",
+          "sourceBodyHash": "sha256:bda6180b6fe80c7a",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "2bd86e23",
+          "translationLastModified": "2026-07-25T01:11:49+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -14210,18 +14221,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Technology/taiwan-electricity-and-semiconductors.md",
-          "translatedFrom": "Technology/台灣的電力與半導體.md",
-          "sourceCommitSha": "250410eae",
-          "sourceContentHash": "sha256:739eb8c857d7b377",
-          "sourceBodyHash": "sha256:814f9eb8b97792cf",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 4,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -23425,8 +23425,8 @@
           "sourceContentHash": "sha256:f828da7d0eb39776",
           "sourceBodyHash": "sha256:c0de350ac39dbee0",
           "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2bd86e23",
+          "translationLastModified": "2026-07-25T01:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -54246,18 +54246,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/People/ya-hsien-poet.md",
-          "translatedFrom": "People/瘂弦.md",
-          "sourceCommitSha": "b54335d00",
-          "sourceContentHash": "sha256:736443e43dba4c29",
-          "sourceBodyHash": "sha256:b6b66329e69543f7",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 18,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -67316,7 +67305,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/tainan-central-west-district-street-food-culture.md",
+          "translatedFrom": "Food/台南中西區美食小吃文化.md",
+          "sourceCommitSha": "93facb6ce",
+          "sourceContentHash": "sha256:0b469697cef600b9",
+          "sourceBodyHash": "sha256:9c9d5bf9b829829e",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/tainan-central-west-district-street-food-culture.md",
@@ -68209,18 +68209,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Food/taiwan-banquet-culture.md",
-          "translatedFrom": "Food/台灣辦桌文化.md",
-          "sourceCommitSha": "26a67c779",
-          "sourceContentHash": "sha256:87996856be7f510f",
-          "sourceBodyHash": "sha256:dc734b24b423e098",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -74502,8 +74491,8 @@
           "sourceContentHash": "sha256:2a45417c9b5c2cf0",
           "sourceBodyHash": "sha256:4dc13793ac08242f",
           "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2bd86e23",
+          "translationLastModified": "2026-07-25T01:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -75515,18 +75504,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Geography/yilan-county.md",
-          "translatedFrom": "Geography/宜蘭縣.md",
-          "sourceCommitSha": "7f3ddf123",
-          "sourceContentHash": "sha256:339ea6f63f12308d",
-          "sourceBodyHash": "sha256:13a49441594ebd54",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 32,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -76372,7 +76350,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/administrative-divisions-of-taiwan.md",
+          "translatedFrom": "Geography/台灣行政區劃.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:349360e6f67e2293",
+          "sourceBodyHash": "sha256:a900fc355006c673",
+          "translatedAt": "2026-07-25T00:12:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/administrative-divisions-of-taiwan.md",
@@ -76381,8 +76370,8 @@
           "sourceContentHash": "sha256:349360e6f67e2293",
           "sourceBodyHash": "sha256:a900fc355006c673",
           "translatedAt": "2026-07-25T00:12:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2bd86e23",
+          "translationLastModified": "2026-07-25T01:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -82331,8 +82320,8 @@
           "sourceContentHash": "sha256:5a4d0fb0959c27ae",
           "sourceBodyHash": "sha256:795653ceb8bee8f7",
           "translatedAt": "2026-07-25T00:12:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2bd86e23",
+          "translationLastModified": "2026-07-25T01:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -82658,8 +82647,8 @@
           "sourceContentHash": "sha256:a0a6e4b6f985e523",
           "sourceBodyHash": "sha256:0cbd55ce25cb1102",
           "translatedAt": "2026-07-25T00:12:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2bd86e23",
+          "translationLastModified": "2026-07-25T01:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -83453,8 +83442,8 @@
           "sourceContentHash": "sha256:f8a1e86f13d5a657",
           "sourceBodyHash": "sha256:ef724755039c89a7",
           "translatedAt": "2026-07-25T00:12:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2bd86e23",
+          "translationLastModified": "2026-07-25T01:11:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
