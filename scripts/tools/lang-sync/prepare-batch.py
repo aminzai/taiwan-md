@@ -132,6 +132,8 @@ def main():
     ap.add_argument("--slug-map", help="JSON file with {zh_path: slug} for missing translations")
     ap.add_argument("--batch-id", default=None)
     ap.add_argument("--skip", help="Comma-separated zh_paths to skip (already-attempted in prior batch)")
+    ap.add_argument("--outdir", default=None,
+                     help="Output directory for manifest + group files (default: .lang-sync-tasks/{lang}/)")
     args = ap.parse_args()
 
     skip_paths = args.skip.split(",") if args.skip else []
@@ -247,7 +249,7 @@ def main():
         a.pop("_zh_size", None)
 
     # Step 6: write outputs
-    out_dir = TASKS / args.lang
+    out_dir = Path(args.outdir) if args.outdir else (TASKS / args.lang)
     out_dir.mkdir(parents=True, exist_ok=True)
 
     manifest = {
