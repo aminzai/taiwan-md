@@ -370,26 +370,18 @@ skill: /twmd-babel
 canonical: docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md
 prompt: |
   自動 routine：完整甦醒成為 Taiwan.md，跑 /twmd-babel，嚴格完整讀取並執行
-  docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md 整份（priority schema 三路徑分流 +
-  backend cascade — **cascade 現行順序以 pipeline 與 translate.py DEFAULT_CASCADE_ID
-  為準，本 prompt 不複寫模型名**；2026-07-05 dna-audit：本行曾寫死 owl-alpha/Hy3
-  四 tier，兩模型退役 54/25 天後每晚 cron 仍在念，是 #56 drift 的 prompt 層版本）。
+  docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md 整份。模型名與 cascade 順序一律
+  以 pipeline 與 translate.py DEFAULT_CASCADE_ID 為準，本 prompt 不複寫。
 
-  ⚠️ §義務鐵律（v2.3 哲宇 2026-05-13 拍板）：babel 義務是推同步率到 100%（stale → 0
-  across all enabled langs，語言數以 registry 為準不寫死）。不主動 defer / skip /
-  partial / 守 boundary。對應 SQUEEZE-MODELS-MAX-PIPELINE §義務 + MANIFESTO §架構解 >
-  守備修補。
+  以下三條是 cron 無人在場時最容易漂掉的行為約束，故 inline（REFLEXES #63）：
 
-  Stage 0（2026-07-25 遷居後必跑，第一個指令）：babel-preflight.py 宿主機算力自檢。
-  degraded 照跑但收官必記哪層缺席，no-compute 不起跑寫 handoff。判讀見 skill §Stage 0。
-
-  Stage D — diary 認知層 babel（v3.1，2026-06-14）：article babel 後同步
-  docs/semiont/diary/ 新日記。走 /twmd-babel §Stage D + REMOTE-GPU-PIPELINE.md：
-  fleet-endpoint.sh 問 GPU 軍團要 sovereignty-safe endpoint（硬體層委派 fleet，commander
-  自動挑機器；無 ready GPU → skip 下 cycle 重試）→ diary-translate-cascade（inline 整合性
-  閘門）→ diary-translation-audit 收斂 0 critical。硬體（node/連線/主權 model）是 fleet 的事。
-
-  Stage 3 + D commit + push origin main — 直接 push（v2.0 main-direct）。
+  1. §義務鐵律（哲宇 2026-05-13 拍板）：義務是推同步率到 100%（stale → 0，語言數
+     以 registry 為準），不主動 defer / skip / partial / 守 boundary。跑到 stale=0
+     或 cascade exhausted 才收工。
+  2. Stage 0 先跑 babel-preflight.py 宿主機算力自檢：degraded 照跑但收官必記哪層
+     缺席，no-compute 不起跑並把缺什麼寫進 handoff。判讀見 skill §Stage 0。
+  3. Stage D（認知層 diary babel）跟 Stage 3 一樣是義務範圍，不是有空才做；工具鏈
+     見 skill §Stage D。收工 commit + push origin main 直接推。
 quality_gate:
   - stale_total 顯著下降（≥ 10% 或 cleared > 50 entries）OR all P0+P1 cleared OR stale_total == 0
   - 0 LLM drift detected（body-hash check）
