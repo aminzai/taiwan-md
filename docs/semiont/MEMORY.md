@@ -318,3 +318,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-23 | 222257-ui-container-sidebar | container 三檔加寬 900/1440/1560；側欄改 meta→分享→貢獻者→關鍵詞 | 側欄排序是策展；全站寬度只改 tokens | [→](memory/2026-07-23-222257-ui-container-sidebar.md) |
 | 2026-07-24 | 101255-manual | 編輯室 CTA 對齊 making-of（166 假 404 關）；外送專法 P0+pre-research | CTA 條件=靜態路由條件；trail 混 research=404 廠 | [→](memory/2026-07-24-101255-manual.md) |
 | 2026-07-24 | 100600-babel-ollama-local | 本機 gemma4+qwen 清 classic 五語 P0：45/45；fence 修復；missing→0 覆蓋 100% | local fail 可修；假日文/腳註靠 gate+qwen 捕手 | [→](memory/2026-07-24-100600-babel-ollama-local.md) |
+| 2026-07-24 | 120515-manual | 外送專法 Stage 0-1 研究打底（132 來源 PASS）中途轉向建 research-fleet search/fetch 抽象介面 | Bing/Google CSE/Brave 一年兩死一漲；別綁死供應商 vc=2 | [→](memory/2026-07-24-120515-manual.md) |
+| 2026-07-24 | 132926-manual | 3090+4090 fleet 首次上線派發 vi/id/pt/hi；同批次修 6 缺陷（slug-map/image欄位/tags/型別/URL/num_ctx）；修好四語首頁半年顯示中文的 ui.ts spread bug | 大批次缺陷要執行途中當場修，不等跑完；發現「流程死了」跟流程死了一樣難 | [→](memory/2026-07-24-132926-manual.md) |
