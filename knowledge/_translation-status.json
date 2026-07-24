@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T07:40:50+08:00",
-    "zhCommitHead": "f2a4fe28c",
+    "lastUpdated": "2026-07-25T07:47:14+08:00",
+    "zhCommitHead": "018aa85da",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -43,8 +43,8 @@
       },
       "es": {
         "total_zh": 862,
-        "fresh": 711,
-        "stale": 149,
+        "fresh": 712,
+        "stale": 148,
         "metadata_stale": 0,
         "missing": 2,
         "orphan": 0
@@ -75,34 +75,34 @@
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 179,
+        "fresh": 180,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 673,
+        "missing": 672,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 157,
+        "fresh": 160,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 699,
+        "missing": 696,
         "orphan": 0
       },
       "ar": {
         "total_zh": 862,
-        "fresh": 41,
+        "fresh": 42,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 821,
+        "missing": 820,
         "orphan": 0
       },
       "ru": {
         "total_zh": 862,
-        "fresh": 51,
+        "fresh": 53,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 811,
+        "missing": 809,
         "orphan": 0
       }
     },
@@ -2622,7 +2622,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/chthonic.md",
+          "translatedFrom": "Music/閃靈.md",
+          "sourceCommitSha": "087677fae",
+          "sourceContentHash": "sha256:428539ef61aee065",
+          "sourceBodyHash": "sha256:ca8382bb6533d023",
+          "translatedAt": "2026-07-25T06:33:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -22436,7 +22447,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/transportation-system.md",
+          "translatedFrom": "Lifestyle/台灣交通系統.md",
+          "sourceCommitSha": "8790dbf1a",
+          "sourceContentHash": "sha256:241f6e09e82258d9",
+          "sourceBodyHash": "sha256:8b4f70704fe27d7e",
+          "translatedAt": "2026-07-25T06:33:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -56174,7 +56196,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/steve-chen-youtube-cofounder.md",
+          "translatedFrom": "People/陳士駿.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a7528e9b7062bef0",
+          "sourceBodyHash": "sha256:9f3cbb43337753f0",
+          "translatedAt": "2026-07-25T06:34:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -68099,18 +68132,16 @@
         "es": {
           "path": "es/Food/taiwanese-street-food.md",
           "translatedFrom": "Food/台灣小吃.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:97a6acec72ee0e79",
-          "sourceBodyHash": "sha256:70ab08dbd7b43fbc",
-          "translatedAt": "2026-05-13T01:08:31Z",
+          "sourceCommitSha": "1facb1b9c",
+          "sourceContentHash": "sha256:d44d711c2a614f5f",
+          "sourceBodyHash": "sha256:fc8359a5a9777af0",
+          "translatedAt": "2026-07-25T07:41:02+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwanese-street-food.md",
@@ -68119,8 +68150,8 @@
           "sourceContentHash": "sha256:d44d711c2a614f5f",
           "sourceBodyHash": "sha256:fc8359a5a9777af0",
           "translatedAt": "2026-07-25T07:05:14+08:00",
-          "translationLastCommit": "e8dd348a",
-          "translationLastModified": "2026-05-15T13:49:45+08:00",
+          "translationLastCommit": "0b9bae81",
+          "translationLastModified": "2026-07-25T07:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -68583,8 +68614,8 @@
           "sourceContentHash": "sha256:0b469697cef600b9",
           "sourceBodyHash": "sha256:9c9d5bf9b829829e",
           "translatedAt": "2026-07-25T07:05:14+08:00",
-          "translationLastCommit": "b4fa7ea4",
-          "translationLastModified": "2026-07-06T03:03:33+08:00",
+          "translationLastCommit": "0b9bae81",
+          "translationLastModified": "2026-07-25T07:40:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -78297,7 +78328,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/administrative-divisions-of-taiwan.md",
+          "translatedFrom": "Geography/台灣行政區劃.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:349360e6f67e2293",
+          "sourceBodyHash": "sha256:a900fc355006c673",
+          "translatedAt": "2026-07-25T06:34:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -81487,7 +81529,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/urban-character-and-regional-culture.md",
+          "translatedFrom": "Geography/城市特色與區域文化.md",
+          "sourceCommitSha": "2850f17bc",
+          "sourceContentHash": "sha256:d85bf01115410778",
+          "sourceBodyHash": "sha256:be641d09ea1153ea",
+          "translatedAt": "2026-07-25T06:33:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -85575,7 +85628,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/indigenous-peoples-16-tribes-cultural-map.md",
+          "translatedFrom": "Culture/台灣原住民族16族文化地圖.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:36ecabdcaffefea4",
+          "sourceBodyHash": "sha256:561ea7184d1651ca",
+          "translatedAt": "2026-07-25T06:34:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -89045,7 +89109,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwanese-glove-puppetry-budaixi.md",
+          "translatedFrom": "Culture/布袋戲.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:90bff79aa4402b0e",
+          "sourceBodyHash": "sha256:79bbd46fe867d775",
+          "translatedAt": "2026-07-25T06:34:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
