@@ -58,24 +58,20 @@ def main():
             continue
         full.parent.mkdir(parents=True, exist_ok=True)
         full.write_text(content, encoding="utf-8")
-        # 三重 gate（跟 dispatcher v3 相同）
-        r1 = run(["python3", "scripts/tools/lang-sync/verify-translation.py",
-                  tf, path, "--json"])
-        try:
-            fails = json.loads(r1.stdout).get("fails", 1)
-        except Exception:
-            fails = -1
+        # 還原 gate：health + leak（可讀、無洩漏、格式合法）。
+        # 不跑 verify-translation 完整度——舊版對不上最新 zh 的腳註數正是
+        # 「stale」的定義，還原的目的就是讓 stale 版活著等重翻；用新譯文的
+        # 完整度標準擋還原 = 把 stale 判死刑（2026-07-24 v2 放寬）。
         r2 = run(["python3", "scripts/tools/lang-sync/cjk-leak-check.py", path])
         r3 = run(["python3", "scripts/tools/article-health.py", path,
                   "--profile=pre-commit", "--quiet"])
-        ok = fails == 0 and r2.returncode == 0 and "passed=False" not in r3.stdout
+        ok = r2.returncode == 0 and "passed=False" not in r3.stdout
         if ok:
             restored.append(path)
             print(f"  ✅ restore {path}")
         else:
             full.unlink()
-            reason = ("health" if "passed=False" in r3.stdout
-                      else ("leak" if r2.returncode != 0 else f"verify={fails}"))
+            reason = ("health" if "passed=False" in r3.stdout else "leak")
             gate_fail.append((path, reason))
             print(f"  ❌ gate fail ({reason}) {path}")
 
