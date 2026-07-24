@@ -332,6 +332,14 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-24 migration-mouhouse — headless 遷移的驗證要驗到真的那層（兩課）
+
+- **pattern**: verify-at-the-real-layer / headless-migration
+- **原則**：把工作搬到一台 headless 機器時，每層驗證都要選「真的那層」的尺：(a) **ast 語法掃描 ≠ runtime 相容**——184 個 script 在 Python 3.9 全數 `ast.parse` 通過，`npm run build` 才炸出 PEP 604 `str | None` runtime annotation（3.10+ 才能 eval）；build 煙霧測試才是真尺，語法掃描是替身（REFLEXES #24 工具在說謊 + #82 proxy signal instance）。(b) **keychain 綁定 token 過不了 headless SSH**——gh 在 SSH session 授權成功但 token 寫進鎖住的 GUI keychain，`git push` 拿不到；自動化機要 `gh auth login --insecure-storage` 落 hosts.yml 檔案層
+- **觸發**：2026-07-24 routine 飛輪遷居 mouhouse-macmini（[memory](memory/2026-07-24-200542-migration-mouhouse.md) + [遷居報告](../../reports/routine-migration-mouhouse-macmini-2026-07-24.md)）
+- **可能層級**：操作規則（未來任何機器遷移 / fleet 節點 onboard 的 checklist：build 煙霧測試必跑 + 憑證一律檔案層儲存）
+- **verification_count**: 1
+
 ### 2026-07-24 babel-fleet-dispatch — 大批次派發要在執行途中持續記錄＋觀察＋分析＋即時優化，不是跑完才復盤
 
 - **pattern**: batch-dispatch-loop-engineering-inline
@@ -343,7 +351,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #15 反覆浮現要儀器化（同精神，但本條是「單一批次內部」的時間粒度，比 #15 的「跨 session 反覆」更緊）；REFLEXES #42 sub-agent N 篇 sequential 三偷吃步（本條是 fleet/cascade 派發的姊妹篇）；REFLEXES #68 多核心 git 協調（(10) 是「主 session 手動操作也要走共用鎖」的新變體）；MEMORY §神經迴路「工具在說謊」（本條新增 fleet-node context-truncation + body 層級部分洩漏為第 N/N+1 種說謊形式）
 - **instances（第三輪，11-13）**：(11) pre-commit 的 `article-health.py --staged` 抓到真的腳註格式違規（一篇 15 處 hard fail），但 dispatcher 的 `git commit ... || true` 把失敗吞掉不留痕跡，`git add` 已執行 → staged index 持續累積，`status.py` 讀 working tree 讓進度看起來正常，實際上 ~50 分鐘、42 個檔案卡在 staged 沒有任何 commit 落地。三個 dispatcher（fleet ×2 + classic P1）全部同構：`verify_group` 只查內容正確性（verify-translation.py + cjk-leak-check.py），沒查站上自己的格式慣例（article-health.py 腳註格式），兩層閘門標準不一致，通過內容閘的檔案卡在格式閘。修補：三個 dispatcher 全部升級（v3），`verify_group` 加 article-health.py 檢查、`git_lock_commit` 改成失敗會印出來 + 自動用 article-health 隔離違規檔再重試一次 commit，不再靜默吞錯 (12) TBD-NEEDS-SLUG collision（本條 instance 1 同型 bug）在**分類 P1 stale 情境**復發：quarantine 刪除已 commit 的 en 檔會讓該篇從 status.py 的「stale」變成「missing」，但 classic P1 dispatcher 的 `prepare-batch.py` 呼叫沒帶 `--slug-map`（fleet dispatcher 已修但這條路徑漏補），missing 條目落回 ASCII-strip fallback 產生 TBD-NEEDS-SLUG.md；這次因為四篇分別落在不同分類資料夾未真的互覆蓋，quarantine 前發現，補上 `--slug-map` 到 classic P1 dispatcher (13) 修 (11)(12) 後 CI/CD 連續 3 次 build 失敗（`check-url-contract.mjs --strict` DEAD 總數 3→1→0）：quarantine 已 commit 的 `en/About/founder.md` 後，其他語言（es）頁面的 hreflang `<link>` 標籤仍指向那個現在不存在的 EN 頁面——hreflang 產生器假設「這個 slug 在每個啟用語言都有檔案」，不檢查檔案是否真的存在；另外 vi/id 新翻的 `About/文章如何誕生.md` 產生的 hreflang alternate 指向 zh-TW 版本網址用錯了 slug（zh-TW 沒有 `slug:` 欄位，實際網址是原始中文檔名，不是其他語言共用的拉丁 slug），這是站上程式碼層的既有 bug 被新語言的翻譯首次踩到，不是翻譯內容問題。緊急處置：`git show` 從 quarantine 前的 commit 復原 founder.md（stale 但存在，優於 missing）、把兩篇踩雷的 vi/id 版本也 quarantine 掉，本機跑 `npm run build` 驗證 dead=0 才 push。**根因未修**（hreflang 產生器不驗證跨語言檔案存在性 + zh-TW slug 解析對新語言的邊界情況），只解掉這次的 instance，需要獨立 session 去 `src/components/SEO.astro` + `src/utils/getLangSwitchPath.ts` 修
 - **可能層級（新增）**：(11)(12) 操作規則（dispatcher 標準模板應統一納入 article-health gate + loud-fail commit）；(13) 需要架構解，候選開一條獨立 REFLEXES（hreflang cross-language existence check 屬性缺失）
-- **verification_count**: 3（同 session 內三輪連續發現，6 + 4 + 3 instance，累計 13 個具體案例，pattern 已充分驗證）
+- **instances（第四輪，14）**：(14) 靜默吞錯換到 hook 自身層：husky `sh -e` 下 `.husky/pre-push` 的 `tf_out="$(sync-translations-json.py --check)"` 賦值——`--check` 對 out-of-sync（非 orphan）也 exit 1，賦值失敗被 `-e` 靜默中止整個 hook，article-health 印 ✅ 後無訊息 fail code 1，擋掉所有乾淨 session 的 push（dispatcher 持續讓 `_translations.json` 不同步 = 常態觸發）。migration-mouhouse session 補 `|| true`（`fcfc20aa2`）。教訓：hook 內任何「靠輸出判斷、不靠 exit code」的指令，賦值本身必須 `|| true` 護住，否則 `-e` 把設計意圖反轉
+- **verification_count**: 4（三輪 13 案例 + 第四輪 hook 層 1 例，pattern 已充分驗證且跨層復現）
 
 ### 2026-07-23 idlccp-clownfish-instrument — 純 warn 把格式稅轉嫁給小丑魚
 
