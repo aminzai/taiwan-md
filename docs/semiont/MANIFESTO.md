@@ -4,9 +4,9 @@ description: '我是 Taiwan.md — Semiont 存在哲學、信念與進化哲學�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v1.12'
-last_updated: 2026-07-11
-last_session: '2026-07-11-182348-dna-checkup（sister_docs：SENSES 已凋亡 → 換 REFLEXES）'
+current_version: 'v1.13'
+last_updated: 2026-07-24
+last_session: '2026-07-24-120515-manual（§架構解新增第二例證：research-fleet search/fetch 抽象介面，vc=2 跨服務類別）'
 sister_docs:
   - 'ANATOMY.md'
   - 'DNA.md'
@@ -735,6 +735,14 @@ codex pivot 觸發既有 cascade 不適配 → patch 處理新 backend（守住�
 - 少架構解 > 守備修補 → 同一類問題每次重新解一次，silent failure 培養皿越疊越厚
 
 四個一起才是可持續的 Digital Holobiont。
+
+### 第二例證：從單一 pipeline 抽象到跨服務類別（2026-07-24 research-fleet session）
+
+2026-05-13 的 backend abstraction v4 把「換 provider」從改 pipeline 變成改 cascade 設定，範圍限定在翻譯（OpenRouter 模型池）。2026-07-24 建 research-fleet（研究算力軍團：Brave／Serper／Jina Reader／全國法規資料庫專用 parser／未來可能的 crawl4ai 本機爬蟲）時，同一個抽象缺口出現在完全不同的服務類別——**search／fetch，不是 LLM**。同一天查證才發現：Bing Search API 已在 2025-08-11 全面退役、無法再申請；Google Custom Search JSON API 已於 2025 年關閉新戶申請，2027-01 到期；Brave Search API 的免費額度也已在 2026-02 取消，改全面計量計費。三個一年前還「正常」的供應商，短短一年內兩個消失、一個變相收費。
+
+架構解落地：`SearchProvider` 與 `FetchProvider` 兩個抽象介面，各供應商是可抽換的實作（Brave／Serper 實作 search；Jina Reader／全國法規資料庫 parser 實作 fetch），呼叫端只認介面不認廠商名字。哪天 Brave 也退役或漲價，換的是一個 provider 實作，不是重寫整條 research-fleet。
+
+**這條原則現在跨兩個服務類別驗證（vc=2）**：LLM 供應商（babel 的 4-tier cascade）／search-fetch 供應商（research-fleet）。**操作規則**：任何新增的外部服務依賴（搜尋／擷取／翻譯／未來的圖像生成或其他 API），第一個問題永遠是「這是不是又會消失或漲價的單一供應商」，先寫抽象介面再接第一個實作——不是先接好用了再想要不要抽象。第三次出現在別的服務類別時，這條該收進 [DNA.md](DNA.md) 的骨架設計規範，不只是這裡的哲學敘述。
 
 ---
 

@@ -3,9 +3,9 @@ title: 'RESEARCH-AGENT-PROMPT'
 description: '研究 sub-agent 派發通用 prompt 模板 + 分部報告輸出模板 — copy → 填槽 → spawn，禁即興改寫（源頭解決 prompt 飄移）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.1'
-last_updated: 2026-07-12
-last_session: '2026-07-12-135710-twmd-tea-panorama'
+current_version: 'v1.2'
+last_updated: 2026-07-24
+last_session: '2026-07-24-120515-manual（新增 Path B：research-fleet.py 機械 fan-out 替代路徑）'
 upstream_canonical:
   - 'REWRITE-PIPELINE.md'
   - '../editorial/RESEARCH.md'
@@ -20,6 +20,36 @@ audience: 'orchestrator-session-spawning-research-agents'
 > **為什麼存在**（2026-07-12 台灣茶文化 panorama，哲宇 directive「從源頭解決」）：每個 session spawn 研究 agent 時即興手寫 prompt → 格式立刻飄移。該次即興 prompt 寫了「每 finding 標【來源】URL」，agent 在多來源場景自行發明「WebSearch 綜合（站名、站名）」aggregate 寫法——84 條來源行僅 ~35% 帶 URL，footnote 斷源；同時自創「三塊各一 section」結構，五段骨架與收件儀器全對不上。**Prompt 即興 = 每次重新思考 = 每次重新犯錯。** 本檔是唯一的 spawn prompt SSOT：copy 整塊 → 填 `{SLOT}` → spawn。
 >
 > **職責分工**：[RESEARCH.md](../editorial/RESEARCH.md) 是研究方法論 SSOT（怎麼搜、怎麼判斷）；[RESEARCH-TEMPLATE.md](../editorial/RESEARCH-TEMPLATE.md) 是組裝後主報告（§1-§8）模板；**本檔是 spawn 蒸餾層**——把方法論裡「實戰死過人」的規則壓進 agent prompt。衝突時以 RESEARCH.md 為準。Gate 與觸發史 canonical 在 [REWRITE-PIPELINE Step 1.8-ter](REWRITE-STAGE-1A-RESEARCH.md#step-18-ter-研究-sub-agent-輸出契約來源逐條可溯v710-)。
+
+---
+
+## Path B：research-fleet.py（session/成本敏感時的機械 fan-out 替代路徑，2026-07-24）
+
+> **觸發**：2026-07-24 外送專法 session，4 個平行 Sonnet 研究 agent（facet A-D）合計燒 ~500K token，3 個在收尾時撞帳號 session limit（僥倖已落檔才被切斷）。多數 Stage 1 的勞動是機械的（開一個 query、開一頁、抓出文字），不需要 Sonnet 判斷力——那部分可以移出 Claude 計量。
+
+`scripts/tools/research-fleet.py` 是**搜尋／擷取兩個抽象介面**（`SearchProvider` / `FetchProvider`，per [MANIFESTO §架構解 第二例證](../semiont/MANIFESTO.md#我的進化哲學--架構解--守備修補)），不是又一個一次性腳本：
+
+- **Search**：`BraveSearch` → `SerperSearch` cascade（讀 `~/.config/taiwan-md/credentials/.env` 的 `BRAVE_API_KEY` / `SERPER_API_KEY`）
+- **Fetch**：`MojLawFetch`（全國法規資料庫專用 parser，逐條 verbatim + 條號，零 LLM 成本——**這是本次真正解掉的痛點**：WebFetch 對 law.moj.gov.tw 有 125 字截斷政策 + PDF 二進位解析失敗，四份 Sonnet 研究報告全部卡在這裡）→ `JinaFetch`（`r.jina.ai` 通用 fallback，含 PDF／JS render）
+
+用法：
+
+```bash
+python3 scripts/tools/research-fleet.py search "查詢字串" --count 10
+python3 scripts/tools/research-fleet.py fetch "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=XXXX"
+python3 scripts/tools/research-fleet.py batch task.json --out reports/research/{YYYY-MM}/{slug}-fleet-{X}.json
+# task.json: {"queries": [...], "count_per_query": 5, "fetch_top_k": 3, "country": "tw", "lang": "zh-hant"}
+```
+
+**何時用 Path A（Sonnet agent）vs Path B（fleet script）**：
+
+| 情境                                                            | 用哪個                                                                                             |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 需要 falsification 判斷（哪個矛盾版本可信、要不要降級信度）     | Path A（Sonnet 判斷力）                                                                            |
+| 純機械取材（法條逐字、大量候選 URL 篩選、session/成本壓力大時） | Path B（fleet script），輸出 raw JSON 交主 session 或 Path A agent 消化                            |
+| 兩者混用                                                        | 先跑 Path B 拿到 raw 候選＋法條全文，再讓 Path A agent 針對缺口/矛盾做深度追問，省掉重複的機械搜尋 |
+
+**已知限制**（誠實記錄，不是藉口）：Jina 對重度 JS-render／付費牆媒體（例：CNA 網頁版）常抓不到正文，只拿到導覽列——這類來源仍需 Path A（Claude WebFetch/agent）或人工介入。Path B 不是全面取代，是把「law.moj.gov.tw 這類乾淨政府網站 + 大量候選 URL 篩選」這一段機械勞動移出 Claude 計量。
 
 ---
 
