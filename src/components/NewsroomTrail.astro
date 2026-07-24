@@ -5,7 +5,11 @@
 // 可即刻溯源（人與 AI）；(2) 比照人生分支數（LifeTree CTA banner）做一個 beta 功能
 // 入口，點進去看 AI 新聞台內部的思考怎麼打架（/semiont/newsroom/{slug}）。
 // 資料：newsroom-lookup（dashboard-newsroom.json）＋ frontmatter.researchReport fallback。
-import { findNewsroomRecord, hasTrail } from '../lib/newsroom-lookup';
+import {
+  findNewsroomRecord,
+  hasMakingOf,
+  resolveMakingOfSlug,
+} from '../lib/newsroom-lookup';
 
 interface Props {
   slug: string;
@@ -51,11 +55,13 @@ if (!links.length && frontmatter?.researchReport) {
   });
 }
 
-const makingOf =
-  rec && hasTrail(rec)
-    ? `/semiont/newsroom/${encodeURIComponent(rec.slug)}/`
-    : null;
-const show = lang === 'zh-TW' && (links.length > 0 || makingOf);
+// CTA 只在真有 making-of 頁時亮（projection / room）——research-only 只秀原始產物連結，避免 404
+// slug 從 artifact 檔名推（不是 rec.slug），避免 `Shopping Design` vs `Shopping-Design` 漂移
+const makingOfSlug = rec && hasMakingOf(rec) ? resolveMakingOfSlug(rec) : null;
+const makingOf = makingOfSlug
+  ? `/semiont/newsroom/${encodeURIComponent(makingOfSlug)}/`
+  : null;
+const show = lang === 'zh-TW' && (links.length > 0 || !!makingOf);
 ---
 
 {

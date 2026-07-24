@@ -66,15 +66,54 @@ export function findNewsroomRecord(
   );
 }
 
-/** 這筆紀錄有沒有值得展示的早期產物（投影／編輯室／audit）。 */
+/**
+ * 這筆紀錄有沒有「編輯室現場」making-of 頁所需的產物。
+ *
+ * 必須對齊 `getMakingOfSlugs()`（semiont-newsroom.ts）：靜態路由只為
+ * reports/article-projection/* 與 reports/editorial-room/* 建頁。
+ * 只有 research 不算——否則 CTA 連到 /semiont/newsroom/{slug}/ 會 404
+ * （2026-07-24 哲宇 callout：多篇點「編輯室現場」404）。
+ */
+export function hasMakingOf(rec: NewsroomRecord | null): boolean {
+  if (!rec) return false;
+  const s = rec.stages;
+  return !!(s.projection || s.room_projection || s.room_prose || s.room_chief);
+}
+
+/**
+ * 從 artifact 路徑推 making-of 路由 slug（對齊檔名，不對齊 board 上可能漂移的 rec.slug）。
+ * 例：knowledge 檔是 `Shopping Design.md`，但投影檔是 `Shopping-Design.md`。
+ */
+export function resolveMakingOfSlug(rec: NewsroomRecord | null): string | null {
+  if (!rec || !hasMakingOf(rec)) return null;
+  const s = rec.stages;
+  const candidates = [
+    s.projection?.artifact,
+    s.room_projection?.artifact,
+    s.room_prose?.artifact,
+    s.room_chief?.artifact,
+  ].filter((x): x is string => typeof x === 'string' && x.length > 0);
+
+  for (const art of candidates) {
+    const base = art.split('/').pop()?.replace(/\.md$/i, '') ?? '';
+    if (!base) continue;
+    if (art.includes('article-projection/')) return base;
+    const m = base.match(
+      /^(.+?)-(projection-review|prose-structure-review|chief-review)(?:-r\d+)?$/i,
+    );
+    if (m) return m[1];
+  }
+
+  // 最後手段：空白→連字，貼近檔名慣例
+  return rec.slug.replace(/\s+/g, '-');
+}
+
+/**
+ * 這筆紀錄有沒有任何可溯源產物（含研究報告 alone）。
+ * 用於「原始產物」連結列；編輯室 CTA 請用 hasMakingOf + resolveMakingOfSlug。
+ */
 export function hasTrail(rec: NewsroomRecord | null): boolean {
   if (!rec) return false;
   const s = rec.stages;
-  return !!(
-    s.projection ||
-    s.room_projection ||
-    s.room_prose ||
-    s.room_chief ||
-    s.research
-  );
+  return !!(hasMakingOf(rec) || s.research || s.verify);
 }

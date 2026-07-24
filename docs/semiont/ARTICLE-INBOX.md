@@ -174,6 +174,23 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 外送專法 — 《外送員權益保障及外送平臺管理法》剛上路（哲宇第一優先）
+
+- **Type**: `NEW`
+- **Category**: Society
+- **Path**: knowledge/Society/外送專法.md（建議；寫作時可改 Economy 若主軸偏產業）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-07-24 by 哲宇 directive + branch-analysis (session 2026-07-24-newsroom-404-inbox)
+- **Notes**:
+  - **為什麼這篇 vs 其他／vs 舊「台灣外送經濟」**：觀察者指定第一優先。2026-01-06 三讀、01-21 公布、**07-21 正式施行**——首部外送產業專法（28 條），D+3 時效極強。舊 inbox「台灣外送經濟」是 4 月 dead-cross-ref 順帶缺口（P3），主軸模糊；本篇以**專法＋四方關係（外送員／平台／店家／消費者）**為脊椎，外送經濟史只當背景。斜槓世代已有一段 45 元／1.25 倍，但不足以承載法條與子法攻防
+  - 連結密度：台灣斜槓世代 / 全聯福利中心 / 台灣美食總覽 / 夜市文化 / 台灣手搖飲文化 / 黑白大廚在台灣（5+）
+  - 必驗：正式法名與條數、公布／施行日、最低報酬（45 元、最低工資 1.25 倍）是否被子法細化、禁誤寫「已全面僱傭化」、平台／工會多方聲音
+  - 敏感度：勞動／產業政策；立體群像預設，矛盾驅動僅在真爭議段落
+  - 敘事弧候選：「誰算勞工、誰算平台、誰付代價」——樓地板高度仍在子法與實務裡被吵
+- **Reference**: 勞動部三讀稿 https://www.mol.gov.tw/1607/1632/1633/87384/post ；子法預告 https://www.mol.gov.tw/1607/1632/1633/90425/ ；施行報導 https://udn.com/news/story/7238/9640547
+- **Pre-research**: reports/research/2026-07/外送專法.md
+
 ### 台灣建築 EVOLVE — 總覽 hub 只有 136 行 0 腳註，四份研究報告已備好當素材
 
 - **Type**: `EVOLVE`
@@ -1670,15 +1687,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Status**: `pending`
 - **Requested**: 2026-04-23 by dead-cross-ref-scan.sh γ
 - **Notes**: 已被 Food/金牛角 引用。寫時包含：鳳梨酥產業（年產值 30+ 億）/ 太陽餅 / 牛軋糖 / 茶葉 / 高鐵站伴手禮一條街 / 機場 SOGO / 觀光工廠模式
-
-### 台灣外送經濟
-
-- **Type**: `NEW`
-- **Category**: Economy
-- **Priority**: `P3`
-- **Status**: `pending`
-- **Requested**: 2026-04-23 by dead-cross-ref-scan.sh γ
-- **Notes**: 已被 Economy/全聯福利中心 引用。Foodpanda 撤離事件 / Uber Eats 寡佔 / 機車外送員勞權爭議 / 25-50 元手續費經濟學 / 雲端廚房興起 / 疫情重塑餐飲習慣
 
 ### 台灣行動支付
 
