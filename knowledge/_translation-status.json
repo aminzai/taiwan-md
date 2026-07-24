@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T22:46:27+08:00",
-    "zhCommitHead": "d7b666ed8",
+    "lastUpdated": "2026-07-24T22:53:07+08:00",
+    "zhCommitHead": "317620f68",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
@@ -63,18 +63,18 @@
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 51,
+        "fresh": 52,
         "stale": 15,
         "metadata_stale": 0,
-        "missing": 796,
+        "missing": 795,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 54,
+        "fresh": 57,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 797,
+        "missing": 794,
         "orphan": 0
       }
     },
@@ -9581,7 +9581,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/miin-music-app.md",
+          "translatedFrom": "Technology/迷音Miin.md",
+          "sourceCommitSha": "ce36d5427",
+          "sourceContentHash": "sha256:e317c3018b82f2b6",
+          "sourceBodyHash": "sha256:bbf79206e74e0a59",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -9867,7 +9878,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/ai-supply-chain-overseas-manufacturing.md",
+          "translatedFrom": "Technology/AI供應鏈海外設廠.md",
+          "sourceCommitSha": "fd01d452a",
+          "sourceContentHash": "sha256:7fa246cf8f0f5c00",
+          "sourceBodyHash": "sha256:453d3851b08255ad",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -13441,8 +13463,8 @@
           "sourceContentHash": "sha256:f932c57f5b497190",
           "sourceBodyHash": "sha256:09023ab1d3d01f3b",
           "translatedAt": "2026-07-24T20:15:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "89ca6114",
+          "translationLastModified": "2026-07-24T22:46:27+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -20510,8 +20532,8 @@
           "sourceContentHash": "sha256:e97d739884de9be4",
           "sourceBodyHash": "sha256:2afb135f1c4dd795",
           "translatedAt": "2026-07-24T20:15:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "89ca6114",
+          "translationLastModified": "2026-07-24T22:46:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -22058,8 +22080,8 @@
           "sourceContentHash": "sha256:0e8351a88b984c1d",
           "sourceBodyHash": "sha256:83cbb50293e2fd70",
           "translatedAt": "2026-07-24T20:15:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "89ca6114",
+          "translationLastModified": "2026-07-24T22:46:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -33462,8 +33484,8 @@
           "sourceContentHash": "sha256:c5b9ea1f1f0ebfd3",
           "sourceBodyHash": "sha256:31718e0ce0828285",
           "translatedAt": "2026-07-24T20:15:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "89ca6114",
+          "translationLastModified": "2026-07-24T22:46:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -52575,8 +52597,8 @@
           "sourceContentHash": "sha256:cda33c38cf5ae9bc",
           "sourceBodyHash": "sha256:f0f1f0e7889b7e24",
           "translatedAt": "2026-07-24T20:15:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "89ca6114",
+          "translationLastModified": "2026-07-24T22:46:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -57638,7 +57660,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/he-feipeng.md",
+          "translatedFrom": "People/何飛鵬.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:c6c5b08befa8584a",
+          "sourceBodyHash": "sha256:65be42b8cac6c9ca",
+          "translatedAt": "2026-07-24T20:15:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -66569,7 +66602,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/228-incident.md",
+          "translatedFrom": "History/二二八事件.md",
+          "sourceCommitSha": "936ada6c3",
+          "sourceContentHash": "sha256:99bda6e7dc861382",
+          "sourceBodyHash": "sha256:3ffe04bee42caf48",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
