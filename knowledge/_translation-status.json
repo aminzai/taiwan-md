@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T01:14:04+08:00",
-    "zhCommitHead": "2bd86e233",
+    "lastUpdated": "2026-07-25T01:26:03+08:00",
+    "zhCommitHead": "b18d0c431",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -67,26 +67,26 @@
       },
       "id": {
         "total_zh": 862,
-        "fresh": 84,
+        "fresh": 87,
         "stale": 14,
         "metadata_stale": 0,
-        "missing": 764,
+        "missing": 761,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 89,
-        "stale": 13,
+        "fresh": 92,
+        "stale": 11,
         "metadata_stale": 0,
-        "missing": 760,
+        "missing": 759,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 88,
+        "fresh": 91,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 766,
+        "missing": 763,
         "orphan": 0
       },
       "ar": {
@@ -2601,18 +2601,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Music/chthonic.md",
-          "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "087677fae",
-          "sourceContentHash": "sha256:428539ef61aee065",
-          "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -3843,7 +3832,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/chou-hui.md",
+          "translatedFrom": "Music/周蕙.md",
+          "sourceCommitSha": "c40c53f61",
+          "sourceContentHash": "sha256:bad67aad8b965996",
+          "sourceBodyHash": "sha256:7f999c1dbadb14bb",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -15385,20 +15385,7 @@
           "diffSummary": "+3 -3"
         },
         "pt": {
-          "path": "pt/Technology/mini-taiwan-pulse-civic-tech.md",
-          "translatedFrom": "Technology/mini-taiwan-pulse.md",
-          "sourceCommitSha": "905aa4a82",
-          "sourceContentHash": "sha256:93ceaae8bc44512f",
-          "sourceBodyHash": "sha256:941fb85e8f2fbb98",
-          "translatedAt": "2026-07-18T18:57:47+08:00",
-          "translationLastCommit": "840b87e9",
-          "translationLastModified": "2026-07-18T23:53:51+08:00",
-          "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -26980,7 +26967,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/medical-care-act.md",
+          "translatedFrom": "Society/醫療法.md",
+          "sourceCommitSha": "a5dc99e20",
+          "sourceContentHash": "sha256:54b5e89e9e06fd0e",
+          "sourceBodyHash": "sha256:3a7e69bdd14827b6",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -29584,18 +29582,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Society/taiwan-disaster-volunteer-culture.md",
-          "translatedFrom": "Society/台灣災難志工文化.md",
-          "sourceCommitSha": "ae0bea081",
-          "sourceContentHash": "sha256:c3e60eb6650d8dfb",
-          "sourceBodyHash": "sha256:260082957a9cf952",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 15,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -33699,8 +33686,8 @@
           "sourceContentHash": "sha256:90a44cb111462766",
           "sourceBodyHash": "sha256:00a5514ea5f5fb",
           "translatedAt": "2026-07-25T00:12:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c142de03",
+          "translationLastModified": "2026-07-25T01:14:10+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -48908,8 +48895,8 @@
           "sourceContentHash": "sha256:890dbecd669ee83c",
           "sourceBodyHash": "sha256:480fe5c7e2becbe9",
           "translatedAt": "2026-07-25T00:12:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c142de03",
+          "translationLastModified": "2026-07-25T01:14:10+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -54450,18 +54437,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/People/chen-shui-bian-controversial-president.md",
-          "translatedFrom": "People/陳水扁.md",
-          "sourceCommitSha": "eae11d139",
-          "sourceContentHash": "sha256:9e6735e34473c2b",
-          "sourceBodyHash": "sha256:be5f4cfa04f53c22",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "path": "hi/People/chen-shui-bian-controversial-president.md",
@@ -62797,7 +62773,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/jam-hsiao.md",
+          "translatedFrom": "People/蕭敬騰.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:fb71e3bcf0475f2e",
+          "sourceBodyHash": "sha256:6b96e9e6687dd8c3",
+          "translatedAt": "2026-07-25T00:12:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -67311,8 +67298,8 @@
           "sourceContentHash": "sha256:0b469697cef600b9",
           "sourceBodyHash": "sha256:9c9d5bf9b829829e",
           "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c142de03",
+          "translationLastModified": "2026-07-25T01:14:10+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -74993,7 +74980,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/hualien-county.md",
+          "translatedFrom": "Geography/花蓮縣.md",
+          "sourceCommitSha": "b74252d93",
+          "sourceContentHash": "sha256:405286ffbb97b596",
+          "sourceBodyHash": "sha256:367ba2e7b9a712c5",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -76356,8 +76354,8 @@
           "sourceContentHash": "sha256:349360e6f67e2293",
           "sourceBodyHash": "sha256:a900fc355006c673",
           "translatedAt": "2026-07-25T00:12:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c142de03",
+          "translationLastModified": "2026-07-25T01:14:10+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -77668,7 +77666,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/qingshui-cliff.md",
+          "translatedFrom": "Geography/清水斷崖.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:977c64498b20b961",
+          "sourceBodyHash": "sha256:71b9d132fec3feff",
+          "translatedAt": "2026-07-25T00:12:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -78761,7 +78770,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/lienchiang-county.md",
+          "translatedFrom": "Geography/連江縣.md",
+          "sourceCommitSha": "2f3bfdbf7",
+          "sourceContentHash": "sha256:8ae350615e660491",
+          "sourceBodyHash": "sha256:2da5583381fa39ad",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -78978,7 +78998,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/kaohsiung-city.md",
+          "translatedFrom": "Geography/高雄市.md",
+          "sourceCommitSha": "a5490c043",
+          "sourceContentHash": "sha256:244cad849cf26403",
+          "sourceBodyHash": "sha256:fd14be167daa0221",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -80368,10 +80399,32 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/terrain-and-geology.md",
+          "translatedFrom": "Geography/地形與地質.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1c19912f3b7cdf1b",
+          "sourceBodyHash": "sha256:ff4a4e3156ba7d86",
+          "translatedAt": "2026-07-25T00:12:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/terrain-and-geology.md",
+          "translatedFrom": "Geography/地形與地質.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1c19912f3b7cdf1b",
+          "sourceBodyHash": "sha256:ff4a4e3156ba7d86",
+          "translatedAt": "2026-07-25T00:12:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -80582,18 +80635,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Geography/taichung-city.md",
-          "translatedFrom": "Geography/台中市.md",
-          "sourceCommitSha": "edc2ba810",
-          "sourceContentHash": "sha256:e6912f140d4ddcf3",
-          "sourceBodyHash": "sha256:3039a7c79e8554d9",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -81867,18 +81909,16 @@
         "pt": {
           "path": "pt/Culture/taiwan-tea-ceremony-and-aesthetic-living.md",
           "translatedFrom": "Culture/台灣茶道與生活美學.md",
-          "sourceCommitSha": "d520299ba",
-          "sourceContentHash": "sha256:493db11be1cffdc3",
-          "sourceBodyHash": "sha256:31e39ab99f97ad00",
-          "translatedAt": "2026-07-18T18:57:47+08:00",
-          "translationLastCommit": "840b87e9",
-          "translationLastModified": "2026-07-18T23:53:51+08:00",
+          "sourceCommitSha": "2948c945c",
+          "sourceContentHash": "sha256:f1b4f4bb8aa56e88",
+          "sourceBodyHash": "sha256:b5154ba7226ad9d9",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "c142de03",
+          "translationLastModified": "2026-07-25T01:14:10+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -82311,7 +82351,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwanese-shadow-puppetry.md",
+          "translatedFrom": "Culture/皮影戲.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5a4d0fb0959c27ae",
+          "sourceBodyHash": "sha256:795653ceb8bee8f7",
+          "translatedAt": "2026-07-25T00:12:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/taiwanese-shadow-puppetry.md",
@@ -83428,8 +83479,8 @@
           "sourceContentHash": "sha256:f8a1e86f13d5a657",
           "sourceBodyHash": "sha256:ef724755039c89a7",
           "translatedAt": "2026-07-25T00:12:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c142de03",
+          "translationLastModified": "2026-07-25T01:14:10+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -86452,8 +86503,8 @@
           "sourceContentHash": "sha256:4e7bd6002d83c43b",
           "sourceBodyHash": "sha256:0f6781254171f7ba",
           "translatedAt": "2026-07-25T00:12:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c142de03",
+          "translationLastModified": "2026-07-25T01:14:10+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -86555,10 +86606,32 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/national-theater-and-concert-hall.md",
+          "translatedFrom": "Culture/兩廳院.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1b722cc963da8ad2",
+          "sourceBodyHash": "sha256:b8e419f98d87f2d4",
+          "translatedAt": "2026-07-25T00:12:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/national-theater-and-concert-hall.md",
+          "translatedFrom": "Culture/兩廳院.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1b722cc963da8ad2",
+          "sourceBodyHash": "sha256:b8e419f98d87f2d4",
+          "translatedAt": "2026-07-25T00:12:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -86812,8 +86885,8 @@
           "sourceContentHash": "sha256:c4dd3375c0cfa0a5",
           "sourceBodyHash": "sha256:a20df4f3c36414b3",
           "translatedAt": "2026-07-25T00:12:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c142de03",
+          "translationLastModified": "2026-07-25T01:14:10+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
