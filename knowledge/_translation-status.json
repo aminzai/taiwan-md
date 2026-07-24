@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T03:54:40+08:00",
-    "zhCommitHead": "7aabcca3c",
+    "lastUpdated": "2026-07-25T04:10:04+08:00",
+    "zhCommitHead": "bdf402be0",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -59,34 +59,34 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 70,
+        "fresh": 72,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 784,
+        "missing": 782,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 99,
-        "stale": 7,
+        "fresh": 101,
+        "stale": 6,
         "metadata_stale": 0,
-        "missing": 756,
+        "missing": 755,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 123,
+        "fresh": 127,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 729,
+        "missing": 725,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 111,
+        "fresh": 114,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 743,
+        "missing": 740,
         "orphan": 0
       },
       "ar": {
@@ -21835,7 +21835,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taiwan-garbage-truck-music.md",
+          "translatedFrom": "Lifestyle/台灣垃圾車音樂.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:e97d739884de9be4",
+          "sourceBodyHash": "sha256:2afb135f1c4dd795",
+          "translatedAt": "2026-07-25T03:42:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -61812,7 +61823,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/wu-ming-yi.md",
+          "translatedFrom": "People/吳明益.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2752c026dbd32f77",
+          "sourceBodyHash": "sha256:33817e164492daa0",
+          "translatedAt": "2026-07-25T03:42:45+08:00",
+          "translationLastCommit": "bdf402be",
+          "translationLastModified": "2026-07-25T04:09:36+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -62454,7 +62476,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/kao-chun-ming.md",
+          "translatedFrom": "People/高俊明.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eaeba845240b369e",
+          "sourceBodyHash": "sha256:b37aec09305a898c",
+          "translatedAt": "2026-07-25T03:42:45+08:00",
+          "translationLastCommit": "bdf402be",
+          "translationLastModified": "2026-07-25T04:09:36+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -63477,7 +63510,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/bamboo-tube-rice.md",
+          "translatedFrom": "Food/竹筒飯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2f969547257cfb65",
+          "sourceBodyHash": "sha256:b1f0ce92250128c2",
+          "translatedAt": "2026-07-25T03:42:45+08:00",
+          "translationLastCommit": "bdf402be",
+          "translationLastModified": "2026-07-25T04:09:36+08:00",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -64011,7 +64055,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/chiayi-turkey-rice.md",
+          "translatedFrom": "Food/嘉義火雞肉飯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:961c8a81a8f8c3f1",
+          "sourceBodyHash": "sha256:2b1f54ba6f041643",
+          "translatedAt": "2026-07-25T03:42:45+08:00",
+          "translationLastCommit": "bdf402be",
+          "translationLastModified": "2026-07-25T04:09:36+08:00",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -65614,7 +65669,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/stinky-tofu.md",
+          "translatedFrom": "Food/臭豆腐.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:65a3ff761ca143a1",
+          "sourceBodyHash": "sha256:da607a2f72ce021f",
+          "translatedAt": "2026-07-25T03:42:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -66722,7 +66788,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/ma-wai-soup.md",
+          "translatedFrom": "Food/麻芛湯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:37e6bdeac5fb1d7c",
+          "sourceBodyHash": "sha256:3db5773500588245",
+          "translatedAt": "2026-07-25T03:42:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -73317,18 +73394,16 @@
         "id": {
           "path": "id/History/great-recall-movement-2024.md",
           "translatedFrom": "History/大罷免.md",
-          "sourceCommitSha": "6262f8c93",
-          "sourceContentHash": "sha256:0bdd57229f623a95",
-          "sourceBodyHash": "sha256:9d022e52199911fd",
-          "translatedAt": "2026-07-18T18:59:54+08:00",
+          "sourceCommitSha": "5add39fc8",
+          "sourceContentHash": "sha256:1c18939671190740",
+          "sourceBodyHash": "sha256:c336900c050cb32f",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
           "translationLastCommit": "e82fd52f",
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
-          "footnoteDefs": 53,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -17"
+          "footnoteDefs": 54,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/great-recall-movement-2024.md",
@@ -77616,7 +77691,18 @@
           "reason": "hash-match-sha-lost"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/yehliu-geopark.md",
+          "translatedFrom": "Geography/野柳.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:061c7b5484113eed",
+          "sourceBodyHash": "sha256:e080c9e068d13667",
+          "translatedAt": "2026-07-25T03:42:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -86160,7 +86246,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/taiwan-furry-culture.md",
+          "translatedFrom": "Culture/台灣獸迷文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:fb754fde867da6b6",
+          "sourceBodyHash": "sha256:b8b517c948537006",
+          "translatedAt": "2026-07-25T03:42:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/taiwan-furry-culture.md",
@@ -89010,7 +89107,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/christianity-in-taiwan.md",
+          "translatedFrom": "Culture/基督教在台灣.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:875b7e202aed03cb",
+          "sourceBodyHash": "sha256:4b3f831fea6a96bf",
+          "translatedAt": "2026-07-25T03:42:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/christianity-in-taiwan.md",
