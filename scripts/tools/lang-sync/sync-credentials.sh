@@ -60,9 +60,12 @@ fi
 
 ssh "$TARGET" "mkdir -p ~/$DEST_DIR/openrouter-keys && chmod 700 ~/$DEST_DIR ~/$DEST_DIR/openrouter-keys"
 
-# rsync 只傳 *.key（排除 KEYS.md 等帳號對照筆記——那是本機備忘，不該散佈）
-rsync -av --chmod=F600 --include="*.key" --exclude="*" \
-  "$SRC/" "$TARGET:~/$DEST_DIR/openrouter-keys/" | tail -3
+# 只傳 *.key（排除 KEYS.md 等帳號對照筆記——那是本機備忘，不該散佈）。
+# 用 scp 不用 rsync：macOS 內建的是 openrsync，不支援 --chmod（2026-07-25 實撞，
+# 整批靜默沒傳而只有數量對賬叫出來——那正是這支腳本尾端要驗數的理由）。
+scp -q "$SRC"/*.key "$TARGET:~/$DEST_DIR/openrouter-keys/" || {
+  echo "🔴 scp 失敗" >&2; exit 1; }
+ssh "$TARGET" "chmod 600 ~/$DEST_DIR/openrouter-keys/*.key"
 
 REMOTE_COUNT=$(ssh "$TARGET" "ls -1 ~/$DEST_DIR/openrouter-keys/*.key 2>/dev/null | wc -l" | tr -d ' ')
 echo ""
