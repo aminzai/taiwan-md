@@ -285,6 +285,34 @@ class TranslationCascade:
 
 # ────────────────── Per-article driver ──────────────────
 
+def _repair_missing_frontmatter_fences(output: str) -> str:
+    """Wrap bare YAML frontmatter that local models emit without --- fences.
+
+    Detects outputs that start with `title:` (and other scaffold keys) but omit
+    the opening/closing `---` delimiters. Only repairs when the head block
+    parses as a mapping with `title`; otherwise returns input unchanged so the
+    hard gate can still reject garbage.
+    """
+    text = output.strip()
+    if text.startswith("---"):
+        return text
+    if not re.match(r"^title\s*:", text):
+        return text
+
+    # Prefer first blank line as FM/body split (common ollama shape).
+    parts = re.split(r"\n\s*\n", text, maxsplit=1)
+    if len(parts) != 2:
+        return text
+    fm_block, body = parts[0].strip(), parts[1]
+    try:
+        fm = yaml.safe_load(fm_block)
+        if not isinstance(fm, dict) or "title" not in fm:
+            return text
+    except Exception:  # noqa: BLE001
+        return text
+    return f"---\n{fm_block}\n---\n\n{body}"
+
+
 def translate_one(article: dict, lang: str, cascade: TranslationCascade,
                   dry_run: bool = False) -> tuple[bool, Optional[str], Optional[str]]:
     """Translate one article via the cascade.
@@ -318,6 +346,11 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
         output = output[3:].lstrip("\n")
     if output.endswith("```"):
         output = output[:-3].rstrip("\n")
+
+    # Local LLM (ollama gemma/qwen) often emits bare YAML fields without --- fences
+    # while content is otherwise complete. Repair before hard gate so sovereignty
+    # backbone tier is usable (2026-07-23 dogfood: gemma4:e4b / qwen3.6 both dropped fences).
+    output = _repair_missing_frontmatter_fences(output)
 
     # Frontmatter integrity hard gate (2026-07-10 P0-3): 任一 backend（含 fleet raw
     # 輸出）frontmatter 破損就不落盤——缺開頭 fence / 找不到收尾 fence / YAML 不
