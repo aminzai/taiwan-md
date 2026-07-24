@@ -1,7 +1,9 @@
 {
+  "en/About/founder.md": "About/taiwan-md.md",
   "en/About/how-an-article-is-born.md": "About/文章如何誕生.md",
   "en/About/origin-story.md": "About/緣起故事.md",
   "en/About/seeing-taiwan-quotes.md": "About/看見台灣引言集.md",
+  "en/About/taiwan-md.md": "About/taiwan-md.md",
   "en/About/taiwan-official-resources-revisit.md": "About/台灣官方網站資源重寫.md",
   "en/About/taiwan-official-resources.md": "About/台灣官方網站資源.md",
   "en/About/visualization-module-catalog.md": "About/視覺化模組型錄.md",
