@@ -1,130 +1,130 @@
 ---
-title: 'En marchant sur le port comblé : cinq spécialités culinaires du district de Zhongxi à Tainan'
-description: "Sous les rues Guohua et Hai'an se trouvent les vestiges des chenaux du port des Cinq Ports de l'époque Qing ; le bouillon de bœuf, la bouillie de poisson milkfish, les nouilles aux anguilles et les vermicelles au cœur de porc, chaque détail temporel, spatial et culinaire de ces spécialités de rue constitue les fossiles laissés par la logique de survie des ouvriers portuaires il y a quatre siècles."
-date: '2026-06-30'
+title: 'Marcher sur le port comblé : cinq snacks de Tainan, district de Zhongxi'
+description: "Sous les rues Guohua et Hai'an se trouvent les vestiges du lit des Cinq Ports de la dynastie Qing ; la soupe de bœuf, la bouillie de poisson tilapia, les nouilles sautées au congre et les vermicelles de verre au cœur de porc sont autant de fossiles de la logique de survie des ouvriers portuaires, laissée par quatre cents ans d'histoire."
+date: 2026-06-30
 author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: 'Spécialités culinaires classiques'
+subcategory: 'Classiques'
 tags:
   [
     'Tainan',
-    'Spécialités de rue',
+    'Snacks',
     'Cinq Ports',
     'District de Zhongxi',
-    'Bouillon de bœuf',
-    'Poisson milkfish',
-    'Nouilles aux anguilles',
+    'Soupe de bœuf',
+    'Tilapia',
+    'Nouilles sautées au congre',
   ]
 readingTime: 8
-lastVerified: '2026-06-30'
+lastVerified: 2026-06-30
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
-sourceCommitSha: '3011828ba'
-sourceContentHash: 'sha256:ba0e98c9d772c0f4'
-sourceBodyHash: 'sha256:c9b71900ee0b75bf'
-translatedAt: '2026-07-06T00:39:49+08:00'
+sourceCommitSha: '93facb6ce'
+sourceContentHash: 'sha256:0b469697cef600b9'
+sourceBodyHash: 'sha256:9c9d5bf9b829829e'
+translatedAt: '2026-07-25T07:05:14+08:00'
 ---
 
-À 4 h 30, la rue Guohua est encore plongée dans l'obscurité. Quelques personnes marchent depuis la gare de Tainan, l'écran de leur téléphone servant de torche, en direction du restaurant Liùqiān (Six Mille) Beef Soup, dont l'enseigne n'est pas encore éclairée. Ils ne sont pas les premiers : des clients attendent déjà devant la porte. Les bœufs du marché de Shan-hua ont été abattus la veille au soir ; les camions frigorifiques les livrent avant l'aube, et la première marmite de bouillon entre en ébullition à 5 h. Ceux qui arrivent tôt le savent : **la douceur de la première marmite diffère de celle du soir.**
+Il est quatre heures et demie du matin, la rue Guohua est encore dans l'obscurité. Quelques personnes marchent depuis la gare de Tainan, l'écran de leur téléphone portable éclairant le chemin, se dirigeant vers la boutique de soupe de bœuf Liuqian dont les enseignes sont encore dans l'ombre. Ils ne sont pas les premiers : des gens attendent déjà devant la porte. Les bœufs du marché de la viande de Shanhua sont abattus la veille au soir, les camions frigorifiques les livrent avant l'aube, et la première marmite commence à bouillir à cinq heures. Ceux qui arrivent tôt savent une chose : **la douceur de la première marmite n'est pas la même que celle du soir.**
 
-Ce n'est pas un rituel. C'est de la logistique.
+Il ne s'agit pas de sentiment de cérémonie. C'est de la logistique.
 
-## Cinq Ports : la raison de la disparition
+## Les Cinq Ports : les raisons de la disparition
 
-Vous marchez actuellement sur les rues Guohua et Hai'an, exactement sur le lit comblé de l'ancien port.
+Vous marchez actuellement sur les rues Guohua et Hai'an, mais vous marchez en réalité sur le lit d'un port comblé.
 
-Au milieu de la dynastie Qing, la mer intérieure de Taijiang, à l'ouest de Tainan, s'ensablait progressivement. Toutefois, cinq chenaux reliaient encore la côte à la ville préfectorale (Fucheng), connus sous le nom historique de « Cinq Ports » (Wutiao Gang). Ce carrefour commercial était le plus important de Taïwan à l'époque Qing : les tissus de Quanzhou, la céramique de Zhangzhou et les marchandises des autres provinces y étaient déchargés, transbordés et échangés. Les ouvriers portuaires se répartissaient les emplacements selon leur origine : le port de Xingangqian était dominé par la famille Huang de Jinjiang (Quanzhou) ; le port d'Anhai par la famille Xu d'Anhai. Ils y érigèrent chacun des temples, regroupèrent leurs compatriotes et développèrent leurs propres cercles culinaires.
+Au milieu de la dynastie Qing, la mer intérieure de Taijiang, située à l'ouest de Tainan, s'est progressivement envasée, mais cinq voies d'eau permettaient encore de relier la mer à la ville du district (Fucheng), un phénomène historique connu sous le nom de « Cinq Ports » (Wutiao Gang). C'était le centre commercial le plus important de Taïwan à l'époque Qing : les tissus de Quanzhou, la céramique de Zhangzhou et les marchandises de toutes les provinces étaient déchargés, transbordés et échangés ici. Les ouvriers portuaires se répartissaient les territoires selon leur origine : le port de Xingangqian était dominé par les Huang de Jinjiang (Quanzhou) ; le port d'Anhai par les Xu d'Anhai ; chacun construisait ses temples, regroupait ses compatriotes et avait son propre cercle alimentaire.
 
-📝 Note du commissaire : La rue Shennong, aujourd'hui la plus prisée des amateurs de culture « wénqīng », s'appelait autre « Beishi Jie » à l'époque Qing. Toute la rue était construite sur le chenal du port Beishi. La largeur et l'orientation de la rue n'ont pas changé depuis quatre cents ans.
+📝 Note du commissaire : La rue Shennong, aujourd'hui la plus prisée par les « intellectuels littéraires » (wenqing), s'appelait autrefois la « rue Beishi » à l'époque Qing. Toute la rue était construite sur le lit du port Beishi. La largeur et l'orientation de la rue n'ont pas changé depuis quatre cents ans.
 
-Au XIXe siècle, l'ensablement des chenaux s'accéléra. Pendant la période de domination japonaise, le canal de Tainan fut creusé, mettant définitivement fin à la fonction des Cinq Ports. Les chenaux furent comblés et des routes furent tracées à leur emplacement. Lors des travaux d'élargissement actuels de la rue Hai'an, les ouvriers ont mis au jour des fondations et des vestiges de temples de l'époque Qing, interrompant brièvement les travaux. Ces reliques sont désormais intégrées dans des vitrines transparentes au sol. Lorsque vous marchez dessus, vous fouliez des briques vieilles de quatre siècles.
+Au XIXe siècle, les lits des ports se sont envasés successivement. Pendant la période de domination japonaise, le canal de Tainan a été creusé, mettant fin définitivement à la fonction des Cinq Ports ; les lits ont été comblés et des routes ont été pavées par-dessus. Lors des travaux d'élargissement de la rue Hai'an aujourd'hui, les ouvriers ont découvert des fondations et des vestiges de temples de la dynastie Qing sous terre, arrêtant temporairement les travaux. Aujourd'hui, ces vestiges sont intégrés directement dans des vitrines transparentes au sol. Les gens passent par-dessus, et sous leurs pieds se trouvent des briques vieilles de quatre cents ans.
 
-Pourquoi ces spécialités de rue sont-elles si concentrées ici ? Parce que cet endroit a été celui où il fallait le plus rapidement nourrir une main-d'œuvre massive.
+Pourquoi les snacks sont-ils les plus denses ici ? Parce que c'était autrefois l'endroit qui avait le plus besoin de nourrir rapidement une grande quantité d'ouvriers.
 
-## Bouillie de poisson milkfish : un matin vieux de quatre cents ans
+## Bouillie de poisson tilapia : le matin de quatre cents ans
 
-Le poisson milkfish (mugil) n'a pas été apporté par Zheng Chenggong (Koxinga).
+Le poisson tilapia n'a pas été apporté par Zheng Chenggong.
 
-Selon la légende populaire, l'armée de Zheng manquait de vivres à son arrivée. Zheng Chenggong créa des étangs à Anping pour élever le milkfish, goûta un morceau et demanda « Quel poisson ? », dont la prononciation dérivée devint « milkfish » (shīmù-yú). Cette histoire est séduisante, mais les historiens soulignent que c'est en réalité la Compagnie néerlandaise des Indes orientales qui importa la technique d'élevage du milkfish d'Indonésie à Taïwan, durant la période coloniale néerlandaise (1624–1662), bien avant Zheng Chenggong. Le _Taïwan Fu Zhi_ (Gazette de la préfecture de Taïwan) de la fin du XVIIe siècle mentionne déjà l'élevage du milkfish. Plus de quatre cents ans d'histoire.
+La légende populaire raconte que l'armée de Zheng manquait de vivres à son arrivée à Taïwan ; Zheng Chenggong a créé des étangs à poissons à Anping pour élever du tilapia, a goûté le poisson et a demandé « quel poisson est-ce ? », d'où le nom erroné de « poisson tilapia » (shimu yu). Cette histoire est belle, mais les historiens soulignent que c'est la Compagnie néerlandaise des Indes orientales qui a introduit la technique d'élevage du tilapia de l'Indonésie à Taïwan – cela s'est produit pendant la période coloniale néerlandaise (1624–1662), bien avant Zheng Chenggong. Les « Annales du district de Taïwan » (Taiwan Fuzhi) de la fin du XVIIe siècle contiennent déjà des mentions écrites de l'élevage du tilapia. Plus de quatre cents ans.
 
-📝 Note du commissaire : Tainan reste aujourd'hui la plus grande zone de production de milkfish de Taïwan, avec Qigu comme centre d'élevage. De l'étang à poisson d'Anping au stand de bouillie de la rue Guohua, la distance fluviale ne dépasse pas quinze kilomètres.
+📝 Note du commissaire : Tainan est aujourd'hui encore la plus grande zone de production de tilapia de tout le pays, avec Qigu comme centre d'élevage. De l'étang à poissons d'Anping au stand de bouillie de la rue Guohua, la distance par voie d'eau ne dépasse pas quinze kilomètres.
 
-À 5 h 30, les restaurants de bouillie de milkfish font blanchir séparément les intestins, le ventre et la peau du poisson. Le riz blanc constitue la base ; le client ajoute lui-même les garnitures. C'est la logique du petit-déjeuner portuaire : rapide, généreuse, sans gaspillage.
+À cinq heures et demie du matin, les boutiques de bouillie de poisson tilapia font blanchir séparément les intestins, le ventre et la peau du poisson, puis les répartissent dans de petites assiettes différentes. La bouillie blanche sert de base, et les clients ajoutent les ingrédients eux-mêmes. C'est la logique du petit-déjeuner des ouvriers portuaires : rapide, généreux en ingrédients, sans gaspillage.
 
-Le poisson entier est découpé avec précision : chaque partie a sa destination. Cuit dans la bouillie, la chair est douce et élastique, soutenue par le parfum du riz sans le masquer. Grillée à sec, le ventre gras devient croustillant sans être brûlé, offrant en une seule bouchée croquant et fraîcheur — deux textures, une seule opération. Les intestins frits à l'huile sont croustillants et irrésistibles. La peau transformée en soupe est riche en gélatine, élastique, tendre mais tenace, laissant une légère sensation d'adhérence sur les lèvres. Chaque coupe est nette parce que chaque partie mérite un traitement distinct.
+Tout le poisson, chaque partie a son endroit. Dans la bouillie, la chair du poisson est douce et élastique, la bouillie légère soutient sans voler la saveur. Grillée à sec, le ventre gras est croustillant mais non brûlé, offrant à la fois du croustillant et du frais dans une seule bouchée – deux textures, un seul geste. Les intestins sont frits à l'huile, crépitants, on ne peut s'arrêter d'en manger une bouchée après l'autre. La peau est utilisée pour la soupe, riche en gélatine, élastique, molle mais pas décomposée, la soupe colle légèrement aux lèvres. Chaque coupe est nette parce que chaque partie mérite d'être traitée individuellement.
 
-## Bouillon de bœuf : une tradition inventée
+## Soupe de bœuf : une tradition inventée
 
-L'histoire du bouillon de bœuf de Tainan n'est pas aussi ancienne qu'on pourrait le croire.
+L'histoire de la soupe de bœuf de Tainan n'est pas aussi ancienne qu'on ne l'imagine.
 
-Sous la dynastie Qing, les paysans taïwanais ne consommaient pas de bœuf, le bœuf étant un instrument agricole. Durant la période de domination japonaise, le gouvernement japonais promut une alimentation de type occidental, et la consommation de bœuf s'intégra progressivement aux habitudes quotidiennes. Les immigrants de Chaoshan apportèrent des plats à base de bœuf à Tainan, orientant la cuisine dans cette direction. Ce qui fit réellement du « bouillon de bœuf » la « spécialité représentante de Tainan », c'est le Festival du Bœuf de Tainan, lancé en 2004 — soit il y a à peine plus de vingt ans.
+À l'époque Qing, les paysans taïwanais ne mangeaient pas de bœuf, car les bœufs étaient des outils agricoles. Pendant la période de domination japonaise, le gouvernement japonais a promu l'alimentation occidentale, et la consommation de bœuf a progressivement intégré le quotidien taïwanais. Les immigrants de Chaoshan ont apporté des plats de bœuf à Tainan, donnant naissance à cette orientation culinaire actuelle. Ce qui a vraiment fait de la « soupe de bœuf » le « plat emblématique de Tainan », c'est le Festival du bœuf de Tainan, lancé en 2004 – il y a à peine plus de vingt ans.
 
-Mais la raison pour laquelle il mérite d'être goûté est réelle et étroitement liée au temps.
+Mais la raison pour laquelle elle vaut la peine d'être essayée est réelle, et liée au temps.
 
-Le marché de Shan-hua se situe à environ vingt minutes du centre-ville de Tainan. L'abattage commence la veille au soir et s'achève à l'aube. Des camions frigorifiques ou des taxis amènent la viande bovine à température ambiante (温體, wēntǐ) dans les restaurants avant le lever du jour. Pas de surgélation, pas de conservation nocturne : tout le processus dure quelques heures seulement. La soupe que vous dégustez à 5 h du matin contient une viande qui n'était vivante que quelques heures plus tôt.
+Le marché de la viande de Shanhua est situé à environ vingt minutes du centre-ville de Tainan. L'abattage commence la veille au soir, se termine à l'aube, et les camions frigorifiques ou les taxis amènent la viande de bœuf fraîche dans chaque boutique avant le lever du soleil. Pas de surgélation, pas de conservation de la veille au lendemain, tout le processus prend quelques heures à peine. La soupe que vous buvez à cinq heures du matin contient de la viande qui n'était vivante que quelques heures plus tôt.
 
-Le fond de chaque restaurant est un secret. Certains ajoutent des oignons, d'autres du gingembre sec, d'autres de la canne à sucre ou de l'ananas, d'autres encore des herbes de médecine traditionnelle chinoise. Les grandes marmites frémissent dès l'aube, développant chacune leur propre douceur et complexité. Toutefois, une opération est identique dans tous les établissements : après votre commande, le propriétaire coupe la viande à la main et la plonge précisément dans le bouillon bouillant pendant quelques secondes avant de la servir. La viande arrive encore rouge vif.
+Le fond de soupe de chaque boutique est un secret. Certains mettent des oignons, d'autres du gingembre sec, certains ajoutent de la canne à sucre ou de l'ananas, d'autres utilisent des herbes médicinales pour relever le goût, faisant bouillir dans de grandes marmites depuis l'aube pour extraire leur douceur et leurs couches de saveur propres. Mais toutes les boutiques partagent un geste identique : le propriétaire coupe la viande de bœuf à la main après votre commande, plonge les tranches de viande dans la soupe bouillante pendant quelques secondes avant de servir, et lorsque le plat arrive, la viande est encore rouge vif.
 
-À ce moment-là, il ne faut pas hésiter. Saisissez-la et mangez immédiatement.
+À ce moment-là, il ne faut pas hésiter. Prenez-la, mangez-la immédiatement.
 
-La texture de la viande à température ambiante est croustillante et ferme — les fibres musculaires sont intactes, conservant une élasticité dense juste après l'abattage. La mastication oppose une résistance, un bruit et un jus. La viande surgelée, une fois décongelée, voit ses fibres rompues et ses parois cellulaires détruites ; sa texture est molle et humide, relevant d'un autre aliment. Lorsque les habitants de Tainan prononcent les mots « viande à température ambiante », ils ne désignent pas seulement une température, mais l'instant précis où une vie vient de s'achever et où la décomposition n'a pas encore commencé.
+La texture de la viande de bœuf fraîche est « craquante » – les fibres musculaires sont intactes, avec une fermeté élastique juste après l'abattage, offrant une résistance, un son et du jus à la morsure. La viande de bœuf surgelée, une fois décongelée, a des fibres brisées et des parois cellulaires rompues ; sa texture est molle et humide, c'est une autre nourriture. Quand les gens de Tainan disent « frais » (wenti), ils ne parlent pas seulement de température, mais d'un instant où une vie vient de se terminer et n'a pas encore commencé à se détendre.
 
-📝 Note du commissaire : À l'université, j'ai organisé une sortie avec des camarades pour notre première visite à Tainan. À 4 h du matin, on m'a réveillé en me secouant : « Allez, debout, on va boire du bouillon de bœuf. » Les paupières lourdes, ma première pensée fut : à quelle heure est-ce ? Qui vend du bouillon de bœuf à cette heure ? Et même si c'est le cas, pourquoi se lever maintenant ? Mais mes camarades étaient très insistantes. On sortit finalement. Arrivés sur la rue Hai'an, sans même identifier le restaurant, on aperçut déjà, sous les auvents du marché et sous l'éclairage des réverbères, une rangée de silhouettes — une vingtaine de personnes attendaient déjà. Le restaurant ouvrit à 5 h. Nous fûmes parmi les premiers à obtenir la première marmite. Cette douceur — qui ne vient pas de sucre ajouté, mais de la sucrée naturelle des fibres musculaires à leur état de fraîcheur absolue — rend le bouillon du soir tout aussi séduisant, mais la fraîcheur de la première marmite constitue un plaisir spirituel à un autre niveau. C'est une satisfaction presque injuste. À ce moment-là, une camarade me rappela : « Eh bien ? C'était worth it ! Je te préviens, ne viens pas le lundi, ils sont fermés. » Il s'avère que les restaurants de bouillon de bœuf de Tainan ferment généralement le lundi, car le marché de Shan-hua n'abatt pas de bœuf ce jour-là.
+📝 Note du commissaire : À l'université, j'ai organisé une sortie avec des camarades de classe pour notre première visite à Tainan. À quatre heures du matin, on m'a réveillé en me donnant une tape : « Hé, lève-toi, on va boire de la soupe de bœuf. » Les yeux encore fermés, ma première pensée était : à quelle heure est-ce, qui vend de la soupe de bœuf à cette heure-là, et même s'il y en a, pourquoi se lever maintenant ? Mais mes camarades étaient très insistantes, et j'ai fini par sortir à demi contre mon gré. Arrivés sur la rue Hai'an, sans même voir quelle boutique c'était, j'ai d'abord vu, sous l'auvent du marché, des silhouettes éclairées par les réverbères – une vingtaine de personnes, déjà là à attendre. La boutique ouvre à cinq heures, pour obtenir la première marmite. Cette douceur – pas du sucre ajouté, mais la douceur naturelle des fibres musculaires dans leur état le plus frais qui s'infiltre dans la soupe – le soir, la soupe de bœuf est également fascinante, mais la fraîcheur de la première marmite est une jouissance spirituelle d'un autre niveau. C'est une satisfaction presque injuste. À ce moment-là, mon camarade m'a rappelé : « Alors ? Ça vaut le coup ! Je te dis, ne viens pas lundi, lundi on ne travaille pas. » Il s'est avéré que les boutiques de soupe de bœuf de Tainan sont généralement fermées le lundi, car le marché de la viande de Shanhua n'abat pas de bœuf le lundi.
 
-## Nouilles aux anguilles : la physique des 27 secondes
+## Nouilles sautées au congre : la physique de 27 secondes
 
-Les nouilles aux anguilles (鱔魚意麵) existent dans d'autres régions de Taïwan, mais en dehors de Tainan, presque personne ne les prépare correctement, car la technique centrale est d'une rigueur extrême : entre l'immersion de l'anguille dans la poêle et son retrait, le temps ne doit pas dépasser 27 secondes. Au-delà, la chair devient sèche, l'odeur de poisson émerge, et le plat est irrémédiablement gâché.
+Les nouilles sautées au congre existent dans d'autres régions de Taïwan, mais en dehors de Tainan, presque personne ne les fait correctement, car la technologie centrale exige une rigueur extrême : du moment où le congre entre dans la poêle jusqu'à sa sortie, cela ne doit pas dépasser 27 secondes. Au-delà, la texture devient sèche, l'odeur de poisson poissonneux apparaît, et tout le plat est gâché.
 
-L'origine de ce plat se situe au marché de la rue You'ai (Sakariba). Durant la période de domination japonaise, l'anguille était absente de Tainan, mais des anguilles sauvages de taille similaire pullulaient dans les étangs, sans que personne ne sache comment les cuisiner. Les frères Liao Bingnan et Liao Huotu apprirent la technique de cuisson « daozi » (to-tsì) auprès de maîtres de Fuzhou, développant une méthode de sautée imitant l'anguille. Le goût salé, acide et sucré à la mode de Tainan conquit même les fonctionnaires japonais, faisant la renommée du lieu à Sakariba. Liao Bingnan fut plus tard surnommé « Liao l'Aiguille » (Shanyu Nan) ; le savoir-faire de la famille Liao fut transmis de génération en génération. Aujourd'hui, les anguilles sautées de la famille Liao à Sakariba, celles d'Ah Yuan sur la rue Chenggong et d'Ah Jiang sur la rue Minzu, appartiennent toutes à la même lignée.
+L'origine de ce plat se trouve sur le marché de la rue You'ai (Shakariba). Pendant la période de domination japonaise, il n'y avait pas d'anguille à Tainan, mais on pouvait attraper facilement dans les étangs des congres sauvages de taille similaire, dont personne ne savait comment préparer. Les frères Liao Bingnan et Liao Huotu ont appris la méthode de cuisson « daozi » (to-tsì) auprès d'un maître de Fuzhou, ont étudié une méthode de sauté imitant l'anguille, et la saveur salée-acide-douce de Tainan a conquis les fonctionnaires japonais, gagnant ainsi sa réputation à Shakariba. Liao Bingnan est plus tard surnommé « Congre Nan » ; la technique de la famille Liao est transmise de génération en génération, et aujourd'hui, les congres sautés de la famille Liao à Shakariba, le A-Yuan sur la rue Chenggong et le A-Jiang sur la rue Minzu, appartiennent tous à la même lignée.
 
-L'ail est sauté pour en libérer l'arôme, les tronçons d'anguille entrent dans la poêle, suivis par les oignons verts, l'oignon blanc, les piments, les assaisonnements, la fécence (勾芡), le vinaigre Wuyin. Le plat est retiré du feu et versé sur les nouilles déjà dressées. Le bruit du _wok hei_ (saisissement à haute température) qui s'élève est le signal que les vieux maîtres utilisent pour juger du feu, à l'oreille, non à la vue.
+L'ail est sauté pour en libérer l'arôme, les morceaux de congre entrent dans la poêle, oignons verts, oignons blancs, piments, assaisonnements, fécile, vinaigre Wuyin, sortie de la poêle, versé sur les nouilles déjà préparées. Le son du « wok hei » (énergie du wok) qui s'élève est ce que le vieux maître utilise pour juger le feu avec ses oreilles, pas ses yeux.
 
-Les nouilles (意麵) sont une variété locale de Tainan. Elles sont frites à demi-cuites pour fixer leur forme, puis plongées dans le bouillon pour absorber la sauce. Leur texture diffère radicalement des nouilles classiques. Le vinaigre Wuyin est indispensable : son équilibre acido-doux reset le palais, permettant de continuer à manger après les graisses et les protéines.
+Les nouilles (yimian) sont une variété locale de Tainan ; frites à demi-cuites pour fixer la forme, elles absorbent la sauce dans le bouillon, offrant une texture complètement différente des nouilles ordinaires. Le vinaigre Wuyin est nécessaire – la finale acide-douce réinitialise le palais, permettant de continuer à manger au stand suivant après les graisses et les protéines.
 
-📝 Note du commissaire : « Sakariba » est la translittération taïwanaise du terme japonais « sakariba » (盛り場), signifiant un marché animé. Ce nom seul indique l'origine du plat : un quartier de rassemblement ouvrier à l'époque coloniale japonaise.
+📝 Note du commissaire : « Shakariba » est la translittération taïwanaise du japonais « sakariba » (盛り場), signifiant un marché animé. Ce nom lui-même explique l'origine des nouilles sautées au congre : un lieu de rassemblement des ouvriers à l'époque de la domination japonaise.
 
-## Cœur de porc d'Ah Ming : la philosophie de l'attente de deux heures
+## Cœur de porc d'A-Ming avec vermicelles de verre : la philosophie de l'attente de deux heures
 
-Filer deux heures en queue pour un bol de vermicelles au cœur de porc peut sembler absurde, mais une seule visite suffit pour comprendre.
+Former une file d'attente de deux heures pour un bol de vermicelles de verre au cœur de porc semble absurde, mais une fois que vous y êtes allé, vous comprenez.
 
-Au 72 rue Bao'an, le stand d'Ah Ming (Huang Xianming) voit son père, autrefois, vendre de la canard à l'angélique (當歸鴨) depuis une charrette. Il se tourna ensuite vers les abats de porc, s'installa rue Bao'an et y travaille depuis soixante-dix ans. Après son inscription au guide Michelin Bib Gourmand en 2022, la file d'attente s'allongea, mais la méthode de fabrication n'a pas changé.
+Le cœur de porc d'A-Ming au 72 rue Bao'an, tenu par Huang Xianming, dont le père vendait autrefois de l'canard aux herbes médicinales à la tirette sur cette rue, puis s'est tourné vers les abats de porc, s'installant sur la rue Bao'an, opérant pendant soixante-dix ans. Après avoir été recommandé par le guide Michelin Bib Gourmand en 2022, la file d'attente est devenue plus longue, mais les méthodes de travail n'ont pas changé.
 
-La technique centrale d'Ah Ming est la cuisson : **au bain-marie**. Le propriétaire dépose des tranches fines de cœur de porc dans de petits gobelets en aluminium, y ajoute un bouillon aux herbes médicinales, et plonge le tout dans une marmite d'eau bouillante. La chaleur pénètre lentement et uniformément de l'extérieur vers l'intérieur — une tendreté homogène, sans odeur de poisson, avec une douce saveur naturelle. Cette méthode ne se presse pas : la précipitation en ferait un autre aliment. La production reste donc limitée ; il faut patienter.
+La technologie centrale d'A-Ming est la méthode de cuisson : **chauffe au bain-marie**. Le propriétaire place les fines tranches de cœur de porc dans de petits gobelets en aluminium, ajoute un bouillon aux herbes médicinales, et place tout le gobelet dans de l'eau bouillante, permettant à la température de pénétrer lentement et uniformément de l'extérieur vers l'intérieur – une tendreté uniforme de l'extérieur à l'intérieur, sans odeur de poisson, avec une douce douceur naturelle. Cette méthode ne peut pas être accélérée ; si on la presse, cela devient autre chose, donc la production est limitée, il faut attendre.
 
-Le cœur, le foie et les abats de porc sont des ingrédients ouvriers, salés et sanguins. Les transformer en un plat sans odeur, ni dureté, mais légèrement sucré relève du savoir-faire culinaire, mais aussi d'un respect élémentaire pour les sous-produits. À Tainan, on ne néglige même pas les abats.
+Le cœur de porc, le foie de porc, les abats de porc sont des ingrédients d'ouvriers, salés, sanguins. Les transformer en un plat non poissonneux, non dur et doux est de l'art culinaire, mais aussi un respect de base pour les ingrédients de rebut. À Tainan, même les abats ne sont pas pris à la légère.
 
-📝 Note du commissaire : La cuisson au bain-marie suit la logique occidentale du bain-marie — laisser la chaleur pénétrer lentement de l'extérieur pour éviter que toute partie ne durcisse par une cuisson directe trop intense. Ah Ming a appliqué cette technique au cœur de porc non par apprentissage, mais par déduction inverse à partir de la nature de l'ingrédient : le cœur de porc nécessite une chauffe uniforme, impossible à obtenir au feu direct.
+📝 Note du commissaire : La chauffe au bain-marie est la logique du bain-marie de la cuisine occidentale – permettant à la chaleur de pénétrer lentement de l'extérieur, sans qu'aucune partie ne devienne dure en raison d'une cuisson directe excessive. A-Ming a appliqué cette technique au cœur de porc, non pas parce qu'il l'a apprise, mais parce qu'il l'a déduite à partir de la nature de l'ingrédient : le cœur de porc nécessite une chaleur uniforme, ce que le feu direct ne peut pas faire.
 
-## Fruiteries : la ponctuation du rythme alimentaire
+## Fruit Shop : les ponctuations du rythme alimentaire
 
-Après le salé, allez acheter un sachet de fruits. Ce n'est pas un conseil touristique, c'est une question de rythme alimentaire.
+Après avoir mangé du salé, allez acheter un sac de fruits. Ce n'est pas un conseil touristique, c'est un rythme alimentaire.
 
-Les étals de fruits de Tainan — ananas, mangue et litchis découpés, tomates cerises au gingembre et sucre — constituent un système complet de reset gustatif. À Tainan, les tomates sont vendues comme des fruits. Le gingembre sucré équilibre le salé et le sucré ; ce n'est pas une bizarrerie, c'est une logique. Les stands de fruits des rues Guohua et Hai'an opèrent généralement tôt le matin ou en fin de journée, intercalés entre le bouillon de bœuf et les nouilles aux anguilles. Ils ne sont pas des desserts, mais la ponctuation entre les paragraphes.
+Les fruiteries de Tainan – ananas, mangue, syzygium cumini tranchés, tomates cerises au gingembre et sucre – constituent un système complet de réinitialisation du palais. Les tomates sont vendues comme fruits à Tainan, le gingembre et le sucre sont un équilibre sucré-salé, ce n'est pas étrange, c'est logique. Les stands de fruits autour des rues Guohua et Hai'an font généralement affaire tôt le matin ou le soir, entre la soupe de bœuf et les nouilles sautées au congre ; ce ne sont pas des desserts, mais des ponctuations entre les paragraphes.
 
-📝 Note du commissaire : Les tomates cerises au gingembre et sucre sont une combinaison alimentaire exclusive à Tainan — l'acidité de la tomate, la chaleur piquante du gingembre en poudre et la douceur du sucre créent une triple stimulation qui nettoie la sensation de gras laissée par le précédent plat bien plus efficacement qu'un simple dessert. Sa raison d'être n'est pas le goût, mais de vous donner envie de passer au stand suivant.
+📝 Note du commissaire : Les tomates cerises au gingembre et sucre sont une combinaison alimentaire unique à Tainan – les tomates sont acides, la poudre de gingembre est piquante et chaude, la poudre de sucre est douce, trois stimulations entrent en bouche simultanément, nettoyant l'effet gras laissé par le stand précédent plus efficacement que le simple fait de manger sucré. La raison de son existence n'est pas qu'il est bon, mais qu'il vous donne envie de manger au stand suivant.
 
-## Les chenaux disparaissent, la manière de manger perdure
+## Les lits de port disparaissent, la façon de manger reste
 
-L'année de l'élargissement de la rue Hai'an, les ouvriers mirent au jour des briques et des fondations de temples de l'époque Qing. Les travaux s'arrêtèrent, le Bureau de la culture intervint. Les reliques sont désormais visibles sous des vitrines transparentes au sol. Lorsque vous marchez dessus, vous fouliez du béton, mais sous vos pieds se trouve un port vieux de quatre cents ans.
+L'année de l'élargissement de la rue Hai'an, les ouvriers ont découvert des briques et des fondations de temples de la dynastie Qing sous terre. Les travaux se sont arrêtés, le Bureau de la culture est intervenu, et les vestiges sont maintenant dans des vitrines transparentes sous la rue. Vous marchez dessus, marchez sur le ciment, et sous vos pieds se trouve un port vieux de quatre cents ans.
 
-Ces chenaux ne reviendront pas. Mais la logique qui consistait à nourrir les ouvriers portuaires — préparer, en un temps record, avec les ingrédients les plus frais, des plats redonnant l'énergie nécessaire au travail — vit toujours aujourd'hui dans chaque bol de bouillon de bœuf servi à 5 h du matin, dans les 27 secondes de saisissement des nouilles aux anguilles, et dans le bain-marie au cœur de porc d'Ah Ming, aussi lent que possible.
+Ces lits de port ne reviendront pas. Mais la logique qui nourrit les ouvriers portuaires – nourrir au plus vite, avec les ingrédients les plus frais, créer quelque chose qui donne la force de continuer à travailler – vit toujours aujourd'hui dans chaque bol de soupe de bœuf à cinq heures du matin, dans le wok hei de 27 secondes des nouilles au congre, dans le cœur de porc au bain-marie d'A-Ming si lent qu'il ne peut pas l'être davantage.
 
-Les spécialités de rue de Tainan ne sont pas simplement des plats délicieux réunis par hasard. Elles constituent le système métabolique d'une ville, qui n'a jamais cessé de fonctionner pendant quatre cents ans.
+Les snacks de Tainan ne sont pas simplement des choses délicieuses qui se sont retrouvées ensemble. C'est le système métabolique d'une ville, qui n'a pas cessé de fonctionner pendant quatre cents ans.
 
 ---
 
 ## Références
 
-- [« Une tradition inventée » ! Quand le bouillon de bœuf est-il devenu l'un des plats représentatifs de Tainan ?](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=105780)
+- [« Tradition inventée » ! Quand la soupe de bœuf est-elle devenue l'un des plats emblématiques de Tainan ?](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=105780)
 - [Cinq Ports (Tainan) — Wikipédia](<https://zh.wikipedia.org/zh-tw/%E4%BA%94%E6%A2%9D%E6%B8%AF_(%E8%87%BA%E5%8D%97)>)
-- [Une histoire de Tainan en mouvement : le milkfish a enrichi les étangs et le matin des habitants de la ville préfectorale — The News Lens](https://www.thenewslens.com/article/131368)
-- [La soupe de poisson thazard et le milkfish de Tainan pourraient provenir d'espèces européennes du XVIIe siècle — CNA](https://www.cna.com.tw/news/acul/202403060184.aspx)
-- [L'origine et les secrets du bouillon de bœuf de Tainan](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81/)
-- [Nouilles aux anguilles — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
-- [Comment le sauté d'anguille peut-il être qualifié de sincère ? — Opinion CW](https://opinion.cw.com.tw/blog/profile/194/article/8595)
-- [Carnet de route à Tainan. L'ancienne spécialité des nouilles aux anguilles ● Sakariba Liao l'Aiguille — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%99%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
-- [Les Cinq Ports de Tainan à l'époque Qing disparaissent : les vieilles rues et les reliques transmettent le patrimoine fluvial — CNA](https://www.cna.com.tw/news/acul/202501260043.aspx)
-- [Culture et carte du bouillon de bœuf de Tainan](https://mytainan.com/tainan-food-drink/tainan-beef-soup/)
-- [Des vermicelles au cœur de porc vendus près de 70 ans à Tainan ! Préparez-vous à faire la queue — ETtoday Travel](https://travel.ettoday.net/article/2931941.htm)
-- [Vermicelles au cœur de porc d'Ah Ming, recommandés par le guide Michelin Bib Gourmand | Le plat le plus attendu de la rue Bao'an — Bonnie dit la gastronomie](https://foodieteller.com/amin-pig-heart/)
+- [Tainan historique marchante : le tilapia a enrichi les étangs à poissons, et a également enrichi le matin et l'estomac des habitants de Fucheng — The News Lens](https://www.thenewslens.com/article/131368)
+- [La soupe de poisson maque de Tainan et le tilapia pourraient provenir d'articles importés d'Europe au XVIIe siècle — CNA](https://www.cna.com.tw/news/acul/202403060184.aspx)
+- [L'origine et les secrets de la soupe de bœuf de Tainan](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81/)
+- [Nouilles sautées au congre — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
+- [Comment les nouilles sautées au congre peuvent-elles être appelées sincères ? — Independent Review @ Tiantxia](https://opinion.cw.com.tw/blog/profile/194/article/8595)
+- [Journal alimentaire Tainan. Ancienne marque de nouilles sautées au congre ● Congre Liao de Shakariba — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
+- [Les Cinq Ports de la dynastie Qing à Tainan ne sont plus visibles, les vieilles rues patrimoniales transmettent le patrimoine fluvial et portuaire — CNA](https://www.cna.com.tw/news/acul/202501260043.aspx)
+- [Culture et carte de la soupe de bœuf de Tainan](https://mytainan.com/tainan-food-drink/tainan-beef-soup/)
+- [Vendu pendant près de 70 ans, les vermicelles de verre au cœur de porc de Tainan la nuit ! Préparez-vous d'abord à faire la queue — ETtoday Travel Cloud](https://travel.ettoday.net/article/2931941.htm)
+- [Cœur de porc d'A-Ming avec vermicelles de verre, recommandé par le guide Michelin Bib Gourmand | Le plat le plus populaire à faire la queue sur la rue Bao'an — Bonnie dit l'histoire de la nourriture](https://foodieteller.com/amin-pig-heart/)
