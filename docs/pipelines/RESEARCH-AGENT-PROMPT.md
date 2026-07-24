@@ -47,6 +47,22 @@ python3 scripts/tools/research-fleet.py digest reports/research/{YYYY-MM}/{slug}
 # 輸出直接可過 agent-report-health.py --claimed {配額}
 ```
 
+**算力軍團委派入口（2026-07-24 晚,Muse 接入 fleet 第七服務）**：本工具已抽象成
+muse-bot 算力軍團的 `research` 服務——不想管參數細節時,一行委派即可：
+
+```bash
+cd ~/Projects/muse-bot/fleet
+./fleetctl run research "查詢字串"                 # = search(快查)
+./fleetctl run research "<URL>" --mode fetch       # = fetch(URL→乾淨全文)
+./fleetctl run research "研究主題" --mode full     # = batch→digest 三段式,報告落 ~/.cache/fleet-research/
+```
+
+fleet 殼多做的一件事：`--mode full` 的 digest fallback 會自動把 `OLLAMA_HOST`/`OLLAMA_MODEL`
+路由到軍團裡一台主權安全的 GPU 節點（gemma4 家族）——OpenRouter 免費層被 babel 打滿 429 時,
+digest 直接落地端 GPU,不會全滅（2026-07-24 深夜實測場景）。canonical 實作仍在本 repo
+`scripts/tools/research-fleet.py`,fleet 只是薄殼委派入口,兩邊不重工。機器側資源清單
+→ `.taiwanmd/MACHINE.local.md` §7 服務軍火庫。
+
 **何時用 Path A（Sonnet agent）vs Path B（fleet script）**：
 
 | 情境                                                            | 用哪個                                                                                             |
