@@ -66,16 +66,27 @@ ZH_ONLY_MARKERS = [
 CJK_RUN_RE = re.compile(r"[一-鿿]{4,}")
 NON_CJK_SCRIPT_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi", "ar", "ru"}
 
-# 括號 gloss 豁免 span：全形（）與半形 () 都認（2026-07-24 前只認半形——
-# zh-TW 源文與模型鏡射的標準標點是全形，整批好譯文被誤判 leak 反覆重翻，
-# nemotron 實測 ~85% "leak" gate-fail 多為此假陽性）。內容上限 30 字：
-# 命名 gloss（人名／機構／書名＋對照拼音）在界內，整句洩漏不會躲在括號裡。
-PAREN_GLOSS_RE = re.compile(r"[(（][^()（）]{0,30}[)）]")
+# ─────────────── 合法保留原文的區域：一份清單，兩個分支共用 ───────────────
+# 2026-07-25 抽出。此前 ja/ko 與非 CJK 兩個分支各自維護一套豁免，一天之內
+# 冒出七個假陽性家族，每個都是「另一邊有、這邊漏了」——括號 gloss 只認半形、
+# ja/ko marker 表含合法日文詞、書名號沒進豁免、ja/ko 漏括號、非 CJK 漏引述。
+# 單看每次都像新的 edge case，看七次才知道病在「清單沒共用」。新增豁免現在
+# 只改這一處（LESSONS 2026-07-25 vc=5）。
+#
+# 共同判準：上限 30 字。命名 gloss、作品名、短引語在界內；整句整段的洩漏
+# 不會剛好躲在括號、書名號或引號裡。
+LEGIT_ZH_SPANS = [
+    re.compile(r"[(（][^()（）]{0,30}[)）]"),        # 命名 gloss：（李安）、(張懸 Deserts Chang)
+    re.compile(r"《[^《》]{0,30}》|〈[^〈〉]{0,30}〉"),  # 作品名：《笠》詩刊、〈小情歌〉
+    re.compile(r"「[^「」]{0,30}」|『[^『』]{0,30}』"),  # 短引語：古文引句、受訪者原話
+]
+PAREN_GLOSS_RE = LEGIT_ZH_SPANS[0]      # 舊名保留，避免外部引用斷掉
+TITLE_BRACKET_RE = LEGIT_ZH_SPANS[1]
 
-# 作品名書名號豁免 span（2026-07-24 第三家族）：《專輯／書名》〈單曲／詩名〉
-# 在任何目標語言保留原文都是正確編輯選擇（蘇打綠〈小情歌〉、《笠》詩刊）。
-# 上限 30 字同 gloss 理由——整句洩漏不會躲在書名號裡。
-TITLE_BRACKET_RE = re.compile(r"《[^《》]{0,30}》|〈[^〈〉]{0,30}〉")
+
+def legit_spans(text: str) -> list:
+    """所有「這裡的中文是編輯選擇不是洩漏」的區間。"""
+    return [m.span() for rx in LEGIT_ZH_SPANS for m in rx.finditer(text)]
 
 
 def detect_lang(path: Path) -> str:
@@ -109,8 +120,7 @@ def scan_file(path: Path, lang: str = None):
         body = re.sub(r"\[[^\]]*\]\([^)]*\)", "", body)          # [text](url)
         body = re.sub(r"^\[\^[^\]]+\]:.*$", "", body, flags=re.MULTILINE)  # [^n]: ...
 
-        gloss_spans = [g.span() for g in PAREN_GLOSS_RE.finditer(body)]
-        gloss_spans += [g.span() for g in TITLE_BRACKET_RE.finditer(body)]
+        gloss_spans = legit_spans(body)
         for m in CJK_RUN_RE.finditer(body):
             start, end = m.span()
             if any(s < start and end < e for s, e in gloss_spans):
@@ -123,13 +133,9 @@ def scan_file(path: Path, lang: str = None):
     #   「…」『…』引述 span — 引用原文 zh 是編輯選擇（陳建仁原話等），非洩漏
     #   《…》〈…〉作品名 — 專輯／書／單曲／詩名保留原文合法
     #   markdown 連結（容忍一層巢狀中括號）— 引用的 zh 標題合法
-    scan = re.sub(r"「[^「」]*」|『[^『』]*』", "", text)
-    scan = TITLE_BRACKET_RE.sub("", scan)
-    # 括號內短內容（2026-07-25 第四家族）：巡演城市列表「上海（夏狂熱 + 你在煩惱
-    # 什麼）」裡的專輯名沒有書名號包，但保留原名同樣是正確編輯選擇。非 CJK 分支
-    # 早有這條豁免，ja/ko 分支漏了。上限 30 字同理——整句洩漏不會躲在括號裡，
-    # 蘇打綠那篇括號外的簡體混入（「就是抗争の载体」「这一次」）照樣被抓到。
-    scan = PAREN_GLOSS_RE.sub("", scan)
+    scan = text
+    for rx in LEGIT_ZH_SPANS:
+        scan = rx.sub("", scan)
     scan = re.sub(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\([^)]*\)", "", scan)
     for marker in ZH_ONLY_MARKERS:
         c = scan.count(marker)
