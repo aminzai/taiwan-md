@@ -1,14 +1,14 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T19:09:10+08:00",
-    "zhCommitHead": "f68fa6db0",
+    "lastUpdated": "2026-07-24T19:17:08+08:00",
+    "zhCommitHead": "b44c49b7b",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
       "en": {
         "total_zh": 862,
-        "fresh": 720,
-        "stale": 91,
+        "fresh": 723,
+        "stale": 88,
         "metadata_stale": 0,
         "missing": 51,
         "orphan": 0
@@ -47,18 +47,18 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 52,
+        "fresh": 47,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 800,
+        "missing": 805,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 56,
-        "stale": 10,
+        "fresh": 60,
+        "stale": 9,
         "metadata_stale": 0,
-        "missing": 796,
+        "missing": 793,
         "orphan": 0
       },
       "pt": {
@@ -25111,7 +25111,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-generations.md",
+          "translatedFrom": "Society/台灣的年級生世代.md",
+          "sourceCommitSha": "805200859",
+          "sourceContentHash": "sha256:1b3e5e3f22f40ead",
+          "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -31104,18 +31115,7 @@
           "reason": "footnote-loss (25→0)"
         },
         "vi": {
-          "path": "vi/About/why-taiwan-needs-its-own-knowledge-base.md",
-          "translatedFrom": "About/為什麼台灣需要自己的知識庫.md",
-          "sourceCommitSha": "b7dd78637",
-          "sourceContentHash": "sha256:20046b0bdaf571de",
-          "sourceBodyHash": "sha256:43aaf2c0f446a093",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -42677,18 +42677,16 @@
         "id": {
           "path": "id/People/zun.md",
           "translatedFrom": "People/尊.md",
-          "sourceCommitSha": "d40e50420",
-          "sourceContentHash": "sha256:7b9715f6662dde5b",
-          "sourceBodyHash": "sha256:4ef1e6ee9b7fee55",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
+          "sourceCommitSha": "16c428cd9",
+          "sourceContentHash": "sha256:94b77718dfa4da62",
+          "sourceBodyHash": "sha256:5579d8d02a3f58ac",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
           "translationLastCommit": "e82fd52f",
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+21 -21"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/zun.md",
@@ -47795,18 +47793,7 @@
           "reason": "footnote-loss (18→9)"
         },
         "vi": {
-          "path": "vi/People/red-shin-minecraft-youtuber.md",
-          "translatedFrom": "People/阿神.md",
-          "sourceCommitSha": "fb7f4f824",
-          "sourceContentHash": "sha256:5d4d8978fc43c7cd",
-          "sourceBodyHash": "sha256:02c4e1b3fececdae",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 18,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -65817,18 +65804,7 @@
           "diffSummary": "+10 -10"
         },
         "vi": {
-          "path": "vi/History/228-incident.md",
-          "translatedFrom": "History/二二八事件.md",
-          "sourceCommitSha": "936ada6c3",
-          "sourceContentHash": "sha256:99bda6e7dc861382",
-          "sourceBodyHash": "sha256:3ffe04bee42caf48",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -67599,18 +67575,7 @@
           "diffSummary": "+2 -1"
         },
         "vi": {
-          "path": "vi/History/taiwan-transitional-justice.md",
-          "translatedFrom": "History/台灣轉型正義.md",
-          "sourceCommitSha": "7c73f6a55",
-          "sourceContentHash": "sha256:c532a9d95ccbcaaf",
-          "sourceBodyHash": "sha256:530ea0ffb4d07e77",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -67726,18 +67691,16 @@
         "en": {
           "path": "en/History/taiwan-railway-history.md",
           "translatedFrom": "History/台灣鐵道史.md",
-          "sourceCommitSha": "bb411ee0",
-          "sourceContentHash": "sha256:045bcc00442a33a7",
-          "sourceBodyHash": "sha256:e1c11d2761783f3b",
-          "translatedAt": "2026-06-16T16:59:03Z",
+          "sourceCommitSha": "0ab600a6e",
+          "sourceContentHash": "sha256:4de14c72bc8f2765",
+          "sourceBodyHash": "sha256:c391ed0c502effad",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+24 -24"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/taiwan-railway-history.md",
@@ -67807,7 +67770,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taiwan-railway-history.md",
+          "translatedFrom": "History/台灣鐵道史.md",
+          "sourceCommitSha": "0ab600a6e",
+          "sourceContentHash": "sha256:4de14c72bc8f2765",
+          "sourceBodyHash": "sha256:c391ed0c502effad",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -75922,18 +75896,7 @@
           "diffSummary": "+5 -5"
         },
         "vi": {
-          "path": "vi/Culture/penghu-folk-culture.md",
-          "translatedFrom": "Culture/澎湖民俗文化.md",
-          "sourceCommitSha": "e004fac37",
-          "sourceContentHash": "sha256:e71b837d32f8708d",
-          "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 12,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -78171,18 +78134,16 @@
         "en": {
           "path": "en/Culture/culinary-class-wars-in-taiwan.md",
           "translatedFrom": "Culture/黑白大廚在台灣.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:31883f60285a57e2",
-          "sourceBodyHash": "sha256:bf7679056e96cbe1",
-          "translatedAt": "2026-06-11T16:38:12Z",
+          "sourceCommitSha": "44bdf7162",
+          "sourceContentHash": "sha256:158a36dc208ac1d9",
+          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "995f1458",
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/culinary-class-wars-in-taiwan.md",
@@ -78250,7 +78211,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/culinary-class-wars-in-taiwan.md",
+          "translatedFrom": "Culture/黑白大廚在台灣.md",
+          "sourceCommitSha": "44bdf7162",
+          "sourceContentHash": "sha256:158a36dc208ac1d9",
+          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -80954,18 +80926,16 @@
         "en": {
           "path": "en/Culture/archipelago-thinking.md",
           "translatedFrom": "Culture/群島思維.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:75c25926a0cdd0a8",
-          "sourceBodyHash": "sha256:02638f04673a14f6",
-          "translatedAt": "2026-05-17T05:06:52+08:00",
+          "sourceCommitSha": "0c0b16686",
+          "sourceContentHash": "sha256:69f8f034dcafc5a6",
+          "sourceBodyHash": "sha256:f5fbc7ca5aa903a2",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -13"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/archipelago-thinking.md",
