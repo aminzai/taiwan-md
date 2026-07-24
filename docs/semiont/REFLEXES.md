@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 82 條 #N 反射（last #82�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.12'
-last_updated: 2026-07-19
-last_session: '2026-07-19-twmd-self-evolve-weekly (#82 加 (e) sensor 生存週期兩端對稱 + #73 加 (e) 外部注意力聚光燈 adjacent 健檢觸發器 兩條 subrule)'
+current_version: 'v5.13'
+last_updated: 2026-07-24
+last_session: '2026-07-24-120515-manual (#68 vc=3→4：外送專法+babel-fleet 雙向互撞再驗，補「知道規則≠當下用上規則」子句)'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -344,7 +344,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 
 - **三階段 SOP**：
   - **開工（隔離 default）**：多檔/build/長任務先 `git worktree add ../YYYYMMDD-task -b YYYYMMDD-task`（commit 污染結構性不可能，#9 升 default）。落地 ff-push 不走 PR：`git fetch && git rebase origin/main && git push origin HEAD:main`（**worktree ≠ PR**，PR 是 GitHub review 層）。`main` 不能同時被兩 worktree checkout。用完 `scripts/tools/worktree-gc.sh` 驗無 uncommitted+unpushed 再刪（哲宇 reminder：不累積滯留，刪前檢查有沒有丟工作）
-  - **commit（範圍）**：只 stage 任務範疇檔，禁 `git add .`/`-A`（#6 #42）。前後跑 `scripts/tools/lib/verify-commit-scope.sh --staged/--head <N>` 驗檔數 + phantom-delete，不信 exit 0。**禁 `--no-verify` 繞 husky stash race**（MANIFESTO §禁忌一）— stash 範圍要縮到 staged-only，不可吞 sibling working-tree 檔（vc=2 根因）。**平行 session 共享 index 時用 pathspec commit**（vc=3，2026-07-11 夜班雙證）：`git add <files>` 後 bare `git commit` 仍會 commit **所有** staged 檔——sibling session 先 stage 的檔會被你的 commit 掃走掛你的 SHA。解法：`git commit -o <file>...`（`--only`，只 commit 指名 pathspec 無視其他 staged）或 `git commit -- <file>`。7/11 夜班連兩 commit 掃走 terminology session 的 renamed yaml + inbox append（內容沒丟但錯 SHA），改 pathspec 後止血
+  - **commit（範圍）**：只 stage 任務範疇檔，禁 `git add .`/`-A`（#6 #42）。前後跑 `scripts/tools/lib/verify-commit-scope.sh --staged/--head <N>` 驗檔數 + phantom-delete，不信 exit 0。**禁 `--no-verify` 繞 husky stash race**（MANIFESTO §禁忌一）— stash 範圍要縮到 staged-only，不可吞 sibling working-tree 檔（vc=2 根因）。**平行 session 共享 index 時用 pathspec commit**（vc=4，2026-07-24 外送專法+babel-fleet 三度互撞再驗）：`git add <files>` 後 bare `git commit` 仍會 commit **所有** staged 檔——sibling session 先 stage 的檔會被你的 commit 掃走掛你的 SHA。解法：`git commit -o <file>...`（`--only`，只 commit 指名 pathspec 無視其他 staged）或 `git commit -- <file>`。7/11 夜班連兩 commit 掃走 terminology session 的 renamed yaml + inbox append（內容沒丟但錯 SHA），改 pathspec 後止血。**7/24 再驗**：同一 session 內雙向各撞兩次（memory 檔＋MEMORY.md 索引被 babel-fleet session 的 commit 掃走、反向也發生一次），`verify-commit-scope.sh` 是**收尾驗證**不是**預防**——真正擋下的是 `git commit --only`，但第三次仍先用了 bare `git commit` 才踩雷，證實「知道規則」與「當下用上規則」是兩件事，高頻並行場景應把 `--only` 設成 commit 的預設反射而非事後補救
   - **push（批次+CI）**：告一個階段才 push（完整單元：一篇 ship / 一 stage 完 / 一工具+測試），不推中間產物。`.husky/pre-push` 跑 `check-parallel-actor.sh`：REMOTE_AHEAD → rebase（避 ref-lock reject）；in-flight deploy 已跑 >70% 典型時長（**校準：success≈350s，門檻 245s**）→ 等它完不白白觸發取消；`gh` 不可用 → fail-loud 但放行
 - **保留 cancel-in-progress: true**（哲宇拍板 latest-wins）+ pre-push 查 in-flight CI（`gh run list` 看 GitHub 上 run，跨機器都看得到）。path-filter 是選配 §架構解（純機械 commit 不觸發 deploy）未採用
 - **Boundary**：(a) 純對話 / 1-行 micro-fix 可留主 dir（仍守 commit 範圍）(b) pre-push hook 是 local，`--no-verify` 仍可繞 — 真正物理隔離是 worktree (c) `check-parallel-actor.sh` 的 pgrep/lsof 抓同機 process，抓不到別機器本地未 push 工作（分散式物理邊界）
