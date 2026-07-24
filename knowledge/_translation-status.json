@@ -1,80 +1,80 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-23T21:39:47+08:00",
-    "zhCommitHead": "ecf5d6d8e",
-    "totalZh": 853,
+    "lastUpdated": "2026-07-24T10:06:25+08:00",
+    "zhCommitHead": "9c571e203",
+    "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
       "en": {
-        "total_zh": 853,
-        "fresh": 682,
-        "stale": 171,
+        "total_zh": 862,
+        "fresh": 690,
+        "stale": 172,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 853,
-        "fresh": 687,
-        "stale": 166,
+        "total_zh": 862,
+        "fresh": 695,
+        "stale": 167,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 853,
-        "fresh": 688,
-        "stale": 165,
+        "total_zh": 862,
+        "fresh": 696,
+        "stale": 166,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "es": {
-        "total_zh": 853,
-        "fresh": 688,
-        "stale": 165,
+        "total_zh": 862,
+        "fresh": 696,
+        "stale": 166,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 853,
-        "fresh": 688,
-        "stale": 165,
+        "total_zh": 862,
+        "fresh": 696,
+        "stale": 166,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 853,
+        "total_zh": 862,
         "fresh": 38,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 799,
+        "missing": 808,
         "orphan": 0
       },
       "id": {
-        "total_zh": 853,
+        "total_zh": 862,
         "fresh": 36,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 801,
+        "missing": 810,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 853,
+        "total_zh": 862,
         "fresh": 38,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 799,
+        "missing": 808,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 853,
+        "total_zh": 862,
         "fresh": 36,
         "stale": 13,
         "metadata_stale": 0,
-        "missing": 804,
+        "missing": 813,
         "orphan": 0
       }
     },
@@ -5856,6 +5856,98 @@
         }
       }
     },
+    "Economy/萊爾富.md": {
+      "zh": {
+        "lastCommit": "1b3c22ac",
+        "lastModified": "2026-07-23T22:05:31+08:00",
+        "contentHash": "sha256:16de3ef9123d401b",
+        "bodyHash": "sha256:1db4b0d8639cd770"
+      },
+      "translations": {
+        "en": {
+          "path": "en/Economy/hilife-convenience-store.md",
+          "translatedFrom": "Economy/萊爾富.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:16de3ef9123d401b",
+          "sourceBodyHash": "sha256:1db4b0d8639cd770",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ja": {
+          "path": "ja/Economy/hilife-convenience-store.md",
+          "translatedFrom": "Economy/萊爾富.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:16de3ef9123d401b",
+          "sourceBodyHash": "sha256:1db4b0d8639cd770",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ko": {
+          "path": "ko/Economy/hilife-convenience-store.md",
+          "translatedFrom": "Economy/萊爾富.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:16de3ef9123d401b",
+          "sourceBodyHash": "sha256:1db4b0d8639cd770",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "es": {
+          "path": "es/Economy/hilife-convenience-store.md",
+          "translatedFrom": "Economy/萊爾富.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:16de3ef9123d401b",
+          "sourceBodyHash": "sha256:1db4b0d8639cd770",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/Economy/hilife-convenience-store.md",
+          "translatedFrom": "Economy/萊爾富.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:16de3ef9123d401b",
+          "sourceBodyHash": "sha256:1db4b0d8639cd770",
+          "translatedAt": "2026-07-23T23:06:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        }
+      }
+    },
     "Economy/新創生態系.md": {
       "zh": {
         "lastCommit": "cfaa22a5",
@@ -8342,6 +8434,98 @@
         }
       }
     },
+    "Economy/紡織業.md": {
+      "zh": {
+        "lastCommit": "1b3c22ac",
+        "lastModified": "2026-07-23T22:05:31+08:00",
+        "contentHash": "sha256:35a33cde93fda77c",
+        "bodyHash": "sha256:3e72d2709a13a90b"
+      },
+      "translations": {
+        "en": {
+          "path": "en/Economy/taiwan-textile-industry.md",
+          "translatedFrom": "Economy/紡織業.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:35a33cde93fda77c",
+          "sourceBodyHash": "sha256:3e72d2709a13a90b",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ja": {
+          "path": "ja/Economy/taiwan-textile-industry.md",
+          "translatedFrom": "Economy/紡織業.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:35a33cde93fda77c",
+          "sourceBodyHash": "sha256:3e72d2709a13a90b",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ko": {
+          "path": "ko/Economy/taiwan-textile-industry.md",
+          "translatedFrom": "Economy/紡織業.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:35a33cde93fda77c",
+          "sourceBodyHash": "sha256:3e72d2709a13a90b",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "es": {
+          "path": "es/Economy/taiwan-textile-industry.md",
+          "translatedFrom": "Economy/紡織業.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:35a33cde93fda77c",
+          "sourceBodyHash": "sha256:3e72d2709a13a90b",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/Economy/taiwan-textile-industry.md",
+          "translatedFrom": "Economy/紡織業.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:35a33cde93fda77c",
+          "sourceBodyHash": "sha256:3e72d2709a13a90b",
+          "translatedAt": "2026-07-23T23:06:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        }
+      }
+    },
     "Economy/台灣企業：華碩.md": {
       "zh": {
         "lastCommit": "ccee078e",
@@ -9021,6 +9205,98 @@
           "footnoteDefs": 5,
           "status": "stale",
           "reason": "footnote-loss (56→5)"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        }
+      }
+    },
+    "Economy/NET.md": {
+      "zh": {
+        "lastCommit": "1b3c22ac",
+        "lastModified": "2026-07-23T22:05:31+08:00",
+        "contentHash": "sha256:34ffbb88716e1c90",
+        "bodyHash": "sha256:401833a7ed0b48dd"
+      },
+      "translations": {
+        "en": {
+          "path": "en/Economy/net-night-economy-tourism.md",
+          "translatedFrom": "Economy/NET.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:34ffbb88716e1c90",
+          "sourceBodyHash": "sha256:401833a7ed0b48dd",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ja": {
+          "path": "ja/Economy/net-night-economy-tourism.md",
+          "translatedFrom": "Economy/NET.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:34ffbb88716e1c90",
+          "sourceBodyHash": "sha256:401833a7ed0b48dd",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ko": {
+          "path": "ko/Economy/net-night-economy-tourism.md",
+          "translatedFrom": "Economy/NET.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:34ffbb88716e1c90",
+          "sourceBodyHash": "sha256:401833a7ed0b48dd",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "es": {
+          "path": "es/Economy/net-night-economy-tourism.md",
+          "translatedFrom": "Economy/NET.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:34ffbb88716e1c90",
+          "sourceBodyHash": "sha256:401833a7ed0b48dd",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/Economy/net-night-economy-tourism.md",
+          "translatedFrom": "Economy/NET.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:34ffbb88716e1c90",
+          "sourceBodyHash": "sha256:401833a7ed0b48dd",
+          "translatedAt": "2026-07-23T23:06:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -13677,6 +13953,98 @@
           "translationLastModified": "2026-07-18T19:07:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        }
+      }
+    },
+    "Technology/台灣教師與AI教學.md": {
+      "zh": {
+        "lastCommit": "d95fa964",
+        "lastModified": "2026-07-23T21:57:32+08:00",
+        "contentHash": "sha256:6a85130bd9bb91b0",
+        "bodyHash": "sha256:01e8abe40e264468"
+      },
+      "translations": {
+        "en": {
+          "path": "en/Technology/taiwan-teachers-and-ai-education.md",
+          "translatedFrom": "Technology/台灣教師與AI教學.md",
+          "sourceCommitSha": "d95fa9648",
+          "sourceContentHash": "sha256:6a85130bd9bb91b0",
+          "sourceBodyHash": "sha256:01e8abe40e264468",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ja": {
+          "path": "ja/Technology/taiwan-teachers-and-ai-education.md",
+          "translatedFrom": "Technology/台灣教師與AI教學.md",
+          "sourceCommitSha": "d95fa9648",
+          "sourceContentHash": "sha256:6a85130bd9bb91b0",
+          "sourceBodyHash": "sha256:01e8abe40e264468",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ko": {
+          "path": "ko/Technology/taiwan-teachers-and-ai-education.md",
+          "translatedFrom": "Technology/台灣教師與AI教學.md",
+          "sourceCommitSha": "d95fa9648",
+          "sourceContentHash": "sha256:6a85130bd9bb91b0",
+          "sourceBodyHash": "sha256:01e8abe40e264468",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "es": {
+          "path": "es/Technology/taiwan-teachers-and-ai-education.md",
+          "translatedFrom": "Technology/台灣教師與AI教學.md",
+          "sourceCommitSha": "d95fa9648",
+          "sourceContentHash": "sha256:6a85130bd9bb91b0",
+          "sourceBodyHash": "sha256:01e8abe40e264468",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/Technology/taiwan-teachers-and-ai-education.md",
+          "translatedFrom": "Technology/台灣教師與AI教學.md",
+          "sourceCommitSha": "d95fa9648",
+          "sourceContentHash": "sha256:6a85130bd9bb91b0",
+          "sourceBodyHash": "sha256:01e8abe40e264468",
+          "translatedAt": "2026-07-23T23:06:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
           "status": "fresh",
           "reason": "same-commit"
         },
@@ -24737,6 +25105,98 @@
           "translationLastModified": "2026-06-07T05:26:41+08:00",
           "inferred": false,
           "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        }
+      }
+    },
+    "Society/當兵.md": {
+      "zh": {
+        "lastCommit": "1b3c22ac",
+        "lastModified": "2026-07-23T22:05:31+08:00",
+        "contentHash": "sha256:58596add4d279eb3",
+        "bodyHash": "sha256:a4a1f732b1aecff8"
+      },
+      "translations": {
+        "en": {
+          "path": "en/Society/military-service-in-taiwan.md",
+          "translatedFrom": "Society/當兵.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:58596add4d279eb3",
+          "sourceBodyHash": "sha256:a4a1f732b1aecff8",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ja": {
+          "path": "ja/Society/military-service-in-taiwan.md",
+          "translatedFrom": "Society/當兵.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:58596add4d279eb3",
+          "sourceBodyHash": "sha256:a4a1f732b1aecff8",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ko": {
+          "path": "ko/Society/military-service-in-taiwan.md",
+          "translatedFrom": "Society/當兵.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:58596add4d279eb3",
+          "sourceBodyHash": "sha256:a4a1f732b1aecff8",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "es": {
+          "path": "es/Society/military-service-in-taiwan.md",
+          "translatedFrom": "Society/當兵.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:58596add4d279eb3",
+          "sourceBodyHash": "sha256:a4a1f732b1aecff8",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/Society/military-service-in-taiwan.md",
+          "translatedFrom": "Society/當兵.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:58596add4d279eb3",
+          "sourceBodyHash": "sha256:a4a1f732b1aecff8",
+          "translatedAt": "2026-07-23T23:06:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
           "status": "fresh",
           "reason": "same-commit"
         },
@@ -66039,6 +66499,98 @@
         }
       }
     },
+    "History/牡丹社事件.md": {
+      "zh": {
+        "lastCommit": "1b3c22ac",
+        "lastModified": "2026-07-23T22:05:31+08:00",
+        "contentHash": "sha256:91f467d8cc029b74",
+        "bodyHash": "sha256:1f92c860af97938e"
+      },
+      "translations": {
+        "en": {
+          "path": "en/History/mudan-incident.md",
+          "translatedFrom": "History/牡丹社事件.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:91f467d8cc029b74",
+          "sourceBodyHash": "sha256:1f92c860af97938e",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ja": {
+          "path": "ja/History/mudan-incident.md",
+          "translatedFrom": "History/牡丹社事件.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:91f467d8cc029b74",
+          "sourceBodyHash": "sha256:1f92c860af97938e",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ko": {
+          "path": "ko/History/mudan-incident.md",
+          "translatedFrom": "History/牡丹社事件.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:91f467d8cc029b74",
+          "sourceBodyHash": "sha256:1f92c860af97938e",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "es": {
+          "path": "es/History/mudan-incident.md",
+          "translatedFrom": "History/牡丹社事件.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:91f467d8cc029b74",
+          "sourceBodyHash": "sha256:1f92c860af97938e",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/History/mudan-incident.md",
+          "translatedFrom": "History/牡丹社事件.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:91f467d8cc029b74",
+          "sourceBodyHash": "sha256:1f92c860af97938e",
+          "translatedAt": "2026-07-23T23:06:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        }
+      }
+    },
     "History/十大建設.md": {
       "zh": {
         "lastCommit": "9ecd20d6",
@@ -68945,6 +69497,98 @@
           "translationLastModified": "2026-05-25T05:47:24+08:00",
           "inferred": false,
           "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        }
+      }
+    },
+    "History/台灣與北朝鮮關係.md": {
+      "zh": {
+        "lastCommit": "1b3c22ac",
+        "lastModified": "2026-07-23T22:05:31+08:00",
+        "contentHash": "sha256:2a45417c9b5c2cf0",
+        "bodyHash": "sha256:4dc13793ac08242f"
+      },
+      "translations": {
+        "en": {
+          "path": "en/History/taiwan-north-korea-relations.md",
+          "translatedFrom": "History/台灣與北朝鮮關係.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:2a45417c9b5c2cf0",
+          "sourceBodyHash": "sha256:4dc13793ac08242f",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ja": {
+          "path": "ja/History/taiwan-north-korea-relations.md",
+          "translatedFrom": "History/台灣與北朝鮮關係.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:2a45417c9b5c2cf0",
+          "sourceBodyHash": "sha256:4dc13793ac08242f",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ko": {
+          "path": "ko/History/taiwan-north-korea-relations.md",
+          "translatedFrom": "History/台灣與北朝鮮關係.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:2a45417c9b5c2cf0",
+          "sourceBodyHash": "sha256:4dc13793ac08242f",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "es": {
+          "path": "es/History/taiwan-north-korea-relations.md",
+          "translatedFrom": "History/台灣與北朝鮮關係.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:2a45417c9b5c2cf0",
+          "sourceBodyHash": "sha256:4dc13793ac08242f",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/History/taiwan-north-korea-relations.md",
+          "translatedFrom": "History/台灣與北朝鮮關係.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:2a45417c9b5c2cf0",
+          "sourceBodyHash": "sha256:4dc13793ac08242f",
+          "translatedAt": "2026-07-23T23:06:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
           "status": "fresh",
           "reason": "same-commit"
         },
@@ -78998,6 +79642,98 @@
         }
       }
     },
+    "Culture/農曆七月.md": {
+      "zh": {
+        "lastCommit": "1b3c22ac",
+        "lastModified": "2026-07-23T22:05:31+08:00",
+        "contentHash": "sha256:44ea24edbaea3139",
+        "bodyHash": "sha256:80374ac8eaee4681"
+      },
+      "translations": {
+        "en": {
+          "path": "en/Culture/lunar-july-ghost-month.md",
+          "translatedFrom": "Culture/農曆七月.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:44ea24edbaea3139",
+          "sourceBodyHash": "sha256:80374ac8eaee4681",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ja": {
+          "path": "ja/Culture/lunar-july-ghost-month.md",
+          "translatedFrom": "Culture/農曆七月.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:44ea24edbaea3139",
+          "sourceBodyHash": "sha256:80374ac8eaee4681",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ko": {
+          "path": "ko/Culture/lunar-july-ghost-month.md",
+          "translatedFrom": "Culture/農曆七月.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:44ea24edbaea3139",
+          "sourceBodyHash": "sha256:80374ac8eaee4681",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "es": {
+          "path": "es/Culture/lunar-july-ghost-month.md",
+          "translatedFrom": "Culture/農曆七月.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:44ea24edbaea3139",
+          "sourceBodyHash": "sha256:80374ac8eaee4681",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/Culture/lunar-july-ghost-month.md",
+          "translatedFrom": "Culture/農曆七月.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:44ea24edbaea3139",
+          "sourceBodyHash": "sha256:80374ac8eaee4681",
+          "translatedAt": "2026-07-23T23:06:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        }
+      }
+    },
     "Culture/台灣獸迷文化.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -81194,10 +81930,10 @@
     },
     "Culture/台灣迷因.md": {
       "zh": {
-        "lastCommit": "f99a9959",
-        "lastModified": "2026-05-07T12:53:11+08:00",
-        "contentHash": "sha256:b8e2ae4ba4b5e3d9",
-        "bodyHash": "sha256:971e379fee29d9f0"
+        "lastCommit": "1b3c22ac",
+        "lastModified": "2026-07-23T22:05:31+08:00",
+        "contentHash": "sha256:21f968d51e24c095",
+        "bodyHash": "sha256:758baf07e7746d38"
       },
       "translations": {
         "en": {
@@ -81211,8 +81947,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→0)"
         },
         "ja": {
           "path": "ja/Culture/taiwan-meme-culture.md",
@@ -81225,8 +81961,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→0)"
         },
         "ko": {
           "path": "ko/Culture/taiwan-meme-culture.md",
@@ -81239,8 +81975,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→0)"
         },
         "es": {
           "path": "es/Culture/taiwan-meme-culture.md",
@@ -81253,8 +81989,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→0)"
         },
         "fr": {
           "path": "fr/Culture/taiwan-meme-culture.md",
@@ -81267,8 +82003,8 @@
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→0)"
         },
         "vi": {
           "status": "missing"
@@ -82091,6 +82827,98 @@
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        }
+      }
+    },
+    "Culture/中元節.md": {
+      "zh": {
+        "lastCommit": "1b3c22ac",
+        "lastModified": "2026-07-23T22:05:31+08:00",
+        "contentHash": "sha256:92d21a8f6666e1c2",
+        "bodyHash": "sha256:036fefb83f0557fd"
+      },
+      "translations": {
+        "en": {
+          "path": "en/Culture/ghost-festival-zhongyuan.md",
+          "translatedFrom": "Culture/中元節.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:92d21a8f666e1c2",
+          "sourceBodyHash": "sha256:036fefb83f0557fd",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ja": {
+          "path": "ja/Culture/ghost-festival-zhongyuan.md",
+          "translatedFrom": "Culture/中元節.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:92d21a8f6666e1c2",
+          "sourceBodyHash": "sha256:036fefb83f0557fd",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "ko": {
+          "path": "ko/Culture/ghost-festival-zhongyuan.md",
+          "translatedFrom": "Culture/中元節.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:92d21a8f6666e1c2",
+          "sourceBodyHash": "sha256:036fefb83f0557fd",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "es": {
+          "path": "es/Culture/ghost-festival-zhongyuan.md",
+          "translatedFrom": "Culture/中元節.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:92d21a8f6666e1c2",
+          "sourceBodyHash": "sha256:036fefb83f0557fd",
+          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
+        },
+        "fr": {
+          "path": "fr/Culture/ghost-festival-zhongyuan.md",
+          "translatedFrom": "Culture/中元節.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:92d21a8f6666e1c2",
+          "sourceBodyHash": "sha256:036fefb83f0557fd",
+          "translatedAt": "2026-07-23T23:06:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
           "status": "fresh",
           "reason": "same-commit"
         },
