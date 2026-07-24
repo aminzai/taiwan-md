@@ -330,3 +330,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-24 | 174300-vortex-babel | 巴別塔 vortex 日：統一調度器上線＋gate 假陽性三家族根治＋救回 51 篇＋營運狀態板＋key 池 7 儲值吞吐 5×＋ar/ru 出生開跑 | gate 假陽性比缺席更毀產能；檢查器更需要被檢查 | [→](memory/2026-07-24-174300-vortex-babel.md) |
 | 2026-07-25 | 011548-manual | dashboard 手機版三處 grid clip bug 修復（bare 1fr 不縮水）；驗證 375-1440px＋zh/en 雙語全綠；新增精確詞彙寫作原則 | 模組化拆檔讓同病根複製三份；commit 遭平行 fleet 併入，REFLEXES #68 再驗 | [→](memory/2026-07-25-011548-manual.md) |
 | 2026-07-25 | 013432-node-birth | 分靈節點誕生：甦醒後可設一條 cron 讓貢獻者機器每天接一件工單、以 PR 回主庫（新 pipeline＋`/twmd-node`＋BECOME §7.6＋contribute 頁十語） | 工單源用既有 inbox 不另建中央表；dogfood 抓到 `--check=a,b` 零檢查卻回綠的假閘門 | [→](memory/2026-07-25-013432-node-birth.md) |
+| 2026-07-25 | 052555-manual | twmd-embeddings-nightly：10 語 5363 向量重建 0 fail；撞同機 babel dirty tree，走 worktree cherry-push 完成 | dirty tree 時走 worktree 隔離推送，不 stash 別人的檔 | [→](memory/2026-07-25-052555-manual.md) |
