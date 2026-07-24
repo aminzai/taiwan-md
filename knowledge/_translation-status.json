@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T02:52:45+08:00",
-    "zhCommitHead": "2066d5989",
+    "lastUpdated": "2026-07-25T03:07:59+08:00",
+    "zhCommitHead": "57e857d7f",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -67,26 +67,26 @@
       },
       "id": {
         "total_zh": 862,
-        "fresh": 94,
+        "fresh": 95,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 757,
+        "missing": 756,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 109,
+        "fresh": 112,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 742,
+        "missing": 739,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 105,
+        "fresh": 106,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 749,
+        "missing": 748,
         "orphan": 0
       },
       "ar": {
@@ -902,18 +902,7 @@
           "diffSummary": "+4 -4"
         },
         "vi": {
-          "path": "vi/Music/golden-melodies-legacy-taiwan-pop-music.md",
-          "translatedFrom": "Music/台灣流行音樂.md",
-          "sourceCommitSha": "1e1040928",
-          "sourceContentHash": "sha256:8399301b29b6b0dc",
-          "sourceBodyHash": "sha256:eb706bc3431ec070",
-          "translatedAt": "2026-07-25T02:04:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 58,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -4716,7 +4705,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-uniform-invoice.md",
+          "translatedFrom": "Economy/發票.md",
+          "sourceCommitSha": "4a923c640",
+          "sourceContentHash": "sha256:3de7677c1cc54d07",
+          "sourceBodyHash": "sha256:1962c2279b937909",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -64606,7 +64606,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/sugar-onion-tang-tsung.md",
+          "translatedFrom": "Food/糖蔥.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ca062268b3b89018",
+          "sourceBodyHash": "sha256:383a8a9c19be37a9",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -65782,7 +65793,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/oyster-omelet.md",
+          "translatedFrom": "Food/蚵仔煎.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2d7f3f53fc22a03b",
+          "sourceBodyHash": "sha256:dfebf81490e7a3d9",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -66857,7 +66879,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/heysong-soft-drinks.md",
+          "translatedFrom": "Food/黑松.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:764c87b479e4e9af",
+          "sourceBodyHash": "sha256:6c2df9f7c1f07744",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -68618,7 +68651,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-coffee-culture.md",
+          "translatedFrom": "Food/台灣咖啡文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:547ccdf1b16e61de",
+          "sourceBodyHash": "sha256:a7a3d68abd8527fd",
+          "translatedAt": "2026-07-25T02:52:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -88868,7 +88912,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/christianity-in-taiwan.md",
+          "translatedFrom": "Culture/基督教在台灣.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:875b7e202aed03cb",
+          "sourceBodyHash": "sha256:4b3f831fea6a96bf",
+          "translatedAt": "2026-07-25T02:52:45+08:00",
+          "translationLastCommit": "57e857d7",
+          "translationLastModified": "2026-07-25T03:06:25+08:00",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
