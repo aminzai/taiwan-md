@@ -1,6 +1,6 @@
 ---
-title: 'Cine nacional de Taiwán: la persona que hablaba junto a la pantalla y una historia del cine que murió y volvió a vivir'
-description: 'En una sala de cine de 1930, el benshi estaba de pie junto a la pantalla e improvisaba en taiwanés los diálogos de las películas mudas; noventa años después, Cape No. 7 hizo que cinco lenguas volvieran juntas a la pantalla. El cine en taiwanés llegó a convertir a Taiwán en el tercer mayor productor mundial de largometrajes de ficción, pero fue asfixiado; en los años en que el Nuevo Cine ganaba el León de Oro en Venecia, la taquilla del cine nacional en las salas había caído hasta apenas 0,36%. El cine nacional no es una línea recta que va de malo a bueno: es una historia declarada muerta una y otra vez, y que una y otra vez volvió a vivir.'
+title: 'El cine nacional de Taiwán: La persona que hablaba junto a la pantalla y una historia cinematográfica que murió y renació'
+description: 'En 1930, en los cines, un narrador (benshi) se paraba junto a la pantalla para improvisar diálogos en taiwanés para las películas mudas; noventa años después, "Cape No. 7" hizo que cinco idiomas volvieran juntos a la pantalla. El cine en taiwanés fue una vez el tercer mayor productor de largometrajes del mundo, pero fue estrangulado; en los años en que el "Nuevo Cine" ganaba el León de Oro en Venecia, la cuota de taquilla de las películas nacionales en los cines cayó a solo el 0,36 %. El cine nacional no es una línea recta que va de malo a bueno, es una historia que fue declarada muerta y renació repetidamente.'
 date: 2026-03-23
 author: 'Taiwan.md'
 category: 'Art'
@@ -9,430 +9,431 @@ tags:
   [
     'cine',
     'cine en taiwanés',
-    'Nuevo Cine Taiwanés',
+    'Nuevo Cine de Taiwán',
     'Hou Hsiao-hsien',
     'Edward Yang',
     'Tsai Ming-liang',
     'Ang Lee',
     'Wei Te-sheng',
     'Cape No. 7',
-    'Premios Golden Horse',
+    'Golden Horse Awards',
   ]
-readingTime: 18
-lastVerified: 2026-06-13
-lastHumanReview: false
-featured: true
+readingTime: '18'
+lastVerified: '2026-06-13'
+lastHumanReview: 'false'
+featured: 'true'
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'd520299b'
-sourceContentHash: 'sha256:83c16fc3741fa4e4'
-sourceBodyHash: 'sha256:f474d40c72f846a7'
-translatedAt: '2026-07-06'
+sourceCommitSha: 'cc6f9d9b3'
+sourceContentHash: 'sha256:b60bd097d9577c55'
+sourceBodyHash: 'sha256:9c00635e5ed9da36'
+translatedAt: '2026-07-24T10:40:42+08:00'
 image: '/article-images/art/tsai-ming-liang-lee-kang-sheng.webp'
 imageCredit: 'hinnk'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 ---
 
-# Cine nacional de Taiwán: la persona que hablaba junto a la pantalla y una historia del cine que murió y volvió a vivir
+# El cine nacional de Taiwán: La persona que hablaba junto a la pantalla y una historia cinematográfica que murió y renació
 
-> **Resumen en 30 segundos:** el cine nacional fue declarado muerto al menos tres veces: la edad dorada del cine en taiwanés fue asfixiada, el público local abandonó las salas después del Nuevo Cine y, en 2003, la taquilla del cine nacional representaba apenas el 0,36% del total de Taiwán. Cada vez volvió a vivir, y cada una de esas muertes y resurrecciones giró alrededor de la misma pregunta: qué Taiwán debía hablar en la pantalla y en qué lengua. Desde los benshi que improvisaban en taiwanés en las salas de cine de la década de 1930, pasando por Xue Pinggui and Wang Baochuan, que en 1956 desató más de mil películas en taiwanés; por Hou Hsiao-hsien, Edward Yang y Tsai Ming-liang ganando grandes premios en festivales europeos; por Ang Lee subiendo dos veces al escenario de los Óscar; hasta Wei Te-sheng filmando en 2008 Cape No. 7, una película de 530 millones con cinco lenguas: esta no es una línea recta que va de malo a bueno. Es la historia de cómo Taiwán recuperó una y otra vez el derecho a “usar sus propias lenguas y poner sus propios rostros” en la pantalla.
+> **Resumen en 30 segundos:** El cine nacional fue declarado muerto al menos tres veces: la era dorada del cine en taiwanés fue estrangulada por políticas; después del Nuevo Cine, el público local se alejó; en 2003, la cuota de taquilla de las películas nacionales representaba solo el 0,36 % de todo el país. Cada vez renació, y cada muerte y renacimiento giró en torno a la misma pregunta: ¿qué taiwanés debería aparecer en la pantalla y en qué idioma? Desde el _benshi_ (narrador) que improvisaba en taiwanés en los cines de la década de 1930, hasta _Xue Pinggui y Wang Baochuan_ en 1956 que detonó miles de películas en taiwanés, hasta Hou Hsiao-hsien, Edward Yang y Tsai Ming-liang ganando grandes premios en festivales europeos, y Ang Lee alcanzando el Oscar dos veces, hasta Wei Te-sheng usando cinco idiomas para lograr 530 millones de taquillas con _Cape No. 7_ en 2008... Esta no es una línea recta de malo a bueno, es la historia de Taiwán recuperando repetidamente "usar su propio idioma y representar sus propios rostros".
 
-En una sala de cine de Taiwán en 1930, las personas en la pantalla no hablaban. La persona junto a la pantalla sí.
+En los cines de Taiwán en 1930, las personas en la pantalla no hablaban, pero la persona al lado de la pantalla sí lo hacía.
 
-Se llamaba benshi. A mitad de la proyección, se paraba al borde del telón y, en taiwanés, iba improvisando para el público la trama de la película muda, los pensamientos de los personajes e incluso sus propias opiniones sobre la situación política. Ese año había unos sesenta benshi en todo Taiwán: cuarenta y uno japoneses y diecinueve taiwaneses; cada uno debía aprobar un examen de la sección policial para poder ejercer[^1]. El famosísimo Chan Tian-ma narraba Kurama Tengu en Dadaocheng ante una sala llena; Lu Ping-ting, de la Asociación Cultural, explicaba North Pole Expedition en Chiayi, y mientras hablaba intercaló comentarios políticos, por lo que la policía japonesa interrumpió la función en el acto[^2].
+Se llamaba _benshi_ (narrador). A mitad de la película, se paraba al borde del telón y le contaba al público, una por una, la trama de la película muda, los pensamientos de los personajes e incluso sus propias opiniones sobre la situación política, improvisando en taiwanés. Ese año, había aproximadamente sesenta _benshi_ en todo el país: cuarenta y uno eran de nacionalidad japonesa y diecinueve taiwaneses; cada uno debía aprobar el examen de la oficina de policía para ejercer la profesión[^1]. El más famoso, Zhan Tianma, narraba _The Adventures of Kurama Tengu_ en Dadouci, donde el teatro estaba lleno de gente; Lu Bingding de la Asociación Cultural explicaba _La expedición al Ártico_ en Chiayi, pero al incluir comentarios políticos en su narración, la policía japonesa lo detuvo in situ[^2].
 
-Esa fue la primera voz del cine taiwanés: no estaba en el celuloide, sino en la boca de una persona viva. Y esa voz hablaba taiwanés.
+Ese fue el sonido más antiguo del cine de Taiwán, no en la película, sino en la boca de una persona viva. Y ese sonido hablaba en taiwanés.
 
-La historia del propio celuloide, desde el comienzo, tampoco perteneció por completo a los taiwaneses. En 1925, Liu Hsi-yang llevó a la Taiwan Film Research Association a producir Whose Fault Is It?, considerada el primer largometraje de ficción realizado por taiwaneses[^70]. Pero en 1943, Sayon’s Bell, impulsada por el gobierno colonial y protagonizada por la estrella Li Hsiang-lan, convirtió el hecho real de una joven Atayal que se ahogó en una película de propaganda de kominka, la política de “japonización imperial”, destinada a convocar a la juventud indígena a servir a Japón[^71]. De la narración oral viva a la propaganda de japonización imperial, durante los primeros cuarenta años del cine taiwanés, lo que se decía en la pantalla y quién podía decirlo casi nunca lo decidían las personas de la isla.
+La historia de los rollos de película tampoco perteneció completamente a los taiwaneses desde el principio. En 1925, Liu Xiyang, con la Sociedad de Investigación Cinematográfica de Taiwán, produjo _Who is to Blame_, considerada la primera película de ficción producida por taiwaneses[^70]. Pero en 1943, el gobierno colonial, con la película _The Bell of Sayon_, eligió a la famosa Li Xianglan como protagonista, transformando un incidente real de una joven tribu Tayal que se ahogó en una propaganda de sinización (皇民化) que llamaba a los jóvenes nativos a servir al Imperio Japonés[^71]. Desde la narración oral hasta la propaganda de sinización, en los primeros cuarenta años del cine de Taiwán, lo que se decía en la pantalla y quién lo decía casi nunca lo decidían las personas de la isla.
 
-![Fotograma de Sayon’s Bell, película del periodo de japonización imperial protagonizada por Li Hsiang-lan; el gobierno colonial adaptó el ahogamiento de una joven Atayal como película de propaganda](/article-images/art/sayon-no-kane-1943.webp)
-_Sayon’s Bell, de 1943, protagonizada por la estrella Li Hsiang-lan, es una obra representativa del cine de japonización imperial de fines del periodo japonés. Desde los benshi junto a las “imágenes en movimiento” hasta las películas de propaganda del gobierno colonial, en el punto de partida del cine taiwanés casi todo lo que se decía en la pantalla lo decidían otros. Photo: Shochiku/Manchukuo Film Association (dominio público)._
+![Escena de la película de la era de sinización *The Bell of Sayon*, protagonizada por Li Xianglan; el gobierno colonial adaptó el incidente de la joven Tayal que se ahogó en un cortometraje propagandístico.](/article-images/art/sayon-no-kane-1943.webp)
+_*The Bell of Sayon* (1943), protagonizada por la estrella Li Xianglan, es la representante de las películas de sinización del final del dominio japonés. Desde el *benshi* junto a las proyecciones hasta los cortometrajes del gobierno colonial, en el inicio del cine de Taiwán, lo que se decía en la pantalla era casi siempre decidido por otros. Foto: Shochiku / Manchukuo (Dominio público)._
 
-Noventa años después, en la misma isla, una película llamada Cape No. 7 hizo que cinco lenguas hablaran al mismo tiempo en las salas: mandarín, taiwanés, japonés, inglés y paiwan[^3]. Entre esos dos momentos, durante noventa años, el cine taiwanés fue declarado muerto varias veces y volvió a vivir varias veces. Cada muerte y cada resurrección parecían, en la superficie, cuestiones de taquilla, censura o mercado. En el fondo, eran siempre la misma pregunta: qué Taiwán debía hablar en la pantalla, en qué lengua y quién podía aparecer en ella.
+Noventa años después, en la misma isla, una película llamada _Cape No. 7_ hizo que cinco idiomas hablaran simultáneamente en los cines: chino mandarín, taiwanés, japonés, inglés y paiwan[^3]. En estos noventa años intermedios, el cine de Taiwán fue declarado muerto varias veces y renació varias veces. Cada muerte y renacimiento, en la superficie, trataba de taquillas, censura o mercado; en el fondo, era siempre la misma pregunta: ¿qué taiwanés debería aparecer en la pantalla, en qué idioma y quién podía subir a la pantalla.
 
-Este artículo no trata de “cómo el cine nacional pasó de malo a bueno”. Esa es una línea demasiado cómoda y demasiado falsa. La versión real es la historia de algo asfixiado y resucitado una y otra vez.
+Este artículo no quiere decir "cómo el cine nacional pasó de malo a bueno". Esa es una línea demasiado cómoda y falsa. La versión real es una historia que fue estrangulada repetidamente y renació.
 
-## Más de mil películas que nadie recuerda
+## Más de mil películas, nadie las recuerda
 
-Primero, un dato que la mayoría de los taiwaneses desconoce: Taiwán fue alguna vez el tercer mayor productor mundial de largometrajes de ficción, solo por detrás de Japón e India[^4].
+Primero, un dato que la mayoría de los taiwaneses no conocen: Taiwán fue una vez el tercer mayor productor de largometrajes del mundo, solo por detrás de Japón e India[^4].
 
-Era la época del cine en taiwanés. En enero de 1956, se estrenó en Taipéi una película de ópera gezai llamada Xue Pinggui and Wang Baochuan. La dirigió Ho Chi-ming y la produjo Chen Cheng-san, responsable de la compañía de ópera gezai Mailiao Gungle Society. Fue la primera película taiwanesa de ópera gezai en taiwanés rodada en 35 mm. No costó mucho, pero recaudó cerca de 1,2 millones de nuevos dólares taiwaneses: más del triple de su presupuesto[^5]. Una sola película demostró que “había público dispuesto a pagar por cine en taiwanés, hecho por taiwaneses para taiwaneses”, y así estalló la fiebre.
+Era la era del cine en taiwanés. En enero de 1956, la película de ópera de歌仔戏 (Gezaixi) _Xue Pinggui y Wang Baochuan_ se estrenó en Taipéi. El director era He Jiming; la productora era Chen Chengsan, líder del grupo de ópera Gezaixi Gongle de Mailiao. Fue la primera película en taiwanés de ópera Gezaixi en 35 mm de Taiwán; el costo no fue alto, pero resultó en una taquilla de aproximadamente 1,2 millones de NTD, más del triple del costo[^5]. Una película demostró que "las películas en taiwanés hechas por taiwaneses para taiwaneses tienen público", y la fiebre estalló.
 
-Durante la década siguiente y parte de la otra, las películas en taiwanés crecieron como maleza. En 1958 la producción llegó a 76 películas, su primer pico[^6]. Solo en 1969, el director Hsin Chi filmó 12 películas[^7]. En Yingge, Lin Tuan-chiu construyó su propio Hushan Studio y fundó Yufeng Film Company, con la intención de convertir el cine en taiwanés en una industria con estándares propios[^8]. Los géneros eran de lo más variados: ópera gezai, melodramas lacrimógenos, la comedia Brother Wang and Brother Liu Tour Taiwan, películas de espías como Number One Under Heaven, hechas al calor de la fiebre de 007, y fantasías infantiles como The Fantasy of the Deer Warrior[^9].
+En los siguientes diez años, el cine en taiwanés creció como la hierba mala. En 1958, la producción alcanzó 76 películas, la primera cima[^6]. El director Xin Qi filmó 12 películas solo en 1969[^7]. En Yingge, Lin Boqiu construyó su propio estudio Hushan y fundó Yufeng Film, queriendo hacer del cine en taiwanés una industria estandarizada[^8]. Los géneros eran variados: ópera Gezaixi, dramas trágicos, comedia _Wang Ge Liu Ge Touring Taiwan_, películas de espías siguiendo la fiebre de 007 _The First Number of Tian_, y películas de fantasía infantil _The Great Hero Plum Deer_[^9].
 
-¿Cuántas películas se hicieron exactamente? Esa pregunta es ya una miniatura del destino del cine en taiwanés: nadie puede dar una cifra precisa. La red educativa del Taiwan Film and Audiovisual Institute (TFAI) habla de “más de mil”; Taipei Times estima “entre 1.200 y 1.500”; algunos estudios académicos incluso hablan de “más de dos mil”[^10]. ¿Por qué tanta diferencia? Porque no hay consenso sobre los años de inicio y cierre del periodo, sobre si deben contarse las películas en xiamenés, o sobre si cuenta la presentación a censura o el estreno. Más profundamente, porque la inmensa mayoría de las copias se ha perdido. Las 1.238 piezas conservadas por el TFAI son “la cantidad que todavía se conserva hoy”, no la producción total de entonces; la propia institución señala que lo existente representa menos de una quinta parte de la producción original[^11].
+¿Cuántas se filmaron exactamente? Este hecho mismo es un reflejo del destino del cine en taiwanés: nadie puede dar un número exacto. La red educativa del Centro Nacional de Cine y Artes Audiovisuales (TFAI) dice "más de mil", _The Taipei Times_ estima entre "1.200 y 1.500", y la investigación académica incluso tiene la afirmación de "más de dos mil"[^10]. ¿Por qué hay tanta diferencia? Porque las fechas de inicio y fin de cálculo son diferentes, si se incluyen las películas en amoyés, qué cuenta (aprobación o estreno) no tiene consenso; más fundamentalmente, la mayoría de las copias se han perdido. Las 1.238 piezas en la colección del TFAI son "la cantidad que se conserva actualmente", no la producción total de la época; la propia institución dice que las existentes son menos de una quinta parte de la producción original[^11].
 
 ```tw-figure
-Más de mil → menos de 1/5
-Producción de la edad dorada del cine en taiwanés y proporción conservada; la mayoría de las copias se ha perdido
-Taiwan Film and Audiovisual Institute (TFAI)
+Más de mil → Menos de 1/5
+Proporción de producción y existencia del cine en taiwanés en su era dorada; la mayoría de las copias se han perdido
+Centro Nacional de Cine y Artes Audiovisuales (TFAI)
 ```
 
-Una industria que llegó a ser la tercera mayor productora mundial de largometrajes de ficción conserva apenas una parte de sus obras, y ni siquiera puede contarlas con precisión. Esto no es solo un problema de deterioro del celuloide.
+Una industria cinematográfica de largometrajes que fue una vez la tercera más grande del mundo, la mayoría de las obras ni siquiera existen en forma de película, ni siquiera se puede contar el número total. Esto no es solo un problema de que los rollos se estropeen.
 
-La versión habitual dice que el cine en taiwanés era “tosco y de mala calidad”, por lo que fue desplazado naturalmente por el mercado y olvidado por la historia. Es una explicación narrativamente cómoda, pero invierte la causalidad. En An Unwilling Film History, el historiador Su Chih-heng ofrece otra versión: el cine en taiwanés no murió porque fuese malo; fue asfixiado[^12].
+La narrativa común es que el cine en taiwanés era "de baja calidad", por lo que fue naturalmente eliminado por el mercado y olvidado por la historia; esta narrativa es muy conveniente, pero invierte la causalidad. El historiador Su Zhiheng, en _La Historia del Cine Inconforme_, da una versión diferente: el cine en taiwanés no murió de mala calidad, fue estrangulado[^12].
 
-Lo asfixió la política, no el público. En 1957 se modificó la normativa de depósito impositivo para la importación de película virgen, y las películas en taiwanés quedaron fuera de las exenciones fiscales. En otras palabras: quienes rodaban en taiwanés tenían que pagar más caro hasta el material fílmico[^13]. A partir de 1959, las autoridades restringieron a los benshi en taiwanés; en 1962 comenzó a emitir Taiwan Television, que llevó al salón de casa a quienes antes iban al cine a ver ópera gezai y oír historias en taiwanés; las películas en mandarín recibían subsidios, las películas en taiwanés no[^14]. El argumento de Su Chih-heng es aún más agudo: mediante el control de la importación de película, el gobierno fabricó activamente el estereotipo “taiwanés = blanco y negro = vulgar”. Cuando las películas en mandarín podían usar color y pantalla panorámica, mientras las películas en taiwanés quedaban condenadas al blanco y negro, la etiqueta de “barato” se convirtió en algo producido por las políticas, no en una cualidad intrínseca del cine en taiwanés[^12].
+Lo que lo estranguló fue la política, no el público. En 1957, se modificó el _Método de Importación de Películas con Impuesto de Depósito_, excluyendo el cine en taiwanés del rango de exención de impuestos; en otras palabras, quienes filmaban en taiwanés pagaban la película en blanco y negro más cara que los demás[^13]. Desde 1959, el gobierno oficial limitó a los narradores en taiwanés; en 1962, la cadena de televisión TTV se emitió, llevando a la audiencia que veía ópera Gezaixi y escuchaba historias en taiwanés a las salas de estar; las películas en mandarín tenían subsidios, las en taiwanés no[^14]. El argumento más agudo de Su Zhiheng es: el gobierno, a través del control de la importación de películas, creó activamente el estereotipo de "taiwanés = blanco y negro = vulgar"; cuando las películas en mandarín podían usar pantallas anchas a color, el cine en taiwanés solo podía quedarse en blanco y negro, la etiqueta de "barato" se convirtió en algo fabricado, no en la esencia innata del cine en taiwanés[^12].
 
-> 📝 **Nota curatorial**: que hoy nos parezca que “el cine en taiwanés era tosco” quizá sea, en sí mismo, el resultado de una ronda anterior de políticas. A una industria se le quitaron las condiciones para modernizarse —color, financiación, flujo de talento— y luego se usó su precariedad como razón para eliminarla. Es un círculo perfecto. Por eso, cuando decimos “más de mil películas que nadie recuerda”, el verdadero foco está en “por qué llegaron a no ser recordadas”. A veces el olvido es una decisión, no una consecuencia natural del tiempo.
+> 📝 **Nota de curador:** Lo que hoy sentimos como "el cine en taiwanés es tosco", esta impresión misma puede ser el resultado de la política de la ronda anterior. Una industria a la que se le negaron las condiciones para actualizarse (color, fondos, flujo de talento), y luego se usó su propia baratura como razón para eliminarla... Esto es un ciclo perfecto. Por lo tanto, el verdadero punto de "más de mil películas, nadie las recuerda" es "por qué se convirtió en nadie las recuerda". Ser olvidado a veces es una decisión, no el resultado natural del tiempo.
 
-En 1969, la producción de películas en mandarín superó por primera vez a la de películas en taiwanés[^15]. La última película en taiwanés fue Chen San and Wu Niang, protagonizada por Yang Li-hua en 1981[^16]. Solo en la década de 1990 comenzaron los investigadores a rescatar esta historia; no fue sino hasta 2017 que King’s College London organizó el primer congreso académico en inglés dedicado específicamente al cine en taiwanés[^17]. Una industria que había sido la tercera mayor productora mundial de largometrajes de ficción tuvo que esperar treinta años después de muerta, y medio planeta de distancia, para que por fin alguien la estudiara seriamente como historia.
+En 1969, la producción de películas en mandarín superó por primera vez a la del cine en taiwanés[^15]. La última película en taiwanés fue _Chen San Wu Niang_ protagonizada por Yang Lihua en 1981[^16]. Cuando llegó la década de 1990, los investigadores comenzaron a rescatar esta historia; hasta 2017, el King's College de Londres celebró el primer simposio académico en inglés dedicado al cine en taiwanés[^17]. Una industria cinematográfica de largometrajes que fue la tercera más grande del mundo, tuvo que esperar treinta años después de su muerte, a medio mundo de distancia, para que finalmente alguien la tomara en serio como historia para estudiar.
 
-## Lo sano, lo realista y lo intocable
+## Saludables, realistas, y prohibidos de tocar
 
-Mientras el cine en taiwanés salía de escena, otra lengua tomó el control de la pantalla.
+Mientras el cine en taiwanés salía de la escena, la pantalla fue tomada por otro idioma.
 
-En septiembre de 1954, la Agricultural Education Company y la Taiwan Film Company se fusionaron para formar la Central Motion Picture Corporation, conocida como CMPC, usando equipamiento de ayuda estadounidense[^18]. El cine en mandarín obtuvo una base industrial, y su rumbo lo fijó la política. En 1963, Kung Hong asumió como gerente general de CMPC e impulsó una línea llamada “realismo sano”. La definió con precisión: “lo sano es educativo; lo realista es rural”[^19].
+En septiembre de 1954, la Compañía de Educación Agrícola y la Compañía de Cine de Taiwán se fusionaron para formar la Compañía de Cine Central (Central Motion Picture Corporation, CMPC), usando equipos de la ayuda estadounidense[^18]. Las películas en mandarín tuvieron una base industrial, y su dirección fue determinada por la política. En 1963, Gong Hong asumió el cargo de gerente general de CMPC y lanzó una línea llamada "Saludable y Realista". Dio una definición muy precisa: "Saludable es educación moral, Realista es el campo rural"[^19].
 
-Vale la pena detenerse en esas seis palabras. Lo que dicen es: el cine debe ser realista, pero solo puede mostrar un realismo rural limpio y edificante, no el lado oscuro de la sociedad ni conflictos reales. Oyster Girl, de 1964, es la obra representativa de esta línea. Fue la primera película de producción propia de CMPC en color y pantalla panorámica —ojo: no “la primera película en color de Taiwán”—, codirigida por Li Chia y Li Hsing, y ganó el premio a mejor largometraje en el 11.º Festival de Cine Asiático[^20]. Al año siguiente, Beautiful Duckling siguió el mismo camino.
+Estas seis palabras merecen una pausa. Dicen: las películas deben ser realistas, pero solo pueden ser realistas en ese campo rural limpio y educativo, no el lado oscuro de la sociedad, no los conflictos reales. _The Oyster Girls_ (1964) es la obra representativa de esta línea; fue la primera película de pantalla ancha a color producida por CMPC (nota: no "la primera película a color de Taiwán"), dirigida conjuntamente por Li Jia y Li Xing, y ganó el Mejor Largometraje en la 11ª Feria de Cine de Asia[^20]. Al año siguiente, _Raising Ducklings_ continuó por el mismo camino.
 
-Además del realismo sano, en las décadas de 1960 y 1970 actuaban simultáneamente otras tres fuerzas dentro del cine en mandarín.
+Fuera de lo "Saludable y Realista", en las películas en mandarín de las décadas de 1960 y 1970, había tres fuerzas operando simultáneamente.
 
-Una fue el melodrama literario de Chiung Yao. Desde The Silent Wife, dirigida por Li Hsing en 1965, se rodaron unas veinticinco películas en cinco años, y se lanzó a toda una generación de estrellas[^21]. Las más famosas fueron “los dos Chin y las dos Lin”: Chin Han, Chin Hsiang-lin, Brigitte Lin y Joan Lin. Brigitte Lin debutó en 1973 con Outside the Window y luego se convirtió en una leyenda del cine en lengua china; Joan Lin ganó en 1979 el Golden Horse a mejor actriz[^22]. Las lágrimas de Chiung Yao fueron la juventud compartida de muchas personas de esa época.
+Una era el cine literario de Qiong Yao. Desde _La Prima Huérfana_ (1965) dirigida por Li Xing, en cinco años se filmaron unas veinticinco películas, lanzando a toda una generación de estrellas[^21]. Las más famosas son "Dos Qin, Dos Lin": Qin Han, Qin Xianglin, Lin Qingxia, Lin Fengjiao. Lin Qingxia debutó en 1973 con _Outside the Window_, convirtiéndose luego en una leyenda del cine de habla china; Lin Fengjiao ganó la Mejor Actriz en los Golden Horse en 1979[^22]. Las lágrimas de Qiong Yao fueron la juventud común de muchas personas en esa época.
 
 ```tw-timeline
-1925 | Whose Fault Is It? | Primer largometraje de ficción hecho por taiwaneses, producido por la Taiwan Film Research Association
-1956 | Xue Pinggui and Wang Baochuan | Desata la fiebre del cine en taiwanés; Taiwán llega a ser el tercer mayor productor mundial de largometrajes de ficción
-1963 | Línea de realismo sano | Kung Hong define: “lo sano es educativo; lo realista es rural”
-1967 | Dragon Inn | King Hu abre una década de cine wuxia y logra la mayor taquilla del año
-1982 | In Our Time | Punto de partida del movimiento del Nuevo Cine Taiwanés
-1989 | A City of Sadness | León de Oro en Venecia, primer máximo premio de Taiwán en uno de los tres grandes festivales
-2008 | Cape No. 7 | Cinco lenguas; la cuota local salta del 0,36% al 12,09%
-2018 | 55.º Golden Horse | El discurso de Fu Yue provoca una controversia a ambos lados del estrecho; China anuncia al año siguiente un boicot
-Fuente: Taiwan Film and Audiovisual Institute (TFAI), registros oficiales de festivales
+1925 | *Who is to Blame* | Primera película de ficción producida por taiwaneses, producida por la Sociedad de Investigación Cinematográfica de Taiwán
+1956 | *Xue Pinggui y Wang Baochuan* | Desató la fiebre del cine en taiwanés, Taiwán se convirtió momentáneamente en el tercer mayor productor de largometrajes del mundo
+1963 | Línea Saludable y Realista | Gong Hong definió "Saludable es educación moral, Realista es el campo rural"
+1967 | *Dragon Gate Inn* | Hu Jinxuan abrió una década de wuxia, campeona de taquilla del año
+1982 | *Someday in a Rainy Season* | Punto de partida del movimiento del Nuevo Cine de Taiwán
+1989 | *A City of Sadness* | León de Oro en Venecia, primer máximo premio de los tres grandes festivales de Taiwán
+2008 | *Cape No. 7* | Cinco idiomas, la cuota local saltó del 0,36 % al 12,09 %
+2018 | 55ª Golden Horse | El discurso de Fu Yu provocó controversia entre las dos orillas, China anunció boicot al año siguiente
+Fuente: Centro Nacional de Cine y Artes Audiovisuales (TFAI), registros oficiales de cada festival
 ```
 
-La segunda fuerza fue el wuxia, cine de artes marciales de caballeros errantes. En 1967, Dragon Inn, de King Hu, fue la película más taquillera del año en Taiwán y abrió una ola de cine wuxia que duró diez años[^23]. King Hu no solo vendía entradas: convirtió el wuxia en una estética. En 1975, A Touch of Zen ganó el Gran Premio de la Comisión Técnica Superior en el 28.º Festival de Cannes. Fue la segunda película en lengua china premiada en Cannes, después de The Magnificent Concubine, de Li Han-hsiang, en 1962[^24]. Hay un detalle que ilustra bien la situación del cine taiwanés de entonces: A Touch of Zen participó por invitación de críticos franceses y en nombre de “Hong Kong”, no por recomendación del gobierno taiwanés[^24]. El lenguaje wuxia de King Hu —sus bosques de bambú, sus silencios, sus ritmos— influyó después en Tsui Hark y también en Ang Lee: la escena del bosque de bambú en Crouching Tiger, Hidden Dragon es un homenaje a él[^25].
+La segunda era el wuxia (películas de artes marciales). En 1967, _Dragon Gate Inn_ de Hu Jinxuan se convirtió en la campeona de taquilla de Taiwán ese año, abriendo una tendencia de películas de wuxia que duró una década[^23]. Hu Jinxuan no solo fue taquillero, convirtió el wuxia en una estética. En 1975, su _A Touch of Zen_ ganó el Gran Premio de la Comisión Técnica en el 28º Festival de Cine de Cannes; esta fue la segunda película de habla china en ganar en Cannes después de _The Yangs General's Daughter_ de Li Xiangxiang en 1962[^24]. Hay un detalle que ilustra muy bien la situación del cine de Taiwán en ese momento: _A Touch of Zen_ fue invitada por críticos de cine franceses para participar bajo el nombre de "Hong Kong", no recomendada por el gobierno de Taiwán[^24]. El lenguaje wuxia de bambú, espacio en blanco y ritmo de Hu Jinxuan, más tarde influyó a Tsui Hark y a Ang Lee; la escena del bosque de bambú de _Crouching Tiger, Hidden Dragon_ es un homenaje a él[^25].
 
-La tercera fuerza fueron las películas patrióticas de propaganda política. En 1971, la República de China (Taiwán) salió de las Naciones Unidas y la sociedad quedó inquieta. Una de las respuestas del gobierno, en palabras del TFAI, fue hacer películas “para estabilizar los ánimos y difundir las acciones del gobierno”[^26]. Everlasting Glory, de 1974, fue promovida por Wang Sheng, del aparato de guerra política, dirigida por Ting Shan-hsi y protagonizada por Ko Chun-hsiung; luego vinieron Eight Hundred Heroes, de 1976, y Heroes of the Eastern Skies, de 1977[^27]. En la memoria de mucha gente, estas películas están ligadas a “salidas escolares organizadas al cine”; pero, para ser honestos, no se han encontrado fuentes primarias que prueben que esas salidas fueran obligatorias. Lo que sí puede afirmarse es que se retransmitían con frecuencia por televisión durante días festivos[^28].
+La tercera, eran las películas patrióticas de propaganda política. En 1971, la República de China salió de las Naciones Unidas, el ánimo de la gente fluctuaba. Una de las respuestas del gobierno, según las palabras del TFAI, era filmar películas "para estabilizar el ánimo del pueblo y promover las acciones del gobierno"[^26]. _The Thousand Autumns of the Heroes_ (1974), impulsada por el asesor de propaganda política Wang Sheng, dirigida por Ding Shanxi y protagonizada por Ke Junxiong, seguida de _The Eight Hundred Heroes_ (1976) y _The Heroes of Jianqiao_ (1977)[^27]. Estas películas en la memoria de muchas personas están conectadas con "el colegio organizando la entrada"; pero siendo honestos, no se puede encontrar evidencia documental primaria que respalde "la entrada obligatoria del colegio", lo único cierto es que a menudo se repetían en la televisión en días festivos[^28].
 
-> 📝 **Nota curatorial**: si tomamos como eje “qué se dice en la pantalla y qué se permite decir”, desde el cine en taiwanés hasta el realismo sano y las películas patrióticas, descubrimos que la historia del cine nacional ha respondido siempre la misma pregunta. Solo que la respuesta la escribían las políticas, no el público ni los creadores. En el cine en taiwanés, el problema era “no se permite filmar bien en esta lengua”; en el realismo sano, “solo se permite mostrar este tipo de realidad”; en el cine patriótico, “para qué sirve el cine”. Lengua, tema y función: tres compuertas que se abrieron y cerraron por turnos.
+> 📝 **Nota de curador:** Del cine en taiwanés a lo Saludable y Realista y a las películas patrióticas, si se toma "qué se dice en la pantalla y qué se puede decir" como una línea principal, se descubrirá que la historia del cine nacional siempre ha estado respondiendo a la misma pregunta... solo que la respuesta la escribía la política, no el público o los creadores. El problema del cine en taiwanés era "no se permite usar este idioma para filmar bien"; el problema de lo Saludable y Realista era "solo se permite escribir esta clase de realidad"; el problema de las películas patrióticas era "¿para qué sirve el cine?". Idioma, tema, propósito, tres compuertas, se abren y cierran alternadamente.
 
-Vale la pena mencionar el origen de las palabras “Golden Horse”. En 1957, el sector privado organizó una edición de un festival de cine en taiwanés bajo el nombre “Premios Golden Horse”; se hizo una sola vez[^29]. En 1962, la Oficina de Información del Gobierno fundó los Golden Horse oficiales, formalmente limitados a películas en mandarín, y programó la ceremonia alrededor del cumpleaños de Chiang Kai-shek[^29]. El mismo nombre perteneció primero al cine en taiwanés y luego fue incorporado al cine en mandarín. Ese detalle es, por sí solo, una pequeña nota al pie sobre la política lingüística de la época.
+Vale la pena mencionar el origen de las palabras "Golden Horse". En 1957, el sector privado organizó una vez un festival de cine en taiwanés bajo el nombre de "Golden Horse", solo se organizó una vez[^29]. En 1962, la Oficina de Información creó el Golden Horse oficial, nominalmente solo para películas en mandarín, y la ceremonia de premiación se programó intencionalmente alrededor del cumpleaños de Chiang Kai-shek[^29]. El mismo nombre, primero perteneció al cine en taiwanés, luego fue reclamado por las películas en mandarín; esto en sí mismo es una pequeña nota de la política lingüística de esa época.
 
-## La manzana que quisieron recortar
+## La manzana a la que le cortaron la punta
 
-En 1982, CMPC tomó una decisión que en ese momento no parecía gran cosa, pero que vista en retrospectiva lo cambió todo: dejar que un grupo de jóvenes directores sin fama hiciera películas.
+En 1982, CMPC tomó una decisión que en ese momento parecía insignificante, pero que al mirar hacia atrás cambió todo: permitir que un grupo de directores jóvenes sin nombre filmaran películas.
 
-In Our Time, de ese año, estaba compuesta por cuatro episodios dirigidos por Tao Te-chen, Edward Yang, Ko I-chen y Chang Yi[^30]. Al año siguiente, The Sandwich Man adaptó cuentos de Huang Chun-ming, con tres segmentos dirigidos por Hou Hsiao-hsien, Tseng Chuang-hsiang y Wan Jen[^31]. El Nuevo Cine Taiwanés comenzó con estas dos películas.
+_Someday in a Rainy Season_ (1982) constaba de cuatro segmentos, los directores eran Tao Dechen, Edward Yang, Ke Yizheng y Zhang Yi[^30]. Al año siguiente, _The Son's Dummy_, adaptada de la novela de Huang Chunming, tenía tres segmentos dirigidos por Hou Hsiao-hsien, Zeng Zhuangxiang y Wan Ren[^31]. El Nuevo Cine de Taiwán comenzaba con estas dos películas.
 
-Pero el Nuevo Cine chocó de inmediato con la vieja compuerta. En The Taste of Apples, el segmento de The Sandwich Man dirigido por Wan Jen, la representación realista de la vida de las clases bajas provocó la intervención del Comité Cultural del Kuomintang, que exigió cortes. Ese fue el célebre “incidente de recortar la manzana”[^32]. Finalmente, bajo presión de la opinión pública, la manzana se salvó. Aquellas pequeñas tijeras estuvieron a punto de cortar una capacidad que el cine taiwanés apenas empezaba a desarrollar: la de decir la verdad en serio. El 24 de enero de 1987, el “Manifiesto del Nuevo Cine Taiwanés”, redactado por Chan Hung-chih, se publicó en el suplemento Renjian de China Times, y funcionó como una declaración formal de aquel movimiento[^33].
+Pero el Nuevo Cine se topó con la vieja compuerta desde el inicio. El segmento de Wan Ren en _The Son's Dummy_, _The Taste of Apple_, fue intervenido por la Comisión de Propaganda Cultural del Kuomintang debido a su representación de la realidad de la vida de las clases bajas, exigiendo recortes; este es el famoso "Incidente de la Manzana Recortada"[^32]. Finalmente, bajo la presión de la opinión pública, esa manzana se salvó. Una pequeña tijera, casi recortó la capacidad del cine de Taiwán de crecer y contar la verdad bien. El 24 de enero de 1987, el _Manifiesto del Nuevo Cine de Taiwán_ redactado por Zhan Hongzhi se publicó en la Suplemento Cultural de _China Times_, actuando como una confesión formal de este movimiento[^33].
 
-Tres nombres del Nuevo Cine se convirtieron más tarde en directores de talla mundial.
+Los tres nombres del Nuevo Cine se convirtieron luego en directores de nivel mundial.
 
-![Hou Hsiao-hsien sostiene el León de Oro en el Festival de Venecia de 1989; A City of Sadness se convirtió en la primera película taiwanesa en ganar el máximo premio de uno de los tres grandes festivales](/article-images/art/hou-hsiao-hsien-venice-1989.webp)
-_En 1989, Hou Hsiao-hsien ganó el León de Oro de Venecia con A City of Sadness. Por primera vez, el cine taiwanés llegó a la cima de uno de los tres grandes festivales del mundo. Photo: Gorup de Besanez, CC BY-SA 4.0._
+![Hou Hsiao-hsien en el Festival de Cine de Venecia en 1989 sosteniendo el León de Oro, *A City of Sadness* se convirtió en la primera película de Taiwán en ganar el máximo premio de los tres grandes festivales del mundo.](/article-images/art/hou-hsiao-hsien-venice-1989.webp)
+*Hou Hsiao-hsien ganó el León de Oro en Venecia en 1989 con *A City of Sadness*, la primera vez que el cine de Taiwán alcanzó la cima de los tres grandes festivales del mundo. Foto: Gorup de Besanez, CC BY-SA 4.0.*
 
-Hou Hsiao-hsien fue construyendo, desde The Boys from Fengkuei, A Time to Live, a Time to Die y Dust in the Wind, una lengua de planos largos y lentos con la tierra, la memoria y el tiempo de Taiwán[^34]. El 15 de septiembre de 1989, A City of Sadness ganó el León de Oro en la 46.ª Mostra de Venecia: fue el primer máximo premio de Taiwán en uno de los tres grandes festivales —Cannes, Venecia y Berlín—[^35]. Más notable aún: la película abordó de frente el Incidente del 28 de Febrero, un tema todavía muy sensible entonces, y lo narró lateralmente a través del auge y caída de una familia[^35]. ¿Hasta qué punto se valora internacionalmente la estética de planos largos de Hou? El director iraní Abbas Kiarostami defendió con fuerza The Puppetmaster; se dice que Akira Kurosawa la vio cuatro veces y admitió que él no podría filmar algo así; el japonés Hirokazu Kore-eda también fue profundamente influido por Hou[^36].
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/q6m_7eleZXw" title="Tráiler de la restauración digital 4K de A City of Sadness" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-_Tráiler de la restauración digital 4K de A City of Sadness. En 1989 ganó el León de Oro en Venecia y llevó por primera vez el 28 de Febrero seriamente a la gran pantalla; mientras tanto, ese mismo año, en las salas taiwanesas, el cine nacional perdía público._
-
-Edward Yang tomó otro camino. Filmó la ciudad, la alienación y la violencia de las personas urbanas. Después de That Day, on the Beach y Terrorizers, A Brighter Summer Day, de 1991, duraba 237 minutos en su versión original y adaptaba un asesinato juvenil real ocurrido en 1961[^37]. En 2000, Yi Yi ganó el premio a mejor director en el 53.º Festival de Cannes —ojo: mejor director, no la Palma de Oro—[^38]. Yang murió de cáncer de colon el 29 de junio de 2007, a los cincuenta y nueve años[^39]. Su cine influyó en Hirokazu Kore-eda[^40] y también en Ryusuke Hamaguchi[^72].
+Hou Hsiao-hsien filmó desde _The People from the Funcheng_ hasta _Childhood in a Taipei_ y _Dust in the Wind_, convirtiendo la tierra natal, la memoria y el tiempo de Taiwán en un lenguaje de cámara muy largo y lento[^34]. El 15 de septiembre de 1989, su _A City of Sadness_ ganó el León de Oro en el 46º Festival de Cine de Venecia; esta fue la primera vez que una película de Taiwán ganó el máximo premio de los tres grandes festivales (Cannes, Venecia, Berlín)[^35]. Lo más notable es que esta película tocó frontalmente el tema aún muy sensible del 28 de Febrero, escribiendo de lado esa historia a través del auge y caída de una familia[^35]. ¿Cuánto valoraba la estética de plano largo de Hou Hsiao-hsien en el ámbito internacional? El director iraní Abbas Kiarostami apoyó su _The Puppetmaster_, se dice que Akira Kurosawa la vio cuatro veces y admitió que no podía filmarla, el japonés Hirokazu Koreeda también se vio profundamente influenciado por él[^36].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/PxgrzNFwyqY" title="Tráiler de la restauración digital 4K de Yi Yi / A One and a Two" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   <iframe src="https://www.youtube.com/embed/q6m_7eleZXw" title="Tráiler de Restauración Digital 4K de A City of Sadness" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Tráiler de la restauración 4K de Yi Yi, de Edward Yang (Janus Films). Mejor director en Cannes en 2000; después entró en el puesto 90 de la lista de las cien mejores películas de la historia de Sight & Sound._
+\_Tráiler de Restauración Digital 4K de _A City of Sadness_. Ganó el León de Oro en Venecia en 1989, llevando el 28 de Febrero a la gran pantalla de manera seria por primera vez... y en los cines de Taiwán ese mismo año, las películas nacionales estaban perdiendo audiencia.\*
 
-El tercero fue Tsai Ming-liang. Desde Rebels of the Neon God, de 1992, apuntó la cámara hacia la soledad, el deseo y un tiempo tan lento que roza la inmovilidad[^41]. En 1994, Vive L’Amour ganó el León de Oro en la 51.ª Mostra de Venecia, ex aequo con Before the Rain; el presidente del jurado de esa edición fue David Lynch[^42]. Aquí conviene corregir un error muy difundido: Vive L’Amour ganó el León de Oro, no un “premio de la crítica”[^42]. Más tarde, The River y Stray Dogs siguieron ganando premios en festivales, y Face, de 2009, se convirtió en la primera película integrada en la colección del Louvre[^43].
+Edward Yang siguió otro camino. Filmaba ciudades, el aislamiento y la violencia de las personas urbanas; después de _The Beach_ y _The Terrorizers_, en 1991, _A Brighter Summer Day_ (versión original) tenía 237 minutos de duración, adaptada de un caso real de asesinato juvenil de 1961[^37]. En 2000, su _Yi Yi_ ganó el Mejor Director en el 53º Festival de Cine de Cannes (nota: Mejor Director, no la Palma de Oro)[^38]. El 29 de junio de 2007, falleció por cáncer de colon a los 59 años[^39]. Sus películas influyeron en Hirokazu Koreeda[^40] y también en Ryusuke Hamaguchi[^72].
 
-También hay una versión muy repetida y equivocada sobre el lugar de estos tres directores en la historia del cine. Se suele decir que “hay tres películas taiwanesas en la lista de las cien mejores de la historia de Cahiers du Cinéma”. Es falso. Al verificar la lista de 2008 de Cahiers du Cinéma, no aparece ninguna película taiwanesa[^44]. Quien sí incorporó el cine taiwanés fue la revista británica Sight & Sound en su lista de 2022: A Brighter Summer Day, de Edward Yang, ocupa el puesto 78, e Yi Yi, el 90[^45].
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+   <iframe src="https://www.youtube.com/embed/PxgrzNFwyqY" title="Tráiler de Restauración 4K de Yi Yi (Janus Films)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-## Ganaban premios, pero nadie las veía
+\_Tráiler de Restauración 4K de _Yi Yi_ de Edward Yang (Janus Films). Mejor Director en Cannes en 2000, luego entró en el puesto 90 de las 100 Mejores Películas de la Historia de Sight & Sound.\*
 
-Aquí aparece el giro más contraintuitivo de toda la historia del cine nacional, y también el que más fácilmente se convierte en falsa moraleja.
+El tercero es Tsai Ming-liang. Desde _Rebels of the Neon God_ en 1992, dirigió la cámara hacia la soledad, el deseo y un tiempo tan lento que casi se detiene[^41]. En 1994, su _Vive Love_ ganó el León de Oro en el 51º Festival de Cine de Venecia, empatando con _Before the Rain_; el presidente del jurado de esa edición fue David Lynch[^42]. Aquí se debe corregir especialmente un error muy extendido: _Vive Love_ ganó el León de Oro, no el "Premio de la Crítica Internacional"[^42]. Más tarde, sus _The River_ y _Stray Dogs_ continuaron ganando premios en festivales; en 2009, _Face_ se convirtió en la primera película en la colección del Louvre[^43].
 
-El Nuevo Cine ganó Leones de Oro y premios a mejor director en Europa; por primera vez, el cine taiwanés fue visto por el mundo. Pero durante ese mismo periodo, en las salas de Taiwán, el cine nacional moría. A partir de 1996, la producción anual de cine local cayó a entre 15 y 20 películas, y su cuota de mercado quedó en apenas 1% o 2%[^46]. El fondo llegó en 2003: ese año se rodaron en todo Taiwán unas 15 películas nacionales; la taquilla total fue de alrededor de 15 millones de nuevos dólares taiwaneses, el 0,36% de la taquilla de todo Taiwán. Ni siquiera llegaba al 1%[^47].
+Sobre la posición de estos tres directores en la historia del cine, también hay una versión comúnmente contada erróneamente que necesita corrección. La afirmación extendida es que "hay tres películas de Taiwán en las 100 Mejores Películas de la Historia de la revista francesa _Cahiers du Cinéma_", esto es falso. Al verificar la lista de las 100 Mejores de 2008 de _Cahiers du Cinéma_, no hay ninguna película de Taiwán[^44]. Lo que realmente escribió las películas de Taiwán fue la lista de las 100 Mejores de la historia de la revista británica _Sight & Sound_ de 2022: _A Brighter Summer Day_ de Edward Yang ocupa el puesto 78, _Yi Yi_ el puesto 90[^45].
+
+## Ganaron premios, nadie las veía
+
+Aquí está el giro más contra-intuitivo de toda la historia del cine nacional, y también el lugar más fácil de convertir en un cuento moral tóxico.
+
+El Nuevo Cine ganó el León de Oro en Europa, ganó el Mejor Director, el cine de Taiwán fue visto por primera vez por el mundo. Pero en el mismo período, en los cines de Taiwán, las películas nacionales estaban muriendo. Desde 1996, la producción anual de películas locales cayó a 15-20 películas, la cuota de mercado era solo del 1 al 2 %[^46]. El fondo fue en 2003: ese año solo se filmaron unas 15 películas nacionales en todo el país, la taquilla total fue de aproximadamente 15 millones de NTD, representando el 0,36 % de la taquilla total del país, menos del 1 %[^47].
 
 ```tw-bars
-Fondo de 2003 | 0.36 | Solo unas 15 películas nacionales en todo Taiwán
-2006 lenta recuperación | 1.62
-2008 Cape No. 7 | 12.09 | Salto de más de 30 veces
-2011 Warriors of the Rainbow: Seediq Bale | 17.46 | Máximo histórico de entonces
-2024 años recientes | 10
-Fuente: Taiwan Panorama, estadísticas del TFAI (cuota de mercado del cine local %)
+Fondo en 2003 | 0,36 | Solo unas 15 películas nacionales en todo el país
+Recuperación lenta en 2006 | 1,62
+*Cape No. 7* en 2008 | 12,09 | Aumento de más de 30 veces
+*Seediq Bale* en 2011 | 17,46 | Máximo histórico en ese momento
+Reciente en 2024 | 10
+Fuente: Taiwan Panorama, estadísticas del TFAI (Cuota de mercado de películas locales %)
 ```
 
-0,36%. Pronuncia esa cifra: de cada cien taiwaneses que entraban a una sala de cine, ni siquiera uno iba a ver una película nacional. Y justamente en esos años, los nombres de Hou Hsiao-hsien, Edward Yang y Tsai Ming-liang brillaban en Cannes y Venecia. El cine de una isla florecía fuera de sus muros y se marchitaba dentro.
+0,36 %. Lee este número en voz alta: de cada cien taiwaneses que entraban al cine, ni uno iba a ver una película nacional. Y justo en estos años, los nombres de Hou Hsiao-hsien, Edward Yang y Tsai Ming-liang brillaban en Cannes y Venecia. El cine de una isla, florecía fuera del muro, se marchitaba dentro del muro.
 
-De ahí surgió una explicación popular, muy fluida: “La culpa fue del Nuevo Cine. Esas películas de arte eran aburridas e incomprensibles; ahuyentaron al público y por eso murió el cine nacional”.
+Por lo tanto, surgió en el sector privado una afirmación, y se contaba muy bien: "Fue culpa del Nuevo Cine. Esas películas de arte eran aburridas e incomprensibles, ahuyentaron a la audiencia, por eso el cine nacional murió".
 
-Esa explicación debe tomarse en serio porque detrás hay un resentimiento real: muchas personas fueron al cine, no entendieron, se durmieron y no volvieron a comprar una entrada para una película nacional. Pero cargar toda la crisis del cine nacional sobre el Nuevo Cine convierte un colapso multicausal en un chivo expiatorio.
+Esta afirmación debe tomarse en serio, porque detrás hay un resentimiento real, muchas personas realmente no entendían al entrar al cine, se dormían, y luego nunca más volvían a ver películas nacionales. Pero culpar al colapso del cine nacional solo al Nuevo Cine es simplificar un colapso multifactorial en un chivo expiatorio.
 
-Es verdad que el Nuevo Cine creó una distancia entre una parte del público y los hábitos de consumo del cine comercial dominante; no hay que esquivar ese punto. Pero el colapso del cine nacional entre las décadas de 1990 y 2000 tuvo causas estructurales que actuaban al mismo tiempo: los blockbusters de Hollywood conquistaron el mercado taiwanés; tras el ingreso de Taiwán a la OMC se flexibilizaron las cuotas de importación de películas extranjeras; el video y la televisión por cable cambiaron la forma de ver cine; el capital local se retiró masivamente de la industria cinematográfica; y los circuitos de exhibición quedaron controlados por películas importadas[^48]. Una industria fue aplastada por todo ese conjunto, no expulsada por unas cuantas películas artísticas premiadas.
+El Nuevo Cine ciertamente creó una distancia entre el hábito de ver películas de la mayoría y el cine comercial mainstream, esto no se puede evitar. Pero el colapso del cine nacional de las décadas de 1990 y 2000 tenía razones estructurales más profundas actuando simultáneamente: las superproducciones de Hollywood conquistaban el territorio en Taiwán, tras la adhesión de Taiwán a la OMC se aflojaron las cuotas de importación de películas extranjeras, los videos y la televisión por cable cambiaron la forma en que la gente veía las películas, el capital local se retiró masivamente de la industria cinematográfica, las vías de los cines también estaban controladas por las películas importadas[^48]. Una industria fue aplastada por todo este conjunto de cosas, no ahuyentada por unas pocas películas de arte premiadas.
 
-> 📝 **Nota curatorial**: la explicación “el Nuevo Cine mató al cine nacional” resulta seductora porque transforma un colapso complejo de mercado en una historia con rostro: hay villanos —directores incomprensibles— y víctimas —espectadores que no entendían—. Pero la verdad normalmente no tiene rostro. Convertir a Hou Hsiao-hsien y Edward Yang en culpables del declive del cine nacional equivale a exigir que un grupo de creadores cargue con el derrumbe de todo un ecosistema industrial. Su costo fue otro: ganaron premios de talla mundial, pero no consiguieron recuperar al público local. Durante más de una década, gloria y mercado fueron dos cosas totalmente desconectadas.
+> 📝 **Nota de curador:** La afirmación "el Nuevo Cine mató al cine nacional" es fascinante porque convierte un colapso de mercado complejo en una historia con rostro... hay un malo (el director incomprensible), hay una víctima (el espectador incomprensible). Pero la verdad usualmente no tiene rostro. Culpar a Hou Hsiao-hsien y Edward Yang de ser los culpables de la decadencia del cine nacional es exigir a un grupo de creadores que sean responsables del colapso de todo el ecosistema industrial. Su costo fue otro: ganaron premios de nivel mundial, pero no pudieron cambiarlos por audiencia local... La gloria y el mercado, en esos diez años, fueron dos cosas completamente desconectadas.
 
-Esa fue la segunda muerte del cine nacional. El cine en taiwanés fue asfixiado por las políticas; esta vez, el cine nacional fue ahogado por el mercado. La diferencia es que distintas formas de muerte requieren distintas formas de resurrección. El cine en taiwanés nunca volvió, pero esta vez alguien esperaba una forma de invitar de nuevo al público a las salas.
+Esta fue la segunda muerte del cine nacional. El cine en taiwanés fue estrangulado por la política, esta vez fue ahogado por el mercado. La diferencia es: el método de muerte es diferente, el mecanismo de resurrección también será diferente. El cine en taiwanés nunca volvió, pero esta vez, alguien estaba esperando un método para devolver al público al cine.
 
 ```tw-versus
-Gloria en festivales | Realidad en salas
-A City of Sadness, León de Oro de Venecia 1989 | En el mismo periodo la producción nacional anual cae a 15-20 películas
-Yi Yi, mejor director en Cannes 2000 | En 2003 la cuota local es 0,36%
-Dos películas de Edward Yang entran en el canon histórico | “cine nacional = veneno de taquilla” se vuelve impresión popular
-Florece fuera de los muros | Se marchita dentro
+Gloria en los festivales | Realidad en los cines
+*León de Oro en Venecia* de *A City of Sadness* 1989 | Producción anual de películas nacionales同期 cayó a 15-20
+*Mejor Director en Cannes* de *Yi Yi* 2000 | Cuota local en 2003: 0,36 %
+Dos películas de Edward Yang entran en las 100 Mejores de la Historia | "Película nacional = Veneno de taquilla" se convierte en la impresión popular
+Floreciendo fuera del muro | Marchitándose dentro del muro
 ```
 
-## Para llegar a la pantalla mundial, primero hubo que salir de la propia isla
+## Para subir a la pantalla mundial, primero debes salir de tu propia isla
 
-Durante esos años de marchitamiento dentro de la isla, un director nacido en Taiwán eligió otro camino: salir de los muros, y llegó más lejos que nadie.
+En esos diez años en los que se marchitó dentro del muro, un director de origen taiwanés eligió otro camino, hacia fuera del muro, y fue el más lejos.
 
-![Ang Lee asiste al Festival de Venecia en 2009; ganó dos veces el Óscar a mejor director](/article-images/art/ang-lee-venice-2009.webp)
-_Ang Lee, fotografiado en el Festival de Venecia en 2009. Cuando en las salas locales casi no se veía cine nacional, este director taiwanés conquistaba dos veces la cima de Hollywood. Photo: nicolas genin, CC BY-SA 2.0._
+![Ang Lee asistiendo al Festival de Cine de Venecia en 2009, ganó dos veces el Oscar al Mejor Director.](/article-images/art/ang-lee-venice-2009.webp)
+_Ang Lee fotografiado en el Festival de Cine de Venecia en 2009. Cuando en los cines locales casi no se veían películas nacionales, este director taiwanés estaba ganando dos veces el trono en el templo más alto de Hollywood. Foto: nicolas genin, CC BY-SA 2.0._
 
-Ang Lee. Su “trilogía del padre” —Pushing Hands, The Wedding Banquet y Eat Drink Man Woman— fue rodada entre 1991 y 1994; The Wedding Banquet ganó el Oso de Oro en la 43.ª Berlinale en 1993[^49]. Luego avanzó hacia Hollywood: Crouching Tiger, Hidden Dragon ganó cuatro premios en la 73.ª edición de los Óscar en 2001, incluido el de mejor película extranjera; además, se convirtió en la primera película no hablada en inglés en superar los 100 millones de dólares de recaudación en Estados Unidos, con 213,5 millones de dólares en todo el mundo[^50]. En 2006, Brokeback Mountain convirtió a Lee en el primer director asiático en ganar el Óscar a mejor director; en 2013, Life of Pi lo convirtió en el primer asiático en ganar ese premio dos veces[^51].
+Ang Lee. Su "Trilogía del Padre" _Pushing Hands_, _The Wedding Banquet_ y _Eat Drink Man Woman_ se filmó de 1991 a 1994, _The Wedding Banquet_ ganó el Oso de Oro en el 43º Festival de Cine de Berlín en 1993[^49]. Luego se dirigió al oeste hacia Hollywood: en 2001, _Crouching Tiger, Hidden Dragon_ ganó cuatro grandes premios en el 73º Oscar, incluyendo Mejor Película Extranjera, y se convirtió en la primera película no inglesa en la historia de Estados Unidos en superar los 100 millones de dólares en taquilla, vendiendo 213,5 millones de dólares a nivel mundial[^50]. En 2006, _Brokeback Mountain_ lo convirtió en el primer director asiático en ganar el Oscar al Mejor Director; en 2013, _Life of Pi_ lo convirtió en el primer director asiático en ganar este premio dos veces[^51].
 
-La existencia de Ang Lee vuelve complejo el término “historia del cine nacional”. Cuando en las salas locales casi no podía verse cine taiwanés, un director taiwanés estaba en la máxima plataforma de Hollywood, filmando historias del mundo entero en inglés, en chino y en varias lenguas. Es un orgullo del cine taiwanés, pero su éxito, en cierto sentido, fue posible precisamente porque salió de aquel mercado local en decadencia. Esta es otra respuesta a la pregunta de “quién logra llegar a la pantalla”: a veces, para llegar a la pantalla mundial, primero hay que salir de la propia isla.
+La existencia de Ang Lee hace que el término "historia del cine nacional" se vuelva complejo. Cuando en los cines locales casi no se veían películas de Taiwán, un director taiwanés estaba en el templo más alto de Hollywood, contando historias del mundo en inglés, en mandarín, en varios idiomas. Es el orgullo del cine de Taiwán, pero su éxito, en cierto sentido, es precisamente porque se alejó de ese mercado local que se marchitaba. Esta es otra respuesta a la pregunta "subir a la pantalla": a veces, para subir a la pantalla mundial, primero debes salir de tu propia isla.
 
-## Cinco lenguas vuelven juntas a la pantalla
+## Cinco idiomas volvieron juntos a la pantalla
 
-El 22 de agosto de 2008 se estrenó una película llamada Cape No. 7. Nadie esperaba lo que iba a ocurrir.
+El 22 de agosto de 2008, una película llamada _Cape No. 7_ se estrenó. Nadie esperaba lo que sucedería a continuación.
 
-Su director, Wei Te-sheng, todavía no era un gran nombre. Para reunir el presupuesto de 50 millones, hipotecó su casa y contrajo deudas por 30 millones[^52]. Luego la película recaudó 530 millones de nuevos dólares taiwaneses en todo Taiwán: 230 millones en Taipéi y 300 millones fuera de Taipéi[^53]. Dominó la taquilla durante ocho semanas consecutivas. La cuota de mercado del cine local saltó desde aquel fondo de 0,36% en 2003 hasta 12,09% en 2008: más de treinta veces[^54].
+El director Wei Te-sheng, en ese momento aún no era una gran estrella. Para recaudar fondos para esta película de 50 millones de costo, hipotecó su casa y tomó préstamos por 30 millones[^52]. Luego, esta película abrió una taquilla total de 530 millones de NTD en todo el país, de los cuales 230 millones en Taipéi y 300 millones fuera de Taipéi[^53]. Se mantuvo en el primer lugar de la taquilla durante ocho semanas consecutivas. La cuota de mercado de las películas locales saltó del fondo del 0,36 % en 2003 al 12,09 % en 2008, multiplicándose por más de treinta veces en este intervalo[^54].
 
 ```tw-figure
-0,36% → 12,09%
-Cuota de mercado del cine local: del fondo de 2003 a Cape No. 7 en 2008, más de 30 veces
-Taiwan Panorama (fuente primaria), estadísticas del TFAI
+0,36 % → 12,09 %
+Cuota de mercado de películas locales: del fondo en 2003 a *Cape No. 7* en 2008, más de 30 veces
+Taiwan Panorama (primaria), estadísticas del TFAI
 ```
 
-Pero lo más importante de Cape No. 7 no está en sus cifras de taquilla, sino en lo que hizo volver a la pantalla.
+Pero lo más importante de _Cape No. 7_ no está en los números de taquilla, sino en lo que hizo volver a la pantalla.
 
-En la película hablan cinco lenguas al mismo tiempo: mandarín, taiwanés, japonés, inglés y paiwan[^3]. Un vocalista frustrado mezcla mandarín y taiwanés; un representante local habla un taiwanés auténtico; unas cartas de amor que cruzan sesenta años están escritas en japonés; también aparece la lengua paiwan de los pueblos indígenas. No es una “película en mandarín” ni una “película en taiwanés”: es simplemente Taiwán tal como es, con lenguas mezcladas, sin que ninguna aplaste a las demás.
+En esta película, cinco idiomas hablan simultáneamente: mandarín, taiwanés, japonés, inglés, paiwan[^3]. Un líder de banda fracasado habla mandarín mezclado con taiwanés, el representante de los ciudadanos habla un taiwanés auténtico, una carta de amor que cruza sesenta años está escrita en japonés, además está el paiwan de los nativos. Esta no es una "película en mandarín", ni una "película en taiwanés", es la verdadera cara de Taiwán, varios idiomas mezclados, ninguno aplasta al otro.
 
-Volvamos al inicio. En la sala de 1930, el benshi usaba el taiwanés para poner voz a una pantalla muda. Entre ese momento y Cape No. 7 pasaron casi ochenta años: el cine en taiwanés fue asfixiado, la política del mandarín dominó en solitario, el Nuevo Cine permitió que los dialectos volvieran en silencio al cine de autor. En 2008, Cape No. 7 permitió por fin que la pantalla hablara cinco lenguas al mismo tiempo con plena legitimidad, y todo Taiwán hizo fila para verla. La tercera resurrección del cine nacional fue, en esencia, una recuperación lingüística: los taiwaneses volvieron a oír en la gran pantalla las voces con las que hablaban a diario.
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/YZSZN3SxljY" title="Tráiler oficial de Cape No. 7" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-_Tráiler oficial de Cape No. 7. Mandarín, taiwanés, japonés, inglés y paiwan comparten la pantalla; en el verano de 2008, la película volvió a invitar a los taiwaneses a las salas._
-
-> 📝 **Nota curatorial**: Cape No. 7 suele ser cuestionada por las élites con el argumento de que “tuvo éxito comercial, pero artísticamente no alcanza a los maestros del Nuevo Cine”. Esa crítica no es falsa, pero formula la pregunta equivocada. Cape No. 7 nunca intentó resolver “cuán profunda puede ser una película”, sino “si los taiwaneses están dispuestos a pagar una entrada para ver sus propias historias”: justo lo que el Nuevo Cine no logró resolver durante más de una década. Su significado histórico no está en qué tan buena sea, sino en que demostró algo: una película hablada en las lenguas propias de Taiwán y sobre personas propias de Taiwán podía ser aclamada y taquillera a la vez. Aquello que se le arrebató al cine en taiwanés medio siglo antes —filmar bien en la lengua propia y, además, vender entradas— Cape No. 7 lo recuperó.
-
-Wei Te-sheng no se detuvo. En 2011 filmó Warriors of the Rainbow: Seediq Bale, producida por John Woo, sobre el Incidente de Wushe de 1930, narrado desde una perspectiva indígena como historia de resistencia contra Japón. La película costó unos 720 millones; sus dos partes, The Sun Flag y The Rainbow Bridge, sumaron cerca de 810 millones de taquilla en Taiwán[^55]. Representó a Taiwán en la competencia por el Óscar a mejor película extranjera, llegó a la lista corta de nueve, pero no quedó entre las cinco nominadas finales[^56]. Ese año, la cuota de mercado del cine local subió hasta 17,46%, un máximo histórico en ese momento[^54]. En 2014, Wei produjo además KANO, dirigida por Umin Boya, sobre el equipo de béisbol de la Escuela de Agricultura y Silvicultura de Chiayi que llegó al Koshien en 1931[^57].
-
-La ola abierta por Cape No. 7 fue mucho más que Wei Te-sheng: significó el regreso del cine de género en su conjunto. Monga, de Doze Niu, en 2010; You Are the Apple of My Eye, de Giddens Ko, en 2011 —esta última recaudó 425 millones en Taiwán y se convirtió en una de las películas en lengua china más taquilleras de la historia de Hong Kong—; Our Times, en 2015, con 410 millones en Taiwán[^58]. Los taiwaneses volvieron a habituarse a “ir al cine a ver cine nacional”. El cine nacional revivió, y esta vez aprendió a hablar con el público.
-
-## La década en que el cine nacional era veneno de taquilla y su reverso
-
-Hay que rebobinar la línea temporal para ver con claridad qué salvó Cape No. 7.
-
-“Cine nacional = veneno de taquilla”: esas seis palabras resumen la impresión colectiva real de la sociedad taiwanesa sobre su cine entre la década de 1990 y 2007[^59]. Los distribuidores no se atrevían a invertir, las salas no se atrevían a programar, el público no quería verlas. Se formó un círculo muerto que nadie podía mover. Era una época en la que si le decías a un amigo “voy a ver una película nacional”, se reían de ti.
-
-Pero la etiqueta de “veneno” de esa década y el estigma de “tosco y de mala calidad” que cargó el cine en taiwanés son, en realidad, dos versiones de un mismo mecanismo: una industria pierde sus condiciones y luego se la define retrospectivamente por los resultados de esa pérdida. Al cine en taiwanés le quitaron el material fílmico y la financiación; al cine nacional posterior al Nuevo Cine le quitaron mercado y canales de exhibición. La diferencia es que el segundo encontró al final un antídoto llamado Cape No. 7, y el primero no.
-
-Por eso, para entender la historia del cine nacional no basta con mirar a los maestros premiados. Una historia completa incluye la industria del cine en taiwanés, las políticas del realismo sano, los géneros wuxia y patriótico, el arte del Nuevo Cine, el veneno del periodo de crisis y la recuperación posterior a Cape No. 7. La suma de todo eso es el verdadero rostro del cine taiwanés. Elegir solo a Hou, Yang, Tsai y Lee, cuatro nombres de talla mundial, equivale a mirar únicamente los puntos más brillantes dentro de una historia mucho más grande.
-
-## Contemporaneidad: premios, taquilla y la política de un galardón
-
-Después de Cape No. 7, el cine taiwanés entró en una etapa más madura y también más compleja.
-
-Del lado del cine de autor, A Sun, de Chung Mong-hong, ganó en 2019 el premio Golden Horse a mejor largometraje de ficción en la 56.ª edición; representó a Taiwán en los Óscar y llegó a la lista preliminar de quince, pero no quedó entre las cinco nominadas finales[^60]. The Great Buddha+, de Huang Hsin-yao, ganó cinco premios en la 54.ª edición de los Golden Horse en 2017; ese mismo año, The Bold, the Corrupt, and the Beautiful, de Yang Ya-che, ganó mejor largometraje de ficción[^61].
+Alejemos la cámara al inicio. El _benshi_ en el cine en 1930, doblaba en taiwanés a una pantalla que no hablaba. Pasaron casi ochenta años entre medio, el cine en taiwanés fue estrangulado, la política del mandarín fue dominante, el Nuevo Cine hizo que los dialectos volvieran silenciosamente a las películas de arte, hasta _Cape No. 7_ en 2008, la pantalla finalmente pudo hablar con firmeza de cinco idiomas al mismo tiempo, y toda la gente de Taiwán hizo cola para verla. La tercera resurrección del cine nacional fue esencialmente una restauración lingüística: los taiwaneses volvieron a escuchar en la gran pantalla la voz de su habla cotidiana.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/kXhSvkM4-Ts" title="Tráiler oficial de The Great Buddha+" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   <iframe src="https://www.youtube.com/embed/YZSZN3SxljY" title="Tráiler Oficial de Cape No. 7" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Tráiler oficial de The Great Buddha+. Huang Hsin-yao usa imagen en blanco y negro, narración en taiwanés y la mirada de una cámara de tablero para convertir el absurdo de los sectores más bajos de la sociedad en la gran ganadora de los Golden Horse 2017._
+\_Tráiler Oficial de _Cape No. 7_. Cinco idiomas en la misma pantalla, en el verano de 2008 devolvió a los taiwaneses al cine.\*
 
-El cine de género también evolucionó: Detention, de John Hsu, adaptada en 2019 del videojuego de Red Candle Games, transformó el Terror Blanco en una película de horror; recaudó 259 millones en Taiwán y fue la película nacional más taquillera de ese año[^62]. En 2023, Marry My Dead Body recaudó 363 millones en Taiwán y llegó al séptimo lugar del ranking global de películas no habladas en inglés de Netflix[^63].
+> 📝 **Nota de curador:** _Cape No. 7_ a menudo es cuestionado por la élite por ser "un éxito comercial, pero artísticamente inferior a los maestros del Nuevo Cine". Esta crítica está bien, pero pregunta la pregunta equivocada. Lo que _Cape No. 7_ quería resolver nunca fue "qué tan profundo se filma", era "si los taiwaneses están dispuestos a gastar dinero para entrar al cine y ver sus propias historias"... Esto es precisamente lo que el Nuevo Cine no pudo resolver en esos diez años. Su significado histórico no está en qué tan buena es, está en demostrar una cosa: una película hecha con el propio idioma de Taiwán, contando las historias de la gente de Taiwán, puede ser aclamada y taquillera al mismo tiempo. Lo que se le negó al cine en taiwanés hace medio siglo... usar su propio idioma para filmar bien y vender... _Cape No. 7_ lo recuperó por él.
+
+Wei Te-sheng no se detuvo. En 2011, filmó _Seediq Bale_, producida por John Woo, basada en el Incidente de Wushe de 1930, contando esa historia de resistencia anti-japonesa desde la perspectiva nativa. El costo de esta película fue de unos 720 millones, las dos partes _The Sun Flag_ y _The Rainbow Bridge_ sumaron una taquilla total de unos 810 millones[^55]. Representó a Taiwán para competir al Oscar a Mejor Película Extranjera, entró en el top 9, pero finalmente no entró en el top 5[^56]. Ese año, la cuota de mercado de las películas locales alcanzó el 17,46 %, un máximo histórico en ese momento[^54]. En 2014, también produjo _KANO_ dirigida por Ma Chih-hsiang, contando la historia del equipo de béisbol de la Escuela Normal de Chiayi que entró al Koshien en 1931[^57].
+
+La ola levantada por _Cape No. 7_ fue mucho más que solo Wei Te-sheng, fue el retorno de todo el cine de género. En 2010, _Monga_ de Niang Zhenze; en 2011, _You Are the Apple of My Eye_ de Nine Chips, esta última con 425 millones en todo el país, y se convirtió en una de las películas de habla china más taquilleras en la historia de Hong Kong; en 2015, _My Girl_ sumó 410 millones en todo el país[^58]. Los taiwaneses volvieron a acostumbrarse a "ir al cine a ver películas nacionales". El cine nacional renació, y esta vez, aprendió cómo hablar con la audiencia.
+
+## La década de "veneno de taquilla" del cine nacional, y su reverso
+
+Regresemos el eje de tiempo, solo así se puede ver claramente qué salvó _Cape No. 7_.
+
+Las seis palabras "Película nacional = Veneno de taquilla" fueron la verdadera impresión colectiva de la sociedad taiwanesa sobre el cine nacional en esos diez años de las décadas de 1990 a 2007[^59]. Los distribuidores no se atrevían a invertir, los cines no se atrevían a proyectar, el público no quería ver, formando un círculo vicioso que nadie podía hacer girar. Era una época en la que decías a tus amigos "voy a ver una película nacional" y te reían.
+
+Pero la etiqueta de "veneno" de esta década, y el estigma de "baja calidad" del cine en taiwanés, en realidad son dos versiones del mismo mecanismo: una industria, después de perder las condiciones, es definida por su resultado a la inversa. Al cine en taiwanés se le quitaron las películas y los fondos; al cine nacional posterior al Nuevo Cine se le quitaron el mercado y las vías. La diferencia es que el último encontró la cura en _Cape No. 7_, mientras que el primero no.
+
+Por eso, entender la historia del cine nacional no puede mirar solo a los maestros premiados. Una historia completa del cine nacional es la industria del cine en taiwanés, la política de lo Saludable y Realista, los géneros de wuxia y patriótica, el arte del Nuevo Cine, el veneno de la década de bajo rendimiento, la復興 (renovación) posterior a _Cape No. 7_... todo esto sumado es la verdadera cara del cine de Taiwán. Solo sacar los cuatro nombres mundiales de Hou, Yang, Cai y Li es como ver solo los puntos más brillantes de una historia más grande.
+
+## Contemporáneo: Premios, Taquilla, y la Política de un Premio
+
+Después de _Cape No. 7_, el cine de Taiwán entró en una etapa más madura y también más compleja.
+
+En el lado del cine de autor, _The Sun Also Rises_ de Chung Mong-ho en 2019 ganó el Mejor Largometraje en la 56ª Golden Horse, representó a Taiwán para competir al Oscar, entró en la preselección de los 15 mejores, pero no entró en los últimos 5[^60]. _The Great Buddha+_ de Huang Hsin-yao en 2017 ganó cinco premios en la 54ª Golden Horse; en la misma edición, _Soul_ de Yang Ya-zhe ganó el Mejor Largometraje[^61].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/vS_s5_IIDag" title="Tráiler 4K de Detention" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   <iframe src="https://www.youtube.com/embed/kXhSvkM4-Ts" title="Tráiler Oficial de The Great Buddha+" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Tráiler 4K de Detention. Convertir el Terror Blanco en un videojuego y luego en una película de horror taquillera: el cine taiwanés contemporáneo empezó a usar la carcasa del género para contener historias que antes no podían tocarse._
+\_Tráiler Oficial de _The Great Buddha+_. Huang Hsin-yao usó imágenes en blanco y negro, narración en taiwanés y la perspectiva de una cámara de auto, convirtiendo la absurdidad de las clases bajas sociales en el mayor ganador de la Golden Horse de 2017.\*
 
-Hay otra película muy particular que conviene mencionar: The Pig, the Snake and the Pigeon, dirigida por Wong Ching-po en 2023. En Taiwán recaudó apenas 47 millones, lejos de un gran éxito; pero en 2024, tras estrenarse en China, se volvió viral y alcanzó 665 millones de yuanes de taquilla[^64]. Que una película taiwanesa tenga un rendimiento discreto en su propio mercado y se convierta en fenómeno al otro lado del estrecho muestra por sí mismo lo delicada que es la tensión cultural contemporánea entre ambos lados.
+En el lado del cine de género también se estaba evolucionando: en 2019, _Detention_ de Hsu Han-qiang, adaptado del videojuego de Red Candle Games, usó el tema del Terror Blanco para filmar un terror, con 259 millones en todo el país, siendo la campeona de taquilla de películas nacionales ese año[^62]; en 2023, _A Girl, My Boyfriend, and a Ghost_ sumó 363 millones en todo el país, y también alcanzó el puesto 7 en el ranking global de películas no inglesas de Netflix[^63].
 
-Las salas, entretanto, enfrentan otra crisis. La taquilla total de los cines taiwaneses cayó de unos 10.100 millones en 2019 a unos 6.000 millones en 2024: se evaporó un 40%. En el mismo periodo, Netflix alcanzó en Taiwán una cuota del 83% del mercado de streaming[^65]. El público no dejó de ver contenido audiovisual; convirtió de nuevo el salón en sala de cine. Es una repetición del mismo guion de 1962, cuando el inicio de Taiwan Television llevó al público de la ópera gezai de las salas a las casas. Las plataformas de streaming también invierten masivamente en contenidos audiovisuales taiwaneses: Light the Night, Gold Leaf, The Magician on the Skywalk y Seqalu han desplazado recursos de la gran pantalla a la pantalla pequeña[^66].
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+   <iframe src="https://www.youtube.com/embed/vS_s5_IIDag" title="Tráiler 4K de Detention" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-Por último, volvamos a ese premio llamado Golden Horse.
+\_Tráiler 4K de _Detention_. Convertir el Terror Blanco en un videojuego, y luego filmarlo como una película de terror taquillera... el cine contemporáneo de Taiwán comenzó a usar la cáscara del cine de género para contener esas historias que antes no se podían tocar.\*
 
-En noviembre de 2018, durante la 55.ª edición de los Golden Horse, Our Youth in Taiwan, de la directora Fu Yue, ganó el premio a mejor documental. Al recibirlo, dijo en el escenario: “Espero que algún día nuestro país pueda ser visto como una entidad verdaderamente independiente. Ese es mi mayor deseo como taiwanesa”[^67]. Sus palabras provocaron una enorme controversia a ambos lados del estrecho. Ang Lee, que presentaba la ceremonia esa noche, dijo después a periodistas: “Taiwan is free and the film festival is open. You can say whatever you want to say.” (“Taiwán es libre y el festival de cine es abierto. Puedes decir lo que quieras”)[^68]. Al año siguiente, el 7 de agosto de 2019, la Administración de Cine de China anunció la suspensión de la participación de películas y personal de China continental en los Golden Horse; los Golden Rooster de China incluso programaron deliberadamente su ceremonia el mismo día que los Golden Horse[^69].
+También hay una película muy especial que mencionar: _The Pig, the Snake and the Pigeon_ dirigida por Huang Ching-fu en 2023, en Taiwán la taquilla fue solo de 47 millones, no se puede decir que fue un gran éxito; pero en 2024, cuando se estrenó en China, explotó, abriendo una taquilla de 665 millones de RMB[^64]. Una película de Taiwán que fue mediocre en su propio mercado, pero se convirtió en un fenómeno en la otra orilla; esto en sí mismo, explica cuán sutil es la tensión cultural entre las dos orillas en la que se encuentra el cine contemporáneo de Taiwán.
 
-Cada persona puede juzgar este hecho a su manera. Taiwan.md se limita aquí a dejar claro lo ocurrido: un premio que originalmente era visto como un templo neutral del cine en lengua china quedó envuelto en la pugna política a ambos lados del estrecho por un discurso de aceptación. Y descubrirás que el núcleo de esta controversia es, en realidad, el mismo núcleo de toda la historia del cine nacional: quién puede hablar, desde qué identidad y sobre qué tipo de Taiwán, en la pantalla y sobre el escenario.
+Y los propios cines están enfrentando otra crisis. La taquilla total de los cines de Taiwán cayó de unos 10.100 millones en 2019 a unos 6.000 millones en 2024, evaporando el 40 %; al mismo tiempo, la cuota de streaming de Netflix en Taiwán alcanzó el 83 %[^65]. El público no dejó de ver películas, convirtieron su sala de estar de nuevo en un cine, esto es la repetición del mismo guion que en 1962 cuando TTV se emitió, llevando a la audiencia de la ópera Gezaixi de los cines a sus hogares; las plataformas de streaming también están invirtiendo masivamente en contenido audiovisual de Taiwán, _Lights of the East_ (The Light), _Tea Money_ (The Legend of the Tea), _The Magicians of the Sky Bridge_ (The Magicians), _The Legend of Seediq Bale_ (Scarro) son series que desvían los recursos de la gran pantalla a la pequeña pantalla[^66].
 
-## Conclusión: llevan setenta años gritando lo mismo
+Finalmente, volvemos a esa premiación llamada Golden Horse.
 
-Volvamos al benshi de pie junto a la pantalla.
+En noviembre de 2018, en la 55ª Golden Horse, el documental _Our Youth, in Taiwan_ de la directora Fu Yu ganó el Mejor Documental. En su discurso en el escenario, dijo: "Espero que un día, nuestro país pueda ser visto como un individuo verdaderamente independiente, este es mi mayor deseo como taiwanesa"[^67]. Esto provocó una enorme controversia entre las dos orillas. Ang Lee, quien presentó el premio esa noche, dijo a los periodistas después: "Taiwan es libre y el festival es abierto. Puedes decir lo que quieras decir"[^68]. Al año siguiente, el 7 de agosto de 2019, la Administración Estatal de Películas de China anunció la suspensión de la participación de películas y personal de cine continental en la Golden Horse; el Golden Rooster de China incluso programó intencionalmente su ceremonia de premiación para el mismo día que la Golden Horse[^69].
 
-La imagen de ese hombre que ponía voz en taiwanés a una película muda y Cape No. 7, con cinco lenguas sonando juntas en una sala de 2008, están separadas por casi ochenta años. En esos ochenta años, el cine taiwanés fue declarado muerto al menos tres veces: el cine en taiwanés fue asfixiado por la política; después del Nuevo Cine, el mercado lo ahogó; durante una década de crisis, se lo llamó veneno de taquilla. Pero una y otra vez volvió a vivir, y cada resurrección fue Taiwán recuperando algo: usar sus propias lenguas, interpretar sus propios rostros y poner sus propias historias en la pantalla.
+Cómo ver este evento, cada uno tiene su propio juicio, Taiwan.md aquí solo se encarga de registrar el hecho claramente: un premio que originalmente se consideraba un santuario neutral del cine de habla china, debido a un discurso de premiación, fue arrastrado a la lucha política entre las dos orillas. Y descubrirás que el núcleo de esta controversia, en realidad es el mismo que el núcleo de toda la historia del cine nacional: en la pantalla, en el escenario, ¿quién, con qué identidad, debe hablar de qué Taiwán.
 
-Así que la próxima vez que veas en las noticias un titular del tipo “el cine nacional ha vuelto a morir”, quizá recuerdes esto: llevan setenta años gritando lo mismo.
+## Epílogo: Ya lo han gritado durante setenta años
 
-[^1]: [電影辯士 - 維基百科](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — En 1930 había en Taiwán 41 benshi japoneses y 19 taiwaneses, unos 60 en total; para ejercer debían aprobar el examen de la sección policial prefectural y obtener licencia.
+Volviendo al _benshi_ que estaba al lado de la pantalla al principio.
 
-[^2]: [李政亮：辯士、文協與殖民地的電影啟蒙 - 鳴人堂](https://opinion.udn.com/opinion/story/12369) — Chan Tian-ma y Wang Yun-feng eran los benshi más conocidos de Dadaocheng; Lu Ping-ting, benshi del equipo itinerante de cine de la Asociación Cultural, fue interrumpido por la policía japonesa por intercalar comentarios políticos durante una explicación.
+La imagen de él doblando en taiwanés a la pantalla muda, y _Cape No. 7_ en 2008 donde cinco idiomas resonaban juntos en el cine, hay casi ochenta años entre medio. En estos ochenta años, el cine de Taiwán fue declarado muerto al menos tres veces: el cine en taiwanés fue estrangulado por la política, después del Nuevo Cine fue ahogado por el mercado, la década de bajo rendimiento fue llamada veneno de taquilla. Pero renació una y otra vez, y cada resurrección fue Taiwán recuperando una cosa: usar su propio idioma, representar sus propios rostros, poner sus propias historias en la pantalla.
 
-[^3]: [海角七號 - 維基百科](https://zh.wikipedia.org/zh-tw/%E6%B5%B7%E8%A7%92%E4%B8%83%E8%99%9F) — La película usa cinco lenguas: mandarín, taiwanés, japonés, inglés y paiwan; el artículo de Wikipedia las enumera literalmente.
+Así que la próxima vez, cuando veas en las noticias titulares como "el cine nacional está muerto de nuevo", probablemente recordarás: esta frase, la han gritado durante setenta años.
 
-[^4]: [蘇致亨《毋甘願的電影史》相關評介](https://blog.simpleinfo.cc/) — En el apogeo del cine en taiwanés, Taiwán fue considerado el tercer mayor productor mundial de largometrajes de ficción, después de Japón e India.
+[^1]: [电影辩士 - Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — En 1930, Taiwán tenía 41 _benshi_ de nacionalidad japonesa y 19 taiwaneses, aproximadamente 60 en total; ejercer requería aprobar el examen de la oficina de policía para obtener la licencia.
 
-[^5]: [薛平貴與王寶釧 - TFAI 數位博物館](https://tfai.openmuseum.tw/) — Estrenada en enero de 1956, dirigida por Ho Chi-ming y producida por Chen Cheng-san (Mailiao Gungle Society), fue la primera película taiwanesa de ópera gezai en taiwanés rodada en 35 mm; su taquilla de unos 1,2 millones fue más de tres veces su costo.
+[^2]: [Li Zhengliang: _Benshi_, la Asociación Cultural y la Ilustración Cinematográfica Colonial - Mingren Hall](https://opinion.udn.com/opinion/story/12369) — Zhan Tianma y Wang Yunfeng eran los _benshi_ más famosos en Dadouci; el _benshi_ Lu Bingding del equipo de proyecciones de la Asociación Cultural fue detenido por la policía japonesa porque incluía comentarios políticos en su narración.
 
-[^6]: [台語電影 - 維基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E8%AA%9E%E9%9B%BB%E5%BD%B1) — Primer pico en 1958, con 76 películas producidas; en 1959, por la modificación de la normativa sobre película virgen y las inundaciones del 7 de agosto, la cifra cayó a 35.
+[^3]: [Cape No. 7 - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B5%B7%E8%A7%92%E4%B8%83%E8%99%9F) — En la película se usan cinco idiomas: mandarín, taiwanés, japonés, inglés, paiwan; el artículo de Wikipedia los enumera palabra por palabra.
 
-[^7]: [辛奇 - The News Lens 關鍵評論網](https://www.thenewslens.com/) — Hsin Chi (1924-2010), director importante del periodo del cine en taiwanés, completó 12 películas solo en 1969.
+[^4]: [Reseña de _La Historia del Cine Inconforme_ de Su Zhiheng](https://blog.simpleinfo.cc/) — En el apogeo del cine en taiwanés, Taiwán fue considerado el tercer mayor productor de largometrajes del mundo, después de Japón e India.
 
-[^8]: [林摶秋與玉峰影業 - 典藏 ARTouch](https://artouch.com/) — Lin Tuan-chiu fundó Yufeng Film Company en 1957 y completó el Hushan Studio en Yingge en 1958, intentando industrializar el cine en taiwanés.
+[^5]: [Xue Pinggui y Wang Baochuan - Museo Digital TFAI](https://tfai.openmuseum.tw/) — Estrenada en enero de 1956, dirigida por He Jiming, producida por Chen Chengsan (Gongle de Mailiao), la primera película en taiwanés de ópera Gezaixi en 35 mm de Taiwán, la taquilla fue de unos 1,2 millones, más del triple del costo.
 
-[^9]: [大俠梅花鹿／天字第一號 - TFAI 數位修復片目](https://tfai.openmuseum.tw/) — El cine en taiwanés tenía géneros diversos: ópera gezai, melodrama, comedia como Brother Wang and Brother Liu Tour Taiwan, cine de espías como Number One Under Heaven (1964, Chang Ying) y fantasía infantil como The Fantasy of the Deer Warrior (1961, Chang Ying).
+[^6]: [Cine en taiwanés - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E8%AA%9E%E9%9B%BB%E5%BD%B1) — La primera cima fue en 1958 con 76 películas; en 1959, debido a la modificación del método de películas y la inundación de Qiba, cayó a 35.
 
-[^10]: [Taiwanese-language cinema 學術討論 - Taiwan Insight／Taipei Times](https://taiwaninsight.org/) — Las cifras totales del cine en taiwanés divergen: la red educativa del TFAI habla de “más de mil”; Taipei Times estima “entre 1.200 y 1.500”; estudios académicos hablan de “más de 2.000”.
+[^7]: [Xin Qi - The News Lens](https://www.thenewslens.com/) — Xin Qi (1924-2010) fue un director importante en la era del cine en taiwanés, completó 12 películas en 1969.
 
-[^11]: [台語片片目說明 - TFAI openmuseum](https://tfai.openmuseum.tw/) — Las 1.238 piezas conservadas por el TFAI corresponden a la cantidad preservada existente (definición 1955-1981), no a la producción total original; la institución afirma que lo existente es menos de una quinta parte de la producción original.
+[^8]: [Lin Boqiu y Yufeng Film - ARTouch](https://artouch.com/) — Lin Boqiu fundó Yufeng Film en 1957, completó el estudio Hushan en Yingge en 1958, intentando industrializar el cine en taiwanés.
 
-[^12]: [蘇致亨《毋甘願的電影史》論點](https://blog.simpleinfo.cc/) — El gobierno fabricó activamente el estereotipo “taiwanés = blanco y negro = vulgar” mediante el control de la importación de película virgen; el declive del cine en taiwanés fue una represión política, no una simple eliminación de mercado.
+[^9]: [The Great Hero Plum Deer / The First Number of Tian - TFAI Digital Restoration List](https://tfai.openmuseum.tw/) — Géneros diversos del cine en taiwanés: ópera Gezaixi, drama trágico, comedia _Wang Ge Liu Ge Touring Taiwan_ (1964), película de espías _The First Number of Tian_ (1964, Zhang Ying), fantasía infantil _The Great Hero Plum Deer_ (1961, Zhang Ying).
 
-[^13]: [台語片衰亡的政策因素 - 方格子 vocus](https://vocus.cc/) — En 1957 se modificó la normativa de depósito impositivo para la importación de película virgen, y el cine en taiwanés quedó excluido de las exenciones, aumentando relativamente sus costos de producción.
+[^10]: [Discusión académica sobre el cine en taiwanés - Taiwan Insight / Taipei Times](https://taiwaninsight.org/) — Divergen sobre la producción total del cine en taiwanés: la red educativa del TFAI dice "más de mil", _The Taipei Times_ estima "1.200 a 1.500", la investigación académica tiene la afirmación de "más de 2.000".
 
-[^14]: [台語片與國語政策 - 想想論壇 thinkingtaiwan](https://www.thinkingtaiwan.com/) — Desde 1959 se restringió a los benshi en taiwanés; en 1962 Taiwan Television fragmentó al público; el cine en mandarín recibía subsidios y el cine en taiwanés no, entre múltiples factores simultáneos.
+[^11]: [Explicación de la lista de películas en taiwanés - TFAI openmuseum](https://tfai.openmuseum.tw/) — Las 1.238 piezas en la colección del TFAI son la cantidad conservada actualmente (definición 1955-1981), no la producción total de la época; la institución admite que las existentes son menos de una quinta parte de la producción original.
 
-[^15]: [台語電影 - 維基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E8%AA%9E%E9%9B%BB%E5%BD%B1) — En 1969, la producción de películas en mandarín superó por primera vez a la de películas en taiwanés.
+[^12]: [Argumento de _La Historia del Cine Inconforme_ de Su Zhiheng](https://blog.simpleinfo.cc/) — El gobierno, a través del control de la importación de películas, creó activamente el estereotipo de "taiwanés = blanco y negro = vulgar"; el declive del cine en taiwanés fue una represión política, no solo una eliminación de mercado.
 
-[^16]: [台語電影末代作品 - 維基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E8%AA%9E%E9%9B%BB%E5%BD%B1) — La última película en taiwanés fue Chen San and Wu Niang, protagonizada por Yang Li-hua en 1981.
+[^13]: [Factores políticos del declive del cine en taiwanés - vocus](https://vocus.cc/) — En 1957 se modificó el _Método de Importación de Películas con Impuesto de Depósito_, excluyendo el cine en taiwanés del rango de exención de impuestos, el costo de filmación aumentó relativamente.
 
-[^17]: [台語片的搶救與研究 - The News Lens／KCL](https://www.thenewslens.com/) — El cine en taiwanés fue visto durante mucho tiempo por la historiografía dominante como una “rama secundaria”; en la década de 1990 empezó su rescate por investigadores, y en 2017 King’s College London organizó el primer congreso académico en inglés.
+[^14]: [Cine en taiwanés y Política del Mandarín - Thinking Taiwan](https://www.thinkingtaiwan.com/) — Desde 1959 se limitó a los _benshi_ en taiwanés, en 1962 la emisión de TTV desvió a la audiencia, las películas en mandarín tenían subsidios mientras que las en taiwanés no, múltiples factores de asedio.
 
-[^18]: [中央電影公司 - 維基百科](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%9B%BB%E5%BD%B1) — El 1 de septiembre de 1954, Agricultural Education Company y Taiwan Film Company se fusionaron para formar CMPC, usando equipamiento de ayuda estadounidense.
+[^15]: [Cine en taiwanés - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E8%AA%9E%E9%9B%BB%E5%BD%B1) — En 1969, la producción de películas en mandarín superó por primera vez a la del cine en taiwanés.
 
-[^19]: [龔弘與健康寫實 - TFAI openmuseum](https://tfai.openmuseum.tw/muse/digi_object/da84d66ad792c416f2684fad22e426c2) — Kung Hong asumió como gerente general de CMPC en 1963 e impulsó la línea de realismo sano, definiendo: “lo sano es educativo; lo realista es rural”.
+[^16]: [Última obra del cine en taiwanés - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E8%AA%9E%E9%9B%BB%E5%BD%B1) — La última película en taiwanés fue _Chen San Wu Niang_ protagonizada por Yang Lihua en 1981.
 
-[^20]: [蚵女 - TFAI openmuseum](https://tfai.openmuseum.tw/muse/digi_object/e4e207fa72ea550e1b76a4395ea7f66f) — Oyster Girl (1964) fue la primera película de producción propia de CMPC en color y pantalla panorámica, codirigida por Li Chia y Li Hsing, y ganó mejor largometraje en el 11.º Festival de Cine Asiático.
+[^17]: [Rescate e investigación del cine en taiwanés - The News Lens / KCL](https://www.thenewslens.com/) — El cine en taiwanés fue considerado durante mucho tiempo como una "ramificación" en la historia cinematográfica mainstream, los investigadores comenzaron a rescatarlo en la década de 1990, en 2017 el King's College de Londres celebró el primer simposio académico en inglés.
 
-[^21]: [瓊瑤電影 - 維基百科](https://zh.wikipedia.org/wiki/%E7%93%8A%E7%91%B6) — La primera adaptación cinematográfica de Chiung Yao fue The Silent Wife, dirigida por Li Hsing en 1965; entre 1965 y 1969 se filmaron unas 25.
+[^18]: [Compañía de Cine Central - Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E9%9B%BB%E5%BD%B1) — El 1 de septiembre de 1954, la Compañía de Educación Agrícola y la Compañía de Cine de Taiwán se fusionaron para formar CMPC, usando equipos de la ayuda estadounidense.
 
-[^22]: [二秦二林 - 維基百科](https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E) — Chin Han, Chin Hsiang-lin, Brigitte Lin y Joan Lin; Brigitte Lin debutó en Outside the Window en 1973, y Joan Lin ganó el Golden Horse a mejor actriz en 1979.
+[^19]: [Gong Hong y lo Saludable y Realista - TFAI openmuseum](https://tfai.openmuseum.tw/muse/digi_object/da84d66ad792c416f2684fad22e426c2) — Gong Hong asumió el cargo de gerente general de CMPC en 1963 para promover la línea Saludable y Realista, definiendo "Saludable es educación moral, Realista es el campo rural".
 
-[^23]: [龍門客棧 - 維基百科](https://zh.wikipedia.org/wiki/%E9%BE%8D%E9%96%80%E5%AE%A2%E6%A3%A7) — Dragon Inn (1967), de King Hu, fue la película más taquillera del año en Taiwán e inició una década de auge del cine wuxia.
+[^20]: [The Oyster Girls - TFAI openmuseum](https://tfai.openmuseum.tw/muse/digi_object/e4e207fa72ea550e1b76a4395ea7f66f) — _The Oyster Girls_ (1964) fue la primera película de pantalla ancha a color producida por CMPC, dirigida conjuntamente por Li Jia y Li Xing, ganó el Mejor Largometraje en la 11ª Feria de Cine de Asia.
 
-[^24]: [俠女 - 維基百科／坎城影展](https://zh.wikipedia.org/wiki/%E4%BF%A0%E5%A5%B3) — A Touch of Zen ganó el Gran Premio de la Comisión Técnica Superior en el 28.º Festival de Cannes (1975); fue la segunda película en lengua china premiada en Cannes (la primera fue The Magnificent Concubine, de Li Han-hsiang, en 1962), y participó en nombre de “Hong Kong” por invitación de críticos franceses.
+[^21]: [Películas de Qiong Yao - Wikipedia](https://zh.wikipedia.org/wiki/%E7%93%8A%E7%91%B6) — La primera película adaptada de Qiong Yao fue _La Prima Huérfana_ (1965) de Li Xing, de 1965 a 1969 se filmaron unas 25 películas.
 
-[^25]: [胡金銓的武俠美學影響 - BIOS Monthly](https://www.biosmonthly.com/) — La estética wuxia de King Hu influyó en Tsui Hark y Ang Lee; la escena del bosque de bambú de Crouching Tiger, Hidden Dragon es un homenaje a él.
+[^22]: [Dos Qin, Dos Lin - Wikipedia](https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E) — Qin Han, Qin Xianglin, Lin Qingxia, Lin Fengjiao; Lin Qingxia debutó en 1973 con _Outside the Window_, Lin Fengjiao ganó la Mejor Actriz en los Golden Horse en 1979.
 
-[^26]: [政宣愛國電影 - TFAI 台灣影史教育網](https://edumovie-tfai.org.tw/article/content/124) — Tras la salida de Naciones Unidas en 1971, el gobierno filmó películas patrióticas “para estabilizar los ánimos y difundir las acciones del gobierno”.
+[^23]: [Dragon Gate Inn - Wikipedia](https://zh.wikipedia.org/wiki/%E9%BE%8D%E9%96%80%E5%AE%A2%E6%A3%A7) — _Dragon Gate Inn_ (1967) de Hu Jinxuan fue la campeona de taquilla de Taiwán ese año, abriendo una tendencia de películas de wuxia que duró una década.
 
-[^27]: [英烈千秋／八百壯士 - 維基百科](https://zh.wikipedia.org/wiki/%E8%8B%B1%E7%83%88%E5%8D%83%E7%A7%8B) — Everlasting Glory (1974, impulsada por Wang Sheng, dirigida por Ting Shan-hsi y protagonizada por Ko Chun-hsiung), Eight Hundred Heroes (1976) y Heroes of the Eastern Skies (1977) son representantes del cine patriótico de propaganda.
+[^24]: [A Touch of Zen - Wikipedia / Festival de Cannes](https://zh.wikipedia.org/wiki/%E4%BF%A0%E5%A5%B3) — _A Touch of Zen_ ganó el Gran Premio de la Comisión Técnica en el 28º Festival de Cannes (1975), fue la segunda película de habla china en ganar en Cannes (la primera fue _The Yangs General's Daughter_ de Li Xiangxiang en 1962), participó bajo el nombre de "Hong Kong", invitada por críticos de cine franceses.
 
-[^28]: [政宣愛國電影 - TFAI 台灣影史教育網](https://edumovie-tfai.org.tw/article/content/124) — Las películas patrióticas se retransmitían a menudo por televisión en días festivos; no se encontró documentación primaria que pruebe “salidas escolares obligatorias al cine”, por lo que no debe afirmarse.
+[^25]: [Influencia de la estética wuxia de Hu Jinxuan - BIOS Monthly](https://www.biosmonthly.com/) — La estética wuxia de Hu Jinxuan influyó en Tsui Hark y Ang Lee, la escena del bosque de bambú de _Crouching Tiger, Hidden Dragon_ es un homenaje a él.
 
-[^29]: [金馬獎 - 維基百科](https://zh.wikipedia.org/wiki/%E9%87%91%E9%A6%AC%E7%8D%8E) — En 1957, el sector privado organizó una edición de un festival de cine en taiwanés bajo el nombre “Golden Horse”; en 1962, la Oficina de Información del Gobierno fundó los Golden Horse oficiales, nominalmente limitados a películas en mandarín, con la ceremonia programada alrededor del cumpleaños de Chiang Kai-shek.
+[^26]: [Películas patrióticas de propaganda política - Red Educativa de la Historia Cinematográfica de Taiwán TFAI](https://edumovie-tfai.org.tw/article/content/124) — Después de salir de la ONU en 1971, el gobierno filmaba películas patrióticas "para estabilizar el ánimo del pueblo y promover las acciones del gobierno".
 
-[^30]: [光陰的故事 - 維基百科](https://zh.wikipedia.org/wiki/%E5%85%89%E9%99%B0%E7%9A%84%E6%95%85%E4%BA%8B) — In Our Time (1982) está compuesta por cuatro segmentos dirigidos por Tao Te-chen, Edward Yang, Ko I-chen y Chang Yi, y se considera punto de partida del Nuevo Cine Taiwanés.
+[^27]: [The Thousand Autumns of the Heroes / The Eight Hundred Heroes - Wikipedia](https://zh.wikipedia.org/wiki/%E8%8B%B1%E7%83%88%E5%8D%83%E7%A7%8B) — _The Thousand Autumns of the Heroes_ (1974, impulsado por Wang Sheng, dirigido por Ding Shanxi, protagonizada por Ke Junxiong), _The Eight Hundred Heroes_ (1976), _The Heroes of Jianqiao_ (1977) son las películas patrióticas de propaganda política representativas.
 
-[^31]: [兒子的大玩偶 - 維基百科](https://zh.wikipedia.org/wiki/%E5%85%92%E5%AD%90%E7%9A%84%E5%A4%A7%E7%8E%A9%E5%81%B6) — The Sandwich Man (1983) adapta a Huang Chun-ming; sus tres segmentos fueron dirigidos por Hou Hsiao-hsien, Tseng Chuang-hsiang y Wan Jen.
+[^28]: [Películas patrióticas de propaganda política - Red Educativa de la Historia Cinematográfica de Taiwán TFAI](https://edumovie-tfai.org.tw/article/content/124) — Las películas patrióticas a menudo se repetían en la televisión en días festivos; no se encontró evidencia documental primaria para "la entrada obligatoria del colegio", no se puede afirmar.
 
-[^32]: [削蘋果事件 - 維基百科](https://zh.wikipedia.org/wiki/%E5%85%92%E5%AD%90%E7%9A%84%E5%A4%A7%E7%8E%A9%E5%81%B6) — The Taste of Apples, segmento dirigido por Wan Jen, fue objeto de exigencias de corte por parte del Comité Cultural del Kuomintang; ese “incidente de recortar la manzana” se resolvió bajo presión pública y el segmento se conservó.
+[^29]: [Golden Horse - Wikipedia](https://zh.wikipedia.org/wiki/%E9%87%91%E9%A6%AC%E7%8D%8E) — En 1957, el sector privado organizó una vez un festival de cine en taiwanés bajo el nombre de "Golden Horse"; en 1962, la Oficina de Información creó el Golden Horse oficial, nominalmente solo para películas en mandarín, la ceremonia se programó alrededor del cumpleaños de Chiang Kai-shek.
 
-[^33]: [台灣新電影宣言 - 維基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%96%B0%E9%9B%BB%E5%BD%B1) — El “Manifiesto del Nuevo Cine Taiwanés” se publicó el 24 de enero de 1987 en el suplemento Renjian de China Times y fue redactado por Chan Hung-chih.
+[^30]: [Someday in a Rainy Season - Wikipedia](https://zh.wikipedia.org/wiki/%E5%85%89%E9%99%B0%E7%9A%84%E6%95%85%E4%BA%8B) — _Someday in a Rainy Season_ (1982) tenía cuatro segmentos dirigidos por Tao Dechen, Edward Yang, Ke Yizheng, Zhang Yi, considerado el punto de partida del Nuevo Cine de Taiwán.
 
-[^34]: [侯孝賢 - 維基百科](https://zh.wikipedia.org/wiki/%E4%BE%AF%E5%AD%9D%E8%B3%A2) — Entre las primeras obras representativas de Hou Hsiao-hsien están The Boys from Fengkuei, A Time to Live, a Time to Die y Dust in the Wind; es conocido por sus planos largos y su memoria local.
+[^31]: [The Son's Dummy - Wikipedia](https://zh.wikipedia.org/wiki/%E5%85%92%E5%AD%90%E7%9A%84%E5%A4%A7%E7%8E%A9%E5%81%B6) — _The Son's Dummy_ (1983), adaptada de Huang Chunming, tenía tres segmentos dirigidos por Hou Hsiao-hsien, Zeng Zhuangxiang, Wan Ren.
 
-[^35]: [悲情城市 - 維基百科／威尼斯影展](https://zh.wikipedia.org/wiki/%E6%82%B2%E6%83%85%E5%9F%8E%E5%B8%82) — A City of Sadness ganó el León de Oro en la 46.ª Mostra de Venecia (1989-09-15), primer máximo premio de Taiwán en los tres grandes festivales, y aborda el 28 de Febrero desde la historia de una familia.
+[^32]: [Incidente de la Manzana Recortada - Wikipedia](https://zh.wikipedia.org/wiki/%E5%85%92%E5%AD%90%E7%9A%84%E5%A4%A7%E7%8E%A9%E5%81%B6) — El segmento de Wan Ren _The Taste of Apple_ fue requerido por la Comisión de Propaganda Cultural del Kuomintang para recortar, este es el "Incidente de la Manzana Recortada", se salvó bajo la presión de la opinión pública.
 
-[^36]: [侯孝賢的國際影響 - BIOS Monthly](https://www.biosmonthly.com/) — Abbas Kiarostami defendió The Puppetmaster; se dice que Akira Kurosawa vio The Puppetmaster cuatro veces y admitió que no podría filmarla; Hirokazu Kore-eda fue profundamente influido por Hou Hsiao-hsien (referido).
+[^33]: [Manifiesto del Nuevo Cine de Taiwán - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%96%B0%E9%9B%BB%E5%BD%B1) — El _Manifiesto del Nuevo Cine de Taiwán_ se publicó el 24 de enero de 1987 en la Suplemento Cultural de _China Times_, redactado por Zhan Hongzhi.
 
-[^37]: [牯嶺街少年殺人事件 - 維基百科](https://zh.wikipedia.org/wiki/%E7%89%AF%E5%B6%BA%E8%A1%97%E5%B0%91%E5%B9%B4%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6) — A Brighter Summer Day (1991), de Edward Yang, dura 237 minutos en su versión original y adapta un asesinato juvenil real de 1961.
+[^34]: [Hou Hsiao-hsien - Wikipedia](https://zh.wikipedia.org/wiki/%E4%BE%AF%E5%AD%9D%E8%B3%A2) — Las primeras obras representativas de Hou Hsiao-hsien _The People from the Funcheng_, _Childhood in a Taipei_, _Dust in the Wind_ son famosas por sus planos largos y la memoria de la tierra natal.
 
-[^38]: [一一 - 維基百科／坎城影展](<https://zh.wikipedia.org/wiki/%E4%B8%80%E4%B8%80_(%E9%9B%BB%E5%BD%B1)>) — Yi Yi, de Edward Yang, ganó el premio a mejor director en el 53.º Festival de Cannes (2000), no la Palma de Oro.
+[^35]: [A City of Sadness - Wikipedia / Festival de Venecia](https://zh.wikipedia.org/wiki/%E6%82%B2%E6%83%85%E5%9F%8E%E5%B8%82) — _A City of Sadness_ ganó el León de Oro en el 46º Festival de Venecia (15-09-1989), fue el primer máximo premio de los tres grandes festivales de Taiwán, manejó el 28 de Febrero desde la perspectiva de la historia de una familia.
 
-[^39]: [楊德昌 - 維基百科](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%BE%B7%E6%98%8C) — Edward Yang murió de cáncer de colon el 29 de junio de 2007, a los 59 años.
+[^36]: [Influencia internacional de Hou Hsiao-hsien - BIOS Monthly](https://www.biosmonthly.com/) — Abbas Kiarostami apoyó _The Puppetmaster_, se dice que Akira Kurosawa vio _The Puppetmaster_ cuatro veces y admitió que no podía filmarla, Hirokazu Koreeda se vio profundamente influenciado por Hou Hsiao-hsien (transmisión).
 
-[^40]: [是枝裕和：我想拍出屬於我自己的《悲情城市》- 報導者](https://www.twreporter.org/a/2020-taipei-golden-horse-film-festival-hirokazu-koreeda) — Entrevista en el Festival de Cine Golden Horse de 2020: Hirokazu Kore-eda relata que la escena en la que se mira una linterna dentro del armario en «Shoplifters» es un homenaje a «A Brighter Summer Day», y recuerda su viaje a Taiwán en 1993 para rodar documentales sobre Hou Hsiao-hsien y Edward Yang.
+[^37]: [A Brighter Summer Day - Wikipedia](https://zh.wikipedia.org/wiki/%E7%89%AF%E5%B6%BA%E8%A1%97%E5%B0%91%E5%B9%B4%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6) — _A Brighter Summer Day_ (1991) de Edward Yang tenía 237 minutos en su versión original, adaptada de un caso real de asesinato juvenil de 1961.
 
-[^41]: [蔡明亮 - 維基百科](https://zh.wikipedia.org/wiki/%E8%94%A1%E6%98%8E%E4%BA%AE) — Tsai Ming-liang comenzó con Rebels of the Neon God en 1992; su estética de cine lento se centra en la soledad y el deseo.
+[^38]: [Yi Yi - Wikipedia / Festival de Cannes](<https://zh.wikipedia.org/wiki/%E4%B8%80%E4%B8%80_(%E9%9B%BB%E5%BD%B1)>) — _Yi Yi_ de Edward Yang ganó el Mejor Director en el 53º Festival de Cannes (2000) (no la Palma de Oro).
 
-[^42]: [愛情萬歲 - 維基百科／第 51 屆威尼斯影展](https://zh.wikipedia.org/wiki/%E6%84%9B%E6%83%85%E8%90%AC%E6%AD%B2) — Vive L’Amour ganó el León de Oro en la 51.ª Mostra de Venecia (1994), ex aequo con Before the Rain; el presidente del jurado fue David Lynch. La vieja afirmación de que ganó un “Premio FIPRESCI de Venecia” es errónea; lo correcto es León de Oro.
+[^39]: [Edward Yang - Wikipedia](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%BE%B7%E6%98%8C) — Edward Yang falleció el 29 de junio de 2007 por cáncer de colon a los 59 años.
 
-[^43]: [臉（電影）- 維基百科](<https://zh.wikipedia.org/wiki/%E8%87%89_(%E9%9B%BB%E5%BD%B1)>) — The River y Stray Dogs, de Tsai Ming-liang, siguieron ganando premios en festivales; Face (2009) fue la primera película integrada en la colección del Louvre.
+[^40]: [Hirokazu Koreeda: Quiero filmar mi propia _A City of Sadness_ - The Reporter](https://www.twreporter.org/a/2020-taipei-golden-horse-film-festival-hirokazu-koreeda) — Entrevista en el Festival de Cine Golden Horse de 2020, Hirokazu Koreeda relató que la escena de la linterna en el armario de _Shoplifters_ es un homenaje a _A Brighter Summer Day_, y repasó la conexión de filmar documentales sobre Hou Hsiao-hsien y Edward Yang en Taiwán desde 1993.
 
-[^44]: [Cahiers du Cinéma 2008 百大名單查核](https://en.wikipedia.org/wiki/Cahiers_du_Cin%C3%A9ma#Top_100_films) — En la lista de las cien mejores películas de la historia de Cahiers du Cinéma de 2008 no figura ninguna película taiwanesa; la afirmación difundida de que incluye tres películas taiwanesas es errónea.
+[^41]: [Tsai Ming-liang - Wikipedia](https://zh.wikipedia.org/wiki/%E8%94%A1%E6%98%8E%E4%BA%AE) — Tsai Ming-liang comenzó en 1992 con \*Rebels of the Neon God, su estética de cine lento se centra en la soledad y el deseo.
 
-[^45]: [Sight & Sound 2022 Greatest Films of All Time](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time) — La lista de Sight & Sound (BFI) de 2022 incluye A Brighter Summer Day, de Edward Yang, en el puesto 78, e Yi Yi en el 90.
+[^42]: [Vive Love - Wikipedia / 51º Festival de Venecia](https://zh.wikipedia.org/wiki/%E6%84%9B%E6%83%85%E8%90%AC%E6%AD%B2) — _Vive Love_ ganó el León de Oro en el 51º Festival de Venecia (1994), empatando con _Before the Rain_, el presidente del jurado fue David Lynch; la antigua afirmación de "Premio de la Crítica Internacional de Venecia" es incorrecta, el León de Oro es el correcto.
 
-[^46]: [台灣電影史 - 維基百科](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1) — A partir de 1996, la producción anual de cine local cayó a 15-20 películas, con una cuota de mercado de solo 1-2%.
+[^43]: [Face (Película) - Wikipedia](<https://zh.wikipedia.org/wiki/%E8%87%89_(%E9%9B%BB%E5%BD%B1)>) — _The River_ y _Stray Dogs_ de Tsai Ming-liang continuaron ganando premios en festivales; _Face_ (2009) fue la primera película en la colección del Louvre.
 
-[^47]: [台灣電影市佔率谷底 - 學術論文引用／台灣電影史維基](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1) — En 2003 se alcanzó el mínimo histórico: unas 15 películas nacionales, alrededor de 15 millones de nuevos dólares taiwaneses de taquilla total y 0,36% de la taquilla de Taiwán.
+[^44]: [Verificación de la lista de las 100 Mejores de _Cahiers du Cinéma_ 2008](https://en.wikipedia.org/wiki/Cahiers_du_Cin%C3%A9ma#Top_100_films) — En la lista de las 100 Mejores de 2008 de _Cahiers du Cinéma_ no había ninguna película de Taiwán; la afirmación extendida de "tres películas de Taiwán en las 100 Mejores de _Cahiers_" es errónea.
 
-[^48]: [國片低潮的結構性原因 - 報導者／學術評論](https://www.twreporter.org/) — El colapso del cine nacional entre 1990 y 2000 fue multicausal: blockbusters de Hollywood, flexibilización de cuotas tras la OMC, video y televisión por cable, salida de capital local y control de los circuitos por películas importadas.
+[^45]: [Sight & Sound 2022 Greatest Films of All Time](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time) — _Sight & Sound_ (BFI) de 2022 incluyó _A Brighter Summer Day_ de Edward Yang en el puesto 78, _Yi Yi_ en el puesto 90.
 
-[^49]: [李安 - 維基百科／柏林影展](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%AE%89) — La “trilogía del padre” de Ang Lee, Pushing Hands, The Wedding Banquet y Eat Drink Man Woman (1991-1994); The Wedding Banquet ganó el Oso de Oro en la 43.ª Berlinale (1993).
+[^46]: [Historia del Cine de Taiwán - Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1) — Desde 1996, la producción anual de películas locales cayó a 15-20, la cuota de mercado era solo del 1 al 2 %.
 
-[^50]: [臥虎藏龍 - Box Office Mojo／維基百科](https://www.boxofficemojo.com/) — Crouching Tiger, Hidden Dragon ganó cuatro premios en la 73.ª edición de los Óscar, incluido mejor película extranjera; fue la primera película no hablada en inglés en superar 100 millones de dólares en Estados Unidos, con 213,5 millones de dólares de taquilla mundial.
+[^47]: [Fondo de la cuota de mercado del cine de Taiwán - Cita académica / Wikipedia de Historia del Cine de Taiwán](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1) — 2003 fue el mínimo histórico, solo unas 15 películas nacionales, taquilla total de unos 15 millones, representando el 0,36 % de la taquilla total del país.
 
-[^51]: [李安奧斯卡紀錄 - 維基百科／奧斯卡官方](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%AE%89) — Brokeback Mountain (78.ª edición, 2006) convirtió a Ang Lee en el primer asiático en ganar el Óscar a mejor director; Life of Pi (85.ª edición, 2013) lo convirtió en el primer asiático en ganar ese premio dos veces.
+[^48]: [Razones estructurales del bajo rendimiento del cine nacional - The Reporter / Crítica Académica](https://www.twreporter.org/) — El colapso del cine nacional de las décadas de 1990 a 2000 fue multifactorial: las superproducciones de Hollywood conquistaban el mercado, tras la OMC se aflojaron las cuotas de películas extranjeras, los videos y la televisión por cable cambiaron los hábitos de visualización, el capital local se retiró, las vías de los cines estaban controladas por las películas importadas.
 
-[^52]: [海角七號 - 維基百科](https://zh.wikipedia.org/wiki/%E6%B5%B7%E8%A7%92%E4%B8%83%E8%99%9F) — Wei Te-sheng “hipotecó su casa y contrajo deudas por 30 millones”; el costo total de Cape No. 7 fue de unos 50 millones.
+[^49]: [Ang Lee - Wikipedia / Festival de Berlín](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%AE%89) — La "Trilogía del Padre" de Ang Lee _Pushing Hands_, _The Wedding Banquet_, _Eat Drink Man Woman_ (1991-1994), _The Wedding Banquet_ ganó el Oso de Oro en el 43º Festival de Berlín (1993).
 
-[^53]: [海角七號票房 - 維基百科／票房統計](https://zh.wikipedia.org/wiki/%E6%B5%B7%E8%A7%92%E4%B8%83%E8%99%9F) — Taquilla total en Taiwán: 530 millones (230 millones en Taipéi, 300 millones fuera de Taipéi); estreno el 22 de agosto de 2008 y ocho semanas consecutivas en el primer lugar.
+[^50]: [Crouching Tiger, Hidden Dragon - Box Office Mojo / Wikipedia](https://www.boxofficemojo.com/) — _Crouching Tiger, Hidden Dragon_ ganó cuatro premios en el 73º Oscar (incluyendo Mejor Película Extranjera), fue la primera película no inglesa en la historia de Estados Unidos en superar los 100 millones de dólares en taquilla, taquilla mundial de 213,5 millones de dólares.
 
-[^54]: [本土電影市佔率歷年 - 台灣光華雜誌（一手）](https://www.taiwan-panorama.com/) — Cuota local: 0,36% en 2003; 12,09% en 2008; 17,46% en 2011 (año de Warriors of the Rainbow: Seediq Bale, máximo histórico de entonces); años recientes (2024), alrededor de 10%.
+[^51]: [Registro de Oscars de Ang Lee - Wikipedia / Oscars Oficial](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%AE%89) — _Brokeback Mountain_ (78ª edición, 2006) hizo de Ang Lee el primer director asiático en ganar el Oscar al Mejor Director; _Life of Pi_ (85ª edición, 2013) lo hizo el primer director asiático en ganar este premio dos veces.
 
-[^55]: [賽德克·巴萊 - 維基百科](https://zh.wikipedia.org/wiki/%E8%B3%BD%E5%BE%B7%E5%85%8B%C2%B7%E5%B7%B4%E8%90%8A) — Warriors of the Rainbow: Seediq Bale (2011), de Wei Te-sheng, producida por John Woo, costó unos 720 millones (incluido marketing); The Sun Flag recaudó 472 millones y The Rainbow Bridge, 318 millones, sumando unos 810 millones en Taiwán.
+[^52]: [Cape No. 7 - Wikipedia](https://zh.wikipedia.org/wiki/%E6%B5%B7%E8%A7%92%E4%B8%83%E8%99%9F) — Wei Te-sheng "hipotecó su casa para tomar préstamos por 30 millones", el costo total de _Cape No. 7_ fue de unos 50 millones.
 
-[^56]: [賽德克·巴萊與奧斯卡 - 維基百科](https://zh.wikipedia.org/wiki/%E8%B3%BD%E5%BE%B7%E5%85%8B%C2%B7%E5%B7%B4%E8%90%8A) — Warriors of the Rainbow: Seediq Bale representó a Taiwán en la competencia por el Óscar a mejor película extranjera, llegó a la lista de nueve, pero no quedó entre las cinco nominadas finales.
+[^53]: [Taquilla de Cape No. 7 - Wikipedia / Estadísticas de Taquilla](https://zh.wikipedia.org/wiki/%E6%B5%B7%E8%A7%92%E4%B8%83%E8%99%9F) — Taquilla total de 530 millones (Taipéi 230 millones, fuera de Taipéi 300 millones), estrenada el 22-08-2008, campeona de taquilla durante ocho semanas consecutivas.
 
-[^57]: [KANO - 維基百科](https://zh.wikipedia.org/wiki/KANO) — KANO (2014), dirigida por Umin Boya y producida por Wei Te-sheng, narra la historia del equipo de béisbol de la Escuela de Agricultura y Silvicultura de Chiayi que llegó al Koshien en 1931.
+[^54]: [Cuota de mercado de películas locales a lo largo de los años - Taiwan Panorama (Primaria)](https://www.taiwan-panorama.com/) — Cuota local: 0,36 % en 2003, 12,09 % en 2008, 17,46 % en 2011 (año de _Seediq Bale_, máximo histórico en ese momento); reciente (2024) unos 10 %.
 
-[^58]: [那些年／我的少女時代 票房 - 維基百科](https://zh.wikipedia.org/wiki/%E9%82%A3%E4%BA%9B%E5%B9%B4%EF%BC%8C%E6%88%91%E5%80%91%E4%B8%80%E8%B5%B7%E8%BF%BD%E7%9A%84%E5%A5%B3%E5%AD%A9) — You Are the Apple of My Eye (2011, Giddens Ko) recaudó 425 millones en Taiwán y fue una de las películas en lengua china más taquilleras de la historia de Hong Kong; Monga (2010) y Our Times (2015), 410 millones en Taiwán.
+[^55]: [Seediq Bale - Wikipedia](https://zh.wikipedia.org/wiki/%E8%B3%BD%E5%BE%B7%E5%85%8B%C2%B7%E5%B7%B4%E8%90%8A) — _Seediq Bale_ (2011) de Wei Te-sheng, producida por John Woo, costo de unos 720 millones (incluyendo marketing), la parte superior _The Sun Flag_ 472 millones, la parte inferior _The Rainbow Bridge_ 318 millones, suma una taquilla total de unos 810 millones.
 
-[^59]: [「國片＝票房毒藥」印象 - 報導者／Voicettank](https://www.twreporter.org/) — Entre la década de 1990 y 2007, “cine nacional = veneno de taquilla” se convirtió en una impresión colectiva extendida en la sociedad taiwanesa.
+[^56]: [Seediq Bale y el Oscar - Wikipedia](https://zh.wikipedia.org/wiki/%E8%B3%BD%E5%BE%B7%E5%85%8B%C2%B7%E5%B7%B4%E8%90%8A) — _Seediq Bale_ representó a Taiwán para competir al Oscar a Mejor Película Extranjera, entró en el top 9, pero no entró en los últimos 5.
 
-[^60]: [陽光普照 - 維基百科／金馬獎](https://zh.wikipedia.org/wiki/%E9%99%BD%E5%85%89%E6%99%AE%E7%85%A7) — A Sun (2019), de Chung Mong-hong, ganó mejor largometraje de ficción en la 56.ª edición de los Golden Horse, representó a Taiwán en los Óscar y entró en la lista preliminar de 15, pero no en las 5 nominadas.
+[^57]: [KANO - Wikipedia](https://zh.wikipedia.org/wiki/KANO) — _KANO_ (2014) dirigida por Ma Chih-hsiang, producida por Wei Te-sheng, cuenta la historia del equipo de béisbol de la Escuela Normal de Chiayi que entró al Koshien en 1931.
 
-[^61]: [大佛普拉斯／血觀音 - 維基百科／第 54 屆金馬獎](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BD%9B%E6%99%AE%E6%8B%89%E6%96%AF) — The Great Buddha+ (2017), de Huang Hsin-yao, ganó 5 premios en la 54.ª edición de los Golden Horse; en la misma edición, The Bold, the Corrupt, and the Beautiful, de Yang Ya-che, ganó mejor largometraje de ficción.
+[^58]: [Taquilla de Those Years / My Girl - Wikipedia](https://zh.wikipedia.org/wiki/%E9%82%A3%E4%BA%9B%E5%B9%B4%EF%BC%8C%E6%88%91%E5%80%91%E4%B8%80%E8%B5%B7%E8%BF%B5%E7%9A%84%E5%A5%B3%E5%AD%A9) — _Those Years, the Girls We Chased Together_ (2011, Nine Chips) 425 millones en todo el país, una de las películas de habla china más taquilleras en la historia de Hong Kong; _Monga_ (2010), _My Girl_ (2015) 410 millones en todo el país.
 
-[^62]: [返校（電影）- 維基百科](<https://zh.wikipedia.org/wiki/%E8%BF%94%E6%A0%A1_(%E9%9B%BB%E5%BD%B1)>) — Detention (2019), de John Hsu, adapta el videojuego de Red Candle Games, aborda el Terror Blanco, recaudó 259 millones en Taiwán y fue la película nacional más taquillera del año.
+[^59]: [Impresión "Película nacional = Veneno de taquilla" - The Reporter / Voicettank](https://www.twreporter.org/) — De las décadas de 1990 a 2007, "Película nacional = Veneno de taquilla" se convirtió en la impresión colectiva general de la sociedad taiwanesa sobre el cine nacional.
 
-[^63]: [關於我和鬼變成家人的那件事 - 維基百科](https://zh.wikipedia.org/wiki/%E9%97%9C%E6%96%BC%E6%88%91%E5%92%8C%E9%AC%BC%E8%AE%8A%E6%88%90%E5%AE%B6%E4%BA%BA%E7%9A%84%E9%82%A3%E4%BB%B6%E4%BA%8B) — Marry My Dead Body (2023) recaudó 363 millones en Taiwán y llegó al 7.º lugar del ranking global de películas no habladas en inglés de Netflix.
+[^60]: [The Sun Also Rises - Wikipedia / Golden Horse](https://zh.wikipedia.org/wiki/%E9%99%BD%E5%85%89%E6%99%AE%E7%85%A7) — _The Sun Also Rises_ (2019) de Chung Mong-ho ganó el Mejor Largometraje en la 56ª Golden Horse, representó a Taiwán para competir al Oscar, entró en la preselección de los 15 mejores, no entró en los últimos 5.
 
-[^64]: [周處除三害 - 維基百科／票房報導](https://zh.wikipedia.org/wiki/%E5%91%A8%E8%99%95%E9%99%A4%E4%B8%89%E5%AE%B3) — The Pig, the Snake and the Pigeon (2023), de Wong Ching-po, recaudó unos 47 millones en Taiwán; tras estrenarse en China en 2024 alcanzó 665 millones de yuanes.
+[^61]: [The Great Buddha+ / Soul - Wikipedia / 54ª Golden Horse](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BD%9B%E6%99%AE%E6%8B%89%E6%96%AF) — _The Great Buddha+_ (2017) de Huang Hsin-yao ganó 5 premios en la 54ª Golden Horse; en la misma edición, _Soul_ de Yang Ya-zhe ganó el Mejor Largometraje.
 
-[^65]: [台灣電影院票房與串流市佔 - 產業報導](https://www.twreporter.org/) — La taquilla total de los cines taiwaneses cayó de unos 10.100 millones en 2019 a unos 6.000 millones en 2024, una pérdida de cerca del 40%; en el mismo periodo, Netflix alcanzó cerca del 83% de cuota del streaming en Taiwán.
+[^62]: [Detention (Película) - Wikipedia](<https://zh.wikipedia.org/wiki/%E8%BF%94%E6%A0%A1_(%E9%9B%BB%E5%BD%B1)>) — _Detention_ (2019) de Hsu Han-qiang, adaptado del videojuego de Red Candle Games, usó el tema del Terror Blanco, 259 millones en todo el país, siendo la campeona de taquilla de películas nacionales ese año.
 
-[^66]: [串流投資台灣影視內容 - 產業報導](https://www.twreporter.org/) — Netflix y Disney+ invierten en series taiwanesas como Light the Night, Gold Leaf, The Magician on the Skywalk y Seqalu, desplazando recursos de la gran pantalla al streaming.
+[^63]: [A Girl, My Boyfriend, and a Ghost - Wikipedia](https://zh.wikipedia.org/wiki/%E9%97%9C%E6%96%BC%E6%88%91%E5%92%8C%E9%AC%BC%E8%AE%8A%E6%88%90%E5%AE%B6%E4%BA%BA%E7%9A%84%E9%82%A3%E4%BB%B6%E4%BA%8B) — _A Girl, My Boyfriend, and a Ghost_ (2023) 363 millones en todo el país, alcanzó el puesto 7 en el ranking global de películas no inglesas de Netflix.
 
-[^67]: [傅榆 2018 金馬致詞 - 今周刊／ETtoday](https://www.businesstoday.com.tw/article/category/80392/post/201811180007/) — Fu Yue ganó mejor documental en la 55.ª edición de los Golden Horse (2018-11) por Our Youth in Taiwan y dijo textualmente: “我希望有一天，我們的國家可以被當作一個真正獨立的個體來看待，這是我身為一個台灣人最大的願望。”
+[^64]: [The Pig, the Snake and the Pigeon - Wikipedia / Reportes de Taquilla](https://zh.wikipedia.org/wiki/%E5%91%A8%E8%99%95%E9%99%A4%E4%B8%89%E5%AE%B3) — _The Pig, the Snake and the Pigeon_ (2023) de Huang Ching-fu, taquilla en Taiwán de unos 47 millones, explotó en 2024 cuando se estrenó en China, abriendo una taquilla de 665 millones de RMB.
 
-[^68]: [李安回應傅榆致詞 - Variety](https://variety.com/2018/film/news/golden-horse-awards-ang-lee-fan-bingbing-gong-li-1203032233/) — Ang Lee presentaba la ceremonia y dijo después a periodistas textualmente: “Taiwan is free and the film festival is open. You can say whatever you want to say.”
+[^65]: [Taquilla de los cines de Taiwán y Cuota de Streaming - Reporte Industrial](https://www.twreporter.org/) — La taquilla total de los cines de Taiwán cayó de unos 10.100 millones en 2019 a unos 6.000 millones en 2024 (evaporando unos 40 %); al mismo tiempo, la cuota de streaming de Netflix en Taiwán fue de unos 83 %.
 
-[^69]: [中國抵制金馬獎 - 中央社／國際報導](https://www.cna.com.tw/) — El 7 de agosto de 2019, la Administración de Cine de China anunció la suspensión de la participación de películas y personal de China continental en los Golden Horse; los Golden Rooster de China se programaron deliberadamente el mismo día que los Golden Horse.
+[^66]: [Streaming invirtiendo en contenido audiovisual de Taiwán - Reporte Industrial](https://www.twreporter.org/) — Netflix, Disney+ invirtieron en _Lights of the East_ (The Legend of the Tea), _The Magicians of the Sky Bridge_, _The Legend of Seediq Bale_ (Scarro) y otras series taiwanesas, los recursos se desvían de la gran pantalla al streaming.
 
-[^70]: [台灣電影史（日治時期）- 維基百科](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1) — En 1925, la Taiwan Film Research Association, liderada por Liu Hsi-yang, filmó Whose Fault Is It?, considerada el primer largometraje de ficción hecho por taiwaneses (distinta de The Eyes of Buddha, de 1922, dirigida por el japonés Tanaka Kinshi con participación de actores taiwaneses).
+[^67]: [Discurso de Fu Yu en la Golden Horse 2018 - Business Today / ETtoday](https://www.businesstoday.com.tw/article/category/80392/post/201811180007/) — En la 55ª Golden Horse (2018-11), Fu Yu ganó el Mejor Documental con _Our Youth, in Taiwan_, discurso verbatim: "Espero que un día, nuestro país pueda ser visto como un individuo verdaderamente independiente, este es mi mayor deseo como taiwanesa".
 
-[^71]: [莎韻之鐘 - 維基百科](https://zh.wikipedia.org/wiki/%E8%8E%8E%E9%9F%B5%E4%B9%8B%E9%90%98) — Sayon’s Bell (1943), dirigida por Shimizu Hiroshi y protagonizada por Li Hsiang-lan, fue coproducida por Shochiku, Manchukuo Film Association y la Oficina del Gobernador General de Taiwán; adaptó el ahogamiento de la joven Atayal Sayon en 1938 como propaganda de japonización imperial.
+[^68]: [Ang Lee responde al discurso de Fu Yu - Variety](https://variety.com/2018/film/news/golden-horse-awards-ang-lee-fan-bingbing-gong-li-1203032233/) — Ang Lee presentó el premio en vivo, dijo a los periodistas después verbatim: "Taiwan es libre y el festival es abierto. Puedes decir lo que quieras decir".
 
-[^72]: [濱口竜介談楊德昌 - Openbook 閱讀誌](https://www.openbook.org.tw/article/p-67833) — En la rueda de prensa de la retrospectiva «Reconstruyendo Yi Yi: Edward Yang» de 2023, Ryusuke Hamaguchi cuenta que, después de los treinta, al volver a ver «A Brighter Summer Day», sintió que «es una película que va más allá del cine, como si me dejara ver el mundo entero».
+[^69]: [China boicotea la Golden Horse - CNA / Reportes Internacionales](https://www.cna.com.tw/) — El 7 de agosto de 2019, la Administración Estatal de Películas de China anunció la suspensión de la participación de películas y personal de cine continental en la Golden Horse; el Golden Rooster de China incluso programó intencionalmente su ceremonia de premiación para el mismo día que la Golden Horse.
+
+[^70]: [Historia del Cine de Taiwán (Período Colonial Japonés) - Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1) — En 1925, la Sociedad de Investigación Cinematográfica de Taiwán liderada por Liu Xiyang filmó _Who is to Blame_, considerada la primera película de ficción producida por taiwaneses (diferente de _The Pupil of the Great Buddha_ de 1922 del director japonés Tanaka Kinji, que tuvo actores taiwaneses).
+
+[^71]: [The Bell of Sayon - Wikipedia](https://zh.wikipedia.org/wiki/%E8%8E%8E%E9%9F%B5%E4%B9%8B%E9%90%98) — _The Bell of Sayon_ (1943) dirigida por Kiyomi Hiro, protagonizada por Li Xianglan, coproducida por Shochiku, Manchukuo y la Oficina del Gobernador General de Taiwán, transformó el incidente de 1938 de la joven Tayal Sayon que se ahogó en propaganda de sinización.
+
+[^72]: [Ryusuke Hamaguchi habla de Edward Yang - Openbook](https://www.openbook.org.tw/article/p-67833) — En la conferencia de prensa de la retrospectiva "Reconstruyendo Yi Yi: Edward Yang" en 2023, Ryusuke Hamaguchi relató que después de los 30 años, al volver a ver _A Brighter Summer Day_ "es una película que trasciende el cine, como si me hiciera ver el mundo entero".
 
 ## Referencias
 
-- Taiwan Film and Audiovisual Institute (TFAI), museo digital y red educativa de historia del cine taiwanés: materiales primarios sobre filmografía en taiwanés, realismo sano y cine patriótico de propaganda: [tfai.openmuseum.tw](https://tfai.openmuseum.tw/), [edumovie-tfai.org.tw](https://edumovie-tfai.org.tw/)
-- Su Chih-heng, An Unwilling Film History: The Fate of Taiwanese-language Cinema: argumento clave sobre la represión política del cine en taiwanés y la fabricación del estereotipo “blanco y negro = vulgar”
-- Wikipedia, entradas “cine taiwanés”, “cine en taiwanés”, “Nuevo Cine Taiwanés”, “Premios Golden Horse” y entradas de cada película: índice de años, ediciones de premios y cifras de taquilla (contrastado punto por punto con fuentes oficiales)
-- Sight & Sound (BFI) 2022, lista de las mejores películas de la historia, y Cahiers du Cinéma 2008, lista de las cien mejores: verificación de posición histórica: [bfi.org.uk/sight-and-sound](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
-- Taiwan Panorama, Variety, Business Today y The Reporter: cifras históricas de cuota local, incidente político de los Golden Horse y datos industriales
+- Centro Nacional de Cine y Artes Audiovisuales (TFAI) Museo Digital y Red Educativa de la Historia Cinematográfica de Taiwán — Datos primarios de la lista de películas en taiwanés, lo Saludable y Realista, películas patrióticas de propaganda política: [tfai.openmuseum.tw](https://tfai.openmuseum.tw/), [edumovie-tfai.org.tw](https://edumovie-tfai.org.tw/)
+- _La Historia del Cine Inconforme: El Destino del Cine en Taiwanés_ de Su Zhiheng — La narrativa clave de cómo el cine en taiwanés fue reprimido políticamente y cómo se fabricó el estereotipo de "blanco y negro = vulgar"
+- Wikipedia "Cine de Taiwán", "Cine en taiwanés", "Nuevo Cine de Taiwán", "Golden Horse" y artículos de cada película — Índices de años, ediciones de premios, números de taquilla (ya verificados con fuentes oficiales)
+- _Sight & Sound_ (BFI) 2022 Greatest Films of All Time, _Cahiers du Cinéma_ 2008 Top 100 — Verificación de estatus histórico: [bfi.org.uk/sight-and-sound](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
+- Taiwan Panorama, Variety, Business Today, The Reporter — Números históricos de cuota de mercado local, eventos políticos de la Golden Horse, datos industriales
 
-## Fuentes de las imágenes
+## Fuentes de Imágenes
 
-Este artículo usa 4 imágenes, todas almacenadas en cache en `public/article-images/art/` para evitar hotlinking a los servidores de origen:
+Se utilizan 4 imágenes en este artículo, todas almacenadas en caché en `public/article-images/art/` para evitar enlaces calientes al servidor de origen:
 
-- [Tsai Ming-liang y Lee Kang-sheng (Days)](<https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg>) — Photo: hinnk, CC BY-SA 3.0 (hero)
-- [Fotograma de Sayon’s Bell](https://commons.wikimedia.org/wiki/File:%E8%8E%8E%E5%8B%87%E4%B9%8B%E9%90%98.jpg) — Shochiku/Manchukuo Film Association, dominio público
-- [Hou Hsiao-hsien con el León de Oro en Venecia, 1989](https://commons.wikimedia.org/wiki/File:1989_Venice_film_festival_Hou_Hsiao-hsien_winner_of_the_Gold_Lion.jpg) — Photo: Gorup de Besanez, CC BY-SA 4.0
-- [Ang Lee en el Festival de Venecia de 2009](https://commons.wikimedia.org/wiki/File:Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg) — Photo: nicolas genin, CC BY-SA 2.0
+- [Tsai Ming-liang y Lee Kang-sheng (_Days_)](<https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg>) — Foto: hinnk, CC BY-SA 3.0 (héroe)
+- [Escena de _The Bell of Sayon_](https://commons.wikimedia.org/wiki/File:%E8%8E%8E%E5%8B%87%E4%B9%8B%E9%90%98.jpg) — Shochiku / Manchukuo, Dominio público
+- [Hou Hsiao-hsien en el Festival de Venecia 1989 ganando el León de Oro](https://commons.wikimedia.org/wiki/File:1989_Venice_film_festival_Hou_Hsiao-hsien_winner_of_the_Gold_Lion.jpg) — Foto: Gorup de Besanez, CC BY-SA 4.0
+- [Ang Lee en el Festival de Venecia 2009](https://commons.wikimedia.org/wiki/File:Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg) — Foto: nicolas genin, CC BY-SA 2.0
 
-## Lecturas complementarias
+## Lecturas Recomendadas
 
-- [Hou Hsiao-hsien](/people/侯孝賢): maestro del plano largo que ganó el León de Oro de Venecia y llevó el 28 de Febrero a la pantalla
-- [Edward Yang](/people/楊德昌): observador urbano con dos obras en la lista de las mejores películas de la historia de Sight & Sound
-- [Tsai Ming-liang](/people/蔡明亮): ganador del León de Oro de Venecia que llevó el cine lento al Louvre
-- [Ang Lee](/people/李安): de Taiwán a Hollywood, dos veces ganador del Óscar a mejor director
-- [Wei Te-sheng](/people/魏德聖): el hombre que filmó Cape No. 7 en cinco lenguas e hizo revivir al cine nacional
-- [Estado invisible](/art/看不見的國家): otra forma en que Taiwán es visto en el documental de Vanessa Hope
+- [Hou Hsiao-hsien](/people/侯孝賢): El maestro del plano largo que ganó el León de Oro en Venecia y llevó el 28 de Febrero a la pantalla
+- [Edward Yang](/people/楊德昌): El observador urbano cuyas dos obras entraron en las 100 Mejores de la Historia de _Sight & Sound_
+- [Tsai Ming-liang](/people/蔡明亮): Ganador del León de Oro en Venecia, llevó el cine lento al Louvre
+- [Ang Lee](/people/李安): De Taiwán a Hollywood, ganó dos veces el Oscar al Mejor Director
+- [Wei Te-sheng](/people/魏德聖): La persona que usó cinco idiomas para filmar _Cape No. 7_, haciendo renacer el cine nacional
+- [The Invisible Country](/art/看不見的國家): En el documental de Ge Jingwen, otra forma de ser visto de Taiwán
+- [Taiwanese Sensibility: ¿Tenemos que esperar a que los coreanos den 'like' antes de atrevernos a decir que nuestra vieja casa es hermosa?](/culture/台灣感性): El León de Oro de _A City of Sadness_ en 1989 y la taquilla de Taipéi ocurrieron en el mismo año, la validación internacional y la resonancia local no son necesariamente mutuamente excluyentes.
