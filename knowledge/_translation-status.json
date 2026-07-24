@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T00:07:47+08:00",
-    "zhCommitHead": "ac642e904",
+    "lastUpdated": "2026-07-25T00:10:02+08:00",
+    "zhCommitHead": "009d6c410",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
@@ -63,18 +63,18 @@
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 68,
+        "fresh": 70,
         "stale": 14,
         "metadata_stale": 0,
-        "missing": 780,
+        "missing": 778,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 67,
+        "fresh": 68,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 785,
+        "missing": 784,
         "orphan": 0
       }
     },
@@ -56529,7 +56529,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/koxinga.md",
+          "translatedFrom": "People/鄭成功.md",
+          "sourceCommitSha": "a7cf30769",
+          "sourceContentHash": "sha256:29ee16f25cde68bce",
+          "sourceBodyHash": "sha256:fa9994749dd8a224",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -58942,7 +58953,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/jam-hsiao.md",
+          "translatedFrom": "People/蕭敬騰.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:fb71e3bcf0475f2e",
+          "sourceBodyHash": "sha256:6b96e9e6687dd8c3",
+          "translatedAt": "2026-07-24T23:02:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -75635,7 +75657,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/taichung-city.md",
+          "translatedFrom": "Geography/台中市.md",
+          "sourceCommitSha": "edc2ba810",
+          "sourceContentHash": "sha256:e6912f140d4ddcf3",
+          "sourceBodyHash": "sha256:3039a7c79e8554d9",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
