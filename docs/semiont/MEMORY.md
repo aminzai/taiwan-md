@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-23
-last_session: '2026-07-23-222257-ui-container-sidebar (container 加寬 + 側欄排序)'
+last_updated: 2026-07-24
+last_session: '2026-07-24-100600-babel-ollama-local (本機 ollama 巴別塔 P0)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -316,3 +316,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-23 | 214453-idlccp-clownfish-instrument | idlccp 9 PR 儀器進化+代修；誤 close 後 -s ours 補 MERGED；merge-first-then-heal 鐵律 | 格式稅勿轉嫁小丑魚；close≠merge 社會契約 | [→](memory/2026-07-23-214453-idlccp-clownfish-instrument.md) |
 | 2026-07-23 | 214147-pr-review-refresh-finale | 7 PR merge＋#1236 擋下＋#1228 draft；refresh 14/14、build URL 0 dead | draft 不是出貨意圖；wide PR gate 會掃 baseline | [→](memory/2026-07-23-214147-pr-review-refresh-finale.md) |
 | 2026-07-23 | 222257-ui-container-sidebar | container 三檔加寬 900/1440/1560；側欄改 meta→分享→貢獻者→關鍵詞 | 側欄排序是策展；全站寬度只改 tokens | [→](memory/2026-07-23-222257-ui-container-sidebar.md) |
+| 2026-07-24 | 100600-babel-ollama-local | 本機 gemma4+qwen 清 classic 五語 P0：45/45；fence 修復；missing→0 覆蓋 100% | local fail 可修；假日文/腳註靠 gate+qwen 捕手 | [→](memory/2026-07-24-100600-babel-ollama-local.md) |
