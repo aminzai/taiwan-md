@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T16:18:31+08:00",
-    "zhCommitHead": "d40bcdc5c",
+    "lastUpdated": "2026-07-24T16:27:28+08:00",
+    "zhCommitHead": "25dba678f",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
@@ -47,18 +47,18 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 42,
+        "fresh": 44,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 809,
+        "missing": 807,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 54,
+        "fresh": 50,
         "stale": 14,
         "metadata_stale": 0,
-        "missing": 794,
+        "missing": 798,
         "orphan": 0
       },
       "pt": {
@@ -2400,18 +2400,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Music/chthonic.md",
-          "translatedFrom": "Music/閃靈.md",
-          "sourceCommitSha": "087677fae",
-          "sourceContentHash": "sha256:428539ef61aee065",
-          "sourceBodyHash": "sha256:ca8382bb6533d023",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -4204,7 +4193,18 @@
           "diffSummary": "+5 -5"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
+          "translatedFrom": "Economy/台灣產業轉型升級.md",
+          "sourceCommitSha": "d6377e82e",
+          "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
+          "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
+          "translatedAt": "202ng-07-24T15:52:20+08:00",
+          "translationLastCommit": "e2479d2e",
+          "translationLastModified": "2026-07-24T12:25:49+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -8419,7 +8419,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-textile-industry.md",
+          "translatedFrom": "Economy/紡織業.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:35a33cde93fda77c",
+          "sourceBodyHash": "sha256:3e72d2709a13a90b",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "db0058a4",
+          "translationLastModified": "2026-07-24T16:19:14+08:00",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -9958,7 +9969,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/tasa-taiwan-space-agency.md",
+          "translatedFrom": "Technology/國家太空中心.md",
+          "sourceCommitSha": "82c0407f6",
+          "sourceContentHash": "sha256:84d56ad19effe1d5",
+          "sourceBodyHash": "sha256:e55206c67a0d4344",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 224,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -13234,18 +13256,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Technology/taiwan-electricity-and-semiconductors.md",
-          "translatedFrom": "Technology/台灣的電力與半導體.md",
-          "sourceCommitSha": "250410eae",
-          "sourceContentHash": "sha256:739eb8c857d7b377",
-          "sourceBodyHash": "sha256:814f9eb8b97792cf",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 4,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -18910,8 +18921,8 @@
           "sourceContentHash": "sha256:89f4f7c40c7428d6",
           "sourceBodyHash": "sha256:dde1ab9552710d18",
           "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db0058a4",
+          "translationLastModified": "2026-07-24T16:19:14+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -20478,18 +20489,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Lifestyle/toll-station.md",
-          "translatedFrom": "Lifestyle/收費站.md",
-          "sourceCommitSha": "09ffe560f",
-          "sourceContentHash": "sha256:ef6fab2f2ae48840",
-          "sourceBodyHash": "sha256:6af77751f6cfb762",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 31,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -24501,18 +24501,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Society/taiwan-higher-education-expansion-and-decline.md",
-          "translatedFrom": "Society/台灣高等教育擴張與退場.md",
-          "sourceCommitSha": "3b2bfbb30",
-          "sourceContentHash": "sha256:0e32d79d3df5fb08",
-          "sourceBodyHash": "sha256:4ba5d74427c47aed",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -25064,18 +25053,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Society/medical-care-act.md",
-          "translatedFrom": "Society/醫療法.md",
-          "sourceCommitSha": "a5dc99e20",
-          "sourceContentHash": "sha256:54b5e89e9e06fd0e",
-          "sourceBodyHash": "sha256:3a7e69bdd14827b6",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 62,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -41352,18 +41330,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/People/audrey-tang.md",
-          "translatedFrom": "People/唐鳳.md",
-          "sourceCommitSha": "3f1cf8355",
-          "sourceContentHash": "sha256:ab17987177c234a0",
-          "sourceBodyHash": "sha256:223451ab2ee89544",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 44,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -46004,7 +45971,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/freddy-lim.md",
+          "translatedFrom": "People/林昶佐.md",
+          "sourceCommitSha": "f28a9528a",
+          "sourceContentHash": "sha256:42745728f5eb5c1a",
+          "sourceBodyHash": "sha256:b26e0a7ce99faf37",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 57,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
