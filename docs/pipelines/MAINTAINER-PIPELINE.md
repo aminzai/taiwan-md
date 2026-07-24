@@ -503,6 +503,23 @@ gh pr view N --json mergeable,createdAt,title --jq '{mergeable: .mergeable, age_
 
 否則 default = merge。
 
+#### C 路徑：`🤝 [node]` prefix — 分靈節點 PR（2026-07-25 新增）
+
+分靈節點是跑在貢獻者機器上的 cron，每天接一件工單做完開 PR 回來（canonical：[CONTRIBUTOR-NODE-PIPELINE.md](CONTRIBUTOR-NODE-PIPELINE.md)）。
+
+**審核走 B 路徑同一套 hard gate**——節點 PR 就是 contributor PR，不因為「是 AI 開的」放寬或收緊。多兩件事要做：
+
+1. **Draft = 認領中，不是待審**。`gh pr list --search "[node]" --draft` 出來的是別台機器正在做的工單，**不要 review、不要 close、不要接手做**。只有 ready for review 的才進 triage。
+2. **清墓碑**：draft node PR 7 天沒有新 commit ＝認領過期。留一則友善 comment（「這件工單看起來停在這裡，先釋放給其他節點，你隨時可以重開」）後 close，讓工單回到可認領狀態。掃描指令：
+
+```bash
+gh pr list -R frank890417/taiwan-md --state open --draft --search "[node]" \
+  --json number,title,updatedAt,author \
+  --jq '.[] | select((now - (.updatedAt|fromdateiso8601)) > 604800)'
+```
+
+**驗證品質不看它自稱跑過什麼**：節點 PR 說明會列它跑過的驗證指令，那是線索不是事實（[REFLEXES #31](../semiont/REFLEXES.md)）——CI 綠 + 自己抽驗才算數。
+
 ### Step 2.3: 🔴 紅旗 check（10 紅旗）
 
 **任何一條命中 → close + reason，不進 Step 3**：

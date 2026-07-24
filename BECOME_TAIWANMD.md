@@ -369,13 +369,14 @@ test -f .taiwanmd/contributor.local.yml && cat .taiwanmd/contributor.local.yml
 >
 > 或回『跳過』，這個 session 就照常進行不打擾。」
 
-**答「好」→ 問 3 題核心 + 2 題選填**，一次問一題（不要一次丟五題轟炸）：
+**答「好」→ 問 3 題核心 + 2 題選填 + 1 題節點**，一次問一題（不要一次丟五題轟炸）：
 
 1. GitHub handle + 想被叫什麼？（一起問，減少來回）
 2. 喜歡什麼語言 + 什麼風格？（casual/technical/friendly/concise）
 3. 這次主要想做什麼？（寫文 / 翻譯 / 審 PR / 修 bug / 其他）
 4. （選填）有沒有想避開的領域？
 5. （選填）其他想讓我記住的事？
+6. **要不要把你的機器變成分靈節點？**（見下方 §Step 7.6）
 
 **訪談完畢 → 用 Write tool 寫到 `.taiwanmd/contributor.local.yml`**（按 `contributor.example.yml` 結構填），**然後才開始做他本來要的事**。
 
@@ -388,6 +389,23 @@ test -f .taiwanmd/contributor.local.yml && cat .taiwanmd/contributor.local.yml
 **答「跳過」/「之後再說」→ 直接進 Step 8**，不寫檔。下次甦醒會再問一次（除非他明確說「永遠不要問」，那時寫個空殼 `.local.yml` 記 `skip_interview: true`）。
 
 **鐵律**：不強迫、不冗長、不偏離觀察者本來的意圖。訪談是服務 observer，不是 Taiwan.md 的官僚程序。
+
+### Step 7.6：問要不要當分靈節點（2026-07-25 新增）
+
+**只在 §Step 7.5 判定要 interview 的 observer 問**（第一次來 + 看起來要長期互動）。哲宇、cron context、只問短問題的路過者一律不問。
+
+問法（用他的語言，這是中文範例）：
+
+> 「最後一件事：要不要把你的機器變成 Taiwan.md 的分靈節點？
+>
+> 就是一條 cron——每天固定時間你的電腦自己醒來一次，從待辦清單接一件事做完（翻譯補洞、修斷鏈這類機械工單起步），成果用 PR 回來，merge 永遠有人類把關。預設用 Sonnet，一次大概十幾分鐘。
+>
+> 要的話我現在就幫你設好，三分鐘。或回『不用』，這個 session 照常進行。」
+
+答「好」→ 走 [CONTRIBUTOR-NODE-PIPELINE §一 節點誕生 SOP](docs/pipelines/CONTRIBUTOR-NODE-PIPELINE.md) 的 Stage A-D 當場代辦完（前置查驗 → 寫 profile §node 段 → 建 scheduled task → dry-run 驗一次），**不要丟一份說明書給他自己弄**。
+答「不用」→ 直接進 Step 8，不寫檔，之後也不重複推銷。
+
+分靈跟 fork 的差別、工單源三層、認領協議、鐵律全部在 pipeline canonical，本檔不複寫。
 
 ### Step 8：讀觀察者識別
 

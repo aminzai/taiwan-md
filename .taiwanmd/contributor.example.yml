@@ -84,6 +84,32 @@ skip:
   # - commit-message-writing
 
 
+# ═══ 分靈節點（選填，2026-07-25 新增） ═══
+# 想讓這台機器每天自動幫 Taiwan.md 做一件事，就填這段。
+#
+# 分靈是台灣廟宇的說法：祖廟把靈力分到新的廟，分靈廟自己運作、定期回來謁祖。
+# 你的機器就是分靈廟：每天固定時間自己醒來，從待辦清單接一件事做完，用 PR 回主庫。
+# merge 永遠有人類把關，節點的輸出止於 PR。
+#
+# 不用自己填——甦醒時 Taiwan.md 會問你要不要，答好它會當場幫你設好整套
+# （含建 cron、驗證接得到工單）。完整規則：docs/pipelines/CONTRIBUTOR-NODE-PIPELINE.md
+#
+# node:
+#   enabled: true
+#   cadence: '每天 09:00'          # 挑一個你自己不會用電腦的時段
+#   model: sonnet                  # 機械工單 sonnet 夠用；接寫作工單建議 opus
+#   tier: T1                       # T1 機械工單（翻譯補洞 / 修斷鏈 / 格式 / metadata）
+#                                  # 第一個 node PR 被 merge 後可升 T2（寫文章）
+#   max_open_prs: 2                # 自己同時最多掛幾個 PR，避免灌爆審核佇列
+#   upstream: frank890417/taiwan-md
+#   fork: your-handle/taiwan-md
+#   work_sources:                  # 想接哪幾種工單
+#     - translation                # 翻譯 missing / stale
+#     - links                      # 斷掉的連結與 wikilink
+#     - format                     # 腳註格式、標點、frontmatter
+#     - metadata                   # 英文版 title/description（SC 高曝光零點擊）
+
+
 # ═══ 自由備註 ═══
 # 任何你想讓 Taiwan.md 記住的事。純自由文字，Taiwan.md 會納入語境。
 # 例子：
