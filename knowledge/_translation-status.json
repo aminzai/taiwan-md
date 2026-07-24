@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T03:07:59+08:00",
-    "zhCommitHead": "57e857d7f",
+    "lastUpdated": "2026-07-25T03:23:24+08:00",
+    "zhCommitHead": "ae4167fb1",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -67,26 +67,26 @@
       },
       "id": {
         "total_zh": 862,
-        "fresh": 95,
-        "stale": 11,
+        "fresh": 96,
+        "stale": 9,
         "metadata_stale": 0,
-        "missing": 756,
+        "missing": 757,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 112,
+        "fresh": 119,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 739,
+        "missing": 732,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 106,
+        "fresh": 110,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 748,
+        "missing": 744,
         "orphan": 0
       },
       "ar": {
@@ -4705,18 +4705,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Economy/taiwan-uniform-invoice.md",
-          "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "4a923c640",
-          "sourceContentHash": "sha256:3de7677c1cc54d07",
-          "sourceBodyHash": "sha256:1962c2279b937909",
-          "translatedAt": "2026-07-25T01:11:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -23549,7 +23538,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/taiwan-walking-green-man.md",
+          "translatedFrom": "Lifestyle/小綠人.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:0e8351a88b984c1d",
+          "sourceBodyHash": "sha256:83cbb50293e2fd70",
+          "translatedAt": "2026-07-25T02:52:49+08:00",
+          "translationLastCommit": "ae4167fb",
+          "translationLastModified": "2026-07-25T03:21:34+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/taiwan-walking-green-man.md",
@@ -45997,20 +45997,7 @@
           "diffSummary": "+16 -16"
         },
         "id": {
-          "path": "id/People/huang-shan-liao.md",
-          "translatedFrom": "People/黃山料.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:7ecc75e3d3f02f0a",
-          "sourceBodyHash": "sha256:0d3c13e2c5763c28",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
-          "translationLastCommit": "4dc24466",
-          "translationLastModified": "2026-07-24T21:27:56+08:00",
-          "inferred": false,
-          "footnoteDefs": 42,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -16"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/People/huang-shan-liao.md",
@@ -65695,7 +65682,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/stinky-tofu.md",
+          "translatedFrom": "Food/臭豆腐.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:65a3ff761ca143a1",
+          "sourceBodyHash": "sha256:da607a2f72ce021f",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -66893,7 +66891,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/heysong-soft-drinks.md",
+          "translatedFrom": "Food/黑松.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:764c87b479e4e9af",
+          "sourceBodyHash": "sha256:6c2df9f7c1f07744",
+          "translatedAt": "2026-07-25T02:52:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -67107,7 +67116,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/ba-wan-meatball.md",
+          "translatedFrom": "Food/肉圓.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6de8df7e037bf580",
+          "sourceBodyHash": "sha256:4ab47a31d7ad3c5f",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -67208,7 +67228,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/oil-rice.md",
+          "translatedFrom": "Food/油飯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:9645370116faf0ce",
+          "sourceBodyHash": "sha256:e335b1f6c8cbb675",
+          "translatedAt": "2026-07-25T02:52:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -67736,10 +67767,32 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/sun-cake.md",
+          "translatedFrom": "Food/太陽餅.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:9280fef1e637d1d1",
+          "sourceBodyHash": "sha256:4b1b088d8a0fbe11",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/sun-cake.md",
+          "translatedFrom": "Food/太陽餅.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:9280fef1e637d1d1",
+          "sourceBodyHash": "sha256:4b1b088d8a0fbe11",
+          "translatedAt": "2026-07-25T02:52:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -68128,10 +68181,32 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-hotpot-culture.md",
+          "translatedFrom": "Food/台灣火鍋.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:94b3cc7ad435a8c7",
+          "sourceBodyHash": "sha256:e301e6416dd3bfb4",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-hotpot-culture.md",
+          "translatedFrom": "Food/台灣火鍋.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:94b3cc7ad435a8c7",
+          "sourceBodyHash": "sha256:e301e6416dd3bfb4",
+          "translatedAt": "2026-07-25T02:52:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -69727,7 +69802,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/golden-croissant.md",
+          "translatedFrom": "Food/金牛角.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c876a6c84ad1bc82",
+          "sourceBodyHash": "sha256:97ba5602057c57dc",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/golden-croissant.md",
@@ -69836,7 +69922,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/yuan-xing-cattle-beef-soup-history.md",
+          "translatedFrom": "History/源興牛與牛肉湯的歷史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ed10e8c11ed48896",
+          "sourceBodyHash": "sha256:4ef8874799781420",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -72942,7 +73039,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taiwan-forestry-history.md",
+          "translatedFrom": "History/台灣森林開發史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8069998f1aa354c8",
+          "sourceBodyHash": "sha256:55bbc4efed5f30a9",
+          "translatedAt": "2026-07-25T02:52:49+08:00",
+          "translationLastCommit": "ae4167fb",
+          "translationLastModified": "2026-07-25T03:21:34+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/taiwan-forestry-history.md",
@@ -73838,7 +73946,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taiwan-maritime-trade-history.md",
+          "translatedFrom": "History/台灣海洋貿易史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:3828ee010a982636",
+          "sourceBodyHash": "sha256:1b234f51be7edbb9",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taiwan-maritime-trade-history.md",
@@ -82217,20 +82336,7 @@
           "diffSummary": "+2 -2"
         },
         "id": {
-          "path": "id/Culture/taiwan-tea-ceremony-and-aesthetic-living.md",
-          "translatedFrom": "Culture/台灣茶道與生活美學.md",
-          "sourceCommitSha": "d520299ba",
-          "sourceContentHash": "sha256:493db11be1cffdc3",
-          "sourceBodyHash": "sha256:31e39ab99f97ad00",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
-          "translationLastCommit": "f6054c73",
-          "translationLastModified": "2026-07-24T20:41:47+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/Culture/taiwan-tea-ceremony-and-aesthetic-living.md",
