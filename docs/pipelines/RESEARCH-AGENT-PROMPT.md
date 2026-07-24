@@ -3,9 +3,9 @@ title: 'RESEARCH-AGENT-PROMPT'
 description: '研究 sub-agent 派發通用 prompt 模板 + 分部報告輸出模板 — copy → 填槽 → spawn，禁即興改寫（源頭解決 prompt 飄移）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.2'
+current_version: 'v1.3'
 last_updated: 2026-07-24
-last_session: '2026-07-24-120515-manual（新增 Path B：research-fleet.py 機械 fan-out 替代路徑）'
+last_session: '2026-07-24-120515-manual（Path B 補完 digest 步驟：research-fleet.py 三段式 search→fetch→digest 全通）'
 upstream_canonical:
   - 'REWRITE-PIPELINE.md'
   - '../editorial/RESEARCH.md'
@@ -31,6 +31,7 @@ audience: 'orchestrator-session-spawning-research-agents'
 
 - **Search**：`BraveSearch` → `SerperSearch` cascade（讀 `~/.config/taiwan-md/credentials/.env` 的 `BRAVE_API_KEY` / `SERPER_API_KEY`）
 - **Fetch**：`MojLawFetch`（全國法規資料庫專用 parser，逐條 verbatim + 條號，零 LLM 成本——**這是本次真正解掉的痛點**：WebFetch 對 law.moj.gov.tw 有 125 字截斷政策 + PDF 二進位解析失敗，四份 Sonnet 研究報告全部卡在這裡）→ `JinaFetch`（`r.jina.ai` 通用 fallback，含 PDF／JS render）
+- **Digest**（2026-07-24 補完）：`OpenRouterDigest`（免費層，key rotation 沿用 lang-sync 同一組 `~/.config/taiwan-md/credentials/openrouter.key` + `openrouter-keys/*.key`）→ `OllamaDigest`（本機 GPU，沿用 lang-sync `backends/ollama.py` 的 `num_ctx` 動態估算，防止靜默截斷）。把 `batch` 產出的 raw 逐一丟進 digest cascade，輸出跟 Path A agent 同格式的 markdown（【來源】/【逐字】/【信度】/【falsify 註記】），直接餵 `agent-report-health.py`。
 
 用法：
 
@@ -39,6 +40,11 @@ python3 scripts/tools/research-fleet.py search "查詢字串" --count 10
 python3 scripts/tools/research-fleet.py fetch "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=XXXX"
 python3 scripts/tools/research-fleet.py batch task.json --out reports/research/{YYYY-MM}/{slug}-fleet-{X}.json
 # task.json: {"queries": [...], "count_per_query": 5, "fetch_top_k": 3, "country": "tw", "lang": "zh-hant"}
+
+python3 scripts/tools/research-fleet.py digest reports/research/{YYYY-MM}/{slug}-fleet-{X}.json \
+  --slug {slug} --letter {X} --subtopic "{子領域一句話}" \
+  --out reports/research/{YYYY-MM}/{slug}-research-{X}.md
+# 輸出直接可過 agent-report-health.py --claimed {配額}
 ```
 
 **何時用 Path A（Sonnet agent）vs Path B（fleet script）**：
@@ -49,7 +55,12 @@ python3 scripts/tools/research-fleet.py batch task.json --out reports/research/{
 | 純機械取材（法條逐字、大量候選 URL 篩選、session/成本壓力大時） | Path B（fleet script），輸出 raw JSON 交主 session 或 Path A agent 消化                            |
 | 兩者混用                                                        | 先跑 Path B 拿到 raw 候選＋法條全文，再讓 Path A agent 針對缺口/矛盾做深度追問，省掉重複的機械搜尋 |
 
-**已知限制**（誠實記錄，不是藉口）：Jina 對重度 JS-render／付費牆媒體（例：CNA 網頁版）常抓不到正文，只拿到導覽列——這類來源仍需 Path A（Claude WebFetch/agent）或人工介入。Path B 不是全面取代，是把「law.moj.gov.tw 這類乾淨政府網站 + 大量候選 URL 篩選」這一段機械勞動移出 Claude 計量。
+**已知限制**（誠實記錄，不是藉口）：
+
+- Jina 對重度 JS-render／付費牆媒體（例：CNA 網頁版）常抓不到正文，只拿到導覽列——這類來源仍需 Path A（Claude WebFetch/agent）或人工介入。
+- Digest 品質受限於 free-tier 模型能力，比 Sonnet 弱；高風險 atom（人名/金額/獎項屆次）**仍建議 Path A 或人工複驗**，Path B 的 digest 輸出當線索不當定論（per REFLEXES #31）。
+- OpenRouter 免費模型 slug 會退役（2026-07-24 建置當下 `openai/gpt-oss-120b:free` 已被下架，實測撞到才發現），`OpenRouterDigest.DEFAULT_MODEL` 需要定期對照 `GET /api/v1/models`（篩 `:free`）校準——這正是 §架構解第二例證要防的那種外部漂移，只是這次漂移在 provider 內部（同一家的模型目錄改了），不是整個 provider 消失。
+- Path B 不是全面取代，是把「law.moj.gov.tw 這類乾淨政府網站 + 大量候選 URL 篩選 + 摘要級 digest」這一段機械勞動移出 Claude 計量。
 
 ---
 

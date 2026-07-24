@@ -46,9 +46,17 @@
 - `~/.config/taiwan-md/credentials/.env` 新增 `BRAVE_API_KEY` / `SERPER_API_KEY`（repo 外，per 既有 credentials 慣例）
 - `reports/research/2026-07/外送專法.md` 研究報告本身（Stage 0+1 手動 fan-out，四份分部報告已合成，gate PASS，hard_fail=0）
 
+## Digest 步驟補完（同日第二階段）
+
+新增 `DigestProvider` 抽象介面：`OpenRouterDigest`（免費層，key rotation 沿用 lang-sync 同一組 credentials）→ `OllamaDigest`（本機 GPU，沿用 `backends/ollama.py` 的 `num_ctx` 動態估算，防止今天稍早那個「靜默截斷成 4096」的 bug 重演）。`digest` 子指令把 `batch` 的 raw JSON 逐一丟進 digest cascade，輸出跟 Path A Sonnet agent 同格式的 markdown（【來源】/【逐字】/【信度】/【falsify 註記】），直接可過 `agent-report-health.py`。
+
+實測用外送專法二次補查的 7 個來源跑 `digest`：第一輪撞到 `openai/gpt-oss-120b:free`（lang-sync 自己的預設模型）已被 OpenRouter 下架，改用 `google/gemma-4-31b-it:free` 後兩個原本失敗的來源（一個 429、一個逾時）全部成功，5/7 → 7/7。過程也發現 §1 搜尋軌跡若只印「N 次查詢＋命中數」（5 行）會被 `agent-report-health.py` 判定軌跡密度過低（<10 行分界），改成逐查詢下面嵌對應來源 URL＋擷取狀態（誠實展開已有資料，非灌水），12 行後過關。
+
 ## 未做（誠實記錄邊界）
 
-- 未接 OpenRouter 免費層或本機 Ollama 做「digest」步驟（把 raw text 蒸餾成 RESEARCH-AGENT-PROMPT 5 段схема）——目前 `batch` 只輸出 raw JSON，蒸餾仍由主 session／Sonnet agent 承接。這是刻意的範圍切分：先把「機械取材」這一段做對做穩，digest 判斷力留給 LLM。
+- Digest 品質受限於 free-tier 模型，高風險 atom（人名/金額/獎項屆次）仍建議 Path A 或人工複驗，不當定論。
+- OpenRouter 免費模型 slug 會退役（本次建置期間就撞到一次），`DEFAULT_MODEL` 需定期對照 `GET /api/v1/models` 校準，暫無自動化偵測。
 - 未接 crawl4ai（本機瀏覽器爬蟲）——哲宇提及此選項，評估為「本地算力軍團」的合理下一階，但需要安裝 Playwright + Chromium（較重的環境變更），暫列為 Tier 2 候選，不在本次範圍內動手裝。
 
 _v1 | 2026-07-24-120515-manual session_
+_v1.1 | 同日續 — digest 步驟補完，Path B 三段式（search→fetch→digest）全通_

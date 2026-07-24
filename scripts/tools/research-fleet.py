@@ -239,6 +239,263 @@ class JinaFetch(FetchProvider):
         return FetchedDoc(url=url, title=title, text=text, provider=self.name, ok=bool(text.strip()))
 
 
+class DigestProvider(ABC):
+    """LLM completion for turning raw fetched text into structured findings.
+    Deliberately generic (system+user → text), not research-specific, so the
+    same interface could serve other digest needs later."""
+
+    name = "abstract"
+
+    def available(self) -> bool:
+        return True
+
+    @abstractmethod
+    def complete(self, system: str, user: str, max_tokens: int = 2000) -> str:
+        ...
+
+
+class OpenRouterDigest(DigestProvider):
+    """Free-tier cloud digest. Same key-rotation pool as lang-sync/openrouter-translate.py
+    (~/.config/taiwan-md/credentials/openrouter.key + openrouter-keys/*.key)."""
+
+    name = "openrouter"
+    API_URL = "https://openrouter.ai/api/v1/chat/completions"
+    # openai/gpt-oss-120b:free (lang-sync's own default) was retired by OpenRouter
+    # sometime before 2026-07-24 — hit live during this tool's own test run
+    # ("model unavailable for free, use openai/gpt-oss-120b instead"). Free-tier
+    # model slugs drift; this default may need re-checking against
+    # https://openrouter.ai/api/v1/models (filter `:free`) periodically.
+    DEFAULT_MODEL = "google/gemma-4-31b-it:free"
+
+    def __init__(self, model: str = None):
+        self.model = model or ENV.get("OPENROUTER_MODEL", self.DEFAULT_MODEL)
+
+    def _keys(self) -> list[str]:
+        keys = []
+        if ENV.get("OPENROUTER_API_KEY"):
+            keys.append(ENV["OPENROUTER_API_KEY"])
+        rotation_dir = CREDS_DIR / "openrouter-keys"
+        if rotation_dir.is_dir():
+            for f in sorted(rotation_dir.glob("*.key")):
+                v = f.read_text().strip()
+                if v and v not in keys:
+                    keys.append(v)
+        key_file = CREDS_DIR / "openrouter.key"
+        if key_file.exists():
+            v = key_file.read_text().strip()
+            if v and v not in keys:
+                keys.append(v)
+        return keys
+
+    def available(self) -> bool:
+        return bool(self._keys())
+
+    def complete(self, system, user, max_tokens=2000):
+        keys = self._keys()
+        if not keys:
+            raise RuntimeError("no OpenRouter key available")
+        payload = json.dumps(
+            {
+                "model": self.model,
+                "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
+                "temperature": 0.3,
+                "max_tokens": max_tokens,
+            }
+        ).encode("utf-8")
+        last_err = "no keys tried"
+        for key in keys:
+            req = urllib.request.Request(
+                self.API_URL,
+                data=payload,
+                headers={
+                    "Authorization": f"Bearer {key}",
+                    "Content-Type": "application/json",
+                    "HTTP-Referer": "https://taiwan.md",
+                    "X-Title": "research-fleet digest",
+                },
+                method="POST",
+            )
+            try:
+                with urllib.request.urlopen(req, timeout=120) as resp:
+                    data = json.load(resp)
+                return data["choices"][0]["message"]["content"]
+            except urllib.error.HTTPError as e:
+                last_err = f"HTTP {e.code}"
+                if e.code == 429:
+                    continue  # rotate to next key
+                raise RuntimeError(f"OpenRouter {last_err}: {e.read().decode('utf-8', errors='replace')[:300]}")
+            except (urllib.error.URLError, TimeoutError, OSError) as e:
+                last_err = str(e)
+                continue
+        raise RuntimeError(f"all OpenRouter keys failed: {last_err}")
+
+
+class OllamaDigest(DigestProvider):
+    """Local GPU fallback — sovereignty backbone per REFLEXES #49, always available,
+    no rate limit. Mirrors lang-sync/backends/ollama.py's num_ctx sizing: without an
+    explicit num_ctx, Ollama silently truncates to a small server default regardless
+    of what the model card advertises (2026-07-24 fleet-dispatch bug, same day as this
+    tool's build)."""
+
+    name = "ollama"
+
+    def __init__(self, host: str = None, model: str = None):
+        self.host = host or ENV.get("OLLAMA_HOST", "http://localhost:11434")
+        self.model = model or ENV.get("OLLAMA_MODEL", "qwen3.6:35b-a3b-coding-nvfp4")
+
+    def available(self) -> bool:
+        try:
+            req = urllib.request.Request(f"{self.host}/api/tags")
+            with urllib.request.urlopen(req, timeout=5) as resp:
+                data = json.load(resp)
+            names = [m.get("name", "") for m in data.get("models", [])]
+            return any(n.startswith(self.model.split(":")[0]) for n in names)
+        except (urllib.error.URLError, OSError):
+            return False
+
+    def complete(self, system, user, max_tokens=2000):
+        prompt_chars = len(system) + len(user)
+        est_tokens = prompt_chars // 3 + 512
+        num_ctx = min(max(est_tokens + max_tokens + 2048, 8192), 131072)
+        payload = json.dumps(
+            {
+                "model": self.model,
+                "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
+                "stream": False,
+                "think": False,
+                "options": {"temperature": 0.3, "num_predict": max_tokens, "num_ctx": num_ctx},
+            }
+        ).encode("utf-8")
+        req = urllib.request.Request(
+            f"{self.host}/api/chat", data=payload, headers={"Content-Type": "application/json"}, method="POST"
+        )
+        # 600s not 300s: this GPU node may be shared with concurrent lang-sync
+        # batches (per check-parallel-actor.sh), and queued requests can wait
+        # behind a full babel job before this one even starts running.
+        with urllib.request.urlopen(req, timeout=600) as resp:
+            data = json.load(resp)
+        return data.get("message", {}).get("content", "")
+
+
+class DigestCascade:
+    def __init__(self, providers: list[DigestProvider]):
+        self.providers = providers
+
+    def complete(self, system, user, max_tokens=2000) -> tuple[str, str]:
+        errors = []
+        for p in self.providers:
+            if not p.available():
+                continue
+            try:
+                out = p.complete(system, user, max_tokens=max_tokens)
+                if out and out.strip():
+                    return out, p.name
+            except (RuntimeError, urllib.error.URLError, TimeoutError, OSError) as e:
+                errors.append(f"{p.name}: {e}")
+        raise RuntimeError(f"all digest providers failed/unavailable: {errors}")
+
+
+def build_default_digest() -> DigestCascade:
+    return DigestCascade([OpenRouterDigest(), OllamaDigest()])
+
+
+SOURCE_DIGEST_SYSTEM = (
+    "你是 Taiwan.md 的研究助理，只根據提供的原始網頁內容整理事實，絕不編造、絕不用網頁沒寫的內容補空。"
+    "查不到就明說查不到，不要用「合理推測」填空。"
+)
+
+
+def _digest_source_prompt(subtopic_scope: str, query: str, title: str, url: str, text: str) -> str:
+    return f"""問題脈絡：{subtopic_scope}
+原始查詢：「{query}」
+來源標題：{title}
+來源網址：{url}
+
+原始內容（可能是節錄）：
+---
+{text[:8000]}
+---
+
+請輸出下面格式（純文字，不要多餘的開場白或結語）：
+【來源】{url} — 一句話標注這是什麼媒體或頁面性質
+【發現】一到三句話：這頁對回答「{subtopic_scope}」這個問題脈絡最重要的具體事實、數字、日期或人名
+【逐字】如果內容裡有適合直接引用的原句（人物發言、法條原文、官方聲明），完整抄錄；沒有就寫「無」
+【信度】一手 / 權威二手 / 存疑（依內容判斷來源性質，不是猜測）
+【falsify 註記】這則內容有沒有跟常見說法不一致的地方？沒有就寫「無」
+"""
+
+
+def cmd_digest(args):
+    raw = json.loads(Path(args.raw).read_text())
+    digest = build_default_digest()
+    blocks, quote_bank, negatives = [], [], []
+    used_providers: set[str] = set()
+
+    for s in raw.get("sources", []):
+        if not s.get("ok"):
+            negatives.append(f"- {s['url']} 擷取失敗（{s.get('fetch_provider')}）：{s.get('error', '')}")
+            continue
+        prompt = _digest_source_prompt(args.subtopic, s["query"], s["title"], s["url"], s["text"])
+        try:
+            out, provider = digest.complete(SOURCE_DIGEST_SYSTEM, prompt, max_tokens=600)
+        except RuntimeError as e:
+            negatives.append(f"- {s['url']} digest 失敗：{e}")
+            continue
+        used_providers.add(provider)
+        blocks.append(out.strip())
+        for line in out.splitlines():
+            stripped = line.strip()
+            if stripped.startswith("【逐字】") and not stripped[4:].strip().startswith("無"):
+                quote_bank.append(f"- {stripped[4:].strip()} — {s['url']}")
+        time.sleep(args.delay)
+
+    for q in raw.get("queries", []):
+        if q.get("error"):
+            negatives.append(f"- 查詢「{q['query']}」失敗：{q['error']}")
+        elif q.get("hit_count", 0) == 0:
+            negatives.append(f"- 查詢「{q['query']}」無命中結果")
+
+    sources_by_query: dict[str, list[dict]] = {}
+    for s in raw.get("sources", []):
+        sources_by_query.setdefault(s["query"], []).append(s)
+
+    search_log_lines = []
+    for i, q in enumerate(raw.get("queries", [])):
+        search_log_lines.append(f"{i + 1}. 「{q['query']}」 → {q.get('hit_count', 0)} 筆結果 [{q.get('provider', '?')}]")
+        for s in sources_by_query.get(q["query"], []):
+            status = "✓" if s.get("ok") else f"✗ {s.get('error', '')}"
+            search_log_lines.append(f"   - {s['url']} [{s.get('fetch_provider', '?')}] {status}")
+    search_log = "\n".join(search_log_lines)
+    findings = "\n\n".join(blocks) if blocks else "（本批次無成功 digest 的來源）"
+    quotes = "\n".join(quote_bank) if quote_bank else "（本批次無適合逐字引用內容）"
+    neg = "\n".join(negatives) if negatives else "（無）"
+    provider_label = "/".join(sorted(used_providers)) or "n/a"
+
+    report = f"""# {args.slug} — Research {args.letter}：{args.subtopic}
+
+執行摘要：research-fleet 自動 fan-out（digest provider: {provider_label}），{len(raw.get('sources', []))} 個來源、{len(raw.get('queries', []))} 次查詢。本報告由機械 search/fetch + LLM digest 產生，非人工逐條研究，§2 每條 finding 需視為線索，高風險 atom 仍須人工或 Path A agent 複驗。
+
+## §1 搜尋軌跡（fleet 自動化，非人工逐條）
+{search_log}
+
+## §2 Findings
+{findings}
+
+## §3 引語庫
+{quotes}
+
+## §4 Negative findings
+{neg}
+
+## §5 質地素材
+（research-fleet 自動化路徑不產出質地素材，由主 session 或 Path A agent 補）
+"""
+    out_path = Path(args.out)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(report, encoding="utf-8")
+    print(f"✅ digest 完成，provider={provider_label} → {out_path}")
+
+
 class FetchCascade:
     def __init__(self, providers: list[FetchProvider]):
         self.providers = providers
@@ -341,6 +598,15 @@ def main():
     bp.add_argument("spec", help="JSON file: {queries: [...], count_per_query, fetch_top_k, country, lang, max_chars, delay_sec}")
     bp.add_argument("--out", required=True)
     bp.set_defaults(func=cmd_batch)
+
+    dp = sub.add_parser("digest", help="turn a batch's raw JSON into a RESEARCH-AGENT-PROMPT-format markdown report")
+    dp.add_argument("raw", help="path to batch's --out JSON")
+    dp.add_argument("--slug", required=True, help="article slug, e.g. 外送專法")
+    dp.add_argument("--letter", default="X", help="facet/agent letter, e.g. A")
+    dp.add_argument("--subtopic", required=True, help="one-line subtopic scope, matches the batch task's intent")
+    dp.add_argument("--out", required=True)
+    dp.add_argument("--delay", type=float, default=1.0)
+    dp.set_defaults(func=cmd_digest)
 
     args = ap.parse_args()
     args.func(args)
