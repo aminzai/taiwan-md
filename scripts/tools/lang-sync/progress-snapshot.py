@@ -50,11 +50,23 @@ def snapshot() -> dict:
     return row
 
 
-NODE_ENDPOINTS = {
-    "mac-m4max": "http://127.0.0.1:11434",
-    "desktop-3090": "http://100.101.135.15:11434",
-    "laptop-4090": "http://100.74.47.100:11434",
-}
+def _node_endpoints() -> dict:
+    """節點端點從 fleet registry derive，不寫死在 repo。
+
+    2026-07-25 哲宇 callout：機器位址與帳號屬本機環境細節，寫進公開 repo
+    等於把內網拓撲送出去；要記就記在 local machine config／local profile。
+    registry 由 muse-bot fleet 維護（gitignored 的本機檔），這裡只讀。
+    """
+    out = {"local": "http://127.0.0.1:11434"}
+    reg = Path.home() / "Projects" / "muse-bot" / "fleet" / "registry.json"
+    try:
+        for m in json.loads(reg.read_text()).get("machines", []):
+            addr = m.get("tailscale_ip") or m.get("host")
+            if addr and not m.get("retired") and m.get("id"):
+                out[m["id"]] = f"http://{addr}:11434"
+    except Exception:
+        pass  # 非指揮部機器沒有 registry — 只探本機，正常
+    return out
 
 
 def _probe(url: str) -> bool:
@@ -123,7 +135,7 @@ def collect_node_stats() -> dict:
                                   "top_fail": reasons.most_common(2),
                                   "last_activity": None}
 
-    for name, url in NODE_ENDPOINTS.items():
+    for name, url in _node_endpoints().items():
         nodes.setdefault(f"endpoint:{name}", {})["alive"] = _probe(url)
     return nodes
 
