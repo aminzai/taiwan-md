@@ -1,7 +1,7 @@
 ---
 title: 'Caminando sobre el puerto colmatado: cinco platos callejeros del distrito de Zhongxi en Tainan'
 description: "Bajo las calles Guohua y Hai'an yacen los restos del cauce del puerto de las Cinco Puertos de la dinastía Qing; la sopa de res, el congee de pez mullus, los fideos con eel y los fideos de vidrio con corazón de cerdo: el tiempo, la ubicación y los ingredientes de cada plato callejero son fósiles de la lógica de supervivencia de los trabajadores del muelle de hace cuatro siglos."
-date: '2026-06-30'
+date: 2026-06-30
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '經典小吃'
@@ -15,10 +15,10 @@ tags:
     'pez mullus',
     'fideos con eel',
   ]
-readingTime: '8'
-lastVerified: '2026-06-30'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 8
+lastVerified: 2026-06-30
+lastHumanReview: false
+featured: false
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:ba0e98c9d772c0f4'
