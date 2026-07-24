@@ -78,14 +78,15 @@ const siteUrl = 'https://taiwan.md';
 // expression scanner mis-parses generics and nested template literals.
 const langSwitch = await getLangSwitchPath(new URL(url).pathname);
 
-const _hreflangLink: Record<string, string | undefined> = {
-  'zh-TW': langSwitch.hasZh ? langSwitch.zhLink : undefined,
-  en: langSwitch.hasEn ? langSwitch.enLink : undefined,
-  ja: langSwitch.hasJa ? langSwitch.jaLink : undefined,
-  ko: langSwitch.hasKo ? langSwitch.koLink : undefined,
-  es: langSwitch.hasEs ? langSwitch.esLink : undefined,
-  fr: langSwitch.hasFr ? langSwitch.frLink : undefined,
-};
+// Generic across all ENABLED_LANGUAGE_CODES (was hardcoded to 6 langs until
+// 2026-07-24 — vi/id/pt/hi never got hreflang tags despite having real
+// translated content, per langSwitch.langs added the same day).
+const _hreflangLink: Record<string, string | undefined> = Object.fromEntries(
+  ENABLED_LANGUAGE_CODES.map((c) => [
+    c,
+    langSwitch.langs?.[c]?.has ? langSwitch.langs[c]?.link : undefined,
+  ]),
+);
 
 // Match the canonical's trailing slash so alternates resolve 200, not 301.
 // Registry values mix percent-encoded zh URLs (toZh side) and raw CJK

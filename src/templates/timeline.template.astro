@@ -47,25 +47,6 @@ const L = (v: string | Localized | undefined): string => {
 const zhIndex = await getArticlesIndex('zh-TW');
 const langIndex = isZh ? zhIndex : await getArticlesIndex(lang);
 
-const LINK_KEY: Record<
-  string,
-  'enLink' | 'jaLink' | 'koLink' | 'esLink' | 'frLink'
-> = {
-  en: 'enLink',
-  ja: 'jaLink',
-  ko: 'koLink',
-  es: 'esLink',
-  fr: 'frLink',
-};
-const HAS_KEY: Record<string, 'hasEn' | 'hasJa' | 'hasKo' | 'hasEs' | 'hasFr'> =
-  {
-    en: 'hasEn',
-    ja: 'hasJa',
-    ko: 'hasKo',
-    es: 'hasEs',
-    fr: 'hasFr',
-  };
-
 interface ResolvedArticle {
   entry: ArticleSummary;
   href: string;
@@ -87,8 +68,9 @@ async function resolveRef(ref: string): Promise<ResolvedArticle> {
   if (isZh) return { entry: zhEntry, href: zhUrl };
 
   const sw = await getLangSwitchPath(zhUrl);
-  if (sw[HAS_KEY[lang]]) {
-    const link = sw[LINK_KEY[lang]];
+  const swEntry = sw.langs?.[lang];
+  if (swEntry?.has) {
+    const link = swEntry.link;
     const parts = link.split('/').filter(Boolean); // [lang, cat, slug]
     const slugLang = decodeURIComponent(parts[2] ?? '');
     const catLang = parts[1] ?? catSlug;

@@ -34,8 +34,9 @@ interface PageNode {
 // 分類 slug 的 SSOT 是 knowledge/ 的目錄名（lowercase 即 URL slug）。
 // [category].astro 的動態匹配只該放行這個集合——否則 /ja/semiont 這種
 // 「該語言沒有的靜態頁」會被誤判為可能的分類頁（2026-06-10 deploy-heal 實撞）。
+// 2026-07-24 起 export 給 getLangSwitchPath 判斷「兩段路徑是不是文章頁」共用。
 let _categorySlugs: Set<string> | null = null;
-function getCategorySlugs(): Set<string> {
+export function getCategorySlugs(): Set<string> {
   if (_categorySlugs) return _categorySlugs;
   const set = new Set<string>();
   try {

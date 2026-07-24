@@ -2,7 +2,7 @@ import { readFile, readdir } from 'fs/promises';
 import { resolve } from 'path';
 import type { Lang } from '../config/languages';
 import { LANGUAGES } from '../config/languages';
-import { staticPageExists } from './staticRoutes';
+import { staticPageExists, getCategorySlugs } from './staticRoutes';
 
 // 2026-04-25 β7 Phase 1：路由疊加 fix（i18n-evolution-roadmap audit B1）
 // 從 LANGUAGES_REGISTRY 動態 derive 非預設啟用語言清單，
@@ -23,22 +23,17 @@ async function getValidZhFiles(): Promise<Set<string>> {
   if (_validZhFilesCache) return _validZhFilesCache;
   const set = new Set<string>();
   const knowledgeRoot = resolve(process.cwd(), 'knowledge');
-  const categoryFolders = [
-    'History',
-    'Geography',
-    'Culture',
-    'Food',
-    'Art',
-    'Music',
-    'Technology',
-    'Nature',
-    'People',
-    'Society',
-    'Economy',
-    'Lifestyle',
-    'About',
-    'Resources',
-  ];
+  // 分類清單從 knowledge/ 目錄 derive（大寫開頭目錄 = 分類）。2026-07-24 前是
+  // 手維寫死清單，漏了 Politics —— 12 篇文章 55 筆翻譯被濾掉，該分類自出生起
+  // 沒有切換器連結與 hreflang（對齊 generate-lang-switch-map.mjs 同日修法）。
+  const categoryFolders: string[] = [];
+  try {
+    const { readdirSync } = await import('node:fs');
+    for (const e of readdirSync(knowledgeRoot, { withFileTypes: true })) {
+      if (e.isDirectory() && /^[A-Z]/.test(e.name))
+        categoryFolders.push(e.name);
+    }
+  } catch {}
   for (const folder of categoryFolders) {
     try {
       const files = await readdir(resolve(knowledgeRoot, folder));
@@ -73,22 +68,9 @@ interface LangMap {
 
 type LangMapRegistry = Map<Lang, LangMap>;
 
-const CATEGORY_FOLDER_TO_SLUG: Record<string, string> = {
-  History: 'history',
-  Geography: 'geography',
-  Culture: 'culture',
-  Food: 'food',
-  Art: 'art',
-  Music: 'music',
-  Technology: 'technology',
-  Nature: 'nature',
-  People: 'people',
-  Society: 'society',
-  Economy: 'economy',
-  Lifestyle: 'lifestyle',
-  About: 'about',
-  Resources: 'resources',
-};
+// 分類 folder → URL slug 一律 lowercase（2026-07-24 前是手維 14 分類寫死
+// 對照表，漏了 Politics；所有值本來就是 lowercase 恆等，改為函式）。
+const catSlugOf = (folder: string): string => folder.toLowerCase();
 
 function normalizePath(path: string): string {
   if (!path) return '/';
@@ -184,7 +166,7 @@ async function buildLangMapRegistryUncached(): Promise<LangMapRegistry> {
     if (!langFile.startsWith('en/')) continue;
     const parts = langFile.replace(/\.md$/, '').split('/');
     if (parts.length < 3) continue;
-    const catSlug = CATEGORY_FOLDER_TO_SLUG[parts[1]] || parts[1].toLowerCase();
+    const catSlug = catSlugOf(parts[1]);
     zhToEnEntry[zhFile] = { catSlug, slug: parts[2] };
   }
 
@@ -216,11 +198,9 @@ async function buildLangMapRegistryUncached(): Promise<LangMapRegistry> {
     if (!NON_DEFAULT_ENABLED_LANGS.includes(langPrefix)) continue;
 
     if (langParts.length >= 3 && zhParts.length >= 2) {
-      const zhCatSlug =
-        CATEGORY_FOLDER_TO_SLUG[zhParts[0]] || zhParts[0].toLowerCase();
+      const zhCatSlug = catSlugOf(zhParts[0]);
       const zhUrl = `/${zhCatSlug}/${encodeURIComponent(zhParts[1])}`;
-      const langCatSlug =
-        CATEGORY_FOLDER_TO_SLUG[langParts[1]] || langParts[1].toLowerCase();
+      const langCatSlug = catSlugOf(langParts[1]);
 
       if (langPrefix === 'en') {
         // EN URL is authoritative
@@ -247,28 +227,18 @@ async function buildLangMapRegistryUncached(): Promise<LangMapRegistry> {
 }
 
 // ── isArticlePage detection ────────────────────────────────────────────────
-const NON_ARTICLE_PATHS = new Set([
-  'about',
-  'contribute',
-  'map',
-  'data',
-  'soundscape',
-  'resources',
-  'dashboard',
-  'changelog',
-  'graph',
-  'terminology',
-  'taiwan-shape',
-  'semiont',
-  'bench',
-  'elections',
-]);
-
+// 兩段路徑是文章頁 ⟺ 第一段是真實分類 slug（knowledge/ 目錄 derive，經
+// staticRoutes.getCategorySlugs）。2026-07-24 前用 NON_ARTICLE_PATHS 排除法，
+// 'about' 同時是靜態頁（/about）與分類（About/）→ About 分類文章被誤判為
+// 非文章頁 → registry 查不到時 fallback 出「拉丁 slug 的 zh 連結」且
+// staticPageExists 被 [category] 動態路由保守放行 → 對不存在的 zh 網址發
+// hreflang（「文章如何誕生」vi/id CI 死鏈的根因）。分類 allowlist 同時讓
+// 新分類（如 Politics）自動被認得，不再依賴手維清單。
 function isArticlePagePath(basePath: string): boolean {
   if (basePath === '/') return false;
   const parts = basePath.split('/').filter(Boolean);
   if (parts.length !== 2) return false;
-  return !NON_ARTICLE_PATHS.has(parts[0]);
+  return getCategorySlugs().has(parts[0]);
 }
 
 // ── Main entry ─────────────────────────────────────────────────────────────
@@ -367,9 +337,23 @@ export async function getLangSwitchPath(currentPath: string) {
     has[lang] = !isArticle && staticPageExists(lang, basePath);
   }
 
+  // Generic per-language map covering ALL enabled languages (including
+  // zh-TW and any newly-born language). 2026-07-24: the legacy named exports
+  // below were hardcoded to 6 languages, so vi/id/pt/hi silently never
+  // appeared in hreflang tags or the language switcher despite having real
+  // translated content — callers should read `langs` going forward.
+  const langsOut: Partial<Record<Lang, { link: string; has: boolean }>> = {
+    'zh-TW': { link: links.zh ?? '/', has: has.zh ?? true },
+  };
+  for (const lang of NON_DEFAULT_ENABLED_LANGS) {
+    langsOut[lang] = {
+      link: links[lang] ?? `/${lang}`,
+      has: has[lang] ?? false,
+    };
+  }
+
   // Map abstract result back to legacy named exports for backwards compat with
-  // existing callers (Header.astro, etc.). Future: callers should iterate the
-  // registry directly.
+  // existing callers. Future: callers should iterate `langs` directly.
   return {
     zhLink: links.zh ?? '/',
     enLink: links.en ?? '/en',
@@ -383,5 +367,6 @@ export async function getLangSwitchPath(currentPath: string) {
     hasKo: has.ko ?? true,
     hasFr: has.fr ?? true,
     hasEs: has.es ?? true,
+    langs: langsOut,
   };
 }
