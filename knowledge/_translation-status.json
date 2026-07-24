@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T03:23:24+08:00",
-    "zhCommitHead": "ae4167fb1",
+    "lastUpdated": "2026-07-25T03:39:05+08:00",
+    "zhCommitHead": "f903019ab",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -59,26 +59,26 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 67,
+        "fresh": 68,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 779,
+        "missing": 778,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 96,
-        "stale": 9,
+        "fresh": 101,
+        "stale": 8,
         "metadata_stale": 0,
-        "missing": 757,
+        "missing": 753,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 119,
+        "fresh": 121,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 732,
+        "missing": 730,
         "orphan": 0
       },
       "hi": {
@@ -905,7 +905,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/golden-melodies-legacy-taiwan-pop-music.md",
+          "translatedFrom": "Music/台灣流行音樂.md",
+          "sourceCommitSha": "1e1040928",
+          "sourceContentHash": "sha256:8399301b29b6b0dc",
+          "sourceBodyHash": "sha256:eb706bc3431ec070",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 58,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -15367,18 +15378,16 @@
         "id": {
           "path": "id/Technology/mini-taiwan-pulse-civic-tech.md",
           "translatedFrom": "Technology/mini-taiwan-pulse.md",
-          "sourceCommitSha": "905aa4a82",
-          "sourceContentHash": "sha256:93ceaae8bc44512f",
-          "sourceBodyHash": "sha256:941fb85e8f2fbb98",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
+          "sourceCommitSha": "da22dc5b2",
+          "sourceContentHash": "sha256:b4fa10553d998dfa",
+          "sourceBodyHash": "sha256:6475e91be41d93b4",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
           "translationLastCommit": "f6054c73",
           "translationLastModified": "2026-07-24T20:41:47+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -24768,7 +24777,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-nuclear-debate.md",
+          "translatedFrom": "Society/台灣與核能的討論.md",
+          "sourceCommitSha": "95c3b1afd",
+          "sourceContentHash": "sha256:5d718d4ccb9dca76",
+          "sourceBodyHash": "sha256:b97d2d0eea4b5afe",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 52,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -31424,7 +31444,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/complex-life-festival.md",
+          "translatedFrom": "Society/複雜生活節.md",
+          "sourceCommitSha": "dd82dc4a6",
+          "sourceContentHash": "sha256:288b132714804aff",
+          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -64599,8 +64630,8 @@
           "sourceContentHash": "sha256:ca062268b3b89018",
           "sourceBodyHash": "sha256:383a8a9c19be37a9",
           "translatedAt": "2026-07-25T02:52:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8218d5dd",
+          "translationLastModified": "2026-07-25T03:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -65688,8 +65719,8 @@
           "sourceContentHash": "sha256:65a3ff761ca143a1",
           "sourceBodyHash": "sha256:da607a2f72ce021f",
           "translatedAt": "2026-07-25T02:52:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8218d5dd",
+          "translationLastModified": "2026-07-25T03:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -65797,8 +65828,8 @@
           "sourceContentHash": "sha256:2d7f3f53fc22a03b",
           "sourceBodyHash": "sha256:dfebf81490e7a3d9",
           "translatedAt": "2026-07-25T02:52:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8218d5dd",
+          "translationLastModified": "2026-07-25T03:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -65900,7 +65931,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-coffee-industry.md",
+          "translatedFrom": "Food/台灣咖啡產業.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:bf3c7b57d2ee1eb5",
+          "sourceBodyHash": "sha256:9eb2ce39000f61fe",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -66883,8 +66925,8 @@
           "sourceContentHash": "sha256:764c87b479e4e9af",
           "sourceBodyHash": "sha256:6c2df9f7c1f07744",
           "translatedAt": "2026-07-25T02:52:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8218d5dd",
+          "translationLastModified": "2026-07-25T03:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -67122,8 +67164,8 @@
           "sourceContentHash": "sha256:6de8df7e037bf580",
           "sourceBodyHash": "sha256:4ab47a31d7ad3c5f",
           "translatedAt": "2026-07-25T02:52:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8218d5dd",
+          "translationLastModified": "2026-07-25T03:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -67773,8 +67815,8 @@
           "sourceContentHash": "sha256:9280fef1e637d1d1",
           "sourceBodyHash": "sha256:4b1b088d8a0fbe11",
           "translatedAt": "2026-07-25T02:52:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8218d5dd",
+          "translationLastModified": "2026-07-25T03:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -68187,8 +68229,8 @@
           "sourceContentHash": "sha256:94b3cc7ad435a8c7",
           "sourceBodyHash": "sha256:e301e6416dd3bfb4",
           "translatedAt": "2026-07-25T02:52:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8218d5dd",
+          "translationLastModified": "2026-07-25T03:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -69808,8 +69850,8 @@
           "sourceContentHash": "sha256:c876a6c84ad1bc82",
           "sourceBodyHash": "sha256:97ba5602057c57dc",
           "translatedAt": "2026-07-25T02:52:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8218d5dd",
+          "translationLastModified": "2026-07-25T03:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -69928,8 +69970,8 @@
           "sourceContentHash": "sha256:ed10e8c11ed48896",
           "sourceBodyHash": "sha256:4ef8874799781420",
           "translatedAt": "2026-07-25T02:52:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8218d5dd",
+          "translationLastModified": "2026-07-25T03:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -73952,8 +73994,8 @@
           "sourceContentHash": "sha256:3828ee010a982636",
           "sourceBodyHash": "sha256:1b234f51be7edbb9",
           "translatedAt": "2026-07-25T02:52:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8218d5dd",
+          "translationLastModified": "2026-07-25T03:23:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -78612,7 +78654,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/offshore-islands-and-maritime-culture.md",
+          "translatedFrom": "Geography/離島與海洋文化.md",
+          "sourceCommitSha": "a05d24314",
+          "sourceContentHash": "sha256:a5ce1cc1637b843d",
+          "sourceBodyHash": "sha256:3262816e651d35d1",
+          "translatedAt": "2026-07-25T02:52:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/offshore-islands-and-maritime-culture.md",
@@ -83246,7 +83299,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/traditional-festivals-and-celebrations.md",
+          "translatedFrom": "Culture/傳統節慶與慶典.md",
+          "sourceCommitSha": "a05d24314",
+          "sourceContentHash": "sha256:3bac2c2faa70bd6e",
+          "sourceBodyHash": "sha256:325c4509ad66d26d",
+          "translatedAt": "2026-07-25T02:52:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -84382,7 +84446,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/loanwords-and-language-contact-in-taiwan.md",
+          "translatedFrom": "Culture/台灣外來語與語言接觸.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eec4f271a84a1f94",
+          "sourceBodyHash": "sha256:8e1b986c4cf0a1f3",
+          "translatedAt": "2026-07-25T02:52:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/loanwords-and-language-contact-in-taiwan.md",
