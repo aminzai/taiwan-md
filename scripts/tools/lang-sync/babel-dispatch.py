@@ -567,6 +567,17 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         # footnote-format violations post-prettier on the same file).
         subprocess.run(["npx", "prettier", "--write", trans_path],
                        cwd=REPO, capture_output=True, text=True)
+        # passthrough 欄位機械 heal（2026-07-25）：模型常漏抄 image/imageCredit/
+        # featured/readingTime 這類「本來就不該翻譯、逐字照抄即可」的欄位，
+        # verify 把它算 hard fail 於是整篇好譯文被退掉重翻。實測本輪 verify=1
+        # 占 21 次 fail，抽查全是這類；跨三語同篇同時中鏢＝模型共同行為非個案。
+        # 判斷力該用在「翻得好不好」，不是「URL 有沒有被複製過去」（§14）。
+        hr = subprocess.run(
+            ["python3", "scripts/tools/lang-sync/heal-passthrough-fields.py",
+             zh_path, trans_path],
+            cwd=REPO, capture_output=True, text=True)
+        if hr.stdout.strip():
+            log(f"   🔧 passthrough heal: {hr.stdout.strip()[:150]}")
         ok, fail_reason = verify_one(zh_path, trans_path, log)
         if not ok:
             # 隔離前存證（2026-07-24）：失敗 blob 直接 unlink/restore 就沒有
