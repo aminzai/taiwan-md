@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T07:54:49+08:00",
-    "zhCommitHead": "44d7744c1",
+    "lastUpdated": "2026-07-25T07:54:59+08:00",
+    "zhCommitHead": "f13342bbd",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 862,
-        "fresh": 706,
-        "stale": 151,
+        "fresh": 707,
+        "stale": 150,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -17148,18 +17148,16 @@
         "ja": {
           "path": "ja/Art/no-mans-land-art-platform.md",
           "translatedFrom": "Art/數位荒原.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:94e9b57891092909",
-          "sourceBodyHash": "sha256:15f9472d4c0b19f9",
-          "translatedAt": "2026-06-16T17:04:12Z",
+          "sourceCommitSha": "a74c440b3",
+          "sourceContentHash": "sha256:f8ec8d5fb97942ca",
+          "sourceBodyHash": "sha256:7bfa784449cb0cb6",
+          "translatedAt": "2026-07-25T07:52:33+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/no-mans-land-art-platform.md",
