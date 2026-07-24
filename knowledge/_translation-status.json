@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T01:40:42+08:00",
-    "zhCommitHead": "8a8979efe",
+    "lastUpdated": "2026-07-25T01:41:47+08:00",
+    "zhCommitHead": "61f5321b9",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 97,
+        "fresh": 93,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 754,
+        "missing": 758,
         "orphan": 0
       },
       "hi": {
@@ -8941,18 +8941,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/Economy/agricultural-technology-and-refined-agriculture.md",
-          "translatedFrom": "Economy/農業科技與精緻農業.md",
-          "sourceCommitSha": "3mut298aba",
-          "sourceContentHash": "sha256:19b72b95becb40d7",
-          "sourceBodyHash": "sha256:966a2693a6cccc59",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 7,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -27957,18 +27946,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/Society/taipei-rat-problem.md",
-          "translatedFrom": "Society/台北鼠患.md",
-          "sourceCommitSha": "44b9afeef",
-          "sourceContentHash": "sha256:ea94b427916538a7",
-          "sourceBodyHash": "sha256:bcba667c74795d16",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 38,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "path": "hi/Society/taipei-rat-problem.md",
@@ -33094,7 +33072,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-slash-generation-multi-job-economy.md",
+          "translatedFrom": "Society/台灣斜槓世代.md",
+          "sourceCommitSha": "b6f8b00d8",
+          "sourceContentHash": "sha256:f40c65ff14acd5cb",
+          "sourceBodyHash": "sha256:7fc8e0dbb23602c5",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "61f5321b",
+          "translationLastModified": "2026-07-25T01:40:47+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -70258,8 +70247,8 @@
           "sourceContentHash": "sha256:6515803df49cd854",
           "sourceBodyHash": "sha256:68be41dd8378b384",
           "translatedAt": "2026-07-25T01:31:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "61f5321b",
+          "translationLastModified": "2026-07-25T01:40:47+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -73135,18 +73124,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/History/taiwan-transitional-justice.md",
-          "translatedFrom": "History/台灣轉型正義.md",
-          "sourceCommitSha": "7c73f6a55",
-          "sourceContentHash": "sha256:c532a9d9d95ccbcaaf",
-          "sourceBodyHash": "sha256:530ea0ffb4d07e77",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -75046,18 +75024,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Geography/hualien-county.md",
-          "translatedFrom": "Geography/花蓮縣.md",
-          "sourceCommitSha": "b74252d93",
-          "sourceContentHash": "sha256:405286ffbb97b596",
-          "sourceBodyHash": "sha256:367ba2e7b9a712c5",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -79064,18 +79031,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Geography/kaohsiung-city.md",
-          "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "a5490c043",
-          "sourceContentHash": "sha256:244cad849cf26403",
-          "sourceBodyHash": "sha256:fd14be167daa0221",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 33,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -82761,8 +82717,8 @@
           "sourceContentHash": "sha256:a0a6e4b6f985e523",
           "sourceBodyHash": "sha256:0cbd55ce25cb1102",
           "translatedAt": "2026-07-25T01:31:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "61f5321b",
+          "translationLastModified": "2026-07-25T01:40:47+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
