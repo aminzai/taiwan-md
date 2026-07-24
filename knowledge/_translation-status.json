@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T05:39:56+08:00",
-    "zhCommitHead": "92a236dd4",
+    "lastUpdated": "2026-07-25T05:44:43+08:00",
+    "zhCommitHead": "216932996",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 862,
-        "fresh": 114,
-        "stale": 5,
+        "fresh": 117,
+        "stale": 4,
         "metadata_stale": 0,
-        "missing": 743,
+        "missing": 741,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 150,
+        "fresh": 151,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 702,
+        "missing": 701,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 132,
+        "fresh": 134,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 722,
+        "missing": 720,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 862,
-        "fresh": 12,
-        "stale": 0,
-        "metadata_stale": 0,
-        "missing": 850,
-        "orphan": 0
-      },
-      "ru": {
         "total_zh": 862,
         "fresh": 13,
         "stale": 0,
         "metadata_stale": 0,
         "missing": 849,
+        "orphan": 0
+      },
+      "ru": {
+        "total_zh": 862,
+        "fresh": 17,
+        "stale": 0,
+        "metadata_stale": 0,
+        "missing": 845,
         "orphan": 0
       }
     },
@@ -24340,7 +24340,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taipei-smoking-room.md",
+          "translatedFrom": "Society/台北吸菸室.md",
+          "sourceCommitSha": "1929e495a",
+          "sourceContentHash": "sha256:38028701b07f0fef",
+          "sourceBodyHash": "sha256:9688d39de8d415",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 43,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -33810,7 +33821,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/About/origin-story.md",
+          "translatedFrom": "About/緣起故事.md",
+          "sourceCommitSha": "818f3cc10",
+          "sourceContentHash": "sha256:90a44cb111462766",
+          "sourceBodyHash": "sha256:0005a5514ea5f5fb",
+          "translatedAt": "2026-07-25T05:00:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -34117,7 +34139,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/About/taiwan-official-resources-revisit.md",
+          "translatedFrom": "About/台灣官方網站資源重寫.md",
+          "sourceCommitSha": "a05d24314",
+          "sourceContentHash": "sha256:73ee4c24e755afd6",
+          "sourceBodyHash": "sha256:7e5da6fad0f6882b",
+          "translatedAt": "2026-07-25T05:00:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -52470,7 +52503,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chu-yi-kuei-qing-rebel.md",
+          "translatedFrom": "People/朱一貴.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:59a6177c37cf5305",
+          "sourceBodyHash": "sha256:731cd7121531d2ac",
+          "translatedAt": "2026-07-25T05:00:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -52754,18 +52798,16 @@
         "id": {
           "path": "id/People/andre-chiang-taiwanese-culinary-innovator.md",
           "translatedFrom": "People/江振誠.md",
-          "sourceCommitSha": "833556798",
-          "sourceContentHash": "sha256:7b9eccc3ab9aefdc",
-          "sourceBodyHash": "sha256:7e097027b15e3367",
-          "translatedAt": "2026-07-18T18:59:54+08:00",
+          "sourceCommitSha": "afc8fbf91",
+          "sourceContentHash": "sha256:335773d0a09d68a9",
+          "sourceBodyHash": "sha256:257d28e459bd329d",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
           "translationLastCommit": "f6054c73",
           "translationLastModified": "2026-07-24T20:41:47+08:00",
           "inferred": false,
-          "footnoteDefs": 30,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -56919,8 +56961,8 @@
           "sourceContentHash": "sha256:970d28e96a195c6a",
           "sourceBodyHash": "sha256:bfea2eb77a7d1c05",
           "translatedAt": "2026-07-25T05:00:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21693299",
+          "translationLastModified": "2026-07-25T05:39:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -57028,8 +57070,8 @@
           "sourceContentHash": "sha256:cac2434cbb03924f",
           "sourceBodyHash": "sha256:80650db2e1788a43",
           "translatedAt": "2026-07-25T05:00:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21693299",
+          "translationLastModified": "2026-07-25T05:39:56+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -57137,8 +57179,8 @@
           "sourceContentHash": "sha256:b7bcedce34261377",
           "sourceBodyHash": "sha256:a95f42aeb707e55c",
           "translatedAt": "2026-07-25T05:00:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21693299",
+          "translationLastModified": "2026-07-25T05:39:56+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -57442,8 +57484,8 @@
           "sourceContentHash": "sha256:e00af3b07adcb778",
           "sourceBodyHash": "sha256:beb2338ff10788ce",
           "translatedAt": "2026-07-25T05:00:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21693299",
+          "translationLastModified": "2026-07-25T05:39:56+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -57551,8 +57593,8 @@
           "sourceContentHash": "sha256:12627c86b39f3cf2",
           "sourceBodyHash": "sha256:cac852a1ab84bcac",
           "translatedAt": "2026-07-25T05:00:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21693299",
+          "translationLastModified": "2026-07-25T05:39:56+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -58542,8 +58584,8 @@
           "sourceContentHash": "sha256:7bf4114050e0bd18",
           "sourceBodyHash": "sha256:56cd3707ce723649",
           "translatedAt": "2026-07-25T05:00:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21693299",
+          "translationLastModified": "2026-07-25T05:39:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -60490,8 +60532,8 @@
           "sourceContentHash": "sha256:a0454e71ee2abfe6",
           "sourceBodyHash": "sha256:2bbcd86b693a9ea2",
           "translatedAt": "2026-07-25T05:00:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21693299",
+          "translationLastModified": "2026-07-25T05:39:56+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -61090,7 +61132,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/hung-hsing-fu.md",
+          "translatedFrom": "People/洪醒夫.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:7de74580c2e1d825",
+          "sourceBodyHash": "sha256:669b88afae826e6b",
+          "translatedAt": "2026-07-25T05:00:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -61932,8 +61985,8 @@
           "sourceContentHash": "sha256:f70240af05eb54ba",
           "sourceBodyHash": "sha256:1077b6698d6359d9",
           "translatedAt": "2026-07-25T05:00:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21693299",
+          "translationLastModified": "2026-07-25T05:39:56+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -65330,8 +65383,8 @@
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
           "translatedAt": "2026-07-25T05:00:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21693299",
+          "translationLastModified": "2026-07-25T05:39:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -65439,8 +65492,8 @@
           "sourceContentHash": "sha256:b19eaae2749a2675",
           "sourceBodyHash": "sha256:0e334a19b5edfbf1",
           "translatedAt": "2026-07-25T05:00:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "21693299",
+          "translationLastModified": "2026-07-25T05:39:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -70390,7 +70443,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/yuan-xing-cattle-beef-soup-history.md",
+          "translatedFrom": "History/源興牛與牛肉湯的歷史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ed10e8c11ed48896",
+          "sourceBodyHash": "sha256:4ef8874799781420",
+          "translatedAt": "2026-07-25T05:00:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/yuan-xing-cattle-beef-soup-history.md",
@@ -71413,10 +71477,32 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/hukou-camp-shengli-road-memory.md",
+          "translatedFrom": "History/湖口營區與勝利路記憶.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:24a72a8ef4ad1c70",
+          "sourceBodyHash": "sha256:67689aef546b2c21",
+          "translatedAt": "2026-07-25T05:00:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/hukou-camp-shengli-road-memory.md",
+          "translatedFrom": "History/湖口營區與勝利路記憶.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:24a72a8ef4ad1c70",
+          "sourceBodyHash": "sha256:67689aef546b2c21",
+          "translatedAt": "2026-07-25T05:00:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -77202,7 +77288,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/tadian-mountain.md",
+          "translatedFrom": "Geography/漯底山.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:2cef849f8ebc6df7",
+          "sourceBodyHash": "sha256:a56d3c9283c22ceb",
+          "translatedAt": "2026-07-25T05:00:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -90520,7 +90617,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/tchoukball-in-taiwan.md",
+          "translatedFrom": "Culture/巧固球.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:01a29994f0cdcf17",
+          "sourceBodyHash": "sha256:620db6741686fb51",
+          "translatedAt": "2026-07-25T05:00:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/tchoukball-in-taiwan.md",
