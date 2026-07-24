@@ -1,164 +1,201 @@
 ---
-title: 'Toll Stations: The Vanishing Three-Second Pause on the National Highway'
-description: "The Tashan Toll Station, opened in 1974, marked the beginning of the toll era on Taiwan's national highways. This half-century history is not only an evolution from manual per-trip billing to electronic distance-based charging, but also hides the fiscal demands after the oil crisis, the hard labor of high temperatures and exhaust fumes in the booths, and the social pain of highway toll collectors being thrown from 'home' to the streets of protest."
-date: 2026-05-03
-tags:
-  [
-    'National Highway',
-    'Toll Station',
-    'ETC',
-    'Transportation History',
-    'Social Movements',
-    'Sun Hsiu-luan',
-    'Return Tickets',
-    'Tashan Toll Station',
-    'Xiluo Bridge',
-    'Toushui Creek Toll Station',
-  ]
-subcategory: 'Transportation and Mobility'
+title: '料金所：高速道路から消えた3秒間の停止'
+description: '1974年、泰山料金所の開所当日、回数券を渡すのに要したのは3秒未満だった。その動作は後に国家によって精密に測定され、3.7秒に圧縮された。2013年にはシステム全体がゼロに圧縮され、その代償として947人の料金徴収員が11年にわたる訴訟を戦った。現在も高速道路沿いには3つの券売亭が残されており、見学は可能だが、停車は禁止されている。'
+date: 2026-07-19
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-readingTime: 12
-lastVerified: 2026-05-03
+subcategory: '交通與移動'
+tags:
+  [
+    '料金所',
+    '高速道路',
+    '高速道路料金徴収員',
+    '回数券',
+    'ETC',
+    '交通インフラ',
+    '集合的記憶',
+  ]
+readingTime: 15
+lastVerified: 2026-07-19
 lastHumanReview: false
+featured: false
 translatedFrom: 'Lifestyle/收費站.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:edb46e6aef72624c'
-sourceBodyHash: 'sha256:bc9b5cd80bcd52ef'
-translatedAt: '2026-06-09T03:24:01+08:00'
+sourceCommitSha: '09ffe560f'
+sourceContentHash: 'sha256:ef6fab2f2ae48840'
+sourceBodyHash: 'sha256:6af77751f6cfb762'
+translatedAt: '2026-07-25T04:46:07+08:00'
 image: '/article-images/lifestyle/taishan-toll-station-2008.webp'
 imageCredit: 'MiNe (Flickr), via Wikimedia Commons'
-imageLicense: 'CC BY 2.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Taishan_Toll_Station_20080818a.jpg'
 ---
 
-> **"In that three-foot-square booth, what we received was not just a ticket, but the souls of countless travelers in a hurry. When the window rolled down, what poured in was the winter cold wind, the summer heat, and that gentle 'thank you for your hard work'."**
+> 「社会の集合的記憶と歴史は異なるものである。」——陳子軒、2015年[^1]
 
-> **30-Second Overview:** Taiwan's national highway toll stations, from their activation in 1974 to their removal in 2013, represent the most tangible scene of Taiwan's transition from economic takeoff to digital transformation. This three-foot-square booth was once the fiscal fortress supporting national construction and the "home" where 947 toll collectors dedicated their youth. This article uses a prose style to trace the history from its birth amidst the oil crisis, through the fairness revolution sparked by electronic tolling, to the labor rights protest history that still aches faintly today.
+> **30秒で概観：** 台湾の高速道路料金所は39年間（1974-2013年）存続し、多くの人々が記憶しているのは、手を伸ばして回数券を受け取るその3秒間だけである。しかし、その動作自体が後に「物差し」となった。1974年の泰山駅開所当日には「全員女性採用」の方針が発表され、後世に流布された「1978年中正橋汚職事件後の政策転換」よりも4年も早かった。料金徴収を決定したのは行政院第1134回院会であり、当時全国自動車の普及率が1%未満という状況で、先んじて建設された有料道路という財政的な大博打であり、同年に勃発した石油危機とは直接的な因果関係がない。1985年、官方は通過時間を精密に3.7秒と測定し、2013年未明にシステム全体がゼロに圧縮され、その結果、947人の料金徴収員が2つの政党にまたがり、11年間争った秘密和解がもたらされた。現在も高速道路沿いには3つの券売亭が残されており、「見学は可能だが、長時間の停車は控えるべきである」。
 
-It was the gentlest yet most cruel gaze in Taiwan's highway history. As wheels slowly rolled into the toll lane, the roar of the engine echoed between the booth's guardrails into a dull rhythm. The driver rolled down the window, and what rushed in was a heatwave mixed with the smell of scorched asphalt and diesel exhaust. The toll collector reached out, their fingertips lightly touching the return ticket handed over by the driver. That one-second pause was the only human touch on the national highway. Today, we pass through cold gantries at 100 km/h; that "hand-to-hand" warmth has dissipated completely into the dust of the rearview mirror along with the demolished booths.
+## 回数券を渡すその3秒間
 
-### Before the Origin: Road Money by the Toushui Creek and Railway Wonders
+1974年7月30日正午、中山高速公路の三重から中壢までの区間が開通し、泰山料金所も同日に開所し、台湾初の高速道路料金所となった[^2]。開所当日の最低料金は小型車15元/回で、2日間で600人以上が料金徴収員として応募に来た[^3]。
 
-Before the Tashan Toll Station became the "Number One Station," Taiwan's tolling history had already quietly unfolded by the Toushui Creek. In 1953, the **Xiluo Bridge**, spanning Yunlin and Changhua counties and once the largest bridge in East Asia, opened for traffic [^1]. To recover bridge construction costs, the government established the **Toushui Creek Toll Station** at the bridgehead, which is the true ancestor of Taiwan's highway tolling [^2].
+その後の39年間、台湾の高速道路を走るすべての運転手は、おそらく同じ動作を経験しているだろう。速度を落とし、右手を伸ばし、回数券を料金徴収員に渡す。指先が触れ合うのは3秒未満で、車はそのまま走り去る。1985年12月1日に回数券専用レーンの全面実施後、官方はこの動作を「平均車両の回数券所持による通過時間が約3.7秒に短縮された」と精密に測定した[^4]。
 
-It was an era where even crossing a bridge required "road money." More interestingly, in those years when highway bridges were not yet widespread, Taiwan witnessed the wonder of **railways also charging fees**. On the streams between Hualien and Taitung, Taiwan Railways Administration (TRA) railway bridges were often the only passage. At that time, the TRA not only carried people but also "carried roads"—during gaps in train traffic, highway vehicles could drive onto the railway bridges, with TRA staff collecting tolls from "bridge watch houses" on both sides [^3]. This "agency collection" system of shared railway-highway use unexpectedly made the TRA an early toll station manager, ending only when highway bridges were successively completed in the 1970s [^4].
+回数券自体は紙製で、10枚綴りの1冊。小型車400元、大型貨客車500元、連結車650元で、サービスエリア、郵便局、ガソリンスタンドで購入可能だった。1983年には、100枚綴りで原価の95%割引となる大口割引が貨運業者向けに追加された[^5]。「さわる手時代」という浪漫的に聞こえる呼称は、2023年にFacebookのコミュニティで料金所の旧写真が共有され、ネットユーザーが「昔、夫が女性の手を触れた時、とても不快だった」と投稿したことを、メディアが归纳して命名したものである。これは料金徴収員自身が使用した用語ではなく、料金所運営期間中の正式または一般的な呼称でもなく、事件そのものから10年離れている[^6]。
 
-### 1974: The Oil Crisis and the Fiscal Fortress of "Roads Pay for Roads"
+「さわる手」よりも、料金徴収員自身が記憶している画面はより直接的である。元泰山駅料金徴収員である黄彥勝氏は、2019年のノスタルジー回顧展の現場で取材に対し、小さな券売亭にはガソリンの匂い、埃、排気ガスが混在しており、1日8時間立ちっぱなしだったと語った。彼の担当区間では「平均して5秒ごとに通過客を迎える」必要があり、「チケットを渡し、お釣りを渡し、偽札や偽券をチェックする動作を繰り返す」のが仕事だった。泰山駅には合計22の券売亭が長く並び、「そのため、2〜5の券売亭ごとに階段があり、地下の秘密通路と繋がっていた」[^7]。
 
-In the 1970s, Taiwan was in the midst of the frenzy of the "Ten Major Construction Projects." On July 30, 1974, Taiwan's first national highway toll station—the **Tashan Toll Station**—officially opened [^5].
+——回数券を渡すその3秒間と、券売亭の中で連続して8時間立つその3秒間は、同一瞬間の両面である。この瞬間を振り返って明確に見る価値がある：その手は誰の手なのか、どのくらい止まることができ、何秒で渡すのか、すべてが背後で精密に決定されていたのである。
 
-The background at the time was extremely special: the world was experiencing the first oil crisis, with soaring crude oil prices and huge government fiscal pressure. To support massive construction funds, the government adopted the "roads pay for roads" policy, planning the national highway as a toll road [^6]. The fare for small vehicles was only 15 yuan at the time, symbolizing the rise of the "middle class" and the "private car dream" in an era when average monthly salaries were only in the thousands [^7].
+## 全員女性採用：一つの政策、二つの誤って接続された年份
 
-At that time, the toll station was the only rhythm on the national highway. Drivers had to reduce their speed from 100 km/h to zero, roll down the window, and complete their first monetary contract with the country amidst the idling sound of the engine.
+よく語られる誤ったバージョンは、1978年に台北の中正橋料金所で偽造通行証の汚職事件が発生し、政府が高速道路の料金徴収員をすべて女性に切り替えることを決定したというものである。この因果関係は合理的に聞こえる（女性は細心であり、汚職しにくい）、そのため長く流布された。しかし、年表を広げてみると、時期が合わない。
 
-📝 Curator's Note: The birth of the toll station was Taiwan exchanging "users' stopping pauses" for "accelerated national construction."
+1974年6月15日の聯合報は、今でも少し驚くべきタイトルを用いた。「高速道路泰山駅 女性料金徴収員を採用」。当時の報道は交通部高速道路管理局局長の胡美璜氏の発言を引用し、女性は「細心であり」、コンピュータ設備に対して「柔軟である」とし、過去に省公路局が男性に徴収を任せていた際、「少数の不正な料金徴収員による私腹肥やし事件が絶え間なく発生していた」と述べ、泰山駅は「伝統を破り」、「全員を女性として料金徴収員に採用する」ことを決定したと伝えた[^8]。つまり、「全員女性採用」という政策は、1974年7月の泰山駅開所時に発表されており、1978年中正橋汚職事件よりも4年も早かったのである。
 
-### Booth Daily Life: Late-Night Broadcasts and Solitude in Exhaust Fumes
+さらに、中正橋は高速道路システムの一部ではない。それは市道111号線であり、新店渓を跨いで台北市中正区と新北市永和区を結び、行政上は台北市政府工務局／新北市政府に属し、交通部高速道路管理局とは別の機関である。1978年の汚職事件の直接的な結果は、「中正橋のすべての料金徴収員を交代させること」、コンピュータによる不正防止設備の設置、そして「2つの橋梁の通行料の早期停止」であった。この市街地連絡橋梁は、内部の不正事件によって自らの運命を閉じられたのであり、4年前に高速道路システムの別の端で運用されていた女性採用政策とは直接的な関係がない[^9]。高公局の公式年表は1974年から1996年まで列挙されているが、「1978年」「中正橋」「汚職事件」「性別政策転換」といった言葉は一切見当たらない[^4]。
 
-At the peak of the 23 toll stations across Taiwan, toll collectors implemented a strict **three-shift system**, operating 24 hours a day without interruption [^8]. For toll collectors on night shifts, what accompanied them was often the rustling radio in the booth. The music from radio stations and national highway traffic reports wove together a unique sense of solitude.
+また、「全員女性採用」という言葉自体、それほど絶対的なものでもなかった。前述の黄彥勝氏は男性であり、1974年に全女性採用が発表された泰山料金所で8年間勤務していた[^7]。これは、当時の政策の意図が何であれ、この「創始駅」がその後の39年の運営において、最初から最後まで全員女性ではなかったことを意味する。当時の報道で局長が「男性料金徴収員の私腹肥やし」を政策の根拠として引用したという話自体、1974年のその報道のみが転載しており、さらに一次資料による裏付けはなく、記述には一定の余地を残す必要がある。確かなのは、この因果関係の方向が長く間違っていたということである。1974年に決定された採用政策が、4年後に発生した市街地橋梁の汚職事件の「結果」になることはあり得ない。
 
-- **Memory of Objects**: That yellowed "return ticket book with 100 sheets," with slightly rough paper and embossed printing touches on the edges for anti-counterfeiting [^9]. The ticket surface faintly showed plum blossom watermarks and fluorescent anti-counterfeiting threads, flashing faintly under UV lights. For freight drivers at the time, return tickets were even a form of "alternative currency," often used to offset meal costs or traded privately at rest areas [^10].
-- **Physical Cost**: In summer, the booth was like a furnace. Even with small electric fans, the stifling heat could not be blown away. To avoid delaying traffic flow, toll collectors often had to master the特技 (special skill) of "drinking water in five seconds, eating in three seconds." Over time, chronic cystitis and respiratory diseases became their untearable occupational labels [^11].
-- **Mysterious Underground Tunnel**: For safety, toll collectors had to walk through a "mysterious underground tunnel" spanning under the national highway to reach the office. This was a narrow passage about 100 meters long, only wide enough for two people to pass sideways, hiding the tired faces and conversations of toll collectors during shift changes [^12].
+黄彥勝氏が記憶している券売亭での日常は、世間で流布されている辛苦の誇張よりも精密である。官方の記録によると、料金所は昼間シフト、小夜間シフト、大夜間シフトに分かれ、8時間ごとに交代し、2時間ごとに30分の休憩を挟み、実際には券売亭で勤務するのは約6.5時間である[^10]。彼は取材に対し、仕事は辛苦であるが、「春節や寒夜の夜、大型トラック運転手から温かい飲み物を受け取った時、とても温かい気持ちになった」と語った[^7]。
 
-After the 1978 Zhengcheng Bridge Toll Station scandal, the system shifted to "all-female" [^13]. These female toll collectors, in the small space, observed the various faces of society: travelers who dropped money and accelerated away, the warm palms touched inadvertently when handing over tickets, and those figures who still held their posts in the pouring rain.
+——政策は、その手が女性によって伸ばされるべきかどうかを決定し、その手が5秒ごとに一度伸ばされ、毎回どのくらい長く、何年間伸ばされるかを決定したのである。
 
-### Technological Evolution: From Return Tickets to the Fairness Revolution
+## 15元、一条の公路を賭けた決定
 
-In 1985, the "Return Ticket Dedicated Lane" was fully implemented, and the "No Change Lane" was launched, reducing the station passage time to 3.7 seconds [^14]. However, this "per-trip charging" behind it hid profound unfairness. Data showed that about 65% of short-distance road users (mostly metropolitan trips) did not need to pay fees because they did not pass through the toll station, with all maintenance costs borne by the 35% of medium-to-long-distance road users [^15].
+台湾は道路料金を徴収したことが初めてではない。1953年1月29日、西螺大橋が開通した日、「大橋に料金所が設置され」、通行する自動車、バイク、バス、軍用車、警備車、各種鉄道車両はすべて「工事受益費」を納め、米援贷款の返済と公路建設の強化に充てられ、1977年まで徴収された[^11]。20年後、今度は高速道路が自らこの道を進むことになったが、規模と野心は異なる。
 
-This also gave rise to early "fee evasion phenomena." The famous "local people's fee evasion secret path" at the Dajia Toll Station was once a secret known tacitly by local drivers [^16]. This unfairness and bottleneck of efficiency prompted Taiwan to promote **ETC electronic tolling**.
+高速道路がこの一歩を踏み出す過程は、官方が非常に明確な記録を残している。交通部が米国の帝力凱撒国際工程顧問会社に委託した「南北高速公路可行性研究報告」は、当初この道路の無料化を提案していた。しかし政府は、「この公路建設は既存の省道西部縦貫線と平行しており、もし無料とすれば、大量の車流が押し寄せるであろう」と考慮し、さらに高速道路建設の初期は借入金に頼っており、「建設と維持の両方に多額の経費を投入する必要がある」とし、財務自己償還目標を達成するため、行政院は第1134回院会で決議し、「利用者負担原則」を採用し、南北高速公路を「有料公路」と定めた[^12]。
 
-Taiwan's ETC transition is highly representative internationally. Compared to Japan's current ETC, which still requires vehicles to slow down when passing through gates, Taiwan's "multi-lane free-flow" system allows vehicles to pass through gantries at high speed, praised by Japanese media as a "leading national nervous system" [^17].
+興味深いことに、この決定の原文には「石油危機」という言葉は一度も登場しない。決定の論理は二つだけ：省道と平行することで車流の均衡を崩すのを避けること、および借入金建設による財務自己償還の必要性である。さらに、時期も合わない。工程局は1970年6月8日に設立され、1971年8月14日にはすでに着工し、1974年7月の泰山駅は三重から中壢までの区間開通に合わせて徴収を開始した[^13]。第一次世界石油危機が勃発したのは1973年10月であり、工程局の設立より3年遅く、着工より2年遅く、徴収決議よりもさらに遅い。「1970年代の石油危機が有料政策を駆動した」というよく引用される因果の簡略化された叙述は、官方の一次叙述では成立しない。石油危機のより合理的な役割は、その後（1973年11月）に蔣経国氏が十大建設の規模拡大を発表する背景要因の一つであったことであり、有料政策そのものの起源ではない。
 
-### The Abandoned Contract Generation: Sun Hsiu-luan and the Self-Help Association
+立ち止まって考える価値があるのは、この決定が下された当時、台湾の自動車普及率は1%未満だったという点である。つまり、政府はまず巨額の資金を費やし、国を挙げて多額の借金をして、当時多くの人がまだ車を持っていない公路を建設し、その後、これらの未来の利用者によって分割返済を行うつもりだったのである。開所当日、小型車15元/回、大型貨客車と連結車は別の段階料金であり、これは一条の公路の運命を、「自動車時代が必ず来る」という予測に賭けたものである。後見の明から見れば、この賭けは勝ったが、1970年のその時点でそれを決定した人々が賭けたのは、自分には見えない40年後であった。
 
-When the national highway became fully automated, 947 toll collectors lost their "home" overnight. This group was mostly female and middle-aged, with an average service tenure of over ten years, yet faced zeroed-out tenure and difficulties in career transition due to their "one-year contract" status [^18].
+高速道路利用者が初めて窓を下ろし、15元を差し出すその瞬間は、この公路が自ら設けた最初の停止であり、この大博打の最初の分割返済の到着であった。
 
-Self-Help Association President **Sun Hsiu-luan** led members in a three-year-long protest:
+## 3.7秒、そしてETC入札背後の訴訟
 
-- **2013-2016**: From petitioning at the Presidential Office to the "six steps, one knee" ascetic march. Under the scorching sun and in the rain, they measured the land they had once guarded with their knees [^19].
-- **Final Agreement**: After the new government took office in 2016, a project compensation agreement was reached. But for many toll collectors, the scar of being "used and discarded" by the state could no longer be erased by money [^20].
+![台湾的高速道路本線料金所のETC電子料金専用レーン（左二）、および人工券売亭と共存する過渡期の実景（2007年）](/article-images/lifestyle/taiwan-expressway-etc-lane-2007.webp)
 
-This was a confrontation between "efficiency" and "dignity." In the process of the nation moving towards modernization, this group became the背影 (silhouettes) forgotten in the rearview mirror.
+1974年の開所時の3秒間が模糊とした日常の印象であるとするなら、1978年からこの3秒間は正式に科学的管理の下、ますます短くなる歴史に入った。この歴史は単に「効率が高まっている」と語られるように見えるが、仔細に追っていくと、その進歩の叙述自体にもひび割れがあることがわかる。
 
-### Concretization of Memory: The Last Minute of Lights Out
+1978年、全区間に小型車のお釣りを不要とするレーンが設置された。1985年12月1日、回数券専用レーンの全面実施が開始され、官方年表は明確に記している：「平均車両の回数券所持による通過時間が約3.7秒に短縮された」[^4]。3.7秒——これはこの公路で最も有名な数字であり、台湾で唯一、国家によって小数点以下第一位まで精密に測定された日常動作である。それは、冒頭の模糊とした「さわる手」の印象に、手に取れる測定結果を与えた：科学的管理の下、3.7秒に精密に圧縮された数字である。
 
-On December 29, 2013, at midnight 24:00, 132 toll collectors across Taiwan put away their last return ticket. Chen Jingru of the Dajia Toll Station recalled that at that moment, she slowly pressed the light switch in the booth, and the surroundings fell into darkness, with only the flashing red light of the eTag gantry in the distance [^21].
+当初の方向性は、停止時間を短縮することであった。1995年2月10日、人工カウント式電子料金ETCレーンが启用され、人工と電子が並行した[^4]。2006年2月10日、DSRC車載機主体のETCシステムが導入された——15日後、物語にひび割れが生じた。2006年2月25日、台北高等行政法院は、高公局が遠東連盟をETC案件の「最優申請者」として選定した資格を取消す判決を下した。理由には、遠東の計画書が段階的料金を提案していたが、高公局が契約交渉過程で車載機の価格と改造費用を議論していなかったことが含まれていた[^14]。取消判決はETCシステムが実際に導入された（2月10日）15日後に下されたが、政府は直ちに遠通の継続運営を認め、翌年の第二阶段審査再開時に遠通が再び中标した。同時に、交通部長林陵三の機要秘書宋乃午は、ETC審査委員のリストを特定の業者に漏洩して賄賂を受け取ったことが発覚し、一審で12年、最高法院で11年を維持、公権剥奪8年で確定した。林陵三本人は、検察庁が罪嫌不足を理由に不起訴で確定した[^15]。
 
-Today, three booths are preserved:
+そして2013年12月30日未明、このシステムは一度にゼロに圧縮された。台湾全土の人工料金所が同時に閉鎖され、多車線自由流課金方式に切り替わり、高速道路上に運転手が停車してチケットを渡す必要のある物理的な停止点はもはや存在しなくなった[^16]。3.7秒から0秒へ。これは台湾が、他の国々がまだゆっくり歩いている道を完成させたことを意味する。日本の東京首都高速道路は2025年11月時点でETC利用率が98.7%に達しているが、無人化料金所の完成は2028年春まで予定されており、範囲は単一の都市圏ネットワークに限定されており、台湾の全国的な一斉転換よりも15年も遅れている[^17]。
 
-- **Tashan Toll Station**: Has a "Museum Exhibition Room," displaying yellowed return tickets and uniforms [^22].
-- **Dajia Toll Station**: Its "Mazu Temple" style exterior is fully preserved, symbolizing the integration of local culture [^23].
-- **Tianliao Toll Station**: Retains part of the station structure, allowing future generations to mourn this national highway history [^24].
+——しかし、これらをすべて「台湾はアジアをリードしている」という達成物語に収めることは、完全に成立しない。台湾メディアと企業関連出版物は、遠通電收が2016年にGRAA（Global Road Achievement Award）世界道路達成賞スマート交通部門の第一席を獲得したことを繰り返し言及している[^18]が、主催団体である国際道路連盟IRFの公式ウェブサイトにおける現在の公開受賞記録は2020年までしか遡っておらず、2016年のリストは見当たらない。これは賞が偽物であることを意味するわけではないが、旧年の未収録の可能性もあり、「第一／最早／唯一の父」原則に従い、この達成自体は「複数の報道による」と表記し、直接断定すべきではない。「世界初の全電子多車線自由流課金」という主張も、追本溯源すれば、最早的な引用源は台湾交通部高速道路局自身が2015年に述べたものであり、英文ウィキペディアや国際貿易メディアによって転載引用されたものであり、独立した国際標準機関が主動的に認証した結果ではない[^19]。
 
-📝 Curator's Note: In an efficiency-first era, we pass through感应 (induction) gantries in just one second; but that vanishing three-second pause was once our most concrete connection to this land.
+3.7秒は小数点以下第一位まで科学化管理され、ゼロに圧縮された。同じ期間中、交通部長の秘書は11年間投獄され、資格取消しされたシステムは依然として導入され、光沢のあるトロフィーの主催団体の公開リストは今日まで見つかっていない。これは効率物語そのものの完全な弧線であり、この公路が語りたがり、かつあまり語りたくないという両面である。
 
-### Timeline: Fifty Years of National Highway Tolling
+## 947人、そして11年後の和解
 
-| Year     | Key Event                                                                                                  |
-| :------- | :--------------------------------------------------------------------------------------------------------- |
-| **1953** | Xiluo Bridge opened, Toushui Creek Toll Station established, the ancestor of Taiwan's toll stations.       |
-| **1974** | Tashan Toll Station opened, beginning the era of manual per-trip charging on national highways.            |
-| **1978** | After the Zhengcheng Bridge scandal, toll collectors changed to all-female.                                |
-| **1985** | Full implementation of return ticket dedicated lanes, maximizing efficiency.                               |
-| **2006** | ETC electronic tolling began pilot testing (OBU system).                                                   |
-| **2013** | Dec 30 Manual charging went into history, fully transitioning to eTag distance-based charging.             |
-| **2016** | National Highway Toll Collectors Self-Help Association reached compensation consensus with the government. |
+![泰山料金所の廃止10ヶ月前の站体外観、2013年2月、台湾全土の人工料金所は同年12月30日未明に一斉に閉鎖された](/article-images/lifestyle/taishan-toll-station-2013-closing.webp)
+
+通りに立って聞けば、このシステムの外側には、もう一つの全く非対称な停止時間がある。それは人間のものである。
+
+2013年12月30日、台湾全土の人工料金所が同時に閉鎖されたその未明、高公局の料金徴収員計947人がすべて整理された。そのうち、北中南の最後の132人の従業員が当番となり、最後の回数券を受け取った[^20]。この947人の多くは約聘僱身份であり、勤続年数は12年から29年までさまざまで、約8割が中年女性であった[^21]。彼らは『労働基準法』の解雇手当規定を適用されず、退職給付は「退職貯金または解雇手当に、7ヶ月分の給与を加算または補足する」という恩給的な方案であった[^20]。
+
+この解雇は、11年にわたる抗争史を引き出した。六歩一跪（六歩歩いて跪く）で交通部から行政院まで苦行し、200時間の断食後、東湖のETC料金ゲートに登り、顔を青く塗ってパレードした——それは彼らの仕事を奪った電子誘導灯光の色であった[^22]。
+
+2016年、民进党部外で30時間以上立ち尽くした末、新政府と合意に達したが、合意内容は縮小された。2019年12月19日、台北高等行政法院的一審で敗訴し、自救会会長孫秀鑾氏はその場で泣きながら「本当にこの結果を受け入れられない」と述べ、法院が「政府の誠信を地面に踏みにじる」と非難した[^23]。
+
+最高行政法院に再上訴し、発回審理の後、最終的に2024年12月30日に調停和解が成立し、解雇日からちょうど11年、同じ暦日となり、2025年2月15日に高雄で20卓の宴席を開き、抗争の終結を祝った[^24]。この完全な11年のタイムラインは、本稿の姉妹編である[高速公路](/lifestyle/高速公路)の記事で深く記述されている。そこには六歩一跪、青い顔のパレード、ETCゲート登攀などの完全な抗争手段に加え、「政治的な約束の不履行と、法的に行政契約を構成するかどうかは別問題である」という分析があり、読者は直接そこを読んでほしい。
+
+自救会会長孫秀鑾氏自身の言葉は、どの外部の整理よりも明確である。「料金徴収員を使い捨てにするような扱い方は、労働者に対して不公平かつ不合理である」[^25]。
+
+3秒間と11年間。それは同じシステムが描き出した、全く非対称な二つの停止時間である。
+
+## 残された三つの券売亭
+
+![田寮料金所の保存された部分站体（国道3号、高雄市田寮区、2022年）——「見学は可能だが、長時間の停車は控えるべきである」という官方姿勢の具体化](/article-images/lifestyle/tianliao-toll-station-preserved-2022.webp)
+
+現在の高速道路地図を開けば、料金所はすべて解体され、三つの券売亭が特別に残されている：泰山、大甲、田寮。それぞれ北、中、南の三つの養護工程分局の記念を表している[^26]。これは、国家が自ら解体した建築を主动的に残すという珍しい姿勢である。
+
+泰山駅はすべての料金所の中で最も古いものであるため、唯一、原生に地下秘密通路が設けられた駅である——それは最も早く建設されたため、秘密通路は後に補強として追加されたものである。後に建設された国道3号の各駅は、設計段階から地下通路が内蔵されている[^27]。文物陳列室は月曜日から金曜日まで、上下午各一場、各回10〜30人、事前に予約してガイド付き見学を行う。地下通路は全長180メートル、「通路の各ドアは回転階段に繋がっており、券売亭に至る」那是一个地下の世界であり、以前、料金徴収員は大きな袋に入った勤務装備を携えて、ここから22の券売亭のいずれかに上った[^28]。
+
+大甲駅は2003年に启用され、国道3号に属する。官方のその説明は極めて克制されている：「元大甲料金所旧址は大甲市区に隣接しており、建築体外観は宗廟の意象特徴を持つ」[^29]。世間の報道では、「三つの廟門牌樓の造型」、「歇山頂の変形」、「赤色の無釉二丁掛復元磚」などの建築賞析言語を用いて、官方の空白を補っている[^30]。蛇足ながら、過去在地に流布された所謂「逃費密道」は、実際には元々国道料金徴収員や国道警察の通勤用であった公務便道であり、2011年以降、高公局は台湾全土で約40条の類似した公務便道を順次封鎖し、違反者は3600元の罰金を科せられる[^30]。
+
+田寮駅は三つの中で最も若い建築意象である。1999年12月に竣工し、国道3号南区路段で最初に启用された料金所である。官方の設計理念の説明は非常に詳細である：「隣接する大小岡山、月世界景点と結合し、山形屋頂様式を採用し、屋頂下方の白色横幅は微かな波浪造型に設計され、駅名標は尖頂の五角形状である」[^31]。保存範囲は山形屋頂に加え、「料金徴収員が券売亭を行き来する回転階段および地下通道も併せて保存する」。しかし、同じ官方文本の末尾には、非常に誠実に一言が加えられている。「高速道路は長時間の停車を控えるべきであるため、站体は現在、観光遊憩方向への発展は暫定的に行わない」[^31]。
+
+国家は建築を記念されることを許すが、人が実際に近づくつもりはない。
+
+三つの券売亭が高速道路沿いに一直線に並んでいる：見学は可能だが、停車は禁止されている。車を運転して通り過ぎる時、一瞬で過ぎ去る山形屋頂や宗廟牌樓が、何かを想起させるが、つかみ取ることはできない——それらは路边にあるが、この公路そのものの論理は、あなたが停止することを許さない。
+
+## 延伸閱讀
+
+- [高速公路](/lifestyle/高速公路) — 台湾高速道路50年の権力と速度。其中「11年間、公開できない和解と交換した」節で、料金徴収員の抗争史を完全に記述している
+- [台灣交通系統](/lifestyle/台灣交通系統) — 高速道路、高鐵、捷運から地方公路までの全体交通脈絡
 
 ---
 
-**References:**
+## 圖片來源
 
-[^1]: [Xiluo Bridge: The Largest Bridge in East Asia in Taiwan](https://www.archives.gov.tw/tw/arctw/69-1751.html) — Archives of the National Development Council (National Development Council Archives)
+| 檔案                                        | 描述                                                          | 來源                                                                                                               | 授權         |
+| ------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------ |
+| `taishan-toll-station-2008.webp`（hero）    | 泰山料金所站体外観、廃止前五年                                | [MiNe (Flickr), via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taishan_Toll_Station_20080818a.jpg) | CC BY 2.0    |
+| `taiwan-expressway-etc-lane-2007.webp`      | 台湾高速道路本線料金所のETCレーンと人工券売亭の共存（2007年） | [Stkhomepage, via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Expressway・ETC(in_Taiwan)_001.JPG>) | CC BY-SA 3.0 |
+| `taishan-toll-station-2013-closing.webp`    | 泰山料金所廃止前10ヶ月の站体様貌（2013年2月）                 | [Ompaneyui, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taishan_Toll_Station_20130213.jpg)      | CC BY-SA 3.0 |
+| `tianliao-toll-station-preserved-2022.webp` | 田寮料金所の保存された部分站体（国道3号、2022年）             | [Pbdragonwang, via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:田寮收費站.jpg)                      | CC BY-SA 4.0 |
 
-[^2]: [The Martial Arts of a Bridge: The Era Style of Xiluo Bridge](https://www.taiwan-panorama.com/zh/Articles/Details?Guid=d18cbb51-9b6e-4ba0-b401-9e6be1806da4) — Taiwan Panorama Magazine Special Article (Taiwan Panorama Magazine)
+## 參考資料
 
-[^3]: [Did TRA Once Charge Car Toll Fees? He Reveals the History of Vehicles 'Driving on Rails'](https://www.ftvnews.com.tw/news/detail/2022113W0069) — Formosa TV News Report (Formosa TV News)
+[^1]: [郷関何處？KANO與集合的記憶](https://opinion.udn.com/opinion/story/5769/101971) — 陳子軒が鳴人堂に発表したコラム評論。社会の集合的記憶と歴史にはしばしば落差が存在し、「さわる手」などのネットノスタルジー叙述を理解するための批判的枠組みである。
 
-[^4]: [1966 Wanli Bridge Railway-Highway Shared Bridge and Toll Fees](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=510276) — National Cultural Memory Bank (National Cultural Memory Bank)
+[^2]: [高速道路收費大事紀](https://www.freeway.gov.tw/Publish.aspx?cnid=1482&p=509) — 交通部高速道路局公式大事紀。1974年から2013年の有料関連の主要な節目を年次列挙。「1974年7月30日 泰山料金所は三重中壢区間の開通に合わせて徴収を開始し、最初に徴収を開始した料金所である」と明記。
 
-[^5]: [Chronicle of Highway Tolling Events](https://www.freeway.gov.tw/Publish.aspx?cnid=1482&p=509) — Ministry of Transportation and Communications Highway Bureau (Ministry of Transportation and Communications Highway Bureau)
+[^3]: [報時光：高速道路泰山站 女性料金徴収員を採用](https://time.udn.com/udntime/story/122835/7381427) — 聯合報「報時光」歴史新聞デジタルアーカイブ。1974年6月15日聯合報原始報道を再刊。開所時の採用条件や胡美璜局長の談話を含む。
 
-[^6]: [Transportation Development in Daily Life: Highway Electronic Tolling System](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=1b02c1c3-8e2c-4353-a36a-3191221db6d7) — National Science and Technology Museum (Science and Technology Museum)
+[^4]: [高速道路收費大事紀](https://www.freeway.gov.tw/Publish.aspx?cnid=1482&p=509) — 交通部高速道路局。1978年「全区間に小型車のお釣りを不要とするレーンが設置」、1985年12月1日「回数券専用レーンの全面実施。平均車両の回数券所持による通過時間が約3.7秒に短縮」、1995年2月10日ETCレーン启用、2013年12月30日計程電子課金へ転換。すべて逐字記録あり。
 
-[^7]: [National Income Statistics Yearbook](https://ws.dgbas.gov.tw/001/Upload/466/ebook/ebook_90488//pdf/full.pdf) — Directorate General of Budget, Accounting and Statistics (Directorate General of Budget, Accounting and Statistics)
+[^5]: [回数票（維基百科）](https://zh.wikipedia.org/zh-tw/%E5%9B%9E%E6%95%B8%E7%A5%A8) — 項目は「小型車1冊10枚で新臺幣400元；大型客車および大型貨車1冊10枚で500元；連結車1冊10枚で650元」が主力規格であることを明記。「また、1冊100枚で原価の95%割引」は1983年に追加された大口割引である。
 
-[^8]: [History of Taiwan's Highway Toll Stations](https://m.youtube.com/watch?v=W4RnCRHjeuQ) — YouTube Video Record (YouTube Video Analysis)
+[^6]: [「この」代表を見て年老いた！高速道路必經の関卡 万人の回憶殺：さわる手時代](https://news.tvbs.com.tw/life/2244363) — TVBS新聞網2023年9月16日報道。「さわる手時代」とは、ネットユーザーがFacebookコミュニティで料金所の旧写真を共有した後、メディアがネットユーザーの投稿を归纳して呼称したものであり、料金徴収員または運営期間中の正式用語ではない。
 
-[^9]: [Anti-Counterfeiting Return Ticket Printing and Laser Label Technology](https://zh.holoteam.com/post/park-voucher-zh) — Lingyun Technology Technical Analysis (Lingyun Technology)
+[^7]: [國道泰山收費站重現 料金徴収員秘密通路が露出](https://www.chinatimes.com/realtimenews/20191210003413-260405) — 中國時報2019年12月10日報道。2019年泰山料金所ノスタルジー回顧展の現場。元料金徴収員黄彥勝の逐字証言：「ガソリンの匂い、埃、排気ガスが混在する小さな券売亭で、毎日8時間立ちっぱなしだった」「泰山料金所には合計22の券売亭があり、距離が相当長いため、2〜5の券売亭ごとに階段があり、地下秘密通路と繋がっていた」「平均して5秒ごとに通過客を迎える」「仕事は辛苦であるが、春節や寒夜の夜、大型トラック運転手から温かい飲み物を受け取った時、とても温かい気持ちになる」（後二句は[風傳媒](https://www.storm.mg/article/2052307)、[ETtoday](https://www.ettoday.net/news/20191212/1600197.htm)の二つの独立メディアでも交叉検証されている）。
 
-[^10]: [Watermarks and Return Ticket Anti-Counterfeiting Details](https://www.t-security.com/tw/latest-news/137-2020-07-31) — T-security Qinglei Anti-Counterfeiting Data (T-security Qinglei Anti-Counterfeiting)
+[^8]: [報時光：高速道路泰山站 女性料金徴収員を採用](https://time.udn.com/udntime/story/122835/7381427) — 聯合報「報時光」が1974年6月15日聯合報原始報道を再刊。泰山駅は「伝統を破り」、「全員を女性として料金徴収員に採用」。胡美璜局長は女性が「細心であり」、コンピュータ設備に対して「柔軟である」とし、「過去、省公路局が男性に徴収を任せていた際、少数の不正な料金徴収員による私腹肥やし事件が絶え間なく発生していた」と述べた。
 
-[^11]: [Our Booth Life: Memories of Cold Winds and Sweat](https://tiwa.org.tw/tiwa%E5%B7%A5%E4%BD%9C/%E6%9C%AC%E5%8B%9E%E6%8A%97%E7%88%AD/%E5%9C%8B%E9%81%93%E6%94%B6%E8%B2%BB%E5%93%A1%E6%8A%97%E7%88%AD/) — Taiwan International Laborers Association Archives (National Highway Toll Collectors Self-Help Association)
+[^9]: [時空偵探の歴史行脚：中正橋料金所汚職事件](https://talk.ltn.com.tw/article/breakingnews/2450648) — 自由評論網コラム。1978年、刑事警察局が中正橋料金徴収員の偽造通行証による私腹肥やし汚職事件を解決。処置は「中正橋のすべての料金徴収員を交代させる」「コンピュータによる不正防止設備を設置」「2つの橋梁の通行料の早期停止」。中正橋は市道111号線であり、新店渓を跨いで台北市中正区と新北市永和区を結び、行政上、高速道路システムとは無関係（另見[維基百科「中正橋」](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E6%AD%A3%E6%A9%8B)）。
 
-[^12]: [National Highway Toll Collectors Lead the Way! Reading the Secret Paths of the Number One Station in the Past](https://tw.news.yahoo.com/%E5%9C%8B%E9%81%93%E6%94%B6%E8%B2%BB%E5%93%A1%E5%B8%B6%E8%B7%AF-%E8%B5%B0%E8%AE%80%E5%A4%A9%E4%B8%8B%E7%AC%AC-%E7%AB%99%E6%98%94%E6%97%A5%E7%A7%98%E9%81%93-084213368.html) — Yahoo News Report (Yahoo News)
+[^10]: [回憶 2340 國道收費演進](https://transport-curation.nat.gov.tw/toll/detail/Publish2_1.html) — 交通部數位交通博物館。料金所三班制「昼間班 08:00-16:00；小夜間班 16:00-24:00；大夜間班 24:00-08:00、平均2時間ごとに30分の休憩」。另據[聯合新聞網報時光](https://time.udn.com/udntime/story/122835/8095722)補充「交替時、20〜45分の休憩時間があり、実際券売亭での勤務は約6.5時間」。
 
-[^13]: [Zhengcheng Bridge Toll Station Scandal and Establishment of Female Toll Collector System](https://m.youtube.com/watch?v=dlSb94TKpZU) — YouTube Video Record (YouTube Video Analysis)
+[^11]: [西螺大橋：遠東第一大橋在臺灣](https://www.archives.gov.tw/tw/arctw/69-1751.html) — 國家發展委員會檔案管理局應用服務組研究員許峰源の撰文。西螺大橋は1953年1月29日より「工事受益費」を徴収開始。各種鉄道車両および自動車・バイクはすべて納付が必要。「以路養路の機制を通じて、徴収費用を米援贷款の返済および公路建設の強化に充て」、1977年に徴収停止。
 
-[^14]: [History of Return Ticket Evolution: Transition from Per-Trip to Distance-Based](https://www.freeway.gov.tw/Publish.aspx?cnid=1482&p=509) — Ministry of Transportation and Communications Highway Bureau (Ministry of Transportation and Communications Highway Bureau)
+[^12]: [初創-收費緣起](https://transport-curation.nat.gov.tw/toll/detail/Publish1_1.html) — 交通部數位交通博物館公式ページ。可行性研究は当初無料化を提案していたが、政府は省道分流および借入金建設による財務自己償還の二つの理由を考慮し、「行政院は第1134回院会で決議：利用者負担原則を採用し、南北高速公路を『有料公路』と定める」——全ページに「石油危機」の言葉は登場しない。
 
-[^15]: [Fairness Analysis Data of Implementing Electronic Distance-Based Charging on Highways](https://www.iot.gov.tw/uploads/asset/data/661a19e9367376304acd5abd/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%AF%A6%E6%96%BD%E9%9B%BB%E5%AD%90%E8%A8%88%E7%A8%8B%E6%94%B6%E8%B2%BB%E4%B9%8B%E9%A7%95%E9%A7%9B%E4%BA%BA%E9%A1%98%E4%BB%98%E9%80%9A%E8%A1%8C%E8%B2%BB%E7%8E%87%E5%88%86%E6%9E%90.pdf) — Ministry of Transportation and Communications Research Institute Report (Ministry of Transportation and Communications Research Institute)
+[^13]: [中山高速公路（維基百科）](https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E5%B1%B1%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF) — 項目は「1970年（民国59年）、时任行政院国際経済合作発展委員会主任委員の蔣経国氏が衆議を排して南北高速公路建設案を通過。同年6月8日、中華民國交通部は交通部台湾区高速道路工程局を設立」「1971年8月14日（民国60年）、南北高速公路の着工」「1974年7月29日（民国63年）、三重交流道から内壢交流道まで完工開通」——工程局の設立および着工は、1973年10月の第一次石油危機より以前。
 
-[^16]: [Dajia Toll Station Becomes a Memorial Building, Were There Local People's Fee Evasion Secret Paths Back Then?](https://udn.com/news/story/120910/7114097) — United News Network Report (United News Network)
+[^14]: [北高行判決、遠東ETC最優申請者資格取消](https://www.epochtimes.com/b5/6/2/25/n1236504.htm) — 大紀元2006年2月25日即時報道。台北高等行政法院の当日判決理由：遠東計画書は段階的料金を提案していたが、高公局は契約交渉過程で車載機の価格と改造費用を議論していなかった。判決はETCシステムが実際に導入された（2月10日）15日後に下された。
 
-[^17]: [Japan Tokyo Metropolitan Television Affirms Taiwan's ETC System's Leading Performance](https://www.tcrf.org.tw/viewnews.php?thep=news&n=138) — Republic of China Road Association (Republic of China Road Association)
+[^15]: [ETC 収賄案宋乃午確定](https://www.setn.com/News.aspx?NewsID=10829) — 三立新聞網。交通部長林陵三の機要秘書宋乃午は、ETC審査委員リストを特定の業者に漏洩して賄賂を受け取ったため、一審で12年、最高法院で11年を維持、公権剥奪8年で確定。林陵三本人は、検察庁が罪嫌不足を理由に不起訴で確定。
 
-[^18]: [Process of Streamlining Toll Personnel and Severance Compensation](https://www.freeway.gov.tw/Publish.aspx?cnid=133) — Ministry of Transportation and Communications Highway Bureau (Ministry of Transportation and Communications Highway Bureau)
+[^16]: [高速道路收費大事紀](https://www.freeway.gov.tw/Publish.aspx?cnid=1482&p=509) — 交通部高速道路局。2013年12月30日条項：「『課金方式』を固定費率の計次課金から、走行距離に基づく計程電子課金へシームレスに転換」。
 
-[^19]: [National Highway Toll Collectors Starving Protest: The Cry for Labor Rights in Six Steps, One Knee](https://www.civilmedia.tw/archives/31332) — Citizen Action Audio-Video Record Database (Citizen Action Audio-Video Record Database)
+[^17]: [首都高速道路株式会社 ETC専用化プレスリリース](https://www.shutoko.co.jp/company/press/2024/data/01/24_etcsenyo/) — 首都高速道路株式会社公式。2025年11月ETC利用率98.7%。現有35箇所のETC専用料金所、2025年度中に90箇所へ追加、目標は2028年春までに本線料金所のETC専用化を完了。
 
-[^20]: [Battle of 1219: The Six-Year Long Road of National Highway Toll Collectors' Protest](https://eventsinfocus.org/news/3515) — Focus Events Report (Focus Events)
+[^18]: [遠通電收獲 2016 GRAA 全球道路達成賞](https://www.chinatimes.com/newspapers/20161101000267-260208) — 工商時報2016年11月1日報道。主催団体[国際道路連盟IRF公式サイトGRAAページ](https://www.irf.global/graa/)の现行公開受賞記録は2020年までしか遡っておらず、2016年のリストは欠如。賞が偽物であることを意味するわけではないが、独立検証は困難。
 
-[^21]: [【History's Today 1229】The Last Night of National Highway Manual Toll Stations](https://time.udn.com/udntime/story/122392/7673087) — United News Network Report (Report Time)
+[^19]: [Electronic Toll Collection (Taiwan)（英文維基百科）](<https://en.wikipedia.org/wiki/Electronic_Toll_Collection_(Taiwan)>) — 項目は「台湾は、手動課金から全電子・多車線自由流課金への転換を、高速道路全体で最初に行った国である」と主張。引用源は「Taiwan National Freeway Bureau (June 5, 2015)」すなわち台湾交通部高速道路局自身の発言であり、独立した国際機関の認証ではない。
 
-[^22]: [Tashan Toll Station Museum Exhibition Room Visit Information](https://time.udn.com/udntime/story/122392/7673087) — United News Network Report (Report Time)
+[^20]: [料金徴収員転置办理歷程](https://www.freeway.gov.tw/Publish.aspx?cnid=133) — 交通部高速道路局公式サイト。「高公局料金徴収員計947人がすべて整理」。時期は「102年12月30日」。退職給付方式は「退職貯金または解雇手当に、7ヶ月分の給与を加算または補足」。最後の132人の従業員の失業は[三立新聞網](https://www.setn.com/News.aspx?NewsID=873182)も参照。
 
-[^23]: [National Highway Distance-Based Charging Leaves Memorials: Tashan, Dajia, Tianliao Booths Not Demolished](https://news.ltn.com.tw/news/life/breakingnews/924330) — Liberty Times News Report (Liberty Times News)
+[^21]: [孫秀鑾談抗争マラソン](https://www.coolloud.org.tw/node/93630) — 苦勞網2019年11月3日報道。自救会会長孫秀鑾は勤続年数範囲について「最短12年、最長29年」、約900人の従業員「約8割が中年女性」と語る。同篇では政務委員林萬億氏が事後「合意は個人を代表するのみで、政府を代表するものではない」と発言したことを記載。
 
-[^24]: [Toll Collection Collection: Tianliao Toll Station Preserved for Memorials and Current Status](https://www.freeway.gov.tw/Southernarchives/publish.aspx?NID=3330&P=12882) — Ministry of Transportation and Communications Highway Bureau (Ministry of Transportation and Communications Highway Bureau)
+[^22]: [國道料金徴収員抗争大事記](https://www.eventsinfocus.org/issues/1930) — 焦点事件社運データベース。2014年1月3日初上街、2014年10月25日初六歩一跪、2014年11月28日断食後東湖ETC料金ゲート登攀、2015年3月22日200人の六歩一跪捧蛋苦行、2016年8月15-16日民进党部外立ち尽くし合意達成などの節目を逐条記録。青い顔のパレードは[New Bloom Magazine](https://newbloommag.net/2014/12/10/a-month-of-labor-demonstrations-in-taiwan/)も参照。
 
-[^25]: [Lights Out in National Highway Toll Booth: Chen Jingru's Final Farewell at Dajia Station](https://www.merit-times.com/news/171288) — Merit Times Column (Merit Times)
+[^23]: [決戦 1219 判決当日現場](https://www.coolloud.org.tw/node/93852) — 苦勞網2019年12月19日現場報道。台北高等行政法院106年度訴字第1125号一審判決「原告の訴えを却下」（另見[司法院新聞稿](https://www.judicial.gov.tw/tw/cp-1888-132456-df139-1.html)）。孫秀鑾氏はその場で泣きながら「本当にこの結果を受け入れられない」と述べ、法院が「政府の誠信を地面に踏みにじる」と非難。抗議者は「蔡英文は労働者を台無しにし、蔡英文は政績を騙す」と叫んだ。自救会は3.1億元の賠償を求めた。
 
-[^26]: [eTag Controversies and Far Electronic Toll Security Audit Records](https://www.storm.mg/article/26154) — Storm Media Special Article (Storm Media)
+[^24]: [國道料金徴収員 11年抗争調停和解](https://eventsinfocus.org/node/7147894) — 焦点事件2025年2月19日報道。「國道料金徴収員自救会は11年の抗争を経て、2024年12月30日に政府と調停和解に達した」——2013年12月30日の解雇日からちょうど11年、同じ暦日。2月15日高雄で20卓の宴席を開き、抗争終了を祝った。
+
+[^25]: [孫秀鑾談抗争マラソン](https://www.coolloud.org.tw/node/93630) — 苦勞網2019年11月3日報道。孫秀鑾当日の発言逐字：「料金徴収員を使い捨てにするような扱い方は、労働者に対して不公平かつ不合理である」。
+
+[^26]: [大甲站文物陳列室](https://www.freeway.gov.tw/Centralarchives/publish.aspx?NID=2629&P=9579) — 交通部高速道路局中区養護工程分局。另據[自由時報](https://news.ltn.com.tw/news/local/paper/743295)補充、高公局は「全台北・中・南三区に各一座の料金所を記念として残す」ことを決定。
+
+[^27]: [北工菁檔線上歴史檔案展](https://www.freeway.gov.tw/NorthArchives/Publish.aspx?NID=2072&p=6806) — 交通部高速道路局北区養護工程分局。泰山駅は原始23箇所の料金所の中で唯一地下秘密通路が設けられた者であり、それは最も早く建設された駅であるため。後に建設された国道3号の各駅は設計段階から地下通路が内蔵されている。
+
+[^28]: [桃紅小姐の抖擻生活：泰山料金所文物館導覽記](https://vickichi.pixnet.net/blog/post/47198726) — ブログが泰山文物館現場ガイドを逐字記録。「この地下通路は全長180メートル、通路の各ドアは回転階段に繋がっており券売亭に至る」。另據[交通部數位交通博物館](https://transport-curation.nat.gov.tw/toll/detail/Publish2_1.html)記載、料金徴収員は「重い勤務袋を携えて券売亭を出て回転階段を下り、地下廊道を経る」。
+
+[^29]: [大甲站文物陳列室（官方頁面）](https://www.freeway.gov.tw/Centralarchives/publish.aspx?NID=2629&P=9579) — 交通部高速道路局中区養護工程分局：「元大甲料金所旧址は大甲市区に隣接しており、建築体外観は宗廟の意象特徴を持つ」——官方原文の建築特徴の説明はこれ十数文字のみで、「三川殿」などの特定用語は使用されていない。
+
+[^30]: [大甲料金所建築細節と逃費密道](https://udn.com/news/story/120910/7114097) — 聯合新聞網「童年懐旧郷野談」コラム。大甲駅は「赤色の無釉二丁掛復元磚」、「三つの廟門牌樓の造型」、「歇山頂の変形」。また、世間で所謂される「逃費密道」は実際には「公務便道であり、過去は国道料金徴収員、国道警察の通勤に使用されていた」。2011年以降、高公局は台湾全土で約40条の類似した公務便道を順次封鎖し、違反者は3600元の罰金を科せられる。
+
+[^31]: [山形屋頂 田寮料金所部分保留](https://www.freeway.gov.tw/Southernarchives/publish.aspx?NID=3330&P=12882) — 交通部高速道路局南区養護工程分局逐字設計理念：「隣接する大小岡山、月世界景点と結合し、山形屋頂様式を採用し、屋頂下方の白色横幅は微かな波浪造型に設計され、駅名標は尖頂の五角形状である」。同段末尾南区工程処は自ら「高速道路は長時間の停車を控えるべきであるため、站体は現在、観光遊憩方向への発展は暫定的に行わない」と述べる。[自由時報 2014年1月1日報道](https://news.ltn.com.tw/news/local/paper/743295)は、山形屋頂に加え、「料金徴収員が券売亭を行き来する回転階段および地下通道も併せて保存する」ことを補充。
