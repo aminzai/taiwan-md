@@ -2601,6 +2601,7 @@
   "id/Food/bubble-tea.md": "Food/珍珠奶茶.md",
   "id/Food/night-market-culture.md": "Food/夜市文化.md",
   "id/Food/taiwan-fruit-kingdom.md": "Food/台灣水果王國.md",
+  "id/Geography/kaohsiung-city.md": "Geography/Kaohsiung-City.md",
   "id/Geography/taiwan-river-systems-and-hydrology.md": "Geography/台灣河川系統與水文特色.md",
   "id/Geography/yushan-jade-mountain.md": "Geography/玉山.md",
   "id/History/great-recall-movement-2024.md": "History/大罷免.md",
@@ -4433,7 +4434,6 @@
   "vi/Food/bubble-tea.md": "Food/珍珠奶茶.md",
   "vi/Food/night-market-culture.md": "Food/夜市文化.md",
   "vi/Food/taiwan-fruit-kingdom.md": "Food/台灣水果王國.md",
-  "vi/Geography/kinmen-county.md": "Geography/金門縣.md",
   "vi/Geography/taiwan-river-systems-and-hydrology.md": "Geography/台灣河川系統與水文特色.md",
   "vi/Geography/urban-character-and-regional-culture.md": "Geography/城市特色與區域文化.md",
   "vi/Geography/yushan-jade-mountain.md": "Geography/玉山.md",
@@ -4464,6 +4464,8 @@
   "vi/Society/military-service-in-taiwan.md": "Society/當兵.md",
   "vi/Society/social-movements-and-civic-participation.md": "Society/社會運動與公民參與.md",
   "vi/Society/taiwan-diplomatic-allies-and-international-relations.md": "Society/台灣邦交國與國際外交.md",
+  "vi/Society/taiwan-slash-generation-multi-job-economy.md": "Society/台灣斜槓世代.md",
   "vi/Technology/taiwan-ai-academy.md": "Technology/台灣人工智慧學校.md",
-  "vi/Technology/taiwan-ai-labs.md": "Technology/台灣人工智慧實驗室.md"
+  "vi/Technology/taiwan-ai-labs.md": "Technology/台灣人工智慧實驗室.md",
+  "vi/Technology/taiwan-electricity-and-semiconductors.md": "Technology/台灣的電力與半導體.md"
 }

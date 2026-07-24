@@ -1,14 +1,14 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T19:32:17+08:00",
-    "zhCommitHead": "fbefd7dd8",
+    "lastUpdated": "2026-07-24T19:42:58+08:00",
+    "zhCommitHead": "6ae983d8e",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
       "en": {
         "total_zh": 862,
-        "fresh": 719,
-        "stale": 83,
+        "fresh": 723,
+        "stale": 79,
         "metadata_stale": 0,
         "missing": 60,
         "orphan": 0
@@ -47,10 +47,10 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 49,
+        "fresh": 50,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 803,
+        "missing": 802,
         "orphan": 0
       },
       "id": {
@@ -59,7 +59,7 @@
         "stale": 9,
         "metadata_stale": 0,
         "missing": 797,
-        "orphan": 1
+        "orphan": 2
       },
       "pt": {
         "total_zh": 862,
@@ -85,7 +85,10 @@
       "es": [],
       "fr": [],
       "vi": [],
-      "id": ["id/Music/taiwan-hip-hop-and-rap.md"],
+      "id": [
+        "id/Music/taiwan-hip-hop-and-rap.md",
+        "id/Geography/kaohsiung-city.md"
+      ],
       "pt": [],
       "hi": []
     }
@@ -3302,18 +3305,16 @@
         "en": {
           "path": "en/Music/elephant-gymnastics.md",
           "translatedFrom": "Music/大象體操.md",
-          "sourceCommitSha": "72b757bac",
-          "sourceContentHash": "sha256:b924c3fdcb2a3347",
-          "sourceBodyHash": "sha256:d8ddf05669c2e6c6",
-          "translatedAt": "2026-06-19T00:37:17+08:00",
+          "sourceCommitSha": "8547b2665",
+          "sourceContentHash": "sha256:7b6c098933713fcd",
+          "sourceBodyHash": "sha256:b2179659aae39566",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 56,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Music/elephant-gymnastics.md",
@@ -9480,18 +9481,16 @@
         "en": {
           "path": "en/Technology/taiwan-drone-industry.md",
           "translatedFrom": "Technology/台灣無人機產業.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:de2ace5a9d645535",
-          "sourceBodyHash": "sha256:0efd20b7166e441a",
-          "translatedAt": "2026-06-16T17:11:47Z",
+          "sourceCommitSha": "c2412970f",
+          "sourceContentHash": "sha256:9a74d696840dfd44",
+          "sourceBodyHash": "sha256:6b0ed5d3cd521366",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -19"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/taiwan-drone-industry.md",
@@ -13125,7 +13124,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/taiwan-electricity-and-semiconductors.md",
+          "translatedFrom": "Technology/台灣的電力與半導體.md",
+          "sourceCommitSha": "250410eae",
+          "sourceContentHash": "sha256:739eb8c857d7b377",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "6ae983d8",
+          "translationLastModified": "2026-07-24T19:40:26+08:00",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -30487,7 +30497,18 @@
           "diffSummary": "+8 -8"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/taiwan-slash-generation-multi-job-economy.md",
+          "translatedFrom": "Society/台灣斜槓世代.md",
+          "sourceCommitSha": "b6f8b00d8",
+          "sourceContentHash": "sha256:f40c65ff14acd5cb",
+          "sourceBodyHash": "sha256:7fc8e0dbb23602c5",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "6ae983d8",
+          "translationLastModified": "2026-07-24T19:40:26+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwan-slash-generation-multi-job-economy.md",
@@ -72749,18 +72770,16 @@
         "en": {
           "path": "en/Geography/pingtung-county.md",
           "translatedFrom": "Geography/屏東縣.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:74a76153ce0680fe",
-          "sourceBodyHash": "sha256:f6d31ce0f8b471cc",
-          "translatedAt": "2026-06-16T17:03:25Z",
+          "sourceCommitSha": "47d343b72",
+          "sourceContentHash": "sha256:1730cee4562e4ee0",
+          "sourceBodyHash": "sha256:feab50585a5f02eb",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/pingtung-county.md",
@@ -74319,18 +74338,7 @@
           "diffSummary": "+21 -21"
         },
         "vi": {
-          "path": "vi/Geography/kinmen-county.md",
-          "translatedFrom": "Geography/金門縣.md",
-          "sourceCommitSha": "d3d4d7804",
-          "sourceContentHash": "sha256:1ce94059006f7d31",
-          "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "id": {
           "status": "missing"
@@ -78451,18 +78459,16 @@
         "en": {
           "path": "en/Culture/traditional-crafts-intangible-cultural-heritage.md",
           "translatedFrom": "Culture/台灣傳統工藝與無形文化資產.md",
-          "sourceCommitSha": "51eb3afd",
-          "sourceContentHash": "sha256:b7c990c00c65ffb1",
-          "sourceBodyHash": "sha256:7720c8db697d0d57",
-          "translatedAt": "2026-07-06",
+          "sourceCommitSha": "12cf33d8c",
+          "sourceContentHash": "sha256:0e116841e98362b0",
+          "sourceBodyHash": "sha256:8d311f99ab1ace9b",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/traditional-crafts-intangible-cultural-heritage.md",
