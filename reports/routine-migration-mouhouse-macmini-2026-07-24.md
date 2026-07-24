@@ -68,6 +68,23 @@ cutover 後 24h 內，origin/main 應出現來自 mini 的 `🧬 [routine]` comm
 6-8 個 daily 時段；7 天內週日反思鏈四工位 + supporters + founder-lens 各 fire 一次。驗證腳本
 `verify-migration.sh`（bundle 內）以 git log 為準——git 是唯一不在任一台機器上的 ground truth。
 
+## 執行紀錄（2026-07-24 18:00-18:45 追記）
+
+機器面已全部完成（帳號 `musebase@Exhibitions-Mac-mini`，32GB / 823GB free）：
+
+- ✅ 工具鏈 user-space 安裝（`~/.local`，不動既有 homebrew）：node v24.18 / npm 11.16 / gh 2.96 /
+  codex CLI / gemini CLI / ollama 0.32.3 / **Python 3.12.13**（uv venv + wrapper——系統 3.9 跑不動
+  repo 的 PEP 604 runtime annotation，ast 語法掃描沒抓到、build 煙霧測試才抓到，REFLEXES #24 再驗）
+- ✅ repo clone + npm install + **全站 build 煙霧測試 exit 0（66s）**
+- ✅ 憑證搬遷 + 讀取式驗證：Resend API 200 / OpenRouter API 200 / GA4 service account 可解析 /
+  Supabase env / codex + gemini auth
+- ✅ Ollama 模型：bge-m3 + embeddinggemma（embeddings-nightly 本地化）+ gemma4 9.6GB（babel 本地 tier）
+- ✅ LaunchAgents：ollama serve KeepAlive 常駐 + 登入自動開 Claude.app
+- ✅ 19 條 task SKILL.md + settings.json（bypass + deny）落位 `~/.claude/`
+- ⏳ 等哲宇四步：gh device 授權 / sudo（`/Users/cheyuwu` symlink + pmset 永不睡眠）/
+  Claude Desktop Pro 登入 + 貼 create-tasks prompt / Chrome+Gmail 登入態
+- ⏸️ cutover 未執行——本機 15 條仍 enabled（先關舊再開新，避免雙機 push 競態）
+
 ## 遷移後的 SSOT 收尾（cutover 完成才做，本報告先立 TODO）
 
 - ROUTINE.md 加「宿主機」一節：routine 飛輪住 mouhouse-macmini；mac-m4max 的 19 條 task
