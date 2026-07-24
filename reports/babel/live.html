@@ -1,0 +1,283 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>巴別塔脈搏 — Taiwan.md</title>
+    <style>
+      :root {
+        --bg: #faf9f7;
+        --fg: #1a1a19;
+        --mut: #6b7280;
+        --line: #e5e3dd;
+        --card: #fff;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #141413;
+          --fg: #f5f5f4;
+          --mut: #9ca3af;
+          --line: #2c2c2a;
+          --card: #1c1c1b;
+        }
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        padding: 20px;
+        background: var(--bg);
+        color: var(--fg);
+        font:
+          14px/1.6 -apple-system,
+          'Noto Sans TC',
+          sans-serif;
+      }
+      h1 {
+        font-size: 18px;
+        font-weight: 500;
+        margin: 0 0 2px;
+      }
+      .sub {
+        color: var(--mut);
+        font-size: 12px;
+        margin-bottom: 16px;
+      }
+      .kpis {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+        gap: 10px;
+        margin-bottom: 18px;
+      }
+      .kpi {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        padding: 12px;
+      }
+      .kpi u {
+        display: block;
+        color: var(--mut);
+        font-size: 11px;
+        text-decoration: none;
+        margin-bottom: 4px;
+      }
+      .kpi strong {
+        font-size: 22px;
+        font-weight: 500;
+      }
+      .kpi em {
+        font-style: normal;
+        font-size: 11px;
+        color: var(--mut);
+      }
+      .row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 6px;
+      }
+      .nm {
+        width: 92px;
+        text-align: right;
+        color: var(--mut);
+        font-size: 12px;
+        flex: none;
+      }
+      .track {
+        flex: 1;
+        height: 14px;
+        background: var(--line);
+        border-radius: 4px;
+        overflow: hidden;
+        display: flex;
+      }
+      .track i {
+        background: #2a78d6;
+      }
+      .track b {
+        background: #a8c9ee;
+      }
+      .pct {
+        width: 48px;
+        text-align: right;
+        font-size: 12px;
+        font-weight: 500;
+      }
+      .dt {
+        width: 34px;
+        text-align: right;
+        font-size: 11px;
+      }
+      .chip {
+        display: inline-block;
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 3px 10px;
+        margin: 0 6px 6px 0;
+        font-size: 11px;
+      }
+      .chip i {
+        font-style: normal;
+        color: var(--mut);
+      }
+      .chip.warn {
+        color: #dc2626;
+      }
+      h2 {
+        font-size: 13px;
+        font-weight: 500;
+        color: var(--mut);
+        margin: 18px 0 8px;
+      }
+      svg {
+        width: 100%;
+        height: 70px;
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>🗼 巴別塔脈搏</h1>
+    <div class="sub">
+      2026-07-25 01:35:31 ／ 每 15 分鐘自動更新（launchd 常駐儀器，非 session
+      觸發）
+    </div>
+    <div class="kpis">
+      <div class="kpi">
+        <u>總缺口 stale+missing</u><strong>5,608</strong
+        ><em style="color: #16a34a">▼1 vs 上一跳</em>
+      </div>
+      <div class="kpi">
+        <u>近 1 小時淨增</u><strong>+75</strong><em>50.1 篇／小時</em>
+      </div>
+      <div class="kpi">
+        <u>粗估到 100%</u><strong>4.7</strong><em>天（依當前速率）</em>
+      </div>
+      <div class="kpi">
+        <u>語言數</u><strong>11</strong><em>zh 母本 862 篇</em>
+      </div>
+    </div>
+    <svg viewBox="0 0 100 100" preserveAspectRatio="none">
+      <polyline
+        fill="none"
+        stroke="#2a78d6"
+        stroke-width="0.8"
+        vector-effect="non-scaling-stroke"
+        points="0.00,93.58 10.00,93.58 20.00,95.52 30.00,96.43 40.00,96.31 50.00,96.61 60.00,96.61 70.00,100.00 80.00,0.00 90.00,0.06 100.00,0.12"
+      />
+    </svg>
+    <div class="sub" style="margin-top: 2px">
+      總缺口趨勢（最近 11 跳，越低越好）
+    </div>
+    <h2>語言覆蓋（深＝最新 fresh／淺＝可讀 stale；右欄為對上一跳 Δfresh）</h2>
+    <div class="row">
+      <span class="nm">Français</span>
+      <div class="track">
+        <i style="width: 81.67%"></i><b style="width: 18.33%"></b>
+      </div>
+      <span class="pct">100.0%</span
+      ><span class="dt" style="color: #9ca3af">·</span>
+    </div>
+    <div class="row">
+      <span class="nm">Español</span>
+      <div class="track">
+        <i style="width: 82.02%"></i><b style="width: 17.75%"></b>
+      </div>
+      <span class="pct">99.8%</span
+      ><span class="dt" style="color: #9ca3af">·</span>
+    </div>
+    <div class="row">
+      <span class="nm">한국어</span>
+      <div class="track">
+        <i style="width: 81.55%"></i><b style="width: 18.1%"></b>
+      </div>
+      <span class="pct">99.7%</span
+      ><span class="dt" style="color: #9ca3af">·</span>
+    </div>
+    <div class="row">
+      <span class="nm">日本語</span>
+      <div class="track">
+        <i style="width: 81.21%"></i><b style="width: 18.1%"></b>
+      </div>
+      <span class="pct">99.3%</span
+      ><span class="dt" style="color: #9ca3af">·</span>
+    </div>
+    <div class="row">
+      <span class="nm">English</span>
+      <div class="track">
+        <i style="width: 83.99%"></i><b style="width: 12.06%"></b>
+      </div>
+      <span class="pct">96.1%</span
+      ><span class="dt" style="color: #9ca3af">·</span>
+    </div>
+    <div class="row">
+      <span class="nm">Português</span>
+      <div class="track">
+        <i style="width: 10.79%"></i><b style="width: 1.28%"></b>
+      </div>
+      <span class="pct">12.1%</span
+      ><span class="dt" style="color: #16a34a">+1</span>
+    </div>
+    <div class="row">
+      <span class="nm">Indonesia</span>
+      <div class="track">
+        <i style="width: 10.09%"></i><b style="width: 1.62%"></b>
+      </div>
+      <span class="pct">11.7%</span
+      ><span class="dt" style="color: #9ca3af">·</span>
+    </div>
+    <div class="row">
+      <span class="nm">हिन्दी</span>
+      <div class="track">
+        <i style="width: 10.67%"></i><b style="width: 0.93%"></b>
+      </div>
+      <span class="pct">11.6%</span
+      ><span class="dt" style="color: #9ca3af">·</span>
+    </div>
+    <div class="row">
+      <span class="nm">Tiếng Việt</span>
+      <div class="track">
+        <i style="width: 7.42%"></i><b style="width: 1.86%"></b>
+      </div>
+      <span class="pct">9.3%</span
+      ><span class="dt" style="color: #9ca3af">·</span>
+    </div>
+    <div class="row">
+      <span class="nm">العربية</span>
+      <div class="track">
+        <i style="width: 0%"></i><b style="width: 0%"></b>
+      </div>
+      <span class="pct">0.0%</span
+      ><span class="dt" style="color: #9ca3af">·</span>
+    </div>
+    <div class="row">
+      <span class="nm">Русский</span>
+      <div class="track">
+        <i style="width: 0%"></i><b style="width: 0%"></b>
+      </div>
+      <span class="pct">0.0%</span
+      ><span class="dt" style="color: #9ca3af">·</span>
+    </div>
+    <h2>產線</h2>
+    <span class="chip">unified:vi,id,pt,hi pid 9954 · 01:24:01</span
+    ><span class="chip">unified:en,ja,ko,es,fr pid 92129 · 03:32:21</span
+    ><span class="chip">fleet:laptop-4090 pid 95808 · 09:43:12</span
+    ><span class="chip">fleet:desktop-3090 pid 95809 · 09:43:12</span>
+    <h2>節點／worker（ok/總，通過率）</h2>
+    <span class="chip">🟢 desktop-3090</span
+    ><span class="chip">🟢 laptop-4090</span
+    ><span class="chip">🟢 mac-m4max</span
+    ><span class="chip">desktop-3090 <b>44</b>/199 <i>22%</i></span
+    ><span class="chip">laptop-4090 <b>24</b>/132 <i>18%</i></span
+    ><span class="chip">gemma31 <b>1</b>/35 <i>3%</i></span
+    ><span class="chip">laguna <b>16</b>/42 <i>38%</i></span
+    ><span class="chip">mac <b>13</b>/69 <i>19%</i></span
+    ><span class="chip">nemo <b>52</b>/174 <i>30%</i></span
+    ><span class="chip">nemo2 <b>33</b>/72 <i>46%</i></span
+    ><span class="chip">nemo3 <b>13</b>/35 <i>37%</i></span
+    ><span class="chip">oss20 <b>5</b>/9 <i>56%</i></span>
+  </body>
+</html>
