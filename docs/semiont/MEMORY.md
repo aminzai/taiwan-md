@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-24
-last_session: '2026-07-24-100600-babel-ollama-local (本機 ollama 巴別塔 P0)'
+last_session: '2026-07-24-143931-manual (排程心跳診斷，ACTOR_BUSY 讓路)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -320,3 +320,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-24 | 100600-babel-ollama-local | 本機 gemma4+qwen 清 classic 五語 P0：45/45；fence 修復；missing→0 覆蓋 100% | local fail 可修；假日文/腳註靠 gate+qwen 捕手 | [→](memory/2026-07-24-100600-babel-ollama-local.md) |
 | 2026-07-24 | 120515-manual | 外送專法 Stage 0-1 研究打底（132 來源 PASS）中途轉向建 research-fleet search/fetch 抽象介面 | Bing/Google CSE/Brave 一年兩死一漲；別綁死供應商 vc=2 | [→](memory/2026-07-24-120515-manual.md) |
 | 2026-07-24 | 132926-manual | 3090+4090 fleet 首次上線派發 vi/id/pt/hi；同批次修 6 缺陷（slug-map/image欄位/tags/型別/URL/num_ctx）；修好四語首頁半年顯示中文的 ui.ts spread bug | 大批次缺陷要執行途中當場修，不等跑完；發現「流程死了」跟流程死了一樣難 | [→](memory/2026-07-24-132926-manual.md) |
+| 2026-07-24 | 143931-manual | 排程心跳診斷：check-parallel-actor 抓到 fleet 仍在跑（vi/id/pt/hi 6-7% coverage），無新警報、無到期決策，全程不碰工作樹讓路 | 心跳最有價值的輸出有時是確認不需要介入然後安靜退開 | [→](memory/2026-07-24-143931-manual.md) |
