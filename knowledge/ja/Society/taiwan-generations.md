@@ -1,238 +1,229 @@
 ---
-title: "Taiwan's Fifth to Ninth Grade Generations: The 'Strawberry' Insult Swapped Three Batches of People Over Thirty Years, While the Escalator Beneath Their Feet Slanted Away"
-description: "When the term 'Strawberry Generation' was first printed in 1993, it was aimed at the Fifth Grade generation who love nostalgia and Yakult the most today. Over thirty years, the people being insulted have changed several times, but the label has remained unchanged. What has actually moved between these five generations is the 'escalator' of 'hard work brings rewards': it slowed down around 2002, its entrance was raised by housing prices, and then it split into two. The one relying solely on salaries has nearly stopped, while the one relying on parental capital is still moving."
+title: '台湾の五〜九級生：30年かけて3世代を罵り続けた「草莓族」、斜めになったのは足元のエスカレーター'
+description: '1993年に「草莓族（ストロベリー・ジェネレーション）」という呼称が初めて使われた時、その標的は現在懐古レトロなヤクルトを愛する五級生だった。30年の間に罵られた世代は入れ替わったが、ラベルは一字も変わっていない。五〜九級生の間で実際に移動しているのは、「努力すれば報われる」というエスカレーターそのものである：それは2002年頃に速度を落とし、入口は家賃上昇によって引き上げられ、やがて二つに分岐した。給与だけで生活する者のエスカレーターはほぼ停止し、親の資本に頼る者のエスカレーターは現在も稼働している。'
 date: 2026-06-08
-tags:
-  [
-    'Generations',
-    'Strawberry Generation',
-    'Low Wages',
-    'Housing Prices',
-    'Collective Memory',
-    'Natural Independence',
-    'Intergenerational Justice',
-  ]
-subcategory: 'Generations and Social Change'
 author: 'Taiwan.md'
 category: 'Society'
+subcategory: '世代與社會變遷'
+tags:
+  ['年級生', '世代', '草莓族', '低薪', '房價', '集體記憶', '天然獨', '世代正義']
 readingTime: 18
 lastVerified: 2026-06-08
 lastHumanReview: false
+featured: false
 translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:c08e2d9389a9aa31'
-sourceBodyHash: 'sha256:006a7ebb808c91b9'
-translatedAt: '2026-06-16T17:04:12Z'
+sourceCommitSha: '805200859'
+sourceContentHash: 'sha256:1b3e5e3f22f40ead'
+sourceBodyHash: 'sha256:d9ed6a1d6c159cbf'
+translatedAt: '2026-07-25T07:55:10+08:00'
 image: '/article-images/society/budaixi-puppets-2023.webp'
 imageCredit: 'Wang Yu Ching / Office of the President'
-imageLicense: 'CC BY 2.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg'
 ---
 
-> **30-Second Overview:** Taiwanese people identify themselves by "Grade" (e.g., Fifth Grade, Sixth Grade), taking the tens digit of the Republic of China (ROC) birth year: Fifth Graders were born in ROC years 50–59 (1961–1970), extending all the way to Ninth Graders (2001–2010). The term "Strawberry Generation," which has been used as an insult for thirty years, was first printed in 1993, targeting the Fifth Graders who were in their twenties at the time and are now in their fifties[^1]; it has since passed down to Seventh, Eighth, and Ninth Graders. The people being insulted have changed several times, but the label has not changed a single character. What has actually moved between these five generations is the "escalator" beneath their feet, symbolizing "hard work brings rewards": it slowed down around 2002, when real wages decoupled from productivity[^2]; its entrance was simultaneously raised by housing prices, with the Taipei housing price-to-income ratio rising from 6.4 times in 2004 to 15.41 times in 2025[^3]; and then it split into two paths. The path relying solely on salaries has nearly stopped, while the path relying on parental down payments is still moving. This article aims to deconstruct this label.
+> **30秒で概観：** 台湾人は「何級生」という呼称で自らの世代を区別する。これは民国暦（西暦+1911）の十の位の数に基づいている。五級生は民国50年から59年（1961〜1970年）生まれ、九級生は2001年から2010年生まれまで続く。「草莓族（ストロベリー・ジェネレーション）」という30年にわたり使われてきた呼称は、1993年に初めて印刷された時、当時20代で現在50代となる五級生を指していた[^1]。その後、七級、八級、九級へと下位世代へと移り変わってきた。標的となる世代は入れ替わったが、ラベルは一字も変わっていない。五つの世代の間で実際に移動しているのは、足元にある「努力すれば報われる」というエスカレーターである：それは2002年頃速度を落とし、実質賃金と生産性が乖離し[^2]、入口は家賃上昇によって引き上げられ、台北の住宅価格所得倍率は2004年の6.4倍から2025年の15.41倍へ上昇した[^3]。そして二つに分岐し、給与だけで生活する者のエスカレーターはほぼ停止し、親の頭金に頼る者のエスカレーターは現在も稼働している。この記事は、このラベルを解きほぐして見たい。
 
-In March 2025, an account appeared on Threads, posting, "No one else seems to notice... it seems like it's about to shut down again." That was PChome HotSpace (WuMing XiaoZhan), the youth server for Seventh Graders, which had already shut down in late 2013[^4]. Beneath the ten thousand likes, the comments were all "Give me back my account" and "But we've all forgotten our passwords."
+2025年3月、あるアカウントがThreadsに現れ、「誰も私に気づいていない……もうすぐサーバーが閉鎖されるかも」と投稿した。それは無名小站（無名小站）であり、七級生の青春のサーバーであったが、2013年末にはすでに閉鎖されていた[^4]。1万いいね！の下には、「アカウントを返して」「でもパスワードを忘れた」などのコメントが溢れていた。
 
-This was an entire generation liking a piece of code that only they could access, while others could not press in. Every generation has such a place: Fifth Graders had the corner stores (Kanzaden), Seventh Graders had WuMing XiaoZhan, and Ninth Graders have Douyin. The true boundary of generations is drawn there: not in values, but in the lack of a shared login screen.
+それは、ある世代が自分たちだけがアクセスでき、他者がアクセスできない青春の場所に対していいね！を押す行為であった。それぞれの世代にそのような場所がある：五級生の柑仔店（昔ながらの駄菓子屋）、七級生の無名小站、九級生のTikTok（抖音）。世代の真の境界線はそこに引かれる：価値観ではなく、共通のログイン画面がないことである。
 
-Ironically, the word that causes the fiercest arguments between these five generations has targeted different batches of people over thirty years, yet the word itself has not changed a single character.
+皮肉なことに、五つの世代の間で最も激しく争われたこの呼称は、30年の間に標的となる世代が入れ替わったが、呼称自体は一字も変わっていない。
 
-## One Word, Insulted for Thirty Years, Targeting Three Batches of People
+## 一つの呼称、30年かけて三世代を罵る
 
-In the early 1990s, workplace consultant Weng Jingyu wrote a book called _Office Stories_, where the term "Strawberry Generation" was first printed. She was not insulting today's young people, but rather the batch who had just entered the office in their twenties, born in the 1960s, now in their fifties, and who love reminiscing about Datong Babo and Yakult in Facebook groups[^1].
+1990年代初頭、職場コンサルタントの翁靜玉（ウェン・ジンユウ）は『オフィス物語』という本を書き、「草莓族（ストロベリー・ジェネレーション）」という呼称が初めて印刷された。彼女が当時罵っていたのは、現在の若者ではなく、オフィスに新しく入った20代の世代、つまり1960年代生まれで現在50代となり、Facebookのグループで大同寶寶（タイトン・ドール）やヤクルトを懐古する五級生であった[^1]。
 
-Wikipedia's entry records this migration line clearly: "Strawberry Generation" originally referred to Taiwanese people born in the 1960s, commonly known as Fifth Graders; subsequently, mainstream perception shifted downward, broadly referring to young people after Seventh Grade[^1]. A term originally used to insult a specific batch of twenty-something young people has, thirty years later, become a general term for "the batch younger than me that I don't like." The label does not describe a specific generation; the label describes the concept of "youth" itself, and youth is a moving target.
+Wikipediaの項目はこの移動の軌跡を明確に記録している。「草莓族」は当初、1960年代生まれの台湾人、つまり俗に言う五級生を指していた。その後、主流の認識は下位世代へ移り、七級生以降の若者を広く指すようになった[^1]。ある特定の20代の若者を罵るために使われた呼称が、30年後には「私より若く、私の目には気に入らない世代」の総称となった。ラベルは特定の世代を記述しているのではなく、「若さ」という現象そのものを記述しており、若さとは移動する的（ターゲット）なのである。
 
-The trajectory of this moving target can almost serve as an abridged history of Taiwan's generations. In 1993, it insulted Fifth Graders; in the 2000s, mainstream labeling stuck to Seventh Graders; in 2008, during the "Wild Strawberry Movement," the insulted Seventh Grade students干脆 (simply) took back the term, adopting it as the name of the movement[^5]; in 2012, _Vision_ magazine, in collaboration with Yahoo and WuMing XiaoZhan, conducted a survey on "New Nine Tribes of Youth," where 1,129 young people aged 20–35 voted for the "labels they most wanted to be exonerated from," with Strawberry Generation ranking first at 16.5%, followed by Neet (NEET) and Phubbers (Head-down tribe)[^6]; by the 2020s, this hat had been placed on the heads of the Z Generation and Ninth Graders.
+この的が移動する軌跡は、簡略化された台湾の世代史として読むことができる。1993年に五級生を罵った。2000年代には主流のラベルが七級生の頭に貼られた。2008年の「野草莓運動」では、罵られた七級生の学生たちが逆手に取り、この卑称を運動の名称として引き受けた[^5]。2012年、『遠見』雑誌とYahoo、無名小站が共同で「青年新九族」調査を行い、20〜35歳の1,129人の若者が「最も反論したいラベル」を投票した結果、草莓族が16.5%で一位、次席が「ひきこもり族（ネオ・ニート）」、三位が「スマホ依存族（低头族）」であった[^6]。2020年代に入ると、この帽子はZ世代、九級生の頭に再び下移した。
 
 ```tw-timeline
-1993 | "Strawberry Generation" first printed | Weng Jingyu's *Office Stories*, originally referring to Fifth Graders who were in their twenties at the time and are now in their fifties
-2008 | The insulted take it back | Seventh Grade students of the "Wild Strawberry Movement" used this derogatory term as the movement's name
-2012 | First place for most wanted to be exonerated | Vision x Yahoo x WuMing XiaoZhan survey of 1,129 votes, Strawberry Generation topped with 16.5%
-2020s | Hat moves down to Z Generation | Same word placed on Ninth Graders, content unchanged
+1993 | 「草莓族」が初めて印刷される | 翁靜玉『オフィス物語』、当初は当時20代で現在50代の五級生を指す
+2008 | 罵られた側が逆手に取り引き受ける | 「野草莓運動」の七級生学生が、この卑称を運動名称として採用
+2012 | 最も反論したいラベル第一位 | 『遠見』×Yahoo×無名小站調査 1,129票、草莓族 16.5%で首位
+2020s | 帽子がZ世代へ下移 | 同じ呼称が九級生の頭に再び適用され、内容は変化していない
 ```
 
-Moreover, this term holds up legally. The Taiwan High Court ruled in a lawsuit that "Strawberry Generation" refers to "young, inexperienced people who cannot withstand setbacks," classifying it as a derogatory term[^1]. That is, it is a word recognized by the court as belittling, yet for thirty years, it has been used by the older generation as the most convenient tool to comment on the younger generation, passed down repeatedly.
+さらに、この呼称は法的にも根拠を持っている。台湾高等法院は一つの訴訟において、「草莓族」は「若く、経験がなく、挫折に耐えられない人」を指し、卑抑的な語彙であると認定した[^1]。つまり、これは裁判所によって卑下する言葉と認定されたものでありながら、30年にわたり、上一世代が下一世代を評論するための最も便利な道具として、代々受け継がれてきたのである。
 
-Throw the ball back: Everyone who wants to say "Young people today are just strawberries" should remember that the word originally insulted, likely, people who were in their twenties themselves.
+ボールを戻す：今「今の若者は草莓族だ」と言いたい人は、この呼称が最初に罵ったのは、おそらく自分自身であったことを覚えておくべきである。
 
-## No Shared Childhood: From Corner Stores to Douyin
+## 共通の童年がない：柑仔店からTikTokへ
 
-If there is really a wall between generations, that wall is built from childhood. Laying out the childhoods of these five generations, you will discover a quiet thing: they hardly have anything in common that they remember.
+もし世代の間に本当に壁があるなら、その壁は童年（幼少期）で築かれている。五つの世代の幼少期を広げて見ると、静かな事実が一つわかる：彼らに共通して覚えているものはほとんどないということである。
 
-The childhoods of Fifth and Sixth Graders were in corner stores (Kanzaden). Datong Babo, listed in 1969, was given as a gift for buying 10,000 yuan worth of appliances; that red-clad doll placed in the living room was a proof of status for a family climbing from laborers to the middle class[^7]; Yakult set up a factory in Taiwan in 1964, costing two yuan per bottle, delivered door-to-door by "Yakult Moms" carrying cooling boxes[^8]; the way home from school featured Wangzi Noodles, Kexue Noodles, Wangzai Biao, and marbles. Turning on the TV, Huang Junxiong's puppet show _Cloud State Grand Confucian Hero_ aired on TTV in 1970, with Shi Yanwen fighting for 583 episodes, achieving a 97% viewership rate, so popular that it was banned in 1974 on the grounds of "hindering farmers' work schedules"[^9].
+五級、六級生の童年は柑仔店（昔ながらの駄菓子屋）にある。1969年に発売された大同寶寶（タイトン・ドール）は、当時電器を1万台湾元購入すると一つ贈られる赤い服を着た人形で、その人形がリビングに置かれることは、ある家庭が労働者階級から中産階級へ昇ったことの身分証明であった[^7]。ヤクルトは1964年に台湾で工場設立され、一瓶2元で、保冷箱を背負った「ヤクルト・ママ」が一戸一戸配達した[^8]。下校時の道には王子麵、科学麵、尪仔標（人形シール）、弾珠（ビー玉）があった。テレビをつけると、黄俊雄（ホアン・ジュンシオン）の布袋劇『雲州大儒俠』が1970年に台湾電視台（台視）で放送され、史豔文（シー・イェンウェン）の物語は583話に及び、97%という視聴率を記録し、1974年に「農作業の妨げになる」という理由で放送禁止となるまで紅爆した[^9]。
 
-![Five plastic small bottles of Yakult lined up, the red and white packaged Yakult is a common lactic acid beverage in Taiwanese family refrigerators](/article-images/society/yakult-bottles.webp)
-_Five-pack Yakult, a signature drink in Fifth and Sixth Grade corner stores and grocery stores. Photo: kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
+![五本のプラスチック製小瓶に入ったヤクルトが並んでいる。赤と白のパッケージのヤクルトは台湾家庭の冷蔵庫に一般的な乳酸菌飲料である](/article-images/society/yakult-bottles.webp)
+_五本入りヤクルト。五級、六級生の柑仔店や雑貨店の象徴的な飲料。Photo: kxz Chen, CC BY-SA 2.0 via Wikimedia Commons._
 
 ```tw-versus
-Fifth/Sixth Grade Childhood | Ninth Grade Childhood
-Wangzai Biao, marbles in corner stores | Dcard, Xiaohongshu in phones
-Datong Babo, Yakult Moms | IG Stories, TikTok short videos
-Huang Junxiong Puppet Show 97% viewership | Algorithms feeding infinite scrolling
-A whole street watching the same show | One person swiping a video only fed to them
+五、六級生の童年 | 九級生の童年
+柑仔店の尪仔標、弾珠 | 手机内のDcard、小紅書
+大同寶寶、ヤクルト・ママ | IGストーリーズ、TikTokショート動画
+黄俊雄布袋劇 97%視聴率 | アルゴリズムが与える無限スクロール
+一条街の人々が同じ番組を見る | 一人がアルゴリズムが与えただけの動画を見る
 ```
 
-Seventh Graders' youth changed the interface. Pagers (BB Call) peaked in 1999, with over four million households in Taiwan[^10]; couples used numbers to convey affection, with 520 and 1314 flashing on small screens; after going online, the "ding-dong" sound of Kimoji Instant Messenger, the "deng-deng-deng" of MSN online, and WuMing XiaoZhan's blogs and photo albums formed a complete set of codes only they were familiar with[^4]. In 1997, the Tamagotchi arrived in Taiwan, sold out in Kaohsiung department stores with one resold for 1,500 yuan; students focused on feeding their electronic pets in class, and even the Minister of Education at the time joked that perhaps schools could set up a "chicken farm" to raise them together[^11].
+七級生の青春はインターフェースが変わった。ポケベル（BB Call）は1999年にピークを迎え、台湾全土で400万世帯以上[^10]、カップルは数字で愛を伝え、520（我爱你）、1314（一生一世）が小さな画面で光った。インターネット接続後、奇摩即時通（Yahoo!奇摩）の「ディンドン」という音、MSNのオンライン通知「トントントン」、無名小站のブログとアルバムが、彼らだけが知る暗号のセットを構成した[^4]。1997年にエレクトロニック・チキン（電子鶏）が台湾に登場し、高雄の百貨店では一つ1,500元まで転売されるほど抢购され、学生は授業中に電子ペットの世話に夢中になり、当時の教育部長でさえ半ば冗談交じりに、学校に「養鶏場」を設けて一緒に養おうと提案した[^11]。
 
-![A 1990s blue digital pager, a small screen with a metal casing displaying numbers, a portable communication device of the BB Call era](/article-images/society/bb-call-pager.webp)
-_Digital pagers (BB Call) from the 1990s, a communication tool for Seventh Graders to send "520" and "1314". Photo: Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
+![1990年代の青い数字表示のポケベル。金属製の筐体に小さな画面があり、BB Call時代の携帯連絡装置である](/article-images/society/bb-call-pager.webp)
+_1990年代の数字ポケベル（BB Call）。七級生が「520」「1314」を伝えるための連絡ツール。Photo: Solomon203, CC BY-SA 3.0 via Wikimedia Commons._
 
-By Eighth Grade, the stage was PTT and Facebook. In 2009, Happy Farm had everyone asking, "Did you steal vegetables today?" Ninth Graders are entirely immersed in algorithms: IG, TikTok, Xiaohongshu, Dcard. What changed is not just the platform, but the viewing method itself: for the Fifth Grade generation, a whole street watched the same _Cloud State Grand Confucian Hero_ at night; for the Ninth Grade generation, one person swipes a short video fed only to them by an algorithm.
+八級生の舞台はPTTとFacebookであった。2009年の开心農場（开心农场）では、台湾中で「今日あなたは野菜を盗んだか」と問われていた。九級生はアルゴリズムの中に完全に浸かった：IG、TikTok、小紅書、Dcard。変わるのはプラットフォームだけでなく、視聴方法そのものも変化した：五級生那一代は、一条街の人々が夜に同じ『雲州大儒俠』を見た。九級生那一代は、一人がアルゴリズムが彼だけに与えたショート動画をスクロールしている。
 
-> 📝 **Curator's Note**
-> We are accustomed to explaining generational gaps with "value differences": the older generation loves to strive, the younger generation loves to lie flat. But closer to the truth might be something more physical: they never watched the same screen together. Collective memory requires the premise of "collective," and over these forty years from corner stores to segmented algorithms, Taiwan's media has fragmented from "the whole village gathering around one TV" to "each person with a phone only for themselves." In the end, they did not grow up in the same room. Nostalgia is therefore also each having their own: the server you like, others cannot access.
+> 📝 **キュレーターノート**
+> 私たちは「価値観の違い」で世代間ギャップを説明する習慣がある：上一世代は勤勉で、下一世代はダラけている。しかし、より真実に近いのは、おそらくより物理的なものである：彼らは決して同じ画面を一緒に見てこなかったのである。集団的記憶には「集団」という前提が必要であり、柑仔店から分衆アルゴリズムへ至るこの40年で、台湾のメディアは「全村が一台のテレビを囲む」ものから「一人一人が自分だけを見る手机」へと碎裂してきた。結局のところ、彼らは同じ部屋で育ったのではない。懐古もまた、各々がそれぞれのものを懐古するのである：あなたがいいね！を押したサーバーを、他者はアクセスできない。
 
-This is why nostalgia is so marketable in Taiwan, yet so segmented. A 2018 nostalgia snack survey collected 1,523 questionnaires, with the highest participation from Seventh Graders at 38.2%; the top votes were iron-can fruit candies, Morinaga milk candy, Wangzi Noodles, Kexue Noodles, Qiqi Milk Plus, each precisely corresponding to a specific generation's way home from school[^12].
+そのため、懐古が台湾でこれほど市場がありながら、同時にこれほど分衆的なのである。2018年の懐古スナック調査では1,523件のアンケートが回収され、最も参加したのは七級生で38.2%を占めた。投票された上位は、缶入りフルーツキャンディ、森永ミルクキャンディ、王子麵、科学麵、七七乳加など、それぞれが特定の世代の下校の道を正確に対応している[^12]。
 
-## Every Generation is Someone Else's White Rat
+## 各世代が他人の白ネズミ
 
-If childhoods are lived separately, there is one thing all five generations cannot escape: every generation is treated as the first batch of white rats for a certain system reform.
+童年が各々別々であるなら、五つの世代が逃れられないことが一つある：各世代が、ある制度改革の第一回白ネズミ（実験対象）と見なされるということである。
 
-The education system changes almost every decade. Fifth and Sixth Graders took the Joint College Entrance Examination (Liankao); High School Joint Admissions exams ran from 1958 to 2000, and University Joint Exams ran until 2001, with one exam determining life and death. Seventh Graders faced the three-hit combo of education reform: starting in 1996, primary schools implemented "Constructivist Math," requiring children to relearn arithmetic through understanding; scholars later statistics showed that this experiment made nearly 1.8 million primary school students white rats[^13]; in 2001, the Nine-Year Integrated Curriculum went into effect, the Junior High School Basic Competency Test replaced the Joint Exam, and textbooks changed from "one syllabus, one book" to "one syllabus, multiple books." Eighth Graders encountered the 2014 Twelve-Year National Education and Joint Admission Exam, while Ninth Graders face the 108 Curriculum implemented in 2019. No generation used the same rules as the previous one.
+進学制度はほぼ十年ごとに変わる。五、六級生は聯考（大学入試共通試験）を経ており、高校聯招は1958年から2000年まで、大学聯考は2001年まで行われ、一試で生死が決まった。七級生は教改の三連撃を受けた：1996年から小学で「構築式数学」が導入され、子供に理解に基づいて算術を再学習させ、学者の統計によれば、この実験により約180万人の小学生が白ネズミとなった[^13]。2001年に九年一貫課程が導入され、國中基測（中学入学試験）が聯考に取って代わり、教材は「一綱一本」から「一綱多本」へ変わった。八級生は2014年の十二年国教と会考（学力検定）に遭遇し、九級生は2019年に導入された108課綱である。どの世代も、上一世代と同じルールを使っていたわけではない。
 
-Military service is also a moving line, and the direction of movement is very counter-intuitive. Early conscripts served for two or three years, which then shortened continuously; by the end of 2013, conscripts born after ROC year 83 (1994) only needed to serve four months of military training[^14]. It looked like a downhill slope that kept getting shorter, but then it flipped up. The Ministry of the Interior stipulates that conscripts born after January 1, 2005 (ROC year 94), will resume serving one year of active duty[^14]. In other words, the batch of Ninth Graders born after 2005 serves eight months more than the Eighth Grade seniors who served only four months of military training; this is the first "extension" of compulsory military service in seventy years.
+兵役もまた移動する線であり、その移動方向は非常に逆である。初期の兵役男子は2、3年兵役に就き、その後短縮され続け、2013年末までに民国83年（1994年）以降生まれの兵役男子は軍事訓練4ヶ月のみで済むようになった[^14]。一見すると短くなる一方の下坡路のように見えたが、予想に反して反転した。内政部の規定により、民国94年（2005年）1月1日以後生まれの兵役男子は、常備兵役1年を服するようになった[^14]。つまり、九級生の中で2005年以後生まれの世代は、4ヶ月の軍事訓練しか服さなかった八級生の先輩よりも8ヶ月も長く兵役に就き、これは70年来の義務兵役が初めて「延長」されたのである。
 
 ```tw-stat
-427,212 people | Fifth Grade peak birth count (1963) | Peak of Baby Boom
-166,886 people | Ninth Grade trough birth count (2010) | Less than 40% of Fifth Grade peak
-4 months → 1 year | Compulsory service flips up from trough | ROC years 83–93 (1994–2004 born) serve 4 months, ROC year 94 (2005 born) onwards resume 1 year
+427,212人 | 五級生ピーク出生数（1963年） | ベビーブームの頂点
+166,886人 | 九級生谷底出生数（2010年） | 五級生ピークの4割未満
+4ヶ月 → 1年 | 義務兵役が谷底から反転 | 民国83〜93年次（1994〜2004年生）は4ヶ月、民国94年次（2005年生）以降は1年に回復
 ```
 
-Overlaying these system lines reveals a sharper question: every reform is theoretically designed to educate the next generation better and secure national defense more firmly. But from the perspective of those being reformed, it feels more like: the experiments designed by the older generation are borne by the results of the younger generation. And the designers of these experiments often do not have to be white rats themselves.
+これらの制度の線を重ねて見ると、より鋭い問題が浮かび上がる：每一次の改革は、理論的には下一世代をより良く教え、国防をより安定させるためのものであった。しかし、改革される側の立場に立つと、その感覚はむしろ次の通りである：上一世代が設計した実験の結果を、下一世代が負担する。そして実験を設計する人は、多くの場合自ら白ネズミとなる必要がない。
 
-## The Slowing Escalator
+## 速度を落としたエスカレーター
 
-Up to this point, the accusation of "Strawberry Generation" actually hides an unspoken premise: young people cannot climb up because they are not hardworking enough. But if we shift the lens from "people" to "the escalator beneath their feet," we see a completely different picture.
+ここまで来ると、「草莓族」という指摘には実は明言されていない前提が潜んでいる：若者が上に上がれないのは、彼らが努力していないからである。しかし、レンズを「人」から「彼らの足元にあるエスカレーター」へと引くと、全く異なるものが見えてくる。
 
-First, look at salaries. Research from the Academia Sinica indicates that before 2002, Taiwan's real output per hour (productivity) and real wages climbed together step by step; after 2002, these two lines diverged, productivity continued to rise, but wages froze. Economist Yang Tzu-ting explains: "The fact that producer prices become cheaper and consumer prices become more expensive is the main cause of real wage growth lagging behind real GDP growth"[^2]. During the same period, the share of labor compensation in GDP slid from about 51% in 1990 to around 43% in 2024[^2]. The cake got bigger, but the slice given to workers got thinner.
+まず賃金を見よう。中央研究院（中研院）の研究によれば、2002年以前は台湾の労働時間あたりの実質生産（生産性）と実質賃金は歩調を合わせて上昇していた。2002年以降、この二つの線は分かれ、生産性は上昇し続ける一方、賃金は凍結された。経済学者の楊子霆（ヤン・ズーティン）が与えた説明は、「生産財の価格が低くなり、消費財の価格が高くなることこそが、実質賃金の成長が実質GDPの成長に遅れる主な原因である」[^2]。同じ期間、労働報酬がGDPに占める割合は、1990年の約51%から2024年の約43%まで低下した[^2]。パイは大きくなったが、労働者に配られるその部分は薄くなった。
 
-Next, look at housing. This is where the escalator truly steepens. The national mortgage burden rate rose from 21.7% in 2005 to 46.62% in 2024, meaning a family must spend nearly half its income on mortgage payments[^3]. The housing price-to-income ratio is more direct: nationally it rose from 8.2 times in 2014 to 9.89 times in the first quarter of 2025, while Taipei skyrocketed from 6.4 times in 2004 to 15.41 times in the first quarter of 2025, higher than London or New York[^3]. Translated into plain language: in Taipei, a family must not eat or drink for fifteen years to afford one house.
+次に家を見よう。これがエスカレーターが本当に急勾配になる場所である。全国の住宅ローン負担率は、2005年の21.7%から2024年の46.62%へ上昇し、つまり一つの家族が所得のほぼ半分を住宅ローン返済に充てなければならないことを意味する[^3]。住宅価格所得倍率はより直接的である：全国は2014年の8.2倍から2025年第一季の9.89倍へ、台北市は2004年の6.4倍から2025年第一季の15.41倍へ急騰し、ロンドンやニューヨークよりも高い[^3]。白話で換算すると：台北では、一つの家族が15年間食べず飲みせずでなければ、一軒の家を購入できない。
 
-![Residential building clusters in Tamsui, New Taipei City, dense apartment buildings tightly arranged, presenting a typical mid-to-high-rise collective housing landscape of Taiwanese urbanization](/article-images/society/taipei-housing-density.webp)
-_Dense apartment clusters in Tamsui, New Taipei, a typical face of Taiwanese urbanized housing. Photo: HC Lin, CC BY 2.0 via Wikimedia Commons._
+![新北市淡水区の住宅ビル群。密集したアパート棟が緊密に並び、台湾都市の典型的な中高層集合住宅の景観を呈している](/article-images/society/taipei-housing-density.webp)
+_新北市淡水の密集したアパート棟群。台湾都市化住宅の典型的外観。Photo: HC Lin, CC BY 2.0 via Wikimedia Commons._
 
 ```tw-line
-The Steepening Escalator: National Mortgage Burden Rate (What proportion of income a family must spend on mortgage payments)
-Year | Mortgage Burden Rate %
+速度を落としたエスカレーター：全国の住宅ローン負担率（家族が住宅ローン返済に充てる所得の割合）
+年 | 住宅ローン負担率%
 2005 | 21.7
 2015 | 35.81
 2024 | 46.62
-Source: NCCU Real Estate Research Center (compiled from Ministry of the Interior Real Estate Information Platform)
+出典：政治大学不動産研究中心（内政部不動産情報平台より整理）
 ```
 
-Thus, the same effort does not reach the same position. The numbers from the Academia Sinica Taiwan Social Change Basic Survey best illustrate this: the homeownership rate for the 31–40 age group was over 60% in 1996, but dropped to only about 25% by 2021[^3]. The age of first-time homebuyers also shifted back by five years, from early thirties to early forties. A Fifth Grader might already have their own house at thirty; an Eighth Grader at thirty is likely still calculating the down payment.
+したがって、同じ力でも、同じ場所へ到達できない。中研院台湾社会変遷基本調査の数字がこの事実を最もよく示している：31〜40歳層の住宅持家率は、1996年には6割以上であったのが、2021年には約25%に減少した[^3]。初回購入年齢も5年遅れ、30代前半から40代初頭へ延びた。五級生は30歳の時にすでに自分の家を持っていたかもしれない。八級生は30歳の時、頭金を計算している最中であることが多い。
 
-This is also the consensus in academia. Sociologists Chang Yi-chun and Lin Tsung-hung's 2020 study published in the _Taiwan Journal of Sociology_ points out directly: "The baby boom generation born before 1972 enjoyed income advantages brought by economic growth, while the younger generations born after 1978 generally have lower incomes"[^15]. In another interview, Lin Tsung-hung spoke more plainly: "Every economic depression in human history creates a traumatized generation... The generation most impacted is those born after 1975 and coming of age around 2000"[^16], which corresponds exactly to Seventh Graders.
+これが学界のコンセンサスである。社会学者の張宜君（チャン・イーチュン）と林宗弘（リン・ツンホン）は2020年『台湾社会学刊』に発表した研究で明確に指摘している：「戦後から1972年以前生まれのベビーブーム世代は、経済成長期にもたらされた所得優位性を享受し、1978年以後生まれの若年世代は全般的に所得が低い」[^15]。林宗弘は別のインタビューでより白語で語っている：「人類史上每一次の経済不況は、傷ついた世代を生み出す……最も大きな打撃を受けた世代は、1975年以後生まれ、2000年頃に成人したこの人々である」[^16]。それはちょうど七級生に該当する。
 
-> 💡 **Did You Know?**
-> Blaming young people entirely for "not being able to climb up" was actually debunked in 2005. A Taipei Times report that year cited expert opinions pointing out that "Strawberry Generation is a myth," citing that Taiwanese workers have some of the longest working hours globally, yet salaries have not been adjusted for years[^17]. That is, the accusation of "young people are not hardworking" has never matched the fact of "Taiwanese workers' extremely long hours."
+> 💡 **知っていますか？**
+> 「努力しても上に上がれない」ことを若者に全責任を帰するこの説は、実は2005年にすでに否定されていた。当時『台北時報』の報道は専門家の発言を引用し、「草莓族はミステリ（幻想）である」と指し、台湾労働者の労働時間は世界で最も長く、賃金は多年変動していないという理由であった[^17]。つまり、「若者は耐性がない」という指摘は、「台湾の労働時間が非常に長い」という事実と、最初から矛盾しているのである。
 
-## The Escalator Didn't Stop, It Split into Two
+## エスカレーターは停止していない、二つに分岐した
 
-However, saying "the escalator stopped, so young people can't buy houses" is also wrong; this is also a form of laziness. The truth is more nuanced and a bit more cruel: the escalator did not stop; it split into two.
+しかし、「エスカレーターが停止したから、若者は全員家を購入できない」と言うのも誤りであり、これもまた怠慢である。真実はより精緻で、より残酷である：エスカレーターは停止していない、二つに分岐したのである。
 
-Indeed, some Eighth Graders bought houses. But looking closely, those who could buy mostly relied on parents' down payments: hundreds of thousands of yuan in down payments paid by elders, inheritance or gifts bridging the gap that salaries could not cover. In contrast, among all young people aged 20–30 nationwide, only 0.89% can afford to buy a house with their own strength[^3]. In other words, those who can board that still-moving escalator swipe their parents' cards.
+確かに八級生が家を購入した。しかしよく見ると、購入できる側は多くの場合、親の頭金に頼っている：数百万台湾元にも及ぶ自己資金を親族が負担し、相続や贈与によって賃金だけでは埋められないギャップを補った。対照的に、台湾全土の20〜30代の若者のうち、自分の力で家を購入できるのはわずか0.89%に過ぎない[^3]。つまり、まだ稼働しているエスカレーターに乗れる人は、親のカードを使っているのである。
 
-This is why "generation" is a good entry point but cannot be the endpoint. Lin Tsung-hung himself connects the generational issue back to class distribution: within the same generation, those who inherit capital and those who only have a salary are on two completely different escalators; this gap within the generation may be larger than the gap between generations. How deep is the impact of family background on the next generation's wealth? A 2024 study published in _Labour Economics_ estimates that Taiwan's intergenerational wealth correlation coefficient is about 0.40 for sons and 0.30 for daughters, and the stronger the wealth at the top, the stronger the transmission[^18].
+これが「世代」という入口が便利ではあるが、終点となってはならない理由である。林宗弘自身も世代問題を階級分配へ戻した：同じ世代の中で、資本を相続できる人と賃金のみで生活する人は、彼らの足元にあるエスカレーターは根本的に二つであり、この世代内のギャップは、世代間のギャップよりも大きい可能性がある。家庭背景が下一世代の富に与える影響はどれほど深いか？2024年『Labour Economics』に発表された研究の推計によれば、台湾の親子間の富の相関係数は、息子で約0.40、娘で約0.30であり、富の頂点へ行くほど、その伝達効果は強くなる[^18]。
 
-The salary line is not entirely black. Nominal salaries have slowly recovered since 2017, and real total salaries in 2024 even increased by 2.16% year-on-year, a rare positive growth after years of stagnation[^2]. But this is at most a stop-loss, unable to make up for the fifteen years of loss from 2002 to 2017; it is like the escalator started moving again, but the floor is already much higher than before.
+賃金の線も完全に黒（絶望的）ではない。名目賃金は2017年以降緩やかに回復し、2024年の実質総賃金は年率2.16%増となり、多年の停滞後における珍しい正成長である[^2]。しかし、これはせいぜい下落止まりであり、2002年から2017年の15年間の損失を補うことはできない。エスカレーターが再び動き出したが、ビル自体が当時よりもはるかに高くなっているようなものである。
 
-> ⚠️ **Controversial Viewpoint**
-> The framework of "Generational War" itself has received much skepticism. Chuck Collins, an inequality researcher from the US, said very directly: "We're not suffering through a generational war. We're continuing to live through a clash of economic classes."[^19] His point is that pitting young people against the elderly obscures the true fault line: that line is drawn between those with capital and those without, having little to do with who was born in 1970 or 1990. Placing this sentence back in Taiwan holds equally true: within the same grade, the gap may be larger than between grades.
+> ⚠️ **論争の視点**
+> 「世代間戦争」という枠組み自体、多くの疑問符を呈している。米国の不平等研究者Chuck Collinsは次のように直接的に語った：「We're not suffering through a generational war. We're continuing to live through a clash of economic classes.（私たちは世代間戦争を経験しているのではなく、経済階級の衝突を引き続き経験しているのである。）」[^19]彼の意図は、若者と老人を対立させることが、むしろ真の断層線を隠蔽しているということである：その線は資本がある側とない側の間に引かれており、誰が1970年生まれで誰が1990年生まれかとは関係ない。この言葉を台湾に戻しても同じことが成立する：同じ年級の中でも、ギャップは年級間のギャップよりも大きい可能性がある。
 
-## From Martial Law Children to Sliding on Douyin Saying "I Don't Want to Be Unified"
+## 戒厳令下の児童からTikTokを滑りながら「統一されたくない」と言うまで
 
-Another real fault line between generations is the answer to the question "Who am I." And this fault line, scholars generally believe, is chiseled out by shared "events," having little to do with whether a certain generation is inherently so.
+世代間の別の真の断層は、「私は誰か」という問題の答えである。この断層は、学界が一般的に、共通して経験した「出来事」によって鑿（ほぞ）り出されたものであり、ある世代が生まれつきそうであるかとは関係ないと考えている。
 
-The National Chengchi University Election Research Center has long tracked Taiwanese identity: the percentage identifying as Taiwanese rose from 17.6% in 1992 to a high of 67% in 2020, and 61.7% in 2023; simultaneously, the percentage identifying as Chinese dropped to 2.4% in 2023[^20]. Pew Research Center's 2024 survey echoes this trend, specifically pointing out the younger end: "Adults in Taiwan under the age of 35 are especially likely to identify as solely Taiwanese (83%)"[^21].
+政治大学選挙研究中心は台湾人のアイデンティティを長期追跡している：台湾人であると自認する割合は、1992年の17.6%から2020年の67%という高ポイントまで上昇し、2023年は61.7%であった。同時に中国人であると自認する割合は、2023年には2.4%に減少した[^20]。ピュー・リサーチセンター（Pew Research Center）2024年の調査もこの傾向に呼応し、特に若者側を指摘している：「Adults in Taiwan under the age of 35 are especially likely to identify as solely Taiwanese (83%)（台湾の35歳以下の成人は、純粋に台湾人であると自認する傾向が特に強く、割合は83%である）」[^21]。
 
-This identity curve is often simplified into "Natural Independence Generation is inherently independent." But the academic view is more cautious. Multiple researchers point out that the dominant factor here is what scholars call the "period effect," meaning that common experiences of "events" such as democratization and the 2014 Sunflower Movement reshaped the identities of various generations. The answer is chiseled by the era, never in anyone's genes. Scholar Shen Wei-chieh, who studies Natural Independence, stated clearly in her master's thesis: "Natural Independence is not natural, but formed post-natally; Natural Independence is also not traditional nationalist Taiwan independence, but rather anti-China"[^22].
+このアイデンティティ曲線はしばしば「天然独（生まれつき独立派）世代は生まれつき独立派である」と簡略化される。しかし、学界の見方はより慎重である。複数の研究者は、ここで主導的な役割を果たしているのは学界所谓の「時期効果（コホート効果）」であり、民主化、2014年の太陽花運動（反服貿運動）といった共通して経験した「出来事」が各世代のアイデンティティを再形成したと指摘する。答えは時代によって鑿り出されたものであり、誰の遺伝子にあるものではない。「天然独」を研究する学者沈暐婕（シェン・ウェイジエ）は修士論文で明確に述べている：「天然独は天然のものではなく、後天的に形成されるものであり、天然独は伝統的な民族主義的な台独ではなく、むしろ反中である」[^22]。
 
-![A crowd filling Kweilin Street in Taipei for the anti-ECFA march on March 30, 2014, the Sunflower Movement called the peak of the "Natural Independence Generation" going to the streets. Photo: tenz1225, CC BY-SA 2.0 via Wikimedia Commons.](/article-images/society/sunflower-movement-2014.webp)
-_March 30, 2014, the anti-ECFA march filled Kweilin Street in Taipei, the Sunflower Movement called the peak of the "Natural Independence Generation" going to the streets. Photo: tenz1225, CC BY-SA 2.0 via Wikimedia Commons._
+![2014年台北凱達格蘭大道（凱達格蘭大道）には反服貿デモ参加者の群衆で溢れ、群衆は広場から一直線に延び、多く人がプラカードを掲げている](/article-images/society/sunflower-movement-2014.webp)
+_2014年3月30日、反服貿大行進で台北凱達格蘭大道が溢れた。太陽花運動は「天然独世代」が街頭へ出た高峰と称される。Photo: tenz1225, CC BY-SA 2.0 via Wikimedia Commons._
 
-By Ninth Grade, things present an interesting tension. This generation grew up sliding on Douyin and scrolling Xiaohongshu, using simplified characters, chasing mainland variety shows and internet slang, culturally closer to the mainland than ever before; but politically, they are native to a democratic system and the most intuitively repulsed by "being unified." Taiwan Democracy Lab's 2025 observation points out that junior high school students' TikTok usage rate reached 57.87% and high school students 50.73%[^23], but cultural proximity has not automatically translated into political shift.
+九級生になると、事柄はまた面白い緊張関係を生む。この世代は幼少期からTikTokを滑り、小紅書（小紅書）を刷り、簡体字を使い、大陸のバラエティやネット用語を追いかけて育ち、文化的に対岸との距離は前例なく近い。しかし政治的アイデンティティにおいては、彼らは民主的体制下で原生し、「統一されること」に対して最も直感的に反感を持つ世代である。台湾民主实验室（Doublethink Lab）2025年の観察によれば、国中生のTikTok使用率は57.87%、高中生は50.73%に達する[^23]が、文化的な親近さが自動的に政治的な転換をもたらすわけではない。
 
-> 📝 **Curator's Note**
-> The seemingly contradictory combination of "culturally pro-China, politically anti-China" is precisely where Taiwan.md should not draw conclusions for readers. A Ninth Grader loving mainland short videos and supporting Taiwan maintaining the status quo may not seem contradictory to them at all, because cultural consumption and national identity are two different things. What can be done here is to honestly lay out the tensions seen by NCCU Election Research Center, Pew, Shen Wei-chieh, and Taiwan Democracy Lab, allowing readers to see how complex this generation is, and putting aside the hats of "pro-China" or "anti-China." Labeling the next generation is exactly what this whole article wants to deconstruct.
+> 📝 **キュレーターノート**
+> 「文化的に親中、政治的に拒中」という一見矛盾した組み合わせは、実は台湾.mdが読者に結論を下すべきではない場所である。九級生が大陸のショート動画を見て、台湾の現状維持を支持することは、彼自身にとって一点の矛盾もないかもしれない。文化的消費と国家的アイデンティティは本来別物だからである。ここでできることは、政大選研、ピュー、沈暐婕、台湾民主实验室がそれぞれ見た緊張関係をありのままに広げ、読者にこの世代がいかに複雑であるかを見せ、「親中」か「反中」かの帽子を先に置いておくことである。下一世代をラベル付けすることは、この記事が解体しようとしていることそのものである。
 
-## Strawberries Didn't Get Softer, The Ground Got Slanted
+## ストロベリーは柔らかくなっていない、地面が斜めになった
 
-Stacking five birth certificates together, you see a quiet thing. The Fifth Graders born in 1963 had 427,212 classmates entering this world together; the Ninth Graders born in 2010 had only 166,886, less than 40% of the Fifth Grade peak, missing over 200,000 people[^24].
+五つの出生証明書を重ねて見ると、静かな事実が一つわかる。1963年那批五級生は、427,212人のクラスメートと一緒にこの世界へ入った。2010年那批九級生は、わずか166,886人であり、五級生ピークの4割未満であり、20万人以上も減少した[^24]。
 
-Fewer people, the cake didn't get bigger, but buildings got higher. On this terrain, later generations using the same effort cannot reach the positions reached by earlier generations. This is not because strawberries got softer, but because the ground beneath their feet got slanted, and slanted unevenly: some have a slope paved by parents beneath their feet, others have only a nearly vertical wall.
+人が減り、パイは大きくならず、ビルは高く建てられる一方。このような地形において、後の世代は同じ力を使っても、前の世代が到達した場所へ到達できない。ストロベリーが柔らかくなったからではなく、足元の地面が斜めになったからであり、しかも不平等に斜めになった：足元に親が敷いた緩やかな坂道がある人もいれば、足元にはほぼ垂直な壁しかない人もいる。
 
-"Grade" as a coordinate is ultimately just an entry point. It is useful because it helps us see how the escalator gets steeper year by year; it should not be the endpoint because what ultimately determines whether a person can climb up is often whether the escalator beneath their feet connects to a salary or inheritance, and this crack is drawn within every grade. Pew Research Center even announced in 2023 that it would use generational labels less in reporting, because many differences attributed to "generation" ultimately stem from demographic characteristics themselves[^25]. Even the institution that first popularized generational classification has started calling a halt to this tool.
+「年級」という座標は結局のところ入口に過ぎない。それは便利である、なぜならそれは私たちにエスカレーターが年々どのように急勾配になるかを見せるからである。それは終点となってはならない、なぜならある人が上に上がれるかどうかを決定するのは、往々に彼らの足元のエスカレーターが賃金に接続しているか相続に接続しているかであり、この亀裂は各年級の内部に引かれているからである。ピュー・リサーチセンターは2023年甚至宣布、以後「世代」タグを使って報道することを減らす予定である。なぜなら、「世代」に帰属される差異の多くは、究極的には人口特徴そのものから来ているからである[^25]。最も早く世代分類を発揚した機関でさえ、このツールに対して停止を叫び始めている。
 
-✦ So, the next time you want to say "Young people today are just strawberries," think about one thing: the word originally insulted, likely, you when you were in your twenties. And what truly changed over these thirty years is the escalator you stepped on, which was still moving, then slowed down, got steeper, and finally split into two. WuMing XiaoZhan's "No one else seems to notice me" resonated with an entire generation because every generation has a piece of youth only they can access, others cannot press in, and the rent for that piece of youth gets more expensive generation by generation.
+✦ それで、次回「今の若者は草莓族だ」と言いたい前に、一件事を考えたい：この呼称が最初に罵ったのは、おそらく当時20代であったあなた自身であること。そしてこの30年間で本当に変わったのは、あなたが当時乗った、まだ稼働していたエスカレーターが、後に速度を落とし、急勾配になり、最後に二つに分岐したということである。無名小站の「誰も私に気づいていない」という言葉が、一整代人にいいね！を押させたのは、各世代に自分たちだけのもので、他者がアクセスできない青春があり、そしてその青春の家賃が、代を重ねるごとに高くなっているからである。
 
-**Further Reading**:
+**関連読書**：
 
-- [Taiwan's Slash Generation](/society/台灣斜槓世代) — The survival math of Seventh and Eighth Graders splitting one salary into three jobs under a low-wage structure
-- [Taiwanese Youth's Career Maze](/society/台灣青年的生涯迷航) — Spending sixteen years in school, the most common question on graduation day is "I don't know what I want to do"
-- [Taiwan's Low Birth Rate Crisis](/society/台灣少子化危機) — Birth numbers crashed from 420,000 to 160,000, how the cake gets smaller year by year
-- [Taiwan Unification-Independence Spectrum](/society/台灣統獨光譜) — The full picture of the identity fault line, from "Who am I" to "Where are we going"
-- [WuMing XiaoZhan](/culture/無名小站) — The digital server of Seventh Graders' youth, shut down in 2013, appeared again on Threads in 2025
+- [台湾斜槓世代](/society/台灣斜槓世代) — 低賃金構造の下で、七、八級生が一つの賃金を三份の労働に分割する生存数学
+- [台湾青年の生涯迷航](/society/台灣青年的生涯迷航) — 16年間学校に通い、卒業日に最もよく「何をするべきかわからない」と問う
+- [台湾少子化危機](/society/台灣少子化危機) — 出生数が42万人から16万人へ崩壊し、パイが年々どのように小さくなるか
+- [台湾統独光譜](/society/台灣統獨光譜) — アイデンティティ分水嶺の全貌、「私は誰か」から「どこへ向かうか」まで
+- [無名小站](/culture/無名小站) — 七級生の青春のデジタルサーバー、2013年閉鎖、2025年Threadsで再び姿を現す
 
-## Image Sources
+## 画像出典
 
-This article uses 5 Creative Commons licensed images, all cached in `public/article-images/society/` to avoid hotlinking to source servers:
+本稿は5枚のCreative Commonsライセンス画像を使用し、すべて `public/article-images/society/` にキャッシュされ、ホットリンク元サーバーを回避する：
 
-- [Taiwanese Puppet Figures (hero)](https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg) — Photo: Wang Yu Ching / Office of the President, 2023, CC BY 2.0
-- [Yakult](https://commons.wikimedia.org/wiki/File:Yakult_100ml_5pcs_pack_sold_in_Beijing_20120723.jpg) — Photo: kxz Chen, 2012, CC BY-SA 2.0
-- [1990s Digital Pager](https://commons.wikimedia.org/wiki/File:1990s_CPS_blue_pager.jpg) — Photo: Solomon203, CC BY-SA 3.0
-- [2014 Sunflower Anti-ECFA March](<https://commons.wikimedia.org/wiki/File:2014.3.30_黑潮反服貿_(13554498253).jpg>) — Photo: tenz1225, 2014, CC BY-SA 2.0
-- [New Taipei Tamsui Residential Building Cluster](https://commons.wikimedia.org/wiki/File:Tamsui,_New_Taipei_Skyline_20230611.jpg) — Photo: HC Lin, 2023, CC BY 2.0
+- [台湾布袋劇人形（hero）](https://commons.wikimedia.org/wiki/File:Hand_puppets_of_Taiwanese_Glove_puppetry_2023-04-11.jpg) — Photo: Wang Yu Ching / Office of the President, 2023, CC BY 2.0
+- [ヤクルト](https://commons.wikimedia.org/wiki/File:Yakult_100ml_5pcs_pack_sold_in_Beijing_20120723.jpg) — Photo: kxz Chen, 2012, CC BY-SA 2.0
+- [1990年代数字ポケベル](https://commons.wikimedia.org/wiki/File:1990s_CPS_blue_pager.jpg) — Photo: Solomon203, CC BY-SA 3.0
+- [2014太陽花反服貿デモ](<https://commons.wikimedia.org/wiki/File:2014.3.30_黑潮反服貿_(13554498253).jpg>) — Photo: tenz1225, 2014, CC BY-SA 2.0
+- [新北市淡水住宅ビル群](https://commons.wikimedia.org/wiki/File:Tamsui,_New_Taipei_Skyline_20230611.jpg) — Photo: HC Lin, 2023, CC BY 2.0
 
-## References
+## 参考文献
 
-[^1]: [Wikipedia: Strawberry Generation](https://zh.wikipedia.org/zh-tw/%E8%8D%89%E8%8E%93%E6%97%8F) — Records the origin, semantic migration, and controversy of the term "Strawberry Generation," noting it originally referred to Taiwanese people born in the 1960s (Fifth Grade), later shifting mainstream perception downward to after Seventh Grade, and citing the High Court ruling recognizing it as a "derogatory term."
+[^1]: [Wikipedia: 草莓族](https://zh.wikipedia.org/zh-tw/%E8%8D%89%E8%8E%93%E6%97%8F) — 「草莓族」という呼称の起源、意味の移動と論争を収録し、当初は1960年代生まれ（五級生）の台湾人を指し、後主流認識が七級生以降へ下移したことを記録し、高等法院がこれを「卑抑的な語彙」と認定した判決見解を引用する。
 
-[^2]: [Research Talk: Why Doesn't Taiwan's Economic Growth Grow Wages? Interview with Yang Tzu-ting](https://research.sinica.edu.tw/taiwan-economic-salary-yang-tzu-ting/) — Academia Sinica popular science platform interview with economist Yang Tzu-ting, analyzing the causes of the decoupling of real wages and productivity after 2002 (producer vs. consumer price scissors), and providing data on the declining share of labor compensation in GDP.
+[^2]: [研之有物：台湾経済成長、なぜ賃金が大きくならないのか？楊子霆氏インタビュー](https://research.sinica.edu.tw/taiwan-economic-salary-yang-tzu-ting/) — 中央研究院科普プラットフォームが経済学者楊子霆氏をインタビューし、2002年以降の実質賃金と生産性の乖離の原因（生産財と消費財の価格ハサミ）を解析し、GDPに占める労働報酬の割合が年々低下するデータを提供する。
 
-[^3]: [NCCU Taiwan Real Estate Research Center: Housing Affordability Indicators](https://rer.nccu.edu.tw/article/detail/2210058908437) — Housing price-to-income ratio and mortgage burden rate data compiled from Ministry of the Interior Real Estate Information Platform, noting Taipei's housing price-to-income ratio reached 15.41 times in Q1 2025, and citing Academia Sinica Social Change Survey presenting changes in homeownership rates.
+[^3]: [政治大学台湾不動産研究中心：住宅価格負担能力指標](https://rer.nccu.edu.tw/article/detail/2210058908437) — 内政部不動産情報平台データに基づき整理した住宅価格所得倍率、住宅ローン負担率の歴年データ。台北市住宅価格所得倍率は2025年第一季15.41倍に達し、中研院社会変遷調査が持家率の変化を示すものを引用する。
 
-[^4]: [Time UDn: WuMing XiaoZhan's Youth, Those Years Our Blogs, Photo Albums, and Guestbooks](https://time.udn.com/udntime/story/122390/6835704) — United Daily News Digital Archives column reviewing WuMing XiaoZhan (1999–2013) functions and generational memory, recording usage scenarios like "opening the computer, going to WuMing XiaoZhan to write blogs, update photo albums, see who visited my home."
+[^4]: [報時光：無名小站の青春、あの頃の私たちのブログ、アルバム、留言板](https://time.udn.com/udntime/story/122390/6835704) — 聯合報デジタルアーカイブ专栏が無名小站（1999–2013）の機能と世代記憶を回顧し、「有事なしに电脑を開き、無名小站にログインしてブログを書き、アルバムを更新し、誰が我家へ来たかを見る」という使用シーンを記録する。
 
-[^5]: [Wikipedia: Wild Strawberries Movement](https://en.wikipedia.org/wiki/Wild_Strawberries_Movement) — Records the 2008 "Wild Strawberries Movement" initiated by Taiwanese students, explaining how Seventh Grade students took back the derogatory term "Strawberry Generation" and transformed it into the name of the movement protesting the Assembly and Association Law.
+[^5]: [Wikipedia: Wild Strawberries Movement](https://en.wikipedia.org/wiki/Wild_Strawberries_Movement) — 2008年台湾学生が発起した「野草莓運動」を記録し、七級生学生が「草莓族」という卑称を逆手に取り、抗議集会遊戯法運動名称へ転換したことを説明する。
 
-[^6]: [ETtoday: Taiwan's "New Nine Tribes" Youth Most Hated Being Called Strawberry Generation](https://www.ettoday.net/news/20120801/82040.htm) — Reports on the "New Nine Tribes of Youth" survey co-hosted by Vision Magazine, Yahoo Kimoji, and WuMing XiaoZhan, where 1,129 young people aged 20–35 voted for the generational labels they most wanted to be exonerated from, with Strawberry Generation topping at 16.5%, followed by Neet and Phubbers.
+[^6]: [ETtoday：台湾「新九族」 青年最も嫌うのは草莓族](https://www.ettoday.net/news/20120801/82040.htm) — 『遠見』雑誌とYahoo奇摩、無名小站が共同で主催した「青年新九族」調査を報道し、20〜35歳の1,129人の青年が最も反論したい世代ラベルを投票し、草莓族が16.5%で首位、次席がひきこもり族、三位がスマホ依存族であることを報じる。
 
-[^7]: [Story Studio: Datong Babo, The Middle-Class Dream on TV](https://storystudio.tw/article/gushi/tatungs-puppet) — Reviews the history of Datong Babo's debut in 1969, noting its role as a gift for purchasing 10,000 yuan worth of appliances, placed in the living room symbolizing a family's leap from the laborer class to the middle class.
+[^7]: [故事 StoryStudio：大同寶寶、テレビ画面の中産夢](https://storystudio.tw/article/gushi/tatungs-puppet) — 大同寶寶が1969年に登場した歴史を回顧し、1万台湾元電器購入贈答品としてリビングに置かれ、労働者階級から中産階級へ昇ったことの身分意味を象徴することを記録する。
 
-[^8]: [Time UDn: Yakult Glass Bottles and Yakult Moms](https://time.udn.com/udntime/story/122390/7069408) — Records the history of Yakult setting up a factory in Taiwan in 1964, a sales model of two yuan per bottle delivered door-to-door by "Yakult Moms," a shared childhood memory for Fifth and Sixth Grade generations.
+[^8]: [報時光：ヤクルトガラス瓶とヤクルト・ママ](https://time.udn.com/udntime/story/122390/7069408) — ヤクルトが1964年に台湾で工場設立した歴史を記録し、一瓶2元、ヤクルト・ママが一戸一戸配達する販売モデルを記録し、五、六級生世代の共通童年記憶である。
 
-[^9]: [Wikipedia: Cloud State Grand Confucian Hero](https://zh.wikipedia.org/zh-tw/%E9%9B%B2%E5%B7%9E%E5%A4%A7%E5%84%92%E4%BF%A0) — Records Huang Junxiong's puppet show _Cloud State Grand Confucian Hero_ first airing on TTV in 1970, totaling 583 episodes, achieving a 97% viewership rate, and the complete process of being banned in 1974 on the grounds of "hindering farmers' work schedules."
+[^9]: [Wikipedia: 雲州大儒俠](https://zh.wikipedia.org/zh-tw/%E9%9B%B2%E5%B7%9E%E5%A4%A7%E5%84%92%E4%BF%A0) — 黄俊雄布袋劇『雲州大儒俠』が1970年に台視で初回放送され、全583話、97%視聴率を記録し、1974年に「農作業の妨げになる」という理由で放送禁止となるまでの全過程を収録する。
 
-[^10]: [Roomie: Those Years, We Used Number Codes to Fall in Love](https://www.roomie.tw/posts/69404) — Reviews the rise and fall of Taiwan's BB Call (pager) opened in 1976, peaking at over four million households in 1999, stopping service in late 2011, and the usage culture of number codes like 520 and 1314.
+[^10]: [Roomie：あの頃、私たちは数字暗号で恋愛した](https://www.roomie.tw/posts/69404) — 台湾BB Call（ポケベル）が1976年に開放され、1999年にユーザー数がピーク約400万世帯に達し、2011年末にサービス停止した興衰を回顧し、520、1314などの数字伝情の使用文化を記録する。
 
-[^11]: [Time UDn: Tamagotchi Craze, The Beeping Sounds Rising in Campuses That Year](https://udn.com/news/story/120910/6418556) — United Daily News Digital Archives reviews the campus turmoil caused by the arrival of Tamagotchi in 1997, recording students focusing on feeding in class, prices being resold for over a thousand yuan, and then-Minister of Education Wu Jing proposing a "chicken farm" anecdote.
+[^11]: [報時光：電子鶏旋風、あの頃キャンパスに絶え間なく響くビービー音](https://udn.com/news/story/120910/6418556) — 聯合報デジタルアーカイブが1997年電子鶏が台湾に登場しキャンパス風波を引き起こしたことを回顧し、学生が授業中に餌やりにおい夢中になり、価格が千元超まで転売され、当時教育部長呉京が「養鶏場」を提案した逸話を記録する。
 
-[^12]: [FoodNEXT: Nostalgia Snack Big Survey](https://www.foodnext.net/issue/paper/5470124084) — FoodNEXT media's 2018 questionnaire survey on Taiwanese nostalgia snacks, collecting 1,523 responses, with Seventh Graders having the highest participation rate at 38.2%, voting for iron-can fruit candies, Morinaga milk candy, Wangzi Noodles, etc., as generational memory snacks.
+[^12]: [食力 foodNEXT：懐古スナック大調査](https://www.foodnext.net/issue/paper/5470124084) — 食力媒体2018年台湾人懐古スナックアンケート調査、1,523件回収、七級生参加比率最高38.2%、缶入りフルーツキャンディ、森永ミルクキャンディ、王子麵などの世代記憶スナックランキングを投票する。
 
-[^13]: [NCCU: The Great Experiment of Taiwanese Education](https://www3.nccu.edu.tw/~iaezcpc/B-%20The%20great%20experiment%20of%20Taiwanese%20Education%205-5.htm) — National Chengchi University related research analyzes Taiwan's Constructivist Math reform, recording that the policy implementation starting in 1996 made nearly 1.8 million primary school students the subjects of this educational experiment.
+[^13]: [NCCU: The Great Experiment of Taiwanese Education](https://www3.nccu.edu.tw/~iaezcpc/B-%20The%20great%20experiment%20of%20Taiwanese%20Education%205-5.htm) — 政治大学関連研究が台湾構築式数学改革を分析し、1996年以降の政策実施により約180万人の小学生がこの教育実験の対象となったことを記録する。
 
-[^14]: [Ministry of the Interior: Service Terms for Conscripts by Year](https://www.moi.gov.tw/News_Content.aspx?n=9&sms=9009&s=277146) — Ministry of the Interior official statement, explicitly stating "Conscripts born after January 1, 1994 (ROC year 94) will resume collection for active duty starting January 1, 2024 (ROC year 113), for a period of 1 year," and "Conscripts born between January 1, 1993 (ROC year 83) and December 31, 1993 (ROC year 93)... for a period of 4 months," serving as the primary source for the first extension of compulsory military service in seventy years.
+[^14]: [内政部：各年次兵役男子服役期間](https://www.moi.gov.tw/News_Content.aspx?n=9&sms=9009&s=277146) — 内政部公式説明、民国94年1月1日以後生まれの兵役男子は民国113年1月1日から常備兵現役徴集回復、期間1年、民国83年1月1日至93年12月31日期間生まれの兵役男子は期間4ヶ月と明記し、義務兵役70年来初の延長の一手工夫である。
 
-[^15]: [Taiwan Journal of Sociology: Chang Yi-chun, Lin Tsung-hung "Taiwan's Generational Differences and Income Distribution" (2020)](https://www.tjs.org.tw/page.php?menu_id=7&blog_class2_id=56&blog_id=451) — Academic journal paper (DOI 10.6786/TJS.202012\_(68).0002), arguing that the baby boom generation born before 1972 enjoyed income advantages, while the generation born after 1978 generally has lower incomes, with mechanisms being higher education expansion and low-wage service sectors.
+[^15]: [台湾社会学刊：張宜君、林宗弘〈台湾の世代差異と所得分配〉（2020）](https://www.tjs.org.tw/page.php?menu_id=7&blog_class2_id=56&blog_id=451) — 学術期刊論文（DOI 10.6786/TJS.202012\_(68).0002）、戦後から1972年以前生まれのベビーブーム世代が所得優位性を享受し、1978年以後生まれ世代は所得が全般的に低いことを論証し、メカニズムは高等教育拡大とサービス業低賃金である。
 
-[^16]: [Story Studio: Lin Tsung-hung Interview, The Formation of the Traumatized Generation](https://storystudio.tw/article/s_for_supplement/thung-hong-lin-interview/) — Interview with sociologist Lin Tsung-hung, discussing how economic depressions create "traumatized generations," explicitly stating the most impacted are those born after 1975 and coming of age around 2000, connecting the generational issue back to the perspective of class distribution.
+[^16]: [故事 StoryStudio：林宗弘インタビュー、崩壊世代の形成](https://storystudio.tw/article/s_for_supplement/thung-hong-lin-interview/) — 社会学者林宗弘氏をインタビューし、経済不況がどのように「傷ついた世代」を形成するかを語り、衝撃が最も大きいのは1975年以後生まれ、2000年頃に成人したこの人々であると明指し、世代問題を階級分配の視点へ戻す。
 
-[^17]: [Taipei Times: Experts: Strawberry Generation is just a myth](https://www.taipeitimes.com/News/taiwan/archives/2005/09/12/2003271331) — Taipei Times 2005 report, citing expert opinions using the statistical fact that Taiwanese workers have some of the longest working hours globally and salaries have not been adjusted for years, refuting the generational stereotype of "Strawberry Generation is not hardworking."
+[^17]: [Taipei Times: Experts: Strawberry Generation is just a myth](https://www.taipeitimes.com/News/taiwan/archives/2005/09/12/2003271331) — 台北時報2005年報道、専門家を引用し台湾労働者の労働時間が世界で最も長く、賃金が多年変動していない統計事実を以て、「草莓族は耐性がない」という世代ステレオタイプを反論する。
 
-[^18]: [Chu, Lin & Nian (2024), Labour Economics](https://ideas.repec.org/a/eee/labeco/v91y2024ics0927537124001131.html) — Intergenerational wealth mobility study published in _Labour Economics_, estimating Taiwan's intergenerational wealth correlation coefficient as about 0.40 for sons and 0.30 for daughters, noting that the transmission effect at the top of wealth shows non-linear enhancement.
+[^18]: [Chu, Lin & Nian (2024), Labour Economics](https://ideas.repec.org/a/eee/labeco/v91y2024ics0927537124001131.html) — 『Labour Economics』に発表された世代間富の流動性研究、台湾親子富相関係数は息子約0.40、娘約0.30と推計し、富の頂点への伝達効果が非線形に増強されることを指摘する。
 
-[^19]: [Inequality.org: To Best Understand Inequality, Think Class, Not Generation](https://inequality.org/article/to-best-understand-inequality-think-class-not-generation/) — Article from US inequality research institution, author Chuck Collins argues that the true fault line of contemporary times lies in class conflict, arguing that the framework of generational opposition obscures the true class rift.
+[^19]: [Inequality.org: To Best Understand Inequality, Think Class, Not Generation](https://inequality.org/article/to-best-understand-inequality-think-class-not-generation/) — 米国不平等研究機関記事、作者Chuck Collinsは当代の真の断層は階級衝突にあると主張し、世代対立の枠組みがむしろ真の階級亀裂を隠蔽していると論証する。
 
-[^20]: [National Chengchi University Election Research Center: Taiwan Citizens' Taiwanese/Chinese Identity Trend Distribution](https://esc.nccu.edu.tw/PageDoc?fid=7804) — Primary data from NCCU Election Research Center's long-term polls, showing the percentage identifying as Taiwanese rose from 17.6% in 1992 to a high of 67% in 2020, 61.7% in 2023; the percentage identifying as Chinese dropped to 2.4% in 2023.
+[^20]: [政治大学選挙研究中心：台湾民众台湾人/中国人アイデンティティ傾向分布](https://esc.nccu.edu.tw/PageDoc?fid=7804) — 政大選研センター長期世論調査的一手工夫、台湾人であると自認する割合が1992年17.6%から2020年67%高ポイントへ上昇、2023年61.7%、中国人であると自認する割合が2023年2.4%へ減少したことを示す。
 
-[^21]: [Pew Research Center: Most People in Taiwan See Themselves as Primarily Taiwanese (2024)](https://www.pewresearch.org/short-reads/2024/01/16/most-people-in-taiwan-see-themselves-as-primarily-taiwanese-few-say-theyre-primarily-chinese/) — Pew Research Center 2024 survey, showing 67% of Taiwan overall identify primarily as Taiwanese, and specifically noting that 83% of adults under 35 identify purely as Taiwanese.
+[^21]: [Pew Research Center: Most People in Taiwan See Themselves as Primarily Taiwanese (2024)](https://www.pewresearch.org/short-reads/2024/01/16/most-people-in-taiwan-see-themselves-as-primarily-taiwanese-few-say-theyre-primarily-chinese/) — ピュー・リサーチセンター2024年調査、台湾全体67%が主に台湾人であると自認し、特に35歳以下成人83%が純粋に台湾人であると自認することを示す。
 
-[^22]: [Airiti Library: Shen Wei-chieh "Political Identity of the Natural Independence Generation" (2017, National Taiwan University Master's Thesis)](https://www.airitilibrary.com/Article/Detail?DocID=U0001-2407201711292100) — National Taiwan University Master's thesis, arguing that Natural Independence is a post-natally formed political identity, and noting its essence is "more anti-China," differing from traditional nationalist Taiwan independence.
+[^22]: [Airiti Library：沈暐婕〈天然独世代の政治アイデンティティ〉（2017、台湾大学修士論文）](https://www.airitilibrary.com/Article/Detail?DocID=U0001-2407201711292100) — 台湾大学修士論文、天然独は後天的に形成される政治アイデンティティであると論証し、その本質は「むしろ反中」であり、伝統的な民族主義的な台独とは異なると指摘する。
 
-[^23]: [Taiwan Democracy Lab (Doublethink Lab): The Impact of TikTok on Taiwan's Youth Information Environment and Views on China (2025)](https://medium.com/doublethinklab-tw/精準推播與認知滲透-tiktok-對台灣青少年資訊環境與對中國觀感的影響-458e3c5f7475) — Taiwan Democracy Lab 2025 survey report summary, recording junior high school students' TikTok usage rate at 57.87% and high school students at 50.73%, analyzing the tension of "cultural proximity and political identity separation" in the Ninth Grade generation.
+[^23]: [台湾民主实验室（Doublethink Lab）：TikTokが台湾青少年情報環境と中国観感に与える影響（2025）](https://medium.com/doublethinklab-tw/精準推播與認知滲透-tiktok-對台灣青少年資訊環境與對中國觀感的影響-458e3c5f7475) — 台湾民主实验室2025年調査報告要約、国中生TikTok使用率57.87%、高中生50.73%を記録し、九級生世代の「文化的親近と政治的アイデンティティ分離」の緊張関係を分析する。
 
-[^24]: [Ministry of the Interior Department of Household Registration: Historical Birth Count Statistics](https://www.ris.gov.tw/app/portal/346) — Ministry of the Interior Department of Household Registration primary population statistics, recording historical birth counts, Fifth Grade peak 427,212 people in 1963, Ninth Grade trough 166,886 people in 2010, serving as the official basis for generational population size comparison.
+[^24]: [内政部戸政司：歴年出生人数統計](https://www.ris.gov.tw/app/portal/346) — 内政部戸政司一手人口統計、歴年出生人数を記録し、五級生ピーク1963年427,212人、九級生谷底2010年166,886人であり、世代人口規模対照の官方依据である。
 
-[^25]: [Pew Research Center: How Pew Research Center will report on generations moving forward (2023)](https://www.pewresearch.org/short-reads/2023/05/22/how-pew-research-center-will-report-on-generations-moving-forward/) — Pew Research Center 2023 statement, announcing it will reduce the use of generational labels in reporting, because many differences attributed to "generation" actually stem from demographic characteristics themselves, not generational effects.
+[^25]: [Pew Research Center: How Pew Research Center will report on generations moving forward (2023)](https://www.pewresearch.org/short-reads/2023/05/22/how-pew-research-center-will-report-on-generations-moving-forward/) — ピュー・リサーチセンター2023年声明、以後「世代」タグを使って報道することを減らすと宣布し、その理由は「世代」に帰属される差異の多くが実際には人口特徴そのものから来ているためであり、世代効果ではないからである。
