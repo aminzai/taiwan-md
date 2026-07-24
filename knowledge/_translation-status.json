@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T04:10:04+08:00",
-    "zhCommitHead": "bdf402be0",
+    "lastUpdated": "2026-07-25T04:21:21+08:00",
+    "zhCommitHead": "68e38a441",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -67,26 +67,26 @@
       },
       "id": {
         "total_zh": 862,
-        "fresh": 101,
-        "stale": 6,
+        "fresh": 103,
+        "stale": 7,
         "metadata_stale": 0,
-        "missing": 755,
+        "missing": 752,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 127,
+        "fresh": 132,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 725,
+        "missing": 720,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 114,
+        "fresh": 116,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 740,
+        "missing": 738,
         "orphan": 0
       },
       "ar": {
@@ -12885,18 +12885,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Technology/computex-taipei.md",
-          "translatedFrom": "Technology/Computex.md",
-          "sourceCommitSha": "52389a7cb",
-          "sourceContentHash": "sha256:c2deb4a945d2dc5b",
-          "sourceBodyHash": "sha256:a4c6e70e74235d09",
-          "translatedAt": "2026-07-25T01:11:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 60,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -63206,7 +63195,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/kevin-lin-ultramarathon-desert-pioneer.md",
+          "translatedFrom": "People/林義傑.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8741429d614846be",
+          "sourceBodyHash": "sha256:3713eaac6b565ca6",
+          "translatedAt": "2026-07-25T03:42:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -64164,7 +64164,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/mingjian-puchung-tea.md",
+          "translatedFrom": "Food/名間埔中茶.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4ee811968726954e",
+          "sourceBodyHash": "sha256:eac4101c04e140f1",
+          "translatedAt": "2026-07-25T03:42:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -67242,7 +67253,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/oil-rice.md",
+          "translatedFrom": "Food/油飯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:9645370116faf0ce",
+          "sourceBodyHash": "sha256:e335b1f6c8cbb675",
+          "translatedAt": "2026-07-25T03:42:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/oil-rice.md",
@@ -68874,7 +68896,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/wheel-cakes-imagawayaki.md",
+          "translatedFrom": "Food/車輪餅.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:75886d0c9c5c9b1f",
+          "sourceBodyHash": "sha256:b1f515f692de800c",
+          "translatedAt": "2026-07-25T03:42:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -73392,18 +73425,18 @@
           "diffSummary": "+17 -17"
         },
         "id": {
-          "path": "id/History/great-recall-movement-2024.md",
+          "path": "id/Society/social-movements-and-civic-participation.md",
           "translatedFrom": "History/大罷免.md",
-          "sourceCommitSha": "5add39fc8",
-          "sourceContentHash": "sha256:1c18939671190740",
-          "sourceBodyHash": "sha256:c336900c050cb32f",
-          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "sourceCommitSha": "6262f8c93",
+          "sourceContentHash": "sha256:0bdd57229f623a95",
+          "sourceBodyHash": "sha256:9d022e52199911fd",
+          "translatedAt": "2026-07-18T18:59:52+08:00",
           "translationLastCommit": "e82fd52f",
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
-          "footnoteDefs": 54,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 5,
+          "status": "stale",
+          "reason": "footnote-loss (53→5)"
         },
         "pt": {
           "path": "pt/History/great-recall-movement-2024.md",
@@ -73511,7 +73544,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/taiwan-transitional-justice.md",
+          "translatedFrom": "History/台灣轉型正義.md",
+          "sourceCommitSha": "7c73f6a55",
+          "sourceContentHash": "sha256:c532a9d95ccbcaaf",
+          "sourceBodyHash": "sha256:530ea0ffb4d07e77",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "68e38a44",
+          "translationLastModified": "2026-07-25T04:20:20+08:00",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -80659,7 +80703,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/taipei-101.md",
+          "translatedFrom": "Geography/台北101.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2b98bb25fe4e7d4a",
+          "sourceBodyHash": "sha256:d565775868e89ffc",
+          "translatedAt": "2026-07-25T03:42:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -81689,7 +81744,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/sun-moon-lake.md",
+          "translatedFrom": "Geography/日月潭.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:38e87349431f9040",
+          "sourceBodyHash": "sha256:6436714823ccf368",
+          "translatedAt": "2026-07-25T03:42:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/sun-moon-lake.md",
@@ -81798,7 +81864,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/how-to-read-the-taiwan-map.md",
+          "translatedFrom": "Geography/台灣地圖怎麼讀.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:098044cbe17d84d6",
+          "sourceBodyHash": "sha256:0dee5d4db7ae7893",
+          "translatedAt": "2026-07-25T03:42:40+08:00",
+          "translationLastCommit": "68e38a44",
+          "translationLastModified": "2026-07-25T04:20:20+08:00",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/how-to-read-the-taiwan-map.md",
@@ -87318,7 +87395,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/mazu-dadaogong-legend.md",
+          "translatedFrom": "Culture/媽祖與大道公的傳說.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:e0f0df37674e0a42",
+          "sourceBodyHash": "sha256:0cf1fac1d7c9b8b4",
+          "translatedAt": "2026-07-25T03:42:40+08:00",
+          "translationLastCommit": "68e38a44",
+          "translationLastModified": "2026-07-25T04:20:20+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/mazu-dadaogong-legend.md",
@@ -89001,10 +89089,32 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-variety-shows.md",
+          "translatedFrom": "Culture/台灣綜藝.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a2572613f79ed394",
+          "sourceBodyHash": "sha256:e10637f3a982deb1",
+          "translatedAt": "2026-07-25T03:42:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-variety-shows.md",
+          "translatedFrom": "Culture/台灣綜藝.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a2572613f79ed394",
+          "sourceBodyHash": "sha256:e10637f3a982deb1",
+          "translatedAt": "2026-07-25T03:42:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -89113,8 +89223,8 @@
           "sourceContentHash": "sha256:875b7e202aed03cb",
           "sourceBodyHash": "sha256:4b3f831fea6a96bf",
           "translatedAt": "2026-07-25T03:42:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "68e38a44",
+          "translationLastModified": "2026-07-25T04:20:20+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
