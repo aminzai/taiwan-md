@@ -1,14 +1,14 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T18:21:32+08:00",
-    "zhCommitHead": "bb22dd1ac",
+    "lastUpdated": "2026-07-24T18:27:00+08:00",
+    "zhCommitHead": "38f1df693",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
       "en": {
         "total_zh": 862,
-        "fresh": 721,
-        "stale": 109,
+        "fresh": 724,
+        "stale": 106,
         "metadata_stale": 0,
         "missing": 32,
         "orphan": 0
@@ -55,10 +55,10 @@
       },
       "id": {
         "total_zh": 862,
-        "fresh": 60,
-        "stale": 12,
+        "fresh": 54,
+        "stale": 10,
         "metadata_stale": 0,
-        "missing": 790,
+        "missing": 798,
         "orphan": 0
       },
       "pt": {
@@ -10137,18 +10137,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Technology/science-park-development.md",
-          "translatedFrom": "Technology/科技園區發展.md",
-          "sourceCommitSha": "bc725e8c5",
-          "sourceContentHash": "sha256:19e7a45a0852260f",
-          "sourceBodyHash": "sha256:a1d16e29348fc28f",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 24,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -10447,20 +10436,7 @@
           "diffSummary": "+14 -14"
         },
         "id": {
-          "path": "id/Technology/taiwan-bim-construction-tech.md",
-          "translatedFrom": "Technology/台灣BIM與營建科技.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:5500ed1d9d4e0f85",
-          "sourceBodyHash": "sha256:6207b1decb9dcfc4",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
-          "translationLastCommit": "e82fd52f",
-          "translationLastModified": "2026-07-19T00:12:50+08:00",
-          "inferred": false,
-          "footnoteDefs": 53,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -14"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/Technology/taiwan-bim-construction-tech.md",
@@ -12054,7 +12030,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/computex-taipei.md",
+          "translatedFrom": "Technology/Computex.md",
+          "sourceCommitSha": "52389a7cb",
+          "sourceContentHash": "sha256:c2deb4a945d2dc5b",
+          "sourceBodyHash": "sha256:a4c6e70e74235d09",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 60,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -27548,18 +27535,16 @@
         "en": {
           "path": "en/Society/paraguay-taiwan.md",
           "translatedFrom": "Society/巴拉圭與台灣.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:2883551ecafd55b9",
-          "sourceBodyHash": "sha256:a482ae599cab265e",
-          "translatedAt": "2026-05-09T11:09:57+08:00",
+          "sourceCommitSha": "72a8b4432",
+          "sourceContentHash": "sha256:01affe2533530c02",
+          "sourceBodyHash": "sha256:21c703a5d9235d48",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/paraguay-taiwan.md",
@@ -29081,18 +29066,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Society/complex-life-festival.md",
-          "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "dd82dc4a6",
-          "sourceContentHash": "sha256:288b132714804aff",
-          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 36,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -37079,18 +37053,16 @@
         "en": {
           "path": "en/People/constant-and-change-band.md",
           "translatedFrom": "People/康士坦的變化球.md",
-          "sourceCommitSha": "ac1d187a",
-          "sourceContentHash": "sha256:da94b8581c1d756d",
-          "sourceBodyHash": "sha256:882ec45fed78d371",
-          "translatedAt": "2026-05-01T12:53:58+08:00",
+          "sourceCommitSha": "160c9d82d",
+          "sourceContentHash": "sha256:37d8610a843cfcf0",
+          "sourceBodyHash": "sha256:f8b9d7518607d1e1",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "fbca064a",
           "translationLastModified": "2026-06-29T01:08:29+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+11 -11"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/constant-and-change-band.md",
@@ -43602,18 +43574,16 @@
         "en": {
           "path": "en/People/cheng-chou-yu-poet.md",
           "translatedFrom": "People/鄭愁予.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:7c0bf67bc5769db3",
-          "sourceBodyHash": "sha256:84e6ff9ee9820120",
-          "translatedAt": "2026-06-16T17:03:25Z",
+          "sourceCommitSha": "cce7f2522",
+          "sourceContentHash": "sha256:05733d2c54bfc625",
+          "sourceBodyHash": "sha256:77382e9a08c09f18",
+          "translatedAt": "2026-07-24T16:23:46+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/cheng-chou-yu-poet.md",
@@ -43683,18 +43653,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/People/cheng-chou-yu-poet.md",
-          "translatedFrom": "People/鄭愁予.md",
-          "sourceCommitSha": "cce7f2522",
-          "sourceContentHash": "sha256:05733d2c54bfc625",
-          "sourceBodyHash": "sha256:77382e9a08c09f18",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 12,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -44481,18 +44440,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/People/lu-guan-wei-junyiacademy-founder.md",
-          "translatedFrom": "People/呂冠緯.md",
-          "sourceCommitSha": "0bedbf853",
-          "sourceContentHash": "sha256:31321e2281658622",
-          "sourceBodyHash": "sha256:5b5dbb7b472ae1b0",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 51,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -45052,18 +45000,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/People/hsu-chiao-hsin.md",
-          "translatedFrom": "People/徐巧芯.md",
-          "sourceCommitSha": "200949f47",
-          "sourceContentHash": "sha256:a962a822b6113a98",
-          "sourceBodyHash": "sha256:77a2ffda234c910d",
-          "translatedAt": "2026-07-14T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 17,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -62014,18 +61951,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Food/taiwanese-street-food.md",
-          "translatedFrom": "Food/台灣小吃.md",
-          "sourceCommitSha": "1facb1b9c",
-          "sourceContentHash": "sha256:d44d711c2a614f5f",
-          "sourceBodyHash": "sha256:fc8359a5a9777af0",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -75904,20 +75830,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Culture/taiwan-tea-ceremony-and-aesthetic-living.md",
-          "translatedFrom": "Culture/台灣茶道與生活美學.md",
-          "sourceCommitSha": "d520299ba",
-          "sourceContentHash": "sha256:493db11be1cffdc3",
-          "sourceBodyHash": "sha256:31e39ab99f97ad00",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
-          "translationLastCommit": "e82fd52f",
-          "translationLastModified": "2026-07-19T00:12:50+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/Culture/taiwan-tea-ceremony-and-aesthetic-living.md",
@@ -80833,18 +80746,7 @@
           "diffSummary": "+10 -10"
         },
         "id": {
-          "path": "id/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
-          "translatedFrom": "Culture/台灣茶文化.md",
-          "sourceCommitSha": "4aabbe030",
-          "sourceContentHash": "sha256:85bd96c55701b918",
-          "sourceBodyHash": "sha256:164fab87d9636e11",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
-          "translationLastCommit": "e82fd52f",
-          "translationLastModified": "2026-07-19T00:12:50+08:00",
-          "inferred": false,
-          "footnoteDefs": 32,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
