@@ -1,16 +1,16 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-24T20:06:33+08:00",
-    "zhCommitHead": "9012e5b9f",
+    "lastUpdated": "2026-07-24T20:15:14+08:00",
+    "zhCommitHead": "3ed50eb42",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
       "en": {
         "total_zh": 862,
-        "fresh": 723,
-        "stale": 71,
+        "fresh": 719,
+        "stale": 76,
         "metadata_stale": 0,
-        "missing": 68,
+        "missing": 67,
         "orphan": 0
       },
       "ja": {
@@ -55,8 +55,8 @@
       },
       "id": {
         "total_zh": 862,
-        "fresh": 57,
-        "stale": 9,
+        "fresh": 58,
+        "stale": 8,
         "metadata_stale": 0,
         "missing": 796,
         "orphan": 0
@@ -3004,7 +3004,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Music/hsien-ching-chen.md",
+          "translatedFrom": "Music/陳嫺靜.md",
+          "sourceCommitSha": "ac1d187af",
+          "sourceContentHash": "sha256:f1390dd131d16ef4",
+          "sourceBodyHash": "sha256:7d7c5633258e1718",
+          "translatedAt": "2026-06-29T00:47:38+08:00",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 43,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+6 -6"
         },
         "ja": {
           "path": "ja/Music/hsien-ching-chen.md",
@@ -3198,18 +3211,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Music/pop-music-and-golden-melody-awards.md",
-          "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "47d78ce76",
-          "sourceContentHash": "sha256:5406c0a04ed7374f",
-          "sourceBodyHash": "sha256:0794328a7ed72af5",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Music/pop-music-and-golden-melody-awards.md",
@@ -9350,20 +9352,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Technology/miin-music-app.md",
-          "translatedFrom": "Technology/迷音Miin.md",
-          "sourceCommitSha": "83f479d60",
-          "sourceContentHash": "sha256:aee5ba49019fb762",
-          "sourceBodyHash": "sha256:183d8e607cc534cd",
-          "translatedAt": "2026-06-17T01:18:25+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 19,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+11 -11"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Technology/miin-music-app.md",
@@ -10260,7 +10249,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Technology/taiwan-bim-construction-tech.md",
+          "translatedFrom": "Technology/台灣BIM與營建科技.md",
+          "sourceCommitSha": "31a05c44",
+          "sourceContentHash": "sha256:5500ed1d9d4e0f85",
+          "sourceBodyHash": "sha256:6207b1decb9dcfc4",
+          "translatedAt": "2026-06-16T16:59:03Z",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 53,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+14 -14"
         },
         "ja": {
           "path": "ja/Technology/taiwan-bim-construction-tech.md",
@@ -13395,7 +13397,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Technology/justfont-and-taiwan-typography.md",
+          "translatedFrom": "Technology/justfont與台灣字體發展.md",
+          "sourceCommitSha": "c673392a",
+          "sourceContentHash": "sha256:1463e5ff242b3b05",
+          "sourceBodyHash": "sha256:0d5ea03d7cea15ec",
+          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 65,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -10"
         },
         "ja": {
           "path": "ja/Technology/justfont-and-taiwan-typography.md",
@@ -16340,18 +16355,16 @@
         "id": {
           "path": "id/Art/mountain-makers-tsmc-documentary.md",
           "translatedFrom": "Art/造山者世紀的賭注.md",
-          "sourceCommitSha": "349e7b4fa",
-          "sourceContentHash": "sha256:6be45e1cb9e9d665",
-          "sourceBodyHash": "sha256:e381e9da7e6b89c3",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
+          "sourceCommitSha": "36b472955",
+          "sourceContentHash": "sha256:04951f7f999b2b98",
+          "sourceBodyHash": "sha256:3df28689a2b61ed4",
+          "translatedAt": "2026-07-24T15:52:20+08:00",
           "translationLastCommit": "e82fd52f",
           "translationLastModified": "2026-07-19T00:12:50+08:00",
           "inferred": false,
           "footnoteDefs": 49,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+18 -18"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/mountain-makers-tsmc-documentary.md",
@@ -19679,20 +19692,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Lifestyle/taiwan-scooter-culture.md",
-          "translatedFrom": "Lifestyle/台灣機車文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:6e1ce0a29ebd4e81",
-          "sourceBodyHash": "sha256:5fa0068bcb11d00b",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+15 -15"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Lifestyle/taiwan-scooter-culture.md",
@@ -22691,18 +22691,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Society/taiwan-nuclear-debate.md",
-          "translatedFrom": "Society/台灣與核能的討論.md",
-          "sourceCommitSha": "95c3b1afd",
-          "sourceContentHash": "sha256:5d718d4ccb9dca76",
-          "sourceBodyHash": "sha256:b97d2d0eea4b5afe",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 52,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Society/taiwan-nuclear-debate.md",
@@ -27066,18 +27055,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Society/taiwan-unification-independence-spectrum.md",
-          "translatedFrom": "Society/台灣統獨光譜.md",
-          "sourceCommitSha": "4c15a2b03",
-          "sourceContentHash": "sha256:a399eae223d36d4d",
-          "sourceBodyHash": "sha256:71fc72f8b7a7bc3d",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "6eb74c3a",
-          "translationLastModified": "2026-06-16T02:23:25+08:00",
-          "inferred": false,
-          "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Society/taiwan-unification-independence-spectrum.md",
@@ -35465,20 +35443,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Politics/voting-rights-threshold-history.md",
-          "translatedFrom": "Politics/投票權門檻歷史.md",
-          "sourceCommitSha": "e957cf7f1",
-          "sourceContentHash": "sha256:3074d2aae1d6b4c8",
-          "sourceBodyHash": "sha256:6e53b65db9794966",
-          "translatedAt": "2026-05-28T05:08:33+08:00",
-          "translationLastCommit": "f0168508",
-          "translationLastModified": "2026-05-28T09:57:56+08:00",
-          "inferred": false,
-          "footnoteDefs": 25,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Politics/voting-rights-threshold-history.md",
@@ -43393,7 +43358,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/cheng-chou-yu-poet.md",
+          "translatedFrom": "People/鄭愁予.md",
+          "sourceCommitSha": "31a05c44",
+          "sourceContentHash": "sha256:7c0bf67bc5769db3",
+          "sourceBodyHash": "sha256:84e6ff9ee9820120",
+          "translatedAt": "2026-06-16T17:03:25Z",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -7"
         },
         "ja": {
           "path": "ja/People/cheng-chou-yu-poet.md",
@@ -61641,7 +61619,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/taiwanese-street-food.md",
+          "translatedFrom": "Food/台灣小吃.md",
+          "sourceCommitSha": "4b6d28c5",
+          "sourceContentHash": "sha256:97a6acec72ee0e79",
+          "sourceBodyHash": "sha256:70ab08dbd7b43fbc",
+          "translatedAt": "2026-05-13T01:07:52Z",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/Food/taiwanese-street-food.md",
@@ -65638,20 +65629,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/History/228-incident.md",
-          "translatedFrom": "History/二二八事件.md",
-          "sourceCommitSha": "9bddcff65",
-          "sourceContentHash": "sha256:ab7b8ec8a756a4b7",
-          "sourceBodyHash": "sha256:af010b3f3c83dab2",
-          "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "4bc44389",
-          "translationLastModified": "2026-06-20T01:15:18+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -10"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/History/228-incident.md",
@@ -69190,7 +69168,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/hualien-county.md",
+          "translatedFrom": "Geography/花蓮縣.md",
+          "sourceCommitSha": "31a05c44",
+          "sourceContentHash": "sha256:d7da2390cfed253e",
+          "sourceBodyHash": "sha256:4e86fa147bee5767",
+          "translatedAt": "2026-06-16T17:03:25Z",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+9 -9"
         },
         "ja": {
           "path": "ja/Geography/hualien-county.md",
@@ -72716,7 +72707,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Geography/pingtung-county.md",
+          "translatedFrom": "Geography/屏東縣.md",
+          "sourceCommitSha": "31a05c44",
+          "sourceContentHash": "sha256:74a76153ce0680fe",
+          "sourceBodyHash": "sha256:f6d31ce0f8b471cc",
+          "translatedAt": "2026-06-16T17:03:25Z",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ja": {
           "path": "ja/Geography/pingtung-county.md",
@@ -74195,18 +74199,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Geography/kinmen-county.md",
-          "translatedFrom": "Geography/金門縣.md",
-          "sourceCommitSha": "d3d4d7804",
-          "sourceContentHash": "sha256:1ce94059006f7d31",
-          "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
-          "translatedAt": "2026-07-24T16:23:46+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
-          "inferred": false,
-          "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Geography/kinmen-county.md",
@@ -75473,7 +75466,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/taiwan-tea-ceremony-and-aesthetic-living.md",
+          "translatedFrom": "Culture/台灣茶道與生活美學.md",
+          "sourceCommitSha": "d520299b",
+          "sourceContentHash": "sha256:493db11be1cffdc3",
+          "sourceBodyHash": "sha256:31e39ab99f97ad00",
+          "translatedAt": "2026-06-16T17:19:04Z",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/Culture/taiwan-tea-ceremony-and-aesthetic-living.md",
@@ -75680,20 +75686,7 @@
       },
       "translations": {
         "en": {
-          "path": "en/Culture/penghu-folk-culture.md",
-          "translatedFrom": "Culture/澎湖民俗文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:20a4e415d5a5b5ab",
-          "sourceBodyHash": "sha256:800e8b0751351b5e",
-          "translatedAt": "2026-05-01T13:44:02+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
-          "inferred": false,
-          "footnoteDefs": 12,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "missing"
         },
         "ja": {
           "path": "ja/Culture/penghu-folk-culture.md",
@@ -77444,7 +77437,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/ethnic-groups.md",
+          "translatedFrom": "Culture/族群（閩南客家原住民外省新住民）.md",
+          "sourceCommitSha": "d6e87d07",
+          "sourceContentHash": "sha256:5bfd9c2eabdc2883",
+          "sourceBodyHash": "sha256:acd1d73d033867e1",
+          "translatedAt": "2026-05-16T22:19:17Z",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ja": {
           "path": "ja/Culture/ethnic-groups.md",
@@ -80742,7 +80746,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/archipelago-thinking.md",
+          "translatedFrom": "Culture/群島思維.md",
+          "sourceCommitSha": "31a05c44",
+          "sourceContentHash": "sha256:75c25926a0cdd0a8",
+          "sourceBodyHash": "sha256:02638f04673a14f6",
+          "translatedAt": "2026-05-17T05:06:52+08:00",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+13 -13"
         },
         "ja": {
           "path": "ja/Culture/archipelago-thinking.md",
