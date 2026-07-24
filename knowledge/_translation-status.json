@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T00:10:02+08:00",
-    "zhCommitHead": "009d6c410",
+    "lastUpdated": "2026-07-25T00:11:55+08:00",
+    "zhCommitHead": "b43425beb",
     "totalZh": 862,
     "activeLanguages": ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"],
     "summary": {
@@ -63,10 +63,10 @@
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 70,
+        "fresh": 66,
         "stale": 14,
         "metadata_stale": 0,
-        "missing": 778,
+        "missing": 782,
         "orphan": 0
       },
       "hi": {
@@ -12145,18 +12145,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Technology/computex-taipei.md",
-          "translatedFrom": "Technology/Computex.md",
-          "sourceCommitSha": "52389a7cb",
-          "sourceContentHash": "sha256:c2deb4a945d2dc5b",
-          "sourceBodyHash": "sha256:a4c6e70e74235d09",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 60,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -12432,18 +12421,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Technology/ai-hardware-supply-chain.md",
-          "translatedFrom": "Technology/AI硬體供應鏈.md",
-          "sourceCommitSha": "8f5e81ee5",
-          "sourceContentHash": "sha256:96b285db19941653",
-          "sourceBodyHash": "sha256:96ecb5a6142f55f7",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -55751,18 +55729,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/People/dwagie.md",
-          "translatedFrom": "People/大支.md",
-          "sourceCommitSha": "498649feb",
-          "sourceContentHash": "sha256:2e7abe81d37d5763",
-          "sourceBodyHash": "sha256:42bdb5d4361f8a68",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -56529,18 +56496,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/People/koxinga.md",
-          "translatedFrom": "People/鄭成功.md",
-          "sourceCommitSha": "a7cf30769",
-          "sourceContentHash": "sha256:29ee16f25cde68bce",
-          "sourceBodyHash": "sha256:fa9994749dd8a224",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -58959,8 +58915,8 @@
           "sourceContentHash": "sha256:fb71e3bcf0475f2e",
           "sourceBodyHash": "sha256:6b96e9e6687dd8c3",
           "translatedAt": "2026-07-24T23:02:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b43425be",
+          "translationLastModified": "2026-07-25T00:10:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -75543,18 +75499,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Geography/kinmen-county.md",
-          "translatedFrom": "Geography/金門縣.md",
-          "sourceCommitSha": "d3_4d7804",
-          "sourceContentHash": "sha256:1ce94059006f7d31",
-          "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
-          "translatedAt": "2026-07-24T21:09:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 27,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -79211,8 +79156,8 @@
           "sourceContentHash": "sha256:9c408bfc603af1d1",
           "sourceBodyHash": "sha256:f60b7a2b3f864e75",
           "translatedAt": "2026-07-24T23:02:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b43425be",
+          "translationLastModified": "2026-07-25T00:10:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -80906,7 +80851,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwanese-glove-puppetry-budaixi.md",
+          "translatedFrom": "Culture/布袋戲.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:90bff79aa4402b0e",
+          "sourceBodyHash": "sha256:79bbd46fe867d775",
+          "translatedAt": "2026-07-24T23:02:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -83067,8 +83023,8 @@
           "sourceContentHash": "sha256:1910ee0829efda65",
           "sourceBodyHash": "sha256:def52197e717a6f7",
           "translatedAt": "2026-07-24T23:02:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b43425be",
+          "translationLastModified": "2026-07-25T00:10:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
