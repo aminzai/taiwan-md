@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24T14:41:00.426Z",
+  "generated_at": "2026-07-24T15:13:10.070Z",
   "routines": {
-    "fetched_at": "2026-07-18T06:14:23+08:00",
-    "stale_hours": 160.4,
+    "fetched_at": "2026-07-24T23:13:03+08:00",
+    "stale_hours": 0,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -264,7 +264,7 @@
           },
           {
             "date": "2026-07-24",
-            "state": "idle"
+            "state": "missed"
           }
         ]
       },
@@ -1386,7 +1386,7 @@
     {
       "ts": "2026-07-23",
       "level": "yellow",
-      "text": "routine-live-state.json dump 齡 160.4h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
+      "text": "routine-live-state.json dump 齡 160.9h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
       "source": "routine-live-state.json"
     },
     {
@@ -1397,6 +1397,11 @@
     }
   ],
   "deploys": [
+    {
+      "ts": "2026-07-24T15:04:15Z",
+      "conclusion": "success",
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] fix: openrouter key loader 只認 *.key 且驗 token 格式"
+    },
     {
       "ts": "2026-07-24T14:22:55Z",
       "conclusion": "success",
@@ -1416,11 +1421,6 @@
       "ts": "2026-07-24T14:03:31Z",
       "conclusion": "success",
       "title": "Deploy to GitHub Pages: 🧬 [semiont] fix: leak-check 第三家族（書名號作品名）＋dispatch 隔離前存證"
-    },
-    {
-      "ts": "2026-07-24T13:28:27Z",
-      "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] heal: marker 修復後再救回 2 篇 ja/ko 譯文（引述誤判類）"
     }
   ]
 }

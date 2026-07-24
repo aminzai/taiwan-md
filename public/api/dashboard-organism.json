@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T11:57:42.789Z",
+  "lastUpdated": "2026-07-24T15:11:07.044Z",
   "organs": [
     {
       "id": "heart",
@@ -114,15 +114,15 @@
       "metrics": {
         "languageCoverage": {
           "zh-TW": 860,
-          "en": 814,
+          "en": 831,
           "ja": 854,
           "ko": 857,
-          "es": 856,
+          "es": 857,
           "fr": 860,
-          "vi": 57,
-          "id": 66,
-          "pt": 53,
-          "hi": 49
+          "vi": 70,
+          "id": 79,
+          "pt": 68,
+          "hi": 65
         },
         "translationPct": 80,
         "langHealthDetails": {
@@ -141,10 +141,10 @@
               "pct": 100
             },
             "articles": {
-              "count": 814,
-              "pct": 95
+              "count": 831,
+              "pct": 97
             },
-            "score": 98
+            "score": 99
           },
           "ja": {
             "ui": {
@@ -201,7 +201,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 856,
+              "count": 857,
               "pct": 100
             },
             "score": 100
@@ -241,10 +241,10 @@
               "pct": 108
             },
             "articles": {
-              "count": 57,
-              "pct": 7
+              "count": 70,
+              "pct": 8
             },
-            "score": 64
+            "score": 65
           },
           "id": {
             "ui": {
@@ -261,8 +261,8 @@
               "pct": 108
             },
             "articles": {
-              "count": 66,
-              "pct": 8
+              "count": 79,
+              "pct": 9
             },
             "score": 65
           },
@@ -281,10 +281,10 @@
               "pct": 108
             },
             "articles": {
-              "count": 53,
-              "pct": 6
+              "count": 68,
+              "pct": 8
             },
-            "score": 64
+            "score": 65
           },
           "hi": {
             "ui": {
@@ -301,10 +301,10 @@
               "pct": 108
             },
             "articles": {
-              "count": 49,
-              "pct": 6
+              "count": 65,
+              "pct": 8
             },
-            "score": 64
+            "score": 65
           }
         }
       }

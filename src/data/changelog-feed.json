@@ -1,7 +1,336 @@
 {
-  "generatedAt": "2026-07-24T11:57:30.421Z",
+  "generatedAt": "2026-07-24T15:10:55.160Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "9c26ac8876528d8d8a567f02b6039a9399a6911b",
+      "date": "2026-07-24T23:01:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: openrouter key loader 只認 *.key 且驗 token 格式",
+      "articles": []
+    },
+    {
+      "hash": "2d76eb25095bf1191d0b612c7cda7763b30d5d44",
+      "date": "2026-07-24T22:57:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "141a3d5812d02f4530df0da472ec10349ffc274b",
+      "date": "2026-07-24T22:56:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi P0 missing via fleet desktop-3090",
+      "articles": []
+    },
+    {
+      "hash": "317620f68f23a6a3773f28f6d1e2431e06ffed9c",
+      "date": "2026-07-24T22:49:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: dashboard 營運狀態 section — status.claude.com 式呈現 routine 飛輪與巴別塔覆蓋",
+      "articles": []
+    },
+    {
+      "hash": "89ca61142fe647c4e7e5ed5318e78d7adfd2886e",
+      "date": "2026-07-24T22:46:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt 批次 10 篇（unified dispatcher, worker=laguna+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "d7b666ed8e59cb7873f9e6bf017651bbe7c7dbf2",
+      "date": "2026-07-24T22:33:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi P0 missing via fleet desktop-3090",
+      "articles": []
+    },
+    {
+      "hash": "5a3457e4b9fb479363389fb2f8f75a816f89869a",
+      "date": "2026-07-24T22:27:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: Mode 4 設計報告 — dashboard 營運狀態 section（報告先於實作）",
+      "articles": []
+    },
+    {
+      "hash": "49fd1c36fadde5df9f81b6be4683818843069d8c",
+      "date": "2026-07-24T22:22:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "articles": []
+    },
+    {
+      "hash": "475980953dd52d139913f322ca06f4825ef55c28",
+      "date": "2026-07-24T22:22:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] tool: 巴別塔進度＋節點運作紀錄常駐 repo，每次更新增補",
+      "articles": []
+    },
+    {
+      "hash": "709e963d0d0472b81884706e15fe25b5237f2466",
+      "date": "2026-07-24T22:19:16+08:00",
+      "author": "Po-Han Shih",
+      "message": "fix(weekly-report): count CJK-named zh articles on all platforms (#1250)",
+      "articles": []
+    },
+    {
+      "hash": "3b34eb95b127719e0f1d7bd08406e56581abc89f",
+      "date": "2026-07-24T22:18:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] tool: progress-snapshot.py — 巴別塔同步率時間序列快照",
+      "articles": []
+    },
+    {
+      "hash": "7fd4ffc7168f08e1fe935708e0acba541e46b7f3",
+      "date": "2026-07-24T22:11:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "3fc5a655ac553fee06cc8a4ceccbef36f44509bf",
+      "date": "2026-07-24T22:06:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi P0 missing via fleet desktop-3090",
+      "articles": []
+    },
+    {
+      "hash": "fca6de1fec9f17ef6575700eb191806f5492bd00",
+      "date": "2026-07-24T22:03:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: leak-check 第三家族（書名號作品名）＋dispatch 隔離前存證",
+      "articles": []
+    },
+    {
+      "hash": "45140a08acf5fa6d7ef90b5e30bdd583b37df18f",
+      "date": "2026-07-24T21:41:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi P0 missing via fleet desktop-3090",
+      "articles": []
+    },
+    {
+      "hash": "5ca4bea176175dafa9ff5f6f911a72bde951fe1d",
+      "date": "2026-07-24T21:38:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "142d249c98a0d0c3657fd00ef9176d56495d0c52",
+      "date": "2026-07-24T21:29:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: SQUEEZE pipeline v4.6 — 統一調度器與今日工具鏈進化收進 canonical",
+      "articles": []
+    },
+    {
+      "hash": "4dc24466bb98ba2c06edd385d5eb8c87a716813c",
+      "date": "2026-07-24T21:27:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: marker 修復後再救回 2 篇 ja/ko 譯文（引述誤判類）",
+      "articles": []
+    },
+    {
+      "hash": "a438c31908e395404b69f25a6e03b7f63a49cd09",
+      "date": "2026-07-24T21:27:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: cjk-leak-check ja/ko marker 假陽性家族——的/了/一個/淘汰 出表＋引述豁免",
+      "articles": []
+    },
+    {
+      "hash": "362b48cb6d47953c913b7ba73b2a63271586561c",
+      "date": "2026-07-24T21:20:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi P0 missing via fleet desktop-3090",
+      "articles": []
+    },
+    {
+      "hash": "9fbd2f1a91c84c50ddb3e970cbdb8e48cc9f1883",
+      "date": "2026-07-24T21:09:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "02173c5925913c6448eef195e38324c7be543ffd",
+      "date": "2026-07-24T20:56:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: id P0 missing via fleet desktop-3090",
+      "articles": []
+    },
+    {
+      "hash": "20c282717a1b3e095031480c0aafe642c3a645b5",
+      "date": "2026-07-24T20:45:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "articles": []
+    },
+    {
+      "hash": "ff6751fa3ea23baee913e9f1d3080f79cad03655",
+      "date": "2026-07-24T20:44:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 轉址目標 existence-aware — quarantine churn 不再炸 CI",
+      "articles": []
+    },
+    {
+      "hash": "2df53fa2c7b0f358616ff119a71073537de18862",
+      "date": "2026-07-24T20:43:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: babel-dispatch dedupe 規則改為 status-aware",
+      "articles": []
+    },
+    {
+      "hash": "f6054c738a2ffdda4f744b78f250f507aa07e941",
+      "date": "2026-07-24T20:41:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 放寬還原 gate 救回 49 篇被降級刪除的譯文",
+      "articles": []
+    },
+    {
+      "hash": "efac9a4a8c088781dfeb5bdd3362f241312785ec",
+      "date": "2026-07-24T20:29:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: id P0 missing via fleet desktop-3090",
+      "articles": []
+    },
+    {
+      "hash": "3ed50eb428920c552e1d0f0351b4a09cfbb455a2",
+      "date": "2026-07-24T20:14:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] tool: babel-dispatch.py 統一調度器 — 本地＋雲端算力同池",
+      "articles": []
+    },
+    {
+      "hash": "918e2f8c81223184c26aed107d441d7fe7caf430",
+      "date": "2026-07-24T20:13:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: cjk-leak-check 括號 gloss 豁免補全形（）——假陽性誤殺主因",
+      "articles": []
+    },
+    {
+      "hash": "d0305d578d17dbf8eee8c3c61b9bc84e1cf218a1",
+      "date": "2026-07-24T20:13:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: en P1 stale refresh (ollama-only, codex unavailable)",
+      "articles": []
+    },
+    {
+      "hash": "b7c39db64eaa51105861e4d5ad6c3d856cb825f5",
+      "date": "2026-07-24T20:11:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: LESSONS — 靜默吞錯家族 instance 14（pre-push hook 層）+ headless 遷移驗證兩課",
+      "articles": []
+    },
+    {
+      "hash": "ae70d575af1ed5217e885062f37af1f94e6ba10d",
+      "date": "2026-07-24T20:10:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 搬進一台不會闔蓋的機器，門牌上是別人的名字",
+      "articles": []
+    },
+    {
+      "hash": "68e9f2251507579f5a9283177574573eb43d1bd0",
+      "date": "2026-07-24T20:09:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: routine 飛輪遷居 mouhouse-macmini — 19 task 搬家、cutover、新家端到端驗證",
+      "articles": []
+    },
+    {
+      "hash": "ef902b37eac9ca7a8246ed35d4a8468ce7e332e1",
+      "date": "2026-07-24T20:11:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: LESSONS — 靜默吞錯家族 instance 14（pre-push hook 層）+ headless 遷移驗證兩課",
+      "articles": []
+    },
+    {
+      "hash": "e5831dfdbbb0a7c733a2cd2c33c54d6b3677e82b",
+      "date": "2026-07-24T20:10:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 搬進一台不會闔蓋的機器，門牌上是別人的名字",
+      "articles": []
+    },
+    {
+      "hash": "280a51195c07fd13ca941d44f31ac7c21376d086",
+      "date": "2026-07-24T20:09:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: routine 飛輪遷居 mouhouse-macmini — 19 task 搬家、cutover、新家端到端驗證",
+      "articles": []
+    },
+    {
+      "hash": "9012e5b9fbc0f8ab7c57624bccbdcdb90aa2093b",
+      "date": "2026-07-24T20:06:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi 批次 2 篇（unified dispatcher, worker=nemo）",
+      "articles": []
+    },
+    {
+      "hash": "965f23bce13210ee279133f9cbe8828e15eccdf5",
+      "date": "2026-07-24T20:05:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "ea42ee32315da1e16b1a6d233f271d696256fb60",
+      "date": "2026-07-24T20:04:50+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: routine 飛輪遷居 go-live — mouhouse-macmini 接手 15 條 scheduled task",
+      "articles": []
+    },
+    {
+      "hash": "ff358c1ed8c623ed81d76beb3da31ff1d75cdd67",
+      "date": "2026-07-24T19:59:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: go-live verification run (mouhouse-macmini) — 2026-07-24",
+      "articles": []
+    },
+    {
+      "hash": "a389460ece358340acf450c8169a235cbc206374",
+      "date": "2026-07-24T19:47:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: en P1 stale refresh (ollama-only, codex unavailable)",
+      "articles": []
+    },
+    {
+      "hash": "96f89e2db8b88e8fd890c14c688fb7fcdb4651e6",
+      "date": "2026-07-24T19:42:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi 批次 1 篇（unified dispatcher, worker=gemma31）",
+      "articles": []
+    },
+    {
+      "hash": "6ae983d8e940269d39325480472b248672dab07c",
+      "date": "2026-07-24T19:40:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi P0 missing via fleet laptop-4090",
+      "articles": []
+    },
+    {
+      "hash": "fbefd7dd8845a23caa2a2ad65877b0b587bbf341",
+      "date": "2026-07-24T19:30:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi 批次 1 篇（unified dispatcher, worker=mac）",
+      "articles": []
+    },
+    {
+      "hash": "5fc8b0e769b38a475c6e948a802193aca2f1ddd7",
+      "date": "2026-07-24T19:25:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: id P0 missing via fleet desktop-3090",
+      "articles": []
+    },
+    {
+      "hash": "794bb18cb411167bcb4a020c627ad14516ac33f3",
+      "date": "2026-07-24T19:19:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: en P1 stale refresh (ollama-only, codex unavailable)",
+      "articles": []
+    },
+    {
+      "hash": "b44c49b7b7ffc8eb72fee82be211d447bd316ea5",
+      "date": "2026-07-24T19:09:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi P0 missing via fleet laptop-4090",
+      "articles": []
+    },
     {
       "hash": "f68fa6db0a9f5a06d4da340e7fd098214e5e1284",
       "date": "2026-07-24T19:00:40+08:00",

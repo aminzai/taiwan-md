@@ -1,12 +1,12 @@
 {
-  "totalArticles": 5338,
+  "totalArticles": 5413,
   "totalCategories": 24,
   "estimatedContributors": 67,
-  "totalTags": 5443,
+  "totalTags": 5479,
   "categories": [
     {
       "name": "es",
-      "count": 858
+      "count": 859
     },
     {
       "name": "ko",
@@ -17,20 +17,20 @@
       "count": 862
     },
     {
+      "name": "en",
+      "count": 833
+    },
+    {
       "name": "ja",
       "count": 856
     },
     {
-      "name": "en",
-      "count": 816
-    },
-    {
       "name": "vi",
-      "count": 57
+      "count": 70
     },
     {
       "name": "hi",
-      "count": 49
+      "count": 65
     },
     {
       "name": "History",
@@ -90,11 +90,11 @@
     },
     {
       "name": "pt",
-      "count": 53
+      "count": 68
     },
     {
       "name": "id",
-      "count": 66
+      "count": 79
     },
     {
       "name": "resources",
@@ -108,7 +108,7 @@
     },
     {
       "name": "人物",
-      "count": 64
+      "count": 65
     },
     {
       "name": "企業",
@@ -147,6 +147,10 @@
       "count": 24
     },
     {
+      "name": "台灣",
+      "count": 24
+    },
+    {
       "name": "政治",
       "count": 23
     },
@@ -177,20 +181,16 @@
     {
       "name": "文化",
       "count": 23
-    },
-    {
-      "name": "台灣",
-      "count": 23
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5338,
+    "zh-TW": 5413,
     "en": 0
   },
-  "lastUpdated": "2026-07-24T11:57:28.425Z",
+  "lastUpdated": "2026-07-24T15:10:53.095Z",
   "stars": 1115,
   "forks": 168,
   "zhPages": 860,
-  "enPages": 816,
+  "enPages": 833,
   "totalPages": 860
 }
