@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T01:31:36+08:00",
-    "zhCommitHead": "7b76dd224",
+    "lastUpdated": "2026-07-25T01:40:42+08:00",
+    "zhCommitHead": "8a8979efe",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -75,18 +75,18 @@
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 92,
+        "fresh": 97,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 759,
+        "missing": 754,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 91,
+        "fresh": 93,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 763,
+        "missing": 761,
         "orphan": 0
       },
       "ar": {
@@ -8941,7 +8941,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/agricultural-technology-and-refined-agriculture.md",
+          "translatedFrom": "Economy/農業科技與精緻農業.md",
+          "sourceCommitSha": "3mut298aba",
+          "sourceContentHash": "sha256:19b72b95becb40d7",
+          "sourceBodyHash": "sha256:966a2693a6cccc59",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "hi": {
           "status": "missing"
@@ -27946,7 +27957,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taipei-rat-problem.md",
+          "translatedFrom": "Society/台北鼠患.md",
+          "sourceCommitSha": "44b9afeef",
+          "sourceContentHash": "sha256:ea94b427916538a7",
+          "sourceBodyHash": "sha256:bcba667c74795d16",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taipei-rat-problem.md",
@@ -62779,8 +62801,8 @@
           "sourceContentHash": "sha256:fb71e3bcf0475f2e",
           "sourceBodyHash": "sha256:6b96e9e6687dd8c3",
           "translatedAt": "2026-07-25T00:12:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c2de7d80",
+          "translationLastModified": "2026-07-25T01:31:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -70230,10 +70252,32 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/tamkang-high-school.md",
+          "translatedFrom": "History/淡江中學.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6515803df49cd854",
+          "sourceBodyHash": "sha256:68be41dd8378b384",
+          "translatedAt": "2026-07-25T01:31:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/tamkang-high-school.md",
+          "translatedFrom": "History/淡江中學.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6515803df49cd854",
+          "sourceBodyHash": "sha256:68be41dd8378b384",
+          "translatedAt": "2026-07-25T01:31:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -72407,7 +72451,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/alishan-empire-forest-and-uongu-yatauyungana.md",
+          "translatedFrom": "History/阿里山：帝國的林場與高一生的山.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:e62d0eea59514d87",
+          "sourceBodyHash": "sha256:a7df3087b3ccbab6",
+          "translatedAt": "2026-07-25T01:31:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -73080,7 +73135,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taiwan-transitional-justice.md",
+          "translatedFrom": "History/台灣轉型正義.md",
+          "sourceCommitSha": "7c73f6a55",
+          "sourceContentHash": "sha256:c532a9d9d95ccbcaaf",
+          "sourceBodyHash": "sha256:530ea0ffb4d07e77",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -80419,8 +80485,8 @@
           "sourceContentHash": "sha256:1c19912f3b7cdf1b",
           "sourceBodyHash": "sha256:ff4a4e3156ba7d86",
           "translatedAt": "2026-07-25T00:12:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c2de7d80",
+          "translationLastModified": "2026-07-25T01:31:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -82689,7 +82755,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/dcard-taiwan-social-platform.md",
+          "translatedFrom": "Culture/Dcard.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a0a6e4b6f985e523",
+          "sourceBodyHash": "sha256:0cbd55ce25cb1102",
+          "translatedAt": "2026-07-25T01:31:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/dcard-taiwan-social-platform.md",
@@ -86626,8 +86703,8 @@
           "sourceContentHash": "sha256:1b722cc963da8ad2",
           "sourceBodyHash": "sha256:b8e419f98d87f2d4",
           "translatedAt": "2026-07-25T00:12:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c2de7d80",
+          "translationLastModified": "2026-07-25T01:31:36+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
