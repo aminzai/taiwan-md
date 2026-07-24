@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T04:21:21+08:00",
-    "zhCommitHead": "68e38a441",
+    "lastUpdated": "2026-07-25T04:46:07+08:00",
+    "zhCommitHead": "625552d70",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -59,34 +59,34 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 72,
+        "fresh": 73,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 782,
+        "missing": 781,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 103,
-        "stale": 7,
+        "fresh": 106,
+        "stale": 6,
         "metadata_stale": 0,
-        "missing": 752,
-        "orphan": 0
+        "missing": 750,
+        "orphan": 1
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 132,
+        "fresh": 134,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 720,
+        "missing": 718,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 116,
+        "fresh": 119,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 738,
+        "missing": 735,
         "orphan": 0
       },
       "ar": {
@@ -113,7 +113,7 @@
       "es": [],
       "fr": [],
       "vi": [],
-      "id": [],
+      "id": ["id/Geography/kaohsiung-city.md"],
       "pt": [],
       "hi": [],
       "ar": [],
@@ -17704,18 +17704,16 @@
         "id": {
           "path": "id/Art/mountain-makers-tsmc-documentary.md",
           "translatedFrom": "Art/造山者世紀的賭注.md",
-          "sourceCommitSha": "349e7b4fa",
-          "sourceContentHash": "sha256:6be45e1cb9e9d665",
-          "sourceBodyHash": "sha256:e381e9da7e6b89c3",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
+          "sourceCommitSha": "36b472955",
+          "sourceContentHash": "sha256:04951f7f999b2b98",
+          "sourceBodyHash": "sha256:3df28689a2b61ed4",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
           "translationLastCommit": "f6054c73",
           "translationLastModified": "2026-07-24T20:41:47+08:00",
           "inferred": false,
           "footnoteDefs": 49,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+18 -18"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/mountain-makers-tsmc-documentary.md",
@@ -21930,7 +21928,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/taiwan-hairstyles.md",
+          "translatedFrom": "Lifestyle/台灣髮型介紹.md",
+          "sourceCommitSha": "490742919",
+          "sourceContentHash": "sha256:f7d7ed191773a287",
+          "sourceBodyHash": "sha256:2b50ba6e77e00416",
+          "translatedAt": "2026-07-25T03:42:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Lifestyle/taiwan-hairstyles.md",
@@ -22638,7 +22647,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/taiwan-bus-system.md",
+          "translatedFrom": "Lifestyle/台灣的公車系統.md",
+          "sourceCommitSha": "036f4f3f2",
+          "sourceContentHash": "sha256:6350fb8cfb489452",
+          "sourceBodyHash": "sha256:03dd96b03caf8931",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -63097,7 +63117,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/chen-tzu-jian.md",
+          "translatedFrom": "People/陳子見.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b4ed377dcae75954",
+          "sourceBodyHash": "sha256:5225e3163bb10fe2",
+          "translatedAt": "2026-07-25T03:42:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -63201,8 +63232,8 @@
           "sourceContentHash": "sha256:8741429d614846be",
           "sourceBodyHash": "sha256:3713eaac6b565ca6",
           "translatedAt": "2026-07-25T03:42:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67c0b19c",
+          "translationLastModified": "2026-07-25T04:21:22+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -64170,8 +64201,8 @@
           "sourceContentHash": "sha256:4ee811968726954e",
           "sourceBodyHash": "sha256:eac4101c04e140f1",
           "translatedAt": "2026-07-25T03:42:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67c0b19c",
+          "translationLastModified": "2026-07-25T04:21:22+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -67259,8 +67290,8 @@
           "sourceContentHash": "sha256:9645370116faf0ce",
           "sourceBodyHash": "sha256:e335b1f6c8cbb675",
           "translatedAt": "2026-07-25T03:42:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67c0b19c",
+          "translationLastModified": "2026-07-25T04:21:22+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -69997,7 +70028,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/yuan-xing-cattle-beef-soup-history.md",
+          "translatedFrom": "History/源興牛與牛肉湯的歷史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ed10e8c11ed48896",
+          "sourceBodyHash": "sha256:4ef8874799781420",
+          "translatedAt": "2026-07-25T03:42:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -72841,7 +72883,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/alishan-empire-forest-and-uongu-yatauyungana.md",
+          "translatedFrom": "History/阿里山：帝國的林場與高一生的山.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:e62d0eea59514d87",
+          "sourceBodyHash": "sha256:a7df3087b3ccbab6",
+          "translatedAt": "2026-07-25T03:42:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/alishan-empire-forest-and-uongu-yatauyungana.md",
@@ -80709,8 +80762,8 @@
           "sourceContentHash": "sha256:2b98bb25fe4e7d4a",
           "sourceBodyHash": "sha256:d565775868e89ffc",
           "translatedAt": "2026-07-25T03:42:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67c0b19c",
+          "translationLastModified": "2026-07-25T04:21:22+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -81772,7 +81825,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/sun-moon-lake.md",
+          "translatedFrom": "Geography/日月潭.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:38e87349431f9040",
+          "sourceBodyHash": "sha256:6436714823ccf368",
+          "translatedAt": "2026-07-25T03:42:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -81892,7 +81956,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/how-to-read-the-taiwan-map.md",
+          "translatedFrom": "Geography/台灣地圖怎麼讀.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:098044cbe17d84d6",
+          "sourceBodyHash": "sha256:0dee5d4db7ae7893",
+          "translatedAt": "2026-07-25T03:42:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -87141,7 +87216,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/divine-pig-festival.md",
+          "translatedFrom": "Culture/神豬.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4e7bd6002d83c43b",
+          "sourceBodyHash": "sha256:0f6781254171f7ba",
+          "translatedAt": "2026-07-25T03:42:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -89095,8 +89181,8 @@
           "sourceContentHash": "sha256:a2572613f79ed394",
           "sourceBodyHash": "sha256:e10637f3a982deb1",
           "translatedAt": "2026-07-25T03:42:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67c0b19c",
+          "translationLastModified": "2026-07-25T04:21:22+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
