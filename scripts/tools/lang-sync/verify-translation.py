@@ -1,33 +1,48 @@
 #!/usr/bin/env python3
 """
-verify-translation.py — Hard-gate check for a single en translation.
+verify-translation.py — Hard-gate check for a single translation (any target lang).
 
 Agent runs this AFTER assembling the translation, BEFORE commit.
 Exit code != 0 = something is wrong → fix or escalate.
 
+Generalized 2026-07-24 (fleet dispatch quality gate) from an en-only tool.
+Target lang is inferred from the translation path (knowledge/{lang}/...).
+For non-CJK-script targets (en/es/fr/vi/id/pt/hi/...) the CJK-leftover checks
+work as before. For CJK-script targets (ja/ko — kanji/hanja legitimately
+overlap the Han unicode range so "has CJK" is not a signal) the same checks
+switch to "field byte-identical to zh source" instead, which is what actually
+flags an untranslated leftover (2026-07-24: ja P1 batch shipped `tags` copied
+verbatim in Traditional Chinese for one article — has_cjk() can't see that on
+a ja target, byte-identity can).
+
 Checks (each 1-line PASS/FAIL):
-  1. en file exists at expected path
+  1. translation file exists at expected path
   2. zh source still exists
-  3. en frontmatter has translatedFrom pointing to zh
-  4. en frontmatter has sourceCommitSha (≥ 7 hex / or "pre-toolkit")
-  5. en frontmatter has sourceContentHash (sha256: prefix + 16 hex)
-  6. en frontmatter has translatedAt (ISO 8601)
-  7. zh + en frontmatter passthrough fields match (author, date, featured,
+  3. frontmatter has translatedFrom pointing to zh
+  4. frontmatter has sourceCommitSha (≥ 7 hex / or "pre-toolkit")
+  5. frontmatter has sourceContentHash (sha256: prefix + 16 hex)
+  6. frontmatter has translatedAt (ISO 8601)
+  7. zh + translation frontmatter passthrough fields match (author, date, featured,
      readingTime, lastVerified, lastHumanReview, category, subcategory,
      image, imageCredit) — only deviations: title / description / imageAlt
   8. translation-ratio-check passes (OK, not TRUNCATED / THIN)
-  9. footnote count matches between zh and en
-  10. ## section count matches between zh and en (±1 tolerance)
-  11. URL count matches (zh vs en) — URLs preserved
+  9. footnote count matches between zh and translation
+  10. ## section count matches between zh and translation (±1 tolerance)
+  11. URL count matches (zh vs translation) — URLs preserved
   12. No `---\n_References:_\n` duplication (would have been adjacent)
-  13. No raw zh CJK in en `title` / `description` / `imageAlt` frontmatter fields
-  14. No untranslated frontmatter `tags` (each tag should be ASCII slug-case)
+  13. title/description/imageAlt not left untranslated (CJK-leftover check for
+      non-CJK targets; byte-identical-to-zh check for ja/ko targets)
+  14. tags not left untranslated (same dual strategy as #13)
   15. translatedFromInferred is bool
+  16. no accidentally-quoted scalar types (readingTime as '11' instead of 11;
+      lastHumanReview/featured as 'false' instead of false — these break the
+      Astro content-collection Zod schema silently until build)
 
 Usage:
-  verify-translation.py <zh_path> <en_path>
+  verify-translation.py <zh_path> <translation_path>
   verify-translation.py Food/牛肉麵.md knowledge/en/Food/beef-noodle-soup.md
-  verify-translation.py --json <zh> <en>           # JSON output
+  verify-translation.py Art/台灣電影.md knowledge/ja/Art/taiwanese-cinema.md
+  verify-translation.py --json <zh> <translation>   # JSON output
 
 Exit codes:
   0 = all PASS
@@ -45,13 +60,17 @@ REPO = Path(__file__).resolve().parent.parent.parent.parent
 KN = REPO / "knowledge"
 
 # Frontmatter fields that MUST match between zh and en (passthrough)
+# NOTE: `subcategory` deliberately excluded (2026-07-24) — it's a rendered
+# taxonomy label (terminology page, graph.astro nodes), not an internal key,
+# so per-language subcategory-i18n.json translation is correct, not drift.
+# Canonical map: src/data/subcategory-i18n.json.
 PASSTHROUGH = [
     "author", "date", "featured", "readingTime",
     "lastVerified", "lastHumanReview", "category",
-    "subcategory", "image", "imageCredit", "difficulty",
+    "image", "imageCredit", "difficulty",
 ]
 # Fields that DIFFER (translated)
-TRANSLATED = ["title", "description", "imageAlt", "tags"]
+TRANSLATED = ["title", "description", "imageAlt", "tags", "subcategory"]
 # Fields that ARE en-specific (added by toolkit)
 EN_ONLY = [
     "translatedFrom", "sourceCommitSha", "sourceContentHash",
@@ -71,6 +90,14 @@ def parse_fm(content: str) -> tuple[dict, str]:
     out = {}
     in_list = None
     for line in fm_text.splitlines():
+        stripped = line.strip()
+        # Bracket-array continuation: `tags:\n  [\n    'a',\n    'b',\n  ]`
+        # (this project's dominant tags style — bare `[`/`]` lines + quoted items)
+        if in_list and stripped in ("[", "]"):
+            continue
+        if in_list and re.match(r"^['\"].*['\"],?$", stripped):
+            out.setdefault(in_list, []).append(stripped.strip(",").strip("'\""))
+            continue
         # Single-line scalar
         m = re.match(r"^(\w+):\s*(.+)$", line)
         if m:
@@ -91,8 +118,20 @@ def parse_fm(content: str) -> tuple[dict, str]:
     return (out, body)
 
 
+# Targets whose own script legitimately overlaps CJK Han (kanji / hanja) —
+# "contains CJK" is not a leftover-untranslated signal for these; byte-identity
+# to the zh source is.
+CJK_SCRIPT_LANGS = {"ja", "ko"}
+
+
 def has_cjk(s: str) -> bool:
     return any("一" <= ch <= "鿿" for ch in str(s))
+
+
+def detect_lang(trans_path: str) -> str:
+    """knowledge/{lang}/... -> lang. Falls back to 'en' (legacy default)."""
+    m = re.match(r"^(?:knowledge/)?([a-z]{2})/", trans_path)
+    return m.group(1) if m else "en"
 
 
 def count_pattern(text: str, pat: str, flags=0) -> int:
@@ -141,6 +180,8 @@ def main():
 
     zh_full = KN / zh_path
     en_full = REPO / en_path
+    lang = detect_lang(en_path)
+    cjk_script_target = lang in CJK_SCRIPT_LANGS
     checks = []
 
     def add(name, level, detail):
@@ -246,8 +287,13 @@ def main():
             capture_output=True, text=True,
         )
         out = r.stdout + r.stderr
-        if "TRUNCATED" in out or "THIN" in out:
-            add("translation ratio", "FAIL", "TRUNCATED / THIN — re-translate")
+        if "TRUNCATED" in out:
+            add("translation ratio", "FAIL", "TRUNCATED — re-translate")
+        elif "THIN" in out:
+            # ratio-check.sh itself treats THIN as WARN ("acceptable for merge +
+            # follow-up"), not a hard block — don't escalate what its own author
+            # didn't escalate.
+            add("translation ratio", "WARN", "THIN — below expected ratio band, spot-check recommended")
         elif " OK " in out or " PASS " in out:
             # Extract ratio
             m = re.search(r"(\d+\.\d+)\s+\x1b", out) or re.search(r"(\d+\.\d+)", out)
@@ -296,35 +342,57 @@ def main():
     else:
         add("no duplicate refs", "PASS", "single block")
 
-    # 13. No CJK in en title/description/imageAlt
-    cjk_fields = []
+    # 13. title/description/imageAlt not left untranslated.
+    #     Non-CJK-script target (en/es/fr/vi/id/pt/hi/...): flag any zh CJK char.
+    #     CJK-script target (ja/ko): kanji/hanja is legitimate, so instead flag
+    #     the field being byte-identical to the zh source (real untranslated leftover).
+    bad_fields = []
     for f in ("title", "description", "imageAlt"):
         v = en_fm.get(f, "")
-        if has_cjk(v):
-            cjk_fields.append(f"{f}: '{v[:30]}'")
-    if cjk_fields:
-        add("frontmatter no zh CJK", "FAIL",
-            f"{len(cjk_fields)} fields have zh: {'; '.join(cjk_fields)}")
+        if not v:
+            continue
+        if cjk_script_target:
+            if zh_fm and v == zh_fm.get(f, object()):
+                bad_fields.append(f"{f}: identical to zh '{v[:30]}'")
+        elif has_cjk(v):
+            bad_fields.append(f"{f}: '{v[:30]}'")
+    if bad_fields:
+        add("frontmatter not untranslated", "FAIL",
+            f"{len(bad_fields)} fields left untranslated: {'; '.join(bad_fields)}")
     else:
-        add("frontmatter no zh CJK", "PASS", "title/desc/alt all en")
+        add("frontmatter not untranslated", "PASS", "title/desc/alt genuinely translated")
 
-    # 14. tags ASCII slug-case
+    # 14. tags not left untranslated (same dual strategy as #13).
+    def parse_tag_list(raw):
+        if isinstance(raw, str):
+            if raw.startswith("["):
+                return re.findall(r"['\"]?([^,'\"\[\]]+?)['\"]?(?=,|\])", raw)
+            return [raw] if raw else []
+        return raw or []
+
     tags = en_fm.get("tags", "")
-    if isinstance(tags, str):
-        # Inline list: [a, b, c] or 'a b c'
-        if tags.startswith("["):
-            tag_list = re.findall(r"['\"]?([^,'\"\[\]]+?)['\"]?(?=,|\])", tags)
-        else:
-            tag_list = [tags]
+    tag_list = parse_tag_list(tags)
+    if cjk_script_target:
+        # Proper nouns (person/place/brand names) are often legitimately identical
+        # zh vs ja/ko (same kanji/hanja). A single overlapping name isn't a signal —
+        # the WHOLE array copied verbatim (the real bug: 2026-07-24 ja P1 batch) is.
+        # Flag only when the majority of tags are untranslated.
+        zh_tag_list = parse_tag_list(zh_fm.get("tags", "")) if zh_fm else []
+        overlap = [t for t in tag_list if t and t in zh_tag_list] if zh_tag_list else []
+        bad_tags = overlap if tag_list and len(overlap) / len(tag_list) >= 0.6 else []
+        label = "tags not identical to zh"
+        detail_ok = f"{len(tag_list)} tags ({len(overlap)} proper-noun overlap with zh, OK)"
     else:
-        tag_list = tags or []
-    bad_tags = [t for t in tag_list if has_cjk(t)]
+        bad_tags = [t for t in tag_list if has_cjk(t)]
+        label = "tags ASCII"
+        detail_ok = f"{len(tag_list)} tags all ASCII"
     if bad_tags:
-        add("tags ASCII", "FAIL", f"{len(bad_tags)} zh tags: {bad_tags[:3]}")
+        add(label, "FAIL",
+            f"{len(bad_tags)}/{len(tag_list)} tags untranslated (≥60% identical to zh source): {bad_tags[:5]}")
     elif not tag_list:
-        add("tags ASCII", "WARN", "no tags found (might be OK)")
+        add(label, "WARN", "no tags found (might be OK)")
     else:
-        add("tags ASCII", "PASS", f"{len(tag_list)} tags all ASCII")
+        add(label, "PASS", detail_ok)
 
     # 15. inferred bool
     inf = en_fm.get("translatedFromInferred", "")
@@ -332,6 +400,21 @@ def main():
         add("inferred bool", "FAIL", f"invalid: '{inf}'")
     else:
         add("inferred bool", "PASS", inf or "(absent — also OK)")
+
+    # 16. no accidentally-quoted scalar types (breaks Astro content-collection
+    # Zod schema silently: readingTime as '11' instead of 11, lastHumanReview /
+    # featured as 'false' instead of false). Raw-line check since parse_fm()
+    # already strips quotes, losing the distinction.
+    quoted_type_bugs = []
+    fm_raw_block = en_content[3:en_content.find("---", 3)] if en_content.startswith("---") else ""
+    for field, kind in (("readingTime", "number"), ("lastHumanReview", "boolean"), ("featured", "boolean")):
+        m = re.search(rf"^{field}:\s*(.+)$", fm_raw_block, re.MULTILINE)
+        if m and re.match(r"^['\"]", m.group(1).strip()):
+            quoted_type_bugs.append(f"{field} ({kind}) quoted as string: {m.group(1).strip()}")
+    if quoted_type_bugs:
+        add("no quoted scalar types", "FAIL", "; ".join(quoted_type_bugs))
+    else:
+        add("no quoted scalar types", "PASS", "readingTime/lastHumanReview/featured unquoted")
 
     return check(checks, args.json) and 1 or (
         2 if any(c["level"] == "WARN" for c in checks) else 0

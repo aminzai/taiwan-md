@@ -7,16 +7,16 @@ category: 'Art'
 subcategory: '電影'
 tags:
   [
-    '電影',
-    '台語片',
-    '台灣新電影',
+    '映画',
+    '台湾語映画',
+    '台湾ニューシネマ',
     '侯孝賢',
-    '楊德昌',
+    '楊徳昌',
     '蔡明亮',
     '李安',
-    '魏德聖',
-    '海角七號',
-    '金馬獎',
+    '魏徳聖',
+    '海角七号',
+    '金馬奨',
   ]
 readingTime: 18
 lastVerified: 2026-06-13
@@ -27,6 +27,10 @@ sourceCommitSha: 'cc6f9d9b3'
 sourceContentHash: 'sha256:b60bd097d9577c55'
 sourceBodyHash: 'sha256:9c00635e5ed9da36'
 translatedAt: '2026-07-24T10:40:42+08:00'
+image: '/article-images/art/tsai-ming-liang-lee-kang-sheng.webp'
+imageCredit: 'hinnk'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 ---
 
 # 台湾の国産映画：スクリーンの脇で語る人物と、死んでまた蘇る映画史
@@ -377,7 +381,7 @@ _『返校』4K予告。白色恐怖をゲームとして撮影し、さらに�
 
 [^57]: [KANO - 維基百科](https://zh.wikipedia.org/wiki/KANO) — 『KANO』（2014年）は馬志翔監督、魏徳聖プロデュース。1931年の嘉農棒球隊が甲子園へ進出する物語を語った。
 
-[^58]: [那些年／我的少女時代 票房 - 維基百科](https://zh.wikipedia.org/wiki/%E9%82%A3%E4%BA%9B%E5%B9%B4%EF%BC%8C%E6%88%91%E5%80%91%E4%B8%80%E8%B5%B7%E8%BF%BD%E7%9A%84%E5%A5%B3%E5%AD%A4) — 『那些年，我們一起追的女孩』（2011年、九把刀）は台湾で4億2,500万。香港史上最も売れた華語映画の一つ。『艋舺』（2010年）、『我的少女時代』（2015年）は台湾で4億1,000万。
+[^58]: [那些年／我的少女時代 票房 - 維基百科](https://zh.wikipedia.org/wiki/%E9%82%A3%E4%BA%9B%E5%B9%B4%EF%BC%8C%E6%88%91%E5%80%91%E4%B8%80%E8%B5%B7%E8%BF%BD%E7%9A%84%E5%A5%B3%E5%AD%A9) — 『那些年，我們一起追的女孩』（2011年、九把刀）は台湾で4億2,500万。香港史上最も売れた華語映画の一つ。『艋舺』（2010年）、『我的少女時代』（2015年）は台湾で4億1,000万。
 
 [^59]: [「国産映画＝興行収入の毒薬」印象 - 報導者／Voicettank](https://www.twreporter.org/) — 1990年代から2007年の間、「国産映画＝興行収入の毒薬」は台湾社会が国産映画に対して持っていた普遍的な集団的イメージとなった。
 
@@ -420,9 +424,9 @@ _『返校』4K予告。白色恐怖をゲームとして撮影し、さらに�
 本稿では4枚の写真を使用し、すべて `public/article-images/art/` にキャッシュし、ホットリンクによる来源サーバーへの負荷を回避した：
 
 - [蔡明亮と李康生（『日子』）](<https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg>) — Photo: hinnk, CC BY-SA 3.0（ヒーロー画像）
-- 『莎韻之鐘』劇写真 — 松竹／満映, パブリックドメイン
-- 侯孝賢 1989年 ヴェネツィア金獅子賞授賞式 — Photo: Gorup de Besanez, CC BY-SA 4.0
-- 李安 2009年 ヴェネツィア映画祭 — Photo: nicolas genin, CC BY-SA 2.0
+- [『莎韻之鐘』劇写真](https://commons.wikimedia.org/wiki/File:%E8%8E%8E%E5%8B%87%E4%B9%8B%E9%90%98.jpg) — 松竹／満映, パブリックドメイン
+- [侯孝賢 1989年 ヴェネツィア金獅子賞授賞式](https://commons.wikimedia.org/wiki/File:1989_Venice_film_festival_Hou_Hsiao-hsien_winner_of_the_Gold_Lion.jpg) — Photo: Gorup de Besanez, CC BY-SA 4.0
+- [李安 2009年 ヴェネツィア映画祭](https://commons.wikimedia.org/wiki/File:Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg) — Photo: nicolas genin, CC BY-SA 2.0
 
 ## 延伸阅读
 

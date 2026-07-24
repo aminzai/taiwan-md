@@ -27,6 +27,10 @@ sourceCommitSha: 'ecb3f6520'
 sourceContentHash: 'sha256:a7dc8d1152c0f436'
 sourceBodyHash: 'sha256:5272c869278fa371'
 translatedAt: '2026-07-24T10:40:42+08:00'
+image: '/article-images/people/hsu-cho-yun-academia-sinica-hero.webp'
+imageCredit: 'Academia Sinica'
+imageLicense: 'Attribution (Wikimedia Commons)'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Cho-Yun_Hsu_%E8%A8%B1%E5%80%AC%E9%9B%B2.jpg'
 ---
 
 # 許倬雲：二つの指で中国史の長河を綴る、王力宏の七舅公の九十五年

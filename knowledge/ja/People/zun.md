@@ -14,15 +14,17 @@ tags:
     '人生肥宅',
     'デジタル文化',
   ]
-readingTime: '11'
-lastVerified: '2026-07-15'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 11
+lastVerified: 2026-07-15
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/尊.md'
 sourceCommitSha: '16c428cd9'
 sourceContentHash: 'sha256:94b77718dfa4da62'
 sourceBodyHash: 'sha256:5579d8d02a3f58ac'
 translatedAt: '2026-07-24T10:40:42+08:00'
+image: '/article-images/people/zun-new-home-2025.webp'
+imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
 ---
 
 > **30秒概要：**
