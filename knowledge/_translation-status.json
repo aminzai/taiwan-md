@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T00:54:21+08:00",
-    "zhCommitHead": "19b58eb71",
+    "lastUpdated": "2026-07-25T01:11:38+08:00",
+    "zhCommitHead": "12216fde0",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -59,34 +59,34 @@
       },
       "vi": {
         "total_zh": 862,
-        "fresh": 63,
+        "fresh": 64,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 783,
+        "missing": 782,
         "orphan": 0
       },
       "id": {
         "total_zh": 862,
-        "fresh": 82,
+        "fresh": 84,
         "stale": 14,
         "metadata_stale": 0,
-        "missing": 766,
+        "missing": 764,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 81,
+        "fresh": 87,
         "stale": 13,
         "metadata_stale": 0,
-        "missing": 768,
+        "missing": 762,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 82,
+        "fresh": 91,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 772,
+        "missing": 763,
         "orphan": 0
       },
       "ar": {
@@ -2601,7 +2601,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/chthonic.md",
+          "translatedFrom": "Music/閃靈.md",
+          "sourceCommitSha": "087677fae",
+          "sourceContentHash": "sha256:428539ef61aee065",
+          "sourceBodyHash": "sha256:ca8382bb6533d023",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -8866,8 +8877,8 @@
           "sourceContentHash": "sha256:19b72b95becb40d7",
           "sourceBodyHash": "sha256:966a2693a6cccc59",
           "translatedAt": "2026-07-25T00:50:11+08:00",
-          "translationLastCommit": "3521fd77",
-          "translationLastModified": "2026-05-17T06:34:49+08:00",
+          "translationLastCommit": "12216fde",
+          "translationLastModified": "2026-07-25T00:54:21+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -14199,7 +14210,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-electricity-and-semiconductors.md",
+          "translatedFrom": "Technology/台灣的電力與半導體.md",
+          "sourceCommitSha": "250410eae",
+          "sourceContentHash": "sha256:739eb8c857d7b377",
+          "sourceBodyHash": "sha256:814f9eb8b97792cf",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -23397,7 +23419,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/tour-bus.md",
+          "translatedFrom": "Lifestyle/遊覽車.md",
+          "sourceCommitSha": "42b42a934",
+          "sourceContentHash": "sha256:f828da7d0eb39776",
+          "sourceBodyHash": "sha256:c0de350ac39dbee0",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -29551,7 +29584,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-disaster-volunteer-culture.md",
+          "translatedFrom": "Society/台灣災難志工文化.md",
+          "sourceCommitSha": "ae0bea081",
+          "sourceContentHash": "sha256:c3e60eb6650d8dfb",
+          "sourceBodyHash": "sha256:260082957a9cf952",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -48858,7 +48902,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/yani-tseng.md",
+          "translatedFrom": "People/曾雅妮.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:890dbecd669ee83c",
+          "sourceBodyHash": "sha256:480fe5c7e2becbe9",
+          "translatedAt": "2026-07-25T00:12:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/yani-tseng.md",
@@ -54191,7 +54246,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/ya-hsien-poet.md",
+          "translatedFrom": "People/瘂弦.md",
+          "sourceCommitSha": "b54335d00",
+          "sourceContentHash": "sha256:736443e43dba4c29",
+          "sourceBodyHash": "sha256:b6b66329e69543f7",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -54395,7 +54461,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/chen-shui-bian-controversial-president.md",
+          "translatedFrom": "People/陳水扁.md",
+          "sourceCommitSha": "eae11d139",
+          "sourceContentHash": "sha256:9e6735e34473c2b",
+          "sourceBodyHash": "sha256:be5f4cfa04f53c22",
+          "translatedAt": "2026-07-24T21:09:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/chen-shui-bian-controversial-president.md",
@@ -68132,7 +68209,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-banquet-culture.md",
+          "translatedFrom": "Food/台灣辦桌文化.md",
+          "sourceCommitSha": "26a67c779",
+          "sourceContentHash": "sha256:87996856be7f510f",
+          "sourceBodyHash": "sha256:dc734b24b423e098",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -74408,7 +74496,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taiwan-north-korea-relations.md",
+          "translatedFrom": "History/台灣與北朝鮮關係.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:2a45417c9b5c2cf0",
+          "sourceBodyHash": "sha256:4dc13793ac08242f",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -75416,7 +75515,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/yilan-county.md",
+          "translatedFrom": "Geography/宜蘭縣.md",
+          "sourceCommitSha": "7f3ddf123",
+          "sourceContentHash": "sha256:339ea6f63f12308d",
+          "sourceBodyHash": "sha256:13a49441594ebd54",
+          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -76265,7 +76375,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/administrative-divisions-of-taiwan.md",
+          "translatedFrom": "Geography/台灣行政區劃.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:349360e6f67e2293",
+          "sourceBodyHash": "sha256:a900fc355006c673",
+          "translatedAt": "2026-07-25T00:12:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -82204,7 +82325,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwanese-shadow-puppetry.md",
+          "translatedFrom": "Culture/皮影戲.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5a4d0fb0959c27ae",
+          "sourceBodyHash": "sha256:795653ceb8bee8f7",
+          "translatedAt": "2026-07-25T00:12:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -82489,16 +82621,49 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/dcard-taiwan-social-platform.md",
+          "translatedFrom": "Culture/Dcard.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a0a6e4b6f985e523",
+          "sourceBodyHash": "sha256:0cbd55ce25cb1102",
+          "translatedAt": "2026-07-25T00:11:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/dcard-taiwan-social-platform.md",
+          "translatedFrom": "Culture/Dcard.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a0a6e4b6f985e523",
+          "sourceBodyHash": "sha256:0cbd55ce25cb1102",
+          "translatedAt": "2026-07-25T00:11:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/dcard-taiwan-social-platform.md",
+          "translatedFrom": "Culture/Dcard.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a0a6e4b6f985e523",
+          "sourceBodyHash": "sha256:0cbd55ce25cb1102",
+          "translatedAt": "2026-07-25T00:12:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -86169,7 +86334,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/taiwanese-glove-puppetry-budaixi.md",
+          "translatedFrom": "Culture/布袋戲.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:90bff79aa4402b0e",
+          "sourceBodyHash": "sha256:79bbd46fe867d775",
+          "translatedAt": "2026-07-25T00:11:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/taiwanese-glove-puppetry-budaixi.md",
@@ -86281,7 +86457,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/divine-pig-festival.md",
+          "translatedFrom": "Culture/神豬.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4e7bd6002d83c43b",
+          "sourceBodyHash": "sha256:0f6781254171f7ba",
+          "translatedAt": "2026-07-25T00:12:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -86630,7 +86817,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-funeral-culture-and-death-views.md",
+          "translatedFrom": "Culture/台灣殯葬文化與生死觀.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c4dd3375c0cfa0a5",
+          "sourceBodyHash": "sha256:a20df4f3c36414b3",
+          "translatedAt": "2026-07-25T00:12:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"

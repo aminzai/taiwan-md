@@ -402,7 +402,11 @@ a.ga-page-row-link:hover .ga-page-name {
 }
 @media (max-width: 768px) {
   .analytics-totals {
-    grid-template-columns: repeat(3, 1fr);
+    /* minmax(0, 1fr) — bare 1fr has an implicit auto minimum equal to
+       the widest stat value's intrinsic width (e.g. "393,283"), which
+       forced this grid past its own container and got silently clipped
+       by main.dashboard's overflow-x:clip instead of wrapping/shrinking. */
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
   .ga-mini-row {
     flex-direction: column;
@@ -432,5 +436,14 @@ a.ga-page-row-link:hover .ga-page-name {
   }
   .ga-page-name {
     font-size: 0.78rem;
+  }
+}
+
+@media (max-width: 480px) {
+  /* 3 columns at this width leaves ~105px per stat card, too narrow for
+     6-7 digit values like "393,283" even after the minmax(0,1fr) fix
+     above — drop to 2 columns (3 rows) so numbers stay single-line. */
+  .analytics-totals {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }

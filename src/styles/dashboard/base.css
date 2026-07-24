@@ -80,7 +80,12 @@
 
 @media (max-width: 1024px) {
   .dashboard-body {
-    grid-template-columns: 1fr;
+    /* minmax(0, 1fr), not bare 1fr — a bare 1fr track has an implicit
+       auto minimum equal to its content's intrinsic width, so the
+       non-wrapping toc chip row / feed rows below force the whole
+       track (and everything in it) past the viewport instead of
+       shrinking to let their own overflow-x:auto do the scrolling. */
+    grid-template-columns: minmax(0, 1fr);
   }
   .dashboard-toc {
     position: static;

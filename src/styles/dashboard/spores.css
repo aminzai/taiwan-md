@@ -52,6 +52,43 @@
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
+
+@media (max-width: 640px) {
+  /* #spores-top's 6-col leaderboard (badge/title text + 4 numeric cols) has
+     no room at phone widths; the badge and title cells (free text, no
+     natural break points once <table> squeezes them) were wrapping one
+     CJK character per line instead of truncating. */
+  #spores-top,
+  #spores-platforms {
+    /* #spores-top: even after truncating text columns + dropping one
+       numeric column, the remaining 5 can still run ~50-60px past the
+       viewport on the narrowest phones. #spores-platforms' zh headers
+       (平均觸及 etc.) wrap tolerably at any character, but its en headers
+       ("Avg Views" / "Max Rate") only wrap between the two words and still
+       ran past the viewport. Both were silently clipped by
+       main.dashboard's overflow-x:clip — scroll instead. */
+    overflow-x: auto;
+  }
+  #spores-top .spore-table {
+    font-size: 0.8rem;
+  }
+  #spores-top .spore-table th,
+  #spores-top .spore-table td {
+    padding: 0.4rem 0.3rem;
+  }
+  #spores-top .spore-table td.spore-badge,
+  #spores-top .spore-table td:nth-child(2) {
+    max-width: 30vw;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  /* engagements — lowest-priority column; Views + Rate already carry the signal */
+  #spores-top .spore-table th:nth-child(6),
+  #spores-top .spore-table td:nth-child(6) {
+    display: none;
+  }
+}
 .spore-badge {
   font-weight: 600;
 }
