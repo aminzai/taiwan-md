@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T15:11:07.044Z",
+  "lastUpdated": "2026-07-24T22:14:06.595Z",
   "organs": [
     {
       "id": "heart",
@@ -121,8 +121,8 @@
           "fr": 860,
           "vi": 70,
           "id": 79,
-          "pt": 68,
-          "hi": 65
+          "pt": 79,
+          "hi": 75
         },
         "translationPct": 80,
         "langHealthDetails": {
@@ -281,8 +281,8 @@
               "pct": 108
             },
             "articles": {
-              "count": 68,
-              "pct": 8
+              "count": 79,
+              "pct": 9
             },
             "score": 65
           },
@@ -301,8 +301,8 @@
               "pct": 108
             },
             "articles": {
-              "count": 65,
-              "pct": 8
+              "count": 75,
+              "pct": 9
             },
             "score": 65
           }

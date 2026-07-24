@@ -1,5 +1,5 @@
 {
-  "totalArticles": 5413,
+  "totalArticles": 5434,
   "totalCategories": 24,
   "estimatedContributors": 67,
   "totalTags": 5479,
@@ -30,7 +30,7 @@
     },
     {
       "name": "hi",
-      "count": 65
+      "count": 75
     },
     {
       "name": "History",
@@ -90,7 +90,7 @@
     },
     {
       "name": "pt",
-      "count": 68
+      "count": 79
     },
     {
       "name": "id",
@@ -184,10 +184,10 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5413,
+    "zh-TW": 5434,
     "en": 0
   },
-  "lastUpdated": "2026-07-24T15:10:53.095Z",
+  "lastUpdated": "2026-07-24T22:13:52.576Z",
   "stars": 1115,
   "forks": 168,
   "zhPages": 860,
