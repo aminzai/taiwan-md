@@ -323,3 +323,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-24 | 150709-manual | research-fleet 補完 digest 步驟（OpenRouter→Ollama cascade）；撞到模型下架+REFLEXES #68 vc=4 再驗 | 抽象介面要防兩層漂移；知道規則≠當下用上規則 | [→](memory/2026-07-24-150709-manual.md) |
 | 2026-07-24 | 143931-manual | 排程心跳診斷：check-parallel-actor 抓到 fleet 仍在跑（vi/id/pt/hi 6-7% coverage），無新警報、無到期決策，全程不碰工作樹讓路 | 心跳最有價值的輸出有時是確認不需要介入然後安靜退開 | [→](memory/2026-07-24-143931-manual.md) |
 | 2026-07-24 | 164626-manual | CI/CD 連 3 次部署失敗又救回（quarantine 誤斷 hreflang）；三 dispatcher 升 v3；建 discover-free-models.py，5/8 免費模型 PASS | 分層防護各防不同盲點；同一 bug 不同路徑要各補一次 | [→](memory/2026-07-24-164626-manual.md) |
+| 2026-07-24 | 191048-cron-rewrite | twmd-rewrite-daily fire 撞 3 fleet dispatcher + 8 lang-sync writer PID（vi/id/pt/hi 6-7%）；同日 143931 先例讓路；零 commit 零 push | REWRITE §Cron 缺 parallel-actor pre-flight gate vc=4（升 REFLEXES #15 儀器化門檻） | [→](memory/2026-07-24-191048-cron-rewrite.md) |
+| 2026-07-24 | 200542-migration-mouhouse | routine 飛輪遷居 mouhouse-macmini：19 task 搬家、cutover、新家端到端 push 驗證（`ff358c1ed`） | 驗證要驗到真的那層；今晚雙 babel actor 並存注意 #68 | [→](memory/2026-07-24-200542-migration-mouhouse.md) |
