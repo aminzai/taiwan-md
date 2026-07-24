@@ -576,7 +576,13 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
             ["python3", "scripts/tools/lang-sync/heal-passthrough-fields.py",
              zh_path, trans_path],
             cwd=REPO, capture_output=True, text=True)
-        if hr.stdout.strip():
+        if hr.returncode != 0 or "缺檔" in hr.stdout or hr.stderr.strip():
+            # 2026-07-25：首版只看 stdout，heal 因路徑解析 bug 每次失敗卻
+            # 一聲不吭，整輪 0 次生效（今天修了一整天的靜默吞錯，我自己
+            # 在接線時又寫了一個）。失敗一律出聲。
+            log(f"   🔴 passthrough heal 失敗 rc={hr.returncode}: "
+                f"{(hr.stdout + hr.stderr).strip()[:200]}")
+        elif hr.stdout.strip():
             log(f"   🔧 passthrough heal: {hr.stdout.strip()[:150]}")
         ok, fail_reason = verify_one(zh_path, trans_path, log)
         if not ok:

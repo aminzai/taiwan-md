@@ -136,9 +136,22 @@ def main():
 
     if not args.zh_path or not args.trans_path:
         ap.error("需要 <zh_path> <trans_path> 或 --lang X --all")
-    rc, fixed = heal(Path(args.zh_path) if Path(args.zh_path).is_absolute() else REPO / args.zh_path,
-                     Path(args.trans_path) if Path(args.trans_path).is_absolute() else REPO / args.trans_path,
-                     args.check)
+    # 路徑慣例（跟 verify-translation.py / dispatcher 一致）：zh_path 相對
+    # knowledge/（"Geography/花蓮縣.md"），trans_path 相對 repo 根
+    # （"knowledge/es/..."）。2026-07-25 首版把 zh_path 也當相對 repo 根，
+    # 於是 dispatcher 每次呼叫都找不到檔案 —— 而且 dispatcher 那端只看
+    # stdout 不看 returncode，失敗被靜默吞掉，heal 掛了一整輪沒人發現。
+    def resolve(raw: str, knowledge_relative: bool) -> Path:
+        p = Path(raw)
+        if p.is_absolute():
+            return p
+        if (REPO / raw).exists():
+            return REPO / raw
+        if knowledge_relative and (KNOWLEDGE / raw).exists():
+            return KNOWLEDGE / raw
+        return KNOWLEDGE / raw if knowledge_relative else REPO / raw
+
+    rc, fixed = heal(resolve(args.zh_path, True), resolve(args.trans_path, False), args.check)
     if fixed:
         print(("需修：" if args.check else "已修：") + "、".join(fixed))
     return rc
