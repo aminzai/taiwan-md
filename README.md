@@ -50,10 +50,10 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 | ------------------------------ | ----- |
 | 📄 Total articles (zh-TW SSOT) | 860   |
 | 🇹🇼 Chinese (zh-TW)             | 860   |
-| 🇺🇸 English (en)                | 816   |
+| 🇺🇸 English (en)                | 833   |
 | 🇯🇵 日本語 (ja)                 | 856   |
 | 🇰🇷 한국어 (ko)                 | 859   |
-| 🇪🇸 Español (es)                | 858   |
+| 🇪🇸 Español (es)                | 859   |
 | 🇫🇷 Français (fr)               | 862   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
@@ -545,13 +545,13 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/p3nchan"><img src="https://avatars.githubusercontent.com/u/5032148?v=4" width="100px;" alt=""/><br /><sub><b>Penchan</b></sub></a><br />🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/iigmir"><img src="https://avatars.githubusercontent.com/u/11061770?v=4" width="100px;" alt=""/><br /><sub><b>iigmir</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
+    <td align="center"><a href="https://github.com/stantheman0128"><img src="https://avatars.githubusercontent.com/u/79733497?v=4" width="100px;" alt=""/><br /><sub><b>stantheman0128</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/vaiskalivuan"><img src="https://avatars.githubusercontent.com/u/270533697?v=4" width="100px;" alt=""/><br /><sub><b>vaiskalivuan</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/ceruleanstring"><img src="https://avatars.githubusercontent.com/u/265435204?v=4" width="100px;" alt=""/><br /><sub><b>柒藍</b></sub></a><br />🌍</td>
     <td align="center"><a href="https://github.com/gn00295120"><img src="https://avatars.githubusercontent.com/u/30173341?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Wang</b></sub></a><br />💻 🌍</td>
-    <td align="center"><a href="https://github.com/r000tmnt"><img src="https://avatars.githubusercontent.com/u/62630285?v=4" width="100px;" alt=""/><br /><sub><b>ParkCorner</b></sub></a><br />💻 🖋️</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/stantheman0128"><img src="https://avatars.githubusercontent.com/u/79733497?v=4" width="100px;" alt=""/><br /><sub><b>stantheman0128</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/r000tmnt"><img src="https://avatars.githubusercontent.com/u/62630285?v=4" width="100px;" alt=""/><br /><sub><b>ParkCorner</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/Ray0907"><img src="https://avatars.githubusercontent.com/u/29456968?v=4" width="100px;" alt=""/><br /><sub><b>Ray Tien</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/jessejs0202"><img src="https://avatars.githubusercontent.com/u/247524286?v=4" width="100px;" alt=""/><br /><sub><b>jessejs0202</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/siansiansu"><img src="https://avatars.githubusercontent.com/u/33391637?v=4" width="100px;" alt=""/><br /><sub><b>siansiansu</b></sub></a><br />💻 🖋️</td>

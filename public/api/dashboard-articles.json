@@ -132,7 +132,7 @@
       "vi": true,
       "id": false,
       "pt": false,
-      "hi": false
+      "hi": true
     },
     "revision": 4,
     "commitHash": "984fb789",
@@ -167,7 +167,7 @@
       "台灣"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -237,7 +237,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -427,7 +427,7 @@
       "陳添順"
     ],
     "translations": {
-      "en": true,
+      "en": false,
       "ja": true,
       "ko": true,
       "es": true,
@@ -467,7 +467,7 @@
       "文化空間"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -502,7 +502,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": true,
+      "en": false,
       "ja": true,
       "ko": true,
       "es": true,
@@ -619,7 +619,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true
     },
@@ -654,13 +654,13 @@
       "紫藤廬"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
-      "id": false,
+      "vi": true,
+      "id": true,
       "pt": true,
       "hi": true
     },
@@ -782,7 +782,7 @@
       "媽祖"
     ],
     "translations": {
-      "en": true,
+      "en": false,
       "ja": true,
       "ko": true,
       "es": true,
@@ -1026,8 +1026,8 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
-      "id": false,
+      "vi": true,
+      "id": true,
       "pt": false,
       "hi": false
     },
@@ -1063,7 +1063,7 @@
       "資源再利用"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -1105,15 +1105,15 @@
       "高科技"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
-      "id": false,
+      "vi": true,
+      "id": true,
       "pt": false,
-      "hi": true
+      "hi": false
     },
     "revision": 12,
     "commitHash": "d6377e82",
@@ -1183,7 +1183,7 @@
       "vi": false,
       "id": true,
       "pt": false,
-      "hi": false
+      "hi": true
     },
     "revision": 13,
     "commitHash": "879ed9e7",
@@ -1264,7 +1264,7 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": false,
       "hi": false
     },
@@ -1307,7 +1307,7 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": false,
       "hi": false
     },
@@ -1344,14 +1344,14 @@
       "移民飲食"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false
     },
     "revision": 17,
@@ -1584,7 +1584,7 @@
       "vi": true,
       "id": true,
       "pt": false,
-      "hi": false
+      "hi": true
     },
     "revision": 11,
     "commitHash": "70372d3a",
@@ -1665,7 +1665,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false
     },
     "revision": 9,
@@ -1699,7 +1699,7 @@
       "文化地理"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -2120,7 +2120,7 @@
       "二二八"
     ],
     "translations": {
-      "en": true,
+      "en": false,
       "ja": true,
       "ko": true,
       "es": true,
@@ -2279,7 +2279,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": true,
+      "en": false,
       "ja": true,
       "ko": true,
       "es": true,
@@ -2426,7 +2426,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -2476,7 +2476,7 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": false,
       "hi": false
     },
@@ -2705,7 +2705,7 @@
       "en": true,
       "ja": false,
       "ko": false,
-      "es": false,
+      "es": true,
       "fr": true,
       "vi": false,
       "id": false,
@@ -2751,7 +2751,7 @@
       "vi": true,
       "id": true,
       "pt": false,
-      "hi": false
+      "hi": true
     },
     "revision": 15,
     "commitHash": "da9ebaab",
@@ -2778,7 +2778,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -2918,7 +2918,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": true,
+      "en": false,
       "ja": true,
       "ko": true,
       "es": true,
@@ -2988,7 +2988,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": true,
+      "en": false,
       "ja": true,
       "ko": true,
       "es": true,
@@ -3072,7 +3072,7 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": false,
       "hi": false
     },
@@ -3157,9 +3157,9 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": false,
-      "hi": false
+      "hi": true
     },
     "revision": 2,
     "commitHash": "512ce94e",
@@ -3265,7 +3265,7 @@
       "人人有功練"
     ],
     "translations": {
-      "en": true,
+      "en": false,
       "ja": true,
       "ko": true,
       "es": true,
@@ -3312,8 +3312,8 @@
       "ko": true,
       "es": false,
       "fr": true,
-      "vi": false,
-      "id": true,
+      "vi": true,
+      "id": false,
       "pt": true,
       "hi": true
     },
@@ -3377,7 +3377,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -3497,15 +3497,15 @@
       "台灣"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
-      "id": false,
+      "vi": true,
+      "id": true,
       "pt": true,
-      "hi": true
+      "hi": false
     },
     "revision": 16,
     "commitHash": "afc8fbf9",
@@ -3802,7 +3802,7 @@
       "紀弦"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -3844,7 +3844,7 @@
       "熱蘭遮城"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -3886,7 +3886,7 @@
       "創作者勞動"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -4076,13 +4076,13 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": true,
+      "en": false,
       "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": false,
       "hi": false
     },
@@ -4427,7 +4427,7 @@
       "故事媽媽"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -4473,7 +4473,7 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": true,
       "pt": false,
       "hi": false
@@ -4573,7 +4573,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -4608,7 +4608,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": true,
+      "en": false,
       "ja": true,
       "ko": true,
       "es": true,
@@ -4616,7 +4616,7 @@
       "vi": false,
       "id": true,
       "pt": false,
-      "hi": false
+      "hi": true
     },
     "revision": 3,
     "commitHash": "4c15a2b0",
@@ -4763,7 +4763,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -4833,7 +4833,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -4989,7 +4989,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -5059,7 +5059,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -5094,7 +5094,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -5138,7 +5138,7 @@
       "台達電子"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -5181,7 +5181,7 @@
       "台灣科技業"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -5251,7 +5251,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -5291,8 +5291,8 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
-      "id": false,
+      "vi": true,
+      "id": true,
       "pt": true,
       "hi": true
     },
@@ -5403,8 +5403,8 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
-      "id": false,
+      "vi": true,
+      "id": true,
       "pt": true,
       "hi": true
     },
@@ -5483,12 +5483,12 @@
       "供應鏈"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": false,
       "pt": false,
       "hi": false
@@ -5630,7 +5630,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -5672,7 +5672,7 @@
       "著作權"
     ],
     "translations": {
-      "en": true,
+      "en": false,
       "ja": true,
       "ko": true,
       "es": true,
@@ -15065,7 +15065,7 @@
       "vi": false,
       "id": false,
       "pt": false,
-      "hi": false
+      "hi": true
     },
     "revision": 4,
     "commitHash": "4cd497a8",
@@ -15215,8 +15215,8 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
-      "pt": false,
+      "id": true,
+      "pt": true,
       "hi": false
     },
     "revision": 4,
@@ -18611,8 +18611,8 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
-      "hi": false
+      "pt": true,
+      "hi": true
     },
     "revision": 2,
     "commitHash": "64b5ebd9",
@@ -19871,7 +19871,7 @@
       "經典迷因"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -22009,7 +22009,7 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": false,
       "pt": false,
       "hi": false
@@ -22202,7 +22202,7 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": false,
       "pt": false,
       "hi": false
@@ -22841,7 +22841,7 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": false,
       "pt": false,
       "hi": false
@@ -22878,8 +22878,8 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
-      "hi": false
+      "pt": true,
+      "hi": true
     },
     "revision": 3,
     "commitHash": "82e98bfd",
@@ -23202,8 +23202,8 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
-      "hi": false
+      "pt": true,
+      "hi": true
     },
     "revision": 11,
     "commitHash": "a57fd774",
@@ -23245,8 +23245,8 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
-      "hi": false
+      "pt": true,
+      "hi": true
     },
     "revision": 13,
     "commitHash": "a57fd774",
@@ -23901,8 +23901,8 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
-      "hi": false
+      "pt": true,
+      "hi": true
     },
     "revision": 5,
     "commitHash": "3c64c560",
@@ -24292,7 +24292,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false
     },
     "revision": 11,
@@ -24539,8 +24539,8 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
-      "hi": false
+      "pt": true,
+      "hi": true
     },
     "revision": 9,
     "commitHash": "b2b2903a",
@@ -24908,7 +24908,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false
     },
     "revision": 2,
@@ -25204,7 +25204,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false
     },
     "revision": 5,
@@ -25641,7 +25641,7 @@
       "vi": false,
       "id": false,
       "pt": false,
-      "hi": false
+      "hi": true
     },
     "revision": 11,
     "commitHash": "49cca9cc",
@@ -26314,8 +26314,8 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
-      "hi": false
+      "pt": true,
+      "hi": true
     },
     "revision": 8,
     "commitHash": "07da0ecc",
@@ -28677,7 +28677,7 @@
       "fr": true,
       "vi": true,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false
     },
     "revision": 5,
@@ -31642,7 +31642,7 @@
       "fr": true,
       "vi": false,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": false
     },
     "revision": 2,
@@ -31760,7 +31760,7 @@
       "vi": false,
       "id": true,
       "pt": false,
-      "hi": false
+      "hi": true
     },
     "revision": 2,
     "commitHash": "",
@@ -32135,7 +32135,7 @@
       "vi": false,
       "id": true,
       "pt": false,
-      "hi": false
+      "hi": true
     },
     "revision": 2,
     "commitHash": "",
@@ -32538,7 +32538,7 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": false,
       "pt": false,
       "hi": false
@@ -33727,7 +33727,7 @@
       "vi": true,
       "id": false,
       "pt": false,
-      "hi": false
+      "hi": true
     },
     "revision": 2,
     "commitHash": "",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24T15:04:20.314Z",
+  "generated_at": "2026-07-24T16:08:05.689Z",
   "routines": {
-    "fetched_at": "2026-07-18T06:14:23+08:00",
-    "stale_hours": 160.8,
+    "fetched_at": "2026-07-24T23:13:03+08:00",
+    "stale_hours": 0.9,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -12,10 +12,6 @@
         "status": "down",
         "last_fire": "2026-07-19T07:08:20+08:00",
         "grid14": [
-          {
-            "date": "2026-07-11",
-            "state": "fired"
-          },
           {
             "date": "2026-07-12",
             "state": "fired"
@@ -67,6 +63,10 @@
           {
             "date": "2026-07-24",
             "state": "missed"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       },
@@ -79,10 +79,6 @@
         "last_fire": "2026-07-19T00:38:37+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "fired"
-          },
-          {
             "date": "2026-07-12",
             "state": "fired"
           },
@@ -133,6 +129,10 @@
           {
             "date": "2026-07-24",
             "state": "missed"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       },
@@ -145,10 +145,6 @@
         "last_fire": "2026-07-19T06:12:25+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "fired"
-          },
-          {
             "date": "2026-07-12",
             "state": "fired"
           },
@@ -199,6 +195,10 @@
           {
             "date": "2026-07-24",
             "state": "missed"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       },
@@ -211,10 +211,6 @@
         "last_fire": "2026-07-17T23:12:19+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "fired"
-          },
-          {
             "date": "2026-07-12",
             "state": "fired"
           },
@@ -265,6 +261,10 @@
           {
             "date": "2026-07-24",
             "state": "missed"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       },
@@ -277,10 +277,6 @@
         "last_fire": "2026-07-19T03:08:48+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-12",
             "state": "fired"
           },
@@ -330,6 +326,10 @@
           },
           {
             "date": "2026-07-24",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-25",
             "state": "idle"
           }
         ]
@@ -343,10 +343,6 @@
         "last_fire": "2026-07-19T05:21:30+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "fired"
-          },
-          {
             "date": "2026-07-12",
             "state": "fired"
           },
@@ -397,6 +393,10 @@
           {
             "date": "2026-07-24",
             "state": "missed"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       },
@@ -409,10 +409,6 @@
         "last_fire": null,
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-12",
             "state": "idle"
           },
@@ -462,6 +458,10 @@
           },
           {
             "date": "2026-07-24",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-25",
             "state": "idle"
           }
         ]
@@ -475,10 +475,6 @@
         "last_fire": "2026-07-19T08:40:51+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "fired"
-          },
-          {
             "date": "2026-07-12",
             "state": "fired"
           },
@@ -529,6 +525,10 @@
           {
             "date": "2026-07-24",
             "state": "missed"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       },
@@ -541,10 +541,6 @@
         "last_fire": "2026-07-07T22:04:14+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-12",
             "state": "missed"
           },
@@ -595,6 +591,10 @@
           {
             "date": "2026-07-24",
             "state": "missed"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       },
@@ -607,10 +607,6 @@
         "last_fire": "2026-05-23T10:10:13+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-12",
             "state": "idle"
           },
@@ -660,6 +656,10 @@
           },
           {
             "date": "2026-07-24",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-25",
             "state": "idle"
           }
         ]
@@ -673,10 +673,6 @@
         "last_fire": "2026-07-19T01:08:58+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-12",
             "state": "fired"
           },
@@ -726,6 +722,10 @@
           },
           {
             "date": "2026-07-24",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-25",
             "state": "idle"
           }
         ]
@@ -739,10 +739,6 @@
         "last_fire": "2026-07-18T19:09:26+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "fired"
-          },
-          {
             "date": "2026-07-12",
             "state": "missed"
           },
@@ -793,6 +789,10 @@
           {
             "date": "2026-07-24",
             "state": "missed"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       },
@@ -805,10 +805,6 @@
         "last_fire": "2026-07-12T21:00:00+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-12",
             "state": "fired"
           },
@@ -858,6 +854,10 @@
           },
           {
             "date": "2026-07-24",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-25",
             "state": "idle"
           }
         ]
@@ -871,10 +871,6 @@
         "last_fire": "2026-07-19T04:20:35+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-12",
             "state": "fired"
           },
@@ -924,6 +920,10 @@
           },
           {
             "date": "2026-07-24",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-25",
             "state": "idle"
           }
         ]
@@ -937,10 +937,6 @@
         "last_fire": "2026-07-19T06:38:28+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "fired"
-          },
-          {
             "date": "2026-07-12",
             "state": "fired"
           },
@@ -991,6 +987,10 @@
           {
             "date": "2026-07-24",
             "state": "missed"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       },
@@ -1003,10 +1003,6 @@
         "last_fire": "2026-06-14T08:03:52+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-12",
             "state": "missed"
           },
@@ -1057,6 +1053,10 @@
           {
             "date": "2026-07-24",
             "state": "missed"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       },
@@ -1069,10 +1069,6 @@
         "last_fire": "2026-06-14T17:40:39+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-12",
             "state": "missed"
           },
@@ -1123,6 +1119,10 @@
           {
             "date": "2026-07-24",
             "state": "missed"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       },
@@ -1134,10 +1134,6 @@
         "status": "degraded",
         "last_fire": "2026-07-13T01:10:12+08:00",
         "grid14": [
-          {
-            "date": "2026-07-11",
-            "state": "idle"
-          },
           {
             "date": "2026-07-12",
             "state": "idle"
@@ -1188,6 +1184,10 @@
           },
           {
             "date": "2026-07-24",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-25",
             "state": "idle"
           }
         ]
@@ -1201,10 +1201,6 @@
         "last_fire": "2026-07-19T02:18:52+08:00",
         "grid14": [
           {
-            "date": "2026-07-11",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-12",
             "state": "fired"
           },
@@ -1255,13 +1251,17 @@
           {
             "date": "2026-07-24",
             "state": "idle"
+          },
+          {
+            "date": "2026-07-25",
+            "state": "idle"
           }
         ]
       }
     ]
   },
   "babel": {
-    "snapshot_ts": "2026-07-24T22:22:01+08:00",
+    "snapshot_ts": "2026-07-25T00:05:44+08:00",
     "total_zh": 862,
     "langs": [
       {
@@ -1287,10 +1287,10 @@
       },
       {
         "lang": "es",
-        "fresh": 704,
+        "fresh": 705,
         "stale": 155,
-        "missing": 3,
-        "coverage_pct": 99.7
+        "missing": 2,
+        "coverage_pct": 99.8
       },
       {
         "lang": "fr",
@@ -1301,71 +1301,77 @@
       },
       {
         "lang": "vi",
-        "fresh": 55,
+        "fresh": 61,
         "stale": 16,
-        "missing": 791,
-        "coverage_pct": 8.2
+        "missing": 785,
+        "coverage_pct": 8.9
       },
       {
         "lang": "id",
-        "fresh": 65,
+        "fresh": 75,
         "stale": 14,
-        "missing": 783,
-        "coverage_pct": 9.2
+        "missing": 773,
+        "coverage_pct": 10.3
       },
       {
         "lang": "pt",
-        "fresh": 47,
-        "stale": 15,
-        "missing": 800,
-        "coverage_pct": 7.2
+        "fresh": 67,
+        "stale": 14,
+        "missing": 781,
+        "coverage_pct": 9.4
       },
       {
         "lang": "hi",
-        "fresh": 47,
-        "stale": 11,
-        "missing": 804,
-        "coverage_pct": 6.7
+        "fresh": 66,
+        "stale": 10,
+        "missing": 786,
+        "coverage_pct": 8.8
       }
     ],
-    "gap_total": 4015,
-    "gap_delta_vs_prev": 0,
-    "fresh_delta_24h": 50,
+    "gap_total": 3959,
+    "gap_delta_vs_prev": -56,
+    "fresh_delta_24h": 106,
     "nodes": [
       {
         "name": "worker:nemo",
-        "ok": 18,
-        "fail": 68,
-        "avg_s": 139.2
-      },
-      {
-        "name": "worker:mac",
-        "ok": 2,
-        "fail": 20,
-        "avg_s": 304.9
+        "ok": 35,
+        "fail": 99,
+        "avg_s": 136.1
       },
       {
         "name": "worker:gemma31",
         "ok": 1,
-        "fail": 22,
+        "fail": 34,
         "avg_s": 2.2
       },
       {
+        "name": "worker:nemo2",
+        "ok": 16,
+        "fail": 15,
+        "avg_s": 122.5
+      },
+      {
         "name": "worker:laguna",
-        "ok": 3,
-        "fail": 10,
-        "avg_s": 318.3
+        "ok": 14,
+        "fail": 15,
+        "avg_s": 266.9
+      },
+      {
+        "name": "worker:mac",
+        "ok": 4,
+        "fail": 39,
+        "avg_s": 357.8
       },
       {
         "name": "fleet:desktop-3090",
-        "ok": 30,
-        "fail": 111,
+        "ok": 37,
+        "fail": 138,
         "avg_s": null
       },
       {
         "name": "fleet:laptop-4090",
-        "ok": 17,
-        "fail": 77,
+        "ok": 20,
+        "fail": 90,
         "avg_s": null
       },
       {
@@ -1384,12 +1390,6 @@
   },
   "incidents": [
     {
-      "ts": "2026-07-23",
-      "level": "yellow",
-      "text": "routine-live-state.json dump 齡 160.7h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
-      "source": "routine-live-state.json"
-    },
-    {
       "ts": "2026-07-05",
       "level": "yellow",
       "text": "免疫 v3=60：需關注 — T1 review < 80% OR plugin pass < 90%",
@@ -1398,29 +1398,29 @@
   ],
   "deploys": [
     {
-      "ts": "2026-07-24T15:04:15Z",
+      "ts": "2026-07-24T15:21:35Z",
+      "conclusion": "success",
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: 補 BECOME ACK + 14 步逐項結果 + alerts 追平記錄"
+    },
+    {
+      "ts": "2026-07-24T15:20:32Z",
       "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] fix: openrouter key loader 只認 *.key 且驗 token 格式"
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] fix: dashboard-alerts.json 補跑，routine-live-state stale 燈清空"
     },
     {
-      "ts": "2026-07-24T14:22:55Z",
-      "conclusion": "success",
-      "title": "Deploy to GitHub Pages: Merge remote-tracking branch 'origin/main'"
-    },
-    {
-      "ts": "2026-07-24T14:19:19Z",
+      "ts": "2026-07-24T15:19:29Z",
       "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: fix(weekly-report): count CJK-named zh articles on all platforms (#1250)"
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] diary: 驗證過的東西再跑一次，才知道驗證是不是真的"
     },
     {
-      "ts": "2026-07-24T14:14:38Z",
-      "conclusion": "success",
-      "title": "PR Content Review: fix(weekly-report): count CJK-named zh articles on all platforms"
+      "ts": "2026-07-24T15:17:39Z",
+      "conclusion": "failure",
+      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: 遷居後首次無人值守 data-refresh-pm 收官"
     },
     {
-      "ts": "2026-07-24T14:03:31Z",
-      "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] fix: leak-check 第三家族（書名號作品名）＋dispatch 隔離前存證"
+      "ts": "2026-07-24T15:14:40Z",
+      "conclusion": "failure",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] twmd-data-refresh-pm: 14-step ground truth refresh (mouho…"
     }
   ]
 }

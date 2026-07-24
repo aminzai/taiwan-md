@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T11:57:30.795Z",
+  "lastUpdated": "2026-07-24T15:10:55.548Z",
   "totals": {
     "contributors": 67,
     "activeWindow": "last 30d"
@@ -7,16 +7,16 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 5513,
+      "commits": 5561,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-07-24 19:00:40 +0800",
+      "lastCommitAt": "2026-07-24 23:01:43 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 209,
-        "system": 3491,
-        "translation": 849
+        "content": 229,
+        "system": 3511,
+        "translation": 854
       }
     },
     {
@@ -244,6 +244,20 @@
       }
     },
     {
+      "login": "stantheman0128",
+      "commits": 4,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
+      "profileUrl": "https://github.com/stantheman0128",
+      "firstCommitAt": "2026-07-24 16:48:07 +0800",
+      "lastCommitAt": "2026-07-24 22:19:16 +0800",
+      "primaryArea": "system",
+      "breakdown": {
+        "content": 0,
+        "system": 4,
+        "translation": 0
+      }
+    },
+    {
       "login": "vaiskalivuan",
       "commits": 4,
       "avatarUrl": "https://avatars.githubusercontent.com/u/270533697?v=4",
@@ -269,20 +283,6 @@
         "content": 0,
         "system": 0,
         "translation": 161
-      }
-    },
-    {
-      "login": "gn00295120",
-      "commits": 3,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30173341?v=4",
-      "profileUrl": "https://github.com/gn00295120",
-      "firstCommitAt": null,
-      "lastCommitAt": null,
-      "primaryArea": "other",
-      "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 0
       }
     }
   ],
@@ -407,6 +407,13 @@
       "types": ["💻", "🖋️", "🌍"]
     },
     {
+      "login": "stantheman0128",
+      "name": "stantheman0128",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
+      "profileUrl": "https://github.com/stantheman0128",
+      "types": ["💻"]
+    },
+    {
       "login": "vaiskalivuan",
       "name": "vaiskalivuan",
       "avatarUrl": "https://avatars.githubusercontent.com/u/270533697?v=4",
@@ -433,13 +440,6 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/62630285?v=4",
       "profileUrl": "https://github.com/r000tmnt",
       "types": ["💻", "🖋️"]
-    },
-    {
-      "login": "stantheman0128",
-      "name": "stantheman0128",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
-      "profileUrl": "https://github.com/stantheman0128",
-      "types": ["💻"]
     },
     {
       "login": "Ray0907",
@@ -790,16 +790,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 5513,
+      "commits": 5561,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-07-24 19:00:40 +0800",
+      "lastCommitAt": "2026-07-24 23:01:43 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 209,
-        "system": 3491,
-        "translation": 849
+        "content": 229,
+        "system": 3511,
+        "translation": 854
       }
     },
     {
@@ -978,15 +978,15 @@
     },
     {
       "login": "stantheman0128",
-      "commits": 3,
+      "commits": 4,
       "avatarUrl": "https://avatars.githubusercontent.com/u/79733497?v=4",
       "profileUrl": "https://github.com/stantheman0128",
       "firstCommitAt": "2026-07-24 16:48:07 +0800",
-      "lastCommitAt": "2026-07-24 16:49:01 +0800",
+      "lastCommitAt": "2026-07-24 22:19:16 +0800",
       "primaryArea": "system",
       "breakdown": {
         "content": 0,
-        "system": 3,
+        "system": 4,
         "translation": 0
       }
     }
