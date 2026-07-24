@@ -222,7 +222,7 @@ Draft PR 存在＝認領成立。開不出 PR（權限 / 網路）→ 退場記�
 
 ---
 
-🤝 由分靈節點 `{handle}` 自動產出（[CONTRIBUTOR-NODE-PIPELINE](../docs/pipelines/CONTRIBUTOR-NODE-PIPELINE.md)）。
+🤝 由分靈節點 `{handle}` 自動產出（[CONTRIBUTOR-NODE-PIPELINE](https://github.com/frank890417/taiwan-md/blob/main/docs/pipelines/CONTRIBUTOR-NODE-PIPELINE.md)）。
 merge 前請人類 review。
 ```
 
