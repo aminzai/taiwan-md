@@ -445,11 +445,19 @@ def run_prepare_batch(lang: str, zh_paths: list, slug_map_path: Path, round_dir:
 def collect_and_filter_groups(round_dir: Path, lang: str, seen_missing_slug: set, log: Logger) -> list:
     """Post-process prepare-batch.py's output: drop groups whose slug
     resolution failed (TBD-NEEDS-SLUG, logged once per zh_path for the whole
-    run) and groups whose target file already exists on disk >1KB
-    (cross-engine dedupe with the legacy bash dispatchers writing the same
-    knowledge/{lang}/ tree concurrently — someone else just wrote it, next
-    round's status refresh reconciles)."""
+    run), plus cross-engine dedupe with concurrent dispatchers writing the
+    same knowledge/{lang}/ tree.
+
+    Dedupe rule is STATUS-AWARE (2026-07-24 v2 — v1 skipped on bare file
+    existence, which is wrong for stale work: a stale article's target file
+    exists BY DEFINITION, so the classic-langs run skipped its entire P1
+    worklist, queueing 14 of ~600). Now:
+      - status "missing": file exists >1KB → another engine just created it;
+        skip, next round's status refresh reconciles.
+      - stale flavors: file existing is the norm; skip only when its mtime is
+        within the last 10 min (a concurrent engine just rewrote it)."""
     good = []
+    now = time.time()
     for gf in sorted(round_dir.glob("_group-*.json")):
         data = json.loads(gf.read_text(encoding="utf-8"))
         arts = data.get("articles", [])
@@ -457,6 +465,7 @@ def collect_and_filter_groups(round_dir: Path, lang: str, seen_missing_slug: set
             continue
         art = arts[0]
         zh_path, en_path = art["zh_path"], art["en_path"]
+        status = art.get("status", "missing")
         if "TBD-NEEDS-SLUG" in en_path:
             key = f"{lang}:{zh_path}"
             if key not in seen_missing_slug:
@@ -465,8 +474,12 @@ def collect_and_filter_groups(round_dir: Path, lang: str, seen_missing_slug: set
             continue
         target = REPO / en_path
         if target.exists() and target.stat().st_size > 1024:
-            log(f"⏭️  skip {zh_path} ({lang}): {en_path} already exists on disk >1KB (cross-engine dedupe)")
-            continue
+            if status == "missing":
+                log(f"⏭️  skip {zh_path} ({lang}): {en_path} already exists (cross-engine dedupe, was missing)")
+                continue
+            if now - target.stat().st_mtime < 600:
+                log(f"⏭️  skip {zh_path} ({lang}): {en_path} rewritten <10min ago (cross-engine dedupe)")
+                continue
         good.append((lang, gf, zh_path))
     return good
 
