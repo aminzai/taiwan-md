@@ -67,7 +67,8 @@ REPO = Path(__file__).resolve().parent.parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
 STATUS_JSON = KNOWLEDGE / "_translation-status.json"
 TRANSLATIONS_JSON = KNOWLEDGE / "_translations.json"
-GIT_LOCK = Path("/tmp/taiwan-md-git.lock")  # SAME path the legacy bash dispatchers use
+GIT_LOCK = Path("/tmp/taiwan-md-git.lock")
+MAX_FAIL_RETRIES = 3   # 同一篇本 run 失敗幾次後讓出輪次（退避，非永久放棄——下個 run 重來）  # SAME path the legacy bash dispatchers use
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from langs import ALL_TRANSLATION_LANGS, ENABLED_TRANSLATION_LANGS  # noqa: E402
@@ -329,12 +330,16 @@ class RunState:
                                                             # (never a directory wildcard — see git_lock_commit
                                                             # docstring, 2026-07-24 cross-engine incident)
         self.last_worker: dict = {}                       # "lang:zh" -> worker label (soft retry-avoid)
-        self.quarantine_log: dict = defaultdict(set)       # lang -> {zh_path} — audit trail only, NOT
-                                                            # used to exclude future rounds: status.py's
-                                                            # own re-scan (missing after unlink / unchanged
-                                                            # after restore) already makes the article
-                                                            # reappear next round, which is the explicitly
-                                                            # desired "retried next round" behavior.
+        self.quarantine_log: dict = defaultdict(set)       # lang -> {zh_path} — audit trail
+        self.fail_counts: dict = defaultdict(int)          # "lang:zh" -> 本 run 失敗次數。
+                                                            # 2026-07-25：原本 quarantine_log 刻意「不排除
+                                                            # 未來輪次」讓文章下一輪重試，但沒有退避——同一篇
+                                                            # 失敗後立刻被重撈、再失敗、再重撈，撞上 10 分鐘
+                                                            # mtime dedupe 就變純空轉。實測 classic track 200
+                                                            # 輪只處理 50 篇，約 190 輪空轉。重試仍是對的
+                                                            # （多數 gate fail 是模型當次品質問題，換一輪常會過），
+                                                            # 但同一篇連 MAX_RETRIES 次失敗就本 run 停手，
+                                                            # 把輪次讓給還沒試過的文章。
         self.in_flight: set = set()                        # "lang:zh" currently dispatched (claim protocol)
 
 
@@ -386,10 +391,14 @@ def default_langs(status_data: dict) -> list:
     return result
 
 
-def build_worklist(status_data: dict, lang: str, priority: str, order: str) -> list:
+def build_worklist(status_data: dict, lang: str, priority: str, order: str,
+                    exclude: set | None = None) -> list:
     by_article = status_data["byArticle"]
+    exclude = exclude or set()
     p0, p1 = [], []
     for zh, info in by_article.items():
+        if zh in exclude:
+            continue
         t = info.get("translations", {}).get(lang, {})
         st = t.get("status")
         if st == "missing":
@@ -583,6 +592,7 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         state.last_worker[f"{lang}:{zh_path}"] = worker.label
         if not ok:
             state.quarantine_log[lang].add(zh_path)
+            state.fail_counts[f"{lang}:{zh_path}"] += 1
         state.in_flight.discard(f"{lang}:{zh_path}")
 
     # Worker health: 3 consecutive hard failures (exit!=0 AND the backend
@@ -733,7 +743,16 @@ def main() -> None:
 
         per_lang_tasks: dict = {}
         for lang in langs:
-            worklist = build_worklist(status_data, lang, args.priority, args.order)
+            # 本 run 連 MAX_FAIL_RETRIES 次失敗的文章讓出輪次（見 RunState.fail_counts）：
+            # 沒有退避的話，同一批 gate-fail 文章會被每一輪重撈，撞 mtime dedupe 後
+            # 整輪空轉——實測 200 輪只推進 50 篇。
+            exhausted = {
+                zh for key, n in state.fail_counts.items()
+                if n >= MAX_FAIL_RETRIES and key.startswith(f"{lang}:")
+                for zh in [key.split(":", 1)[1]]
+            }
+            worklist = build_worklist(status_data, lang, args.priority, args.order,
+                                       exclude=exhausted)
             cap = 10 * len(workers)
             if remaining_budget is not None:
                 cap = min(cap, remaining_budget - sum(len(v) for v in per_lang_tasks.values()))
@@ -783,6 +802,10 @@ def main() -> None:
             log(f"  {lang}: fresh={s['fresh']} stale={s['stale']} missing={s['missing']} "
                 f"metadata_stale={s.get('metadata_stale', 0)}")
     log(f"quarantine_log this run: {dict((k, sorted(v)) for k, v in state.quarantine_log.items())}")
+    backed_off = sorted(k for k, n in state.fail_counts.items() if n >= MAX_FAIL_RETRIES)
+    if backed_off:
+        log(f"退避（本 run 連 {MAX_FAIL_RETRIES} 次失敗，讓出輪次給沒試過的文章）："
+            f"{len(backed_off)} 篇 — {backed_off[:10]}{' …' if len(backed_off) > 10 else ''}")
     log("DONE")
 
 
