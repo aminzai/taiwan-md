@@ -332,6 +332,13 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-25 vortex-babel — 同一檢查器四個假陽性家族：豁免規則沒有共用清單
+
+- **pattern**: exemption-list-divergence（gate-false-positive-family 的根因層）
+- **原則**：`cjk-leak-check.py` 一天內被抓出四個假陽性家族（全形括號、ja/ko marker 表含合法日文詞、書名號作品名、ja/ko 分支漏括號豁免），每個都是獨立發現獨立修。第四個現形時看出共同結構：**同一支檢查器的兩個分支各自維護一套豁免規則**（非 CJK 語言走 CJK_RUN + span 豁免、ja/ko 走 marker + 另一套剝除），改一邊忘一邊。單看每次修復都像「又一個 edge case」，看四次才知道是**豁免清單該共用而沒共用**。修法候選：抽出 `LEGITIMATE_ZH_SPANS`（括號 gloss／書名號／引述／markdown link／frontmatter）一份清單兩分支共用，新增豁免只改一處。對應 MANIFESTO §14（per-language profile 架構要建在共用底盤上，不是每語一份平行實作）
+- **觸發**：2026-07-24〜25 vortex-babel，蘇打綠 ja 譯文連三輪被同一把尺槍斃後屍檢（quarantine 存證機制當天誕生才驗得出來）
+- **verification_count**: 4（四家族同源）
+
 ### 2026-07-25 node-birth — CLI 參數沒被理解時默默回綠：`--check=a,b` 一個檢查都不跑卻印 passed=True
 
 - **pattern**: `unparsed-arg-silent-pass`
