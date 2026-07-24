@@ -376,8 +376,12 @@ prompt: |
   四 tier，兩模型退役 54/25 天後每晚 cron 仍在念，是 #56 drift 的 prompt 層版本）。
 
   ⚠️ §義務鐵律（v2.3 哲宇 2026-05-13 拍板）：babel 義務是推同步率到 100%（stale → 0
-  across 5 langs）。不主動 defer / skip / partial / 守 boundary。對應
-  SQUEEZE-MODELS-MAX-PIPELINE §義務 + MANIFESTO §架構解 > 守備修補。
+  across all enabled langs，語言數以 registry 為準不寫死）。不主動 defer / skip /
+  partial / 守 boundary。對應 SQUEEZE-MODELS-MAX-PIPELINE §義務 + MANIFESTO §架構解 >
+  守備修補。
+
+  Stage 0（2026-07-25 遷居後必跑，第一個指令）：babel-preflight.py 宿主機算力自檢。
+  degraded 照跑但收官必記哪層缺席，no-compute 不起跑寫 handoff。判讀見 skill §Stage 0。
 
   Stage D — diary 認知層 babel（v3.1，2026-06-14）：article babel 後同步
   docs/semiont/diary/ 新日記。走 /twmd-babel §Stage D + REMOTE-GPU-PIPELINE.md：

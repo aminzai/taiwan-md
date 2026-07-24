@@ -37,9 +37,27 @@ Routine cron `30 0 * * *`（每天 00:30，2026-05-28 shift 從 05:00 → 00:30 
 - Memory 不准寫「主動 defer 守 1hr 預算」「partial 收尾」
 - Quality gate 判定 pass/fail 只看 stale=0 OR 4-tier cascade exhausted
 
+## Stage 0 — 宿主機算力自檢（2026-07-25 新增，第一個指令）
+
+```bash
+python3 scripts/tools/lang-sync/babel-preflight.py
+```
+
+**四層算力（OpenRouter key 池／本機 ollama／fleet 節點／codex）缺席時 cascade 會靜默降級**——沒 key 就只跑本機模型，產能掉一半而 log 看起來一切正常。飛輪 2026-07-24 遷居 mouhouse-macmini 後，babel 在一台跟開發機不同的宿主機上跑，憑證與模型都是各機獨立的（憑證屬 §自主權邊界的身份授權層，機器之間不自動搬）。
+
+**判讀**：`healthy`（≥2 層）照跑；`degraded` 照跑但**收官 memory 必記哪一層缺席**（缺席是可修的事實，不是背景雜訊）；`no-compute` 不起跑，直接把缺什麼寫進 handoff 給哲宇。
+
 ## Pipeline
 
 嚴格完整讀取 [SQUEEZE-MODELS-MAX-PIPELINE.md](../../../docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)（**現行版**：priority schema + Tier 0 patch + backend cascade 抽象層 — cascade 順序以 pipeline 與 `translate.py DEFAULT_CASCADE_ID` 為準，本 skill 不寫死模型名；2026-07-05 前此處釘 v3 + owl-alpha 已 stale 25 天）。
+
+**大批次改走統一調度器**（2026-07-25）：`babel-dispatch.py` 一個 worker pool 同時吃本地與雲端端點，內建三重 gate、HEAD-restore（gate fail 有舊版就還原不刪除，寧可 stale 也不要 missing）、精確路徑 commit。下方 decision tree 的 P0/P1 手動路徑仍有效（單篇／小批用），但整批行軍用調度器：
+
+```bash
+python3 scripts/tools/lang-sync/babel-dispatch.py --langs <langs> \
+  --worker "本機=ollama:<model>@http://127.0.0.1:11434" \
+  --worker "雲端=openrouter:<model>" --order forward --rounds 200 --commit-every 10
+```
 
 3. **Decision tree per batch**：
 
