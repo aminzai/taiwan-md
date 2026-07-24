@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T16:18:46.234503",
+  "lastUpdated": "2026-07-24T19:57:42.741302",
   "schemaVersion": "v2-2026-05-16",
   "featureFlag": "IMMUNE_V2",
   "immuneScore": 60,
@@ -62,12 +62,12 @@
   },
   "freshnessDetail": {
     "editorial_days_old": 5,
-    "avg_plugin_days_old": 47.0,
+    "avg_plugin_days_old": 32.6,
     "plugin_count": 27,
     "source": "git log %ai (not fs mtime — worktree-safe)"
   },
   "driftDetail": {
-    "new_articles_7d": 235,
+    "new_articles_7d": 247,
     "rate_per_article": 1.0,
     "note": "v1 heuristic — longitudinal tracking pending (B-line meta-health)"
   },
@@ -105,15 +105,15 @@
       },
       {
         "plugin": "correction_meta",
-        "plugin_age_days": 53,
+        "plugin_age_days": 0,
         "healthy": true,
-        "age_watch": true
+        "age_watch": false
       },
       {
         "plugin": "cross_reference",
-        "plugin_age_days": 81,
+        "plugin_age_days": 0,
         "healthy": true,
-        "age_watch": true
+        "age_watch": false
       },
       {
         "plugin": "footnote_density",
@@ -159,13 +159,13 @@
       },
       {
         "plugin": "image_health",
-        "plugin_age_days": 8,
+        "plugin_age_days": 0,
         "healthy": true,
         "age_watch": false
       },
       {
         "plugin": "link_target",
-        "plugin_age_days": 1,
+        "plugin_age_days": 0,
         "healthy": true,
         "age_watch": false
       },
@@ -177,9 +177,9 @@
       },
       {
         "plugin": "media_richness",
-        "plugin_age_days": 47,
+        "plugin_age_days": 0,
         "healthy": true,
-        "age_watch": true
+        "age_watch": false
       },
       {
         "plugin": "paragraph_rhythm",
@@ -195,9 +195,9 @@
       },
       {
         "plugin": "quote_fidelity",
-        "plugin_age_days": 44,
+        "plugin_age_days": 0,
         "healthy": true,
-        "age_watch": true
+        "age_watch": false
       },
       {
         "plugin": "rationale_presence",
@@ -231,15 +231,15 @@
       },
       {
         "plugin": "wikilink_target",
-        "plugin_age_days": 81,
+        "plugin_age_days": 0,
         "healthy": true,
-        "age_watch": true
+        "age_watch": false
       },
       {
         "plugin": "word_count",
-        "plugin_age_days": 74,
+        "plugin_age_days": 0,
         "healthy": true,
-        "age_watch": true
+        "age_watch": false
       }
     ],
     "note": "v2 score = loadable+registered ratio（orphan / import crash / 介面缺欄才算病）。age_watch 為資訊欄不進分數。v1 drift 定義的診斷與拍板紀錄：LESSONS immune-chronic entry §一頁診斷 2026-07-10。"

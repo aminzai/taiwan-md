@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T08:17:20.383213",
+  "lastUpdated": "2026-07-24T19:56:30.551535",
   "sourcesUsed": ["ga", "searchConsole24h", "cloudflare24h", "sense-cache"],
   "ga": {
     "label": "2026-06-26 to 2026-07-24",
@@ -7,119 +7,126 @@
     "endDate": "2026-07-24",
     "days": 28,
     "totals": {
-      "activeUsers": 40076,
-      "newUsers": 39504,
-      "avgEngagementSeconds": 265.1,
-      "events": 383332,
-      "screenPageViews": 61798,
-      "engagementRate": 0.509,
-      "bounceRate": 0.491
+      "activeUsers": 40764,
+      "newUsers": 40266,
+      "avgEngagementSeconds": 262.8,
+      "events": 391133,
+      "screenPageViews": 63074,
+      "engagementRate": 0.5196,
+      "bounceRate": 0.4804
     },
     "topPages": [
       {
         "path": "/",
         "title": "開源台灣知識庫",
-        "views": 6488,
-        "users": 4099,
-        "events": 50418
+        "views": 6606,
+        "users": 4158,
+        "events": 51330
       },
       {
         "path": "/terminology/converter/",
         "title": "台灣用語轉換器：中國用語一鍵轉台灣說法",
-        "views": 1774,
-        "users": 691,
-        "events": 16781
+        "views": 1810,
+        "users": 706,
+        "events": 17134
       },
       {
         "path": "/people/黃山料/",
         "title": "黃山料：世界冠軍的衣服沒人看，他改賣「一句話的安慰」",
-        "views": 1598,
-        "users": 1421,
-        "events": 10303
+        "views": 1602,
+        "users": 1425,
+        "events": 10334
       },
       {
         "path": "/technology/台灣BIM與營建科技/",
         "title": "台灣 BIM 與營建科技：政府推十二年的因案制宜，被一個十八個月的 protocol 改寫",
-        "views": 1355,
+        "views": 1360,
         "users": 980,
-        "events": 9061
+        "events": 9089
       },
       {
         "path": "/technology/mini-taiwan-pulse/",
         "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
-        "views": 914,
-        "users": 719,
-        "events": 5537
+        "views": 919,
+        "users": 720,
+        "events": 5561
       },
       {
         "path": "/taiwan-shape/",
         "title": "台灣的形狀 — 開源地圖資料集：SVG、GeoJSON、TopoJSON",
-        "views": 788,
-        "users": 625,
-        "events": 5682
+        "views": 806,
+        "users": 639,
+        "events": 5806
       },
       {
         "path": "/about/",
         "title": "關於 Taiwan.md",
-        "views": 735,
-        "users": 481,
-        "events": 4030
+        "views": 747,
+        "users": 488,
+        "events": 4099
       },
       {
         "path": "/companies/",
         "title": "台灣前 50 大企業 — AI 時代的洗牌",
-        "views": 722,
-        "users": 609,
-        "events": 4875
+        "views": 746,
+        "users": 625,
+        "events": 5016
       },
       {
         "path": "/music/張懸與安溥/",
         "title": "從張懸到安溥——兩個名字，同一個問題",
-        "views": 607,
-        "users": 517,
-        "events": 4125
+        "views": 613,
+        "users": 522,
+        "events": 4170
       },
       {
         "path": "/latest/",
         "title": "最新文章",
-        "views": 555,
-        "users": 348,
-        "events": 2174
+        "views": 564,
+        "users": 350,
+        "events": 2203
       },
       {
         "path": "/semiont/",
         "title": "認知層 — Taiwan.md Semiont",
-        "views": 485,
-        "users": 310,
-        "events": 2551
-      },
-      {
-        "path": "/map/",
-        "title": "台灣地圖 Map",
-        "views": 428,
-        "users": 281,
-        "events": 1917
+        "views": 499,
+        "users": 314,
+        "events": 2603
       },
       {
         "path": "/en/",
         "title": "Open-Source Taiwan Knowledge Base",
-        "views": 420,
-        "users": 299,
-        "events": 2906
+        "views": 434,
+        "users": 308,
+        "events": 2996
+      },
+      {
+        "path": "/map/",
+        "title": "台灣地圖 Map",
+        "views": 431,
+        "users": 283,
+        "events": 1936
       },
       {
         "path": "/contribute/",
         "title": "我想貢獻 — Taiwan.md",
-        "views": 411,
-        "users": 225,
-        "events": 2415
+        "views": 419,
+        "users": 227,
+        "events": 2464
       },
       {
         "path": "/data/",
         "title": "📊 數據台灣 — Taiwan.md",
-        "views": 405,
-        "users": 299,
-        "events": 2014
+        "views": 411,
+        "users": 302,
+        "events": 2051
+      },
+      {
+        "path": "/history/",
+        "title": "歷史 - Taiwan.md",
+        "views": 383,
+        "users": 270,
+        "events": 1648
       },
       {
         "path": "/people/尊/",
@@ -129,139 +136,146 @@
         "events": 1817
       },
       {
-        "path": "/history/",
-        "title": "歷史 - Taiwan.md",
-        "views": 375,
-        "users": 265,
-        "events": 1608
+        "path": "/soundscape/",
+        "title": "台灣聲景 Taiwan Soundscape — Taiwan.md",
+        "views": 340,
+        "users": 235,
+        "events": 1686
       },
       {
         "path": "/terminology/",
         "title": "📖 用語保存計畫 — Taiwan.md",
-        "views": 333,
-        "users": 238,
-        "events": 1525
-      },
-      {
-        "path": "/soundscape/",
-        "title": "台灣聲景 Taiwan Soundscape — Taiwan.md",
-        "views": 330,
-        "users": 231,
-        "events": 1628
+        "views": 340,
+        "users": 244,
+        "events": 1551
       },
       {
         "path": "/explore/",
         "title": "探索 Taiwan.md — 瀏覽開放的台灣知識庫",
-        "views": 297,
-        "users": 190,
-        "events": 990
+        "views": 306,
+        "users": 195,
+        "events": 1016
       }
     ],
     "topArticles7d": [
       {
         "path": "/music/滅火器樂團/",
         "title": "滅火器——游泳池旁撿到的名字，唱了二十五年",
-        "views": 85,
-        "users": 79,
-        "events": 664
+        "views": 86,
+        "users": 80,
+        "events": 674
       },
       {
         "path": "/music/張懸與安溥/",
         "title": "從張懸到安溥——兩個名字，同一個問題",
-        "views": 77,
-        "users": 72,
-        "events": 535
+        "views": 83,
+        "users": 77,
+        "events": 580
       },
       {
         "path": "/society/台灣邦交國與國際外交/",
         "title": "台灣邦交國與國際外交：12 個邦交、113 個館處、177 國免簽（2026）",
-        "views": 64,
-        "users": 62,
-        "events": 421
+        "views": 75,
+        "users": 66,
+        "events": 480
       },
       {
         "path": "/technology/mini-taiwan-pulse/",
         "title": "Mini Taiwan Pulse：用策展的眼睛，把台灣畫成一張會呼吸的地圖",
-        "views": 60,
-        "users": 45,
-        "events": 390
+        "views": 65,
+        "users": 46,
+        "events": 414
       },
       {
         "path": "/food/鱔魚意麵/",
         "title": "27 秒的精準：台南鱔魚意麵的日治起源與廖家傳承",
-        "views": 58,
-        "users": 53,
-        "events": 374
+        "views": 59,
+        "users": 54,
+        "events": 382
       },
       {
         "path": "/technology/台灣BIM與營建科技/",
         "title": "台灣 BIM 與營建科技：政府推十二年的因案制宜，被一個十八個月的 protocol 改寫",
-        "views": 50,
+        "views": 55,
         "users": 17,
-        "events": 316
-      },
-      {
-        "path": "/music/小虎隊/",
-        "title": "小虎隊：買來的旋律，填上自己的青春",
-        "views": 48,
-        "users": 34,
-        "events": 276
+        "events": 344
       },
       {
         "path": "/people/吳百福/",
         "title": "吳百福（安藤百福）：從嘉義朴子到全球餐桌，台灣基因與日本包裝的全球傳奇",
-        "views": 47,
-        "users": 42,
-        "events": 338
+        "views": 51,
+        "users": 45,
+        "events": 371
+      },
+      {
+        "path": "/music/小虎隊/",
+        "title": "小虎隊：買來的旋律，填上自己的青春",
+        "views": 49,
+        "users": 35,
+        "events": 281
       },
       {
         "path": "/society/台灣的道德課去哪了/",
         "title": "台灣的道德課去哪了：一堂被取消的課，和二十年沒人接手的責任",
-        "views": 45,
-        "users": 35,
-        "events": 263
+        "views": 48,
+        "users": 36,
+        "events": 277
       },
       {
         "path": "/people/尊/",
         "title": "尊：從國二房間到雙頻道百萬，一位 YouTuber 的成年紀錄",
-        "views": 44,
-        "users": 41,
-        "events": 314
+        "views": 47,
+        "users": 42,
+        "events": 323
       },
       {
         "path": "/nature/黑冠麻鷺/",
         "title": "黑冠麻鷺：賞鳥者的夢幻物種，校園裡的大笨鳥",
-        "views": 42,
-        "users": 37,
-        "events": 271
+        "views": 45,
+        "users": 39,
+        "events": 296
       },
       {
         "path": "/people/阿神/",
         "title": "阿神：十一年日更之後，「永久停更」為何仍有新片",
-        "views": 42,
-        "users": 35,
-        "events": 220
+        "views": 44,
+        "users": 37,
+        "events": 228
       },
       {
         "path": "/culture/無名小站/",
         "title": "無名小站：撿來的電腦，賣掉的青春，和一場沒人送葬的消失",
-        "views": 40,
-        "users": 39,
-        "events": 271
-      },
-      {
-        "path": "/history/日治時期/",
-        "title": "日治時期",
-        "views": 39,
-        "users": 30,
-        "events": 239
+        "views": 43,
+        "users": 42,
+        "events": 297
       },
       {
         "path": "/people/黃山料/",
         "title": "黃山料：世界冠軍的衣服沒人看，他改賣「一句話的安慰」",
+        "views": 42,
+        "users": 41,
+        "events": 257
+      },
+      {
+        "path": "/en/lifestyle/taiwan-education-system/",
+        "title": "Taiwan's Education System: From Exam Hell to the Maze of Diversity",
+        "views": 41,
+        "users": 29,
+        "events": 159
+      },
+      {
+        "path": "/history/日治時期/",
+        "title": "日治時期",
+        "views": 40,
+        "users": 30,
+        "events": 252
+      },
+      {
+        "path": "/en/people/ke-zhi-tang-musician/",
+        "title": "Ke Zhi-Tang (Kowen Ko): The Taiwanese Indie Folk Singer Who Traded Seven Years of Silence for an Album",
         "views": 38,
-        "users": 37,
-        "events": 226
+        "users": 38,
+        "events": 121
       },
       {
         "path": "/history/退出聯合國/",
@@ -271,62 +285,48 @@
         "events": 237
       },
       {
-        "path": "/en/lifestyle/taiwan-education-system/",
-        "title": "Taiwan's Education System: From Exam Hell to the Maze of Diversity",
-        "views": 35,
-        "users": 25,
-        "events": 140
-      },
-      {
         "path": "/technology/雪山隧道/",
         "title": "雪山隧道：從「不可能的任務」到台灣工程血淚奇蹟",
-        "views": 35,
-        "users": 32,
-        "events": 227
+        "views": 37,
+        "users": 34,
+        "events": 236
       },
       {
-        "path": "/en/people/ke-zhi-tang-musician/",
-        "title": "Ke Zhi-Tang (Kowen Ko): The Taiwanese Indie Folk Singer Who Traded Seven Years of Silence for an Album",
-        "views": 33,
-        "users": 33,
-        "events": 106
-      },
-      {
-        "path": "/geography/用數據看台灣22縣市/",
-        "title": "用數據看台灣 22 縣市：最擠和最空差 151 倍，最老和最年輕差一個世代",
-        "views": 31,
-        "users": 24,
-        "events": 201
+        "path": "/people/呂冠緯/",
+        "title": "呂冠緯：考過醫師執照卻沒披上白袍，他賭一件比救人更難證明的事",
+        "views": 36,
+        "users": 29,
+        "events": 242
       }
     ],
     "byLang": {
       "zh-TW": {
-        "views": 38763,
-        "users": 29625,
-        "sessions": 35548,
-        "avgEngagementSeconds": 273.8,
-        "pageCount": 415
+        "views": 39411,
+        "users": 30033,
+        "sessions": 36136,
+        "avgEngagementSeconds": 270.1,
+        "pageCount": 412
       },
       "en": {
-        "views": 2882,
-        "users": 2433,
-        "sessions": 2691,
-        "avgEngagementSeconds": 174.4,
-        "pageCount": 59
+        "views": 3022,
+        "users": 2545,
+        "sessions": 2809,
+        "avgEngagementSeconds": 174.0,
+        "pageCount": 61
       },
       "ja": {
-        "views": 544,
-        "users": 385,
-        "sessions": 505,
-        "avgEngagementSeconds": 416.3,
+        "views": 555,
+        "users": 396,
+        "sessions": 518,
+        "avgEngagementSeconds": 409.5,
         "pageCount": 17
       },
       "ko": {
-        "views": 272,
-        "users": 219,
-        "sessions": 253,
-        "avgEngagementSeconds": 158.8,
-        "pageCount": 5
+        "views": 298,
+        "users": 243,
+        "sessions": 278,
+        "avgEngagementSeconds": 155.6,
+        "pageCount": 6
       },
       "es": {
         "views": 46,
@@ -336,10 +336,10 @@
         "pageCount": 2
       },
       "fr": {
-        "views": 54,
-        "users": 50,
-        "sessions": 51,
-        "avgEngagementSeconds": 89.6,
+        "views": 55,
+        "users": 51,
+        "sessions": 52,
+        "avgEngagementSeconds": 77.3,
         "pageCount": 2
       }
     },
@@ -1583,128 +1583,144 @@
     ]
   },
   "cloudflare7d": {
-    "label": "2026-07-23 to 2026-07-24 (1d)",
-    "startDate": "2026-07-23",
+    "label": "2026-07-17 to 2026-07-24 (7d)",
+    "startDate": "2026-07-17",
     "endDate": "2026-07-24",
-    "days": 1,
+    "days": 7,
     "summary": {
-      "requests": 98360,
-      "pageViews": 34664,
-      "uniques": 29472,
-      "cachedRequests": 11312,
-      "threats": 4,
-      "bytes": 6694256507
+      "requests": 812325,
+      "pageViews": 271740,
+      "uniques": 149684,
+      "cachedRequests": 74688,
+      "threats": 131,
+      "bytes": 57202914985
     },
     "statusBreakdown": [
       {
         "status": 200,
-        "count": 64976
+        "count": 501124
       },
       {
         "status": 301,
-        "count": 20361
+        "count": 165621
       },
       {
         "status": 404,
-        "count": 4724
+        "count": 93420
       },
       {
         "status": 204,
-        "count": 4130
+        "count": 32137
       },
       {
         "status": 304,
-        "count": 2043
+        "count": 9326
       },
       {
         "status": 206,
-        "count": 2029
+        "count": 8768
       },
       {
         "status": 499,
-        "count": 67
+        "count": 790
       },
       {
         "status": 503,
-        "count": 22
+        "count": 734
       },
       {
         "status": 403,
-        "count": 4
+        "count": 293
       },
       {
         "status": 405,
-        "count": 4
+        "count": 97
+      },
+      {
+        "status": 202,
+        "count": 6
+      },
+      {
+        "status": 522,
+        "count": 5
+      },
+      {
+        "status": 400,
+        "count": 3
+      },
+      {
+        "status": 502,
+        "count": 1
       }
     ],
-    "fourOhFourRate": 4.8,
+    "fourOhFourRate": 11.5,
     "traffic": {
       "topCountries": [
         {
           "country": "United States",
           "code": "US",
-          "requests": 24622
-        },
-        {
-          "country": "France",
-          "code": "FR",
-          "requests": 19282
+          "requests": 351421
         },
         {
           "country": "Taiwan",
           "code": "TW",
-          "requests": 15126
+          "requests": 116387
         },
         {
           "country": "Singapore",
           "code": "SG",
-          "requests": 14311
+          "requests": 77832
         },
         {
           "country": "China",
           "code": "CN",
-          "requests": 8105
+          "requests": 57212
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "requests": 43088
+        },
+        {
+          "country": "UA",
+          "code": "UA",
+          "requests": 22383
         },
         {
           "country": "Japan",
           "code": "JP",
-          "requests": 2130
+          "requests": 16554
         },
         {
-          "country": "Vietnam",
-          "code": "VN",
-          "requests": 1235
+          "country": "Germany",
+          "code": "DE",
+          "requests": 12750
         },
         {
-          "country": "Hong Kong",
-          "code": "HK",
-          "requests": 965
+          "country": "BE",
+          "code": "BE",
+          "requests": 11854
         },
         {
-          "country": "Canada",
-          "code": "CA",
-          "requests": 954
-        },
-        {
-          "country": "Malaysia",
-          "code": "MY",
-          "requests": 953
+          "country": "Brazil",
+          "code": "BR",
+          "requests": 9257
         }
       ]
     },
     "dailyBreakdown": [
       {
         "date": "2026-07-24",
-        "requests": 2446,
-        "pageViews": 2050,
-        "cachedRequests": 21,
-        "threats": 0,
-        "bytes": 102169290,
-        "uniques": 1862,
-        "status200": 2200,
-        "status404": 49,
-        "status4xx": 49,
-        "status5xx": 0
+        "requests": 47108,
+        "pageViews": 15812,
+        "cachedRequests": 6102,
+        "threats": 12,
+        "bytes": 3458461288,
+        "uniques": 11068,
+        "status200": 31693,
+        "status404": 4053,
+        "status4xx": 4295,
+        "status5xx": 6
       },
       {
         "date": "2026-07-23",
@@ -1718,245 +1734,347 @@
         "status404": 4675,
         "status4xx": 4750,
         "status5xx": 22
+      },
+      {
+        "date": "2026-07-22",
+        "requests": 106381,
+        "pageViews": 41737,
+        "cachedRequests": 10231,
+        "threats": 1,
+        "bytes": 7497067551,
+        "uniques": 16531,
+        "status200": 73537,
+        "status404": 5606,
+        "status4xx": 5680,
+        "status5xx": 23
+      },
+      {
+        "date": "2026-07-21",
+        "requests": 106205,
+        "pageViews": 38669,
+        "cachedRequests": 9897,
+        "threats": 54,
+        "bytes": 6745601151,
+        "uniques": 15241,
+        "status200": 66965,
+        "status404": 7914,
+        "status4xx": 8043,
+        "status5xx": 31
+      },
+      {
+        "date": "2026-07-20",
+        "requests": 123048,
+        "pageViews": 36684,
+        "cachedRequests": 8680,
+        "threats": 13,
+        "bytes": 7608826629,
+        "uniques": 17901,
+        "status200": 64527,
+        "status404": 20438,
+        "status4xx": 20541,
+        "status5xx": 24
+      },
+      {
+        "date": "2026-07-19",
+        "requests": 121630,
+        "pageViews": 43294,
+        "cachedRequests": 12615,
+        "threats": 28,
+        "bytes": 9310687009,
+        "uniques": 26393,
+        "status200": 82591,
+        "status404": 7746,
+        "status4xx": 7893,
+        "status5xx": 45
+      },
+      {
+        "date": "2026-07-18",
+        "requests": 97439,
+        "pageViews": 29820,
+        "cachedRequests": 9179,
+        "threats": 2,
+        "bytes": 7568539687,
+        "uniques": 15856,
+        "status200": 61827,
+        "status404": 10342,
+        "status4xx": 10668,
+        "status5xx": 541
+      },
+      {
+        "date": "2026-07-17",
+        "requests": 114600,
+        "pageViews": 33110,
+        "cachedRequests": 6693,
+        "threats": 17,
+        "bytes": 8421644453,
+        "uniques": 19084,
+        "status200": 57208,
+        "status404": 32646,
+        "status4xx": 32733,
+        "status5xx": 48
       }
     ],
     "aiCrawlers": {
-      "detectedRequests": 19482,
-      "http200": 12761,
-      "allowedRequests": 19482,
-      "unsuccessfulRequests": 6721,
+      "detectedRequests": 179994,
+      "http200": 105886,
+      "allowedRequests": 179994,
+      "unsuccessfulRequests": 74108,
       "topCrawler": {
-        "name": "Bytespider",
-        "requests": 5093,
-        "http200": 2420,
-        "category": "ByteDance"
+        "name": "Googlebot",
+        "requests": 43936,
+        "http200": 27500,
+        "category": "Google"
       },
       "crawlers": [
         {
+          "name": "Googlebot",
+          "requests": 43936,
+          "http200": 27500,
+          "category": "Google"
+        },
+        {
           "name": "Bytespider",
-          "requests": 5093,
-          "http200": 2420,
+          "requests": 26373,
+          "http200": 12980,
           "category": "ByteDance"
         },
         {
           "name": "BingBot",
-          "requests": 3390,
-          "http200": 2417,
+          "requests": 25438,
+          "http200": 17644,
           "category": "Microsoft"
         },
         {
-          "name": "Googlebot",
-          "requests": 2559,
-          "http200": 1835,
-          "category": "Google"
-        },
-        {
-          "name": "ChatGPT-User",
-          "requests": 1911,
-          "http200": 1893,
-          "category": "OpenAI"
-        },
-        {
           "name": "Amazonbot",
-          "requests": 1456,
-          "http200": 703,
+          "requests": 20711,
+          "http200": 6440,
           "category": "Amazon"
         },
         {
-          "name": "PetalBot",
-          "requests": 1446,
-          "http200": 923,
-          "category": "Huawei"
-        },
-        {
-          "name": "Applebot",
-          "requests": 1062,
-          "http200": 1002,
-          "category": "Apple"
-        },
-        {
-          "name": "FacebookBot",
-          "requests": 715,
-          "http200": 645,
-          "category": "Meta"
-        },
-        {
-          "name": "PerplexityBot",
-          "requests": 592,
-          "http200": 243,
-          "category": "Perplexity"
-        },
-        {
-          "name": "OAI-SearchBot",
-          "requests": 486,
-          "http200": 319,
+          "name": "ChatGPT-User",
+          "requests": 12302,
+          "http200": 12164,
           "category": "OpenAI"
         },
         {
+          "name": "Applebot",
+          "requests": 11769,
+          "http200": 5759,
+          "category": "Apple"
+        },
+        {
+          "name": "PerplexityBot",
+          "requests": 10968,
+          "http200": 4870,
+          "category": "Perplexity"
+        },
+        {
+          "name": "PetalBot",
+          "requests": 9304,
+          "http200": 5876,
+          "category": "Huawei"
+        },
+        {
+          "name": "FacebookBot",
+          "requests": 6354,
+          "http200": 5857,
+          "category": "Meta"
+        },
+        {
+          "name": "OAI-SearchBot",
+          "requests": 4388,
+          "http200": 2912,
+          "category": "OpenAI"
+        },
+        {
+          "name": "GPTBot",
+          "requests": 2788,
+          "http200": 694,
+          "category": "OpenAI"
+        },
+        {
+          "name": "CCBot",
+          "requests": 2368,
+          "http200": 1116,
+          "category": "CommonCrawl"
+        },
+        {
+          "name": "ClaudeBot",
+          "requests": 1095,
+          "http200": 851,
+          "category": "Anthropic"
+        },
+        {
           "name": "Meta-ExternalAgent",
-          "requests": 421,
-          "http200": 112,
+          "requests": 1078,
+          "http200": 342,
           "category": "Meta"
         },
         {
           "name": "YandexBot",
-          "requests": 233,
-          "http200": 160,
+          "requests": 1005,
+          "http200": 811,
           "category": "Yandex"
         },
         {
-          "name": "ClaudeBot",
-          "requests": 98,
-          "http200": 73,
+          "name": "DuckDuckBot",
+          "requests": 78,
+          "http200": 65,
+          "category": "DuckDuckGo"
+        },
+        {
+          "name": "cohere-ai",
+          "requests": 15,
+          "http200": 0,
+          "category": "Cohere"
+        },
+        {
+          "name": "anthropic-ai",
+          "requests": 12,
+          "http200": 0,
           "category": "Anthropic"
         },
         {
-          "name": "DuckDuckBot",
-          "requests": 12,
-          "http200": 9,
-          "category": "DuckDuckGo"
+          "name": "Perplexity-User",
+          "requests": 7,
+          "http200": 0,
+          "category": "Perplexity"
         },
         {
           "name": "Diffbot",
           "requests": 5,
           "http200": 5,
           "category": "Diffbot"
-        },
-        {
-          "name": "GPTBot",
-          "requests": 3,
-          "http200": 2,
-          "category": "OpenAI"
         }
       ],
       "period": {
-        "start": "2026-07-23T00:17:06Z",
-        "end": "2026-07-24T00:17:06Z",
-        "days": 1,
-        "daysFetched": 1,
+        "start": "2026-07-17T11:56:01Z",
+        "end": "2026-07-24T11:56:01Z",
+        "days": 7,
+        "daysFetched": 7,
         "daysFailed": 0
       },
       "perLanguage": {
-        "days": 1,
-        "daysFetched": 1,
+        "days": 3,
+        "daysFetched": 3,
         "rowsTruncated": true,
         "byLanguage": {
           "en": {
-            "requests": 1162,
+            "requests": 3539,
             "topCrawlers": [
               {
                 "name": "ChatGPT-User",
-                "requests": 757
+                "requests": 2239
               },
               {
                 "name": "BingBot",
-                "requests": 183
+                "requests": 529
               },
               {
                 "name": "Googlebot",
-                "requests": 86
+                "requests": 343
               }
             ]
           },
           "ja": {
-            "requests": 332,
+            "requests": 853,
             "topCrawlers": [
               {
-                "name": "Bytespider",
-                "requests": 141
-              },
-              {
                 "name": "BingBot",
-                "requests": 70
+                "requests": 241
               },
               {
                 "name": "Googlebot",
-                "requests": 50
+                "requests": 218
+              },
+              {
+                "name": "Bytespider",
+                "requests": 203
               }
             ]
           },
           "ko": {
-            "requests": 287,
+            "requests": 829,
             "topCrawlers": [
               {
                 "name": "Googlebot",
-                "requests": 90
+                "requests": 290
               },
               {
                 "name": "Bytespider",
-                "requests": 89
+                "requests": 171
               },
               {
                 "name": "BingBot",
-                "requests": 55
+                "requests": 148
               }
             ]
           },
           "es": {
-            "requests": 344,
+            "requests": 1165,
             "topCrawlers": [
               {
                 "name": "Bytespider",
-                "requests": 106
+                "requests": 313
               },
               {
                 "name": "BingBot",
-                "requests": 86
+                "requests": 252
               },
               {
-                "name": "PetalBot",
-                "requests": 57
+                "name": "Googlebot",
+                "requests": 229
               }
             ]
           },
           "fr": {
-            "requests": 352,
+            "requests": 939,
             "topCrawlers": [
               {
                 "name": "Bytespider",
-                "requests": 172
+                "requests": 332
               },
               {
                 "name": "Googlebot",
-                "requests": 52
+                "requests": 204
               },
               {
                 "name": "BingBot",
-                "requests": 52
+                "requests": 187
               }
             ]
           },
           "zh-TW": {
-            "requests": 2235,
+            "requests": 7461,
             "topCrawlers": [
               {
                 "name": "ChatGPT-User",
-                "requests": 763
+                "requests": 2199
               },
               {
                 "name": "Googlebot",
-                "requests": 333
+                "requests": 1590
               },
               {
                 "name": "BingBot",
-                "requests": 320
+                "requests": 1034
               }
             ]
           },
           "non-article": {
-            "requests": 5137,
+            "requests": 14781,
             "topCrawlers": [
               {
                 "name": "Bytespider",
-                "requests": 3433
+                "requests": 8781
               },
               {
                 "name": "Googlebot",
-                "requests": 643
+                "requests": 2682
               },
               {
                 "name": "Applebot",
-                "requests": 515
+                "requests": 1374
               }
             ]
           }

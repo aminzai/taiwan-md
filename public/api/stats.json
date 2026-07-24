@@ -1,8 +1,8 @@
 {
-  "totalArticles": 5366,
+  "totalArticles": 5338,
   "totalCategories": 24,
-  "estimatedContributors": 358,
-  "totalTags": 5491,
+  "estimatedContributors": 67,
+  "totalTags": 5443,
   "categories": [
     {
       "name": "es",
@@ -22,11 +22,11 @@
     },
     {
       "name": "en",
-      "count": 844
+      "count": 816
     },
     {
       "name": "vi",
-      "count": 53
+      "count": 57
     },
     {
       "name": "hi",
@@ -94,7 +94,7 @@
     },
     {
       "name": "id",
-      "count": 70
+      "count": 66
     },
     {
       "name": "resources",
@@ -184,8 +184,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5366,
+    "zh-TW": 5338,
     "en": 0
   },
-  "lastUpdated": "2026-07-24T08:18:33.875Z"
+  "lastUpdated": "2026-07-24T11:57:28.425Z",
+  "stars": 1115,
+  "forks": 168,
+  "zhPages": 860,
+  "enPages": 816,
+  "totalPages": 860
 }

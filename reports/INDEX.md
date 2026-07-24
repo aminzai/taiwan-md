@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-23 21:38
+last_generated: 2026-07-24 19:57
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,20 +12,18 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-23 21:38** · 頂層 \*.md 共 **226** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-24 19:57** · 頂層 \*.md 共 **230** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size      | 用途                                                 |
 | ----------------------- | ----: | --------- | ---------------------------------------------------- |
-| `research/`             |   460 | 60.0 MB   | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
-| `visual/`               |   111 | 214.5 MB  | Visual smoke test 基線 (partial gitignored)          |
+| `research/`             |   460 | 20.6 MB   | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `editorial-room/`       |    50 | 339.8 KB  | —                                                    |
 | `archive/`              |    28 | 372.2 KB  | 歸檔位置 (per audit Layer 4)                         |
 | `article-evolve/`       |    27 | 1003.6 KB | —                                                    |
 | `weekly/`               |    22 | 4.0 MB    | Self-evolve weekly digest                            |
 | `article-projection/`   |    14 | 205.9 KB  | —                                                    |
-| `scratch/`              |    10 | 1.7 MB    | POC / 暫存 (per audit Layer 1，已 .gitignored)       |
 | `factcheck/`            |     9 | 98.7 KB   | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB    | —                                                    |
 | `probe/`                |     6 | 69.8 KB   | BECOME §Step 7 探測器報告                            |
@@ -35,11 +33,12 @@ type: auto-index
 | `ab-tests/`             |     4 | 69.2 KB   | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB  | Music 條目 media audit (json + md)                   |
 | `terminology-review/`   |     3 | 1.7 MB    | —                                                    |
-| `404-monitor/`          |     2 | 93.8 KB   | —                                                    |
+| `404-monitor/`          |     2 | 62.6 KB   | —                                                    |
 | `fork-census/`          |     2 | 36.2 KB   | —                                                    |
 | `harvest/`              |     2 | 14.3 KB   | Harvest engine 紀錄                                  |
 | `news-lens/`            |     2 | 37.9 KB   | —                                                    |
 | `audit/`                |     1 | 20.7 KB   | —                                                    |
+| `visual/`               |     1 | 5.7 KB    | Visual smoke test 基線 (partial gitignored)          |
 
 ## 🏷️ By type (頂層 \*.md only)
 
@@ -95,8 +94,9 @@ type: auto-index
 - `2026-04-13` [ssodt-spore-linkback-plan-2026-04-13](ssodt-spore-linkback-plan-2026-04-13.md)
 - `2026-04-12` [semiont-public-pages-plan-2026-04-12](semiont-public-pages-plan-2026-04-12.md)
 
-### evolution (36)
+### evolution (37)
 
+- `2026-07-23` [idlccp1984-pr-batch-instrument-evolution-2026-07-23](idlccp1984-pr-batch-instrument-evolution-2026-07-23.md) — idlccp1984 PR batch × 儀器進化：小丑魚原則下的 warn+lint+auto-heal
 - `2026-07-19` [evolution-roadmap-2026-07-19](evolution-roadmap-2026-07-19.md) — Evolution Roadmap 2026-07-19
 - `2026-07-18` [design-article-inbox-evolve-mode4-2026-07-18](design-article-inbox-evolve-mode4-2026-07-18.md)
 - `2026-07-16` [instrument-evolution-2026-07-16](instrument-evolution-2026-07-16.md) — 文章儀器進化：speak-human-tw 轉譯 + 盤點工作儀器化 + gate 整理
@@ -216,8 +216,11 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (82)
+### ops (85)
 
+- `2026-07-24` [babel-fleet-dispatch-2026-07-24](babel-fleet-dispatch-2026-07-24.md) — babel-fleet-dispatch-2026-07-24
+- `2026-07-24` [design-research-fleet-2026-07-24](design-research-fleet-2026-07-24.md)
+- `2026-07-24` [routine-migration-mouhouse-macmini-2026-07-24](routine-migration-mouhouse-macmini-2026-07-24.md)
 - `2026-07-19` [ja-fr-es-ko-english-leak-2026-07-19](ja-fr-es-ko-english-leak-2026-07-19.md) — ja/fr/es/ko 68 檔「宣稱已譯實為英文」— 發現、根因、補洞
 - `2026-07-19` [prose-instrument-upgrade-2026-07-19](prose-instrument-upgrade-2026-07-19.md) — prose-health 儀器升級：分號 / 英文短句開場 / 長句 / 強加對比 + 偵測 vs 執行落差
 - `2026-07-19` [punct-cleanup-campaign-handoff-2026-07-19](punct-cleanup-campaign-handoff-2026-07-19.md) — 標點淨化 campaign 實作計劃 + handoff（144 篇 legacy → 全站升 hard）
@@ -309,9 +312,13 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-07 (48 files)
+### 2026-07 (52 files)
 
-- Type breakdown: ops: 25 / evolution: 11 / design: 8 / audit-routine: 2 / audit: 1 / plan: 1
+- Type breakdown: ops: 28 / evolution: 12 / design: 8 / audit-routine: 2 / audit: 1 / plan: 1
+  - `2026-07-24` [babel-fleet-dispatch-2026-07-24](babel-fleet-dispatch-2026-07-24.md)
+  - `2026-07-24` [design-research-fleet-2026-07-24](design-research-fleet-2026-07-24.md)
+  - `2026-07-24` [routine-migration-mouhouse-macmini-2026-07-24](routine-migration-mouhouse-macmini-2026-07-24.md)
+  - `2026-07-23` [idlccp1984-pr-batch-instrument-evolution-2026-07-23](idlccp1984-pr-batch-instrument-evolution-2026-07-23.md)
   - `2026-07-19` [evolution-roadmap-2026-07-19](evolution-roadmap-2026-07-19.md)
   - `2026-07-19` [ja-fr-es-ko-english-leak-2026-07-19](ja-fr-es-ko-english-leak-2026-07-19.md)
   - `2026-07-19` [prose-instrument-upgrade-2026-07-19](prose-instrument-upgrade-2026-07-19.md)
