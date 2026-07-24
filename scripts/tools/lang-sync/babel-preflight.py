@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """babel-preflight.py — 宿主機算力自檢（任何機器跑 babel 前先照鏡子）。
 
-為什麼存在（2026-07-25）：routine 飛輪遷居 mouhouse-macmini 之後，
+為什麼存在（2026-07-25）：routine 飛輪遷到專用宿主機之後，
 twmd-babel-nightly 在一台跟開發機不同的宿主機上跑。babel 的算力來自四個
 互相獨立的來源（OpenRouter key 池／本機 ollama／Tailscale fleet 節點／
 codex 訂閱），每一個缺席時 cascade 都會「優雅降級」——也就是**靜默**降級：

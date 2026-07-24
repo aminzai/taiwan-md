@@ -2,7 +2,7 @@
 # sync-routine-mirrors.sh — 把 repo 裡的 routine mirror 正本推到本機宿主機。
 #
 # 為什麼存在（2026-07-25）：cron 讀的 SKILL.md 住 ~/.claude/scheduled-tasks/，
-# 不在 git 裡。飛輪遷居 mouhouse 之後，每台宿主機的 mirror 各自停在搬過去那天，
+# 不在 git 裡。飛輪遷到專用宿主機之後，每台宿主機的 mirror 各自停在搬過去那天，
 # 而 SSOT（ROUTINE.md）持續演化——中間的落差沒有任何儀器看得到（sync-check 只
 # 比對 name/description，內文寫死的語言清單它看不見）。實例：babel mirror 寫死
 # 五語，語言長到 11 個之後新六語整批漏掉。
@@ -35,7 +35,9 @@ for f in "$SRC"/*.md; do
   else
     diffs=$((diffs+1))
     if [ "$APPLY" = "--apply" ]; then
-      cp "$f" "$target"
+      # 正本用 $TWMD_REPO 佔位（repo 不寫死任何機器的路徑，資安 + fork 友好），
+      # 落地時展成這台機器的真實路徑，cron session 讀到的才是可直接執行的指令
+      sed "s|\$TWMD_REPO|$REPO|g" "$f" > "$target"
       echo "🔄 $base：已覆寫本機 mirror"
     else
       echo "⚠️  $base：與正本不同（$(diff "$f" "$target" | grep -c '^[<>]') 行差異）"

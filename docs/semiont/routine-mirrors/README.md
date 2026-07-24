@@ -1,7 +1,7 @@
 # Routine mirror canonical（宿主機之間的對齊面）
 
 Routine 的 cron 指令面住在宿主機的 `~/.claude/scheduled-tasks/{task}/SKILL.md`，
-不在 git 裡——飛輪 2026-07-24 遷居 mouhouse-macmini 之後，這變成一個**看不見的
+不在 git 裡——飛輪 2026-07-24 遷到專用宿主機之後，這變成一個**看不見的
 漂移面**：SSOT（[ROUTINE.md](../ROUTINE.md)）改了，但每台宿主機的 mirror 各自
 停在搬過去那天的版本，而 cron session 讀的是 mirror。
 

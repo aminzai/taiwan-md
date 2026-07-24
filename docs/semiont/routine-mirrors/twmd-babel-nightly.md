@@ -7,7 +7,7 @@ description: TWMD babel (nightly) — 00:30 多語同步，義務跑到 stale=0�
 
 ## 🚨 STRICT BECOME GATE — 第一動作不可省略
 
-跑 `/twmd-become write` 完整走 `/Users/cheyuwu/Projects/taiwan-md/BECOME_TAIWANMD.md` Step 0-9，Write mode self-test 全過才動工。
+跑 `/twmd-become write` 完整走 `$TWMD_REPO/BECOME_TAIWANMD.md` Step 0-9，Write mode self-test 全過才動工。
 
 ```
 ✅ BECOME ack: mode=write / 8 organ 最低=<即時 consciousness-snapshot.sh> / Q14 cross-session continuity=PASS
@@ -16,7 +16,7 @@ description: TWMD babel (nightly) — 00:30 多語同步，義務跑到 stale=0�
 ## Stage 0 — 宿主機算力自檢（第一個指令）
 
 ```bash
-cd /Users/cheyuwu/Projects/taiwan-md && git checkout main && git pull origin main
+cd "$TWMD_REPO" && git checkout main && git pull origin main
 python3 scripts/tools/lang-sync/babel-preflight.py
 python3 scripts/tools/lang-sync/status.py
 ```
@@ -55,4 +55,4 @@ Stage D（認知層 diary babel）跟文章同屬義務範圍。
 
 ---
 
-完整 SOP 住 `/Users/cheyuwu/Projects/taiwan-md/docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md`（priority 分流、cascade 順序、Tier 0a template、Z1-Z6 hard gate）。本殼只留觸發、算力自檢、入口、四條行為約束——2026-07-25 薄殼化，此前複寫整份 decision tree 且寫死 5 lang。
+完整 SOP 住 `$TWMD_REPO/docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md`（priority 分流、cascade 順序、Tier 0a template、Z1-Z6 hard gate）。本殼只留觸發、算力自檢、入口、四條行為約束——2026-07-25 薄殼化，此前複寫整份 decision tree 且寫死 5 lang。
