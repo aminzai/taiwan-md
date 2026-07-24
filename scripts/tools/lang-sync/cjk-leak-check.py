@@ -43,17 +43,19 @@ REPO = Path(__file__).resolve().parents[3]
 # verbs, never legitimate ja/ko vocabulary on their own. Content nouns
 # (e.g. 電影, 政治, 歷史) are deliberately excluded — those DO legitimately
 # appear in ja/ko (shared kanji/hanja), so they're not leak signals.
+#
+# 2026-07-24 修正：表曾含 的/了/一個/淘汰，跟本 docstring 直接矛盾——
+# 日文 〜的 是最常見形容詞後綴（言語的/構造的）、了 在 完了/終了、
+# 一個（いっこ）是量詞、淘汰（自然淘汰）是常用語。抽測 3/3 健康 ja 檔
+# 被誤判（的 ×63/×42/×9），ja lane 在 gate 面前 100% 死路，是 2026-07-24
+# ja/ko 大量好譯文被 quarantine 降級的主因之一（另一半是全形括號豁免）。
 ZH_ONLY_MARKERS = [
-    "的", "了", "這個", "这个", "那個", "那个", "你", "我們", "我们",
+    "這個", "这个", "那個", "那个", "你", "我們", "我们",
     "沒有", "没有", "就是", "都是", "還是", "还是", "因為", "因为",
     "所以", "如果", "這樣", "这样", "這裡", "这里", "這次", "这次",
-    "一個", "一个", "而且", "但是", "可是", "掐死", "淘汰", "烂死",
+    "而且", "但是", "可是", "掐死", "烂死",
     "爛死", "淹死", "悄悄", "這一次", "这一次", "被宣告",
 ]
-
-# ja legitimately uses 的 in a few loanword contexts (rare) and legitimately
-# uses some of these markers never — keep the list target-agnostic for now,
-# false positive rate is low enough to review by hand.
 
 
 # Non-CJK-script targets (en/es/fr/vi/id/pt/hi): unlike ja/ko, these languages
@@ -111,12 +113,17 @@ def scan_file(path: Path, lang: str = None):
             hits.append(f"CJK run {m.group(0)!r} (e.g. …{ctx}…)")
         return hits
 
+    # ja/ko marker 掃描前的合法區剝除（2026-07-24）：
+    #   「…」『…』引述 span — 引用原文 zh 是編輯選擇（陳建仁原話等），非洩漏
+    #   markdown 連結（容忍一層巢狀中括號）— 引用的 zh 標題合法
+    scan = re.sub(r"「[^「」]*」|『[^『』]*』", "", text)
+    scan = re.sub(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\([^)]*\)", "", scan)
     for marker in ZH_ONLY_MARKERS:
-        c = text.count(marker)
+        c = scan.count(marker)
         if c:
             # show one example context for the first occurrence
-            idx = text.find(marker)
-            ctx = text[max(0, idx - 20):idx + 20].replace("\n", " ")
+            idx = scan.find(marker)
+            ctx = scan[max(0, idx - 20):idx + 20].replace("\n", " ")
             hits.append(f"{marker!r} x{c} (e.g. …{ctx}…)")
     return hits
 
