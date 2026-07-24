@@ -10,6 +10,7 @@ import {
 } from './src/config/languages.mjs';
 import { readdirSync, statSync, existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
+import { resolveRedirectTargets } from './scripts/core/resolve-redirect-targets.mjs';
 
 // 2026-04-24 β3: Build existing URL set from src/content/ to filter sitemap
 // hreflang alternate to only include actually-existing language versions.
@@ -194,7 +195,12 @@ export default defineConfig({
   // prebuild). Deploy platform truth is GitHub Pages — _redirects files are
   // NOT supported there, meta-refresh stubs are the only native redirect path.
   // Inline entries below win on key collision (spread order).
-  redirects: {
+  //
+  // 2026-07-24: 整張表過 resolveRedirectTargets() existence-aware 解析 —
+  // 語言文章型目標的譯文被 quarantine 暫時刪除時，stub canonical 會指向
+  // 404 直接紅 CI（同日連炸四次部署）。目標缺席 → 退 zh canonical，
+  // 譯文補回後下次 build 自動恢復直達。詳 scripts/core/resolve-redirect-targets.mjs。
+  redirects: resolveRedirectTargets({
     ...(existsSync('./config/redirects-generated.json')
       ? JSON.parse(readFileSync('./config/redirects-generated.json', 'utf-8'))
       : {}),
@@ -403,7 +409,7 @@ export default defineConfig({
     // en/ja/ko/es 共用的 taiwan-slash-generation-multi-job-economy，1 lang redirect。
     '/fr/society/slash-generation-new':
       '/fr/society/taiwan-slash-generation-multi-job-economy/',
-  },
+  }),
   // 2026-05-04: build perf tuning. Page render is 93% of build time
   // (363s render / 391s wall, baseline 4,331 pages). concurrency 1 → 4
   // is the highest-ROI lever; details in reports/research/astro-build-speed-2026-05-04.md.
