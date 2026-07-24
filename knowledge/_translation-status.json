@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T02:06:16+08:00",
-    "zhCommitHead": "4ec0cfeae",
+    "lastUpdated": "2026-07-25T02:18:36+08:00",
+    "zhCommitHead": "10db09785",
     "totalZh": 862,
     "activeLanguages": [
       "en",
@@ -67,26 +67,26 @@
       },
       "id": {
         "total_zh": 862,
-        "fresh": 93,
-        "stale": 14,
+        "fresh": 92,
+        "stale": 13,
         "metadata_stale": 0,
-        "missing": 755,
+        "missing": 757,
         "orphan": 0
       },
       "pt": {
         "total_zh": 862,
-        "fresh": 100,
+        "fresh": 102,
         "stale": 11,
         "metadata_stale": 0,
-        "missing": 751,
+        "missing": 749,
         "orphan": 0
       },
       "hi": {
         "total_zh": 862,
-        "fresh": 101,
+        "fresh": 104,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 753,
+        "missing": 750,
         "orphan": 0
       },
       "ar": {
@@ -3555,18 +3555,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Music/pop-music-and-golden-melody-awards.md",
-          "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "47d78ce76",
-          "sourceContentHash": "sha256:5406c0a04ed7374f",
-          "sourceBodyHash": "sha256:0794328a7ed72af5",
-          "translatedAt": "2026-07-25T01:11:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 20,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -10724,18 +10713,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Technology/tasa-taiwan-space-agency.md",
-          "translatedFrom": "Technology/國家太空中心.md",
-          "sourceCommitSha": "82c0407f6",
-          "sourceContentHash": "sha256:84d56ad19effe1d5",
-          "sourceBodyHash": "sha256:e55206c67a0d4344",
-          "translatedAt": "2026-07-25T01:11:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 73,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -14683,18 +14661,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Technology/justfont-and-taiwan-typography.md",
-          "translatedFrom": "Technology/justfont與台灣字體發展.md",
-          "sourceCommitSha": "e773ef6b0",
-          "sourceContentHash": "sha256:6e31a2264dcded4f",
-          "sourceBodyHash": "sha256:dcea1d33e3c8824c",
-          "translatedAt": "2026-07-25T01:11:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 65,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "status": "missing"
@@ -17159,8 +17126,8 @@
           "sourceContentHash": "sha256:9a60e6a6f1ead864",
           "sourceBodyHash": "sha256:913432e882e783cc",
           "translatedAt": "2026-07-25T01:31:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10db0978",
+          "translationLastModified": "2026-07-25T02:15:17+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -24583,8 +24550,8 @@
           "sourceContentHash": "sha256:22f624258f9ada15",
           "sourceBodyHash": "sha256:be7b46d45d345648",
           "translatedAt": "2026-07-25T01:11:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10db0978",
+          "translationLastModified": "2026-07-25T02:15:17+08:00",
           "inferred": false,
           "footnoteDefs": 73,
           "status": "fresh",
@@ -25500,7 +25467,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/volunteering-and-civic-charity-in-taiwan.md",
+          "translatedFrom": "Society/台灣志工文化與公益參與.md",
+          "sourceCommitSha": "165db3959",
+          "sourceContentHash": "sha256:83e68a6262dbf058",
+          "sourceBodyHash": "sha256:7149df720d9ca880",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "10db0978",
+          "translationLastModified": "2026-07-25T02:15:17+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -26016,8 +25994,8 @@
           "sourceContentHash": "sha256:dacc755fc6695d56",
           "sourceBodyHash": "sha256:8ca41487dbdd4aec",
           "translatedAt": "2026-07-25T01:31:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10db0978",
+          "translationLastModified": "2026-07-25T02:15:17+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -37240,8 +37218,8 @@
           "sourceContentHash": "sha256:371da55946bd0c24",
           "sourceBodyHash": "sha256:7e95d6d709cb27df",
           "translatedAt": "2026-07-25T01:31:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10db0978",
+          "translationLastModified": "2026-07-25T02:15:17+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -40288,7 +40266,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/constant-and-change-band.md",
+          "translatedFrom": "People/康士坦的變化球.md",
+          "sourceCommitSha": "160c9d82d",
+          "sourceContentHash": "sha256:37d8610a843cfcf0",
+          "sourceBodyHash": "sha256:f8b9d7518607d1e1",
+          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translationLastCommit": "10db0978",
+          "translationLastModified": "2026-07-25T02:15:17+08:00",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -69668,7 +69657,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/golden-croissant.md",
+          "translatedFrom": "Food/金牛角.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c876a6c84ad1bc82",
+          "sourceBodyHash": "sha256:97ba5602057c57dc",
+          "translatedAt": "2026-07-25T01:31:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -73757,7 +73757,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taiwan-maritime-trade-history.md",
+          "translatedFrom": "History/台灣海洋貿易史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:3828ee010a982636",
+          "sourceBodyHash": "sha256:1b234f51be7edbb9",
+          "translatedAt": "2026-07-25T01:31:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -81532,7 +81543,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/how-to-read-the-taiwan-map.md",
+          "translatedFrom": "Geography/台灣地圖怎麼讀.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:098044cbe17d84d6",
+          "sourceBodyHash": "sha256:0dee5d4db7ae7893",
+          "translatedAt": "2026-07-25T01:31:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -87673,20 +87695,7 @@
           "diffSummary": "+10 -10"
         },
         "id": {
-          "path": "id/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
-          "translatedFrom": "Culture/台灣茶文化.md",
-          "sourceCommitSha": "1ca06efe1",
-          "sourceContentHash": "sha256:8bdbe5a1e20e55e8",
-          "sourceBodyHash": "sha256:4cb6ccf15aa55cf6",
-          "translatedAt": "2026-07-18T18:59:54+08:00",
-          "translationLastCommit": "f6054c73",
-          "translationLastModified": "2026-07-24T20:41:47+08:00",
-          "inferred": false,
-          "footnoteDefs": 32,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -10"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
@@ -89417,8 +89426,8 @@
           "sourceContentHash": "sha256:2b63bb823fbdea45",
           "sourceBodyHash": "sha256:6966802b8bb41d32",
           "translatedAt": "2026-07-25T01:31:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10db0978",
+          "translationLastModified": "2026-07-25T02:15:17+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -89818,10 +89827,32 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/common-taiwanese-names.md",
+          "translatedFrom": "Culture/菜市場名.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4f24d54138c9fd30",
+          "sourceBodyHash": "sha256:e1adcb11fb9e8afa",
+          "translatedAt": "2026-07-25T01:31:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/common-taiwanese-names.md",
+          "translatedFrom": "Culture/菜市場名.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4f24d54138c9fd30",
+          "sourceBodyHash": "sha256:e1adcb11fb9e8afa",
+          "translatedAt": "2026-07-25T01:31:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
