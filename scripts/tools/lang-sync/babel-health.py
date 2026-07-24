@@ -29,7 +29,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
 KNOW = ROOT / "knowledge"
-LANGS = ["en", "ja", "ko", "es", "fr"]
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from langs import ENABLED_TRANSLATION_LANGS  # noqa: E402
+
+LANGS = ENABLED_TRANSLATION_LANGS
 
 FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.S)
 TF_RE = re.compile(r"^translatedFrom:\s*['\"]?(.+?)['\"]?\s*$", re.M)

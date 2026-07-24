@@ -43,22 +43,22 @@ const NON_DEFAULT_ENABLED_LANGS = LANGUAGES.filter(
   (l) => l.enabled && !l.isDefault,
 ).map((l) => l.code);
 
-const CATEGORY_FOLDER_TO_SLUG = {
-  History: 'history',
-  Geography: 'geography',
-  Culture: 'culture',
-  Food: 'food',
-  Art: 'art',
-  Music: 'music',
-  Technology: 'technology',
-  Nature: 'nature',
-  People: 'people',
-  Society: 'society',
-  Economy: 'economy',
-  Lifestyle: 'lifestyle',
-  About: 'about',
-  Resources: 'resources',
-};
+// 分類清單從 knowledge/ 目錄 derive（大寫開頭目錄 = 分類，URL slug = lowercase）。
+// 2026-07-24 之前這裡是手維 14 個分類的寫死清單，漏了 Politics —— 12 篇文章
+// 55 筆翻譯被 validZh 濾掉，Politics 分類自出生起沒有切換器連結與 hreflang。
+// 神經迴路「新語言/新分類出生時感知系統不會自動更新」的分類層復發，架構解同款：
+// filesystem-derived（對齊 staticRoutes.ts getCategorySlugs）。
+let _categoryFolders = null;
+async function getCategoryFolders() {
+  if (_categoryFolders) return _categoryFolders;
+  const folders = [];
+  for (const e of await readdir(KNOWLEDGE_DIR, { withFileTypes: true })) {
+    if (e.isDirectory() && /^[A-Z]/.test(e.name)) folders.push(e.name);
+  }
+  _categoryFolders = folders;
+  return folders;
+}
+const catSlugOf = (folder) => folder.toLowerCase();
 
 function normalizePath(path) {
   if (!path) return '/';
@@ -71,7 +71,7 @@ function normalizePath(path) {
 
 async function getValidZhFiles() {
   const set = new Set();
-  for (const folder of Object.keys(CATEGORY_FOLDER_TO_SLUG)) {
+  for (const folder of await getCategoryFolders()) {
     try {
       const files = await readdir(join(KNOWLEDGE_DIR, folder));
       for (const f of files) {
@@ -115,7 +115,7 @@ async function buildRegistry() {
     if (!langFile.startsWith('en/')) continue;
     const parts = langFile.replace(/\.md$/, '').split('/');
     if (parts.length < 3) continue;
-    const catSlug = CATEGORY_FOLDER_TO_SLUG[parts[1]] || parts[1].toLowerCase();
+    const catSlug = catSlugOf(parts[1]);
     zhToEnEntry[zhFile] = { catSlug, slug: parts[2] };
   }
 
@@ -147,11 +147,9 @@ async function buildRegistry() {
     if (!NON_DEFAULT_ENABLED_LANGS.includes(langPrefix)) continue;
 
     if (langParts.length >= 3 && zhParts.length >= 2) {
-      const zhCatSlug =
-        CATEGORY_FOLDER_TO_SLUG[zhParts[0]] || zhParts[0].toLowerCase();
+      const zhCatSlug = catSlugOf(zhParts[0]);
       const zhUrl = `/${zhCatSlug}/${encodeURIComponent(zhParts[1])}`;
-      const langCatSlug =
-        CATEGORY_FOLDER_TO_SLUG[langParts[1]] || langParts[1].toLowerCase();
+      const langCatSlug = catSlugOf(langParts[1]);
 
       if (langPrefix === 'en') {
         add(langPrefix, `/en/${langCatSlug}/${langParts[2]}`, zhUrl);

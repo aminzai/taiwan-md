@@ -27,7 +27,14 @@ REPO = Path(__file__).resolve().parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
 TRANSLATIONS = KNOWLEDGE / "_translations.json"
 
-LANG_DIRS = ["en", "ja", "ko", "es", "fr"]
+# SSOT via scripts/tools/lang-sync/langs.py (2026-07-18 出生戰役去硬編碼) —
+# 這支腳本住 scripts/tools/ 不是 scripts/tools/lang-sync/，當時的去硬編碼掃蕩
+# 沒覆蓋到，vi/id/pt/hi 四語誕生後 _translations.json 一直是 0 entries
+# （下游 getLangSwitchPath / hreflang / 語言切換器全部看不到這四語的譯文）。
+sys.path.insert(0, str(REPO / "scripts" / "tools" / "lang-sync"))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402
+
+LANG_DIRS = ALL_TRANSLATION_LANGS
 
 
 def parse_frontmatter(content: str) -> dict:

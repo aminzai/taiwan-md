@@ -59,7 +59,9 @@ fi
 if [ "${TWMD_SKIP_PREPUSH_SWEEP:-0}" != "1" ] &&
   [ -f "$REPO/scripts/tools/sync-translations-json.py" ] &&
   command -v python3 >/dev/null 2>&1; then
-  tf_out="$(python3 "$REPO/scripts/tools/sync-translations-json.py" --check 2>&1)"
+  # || true 必要：--check 對 out-of-sync（非 orphan）也 exit 1，husky sh -e 下賦值失敗會靜默炸整個 hook
+  # （2026-07-24 實測：article-health ✅ 後 hook 無訊息 fail code 1——正是下面註解說要避免的「被 out-of-sync 遮蔽」）
+  tf_out="$(python3 "$REPO/scripts/tools/sync-translations-json.py" --check 2>&1 || true)"
   if printf '%s' "$tf_out" | grep -q "Orphan translations"; then
     echo ""
     echo "🧬 pre-push: ⛔ 偵測到 orphan 譯本（translatedFrom 指向已刪除的中文 source）— CD prebuild 會 exit 2、deploy 不會發生。先在本機修掉再 push。"
