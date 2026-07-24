@@ -138,3 +138,35 @@ ja/ko marker 假陽性家族修復（的/了/一個/淘汰 出表＋引述豁免
 endpoint 探活：mac-m4max 🟢、desktop-3090 🟢、laptop-4090 🟢
 
 節點紀錄首航（哲宇 directive：fleet 每節點運作狀況跟分析也入 repo）。
+
+## 2026-07-25T00:05:44+08:00（zh 總數 862）
+
+| 語言 | fresh | stale | missing | 覆蓋率 | Δfresh | Δmissing |
+| ---- | ----: | ----: | ------: | -----: | -----: | -------: |
+| en   |   724 |   104 |      34 |  96.1% |      · |        · |
+| ja   |   700 |   156 |       6 |  99.3% |      · |        · |
+| ko   |   700 |   159 |       3 |  99.7% |      · |        · |
+| es   |   705 |   155 |       2 |  99.8% |     +1 |       -1 |
+| fr   |   701 |   161 |       0 | 100.0% |      · |        · |
+| vi   |    61 |    16 |     785 |   8.9% |     +6 |       -6 |
+| id   |    75 |    14 |     773 |  10.3% |    +10 |      -10 |
+| pt   |    67 |    14 |     781 |   9.4% |    +20 |      -19 |
+| hi   |    66 |    10 |     786 |   8.8% |    +19 |      -18 |
+
+總缺口（stale+missing）：**3959**（▼56 vs 上一筆）
+
+**節點／worker**（ok/fail 為累計；Δ為對上一筆）
+
+| 節點               |  ok | fail | Δok | 平均秒 | 主要 fail                              |
+| ------------------ | --: | ---: | --: | -----: | -------------------------------------- |
+| fleet:desktop-3090 |  37 |  138 |  +7 |      — | health×45；verify=1×43                 |
+| fleet:laptop-4090  |  20 |   90 |  +3 |      — | health×53；verify=None×24              |
+| worker:gemma31     |   1 |   34 |   · |    2.2 | no output written by tra×34            |
+| worker:laguna      |  14 |   15 | +11 |  266.9 | no output written by tra×9；verify=3×3 |
+| worker:mac         |   4 |   39 |  +2 |  357.8 | leak×24；verify=1×11                   |
+| worker:nemo        |  35 |   99 | +17 |  136.1 | leak×73；verify=1×13                   |
+| worker:nemo2       |  16 |   15 |   — |  122.5 | leak×11；verify=1×3                    |
+
+endpoint 探活：mac-m4max 🟢、desktop-3090 🟢、laptop-4090 🟢
+
+儲值後首個整點：雲端 track 4 worker 觀察 throughput；classic qwen＋fleet 3090/4090 續跑。
