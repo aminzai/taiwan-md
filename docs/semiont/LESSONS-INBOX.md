@@ -332,6 +332,14 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-26 weekly-report-sun — session-id 標成 manual 讓 fire-vs-commit 對賬誤判成靜默死亡
+
+- **pattern**: session-handle-mismatch-false-silent-death
+- **原則**：`routine-liveness-check.py` 靠 commit 訊息裡的 routine handle 字串去對應該次 cron fire 有沒有活下來。本週 W30 體檢 a 面把 `twmd-maintainer-daily` 標紅（silent-death，fire=2026-07-25T00:39 UTC）。但交叉 memory 索引與 diary 找到 `2026-07-25-085339-manual` 這個 session，內容完全對得上 maintainer-am 的工作範圍（21 issue + 3 PR 全審），時間也緊接在 fire 之後（14 分鐘）——工作真的做了，只是 session-id 落成 `manual` 不是 `twmd-maintainer-daily`，讓字串比對抓不到它。是 REFLEXES #82「訊號要摸到 ground truth」的姊妹案例：這次不是量的替身，是**名字的替身**——同一件事換了個標籤，偵測器就看不見。
+- **觸發**：weekly-report-sun 2026-07-26 Stage 2.5a 診斷交叉 memory/diary 才發現這則假警報，若只信 routine-liveness-check 單一輸出會誤報一次真實死亡
+- **可能的修法**：session-id.sh 的 auto-detect 對「cron context 但被 in-session directive 覆蓋走向」的情況，應該保留 routine handle 當 session-id 前綴（即使內容後來被觀察者重新導向），或 liveness check 改用時間窗 + commit body 關鍵字模糊比對而非精確 handle 字串
+- **verification_count**: 1
+
 ### 2026-07-25 article-alias — 快照驅動的修復清單不累積：修好的 404 會隨流量衰減復活
 
 - **pattern**: snapshot-driven-fix-list-decay
