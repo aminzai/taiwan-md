@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-26
-last_session: '2026-07-26-061455-twmd-data-refresh-am (14 步刷新全綠，零 stale，補 ar/ru .gitignore)'
+last_session: '2026-07-26-071056-twmd-feedback-triage (隊列真空，經 REST 對賬確認非斷線，同步 13 則遲到回覆)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -313,3 +313,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-26 | 052751-twmd-embeddings-nightly | bge-m3 nightly 12 語 6326 向量 0 fail、verify PASS；本機命中；rebase 過 22 commits 落後推送成功 | commit 範本屬名寫死久了會漂離事實，跑的是誰就寫誰 | [→](memory/2026-07-26-052751-twmd-embeddings-nightly.md) |
 | 2026-07-26 | 053801-twmd-routine-sync | 三層對賬：17 條已註冊 routine 全 in-sync，零漂移；昨晚才建的 routine 第一次跑就綠燈 | 零漂移仍要記一行，否則飛輪健康與否下次無從判斷 | [→](memory/2026-07-26-053801-twmd-routine-sync.md) |
 | 2026-07-26 | 061455-twmd-data-refresh-am | 開站衝刺後首次乾淨刷新：14 步全綠、freshness gate 零 stale；順手補 .gitignore 缺的 ar/ru 投影排除 | 新語言誕生的配套更新點（.gitignore）跟新 dashboard 欄位是同一種容易漏的縫 | [→](memory/2026-07-26-061455-twmd-data-refresh-am.md) |
+| 2026-07-26 | 071056-twmd-feedback-triage | 隊列真空（file=0），經 Supabase REST 對賬確認非斷線；archive-scan 同步 13 則哲宇遲到回覆進 git 主權層 | 0 新回報時仍要對賬 ground truth 才能區分「健康的空」與「斷線的空」 | [→](memory/2026-07-26-071056-twmd-feedback-triage.md) |
