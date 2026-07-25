@@ -36,7 +36,7 @@ But for those who lived within the mountains, these peaks had never needed namin
 
 ## Tongku Saveq: Mountains Older Than Nations
 
-Yushan (Jade Mountain), 3,952 meters — the highest peak in Northeast Asia. The Bunun people call it "Tongku Saveq" (東谷沙飛), meaning "sanctuary" — the last refuge of the ancestors during the time of the great flood.[^3] The Atayal call Xueshan (Snow Mountain) "Babo Hagai" (Stone Mountain). Dabajianshan is the Atayal sacred mountain "Papak Waqa," and tribal members must perform blessing rituals before ascending. The Tsou regard Yushan as a sacred mountain; certain peaks are considered residences of ancestral spirits and may not be climbed at will.
+Yushan (Jade Mountain), 3,952 meters — the highest peak in Northeast Asia. The Bunun people call it "Tongku Saveq" (東谷沙飛), meaning "sanctuary" — the last refuge of the ancestors during the time of the great flood.[^3] The Atayal call Xueshan (Snow Mountain) "B'bu' Hagay" (Stone Mountain). Dabajianshan is the Atayal sacred mountain "Papak Waqa," and tribal members must perform blessing rituals before ascending. The Tsou regard Yushan as a sacred mountain; certain peaks are considered residences of ancestral spirits and may not be climbed at will.
 
 These names preceded the Chinese-language name "Yushan" by thousands of years. During the Qing Kangxi era, Yu Yonghe's travelogue "A Brief Account of My Journey to Taiwan" noted viewing this mountain from afar: "the summit is gleaming white as jade" — and so the name "Yushan" (Jade Mountain) came to be. During the Japanese colonial period it was renamed "Niitakayama" (meaning "the new high mountain, higher than Fuji"), then changed back to Yushan after the war. The mountain never moved. Its name cycled through four rounds.
 
