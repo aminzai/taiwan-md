@@ -14,7 +14,7 @@ tags:
     Shih Ming-teh,
   ]
 subcategory: 'Politics & Democracy'
-category: people
+category: 'People'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22

@@ -1,7 +1,7 @@
 ---
 title: 'Taiwan BIM and Construction Technology: Twelve Years of Government Case-by-Case Gradualism Rewritten by an Eighteen-Month Protocol'
 description: 'On May 23, 2014, the Public Construction Commission of the Executive Yuan launched the “Platform for Promoting BIM in Public Works,” adopting the eight-character policy of “case-by-case application and gradual progress.” Eleven years and seven months later, a Taiwan developer working in Tokyo pushed a repository called REVIT_MCP_study to GitHub, where it drew more than seventy stars and more than eighty forks. In the twelve years between those moments, Taiwan’s architecture and construction industry traveled a long road from hand-drawn blueprints to 3D models, from individual experiments to national standards, and from tool upgrades to occupational redefinition.'
-date: '2026-05-22'
+date: 2026-05-22
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: '建築科技'
@@ -21,7 +21,7 @@ tags:
     'Shuotao',
   ]
 readingTime: 22
-lastVerified: '2026-05-22'
+lastVerified: 2026-05-22
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/台灣BIM與營建科技.md'

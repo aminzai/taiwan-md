@@ -5,7 +5,15 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '民主與政治'
-tags: ['social movements', 'civic participation', 'democracy', 'Wild Lily student movement', 'Sunflower Movement', 'social reform']
+tags:
+  [
+    'social movements',
+    'civic participation',
+    'democracy',
+    'Wild Lily student movement',
+    'Sunflower Movement',
+    'social reform',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +23,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:3135e379b382138b'
 sourceBodyHash: 'sha256:8080c3b51d96ed0a'
 translatedAt: '2026-05-20T05:08:27+08:00'
+difficulty: 'intermediate'
 ---
 
 # Social Movements and Civic Participation
@@ -289,16 +298,20 @@ In the future, Taiwan's social movements will face new challenges from the digit
 - [justfont and the Development of Taiwanese Typography: A Short History of Type from DynaFont's Twenty-Five Years to Jin Xuan's Seventy-Six Minutes](/technology/justfont與台灣字體發展) — Another case from the same year in which crowdfunding rewrote cultural perception, extending the narrative of civil society from the perspective of typographic infrastructure
 - [Submarine Cables: Visible above the Silicon Shield, Invisible beneath the Lifeline](/technology/海底電纜) — The legislation of the seven submarine cable laws, the Pingtung joint defense platform, and the first judicial case involving the Hong Tai 58 show the axis by which civil society pressure drove legislation for national security infrastructure
 
-[^1]: Ho Ming-sho, "Historical Materials on the Wild Lily Student Movement," included in *The Student Movement Generation: From Wild Lily to Sunflower*, https://www.books.com.tw/products/0010642379
-[^2]: Hsiao Hsin-huang, ed., *Taiwan's New Social Movements*, Chuliu Book, https://www.books.com.tw/products/0010479654
+[^1]: Ho Ming-sho, "Historical Materials on the Wild Lily Student Movement," included in _The Student Movement Generation: From Wild Lily to Sunflower_, https://www.books.com.tw/products/0010642379
+
+[^2]: Hsiao Hsin-huang, ed., _Taiwan's New Social Movements_, Chuliu Book, https://www.books.com.tw/products/0010479654
+
 [^3]: Judicial Yuan, "Act for Implementation of Judicial Yuan Interpretation No. 748," https://cons.judicial.gov.tw/
+
 [^4]: Taiwan Environmental Information Association, "The Full Story of the Anti-DuPont Incident," https://e-info.org.tw/
+
 [^5]: Judicial Yuan, "Judicial Yuan Interpretation No. 748," https://cons.judicial.gov.tw/
 
 ## References
 
-- Ho Ming-sho, *[Introduction to Social Movements](https://www.books.com.tw/products/0010294565)*
-- Hsiao Hsin-huang, *[Taiwan's New Social Movements](https://www.books.com.tw/products/0010479654)*
-- Lin Chia-lung and Zheng Yongnian, eds., *[Democratic Transition and Consolidation](https://www.books.com.tw/products/0010008479)*
-- *[The Student Movement Generation: From Wild Lily to Sunflower](https://www.books.com.tw/products/0010642379)*
+- Ho Ming-sho, _[Introduction to Social Movements](https://www.books.com.tw/products/0010294565)_
+- Hsiao Hsin-huang, _[Taiwan's New Social Movements](https://www.books.com.tw/products/0010479654)_
+- Lin Chia-lung and Zheng Yongnian, eds., _[Democratic Transition and Consolidation](https://www.books.com.tw/products/0010008479)_
+- _[The Student Movement Generation: From Wild Lily to Sunflower](https://www.books.com.tw/products/0010642379)_
 - Official websites of various social movement groups and related documentaries

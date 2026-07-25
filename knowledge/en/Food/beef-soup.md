@@ -1,7 +1,7 @@
 ---
 title: '5 a.m. Live Beef: The Supply Chain and Freshness of Tainan Beef Soup'
 description: 'Tainan beef soup has become a "representative dish" in less than twenty years, but the reasons it’s worth queuing at 5 a.m. are real—live cattle from the Shanhua slaughterhouse, a cold chain completed within a few hours, and a beef‑bone broth that has been simmering since dawn.'
-date: '2026-07-02'
+date: 2026-07-02
 category: 'Food'
 tags:
   - 'Tainan'
@@ -13,9 +13,9 @@ tags:
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: '2026-07-02'
+lastVerified: 2026-07-02
 lastHumanReview: false
-readingTime: '7'
+readingTime: 7
 translatedFrom: 'Food/牛肉湯.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:28c5ddfd25d93a95'

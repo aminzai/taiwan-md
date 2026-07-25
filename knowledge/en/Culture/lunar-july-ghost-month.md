@@ -1,7 +1,7 @@
 ---
 title: "Lunar July: From Collective Dread of 'The Gates of Hell Opening' to the Gentle Reconciliation of an Island"
 description: "In the midsummer of 2026, long tables are still set up on Taiwan streets. From the firelight in Wanghai Lane to the sweat on the lonely scaffold, from the 'Tiger Gate Opening' at Xinzhu City God Temple to the might of Minxiong Fire Cremation Shrine—Lunar July is more than a matter of taboo; it is a narrative of coexistence, memory, and an island crossing the boundary between Yin and Yang."
-date: '2026-07-20'
+date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: 'Festivals and Customs'
@@ -15,10 +15,10 @@ tags:
     'Minxiong Fire Cremation Shrine',
     'Xinzhu City God Temple',
   ]
-readingTime: '25'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 25
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/農曆七月.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:44ea24edbaea3139'

@@ -19,7 +19,7 @@ author: 'Taiwan.md'
 featured: false
 readingTime: 15min
 lastVerified: 2026-04-13
-lastHumanReview: '2026-04-13'
+lastHumanReview: true
 perspectives:
   - author: 'austinl.chang'
     text: '"In my performances, you will always be free and safe." What kind of joke is that? It''s not only at her shows that you''re free and safe — it''s in Taiwan. And it''s also in Taiwan that she can sidestep political commitment and perform gentleness.'

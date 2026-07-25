@@ -1,7 +1,7 @@
 ---
 title: 'The Mudan Incident: A Clash of Civilizations and the Awakening of Sovereignty in the Stone Ridge Gorge'
 description: 'In 1874, a military action triggered by a maritime disaster made the Stone Ridge Gorge in southern Taiwan the focal point of modern East Asian affairs. This was not only a test case for the expansion of the Japanese Empire but also a turning point for the Qing court, shifting from peripheral defense to active governance.'
-date: '2026-07-17'
+date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: 'Colonialism and Empires'
@@ -13,10 +13,10 @@ tags:
     'International Law',
     'Indigenous Peoples',
   ]
-readingTime: '12'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/牡丹社事件.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:91f467d8cc029b74'

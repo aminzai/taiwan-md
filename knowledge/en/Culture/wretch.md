@@ -1,7 +1,7 @@
 ---
 title: 'Wretch: Picked‑up Computers, Sold‑off Youth, and a Disappearance No One Mourned'
 description: 'In 1999 at NCTU dorms, six computer‑science students cobbled together a BBS called “Wretch” from the department’s discarded equipment. It grew into Taiwan’s largest blog platform and the cradle of the first generation of creators; in March 2008 it even topped Yahoo to become the top site in Taiwan. Then Yahoo bought it, and on the night of 26 December 2013 it was deleted along with a generation’s photo albums; today most people can only retrieve empty, unopenable albums. It is remembered as youth, yet that youth was from the start stored on a server whose power could be turned off by someone else.'
-date: '2026-03-23'
+date: 2026-03-23
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '網路文化'
@@ -12,7 +12,7 @@ tags:
   - '部落格'
   - 'Yahoo併購'
   - '數位保存'
-lastVerified: '2026-06-14'
+lastVerified: 2026-06-14
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/無名小站.md'

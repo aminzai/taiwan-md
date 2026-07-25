@@ -1,7 +1,7 @@
 ---
 title: 'Indigo Dyeing: Two Centuries Later, Cultivating the Same Strobilanthes cusia'
 description: 'In August 1999, Chen Ching-lin guided the Sanxia Dye Workshop in producing the first blue scarf in over seventy years. From a major Qing-era export to just ten remaining households by 1940, this craft requiring patience for living bacteria now yields distinct answers in Sanxia, Miaoli, Taiping, and Chingliao: Is the goal of revival to restore a living vat of color, or to build a sellable brand?'
-date: '2026-07-05'
+date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: 'Crafts and Aesthetics'
@@ -16,9 +16,9 @@ tags:
   - 'Hakka Blue Shirt'
   - 'Chen Ching-lin'
   - 'Cheng Mei-shu'
-lastVerified: '2026-07-05'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-05
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:1670373f1f6c3b4a'

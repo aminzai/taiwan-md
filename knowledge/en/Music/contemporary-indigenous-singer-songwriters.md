@@ -5,7 +5,14 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '當代原住民音樂'
-tags: ['Indigenous singers', 'popular music', 'cultural fusion', 'Golden Melody Awards', 'contemporary songwriting']
+tags:
+  [
+    'Indigenous singers',
+    'popular music',
+    'cultural fusion',
+    'Golden Melody Awards',
+    'contemporary songwriting',
+  ]
 readingTime: 10
 lastVerified: 2026-03-19
 lastHumanReview: true
@@ -15,6 +22,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:63a03cba4dec8d7b'
 sourceBodyHash: 'sha256:709d0c8ef67f0111'
 translatedAt: '2026-05-17T05:34:48+08:00'
+difficulty: 'beginner'
 ---
 
 # Contemporary Indigenous Singer-Songwriters
@@ -52,7 +60,7 @@ The wave of urbanization that began in the 1960s brought many Indigenous young p
 ### A-mei (1972-): The Puyuma Voice of the Queen of Asian Pop
 
 **Ethnicity:** Puyuma  
-**Debut:** 1996 album *Sisters*  
+**Debut:** 1996 album _Sisters_  
 **Representative works:** "Sisters," "Listen to the Sea," "Hand in Hand," "Can I Hold You"
 
 The emergence of A-mei changed the ecology of Mandopop.[^5] With astonishing vocal power and stage charisma, she not only became one of the most influential Mandopop female singers from the late 1990s to the early 2000s, but also allowed the world to see the musical talent of Taiwan's Indigenous peoples.
@@ -82,10 +90,10 @@ Power Station is known for its rich and forceful harmonies. The two members' voi
 ### Chen Chien-nien (1967-): The Puyuma Chanting of an Ocean Poet
 
 **Ethnicity:** Puyuma  
-**Debut:** 1999 album *Ocean*  
+**Debut:** 1999 album _Ocean_  
 **Representative works:** "Ocean," "Love of Lanyu," "Hometown Puyuma"
 
-Chen Chien-nien has been hailed as the "father of Indigenous folk music." His musical style is warm and restrained, and his singing carries the depth of the ocean and the stillness of mountain forests. His album *Ocean* won Best Mandarin Male Singer at the 11th Golden Melody Awards,[^4] establishing an important position for Indigenous music at the Golden Melody Awards.
+Chen Chien-nien has been hailed as the "father of Indigenous folk music." His musical style is warm and restrained, and his singing carries the depth of the ocean and the stillness of mountain forests. His album _Ocean_ won Best Mandarin Male Singer at the 11th Golden Melody Awards,[^4] establishing an important position for Indigenous music at the Golden Melody Awards.
 
 **Musical characteristics:**
 
@@ -116,7 +124,7 @@ Biung Wang is a highly talented singer-songwriter whose music ranges across folk
 
 **Birth name:** Chiang Sheng-min  
 **Ethnicity:** Amis (Dulan community)  
-**Debut:** 2010 album *Suming*  
+**Debut:** 2010 album _Suming_  
 **Representative works:** "Don't Give Up," "Beautiful Rice Ears," "Ina"
 
 Suming is one of the most representative contemporary Indigenous singer-songwriters. His music combines Amis traditions, modern rock, electronic music, and other elements, creating a distinctive "Dulan sound."
@@ -136,11 +144,11 @@ Suming is one of the most representative contemporary Indigenous singer-songwrit
 
 **Major album chronology:**
 
-- ***Suming* (2010):** His debut work, performing modern rock in the Amis language; "Don't Give Up" became widely sung
-- ***East and West* (2012):** Explores the conflict between tribal culture and modern life, with more mature use of the Amis vocable hai-yan
-- ***The Sea. I Am Waiting for You Here* (2015):** Incorporates field recordings of natural sounds from the Dulan coast into its arrangements and returns to tribal themes
-- ***I am Suming* (2017):** Blends world music and electronic elements; nominated for Best Indigenous Language Album at the 28th Golden Melody Awards
-- ***Love* (2019):** Turns toward more personal emotional writing while retaining an Indigenous-language core
+- **_Suming_ (2010):** His debut work, performing modern rock in the Amis language; "Don't Give Up" became widely sung
+- **_East and West_ (2012):** Explores the conflict between tribal culture and modern life, with more mature use of the Amis vocable hai-yan
+- **_The Sea. I Am Waiting for You Here_ (2015):** Incorporates field recordings of natural sounds from the Dulan coast into its arrangements and returns to tribal themes
+- **_I am Suming_ (2017):** Blends world music and electronic elements; nominated for Best Indigenous Language Album at the 28th Golden Melody Awards
+- **_Love_ (2019):** Turns toward more personal emotional writing while retaining an Indigenous-language core
 
 Suming's name means "northern wind" in the Amis language, and the name has also become a gloss on his musical style: directional, yet wild. He has operated a music studio in Dulan over the long term, turning the community into a living cultural field of continuous creation.
 
@@ -148,7 +156,7 @@ Suming's name means "northern wind" in the Amis language, and the name has also 
 
 **Birth name:** Shen Huai-yi  
 **Ethnicity:** Puyuma  
-**Debut:** 2008 album *Dalan*  
+**Debut:** 2008 album _Dalan_  
 **Representative works:** "[Dalan](https://www.youtube.com/watch?v=ealNSQUDAaU)," "Lahan," "Myth"
 
 Sangpuy's music has a strong spiritual quality.[^6] His voice is deep and powerfully affecting, and his lyrics often carry philosophical reflection and cultural critique. He has been called "Taiwan's Bob Dylan," with a musical style entirely his own.
@@ -162,10 +170,10 @@ Sangpuy's music has a strong spiritual quality.[^6] His voice is deep and powerf
 
 **Major album chronology:**
 
-- ***Dalan* (2008):** Won Best Indigenous Language Album at the 20th Golden Melody Awards; interprets the ties between land and soul in the Puyuma language
-- ***Kagayan* (2013):** Its title is taken from a traditional Puyuma song; includes poetic works such as "Lahan" and uses spare instruments such as xylophone and harmonica
-- ***Myth* (2017):** Enters a steadier creative stage, writing tribal myths and ancestral memory
-- ***Sising* (2020):** Uses pure Puyuma to explore questions of life, death, and waiting
+- **_Dalan_ (2008):** Won Best Indigenous Language Album at the 20th Golden Melody Awards; interprets the ties between land and soul in the Puyuma language
+- **_Kagayan_ (2013):** Its title is taken from a traditional Puyuma song; includes poetic works such as "Lahan" and uses spare instruments such as xylophone and harmonica
+- **_Myth_ (2017):** Enters a steadier creative stage, writing tribal myths and ancestral memory
+- **_Sising_ (2020):** Uses pure Puyuma to explore questions of life, death, and waiting
 
 Sangpuy's live performances are known for their minimalism: one guitar, one microphone, yet a voice that seems to come from deep within the earth. He once said that he is merely taking what Puyuma elders had long since sung and retelling it to young people in a modern context.
 
@@ -186,9 +194,9 @@ ABAO is one of contemporary Taiwan's most internationally watched Indigenous sin
 
 **Major awards and milestones:**
 
-- Best Taiwanese Album at the 30th Golden Melody Awards (2019, *kinakaian Mother Tongue*)
+- Best Taiwanese Album at the 30th Golden Melody Awards (2019, _kinakaian Mother Tongue_)
 - Best Indigenous Language Singer at the 31st Golden Melody Awards (2020)
-- Selected as an Asian-edition cover figure by *TIME* magazine (2021)
+- Selected as an Asian-edition cover figure by _TIME_ magazine (2021)
 
 ABAO's musical influence extends beyond Taiwan itself; she has become one of the most visible representative voices of Taiwan Indigenous culture globally. By packaging Indigenous-language songs with modern production standards, she proves that Indigenous languages can speak directly to global audiences in the streaming era, without the mediation of any translation.
 
@@ -218,7 +226,7 @@ Panai is known for deeply socially conscious songwriting. Her voice carries a st
 
 Ilid Kaolo is dedicated to reinterpreting ancient Amis songs. Her music preserves the spiritual core of tradition while introducing a modern musical vocabulary.
 
-🎵 **The Beauty of Indigenous Music:** [Kimbo Hu, "Wind from the Pacific"](https://www.youtube.com/watch?v=1orwkijmkIU) ｜ [Works by ABAO](https://www.youtube.com/@abao_888) ｜ [Sangpuy *Dalan* album preview](https://www.youtube.com/watch?v=ealNSQUDAaU)
+🎵 **The Beauty of Indigenous Music:** [Kimbo Hu, "Wind from the Pacific"](https://www.youtube.com/watch?v=1orwkijmkIU) ｜ [Works by ABAO](https://www.youtube.com/@abao_888) ｜ [Sangpuy _Dalan_ album preview](https://www.youtube.com/watch?v=ealNSQUDAaU)
 
 ### Innovation in Band Form
 
@@ -244,12 +252,12 @@ Since the Golden Melody Awards established the Best Indigenous Language Album Aw
 
 ### Important Winners Over the Years
 
-Chen Chien-nien's *Ocean* had already broken the silence of mainstream awards toward Indigenous artists in 2000 (the 11th awards) by winning "Best Pop Music Vocalist"; Suming's *Suming* won Best Indigenous Language Album at the 22nd awards.
+Chen Chien-nien's _Ocean_ had already broken the silence of mainstream awards toward Indigenous artists in 2000 (the 11th awards) by winning "Best Pop Music Vocalist"; Suming's _Suming_ won Best Indigenous Language Album at the 22nd awards.
 
-- **Sangpuy:** *Dalan* (Best Indigenous Language Album, 20th awards)
-- **Ilid Kaolo:** *A Light in the Mist* (Best Indigenous Language Album, 30th awards)
-- **ABAO:** *kinakaian Mother Tongue* (Best Taiwanese Album, 30th awards); Best Indigenous Language Singer, 31st awards
-- **Suming:** Multiple nominations for Best Indigenous Language Album, including *I am Suming* (28th awards)
+- **Sangpuy:** _Dalan_ (Best Indigenous Language Album, 20th awards)
+- **Ilid Kaolo:** _A Light in the Mist_ (Best Indigenous Language Album, 30th awards)
+- **ABAO:** _kinakaian Mother Tongue_ (Best Taiwanese Album, 30th awards); Best Indigenous Language Singer, 31st awards
+- **Suming:** Multiple nominations for Best Indigenous Language Album, including _I am Suming_ (28th awards)
 - **Nabu Husungan Istanda:** An important Amis singer-songwriter of the 2010s and a frequent Golden Melody Awards presence
 - **Elisa Huang:** Atayal; recognized multiple times in Indigenous-language categories for Indigenous-language songs
 - **Matzka:** Fuses reggae with Indigenous-language elements, reaching younger audiences with a light musical style and winning the Golden Melody Award for Best New Artist
@@ -324,7 +332,7 @@ Contemporary Indigenous singers are also creating new models of cultural transmi
 
 ## Listening Guide
 
-The most direct way to understand contemporary Taiwan Indigenous music is to begin with several representative albums: Chen Chien-nien's *Ocean* is the purest folk starting point; Suming's *Suming* displays the energy of contemporary Amis rock; and Sangpuy's *Dalan* carries an intense spiritual quality. A-mei's *A-mei* and Ilid Kaolo's *A Light in the Mist* respectively represent different routes through commercial mainstream music and the transmission of ancient songs.
+The most direct way to understand contemporary Taiwan Indigenous music is to begin with several representative albums: Chen Chien-nien's _Ocean_ is the purest folk starting point; Suming's _Suming_ displays the energy of contemporary Amis rock; and Sangpuy's _Dalan_ carries an intense spiritual quality. A-mei's _A-mei_ and Ilid Kaolo's _A Light in the Mist_ respectively represent different routes through commercial mainstream music and the transmission of ancient songs.
 
 ### Live Performances and Events
 
@@ -338,7 +346,7 @@ The path traveled by Taiwan's contemporary Indigenous singers is one in which tr
 
 ## References
 
-- Lu Yu-hsiu, *Taiwan Music History*, Wunan Culture, 2003. [Books.com.tw](https://www.books.com.tw/products/0010906148)
+- Lu Yu-hsiu, _Taiwan Music History_, Wunan Culture, 2003. [Books.com.tw](https://www.books.com.tw/products/0010906148)
 - [Official website of the Council of Indigenous Peoples](https://www.cip.gov.tw/)
 - [Golden Melody Awards winners over the years](https://gma.tavis.tw/)
 - [Public Television Taiwan Indigenous Television](https://titv.ipcf.org.tw/)
@@ -348,10 +356,16 @@ The path traveled by Taiwan's contemporary Indigenous singers is one in which tr
 - [Suming Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%88%92%E7%B1%B3%E6%81%A9)
 - [Sangpuy Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A)
 
-[^1]: [Lu Yu-hsiu, *Taiwan Music History*, Wunan Culture, 2003](https://www.books.com.tw/products/0010906148) — An academic general history of the development of Taiwan Indigenous music; Chapter 1 details the musical characteristics of various Indigenous peoples
+[^1]: [Lu Yu-hsiu, _Taiwan Music History_, Wunan Culture, 2003](https://www.books.com.tw/products/0010906148) — An academic general history of the development of Taiwan Indigenous music; Chapter 1 details the musical characteristics of various Indigenous peoples
+
 [^2]: [Official website of the Council of Indigenous Peoples](https://www.cip.gov.tw/) — The official government platform for Taiwan Indigenous policy, cultural resources, and introductions to Indigenous peoples
+
 [^3]: [Power Station — Wikipedia](https://zh.wikipedia.org/zh-tw/動力火車) — Yen Chih-lin and Yu Chiu-hsing are both Paiwan; related ethnic information is recorded in this entry
-[^4]: [Golden Melody Awards winners over the years](https://gma.tavis.tw/) — Chen Chien-nien's *Ocean* won Best Male Pop Music Vocalist at the 11th awards (2000), the first time an Indigenous artist won a major Golden Melody Award category
+
+[^4]: [Golden Melody Awards winners over the years](https://gma.tavis.tw/) — Chen Chien-nien's _Ocean_ won Best Male Pop Music Vocalist at the 11th awards (2000), the first time an Indigenous artist won a major Golden Melody Award category
+
 [^5]: [A-mei — Wikipedia](https://zh.wikipedia.org/zh-tw/張惠妹) — Puyuma singer; a complete record of her life, discography, and status as Queen of Asian Pop
+
 [^6]: [Sangpuy — Wikipedia](https://zh.wikipedia.org/zh-tw/桑布伊) — Puyuma singer-songwriter, with records of his spiritual-poetic style and Golden Melody Awards
+
 [^7]: [Golden Melody Awards winners over the years](https://gma.tavis.tw/) — The Best Indigenous Language Album Award was established beginning with the 16th awards (2005), and complete records of winners over the years are included

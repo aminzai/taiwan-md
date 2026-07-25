@@ -1,7 +1,7 @@
 ---
 title: 'Stan Shih: From a Duck Egg Stall in Lukang to a Brand Called Taiwan'
 description: "At a 1981 electronics show in San Francisco, a plastic-shell laptop that closed like a book drew 20 U.S. distributors circling it for agency rights—marking the first time many Taiwanese touched a 'computer made in Taiwan.' The man behind it lost his father to overwork at age three and was raised by a mother who sold duck eggs and patriotic bonds. He built Acer into a top-five global PC brand, drew the Smiling Curve that entered textbooks, and stands among Taiwan’s rare tech patriarchs willing to face the camera and say, 'I am the biggest loser.'"
-date: '2026-03-22'
+date: 2026-03-22
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
@@ -15,9 +15,9 @@ tags:
     'Entrepreneur',
     'Lukang',
   ]
-lastVerified: '2026-07-06'
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-07-06
+lastHumanReview: false
+featured: true
 translatedFrom: 'People/施振榮.md'
 sourceCommitSha: '648966ea'
 sourceContentHash: 'sha256:4207f3d1db6eb633'

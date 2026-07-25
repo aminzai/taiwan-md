@@ -13,6 +13,7 @@ sourceCommitSha: '50617dc1'
 sourceContentHash: 'sha256:25424dad4bf389f3'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
 translatedAt: '2026-05-01T12:21:52+08:00'
+featured: false
 ---
 
 > **30-Second Overview:** In 1998, real estate magnate Lin Min-hsiung took over the consecutive-loss-making, 66-store military-civil-education welfare station system. As a complete outsider to retail, he set a survival red line of "20% cheaper than competitors, 2% profit" and carved out a supermarket path through the gap between superstore giants like Carrefour and the convenience omnipresence of 7-Eleven. Today, PX Mart is the retail hegemon with annual revenues exceeding NT$200 billion and 1,200 stores — but the monopoly controversies and digital transformation growing pains behind its rapid expansion are now testing this "life platform's" next twenty years.

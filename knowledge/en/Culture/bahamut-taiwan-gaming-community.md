@@ -22,6 +22,8 @@ sourceCommitSha: 'f5975a22'
 sourceContentHash: 'sha256:6af04295a71690eb'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
 translatedAt: '2026-06-22T00:30:00+08:00'
+lastVerified: 2026-04-05
+lastHumanReview: false
 ---
 
 # Bahamut

@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1b722cc963da8ad2'
 sourceBodyHash: 'sha256:b8e419f98d87f2d4'
 translatedAt: '2026-05-02T11:00:00+08:00'
+featured: false
 ---
 
 > **30-second overview:** Opened in 1987 as part of the Chiang Kai-shek Memorial complex, the National Theater and Concert Hall (NTCH) used a hip-and-gable roof for the National Theater and a half-hip roof for the National Concert Hall — a roof-rank difference that signaled who sat where. By 2003, then-director Ju Tzong-ching tore down the iron gates at the Xinyi Road intersection; in 2004 it was reorganized into Taiwan's first administrative juridical person. Current Artistic Director Liu Yi-ru put it this way: "When you make the rules for watching a performance so cumbersome, you've already filtered out certain audiences from the start." Behind the concert hall's wooden walls hides a Dutch Flentrop organ with 4,172 pipes — Taiwan's first, and Asia's largest at the time.

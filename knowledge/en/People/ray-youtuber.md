@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Digital & Media'
 category: 'People'
-author: 'Tank'
+author: '坦克'
 readingTime: 9
 lastVerified: 2026-03-23
 lastHumanReview: false

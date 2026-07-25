@@ -1,7 +1,7 @@
 ---
 title: 'Ethan Tu (杜奕瑾)'
 description: 'Founder of PTT, former Microsoft AI lead, and creator of Taiwan AI Labs—an architect of Taiwan’s digital public sphere'
-date: 2026-03-19
+date: 2026-03-30
 tags:
   [
     People,
@@ -12,16 +12,17 @@ tags:
     Artificial Intelligence,
   ]
 subcategory: 'Tech & Business'
-author: 'idlccp02'
-readingTime: 8
+author: 'Taiwan.md'
+readingTime: 9
 featured: true
 category: 'People'
-lastVerified: 2026-03-19
+lastVerified: 2026-03-30
 translatedFrom: 'People/杜奕瑾.md'
 sourceCommitSha: 'ab47ff39'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
 translatedAt: '2026-04-14T12:25:09+08:00'
+lastHumanReview: false
 ---
 
 # Ethan Tu (杜奕瑾): From PTT to Taiwan’s AI Vanguard

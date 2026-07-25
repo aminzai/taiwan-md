@@ -14,7 +14,7 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
-readingTime: '12'
+readingTime: 12
 translatedFrom: 'Politics/村里長制度.md'
 sourceCommitSha: '837e22b9'
 sourceContentHash: 'sha256:cce4699f9fdc3697'

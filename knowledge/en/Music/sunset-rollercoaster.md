@@ -1,7 +1,7 @@
 ---
 title: 'Sunset Rollercoaster: From a Photo Booth Background Shot to Coachella, 14 Years of Singing Taipei Sunsets in English'
 description: "In 2010, a 19-year-old student casually chose the Mac Photo Booth preset 'Sunset Rollercoaster' as his MySpace profile picture. Fourteen years later, the band became the first Taiwanese band in more than two decades to be invited to Coachella. All-English lyrics, subtropical City Pop, and no reliance on the music industry system: from a casually selected silhouette of a roller coaster, they created one of the ways Taiwan has been heard most clearly by the world."
-date: '2026-05-23'
+date: 2026-05-23
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '獨立與搖滾'
@@ -16,7 +16,7 @@ tags:
     'Taipei',
   ]
 readingTime: '12min'
-lastVerified: '2026-05-27'
+lastVerified: 2026-05-27
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/落日飛車.md'

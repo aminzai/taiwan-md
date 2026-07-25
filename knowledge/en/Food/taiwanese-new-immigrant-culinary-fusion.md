@@ -11,7 +11,7 @@ tags:
     'immigrant culture',
   ]
 subcategory: '族群飲食'
-author: 'Taiwan.md Editorial Team'
+author: 'Taiwan.md 編輯團隊'
 readingTime: 10
 featured: true
 category: 'Food'

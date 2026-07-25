@@ -24,6 +24,8 @@ sourceCommitSha: '2e6738999'
 sourceContentHash: 'sha256:c03fa77efb2f6e8c'
 sourceBodyHash: 'sha256:8e73793f11fceb53'
 translatedAt: '2026-07-24T10:40:41+08:00'
+image: '/article-images/economy/aama-15th-cohort-2026.webp'
+imageCredit: 'AAMA台北搖籃計畫'
 ---
 
 > **30-Second Overview:** The AAMA Taipei Cradle Program is a rare existence in Taiwan: a startup mentorship program that does not invest, take equity, or charge tuition. Founded in 2012 by _Hung-Tze Jang_ (詹宏志), publisher of _Digital Times_, and retired accounting consultant _Charles Yen_ (顏漏有), it pairs seasoned executives with one growing entrepreneur for two years. It accepts only about twenty participants annually; after thirteen years, it has reached its fifteenth cohort, yet has accumulated names like Appier, Social Enterprise Stream, and Portaly. Its most counterintuitive feature is a choice: a group of people who could have retired to enjoy life chose the slowest, least scalable method to hand over the hard-to-articulate craft of "how to grow a company" to the next generation, without expecting anything in return.

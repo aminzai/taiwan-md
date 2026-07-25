@@ -3,9 +3,17 @@ title: 'Semiconductor Water Use and Taiwan’s Water Resources: The Reservoir Be
 description: 'Chip manufacturing needs ultrapure water, but Taiwan’s water does not exist only inside factory pipes. It also exists among reservoirs, rainfall, drought, agricultural irrigation, reclaimed water, and local allocation. This article does not reduce semiconductor water use to a one-line conflict of "TSMC stealing water." It explains how advanced processes bind Taiwan’s island hydrology, public governance, reclaimed-water infrastructure, and global supply chains together, pulling high tech back to reservoirs, farms, and local trust.'
 date: 2026-07-11
 category: 'Technology'
-tags: ['semiconductors', 'water resources', 'TSMC', 'ultrapure water', 'reclaimed water', 'supply chain']
+tags:
+  [
+    'semiconductors',
+    'water resources',
+    'TSMC',
+    'ultrapure water',
+    'reclaimed water',
+    'supply chain',
+  ]
 subcategory: '半導體與硬體'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -176,6 +184,9 @@ That is why semiconductor water use is worth understanding: it turns the most ab
 ## References
 
 [^1]: [WIRED: Want to Win a Chip War? You’re Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED’s 2023 reporting on semiconductor manufacturing’s demand for ultrapure water and water-treatment facilities, including tensions between chip manufacturing and agricultural water use during Taiwan’s drought.
+
 [^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — TSMC Arizona’s official page describes the site’s investment, advanced-process plans, water-recycling system, and industrial-water reclamation facility goal, useful as a case of overseas fab water governance.
+
 [^3]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Reporting on Arizona’s expanding semiconductor cluster, including jobs, local development, water resources, environmental concerns, and worker safety, useful for balancing the local-social perspective on overseas manufacturing.
+
 [^4]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — A study of the environmental footprint of 16 Taiwanese electronics-component manufacturers from 2015 to 2020, raising the risk that water use, energy, and carbon emissions increase with output.

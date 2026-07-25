@@ -1,26 +1,27 @@
 ---
 title: "Zhuyin Phonetic Symbols: Taiwan's Unique Textual Code"
-description: "The only phonetic system still used daily worldwide—how Zhuyin evolved from a century-old ancient character simplification scheme into a shared code for 23 million people"
+description: 'The only phonetic system still used daily worldwide—how Zhuyin evolved from a century-old ancient character simplification scheme into a shared code for 23 million people'
 date: 2026-03-18
-category: "Culture"
+category: 'Culture'
 tags:
-  - "Zhuyin"
-  - "Language"
-  - "Education"
-  - "Cultural Identity"
-  - "Input Method"
-  - "BPMF"
-subcategory: "語言與文字"
-author: "Taiwan.md"
-readingTime: "12"
+  - 'Zhuyin'
+  - 'Language'
+  - 'Education'
+  - 'Cultural Identity'
+  - 'Input Method'
+  - 'BPMF'
+subcategory: '語言與文字'
+author: 'Taiwan.md'
+readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
-translatedFrom: "Culture/注音符號.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:60ed5696349fd181"
-sourceBodyHash: "sha256:220255acfc6a8977"
-translatedAt: "2026-05-20T05:08:27+08:00"
+translatedFrom: 'Culture/注音符號.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:60ed5696349fd181'
+sourceBodyHash: 'sha256:220255acfc6a8977'
+translatedAt: '2026-05-20T05:08:27+08:00'
+difficulty: 'beginner'
 ---
 
 # Zhuyin Phonetic Symbols: Taiwan's Unique Textual Code
@@ -136,6 +137,9 @@ In this rapidly changing era, Zhuyin reminds us: **some precious things deserve 
 ## References
 
 [^1]: Ministry of Education, Republic of China, “Zhuyin Phonetic Symbol Teaching Guidelines,” 2024 edition, https://language.moe.gov.tw/
+
 [^2]: Wikipedia, “Zhuyin Phonetic Symbols” entry, https://zh.wikipedia.org/wiki/注音符號
+
 [^3]: Ministry of Education, Mandarin Promotion Committee, “Evolution of Zhuyin,” 1978; Ministry of Education Language Achievement Network https://language.moe.gov.tw/
+
 [^6]: Mandarin Promotion Committee, “Zhuyin Classification: 21 initials (ㄅㄆㄇㄈ etc.), 3 medials (ㄧㄨㄩ), 13 finals,” https://language.moe.gov.tw/; see Ministry of Education Mandarin Dictionary, https://dict.revised.moe.edu.tw/

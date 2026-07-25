@@ -13,6 +13,7 @@ sourceContentHash: 'sha256:42fcc41544e48198'
 sourceBodyHash: 'sha256:13ac312ffbbbdc9b'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
+author: 'Taiwan.md'
 ---
 
 > **30-Second Overview:** In 1973, a 26-year-old novelist named Lin Hwai-min with no professional dance background

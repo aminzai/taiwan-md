@@ -19,6 +19,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c3ce92b18e6d1aeb'
 sourceBodyHash: 'sha256:621573191262d79d'
 translatedAt: '2026-06-16T17:10:15Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Indigenous Literature of Taiwan

@@ -1,7 +1,7 @@
 ---
 title: "Shilin: Ketagalan Land, a Temple from the Zhangzhou-Quanzhou Feuds, and Now Taipei's Most Crowded Night Market Every Night"
 description: 'At 7:30 p.m., Korean tourists at the entrance to Shilin Night Market hold up giant fried chicken cutlets for selfies, while beside them Cixian Temple at No. 84 Danan Road has stood from 1796, the first year of the Jiaqing reign, to 2026, when it turns 230. In 1859, the ninth year of the Xianfeng reign, Zhangzhou people were burned out of this street by Quanzhou people. In 1860, the gengshen year, Pan Yongqing laid out four squared-off streets in Xiashulin: Dadong Road, Danan Road, Daxi Road, and Dabei Road, placing the temple at the exact center. In 1909, the Japanese built a market opposite the temple; in 1955, Yangming Theater was completed on Wenlin Road; in 1992, Hot-Star Large Fried Chicken was invented in Taichung and entered Shilin in 1999. The postwar-added sheds were demolished in 2002; the new market opened in 2011; the underground food court has two shifts of people from morning to night. The temple is still in its original place, but at its feet two cities take turns every day.'
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區 / 台北市士林區'
@@ -26,10 +26,10 @@ tags:
     'Hot-Star Large Fried Chicken',
     'Historic Districts series',
   ]
-readingTime: '22'
-lastVerified: '2026-05-21'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 22
+lastVerified: 2026-05-21
+lastHumanReview: false
+featured: false
 translatedFrom: 'Geography/士林.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:5b2be7a2e0aa64aa'

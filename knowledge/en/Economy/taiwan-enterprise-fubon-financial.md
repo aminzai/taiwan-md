@@ -2,7 +2,7 @@
 title: 'Taiwan Enterprise: Fubon Financial Holding'
 description: "From 10 to 60,000 People: How the Tsai Brothers Built Taiwan's Largest Financial Empire Over 60 Years"
 date: 2026-03-22
-category: economy
+category: 'Economy'
 tags:
   [
     economy,
@@ -23,6 +23,7 @@ sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
 translatedAt: '2026-05-01T15:38:13+08:00'
 subcategory: '企業列傳'
+featured: false
 ---
 
 # Taiwan Enterprise: Fubon Financial Holding

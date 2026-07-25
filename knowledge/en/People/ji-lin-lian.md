@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e096cf547c4b743c'
 sourceBodyHash: 'sha256:94870d211f5fa515'
 translatedAt: '2026-05-13T01:07:52Z'
+difficulty: 'intermediate'
 ---
 
 # Ji Lin-lian: From a Chen Shui-bian–Favored General to the Vice Chairman Who Wanted Han Kuo-yu Expanded from the KMT

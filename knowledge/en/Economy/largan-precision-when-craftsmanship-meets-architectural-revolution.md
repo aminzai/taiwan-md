@@ -2,7 +2,7 @@
 title: 'Largan Precision: When Craftsmanship Meets Architectural Revolution'
 description: "How the world's strongest plastic lens technology company lost iPhone orders to Chinese rivals, despite technical leadership"
 date: 2026-03-22
-category: economy
+category: 'Economy'
 tags:
   [
     Economy,
@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:74469a54ad5b9ae3'
 sourceBodyHash: 'sha256:4ac8e9cdef3a165c'
 translatedAt: '2026-05-01T14:11:02+08:00'
+featured: false
 ---
 
 # Largan Precision: When Craftsmanship Meets Architectural Revolution

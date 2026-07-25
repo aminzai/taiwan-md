@@ -1,7 +1,7 @@
 ---
 title: 'Samuel Yin: The Science Prize He Built Is Worth More Than a Nobel'
 description: 'At 4:21 a.m. on May 26, 2026, Samuel Yin, chairman of the Ruentex Group, passed away at Taipei Veterans General Hospital at the age of 76. From a brawling teenager whose wounds were dressed by Wang Jin-pyng at Chin Teh Middle School, to the man who walked into a dust-covered Peking University in 1989 and funded the founding of the Guanghua School of Management, to the 2012 donation of a NT$3 billion trust fund to establish the Tang Prize — with each category carrying a prize of NT$50 million, exceeding the Nobel. A Taiwanese businessman who just left the world a prize more valuable than a Nobel.'
-date: '2026-05-26'
+date: 2026-05-26
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '企業家'
@@ -24,9 +24,9 @@ tags:
     'sovereignty preservation',
     '2026 辭世',
   ]
-lastVerified: '2026-05-26'
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-05-26
+lastHumanReview: false
+featured: true
 translatedFrom: 'People/尹衍樑.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:ca0ab51cac71e4a7'

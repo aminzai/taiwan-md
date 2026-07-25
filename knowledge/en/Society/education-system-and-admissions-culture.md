@@ -1,13 +1,21 @@
 ---
 title: 'Education System and Admissions Culture'
 description: 'From the Joint Entrance Examination system to 12-year Basic Education, how Taiwanese education seeks balance between competition and pluralism'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '教育'
-tags: ['education', 'school admissions', '12-year Basic Education', 'technical and vocational education', 'education reform', 'competitive culture']
+tags:
+  [
+    'education',
+    'school admissions',
+    '12-year Basic Education',
+    'technical and vocational education',
+    'education reform',
+    'competitive culture',
+  ]
 readingTime: 14
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Society/教育制度與升學文化.md'
@@ -15,6 +23,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:0a7458b73a859fea'
 sourceBodyHash: 'sha256:b2b271a1c8432769'
 translatedAt: '2026-05-20T05:08:27+08:00'
+difficulty: 'intermediate'
 ---
 
 # Education System and Admissions Culture
@@ -185,15 +194,19 @@ How to create a more humane learning environment while maintaining educational q
 - [Za Share](/society/雜學校) — An alternative education carnival that grew after the 318 Sunflower Movement, it is a concrete site of extra-institutional imagination beyond credentialism.
 
 [^1]: Department of Statistics, Ministry of Education, “Higher Education Enrollment Statistics,” https://stats.moe.gov.tw/
+
 [^2]: Ministry of Education, “Policy Explanation on 12-Year Basic Education,” https://www.moe.gov.tw/
+
 [^3]: Ministry of Education, “General Guidelines for the 108 Curriculum Guidelines,” https://www.naer.edu.tw/
+
 [^4]: OECD, “PISA 2022 Results,” https://www.oecd.org/pisa/
+
 [^5]: Department of Statistics, Ministry of Education, “Education Statistics Query System,” https://stats.moe.gov.tw/
 
 ## References
 
-- Huang Cheng-chieh, *[Reflections on Taiwan’s Education Reform](https://www.books.com.tw/products/0010471343)*
-- Yang Szu-wei, *Policy Analysis of 12-Year Basic Education* (related research can be found in the [Bulletin of Educational Research](https://www.edubook.com.tw/OAtw/File/PDf/49202.pdf))
+- Huang Cheng-chieh, _[Reflections on Taiwan’s Education Reform](https://www.books.com.tw/products/0010471343)_
+- Yang Szu-wei, _Policy Analysis of 12-Year Basic Education_ (related research can be found in the [Bulletin of Educational Research](https://www.edubook.com.tw/OAtw/File/PDf/49202.pdf))
 - Relevant policy documents on the [official website of the Ministry of Education](https://www.moe.gov.tw/)
 - School information and statistical data from schools at all levels
 - Research reports and evaluations related to education reform

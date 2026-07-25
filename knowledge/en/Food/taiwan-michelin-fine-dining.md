@@ -10,7 +10,7 @@ tags:
     Taiwan Cuisine,
     Restaurant Industry,
   ]
-author: 'Taiwan.md Editorial Team'
+author: 'Taiwan.md 編輯團隊'
 readingTime: 12
 featured: true
 category: 'Food'

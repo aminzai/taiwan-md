@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:af8cff27f6cadb30'
 sourceBodyHash: 'sha256:09c26c642594595d'
 translatedAt: 2026-05-02T02:50:54+08:00
+featured: false
 ---
 
 In 1971, the air in Beitou, Taipei, was perpetually thick with the lingering smell of sulfur. Ten-year-old Chiang Shu-hui (later known as Jody Chiang) was making her way between the neon-lit cabarets and restaurants, singing to help her family repay her father's debts — earning just NT$10 per song. She had no idea that over the next 40 years, she would become the most awarded and far-reaching queen of Taiwanese-language pop in the history of Taiwan's music.

@@ -11,6 +11,9 @@ sourceContentHash: 'sha256:03252333a42bc60e'
 sourceBodyHash: 'sha256:decf157a216cec86'
 translatedAt: '2026-05-16T21:50:00Z'
 category: People
+author: 'Taiwan.md'
+featured: false
+lastHumanReview: false
 ---
 
 # Niu Cheng-Ze: Talent and Controversy in Taiwan Cinema
@@ -126,8 +129,13 @@ Niu Cheng-Ze's case represents an important turning point for Taiwan's film and 
 ## References
 
 [^1]: Taro News, "Niu Cheng-Ze sexual assault case final verdict at Supreme Court: 4 years' imprisonment," https://taronews.tw/, September 2021
+
 [^2]: Judicial Yuan Legal Database, Niu Cheng-Ze sexual assault case judgment documents, https://judgment.judicial.gov.tw/
+
 [^3]: Central News Agency, "Niu Cheng-Ze sexual assault case: Taipei District Court first-instance guilty verdict, 4 years," https://www.cna.com.tw/, April 2020
+
 [^4]: Ministry of Culture, Gender Equality Policy for Taiwan's Film and Television Industry, https://www.moc.gov.tw/
+
 [^5]: Awakening Foundation, advocacy materials on the MeToo movement in Taiwanese society, https://www.awakening.org.tw/
+
 [^6]: Wikipedia "Niu Cheng-Ze" entry, https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4

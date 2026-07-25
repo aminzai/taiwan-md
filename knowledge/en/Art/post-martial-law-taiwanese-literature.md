@@ -20,6 +20,8 @@ sourceCommitSha: '4d7fab8e'
 sourceContentHash: 'sha256:b88e9dbdbb8fa20c'
 sourceBodyHash: 'sha256:c355aaf2378be217'
 translatedAt: '2026-05-16T21:50:00Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Post-Martial-Law Taiwanese Literature

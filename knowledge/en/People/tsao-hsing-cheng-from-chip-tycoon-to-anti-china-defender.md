@@ -13,9 +13,9 @@ tags:
     Kuma Academy,
     Morris Chang,
   ]
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 date: 2026-04-30
-readingTime: 20
+readingTime: 12
 lastVerified: 2026-04-30
 lastHumanReview: false
 translatedFrom: 'People/曹興誠.md'
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:419cc607d70f325a'
 sourceBodyHash: 'sha256:ae002bb900693bc1'
 translatedAt: '2026-05-01T01:46:13+08:00'
+featured: false
 ---
 
 > **30-second overview:** Tsao Hsing-cheng (曹興誠) is one of the founding figures of Taiwan's semiconductor industry. The company he founded, UMC (United Microelectronics Corporation), was once paired with TSMC as the "Two Giants of Wafer Foundry." His life is full of reversals: he once advocated investing in China and pushed for a "unification referendum"; in his later years he became Taiwan's most aggressive anti-CCP defender, even donating NT$3 billion to civil defense. This isn't only an entrepreneur's story — it is one of the sharpest soul pivots ever made by a Taiwanese elite confronting geopolitical threat and commercial reality.

@@ -1,7 +1,7 @@
 ---
 title: 'Sunflower Movement—Twelve Years After Those Thirty Seconds'
 description: 'A legislator lay on the floor and read a thirty‑second statement with a lapel microphone, triggering a twenty‑four‑day occupation of the Legislative Yuan, a generation’s political awakening, and the turning point of Taiwan’s economy away from China. Twelve years later, the law the students demanded has not been passed, but they won a war they didn’t even know they were fighting.'
-date: '2026-04-12'
+date: 2026-04-12
 category: 'Society'
 tags:
   - 'Social Movement'
@@ -11,7 +11,7 @@ tags:
 subcategory: '民主與政治'
 author: 'Taiwan.md'
 featured: true
-lastVerified: '2026-04-12'
+lastVerified: 2026-04-12
 lastHumanReview: false
 translatedFrom: 'Society/太陽花學運.md'
 sourceCommitSha: 'e6c58721'

@@ -2,10 +2,18 @@
 title: 'Taiwan Island Historiography: How a Repeatedly Ruled Island Reclaimed Its Own Subjectivity'
 description: 'Taiwan island historiography takes Taiwan out of the timeline of outside regimes and asks how people on this island lived, migrated, were ruled, survived, and rebuilt memory. It does not turn Taiwan into a naturally exceptional island; it reminds us that identity can also grow from shared life, shared wounds, and shared responsibility.'
 date: 2026-07-10
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 category: 'History'
 subcategory: 'Historiography and Method'
-tags: ['History', 'Island', 'Historiography', "Ts'ao Yung-ho", 'Ocean', 'Taiwan History']
+tags:
+  [
+    'History',
+    'Island',
+    'Historiography',
+    "Ts'ao Yung-ho",
+    'Ocean',
+    'Taiwan History',
+  ]
 lastVerified: 2026-07-10
 lastHumanReview: false
 featured: true
@@ -13,7 +21,7 @@ translatedFrom: 'History/台灣島史觀.md'
 sourceCommitSha: '00b41fe9e'
 translatedAt: '2026-07-11T01:18:05+08:00'
 image: '/article-images/history/formosa-dutch-map-1640.webp'
-imageCredit: 'Dutch cartographer / Wikimedia Commons'
+imageCredit: '荷蘭人繪 / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg'
 rationale:
@@ -156,7 +164,7 @@ This is what makes Taiwan island historiography useful to general readers. It do
 ## 圖片來源 (Image Sources)
 
 - Hero: 1640 Dutch map of Formosa, Wikimedia Commons, public domain. Original file: [1640 Map of Formosa-Taiwan by Dutch](https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan_by_Dutch_荷蘭人所繪福爾摩沙-臺灣.jpg).
-- 1880 map of Taiwan: Stanford's / Library of Congress, Wikimedia Commons, public domain. Original file: [Map of Taiwan (Formosa) in 1880 (LOC)](https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg).
+- 1880 map of Taiwan: Stanford's / Library of Congress, Wikimedia Commons, public domain. Original file: [Map of Taiwan (Formosa) in 1880 (LOC)](<https://commons.wikimedia.org/wiki/File:Map_of_Taiwan_(Formosa)_in_1880,_from-_Stanford%27s_map_of_the_empires_of_China_and_Japan_with_the_adjacent_parts_of_the_Russian_Empire,_India,_Burma_etc._LOC_2006458442_(cropped).jpg>).
 - Exterior of the National Museum of Taiwan History: Pbdragonwang, Wikimedia Commons, CC BY-SA 3.0. Original file: [國立臺灣歷史博物館 01](https://commons.wikimedia.org/wiki/File:國立臺灣歷史博物館_01.jpg).
 
 ## References

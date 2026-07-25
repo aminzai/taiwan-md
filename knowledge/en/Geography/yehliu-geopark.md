@@ -1,7 +1,7 @@
 ---
 title: "Yehliu: A Queen's Coronation and Farewell on a Devil's Cape, Racing Against Time"
 description: "A 1962 rock fracture accident 'crowned' the Queen's Head of Yehliu, but this world-class landscape is disappearing at 2 centimeters per year. From 'Punto Diablos' feared by Spanish sailors to a cultural landmark beloved and protected by the whole nation, the story of Yehliu is not just geological wonder — it is the process by which Taiwanese people learned to let go, navigating between the laws of nature and the pull of emotional attachment."
-category: Nature
+category: 'Geography'
 tags: ['Yehliu', "Queen's Head", 'geopark', 'Wanli', 'Lin Tian-zheng']
 author: 'Taiwan.md Contributors'
 date: 2026-04-26
@@ -13,6 +13,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:061c7b5484113eed'
 sourceBodyHash: 'sha256:e080c9e068d13667'
 translatedAt: '2026-05-16T22:19:17Z'
+featured: false
 ---
 
 > **30-second overview:**

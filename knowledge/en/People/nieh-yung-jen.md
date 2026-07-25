@@ -1,7 +1,7 @@
 ---
 title: 'Aaron Nieh: Taiwan’s First AGI Member, from Golden Melody Album Packaging to National Identity Systems Across Two Decades'
 description: 'Aaron Nieh (born 1977) is the first Taiwanese designer admitted to Switzerland’s Alliance Graphique Internationale (AGI) and a three-time winner of the Golden Melody Award for Best Album Packaging. His design work spans pop-music covers (Jonathan Lee, Yoga Lin, Lu Wei), book publishing, civic movements (the 4 a.m. New York Times advertisement during the 2014 Sunflower Movement; the 2020 anti-Tedros “Taiwan Can Help” campaign that crowdfunded NT$10 million in eight hours), political campaigns (Tsai Ing-wen’s 2016 “Light Up Taiwan” campaign and the main visuals for two presidential inaugurations), state-owned enterprise identity systems (the Ministry of Economic Affairs, Tourism Administration, CPC, Taipower), and art spaces (Taichung Green Museumbrary, Taiwan Pavilion at the Venice Biennale). Aaron Nieh Workshop operates from Taipei and Kaohsiung’s Pier-2 warehouses; he studied in graduate programs in Belgium and London and completed none of three master’s programs; he has said of himself, “before he was designer Aaron Nieh, he was citizen Aaron Nieh.” Starting in 2024, he won four consecutive state-owned enterprise identity projects, and on the day Taipower’s new logo went online in 2026, a controversy erupted over alleged “political patronage.”'
-date: '2026-05-08'
+date: 2026-05-08
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '藝術與設計'
@@ -17,7 +17,7 @@ tags:
     'Aesthetics of Reduction',
   ]
 readingTime: 18
-lastVerified: '2026-05-12'
+lastVerified: 2026-05-12
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/聶永真.md'

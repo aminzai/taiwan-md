@@ -16,6 +16,10 @@ sourceContentHash: 'sha256:0334fef76cff5db1'
 sourceBodyHash: 'sha256:1f68acc56a66c3d5'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: Lifestyle
+author: 'Taiwan.md'
+date: 2026-03-18
+featured: false
+lastHumanReview: false
 ---
 
 # Taiwan’s Traditional Markets and Market Culture

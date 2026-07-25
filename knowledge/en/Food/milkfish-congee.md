@@ -1,16 +1,16 @@
 ---
 title: 'Not Brought by Zheng Chenggong: The Four-Century History of Milkfish Farming'
 description: "Tainan locals call the milkfish a 'household fish,' but its origins lie in Dutch East India Company aquaculture techniques introduced from Indonesia, arriving thirty-seven years before Zheng Chenggong reached Taiwan. The 4,500-hectare fish ponds of Qigu and the seven-plus culinary preparations for a single fish are living fossils of this four-century farming history."
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '經典小吃'
 tags:
   ['Tainan', 'milkfish', 'Qigu', 'aquaculture', 'Dutch', 'snacks', 'breakfast']
-readingTime: '7'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 7
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'Food/虱目魚粥.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:162956900cab6d34'

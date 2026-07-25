@@ -1,7 +1,7 @@
 ---
 title: "Chiang Wei-shui: The Physician Who Diagnosed a Colonial Society with a 'Clinical Report'"
 description: "In 1921, physician Chiang Wei-shui published a 'Clinical Report' that personified Taiwan as 'a feeble-minded child of world civilization,' diagnosing the disease as malnutrition of the intellect. He founded the Taiwan Cultural Association and the first legal political party, the Taiwan People's Party; he was imprisoned over ten times in his lifetime; and between his clinic at Da'an Hospital and the Spring Breeze Teahouse, he wove a network of awakening — leaving behind the enduring practical legacy of 'Compatriots must unite; united we are truly powerful.'"
-category: History
+category: 'People'
 tags:
   [
     'Chiang Wei-shui',
@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0f3a996ef981d6ff'
 sourceBodyHash: 'sha256:d65332102dab634a'
 translatedAt: '2026-05-01T01:46:13+08:00'
+featured: false
 ---
 
 > **30-second overview:**

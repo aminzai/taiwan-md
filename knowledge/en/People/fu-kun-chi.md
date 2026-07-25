@@ -1,13 +1,13 @@
 ---
 title: "Fu Kun-chi: The Spiral of Power from the East Coast's 'Hualien King' to Legislative Caucus Convener"
 description: "From the 1990s stock-market magnate known as 'Kai Ju Little Fu,' to entering the legislature in 2001 and taking control of Hualien in 2009, Fu Kun-chi built on Taiwan's east coast a two-decade 'Fu family dynasty' that even the central government found difficult to shake. From serving prison time while still holding office in a stock-manipulation case and staging a sham divorce to appoint his wife as deputy county magistrate, to returning to the Legislative Yuan in 2024 as Kuomintang caucus convener and leading a delegation to China, he has embodied one of the most extreme cases of resilience and controversy in Taiwanese politics."
-date: '2026-06-01'
+date: 2026-06-01
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '政治與民主'
 tags: ['Hualien', 'politician', 'Kuomintang', 'Legislative Yuan']
 readingTime: 12
-lastVerified: '2026-06-01'
+lastVerified: 2026-06-01
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/傅崐萁.md'

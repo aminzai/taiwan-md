@@ -1,7 +1,7 @@
 ---
 title: "Su Beng: How a Dumpling Shop Sustained Four Decades of Taiwan's Revolution"
 description: 'Su Beng, whose birth name was Shih Chao-hui, once worked as an underground intelligence agent for the Chinese Communist Party in China. After witnessing the massacres of land‑reform campaigns, he became disillusioned, returned to Taiwan to plot the assassination of Chiang Kai-shek, and fled to Japan when the plot failed. In Tokyo’s Ikebukuro he opened a noodle shop called “Shin Chinmi,” selling dumplings by day and writing Taiwanese history by night. The shop’s income funded the Taiwan independence movement for forty years and produced the nation‑awakening work *Four Hundred Years of Taiwan History*.'
-date: '2026-07-10'
+date: 2026-07-10
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '政治與社會運動'
@@ -13,9 +13,9 @@ tags:
   - 'Four Hundred Years of Taiwan History'
   - 'Taiwanese Nationalism'
   - 'History'
-readingTime: '13'
-lastVerified: '2026-07-10'
-lastHumanReview: 'false'
+readingTime: 13
+lastVerified: 2026-07-10
+lastHumanReview: false
 featured: false
 translatedFrom: 'People/史明.md'
 sourceCommitSha: 'a113ef0cb'

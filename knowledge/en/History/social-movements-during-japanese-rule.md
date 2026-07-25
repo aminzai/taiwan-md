@@ -22,6 +22,7 @@ sourceContentHash: 'sha256:fbdfa92c6cd4f978'
 sourceBodyHash: 'sha256:404b899a07fee60d'
 translatedAt: '2026-05-01T01:46:13+08:00'
 category: History
+author: 'Taiwan.md'
 ---
 
 # Social Movements During Japanese Rule in Taiwan

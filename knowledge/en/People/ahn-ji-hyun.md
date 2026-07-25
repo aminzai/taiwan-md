@@ -13,7 +13,7 @@ tags:
     'Kaohsiung',
   ]
 subcategory: 'Pop Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
 lastVerified: 2026-05-13
@@ -23,6 +23,7 @@ sourceContentHash: 'sha256:b13816d98f58f322'
 sourceBodyHash: 'sha256:56208a71719992d2'
 translatedAt: '2026-05-17T05:35:00Z'
 category: People
+lastHumanReview: false
 ---
 
 > **30-second overview:** When TSG entered CPBL in 2023, Ahn Ji-hyun joined the Wing Stars system and has long held a front-row spot. In May 2026, while TSG played a series at the Taipei Dome, media reported on her "right-shoulder dislocation" injury narrative and her adjustments to sideline and post-game performance—showing that high-popularity foreign cheer members also face physical risk and schedule pressure.

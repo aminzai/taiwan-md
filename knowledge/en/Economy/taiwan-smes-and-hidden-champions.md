@@ -22,9 +22,10 @@ category: 'Economy'
 author: 'Taiwan.md'
 readingTime: 14
 featured: true
-lastVerified: 2026-03-24
+lastVerified: 2026-07-25
 lastHumanReview: false
 ---
+
 # Taiwan's SMEs and Hidden Champions
 
 ## 30-Second Overview

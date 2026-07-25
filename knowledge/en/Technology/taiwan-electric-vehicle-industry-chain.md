@@ -22,6 +22,7 @@ sourceCommitSha: '24efd20f3'
 sourceContentHash: 'sha256:85f80872ad09b54c'
 sourceBodyHash: 'sha256:3683724639161321'
 translatedAt: '2026-05-15T14:23:13+08:00'
+difficulty: 'intermediate'
 ---
 
 # Development of Taiwan’s Electric Vehicle Industry Chain

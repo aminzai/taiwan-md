@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:977c64498b20b961'
 sourceBodyHash: 'sha256:71b9d132fec3feff'
 translatedAt: '2026-05-01T08:56:11+08:00'
+featured: false
 ---
 
 > **30-Second Overview:** Taiwan's eastern coast is home to Qingshui Cliff, born from the violent collision between the Philippine Sea Plate and the Eurasian Plate. A vertical precipice rising 2,400 meters plunges directly into the Pacific. What appears to be an eternal spectacle is in fact full of geological fragility and human challenge — from Qing-era general Luo Dachun's trailblazing to aerial filmmaker Chi Po-lin's exposure of environmental wounds. Qingshui Cliff is not merely a geographical wonder; it is a living cliff that carries history, ecology, and human stories.

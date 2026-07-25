@@ -20,6 +20,9 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
 translatedAt: '2026-05-01T13:44:02+08:00'
+featured: false
+lastVerified: 2026-04-08
+lastHumanReview: true
 ---
 
 > **30-second overview:** Taiwan's rating system was once a pair of scissors. Before 1983, films had to pass "inspection" rather than "classification," and political and moral censorship was the norm. The dinosaur controversy sparked by Jurassic Park in 1993 made Taiwan realize the gap in its three-tier system, which then gave birth to the "protected" rating. Today, Taiwan has built a five-tier system covering film, television, video content, and digital games — transforming "prohibition" into "differentiated access" to safeguard a diverse and safe audiovisual environment.

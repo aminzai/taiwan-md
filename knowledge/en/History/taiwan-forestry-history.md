@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8069998f1aa354c8'
 sourceBodyHash: 'sha256:55bbc4efed5f30a9'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 > Who took our precious forests? The answer may not be what you think.

@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9df20812b27208dc'
 sourceBodyHash: 'sha256:8546c2e9468f2766'
 translatedAt: '2026-05-02T11:00:00+08:00'
+featured: false
 ---
 
 > **30-second overview:** Shaoxing wine is clearly a thousand-year-old local liquor from Kuaiji in Zhejiang, China — yet Taiwan is the only place in the world that brewed it into a "national liquor," wrote it into state-banquet menus, slipped it into wedding invitations, used it to braise chicken wings, cook instant noodles, and make popsicles[^1][^2]. More worth asking: the Puli Distillery was built in 1917, but the first vat of shaoxing wine didn't come out until 1952[^3] — the timing falls right after the Nationalist government's retreat to Taiwan. A political declaration written in glutinous rice and water, packaged inside the brochure of a tourist distillery. And what props it up is a mountain spring that the landowner sealed off for 4 years, forcing the distillery to drill another well to grab water elsewhere[^4][^5].

@@ -20,6 +20,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
 translatedAt: '2026-05-16T22:19:17Z'
+featured: false
 ---
 
 > **30-Second Overview:** In the modernization of Taiwan, **Sun Yun-suan** (孫運璿, 1913–2006) is a name you cannot bypass. Hailed as "the eternal Premier," his public image fuses the professionalism of a technocrat, an incorruptible personal character, and decisive courage at pivotal moments of national transformation. From repairing power lines in postwar ruins, to overriding objections in the 1970s to push Taiwan into semiconductors, Sun Yun-suan's life is, in a sense, an entrepreneurial history of Taiwan's journey from desolation to prosperity [^1][^2].

@@ -1,7 +1,7 @@
 ---
 title: 'Shopping Design: A Magazine That Teaches You to Curate Design, Ultimately Asking You to Judge Itself'
 description: "Launched in 2006 with a white-themed first issue, Shopping Design has spent two decades turning 'design' from an exhibition-bound noun into a daily verb for browsing and selecting goods. What it truly taught Taiwan is that 'discernment' can be cultivated as a skill—and it expanded this skill into an annual Top 100 list, a quarterly magazine, a carnival, and even onto its parent company's single 'magazine publishing + advertising services' license. Thus, this magazine that teaches you to discern ultimately asks you to discern itself."
-date: '2026-07-13'
+date: 2026-07-13
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '設計與媒體'
@@ -14,9 +14,9 @@ tags:
   - 'Lifestyle Media'
   - 'Business Next Media Group'
   - 'Media Literacy'
-lastVerified: '2026-07-13'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-13
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/Shopping Design.md'
 sourceCommitSha: '17b63fe83'
 sourceContentHash: 'sha256:5d83fb5eff7a2309'

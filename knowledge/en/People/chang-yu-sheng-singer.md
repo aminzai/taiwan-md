@@ -15,7 +15,7 @@ author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 14
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
 researchReport: 'reports/research/2026-04/張雨生.md'
 translatedFrom: 'People/張雨生.md'
 sourceCommitSha: '4b6d28c5'

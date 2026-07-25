@@ -15,6 +15,7 @@ sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:9e4daeb9f4939ca2'
 sourceBodyHash: 'sha256:80c79b7fd0c73431'
 translatedAt: '2026-05-15T15:39:39+08:00'
+difficulty: 'beginner'
 ---
 
 # Taiwanese Photography

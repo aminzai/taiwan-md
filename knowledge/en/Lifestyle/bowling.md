@@ -1,7 +1,7 @@
 ---
 title: 'Bowling: From U.S. Military Clubs to Six Golds at the Bangkok Asian Games, the Rise and Afterglow of Taiwan’s UFO Ball'
 description: "In the 1990s, bowling was Taiwan's most fevered national pastime. With its homegrown UFO ball technique, Taiwan swept six gold medals at the 1998 Bangkok Asian Games; bowling alleys across Taiwan once exceeded 600, with daily revenue reaching NT$300,000."
-date: '2026-06-27'
+date: 2026-06-27
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
 subcategory: '休閒與娛樂'
@@ -14,7 +14,7 @@ tags:
     'Taiwan Sports History',
   ]
 readingTime: 10
-lastVerified: '2026-06-27'
+lastVerified: 2026-06-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/保齡球.md'

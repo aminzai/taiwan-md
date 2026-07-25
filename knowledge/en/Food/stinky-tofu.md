@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:65a3ff761ca143a1'
 sourceBodyHash: 'sha256:da607a2f72ce021f'
 translatedAt: '2026-05-01T08:56:11+08:00'
+featured: false
 ---
 
 > **30-Second Overview:** Stinky tofu is Taiwan's most controversial and most representative common-folk food. It originates in a Qing dynasty scholar's accidental discovery, yet evolved in Taiwan into a unique "living-microorganism fermentation" craft. From Shenkeng Old Street's salt-brine tofu with its hint of charred aroma, to Hualien Yuli's crispy marvel produced by insisting on "three oil temperatures," this article explains why a smell that makes people cover their noses can attract Japanese fermentation scholars to cross the sea to chase it — and even become a symbol of Taiwanese cultural resilience.

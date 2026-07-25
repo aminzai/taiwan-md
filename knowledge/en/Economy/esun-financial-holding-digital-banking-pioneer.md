@@ -1,12 +1,12 @@
 ---
 title: "Taiwan Enterprise: ESun Financial Holding — Huang Yung-Jen's Professional Manager Bank"
 description: "ESun Financial Holding traces its origins to ESun Commercial Bank, founded by Huang Yung-Jen in 1992. It stands as a landmark of Taiwan's first wave of new bank liberalization after the lifting of martial law — a bank led by professional financiers rather than a conglomerate or family. In 2008, Huang Nan-Chou became the youngest president in Taiwan's financial holding history at age 43, and in 2023 he succeeded founder Huang Yung-Jen as chairman of the holding company. From its professional-manager governance model to its digital-finance innovations, ESun has charted a unique course over more than three decades. By 2024, its assets reached NT$2.8 trillion, ranking it Taiwan's third-largest private financial holding company."
-date: '2026-03-20'
+date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Economy'
 subcategory: '企業列傳'
 tags: ['Economy', '企業', '金融業', '數位轉型', '黃永仁', '黃男州']
-lastVerified: '2026-05-13'
+lastVerified: 2026-05-13
 lastHumanReview: true
 featured: false
 translatedFrom: 'Economy/台灣企業：玉山金控.md'

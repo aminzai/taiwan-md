@@ -18,10 +18,10 @@ tags:
     'Cloud Feudalism',
     'Digital Sovereignty',
   ]
-readingTime: '25'
-lastVerified: '2026-06-15'
-lastHumanReview: 'false'
-featured: 'true'
+readingTime: 25
+lastVerified: 2026-06-15
+lastHumanReview: false
+featured: true
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
 sourceCommitSha: 'd968559a8'
 sourceContentHash: 'sha256:27a0271b143d3da5'

@@ -1,7 +1,7 @@
 ---
 title: 'Taiwan and North Korea: From Fourth Largest Export Destination to a Gray Zone Confrontation'
 description: "Taiwan was once North Korea's fourth-largest export destination, with Acer computers and HCG sanitary ware visible in Pyongyang offices. This history—from robust trade to comprehensive embargoes—is interwoven with secret agricultural aid, maritime smuggling, and deep geopolitical intelligence struggles."
-date: '2026-07-17'
+date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: 'Democracy and Governance'
@@ -17,10 +17,10 @@ tags:
     'Fisheries',
     'Study',
   ]
-readingTime: '15'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 15
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/台灣與北朝鮮關係.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:2a45417c9b5c2cf0'

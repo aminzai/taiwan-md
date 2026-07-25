@@ -1,7 +1,7 @@
 ---
 title: 'Nantou County: The Only Landlocked County, with the 921 Earthquake Epicenter at Its Center'
 description: "At 1:47 a.m. on September 21, 1999, the Chelungpu Fault beneath Jiji Township ruptured for 102 seconds. Across Taiwan, 2,415 people died; Nantou alone accounted for 886 deaths, and 90 percent of buildings in Zhongliao Township were damaged. On the day of the flag-raising ceremony at Wushe Public School in 1930, Mona Rudao led six Seediq communities in killing 134 Japanese civilians. In 1934, the Wujie Dam raised the water level by 18.18 meters, submerging the Thao people's Lalu Island. In 1957, Zhongxing New Village was completed as the Taiwan Provincial Government's temporary office site; after the 1998 downsizing of the province hollowed it out, only the coconut-palm boulevard remained. Some 470,000 people live in this inland county, rising from 100 meters to 3,952 meters above sea level, where Seediq, Bunun, Thao, Tsou, and Han people live together. Taiwan's deepest wounds are all here."
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -24,7 +24,7 @@ tags:
     '22 Counties and Cities Series',
   ]
 readingTime: 16
-lastVerified: '2026-05-18'
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/南投縣.md'

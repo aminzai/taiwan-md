@@ -1,7 +1,7 @@
 ---
 title: "Lai Ho: The 'Changhua Mazu' in a Native Shirt, and His Unyielding Steelyard"
 description: "On the eve of Lunar New Year's Day 1943, the Changhua physician Lai Ho burned his poor patients' unpaid bills, as was his annual custom. This doctor celebrated as the 'Father of Taiwanese New Literature' wielded a scalpel to heal the sick and a pen to expose injustice under colonial repression; his story 'A Steelyard' remains to this day a cultural symbol of resistance against the violence of power."
-category: History
+category: 'People'
 tags:
   [
     'Lai Ho',
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ea423174510ba903'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
 translatedAt: '2026-04-30T22:50:13+08:00'
+featured: false
 ---
 
 > **30-second overview:** Lai Ho (1894–1943) was the most influential physician-writer of the Japanese colonial period. With one hand he wielded a scalpel to treat the poor, earning the veneration of "Changhua Mazu" and "Ah-he the Sage"; with the other he took up the pen to inaugurate Taiwanese vernacular literature and criticize the injustice of colonial rule. His life is a microcosm of Taiwanese people's struggle and dignity under Japanese governance — especially his annual Lunar New Year's Eve custom of burning patients' debt slips, and the words he wrote in prison — which to this day remain a paradigm of medical virtue and humanist spirit in Taiwan.

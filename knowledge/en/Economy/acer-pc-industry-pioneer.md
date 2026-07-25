@@ -6,8 +6,8 @@ author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '企業列傳'
 tags: ['Economy', '企業', '個人電腦', '品牌', '全球化']
-readingTime: 8
-lastVerified: 2026-03-20
+readingTime: 13
+lastVerified: 2026-07-06
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：宏碁.md'

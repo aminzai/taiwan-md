@@ -1,5 +1,5 @@
 ---
-title: "Geographic Features and Formation of the Island of Taiwan"
+title: 'Geographic Features and Formation of the Island of Taiwan'
 description: "Explore Taiwan's distinctive island geography, from plate tectonics to terrain structure, and understand the natural mysteries of Formosa"
 date: 2026-03-18
 author: 'Taiwan.md'
@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:fd5b44b607710000'
 sourceBodyHash: 'sha256:b019853dd2be5b1d'
 translatedAt: '2026-05-20T05:08:27+08:00'
+difficulty: 'intermediate'
 ---
 
 # Geographic Features and Formation of the Island of Taiwan
@@ -65,11 +66,11 @@ Although Taiwan is not large in area, it condenses geological history from the P
 
 Taiwan’s terrain structure displays the typical characteristics of a “high-mountain island”:
 
-| Terrain type | Elevation range | Area share | Main distribution |
-| ------------ | --------------- | ---------- | ----------------- |
-| **Mountains** | Above 1,000 meters | 29% | Central Mountain Range, Xueshan Range, Alishan Range |
-| **Hills and terraces** | 100-1,000 meters | 40% | Miaoli Hills, Zhudong Hills, Linkou Terrace |
-| **Plains and basins** | Below 100 meters | 31% | Chianan Plain, Pingtung Plain, Taipei Basin |
+| Terrain type           | Elevation range    | Area share | Main distribution                                    |
+| ---------------------- | ------------------ | ---------- | ---------------------------------------------------- |
+| **Mountains**          | Above 1,000 meters | 29%        | Central Mountain Range, Xueshan Range, Alishan Range |
+| **Hills and terraces** | 100-1,000 meters   | 40%        | Miaoli Hills, Zhudong Hills, Linkou Terrace          |
+| **Plains and basins**  | Below 100 meters   | 31%        | Chianan Plain, Pingtung Plain, Taipei Basin          |
 
 ### En Echelon Arrangement of Mountain Ranges
 
@@ -226,10 +227,16 @@ Facing the dual pressures of climate change and human development, how to make g
 
 ## References
 
-[^1]: Geological Survey and Mining Management Agency, Ministry of Economic Affairs (2023), [*Introduction to Taiwan Geology*](https://www.gsmma.gov.tw/).
-[^2]: Central Weather Administration (2024), [*Taiwan Climate Statistics*](https://www.cwa.gov.tw/).
-[^3]: National Land Surveying and Mapping Center, Ministry of the Interior (2024), [*Annual Report on National Land Surveying Statistics*](https://www.nlsc.gov.tw/).
+[^1]: Geological Survey and Mining Management Agency, Ministry of Economic Affairs (2023), [_Introduction to Taiwan Geology_](https://www.gsmma.gov.tw/).
+
+[^2]: Central Weather Administration (2024), [_Taiwan Climate Statistics_](https://www.cwa.gov.tw/).
+
+[^3]: National Land Surveying and Mapping Center, Ministry of the Interior (2024), [_Annual Report on National Land Surveying Statistics_](https://www.nlsc.gov.tw/).
+
 [^4]: Wikipedia (2025), [“Geography of Taiwan”](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E5%9C%B0%E7%90%86).
+
 [^5]: Wikipedia (2022), [“Geology of Taiwan”](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%9C%B0%E8%B3%AA).
+
 [^6]: Taiwan Landscape Conservation Network, Forestry and Nature Conservation Agency, Ministry of Agriculture, [“Composition and Features of Island Landscapes”](https://landscape.forest.gov.tw/).
+
 [^7]: 3people.com.tw (2025), [“Encyclopedia of Taiwan Geography”](https://www.3people.com.tw/).

@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d371b7109756e14d'
 sourceBodyHash: 'sha256:8d9608a92d5a6a0c'
 translatedAt: '2026-05-03T23:14:05+08:00'
+difficulty: 'intermediate'
 ---
 
 # Lu Hsiu-yan: From 10,000 Bottles of Guguan Air to the 'Arms Procurement as Insurance' Doctrine — The Undefeated Queen

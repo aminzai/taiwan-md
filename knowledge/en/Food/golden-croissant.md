@@ -20,6 +20,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c876a6c84ad1bc82'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
 translatedAt: '2026-05-01T12:21:52+08:00'
+featured: false
 ---
 
 > **30-second overview:** The Sansia golden croissant (金牛角), a well-known souvenir across Taiwan, has an origin story far more interesting than most imagine. It did not come from a European croissant — it was created by Han pastry chef **Luo Fu-ching**, who was inspired by a "Philippine bread" he encountered on a flight, then returned to Taiwan and adapted it using Chinese pastry-making craft. Its distinctive "hard-shell" texture comes from the repeated pressing to remove air from the dough and the generous application of butter during baking, reflecting early Taiwanese society's pursuit of substantial, filling food. From a neighborhood snack to an old-street specialty, the golden croissant is not merely a taste memory — it is a distillation of Sansia's local culture and commercial development, holding up this small town's distinctive olfactory landmark.

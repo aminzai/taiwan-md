@@ -18,12 +18,13 @@ author: 'Taiwan.md Contributors'
 date: 2026-04-20
 readingTime: 20
 lastVerified: 2026-04-20
-lastHumanReview: '2026-04-20'
+lastHumanReview: true
 translatedFrom: 'People/八炯.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:6599b2ad4c30bd09'
 sourceBodyHash: 'sha256:bc866bec1fdcbd6f'
 translatedAt: '2026-05-01T08:56:11+08:00'
+featured: false
 ---
 
 > **30-second overview:** This article tells how Taiwanese influencer Pa Chiung (Wen Zi-yu) transformed from a travel creator in Hualien into a political commentator with over a million subscribers. His channel "Sheturizhi" (攝徒日記 / Photographer's Diary) exposes CCP united-front operations and has attracted attention from international media including the American think tank Jamestown Foundation and Voice of America. Despite being caught up in populist controversies and legal disputes, he remains an important voice in Taiwan's online political sphere — countering CCP narratives through what he calls "reverse united-front" tactics.

@@ -9,7 +9,7 @@ category: 'History'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-16
-lastHumanReview: false
+lastHumanReview: true
 translatedFrom: 'History/戒嚴時期.md'
 sourceCommitSha: '9ecd20d6'
 sourceContentHash: 'sha256:7647443db6f06a5f'

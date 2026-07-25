@@ -1,7 +1,7 @@
 ---
 title: "Indigenous Peoples' History and Naming Rights Movement"
 description: "From 'barbarians' to 'Indigenous peoples' - a centuries-long struggle for identity recognition and dignity"
-date: 2026-03-20
+date: 2026-03-29
 tags:
   [
     'Indigenous peoples',
@@ -10,12 +10,12 @@ tags:
     'social movements',
     'cultural preservation',
   ]
-author: 'Taiwan.md Contributors'
+author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 10
 category: 'History'
 featured: false
-lastVerified: 2026-03-20
+lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
 sourceCommitSha: '1e674def'

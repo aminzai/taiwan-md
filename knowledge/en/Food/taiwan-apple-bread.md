@@ -1,7 +1,7 @@
 ---
 title: 'Apple Bread: Feeding a Modernization Illusion on an Island Without Apples'
 description: 'This was not merely a piece of bread, but a modernization experiment in 1960s Taiwan under the shadow of U.S. aid, woven from flour, symbols, and resilience. Retired Major Liu Che-chi used the luxury metaphor of the apple and Japanese dehydration technology to transform what had been austere military rations into a national memory spanning generations, revealing how postwar Taiwanese society used substitutes to bridge the gap between aspiration and reality.'
-date: '2026-05-30'
+date: 2026-05-30
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '烘焙與甜點'
@@ -16,7 +16,7 @@ tags:
     'promotion of wheat-based foods',
   ]
 readingTime: 15
-lastVerified: '2026-05-30'
+lastVerified: 2026-05-30
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/蘋果麵包.md'

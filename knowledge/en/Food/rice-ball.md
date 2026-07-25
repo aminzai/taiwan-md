@@ -1,7 +1,7 @@
 ---
 title: "Rice Balls: From a Morning 'Sleeping Pill' to the 'Taiwanese Burrito' Taking Europe and America by Storm"
 description: "From Qing-era glutinous-rice food culture to the cross-sea evolution of Jiangnan-style cifan, Taiwanese rice balls became the soul of Taiwan's breakfast culture through their distinctive twice-fried youtiao and hand-pressed technique. This article examines their historical prelude, craft, modern flavor innovations, and the internationally discussed culture of post-carb drowsiness."
-date: '2026-06-28'
+date: 2026-06-28
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '主食與米麵'
@@ -16,7 +16,7 @@ tags:
     'glutinous-rice foods',
   ]
 readingTime: 15
-lastVerified: '2026-06-28'
+lastVerified: 2026-06-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/飯糰.md'

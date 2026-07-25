@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:5fcedd0ad0dc94f7'
 sourceBodyHash: 'sha256:92c2111bcaaae7c8'
 translatedAt: '2026-05-20T05:08:27+08:00'
+difficulty: 'intermediate'
 ---
 
 # Taiwan Agricultural Landscapes and Industry Belts

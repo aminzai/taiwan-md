@@ -1,7 +1,7 @@
 ---
 title: 'Gwei Lun-Mei'
 description: "From 'Secret' to international film festivals, a low-key method actress who represents Taiwan's new generation of cinema talent"
-date: 2026-03-20
+date: 2026-03-19
 tags:
   [
     'Gwei Lun-Mei',
@@ -11,13 +11,16 @@ tags:
     'method acting',
   ]
 subcategory: 'Film & Theater'
-lastVerified: 2026-03-20
+lastVerified: 2026-03-19
 translatedFrom: 'People/桂綸鎂.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:266bd954eeb032d3'
 sourceBodyHash: 'sha256:c06a0cb5b90069e3'
 translatedAt: '2026-05-16T21:50:00Z'
 category: People
+author: 'Taiwan.md'
+featured: false
+lastHumanReview: false
 ---
 
 # Gwei Lun-Mei: Taiwan's Quietly Resilient Method Actress
@@ -137,7 +140,11 @@ Through her acting career, Gwei Lun-Mei has demonstrated what it means to be a t
 - [Taiwan Actor International Development — Bureau of Audiovisual and Music Industry Development](https://www.bamid.gov.tw/) — International cooperation materials
 
 [^1]: Wikipedia "Soul" entry: "Soul" (2013), directed by Chung Mong-Hong, starring Gwei Lun-Mei and Joseph Chang. https://zh.wikipedia.org/wiki/失魂
+
 [^2]: Wikipedia "Gwei Lun-Mei" entry, listing works such as "Blue Gate Crossing," "Secret," and "GF\*BF." https://zh.wikipedia.org/wiki/桂綸鎂
+
 [^3]: "Blue Gate Crossing" (2002), directed by Yee Chih-Yen, starring Gwei Lun-Mei and Chen Bo-Lin, screened at multiple international festivals. Taiwan Cinema Network: <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
+
 [^4]: "GF\*BF" (2012), directed by Yang Ya-Che, nominated for Best Actress at the 49th Golden Horse Awards. Golden Horse Awards official site: https://www.goldenhorse.org.tw/
+
 [^5]: "Our Time Will Come" (2017), directed by Ann Hui, featuring Gwei Lun-Mei, demonstrating cross-regional collaboration. Hong Kong Film Archive collection: <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>

@@ -18,7 +18,8 @@ subcategory: '數位與媒體'
 author: 'Taiwan.md'
 readingTime: 9
 lastVerified: 2026-04-20
-lastHumanReview: 2026-04-20
+lastHumanReview: true
+featured: false
 ---
 
 > **30-second overview:** In 2020, YouTuber Ray Du (Du Sheng-rui) launched the "ThisAttackComesFromTaiwan" crowdfunding campaign that reached its NT$4 million goal within hours, ultimately raising close to NT$19 million to run a full-page advertisement in the _New York Times_, telling the world "Taiwan Can Help." The following year, he publicly shared his nearly year-long battle with depression, and co-founded with Chih-chi Chang and others the Taiwan New Media Video Creators Association, serving as its chairman and building a mutual support ecosystem for Taiwan's creators. From young exchange student in Singapore who hated English to becoming the "block captain" of Taiwan's YouTube world, Ray Du's story is not just a personal transformation — it is a true microcosm of Taiwan's new media moving from individual creation toward a shared industry.

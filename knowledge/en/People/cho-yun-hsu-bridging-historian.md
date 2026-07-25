@@ -1,7 +1,7 @@
 ---
 title: 'Hsu Cho-yun: Ninety-Five Years of History, Written with Two Fingers—and Wang Leehom’s Maternal Granduncle'
 description: 'Born in Xiamen in 1930, Hsu Cho-yun came to Taiwan with the Nationalist government in 1949 and moved to Pittsburgh in 1970. Born with limb disabilities and a lifelong wheelchair user, the historian nevertheless typed nearly forty books with the only two fingers through which he could exert force. Winner of the sixth Tang Prize in Sinology in 2024, he donated the entire NT$50 million award to establish the Hsu-Sun Scholarship. He was Wang Leehom’s seventh maternal granduncle and Li Chien-fu’s uncle. Before his death in August 2025, he left one final declaration: “At the moment I draw my last breath, I will still be learning.”'
-date: '2026-05-22'
+date: 2026-05-22
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科學與學術'
@@ -19,14 +19,16 @@ tags:
     'Wang Leehom',
     'Li Chien-fu',
   ]
-lastVerified: '2026-05-22'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-05-22
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/許倬雲.md'
 sourceCommitSha: 'ecb3f6520'
 sourceContentHash: 'sha256:a7dc8d1152c0f436'
 sourceBodyHash: 'sha256:5272c869278fa371'
 translatedAt: '2026-07-24T10:19:54+08:00'
+image: '/article-images/people/hsu-cho-yun-academia-sinica-hero.webp'
+imageCredit: 'Academia Sinica'
 ---
 
 # Hsu Cho-yun: Ninety-Five Years of History, Written with Two Fingers—and Wang Leehom’s Maternal Granduncle

@@ -1,18 +1,20 @@
 ---
 title: 'The Development of Taiwan’s Long‑Term Care System'
 description: 'From Long‑Term Care 1.0 to 2.0, Taiwan’s response to rapid aging through community‑based care'
-date: 2026-03-19
+date: 2026-03-22
 tags:
   ['long-term care', 'aging society', 'social policy', 'LTC 2.0', 'home care']
 category: 'Society'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-03-22
 translatedFrom: 'Society/台灣長期照顧制度發展.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c735ef0db3cd23ac'
 sourceBodyHash: 'sha256:738376ef61832978'
 translatedAt: '2026-04-14T12:25:09+08:00'
+readingTime: 8
+lastHumanReview: false
 ---
 
 # The Development of Taiwan’s Long‑Term Care System

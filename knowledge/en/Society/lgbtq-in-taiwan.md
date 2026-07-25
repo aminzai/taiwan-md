@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2dceb8d4eac7775f'
 sourceBodyHash: 'sha256:693cd449aa89ed1d'
 translatedAt: '2026-05-01T01:46:13+08:00'
+featured: false
 ---
 
 > **30-second overview:** In 2017, Taiwan's Constitutional Court issued Interpretation No. 748, ruling that the Civil Code's failure to protect same-sex marriage was unconstitutional — a landmark in Asia's marriage equality movement. The rainbow road here passed through Chi Chia-wei's decades of solitary struggle, the awakening sparked by the Yeh Yung-chih incident, and the tragic death of Professor Jacques Picoux — culminating in the passage of a special law in 2019. By the end of 2024, more than 32,000 same-sex couples had completed marriage registration nationwide. Today, as same-sex couples like "Wei & Meng" share their everyday love on social media, understanding and acceptance of Taiwan's LGBTQ+ community continues to deepen — but issues around the Assisted Reproduction Act, cross-border parental rights, and anti-discrimination legislation remain to be resolved.

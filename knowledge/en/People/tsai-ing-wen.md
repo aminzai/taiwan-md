@@ -4,8 +4,8 @@ description: "Taiwan's first female president (2016–2024), a scholar of intern
 date: 2026-03-17
 tags: [人物, 蔡英文, 總統, 女性領袖, 民主, 政治, 原住民族]
 subcategory: '政治與民主'
-lastVerified: 2026-05-23
-lastHumanReview: 2026-04-04
+lastVerified: 2026-07-12
+lastHumanReview: false
 rationale:
   why_this_hook: 'The night of January 14, 2012: "You may weep, but do not lose heart" + 6.89 million votes four years later. The sharpest reversal arc in the biography, echoing the closing line "quietness can also be a form of leadership."'
   whats_excluded: 'Six critique camps: deep-Blue (Cross-Strait deterioration responsibility) / deep-Green (Republic of China Taiwan framing co-optation) / TPP (same-sex marriage special law / energy / judicial reform / housing prices) / progressives (same-sex marriage as second-tier / Indigenous follow-through gap) / strategic ambiguity camp / intra-party faction details. Most are "out of scope" (pointing to separate issue articles) + "space limits." Prose covers: same-sex marriage + Indigenous critique in §Two Signatures / pandemic critique in §8.17 million votes / diplomatic break + press freedom (CTiTV) brief hedge in §The Departure (per Phase 5 sub-agent dogfood surface).'
@@ -21,6 +21,9 @@ image: '/article-images/people/tsai-2016-campaign.webp'
 imageCredit: 'MiNe (sfmine79)'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg'
+author: 'Taiwan.md'
+featured: false
+category: 'People'
 ---
 
 # Tsai Ing-wen

@@ -20,7 +20,11 @@ tags:
   - 'Tokyo residency'
 category: 'People'
 coverImage: ''
-lastHumanReview: '2026-04-20'
+lastHumanReview: true
+author: 'Taiwan.md'
+date: 2026-04-20
+featured: false
+lastVerified: 2026-01-01
 ---
 
 ## 30-Second Overview

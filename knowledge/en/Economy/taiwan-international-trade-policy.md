@@ -24,6 +24,7 @@ sourceCommitSha: '24efd20f3'
 sourceContentHash: 'sha256:46d9237ef98b45d7'
 sourceBodyHash: 'sha256:9fbe7b79e0934c74'
 translatedAt: '2026-05-15T13:52:05+08:00'
+difficulty: 'intermediate'
 ---
 
 # Taiwan's International Trade Policy: Finding Its Place in the Tide of Globalization

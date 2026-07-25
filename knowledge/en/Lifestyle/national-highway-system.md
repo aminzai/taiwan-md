@@ -1,13 +1,13 @@
 ---
 title: "National Highways: From MacArthur Freeway to Hsuehshan Tunnel, Fifty Years of Power and Speed on Taiwan's Expressways"
 description: "In 1964, the MacArthur Freeway was only 23 kilometers long; today Taiwan's national highway network exceeds 1,000 kilometers. From the Chiang Ching-kuo–championed Sun Yat-sen Freeway, the politically mocked Formosa Freeway, the world's most difficult-to-dig Hsuehshan Tunnel, to ETC reshaping every driver's toll-paying habits—each ribbon of asphalt records postwar Taiwan's political will, engineering limits, and civic resistance."
-date: '2026-05-03'
+date: 2026-07-18
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
 subcategory: '交通與移動'
 tags: [國道, 交通建設, 十大建設, 雪山隧道, ETC, 戰後台灣]
-readingTime: '10'
-lastVerified: '2026-05-03'
+readingTime: 15
+lastVerified: 2026-07-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/高速公路.md'

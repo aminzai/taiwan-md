@@ -17,6 +17,7 @@ sourceBodyHash: 'sha256:b693c93c53efd3dc'
 translatedAt: '2026-05-20T05:08:27+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg/960px-%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'intermediate'
 ---
 
 # Taiwanese Fermented Foods and Pickling Culture

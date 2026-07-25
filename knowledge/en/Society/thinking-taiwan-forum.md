@@ -1,7 +1,7 @@
 ---
 title: 'Thinking Taiwan Forum: 14 Years from a Post-Election Loss Touchstone to a Cross-Party Democratic Dialogue Container'
 description: 'On May 2, 2026, former People First Party Chairman James Soong, Taiwan Statebuilding Party Chair Wang Yu-ther, Social Democratic Party legislator Miao Poya, and veterinarian/founder of Fresh Milk Farm Gong Jianjia all appeared on the contributor list for "30 Years, 30 People, 30 Perspectives." This online forum, founded by Tsai Ing-wen after her 2012 presidential election defeat, has accumulated nearly 5,800 articles over 14 years, survived the firewall moment when Jian Chih-chung took over as chairman, and endured nine years of near-stasis during the Tsai administration. In 2026, it is still answering the question that has hung over it since day one: Can a platform called the "Tsai Ing-wen Education Foundation" sustain cross-party democratic dialogue?'
-date: '2026-05-05'
+date: 2026-05-05
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '媒體'
@@ -15,7 +15,7 @@ tags:
     '公共領域',
     '評論平台',
   ]
-lastVerified: '2026-05-05'
+lastVerified: 2026-05-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/想想論壇.md'

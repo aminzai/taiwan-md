@@ -14,6 +14,7 @@ sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
 translatedAt: 2026-05-02T02:50:54+08:00
 category: People
+author: 'Taiwan.md'
 ---
 
 # Yani Tseng

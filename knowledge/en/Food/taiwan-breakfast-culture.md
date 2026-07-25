@@ -1,7 +1,7 @@
 ---
 title: 'Taiwanese Breakfast Culture'
 description: 'From danbing, shaobing, and youtiao to the global expansion of Yonghe Soy Milk, breakfast-shop aunties and Taiwanese morning rituals'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: '飲品文化'
@@ -15,7 +15,7 @@ tags:
     'breakfast shops',
     'soy milk shops',
   ]
-lastVerified: '2026-05-16'
+lastVerified: 2026-05-16
 lastHumanReview: true
 featured: false
 translatedFrom: 'Food/台灣早餐文化.md'

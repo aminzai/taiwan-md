@@ -8,8 +8,8 @@ subcategory: '文學'
 tags: ['文學', '女性主義文學', '殺夫', '迷園', '鹿港', '性別議題']
 readingTime: 7
 lastVerified: 2026-05-07
-lastHumanReview: 'true'
-featured: 'false'
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/李昂.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:047f29e16ec14ac9'

@@ -1,7 +1,7 @@
 ---
 title: 'Ko Wen-je'
 description: "The surgeon who rewrote Taiwan's political script — from ECMO pioneer to third-party presidential candidate"
-date: 2026-03-29
+date: 2026-03-30
 tags:
   [
     'People',
@@ -14,7 +14,7 @@ tags:
 subcategory: 'Politics & Democracy'
 category: 'People'
 author: 'Taiwan.md'
-lastVerified: 2026-03-29
+lastVerified: 2026-03-30
 lastHumanReview: false
 featured: false
 readingTime: 8

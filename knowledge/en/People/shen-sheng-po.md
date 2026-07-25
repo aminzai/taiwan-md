@@ -1,7 +1,7 @@
 ---
 title: 'Shen Sheng-Po'
 description: 'Trained in computer science, Shen Sheng-Po brought code into Taiwan’s contemporary art scene. In just 34 years, he left behind not only digital artworks, but also a way of treating programming as lived experience and free software as an artistic ethic.'
-date: 2026-03-24
+date: 2026-03-23
 tags:
   [
     'People',
@@ -14,7 +14,7 @@ tags:
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
-lastVerified: 2026-03-24
+lastVerified: 2026-03-23
 lastHumanReview: false
 category: 'People'
 subcategory: '藝術與設計'

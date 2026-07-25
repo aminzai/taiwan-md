@@ -16,7 +16,7 @@ tags:
     'Taiwanese Society',
   ]
 readingTime: 18
-lastVerified: 2026-05-10
+lastVerified: 2026-07-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/醫療法.md'

@@ -22,6 +22,8 @@ sourceCommitSha: 'ac048ecf8'
 sourceContentHash: 'sha256:0b7436a5f5ecebd9'
 sourceBodyHash: 'sha256:343b0b4aed90195f'
 translatedAt: '2026-07-24T10:40:41+08:00'
+image: '/article-images/music/sodagreen-six-members-2014.webp'
+imageCredit: 'Solomon203'
 ---
 
 # Sodagreen: It Took Them Twenty Years to Realize They Had to Litigate for Their Own Name

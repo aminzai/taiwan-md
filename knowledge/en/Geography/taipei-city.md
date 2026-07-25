@@ -1,7 +1,7 @@
 ---
 title: 'Taipei City: Three Times Within One City, Longshan Temple of 1738 Looking at Taipei 101 of 2004'
 description: "Wanhua has Longshan Temple, built in 1738. Three kilometers away, on New Year's Eve 2004, Taipei 101 was completed on land that had been the Japanese-era Songshan Warehouse and the postwar 44th Arsenal; at that moment it was the tallest building in the world. Walk again to Dadaocheng, where in the 1860s Li Chunsheng used one shipload of oolong tea to sustain all of northern Taiwan's external trade. In the same basin, the three times of 1738, 1885, and 2004 sit side by side. In 1875 Shen Baozhen established Taipei Prefecture; in 1920 the Japanese merged three market towns into Taipei City; in 1947 Lin Jiangmai's packet of illicit cigarettes ignited the February 28 Incident; in 1949 the Nationalist government brought 1.2 million people to Taipei; in 1967 it was upgraded into Taiwan's first special municipality; in 1990 the Wild Lily movement sat at Chiang Kai-shek Memorial Hall for seven days and six nights. Twelve districts, living in different centuries."
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -24,7 +24,7 @@ tags:
     '22 Cities and Counties Series',
   ]
 readingTime: 18
-lastVerified: '2026-05-18'
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/台北市.md'

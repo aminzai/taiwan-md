@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:fe236b66343104a0'
 sourceBodyHash: 'sha256:fa5aded8dae3b311'
 translatedAt: '2026-05-16T21:50:00Z'
+featured: false
 ---
 
 > **30-second overview:** Lee Ho-jung's return to Fubon in 2026 was not merely roster reinforcement — it brought back a familiar rhythm. Her representativeness lies in high attendance and high stability, which moved Korean cheerleaders in Taiwan from short-term promotions to cross-season content deployment.

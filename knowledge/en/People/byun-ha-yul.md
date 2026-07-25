@@ -13,7 +13,7 @@ tags:
     'CPBL',
   ]
 subcategory: 'Pop Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
 lastVerified: 2026-05-13
@@ -23,6 +23,7 @@ sourceContentHash: 'sha256:860b8c0055b0c881'
 sourceBodyHash: 'sha256:34601056f655cc89'
 translatedAt: '2026-05-17T05:36:00Z'
 category: People
+lastHumanReview: false
 ---
 
 > **30-second overview:** Byun Ha-yul is one of the Korean mainstays of the CTBC Brothers Passion Sisters. Around the 2026 season, in public interviews she discussed both the WBC and her feelings about Taiwan, and also explained how her family's health situation affects her mood—extending the conversation from "stage charisma" to "labor and family tension."

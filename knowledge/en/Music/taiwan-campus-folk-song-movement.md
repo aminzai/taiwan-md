@@ -1,25 +1,35 @@
 ---
-title: "Taiwan Campus Folk Song Movement"
-description: "From “singing our own songs” to transforming the entire Mandarin-language music scene: the youth-led cultural revolution of the 1970s"
+title: 'Taiwan Campus Folk Song Movement'
+description: 'From “singing our own songs” to transforming the entire Mandarin-language music scene: the youth-led cultural revolution of the 1970s'
 date: 2026-03-18
-author: "Taiwan.md Contributors"
-category: "Music"
-subcategory: "流行音樂"
-tags: ["Folk Song Movement", "Campus Folk Songs", "Jin Yun Awards", "Li Shuangze", "Yang Xian", "Hu De-fu", "Singing Our Own Songs"]
+author: 'Taiwan.md Contributors'
+category: 'Music'
+subcategory: '流行音樂'
+tags:
+  [
+    'Folk Song Movement',
+    'Campus Folk Songs',
+    'Jin Yun Awards',
+    'Li Shuangze',
+    'Yang Xian',
+    'Hu De-fu',
+    'Singing Our Own Songs',
+  ]
 readingTime: 12
 lastVerified: 2026-05-16
 lastHumanReview: true
 featured: false
-translatedFrom: "Music/台灣民歌運動.md"
+translatedFrom: 'Music/台灣民歌運動.md'
 sourceCommitSha: '7415dcaa'
 sourceContentHash: 'sha256:e201829436b891a1'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
-translatedAt: "2026-05-17T05:34:48+08:00"
+translatedAt: '2026-05-17T05:34:48+08:00'
+difficulty: 'beginner'
 ---
 
 # Taiwan Campus Folk Song Movement
 
-> **30-second overview:** On December 3, 1976, at a concert at Tamkang College of Arts and Sciences, Li Shuangze smashed a Coca-Cola bottle and asked, “Why must we sing foreigners’ songs?” This “Tamkang Incident” launched Taiwan’s folk song movement. Yang Xian had premiered *Four Rhymes of Nostalgia* at Zhongshan Hall in 1975; Hu De-fu brought Indigenous ancient melodies into the scene; and the 1977 Jin Yun Awards and the Folk Style singing competition commercialized the movement, giving rise to a generation of folk singers including Chyi Yu, Tsai Chin, Yeh Chia-hsiu, and Li Chien-fu. Although the decade-long movement came to an end as talent went abroad and commercial forces took over, the spirit of “singing our own songs” continued into the generations of Lo Ta-yu, Cheer Chen, and Deserts Chang.
+> **30-second overview:** On December 3, 1976, at a concert at Tamkang College of Arts and Sciences, Li Shuangze smashed a Coca-Cola bottle and asked, “Why must we sing foreigners’ songs?” This “Tamkang Incident” launched Taiwan’s folk song movement. Yang Xian had premiered _Four Rhymes of Nostalgia_ at Zhongshan Hall in 1975; Hu De-fu brought Indigenous ancient melodies into the scene; and the 1977 Jin Yun Awards and the Folk Style singing competition commercialized the movement, giving rise to a generation of folk singers including Chyi Yu, Tsai Chin, Yeh Chia-hsiu, and Li Chien-fu. Although the decade-long movement came to an end as talent went abroad and commercial forces took over, the spirit of “singing our own songs” continued into the generations of Lo Ta-yu, Cheer Chen, and Deserts Chang.
 
 On December 3, 1976, at a concert at Tamkang College of Arts and Sciences,[^1] a Filipino overseas Chinese student walked onstage holding a Coca-Cola bottle and carrying a guitar. Angrily, he asked the audience: “Why must we sing foreigners’ songs?” He slammed the Coke bottle onto the floor.[^2] The sound of shattering glass later came to be seen as the moment when an era of musical colonialism was broken. That man was Li Shuangze, and this moment became known as the “Tamkang Incident,” the most symbolic starting point of Taiwan’s folk song movement.
 
@@ -37,7 +47,7 @@ Against this historical backdrop, “singing our own songs” was no longer mere
 
 ### Yang Xian: The Sower of Modern Folk Song
 
-On June 6, 1975, Yang Xian, then a student at National Taiwan University’s Institute of Oceanography, held a “Modern Folk Song Composition Concert” at Taipei’s Zhongshan Hall.[^3] He set Yu Kwang-chung’s poem *[Four Rhymes of Nostalgia](https://www.youtube.com/watch?v=0gbgJZqkbGM)* to music and introduced the concept of “modern folk song” for the first time.
+On June 6, 1975, Yang Xian, then a student at National Taiwan University’s Institute of Oceanography, held a “Modern Folk Song Composition Concert” at Taipei’s Zhongshan Hall.[^3] He set Yu Kwang-chung’s poem _[Four Rhymes of Nostalgia](https://www.youtube.com/watch?v=0gbgJZqkbGM)_ to music and introduced the concept of “modern folk song” for the first time.
 
 Yang Xian’s innovation lay in combining modern Chinese poetry with American folk and country music, creating a musical form that Taiwan had not seen before. This concert is regarded as the formal beginning of Taiwan’s folk song movement, and Yang Xian consequently became known as the “father of modern folk song.”[^4]
 
@@ -45,7 +55,7 @@ Yang Xian’s innovation lay in combining modern Chinese poetry with American fo
 
 Indigenous singer Hu De-fu was another important initiator of the movement.[^6] His performances at Columbia Café were a slow-moving form of cultural transmission. Hu began singing ancient melodies of the Puyuma people, allowing urban young people to hear, for the first time, the most primal and unadorned sounds of Taiwan’s land.
 
-In 1974, Hu De-fu held the “Beautiful Rice Ears” concert. This was also the occasion on which Yang Xian first publicly presented *Four Rhymes of Nostalgia*, planting the seed for the Zhongshan Hall concert the following year.
+In 1974, Hu De-fu held the “Beautiful Rice Ears” concert. This was also the occasion on which Yang Xian first publicly presented _Four Rhymes of Nostalgia_, planting the seed for the Zhongshan Hall concert the following year.
 
 ### Li Shuangze: The Bugle Call of Revolution
 
@@ -69,11 +79,11 @@ At the same time, folk-song Western restaurants appeared everywhere. From Taipei
 
 ### Intellectual Folk Song
 
-The intellectual strand of folk song, represented by Chyi Yu, pursued a fusion of poetry and philosophical reflection. Chyi Yu’s clear voice interpreted classics such as *[The Olive Tree](https://www.youtube.com/watch?v=PGcw9SvHhh0)* and “Walking in the Rain,” revealing the literary side of folk song.
+The intellectual strand of folk song, represented by Chyi Yu, pursued a fusion of poetry and philosophical reflection. Chyi Yu’s clear voice interpreted classics such as _[The Olive Tree](https://www.youtube.com/watch?v=PGcw9SvHhh0)_ and “Walking in the Rain,” revealing the literary side of folk song.
 
 ### Native-Soil Folk Song
 
-Yeh Chia-hsiu’s *[Country Road](https://www.youtube.com/watch?v=abBnysri-XI)* and Pan An-bang’s “Grandma’s Penghu Bay” represented the simplicity and warmth of the native-soil strand. These songs depicted the hometown that lives in everyone’s heart and touched the feelings of wanderers who had left home behind.
+Yeh Chia-hsiu’s _[Country Road](https://www.youtube.com/watch?v=abBnysri-XI)_ and Pan An-bang’s “Grandma’s Penghu Bay” represented the simplicity and warmth of the native-soil strand. These songs depicted the hometown that lives in everyone’s heart and touched the feelings of wanderers who had left home behind.
 
 ### Urban Folk Song
 
@@ -93,7 +103,7 @@ In the early 1980s, Taiwan’s campus folk song movement began to decline. This 
 
 ### A Break in Talent
 
-After graduation, the movement’s main figures went abroad for advanced study or entered military service, creating a break in the talent pipeline. After releasing *West of the Yang Pass* in 1977, Yang Xian went to the United States to study traditional Chinese medicine. In September 1977, Li Shuangze drowned off the coast of Tamsui while trying to rescue a young man in the water; he was only 28. The two works he left behind in his lifetime, “Formosa” and “Young China,” were later completed and recorded by Yang Tsu-chun and Hu De-fu.[^2] Many folk singers also temporarily or permanently left the musical stage because of career plans.
+After graduation, the movement’s main figures went abroad for advanced study or entered military service, creating a break in the talent pipeline. After releasing _West of the Yang Pass_ in 1977, Yang Xian went to the United States to study traditional Chinese medicine. In September 1977, Li Shuangze drowned off the coast of Tamsui while trying to rescue a young man in the water; he was only 28. The two works he left behind in his lifetime, “Formosa” and “Young China,” were later completed and recorded by Yang Tsu-chun and Hu De-fu.[^2] Many folk singers also temporarily or permanently left the musical stage because of career plans.
 
 ### Changes in the Social Atmosphere
 
@@ -109,7 +119,7 @@ Although the campus folk song movement came to an end, the legacy it left behind
 
 ### Lo Ta-yu: Folk Song’s Rebellious Heir
 
-Lo Ta-yu may be described as the most important rebellious heir of the folk song movement. He inherited the folk spirit of “singing our own songs,” but rejected folk song’s gentleness and innocence, turning instead to sharper and more critical ways of engaging social reality. From *Pedantry* to “Home,” Lo Ta-yu opened a new era in Mandarin-language popular music.
+Lo Ta-yu may be described as the most important rebellious heir of the folk song movement. He inherited the folk spirit of “singing our own songs,” but rejected folk song’s gentleness and innocence, turning instead to sharper and more critical ways of engaging social reality. From _Pedantry_ to “Home,” Lo Ta-yu opened a new era in Mandarin-language popular music.
 
 ### The DNA of Modern Independent Music
 
@@ -149,10 +159,10 @@ The answer Taiwan’s folk song movement gives us is this: do not be afraid to c
 
 [^2]: [Fount Media: “‘Sing Our Own Songs’! Li Shuangze, Who Died Young, Influenced Generations of Creators”](https://www.fountmedia.io/article/104260) — An in-depth report on Li Shuangze’s life, the Coke-bottle-smashing scene at the Tamkang Incident, his works “Formosa” and “Young China,” and his spiritual influence on later figures such as Hu De-fu, Yang Xian, and Lo Ta-yu.
 
-[^3]: [Straits Exchange Foundation, *Exchange* magazine: feature on forty years of folk song](https://www.sef.org.tw/article-1-129-5006) — A long commemorative retrospective on the fortieth anniversary of folk song, including the historical moment when Yang Xian first set Yu Kwang-chung’s *Four Rhymes of Nostalgia* to music at the June 6, 1975 “Modern Folk Song Composition Concert” at Zhongshan Hall.
+[^3]: [Straits Exchange Foundation, _Exchange_ magazine: feature on forty years of folk song](https://www.sef.org.tw/article-1-129-5006) — A long commemorative retrospective on the fortieth anniversary of folk song, including the historical moment when Yang Xian first set Yu Kwang-chung’s _Four Rhymes of Nostalgia_ to music at the June 6, 1975 “Modern Folk Song Composition Concert” at Zhongshan Hall.
 
 [^4]: [Wikipedia: Campus Folk Song](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C) — The Chinese Wikipedia entry on “campus folk song,” including Yang Xian’s historical position as the “father of modern folk song” and an overview of the folk song movement.
 
-[^5]: [*Taiwan Popular Music Memorandum*, Taipei City Open Data Platform](https://data.taipei/dataset/detail?id=4cc90cd2-540d-4b51-a8dd-be72cb0e2892) — A chronological memorandum on Taiwanese popular music provided by Taipei City’s cultural database, including official information on Hsin Ko Records’ 1977 “Jin Yun Awards” and Haishan Records’ 1978 “Folk Style” singing competition.
+[^5]: [_Taiwan Popular Music Memorandum_, Taipei City Open Data Platform](https://data.taipei/dataset/detail?id=4cc90cd2-540d-4b51-a8dd-be72cb0e2892) — A chronological memorandum on Taiwanese popular music provided by Taipei City’s cultural database, including official information on Hsin Ko Records’ 1977 “Jin Yun Awards” and Haishan Records’ 1978 “Folk Style” singing competition.
 
 [^6]: [Wikipedia: Hu De-fu](https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%BE%B7%E5%A4%AB) — The Chinese Wikipedia entry on Hu De-fu, including his musical initiation at age 11 in the choir of Tamkang Senior High School in Tamsui and his historical role in promoting the “sing our own songs” folk movement alongside Li Shuangze and Yang Xian in the 1970s.

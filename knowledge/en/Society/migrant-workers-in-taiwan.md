@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:56c198b69b8ecacd'
 sourceBodyHash: 'sha256:223753ff8fc1f5ae'
 translatedAt: '2026-04-30T22:50:13+08:00'
+featured: false
 ---
 
 > **30-second overview:** In 2026's Taiwan, one in every 26 people is an international migrant worker. The total has climbed to 873,000; if the estimated 94,000 undocumented workers are included, this group now makes up more than 5% of Taiwan's permanent resident population. From live-streaming culture in Taipei Main Station's main hall, to the Migrant Workers' Grand March's insistence on "abolishing the work tenure cap," to the "anti-Indian migrant worker" petition that crossed 40,000 signatures in April 2026 — Taiwan is at a crossroads between acute labor shortage and anxiety about social cohesion. This is not merely labor policy; it is a collective trial in which Taiwan defines who counts as "us."

@@ -23,6 +23,7 @@ sourceCommitSha: '73443b2a'
 sourceContentHash: 'sha256:cd1df8dc4931d5ab'
 sourceBodyHash: 'sha256:c54c3768ed377e41'
 translatedAt: '2026-06-10T16:43:34Z'
+difficulty: 'intermediate'
 ---
 
 **Thirty-second overview: In 1986, Ren Jiang-da, of Korean-Japanese descent, borrowed NT$300,000 to take over a failing record store and began importing "music nobody wanted to hear" into Taiwan. Forty years later, the ecosystem that grew out of that shop, from live houses and independent labels to StreetVoice and the Golden Indie Music Awards, sent a band selling records in coffee shops to the Golden Melody Awards' Album of the Year, and sent an all-English Taipei band to Coachella. Four decades of Taiwanese independent music has been a relay race with no finish line: every runner is gasping for air, every runner feels close to collapse, but the baton has never fallen.**

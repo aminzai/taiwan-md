@@ -22,6 +22,7 @@ sourceCommitSha: f712b7242
 sourceContentHash: sha256:9d646e504e06dd7e
 sourceBodyHash: sha256:3ece4cc0080f2397
 translatedAt: 2026-05-20T05:08:27+08:00
+difficulty: 'beginner'
 ---
 
 # Urban Character and Regional Culture

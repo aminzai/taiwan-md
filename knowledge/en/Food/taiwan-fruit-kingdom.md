@@ -1,11 +1,11 @@
 ---
 title: 'Taiwan Fruit Kingdom'
 description: 'In 2021, Irwin mangoes hit NT$100 per catty. Behind this price lies a triple battle between farmers, natural disasters, markets, and politics.'
-date: 2026-03-18
+date: 2026-07-08
 tags: ['fruits', 'mango', 'lychee', 'sugar apple', 'agriculture', 'exports']
 category: 'Food'
-lastVerified: 2026-03-20
-lastHumanReview: true
+lastVerified: 2026-07-08
+lastHumanReview: false
 translatedFrom: 'Food/台灣水果王國.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cec5a64527d2ad7f'
@@ -14,6 +14,10 @@ translatedAt: '2026-04-14T12:25:09+08:00'
 image: '/article-images/food/fruit-kingdom-mango-fangliao-2009.webp'
 imageCredit: '陳偉城栽種、屏東枋寮 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 2.0'
+author: 'Taiwan.md'
+featured: true
+readingTime: 16
+difficulty: 'intermediate'
 ---
 
 # Taiwan Fruit Kingdom

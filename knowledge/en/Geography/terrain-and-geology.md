@@ -3,7 +3,7 @@ title: 'Topography and Geology'
 description: "A 6-million-year-old island hiding 200-million-year-old memories — the miracle of the world's youngest orogenic belt meeting the most violent plate collision"
 date: 2026-03-23
 tags: [geography, geology, plate-tectonics, orogeny, earthquakes, hot-springs]
-category: 'geography'
+category: 'Geography'
 readingTime: 8
 lastVerified: 2026-03-23
 lastHumanReview: false
@@ -12,6 +12,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1c19912f3b7cdf1b'
 sourceBodyHash: 'sha256:ff4a4e3156ba7d86'
 translatedAt: '2026-04-14T12:25:09+08:00'
+author: 'Taiwan.md'
+featured: false
 ---
 
 > **30-second overview:** Taiwan is one of the world's youngest orogenic belts, yet preserves rocks from over 200 million years ago.

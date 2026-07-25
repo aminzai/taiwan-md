@@ -1,12 +1,12 @@
 ---
 title: 'Taiwan Hairstyles: A Social Ruler from Hair Bans to Memes'
 description: "From the Ministry of Education's buzz-cut mandate in 1969 to Minister Du Zhengsheng's 2005 remark — 'Can hairstyle represent whether someone is good or bad?' — which fully lifted the hair ban, the crowns of Taiwanese men have reflected a societal shift from authoritarian discipline to self-expression. The recent viral 'A-Zhi Cut' meme is merely the latest chapter in this transformation."
-date: '2026-05-07'
+date: 2026-05-07
 author: 'Taiwan.md'
 category: 'Lifestyle'
 subcategory: '城市生活'
 tags: ['Hairstyles', 'Barber Culture', 'Fashion', 'Urban Life', 'Memes']
-lastVerified: '2026-05-07'
+lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/台灣髮型介紹.md'

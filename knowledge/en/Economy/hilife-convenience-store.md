@@ -1,7 +1,7 @@
 ---
 title: "Hi-Life: From Guangquan Red to United Green—The Soul of Taiwan's 'Third Superstore' Rises Up"
 description: "How did Hi-Life, as Taiwan's sole superstore with purely local roots, carve out its identity amidst the pressure from 7-ELEVEN and FamilyMart through pioneering 'New Year's Eve meal pre-orders' and 'digital transformation'? How will this major ownership shift in 2023 change the DNA of this 35-year-old establishment?"
-date: '2026-07-21'
+date: 2026-07-21
 author: 'Taiwan.md Contributors'
 category: 'Economy'
 subcategory: 'Corporate Biography'
@@ -15,10 +15,10 @@ tags:
     'Ownership Change',
     'Retail Finance',
   ]
-readingTime: '12'
-lastVerified: '2026-07-21'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-21
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/萊爾富.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:16de3ef9123d401b'

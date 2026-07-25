@@ -1,7 +1,7 @@
 ---
 title: 'Can Forecast Wind and Rain, but Not Fate: Four Hundred Years of Taiwan and Typhoons'
 description: 'On the morning Morakot struck in 2009, 71-year-old Lo Pan Chun-mei stood on a second-floor balcony and watched Mt. Xiandu collapse, swallowing 462 loved ones in Xiaolin Village. Fifteen years later, Taiwan used six AI models to cut the 24-hour typhoon-track forecast error from 172 kilometers to 57 kilometers. But within those 57 kilometers, who will go out to work in the storm, and who will not receive the warning, still cannot be predicted.'
-date: '2026-05-09'
+date: 2026-05-09
 author: 'Taiwan.md'
 category: 'Nature'
 subcategory: '氣候與災害'
@@ -20,10 +20,10 @@ tags:
     'AI forecasting',
     'FORMOSAT-7',
   ]
-readingTime: '13'
-lastVerified: '2026-05-09'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 13
+lastVerified: 2026-05-09
+lastHumanReview: false
+featured: false
 sporeLinks:
   - id: 115
     platform: 'threads'

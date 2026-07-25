@@ -21,6 +21,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a7528e9b7062bef0'
 sourceBodyHash: 'sha256:9f3cbb43337753f0'
 translatedAt: '2026-05-01T13:44:02+08:00'
+lastVerified: 2026-04-05
+lastHumanReview: false
 ---
 
 # Steve Chen

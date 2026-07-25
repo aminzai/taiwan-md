@@ -1,7 +1,7 @@
 ---
 title: 'Startup Ecosystem'
 description: 'The development of Taiwan’s startup ecosystem, from early challenges to today’s accelerators, venture capital environment, and pursuit of unicorns'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '新創經濟'
@@ -15,7 +15,7 @@ tags:
     'unicorns',
   ]
 readingTime: 9
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'Economy/新創生態系.md'
@@ -23,6 +23,7 @@ sourceCommitSha: 'cfaa22a5'
 sourceContentHash: 'sha256:4ade9d7e43f9b0c2'
 sourceBodyHash: 'sha256:07a9caf907dd16bd'
 translatedAt: '2026-05-25T21:06:51Z'
+difficulty: 'intermediate'
 ---
 
 # Startup Ecosystem

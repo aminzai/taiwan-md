@@ -1,7 +1,7 @@
 ---
 title: 'Taipei Smoking Room: The Glass Box That Breathes in a Smoke-Free City'
 description: "2026 May 7, a transparent box was erected next to Exit 6 of Ximen MRT Station, Taiwan's first outdoor negative-pressure smoking booth; when the door opens, wind blows in but does not escape. Taipei aims to be a smoke-free city, yet it first built a glass house for smoking on the street. From the 1984 case where a strict path removed a lung lobe, to indoor secondhand smoke dropping to 3.2% while nearly half remains outdoors, this box holds a legal cigarette and a city's unfinished public-space contract."
-date: '2026-07-13'
+date: 2026-07-13
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: 'Society'
@@ -16,10 +16,10 @@ tags:
     'Ximending',
     'e-cigarette',
   ]
-readingTime: '17'
-lastVerified: '2026-07-13'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 17
+lastVerified: 2026-07-13
+lastHumanReview: false
+featured: false
 translatedFrom: 'Society/台北吸菸室.md'
 sourceCommitSha: '196880b10'
 sourceContentHash: 'sha256:154106c14a84262b'

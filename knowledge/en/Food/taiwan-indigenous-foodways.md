@@ -1,7 +1,7 @@
 ---
 title: 'Taiwan Indigenous Foodways'
 description: 'From millet to wild greens, the ecological wisdom and living heritage of Indigenous cuisines'
-date: 2026-03-18
+date: 2026-03-29
 tags:
   [
     'Indigenous',
@@ -15,7 +15,7 @@ author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-03-29
 translatedFrom: 'Food/台灣原住民飲食文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:d67f3581051e39e8'
@@ -24,6 +24,7 @@ translatedAt: '2026-04-14T12:25:09+08:00'
 category: Food
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg/960px-Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: false
 ---
 
 # Taiwan Indigenous Foodways

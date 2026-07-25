@@ -1,13 +1,13 @@
 ---
 title: "Yushan: From 'Mount Niitaka' to the Highest Point of Taiwan's Soul"
 description: "In 1897, Japanese colonizers named it 'Mount Niitaka,' symbolizing the empire's ambition to surpass Mount Fuji in altitude. More than a century later, Yushan remains Taiwan's highest peak: from a sacred mountain of Indigenous peoples, records in Qing-era texts, and the crown on colonial maps, to today's contested mountaineering shrine and testing ground for environmental ethics."
-date: '2026-04-27'
+date: 2026-04-27
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '地形與地質'
 tags: ['Yushan', 'Hundred Peaks', 'Bunun', 'National Park', 'Mountaineering']
 readingTime: 15
-lastVerified: '2026-04-27'
+lastVerified: 2026-04-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/玉山.md'
@@ -32,7 +32,7 @@ The Tsou call it **Patungkuonʉ** (or Pattonkan), meaning "shining mountain" or 
 
 ### Shifting Power Behind the Names: From Mount Morrison to Yushan
 
-Outsiders' gazes attached different political and cultural labels to this mountain. As early as the Kangxi reign of the Qing dynasty (1685), the *Taiwan Prefecture Gazetteer* had already recorded the name "Yushan," describing it as a mountain that was "extremely high, with clouds and mist covering it above... white like silver." In Qing-era documents, Yushan was also called "Batongguan Mountain" or "Snow Mountain," because from afar its snow looked like silver [^3].
+Outsiders' gazes attached different political and cultural labels to this mountain. As early as the Kangxi reign of the Qing dynasty (1685), the _Taiwan Prefecture Gazetteer_ had already recorded the name "Yushan," describing it as a mountain that was "extremely high, with clouds and mist covering it above... white like silver." In Qing-era documents, Yushan was also called "Batongguan Mountain" or "Snow Mountain," because from afar its snow looked like silver [^3].
 
 In the mid-nineteenth century, Western navigators named it "Mt. Morrison" after the captain of a British merchant ship. In the early Japanese colonial period, the Japanese government considered other names, such as "Zhennan Mountain" and "Dainan Mountain" (evoking the phrase wishing longevity as enduring as the southern mountains), before the Meiji Emperor ultimately settled on "Mount Niitaka," because it was more than 200 meters higher than Mount Fuji. During the Second World War, the mountain even became part of a military code: the operational phrase for the attack on Pearl Harbor, "Climb Mount Niitaka 1208," borrowed the symbolic meaning of the empire's highest peak [^4].
 
@@ -46,13 +46,13 @@ What makes Yushan truly astonishing is hidden along its vertical climbing route:
 
 According to the latest information from Yushan National Park, this "biological island of species left from the Ice Age" possesses extraordinarily rich ecological diversity:
 
-| Category | Numbers and Features | Representative Species |
-| :----------- | :----------------------------------------------------- | :--------------------------------------------------------------- |
-| **Mammals** | About 65 species, accounting for 74% of Taiwan's terrestrial mammals, including 16 medium and large animals | Formosan black bear, Formosan sambar, Formosan serow, Formosan wild boar, Formosan macaque, Reeves's muntjac, yellow-throated marten |
-| **Birds** | About 191-233 species, including 29 Taiwan endemic species | Mikado pheasant, alpine accentor, white-whiskered laughingthrush |
-| **Butterflies** | About 282-289 species, more than half of Taiwan's butterfly species | "Butterfly corridors" around Tataka and Batongguan |
-| **Amphibians and Reptiles** | Taiwan's endemic salamanders reach the world's southernmost distribution | Alishan salamander |
-| **Plants** | 87% natural forest, spanning subtropical to frigid-zone vegetation | Juniperus morrisonicola, Rhododendron pseudochrysanthum, Leontopodium microphyllum, Taiwan fir, Yushan cane |
+| Category                    | Numbers and Features                                                                                        | Representative Species                                                                                                               |
+| :-------------------------- | :---------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| **Mammals**                 | About 65 species, accounting for 74% of Taiwan's terrestrial mammals, including 16 medium and large animals | Formosan black bear, Formosan sambar, Formosan serow, Formosan wild boar, Formosan macaque, Reeves's muntjac, yellow-throated marten |
+| **Birds**                   | About 191-233 species, including 29 Taiwan endemic species                                                  | Mikado pheasant, alpine accentor, white-whiskered laughingthrush                                                                     |
+| **Butterflies**             | About 282-289 species, more than half of Taiwan's butterfly species                                         | "Butterfly corridors" around Tataka and Batongguan                                                                                   |
+| **Amphibians and Reptiles** | Taiwan's endemic salamanders reach the world's southernmost distribution                                    | Alishan salamander                                                                                                                   |
+| **Plants**                  | 87% natural forest, spanning subtropical to frigid-zone vegetation                                          | Juniperus morrisonicola, Rhododendron pseudochrysanthum, Leontopodium microphyllum, Taiwan fir, Yushan cane                          |
 
 Particularly worth noting is that the Lele River basin has the densest population of Formosan black bears in Taiwan. The Taiwan-endemic Alishan salamander is also found at the world's southernmost limit for salamanders. Yushan is a "biological island of species left from the Ice Age," with vertical ecological zones ranging from subtropical to frigid environments, giving it exceptional scientific value [^7]. On scree slopes above 3,850 meters, the environment is extremely harsh: strong winds, low temperatures, and intense ultraviolet radiation. Plants here, such as Leontopodium microphyllum, have evolved thick fuzz or waxy leaves, taking root in rock crevices at an extremely slow pace and displaying the remarkable resilience of Taiwan's alpine flora.
 

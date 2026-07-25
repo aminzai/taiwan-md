@@ -26,6 +26,8 @@ sourceCommitSha: '11b9ab5c'
 sourceContentHash: 'sha256:b2e42e39e2b6099a'
 sourceBodyHash: 'sha256:08cc37391882e836'
 translatedAt: '2026-06-22T00:30:00+08:00'
+imageCredit: 'Peellden'
+difficulty: 'intermediate'
 ---
 
 # Taiwan Science Parks: A Bet on a Rice Field That Became the World’s Lifeline, and Its Chokepoint

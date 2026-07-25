@@ -22,6 +22,8 @@ tags:
 readingTime: 9
 lastVerified: 2026-04-10
 lastHumanReview: false
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Chiang Kai-shek Memorial Hall

@@ -22,6 +22,7 @@ sourceContentHash: 'sha256:c7cb9c37ad53a48c'
 sourceBodyHash: 'sha256:d9744718376b888a'
 translatedAt: '2026-05-01T13:44:02+08:00'
 category: People
+author: 'Taiwan.md'
 ---
 
 # Lee Yuan-tseh

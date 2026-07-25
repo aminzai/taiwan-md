@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2b37211d946c848c'
 sourceBodyHash: 'sha256:0b62bbb2f4c7cd6b'
 translatedAt: '2026-06-16T17:19:04Z'
+author: 'Taiwan.md'
 ---
 
 > **30-Second Overview:** Why does the Chinese spoken in Taiwan look the way it does? It is not the result of policy design, but rather the natural sedimentation of four centuries of island life — a linguistic stratigraphy. From Dutch-era place names, fifty years of Japanese loanword infiltration, the vocabulary divergence of 1949, to the linguistic tug-of-war of the internet age — every layer is a trace of lived reality, not a political stance.

@@ -2,7 +2,7 @@
 title: 'Hot Spring Culture'
 description: 'From Military Medicine to World-Class Mud Springs: How Taiwan Became an Accidental Hot Spring Empire'
 date: 2026-03-22
-category: lifestyle
+category: 'Lifestyle'
 tags:
   [
     lifestyle,
@@ -15,7 +15,7 @@ tags:
     healing culture,
   ]
 author: 'Taiwan.md Contributors'
-readingTime: 15
+readingTime: 12
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Lifestyle/溫泉文化.md'
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5c053dd9110acc9b'
 sourceBodyHash: 'sha256:62212c95c5c34acf'
 translatedAt: '2026-04-14T12:25:09+08:00'
+featured: false
 ---
 
 # Hot Spring Culture: From Military Medicine to World-Class Mud Springs

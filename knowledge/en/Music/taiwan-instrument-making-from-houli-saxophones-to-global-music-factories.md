@@ -1,13 +1,13 @@
 ---
 title: 'Taiwan Instrument Manufacturing: From Houli Saxophones to Global Music Factories'
 description: "Explore the development of Taiwan's instrument manufacturing industry, from Houli saxophones' dominance of the global market to the guitar OEM kingdom, to the precision craftsmanship of music box manufacturing — and how Taiwan transitioned from contract manufacturing to building its own brands"
-date: 2026-03-19
+date: 2026-07-17
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '樂器與製造'
 tags: ['樂器製造', '后里薩克斯風', '吉他代工', '音樂盒', '製造業', '台灣工藝']
-readingTime: 13
-lastVerified: 2026-03-19
+readingTime: 22
+lastVerified: 2026-07-17
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/台灣樂器製造.md'

@@ -22,6 +22,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b219ae0c22f1ce55'
 sourceBodyHash: 'sha256:943159c3ad5fba6c'
 translatedAt: '2026-05-01T14:11:02+08:00'
+author: 'Taiwan.md'
+featured: false
 ---
 
 > **30-second overview:** On July 19, 1996, the Atlanta Olympics opening ceremony broadcast the ancient chant of Kuo Ying-nan, an Amis elder from Maolan village in Taitung — to 65 million viewers worldwide. But Kuo Ying-nan himself only learned his voice had circled the globe two years later, through an international copyright lawsuit. This "stolen, then heard by the world" absurdity is the perfect metaphor for one hundred years of Taiwan's folk music: repeatedly silenced under colonial policies, yet always surfacing in unexpected places, ultimately letting the world hear Taiwan's oldest and most resilient voices.

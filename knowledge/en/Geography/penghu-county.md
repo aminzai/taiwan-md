@@ -1,7 +1,7 @@
 ---
 title: 'Penghu County: Twice Rejecting Casinos, the Chrysanthemum Islands Chose More Than Frugality'
 description: "On September 26, 2009, votes were counted in Magong: 17,359 opposed, and the casino side lost by 3,962 votes. Seven years later, in 2016, Penghu voted again: 81.07% opposed. An outlying island county with only 1,000 millimeters of annual rainfall, 108,000 registered residents but only 80,000 usual residents, held Taiwan's first local gambling referendum and then held another one. In the same stretch of sea, Shen Yourong forced the Dutch to withdraw in 1604; in 1622 the Dutch moved from Fengguiwei to Tainan; in 1885 the French commander Courbet died of illness in Makung Harbor. The 17.4-million-year-old basalt columns are still there: 89 islands are black volcanic rock, and one is older andesite. In winter, inside the stone walls of vegetable gardens, crops grow in the lee."
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -22,7 +22,7 @@ tags:
     '22 Counties and Cities Series',
   ]
 readingTime: 15
-lastVerified: '2026-05-18'
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/澎湖縣.md'

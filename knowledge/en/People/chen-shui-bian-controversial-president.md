@@ -1,7 +1,7 @@
 ---
 title: 'Chen Shui-bian'
 description: "The 10th and 11th President of Taiwan, the architect of the 2000 first-party alternation. From son of a Tainan tenant farmer to the first DPP president, and finally the first former head of state to be imprisoned—his trajectory encapsulates the most complex tensions of Taiwan's democratic transition: inspirational, legislative foundation, storm, and division."
-date: '2026-04-29'
+date: 2026-04-29
 author: 'idlccp1984'
 category: 'People'
 subcategory: 'Politics and Democracy'
@@ -14,10 +14,10 @@ tags:
   - 'Human Rights Legislation'
   - 'Transitional Justice'
   - 'Cross-Strait Relations'
-readingTime: '18'
-lastVerified: '2026-04-29'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 18
+lastVerified: 2026-04-29
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/陳水扁.md'
 sourceCommitSha: 'eae11d139'
 sourceContentHash: 'sha256:9e6735e344733c2b'

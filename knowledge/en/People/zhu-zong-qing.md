@@ -12,6 +12,8 @@ sourceContentHash: 'sha256:0eba5bba0f89e085'
 sourceBodyHash: 'sha256:7f55711687ee2aed'
 translatedAt: 2026-05-01T20:54:09+08:00
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Zhu Zong-qing

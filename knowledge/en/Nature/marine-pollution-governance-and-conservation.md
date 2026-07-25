@@ -1,11 +1,18 @@
 ---
 title: "Taiwan's Marine Pollution Governance and Conservation Challenges"
-description: "Examining the current state, challenges, and innovative solutions for marine conservation in Taiwan amid marine debris, overfishing, and climate change"
+description: 'Examining the current state, challenges, and innovative solutions for marine conservation in Taiwan amid marine debris, overfishing, and climate change'
 date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Nature'
 subcategory: '保育與環境'
-tags: ['marine conservation', 'marine pollution', 'marine debris', 'Ocean Affairs Council', 'sustainable fisheries']
+tags:
+  [
+    'marine conservation',
+    'marine pollution',
+    'marine debris',
+    'Ocean Affairs Council',
+    'sustainable fisheries',
+  ]
 readingTime: 15
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +22,7 @@ sourceCommitSha: '1d54cbe52'
 sourceContentHash: 'sha256:3725125046bb0302'
 sourceBodyHash: 'sha256:c208c01efc93c70e'
 translatedAt: '2026-05-20T05:08:27+08:00'
+difficulty: 'intermediate'
 ---
 
 # Taiwan's Marine Pollution Governance and Conservation Challenges
@@ -51,14 +59,14 @@ According to surveys by the Ocean Conservation Administration and civil society 
 
 **Major marine debris types** (based on beach-cleanup data from the Society of Wilderness, 2016-2023):
 
-| Rank | Waste Type | Annual Average Quantity | Share |
-|------|------------|-------------------------|-------|
-| 1 | PET bottles | 37,657 items | 18.2% |
-| 2 | Plastic bottle caps | 29,844 items | 14.4% |
-| 3 | Straws | 22,660 pieces | 10.9% |
-| 4 | Plastic shopping bags | 21,358 items | 10.3% |
-| 5 | Takeout drink cups | 17,694 items | 8.5% |
-| 6 | Disposable tableware | 17,392 items | 8.4% |
+| Rank | Waste Type            | Annual Average Quantity | Share |
+| ---- | --------------------- | ----------------------- | ----- |
+| 1    | PET bottles           | 37,657 items            | 18.2% |
+| 2    | Plastic bottle caps   | 29,844 items            | 14.4% |
+| 3    | Straws                | 22,660 pieces           | 10.9% |
+| 4    | Plastic shopping bags | 21,358 items            | 10.3% |
+| 5    | Takeout drink cups    | 17,694 items            | 8.5%  |
+| 6    | Disposable tableware  | 17,392 items            | 8.4%  |
 
 **Pollution hotspot analysis**:
 
@@ -581,14 +589,25 @@ The core of marine conservation is intergenerational equity: today's decisions d
 ## References
 
 [^1]: [Marine debris statistics - iOcean Conservation Network](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Beach-cleanup data statistics from the Society of Wilderness, 2016-2023.
+
 [^2]: [Taiwan marine microplastic survey - Biodiversity Research Center, Academia Sinica](https://www.oca.gov.tw/) — Survey report on microplastic concentrations in waters around Taiwan.
+
 [^3]: [Marine Conservation Act passes third reading - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/35872/) — Confirmation that the Marine Conservation Act passed its third reading on July 12, 2024.
+
 [^4]: [Ocean Conservation Administration, Ocean Affairs Council](https://www.oca.gov.tw/) — 2024 edition of the Taiwan Marine Conservation White Paper.
+
 [^5]: [Key policies of the Marine Conservation Act - Executive Yuan](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Executive Yuan policy explanation on the Marine Conservation Act.
+
 [^6]: [A year-long rapid marine debris screening survey reveals the truth about pollution along Taiwan's coasts - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Survey data on coastal garbage density in Taiwan.
+
 [^7]: [Ten things you need to know about marine debris - Indigo Waters Institute](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Indigo Waters Institute 2020 survey of seafloor garbage density.
+
 [^8]: [The Marine Conservation Act cannot be delayed any longer - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/30154/) — Legislative history of civil society advocacy for marine conservation law.
+
 [^9]: [Understanding marine debris - Ocean World](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Analysis of marine debris types and sources.
+
 [^10]: [The Sea, What "Plastic" Does It Have: A Comprehensive Checkup of Taiwan's Coastal Garbage - Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Survey of types and distribution of coastal garbage in Taiwan.
+
 [^11]: [Sea turtle conservation results on Xiaoliuqiu - Taiwan Loo-Koo Yu Association](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Xiaoliuqiu sea turtle conservation model and outcomes.
+
 [^12]: [First-ever nationwide large-scale coral bleaching in 2024 - Our Island](https://ourisland.pts.org.tw/content/7392) — 2020 Taiwan coral bleaching survey report.

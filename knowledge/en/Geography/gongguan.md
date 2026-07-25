@@ -1,7 +1,7 @@
 ---
 title: "Gongguan: The Japanese Empire's Laboratory, Martial-Law-Era Underground Salons, and NTU Students' Fried Chicken Cutlets: Three Centuries in 500 Meters"
 description: "In 1928, the Japanese built the empire's sixth university, Taihoku Imperial University, on Taipei's southern outskirts; outside its gate, the area around Wenzhou Street, Qingtian Street, and Yongkang Street became a faculty housing district. After the war, in 1949, the dormitories were taken over for postwar Chinese migrant scholars; the small house at 1-1, Alley 16, Lane 18, Wenzhou Street became the living room of Yin Hai-kuang under house arrest; Wistaria Tea House in Lane 16, Section 3, Xinsheng South Road went from a Customs Administration official residence to a dangwai youth-culture salon; 25 Wenzhou Street was Tai Jingnong's study, where he wrote until 1990; and the 1972-75 NTU Department of Philosophy Incident implicated 13 professors on campus. In 1999, the MRT Xindian line opened, and Gongguan Circle became the dinner ATM for NTU students. The Japanese Empire's laboratory, martial-law-era underground salons, and contemporary students' fried chicken cutlets: three centuries layered into 500 meters."
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區 / 台北市大安區、中正區'
@@ -29,7 +29,7 @@ tags:
     'Historic District Series',
   ]
 readingTime: 22
-lastVerified: '2026-05-21'
+lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/公館.md'

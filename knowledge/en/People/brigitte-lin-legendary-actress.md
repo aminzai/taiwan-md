@@ -1,7 +1,7 @@
 ---
 title: 'Brigitte Lin: From Romance Icon to Martial Arts Legend'
 description: "The legendary actress who dominated both Qiong Yao romance films and Tsui Hark's martial arts cinema, becoming an eternal icon of Chinese cinema"
-date: 2026-03-20
+date: 2026-03-19
 tags:
   [
     'Brigitte Lin',
@@ -11,26 +11,29 @@ tags:
     'Chinese cinema',
   ]
 subcategory: 'Film & Theater'
-lastVerified: 2026-03-20
+lastVerified: 2026-03-19
 translatedFrom: 'People/林青霞.md'
 sourceCommitSha: '7415dcaa'
 sourceContentHash: 'sha256:2b4a824289c241f9'
 sourceBodyHash: 'sha256:12badc0094297f08'
 translatedAt: '2026-05-17T05:53:00Z'
 category: People
+author: 'Taiwan.md'
+featured: false
+lastHumanReview: false
 ---
 
 # Brigitte Lin: From Romance Icon to Martial Arts Legend
 
-Brigitte Lin (林青霞) is one of the most representative actresses in Chinese-language cinema, bridging the eras of Qiong Yao romance and Tsui Hark martial arts cinema. Rising to fame in the 1970s as a central figure in the film adaptations of romance novelist Qiong Yao (瓊瑤), she later transformed herself in the late 1980s into an unforgettable martial arts icon through her collaboration with director Tsui Hark (徐克), playing a subversive role in *The Swordsman II*. Her career witnessed the golden age of Chinese-language cinema.
+Brigitte Lin (林青霞) is one of the most representative actresses in Chinese-language cinema, bridging the eras of Qiong Yao romance and Tsui Hark martial arts cinema. Rising to fame in the 1970s as a central figure in the film adaptations of romance novelist Qiong Yao (瓊瑤), she later transformed herself in the late 1980s into an unforgettable martial arts icon through her collaboration with director Tsui Hark (徐克), playing a subversive role in _The Swordsman II_. Her career witnessed the golden age of Chinese-language cinema.
 
 ## A Military Dependents' Village Girl's Journey to Stardom
 
 Born on November 3, 1954, in Taipei, Brigitte Lin came from a military family—her father Lin Weilliang was an army officer, and her mother Luo Xiuyun was a housewife. Growing up in a juancun (眷村, military dependents' village), she displayed an otherworldly beauty and gentle temperament from an early age.
 
-While attending Jinling Girls' High School, Lin excelled academically and showed deep interest in literature and arts. In 1972, as she prepared for university entrance exams, she was spotted in Ximending by director Song Cunshou (宋存壽), who invited her to star in *Outside the Window*; she had no prior experience or aspirations in entertainment.[^1]
+While attending Jinling Girls' High School, Lin excelled academically and showed deep interest in literature and arts. In 1972, as she prepared for university entrance exams, she was spotted in Ximending by director Song Cunshou (宋存壽), who invited her to star in _Outside the Window_; she had no prior experience or aspirations in entertainment.[^1]
 
-With her mother's support, Lin decided to try film acting. Her debut film *Outside the Window* (窗外, 1973), adapted from a Qiong Yao novel and co-starring with Qin Han (秦漢), established her position as a defining face of Chinese-language literary cinema.[^2]
+With her mother's support, Lin decided to try film acting. Her debut film _Outside the Window_ (窗外, 1973), adapted from a Qiong Yao novel and co-starring with Qin Han (秦漢), established her position as a defining face of Chinese-language literary cinema.[^2]
 
 ## The Qiong Yao Era: Literary Romance Goddess
 
@@ -140,8 +143,12 @@ Younger generations discovering her magic through classic film reruns shows that
 - [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Hong Kong period film materials
 - [The Swordsman II — Hong Kong Film Awards Association](https://www.hkfaa.com/) — Critical evaluation of classic works
 
-[^1]: Wikipedia "Brigitte Lin" entry: Song Cunshou as director invited her to star in *Outside the Window* (1973). https://zh.wikipedia.org/wiki/林青霞
-[^2]: *Outside the Window* (1973), directed by Song Cunshou, was Brigitte Lin's first starring role, adapted from Qiong Yao's novel of the same name. Taiwan Cinema works data: https://taiwancinema.bamid.gov.tw/
+[^1]: Wikipedia "Brigitte Lin" entry: Song Cunshou as director invited her to star in _Outside the Window_ (1973). https://zh.wikipedia.org/wiki/林青霞
+
+[^2]: _Outside the Window_ (1973), directed by Song Cunshou, was Brigitte Lin's first starring role, adapted from Qiong Yao's novel of the same name. Taiwan Cinema works data: https://taiwancinema.bamid.gov.tw/
+
 [^3]: Brigitte Lin married Hong Kong businessman Michael Ying (邢李原) on June 29, 1994 and gradually withdrew from acting; see Wikipedia "Brigitte Lin" entry <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
-[^4]: *Swordsman II: The Legend of the Swordsman* (1992), directed by Tsui Hark, with Brigitte Lin as Dongfang Bubai; held in the Hong Kong Film Archive. https://www.filmarchive.gov.hk/
-[^5]: Brigitte Lin, *Inside and Outside the Window* (窗裡窗外), Cosmos Books, 2011 — her principal essay collection, well received by the literary world. <https://www.books.com.tw/products/0010512315>
+
+[^4]: _Swordsman II: The Legend of the Swordsman_ (1992), directed by Tsui Hark, with Brigitte Lin as Dongfang Bubai; held in the Hong Kong Film Archive. https://www.filmarchive.gov.hk/
+
+[^5]: Brigitte Lin, _Inside and Outside the Window_ (窗裡窗外), Cosmos Books, 2011 — her principal essay collection, well received by the literary world. <https://www.books.com.tw/products/0010512315>

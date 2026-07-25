@@ -1,7 +1,7 @@
 ---
 title: 'Public Television: From the NT$900 Million Golden Headband to Expulsion from the Legislative Chamber, Twenty-Eight Years of Independence Still Unfinished'
 description: 'When PTS went on air in 1998, the Public Television Act required government-donated funding to decrease year by year and eventually froze it at NT$900 million annually. That provision bound PTS for 23 years. In the meantime, it nurtured five flagship Taiwanese dramas that shook society: The World Between Us, Gold Leaf, The Teenage Psychic, Wake Up, and A Touch of Green. In May 2023, legal amendments lifted the golden headband, and the budget more than doubled to NT$2.3 billion. But 19 months later, 1% of the budget was cut and 25% frozen; another year later, in May 2026, Chairperson Hu Yuan-hui was asked to leave the Legislative Yuan chamber. What PTS has proved over 28 years is this: removing the golden headband does not mean independence has been built.'
-date: '2026-05-27'
+date: 2026-05-27
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '媒體與言論'
@@ -15,7 +15,7 @@ tags:
     "Arm's-Length Principle",
   ]
 readingTime: 16
-lastVerified: '2026-05-27'
+lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/公視.md'

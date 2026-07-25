@@ -12,7 +12,7 @@ tags:
     'whale watching',
     'Kuroshio',
   ]
-author: 'Haí Nǚ'
+author: '海女'
 readingTime: 12
 category: 'Nature'
 lastVerified: 2026-03-19
@@ -21,6 +21,8 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:fa8568c6d129180a'
 sourceBodyHash: 'sha256:7c0ff1bf77404541'
 translatedAt: '2026-05-17T05:48:00Z'
+featured: false
+lastHumanReview: false
 ---
 
 # Cetaceans of Taiwan
@@ -87,7 +89,7 @@ In 1990, a mass dolphin killing in Penghu shocked the public and drew internatio
 
 ### 1997: whale‑watching begins
 
-In July 1997, Taiwan’s first whale‑watching boat, *Hai Jing Hao*, launched from Shitiping in Hualien. This marked Taiwan's shift from "hunting" to "watching" cetaceans. Whale‑watching subsequently expanded along the east coast (Wushi Harbor in Yilan, Hualien Harbor, Shitiping Harbor in Hualien, Chenggong in Taitung), bringing more people into contact with marine ecology.[^3]
+In July 1997, Taiwan’s first whale‑watching boat, _Hai Jing Hao_, launched from Shitiping in Hualien. This marked Taiwan's shift from "hunting" to "watching" cetaceans. Whale‑watching subsequently expanded along the east coast (Wushi Harbor in Yilan, Hualien Harbor, Shitiping Harbor in Hualien, Chenggong in Taitung), bringing more people into contact with marine ecology.[^3]
 
 ---
 
@@ -135,9 +137,15 @@ To safeguard whales and dolphins is to safeguard the blue world that sustains th
 ## References
 
 [^1]: [Indo-Pacific Humpback Dolphin Population Survey - The News Lens](https://www.thenewslens.com/article/255968) — Confirms the 2025 survey population of about 45–50 individuals, with more than 60% bearing external injuries.
+
 [^2]: [Cetacean Conservation Plan - Ocean Conservation Administration](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — Public version of the OCA conservation plan covering humpback dolphins and other cetaceans.
+
 [^3]: [Whale-Watching Guidelines - Ocean Conservation Administration](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — Taiwan's whale-watching ecotourism standards.
+
 [^4]: [Taiwan Cetacean Society](https://www.whale.org.tw/) — Civil-society organization advancing cetacean research and conservation in Taiwan.
+
 [^5]: [Kuroshio Ocean Education Foundation](https://www.kuroshio.org.tw/newsite/) — Hualien-based institution for cetacean research and citizen science.
+
 [^6]: [TWSOUSa - Taiwan Sousa Conservation Association](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — Advocacy organization for Indo-Pacific humpback dolphin conservation.
+
 [^7]: [Ocean Conservation Administration](https://www.oca.gov.tw/) — Taiwan's competent authority for marine conservation, advancing cetacean habitat protection and development controls.

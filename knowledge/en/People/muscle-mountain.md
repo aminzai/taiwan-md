@@ -1,7 +1,7 @@
 ---
 title: 'Muscle Mountain'
 description: "A Korea-born creator who has put down deep roots in Taiwan, building social influence through fitness and bilingual humor — and bringing Korean everyday flavors to Taiwan's convenience store shelves via a Hi-Life collaboration."
-date: 2026-04-15
+date: 2026-05-13
 tags:
   - 'pop culture'
   - 'Muscle Mountain'
@@ -14,7 +14,7 @@ subcategory: 'Pop Culture'
 author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
-lastVerified: 2026-04-15
+lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: 'People/肌肉山山.md'
 sourceCommitSha: '859d7316'

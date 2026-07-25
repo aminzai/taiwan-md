@@ -22,6 +22,8 @@ sourceCommitSha: 'b8160c741'
 sourceContentHash: 'sha256:de46b78b6b1ae5fb'
 sourceBodyHash: 'sha256:ba0673429f6e80dd'
 translatedAt: '2026-07-24T15:52:19+08:00'
+image: /article-images/about/taiwan-md-homepage-2026.webp
+imageCredit: 'Taiwan.md 首頁 · taiwan.md · CC BY-SA 4.0'
 ---
 
 # Taiwan.md Writes Taiwan.md

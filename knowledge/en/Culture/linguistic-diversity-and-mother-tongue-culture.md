@@ -15,6 +15,7 @@ sourceCommitSha: f712b7242
 sourceContentHash: sha256:0f2cf9fae60042d8
 sourceBodyHash: sha256:62570a25d7db63f6
 translatedAt: 2026-05-17T05:34:48+08:00
+difficulty: 'intermediate'
 ---
 
 # Linguistic Diversity and Mother-Tongue Culture
@@ -23,7 +24,7 @@ translatedAt: 2026-05-17T05:34:48+08:00
 
 On an island of 36,000 square kilometers, four major language families coexist: Mandarin (the national language), Taiwanese Hokkien, Hakka, and the languages of 16 Indigenous peoples, together forming a distinctive linguistic ecology. Each language embodies the historical memory and cultural wisdom of a particular community. Having undergone shifts in language policy, Taiwan moved from the authoritarian-era "Mandarin-only" paradigm toward "mother-tongue revitalization" after democratization, and is now striving to maintain linguistic diversity amid globalization while exploring the possibility of harmonious multilingual coexistence.
 
-This multilingual landscape is the accumulation of four centuries of history and the reality enshrined by the 2019 *National Languages Development Act*. Indigenous languages belong to the Austronesian family and serve as invaluable material for academic research into human migration patterns.
+This multilingual landscape is the accumulation of four centuries of history and the reality enshrined by the 2019 _National Languages Development Act_. Indigenous languages belong to the Austronesian family and serve as invaluable material for academic research into human migration patterns.
 
 Taiwanese Hokkien, Hakka, and Mandarin are commonly mixed in everyday urban life. This code-switching is a distinctive mode of communication in Taiwanese society, not a sign of deficient language ability.
 
@@ -129,7 +130,7 @@ The Kuomintang government implemented the "National Language Movement," prohibit
 
 ### Post-Democratization (1987–Present): Mother-Tongue Revitalization
 
-Beginning in the 1990s, the localization movement made mother-tongue education an important issue. In 2001, local-language instruction was introduced in schools. In 2019, the *National Languages Development Act* was passed, establishing the equal status of Taiwanese Hokkien, Hakka, Indigenous languages, and Mandarin.
+Beginning in the 1990s, the localization movement made mother-tongue education an important issue. In 2001, local-language instruction was introduced in schools. In 2019, the _National Languages Development Act_ was passed, establishing the equal status of Taiwanese Hokkien, Hakka, Indigenous languages, and Mandarin.
 
 ## Current Linguistic Situation and Challenges
 
@@ -159,7 +160,7 @@ According to UNESCO's endangered language criteria:
 
 ## Efforts in Mother-Tongue Revitalization
 
-The introduction of local-language courses into schools in 2001 and the passage of the *National Languages Development Act* in 2019 are two key milestones in Taiwan's mother-tongue revitalization policy. Government, media, cultural production, and digital tools are four parallel tracks, each with its own emphasis.
+The introduction of local-language courses into schools in 2001 and the passage of the _National Languages Development Act_ in 2019 are two key milestones in Taiwan's mother-tongue revitalization policy. Government, media, cultural production, and digital tools are four parallel tracks, each with its own emphasis.
 
 Hakka TV (established 2003) and Taiwan Indigenous Television (established 2005) are concrete outcomes of media-based revitalization, providing public spaces for each community's language use.
 
@@ -261,8 +262,12 @@ It is worth noting that the effectiveness of language policy often takes decades
 
 ## References
 
-[^1]: Hakka Affairs Council, Executive Yuan, *National Survey of Hakka Population and Language Baseline Data*, 2020, https://www.hakka.gov.tw/chhakka/app/artwebsite?module=artwebsite&id=126&serno=null; depending on the survey organization and year, the proportion of Taiwanese Hokkien speakers ranges between 67–72%; this article adopts the more recent figure
-[^2]: Council of Indigenous Peoples, *Survey Report on Indigenous Language Use*, 2021, https://www.cip.gov.tw/zh-tw/news/data-list/C30C260FE2AC91E5/index.html; the Amis registered population is approximately 210,000, but the number of fluent speakers is far lower than this figure
-[^3]: Huang Xuanfan (黃宣範), [*Language, Society, and Ethnic Consciousness*](https://www.sanmin.com.tw/product/index/000219830), Sanmin Bookstore (三民書局)
-[^4]: Li Paul Jen-kuei (李壬癸), [*The Peoples and Migrations of Taiwan's Austronesian Groups*](https://www.books.com.tw/products/0010493437)
-[^5]: [*National Languages Development Act* (2019)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143) — establishes Taiwanese Hokkien, Hakka, Indigenous languages, and others as national languages; related publications from the [Hakka Affairs Council](https://www.hakka.gov.tw/) and the [Council of Indigenous Peoples](https://www.apc.gov.tw/)
+[^1]: Hakka Affairs Council, Executive Yuan, _National Survey of Hakka Population and Language Baseline Data_, 2020, https://www.hakka.gov.tw/chhakka/app/artwebsite?module=artwebsite&id=126&serno=null; depending on the survey organization and year, the proportion of Taiwanese Hokkien speakers ranges between 67–72%; this article adopts the more recent figure
+
+[^2]: Council of Indigenous Peoples, _Survey Report on Indigenous Language Use_, 2021, https://www.cip.gov.tw/zh-tw/news/data-list/C30C260FE2AC91E5/index.html; the Amis registered population is approximately 210,000, but the number of fluent speakers is far lower than this figure
+
+[^3]: Huang Xuanfan (黃宣範), [_Language, Society, and Ethnic Consciousness_](https://www.sanmin.com.tw/product/index/000219830), Sanmin Bookstore (三民書局)
+
+[^4]: Li Paul Jen-kuei (李壬癸), [_The Peoples and Migrations of Taiwan's Austronesian Groups_](https://www.books.com.tw/products/0010493437)
+
+[^5]: [_National Languages Development Act_ (2019)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143) — establishes Taiwanese Hokkien, Hakka, Indigenous languages, and others as national languages; related publications from the [Hakka Affairs Council](https://www.hakka.gov.tw/) and the [Council of Indigenous Peoples](https://www.apc.gov.tw/)

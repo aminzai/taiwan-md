@@ -25,6 +25,7 @@ sourceCommitSha: 'b358c802'
 sourceContentHash: 'sha256:81084f8c4d60488a'
 sourceBodyHash: 'sha256:e37ed40c36801365'
 translatedAt: '2026-05-01T12:53:58+08:00'
+featured: false
 ---
 
 > **30-second overview:**
@@ -148,7 +149,7 @@ The letter of resignation his body wrote — he answered it in the end with an a
 
 [^10]: [ETtoday: A Loved One Declared Two Months Left! Yoga Lin "Sick for 4 Years" Rarely Opens Up (2023-09)](https://star.ettoday.net/news/2586449) — September 2023 first-hand interview first disclosing the loved one's stage three pancreatic cancer diagnosis and IBS worsening accordingly.
 
-[^11]: [TVBS News: Yoga Lin reveals eight years of work, declares "love is king" (2024)](https://news.tvbs.com.tw/entertainment/2424666) — Coverage of *Love, Lord* after an eight-year gap, album themes, and his role as producer. (Original UDN Economic Daily URL is defunct; cites TVBS 2024 album report.)
+[^11]: [TVBS News: Yoga Lin reveals eight years of work, declares "love is king" (2024)](https://news.tvbs.com.tw/entertainment/2424666) — Coverage of _Love, Lord_ after an eight-year gap, album themes, and his role as producer. (Original UDN Economic Daily URL is defunct; cites TVBS 2024 album report.)
 
 [^12]: [KKBOX: Interview — 500 Songs / Yoga Lin — A Singer Performing His Own Life](https://www.kkbox.com/tw/en/column/showbiz-0-10151-1.html) — Yoga Lin's in-depth interview recounting 10 key songs in his personal life as a "playlist that defines himself" chosen by himself.
 

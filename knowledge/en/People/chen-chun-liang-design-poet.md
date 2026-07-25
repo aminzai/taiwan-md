@@ -1,12 +1,12 @@
 ---
 title: 'Chen Chun-Liang: Design Poet and Modern Translator of Eastern Aesthetics'
 description: "Chen Chun-Liang was born in Tainan in 1958 and founded Freeimage Design Co., Ltd. on his 29th birthday, earning the title 'Design Poet' in the industry. He reinterprets modern design language through calligraphy, negative space, and Eastern imagery, with work spanning publication design, corporate identity, and national celebrations. In 2005, his 'Heaven Round, Earth Square' state banquet tableware won the Grand Jury Award at the Macau Design Biennale. A long-time contributor to design education, he is one of the most influential graphic designers in Taiwan since the 1980s."
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '藝術與設計'
 tags: ['設計師', '平面設計', '設計教育', '自由落體', '設計詩人']
-lastVerified: '2026-05-13'
+lastVerified: 2026-05-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳俊良.md'

@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cdaa1e14237e0765'
 sourceBodyHash: 'sha256:a5f55aca8739dd3e'
 translatedAt: '2026-04-30T22:33:56+08:00'
+featured: false
 ---
 
 > **30-second overview:** The Formosan Rock Macaque (_Macaca cyclopis_) is the only native primate on this island other than _Homo sapiens_, with a strictly hereditary matrilineal hierarchy. Human-monkey conflict at National Sun Yat-sen University (NSYSU) and Mount Shou (壽山) traces back to highly intelligent macaques that have folded human behavior into their survival logic under the pressure of overlapping habitats. This article starts from 19th-century discovery history, dives into a power core ruled by "queens," and rethinks what these ten-thousand-year settlers really face in the "post-conservation era."

@@ -29,6 +29,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bdae42ffe0d36150'
 sourceBodyHash: 'sha256:57cdd81fe5d56c02'
 translatedAt: '2026-04-30T22:28:43+08:00'
+featured: false
 ---
 
 > **30-second overview:** Once mockingly called a "ghost city," Linkou New Town has undergone enormous transformation over the past half century — from tea fields and brick kilns to AI-smart industrial parks. Following the opening of the Airport MRT, this youngest district of New Taipei City added more than 14,000 residents in five years and became a relocation hotspot in northern Taiwan. Yet freeway congestion and a cold, damp climate remain challenges that cannot be ignored.

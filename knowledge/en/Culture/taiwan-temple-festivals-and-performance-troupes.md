@@ -5,7 +5,15 @@ date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '宗教與民俗'
-tags: ['temple festivals', 'performance troupes', 'folk religion', 'Techno Prince Nezha', 'Eight Generals', 'Mazu pilgrimage']
+tags:
+  [
+    'temple festivals',
+    'performance troupes',
+    'folk religion',
+    'Techno Prince Nezha',
+    'Eight Generals',
+    'Mazu pilgrimage',
+  ]
 readingTime: 8
 lastVerified: 2026-03-21
 lastHumanReview: true
@@ -15,6 +23,7 @@ sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:dd389bc47ee02430'
 sourceBodyHash: 'sha256:57fa9edbc965f758'
 translatedAt: '2026-05-20T05:08:27+08:00'
+difficulty: 'beginner'
 ---
 
 # Taiwan Temple Festivals and Performance Troupe Culture
@@ -70,12 +79,12 @@ Unlike Dajia Mazu's fixed route, the pilgrimage route of "Baishatun Mazu" from G
 
 **Taiwan's Four Major Folk Festivals**
 
-| Festival | Location | Features |
-|------|------|------|
-| Dajia Mazu Pilgrimage | Dajia, Taichung → Xingang, Chiayi | 1.2 million people, nine days and eight nights, full route of 340 kilometers |
-| Donggang King Welcoming Festival | Donggang, Pingtung | Held once every three years, burning of the king boat, designated an "important folk custom" by the Ministry of Culture |
-| Yanshui Beehive Fireworks | Yanshui, Tainan | Thousands of rockets fired at once, palanquins move through firecracker arrays, held every Lantern Festival |
-| Toucheng Ghost Grappling | Toucheng, Yilan | Zhongyuan Pudu tradition, climbing greased poles to seize offerings |
+| Festival                         | Location                          | Features                                                                                                                |
+| -------------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Dajia Mazu Pilgrimage            | Dajia, Taichung → Xingang, Chiayi | 1.2 million people, nine days and eight nights, full route of 340 kilometers                                            |
+| Donggang King Welcoming Festival | Donggang, Pingtung                | Held once every three years, burning of the king boat, designated an "important folk custom" by the Ministry of Culture |
+| Yanshui Beehive Fireworks        | Yanshui, Tainan                   | Thousands of rockets fired at once, palanquins move through firecracker arrays, held every Lantern Festival             |
+| Toucheng Ghost Grappling         | Toucheng, Yilan                   | Zhongyuan Pudu tradition, climbing greased poles to seize offerings                                                     |
 
 During the pilgrimage, every village along the route becomes a festival venue. Residents set up incense tables to welcome Mazu, shops pause business to take part in the grand event, schools suspend classes to watch, and companies sponsor the procession while allowing employees to take leave to participate. For nine days, all of central Taiwan is enveloped in Mazu's sacred atmosphere.
 
@@ -102,10 +111,15 @@ The hardest part of Taiwan's temple-festival culture to replicate is not the ski
 ## References
 
 [^1]: [Shih Wan-shou: Taiwan's Kettle-Worshipping Peoples｜Taiwan Historica](https://www.th.gov.tw/) — The origin of the Eight Generals at Bailong An in Tainan, research on the Five Spirit Lords, and the context of local development in Taiwan.
+
 [^2]: [Eight Generals — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E5%AE%B6%E5%B0%87) — Confirms the restrictions placed on Eight Generals performance troupes by the 1937 Kominka "temple reorganization" policy, and distinguishes this from the 1915 Xilai An Incident.
+
 [^3]: [The Eight Generals Are Actually Sacred: Taiwan's Unique Culture Becomes Popular in France｜Lai Hao](https://www.laihao.com.tw/blog/posts/taiwan-traditional-culture-ba-jia-jiang) — Jisheng Tang Eight Generals were invited in 2023 to France for the 150th-anniversary commemorative events of the Nice Carnival.
+
 [^4]: [Guanjiang Shou — Wikipedia](https://zh.wikipedia.org/wiki/%E5%AE%98%E5%B0%87%E9%A6%96) — Guanjiang Shou has Xinzhuang Dizang Temple as an important source, and differs north-south from the Tainan system of the Eight Generals.
+
 [^5]: [Dajia Mazu International Tourism and Cultural Festival｜Dajia Jenn Lann Temple](https://www.dajiamazu.org.tw/) — The pilgrimage covers about 340 kilometers over nine days and eight nights, passing through Changhua, Yunlin, and Chiayi to Xingang Fengtian Temple.
+
 [^6]: [Baishatun Mazu Internet Television Station](https://www.baishatun.com.tw/) — The pilgrimage route of Mazu from Baishatun Gongtian Temple is decided by the palanquin itself; the destination is Beigang Chaotian Temple, and the full route takes about four days.
 
 **Further Reading**

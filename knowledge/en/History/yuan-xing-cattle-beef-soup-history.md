@@ -1,14 +1,14 @@
 ---
 title: "The 19 Cattle of Qingtiangang: From Yuan Xing Cattle to Tainan Beef Soup, an Island's Beef Industry Breakthrough"
 description: "Taiwan's beef self-sufficiency rate is only 4.6%, yet in 2024 the nation's first privately bred and officially certified cattle breed was born. The story of Yuan Xing cattle is an industry breakthrough scripted by a 94-year-old man, 19 wild black cattle, and a bowl of freshly slaughtered beef soup served before dawn."
-date: '2026-03-25'
+date: 2026-03-25
 author: 'Taiwan.md Contributors'
-category: 'Food'
+category: 'History'
 subcategory: '社會與日常史'
 tags:
   ['源興牛', '台南牛肉湯', '溫體牛', '畜牧業', '台灣農業', '李登輝', '肉牛產業']
-readingTime: '9'
-lastVerified: '2026-03-25'
+readingTime: 9
+lastVerified: 2026-03-25
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/源興牛與牛肉湯的歷史.md'

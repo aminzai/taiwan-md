@@ -1,19 +1,20 @@
 ---
 title: 'Jiaobei: Hearing the Voice of the Gods Behind a 50% Probability'
 description: "From Chiayi craftsman Huang Yi-xun's devotion to the 'bamboo-root jiaobei' to the Pingtung Citian Temple legend of 20 consecutive sheng-bei and a NT$3 million prize, this article explores the probability and warmth behind how Taiwanese people communicate with the divine."
-date: '2026-03-27'
+date: 2026-03-27
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '宗教與民俗'
 tags: ['民間信仰', '傳統工藝', '擲筊']
-readingTime: '8'
-lastVerified: '2026-03-27'
+readingTime: 8
+lastVerified: 2026-03-27
 lastHumanReview: false
 translatedFrom: 'Culture/擲筊.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f8a1e86f13d5a657'
 sourceBodyHash: 'sha256:ef724755039c89a7'
 translatedAt: '2026-05-02T02:50:54+08:00'
+featured: false
 ---
 
 > **30-Second Overview:**

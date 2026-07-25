@@ -13,7 +13,7 @@ tags:
     'supply chain',
   ]
 subcategory: '半導體與硬體'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false

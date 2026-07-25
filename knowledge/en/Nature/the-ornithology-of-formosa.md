@@ -21,7 +21,7 @@ author: 'Taiwan.md'
 readingTime: 10
 featured: false
 lastVerified: 2026-04-24
-lastHumanReview: false
+lastHumanReview: true
 translatedFrom: 'Nature/福爾摩沙鳥類學.md'
 sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:d1293bcf641ce299'

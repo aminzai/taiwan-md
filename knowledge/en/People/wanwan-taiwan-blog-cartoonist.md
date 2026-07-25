@@ -1,7 +1,7 @@
 ---
 title: 'Wanwan: The Bald Figure Who Gave a Generation of Office Workers a Face, and Hu Chia-wei, Who Let It “Become a Historical Figure”'
 description: 'In the days when offices still relied on MSN to communicate, office workers who did not dare speak up to their bosses changed their profile pictures to a naked bald figure with one curled hair on its head, letting it shout “I want to get off work” for them. Hu Chia-wei, who drew it, went from a design assistant earning NT$9,000 a month to, by accident, the creator of Taiwan’s first blog to surpass 100 million views and the founding figure of illustrated online writing. The bald figure stays forever innocent and ageless, but the person who drew it grows up; so she let the character exit together with her and “become a historical figure.”'
-date: '2026-06-29'
+date: 2026-06-29
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '藝術與設計'
@@ -15,7 +15,7 @@ tags:
     'Internet Culture',
   ]
 readingTime: 13
-lastVerified: '2026-06-29'
+lastVerified: 2026-06-29
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/彎彎.md'

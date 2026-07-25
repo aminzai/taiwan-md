@@ -24,6 +24,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e6d4ecca5e8c9269'
 sourceBodyHash: 'sha256:8a4126afbbcc2d61'
 translatedAt: '2026-05-01T13:44:02+08:00'
+lastVerified: 2026-04-06
+lastHumanReview: false
 ---
 
 # Taiwan's E-Commerce and Digital Payments: Three Trade Wars on One Island

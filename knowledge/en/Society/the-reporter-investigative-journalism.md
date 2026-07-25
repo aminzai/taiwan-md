@@ -1,7 +1,7 @@
 ---
 title: 'The Reporter: Ten Years of Turning Investigative Journalism from a Line of Business into a Public Good'
 description: "From 4 recurring donors to 8,000 each month, from the Blood-Stained Fishing Grounds trilogy to the 2026 united-front special report, the costs The Reporter has burned through over a decade--eight months undercover, reporting across three countries, comparing years of violation records--are exactly the things people least want to pay to read in the algorithmic age. Taiwan's civil society, through monthly deductions from strangers' accounts, has rescued investigative journalism from a line of business in commercial media and turned it into a public good that is constantly being sustained, even as it burns through resources ever faster."
-date: '2026-04-29'
+date: 2026-04-29
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '媒體與新聞'
@@ -14,9 +14,9 @@ tags:
     'civil society',
     'Ho Jung-hsing',
   ]
-lastVerified: '2026-06-14'
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-06-14
+lastHumanReview: false
+featured: true
 translatedFrom: 'Society/報導者.md'
 sourceCommitSha: 'fd09526d2'
 sourceContentHash: 'sha256:c9f5767205c4ec79'

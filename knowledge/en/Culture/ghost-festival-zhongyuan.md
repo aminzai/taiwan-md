@@ -1,7 +1,7 @@
 ---
 title: 'The Ghost Festival: From the Fear of Solitary Souls to a Collective Reconciliation on an Island'
 description: "In Taiwan, the Ghost Festival is more than just reverence for spirits; it is a survival record of colonization, conflict, and ethnic integration. From the bloody reconciliation in Keelung to the extreme 'Ghost Seizing' (Qianggu) in Toudeng, this festival reveals how Taiwanese people transformed fear into a social treaty of peace."
-date: '2026-07-20'
+date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: 'Festivals and Customs'
@@ -13,10 +13,10 @@ tags:
     'Taiwan Folk Culture',
     'History',
   ]
-readingTime: '8'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 8
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/中元節.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:92d21a8f666e1c2'

@@ -1,7 +1,7 @@
 ---
 title: 'Chen Chien-nien: The Golden Melody King in the Police Station, the Grandfather’s Songs the Grandson Turned into Ocean'
 description: 'Born on August 1, 1967, in the Nanwang community of the Puyuma people in Taitung. After graduating from the police academy in 1986, he was assigned to Guanshan, Taitung, and served in the police force for 30 years and 10 months. In 1999, at age 33, he released his first album of original songs, Ocean. At the 11th Golden Melody Awards in 2000, he defeated Jacky Cheung, Wang Leehom, David Tao, and Harlem Yu to win Best Mandarin Male Vocalist; at the same ceremony, “Myth” also won Best Composer. On the awards stage, he was still a police officer. In September that year, he requested a transfer to Lanyu to avoid the turmoil, and stayed there for 17 years until retirement. His maternal grandfather, Baliwakes Lu Sen-bao, wrote “Beautiful Rice Ears”; it took the grandson thirty years to take hold of that musical line.'
-date: '2026-05-17'
+date: 2026-05-17
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '音樂'
@@ -17,7 +17,7 @@ tags:
     'Singer-songwriter',
   ]
 readingTime: 8
-lastVerified: '2026-05-17'
+lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳建年.md'

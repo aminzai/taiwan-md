@@ -1,7 +1,7 @@
 ---
 title: 'Disney and Taiwan: A Magical Journey from Wang Film Productions’ Outsourcing, the Yamay Regret, to IP Localization'
 description: 'From Wang Film Productions, the “Disney of the East” that helped sustain Hollywood animation in the 1980s, to Taiwan twice narrowly missing out on a Disney park, even the once-planned Taiwan setting for Toy Story 3 and localized images of Stitch riding a scooter, Taiwan’s links with Disney are far deeper and more varied than many imagine.'
-date: '2026-06-26'
+date: 2026-06-26
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '社會與日常史'
@@ -22,7 +22,7 @@ tags:
     'Stanley Yen',
   ]
 readingTime: 10
-lastVerified: '2026-06-26'
+lastVerified: 2026-06-26
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/迪士尼.md'

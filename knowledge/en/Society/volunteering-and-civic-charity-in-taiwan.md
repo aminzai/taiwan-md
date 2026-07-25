@@ -1,7 +1,7 @@
 ---
 title: 'Volunteering and Civic Charity in Taiwan'
 description: 'From Tzu Chi’s relief network to neighborhood mutual aid—how Taiwan built one of Asia’s most active volunteer cultures'
-date: 2026-03-19
+date: 2026-03-28
 tags:
   [
     'volunteering',
@@ -13,12 +13,13 @@ tags:
 category: 'Society'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-03-28
 translatedFrom: 'Society/台灣志工文化與公益參與.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:47c6a7bb7a1ac1e1'
 sourceBodyHash: 'sha256:edcd412e8178b727'
 translatedAt: '2026-05-25T21:06:51Z'
+lastHumanReview: true
 ---
 
 # Volunteering and Civic Charity in Taiwan

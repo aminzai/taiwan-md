@@ -26,6 +26,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f7dcaba73d149276'
 sourceBodyHash: 'sha256:af337db2aac9897d'
 translatedAt: '2026-05-01T08:56:11+08:00'
+featured: false
 ---
 
 > **30-second overview:** Buried within Taiwan's subtropical island are five glacial relict species — hynobiid salamanders. They survive quietly in cold mountain stream headwaters above 2,000 meters, their rounded eyes and gently upturned mouths earning them the nickname "smiling alpine spirits." From a century of misidentified names to decades of scientists tracking them across treacherous peaks — and one who gave his life doing so — the salamander story is an ecological miracle and a profound reflection on humanity's coexistence with nature. In 2023, Taiwan Mobile and Professor Zhu You-tian's team at National Taiwan University successfully achieved artificial incubation, bringing new hope for the future of these mountain spirits.

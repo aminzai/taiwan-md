@@ -1,7 +1,7 @@
 ---
 title: 'From Golden Horse Awards to Hanwha Exercises: The Collective Rite of Passage and Survival Drill for Taiwanese Men'
 description: "From 1945 onward, Taiwan's military service has shifted from a three-year term to four months, and then back to a one-year system in 2024. This collective memory, involving millions of people, is more than just the command phrase 'one two three four five six seven eight nine zero'; it represents the island's survival tension within a gray zone."
-date: '2026-07-17'
+date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: 'Social Systems'
@@ -13,10 +13,10 @@ tags:
     'Hanwha Exercises',
     'Golden Horse Awards',
   ]
-readingTime: '12'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'Society/當兵.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:58596add4d279eb3'

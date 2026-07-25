@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
 translatedAt: '2026-04-30T22:28:43+08:00'
+featured: false
 ---
 
 > **30-second overview:** Chuang Chu Yu-nu (1920–2015) was a celebrated Taiwanese philanthropist who, for decades, ran a "ten-dollar buffet" beneath the park overpass in central Kaohsiung. She originally offered free meals to fellow Penghu villagers working the docks, and only began charging ten New Taiwan dollars symbolically when costs spiraled, but always insisted on unlimited servings regardless of price. Over her lifetime she sold seven houses to fund the kindness; her funeral drew more than three thousand mourners, and her spirit remains one of the warmest symbols in Taiwanese society.

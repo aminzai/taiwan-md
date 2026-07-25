@@ -14,7 +14,7 @@ tags:
     'Taiwan tech industry',
   ]
 subcategory: '半導體與硬體'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -24,7 +24,7 @@ rationale:
   whats_excluded: 'Does not attempt a complete industry encyclopedia or list every Taiwanese semiconductor, server, and component company.'
   where_it_hedges: 'Places Taiwan’s supply-chain value alongside power, water, carbon, income distribution, overseas manufacturing, and geopolitical risk.'
   whos_pushing_back: 'Global customers and allies need Taiwan, but they also use overseas manufacturing to reduce single-point dependence around the Taiwan Strait.'
-image: '/article-images/technology/ai-hardware-supply-chain-flow-en.svg'
+image: '/article-images/technology/ai-hardware-supply-chain-flow.svg'
 imageCredit: 'Taiwan.md Contributors'
 imageLicense: 'CC BY-SA 4.0'
 translatedFrom: 'Technology/AI硬體供應鏈.md'

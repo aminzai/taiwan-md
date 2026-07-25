@@ -15,14 +15,15 @@ tags:
   - "undermining Taiwan's confidence"
 category: 'Society'
 author: 'idlccp1984'
-readingTime: 10
+readingTime: 10min
 lastVerified: 2026-04-12
-lastHumanReview: '2026-04-13'
+lastHumanReview: true
 translatedFrom: 'Society/TikTok.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:dfdfbf0a5674de0a'
 sourceBodyHash: 'sha256:6054d2cc1d83cb36'
 translatedAt: '2026-05-01T13:19:11+08:00'
+featured: false
 ---
 
 > **30-second overview:** TikTok is not merely a short-video platform that makes people famous — in Taiwan, it is a decentralized cognitive experiment. Through hyper-personalized recommendations, it leads users to unconsciously internalize others' political agendas as their own worldview. A 2025 survey found that over 70% of Taiwanese teenagers aged 15 to 18 spend more than 2 hours daily on TikTok, and their favorable views toward China are quietly rising with every scroll — while their negative perceptions of Taiwanese society deepen simultaneously.

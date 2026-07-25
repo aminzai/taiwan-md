@@ -1,7 +1,7 @@
 ---
 title: 'Soy Milk and Breakfast Shops in Taiwan'
 description: 'From the Yonghe Soy Milk origin myth to the Mei & Mei franchise empire, Taiwan’s breakfast shops form one of the densest morning cultures in the world.'
-date: 2026-03-19
+date: 2026-03-29
 tags:
   [
     'soy milk',
@@ -11,10 +11,10 @@ tags:
     'Mei & Mei',
   ]
 author: 'Taiwan.md'
-readingTime: 9
+readingTime: 10
 featured: true
 category: 'Food'
-lastVerified: 2026-03-19
+lastVerified: 2026-03-29
 translatedFrom: 'Food/台灣豆漿與早餐店.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ba7ff819ca0777d2'
@@ -22,6 +22,7 @@ sourceBodyHash: 'sha256:a157234d7add2561'
 translatedAt: '2026-04-14T12:25:09+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Exit_C_of_Doujiang_Station_in_Shaoxing.jpg/960px-Exit_C_of_Doujiang_Station_in_Shaoxing.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: false
 ---
 
 # Soy Milk and Breakfast Shops in Taiwan

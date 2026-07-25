@@ -11,7 +11,7 @@ tags:
   - 'Food and Agriculture Education Act'
   - '3-seal-1Q'
   - 'rural school meals'
-category: 'history'
+category: 'Food'
 subcategory: '飲食場景'
 author: 'idlccp'
 featured: false

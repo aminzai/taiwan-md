@@ -1,7 +1,7 @@
 ---
 title: 'Patience in an Aluminum Cup: A-Ming Pork Heart Vermicelli’s 70-Year Water-Bath Philosophy'
 description: 'At No. 72 Baoan Rd., Tainan, Huang Hsien-ming’s A-Ming Pork Heart Vermicelli opens at 5 p.m. nightly, drawing long queues every evening. Ranked in the Michelin Bib Gourmand in 2022, its core appeal lies not in the ingredients—pork heart is inexpensive working-class offal—but in the cooking method: slices of pork heart are placed in aluminum cups and heated via a water bath, allowing heat to seep in slowly from the outside to produce a tender, non-fishy, subtly sweet result.'
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'Food'
 tags:
@@ -15,10 +15,10 @@ tags:
     'Offal',
   ]
 subcategory: '經典小吃'
-readingTime: '6'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 6
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'Food/豬心冬粉.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:3bcebca3a70539f8'

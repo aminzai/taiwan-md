@@ -1,7 +1,7 @@
 ---
 title: 'Taiwan Anime & Manga Culture'
 description: "'Doraemon,' 'Slam Dunk,' and 'Sailor Moon' were the shared language of Taiwanese teens in the 1980s and '90s; Fancy Frontier has held over 40 editions since 1999, drawing over 100,000 attendees per event; doujinshi and cosplay nurtured the creators of 'Detention' and 'Devotion'—Taiwan's anime and manga culture is not an imitation of imported entertainment, but the shared memory and creative soil of two generations."
-date: '2026-03-20'
+date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '網路文化'
@@ -16,15 +16,16 @@ tags:
     'VTuber',
     '次文化',
   ]
-readingTime: '9'
-lastVerified: '2026-05-16'
-lastHumanReview: 'true'
-featured: 'false'
+readingTime: 9
+lastVerified: 2026-05-16
+lastHumanReview: true
+featured: false
 translatedFrom: 'Culture/台灣動漫文化.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:4f2929a499d24ac8'
 sourceBodyHash: 'sha256:87f8032127a53d42'
 translatedAt: '2026-05-24T05:06:32+08:00'
+difficulty: 'beginner'
 ---
 
 # Taiwan Anime & Manga Culture

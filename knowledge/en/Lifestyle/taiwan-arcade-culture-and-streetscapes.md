@@ -1,7 +1,7 @@
 ---
 title: 'Taiwan’s Arcade Culture and Streetscapes'
 description: 'From colonial planning to everyday ingenuity, Taiwan’s covered arcades shape street life, commerce, and the politics of public space.'
-date: 2026-03-18
+date: 2026-03-20
 tags:
   [
     'arcades',
@@ -14,13 +14,15 @@ tags:
     'public space',
   ]
 category: 'Lifestyle'
-featured: true
-lastVerified: 2026-03-19
+featured: false
+lastVerified: 2026-03-20
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2b233a45daf622e6'
 sourceBodyHash: 'sha256:8f231aa6641c39c8'
 translatedAt: '2026-04-14T12:25:09+08:00'
+author: 'Taiwan.md'
+lastHumanReview: true
 ---
 
 # Taiwan’s Arcade Culture and Streetscapes

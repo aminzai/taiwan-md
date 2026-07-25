@@ -1,7 +1,7 @@
 ---
 title: 'Election Process: From Empty Ballot Box to Late-Night Counting, a Nationwide Democratic Ritual'
 description: 'Taiwan''s elections are internationally renowned for their extremely transparent "manual counting". From the ceremonial display of an empty ballot box before voting to the process where each ballot is raised and called out during counting, this is not only about electing leaders but also a cornerstone for building social trust.'
-date: '2026-06-11'
+date: 2026-06-11
 category: 'Politics'
 tags:
   - 'democracy'
@@ -14,9 +14,9 @@ tags:
 subcategory: '選舉制度'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: '2026-06-11'
+lastVerified: 2026-06-11
 lastHumanReview: false
-readingTime: '10'
+readingTime: 10
 translatedFrom: 'Politics/選舉過程.md'
 sourceCommitSha: '3b405f0d7'
 sourceContentHash: 'sha256:e82a0ac036cfb6d8'

@@ -1,7 +1,7 @@
 ---
 title: "Yam: From the 'Independent Taiwan Society' Case to the Little Yam Baby, the Ideals and Disillusionment of a Local Search Engine"
 description: "In 1994, Chen Cheng-jen and a group of social activists founded Yam, creating Taiwan's first World Wide Web portal and Chinese-language search engine, and embedding the 'Little Yam Baby' deeply into generational memory. However, facing the dot-com bubble and competition from international giants, this ideal rooted in social concern ultimately could not withstand commercial realities, retreating quietly in 2006. This is not only a microcosm of Taiwan's internet development, but also a profound dialogue between ideals and commercial reality."
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'Technology'
 subcategory: '數位與網路'
@@ -14,10 +14,10 @@ tags:
     'Taiwan Internet History',
     'Chen Cheng-jen',
   ]
-readingTime: '10'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 10
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/蕃薯藤.md'
 sourceCommitSha: '781e16434'
 sourceContentHash: 'sha256:a165c276f6d4407a'

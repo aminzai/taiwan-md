@@ -15,7 +15,7 @@ tags:
     'cultural-icon',
   ]
 subcategory: 'Music'
-author: 'Taiwan.md Contributors'
+author: 'Taiwan.md'
 readingTime: 14
 featured: true
 lastVerified: 2026-04-20

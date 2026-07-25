@@ -21,6 +21,8 @@ sourceContentHash: 'sha256:884e3106e00c3ed4'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
 translatedAt: '2026-05-16T21:50:00Z'
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 > **30-second overview:** Chen Shu-chu, born 1950, vegetable vendor at Taitung Central Market. At thirteen, she dropped out of school to sell vegetables after her mother died in childbirth. Over more than fifty years, she donated tens of millions of New Taiwan Dollars to schools, orphanages, and hospitals. In 2010 she appeared on _TIME_ magazine's list of the 100 Most Influential People in the World; director Ang Lee wrote the nominating profile. When she went to New York to receive the award, she said: "I'm just a vegetable seller."[^1]

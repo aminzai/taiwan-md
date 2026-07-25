@@ -1,7 +1,7 @@
 ---
 title: 'MTV: In the Private Room, Watching the Movie Was Never the Point'
 description: 'In 1985, Taipei’s “Super-Sensibility MTV Audiovisual Center” pioneered wooden partitions, moving the movie theater into a room the size of a sofa. By 1988 there were more than 600 such venues across Taiwan; in 1992, the United States’ “Special 301” axe fell, and Solar System MTV pulled down its metal shutters. What the private rooms left behind was not cinema, but an entire generation of Taiwanese people’s first imagination of “private space.”'
-date: '2026-05-10'
+date: 2026-05-10
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
 subcategory: '休閒與娛樂'
@@ -23,7 +23,7 @@ tags:
     'Copyright Act',
   ]
 readingTime: 16
-lastVerified: '2026-05-10'
+lastVerified: 2026-05-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/MTV包廂.md'

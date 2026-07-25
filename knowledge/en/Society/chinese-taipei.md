@@ -1,7 +1,7 @@
 ---
 title: 'Chinese Taipei: The Ticket That Lets Taiwan Compete but Can’t Print Its Own Name'
 description: 'At the 1960 Rome Olympics, the Taiwan delegation entered the opening ceremony holding a white banner reading “UNDER PROTEST,” the only opening‑ceremony protest in Olympic history. From Chiang Ching‑kuo’s refusal of the IOC‑offered “Taiwan,” to Hsu Heng‑ko’s legal victory and the Lausanne Agreement that secured the plum‑blossom flag and anthem, to the 2018 athletes’ referendum that rejected a name change—this name has not changed in forty years, yet the athletes who must rely on it to step onto the podium are caught in a dilemma, not the politicians arguing over the name.'
-date: '2026-06-04'
+date: 2026-06-04
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '國際關係'
@@ -12,7 +12,7 @@ tags:
   - 'Taiwan name change'
   - 'sports diplomacy'
   - 'sovereignty'
-lastVerified: '2026-06-04'
+lastVerified: 2026-06-04
 lastHumanReview: false
 featured: false
 sporeLinks:

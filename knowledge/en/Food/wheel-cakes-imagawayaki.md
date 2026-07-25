@@ -12,7 +12,7 @@ tags:
     'Food Culture',
   ]
 subcategory: 'Taiwanese Snacks'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'Food'
 readingTime: 12
 lastVerified: 2026-04-28
@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:e2a229bf0a672e0c'
 sourceBodyHash: 'sha256:b1f515f692de800c'
 translatedAt: '2026-06-09T02:31:19+08:00'
+featured: false
 ---
 
 > **30-Second Overview:**

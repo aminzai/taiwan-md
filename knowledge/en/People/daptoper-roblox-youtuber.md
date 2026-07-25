@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Digital & Media'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 5
 lastVerified: 2026-04-24
 lastHumanReview: false

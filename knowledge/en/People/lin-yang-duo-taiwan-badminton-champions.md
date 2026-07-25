@@ -1,11 +1,12 @@
 ---
-title: "Wang Chi-lin and Lee Yang (The Lin-Yang Duo)"
+title: 'Wang Chi-lin and Lee Yang (The Lin-Yang Duo)'
 description: "From middle school classmates to Olympic gold: The Lin-Yang Duo defeated China in straight sets within 34 minutes, winning Taiwan's first-ever Olympic gold medal in badminton"
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "體育"
-tags: ['運動員', '王齊麟', '李洋', '麟洋配', '羽球', '東京奧運', '巴黎奧運', '金牌']
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '體育'
+tags:
+  ['運動員', '王齊麟', '李洋', '麟洋配', '羽球', '東京奧運', '巴黎奧運', '金牌']
 readingTime: 12
 lastVerified: 2026-05-19
 lastHumanReview: true
@@ -15,6 +16,7 @@ sourceCommitSha: c32d210ff
 sourceContentHash: sha256:940cd3ea72960eac
 sourceBodyHash: sha256:4c0e104cb6fe8601
 translatedAt: 2026-05-20T05:08:27+08:00
+difficulty: 'beginner'
 ---
 
 # Wang Chi-lin and Lee Yang (The Lin-Yang Duo)

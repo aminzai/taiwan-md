@@ -19,9 +19,9 @@ category: Music
 subcategory: 'Indie and Rock'
 author: 'Taiwan.md'
 featured: true
-readingTime: 14
+readingTime: 14min
 lastVerified: 2026-04-14
-lastHumanReview: '2026-04-14'
+lastHumanReview: true
 translatedFrom: 'Music/滅火器樂團.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ff50a058e16cd318'

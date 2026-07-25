@@ -18,6 +18,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cddfbcb9ade43ff2'
 sourceBodyHash: 'sha256:0f8dee8662286dcf'
 translatedAt: '2026-06-16T17:10:15Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Taiwan Theater and Performing Arts: How a Small Island Shook the World Stage

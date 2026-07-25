@@ -26,6 +26,7 @@ sourceCommitSha: '82e98bfd'
 sourceContentHash: 'sha256:74332f1aa587ae82'
 sourceBodyHash: 'sha256:31718e0ce0828285'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 > **10-second overview:** Orchid Island is the northern tip of the Philippine volcanic arc, a way-station of the Kuroshio, and home of the Tao people —

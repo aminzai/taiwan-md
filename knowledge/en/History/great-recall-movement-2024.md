@@ -22,6 +22,9 @@ sourceCommitSha: '5add39fc8'
 sourceContentHash: 'sha256:1c18939671190740'
 sourceBodyHash: 'sha256:c336900c050cb32f'
 translatedAt: '2026-07-24T15:52:19+08:00'
+image: '/article-images/history/recall-bluebird-legislative-yuan-2024.webp'
+imageCredit: 'Fujifilmuser Taiwan'
+difficulty: 'intermediate'
 ---
 
 # The Great Recall: The Largest Recall Wave in Taiwan’s History, Measuring Every Tick of Democracy

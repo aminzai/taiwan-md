@@ -8,8 +8,8 @@ subcategory: '科技與企業'
 tags: ['科技與企業', '和碩聯合', '電子代工', 'ODM', '能源政策']
 readingTime: 7
 lastVerified: 2026-05-07
-lastHumanReview: 'true'
-featured: 'false'
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/童子賢.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:741173e056926b2c'

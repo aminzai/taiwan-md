@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b6388def07095d7a'
 sourceBodyHash: 'sha256:023966d5fd73721a'
 translatedAt: '2026-06-12T16:39:07Z'
+featured: false
 ---
 
 On February 28, 1980, Lin Yi-hsiung waited for his trial at the Taipei Chingmei Military Detention Center. That day, Taipei police and intelligence personnel guarded the front door of his home on Xinyi Road all day, but no one entered. It was not until dusk that someone discovered: his 60-year-old mother, Lin You-a-mei, had been stabbed 13 times and lay dead in the basement. His 7-year-old twin daughters, Lin Liang-chun and Lin Ting-chun, each suffered a gunshot wound through the chest and back, dying on the spot. His 9-year-old eldest daughter, Lin Huan-chun, was shot six times; she miraculously survived with a backpack on her back. [^12]

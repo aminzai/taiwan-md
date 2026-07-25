@@ -1,7 +1,7 @@
 ---
 title: 'Treasure Hill: The Informal Settlement Slated for Demolition for 30 Years That Became Taipei’s Coolest Artist Village'
 description: 'In July 1980, the Taipei City Government designated this hilltop as the planned site of Park No. 297, putting more than 200 illegal structures into a state of “waiting to be demolished.” Actual demolitions took place in 1993, 1994, and 2001, but after the 1997 Kangle Li incident, the city shifted toward “in-situ preservation,” and the international artist village opened on October 2, 2010. Thirty years of demolition rulings ultimately became an “art-residence symbiosis” settlement that has hosted more than 500 artists from over 40 countries: a Guanyin temple first renovated in 1791, a group of people who built their own homes in the 1960s, more than 20 original households that stayed, and a rotating cohort of international resident artists every three months, all living together on a small 46-meter-high hill.'
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區'
@@ -26,7 +26,7 @@ tags:
     'historic district',
   ]
 readingTime: 22
-lastVerified: '2026-05-21'
+lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/寶藏巖.md'

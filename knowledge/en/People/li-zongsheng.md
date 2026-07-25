@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Lee: After Writing Others' Innermost Thoughts in Plain Speech, Only in Hill Did He Finally Speak of Himself"
 description: "Jonathan Lee, born in 1958 into a gas shop family in Beitou, feared going back to deliver gas, so he spent his life writing songs. In plain, everyday language, he wrote out the emotional lives and life obstacles of a generation of women singers including Sarah Chen, Winnie Hsin, and Sandy Lam, earning comparisons to Bai Juyi as a writer who could 'peer into people's hearts.' Yet this man who best understood others' private thoughts did not directly speak in song about his own middle age and his father until Hill at age 55 and A Newly Written Old Song at age 60. Meanwhile, even as he 'made a living off women's songs,' his real-life romantic choices also gave him a reputation as a 'scumbag man.'"
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '音樂'
@@ -15,7 +15,7 @@ tags:
     'Philosophy of Life',
   ]
 readingTime: 12
-lastVerified: '2026-06-05'
+lastVerified: 2026-06-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/李宗盛.md'

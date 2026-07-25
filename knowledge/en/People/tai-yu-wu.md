@@ -13,6 +13,7 @@ sourceContentHash: 'sha256:ea84edf10c10d1a4'
 sourceBodyHash: 'sha256:54cafe2c5032e30e'
 translatedAt: '2026-05-16T21:50:00Z'
 category: People
+author: 'Taiwan.md'
 ---
 
 > **30-second overview:** Wu Ta-you (1907–2000), theoretical physicist. In 1946, he personally recommended Yang Chen-ning and Lee Tsung-dao to study in the United States; eleven years later, the two jointly received the Nobel Prize in Physics. From 1983, he served as president of Academia Sinica for eleven years, insisting on basic science during an era when Taiwan was focused on economic growth, and laying the institutional foundation for Taiwan's scientific research system.

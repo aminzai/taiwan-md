@@ -6,7 +6,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c0745c4b9d2ae295'
 sourceBodyHash: 'sha256:c2f250d5a21d59eb'
 translatedAt: '2026-05-01T12:53:58+08:00'
-date: 2026-04-19
+date: 2026-07-15
 tags:
   - 'YouTuber'
   - 'game streaming'
@@ -14,14 +14,15 @@ tags:
   - 'digital media'
 category: 'People'
 subcategory: '數位與媒體'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastVerified: 2026-07-15
+lastHumanReview: false
 image: '/article-images/people/ashan-2026-return-minecraft.webp'
 imageCredit: '阿神官方 YouTube 頻道'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
+readingTime: 18
 ---
 
 ## Red Shin (Kouki): From Eleven-Year Daily Upload "Work Machine" to Million-Subscriber YouTuber Who Reclaimed His Life

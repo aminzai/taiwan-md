@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d00de39e39633054'
 sourceBodyHash: 'sha256:dc8842a4b46a7f80'
 translatedAt: '2026-05-01T01:46:13+08:00'
+featured: false
 ---
 
 > **30-second overview:** The Formosan sambar deer is the largest herbivore on the island. Once driven to high-altitude refuges by overhunting and habitat loss, the population has rebounded through conservation efforts and is now spreading back to lower elevations — triggering controversy over whether the species is a "forest killer." Research by Professor Yen Shih-ching's team at National Pingtung University of Science and Technology suggests that bark-stripping behavior is primarily a form of self-medication using tannins, and the phenomenon is entangled with the complex balance of Taiwan's alpine ecosystems and the cultural memory of Indigenous peoples.

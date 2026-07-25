@@ -1,7 +1,7 @@
 ---
 title: 'Mascot Culture in Taiwan: From Bear Obsession to Pun-Powered Redemption'
 description: "OhBear's debut in 2013 launched Taiwan's mascot warring-states era. From the island-wide black bear free-for-all and the Milkfish Boy ugly enough to land on American late-night TV, to the hundred-million-dollar-a-year Welfare Bear and the bear who testified before the city council — Taiwan's mascots are evolving from government propaganda tools into cultural symbols with genuine soul and social resonance."
-category: Culture
+category: 'Lifestyle'
 tags:
   [
     'mascot',
@@ -25,6 +25,7 @@ sourceCommitSha: '88b3abd8'
 sourceContentHash: 'sha256:7453fc91529be112'
 sourceBodyHash: 'sha256:0280d05fe808358b'
 translatedAt: '2026-05-01T12:21:52+08:00'
+featured: false
 ---
 
 > **30-Second Overview:** Taiwan once fell into a collective obsession with bears — at one point the island had dozens of black bear mascots, all vaguely similar in appearance. Then came the Milkfish Boy, ugly enough to land on American late-night TV; Chunghwa Post's "Popo Pigeon," which went viral through precise brand management; and the Welfare Bear, a commercial miracle pulling in over a hundred million NT dollars annually. Taiwan's mascots are now undergoing a fundamental shift from "cute props" to "character brands."

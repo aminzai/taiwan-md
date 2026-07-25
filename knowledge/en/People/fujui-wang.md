@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-05-09
 lastHumanReview: false
 image: '/article-images/people/wang-fujui-noise-silence-2020.webp'
-imageCredit: 'Project Fulfill Art Space'
+imageCredit: '就在藝術空間 Project Fulfill Art Space'
 imageLicense: "Fair use (editorial commentary on artist's work)"
 imageSource: 'https://www.projectfulfill.com/wang-fujui-295793111929790.html'
 translatedFrom: 'People/王福瑞.md'

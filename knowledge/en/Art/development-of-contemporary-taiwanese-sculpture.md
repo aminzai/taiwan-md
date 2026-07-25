@@ -5,7 +5,8 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Art'
 subcategory: '視覺藝術'
-tags: ['雕塑', '朱銘', '楊英風', '林舜龍', '洪易', '公共藝術', '當代藝術', '木雕']
+tags:
+  ['雕塑', '朱銘', '楊英風', '林舜龍', '洪易', '公共藝術', '當代藝術', '木雕']
 readingTime: 18
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +16,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:91ce45b4be5f77a7'
 sourceBodyHash: 'sha256:fe5beda00418f863'
 translatedAt: '2026-05-20T05:08:27+08:00'
+difficulty: 'intermediate'
 ---
 
 # Development of Contemporary Taiwanese Sculpture
@@ -47,7 +49,7 @@ The history of Taiwanese sculpture can be divided into three layers: the folk cr
 
 The roots of the craft tradition took hold in immigrant society, with religious carving demand supporting the entire master-apprentice system. The official exhibition system of the Japanese colonial period opened a window to Western realistic techniques, while the postwar fine arts education system provided the soil for cultivating the master generation.
 
-From Huang Tu-shui's work *Water of Immortality* (*Ganlushui*) being selected for the Imperial Fine Arts Exhibition (Teiten) in 1920, to Taiwanese sculpture taking the stage at international exhibitions in the 1990s, this evolution spans seventy years and involves three distinct historical contexts: colonial education, postwar cultural construction, and globalization.
+From Huang Tu-shui's work _Water of Immortality_ (_Ganlushui_) being selected for the Imperial Fine Arts Exhibition (Teiten) in 1920, to Taiwanese sculpture taking the stage at international exhibitions in the 1990s, this evolution spans seventy years and involves three distinct historical contexts: colonial education, postwar cultural construction, and globalization.
 
 ### Traditional Foundation: The Deep Roots of Folk Craft
 
@@ -74,7 +76,7 @@ From Huang Tu-shui's work *Water of Immortality* (*Ganlushui*) being selected fo
 **Huang Tu-shui (1895–1930)**: Taiwan's first generation of modern sculptors
 
 - Characteristics of his work: blending Japanese realism with Taiwanese rural sensibility
-- Representative works: *Water of Immortality* (*Ganlushui*), *Mikado Pheasant*, *Southern Land*
+- Representative works: _Water of Immortality_ (_Ganlushui_), _Mikado Pheasant_, _Southern Land_
 - Historical significance: pioneering the path of modern sculpture in Taiwan
 
 **Development During the Japanese Colonial Period**:
@@ -95,9 +97,9 @@ From Huang Tu-shui's work *Water of Immortality* (*Ganlushui*) being selected fo
 
 **Important Works**:
 
-- *The Phoenix Arrives*: landmark at Taipei International Airport
-- *Taroko Gorge*: abstract expression of the beauty of Taiwan's mountains
-- *Dragon Gate*: interpreting traditional imagery through modern materials
+- _The Phoenix Arrives_: landmark at Taipei International Airport
+- _Taroko Gorge_: abstract expression of the beauty of Taiwan's mountains
+- _Dragon Gate_: interpreting traditional imagery through modern materials
 
 **Creative Characteristics**:
 
@@ -121,9 +123,9 @@ Ju Ming (1938–2023) is the most internationally renowned artist in the history
 
 **Representative Works**:
 
-- *Shepherd Boy*: a depiction of simple rural life
-- *Working Together*: a vivid portrayal of rural life
-- *Water Buffalo*: a perfect combination of strength and beauty
+- _Shepherd Boy_: a depiction of simple rural life
+- _Working Together_: a vivid portrayal of rural life
+- _Water Buffalo_: a perfect combination of strength and beauty
 
 **Creative Characteristics**:
 
@@ -147,9 +149,9 @@ Ju Ming (1938–2023) is the most internationally renowned artist in the history
 
 **Important Works**:
 
-- *Tai Chi Series — Single Whip Lower Posture*
-- *Tai Chi Series — Paired Practice*
-- *Tai Chi Series — Opening Posture*
+- _Tai Chi Series — Single Whip Lower Posture_
+- _Tai Chi Series — Paired Practice_
+- _Tai Chi Series — Opening Posture_
 
 **International Impact**:
 
@@ -216,9 +218,9 @@ The formative years of these new-generation sculptors coincided precisely with t
 
 **Important Works**:
 
-- *Moonfish*: land art for the 2018 Taichung World Flora Exposition
-- *Listening to the Sound of Flowers Blooming*: Houli Forest Park at the Flora Exposition
-- *Seed Boat*: environmental art at Guandu Nature Park
+- _Moonfish_: land art for the 2018 Taichung World Flora Exposition
+- _Listening to the Sound of Flowers Blooming_: Houli Forest Park at the Flora Exposition
+- _Seed Boat_: environmental art at Guandu Nature Park
 
 **Creative Characteristics**:
 
@@ -236,9 +238,9 @@ The formative years of these new-generation sculptors coincided precisely with t
 
 **Representative Works**:
 
-- *Ox* series: a contemporary interpretation of the Taiwanese water buffalo
-- *Fortune and Prosperity Monkey*: main lantern for the 2016 Taipei Lantern Festival
-- *Handsome Monkey King*: combining traditional mythology with modern aesthetics
+- _Ox_ series: a contemporary interpretation of the Taiwanese water buffalo
+- _Fortune and Prosperity Monkey_: main lantern for the 2016 Taipei Lantern Festival
+- _Handsome Monkey King_: combining traditional mythology with modern aesthetics
 
 **Creative Characteristics**:
 
@@ -274,7 +276,7 @@ The formative years of these new-generation sculptors coincided precisely with t
 
 ## Public Art and Urban Space
 
-In 1992, the *Cultural Arts Reward and Assistance Act* established the "One Percent for Public Art" policy, requiring that 1% of public construction budgets be allocated to the installation of artworks[^9]. This policy changed the mode of production for Taiwanese sculpture: artists gained a stable source of commissions, and urban spaces consequently accumulated a large number of sculptural works.
+In 1992, the _Cultural Arts Reward and Assistance Act_ established the "One Percent for Public Art" policy, requiring that 1% of public construction budgets be allocated to the installation of artworks[^9]. This policy changed the mode of production for Taiwanese sculpture: artists gained a stable source of commissions, and urban spaces consequently accumulated a large number of sculptural works.
 
 Taiwan has installed over 3,000 public artworks to date, found throughout transportation hubs, campuses, parks, and government buildings[^7]. Behind this figure is a complex institutional machine composed of committee review, community participation, and artist bidding, whose operational effectiveness and controversies remain subjects of discussion in cultural policy circles.
 
@@ -284,7 +286,7 @@ How to maintain artistic quality within budgetary constraints and administrative
 
 **Legislative Process**:
 
-- 1992 *Cultural Arts Reward and Assistance Act*
+- 1992 _Cultural Arts Reward and Assistance Act_
 - Establishment of public art installation regulations
 - Implementation of the "One Percent for Public Art" policy
 
@@ -304,15 +306,15 @@ How to maintain artistic quality within budgetary constraints and administrative
 
 **Transportation Hub Landmarks**:
 
-- Taoyuan Airport *The Phoenix Arrives* (Yuyu Yang)
-- Kaohsiung MRT Formosa Boulevard Station *Dome of Light* (Narcissus Quagliata)
-- Taipei 101 *Flower of Wisdom* (designed by Issey Miyake)
+- Taoyuan Airport _The Phoenix Arrives_ (Yuyu Yang)
+- Kaohsiung MRT Formosa Boulevard Station _Dome of Light_ (Narcissus Quagliata)
+- Taipei 101 _Flower of Wisdom_ (designed by Issey Miyake)
 
 **Urban Landscape Sculptures**:
 
-- Taichung City Hall *Heart of Taichung*
-- Kaohsiung Love River *Love Boat*
-- Tainan City *Temple of Confucius Cultural Park*
+- Taichung City Hall _Heart of Taichung_
+- Kaohsiung Love River _Love Boat_
+- Tainan City _Temple of Confucius Cultural Park_
 
 **Campus Art Education**:
 
@@ -537,13 +539,23 @@ Through each sculptural work, we see not only the ingenuity and skill of the art
 ## References
 
 [^1]: [Wikipedia "Ju Ming (sculptor)" entry](https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98) — Ju Ming's biography, creative journey, and museum introduction (2025 updated edition)
-[^2]: [Ravenel Auction House](https://ravenel.com/) — *Ju Ming Artist Profile* official archive and market information
+
+[^2]: [Ravenel Auction House](https://ravenel.com/) — _Ju Ming Artist Profile_ official archive and market information
+
 [^3]: [Chinese Culture University General Education "Three Peaks of Taiwanese Sculpture" lecture page](https://uge.pccu.edu.tw/p/405-1017-27790,c6858.php?Lang=zh-tw) — Professor Hsiao Chiung-jui, comparing the three generations of Huang Tu-shui, Yuyu Yang, and Ju Ming (2022)
+
 [^4]: [China Times News "The Path of Master Ju Ming: Yuyu Yang's Exhibition Launched a Rising Star, the Tai Chi Series Shook Japan"](https://www.chinatimes.com/realtimenews/20230423002796-263301) — Ju Ming's 1977 Tokyo exhibition and his apprenticeship under Yuyu Yang (April 23, 2023)
+
 [^5]: [Vocus "Taiwanese Sculptor Ju Ming and His Connection to Hong Kong" feature report](https://vocus.cc/article/644cd3f8fd897800015f9262) — Ju Ming's creative ties and exhibitions with the Hong Kong art world (2024)
+
 [^6]: [Ju Ming Museum](https://www.juming.org.tw/) — Official website, exhibitions, complete works, and education outreach information
-[^7]: [National Taiwan Museum of Fine Arts](https://www.ntmofa.gov.tw/) — *History of Contemporary Taiwanese Sculpture* research report (2021)
-[^8]: [Yuyu Yang Art Museum](https://yuyuyang.org.tw/) — *Complete Works of Yuyu Yang* digital archive and exhibition information
+
+[^7]: [National Taiwan Museum of Fine Arts](https://www.ntmofa.gov.tw/) — _History of Contemporary Taiwanese Sculpture_ research report (2021)
+
+[^8]: [Yuyu Yang Art Museum](https://yuyuyang.org.tw/) — _Complete Works of Yuyu Yang_ digital archive and exhibition information
+
 [^9]: [Ministry of Culture Public Art Official Website](https://publicart.moc.gov.tw/) — Taiwan public art policy, regulations, and installation case information
+
 [^11]: [National Taiwan University of Arts](https://www.ntua.edu.tw/) — Sculpture Department curriculum and research journal information
-[^12]: [Taipei Fine Arts Museum](https://www.tfam.museum/) — *Taiwanese Sculpture 1945–2020* exhibition catalogue (2020)
+
+[^12]: [Taipei Fine Arts Museum](https://www.tfam.museum/) — _Taiwanese Sculpture 1945–2020_ exhibition catalogue (2020)

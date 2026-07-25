@@ -16,12 +16,14 @@ tags:
 subcategory: '山岳與登山'
 category: 'Nature'
 lastVerified: 2026-05-16
-lastHumanReview: false
+lastHumanReview: true
 translatedFrom: 'Nature/台灣山岳與登山文化.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:e81dd2e1a4ff1dc3'
 sourceBodyHash: 'sha256:571a99d15e048f22'
 translatedAt: '2026-05-17T06:06:00Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Taiwan's Mountains and Hiking Culture

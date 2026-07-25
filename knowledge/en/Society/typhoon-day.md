@@ -24,6 +24,7 @@ sourceCommitSha: '9bddcff6'
 sourceContentHash: 'sha256:d909a68892279cea'
 sourceBodyHash: 'sha256:8d3f66b5c4593a14'
 translatedAt: '2026-05-12T21:49:54+08:00'
+difficulty: 'intermediate'
 ---
 
 # Typhoon Day: Whose Day Off, Whose Shift

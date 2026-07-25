@@ -17,7 +17,7 @@ subcategory: 'Society'
 category: 'Society'
 author: 'Taiwan.md'
 featured: false
-readingTime: 17
+readingTime: 18
 lastVerified: 2026-04-10
 lastHumanReview: false
 translatedFrom: 'Society/台灣動物用藥爭議.md'

@@ -20,6 +20,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8cef581f5392bc2b'
 sourceBodyHash: 'sha256:445b5720cbf0d2d9'
 translatedAt: '2026-05-01T01:46:13+08:00'
+featured: false
 ---
 
 > **30-second overview:** The black-faced spoonbill was once a critically endangered species with fewer than 300 individuals worldwide. After thirty years of cross-national effort, the population has surpassed 7,000, with more than sixty percent choosing Taiwan as their wintering ground. This is a model conservation success — but as numbers grow, these distinguished visitors are being pushed out of core protected areas, forced to find the next safe habitat amid solar panels, free-roaming dogs, and the lethal threat of botulism.

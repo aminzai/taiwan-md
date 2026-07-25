@@ -22,6 +22,8 @@ subcategory: 'Sports'
 lastVerified: 2026-03-21
 lastHumanReview: true
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Li Chih-kai

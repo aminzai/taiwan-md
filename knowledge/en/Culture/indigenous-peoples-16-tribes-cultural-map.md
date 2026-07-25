@@ -1,13 +1,13 @@
 ---
 title: "Taiwan's 16 Indigenous Peoples: A Cultural Map"
 description: "Explore the distribution, languages, ceremonial traditions, and contemporary artistic developments of Taiwan's 16 officially recognized indigenous peoples, revealing the diverse cultural landscape of Taiwan's First Nations"
-date: 2026-03-20
+date: 2026-03-29
 tags: [indigenous peoples, culture, ceremonies, languages, contemporary art]
 author: 'Taiwan.md Contributors'
-readingTime: 8
+readingTime: 9
 featured: false
 category: Culture
-lastVerified: 2026-03-20
+lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
 sourceCommitSha: '4b6d28c5'

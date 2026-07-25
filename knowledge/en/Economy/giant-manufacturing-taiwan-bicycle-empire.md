@@ -2,7 +2,7 @@
 title: 'Giant Manufacturing: From Abandoned Subcontractor to Global Bicycle Empire'
 description: 'How a betrayed Taiwanese manufacturer transformed from assembly slave into the hidden empire that sets global cycling standards'
 date: 2026-03-22
-category: economy
+category: 'Economy'
 tags:
   [
     economy,
@@ -23,6 +23,7 @@ sourceContentHash: 'sha256:59a5006dd9b19748'
 sourceBodyHash: 'sha256:ba1854308daac0e3'
 translatedAt: '2026-05-01T15:38:13+08:00'
 subcategory: '企業列傳'
+featured: false
 ---
 
 # Giant Manufacturing: From Abandoned Subcontractor to Global Bicycle Empire

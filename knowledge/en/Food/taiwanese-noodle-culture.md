@@ -1,7 +1,7 @@
 ---
 title: 'Taiwanese Noodle Culture'
 description: 'From danzai noodles to beef noodle soup, from yangchun noodles to dry mixed noodles, Taiwanese noodle culture blends Hokkien, Mainland Chinese, and innovative elements to form a unique noodle culinary tradition'
-date: 2026-03-20
+date: 2026-03-24
 tags:
   [
     'noodles',
@@ -10,12 +10,12 @@ tags:
     'mainland chinese cuisine',
     'hokkien cuisine',
   ]
-author: 'Taiwan.md Contributors'
-difficulty: 'beginner'
-readingTime: 8
+author: 'Taiwan.md Editorial Team'
+difficulty: 'intermediate'
+readingTime: 15
 category: 'Food'
-featured: false
-lastVerified: 2026-03-20
+featured: true
+lastVerified: 2026-03-24
 translatedFrom: 'Food/台灣麵食文化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7aeb090ae7f880d7'
@@ -23,6 +23,7 @@ sourceBodyHash: 'sha256:07d9c3b482846ce9'
 translatedAt: '2026-04-14T12:25:09+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg/960px-Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: true
 ---
 
 # Taiwanese Noodle Culture

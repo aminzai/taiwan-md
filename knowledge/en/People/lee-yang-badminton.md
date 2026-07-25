@@ -21,7 +21,7 @@ readingTime: 15
 featured: true
 category: 'People'
 lastVerified: 2026-04-14
-lastHumanReview: 2026-04-14
+lastHumanReview: true
 perspectives:
   - author: 'chan_hong_yu'
     text: 'This was not a bonus from the Olympic Committee but a personal top-up bonus from former CTOC chairman Lin Hong-dao targeting the 2020 Tokyo Olympics (an oddly timed enhancement).'

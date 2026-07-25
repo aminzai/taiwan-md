@@ -1,7 +1,7 @@
 ---
 title: 'The Taiwanese Film: The Speaker Beside the Screen and a Film History That Died and Came Back to Life'
 description: "In 1930, a辩士 (benshi) stood beside the screen in a theater, improvising Mandarin and Taiwanese commentary for silent films; ninety years later, Cape No. 7 brought five languages back to the screen together. The Taiwanese-language film industry was once the world's third-largest producer of feature films, yet it was strangled to death. In the years when the New Taiwanese Cinema won the Golden Lion in Venice, the box office share of local films in theaters dropped to just 0.36%. Local cinema is not a straight line from bad to good; it is a history repeatedly declared dead, only to come back to life."
-date: '2026-03-23'
+date: 2026-03-23
 author: 'Taiwan.md'
 category: 'Art'
 subcategory: '電影'
@@ -18,15 +18,17 @@ tags:
     '海角七號',
     '金馬獎',
   ]
-readingTime: '18'
-lastVerified: '2026-06-13'
-lastHumanReview: 'false'
-featured: 'true'
+readingTime: 18
+lastVerified: 2026-06-13
+lastHumanReview: false
+featured: true
 translatedFrom: 'Art/台灣電影.md'
 sourceCommitSha: 'cc6f9d9b3'
 sourceContentHash: 'sha256:b60bd097d9577c55'
 sourceBodyHash: 'sha256:9c00635e5ed9da36'
 translatedAt: '2026-07-24T10:40:41+08:00'
+image: '/article-images/art/tsai-ming-liang-lee-kang-sheng.webp'
+imageCredit: 'hinnk'
 ---
 
 # The Taiwanese Film: The Speaker Beside the Screen and a Film History That Died and Came Back to Life

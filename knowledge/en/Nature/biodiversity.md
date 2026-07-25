@@ -1,7 +1,7 @@
 ---
 title: 'Biodiversity on a Small Island: Why Taiwan Is a Global Hotspot'
 description: 'Taiwan holds more than 59,000 recorded species and an unusually high rate of endemism. This article translates the island’s biodiversity into its ecological, cultural, and conservation meaning.'
-date: 2026-03-18
+date: 2026-03-21
 tags:
   [
     'biodiversity',
@@ -12,15 +12,16 @@ tags:
   ]
 author: 'Taiwan.md'
 difficulty: 'intermediate'
-readingTime: 10
+readingTime: 8
 featured: true
 category: 'Nature'
-lastVerified: 2026-03-19
+lastVerified: 2026-03-21
 translatedFrom: 'Nature/生態多樣性.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7c8e2ae7ead043fa'
 sourceBodyHash: 'sha256:337a7730efae1092'
 translatedAt: '2026-04-14T12:25:09+08:00'
+lastHumanReview: true
 ---
 
 # Biodiversity on a Small Island: Why Taiwan Is a Global Hotspot

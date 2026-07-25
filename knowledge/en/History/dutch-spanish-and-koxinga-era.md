@@ -19,7 +19,7 @@ tags:
   ]
 readingTime: 10
 lastVerified: 2026-05-16
-lastHumanReview: false
+lastHumanReview: true
 featured: false
 translatedFrom: 'History/荷西明鄭時期.md'
 sourceCommitSha: 'd6e87d07'

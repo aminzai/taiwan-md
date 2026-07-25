@@ -22,6 +22,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:2d7d8b8a52c2b0ff'
 sourceBodyHash: 'sha256:11c4d3b5ca02c812'
 translatedAt: '2026-05-16T21:50:00Z'
+difficulty: 'intermediate'
 ---
 
 # Development of Taiwan’s Cybersecurity Industry

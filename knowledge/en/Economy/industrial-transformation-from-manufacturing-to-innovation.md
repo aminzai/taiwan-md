@@ -23,6 +23,7 @@ sourceCommitSha: 'bb3e6a0b'
 sourceContentHash: 'sha256:9aa75ab5aaf39eb6'
 sourceBodyHash: 'sha256:4a2bc57ff97cab00'
 translatedAt: '2026-05-20T05:08:27+08:00'
+difficulty: 'intermediate'
 ---
 
 # Taiwan's Industrial Transformation and Upgrading: From Manufacturing Powerhouse to Innovation Powerhouse

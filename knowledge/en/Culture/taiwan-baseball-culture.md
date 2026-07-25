@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:9a4380e463583d63'
 sourceBodyHash: 'sha256:ffebfda3574ab04b'
 translatedAt: '2026-05-17T05:34:48+08:00'
+difficulty: 'beginner'
 ---
 
 # Taiwan Baseball Culture
@@ -145,10 +146,16 @@ The records Taiwanese baseball has left on the international stage give the spor
 
 ## References
 
-[^1]: Liu Chang-de, "Waving the Imperial Flag, Shouting the Nation: The International Division of Baseball Labor and the Transformation of Sporting National Discourse," *Taiwan: A Radical Quarterly in Social Studies*, No. 70, 2008, https://www.airitilibrary.com/Publication/Information?publicationID=10219528; see also related research by Liu Chang-de, College of Communication, National Chengchi University, https://comm.nccu.edu.tw/PageStaffing/Detail?fid=11123&id=3714
+[^1]: Liu Chang-de, "Waving the Imperial Flag, Shouting the Nation: The International Division of Baseball Labor and the Transformation of Sporting National Discourse," _Taiwan: A Radical Quarterly in Social Studies_, No. 70, 2008, https://www.airitilibrary.com/Publication/Information?publicationID=10219528; see also related research by Liu Chang-de, College of Communication, National Chengchi University, https://comm.nccu.edu.tw/PageStaffing/Detail?fid=11123&id=3714
+
 [^2]: Taiwan Baseball Wiki, History of Taiwanese Baseball entry, https://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81
+
 [^3]: Wikipedia, "History of Baseball in Taiwan," "Red Leaf Little League," "Chinese Professional Baseball League," https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E5%8F%B2
-[^4]: "How Did Baseball Become the National Sport? Starting from the Red Leaf Story," *History Kamadiam* (歷史學柑仔店), https://kamatiam.org/棒球如何成為國球從紅葉的故事說起/
-[^5]: "Taiwan Baseball: 30 Years from Game-Fixing Scandals to World Champions — How It Carries Colonial History and National Identity," *CommonWealth Magazine*, https://www.cw.com.tw/article/5132888
+
+[^4]: "How Did Baseball Become the National Sport? Starting from the Red Leaf Story," _History Kamadiam_ (歷史學柑仔店), https://kamatiam.org/棒球如何成為國球從紅葉的故事說起/
+
+[^5]: "Taiwan Baseball: 30 Years from Game-Fixing Scandals to World Champions — How It Carries Colonial History and National Identity," _CommonWealth Magazine_, https://www.cw.com.tw/article/5132888
+
 [^6]: Academia Sinica Digital Archives, "A Century of Baseball History" special feature, https://digitalarchives.tw/Exhibition/2445/1.html
+
 [^7]: Chinese Professional Baseball League official website, historical materials, https://www.cpbl.com.tw/

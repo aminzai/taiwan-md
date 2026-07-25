@@ -17,9 +17,9 @@ category: 'People'
 subcategory: '音樂人'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 13
-lastVerified: 2026-04-20
-lastHumanReview: 2026-04-20
+readingTime: 18
+lastVerified: 2026-07-07
+lastHumanReview: true
 researchReport: reports/research/2026-04/柯智棠.md
 translatedFrom: People/柯智棠.md
 sourceCommitSha: '4b6d28c5'

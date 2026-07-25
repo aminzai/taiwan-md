@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7de74580c2e1d825'
 sourceBodyHash: 'sha256:669b88afae826e6b'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 Born on December 10, 1949, in Beiping Village, Erlin Township, Changhua County, into a poor family that had farmed for generations, Hung Hsing-fu's birth name was Hung Ma-tsung. At 18, his first short story "The Inn" ("Ni Lü") appeared in _Taiwan Daily News_, beginning his literary path. On July 31, 1982, on the way home as Typhoon Andy bore down, he was killed in a car accident at the age of 33 — bringing his short but brilliant creative life to an end.

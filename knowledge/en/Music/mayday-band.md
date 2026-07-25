@@ -13,14 +13,16 @@ tags:
   - 'lip-sync controversy'
   - 'Taipei Dome'
 date: 2026-03-23
-readingTime: 12
+readingTime: 12min
 lastVerified: 2026-04-13
-lastHumanReview: '2026-04-13'
+lastHumanReview: true
 translatedFrom: 'Music/五月天.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2d73cb00a5f5d254'
 sourceBodyHash: 'sha256:7f6b080a953be003'
 translatedAt: '2026-05-01T13:19:11+08:00'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Mayday (五月天)

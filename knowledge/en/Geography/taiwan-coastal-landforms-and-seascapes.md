@@ -13,7 +13,7 @@ tags:
 category: 'Geography'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
-readingTime: 12
+readingTime: 10
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: true

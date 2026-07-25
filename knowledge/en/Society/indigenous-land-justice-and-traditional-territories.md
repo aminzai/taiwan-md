@@ -12,7 +12,7 @@ tags:
     land rights,
   ]
 author: 'Taiwan.md Contributors'
-readingTime: 12
+readingTime: 9
 featured: false
 category: Society
 lastVerified: 2026-03-20

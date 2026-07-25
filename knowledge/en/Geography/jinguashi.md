@@ -1,7 +1,7 @@
 ---
 title: 'Jinguashi: Many Layers of Lives Stacked on One Mountain—from Alluvial Gold and POWs to Arsenic Soil Still Not Cleaned'
 description: 'On November 14, 1942, 523 Allied POWs walked into the copper mines of Jinguashi, beginning a period where some endured for three years while others never made it out. This mountain is remembered mostly through the orange night lights of the Thirteen Levels Ruins, the 220-kilogram gold brick you can touch, and the secluded sea views when detouring from Jiufen to nearby spots. But this same mountain also buries gold earned by local miners at the cost of their lungs, bones of over five hundred foreign POWs, and a patch of arsenic soil that remains unremediated today. Only seeing these together reveals the full Jinguashi.'
-date: '2026-07-05'
+date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Geography'
 subcategory: '東北角・礦業聚落'
@@ -22,10 +22,10 @@ tags:
     'Mining Settlements',
     'Japanese Colonial Period',
   ]
-readingTime: '24'
-lastVerified: '2026-07-05'
-lastHumanReview: 'true'
-featured: 'false'
+readingTime: 24
+lastVerified: 2026-07-05
+lastHumanReview: true
+featured: false
 translatedFrom: 'Geography/金瓜石.md'
 sourceCommitSha: '676c8cd6'
 sourceContentHash: 'sha256:36ec0adabddd5612'

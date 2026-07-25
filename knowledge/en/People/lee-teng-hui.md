@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b7406ab07a0d09c2'
 sourceBodyHash: 'sha256:5c229e19645654a0'
 translatedAt: '2026-05-01T13:44:02+08:00'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Lee Teng-hui

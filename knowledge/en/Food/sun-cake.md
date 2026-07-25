@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9280fef1e637d1d1'
 sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
 translatedAt: '2026-05-01T08:56:11+08:00'
+featured: false
 ---
 
 > **30-Second Overview:** The sun cake was not always called a sun cake. Its origins trace to the "maltose biscuit" (麥芽酥餅) popular in the Beitun and Tanzih areas of Taichung during the late Qing and early Republican eras. Only after master baker Wei Ching-hai refined it did it evolve into today's thin-pastry, fragrant form. In 1964, artist Yan Shui-long's sunflower mosaic mural for the "Sun Hall" shop was sealed behind wooden boards for 25 years after being suspected of "propaganda for the Communist enemy" — a political episode that only added to the pastry's legendary status.

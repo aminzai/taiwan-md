@@ -1,7 +1,7 @@
 ---
 title: 'Echoes of a Golden Age: The Evolution and Craft of Taiwanese Tea'
 description: "In the 1930s, global powers signed a tea restriction pact and left Taiwan out. Taiwan's tea exports exploded. Ninety years later, the island opens a new bubble tea shop every 12 hours."
-date: 2026-03-24
+date: 2026-03-23
 tags:
   [
     'tea culture',
@@ -11,12 +11,12 @@ tags:
     'boba',
     'agriculture',
   ]
-category: 'Culture'
+category: 'Food'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
 featured: true
-lastVerified: 2026-03-24
+lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Food/茶文化.md'
 sourceCommitSha: '4b6d28c5'

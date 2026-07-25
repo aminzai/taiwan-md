@@ -1,7 +1,7 @@
 ---
 title: "Taiwan's Textile Industry: From Sunset Sector to the Hidden Champion of Olympic Function Wear"
 description: "How a traditional industry once seen as 'dying' is transforming its narrative of resilience by creating high-tech gear for global teams at the 2024 Paris Olympics, using recycled PET bottles, discarded fishing nets, and even captured factory emissions."
-date: '2026-07-20'
+date: 2026-07-20
 category: 'Economy'
 subcategory: 'Economic Development'
 tags:
@@ -14,15 +14,16 @@ tags:
     'Eclat',
     'Juyang',
   ]
-readingTime: '10'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 10
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/紡織業.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:35a33cde93fda77c'
 sourceBodyHash: 'sha256:3e72d2709a13a90b'
 translatedAt: '2026-07-23T23:06:50+08:00'
+author: 'Taiwan.md Contributors'
 ---
 
 > 30 Second Overview: The Taiwanese textile industry was a key driver of economic growth in the 1960s but was labeled a "sunset industry" due to cost pressures in the 1990s. However, through three decades of technological transformation, Taiwan now supplies over 70% of the world's performance wear fabrics[^1]. From the "emission-to-garment" creation for the Chinese Olympic team at the 2024 Paris Olympics[^2] to 23 out of 48 teams using Taiwanese yarns in the 2026 World Cup[^3], this island is redefining global sustainable fashion standards with waste and high technology.

@@ -25,6 +25,7 @@ sourceCommitSha: 'cfce444ae'
 sourceContentHash: 'sha256:5ec68902a1c50e0d'
 sourceBodyHash: 'sha256:efeadcec0add04bc'
 translatedAt: '2026-06-18T00:36:09+08:00'
+difficulty: 'intermediate'
 ---
 
 # Taiwanese Childhood English Names: Mary, Kevin, and the Naming Authority of Cram-School Teachers

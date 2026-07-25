@@ -1,7 +1,7 @@
 ---
 title: 'Bangka: Qing-Era Taipei’s Busiest Place, Now the District with Taipei’s Oldest Average Age'
 description: 'Bangka Longshan Temple was jointly built in 1738 by migrants from the three Quanzhou counties; by 2026 it is 288 years old, 137 years older than the Qing court’s Taipei Prefecture. The 1853 Ding-Xia Jiao Conflict pushed the Tong’an people into Dadaocheng, planting the divergence that would shape northern Taiwan for two centuries. Renamed Wanhua under Japanese rule, made a district in 1990, and turned into the setting of Doze Niu’s 2010 film Monga, it now has an aging index of 320.78%, the highest in the city. On Taipei’s earliest street, the first incense stick in the temple forecourt is still burning at six in the morning.'
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區 / 台北市萬華區'
@@ -26,7 +26,7 @@ tags:
     'Historic Districts Series',
   ]
 readingTime: 22
-lastVerified: '2026-05-21'
+lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/艋舺.md'

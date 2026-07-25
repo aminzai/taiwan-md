@@ -1,7 +1,7 @@
 ---
 title: 'Yilan County: Twice Choosing Its Own Fate, the Lanyang Plain Never Looked Back'
 description: 'On the evening of December 13, 1987, Chen Ting-nan sat across from Wang Yung-ching in a CTS studio and kept the Sixth Naphtha Cracker off the Lanyang Plain. Nineteen years later, on June 16, 2006, the Hsuehshan Tunnel opened, cutting the trip from Taipei to Yilan from two hours to 40 minutes. Then, within ten years of its opening, 6,137 farmhouses rose across this rice granary, farmland prices jumped from NT$4,000 to NT$20,000 per ping, and in 2023 Yilan County alone issued 35% of all farmhouse building permits in Taiwan. Twice, at critical moments in history, one place made a choice; the Lanyang Plain accepted the costs together with the gifts.'
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -22,7 +22,7 @@ tags:
     '22 Counties and Cities Series',
   ]
 readingTime: 15
-lastVerified: '2026-05-18'
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/宜蘭縣.md'

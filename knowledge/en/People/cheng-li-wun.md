@@ -26,6 +26,8 @@ sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:d7d8adfe5a1c7158'
 sourceBodyHash: 'sha256:119c3d104b24e9dd'
 translatedAt: '2026-06-10T16:43:34Z'
+featured: true
+difficulty: 'intermediate'
 ---
 
 # Cheng Li-wen

@@ -1,7 +1,7 @@
 ---
 title: 'Taiwanese Curators and Artistic Cultural Construction'
 description: "From independent curating to museum systems, how Taiwanese curators construct contemporary art's cultural discourse and international dialogue"
-date: 2026-03-19
+date: 2026-03-24
 tags:
   [
     'curators',
@@ -11,7 +11,7 @@ tags:
     'art discourse',
   ]
 category: 'Art'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 difficulty: 'intermediate'
 readingTime: 12
 featured: true
@@ -20,6 +20,8 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:01e74babf94ac8da'
 sourceBodyHash: 'sha256:859c873057ee681d'
 translatedAt: '2026-05-13T01:07:52Z'
+lastVerified: 2026-03-24
+lastHumanReview: false
 ---
 
 # Taiwanese Curators and Artistic Cultural Construction

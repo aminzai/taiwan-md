@@ -22,7 +22,7 @@ tags:
     'finance',
   ]
 subcategory: 'Transportation & Mobility'
-author: 'Taiwan.md Editorial Team'
+author: 'Taiwan.md 編輯團隊'
 readingTime: 15
 featured: true
 category: 'Lifestyle'

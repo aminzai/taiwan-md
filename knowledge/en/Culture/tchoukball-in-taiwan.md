@@ -1,19 +1,20 @@
 ---
 title: "Tchoukball: Taiwan's Invisible 43-Year World Champion"
 description: "In 1977, a professor returning to Taiwan from the UK brought back a net frame he had purchased for £30, inadvertently planting the roots of a Swiss-invented 'gentleman's ball' in Taiwan's schoolyards. Over 40 years later, Taiwan's team sits firmly at No. 1 in the world, the international federation is headquartered in Kaohsiung, and yet the sport remains largely unknown to most Taiwanese."
-date: '2026-03-27'
+date: 2026-03-27
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '運動文化'
 tags: ['巧固球', 'Tchoukball', '台灣運動', '君子球', '世界冠軍', '校園體育']
-readingTime: '12'
-lastVerified: '2026-03-27'
+readingTime: 12
+lastVerified: 2026-03-27
 lastHumanReview: false
 translatedFrom: 'Culture/巧固球.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:01a29994f0cdcf17'
 sourceBodyHash: 'sha256:620db6741686fb51'
 translatedAt: '2026-06-22T00:30:00+08:00'
+featured: false
 ---
 
 ## Origins and Introduction to Taiwan

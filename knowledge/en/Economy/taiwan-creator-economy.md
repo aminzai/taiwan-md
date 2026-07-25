@@ -1,7 +1,7 @@
 ---
 title: "Taiwan's Creator Economy: A Fragmented Battlefield of 23 Million"
 description: "The market is less than 1% of America's, yet creators juggle twice as many platforms — how do they survive?"
-date: 2026-03-29
+date: 2026-03-24
 category: 'Economy'
 tags:
   [
@@ -12,16 +12,17 @@ tags:
     'social media',
   ]
 subcategory: 'Industry & Economy'
-author: 'p3nchan'
+author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-03-29
+lastVerified: 2026-03-24
 lastHumanReview: false
-readingTime: 9
+readingTime: 10
 translatedFrom: 'Economy/台灣動畫代工.md'
 sourceCommitSha: 'ce7f10f8'
 sourceContentHash: 'sha256:d3d2ec17aaf8187a'
 sourceBodyHash: 'sha256:187c229025183e4b'
 translatedAt: '2026-05-09T14:29:43Z'
+difficulty: 'intermediate'
 ---
 
 > Taiwan's influencer advertising market is worth roughly $214 million — less than 1% of the US figure. Yet a mid-tier Taiwanese creator routinely manages 5 to 7 platforms simultaneously: YouTube, Instagram, Facebook, Threads, Podcast, a blog, and LINE. That's nearly double the platform load of an American counterpart at the same level. The market is tiny, the platforms are fragmented, and monetization runs on affiliate marketing rather than subscriptions. It's an entirely different game.

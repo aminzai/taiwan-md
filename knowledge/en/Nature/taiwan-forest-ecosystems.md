@@ -14,10 +14,10 @@ tags:
     'Cloud Forest',
     'Biodiversity',
   ]
-readingTime: '15'
-lastVerified: '2026-03-23'
-lastHumanReview: 'true'
-featured: 'false'
+readingTime: 15
+lastVerified: 2026-03-23
+lastHumanReview: true
+featured: false
 translatedFrom: 'Nature/台灣森林生態系.md'
 sourceCommitSha: 'a3973681e'
 sourceContentHash: 'sha256:1bf33f9ec83e5490'

@@ -2,8 +2,8 @@
 title: "'Kuma Academy: A Civil Defense School That Hopes One Day It Will No Longer Need to Exist'"
 description: "In 2021, five volunteers talked for five hours in a cafe and decided to teach Taiwanese people how to face war. After holding only a few events, they were NT$210,000 in debt. The next year, Russia invaded Ukraine, Robert Tsao donated NT$600 million, and the call went out to train three million Kuma Warriors in three years. The academy teaches tourniquets, evacuation, and fraud prevention, and states plainly that it is 'absolutely not training militia.' The more seriously it teaches, the more China puts it on Taiwan independence lists and the more it becomes a political football inside Taiwan. A school born because of war, yet hoping one day it will never be needed."
 date: 2026-06-21
-author: "'Taiwan.md Contributors'"
-category: "'Society'"
+author: 'Taiwan.md Contributors'
+category: 'Society'
 subcategory: "'公民社會'"
 tags:
   [
@@ -29,6 +29,7 @@ image: /article-images/society/kuma-academy-blue-magpie-drill-2024.webp
 imageCredit: Tan Xudong / Voice of America
 imageLicense: Public Domain
 imageSource: https://commons.wikimedia.org/wiki/File:%E9%BB%91%E7%86%8A%E5%AD%B8%E9%99%A2%E8%97%8D%E9%B5%B2%E8%A1%8C%E5%8B%95_20240127.jpg
+difficulty: 'intermediate'
 ---
 
 # Kuma Academy: A Civil Defense School That Hopes One Day It Will No Longer Need to Exist

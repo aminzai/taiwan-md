@@ -13,7 +13,7 @@ tags:
   - 'Design Governance'
   - 'Zhang Ji-yi'
   - 'Golden Pin Design Award'
-readingTime: '16'
+readingTime: 16
 lastVerified: 2026-06-04
 lastHumanReview: false
 featured: false

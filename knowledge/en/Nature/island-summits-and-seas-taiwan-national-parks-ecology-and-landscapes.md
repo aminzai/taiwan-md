@@ -15,6 +15,7 @@ sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:c51eb1a165d6a2f5'
 sourceBodyHash: 'sha256:99620fa1348fdcfe'
 translatedAt: '2026-05-15T15:39:39+08:00'
+difficulty: 'intermediate'
 ---
 
 # Island Summits and Seas: Ecology and Landscapes of Taiwan's National Parks

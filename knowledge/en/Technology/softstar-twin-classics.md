@@ -1,7 +1,7 @@
 ---
 title: "Softstar's Twin Classics: That Afternoon You Cried in a DOS Window"
 description: "In July 1995, a DOS game at 320×200 resolution made millions of players cry over a virtual character for the first time. The Legend of Sword and Fairy and Xuan-Yuan Sword — two blades forged in Neihu, Taipei — defined the entire Chinese-speaking world's imagination of what an RPG could be."
-date: '2026-04-23'
+date: 2026-04-23
 author: 'zaious'
 category: 'Technology'
 subcategory: '社群與數位文化'
@@ -16,10 +16,10 @@ tags:
     'DOMO',
     '台灣遊戲',
   ]
-readingTime: '16'
-lastVerified: '2026-04-23'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 16
+lastVerified: 2026-04-23
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/大宇雙劍.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:99d1ed1be7085b4c'

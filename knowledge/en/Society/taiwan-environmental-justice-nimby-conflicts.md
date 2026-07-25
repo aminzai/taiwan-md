@@ -1,7 +1,7 @@
 ---
 title: 'Taiwan Environmental Justice and NIMBY Conflicts'
 description: 'Explores the uneven distribution of environmental burdens in Taiwan, from incinerators and nuclear waste to petrochemical industry NIMBY conflicts, analyzing environmental inequality and social justice issues.'
-date: '2026-03-20'
+date: 2026-03-20
 category: 'Society'
 tags:
   - 'Environmental Justice'
@@ -14,9 +14,9 @@ tags:
 subcategory: '社會運動'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: '2026-03-20'
+lastVerified: 2026-03-20
 lastHumanReview: false
-readingTime: '13'
+readingTime: 13
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
 sourceCommitSha: '49728f9d'
 sourceContentHash: 'sha256:fde226895a6b4ce1'

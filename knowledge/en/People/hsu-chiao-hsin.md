@@ -16,6 +16,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8f69e3146e67bf4f'
 sourceBodyHash: 'sha256:c36ec4a8304568ae'
 translatedAt: 2026-05-03T23:14:05+08:00
+difficulty: 'intermediate'
 ---
 
 # Hsu Chiao-hsin: From Breakfast Shop Daughter to the "NT$800 Billion Arms Deal" Legislator's Youth-Driven Traffic

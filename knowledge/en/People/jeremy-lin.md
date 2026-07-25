@@ -17,8 +17,8 @@ tags:
     'TPBL',
   ]
 lastVerified: 2026-05-16
-lastHumanReview: 'true'
-featured: 'true'
+lastHumanReview: true
+featured: true
 translatedFrom: 'People/林書豪.md'
 sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:5bcf40616e842909'

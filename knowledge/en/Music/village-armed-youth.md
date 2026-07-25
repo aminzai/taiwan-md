@@ -22,6 +22,8 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:eb6f1df3d28721d6'
 sourceBodyHash: 'sha256:a7bd89eaeb441ced'
 translatedAt: '2026-05-16T22:19:17Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Village Armed Youth

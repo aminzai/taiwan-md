@@ -1,7 +1,7 @@
 ---
 title: 'Chi Po-lin'
 description: "How a government clerk who couldn't afford helicopters on his salary mortgaged his house to create Taiwan's most successful documentary"
-date: 2026-03-23
+date: 2026-03-25
 tags:
   [
     'People',
@@ -17,8 +17,8 @@ subcategory: 'Arts and Creativity'
 category: 'People'
 author: 'Taiwan.md'
 featured: false
-readingTime: 8
-lastVerified: 2026-03-23
+readingTime: 12
+lastVerified: 2026-03-25
 lastHumanReview: true
 translatedFrom: 'People/齊柏林.md'
 sourceCommitSha: '4b6d28c5'

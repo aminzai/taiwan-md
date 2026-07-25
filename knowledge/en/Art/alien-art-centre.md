@@ -10,6 +10,9 @@ sourceBodyHash: 'sha256:c74e16d96ce01c6c'
 translatedAt: '2026-06-16T17:10:15Z'
 category: Art
 date: 2026-03-22
+author: 'Taiwan.md'
+lastVerified: 2026-03-22
+lastHumanReview: false
 ---
 
 # ALIEN Art Centre — From Military Farewell Station to Art Sanctuary

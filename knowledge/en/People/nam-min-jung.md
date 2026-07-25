@@ -13,7 +13,7 @@ tags:
     'CPBL',
   ]
 subcategory: 'Pop Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-05-13
@@ -23,6 +23,7 @@ sourceContentHash: 'sha256:6b588911c485c4d9'
 sourceBodyHash: 'sha256:3582a490ea4120f2'
 translatedAt: '2026-05-16T21:50:00Z'
 category: People
+lastHumanReview: false
 ---
 
 > **30-second overview:** Nam Min-jung's keyword is not "viral spike"—it is "stayed." She has held high-visibility slots with Fubon across seasons, turning Korean support in Taiwan from one-off buzz into predictable professional routine.

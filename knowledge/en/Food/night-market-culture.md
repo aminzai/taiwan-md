@@ -1,13 +1,13 @@
 ---
 title: 'Night Market Culture'
 description: "164 official night markets, one for every 38,000 people in Tainan — from kerosene lamp stalls under temple eaves to food destinations that put Taiwan on Michelin's radar"
-date: 2026-03-31
+date: 2026-03-21
 tags: ['night market', 'street food', 'culture', 'tourism', 'grassroots life']
 subcategory: 'Food Scenes'
 category: 'Food'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-31
+lastVerified: 2026-03-21
 lastHumanReview: true
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
 imageAlt: 'Taiwan Night Market Culture'

@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:479a8f6f5440400a'
 sourceBodyHash: 'sha256:b005f4ff95b8ed92'
 translatedAt: '2026-05-01T01:46:13+08:00'
+featured: false
 ---
 
 > **30-second overview:** Su Tseng-chang's political career was a forty-year sprint. Starting as a defense lawyer in the Formosa Incident trial of 1979, he went on to serve as Pingtung County Magistrate, Taipei County Magistrate, and Premier of the Executive Yuan — twice. His forceful "electric fireball" style brought notable achievements like blocking African swine fever at the border and rolling out air conditioning in every school, but also earned him polarized reviews for his assertive manner. This article takes you inside the decision-making of this "charge ahead" premier, tracing how he rebounded from political low points and left a lasting governing legacy amid controversy.

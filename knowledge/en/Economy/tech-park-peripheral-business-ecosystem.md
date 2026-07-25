@@ -1,14 +1,14 @@
 ---
 title: "The Ecosystem of Peripheral Business Districts Around Taiwan's Tech Parks"
 description: "Why do restaurants around the peripheries of Nangang Software Park, Neihu Technology Park, Hsinchu Science Park, Central Taiwan Science Park, and Southern Taiwan Science Park increasingly only serve lunch while dinner services shut down one after another? This article unpacks the single-peak business district phenomenon along Taiwan's technology corridor through three lenses: commuting patterns, BOT zoning controls, and shifts in overtime culture. It also tracks the structural impact of LaLaport's March 2025 opening on traditional lunch-district eateries along Sanzhong Road and Yuanqu Street."
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '產業園區與商圈'
 tags:
   ['科技園區', '商圈經濟', '南港軟體園區', '內湖科技園區', '通勤', '都市規劃']
-readingTime: '12'
-lastVerified: '2026-05-18'
+readingTime: 12
+lastVerified: 2026-05-18
 lastHumanReview: true
 featured: false
 translatedFrom: 'Economy/台灣科技園區外圍商圈生態.md'
@@ -16,6 +16,7 @@ sourceCommitSha: 'cfaa22a5'
 sourceContentHash: 'sha256:516bf0a6d1966cf7'
 sourceBodyHash: 'sha256:96ee687ae59d6522'
 translatedAt: '2026-05-19T05:08:06+08:00'
+difficulty: 'intermediate'
 ---
 
 > **30-Second Overview**: The peripheral business districts of Taiwan's five major tech parks — Nangang Software Park, Neihu Technology Park, Hsinchu Science Park, Central Taiwan Science Park, and Southern Taiwan Science Park — share a common pattern. Tens of thousands of employees collectively appear during a 90-minute lunch window and collectively vanish around 6:30 PM. Many restaurants along Sanzhong Road, Yuanqu Street, and Jingmao 2nd Road near Nangang Software Park have quietly dropped dinner service and now operate lunch-only. After the opening of南港 LaLaport on March 20, 2025, even this "lunch-only" defensive strategy faces a direct challenge from the food courts of a large-scale shopping mall.

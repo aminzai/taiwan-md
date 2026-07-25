@@ -5,7 +5,14 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Art'
 subcategory: '策展與教育'
-tags: ['art education', 'art departments', 'arts universities', 'teacher training', 'academic development']
+tags:
+  [
+    'art education',
+    'art departments',
+    'arts universities',
+    'teacher training',
+    'academic development',
+  ]
 readingTime: 11
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +22,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:352ce3febb583c17'
 sourceBodyHash: 'sha256:aaeb81e5f1416586'
 translatedAt: '2026-05-17T05:34:48+08:00'
+difficulty: 'intermediate'
 ---
 
 # Art Education and Institutional Development in Taiwan
@@ -483,7 +491,11 @@ The achievements of Taiwan’s art education include the training of many outsta
 ## References
 
 [^1]: [Taipei National University of the Arts](https://w3.tnua.edu.tw/) — official website and university history materials
+
 [^2]: [Tainan National University of the Arts](https://www.tnnua.edu.tw/) — university history documents and institutional development
+
 [^3]: [National Taiwan University of Arts](https://www.ntua.edu.tw/) — historical development and college introductions
+
 [^4]: [Department of Fine Arts, National Taiwan Normal University](https://www.art.ntnu.edu.tw/) — departmental history and curriculum information
+
 [^7]: [National Taiwan Arts Education Center](https://www.arte.gov.tw/) — policy research materials on art education

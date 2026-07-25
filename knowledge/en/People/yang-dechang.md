@@ -1,7 +1,7 @@
 ---
 title: 'Edward Yang: Using the Coldest Logic of an Engineer to Capture the Warmest Loneliness of the Human Heart'
 description: "In the early 1980s, Edward Yang, fresh to the Central Motion Picture Corporation, wore a T-shirt printing 'Herzog, Bresson, Yang,' placing himself behind two masters. This man, who gave up a job as a U.S. submarine engineer and returned to Taiwan in his early thirties to study filmmaking, later became the first Taiwanese to win Best Director at Cannes—yet his film Yi Yi went unreleased in Taiwanese cinemas for seventeen years. He used the coldest methods to film the back of our heads, the parts we dare not face."
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '電影與戲劇'
@@ -15,9 +15,9 @@ tags:
     'Film',
     'Taipei',
   ]
-lastVerified: '2026-07-05'
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-07-05
+lastHumanReview: false
+featured: true
 translatedFrom: 'People/楊德昌.md'
 sourceCommitSha: '58c351c4'
 sourceContentHash: 'sha256:890b13d8d8c67562'

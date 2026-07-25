@@ -12,7 +12,7 @@ tags:
   ]
 author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
-readingTime: 12
+readingTime: 11
 category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:58cfc27dba0ac67b'
 sourceBodyHash: 'sha256:4e6245b3f0401bec'
 translatedAt: '2026-04-14T12:25:09+08:00'
+lastHumanReview: false
 ---
 
 # Taiwan's Reservoirs and Water Resource Management

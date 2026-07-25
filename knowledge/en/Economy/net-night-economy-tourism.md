@@ -1,7 +1,7 @@
 ---
 title: "NET: From Export Overstock to the National Wardrobe—The Story of Taiwan's Most Mysterious Local Apparel Brand"
 description: "Established in 1991, NET began with export overstock from Keelung's 'Housewife Market.' For thirty years, it has survived amidst the pressure of fast fashion. It is not only the local apparel brand with the most stores across Taiwan, but also a commercial legend embodying warmth for Taiwanese people due to its continuous 15 years of 'store donations' and the recent property rights dispute at Keelung East Coast Plaza."
-date: '2026-07-22'
+date: 2026-07-22
 author: 'Taiwan.md Contributors'
 category: 'Economy'
 subcategory: 'Corporate Biographies'
@@ -13,10 +13,10 @@ tags:
     'Social Enterprise',
     'Keelung East Coast Plaza',
   ]
-readingTime: '28'
-lastVerified: '2026-07-22'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 28
+lastVerified: 2026-07-22
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/NET.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:34ffbb88716e1c90'

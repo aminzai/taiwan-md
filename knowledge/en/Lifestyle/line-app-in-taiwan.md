@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e36f0dcb06bdb5d7'
 sourceBodyHash: 'sha256:45c225df72a18f73'
 translatedAt: '2026-05-01T01:46:13+08:00'
+featured: false
 ---
 
 > **30-second overview:** LINE is a messaging app born in Japan in the aftermath of the March 11, 2011 Great East Japan Earthquake. It entered Taiwan the same year and seized the moment in 2013 when MSN shut down and WhatsApp switched to a paid model, swiftly replacing those former giants. Today, LINE's penetration rate among Taiwanese aged 15–65 stands at 93%. From family chats and elder-image culture to workplace group chats, LINE Pay mobile payments, and LINE Bank — it is Taiwan's de facto "digital infrastructure." But this deep dependence also brings disinformation, account hijacking, advertising overload, digital inheritance disputes, and market monopoly controversies, forcing society to reconsider the public responsibilities of a commercial platform.

@@ -1,7 +1,7 @@
 ---
 title: 'Why Taiwan Needs Its Own Knowledge Base'
 description: "When AI models speak in human language telling stories written by others, how can Taiwanese ensure their own stories aren't rewritten?"
-date: 2026-03-20
+date: 2026-07-17
 tags:
   [
     'AI',
@@ -11,10 +11,10 @@ tags:
     'Knowledge Sovereignty',
     'Taiwan',
   ]
-author: 'Che-Yu Wu'
-readingTime: 8
+author: 'Taiwan.md'
+readingTime: 18
 category: 'About'
-lastVerified: 2026-03-20
+lastVerified: 2026-07-17
 translatedFrom: 'About/為什麼台灣需要自己的知識庫.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:62ec81a90f901dec'
@@ -22,6 +22,8 @@ sourceBodyHash: 'sha256:352de879384e19e9'
 translatedAt: '2026-06-16T17:10:15Z'
 image: /article-images/about/taiwan-md-homepage-2026.webp
 imageCredit: 'Taiwan.md 首頁 · taiwan.md · CC BY-SA 4.0'
+featured: false
+lastHumanReview: false
 ---
 
 # Why Taiwan Needs Its Own Knowledge Base

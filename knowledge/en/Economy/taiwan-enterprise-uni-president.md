@@ -6,14 +6,14 @@ sourceBodyHash: 'sha256:481f2cb6cfdcbd21'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Taiwan Enterprise: Uni-President Enterprises'
 description: 'How a 13-year-old child laborer built a NT$657.6 billion revenue empire from scratch at age 38'
-date: 2026-03-21
+date: 2026-07-13
 tags: ['Economy', 'Enterprise', 'food industry', 'retail', 'brand management']
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false
-lastVerified: 2026-03-21
-lastHumanReview: true
+lastVerified: 2026-07-13
+lastHumanReview: false
 category: Economy
 image: '/article-images/economy/seven-eleven-taiwan-storefront-2024.webp'
 imageCredit: 'Solomon203 / Wikimedia Commons'

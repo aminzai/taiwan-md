@@ -23,6 +23,7 @@ sourceCommitSha: '7bad84a3d'
 sourceContentHash: 'sha256:bb11251dd95db686'
 sourceBodyHash: 'sha256:891cffde295deb7f'
 translatedAt: '2026-07-24T10:40:41+08:00'
+image: '/article-images/society/du-mali-maine-potato-1940.webp'
 ---
 
 > **30-Second Overview:** On April 29, 2026, Chen Bin-hua, spokesperson for the Taiwan Affairs Office of the PRC, criticized the DPP government in a routine press conference for "openly abandoning the bottom line of food safety" and "serving 'poisoned potatoes' to the Taiwanese people's dining tables after opening the door to ractopamine pork." The trigger was the adjustment of import quarantine conditions for US processing potatoes under the Taiwan-US **Agreement on Reciprocal Trade (ART)**, signed on January 16 and finalized on February 13: small amounts of sprouting are now subject to "individual removal" rather than whole-batch return, and potatoes with solanine levels below 200 ppm are allowed entry. The Mainland Affairs Council, Ministry of Health and Welfare, and Executive Yuan issued counter-statements on the same day, April 29. But "truth" spans three layers. To clarify this narrative war, one must look at the scientific layer (what is 200 ppm? There is also 30 ppm behind it), the governance layer (28 days to sign a treaty + how 85 border personnel can "check every single potato"), and the trust layer (the 15-year scars accumulated from the 2011 plasticizer scandal to the 2024 ractopamine pork issue). The PRC narrative **steps precisely on** this foundation—the foundation is real.

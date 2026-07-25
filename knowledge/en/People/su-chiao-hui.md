@@ -25,6 +25,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:eb7e3bede251836b'
 sourceBodyHash: 'sha256:8ae89739a53e0a1f'
 translatedAt: '2026-04-30T22:50:13+08:00'
+featured: false
 ---
 
 # Su Chiao-hui: Stitching New Taipei Together with Law and Detail — A Curator Working Under the Shadow of "Charge Ahead"

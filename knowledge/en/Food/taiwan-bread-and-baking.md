@@ -14,6 +14,7 @@ sourceBodyHash: 'sha256:79036ef58165be78'
 translatedAt: '2026-05-17T05:43:00Z'
 image: 'https://upload.wikimedia.org/wikipedia/commons/c/cf/TaiwanesePineappleCake.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: false
 ---
 
 # Taiwan Bread and Baking

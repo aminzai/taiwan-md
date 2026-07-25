@@ -3,7 +3,7 @@ title: "Guan Sheng Di Jun: How a Defeated General Became Taiwan's God of Everyth
 description: 'Three Kingdoms warrior Guan Yu died a prisoner, his head taken by an enemy. Seventeen centuries later, he commands the most-visited temple in Taiwan — one that banned incense. How a Chinese general became a uniquely Taiwanese deity.'
 category: Culture
 tags: [關聖帝君, 恩主公, 行天宮, 民間信仰, 廟宇文化]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-03-26
 readingTime: 10
 lastVerified: 2026-03-26
@@ -13,6 +13,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
 translatedAt: '2026-04-14T12:25:09+08:00'
+featured: false
 ---
 
 # Guan Sheng Di Jun: How a Defeated General Became Taiwan's God of Everything

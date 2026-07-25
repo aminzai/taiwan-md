@@ -1,7 +1,7 @@
 ---
 title: 'Environmental Awakening and the Net‑Zero Transition'
 description: 'How Taiwan moved from pollution‑first industrialization to a civic‑driven sustainability model—shaped by grassroots activism, circular economy policy, corporate ESG, and a 2050 net‑zero roadmap'
-date: 2026-03-18
+date: 2026-03-21
 tags:
   [
     'environmentalism',
@@ -13,15 +13,16 @@ tags:
   ]
 author: 'Taiwan.md'
 difficulty: 'intermediate'
-readingTime: 14
+readingTime: 8
 featured: true
 category: 'Society'
-lastVerified: 2026-03-19
+lastVerified: 2026-03-21
 translatedFrom: 'Society/環保與永續發展.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
 translatedAt: '2026-04-14T12:25:09+08:00'
+lastHumanReview: true
 ---
 
 # Environmental Awakening and the Net‑Zero Transition

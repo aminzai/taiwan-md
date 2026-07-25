@@ -1,7 +1,7 @@
 ---
 title: 'Wu Pao-chun: A Promise to a Paiwan Child'
 description: 'A rural kid from Pingtung with only a junior high education and no French. He won the world’s first Master Baker gold medal in Paris with a lychee‑rose loaf—inside it held a promise made ten years earlier to an indigenous child.'
-date: '2026-04-05'
+date: 2026-04-05
 category: 'People'
 tags:
   - 'catering'
@@ -14,9 +14,9 @@ tags:
 subcategory: '餐飲與職人'
 author: 'Taiwan.md'
 featured: true
-lastVerified: '2026-04-05'
+lastVerified: 2026-04-05
 lastHumanReview: false
-readingTime: '7'
+readingTime: 7
 translatedFrom: 'People/吳寶春.md'
 sourceCommitSha: 'fb0101886'
 sourceContentHash: 'sha256:299e6ec6dab64e0a'

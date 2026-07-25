@@ -13,6 +13,7 @@ sourceContentHash: 'sha256:6a877621bb6ceb6f'
 sourceBodyHash: 'sha256:855af6d5f189b0bd'
 translatedAt: '2026-05-17T05:46:00Z'
 category: Nature
+lastHumanReview: false
 ---
 
 # Trail Culture and Civic Stewardship in Taiwan
@@ -108,7 +109,11 @@ The Thousand Miles Trail Association emphasizes that trail stewardship aims at l
 ## References
 
 [^1]: [Thousand Miles Trail Association milestones - iTrail](https://itrail.tw/aboutus/important-events) — Confirms the Thousand Miles Trail movement was launched April 23, 2006, and the association incorporated June 8, 2011.
+
 [^2]: [Thousand Miles Trail Association official site](https://www.tmitrail.org.tw/) — Association mission, Double-Zero Policy, and Huang Wu-hsiung's trail stewardship philosophy.
+
 [^3]: [iTrail smart trail platform](https://itrail.tw/) — Trail status reporting platform, launched 2024, receiving over 15,000 reports in its first year.
+
 [^4]: [New Taipei City Tamsui–Kavalan Trail - New Taipei City Government](https://trails.ntpc.gov.tw/) — Introduction to the three (northern/central/southern) routes of the Tamsui–Kavalan Trail and the restoration program.
+
 [^5]: [Thousand Miles Trail at 20: The Birth of a Path - Smile Taiwan](https://smiletaiwan.cw.com.tw/article/9059) — Coverage of two decades of the Thousand Miles Trail Association's work.

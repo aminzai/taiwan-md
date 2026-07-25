@@ -1,7 +1,7 @@
 ---
 title: 'Taiwan Pastry Culture'
 description: "From the 1877 Lukang Yuzhenzhai Phoenix Eye Cake to the 2026 Chen Yaoxun's Red Soil Egg Yolk Pastry that sold out in 30 seconds on the Tixcraft ticketing system, Taiwan's pastries carry a 150-year layered story. In between lies the square pineapple cake revolution of Yifutang during the Japanese colonial era, Fengquan's olive-shaped egg yolk pastry experiment in Fengyuan, 270 hectares of native pineapple contract farming at the foot of Bagua Mountain, the craft mutation of oil-wrapped pastry layers, and a century-old Han pastry shop standing on the same Mid-Autumn dining table as a world bread champion."
-date: '2026-05-03'
+date: 2026-05-03
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: '烘焙與糕點'
@@ -17,7 +17,7 @@ tags:
     '油酥皮',
     '飲食文化',
   ]
-lastVerified: '2026-05-03'
+lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣糕餅文化.md'

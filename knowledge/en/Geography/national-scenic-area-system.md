@@ -1,7 +1,7 @@
 ---
 title: 'National Scenic Area System'
 description: "From the Northeast Coast to Kenting, Taiwan's 13 National Scenic Areas showcase a rich tapestry of natural landscapes and cultural heritage"
-date: 2026-03-19
+date: 2026-03-23
 tags:
   [
     'National Scenic Areas',
@@ -13,14 +13,15 @@ tags:
 category: 'Geography'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
-readingTime: 13
+readingTime: 12
 featured: true
-lastVerified: 2026-03-19
+lastVerified: 2026-03-23
 translatedFrom: 'Geography/台灣國家風景區系統.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9369d7f73b449799'
 sourceBodyHash: 'sha256:efc3d350be263a65'
 translatedAt: '2026-04-14T12:25:09+08:00'
+lastHumanReview: false
 ---
 
 # National Scenic Area System

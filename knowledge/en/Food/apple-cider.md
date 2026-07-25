@@ -1,7 +1,7 @@
 ---
 title: 'Apple Sidra: From National Sparkling Drink to Capital-Market Storm, How a Sixty-Year Taiwanese Flavor Was Reborn'
 description: "In 1965, Philippine Chinese businessman Lee Hung-lueh bought a formula from America's CosCo company and founded Oceanic Beverages. From then on, Apple Sidra became the golden fizz that held the same place for 60 years in rechao stir-fry restaurant refrigerators, banquet tables, and KTV rooms. For its first 30 years, its trademark changed hands among three foreign owners, until Sun You-ying paid US$800,000 out of pocket to redeem it for Taiwan; it was encountered by Korean idol Kyuhyun at Du Hsiao Yueh in Tainan; it twice fell under the yeast and moldy ceilings of its own factory; and finally, its parent company staged a major comeback with EPS of NT$8.71 by selling 7,222 ping of land in Hunei, Kaohsiung."
-date: '2026-05-11'
+date: 2026-05-11
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '飲品文化'
@@ -18,7 +18,7 @@ tags:
     'Listed Companies',
   ]
 readingTime: 14
-lastVerified: '2026-05-11'
+lastVerified: 2026-05-11
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/蘋果西打.md'

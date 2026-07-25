@@ -17,12 +17,13 @@ date: 2026-04-19
 readingTime: 10
 featured: false
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
 translatedFrom: 'Culture/國立故宮博物院.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
 translatedAt: '2026-05-01T12:53:58+08:00'
+author: 'Taiwan.md'
 ---
 
 # National Palace Museum: A Century-Long March from Wartime Crates to AI Dreamscapes

@@ -1,19 +1,20 @@
 ---
 title: 'Taiwan Hot Springs Landscape'
 description: 'Beitou, Zhiben, Jiaoxi - the beautiful intersection of hot spring culture and geological science'
-date: 2026-03-20
+date: 2026-03-23
 tags: ['hot springs', 'geology', 'volcanoes', 'hot spring culture', 'tourism']
 author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
-readingTime: 9
+readingTime: 12
 category: 'Geography'
 featured: false
-lastVerified: 2026-03-20
+lastVerified: 2026-03-23
 translatedFrom: 'Geography/台灣溫泉地景.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5501454d0b0366dd'
 sourceBodyHash: 'sha256:7e3bd7915270078d'
 translatedAt: '2026-04-14T12:25:09+08:00'
+lastHumanReview: false
 ---
 
 # Taiwan Hot Springs Landscape

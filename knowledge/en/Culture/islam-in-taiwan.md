@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:95c297a5e630bb43'
 sourceBodyHash: 'sha256:dbceb7d9f3f49bcd'
 translatedAt: '2026-06-11T16:38:12Z'
+featured: false
 ---
 
 > **30-second overview:** Islam in Taiwan is not an imported alien culture — it is an ancient memory buried deep within the island's bloodline. From the descendants of Quanzhou "Huiding" (回丁, Muslim-ethnic settlers) who came with Zheng Chenggong in the late Ming and early Qing, to today's 260,000 Indonesian Muslim migrant workers who support Taiwan's long-term care sector and fishing industry, this faith has undergone a fantastical journey in Taiwan — from assimilation into disappearance to multicultural flowering.

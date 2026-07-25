@@ -19,6 +19,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:eb48495c8ad7ee41'
 sourceBodyHash: 'sha256:58b5b912b5042f24'
 translatedAt: '2026-05-01T12:53:58+08:00'
+featured: false
 ---
 
 > **30-second overview:** Taiwan sits at the intersection of tectonic plates; earthquakes are this island's destiny. This article begins with the locally-born legend of the "earth dragon turning over," spans from earthquake records of the Qing administration to the institutional turning point of the 921 earthquake, and explores how Taiwanese people have moved from fear toward "calmness" — and built world-class disaster resilience while the ground shook beneath them.

@@ -1,7 +1,7 @@
 ---
 title: "Taiwan's Biodiversity Hotspots"
 description: 'Exploring how Taiwan, occupying only 0.025% of global land area, nurtures over 50,000 known species in world-class biodiversity'
-date: 2026-03-20
+date: 2026-03-21
 tags:
   [
     'ecology',
@@ -15,12 +15,13 @@ difficulty: 'beginner'
 readingTime: 8
 category: 'Geography'
 featured: false
-lastVerified: 2026-03-20
+lastVerified: 2026-03-21
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
 translatedAt: '2026-04-14T12:25:09+08:00'
+lastHumanReview: true
 ---
 
 # Taiwan's Biodiversity Hotspots

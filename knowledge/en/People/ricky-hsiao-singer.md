@@ -13,12 +13,13 @@ author: 'Taiwan.md Contributors'
 date: 2026-04-19
 readingTime: 12
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
 translatedFrom: 'People/蕭煌奇.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:566f9f83e753fc69'
 sourceBodyHash: 'sha256:2a6df4f467257ee5'
 translatedAt: '2026-05-01T12:53:58+08:00'
+featured: false
 ---
 
 > Born in Banciao in 1976, Ricky Hsiao's life trajectory is one of two encounters with darkness. Congenital cataracts meant he was born completely blind; surgery at age 4 restored limited vision, but a complication of glaucoma at 15 took away the light again[^1]. Yet that "inability to see" did not lead him toward tragedy — instead it made him the most life-resilient figure in Taiwan's music world. He is not only the first person to win the Golden Melody Award for Best Taiwanese Male Singer four times, but was also a judo national athlete representing Taiwan at the Para Games.

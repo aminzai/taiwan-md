@@ -1,15 +1,15 @@
 ---
 title: 'Lin Chi-Wei: From an Internationally Awarded Physical Board Game Brand to a Software Platform for 200,000 Creators'
 description: "Lin Chi-Wei (Chi-Wei Lin, commonly known online as CW) is a Taiwanese entrepreneur. In 2014, his educational board game defeated LEGO to win a silver medal at the U.S. Parents' Choice Awards; a decade later, his startup Portaly became Taiwan's largest creator commerce platform, with 200,000 users converting influence into income. Profitable since 2025 with zero paid marketing, it grew through organic PLG (product-led growth). From traditional industries to software, then to AI, he resets and relearns each time. He has always done the same thing: helping others transform one thing into another, and openly sharing the methodology."
-date: '2026-06-17'
+date: 2026-06-17
 author: 'CW Lin (林啟維)'
 category: 'People'
 subcategory: '科技與企業'
 tags: ['Entrepreneurship', 'Portaly', 'PLG', 'AI', 'SaaS', 'Creator Economy']
-readingTime: '7'
-lastVerified: '2026-07-03'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 7
+lastVerified: 2026-07-03
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/林啟維.md'
 sourceCommitSha: 'cfaa22a5d'
 sourceContentHash: 'sha256:82817fc4c48a612b'

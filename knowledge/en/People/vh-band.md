@@ -21,7 +21,7 @@ author: 'Taiwan.md'
 featured: false
 readingTime: 12
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
 researchReport: reports/research/2026-04/VH.md
 translatedFrom: 'People/VH.md'
 sourceCommitSha: '4b6d28c5'

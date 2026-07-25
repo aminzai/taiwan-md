@@ -6,18 +6,19 @@ sourceBodyHash: 'sha256:12c31fa42e4be425'
 translatedAt: '2026-05-01T13:44:02+08:00'
 title: 'André Chiang: Taiwanese Culinary Innovator'
 description: "From Danshui Business and Industrial School to World No. 14, from an epiphany in the Seychelles to a homecoming in Taipei's Dazhi — André Chiang used his Octaphilosophy to establish a new coordinate for Taiwanese chefs on the international culinary stage."
-date: 2026-03-30
+date: 2026-07-17
 tags: ['people', 'André Chiang', 'chef', 'Michelin', 'RAW', 'cuisine', 'Taiwan']
 subcategory: 'Cuisine and Craftspeople'
 category: 'People'
-lastVerified: 2026-03-30
+lastVerified: 2026-07-18
 lastHumanReview: false
-featured: false
-readingTime: 9
+featured: true
+readingTime: 13
 image: '/article-images/people/andre-chiang-archi-2025.webp'
 imageCredit: 'archi 藝廚／凱渡廣場酒店提供'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.archipelago.com.tw/restaurant-detail/archi/'
+author: 'Taiwan.md'
 ---
 
 # André Chiang

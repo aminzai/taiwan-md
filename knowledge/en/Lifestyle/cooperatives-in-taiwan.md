@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0fc2fc46b99c9535'
 sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
 translatedAt: '2026-04-30T22:33:56+08:00'
+featured: false
 ---
 
 # School Cooperatives in Taiwan: The Vanishing Democratic Experiment Behind the Pork Bun

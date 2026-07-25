@@ -26,6 +26,8 @@ sourceCommitSha: '65a87b489'
 sourceContentHash: 'sha256:89548c331e33bc3b'
 sourceBodyHash: 'sha256:a39fc5d7615c6869'
 translatedAt: '2026-07-24T10:40:41+08:00'
+image: '/article-images/art/li-poetry-wu-sheng-2016.webp'
+imageCredit: 'Rico Shen via Wikimedia Commons'
 ---
 
 # The Li Poetry Society: A Group Forced to Forget Japanese Sustained Taiwan’s Longest-Running Chinese Poetry Journal

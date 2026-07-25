@@ -13,7 +13,7 @@ tags:
 author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12
-category: 'Society'
+category: 'Geography'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true

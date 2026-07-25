@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:1893791073a1e549'
 sourceBodyHash: 'sha256:c10dde5e8f5a2f8e'
 translatedAt: '2026-05-16T21:50:00Z'
+featured: false
 ---
 
 > **30-Second Overview:** Lee Ah-young's rise in Taiwan is not a case of sudden overnight fame but of "consistently being there." Her multi-season continuation with Fubon, her high attendance rate, and her high recognizability have transformed the Korean cheer squad presence from a trending novelty into a fixed structural element of ballpark content.

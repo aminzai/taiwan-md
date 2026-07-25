@@ -13,6 +13,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
 translatedAt: '2026-05-01T12:53:58+08:00'
+featured: false
 ---
 
 > **30-second overview:** Taiwan's hotpot market generates annual revenue in the hundreds of billions of NT dollars. It is not only a national comfort food for warming up in winter but also a dining culture suitable for all four seasons. From the "sukiyaki" of the Japanese colonial era to the diverse pot dishes that post-war immigrants brought from across China, to today's individual small hotpots and premium pot restaurants, the evolution of Taiwan hotpot reflects the island's social changes and ethnic fusion, ultimately simmering into a "Taiwanese flavor" unlike any other.

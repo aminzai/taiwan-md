@@ -1,7 +1,7 @@
 ---
 title: 'AI Enters the Classroom: 300 Agents to Catch Teachers Left Alone After Training'
 description: "In 2026, Hsiao Bi-khim placed 300 AI agents designed by approximately 80 teachers into a shared marketplace. Two different surveys in Taiwan show that while 90% of teachers have been exposed to AI, 95.6% still have learning needs. From the three-hour workshop at Dajia Elementary School, the 'ouke' (picky customer) test at Neihu High School, to the Ministry of Education's Talent Ark Project, this article asks: The tools have entered the classroom; who will catch the teachers when they return? This is a more difficult educational project after the popularization of tools."
-date: '2026-07-20'
+date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Technology'
 subcategory: 'Artificial Intelligence'
@@ -13,14 +13,16 @@ tags:
     'Digital Learning',
     'Generative AI',
   ]
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/台灣教師與AI教學.md'
 sourceCommitSha: 'd95fa9648'
 sourceContentHash: 'sha256:6a85130bd9bb91b0'
 sourceBodyHash: 'sha256:01e8abe40e264468'
 translatedAt: '2026-07-23T23:06:50+08:00'
+image: '/article-images/technology/taiwan-students-digital-learning-2019.webp'
+imageCredit: '褒忠國中 雲端網 / Wikimedia Commons'
 ---
 
 # AI Enters the Classroom: 300 Agents to Catch Teachers Left Alone After Training

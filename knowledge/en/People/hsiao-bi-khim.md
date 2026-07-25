@@ -14,6 +14,8 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
 translatedAt: 2026-05-03T23:14:05+08:00
+category: 'People'
+difficulty: 'intermediate'
 ---
 
 # Hsiao Bi-khim

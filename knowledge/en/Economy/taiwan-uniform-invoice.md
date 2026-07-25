@@ -15,8 +15,8 @@ tags:
 category: Economy
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 16
-lastVerified: 2026-05-02
+readingTime: 14
+lastVerified: 2026-07-18
 lastHumanReview: false
 translatedFrom: 'Economy/發票.md'
 sourceCommitSha: '4b6d28c5'

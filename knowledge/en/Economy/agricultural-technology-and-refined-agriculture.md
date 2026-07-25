@@ -13,10 +13,10 @@ tags:
     'Pineapple Guava',
     'Smart Agriculture',
   ]
-readingTime: '11'
-lastVerified: '2026-03-19'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 11
+lastVerified: 2026-03-19
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/農業科技與精緻農業.md'
 sourceCommitSha: '369298aba'
 sourceContentHash: 'sha256:19b72b95becb40d7'

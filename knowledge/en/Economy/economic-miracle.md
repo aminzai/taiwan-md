@@ -6,8 +6,8 @@ author: Taiwan.md
 category: Economy
 subcategory: '經濟發展'
 tags: [Economy, 台灣經濟, 中小企業, 科學園區, 半導體]
-readingTime: 10
-lastVerified: 2026-03-23
+readingTime: 15
+lastVerified: 2026-07-18
 lastHumanReview: true
 featured: false
 translatedFrom: Economy/經濟奇蹟.md

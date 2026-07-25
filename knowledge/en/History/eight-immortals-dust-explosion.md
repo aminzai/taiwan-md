@@ -1,7 +1,7 @@
 ---
 title: 'The Eight Immortals Dust Explosion: The Taiwan Wound Burned Into That Night’s Color Party'
 description: 'On June 27, 2015, a color party at Formosa Fun Coast triggered an internationally shocking dust-explosion disaster after colored powder flash-ignited. The incident, Taiwan’s deadliest mass-casualty event since the 921 earthquake, left 499 people with burn injuries and 15 dead, fundamentally reshaped Taiwan’s emergency medical system, and drove reforms to safety regulations for large-scale events.'
-date: '2026-06-16'
+date: 2026-06-16
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '社會與日常史'
@@ -14,7 +14,7 @@ tags:
     'Taiwan History',
   ]
 readingTime: 15
-lastVerified: '2026-06-16'
+lastVerified: 2026-06-16
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/八仙塵爆.md'

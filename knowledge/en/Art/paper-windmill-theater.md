@@ -1,7 +1,7 @@
 ---
 title: 'Paper Windmill Theater: The Don Quixote That Set Taiwan’s Dreams in Motion, an Artistic Long March Spanning Three Decades'
 description: 'From its theatrical reverie in 1992 to a “New Cultural Movement” that traveled across 368 townships and districts, Paper Windmill Theater has embodied the spirit of “moving when there is wind, and making its own wind when there is none,” lighting the first mile of art for Taiwan’s children. After the Bali fire and the devastation of the pandemic, founder Lee Yong-feng led the troupe through depression and debt toward rebirth, weaving Taiwan’s collective memory through the giant Rain Horse and local stories.'
-date: '2026-06-16'
+date: 2026-06-16
 author: 'Taiwan.md Contributors'
 category: 'Art'
 subcategory: '表演藝術'
@@ -17,7 +17,7 @@ tags:
     'Children’s Theater',
   ]
 readingTime: 18
-lastVerified: '2026-06-16'
+lastVerified: 2026-06-16
 lastHumanReview: false
 featured: false
 translatedFrom: 'Art/紙風車劇團.md'
