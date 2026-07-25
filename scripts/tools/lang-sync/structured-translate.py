@@ -226,6 +226,13 @@ def render_scalar(value) -> str:
         return str(value)
     if isinstance(value, _dt.date):
         return value.isoformat()
+    if isinstance(value, list):
+        # list 欄位（relatedDiary 等）逐元素跳脫成 inline flow list——
+        # 2026-07-26 前這裡 fallthrough 到 yaml_single_quote(str(list))，
+        # 產出 '[''a'', ''b'']' 這種「長得像 list 的單一字串」。不炸 YAML、
+        # 不觸發 verify 的 PASSTHROUGH 檢查（未涵蓋 relatedDiary），是會
+        # 靜默存活的型別走樣；裝甲常駐化後每次翻譯都會經過，重啟產線前必修。
+        return "[" + ", ".join(render_scalar(v) for v in value) + "]"
     return yaml_single_quote(value)
 
 
