@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T09:22:36+08:00",
-    "zhCommitHead": "7e9f670a4",
+    "lastUpdated": "2026-07-25T09:33:33+08:00",
+    "zhCommitHead": "9342c2e4b",
     "totalZh": 863,
     "activeLanguages": [
       "en",
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 863,
-        "fresh": 145,
+        "fresh": 148,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 715,
+        "missing": 712,
         "orphan": 0
       },
       "pt": {
         "total_zh": 863,
-        "fresh": 199,
+        "fresh": 201,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 654,
+        "missing": 652,
         "orphan": 0
       },
       "hi": {
         "total_zh": 863,
-        "fresh": 167,
+        "fresh": 171,
         "stale": 5,
         "metadata_stale": 1,
-        "missing": 690,
+        "missing": 686,
         "orphan": 0
       },
       "ar": {
         "total_zh": 863,
-        "fresh": 65,
+        "fresh": 66,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 798,
+        "missing": 797,
         "orphan": 0
       },
       "ru": {
         "total_zh": 863,
-        "fresh": 77,
+        "fresh": 79,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 786,
+        "missing": 784,
         "orphan": 0
       }
     },
@@ -26211,8 +26211,8 @@
           "sourceContentHash": "sha256:dacc755fc6695d56",
           "sourceBodyHash": "sha256:8ca41487dbdd4aec",
           "translatedAt": "2026-07-25T07:56:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9342c2e4",
+          "translationLastModified": "2026-07-25T09:22:36+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -30917,7 +30917,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/chinese-taipei.md",
+          "translatedFrom": "Society/中華台北.md",
+          "sourceCommitSha": "bbd8788a3",
+          "sourceContentHash": "sha256:177fea3750c80f10",
+          "sourceBodyHash": "sha256:dab437d622fd59b0",
+          "translatedAt": "2026-07-25T06:33:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -37232,7 +37243,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Nature/Taiwan Hot Springs and Geothermal Energy.md",
+          "translatedFrom": "Nature/台灣溫泉與地熱.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c950b0e6980af7aa",
+          "sourceBodyHash": "sha256:76aaf6bdf8e233fe",
+          "translatedAt": "2026-07-25T09:23:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -38202,7 +38224,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Nature/formosan-landlocked-salmon.md",
+          "translatedFrom": "Nature/櫻花鉤吻鮭.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:9283c26216174046",
+          "sourceBodyHash": "sha256:36625e315aaacf51",
+          "translatedAt": "2026-07-25T09:23:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -52568,7 +52601,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/yu-yong-he.md",
+          "translatedFrom": "People/郁永河.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4070459913f1808f",
+          "sourceBodyHash": "sha256:f14cb1a2a50dc23e",
+          "translatedAt": "2026-07-25T09:23:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -56498,7 +56542,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/steve-chen-youtube-cofounder.md",
+          "translatedFrom": "People/陳士駿.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a7528e9b7062bef0",
+          "sourceBodyHash": "sha256:9f3cbb43337753f0",
+          "translatedAt": "2026-07-25T09:23:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -63696,7 +63751,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/kao-chun-ming.md",
+          "translatedFrom": "People/高俊明.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eaeba845240b369e",
+          "sourceBodyHash": "sha256:b37aec09305a898c",
+          "translatedAt": "2026-07-25T09:23:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/kao-chun-ming.md",
@@ -64829,7 +64895,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/bamboo-tube-rice.md",
+          "translatedFrom": "Food/竹筒飯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2f969547257cfb65",
+          "sourceBodyHash": "sha256:b1f0ce92250128c2",
+          "translatedAt": "2026-07-25T09:23:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/bamboo-tube-rice.md",
@@ -65440,7 +65517,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/chiayi-turkey-rice.md",
+          "translatedFrom": "Food/嘉義火雞肉飯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:961c8a81a8f8c3f1",
+          "sourceBodyHash": "sha256:2b1f54ba6f041643",
+          "translatedAt": "2026-07-25T09:23:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/chiayi-turkey-rice.md",
@@ -66266,10 +66354,32 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-rice-cuisine-culture.md",
+          "translatedFrom": "Food/台灣米食文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0e38833f3cafaf68",
+          "sourceBodyHash": "sha256:2354ee60853945b0",
+          "translatedAt": "2026-07-25T09:23:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-rice-cuisine-culture.md",
+          "translatedFrom": "Food/台灣米食文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0e38833f3cafaf68",
+          "sourceBodyHash": "sha256:2354ee60853945b0",
+          "translatedAt": "2026-07-25T09:23:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -69391,8 +69501,8 @@
           "sourceContentHash": "sha256:7aeb090ae7f880d7",
           "sourceBodyHash": "sha256:07d9c3b482846ce9",
           "translatedAt": "2026-07-25T07:56:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9342c2e4",
+          "translationLastModified": "2026-07-25T09:22:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -70416,7 +70526,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/zongzi-rice-dumpling.md",
+          "translatedFrom": "Food/粽子.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:417f55638e009ac3",
+          "sourceBodyHash": "sha256:0a9c845f48a278d1",
+          "translatedAt": "2026-07-25T09:23:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -70553,8 +70674,8 @@
           "sourceContentHash": "sha256:547ccdf1b16e61de",
           "sourceBodyHash": "sha256:a7a3d68abd8527fd",
           "translatedAt": "2026-07-25T07:56:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9342c2e4",
+          "translationLastModified": "2026-07-25T09:22:36+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -74703,8 +74824,8 @@
           "sourceContentHash": "sha256:fc7bac7e7a555233",
           "sourceBodyHash": "sha256:6abb82a8cf5a2a95",
           "translatedAt": "2026-07-25T07:56:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9342c2e4",
+          "translationLastModified": "2026-07-25T09:22:36+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -83723,7 +83844,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/taichung-city.md",
+          "translatedFrom": "Geography/台中市.md",
+          "sourceCommitSha": "edc2ba810",
+          "sourceContentHash": "sha256:e6912f140d4ddcf3",
+          "sourceBodyHash": "sha256:3039a7c79e8554d9",
+          "translatedAt": "2026-07-25T06:33:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
