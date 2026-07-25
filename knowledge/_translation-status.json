@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T04:14:55+08:00",
-    "zhCommitHead": "40b979a61",
+    "lastUpdated": "2026-07-26T04:22:43+08:00",
+    "zhCommitHead": "db92cf25e",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 865,
-        "fresh": 718,
-        "stale": 142,
+        "fresh": 719,
+        "stale": 141,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 386,
+        "fresh": 389,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 467,
+        "missing": 464,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 237,
+        "fresh": 239,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 627,
+        "missing": 625,
         "orphan": 0
       },
       "ru": {
         "total_zh": 865,
-        "fresh": 268,
+        "fresh": 269,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 596,
+        "missing": 595,
         "orphan": 0
       }
     },
@@ -9053,7 +9053,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-agriculture-and-rural-revitalization.md",
+          "translatedFrom": "Economy/台灣農業與農村再生.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:95d473c7b6d24541",
+          "sourceBodyHash": "sha256:a996bea328f05c29",
+          "translatedAt": "2026-07-26T03:58:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -12208,7 +12219,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-disaster-medicine-system.md",
+          "translatedFrom": "Technology/台灣災難醫療體系.md",
+          "sourceCommitSha": "9c91f3657",
+          "sourceContentHash": "sha256:bdad2fe4c19ade1d",
+          "sourceBodyHash": "sha256:65d8bf2fc8ebb567",
+          "translatedAt": "2026-07-26T03:58:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -12643,7 +12665,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/tamsui-river-bridge.md",
+          "translatedFrom": "Technology/淡江大橋.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:58ac62b3c0ac9558",
+          "sourceBodyHash": "sha256:2f938b13f0ca156c",
+          "translatedAt": "2026-07-26T03:58:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/tamsui-river-bridge.md",
@@ -19289,7 +19322,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/taiwanese-theater-and-performing-arts.md",
+          "translatedFrom": "Art/台灣劇場與表演藝術.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:cddfbcb9ade43ff2",
+          "sourceBodyHash": "sha256:0f8dee8662286dcf",
+          "translatedAt": "2026-07-26T03:58:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/taiwanese-theater-and-performing-arts.md",
@@ -33565,8 +33609,8 @@
           "sourceContentHash": "sha256:31c0d75fa23d229b",
           "sourceBodyHash": "sha256:2b22c43058efac00",
           "translatedAt": "2026-07-26T03:58:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db92cf25",
+          "translationLastModified": "2026-07-26T04:14:55+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -34066,8 +34110,8 @@
           "sourceContentHash": "sha256:11472ed85277289a",
           "sourceBodyHash": "sha256:78aa4d7a1743dd44",
           "translatedAt": "2026-07-26T03:58:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db92cf25",
+          "translationLastModified": "2026-07-26T04:14:55+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -34328,8 +34372,8 @@
           "sourceContentHash": "sha256:58130043015789fc",
           "sourceBodyHash": "sha256:4ec983b4e284ca15",
           "translatedAt": "2026-07-26T03:58:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db92cf25",
+          "translationLastModified": "2026-07-26T04:14:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -40535,8 +40579,8 @@
           "sourceContentHash": "sha256:f8dc834054c6b8b9",
           "sourceBodyHash": "sha256:3d618da70d40426c",
           "translatedAt": "2026-07-26T03:58:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db92cf25",
+          "translationLastModified": "2026-07-26T04:14:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -41070,8 +41114,8 @@
           "sourceContentHash": "sha256:c950b0e6980af7aa",
           "sourceBodyHash": "sha256:76aaf6bdf8e233fe",
           "translatedAt": "2026-07-26T03:58:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db92cf25",
+          "translationLastModified": "2026-07-26T04:14:55+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -44530,8 +44574,8 @@
           "sourceContentHash": "sha256:86136985cda69b56",
           "sourceBodyHash": "sha256:481eaba369f94755",
           "translatedAt": "2026-07-26T02:07:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db92cf25",
+          "translationLastModified": "2026-07-26T04:14:55+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -44792,8 +44836,8 @@
           "sourceContentHash": "sha256:ac6c714f4ff5fb1b",
           "sourceBodyHash": "sha256:bab18d5114976850",
           "translatedAt": "2026-07-26T02:07:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db92cf25",
+          "translationLastModified": "2026-07-26T04:14:55+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -46905,8 +46949,8 @@
           "sourceContentHash": "sha256:0d8d9acd7b29d4d0",
           "sourceBodyHash": "sha256:51ae38d79a7cc954",
           "translatedAt": "2026-07-26T02:07:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "db92cf25",
+          "translationLastModified": "2026-07-26T04:14:55+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -80017,7 +80061,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-fermented-and-pickled-foods.md",
+          "translatedFrom": "Food/台灣發酵食品與醃製文化.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:c2ef664839dd9cc6",
+          "sourceBodyHash": "sha256:b693c93c53efd3dc",
+          "translatedAt": "2026-07-26T03:58:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -92670,18 +92725,16 @@
         "fr": {
           "path": "fr/Geography/taichung-city.md",
           "translatedFrom": "Geography/台中市.md",
-          "sourceCommitSha": "8edb8f96",
-          "sourceContentHash": "sha256:70bc4982eb0f5b56",
-          "sourceBodyHash": "sha256:3689cbfc4a7bdf30",
-          "translatedAt": "2026-06-16T17:13:36Z",
+          "sourceCommitSha": "edc2ba810",
+          "sourceContentHash": "sha256:e6912f140d4ddcf3",
+          "sourceBodyHash": "sha256:3039a7c79e8554d9",
+          "translatedAt": "2026-07-26T03:41:21+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/taichung-city.md",
@@ -101163,7 +101216,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-incense-making-culture-and-heritage.md",
+          "translatedFrom": "Culture/台灣製香文化與香腳原鄉.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:90f09bc6a0a80e4d",
+          "sourceBodyHash": "sha256:396be33a77ed6ba1",
+          "translatedAt": "2026-07-26T03:58:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
