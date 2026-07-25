@@ -19,7 +19,7 @@ readingTime: 11
 featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-relatedDiary: "['2026-06-19-123349-manual']"
+relatedDiary: ['2026-06-19-123349-manual']
 translatedFrom: 'About/文章如何誕生.md'
 sourceCommitSha: '984fb7892'
 sourceContentHash: 'sha256:92fcb394123e4aee'
