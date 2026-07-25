@@ -1,7 +1,7 @@
 ---
 title: 'Audrey Tang: cada una de sus decisiones célebres ha sido una forma de rechazar la etiqueta de «genio»'
 description: 'A los 8 años quedó inconsciente tras una patada de un compañero; a los 14 rechazó el ingreso garantizado a la Escuela Secundaria Municipal Jianguo de Taipéi; a los 24 salió del clóset como persona transgénero, pero se negó a ser portavoz; a los 35, su primera condición para entrar al gabinete fue «no tener oficina». El 2 de diciembre de 2025 recibió el Right Livelihood Award en Estocolmo; en el escenario no habló de «yo», sino de «nosotros».'
-date: '2026-05-16'
+date: 2026-05-16
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '教育與社會'
@@ -19,7 +19,7 @@ tags:
     'Right Livelihood Award',
   ]
 readingTime: 14
-lastVerified: '2026-05-16'
+lastVerified: 2026-05-16
 lastHumanReview: true
 featured: true
 translatedFrom: 'People/唐鳳.md'

@@ -23,6 +23,7 @@ sourceCommitSha: '73443b2a'
 sourceContentHash: 'sha256:cd1df8dc4931d5ab'
 sourceBodyHash: 'sha256:c54c3768ed377e41'
 translatedAt: '2026-06-10T16:45:00+00:00'
+difficulty: 'intermediate'
 ---
 
 **Resumen en 30 segundos: en 1986, Jen Chiang-ta, de ascendencia coreana y japonesa, pidió prestados 300.000 dólares taiwaneses para hacerse cargo de una disquería a punto de cerrar y empezó a importar a Taiwán “música que nadie quería escuchar”. Cuarenta años después, el ecosistema surgido de aquella tienda —live houses, sellos independientes, StreetVoice, Golden Indie Music Awards— llevó a una banda que vendía discos en cafeterías hasta el premio Álbum del Año en los Golden Melody Awards, y a una banda taipeiana que canta íntegramente en inglés hasta Coachella. Cuarenta años de música independiente taiwanesa son una carrera de relevos sin meta final: cada tramo se corre sin aliento, cada tramo parece a punto de derrumbarse, pero el testigo nunca cae.**

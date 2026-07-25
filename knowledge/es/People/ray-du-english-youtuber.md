@@ -15,12 +15,13 @@ subcategory: '數位與媒體'
 author: 'Taiwan.md'
 readingTime: 9
 lastVerified: 2026-04-20
-lastHumanReview: 2026-04-20
+lastHumanReview: true
 translatedFrom: People/阿滴.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
 sourceBodyHash: 'sha256:5621e86f4a6c80eb'
 translatedAt: 2026-05-01T22:19:10+08:00
+featured: false
 ---
 
 > **Resumen en 30 segundos:** En 2020, el YouTuber Ray Du (Dù Shěngruì) lanzó la campaña de financiamiento colectivo "ThisAttackComesFromTaiwan", alcanzando su meta de 4 millones en apenas unas horas y recaudando finalmente cerca de 19 millones para publicar un anuncio a página completa en _The New York Times_, proclamando al mundo: "Taiwan Can Help". Al año siguiente, hizo público su lucha contra la depresión durante casi un año y cofundó, junto con Zhìqí Qīqī y otros, la Asociación Taiwanesa de Creadores Audiovisuales de Nuevos Medios, asumiendo la presidencia y fomentando un ecosistema de apoyo mutuo entre creadores. Desde su rechazo al inglés como estudiante expatriado en Singapur hasta convertirse en el "alcalde del barrio" de YouTube en Taiwán, la historia de Ray Du no es solo una transformación personal, sino un reflejo real de cómo los nuevos medios en Taiwán pasaron de la creación individual a un modelo de crecimiento colectivo.

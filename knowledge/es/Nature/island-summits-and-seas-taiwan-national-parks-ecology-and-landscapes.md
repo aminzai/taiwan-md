@@ -1,7 +1,7 @@
 ---
 title: 'Cumbres insulares entre montañas y mar: ecología y paisajes de los parques nacionales de Taiwán'
 description: 'Explore los ecosistemas únicos y el valor de conservación de los nueve parques nacionales de Taiwán, desde las costas subtropicales hasta las líneas de nieve de alta montaña, abarcando un paisaje completo.'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Nature'
 subcategory: '國家公園與步道'
@@ -13,8 +13,8 @@ tags:
     'Biodiversidad',
     'Protección ambiental',
   ]
-readingTime: '12'
-lastVerified: '2026-03-19'
+readingTime: 12
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Nature/台灣國家公園.md'
@@ -22,6 +22,7 @@ sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:c51eb1a165d6a2f5'
 sourceBodyHash: 'sha256:99620fa1348fdcfe'
 translatedAt: '2026-05-15T15:39:40+08:00'
+difficulty: 'intermediate'
 ---
 
 # Cumbres insulares entre montañas y mar: ecología y paisajes de los parques nacionales de Taiwán

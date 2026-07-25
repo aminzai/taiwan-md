@@ -5,7 +5,14 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '媒體與言論'
-tags: ['Medios de comunicación', 'Libertad de prensa', 'Democratización', 'Transformación digital', 'Alfabetización mediática']
+tags:
+  [
+    'Medios de comunicación',
+    'Libertad de prensa',
+    'Democratización',
+    'Transformación digital',
+    'Alfabetización mediática',
+  ]
 readingTime: 15
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +22,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:2b07b58b99abcb36'
 sourceBodyHash: 'sha256:9e2facc3bed645dd'
 translatedAt: '2026-05-17T05:34:54+08:00'
+difficulty: 'intermediate'
 ---
 
 # Medios de comunicación y libertad de prensa en Taiwán
@@ -41,11 +49,11 @@ La historia de los medios en Taiwán es una versión comprimida de la democratiz
 
 ### Mecanismos de control mediático
 
-El control mediático durante la ley marcial se centró en la "prohibición de periódicos": desde 1951 se dejaron de emitir nuevas licencias de periódicos, y los existentes — *Central Daily News* (órgano del Kuomintang), *China Times* y *United Daily News*— formaron el panorama de los "tres grandes periódicos". El Cuartel General de la Policía Militar ejercía un sistema de censura previa sobre el contenido informativo. En televisión, tres cadenas monopolizaban el mercado: TTV (1962, gobierno provincial), CTV (1969, Kuomintang) y CTS (1971, fuerzas armadas), cada una bajo la influencia de distintas facciones del partido, el gobierno o el ejército; el noticiero de las nueve emitía de forma unificada las políticas gubernamentales. En radio, estaciones oficiales como Cheng Sheng, la Radio de China y la Radio Militar ocupaban una posición dominante, con asignación de frecuencias y contenido estrictamente regulados.
+El control mediático durante la ley marcial se centró en la "prohibición de periódicos": desde 1951 se dejaron de emitir nuevas licencias de periódicos, y los existentes — _Central Daily News_ (órgano del Kuomintang), _China Times_ y _United Daily News_— formaron el panorama de los "tres grandes periódicos". El Cuartel General de la Policía Militar ejercía un sistema de censura previa sobre el contenido informativo. En televisión, tres cadenas monopolizaban el mercado: TTV (1962, gobierno provincial), CTV (1969, Kuomintang) y CTS (1971, fuerzas armadas), cada una bajo la influencia de distintas facciones del partido, el gobierno o el ejército; el noticiero de las nueve emitía de forma unificada las políticas gubernamentales. En radio, estaciones oficiales como Cheng Sheng, la Radio de China y la Radio Militar ocupaban una posición dominante, con asignación de frecuencias y contenido estrictamente regulados.
 
 ### Función asignada a los medios
 
-Bajo el sistema mediático del Estado-partido, la función de los medios se definía claramente como: difundir la ideología anticomunista y de recuperación de China, y promover los logros de las políticas gubernamentales. Sin embargo, la función de entretenimiento era igualmente relevante: la popularidad de la ópera taiwanesa (*gezaixi*) y el teatro de marionetas (*budaixi*) en televisión, el éxito de las series románticas de Qiong Yao y la cohesión generada por las retransmisiones deportivas permitieron que, en las grietas del control autoritario, la sociedad taiwanesa preservara la vitalidad de su cultura popular.
+Bajo el sistema mediático del Estado-partido, la función de los medios se definía claramente como: difundir la ideología anticomunista y de recuperación de China, y promover los logros de las políticas gubernamentales. Sin embargo, la función de entretenimiento era igualmente relevante: la popularidad de la ópera taiwanesa (_gezaixi_) y el teatro de marionetas (_budaixi_) en televisión, el éxito de las series románticas de Qiong Yao y la cohesión generada por las retransmisiones deportivas permitieron que, en las grietas del control autoritario, la sociedad taiwanesa preservara la vitalidad de su cultura popular.
 
 Este sistema de control funcionó durante casi cuarenta años hasta el levantamiento de la ley marcial en 1987, moldeando la experiencia mediática de generaciones enteras de taiwaneses.
 
@@ -53,7 +61,7 @@ Este sistema de control funcionó durante casi cuarenta años hasta el levantami
 
 ### Abolición de la prohibición de periódicos (1988)
 
-El 1 de enero de 1988 se abolió oficialmente la prohibición de periódicos, inaugurando una era de guerra en la prensa escrita.[^2] Nuevos periódicos como *Liberty Times* (antiguo *Tzu Chiang Daily*), *Min Sheng Pao* y *Taiwan Daily* se fundaron o expandieron sucesivamente; cada uno empleó tácticas de distribución gratuita para captar lectores, y la competencia por la tecnología de impresión a color impulsó una revolución visual en el diseño de páginas. Las posturas políticas de los medios se polarizaron rápidamente en este periodo: *Liberty Times* se inclinó hacia la independencia, mientras que *China Times* y *United Daily News* se orientaron hacia la unificación, reflejando la realidad de la pluralización política tras el levantamiento de la ley marcial.
+El 1 de enero de 1988 se abolió oficialmente la prohibición de periódicos, inaugurando una era de guerra en la prensa escrita.[^2] Nuevos periódicos como _Liberty Times_ (antiguo _Tzu Chiang Daily_), _Min Sheng Pao_ y _Taiwan Daily_ se fundaron o expandieron sucesivamente; cada uno empleó tácticas de distribución gratuita para captar lectores, y la competencia por la tecnología de impresión a color impulsó una revolución visual en el diseño de páginas. Las posturas políticas de los medios se polarizaron rápidamente en este periodo: _Liberty Times_ se inclinó hacia la independencia, mientras que _China Times_ y _United Daily News_ se orientaron hacia la unificación, reflejando la realidad de la pluralización política tras el levantamiento de la ley marcial.
 
 ### Desmilitarización televisiva y apertura de la televisión por cable
 
@@ -65,29 +73,29 @@ En apenas una década tras la abolición de la prohibición de periódicos, Taiw
 
 ### Reconfiguración de la prensa escrita
 
-En 2003, el diario *Apple Daily* del grupo Next Media de Hong Kong llegó a Taiwán, subvirtiendo el ecosistema periodístico con sus portadas sensacionalistas y la cultura del *paparazzi*, escalando rápidamente hasta convertirse en el periódico de mayor tirada. Así se configuró el panorama de los cuatro grandes periódicos: *Apple Daily* (mayor tirada), *Liberty Times* (influencia política de tendencia independentista), *China Times* (tendencia unionista) y *United Daily News* (centro-derecha unionista). Este panorama se mantuvo hasta 2021, cuando *Apple Daily* dejó de publicarse.
+En 2003, el diario _Apple Daily_ del grupo Next Media de Hong Kong llegó a Taiwán, subvirtiendo el ecosistema periodístico con sus portadas sensacionalistas y la cultura del _paparazzi_, escalando rápidamente hasta convertirse en el periódico de mayor tirada. Así se configuró el panorama de los cuatro grandes periódicos: _Apple Daily_ (mayor tirada), _Liberty Times_ (influencia política de tendencia independentista), _China Times_ (tendencia unionista) y _United Daily News_ (centro-derecha unionista). Este panorama se mantuvo hasta 2021, cuando _Apple Daily_ dejó de publicarse.
 
 ### Competencia en televisión
 
-Los canales de noticias se multiplicaron rápidamente: SET, ETTV, TVBS, CTi, Era Television y FTV competían por atraer audiencia con programas de debate político. Espacios como *2100 All People Talk* (TVBS), *News Hackers* (SET) y *Boss Come Talk* (FTV) crearon una singular "culture de comentaristas" taiwanesa: analistas con marcadas posturas políticas ocupaban las pantallas cada noche, influyendo profundamente en el ecosistema de debate político en Taiwán.
+Los canales de noticias se multiplicaron rápidamente: SET, ETTV, TVBS, CTi, Era Television y FTV competían por atraer audiencia con programas de debate político. Espacios como _2100 All People Talk_ (TVBS), _News Hackers_ (SET) y _Boss Come Talk_ (FTV) crearon una singular "culture de comentaristas" taiwanesa: analistas con marcadas posturas políticas ocupaban las pantallas cada noche, influyendo profundamente en el ecosistema de debate político en Taiwán.
 
 ### Surgen los excesos mediáticos
 
-El marketing de producto integrado (*product placement*) se convirtió en un problema estructural de la época: los presupuestos gubernamentales compraban coberturas mediáticas, difuminando la línea entre noticias y publicidad y erosionando la credibilidad de los medios. La clara división entre medios pro-azules y pro-verdes, junto con la cobertura selectiva, aceleró la polarización social.
+El marketing de producto integrado (_product placement_) se convirtió en un problema estructural de la época: los presupuestos gubernamentales compraban coberturas mediáticas, difuminando la línea entre noticias y publicidad y erosionando la credibilidad de los medios. La clara división entre medios pro-azules y pro-verdes, junto con la cobertura selectiva, aceleró la polarización social.
 
 ## La era de los medios digitales (2010-presente)
 
 ### Auge de los medios en línea
 
-En la década de 2010 surgieron medios puramente digitales que llenaron los vacíos dejados por los medios tradicionales. *ETtoday* (2011) creció rápidamente orientado al *clickbait*; *Storm Media* (2014) apostó por reportajes en profundidad; *The Reporter* (2015) ofreció periodismo de investigación independiente bajo un modelo sin fines de lucro[^5]; *Up Media* (2016) se especializó en política y economía. Facebook y YouTube se convirtieron en los principales canales de difusión de noticias, la influencia de los *influencers* y líderes de opinión superó gradualmente a la de los periodistas tradicionales, y la tirada de los periódicos impresos siguió en descenso.
+En la década de 2010 surgieron medios puramente digitales que llenaron los vacíos dejados por los medios tradicionales. _ETtoday_ (2011) creció rápidamente orientado al _clickbait_; _Storm Media_ (2014) apostó por reportajes en profundidad; _The Reporter_ (2015) ofreció periodismo de investigación independiente bajo un modelo sin fines de lucro[^5]; _Up Media_ (2016) se especializó en política y economía. Facebook y YouTube se convirtieron en los principales canales de difusión de noticias, la influencia de los _influencers_ y líderes de opinión superó gradualmente a la de los periodistas tradicionales, y la tirada de los periódicos impresos siguió en descenso.
 
 ### Desinformación y alfabetización mediática
 
 Durante las elecciones de 2018, la desinformación se propagó masivamente a través de LINE y Facebook, y las acusaciones de guerra informativa procedentes de China continental salieron a la luz. El Centro de Verificación de Hechos de Taiwán se fundó en 2018[^3], y junto con plataformas como MyGoPen y Cofacts estableció mecanismos de verificación. El Ministerio de Educación incorporó simultáneamente la alfabetización mediática en el currículo escolar, intentando desarrollar la capacidad de discernimiento informativo de los ciudadanos desde el ámbito educativo.
 
-### El cese de *Apple Daily* (2021)
+### El cese de _Apple Daily_ (2021)
 
-En mayo de 2021, Next Media de Hong Kong cesó sus operaciones debido a las sanciones de la Ley de Seguridad Nacional. La edición taiwanesa, afectada por la doble presión de la caída de ingresos publicitarios y el impacto de la pandemia, anunció su cese en mayo del mismo año. Los cuatro grandes periódicos quedaron reducidos a tres, el mercado de noticias de entretenimiento se redistribuyó y la cultura del *paparazzi* entró en declive. Este episodio también puso de manifiesto la vulnerabilidad de la prensa escrita tradicional en la era digital y el riesgo potencial de la concentración de la propiedad de los medios sobre el mercado informativo.
+En mayo de 2021, Next Media de Hong Kong cesó sus operaciones debido a las sanciones de la Ley de Seguridad Nacional. La edición taiwanesa, afectada por la doble presión de la caída de ingresos publicitarios y el impacto de la pandemia, anunció su cese en mayo del mismo año. Los cuatro grandes periódicos quedaron reducidos a tres, el mercado de noticias de entretenimiento se redistribuyó y la cultura del _paparazzi_ entró en declive. Este episodio también puso de manifiesto la vulnerabilidad de la prensa escrita tradicional en la era digital y el riesgo potencial de la concentración de la propiedad de los medios sobre el mercado informativo.
 
 ## Características del entorno mediático actual
 
@@ -97,7 +105,7 @@ En el Índial Mundial de Libertad de Prensa 2024 de Reporteros Sin Fronteras, Ta
 
 ### Estructura de propiedad de los medios
 
-Los principales medios taiwaneses operan bajo modelos empresariales de carácter conglomerado. Want Want China Times Media Group (Tsai Eng-meng), United Daily News Group (fundado por la familia Wang Ti-wu) y Liberty Times (familia Lin Rong-san) representan distintos bloques mediáticos con diferentes orientaciones políticas: *Liberty Times*, FTV y SET se inclinan hacia el bando verde (independentista); *China Times*, *United Daily News* y CTi se inclinan hacia el bando azul (unionista). La inversión de figuras políticas en medios tampoco es infrecuente. En el ámbito de los medios públicos, la Fundación de Televisión Pública, CTS (integrada en el grupo público en 2007), así como la Televisión Hakka y la Televisión Indígena, ofrecen una voz alternativa a la de los medios comerciales.
+Los principales medios taiwaneses operan bajo modelos empresariales de carácter conglomerado. Want Want China Times Media Group (Tsai Eng-meng), United Daily News Group (fundado por la familia Wang Ti-wu) y Liberty Times (familia Lin Rong-san) representan distintos bloques mediáticos con diferentes orientaciones políticas: _Liberty Times_, FTV y SET se inclinan hacia el bando verde (independentista); _China Times_, _United Daily News_ y CTi se inclinan hacia el bando azul (unionista). La inversión de figuras políticas en medios tampoco es infrecuente. En el ámbito de los medios públicos, la Fundación de Televisión Pública, CTS (integrada en el grupo público en 2007), así como la Televisión Hakka y la Televisión Indígena, ofrecen una voz alternativa a la de los medios comerciales.
 
 ### Crisis de ingresos mediáticos
 
@@ -125,7 +133,7 @@ Los medios tradicionales de Taiwán enfrentan una triple crisis estructural. Los
 
 ### Nuevas oportunidades
 
-Por otro lado, el ecosistema mediático taiwanés también presenta nuevas posibilidades. *The Reporter*, bajo su modelo sin fines de lucro, ha obtenido reconocimiento en premios internacionales, demostrando que el periodismo en profundidad tiene mercado en Taiwán. La plataforma de periodismo ciudadano PeoPo y el auge de los programas de noticias en podcast han abierto canales de debate público fuera de los medios tradicionales. La redacción asistida por inteligencia artificial y la visualización de periodismo de datos también se están implementando de forma experimental en algunos medios.
+Por otro lado, el ecosistema mediático taiwanés también presenta nuevas posibilidades. _The Reporter_, bajo su modelo sin fines de lucro, ha obtenido reconocimiento en premios internacionales, demostrando que el periodismo en profundidad tiene mercado en Taiwán. La plataforma de periodismo ciudadano PeoPo y el auge de los programas de noticias en podcast han abierto canales de debate público fuera de los medios tradicionales. La redacción asistida por inteligencia artificial y la visualización de periodismo de datos también se están implementando de forma experimental en algunos medios.
 
 ### Direcciones propuestas de política
 
@@ -134,16 +142,20 @@ Las direcciones de política sugeridas de forma generalizada por la industria y 
 Los medios de comunicación taiwaneses han pasado del control autoritario a la competencia libre, para enfrentar ahora los desafíos de la era digital. Este proceso refleja la complejidad de la profundización democrática. Cómo garantizar la calidad de la información y la sostenibilidad de los medios al mismo tiempo que se protege la libertad de prensa es un tema importante que la sociedad taiwanesa sigue afrontando.
 
 [^1]: Reporteros Sin Fronteras (RSF), «Índial Mundial de Libertad de Prensa 2024 — Taiwán», https://rsf.org/en/country/taiwan
+
 [^2]: Ministerio de Cultura, «Abolición de la prohibición de periódicos y diversificación mediática», https://nccwp.moc.gov.tw/home/zh-tw/white_paper
+
 [^3]: Centro de Verificación de Hechos de Taiwán, https://tfc-taiwan.org.tw/
+
 [^4]: Comisión Nacional de Comunicaciones (NCC), https://www.ncc.gov.tw/
+
 [^5]: The Reporter, https://www.twreporter.org/
 
 ## Referencias
 
-- [Comisión Nacional de Comunicaciones](https://www.ncc.gov.tw/), *[Informe sobre el desarrollo de la industria mediática en Taiwán](https://commsurvey.ncc.gov.tw/)*, 2025
-- [Reporteros Sin Fronteras](https://rsf.org/en/country/taiwan), *Índial Mundial de Libertad de Prensa 2024*, 2024
-- Consejo de Autorregulación de Medios de la República de China, *Informe de autorregulación mediática*, 2024
-- [Centro de Verificación de Hechos de Taiwán](https://tfc-taiwan.org.tw/), *Informe de análisis del estado actual de la desinformación*, 2025
-- [Departamento de Periodismo de la Universidad Nacional Chengchi](https://jschool.nccu.edu.tw/), *Encuesta sobre el entorno mediático en Taiwán*, 2024
-- [Ministerio de Cultura](https://nccwp.moc.gov.tw/home/zh-tw/white_paper), *Libro blanco de política para la industria mediática*, 2023
+- [Comisión Nacional de Comunicaciones](https://www.ncc.gov.tw/), _[Informe sobre el desarrollo de la industria mediática en Taiwán](https://commsurvey.ncc.gov.tw/)_, 2025
+- [Reporteros Sin Fronteras](https://rsf.org/en/country/taiwan), _Índial Mundial de Libertad de Prensa 2024_, 2024
+- Consejo de Autorregulación de Medios de la República de China, _Informe de autorregulación mediática_, 2024
+- [Centro de Verificación de Hechos de Taiwán](https://tfc-taiwan.org.tw/), _Informe de análisis del estado actual de la desinformación_, 2025
+- [Departamento de Periodismo de la Universidad Nacional Chengchi](https://jschool.nccu.edu.tw/), _Encuesta sobre el entorno mediático en Taiwán_, 2024
+- [Ministerio de Cultura](https://nccwp.moc.gov.tw/home/zh-tw/white_paper), _Libro blanco de política para la industria mediática_, 2023

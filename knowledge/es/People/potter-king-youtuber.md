@@ -1,7 +1,7 @@
 ---
 title: 'Potter King — De la diversión de “coquetear” a cazador “rosa”, un jugador digital que lucha entre la ley y la soberanía'
 description: 'La evolución de la carrera de Potter King (Chen Chia‑chin) registra cómo los creadores de Taiwán pasaron de ser cosechadores de beneficios comerciales a ambos lados del estrecho a defensores de la soberanía digital, revelando la complejidad legal, de propiedad y financiera que envuelve a los creadores con el sistema capitalista.'
-date: '2026-04-20'
+date: 2026-04-20
 category: 'People'
 subcategory: '數位與媒體'
 tags:
@@ -12,7 +12,7 @@ tags:
   - '法律博弈'
 author: 'Taiwan.md'
 featured: false
-lastVerified: '2026-01-01'
+lastVerified: 2026-01-01
 lastHumanReview: true
 translatedFrom: 'People/波特王.md'
 sourceCommitSha: '4b6d28c54'

@@ -1,9 +1,9 @@
 ---
 title: 'Mascotas: de la obsesión por el oso negro a la redención mediante juegos de palabras'
 description: 'En 2013 nació "OhBear", inaugurando la era de las mascotas en Taiwán. Desde la proliferación de osos negros por toda la isla, el "Chico de la tilapia" —tan feo que apareció en un programa de entrevistas estadounidense—, hasta el "Oso de la Fortuna" con ingresos anuales de cientos de millones y "Bravo", que compareció ante el parlamento municipal, las mascotas taiwanesas han evolucionado de herramientas de propaganda gubernamental a símbolos culturales con alma y resonancia social.'
-date: '2026-04-21'
+date: 2026-04-21
 author: 'Taiwan.md Contributors'
-category: 'Culture'
+category: 'Lifestyle'
 tags:
   [
     'mascotas',
@@ -17,14 +17,15 @@ tags:
     'Hongfu',
     'Concejo Municipal de Taipéi',
   ]
-readingTime: '15'
-lastVerified: '2026-04-21'
+readingTime: 15
+lastVerified: 2026-04-21
 lastHumanReview: false
 translatedFrom: 'Lifestyle/吉祥物.md'
 sourceCommitSha: '88b3abd8'
 sourceContentHash: 'sha256:7453fc91529be112'
 sourceBodyHash: 'sha256:0280d05fe808358b'
 translatedAt: '2026-05-01T20:54:23+08:00'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** Taiwán cayó en una obsesión colectiva por los osos negros, llegando a tener docenas de mascotas con apariencia prácticamente idéntica. Sin embargo, con el "Chico de la tilapia" —tan feo que llegó a un programa de entrevistas en Estados Unidos—, el resurgimiento de la tierna "Paloma Popo" de Chunghwa Post, y el milagro comercial del "Oso de la Fortuna" con ingresos anuales de cientos de millones, las mascotas taiwanesas están experimentando una transformación cualitativa: de "herramientas adorables" a "marcas con personalidad".

@@ -16,12 +16,16 @@ tags:
     '¡Hola! ¿Puedo Preguntar?',
     'Estadía en Tokio',
   ]
-lastHumanReview: '2026-04-20'
+lastHumanReview: true
 translatedFrom: 'People/陳子見.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b4ed377dcae75954'
 sourceBodyHash: 'sha256:5225e3163bb10fe2'
 translatedAt: '2026-05-01T20:54:23+08:00'
+author: 'Taiwan.md'
+date: 2026-04-20
+featured: false
+lastVerified: 2026-01-01
 ---
 
 ## Panorama en 30 segundos

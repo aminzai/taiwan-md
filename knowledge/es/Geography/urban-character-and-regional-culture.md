@@ -1,20 +1,28 @@
 ---
-title: "Características urbanas y cultura regional"
-description: "Desde la metrópolis internacional de Taipéi hasta el aire de antigua capital de Tainan: cómo las ciudades de Taiwán moldean identidades locales distintivas"
+title: 'Características urbanas y cultura regional'
+description: 'Desde la metrópolis internacional de Taipéi hasta el aire de antigua capital de Tainan: cómo las ciudades de Taiwán moldean identidades locales distintivas'
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Geography"
-subcategory: "城市與人文地理"
-tags: ["ciudades", "cultura regional", "características locales", "desarrollo urbano", "geografía cultural"]
+author: 'Taiwan.md'
+category: 'Geography'
+subcategory: '城市與人文地理'
+tags:
+  [
+    'ciudades',
+    'cultura regional',
+    'características locales',
+    'desarrollo urbano',
+    'geografía cultural',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Geography/城市特色與區域文化.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:9d646e504e06dd7e"
-sourceBodyHash: "sha256:3ece4cc0080f2397"
-translatedAt: "2026-05-20T05:08:32+08:00"
+translatedFrom: 'Geography/城市特色與區域文化.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:9d646e504e06dd7e'
+sourceBodyHash: 'sha256:3ece4cc0080f2397'
+translatedAt: '2026-05-20T05:08:32+08:00'
+difficulty: 'beginner'
 ---
 
 # Características urbanas y cultura regional
@@ -67,7 +75,7 @@ Los habitantes de Taipéi suelen tener una perspectiva internacional más marcad
 
 La ciudad de Nuevo Taipéi rodea a Taipéi e incluye paisajes diversos, como zonas montañosas, costas, áreas industriales y barrios residenciales. Es una parte fundamental del área metropolitana de Taipéi.
 
-Nuevo Taipéi tiene una extensión amplia y cada distrito posee un perfil propio. La calle antigua de Tamsui y el Muelle del Pescador, en la desembocadura del río Tamsui, son de los puntos turísticos de fin de semana más populares del norte de Taiwán. Jiufen y Jinguashi, asentamientos de montaña vinculados a la minería de oro durante la época japonesa, suelen ser asociados por visitantes extranjeros con escenarios de *El viaje de Chihiro*. Yingge es famosa por su artesanía cerámica; el templo Zushi de Sanxia destaca por sus tallas minuciosas; y Xindian-Wulai conserva la cultura termal del pueblo Atayal.
+Nuevo Taipéi tiene una extensión amplia y cada distrito posee un perfil propio. La calle antigua de Tamsui y el Muelle del Pescador, en la desembocadura del río Tamsui, son de los puntos turísticos de fin de semana más populares del norte de Taiwán. Jiufen y Jinguashi, asentamientos de montaña vinculados a la minería de oro durante la época japonesa, suelen ser asociados por visitantes extranjeros con escenarios de _El viaje de Chihiro_. Yingge es famosa por su artesanía cerámica; el templo Zushi de Sanxia destaca por sus tallas minuciosas; y Xindian-Wulai conserva la cultura termal del pueblo Atayal.
 
 ### Ciudad de Taoyuan: puerta aérea
 
@@ -302,7 +310,11 @@ Esta diversidad urbana constituye uno de los activos culturales más singulares 
 ## Referencias
 
 [^1]: Departamento de Registro de Hogares del Ministerio del Interior, [sistema de consulta de estadísticas poblacionales](https://www.ris.gov.tw/).
+
 [^2]: Universidad Nacional Yang Ming Chiao Tung, [sitio web oficial](https://www.nycu.edu.tw/), con historia institucional e introducción a la universidad.
+
 [^3]: Administración de Turismo, Ministerio de Transporte y Comunicaciones, [estadísticas de turismo urbano](https://admin.taiwan.net.tw/).
-[^4]: Lin Shu-rong et al., [*Releer Taiwán: una mirada antropológica*](https://www.books.com.tw/products/0010659492).
+
+[^4]: Lin Shu-rong et al., [_Releer Taiwán: una mirada antropológica_](https://www.books.com.tw/products/0010659492).
+
 [^5]: Oficinas culturales de distintas ciudades, [publicaciones oficiales —con la Oficina de Cultura de la ciudad de Tainan como ejemplo—](https://culture.tainan.gov.tw/).

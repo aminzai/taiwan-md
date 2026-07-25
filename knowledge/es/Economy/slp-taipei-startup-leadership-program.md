@@ -1,7 +1,7 @@
 ---
 title: 'SLP Taipei Startup Leadership Program: Una clase que comenzó con 6.000 y, aunque subió a 58.000, sigue siendo difícil de conseguir'
 description: 'En 2012, un grupo de emprendedores en Taipéi pagaron de su bolsillo para impartir un curso. La cuota inicial fue de 6.000 dólares taiwaneses, menos de 100 dólares por hora. Catorce años después, la misma iniciativa se ha convertido en una comunidad institucionalizada donde más de cien personas compiten por 30 cupos y la cuota se acerca a los 60.000, pero su sitio web siempre afirma que «todo se destina a los estudiantes». Esta es una historia de mutuo apoyo en el ecosistema de startups de Taiwán, sostenida por relaciones personales y pragmatismo.'
-date: '2026-07-05'
+date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: 'Economía de las startups'
@@ -15,9 +15,9 @@ tags:
     'SLP',
     'aceleradoras',
   ]
-lastVerified: '2026-07-05'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-05
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/SLP台北創業領導計畫.md'
 sourceCommitSha: 'cfaa22a5d'
 sourceContentHash: 'sha256:68e3e5788b724298'

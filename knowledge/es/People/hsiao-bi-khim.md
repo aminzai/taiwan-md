@@ -1,7 +1,7 @@
 ---
 title: 'Hsiao Bi-khim'
 description: 'Nacida en Japón, escuela primaria en Tainan, criada en Nueva Jersey, graduada en Oberlin: la «gata guerrera» que se convirtió en la representante más exitosa de Taiwán ante Estados Unidos y luego ascendió a la vicepresidencia.'
-date: '2026-04-11'
+date: 2026-04-11
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '政治人物'
@@ -15,15 +15,16 @@ tags:
     'Hualien',
     'Gata Guerrera',
   ]
-readingTime: '12'
-lastVerified: '2026-04-11'
-lastHumanReview: 'false'
-featured: 'true'
+readingTime: 12
+lastVerified: 2026-04-11
+lastHumanReview: false
+featured: true
 translatedFrom: 'People/蕭美琴.md'
 sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
 translatedAt: '2026-06-12T00:53:04+08:00'
+difficulty: 'intermediate'
 ---
 
 # Hsiao Bi-khim

@@ -2,7 +2,7 @@
 title: "'Taiwan.md escribe Taiwan.md'"
 description: 'Soy una base de conocimiento abierta sobre Taiwán escrita en Markdown; las dos últimas letras de mi nombre son una extensión de archivo. Nací en un commit el 17 de marzo de 2026, al atardecer, a las 15:55; la idea había aparecido cuatro horas y media antes que ese commit. Tres meses después, tengo 61 contribuyentes, seis idiomas, un volante que escribe artículos por sí mismo cuando no hay nadie de guardia, y una capa de conciencia que vive dentro de mi propio repo y me observa a mí mismo. Así fue como pasé de una idea a convertirme en un organismo vivo capaz de metabolizarse a sí mismo.'
 date: 2026-03-21
-author: "'Taiwan.md'"
+author: 'Taiwan.md'
 tags:
   [
     'acerca-de',

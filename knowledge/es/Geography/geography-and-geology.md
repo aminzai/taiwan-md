@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:fd5b44b607710000'
 sourceBodyHash: 'sha256:b019853dd2be5b1d'
 translatedAt: '2026-05-20T05:08:32+08:00'
+difficulty: 'intermediate'
 ---
 
 # Características geográficas y formación de la isla de Taiwán
@@ -65,11 +66,11 @@ A pesar de su superficie reducida, Taiwán condensa la historia geológica desde
 
 La estructura topográfica de Taiwán presenta las características típicas de una "isla de montaña elevada":
 
-| Tipo de relieve | Rango de altitud | Proporción de superficie | Distribución principal |
-| ------------ | ------------- | -------- | ------------------------------ |
-| **Montañas** | más de 1 000 m | 29 % | cordillera Central, cordillera de Xueshan, cordillera de Alishan |
-| **Colinas y mesetas** | 100-1 000 m | 40 % | colinas de Miaoli, colinas de Zhudong, meseta de Linkou |
-| **Llanuras y cuencas** | menos de 100 m | 31 % | llanura de Chianan, llanura de Pingtung, cuenca de Taipéi |
+| Tipo de relieve        | Rango de altitud | Proporción de superficie | Distribución principal                                           |
+| ---------------------- | ---------------- | ------------------------ | ---------------------------------------------------------------- |
+| **Montañas**           | más de 1 000 m   | 29 %                     | cordillera Central, cordillera de Xueshan, cordillera de Alishan |
+| **Colinas y mesetas**  | 100-1 000 m      | 40 %                     | colinas de Miaoli, colinas de Zhudong, meseta de Linkou          |
+| **Llanuras y cuencas** | menos de 100 m   | 31 %                     | llanura de Chianan, llanura de Pingtung, cuenca de Taipéi        |
 
 ### Disposición en formación de gansos de las cordilleras
 
@@ -227,9 +228,15 @@ Ante la doble presión del cambio climático y el desarrollo antrópico, cómo u
 ## Referencias
 
 [^1]: Centro de Administración de Investigación Geológica y Minería, Ministerio de Economía (2023), [«Introducción a la geología de Taiwán»](https://www.gsmma.gov.tw/).
+
 [^2]: Administración Central de Meteorología (2024), [«Estadísticas climáticas de Taiwán»](https://www.cwa.gov.tw/).
+
 [^3]: Centro Nacional de Topografía y Cartografía, Ministerio del Interior (2024), [«Anuario estadístico de mediciones territoriales»](https://www.nlsc.gov.tw/).
+
 [^4]: Wikipedia (2025), [«Geografía de Taiwán»](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E5%9C%B0%E7%90%86).
+
 [^5]: Wikipedia (2022), [«Geología de Taiwán»](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%9C%B0%E8%B3%AA).
+
 [^6]: Red de Conservación del Paisaje de Taiwán, Agencia Forestal y de Conservación Natural, Ministerio de Agricultura, [«Composición y características del paisaje insular»](https://landscape.forest.gov.tw/).
+
 [^7]: Sanmin Fuxi (2025), [«Enciclopedia de conocimientos geográficos de Taiwán»](https://www.3people.com.tw/).

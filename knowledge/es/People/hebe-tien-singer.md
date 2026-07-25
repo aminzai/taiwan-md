@@ -1,7 +1,7 @@
 ---
 title: 'Hebe Tien: la cantante que fue despojándose del sistema idol tras las ventas millonarias de S.H.E'
 description: 'En septiembre de 2010, cuando Hebe Tien lanzó su primer álbum en solitario, To Hebe, el eslogan del cartel decía "superdespués de diez años desde su debut": para entonces, S.H.E ya había vendido más de diez millones de discos. Once años después, en el escenario de la 32.ª edición de los Premios Golden Melody, le gritó a su madre: "Mamá, no desperdicié el agua de la ducha, gané un Golden Melody". Desde la pequeña villa hakka de Hsinchu hasta el escenario del Taipei Arena, esta idol cultivada por HIM International Music pasó veinticinco años despojándose voluntariamente de todo lo que la industria le había dado: patrocinios, programas de variedades, el mercado chino y la etiqueta de "reina indie femenina".'
-date: '2026-04-26'
+date: 2026-04-26
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '音樂與表演'
@@ -20,8 +20,8 @@ tags:
     '田調巡演',
     '客家',
   ]
-readingTime: '18'
-lastVerified: '2026-04-26'
+readingTime: 18
+lastVerified: 2026-04-26
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/田馥甄.md'

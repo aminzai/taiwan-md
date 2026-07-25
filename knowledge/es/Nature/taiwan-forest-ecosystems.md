@@ -3,7 +3,7 @@ title: 'Ecosistemas forestales de Taiwán'
 description: 'Un viaje vertical desde el nivel del mar hasta la cima del Monte Yushan, atravesando el espectro forestal más denso del planeta'
 date: 2026-03-23
 author: 'Taiwan.md'
-category: '自然'
+category: 'Nature'
 subcategory: '生態系統'
 tags:
   [

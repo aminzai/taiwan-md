@@ -17,13 +17,14 @@ tags:
   ]
 readingTime: 10
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
 featured: false
 translatedFrom: Culture/國立故宮博物院.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
 translatedAt: 2026-05-02T02:50:57+08:00
+author: 'Taiwan.md'
 ---
 
 # Museo Nacional del Palacio: el largo viaje de cien años desde las cajas de madera en la guerra hasta los espejos de la IA

@@ -1,7 +1,7 @@
 ---
 title: 'El sistema de salud pública y respuesta epidémica de Taiwán'
 description: 'En 2003, el cierre del Hospital Ho Ping dejó 30 muertos. Diecisiete años después, durante la pandemia global de COVID-19, Taiwán se sostuvo 18 meses sin transmisión comunitaria gracias a las lecciones de aquel desastre. Cómo un trauma se convirtió en la memoria inmunológica de una isla.'
-date: '2026-04-08'
+date: 2026-04-08
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: 'Society'
@@ -14,8 +14,8 @@ tags:
     'seguro nacional de salud',
     'CDC Taiwán',
   ]
-readingTime: '14'
-lastVerified: '2026-04-08'
+readingTime: 14
+lastVerified: 2026-04-08
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'

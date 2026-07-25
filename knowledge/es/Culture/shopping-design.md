@@ -19,7 +19,7 @@ tags:
   - 'Business Next Media'
   - 'alfabetización mediática'
 subcategory: 'Diseño y medios'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
 lastHumanReview: false

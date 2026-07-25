@@ -17,9 +17,9 @@ subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 category: 'Music'
 featured: false
-readingTime: 15
+readingTime: 15min
 lastVerified: 2026-04-13
-lastHumanReview: '2026-04-13'
+lastHumanReview: true
 translatedFrom: 'Music/張懸與安溥.md'
 sourceCommitSha: 'f803d0b6'
 sourceContentHash: 'sha256:27ef434e8d6b0605'

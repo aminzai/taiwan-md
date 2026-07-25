@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5a4d0fb0959c27ae'
 sourceBodyHash: 'sha256:795653ceb8bee8f7'
 translatedAt: '2026-05-02T11:00:00+08:00'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** El teatro de sombras taiwanés (popularmente "teatro de monos de cuero", 皮猴戲) lleva más de doscientos años arraigado en Mituo (Kaohsiung). Es un teatro tradicional de marionetas que combina luz, sombra, talla y música; todas las compañías que aún existen están en Kaohsiung. En 1937, el movimiento kominka prohibió las representaciones tradicionales: el predecesor de la compañía Tung-hua (東華皮影戲團), llamado entonces "Compañía Nueva de Teatro de Sombras Quan-se de Taiwán" (台灣全色皮戲新劇部), representó la historia popular japonesa "Sarukani Gassen" (《猿蟹合戰》, "La batalla del mono y el cangrejo") en japonés y, con la ayuda del folclorista nipón Yamanaka Noboru, fue elegida "Primera Compañía Patriótica", lo que permitió que su transmisión a lo largo de seis generaciones llegara hasta hoy.

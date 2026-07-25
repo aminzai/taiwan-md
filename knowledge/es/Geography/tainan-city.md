@@ -1,7 +1,7 @@
 ---
 title: 'Ciudad de Tainan: 261 años de capital, 400 años de monumentos y chips del siglo XXI superpuestos sobre la misma tierra'
 description: 'En 1624, los neerlandeses comenzaron a construir el fuerte Zeelandia sobre las dunas de Tayouan; el 1 de febrero de 1662, Frederik Coyett firmó allí la capitulación y el 9 de febrero abandonó la playa con dos mil neerlandeses. En 1665, Chen Yonghua construyó el templo de Confucio, que se convirtió en la “primera escuela de todo Taiwán”. En 1684, la corte Qing estableció la prefectura de Taiwán en la actual Tainan; en 1885, al crearse la provincia de Taiwán y trasladarse la capital provincial al norte, a Taipéi, terminó su condición de capital durante 261 años. Al mediodía del 13 de marzo de 1947, Tang Te-chang fue atado, subido a un camión en Minsheng Green Park para ser exhibido por las calles y luego cayeron tres disparos. El 25 de diciembre de 2010, la fusión de ciudad y condado produjo 37 distritos y 1,86 millones de habitantes. En 2023, la facturación anual del Parque Científico del Sur alcanzó 1,5 billones de dólares taiwaneses y superó al Parque Científico de Hsinchu. Tres capas de historia pesan sobre el mismo tramo medio de la llanura de Chianan.'
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -29,7 +29,7 @@ tags:
     'serie de 22 ciudades y condados',
   ]
 readingTime: 18
-lastVerified: '2026-05-18'
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/台南市.md'

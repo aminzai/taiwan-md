@@ -1,7 +1,7 @@
 ---
 title: 'Dalongdong: el incienso del templo Baoan, la campana del templo de Confucio y el Cielo Azul con Sol Blanco de Yuanshan, tres épocas de fe en Taipéi'
 description: 'Desde el conchero de Yuanshan, de hace 5.300 años, hasta la construcción inicial del templo Baoan por inmigrantes de Tong’an en 1742; desde el éxito de Chen Wei-ying en el examen provincial de 1859, que dio lugar al dicho «un xiucai cada cinco pasos, un juren cada diez», hasta la reconstrucción del templo de Confucio demolido por los japoneses, financiada por notables locales en 1925; desde el santuario sintoísta destruido por el choque de un avión en 1944 hasta el Grand Hotel de Yuanshan, de 14 pisos y estilo palaciego chino, levantado por Yang Cho-cheng en el mismo solar en 1973. Tres espacios de fe se alinean en el eje de 1,5 kilómetros entre Dalongdong y Yuanshan, pero ninguno corresponde a la versión de las guías turísticas: el templo Baoan fue la primera obra de Taiwán en recibir el Premio del Patrimonio Asia-Pacífico de la UNESCO, tras la restauración de 1995 en la que Liao Wu-chih rechazó subsidios públicos y gastó 260 millones de dólares taiwaneses de fondos propios; el templo de Confucio existe porque la familia Chen Yueji y Koo Hsien-jung donaron más de 3.000 ping de terreno para que Confucio no quedara sin hogar; el Grand Hotel de Yuanshan es el edificio de tejas rojas y aleros amarillos que ha recibido a 111 jefes de Estado. Los tíos y tías que practican taichí en la calle Dalong pisan el corte temporal más concentrado de Taipéi.'
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區 / 台北市大同區、中山區邊界'
@@ -27,7 +27,7 @@ tags:
     'serie de barrios históricos',
   ]
 readingTime: 23
-lastVerified: '2026-05-21'
+lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/大龍峒.md'

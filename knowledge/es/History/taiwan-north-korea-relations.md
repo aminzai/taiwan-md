@@ -1,7 +1,7 @@
 ---
 title: 'Taiwán y Corea del Norte: Del cuarto mayor destino de exportación al campo de batalla gris'
 description: 'Taiwán fue el cuarto mayor mercado de exportación para Corea del Norte; las oficinas en Pyongyang exhibían computadoras Acer y sanitarios HCG. Esta historia, desde el comercio entusiasta hasta la prohibición total, entrelaza ayuda agrícola secreta, contrabando marítimo y una profunda lucha de inteligencia de seguridad nacional.'
-date: '2026-07-17'
+date: 2026-07-17
 category: 'History'
 subcategory: 'Democracy and Governance'
 tags:
@@ -16,15 +16,16 @@ tags:
     'Pesca',
     'Estudio',
   ]
-readingTime: '15'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 15
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/台灣與北朝鮮關係.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:2a45417c9b5c2cf0'
 sourceBodyHash: 'sha256:4dc13793ac08242f'
 translatedAt: '2026-07-23T23:06:50+08:00'
+author: 'Taiwan.md Contributors'
 ---
 
 > **Resumen de treinta segundos:** La relación entre Taiwán y Corea del Norte es mucho más compleja que parece. Antes de las sanciones totales en 2017, Taiwán era el cuarto mayor destino de exportación global para Corea del Norte, y los intercambios comerciales privados eran muy animados. Corea del Norte dependía en gran medida de los productos taiwaneses; desde computadoras Acer y Asus en oficinas gubernamentales hasta café Blend y pasteles Oreo favoritos de altos funcionarios, la marca MIT había penetrado profundamente en Pyongyang. Aunque las relaciones oficiales están congeladas hoy en día, el contrabando marítimo, la infiltración de alta tecnología, el lavado de dinero clandestino y los incidentes de cables submarinos demuestran que esta relación ha pasado al terreno gris, impulsando nervios geopolíticos en Asia Oriental. Además, funcionarios del Partido Laborista de Corea visitaron secretamente Taiwán para estudiar las zonas de exportación procesada, y barcos pesqueros taiwaneses contrataron masivamente a pescadores norcoreanos; estos lazos profundos e inexplorados revelan una red de interacción aún más compleja entre ambas regiones.

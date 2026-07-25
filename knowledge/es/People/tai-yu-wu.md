@@ -13,6 +13,7 @@ sourceContentHash: 'sha256:ea84edf10c10d1a4'
 sourceBodyHash: 'sha256:54cafe2c5032e30e'
 translatedAt: '2026-05-17T06:00:00Z'
 category: People
+author: 'Taiwan.md'
 ---
 
 > **Resumen en 30 segundos:** Tai Yu Wu (1907–2000), físico teórico. En 1946 recomendó personalmente a Yang Chen-Ning y Lee Tsung-Dao para estudiar en Estados Unidos; once años después ambos recibieron conjuntamente el Premio Nobel de Física. Fue presidente de la Academia Sinica durante once años, desde 1983, y defendió la ciencia básica en una época en que Taiwán priorizaba el crecimiento económico, sentando las bases del sistema de investigación científica de la isla.

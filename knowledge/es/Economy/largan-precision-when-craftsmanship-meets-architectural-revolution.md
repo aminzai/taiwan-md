@@ -1,9 +1,9 @@
 ---
 title: 'Largan Precision: Cuando el arte artesanal encuentra la revolución arquitectónica'
 description: '¿Por qué un campeón oculto taiwanés con la tecnología de lentes de plástico más avanzada del mundo perdió los pedidos del iPhone ante un rival chino justo cuando lideraba tecnológicamente?'
-date: '2026-03-22'
+date: 2026-03-22
 author: 'Taiwan.md Contributors'
-category: 'economy'
+category: 'Economy'
 subcategory: '企業列傳'
 tags:
   [
@@ -15,14 +15,15 @@ tags:
     'Cadena de suministro de Apple',
     'Innovación arquitectónica',
   ]
-readingTime: '15'
-lastVerified: '2026-03-22'
+readingTime: 15
+lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：大立光電.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:74469a54ad5b9ae3'
 sourceBodyHash: 'sha256:4ac8e9cdef3a165c'
 translatedAt: '2026-05-01T20:54:23+08:00'
+featured: false
 ---
 
 # Largan Precision: Cuando el arte artesanal encuentra la revolución arquitectónica

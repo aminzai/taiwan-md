@@ -11,6 +11,9 @@ sourceContentHash: 'sha256:cd7ff91fe48a2538'
 sourceBodyHash: 'sha256:04d1aee034c97e89'
 translatedAt: '2026-05-01T20:54:23+08:00'
 category: Society
+author: 'Taiwan.md'
+date: 2026-03-18
+featured: false
 ---
 
 # La cultura de los barrios y las comunidades de Taiwán

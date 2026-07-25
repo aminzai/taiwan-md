@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:692a1090832374e5'
 sourceBodyHash: 'sha256:258baccfb653bebb'
 translatedAt: 2026-05-01T22:19:10+08:00
+featured: false
 ---
 
 # La isla que persigue el camión de basura: Taiwán, de la crisis de residuos al milagro del reciclaje

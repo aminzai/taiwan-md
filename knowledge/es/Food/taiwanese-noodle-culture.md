@@ -25,6 +25,7 @@ translatedAt: '2026-05-01T22:19:10+08:00'
 category: Food
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg/960px-Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'intermediate'
 ---
 
 # La cultura del fideo taiwanés: setenta años de evolución desde la harina de la ayuda estadounidense hasta la comida nacional

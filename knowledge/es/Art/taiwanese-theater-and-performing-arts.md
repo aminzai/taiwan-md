@@ -19,6 +19,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cddfbcb9ade43ff2'
 sourceBodyHash: 'sha256:0f8dee8662286dcf'
 translatedAt: '2026-06-16T17:10:37Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Teatro y artes escénicas de Taiwán: cómo una isla pequeña sacudió los escenarios del mundo

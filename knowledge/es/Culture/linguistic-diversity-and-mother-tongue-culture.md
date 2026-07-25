@@ -5,7 +5,15 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '族群文化'
-tags: ['lengua', 'lengua materna', 'taiwanés', 'hakka', 'lenguas indígenas', 'multiculturalidad']
+tags:
+  [
+    'lengua',
+    'lengua materna',
+    'taiwanés',
+    'hakka',
+    'lenguas indígenas',
+    'multiculturalidad',
+  ]
 readingTime: 10
 lastVerified: 2026-03-19
 lastHumanReview: true
@@ -15,6 +23,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:0f2cf9fae60042d8'
 sourceBodyHash: 'sha256:62570a25d7db63f6'
 translatedAt: '2026-05-17T05:34:54+08:00'
+difficulty: 'intermediate'
 ---
 
 # Diversidad lingüística y cultura materna
@@ -261,8 +270,12 @@ Cabe señalar que los resultados de las políticas lingüísticas suelen tardar 
 
 ## Referencias
 
-[^1]: Consejo Hakka del Yuan Ejecutivo, *Estudio de datos básicos sobre población y lengua hakka nacional*, 2020, https://www.hakka.gov.tw/chhakka/app/artwebsite?module=artwebsite&id=126&serno=null; según distintas agencias de estudio y años, la proporción de uso del taiwanés oscila entre el 67 % y el 72 %; este artículo adopta el valor estadístico más reciente.
-[^2]: Consejo de Pueblos Indígenas, *Informe de la encuesta sobre el uso de las lenguas de los pueblos indígenas*, 2021, https://www.cip.gov.tw/zh-tw/news/data-list/C30C260FE2AC91E5/index.html; la población registrada del pueblo amis es de aproximadamente 210 000 personas, pero el número de hablantes fluidos de la lengua es muy inferior a esa cifra.
-[^3]: Huang Xuanfan, *Lengua, sociedad y conciencia étnica*, Sanmin Shuju.
-[^4]: Li Rengui, *Pueblos austronesios de Taiwán: etnicidad y migración*.
+[^1]: Consejo Hakka del Yuan Ejecutivo, _Estudio de datos básicos sobre población y lengua hakka nacional_, 2020, https://www.hakka.gov.tw/chhakka/app/artwebsite?module=artwebsite&id=126&serno=null; según distintas agencias de estudio y años, la proporción de uso del taiwanés oscila entre el 67 % y el 72 %; este artículo adopta el valor estadístico más reciente.
+
+[^2]: Consejo de Pueblos Indígenas, _Informe de la encuesta sobre el uso de las lenguas de los pueblos indígenas_, 2021, https://www.cip.gov.tw/zh-tw/news/data-list/C30C260FE2AC91E5/index.html; la población registrada del pueblo amis es de aproximadamente 210 000 personas, pero el número de hablantes fluidos de la lengua es muy inferior a esa cifra.
+
+[^3]: Huang Xuanfan, _Lengua, sociedad y conciencia étnica_, Sanmin Shuju.
+
+[^4]: Li Rengui, _Pueblos austronesios de Taiwán: etnicidad y migración_.
+
 [^5]: Ley de Desarrollo de Lenguas Nacionales (2019), https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143 — establece el taiwanés, el hakka, las lenguas indígenas y otras lenguas como lenguas nacionales; publicaciones del Consejo Hakka (https://www.hakka.gov.tw/) y del Consejo de Pueblos Indígenas (https://www.apc.gov.tw/).

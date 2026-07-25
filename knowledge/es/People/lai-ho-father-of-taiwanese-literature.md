@@ -3,7 +3,7 @@ title: 'Lai Ho: el "Mazu de Changhua" vestido con la camisa de la isla, y su bal
 description: 'Antes de la Nochevieja de 1943, Lai Ho, célebre médico de Changhua, quemó como cada año las cuentas impacientes de sus pacientes más pobres. Este médico, considerado el "padre de la nueva literatura taiwanesa", salvó vidas con el bisturí y denunció la injusticia con la pluma bajo la opresión colonial. Su obra Una balanza ("Chengzi") sigue siendo hoy un símbolo cultural de la resistencia taiwanesa contra la violencia del poder.'
 date: 2026-04-28
 author: 'Taiwan.md Contributors'
-category: History
+category: 'People'
 tags:
   [
     Lai Ho,
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ea423174510ba903'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
 translatedAt: 2026-05-01T22:19:10+08:00
+featured: false
 ---
 
 > **Panorama en 30 segundos:** Lai Ho (1894-1943) fue el médico-escritor más influyente del período colonial japonés. Con una mano empuñaba el bisturí para curar a los pobres, y por ello fue venerado como el "Mazu de Changhua" y el "Inmortal Ho"; con la otra, tomó la pluma para fundar la literatura taiwanesa en lenguaje vernáculo y denunciar las injusticias del dominio colonial. Su vida condensó las luchas y la dignidad del pueblo taiwanes bajo el yugo japonés, en particular su gesto anual de quemar las deudas de los pacientes más humildes antes de Año Nuevo y los textos escritos desde la cárcel, que hasta hoy constituyen un paradigma de ética médica y compromiso humanista en Taiwán.

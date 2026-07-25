@@ -1,7 +1,7 @@
 ---
 title: 'Yingge, la calle antigua de la cerámica: De las chimeneas al metro, la transformación y el renacimiento de dos siglos de arte cerámico'
 description: 'Yingge, la antigua «Jingdezhen de Taiwán» conocida por sus chimeneas, tras la transformación industrial y la ola de turismo, ha visto la inauguración del Museo de Arte de la Nueva Ciudad de Taipéi y la apertura de la línea MRT Sanying. La nueva generación de artesanos cerámicos busca, a través de actividades como el «Día de Puertas Abiertas en la Zona de Producción», nuevas vías de desarrollo sostenible entre la tradición y la innovación, el turismo y la industria.'
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '社會與日常史'
@@ -15,10 +15,10 @@ tags:
     'T22',
     'turismo cultural',
   ]
-readingTime: '10'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 10
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/鶯歌陶瓷老街.md'
 sourceCommitSha: '1a3708b1e'
 sourceContentHash: 'sha256:6023f24cf4042189'

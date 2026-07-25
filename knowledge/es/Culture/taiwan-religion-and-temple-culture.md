@@ -16,7 +16,7 @@ tags:
     'Templo Baoan',
   ]
 subcategory: '宗教與民俗'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'Culture'
 readingTime: 22
 featured: true

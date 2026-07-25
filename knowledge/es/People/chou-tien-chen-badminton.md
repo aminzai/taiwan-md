@@ -1,7 +1,7 @@
 ---
 title: 'Chou Tien-chen: el primer jugador de bádminton de Taiwán, elevando el nivel mundial al segundo puesto'
 description: 'El primer hombre en alcanzar el segundo puesto mundial en el bádminton masculino de Taiwán y el primero en derrotar al rey del bádminton, Lin Dan. Desde la racha de diez derrotas consecutivas al unirse al equipo nacional, el bautismo cristiano tras la perforación de una apendicitis, hasta el diagnóstico de cáncer colorrectal en etapa inicial a los 34 años en 2023; tras la cirugía, viajó al extranjero para competir pocos días después, resistió una baja de casi un año y alcanzó los cuartos de final en los Juegos Olímpicos de París al año siguiente. Chou Tien-chen no depende de un talento aplastante, sino de un estilo de juego de desgaste y remates llamado «moler», elevando progresivamente la respuesta a qué tan alto puede llegar el bádminton de Taiwán.'
-date: '2026-06-29'
+date: 2026-06-29
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '體育'
@@ -15,10 +15,10 @@ tags:
     'Deportista',
     'Taiwán',
   ]
-readingTime: '14'
-lastVerified: '2026-06-29'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 14
+lastVerified: 2026-06-29
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/周天成.md'
 sourceCommitSha: 'dbfc0cd3c'
 sourceContentHash: 'sha256:f45251e967dc33da'

@@ -1,7 +1,7 @@
 ---
 title: 'Día libre por tifón: quién descansa, quién trabaja'
 description: 'En 2001, la muerte en servicio de una maestra en Changhua impulsó la creación del sistema taiwanés de días libres por tifón. Más de veinte años después, el 81% de los trabajadores sigue yendo a trabajar bajo el viento y la lluvia, y el 37,7% no recibe ningún salario. Cada verano, un aviso de suspensión de labores corta con precisión a lo largo de las líneas de clase de la sociedad taiwanesa: mientras los trabajadores de oficina revisan el celular en casa, los empleados del comercio mayorista y minorista, y de la agricultura, la pesca y la ganadería, siguen saliendo en medio del mismo tifón.'
-date: '2026-05-09'
+date: 2026-05-09
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '社會制度'
@@ -16,7 +16,7 @@ tags:
     'tifón',
   ]
 readingTime: 12
-lastVerified: '2026-05-09'
+lastVerified: 2026-05-09
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/颱風假.md'
@@ -24,6 +24,7 @@ sourceCommitSha: '9bddcff6'
 sourceContentHash: 'sha256:d909a68892279cea'
 sourceBodyHash: 'sha256:8d3f66b5c4593a14'
 translatedAt: '2026-05-12T21:49:55+08:00'
+difficulty: 'intermediate'
 ---
 
 # Día libre por tifón: quién descansa, quién trabaja

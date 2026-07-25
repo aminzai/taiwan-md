@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5501454d0b0366dd'
 sourceBodyHash: 'sha256:7e3bd7915270078d'
 translatedAt: '2026-05-01T20:54:23+08:00'
+difficulty: 'beginner'
 ---
 
 # Paisaje termal de Taiwán

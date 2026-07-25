@@ -4,7 +4,7 @@ description: 'Un extraño que nunca había conocido en persona llevó a un pasto
 date: 2026-03-22
 tags: [人物, 牧師, 人權運動, 戒嚴時期, 良心犯, 基督長老教會, 美麗島事件, 施明德]
 subcategory: '政治與民主'
-category: people
+category: 'People'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22

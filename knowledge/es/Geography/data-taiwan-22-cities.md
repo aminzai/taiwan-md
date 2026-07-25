@@ -1,7 +1,7 @@
 ---
 title: 'Ver Taiwán a través de los datos de sus 22 condados y ciudades: entre lo más denso y lo más vacío hay una diferencia de 151 veces; entre lo más viejo y lo más joven, casi una generación'
 description: 'En la misma isla, la ciudad de Taipéi, con la mayor densidad de población, tiene 8,975 habitantes por kilómetro cuadrado; el condado de Taitung, el más bajo, sólo 59: una diferencia de 151 veces. Nuevo Taipéi, la jurisdicción más poblada, tiene 4.04 millones de habitantes; el condado de Lienchiang, el menos poblado, 13,600: una diferencia de 297 veces. El condado de Hsinchu, el más joven, tiene una tasa de envejecimiento de 15.08%; el condado de Chiayi, el más viejo, 24.11%: una diferencia de casi una generación. Con datos oficiales del Departamento de Registro Civil del Ministerio del Interior a fines de 2025, este artículo traza para toda la isla un retrato con escala y verificable: siete de cada diez personas se concentran en tres de cada diez partes del territorio; la frontera del envejecimiento no está en las ciudades, sino en el este, las islas periféricas y los condados agrícolas; y en las 22 ciudades y condados de Taiwán, sin excepción, las muertes ya superan a los nacimientos.'
-date: '2026-06-06'
+date: 2026-06-06
 author: 'Taiwan.md'
 category: 'Geography'
 subcategory: '人口與區域'
@@ -19,7 +19,7 @@ tags:
     'serie de 22 condados y ciudades',
   ]
 readingTime: 13
-lastVerified: '2026-06-06'
+lastVerified: 2026-06-06
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/用數據看台灣22縣市.md'

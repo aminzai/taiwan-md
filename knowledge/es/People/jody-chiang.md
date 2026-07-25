@@ -11,7 +11,7 @@ tags:
     'Cultura taiwanesa',
   ]
 subcategory: '音樂'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'People'
 readingTime: 10
 lastVerified: 2026-03-28
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:af8cff27f6cadb30'
 sourceBodyHash: 'sha256:09c26c642594595d'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 # Jody Chiang: la diva del taiwanés que salió del humo de azufre de Beitou y su guerra secreta de nueve años

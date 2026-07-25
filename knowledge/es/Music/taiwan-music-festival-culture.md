@@ -1,7 +1,7 @@
 ---
 title: 'La cultura de los festivales musicales en Taiwán: por qué una isla necesita tantas fiestas al aire libre'
 description: 'Desde el escenario improvisado que dos estadounidenses montaron en las playas de Kenting en 1995, hasta los más de 50 festivales que se celebran cada año a lo largo y ancho de la isla. La densidad de festivales musicales de Taiwán es posiblemente la más alta del mundo, y sus pioneros no eran taiwaneses.'
-date: '2026-03-29'
+date: 2026-03-29
 category: 'Music'
 tags:
   [
@@ -15,7 +15,7 @@ tags:
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
-lastVerified: '2026-03-29'
+lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 10
 translatedFrom: 'Music/台灣音樂祭文化.md'

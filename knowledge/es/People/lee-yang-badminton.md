@@ -1,7 +1,7 @@
 ---
 title: 'Lee Yang'
 description: 'El adolescente que se abrió paso a dentelladas hasta el grupo A ahora se abre paso a dentelladas contra los demonios del deporte: dos oros olímpicos en dobles masculinos de bádminton, el ministro más joven de la historia, 34,01 millones en depósitos, 36,38 millones en deuda, y los diez millones de bonificación complementaria donados íntegramente'
-date: '2026-04-14'
+date: 2026-04-14
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
@@ -19,15 +19,16 @@ tags:
     '金門',
     '盡力哲學',
   ]
-readingTime: '15'
-lastVerified: '2026-04-14'
-lastHumanReview: 'true'
-featured: 'true'
+readingTime: 15
+lastVerified: 2026-04-14
+lastHumanReview: true
+featured: true
 translatedFrom: 'People/李洋.md'
 sourceCommitSha: 'fef3e119'
 sourceContentHash: 'sha256:96f1d5630278a964'
 sourceBodyHash: 'sha256:57937e9b25b2f462'
 translatedAt: '2026-06-07T02:26:08+08:00'
+difficulty: 'beginner'
 ---
 
 # Lee Yang

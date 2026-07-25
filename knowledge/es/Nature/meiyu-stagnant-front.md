@@ -4,7 +4,7 @@ description: 'El 28 de mayo de 1981, un frente de lluvias Mei-Yu desencadenó ag
 date: 2026-05-02
 tags: [clima, recursos hídricos, historia de la ciencia, desastres naturales]
 category: Nature
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false

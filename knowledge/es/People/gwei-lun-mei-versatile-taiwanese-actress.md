@@ -12,6 +12,8 @@ sourceContentHash: 'sha256:266bd954eeb032d3'
 sourceBodyHash: 'sha256:c06a0cb5b90069e3'
 translatedAt: '2026-05-17T06:00:00Z'
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Gwei Lun-mei: una actriz de talento discreto y tenaz
@@ -131,7 +133,11 @@ Gwei Lun-mei ha demostrado con su carrera qué significa ser una actriz de verda
 - [Desarrollo internacional de actores taiwaneses — Bureau of Audiovisual and Music Industry Development, Ministerio de Cultura](https://www.bamid.gov.tw/) — Datos sobre cooperación internacional
 
 [^1]: Wikipedia, entrada «Soul»: _Soul_ (2013), dirigida por Chung Mong-hong, protagonizada por Gwei Lun-mei y Joseph Chang. https://zh.wikipedia.org/wiki/失魂
+
 [^2]: Wikipedia, entrada «Gwei Lun-mei», con registros de obras como _Blue Gate Crossing_, _Secret_ y _Girlfriend, Boyfriend_. https://zh.wikipedia.org/wiki/桂綸鎂
+
 [^3]: _Blue Gate Crossing_ (2002), dirigida por Yee Chih-yen, protagonizada por Gwei Lun-mei y Chen Bo-lin, seleccionada en varios festivales internacionales. Ficha en Taiwan Cinema: <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
+
 [^4]: _Girlfriend, Boyfriend_ (2012), dirigida por Yang Ya-che, nominada a Mejor Actriz en la 49.ª edición de los Premios Golden Horse. Sitio oficial de los Golden Horse: https://www.goldenhorse.org.tw/
+
 [^5]: _Our Time Will Come_ (2017), dirigida por Ann Hui, con participación de Gwei Lun-mei, ejemplo de colaboración interregional. Archivo de la Filmoteca de Hong Kong: <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>

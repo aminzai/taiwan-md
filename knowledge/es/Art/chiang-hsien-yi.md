@@ -39,6 +39,7 @@ sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:872c1259e15043c2'
 sourceBodyHash: 'sha256:ae43b98131d02326'
 translatedAt: '2026-06-14T00:35:00+08:00'
+imageCredit: 'lwtt93 (Flickr)'
 ---
 
 # Chiang Hsien-yi: tras huir de Taiwán durante cuarenta y cinco años, solo al volver a casa pudo pintar las mejores obras de su vida

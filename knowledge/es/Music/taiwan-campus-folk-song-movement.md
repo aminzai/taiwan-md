@@ -5,7 +5,16 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Music'
 subcategory: '流行音樂'
-tags: ['Movimiento folclórico', 'Canción folclórica universitaria', 'Concurso Jinyun', 'Li Shuangze', 'Yang Xian', 'Hu Defu', 'Cantar nuestras propias canciones']
+tags:
+  [
+    'Movimiento folclórico',
+    'Canción folclórica universitaria',
+    'Concurso Jinyun',
+    'Li Shuangze',
+    'Yang Xian',
+    'Hu Defu',
+    'Cantar nuestras propias canciones',
+  ]
 readingTime: 12
 lastVerified: 2026-05-16
 lastHumanReview: true
@@ -15,11 +24,12 @@ sourceCommitSha: '7415dcaa'
 sourceContentHash: 'sha256:e201829436b891a1'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
 translatedAt: '2026-05-17T05:34:54+08:00'
+difficulty: 'beginner'
 ---
 
 # El movimiento de la canción folclórica taiwanesa
 
-> **Resumen en 30 segundos:** El 3 de diciembre de 1976, durante un concierto en la Universidad Tamkang, Li Shuangze estrelló una botella de Coca-Cola contra el suelo y preguntó: "¿Por qué tenemos que cantar canciones de extranjeros?" — Este "Incidente de Tamkang" dio inicio al movimiento de la canción folclórica taiwanesa. En 1975, Yang Xian estrenó *Cuatro estrofas de nostalgia* en el Salón Conmemorativo Sun Yat-sen; Hu Defu incorporó cantos ancestrales indígenas; en 1977, los concursos Jinyun y *Viento folclórico* impulsaron la comercialización y dieron origen a una generación de cantautores folclóricos como Qi Yu, Cai Ye, Ye Jiaxiu y Li Jianfu. Aunque el movimiento de una década terminó con la emigración de talentos y la comercialización, el espíritu de "cantar nuestras propias canciones" se transmitió a las generaciones de Lo Dayou, Chen Qizhen y Zhang Xuan.
+> **Resumen en 30 segundos:** El 3 de diciembre de 1976, durante un concierto en la Universidad Tamkang, Li Shuangze estrelló una botella de Coca-Cola contra el suelo y preguntó: "¿Por qué tenemos que cantar canciones de extranjeros?" — Este "Incidente de Tamkang" dio inicio al movimiento de la canción folclórica taiwanesa. En 1975, Yang Xian estrenó _Cuatro estrofas de nostalgia_ en el Salón Conmemorativo Sun Yat-sen; Hu Defu incorporó cantos ancestrales indígenas; en 1977, los concursos Jinyun y _Viento folclórico_ impulsaron la comercialización y dieron origen a una generación de cantautores folclóricos como Qi Yu, Cai Ye, Ye Jiaxiu y Li Jianfu. Aunque el movimiento de una década terminó con la emigración de talentos y la comercialización, el espíritu de "cantar nuestras propias canciones" se transmitió a las generaciones de Lo Dayou, Chen Qizhen y Zhang Xuan.
 
 El 3 de diciembre de 1976, durante un concierto en la Universidad Tamkang[^1], un estudiante filipino de origen chino subió al escenario con una botella de Coca-Cola en una mano y una guitarra a la espalda, y preguntó con indignación al público: "¿Por qué tenemos que cantar canciones de extranjeros?" Estrelló la botella de Coca-Cola contra el suelo con fuerza[^2], y el sonido del cristal rompiéndose fue considerado después como el instante en que se quebró la colonización musical de toda una era. Aquel hombre se llamaba Li Shuangze, y ese momento fue bautizado como el "Incidente de Tamkang" — el punto de partida más simbólico del movimiento de la canción folclórica taiwanesa.
 
@@ -37,7 +47,7 @@ Fue precisamente en este contexto histórico que "cantar nuestras propias cancio
 
 ### Yang Xian: el sembrador de la canción folclórica moderna
 
-El 6 de junio de 1975, Yang Xian, estudiante del Instituto de Oceanografía de la Universidad Nacional de Taiwán, organizó el "Concierto de Creación de Baladas Modernas" en el Salón Conmemorativo Sun Yat-sen de Taipéi.[^3] Compuso música para el poema *Cuatro estrofas de nostalgia* de Yu Guangzhong, proponiendo por primera vez el concepto de "canción folclórica moderna".
+El 6 de junio de 1975, Yang Xian, estudiante del Instituto de Oceanografía de la Universidad Nacional de Taiwán, organizó el "Concierto de Creación de Baladas Modernas" en el Salón Conmemorativo Sun Yat-sen de Taipéi.[^3] Compuso música para el poema _Cuatro estrofas de nostalgia_ de Yu Guangzhong, proponiendo por primera vez el concepto de "canción folclórica moderna".
 
 La innovación de Yang Xian consistió en combinar la poesía china moderna con la balada y la música country estadounidenses, creando una forma musical sin precedentes. Este concierto es considerado el punto de partida oficial del movimiento de la canción folclórica taiwanesa, y Yang Xian fue honrado como el "padre de la canción folclórica moderna".[^4]
 
@@ -45,7 +55,7 @@ La innovación de Yang Xian consistió en combinar la poesía china moderna con 
 
 El cantante indígena Hu Defu fue otro importante precursor de este movimiento.[^6] Sus actuaciones en el Café Columbia constituyeron una transmisión cultural a cámara lenta. Hu Defu comenzó a cantar cantos ancestrales del pueblo pinyum, permitiendo a los jóvenes urbanos escuchar por primera vez los sonidos más primigenios y puros de la tierra taiwanesa.
 
-En 1974, Hu Defu organizó el concierto "Espiga hermosa", que también fue el escenario donde Yang Xian presentó públicamente *Cuatro estrofas de nostalgia* por primera vez, sembrando la semilla para el concierto del Salón Conmemorativo Sun Yat-sen del año siguiente.
+En 1974, Hu Defu organizó el concierto "Espiga hermosa", que también fue el escenario donde Yang Xian presentó públicamente _Cuatro estrofas de nostalgia_ por primera vez, sembrando la semilla para el concierto del Salón Conmemorativo Sun Yat-sen del año siguiente.
 
 ### Li Shuangze: el clarín de la revolución
 
@@ -55,7 +65,7 @@ Este joven, recién regresado de estudiar en España y Estados Unidos, debía su
 
 El instante en que Li Shuangze estrelló la botella de Coca-Cola se transformó, desde un estallido de emoción personal, en un símbolo de resistencia de toda una generación contra la colonización cultural. Su grito de "cantar nuestras propias canciones" se convirtió rápidamente en el eslogan espiritual del movimiento de la canción folclórica universitaria taiwanesa.
 
-🎵 **Escucha**: [Li Shuangze — *Isla hermosa*](https://www.youtube.com/watch?v=4UvWeuzhxHw) — versión interpretada por Yang Zujun
+🎵 **Escucha**: [Li Shuangze — _Isla hermosa_](https://www.youtube.com/watch?v=4UvWeuzhxHw) — versión interpretada por Yang Zujun
 
 ## El motor de la comercialización: el Concurso Jinyun y los restaurantes de música folclórica
 
@@ -69,11 +79,11 @@ Al mismo tiempo, surgieron como hongos los restaurantes de música folclórica. 
 
 ### La escuela intelectual
 
-La escuela intelectual, representada por Qi Yu, buscaba la combinación de poesía y reflexión filosófica. La voz cristalina de Qi Yu interpretó obras clásicas como *El olivo* y *Caminando bajo la lluvia*, mostrando el lado literario de la música folclórica.
+La escuela intelectual, representada por Qi Yu, buscaba la combinación de poesía y reflexión filosófica. La voz cristalina de Qi Yu interpretó obras clásicas como _El olivo_ y _Caminando bajo la lluvia_, mostrando el lado literario de la música folclórica.
 
 ### La escuela rural
 
-*Camino rural* de Ye Jiaxiu y *La bahía de la abuela en Penghu* de Pan Anbang representaban la sencillez y calidez de la escuela rural. Estas canciones retrataban el hogar que todos llevaban en el corazón, tocando la fibra sensible de los emigrantes lejos de su tierra natal.
+_Camino rural_ de Ye Jiaxiu y _La bahía de la abuela en Penghu_ de Pan Anbang representaban la sencillez y calidez de la escuela rural. Estas canciones retrataban el hogar que todos llevaban en el corazón, tocando la fibra sensible de los emigrantes lejos de su tierra natal.
 
 ### La escuela urbana
 
@@ -83,9 +93,9 @@ Cai Ye, Zheng Yi y otras representaron la sofisticación y madurez de la escuela
 
 Esta época vio nacer innumerables obras clásicas:
 
-***El descendiente del dragón*** (letra y música de Hou Dejian, interpretada originalmente por Li Jianfu) nació en 1978, en el contexto de la ruptura de relaciones diplomáticas entre Taiwán y Estados Unidos, expresando la identidad cultural y el sentimiento nacional chino. Es la voz de época con mayor peso histórico del movimiento folclórico. ***El olivo*** (Qi Yu) transmite el anhelo romántico de libertad con "por las aves que vuelan en el cielo"; ***Suave como tu ternura*** (Cai Ye) muestra la delicadeza y profundidad del amor urbano; ***Camino rural*** (Ye Jiaxiu) combina perfectamente la nostalgia con la inocencia; ***La bahía de la abuela en Penghu*** (Pan Anbang) evoca recuerdos de infancia y la poesía del mar; ***Cigarra de otoño*** (Yang Fangyi, Xu Xiaojing) describe la melancolía de los años juveniles; ***Si tan solo...*** (Shi Biwu, Tai Zhaomei) es una fantasía romántica sobre el amor.
+**_El descendiente del dragón_** (letra y música de Hou Dejian, interpretada originalmente por Li Jianfu) nació en 1978, en el contexto de la ruptura de relaciones diplomáticas entre Taiwán y Estados Unidos, expresando la identidad cultural y el sentimiento nacional chino. Es la voz de época con mayor peso histórico del movimiento folclórico. **_El olivo_** (Qi Yu) transmite el anhelo romántico de libertad con "por las aves que vuelan en el cielo"; **_Suave como tu ternura_** (Cai Ye) muestra la delicadeza y profundidad del amor urbano; **_Camino rural_** (Ye Jiaxiu) combina perfectamente la nostalgia con la inocencia; **_La bahía de la abuela en Penghu_** (Pan Anbang) evoca recuerdos de infancia y la poesía del mar; **_Cigarra de otoño_** (Yang Fangyi, Xu Xiaojing) describe la melancolía de los años juveniles; **_Si tan solo..._** (Shi Biwu, Tai Zhaomei) es una fantasía romántica sobre el amor.
 
-🎵 **Selección de música folclórica clásica**: [Pan Yuyun — *La primavera también llega para el lirio silvestre*](https://www.youtube.com/watch?v=GSoLwHTXRmM) ｜ [Hu Defu — *El viento del Pacífico*](https://www.youtube.com/watch?v=1orwkijmkIU)
+🎵 **Selección de música folclórica clásica**: [Pan Yuyun — _La primavera también llega para el lirio silvestre_](https://www.youtube.com/watch?v=GSoLwHTXRmM) ｜ [Hu Defu — _El viento del Pacífico_](https://www.youtube.com/watch?v=1orwkijmkIU)
 
 ## El ocaso de una era y la transición
 
@@ -93,7 +103,7 @@ A principios de la década de 1980, el movimiento de la canción folclórica uni
 
 ### Ruptura generacional
 
-Las principales figuras del movimiento se graduaron y partieron al extranjero a proseguir sus estudios o cumplieron el servicio militar, lo que provocó una ruptura generacional. Yang Xian partió a Estados Unidos a estudiar medicina china tras publicar *Partida hacia el oeste por la puerta del sol* en 1977; Li Shuangze falleció accidentalmente en septiembre de 1977, a los 28 años, al rescatar a un joven que se ahogaba en el mar cerca de Tamsui — las dos obras que dejó, *Isla hermosa* y *China joven*, fueron completadas y grabadas posteriormente por Yang Zujun y Hu Defu[^2]. Muchos cantautores folclóricos también abandonaron temporal o definitivamente los escenarios por razones de planificación profesional.
+Las principales figuras del movimiento se graduaron y partieron al extranjero a proseguir sus estudios o cumplieron el servicio militar, lo que provocó una ruptura generacional. Yang Xian partió a Estados Unidos a estudiar medicina china tras publicar _Partida hacia el oeste por la puerta del sol_ en 1977; Li Shuangze falleció accidentalmente en septiembre de 1977, a los 28 años, al rescatar a un joven que se ahogaba en el mar cerca de Tamsui — las dos obras que dejó, _Isla hermosa_ y _China joven_, fueron completadas y grabadas posteriormente por Yang Zujun y Hu Defu[^2]. Muchos cantautores folclóricos también abandonaron temporal o definitivamente los escenarios por razones de planificación profesional.
 
 ### Cambio en el clima social
 
@@ -109,7 +119,7 @@ Aunque el movimiento de la canción folclórica universitaria llegó a su fin, s
 
 ### Lo Dayou: el heredero rebelde de la música folclórica
 
-Lo Dayou puede considerarse el heredero rebelde más importante del movimiento folclórico. Heredó el espíritu de "cantar nuestras propias canciones", pero rechazó la suavidad e inocencia de la música folclórica, optando en cambio por una forma más incisiva y crítica de abordar la realidad social. De *Zhihuzheye* a *Hogar*, Lo Dayou inauguró una nueva era en la música pop en lengua china.
+Lo Dayou puede considerarse el heredero rebelde más importante del movimiento folclórico. Heredó el espíritu de "cantar nuestras propias canciones", pero rechazó la suavidad e inocencia de la música folclórica, optando en cambio por una forma más incisiva y crítica de abordar la realidad social. De _Zhihuzheye_ a _Hogar_, Lo Dayou inauguró una nueva era en la música pop en lengua china.
 
 ### El ADN de la música independiente moderna
 
@@ -147,9 +157,9 @@ La respuesta que nos dio el movimiento de la canción folclórica taiwanesa es: 
 
 [^1]: [Museo Wiki de Tamsui: entrada sobre el Incidente de Tamkang](http://tamsui.dils.tku.edu.tw/wiki/index.php/%E6%B7%A1%E6%B1%9F%E4%BA%8B%E4%BB%B6) — El Museo Wiki de Tamsui documenta de forma completa el Incidente de Tamkang del 3/12/1976 en el concierto de la Universidad Tamkang, incluyendo fecha, personas presentes, detalles de la escena y su impacto posterior.
 
-[^2]: [Fount Media: "¡Cantar nuestras propias canciones!" Li Shuangze, fallecido prematuramente, influyó en varias generaciones de creadores](https://www.fountmedia.io/article/104260) — Reportaje en profundidad sobre la vida de Li Shuangze, la escena del Incidente de Tamkang con la botella de Coca-Cola, la composición de *Isla hermosa* y *China joven*, y su herencia espiritual a figuras posteriores como Hu Defu, Yang Xian y Lo Dayou.
+[^2]: [Fount Media: "¡Cantar nuestras propias canciones!" Li Shuangze, fallecido prematuramente, influyó en varias generaciones de creadores](https://www.fountmedia.io/article/104260) — Reportaje en profundidad sobre la vida de Li Shuangze, la escena del Incidente de Tamkang con la botella de Coca-Cola, la composición de _Isla hermosa_ y _China joven_, y su herencia espiritual a figuras posteriores como Hu Defu, Yang Xian y Lo Dayou.
 
-[^3]: [Revista *Intercambio* de la Fundación para el Intercambio a través del Estrecho: artículo especial por los cuarenta años de música folclórica](https://www.sef.org.tw/article-1-129-5006) — Artículo retrospectivo extenso conmemorativo del cuadragésimo aniversario de la música folclórica, que incluye el momento histórico del concierto de Yang Xian "Concierto de Creación de Baladas Modernas" del 6/6/1975 en el Salón Conmemorativo Sun Yat-sen, donde se interpretó por primera vez *Cuatro estrofas de nostalgia* de Yu Guangzhong.
+[^3]: [Revista _Intercambio_ de la Fundación para el Intercambio a través del Estrecho: artículo especial por los cuarenta años de música folclórica](https://www.sef.org.tw/article-1-129-5006) — Artículo retrospectivo extenso conmemorativo del cuadragésimo aniversario de la música folclórica, que incluye el momento histórico del concierto de Yang Xian "Concierto de Creación de Baladas Modernas" del 6/6/1975 en el Salón Conmemorativo Sun Yat-sen, donde se interpretó por primera vez _Cuatro estrofas de nostalgia_ de Yu Guangzhong.
 
 [^4]: [Wikipedia: Canción folclórica universitaria](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C) — Entrada completa de Wikipedia en chino sobre "canción folclórica universitaria", que incluye el posicionamiento histórico de Yang Xian como "padre de la canción folclórica moderna" y una visión general del movimiento folclórico.
 

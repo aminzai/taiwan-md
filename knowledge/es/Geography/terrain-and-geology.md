@@ -12,7 +12,7 @@ tags:
     'Aguas termales',
   ]
 subcategory: '氣候與溫泉'
-category: 'geography'
+category: 'Geography'
 readingTime: 8
 lastVerified: 2026-03-23
 lastHumanReview: false
@@ -21,6 +21,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1c19912f3b7cdf1b'
 sourceBodyHash: 'sha256:ff4a4e3156ba7d86'
 translatedAt: '2026-05-01T22:19:10+08:00'
+author: 'Taiwan.md'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** Taiwán es una de las cadenas orogénicas más jóvenes del mundo, pero al mismo tiempo conserva rocas antiguas de hace más de 200 millones de años. La placa del Mar de Filipinas colisiona a una velocidad de 8,2 centímetros por año, lo que otorga a Taiwán la velocidad de orogenia más rápida del mundo, las aguas termales más densas y casi 40.000 terremotos al año — esta isla de 36.197 kilómetros cuadrados es la encarnación de la actividad geológica más intensa de la Tierra.

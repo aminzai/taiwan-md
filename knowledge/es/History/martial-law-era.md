@@ -8,12 +8,13 @@ category: 'History'
 author: 'Taiwan.md'
 readingTime: 12
 lastVerified: 2026-05-16
-lastHumanReview: false
+lastHumanReview: true
 translatedFrom: 'History/戒嚴時期.md'
 sourceCommitSha: '9ecd20d6'
 sourceContentHash: 'sha256:7647443db6f06a5f'
 sourceBodyHash: 'sha256:028c0bee94ad5d00'
 translatedAt: '2026-05-17T05:33:00Z'
+featured: true
 ---
 
 # El periodo de la ley marcial

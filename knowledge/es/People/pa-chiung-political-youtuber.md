@@ -14,7 +14,7 @@ tags:
     'Autoinculpación',
   ]
 subcategory: '數位與媒體'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'People'
 readingTime: 20
 lastVerified: 2026-04-20
@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:6599b2ad4c30bd09'
 sourceBodyHash: 'sha256:bc866bec1fdcbd6f'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 # Pa Chiung: del joven taroko de Hualien al "oyente bajo la cama" por cuya cabeza el PCCh ofrece un millón

@@ -18,6 +18,10 @@ sourceContentHash: 'sha256:d707615db91a024a'
 sourceBodyHash: 'sha256:7e08a20853bbe066'
 translatedAt: '2026-06-10T16:45:00+00:00'
 category: Economy
+author: 'Taiwan.md'
+featured: false
+lastVerified: 2026-03-21
+lastHumanReview: false
 ---
 
 > Cada noche, a las seis en punto, 233 000 puestos de Taiwán encienden sus luces al mismo tiempo. No hay marca unificada, no hay decoración lujosa, ni siquiera hay ubicaciones fijas, pero estos puestos aparentemente "poco profesionales" generan una producción anual cercana a los 400 mil millones de dólares taiwaneses y sostienen a 470 000 familias. Es el modelo de negocio más peculiar del mundo y el experimento económico más exitoso de Taiwán.

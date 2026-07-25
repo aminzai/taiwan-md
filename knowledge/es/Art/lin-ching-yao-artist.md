@@ -2,7 +2,7 @@
 title: 'Lin Ching-Yao: Del movimiento Yunshou del tai chi a los algoritmos, responde con lo «existente pero invisible»'
 description: 'Nacido en Kaohsiung, posee un Grado en Composición Musical por la Universidad de las Artes de Taipéi, una Maestría en Artes de Nuevos Medios por la misma institución, un Doctorado en Redes de Información y Multimedia por la Universidad Nacional de Taiwán, y realizó estudios postdoctorales en la École des Beaux-Arts de París. Fue profesor de la Universidad Nacional Tsing Hua y de la Universidad Nacional de las Artes de Taiwán, y se desempeñó como Director del Laboratorio de Sonido de Taiwán de C-LAB (2019). Actualmente es profesor asistente de proyecto en el Programa de Grado en Innovación de la D-School de la Universidad Nacional de Taiwán. En 2022, presentó su obra generativa Metaphysics en Art Blocks (200 ediciones) y Mythologic en una exhibición de acuñación interactiva en Art Basel Hong Kong. Es artista generativo de la serie El reino secreto del Proyecto Baiyue de FAB DAO. Su proposición central de creación no ha cambiado en quince años: «Muchas cosas en el mundo son perceptibles pero invisibles».'
 date: 2026-04-21
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 category: 'Art'
 subcategory: '生成藝術'
 tags:

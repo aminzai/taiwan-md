@@ -26,6 +26,7 @@ sourceContentHash: 'sha256:137ce9f0ad4e78d5'
 sourceBodyHash: 'sha256:d9aced35b5cf6b29'
 translatedAt: '2026-05-02T14:18:00+08:00'
 category: People
+author: 'Taiwan.md'
 ---
 
 # Teresa Teng

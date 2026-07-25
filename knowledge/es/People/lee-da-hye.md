@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:5948ff9d2aa67b97'
 sourceBodyHash: 'sha256:b16f2be3d2468ceb'
 translatedAt: '2026-05-17T06:00:00Z'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** En 2023, hizo su primera aparición oficial en un estadio taiwanés; en 2024, se unió a Wei Quan Long; en 2026, renovó como capitana de las Dragon Beauties. Lee Da-hye no es solo una animadora coreana de gran popularidad: es una señal de época. Las animadoras coreanas en Taiwán pasaron de "venir un momento" a "quedarse a largo plazo".
@@ -50,7 +51,7 @@ Al mismo tiempo, las expectativas de los aficionados taiweses también cambiaron
 
 ## 2026: temporada de intercambio con la liga coreana e identidad visual del equipo
 
-En la rueda de prensa de inicio de la temporada 2026, Wei Quan Long anunció una colaboración estratégica con los LG TWINS de la liga profesional coreana. Según informó la edición digital de *United Daily News*/UDN, las Dragon Beauties presentaron un nuevo uniforme con estilo qipao diseñado por Lee Da-hye; representantes de las animadoras de los LG TWINS también compartieron en el acto el plan de intercambio entre ambas partes y anticiparon una jornada temática conjunta de animación entre Wei Quan Long y los LG Twins en el Taipei Dome los días 26 y 27 de mayo. [Fuente: United Daily News / UDN][^5]
+En la rueda de prensa de inicio de la temporada 2026, Wei Quan Long anunció una colaboración estratégica con los LG TWINS de la liga profesional coreana. Según informó la edición digital de _United Daily News_/UDN, las Dragon Beauties presentaron un nuevo uniforme con estilo qipao diseñado por Lee Da-hye; representantes de las animadoras de los LG TWINS también compartieron en el acto el plan de intercambio entre ambas partes y anticiparon una jornada temática conjunta de animación entre Wei Quan Long y los LG Twins en el Taipei Dome los días 26 y 27 de mayo. [Fuente: United Daily News / UDN][^5]
 
 ## Su influencia en el desarrollo en Taiwán
 
@@ -74,7 +75,7 @@ Por eso Lee Da-hye merece un lugar en la sección de personajes populares de Tai
 
 ## Referencias / Fuentes
 
-[^5]: *United Daily News* / UDN (reportera Chen Wan-ching), «CPBL / Primer vistazo al nuevo uniforme diseñado por Lee Da-hye: jornada temática conjunta con LG TWINS en mayo en el Taipei Dome», 23-03-2026, https://udn.com/news/story/7002/9397592
+[^5]: _United Daily News_ / UDN (reportera Chen Wan-ching), «CPBL / Primer vistazo al nuevo uniforme diseñado por Lee Da-hye: jornada temática conjunta con LG TWINS en mayo en el Taipei Dome», 23-03-2026, https://udn.com/news/story/7002/9397592
 
 Otras fuentes verificables:
 

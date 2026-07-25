@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d00de39e39633054'
 sourceBodyHash: 'sha256:dc8842a4b46a7f80'
 translatedAt: 2026-05-01T20:54:23+08:00
+featured: false
 ---
 
 > **Resumen en 30 segundos:** El sambar de Taiwán (_Rusa unicolor swinhoii_) es el mayor herbívoro de la isla. Debido a la caza excesiva y la destrucción de su hábitat, se retiró a las zonas alpinas. En los últimos años, los esfuerzos de conservación han logrado que su población se recupere y comience a expandirse hacia tierras bajas, lo que ha generado la polémica de ser un "asesino forestal". La investigación del equipo de Yen Shih-ching, de la Universidad Nacional de Ciencia y Tecnología de Pingtung, señala que la mordedura de corteza por parte del sambar tiene como objetivo principal la ingesta de taninos para automedicación, un fenómeno que también involucra el complejo equilibrio del ecosistema alpino de Taiwán y la memoria cultural de los pueblos indígenas.

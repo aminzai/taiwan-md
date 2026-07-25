@@ -1,7 +1,7 @@
 ---
 title: 'La calle antigua de Hukou: al mudarse el tren en 1929, la calle de ladrillo rojo quedó inmóvil durante un siglo'
 description: 'En 1893, el ferrocarril de Liu Mingchuan estableció una estación aquí, transformando un poblado hakka disperso en un centro de distribución de productos de Zhu-Miao; en 1917 se iniciaron las obras del Templo Sanyuan, que se completaron al año siguiente, y se alzaron edificios de ladrillo rojo a lo largo de la calle. En 1929, los japoneses consideraron la pendiente demasiado pronunciada y trasladaron la estación al norte, hacia la actual estación de Hukou; la prosperidad de dieciséis años cesó abruptamente, y desde entonces este lugar pasó a conocerse como «Hukou Antiguo». Sobre la base del antiguo estación se construyó posteriormente una iglesia católica, mientras el Templo Sanyuan permanecía en su sitio; la calle abandonada por el ferrocarril, paradójicamente, evitó las demoliciones y reconstrucciones de posguerra.'
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區'
@@ -14,10 +14,10 @@ tags:
   - 'Historia del ferrocarril'
   - 'Iglesia católica de Hukou Antiguo'
   - 'Distrito histórico'
-readingTime: '9'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 9
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'Geography/湖口老街.md'
 sourceCommitSha: 'e62d901cf'
 sourceContentHash: 'sha256:01c55f03cc9ccbf2'

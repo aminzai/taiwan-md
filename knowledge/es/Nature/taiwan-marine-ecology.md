@@ -24,6 +24,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:34ef5e8d367bee9d'
 sourceBodyHash: 'sha256:d270d18b5c4f802e'
 translatedAt: 2026-05-01T20:54:23+08:00
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Ecosistema marino de Taiwán

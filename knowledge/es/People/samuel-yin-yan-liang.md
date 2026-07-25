@@ -1,7 +1,7 @@
 ---
 title: 'Samuel Yin: el premio científico que construyó vale más que el Nobel'
 description: 'El 26 de mayo de 2026, a las cuatro horas y veintiuna minutos de la madrugada, Samuel Yin, presidente del Grupo Ruentex y fundador del Tang Prize, falleció en el Hospital General de Veteranos de Taipéi a los 76 años de edad. Desde el adolescente pendenciero al que Wang Jinping vendó las heridas en la secundaria Jin De, hasta su llegada en 1989 a la Universidad de Pekín con el polvo cubriéndole los tobillos y su decisión de financiar la fundación de la Guanghua School of Management, hasta la creación en 2012 del Tang Prize con un fondo fiduciario de 3,000 millones de dólares taiwaneses. El premio asciende a 50 millones de dólares taiwaneses por categoría, más que el Nobel. Un empresario taiwanés que acaba de partir dejó al mundo un premio más valioso que el Nobel.'
-date: '2026-05-26'
+date: 2026-05-26
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '企業家'
@@ -24,9 +24,9 @@ tags:
     'sovereignty preservation',
     'Fallecimiento 2026',
   ]
-lastVerified: '2026-05-26'
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-05-26
+lastHumanReview: false
+featured: true
 translatedFrom: 'People/尹衍樑.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:ca0ab51cac71e4a7'

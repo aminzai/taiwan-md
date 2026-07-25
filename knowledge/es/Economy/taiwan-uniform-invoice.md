@@ -13,9 +13,9 @@ tags:
     gobernanza digital,
   ]
 category: Economy
-author: 'Taiwan.md Translation Team'
-readingTime: 18
-lastVerified: 2026-05-02
+author: 'Taiwan.md Contributors'
+readingTime: 14
+lastVerified: 2026-07-18
 lastHumanReview: false
 translatedFrom: 'Economy/發票.md'
 sourceCommitSha: '4b6d28c5'
@@ -26,6 +26,7 @@ image: '/article-images/economy/invoice-tk3c-receipt-2007.webp'
 imageCredit: 'Solomon203 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TK3C_307_uniform_invoice_9501261_20070913.jpg'
+featured: false
 ---
 
 > **Resumen en 30 segundos:**

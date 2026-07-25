@@ -14,7 +14,7 @@ tags:
     'Récord asiático',
     'Juegos Olímpicos de Tokio',
   ]
-readingTime: 7
+readingTime: 8
 # design_rationale:
 #   why_this_hook: "從『最後一擲逆轉』切入——91.36米不只是距離，是最後一投的戲劇性，以及亞洲標槍在那一秒改變的事實。"
 #   whats_excluded: "助跑技術細節；各年度比賽逐場成績；訓練設施資訊"

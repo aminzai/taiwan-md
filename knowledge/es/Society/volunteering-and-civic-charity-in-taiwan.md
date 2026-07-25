@@ -1,7 +1,7 @@
 ---
 title: 'La cultura del voluntariado y la participación cívica en Taiwán: la bondad cotidiana de una isla'
 description: '30 amas de casa ahorraban cinco jiao al día; 60 años después, ese gesto se convirtió en un imperio benéfico presente en 128 países. La cultura del voluntariado en Taiwán no es un lema: es un ADN colectivo escrito en la vida diaria.'
-date: '2026-03-28'
+date: 2026-03-28
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '社區與日常'
@@ -14,7 +14,7 @@ tags:
     'desarrollo comunitario',
     'mamás cuentacuentos',
   ]
-lastVerified: '2026-03-28'
+lastVerified: 2026-03-28
 lastHumanReview: true
 featured: false
 translatedFrom: 'Society/台灣志工文化與公益參與.md'

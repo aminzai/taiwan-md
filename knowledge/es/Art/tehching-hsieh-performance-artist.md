@@ -19,7 +19,7 @@ tags:
   ]
 readingTime: 16
 lastVerified: 2026-04-20
-lastHumanReview: 2026-04-20
+lastHumanReview: true
 featured: false
 translatedFrom: 'Art/謝德慶.md'
 sourceCommitSha: 'd520299b'

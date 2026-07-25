@@ -1,7 +1,7 @@
 ---
 title: 'Festival de los Muertos: De la angustia por las almas errantes a la reconciliación comunitaria de una isla'
 description: "El Festival de los Muertos en Taiwán no es solo un acto de temor hacia los espíritus, sino un registro de supervivencia sobre colonización, conflicto y fusión étnica. Desde la reconciliación con lágrimas en Keelung hasta la competencia extrema de 'reclamar a los perdidos' (搶孤) en Toucheng, esta festividad revela cómo el pueblo taiwanés transformó el miedo en un tratado de paz social."
-date: '2026-07-20'
+date: 2026-07-20
 category: 'Culture'
 subcategory: 'Festividades y Costumbres'
 tags:
@@ -12,15 +12,16 @@ tags:
     'Folclore taiwanés',
     'Historia',
   ]
-readingTime: '8'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 8
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/中元節.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:92d21a8f6666e1c2'
 sourceBodyHash: 'sha256:036fefb83f0557fd'
 translatedAt: '2026-07-23T23:06:50+08:00'
+author: 'Taiwan.md Contributors'
 ---
 
 > **Resumen de 30 segundos:** El Festival de los Muertos en Taiwán no es un mero ritual religioso, sino un "tratado de paz social" que se extiende por cientos de años. La dureza de la colonización temprana y las sangrientas luchas entre grupos étnicos impulsaron a los primeros pobladores a establecer mecanismos competitivos como el Festival de los Muertos de Keelung, donde "la competencia reemplaza al combate". Esta festividad considera a los "forasteros" que mueren lejos su "buenos hermanos", lo que refleja la caridad migratoria y la cohesión comunitaria únicas de Taiwán.

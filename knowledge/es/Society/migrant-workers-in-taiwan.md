@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:56c198b69b8ecacd'
 sourceBodyHash: 'sha256:223753ff8fc1f5ae'
 translatedAt: 2026-05-02T01:17:17+08:00
+featured: false
 ---
 
 > **Panorama en 30 segundos:** En Taiwán en 2026, uno de cada 26 habitantes es un trabajador migrante internacional. El número total ha escalado a 873.000 personas; si se incluyen los aproximadamente 94.000 trabajadores migrantes desaparecidos, este grupo de personas lejanas a su hogar representa ya más del 5% de la población residente en Taiwán. Desde la cultura de transmisiones en vivo en el vestíbulo de la Estación de Taipéi, hasta la insistencia en la "abolición del límite de años de trabajo" en la gran marcha de trabajadores migrantes, pasando por la ola de oposición a los trabajadores migrantes indios que superó las 40.000 firmas en abril de 2026, Taiwán se encuentra en una encrucijada entre la grave escasez de mano de obra y la ansiedad por la cohesión social. Esto no es solo una política laboral, sino una prueba colectiva sobre cómo Taiwán define "nosotros".

@@ -1,7 +1,7 @@
 ---
 title: 'Ashan'
 description: 'El 15 de octubre de 2023, el creador de contenido de videojuegos Ashan, con 3 millones de suscriptores, publicó su último vídeo, marcando el final de una carrera de 14 años. Este creador, que se hizo famoso con la serie «Minecraft» y creó la leyenda del «daily upload» durante 11 años consecutivos, eligió retirarse en la cúspide de su carrera, declarando que antes vivía «como si no fuera humano», revelando la cruel lucha entre los algoritmos y la propia vida de los creadores de élite.'
-date: 2026-04-19
+date: 2026-07-15
 category: 'People'
 tags:
   - 'YouTuber'
@@ -9,10 +9,10 @@ tags:
   - 'Minecraft'
   - 'Medios digitales'
 subcategory: '數位與媒體'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-04-19
-lastHumanReview: true
+lastVerified: 2026-07-15
+lastHumanReview: false
 translatedFrom: 'People/阿神.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:c0745c4b9d2ae295'
@@ -22,6 +22,7 @@ image: '/article-images/people/ashan-2026-return-minecraft.webp'
 imageCredit: '阿神官方 YouTube 頻道'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
+readingTime: 18
 ---
 
 ## Ashan: de la «máquina de trabajo» del daily upload de 11 años a un YouTuber millonario que recupera su vida

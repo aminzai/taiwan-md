@@ -22,6 +22,7 @@ sourceContentHash: 'sha256:b35bf2bd112055a5'
 sourceBodyHash: 'sha256:bbb48d4bf913e4a0'
 translatedAt: 2026-05-01T20:54:23+08:00
 image: ''
+author: 'Taiwan.md'
 ---
 
 # Charles Le Gendre: el negociador y el traidor eran la misma persona

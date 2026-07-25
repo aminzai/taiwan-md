@@ -25,6 +25,7 @@ sourceContentHash: 'sha256:727c897f10782c2b'
 sourceBodyHash: 'sha256:3b63599a42d7872a'
 translatedAt: '2026-06-02T00:40:00+08:00'
 category: Technology
+difficulty: 'intermediate'
 ---
 
 # La industria robótica de Taiwán

@@ -1,7 +1,7 @@
 ---
 title: 'La frescura a las cinco de la mañana: la cadena de suministro y la frescura de la sopa de carne de res de Tainan'
 description: 'La sopa de carne de res de Tainan se ha consolidado como un «platillo emblemático» en menos de veinte años, pero la razón por la que vale la pena hacer fila a las cinco de la mañana es real: la carne fresca del matadero de Shanhua, la cadena de frío que se completa en pocas horas y el caldo de huesos de res que ya hierve desde el amanecer.'
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'Food'
 tags:
@@ -14,10 +14,10 @@ tags:
     'comida callejera',
   ]
 subcategory: '經典小吃'
-readingTime: '7'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 7
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'Food/牛肉湯.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:28c5ddfd25d93a95'

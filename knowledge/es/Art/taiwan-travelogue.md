@@ -1,7 +1,7 @@
 ---
 title: "Taiwan Travelogue: un libro 'traducido por la hermana menor', de Spring Hill al podio de premiación en Londres"
 description: "El día de junio de 2015 en que murió su hermana menor Yang Ruo-hui, Yang Ruo-ci abrió los cuadernos de cuentas que ella había dejado y comenzó a registrar gastos; tardó tres días en descifrar el código de marcas y círculos. Cinco años después, Spring Hill publicó Taiwan Travelogue bajo la firma 'escrito por Aoyama Chizuko, traducido por Yang Shuang-zi': en la línea de la traductora figuraba la hermana menor fallecida. En los National Book Awards de Nueva York de 2024 y en el Booker Prize de Londres de 2026, tradujo con el nombre de su hermana menor un libro que no existe."
-date: '2026-05-23'
+date: 2026-05-23
 author: 'Taiwan.md'
 category: 'Art'
 subcategory: '文學作品'
@@ -16,7 +16,7 @@ tags:
     'yuri',
     'Spring Hill Publishing',
   ]
-lastVerified: '2026-05-23'
+lastVerified: 2026-05-23
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/臺灣漫遊錄.md'

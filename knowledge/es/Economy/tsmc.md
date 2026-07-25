@@ -17,7 +17,7 @@ translatedAt: '2026-06-16T16:54:57Z'
 lastHumanReview: false
 readingTime: 14
 image: '/article-images/economy/tsmc-fabs-hsinchu-2020.webp'
-imageCredit: 'Tseng Cheng-Hsun via Wikimedia Commons'
+imageCredit: '曾成訓 (Tseng Cheng-Hsun) via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg'
 ---

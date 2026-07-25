@@ -2,7 +2,7 @@
 title: 'Cultura y lengua hakka'
 description: 'En 1988, un grupo de personas marchó por las calles de Taipéi con una foto de Sun Yat-sen con mascarilla puesta, luchando por el derecho a hablar su lengua materna. Ganaron, pero la lengua sigue desapareciendo.'
 date: 2026-03-24
-author: "'Taiwan.md'"
+author: 'Taiwan.md'
 category: Culture
 subcategory: "'族群文化'"
 tags:

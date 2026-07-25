@@ -1,7 +1,7 @@
 ---
 title: 'Por qué Taiwán necesita su propia base de conocimiento'
 description: 'Cuando los modelos de IA cuentan historias escritas ajenas en lenguaje humano, ¿cómo pueden los taiwaneses asegurarse de que su propia historia no sea reescrita?'
-date: 2026-03-19
+date: 2026-07-17
 tags:
   [
     'IA',
@@ -11,10 +11,10 @@ tags:
     'Soberanía del conocimiento',
     'Taiwán',
   ]
-author: 'Che-Yu Wu'
-readingTime: 8
+author: 'Taiwan.md'
+readingTime: 18
 category: 'About'
-lastVerified: 2026-03-19
+lastVerified: 2026-07-17
 lastHumanReview: false
 translatedFrom: 'About/為什麼台灣需要自己的知識庫.md'
 sourceCommitSha: 'a05d2431'
@@ -23,6 +23,7 @@ sourceBodyHash: 'sha256:352de879384e19e9'
 translatedAt: '2026-06-16T17:10:37Z'
 image: /article-images/about/taiwan-md-homepage-2026.webp
 imageCredit: 'Taiwan.md 首頁 · taiwan.md · CC BY-SA 4.0'
+featured: false
 ---
 
 # Por qué Taiwán necesita su propia base de conocimiento

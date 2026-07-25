@@ -20,7 +20,7 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-readingTime: '18'
+readingTime: 18
 translatedFrom: 'Nature/台灣藍鵲.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:69050f9233c761e6'

@@ -1,13 +1,20 @@
 ---
 title: 'Historia del desarrollo del rock taiwanés: treinta años de lo underground a la corriente principal'
 description: 'Desde el rock underground de la década de 1980 hasta el auge de las bandas en los años noventa, cómo el rock taiwanés pasó de los márgenes a la corriente principal y se convirtió en una fuerza importante del rock en lengua china'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '獨立與搖滾'
-tags: ['rock', 'historia de la música', 'música underground', 'bandas', 'música taiwanesa']
+tags:
+  [
+    'rock',
+    'historia de la música',
+    'música underground',
+    'bandas',
+    'música taiwanesa',
+  ]
 readingTime: 12
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'Music/台灣搖滾樂發展史.md'
@@ -45,7 +52,7 @@ El rock taiwanés temprano se desarrolló principalmente en pubs y pequeños esp
 
 ### El hito de Crystal Records
 
-En 1987, Ren Jiang-da asumió la dirección de **Crystal Records**, impulsó publicaciones como *Rocker* y comenzó a promover de manera sistemática la música underground.[^1] Crystal Records no solo editaba discos; también ofrecía escenarios a músicos underground a través del “Taipei New Music Festival”.
+En 1987, Ren Jiang-da asumió la dirección de **Crystal Records**, impulsó publicaciones como _Rocker_ y comenzó a promover de manera sistemática la música underground.[^1] Crystal Records no solo editaba discos; también ofrecía escenarios a músicos underground a través del “Taipei New Music Festival”.
 
 Después de la tercera edición del Taipei New Music Festival en 1989, los músicos participantes fueron reunidos en el compilado **Completely Out of Tune**, que incluyó obras tempranas de varias bandas que más tarde serían conocidas. Hasta hoy sigue siendo una fuente primaria para estudiar la música underground taiwanesa.[^2]
 
@@ -57,9 +64,9 @@ Después de la tercera edición del Taipei New Music Festival en 1989, los músi
 
 ### Blacklist Studio y el movimiento de la nueva canción taiwanesa
 
-En 1989, Blacklist Studio lanzó *Songs of Madness*, una crítica frontal de la política real a través del rock en taiwanés, y dejó una marca imposible de ignorar en la historia musical de Taiwán posterior al levantamiento de la ley marcial. Su principal creador, Chen Ming-chang, combinó guitarra acústica con letras en minnan para dar voz a las clases obreras y campesinas reprimidas; Lin Wei-che aportó arreglos de rock moderno, haciendo que “el taiwanés entrara al rock” y subiera formalmente al escenario central de la música.
+En 1989, Blacklist Studio lanzó _Songs of Madness_, una crítica frontal de la política real a través del rock en taiwanés, y dejó una marca imposible de ignorar en la historia musical de Taiwán posterior al levantamiento de la ley marcial. Su principal creador, Chen Ming-chang, combinó guitarra acústica con letras en minnan para dar voz a las clases obreras y campesinas reprimidas; Lin Wei-che aportó arreglos de rock moderno, haciendo que “el taiwanés entrara al rock” y subiera formalmente al escenario central de la música.
 
-El éxito de *Songs of Madness* desencadenó el movimiento más amplio de la “nueva canción taiwanesa”. Chen Ming-chang, Bobby Chen, Yeh Chi-tien, Lim Giong y otros crearon sucesivamente rock y folk en taiwanés o con acento minnan, rompiendo el marco de la música popular dominado entonces por el mandarín y devolviendo al taiwanés un lugar en los medios masivos.
+El éxito de _Songs of Madness_ desencadenó el movimiento más amplio de la “nueva canción taiwanesa”. Chen Ming-chang, Bobby Chen, Yeh Chi-tien, Lim Giong y otros crearon sucesivamente rock y folk en taiwanés o con acento minnan, rompiendo el marco de la música popular dominado entonces por el mandarín y devolviendo al taiwanés un lugar en los medios masivos.
 
 Este movimiento sentó además una doble base para el rock taike y la escena de la música independiente posteriores: la liberación lingüística convirtió el color local en un recurso creativo en lugar de un tabú, mientras que la rebeldía espiritual prolongó el cuestionamiento de la realidad social heredado del movimiento de canción folk.
 
@@ -77,7 +84,7 @@ La línea de ruido experimental incluyó a LTK Commune y The Clippers; Jutoupi y
 Fundada en 1989, después del levantamiento de la ley marcial, se hizo conocida por el ruido experimental y la crítica política. El estilo vocal desgarrado de su cantante, Ke Ren-jian, y los arreglos vanguardistas de la banda empujaron el rock taiwanés hacia un territorio de experimentación extrema.
 
 **Quarterback** (1995-)
-Banda punk liderada por Tiger Chen, conocida por riffs de guitarra concisos y contundentes y por letras directas. Su obra representativa, *Stand Up*, se convirtió en un clásico del rock taiwanés de los noventa.
+Banda punk liderada por Tiger Chen, conocida por riffs de guitarra concisos y contundentes y por letras directas. Su obra representativa, _Stand Up_, se convirtió en un clásico del rock taiwanés de los noventa.
 
 **Luantan Axiang** (1990-)
 Un intento innovador de combinar instrumentos tradicionales y rock. La forma de cantar de Axiang integró la ópera tradicional taiwanesa con la energía del rock, creando el estilo singular del “rock luantan”.
@@ -90,9 +97,9 @@ Fundada en 1997, **The Chairman** se convirtió en representante del rock en tai
 
 Obras principales:
 
-- *God Bless Taiwan*: obra representativa que combina cultura religiosa y rock
-- *Long Live*: álbum representativo que celebra la fundación de la banda
-- *You Don’t Understand*: narrativa rockera que muestra la vida cotidiana del pueblo taiwanés
+- _God Bless Taiwan_: obra representativa que combina cultura religiosa y rock
+- _Long Live_: álbum representativo que celebra la fundación de la banda
+- _You Don’t Understand_: narrativa rockera que muestra la vida cotidiana del pueblo taiwanés
 
 ### El fenómeno Mayday
 
@@ -170,7 +177,7 @@ Hoy, cuando escuchamos el ruido experimental de LTK Commune, el rock en taiwané
 
 ## Referencias
 
-- Ren Jiang-da y otros, eds., *Rock Voice: New Music Encyclopedia*, Crystal Records, 1990. [Crystal Records, Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B0%B4%E6%99%B6%E5%94%B1%E7%89%87)
+- Ren Jiang-da y otros, eds., _Rock Voice: New Music Encyclopedia_, Crystal Records, 1990. [Crystal Records, Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B0%B4%E6%99%B6%E5%94%B1%E7%89%87)
 - [“Contexto del rock taiwanés”, tablero PTT RockMetal, 2022](https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html)
 - [Sitio Freshmusic, “Las semillas de la música independiente taiwanesa: breve retrospectiva por el 30.º aniversario de Crystal Records”, 2016](https://freshmusic.sg/2016/12/11/crystal/)
 - [Notas de Yinmou, “Los impulsores de la música underground taiwanesa: el camino de nueva música de Crystal Records”](http://jeph.bluecircus.net/archives/44)
@@ -182,7 +189,11 @@ Hoy, cuando escuchamos el ruido experimental de LTK Commune, el rock en taiwané
 - [Registro histórico de ganadores de los Golden Melody Awards](https://gma.tavis.tw/)
 
 [^1]: Sitio Freshmusic, “Las semillas de la música independiente taiwanesa: breve retrospectiva por el 30.º aniversario de Crystal Records”, 2016. https://freshmusic.sg/2016/12/11/crystal/
+
 [^2]: Notas de Yinmou, “Los impulsores de la música underground taiwanesa: el camino de nueva música de Crystal Records”. http://jeph.bluecircus.net/archives/44
+
 [^3]: Wikipedia, “The Chairman”. https://zh.wikipedia.org/zh-hant/%E8%91%A3%E4%BA%8B%E9%95%B7%E6%A8%82%E5%9C%98
+
 [^4]: Tablero PTT RockMetal, “Contexto del rock taiwanés”, 2022. https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html
+
 [^5]: Oficina de Industrias Audiovisuales y Música Popular del Ministerio de Cultura, registros de actividades de festivales musicales. https://www.bamid.gov.tw/

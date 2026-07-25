@@ -5,7 +5,15 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '教育'
-tags: ['educación', 'admisión académica', 'educación obligatoria de doce años', 'educación técnico-profesional', 'reforma educativa', 'cultura de competencia']
+tags:
+  [
+    'educación',
+    'admisión académica',
+    'educación obligatoria de doce años',
+    'educación técnico-profesional',
+    'reforma educativa',
+    'cultura de competencia',
+  ]
 readingTime: 14
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +23,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:0a7458b73a859fea'
 sourceBodyHash: 'sha256:b2b271a1c8432769'
 translatedAt: '2026-05-20T05:08:32+08:00'
+difficulty: 'intermediate'
 ---
 
 # Sistema educativo y cultura de admisión académica
@@ -185,15 +194,19 @@ Cómo mantener la calidad educativa y la competitividad al tiempo que se crea un
 - [Za School](/society/雜學校) — Un carnaval de educación alternativa surgido tras el movimiento estudiantil del 18 de marzo, es un espacio concreto de imaginación fuera del sistema centrado en el ingreso académico.
 
 [^1]: Departamento de Estadísticas del Ministerio de Educación, «Estadísticas de acceso a la educación superior», https://stats.moe.gov.tw/
+
 [^2]: Ministerio de Educación, «Explicación de la política de educación básica obligatoria de doce años», https://www.moe.gov.tw/
+
 [^3]: Ministerio de Educación, «Marco general del currículo 108», https://www.naer.edu.tw/
+
 [^4]: OECD, «PISA 2022 Results», https://www.oecd.org/pisa/
+
 [^5]: Departamento de Estadísticas del Ministerio de Educación, «Portal de consulta de estadísticas educativas», https://stats.moe.gov.tw/
 
 ## Referencias
 
-- Huang Zhengjie, *Reflexiones sobre la reforma educativa en Taiwán* (https://www.books.com.tw/products/0010471343)
-- Yang Siwei, *Análisis de la política de educación básica obligatoria de doce años* (investigaciones relacionadas disponibles en [Revista de Investigación Educativa](https://www.edubook.com.tw/OAtw/File/PDf/49202.pdf))
+- Huang Zhengjie, _Reflexiones sobre la reforma educativa en Taiwán_ (https://www.books.com.tw/products/0010471343)
+- Yang Siwei, _Análisis de la política de educación básica obligatoria de doce años_ (investigaciones relacionadas disponibles en [Revista de Investigación Educativa](https://www.edubook.com.tw/OAtw/File/PDf/49202.pdf))
 - Documentos de política relevantes del [sitio web oficial del Ministerio de Educación](https://www.moe.gov.tw/)
 - Información institucional y datos estadísticos de los distintos niveles escolares
 - Informes de investigación y evaluación relacionados con la reforma educativa

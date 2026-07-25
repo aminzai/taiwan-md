@@ -1,7 +1,7 @@
 ---
 title: 'Formas costeras y paisajes marinos de Taiwán'
 description: 'En la Tierra, pocos lugares permiten partir desde una cima de casi 4.000 metros y caer en una fosa oceánica de 7.500 metros de profundidad en menos de 150 kilómetros. Taiwán sí. La línea costera de esta isla es un accidente de tránsito aún en curso —bello hasta cortar la respiración—.'
-date: '2026-03-24'
+date: 2026-03-24
 category: 'Geography'
 tags:
   [
@@ -14,7 +14,7 @@ tags:
 subcategory: '地形與地質'
 author: 'Taiwan.md'
 featured: true
-lastVerified: '2026-03-24'
+lastVerified: 2026-03-24
 lastHumanReview: true
 readingTime: 10
 translatedFrom: 'Geography/台灣海岸地形與海洋地景.md'
@@ -22,6 +22,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:8973e8b56e7201bf'
 sourceBodyHash: 'sha256:a8f819c22dc292c1'
 translatedAt: '2026-05-16T22:35:47Z'
+difficulty: 'intermediate'
 ---
 
 > **Panorama en 30 segundos:** Desde la cumbre del Monte Yu (3.952 m) hasta la Fosa de Ryukyu en el mar oriental (-7.507 m), la diferencia vertical supera los 11.000 metros en una distancia horizontal de menos de 150 kilómetros. Esta cifra convierte a Taiwán en una de las islas con mayor gradiente topográfico del planeta —más "concentrado" que saltar desde el Everest hasta la Fosa de las Marianas—. Y todo esto ocurrió en solo 5 millones de años.

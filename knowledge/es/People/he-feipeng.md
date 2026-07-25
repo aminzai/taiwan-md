@@ -13,6 +13,8 @@ sourceContentHash: 'sha256:c6c5b08befa8584a'
 sourceBodyHash: 'sha256:65be42b8cac6c9ca'
 translatedAt: '2026-05-16T22:20:03Z'
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 > **Panorama en 30 segundos:** En 1987, He Feipeng fundó la revista semanal de negocios 商業周刊 (Shangzhou). Durante los primeros siete años, la publicación registró pérdidas anuales de decenas de millones de dólares taiwaneses. Hoy, el grupo 城邦媒體集團 (Chengbang Media Group) que fundó no solo es el mayor imperio editorial de Taiwán, sino uno de los pocos medios tradicionales que ha sobrevivido a la ola de transformación digital. Su trayectoria es, en sí misma, la historia de supervivencia de los medios impresos taiwaneses frente al impacto digital.

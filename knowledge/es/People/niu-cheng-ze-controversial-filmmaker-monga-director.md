@@ -12,6 +12,8 @@ sourceContentHash: 'sha256:03252333a42bc60e'
 sourceBodyHash: 'sha256:decf157a216cec86'
 translatedAt: '2026-05-17T06:00:00Z'
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Niu Chengze: un cineasta entre el talento y la polémica
@@ -143,8 +145,13 @@ El caso de Niu Chengze representa un punto de inflexión importante en la indust
 ## Referencias
 
 [^1]: Taro News, «Sentencia firme del Tribunal Supremo en el caso de agresión sexual de Niu Chengze: cuatro años de prisión», https://taronews.tw/, septiembre de 2021
+
 [^2]: Sistema de consulta de datos judiciales del Poder Judicial, documento de la sentencia del caso de agresión sexual de Niu Chengze, https://judgment.judicial.gov.tw/
+
 [^3]: Central News Agency (CNA), «Niu Chengze acusado de agresión sexual: el Tribunal de Distrito de Taipéi lo declara culpable en primera instancia con cuatro años de prisión», https://www.cna.com.tw/, abril de 2020
+
 [^4]: Ministerio de Cultura, política de igualdad de género en la industria audiovisual taiwanesa, https://www.moc.gov.tw/
+
 [^5]: Fundación Awakening de la Mujer, documentación de incidencia social del movimiento MeToo en Taiwán, https://www.awakening.org.tw/
+
 [^6]: Wikipedia, entrada «Niu Chengze», https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4

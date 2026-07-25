@@ -1,7 +1,7 @@
 ---
 title: 'Ley de Atención Médica: cuarenta años entre regulación institucional y tensiones de mercado'
 description: 'La Ley de Atención Médica de Taiwán fue promulgada en 1986, reformada en 2017 respecto de la responsabilidad penal de los médicos y, en 2026, incorporó por ley la proporción enfermera-paciente. La ley habla de “promover el desarrollo sano de los servicios médicos”; lo que opera en la práctica es un sistema con 83% de camas hospitalarias privatizadas, una tasa de salida de médicos de urgencias dos o tres veces superior a la internacional, y más de mil enfermeras que renunciaron de forma continua antes de que la proporción enfermera-paciente quedara escrita en la ley. No es la Ley del Seguro Nacional de Salud, ni la Ley de Médicos: es la ley de base sobre cómo existe en Taiwán la institución llamada “hospital”, y también la tensión no resuelta durante cuarenta años entre el carácter público de la atención médica y los mecanismos de mercado.'
-date: '2026-05-10'
+date: 2026-05-10
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '法律與制度'
@@ -16,7 +16,7 @@ tags:
     'sociedad taiwanesa',
   ]
 readingTime: 18
-lastVerified: '2026-05-10'
+lastVerified: 2026-07-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/醫療法.md'

@@ -12,7 +12,7 @@ tags:
     'Fuerte Zelandia',
   ]
 subcategory: '歷史人物'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'People'
 featured: false
 lastVerified: 2026-03-27

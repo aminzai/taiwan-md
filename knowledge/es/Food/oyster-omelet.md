@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2d7f3f53fc22a03b'
 sourceBodyHash: 'sha256:dfebf81490e7a3d9'
 translatedAt: 2026-05-01T22:19:10+08:00
+featured: false
 ---
 
 > **Panorama en 30 segundos**

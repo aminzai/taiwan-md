@@ -1,7 +1,7 @@
 ---
 title: 'Ecosistema comercial periférico de los parques tecnológicos de Taiwán'
 description: '¿Por qué los restaurantes en las inmediaciones del Parque Software de Nankang, el Parque Tecnológico de Neihu, el Parque Científico de Hsinchu, el Parque Científico Central y el Parque Científico del Sur solo ofrecen almuerzo y han ido eliminando la cena? Este artículo descompone el fenómeno del comercio unipico en el corredor tecnológico de Taiwán desde tres perspectivas: patrones de desplazamiento, zonificación regulada por concesiones BOT y cambios en la cultura de las horas extras, y rastrea el impacto estructural que la inauguración de LaLaport en marzo de 2025 ha tenido sobre los establecimientos tradicionales de almuerzo en la Calle Sanzhong y la Calle Yuanqu.'
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '產業園區與商圈'
@@ -14,8 +14,8 @@ tags:
     'desplazamiento',
     'planificación urbana',
   ]
-readingTime: '12'
-lastVerified: '2026-05-18'
+readingTime: 12
+lastVerified: 2026-05-18
 lastHumanReview: true
 featured: false
 translatedFrom: 'Economy/台灣科技園區外圍商圈生態.md'
@@ -23,6 +23,7 @@ sourceCommitSha: 'cfaa22a5'
 sourceContentHash: 'sha256:516bf0a6d1966cf7'
 sourceBodyHash: 'sha256:96ee687ae59d6522'
 translatedAt: '2026-05-19T05:08:07+08:00'
+difficulty: 'intermediate'
 ---
 
 > **Panorama en 30 segundos**: Los cinco grandes parques tecnológicos de Taiwán (Parque Software de Nankang, Parque Tecnológico de Neihu, Parque Científico de Hsinchu, Parque Científico Central y Parque Científico del Sur) presentan un patrón común en sus zonas comerciales periféricas. Aunque emplean entre veinte y treinta mil trabajadores, estos aparecen de forma colectiva solo durante 90 minutos al mediodía y desaparecen alrededor de las seis y media de la tarde. Muchos restaurantes en la Calle Sanzhong, la Calle Yuanqu y la Segunda Calle Jingmao del Parque Software de Nankang han eliminado discretamente el servicio de cena para dedicarse exclusivamente al almuerzo. Tras la inauguración de LaLaport Nankang el 20 de marzo de 2025, incluso esta estrategia defensiva de "solo almuerzo" se enfrenta al desafío directo de las zonas gastronómicas de los centros comerciales en cadena.

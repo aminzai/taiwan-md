@@ -19,6 +19,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
 translatedAt: 2026-05-01T22:19:10+08:00
+featured: false
 ---
 
 > **Panorama en 30 segundos:** El mercado de la olla caliente (_hot pot_) en Taiwán genera un valor anual de cientos de miles de millones. No es solo una comida nacional para entrar en calor en invierno, sino una cultura gastronómica apta para las cuatro estaciones. Desde el _sukiyaki_ del período colonial japonés hasta las diversas ollas calientes traídas por inmigrantes de todas las provincias tras la guerra, pasando por las ollas individuales y las versiones gourmet de hoy, la historia evolutiva de la olla caliente taiwanesa refleja los cambios sociales y la fusión étnica de esta isla, dando como resultado un sabor único e irrepetible: el _taiwei_ (sabor taiwanés).

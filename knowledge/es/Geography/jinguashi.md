@@ -1,7 +1,7 @@
 ---
 title: 'Jinguashi: muchas capas de vida apiladas en una montaña, desde el oro aluvial, los prisioneros de guerra hasta el suelo arsenical sin limpiar'
 description: 'El 14 de noviembre de 1942, 523 prisioneros de guerra aliados entraron en las minas de cobre de Jinguashi, dando inicio a un período del que algunos salieron vivos tras tres años, mientras que otros no lograron salir. La forma en que se recuerda esta montaña suele ser a través de las luces nocturnas anaranjadas del sitio de los Trece Niveles, del gran lingote de oro de 220 kg que se puede tocar y del paisaje costero secreto que se visita de paso al ir a Jiufen. Sin embargo, la misma montaña también oculta el oro obtenido por los minadores locales a cambio de sus pulmones, los huesos de más de quinientos prisioneros de guerra extranjeros y un terreno arsenical que aún no ha sido completamente descontaminado. Solo al visualizar todo esto en conjunto se comprende la montaña completa de Jinguashi.'
-date: '2026-07-05'
+date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Geography'
 subcategory: '東北角・礦業聚落'
@@ -20,10 +20,10 @@ tags:
   - 'Santuario Quanji'
   - 'Asentamiento Minero'
   - 'Período de Gobierno Japonés'
-readingTime: '24'
-lastVerified: '2026-07-05'
-lastHumanReview: 'true'
-featured: 'false'
+readingTime: 24
+lastVerified: 2026-07-05
+lastHumanReview: true
+featured: false
 translatedFrom: 'Geography/金瓜石.md'
 sourceCommitSha: '676c8cd6'
 sourceContentHash: 'sha256:36ec0adabddd5612'

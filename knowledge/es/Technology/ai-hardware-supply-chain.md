@@ -18,7 +18,7 @@ tags:
   - 'empaquetado avanzado'
   - 'industria tecnológica taiwanesa'
 subcategory: 'Semiconductores y hardware'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -195,12 +195,21 @@ Y esa es también una de las posiciones más claras, y más necesitadas de ser v
 ## Referencias
 
 [^1]: [CNA: llega el «banquete del billón» de Jensen Huang; asisten C.C. Wei, Young Liu, Barry Lam y otras grandes figuras](https://www.cna.com.tw/news/afe/202605280300.aspx) — Reportaje de la agencia CNA del 28 de mayo de 2026 sobre la cena a la que Jensen Huang convocó en Taipéi a directivos de las empresas taiwanesas de la cadena de IA, con la enumeración de categorías como fundición, empaquetado y pruebas, módulos de disipación, gestión de alimentación, placas base, fabricación por encargo y marcas.
+
 [^2]: [TSMC Logic Technology](https://www.tsmc.com/english/dedicatedFoundry/technology/logic) — Página oficial de tecnología de procesos lógicos de TSMC, con los procesos lógicos avanzados de 7, 5, 3 y 2 nanómetros, A16 y A14 y la explicación de su hoja de ruta.
+
 [^3]: [TSMC Advanced Packaging Services](https://www.tsmc.com/english/dedicatedFoundry/services/advanced-packaging) — Página oficial de servicios de empaquetado avanzado de TSMC, que explica que 3DFabric incluye tecnologías de integración de front-end y back-end como SoIC, CoWoS e InFO.
+
 [^4]: [AP: Taiwan takes a further step in production of AI chips with advanced new plant](https://apnews.com/article/1e087e92592b0b9ab7fb20442a5b8dc7) — Reportaje de AP sobre la nueva planta de SPIL en Taichung y la asistencia de Jensen Huang, que aporta una perspectiva internacional sobre el papel del empaquetado avanzado taiwanés en la cadena de los chips de IA.
+
 [^5]: [AP: Taiwan's AI-powered economy soars in the shadow of bubble fears and China threats](https://apnews.com/article/7527bd4bf3089cbd2dab1c530ee61c3e) — Reportaje de AP de 2026 sobre cómo la demanda de IA impulsa el crecimiento económico y las exportaciones de Taiwán, que a la vez ordena las limitaciones de la burbuja de la IA, el riesgo geopolítico y la desigualdad de renta; resulta adecuado como material de equilibrio.
+
 [^6]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Reportaje de un medio tecnológico sobre la advertencia de la industria taiwanesa de semiconductores acerca de la energía verde y la estabilidad del suministro; sirve como fuente secundaria sobre las limitaciones energéticas y la presión de RE100, aunque para una cita formal conviene acudir a TSIA o al texto oficial.
+
 [^7]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Reportaje sobre el plan de ahorro energético de TSMC en EUV y la escala de su consumo total; adecuado para explicar la tensión entre la mejora de la eficiencia y el crecimiento del total, aunque para una cita formal conviene contrastarlo con la documentación de sostenibilidad de TSMC.
+
 [^8]: [WIRED: Want to Win a Chip War? You’re Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — Reportaje de WIRED de 2023 sobre la necesidad de agua ultrapura e instalaciones de tratamiento en la fabricación de semiconductores, que menciona además la tensión entre TSMC y el agua agrícola durante las sequías taiwanesas y sostiene el apartado de recursos hídricos de este texto.
+
 [^9]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Estudia la huella ambiental de 16 fabricantes taiwaneses de componentes electrónicos entre 2015 y 2020, y plantea que la energía, el agua y las emisiones aumentan con el crecimiento de la producción, además del riesgo de carbon lock-in.
+
 [^10]: [CNA: Young Liu confía en los envíos de Vera Rubin de NVIDIA en el segundo semestre](https://www.cna.com.tw/news/afe/202605290100.aspx) — Reportaje de la agencia CNA del 29 de mayo de 2026, en el que el presidente de Foxconn, Young Liu, habla de los envíos de la plataforma Vera Rubin, de CPO y fotónica de silicio y de la exhibición de sistemas de servidores de IA.

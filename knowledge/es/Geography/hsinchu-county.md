@@ -1,7 +1,7 @@
 ---
 title: 'Condado de Hsinchu: 235 años de fe en los Yi-min y el ingreso per cápita más alto de Taiwán, conviviendo junto al mismo río Touqian'
 description: 'En el invierno de 1788, en la ladera de una colina en Xinpu, se colocó la fundación de un Pabellón Bao-chong para enterrar conjuntamente a más de doscientos milicianos yi-min (voluntarios justos) de origen Hakka caídos durante la rebelión de Lin Shuangwen. 235 años después, el ritual rotativo de los quince lián-zhuang (alianzas de aldeas) del Festival de los Yi-min, celebrado cada año el vigésimo día del séptimo mes lunar, sigue en marcha. A 5 kilómetros de distancia, en la ciudad de Zhubei, el ingreso per cápita de 1.442 millones de dólares taiwaneses en 2025 se alzó con el primer lugar entre las 368 divisiones municipales de todo Taiwán, atraído por la fábrica de obleas de 2 nanómetros de la Fase II de Baoshan de TSMC. El 67.8% de la población del Condado de Hsinchu es de origen Hakka, la proporción más alta de Taiwán. Pero entre los 220,000 habitantes de Zhubei, sede del condado, los jóvenes Hakka que pueden permitirse comprar una casa en su propia tierra natal son cada vez menos.'
-date: 2025-05-18
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -22,7 +22,7 @@ tags:
     'Serie de 22 condados y ciudades',
   ]
 readingTime: 17
-lastVerified: 2025-05-18
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: Geography/新竹縣.md

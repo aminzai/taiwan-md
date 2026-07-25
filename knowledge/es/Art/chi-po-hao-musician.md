@@ -1,7 +1,7 @@
 ---
 title: 'Chi Po-hao: el hombre que pasó de la economía al sonido y usa algoritmos para formular una pregunta: ¿realmente estás escuchando?'
 description: 'Chi Po-hao (Pohao Chi), nacido en 1989, es artista sonoro, compositor y curador. Graduado del Departamento de Economía de la Universidad Nacional de Taiwán, obtuvo una maestría en música en Goldsmiths, University of London; en 2021, como estudiante de la maestría en Art, Culture and Technology del MIT, ganó el primer premio de artes visuales Harold and Arlene Schnitzer Prize. En 2014 fue seleccionado para el Taipei Art Awards, recibió apoyo del Museo Nacional de Bellas Artes de Taiwán para realizar una residencia en V2, Róterdam, y fue elegido para el programa Wanderer Project de Cloud Gate; en 2015 recorrió más de mil kilómetros a lo largo del corredor de Hexi, y en 2017 fundó Zone Sound Creative. En 2025 presentó Reciter(s) 2.0 en C-LAB DIVERSONICS y fue seleccionado con Cybernetics of Waterscape para el pabellón taiwanés Polyphony de Ars Electronica 2025; en marzo de 2026 participó en los IRCAM Forum Workshops de París, y en abril del mismo año Life in Motion se exhibió en The Music Center de Los Ángeles. Usa algoritmos, GPS y sonidos sintetizados por IA para medir el mundo, pero siempre vuelve a la misma pregunta: si el acto de escuchar todavía conserva una voluntad propia.'
-date: '2026-04-21'
+date: 2026-04-21
 author: 'Taiwan.md Contributors'
 category: 'Art'
 subcategory: '聲音藝術'
@@ -25,8 +25,8 @@ tags:
     'Ars Electronica',
     'The Music Center',
   ]
-readingTime: '16'
-lastVerified: '2026-05-15'
+readingTime: 16
+lastVerified: 2026-05-15
 lastHumanReview: true
 featured: false
 translatedFrom: 'Art/紀柏豪.md'

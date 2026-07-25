@@ -12,7 +12,7 @@ tags:
     'Memoria local',
   ]
 subcategory: '軍事歷史'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'History'
 readingTime: 12
 lastVerified: 2026-03-24
@@ -22,6 +22,7 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:24a72a8ef4ad1c70'
 sourceBodyHash: 'sha256:67689aef546b2c21'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 # Las dos caras de la calle Shengli: del golpe blindado al "gran aparcamiento" en la memoria de Hukou

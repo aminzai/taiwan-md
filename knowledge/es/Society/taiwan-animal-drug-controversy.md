@@ -15,15 +15,16 @@ tags:
     'Taiwan',
   ]
 category: 'Society'
-author: 'Taiwan.md Contributors'
+author: 'Taiwan.md'
 readingTime: 18
 featured: false
-lastVerified: 2026-04-11
+lastVerified: 2026-04-10
 translatedFrom: 'Society/台灣動物用藥爭議.md'
 sourceCommitSha: '9a60e8fd'
 sourceContentHash: 'sha256:670bf6306d125685'
 sourceBodyHash: 'sha256:58df60a34bbdc3ea'
 translatedAt: '2026-05-26T21:07:27Z'
+lastHumanReview: false
 ---
 
 # La controversia sobre los medicamentos de uso animal en Taiwán

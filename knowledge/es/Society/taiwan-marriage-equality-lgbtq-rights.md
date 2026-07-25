@@ -24,6 +24,7 @@ sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:369f015f40df17bd'
 sourceBodyHash: 'sha256:87466d8232d3f86e'
 translatedAt: '2026-05-01T22:19:10+08:00'
+difficulty: 'beginner'
 ---
 
 # Matrimonio igualitario y equidad de género en Taiwán

@@ -5,7 +5,15 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '語言與文字'
-tags: ['zhuyin', 'lenguaje', 'educación', 'identidad cultural', 'método de entrada', 'ㄅㄆㄇ']
+tags:
+  [
+    'zhuyin',
+    'lenguaje',
+    'educación',
+    'identidad cultural',
+    'método de entrada',
+    'ㄅㄆㄇ',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: true
@@ -15,6 +23,7 @@ sourceCommitSha: f712b7242
 sourceContentHash: sha256:60ed5696349fd181
 sourceBodyHash: sha256:220255acfc6a8977
 translatedAt: 2026-05-20T05:08:32+08:00
+difficulty: 'beginner'
 ---
 
 # Zhuyin: el código fonético exclusivo de Taiwán
@@ -129,7 +138,10 @@ En una era de cambios acelerados, el zhuyin nos recuerda que **hay cosas valiosa
 
 ## Referencias
 
-[^1]: Ministerio de Educación de la República de China, *Guía de enseñanza de los símbolos zhuyin*, edición 2024, https://language.moe.gov.tw/
+[^1]: Ministerio de Educación de la República de China, _Guía de enseñanza de los símbolos zhuyin_, edición 2024, https://language.moe.gov.tw/
+
 [^2]: Wikipedia, artículo "Símbolos zhuyin", https://zh.wikipedia.org/wiki/注音符號
-[^3]: Comité de Promoción del Idioma Nacional del Ministerio de Educación de la República de China, *Evolución de los símbolos zhuyin*, 1978; Portal de Logros Lingüísticos del Ministerio de Educación, https://language.moe.gov.tw/
+
+[^3]: Comité de Promoción del Idioma Nacional del Ministerio de Educación de la República de China, _Evolución de los símbolos zhuyin_, 1978; Portal de Logros Lingüísticos del Ministerio de Educación, https://language.moe.gov.tw/
+
 [^6]: Comité de Promoción del Idioma Nacional del Ministerio de Educación, "Clasificación de los símbolos zhuyin: 21 iniciales (ㄅㄆㄇㄈ, etc.), 3 medias (ㄧㄨㄩ), 13 finales", https://language.moe.gov.tw/; véase también el Diccionario revisado del idioma nacional del Ministerio de Educación, https://dict.revised.moe.edu.tw/

@@ -1,7 +1,7 @@
 ---
 title: 'Su Tseng-chang: de abogado defensor del Incidente de Formosa al presidente del Yuan Ejecutivo "¡Adelante, adelante, adelante!"'
 description: 'En 1979, defendió a presos políticos bajo la sombra de la ley marcial; en 1977, revirtió una elección adversa gracias a la "rodilla al tierra" de Lu Hsiu-lien. Su Tseng-chang, con su estilo ejecutivo de "¡Adelante, adelante, adelante!", recorrió Pingtung, el condado de Taipéi y el Yuan Ejecutivo, desde la contención de la peste porcina africana hasta el programa "Aire acondicionado en cada aula", demostrando un liderazgo enérgico en medio de la controversia y convirtiéndose en la "bombilla eléctrica" más representativa de la transición democrática de Taiwán.'
-date: '2026-04-28'
+date: 2026-04-28
 author: 'Taiwan.md Contributors'
 category: 'People'
 tags:
@@ -14,14 +14,15 @@ tags:
     'Aire acondicionado en cada aula',
     'Política taiwanesa',
   ]
-readingTime: '12'
-lastVerified: '2026-04-28'
+readingTime: 12
+lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: 'People/蘇貞昌.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:479a8f6f5440400a'
 sourceBodyHash: 'sha256:b005f4ff95b8ed92'
 translatedAt: '2026-05-02T02:50:57+08:00'
+featured: false
 ---
 
 > **Panorama en 30 segundos:** La carrera política de Su Tseng-chang ha sido un "sprint" de cuatro décadas. Partiendo como abogado defensor en el Gran Juicio de Formosa de 1979, ocupó sucesivamente los cargos de magistrado del condado de Pingtung, magistrado del condado de Taipéi y dos veces presidente del Yuan Ejecutivo. Conocido por su estilo enérgico como una "bombilla eléctrica", combinó una capacidad ejecutiva excepcional —desde la contención de la peste porcina africana hasta la implementación de "Aire acondicionado en cada aula"— con un liderazgo polarizante. Este artículo te lleva al centro de la toma de decisiones de este presidente "¡Adelante, adelante, adelante!", mostrando cómo resurgió de los valles políticos y dejó una huella profunda en medio de la controversia.

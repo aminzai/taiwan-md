@@ -25,6 +25,8 @@ sourceCommitSha: 'bb411ee0'
 sourceContentHash: 'sha256:0b1a3c6909f4b2bd'
 sourceBodyHash: 'sha256:06471c32d8e8a9fd'
 translatedAt: '2026-06-14T00:35:00+08:00'
+imageCredit: '海老原耕平《霧社討伐寫眞帖》（1931）'
+difficulty: 'advanced'
 ---
 
 # Mona Rudao: el héroe antijaponés grabado en la moneda de veinte dólares y aquel mundo sin China ni Japón

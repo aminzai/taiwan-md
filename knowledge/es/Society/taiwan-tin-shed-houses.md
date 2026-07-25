@@ -1,7 +1,7 @@
 ---
 title: 'Las casas de lámina de Taiwán: un horizonte sostenido por 716,000 construcciones ilegales'
 description: 'En agosto de 2024, un incendio en una tienda de maquinaria agrícola en Liujia, Tainan, atrapó a una familia de cinco personas en una ampliación de lámina en la tercera planta; todas fallecieron. Hasta julio de 2023, las construcciones ilegales en Taiwán sumaban 716,372 casos, con un aumento anual de 32,000 solo en Nueva Taipei. El gobierno promete demoliciones cada año, pero los casos aumentan en 10,000 anuales. Ese estrato de metal anaranjado y plateado es al mismo tiempo el paisaje urbano más criticado de Taiwán y el telón de fondo de sus mitos sobre seguridad ciudadana.'
-date: '2026-05-02'
+date: 2026-05-02
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '居住環境'
@@ -13,8 +13,8 @@ tags:
     'planificación urbana',
     'justicia habitacional',
   ]
-readingTime: '9'
-lastVerified: '2026-05-02'
+readingTime: 9
+lastVerified: 2026-05-02
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/鐵皮屋.md'

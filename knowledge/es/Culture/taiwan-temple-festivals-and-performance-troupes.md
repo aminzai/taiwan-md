@@ -5,7 +5,15 @@ date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '宗教與民俗'
-tags: ['festivales de templo', 'procesiones rituales', 'creencias populares', 'Príncipe Nezha Electrónico', 'Ocho Generales', 'procesión de Mazu']
+tags:
+  [
+    'festivales de templo',
+    'procesiones rituales',
+    'creencias populares',
+    'Príncipe Nezha Electrónico',
+    'Ocho Generales',
+    'procesión de Mazu',
+  ]
 readingTime: 8
 lastVerified: 2026-03-21
 lastHumanReview: true
@@ -15,6 +23,7 @@ sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:dd389bc47ee02430'
 sourceBodyHash: 'sha256:57fa9edbc965f758'
 translatedAt: '2026-05-20T05:08:32+08:00'
+difficulty: 'beginner'
 ---
 
 # Festivales de templo y cultura de procesiones rituales en Taiwán
@@ -68,12 +77,12 @@ A diferencia de la ruta fija de la Dajia Mazu, la ruta de la «Baishatun Mazu» 
 
 **Las cuatro grandes tradiciones folclóricas de Taiwán**
 
-| Tradición | Lugar | Características |
-|---|---|---|
-| Procesión de la Dajia Mazu | Dajia (Taichung) → Xigang (Chiayi) | 1,2 millones de personas, nueve días y ocho noches, 340 km |
-| Rito de bienvenida del Rey de Donggang | Donggang (Pingtung) | Cada tres años, quema del barco real, «folclore importante» según el Ministerio de Cultura |
-| Cañones de abejas de Yanshui | Yanshui (Tainan) | Miles de petardos simultáneos, procesión entre fuegos artificiales, cada Festival de los Faroles |
-| Qianggu de Toucheng | Toucheng (Yilan) | Tradición del Festival de los Fantasmas, escalada de postes engrasados para arrebatar ofrendas |
+| Tradición                              | Lugar                              | Características                                                                                  |
+| -------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Procesión de la Dajia Mazu             | Dajia (Taichung) → Xigang (Chiayi) | 1,2 millones de personas, nueve días y ocho noches, 340 km                                       |
+| Rito de bienvenida del Rey de Donggang | Donggang (Pingtung)                | Cada tres años, quema del barco real, «folclore importante» según el Ministerio de Cultura       |
+| Cañones de abejas de Yanshui           | Yanshui (Tainan)                   | Miles de petardos simultáneos, procesión entre fuegos artificiales, cada Festival de los Faroles |
+| Qianggu de Toucheng                    | Toucheng (Yilan)                   | Tradición del Festival de los Fantasmas, escalada de postes engrasados para arrebatar ofrendas   |
 
 Durante la procesión, cada pueblo del recorrido se transforma en un escenario festivo. Los residentes preparan altares de incienso para recibir a Mazu, los comerciantes suspenden su actividad para participar en el evento, las escuelas suspenden clases para presenciarlo, y las empresas patrocinan y conceden días libres a sus empleados. Durante nueve días, todo el centro de Taiwán queda envuelto en la atmósfera sagrada de Mazu.
 
@@ -100,10 +109,15 @@ La parte más difícil de replicar de la cultura de festivales de templo taiwane
 ## Referencias
 
 [^1]: [Shi Wanshou: El pueblo de Taiwán que adora vasijas | Archivo Nacional de Taiwán](https://www.th.gov.tw/) — Origen de los Bajiajiang en el Pabellón del Dragón Blanco de Tainan y estudio de los Cinco Espíritus; contexto del desarrollo de localización en Taiwán.
+
 [^2]: [Bajiajiang (Ocho Generales) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E5%AE%B6%E5%B0%87) — Confirmación de la restricción de los Bajiajiang por la política de «reorganización de templos» del movimiento de asimilación imperial de 1937, y distinción con el Incidente del Templo Xilai de 1915.
+
 [^3]: [Los Bajiajiang son en realidad sagrados: una cultura exclusiva de Taiwán que triunfa en Francia | Laihao](https://www.laihao.com.tw/blog/posts/taiwan-traditional-culture-ba-jia-jiang) — El Jishengtang Bajiajiang fue invitado en 2023 al 150.º aniversario del Carnaval de Niza, Francia.
+
 [^4]: [Guanjieshou (Generales de la Guardia) — Wikipedia](https://zh.wikipedia.org/wiki/%E5%AE%98%E5%B0%87%E9%A6%96) — Los Guanjieshou tienen el templo Dizang de Xinzhuang como importante centro de origen, y sus diferencias con los Bajiajiang del sistema de Tainan.
+
 [^5]: [Festival Internacional de Cultura y Turismo de la Dajia Mazu | Templo Zhenlan de Dajia](https://www.dajiamazu.org.tw/) — La procesión recorre aproximadamente 340 km en nueve días y ocho noches, pasando por Changhua, Yunlin y Chiayi hasta el templo Fengtian de Xigang.
+
 [^6]: [Televisión en línea de la Baishatun Mazu](https://www.baishatun.com.tw/) — La ruta de la procesión de la Mazu del templo Gongtian de Baishatun la determina el palanquín sagrado; el destino es el templo Chaotian de Beigang, con una duración total de aproximadamente cuatro días.
 
 **Lecturas complementarias**

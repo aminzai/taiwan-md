@@ -14,7 +14,7 @@ tags:
   - '木雕'
 subcategory: '視覺藝術'
 author: 'Taiwan.md'
-readingTime: '18'
+readingTime: 18
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
@@ -23,6 +23,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:91ce45b4be5f77a7'
 sourceBodyHash: 'sha256:fe5beda00418f863'
 translatedAt: '2026-05-20T05:08:32+08:00'
+difficulty: 'intermediate'
 ---
 
 # Desarrollo de la escultura contemporánea en Taiwán

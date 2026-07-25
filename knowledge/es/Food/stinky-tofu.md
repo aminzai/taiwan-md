@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:65a3ff761ca143a1'
 sourceBodyHash: 'sha256:da607a2f72ce021f'
 translatedAt: 2026-05-02T02:50:57+08:00
+featured: false
 ---
 
 > **Panorama en 30 segundos:** El tofu apestoso es la comida callejera más controvertida y más representativa de Taiwán. Se originó en un descuido de un erudito de la dinastía Qing, pero evolucionó en Taiwán hacia un proceso único de "fermentación con bacterias vivas". Desde el tofu de salmuera con aroma ahumado de la antigua calle de Shenkeng hasta el milagro crujiente de tres etapas de temperatura del aceite en Yuli, Hualien, este artículo te ayudará a entender por qué este olor que hace taparse la nariz ha atraído a autoridades japonesas en fermentación a cruzar el mar persiguiendo el hedor, e incluso se ha convertido en un símbolo de la resiliencia cultural taiwanesa.

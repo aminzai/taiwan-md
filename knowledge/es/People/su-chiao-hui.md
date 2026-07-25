@@ -25,6 +25,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:eb7e3bede251836b'
 sourceBodyHash: 'sha256:8ae89739a53e0a1f'
 translatedAt: 2026-05-01T20:54:23+08:00
+featured: false
 ---
 
 # Su Chiao-hui: a la sombra del «Chong Chong Chong», la curadora que cose Nuevo Taipéi con ley y detalle

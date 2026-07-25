@@ -1,9 +1,9 @@
 ---
 title: 'Del sótano a la Oficina Presidencial: Nymphia Wind y la historia de empoderamiento de las drag queens en Taiwán'
 description: 'Un chico taiwanés que sufrió acoso escolar por su expresión de género logró llevar el arte del drag —considerado una subcultura— al escenario internacional, adoptando el «plátano» como símbolo para que el mundo contemplara la diversidad y la confianza de Taiwán.'
-date: '2026-04-18'
+date: 2026-04-18
 author: 'idlccp1984'
-category: '文化生活'
+category: 'People'
 tags:
   [
     'Nymphia Wind',
@@ -13,7 +13,7 @@ tags:
     'cultura taiwanesa',
     "RuPaul's Drag Race",
   ]
-lastVerified: '2026-04-18'
+lastVerified: 2026-04-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/妮妃雅.md'

@@ -5,7 +5,14 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Art'
 subcategory: '策展與教育'
-tags: ['educación artística', 'departamentos de bellas artes', 'universidades de artes', 'formación docente', 'desarrollo académico']
+tags:
+  [
+    'educación artística',
+    'departamentos de bellas artes',
+    'universidades de artes',
+    'formación docente',
+    'desarrollo académico',
+  ]
 readingTime: 11
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +22,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:352ce3febb583c17'
 sourceBodyHash: 'sha256:aaeb81e5f1416586'
 translatedAt: '2026-05-17T05:34:54+08:00'
+difficulty: 'intermediate'
 ---
 
 # Educación artística y desarrollo académico en Taiwán
@@ -483,7 +491,11 @@ Los resultados de la educación artística taiwanesa incluyen la formación de n
 ## Referencias
 
 [^1]: [Universidad Nacional de las Artes de Taipéi](https://w3.tnua.edu.tw/) — Sitio web oficial y materiales de historia institucional
+
 [^2]: [Universidad Nacional de las Artes de Tainan](https://www.tnnua.edu.tw/) — Documentos de historia institucional y evolución educativa
+
 [^3]: [Universidad Nacional de las Artes de Taiwán](https://www.ntua.edu.tw/) — Historia institucional e introducción a sus facultades
+
 [^4]: [Departamento de Bellas Artes de la Universidad Nacional Normal de Taiwán](https://www.art.ntnu.edu.tw/) — Historia del desarrollo del departamento e información curricular
+
 [^7]: [Centro Nacional de Educación Artística de Taiwán](https://www.arte.gov.tw/) — Materiales de investigación sobre políticas de educación artística

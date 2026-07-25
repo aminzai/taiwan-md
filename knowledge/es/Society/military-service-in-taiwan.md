@@ -1,7 +1,7 @@
 ---
 title: "Del 'Premio Kinmen' a los ejercicios Hanwha: El rito de madurez colectiva y el ensayo de supervivencia del hombre taiwanés"
 description: "Desde 1945, el servicio militar en Taiwán se ha reducido de tres años a cuatro meses, y nuevamente se restableció al servicio de un año en 2024. Esta memoria colectiva que involucra a millones de personas es más que una orden de 'uno dos tres cuatro cinco seis siete ocho nueve cero'; es la tensión de supervivencia de esta isla en una zona gris."
-date: '2026-07-17'
+date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '社會制度'
@@ -13,10 +13,10 @@ tags:
     'Ejercicios Hanwha',
     'Premio Kinmen',
   ]
-readingTime: '12'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'Society/當兵.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:58596add4d279eb3'

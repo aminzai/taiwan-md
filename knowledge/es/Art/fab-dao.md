@@ -14,7 +14,7 @@ tags:
     'arte digital',
   ]
 subcategory: 'arte digital'
-author: 'Taiwan.md Translation Team'
+author: 'taiwan.md'
 translatedFrom: 'Art/FAB DAO與百岳計畫.md'
 readingTime: 8
 featured: false

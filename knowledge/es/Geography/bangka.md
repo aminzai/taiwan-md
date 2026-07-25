@@ -1,7 +1,7 @@
 ---
 title: 'Bangka: el lugar más animado del Taipéi bajo dominio Qing, hoy el distrito con la edad promedio más alta de Taipéi'
 description: "El templo Longshan de Bangka fue construido en 1738 con fondos reunidos por inmigrantes de las tres comarcas de Quanzhou; en 2026 cumple 288 años, 137 años más que la prefectura de Taipéi establecida por la corte Qing. La riña de Ting-hsia Chiao de 1853 empujó a los tong'aneses hacia Dadaocheng y sembró dos siglos de bifurcación en el norte de Taiwán. Tras el periodo colonial japonés pasó a llamarse Wanhua, en 1990 se estableció como distrito y en 2010 Doze Niu filmó Monga; su índice de envejecimiento es ahora de 320.78%, el más alto de toda la ciudad. En esta, la calle más antigua de Taipéi, la primera varilla de incienso del atrio del templo aún arde a las seis de la mañana."
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區 / 台北市萬華區'
@@ -26,7 +26,7 @@ tags:
     'serie de distritos históricos',
   ]
 readingTime: 22
-lastVerified: '2026-05-21'
+lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/艋舺.md'

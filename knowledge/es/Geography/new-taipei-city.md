@@ -1,7 +1,7 @@
 ---
 title: 'Ciudad de Nuevo Taipéi: la metrópolis anular que rodea Taipéi, donde 4,01 millones de personas sostienen los desplazamientos, la industria y la memoria de la capital'
 description: 'Desde que los españoles colocaron el primer ladrillo del Fuerte Santo Domingo de Tamsui en 1628, han pasado 398 años. Eso fue 247 años antes de que Shen Baozhen estableciera la Prefectura de Taipéi en 1875. Hoy, los 29 distritos de la Ciudad de Nuevo Taipéi rodean los 12 distritos de la Ciudad de Taipéi; 4,01 millones de personas viven en el mayor municipio especial de todo Taiwán, y 390.000 cruzan límites municipales para trabajar en Taipéi. Pero esta “metrópolis anular” no es una ciudad dormitorio de Taipéi: allí están la familia Lin de Banqiao de 1853, el té oolong que salió de Tamsui en 1869 y se vendió en Nueva York, Jiufen y Jinguashi, la primera mina de oro de Asia en la década de 1890, el Ferrocarril de Pingxi de 1929 que transportaba carbón, las tallas del Templo Zushi de Sanxia iniciadas por Li Meishu en 1947, y la comunidad Tranan del pueblo atayal en Wulai. Nuevo Taipéi es una síntesis de 400 años de Taiwán, justo fuera de la Ciudad de Taipéi.'
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -23,7 +23,7 @@ tags:
     'serie de 22 condados y ciudades',
   ]
 readingTime: 18
-lastVerified: '2026-05-18'
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/新北市.md'

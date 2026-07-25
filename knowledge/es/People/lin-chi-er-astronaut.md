@@ -1,7 +1,7 @@
 ---
 title: 'Lin Qier: de Taipéi a la órbita terrestre baja, el médico taiwanés que tocó la gaita en el espacio'
 description: 'Kjell N. Lindgren, nacido en Taipéi en 1973, es el primer astronauta de la NASA nacido en Taiwán. Tras graduarse en la Academia de la Fuerza Aérea y entrar en entrenamiento de pilotaje, un diagnóstico erróneo de asma le apartó de su carrera como piloto; once años después, una nueva prueba revocó el diagnóstico y fue seleccionado entre 3.565 candidatos como uno de los nueve astronautas de la vigésima promoción de la NASA, acumulando 312 días en órbita. En abril de 2026 regresó a Taiwán con la misión «Freedom 250» y dijo en el Palacio Presidencial: «Mi carrera como astronauta de la NASA comenzó en Taiwán.»'
-date: '2026-04-24'
+date: 2026-04-24
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '科學與學術'
@@ -13,10 +13,10 @@ tags:
     'medicina',
     'historia migratoria',
   ]
-readingTime: '14'
-lastVerified: '2026-04-28'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 14
+lastVerified: 2026-04-28
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/林琪兒.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:386b664532b04d0d'

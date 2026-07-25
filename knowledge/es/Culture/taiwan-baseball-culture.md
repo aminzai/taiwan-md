@@ -5,7 +5,16 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '運動文化'
-tags: ['béisbol', 'Liga Profesional de Béisbol China', 'Little Leaguers de Hongye', 'deporte nacional', 'deportes', 'Wang Chien-ming', 'efecto Ohtani']
+tags:
+  [
+    'béisbol',
+    'Liga Profesional de Béisbol China',
+    'Little Leaguers de Hongye',
+    'deporte nacional',
+    'deportes',
+    'Wang Chien-ming',
+    'efecto Ohtani',
+  ]
 readingTime: 10
 lastVerified: 2026-03-19
 lastHumanReview: true
@@ -15,6 +24,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:9a4380e463583d63'
 sourceBodyHash: 'sha256:ffebfda3574ab04b'
 translatedAt: '2026-05-17T05:34:54+08:00'
+difficulty: 'beginner'
 ---
 
 # La cultura del béisbol en Taiwán
@@ -145,10 +155,16 @@ Los registros que el béisbol taiwanés ha dejado en el ámbito internacional ot
 
 ## Referencias
 
-[^1]: Liu Chang-de, «La bandera del imperio ondea, la nación grita: la división internacional del trabajo beisbolístico y la transformación del discurso deportivo-nacional», *Taiwan: A Radical Quarterly in Social Studies*, n.º 70, 2008, https://www.airitilibrary.com/Publication/Information?publicationID=10219528; véanse también los resultados de investigación relacionados de Liu Chang-de, Facultad de Comunicación de la Universidad Nacional de Chengchi, https://comm.nccu.edu.tw/PageStaffing/Detail?fid=11123&id=3714
+[^1]: Liu Chang-de, «La bandera del imperio ondea, la nación grita: la división internacional del trabajo beisbolístico y la transformación del discurso deportivo-nacional», _Taiwan: A Radical Quarterly in Social Studies_, n.º 70, 2008, https://www.airitilibrary.com/Publication/Information?publicationID=10219528; véanse también los resultados de investigación relacionados de Liu Chang-de, Facultad de Comunicación de la Universidad Nacional de Chengchi, https://comm.nccu.edu.tw/PageStaffing/Detail?fid=11123&id=3714
+
 [^2]: Wiki del Béisbol Taiwanés, entrada sobre la historia del béisbol en Taiwán, https://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81
+
 [^3]: Wikipedia, «Historia del béisbol en Taiwán», «Equipo de béisbol infantil de Hongye», «Liga Profesional de Béisbol China», https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E5%8F%B2
+
 [^4]: «¿Cómo se convirtió el béisbol en el deporte nacional? Partiendo de la historia de Hongye», Historia en la Tienda de la Esquina (kamatiam.org), https://kamatiam.org/棒球如何成為國球從紅葉的故事說起/
+
 [^5]: «El béisbol taiwanés: 30 años desde los escándalos de amaño de partidos hasta el campeonato mundial, ¿cómo ha cargado con la historia colonial y la identidad nacional?», CommonWealth Magazine, https://www.cw.com.tw/article/5132888
+
 [^6]: Archivos Digitales de la Academia Sinica, exposición temática sobre un siglo de historia del béisbol, https://digitalarchives.tw/Exhibition/2445/1.html
+
 [^7]: Datos históricos del sitio web oficial de la Liga Profesional de Béisbol China, https://www.cpbl.com.tw/

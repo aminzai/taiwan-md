@@ -1,7 +1,7 @@
 ---
 title: "Julio del calendario lunar: De la 'apertura de la Puerta Fantasma' al suave y reconciliador relato de una isla"
 description: "En el pleno verano de 2026, las mesas largas siguen siendo montadas en las calles de Taiwán. Desde las llamas de Wanghai Alley en Keelung hasta el sudor en los postes solitarios de Toucheng; desde la 'Apertura del Portal Tigre' en el Templo del Ciudadano de Hsinchu hasta la majestuosidad de la Fiesta del Gran Espíritu en Minxiong, julio no es solo una cuestión de tabúes, sino un relato insular sobre coexistencia, memoria y trascender las fronteras entre lo Yin y lo Yang."
-date: '2026-07-20'
+date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: 'Festividades y costumbres'
@@ -15,10 +15,10 @@ tags:
     '民雄大士爺',
     '新竹城隍廟',
   ]
-readingTime: '25'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 25
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/農曆七月.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:44ea24edbaea3139'

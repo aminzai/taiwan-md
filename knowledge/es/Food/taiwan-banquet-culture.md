@@ -31,6 +31,7 @@ sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:0689f4ef37606e24'
 sourceBodyHash: 'sha256:ad9bd62c3f44776c'
 translatedAt: '2026-06-16T17:05:07Z'
+featured: false
 ---
 
 # Taiwanese Bando: The Martial Field That Sets Tables in the Rain, and a Human-Ghost-Divinity Trinity Fading Away

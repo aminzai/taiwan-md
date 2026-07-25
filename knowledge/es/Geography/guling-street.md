@@ -1,7 +1,7 @@
 ---
 title: 'Calle Guling: la calle de libros que dejaron los japoneses, el adolescente de Edward Yang y los palacios del Gobierno nacionalista'
 description: 'Un sábado por la tarde, estudiantes hacen fila frente al teatro de ladrillo rojo al final del callejón 5 de la calle Guling; al lado están el Museo Nacional de Historia, construido en 1955, y el estanque de lotos del Jardín Botánico de Taipéi, reorganizado en 1921. Esta calle de 1,2 kilómetros se llamó Sakuma-chō en 1922 y en 1947 fue rebautizada como calle Guling, nombre tomado de Lushan, en Jiangxi. Después de la guerra de 1945, los libros que los japoneses no pudieron llevarse al retirarse se pusieron en la calle y formaron la primera calle de libros usados de Taiwán; en su apogeo, en la década de 1960, tuvo más de 200 puestos. Tras la apertura del puente Guanghua en abril de 1973, los vendedores fueron reorganizados y trasladados bajo el paso elevado Guanghua. El 15 de junio de 1961, en esta calle, Mao Wu, de 16 años, mató con un cuchillo scout a Liu Min, de 15; en 1991 Edward Yang convirtió el caso en una película de 237 minutos. La calle de libros fue desmantelada, los puestos se mudaron y los estudiantes empezaron a comprar libros en otros lugares; lo que quedó fue el antiguo edificio de ladrillo rojo de una comisaría de la época japonesa, un museo de posguerra de estilo palaciego chino y el estanque de lotos que permanece allí desde 1921.'
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區 / 台北市中正區'
@@ -25,7 +25,7 @@ tags:
     'Serie de barrios históricos',
   ]
 readingTime: 18
-lastVerified: '2026-05-21'
+lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/牯嶺街.md'

@@ -19,14 +19,14 @@ tags:
   - 'Dwagie'
   - 'Kung Fu Entertainment'
 subcategory: 'Música y artes escénicas'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
 researchReport: reports/research/2026-07/大支-outline.md
 readingTime: 14
 image: '/article-images/music/dwagie-portrait-2019.webp'
-imageCredit: 'Gobierno de la ciudad de Chiayi / Wikimedia Commons'
+imageCredit: '嘉義市政府 / Wikimedia Commons'
 imageLicense: 'Licencia de atribución (declaración de datos abiertos de los sitios web gubernamentales)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg'
 rationale:
@@ -152,7 +152,7 @@ Por eso, al mirar hacia atrás a Dwagie, la mejor puerta de entrada sigue siendo
 
 ## Fuentes de imágenes
 
-- Fotografía de Dwagie de la imagen principal: Gobierno de la ciudad de Chiayi, Wikimedia Commons, licencia de atribución (declaración de datos abiertos de los sitios web gubernamentales). Archivo original: [全國獨嘉三日跨年祭 力邀金鐘雙主持（大支）](https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg).
+- Fotografía de Dwagie de la imagen principal: Gobierno de la ciudad de Chiayi, Wikimedia Commons, licencia de atribución (declaración de datos abiertos de los sitios web gubernamentales). Archivo original: [全國獨嘉三日跨年祭 力邀金鐘雙主持（大支）](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>).
 - Fotografía de la actuación de MC HotDog en 2012: Chiu Yu-feng, Wikimedia Commons, CC BY-SA 4.0. Archivo original: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
 
 ## Referencias

@@ -1,8 +1,8 @@
 ---
 title: 'El Gran Recall'
 description: 'En 2025, la sociedad civil taiwanesa lanzó la campaña de recall (destitución) más grande de su historia, dirigida contra legisladores del Kuomintang que impulsaron proyectos de ley controvertidos, en un intento por corregir el desequilibrio de poder en el Yuan Legislativo. Las tres rondas de votación fueron rechazadas en su totalidad, constituyendo un ejercicio y una prueba a gran escala de la democracia directa en Taiwán.'
-date: '2026-04-13'
-author: 'Taiwan.md'
+date: 2026-04-13
+author: 'Taiwan.md Contributors'
 category: 'History'
 tags:
   [
@@ -13,8 +13,8 @@ tags:
     'relaciones transfronterizas',
     '2025',
   ]
-lastVerified: '2026-04-13'
-lastHumanReview: true
+lastVerified: 2026-07-16
+lastHumanReview: false
 featured: true
 translatedFrom: 'History/大罷免.md'
 sourceCommitSha: '4b6d28c5'
@@ -25,6 +25,8 @@ image: '/article-images/history/recall-bluebird-legislative-yuan-2024.webp'
 imageCredit: 'Fujifilmuser Taiwan'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20240528-8_A_look_in_front_of_the_legislative_yuan.jpg'
+readingTime: 22
+difficulty: 'intermediate'
 ---
 
 > **Resumen en 30 segundos:**  

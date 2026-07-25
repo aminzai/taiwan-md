@@ -24,6 +24,7 @@ sourceCommitSha: 'b358c802'
 sourceContentHash: 'sha256:81084f8c4d60488a'
 sourceBodyHash: 'sha256:e37ed40c36801365'
 translatedAt: 2026-05-01T20:54:23+08:00
+featured: false
 ---
 
 > **Resumen en 30 segundos:**
@@ -147,7 +148,7 @@ Aquella carta de renuncia escrita por su cuerpo, al final la recibió con un ál
 
 [^10]: [ETtoday: ¡Ser querido diagnosticado con solo 2 meses de vida! Yoga Lin, «4 años de enfermedad grave», rara confesión (2023-09)](https://star.ettoday.net/news/2586449) — Entrevista de primera mano de septiembre de 2023 revelando que la persona más importante de su vida fue diagnosticada con cáncer de páncreas en etapa tres y el empeoramiento consecuente del SII.
 
-[^11]: [TVBS News: Yoga Lin revela ocho años de trabajo y proclama «el amor es rey» (2024)](https://news.tvbs.com.tw/entertainment/2424666) — Cobertura de *Love, Lord* tras ocho años de pausa, temas del álbum y su papel como productor. (El enlace original de UDN Economic Daily ya no funciona; se cita el reportaje de TVBS de 2024.)
+[^11]: [TVBS News: Yoga Lin revela ocho años de trabajo y proclama «el amor es rey» (2024)](https://news.tvbs.com.tw/entertainment/2424666) — Cobertura de _Love, Lord_ tras ocho años de pausa, temas del álbum y su papel como productor. (El enlace original de UDN Economic Daily ya no funciona; se cita el reportaje de TVBS de 2024.)
 
 [^12]: [KKBOX: [Entrevista] 500 canciones / Yoga Lin — un cantante canta su propia vida](https://www.kkbox.com/tw/en/column/showbiz-0-10151-1.html) — Entrevista en profundidad donde Yoga Lin repasa 10 canciones clave de su vida, como su propia selección de «la playlist que lo define».
 

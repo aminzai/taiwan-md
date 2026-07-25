@@ -3,7 +3,7 @@ title: 'La misteriosa habilidad de cálculo visual de las tías del buffet'
 description: 'El primer restaurante buffet de Taiwán, inaugurado en 1962, solo sobrevivió dos años, pero la técnica de estimación visual de precios que dejó atrás sigue siendo hoy la habilidad humana más difícil de replicar para la inteligencia artificial'
 date: 2026-03-22
 author: 'Taiwan.md Contributors'
-category: 'society'
+category: 'Society'
 subcategory: '社區與日常'
 tags:
   [

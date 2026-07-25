@@ -14,8 +14,8 @@ tags:
   - 'Pueblos indígenas'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-05-23
-lastHumanReview: true
+lastVerified: 2026-07-12
+lastHumanReview: false
 translatedFrom: 'People/蔡英文.md'
 sourceCommitSha: 'e6c58721'
 sourceContentHash: 'sha256:b09e2036d35d54e7'

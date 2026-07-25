@@ -1,7 +1,7 @@
 ---
 title: 'Desarrollo de la industria del audio en Taiwán'
 description: 'De la manufactura OEM a las marcas propias: capacidades técnicas y posición global de la industria del audio de Taiwán'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: '音響產業'
@@ -13,7 +13,7 @@ tags:
     'Hi-Fi',
     'audio profesional',
   ]
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/台灣音響產業發展.md'

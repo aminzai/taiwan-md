@@ -25,6 +25,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2dceb8d4eac7775f'
 sourceBodyHash: 'sha256:693cd449aa89ed1d'
 translatedAt: 2026-05-02T01:17:17+08:00
+featured: false
 ---
 
 > **Resumen en 30 segundos:** En 2017, la Interpretación n.º 748 del Yuan Judicial de Taiwán declaró inconstitucional que el Código Civil no garantizara el matrimonio homosexual, marcando un hito clave en la legalización del matrimonio entre personas del mismo sexo en Asia. Este camino arcoíris ha recorrido décadas de lucha en solitario por parte de Chi Chia-wei, la concienciación sobre educación de género a raíz del caso de Yeh Yong-chih y la triste muerte del profesor Jacques Picoux, culminando en la aprobación de una ley especial en 2019. A finales de 2024, más de 30 000 parejas del mismo sexo habían registrado su matrimonio en todo el país. Hoy, con parejas LGBTQ+ como "Weimeng" que muestran su amor cotidiano a través de las redes sociales, la comprensión y aceptación de la comunidad LGBTQ+ en Taiwán continúan profundizándose, aunque cuestiones como la Ley de Reproducción Asistida, los derechos de las familias transnacionales y la legislación contra la discriminación aún requieren mejoras.

@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e26ca70cc051b743'
 sourceBodyHash: 'sha256:6ea24f40d826e7d7'
 translatedAt: '2026-05-01T22:19:10+08:00'
+difficulty: 'intermediate'
 ---
 
 # Historia de los militares dependientes de Taiwán

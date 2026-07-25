@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2b63bb823fbdea45'
 sourceBodyHash: 'sha256:6966802b8bb41d32'
 translatedAt: '2026-06-11T16:38:50Z'
+featured: false
 ---
 
 ## El paraguas de papel: de objeto cotidiano a arte, el centenario esplendor de la cultura hakka taiwanesa

@@ -23,6 +23,7 @@ sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
 translatedAt: '2026-05-16T22:20:03Z'
 category: People
+author: 'Taiwan.md'
 ---
 
 # Du Congming

@@ -29,6 +29,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bdae42ffe0d36150'
 sourceBodyHash: 'sha256:57cdd81fe5d56c02'
 translatedAt: '2026-05-01T20:54:23+08:00'
+featured: false
 ---
 
 > **Panorama en 30 segundos:** La Nueva Ciudad de Linkou, alguna vez apodada en broma "ciudad fantasma", ha experimentado en medio siglo una transformación radical: de plantaciones de té y fábricas de ladrillos a un parque industrial inteligente centrado en IA. Con la apertura del aerotrén, esta zona —la más joven de la ciudad de Nuevo Taipéi— ganó más de 14 000 habitantes netos en cinco años, convirtiéndose en un polo de atracción para nuevos residentes en el norte de Taiwán. Sin embargo, los atascos en la autopista nacional y el clima húmedo y frío siguen siendo retos ineludibles en su desarrollo.

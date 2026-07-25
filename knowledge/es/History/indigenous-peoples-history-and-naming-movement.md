@@ -1,7 +1,7 @@
 ---
 title: 'Historia y movimiento de autodenominación de los pueblos indígenas de Taiwán'
 description: 'En 1987, un joven tsou de 19 años fue ejecutado en el campo de fusilamiento de Taipéi. Su muerte encendió la primera chispa del movimiento de autodenominación.'
-date: '2026-03-29'
+date: 2026-03-29
 category: 'History'
 subcategory: '史前與原住民'
 tags:
@@ -19,6 +19,8 @@ sourceCommitSha: '1e674def'
 sourceContentHash: 'sha256:5abb3efb22ea6c92'
 sourceBodyHash: 'sha256:93eb4a0251be6dd2'
 translatedAt: '2026-05-01T22:19:10+08:00'
+author: 'Taiwan.md'
+lastVerified: 2026-03-29
 ---
 
 # Historia y movimiento de autodenominación de los pueblos indígenas de Taiwán

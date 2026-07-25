@@ -20,6 +20,7 @@ sourceCommitSha: '50617dc1'
 sourceContentHash: 'sha256:25424dad4bf389f3'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
 translatedAt: 2026-05-01T22:19:10+08:00
+featured: false
 ---
 
 > **Panorama en 30 segundos:** En 1998, el magnate inmobiliario Lin Min-hsiung asumió el control de las estaciones de suministros para militares, funcionarios públicos y docentes, que acumulaban pérdidas año tras año y solo contaban con 66 tiendas. Desde su posición de "novato" en el sector, trazó la línea roja de supervivencia: "20 % más barato, 2 % de margen", y se abrió paso a codazos entre las grandes superficies y las tiendas de conveniencia. Hoy, Pxmart es un gigante minorista con ingresos anuales que superan los 200.000 millones de dólares taiwaneses y más de 1.200 establecimientos. Sin embargo, las controversias por monopolio derivadas de su rápida expansión y los dolores de cabeza de su transformación digital ponen a prueba las próximas dos décadas de esta "plataforma de vida".

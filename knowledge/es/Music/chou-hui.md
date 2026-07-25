@@ -1,7 +1,7 @@
 ---
 title: 'Chou Hui: la voz femenina que cantó 25 años 〈Promise〉, una carrera de fondo desde una muñeca de cómic hasta el Taipei Arena'
 description: 'En 1999, Linfair Records lanzó 《Chou Hui Selection》 y puso en la portada una muñeca de cómic llamada Huier en lugar del rostro de la cantante. 〈Promise〉 entró en cada KTV y atravesó 25 años, pero la persona detrás de la canción siempre fue reconocida un paso después que la canción. De cinco álbumes en Linfair al congelamiento en BMG; de Group Stone y HIM International Music a asumir en 2025 la producción ejecutiva y entrar en el disco: 12 álbumes en 26 años. El 25 de abril de 2026 subió por primera vez al Taipei Arena, pero al final del concierto anunció atrofia de las cuerdas vocales: “No sé si esta será la última vez que cante para ustedes”.'
-date: '2026-05-19'
+date: 2026-05-19
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '歌手'
@@ -29,7 +29,7 @@ tags:
     'El tiempo no olvidado',
   ]
 readingTime: 22
-lastVerified: '2026-05-28'
+lastVerified: 2026-05-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/周蕙.md'

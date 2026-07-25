@@ -1,7 +1,7 @@
 ---
 title: 'Ciudad de Taipéi: tres tiempos dentro de una ciudad, el templo Longshan de 1738 mirando al 101 de 2004'
 description: 'En Wanhua hay un templo Longshan de 1738. A tres kilómetros, en la víspera de Año Nuevo de 2004, el Taipei 101 se inauguró en terrenos que habían sido el almacén Songshan durante el dominio japonés y, después de la guerra, el Arsenal 44; en ese momento fue el edificio más alto del mundo. Si uno camina hasta Dadaocheng, en la década de 1860 Li Chunsheng sostuvo todo el comercio exterior del norte de Taiwán con un cargamento de té oolong. En una misma cuenca, 1738, 1885 y 2004 están colocados lado a lado. En 1875 Shen Baozhen estableció la prefectura de Taipéi; en 1920 los japoneses unieron tres barrios comerciales para formar la ciudad de Taipéi; en 1947 el paquete de cigarrillos de Lin Jiangmai encendió el Incidente del 28 de Febrero; en 1949 el Gobierno Nacionalista trasladó a 1,2 millones de personas a Taipéi; en 1967 fue elevada a la primera municipalidad especial de todo Taiwán; en 1990 el movimiento estudiantil Lirio Silvestre permaneció sentado siete días y seis noches en el Salón Conmemorativo de Chiang Kai-shek. Doce distritos viven en siglos distintos.'
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -24,7 +24,7 @@ tags:
     'serie de 22 ciudades y condados',
   ]
 readingTime: 18
-lastVerified: '2026-05-18'
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/台北市.md'

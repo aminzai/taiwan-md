@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:a4d0a0070adaa30d'
 sourceBodyHash: 'sha256:4b10f11517195560'
 translatedAt: '2026-05-17T05:33:00Z'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** Jin Enoki no es una animadora coreana en el estadio, sino una creadora de resistencia en las plataformas digitales. Documenta su vida en Taiwán en chino y convierte «coreanos en Taiwán» en un tipo de contenido que puede seguirse a largo plazo, con una influencia que trasciende un solo vídeo o un solo evento.
@@ -54,7 +55,7 @@ Estos episodios nos recuerdan que una creadora no solo «cuenta historias», sin
 
 ## 2026: el sencillo «Ay, ese precio» y la narrativa de la «guía de supervivencia en Taiwán»
 
-A finales de abril de 2026, Jin Enoki publicó su nuevo tema bailable «Ay, ese precio» (《啊金價》); la sección de espectáculos del *Liberty Times* informó de que la producción está a cargo de Oliver Kim, prolonga el estilo rítmico de los grandes éxitos de Energy y toma el título del propio juego fonético con la expresión coloquial coreana, escribiendo las letras como pequeños cortes de «micrococos» de la vida en Taiwán (semáforos en rojo eternos, lotería del recibo que no toca, peticiones en pedidos a domicilio, etc.); el videoclip vuelve a las calles y a las tiendas de desayunos, prolongando su lenguaje visual de vloguera.[^1]
+A finales de abril de 2026, Jin Enoki publicó su nuevo tema bailable «Ay, ese precio» (《啊金價》); la sección de espectáculos del _Liberty Times_ informó de que la producción está a cargo de Oliver Kim, prolonga el estilo rítmico de los grandes éxitos de Energy y toma el título del propio juego fonético con la expresión coloquial coreana, escribiendo las letras como pequeños cortes de «micrococos» de la vida en Taiwán (semáforos en rojo eternos, lotería del recibo que no toca, peticiones en pedidos a domicilio, etc.); el videoclip vuelve a las calles y a las tiendas de desayunos, prolongando su lenguaje visual de vloguera.[^1]
 
 Esta obra sigue la línea de convertir el «día a día en Taiwán» en un texto cantable: si _Taipei Love_ tendía a una movilización emocional de tipo declaración, _Ay, ese precio_ pone de manera más directa la fricción intercultural en el gancho del tema bailable, facilitando el corte secundario en vídeo corto y la difusión en redes.[^1]
 
@@ -66,7 +67,7 @@ Para Taiwan.md, ella ofrece un modelo alternativo de presencia activa coreana en
 
 ## Referencias / Sources
 
-[^1]: Sección de espectáculos del *Liberty Times*, «Jin Enoki lanza la "Guía de supervivencia en Taiwán": el nuevo tema "Ay, ese precio" se alía con el gran productor de Energy», 2026-04-29, https://ent.ltn.com.tw/news/breakingnews/5420000
+[^1]: Sección de espectáculos del _Liberty Times_, «Jin Enoki lanza la "Guía de supervivencia en Taiwán": el nuevo tema "Ay, ese precio" se alía con el gran productor de Energy», 2026-04-29, https://ent.ltn.com.tw/news/breakingnews/5420000
 
 [^2]: Wikipedia (chino), entrada «Jin Enoki» (resumen biográfico y de canal), https://zh.wikipedia.org/wiki/%E9%87%91%E9%87%9D%E8%8F%87
 

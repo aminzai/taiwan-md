@@ -1,7 +1,7 @@
 ---
 title: 'Rayark Games: el imperio musical fundado sobre la estética y sus catorce años de fisuras'
 description: 'En 2012, seis jóvenes de la Facultad de Ingeniería Eléctrica e Informática de la Universidad Nacional de Taiwán reunieron 30 millones para crear Cytus, que en un mes alcanzó el primer lugar en los rankings de 14 países. Catorce años después, tenían una película animada de Deemo, una animación de Implosion sin entregar tras once años, Sdorica entrando en modo mantenimiento en febrero de 2026 y la decisión de cortar lazos con un empleado para conservar el mercado chino tras el incidente del código Morse de ICE en 2020. La estética hizo que el mundo viera a Rayark, y también la hizo tropezar en cada terreno que no era musical.'
-date: '2026-04-25'
+date: 2026-04-25
 author: 'zaious'
 category: 'Technology'
 subcategory: '社群與數位文化'
@@ -23,7 +23,7 @@ tags:
     'Mozarc',
   ]
 readingTime: 20
-lastVerified: '2026-05-26'
+lastVerified: 2026-05-26
 lastHumanReview: false
 featured: false
 image: '/article-images/technology/rayark-cafe-2021.webp'
@@ -32,6 +32,7 @@ sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:efb74dfc78d9c93c'
 sourceBodyHash: 'sha256:28ef520886f893e3'
 translatedAt: '2026-06-14T00:35:00+08:00'
+imageCredit: 'Solomon203 / Wikimedia Commons'
 ---
 
 > **Panorama en 30 segundos:** En septiembre de 2011, seis jóvenes formados en la Facultad de Ingeniería Eléctrica e Informática de la Universidad Nacional de Taiwán fundaron Rayark Games en Jinshan North Road, Taipéi, con un capital de 30 millones y un equipo de 16 personas. En enero de 2012, Cytus llegó a iOS y en un mes alcanzó el primer lugar en los rankings de 14 países. Luego, Deemo entró en el ranking Oricon de Japón, Implosion ganó el premio al mejor juego iOS de 2015 y VOEZ fue juego de lanzamiento de Nintendo Switch. Catorce años después, Rayark había lanzado más de diez juegos y acumulado más de 130 millones de descargas globales, pero la palabra clave asociada a la empresa ya había pasado de “genialidad” a “lástima”. Tras sostenerse con dificultad durante ocho años, Sdorica -sunset- entró oficialmente en modo mantenimiento en febrero de 2026; la animación de Implosion seguía sin entregarse en 2026 desde su financiamiento en Kickstarter en 2015; y, tras el incidente del código Morse de ICE en 2020, Rayark modificó el juego para ajustarse al mercado chino. La estética hizo que el mundo los viera, y también los hizo tropezar en cada terreno que no era musical.

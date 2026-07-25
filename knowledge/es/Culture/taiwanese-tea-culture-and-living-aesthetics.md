@@ -14,8 +14,8 @@ tags:
 subcategory: '工藝與美學'
 category: 'Culture'
 author: 'Taiwan.md'
-readingTime: 12
-lastVerified: 2026-03-24
+readingTime: 20
+lastVerified: 2026-07-12
 lastHumanReview: false
 featured: true
 translatedFrom: 'Culture/台灣茶文化.md'
@@ -24,6 +24,7 @@ sourceContentHash: 'sha256:218a1627dd56bfb5'
 sourceBodyHash: 'sha256:ca6d9cb8b6ed52e7'
 translatedAt: '2026-05-17T06:00:00Z'
 image: '/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp'
+difficulty: 'intermediate'
 ---
 
 # El eco de una era dorada: evolución y artesanía de la cultura del té taiwanés

@@ -1,7 +1,7 @@
 ---
 title: 'Condado de Taitung: dos islas periféricas, una encarceló presos políticos durante treinta y seis años, la otra almacenó residuos nucleares durante cuarenta y dos años'
 description: 'Los 210.000 habitantes del condado de Taitung están dispersos en 3.515 kilómetros cuadrados, la densidad más baja del país: apenas 60 personas por kilómetro cuadrado, una centésima parte de Taipéi. Pero este condado contiene el asentamiento humano más antiguo de Taiwán (el sitio arqueológico de Beinan, con 1.600 sarcófagos de piedra de hace 5.300 años), alberga a seis pueblos indígenas (amis, puyuma, paiwan, rukai, bunun y tao), y tiene la proporción de población indígena más alta de Taiwán, 37,5%. De 1951 a 1987, la isla Verde, entonces Huoshaodao, encerró presos políticos durante treinta y seis años. Desde mayo de 1982, Longmen, en Lanyu, comenzó a recibir residuos nucleares; cuarenta y dos años después, 97.672 barriles siguen allí. El 25 de agosto de 1968, siete niños bunun de la aldea Hongye derrotaron 7:0 al equipo estelar japonés de béisbol infantil de Kansai (no al equipo campeón mundial), y el mito del béisbol como deporte nacional de Taiwán comenzó con ese engaño. Dos islas periféricas cargaron con el costo de toda una isla.'
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -22,7 +22,7 @@ tags:
     'Serie de 22 condados y ciudades',
   ]
 readingTime: 15
-lastVerified: '2026-05-18'
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/台東縣.md'

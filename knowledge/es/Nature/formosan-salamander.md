@@ -28,6 +28,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f7dcaba73d149276'
 sourceBodyHash: 'sha256:af337db2aac9897d'
 translatedAt: 2026-05-01T20:54:23+08:00
+featured: false
 ---
 
 > **Panorama en 30 segundos:** En esta isla subtropical de Taiwán habitan cinco especies de reliquias de la era glacial: las salamandras de montaña. Sobreviven en silencio en los arroyos de alta montaña, por encima de los 2000 metros de altitud, y sus ojos redondos y la curva ascendente de sus comisuras les han valido el apodo de "sonrisas vivientes". Desde un error taxonómico de hace un siglo hasta décadas de incansable búsqueda por parte de científicos, e incluso el sacrificio de vidas humanas, la historia de las salamandras de Taiwán es un milagro ecológico y una profunda reflexión sobre la coexistencia entre el ser humano y la naturaleza. En 2025, Taiwan Mobile y el equipo del profesor Zhu Youtian de la Universidad Nacional de Taiwán lograron con éxito la incubación artificial, abriendo un rayo de esperanza para el futuro de estos espíritus de la montaña.

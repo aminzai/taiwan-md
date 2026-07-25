@@ -1,7 +1,7 @@
 ---
 title: 'Chen Chun-liang: poeta del diseño y traductor moderno de la estética oriental'
 description: 'Chen Chun-liang nació en Tainan en 1958. A los 29 años fundó «Freeimage Design» (Freeimage Design Co., Ltd., nombre oficial: 自由落體股份有限公司), y es reconocido en la industria como el «poeta del diseño». Reinterpreta el lenguaje del diseño moderno a través de la caligrafía, el espacio en blanco y las imágenes orientales. Su obra abarca diseño editorial, identidad corporativa y eventos nacionales. En 2005, la serie de vajilla para banquetes estatales «Cielo redondo, Tierra cuadrada» (天圓地方) obtuvo el Premio del Jurado en la Bienal de Diseño de Macao. Ha dedicado décadas a la educación en diseño y es uno de los diseñadores gráficos más influyentes de Taiwán desde la década de 1980.'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '藝術與設計'
@@ -13,7 +13,7 @@ tags:
     'Freeimage Design',
     'poeta del diseño',
   ]
-lastVerified: '2026-05-13'
+lastVerified: 2026-05-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳俊良.md'

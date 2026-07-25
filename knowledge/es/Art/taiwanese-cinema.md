@@ -18,10 +18,10 @@ tags:
     'Cape No. 7',
     'Golden Horse Awards',
   ]
-readingTime: '18'
-lastVerified: '2026-06-13'
-lastHumanReview: 'false'
-featured: 'true'
+readingTime: 18
+lastVerified: 2026-06-13
+lastHumanReview: false
+featured: true
 translatedFrom: 'Art/台灣電影.md'
 sourceCommitSha: 'cc6f9d9b3'
 sourceContentHash: 'sha256:b60bd097d9577c55'

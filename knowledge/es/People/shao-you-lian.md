@@ -1,7 +1,7 @@
 ---
 title: 'Shao You-lian: el administrador conservador tras el brillo de Liu Ming-chuan y el verdadero anclaje de Taipéi como capital provincial'
 description: '¿Fue el culpable que la historia marcó como quien “puso fin a las Nuevas Políticas”, o el guardián fiscal más pragmático del Taiwán de la dinastía Qing? Tras las grandes obras emprendidas por Liu Ming-chuan, Shao You-lian completó, en medio de una hacienda extremadamente restringida, el ferrocarril de Taipéi a Hsinchu, fijó oficialmente la capital provincial de Taiwán en Taipéi y dejó a las generaciones posteriores un debate difícil de resolver: ¿conservar lo existente es retroceder, o es otra forma de gobierno más cercana a la realidad?'
-date: '2026-06-16'
+date: 2026-06-16
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '歷史人物'
@@ -16,10 +16,10 @@ tags:
     'Tratado de Ili',
     'Li Hung-chang',
   ]
-readingTime: '15'
-lastVerified: '2026-06-16'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 15
+lastVerified: 2026-06-16
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/邵友濂.md'
 sourceCommitSha: 'c109869a0'
 sourceContentHash: 'sha256:4246082bf9759556'

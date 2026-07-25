@@ -1,7 +1,7 @@
 ---
 title: 'Premios Golden Melody: Taiwán premia su propia música y los momentos de treinta y cinco años que quedan para toda la vida'
 description: 'En 2024, en el Taipei Arena, No Party for Cao Dong volvió a consagrarse; su mánager recibió los premios en su nombre, y todo el recinto guardó silencio por una baterista fallecida. En treinta y cinco años, los Premios Golden Melody pasaron de una carta manuscrita de Tsai Chin a una ceremonia de escala nacional: coronaron el Fantasy de Jay Chou, las 14 nominaciones de A-mei, y también otorgaron los máximos honores a canciones en taiwanés, hakka y lenguas indígenas. Es el lugar donde Taiwán premia su propia música y decide qué sonidos merecen ser recordados.'
-date: '2026-06-28'
+date: 2026-06-28
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '音樂產業與獎項'
@@ -16,7 +16,7 @@ tags:
     'política cultural',
   ]
 readingTime: 16
-lastVerified: '2026-06-28'
+lastVerified: 2026-06-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/金曲獎.md'

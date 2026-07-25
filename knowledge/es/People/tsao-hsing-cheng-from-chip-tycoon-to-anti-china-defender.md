@@ -14,7 +14,7 @@ tags:
     'Morris Chang',
   ]
 subcategory: '科學與學術'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'People'
 readingTime: 12
 lastVerified: 2026-04-30
@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:419cc607d70f325a'
 sourceBodyHash: 'sha256:ae002bb900693bc1'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 # Robert Tsao: del barón del silicio al "laico de los ocho 'no'" que defiende Taiwán contra el comunismo

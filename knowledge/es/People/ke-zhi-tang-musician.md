@@ -18,9 +18,9 @@ tags:
     '洪佩瑜',
     '神的回信',
   ]
-readingTime: 13
-lastVerified: 2026-04-20
-lastHumanReview: 2026-04-20
+readingTime: 18
+lastVerified: 2026-07-07
+lastHumanReview: true
 featured: false
 translatedFrom: People/柯智棠.md
 sourceCommitSha: '4b6d28c5'

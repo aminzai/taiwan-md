@@ -2,7 +2,7 @@
 title: 'Yang Dechang'
 description: 'Figura central del Nuevo Cine taiwanés, mejor director en Cannes, poeta de la alienación urbana'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
+author: 'Taiwan.md'
 category: 'People'
 subcategory: '電影與戲劇'
 tags:
@@ -13,7 +13,7 @@ tags:
     'Festival de Cine de Cannes',
     'cine urbano',
   ]
-lastVerified: 2026-03-19
+lastVerified: 2026-07-05
 lastHumanReview: false
 featured: true
 translatedFrom: People/楊德昌.md

@@ -11,7 +11,7 @@ tags:
     'Fusión cultural',
   ]
 subcategory: '傳統音樂'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'Music'
 readingTime: 15
 featured: false

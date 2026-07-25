@@ -1,7 +1,7 @@
 ---
 title: 'Tintura con Índigo: Dos siglos después, volviendo a cultivar la misma planta'
 description: 'En agosto de 1999, Chen Ching-lin guió al taller de tintura de Sanxia para teñir la primera bufanda azul en más de setenta años. Desde ser un producto principal de exportación durante el periodo Qing hasta quedar solo con diez familias en 1940, esta artesanía que requiere esperar a bacterias vivas ha encontrado ahora respuestas diferentes en Sanxia, Miaoli, Taiping y Jingliao: ¿el propósito del resurgimiento es recuperar un color vivo o encontrar una marca vendible?'
-date: '2026-07-05'
+date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '工藝與美學'
@@ -18,9 +18,9 @@ tags:
     'Chen Ching-lin',
     'Cheng Mei-shu',
   ]
-lastVerified: '2026-07-05'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-05
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:1670373f1f6c3b4a'

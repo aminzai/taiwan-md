@@ -1,7 +1,7 @@
 ---
 title: 'La Industria de Animación Digital e Imagen de Taiwán'
 description: 'Desde estudios de efectos visuales que han marcado un hito hasta películas animadas aclamadas internacionalmente, Taiwán se ha convertido silenciosamente en uno de los centros más importantes de Asia para la animación digital y la narración visual.'
-date: '2024-01-15'
+date: 2026-03-20
 tags:
   [
     'animación',
@@ -16,7 +16,11 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:692543a60baf3299'
 sourceBodyHash: 'sha256:bb5064886298647d'
 translatedAt: '2026-04-14T12:25:09+08:00'
-category: Art
+category: 'Technology'
+author: 'Taiwan.md'
+featured: false
+lastVerified: 2026-03-20
+lastHumanReview: true
 ---
 
 ## Una Potencia Creativa en Asia Oriental

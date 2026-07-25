@@ -29,6 +29,7 @@ image: '/article-images/technology/hsinchu-science-park-tsmc-fab5-2010.webp'
 imageCredit: 'Peellden'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
+difficulty: 'intermediate'
 ---
 
 # Parques científicos de Taiwán: la apuesta de un arrozal que se convirtió en arteria vital del mundo y también en su punto vulnerable

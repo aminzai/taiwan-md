@@ -1,7 +1,7 @@
 ---
 title: 'Jamie Lin: del Academia Sinica a Google Taiwán, activo en la primera línea del emprendimiento tras su retiro en 2020'
 description: 'Nacido en 1963, Jamie Lin obtuvo su licenciatura en Ingeniería Informática en la Universidad Nacional de Taiwán (NTU); su doctorado está pendiente de confirmación (según reportes, de la Universidad de Maryland, EE. UU.). Fue subdirector del Instituto de Ciencia de la Información del Academia Sinica entre 1993 y 2005. En 2006 se incorporó a Google como primer empleado del centro de I+D de Google Taiwán, y se retiró el 31 de enero de 2020. Tras su retiro, asumió cargos en los consejos de administración de startups como iKala y Appier, y ha continuado promoviendo la educación en IA.'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
@@ -13,9 +13,9 @@ tags:
     'Academia Sinica',
     'Educación en IA',
   ]
-readingTime: 7
-lastVerified: '2026-05-07'
-lastHumanReview: true
+readingTime: 13
+lastVerified: 2026-07-10
+lastHumanReview: false
 featured: false
 translatedFrom: 'People/簡立峰.md'
 sourceCommitSha: '0f8fae0ae'

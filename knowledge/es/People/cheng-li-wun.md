@@ -1,7 +1,7 @@
 ---
 title: 'Cheng Li-wun'
 description: 'De la estudiante en huelga de hambre en la puerta de la Universidad Nacional de Taiwán en 1988 por la independencia de Taiwán, a la presidenta del Kuomintang que en 2026 le dijo a Xi Jinping en Pekín que "los compatriotas a ambos lados del estrecho son todos chinos". ¿Qué ocurrió a lo largo de esta trayectoria?'
-date: '2026-04-11'
+date: 2026-04-11
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '政治人物'
@@ -13,15 +13,16 @@ tags:
     'generación de movimientos estudiantiles',
     '2026',
   ]
-readingTime: '12'
-lastVerified: '2026-04-11'
-lastHumanReview: 'false'
-featured: 'true'
+readingTime: 12
+lastVerified: 2026-04-11
+lastHumanReview: false
+featured: true
 translatedFrom: 'People/鄭麗文.md'
 sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:d7d8adfe5a1c7158'
 sourceBodyHash: 'sha256:119c3d104b24e9dd'
 translatedAt: '2026-06-12T00:53:04+08:00'
+difficulty: 'intermediate'
 ---
 
 # Cheng Li-wun

@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:76772688d61c205f'
 sourceBodyHash: 'sha256:444e69e75502ca5e'
 translatedAt: '2026-06-16T17:10:37Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # La poesía moderna taiwanesa: una profecía inesperada de localización

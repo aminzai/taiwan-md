@@ -14,9 +14,9 @@ tags:
     'Perspectiva de la cultura china',
   ]
 category: People
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 16
+readingTime: 14
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'People/殷海光.md'

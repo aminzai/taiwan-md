@@ -5,7 +5,8 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Geography'
 subcategory: '氣候與溫泉'
-tags: ['agricultura', 'paisaje', 'industria', 'seguridad alimentaria', 'geografía']
+tags:
+  ['agricultura', 'paisaje', 'industria', 'seguridad alimentaria', 'geografía']
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +16,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:5fcedd0ad0dc94f7'
 sourceBodyHash: 'sha256:92c2111bcaaae7c8'
 translatedAt: '2026-05-20T05:08:32+08:00'
+difficulty: 'intermediate'
 ---
 
 # Paisajes agrícolas y distribución industrial de Taiwán
@@ -158,8 +160,13 @@ La agricultura de Taiwán se está transformando del "Granero de Taiwán" a la "
 ## Referencias
 
 [^1]: Departamento de Estadística del Ministerio de Agricultura, [Anuario Estadístico Agrícola de Taiwán](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx), 2025.
+
 [^2]: Ministerio de Agricultura, [Información sobre políticas y desarrollo agrícola](https://www.moa.gov.tw/), incluye Historia del Desarrollo Agrícola de Taiwán (2023).
+
 [^3]: Gobierno del condado de Changhua, [Información sobre el desarrollo de la industria agrícola](https://www.chcg.gov.tw/), incluye Informe sobre el Desarrollo Industrial del Granero del Río Zhuoshui (2024).
+
 [^4]: Gobierno del condado de Taitung, [Agricultura indígena y desarrollo industrial](https://www.taitung.gov.tw/), incluye Plan de Revitalización de la Agricultura Indígena (2025).
+
 [^5]: Administración de Riego Agrícola del Ministerio de Agricultura, [Información histórica sobre el sistema de irrigación de Jianan y la hidráulica](https://www.ia.gov.tw/), incluia Centenario del Sistema de Irrigación de Jianan (2020).
+
 [^6]: Departamento de Agricultura del Gobierno del condado de Hualien, [Información sobre el desarrollo de la agricultura orgánica del este](https://www.hl.gov.tw/), incluye Encuesta sobre el Estado Actual de la Agricultura Orgánica del Este (2024).

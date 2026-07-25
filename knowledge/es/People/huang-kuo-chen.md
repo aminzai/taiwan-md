@@ -21,6 +21,8 @@ sourceCommitSha: 'df2e7558'
 sourceContentHash: 'sha256:4ca80675bb1a1122'
 sourceBodyHash: 'sha256:2b34fd0038a36214'
 translatedAt: '2026-05-01T22:19:10+08:00'
+featured: false
+lastHumanReview: false
 ---
 
 # Huang Kuo-chen: enseñar a los niños de Taiwán a «comprender» y no solo a «terminar de leer»

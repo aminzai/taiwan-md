@@ -1,7 +1,7 @@
 ---
 title: 'Yam: Del caso de la Asociación para la Independencia de Taiwán al Baby Yam, el ideal y la desilusión de un motor de búsqueda local'
 description: 'En 1994, Chen Cheng-jen y un grupo de jóvenes activistas fundaron Yam, el primer motor de búsqueda en chino y portal de la World Wide Web en Taiwán, consolidando la memoria generacional a través del «Baby Yam». Sin embargo, frente a la burbuja de Internet y la competencia de los gigantes globales, este ideal nacido del compromiso social no pudo resistir la realidad comercial, desapareciendo en 2006. Este relato no solo es un espejo del desarrollo digital de Taiwán, sino un diálogo profundo entre la utopía y las exigencias del mercado.'
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'Technology'
 subcategory: '數位與網路'
@@ -13,10 +13,10 @@ tags:
     'Historia de Internet en Taiwán',
     'Chen Cheng-jen',
   ]
-readingTime: '10'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 10
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/蕃薯藤.md'
 sourceCommitSha: '781e16434'
 sourceContentHash: 'sha256:a165c276f6d4407a'

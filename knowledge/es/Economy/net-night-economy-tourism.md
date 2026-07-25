@@ -1,19 +1,20 @@
 ---
 title: 'NET: De inventario de exportación al armario nacional, la historia más misteriosa de una marca local'
 description: "Fundada en 1991, NET comenzó con el inventario de exportación del 'Centro Comercial para Madres', y ha perdurado durante treinta años bajo la presión de la moda rápida. No es solo la marca de ropa local con más tiendas en Taiwán; también se ha convertido en un mito comercial lleno de calidez en el corazón de los taiwaneses debido a sus 15 años de 'donaciones corporativas' y la reciente disputa por la propiedad del Centro Comercial East Coast de Keelung."
-date: '2026-07-22'
+date: 2026-07-22
 category: 'Economy'
 subcategory: '企業列傳'
 tags: ['NET', '台灣品牌', '服飾產業', '社會企業', '基隆東岸廣場']
-readingTime: '28'
-lastVerified: '2026-07-22'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 28
+lastVerified: 2026-07-22
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/NET.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:34ffbb88716e1c90'
 sourceBodyHash: 'sha256:401833a7ed0b48dd'
 translatedAt: '2026-07-23T23:06:50+08:00'
+author: 'Taiwan.md Contributors'
 ---
 
 > **Resumen de 30 segundos:** NET (Zhu Fu Clothing), una marca local de Taiwán, se originó en los 'Centros Comerciales para Madres' de la década de 1960. Sobrevivió hasta hoy después de que gigantes internacionales como Uniqlo y Zara entraran al mercado. Lo más conocido de NET no es su diseño, sino su responsabilidad social discreta pero profunda: donar ropa a los necesitados durante 15 años consecutivos. Sin embargo, esta empresa, siempre modesta, ha llegado recientemente a litigios con el gobierno debido a la disputa por la propiedad del Centro Comercial East Coast de Keelung, mostrando su esencia de marca "suave pero resistente".

@@ -22,6 +22,7 @@ sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'
 sourceBodyHash: 'sha256:3d0acbeaa8a56355'
 translatedAt: '2026-06-12T00:53:42+08:00'
+difficulty: 'advanced'
 ---
 
 # 2026 Cheng Li-wen y Xi Jinping: diez minutos del reencuentro de líderes del KMT y el PCCh tras una década

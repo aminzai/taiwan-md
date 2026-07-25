@@ -24,6 +24,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:d4340432364688a1'
 sourceBodyHash: 'sha256:8dddf05fdbd86410'
 translatedAt: '2026-05-16T22:35:47Z'
+featured: false
 ---
 
 # Chen Shui-bian

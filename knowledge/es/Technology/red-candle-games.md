@@ -13,7 +13,7 @@ tags:
     'Videojuegos taiwaneses',
   ]
 subcategory: '社群與數位文化'
-author: 'Taiwan.md'
+author: 'zaious'
 category: 'Technology'
 readingTime: 10
 lastVerified: 2026-04-25

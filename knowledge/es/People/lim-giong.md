@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a8fc4383d9d485f8'
 sourceBodyHash: 'sha256:d49e5d04c317a204'
 translatedAt: '2026-05-02T11:00:00+08:00'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** El 7 de diciembre de 1990, Lin Chih-feng, un joven de 26 años de Changhua, transformó con "向前走" (Sigue adelante) la canción en hokkien del registro melodramático al rock; las ventas dejaron al almacén de Rock Records sin existencias para reponer. Cuatro años después, con un álbum de ruido electrónico, quemó con sus propias manos su imagen de ídolo y casi desapareció de la vida pública. No desapareció: entró en la sala de montaje de Hou Hsiao-hsien. Durante los siguientes treinta años pasó de ser el portavoz del Movimiento de la Nueva Canción en Hokkien a pionero de la música electrónica, ganó cuatro Premios Caballo de Oro a la mejor banda sonora original, un premio a la mejor banda sonora en Cannes y un Premio Nacional de las Artes; cubriendo a la vez las escenas cinematográficas de Taiwán y de China, completó la deserción de identidad más rara de la historia del pop taiwanés.

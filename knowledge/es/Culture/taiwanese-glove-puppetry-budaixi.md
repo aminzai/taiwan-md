@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:90bff79aa4402b0e'
 sourceBodyHash: 'sha256:79bbd46fe867d775'
 translatedAt: '2026-05-02T11:00:00+08:00'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** El budaixi (布袋戲, "teatro de marionetas en bolsa de tela") es la forma más reconocible del teatro tradicional de marionetas de Taiwán. Llegó en el siglo XVII con los emigrantes del sur de Fujian y, en la isla, ha pasado por seis grandes mutaciones: ofrendas en los atrios de los templos, transformación bajo el kominka japonés, milagro televisivo, prohibición gubernamental, reconversión al videocasete y coproducciones internacionales. En 1970, "El gran erudito caballero de Yunzhou" (《雲州大儒俠》) de Huang Jun-xiong, con el héroe Shi Yan-wen, se emitió durante cuatro años, sumó 583 episodios y batió el récord histórico del 97 % de audiencia en la televisión taiwanesa; en 1974 fue vetado; en 1988, la productora Pili (霹靂) abrió su propio canal en el mercado del videocasete; y en 2016, la coproducción taiwano-japonesa "Thunderbolt Fantasy: Touriken Yuki" (東離劍遊紀), guionizada por Gen Urobuchi, llevó este arte de marionetas al horizonte global del anime.

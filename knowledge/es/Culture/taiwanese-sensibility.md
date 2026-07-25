@@ -1,7 +1,7 @@
 ---
 title: 'La sensibilidad taiwanesa: la estética taiwanesa a través de los ojos coreanos'
 description: 'Dos personas de Kaohsiung pasaron diez años fotografiando dos mil tipos de rejas de hierro; los coreanos tardaron cinco años en convertirlo en un fenómeno cultural — cómo el «대만감성» transformó las calles cotidianas de Taiwán en el símbolo estético más fascinante de Asia'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '區域特色'
@@ -16,9 +16,9 @@ tags:
     'Rejas de hierro ornamentales',
     'Rostro de casas antiguas',
   ]
-readingTime: '14'
-lastVerified: '2026-05-16'
-lastHumanReview: true
+readingTime: 18
+lastVerified: 2026-07-18
+lastHumanReview: false
 featured: true
 translatedFrom: 'Culture/台灣感性.md'
 sourceCommitSha: 'd6e87d07'
@@ -29,6 +29,7 @@ image: '/article-images/culture/changhua-iron-window-grille-2021.webp'
 imageCredit: 'Outlookxp'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%BD%B0%E5%8C%96%E5%B8%82%E4%B8%89%E5%92%8C%E5%A4%A7%E6%97%85%E7%A4%BE%E9%90%B5%E7%AA%97%E8%8A%B1.jpg'
+difficulty: 'beginner'
 ---
 
 # La sensibilidad taiwanesa: la estética taiwanesa a través de los ojos coreanos

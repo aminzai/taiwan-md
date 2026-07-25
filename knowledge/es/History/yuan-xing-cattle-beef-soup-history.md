@@ -3,7 +3,7 @@ title: 'Las 19 vacas de Qingtiangang: del Yuanxing Niu a la sopa de res de Taina
 description: 'La tasa de autosuficiencia de carne de res en Taiwán es de apenas el 4,6%, sin embargo, en 2024 nació la primera raza bovina certificada por iniciativa privada en todo el país. La historia del Yuanxing Niu es un guion de ruptura industrial escrito conjuntamente por un anciano de 94 años, 19 vacas negras salvajes y un tazón de sopa de carne fresca servida al amanecer.'
 date: 2026-03-25
 author: 'Taiwan.md Contributors'
-category: Food
+category: 'History'
 subcategory: '社會與日常史'
 tags:
   [

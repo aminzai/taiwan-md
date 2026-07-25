@@ -1,7 +1,7 @@
 ---
 title: 'La IA entra en el aula: Trescientas agencias y los profesores solos después de la capacitación'
 description: "En 2026, Xu Tai-ping puso trescientas agencias de IA diseñadas por unas ochenta docentes en un gran mercado compartido. Dos encuestas taiwanesas muestran que mientras el nueve décimo de los maestros ha tenido contacto con la IA, el 95.6% aún siente la necesidad de aprender. Desde talleres cortos de tres horas en escuelas primarias y pruebas 'cliente' en secundaria de Neihu, hasta el plan 'Arca del Talento' del Ministerio de Educación, este artículo se pregunta: las herramientas ya están en las aulas, ¿quién recibirá a los profesores al volver? Este es un proyecto educativo más difícil después de la popularización de la herramienta."
-date: '2026-07-20'
+date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Technology'
 subcategory: 'Artificial Intelligence'
@@ -13,14 +13,16 @@ tags:
     'Digital Learning',
     'Generative AI',
   ]
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/台灣教師與AI教學.md'
 sourceCommitSha: 'd95fa9648'
 sourceContentHash: 'sha256:6a85130bd9bb91b0'
 sourceBodyHash: 'sha256:01e8abe40e264468'
 translatedAt: '2026-07-23T23:06:50+08:00'
+image: '/article-images/technology/taiwan-students-digital-learning-2019.webp'
+imageCredit: '褒忠國中 雲端網 / Wikimedia Commons'
 ---
 
 # La IA entra en el aula: Trescientas agencias y los profesores solos después de la capacitación

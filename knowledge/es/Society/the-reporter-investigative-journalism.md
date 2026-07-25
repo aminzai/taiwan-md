@@ -1,7 +1,7 @@
 ---
 title: 'The Reporter: diez años rescatando el periodismo de investigación de una línea de negocio para convertirlo en bien público'
 description: 'De 4 donantes periódicos a 8.000 al mes; de la trilogía Campos pesqueros de sangre y lágrimas al especial de 2026 sobre el frente unido: los costos que The Reporter quemó en diez años —ocho meses de infiltración, entrevistas en tres países, comparación de años de registros de infracciones— son precisamente aquello que menos gente quiere pagar por leer en la era del algoritmo. La sociedad civil de esta isla, mediante cargos mensuales a desconocidos, rescató el periodismo de investigación de una línea de negocio de los medios comerciales y lo convirtió en un bien público que se sigue sosteniendo, aunque arde cada vez más rápido.'
-date: '2026-04-29'
+date: 2026-04-29
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '媒體與新聞'
@@ -14,7 +14,7 @@ tags:
     'sociedad civil',
     'Ho Jung-hsing',
   ]
-lastVerified: '2026-06-14'
+lastVerified: 2026-06-14
 lastHumanReview: false
 featured: true
 translatedFrom: 'Society/報導者.md'

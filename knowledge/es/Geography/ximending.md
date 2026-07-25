@@ -1,7 +1,7 @@
 ---
 title: 'Ximending: la calle de entretenimiento que los japoneses construyeron en 1896 y que, 130 años después, sigue siendo la calle más joven de Taipéi'
 description: 'En diciembre de 1908 abrió sus puertas la Casa Roja de Ximen, diseñada por Juro Kondo: dos mercados de ladrillo, el Salón Octagonal y el Edificio en Cruz, que fueron el “Asakusa” que el Imperio japonés le entregó a Taipéi. Treinta años después los japoneses se marcharon; en 1961, los ocho edificios de la Galería Comercial Zhonghua crecieron siguiendo el ferrocarril longitudinal, y en 1992 fueron demolidos junto con las vías. En 1999 se delimitó la zona peatonal, se inauguró la línea Bannan y Ximending se convirtió en la sala de estar al aire libre de los adolescentes de Taipéi. Desde las afueras de la ciudad amurallada bajo la dinastía Qing, el distrito de entretenimiento del periodo japonés, la calle del cine de posguerra, los MTV durante la ley marcial, el hip hop y el skate tras el levantamiento de la ley marcial, hasta el cosplay y los bares gay de 2026: bajo el mismo Salón Octagonal ya han pasado cinco generaciones de jóvenes.'
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區'
@@ -24,7 +24,7 @@ tags:
     'cultura juvenil',
   ]
 readingTime: 22
-lastVerified: '2026-05-21'
+lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/西門町.md'

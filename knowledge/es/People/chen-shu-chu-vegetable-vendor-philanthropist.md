@@ -14,13 +14,15 @@ tags:
   ]
 subcategory: '慈善與社會'
 lastVerified: 2026-05-16
-lastHumanReview: 2026-04-03
+lastHumanReview: true
 translatedFrom: People/陳樹菊.md
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:884e3106e00c3ed4'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
 translatedAt: '2026-05-17T06:00:00Z'
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** Chen Shu-chu, nacida en 1950, es vendedora de verduras en el Mercado Central de Taitung. A los 13 años abandonó la escuela tras la muerte de su madre por un parto complicado y comenzó a vender verduras. Durante más de cincuenta años, ha donado acumulativamente decenas de millones de dólares taiwaneses a orfanatos, hospitales y escuelas. En 2010 fue incluida en la lista de las 100 personas más influyentes del mundo de la revista _TIME_, en la categoría de "Héroes", con un artículo de recomendación escrito personalmente por el director Ang Lee. Cuando viajó a Nueva York a recibir el premio, dijo: "Solo soy una vendedora de verduras."[^1]

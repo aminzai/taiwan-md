@@ -22,6 +22,7 @@ sourceCommitSha: 'df2e7558'
 sourceContentHash: 'sha256:340bb6abbf6b93a5'
 sourceBodyHash: 'sha256:f85ae58b5cc5815d'
 translatedAt: '2026-06-16T17:12:22Z'
+featured: false
 ---
 
 # Yeh Ping-cheng: de la clase de probabilidad a la revolución de la educación lúdica

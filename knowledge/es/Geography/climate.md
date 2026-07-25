@@ -13,6 +13,7 @@ sourceContentHash: 'sha256:cce87bf72e0fbd92'
 sourceBodyHash: 'sha256:563a5cbaf28a35c9'
 translatedAt: '2026-05-16T22:20:03Z'
 category: Geography
+author: 'Taiwan.md'
 ---
 
 # El clima de Taiwán

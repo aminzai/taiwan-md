@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1b722cc963da8ad2'
 sourceBodyHash: 'sha256:b8e419f98d87f2d4'
 translatedAt: '2026-05-02T11:00:00+08:00'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** El Teatro y la Sala de Conciertos Nacionales (兩廳院), inaugurados en 1987, formaban parte del conjunto conmemorativo de Chiang Kai-shek. El Teatro Nacional emplea el tejado wudian (廡殿頂) y la Sala de Conciertos el tejado xieshan (歇山頂); la diferencia de un grado entre ambos tejados indicaba quién ocupaba qué posición. En 2003, el entonces director Ju Tzong-ching desmanteló la verja de hierro situada en el cruce de la calle Xinyi y, en 2004, la institución se convirtió en la primera entidad administrativa pública independiente de Taiwán. La actual directora artística, Liu Yi-ju, afirma: "Si fijas reglas tan complicadas para asistir a un espectáculo, en realidad ya estás filtrando de entrada a cierto público". Tras los muros de madera de la sala se oculta un órgano holandés Flentrop con 4.172 tubos: el primero en Taiwán y, en su momento, el mayor de Asia.

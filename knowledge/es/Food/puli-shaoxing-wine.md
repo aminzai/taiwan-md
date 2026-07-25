@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9df20812b27208dc'
 sourceBodyHash: 'sha256:8546c2e9468f2766'
 translatedAt: '2026-05-02T11:00:00+08:00'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** El vino Shaoxing es un licor regional milenario de Kuaiji, en la provincia china de Zhejiang, pero Taiwán es el único lugar del mundo que lo ha elevado a "licor nacional", lo ha incluido en los menús de banquete de Estado y en las invitaciones de boda, lo emplea para guisar alitas de pollo, para cocinar fideos instantáneos y hasta para hacer polos[^1][^2]. Pero hay un dato más interesante: la destilería de Puli se construyó en 1917, pero la primera tinaja de vino Shaoxing no salió hasta 1952[^3], justo después de la retirada del gobierno nacionalista a Taiwán. Una declaración política escrita con arroz glutinoso y agua, escondida hoy en los folletos de una destilería turística. Y lo que la mantuvo en pie fue un manantial cerrado durante cuatro años por su propietario, lo que obligó a la destilería a cavar otro pozo para hacerse con el agua[^4][^5].

@@ -15,10 +15,10 @@ tags:
     'Proyecto Vivaldi',
     'Lin Weizhe',
   ]
-readingTime: '28'
-lastVerified: '2026-06-09'
-lastHumanReview: 'true'
-featured: 'false'
+readingTime: 28
+lastVerified: 2026-06-09
+lastHumanReview: true
+featured: false
 translatedFrom: 'Music/蘇打綠.md'
 sourceCommitSha: 'ac048ecf8'
 sourceContentHash: 'sha256:0b7436a5f5ecebd9'

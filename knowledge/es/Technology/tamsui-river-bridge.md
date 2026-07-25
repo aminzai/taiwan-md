@@ -1,11 +1,12 @@
 ---
 title: 'Puente del Río Tamsui: en el horizonte de la desembocadura, un monumento colosal diseñado para la "transparencia"'
 description: 'El Puente del Río Tamsui está previsto para inaugurarse el 12 de mayo de 2026. Este puente atirantado asimétrico de torre única, diseñado por el equipo de la arquitecta Zaha Hadid, requirió treinta años de planificación y, en la tensión entre preservar el atardecer de Tamsui y aliviar el tráfico, redefine el paisaje estuarino de Taiwán con líneas fluidas.'
-date: '2026-04-29'
+date: 2026-04-29
 author: 'Taiwan.md Contributors'
 category: 'Technology'
 subcategory: '科技園區'
-tags: [
+tags:
+  [
     'Puente del Río Tamsui',
     'Zaha Hadid',
     'Atardecer de Tamsui',
@@ -14,8 +15,8 @@ tags: [
     'Protección ambiental',
     'Ingeniería técnica',
   ]
-readingTime: '10'
-lastVerified: '2026-04-29'
+readingTime: 10
+lastVerified: 2026-04-29
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/淡江大橋.md'
@@ -38,10 +39,10 @@ Las retrasos obedecieron a causas complejas. En un principio, se debieron a que 
 
 "Este es un hábitat de incubación estable", señaló Xia Chuanxia, voluntario de la Asociación de Protección Silvestre, quien registró con botas de lluvia el apogeo reproductivo del chorlitejo mongol en las llanuras de Wazihwei [^2]. La Reserva Natural de Wazihwei es uno de los pocos humedales de Taiwán que aún conserva un ecosistema estuarino completo, con una rica comunidad de manglares, hogar de peces saltarines y cangrejos violinista, y una escala crucial para diversas aves migratorias. Para responder a estas inquietudes, el equipo de ingeniería modificó el diseño en varias ocasiones, desplazando la rampa de acceso de Bali 500 metros hacia el sur para evitar la reserva, y finalmente optó por un concurso internacional de diseño en busca de la mejor solución entre estética y medio ambiente [^2].
 
-| Punto de controversia | Impacto | Medida adoptada |
-| :------------------- | :--------------------------------------- | :------------------------------------------------ |
-| Paisaje del atardecer de Tamsui | La estructura del puente podría obstruir la vista del atardecer | Adopción de un diseño atirantado asimétrico de torre única para reducir la obstrucción visual [^1] |
-| Ecología de la Reserva Natural de Wazihwei | La construcción podría destruir hábitats de aves migratorias | Desplazamiento de la rampa de Bali 500 metros hacia el sur, evitando la reserva [^2] |
+| Punto de controversia                             | Impacto                                                                           | Medida adoptada                                                                                                   |
+| :------------------------------------------------ | :-------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- |
+| Paisaje del atardecer de Tamsui                   | La estructura del puente podría obstruir la vista del atardecer                   | Adopción de un diseño atirantado asimétrico de torre única para reducir la obstrucción visual [^1]                |
+| Ecología de la Reserva Natural de Wazihwei        | La construcción podría destruir hábitats de aves migratorias                      | Desplazamiento de la rampa de Bali 500 metros hacia el sur, evitando la reserva [^2]                              |
 | Dificultad de ingeniería y licitaciones desiertas | Cruce sobre el Río Tamsui con alto desafío técnico; 7 licitaciones desiertas [^7] | Concurso internacional que incorporó al equipo de Zaha Hadid, elevando el diseño y los métodos constructivos [^7] |
 
 📝 Nota del curador: este proyecto de infraestructura de transporte abordó simultáneamente dos valores públicos: el "progreso" y la "preservación".
@@ -70,10 +71,10 @@ Sin embargo, detrás de la insistencia estética se esconde una dificultad de in
 
 Según la evaluación de beneficios de la inauguración, el trayecto entre Tamsui y Bali se reducirá en 15 kilómetros, ahorrando aproximadamente 25 minutos [^3] [^5], pero la controversia no ha desaparecido del todo. Rui-Mao Huang, profesor del Departamento de Arquitectura de la Universidad de Tamsui, expresó su preocupación de que el puente pudiera funcionar como el caballo de Troya de la leyenda, atrayendo un flujo turístico que exceda la capacidad de carga y deteriore la calidad del pequeño pueblo de Tamsui [^2].
 
-| Beneficio de transporte | Antes de la mejora (estimación) | Después de la mejora (estimación) | Tiempo/distancia ahorrados |
-| :--------------- | :------------- | :------------- | :------------ |
-| Trayecto Tamsui-Bali | 30-40 minutos | 5-15 minutos | 25 minutos |
-| Desvío por el Puente Guandu | 15 kilómetros | 0 kilómetros | 15 kilómetros |
+| Beneficio de transporte     | Antes de la mejora (estimación) | Después de la mejora (estimación) | Tiempo/distancia ahorrados |
+| :-------------------------- | :------------------------------ | :-------------------------------- | :------------------------- |
+| Trayecto Tamsui-Bali        | 30-40 minutos                   | 5-15 minutos                      | 25 minutos                 |
+| Desvío por el Puente Guandu | 15 kilómetros                   | 0 kilómetros                      | 15 kilómetros              |
 
 Además, el efecto de corriente de viento en la torre principal y las cuestiones de seguridad del carril para motocicletas siguen siendo temas de debate en la comunidad local [^3]. La oficina de transporte también ha planeado la operación de prueba de 4 nuevas rutas de autobús tras la inauguración, con el objetivo de guiar los flujos turísticos y reducir el impacto del transporte privado en el casco antiguo [^3].
 

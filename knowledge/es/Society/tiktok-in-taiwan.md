@@ -19,12 +19,13 @@ tags:
   ]
 readingTime: 10min
 lastVerified: 2026-04-12
-lastHumanReview: '2026-04-13'
+lastHumanReview: true
 translatedFrom: Society/TikTok.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:dfdfbf0a5674de0a'
 sourceBodyHash: 'sha256:6054d2cc1d83cb36'
 translatedAt: 2026-05-01T20:54:23+08:00
+featured: false
 ---
 
 > **Panorama en 30 segundos:** TikTok no es solo una plataforma de videos cortos para hacerse famoso; en Taiwán, es también un experimento cognitivo «descentralizado». A través de una personalización extrema de sus recomendaciones, lleva a los usuarios a interiorizar, sin darse cuenta, agendas políticas propias como su visión del mundo. Una encuesta de 2025 reveló que más del 70 % de los adolescentes taiwaneses de 15 a 18 años pasan más de 2 horas diarias en TikTok, y su percepción favorable hacia China aumenta silenciosamente con cada deslizamiento del dedo, al tiempo que se profundiza su visión negativa de la sociedad taiwanesa.

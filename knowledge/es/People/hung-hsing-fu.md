@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7de74580c2e1d825'
 sourceBodyHash: 'sha256:669b88afae826e6b'
 translatedAt: 2026-05-02T08:41:22+08:00
+featured: false
 ---
 
 El 10 de diciembre de 1949 nació en Beipingli, municipio de Erlin, condado de Changhua, en una familia humilde dedicada a la agricultura por generaciones. Su nombre de nacimiento era Hong Ma Cong. A los 18 años publicó su primera novela, _Ni Lü_, en el _Taiwan Daily_, iniciando así su camino literario. El 31 de julio de 1982, falleció trágicamente en un accidente de tráfico mientras regresaba a casa durante el paso del tifón Andy, a la edad de 33 años, poniendo fin a una carrera creativa breve pero deslumbrante.

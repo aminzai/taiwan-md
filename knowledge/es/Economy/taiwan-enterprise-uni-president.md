@@ -1,7 +1,7 @@
 ---
 title: 'Empresas de Taiwán: Uni-President Enterprise'
 description: 'A los 38 años, Kao Ching-yuan empezó desde cero; cómo un niño trabajador de 13 años construyó un imperio con ingresos de 657,6 mil millones de yuanes'
-date: 2026-03-21
+date: 2026-07-13
 author: Taiwan.md
 subcategory: '企業列傳'
 tags:
@@ -14,8 +14,8 @@ tags:
   ]
 readingTime: 8
 featured: false
-lastVerified: 2026-03-21
-lastHumanReview: true
+lastVerified: 2026-07-13
+lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：統一企業.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:3fb7c059831bdebb'

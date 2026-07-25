@@ -1,7 +1,7 @@
 ---
 title: 'La cultura culinaria indígena de Taiwán'
 description: 'Desde las llamas de AKAME hasta el universo de silvestres de los amis: cómo la gastronomía indígena de Taiwán reaviva la atención del mundo tras tres mil años'
-date: '2026-03-29'
+date: 2026-03-29
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: '族群飲食'
@@ -17,8 +17,8 @@ tags:
     'cocinas comunitarias',
     'revivificación gastronómica',
   ]
-readingTime: '12'
-lastVerified: '2026-03-29'
+readingTime: 12
+lastVerified: 2026-03-29
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣原住民飲食文化.md'
@@ -28,6 +28,7 @@ sourceBodyHash: 'sha256:50386f161e8d186f'
 translatedAt: '2026-05-01T22:19:10+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg/960px-Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'intermediate'
 ---
 
 # La cultura culinaria indígena de Taiwán

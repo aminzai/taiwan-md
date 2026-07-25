@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8f69e3146e67bf4f'
 sourceBodyHash: 'sha256:c36ec4a8304568ae'
 translatedAt: '2026-05-03T23:14:07+08:00'
+difficulty: 'intermediate'
 ---
 
 # Hsu Chiao-hsin: de hija de una cafetería a legisladora del «armamento de 80 mil millones» y la juventud del tráfico digital

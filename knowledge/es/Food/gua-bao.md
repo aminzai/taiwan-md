@@ -1,7 +1,7 @@
 ---
 title: "Gua bao: del 'tigre que muerde al cerdo' de Fuzhou al símbolo Michelin de BAO London"
 description: "En el diario de 1927 del notable de Hsinchu Huang Wang-cheng, el 'tigre que muerde al cerdo' era un bocadillo servido en la mesa de weiya para agasajar a los trabajadores. Cien años después, en Lexington Street, en el Soho londinense, las filas esperan por la misma masa doblada, y la Guía Michelin la ha incorporado a sus recomendaciones Bib Gourmand. Este pequeño bocado blanco, rollizo y plegado contiene cuatro siglos de historia migratoria fuzhouesa en Taiwán, el ritual laboral y patronal del weiya dedicado al Dios de la Tierra, y la historia de cómo una artista que voló de Taipéi a Londres lo llevó a la mesa internacional."
-date: '2026-05-16'
+date: 2026-05-16
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '經典小吃'
@@ -14,7 +14,7 @@ tags:
     'BAO London',
     'gastronomía taiwanesa',
   ]
-lastVerified: '2026-05-16'
+lastVerified: 2026-05-16
 lastHumanReview: false
 featured: true
 translatedFrom: 'Food/刈包.md'

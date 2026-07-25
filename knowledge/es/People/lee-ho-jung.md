@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:fe236b66343104a0'
 sourceBodyHash: 'sha256:fa5aded8dae3b311'
 translatedAt: '2026-05-17T06:00:00Z'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** El regreso de Lee Ho-jung a los Fubon Angels en 2026 no es solo un refuerzo en la plantilla, sino la vuelta de un ritmo familiar. Su representatividad radica en su alta asistencia y estabilidad, lo que ha permitido que las animadoras coreanas en Taiwán pasen de apariciones promocionales a corto plazo a una configuración de contenido a lo largo de toda la temporada.
@@ -31,7 +32,7 @@ Ella cuenta con una larga trayectoria como animadora en Corea del Sur. Tras lleg
 
 Por eso, la reacción de los aficionados ante su regreso no se centra solo en «ha vuelto», sino en «esa sensación familiar del estadio ha vuelto».
 
-Según informó la edición digital de *United Daily News* / UDN en febrero de 2026, los Fubon Guardians anunciaron que Lee Ho-jung continuaría animando al equipo en la temporada 2026 como integrante de las Fubon Angels. [Fuente: United Daily News / UDN][^2] La cobertura de la rueda de prensa de inicio de temporada de marzo del mismo año cita también su descripción de «volver a casa» al referirse a su regreso al estadio principal de Xinzhuang. [Fuente: United Daily News / UDN][^3]
+Según informó la edición digital de _United Daily News_ / UDN en febrero de 2026, los Fubon Guardians anunciaron que Lee Ho-jung continuaría animando al equipo en la temporada 2026 como integrante de las Fubon Angels. [Fuente: United Daily News / UDN][^2] La cobertura de la rueda de prensa de inicio de temporada de marzo del mismo año cita también su descripción de «volver a casa» al referirse a su regreso al estadio principal de Xinzhuang. [Fuente: United Daily News / UDN][^3]
 
 ## El significado de su regreso a los Fubon Angels
 
@@ -62,9 +63,9 @@ Ella es uno de los casos representativos de esta etapa. A través de su trayecto
 
 ## Referencias / Sources
 
-[^2]: *United Daily News* / UDN (reporte general), «CPBL / ¡Confirmado! La "hermana mayor" de las Fubon Angels Lee Ho-jung se une a la animación de los Guardians esta temporada», 26-02-2026, https://udn.com/news/story/7002/9346859
+[^2]: _United Daily News_ / UDN (reporte general), «CPBL / ¡Confirmado! La "hermana mayor" de las Fubon Angels Lee Ho-jung se une a la animación de los Guardians esta temporada», 26-02-2026, https://udn.com/news/story/7002/9346859
 
-[^3]: *United Daily News* / UDN (reportera Yeh Pei-yu), «CPBL / Cinco refuerzos coreanas de los Guardians comparten escenario; Lee Ju-eun rompe en lágrimas: "Hacía tanto que no os veía"», 25-03-2026, https://udn.com/news/story/7002/9402487
+[^3]: _United Daily News_ / UDN (reportera Yeh Pei-yu), «CPBL / Cinco refuerzos coreanas de los Guardians comparten escenario; Lee Ju-eun rompe en lágrimas: "Hacía tanto que no os veía"», 25-03-2026, https://udn.com/news/story/7002/9402487
 
 Otras fuentes verificables:
 

@@ -1,7 +1,7 @@
 ---
 title: 'Elecciones y política partidista en Taiwán'
 description: 'Desde las llamas del Incidente de Zhongli hasta los 8.17 millones de votos, cómo Taiwán transformó el voto en medio siglo de herramienta de la ley marcial a fe cívica'
-date: '2026-03-20'
+date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '戰後與威權'
@@ -13,15 +13,16 @@ tags:
     'Movimiento pro-democracia',
     'Elección presidencial directa',
   ]
-readingTime: '18'
-lastVerified: '2026-05-27'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 18
+lastVerified: 2026-05-27
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/台灣選舉與政黨政治.md'
 sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:35594d81e2470e05'
 sourceBodyHash: 'sha256:7e75aac6f994b2f2'
 translatedAt: '2026-05-28T05:08:34+08:00'
+difficulty: 'beginner'
 ---
 
 # Elecciones y política partidista en Taiwán

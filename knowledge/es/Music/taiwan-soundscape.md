@@ -15,10 +15,10 @@ tags:
     'beiguan y nan Guan',
     'sonidos callejeros',
   ]
-readingTime: '10'
-lastVerified: '2026-03-19'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 10
+lastVerified: 2026-03-19
+lastHumanReview: false
+featured: false
 translatedFrom: 'Music/台灣聲音地景.md'
 sourceCommitSha: 'bc6743fde'
 sourceContentHash: 'sha256:e4fcea6f40bc1371'

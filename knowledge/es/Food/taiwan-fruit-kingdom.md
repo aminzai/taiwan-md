@@ -1,7 +1,7 @@
 ---
 title: 'El reino frutícola de Taiwán'
 description: 'Bajo el resplandor del "reino frutícola", el valor anual de las frutas importadas supera los 30.2 mil millones de dólares taiwaneses y alcanza un máximo histórico, mientras que la producción local cae un 20% en 10 años: la verdad cruz detrás de la dulce reputación'
-date: 2026-03-24
+date: 2026-07-08
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: '食材與調味'
@@ -18,8 +18,8 @@ tags:
     'crisis agrícola',
     'competencia de importaciones',
   ]
-readingTime: 8
-lastVerified: 2026-03-24
+readingTime: 16
+lastVerified: 2026-07-08
 lastHumanReview: false
 featured: true
 translatedFrom: 'Food/台灣水果王國.md'
@@ -30,6 +30,7 @@ translatedAt: '2026-05-01T22:19:10+08:00'
 image: '/article-images/food/fruit-kingdom-mango-fangliao-2009.webp'
 imageCredit: '陳偉城栽種、屏東枋寮 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 2.0'
+difficulty: 'intermediate'
 ---
 
 # El reino frutícola de Taiwán

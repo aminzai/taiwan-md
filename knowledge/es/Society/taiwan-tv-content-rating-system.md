@@ -16,12 +16,13 @@ tags:
   ]
 readingTime: 15
 lastVerified: 2026-04-08
-lastHumanReview: '2026-04-08'
+lastHumanReview: true
 translatedFrom: 'Society/台灣電視分級制度.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
 translatedAt: '2026-05-01T22:19:10+08:00'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** El sistema de clasificación de Taiwán fue en su momento un par de tijeras. Antes de 1983, las películas debían pasar por una "censura" y no por una "clasificación"; la revisión política y moral era la norma. La controversia de los dinosaurios provocada por Parque Jurásico en 1993 hizo que Taiwán tomara conciencia de la brecha en el sistema de tres niveles, lo que impulsó la creación de la categoría de protección. Hoy en día, Taiwán ha establecido un sistema de cinco niveles que abarca cine, televisión, programas de video y juegos digitales, transformando la "prohibición de proyección" en "orientación por niveles", y protegiendo la diversidad y seguridad del entorno audiovisual.

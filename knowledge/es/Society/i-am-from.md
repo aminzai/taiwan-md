@@ -1,7 +1,7 @@
 ---
 title: 'Soy OO: la página que te llama “compañero” tiene como backend una empresa en Neihu y una instrucción de IA que se olvidó borrar'
 description: 'En febrero de 2026, una página local que se autodenominaba “Soy de Taipéi” dejó una instrucción de IA sin eliminar: «Eliminar palabras sensibles, reforzar el lenguaje local de Taiwán». Siguiendo esa pista, el rastro lleva a una empresa familiar Lin ubicada en un edificio de Neihu, que reescribe las noticias de CTWANT y Zhongtian con tono de “compañero” y las publica en páginas que fingen ser locales de distintos municipios. No falsifica noticias, solo redistribuye noticias reales; el problema radica en que el origen y el flujo de dinero son imposibles de rastrear, y los expertos taiwaneses más hábiles en detectar operaciones de cognición advierten: no etiquetes apresuradamente.'
-date: '2026-06-05'
+date: 2026-06-05
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '資訊環境'
@@ -13,7 +13,7 @@ tags:
   - 'entorno informativo'
   - 'alfabetización mediática'
   - 'páginas locales'
-lastVerified: '2026-06-05'
+lastVerified: 2026-06-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/我是OO人.md'

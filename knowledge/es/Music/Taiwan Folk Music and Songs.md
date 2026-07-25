@@ -23,6 +23,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b219ae0c22f1ce55'
 sourceBodyHash: 'sha256:943159c3ad5fba6c'
 translatedAt: 2026-05-02T02:09:57+08:00
+author: 'Taiwan.md'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** En la ceremonia de apertura de los Juegos Olímpicos de Atlanta 1996, el mundo entero escuchó el antiguo canto de un anciano ami de Taiwán, pero Kuo Ying-nan solo descubrió en 1998, a través de una demanda judicial, que su voz había sido oída por 65 millones de personas. Este relato absurdo de «ser plagiado y luego escuchado por el mundo» es el retrato perfecto de un siglo de historia de la música folclórica taiwanesa: desde los 80.000 discos vendidos por Chun-chun en la década de 1930, pasando por su adaptación como canciones militares, hasta el redescubrimiento de su propia voz en los años 1990.

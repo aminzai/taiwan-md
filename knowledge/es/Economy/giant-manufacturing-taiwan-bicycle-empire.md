@@ -3,7 +3,7 @@ title: 'Empresas taiwanesas: Giant Manufacturing'
 description: 'De esclava de fabricación por encargo abandonada por gigantes estadounidenses a un imperio invisible que establece los estándares técnicos globales de la bicicleta'
 date: 2026-03-22
 author: 'Taiwan.md Contributors'
-category: economy
+category: 'Economy'
 subcategory: '企業列傳'
 tags:
   [
@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:59a5006dd9b19748'
 sourceBodyHash: 'sha256:ba1854308daac0e3'
 translatedAt: 2026-05-01T20:54:23+08:00
+featured: false
 ---
 
 # Empresas taiwanesas: Giant Manufacturing

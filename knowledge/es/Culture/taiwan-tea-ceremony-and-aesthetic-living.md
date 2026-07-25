@@ -22,6 +22,7 @@ sourceCommitSha: 'd520299b'
 sourceContentHash: 'sha256:493db11be1cffdc3'
 sourceBodyHash: 'sha256:31e39ab99f97ad00'
 translatedAt: '2026-06-16T17:19:04Z'
+difficulty: 'beginner'
 ---
 
 # La ceremonia del té taiwanesa y la estética de la vida cotidiana

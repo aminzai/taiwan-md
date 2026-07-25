@@ -1,7 +1,7 @@
 ---
 title: 'Empresa de Taiwán: Acer — El que dibujó la Curva de la Sonrisa, el más difícil de ubicar en los extremos'
 description: 'En 1992, Stan Shih dibujó en el interior de Acer una curva con forma de U abierta, advirtiendo a toda la industria manufacturera de Taiwán: no queden atrapados en la fase de ensamblaje, de menor valor agregado, sino avancen hacia los extremos de I+D y de marca. Esta frase marcó a Taiwán durante tres décadas. Sin embargo, el propio dibujante se estrelló tres veces en su camino hacia el extremo de la marca: en 2000, la tensión entre marca y subcontratación forzó la primera gran escisión de la industria electrónica de Taiwán; en 2011, tras alcanzar el segundo puesto mundial, colapsó por exceso de inventario; en 2013, un déficit anual de 20.500 millones de dólares taiwaneses obligó al fundador, de 68 años, a regresar a la dirección. La ironía final se revelaría veinte años después: el pequeño subcontratista Wistron, que en su día fue escindido y considerado el menos prometedor, alcanzó la cima de la curva en la era de la IA.'
-date: '2026-03-20'
+date: 2026-03-20
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '企業列傳'
@@ -14,10 +14,10 @@ tags:
     'Globalización',
     'Curva de la Sonrisa',
   ]
-readingTime: '13'
-lastVerified: '2026-07-06'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 13
+lastVerified: 2026-07-06
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/台灣企業：宏碁.md'
 sourceCommitSha: 'beb07b8e'
 sourceContentHash: 'sha256:cd395bed8d239f41'

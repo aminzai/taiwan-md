@@ -1,13 +1,13 @@
 ---
 title: 'Perspectiva historiográfica de la isla de Taiwán: cómo una isla gobernada repetidamente inventó su propia subjetividad'
 description: 'Taiwán no es la última pieza del rompecabezas de un imperio continental, sino la primera piedra angular de la red marítima del Pacífico. A partir del enfoque de Ts’ao Yung-ho de “delimitar la historia desde el territorio”, esta lectura reconsidera la vitalidad de la isla.'
-date: 2026-03-27
+date: 2026-07-10
 author: 'Taiwan.md'
 category: 'History'
 subcategory: '史觀與方法論'
 tags: ['historia', 'isla', 'historiografía', 'Ts’ao Yung-ho', 'océano']
-lastVerified: 2026-03-27
-lastHumanReview: true
+lastVerified: 2026-07-10
+lastHumanReview: false
 featured: true
 translatedFrom: 'History/台灣島史觀.md'
 sourceCommitSha: '01d9d0e73'

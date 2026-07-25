@@ -19,7 +19,7 @@ author: 'Taiwan.md'
 readingTime: 12
 featured: false
 lastVerified: 2026-04-07
-lastHumanReview: '2026-04-07'
+lastHumanReview: true
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Penghu_Tianhou_Temple_02.jpg/1280px-Penghu_Tianhou_Temple_02.jpg'
 imageAlt: 'Salón principal del Templo Tianhou de Penghu, el templo de Mazu más antiguo que se conserva en Taiwán'
 imageCredit: 'Wikimedia Commons, CC BY-SA'

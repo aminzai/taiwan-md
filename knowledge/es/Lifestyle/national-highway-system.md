@@ -1,7 +1,7 @@
 ---
 title: 'Autopistas: de la carretera MacArthur al túnel de Xueshan, cincuenta años de poder y velocidad en las autopistas nacionales de Taiwán'
 description: 'En 1964, la carretera MacArthur solo tenía 23 kilómetros; hoy la red de autopistas nacionales de Taiwán supera los 1.000 kilómetros. Desde la autopista Zhongshan, impulsada por Chiang Ching-kuo, hasta la autopista Formosa, ridiculizada como "carretera política", el túnel de Xueshan —el más difícil de excavar del mundo— y el sistema ETC, que transformó los hábitos de pago de cada conductor, cada tramo de asfalto registra la voluntad política, los límites de la ingeniería y la resistencia popular de la Taiwán de posguerra.'
-date: '2026-05-03'
+date: 2026-07-18
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
 tags:
@@ -13,8 +13,8 @@ tags:
     'ETC',
     'Taiwán de posguerra',
   ]
-readingTime: '10'
-lastVerified: '2026-05-03'
+readingTime: 15
+lastVerified: 2026-07-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/高速公路.md'

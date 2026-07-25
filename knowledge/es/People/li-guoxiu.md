@@ -14,8 +14,8 @@ tags:
     'Drama taiwanés',
   ]
 lastVerified: 2026-03-19
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/李國修.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:11b55d270abdf3d3'

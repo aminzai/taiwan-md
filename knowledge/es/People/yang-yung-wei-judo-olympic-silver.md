@@ -12,6 +12,8 @@ sourceContentHash: 'sha256:66a5e0aae1a572b7'
 sourceBodyHash: 'sha256:162f09653edec7c3'
 translatedAt: 2026-05-02T01:17:17+08:00
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Yang Yung-wei

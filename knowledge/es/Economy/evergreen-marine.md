@@ -1,13 +1,20 @@
 ---
 title: 'Empresas de Taiwán: Evergreen Marine'
 description: 'Un buque de carga de segunda mano con 15 años de antigüedad, que 17 años después se coronó como el número uno del mundo — y luego el testamento del fundador desgarró un imperio.'
-date: '2026-03-24'
+date: 2026-03-24
 author: 'Taiwan.md'
 subcategory: '企業列傳'
 category: 'Economy'
-tags: ['Economía', 'Empresas', 'Industria naviera', 'Logística', 'Comercio internacional']
+tags:
+  [
+    'Economía',
+    'Empresas',
+    'Industria naviera',
+    'Logística',
+    'Comercio internacional',
+  ]
 readingTime: 9
-lastVerified: '2026-03-24'
+lastVerified: 2026-03-24
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：長榮海運.md'

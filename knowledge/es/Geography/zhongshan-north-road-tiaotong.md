@@ -1,7 +1,7 @@
 ---
 title: 'Los tiao-tong de la calle Zhongshan Norte: la ruta hacia el santuario que trazaron los japoneses y que al final volvió a manos de empresas japonesas'
 description: 'El 17 de abril de 1923, Hirohito, príncipe heredero de Japón de 19 años, salió en carruaje de la estación de Taipéi y recorrió una vía de 15 metros de ancho rumbo al Santuario de Taiwán en Yuanshan: se llamaba Calzada de los Enviados Imperiales. En 1941 fue ampliada a una avenida de 40 metros y cinco carriles. En 1945 pasó a llamarse «calle Zhongshan Norte» en memoria de Sun Yat-sen. En 1951, durante la Guerra de Corea, las fuerzas estadounidenses se instalaron allí, y el tramo tres de la calle Zhongshan Norte se convirtió en una «concesión estadounidense». En 1972, tras la ruptura diplomática entre la República de China (Taiwán) y Japón, las empresas japonesas no se marcharon; en 1979 se fueron las fuerzas estadounidenses; en los años 1980, las empresas japonesas tomaron el relevo de los tiao-tong. La ruta hacia el santuario que trazaron los japoneses, al final, volvió a manos de las compañías japonesas.'
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區'
@@ -24,10 +24,10 @@ tags:
     'barrio histórico',
     'Light the Night',
   ]
-readingTime: '24'
-lastVerified: '2026-05-21'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 24
+lastVerified: 2026-05-21
+lastHumanReview: false
+featured: false
 translatedFrom: 'Geography/中山北路條通.md'
 sourceCommitSha: 'fe48ea49'
 sourceContentHash: 'sha256:c8a39341eabfac41'

@@ -21,7 +21,7 @@ tags:
   - 'Ping-an-hsi'
   - 'literatura femenina'
 subcategory: 'Literatura y poetas / figuras de la cultura hakka'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 canonical-order: 120
 lastVerified: 2026-07-12
@@ -29,7 +29,7 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-07/杜潘芳格.md'
 viewpoint_formed: true
 image: '/article-images/people/dupan-xinpu-pan-house.webp'
-imageCredit: 'Wikimedia Commons / Casa Pan de Xinpu'
+imageCredit: 'Wikimedia Commons / 新埔潘屋'
 imageLicense: 'see file page'
 imageSource: 'https://commons.wikimedia.org/wiki/File:新埔潘屋全景.jpg'
 ---
@@ -68,7 +68,7 @@ _Antigua residencia de Wu Cho-liu en Xinpu: la huella material de la red de escr
 
 En 1965 se incorporó a la [Sociedad Poética Li](/art/笠詩社), buque insignia de las sociedades poéticas nativistas fundada en 1964, que subrayaba la conciencia local.[^1][^7] No fue una de las doce personas fundadoras, sino la poeta que entró «al año siguiente de la fundación de Li». Li Yuan-chen, Li Min-yung y otros defenderían después en repetidas ocasiones su pensamiento poético.[^5]
 
-En julio de 1966, la revista *Taiwan Wenyi* publicó su poema «Primavera». La prensa en inglés lo escribe así: era un original en japonés, traducido al chino por **Wu Cho-liu**.[^4] Aquí aparece una forma de producción habitual en la generación que atravesó las lenguas: el poema crece primero en una cabeza que piensa en japonés y después otro par de manos lo traslada a la página en mandarín. Li Yuan-chen señalaría más tarde que los primeros originales en chino pasaban a menudo por **traductores varones**, y que los matices de la mirada femenina quedaban alisados; esa es también una de las razones por las que se ha subestimado su influencia.[^4]
+En julio de 1966, la revista _Taiwan Wenyi_ publicó su poema «Primavera». La prensa en inglés lo escribe así: era un original en japonés, traducido al chino por **Wu Cho-liu**.[^4] Aquí aparece una forma de producción habitual en la generación que atravesó las lenguas: el poema crece primero en una cabeza que piensa en japonés y después otro par de manos lo traslada a la página en mandarín. Li Yuan-chen señalaría más tarde que los primeros originales en chino pasaban a menudo por **traductores varones**, y que los matices de la mirada femenina quedaban alisados; esa es también una de las razones por las que se ha subestimado su influencia.[^4]
 
 El 17 de septiembre de 1967, tras la recuperación de su marido, gravemente herido en un accidente de tráfico, ella leyó ese giro como una plegaria atendida y se adentró aún más en la fe cristiana y en el trabajo misionero.[^1] La fe no la convirtió en una abuela dulce que canta al folclore: al contrario, algunos de sus poemas más conocidos **desmontan** precisamente la obviedad del pudu del Festival de los Fantasmas y del teatro de la paz.
 
@@ -97,7 +97,7 @@ En el agradecimiento hakka de invierno a los dioses suele representarse el «pin
 
 «Conservar la única vida que tiene» es la cerradura de todo el poema. El texto comparativo de The News Lens de 2021 señala: la gente no es que ignore que en el escenario hay muerte, sino que sabe que dar un paso al frente puede costarle la desaparición, y por eso llama paciencia a la obediencia y paz a mirar desde fuera.[^2] La lectura guiada de Hung Shu-ling, del Departamento de Literatura China de la Universidad Nacional de Taiwán, abre tres capas: la crítica moderna a lo irracional del folclore, la ironía política bajo el autoritarismo y la ética universal de que «quien solo busca salvarse acaba siendo dominado».[^8]
 
-Más tarde reescribió el poema en **hakka**. El Museo Nacional de Literatura Taiwanesa conserva el manuscrito en hakka de «Ping-an-hsi» de 1995.[^9] El reportaje en inglés del *Taipei Times* advierte de que la versión hakka no es una traducción literal, sino que incorpora una retórica hakka ausente en la versión en mandarín.[^4] La última estrofa en hakka que cita VERSE suena aún más a lengua hablada, como quien muerde una raíz de nabo seco:
+Más tarde reescribió el poema en **hakka**. El Museo Nacional de Literatura Taiwanesa conserva el manuscrito en hakka de «Ping-an-hsi» de 1995.[^9] El reportaje en inglés del _Taipei Times_ advierte de que la versión hakka no es una traducción literal, sino que incorpora una retórica hakka ausente en la versión en mandarín.[^4] La última estrofa en hakka que cita VERSE suena aún más a lengua hablada, como quien muerde una raíz de nabo seco:
 
 > 儘多儘多个平安人  
 > 情願囓菜餔根  
@@ -118,7 +118,7 @@ Si «Ping-an-hsi» mira las gradas, «Festival de los Fantasmas» (中元節) mi
 Esto resulta especialmente punzante junto al vocabulario de fe de «Figuras de papel» (紙人): las figuras de papel se agitan con el viento de otoño; ella escribe «mi cuerpo es una vasija y mi corazón es un templo», y quiere buscar a la «persona verdadera» en un mundo saturado de figuras de papel.[^11] Que una poeta cristiana desmonte las fiestas populares no busca alimentar una guerra cultural, sino preguntar: **a quién se le exige estar bien dispuesto y quién tiene derecho a mirar la función**.
 
 ![Arquitectura hakka tradicional de patio cerrado en la zona de Tongluo, condado de Miaoli. El mundo material de la poesía en hakka no es un simple «símbolo rural», sino un espacio de vida que han hecho crecer juntos la aldea, los ritos, el entarimado del teatro y la lengua hablada cotidiana.](/article-images/people/dupan-hakka-compound-tongluo.webp)
-_Patio hakka tradicional (Tongluo, Miaoli). Para entender las escenas folclóricas de «Ping-an-hsi» y «Festival de los Fantasmas» hay que devolver primero el entarimado y la sala común desde el símbolo turístico al terreno de la ética cotidiana. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg)._
+_Patio hakka tradicional (Tongluo, Miaoli). Para entender las escenas folclóricas de «Ping-an-hsi» y «Festival de los Fantasmas» hay que devolver primero el entarimado y la sala común desde el símbolo turístico al terreno de la ética cotidiana. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg).\_
 
 ## Tras el fin de la ley marcial, la lengua materna pasó de «hablarse en casa» a «escribirse en papel»
 
@@ -158,7 +158,7 @@ La lectura de VERSE rescata además «La casa de mis padres»: la madre parece u
 
 Las instituciones públicas y la academia añadieron después coronas que llegaron tarde: en 2007, el «Premio a la Contribución Destacada» y el «Premio a la Contribución a la Nueva Literatura Taiwanesa» del Consejo de Asuntos Hakka; en 2008, el «Premio Oxford de Literatura Taiwanesa» de la Universidad Aletheia.[^1] El 10 de marzo de 2016 murió mientras dormía en su casa, a los 89 años; en el funeral, un representante del Consejo de Asuntos Hakka entregó el elogio presidencial.[^1][^13]
 
-En marzo de 2017 la familia donó **340** manuscritos a la Biblioteca Nacional Central: japonés, chino y hakka dispuestos uno junto a otro, como si se apilara en papel hojeable todo un campo de batalla lingüístico de una vida.[^4] El *Taipei Times* cita lo que dijo en 2004 a la revista *INK*: «If you ask me why I write, you might as well ask me why I live» («si me preguntas por qué escribo, podrías preguntarme igualmente por qué vivo»).[^4]
+En marzo de 2017 la familia donó **340** manuscritos a la Biblioteca Nacional Central: japonés, chino y hakka dispuestos uno junto a otro, como si se apilara en papel hojeable todo un campo de batalla lingüístico de una vida.[^4] El _Taipei Times_ cita lo que dijo en 2004 a la revista _INK_: «If you ask me why I write, you might as well ask me why I live» («si me preguntas por qué escribo, podrías preguntarme igualmente por qué vivo»).[^4]
 
 Hacia 2021, «El dolor de la madre compasiva entre miles de flores» (萬千花蕊慈母悲哀) de la banda independiente **Collage** (珂拉琪) se hizo enormemente popular, y muchos lectores interpretaron el verso «la gente de carne y hueso acabó desaparecida» como una escena del Terror Blanco. The News Lens puso esa canción junto a «Ping-an-hsi»: una ruge hacia el bodhisattva, la otra mira la caña de azúcar bajo el entarimado; ambas son **formas indirectas de escribir cuando no se puede mirar de frente el trauma**.[^2] No importa si Collage está «oficialmente certificada» como creación sobre el Terror Blanco; lo importante es que los oídos de una nueva generación volvieron a conectarse con un circuito ético ya escrito en 1977.
 

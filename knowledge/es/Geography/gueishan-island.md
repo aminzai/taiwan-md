@@ -1,7 +1,7 @@
 ---
 title: 'Isla Gueishan: la dirección del hogar que la gente de Yilan mira todos los días, y el hogar al que quienes vivían en la isla ya no pueden volver'
 description: 'La abuela Huang Chen-yu se mudó de la isla Gueishan a Toucheng hace más de treinta años, pero cada noche sigue soñando con la vida en la isla. Para la gente de Yilan en tierra firme, la isla Gueishan es la primera de las Ocho Vistas de Lanyang y el punto de referencia que, al salir del túnel de Hsuehshan, dice «ya casi llegamos a casa»; para los verdaderos isleños de Gueishan, es el hogar ancestral que una reubicación sin compensación les quitó en la década de 1970. Se ve, pero no se puede subir; se puede subir, pero no se puede vivir allí. En 1975, el escritor Wu Min-hsien la llamó «una isla a punto de ser olvidada por la gente». Medio siglo después no ha sido olvidada: lo que se recuerda son sus paisajes y leyendas; lo que se ha olvidado son las personas que vivían en ella.'
-date: '2026-06-24'
+date: 2026-06-24
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '離島'
@@ -21,7 +21,7 @@ tags:
     'isla periférica',
   ]
 readingTime: 22
-lastVerified: '2026-06-24'
+lastVerified: 2026-06-24
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/龜山島.md'

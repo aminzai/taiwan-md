@@ -1,7 +1,7 @@
 ---
 title: "Hi-Life: Del rojo de Guangquan al verde de Liantang, la lucha por la identidad del 'tercer competidor' taiwanés"
 description: "¿Cómo logró Hi-Life, como el único supermercado puramente local entre los cuatro grandes de Taiwán, sobrevivir a la presión de 7-ELEVEN y FamilyMart mediante la 'innovación de platos festivos' y la 'transformación digital'? ¿Qué implicaciones tendrá esta reestructuración del poder empresarial de 2023 para el ADN de esta tienda con 35 años de historia?"
-date: '2026-07-21'
+date: 2026-07-21
 category: 'Economy'
 subcategory: '企業列傳'
 tags:
@@ -12,15 +12,16 @@ tags:
   - '數位轉型'
   - '經營權'
   - '零售金融'
-readingTime: '12'
-lastVerified: '2026-07-21'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-21
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/萊爾富.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:16de3ef9123d401b'
 sourceBodyHash: 'sha256:1db4b0d8639cd770'
 translatedAt: '2026-07-23T23:06:50+08:00'
+author: 'Taiwan.md Contributors'
 ---
 
 > **Resumen de 30 segundos:** Fundada en 1989 en la calle Dihua, Hi-Life es la primera y única marca puramente local entre los cuatro grandes supermercados de Taiwán. No es un producto de licencia extranjera, sino el fruto del concepto "sentimiento local y visión mundial" cultivado por la familia Wang de Guangquan. Aunque su número de tiendas siempre ha sido el tercero o cuarto, Hi-Life fue pionero en la introducción de los "platos festivos para preordenar" y las "máquinas multifuncionales". En 2023, la propiedad pasó de la familia Wang de Guangquan al Grupo Liantang; esta venerable tienda con "base roja" está cambiando gradualmente a una nueva identidad "azul-verde", transformándose en un puesto avanzado de servicios financieros y pagos digitales. Esta transacción no es solo un flujo de capital, sino un experimento sobre cómo el "espíritu minorista local" puede sobrevivir en la era moderna.

@@ -5,7 +5,15 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '民主與政治'
-tags: ['movimientos sociales', 'participación ciudadana', 'democracia', 'Movimiento Estudiantil Lirio Silvestre', 'Movimiento Girasol', 'reforma social']
+tags:
+  [
+    'movimientos sociales',
+    'participación ciudadana',
+    'democracia',
+    'Movimiento Estudiantil Lirio Silvestre',
+    'Movimiento Girasol',
+    'reforma social',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +23,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:3135e379b382138b'
 sourceBodyHash: 'sha256:8080c3b51d96ed0a'
 translatedAt: '2026-05-20T05:08:32+08:00'
+difficulty: 'intermediate'
 ---
 
 # Movimientos sociales y participación ciudadana
@@ -289,16 +298,20 @@ En el futuro, los movimientos sociales taiwaneses enfrentarán nuevos desafíos,
 - [justfont y el desarrollo tipográfico de Taiwán: breve historia tipográfica de los veinticinco años de DynaComware a los setenta y seis minutos de Jin Xuan](/technology/justfont與台灣字體發展) — Otro caso del mismo año en que el financiamiento colectivo reescribió la percepción cultural, extendiendo la narrativa de la sociedad civil desde la perspectiva de la infraestructura tipográfica
 - [Cables submarinos: visibles sobre el Escudo de Silicio, invisibles bajo la línea vital](/technology/海底電纜) — La legislación de las siete leyes sobre cables submarinos, la plataforma de defensa conjunta de Pingtung y el primer caso judicial del Hong Tai 58 muestran el eje por el cual la presión de la sociedad civil impulsó legislación sobre infraestructura de seguridad nacional
 
-[^1]: Ho Ming-sho, “Materiales históricos del Movimiento Estudiantil Lirio Silvestre”, incluido en *Generación de movimientos estudiantiles: del Lirio Silvestre al Girasol*, https://www.books.com.tw/products/0010642379
-[^2]: Hsiao Hsin-Huang (ed.), *Los nuevos movimientos sociales de Taiwán*, Chuliu Book, https://www.books.com.tw/products/0010479654
+[^1]: Ho Ming-sho, “Materiales históricos del Movimiento Estudiantil Lirio Silvestre”, incluido en _Generación de movimientos estudiantiles: del Lirio Silvestre al Girasol_, https://www.books.com.tw/products/0010642379
+
+[^2]: Hsiao Hsin-Huang (ed.), _Los nuevos movimientos sociales de Taiwán_, Chuliu Book, https://www.books.com.tw/products/0010479654
+
 [^3]: Yuan Judicial, “Ley de Implementación de la Interpretación n.º 748”, https://cons.judicial.gov.tw/
+
 [^4]: Asociación de Información Ambiental de Taiwán, “Desarrollo del incidente contra DuPont”, https://e-info.org.tw/
+
 [^5]: Yuan Judicial, “Interpretación n.º 748 de los grandes jueces”, https://cons.judicial.gov.tw/
 
 ## Referencias
 
-- Ho Ming-sho, *[Introducción a los movimientos sociales](https://www.books.com.tw/products/0010294565)*
-- Hsiao Hsin-Huang, *[Los nuevos movimientos sociales de Taiwán](https://www.books.com.tw/products/0010479654)*
-- Lin Chia-lung y Zheng Yongnian (eds.), *[Transición y consolidación democrática](https://www.books.com.tw/products/0010008479)*
-- *[Generación de movimientos estudiantiles: del Lirio Silvestre al Girasol](https://www.books.com.tw/products/0010642379)*
+- Ho Ming-sho, _[Introducción a los movimientos sociales](https://www.books.com.tw/products/0010294565)_
+- Hsiao Hsin-Huang, _[Los nuevos movimientos sociales de Taiwán](https://www.books.com.tw/products/0010479654)_
+- Lin Chia-lung y Zheng Yongnian (eds.), _[Transición y consolidación democrática](https://www.books.com.tw/products/0010008479)_
+- _[Generación de movimientos estudiantiles: del Lirio Silvestre al Girasol](https://www.books.com.tw/products/0010642379)_
 - Sitios web oficiales de diversos grupos de movimientos sociales y documentales relacionados

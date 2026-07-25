@@ -2,8 +2,8 @@
 title: "'Espada Yitian del río Da'an: el árbol más alto de Asia Oriental, oculto durante setecientos años en un lugar al que no podemos llegar'"
 description: "Durante el Año Nuevo Lunar de 2023, el equipo de Buscadores de Árboles remontó el río durante siete días y, en una quebrada profunda en la cabecera del río Da'an, casi inaccesible para los seres humanos, dejó caer una cinta métrica desde la copa de un taiwania: 84,1 metros, el árbol más alto de Asia Oriental. Era 4,6 metros más alto que la predicción del LiDAR láser. Una isla golpeada cada año por tifones, con derrumbes e inundaciones, en teoría no debería conservar una forma de vida de tal altura; pero precisamente porque creció en un valle fluvial al que los humanos no podían llegar, evitó la gran tala y resistió setecientos años. Esa misma condición de «inaccesible» le permitió sobrevivir y también nos obligó a escanear toda la isla con láser para verlo por primera vez ese año."
 date: 2026-06-24
-author: "'Taiwan.md Contributors'"
-category: "'Nature'"
+author: 'Taiwan.md Contributors'
+category: 'Nature'
 subcategory: "'植物'"
 tags:
   [

@@ -28,6 +28,7 @@ image: /article-images/people/puma-shen-election-2024.webp
 imageCredit: 曾成訓 / Flickr
 imageLicense: CC BY 2.0
 imageSource: https://commons.wikimedia.org/wiki/File:Puma_Shen_in_2024_Taiwan_general_election.jpg
+difficulty: 'intermediate'
 ---
 
 # Puma Shen: estudió la guerra cognitiva de China, y luego China lo dibujó en un mapa satelital

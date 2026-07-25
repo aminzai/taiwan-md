@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:977c64498b20b961'
 sourceBodyHash: 'sha256:71b9d132fec3feff'
 translatedAt: 2026-05-02T02:50:57+08:00
+featured: false
 ---
 
 > **Panorama en 30 segundos:** El Acantilado de Qingshui, en la costa oriental de Taiwán, es producto de la violenta colisión entre la placa del Mar de Filipinas y la placa euroasiática. Sus paredes verticales de hasta 2400 metros se hunden directamente en el océano Pacífico. Esta aparente eternidad grandiosa está, en realidad, llena de fragilidad geológica y desafíos provocados por la actividad humana: desde la excavación del antiguo camino por Luo Dachun en la era Qing hasta las fotografías aéreas de Chi Po-lin que revelaron las cicatrices ambientales, no es solo una maravilla geográfica, sino un acantilado de vida que carga historia, ecología y relatos humanos.

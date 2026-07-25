@@ -5,8 +5,16 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
-tags: ['Tecnología y empresa', 'Hon Hai', 'Manufactura', 'Empresario', 'Fortune 500', 'Fundación Yongling']
-readingTime: 7
+tags:
+  [
+    'Tecnología y empresa',
+    'Hon Hai',
+    'Manufactura',
+    'Empresario',
+    'Fortune 500',
+    'Fundación Yongling',
+  ]
+readingTime: 8
 #   whats_excluded: "管理哲學逐條分析；富士康勞工事件完整調查；MIH合作品牌細節"
 #   where_it_hedges: "辭任董事日期P0⚠️待確認；MIH品牌合作待驗證"'
 lastVerified: 2026-05-07
@@ -21,15 +29,15 @@ translatedAt: '2026-05-20T05:08:32+08:00'
 
 # Terry Gou: Banqiao 1950, del plástico de Hon Hai 1974 al fundador del imperio de manufactura por contrato
 
-> **Panorama en 30 segundos:** Terry Gou nació el 18 de octubre de 1950 en el condado de Banqiao, Taipéi.[^1] En 1974 fundó «Hon Hai Plastic» con 100.000 dólares taiwaneses obtenidos por su madre en un *hui* (cooperativa de ahorro informal), con solo 10 empleados, dedicándose a la producción de perillas para televisores.[^2] En 1981 desarrolló conectores para computadoras personales; en 1982 la empresa pasó a llamarse «Hon Hai Precision Industry».[^2] En junio de 2019 cedió la presidencia a Young Liu y se presentó sin éxito a las primarias presidenciales del Kuomintang.[^3] En 2021 la Fundación Yongling, junto con TSMC y Hon Hai, adquirió y donó 15 millones de dosis de la vacuna BNT para apoyar la lucha de Taiwán contra la pandemia.[^4] En 2023 se presentó nuevamente como candidato independiente a la presidencia, con Lai Pei-hsia como compañera de fórmula, alcanzando 902.389 firmas válidas válidas (la segunda cifra más alta en la historia de Taiwán), pero se retiró 3 horas antes del cierre de inscripción.[^5] En 2024, los ingresos consolidados de Hon Hai ascendieron a 6,8596 billones de dólares taiwaneses, ocupando el puesto 32 del Fortune 500.[^6] En marzo de 2026, su patrimonio neto se estimaba en unos 15.300 millones de dólares, recuperando el título de la mayor fortuna de Taiwán.[^7]
+> **Panorama en 30 segundos:** Terry Gou nació el 18 de octubre de 1950 en el condado de Banqiao, Taipéi.[^1] En 1974 fundó «Hon Hai Plastic» con 100.000 dólares taiwaneses obtenidos por su madre en un _hui_ (cooperativa de ahorro informal), con solo 10 empleados, dedicándose a la producción de perillas para televisores.[^2] En 1981 desarrolló conectores para computadoras personales; en 1982 la empresa pasó a llamarse «Hon Hai Precision Industry».[^2] En junio de 2019 cedió la presidencia a Young Liu y se presentó sin éxito a las primarias presidenciales del Kuomintang.[^3] En 2021 la Fundación Yongling, junto con TSMC y Hon Hai, adquirió y donó 15 millones de dosis de la vacuna BNT para apoyar la lucha de Taiwán contra la pandemia.[^4] En 2023 se presentó nuevamente como candidato independiente a la presidencia, con Lai Pei-hsia como compañera de fórmula, alcanzando 902.389 firmas válidas válidas (la segunda cifra más alta en la historia de Taiwán), pero se retiró 3 horas antes del cierre de inscripción.[^5] En 2024, los ingresos consolidados de Hon Hai ascendieron a 6,8596 billones de dólares taiwaneses, ocupando el puesto 32 del Fortune 500.[^6] En marzo de 2026, su patrimonio neto se estimaba en unos 15.300 millones de dólares, recuperando el título de la mayor fortuna de Taiwán.[^7]
 
 ## Hijo de militar en Banqiao
 
 Terry Gou nació el 18 de octubre de 1950 en el condado de Banqiao, Taipéi (actual distrito de Banqiao, Nueva Taipéi). Su padre era un militar de origen continental y la familia vivía en condiciones modestas.[^1] Tras graduarse en la Escuela Superior de Marina Mercante de China (actual Universidad Nacional de Ciencias Oceánicas de Taiwán), trabajó brevemente en el sector naviero antes de emprender su camino empresarial.
 
-## El *hui* de su madre: 100.000 dólares taiwaneses, 10 empleados, perillas de televisor
+## El _hui_ de su madre: 100.000 dólares taiwaneses, 10 empleados, perillas de televisor
 
-En 1974, Gou pidió prestados a su madre 100.000 dólares taiwaneses obtenidos mediante un *hui* y fundó «Hon Hai Plastic Co., Ltd.», con apenas 10 empleados dedicados a la producción de perillas y otros componentes plásticos para televisores.[^2]
+En 1974, Gou pidió prestados a su madre 100.000 dólares taiwaneses obtenidos mediante un _hui_ y fundó «Hon Hai Plastic Co., Ltd.», con apenas 10 empleados dedicados a la producción de perillas y otros componentes plásticos para televisores.[^2]
 
 Los 100.000 dólares taiwaneses y 10 empleados de Hon Hai Plastic en 1974, frente a los 6,8596 billones de dólares taiwaneses en ingresos y el puesto 32 del Fortune 500 en 2024: esa magnitud numérica abarca exactamente 50 años. La carrera de Terry Gou es un corte transversal completo de la evolución de la manufactura taiwanesa, desde el subensamblaje de componentes hasta una posición central en la cadena de suministro electrónico global. No es un caso aislado de la industria electrónica taiwanesa; es el retrato condensado de toda una era industrial.
 
@@ -85,7 +93,7 @@ De la fábrica de perillas de Hon Hai Plastic con 100.000 dólares taiwaneses al
 >
 > La retirada de 2023 bajo el lema «elegir la concesión» es un caso raro en la historia electoral taiwanesa: un candidato que renuncia voluntariamente a una competitividad ya consolidada. 900.000 firmas no son poca cosa, pero él eligió no activarlas. La forma de esta retirada merece más registro que la espectacularidad de la entrada.
 
-Desde las fábricas de Shenzhen, el ensamblaje por contrato para Apple, las vacunas de la Fundación Yongling hasta la conferencia de prensa de la «Gran Alianza de la Opinión Pública Mayoritaria»: la trayectoria de Gou es un corte transversal de superposición entre la era de la manufactura taiwanesa y la posmanufactura. No es solo un empresario: es la representación personal de la globalización de la industria electrónica taiwanesa, y también un caso completo de la cuestión de esta generación sobre «cómo participan los empresarios en la esfera pública**.
+Desde las fábricas de Shenzhen, el ensamblaje por contrato para Apple, las vacunas de la Fundación Yongling hasta la conferencia de prensa de la «Gran Alianza de la Opinión Pública Mayoritaria»: la trayectoria de Gou es un corte transversal de superposición entre la era de la manufactura taiwanesa y la posmanufactura. No es solo un empresario: es la representación personal de la globalización de la industria electrónica taiwanesa, y también un caso completo de la cuestión de esta generación sobre «cómo participan los empresarios en la esfera pública\*\*.
 
 **Lectura complementaria:** [Terry Gou — Wikipedia](https://zh.wikipedia.org/zh-tw/郭台銘) ｜ [Grupo Hon Hai: Perfil del fundador](https://www.honhai.com/zh-tw/about/group-profile/founder)
 

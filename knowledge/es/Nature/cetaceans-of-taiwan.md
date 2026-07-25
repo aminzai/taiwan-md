@@ -24,6 +24,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:fa8568c6d129180a'
 sourceBodyHash: 'sha256:7c0ff1bf77404541'
 translatedAt: '2026-05-17T05:33:00Z'
+featured: false
 ---
 
 # Cetáceos de Taiwán
@@ -132,9 +133,15 @@ Proteger a los cetáceos no es solo proteger a una especie animal, sino proteger
 ## Referencias
 
 [^1]: [Estudio poblacional del delfín jorobado del Indo-Pacífico - The News Lens](https://www.thenewslens.com/article/255968) — Confirma el estudio más reciente de 2025: población entre 45 y 50 individuos, con más del 60 % presentando heridas externas.
+
 [^2]: [Plan de Conservación de Cetáceos - Administración de Conservación Marina del Consejo de Asuntos Marítimos](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — Versión pública del Plan de Conservación del Delfín Jorobado del Indo-Pacífico y los Cetáceos de la Administración de Conservación Marina.
+
 [^3]: [Guía de avistamiento de ballenas responsable - Administración de Conservación Marina del Consejo de Asuntos Marítimos](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — Normas para el ecoturismo de avistamiento de ballenas en Taiwán.
+
 [^4]: [Asociación Taiwanesa de Cetáceos](https://www.whale.org.tw/) — Organización civil que impulsa la investigación y la conservación de cetáceos en Taiwán.
+
 [^5]: [Fundación Educativa Marítima Kuroshio](https://www.kuroshio.org.tw/newsite/) — Institución de Hualien dedicada a la investigación de cetáceos y al impulso de la ciencia ciudadana.
+
 [^6]: [Asociación Ecológica de Corazón Salvaje de Taiwán](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — Organización que aboga por la conservación del delfín jorobado del Indo-Pacífico.
+
 [^7]: [Administración de Conservación Marina del Consejo de Asuntos Marítimos](https://www.oca.gov.tw/) — Autoridad de conservación marina de Taiwán, que impulsa la protección del hábitat de los cetáceos y la regulación del desarrollo costero.

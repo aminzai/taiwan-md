@@ -1,7 +1,7 @@
 ---
 title: 'Cocina de las villas de dependientes militares en Taiwán'
 description: 'Los sabores de distintas provincias traídos por la gran migración de 1949, desde las cocinas dentro de las cercas de bambú hasta la preservación del gusto tras la demolición de las villas de dependientes militares'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '族群飲食'
@@ -14,7 +14,7 @@ tags:
     'cercas de bambú',
   ]
 readingTime: 8
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣眷村菜.md'

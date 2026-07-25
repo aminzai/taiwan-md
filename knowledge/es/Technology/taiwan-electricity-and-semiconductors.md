@@ -17,7 +17,7 @@ tags:
   - 'hardware de IA'
   - 'cadena de suministro'
 subcategory: 'Semiconductores y hardware'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -190,6 +190,9 @@ Los semiconductores han hecho que el mundo necesite a Taiwán. La electricidad l
 ## Referencias
 
 [^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Informa del plan de ahorro energético de TSMC en EUV, la escala de su consumo total y la proporción de ahorro de las herramientas; sirve para explicar la coexistencia de la mejora de eficiencia y la presión sobre el total.
+
 [^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Informa de la advertencia de la Asociación de la Industria de Semiconductores de Taiwán sobre la estabilidad eléctrica y el suministro de renovables, y recoge RE100, la demanda de energía verde de las fábricas de obleas y el riesgo de traslado al extranjero.
+
 [^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Estudia la huella ambiental de 16 fabricantes taiwaneses de componentes electrónicos entre 2015 y 2020, y plantea que la energía, el agua y las emisiones aumentan con el crecimiento de la producción, además del riesgo de carbon lock-in.
+
 [^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Reportaje de AP sobre el resultado del referéndum de 2025 acerca de la prórroga de la Tercera Central Nuclear de Taiwán, que explica también cómo incorporan quienes apoyan la nuclear las tarifas y la demanda eléctrica de la IA a su argumentación.

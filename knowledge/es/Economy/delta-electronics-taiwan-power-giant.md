@@ -14,7 +14,7 @@ tags:
 subcategory: '企業列傳'
 author: Taiwan.md
 readingTime: 15
-category: economy
+category: 'Economy'
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false

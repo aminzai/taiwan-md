@@ -1,7 +1,7 @@
 ---
 title: 'El Incidente de Mudan: Choque de civilizaciones y despertar soberano en el desfiladero de Shi-men'
 description: 'En 1874, una acción militar desencadenada por un naufragio convirtió al desfiladero de Shi-men, en el sur de Taiwán, en el epicentro del panorama de Asia Oriental moderna. Esto no solo fue una prueba para la expansión del Imperio japonés, sino también un punto de inflexión crucial para la transición de la corte Qing desde la defensa fronteriza hacia una gobernanza activa.'
-date: '2026-07-17'
+date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: 'Colonialism and Empire'
@@ -13,10 +13,10 @@ tags:
     'Derecho Internacional',
     'Pueblos Indígenas',
   ]
-readingTime: '12'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/牡丹社事件.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:91f467d8cc029b74'

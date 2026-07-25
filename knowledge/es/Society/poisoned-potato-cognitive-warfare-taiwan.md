@@ -16,8 +16,8 @@ tags:
     'CIPC',
   ]
 lastVerified: 2026-04-30
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
 sourceCommitSha: '7bad84a3d'
 sourceContentHash: 'sha256:bb11251dd95db686'

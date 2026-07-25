@@ -8,6 +8,11 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0d481ed818da82f8'
 sourceBodyHash: 'sha256:6713c8a6c615e62a'
 translatedAt: 2026-05-01T20:54:23+08:00
+author: 'Taiwan.md'
+featured: false
+lastVerified: 2026-03-17
+lastHumanReview: false
+category: 'resources'
 ---
 
 # Compendio de recursos de sitios web oficiales de Taiwán 🏛️

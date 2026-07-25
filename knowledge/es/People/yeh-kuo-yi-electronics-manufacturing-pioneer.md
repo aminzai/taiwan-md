@@ -8,8 +8,8 @@ subcategory: '科技與企業'
 tags: ['科技與企業', '英業達', '電子代工', 'ODM', '伺服器']
 readingTime: 7
 lastVerified: 2026-05-07
-lastHumanReview: 'true'
-featured: 'false'
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/葉國一.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:736f2b6cf89c9093'

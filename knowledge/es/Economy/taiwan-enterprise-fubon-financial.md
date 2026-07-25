@@ -2,7 +2,7 @@
 title: 'Empresas de Taiwán: Fubon Financial Holding'
 description: 'De 10 a 60,000 empleados: cómo los hermanos Tsai construyeron el mayor imperio financiero de Taiwán en 60 años'
 date: 2026-03-22
-category: economy
+category: 'Economy'
 tags:
   [
     Economía,
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
 translatedAt: 2026-05-01T20:54:23+08:00
+featured: false
 ---
 
 # Empresas de Taiwán: Fubon Financial Holding

@@ -9,7 +9,7 @@ readingTime: 12
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-27
-lastHumanReview: 2026-04-27
+lastHumanReview: true
 translatedFrom: Lifestyle/台灣高鐵.md
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:d4cd6040714e7d5e'

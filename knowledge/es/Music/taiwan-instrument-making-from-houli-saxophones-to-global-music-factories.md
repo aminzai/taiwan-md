@@ -1,7 +1,7 @@
 ---
 title: 'La industria taiwanesa de fabricación de instrumentos musicales: del saxofón de Houli a las fábricas globales de música'
 description: 'Explora la historia del desarrollo de la industria taiwanesa de fabricación de instrumentos musicales, desde la posición dominante mundial del saxofón de Houli hasta el reino de la fabricación de guitarras bajo contrato, y la precisión artesanal de la producción de cajas de música. Cómo Taiwán pasó de la manufactura por encargo a las marcas propias.'
-date: 2026-03-19
+date: 2026-07-17
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '樂器與製造'
@@ -14,8 +14,8 @@ tags:
     'industria manufacturera',
     'artesanía taiwanesa',
   ]
-readingTime: 13
-lastVerified: 2026-03-19
+readingTime: 22
+lastVerified: 2026-07-17
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/台灣樂器製造.md'

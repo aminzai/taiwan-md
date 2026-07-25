@@ -17,7 +17,7 @@ category: Economy
 author: 'Taiwan.md'
 readingTime: 14
 featured: true
-lastVerified: 2026-03-24
+lastVerified: 2026-07-25
 lastHumanReview: false
 translatedFrom: Economy/台灣中小企業與隱形冠軍.md
 sourceCommitSha: '4b6d28c5'

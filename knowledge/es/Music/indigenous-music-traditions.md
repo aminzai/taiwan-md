@@ -22,6 +22,7 @@ sourceCommitSha: '0f8fae0a'
 sourceContentHash: 'sha256:c9aa499e9c84c71a'
 sourceBodyHash: 'sha256:b2e261c439c4d6f4'
 translatedAt: '2026-05-26T21:07:27Z'
+difficulty: 'intermediate'
 ---
 
 # Tradiciones musicales indígenas de Taiwán

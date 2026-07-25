@@ -1,9 +1,9 @@
 ---
 title: 'Steve Chen'
 description: 'Se fue de Taiwán a los ocho años, a los veintisiete construyó en Estados Unidos un lugar donde cualquiera podía subir videos, veinte meses después lo vendió por mil seiscientos cincuenta millones de dólares, luego le creció un tumor en el cerebro, y después regresó con su esposa e hijos.'
-date: '2026-04-06'
-author: "'Taiwan.md Contributors'"
-category: "'People'"
+date: 2026-04-06
+author: 'Taiwan.md Contributors'
+category: 'People'
 subcategory: "'科技與創業'"
 tags:
   [
@@ -14,8 +14,8 @@ tags:
     'Employment Gold Card',
     'Tumor cerebral',
   ]
-readingTime: '8'
-lastVerified: '2026-04-05'
+readingTime: 8
+lastVerified: 2026-04-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳士駿.md'

@@ -8,8 +8,8 @@ subcategory: '音樂'
 tags: ['音樂', '創作歌手', '華語流行', '新加坡', '流行音樂', '金曲獎']
 readingTime: 7
 lastVerified: 2026-05-08
-lastHumanReview: 'true'
-featured: 'false'
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/林俊傑.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:c3bf4aab8b8bdebc'

@@ -24,6 +24,7 @@ sourceContentHash: 'sha256:d90e80b19559290b'
 sourceBodyHash: 'sha256:9bc13bf8c8054628'
 translatedAt: '2026-05-16T22:20:03Z'
 category: Food
+author: 'Taiwan.md'
 ---
 
 # Bubble Tea

@@ -1,7 +1,7 @@
 ---
 title: 'Museo Nacional de Derechos Humanos: los nombres que no figuran en el Monumento de las Lágrimas'
 description: 'El Día Internacional de los Derechos Humanos de 1999, Lee Teng-hui inauguró personalmente en la Isla Verde el Monumento de las Lágrimas. Bo Yang escribió 28 caracteres que condensaban el largo llanto nocturno de todas las madres, pero no escribió el nombre de ningún perpetrador. Seis años de preparación, inauguración oficial en 2018, presupuesto congelado en 2025. Un museo construido por el propio Estado para conmemorar lo que el propio Estado hizo: en los 39 años transcurridos desde el levantamiento de la ley marcial, ningún perpetrador ha sido sometido a juicio.'
-date: '2026-05-26'
+date: 2026-05-26
 author: 'Taiwan.md'
 category: 'History'
 subcategory: '戰後與威權'
@@ -21,7 +21,7 @@ tags:
     'derechos humanos',
   ]
 readingTime: 16
-lastVerified: '2026-05-26'
+lastVerified: 2026-05-26
 lastHumanReview: false
 featured: true
 translatedFrom: 'History/國家人權博物館.md'

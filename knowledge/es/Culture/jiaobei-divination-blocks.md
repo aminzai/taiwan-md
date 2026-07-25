@@ -4,7 +4,7 @@ description: "De la insistencia del artesano de Chiayi Huang Yi-hsun en el 'jiao
 date: 2026-03-27
 tags: ['Religiosidad popular', 'Artesanía tradicional', 'Jiaobei']
 subcategory: '宗教與民俗'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'Culture'
 readingTime: 8
 lastVerified: 2026-03-27
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f8a1e86f13d5a657'
 sourceBodyHash: 'sha256:ef724755039c89a7'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 # Jiaobei: oír la voz de los dioses tras una probabilidad del 50 %

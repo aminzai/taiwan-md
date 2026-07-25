@@ -1,7 +1,7 @@
 ---
 title: 'Sanxia: La tensión de poder bajo los pórticos de ladrillo rojo y un experimento de patrimonio cultural inacabado'
 description: 'Reconocida en 2007 con el Premio de Excelencia Global de Construcción de FIABCI, la calle antigua de Sanxia es el primer modelo de una «obra de restauración a gran escala» en Taiwán. Desde el comercio de telas teñidas de la época Qing «Sanjiao Yong» hasta la trágica demolición a la fuerza de los adoquines en 2016, esta calle de ladrillo rojo registra la violenta lucha de Taiwán entre la conservación de monumentos y el desarrollo turístico.'
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '社會與日常史'
@@ -13,10 +13,10 @@ tags:
     'Li Meishu',
     'Planificación comunitaria',
   ]
-readingTime: '12'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/三峽老街.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:e04661eeed7e83a6'

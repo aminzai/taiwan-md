@@ -2,8 +2,8 @@
 title: "'CommonWealth Magazine: cuarenta años clasificando el «éxito» de Taiwán desde el lugar más cercano al capital'"
 description: 'En junio de 1981, una revista económico-financiera llamada CommonWealth nació en una isla bajo ley marcial; su primera tirada de diez mil ejemplares se agotó en dos días. El impulsor fue el economista Kao Hsi-chun, y su alma fue Diane Ying, exreportera de United Press International y The New York Times. Cuarenta años después, se convirtió en uno de los medios más confiables de Taiwán, y también en el «definidor del éxito» detrás de las listas de las 2.000 empresas principales, los 50 grandes grupos y las ciudades felices. La fuente de su credibilidad y la fuente de su poder para clasificar provienen de la misma distancia.'
 date: 2026-06-04
-author: "'Taiwan.md'"
-category: "'Society'"
+author: 'Taiwan.md'
+category: 'Society'
 subcategory: "'媒體與新聞'"
 tags:
   [

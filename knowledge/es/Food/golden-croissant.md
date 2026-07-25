@@ -20,6 +20,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c876a6c84ad1bc82'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
 translatedAt: '2026-05-01T22:19:10+08:00'
+featured: false
 ---
 
 > **Panorama en 30 segundos:** El Cuerno de Oro de Sanxia, el célebre souvenir gastronómico conocido en toda Taiwán, tiene una historia mucho más fascinante de lo que imaginas. No desciende del croissant europeo, sino que fue creado por el maestro de repostería china **Luo Fuqing**, quien, durante un viaje en avión, se inspiró en el llamado «pan filipino» y, de regreso en Taiwán, lo reformuló integrando técnicas de la repostería tradicional china. Su textura singularmente «contundente» proviene de múltiples pasadas de laminado para extrair el aire y de una generosa aplicación de mantequilla pura durante el horneado, reflejando la antigua aspiración taiwanesa de alimentos sustanciosos y reconfortantes. De humilde bocadillo de callejón a producto estrella de la calle antigua, el Cuerno de Oro no es solo un recuerdo de sabores, sino también un microcosmos de la cultura local y el desarrollo comercial de Sanxia, erigido como el hito olfativo distintivo de este pequeño pueblo.

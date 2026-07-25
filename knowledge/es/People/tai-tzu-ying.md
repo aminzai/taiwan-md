@@ -22,6 +22,7 @@ sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
 translatedAt: 2026-05-02T01:17:17+08:00
 category: People
+author: 'Taiwan.md'
 ---
 
 # Tai Tzu-ying

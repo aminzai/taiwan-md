@@ -1,20 +1,28 @@
 ---
-title: "Desafíos de gobernanza de la contaminación marina y conservación en Taiwán"
-description: "Ante los residuos marinos, la sobrepesca y el cambio climático, se examina el estado actual, los retos y las soluciones innovadoras para la conservación marina en Taiwán"
+title: 'Desafíos de gobernanza de la contaminación marina y conservación en Taiwán'
+description: 'Ante los residuos marinos, la sobrepesca y el cambio climático, se examina el estado actual, los retos y las soluciones innovadoras para la conservación marina en Taiwán'
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Nature"
-subcategory: "保育與環境"
-tags: ["conservación marina", "contaminación marina", "residuos marinos", "Comisión Oceánica", "pesca sostenible"]
+author: 'Taiwan.md'
+category: 'Nature'
+subcategory: '保育與環境'
+tags:
+  [
+    'conservación marina',
+    'contaminación marina',
+    'residuos marinos',
+    'Comisión Oceánica',
+    'pesca sostenible',
+  ]
 readingTime: 15
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Nature/台灣海洋污染治理與保育挑戰.md"
-sourceCommitSha: "1d54cbe52"
-sourceContentHash: "sha256:3725125046bb0302"
-sourceBodyHash: "sha256:c208c01efc93c70e"
-translatedAt: "2026-05-20T05:08:32+08:00"
+translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
+sourceCommitSha: '1d54cbe52'
+sourceContentHash: 'sha256:3725125046bb0302'
+sourceBodyHash: 'sha256:c208c01efc93c70e'
+translatedAt: '2026-05-20T05:08:32+08:00'
+difficulty: 'intermediate'
 ---
 
 # Desafíos de gobernanza de la contaminación marina y conservación en Taiwán
@@ -51,14 +59,14 @@ Según los estudios de la Agencia de Conservación Marina de la Comisión Oceán
 
 **Estadísticas de los principales tipos de residuos marinos** (según datos de limpieza de playas de la Asociación de Protección Silvestre 2016-2023):
 
-| Posición | Tipo de residuo | Cantidad media anual | Porcentaje |
-|----------|----------------|----------------------|------------|
-| 1 | Botellas PET | 37.657 unidades | 18,2% |
-| 2 | Tapas de plástico | 29.844 unidades | 14,4% |
-| 3 | Pajitas | 22.660 unidades | 10,9% |
-| 4 | Bolsas de plástico | 21.358 unidades | 10,3% |
-| 5 | Vasos para bebidas para llevar | 17.694 unidades | 8,5% |
-| 6 | Cubiertos desechables | 17.392 unidades | 8,4% |
+| Posición | Tipo de residuo                | Cantidad media anual | Porcentaje |
+| -------- | ------------------------------ | -------------------- | ---------- |
+| 1        | Botellas PET                   | 37.657 unidades      | 18,2%      |
+| 2        | Tapas de plástico              | 29.844 unidades      | 14,4%      |
+| 3        | Pajitas                        | 22.660 unidades      | 10,9%      |
+| 4        | Bolsas de plástico             | 21.358 unidades      | 10,3%      |
+| 5        | Vasos para bebidas para llevar | 17.694 unidades      | 8,5%       |
+| 6        | Cubiertos desechables          | 17.392 unidades      | 8,4%       |
 
 **Análisis de puntos críticos de contaminación**:
 
@@ -581,14 +589,25 @@ El núcleo de la conservación marina es la equidad intergeneracional: las decis
 ## Referencias
 
 [^1]: [Estadísticas de residuos marinos - Red de Conservación Marina](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Estadísticas de datos de limpieza de playas de la Asociación de Protección Silvestre 2016-2023.
+
 [^2]: [Estudio de microplásticos marinos en Taiwán - Centro de Investigación en Biodiversidad de la Academia Sinica](https://www.oca.gov.tw/) — Informe de estudio sobre la concentración de microplásticos en las aguas circundantes de Taiwán.
+
 [^3]: [Aprobación en tercera lectura de la Ley de Conservación Marina - Greenpeace Taiwán](https://www.greenpeace.org/taiwan/update/35872/) — Confirmación de la aprobación en tercera lectura de la Ley de Conservación Marina el 12 de julio de 2024.
+
 [^4]: [Agencia de Conservación Marina de la Comisión Oceánica](https://www.oca.gov.tw/) — Libro Blanco de Conservación Marina de Taiwán, edición 2024.
+
 [^5]: [Políticas clave de la Ley de Conservación Marina - Yuan Ejecutivo](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Explicación de la política gubernamental sobre la Ley de Conservación Marina.
+
 [^6]: [Encuesta rápida de residuos marinos de un año de duración revela la verdad sobre la contaminación de las costas de Taiwán - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Datos de estudio sobre la densidad de basura en las costas de Taiwán.
+
 [^7]: [10 cosas que hay que saber sobre los residuos marinos - Indigo Waters Consulting](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Estudio de densidad de residuos submarinos de Indigo Waters Consulting, 2020.
+
 [^8]: [La Ley de Conservación Marina no puede esperar más - Greenpeace Taiwán](https://www.greenpeace.org/taiwan/update/30154/) — Proceso de promoción de la legislación de conservación marina por parte de organizaciones civiles.
+
 [^9]: [Conocer los residuos marinos - Mundo Marino](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Análisis de tipos y fuentes de residuos marinos.
+
 [^10]: ["El mar, ¿qué 'plástico tiene?' — Examen general de la basura en las costas de Taiwán" - Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Estudio sobre tipos y distribución de basura en las costas de Taiwán.
+
 [^11]: [Resultados de la conservación de tortugas marinas en Xiao Liuqiu - Asociación Laoguyu de Taiwán](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Modelo y resultados de la conservación de tortugas marinas en Xiao Liuqiu.
+
 [^12]: [Primer blanqueamiento de coral a nivel nacional a gran escala en 2024 - Nuestra Isla](https://ourisland.pts.org.tw/content/7392) — Informe de estudio sobre el blanqueamiento de coral en Taiwán en 2020.

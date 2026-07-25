@@ -1,7 +1,7 @@
 ---
 title: 'Taiwán y Eswatini: el último vínculo diplomático en África, pendiente de una sola persona'
 description: 'El 2 de mayo de 2026 a las 9 de la mañana, Lai Ching-te aterrizó en Mbabane a bordo del avión privado A340 prestado por el rey de Eswatini. Fue la primera vez que un presidente taiwán vio revocado su permiso de sobrevuelo por presión de China, y que el monarca de un país aliado envió un avión desde Taipéi para recogerlo. Desde el establecimiento de relaciones diplomáticas el mismo día de la independencia de Eswatini en 1968 hasta convertirse en el último aliado africano, desde un monarca absoluto cuyo año de nacimiento coincide exactamente con la historia de la relación bilateral hasta la represión de 46 vidas en 2021, desde la guayaba de corazón rojo en SUPERSPAR hasta la exclusión deliberada de Eswatini de los aranceles cero para 53 países africanos por parte de China. Los 58 años de relaciones entre Taiwán y Eswatini son el manual más concreto sobre lo que significa "Estado soberano", y también una pregunta sin respuesta.'
-date: '2026-05-05'
+date: 2026-05-05
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '國際關係'
@@ -21,9 +21,9 @@ tags:
     '318學運',
     '諾魯斷交',
   ]
-lastVerified: '2026-05-05'
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-05-05
+lastHumanReview: false
+featured: true
 translatedFrom: 'Society/台灣與史瓦帝尼.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:fe1941c4ac5aac8a'

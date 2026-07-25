@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f3f1641bd9815359'
 sourceBodyHash: 'sha256:639fe26edbc39449'
 translatedAt: '2026-05-13T01:08:31Z'
+author: 'Taiwan.md'
 ---
 
 # Ko Wen-je

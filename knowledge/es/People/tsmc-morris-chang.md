@@ -1,7 +1,7 @@
 ---
 title: 'Morris Chang'
 description: 'El padre de los semiconductores, fundador de TSMC, legendario empresario que cambió la industria tecnológica global con el modelo de fundición de obleas'
-date: '2026-03-17'
+date: 2026-03-17
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
@@ -15,7 +15,7 @@ tags:
     'fundición de obleas',
     'montaña sagrada protectora del país',
   ]
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/張忠謀.md'

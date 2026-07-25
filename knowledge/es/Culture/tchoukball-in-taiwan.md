@@ -11,7 +11,7 @@ tags:
     'Deporte escolar',
   ]
 subcategory: '運動文化'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'Culture'
 readingTime: 12
 lastVerified: 2026-03-27
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:01a29994f0cdcf17'
 sourceBodyHash: 'sha256:620db6741686fb51'
 translatedAt: '2026-06-22T00:30:00+08:00'
+featured: false
 ---
 
 # Tchoukball: el campeón mundial invisible de Taiwán durante 43 años

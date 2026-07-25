@@ -25,6 +25,7 @@ sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
 translatedAt: 2026-05-01T20:54:23+08:00
 category: Economy
+difficulty: 'intermediate'
 ---
 
 # La industria taiwanesa de máquinas-herramienta

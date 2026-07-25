@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2b37211d946c848c'
 sourceBodyHash: 'sha256:0b62bbb2f4c7cd6b'
 translatedAt: '2026-06-16T17:19:04Z'
+author: 'Taiwan.md'
 ---
 
 > **Panorama en 30 segundos:** ¿Por qué el chino que se habla en Taiwán tiene esta forma? No es el resultado de un diseño político, sino una estratigrafía lingüística depositada naturalmente por cuatrocientos años de vida en la isla. Desde los topónimos dejados por los holandeses, la penetración de préstamos japoneses durante cincuenta años, la divergencia léxica de 1949, hasta la pugna lingüística de la era de internet: cada capa es una huella de la vida real, no una postura política.

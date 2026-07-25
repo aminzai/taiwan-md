@@ -1,7 +1,7 @@
 ---
 title: 'Wu Pao-chun: una promesa a un niño del pueblo Paiwan'
 description: 'Hijo de una familia rural en Pingtung, con educación secundaria y sin saber francés. Con un pan de lichi y rosa ganó la medalla de oro del primer campeonato mundial de maestros panaderos en París —dentro de ese pan llevaba una promesa hecha diez años antes a un niño indígena.'
-date: '2026-04-05'
+date: 2026-04-05
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '餐飲與職人'
@@ -15,10 +15,10 @@ tags:
     'pan',
     'pueblos indígenas',
   ]
-readingTime: '7'
-lastVerified: '2026-04-05'
-lastHumanReview: 'false'
-featured: 'true'
+readingTime: 7
+lastVerified: 2026-04-05
+lastHumanReview: false
+featured: true
 translatedFrom: 'People/吳寶春.md'
 sourceCommitSha: 'fb0101886'
 sourceContentHash: 'sha256:299e6ec6dab64e0a'

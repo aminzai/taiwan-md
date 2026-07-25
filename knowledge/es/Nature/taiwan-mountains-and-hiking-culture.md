@@ -22,6 +22,8 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:e81dd2e1a4ff1dc3'
 sourceBodyHash: 'sha256:571a99d15e048f22'
 translatedAt: '2026-05-17T05:33:00Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Las montañas de Taiwán y la cultura del montañismo

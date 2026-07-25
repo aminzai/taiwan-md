@@ -1,7 +1,7 @@
 ---
 title: 'Proceso electoral: de la urna vacía a la apertura de votos nocturna, una ceremonia democrática de participación nacional'
 description: 'Las elecciones en Taiwán son reconocidas internacionalmente por su altísima transparencia mediante el “recuento manual”. Desde el ritual de exhibir la urna vacía antes de la votación hasta el proceso en que cada papeleta es alzada y cantada durante el escrutinio, no solo se elige a los líderes, sino que se cimenta la confianza social.'
-date: '2026-06-11'
+date: 2026-06-11
 category: 'Politics'
 tags:
   - 'democracia'
@@ -14,9 +14,9 @@ tags:
 subcategory: '選舉制度'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: '2026-06-11'
+lastVerified: 2026-06-11
 lastHumanReview: false
-readingTime: '10'
+readingTime: 10
 translatedFrom: 'Politics/選舉過程.md'
 sourceCommitSha: '3b405f0d7'
 sourceContentHash: 'sha256:e82a0ac036cfb6d8'

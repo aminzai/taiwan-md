@@ -1,11 +1,12 @@
 ---
 title: '¿Adónde fue la clase de moral en Taiwán: una asignatura cancelada y una responsabilidad que nadie ha asumido en veinte años'
 description: 'Antes de 1993, cada estudiante de primaria en Taiwán cursaba semanalmente "Moral y Salud", y cada estudiante de secundaria cursaba "Cívica y Moral". El Currículo de Nueve Años Consecutivos eliminó ambas asignaturas, "integrando" la moral en los siete grandes dominios de aprendizaje. El resultado fue que, en las casi 60 páginas de la descripción del programa del dominio de Ciencias Sociales, apenas se mencionaba la palabra "moral"; el 78% de los docentes afirmó que lo que más debía reforzarse era la educación moral, pero ningún profesor de ninguna asignatura consideró que fuera su responsabilidad.'
-date: '2026-04-25'
+date: 2026-04-25
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '教育'
-tags: [
+tags:
+  [
     'educación moral',
     'educación del carácter',
     'Currículo de Nueve Años Consecutivos',
@@ -15,8 +16,8 @@ tags: [
     'valores',
     'Cívica y Moral',
   ]
-readingTime: '11'
-lastVerified: '2026-04-25'
+readingTime: 11
+lastVerified: 2026-04-25
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣的道德課去哪了.md'
@@ -122,13 +123,13 @@ Kohn también reveló un fenómeno casi absurdo: "Si hoy es martes, entonces toc
 
 ## Veinte años después: ¿sigue la educación moral siendo una tierra de nadie?
 
-La respuesta del Ministerio de Educación fue lanzar el "Plan de Promoción de la Educación Moral". Según lo registrado en la séptima edición del *Anuario Educativo de la República de China*, el Ministerio de Educación, conforme a las conclusiones de la "Conferencia Nacional de Desarrollo Educativo" de 2003, estableció un "Grupo de Trabajo de Educación Moral" y promulgó la primera fase del plan el 16 de diciembre de 2004 (2004-2008), la segunda fase corregida en 2009 (2009-2013), y la tercera fase (2014-2018) enfocada en la práctica y profundización de los "valores centrales de carácter" y las "normas de conducta"[^4][^12]. El anuario también registró una decisión clave a partir del año escolar 2006: incorporar los valores centrales y las normas de conducta en los dominios de aprendizaje relevantes y las horas flexibles de las escuelas[^12]. Una encuesta de 2009 resumió los diez valores centrales de carácter para escuelas de todos los niveles, en orden: respeto por la vida, piedad filial y respeto a los mayores, responsabilidad y cumplimiento, honestidad y confianza, trabajo en equipo, autonomía y autodisciplina, proactividad, humildad y cortesía, cuidado y práctica del bien, protección del medio ambiente[^12].
+La respuesta del Ministerio de Educación fue lanzar el "Plan de Promoción de la Educación Moral". Según lo registrado en la séptima edición del _Anuario Educativo de la República de China_, el Ministerio de Educación, conforme a las conclusiones de la "Conferencia Nacional de Desarrollo Educativo" de 2003, estableció un "Grupo de Trabajo de Educación Moral" y promulgó la primera fase del plan el 16 de diciembre de 2004 (2004-2008), la segunda fase corregida en 2009 (2009-2013), y la tercera fase (2014-2018) enfocada en la práctica y profundización de los "valores centrales de carácter" y las "normas de conducta"[^4][^12]. El anuario también registró una decisión clave a partir del año escolar 2006: incorporar los valores centrales y las normas de conducta en los dominios de aprendizaje relevantes y las horas flexibles de las escuelas[^12]. Una encuesta de 2009 resumió los diez valores centrales de carácter para escuelas de todos los niveles, en orden: respeto por la vida, piedad filial y respeto a los mayores, responsabilidad y cumplimiento, honestidad y confianza, trabajo en equipo, autonomía y autodisciplina, proactividad, humildad y cortesía, cuidado y práctica del bien, protección del medio ambiente[^12].
 
 El nuevo currículo 108, implementado en 2019, adoptó un enfoque diferente. El nuevo programa reemplazó las "competencias básicas" anteriores por "competencias centrales", divididas en tres dimensiones y nueve ítems, entre los cuales la "**práctica moral y conciencia ciudadana**" bajo la dimensión de "Participación Social" es una de las nueve competencias[^15]. Los componentes de educación cívica del antiguo curso de "Cívica y Moral" —sobre democracia, derecho, derechos y deberes— se transformaron en la etapa de bachillerato en "Cívica y Sociedad", adoptando una enseñanza basada en la indigación orientada por competencias en lugar de la antigua inculcación de valores; en la etapa de secundaria, se integró en el "Dominio de Ciencias Sociales"[^14].
 
 Así, en los horarios de las escuelas de primaria y secundaria de Taiwán aparece una distribución peculiar: Cívica tiene su asignatura, Ciencias Sociales tiene su dominio, las competencias tienen sus indicadores, pero la moral no tiene su propio lugar. Existe en la "descripción" de cada asignatura, pero no en el "horario" de ninguna. La "práctica moral" es parte de los resultados de aprendizaje, pero no hay horas de clase dedicadas, ni docentes responsables, ni evaluación específica. En el funcionamiento cotidiano de la escuela, fácilmente se convierte en un estado de "todos son responsables, nadie es responsable".
 
-Cinco años después de la implementación del currículo 108, las voces de revisión desde la primera línea también se han acumulado. Un reportaje especial del *United Daily News* en 2022 señaló que el currículo 108 había caído en cinco grandes dilemas en tres años, incluyendo problemas como "políticas que giran en vacío", "presión creciente" y "carga excesiva en el aula", siendo la brecha entre los ideales del currículo y la práctica la principal controversia[^16]. El equipo EdYouth, compuesto por estudiantes de bachillerato en activo, publicó en 2023 su "Informe de Observación del Currículo 108", señalando directamente que, si bien la intención del currículo era buena, la implementación en bachillerato necesitaba reforzarse, y que la percepción de los estudiantes sobre los cursos orientados por competencias mostraba una brecha significativa con los objetivos del diseño de la política[^17].
+Cinco años después de la implementación del currículo 108, las voces de revisión desde la primera línea también se han acumulado. Un reportaje especial del _United Daily News_ en 2022 señaló que el currículo 108 había caído en cinco grandes dilemas en tres años, incluyendo problemas como "políticas que giran en vacío", "presión creciente" y "carga excesiva en el aula", siendo la brecha entre los ideales del currículo y la práctica la principal controversia[^16]. El equipo EdYouth, compuesto por estudiantes de bachillerato en activo, publicó en 2023 su "Informe de Observación del Currículo 108", señalando directamente que, si bien la intención del currículo era buena, la implementación en bachillerato necesitaba reforzarse, y que la percepción de los estudiantes sobre los cursos orientados por competencias mostraba una brecha significativa con los objetivos del diseño de la política[^17].
 
 Estas revisiones se centran principalmente en temas como los portafolios de trayectoria de aprendizaje, los sistemas de exámenes de ingreso y la desigualdad de recursos de aprendizaje entre escuelas. Aunque la "práctica moral y conciencia ciudadana" a nivel de competencias fue incluida en el currículo, los mecanismos de medición en el aula —qué se considera cumplido, quién evalúa, cómo se utilizan los resultados de la evaluación— aún no tienen respuestas claras. Un indicador de competencia que se enumera como objetivo central pero carece de apoyo operativo, y una asignatura que fue cancelada: la diferencia en la educación que realmente reciben los estudiantes es una pregunta que vale la pena plantear.
 
@@ -146,36 +147,36 @@ Confucio dijo hace más de dos mil años: "Si se guía al pueblo con decretos y 
 
 ## Referencias
 
-[^1]: Lǐ Fèngrú (2004). Dilemas y avances en la implementación de la educación moral en el Currículo de Nueve Años Consecutivos. *Asesoramiento al Estudiante*, 92, 38-55 — Incluye datos de la encuesta de la Fundación Jīnchē, análisis de la crisis de la formación moral y el plan de mejora "Respeto y Cuidado".
+[^1]: Lǐ Fèngrú (2004). Dilemas y avances en la implementación de la educación moral en el Currículo de Nueve Años Consecutivos. _Asesoramiento al Estudiante_, 92, 38-55 — Incluye datos de la encuesta de la Fundación Jīnchē, análisis de la crisis de la formación moral y el plan de mejora "Respeto y Cuidado".
 
-[^2]: Lǐ Fèngrú (2004). ¿Nuevo giro de la educación moral o neoconservadurismo? Algunas dudas y expectativas sobre la educación del carácter. *Seminario Académico sobre Educación del Carácter*, Centro de Formación Docente e Instituto de Educación de la Universidad Donghai — Incluye giros históricos de la educación del carácter, críticas de Kohn y cuestiones sobre la localización en Taiwán.
+[^2]: Lǐ Fèngrú (2004). ¿Nuevo giro de la educación moral o neoconservadurismo? Algunas dudas y expectativas sobre la educación del carácter. _Seminario Académico sobre Educación del Carácter_, Centro de Formación Docente e Instituto de Educación de la Universidad Donghai — Incluye giros históricos de la educación del carácter, críticas de Kohn y cuestiones sobre la localización en Taiwán.
 
 [^3]: Huáng Guāngxióng, Lǐ Fèngrú, Kē Huáwēi, Zhāng Zhèndōng, Xǔ Hàn (2001). Proyecto integrado de mejora de la enseñanza moral escolar (I): Elementos morales. Chiayi: Facultad de Educación, Universidad Nacional Chung Cheng — Proyecto de tres años del Ministerio de Educación.
 
 [^4]: [Plan de Promoción de la Educación Moral del Ministerio de Educación (Tercera Fase, 2014-2018)](https://ws.moe.edu.tw/001/Upload/10/relfile/8787/80239/0d4f538a-6498-4d88-8b0c-ee6c6d591194.pdf) — PDF oficial del Ministerio de Educación: véase el contenido en el enlace original.
 
-[^5]: Zhāng Xiùxióng (2002). La educación cívico-moral en el "Dominio de Ciencias Sociales" del Currículo de Nueve Años Consecutivos. *Revista de Formación Cívica*, 11, 39-52 — Fuente del concepto de "crisis de la formación moral".
+[^5]: Zhāng Xiùxióng (2002). La educación cívico-moral en el "Dominio de Ciencias Sociales" del Currículo de Nueve Años Consecutivos. _Revista de Formación Cívica_, 11, 39-52 — Fuente del concepto de "crisis de la formación moral".
 
 [^6]: [The challenge to care in schools: An alternative approach to education](https://www.google.com/books/edition/The_Challenge_to_Care_in_Schools/) — Noddings, N. (1992). Nueva York: Teachers College, Columbia University Press — Obra clásica de la ética del cuidado.
 
-[^7]: [Análisis de la evolución de la educación del carácter en Taiwán 1949-2014](https://jepr.ntue.edu.tw/JEPR/upload/journal/prog/68b2ea8d_20151228.pdf) — *Práctica e Investigación Educativa*, 28(2), 33-58, 2015. Panorama completo de los cambios en la política de educación del carácter.
+[^7]: [Análisis de la evolución de la educación del carácter en Taiwán 1949-2014](https://jepr.ntue.edu.tw/JEPR/upload/journal/prog/68b2ea8d_20151228.pdf) — _Práctica e Investigación Educativa_, 28(2), 33-58, 2015. Panorama completo de los cambios en la política de educación del carácter.
 
-[^8]: [El currículo de 12 años de educación no incluye "Vida y Ética" ni "Cívica y Moral"; la "falta de moral" en el programa genera gran controversia](https://cdn-news.org/news/11077) — *Christian Tribune*, 2017. Controversia social por la ausencia de educación del carácter en el currículo de 12 años de educación.
+[^8]: [El currículo de 12 años de educación no incluye "Vida y Ética" ni "Cívica y Moral"; la "falta de moral" en el programa genera gran controversia](https://cdn-news.org/news/11077) — _Christian Tribune_, 2017. Controversia social por la ausencia de educación del carácter en el currículo de 12 años de educación.
 
 [^9]: [Revirtiendo la educación "desmoralizada"](https://tw.news.yahoo.com/%E7%BF%BB%E8%BD%89%E7%BC%BA%E5%BE%B7%E7%9A%84%E6%95%99%E8%82%B2-201000334.html) — Re-publicación en Yahoo Noticias, análisis de las dificultades en el aula tras la eliminación de la asignatura de moral del currículo.
 
-[^10]: Chén Guānghuī (2001). Situación actual y tendencias de desarrollo de la educación moral en las escuelas de primaria y secundaria en Taiwán. *Comunicación Pedagógica de Ciencias Humanas y Sociales*, 2(1), 51-75 — Análisis de la situación actual de la educación moral.
+[^10]: Chén Guānghuī (2001). Situación actual y tendencias de desarrollo de la educación moral en las escuelas de primaria y secundaria en Taiwán. _Comunicación Pedagógica de Ciencias Humanas y Sociales_, 2(1), 51-75 — Análisis de la situación actual de la educación moral.
 
 [^11]: [Esquema del Currículo de Nueve Años Consecutivos — CIRN](https://cirn.moe.edu.tw/Guildline/index.aspx?sid=9) — Plataforma de Integración de Recursos Curriculares y de Educación del Ministerio de Educación, documentos originales del esquema general y los programas de cada dominio del Currículo de Nueve Años Consecutivos.
 
-[^12]: Ministerio de Educación (2012). Séptimo *Anuario Educativo de la República de China*, Capítulo X "Asuntos Estudiantiles y Asesoramiento", Sección II "Educación Moral y para la Vida". Ministerio de Educación — Fuente oficial primaria, incluye la historia de implementación del Plan de Promoción de la Educación Moral, la resolución sobre valores centrales del año escolar 2006, la encuesta de valores centrales y el número de escuelas de profundización de la educación moral.
+[^12]: Ministerio de Educación (2012). Séptimo _Anuario Educativo de la República de China_, Capítulo X "Asuntos Estudiantiles y Asesoramiento", Sección II "Educación Moral y para la Vida". Ministerio de Educación — Fuente oficial primaria, incluye la historia de implementación del Plan de Promoción de la Educación Moral, la resolución sobre valores centrales del año escolar 2006, la encuesta de valores centrales y el número de escuelas de profundización de la educación moral.
 
 [^13]: [Reexaminando la cívica: reflexiones sobre la formulación del nuevo programa de "Cívica y Sociedad" en bachillerato](https://www.ios.sinica.edu.tw/people/personal/mk/mk2009-1.pdf) — Instituto de Sociología, Academia Sinica, 2009. Incluye el origen de "Doctrina del Partido" en 1928, la inculcación de los Tres Principios del Pueblo/espíritu nacional/Cuatro Virtudes y Ocho Valores durante la ley marcial, y la historia completa de la relajación de la estructura de poder tras el fin de la ley marcial.
 
-[^14]: [Tras 9 años de ausencia, los Tres Principios del Pueblo regresan a los libros de texto de Cívica en bachillerato](https://news.ltn.com.tw/news/focus/paper/913103) — *Liberty Times*, 2015. Incluye momentos clave como la eliminación de los Tres Principios del Pueblo de los exámenes de ingreso universitario en 1995 y el cambio de nombre a "Cívica y Sociedad" en 2006.
+[^14]: [Tras 9 años de ausencia, los Tres Principios del Pueblo regresan a los libros de texto de Cívica en bachillerato](https://news.ltn.com.tw/news/focus/paper/913103) — _Liberty Times_, 2015. Incluye momentos clave como la eliminación de los Tres Principios del Pueblo de los exámenes de ingreso universitario en 1995 y el cambio de nombre a "Cívica y Sociedad" en 2006.
 
 [^15]: [Competencias centrales — CIRN, Currículo de 12 Años de Educación Nacional](https://cirn.moe.edu.tw/WebContent/index.aspx?sid=11&mid=12504) — Plataforma de Integración de Recursos Curriculares y de Educación del Ministerio de Educación. Tres dimensiones y nueve ítems, incluye la definición oficial de la competencia "Práctica moral y conciencia ciudadana".
 
-[^16]: [Políticas que giran en vacío, presión creciente: el currículo 108 cae en cinco grandes dilemas en tres años](https://vip.udn.com/newmedia/2022/12-years-education/problem/) — Reportaje especial del *United Daily News* sobre 12 años de educación, 2022. Revisiones desde la primera línea tras la implementación del currículo.
+[^16]: [Políticas que giran en vacío, presión creciente: el currículo 108 cae en cinco grandes dilemas en tres años](https://vip.udn.com/newmedia/2022/12-years-education/problem/) — Reportaje especial del _United Daily News_ sobre 12 años de educación, 2022. Revisiones desde la primera línea tras la implementación del currículo.
 
 [^17]: [Informe de observación del currículo 108 — EdYouth](https://www.edyouth.org/108report) — Segundo informe de observación publicado en 2023 por el equipo EdYouth, compuesto por estudiantes de bachillerato en activo. La brecha entre los ideales del currículo y su implementación desde la perspectiva estudiantil.

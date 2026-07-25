@@ -1,7 +1,7 @@
 ---
 title: 'Cuando la peste se disipó, los fuegos artificiales se convirtieron en tradición: la evolución inesperada de la cultura festiva taiwanesa'
 description: 'Un ritual de pueblo para combatir la peste con petardos, que 140 años después se convirtió en una de las celebraciones folclóricas más peligrosas del mundo'
-date: '2026-03-24'
+date: 2026-03-24
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '宗教與民俗'
@@ -14,8 +14,8 @@ tags:
     'Año Nuevo Lunar',
     'asado del Festival del Medio Otoño',
   ]
-readingTime: '12'
-lastVerified: '2026-03-24'
+readingTime: 12
+lastVerified: 2026-03-24
 lastHumanReview: false
 featured: true
 translatedFrom: 'Culture/傳統節慶與慶典.md'
@@ -23,6 +23,7 @@ sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3bac2c2faa70bd6e'
 sourceBodyHash: 'sha256:325c4509ad66d26d'
 translatedAt: '2026-06-16T17:10:37Z'
+difficulty: 'intermediate'
 ---
 
 # Cuando la peste se disipó, los fuegos artificiales se convirtieron en tradición: la evolución inesperada de la cultura festiva taiwanesa

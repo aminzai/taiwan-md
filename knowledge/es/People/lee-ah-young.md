@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:1893791073a1e549'
 sourceBodyHash: 'sha256:c10dde5e8f5a2f8e'
 translatedAt: '2026-05-17T06:00:00Z'
+featured: false
 ---
 
 > **Resumen en 30 segundos:** Lee Ah-young en Taiwán no es un caso de «fama repentina», sino un caso de «siempre ha estado ahí». Su permanencia temporada tras temporada dentro del sistema Fubon, junto con su alta asistencia y su gran reconocimiento, transformó a las animadoras coreanas de figuras mediáticas en un pilar fijo del contenido en el estadio.
@@ -37,7 +38,7 @@ En los últimos años, los Fubon Braves han convertido el contenido de entreteni
 
 Antes y después de la temporada 2026, Fubon continuó utilizando a sus cinco pilares coreanas como uno de los ejes narrativos de pretemporada. La presencia de Lee Ah-young en ese grupo representa que su valor ya está institucionalizado, y no depende únicamente de un momento puntual de popularidad.
 
-En la rueda de prensa de inicio de temporada de las Fubon Angels en marzo de 2026, los medios construyeron su cobertura en torno a la aparición conjunta de varias integrantes coreanas; al recoger las interacciones en directo, la edición digital de *United Daily News* / UDN menciona también que Lee Ah-young se presentó en chino y comentó su papel dentro de la «sección internacional» del equipo Fubon. [Fuente: United Daily News / UDN][^6]
+En la rueda de prensa de inicio de temporada de las Fubon Angels en marzo de 2026, los medios construyeron su cobertura en torno a la aparición conjunta de varias integrantes coreanas; al recoger las interacciones en directo, la edición digital de _United Daily News_ / UDN menciona también que Lee Ah-young se presentó en chino y comentó su papel dentro de la «sección internacional» del equipo Fubon. [Fuente: United Daily News / UDN][^6]
 
 ## Características de actuación y relación con los fans
 
@@ -62,7 +63,7 @@ La importancia de esta etapa radica en que las animadoras coreanas ya no son sol
 
 ## Referencias / Sources
 
-[^6]: *United Daily News* / UDN, «CPBL / Cinco refuerzos coreanas de los Guardians comparten escenario; Lee Ju-eun rompe en lágrimas: "Hacía tanto que no os veía"» (incluye resumen del acto de inicio de temporada), 25-03-2026, https://udn.com/news/story/7002/9402487
+[^6]: _United Daily News_ / UDN, «CPBL / Cinco refuerzos coreanas de los Guardians comparten escenario; Lee Ju-eun rompe en lágrimas: "Hacía tanto que no os veía"» (incluye resumen del acto de inicio de temporada), 25-03-2026, https://udn.com/news/story/7002/9402487
 
 Otras fuentes verificables:
 

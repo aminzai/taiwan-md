@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
 translatedAt: '2026-05-02T01:17:17+08:00'
+difficulty: 'beginner'
 ---
 
 # Puntos críticos de biodiversidad en Taiwán

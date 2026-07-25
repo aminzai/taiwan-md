@@ -6,8 +6,8 @@ category: 'People'
 tags: ['Personajes', 'Empresarios', 'Tecnología', 'Acer', 'Curva de la Sonrisa']
 subcategory: '科技與企業'
 author: 'Taiwan.md'
-featured: false
-lastVerified: 2026-03-22
+featured: true
+lastVerified: 2026-07-06
 lastHumanReview: false
 translatedFrom: 'People/施振榮.md'
 sourceCommitSha: 'd6e87d07'

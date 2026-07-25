@@ -12,7 +12,7 @@ tags:
   - 'reina invicta'
   - 'alcaldesa madre'
   - 'elección 2028'
-readingTime: '14'
+readingTime: 14
 lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:d371b7109756e14d'
 sourceBodyHash: 'sha256:8d9608a92d5a6a0c'
 translatedAt: '2026-06-12T00:53:42+08:00'
+difficulty: 'intermediate'
 ---
 
 # Lu Hsiu-yen: De 10 000 botellas de aire de Gu Guan a la teoría del seguro de compras militares en Washington, la reina invicta

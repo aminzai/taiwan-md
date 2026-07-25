@@ -12,6 +12,8 @@ sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
 translatedAt: '2026-05-02T01:17:17+08:00'
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 # Li Chih-kai
