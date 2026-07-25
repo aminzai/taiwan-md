@@ -12,11 +12,11 @@ tags:
   - 'メディア'
 category: 'About'
 subcategory: 'Resources'
-date: '2026-03-01'
+date: 2026-03-18
 author: 'Taiwan.md'
-readingTime: '5'
+readingTime: 3
 lastVerified: '2026-03-01'
-lastHumanReview: '2026-03-01'
+lastHumanReview: false
 featured: false
 translatedFrom: 'About/台灣官方網站資源.md'
 sourceCommitSha: '84e04168'

@@ -1,13 +1,13 @@
 ---
 title: 'Recursos web oficiales de Taiwán'
 description: 'El índice más completo de sitios web oficiales y de referencia de Taiwán: instituciones gubernamentales, cultura y educación, turismo, ciencia y economía, medios y mucho más.'
-date: 2026-03-15
+date: 2026-03-18
 tags:
   ['Recursos', 'Sitios oficiales', 'Gobierno', 'Cultura', 'Educación', 'Medios']
 subcategory: '資源索引'
 author: 'Taiwan.md'
 category: 'About'
-readingTime: 8
+readingTime: 3
 lastVerified: 2026-03-15
 lastHumanReview: false
 translatedFrom: 'About/台灣官方網站資源.md'
@@ -15,6 +15,7 @@ sourceCommitSha: '84e04168'
 sourceContentHash: 'sha256:08b967bc1d90e0f6'
 sourceBodyHash: 'sha256:637002941419ff56'
 translatedAt: '2026-06-16T17:10:37Z'
+featured: false
 ---
 
 # Recursos web oficiales de Taiwán

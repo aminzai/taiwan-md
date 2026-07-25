@@ -1,17 +1,18 @@
 ---
 title: '대만 공식 웹사이트 자원'
 description: '대만의 정부 기관, 문화 교육, 관광, 과학기술, 미디어 등 각 분야 공식·권위 있는 웹사이트를 총망라한 색인'
-date: 2026-03-17
+date: 2026-03-18
 tags: ['공식사이트', '정부', '자원', '대만']
 category: 'About'
-author: 'Taiwan.md Translation Team'
-readingTime: 5
+author: 'Taiwan.md'
+readingTime: 3
 featured: false
 translatedFrom: 'About/台灣官方網站資源.md'
 sourceCommitSha: '84e04168'
 sourceContentHash: 'sha256:08b967bc1d90e0f6'
 sourceBodyHash: 'sha256:637002941419ff56'
 translatedAt: '2026-06-16T17:10:38Z'
+lastHumanReview: false
 ---
 
 # 대만 공식 웹사이트 자원
