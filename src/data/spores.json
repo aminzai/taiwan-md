@@ -1,9 +1,9 @@
 {
-  "_generated": "2026-07-25T06:43:34+08:00",
+  "_generated": "2026-07-25T23:55:59+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 148,
-    "articles": 72,
+    "spores": 150,
+    "articles": 73,
     "withMetrics": 138
   },
   "spores": [
@@ -8444,6 +8444,46 @@
           "shares": 0
         }
       ]
+    },
+    {
+      "id": 159,
+      "slug": "外送專法",
+      "articlePath": "knowledge/Society/外送專法.md",
+      "articleUrl": "/society/外送專法/",
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-07-25",
+      "url": "https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi",
+      "template": "B 冷知識型／問題入口",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
+    },
+    {
+      "id": 160,
+      "slug": "外送專法",
+      "articlePath": "knowledge/Society/外送專法.md",
+      "articleUrl": "/society/外送專法/",
+      "lang": "zh",
+      "platform": "x",
+      "date": "2026-07-25",
+      "url": "https://x.com/taiwandotmd/status/2081045126898684051",
+      "template": "B 冷知識型／問題入口",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
     }
   ],
   "byArticle": {
@@ -8475,6 +8515,7 @@
     "國家太空中心": [122, 123],
     "報導者": [144, 145],
     "壞特": [45, 46],
+    "外送專法": [159, 160],
     "大宇雙劍": [92, 94],
     "天下雜誌": [134, 135],
     "天燈": [113, 114],
