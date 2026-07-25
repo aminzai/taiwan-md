@@ -108,6 +108,8 @@ S8_HEAD_RE = re.compile(r"^##\s*§?\s*8[\.\s、]")
 # 型（楊德昌型）的 agent 原文含 `## §1 搜尋軌跡` 等 heading，會讓 §8 提早截斷。
 S8_END_RE = re.compile(r"^##\s*§?\s*((9|1[0-9])[\.\s、]|\s*(flag|參考文獻|參考資料|附錄|圖片來源|給哲宇|給觀察者))", re.IGNORECASE)
 EPHEMERAL_RE = re.compile(r"/private/tmp/claude|/tmp/claude-|scratchpad/")
+# §8 pointer 若以這些 top-level dir 開頭，視為 repo-root-relative（其餘才當 sibling 相對路徑）
+REPO_TOP_DIRS = {"reports", "knowledge", "docs", "public", "scripts", "src", "data"}
 S8_MDLINK_RE = re.compile(r"\(([^)\s]+\.md)\)")
 S8_TICKPATH_RE = re.compile(r"`([^`\s]+\.md)`")
 
@@ -205,7 +207,14 @@ def analyze_s8(txt: str, report_path: Path):
     for ptr in pointers:
         if ptr.startswith("http"):
             continue
-        cand = (repo_root / ptr) if ptr.startswith("reports/") else (report_path.parent / ptr)
+        # repo-root-relative 前綴不只 reports/：§8 常指 knowledge/ 文章、docs/ pipeline、public/ 媒體、
+        # scripts/ 工具。只認 reports/ 會把這些真實存在的檔判成 missing（假陽性），
+        # 而 missing 是 warn 級訊號 —— 假陽性會讓真斷鏈被噪音蓋掉（REFLEXES #65 儀器自身要對賬）。
+        cand = (
+            (repo_root / ptr)
+            if ptr.split("/", 1)[0] in REPO_TOP_DIRS
+            else (report_path.parent / ptr)
+        )
         try:
             cand = cand.resolve()
             if cand.is_file() and repo_root in cand.parents:
