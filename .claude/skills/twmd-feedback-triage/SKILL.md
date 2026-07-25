@@ -38,6 +38,10 @@ ACK 一行（寫 memory 頂部）：
 ```bash
 git pull origin main
 
+# 機器身份：開 issue 走 GitHub App，不用宿主機的哲宇帳號（HG10）
+export GH_TOKEN="$(bash scripts/tools/gh-app-token.sh)"
+bash scripts/tools/gh-app-token.sh --whoami    # 應為 {"issues": "write", "metadata": "read"}
+
 # 先 dry-run 看分類（HG2 無 email / HG5 spam / HG6 dedupe 自己核一遍）
 node scripts/feedback/triage.mjs
 
@@ -55,6 +59,8 @@ node scripts/feedback/triage.mjs --commit
 - HG8 🔴 不以維護者身份開口（留人類）
 - HG9 🔴 **git archive 主權層**：每筆 filed 寫 `docs/feedback/archive/`（無 email），
   issue 留言 sync 進 §溝通紀錄。**收官前 `git add docs/feedback/archive/`**（不進 git = 主權層失效）。
+- HG10 🔴 **機器身份**：`GH_TOKEN` 必須是 App installation token（`ghs_` 開頭）。
+  空值或缺失 = 停手，不要讓 `gh` 退回哲宇帳號把 issue 掛成維護者親開。
 
 ## 收官
 

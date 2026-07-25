@@ -36,6 +36,26 @@ per [MANIFESTO §自主權邊界](../semiont/MANIFESTO.md#我的存在結構)：
 
 一句話：**輸入端機械 routing 自動,輸出端對人開口留人類**。
 
+### 機器身份（2026-07-25 起 · HG10）
+
+上面那條線原本只活在自律裡：issue 是自動開的，但作者是哲宇的帳號，讀者看起來像維護者親手開的。2026-07-25 起這條 routine 用 **GitHub App `taiwanmd-semiont`** 的身份開 issue：
+
+```bash
+export GH_TOKEN="$(bash scripts/tools/gh-app-token.sh)"
+```
+
+| 面向     | 內容                                                                                    |
+| -------- | --------------------------------------------------------------------------------------- |
+| 作者     | `app/taiwanmd-semiont`（`is_bot=true`）——機械轉錄這件事對讀者可見，不再假裝是維護者發言 |
+| 權限     | 只有 `issues: write` + `metadata: read`，只覆蓋 `frank890417/taiwan-md` 一個庫          |
+| 壽命     | installation token 一小時自動過期                                                       |
+| 反面實測 | Contents / PR / Admin / workflow 寫入一律 403，其他庫 404（2026-07-25 親測）            |
+| 私鑰     | 宿主機 `~/.taiwanmd-app.pem`（600），不進 git、不進對話（REFLEXES #2）                  |
+
+**🔴 HG10**：`GH_TOKEN` 必須是 `ghs_` 開頭的 App token。空值或缺失一律停手——空的 `GH_TOKEN` 會讓 `gh` 安靜退回宿主機登入的帳號，issue 掛錯作者而且沒有任何警報（靜默吞錯家族在這條線上的長相）。`gh-app-token.sh` 換不到 token 就 `exit 1`，不回空字串。
+
+這一步同時把「這條 routine 讀最多不可信文字、卻握著能推 main 的憑證」這個不對稱補掉。完整評估與退場路徑：[reports/design-bot-identity-feedback-triage-2026-07-25.md](../../reports/design-bot-identity-feedback-triage-2026-07-25.md)。
+
 ---
 
 ## 🗺️ 5 stage spine
