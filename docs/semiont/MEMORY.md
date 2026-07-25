@@ -340,3 +340,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-26 | 000104-manual | 外送專法孢子 #159/#160 Threads+X 雙發，鉤子借文章開場雙單同酬；獨立 worktree 記錄避開平行 babel dirty tree | execCommand 貼多段文字塌陷是已知陷阱，讀過規則不等於動手時記得用 | [→](memory/2026-07-26-000104-manual.md) |
 | 2026-07-26 | 001546-manual | 外送專法順稿（牆 9→0、圖表 6→11）＋順稿升格總編室第六探針、新增 R5 長段密度與 Step 3.6.4 orchestrator 自修收件紀律 | 規則被指派給讀不了新鮮的讀者等於沒有規則；設計兩條閘門，校準完兩條都撤 | [→](memory/2026-07-26-001546-manual.md) |
 | 2026-07-26 | 002131-manual | 建 twmd-routine-sync + 退休三條註冊 + founder-lens-weekly 對齊 disabled | live-state 快照過期會製造假漂移，動手前先跟真實 list 交叉核對 | [→](memory/2026-07-26-002131-manual.md) |
+| 2026-07-26 | 011231-twmd-news-lens-weekly | W30 三源交叉：301 關稅+巴紐撤館兩條時事 REACTIVE＋7 條候選線 propose 0（出口關閉） | 英文 metadata 缺口連續三週確認為結構性訊號，非單次雜訊 | [→](memory/2026-07-26-011231-twmd-news-lens-weekly.md) |
