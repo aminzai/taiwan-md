@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T10:01:40+08:00",
-    "zhCommitHead": "649b83398",
+    "lastUpdated": "2026-07-25T10:01:54+08:00",
+    "zhCommitHead": "5aede7a06",
     "totalZh": 863,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 863,
-        "fresh": 153,
+        "fresh": 154,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 706,
+        "missing": 705,
         "orphan": 0
       },
       "pt": {
@@ -62494,7 +62494,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/barbie-hsu-actress.md",
+          "translatedFrom": "People/徐熙媛.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:85fa468fad16ec09",
+          "sourceBodyHash": "sha256:7ad4c339c52ad6fb",
+          "translatedAt": "2026-07-25T09:23:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/barbie-hsu-actress.md",
