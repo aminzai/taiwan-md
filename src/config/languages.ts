@@ -32,6 +32,8 @@ export interface LanguageEntry {
   enabled: boolean;
   /** Optional notes about status */
   notes?: string;
+  /** Text direction override. Omit for ltr (default). Set 'rtl' for right-to-left scripts (e.g. Arabic). */
+  dir?: 'rtl';
 }
 
 /**
@@ -113,6 +115,23 @@ export const LANGUAGES = [
     enabled: true,
     notes:
       '2026-07-18 selected (disabled scaffold). Largest unserved language (609M speakers, Ethnologue 2025 #3). 2026-07-19 enabled (birth battle). Report: reports/language-birth-2026-07-18.md',
+  },
+  {
+    code: 'ar',
+    displayName: 'العربية',
+    hreflang: 'ar',
+    enabled: true,
+    dir: 'rtl',
+    notes:
+      '2026-07-25 creator-directed birth (哲宇 directive, folded into 100% sync goal). Sovereignty rationale: 400M+ speakers whose Taiwan coverage flows mostly through PRC-funded Arabic outlets. Report: reports/language-birth-2026-07-25.md',
+  },
+  {
+    code: 'ru',
+    displayName: 'Русский',
+    hreflang: 'ru',
+    enabled: true,
+    notes:
+      '2026-07-25 creator-directed birth (哲宇 directive, folded into 100% sync goal). Sovereignty rationale: Russian-language information sphere about Taiwan is heavily penetrated by PRC-Russia aligned narratives. Report: reports/language-birth-2026-07-25.md',
   },
 ] as const satisfies readonly LanguageEntry[];
 

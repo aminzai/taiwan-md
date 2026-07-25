@@ -90,6 +90,25 @@ export const LANGUAGES = [
     notes:
       '2026-07-18 selected (disabled scaffold). Largest unserved language (609M speakers, Ethnologue 2025 #3). 2026-07-19 enabled (birth battle). Report: reports/language-birth-2026-07-18.md',
   },
+  {
+    code: 'ar',
+    displayName: 'العربية',
+    hreflang: 'ar',
+    enabled: true,
+    // dir: 'rtl' — mirrors LanguageEntry.dir in languages.ts. First RTL language;
+    // not yet wired into Layout.astro's <html lang> block (Stage 4 scope).
+    dir: 'rtl',
+    notes:
+      '2026-07-25 creator-directed birth (哲宇 directive, folded into 100% sync goal). Sovereignty rationale: 400M+ speakers whose Taiwan coverage flows mostly through PRC-funded Arabic outlets. Report: reports/language-birth-2026-07-25.md',
+  },
+  {
+    code: 'ru',
+    displayName: 'Русский',
+    hreflang: 'ru',
+    enabled: true,
+    notes:
+      '2026-07-25 creator-directed birth (哲宇 directive, folded into 100% sync goal). Sovereignty rationale: Russian-language information sphere about Taiwan is heavily penetrated by PRC-Russia aligned narratives. Report: reports/language-birth-2026-07-25.md',
+  },
 ];
 
 export const ENABLED_LANGUAGE_CODES = LANGUAGES.filter((l) => l.enabled).map(
