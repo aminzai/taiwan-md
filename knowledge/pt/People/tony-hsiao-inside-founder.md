@@ -1,136 +1,136 @@
 ---
-title: "Hsiao Shang-nung: Do PM de jogos ao INSIDE, o 'li-chang-pou' da internet taiwanesa"
-description: 'Em 2009, seis pessoas online iniciaram um blog colaborativo, e a análise de tendências digitais do INSIDE nasceu assim. Hsiao Shang-nung (fOx) co-fundou ao mesmo tempo o iCook, duas das plataformas digitais mais conhecidas da Taiwan — ambas foram vendidas para a mesma empresa. Ele continua atuando como observador, transmitindo à Taiwan: não se preocupe tanto com a tecnologia.'
+title: "Tony Hsiao: de PM de jogos a fundador do INSIDE, o 'chefe de bairro' do círculo de internet de Taiwan"
+description: "Em 2009, seis pessoas da internet lançaram um blog colaborativo, e assim nasceu o INSIDE, a observação de tendências de internet 'empurrada goela abaixo'. Tony Hsiao (fOx) também cofundou o iCook, e as duas plataformas de internet mais conhecidas de Taiwan se tornaram suas obras — e ambas foram vendidas para a mesma empresa. Ele agora continua no papel de observador dizendo a Taiwan: não se preocupe demais com a tecnologia."
 date: 2026-04-27
+author: 'Taiwan.md'
 category: 'People'
+subcategory: '科技與企業'
 tags:
   [
     'INSIDE',
     'iCook',
-    'mídia digital',
+    'mídia de internet',
     'empreendedorismo tecnológico',
-    'internet taiwanesa',
+    'internet de Taiwan',
     'fOx',
   ]
-subcategory: 'tecnologia e negócios'
-author: 'Taiwan.md'
-featured: false
 lastVerified: 2026-04-27
 lastHumanReview: true
+featured: false
 translatedFrom: 'People/蕭上農.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:0c7501412dac27dc'
 sourceBodyHash: 'sha256:9108cdc7ca125f4b'
-translatedAt: '2026-07-25T12:49:30+08:00'
+translatedAt: '2026-07-25T12:45:42+08:00'
 ---
 
-> **Resumo em 30 segundos:** Hsiao Shang-nung (apelido online fOx) é co-fundador da análise de tendências digitais do INSIDE e do iCook. Em 2009, iniciou uma das primeiras mídias tecnológicas comentárias da Taiwan, e em 2011, lançou a maior plataforma de receitas da região. Ambas as empresas foram adquiridas pelo mesmo comprador em 2018 e 2022: o Grupo TNL Media. Atualmente, atua como observador digital, sendo uma das vozes mais convidadas para discutir tendências no círculo tecnológico da Taiwan.
+> **Visão geral de 30 segundos:** Tony Hsiao (alcunha na internet: fOx) é cofundador do INSIDE, a observação de tendências de internet "empurrada goela abaixo", e do iCook (愛料理). Em 2009, ele e cinco amigos lançaram uma das primeiras mídias de tecnologia com viés analítico de Taiwan; em 2011, lançaram a maior plataforma de receitas de Taiwan. As duas empresas foram vendidas, respectivamente em 2018 e 2022, para o mesmo comprador: o Grupo de Mídia The News Lens (TNL Media Group). Hoje, ele atua como observador da internet em podcasts e programas de mídia, sendo uma das vozes mais convidadas para falar de tendências no círculo tecnológico de Taiwan.
 
 ## O blog colaborativo de 2009
 
-Em 26 de novembro de 2009, enquanto o Facebook estava explodindo na Taiwan com o jogo FarmVille, seis pessoas com experiências profissionais distintas decidiram escrever um blog juntos.[^inside-wiki]
+Em 26 de novembro de 2009, no ano em que o Happy Farm explodiu no Facebook em Taiwan, seis profissionais da internet decidiram escrever um blog juntos.[^inside-wiki]
 
-Eles o chamaram de "INSIDE: Análise de tendências digitais". Os seis fundadores foram: Hsiao Shang-nung, Li Zhi-wei (Richard), Tao Yin-zhi (Sting), Lin Yi-ru (Lawrence), Wang You-zhe, Li Quan-xing. Sem escritório, sem investidores, apenas uma ferramenta de escrita colaborativa e um consenso: **não queremos apenas traduzir notícias tecnológicas estrangeiras; os artigos precisam ter opiniões e pontos de vista próprios**.[^inside-article]
+Batizaram-no de "INSIDE, a observação de tendências de internet 'empurrada goela abaixo'". Os seis fundadores eram: Tony Hsiao, Richard Li (李致緯), Sting Tao (陶韻智), Lawrence Lin (林宜儒), Wang Yu-che (王佑哲) e Li Chuan-hsing (李全興). Não havia escritório, nem investidores, apenas uma ferramenta de escrita colaborativa e um consenso: **não queriam apenas traduzir notícias de tecnologia estrangeiras; os artigos precisavam ter opinião e ponto de vista próprios**.[^inside-article]
 
-Hsiao Shang-nung (fOx) estava entre eles.
+Tony Hsiao (fOx) era um deles.
 
-Em outubro de 2011, o INSIDE foi oficialmente constituído como empresa. Na Taiwan surgiu uma nova mídia tecnológica com perspectiva crítica.[^inside-wiki]
-
-> **📝 Nota do curador**
-> Antes de 2009, a maioria das notícias tecnológicas na Taiwan ainda era traduzida diretamente de mídia estrangeira. A chegada do INSIDE marcou uma das poucas tentativas da época de expor leitores taiwaneses a "análises tecnológicas com visão própria" — algo que, hoje, parece lógico, mas naquela época não era comum.
-
-## Origem no PM de jogos, instinto de observador
-
-O início da carreira de Hsiao Shang-nung, assim como muitos dos primeiros pioneiros digitais da Taiwan, começou no setor de jogos.
-
-Ele trabalhou como gerente de produtos de jogos na Sangok Technology, responsável por títulos como StarCraft: Brood War da Blizzard. Depois, migrou para Yam (um nome chinês), passando da indústria de jogos para um portal digital, assumindo canais de jogos, finanças, e até adivinhação. Posteriormente, liderou o serviço de dicionário na NHN Taiwan.[^inside-article]
-
-Esse percurso lhe deu um estilo de trabalho específico: operação transversal, sempre observando "onde as pessoas se reúnem online".
-
-Em seu artigo de retrospectiva após dez anos no INSIDE, ele disse: "Não é preciso se preocupar com quem é bom ou ruim, a vida é cheia de altos e baixos. Faça o seu melhor. A maioria das pessoas pode colaborar."[^inside-article] Essa frase soa como filosofia de vida, mas no contexto de sua carreira, parece ser uma reflexão de alguém que navegou a indústria sem se sentir incomodo em mudanças.
-
-## Simultaneamente, criou um site de receitas
-
-No mesmo período em que fundava o INSIDE, Hsiao Shang-nung e Lin Yi-ru (Lawrence) e Li Zhi-wei (Richard) notaram o sucesso do Cookpad no Japão.
-
-"O Cookpad deu um IPO em 2008, com receita anual de 20 bilhões de yens taiwaneses. Talvez possamos tentar algo semelhante."[^gvm][^cookpad-correction]
-
-Essa ideia se tornou o iCook.
-
-Em agosto de 2010, os três fundaram a empresa Bonalush. Em novembro de 2011, o iCook foi lançado oficialmente.[^gvm] As divisões eram claras: Lin Yi-ru e Li Zhi-wei cuidavam do desenvolvimento técnico, enquanto Hsiao Shang-nung assumia finanças, negócios e tributação.[$gvm]
-
-Ele descreveu a época assim: "Desde o início, nunca nos preocupamos com dinheiro."[^gvm]
-
-> **✦** "Desde o início, nunca nos preocupamos com dinheiro."——Hsiao Shang-nung (entrevista à Revista View)
-
-Essa atitude é incomum no ecossistema de startups da Taiwan. De 2011 a 2020, o iCook se tornou a maior plataforma de receitas do país — com a infraestrutura técnica construída na NHN e a gestão comercial de Hsiao Shang-nung, a empresa cresceu de forma sólida.
-
-## O mesmo comprador, duas vezes
-
-| 2009 → 2018                         | 2011 → 2022                        |
-| ----------------------------------- | ---------------------------------- |
-| INSIDE foi adquirido pelo TNL Media | iCook foi adquirido pelo TNL Media |
-
-Em janeiro de 2018, o INSIDE foi adquirido pelo Grupo TNL Media. Foi a primeira aquisição documentada de uma mídia digital independente na Taiwan.[$buzzorange]
-
-Em setembro de 2022, o Grupo TNL Media anunciou a aquisição do iCook.[$bnext]
-
-Duas empresas, o mesmo comprador, com quatro anos de intervalo. Hsiao Shang-nung e Li Zhi-wei participaram de ambas as negociações. Em sua carta ao anunciar a segunda venda, Hsiao disse: "Mais de quatro anos depois, estamos vendendo pela segunda vez uma empresa digital que fundamos com as mãos."[$inside-icook]
+Em outubro de 2011, o INSIDE foi formalmente constituído como empresa. Taiwan ganhava uma mídia de tecnologia com postura analítica.[^inside-wiki]
 
 > **📝 Nota do curador**
-> A saída de mídia digital e plataformas independentes na Taiwan, entre 2018 e 2022, acelerou a integração em "grupos maiores". As duas aquisições do INSIDE e iCook podem ser lidas como escolhas individuais ou como um reflexo da estrutura coletiva do empreendedorismo digital na Taiwan — a autonomia em escala é cada vez mais difícil de sustentar diante da concorrência em anúncios e assinaturas, exigindo ecossistemas mais abrangentes.
+> Antes de 2009, a maioria das notícias de tecnologia em Taiwan ainda era tradução direta de veículos estrangeiros. O surgimento do INSIDE foi uma das poucas tentativas da época de levar ao leitor taiwanês "análise de tecnologia com ponto de vista" — algo que hoje parece óbvio, mas não era na época.
 
-## O "li-chang-pou"
+## Origem como PM de jogos, instinto de observador
 
-O apelido "li-chang-pou" (里長伯) se espalhou por anos no círculo digital da Taiwan.
+A carreira de Tony Hsiao começou, como a de muitos pioneiros da internet em Taiwan, na indústria de jogos.
 
-Descreve o papel de fOx: uma rede de contatos tão ampla que "todo mundo o conhece, e ele conhece todo mundo". Quando alguém precisa de uma ponte ou indicação, ele pode ajudar. Esse papel é raro no ambiente digital — tem formação técnica, mas não é engenheiro, tem visão de mídia, mas não é jornalista convencional, entende negócios, mas também observa o cenário corporativo como um todo.
+Ele trabalhou primeiro na Songgang Technology como gerente de produto de jogos, responsável por títulos da Blizzard como _StarCraft: Brood War_. Depois migrou para o Yam (蕃薯藤), saindo dos jogos para um portal de internet, onde gerenciou simultaneamente canais de jogos, finanças/ações e horóscopo/astrologia. Em seguida, foi para a NHN Taiwan cuidar do serviço de dicionário.[^inside-article]
 
-O que o li-chang-pou faz é conectar pessoas. Hsiao Shang-nung faz o mesmo.
+Essa trajetória deu a ele um modo de trabalho específico: atuação transversal, mas sempre observando "onde as pessoas se reúnem na internet".
 
-Essa rede explica por que ele conseguiu operar simultaneamente o INSIDE e o iCook, e depois continuou ativo como observador após as vendas — a reputação "a Taiwan o conhece" não desapareceu com a transferência de propriedade.
+Anos depois, no artigo de retrospectiva dos dez anos do INSIDE, ele escreveu: "Não é preciso forçar amizade nem inimizade; a vida tem altos e baixos, faça bem a sua parte. A maioria das pessoas pode colaborar."[^inside-article] Lida isoladamente, soa como filosofia de vida; colocada no contexto de sua carreira, parece a síntese de quem navega há muito tempo no setor e faz cada transição sem constrangimento.
+
+## Ao mesmo tempo, ele criava um site de receitas
+
+No mesmo período em que fundava o INSIDE, Tony Hsiao, Lawrence Lin e Richard Li notaram o Cookpad japonês.
+
+"O Cookpad fez IPO em 2008, com receita anual de 2 bilhões de dólares taiwaneses; talvez a gente também consiga tentar."[^gvm][^cookpad-correction]
+
+Essa frase virou o ponto de partida do iCook (愛料理).
+
+Em agosto de 2010, os três fundaram a empresa Baoli Shi (寶利拾). Em novembro de 2011, o iCook entrou no ar.[^gvm] A divisão era clara: Lawrence Lin e Richard Li cuidavam do desenvolvimento; Tony Hsiao assumia finanças, negócios, impostos — todo o lado não técnico.[^gvm]
+
+Ele descreve a sensação daquela época: "Desde que empreendemos, nunca nos preocupamos com dinheiro."[^gvm]
+
+> **✦** "Desde que empreendemos, nunca nos preocupamos com dinheiro." — Tony Hsiao (em entrevista à _Revista Global Views_)
+
+No ecossistema de startups de Taiwan, essa fala soa incomum. De 2011 aos anos 2020, o iCook tornou-se a maior plataforma de receitas de Taiwan — duas pessoas no técnico, aproveitando a base tecnológica da era NHN, mais Tony Hsiao segurando a ponta comercial, construíram um negócio sólido.
+
+## O mesmo comprador, duas compras
+
+| 2009 → 2018                          | 2011 → 2022                               |
+| ------------------------------------ | ----------------------------------------- |
+| INSIDE: de blog a aquisição pelo TNL | iCook: do lançamento à aquisição pelo TNL |
+
+Em janeiro de 2018, o INSIDE foi adquirido pelo Grupo de Mídia The News Lens (TNL Media Group). Foi o primeiro caso registrado de aquisição formal de uma mídia de internet em Taiwan.[^buzzorange]
+
+Em setembro de 2022, o TNL Media Group anunciou a aquisição do iCook.[^bnext]
+
+Duas empresas, mesmo comprador, intervalo de quatro anos. Tony Hsiao e Richard Li participaram das duas transações. Na segunda venda, Tony Hsiao escreveu: "Quatro anos depois, esta é a segunda vez que vendemos uma empresa de internet fundada por nós para outra empresa."[^inside-icook]
+
+> **📝 Nota do curador**
+> A saída para mídias e plataformas independentes de internet em Taiwan acelerou sua convergência para "serem integradas a grupos maiores" entre 2018 e 2022. As duas vendas do INSIDE e do iCook podem ser lidas como escolhas pessoais, mas também como a estrutura coletiva de uma geração de empreendedores de internet em Taiwan — a escala da operação independente torna-se cada vez mais difícil de sustentar sob a competição por publicidade e assinaturas; só um ecossistema maior permite seguir adiante.
+
+## O "chefe de bairro"
+
+O apelido "chefe de bairro" (里長伯) circula no círculo de internet de Taiwan há muitos anos.
+
+Ele descreve o papel de fOx no setor: rede de contatos tão ampla que "todo mundo o conhece, e ele conhece todo mundo". Quando você precisa conhecer alguém, ou precisa de alguém para fazer a ponte, ele provavelmente pode ajudar. Esse papel é raro no meio — tem formação técnica mas não é engenheiro, tem visão de mídia mas não é jornalista puro, tem tino comercial mas também observa o panorama do setor.
+
+O que o "chefe de bairro" faz é conectar pessoas. O que Tony Hsiao faz também é isso.
+
+Essa rede explica em parte por que ele conseguiu tocar INSIDE e iCook simultaneamente, e por que permanece ativo como observador após as vendas — em outras palavras, "o círculo de internet de Taiwan o conhece" não desapareceu porque suas empresas foram adquiridas.
 
 ## Diante da IA: o homem que diz "não se preocupe"
 
-Em maio de 2023, seis meses após o lançamento do ChatGPT, o iCook introduziu uma funcionalidade de auxílio de receitas com IA.[$wazaiii] Nesse mesmo período, Hsiao Shang-nung criou um aplicativo de varredura de cartões de visita usando IA, vendido na App Store com receita mensal estável acima de 10 mil dólares.[$tnl]
+Em maio de 2023, seis meses após o lançamento do ChatGPT, o iCook lançou uma função de assistência a receitas por IA.[^wazaiii] No mesmo período, Tony Hsiao usou ferramentas de IA para criar um app de escanear cartões de visita, colocou na loja e fatura稳定 mais de dez mil dólares taiwaneses por mês.[^tnl]
 
-Ele afirmou: "Sou otimista sobre tecnologia. Claro que ela torna nossa vida mais prática e conveniente."[$wazaiii]
+Ele diz: "Sou um otimista tecnológico, claro que acho que a tecnologia torna nossas vidas mais ricas e convenientes."[^wazaiii]
 
-Também disse: "O controle das chaves está fora de nosso alcance, então temer é inútil. Preferi não me preocupar."[$wazaiii]
+Também diz: "O botão de controle não está em nossas mãos, então preocupar-se não adianta; eu também tendo a não me preocupar."[^wazaiii]
 
-Essa é sua atitude constante diante de cada onda tecnológica: observar, experimentar, e então dizer a todos que não precisam se angustiar. Desde a era das criptomoedas até a da IA, ele mantém essa postura.
+Essa é sua postura constante diante de cada onda tecnológica: observar, experimentar, e depois dizer a todos para não ficarem ansiosos demais. Da era das criptomoedas à era da IA, a atitude é a mesma.
 
-Atualmente, aparece regularmente na segmento "Tendências de Leitura" do programa de rádio digital da Taiwan, apresenta o podcast "Saiqiu Side Chat", e continua fazendo análises periódicas para o círculo tecnológico da Taiwan.
+Atualmente, ele aparece regularmente no quadro "Leitura de Tendências" do programa _Hora de Lanxuan_ da Rede Pop da BCC (中廣流行網), apresenta o podcast "Side Chat" (塞掐 Side Chat), e segue fazendo a tradução periódica de tendências para o círculo tecnológico de Taiwan.
 
 ---
 
-O blog colaborativo de 2009 hoje pertence a outros. A plataforma de receitas de 2011 também pertence a outros.
+O blog colaborativo de 2009 agora pertence a outros. A plataforma de receitas de 2011, também.
 
-Hsiao Shang-nung continua. A observação continua. Ele transforma "continuar observando" em sua próxima ação.
+Tony Hsiao continua aqui. A observação continua. Ele transformou o "continuar observando" em si na próxima coisa a fazer.
 
-**Leituras adicionais**:
+**Leitura complementar**:
 
-- [INSIDE: Análise de tendências digitais](https://www.inside.com.tw/) — Fundado por Hsiao Shang-nung, atualmente parte do Grupo TNL Media, continua reportando sobre a indústria tecnológica da Taiwan e globalmente
-- [iCook](https://icook.tw/) — Plataforma de receitas mais popular da Taiwan, fundada por Hsiao Shang-nung, atualmente parte do Grupo TNL Media
-- [Hsieh Tung-feng](/people/唐鳳) — Primeira ministra da Taiwan de Desenvolvimento Digital, define sua carreira por "transitar entre múltiplos setores"
-- [O ecossistema de startups da Taiwan](/technology/台灣新創生態系) — Contexto geral do empreendedorismo digital na Taiwan, com INSIDE e iCook como casos representativos
+- [INSIDE, a observação de tendências de internet "empurrada goela abaixo"](https://www.inside.com.tw/) — mídia de tecnologia cofundada por Tony Hsiao, hoje pertencente ao Grupo de Mídia The News Lens, segue cobrindo a indústria tecnológica de Taiwan e do mundo
+- [iCook 愛料理](https://icook.tw/) — maior plataforma de receitas de Taiwan, cofundada por Tony Hsiao, hoje pertencente ao Grupo de Mídia The News Lens
+- [Audrey Tang (唐鳳)](唐鳳) — primeira ministra do Desenvolvimento Digital de Taiwan, que também define sua carreira por "transpor múltiplos domínios"
+- [Ecossistema de startups de Taiwan (台灣新創生態系)](台灣新創生態系) — panorama geral do empreendedorismo de internet em Taiwan; INSIDE e iCook são casos representativos
 
 ## Referências
 
-[^inside-wiki]: [INSIDE: Análise de tendências digitais — Wikipedia](https://zh.wikipedia.org/zh-tw/INSIDE_%E7%A1%AC%E5%A1%9E%E7%9A%84%E7%B6%B2%E8%B7%AF%E8%B6%A8%E5%8B%A2%E8%A7%86%E5%AF%9F) — Entrada da Wikipedia em chinês, registrando a data de fundação (26 de novembro de 2009), a lista de seis fundadores, a constituição como empresa (outubro de 2011) e a aquisição pelo TNL Media (janeiro de 2018).
+[^inside-wiki]: [INSIDE, a observação de tendências de internet "empurrada goela abaixo" — Wikipédia](https://zh.wikipedia.org/zh-tw/INSIDE_%E7%A1%AC%E5%A1%9E%E7%9A%84%E7%B6%B2%E8%B7%AF%E8%B6%A8%E5%8B%A2%E8%A7%80%E5%AF%9F) — Entrada da Wikipédia em chinês, registra data de fundação do INSIDE (26 nov 2009), lista dos seis fundadores, constituição formal (out 2011) e aquisição pelo The News Lens (jan 2018).
 
-[^inside-article]: [【A década rígida】fOx Hsiao Shang-nung: duas lições da 'ponte' do empreendedorismo digital — INSIDE](https://www.inside.com.tw/article/18177-fox-hsiao) — Entrevista retrospectiva publicada pelo INSIDE, documentando a trajetória de Hsiao (Sangok → Yam → NHN → co-fundador do INSIDE) e a origem do apelido "li-chang-pou".
+[^inside-article]: [【Dez anos de "empurrada goela abaixo"】 fOx Tony Hsiao: as duas lições que o "chefe de bairro" do empreendedorismo de internet aprendeu em dez anos — INSIDE](https://www.inside.com.tw/article/18177-fox-hsiao) — Entrevista retrospectiva de dez anos publicada pelo próprio INSIDE, registra trajetória de Tony Hsiao (Songgang → Yam → NHN → cofundador INSIDE) e a origem do apelido "chefe de bairro".
 
-[^gvm]: [Arrecadação de NT$300 milhões, cria site valorizado em US$3 milhões — Revista View](https://www.gvm.com.tw/article/18219) — História inicial do iCook, com divisão de tarefas entre fundadores, inspiração no Cookpad e data de lançamento (agosto de 2010, empresa formada; novembro de 2011, site lançado).
+[^gvm]: [Captação de 300 mil, construção de site avaliado em 3 milhões de dólares — Revista Global Views](https://www.gvm.com.tw/article/18219) — História inicial do iCook, registra modelo de divisão entre os três fundadores, inspiração no Cookpad e datas (ago 2010 constituição da empresa, nov 2011 lançamento).
 
-[^buzzorange]: [Primeira aquisição documentada de mídia digital na Taiwan: TNL Media anuncia compra do INSIDE — TechOrange](https://buzzorange.com/techorange/2018/01/03/inside-married-news-lens/) — Reportagem sobre a aquisição do INSIDE pelo TNL Media, destacando como a primeira aquisição formal de mídia digital na Taiwan.
+[^buzzorange]: [Primeiro caso de aquisição de mídia de internet em Taiwan 2018: The News Lens anuncia aquisição do INSIDE — TechOrange](https://buzzorange.com/techorange/2018/01/03/inside-married-news-lens/) — Notícia sobre a aquisição do INSIDE pelo The News Lens, registra como "primeiro caso formal de aquisição de mídia de internet em Taiwan".
 
-[^bnext]: [TNL Media anuncia aquisição do maior site de receitas da Taiwan, o iCook — BusinessNext](https://www.bnext.com.tw/article/71676/tnl-media-group-bought-icook) — Comunicado oficial de setembro de 2022 sobre a aquisição do iCook pelo TNL Media, explicando a estratégia de integração.
+[^bnext]: [Grupo de Mídia The News Lens anuncia aquisição da maior plataforma de receitas iCook — BusinessNext](https://www.bnext.com.tw/article/71676/tnl-media-group-bought-icook) — Reportagem oficial de set 2022 sobre a aquisição do iCook pelo TNL Media Group, explica intenção estratégica e direção de integração.
 
-[^wazaiii]: [A jornada 'AI' de Hsiao Shang-nung, o empreendedor digital — Wazaiii](https://www.wazaiii.com/articles?id=interview-ai-fox-hsiao-inside-icook) — Entrevista com Hsiao sobre otimismo tecnológico, lançamento de IA no iCook (maio de 2023) e sua abordagem prática à revolução da IA.
+[^wazaiii]: [Abri o "diário de bordo de IA" do empreendedor de internet Tony Hsiao fOx — Wazaiii](https://www.wazaiii.com/articles?id=interview-ai-fox-hsiao-inside-icook) — Entrevista de Tony Hsiao ao Wazaiii, aborda postura de otimismo tecnológico, lançamento de receitas por IA no iCook (mai 2023) e atitude prática diante da onda de IA.
 
-[^tnl]: [Hsiao Shang-nung, o 'criador de medo': navegando entre o ciclo das criptomoedas e a onda da IA, como manter a curiosidade diante do novo — TNL Media](https://www.thenewslens.com/article/254336) — Documenta a experiência de Hsiao em criar um app de varredura de cartões usando IA e vendê-lo, além de sua estratégia pessoal para lidar com inovações rápidas.
+[^tnl]: ["Máquina de fabricar ansiedade" fOx Tony Hsiao: navegando entre cripto e IA, como manter curiosidade pelo novo? — The News Lens](https://www.thenewslens.com/article/254336) — Registra o experimento de Tony Hsiao desenvolvendo e lançando app de escanear cartões com ferramentas de IA, e sua estratégia pessoal diante da iteração tecnológica acelerada.
 
-[^inside-icook]: [Hsiao Shang-nung e Li Zhi-wei revelam: por que o iCook optou pelo TNL Media? — INSIDE](https://www.inside.com.tw/article/29087-tnl-icook) — Texto pessoal dos fundadores ao anunciar a venda do iCook, explicando a lógica da decisão e sua visão das duas aquisições.
+[^inside-icook]: [Tony Hsiao e Richard Li contam em primeira pessoa: por que o iCook, desta vez, escolheu novamente o The News Lens? — INSIDE](https://www.inside.com.tw/article/29087-tnl-icook) — Na aquisição do iCook, os dois cofundadores escrevem pessoalmente explicando a lógica da decisão pelo The News Lens e sua autointpretação das duas vendas.
 
-[^cookpad-correction]: [Cookpad IPO oficial na TSE Mothers — TechCrunch 2009-06-12](https://techcrunch.com/2009/06/12/a-recipe-site-goes-ipo-in-japan-cookpad/) — Correção factual: o Cookpad deu o IPO em 17 de julho de 2009 (TSE Mothers), não em 2008 como mencionado por Hsiao. A citação direta é mantida como parte da entrevista original, sem alterar o argumento central sobre a inspiração no IPO.
+[^cookpad-correction]: [Registro oficial do IPO do Cookpad na TSE Mothers — TechCrunch 12 jun 2009](https://techcrunch.com/2009/06/12/a-recipe-site-goes-ipo-in-japan-cookpad/) — Correção factual: o IPO real do Cookpad foi em 17 jul 2009 (TSE Mothers), não em 2008 como na fala de Tony Hsiao. A citação textual é mantida como fala original do entrevistado; o erro de ano não afeta o argumento de que "o IPO inspirou a fundação".
