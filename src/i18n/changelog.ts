@@ -199,6 +199,31 @@ export const changelogUI = {
     'changelog.time.hours-ago': 'منذ ساعات',
     'changelog.time.days-ago': 'منذ أيام',
   },
+  ru: {
+    // Meta
+    'changelog.meta.title': 'История обновлений сайта',
+    'changelog.meta.description':
+      'Хроника актуальных обновлений Taiwan.md, отслеживающая каждое добавление контента и улучшение сайта.',
+
+    // Header
+    'changelog.header.title': 'История обновлений сайта',
+    'changelog.header.subtitle':
+      'Отслеживайте каждое добавление контента и улучшение сайта в Taiwan.md',
+    'changelog.header.meta.updates': 'записей об обновлениях',
+    'changelog.header.meta.synced': 'Автоматическая синхронизация с',
+
+    // Timeline
+    'changelog.day.updates': 'обновлений',
+
+    // Locale for date formatting
+    'changelog.locale': 'zh-TW',
+
+    // Relative time
+    'changelog.time.just-now': 'Только что',
+    'changelog.time.minutes-ago': 'минут назад',
+    'changelog.time.hours-ago': 'часов назад',
+    'changelog.time.days-ago': 'дней назад',
+  },
   'zh-TW': {
     // Meta
     'changelog.meta.title': '網站更新紀錄',

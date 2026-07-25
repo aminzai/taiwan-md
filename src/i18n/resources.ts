@@ -4129,6 +4129,538 @@ export const resourcesUI = {
     'resources.site.npgov': 'بوابة الحدائق الوطنية',
     'resources.site.taiwanmd': 'Taiwan.md',
   },
+  ru: {
+    // Meta
+    'resources.meta.title': 'Навигатор по ресурсам Тайваня — Taiwan.md',
+    'resources.meta.description':
+      'Полный каталог правительственных органов, культурных учреждений и платформ открытых данных Тайваня — единый портал для доступа к официальной политике, культуре и статистике',
+
+    // Hero
+    'resources.hero.title': 'Навигатор по ресурсам Тайваня',
+    'resources.hero.subtitle.html':
+      'Полный каталог правительственных органов, культурных учреждений и открытых данных<br />Единый доступ к самым авторитетным источникам информации Тайваня',
+
+    // Breadcrumb
+    'resources.breadcrumb.home': 'Главная',
+    'resources.breadcrumb.current': 'Ресурсы',
+
+    // Core section
+    'resources.core.title': '🏆 Основные подборки',
+    'resources.core.desc':
+      'Наиболее важные авторитетные ресурсы Тайваня, представленные в интеллект-карте',
+
+    // More section
+    'resources.more.title': '🔍 Дополнительные категории',
+    'resources.more.desc':
+      'Включает местные органы власти, университеты и детальные ресурсы по различным сферам',
+
+    // Category labels (heroData)
+    'resources.category.government.label': '🏛️ Государственные органы',
+    'resources.category.culture.label': '📚 Культура и образование',
+    'resources.category.tourism.label': '✈️ Туризм и путешествия',
+    'resources.category.economy.label': '💼 Технологии и экономика',
+    'resources.category.media.label': '📰 СМИ и новости',
+    'resources.category.opendata.label': '🌐 Открытые данные',
+    'resources.category.taiwanmd.label': '📡 Связанные с Taiwan.md',
+
+    // Section titles & descriptions
+    'resources.section.localGov.title': '🏙️ Местные органы власти',
+    'resources.section.localGov.desc':
+      'Официальные сайты правительств шести специальных муниципалитетов и уездов Тайваня',
+
+    'resources.section.universities.title':
+      '🎓 Университеты и исследовательские институты',
+    'resources.section.universities.desc':
+      'Лучшие университеты Тайваня и важные исследовательские учреждения',
+
+    'resources.section.nationalParks.title': '🏔️ Национальные парки',
+    'resources.section.nationalParks.desc':
+      'Управления национальных парков и туристических зон Тайваня',
+
+    'resources.section.artsCulture.title':
+      '🎭 Культурные и художественные площадки',
+    'resources.section.artsCulture.desc':
+      'Важные музеи, художественные галереи и места для театральных представлений',
+
+    'resources.section.healthcare.title': '🏥 Здравоохранение',
+    'resources.section.healthcare.desc':
+      'Органы здравоохранения и важные медицинские учреждения',
+
+    'resources.section.ngoSociety.title': '🤝 НКО / Гражданское общество',
+    'resources.section.ngoSociety.desc':
+      'Некоммерческие организации и важные группы гражданского общества',
+
+    'resources.section.ministries.title': '🏛️ Министерства и ведомства',
+    'resources.section.ministries.desc':
+      'Министерства Исполнительного Юаня и соответствующие органы',
+
+    'resources.section.companies.title': '🏢 Важные предприятия',
+    'resources.section.companies.desc':
+      'Ведущие предприятия и технологические компании Тайваня',
+
+    'resources.section.mediaExtra.title': '📺 Традиционные СМИ',
+    'resources.section.mediaExtra.desc':
+      'Основные новостные СМИ, радио и телевидение',
+
+    'resources.section.transportation.title': '🚄 Транспорт',
+    'resources.section.transportation.desc':
+      'Общественный транспорт и транспортные услуги',
+
+    'resources.section.digitalCulture.title': '💾 Цифровая культура',
+    'resources.section.digitalCulture.desc':
+      'Цифровые архивы и научно-популярные образовательные платформы',
+
+    // Projects
+    'resources.projects.title': '🚀 Сообщественные проекты',
+    'resources.projects.desc':
+      'Креативность и энтузиазм сообщества, изучение Тайваня с помощью кода',
+
+    'resources.projects.food.title': '🍔 Карта вкусной еды',
+    'resources.projects.food.burger.name': 'Карта бургерных Тайбэя',
+    'resources.projects.food.burger.desc':
+      'Интерактивная карта рейтинга бургерных Тайбэя с分级 по качеству (T0-T6), фильтрация по административным районам',
+    'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
+
+    'resources.projects.nightmarket.title': '🌙 Навигация по ночным рынкам',
+    'resources.projects.nightmarket.app.name': 'NightMarketSwift',
+    'resources.projects.nightmarket.app.desc':
+      'iOS-приложение для ночных рынков Тайваня, содержит более 400 точек рынков с часами работы и навигацией через Google Maps',
+    'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
+
+    'resources.projects.civictech.title': '🗳️ Гражданские технологии',
+    'resources.projects.civictech.g0v.name': 'g0v Нулевое правительство',
+    'resources.projects.civictech.g0v.desc':
+      'Крупнейшее сообщество гражданских технологий на Тайване, продвигающее открытое правительство и прозрачность информации',
+    'resources.projects.civictech.g0v.tech': 'Разнообразные технологии',
+
+    'resources.projects.civictech.cofacts.name': 'Cofacts Правда или ложь',
+    'resources.projects.civictech.cofacts.desc':
+      'Чат-бот для проверки фактов на основе коллективной работы, противостоящий фейковым новостям',
+    'resources.projects.civictech.cofacts.tech': 'JavaScript / GraphQL',
+
+    'resources.projects.civictech.disfactory.name':
+      'Disfactory Незаконные фабрики на сельхозземлях',
+    'resources.projects.civictech.disfactory.desc':
+      'Платформа для гражданских сообщений о незаконных фабриках на сельхозземлях, защита сельхозземель Тайваня',
+    'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
+
+    // CTA & Links
+    'resources.projects.cta.html':
+      'Есть рекомендуемые проекты? Добро пожаловать через <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a> отправить рекомендацию!',
+    'resources.projects.github.link': 'GitHub',
+    'resources.backToHome': '← Вернуться на главную',
+
+    // Mindmap
+    'resources.mindmap.root.label': '🇹🇼 Ресурсы Тайваня',
+
+    // Chapter nav labels
+    'resources.nav.governance': 'Управление',
+    'resources.nav.culture': 'Культура',
+    'resources.nav.media': 'Медиа',
+    'resources.nav.economy': 'Экономика',
+    'resources.nav.community': 'Сообщество',
+
+    // Chapter titles & stories
+    'resources.chapter.government.title': 'Вход в государственное управление',
+    'resources.chapter.government.story':
+      'В феврале 2020 года тайваньские инженеры за одни выходные объединили данные о наличии масок в реальном времени на 6 000 аптек. Один человек, один ноутбук, 72 часа. Это стало возможным благодаря тому, что на data.gov.tw более 50 000 наборов правительственных данных ждут, когда любой захочет ими воспользоваться. Тайвань внедрил «прозрачность управления» в каждый доступный для загрузки API.',
+    'resources.chapter.culture.title': 'Залы культуры и знаний',
+    'resources.chapter.culture.story':
+      'На площади менее 36 000 квадратных километров Тайвань имеет 159 университетов, более 500 музеев, 9 национальных парков, от горы Юйшань высотой 3 952 метра до кораллового побережья. Национальный дворец искусств хранит почти 700 000 сокровиц китайской культуры, а храмовые праздники на улицах — это тоже живое культурное наследие. Плотность культуры этого острова значительно превышает его размер на карте.',
+    'resources.chapter.media.title': 'Слышим голос Тайваня',
+    'resources.chapter.media.story':
+      'В 1995 году студенты Тайваньского университета установили сервер BBS в общежитии и назвали его PTT. Спустя 30 лет этот текстовый форум остается самой влиятельной платформой для общественных дискуссий на Тайване. Во время движения «Солнечных цветов» в 2014 году PTT был самым быстрым и полным источником информации в реальном времени. Медийная экосистема Тайваня, от крупных газет до форумов простых пользователей, на каждом уровне борется за право голоса в демократии.',
+    'resources.chapter.economy.title': 'Экономический и жизненный двигатель',
+    'resources.chapter.economy.story':
+      'Каждый второй смартфон в мире использует чипы, произведенные TSMC, геополитические исследователи называют это «кремниевым щитом». Но чипы — это лишь верхушка айсберга: 99,9% охват всеобщего медицинского страхования, один магазин convenience store на каждые 2,3 квадратных километра, 90 минут на высокоскоростной железной дороге от Тайбэя до Гаосюна. Систему, обеспечивающую повседневную жизнь 23 миллионов человек, вы почти не замечаете, но она повсюду и работает безупречно.',
+    'resources.chapter.community.title': 'Гражданские технологии и сообщества',
+    'resources.chapter.community.story':
+      'Девиз g0v Zero Hour Government гласит: «Не спрашивайте, почему никто не делает этого, потому что вы и есть тот самый „никто“». Карты масок, боты для проверки фейковых новостей, трекеры избирательных обещаний — все это создано на выходных хакатонах. На Тайване гражданское участие выглядит так: пишешь код, создаешь Issue, отправляешь Pull Request. Taiwan.md также является продуктом этого духа.',
+
+    // Insight cards
+    'resources.insight.gov.branches.number': '5',
+    'resources.insight.gov.branches.label': 'Институциональные органы',
+    'resources.insight.gov.ministries.number': '20+',
+    'resources.insight.gov.ministries.label': 'Министерства и ведомства',
+    'resources.insight.gov.local.number': '22',
+    'resources.insight.gov.local.label': 'Уездные и городские правительства',
+
+    'resources.insight.culture.universities.number': '159',
+    'resources.insight.culture.universities.label': 'вузов',
+    'resources.insight.culture.museums.number': '500+',
+    'resources.insight.culture.museums.label': 'музеев',
+    'resources.insight.culture.parks.number': '9',
+    'resources.insight.culture.parks.label': 'национальных парков',
+
+    'resources.insight.media.ptt.number': '200 тыс.',
+    'resources.insight.media.ptt.label': 'активных пользователей PTT ежедневно',
+    'resources.insight.media.outlets.number': '100+',
+    'resources.insight.media.outlets.label': 'СМИ',
+    'resources.insight.media.ngo.number': '1000+',
+    'resources.insight.media.ngo.label': 'НПО',
+
+    'resources.insight.econ.tsmc.number': '92%',
+    'resources.insight.econ.tsmc.label': 'передовые процессы TSMC',
+    'resources.insight.econ.hsr.number': '99,5%',
+    'resources.insight.econ.hsr.label': 'пунктуальность высокоскоростной ж/д',
+    'resources.insight.econ.nhi.number': '99,9%',
+    'resources.insight.econ.nhi.label': 'охват системой медстрахования',
+
+    'resources.insight.community.g0v.number': '2012',
+    'resources.insight.community.g0v.label': 'год основания g0v',
+    'resources.insight.community.contributors.number': '10K+',
+    'resources.insight.community.contributors.label': 'участников',
+    'resources.insight.community.projects.number': '800+',
+    'resources.insight.community.projects.label': 'проектов',
+
+    // Subcategory titles
+    'resources.sub.fiveYuan': 'Ядро пяти ветвей власти',
+    'resources.sub.fiveYuan.desc':
+      'Эти пять институтов формируют уникальную систему разделения властей на Тайване, не имеющую аналогов в мире.',
+    'resources.sub.ministries': 'Министерства и агентства',
+    'resources.sub.ministries.desc':
+      'От Министерства цифрового развития до Комитета по делам коренных народов — у каждого ведомства есть свой раздел открытых данных.',
+    'resources.sub.localGov': 'Местное самоуправление',
+    'resources.sub.localGov.desc':
+      '22 уезда и города, 22 местных стиля управления. Гонка за «умные города» в шести мегаполисах переопределяет качество обслуживания граждан.',
+    'resources.sub.openData': 'Открытые данные',
+    'resources.sub.openData.desc':
+      'Здесь начинается тайваньское чудо гражданских технологий. Карта масок, запись на вакцинацию, мониторинг качества воздуха — всё это начинается с этих платформ.',
+    'resources.sub.universities':
+      'Ведущие университеты и исследовательские институты',
+    'resources.sub.universities.desc':
+      'Тайваньские университеты не только преподают. Лаборатория квантовых вычислений Национального тайваньского университета и Центр исследований полупроводников Национального университета Чэнгун являются важными узлами в глобальной академической сети.',
+    'resources.sub.museums': 'Музеи и библиотеки',
+    'resources.sub.museums.desc':
+      'От нефритового цветка капусты в Национальном дворцовом музее до коллекции скрипок в Музее Кихэй — тайваньские музеи служат порталом, позволяющим перемещаться сквозь время.',
+    'resources.sub.venues': 'Культурные площадки и креативные индустрии',
+    'resources.sub.venues.desc':
+      'Тайваньская культурная экосистема набирает обороты. C-LAB, Национальный центр больших и малых искусств, Вэйуинин в Гаосюне — плотность объектов мирового уровня вызывает зависть даже у Нью-Йорка.',
+    'resources.sub.parks': 'Национальные парки и зоны отдыха',
+    'resources.sub.parks.desc':
+      'От 0 до 3952 метров над уровнем моря, 9 национальных парков Тайваня охватывают все климатические зоны Земли. За один день вы можете пройти путь от тропических коралловых рифов до горной снежной линии.',
+    'resources.sub.mainstream': 'Основные средства массовой информации',
+    'resources.sub.mainstream.desc':
+      'От отмены ограничений на публикацию после снятия военного положения в 1988 году до сегодняшней конкуренции круглосуточных новостных каналов — свобода прессы на Тайване завоевана нелегко.',
+    'resources.sub.digital': 'Цифровые медиа нового поколения',
+    'resources.sub.digital.desc':
+      'Когда традиционные СМИ борются за выживание, цифровые медиа Тайваня переопределяют журналистику. Неприбыльная модель The Reporter доказывает, что глубокая аналитика может существовать без рекламы.',
+    'resources.sub.ngo': 'Гражданское общество и НПО',
+    'resources.sub.ngo.desc':
+      'Плотность НПО на Тайване является самой высокой в Азии. От охраны окружающей среды до прав человека эти организации не только контролируют правительство, но часто опережают политику.',
+    'resources.sub.companies': 'Лидеры промышленности',
+    'resources.sub.companies.desc':
+      'Имена компаний от TSMC до Foxconn фигурируют в отчётах о цепочках поставок по всему миру.',
+    'resources.sub.transport': 'Транспорт',
+    'resources.sub.transport.desc':
+      'Высокоскоростная железная дорога Тайваня сокращает путь от Тайбэя до Гаосюня до 90 минут. В сочетании с системами метро, автобусов в реальном времени и YouBike общественный транспорт Тайваня является скрытым чемпионом Азии.',
+    'resources.sub.healthcare': 'Здравоохранение',
+    'resources.sub.healthcare.desc':
+      'Программа всеобщего медицинского страхования: одна карта, 99,9% охват населения, среднее время ожидания 15 минут. Даже США изучают, как Тайваню это удалось.',
+    'resources.sub.finance': 'Финансы и данные',
+    'resources.sub.finance.desc':
+      'Тайваньская фондовая биржа — один из самых прозрачных рынков в Азии. От финансовой отчётности публичных компаний до данных о сделках в реальном времени — всё открыто и доступно для проверки.',
+    'resources.sub.civicTech': 'Проекты гражданского технологического сектора',
+    'resources.sub.foodMaps': 'Карты гастрономической культуры',
+
+    // Related articles
+    'resources.related.democracy':
+      'Дополнительные материалы: демократическая трансформация Тайваня',
+    'resources.related.label': 'Дополнительные материалы',
+    'resources.related.government.1': 'Демократическая трансформация Тайваня',
+    'resources.related.government.2': 'Выборы и партийная политика',
+    'resources.related.government.3': 'Открытые сообщества и g0v',
+    'resources.related.culture.1': 'Культура коренных народов',
+    'resources.related.culture.2': 'Система образования',
+    'resources.related.culture.3': 'Национальные парки',
+    'resources.related.media.1': 'Движение подсолнуха',
+    'resources.related.media.2': 'СМИ и свобода прессы',
+    'resources.related.media.3': 'PTT (Pizazi)',
+    'resources.related.economy.1': 'TSMC',
+    'resources.related.economy.2': 'Полупроводниковая промышленность',
+    'resources.related.economy.3': 'Всеобщее медицинское страхование',
+    'resources.related.community.1': 'Открытые сообщества и g0v',
+    'resources.related.community.2':
+      'Социальные движения и гражданское участие',
+    'resources.related.community.3': 'Цифровое правительство',
+
+    // Footer stats
+    'resources.stats.collected': 'ресурсов собрано',
+    'resources.stats.chapters': 'основных разделов',
+    'resources.stats.subcategories': 'подкатегорий',
+
+    // Search
+    'resources.search.placeholder': 'Поиск ресурсов...',
+
+    // Aria labels
+    'resources.aria.viewGithub': 'Просмотреть проект на GitHub',
+    'resources.aria.backToTop': 'Вернуться наверх',
+
+    // Reading Guide
+    'resources.guide.title': 'С чего начать',
+    'resources.guide.desc':
+      'Представьте, что вы только что приземлились на Тайване без путеводителя. «Правление» показывает операционную систему: как молодая демократия работает на основе радикальной прозрачности. «Культура» — это душа: 500 музеев, 15 000 храмовых праздников ежегодно, 16 языков коренных народов, всё это сжато на острове, меньшем, чем Швейцария. «Медиа» раскрывают диалог: 30-летний текстовый форум до сих пор влияет на выборы, а здесь находится самая смелая в Азии некоммерческая новостная редакция. «Экономика» — это сердцебиение: одна компания производит 92% передовых чипов в мире, а стоимость всеобщего медицинского страхования дешевле вашего счета за мобильный телефон. «Сообщество» — это приглашение: присоединяйтесь к группе граждан-разработчиков, которые создают инструменты для гражданских нужд на хакатонах выходного дня.',
+
+    // Curator Notes
+    'resources.curator.government':
+      '🔍 Во время пандемии COVID-19 тайваньские разработчики за 72 часа создали карту масок и систему записи на вакцинацию. За такой скоростью стоит одна из трёх лучших в мире платформ открытых государственных данных: более 50 000 наборов данных, API в реальном времени, доступные каждому. Пока разработчики в других странах ждут пресс-конференции правительства, тайваньские разработчики уже пишут код.',
+    'resources.curator.culture':
+      '🔍 Мало кто знает, что плотность музеев на Тайване — одна из самых высоких в Азии. Но цифры — лишь поверхность. Настоящая особенность в «живой» культуре: более 15 000 храмовых праздников ежегодно, 16 языков коренных народов, конкурсы горных песен хакка. Культура Тайваня не только в стеклянных витринах, она ходит по улицам.',
+    'resources.curator.media':
+      '🔍 Насколько велико влияние PTT? Во время референдума 2018 года объём обсуждений на доске «Багу» напрямую повлиял на явку избирателей. А присутствие The Reporter (Баодаоже) вызывает ещё большее восхищение: расследовательское СМИ, полностью работающее на пожертвования, много лет подряд номинировалось на азиатские новостные премии. В эпоху распространения фейковых новостей Тайвань одновременно обладает самой активной культурой интернет-пользователей и самым серьёзным сообществом проверки фактов. Этот контраст сам по себе является проявлением демократической энергии.',
+    'resources.curator.economy':
+      '🔍 Пока другие страны спорят о том, сколько денег выделять на «Закон о чипах», Тайвань уже 30 лет записывает ответ на кремниевых пластинах: маленький остров без нефти и железной руды, опираясь на таланты и нанопроцессы, контролирует 92% мировой производственной мощности передовых чипов. Эта цифра добавила в отчёты Пентагона новое слово: «кремниевый щит».',
+    'resources.curator.community':
+      '🔍 Хакатоны g0v проходят раз в два месяца уже более 60 раз, на каждом собираются сотни инженеров, дизайнеров и работников НКО на добровольной основе. Без оплаты, без начальства, только ноутбук и проблема, которую нужно решить. Карта масок появилась именно так: одни выходные, несколько инженеров, данные в реальном времени от 6000 аптек. Кремниевая долина кричит «меняй мир», а тайваньское сообщество открытого исходного кода просто показывает это на практике.',
+
+    // Featured site descriptions
+    'resources.featured.dataGov':
+      'Платформа открытых государственных данных, занимающая первое место в мире: более 50 000 наборов данных, от качества воздуха до положения автобусов в реальном времени — всё бесплатно для скачивания.',
+    'resources.featured.g0vGov':
+      'Zero Hour Government: гражданское технологическое сообщество, переписывающее управление. От карты масок до vTaiwan стирается грань между хакерами и создателями политики.',
+    'resources.featured.legislativeYuan':
+      'Парламент Тайваня: прямая трансляция заседаний, отслеживание законопроектов, передний край демократических дебатов.',
+
+    'resources.featured.npm':
+      'Соберите более 700 тысяч артефактов, охватывающих 8000 лет истории, в одной из величайших коллекций китайского искусства в мире, теперь доступна в цифровом формате.',
+    'resources.featured.ncl':
+      'Национальная библиотека Тайваня и центр обязательного хранения изданий, хранилище национального издательского знания.',
+    'resources.featured.npgov':
+      'Врата в 9 национальных парков: от гор высотой три тысячи метров до коралловых рифов, охватывающих выдающееся биоразнообразие Тайваня на площади 36 000 квадратных километров.',
+
+    'resources.featured.twreporter':
+      'Пионер некоммерских расследовательских репортажей в китайскоязычном мире, глубоко исследующий вопросы окружающей среды, общества и политики.',
+    'resources.featured.ptt':
+      'Крупнейший интернет-форум Тайваня. С 1995 года ежедневно 200 тысяч активных пользователей обеспечивают уникальную «демократию пользователей».',
+    'resources.featured.ptsNews':
+      'Новости Тайваня на общественном телевидении, независимые и объективные репортажи, золотой стандарт новостного освещения в интересах общества.',
+
+    'resources.featured.tsmc':
+      'Самая ценная полупроводниковая компания в мире, производящая 92% передовых чипов, питающих искусственный интеллект, смартфоны и суперкомпьютеры.',
+    'resources.featured.twse':
+      'Ядро тайваньского капитального рынка, место листинга TSMC и Foxconn.',
+    'resources.featured.nhi':
+      'Всеобщее медицинское страхование, охватывающее 99,9% населения при затратах всего 6,6% ВВП, образец, изучаемый экспертами по глобальной политике в области здравоохранения.',
+
+    'resources.featured.g0v':
+      'Влиятельнейшее сообщество гражданских технологий в мире, породившее карту масок во время COVID, платформу консенсуса vTaiwan и должность министра цифровых технологий.',
+    'resources.featured.cofacts':
+      'Коллективная проверка фактов в LINE, где миллионы пользователей с помощью ИИ борются с фейковыми новостями.',
+    'resources.featured.taiwanmd':
+      'Проект, который вы сейчас читаете: энциклопедия Тайваня с открытым исходным кодом и совместной работой сообщества.',
+
+    // Section footer
+    'resources.section.footer.verified': 'Последняя проверка: 2026-03-24',
+    'resources.section.footer.reportLink': 'Сообщить о неработающей ссылке',
+
+    // Footer / Last updated
+    'resources.footer.lastUpdated': 'Последнее обновление: март 2026 г.',
+    'resources.footer.report': 'Сообщить о неработающей ссылке',
+    'resources.footer.reportUrl':
+      'https://github.com/frank890417/taiwan-md/issues',
+    'resources.footer.stats.total': '200+',
+
+    // Site names
+    'resources.site.president': 'Президентский дворец Китайской Республики',
+    'resources.site.executiveYuan': 'Исполнительный юань',
+    'resources.site.legislativeYuan': 'Законодательный юань',
+    'resources.site.judicialYuan': 'Судебный юань',
+    'resources.site.examinationYuan': 'Юань экзаменов',
+    'resources.site.controlYuan': 'Контрольный юань',
+
+    'resources.site.mofa': 'Министерство иностранных дел',
+    'resources.site.moda': 'Министерство цифрового развития',
+    'resources.site.cip': 'Комитет по делам коренных народов',
+    'resources.site.moc': 'Министерство культуры',
+    'resources.site.moe': 'Министерство образования',
+    'resources.site.moea': 'Министерство экономики',
+    'resources.site.motc': 'Министерство транспорта и коммуникаций',
+    'resources.site.moi': 'Министерство внутренних дел',
+    'resources.site.ndc': 'Комитет по развитию экономики',
+    'resources.site.mac': 'Комитет по афферациям с материком',
+    'resources.site.mol': 'Министерство труда',
+    'resources.site.moenv': 'Министерство окружающей среды',
+    'resources.site.moa': 'Министерство сельского хозяйства',
+    'resources.site.mnd': 'Министерство национальной обороны',
+    'resources.site.moj': 'Министерство юстиции',
+    'resources.site.mohw': 'Министерство здравоохранения и благополучия',
+    'resources.site.trade':
+      'Администрация международной торговли при Министерстве экономики',
+    'resources.site.sme':
+      'Администрация малых и средних предприятий и инноваций',
+    'resources.site.tipo':
+      'Бюро интеллектуальной собственности при Министерстве экономики',
+    'resources.site.fsc': 'Комитет по надзору за финансовой деятельностью',
+    'resources.site.immigration':
+      'Администрация иммиграции при Министерстве внутренних дел',
+    'resources.site.cwa': 'Центральное метеорологическое бюро',
+    'resources.site.nstc': 'Национальный комитет по науке и технологиям',
+
+    'resources.site.taipei': 'Правительство города Тайбэя',
+    'resources.site.newTaipei': 'Правительство города Синьбэй',
+    'resources.site.taichung': 'Правительство города Тайчжун',
+    'resources.site.kaohsiung': 'Правительство города Гаосюн',
+    'resources.site.tainan': 'Правительство города Тайнань',
+    'resources.site.taoyuan': 'Правительство города Таоюань',
+    'resources.site.keelung': 'Правительство города Цзилун',
+    'resources.site.hsinchu': 'Правительство города Синьчжу',
+    'resources.site.chiayi': 'Правительство города Цзяи',
+    'resources.site.yilan': 'Правительство уезда Илань',
+    'resources.site.hsinchuCounty': 'Правительство уезда Синьчжу',
+    'resources.site.miaoli': 'Правительство уезда Мяоли',
+    'resources.site.changhua': 'Правительство уезда Чанхуа',
+    'resources.site.nantou': 'Уездное правительство Наньтоу',
+    'resources.site.yunlin': 'Уездное правительство Юньлинь',
+    'resources.site.chiayiCounty': 'Уездное правительство Цзяи',
+    'resources.site.pingtung': 'Уездное правительство Пиндун',
+    'resources.site.taitung': 'Уездное правительство Тайтун',
+    'resources.site.hualien': 'Уездное правительство Хуалинь',
+    'resources.site.penghu': 'Уездное правительство Пэнху',
+    'resources.site.kinmenGov': 'Уездное правительство Цзиньмэнь',
+    'resources.site.lienchiang': 'Уездное правительство Ляньцзян',
+
+    'resources.site.dataGov': 'Платформа открытых данных правительства',
+    'resources.site.taiwanGov': 'Портал правительства',
+    'resources.site.lawDb': 'База данных общенациональных нормативных актов',
+    'resources.site.g0v': 'g0v правительство нулевого времени',
+
+    'resources.site.ntu': 'Национальный университет Тайваня',
+    'resources.site.nthu': 'Национальный университет Цинхуа',
+    'resources.site.nycu': 'Национальный университет Янмин Цзяо Тун',
+    'resources.site.ncku': 'Национальный университет Чэн Гун',
+    'resources.site.nccu': 'Национальный политический университет',
+    'resources.site.ntnu': 'Национальный университет Тайваня по педагогике',
+    'resources.site.sinica': 'Академия Синьцан',
+    'resources.site.tesd':
+      'Платформа данных эмпирического исследования тайваньского опыта',
+    'resources.site.tcs': 'База данных исследований тайваньских коммуникаций',
+    'resources.site.brill': 'Энциклопедия исследований Тайваня Brill',
+    'resources.site.itri': 'Промышленный исследовательский институт',
+    'resources.site.niar': 'Национальный исследовательский институт',
+    'resources.site.airitilibrary': 'Онлайн-библиотека Airiti',
+    'resources.site.ndltd':
+      'Система добавленной стоимости знаний о магистерских и докторских диссертациях Тайваня',
+
+    'resources.site.ncl': 'Национальная центральная библиотека',
+    'resources.site.npm': 'Национальный дворецовый музей',
+    'resources.site.ntm': 'Национальный музей Тайваня',
+    'resources.site.nmth': 'Национальный музей истории Тайваня',
+    'resources.site.nmns': 'Национальный музей естественной истории',
+    'resources.site.nmmba': 'Национальный музей морской биологии',
+    'resources.site.nmtl': 'Национальный литературный музей Тайваня',
+    'resources.site.ntmofa':
+      'Национальный музей изобразительных искусств Тайваня',
+
+    'resources.site.tfam': 'Музей изобразительных искусств города Тайбэй',
+    'resources.site.kmfa': 'Музей изобразительных искусств города Гаосюн',
+    'resources.site.npacNtt': 'Национальный оперный театр Тайчжуна',
+    'resources.site.npacNtch': 'Национальный центр исполнительских искусств',
+    'resources.site.weiwuying': 'Центр искусств Вэйвуйин',
+    'resources.site.songshan': 'Культурный парк Суншань',
+    'resources.site.huashan': 'Культурный парк Хуашань',
+    'resources.site.pier2': 'Арт-квартал Pier-2',
+    'resources.site.digitalArchives': 'Цифровые архивы Тайваня',
+    'resources.site.scitechVista': 'Научно-технический парк',
+    'resources.site.tcmb': 'Национальная база данных культурного наследия',
+    'resources.site.taicca': 'Институт культурных стратегий TAICCA',
+
+    'resources.site.yushan': 'Национальный парк Юйшань',
+    'resources.site.taroko': 'Национальный парк Тароко',
+    'resources.site.kenting': 'Национальный парк Кэнтин',
+    'resources.site.sheipa': 'Национальный парк Сюэба',
+    'resources.site.yangmingshan': 'Национальный парк Янминшань',
+    'resources.site.kinmenPark': 'Национальный парк Цзиньмэнь',
+    'resources.site.taijiang': 'Национальный парк Тайцзян',
+    'resources.site.dongsha': 'Национальный парк Восточные Шася',
+    'resources.site.southPenghu': 'Национальный парк Южные острова Пэнху',
+    'resources.site.taiwanTourism': 'Туризм Тайваня',
+    'resources.site.sunMoonLake': 'Пейзажный район озера Солнца и Луны',
+    'resources.site.alishan': 'Пейзажный район Алишань',
+
+    'resources.site.cna': 'Центральное агентство новостей',
+    'resources.site.pts': 'Общественное телевидение',
+    'resources.site.focusTaiwan': 'Focus Taiwan',
+    'resources.site.taiwanToday': 'Taiwan Today',
+    'resources.site.panorama': 'Журнал Taiwan Panorama',
+    'resources.site.rti': 'Центральное радио Тайваня',
+    'resources.site.udn': 'Сеть новостей United Daily',
+    'resources.site.ltn': 'Свободные новости',
+    'resources.site.tvbs': 'Сеть новостей TVBS',
+    'resources.site.setn': 'Сеть новостей SET',
+    'resources.site.ebc': 'Новости EBC',
+    'resources.site.commonwealth': 'Журнал CommonWealth',
+    'resources.site.businesstoday': 'Журнал Business Today',
+    'resources.site.businessweekly': 'Журнал Business Weekly',
+
+    'resources.site.twreporter': 'Twreporter',
+    'resources.site.taiwanNews': 'Taiwan News',
+    'resources.site.thenewslens': 'The News Lens',
+    'resources.site.upmedia': 'Upmedia',
+    'resources.site.storm': 'Storm Media',
+
+    'resources.site.tahr': 'Тайваньская ассоциация содействия правам человека',
+    'resources.site.teia':
+      'Тайваньская информационная ассоциация по охране окружающей среды',
+    'resources.site.sow': 'Ассоциация защиты дикой природы',
+    'resources.site.ocf': 'Фонд открытой культуры',
+    'resources.site.tfc': 'Центр проверки фактов Тайваня',
+    'resources.site.twnic': 'Тайваньская информационная сеть (TWNIC)',
+    'resources.site.wikimedia': 'Тайваньская ассоциация «Викимедиа»',
+    'resources.site.digitalDiplomacy':
+      'Тайваньская ассоциация цифровой дипломатии',
+
+    'resources.site.tsmc': 'Taiwan Semiconductor Manufacturing Company (TSMC)',
+    'resources.site.umc': 'United Microelectronics Corporation (UMC)',
+    'resources.site.foxconn': 'Foxconn',
+    'resources.site.delta': 'Delta Electronics',
+    'resources.site.taiwanExcellence': 'Taiwan Excellence',
+    'resources.site.cht': 'Chunghwa Telecom',
+    'resources.site.taipower': 'Тайваньская электростанция (Taipower)',
+    'resources.site.iii': 'Институт исследования информации',
+    'resources.site.investTaiwan': 'Invest Taiwan',
+
+    'resources.site.railway': 'Тайваньская железная дорога',
+    'resources.site.thsrc': 'Высокоскорочная железная дорога Тайваня',
+    'resources.site.taiwanTrip': 'Taiwan Good Trip',
+    'resources.site.taoyuanAirport': 'Международный аэропорт Таоюань',
+    'resources.site.metroTaipei': 'Метро Тайбэя',
+    'resources.site.krtc': 'Метро Гаосюна',
+
+    'resources.site.cdc': 'Центр по контролю за заболеваниями',
+    'resources.site.nhi': 'Управление национального медицинского страхования',
+    'resources.site.ntuh': 'Национальный университетский госпиталь',
+    'resources.site.vghtpe': 'Общегоспитальная система Вэньшань',
+    'resources.site.cgmh': 'Медицинская система Гунлун',
+    'resources.site.cmuh':
+      'Принадлежащий Китайскому медицинскому университету госпиталь',
+    'resources.site.kmuh':
+      'Принадлежащий Гаосюнскому медицинскому университету госпиталь',
+
+    'resources.site.stat': 'Национальное статистическое управление',
+    'resources.site.twse': 'Тайваньская фондовая биржа',
+    'resources.site.tpex': 'Центр торговлі акціями',
+
+    'resources.site.github': 'Репозиторій проекту на GitHub',
+    'resources.site.contribute': 'Інструкція для учасників',
+    'resources.site.rss': 'RSS-підписка',
+
+    // New community site names
+    'resources.site.electionMap': 'Карта виборів Тайваню',
+    'resources.site.maskMap': 'Карта масок (2020)',
+    'resources.site.goodinfo': 'Goodinfo — інформація про тайванський ринок',
+    'resources.site.ccw': 'Альянс громадянського нагляду за парламентом',
+    'resources.site.thaubing': 'Прозора стоп-слід',
+    'resources.site.politicalDonation': 'Публічний запит політичних пожертв',
+    'resources.site.burgerMap': 'Карта бургерів Тайбея',
+    'resources.site.nightMarket': 'Додаток нічних ринків',
+    'resources.site.cofacts': 'Cofacts — правда чи ні?',
+    'resources.site.disfactory':
+      'Disfactory — незаконні фабрики на сільгоспугіддях',
+    'resources.site.ptt': 'PTT BBS',
+    'resources.site.ptsNews': 'Новини PTS',
+    'resources.site.npgov': 'Портал національних парків',
+    'resources.site.taiwanmd': 'Taiwan.md',
+  },
   'zh-TW': {
     // Meta
     'resources.meta.title': '台灣資源導覽 - Taiwan.md',

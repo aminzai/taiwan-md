@@ -211,6 +211,27 @@ export const latestUI = {
     'latest.dayCount': 'مقال',
     'latest.today': 'اليوم',
   },
+  ru: {
+    'nav.latest': 'Последние материалы',
+    'latest.meta.title': 'Последние материалы',
+    'latest.meta.description':
+      'Недавно написанные материалы от ИИ и авторов, отсортированные по времени завершения.',
+    'latest.eyebrow': 'Хронологическое исследование',
+    'latest.title': 'Последние материалы',
+    'latest.subtitle':
+      'Недавно написанные материалы от ИИ и авторов, отсортированные по времени завершения.',
+    'latest.filterAll': 'Все',
+    'latest.empty': 'Данных пока нет.',
+    'latest.changelogCta':
+      'Хотите увидеть полную активность обновлений ИИ (переводы, исправления, эволюцию)? → Журнал изменений',
+    'latest.railHeading': 'Свежие на платформе',
+    'latest.railViewAll': 'Посмотреть все последние материалы',
+    'latest.exploreSub': 'Недавно написанные материалы от ИИ и авторов',
+    'latest.exploreSeeAll': 'Посмотреть все →',
+    'latest.minRead': 'мин.',
+    'latest.dayCount': 'статей',
+    'latest.today': 'Сегодня',
+  },
   'zh-TW': {
     'nav.latest': '最新文章',
     'latest.meta.title': '最新文章',

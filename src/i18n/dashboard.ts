@@ -834,6 +834,113 @@ export const dashboardUI = {
     'dashboard.growth.total': 'المقالات المتراكمة',
     'dashboard.growth.daily': 'المقالات المضافة يوميًا',
   },
+  ru: {
+    'dashboard.meta.title':
+      'Панель управления — Мониторинг цифрового организма в реальном времени',
+    'dashboard.meta.description':
+      'Мониторинг здоровья цифрового организма Taiwan.md в реальном времени — обзор статей, здоровье органов, охват переводами, показатели роста',
+
+    // Hero
+    'dashboard.hero.title': 'Мониторинг цифрового организма в реальном времени',
+    'dashboard.hero.subtitle': 'Публичная анатомическая лаборатория Taiwan.md',
+    'dashboard.hero.description':
+      'Каждый орган, каждая клетка, каждый удар сердца — прозрачно и видимо.',
+
+    // Vital Signs
+    'dashboard.vitals.title': 'Показатели жизнедеятельности',
+    'dashboard.vitals.heartbeat': 'Пульс',
+    'dashboard.vitals.heartbeat.desc':
+      'Новые/обновлённые статьи за последние 7 дней',
+    'dashboard.vitals.cells': 'Общее число клеток',
+    'dashboard.vitals.cells.desc': 'Статьи на китайском языке (SSOT)',
+    'dashboard.vitals.immunity': 'Иммунитет',
+    'dashboard.vitals.immunity.desc': 'Доля завершённой ручной проверки',
+    'dashboard.vitals.dna': 'Разнообразие ДНК',
+    'dashboard.vitals.dna.desc': 'Охват языками',
+    'dashboard.vitals.revision': 'Глубина правок',
+    'dashboard.vitals.revision.desc': 'Среднее число правок на статью',
+    'dashboard.vitals.featured': 'Избранное',
+    'dashboard.vitals.featured.desc': 'Статьи под прожектором',
+
+    // Article Registry
+    'dashboard.registry.title': 'Реестр статей',
+    'dashboard.registry.subtitle': 'Полный список каждой клетки организма',
+    'dashboard.registry.search': 'Поиск статей...',
+    'dashboard.registry.filter.category': 'Категория',
+    'dashboard.registry.filter.all': 'Все',
+    'dashboard.registry.filter.reviewed': 'Ручная проверка',
+    'dashboard.registry.filter.reviewed.yes': 'Проверено',
+    'dashboard.registry.filter.reviewed.no': 'Не проверено',
+    'dashboard.registry.filter.featured': 'Избранное',
+    'dashboard.registry.filter.translation': 'Перевод',
+    'dashboard.registry.filter.translation.has-en': 'Есть английский',
+    'dashboard.registry.filter.translation.missing-en': 'Без англійського',
+    'dashboard.registry.col.title': 'Заголовок',
+    'dashboard.registry.col.category': 'Категорія',
+    'dashboard.registry.col.date': 'Дата',
+    'dashboard.registry.col.verified': 'Перевірено',
+    'dashboard.registry.col.reviewed': 'Переглянуто',
+    'dashboard.registry.col.words': 'Кількість слів',
+    'dashboard.registry.col.tags': 'Теги',
+    'dashboard.registry.col.translations': 'Мови',
+    'dashboard.registry.col.revisions': 'Версії',
+    'dashboard.registry.showing': 'Показано',
+    'dashboard.registry.of': '/',
+    'dashboard.registry.articles': 'статей',
+
+    // Organism Anatomy
+    'dashboard.organism.title': 'Анатомія органів',
+    'dashboard.organism.subtitle': "Стан здоров'я різних систем органів",
+    'dashboard.organism.score': "Оцінка здоров'я",
+    'dashboard.organism.trend.up': 'Зростає',
+    'dashboard.organism.trend.down': 'Знижується',
+    'dashboard.organism.trend.stable': 'Стабільний',
+
+    // Translation Coverage
+    'dashboard.translation.title': 'Переклад: покриття',
+    'dashboard.translation.subtitle':
+      'Скільки клітин вже скопійовано іншими мовами',
+    'dashboard.translation.ssot': 'Єдине джерело істини',
+    'dashboard.translation.full': 'Повне покриття',
+    'dashboard.translation.growing': 'Розширюється',
+    'dashboard.translation.seedling': 'Фаза проростання',
+    'dashboard.translation.legend.aria': 'Пояснення до легенди стану перекладу',
+    'dashboard.translation.legend.fresh':
+      'Останнє — синхронізовано з оригіналом китайською',
+    'dashboard.translation.legend.stale':
+      'Застаріле — оригінал китайською оновлено, переклад не встиг',
+    'dashboard.translation.legend.missing':
+      'Не перекладено — ще не перекладено',
+    'dashboard.translation.legend.format':
+      'Перекладено / Не перекладено · Застаріле (за категорією)',
+
+    // Immune System
+    'dashboard.immune.title': 'Иммунная система',
+    'dashboard.immune.subtitle':
+      'Состояние защитных барьеров и задачи в очереди',
+    'dashboard.immune.reviewed': 'Ручная проверка',
+    'dashboard.immune.featured': 'Избранные статьи',
+    'dashboard.immune.verified': 'Последняя верификация',
+    'dashboard.immune.defense.title': 'Линия обороны',
+    'dashboard.immune.defense.line1': 'quality-scan.sh',
+    'dashboard.immune.defense.line1.desc':
+      'Автоматический скан, блокировка при >4 баллов',
+    'dashboard.immune.defense.line2': 'PR Review',
+    'dashboard.immune.defense.line2.desc': 'Стандарт EDITORIAL v4',
+    'dashboard.immune.defense.line3': 'Переписывание качества',
+    'dashboard.immune.defense.line3.desc': 'Ручной запуск переписывания',
+    'dashboard.immune.defense.line4': 'Обновление EDITORIAL',
+    'dashboard.immune.defense.line4.desc': 'Эволюция генов качества',
+    'dashboard.immune.queue.title': 'Очередь на иммунизацию',
+    'dashboard.immune.queue.desc':
+      'Статьи, требующие наибольшей ручной проверки (приоритет старейшим)',
+
+    // Growth
+    'dashboard.growth.title': 'Хронология роста',
+    'dashboard.growth.subtitle': 'Эволюция организма во времени',
+    'dashboard.growth.total': 'Накоплено статей',
+    'dashboard.growth.daily': 'Новых за день',
+  },
   'zh-TW': {
     // Meta
     'dashboard.meta.title': 'Dashboard — 數位生命體即時監測',

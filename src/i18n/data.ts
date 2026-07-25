@@ -3894,6 +3894,511 @@ export const dataUI = {
     'data.tooltip.employees': 'الموظفون',
     'data.tooltip.founded': 'تأسست',
   },
+  ru: {
+    // Company Names (50 companies)
+    'data.company.taiwan-semiconductor': 'TSMC',
+    'data.company.hon-hai-foxconn': 'Foxconn',
+    'data.company.mediatek': 'MediaTek',
+    'data.company.delta-electronics': 'Delta',
+    'data.company.ase-group': 'ASE',
+    'data.company.quanta-computer': 'Quanta',
+    'data.company.cathay-financial': 'Cathay Financial',
+    'data.company.fubon-financial': 'Fubon Financial',
+    'data.company.chunghwa-telecom': 'Chunghwa Telecom',
+    'data.company.umc': 'UMC',
+    'data.company.uni-president': 'Uni-President',
+    'data.company.evergreen-marine': 'Evergreen Marine',
+    'data.company.asustek': 'ASUS',
+    'data.company.pegatron': 'Pegatron',
+    'data.company.formosa-petrochemical': 'Formosa Petrochemical',
+    'data.company.mega-financial': 'Mega Financial',
+    'data.company.china-steel': 'China Steel',
+    'data.company.taiwan-mobile': 'Taiwan Mobile',
+    'data.company.realtek': 'Realtek',
+    'data.company.advantech': 'Advantech',
+    'data.company.formosa-plastics': 'Formosa Plastics',
+    'data.company.wistron': 'Wistron',
+    'data.company.nan-ya-plastics': 'Nanya Plastics',
+    'data.company.compal-electronics': 'Compal',
+    'data.company.largan-precision': 'Largan',
+    'data.company.acer': 'Acer',
+    'data.company.e-sun-financial': 'E-Sun Financial',
+    'data.company.taiwan-cement': 'Taiwan Cement',
+    'data.company.far-eastern-new-century': 'Far Eastern New Century',
+    'data.company.ctbc-financial': 'CTBC Financial',
+    'data.company.yuanta-financial': 'Yuanta Financial',
+    'data.company.giant-manufacturing': 'Giant',
+    'data.company.first-financial': 'First Financial',
+    'data.company.formosa-chemicals': 'Formosa Chemicals',
+    'data.company.fareastone': 'FarEastone',
+    'data.company.hua-nan-financial': 'Hua Nan Financial',
+    'data.company.lite-on-technology': 'Lite-On Technology',
+    'data.company.taiwan-cooperative-bank': 'Taiwan Cooperative Bank',
+    'data.company.catcher-technology': 'Catcher Technology',
+    'data.company.taiwan-high-speed-rail': 'Taiwan High Speed Rail',
+    'data.company.htc': 'HTC',
+    'data.company.chang-chun-petrochemical': 'Chang Chun Petrochemical',
+    'data.company.chi-mei-corporation': 'Chi Mei Corporation',
+    'data.company.wiwynn': 'WiWynn',
+    'data.company.powerchip-semiconductor': 'Powerchip Semiconductor',
+    'data.company.unimicron-technology': 'Unimicron Technology',
+    'data.company.silergy': 'Silergy',
+    'data.company.inventec': 'Inventec',
+    'data.company.hiwin-technologies': 'Hiwin Technologies',
+    'data.company.novatek': 'Novatek',
+
+    // Top-50 new entrants (2026 AI supply-chain repricing)
+    'data.company.elite-material': 'Elite Material',
+    'data.company.accton': 'Accton',
+    'data.company.avc': 'AVC',
+    'data.company.chroma-ate': 'Chroma',
+    'data.company.hon-precision': 'Hon Precision',
+    'data.company.jentech': 'Jentech',
+    'data.company.gold-circuit': 'Gold Circuit',
+    'data.company.nanya-technology': 'Nanya',
+    'data.company.yageo': 'Yageo',
+    'data.company.nan-ya-pcb': 'Nan Ya PCB',
+    'data.company.taishin-shinkong': 'Taishin',
+    'data.company.global-unichip': 'GUC',
+    'data.company.bizlink': 'BizLink',
+    'data.company.zhen-ding': 'Zhen Ding',
+    'data.company.sinopac-financial': 'SinoPac',
+    'data.company.winbond': 'Winbond',
+    'data.company.winway': 'WinWay',
+    'data.company.king-slide': 'King Slide',
+    'data.company.kyec': 'KYEC',
+    'data.company.kgi-financial': 'KGI',
+
+    // New AI-era sectors
+    'data.sector.networking': 'Сетевое оборудование',
+    'data.sector.cooling': 'Охлаждение',
+    'data.sector.testing': 'Тестирование',
+
+    // Fell-off-the-list reasons (displaced by the AI supply chain)
+    'data.fellOff.china-steel':
+      'Слабый спрос на сталь, убытки год за годом, не участвовала в ИИ-буме',
+    'data.fellOff.htc':
+      'Провал на рынке смартфонов, VR/XR не обеспечили масштаб',
+    'data.fellOff.taiwan-cement':
+      'Слабость основного бизнеса цемента, переход на накопители энергии еще не вышел на полную мощность',
+    'data.fellOff.far-eastern-new-century':
+      'Спад в полиэфирной и химической промышленности, традиционные отрасли без ИИ-тематики',
+    'data.fellOff.giant-manufacturing':
+      'Списание запасов велосипедов, выручка снижалась три года подряд',
+
+    // Standalone /companies page
+    'data.companies.meta.title':
+      'Топ-50 компаний Тайваня — пересортировка в эпоху ИИ',
+    'data.companies.meta.description':
+      'Интерактивная пузырьковая диаграмма капитализации, выручки и численности персонала топ-50 публичных компаний Тайваня, а также того, как цепочка поставок ИИ переписывает рейтинги (снимок от 2026/06).',
+    'data.companies.hero.title': 'Топ-50 компаний Тайваня',
+    'data.companies.hero.subtitle':
+      'Площадь пузыря = капитализация, отраслевая карта острова с населением 23 млн человек',
+    'data.companies.hero.description':
+      'Чем больше пузырь, тем выше капитализация; цвет обозначает отрасль. Можно переключать выручку/численность персонала, фильтровать по тегам отраслей, перетаскивать пузыри.',
+    'data.companies.snapshot':
+      '📊 Источники данных: TWSE, годовая отчетность о выручке за 2025 год, годовые отчеты компаний · снимок от 2026/06 (приблизительные значения, не являются инвестиционной рекомендацией)',
+    'data.companies.story.title': 'Волна ИИ переоценивает весь остров',
+    'data.companies.story.p1':
+      'За два года внедрение ИИ переписало корпоративные рейтинги Тайваня. Одна лишь TSMC занимает 43,8% всего рынка (с ростом с 39%), а на долю топ-10 акций с наибольшим весом приходится около 61%.',
+    'data.companies.story.p2':
+      'После TSMC выросли все участники цепочки поставок ИИ: Delta Electronics благодаря ИИ-блокам питания за год поднялась на 2-е место (капитализация выросла примерно в 5 раз), MediaTek взорвала объемы, а такие компании, как Elite Material, AVC, Chroma, Accton, Yageo и другие из сферы печатных плат/подложек, охлаждения, тестирования и сетевого оборудования вытеснили около 20 старых игроков из топ-50.',
+    'data.companies.table.heading': '📋 Полный рейтинг',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': 'Компания',
+    'data.companies.table.sector': 'Отрасль',
+    'data.companies.table.marketCap': 'Капитализация (млрд TWD)',
+    'data.companies.table.revenue': 'Выручка 2025 (млрд TWD)',
+    'data.companies.table.employees': 'Численность персонала',
+    'data.companies.table.founded': 'Основана',
+    'data.companies.insights.heading': '🔍 Ключевые выводы',
+    'data.companies.insights.card1.number': '43,8%',
+    'data.companies.insights.card1.label':
+      'Доля TSMC в общей капитализации тайваньской фондовой биржи',
+    'data.companies.insights.card1.detail':
+      'Рост с 39%: одна компания равна четырем пятым от суммы всех остальных',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label':
+      'Доля топ-10 весовых акций в общей капитализации',
+    'data.companies.insights.card2.detail':
+      'Высокая концентрация в нескольких крупных акциях',
+    'data.companies.insights.card3.number': 'Около 20',
+    'data.companies.insights.card3.label':
+      'Новичков в рейтинге благодаря цепочке поставок ИИ за два года',
+    'data.companies.insights.card3.detail':
+      'Печатные платы/подложки, охлаждение, тестирование, телекоммуникации — два года назад их здесь не было',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label':
+      'Количество финансовых холдингов в топ-50',
+    'data.companies.insights.card4.detail':
+      'После слияний — самый стабильный «балласт» в индексе',
+    'data.companies.fellOff.title': '📉 Кто выбыл из рейтинга',
+    'data.companies.fellOff.intro':
+      'Переоценка ИИ создаёт и проигравших. Эти национальные имена — сталь, цемент, текстиль, велосипеды, бывшие звёзды мобильной индустрии — выскользнули из топ-50, когда капитал устремился в цепочки поставок ИИ.',
+    'data.companies.fellOff.marketCapNow': 'Текущая капитализация',
+    'data.companies.method.heading': '📝 Методология',
+    'data.companies.method.body':
+      'Капитализация рассчитана на основе весовых коэффициентов акций на TWSE за июнь 2026 года, умноженных на общую капитализацию рынка, зафиксированную на TSMC (около 59 трлн NT$ / 43,8%). Выручка — консолидированная за полный 2025 год (для финансовых холдингов используется консолидированный операционный доход, включая страхование). Численность персонала — приблизительная, по возможности взята на уровне группы/консолидированной отчетности, но диапазоны признания различаются; воспринимайте ось численности персонала как порядок величины, а не как точное сравнение.',
+    'data.companies.related': '📖 Дополнительные материалы',
+
+    // Category 1: Government Open Data
+    'data.category.1.title': 'Открытые государственные данные',
+    'data.category.1.description':
+      'Структурированные наборы данных и статистические платформы, публикуемые государственными органами',
+    'data.category.1.item.1.name': 'Платформа открытых данных правительства',
+    'data.category.1.item.1.desc':
+      'В 2020 году инженеры использовали данные здесь, чтобы за 72 часа создать карту масок, решив проблему очередей в аптеках по всей стране',
+    'data.category.1.item.2.name':
+      'Статистическая база данных Бюро переписи и экономики',
+    'data.category.1.item.2.desc':
+      'Ключевая государственная статистика по населению, экономике, ценам',
+    'data.category.1.item.3.name':
+      'База данных выборов Комиссии по избирательным делам',
+    'data.category.1.item.3.desc':
+      'Результаты всех выборов и данные голосования',
+    'data.category.1.item.4.name': 'Национальная база данных законодательства',
+    'data.category.1.item.4.desc':
+      'Полнотекстовый поиск всех законов, постановлений и прецедентов',
+    'data.category.1.item.5.name': 'Сеть мониторинга качества воздуха',
+    'data.category.1.item.5.desc':
+      'Данные мониторинга в реальном времени AQI, PM2.5',
+
+    // Category 2: Interactive Maps & Visualization
+    'data.category.2.title': 'Интерактивные карты и визуализация',
+    'data.category.2.description':
+      'Инструменты мониторинга в реальном времени, географические данные и визуализация окружающей среды',
+    'data.category.2.item.1.name':
+      'Интерактивная карта тайваньских подводных кабелей',
+    'data.category.2.item.1.desc':
+      'Мониторинг подводных кабелей в реальном времени, разработанный гражданским сектором, эталон гражданских технологий',
+    'data.category.2.item.2.name':
+      'Облако услуг картографической информации о земле',
+    'data.category.2.item.2.desc':
+      'Картографические данные Тайваня, аэрофотоснимки, кадастр',
+    'data.category.2.item.3.name':
+      'Центр мониторинга и прогнозирования землетрясений',
+    'data.category.2.item.3.desc':
+      'Информация о землетрясениях в реальном времени и исторические записи',
+    'data.category.2.item.4.name':
+      'Информационная сеть предупреждения о бедствиях Бюро водных ресурсов',
+    'data.category.2.item.4.desc':
+      'Водная обстановка в реальном времени, уровень рек, объём воды в водохранилищах',
+    'data.category.2.item.5.name': 'Environmental Info',
+    'data.category.2.item.5.desc':
+      'Мониторинг качества воздуха, ультрафиолета и качества воды в реальном времени',
+
+    // Category 3: Civic Tech
+    'data.category.3.title': 'Гражданские технологии (Civic Tech)',
+    'data.category.3.description':
+      'Открытые сообщества, проверка фактов и инструменты цифровой демократии',
+    'data.category.3.item.1.name': 'g0v Zero Government',
+    'data.category.3.item.1.desc':
+      'Основано в 2012 году, породило проекты гражданских технологий, изменившие Тайвань, такие как карта масок, Cofacts, vTaiwan',
+    'data.category.3.item.2.name': 'Гражданские мероприятия KKTIX',
+    'data.category.3.item.2.desc':
+      'Хакатоны g0v, портал мероприятий сообществ открытых данных',
+    'data.category.3.item.3.name': 'Cofacts Zhen de jia de (Правда или ложь)',
+    'data.category.3.item.3.desc':
+      'Ложные сообщения, распространяемые в группах LINE: любой может отправить их на проверку, накоплено десятки тысяч записей проверок',
+    'data.category.3.item.4.name': 'vTaiwan',
+    'data.category.3.item.4.desc':
+      'Использование алгоритма Polis для поиска консенсуса, успешно повлиявшее на правила управления Uber, законы об дистанционном обучении и другие политики',
+    'data.category.3.item.5.name':
+      'JOIN Платформа участия в общественной политике',
+    'data.category.3.item.5.desc':
+      'Предложения правительства, петиции, обсуждение политики',
+
+    // Category 4: Data Journalism & Fact-Checking
+    'data.category.4.title': 'Данные в журналистике и проверка фактов',
+    'data.category.4.description':
+      'Глубокие расследования, проверка фактов и медиа данных в журналистике',
+    'data.category.4.item.1.name': 'The Reporter',
+    'data.category.4.item.1.desc':
+      'Основано в 2015 году, первое в Тайване некоммерческое медиа глубоких расследований, многократно раскрывало важные общественные вопросы',
+    'data.category.4.item.2.name': 'Центр проверки фактов Тайваня',
+    'data.category.4.item.2.desc':
+      'Сертифицировано Международным альянсом проверки фактов (IFCN), сторонний партнёр по проверке фактов для Facebook',
+    'data.category.4.item.3.name': 'READr Du+',
+    'data.category.4.item.3.desc':
+      'Журналистика данных и визуализация открытых данных',
+    'data.category.4.item.4.name': 'ARTouch',
+    'data.category.4.item.4.desc':
+      'Медиа новостей об искусстве Тайваня и глубоких комментариев',
+
+    // Category 5: Academic & Research
+    'data.category.5.title': 'Академические исследования',
+    'data.category.5.description':
+      'Цифровые коллекции, экологические данные и корпуса для обучения ИИ',
+    'data.category.5.item.1.name': 'Открытый музей Академии Синика',
+    'data.category.5.item.1.desc': 'Цифровые коллекции и онлайн-кураторство',
+    'data.category.5.item.2.name': 'Национальная база данных культурной памяти',
+    'data.category.5.item.2.desc':
+      'Цифровое сохранение культурной памяти Тайваня',
+    'data.category.5.item.3.name': 'Сеть биоразнообразия Тайваня',
+    'data.category.5.item.3.desc':
+      'Распространение видов, экологические наблюдения',
+    'data.category.5.item.4.name':
+      'Корпус для обучения ИИ TAIC суверенитета Тайваня',
+    'data.category.5.item.4.desc':
+      'Тайваньский локальный набор данных для обучения ИИ',
+
+    // Meta
+    'data.meta.title': '📊 Данные Тайваня — Taiwan.md',
+    'data.meta.description':
+      'Познакомьтесь с островом через цифры: корпоративный ландшафт, открытые данные, правильный контур Тайваня и интерактивная визуализация',
+
+    // Hero
+    'data.hero.title': 'Данные Тайваня',
+    'data.hero.subtitle':
+      'Познакомьтесь с истинным лицом острова с помощью интерактивной визуализации и открытых данных',
+    'data.hero.description':
+      'Здесь находится кураторское пространство данных Тайваня. От корпоративного ландшафта до открытых данных, от правильного контура Тайваня до экспериментов в цифровой демократии — мы используем интерактивную визуализацию и открытые ресурсы, чтобы цифры рассказывали историю Тайваня.',
+
+    // Enterprise Section
+    'data.enterprise.title': '🏢 Корпоративный ландшафт',
+    'data.enterprise.story.p1':
+      'Как остров удерживает глобальную цепочку поставок?',
+    'data.enterprise.story.p2':
+      'От капитализации TSMC в 2,67 млрд до 870 тысяч сотрудников Foxconn, топ-50 компаний Тайваня составляют экономический хребет этого острова. 12 полупроводниковых компаний подтверждают название «кремниевый щит», 12 финансовых холдингов обеспечивают финансовую стабильность, гиганты контрактного производства связывают глобальную цифровую жизнь. Исследуйте с помощью пузырьковой диаграммы, как Тайвань, имея 2% мирового населения, создаёт 4% мирового ВВП.',
+    'data.enterprise.controls.sizeLabel': 'Размер пузыря:',
+    'data.enterprise.controls.marketCap': 'Рыночная капитализация',
+    'data.enterprise.controls.revenue': 'Выручка',
+    'data.enterprise.controls.employees': 'Численность сотрудников',
+    'data.enterprise.controls.filterAll': 'Все',
+    'data.enterprise.insights.heading': 'Ключевые выводы',
+    'data.enterprise.insights.card1.number': '43,8%',
+    'data.enterprise.insights.card1.label':
+      'Доля TSMC в общей рыночной капитализации Тайваня',
+    'data.enterprise.insights.card1.detail':
+      'Одна компания ≈ 2/3 от совокупной стоимости остальных 1000 публичных компаний',
+    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.label':
+      'Доля 50 крупнейших компаний в общей рыночной капитализации Тайваня',
+    'data.enterprise.insights.card2.detail':
+      'Тайваньский фондовый рынок высоко концентрирован вокруг крупных корпораций',
+    'data.enterprise.insights.card3.number': '12 компаний',
+    'data.enterprise.insights.card3.label':
+      'Полупроводниковые предприятия в списке',
+    'data.enterprise.insights.card3.detail':
+      'Подтверждает «кремниевый щит» — полупроводники являются обороноспособностью Тайваня',
+    'data.enterprise.insights.card4.number': '12 компаний',
+    'data.enterprise.insights.card4.label': 'Финансовые учреждения в топ-50',
+    'data.enterprise.insights.card4.detail':
+      'Стабилизирующая сила после слияний финансовых холдингов',
+    'data.enterprise.exploreLink': 'Посмотреть полный рейтинг →',
+
+    // Taiwan vs World Section
+    'data.taiwanVsWorld.title': '🌏 Место Тайваня в мире',
+    'data.taiwanVsWorld.story.p1':
+      'Остров площадью, сопоставимой с Бельгией, прокормил 23 млн человек, но произвёл 92% самых передовых компьютерных чипов в мире. Экономическая плотность Тайваня поражает: территория меньше, чем у Швейцарии, но население больше, чем в Австралии, а ВВП на душу населения достигает 75 тыс. долларов.',
+    'data.taiwanVsWorld.story.p2':
+      'Эти цифры — не просто статистика, это чертёж невозможной истории. Как 0,32% земной суши создают 4% мирового богатства? От самой высокой в мире плотности магазинов до первого в Азии места в рейтинге демократии эти восемь индикаторов расшифровывают непропорционально большое глобальное присутствие Тайваня.',
+
+    'data.taiwanVsWorld.area.number': '36 197 км²',
+    'data.taiwanVsWorld.area.label': 'Площадь ≈ размер Бельгии',
+    'data.taiwanVsWorld.area.context':
+      'Но население в 2,35 раза больше, чем в Бельгии (23,5 млн против 11,7 млн)',
+
+    'data.taiwanVsWorld.gdp.number': '$75K',
+    'data.taiwanVsWorld.gdp.label': 'ВВП на душу населения (ППС)',
+    'data.taiwanVsWorld.gdp.context':
+      'Топ-15 в мире, против $38K номинально (огромная разница в покупательной способности)',
+
+    'data.taiwanVsWorld.semiconductor.number': '90%+',
+    'data.taiwanVsWorld.semiconductor.label':
+      'Доля на мировом рынке передовых чипов',
+    'data.taiwanVsWorld.semiconductor.context':
+      'TSMC монополизирует техпроцесс <7 нм, сердце цифровых устройств мира',
+
+    'data.taiwanVsWorld.democracy.number': '12-е место',
+    'data.taiwanVsWorld.democracy.label': 'Рейтинг индекса демократии',
+    'data.taiwanVsWorld.democracy.context':
+      'Первое место в Азии, топ-10 мира по «полной демократии» (EIU 2024)',
+
+    'data.taiwanVsWorld.birthRate.number': '0,87',
+    'data.taiwanVsWorld.birthRate.label': 'Рождаемость (2024)',
+    'data.taiwanVsWorld.birthRate.context':
+      'Одна из самых низких в мире, вызов стареющего общества',
+
+    'data.taiwanVsWorld.convenience.number': '1 на 2000 чел.',
+    'data.taiwanVsWorld.convenience.label': 'Плотность магазинов',
+    'data.taiwanVsWorld.convenience.context':
+      '12 368 штук (7-11 + FamilyMart + Hi-Life + OK), самая высокая в мире',
+
+    'data.taiwanVsWorld.hsr.number': '345 км',
+    'data.taiwanVsWorld.hsr.label': 'Зона покрытия скоростной железной дороги',
+    'data.taiwanVsWorld.hsr.context':
+      '12 станций, дневной пассажиропоток 180 тыс. чел., пунктуальность 96%',
+
+    'data.taiwanVsWorld.healthcare.number': '99,9%',
+    'data.taiwanVsWorld.healthcare.label':
+      'Охват всеобщим медицинским страхованием',
+    'data.taiwanVsWorld.healthcare.context':
+      'Всеобщее медицинское страхование, мировой эталон',
+
+    // Digital Democracy Timeline Section
+    'data.digitalDemocracy.title':
+      '📡 Хронология цифровой демократии — 30 лет эволюции цифрового управления',
+    'data.digitalDemocracy.story.p1':
+      'От цифровизации правительства до цифровой демократии: путь эволюции Тайваня от электронного правительства к открытому правительству и цифровой устойчивости.',
+    'data.digitalDemocracy.story.p2':
+      'Наведите курсор на ключевые вехи, чтобы глубже изучить уникальный эксперимент Тайваня в области цифровой демократии.',
+
+    'data.timeline.1997.title': 'Запуск плана электронного правительства',
+    'data.timeline.1997.desc': 'Начало цифровизации государственных услуг',
+
+    'data.timeline.2003.title': 'План продвижения свободного ПО',
+    'data.timeline.2003.desc': 'Государственные органы внедряют открытое ПО',
+
+    'data.timeline.2012.title': 'Создание g0v (Нулевого правительства)',
+    'data.timeline.2012.desc':
+      'За 2 года до движения Солнечного цветка посеяно семя гражданских технологий',
+
+    'data.timeline.2013.title': 'Запуск data.gov.tw',
+    'data.timeline.2013.desc': 'Тайвань вступает в эпоху открытых данных',
+
+    'data.timeline.2014.title': 'Движение Солнечного цветка',
+    'data.timeline.2014.desc':
+      'Взрыв гражданских технологий, пробуждение цифровой демократии',
+
+    'data.timeline.2015.title': 'Первое место в мире по открытым данным',
+    'data.timeline.2015.desc': 'Три года подряд чемпион мира (2015–2017)',
+
+    'data.timeline.2016.title': 'Тан Фун стала цифровым министром',
+    'data.timeline.2016.desc':
+      'Хакер g0v становится главой государственного ведомства',
+
+    'data.timeline.2020.title': 'Успех карты масок',
+    'data.timeline.2020.desc':
+      'Разработана за 72 часа, использовалась всеми во время COVID-19',
+
+    'data.timeline.2022.title': 'Создание Министерства цифрового развития',
+    'data.timeline.2022.desc':
+      'Цифровое управление выведено на уровень министерства (moda)',
+
+    'data.timeline.2023.title': 'TAIDE — корпус тайваньского языка на базе ИИ',
+    'data.timeline.2023.desc': 'Языковая модель ИИ суверенитета Тайваня',
+
+    'data.timeline.2024.title': 'Экспорт модели Plurality цифровой демократии',
+    'data.timeline.2024.desc':
+      'Модель цифровой демократии экспортируется по всему миру',
+
+    // Population Pyramid Section
+    'data.population.title':
+      '👥 Структура населения: возрастной портрет острова',
+    'data.population.story.p1':
+      'В 2025 году медианный возраст на Тайване превысил 43 года. Этот когда-то молодой остров стареет — не медленно, а одним из самых быстрых темпов в мире.',
+    'data.population.story.p2':
+      'Перемещайте шкалу времени, чтобы увидеть, как возрастной портрет острова превращается из пирамиды в перевернутый треугольник за полвека.',
+
+    'data.population.insights.card1.title': 'Медианный возраст',
+    'data.population.insights.card1.subtitle': 'лет',
+    'data.population.insights.card1.detail': '43 года',
+
+    'data.population.insights.card2.title': 'Рождаемость',
+    'data.population.insights.card2.subtitle': 'Коэффициент рождаемости',
+    'data.population.insights.card2.detail': '0,87',
+
+    'data.population.insights.card3.title': 'Доля 65+',
+    'data.population.insights.card3.subtitle': 'Старше 65 лет',
+    'data.population.insights.card3.detail': '18%',
+
+    'data.population.insights.card4.title': 'Общее население',
+    'data.population.insights.card4.subtitle': 'млн чел.',
+    'data.population.insights.card4.detail': '23,4 млн → <20 млн',
+
+    // Taiwan Shape Section
+    'data.taiwanShape.title': '🗺️ Форма Тайваня',
+    'data.taiwanComparison.title':
+      'Тайвань, нарисованный ИИ, против настоящего Тайваня',
+    'data.taiwanComparison.aiGenerated':
+      'Сгенерировано Claude Opus 4.6 (22.03.2025, без намеренных искажений)',
+    'data.taiwanComparison.correct': 'Правильный контур',
+    'data.taiwanShape.story.p1':
+      'ИИ рисует Тайвань неправильно. Это правильная версия.',
+    'data.taiwanShape.story.p2':
+      'В обучающих данных большинства моделей генерации изображений ИИ отсутствуют структурированные географические данные о Тайване. В результате контуры искажаются, пропорции нарушаются, а остров иногда путают с другими. Taiwan.md предоставляет правильные, открытые и свободно используемые SVG-контурные карты Тайваня, обеспечивая стандартный ответ для любого сценария, где требуется знать «как выглядит Тайвань».',
+
+    // SVG Cards
+    'data.svg.card1.title': 'taiwan-icon.svg',
+    'data.svg.card1.description':
+      'Иконка контура Тайваня — подходит для иконок, логотипов, малых размеров',
+    'data.svg.card2.title': 'taiwan-simplemaps.svg',
+    'data.svg.card2.description':
+      'Версия SimpleMaps — чистый вектор, подходит для встраивания в веб',
+    'data.svg.card3.title': 'taiwan-location-map.svg',
+    'data.svg.card3.description':
+      'Карта географического позиционирования — с координатами и отметками городов',
+    'data.svg.card4.title': 'taiwan-political-division.svg',
+    'data.svg.card4.description':
+      'Карта административного деления — районы уездов и городов, полные границы',
+    'data.svg.button.download': 'Скачать SVG',
+    'data.svg.button.copy': 'Копировать код',
+    'data.svg.button.copied': '✅ Скопировано',
+    'data.svg.button.failed': '❌ Ошибка копирования',
+    'data.svg.usage.heading': '📝 Порядок использования',
+    'data.svg.usage.licenseNote':
+      'Все SVG-файлы распространяются под лицензией CC BY-SA 4.0. Свободное использование, модификация и коммерческое применение приветствуются при указании источника.',
+
+    // Open Data Section (legacy, now part of digital democracy)
+    'data.openData.title': '📡 Открытые данные и цифровая демократия',
+    'data.openData.story.p1':
+      'От электронного к открытому: тридцатилетняя эволюция цифрового управления Тайваня',
+    'data.openData.story.p2':
+      'В 1997 году был запущен «План электронного правительства», а в 2013 году начал работу data.gov.tw, ознаменовав переход Тайваня от электронного правительства к эпохе открытого правительства. В 2015–2017 годах Тайвань трижды подряд занимал первое место в «Глобальном индексе открытых данных». Проект g0v (Нулевое правительство) инкубировал «Карту масок» и бота проверки фактов Cofacts. Цифровой эксперимент министра по цифровым вопросам Тан Фэна превратил Тайвань в полигон для цифровой демократии в мировом масштабе.',
+    'data.openData.story.p3':
+      'Когда граждане способны понимать данные, а правительство готово их раскрывать, демократия становится не просто голосованием раз в четыре года, а ежедневным сотрудничеством.',
+
+    // Knowledge Graph Section
+    'data.knowledgeGraph.title': '🕸️ Граф знаний',
+    'data.knowledgeGraph.story.p1':
+      'Как связаны между собой более 200 статей на taiwan.md?',
+    'data.knowledgeGraph.story.p2':
+      'От истории к географии, от культуры к технологиям — каждая статья является узлом в сети тайваньских историй. Благодаря связям через теги и ссылкам Hub мы превращаем разрозненные знания в живую карту. Нажмите, чтобы войти и исследовать глубинную структуру тайваньских знаний.',
+    'data.knowledgeGraph.ctaButton': 'Исследовать граф знаний',
+    'data.knowledgeGraph.ctaButton.description':
+      'Интерактивная сеть связей статей',
+
+    // Footer
+    'data.footer.heading': 'Узнать больше',
+    'data.footer.link1.name': 'Экономика',
+    'data.footer.link1.description': 'Статьи и глубокий анализ по экономике',
+    'data.footer.link2.name': 'Граф знаний',
+    'data.footer.link2.description': 'Визуализированная сеть связанных статей',
+    'data.footer.link3.name': 'Руководство по вкладу',
+    'data.footer.link3.description': 'Как участвовать в развитии Taiwan.md',
+
+    // Sector Names (Chinese)
+    'data.sector.semiconductor': 'Полупроводники',
+    'data.sector.electronicsManufacturing':
+      'Электронное контрактное производство',
+    'data.sector.electronicComponents': 'Электронные компоненты',
+    'data.sector.financial': 'Финансы',
+    'data.sector.telecommunications': 'Телекоммуникации',
+    'data.sector.foodBeverage': 'Продовольствие и напитки',
+    'data.sector.shipping': 'Судоходство',
+    'data.sector.computerBrand': 'Компьютерные бренды',
+    'data.sector.steel': 'Сталь',
+    'data.sector.petrochemical': 'Нефтехимия',
+    'data.sector.cement': 'Цемент',
+    'data.sector.optics': 'Оптика',
+    'data.sector.bicycle': 'Велосипеды',
+    'data.sector.textileFiber': 'Текстиль и волокна',
+    'data.sector.transportation': 'Транспорт',
+    'data.sector.consumerElectronics': 'Потребительская электроника',
+    'data.sector.industrialComputer': 'Промышленные компьютеры',
+    'data.sector.casing': 'Корпуса',
+    'data.sector.petrochemicalPanel': 'Панели',
+    'data.sector.server': 'Серверы',
+    'data.sector.pcb': 'Печатные платы (PCB)',
+    'data.sector.precisionMachinery': 'Прецизионное машиностроение',
+
+    // Tooltip
+    'data.tooltip.marketCap': 'Капитализация',
+    'data.tooltip.revenue': 'Выручка',
+    'data.tooltip.employees': 'Сотрудники',
+    'data.tooltip.founded': 'Основано',
+  },
   'zh-TW': {
     // Company Names (50 companies)
     'data.company.taiwan-semiconductor': '台積電 TSMC',

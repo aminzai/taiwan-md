@@ -465,6 +465,70 @@ export const exploreUI = {
     'explore.cta.contribute': 'लेख का योगदान करें',
     'explore.cta.github': 'GitHub पर ब्राउज़ करें',
   },
+  ru: {
+    'explore.meta.title':
+      'Исследуйте Taiwan.md — открытый архив знаний о Тайване',
+    'explore.meta.description':
+      '685+ кураторских статей о Тайване: история, география, культура, кухня, искусство, музыка, технологии, природа, личности, общество, экономика, повседневность. Поиск, открытие, исследование.',
+
+    'explore.hero.eyebrow': 'Архив знаний',
+    'explore.hero.title': 'Исследуйте Taiwan.md',
+    'explore.hero.subtitle':
+      'Глубокие нарративы острова — поиск, открытие, навигация по категориям.',
+
+    'explore.search.heading': 'Поиск по архиву',
+    'explore.search.placeholder':
+      'Ищите всё о Тайване (люди, места, культура, события)',
+    'explore.search.button': 'Поиск',
+    'explore.search.random': 'Случайное исследование',
+    'explore.search.randomSubtitle':
+      'Бросьте кубик — откройте историю, о которой вы не думали',
+    'explore.hotSearches.label': 'Популярные запросы',
+    'explore.hotSearches.term1': 'Полупроводники',
+    'explore.hotSearches.term2': 'Ночные рынки',
+    'explore.hotSearches.term3': 'Коренные народы',
+    'explore.hotSearches.term4': '228',
+    'explore.hotSearches.term5': 'TSMC',
+    'explore.hotSearches.term6': 'Жемчужный чай',
+
+    'explore.stats.articles': 'статей',
+    'explore.stats.contributors': 'авторов',
+    'explore.stats.languages': 'языков',
+    'explore.stats.last30d': 'обновлено за последние 30 дней',
+
+    'explore.categories.heading': 'Навигация по категориям',
+    'explore.categories.subtitle':
+      'Двенадцать сфер, каждая из которых отражает грант этого острова.',
+
+    'explore.featured.heading': 'Избранное',
+    'explore.featured.subtitle':
+      'Статьи высшего класса — полные сноски, перекрёстные ссылки, прослеживаемая исследовательская траектория.',
+    'explore.featured.viewAll': 'Смотреть все избранные →',
+    'explore.featured.citations': 'Цитирований',
+    'explore.featured.minRead': 'минут',
+    'explore.popular.heading': 'Популярные статьи',
+    'explore.popular.subtitle': 'Самые читаемые за последние 7 дней.',
+    'explore.popular.views': 'Просмотров',
+
+    'explore.more.heading': 'Другие способы исследования',
+    'explore.more.graph.title': 'Граф знаний',
+    'explore.more.graph.desc':
+      'Визуализируйте, как каждая статья связана с другими через ориентированный граф.',
+    'explore.more.graph.cta': 'Открыть граф →',
+    'explore.more.map.title': 'Географическая карта',
+    'explore.more.map.desc': 'Находите статьи по их расположению на острове.',
+    'explore.more.map.cta': 'Открыть карту →',
+    'explore.more.terminology.title': 'Словарь терминов',
+    'explore.more.terminology.desc':
+      'Быстрый справочник по общим терминам архива.',
+    'explore.more.terminology.cta': 'Открыть словарь →',
+
+    'explore.cta.heading': 'Не нашли нужное?',
+    'explore.cta.body':
+      'Taiwan.md — проект с открытым исходным кодом — любой может внести статью, исправить факт или перевести страницу.',
+    'explore.cta.contribute': 'Внести вклад',
+    'explore.cta.github': 'Посмотреть на GitHub',
+  },
   ar: {
     'explore.meta.title':
       'استكشف Taiwan.md — تصفح قاعدة المعرفة التايوانية المفتوحة',

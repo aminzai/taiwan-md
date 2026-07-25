@@ -481,6 +481,86 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.button': 'نسخ SVG',
     'taiwanShape.copy.copied': '✓ تم النسخ',
   },
+  ru: {
+    // Meta
+    'taiwanShape.meta.title':
+      'Форма Тайваня — открытый набор картографических данных: SVG, GeoJSON, TopoJSON',
+    'taiwanShape.meta.description':
+      'Полный открытый набор картографических данных Тайваня: контуры SVG, TopoJSON для уровней уездов и волостей, примеры использования в D3.js / Leaflet / Python / Vue. То, что рисует ИИ, всегда неверно. Здесь — верно.',
+
+    'taiwanShape.hero.kicker': '🗺️ Открытый набор картографических данных',
+    'taiwanShape.hero.title': 'Форма Тайваня',
+    'taiwanShape.hero.subtitle':
+      'SVG, GeoJSON, TopoJSON — полный открытый набор картографических данных для разработчиков, дизайнеров и исследователей.',
+
+    'taiwanShape.story.heading': 'Почему форма Тайваня важна',
+    'taiwanShape.story.p1':
+      'Попробуйте заставить любой инструмент для генерации изображений нарисовать Тайвань, и почти всегда получится круглый, толстый объект, похожий на оливообразный картофель. Тайвань — не оливка. Это сладкий картофель длиной 394 км с Центральным хребтом, протянувшимся с севера на юг, и более чем сотней отдалённых островов.',
+    'taiwanShape.story.p2':
+      'Правильное изображение формы — это не просто дизайнерская деталь, это вопрос идентичности. На этой странице собраны все открытые картографические материалы, которые мы используем на taiwan.md, чтобы любой мог точно отобразить Тайвань в своём проекте.',
+
+    'taiwanShape.comparison.title':
+      '🤖 vs. 🇹🇼 — ИИ ошибается снова и снова, и это правда',
+    'taiwanShape.comparison.aiLabel': 'Сгенерировано ИИ (неверно)',
+    'taiwanShape.comparison.correctLabel': 'Правильная версия (Википедия)',
+
+    'taiwanShape.svg.heading': '📐 Контур SVG — прямое встраивание',
+    'taiwanShape.svg.description':
+      'Четыре отобранных SVG-файла, все под лицензией CC или в общественном достоянии. Можно напрямую вставлять в любой веб-сайт, приложение или дизайн-макет.',
+    'taiwanShape.svg.usageHeading': 'Способ использования',
+    'taiwanShape.svg.licenseNote':
+      'Все SVG-файлы распространяются под лицензией Creative Commons или находятся в общественном достоянии. Указание источника желательно, но не обязательно.',
+
+    'taiwanShape.geo.heading':
+      '🌐 TopoJSON — интерактивная карта на уровне уездов',
+    'taiwanShape.geo.intro1':
+      "Если вы создаёте интерактивную карту с масштабированием, всплывающими подсказками при наведении курсора и заливкой по значениям данных — вам нужны не SVG-пути, а настоящие географические координаты. Мы упаковали файлы TopoJSON, извлечённые из проекта Waiting's taiwan-vue-components (лицензия MIT, 2018).",
+    'taiwanShape.geo.intro2':
+      'TopoJSON — это сжатая версия GeoJSON: общие границы соседних уездов сохраняются только один раз, что уменьшает размер файла на 80%. С помощью topojson-client можно мгновенно преобразовать обратно в GeoJSON.',
+    'taiwanShape.geo.formatHeading': 'TopoJSON против GeoJSON — что выбрать',
+    'taiwanShape.geo.formatTopo':
+      'TopoJSON: меньший размер файла, общие границы для соседних регионов, подходит для интерактивных веб-карт.',
+    'taiwanShape.geo.formatGeo':
+      'GeoJSON: простой формат, прямая совместимость с Python geopandas, QGIS и большинством инструментов ГИС.',
+    'taiwanShape.geo.countryHeading': 'Контур страны (22 уезда)',
+    'taiwanShape.geo.countryDesc':
+      'Файл TopoJSON объёмом около 21 КБ, содержащий 22 уезда и города прямого подчинения, каждый из которых является отдельным объектом (feature). Точка отсчёта для создания хлороплетных карт.',
+    'taiwanShape.geo.townsHeading':
+      'Данные по всем 22 уездам на уровне волостей',
+    'taiwanShape.geo.townsDesc':
+      'Мы упаковали файлы TopoJSON на уровне волостей для всех 22 уездов, извлечённые из одного и того же репозитория.',
+
+    'taiwanShape.codes.heading':
+      '🧭 Таблица соответствия кодов административных районов',
+    'taiwanShape.codes.intro':
+      'Административные районы Тайваня кодируются цифровыми кодами. Ниже приведена таблица соответствия для 22 уездов (правило именования файлов: `towns-{code}.json`).',
+    'taiwanShape.codes.codeCol': 'Код',
+    'taiwanShape.codes.nameCol': 'Административный район',
+    'taiwanShape.codes.typeCol': 'Тип',
+
+    'taiwanShape.examples.heading': '💻 Примеры использования',
+    'taiwanShape.examples.htmlTitle': 'HTML — статическое встраивание',
+    'taiwanShape.examples.cssTitle': 'CSS — фоновое изображение',
+    'taiwanShape.examples.d3Title': 'D3.js — интерактивная хлороплетная карта',
+    'taiwanShape.examples.pythonTitle': 'Python — geopandas',
+    'taiwanShape.examples.leafletTitle':
+      'Leaflet — наложение на тайловую карту',
+    'taiwanShape.examples.vueTitle': 'Vue — taiwan-vue-components',
+
+    'taiwanShape.others.heading': '📚 Другие источники открытых данных',
+    'taiwanShape.others.intro':
+      'Если вам нужно больше, чем упаковано здесь — более высокое разрешение, другие проекции, исторические границы административных районов — вот рекомендуемые нами источники:',
+
+    'taiwanShape.license.heading': '⚖️ Лицензия и источники',
+    'taiwanShape.license.intro':
+      'Каждый файл на этой странице является открытым. Ниже приведена полная информация об источниках и лицензиях:',
+
+    'taiwanShape.download.svg': 'Скачать SVG',
+    'taiwanShape.download.topo': 'Скачать TopoJSON',
+    'taiwanShape.download.all': 'Скачать всё (ZIP)',
+    'taiwanShape.copy.button': 'Копировать SVG',
+    'taiwanShape.copy.copied': '✓ Скопировано',
+  },
   'zh-TW': {
     // Meta
     'taiwanShape.meta.title':
