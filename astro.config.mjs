@@ -237,6 +237,12 @@ export default defineConfig({
     // 流行音樂產業興衰交給 台灣流行音樂.md 不重複）。zh slug rename，1 lang redirect（en/ja/ko/es/fr
     // 譯本 slug pop-music-and-golden-melody-awards 暫留、_translations 重指 金曲獎.md 待 babel re-sync）。
     '/music/流行音樂與金曲獎': '/music/金曲獎/',
+    // 2026-07-25: 用語詞庫兩個錯誤詞條在 2026-07-11 詞庫全審（db957fec7）改名，
+    // 舊 URL 從此死掉——而讀者就是從那兩頁回報問題的（issues #1199/#1200/#1201，
+    // 回報者「中共認知作戰前線戰地記者」）。詞條改名不像文章改名有人記得補 redirect，
+    // 這兩條是把讀者原本站的位置接回去。
+    '/terminology/乌子山共和國': '/terminology/獅子山共和國/',
+    '/terminology/厄乙垂亞': '/terminology/厄利垂亞/',
     '/en/food/taiwanese-salt-and-pepper-fried-chicken':
       '/en/food/taiwanese-popcorn-chicken-redux/',
     '/ja/food/taiwanese-salt-and-pepper-fried-chicken':

@@ -37,7 +37,7 @@ Mais pour ceux qui vivaient dans ces montagnes depuis toujours, aucune dénomina
 
 ## Tongku Saveq : les montagnes sont plus anciennes que les États
 
-Yushan, 3 952 mètres, point culminant de l'Asie du Nord-Est. Les Bunun l'appellent « Tongku Saveq » — « le refuge », le lieu où leurs ancêtres trouvèrent leur dernier abri lors du Grand Déluge[^3]. Les Atayal nomment Xueshan « Babo Hagai » (la montagne de pierre) ; Dabajian est leur montagne sacrée « Papak Waqa », que l'on ne peut escalader sans cérémonie d'offrande préalable. Les Tsou voient en Yushan un lieu saint et considèrent certains de ses pics comme demeure des esprits ancestraux, inaccessibles aux mortels ordinaires.
+Yushan, 3 952 mètres, point culminant de l'Asie du Nord-Est. Les Bunun l'appellent « Tongku Saveq » — « le refuge », le lieu où leurs ancêtres trouvèrent leur dernier abri lors du Grand Déluge[^3]. Les Atayal nomment Xueshan « B'bu' Hagay » (la montagne de pierre) ; Dabajian est leur montagne sacrée « Papak Waqa », que l'on ne peut escalader sans cérémonie d'offrande préalable. Les Tsou voient en Yushan un lieu saint et considèrent certains de ses pics comme demeure des esprits ancestraux, inaccessibles aux mortels ordinaires.
 
 Ces noms précèdent de plusieurs millénaires l'appellation chinoise « Yushan ». Sous la dynastie Qing, le lettré Yu Yonghe note dans ses mémoires de voyage que ce sommet, aperçu de loin, « brille comme le jade sous la neige » — d'où le nom. À l'époque japonaise, on rebaptise le massif « Niitakayama » (le nouveau sommet élevé, plus haut que le Fuji). Après 1945, le nom de Yushan est restauré. La montagne n'a pas bougé ; son nom, lui, a changé quatre fois.
 
