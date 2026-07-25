@@ -18,7 +18,23 @@ JSON_OUT="${2:-}"
 
 I18N_DIR="src/i18n"
 MODULES=(home about contribute changelog dashboard data resources map assets notfound taiwanShape semiont)
-LANGS=("zh-TW" en ja ko fr es)
+
+# 2026-07-25 哲宇 directive: 語言清單改從 src/config/languages.mjs（SSOT）動態 derive，
+# 不再寫死 6 語。新語言出生時（vi/id/pt/hi 2026-07-19 那批）dashboard 曾整批漏掉，
+# 因為這裡的 LANGS 陣列沒跟著長 — 這個 audit script 是唯一資料來源，寫死就等於
+# 讓後生語言在 dashboard 上「不存在」。改用 ALL_LANGUAGE_CODES（含 enabled:false
+# 的 ar/ru，讓它們的 UI 覆蓋率能從 0 開始被看見、逐步爬升到開站那天）。
+# zh-TW 永遠放第一個，因為它是覆蓋率計算的 100% 基準（MAX_TOTAL 用它的 key 數）。
+# bash 3.2 相容：不用 mapfile/readarray（bash 4+ only），改 while-read 組陣列。
+LANGS=()
+while IFS= read -r _lang_code; do
+  [[ -n "$_lang_code" ]] && LANGS+=("$_lang_code")
+done < <(node -e "
+import('./src/config/languages.mjs').then(({ ALL_LANGUAGE_CODES }) => {
+  const rest = ALL_LANGUAGE_CODES.filter((c) => c !== 'zh-TW');
+  console.log(['zh-TW', ...rest].join('\n'));
+});
+")
 
 # bash 3.2 compat: 用 temp dir 存 key=value 而不是 associative array
 TMP=$(mktemp -d)
@@ -137,6 +153,8 @@ if [[ "$MODE" == "--report" ]]; then
       total=$(get_total "$lang")
       missing=$((MAX_TOTAL - total))
       pct=$(awk "BEGIN { printf \"%.1f\", ($total / $MAX_TOTAL) * 100 }")
+      # 對照 src/i18n/utils.ts FALLBACK_CHAIN（2026-07-25 補 vi/id/pt/hi；
+      # ar/ru 尚未加入該 map，語言出生時要記得同步這裡）
       case "$lang" in
         zh-TW) chain="—（default）" ;;
         en) chain="en → zh-TW" ;;
@@ -144,6 +162,11 @@ if [[ "$MODE" == "--report" ]]; then
         ko) chain="ko → zh-TW" ;;
         fr) chain="**fr → en → zh-TW**" ;;
         es) chain="**es → en → zh-TW**" ;;
+        vi) chain="vi → en → zh-TW" ;;
+        id) chain="id → en → zh-TW" ;;
+        pt) chain="**pt → es → en → zh-TW**" ;;
+        hi) chain="hi → en → zh-TW" ;;
+        *) chain="$lang → zh-TW（尚未加入 utils.ts FALLBACK_CHAIN）" ;;
       esac
       printf "| **%s** | %d | %d | %s%% | %s |\n" "$lang" "$total" "$missing" "$pct" "$chain"
     done

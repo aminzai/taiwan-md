@@ -18,6 +18,10 @@ function renderI18nCoverage(data) {
     id: '#ef4444',
     pt: '#22c55e',
     hi: '#f59e0b',
+    // 2026-07-25: ar/ru (enabled:false birth scaffold) — explicit colors so their
+    // 0%→climbing donut doesn't visually collide with zh-TW's blue fallback color.
+    ar: '#8b5cf6',
+    ru: '#0ea5e9',
   };
   const langs = Object.keys(data.lang_totals);
   const maxTotal = data.max_total;
