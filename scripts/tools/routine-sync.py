@@ -126,10 +126,23 @@ def load_live():
         return {}
 
 
+def host_slug():
+    """主機名進檔名，讓兩台機器同一天存同一條 routine 不會撞檔。
+
+    2026-07-25 首日就踩到：指揮部與 mouhouse 各自 --apply，產出同名的
+    `2026-07-25-twmd-feedback-triage.md` 但**內容不同**（一份是遷移期舊母本、
+    一份是那台真正在跑的版本）。git 擋住 merge 才沒毀掉其中一份證據。
+    per REFLEXES #51 filename collision 要用 canonical ID 解。
+    """
+    import socket
+
+    return re.sub(r"[^a-z0-9]+", "-", socket.gethostname().lower()).strip("-") or "unknown-host"
+
+
 def archive_drift(task_id, content, stamp):
     """機器版被覆蓋前先存證。stamp 由呼叫端傳入（腳本內不取系統時間，方便重跑對賬）。"""
     DRIFT_ARCHIVE.mkdir(parents=True, exist_ok=True)
-    out = DRIFT_ARCHIVE / f"{stamp}-{task_id}.md"
+    out = DRIFT_ARCHIVE / f"{stamp}-{host_slug()}-{task_id}.md"
     out.write_text(content, encoding="utf-8")
     return out.relative_to(REPO_ROOT)
 
