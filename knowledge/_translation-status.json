@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T04:22:43+08:00",
-    "zhCommitHead": "db92cf25e",
+    "lastUpdated": "2026-07-26T04:30:39+08:00",
+    "zhCommitHead": "28cefa74d",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -59,50 +59,50 @@
       },
       "vi": {
         "total_zh": 865,
-        "fresh": 125,
+        "fresh": 126,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 723,
+        "missing": 722,
         "orphan": 0
       },
       "id": {
         "total_zh": 865,
-        "fresh": 236,
+        "fresh": 237,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 618,
+        "missing": 617,
         "orphan": 0
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 389,
+        "fresh": 392,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 464,
+        "missing": 461,
         "orphan": 0
       },
       "hi": {
         "total_zh": 865,
-        "fresh": 301,
+        "fresh": 305,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 557,
+        "missing": 553,
         "orphan": 0
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 239,
+        "fresh": 240,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 625,
+        "missing": 624,
         "orphan": 0
       },
       "ru": {
         "total_zh": 865,
-        "fresh": 269,
+        "fresh": 272,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 595,
+        "missing": 592,
         "orphan": 0
       }
     },
@@ -558,13 +558,35 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/sorry-youth-band.md",
+          "translatedFrom": "Music/拍謝少年.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6a2b0dda2e1882cf",
+          "sourceBodyHash": "sha256:07737a8d590520a4",
+          "translatedAt": "2026-07-26T03:58:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/sorry-youth-band.md",
+          "translatedFrom": "Music/拍謝少年.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6a2b0dda2e1882cf",
+          "sourceBodyHash": "sha256:07737a8d590520a4",
+          "translatedAt": "2026-07-26T03:58:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -667,13 +689,35 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/labor-exchange-band.md",
+          "translatedFrom": "Music/交工樂隊.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c3347c2a085cddc9",
+          "sourceBodyHash": "sha256:8f0c4cf2e72a96b9",
+          "translatedAt": "2026-07-26T03:58:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/labor-exchange-band.md",
+          "translatedFrom": "Music/交工樂隊.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c3347c2a085cddc9",
+          "sourceBodyHash": "sha256:8f0c4cf2e72a96b9",
+          "translatedAt": "2026-07-26T03:58:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -1354,7 +1398,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/Taiwan Folk Music and Songs.md",
+          "translatedFrom": "Music/台灣民謠與歌謠.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b219ae0c22f1ce55",
+          "sourceBodyHash": "sha256:943159c3ad5fba6c",
+          "translatedAt": "2026-07-26T03:58:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -3421,7 +3476,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/village-armed-youth.md",
+          "translatedFrom": "Music/農村武裝青年.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eb6f1df3d28721d6",
+          "sourceBodyHash": "sha256:a7bd89eaeb441ced",
+          "translatedAt": "2026-07-26T03:58:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -7606,7 +7672,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-companies-chunghwa-telecom.md",
+          "translatedFrom": "Economy/台灣企業：中華電信.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:dd735f0162ff1ad0",
+          "sourceBodyHash": "sha256:9b07a151711a4285",
+          "translatedAt": "2026-07-26T03:58:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -13218,7 +13295,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-digital-animation-industry.md",
+          "translatedFrom": "Technology/台灣數位影像與動畫產業.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:692543a60baf3299",
+          "sourceBodyHash": "sha256:bb5064886298647d",
+          "translatedAt": "2026-07-26T03:58:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -23099,7 +23187,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/wang-a-piau-pog-cards.md",
+          "translatedFrom": "Lifestyle/尪仔標.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:20a6968836a636ac",
+          "sourceBodyHash": "sha256:b413f755105bbf3c",
+          "translatedAt": "2026-07-26T03:58:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/wang-a-piau-pog-cards.md",
@@ -45623,7 +45722,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/su-tseng-chang.md",
+          "translatedFrom": "People/蘇貞昌.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:479a8f6f5440400a",
+          "sourceBodyHash": "sha256:b005f4ff95b8ed92",
+          "translatedAt": "2026-07-26T03:58:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/su-tseng-chang.md",
@@ -54702,7 +54812,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/li-guoxiu.md",
+          "translatedFrom": "People/李國修.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:11b55d270abdf3d3",
+          "sourceBodyHash": "sha256:7ab58584d6fb7af7",
+          "translatedAt": "2026-07-26T03:58:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -61554,8 +61675,8 @@
           "sourceContentHash": "sha256:9e6735e344733c2b",
           "sourceBodyHash": "sha256:be5f4cfa04f53c22",
           "translatedAt": "2026-07-25T21:33:44+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "28cefa74",
+          "translationLastModified": "2026-07-26T04:22:43+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -73258,7 +73379,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/mingjian-puchung-tea.md",
+          "translatedFrom": "Food/名間埔中茶.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4ee811968726954e",
+          "sourceBodyHash": "sha256:eac4101c04e140f1",
+          "translatedAt": "2026-07-26T03:58:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/mingjian-puchung-tea.md",
@@ -75776,8 +75908,8 @@
           "sourceContentHash": "sha256:4e63535e7555a67e",
           "sourceBodyHash": "sha256:607f80fde520e7fc",
           "translatedAt": "2026-07-26T03:41:21+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "28cefa74",
+          "translationLastModified": "2026-07-26T04:22:43+08:00",
           "inferred": false,
           "footnoteDefs": 70,
           "status": "fresh",
@@ -75986,7 +76118,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/hand-shaken-drink-culture.md",
+          "translatedFrom": "Food/台灣手搖飲文化.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:874c652bf8f5b63c",
+          "sourceBodyHash": "sha256:53b616e81595b8c6",
+          "translatedAt": "2026-07-26T03:58:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -85915,8 +86058,8 @@
           "sourceContentHash": "sha256:6923220eadde819d",
           "sourceBodyHash": "sha256:4dc13793ac08242f",
           "translatedAt": "2026-07-25T21:33:44+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "28cefa74",
+          "translationLastModified": "2026-07-26T04:22:43+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -86562,8 +86705,8 @@
           "sourceContentHash": "sha256:405286ffbb97b596",
           "sourceBodyHash": "sha256:367ba2e7b9a712c5",
           "translatedAt": "2026-07-26T03:41:21+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "28cefa74",
+          "translationLastModified": "2026-07-26T04:22:43+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -92729,8 +92872,8 @@
           "sourceContentHash": "sha256:e6912f140d4ddcf3",
           "sourceBodyHash": "sha256:3039a7c79e8554d9",
           "translatedAt": "2026-07-26T03:41:21+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "28cefa74",
+          "translationLastModified": "2026-07-26T04:22:43+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
