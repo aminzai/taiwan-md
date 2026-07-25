@@ -172,13 +172,21 @@ def normalize_footnote(line: str) -> Optional[str]:
         return None
     prefix, rest = m.groups()
     rest = rest.rstrip()
+    # 連結內 URL 的前後空白統一在入口清掉，不在各分支各清一次。
+    # `[Title](https://… )` 的尾隨空格會讓 article-health 判為格式不合規，
+    # 而下面每個分支各自解析 url——只修其中一個分支，別的格式照樣漏
+    # （PR #1248 十處腳註走的是中文標點分支，2026-07-25）。
+    rest_before = rest
+    rest = re.sub(r"\]\(\s*([^)\s]+)\s*\)", r"](\1)", rest)
+    url_spacing_fixed = rest != rest_before
 
     # 1. Already canonical: `[Title](URL) — desc` with desc ≥ 10 chars
     canon = re.match(r"^\[([^\]]+)\]\(([^)]+)\)(?:\s+—\s+(.+))?$", rest)
     if canon:
         title, url, desc = canon.groups()
         if desc and len(desc) >= 10:
-            return None  # already valid, no change
+            # 入口清過 URL 空白的話，這行實際上有變更，不能回報「不需改」
+            return f"{prefix} [{title}]({url}) — {desc}" if url_spacing_fixed else None
         # need to add or extend desc
         new_desc = desc_for_url(url)
         if desc and len(desc) < 10:

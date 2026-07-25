@@ -138,12 +138,18 @@ def heal_file(path: Path, dry_run: bool) -> dict:
     if r2.stderr.strip():
         print(r2.stderr.strip(), file=sys.stderr)
 
-    # 3. re-check
+    # 3. re-check —— 必須用部署閘門的同一個 profile
+    # 2026-07-25：此處原本不帶 --profile（走預設，較寬），於是 heal 完自報
+    # hard=0 而 CI 的 ci-deploy sweep 是 hard=12，PR #1248（旺旺）就這樣
+    # 帶紅了 main。heal 工具的「已修好」如果不是用部署的尺量的，那是一句
+    # 沒有兌現保證的話。profile 名與 .github/workflows/deploy.yml 的
+    # 「Validate article health (SSOT, full sweep)」那行一致。
     r3 = subprocess.run(
         [
             sys.executable,
             str(REPO / "scripts/tools/article-health.py"),
             str(rel.relative_to(REPO)),
+            "--profile=ci-deploy",
             "--output=json",
         ],
         cwd=REPO,
@@ -155,27 +161,38 @@ def heal_file(path: Path, dry_run: bool) -> dict:
     hard_msgs: list[str] = []
     try:
         data = json.loads(r3.stdout)
-        # schema: list of file results or dict
-        items = data if isinstance(data, list) else data.get("files", [data])
-        for item in items:
-            for v in item.get("violations", item.get("issues", [])):
-                sev = (v.get("severity") or "").lower()
-                msg = v.get("message") or ""
-                if sev == "hard":
-                    hard += 1
-                    hard_msgs.append(msg)
-                elif sev == "warn":
-                    warn += 1
-                    if "advanced-review" in msg or "max match" in msg:
-                        advanced.append(msg)
-                else:
-                    info += 1
-    except Exception:
-        # fallback: parse human summary lines
-        for line in r3.stdout.splitlines() + r3.stderr.splitlines():
-            if "hard=" in line.lower() or "HARD" in line:
-                pass
-        print(r3.stdout[:2000])
+        # article-health --output=json 的實際 schema：
+        #   {fail_on, reports: [{file, …, results: [{check, violations: [...]}]}]}
+        # 2026-07-25 修正：此處原本找 data["files"] 與 item["violations"]/
+        # ["issues"]，全部不存在，於是每次都拿到空清單、永遠回報 hard=0。
+        # PR #1248（旺旺）heal 完自報全綠、CI 卻擋下 12 個 hard——不是
+        # profile 太寬，是這裡從來沒讀到任何一筆。schema 對不上要 fail loud，
+        # 不能默默當成「沒有問題」。
+        reports = data.get("reports") if isinstance(data, dict) else data
+        if not isinstance(reports, list):
+            raise ValueError(f"預期 reports 是 list，拿到 {type(reports).__name__}")
+        seen_any_result = False
+        for rep in reports:
+            for res in rep.get("results", []):
+                seen_any_result = True
+                for v in res.get("violations", []):
+                    sev = (v.get("severity") or "").lower()
+                    msg = v.get("message") or ""
+                    if sev == "hard":
+                        hard += 1
+                        hard_msgs.append(msg)
+                    elif sev == "warn":
+                        warn += 1
+                        if "advanced-review" in msg or "max match" in msg:
+                            advanced.append(msg)
+                    else:
+                        info += 1
+        if not seen_any_result:
+            raise ValueError("reports 內沒有任何 results — schema 可能又變了")
+    except Exception as e:
+        print(f"🔴 re-check JSON 解析失敗（{e}）— 不當作通過，請人工確認：",
+              file=sys.stderr)
+        print(r3.stdout[:2000], file=sys.stderr)
         hard = -1
 
     return {
