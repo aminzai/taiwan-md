@@ -330,3 +330,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-25 | 061621-twmd-data-refresh-am | 晨間 14 步刷新全綠，freshness gate 零 stale；遇平行 259 檔 dirty batch，fetch 驗同步後繞過不碰 | 只 stage 自己任務範疇的 20 檔，別的 session 遺留工作留給下一手認領 | [→](memory/2026-07-25-061621-twmd-data-refresh-am.md) |
 | 2026-07-25 | 064545-twmd-spore-harvest-am | 5 天 gap 後 4 篇 OVERDUE spore 全清空，0 事實勘誤；@butterchiang 舊 reply 拖 11 天收尾不硬發；push 前 stash 259 檔陌生變更避免夾帶 | stash+pop 遇衝突就 reset 清掉套用狀態，stash 本身完整保留給下手 | [→](memory/2026-07-25-064545-twmd-spore-harvest-am.md) |
 | 2026-07-25 | 070908-twmd-feedback-triage | 6 天真空後首次 2 筆回報 file（#1251 隱形冠軍勘誤／#1252 張寶成延伸閱讀）；兩者 created_at 落在真空期內，證明前端未壞、斷的是這條 cron 自己（疑與 mouhouse-macmini 遷居重疊） | 隊列空≠前端壞；量測儀器本身也要列入懷疑清單 | [→](memory/2026-07-25-070908-twmd-feedback-triage.md) |
+| 2026-07-25 | 085339-manual | maintainer-am：21 issue + 3 PR 全審，2 PR merge／1 PR（食安遊行政治框架）reserve 給哲宇；6 issue 實質處理含隱形冠軍勘誤修正 | 政治敏感判準也許該看「爭議沉澱多久」，不只「有沒有涉及政治」 | [→](memory/2026-07-25-085339-manual.md) |
