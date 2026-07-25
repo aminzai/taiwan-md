@@ -59,6 +59,27 @@ MIRROR_ROOT = Path(os.path.expanduser("~/.claude/scheduled-tasks"))
 ALIASES = {"twmd-feedback-triage": "taiwanmd-routine-twmd-feedback-triage"}
 
 
+
+def local_node_name():
+    """本機節點名（`.taiwanmd/node-name.local`，gitignored）。給 🖥️ 節點標記比對用。"""
+    f = REPO_ROOT / ".taiwanmd" / "node-name.local"
+    try:
+        return f.read_text(encoding="utf-8").strip().splitlines()[0].strip()
+    except (OSError, IndexError):
+        return ""
+
+
+def belongs_to_this_node(row_text, node):
+    """排程表某列帶 `🖥️<節點名>` 時，只屬那台機器；沒有標記 = 所有營運機都該有。
+
+    沒這道判斷的話，只跑在指揮部的 flywheel-watch 會讓營運機每天被報成缺一條 prompt。
+    """
+    m = re.search(r"🖥️\s*([A-Za-z0-9._-]+)", row_text)
+    if not m:
+        return True
+    return m.group(1).strip() == node
+
+
 def die(msg, code=2):
     print(f"routine-sync: {msg}", file=sys.stderr)
     sys.exit(code)
@@ -72,16 +93,24 @@ def parse_ssot_table():
     if not ROUTINE_SSOT.exists():
         die(f"讀不到 SSOT {ROUTINE_SSOT}")
     tasks = {}
-    in_paused_table = False
+    node = local_node_name()
+    # 表格區塊三態。ROUTINE.md 的 taskId 出現在三種表裡，語意完全不同：
+    #   排程表     → 要對賬
+    #   ⏸️ PAUSED  → 要對賬，但 enabled=False（那一列本身不一定有 ⏸️ 字樣。2026-07-25
+    #                首跑踩到：music-media-audit 被讀成 enabled，差點去打開一條刻意關掉的 task）
+    #   🪦 已退休  → **整列跳過**。排程已刪、prompt 已歸檔，還撈進來就會永遠報
+    #                prompt-missing-both（同一個「認字不認表」bug 的第二面）
+    section = "schedule"
     for line in ROUTINE_SSOT.read_text(encoding="utf-8").splitlines():
-        # §⏸️ PAUSED 表裡的每一列都是停用的，即使那一列本身沒有 ⏸️ 字樣。
-        # （2026-07-25 首跑踩到：music-media-audit 躺在 PAUSED 表裡卻被讀成 enabled，
-        #  差點讓 routine 去打開一條哲宇刻意關掉的 task。）
         if "⏸️ PAUSED" in line:
-            in_paused_table = True
+            section = "paused"
+        elif "🪦 已退休" in line:
+            section = "retired"
         elif line.startswith("#"):
-            in_paused_table = False
+            section = "schedule"
         if not line.startswith("|"):
+            continue
+        if section == "retired":
             continue
         cells = [c.strip() for c in line.strip().strip("|").split("|")]
         if len(cells) < 3:
@@ -96,7 +125,9 @@ def parse_ssot_table():
                 cron = cm.group(1).strip()
                 break
         row = " ".join(cells)
-        enabled = not in_paused_table and "⏸️" not in row and "PAUSED" not in row
+        if not belongs_to_this_node(row, node):
+            continue
+        enabled = section != "paused" and "⏸️" not in row and "PAUSED" not in row
         tasks[m.group(1)] = {"cron": cron, "enabled": enabled, "title": cells[1]}
     return tasks
 

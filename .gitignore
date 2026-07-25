@@ -200,3 +200,6 @@ src/data/git-info.json
 public/api/rag/
 public/api/related/
 public/api/dashboard-newsroom.json
+
+# 節點名（machine-local，prepare-commit-msg 用；機器細節不進公開 repo）
+.taiwanmd/node-name.local
