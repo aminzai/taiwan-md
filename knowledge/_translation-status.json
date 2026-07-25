@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T23:25:13+08:00",
-    "zhCommitHead": "c802ed3aa",
+    "lastUpdated": "2026-07-25T23:35:52+08:00",
+    "zhCommitHead": "7b89d3ec4",
     "totalZh": 864,
     "activeLanguages": [
       "en",
@@ -83,18 +83,18 @@
       },
       "hi": {
         "total_zh": 864,
-        "fresh": 275,
+        "fresh": 276,
         "stale": 3,
         "metadata_stale": 2,
-        "missing": 584,
+        "missing": 583,
         "orphan": 0
       },
       "ar": {
         "total_zh": 864,
-        "fresh": 202,
+        "fresh": 204,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 661,
+        "missing": 659,
         "orphan": 0
       },
       "ru": {
@@ -16471,7 +16471,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/into-the-cellar-taiwan-game-podcast.md",
+          "translatedFrom": "Technology/不入地窖焉能睡覺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d882a7c06037e89c",
+          "sourceBodyHash": "sha256:abaef255e91e930b",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -42713,7 +42724,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/hsu-mei-hua-financial-commentator.md",
+          "translatedFrom": "People/許美華.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1b5d90dfca7bb147",
+          "sourceBodyHash": "sha256:e380720def0effee",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/hsu-mei-hua-financial-commentator.md",
@@ -48999,7 +49021,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/mavis-fan-singer.md",
+          "translatedFrom": "People/范曉萱.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:be33318bbff736f0",
+          "sourceBodyHash": "sha256:972eef53b5601304",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/mavis-fan-singer.md",
