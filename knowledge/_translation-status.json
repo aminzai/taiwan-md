@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T21:33:41+08:00",
-    "zhCommitHead": "686079659",
+    "lastUpdated": "2026-07-25T23:17:07+08:00",
+    "zhCommitHead": "07156ea8f",
     "totalZh": 864,
     "activeLanguages": [
       "en",
@@ -75,34 +75,34 @@
       },
       "pt": {
         "total_zh": 864,
-        "fresh": 335,
+        "fresh": 336,
         "stale": 8,
         "metadata_stale": 1,
-        "missing": 520,
+        "missing": 519,
         "orphan": 0
       },
       "hi": {
         "total_zh": 864,
-        "fresh": 266,
+        "fresh": 275,
         "stale": 3,
         "metadata_stale": 2,
-        "missing": 593,
+        "missing": 584,
         "orphan": 0
       },
       "ar": {
         "total_zh": 864,
-        "fresh": 190,
+        "fresh": 201,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 673,
+        "missing": 662,
         "orphan": 0
       },
       "ru": {
         "total_zh": 864,
-        "fresh": 211,
+        "fresh": 226,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 652,
+        "missing": 637,
         "orphan": 0
       }
     },
@@ -18190,7 +18190,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/taiwanese-modern-poetry.md",
+          "translatedFrom": "Art/台灣現代詩.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:76772688d61c205f",
+          "sourceBodyHash": "sha256:444e69e75502ca5e",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -18409,7 +18420,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/taiwanese-theater-and-performing-arts.md",
+          "translatedFrom": "Art/台灣劇場與表演藝術.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:cddfbcb9ade43ff2",
+          "sourceBodyHash": "sha256:0f8dee8662286dcf",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -18616,7 +18638,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/fab-dao.md",
+          "translatedFrom": "Art/FAB DAO與百岳計畫.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a569386269241d61",
+          "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -20846,7 +20879,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/traditional-arts-of-taiwan.md",
+          "translatedFrom": "Art/台灣傳統藝術.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8199dcc4edeb2fce",
+          "sourceBodyHash": "sha256:de7228ea44ad062e",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -21377,13 +21421,35 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/resources/mini-taiwan-pulse.md",
+          "translatedFrom": "resources/mini-taiwan-pulse.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:409b7d5c9d0f3bbd",
+          "sourceBodyHash": "sha256:215016d553b05404",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/resources/mini-taiwan-pulse.md",
+          "translatedFrom": "resources/mini-taiwan-pulse.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:409b7d5c9d0f3bbd",
+          "sourceBodyHash": "sha256:215016d553b05404",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -21584,13 +21650,35 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
+          "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0334fef76cff5db1",
+          "sourceBodyHash": "sha256:1f68acc56a66c3d5",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
+          "translatedFrom": "Lifestyle/台灣市場文化與傳統市場.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0334fef76cff5db1",
+          "sourceBodyHash": "sha256:1f68acc56a66c3d5",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -21791,13 +21879,35 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taiwan-youbike-and-micromobility-revolution.md",
+          "translatedFrom": "Lifestyle/台灣YouBike文化與城市微交通革命.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:71377fcdfb99db3b",
+          "sourceBodyHash": "sha256:b4c2bbb618fa4629",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/taiwan-youbike-and-micromobility-revolution.md",
+          "translatedFrom": "Lifestyle/台灣YouBike文化與城市微交通革命.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:71377fcdfb99db3b",
+          "sourceBodyHash": "sha256:b4c2bbb618fa4629",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -21906,7 +22016,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/wang-a-piau-pog-cards.md",
+          "translatedFrom": "Lifestyle/尪仔標.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:20a6968836a636ac",
+          "sourceBodyHash": "sha256:b413f755105bbf3c",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -22026,7 +22147,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/taiwan-parks-and-everyday-leisure.md",
+          "translatedFrom": "Lifestyle/台灣公園與日常休閒.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5627d196edbadc46",
+          "sourceBodyHash": "sha256:fb9597ed5d14a1d1",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -23294,7 +23426,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/taiwan-recycling-and-circular-living-culture.md",
+          "translatedFrom": "Lifestyle/台灣回收與資源循環文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:692a1090832374e5",
+          "sourceBodyHash": "sha256:258baccfb653bebb",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -23847,7 +23990,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/taiwan-arcade-culture-and-streetscapes.md",
+          "translatedFrom": "Lifestyle/台灣騎樓文化與街景.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2b233a45daf622e6",
+          "sourceBodyHash": "sha256:8f231aa6641c39c8",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -24065,7 +24219,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/taoyuan-airport.md",
+          "translatedFrom": "Lifestyle/桃園機場.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1479fcc5eaa28fc5",
+          "sourceBodyHash": "sha256:1fbc8f5240a8c4b8",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -27251,7 +27416,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/mingjian-incinerator.md",
+          "translatedFrom": "Society/名間焚化爐.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c4441b48a65d0629",
+          "sourceBodyHash": "sha256:8f8b961fdb887c42",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -27683,7 +27859,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/earthquakes-in-taiwan.md",
+          "translatedFrom": "Society/地震.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eb48495c8ad7ee41",
+          "sourceBodyHash": "sha256:58b5b912b5042f24",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/earthquakes-in-taiwan.md",
@@ -27912,7 +28099,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-tin-shed-houses.md",
+          "translatedFrom": "Society/鐵皮屋.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2513952bc4eab478",
+          "sourceBodyHash": "sha256:96d147de5fc403fe",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-tin-shed-houses.md",
@@ -28476,7 +28674,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-generations.md",
+          "translatedFrom": "Society/台灣的年級生世代.md",
+          "sourceCommitSha": "805200859",
+          "sourceContentHash": "sha256:1b3e5e3f22f40ead",
+          "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -29798,7 +30007,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-lithuania.md",
+          "translatedFrom": "Society/台灣與立陶宛.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:dc43efb5979a3c8f",
+          "sourceBodyHash": "sha256:0c2c65bdea71abe5",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-lithuania.md",
@@ -30158,10 +30378,32 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-tv-content-rating-system.md",
+          "translatedFrom": "Society/台灣電視分級制度.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d915e5527fc773c5",
+          "sourceBodyHash": "sha256:5588123f25ed059d",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/taiwan-tv-content-rating-system.md",
+          "translatedFrom": "Society/台灣電視分級制度.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d915e5527fc773c5",
+          "sourceBodyHash": "sha256:5588123f25ed059d",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -30877,7 +31119,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/long-term-care-system-development.md",
+          "translatedFrom": "Society/台灣長期照顧制度發展.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c735ef0db3cd23ac",
+          "sourceBodyHash": "sha256:738376ef61832978",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -31431,13 +31684,46 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/sport-stacking.md",
+          "translatedFrom": "Society/疊杯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:dea3707ce0e0d446",
+          "sourceBodyHash": "sha256:d825f2de734a7bac",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/sport-stacking.md",
+          "translatedFrom": "Society/疊杯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:dea3707ce0e0d446",
+          "sourceBodyHash": "sha256:d825f2de734a7bac",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/sport-stacking.md",
+          "translatedFrom": "Society/疊杯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:dea3707ce0e0d446",
+          "sourceBodyHash": "sha256:d825f2de734a7bac",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -32033,7 +32319,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/the-buffet-aunties-intuitive-pricing.md",
+          "translatedFrom": "Society/自助餐阿姨的謎之目測精算能力.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c40e9256e5031f97",
+          "sourceBodyHash": "sha256:b933f7d83c83a92f",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/the-buffet-aunties-intuitive-pricing.md",
@@ -32356,13 +32653,35 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/mainlanders-in-taiwan.md",
+          "translatedFrom": "Society/外省人.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:11472ed85277289a",
+          "sourceBodyHash": "sha256:78aa4d7a1743dd44",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/mainlanders-in-taiwan.md",
+          "translatedFrom": "Society/外省人.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:11472ed85277289a",
+          "sourceBodyHash": "sha256:78aa4d7a1743dd44",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -32577,7 +32896,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/environmental-awakening-and-net-zero-transition.md",
+          "translatedFrom": "Society/環保與永續發展.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:58130043015789fc",
+          "sourceBodyHash": "sha256:4ec983b4e284ca15",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/environmental-awakening-and-net-zero-transition.md",
@@ -32708,7 +33038,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/inclusive-travel-taiwan.md",
+          "translatedFrom": "Society/台灣全齡共融旅遊與生活文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8a4d3295bf443494",
+          "sourceBodyHash": "sha256:be2327c5c3e0748e",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/inclusive-travel-taiwan.md",
@@ -32861,7 +33202,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/migrant-workers-in-taiwan.md",
+          "translatedFrom": "Society/移工.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:56c198b69b8ecacd",
+          "sourceBodyHash": "sha256:223753ff8fc1f5ae",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/migrant-workers-in-taiwan.md",
@@ -32992,7 +33344,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/falun-gong-in-taiwan.md",
+          "translatedFrom": "Society/法輪功在台灣.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0b627bb39208e94e",
+          "sourceBodyHash": "sha256:506539ee82e6b605",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/falun-gong-in-taiwan.md",
@@ -40319,7 +40682,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Nature/formosan-landlocked-salmon.md",
+          "translatedFrom": "Nature/櫻花鉤吻鮭.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:9283c26216174046",
+          "sourceBodyHash": "sha256:36625e315aaacf51",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -42819,7 +43193,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/hello-nico-band.md",
+          "translatedFrom": "People/Hello-Nico.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ac6c714f4ff5fb1b",
+          "sourceBodyHash": "sha256:bab18d5114976850",
+          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/hello-nico-band.md",
@@ -43604,7 +43989,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/su-tseng-chang.md",
+          "translatedFrom": "People/蘇貞昌.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:479a8f6f5440400a",
+          "sourceBodyHash": "sha256:b005f4ff95b8ed92",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
