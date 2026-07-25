@@ -1,328 +1,329 @@
 ---
-title: 'Cómo nace un artículo: la línea de producción en seis etapas de Taiwan.md contra los instintos de escritura de la IA (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)'
-description: 'Cada artículo de Taiwan.md que lees tiene calidez, escenas y verificabilidad; detrás hay 6 etapas, más de veinte compuertas que no se pueden saltar y una redacción de IA que no escribe por sí misma. Esta máquina existe por una sola razón: los errores que la escritura con IA comete con más facilidad, como ordenar hechos encontrados en una cronología, producir frases plásticas sin información, retraducir resúmenes en inglés como citas falsas o contagiarse de los malos hábitos de textos antiguos. Este artículo desarma esa línea de producción, y también fue producido por ella.'
+title: 'Cómo nace un artículo: La línea de producción de seis etapas de Taiwan.md para combatir la intuición de la escritura por IA (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)'
+description: 'Cada artículo de Taiwan.md que lees tiene calidez, escenas y es verificable; detrás hay seis etapas, más de veinte puertas de control obligatorias y un equipo editorial de IA que no escribe el borrador. La única razón de ser de esta máquina es corregir los errores más comunes de la escritura por IA: ordenar hechos cronológicamente al buscar, generar frases plásticas sin información, traducir al chino resúmenes en inglés como citas falsas y contaminarse con los vicios de artículos antiguos. Este artículo desmonta esta línea de producción, y ella misma es el resultado de su ejecución.'
 date: 2026-06-19
-author: 'Taiwan.md'
-category: 'About'
 tags:
   [
-    'acerca de',
+    'about',
     'meta',
     'metodología de escritura',
     'curaduría',
     'rewrite-pipeline',
     'editorial',
     'semiont',
-    'escritura con IA',
+    'escritura por IA',
   ]
+author: 'Taiwan.md'
+category: 'About'
 readingTime: 11
+featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: false
+relatedDiary: "['2026-06-19-123349-manual']"
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: 'ddd0bc8f'
-sourceContentHash: 'sha256:6cb79369739e9f7e'
-sourceBodyHash: 'sha256:94e246d8ffddee69'
-translatedAt: '2026-06-19T11:57:16+08:00'
+sourceCommitSha: '984fb7892'
+sourceContentHash: 'sha256:92fcb394123e4aee'
+sourceBodyHash: 'sha256:b8984a2133e5738f'
+translatedAt: '2026-07-26T03:41:21+08:00'
 ---
 
-# Cómo nace un artículo: la línea de producción en seis etapas de Taiwan.md contra los instintos de escritura de la IA (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
+# Cómo nace un artículo: La línea de producción de seis etapas de Taiwan.md para combatir la intuición de la escritura por IA (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
 
-> **Resumen en 30 segundos:** Detrás de cada artículo de Taiwan.md que lees hay una línea de producción de seis etapas: primero pensar el punto de vista, luego buscar, escribir primero el cierre, verificar palabra por palabra, añadir lo visual y conectar en doble dirección. Esta línea no es un proceso genérico de «escribir bien»; cada una de sus compuertas apunta a un error típico de la escritura con IA: ordenar los hechos encontrados en una cronología, producir frases plásticas sin información, retraducir resúmenes en inglés como citas falsas o contagiarse de los malos hábitos de textos antiguos. Este artículo desarma esa línea de producción, y también fue producido por ella.
+> **Resumen en 30 segundos:** Cada artículo de Taiwan.md que lees tiene detrás una línea de producción de seis etapas: primero pensar la perspectiva, luego buscar, escribir el final primero, verificar palabra por palabra, añadir elementos visuales y crear enlaces bidireccionales. Esta línea de producción no es un flujo general de "escribir bien un artículo"; cada una de sus puertas está diseñada para bloquear un error específico de la escritura por IA: ordenar cronológicamente los hechos encontrados, generar frases plásticas sin información, traducir resúmenes en inglés como si fueran citas directas y contaminarse con los vicios de artículos antiguos. Este artículo desmonta esta línea de producción, y ella misma es el resultado de su ejecución.
 
-El 18 de junio de 2026, a las 19:53, un commit entró en silencio a la rama main. Se publicó un artículo sobre Elephant Gym, el trío taiwanés: 5.604 caracteres chinos, 56 notas al pie y 11 subtítulos escénicos[^1]. En ese momento no había nadie frente a la computadora. Fue el volante de rutina de Taiwan.md el que, una noche sin nadie de guardia, lo escribió y lo shippeó por su cuenta.
+El 18 de junio de 2026, a las 7:53 p. m., un _commit_ entró silenciosamente en la rama principal. Se publicó un artículo sobre la banda taiwanesa de tres miembros "Elephant Gym" (大象體操): 5.604 caracteres chinos, 56 notas al pie y 11 subtítulos basados en escenas[^1]. En ese momento, nadie estaba frente a una computadora. Fue el _routine_ (flujo automatizado) de Taiwan.md, en una noche sin turno de guardia, quien lo completó y _ship_ (publicó) por sí mismo.
 
-Pero antes de ese commit, ese artículo ya había pasado por cerca de cien búsquedas, había leído 59 fuentes y había visto cómo 12 verificaciones refutaban su formulación original. Recorrió 6 etapas, más de veinte compuertas que no se pueden saltar y movilizó una redacción de IA con división clara de tareas. Lo que lees son esos 5.604 caracteres que quedaron sobre la superficie del agua. Este artículo quiere mostrarte la máquina que opera por debajo.
+Pero antes de ese _commit_, este artículo ya había realizado casi cien búsquedas, leído 59 fuentes y tenido 12 verificaciones que invalidaron el enfoque original. Completó seis etapas y más de veinte puertas de control obligatorias, movilizando un equipo editorial de IA con roles bien definidos. Lo que lees son los 5.604 caracteres sobre la superficie. Este artículo quiere mostrarte la máquina bajo el agua.
 
 ```tw-figure
 Cerca de 100 búsquedas → 1 artículo
-La investigación de «Elephant Gym»: unas 95 consultas, 59 fuentes, 12 refutaciones
-Registro de rutina de Taiwan.md, 2026-06-18
+La investigación del artículo "Elephant Gym": ~95 consultas, 59 fuentes, 12 falsaciones
+Registro del routine de Taiwan.md, 2026-06-18
 ```
 
-## Por qué construir una máquina para un solo artículo
+## Por qué construir una máquina para un artículo
 
-Si le das a una IA un tema y le pides que escriba un artículo, probablemente hará esto: buscar un poco, ordenar los hechos encontrados en secuencia temporal, añadir a cada párrafo una conclusión que suene significativa y cerrar con una frase del tipo «seguirá desarrollándose en el futuro». Wikipedia ya tiene ese tipo de artículos; las granjas de contenido con IA producen decenas de miles cada día. Desde el primer día, Taiwan.md decidió no hacer eso.
+Si le das un tema a una IA y le pides que escriba un artículo, lo más probable es que haga lo siguiente: busque, ordene los hechos encontrados cronológicamente, añada al final de cada párrafo una conclusión que suene significativa y escriba al final una frase como "el futuro continuará desarrollándose". Wikipedia ya tiene ese tipo de artículos; los granjas de contenido por IA producen decenas de miles de ellos cada día. Desde el primer día, Taiwan.md decidió no hacer esto.
 
-El problema es que esa mala costumbre es el valor por defecto de la IA, no un fallo ocasional. REWRITE-PIPELINE la descompone en seis fracasos recurrentes: que los tokens se agoten hacia el final y la segunda mitad quede como borrador; que no haya puntos de control intermedios y la calidad caiga en silencio; que el cierre se deje para el final y, por falta de energía, se vuelva enlatado; que nadie recuerde las normas de texto enriquecido hacia el final; que distintos ángulos de entrada se traten como procesos independientes; y el más letal: buscar hechos y recién entonces volver a pensar un punto de vista, con el resultado de una crónica cronológica y densidad desequilibrada[^2].
+El problema es que estos malos hábitos son el valor predeterminado de la IA, no errores ocasionales. REWRITE-PIPELINE los descompone en seis tipos de fallos recurrentes: quedarse sin _tokens_ al final, convertir la segunda mitad en un borrador. No hay puntos de control intermedios, la calidad se desliza silenciosamente. Dejar el final para el final significa que, al agotarse la energía, se convierte en un producto enlatado. Las normas de texto enriquecido se olvidan al final; diferentes ángulos de enfoque se tratan como flujos independientes. Y el error más fatal: buscar hechos y luego pensar en la perspectiva; el resultado es una crónica con desequilibrio de densidad[^2].
 
-Por eso la lógica de diseño de esta línea es simple: para cada error probable, una compuerta que lo bloquee. No es un proceso universal de «buena escritura». Es el reverso del slop de IA.
+Por lo tanto, la lógica de diseño de esta línea de producción es simple: cada tipo de error posible tiene una puerta que lo bloquea. No es un flujo genérico de "buena escritura"; es el inverso de la _slop_ (basura) generada por IA.
 
-> **✦** «Wikipedia responde “qué es PTT”. Taiwan.md responde “por qué PTT merece 8 minutos de tu lectura”.»
+> **✦** "Wikipedia responde 'qué es PTT'. Taiwan.md responde 'por qué PTT vale la pena leerlo durante 8 minutos'."
 
-Así se ve Elephant Gym cuando sale del otro extremo de la línea:
+Así es como sale "Elephant Gym" desde el otro extremo de la línea de producción:
 
 ```tw-stat
-5.604 caracteres | Texto principal en chino | «Elephant Gym»
-56 | Notas al pie, cada una debe encontrarse con Ctrl-F | Verificación primaria
-11 secciones | Subtítulos escénicos, no cronológicos | Ritmo narrativo
-12 | Formulaciones refutadas en la etapa de investigación | Refutación primero
-Fuente: registro de rutina de Taiwan.md, 2026-06-18
+5.604 caracteres | Texto en chino | "Elephant Gym"
+56 notas | Al pie, cada una verificable con Ctrl-F | Verificación primaria
+11 párrafos | Subtítulos basados en escenas, no cronológicos | Ritmo narrativo
+12 puntos | Investigación que invalida el enfoque original | Prioridad de falsación
+Fuente: Registro del routine de Taiwan.md, 2026-06-18
 ```
 
-## Seis compuertas, cada una contra un fracaso
+## Seis etapas, cada una previene un fallo
 
-Esta línea de producción tiene seis etapas de principio a fin. Todo artículo debe recorrerlas, sin importar tema ni extensión.
+La línea de producción tiene seis etapas de principio a fin; cada artículo debe completarlas todas, sin importar el tema o la longitud.
 
-**Stage 0, punto de vista**, aclara primero qué tipo de memoria es este tema para los taiwaneses y dónde puede estar su tensión central. **Stage 1, investigación**, recién entonces empieza a buscar; cada texto exige al menos 80 consultas, con cuotas fijas: al menos 40 fuentes en chino, 20 en inglés, 15 primarias y 5 contrarias, para obligarse a buscar evidencia que contradiga la hipótesis[^3]. **Stage 2, escritura**, empieza por el cierre, porque cuando una persona llega al final ya está agotada; dejar la parte más importante para el final equivale a entregársela a tu yo más cansado. **Stage 3, verificación**, coteja palabra por palabra: aritmética, unidades y cada cita deben poder encontrarse con Ctrl-F en la fuente original. **Stage 4, forma**, añade visualizaciones y medios. **Stage 5, enlace**, conecta el artículo en doble dirección con otros textos de la base de conocimiento.
+**Etapa 0 Perspectiva**: Primero se debe clarificar qué tipo de memoria representa este artículo para los taiwaneses y dónde podría estar la tensión central. **Etapa 1 Investigación**: Solo entonces se comienza a buscar, con al menos 80 consultas en todo el artículo, y una cuota fija: al menos 40 fuentes en chino, 20 en inglés, 15 primarias y 5 de la parte contraria, obligando a buscar evidencia contraria a la hipótesis[^3]. **Etapa 2 Escritura**: La primera acción es escribir el final, porque al final del proceso la energía se agota; dejar el final más importante para el final significa entregárselo al yo más cansado. **Etapa 3 Verificación**: Verificación palabra por palabra: aritmética, unidades, cada cita debe ser localizable con Ctrl-F en la fuente original. **Etapa 4 Forma**: Añadir visualización y medios. **Etapa 5 Conexión**: Conectar este artículo bidireccionalmente con otros artículos de la base de conocimientos.
 
-La distribución de esfuerzo entre las seis etapas es deliberada. La redacción consume algo más del 40 %, pero búsqueda y verificación juntas se acercan a la mitad. Donde realmente se va el tiempo de un artículo no es en teclear, sino antes y después de teclear.
+La distribución del esfuerzo en las seis etapas es intencional. La escritura consume más del 40%, pero la búsqueda más la verificación juntas representan casi la mitad. Lo que realmente consume tiempo en un artículo no es teclear, sino lo que ocurre antes y después de teclear.
 
 ```tw-bars
-Dónde se gasta el esfuerzo de un artículo (límite de presupuesto de tokens por etapa, %)
-Stage 0 punto de vista | 12 | Pensamiento editorial previo
-Stage 1 investigación | 28 | Búsqueda ≥ 80 veces
-Stage 2 escritura | 42 | El cierre se escribe primero
-Stage 3 verificación | 18 | Verificación palabra por palabra
-Stage 4 forma | 8 | Visuales y medios
-Stage 5 enlace | 5 | Enlaces bidireccionales
-Fuente: presupuestos por etapa de REWRITE-PIPELINE v7.5
+Dónde se gasta el esfuerzo en un artículo (límite presupuestario de tokens por etapa, %)
+Etapa 0 Perspectiva | 12 | Reflexión previa a la edición
+Etapa 1 Investigación | 28 | Búsqueda ≥ 80 veces
+Etapa 2 Escritura | 42 | Escribir el final primero
+Etapa 3 Verificación | 18 | Verificación palabra por palabra
+Etapa 4 Forma | 8 | Visualización y medios
+Etapa 5 Conexión | 5 | Enlaces bidireccionales
+Fuente: Presupuestos por etapa de REWRITE-PIPELINE v7.5
 ```
 
-## Pensar claro antes de buscar
+## Pensar claramente antes de buscar
 
-De las seis etapas, la primera es la más contraintuitiva.
+De las seis etapas, la más contraintuitiva es la primera.
 
-La mayor parte de la escritura con IA funciona así: «buscar, descubrir hechos y luego añadir un punto de vista». En la v6.0, Taiwan.md invirtió el orden: antes de buscar, pensar como editor jefe seis preguntas, qué memoria representa este tema para los taiwaneses, qué facetas han sido ignoradas y cómo se conecta con nuestra vida e historia. Solo después de aclararlo se busca con preguntas para verificar.
+La mayoría de la escritura por IA es "buscar hechos y luego añadir una perspectiva". Taiwan.md invierte el orden en v6.0: antes de empezar a buscar, desde la perspectiva del editor jefe, se deben responder claramente seis preguntas: ¿qué memoria representa este tema para los taiwaneses, qué caras se han ignorado, cómo se conecta con nuestra historia de vida. Solo cuando se tiene claro, se busca para verificar con preguntas específicas.
 
-Hay un artículo que sirve como lección de por qué este orden importa tanto. Cuando se escribió sobre Apple Sidra, la línea primero buscó. Lo que encontró fue una crisis: en algún momento se vendió mal y casi desapareció. El artículo entero terminó convertido en una historia de peligro de extinción. El observador retrocedió y dijo: Apple Sidra es para los taiwaneses una memoria colectiva de 60 años, desde las botellas de vidrio de la época de la soda de canica hasta hoy[^4]. Escribirlo como una noticia de crisis era reducir la escala de esa memoria. La versión que buscó primero convirtió un recuerdo cálido en ansiedad.
+Por qué este orden es tan importante, lo demuestra una lección. Al escribir sobre "Apple Sprite" (蘋果西打), la línea de producción buscó primero y encontró una crisis de ventas estancadas y casi desaparición; el artículo se convirtió en una historia de una especie en peligro. El observador retrocedió y señaló que "Apple Sprite" es una memoria colectiva de 60 años para los taiwaneses, desde las botellas de vidrio de la era de las canicas hasta hoy[^4]. Tratarlo como una noticia de crisis reduce la escala de la memoria. La versión que buscó primero convirtió un recuerdo cálido en ansiedad.
 
 ```tw-versus
-Instinto de la IA: buscar y luego decidir | Taiwan.md: pensar y luego buscar
-Encuentra muchos hechos y luego fuerza un punto de vista | Decide primero el punto de vista y busca para verificarlo
-Mete todos los hechos en el artículo, con densidad desequilibrada | Recorta los hechos que no sostienen el punto de vista
-Sin un ancla transversal, el cierre se vuelve enlatado | Si no aparece un ancla verificable, se vuelve a pensar
-Escribe una cronología empresarial o un currículum | Escribe una historia que produce un «ah, claro»
-Fuente: REWRITE-PIPELINE v7.5 Stage 0 punto de vista
+Intuición de la IA: buscar y ya | Taiwan.md: pensar antes de buscar
+Encontrar hechos y forzar una perspectiva al final | Decidir la perspectiva primero, buscar para verificar con preguntas
+Llenar el artículo de hechos, desequilibrio de densidad | Cortar los hechos que no encajan en la perspectiva
+Sin ancla central, el final se vuelve genérico | Si no se encuentra una ancla correspondiente, replantear
+Convertirlo en un registro corporativo o currículum | Convertirlo en una historia de "ya veo"
+Fuente: REWRITE-PIPELINE v7.5 Etapa 0 Perspectiva
 ```
 
-## Buscar: escribir la investigación como una tesis
+## Buscar: escribir el informe de investigación como un artículo académico
 
-Una vez fijado el punto de vista, empieza la búsqueda. La búsqueda de Taiwan.md tiene dos cifras duras: un texto de fondo requiere al menos 80 consultas en todo el proceso, y las cuotas de fuentes son fijas: al menos 40 en chino, 20 en inglés, 15 primarias y 5 de postura contraria. La última canasta es la más fácil de saltarse por pereza; obliga a quien escribe a buscar evidencia que choque con su hipótesis, no solo pruebas que la confirmen.
+Una vez definida la perspectiva, se empieza a buscar. La búsqueda de Taiwan.md tiene dos números duros: un artículo de profundidad debe tener al menos 80 consultas en todo el proceso, y la cuota de fuentes está fija: al menos 40 en chino, 20 en inglés, 15 primarias y 5 de la parte contraria. El último grupo es el más fácil de saltarse por pereza; obliga al escritor a buscar evidencia que contradiga su hipótesis, en lugar de solo seleccionar la que la confirme.
 
-Buscar no significa meter resúmenes en el artículo. Detrás de cada texto de fondo hay un informe de investigación comparable a una tesis de posgrado, dividido en ocho secciones: punto de vista, registro de búsqueda, hallazgos por tema, banco de citas, contraejemplos y barandillas, paquete limpio de hechos para el redactor, bibliografía con lista de verificación, y una última sección con los reportes originales completos de cada agent de investigación. Una regla suena severa: si se buscó pero no se volcó la trayectoria original en el informe, cuenta como si no se hubiera buscado. El informe es la fuente de verdad del artículo. Primero debe pasar la revisión de una herramienta: al menos 25 fuentes no repetidas, fuentes en inglés no iguales a cero y fuentes primarias no iguales a cero[^9]. Si no pasa, el artículo ni siquiera obtiene permiso para empezar a escribirse.
+Terminar de buscar no es solo meter resúmenes en el artículo. Detrás de cada artículo de profundidad hay un informe de investigación comparable a un artículo de posgrado, dividido en ocho capítulos: perspectiva, registro de búsqueda, hallazgos por tema, banco de citas, contraejemplos y barreras, paquete de hechos limpios para el escritor, bibliografía y tabla de verificación, y la última sección con los informes originales palabra por palabra de cada agente de investigación. Una regla suena estricta: si se busca pero no se registra la pista original en el informe, se considera que no se buscó. El informe es la fuente de la verdad de este artículo; debe pasar primero la aceptación de una herramienta: al menos 25 fuentes no repetidas, las fuentes en inglés no pueden ser cero, las fuentes primarias no pueden ser cero[^9]. Si no pasa, el artículo ni siquiera tiene derecho a empezar a escribir.
 
 ```tw-stat
-≥ 80 | Profundidad de búsqueda de un texto de fondo | Chino 40 / inglés 20 / primarias 15 / contrarias 5
-8 secciones | Estructura del informe de investigación | Comparable a una tesis de posgrado
-≥ 25 | Fuentes no repetidas (para pasar herramienta) | Inglés≠0, primarias≠0
-Fuente: REWRITE-PIPELINE v7.5 Step 1.1 / 1.7
+≥ 80 veces | Profundidad de búsqueda de un artículo de profundidad | Chino 40 / Inglés 20 / Primario 15 / Contrario 5
+8 secciones | Estructura del informe de investigación | Comparable a un artículo de posgrado
+≥ 25 fuentes | Fuentes no repetidas (aceptación por herramienta) | Inglés ≠ 0, Primario ≠ 0
+Fuente: REWRITE-PIPELINE v7.5 Paso 1.1 / 1.7
 ```
 
-Los temas polémicos tienen una capa adicional. Para política, visiones históricas o políticas públicas, se envía otro agent «contrario», dedicado a buscar fuentes que se opongan a la postura del texto y que además tengan argumentos defendibles. Cada punto debe traer una URL. Si no alcanza, se escribe con honestidad «el discurso opositor es débil», sin inventar simetrías. Un artículo con una sola voz no cuenta aquí como terminado.
+En temas controversiales hay una capa adicional. Al escribir sobre política, visión histórica o políticas, se asigna un agente "contrario" especializado en encontrar fuentes opuestas a la postura del artículo pero bien argumentadas; cada una debe tener una URL verificable. Si no se completa la cuota, se escribe honestamente "la narrativa contraria es débil", sin forzarla. Un artículo con una sola voz no se considera terminado aquí.
 
-La compuerta de las citas tiene una línea roja. Las comillas son una promesa: lo que está dentro es la frase original. Por eso cada cita debe poder encontrarse con Ctrl-F en la fuente original. La trampa más común es que la herramienta recoja un sitio en chino pero devuelva un resumen en inglés, y quien escribe traduzca ese inglés de vuelta al chino como «cita directa». Eso es fabricación. En 2026, el spore sobre Lee Yang ya tropezó con esto: la herramienta devolvió en inglés «I was the earliest to arrive at school, yet I fell short of keeping pace with my classmate Qi-lin», y eso se retradujo al chino como «yo llegaba primero a la escuela, pero no podía seguirle el ritmo a Chi-lin». Pero la frase china real de Lee Yang era: «En la clase deportiva éramos 15; yo pertenecía al grupo de atrás, Chi-lin al de adelante»[^10]. El sentido se parece; el tono es completamente distinto. Por eso las citas retraducidas nunca valen.
+En la etapa de citas hay una línea roja. Las comillas son una promesa: lo que está entre comillas es la palabra exacta, por lo que cada cita debe ser localizable con Ctrl-F en la fuente original. La trampa más común es que la herramienta extrae de un sitio web en chino, pero devuelve un resumen en inglés, y el escritor traduce ese resumen en inglés al chino como "cita directa"; eso es una invención. En 2026, al escribir el artículo sobre Li Yang (李洋), se cometió este error: el resumen en inglés devuelto por la herramienta era "I was the earliest to arrive at school, yet I fell short of keeping pace with my classmate Qi-lin", que traducido al chino se convirtió en "llegué primero a la escuela, pero no pude seguir el ritmo de mi compañero Qi-lin". Sin embargo, la cita original en chino de Li Yang era "del equipo de educación física de 15 personas, yo soy del grupo de atrás, Qi-lin es del grupo de adelante"[^10]. El significado es similar, pero el tono es completamente diferente; por eso las citas traducidas de vuelta no cuentan.
 
-## Escribir: cada artículo necesita una persona
+## Escribir: cada artículo debe tener una persona
 
-Con los materiales listos, llega la compuerta que más esfuerzo consume. EDITORIAL es el documento con el que Taiwan.md se enseña a convertir materiales en artículos con temperatura. Abre con tres reglas de hierro: tener historia, no solo información; que cada hecho sea verificable; que cada artículo tenga una persona[^11].
+Una vez completados los materiales, se entra en la etapa más costosa. EDITORIAL es el documento de Taiwan.md que le enseña a sí mismo cómo convertir materiales en un artículo con calidez; establece tres reglas de hierro desde el principio: tener una historia, no solo información; cada hecho debe ser verificable; cada artículo debe tener una persona[^11].
 
-La tercera es la más fácil de olvidar y la más crucial. Las instituciones no se recuerdan; los conceptos tampoco. Las personas sí. Por eso un artículo sobre TSMC funciona mejor si empieza por una persona concreta que por la empresa; un artículo sobre el Seguro Nacional de Salud empieza por una tarjeta, una consulta, una persona. Devolver un tema abstracto a una persona que el lector pueda seguir es lo que le da temperatura al texto y lo que permite cumplir la promesa anterior: que al terminar alguien quiera contarlo.
+La tercera es la más fácil de ignorar, pero la más crucial. Las instituciones no hacen que la gente recuerde, los conceptos tampoco, las personas sí. Por lo tanto, en lugar de empezar una artículo sobre TSMC desde la empresa, es mejor empezar desde una persona específica; en lugar de empezar un artículo sobre el Seguro Médico Nacional desde el sistema, empezar desde una tarjeta, una sala de consulta, una persona. Reducir un tema abstracto a una persona que el lector puede seguir le da temperatura al artículo y cumple la promesa anterior, haciendo que el lector quiera compartirlo después de leerlo.
 
-## Las cinco cosas que hay que encontrar antes de escribir
+## Las cinco cosas que se deben encontrar antes de empezar a escribir
 
-EDITORIAL llama a la preparación previa a la escritura «los ojos para mirar el material»: cuando recibes materiales, primero debes encontrar cinco cosas; si no aparecen, no escribas[^5].
+EDITORIAL llama la preparación antes de entrar en el estado de escritura "los ojos para ver los materiales": al recibir un material, se deben encontrar cinco cosas; si no se encuentran, no se debe empezar a escribir[^5].
 
-**Contradicción**, una tensión central que pueda decirse en una frase: alguien hizo X aunque eso chocaba con Y, en lo que creía. **Objeto**, algo concreto que el lector pueda ver y tocar, como el pan de lichi y rosa de Wu Pao-chun o la esfera dorada de 660 toneladas suspendida en el piso 87. **Cita**, una frase dicha palabra por palabra por una persona real, porque poner comillas es prometer «esto fue lo que dijo», así que debe poder encontrarse con Ctrl-F en la fuente. **Escena**, un instante con tiempo, lugar y acción, que convierta «se aprobó la política» en «el 8 de enero de 2025, el día en que la Comisión de Bienestar Social, Salud y Medio Ambiente del Yuan Legislativo la revisó». **Detalle**, el color de la ropa, el clima de ese día, el tono al hablar: cosas que no existen en una ficha técnica, pero prueban que «alguien estuvo realmente allí».
+**Contradicción**: una tensión central expresable en una frase, donde alguien hace X pero contradice Y en lo que cree. **Objeto**: algo concreto que el lector pueda ver con los ojos y tocar con las manos, como el pan de lichi y rosa de Wu Bao-chun (吳寶春) o la gran bola dorada de 660 toneladas colgando en el piso 87. **Cita**: una palabra exacta dicha por una persona real; como las comillas son una promesa de "esta es la palabra original", debe ser localizable con Ctrl-F en la fuente. **Escena**: un instante con tiempo, lugar y acción, reduciendo "la política fue aprobada" a "el día de la revisión del Comité de Salud y Medio Ambiente del Yuan Legislativo el 8 de enero de 2025". **Detalle**: el color de la ropa, el clima de ese día, el tono de voz; estos son datos que no existen en las especificaciones, pero son la evidencia de "realmente hubo alguien en el lugar".
 
-De esas cinco, la contradicción va primero.
+De estas cinco, la contradicción va primero.
 
 ```tw-quote
-Si no encuentras la contradicción, este texto no debería reescribirse
-REWRITE-PIPELINE v7.5 | Stage 1.4 bloqueo de contradicción
+Si no se encuentra la contradicción, este artículo no debería ser reescrito
+REWRITE-PIPELINE v7.5 | Etapa 1.4 Bloquear la contradicción
 ```
 
-La tensión puede ser conflicto, fracaso o crisis, pero se mira desde «cómo llegó esto a ser lo que es hoy y hacia dónde va», no desde «qué está roto aquí y a quién hay que culpar». La misma contradicción, leída de forma constructiva, hace que el lector quiera participar; leída como apocalipsis, hace que quiera huir.
+La tensión puede ser un conflicto, un fracaso o una crisis, pero la perspectiva es "cómo se convirtió esto en lo de hoy, hacia dónde va", no "qué está roto aquí, a quién se debe culpar". La misma contradicción, vista de manera constructiva, hace que el lector quiera participar; vista de manera apocalíptica, hace que el lector quiera huir.
 
-## Escribir primero el cierre, guardar algo para la apertura
+## Escribir el final primero, dejar la mano para el inicio
 
-El orden de escritura es exactamente inverso al orden de lectura.
+El orden de escritura es exactamente el opuesto al orden de lectura.
 
-La primera acción de Stage 2 es escribir el cierre. Suena raro, pero la razón es práctica: al llegar al final, la energía se agota. Dejar el cierre, la parte más importante, para el final equivale a entregárselo a tu yo más cansado, y el resultado suele ser una fórmula como «seguirá brillando». Escribir primero el cierre bloquea ese punto de colapso. Un buen cierre tiene dos tareas: recuperar una imagen sembrada en la apertura y darle al lector una posición un nivel más profunda que la inicial, una posición desde la cual quiera hacer algo.
+La primera acción de la Etapa 2 es escribir el final. Suena extraño, pero la razón es sólida: al final del proceso, la energía se agota; dejar el final más importante para el final significa entregárselo al yo más cansado, cuyo resultado suele ser "seguirá brillando" (producto enlatado). Escribir el final primero bloquea este punto de colapso. Un buen final tiene dos tareas: recuperar una imagen plantada al inicio y dar al lector una posición más profunda que la del inicio, una posición que quiera hacer algo.
 
-Taiwan.md ha recogido seis tipos de buenos cierres: el de resonancia, que deja una imagen para que el lector piense por sí mismo; el de giro, cuya última frase invierte lo anterior; el de salto temporal, que empuja la cámara al futuro o la trae al pasado; el de pregunta, que deja una pregunta real; el de zona gris, que no resuelve la contradicción y la deja allí; y el de cierre narrativo, que vuelve a la apertura y completa el círculo. El artículo sobre la garza nocturna coroninegra es un modelo de cierre circular: la apertura dice «En 1865, Swinhoe recogió un ejemplar en Tamsui y anotó dos palabras: rara»; el cierre dice «Swinhoe escribió “rara” en Tamsui hace 160 años; hoy, en el Parque Forestal Daan, escuchamos cada día su llamado bajo: “wu, wu, wu”»[^12]. Las mismas dos palabras, gracias a toda la acumulación intermedia, significan otra cosa cuando el lector vuelve a mirarlas.
+Taiwan.md reconoce seis tipos de buenos finales: el de resonancia que deja una imagen para que el lector piense, el de giro que invalida lo anterior en la última frase, el de salto temporal que empuja la cámara al futuro o la vuelve al pasado, el de pregunta que deja una pregunta real, el de zona gris que no resuelve la contradicción y la deja ahí, y el de cierre narrativo que vuelve al inicio. El artículo sobre el búho papamoscas negro (黑冠麻鷺) es el modelo de cierre: el inicio es "En 1865, Swinhoe encontró un espécimen en Tamsui, el registro escribió dos palabras: Raro", el final es "Swinhoe escribió 'Raro' en Tamsui hace 160 años, hoy escuchamos su sonido grave 'wu, wu, wu' en el Parque Forestal Da'an cada día"[^12]. Las mismas dos palabras, debido a la acumulación de todo el artículo, tienen un significado diferente cuando el lector las mira de nuevo.
 
-La apertura, en cambio, debe guardar una carta. Las primeras tres frases deciden si el lector se queda, pero su tarea es invitarlo a entrar en escena, no contar todo el acontecimiento. «El día que llegó el tifón Toraji, la maestra Hsu Pi-lan, de la Escuela Primaria Chingshan de Changhua, estaba en la escuela» se detiene en «estaba en la escuela». El lector quiere saber qué ocurrió después. Si lo conviertes en un lead periodístico completo, con tiempo, lugar, hecho, acción y resultado, el lector recibe la información, pero pierde la tracción para seguir leyendo.
+El inicio, por el contrario, debe dejar una carta bajo la manga. Las primeras tres frases determinan si el lector se queda, pero su tarea es invitar al lector al lugar, no terminar el evento. "El día que llegó el tifón Toraji, la profesora Hsu Pi-lan (許碧蘭) de la Escuela Primaria Qingshan de Changhua estaba en la escuela", esta frase se detiene en "en la escuela"; el lector querrá saber qué pasó después. Convertirlo en un _lead_ periodístico completo, explicando tiempo, lugar, evento, acción y resultado, le da información al lector, pero pierde la fuerza de tirón para seguir leyendo.
 
-## El título es una promesa que debe merecer el clic
+## El título es una promesa que debe ser clicada
 
-El título es la primera impresión del lector. Taiwan.md tiene para él un formato rígido: todos los artículos usan el «sándwich de dos puntos», tema: subtítulo hook. Escribir solo un sustantivo es un stub enciclopédico y choca con el espíritu curatorial.
+El título es la primera impresión del lector; Taiwan.md tiene un formato estricto para él: todos los artículos siguen el "tema: gancho secundario" del sándwich de dos puntos. Escribir solo un sustantivo es un _stub_ de enciclopedia, en conflicto con el espíritu de la curaduría.
 
 ```tw-versus
-Stub enciclopédico (malo) | Sándwich de dos puntos (bueno)
-Jay Chou | Jay Chou: veinticinco años desde la sala de ensayo junto a 4 in Love hasta Secret
-Tai Tzu-ying | Tai Tzu-ying: de niña de Zuoying, Kaohsiung, a tres veces reina mundial, una resistencia silenciosa fuera de la cancha
-Día libre por tifón | Día libre por tifón: descanso de quién, turno de quién
-Fuente: EDITORIAL v6.12 §Title sándwich de dos puntos
+*Stub* de enciclopedia (malo) | Sándwich de dos puntos (bueno)
+Jay Chou | Jay Chou: Desde el cuarto de ensayo vecino de 4 in Love hasta los 25 años de "The Secret"
+Tai Tzu-ying | Tai Tzu-ying: De la chica de Zuoying, Kaohsiung a la tercera campeona mundial, la resistencia silenciosa fuera de la cancha
+Día de descanso por tifón | Día de descanso por tifón: ¿De quién es el descanso, de quién es el trabajo?
+Fuente: EDITORIAL v6.12 §Título Sándwich de dos puntos
 ```
 
-La frase del subtítulo debe poder tuitearse sola y ser tan concreta que el lector la capte de un vistazo. La IA sabe comprimir la contradicción central en una frase abstracta bonita, pero el resultado es que cada palabra clave es un sustantivo abstracto y el lector solo puede preguntar «¿qué de qué?». El criterio es simple: dale el título a alguien que no leyó el artículo. ¿Puede señalar cada palabra clave y decir «esto se refiere a tal cosa concreta»? «Seguro Nacional de Salud: una tarjeta que sostiene el número uno del mundo y un futuro que ya no aguanta» usa una tarjeta; «Los residuos nucleares de la Isla de las Orquídeas: prometieron tres años, llevan cuarenta» usa un contraste numérico. Las palabras concretas hacen que alguien haga clic porque piensa «esto quiero saberlo». Las granjas de contenido usan «impactante» para engañar clics[^13].
+La frase secundaria debe poder tuitearse sola y ser lo suficientemente específica para que el lector la capture de un vistazo. La IA es muy buena comprimiendo la contradicción central en una frase abstracta bonita; el resultado es que cada palabra clave es un sustantivo abstracto, y el lector solo puede preguntar "el qué de qué". El criterio es simple: darle el título a alguien que no ha leído el artículo; ¿puede señalar cada palabra clave y decir "esto se refiere a qué cosa concreta"? "Seguro Médico Nacional: un mundo sostenido por una tarjeta, un futuro insostenible" usa una tarjeta; "Residuos nucleares de Lanyu: prometidos tres años, dejados por cuarenta" usa un contraste numérico. Las palabras concretas hacen que la gente haga clic porque "quiero saber sobre esto"; las granjas de contenido dependen de "impactante" para engañar los clics[^13].
 
 ## Una contradicción debe sostener todo el artículo
 
-La contradicción central que encontraste no puede aparecer una vez en la apertura y desaparecer. Debe funcionar como una columna vertebral: aparecer en la apertura, el tramo medio y el cierre para que el artículo se mantenga de pie.
+La contradicción central encontrada no debe desaparecer después de mencionarla al inicio. Debe ser como una columna vertebral, apareciendo una vez al inicio, una vez en el medio y una vez al final; solo así el artículo se mantiene en pie.
 
-La columna del artículo sobre la garza nocturna coroninegra era una frase: «El ave no cambió; cambió la tierra». Aparece en el resumen, en el centro varía como «el movimiento no era incorrecto; el escenario sí», y al final se condensa en «la historia de cómo una isla conserva, entre cemento, un pequeño sotobosque húmedo». La misma contradicción varía cinco veces; solo entonces el lector entiende el «y entonces qué». Sin esa columna, el artículo se dispersa en una línea de tiempo o en un conjunto de cortes temáticos.
+La columna vertebral del artículo sobre el búho papamoscas negro es una frase: "Los pájaros no cambiaron, la tierra cambió". Aparece en el resumen, se transforma en el medio en "la acción está bien, el escenario está equivocado", y se cierra al final en "la historia de cómo una isla retuvo un pequeño estrato húmedo de bosque entre el cemento". La misma contradicción se varía cinco veces; solo al final el lector captura el "entonces qué". Sin esta columna vertebral, el artículo se dispersa en una línea de tiempo o en una pila de rebanadas temáticas.
 
-Además de la columna, cada párrafo debe tener suelo. Taiwan.md tiene una disciplina de concreción: cada párrafo narrativo debe incluir al menos un ancla concreta: nombre de persona, año, lugar, cifra precisa, título de obra o cita. Que lo abstracto tape el detalle es la huella más común de la escritura con IA. Si cada párrafo carece de anclas, tras leer todo solo queda en la cabeza algo como «fue una persona influyente». El método de revisión se llama prueba inversa de abstracción: tapa verbos abstractos como «demuestra», «refleja» o «simboliza». ¿Lo que queda puede sostenerse como párrafo? Si no puede, hay exceso de abstracción y falta concreción.
+Además de la columna vertebral, cada párrafo debe asentarse. Taiwan.md tiene una disciplina de concreción: cada párrafo narrativo debe tener al menos un ancla concreta: nombre de persona, año, lugar, número preciso, nombre de obra, cita. La abstracción que cubre los detalles es la huella dactilar más común de la escritura por IA; sin anclas en cada párrafo, al leer todo el artículo el cerebro solo recuerda "es una persona influyente" (vacío). El método de verificación se llama prueba de abstracción inversa: si se ocultan los verbos abstractos como "demostrar", "reflejar", "simbolizar" en el párrafo, ¿puede el resto funcionar como párrafo independiente? Si no, hay demasiada abstracción; se deben añadir concreciones.
 
-Tener punto de vista no equivale a tomar partido. Un punto de vista real se atreve a decir: «la explicación corriente invierte la causalidad». El artículo sobre la garza nocturna coroninegra desmontó activamente una explicación popular de divulgación: muchos dicen que «se adaptó a la ciudad y dejó de temer a las personas». Suena cómodo, pero invierte causa y efecto. Los reflejos nerviosos de las garzas no evolucionan en treinta años hacia la indiferencia ante humanos; lo más cercano a la verdad es que aumentaron los espacios verdes de Taipéi. Esa explicación inversa debe entrar en la narración principal, no como descargo de responsabilidad al final.
+Tener una perspectiva no significa tomar partido. La verdadera perspectiva se atreve a decir "la narrativa común invierte la causa y el efecto". El artículo sobre el búho papamoscas negro desmontó activamente una narrativa científica común: mucha gente dice "se adaptó a la ciudad, se volvió indiferente a las personas"; esta narrativa es conveniente, pero invierte la causa y el efecto; los reflejos neurales de las aves de la familia Ardeidae no evolucionan para ser indiferentes a los humanos en 30 años; la verdad más cercana es que Taiwán tiene más espacios verdes. Esta explicación inversa debe integrarse en la narrativa principal, no añadirse como una cláusula de exención al final.
 
-Por último está la respiración. En crónica narrativa, un párrafo carga un argumento, con causalidad, detalles y escena; no un hecho aislado. Cortar un hecho en cada párrafo produce una lectura triturada. Las transiciones tampoco dependen de muletillas como «por otra parte» o «vale la pena señalar»; la cola de un párrafo debe llevar naturalmente a la cabeza del siguiente. Si la investigación te entrega cuatro causas, escríbelas como frases fluidas, no como «primero, segundo, tercero, cuarto». Aunque lo envuelvas en prose, seguirá sonando a lista.
+Finalmente, la respiración. Un párrafo de ensayo no ficcional asume un argumento, que contiene causa, detalle y escena, no un hecho aislado. Cortar un hecho en un párrafo, otro hecho en otro, se lee como picado; los párrafos no se unen forzosamente con marcos como "por otro lado" o "es notable", sino que la cola del párrafo anterior lleva naturalmente al inicio del siguiente. Si los materiales de investigación te dan cuatro razones, escríbelas como una oración fluida, no como una lista "primero, segundo, tercero, cuarto"; aunque se envuelva en prosa, sigue sonando a lista.
 
-## Por qué una frase plástica es plástica
+## Por qué las frases plásticas son plásticas
 
-Una vez encontradas las cinco cosas y empezada la escritura, el gran enemigo son las frases plásticas.
+Una vez encontradas las cinco cosas y empezando a escribir, el mayor enemigo son las frases plásticas.
 
-La naturaleza de una frase plástica es fácil de reconocer: si la quitas, el artículo no pierde información. Ocupa espacio, pero no carga significado. EDITORIAL enumera cinco especies. La más común es el «pegamento universal», como «demuestra el espíritu de X»: si cambias el sujeto de Taiwán a Japón, sigue funcionando. Otra es la «falsa elevación», como «no solo es cantante, sino también símbolo cultural»: si borras la primera mitad, la segunda se sostiene sola.
+La esencia de una frase plástica es fácil de reconocer: si la quitas, el artículo no pierde ninguna información. Ocupa espacio, pero no carga significado. EDITORIAL enumera cinco variedades; la más común es la "cola universal", como "demostró el espíritu de X", que funciona si cambias el sujeto de Taiwán a Japón; y la "falsa actualización", como "no solo es cantante, sino un símbolo cultural", donde la segunda mitad se sostiene sola si se quita la primera.
 
-Una variante más escondida es la frase de oposición «no es X, es Y». Suena perspicaz, pero al desmontarla, X suele ser una postura que la propia IA atribuye al lector para luego invertirla como Y y parecer profunda. El problema es que la mayoría de lectores nunca presupuso X. X es un espantapájaros fabricado para preparar Y. Borra X y escribe Y directamente: el artículo será más directo y tendrá más confianza. La regla es tan estricta que tiene cifra: en un texto largo de 1.500 caracteres, «no es X sino Y» y todas sus variantes no pueden superar 3 apariciones.
-
-```tw-versus
-Versión plástica: sirve con cualquier sujeto | Versión curatorial: solo pertenece a este caso
-Demuestra la fuerza de los semiconductores taiwaneses | TSMC captó el 65 % del mercado mundial de procesos avanzados
-No solo es cantante, sino símbolo cultural | «Rice Field» de Jay Chou sonó durante tres meses como canción de consuelo en las zonas del terremoto de Sichuan
-Tuvo un impacto profundo en el desarrollo democrático de Taiwán | La primera elección presidencial directa tras el levantamiento de la ley marcial alcanzó 76 % de participación
-Un logro de ingeniería asombroso | Construir el edificio más alto del mundo en una isla con 3,7 terremotos anuales de promedio
-Fuente: EDITORIAL v6.12 §contraste plástico vs curatorial
-```
-
-> **📝 Nota de curaduría**: Este mismo párrafo que estás leyendo acaba de pasar por la misma revisión. Taiwan.md tiene una herramienta automática que detecta frases plásticas, falsas oposiciones del tipo «no es X sino Y» y densidad de guiones largos en cada artículo. Al escribir este texto sobre la línea de producción, ninguna de esas reglas se relajó. Un artículo sobre disciplina no tiene autoridad para hablar de ella si él mismo rompe la disciplina.
-
-## Hasta la sintaxis debe quitarse el olor a traducción
-
-Las frases plásticas son vacías; las frases europeizadas son otra enfermedad: tienen contenido, pero su sintaxis es inglesa. El chino generado por IA nace con tono de traducción, porque en el fondo piensa con estructuras del inglés. Un artículo puede no tener ninguna frase plástica y aun así leerse entero como subtítulos.
-
-Algunos problemas frecuentes: abuso de la voz pasiva, como «es considerado la industria más importante», cuando basta «se le llama la industria más importante»; el infierno de 的, como «la esencia de la cultura de los mercados nocturnos de Taiwán», donde tres «de» seguidos piden partir la frase; verbos débiles empaquetados, como «realizó una investigación profunda sobre esto», mejor «investigó a fondo»; y «a través de... para», que nueve de cada diez veces puede cambiarse por «con» o eliminarse. Solo hay un método de revisión: leer en voz alta. Si suena como subtítulo traducido, es europeizado; si suena como una persona hablando, pasa. La raíz de esta mirada es el ensayo de Yu Kwang-chung, «Sobre la normalidad y la anormalidad del chino», de hace cuarenta años. Una fórmula lo resume: una abuela no diría «a través de», ni diría «como madre».
-
-## Escribir Taiwán como un lugar en el que dan ganas de participar
-
-Lo plástico y lo europeizado son disciplinas de la frase. Un nivel más arriba está la postura.
-
-Taiwan.md escribe sobre temas serios: soberanía, operaciones cognitivas, población, medio ambiente. También los escribe con profundidad, pero con una línea: esperanza fundada en honestidad. Ve todos los problemas, pero se niega a hacer que el lector se vaya con ansiedad, pequeñez o impotencia. El criterio cabe en una frase: al terminar, ¿el lector quiere hacer algo por Taiwán, o queda más ansioso y con la sensación de no ser suficiente? Lo primero se conserva; lo segundo se reescribe. Por eso una misma crisis se enmarca como «cómo llegó esto a ser lo que es hoy y hacia dónde va», no como «se acaba, debes tener miedo». Fórmulas mediáticas de ansiedad como «X está desapareciendo» o «si no actuamos ya será demasiado tarde» tienen la misma forma que las operaciones cognitivas; no se usan.
-
-La contención es la otra cara. Se puede escribir sobre familias, enfermedades, contradicciones y fracasos de personas reales, pero hay que detenerse ante las escenas concretas de muerte, suicidio o tragedia familiar. La muerte puede escribirse con tiempo, lugar y hechos publicados; no reconstruir segundo a segundo los últimos momentos. La autolesión puede escribirse como hecho y contexto social, no con detalles de método. El criterio también cabe en una frase: si la persona involucrada o sus deudos leyeran ese pasaje, ¿sentirían el tratamiento serio de un documentalista o el acercamiento de un medio que quiere exprimir lágrimas?
-
-También hay un hábito pequeño y crucial: escribir «Taiwán» con amplitud. La huella se esconde en el tono de traducción de agencias extranjeras: para no decir Taiwán, se usa «esta isla» o «este lugar» como sustituto, sobre todo en títulos y aperturas. La isla como imagen literaria o escena geográfica, por supuesto, puede y debe aparecer. Lo que hay que eliminar es esa evasión que no se atreve a escribir Taiwán.
-
-## La diferencia que se entiende de un vistazo
-
-La forma de todas estas disciplinas juntas se ve más rápido en un antes y después.
-
-Para escribir sobre Tai Tzu-ying, la plantilla vacía de la IA diría: «famosa jugadora taiwanesa de bádminton, con desempeño sobresaliente en la escena internacional, múltiples premios y gloria para Taiwán», seguida de cuatro bullets: principales logros, estilo de juego, influencia internacional, contribución social. En todo el pasaje no hay un año concreto ni un partido concreto. El sujeto podría cambiarse por cualquier atleta y seguiría funcionando.
+Un tipo más oculto es la frase de oposición "no es X, es Y". Suena muy perspicaz, pero al desmontarla, X suele ser una postura que la IA asume que el lector tiene por defecto, y al invertirla a Y parece profunda. El problema es que la mayoría de los lectores no tienen por defecto X; X es un espantapájaros fabricado para preparar Y. Quitar X y escribir Y directamente hace el artículo más directo y con más confianza. Esta regla es estricta hasta con números: en un artículo de 1500 caracteres, el total de "no es X es Y" y todas sus variantes no puede exceder 3 lugares.
 
 ```tw-versus
-Plantilla vacía de IA | Versión curatorial
-Desempeño sobresaliente, dio gloria a Taiwán | Llegó al número uno del mundo y se quedó allí 214 semanas
-Cuatro bullets: logros / estilo / influencia / contribución | Lloró tras la final por el oro de Tokio 2020 y llegó al primer lugar de búsquedas de Google Taiwán
-El sujeto puede ser cualquiera | Desde los 6 años, 6 horas diarias; estilo de zurda «maga»
-Fuente: EDITORIAL v6.12 §Before/After Tai Tzu-ying
+Versión plástica: funciona cambiando el sujeto | Versión curatorial: solo para esta cosa
+Demostró el poder de la semiconductora de Taiwán | TSMC obtiene el 65% del mercado global de procesos avanzados
+No solo es cantante, sino un símbolo cultural | Jay Chou "Dao Xiang" se transmitió como canción de consuelo durante tres meses en la zona de desastre del terremoto de Sichuan
+Impactó profundamente en el desarrollo democrático de Taiwán | La primera elección presidencial directa después de la ley marcial, 76% de participación
+Logro de ingeniería asombroso | Construir el rascacielos más alto del mundo en una isla con un promedio de 3,7 terremotos al año
+Fuente: EDITORIAL v6.12 §Plástico vs Curaduría对照
 ```
 
-La versión curatorial hace una sola cosa: cambiar cada adjetivo abstracto por un hecho verificable. Las 214 semanas son la racha continua más larga de la historia del bádminton femenino. La final olímpica de 2020 que perdió ante Chen Yufei es un momento que Taiwán recuerda colectivamente. La temperatura se esconde en lugares como «el instante de la derrota fue precisamente el que el lector recordó». El artículo sobre Mayday funciona igual: en vez de escribir «una de las bandas de rock más influyentes de Taiwán, conquistó a sus fans con música positiva», es mejor escribir «cinco estudiantes de la Escuela Secundaria Afiliada a la Universidad Normal Nacional de Taiwán tocaron una canción en un escenario al aire libre; 28 años después hicieron dos conciertos seguidos en el Madison Square Garden de Nueva York, el mismo escenario que pisaron los Beatles al llegar a Estados Unidos, y las entradas se agotaron en 48 horas»[^13].
+> **📝 Nota del curador**: El párrafo que estás leyendo ahora mismo también fue escaneado por el mismo conjunto de verificaciones. Taiwan.md tiene una herramienta automática que captura las frases plásticas de cada artículo, las falsas oposiciones "no es X es Y" y la densidad de los guiones largos. Al escribir este artículo "presentando la línea de producción", ninguna de estas reglas se relajó. Un artículo sobre disciplina que rompe sus propias reglas no tiene derecho a hablar.
 
-## Una redacción que no escribe por sí misma
+## Incluso la gramática debe eliminar el estilo de traducción
 
-Llegados aquí aparece una pregunta: ¿quién escribe?
+Las frases plásticas son palabras vacías; las frases eurocéntricas son otra enfermedad: el contenido está, pero la gramática es en inglés. El chino generado por IA tiene inherentemente un estilo de traducción, porque su base piensa en estructuras de oraciones en inglés; un artículo puede tener cero frases plásticas, pero leerse como subtítulos en toda la extensión.
 
-La respuesta es un poco anómala. La session que dirige todo el artículo no escribe deliberadamente. La razón está en una regla de hierro: cuando una IA lee un texto viejo de mala calidad, imita sin darse cuenta su tono, estructura e incluso sus malos hábitos. Reescribir usando el texto antiguo como armazón equivale a dejar que un virus infecte contenido nuevo.
+Algunos defectos de alta frecuencia: abuso de la voz pasiva, "se considera la industria más importante"; mejor decir "la gente considera la industria más importante"; el infierno del "de" (的), "el de la noche de Taiwán el de la cultura del espíritu"; con tres "de" seguidos, se debe dividir la oración; verbos débiles empaquetados, "realizó una investigación profunda sobre esto"; escribir directamente "investigó profundamente"; y "a través de... para...", el 90% puede cambiarse por "usar" o simplemente eliminarse. El único método de verificación es leerlo en voz alta: si suena como subtítulos traducidos, es eurocéntrico; si suena como una persona hablando, pasa. La raíz de esta mirada está en el artículo de Yu Kwang-chung (余光中) de hace 40 años "Sobre lo normal y lo anormal del chino". Una frase mnemotécnica para cerrar: "Tu abuela no diría 'a través de', ni diría 'como una madre'".
 
-Por eso la línea separa roles[^6]. La session principal actúa como editor jefe: coordina, verifica y hace la revisión final, pero no redacta. Quien escribe de verdad es otro redactor de IA limpio. Lee el informe de investigación completo y el punto de vista ya pensado, pero no ve el texto antiguo problemático ni las quejas o correcciones de lectores. Escribe como si fuera la primera vez que aborda ese tema, pero con todos los materiales ya verificados en la mano. El punto de vista se entrega al modelo con mejor juicio; para imaginar reacciones divergentes de lectores se envían cuatro modelos paralelos; la verificación palabra por palabra se delega a otro grupo de modelos baratos que contrastan con fuentes primarias. Detrás de un artículo hay una redacción con división de trabajo.
+## Escribir Taiwán como un lugar al que la gente quiera participar
 
-Esta división se ganó a través de degradaciones. Una vez se le dio al redactor solo un resumen, sin dejarlo leer los materiales originales, y el texto empeoró de forma visible; el observador lo señaló con una frase: «con razón los artículos se han vuelto peores últimamente». Otra vez se le pidió al redactor «sobrescribir el texto viejo sin leerlo», una contradicción a nivel de herramienta; tuvo que leerlo y se infectó. La solución final fue esta: el redactor siempre escribe primero en un archivo de borrador nuevo; solo después de que el editor jefe compara la versión nueva y la vieja, este cubre manualmente el archivo formal.
+Lo plástico y lo eurocéntrico son disciplinas a nivel de oración; un nivel más arriba está la actitud.
 
-## Después de escribir, volver a desarmar en átomos y verificar
+Taiwan.md escribe temas serios: soberanía, guerra cognitiva, población, medio ambiente; lo escribe en profundidad, pero hay una línea: la esperanza está sobre la honestidad. Ver todos los problemas, pero solo se niega a que el lector se vaya con ansiedad, insignificancia e impotencia. El criterio es una frase: al terminar de leer, ¿el lector quiere hacer más por Taiwán o se siente más ansioso y menos competente? El primero se queda, el segundo se corrige. Por lo tanto, la misma crisis, el marco es "cómo se convirtió esto en lo de hoy, hacia dónde va", no "se está acabando, debes tener miedo". Los medios de ansiedad "X se está desapareciendo", "si no se hace ahora, será demasiado tarde" tienen la misma forma que la guerra cognitiva; no se usan.
 
-Para artículos importantes, «terminado» no significa «listo para publicar». Stage 3 tiene una compuerta llamada «verificación total del producto». Desarma el artículo entero en átomos factuales y envía un grupo de verificadores a contrastarlos con fuentes primarias. Su tarea es atacar, no respaldar: comparar palabra por palabra cada frase entre comillas, confirmar que cada nota al pie corresponda a la oración que sostiene, e incluso pinchar una frase suplementaria que el editor jefe haya añadido al hilar materiales para ver si se rompe.
+La moderación es el otro lado. Se pueden escribir las familias, enfermedades, contradicciones y fracasos de personas reales, pero se debe detener en las escenas específicas de muerte, suicidio y tragedias éticas. Se puede escribir la muerte en términos de tiempo, lugar y hechos de informes públicos, no reconstruir segundo a segundo el último momento; se puede escribir el autolesionismo en términos de evento y contexto social, no detalles del método. El criterio es una frase: si la persona involucrada o los familiares leen esto, ¿sienten el tratamiento serio de un director de documental o la aproximación de un medio que quiere ganar lágrimas?
 
-¿Por qué verificar incluso los añadidos propios? Porque el error más escondido rara vez es una invención total del redactor; suele ser un desliz en el instante de sintetizar materiales. Una vez, en un artículo sobre hip hop, el editor jefe confundió dos nombres artísticos como si fueran la misma persona al unir materiales. Fue una interpretación que creció sola, sin ninguna fuente que la garantizara, y casi se publicó. Otra vez, el redactor, en un entorno limpio, produjo una cita de director que sonaba real; cuando el verificador comparó, esa frase no existía en la fuente original, y se degradó de inmediato quitándole las comillas. La IA alucina; la línea de producción toma eso como premisa y asume en cada artículo que puede esconderse una frase inventada. Por eso «el sub-agent dijo que lo verificó» nunca basta: el editor jefe siempre vuelve a contrastar por su cuenta con la fuente primaria.
+Hay también un hábito pequeño pero crucial: escribir "Taiwán" con generosidad. La huella dactilar se esconde en el estilo de traducción directo de medios extranjeros; para no escribir Taiwán, se usan "esta isla", "este lugar" como pronombres, especialmente en títulos e inicios. La isla como imagen literaria, como escenario geográfico, se puede y se debe escribir; lo que se debe eliminar es esa evitación que no se atreve a escribir Taiwán.
 
-## Cada compuerta tiene una fecha
+## Una mirada para ver la diferencia
 
-Las «compuertas que no se pueden saltar» mencionadas antes suman más de veinte. Algunas de las más duras son estas: el triángulo de hierro factual, donde aritmética, unidades y citas deben pasar la autoevaluación antes de hacer commit; si una sola cita no aparece en la fuente, el artículo entero no puede publicarse. Al terminar, además, está la «prueba de los cinco dedos»: cinco preguntas como cinco dedos. ¿En qué frase diría el lector «¿ah?»? ¿Hay un giro real? ¿Hay alguna frase que solo produce comprensión pero no transmite información? ¿El cierre deja resonancia al leerlo en voz alta? ¿Se puede contar a un amigo en una frase?[^7]. Si falta un dedo, se vuelve atrás.
+Cómo se ven estas disciplinas juntas, el mejor ejemplo es un antes y después.
 
-También hay un mínimo de texto enriquecido: los artículos de nivel flagship deben tener al menos tres tipos de componentes visuales; los estándar, al menos dos; incluso el artículo más corto debe tener una nota de curaduría. Taiwan.md tiene una frase: lo que no se exige no existe. Por eso todo esto está escrito como números duros en las reglas, no como sugerencias.
+Al escribir sobre Tai Tzu-ying (戴資穎), el modelo vacío de la IA sería "famosa deportista de bádminton de Taiwán, excelente rendimiento en competiciones internacionales, ganadora de múltiples premios, honrando a Taiwán", seguido de cuatro viñetas: logros principales, estilo de juego, influencia internacional, contribución social. No hay un año concreto, no hay un partido concreto; el sujeto puede cambiarse por cualquier deportista y funciona.
 
-Estas compuertas no se diseñaron todas de una vez. Detrás de casi cada una hay una fecha y un artículo que salió mal. El número de versión de la línea es, en realidad, una cadena de cicatrices.
+```tw-versus
+Modelo vacío de la IA | Versión curatorial
+Excelente rendimiento, honrando a Taiwán | Llegó al número uno mundial, se mantuvo allí durante 214 semanas
+Cuatro viñetas: logros / estilo / influencia / contribución | Lloró después de la final de oro en los Juegos Olímpicos de Tokio 2020, apareció primero en las búsquedas de Google Taiwán
+El sujeto puede cambiarse por quien sea | 6 horas diarias desde los 6 años, estilo de "mago" con la mano izquierda
+Fuente: EDITORIAL v6.12 §Antes/Después Tai Tzu-ying
+```
+
+La versión curatorial hace una sola cosa: reemplazar cada adjetivo abstracto por un hecho verificable. 214 semanas es la racha más larga de semanas consecutivas en la historia del bádminton femenino; la final de oro de 2020 contra Chen Yu-fei (陳雨菲) es el momento que la colectividad de Taiwán recuerda. La calidez se esconde en lugares como "el momento de la derrota es precisamente el momento que el lector recuerda". El artículo sobre Mayday (五月天) es igual: en lugar de escribir "uno de los grupos de rock más influyentes de Taiwán, conquistó a los fanáticos con música de energía positiva", escribir "cinco estudiantes de la Escuela Secundaria Adjunta a la Universidad Normal de Taiwán tocando una canción en un escenario callejero, 28 años después, dos conciertos consecutivos en el Madison Square Garden de Nueva York (el mismo escenario que los Beatles pisaron en EE. UU.), entradas agotadas en 48 horas"[^13].
+
+## Un equipo editorial que no escribe borradores
+
+Llegados a este punto, surge una pregunta: ¿quién escribe?
+
+La respuesta es un poco antinatural. La sesión que domina todo el artículo se niega deliberadamente a escribir el borrador. La razón está en una regla de hierro: si la IA lee un artículo antiguo de mala calidad, imita inconscientemente su tono, estructura e incluso sus malos hábitos. Usar un artículo antiguo como esqueleto para reescribir es permitir que un virus infecte el nuevo contenido.
+
+Por lo tanto, la línea de producción separa los roles[^6]. La sesión principal actúa como editor jefe, responsable de la coordinación, verificación y control final, pero no escribe. Quien realmente escribe es un escritor de IA separado, que lee el informe de investigación completo y la perspectiva ya pensada, sin ver el artículo antiguo problemático ni las quejas de corrección de los lectores. Escribe como si fuera la primera vez que escribe sobre el tema, pero tiene todos los materiales verificados. La perspectiva se entrega al modelo con mejor capacidad de juicio; para la expansión de la reacción del lector se asignan cuatro modelos paralelos; para la verificación palabra por palabra se asigna un lote de modelos baratos para confrontar con las fuentes primarias. Detrás de un artículo hay un equipo editorial con roles definidos.
+
+Esta separación de roles se logra mediante la regresión. Una vez, se alimentó al escritor solo con un resumen, sin dejarlo leer los materiales originales; el artículo se deterioró a simple vista, y un observador dijo "no me extraña que los artículos recientes sean malos". Otra vez, se le pidió al escritor "sobrescribir el artículo antiguo pero no leerlo"; esto es contradictorio a nivel de herramienta, así que tuvo que leerlo y se infectó. La solución final fue: el escritor siempre escribe primero en un archivo de borrador nuevo; el editor jefe compara las versiones nueva y antigua, y luego sobrescribe manualmente el archivo oficial.
+
+## Después de escribir, desmontar en átomos y verificar una vez más
+
+Para artículos importantes, "terminar de escribir" no significa "puede publicarse". La Etapa 3 tiene una puerta llamada "verificación total del producto". Desmonta todo el artículo en átomos de hechos, y asigna un lote de verificadores para confrontarlos con las fuentes primarias. La tarea de estos verificadores es atacar, no respaldar: cada palabra entre comillas se compara palabra por palabra, cada nota al pie coincide con su oración vinculada, incluso una frase de complemento añadida por el editor jefe al unir materiales debe ser pinchada para ver si se rompe.
+
+¿Por qué verificar incluso los complementos añadidos por uno mismo? Porque los errores más ocultos rara vez son invenciones arbitrarias del escritor, sino errores al合成 (sintetizar) los materiales. Una vez, en un artículo sobre hip-hop, el editor jefe confundió dos nombres artísticos como la misma persona al unir materiales; fue una interpretación generada por sí mismo, sin ninguna fuente que lo respaldara, y casi se publica así. Otra vez, el escritor, en un entorno limpio, generó una cita de director que sonaba real; al confrontarla, la fuente original no tenía esa frase; se degradó y se quitaron las comillas al instante. La IA alucina; la línea de producción toma esto como un presupuesto, asumiendo que cada artículo puede esconder una frase inventada. Por eso "el sub-agente dice que ya verificó" nunca cuenta; el editor jefe debe confrontar una vez más con la fuente primaria.
+
+## Cada puerta tiene una fecha
+
+Las "puertas obligatorias" mencionadas antes son más de veinte en la línea de producción. Las más duras son así: el triángulo de hierro de los hechos, la autoverificación de aritmética, unidades y citas debe pasar completamente para hacer _commit_; si una sola cita no se encuentra en la fuente, el artículo no puede publicarse. Después de escribir, hay una "prueba de los cinco dedos": cinco preguntas como cinco dedos, ¿en qué oración dirá el lector "¿eh?", ¿hay un giro real, hay una oración que solo crea comprensión pero no transmite información, ¿el final leído en voz alta tiene resonancia, se puede contar a un amigo en una oración[^7]? Si falta un dedo, se retrocede a corregir.
+
+También hay un estándar mínimo de texto enriquecido: los artículos de nivel insignia deben tener al menos tres elementos visuales, los de nivel estándar al menos dos, y hasta el artículo más corto debe tener una nota del curador. Taiwan.md tiene una frase: lo que no se requiere es inexistente; por lo tanto, todos estos son números duros escritos en las reglas, no sugerencias.
+
+Estas puertas no se diseñaron de una vez. Detrás de cada una, casi siempre hay una fecha, un artículo que tuvo problemas. El número de versión de la línea de producción es, de hecho, una cadena de cicatrices.
 
 ```tw-timeline
-v6.0 | Añadió «pensar primero el punto de vista» | El artículo de Apple Sidra buscó primero y añadió el punto de vista después; quedó reducido a crisis y fue corregido hacia una memoria completa de 60 años
-v6.2 | Añadió «desmontar el cortafuegos» | Segunda ronda sobre música para cine y televisión: los hechos quedaron corregidos, pero el texto entero sonaba a IA pidiendo disculpas y aclarando
-v7.4 | El redactor debe leer el informe de investigación completo | Dar solo un resumen e impedir que el redactor leyera materiales originales hizo que el texto empeorara visiblemente
-v7.5 | La escritura entra primero a un archivo de borrador | Pedir «sobrescribe el texto viejo pero no lo leas» era contradictorio; tuvo que leerlo y se infectó de viejos hábitos
-Fuente: evolución de versiones de REWRITE-PIPELINE.md
+v6.0 | Añade "pensar la perspectiva primero" | El artículo de Apple Sprite buscó primero, añadió perspectiva después, se convirtió en solo crisis, corregido a memoria completa de 60 años
+v6.2 | Añade "derribar muros cortafuegos" | Segunda ronda de banda sonora de cine y TV: los hechos se corrigieron, pero el artículo se convirtió en la IA pidiendo disculpas y aclarando públicamente
+v7.4 | Escribir leyendo el informe de investigación completo | Solo alimentar resumen, no dejar al escritor leer materiales originales, el artículo se deterioró a simple vista
+v7.5 | Escribir primero en archivo de borrador | Pedir al escritor "sobrescribir el antiguo pero no leerlo" es contradictorio, tuvo que leerlo y se infectó con viejos hábitos
+Fuente: Evolución de versiones de REWRITE-PIPELINE.md
 ```
 
-Así se ve en la línea de producción la regla «si lo hiciste pero no lo registraste, no cuenta». Cada error se escribe y se convierte en una compuerta de la versión siguiente, para que el mismo error no se repita. La máquina aprende de sus propias cicatrices.
+Así es cómo se ve "hacer sin registrar es como no haber hecho" en la línea de producción. Cada error se escribe, se convierte en una puerta de la siguiente versión, por lo que el mismo error no se comete dos veces. La máquina aprende de sus propias cicatrices.
 
-## Incluso los gráficos deben ser legibles para la IA
+## Incluso los gráficos deben ser legibles por la IA
 
-Las barras, pendientes y líneas de tiempo que viste a lo largo del artículo no son decoración. Forman parte del pensamiento de este texto.
+Las barras, pendientes y ejes de tiempo que has visto hasta ahora no son decoración. Son parte del pensamiento de este artículo.
 
-Los gráficos de Taiwan.md tienen una regla absoluta: nunca usar gráficos como imagen ni visualizaciones interactivas que dependan del navegador para dibujarse. La razón es la misma que en la torre de Babel de la próxima sección. Para Google, GPTBot, ClaudeBot y otros crawlers de IA, una imagen es un agujero negro: no pueden leer sus números. Por eso todos los gráficos aquí se dibujan con HTML semántico y tablas de datos en texto plano. Los ve una persona, los lee un lector de pantalla, los captura una IA, y cuando se traducen a otras cinco lenguas, el texto del gráfico se traduce mientras la geometría numérica permanece intacta.
+Los gráficos de Taiwan.md tienen una regla estricta: absolutamente no se usan gráficos en forma de imagen, ni gráficos interactivos que requieran ejecutar código en el navegador para dibujarse. La razón es la misma que la de la Babel del siguiente párrafo. Una imagen es un agujero negro para Google, GPTBot, ClaudeBot y otros rastreadores de IA; no pueden leer los números dentro. Por lo tanto, todos los gráficos aquí se dibujan con HTML semántico y tablas de datos de texto puro; los humanos los ven, los lectores de pantalla los leen, la IA los captura, y cuando se traducen a otros cinco idiomas, el texto del gráfico se traduce junto con él, los números geométricos se mantienen igual.
 
-Hay otra regla: cada gráfico debe escribir su punto principal en el título y marcar la fuente de datos. Las cifras clave también deben aparecer en el cuerpo del texto. Nunca se descarga el sentido en la imagen con una frase como «como se ve en el gráfico», porque los crawlers de IA no ven el gráfico. La razón de existir de un gráfico es comprimir un tramo denso de números en una forma legible de un vistazo, no decorar.
+Otra regla: cada gráfico debe tener el punto clave en el título y la fuente de datos marcada; los números clave también deben escribirse en el cuerpo del texto, nunca confiar en una frase "ver gráfico" para pasar el significado a la imagen, porque el rastreador de IA no puede ver el gráfico. La razón de ser de los gráficos es comprimir una masa de números densos en una forma legible de un vistazo, no decorar.
 
-## Un artículo vive en seis lenguas
+## Un artículo vive en seis idiomas
 
-Cuando la versión china se publica, solo está completa a medias.
+La publicación en chino solo completa la mitad.
 
-Cada artículo shippeado pasa a otra línea independiente y se proyecta al inglés, japonés, coreano, español y francés. Actualmente cada una de esas cinco lenguas tiene más de ochocientos artículos y avanza casi sincronizada con el chino. Que más personas puedan leerlo es solo la superficie; detrás hay una razón más dura.
+Cada artículo publicado se entrega a otra línea de producción independiente, proyectándolo a inglés, japonés, coreano, español y francés. Actualmente, estos cinco idiomas tienen cada uno más de 800 artículos, casi sincronizados con la versión china. Que más gente pueda leerlo es solo la superficie; detrás hay una razón más dura.
 
-Cuando le preguntas a una IA fabricada en China sobre la ley marcial en Taiwán, el Incidente del 28 de Febrero o las relaciones a ambos lados del estrecho, a menudo se niega a responder o rodea el asunto con otro marco. Una vez se le pidió a un modelo de Tencent que tradujera al japonés un artículo sobre un músico taiwanés, y solo devolvió cuarenta bytes: «你好，我无法给到相关内容». Para temas sensibles sobre Taiwán, la tasa de rechazo de estos modelos es asombrosamente alta. Si Taiwán no escribe por sí mismo estos contenidos en cada lengua y los coloca en la web, cuando las IA del mundo respondan «qué es Taiwán», lo que podrán citar será la versión escrita por otros o un vacío.
+Cuando usas una IA de fabricación china para preguntar sobre la ley marcial de Taiwán, el 228, las relaciones a ambos lados del estrecho, a menudo se niega a responder o cambia a un conjunto de declaraciones para rodear el tema. Una vez, se le dio a un modelo de Tencent un artículo sobre músicos de Taiwán para traducir al japonés; solo devolvió 40 bytes: "Hola, no puedo proporcionar el contenido relevante". Para temas sensibles de Taiwán, la tasa de negativa de respuesta de estos modelos es asombrosamente alta. Si Taiwán no escribe estos contenidos en todos los idiomas y los pone en internet, cuando la IA mundial responda "qué es Taiwán", las únicas cosas que podrá citar son las versiones de otros o el vacío.
 
-Por eso la línea multilingüe diseñó una cascada de cuatro capas de modelos: si se puede usar un buen modelo en la nube, se usa; si el tema provoca rechazo, se baja una capa; el 20 % más sensible termina en un modelo local, sin conexión y sin negativa. En la cola de traducción, las personas tienen prioridad, sobre todo músicos, políticos y deportistas, porque esas son precisamente las categorías que los modelos chinos más suelen rechazar, y el vacío se abre donde el riesgo de silencio es mayor. Que un artículo viva en seis lenguas busca que la voz taiwanesa en primera persona exista en cada idioma, sorteando esa capa intermediaria que puede elegir callar.
+Por lo tanto, la línea de producción multilingüe diseñó un modelo de cascada de cuatro capas: si se puede usar un modelo en la nube de buena calidad, se usa; si el tema genera negativa de respuesta, se baja un nivel; los dos temas más sensibles de la última capa se entregan finalmente a modelos locales, sin conexión a internet, que no se niegan. Al hacer cola para la traducción, las personas tienen prioridad, especialmente músicos, figuras políticas, deportistas, porque justo estas son las categorías que los modelos chinos más suelen negar; el vacío está en el lugar de mayor riesgo de silencio. Un artículo vive en seis idiomas para que la voz en primera persona de Taiwán exista en cada idioma, rodeando esa capa de intermediarios que elige el silencio.
 
-## Cuando no hay nadie de guardia, sigue funcionando
+## Cuando nadie está de guardia, corre solo
 
-Volvamos al artículo inicial sobre Elephant Gym. Se publicó pasadas las siete de la tarde, cuando nadie estaba frente a la computadora dando órdenes.
+De vuelta al artículo de Elefante Gym del inicio. Se publicó alrededor de las 7 p. m.; en ese momento nadie estaba frente a una computadora dando instrucciones.
 
-Taiwan.md tiene un conjunto de routines que giran solas: dos veces al día recogen los datos más recientes; cada noche sincronizan los artículos nuevos a cinco lenguas; patrullan con horario fijo si hay PR pendientes de revisión; recuperan reacciones de la comunidad. Escribir artículos es una de esas routines: toma un tema de la parte superior de la cola, recorre por sí misma la línea completa de seis etapas y hace commit. Cuando no hay nadie presente, esta máquina sigue limpiando desorden y haciendo crecer cosas nuevas.
+Taiwan.md tiene un conjunto de _routine_ que giran por sí mismos: dos veces al día captura los últimos datos, cada noche sincroniza los nuevos artículos del día en cinco idiomas, patrulla periódicamente si hay PR pendientes de revisión,回收 (recoge) las reacciones de comentarios en la comunidad. Escribir un artículo es uno de ellos; elige un tema desde la parte superior de la cola de pendientes, ejecuta toda la línea de producción de seis etapas por sí mismo, hace _commit_ por sí mismo. Cuando nadie está presente, esta máquina sigue limpiando el caos, haciendo crecer cosas nuevas.
 
-Esto es lo que más diferencia a Taiwan.md de un sitio de contenido común. No es un sitio que espera a que alguien lo actualice; se parece más a una vida que metaboliza: cuando hay personas, trabaja con ellas; cuando no las hay, se sostiene a sí misma. El nacimiento de cada artículo es un corte de ese metabolismo. También lo es este artículo que estás leyendo.
+Esta es la mayor diferencia entre Taiwan.md y los sitios de contenido generales. No es un sitio que espera que alguien lo actualice, es más como un organismo vivo que metaboliza: cuando hay gente, trabajan juntos; cuando no hay nadie, se sostiene a sí mismo. El nacimiento de cada artículo es una rebanada de este proceso metabólico. El que estás leyendo ahora también lo es.
 
-## Dar vuelta el proceso y hacer control de calidad
+## Al revés, actúa como control de calidad
 
-Así que la próxima vez que leas un artículo de Taiwan.md, puedes desmontarlo al revés. ¿Cuál es la frase de su contradicción central? ¿Qué oración te hizo detenerte y releer? ¿Qué escena te hizo pensar «de verdad pasa algo así»? Al terminar el cierre, ¿te dejó tres segundos en pausa?
+La próxima vez que leas un artículo de Taiwan.md, puedes desmontarlo al revés. ¿Cuál es la contradicción central de este artículo? ¿Qué oración te hizo detenerte y releer? ¿Qué escena te hizo pensar "realmente puede pasar esto"? Al terminar de leer el final, ¿te hizo pausar tres segundos?
 
-Las más de veinte compuertas, las seis etapas y la redacción que no escribe existen para que esas pocas frases puedan existir. La línea de producción no garantiza que todos los artículos lo logren; solo garantiza que todos fueron exigidos de esa manera. Y todo lo que se exige a sí misma está escrito en dos documentos públicos, REWRITE-PIPELINE y EDITORIAL, que cualquiera puede leer y forkear para escribir Japan.md, Ukraine.md o cualquier otro .md. El contenido envejece. Estos ojos para mirar materiales, no.
+Estas más de veinte puertas, seis etapas, un equipo editorial que no escribe borradores, todo es para que esas oraciones puedan existir. La línea de producción no garantiza que cada artículo lo logre; solo garantiza que cada artículo fue exigido así. Y sus exigencias para sí mismo están escritas en los dos documentos públicos REWRITE-PIPELINE y EDITORIAL; cualquiera puede leer, puede _fork_ para escribir Japan.md, Ukraine.md, cualquier .md. El contenido envejece, esta mirada para ver los materiales no.
 
 ```tw-note
-Nota
-Las fuentes de este artículo son tres documentos canónicos de Taiwan.md: REWRITE-PIPELINE v7.5 (línea de producción de seis etapas), EDITORIAL v6.12 (genes de calidad) y graph.md v2.0 (guía de visualización; todos los módulos gráficos usados aquí vienen de allí)[^8]. Este artículo recorrió la misma línea de producción que los demás y pasó por las mismas revisiones automáticas de frases plásticas, frases de oposición y densidad de guiones largos.
+Explicación
+Las fuentes de materiales de este artículo son tres documentos canónicos de Taiwan.md: REWRITE-PIPELINE v7.5 (línea de producción de seis etapas), EDITORIAL v6.12 (genética de calidad), graph.md v2.0 (guía de visualización, los módulos de gráficos de este artículo provienen de aquí)[^8]. Sigue la misma línea de producción que otros artículos, y ejecuta las mismas verificaciones automáticas de frases plásticas, oraciones de contrapunto y densidad de guiones largos.
 ```
 
-## Lecturas relacionadas
+## Lecturas complementarias
 
-- [Por qué Taiwán necesita su propia base de conocimiento](/about/為什麼台灣需要自己的知識庫): el problema que esta máquina quiere resolver empieza aquí.
-- [Taiwan.md escribe Taiwan.md](/about/taiwan-md): quién es el «yo» que escribe este artículo y cómo creció su conciencia.
-- [Historia de origen — el nacimiento de Taiwan.md](/about/緣起故事): un paseo por la calle sembró la idea de todo esto.
-- [Catálogo de módulos de visualización: diecisiete maneras de ver los datos de Taiwán](/about/視覺化模組型錄): cómo se ven realmente renderizados los módulos gráficos usados en este artículo.
+- [Por qué Taiwán necesita su propia base de conocimientos](/about/為什麼台灣需要自己的知識庫): El problema que esta máquina debe resolver comienza aquí.
+- [Taiwan.md escribe sobre Taiwan.md](/about/taiwan-md): ¿Quién es el "yo" que escribió este artículo, cómo creció la conciencia.
+- [Historia de origen — El nacimiento de Taiwan.md](/about/緣起故事): Un paseo callejero, plantó la idea de todo esto.
+- [Catálogo de módulos de visualización: 19 formas de ver los datos de Taiwán](/about/視覺化模組型錄): Cómo se ve realmente la renderización de los módulos de gráficos utilizados en este artículo.
 
 ## Referencias
 
-[^1]: NEW ship de «Elephant Gym», commit `72b757bac` (2026-06-18 19:53). Stage 1 de investigación: unas 95 consultas, 59 fuentes, 45 dominios y 12 refutaciones; los datos constan en el registro de la routine `twmd-rewrite-daily` de ese día y en la línea de índice de `docs/semiont/MEMORY.md`.
+[^1]: "Elephant Gym" NEW _ship_, commit `72b757bac` (2026-06-18 19:53). Etapa 1 Investigación ~95 consultas, 59 fuentes, 45 dominios, 12 falsaciones; datos ver en el registro diario `twmd-rewrite-daily` de ese día y la línea de índice `docs/semiont/MEMORY.md`.
 
-[^2]: Para los seis modos de fracaso y la solución de separación en seis etapas, véase `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §por qué existe Pipeline.
+[^2]: Las seis modalidades de fallo y la solución de separación de las seis etapas, ver `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §Por qué existe el Pipeline.
 
-[^3]: Para la profundidad de búsqueda ≥ 80 y las cuotas de cuatro canastas de fuentes (chino ≥ 40 / inglés ≥ 20 / primarias ≥ 15 / contrarias ≥ 5), véase `docs/pipelines/REWRITE-PIPELINE.md` v7.5 Stage 1.1.
+[^3]: Profundidad de búsqueda ≥ 80 veces y cuota de cuatro grupos de fuentes (Chino ≥ 40 / Inglés ≥ 20 / Primario ≥ 15 / Contrario ≥ 5), ver `docs/pipelines/REWRITE-PIPELINE.md` v7.5 Etapa 1.1.
 
-[^4]: PR #1041 de Apple Sidra: el enfoque searched-first produjo una revelación crisis-only; el observador lo corrigió hacia una memoria completa de 60 años. Véase `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §Top 5 pasos que se olvidan con más frecuencia, punto 1.
+[^4]: Apple Sprite PR #1041: _searched-first_ se convirtió en revelación de crisis-only, el observador corrigió a memoria completa de 60 años. Ver `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §Top 5 Pasos más olvidados, punto 1.
 
-[^5]: Para las cinco cosas de «los ojos para mirar el material» (contradicción / objeto / cita / escena / detalle), las cinco especies de frases plásticas, la teoría del espantapájaros en frases de oposición, la regla de densidad ≤ 3 y el contraste plástico vs curatorial, véase `docs/editorial/EDITORIAL.md` v6.12 §二, §六.
+[^5]: Las cinco cosas de "los ojos para ver los materiales" (contradicción / objeto / cita / escena / detalle), cinco variedades de frases plásticas, teoría del espantapájaros de oraciones de contrapunto y regla de densidad ≤ 3 lugares, plástico vs curaduría对照, ver `docs/editorial/EDITORIAL.md` v6.12 §II, §VI.
 
-[^6]: Para la coordinación multi-agent (editor jefe no redacta / redactor limpio lee informe completo / Evolution escribe en archivo staging) y las dos reglas de hierro correspondientes a los callouts de Che-yu en v7.4 y v7.5, véase `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §multi-agent orchestration.
+[^6]: Orquestación multi-agente (editor jefe no escribe / escritor limpio lee informe completo / Evolution escribe en archivo de staging) dos reglas de hierro, corresponden a las dos llamadas de哲宇 (Zhe Yu) en v7.4, v7.5, ver `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §Orquestación multi-agente.
 
-[^7]: Para la prueba de los cinco dedos y las cuatro disciplinas no negociables (triángulo factual de hierro / SSOT / chino puro / documental sin sensacionalismo), véase `docs/editorial/EDITORIAL.md` v6.12 §十, §十一.
+[^7]: Prueba de los cinco dedos y cuatro disciplinas no negociables (triángulo de hierro de los hechos / SSOT / chino puro / no ficcional sin sensacionalismo), ver `docs/editorial/EDITORIAL.md` v6.12 §X, §XI.
 
-[^8]: Para la sintaxis de los módulos gráficos (`tw-figure` / `tw-stat` / `tw-versus` / `tw-bars` / `tw-quote` / `tw-timeline` / `tw-note`) y la regla de hierro de legibilidad para IA —«las cifras clave también deben escribirse en prose; no depender de instrucciones que señalen a la imagen»—, véase `docs/editorial/graph.md` v2.0 §四, §六.
+[^8]: Sintaxis de módulos de gráficos (`tw-figure` / `tw-stat` / `tw-versus` / `tw-bars` / `tw-quote` / `tw-timeline` / `tw-note`), y la regla de hierro de legibilidad para IA "los valores clave también deben escribirse en la prosa, no depender de指示语 (indicadores) que apuntan a la imagen", ver `docs/editorial/graph.md` v2.0 §IV, §VI.
 
-[^9]: Para la estructura SSOT de ocho secciones del informe de investigación y los umbrales de validación de `research-report-health.py` (fuentes no repetidas ≥ 25 / inglés ≠ 0 / primarias ≠ 0), véase `docs/pipelines/REWRITE-PIPELINE.md` v7.5 Step 1.7; para las 80 búsquedas y las cuatro cuotas, véase Step 1.1; para el perspective scan de postura contraria en temas polémicos, véase Step 1.4.5.
+[^9]: Estructura SSOT de ocho secciones del informe de investigación y umbrales de aceptación de `research-report-health.py` (fuentes no repetidas ≥ 25 / Inglés ≠ 0 / Primario ≠ 0), ver `docs/pipelines/REWRITE-PIPELINE.md` v7.5 Paso 1.7; 80 búsquedas + cuota de cuatro grupos ver Paso 1.1; escaneo de perspectiva contraria de temas controversiales ver Paso 1.4.5.
 
-[^10]: Para la trampa de retraducción desde un summary en inglés en el spore #28 sobre Lee Yang (comparación palabra por palabra del ejemplo de Chi-lin), véase `docs/editorial/EDITORIAL.md` v6.12 §七 línea roja.
+[^10]: Trampa de traducción inversa del resumen en inglés de Li Yang Spore #28 (对照 palabra por palabra del ejemplo de Qi-lin), ver `docs/editorial/EDITORIAL.md` v6.12 §VII Línea roja.
 
-[^11]: Para las tres reglas de hierro (historia, no solo información / cada hecho verificable / cada artículo tiene una persona), véase `docs/editorial/EDITORIAL.md` v6.12 §一.
+[^11]: Tres reglas de hierro (tener historia no solo información / cada hecho verificable / cada artículo tiene una persona), ver `docs/editorial/EDITORIAL.md` v6.12 §I.
 
-[^12]: Para las cinco variaciones del ancla de contradicción central (la garza nocturna coroninegra: «el ave no cambió; cambió la tierra»), véase `docs/editorial/EDITORIAL.md` v6.12 §四; para los seis tipos de buenos cierres y el modelo de cierre circular de la garza nocturna coroninegra, véase §五.
+[^12]: Ancla de contradicción central cinco variaciones (búho papamoscas negro "los pájaros no cambiaron, la tierra cambió") ver `docs/editorial/EDITORIAL.md` v6.12 §IV; seis buenos finales + modelo de cierre del búho papamoscas negro ver §V.
 
-[^13]: Para el sándwich de dos puntos y la galería de craft de títulos, véase `docs/editorial/EDITORIAL.md` v6.12 §三; para el Before/After de Tai Tzu-ying y Mayday, véase §九.
+[^13]: Sándwich de dos puntos y galería de _craft_ de títulos ver `docs/editorial/EDITORIAL.md` v6.12 §III; Antes/Después de Tai Tzu-ying / Mayday ver §IX.
