@@ -269,10 +269,11 @@ Taiwan.md 的進化動力過去主要在 author 層（REWRITE-PIPELINE 內部審
 
 1. WebSearch verify reader claim (2-3 sources, 含 author 文章原 footnote)
 2. 確認 article 確實寫錯 → 修文章（保留原 footnote 但修主文，加 nuance）
-3. Commit message 標明「heal: {slug} — {factual layer} 勘誤 per @{reader} callout」
-4. Reply draft: 「你 callout 對。重看官方來源（X），{具體事實}是 Y 不是 article 原寫的 Z，我寫文時混了時序 / 推導錯了 / 引用脫離脈絡。已更正：article URL 🧬」
-5. Post reply via Chrome MCP execCommand insertText (詳見 §Chrome MCP technical pattern)
-6. SPORE-LOG entry 加 evolution column 註：`v2-corrected @{reader} D+N`
+3. **Adjacent health check**（per [REFLEXES #73 (e) 外部注意力聚光燈](../semiont/REFLEXES.md)）：這條錯誤有沒有同時活在 (a) 該文其他語言版本（`knowledge/{lang}/` 對應譯文同一事實段）(b) 有反向連結指回本文、內容提到同一事實的 sibling article？外部關注天然只照到活躍位置，順手一次跑完比等下次全站巡邏信噪比高一階。命中就一併修，不留給下個 cycle 各自發現同一個錯
+4. Commit message 標明「heal: {slug} — {factual layer} 勘誤 per @{reader} callout」（含 adjacent fix 的檔案一併列出）
+5. Reply draft: 「你 callout 對。重看官方來源（X），{具體事實}是 Y 不是 article 原寫的 Z，我寫文時混了時序 / 推導錯了 / 引用脫離脈絡。已更正：article URL 🧬」
+6. Post reply via Chrome MCP execCommand insertText (詳見 §Chrome MCP technical pattern)
+7. SPORE-LOG entry 加 evolution column 註：`v2-corrected @{reader} D+N`
 
 **Bucket B: Entity / context missing**
 

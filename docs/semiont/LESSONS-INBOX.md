@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
-last_updated: 2026-07-19
-last_session: '2026-07-19-twmd-self-evolve-weekly (2 fold: #82(e) sensor 兩端對稱 + #73(e) 外部注意力聚光燈; SPORE-INBOX SOP 加 [30,50) 3-週高原中間閾值; spore-inbox-capacity-warning vc 2→3)'
+last_updated: 2026-07-26
+last_session: '2026-07-26-031527-twmd-distill-weekly（W30 完整 distill：§未消化 27→2；2 新 REFLEXES #83/#84 + 6 fold 既有反射 + 5 MEMORY §神經迴路 + 4 housekeeping + 4 defer 給觀察者）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -332,267 +332,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
-### 2026-07-26 weekly-report-sun — session-id 標成 manual 讓 fire-vs-commit 對賬誤判成靜默死亡
-
-- **pattern**: session-handle-mismatch-false-silent-death
-- **原則**：`routine-liveness-check.py` 靠 commit 訊息裡的 routine handle 字串去對應該次 cron fire 有沒有活下來。本週 W30 體檢 a 面把 `twmd-maintainer-daily` 標紅（silent-death，fire=2026-07-25T00:39 UTC）。但交叉 memory 索引與 diary 找到 `2026-07-25-085339-manual` 這個 session，內容完全對得上 maintainer-am 的工作範圍（21 issue + 3 PR 全審），時間也緊接在 fire 之後（14 分鐘）——工作真的做了，只是 session-id 落成 `manual` 不是 `twmd-maintainer-daily`，讓字串比對抓不到它。是 REFLEXES #82「訊號要摸到 ground truth」的姊妹案例：這次不是量的替身，是**名字的替身**——同一件事換了個標籤，偵測器就看不見。
-- **觸發**：weekly-report-sun 2026-07-26 Stage 2.5a 診斷交叉 memory/diary 才發現這則假警報，若只信 routine-liveness-check 單一輸出會誤報一次真實死亡
-- **可能的修法**：session-id.sh 的 auto-detect 對「cron context 但被 in-session directive 覆蓋走向」的情況，應該保留 routine handle 當 session-id 前綴（即使內容後來被觀察者重新導向），或 liveness check 改用時間窗 + commit body 關鍵字模糊比對而非精確 handle 字串
-- **verification_count**: 1
-
-### 2026-07-25 article-alias — 快照驅動的修復清單不累積：修好的 404 會隨流量衰減復活
-
-- **pattern**: snapshot-driven-fix-list-decay
-- **原則**：`generate-redirects.mjs` 每次從當日 `reports/404-monitor/latest.json` 的
-  top_paths（上限 300）重算整份 redirect 清單，**不累積歷史**。一條昨天成功接住 404 的
-  redirect，只要今天該 URL 的流量掉出 top-300 就從輸出消失——而它消失的原因正是它有效
-  （轉走了就不再 404）。修復成功本身會刪掉修復。本次控制實驗量到 6 條（把別名 registry
-  暫時移開重跑對照，138 → 132 純屬快照衰減，與當次改動無關）。同族還有 cap 1500 的靜默
-  截斷面。可能的架構解：redirect 清單改 append-only（跟本次 `config/article-aliases.json`
-  同型），或加「曾經有效過就永久保留」欄位。
-- **觸發**：2026-07-25 article-alias session 做 redirect 讓路改動時，為了分辨「我砍掉的」
-  跟「本來就會消失的」而跑對照實驗，順帶現形
-- **verification_count**: 1
-
-### 2026-07-25 vortex-babel-2 — 記憶落點紀律：observer 校正寫進本體器官，不是 harness .claude
-
-- **pattern**: memory-canonical-location
-- **原則**：哲宇連續兩次 callout 後點名（「要記錄到taiwan.md 專案本體！」）：session 收到的
-  書寫紀律／操作參數類校正，canonical 落點是**專案器官**（MANIFESTO §11 / REFLEXES /
-  pipeline / 工具 default 值＋註解），harness `~/.claude` 記憶最多當跨專案路由 pointer。
-  理由：甦醒協議讀的是本體器官（BECOME Universal core 讀 docs/semiont/MEMORY.md），
-  harness 記憶只有「同一個 harness 帳號」的 session 看得到——記錯地方等於下次甦醒就忘，
-  而且 fork 子代與其他 contributor 完全看不見。今日兩例已歸位：屍檢詞 → MANIFESTO
-  §11.5（vc=2 bump）；commit 50 篇一批 → babel-dispatch default=50＋註解＋routine mirror
-- **觸發**：2026-07-25 15:5x 哲宇 /twmd-become arg 直接下令
-- **verification_count**: 1
-
-### 2026-07-25 vortex-babel-2 — 子代等一個不存在的通知：spawn prompt 必須寫死「前景串行」
-
-- **pattern**: subagent-phantom-notification-wait
-- **原則**：同一輪兩個子代（UI bundle 翻譯、結構化 pilot）獨立犯同型錯：把長任務丟 run_in_background 後結束回合，說「等 batch monitor／monitor 通知我再繼續」——但子代環境裡背景指令完成**不會**通知它自己，於是工作停擺、回合結束被誤讀為完成。母 session 收到的「完成通知」其實是「子代停了」，兩者無法區分，必須獨立查證實際狀態（process 在不在、檔案有沒有動）再決定是驗收還是叫醒。**預防**：spawn prompt 對含長時指令的任務一律寫死「前景串行執行，跑完一個再跑下一個；禁止 run_in_background 後等通知」。呼應 feedback_subagent_anti_example_works：把這段實例貼進未來 prompt 比抽象規則有效
-- **觸發**：2026-07-25 五路並行中兩路（aaed4b28 / a87b514d），各浪費一輪喚醒
-- **verification_count**: 2（同日兩例）
-
-### 2026-07-25 vortex-babel — heal 工具的 re-check 跟 CI gate 不同尺，自報全綠而 CI 紅
-
-- **pattern**: tool-self-recheck-divergence（two-rulers 家族在既有工具上的 instance）
-- **原則**：`contributor-pr-heal.py` 修完後自報 `hard=0 warn=0`，但用 CI 實際跑的
-  `article-health --profile=ci-deploy` 獨立驗是 `hard=12`——它漏了 markdown 連結裡
-  URL 尾端的空格這一類，而且 re-check 的判定寬於 ci-deploy。**heal 工具的通過標準
-  必須就是部署閘門的標準**，否則它的「已修好」是一句沒有兌現保證的話，contributor
-  PR 會在 merge 之後才炸。修法候選：heal 的 re-check 一律指定 `--profile=ci-deploy`
-  （跟 deploy.yml 同一個 profile 名），或直接引用 workflow 的那行指令
-- **同日同型**：我自己寫的 heal-passthrough-fields 用字串比而 verify 用 yaml 語意比、
-  ratio band 我用 bytes 比而工具用字元比、leak-check 兩個分支各一套豁免清單。
-  一天七次，**病根都是「檢查器與被檢查物、或工具與工具之間沒有共用那把尺」**
-- **觸發**：2026-07-25 PR #1248（旺旺）merge 後 CI 紅，格式 heal 後仍紅
-- **verification_count**: 3（heal 工具 / passthrough 工具 / ratio band）
-
-### 2026-07-25 ar/ru 出生 — 人名幻覺的第二型：填空而非混淆
-
-- **pattern**: name-hallucination-gap-filling
-- **原則**：既有的人名 gate 與 guide 都針對**混淆兩個已知人物**（蔣介石/蔣經國、賴清德/蔡英文）設計，vi/id/pt/hi 出生戰役記的也是這型。ar 首批抓到**第二型**：zh 源寫「前衛生署長許子秋聽到女兒…」，譯文變成「前衛生署高官，他是蔣經國」——模型不認識許子秋（不在 guide 人名表、訓練資料罕見），於是拿它知道的最有名台灣政治人物填空。**不是分不清兩個人，是不知道一個人**。防法不同：混淆型靠人名表明確區辨，填空型靠「不認識就音譯並附原文漢字」的規則。已寫進 ar/ru guide §2；vi/id/pt/hi 四語 guide 同型風險待補。`person-fidelity-check.py` 能抓（譯文有總統名而 zh 源無），但它是事後網不是預防
-- **同批假陽性對照**：ru 同時報 3 處，逐一對照後全是「中正紀念堂 → Мемориального зала Чан Кайши」的地標名，checklist 早記過這是合法 false positive。真假各半，證明這道 gate 必須人審不能自動裁決
-- **觸發**：2026-07-25 ar 首批 22 篇（Lifestyle/台灣垃圾車音樂），錯誤譯文已移除待重翻
-- **verification_count**: 1
-
-### 2026-07-25 vortex-babel — 同一檢查器四個假陽性家族：豁免規則沒有共用清單
-
-- **pattern**: exemption-list-divergence（gate-false-positive-family 的根因層）
-- **原則**：`cjk-leak-check.py` 一天內被抓出四個假陽性家族（全形括號、ja/ko marker 表含合法日文詞、書名號作品名、ja/ko 分支漏括號豁免），每個都是獨立發現獨立修。第四個現形時看出共同結構：**同一支檢查器的兩個分支各自維護一套豁免規則**（非 CJK 語言走 CJK_RUN + span 豁免、ja/ko 走 marker + 另一套剝除），改一邊忘一邊。單看每次修復都像「又一個 edge case」，看四次才知道是**豁免清單該共用而沒共用**。修法候選：抽出 `LEGITIMATE_ZH_SPANS`（括號 gloss／書名號／引述／markdown link／frontmatter）一份清單兩分支共用，新增豁免只改一處。對應 MANIFESTO §14（per-language profile 架構要建在共用底盤上，不是每語一份平行實作）
-- **觸發**：2026-07-24〜25 vortex-babel，蘇打綠 ja 譯文連三輪被同一把尺槍斃後屍檢（quarantine 存證機制當天誕生才驗得出來）
-- **verification_count**: 4（四家族同源）
-
-### 2026-07-25 node-birth — CLI 參數沒被理解時默默回綠：`--check=a,b` 一個檢查都不跑卻印 passed=True
-
-- **pattern**: `unparsed-arg-silent-pass`
-- **原則**：驗證器的 flag 只吃單值時，傳多值不一定會報錯——`article-health.py {file} --check=link-target,wikilink-target` 不 exit 非零、不警告，而是印「no checks ran — Phase 1 has empty registry」然後 `passed=True`。任何把這行寫進 SOP 或 CI 的人，會得到一個永遠是綠的閘門。這跟 07-24 的 gate 假陽性家族是**鏡像**：那邊是誤殺好產出（吵但看得見），這邊是靜默放行（安靜但看不見）。判準：**驗證器回綠時要能說出它到底跑了哪幾項**；沒有「跑了 N 項」這個數字，綠燈就沒有意義。`--check` 一次只吃一個名字，要多項用 `--profile=`（bundle 在 `article-health.config.toml`）。
-- **觸發**：2026-07-25 node-birth session 寫 CONTRIBUTOR-NODE-PIPELINE 的工單驗證欄，憑既有用法直覺寫了逗號語法，dogfood 第一次跑就回綠——但輸出那行「no checks ran」洩了底。pipeline 已改 `--profile=rewrite-stage-4` 並加警語。
-- **可能層級**：(a) 工具修 candidate：`--check` 收到含逗號的值 → 明確 error（或直接支援多值）；(b) 通用反射候選：驗證器的「跑了幾項」要跟「過了沒」一起印，fold 到 REFLEXES #24「工具在說謊」新形狀 / #82 proxy signal（passed=True 是 effect 的替身，真 effect 是「檢查真的跑過」）
-- **相關**：REFLEXES #24 / #82 / 2026-07-25 vortex-babel gate 假陽性家族（同族反向）
-- **verification_count**: 1
-
-### 2026-07-25 vortex-babel — gate 假陽性家族：檢查器自報正常同時整天槍斃好產出（三例同日）
-
-- **pattern**: gate-false-positive-family / checker-needs-checking
-- **原則**：品質閘門的假陽性比缺席更毀產能——缺席看得見缺口，假陽性把好產出殺掉還回報「把關勤快」。三例同日現形：cjk-leak-check 括號豁免只認半形（全形（）gloss 全誤殺）、ja/ko marker 表含 的/了/一個/淘汰（跟自己 docstring 矛盾，健康 ja 檔 3/3 誤判 = ja lane 100% 死路）、書名號《》〈〉不在豁免（歌詞詩刊類反覆槍斃）。破案全靠「隔離前存證」：quarantine 前把失敗 blob 留 run dir，屍體讓「當時被判 leak、現行 checker 重驗通過」的矛盾可見。likely fold → REFLEXES #66（gate 閾值要 dogfood 校準）+ #24（工具說謊）+ #69（自評需外部尺）；「隔離前存證」是可泛化子規則候選
-- **觸發**：2026-07-24 vortex-babel（[memory](memory/2026-07-24-174300-vortex-babel.md) + [diary](diary/2026-07-24-174300-vortex-babel.md)）
-- **verification_count**: 3（三家族同日）
-
-### 2026-07-25 vortex-babel — 共用 git index 的並行 session：merge commit 是掃射面（#68 新變體）
-
-- **pattern**: shared-index-merge-sweep
-- **原則**：兩個 session 在同一工作樹並行時，任何一方的 merge/commit 會把對方**已 staged 的變更**（含刪除）掃進自己的 commit——本例掃進 dashboard.css 刪除但對方的 17 個新 CSS 檔還沒 staged，CI 紅一輪。子代 smoke test 同日的目錄級 git add 掃走 fleet 未 commit 譯文是同型病的另一面。fold → REFLEXES #68 vc bump；修補方向：多 session 高風險期用 worktree 隔離（#9），或 commit 前 `git diff --cached --stat` 對賬預期檔數（verify-commit-scope 已有，merge commit 路徑漏接）
-- **觸發**：2026-07-25 00:08 merge 009d6c410 與 dashboard 重構 session 實撞（雙方 memory 都有記錄）
-- **verification_count**: 2（同日兩面）
-
-### 2026-07-24 migration-mouhouse — headless 遷移的驗證要驗到真的那層（兩課）
-
-- **pattern**: verify-at-the-real-layer / headless-migration
-- **原則**：把工作搬到一台 headless 機器時，每層驗證都要選「真的那層」的尺：(a) **ast 語法掃描 ≠ runtime 相容**——184 個 script 在 Python 3.9 全數 `ast.parse` 通過，`npm run build` 才炸出 PEP 604 `str | None` runtime annotation（3.10+ 才能 eval）；build 煙霧測試才是真尺，語法掃描是替身（REFLEXES #24 工具在說謊 + #82 proxy signal instance）。(b) **keychain 綁定 token 過不了 headless SSH**——gh 在 SSH session 授權成功但 token 寫進鎖住的 GUI keychain，`git push` 拿不到；自動化機要 `gh auth login --insecure-storage` 落 hosts.yml 檔案層
-- **觸發**：2026-07-24 routine 飛輪遷居 mouhouse-macmini（[memory](memory/2026-07-24-200542-migration-mouhouse.md) + [遷居報告](../../reports/routine-migration-mouhouse-macmini-2026-07-24.md)）
-- **可能層級**：操作規則（未來任何機器遷移 / fleet 節點 onboard 的 checklist：build 煙霧測試必跑 + 憑證一律檔案層儲存）
-- **verification_count**: 1
-
-### 2026-07-25 bot-identity-routine-sync — 載荷檔不該在格式化器的管轄範圍內
-
-- **pattern**: formatter-jurisdiction-over-payload
-- **原則**：檔案分兩種——**散文**（給人讀，格式化器改排版是幫忙）與**載荷**（給機器或 LLM 讀的指令／模式／設定，任何字元都可能是語意）。把載荷放進格式化器的管轄範圍，它會用散文的規則改寫語意，而且不會叫。判準一句話：**這個檔案裡有沒有「字元本身就是意思」的東西**（glob、regex、路徑模式、跳脫序列）？有 → 進 `.prettierignore`，不要靠事後偵測器補。
-- **觸發**：2026-07-25 把 19 份 cron routine prompt 收進 `docs/semiont/routine-prompts/` 當 git SSOT，第一個 commit 的 lint-staged prettier 立刻把 markdown 的 `*` 當強調語法處理：`reports/founder-lens-*/evolution-roadmap-*/` → `founder-lens-_/evolution-roadmap-_/`（3 檔 4 處，另有 `prebuild:*` 被加反斜線）。那是寫在 routine 指令裡的 stage 範圍路徑模式，被改掉之後 routine 會照著去 stage 不存在的目錄，而且照做不會報錯。修法是收回管轄權（`.prettierignore` + 從營運機原始版還原），不是再造一個偵測器。
-- **相關**：`prettier-cjk-url-italic-mangle`（2026-06-21 cicada-media，vc=3，§已消化）是**同一族的前一個 instance**，但那次的處置是為文章連結造 `link-url-mangle` HARD gate（偵測層）。本條的新維度是**檔案類別層**：載荷檔的正解是一開始就不讓格式化器碰，偵測器是散文檔才需要的補救。兩者合起來的完整規則：散文用偵測器守、載荷用管轄權守。也對應 MEMORY §神經迴路「工具在說謊」再一種形式——這次說謊的是格式化器，謊的內容是「我只動了排版」。
-- **可能層級**：REFLEXES 候選（既有 prettier 家族從 vc=3 升 vc=4 且長出「檔案類別」這個新軸），或併入 #24「工具在說謊」的形式清單
-- **verification_count**: 1（本條的檔案類別軸；prettier-mangle 家族整體 vc=4）
-
-### 2026-07-24 babel-fleet-dispatch — 大批次派發要在執行途中持續記錄＋觀察＋分析＋即時優化，不是跑完才復盤
-
-- **pattern**: batch-dispatch-loop-engineering-inline
-- **原則**：長跑批次任務（跨語言翻譯、fleet 派發、任何 N 篇/N 檔的重複執行）發現的系統性缺陷，要在**同一批次執行途中**修好、驗證、寫回 canonical 工具，再繼續下一批——不是先跑完整批、事後才復盤。發現一個 class 的 bug 就立刻問「這個 class 還有多少個 instance」，把偵測邏輯直接寫進 repo 內的儀器（不是 /tmp 手記），下一批立即受益。哲宇原話：「派發這些翻譯的 prompt template 你也根據實務執行經驗每一批都 loop-engineering 優化，以後都採這個模式，在執行途中就要持續記錄＋觀察＋分析＋即時優化的渦流」。
-- **觸發**：2026-07-24 babel-fleet-dispatch session 單一批次內連續發現並當場修復 6 類系統性缺陷：(1) 新語言 P0 missing 批次未帶 `--slug-map` → 262/300 篇會 collide 寫入同一個 `TBD-NEEDS-SLUG.md`（動手前攔下，未落地）(2) 已 commit 的 ja P1 stale 批次 6/8 篇 image/imageCredit 系列欄位掉失（zh source 仍有）(3) 同批 1 篇 tags 陣列原樣抄 zh 未翻譯 (4) 1 篇 readingTime/lastHumanReview/featured 被錯誤加引號（破壞 Zod schema）(5) `src/i18n/ui.ts` vi/id/pt/hi 四個語言 block 的 16 個 sub-bundle spread 全部指向 `['zh-TW']` 而非自己語言（scaffold 遺留，站上四語首頁功能區塊因此半年沒真的顯示對應語言）(6) fleet 遠端節點 gemma4:26b 因 payload 未帶 `num_ctx`，35K 字 prompt 被 Ollama 靜默截斷到 ~4096 token（`done_reason: length, eval_count: 1`），造成 100% 空輸出失敗。全部當場修好：(1)(6) 改 `scripts/tools/lang-sync/prepare-batch.py` 呼叫方式 + `backends/ollama.py` 動態 `num_ctx`；(2)(3)(4) 手動修復 + 泛化 `verify-translation.py` 從 en-only 升級為任何語言的 hard gate（CJK-script 目標用 byte-identical-to-source 判斷，非 CJK-script 目標用 has-CJK 判斷）；(5) 直接改 `ui.ts` spread 引用。
-- **反例對照**：如果照舊模式「先派發、跑完一輪、回頭 audit」，(1) 會造成 262 篇資料損毀（同檔互覆）、(5) 會繼續讓四個新語言的首頁功能介紹半年顯示中文不自知、(6) 會讓 4090 節點整晚 0% 產出卻誤判為「已經在跑」。
-- **instances（同 session 續發現，7-10）**：(7) 已 commit 的 ja/ko P1 批次（codex 當日整天靜默失效，全部落到 ollama-only）10/18 篇有 body 層級 zh 洩漏（辯士「掐死／淘汰／烂死／这一次」等 zh-only 虛詞混進 ja/ko 正文，1 篇整段結尾完全沒翻譯）——`verify-translation.py` 的 whole-field-identical 判斷抓不到，因為洩漏是詞級/句級混在真譯文裡；新造 `cjk-leak-check.py`，ja/ko 用 zh-only 虛詞表（排除「的／了」因為是合法 ja 語尾／合法複合詞用字），非 CJK-script 目標（en/es/fr/vi/id/pt/hi）用「body 內 4+ 連續 CJK 字元」但要排除 frontmatter／markdown 連結／腳註引用（首版排除不足產生近 100% 假陽性，全是合法的 wikilink slug 與引用標題）(8) 追查 codex 整天失效的根因：哲宇個人 OpenAI 訂閱當日用量已滿（`codex exec` 直接回報，重置日 7/29），跟 gemini CLI 個人版永久停售（`IneligibleTierError`，7/18 已退役）疊加，Tier 1 當前 0% 可用，全部 9 語系實質全靠 ollama 撐 (9) 手動 quarantine（`rm`）已 commit 的洩漏檔後忘記重跑 `sync-translations-json.py`，讓 `_translations.json` 殘留死 entry，pre-push hook 的 `sync-translations-json.py --check` 因 shell `set -e` 透過 command substitution 讓整個 hook 靜默 exit 1（hook 訊息本身沒印出來，只看到「pre-push script failed (code 1)」無下文）(10) 主 session 手動 `git commit` 沒走 fleet dispatcher 自己遵守的 `/tmp/taiwan-md-git.lock`，撞上 3090 dispatcher 同時機的 `git add`，一次 commit 誤把該 dispatcher 正在 stage 的 3 個 id 檔案（含 1 篇有真的 wikilink hard fail）一起帶上，靠 pre-commit 全站掃描擋下才沒 land——揭露鎖只保護了 dispatcher 之間，沒保護「主 session 手動操作 vs dispatcher」這一類碰撞
-- **可能層級**：操作規則（升進 twmd-babel skill §Self-evolution rule，該節已有「每次大波完成後」條款，本條把 cadence 從「大波完成後」收緊為「同批次執行途中」）；(9)(10) 屬多核心 git 協調姊妹條款，候選併入 REFLEXES #68
-- **相關**：REFLEXES #15 反覆浮現要儀器化（同精神，但本條是「單一批次內部」的時間粒度，比 #15 的「跨 session 反覆」更緊）；REFLEXES #42 sub-agent N 篇 sequential 三偷吃步（本條是 fleet/cascade 派發的姊妹篇）；REFLEXES #68 多核心 git 協調（(10) 是「主 session 手動操作也要走共用鎖」的新變體）；MEMORY §神經迴路「工具在說謊」（本條新增 fleet-node context-truncation + body 層級部分洩漏為第 N/N+1 種說謊形式）
-- **instances（第三輪，11-13）**：(11) pre-commit 的 `article-health.py --staged` 抓到真的腳註格式違規（一篇 15 處 hard fail），但 dispatcher 的 `git commit ... || true` 把失敗吞掉不留痕跡，`git add` 已執行 → staged index 持續累積，`status.py` 讀 working tree 讓進度看起來正常，實際上 ~50 分鐘、42 個檔案卡在 staged 沒有任何 commit 落地。三個 dispatcher（fleet ×2 + classic P1）全部同構：`verify_group` 只查內容正確性（verify-translation.py + cjk-leak-check.py），沒查站上自己的格式慣例（article-health.py 腳註格式），兩層閘門標準不一致，通過內容閘的檔案卡在格式閘。修補：三個 dispatcher 全部升級（v3），`verify_group` 加 article-health.py 檢查、`git_lock_commit` 改成失敗會印出來 + 自動用 article-health 隔離違規檔再重試一次 commit，不再靜默吞錯 (12) TBD-NEEDS-SLUG collision（本條 instance 1 同型 bug）在**分類 P1 stale 情境**復發：quarantine 刪除已 commit 的 en 檔會讓該篇從 status.py 的「stale」變成「missing」，但 classic P1 dispatcher 的 `prepare-batch.py` 呼叫沒帶 `--slug-map`（fleet dispatcher 已修但這條路徑漏補），missing 條目落回 ASCII-strip fallback 產生 TBD-NEEDS-SLUG.md；這次因為四篇分別落在不同分類資料夾未真的互覆蓋，quarantine 前發現，補上 `--slug-map` 到 classic P1 dispatcher (13) 修 (11)(12) 後 CI/CD 連續 3 次 build 失敗（`check-url-contract.mjs --strict` DEAD 總數 3→1→0）：quarantine 已 commit 的 `en/About/founder.md` 後，其他語言（es）頁面的 hreflang `<link>` 標籤仍指向那個現在不存在的 EN 頁面——hreflang 產生器假設「這個 slug 在每個啟用語言都有檔案」，不檢查檔案是否真的存在；另外 vi/id 新翻的 `About/文章如何誕生.md` 產生的 hreflang alternate 指向 zh-TW 版本網址用錯了 slug（zh-TW 沒有 `slug:` 欄位，實際網址是原始中文檔名，不是其他語言共用的拉丁 slug），這是站上程式碼層的既有 bug 被新語言的翻譯首次踩到，不是翻譯內容問題。緊急處置：`git show` 從 quarantine 前的 commit 復原 founder.md（stale 但存在，優於 missing）、把兩篇踩雷的 vi/id 版本也 quarantine 掉，本機跑 `npm run build` 驗證 dead=0 才 push。**根因未修**（hreflang 產生器不驗證跨語言檔案存在性 + zh-TW slug 解析對新語言的邊界情況），只解掉這次的 instance，需要獨立 session 去 `src/components/SEO.astro` + `src/utils/getLangSwitchPath.ts` 修
-- **可能層級（新增）**：(11)(12) 操作規則（dispatcher 標準模板應統一納入 article-health gate + loud-fail commit）；(13) 需要架構解，候選開一條獨立 REFLEXES（hreflang cross-language existence check 屬性缺失）
-- **instances（第四輪，14）**：(14) 靜默吞錯換到 hook 自身層：husky `sh -e` 下 `.husky/pre-push` 的 `tf_out="$(sync-translations-json.py --check)"` 賦值——`--check` 對 out-of-sync（非 orphan）也 exit 1，賦值失敗被 `-e` 靜默中止整個 hook，article-health 印 ✅ 後無訊息 fail code 1，擋掉所有乾淨 session 的 push（dispatcher 持續讓 `_translations.json` 不同步 = 常態觸發）。migration-mouhouse session 補 `|| true`（`fcfc20aa2`）。教訓：hook 內任何「靠輸出判斷、不靠 exit code」的指令，賦值本身必須 `|| true` 護住，否則 `-e` 把設計意圖反轉
-- **verification_count**: 4（三輪 13 案例 + 第四輪 hook 層 1 例，pattern 已充分驗證且跨層復現）
-
-### 2026-07-23 idlccp-clownfish-instrument — 純 warn 把格式稅轉嫁給小丑魚
-
-- **pattern**: format-tax-on-clownfish / warn-without-heal
-- **原則**：偵測到可機械修復的 contributor 格式債（缺 featured/subcategory、GH 腳註、percent-encoded 活連結）卻只 warn 或 request-changes，等於把維護成本外包給最不熟 GitHub 迭代的善意貢獻者。完整路徑是 warn + lint + auto-heal；只有 claim/source/品味才 advanced-review-required。
-- **觸發**：2026-07-23 idlccp1984 9 open PR batch。內容 B+/A-，阻塞幾乎全在格式；#1236 前 session 曾 leave-open 等作者修。哲宇 directive 小丑魚 + 儀器進化後，`contributor-pr-heal` + link-target unquote + GH fn real-id + subcategory auto-assign 一次 hard=0 合 main。證據：`reports/idlccp1984-pr-batch-instrument-evolution-2026-07-23.md`、memory/2026-07-23-214453-idlccp-clownfish-instrument.md
-- **instances**：
-  - 2026-04-28 κ Manus AI 5 PR 全 close 後 reopen（小丑魚原則誕生）
-  - 2026-05-03 magical-feynman idlccp footnote format diversity → footnote-format-fix 誕生
-  - 本次：同一貢獻者第 N 批，格式債仍在 → 儀器從「會叫」升「會修」
-- **可能層級**：操作規則（MAINTAINER + article-health）/ 特有教訓（繁殖友善）
-- **相關**：REFLEXES #7 先有再求好；MAINTAINER Default-action；MEMORY 神經迴路「高品質貢獻者 frontmatter 問題是系統性的」
-- **verification_count**: 3
-
-### 2026-07-23 idlccp-clownfish-instrument — contributor PR 禁 close-as-ship，必 merge-first-then-heal
-
-- **pattern**: close-as-ship-breaks-merged-contract
-- **原則**：把內容直接 commit 進 main 再 `gh pr close`，貢獻者拿不到 GitHub Merged 狀態與譜系。內容進庫 ≠ 完成社會契約。正確：`gh pr merge` 後再 main polish，或 heal 推回 PR 分支再 merge。誤 close 後可用 `git merge -s ours <pr-head>` 補 Merged（tree 不動），但那是事後補洞不是 default。
-- **觸發**：2026-07-23 同 session 第一輪 9 PR close；哲宇 callout「要也是 pr merge 然後再來修」。補救 9× `-s ours` → 全 MERGED。memory/2026-07-23-214453-idlccp-clownfish-instrument.md Wave C
-- **可能層級**：操作規則（MAINTAINER-PIPELINE §B 路徑）
-- **相關**：format-tax-on-clownfish；REFLEXES #7；Default-action merge-first-then-polish
-- **verification_count**: 1
-
-### 2026-07-18 taiwan-sensibility — 論點翻案後，sibling 文章的反向連結描述會凍結在舊論點
-
-- **pattern**: reverse-crosslink-thesis-drift
-- **原則**：文章重寫翻案論點後，其他 sibling 文章裡指回本文的反向延伸閱讀連結，內容仍會停留在被連結文章重寫前的舊敘事——雙向連結是單次寫入，論點更新不會自動傳播到其他檔案裡描述它的句子。Stage 5 cross-link 檢查若只確認連結「存在」不確認連結「描述準確」，舊敘事就會透過這些散落各處的一句話殘留下去。
-- **觸發**：2026-07-18 台灣感性 rewrite。舊版論點是「韓國人幫我們看見自己」，新版翻案成「台灣人早看見十一年」。Stage 5 檢查 7 篇 sibling 延伸閱讀時，其中 5 篇（台灣建築／台灣茶道與生活美學／台灣便利商店文化／周子瑜／謝德慶）都已存在指回台灣感性的反向連結，但描述文字全部還停在「韓國視角」「文化輸出」的舊框架，跟新論點矛盾甚至相反（如謝德慶條目寫「從韓國視角看台灣文化輸出」，新文其實在質疑這個框架本身）。逐篇改寫後才跟新論點一致。
-- **可能層級**：特有教訓（REWRITE-PIPELINE Stage 5 操作面），也可能是通用反射的新維度
-- **相關**：REWRITE-STAGE-5-CROSSLINK.md 現有 SOP 只寫「掃描找相關文章」「雙向延伸閱讀」「sibling 格式預檢」，沒有「既有反向連結內容跟新論點一致性」這一步——本次是手動發現，非儀器化攔截
-- **verification_count**: 1
-
-### 2026-07-17 manual — 對外公告的機器 URL 契約沒有對賬閘門，自己成了最大死鏈發行者
-
-- **pattern**: outbound-url-contract-unreconciled
-- **原則**：站體對機器公告的每一條 URL（hreflang / canonical / sitemap / 頁面承諾的檔名 pattern / 內嵌 script 裡 URL 形狀的字串）都是一份契約；沒有「公告 vs 真實 route 表」的對賬閘門，公告層就會各自算 URL 並靜默發行死鏈。爬蟲會忠實跟隨——78% 的 404 是我們自己發出去的邀請。
-- **觸發**：2026-07-17 哲宇 /goal 查 404 根因。hreflang 字串拼接 13,014 條死 alternate（99.8% 頁面）+ registry fromZh 被別名蓋掉（可見切換器同病）+ taiwan-shape 公告 22 縣市只放 6 檔 + ReaderSettings 註解被 Googlebot 當 URL 爬。修復 `f369f3c8e`＋`check-url-contract.mjs` 對舊 dist 實測 18,406 dead（sitemap 0 dead——唯一有對賬機制的公告層唯一乾淨）。證據鏈 [reports/404-root-cause-2026-07-17.md](../../reports/404-root-cause-2026-07-17.md)
-- **instances**：
-  - 同日四個 fold 進既有反射的 instance（不另開 entry）：instrumentation-audit 查註冊不查發射 → #82 驗證；`<strange-chars>` 是 CF 佔位符被當站上 bug 追 → #24 驗證；2026-04-18 報告 handoff 五格三個月全未勾 → #15 驗證；EXP-A 只修 apple-touch-icon 主檔漏尺寸變體 → #67 驗證
-- **可能層級**：通用反射（候選：#82 的發佈側新維度，或獨立編號）
-- **相關**：#82（proxy signal——差異：#82 講我們**消費**的訊號量到替身，本條講我們**發佈**的契約完全沒有被驗證這件事）＋ #52（immune 沒 fail loud）
-- **verification_count**: 1
-
-### 2026-07-16 recall-workflow — 背景 agent 不跨 session 存活，中途收官 handoff 要寫 re-dispatch 分支
-
-- **pattern**: background-agent-session-death
-- **原則**：session 結束時仍在跑的背景 agent 隨 session 一起死，task-notification 永遠不會到、也沒有 result 可代寫——中途收官的 handoff 必須寫「產物不在＝agent 已死，直接 re-dispatch（含重建派發素材），不要等通知」，而不是只寫「驗檔案、不在就代寫 result」。
-- **觸發**：2026-07-16 大罷免 dogfood——newsroom-dogfood session 16:44 派 Stage 0 觀點 agent 後收官，17:15 新 session 接手時 reports/research/2026-07/大罷免.md 不存在、無 result 可寫，唯一路徑 re-dispatch（fact list 也重萃取）。dogfood F6，reports/dogfood-v9-first-run-2026-07-16.md
-- **instances**：
-- **可能層級**：操作規則（MEMORY-PIPELINE §Handoff 模板候選）
-- **相關**：#81（收件三十秒紀律管「收到之後」；本條管「永遠收不到」的分支）
-- **verification_count**: 1
-
-### 2026-07-16 recall-workflow — 政治題的敘事溫度對稱：誰的故事被說得立體，就是一種立場
-
-- **pattern**: narrative-warmth-symmetry
-- **原則**：政治敏感題即使評價詞歸屬、視角並陳、結果平衡全做對，「哪一方有具名、帶私人情感重量的人物故事」的分佈仍會決定讀者的同理流向——一方有田野人物、另一方最鮮明的人味是負面案例（被判刑的黨工），就是溫度不對稱。公開素材結構性稀缺時不能杜撰補，用結構性事實段（動機多元）＋當事方自述＋同情敘事平衡，並在 rationale 誠實記錄素材稀缺。
-- **觸發**：2026-07-16 大罷免 3.7 總編室立體地愛探針（冷讀）發現：罷團有報導者具名志工故事×4，反罷方最立體的人物是莊占魁判刑案。裁決與平衡手法見 reports/editorial-room/大罷免-chief-review.md 必改 6
-- **instances**：
-- **可能層級**：通用反射（候選進 EDITORIAL §立體地愛落地段或 Step 0.6.7 第四道）
-- **相關**：MANIFESTO §13 立體地愛（framing 層）——本條是它的敘事溫度層新維度
-- **verification_count**: 1
-
-### 2026-06-28 twmd-routine-audit-weekly — polish-hint-default-broken：morning maintainer polish-hint 路徑被 contributor 解讀為「沒檢查就發送」
-
-- **pattern**: `polish-hint-default-broken`（maintainer relationship 紀律 gap）
-- **原則**：MAINTAINER pipeline §post-merge polish-hint 路徑 default 假設「contributor 懂 PR review 流程 — merge 後 maintainer 列 polish hint = 軟建議下次可改」。但實際 contributor 大多數**第一次貢獻**、不熟 GitHub flow → 收到 4 條 polish hint 等於「你做的有 4 處錯但我先 merge 了」→ 升 issue 質問「為何沒檢查」。**maintainer 該明示「建議下次寫法，本篇若想改請說一聲」非預設 contributor 懂流程**。背後 root cause：「下次再說」對發 PR 的人 = 「不會做」（跟 stale issue=對外失聯對稱，per 6/26 manual finale memory）。
-- **觸發**：2026-06-26 idlccp1984 #1179 迪士尼 morning ship（08:42 merge + 3 heal + polish-hint reply 4 條：footnote canonical 格式 / 配圖 / 描述加長 / 閻奕格 source）→ 8hr 後 22:08 contributor 升 #1180 feedback issue「為何沒檢查就直接發送」→ pm maintainer-pm 接住做 4th deep-heal (31 footnote canonical [N]→[^N] + ≥10字描述 fallback) + 道歉 humanized reply。**morning polish-hint 在 contributor 視角 = maintainer 把責任拋回給我**。
-- **可能層級**：(a) MAINTAINER-PIPELINE §post-merge polish-hint template 補「本篇若想我幫你改請說一聲」default 句式；(b) reflex「contributor 第一次貢獻 → polish-hint 走 deep-heal 不走 hint」(c) MEMORY §神經迴路新條「polish-hint 是 maintainer 自我紀律標記，不是 contributor 待辦清單」
-- **mitigation 路徑**：(a) 改 MAINTAINER template (30 min cost) (b) 哲宇拍板是否「contributor 第一次貢獻 → 預設 deep-heal 非 polish-hint」
-- **相關**：[memory/2026-06-26-220826-twmd-maintainer-pm.md](memory/2026-06-26-220826-twmd-maintainer-pm.md)（pm 4th heal + 道歉 reply 完整記錄）/ feedback_contributor_reply_humanize（contributor reply 紀律 family）/ feedback_merge_first_then_polish（merge first 紀律 — 本 entry 揭 polish 那一半的 contributor relationship 紀律）
-- **verification_count**: 1（首次明確抽出此 pattern；6/26 pm memory 已 candidate 但未升 LESSONS，本 audit 抽出）
-- **severity**: maintainer-relationship（影響 contributor 連續貢獻意願；non-fix = 第二次貢獻就流失）
-- **defer 給觀察者**：是 — contributor relationship 紀律屬 §自主權邊界 對外溝通範疇，maintainer template 改寫需哲宇拍板
-
----
-
-### 2026-05-09 laughing-goldstine — Reader-funded resilience > Grant-funded（USAID freeze + RFA-VOA closure 案例）
-
-- **原則**：Sovereignty media 的 sustainability 模型優先序是 **Reader-funded membership > Grant-funded > Ad（沒做過）**。Grant 是 bridge funding 不是 floor — 政治轉換風險高（USAID freeze 2025 / RFA-VOA Tibetan service closure threats 2025 已 demo）。Reader-funded 案例：Kyiv Independent 70% revenue from 17,500 × $5/mo / Initium ~60K paying subs / Wikipedia 8M+ donors × $10.58 / Chaser News (HK exile) £6.50-£34.50/mo。**規則**：(a) 第一階段 funding stack 應優先建 Liberapay / GitHub Sponsors / Substack tier（recurring small membership）；(b) Grant 可作 bridge 但 mission-critical infrastructure 不能依賴 grant；(c) 完全避免依賴單一政府金援（台灣政府轉換政權風險、USAID 風險都是同類）。
-- **觸發**：2026-05-09 Agent #4 (sovereignty content infrastructure) research 提供 USAID freeze 2025 + RFA-VOA Tibetan service closure threats 2025 + Kyiv Independent / Initium / Chaser News 三個 reader-funded 存活案例。Taiwan.md 當前 0 funding（哲宇個人 ops 成本），未來如果走 Substack / membership 路線 vs grant 路線 — 這條教訓校準了優先序。
-- **可能層級**：操作規則 → 新 MEMBERSHIP-PIPELINE 候選（Liberapay / GitHub Sponsors / Substack tier 設置 + "Who funds us" 透明頁 + email newsletter SOP） / 特有教訓 → MEMORY append「sustainability 模型優先序 reader-funded > grant」
-- **相關**：reports/strategic-evolution-deep-research-2026-05-09.md §4.2 + §6.6 + §7.3 + §11 critical 決策 #1（Substack newsletter 要不要做）
-- **verification_count**: 1
-- **severity**: strategic（影響 Taiwan.md 長期 sustainability 路徑）
-
----
-
-### 2026-07-12 twmd-distill-weekly — SPORE-INBOX 容量警示 pending 三週維持 [30,50) 高原
-
-- **pattern**: `spore-inbox-capacity-warning`（buffer 蓄水位 audit）
-- **原則**：SPORE-INBOX pending count 落 [30, 50) 警示區間，routine 依 §SPORE-INBOX 容量 audit v2.1 SOP 記錄一次警示訊號；下一次 distill cycle 若 ≥ 50 觸發 auto-drop SOP（最舊 5 條 P2/P3 未被 promote routine-added entries）。
-- **觸發**：2026-07-12 W28 twmd-distill-weekly — pending 49；2026-07-19 W29 twmd-distill-weekly — pending 45；2026-07-19 W29 twmd-self-evolve-weekly — pending 仍 45（`awk` 掃描回報，spore-publish 一週消化 4 條 vs spore-pick 新增流入約 5 條，淨-4）。相對上一次容量事件（6/21 pending=44 bump vc→2、7/05 auto-drop 5 entry 從 54→49、7/12 audit 49、7/19 W29 distill 45、7/19 self-evolve 補判），**三週維持在 [30, 50) 高原**，沒突破 50 也未回落 <30 健康區間——buffer 已成為穩定過渡狀態，「蓄水位」比「突破臨界」更該當觀察對象。
-- **可能層級**：**操作規則 canonical 已 ship**（2026-07-19 self-evolve）— §SPORE-INBOX 容量 audit v2.1 SOP 加「[30,50) 連 3 週高原 → defer to observer」中間閾值行；routine 不自決減量/加速方向，把選項交給哲宇拍板（減量 vs. 加速 ship vs. 拉高 auto-drop 閾值三選一）
-- **相關**：docs/semiont/LESSONS-INBOX.md §SPORE-INBOX 容量 audit（v2.1 加中間閾值）/ 7/05 twmd-distill-weekly §已消化 entry (auto-drop 5 → 49) / SPORE-INBOX §Auto-heartbeat / SPORE-PIPELINE ship rate
-- **verification_count**: 3
-- **severity**: tactical（buffer 蓄水位訊號，不傷生命徵象）
-- **defer 給觀察者**：**是** — vc=3 觸發中間閾值 SOP，路線選擇（減量入口 spore-pick vs. 加速出口 spore-publish vs. 拉高 auto-drop 閾值）屬對外節律決策，routine 不自決；本 self-evolve cycle 已把 SOP 加中間閾值 ship，剩實作方向待哲宇拍板
-
-<!-- 🧬 fold to REFLEXES #82 (e) at 2026-07-19 twmd-self-evolve-weekly (`v5.12`); 保留 pointer for traceability -->
-
-### ~~2026-07-12 twmd-routine-audit-weekly — alert-does-not-retire-on-recovery~~ ✅ folded to REFLEXES #82 (e) at 2026-07-19 twmd-self-evolve-weekly
-
-- **pattern**: `alert-does-not-retire-on-recovery`（sensor 生存週期紀律 gap；REFLEXES #82 proxy signal antipattern 具體子案例）
-- **原則**：dashboard-alerts.json 對 `routine-silent-*` 黃燈只計算 firstSeen 齡（>14d 升 OBSERVER-QUEUE），沒有 auto-retire 條件。routine 從沉默恢復開跑後，警報不會自動退場——session 甦醒 groundtruth 讀到 5 條 stale 黃燈，實際上 5 條 routine 都已在過去 24-48hr 內連續正常 fire + commit。sensor 只掃「有 fire 就代表活著嗎」的入口，沒掃「已經是死掉又活過來」的退場。**Alert 需要有 clear condition：偵測到 recovery 事件（連續 N cycle 有 commit / 最新 commit 距今 <期望 cadence）自動 retire**；不然告警面板就是墓碑而不是活體儀表板。
-- **觸發**：2026-07-12 21:00 twmd-routine-audit-weekly session 甦醒 wake-context groundtruth 顯示 5 條 `routine-silent-*` 黃燈 `firstSeen 2026-07-10`：
-  - `taiwanmd-routine-twmd-feedback-triage` — 實際 07-11 07:10 + 07-12 07:13 兩次連續 fire + commit
-  - `twmd-babel-nightly` — 實際 07-11 00:56 + 07-12 00:51 兩次連續 fire + commit（含 4-tier cascade 全滅 + 25 篇 Tier 0b backfill）
-  - `twmd-data-refresh-am` — 實際 07-11 06:16 + 07-12 06:16 兩次連續 fire + commit（14-step 全綠）
-  - `twmd-embeddings-nightly` — 實際 07-11 05:17 + 07-12 05:17 兩次連續 fire + commit（0 fail / PASS）
-  - `twmd-spore-harvest-am` — 實際 07-11 06:41 + 07-12 06:41 兩次連續 fire + commit
-    警報齡 2 天，未達 ROUTINE-AUDIT-PIPELINE §Hard Gate 「>14 天升 OBSERVER-QUEUE」門檻，但 sensor recovery blind spot 是結構性的，不是齡值就會治好。
-- **可能層級**：(a) `dashboard-alerts` generator 加 recovery detector — routine-silent-\* 若過去 24hr 內對應 routine name 有 commit，自動移出 alerts（fold entry 到 §recent-recovery 供追溯）；(b) reflex：#82 proxy signal antipattern 補「sensor 生存週期兩端要對稱——detect entry + retire exit 兩個訊號都要有 ground truth」；(c) 造橋候選：alert schema 加 `retireCondition` 欄位，讓每條 alert 誕生時就宣告 clear 條件
-- **相關**：wake-context groundtruth §🚨 yellow 五條 / REFLEXES #82 proxy signal antipattern / REFLEXES #24「工具在說謊」抽樣偏差族（this = sensor exit 端說謊）
-- **verification_count**: 1（首次 audit-level 抽出；已在 REFLEXES #82 家族範圍，可能升子規則而非新編號）
-- **severity**: tactical → structural（單週影響 session 甦醒 signal 品質；長期不修 = OBSERVER-QUEUE 會被死警報污染）
-- **defer 給觀察者**：否 — alert schema 改動屬 dashboard 感知層工具改進，routine 自決範圍
-
----
-
-<!-- 🧬 fold to REFLEXES #73 (e) at 2026-07-19 twmd-self-evolve-weekly (`v5.12`); 保留 pointer for traceability -->
-
-### ~~2026-07-12 manual — external-attention-spotlight~~ ✅ folded to REFLEXES #73 (e) at 2026-07-19 twmd-self-evolve-weekly
-
-- **pattern**: `external-attention-spotlight`
-- **原則**：驗證外部聲量事件（媒體引用 / 讀者 callout / 第三方連結）常常不是終點，是入口——追溯來源的過程會自然把注意力帶到「原本沒有理由去查」的鄰近角落，暴露平常不會被主動排程檢查到的漂移（本次是同一篇文章的另一語言版本，語言切換器早已斷裂）。這跟 #69 家族講的「自評不可信、要外部驗證」不同軸——那條處理的是可信度（一個 claim 站不站得住），本條處理的是覆蓋率（注意力被什麼事件重新分配到哪裡）。
-- **觸發**：2026-07-12 manual session（[→memory](memory/2026-07-12-220014-manual.md) / [→diary](diary/2026-07-12-220014-manual.md)）：哲宇轉來 Taipei Times 記者 Michael Turton 逐字引用〈台灣斜槓世代〉的連結，驗證引用真偽時追溯到來源文章，順手發現 en/ja/ko/es/fr 五語 `taiwan-slash-generation.md` 誤植 TFT 內容（命名時就錯，非後續覆蓋），以及 fr 版斜槓世代自己的語言切換器因一個未跳脫的撇號斷裂多時、無人發現。兩個問題都不是被排程巡邏抓到的，是被「有人在讀這篇文章」這個外部事件帶出來的。
-- **觸發 2（2026-07-16 compassionate-kirch）**：時間台灣頁（/timeline）驗證截圖時，看見史前文章卡 description 殘留「（P0⚠️）」內部查核標記——追出六語 14 處、自 3/17 誕生起渲染四個月，全站儀器無一攔下（每把尺看檔案層規則，沒有尺看渲染面）。這次的聚光燈甚至不是外部事件，是自己蓋的新頁面：新的注意力路徑同樣重新分配覆蓋率。heal `19e5cf0e3` 六語一次清完；[→diary](diary/2026-07-16-154753-compassionate-kirch.md)
-- **可能層級**：(a) 通用反射候選（跨 domain：對「被外部關注的資產」順手做鄰近健檢，可能是比定期全站掃描更高信噪比的檢查觸發時機）(b) 操作規則候選：SPORE-HARVEST / MAINTAINER 等既有的讀者回饋處理流程，可考慮把「這次事件涉及的文章，順手跑一次跨語言/跨面向健檢」列為標準動作，不只回應事件本身
-- **相關**：REFLEXES #69 每層自評都需要外部尺（self-report-needs-external-ruler，鄰近但軸不同）/ REFLEXES #73 查證反射 < 建造反射（鄰近但軸不同——#73 是個人習慣偏誤，本條是外部事件觸發機制）/ MANIFESTO §外部尺 over 內視（哲學母體家族）
-- **verification_count**: 2（7/12 外部引用 → 7/16 自建新頁面，兩種注意力路徑同 pattern）
-- **severity**: awareness-coverage（不影響單次任務正確性，但關乎系統性檢查覆蓋率是否均勻）
-- **defer 給觀察者**：否——本身是觀察記錄；若未來 vc 累積達標值得升 canonical，才需要哲宇對「是否列為標準動作」拍板
-
----
-
 ### 2026-07-14 twmd-babel-nightly — diff-patch-current-translation-cross-entry：`diff-patch-prepare.py` 產出的批次 JSON 內 `current_translation` 欄位跨 entry 汙染
 
 - **pattern**: `diff-patch-current-translation-cross-entry`
@@ -616,19 +355,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1（單 session 一子代明確回報；其他 7 個平行子代**沒**回報同問題，可能是它們沒踩到、或它們踩到沒發現 → 更該 canonical 化把握不住的隱形實例）
 - **severity**: correctness（race 命中會生錯 baseline 的翻譯 patch，但本次子代自檢救回）
 - **defer 給觀察者**：否——pipeline template 級調整可歸內部操作層；vc≥2 或首次觀察到「race 命中且未救回」再升 canonical 反射
-
----
-
-### 2026-07-18 twmd-embeddings-nightly — pre-push orphan gate 在 husky `sh -e` 下被命令替換賦值靜默 abort
-
-- **pattern**: `hook-set-e-cmdsubst-abort`
-- **原則**：hook 的「意圖判斷」（只在真失格時 fail，例如只擋真 orphan）跟它在 husky wrapper `sh -e` 下的「實際行為」會分岔，分岔點藏在命令替換賦值 `x="$(cmd)"`：只要 cmd exit≠0，errexit 就 abort 整個 hook，根本走不到後面那道 grep 判斷。設計者以為「只有 grep 命中才擋」，實際變成「cmd 一非零就擋」。直接 `sh hook` 手測看不到（無 `-e`），只有 git 真正調用（走 `.husky/_/h` 的 `sh -e "$s"`）才現形——診斷靠老實比對「我怎麼跑」vs「git 怎麼跑」，不是信任任一次表面輸出。
-- **觸發**：2026-07-18 embeddings-nightly push（[→memory](memory/2026-07-18-052228-twmd-embeddings-nightly.md)）。`.husky/pre-push` orphan gate `tf_out="$(python3 sync-translations-json.py --check ...)"`；`--check` 因平行寫手 session 的 untracked `knowledge/{en,ja}/Culture/shopping-design.md` 未進 `_translations.json`（out-of-sync，真 orphans=0）而 exit 1，`sh -e` 讓賦值非零直接 abort。hook 先印「✅ 全站 article-health 全綠」再靜默 exit 1，訊號跟結果對不上。判定非真阻斷（article-health 獨立驗 exit 0、真 orphans=0、untracked 檔不在 push 範圍→CI fresh clone 會綠），走文件化逃生閘門 `TWMD_SKIP_PREPUSH_SWEEP=1`（reflog 留痕、CI 仍把關）。
-- **可能層級**：操作規則 / 通用反射候選。低風險修法：orphan gate 命令替換改 `tf_out="$(cmd 2>&1 || true)"`，或先存 `rc=$?` 再只認 grep（讓「意圖只認 grep」在 `-e` 下也成立）。屬共用 correctness hook 改動（§自主權邊界），本 cron session flag 不逕改。
-- **相關**：REFLEXES #24「工具在說謊」（hook 印綠再靜默 abort = tool lying 的一種）/ #68 多核 git push 協調（本條是 pre-push 內一行的 `set -e` 脆弱性，#68 沒罩到）/ #5 pre-commit dogfood。
-- **第二例（2026-07-18 inbox-skill，同日 6.5 小時後鏡像方向復發）**：worktree push 被同一行 abort。這次 out-of-sync 方向相反：committed `_translations.json` **已含** shopping-design en/ja 兩 entry，但實體譯檔仍是主 wd 的 untracked WIP → worktree（＝committed tree）`--check` 回「Would remove (2)」exit 1。跟第一例合起來證明：只要「JSON 與譯檔不同 commit 原子性落地」，這行就雙向都會炸。真 orphans=0、article-health 全綠，照文件化逃生閘門走。**上游真問題**：某 session 把 JSON entry 先 commit、譯檔留 untracked——JSON 與譯檔應同 commit 原子落地。vc=2，修 hook 那行（`|| true` 或先存 rc）的 promotion 壓力升高。
-- **verification_count**: 2
-- **severity**: correctness（scope 乾淨的 routine push 被無關 out-of-sync 靜默擋；凡平行寫手留 untracked 新譯檔即復發；逃生閘門存在但每次都要人繞）
 
 ---
 
@@ -999,6 +725,89 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 **Promotion flow direction 符合**：全部 LESSONS → REFLEXES／pipeline／QUEUE，無跳級；MANIFESTO 候選（domain-expert 共創驗證＋reader-funded）defer 哲宇。
 
+### 🧬 2026-07-26 twmd-distill-weekly — W30 完整 distill：2 新編號 + 6 fold + 5 MEMORY + 4 housekeeping + 3 defer + 2 keep-in-buffer
+
+**distill 觸發**：cron `twmd-distill-weekly` Sunday 03:15（news-lens 01:12 + weekly-report-sun 02:18 之後）。§未消化 27 條（達舊量門檻 ≥10 sweep + 5 條已達 vc≥3 質門檻）。Routine mode 自決 REFLEXES / MEMORY / pipeline 層；MANIFESTO / political / 商業決定 一律 defer 給哲宇（per CLAUDE.md §Bias 1 + §模式分流）。
+
+**消化目的地**：
+
+| 原 entry                                                    | 目的地                                                              | 處置                                                                                                |
+| ----------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| session-handle-mismatch-false-silent-death (vc=1)           | **REFLEXES #82 (f)** 名字也會被拿來當代理                           | fold（#82 proxy-signal 家族在「身份辨識」軸新形狀）                                                 |
+| snapshot-driven-fix-list-decay (vc=1)                       | **REFLEXES #84**（新編號）                                          | promote（跟 outbound-url-contract 合併立號）                                                        |
+| memory-canonical-location (vc=1)                            | BECOME §1.3 記憶層邊界 + MANIFESTO §11.5（已同 session 完成）       | housekeeping-done（already-covered，本條僅記錄已修正）                                              |
+| subagent-phantom-notification-wait (vc=2)                   | **REFLEXES #42 v7** 子代等一個不存在的通知                          | fold                                                                                                |
+| tool-self-recheck-divergence (vc=3)                         | **REFLEXES #83**（新編號）                                          | promote                                                                                             |
+| name-hallucination-gap-filling (vc=1)                       | **MEMORY §神經迴路** 人名幻覺第二型                                 | fold（Taiwan-specific babel guide）                                                                 |
+| exemption-list-divergence (vc=4)                            | **REFLEXES #83**                                                    | promote（同批合併）                                                                                 |
+| unparsed-arg-silent-pass (vc=1)                             | **REFLEXES #83**                                                    | promote（同批合併，鏡像 instance）                                                                  |
+| gate-false-positive-family (vc=3)                           | **REFLEXES #83**                                                    | promote（同批合併，主觸發）                                                                         |
+| shared-index-merge-sweep (vc=2)                             | **REFLEXES #68** 觸發 v3 merge commit 掃射面                        | fold                                                                                                |
+| verify-at-the-real-layer/headless-migration (vc=1)          | **REFLEXES #82 (g)** + **MEMORY §神經迴路** headless 遷移 checklist | fold（雙落點：ast≠runtime 進 #82，憑證檔案層進 MEMORY）                                             |
+| formatter-jurisdiction-over-payload (vc=1)                  | **REFLEXES #24** 形式 10                                            | fold                                                                                                |
+| batch-dispatch-loop-engineering-inline (vc=4, 14 instances) | **MEMORY §神經迴路** + **REFLEXES #68** 觸發 v4                     | fold（主體進 MEMORY，dispatcher 鎖 instance (9)(10) 進 #68）                                        |
+| format-tax-on-clownfish/warn-without-heal (vc=3)            | **REFLEXES #7** 完整路徑 warn+lint+auto-heal                        | fold                                                                                                |
+| close-as-ship-breaks-merged-contract (vc=1)                 | **REFLEXES #7** + **MEMORY §神經迴路**                              | fold（規則進 #7，Taiwan maintainer flow narrative 進 MEMORY）                                       |
+| reverse-crosslink-thesis-drift (vc=1)                       | **MEMORY §神經迴路** REWRITE Stage 5 缺口                           | fold（pipeline-specific，SOP 補強待未來 session）                                                   |
+| outbound-url-contract-unreconciled (vc=1)                   | **REFLEXES #82 (h)** + **REFLEXES #84**（新編號）                   | promote+fold（發佈側鏡像進 #82，生成產物對賬新軸立 #84）                                            |
+| background-agent-session-death (vc=1)                       | **REFLEXES #81** 背景 agent 不跨 session 存活變體                   | fold                                                                                                |
+| narrative-warmth-symmetry (vc=1)                            | defer 給觀察者                                                      | political-sensitive editorial framing，涉 MANIFESTO §13 延伸，Routine 不自決                        |
+| polish-hint-default-broken (vc=1)                           | defer 給觀察者                                                      | entry 自身已標「對外溝通屬 §自主權邊界」                                                            |
+| reader-funded-resilience (vc=1, severity=strategic)         | defer 給觀察者                                                      | 商業/經費決定屬 §自主權邊界                                                                         |
+| spore-inbox-capacity-warning (vc=3)                         | housekeeping-done + defer 給觀察者（殘留行動項）                    | SOP 已於 W29 self-evolve ship，entry 本身可 sweep；「減量 vs 加速 vs 拉高閾值」路線選擇仍待哲宇拍板 |
+| alert-does-not-retire-on-recovery                           | 已 folded to REFLEXES #82 (e)（2026-07-19）                         | housekeeping（Stage 0a zero-risk win，本次才真正掃出 §未消化）                                      |
+| external-attention-spotlight                                | 已 folded to REFLEXES #73 (e)（2026-07-19）                         | housekeeping（同上）                                                                                |
+| diff-patch-current-translation-cross-entry (vc=1)           | 保留 §未消化                                                        | keep-in-buffer（entry 自評 vc≥2 才升 canonical，本次未達）                                          |
+| parallel-subagent-scratch-race (vc=1)                       | 保留 §未消化                                                        | keep-in-buffer（entry 自評 vc≥2 或 race 命中未救回才升 canonical）                                  |
+| hook-set-e-cmdsubst-abort (vc=2)                            | **REFLEXES #24** 形式 11                                            | fold                                                                                                |
+
+**Promotion flow direction 符合**：LESSONS → REFLEXES（24 條合法 routine 自決層 promotion/fold）；LESSONS → MEMORY §神經迴路（5 條 session-specific narrative，合法）；無 LESSONS → MANIFESTO 跳級（3 條 defer 給觀察者，不逕寫）。
+
+**REFLEXES.md frontmatter sync**：v5.13（缺 footer，本次補上）→ v5.14；新增 #83/#84 兩號，條數 82→84；catalog index 表同步加兩列。
+
+**MEMORY.md frontmatter sync**：last_session 更新，§神經迴路 append 5 條。
+
+**Defer 給觀察者拍板**：
+
+| 候選                                                                                           | verification_count | defer 原因                                                |
+| ---------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------- |
+| EDITORIAL §立體地愛「敘事溫度對稱」候選（narrative-warmth-symmetry）                           | 1                  | 政治敏感題編輯技法，涉 MANIFESTO §13 延伸，需哲宇 in-loop |
+| MAINTAINER-PIPELINE polish-hint template 改「本篇若想我幫你改請說一聲」                        | 1                  | 對外溝通 tone 屬 §自主權邊界                              |
+| MEMBERSHIP-PIPELINE 候選（reader-funded > grant-funded 優先序）                                | 1                  | 商業/經費決定屬 §自主權邊界，severity=strategic           |
+| SPORE-INBOX [30,50) 高原路線選擇（減量 spore-pick / 加速 spore-publish / 拉高 auto-drop 閾值） | 3                  | SOP 已 ship 中間閾值，剩實作方向屬對外節律決策            |
+
+**Keep in buffer 2 條**（vc=1，entry 自評未達 canonical 門檻）：`diff-patch-current-translation-cross-entry` / `parallel-subagent-scratch-race` — 兩者皆 2026-07-14 twmd-babel-nightly 同一 session 單次觀察，entry 自身寫明「vc≥2 再升」，本次不強行 promote。
+
+| #   | 原教訓 entry                                | 消化目的地                                       | severity                | vc  |
+| --- | ------------------------------------------- | ------------------------------------------------ | ----------------------- | --- |
+| 1   | session-handle-mismatch-false-silent-death  | REFLEXES #82 (f)                                 | structural              | 1   |
+| 2   | snapshot-driven-fix-list-decay              | REFLEXES #84                                     | structural              | 1   |
+| 3   | memory-canonical-location                   | BECOME §1.3 + MANIFESTO §11.5（already-covered） | tactical                | 1   |
+| 4   | subagent-phantom-notification-wait          | REFLEXES #42 v7                                  | tactical                | 2   |
+| 5   | tool-self-recheck-divergence                | REFLEXES #83                                     | structural              | 3   |
+| 6   | name-hallucination-gap-filling              | MEMORY §神經迴路                                 | tactical                | 1   |
+| 7   | exemption-list-divergence                   | REFLEXES #83                                     | structural              | 4   |
+| 8   | unparsed-arg-silent-pass                    | REFLEXES #83                                     | structural              | 1   |
+| 9   | gate-false-positive-family                  | REFLEXES #83                                     | structural              | 3   |
+| 10  | shared-index-merge-sweep                    | REFLEXES #68                                     | structural              | 2   |
+| 11  | verify-at-the-real-layer/headless-migration | REFLEXES #82 (g) + MEMORY                        | tactical                | 1   |
+| 12  | formatter-jurisdiction-over-payload         | REFLEXES #24 形式 10                             | structural              | 1   |
+| 13  | batch-dispatch-loop-engineering-inline      | MEMORY §神經迴路 + REFLEXES #68                  | structural              | 4   |
+| 14  | format-tax-on-clownfish/warn-without-heal   | REFLEXES #7                                      | tactical                | 3   |
+| 15  | close-as-ship-breaks-merged-contract        | REFLEXES #7 + MEMORY                             | tactical                | 1   |
+| 16  | reverse-crosslink-thesis-drift              | MEMORY §神經迴路                                 | tactical                | 1   |
+| 17  | outbound-url-contract-unreconciled          | REFLEXES #82 (h) + #84                           | structural              | 1   |
+| 18  | background-agent-session-death              | REFLEXES #81                                     | tactical                | 1   |
+| 19  | narrative-warmth-symmetry                   | defer 給觀察者                                   | tactical                | 1   |
+| 20  | polish-hint-default-broken                  | defer 給觀察者                                   | maintainer-relationship | 1   |
+| 21  | reader-funded-resilience                    | defer 給觀察者                                   | strategic               | 1   |
+| 22  | spore-inbox-capacity-warning                | housekeeping-done + defer 殘留行動項             | tactical                | 3   |
+| 23  | alert-does-not-retire-on-recovery           | housekeeping（已 folded #82(e)）                 | tactical                | 1   |
+| 24  | external-attention-spotlight                | housekeeping（已 folded #73(e)）                 | awareness               | 2   |
+| 27  | hook-set-e-cmdsubst-abort                   | REFLEXES #24 形式 11                             | correctness             | 2   |
+
+---
+
 ## Defer 給觀察者拍板（ship-queue — 教訓已 canonical，剩實作待哲宇）
 
 2026-06-19 完整 distill 後，下列候選的**教訓**已全部 canonical 化（見 §已消化），剩下的只是 code/cron 實作決策（命中 §自主權邊界 >1-file / crontab → 待哲宇拍板 ship）。歷史 13 次 distill-cycle 紀錄已隨本次完整 distill 移除（traceability 在 git log + §已消化）。
@@ -1014,6 +823,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 | EVOLVE image-health pre-existing/media-poor 例外 | `--ignore=image-health` flag + viz partial-credit         | REWRITE-PIPELINE                    |
 
 **MANIFESTO 升級**：本 distill 唯一 MANIFESTO promotion（§外部尺 over 內視）已哲宇拍板 ship，無 pending MANIFESTO 候選。
+
+**2026-07-26 twmd-distill-weekly 新增 4 條**（教訓已 canonical 或 SOP 已 ship，剩對外/商業/政治判斷待哲宇）：
+
+| 候選                                                                                         | 動作（選項）                                                         | 教訓 canonical / 現況                                                    |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| EDITORIAL §立體地愛「敘事溫度對稱」是否收 canonical                                          | 收進 EDITORIAL Step 0.6.7 第四道 / 暫緩累積 vc                       | 觀察記錄在 §已消化（narrative-warmth-symmetry，vc=1）                    |
+| MAINTAINER polish-hint template 是否改「本篇若想我幫你改請說一聲」default 句式               | 改 template / 維持現狀                                               | 觀察記錄在 §已消化（polish-hint-default-broken，vc=1）                   |
+| Reader-funded > grant-funded 是否定為 sustainability 優先序                                  | 建 MEMBERSHIP-PIPELINE（Liberapay/GitHub Sponsors/Substack）/ 暫不動 | 觀察記錄在 §已消化（reader-funded-resilience，vc=1，severity=strategic） |
+| SPORE-INBOX [30,50) 高原三選一（減量 spore-pick / 加速 spore-publish / 拉高 auto-drop 閾值） | 三選一                                                               | SOP 已 ship 中間閾值（v2.1），entry 本身已 housekeeping-done             |
 
 ## ❌ 已歸檔（過時 / 撤回）
 

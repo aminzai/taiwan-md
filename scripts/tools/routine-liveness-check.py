@@ -53,7 +53,10 @@ TAG_PATTERNS: dict[str, list[str]] = {
     "twmd-data-refresh-pm": ["data-refresh-pm", "twmd-data-refresh-pm"],
     "twmd-babel-nightly": ["twmd-babel"],
     "twmd-embeddings-nightly": ["embeddings"],
-    "twmd-maintainer-daily": ["twmd-maintainer-am", "maintainer-am", "twmd-maintainer:"],
+    "twmd-maintainer-daily": [
+        "twmd-maintainer-daily", "maintainer-daily",
+        "twmd-maintainer-am", "maintainer-am", "twmd-maintainer:",
+    ],
     "twmd-maintainer-pm": ["twmd-maintainer-pm", "maintainer-pm"],
     "twmd-spore-harvest-am": ["twmd-spore-harvest", "spore-harvest"],
     "taiwanmd-routine-twmd-feedback-triage": ["twmd-feedback-triage", "feedback-triage"],
@@ -65,6 +68,8 @@ TAG_PATTERNS: dict[str, list[str]] = {
     "twmd-routine-audit-weekly": ["routine-audit"],
     "twmd-spore-pick-daily": ["spore-pick"],
     "twmd-spore-publish-daily": ["spore-publish"],
+    "twmd-routine-sync": ["twmd-routine-sync"],
+    "twmd-supporters-weekly": ["twmd-supporters-weekly", "supporters"],
     "twmd-music-media-audit-weekly": ["music-media-audit"],
 }
 
