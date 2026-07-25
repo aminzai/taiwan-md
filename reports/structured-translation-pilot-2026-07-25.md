@@ -53,7 +53,7 @@ python3 scripts/tools/lang-sync/structured-translate.py <zh_path> \
   - `Food/台灣咖啡文化.md`（17 條腳註，6 個 H2；且**唯一**含「無 URL 純文字引註」的腳註，見 bug #1）
 - **語言**：vi + ar（哲宇 directive 指定）。ar 是今天稍早才誕生的語言（`reports/language-birth-2026-07-25.md`，Stage 1-2 剛完成，`enabled: false`），本 pilot 是 ar 第一批真實翻譯輸出之一。
 - **Backend**：`openrouter:nvidia/nemotron-3-ultra-550b-a55b:free`（哲宇指定），單一 backend 不走 cascade——pilot 要看單一模型在結構化拆解下的行為，不要 cascade fallback 把訊號混淆。
-- **輸出位置**：`/tmp/structured-pilot/knowledge/<lang>/<category>/<slug>.md`（放在系統 `/tmp` 下的 `knowledge/` 子路徑，是刻意選擇——讓 `article-health.py` 與 `cjk-leak-check.py` 的路徑判斷（`Path.parts` 找 `knowledge` 子字串）直接answers正確語言，不需要額外參數。`verify-translation.py` 內部 ratio-check 子檢查用 `Path.relative_to(REPO)`，遇絕對路徑會整支炸掉；用 repo 內已 gitignore 的 `tmp/` 目錄放一個指回 `/tmp/structured-pilot` 的 symlink 繞過，實際位元組仍 100% 只在系統 `/tmp`，不寫 `knowledge/`）。
+- **輸出位置**：`/tmp/structured-pilot/knowledge/<lang>/<category>/<slug>.md`（放在系統 `/tmp` 下的 `knowledge/` 子路徑，是刻意選擇——讓 `article-health.py` 與 `cjk-leak-check.py` 的路徑判斷（`Path.parts` 找 `knowledge` 子字串）直接判斷出正確語言，不需要額外參數。`verify-translation.py` 內部 ratio-check 子檢查用 `Path.relative_to(REPO)`，遇絕對路徑會整支炸掉；用 repo 內已 gitignore 的 `tmp/` 目錄放一個指回 `/tmp/structured-pilot` 的 symlink 繞過，實際位元組仍 100% 只在系統 `/tmp`，不寫 `knowledge/`）。
 
 ---
 
