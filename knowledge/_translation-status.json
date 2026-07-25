@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T19:42:45+08:00",
-    "zhCommitHead": "b41d3660d",
+    "lastUpdated": "2026-07-25T19:43:18+08:00",
+    "zhCommitHead": "74a25102a",
     "totalZh": 864,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 864,
-        "fresh": 322,
+        "fresh": 323,
         "stale": 8,
         "metadata_stale": 1,
-        "missing": 533,
+        "missing": 532,
         "orphan": 0
       },
       "hi": {
@@ -35906,8 +35906,8 @@
           "sourceContentHash": "sha256:1bf33f9ec83e5490",
           "sourceBodyHash": "sha256:cfbcf80a5d100a4c",
           "translatedAt": "2026-07-25T12:45:15+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "74a25102",
+          "translationLastModified": "2026-07-25T19:42:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -43907,7 +43907,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/hsu-shu-ching-olympic-weightlifting-champion.md",
+          "translatedFrom": "People/許淑淨.md",
+          "sourceCommitSha": "0ea5d5d42",
+          "sourceContentHash": "sha256:81d60bf0143f4da3",
+          "sourceBodyHash": "sha256:a8a07476ede69bdb",
+          "translatedAt": "2026-07-25T19:27:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
