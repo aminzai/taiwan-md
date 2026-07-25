@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T06:56:43+08:00",
-    "zhCommitHead": "df87cf5cf",
+    "lastUpdated": "2026-07-26T07:13:51+08:00",
+    "zhCommitHead": "899174ed0",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 401,
+        "fresh": 406,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 452,
+        "missing": 447,
         "orphan": 0
       },
       "hi": {
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 258,
+        "fresh": 261,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 606,
+        "missing": 603,
         "orphan": 0
       },
       "ru": {
@@ -2771,7 +2771,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/mayday-band.md",
+          "translatedFrom": "Music/五月天.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2d73cb00a5f5d254",
+          "sourceBodyHash": "sha256:7f6b080a953be003",
+          "translatedAt": "2026-07-26T07:02:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Music/mayday-band.md",
@@ -2780,8 +2791,8 @@
           "sourceContentHash": "sha256:2d73cb00a5f5d254",
           "sourceBodyHash": "sha256:7f6b080a953be003",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -8205,7 +8216,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-international-trade-policy.md",
+          "translatedFrom": "Economy/台灣國際貿易政策.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:46d9237ef98b45d7",
+          "sourceBodyHash": "sha256:9fbe7b79e0934c74",
+          "translatedAt": "2026-07-26T07:02:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -9065,7 +9087,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-enterprise-cathay-financial.md",
+          "translatedFrom": "Economy/台灣企業：國泰金控.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:4749f0faadb8e7bf",
+          "sourceBodyHash": "sha256:ebc33c96c44483b0",
+          "translatedAt": "2026-07-26T07:02:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -9711,8 +9744,8 @@
           "sourceContentHash": "sha256:d6da6fce353b5bfa",
           "sourceBodyHash": "sha256:4d55bf95947dc191",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -12177,8 +12210,8 @@
           "sourceContentHash": "sha256:8cc121a9cccbf90a",
           "sourceBodyHash": "sha256:98feb4bab36f053f",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -17126,7 +17159,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/taiwan-gamers-wildest-moments.md",
+          "translatedFrom": "Technology/台灣玩家的瘋狂時刻.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:03ef929d72a03265",
+          "sourceBodyHash": "sha256:dd0e3abb83d55e63",
+          "translatedAt": "2026-07-26T05:17:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-gamers-wildest-moments.md",
@@ -42257,7 +42301,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Nature/taiwanese-leopard-cat-conservation.md",
+          "translatedFrom": "Nature/台灣石虎保育.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:bbca77501c197a81",
+          "sourceBodyHash": "sha256:76487fd0d26564e6",
+          "translatedAt": "2026-07-26T07:02:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -46983,8 +47038,8 @@
           "sourceContentHash": "sha256:81d60bf0143f4da3",
           "sourceBodyHash": "sha256:a8a07476ede69bdb",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -48696,8 +48751,8 @@
           "sourceContentHash": "sha256:b13816d98f58f322",
           "sourceBodyHash": "sha256:56208a71719992d2",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "status": "fresh",
@@ -50234,8 +50289,8 @@
           "sourceContentHash": "sha256:860b8c0055b0c881",
           "sourceBodyHash": "sha256:34601056f655cc89",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "status": "fresh",
@@ -51867,8 +51922,8 @@
           "sourceContentHash": "sha256:887b51489bb209f2",
           "sourceBodyHash": "sha256:f656fc0bb3872e67",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
@@ -53130,8 +53185,8 @@
           "sourceContentHash": "sha256:fe236b66343104a0",
           "sourceBodyHash": "sha256:fa5aded8dae3b311",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "status": "fresh",
@@ -53643,8 +53698,8 @@
           "sourceContentHash": "sha256:6b588911c485c4d9",
           "sourceBodyHash": "sha256:3582a490ea4120f2",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "status": "fresh",
@@ -54383,8 +54438,8 @@
           "sourceContentHash": "sha256:a9c781639a414788",
           "sourceBodyHash": "sha256:d1cce1c9cb32c2ba",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -54980,8 +55035,8 @@
           "sourceContentHash": "sha256:6b0f80761ab45ab9",
           "sourceBodyHash": "sha256:2885ebb0691722a3",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -66505,8 +66560,8 @@
           "sourceContentHash": "sha256:1893791073a1e549",
           "sourceBodyHash": "sha256:c10dde5e8f5a2f8e",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "status": "fresh",
@@ -72519,7 +72574,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/chuang-chih-yuan-table-tennis-legend.md",
+          "translatedFrom": "People/莊智淵.md",
+          "sourceCommitSha": "0ea5d5d42",
+          "sourceContentHash": "sha256:8f24d65425473ad4",
+          "sourceBodyHash": "sha256:1216e697fc7e6c44",
+          "translatedAt": "2026-07-26T07:02:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/chuang-chih-yuan-table-tennis-legend.md",
@@ -83795,8 +83861,8 @@
           "sourceContentHash": "sha256:7935e86b210536e5",
           "sourceBodyHash": "sha256:dd15e8c65b7a98f1",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -84056,8 +84122,8 @@
           "sourceContentHash": "sha256:1cb263ad912afc83",
           "sourceBodyHash": "sha256:308ab8066ca9a9d0",
           "translatedAt": "2026-07-26T05:17:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdb436c1",
+          "translationLastModified": "2026-07-26T06:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -88585,7 +88651,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/geography-and-geology.md",
+          "translatedFrom": "Geography/台灣島嶼地理特色與形成.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:fd5b44b607710000",
+          "sourceBodyHash": "sha256:b019853dd2be5b1d",
+          "translatedAt": "2026-07-26T07:02:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -91191,7 +91268,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
+          "translatedFrom": "Geography/台灣五大地形與地理結構.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:b14a14cb2829b8df",
+          "sourceBodyHash": "sha256:0d43b9a8dba0aa39",
+          "translatedAt": "2026-07-26T07:02:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
