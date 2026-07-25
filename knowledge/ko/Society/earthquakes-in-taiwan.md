@@ -1,19 +1,20 @@
 ---
 title: '지진: 지우와 함께 춤추는 섬의 기억'
 description: '왜 외국인들은 질겁을 하는데, 대만인들은 라면이 붙었나 안 붙었나만 신경 쓸까? 청나라 시대의 "지생모(地生毛)"에서 921 대지진의 102초까지, 이 섬이 어떻게 재난을 일상 속에 체화시켜 왔는지 살펴본다.'
-date: '2026-04-17'
+date: 2026-04-17
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '사회 회복력'
 tags: ['문화', '일상', '역사', '재난 기억', '지우 전설']
-readingTime: '6'
-lastVerified: '2026-04-17'
+readingTime: 6
+lastVerified: 2026-04-17
 lastHumanReview: false
 translatedFrom: 'Society/地震.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:eb48495c8ad7ee41'
 sourceBodyHash: 'sha256:58b5b912b5042f24'
 translatedAt: '2026-05-02T01:17:15+08:00'
+featured: false
 ---
 
 > **30초 개요:** 대만은 판(板) 경계에 위치해 있어 지진은 이 섬의 숙명이다. 본문은 대만 고유의 "지우翻身(地牛翻身)" 전설에서 출발하여, 청나라 시대의 이상 기록부터 921 대지진이라는 제도적 전환점에 이르기까지, 대만인이 어떻게 공포에서 "담담함"으로 나아갔는지, 그리고 흔들림 속에서 세계적 수준의 방재 회복력을 구축해 왔는지 탐구한다.

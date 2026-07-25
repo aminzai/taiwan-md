@@ -8,12 +8,13 @@ author: 'Taiwan.md Contributors'
 date: 2026-04-19
 readingTime: 12
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
 translatedFrom: People/蕭煌奇.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:566f9f83e753fc69'
 sourceBodyHash: 'sha256:2a6df4f467257ee5'
 translatedAt: 2026-05-01T22:19:01+08:00
+featured: false
 ---
 
 > 1976년, 샤오황치는 반차오(板橋)에서 태어났으며, 선천성 백내장으로 두 번 실명했다. 그러나 이 "볼 수 없는" 경험은 오히려 그의 음악과 인생의 양분이 되었다. 그는 대만 최초로 4회 금곡 어워드 최우수 대만어 남자 가수상을 수상한 기록 보유자이자, 대만을 대표하여 패럴림픽에 출전해 유도 동메달을 획득한 선수이기도 하다. 1995년, 그는 「전방위 밴드」를 창단하여 시각 장애 음악인의 전문화 길을 개척했다. 최근에는 독특한 「지옥 개그」 유머 감각으로 사회가 장애인에게 가진 비극적 이미지를 뒤집으며, 노래와 너그러운 인생 태도로 어둠 속에서도 가장 빛나는 인생을 살아갈 수 있음을 증명했다.

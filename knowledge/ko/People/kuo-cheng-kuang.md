@@ -5,7 +5,7 @@ date: 2026-04-06
 tags: ['궈정광', 'NASA', '우주 식품', '블랙리스트', '타이완 민주화 운동']
 subcategory: '과학과 연구'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 7
 translatedFrom: 'People/郭正光.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
 translatedAt: '2026-04-14T19:25:17+08:00'
+lastVerified: 2026-04-06
+lastHumanReview: false
 ---
 
 # 궈정광

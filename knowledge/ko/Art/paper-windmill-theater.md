@@ -1,7 +1,7 @@
 ---
 title: '종이풍차극단: 타이완의 꿈을 움직인 돈키호테, 30년을 가로지른 예술의 장정'
 description: '1992년의 극장적 광상에서 368개 향진을 두루 찾은 ‘신문화운동’에 이르기까지, 종이풍차극단은 ‘바람이 있으면 움직이고, 바람이 없으면 스스로 움직인다’는 정신으로 타이완 어린이들에게 예술의 첫걸음을 밝혀 주었다. 바리 대화재와 팬데믹의 큰 타격을 겪은 뒤에도 창립자 리융펑은 우울과 부채 속에서 팀을 이끌고 재기했으며, 거대한 《비의 말》과 지역 이야기를 통해 이 섬의 집단기억을 엮어 냈다.'
-date: '2026-06-16'
+date: 2026-06-16
 author: 'Taiwan.md Contributors'
 category: 'Art'
 subcategory: '表演藝術'
@@ -16,10 +16,10 @@ tags:
     '돈키호테',
     '아동극',
   ]
-readingTime: '18'
-lastVerified: '2026-06-16'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 18
+lastVerified: 2026-06-16
+lastHumanReview: false
+featured: false
 translatedFrom: 'Art/紙風車劇團.md'
 sourceCommitSha: '088a688b2'
 sourceContentHash: 'sha256:dac39dc01ba71011'

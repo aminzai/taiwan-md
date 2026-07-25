@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: '군사 역사'
 category: 'History'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-24
@@ -22,6 +22,7 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:24a72a8ef4ad1c70'
 sourceBodyHash: 'sha256:67689aef546b2c21'
 translatedAt: '2026-04-14T05:15:26+08:00'
+lastHumanReview: false
 ---
 
 # 승리로(勝利路)의 두 얼굴: 장갑병 쿠데타부터 "대형 주차장"까지, 후커우의 기억

@@ -18,7 +18,7 @@ tags:
   ]
 subcategory: '교통과 이동'
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md 編輯團隊'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-23
@@ -27,6 +27,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0b2e856857f62b1e'
 sourceBodyHash: 'sha256:e5a7aa30573d4059'
 translatedAt: '2026-04-14T04:35:32+08:00'
+lastHumanReview: false
 ---
 
 # 대만 지하철 발전사: 피와 돈으로 쓴 도시 진화론

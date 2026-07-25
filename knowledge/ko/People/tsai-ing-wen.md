@@ -4,8 +4,8 @@ description: '타이완 최초의 여성 대통령(2016-2024). 국제 무역법 
 date: 2026-03-17
 tags: ['인물', '채잉웬', '대통령', '여성 지도자', '민주주의', '정치', '원주민']
 subcategory: '政治與民主'
-lastVerified: 2026-05-23
-lastHumanReview: true
+lastVerified: 2026-07-12
+lastHumanReview: false
 rationale:
   why_this_hook: '2012/1/14 패배의 밤 "울어도 좋습니다만 기를 죽이지 마십시오" + 4년 후 689만 표로 당선. 전기 중 반전호가 가장 두드러지는 진입점으로, 결말 "조용함도 하나의 리더십 스타일" 과 수미상응.'
   whats_excluded: '6개 비판 진영: 심청(양안 악화 책임) / 심록(중화민국 타이완 프레이밍 포섭) / 민중당(동성결혼 전문법 / 에너지 / 사법개혁 / 집값) / 진보파(동성결혼 이등 / 원주민 후속 미흡) / strategic ambiguity 파 / 당내 파벌 세부. 대부분 "범위 외" (독립 의제 article 처리) + "분량 제한". 이미 prose cover: 동성결혼 + 원주민 critique 는 §"두 개의 서명" / 방역 critique 는 §"817만 표" / 단교 + 언론자유 (中天) brief hedge 는 §"떠날 때".'
@@ -21,6 +21,9 @@ image: '/article-images/people/tsai-2016-campaign.webp'
 imageCredit: 'MiNe (sfmine79)'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg'
+author: 'Taiwan.md'
+featured: false
+category: 'People'
 ---
 
 # 채잉웬(蔡英文)

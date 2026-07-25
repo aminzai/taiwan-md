@@ -5,13 +5,16 @@ date: 2026-03-20
 tags: ['교육', '교육 혁신', 'PaGamO', '게이미피케이션', '대만대', '교육 혁신']
 subcategory: '교육과 사회'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 5
 translatedFrom: 'People/葉丙成.md'
 sourceCommitSha: 'df2e7558'
 sourceContentHash: 'sha256:340bb6abbf6b93a5'
 sourceBodyHash: 'sha256:f85ae58b5cc5815d'
 translatedAt: '2026-06-16T17:14:05Z'
+featured: false
+lastVerified: 2026-03-20
+lastHumanReview: false
 ---
 
 # 예빙청：확률 수업에서 시작된 교육 혁명

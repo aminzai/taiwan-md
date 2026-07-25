@@ -1,7 +1,7 @@
 ---
 title: '대만 음식 총람: 순수하게 대만적인 요리는 없지만, 모든 요리가 가장 대만적이다'
 description: '1949년 자이 분수 원형교차로 옆에서 린톈서우는 닭고기를 저며 흰밥 위에 얹고 민난식 조림 국물을 끼얹었다; 전후 대만 주둔 미군이 수이상 공항에 들어온 뒤 대량의 칠면조를 대만으로 가져오면서, 이 한 그릇은 닭고기밥에서 칠면조고기밥으로 진화했다. 원주민의 석판구이 산돼지, 객가식 생강채 돼지곱창볶음, 군인촌의 쓰촨풍 소고기면에서 1986년 타이중에서 발명된 버블티, 그리고 2025년 미쉐린이 수록한 419개 식당에 이르기까지. 이 섬은 사백 년에 걸쳐 빌려온 모든 요리를 자기 방식으로 끓여냈다.'
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: '美食總覽'
@@ -19,9 +19,9 @@ tags:
     '루러우판',
     '반줘',
   ]
-lastVerified: '2026-05-18'
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-05-18
+lastHumanReview: false
+featured: true
 translatedFrom: 'Food/台灣美食總覽.md'
 sourceCommitSha: 'bb411ee0'
 sourceContentHash: 'sha256:5170de2db0a4b0df'

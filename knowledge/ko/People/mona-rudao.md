@@ -28,6 +28,7 @@ image: '/article-images/people/mona-rudao-seediq-leaders-1931.webp'
 imageCredit: '海老原耕平《霧社討伐寫眞帖》（1931）'
 imageLicense: 'Public domain (PD-Japan-oldphoto)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Mona_Rudao_and_Seediq_tribal_leaders.jpg'
+difficulty: 'advanced'
 ---
 
 # 모나·루다오: 20위안 동전에 새겨진 항일 영웅과 중국도 일본도 없던 세계

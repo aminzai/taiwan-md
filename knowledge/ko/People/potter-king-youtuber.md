@@ -7,13 +7,14 @@ category: 'People'
 subcategory: '網紅與媒體'
 author: 'Taiwan.md'
 readingTime: 10
-lastVerified: 2026-05-02
-lastHumanReview: false
+lastVerified: 2026-01-01
+lastHumanReview: true
 translatedFrom: 'People/波特王.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f007d55cb9bbfd03'
 sourceBodyHash: 'sha256:08c56227ca69228f'
 translatedAt: '2026-05-02T09:01:00+08:00'
+featured: false
 ---
 
 ## 30초 개요

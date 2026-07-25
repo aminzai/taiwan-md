@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4e7bd6002d83c43b'
 sourceBodyHash: 'sha256:0f6781254171f7ba'
 translatedAt: '2026-06-11T16:38:39Z'
+featured: false
 ---
 
 ## 신돼지: 타이완 신앙과 동물권의 백년 갈등과 전환의 길

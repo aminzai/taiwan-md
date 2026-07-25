@@ -5,7 +5,7 @@ tags: ['경제', '야시장', '대만', '비즈니스 모델', '관광', '길거
 subcategory: '경제 발전'
 date: 2026-03-21
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'Economy/夜市經濟學.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '7678a430'
 sourceContentHash: 'sha256:d707615db91a024a'
 sourceBodyHash: 'sha256:7e08a20853bbe066'
 translatedAt: '2026-06-10T16:42:09Z'
+lastHumanReview: false
 ---
 
 # 야시장 경제학: 브랜드 없는 상업의 기적

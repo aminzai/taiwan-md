@@ -5,7 +5,7 @@ date: 2026-04-05
 tags: [소셜미디어, 대만스타트업, 젊은세대, 포럼, 익명, 대학, 테크]
 subcategory: '인터넷과 디지털 문화'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 translatedFrom: 'Culture/Dcard.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a0a6e4b6f985e523'
 sourceBodyHash: 'sha256:0cbd55ce25cb1102'
 translatedAt: '2026-06-16T17:10:38Z'
+lastHumanReview: false
 ---
 
 # Dcard

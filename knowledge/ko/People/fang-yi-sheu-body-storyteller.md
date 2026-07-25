@@ -10,8 +10,8 @@ readingTime: 7
 #   whats_excluded: "葛蘭姆技巧細節；各場演出評論摘錄；拉芳每年活動清單"
 #   where_it_hedges: "「參演李安電影」無具體作品無法驗證，已移除"'
 lastVerified: 2026-05-07
-lastHumanReview: 'true'
-featured: 'false'
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/許芳宜.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:a31b5339a894147e'

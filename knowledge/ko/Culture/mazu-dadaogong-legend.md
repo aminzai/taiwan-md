@@ -5,7 +5,7 @@ date: 2026-03-21
 tags: ['대만 문화', '민속 신앙', '마조', '보생대제', '기상 속담']
 subcategory: '종교와 민속'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 translatedFrom: 'Culture/媽祖與大道公的傳說.md'
@@ -13,6 +13,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e0f0df37674e0a42'
 sourceBodyHash: 'sha256:0cf1fac1d7c9b8b4'
 translatedAt: '2026-06-16T17:19:04Z'
+lastHumanReview: false
 ---
 
 > **30초 요약**: 음력 3월 15일 보생대제 생일에는 반드시 바람이 불고, 3월 23일 마조 생일에는 반드시 비가 내린다. 대만 사람들은 "대도공 바람, 마조 비"라는 속담으로 수천 년간의 기상 패턴을 기록해왔다. 그런데 민간 전설에 따르면, 이는 두 신 사이에 맺어지지 못한 사랑 이야기 때문이라고 한다.

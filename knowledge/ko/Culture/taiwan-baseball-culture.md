@@ -5,7 +5,16 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '運動文化'
-tags: ['야구', '중화직업야구', '홍엽 소년야구', '국구', '체육', '왕젠민', '오타니 쇼헤이 효과']
+tags:
+  [
+    '야구',
+    '중화직업야구',
+    '홍엽 소년야구',
+    '국구',
+    '체육',
+    '왕젠민',
+    '오타니 쇼헤이 효과',
+  ]
 readingTime: 10
 lastVerified: 2026-03-19
 lastHumanReview: true
@@ -15,6 +24,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:9a4380e463583d63'
 sourceBodyHash: 'sha256:ffebfda3574ab04b'
 translatedAt: '2026-05-17T05:34:52+08:00'
+difficulty: 'beginner'
 ---
 
 # 타이완 야구 문화
@@ -146,9 +156,15 @@ translatedAt: '2026-05-17T05:34:52+08:00'
 ## 참고 문헌
 
 [^1]: 류창더(劉昌德), 〈제국이 깃발을 흔들고 민족이 외친다: 야구 노동의 국제 분업과 스포츠 민족 담론의 전환〉, 《타이완사회연구계간》 제70호, 2008년, https://www.airitilibrary.com/Publication/Information?publicationID=10219528; 류창더 관련 연구 성과, 정치대학교 커뮤니케이션대학, https://comm.nccu.edu.tw/PageStaffing/Detail?fid=11123&id=3714
+
 [^2]: 타이완 야구 위키관, 타이완 야구사 항목, https://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81
+
 [^3]: 위키백과, 〈타이완 야구사〉, 〈홍엽 소년야구팀〉, 〈중화직업야구대연맹〉, https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E5%8F%B2
+
 [^4]: 〈야구는 어떻게 국구가 되었는가? 홍엽의 이야기에서 시작하여〉, 역사학 감자전(歷史學柑仔店), https://kamatiam.org/棒球如何成為國球從紅葉的故事說起/
+
 [^5]: 〈타이완 야구: 30년간 승부조작 스캔들에서 세계 챔피언까지, 식민 역사와 국가 정체성을 어떻게 담아왔는가?〉, 천하잡지(天下雜誌), https://www.cw.com.tw/article/5132888
+
 [^6]: 중앙연구원 디지털장고, 백년 야구사 특집 전시, https://digitalarchives.tw/Exhibition/2445/1.html
+
 [^7]: 중화직업야구대연맹 공식 웹사이트 역사 자료, https://www.cpbl.com.tw/

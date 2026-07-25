@@ -1,7 +1,7 @@
 ---
 title: '금과석(진궈스): 모래금에서 전포, 아직 씻겨지지 않은 비소 토양까지, 한 산 위에 겹겹이 쌓인 삶의 층위'
 description: '1942년 11월 14일, 523명의 연합군 전포가 금과석의 구리 광산갱으로 들어섰다. 누군가는 3년을 견디고, 누군가는 그 산을 벗어나지 못한 날들이 시작되었다. 이 산이 기억되는 방식은 대부분 13층 유적지의 주황색 야간 조명, 만져볼 수 있는 220kg 금괴, 구펀을 들르는 길에 우연히 마주치는 비경 해안 풍경이다. 그러나 같은 산 아래에는 현지 광부가 폐를 대가로 바꾼 금, 500여 명의 외국 전포의 뼈, 그리고 아직 정화되지 않은 비소 토양이 묻혀 있다. 이것들을 함께 보아야 비로소 금과석 전체를 볼 수 있다.'
-date: '2026-07-05'
+date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Geography'
 subcategory: '東北角・礦業聚落'
@@ -20,10 +20,10 @@ tags:
   - '권제당'
   - '광업 마을'
   - '일제 강점기(일치하)'
-readingTime: '24'
-lastVerified: '2026-07-05'
-lastHumanReview: 'true'
-featured: 'false'
+readingTime: 24
+lastVerified: 2026-07-05
+lastHumanReview: true
+featured: false
 translatedFrom: 'Geography/金瓜石.md'
 sourceCommitSha: '676c8cd6'
 sourceContentHash: 'sha256:36ec0adabddd5612'

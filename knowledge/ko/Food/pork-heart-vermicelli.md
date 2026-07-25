@@ -1,7 +1,7 @@
 ---
 title: '알루미늄 컵 안의 인내: 아밍 돼지심 겨울면 70년간의 수중 철학'
 description: '타이난 보안로 72번지, 황현명(黃賢明)의 아밍 돼지심 겨울면은 오후 5시부터 판매를 시작하며 매일 저녁 긴 줄이 서고, 2022년 미쉐린 비브르에 등재되었다. 핵심은 재료가 아니라 조리법이다— 돼지심은 저렴한 노동자 내장이지만, 돼지심 조각을 알루미늄 컵에 넣어 수중 가열하면 온도가 외부에서 천천히 스며들어 비냄새 없고, 딱딱하지 않으며, 단맛이 나는 돼지심을 만든다.'
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '經典小吃'
@@ -13,8 +13,8 @@ tags:
   - '미쉐린'
   - '소먹'
   - '내장'
-readingTime: '6'
-lastVerified: '2026-07-02'
+readingTime: 6
+lastVerified: 2026-07-02
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/豬心冬粉.md'

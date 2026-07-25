@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:c211c97e077ebc86'
 sourceBodyHash: 'sha256:abaef255e91e930b'
 translatedAt: '2026-06-09T04:16:34+08:00'
+featured: false
 ---
 
 > Taiwan's online gathering places for gaming players have changed homes three times over thirty years. The "Dungeon" of the late 1990s was a black treasure trove filled with cheats; the "Gamebase" of 2000 was the first Chinese-language gaming portal; "Bahamut," which grew out of the National Central University BBS in 1996, saw its membership exceed 6 million by 2025, becoming one of the top five websites in Taiwan by traffic. These three names mark the migration route of Taiwan's gaming community from the dial-up era to the mobile era, and they record one thing: the life and death of a community depends on who is willing to stay, not on who arrives first.

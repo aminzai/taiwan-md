@@ -5,7 +5,7 @@ date: 2026-04-08
 tags: ['공중보건', 'SARS', '코로나19', '방역', '전국민건강보험', '질병관리서']
 subcategory: '사회'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 14
 featured: false
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '49728f9d'
 sourceContentHash: 'sha256:84ffcc67e2e155cf'
 sourceBodyHash: 'sha256:8b3cd9fb7313dbef'
 translatedAt: '2026-07-14T16:49:48Z'
+lastHumanReview: false
 ---
 
 > **30초 요약:** 2003년 SARS는 대만에서 73명의 사망자를 냈고, 허핑병원 봉쇄 사건은 공중보건 역사의 집단 트라우마가 됐다. 이후 대만은 방역 체계를 사실상 전면 재건했다. 질병관리서 격상, 중앙유행전염병지휘센터 법제화, 감염 관리 절차 전면 개편. 2020년 코로나19가 전 세계로 확산되자 대만은 최초 18개월간 지역사회 감염 제로에 가까운 상태를 유지하며 국제사회로부터 '대만 모델'이라는 평가를 받았다. 2026년 4월에는 대만 최초의 국내 발생 H7N7 조류독감 '조류에서 사람으로' 감염 사례가 보고되어 방역 체계가 다시 한번 시험대에 올랐다.

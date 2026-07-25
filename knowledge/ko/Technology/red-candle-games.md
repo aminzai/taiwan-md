@@ -16,7 +16,7 @@ author: 'zaious'
 featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-readingTime: '10'
+readingTime: 10
 translatedFrom: 'Technology/赤燭遊戲.md'
 sourceCommitSha: 'c5f337929'
 sourceContentHash: 'sha256:33c90e10581f31c9'

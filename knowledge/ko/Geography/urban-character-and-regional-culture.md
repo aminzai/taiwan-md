@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:9d646e504e06dd7e'
 sourceBodyHash: 'sha256:3ece4cc0080f2397'
 translatedAt: '2026-05-20T05:08:30+08:00'
+difficulty: 'beginner'
 ---
 
 # 도시 특색과 지역 문화
@@ -302,7 +303,11 @@ translatedAt: '2026-05-20T05:08:30+08:00'
 ## 참고 자료
 
 [^1]: 내정부 호정사, [인구통계자료 조회 시스템](https://www.ris.gov.tw/).
+
 [^2]: 국립양명교통대학, [공식 웹사이트](https://www.nycu.edu.tw/), 학교사와 학교 소개 포함.
+
 [^3]: 교통부 관광서, [도시 관광 통계자료](https://admin.taiwan.net.tw/).
+
 [^4]: 린수룽 등, [《대만 다시 읽기: 인류학의 시야》](https://www.books.com.tw/products/0010659492).
+
 [^5]: 각 도시 문화국, [공식 출판물(타이난시 문화국을 예로 함)](https://culture.tainan.gov.tw/).

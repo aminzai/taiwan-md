@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: '의료와 건강'
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 lastVerified: 2026-03-22
 translatedFrom: 'Lifestyle/溫泉文化.md'
@@ -23,6 +23,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5c053dd9110acc9b'
 sourceBodyHash: 'sha256:62212c95c5c34acf'
 translatedAt: '2026-04-14T04:41:25+08:00'
+featured: false
+lastHumanReview: false
 ---
 
 # 온천 문화: 전쟁의 상처에서 힐링 제국으로

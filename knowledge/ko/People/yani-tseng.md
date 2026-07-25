@@ -6,7 +6,7 @@ tags:
   ['스포츠', '골프', 'LPGA', '세계 1위', '프로 골프', '그랜드슬램', '여자 골프']
 subcategory: '스포츠'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'People/曾雅妮.md'
@@ -14,6 +14,8 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
 translatedAt: '2026-04-14T19:24:22+08:00'
+lastVerified: 2026-03-31
+lastHumanReview: false
 ---
 
 # 쩡야니 (曾雅妮)

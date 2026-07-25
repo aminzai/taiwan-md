@@ -5,7 +5,7 @@ date: 2026-03-24
 tags: [전통축제, 민속, 마조순례, 옌수이봉포, 설날, 중추절바비큐]
 subcategory: '종교와 민속'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
 translatedFrom: 'Culture/傳統節慶與慶典.md'
@@ -14,6 +14,8 @@ sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3bac2c2faa70bd6e'
 sourceBodyHash: 'sha256:325c4509ad66d26d'
 translatedAt: '2026-06-16T17:10:38Z'
+lastHumanReview: false
+difficulty: 'intermediate'
 ---
 
 # 역병이 사라지자 불꽃이 전통이 되었다: 대만 축제 문화의 예상치 못한 진화

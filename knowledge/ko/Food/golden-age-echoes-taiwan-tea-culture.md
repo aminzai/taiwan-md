@@ -5,7 +5,7 @@ date: 2026-03-23
 category: 'Food'
 tags: ['Food', '차 문화', '우롱차', '고산차', '손흔들 음료', '버블티']
 subcategory: '음료 문화'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false

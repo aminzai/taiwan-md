@@ -16,7 +16,7 @@ tags:
     '요리 부흥',
   ]
 subcategory: '민족 음식'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-29
@@ -28,6 +28,8 @@ sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:d67f3581051e39e8'
 sourceBodyHash: 'sha256:50386f161e8d186f'
 translatedAt: '2026-04-14T03:34:17+08:00'
+lastHumanReview: false
+difficulty: 'intermediate'
 ---
 
 # 대만 원주민 음식 문화

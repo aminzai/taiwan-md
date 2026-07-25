@@ -1,7 +1,7 @@
 ---
 title: '왕치린과 리양(린양 페어)'
 description: '중학교 동창에서 올림픽 금메달까지: “린양 페어”는 34분 만에 중국을 2-0으로 꺾고 대만 배드민턴 사상 첫 올림픽 금메달을 기록했다'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
@@ -17,7 +17,7 @@ tags:
     '금메달',
   ]
 readingTime: 12
-lastVerified: '2026-05-19'
+lastVerified: 2026-05-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'People/麟洋配.md'
@@ -25,6 +25,7 @@ sourceCommitSha: 'c32d210ff'
 sourceContentHash: 'sha256:940cd3ea72960eac'
 sourceBodyHash: 'sha256:4c0e104cb6fe8601'
 translatedAt: '2026-05-20T05:08:30+08:00'
+difficulty: 'beginner'
 ---
 
 # 왕치린과 리양(린양 페어)

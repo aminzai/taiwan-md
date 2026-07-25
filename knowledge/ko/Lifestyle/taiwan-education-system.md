@@ -6,7 +6,7 @@ tags:
   [교육, 학력평가시험, 대학입시, 학원, 12년 국민교육, 난양가, PISA, 입시제도]
 subcategory: '교육'
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-23
@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4e9ca27840e47d5f'
 sourceBodyHash: 'sha256:0a4c39eae3411ae0'
 translatedAt: '2026-04-14T04:35:32+08:00'
+lastHumanReview: false
 ---
 
 > **30초 요약:** 2022년, 타이베이역 인근에 "학력평가시험 재수반 모집 중" 포스터가 다시 나붙었고, 재수 상담 인원은 전년 대비 두 배 이상 증가했다. 아이러니하게도, 대만은 30년간의 교육 개혁으로 "한 번의 시험이 인생을 결정한다"는 구조를 깨려 했지만, 새 교육과정 첫 세대 수험생들은 또다시 재수의 공포로 돌아왔다. 1981년 난양가의 재수생 10만 명에서 2023년 2,500명으로 줄었다가, 2022년 재수학원이 부활한 이 순환의 이면에는 '공평'의 정의를 둘러싼 이 섬의 끝없는 사회적 논쟁이 담겨 있다.

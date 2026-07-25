@@ -1,7 +1,7 @@
 ---
 title: '멍자: 청대 타이베이에서 가장 번화했던 곳, 지금은 타이베이에서 평균연령이 가장 높은 구'
 description: '멍자 룽산사는 1738년 취안저우 삼읍 사람들이 공동 출자해 세운 뒤 2026년에 288년이 되며, 청 조정의 타이베이부보다 137년 앞선다. 1853년의 정하교병이라는 무장 충돌은 퉁안 사람들을 다다오청으로 밀어냈고, 북타이완 두 세기에 걸친 분기의 씨앗을 심었다. 일본 통치 이후 완화로 개명되었고, 1990년에 구가 설치되었으며, 2010년 뉴청쩌가 《멍자》를 찍었다. 현재 노화지수는 320.78%로 시 전체에서 가장 높다. 타이베이에서 가장 이른 이 거리는 새벽 여섯 시 사원 앞마당의 첫 향이 아직도 타오르고 있다.'
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區 / 台北市萬華區'
@@ -26,7 +26,7 @@ tags:
     '역사 가구 시리즈',
   ]
 readingTime: 22
-lastVerified: '2026-05-21'
+lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/艋舺.md'

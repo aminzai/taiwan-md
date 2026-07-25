@@ -14,17 +14,18 @@ tags:
   ]
 subcategory: '공연 예술'
 category: 'Art'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
 translatedFrom: 'Art/台灣傳統藝術.md'
-lastVerified: '2026-03-24'
+lastVerified: 2026-03-24
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8199dcc4edeb2fce'
 sourceBodyHash: 'sha256:de7228ea44ad062e'
 translatedAt: '2026-06-16T17:10:38Z'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Taiwan-Puppet-Show.jpg/800px-Taiwan-Puppet-Show.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: false
 ---
 
 # 대만 전통 예술: 시골 소극장에서 문화 제국으로의 역전 신화

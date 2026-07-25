@@ -5,7 +5,7 @@ date: 2026-03-31
 tags: ['학자', '화학', '중앙연구원', '당화학', '호딩 사태', '노벨상', '울프상']
 subcategory: '과학과 학문'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'People/翁啟惠.md'
@@ -13,6 +13,8 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
 translatedAt: '2026-05-16T22:20:00Z'
+lastVerified: 2026-03-31
+lastHumanReview: false
 ---
 
 # 웡치후이(翁啟惠)

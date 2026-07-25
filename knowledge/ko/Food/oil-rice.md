@@ -1,14 +1,14 @@
 ---
 title: '유반(油飯): "과시"의 찹쌀에서 생명의 무게를 담은 미월례(彌月禮)까지'
 description: '2026년의 타이완 거리에서 유반은 여전히 많은 사람들이 새 생명을 축하하기 위해 선택하는 음식이다. 한족 이민의 전통에서 유래하여 타이완에서 짠맛과 단맛이 어우러진 "미식가 비율"로 발전한 이 요리는 찹쌀과 홍총두(紅蔥頭)를 결합하여 타이완 가정이 생명의 전환점에서 보내는 가장 묵직한 축복이 되었다.'
-date: '2026-04-28'
+date: 2026-04-28
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '小吃'
 tags: ['유반', '미월례', '타이완 소식', '식문화', '찹쌀', '반장 문화']
-readingTime: '10'
-lastVerified: '2026-04-28'
-lastHumanReview: '2026-04-28'
+readingTime: 10
+lastVerified: 2026-04-28
+lastHumanReview: true
 featured: false
 translatedFrom: 'Food/油飯.md'
 sourceCommitSha: '4b6d28c5'

@@ -1,13 +1,13 @@
 ---
 title: '타이완 선거와 정당 정치'
 description: '중리 사건의 불길에서 817만 장의 표까지, 타이완은 어떻게 반세기 만에 투표를 계엄의 도구에서 국민적 신념으로 바꾸었는가'
-date: '2026-03-20'
+date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '戰後與威權'
 tags: ['선거', '민주화', '정당 정치', '당외 운동', '총통 직선']
 readingTime: 18
-lastVerified: '2026-05-27'
+lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/台灣選舉與政黨政治.md'
@@ -15,6 +15,7 @@ sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:35594d81e2470e05'
 sourceBodyHash: 'sha256:7e75aac6f994b2f2'
 translatedAt: '2026-06-07T00:37:31+08:00'
+difficulty: 'beginner'
 ---
 
 # 타이완 선거와 정당 정치

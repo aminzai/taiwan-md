@@ -8,12 +8,13 @@ tags: [역사, 정치, 전환적정의, 백색테러, 민주화, 계엄, 이이�
 readingTime: 15
 featured: true
 lastVerified: 2026-03-31
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'History/二二八事件.md'
 sourceCommitSha: '9bddcff6'
 sourceContentHash: 'sha256:4d3c97207d94073d'
 sourceBodyHash: 'sha256:1db38e403d646d80'
 translatedAt: '2026-05-29T00:35:00+08:00'
+lastHumanReview: false
 ---
 
 # 2·28 사건

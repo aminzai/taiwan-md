@@ -11,7 +11,7 @@ tags:
   - '생물다양성'
 subcategory: '국가공원과 탐방로'
 category: 'Nature'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 13
 featured: false
 translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
@@ -19,6 +19,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4e90c463d345a441'
 sourceBodyHash: 'sha256:668d74d853340086'
 translatedAt: '2026-04-14T10:48:03+08:00'
+lastVerified: 2026-03-20
+lastHumanReview: false
 ---
 
 # 대만의 해양 생태와 산호초 보전

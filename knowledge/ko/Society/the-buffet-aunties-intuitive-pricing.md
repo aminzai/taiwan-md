@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: '지역사회와 일상'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-03-22
 readingTime: 8
 featured: false
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c40e9256e5031f97'
 sourceBodyHash: 'sha256:b933f7d83c83a92f'
 translatedAt: '2026-04-14T06:37:05+08:00'
+lastHumanReview: false
 ---
 
 # 뷔페 아주머니의 신기한 눈대중 계산 능력

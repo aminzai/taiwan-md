@@ -13,6 +13,7 @@ sourceContentHash: 'sha256:fbdfa92c6cd4f978'
 sourceBodyHash: 'sha256:404b899a07fee60d'
 translatedAt: 2026-05-01T20:54:10+08:00
 category: History
+author: 'Taiwan.md'
 ---
 
 # 일제강점기 타이완 사회운동

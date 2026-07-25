@@ -1,16 +1,16 @@
 ---
 title: '잉거 도자기 노거리: 굴뚝에서 지하철로, 200년 도예의 전환과 부흥'
 description: '굴뚝이 즐비했던 「타이완 징더전」으로 명성을 떨쳤던 잉거는 산업 전환과 관광화 물결을 거치며 신베이시 미술관 개관과 지하철 산잉선 개통을 맞이했다. 신세대 도예가들은 「산지 개방일」 등 활동을 통해 전통과 혁신, 관광과 산업 사이에서 지속 가능한 발전의 새로운 길을 모색하고 있다.'
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '社會與日常史'
 tags:
   ['잉거', '도자기', '노거리', '산잉선', '신베이시 미술관', 'T22', '문화 관광']
-readingTime: '10'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 10
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/鶯歌陶瓷老街.md'
 sourceCommitSha: '1a3708b1e'
 sourceContentHash: 'sha256:6023f24cf4042189'

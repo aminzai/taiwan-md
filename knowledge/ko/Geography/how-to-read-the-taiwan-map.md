@@ -19,7 +19,7 @@ tags:
   ]
 category: 'Geography'
 subcategory: '지리 개론'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 10
 lastVerified: 2026-04-07

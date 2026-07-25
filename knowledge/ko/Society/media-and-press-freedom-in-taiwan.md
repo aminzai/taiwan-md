@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:2b07b58b99abcb36'
 sourceBodyHash: 'sha256:9e2facc3bed645dd'
 translatedAt: '2026-05-17T05:34:52+08:00'
+difficulty: 'intermediate'
 ---
 
 # 대만 언론과 언론 자유
@@ -134,9 +135,13 @@ PPL(간접광고)이 이 시기의 구조적 문제로 부상했다: 정부 예�
 대만 언론은 독재적 통제에서 자유 경쟁으로, 다시 디지턓 시대의 도전으로 나아갔으며, 이 과정은 민주주의 심화의 복잡성을 반영한다. 언론 자유를 수호하면서 동시에 정보의 품질과 언론의 지속 가능한 경영을 보장하는 것은 대만 사회가 지속적으로 직면해야 할 중요한 과제이다.
 
 [^1]: 국경 없는 기자 기구(RSF), 〈2024년 세계 언론 자유 지수—대만〉, https://rsf.org/en/country/taiwan
+
 [^2]: 문화부, 〈신문 금지 해소와 언론 다원화〉, https://nccwp.moc.gov.tw/home/zh-tw/white_paper
+
 [^3]: 대만 팩트체크센터, https://tfc-taiwan.org.tw/
+
 [^4]: 국가통신전파위원회(NCC), https://www.ncc.gov.tw/
+
 [^5]: 보도자, https://www.twreporter.org/
 
 ## 참고 자료

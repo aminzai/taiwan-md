@@ -13,6 +13,8 @@ sourceCommitSha: '4d7fab8e'
 sourceContentHash: 'sha256:b88e9dbdbb8fa20c'
 sourceBodyHash: 'sha256:c355aaf2378be217'
 translatedAt: '2026-05-17T06:30:00Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # 해금 이후 대만 문학

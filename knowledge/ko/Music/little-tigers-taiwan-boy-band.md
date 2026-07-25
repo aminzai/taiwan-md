@@ -1,7 +1,7 @@
 ---
 title: '샤오후두이: 사 온 선율에, 자신의 청춘을 채우다'
 description: '1988년 화시의 한 오디션 프로그램은 샤오마오두이와 함께 노래하고 춤출 남학생 세 명을 찾으려 했다. 그 결과 일본 노래를 번안하고 일본 쇼넨타이를 모방한 아이돌 그룹이 선발되었다. 닷새 만에 20만 장을 팔고, 팬들이 타이베이에서 가오슝까지 줄곧 따라붙었으며, 1991년에는 해협을 건넜다. 부품은 거의 모두 수입품이었지만, 타이완은 그것을 한 세대의 가장 단단한 청춘으로 기억했다. 그리고 가장 유명했던 세 몸은 훗날 모두 해협을 건넜다.'
-date: '2026-03-24'
+date: 2026-03-24
 author: 'taiwan-md 貢獻者'
 category: 'Music'
 subcategory: '流行文化'
@@ -12,7 +12,7 @@ tags:
   - '80년대 음악'
   - '청춘 문화'
 readingTime: 16
-lastVerified: '2026-06-14'
+lastVerified: 2026-06-14
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/小虎隊.md'
@@ -24,6 +24,7 @@ image: '/article-images/music/little-tigers-xiaoyaoyou-album.webp'
 imageCredit: '© 環球音樂（飛碟唱片原發行）'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://music.apple.com/tw/album/逍遥游-2025-remastered/1847895760'
+difficulty: 'intermediate'
 ---
 
 # 샤오후두이: 사 온 선율에, 자신의 청춘을 채우다

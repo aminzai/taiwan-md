@@ -5,7 +5,7 @@ date: 2026-03-22
 tags: [장기요양, 고령화, 외국인 돌봄노동자, 장기요양 2.0, 제도적 모순]
 subcategory: '사회복지'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 translatedFrom: 'Society/台灣長期照顧制度發展.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c735ef0db3cd23ac'
 sourceBodyHash: 'sha256:738376ef61832978'
 translatedAt: '2026-04-14T06:03:39+08:00'
+lastHumanReview: false
 ---
 
 # 대만 장기요양제도의 발전

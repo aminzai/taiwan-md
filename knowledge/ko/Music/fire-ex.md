@@ -1,7 +1,7 @@
 ---
 title: '소방기——수영장 옆에서 주운 이름, 25년을 노래하다'
 description: '2000년 세 명의 고등학생이 수영장 옆에서 소방기를 보고 밴드 이름으로 삼았다. 25년 후, 그들은 대만어 펑크로 태양화학운동의 시대의 목소리를 담아내고, 레이블을 남부로 옮기고, 다구제 무대에서 7분 동안 관객 전원에게 말했다——실망해도 괜찮지만, 네가 싫어하는 사람이 되지는 마라.'
-date: '2026-04-14'
+date: 2026-04-14
 tags:
   [
     록,
@@ -20,8 +20,8 @@ subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: true
 readingTime: 14min
-lastVerified: '2026-04-14'
-lastHumanReview: '2026-04-14'
+lastVerified: 2026-04-14
+lastHumanReview: true
 translatedFrom: 'Music/滅火器樂團.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ff50a058e16cd318'

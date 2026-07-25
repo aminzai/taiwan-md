@@ -5,13 +5,16 @@ date: 2026-03-19
 tags: ['구이 룬메이', '배우', '말할 수 없는 비밀', '국제 영화제', '연기파']
 subcategory: '영화와 드라마'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 translatedFrom: 'People/桂綸鎂.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:266bd954eeb032d3'
 sourceBodyHash: 'sha256:c06a0cb5b90069e3'
 translatedAt: '2026-05-17T06:30:00Z'
+featured: false
+lastVerified: 2026-03-19
+lastHumanReview: false
 ---
 
 # 구이 룬메이: 조용하고 단단한 연기파 배우
@@ -103,7 +106,11 @@ translatedAt: '2026-05-17T06:30:00Z'
 - [대만 배우 국제 발전 — 문화부 영상 및 대중음악산업국](https://www.bamid.gov.tw/) — 국제 협업 자료
 
 [^1]: 위키백과 〈실혼(失魂)〉 항목: 《실혼》(2013), 감독 종멍훙, 주연 구이 룬메이·장샤오취안. https://zh.wikipedia.org/wiki/失魂
+
 [^2]: 위키백과 〈구이 룬메이(桂綸鎂)〉 항목, 《파란 대문》《말할 수 없는 비밀》《여자친구·남자친구》 등의 작품 기록 수록. https://zh.wikipedia.org/wiki/桂綸鎂
+
 [^3]: 《파란 대문》(2002), 감독 이즈옌, 구이 룬메이·천보린 주연, 다수 국제 영화제 참가. 대만 영화 네트워크 자료: <https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
+
 [^4]: 《여자친구·남자친구》(2012), 감독 양야저, 제49회 금마장 여우주연상 노미네이트. 금마장 공식 사이트: https://www.goldenhorse.org.tw/
+
 [^5]: 《명월기시유》(2017), 감독 쉬 안화, 구이 룬메이 출연, 지역을 넘나드는 협업을 보여줌. 홍콩 영화자료관 소장: <https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>

@@ -1,13 +1,13 @@
 ---
 title: '대만 섬 사관: 반복적으로 지배된 섬은 어떻게 자신의 주체성을 발명했는가'
 description: '대만은 대륙 제국의 마지막 퍼즐 조각이 아니라 태평양 해양 네트워크의 첫 주춧돌이다. 차오융허의 ‘땅으로 역사를 규정한다’는 관점에서 출발해 이 섬의 생명력을 다시 이해한다.'
-date: 2026-03-27
+date: 2026-07-10
 author: 'Taiwan.md'
 category: 'History'
 subcategory: '史觀與方法論'
 tags: ['역사', '섬', '사관', '차오융허', '해양']
-lastVerified: 2026-03-27
-lastHumanReview: true
+lastVerified: 2026-07-10
+lastHumanReview: false
 featured: true
 translatedFrom: 'History/台灣島史觀.md'
 sourceCommitSha: '01d9d0e73'

@@ -4,7 +4,7 @@ description: '어항에서 갓 잡아 온 신선함, 해산물 식당 문화, �
 date: 2026-03-20
 tags: ['해산물', '어항', '섬나라문화', '굴전', '해산물요리']
 subcategory: '식재료와 조미료'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 category: 'Food'
 featured: false
@@ -17,6 +17,7 @@ sourceBodyHash: 'sha256:0e334a19b5edfbf1'
 translatedAt: '2026-04-14T03:55:14+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%E5%9F%BA%E9%9A%86%E5%B4%81%E4%BB%94%E9%A0%82%E8%A7%80%E5%85%89%E9%AD%9A%E5%B8%82_-_panoramio.jpg/960px-%E5%9F%BA%E9%9A%86%E5%B4%81%E4%BB%94%E9%A0%82%E8%A7%80%E5%85%89%E9%AD%9A%E5%B8%82_-_panoramio.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'beginner'
 ---
 
 # 타이완 해산물 문화

@@ -1,7 +1,7 @@
 ---
 title: '양웨이저: 미적분에서 모어까지, 수학계의 공연예술가'
 description: '국립타이완대학교 수학과 명예교수 양웨이저는 반바지, 자전거, 타이완어 강의로 잘 알려져 있다. 유명 화가 양치둥의 아들인 그는 부친의 뜻을 거슬러 의학을 버리고 수학을 택했으며, 1997년에는 타이완어 수업으로 인해 “위헌” 논란을 일으켰다. 그는 수학 올림피아드의 추진자였을 뿐 아니라 천원청 사건에서 단호한 저항자였고, 평생 논리와 문화적 주체성 사이에서 “공연예술”을 실천했다.'
-date: '2026-05-30'
+date: 2026-05-30
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '科學與學術'
@@ -16,7 +16,7 @@ tags:
     '양치둥',
   ]
 readingTime: 12
-lastVerified: '2026-05-30'
+lastVerified: 2026-05-30
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/楊維哲.md'

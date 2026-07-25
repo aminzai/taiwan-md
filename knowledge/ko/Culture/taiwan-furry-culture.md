@@ -5,7 +5,7 @@ date: 2026-04-01
 tags: ['퍼리', '서브컬처', '퍼수트', '대만 문화']
 subcategory: '서브컬처 및 청년 문화'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 translatedFrom: 'Culture/台灣獸迷文化.md'
 lastVerified: 2026-04-01
@@ -13,6 +13,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:fb754fde867da6b6'
 sourceBodyHash: 'sha256:b8b517c948537006'
 translatedAt: '2026-06-16T17:19:04Z'
+lastHumanReview: true
 ---
 
 > **30초 요약:** 퍼리(Furry)는 의인화된 동물 캐릭터에 열정을 가진 팬덤 커뮤니티다. 대만의 퍼리 문화는 1990년대 BBS에서 《라이온 킹》을 토론하던 것에서 싹을 틔웠고, 20년간의 지하 발전을 거쳐 2015년 첫 번째 정식 컨벤션을 열었는데 약 50명이 참가했다. 10년 후인 2025년, 인퍼니티(獸無限)는 한 행사에 3,251명을 끌어모으고 689벌의 퍼수트가 동시에 등장했으며 자선 모금액은 961,500 대만달러에 달했다[^1]. 2020년에는 대만에 내정부 승인을 받은 '대만모모문화교류협회'까지 설립되었다[^2]. 이것은 소수 취미가 아니다. 조직을 갖추고 경제 시스템을 갖추며 사회에 환원하는 완전한 문화권이다.

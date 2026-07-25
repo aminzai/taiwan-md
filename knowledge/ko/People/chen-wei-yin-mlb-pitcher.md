@@ -5,7 +5,7 @@ date: 2026-03-22
 tags: [인물, 야구, 스포츠, 프로 운동선수, 메이저리그, MLB, NPB, 일본 프로야구]
 subcategory: '스포츠'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 6
 featured: false
 translatedFrom: 'People/陳偉殷.md'
@@ -13,6 +13,8 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:ffd25b21bdd9c278'
 sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
 translatedAt: '2026-05-16T22:35:46Z'
+lastVerified: 2026-03-22
+lastHumanReview: false
 ---
 
 > **30초 요약:** 陳偉殷은 일본 프로야구에서 메이저리그로 직행한 최초의 대만 투수다. 2016년 5년 8000만 달러(약 25억 신대만 달러) 대만 역대 스포츠 선수 최고액 계약을 체결했지만, 세금과 에이전트 수수료 등을 빼면 실수령액은 47%에 불과했다. 미·일 통산 96승, MLB 59승은 王建民의 68승에 이어 대만 투수 역대 2위다.
@@ -92,8 +94,7 @@ translatedAt: '2026-05-16T22:35:46Z'
 
 그의 이야기는 프로 스포츠가 꿈과 영광만이 아닌, 복잡한 비즈니스 게임이기도 함을 상기시켜준다. 그 게임에서 재능, 운, 타이밍, 건강 — 어느 것 하나 빠져서는 안 된다.
 
-**陳偉殷은 20년의 프로 야구 생활로 이것을 증명했다: 때로 가장 큰 용기는 꿈을 좇는 것이 아니라 꿈의 대가를 인정하는 것이다.**
----
+## **陳偉殷은 20년의 프로 야구 생활로 이것을 증명했다: 때로 가장 큰 용기는 꿈을 좇는 것이 아니라 꿈의 대가를 인정하는 것이다.**
 
 ## 참고 자료
 

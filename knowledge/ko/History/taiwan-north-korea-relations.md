@@ -1,15 +1,15 @@
 ---
 title: '타이완과 북한: 제4위 수출국에서 그림자 함대로의 회색 충돌'
 description: '타이완은 과거 북한의 제4위 수출국이었으며, 평양 사무실에서는 Acer 컴퓨터와 화성위욕(화성 위생기구) 제품이 흔히 볼 수 있었다. 이 뜨거운 무역에서 전면 제재로 이어진 역사는 비밀 농업 원조, 해상 밀수, 그리고 국가 안보 정보의 심층적인 각력을 교차시킨다.'
-date: '2026-07-17'
+date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '민주與治理'
 tags: ['타이완', '북한', '무역', '국안', 'MIT', '밀수', '금융', '어업', '시찰']
-readingTime: '15'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 15
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/台灣與北朝鮮關係.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:2a45417c9b5c2cf0'

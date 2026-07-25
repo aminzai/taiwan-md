@@ -5,7 +5,7 @@ date: 2026-03-29
 tags: ['인물', '법의학', '대만계 미국인', '형사 조사']
 subcategory: '과학과 학술'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'People/李昌鈺.md'
 readingTime: 8
 featured: false
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
 translatedAt: '2026-04-14T19:24:28+08:00'
+lastVerified: 2026-03-29
+lastHumanReview: false
 ---
 
 # 헨리 리 (李昌鈺)

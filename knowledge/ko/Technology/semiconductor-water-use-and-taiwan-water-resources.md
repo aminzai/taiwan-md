@@ -17,7 +17,7 @@ tags:
   - '재생수'
   - '공급망'
 subcategory: '반도체와 하드웨어'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -184,6 +184,9 @@ The Verge가 애리조나의 반도체의 집적을 보도했을 때도, 칩 투
 ## 참고 자료
 
 [^1]: [WIRED: Want to Win a Chip War? You’re Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED 2023년의 보도. 반도체 제조가 초순수와 수처리와 지역의 수자원을 필요로 하는 것을 전하며, 대만의 가뭄기에서의 칩 제조와 농업용수의 긴장에도 닿아 있다.
+
 [^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — TSMC 애리조나의 공식 페이지. 해당 캠퍼스로의 투자, 선단 공정의 계획, 물의 회수 시스템, 공업용수의 재생 시설의 목표를 설명하고 있어, 해외에서의 공장 건설에서의 수자원의 거버넌스의 사례로 쓸 수 있다.
+
 [^3]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — 애리조나의 반도체의 집적의 확대가 가져오는 고용, 지역의 발전, 수자원, 환경, 노동자의 안전을 둘러싼 논쟁의 보도. 해외에서의 공장 건설을 지역 사회의 시점에서 균형 있게 보기 위해 쓸 수 있다.
+
 [^4]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — 대만의 전자부품 제조사 16개사의 2015〜2020년의 환경 발자국을 연구해, 물의 사용과 에너지와 탄소 배출이 생산량의 성장에 따라 늘어나는 위험을 제기하고 있다.

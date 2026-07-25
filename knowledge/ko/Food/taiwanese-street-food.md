@@ -4,7 +4,7 @@ description: '1987년 춘수이탕의 한 번의 실수가 버블티를 60개국
 date: 2026-03-28
 tags: [Food, 길거리 음식, 야시장, 대만 요리, 문화 소프트파워, 이민 음식]
 subcategory: '음식 공간'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 category: 'Food'
 readingTime: 12
 featured: false

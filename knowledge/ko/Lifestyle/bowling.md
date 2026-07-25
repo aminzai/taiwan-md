@@ -2,8 +2,8 @@
 title: "'볼링: 미군 클럽에서 방콕 아시안게임 6관왕까지, 타이완 UFO 볼의 흥망과 여운'"
 description: "'1990년대 볼링은 타이완에서 가장 열광적인 국민 스포츠였다. 자체적으로 고안한 「UFO 볼」 기술을 바탕으로 타이완은 1998년 방콕 아시안게임에서 금메달 6개를 휩쓸었고, 한때 전국 볼링장은 600곳을 넘었으며 하루 매출은 30만 타이완달러에 달할 수 있었다.'"
 date: 2026-06-27
-author: "'Taiwan.md Contributors'"
-category: "'Lifestyle'"
+author: 'Taiwan.md Contributors'
+category: 'Lifestyle'
 subcategory: "'休閒與娛樂'"
 tags:
   ["'볼링'", "'UFO 볼'", "'방콕 아시안게임'", "'쩡쑤펀'", "'타이완 스포츠사'"]

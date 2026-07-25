@@ -5,7 +5,7 @@ date: 2026-04-08
 tags: ['장례', '환경장', '상례', '효녀 바이친', '청명절', '생사관']
 subcategory: '문화'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 13
 lastVerified: 2026-04-08
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c4dd3375c0cfa0a5'
 sourceBodyHash: 'sha256:a20df4f3c36414b3'
 translatedAt: '2026-06-16T17:19:04Z'
+lastHumanReview: false
 ---
 
 > **30초 개요:** 2009년, 성엄법사가 입적하며 유언에 이렇게만 남겼다. "부고 없이, 무덤 없이, 비석 없이." 유골은 나무 한 그루 아래 묻혔다. 이름도 없이. 그해 대만의 화장률은 이미 90%에 육박했고, 2024년에는 98.7%까지 치솟았다. 사실상 아무도 토장을 하지 않는다. 전자 꽃 트럭 위에서 봉 댄스를 추는 출상 행렬에서, 용아이위안에서 조용히 유골을 뿌리는 유족으로—대만인이 죽음을 마주하는 방식이, 한 세대의 속도로 뒤집히고 있다.

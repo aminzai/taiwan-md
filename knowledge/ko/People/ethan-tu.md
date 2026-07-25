@@ -5,7 +5,7 @@ date: 2026-03-30
 tags: ['두이진', 'PTT', 'Taiwan AI Labs', '디지털 민주주의', '인공지능']
 category: 'People'
 subcategory: '기술과 기업'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 9
 featured: true
 translatedFrom: 'People/杜奕瑾.md'
@@ -13,6 +13,8 @@ sourceCommitSha: 'ab47ff39'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
 translatedAt: '2026-04-14T19:24:35+08:00'
+lastVerified: 2026-03-30
+lastHumanReview: false
 ---
 
 # 두이진

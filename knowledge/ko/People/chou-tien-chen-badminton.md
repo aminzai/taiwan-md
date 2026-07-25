@@ -1,7 +1,7 @@
 ---
 title: '주천성: 타이완 배드민턴 일고, 세계 2위의 높이를 펼치다'
 description: '타이완 남자 단식 최초 세계 2위, 최초로 ‘세계 왕’ 린단을 꺾은 인물. 국가대표팀에 합류한 뒤 연속 10패의 저조기, 맹장염 천공 후 기독교인으로 세례받은 일화, 2023년 34세에 초기 대장암을 진단받고 수술 후 며칠 만에 해외 경기 복귀해 거의 1년간 저조기를 견뎌낸 뒤, 이듬해 파리 올림픽에서 8강에 진출했다. 주천성은 타고난 재능에 의존하지 않고 ‘연마’라는 라인-드리블 전술로 타이완 배드민턴이 설 수 있는 높이를 끊임없이 끌어올렸다.'
-date: '2026-06-29'
+date: 2026-06-29
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '體育'
@@ -13,8 +13,8 @@ tags:
   - '올림픽'
   - '운동선수'
   - '타이완'
-readingTime: '14'
-lastVerified: '2026-06-29'
+readingTime: 14
+lastVerified: 2026-06-29
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/周天成.md'

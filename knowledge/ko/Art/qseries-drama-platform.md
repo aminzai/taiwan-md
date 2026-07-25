@@ -5,7 +5,7 @@ date: 2026-03-30
 tags: ['즈쥐창', '대만드라마', '왕샤오디', '허광한', '금종상']
 subcategory: '영화'
 category: 'Art'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 7
 featured: false
 translatedFrom: 'Art/植劇場.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:37996f439df838f6'
 sourceBodyHash: 'sha256:0818e9fb5c8333f5'
 translatedAt: '2026-05-13T01:08:20Z'
+lastVerified: 2026-03-30
+lastHumanReview: false
 ---
 
 # 즈쥐창(植劇場): 노트북을 만드는 사람이 대만 드라마 부흥의 씨앗을 심다

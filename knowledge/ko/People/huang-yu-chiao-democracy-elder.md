@@ -5,7 +5,7 @@ date: 2026-04-05
 tags: ['중리사건', '당외운동', '성의회', '민주화', '여성정치', '민진당']
 subcategory: '정치와 민주주의'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 15
 featured: false
 translatedFrom: 'People/黃玉嬌.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cac2434cbb03924f'
 sourceBodyHash: 'sha256:80650db2e1788a43'
 translatedAt: '2026-04-15T17:32:28+08:00'
+lastVerified: 2026-04-05
+lastHumanReview: true
 ---
 
 # 황위자오: 17년을 기다린 여성 정치인

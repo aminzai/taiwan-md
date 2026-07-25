@@ -3,7 +3,7 @@ title: '대만 공원과 일상 여가'
 description: '새벽 태극권부터 야간 산책까지 — 세대를 아우르는 사교 공간으로서의 대만 공원 문화 관찰'
 tags: ['공원', '여가', '사교문화', '세대통합', '일상생활']
 subcategory: '여가와 오락'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 category: 'Lifestyle'
 lastVerified: 2026-03-19
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
@@ -11,6 +11,9 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5627d196edbadc46'
 sourceBodyHash: 'sha256:fb9597ed5d14a1d1'
 translatedAt: '2026-04-14T04:35:32+08:00'
+date: 2026-03-18
+featured: false
+lastHumanReview: false
 ---
 
 # 대만 공원과 일상 여가

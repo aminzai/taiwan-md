@@ -5,7 +5,7 @@ date: 2026-03-29
 tags: ['원주민족', '언어 부흥', '족어 교육', '언어 정책', '문화 계승']
 subcategory: '언어와 문자'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 translatedFrom: 'Culture/台灣原住民語言復振運動.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9c408bfc603af1d1'
 sourceBodyHash: 'sha256:f60b7a2b3f864e75'
 translatedAt: '2026-06-16T17:19:04Z'
+lastHumanReview: false
 ---
 
 # 대만 원주민 언어 부흥 운동

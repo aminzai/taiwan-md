@@ -5,7 +5,7 @@ date: 2026-03-24
 tags: ['하카', '언어', '문화', '경목 정신', '육대', '모국어 되찾기 운동']
 subcategory: '민족 문화'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 14
 lastVerified: 2026-04-05
@@ -14,6 +14,7 @@ sourceCommitSha: 'a43cf915'
 sourceContentHash: 'sha256:b03d6ffbe269bd62'
 sourceBodyHash: 'sha256:b5324c6cea623600'
 translatedAt: '2026-07-06'
+lastHumanReview: false
 ---
 
 # 하카 문화와 언어

@@ -15,7 +15,7 @@ tags:
     '오지학교',
   ]
 subcategory: '교육'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-08
 lastHumanReview: true

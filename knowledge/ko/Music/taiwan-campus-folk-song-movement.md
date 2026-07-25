@@ -5,7 +5,16 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Music'
 subcategory: '流行音樂'
-tags: ['민요 운동', '캠퍼스 민요', '금운상', '리쉬앙쩌', '양셴', '후더푸', '우리 자신의 노래를 부르자']
+tags:
+  [
+    '민요 운동',
+    '캠퍼스 민요',
+    '금운상',
+    '리쉬앙쩌',
+    '양셴',
+    '후더푸',
+    '우리 자신의 노래를 부르자',
+  ]
 readingTime: 12
 lastVerified: 2026-05-16
 lastHumanReview: true
@@ -15,6 +24,7 @@ sourceCommitSha: '7415dcaa'
 sourceContentHash: 'sha256:e201829436b891a1'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
 translatedAt: '2026-05-17T05:34:52+08:00'
+difficulty: 'beginner'
 ---
 
 # 타이완 민요 운동

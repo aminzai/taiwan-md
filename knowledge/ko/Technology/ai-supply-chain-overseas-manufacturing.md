@@ -19,7 +19,7 @@ tags:
   - '웨이촹'
   - '타이다전자'
 subcategory: '반도체와 하드웨어'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -212,12 +212,21 @@ TSMC의 공식 애리조나 페이지는 Phoenix의 캠퍼스로의 투자가 16
 ## 참고 자료
 
 [^1]: [AP: Nvidia plans to manufacture AI chips in the US for the first time](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — AP 통신에 의한, NVIDIA가 미국에서 Blackwell 칩과 AI 슈퍼컴퓨터를 생산하는 일의 보도. TSMC Phoenix, Foxconn Houston, Wistron Dallas, 그리고 SPIL / Amkor에 의한 Arizona에서의 패키징·테스트의 협동을 지명하고 있다.
+
 [^2]: [AP: OpenAI and Taiwan’s Foxconn to partner in AI hardware design and manufacturing in the US](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — AP 통신에 의한, OpenAI와 훙하이가 AI 데이터센터의 랙을 설계·제조하는 것으로 제휴했다는 보도. 제품에 케이블, 네트워크 기기, 전원 시스템이 포함되는 것, 그리고 훙하이의 미국의 시설의 분포에도 닿아 있다.
+
 [^3]: [MySA: Plans move forward on $115M electronics factory in Plano](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — 타이다전자가 Texas주 Plano에서 제조와 오피스의 시설을 확장하는 일의 보도. 기존의 연구개발·제조 센터, 그 뒤의 캠퍼스의 규모, 미국에서의 현지 제조의 자리매김을 정리하고 있다.
+
 [^4]: [Times of India: Delta Electronics pushes for capacity expansion](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — 타이다전자의 인도 Krishnagiri 공장의 확장의 보도. 통신, 데이터센터, 전기자동차, 산업의 고객의 수요와, 인도에서의 현지화된 공급망의 전개를 설명하고 있다.
+
 [^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — TSMC 공식의 애리조나의 페이지. Phoenix로의 투자 규모, 여섯 개의 웨이퍼 공장, 두 개의 첨단 패키징 시설, N4/N3/N2/A16의 일정, 물의 재활용의 계획을 설명하고 있다.
+
 [^6]: [AP: TSMC to make advanced AI computer chips in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — AP 통신에 의한, TSMC가 일본의 구마모토의 제2공장에서 3나노미터의 칩을 생산할 계획의 보도. 일본의 경제 안보와, AI, 로봇, 자율주행의 수요를 정리하고 있다.
+
 [^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — ESMC의 공식 사이트. 이것이 TSMC, Bosch, Infineon, NXP의 합작 기업이며, 독일의 드레스덴에 웨이퍼 공장을 지어 유럽의 산업, IoT, 통신, 자동차의 시장을 떠받치는 것을 설명하고 있다.
+
 [^8]: [AP: Biden administration announces $6.6 billion to ensure leading-edge microchips are built in the US](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — AP 통신에 의한, 미국의 CHIPS and Science Act가 TSMC의 애리조나의 증산에 보조를 내는 일의 보도. 미국 정부가 선단 칩 제조를 공급망의 안전과 국가 안보의 문제로 어떻게 파악하고 있는지를 설명하고 있다.
+
 [^9]: [TIME: 대만 총통 라이칭더의 《TIME》지 인터뷰 전문을 읽다](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — 《TIME》이 게재한 중국어 인터뷰 전문 안에서, 라이칭더가 세계적인 분업의 산업으로서의 반도체에 대해, 또 TSMC 등의 반도체 기업이 미국, 일본, 유럽으로 전개하는 것을 정부가 어떻게 보고 있는지에 대해 이야기하고 있다.
+
 [^10]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — 애리조나의 반도체의 집적의 확대가 가져오는 고용, 지역의 발전, 수자원, 환경, 노동자의 안전을 둘러싼 논쟁의 보도. 해외에서의 공장 건설을 지역 사회의 시점에서 균형 있게 보기 위해 쓸 수 있다.

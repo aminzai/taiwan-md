@@ -1,7 +1,7 @@
 ---
 title: '尹衍樑: 그가 세운 과학상, 노벨상보다 비싸다'
 description: '2026년 5월 26일 새벽 4시 21분, 룬타이그룹 회장 윤연량(尹衍樑)이 타이베이 중민총병원에서 영면했다. 향년 76세. 진덕중학교 시절 왕진평이 싸움의 상처를 치료해 주던 폭력 소년에서, 1989년 먼지가 발목을 덮북경대학에 발을 들여 광화경영대학원을 설립한 뒤, 2012년 30억 신만위안 신탁기금을 출연하여 탕상(唐獎)을 창립하기까지. 각 부문 상금 5,000만 신만위안으로 노벨상을 능가한다. 막 떠난 대만 사업가가 세계에 남긴 것은 노벨상보다 비싼 상(賞)이었다.'
-date: '2026-05-26'
+date: 2026-05-26
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '企業家'
@@ -24,9 +24,9 @@ tags:
     'sovereignty preservation',
     '2026 辭世',
   ]
-lastVerified: '2026-05-26'
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-05-26
+lastHumanReview: false
+featured: true
 translatedFrom: 'People/尹衍樑.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:ca0ab51cac71e4a7'

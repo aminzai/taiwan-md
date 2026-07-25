@@ -1,14 +1,14 @@
 ---
 title: '아신'
 description: '2023년 10월 15일, 구독자 300만 명을 보유한 게임 스트리머 아신이 마지막 영상을 공개하며 14년간의 창작 활동을 마무리했다. 《Minecraft》 시리즈로 유명세를 얻고 11년간 매일 끊임없이 영상을 올리는 "일일 업데이드(日更)"의 신화를 세운 이 크리에이터는 커리어의 정점에서 은퇴를 선언하며, 과거에 사람답게 살지 못했다고 고백했다. 이는 최고의 크리에이터들이 알고리즘과 자신의 삶 사이에서 겪는 잔혹한 갈등을 드러내는 사례다.'
-date: 2026-04-19
+date: 2026-07-15
 tags: ['YouTuber', '게임 스트리밍', 'Minecraft', '디지털 미디어']
 category: 'People'
 subcategory: '數位與媒體'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastVerified: 2026-07-15
+lastHumanReview: false
 translatedFrom: People/阿神.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c0745c4b9d2ae295'
@@ -18,6 +18,7 @@ image: '/article-images/people/ashan-2026-return-minecraft.webp'
 imageCredit: '阿神官方 YouTube 頻道'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
+readingTime: 18
 ---
 
 ## 아신: 11년간 매일 업데이트한 "일 기계"에서 삶을 되찾은 300만 구독자 유튜버

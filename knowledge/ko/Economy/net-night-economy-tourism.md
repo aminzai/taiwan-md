@@ -1,15 +1,15 @@
 ---
 title: 'NET: 수출 재고에서 국민 옷장으로, 이 가장 신비로운 토종(土種) 의류 브랜드'
 description: "1991년에 설립된 NET은 지룽의 '주부 상점' 수출 재고를 기반으로 시작하여 패스트 패션과의 경쟁 속에서도 30년을 버텨냈다. 이곳은 대만 전역에서 가장 많은 매장을 가진 토종 의류 브랜드일 뿐만 아니라, 15년간 이어온 '봉관(封館) 기부 활동'과 최근 지룽 동안 광장(東岸廣場)의 소유권 분쟁으로 인해 대만인들의 마음속에 가장 따뜻한 상업적 전설로 자리매김을 것이다."
-date: '2026-07-22'
+date: 2026-07-22
 author: 'Taiwan.md Contributors'
 category: 'Economy'
 subcategory: '企業列傳'
 tags: ['NET', '타이완 브랜드', '의류 산업', '사회 기업', '지룽 동안 광장']
-readingTime: '28'
-lastVerified: '2026-07-22'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 28
+lastVerified: 2026-07-22
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/NET.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:34ffbb88716e1c90'

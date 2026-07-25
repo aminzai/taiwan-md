@@ -16,7 +16,7 @@ tags:
     'Radio Taiwan International',
   ]
 subcategory: 'Media and Speech'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'History'
 readingTime: 8
 lastVerified: 2026-05-03
@@ -26,6 +26,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
 translatedAt: '2026-05-03T21:39:24+08:00'
+featured: false
 ---
 
 > **30-Second Overview:**

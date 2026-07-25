@@ -1,7 +1,7 @@
 ---
 title: "음력 칠월: '귀문 개(鬼門開)'의 집단적 공포에서 섬의 온화한 화해로"
 description: "2026년 한여름, 대만 거리에는 여전히 긴 식탁이 놓인다. 지룽 망하이샹(望海巷)의 불빛부터 두청(頭城) 고판(孤棚) 위의 땀방울까지, 신주 성황묘(城隍廟)의 '호문 개(開虎門)'에서 민웅 화화대사야(火化大士爺)의 장렬함에 이르기까지, 음력 칠월은 단순한 금기가 아니라 공존, 기억, 그리고 음양 경계를 넘나드는 섬의 서사이다."
-date: '2026-07-20'
+date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '節慶與禮俗'
@@ -15,10 +15,10 @@ tags:
     '民雄大士爺',
     '新竹城隍廟',
   ]
-readingTime: '25'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 25
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/農曆七月.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:44ea24edbaea3139'

@@ -5,7 +5,7 @@ date: 2026-03-22
 tags: ['현대미술', '미술관', '고웅', '문화공간']
 subcategory: '전시 기획과 교육'
 category: 'Art'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 translatedFrom: 'Art/金馬賓館當代美術館.md'
@@ -14,6 +14,8 @@ sourceContentHash: 'sha256:dc5814dcedc92ae0'
 sourceBodyHash: 'sha256:c74e16d96ce01c6c'
 translatedAt: '2026-06-16T17:10:38Z'
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg/800px-%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg
+lastVerified: 2026-03-22
+lastHumanReview: false
 ---
 
 # 진마 빈관 현대미술관 — 전송의 여관에서 예술의 낙원으로

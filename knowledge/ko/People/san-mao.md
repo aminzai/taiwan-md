@@ -1,15 +1,15 @@
 ---
 title: "'三毛: 도피를 자유로 쓴 사람'"
 description: "'본명 진평(陳平), 1943년 충칭에서 태어나 1948년 가족과 함께 대만으로 이주. 중학교 시절 선생님의 공개 망명으로 자퇴한 뒤 7년간 은둔 생활을 하다 다시 글쓰기를 시작함. 1973년 호세와 서사하라에서 결혼, 수필이 대히트하며 계엄 시대 대만인들이 멀리 있는 세계를 상상하는 창이 됨. 1979년 호세가 잠수 사고로 사망. 1990년 각본 《滚滚红尘》로 금마장 8개 부문 수상. 1991년 1월 4일 타이베이 영민총원(榮民總醫院)에서 자살, 향년 47세.'"
-date: '2026-05-17'
-author: "'Taiwan.md'"
-category: "'People'"
+date: 2026-05-17
+author: 'Taiwan.md'
+category: 'People'
 subcategory: "'文學'"
 tags: ['삼모', '수필', '사하라', '호세', '올리브나무', '滚滚红尘', '유랑문학']
-readingTime: 7
+readingTime: 8
 #   whats_excluded: "各本著作逐一評析；撒哈拉日常生活具體描寫（讀者去讀原著）；馬中欣《三毛真相》的逐條反駁；王洛賓關係的情感解讀（採信事實面不猜心理）"
 #   where_it_hedges: "Stage 0 假說「首映後五十多天去世」經驗證修正為25天；荷西死亡地點從 La Gomera/Gran Canaria 修正為 La Palma；年齡差從6歲修正為8歲；死因爭議四說並存不下判斷"'
-lastVerified: '2026-05-17'
+lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/三毛.md'
@@ -137,27 +137,50 @@ translatedAt: '2026-05-18T05:08:08+08:00'
 
 ## 참고 자료
 
-[^1]: [위키백과: 삼모 (작가)](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)) — 기본 생애, 창작 연대기, 문학 평가
+[^1]: [위키백과: 삼모 (작가)](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — 기본 생애, 창작 연대기, 문학 평가
+
 [^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — 호세 출생년도 1951, 나이차 8세, 독일인 약혼자
+
 [^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — 호세 익사 장소 라팔마 블로벤토, 날짜, 인양 세부 사항
-[^4]: [위키백과: 滚滚红尘 (영화)](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)) — 금마장 제27회 8관왕 전체 목록
+
+[^4]: [위키백과: 滚滚红尘 (영화)](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — 금마장 제27회 8관왕 전체 목록
+
 [^5]: [뉴욕타임스 Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — 1,500만 부 판매량, 국제적 평가
+
 [^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — 블룸즈버리 영어 번역본, 마이크 푸 번역자, 국가번역상 후보
+
 [^7]: [전장 ARTouch](https://artouch.com/art-views/content-2727.html) — 보푸성 타이안제이 화실 주소, 10개월 가르침, 바이셴용 추천
+
 [^8]: [텐센트 뉴스](https://news.qq.com/rain/a/20240103A07USZ00) — 독일인 약혼자 심장마비 급사, 결혼 명함, 수면제 복용
+
 [^9]: [방언 Fount Media](https://www.fountmedia.io/article/81860) — 올리브나무 원곡 "당나귀""스페인 처녀 큰 눈", 양쥔쥔 개사, 삼모 반응 원문
+
 [^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — 대만 광전처 올리브나무 금지, 문화적 배경 분석
+
 [^11]: [텐센트 뉴스](https://news.qq.com/rain/a/20210917A0GH4S00) — 진톈신 호세 사망 회상, 삼모 직접 무덤 파기
+
 [^12]: [중국시보](https://www.chinatimes.com/realtimenews/20210212001476-260405) — 왕로빈 관계 전말, 121일, 《기다림》
+
 [^13]: [작견명가](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — 옌하오 40일 밤 대화 회상
+
 [^14]: [Yahoo 뉴스](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%80%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — 린칭샤 "삼모가 없었다면 나는 금마상을 받지 못했을 것이다"
+
 [^15]: [민보](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — 사망 경위, 네 가지 설, 의사 견해
+
 [^16]: [연합문학 / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — 대중문학 vs 순수문학 위치, 정전화 대가 부재
+
 [^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — 루타 산마오 코스, 호세 묘 방명록 통계 (간체 61% / 번체 10% / 스페인어 21%)
+
 [^18]: [국립대만역사박물관](https://women.nmth.gov.tw/?p=19358) — 《사하라의 이야기》 1976년 출간 양안 독서 열풍
+
 [^19]: [국립대만문학관](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — "대만에서 가장 많이 팔리고 영향력이 큰 문학인" 평가
+
 [^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — 2019년 삼모 76세 탄생일 두들, 삼모문학상 1992년 제정, Echo 이름 현상
+
 [^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — 스페인 다큐멘터리 Sanmao: La novia del desierto (2020)
+
 [^22]: [산리뉴스](https://www.setn.com/News.aspx?NewsID=1408845) — 사마중원 2024-01-04 사망, 삼모와 같은 달 같은 날, 생사의 약속
+
 [^23]: [University of Pittsburgh](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — 삼모의 기록과 픽션 경계를 탐구하는 학술 논문
+
 [^24]: [대기원](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — 마중신 《삼모진상》 1996년 출간, 논쟁과 비판

@@ -12,7 +12,7 @@ tags:
     '가짜뉴스',
   ]
 subcategory: '소셜 및 디지털 문화'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 category: 'Technology'
 readingTime: 28
 lastVerified: 2026-05-02
@@ -22,6 +22,7 @@ sourceCommitSha: 'ac86475b'
 sourceContentHash: 'sha256:79e35442d2cf14fd'
 sourceBodyHash: 'sha256:5ed7f28c852729fe'
 translatedAt: '2026-06-16T17:14:05Z'
+featured: false
 ---
 
 > **30초 개요:**

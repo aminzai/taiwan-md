@@ -1,19 +1,20 @@
 ---
 title: '근육산산(肌肉山山): 피트니스·이중언어 유머로 쌓은 영향력'
 description: '대만 거주 한국인 크리에이터가 피트니스와 한중 이중언어 유머로 커뮤니티 영향력을 쌓고, 하이라이프 협업으로 한식 일상 맛을 대만 편의점 매대로 가져갔다.'
-date: 2026-04-15
+date: 2026-05-13
 category: People
 subcategory: '팝 문화'
 tags: ['팝 문화', '근육산산', '한국', '유튜버', '대만 한국인', '편의점', '대만']
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-04-16
+lastVerified: 2026-05-13
 translatedFrom: 'People/肌肉山山.md'
 readingTime: 9
 sourceCommitSha: '859d7316'
 sourceContentHash: 'sha256:a9c781639a414788'
 sourceBodyHash: 'sha256:d1cce1c9cb32c2ba'
 translatedAt: '2026-04-16T13:53:14+09:00'
+lastHumanReview: false
 ---
 
 > **30초 요약:** 근육산산은 대만에서 오래 활동한 한국인 유튜버로, 피트니스·생활·한중 이중언어 상호작용으로 인지도를 쌓았다. 대만 유통에서는 하이라이프 협업 델리·베이커리로 ‘고향 맛+단백질’을 편의점 매대에 한꺼번에 올렸다.

@@ -18,7 +18,7 @@ tags:
   - '첨단 패키징'
   - '대만 테크 산업'
 subcategory: '반도체와 하드웨어'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -195,12 +195,21 @@ AI 하드웨어의 공급망이 대만에 준 것은 외화와 수주 말고도,
 ## 참고 자료
 
 [^1]: [중앙통신사: 黃仁勳「兆元宴」登場 魏哲家劉揚偉林百里等大咖出席](https://www.cna.com.tw/news/afe/202605280300.aspx) — 2026년 5월 28일의 중앙통신사의 보도. 젠슨 황이 타이베이에서 대만의 AI 공급망 기업의 경영진을 초대해 회식한 것을 전하며, 파운드리, 패키징·테스트, 방열 모듈, 전원 관리, 메인보드, 조립 수탁, 브랜드 같은 공급망의 분류를 들고 있다.
+
 [^2]: [TSMC Logic Technology](https://www.tsmc.com/english/dedicatedFoundry/technology/logic) — TSMC 공식의 로직 공정 기술의 페이지. 7나노미터, 5나노미터, 3나노미터, 2나노미터, A16, A14 같은 선단 로직 공정과 기술 로드맵의 설명을 게재하고 있다.
+
 [^3]: [TSMC Advanced Packaging Services](https://www.tsmc.com/english/dedicatedFoundry/services/advanced-packaging) — TSMC 공식의 첨단 패키징 서비스의 페이지. 3DFabric이 SoIC, CoWoS, InFO 등의 전공정·후공정의 통합 기술을 포함하는 것을 설명하고 있다.
+
 [^4]: [AP: Taiwan takes a further step in production of AI chips with advanced new plant](https://apnews.com/article/1e087e92592b0b9ab7fb20442a5b8dc7) — AP 통신에 의한 실리콘웨어의 타이중 신공장과 젠슨 황의 참석의 보도. AI 칩의 공급망에서의 대만의 첨단 패키징의 역할에 대해 국제적인 시점을 제공하고 있다.
+
 [^5]: [AP: Taiwan's AI-powered economy soars in the shadow of bubble fears and China threats](https://apnews.com/article/7527bd4bf3089cbd2dab1c530ee61c3e) — AP 통신 2026년의 보도. AI 수요가 대만의 경제 성장과 수출을 견인하는 한편, AI 버블, 지정학적 위험, 소득의 불평등 같은 제약도 정리하고 있어 균형을 잡는 소재로 적합하다.
+
 [^6]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — 테크 미디어에 의한, 대만의 반도체 업계가 그린 전력과 안정 공급에 대해 경종을 울렸다는 보도. 에너지의 제약과 RE100의 압력에 대한 2차적인 정보원으로 쓸 수 있지만, 정식 인용에는 여전히 TSIA 또는 공식 원문을 쫓을 필요가 있다.
+
 [^7]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — TSMC의 EUV 절전 계획과 총사용 전력의 규모의 보도. 효율의 향상과 총량의 증가 사이의 긴장을 설명하는 데 적합하지만, 정식 인용에는 TSMC의 지속가능성 자료와의 대조가 필요하다.
+
 [^8]: [WIRED: Want to Win a Chip War? You’re Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED 2023년의 보도. 반도체 제조가 초순수와 수처리 설비를 필요로 하는 것을 전하며, 대만의 가뭄기에서의 TSMC와 농업용수 사이의 긴장에도 닿아 있어 본고의 수자원의 단락을 떠받치고 있다.
+
 [^9]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — 대만의 전자부품 제조사 16개사의 2015〜2020년의 환경 발자국을 연구해, 생산량의 증가에 따라 에너지, 물, 탄소 배출이 늘어나는 것과 carbon lock-in의 위험을 제기하고 있다.
+
 [^10]: [중앙통신사: 劉揚偉：看好下半年輝達 Vera Rubin 出貨](https://www.cna.com.tw/news/afe/202605290100.aspx) — 2026년 5월 29일의 중앙통신사의 보도. 훙하이 회장 류양웨이가 Vera Rubin 플랫폼의 출하, CPO / 실리콘 포토닉스, AI 서버의 시스템 전시에 대해 이야기하고 있다.

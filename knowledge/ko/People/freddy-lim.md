@@ -17,7 +17,7 @@ tags:
   - '사회운동'
   - '閃靈'
 subcategory: '음악과 공적 인물'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
@@ -187,23 +187,41 @@ CHTHONIC(閃靈): 밴드의 우주, 앨범의 맥락, 국제적인 영향력, �
 ## 주석
 
 [^1]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — GQ 2016년의 인물 보도. 린창쭤가 CHTHONIC의 보컬로서 대만어와 전통 악기와 함께 국제적인 메탈과 정치의 시야로 들어간 것을 그리고 있다.
+
 [^2]: [大港開唱 공식 사이트](https://megaportfest.com/) — 공식 이벤트 사이트. 다강카이창의 가오슝의 음악 페스티벌로서의 현재의 위치를 확인하기 위해 사용. 연혁은 위키백과로 교차 확인하고 있다.
+
 [^3]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — 같은 GQ의 기사. 2016년에 국제 미디어가 "메탈의 보컬이 국회로"를 어떻게 이해했는지의 맥락을 제공하고 있다.
+
 [^4]: ['We want a fairer society': Freddy Lim, Taiwan's metalhead MP](https://www.theguardian.com/world/2020/aug/17/we-want-a-fairer-society-freddy-lim-taiwan-metalhead-mp) — The Guardian 2020년의 보도. 재선 전후의 국제 미디어에 의한 그의 공적인 역할의 관찰을 보완하고 있다.
+
 [^5]: [從搖滾明星到立法委員，台灣人林昶佐的信念](https://cn.nytimes.com/china/20170531/from-heavy-metal-frontman-to-taiwans-parliament/zh-hant/) — 《뉴욕 타임스》 중국어판 2017년의 보도. 린창쭤가 언더그라운드 음악 신에서 국회로 들어가 대만의 국제적인 가시성과 사회적 의제를 밀고 나간 초기의 정치 단계를 기록하고 있다.
+
 [^6]: [Metal-Sänger und Politiker Freddy Lim: „Wir waren nie ,das freie China' – wir sind Taiwan"](https://www.tagesspiegel.de/gesellschaft/metal-sanger-und-politiker-freddy-lim-wir-waren-nie-das-freie-china--wir-sind-taiwan-8904460.html) — Der Tagesspiegel 2022년의 인터뷰. 계엄령 아래의 교육, 대만어, 대만의 정체성, 국제적인 서사에 대한 린창쭤의 회고를 제공하고 있다.
+
 [^7]: [從人子、人夫到人父 林昶佐：讓愛用另外一種方式延續](https://www.hospice.org.tw/content/3435) — 호스피스 재단의 인터뷰. 아버지의 급사, 딸의 탄생, 완화 의료, 그리고 앨범 《정치》 사이에 있는 린창쭤의 삶의 경험을 보완하고 있다.
+
 [^8]: [蓄長髮、畫屍妝…林昶佐7年前以樂團主唱之姿、打敗國民黨軍系老將，寫素人參政傳奇](https://www.businesstoday.com.tw/article/category/80392/post/202201090014/) — 今周刊 2022년의 보도. 리콜 투표 전후의 정치적인 맥락, 동성혼 등의 진보적인 의제, 리콜의 요건의 분석을 정리하고 있다.
+
 [^9]: [「大港開唱」前世今生（上）：掌舵手的音樂祭海派人生](https://www.verse.com.tw/article/megaport-festival-01) — VERSE 2022년의 보도. 2006년의 가오슝 항구에서의 초창기부터, 2016년 이후의 Doris와 Dani에 의한 인수인계, NGO 의제촌까지의 맥락을 정리하고 있다.
+
 [^10]: [「大港開唱」前世今生（下）：豈止16年，而是台灣音樂祭歷史的文化總和](https://www.verse.com.tw/article/megaport-festival-02) — VERSE 2022년의 보도. 예타이카이창, 멀티 스테이지의 국제화, 수익자 부담, 아티스트의 백스테이지, 대만의 밴드 감상 문화의 향상이라는 긴 선을 보완하고 있다.
+
 [^11]: [INTERVIEW: Freddy Lim unfolds New Power Party platform](https://www.taipeitimes.com/News/taiwan/archives/2015/06/26/2003621612) — Taipei Times 2015년의 인터뷰. CHTHONIC의 보컬, 인권의 제언자, 시대역량의 창당자라는 입장에서 선거에 임한 맥락을 제공하고 있다.
+
 [^12]: [Lim to leave NPP, back Tsai re-election bid](https://www.taipeitimes.com/News/front/archives/2019/08/02/2003719765) — Taipei Times 2019년의 보도. 린창쭤가 시대역량을 떠나 무소속으로 재선을 노리고 차이잉원의 재선을 지지한 것을 확인하고 있다.
+
 [^13]: [Independent Legislator Freddy Lim survives recall vote](https://focustaiwan.tw/politics/202201090008) — Focus Taiwan/CNA 2022년의 보도. 리콜 투표가 찬성표의 요건 미달로 불성립이 된 것을 확인하고 있다.
+
 [^14]: [Freddy Lim to retire from politics, look after family](https://www.taipeitimes.com/News/taiwan/archives/2023/03/18/2003796315) — Taipei Times 2023년의 보도. 희소 질환을 지닌 가족의 간병을 이유로 재선을 노리지 않겠다고 표명한 것을 기록하고 있다.
+
 [^15]: [Independent lawmaker Freddy Lim applies to join DPP](https://focustaiwan.tw/politics/202311270019) — Focus Taiwan/CNA 2023년의 보도. 민주진보당으로의 입당 신청과, 2024년의 선거를 지원할 준비를 확인하고 있다.
+
 [^16]: [Rock star-turned-politician named Taiwan's representative to Finland](https://focustaiwan.tw/politics/202505190024) — Focus Taiwan/CNA 2025년의 보도. 총통부가 린창쭤의 주핀란드 대표 취임을 발표한 것을 확인하고 있다.
+
 [^17]: [Chthonic put spin on Taiwan's past](https://www.taipeitimes.com/News/taiwan/archives/2003/09/14/2003067797) — Taipei Times 2003년의 인터뷰. CHTHONIC의 초기 밴드사, 얼후, 린터우제, 금곡상 최우수 밴드상, 그리고 린창쭤가 블랙메탈의 모체 문화에 대한 의식을 대만사와 민간 전승으로 어떻게 되돌렸는지를 기록하고 있다.
+
 [^18]: [ChthoniC promotes Taiwan's UN bid in interview with NPR](https://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373320) — Taipei Times 2007년의 보도. 오즈페스트 투어 기간에 CHTHONIC이 영어로 미국의 관객에게 대만의 국제 참여가 가로막힌 상황을 설명하고 〈UNlimited Taiwan〉을 부른 맥락을 정리하고 있다.
+
 [^19]: [閃靈新歌「護國山」 創作靈感自政治受難者家屬](https://www.cna.com.tw/news/amov/202303010226.aspx) — 중앙통신사 2023년의 보도. 〈호국산〉의 창작의 착상, 백색테러 수난자의 유족, 가오이성 일가의 기억을 전하며, CHTHONIC의 최근 작품이 역사적 기억이라는 주제를 어떻게 이어받고 있는지를 보완하고 있다.
 
 ## 참고 자료

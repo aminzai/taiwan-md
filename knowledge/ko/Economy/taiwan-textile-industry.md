@@ -1,7 +1,7 @@
 ---
 title: '대만 섬유 산업: 황혼기 산업에서 올림픽 기능복의 숨겨진 챔피언으로'
 description: "한때 '황혼기'로 여겨졌던 전통 산업이 어떻게 페트병 재활용, 폐어망 심지어 공장 배기가스 포집을 통해 2024년 파리 올림픽 세계 대표팀의 첨단 기능복으로 변모하며 대만 전통 산업의 회복탄력성 서사를 뒤바꾸고 있는지."
-date: '2026-07-20'
+date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Economy'
 subcategory: '經濟發展'
@@ -15,10 +15,10 @@ tags:
     '취영(儒鴻)',
     '집양(聚陽)',
   ]
-readingTime: '10'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 10
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/紡織業.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:35a33cde93fda77c'

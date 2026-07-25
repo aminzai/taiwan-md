@@ -5,10 +5,10 @@ date: 2026-03-30
 tags: [음식, 쩐주나이차, 버블티, 테이크아웃 음료, 세계화, 소프트파워, 문화외교]
 subcategory: '음료 문화'
 category: 'Food'
-featured: false
+featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
 imageAlt: '쩐주나이차'
 imageCredit: 'Wikimedia Commons, CC BY-SA'

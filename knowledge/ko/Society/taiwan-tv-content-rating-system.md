@@ -5,7 +5,7 @@ date: 2026-04-08
 tags: ['영화 등급', '쥬라기 공원', '영화법', '문화부', '계엄', '아동청소년보호']
 subcategory: '미디어와 커뮤니케이션'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: false
 translatedFrom: 'Society/台灣電視分級制度.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
 translatedAt: '2026-04-14T06:37:05+08:00'
+lastHumanReview: true
 ---
 
 > **30초 요약:** 대만의 등급제는 한때 가위였다. 1983년 이전에는 영화가 "등급 분류"가 아닌 "검사"를 받아야 했고, 정치적·도덕적 심의는 일상이었다. 1993년 《쥬라기 공원》이 불러일으킨 공룡 소동은 3등급제의 공백을 드러냈고, "보호급" 신설로 이어졌다. 오늘날 대만은 영화·TV·비디오·디지털 게임을 아우르는 5등급 체계를 갖추어 "상영 금지"를 "연령별 분류"로 전환하고, 다양성과 안전을 동시에 지키는 시청각 환경을 구현하고 있다.

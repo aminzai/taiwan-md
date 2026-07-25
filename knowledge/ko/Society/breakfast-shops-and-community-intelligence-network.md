@@ -1,7 +1,7 @@
 ---
 title: '아침 식당 아주머니와 지역사회 정보망'
 description: '정말인가, 나는 아주머니가 손님에게 잘생긴 사람이라고 부르는 줄만 알았는데, 아침 식당 아주머니가 어떻게 온 지역사회의 정보 중심이 되는지를 쓴 글'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '社區與日常'
@@ -15,7 +15,7 @@ tags:
     '지역사회 네트워크',
   ]
 readingTime: 8
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/早餐店阿姨與社區情報網.md'

@@ -4,7 +4,7 @@ description: '서민 생활의 축소판에서 바라본 대만 사회의 회복
 tags: ['전통시장', '서민문화', '사회기능', '도시계획', '지역경제']
 subcategory: '음식과 생활'
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0334fef76cff5db1'
 sourceBodyHash: 'sha256:1f68acc56a66c3d5'
 translatedAt: '2026-04-14T04:35:32+08:00'
+date: 2026-03-18
+lastHumanReview: false
 ---
 
 # 대만의 시장 문화와 전통 시장

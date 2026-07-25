@@ -1,16 +1,16 @@
 ---
 title: '타이완 국방과 군사 현대화'
 description: '2025년 10월, 라이칭더는 후커우에서 M1A2T 전차대대 창설식을 주재했다. 같은 달, 전 참모총장 리시밍은 쓴웃음을 지으며 말했다. “전차도 비대칭 무기라면, 비대칭 무기가 아닌 것이 무엇이겠는가.” 이것은 한 섬이 두 가지 국방 논리 사이에서 끌려가는 이야기이다.'
-date: '2026-04-10'
+date: 2026-04-10
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: 'Society'
 tags:
   ['국방', '군사', '비대칭 작전', '호저 전략', '드론', '병역', '전 국민 방위']
-readingTime: '16'
-lastVerified: '2026-04-10'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 16
+lastVerified: 2026-04-10
+lastHumanReview: false
+featured: false
 translatedFrom: 'Society/台灣國防與軍事現代化.md'
 sourceCommitSha: 'e1b5668a'
 sourceContentHash: 'sha256:88d0dbdb8874357c'

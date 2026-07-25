@@ -1,7 +1,7 @@
 ---
 title: '인디고 염색: 200년 후, 같은 마란을 다시 심다'
 description: '1999년 8월, 천징린이 산샤 염색 공방을 지도하여 70여 년 만에 첫 번째 인디고 천을 염색했다. 청대 주요 수출 품목에서 1940년 10호로 줄어든 이 공예는 살아있는 균의 발효를 기다리는 기술이다. 현재 산샤, 먀오리, 타이핑, 칭라오에서 각기 다른 답을 찾고 있다: 부흥의 목적은 살아있는 색을 되찾는 것인가, 아니면 판매 가능한 브랜드를 만드는 것인가?'
-date: '2026-07-05'
+date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '工藝與美學'
@@ -16,9 +16,9 @@ tags:
   - '하카 인디고 저고리'
   - '천징린'
   - '정메이슈'
-lastVerified: '2026-07-05'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-05
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:1670373f1f6c3b4a'

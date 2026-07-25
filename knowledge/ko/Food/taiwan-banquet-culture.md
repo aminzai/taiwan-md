@@ -17,7 +17,7 @@ subcategory: 'Dining Scenes'
 author: 'Taiwan.md'
 category: 'Food'
 readingTime: 12
-lastVerified: 2026-06-09
+lastVerified: 2026-06-07
 lastHumanReview: false
 translatedFrom: 'Food/台灣辦桌文化.md'
 sourceCommitSha: '31a05c44'
@@ -28,6 +28,7 @@ image: '/article-images/food/bando-ghost-festival-banquet-2017.webp'
 imageCredit: '玄史生 / Wikimedia Commons'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg'
+featured: false
 ---
 
 # Taiwanese Bando: The Martial Field That Opens Tables Amidst Torrential Rain, and the Fading Human-Ghost-Divine Trinity

@@ -1,7 +1,7 @@
 ---
 title: '선셋 롤러코스터: 포토부스 배경 사진 한 장에서 첼라까지, 타이베이 노을을 영어로 노른  14년'
 description: '2010년, 19세의 학생이 맥 포토부스에서 아무렇게나 「Sunset Rollercoaster」 프리셋을 골라 마이스페이스 프로필 사진으로 설정했다. 14년 후, 이 밴드는 코첼라 페스티벌 20여 년 역사상 무대에 오른 최초의 타이완 밴드가 되었다. 전곡 영어 가사, 아열대 시티팝, 산업 시스템에 기대지 않고, 그들은 대충 찍은 롤러코스터 실루엣 한 장으로 타이완이 세계에 가장 많이 들리는 방식을 만들어냈다.'
-date: '2026-05-23'
+date: 2026-05-23
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '獨立與搖滾'
@@ -16,9 +16,9 @@ tags:
     '타이베이',
   ]
 readingTime: '12min'
-lastVerified: '2026-05-27'
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-05-27
+lastHumanReview: false
+featured: true
 translatedFrom: 'Music/落日飛車.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:a199eb8f6aa7f0fc'

@@ -1,13 +1,13 @@
 ---
 title: '대만 주식시장과 자본시장: 1990년 1만 포인트 붕괴에서 2026년 세계 6위까지, 자산의 44%를 한 종목에 건 섬'
 description: '2026년 4월 28일 블룸버그에는 “Taiwan Overtakes Canada”라는 제목이 떴다. 1990년 1만 포인트 붕괴로 16만 명의 퇴직금을 앗아갔던 섬이 36년 뒤 세계 6위 주식시장에 올랐다. 그러나 시가총액 4조 4,700억 달러 가운데 거의 절반이 한 반도체 기업에 걸려 있다.'
-date: '2026-05-03'
+date: 2026-05-03
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: 'Economy'
 tags: ['대만 증시', '증권거래소', '자본시장', 'ETF', 'TSMC', '개인투자자', 'AI']
 readingTime: 16
-lastVerified: '2026-05-03'
+lastVerified: 2026-05-03
 lastHumanReview: false
 featured: true
 translatedFrom: 'Economy/台灣股市與資本市場.md'

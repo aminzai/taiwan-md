@@ -4,7 +4,7 @@ description: '대만의 쇠고기 자급률은 4.6%에 불과하지만, 2024년 
 category: 'History'
 tags: [원흥우, 타이난 쇠고기탕, 온체우, 축산업, 대만 농업, 리덩후이, 육우 산업]
 subcategory: '사회와 일상사'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-03-25
 readingTime: 9
 featured: false
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ed10e8c11ed48896'
 sourceBodyHash: 'sha256:4ef8874799781420'
 translatedAt: '2026-04-14T05:29:27+08:00'
+lastHumanReview: false
 ---
 
 > **30초 요약:** 대만의 쇠고기 시장은 95% 이상이 수입산이다. 땅이 좁고 인구가 밀집해 있어 넓은 목초지도 없고 정부의 명확한 육우 정책도 없다. 그런데 2024년, 대만 최초로 민간이 육성하고 정부가 공인한 토종 소 품종 '원흥우'가 탄생했다. 그 출발점은 1933년 일본에서 배를 타고 건너온 다지마 소 한 무리였고, 종착점은 도축 후 6~8시간 안에 상에 올려야 하는 타이난 쇠고기탕 한 그릇이었다. 이것은 산업이 성장한 이야기가 아니라, 구조적 열세 속에서 틈새를 찾아낸 이야기다.

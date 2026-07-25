@@ -4,7 +4,7 @@ description: '연간 85kg에서 42kg으로: 쌀의 섬나라가 맞이한 음식
 date: 2026-03-23
 tags: ['쌀문화', '쌀', '전통문화', '명절음식', '농업', '음식변화']
 subcategory: '주식과 쌀면 요리'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 category: 'Food'
 featured: false
@@ -17,6 +17,7 @@ sourceBodyHash: 'sha256:2354ee60853945b0'
 translatedAt: '2026-04-14T04:09:26+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Rice_Dumpling_%28Zongzi%29.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'beginner'
 ---
 
 # 타이완 쌀 음식 문화

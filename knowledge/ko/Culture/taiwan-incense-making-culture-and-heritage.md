@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:90f09bc6a0a80e4d'
 sourceBodyHash: 'sha256:396be33a77ed6ba1'
 translatedAt: '2026-05-24T05:06:32+08:00'
+difficulty: 'beginner'
 ---
 
 # 대만 향 제조 문화와 향발(香腳)의 고향

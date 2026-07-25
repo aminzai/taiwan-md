@@ -1,7 +1,7 @@
 ---
 title: '대만 전통공예와 무형문화자산: 제도적 인정은 왔지만, 도제는 사라졌다'
 description: '2022년 12월, 문화부는 가오슝의 87세 토수사부 쑤칭량을 「인간국보」로 지정했고, 그는 반년 뒤 세상을 떠났다. 대만이 「중요 전통공예 보존자」를 문화자산보존법에 명시한 것은 2005년으로, 일본보다 50년, 한국보다 43년 늦었다. 제도가 마침내 자리를 잡았을 때, 도제제도는 이미 1970-80년대 산업화 속에서 붕괴한 뒤였다. 600여 명의 전통 장인 가운데 50세 이하는 「소수」에 불과하다. 명단이 길어질수록 가르칠 수 있는 사람은 줄어든다.'
-date: '2026-05-15'
+date: 2026-05-15
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '傳統工藝'
@@ -19,7 +19,7 @@ tags:
     '문화자산보존법',
   ]
 readingTime: 14
-lastVerified: '2026-05-15'
+lastVerified: 2026-05-15
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'

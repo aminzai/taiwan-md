@@ -4,7 +4,7 @@ description: '미얀마 고립 부대에서 대나무 울타리 왕국까지—1
 date: 2026-03-22
 tags: ['군인 가족 마을', '외성 이민', '국공내전', '문화 보존', '도시 재개발']
 subcategory: '사회와 일상사'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 difficulty: 'intermediate'
 readingTime: 12
 category: 'History'
@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e26ca70cc051b743'
 sourceBodyHash: 'sha256:6ea24f40d826e7d7'
 translatedAt: '2026-04-14T05:07:23+08:00'
+lastHumanReview: false
 ---
 
 # 대만 군인 가족 마을의 역사

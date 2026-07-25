@@ -19,7 +19,7 @@ tags:
     '22 Counties Series',
   ]
 subcategory: 'Counties'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'Geography'
 readingTime: 15
 lastVerified: 2026-05-18
@@ -33,6 +33,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bridge_across_t
 imageCredit: Wing1990hk
 imageLicense: CC BY-SA 3.0
 imageSource: https://commons.wikimedia.org/wiki/File:Bridge_across_the_Houmen_Channel.jpg
+featured: false
 ---
 
 # Penghu County: Two Rejections of Casinos, the Chrysanthemum Island Chose Not Poverty

@@ -1,15 +1,15 @@
 ---
 title: '중원절(中元節): 망자를 위로하는 두려움에서 섬의 집단적 화해로'
 description: '대만에서 중원절은 단순히 귀신에 대한 경외심이 아니라, 개척(開墾), 충돌, 그리고 민족 간의 융합에 관한 생존 기록이다. 지룽(基隆)에서의 피눈물 같은 화해부터 두청(頭城)에서의 극한적인 망자 구출 경쟁까지, 이 축제는 대만 사람들이 어떻게 공포를 사회적 평화 조약으로 전환했는지 보여준다.'
-date: '2026-07-20'
+date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '節慶與禮俗'
 tags: ['中元普渡', '基隆中元祭', '搶孤', '台灣民俗', '歷史']
-readingTime: '8'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 8
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/中元節.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:92d21a8f6666e1c2'

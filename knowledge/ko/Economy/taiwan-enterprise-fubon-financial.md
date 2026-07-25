@@ -5,7 +5,7 @@ date: 2026-03-22
 tags: [경제, 기업, 푸본금융지주, 차이밍중, 금융업, 인수합병, 디지털전환]
 subcategory: '기업 열전'
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 15
 translatedFrom: 'Economy/台灣企業：富邦金控.md'
 lastVerified: 2026-03-22
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
 translatedAt: '2026-04-14T08:48:46+08:00'
+featured: false
+lastHumanReview: true
 ---
 
 # 대만 기업: 푸본금융지주

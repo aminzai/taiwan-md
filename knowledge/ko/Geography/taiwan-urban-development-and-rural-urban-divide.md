@@ -5,7 +5,7 @@ date: 2026-03-21
 tags: ['도시 발전', '도농 격차', '6대 도시', '인구 이동', '지역 개발']
 subcategory: '도시와 인문지리'
 category: 'Geography'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
@@ -13,6 +13,9 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:abb1bddb60e0e0c6'
 sourceBodyHash: 'sha256:85a0db4806eee7dd'
 translatedAt: '2026-04-14T19:23:57+08:00'
+lastVerified: 2026-03-21
+lastHumanReview: true
+difficulty: 'beginner'
 ---
 
 # 대만의 도시 발전과 도농 격차

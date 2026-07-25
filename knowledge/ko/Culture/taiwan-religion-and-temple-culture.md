@@ -26,6 +26,7 @@ sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:8d534bf965b094a9'
 sourceBodyHash: 'sha256:ef11b70d69d87737'
 translatedAt: '2026-06-10T16:42:09Z'
+featured: true
 ---
 
 # Taiwan's Religious Beliefs: An Empire of Faith Grown from Fear

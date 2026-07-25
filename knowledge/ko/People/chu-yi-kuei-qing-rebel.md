@@ -5,7 +5,7 @@ date: 2026-03-24
 tags: ['타이완 역사', '청나라 통치기', '민란', '주이구이', '오리왕']
 subcategory: '역사 인물'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 6
 featured: false
 translatedFrom: 'People/朱一貴.md'
@@ -13,6 +13,8 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:59a6177c37cf5305'
 sourceBodyHash: 'sha256:731cd7121531d2ac'
 translatedAt: '2026-04-14T19:24:22+08:00'
+lastVerified: 2026-03-24
+lastHumanReview: false
 ---
 
 # 오리왕 주이구이: 타이완 최초로 왕을 칭한 봉기 지도자

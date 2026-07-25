@@ -1,20 +1,21 @@
 ---
 title: "하이라이프(Hi-Life): 광천(光泉)의 빨강에서 연방(聯邦)의 초록으로, 대만 '편의점 3인자'의 영혼 투쟁"
 description: "대만 유일무이한 순수 토착 혈통을 가진 4대 편의점 중 하나인 하이라이프는, 세븐일레븐(7-ELEVEN)과 패밀리마트(FamilyMart)의 압박 속에서 '최초로 연말 세트 상품 도입'과 '디지털 전환'으로 생존해 왔다. 2023년 경영권 대격변은 이 35년 역사의 가게에 어떤 변화를 가져올 것인가?"
-date: '2026-07-21'
+date: 2026-07-21
 category: 'Economy'
 subcategory: '기업 연대기'
 tags:
   ['萊爾富', '편의점', '聯邦集團', '光泉', '디지털 전환', '경영권', '소매금융']
-readingTime: '12'
-lastVerified: '2026-07-21'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-21
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/萊爾富.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:16de3ef9123d401b'
 sourceBodyHash: 'sha256:1db4b0d8639cd770'
 translatedAt: '2026-07-23T23:06:50+08:00'
+author: 'Taiwan.md Contributors'
 ---
 
 > **30초 요약:** 1989년 디화가(迪化街)에 설립된 하이라이프(Hi-Life)는 대만 최초이자 현재 4대 편의점 중 유일한 순수 토착 브랜드이다. 이는 외국 자본이 부여한 라이선스가 아닌, 광천(光泉) 왕가(汪家)가 '향토적 정서와 세계관'이라는 이념 아래 키워낸 결실이다. 비록 점포 수는 늘 3위나 4위에 머물렀지만, 하이라이프는 '사전 예약 연말 세트 상품'과 '멀티미디어 업무 기기(多媒體事務機)'를 도입한 혁신 선구자였다. 2023년 경영권이 광천 왕가에서 연방 그룹(聯邦集團)으로 넘어간 이 시점에서, 이 '붉은색 기반'의 노련한 편의점은 점차적으로 '파랑과 초록'의 새로운 모습으로 바뀌며 금융 및 디지털 결제의 현장 거점으로 전환하고 있다. 이 거래는 단순한 자본 이동이 아니라, '토착 소매 정신'이 신시대에서 어떻게 투쟁하는지에 대한 하나의 실험이다.

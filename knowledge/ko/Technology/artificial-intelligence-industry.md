@@ -5,7 +5,7 @@ date: 2026-03-20
 tags: ['기술', 'AI', '인공지능', '테크 산업']
 subcategory: '인공지능'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'Technology/AI人工智慧產業.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bc36a1af91d28cb5'
 sourceBodyHash: 'sha256:9d1ac9fec38fa5d4'
 translatedAt: '2026-04-14T06:47:03+08:00'
+lastHumanReview: true
 ---
 
 > **30초 요약:** 대만은 TSMC를 통해 NVIDIA의 AI 칩을 제조하며 글로벌 AI 하드웨어 공급망에서 핵심 위치를 차지하고 있다. 2023년 생성형 AI 붐이 일어난 이후, 대만은 '남의 칩을 만드는 것'에서 벗어나 'AI를 어떻게 활용할 것인가'를 고민하기 시작했다. 정부는 AI 4대 전략을 추진하고 있지만, 여전히 기업의 70%는 AI 전환의 문턱을 넘지 못하고 있다. 대만은 하드웨어 제조에서 AI 응용 혁신으로 전환 중이다.

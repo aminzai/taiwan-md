@@ -20,7 +20,7 @@ author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 16
 lastVerified: 2026-04-20
-lastHumanReview: 2026-04-20
+lastHumanReview: true
 translatedFrom: 'Art/謝德慶.md'
 sourceCommitSha: 'd520299b'
 sourceContentHash: 'sha256:97f19e04671843c8'

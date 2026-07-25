@@ -5,10 +5,10 @@ date: 2026-03-21
 tags: ['야시장', '길거리 음식', '문화', '관광', '서민 생활']
 subcategory: '음식 공간'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
-lastHumanReview: false
+lastHumanReview: true
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
 imageAlt: '대만의 야시장 문화'
 imageCredit: 'Wikimedia Commons, CC BY-SA'

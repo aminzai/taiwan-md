@@ -5,7 +5,7 @@ date: 2026-03-22
 tags: ['동성혼', '성평등', '인권', '사법', '아시아 최초', '치자웨이', 'LGBTQ+']
 subcategory: '인권과 평등'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
 translatedFrom: 'Society/台灣同婚與性別平權.md'
@@ -14,6 +14,8 @@ sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:369f015f40df17bd'
 sourceBodyHash: 'sha256:87466d8232d3f86e'
 translatedAt: '2026-04-14T05:40:02+08:00'
+lastHumanReview: false
+difficulty: 'beginner'
 ---
 
 # 대만 동성혼과 성평등

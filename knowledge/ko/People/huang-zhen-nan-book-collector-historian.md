@@ -7,8 +7,8 @@ category: 'People'
 subcategory: '文學'
 tags: ['대만 문사', '장서가', '황진남', '대만 역사', '활수래책방']
 lastVerified: 2026-03-20
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/黃震南.md'
 sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:e3d5f3c7c92e369d'

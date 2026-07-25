@@ -5,7 +5,7 @@ date: 2026-03-23
 tags: ['사회', '역사', '학생운동', '민주화', '시민운동']
 subcategory: '민주주의와 정치'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 15
 featured: false
 translatedFrom: 'Society/野百合學運.md'
@@ -14,6 +14,7 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:bc1d9c831c947934'
 sourceBodyHash: 'sha256:5699382224a6d5e2'
 translatedAt: '2026-05-25T21:07:07Z'
+lastHumanReview: false
 ---
 
 # 야생 백합 학생운동

@@ -17,7 +17,7 @@ tags:
   - 'AI하드웨어'
   - '공급망'
 subcategory: '반도체와 하드웨어'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -190,6 +190,9 @@ _국도 시후 서비스 에어리어의 지붕의 태양광 패널. 기업이 �
 ## 참고 자료
 
 [^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — TSMC의 EUV 절전 계획, 총전력 사용의 규모, 툴의 절전의 비율을 보도하고 있어, 효율의 향상과 총량의 압력이 병존하는 것을 설명하는 데 쓸 수 있다.
+
 [^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — 대만반도체산업협회가 전력의 안정과 재생 에너지의 공급에 대해 경고한 것을 보도하고, RE100, 웨이퍼 공장의 그린 전력의 수요, 해외 이전의 위험을 정리하고 있다.
+
 [^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — 대만의 전자부품 제조사 16개사의 2015-2020년의 환경 발자국을 연구해, 에너지와 물과 탄소 배출이 생산량의 성장에 따라 늘어나는 것과 carbon lock-in의 위험을 제기하고 있다.
+
 [^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — AP 통신에 의한 2025년 대만의 제3원자력발전소 계속 운전 국민투표의 결과의 보도. 원자력 지지자가 전기 요금과 AI의 전력 수요를 어떻게 논술에 넣고 있는지도 설명하고 있다.

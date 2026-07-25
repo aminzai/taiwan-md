@@ -1,7 +1,7 @@
 ---
 title: '메가포트: 항구 옆에서 탄생한 타이완 음악 축제'
 description: '메가포트는 2006년 가오슝 항구 옆에 설립된 타이완의 대형 야외 음악 축제로, 야台 개창 팀과 샤오링 멤버, TRA Music의 큐레이션 경험에서 출발하여 남 타이완 밴드, 타이완어 현장, 국제 라인업, NGO 의제 마을, 항구 도시 풍경을 같은 공간에 모아 놓았다. 이를 통해 가오슝 항구 옆은 타이완의 라이브 하우스 문화, 도시 정체성, 공공 논의가 서로 만나는 중요한 장이 되었다.'
-date: '2026-07-10'
+date: 2026-07-10
 category: 'Music'
 subcategory: '음악산업'
 tags:
@@ -14,10 +14,10 @@ tags:
     '타이완어',
     '샤오링',
   ]
-author: "'Taiwan.md Contributors'"
-lastVerified: '2026-07-10'
-lastHumanReview: 'false'
-featured: 'false'
+author: 'Taiwan.md Contributors'
+lastVerified: 2026-07-10
+lastHumanReview: false
+featured: false
 translatedFrom: 'Music/大港開唱.md'
 sourceCommitSha: '717a640b3'
 sourceContentHash: 'sha256:2cde586b88469ed9'

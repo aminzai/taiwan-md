@@ -7,8 +7,8 @@ category: 'People'
 subcategory: '數位與媒體'
 tags: ['주걱량', '쇼장(秀場)', '코미디', '예능', '대만어(台語)']
 lastVerified: 2026-03-19
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/豬哥亮.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:9339a35ccebb0ba3'

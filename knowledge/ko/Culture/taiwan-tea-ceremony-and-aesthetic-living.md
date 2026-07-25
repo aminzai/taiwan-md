@@ -5,7 +5,7 @@ date: 2026-03-25
 tags: ['차 문화', '다도', '생활 미학', '동방미인차', '자등려']
 subcategory: '공예와 미학'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-25
@@ -14,6 +14,8 @@ sourceCommitSha: 'd520299b'
 sourceContentHash: 'sha256:493db11be1cffdc3'
 sourceBodyHash: 'sha256:31e39ab99f97ad00'
 translatedAt: '2026-06-16T17:19:04Z'
+lastHumanReview: false
+difficulty: 'beginner'
 ---
 
 # 대만의 다도와 생활 미학

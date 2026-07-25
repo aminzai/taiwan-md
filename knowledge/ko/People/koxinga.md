@@ -5,7 +5,7 @@ date: 2026-03-27
 tags: [정성공, 명정, 네덜란드동인도회사, 대만역사, 해상제국, 질란디아성]
 subcategory: '역사 인물'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 translatedFrom: 'People/鄭成功.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c09723b8f613b890'
 sourceBodyHash: 'sha256:8cc0f510721f307f'
 translatedAt: '2026-04-14T19:25:23+08:00'
+lastVerified: 2026-03-27
+lastHumanReview: false
 ---
 
 # 정성공 (鄭成功): 일본에서 태어나 중국에서 자라고 대만에서 죽은 37년

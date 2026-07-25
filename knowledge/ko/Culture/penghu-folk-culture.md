@@ -5,7 +5,7 @@ date: 2026-03-24
 tags: [펑후, 원소절, 거북빌리기, 이도서문화, 사원, 민속, 석호, 마조]
 subcategory: '이도서문화'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 lastVerified: 2026-04-07
@@ -16,6 +16,7 @@ sourceBodyHash: 'sha256:800e8b0751351b5e'
 translatedAt: '2026-04-14T08:05:20+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Penghu_Tianhou_Temple_02.jpg/1280px-Penghu_Tianhou_Temple_02.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: true
 ---
 
 # 펑후 민속 문화

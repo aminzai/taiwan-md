@@ -1,13 +1,13 @@
 ---
 title: '대만 산업 전환 및 업그레이드: 제조 대국에서 혁신 강국으로'
 description: '대만의 산업 구조는 노동집중형에서 지식집중형으로 전환되었으며, 5+2 산업 혁신, 6대 핵심 전략 산업 등의 정책을 통해 전통 제조업의 업그레이드와 신흥 산업의 발전을 추진하고 있다.'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '經濟發展'
 tags: ['경제', '산업 정책', '전환 및 업그레이드', '혁신', '제조업', '첨단 기술']
-readingTime: '15'
-lastVerified: '2026-03-19'
+readingTime: 15
+lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'Economy/台灣產業轉型升級.md'
@@ -15,6 +15,7 @@ sourceCommitSha: 'bb3e6a0b'
 sourceContentHash: 'sha256:9aa75ab5aaf39eb6'
 sourceBodyHash: 'sha256:4a2bc57ff97cab00'
 translatedAt: '2026-05-20T05:08:30+08:00'
+difficulty: 'intermediate'
 ---
 
 # 대만 산업 전환 및 업그레이드: 제조 대국에서 혁신 강국으로

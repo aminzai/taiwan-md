@@ -5,7 +5,7 @@ date: 2026-03-21
 tags: ['PTT', 'BBS', '인터넷 문화', '향민', '디지털 민주주의', '소셜 미디어']
 subcategory: '커뮤니티와 디지털 문화'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
+author: 'p3nchan'
 readingTime: 8
 featured: true
 translatedFrom: 'Technology/PTT批踢踢.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f28d98485199bc24'
 sourceBodyHash: 'sha256:110038d2fb23bc2a'
 translatedAt: '2026-04-14T06:47:03+08:00'
+lastHumanReview: true
 ---
 
 # PTT 비티피: 대만의 가장 완고한 공공 광장

@@ -4,9 +4,9 @@ description: '1964년의 맥아더 고속도로는 겨우 23km에 불과했으�
 category: 'Lifestyle'
 tags: [국도, 교통건설, 10대 건설, 설산 터널, ETC, 전후 대만]
 author: 'Taiwan.md Contributors'
-date: 2026-05-03
-readingTime: 10
-lastVerified: 2026-05-03
+date: 2026-07-18
+readingTime: 15
+lastVerified: 2026-07-18
 lastHumanReview: false
 featured: false
 translatedFrom: Lifestyle/高速公路.md

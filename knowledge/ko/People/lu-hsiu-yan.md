@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d371b7109756e14d'
 sourceBodyHash: 'sha256:8d9608a92d5a6a0c'
 translatedAt: 2026-05-03T23:14:06+08:00
+difficulty: 'intermediate'
 ---
 
 # 루슈옌(盧秀燕): 구관 공기 1만 병에서 워싱턴 군사 구매 보험론까지, 불패의 여왕

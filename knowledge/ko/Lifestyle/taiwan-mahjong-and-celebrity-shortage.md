@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:334f3cc12d1f65c6'
 sourceBodyHash: 'sha256:1f3fd4501700702b'
 translatedAt: '2026-06-09T04:19:27+08:00'
+featured: false
 ---
 
 > Taiwanese Sixteen-Zhang Mahjong uses 144 tiles, 8 flower tiles, the most complex point-calculation system in the world, and an unwritten teaching method: Elders play it in front of you but don't explain it to you. You can only learn from being scolded. In 2001, IGS released _Celebrity Mahjong_, letting the voices of Wu Zongxian and Wang Caihua accompany you as you practice. This game has lived for over twenty years and remains a money-printing machine in the Taiwanese mobile game market. But what it truly achieved goes deeper than making money: it turned a culture that was only passed down orally on the mahjong table into something anyone could explore on their own.

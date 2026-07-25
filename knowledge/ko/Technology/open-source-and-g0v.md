@@ -14,6 +14,7 @@ sourceCommitSha: '6eeee35c'
 sourceContentHash: 'sha256:ccabd00d4cba7d6b'
 sourceBodyHash: 'sha256:c135fc23da71593b'
 translatedAt: 2026-06-03T14:26:57Z
+author: 'Taiwan.md'
 ---
 
 # 오픈소스 커뮤니티와 g0v

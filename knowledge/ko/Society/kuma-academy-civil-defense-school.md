@@ -29,6 +29,7 @@ image: /article-images/society/kuma-academy-blue-magpie-drill-2024.webp
 imageCredit: Tan Xudong / Voice of America
 imageLicense: Public Domain
 imageSource: https://commons.wikimedia.org/wiki/File:%E9%BB%91%E7%86%8A%E5%AD%B8%E9%99%A2%E8%97%8D%E9%B5%B2%E8%A1%8C%E5%8B%95_20240127.jpg
+difficulty: 'intermediate'
 ---
 
 # 흑곰학원: 언젠가 자신이 존재하지 않아도 되기를 바라는 민방위 학교

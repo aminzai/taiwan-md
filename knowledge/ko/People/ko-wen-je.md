@@ -5,7 +5,7 @@ date: 2026-03-30
 tags: [인물, 정치, 타이베이 시장, 대만민중당, 의사, 제3세력]
 subcategory: '정치와 민주주의'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 translatedFrom: 'People/柯文哲.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f3f1641bd9815359'
 sourceBodyHash: 'sha256:639fe26edbc39449'
 translatedAt: '2026-05-13T01:08:20Z'
+lastVerified: 2026-03-30
+lastHumanReview: false
 ---
 
 # 커 원저

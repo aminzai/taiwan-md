@@ -5,7 +5,7 @@ date: 2026-03-24
 tags: ['재난 의료', '응급의학', 'DMAT', '대만 의료', '원격 의료']
 subcategory: '의료 체계'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 translatedFrom: 'Technology/台灣災難醫療體系.md'
@@ -14,6 +14,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:bdad2fe4c19ade1d'
 sourceBodyHash: 'sha256:65d8bf2fc8ebb567'
 translatedAt: '2026-05-16T22:20:00Z'
+lastHumanReview: false
 ---
 
 ## 시작: 8분 안에 내려진 생사의 결정

@@ -2,8 +2,8 @@
 title: "'타이완바: 1990년대생의 애니메이션 꿈에서 디지털 교육의 후반전까지'"
 description: '2014년 9월 1일, 《애니메이션 타이완사》 첫 회가 공개되어 술 취한 타이완흑곰 한 마리로 타이완 전역에 역사 열풍을 일으켰다. 폭발적 인기와 2천만 타이완달러 부채를 거쳐 「다좌저우 학원」으로 전환하기까지, 타이완바는 10년에 걸쳐 오락과 교육의 균열 속에서 「지식 전환」의 상업적 경계와 문화 주권을 다시 정의했다.'
 date: 2026-06-28
-author: "'Taiwan.md Contributors'"
-category: "'Culture'"
+author: 'Taiwan.md Contributors'
+category: 'Culture'
 subcategory: "'網路文化'"
 tags:
   [

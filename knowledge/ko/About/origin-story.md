@@ -4,7 +4,7 @@ description: '거리를 산책하다 얻은 영감에서 시작해, 세계를 �
 date: 2026-03-17
 tags: ['소개', '탄생이야기', 'taiwan-md']
 category: 'About'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 4
 featured: true
 translatedFrom: 'About/緣起故事.md'
@@ -12,6 +12,8 @@ sourceCommitSha: '818f3cc1'
 sourceContentHash: 'sha256:90a44cb111462766'
 sourceBodyHash: 'sha256:0005a5514ea5f5fb'
 translatedAt: '2026-06-16T17:10:38Z'
+lastVerified: 2026-03-19
+lastHumanReview: false
 ---
 
 # Taiwan.md 탄생 이야기

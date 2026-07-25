@@ -17,13 +17,14 @@ tags:
   ]
 readingTime: 10
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
 featured: false
 translatedFrom: Culture/國立故宮博物院.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
 translatedAt: 2026-05-01T22:19:01+08:00
+author: 'Taiwan.md'
 ---
 
 # 국립고궁박물원: 전쟁 속 나무 상자에서 AI 환상까지, 백년의 대장정

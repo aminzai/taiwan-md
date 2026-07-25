@@ -12,7 +12,7 @@ tags:
   - '미국 원조'
   - '펑수이 치고기밥'
   - '자이 미식'
-readingTime: '8'
+readingTime: 8
 lastVerified: 2026-04-24
 lastHumanReview: false
 featured: false

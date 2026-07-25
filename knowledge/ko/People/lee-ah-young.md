@@ -14,7 +14,7 @@ tags:
     '푸방 엔젤스',
     'CPBL',
   ]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/李雅英.md'
@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:1893791073a1e549'
 sourceBodyHash: 'sha256:c10dde5e8f5a2f8e'
 translatedAt: '2026-05-17T06:30:00Z'
+lastHumanReview: false
 ---
 
 > **30초 요약:** 대만에서 이아영은 ‘한 번 뜨고 사라지는’ 이야기가 아니라 ‘항상 그 자리에 있는’ 이야기다. 푸방에서 시즌을 넘겨 활동하며 높은 출석과 인지도를 유지했고, 한국 치어 인재를 ‘화제’에서 구장 콘텐츠의 고정 축으로 바꿨다.

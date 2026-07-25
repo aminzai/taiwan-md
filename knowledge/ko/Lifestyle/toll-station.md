@@ -16,9 +16,9 @@ tags:
     준수이시 톨게이트(濁水溪收費站),
   ]
 author: 'Taiwan.md Contributors'
-date: 2026-05-03
-readingTime: 12
-lastVerified: 2026-05-03
+date: 2026-07-19
+readingTime: 15
+lastVerified: 2026-07-19
 lastHumanReview: false
 featured: false
 translatedFrom: Lifestyle/收費站.md

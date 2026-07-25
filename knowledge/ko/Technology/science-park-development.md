@@ -29,6 +29,7 @@ image: '/article-images/technology/hsinchu-science-park-tsmc-fab5-2010.webp'
 imageCredit: 'Peellden'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
+difficulty: 'intermediate'
 ---
 
 # 타이완 과학단지: 논 한 평의 도박이 세계의 생명선을 만들고, 동시에 치명적 약점이 되다

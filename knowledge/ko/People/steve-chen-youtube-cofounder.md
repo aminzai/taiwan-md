@@ -5,7 +5,7 @@ date: 2026-04-06
 tags: [陳士駿, YouTube, 실리콘밸리, 스타트업, 취업 골드카드, 뇌종양]
 subcategory: '기술과 창업'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 translatedFrom: 'People/陳士駿.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a7528e9b7062bef0'
 sourceBodyHash: 'sha256:9f3cbb43337753f0'
 translatedAt: '2026-04-14T19:25:23+08:00'
+lastVerified: 2026-04-05
+lastHumanReview: false
 ---
 
 # 陳士駿 — 여덟 살에 떠나, 마흔한 살에 돌아온 사람

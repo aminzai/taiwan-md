@@ -1,13 +1,13 @@
 ---
 title: '르웨탄: 18.18미터 수위 아래, 물에 잠긴 동시에 드러난 타이완의 심장'
 description: '2026년의 르웨탄은 세계 최대의 양수발전 배터리이자 사오족이 잃어버린 조령의 땅이다. 1934년 수위가 18.18미터 상승해 지형을 바꾼 때부터, 이 호수는 관광 명소와 에너지의 심장 사이에서 한 세기에 걸친 민족 이주와 전력의 기적을 품어 왔다.'
-date: '2026-04-27'
+date: 2026-04-27
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '水文與水資源'
 tags: ['르웨탄', '사오족', '양수발전', '타이완 역사', '관광', '수력공학']
 readingTime: 12
-lastVerified: '2026-04-27'
+lastVerified: 2026-04-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/日月潭.md'

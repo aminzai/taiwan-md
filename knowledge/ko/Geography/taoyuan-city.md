@@ -32,6 +32,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Taoyuan_Airport
 imageCredit: Wikimedia Commons contributor
 imageLicense: CC BY-SA 4.0
 imageSource: https://commons.wikimedia.org/wiki/Category:Taiwan_Taoyuan_International_Airport
+featured: false
 ---
 
 # Taoyuan City: Taiwan's Import and Export Hub, Home to the Most Hakka People and Migrant Workers, All on This Plateau

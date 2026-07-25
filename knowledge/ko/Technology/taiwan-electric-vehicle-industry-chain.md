@@ -15,6 +15,7 @@ sourceCommitSha: '24efd20f3'
 sourceContentHash: 'sha256:85f80872ad09b54c'
 sourceBodyHash: 'sha256:3683724639161321'
 translatedAt: '2026-05-15T14:23:13+08:00'
+difficulty: 'intermediate'
 ---
 
 # 대만 전기차 산업 사슬의 발전

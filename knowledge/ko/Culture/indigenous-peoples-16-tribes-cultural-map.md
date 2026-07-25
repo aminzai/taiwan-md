@@ -5,7 +5,7 @@ date: 2026-03-29
 tags: ['원주민족', '문화', '제전', '언어', '현대 창작']
 subcategory: '민족 문화'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
 lastVerified: 2026-03-29
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:36ecabdcaffefea4'
 sourceBodyHash: 'sha256:561ea7184d1651ca'
 translatedAt: '2026-06-16T17:10:38Z'
+lastHumanReview: false
 ---
 
 # 대만 원주민족 16부족 문화 지도

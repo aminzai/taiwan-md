@@ -1,20 +1,21 @@
 ---
-title: "대만 섬 지리적 특징과 형성"
-description: "대만의 독특한 섬 지리적 특징을 탐구하며, 판 운동에서 지형 구조까지, 포르모사 섬의 자연적 비밀을 알아본다"
+title: '대만 섬 지리적 특징과 형성'
+description: '대만의 독특한 섬 지리적 특징을 탐구하며, 판 운동에서 지형 구조까지, 포르모사 섬의 자연적 비밀을 알아본다'
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Geography"
-subcategory: "島嶼與海洋"
-tags: ["지리", "지질", "섬", "판 운동", "지형"]
+author: 'Taiwan.md'
+category: 'Geography'
+subcategory: '島嶼與海洋'
+tags: ['지리', '지질', '섬', '판 운동', '지형']
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
-translatedFrom: "Geography/台灣島嶼地理特色與形成.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:fd5b44b607710000"
-sourceBodyHash: "sha256:b019853dd2be5b1d"
-translatedAt: "2026-05-20T05:08:30+08:00"
+translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:fd5b44b607710000'
+sourceBodyHash: 'sha256:b019853dd2be5b1d'
+translatedAt: '2026-05-20T05:08:30+08:00'
+difficulty: 'intermediate'
 ---
 
 # 대만 섬 지리적 특징과 형성
@@ -65,11 +66,11 @@ translatedAt: "2026-05-20T05:08:30+08:00"
 
 대만의 지형 구조는 전형적인 "고산 섬"의 특징을 보여준다:
 
-| 지형 유형 | 고도 범위 | 면적 비율 | 주요 분포 |
-| --- | --- | --- | --- |
-| **산지** | 1,000m 이상 | 29% | 중앙 산맥, 설산 산맥, 아리산 산맥 |
-| **구릉 및 대지** | 100~1,000m | 40% | 묘율 구릉, 죽동 구릉, 임구 대지 |
-| **평야 및 분지** | 100m 이하 | 31% | 가남 평야, 핑동 평야, 타이베이 분지 |
+| 지형 유형        | 고도 범위   | 면적 비율 | 주요 분포                           |
+| ---------------- | ----------- | --------- | ----------------------------------- |
+| **산지**         | 1,000m 이상 | 29%       | 중앙 산맥, 설산 산맥, 아리산 산맥   |
+| **구릉 및 대지** | 100~1,000m  | 40%       | 묘율 구릉, 죽동 구릉, 임구 대지     |
+| **평야 및 분지** | 100m 이하   | 31%       | 가남 평야, 핑동 평야, 타이베이 분지 |
 
 ### 산맥의 안형(雁形) 배열
 
@@ -227,9 +228,15 @@ translatedAt: "2026-05-20T05:08:30+08:00"
 ## 참고 문헌
 
 [^1]: 경제부 지질조사 및 광업관리센터(2023), [《대만 지질 개론》](https://www.gsmma.gov.tw/).
+
 [^2]: 중앙기상서(2024), [《대만 기후 통계 자료》](https://www.cwa.gov.tw/).
+
 [^3]: 내정부 국토측량센터(2024), [《국토 측량 통계 연보》](https://www.nlsc.gov.tw/).
+
 [^4]: 위키백과(2025), [〈대만 지리〉](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E5%9C%B0%E7%90%86).
+
 [^5]: 위키백과(2022), [〈대만 지질〉](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%9C%B0%E8%B3%AA).
+
 [^6]: 농업부 임업 및 자연보전서 대만 지경 보전망, [〈섬 지경의 구성과 특징〉](https://landscape.forest.gov.tw/).
+
 [^7]: 삼민보고(2025), [〈대만 지리 지식 백과〉](https://www.3people.com.tw/).

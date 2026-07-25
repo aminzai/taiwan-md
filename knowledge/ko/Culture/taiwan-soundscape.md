@@ -1,14 +1,14 @@
 ---
 title: '타이완의 사운드스케이프: 쓰레기차의 클래식, 지하철의 새소리, 그리고 들리지만 좀처럼 경청되지 않는 섬'
 description: '같은 해, 타이베이 MRT는 레이광샤와 리신윈에게 의뢰해 진입 음악을 예술로 만들면서도, 문 닫힘 경고음의 선율을 없애고 다시 새소리로 되돌렸다. 소리는 동시에 미학화되고 기능화되었다. 타이완이 《소음관리법》으로 제거하려는 이 소리들은 사실 “여기가 집”임을 식별하게 해 주는 표지이다. 한 사운드스케이프 연구 석사의 질문: 타이완을 이해하는 일은 “우리가 어떤 소리에 익숙하게 무심해져 있는가”를 묻는 데서 시작할 수 있다.'
-date: '2026-06-26'
+date: 2026-06-26
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '工藝與美學'
 tags: ['사운드스케이프', '경청', '도시 문화', '감각', '타이베이 MRT']
-lastVerified: '2026-06-26'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-06-26
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/台灣聲景.md'
 sourceCommitSha: '8b61d368'
 sourceContentHash: 'sha256:819a7ee143f7b981'

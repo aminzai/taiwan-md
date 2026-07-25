@@ -1,19 +1,21 @@
 ---
 title: '교실에 들어선 AI: 300개의 대리인, 훈련 후 고립된 교사를 받치다'
 description: "2026년, 쉬타이핑(徐臺屏)은 약 80명의 교사가 설계한 300개의 AI 대리인을 공유 마켓플레이스에 공개했다. 타이완의 두 가지 설문조사는 한쪽에서는 90%의 교사가 AI를 접했다고 보고했지만, 다른 쪽에서는 여전히 95.6%가 학습 수요가 있다고 보여준다. 다자(大佳國小)에서의 세 시간 워크숍, 네이후(內湖) 고등학교의 '테스터' 테스트, 교육부 인재 방주 계획에 이르기까지, 본 기사는 질문을 던진다: 도구가 교실에 들어왔다면, 학교로 돌아온 교사를 누가 받아줄 것인가? 이는 도구 보급 이후 더 어려운 교육 공학적 과제이다."
-date: '2026-07-20'
+date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Technology'
 subcategory: 'Artificial Intelligence'
 tags: ['인공지능', 'AI교육', '교사훈련', '디지털학습', '생성형AI']
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/台灣教師與AI教學.md'
 sourceCommitSha: 'd95fa9648'
 sourceContentHash: 'sha256:6a85130bd9bb91b0'
 sourceBodyHash: 'sha256:01e8abe40e264468'
 translatedAt: '2026-07-23T23:06:50+08:00'
+image: '/article-images/technology/taiwan-students-digital-learning-2019.webp'
+imageCredit: '褒忠國中 雲端網 / Wikimedia Commons'
 ---
 
 # 교실에 들어선 AI: 300개의 대리인, 훈련 후 고립된 교사를 받치다

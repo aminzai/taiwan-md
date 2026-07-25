@@ -1,13 +1,13 @@
 ---
 title: '루옌쉰: 윔블던 8강에서 5회 올림픽까지, 대만 테니스의 최장거리 행진'
 description: '2010년 윔블던에서 루옌쉰은 7번 시드 앤디 로딕을 꺾고 대만 남자 선수로는 처음으로 그랜드슬램 8강에 진출했다. 2004년 아테네부터 2021년 도쿄까지 5회 올림픽에 연속 출전하여 대만 현대 테니스 역사상 가장 멀리 간 선수가 되었다. 은퇴 후 테니스 아카데미를 설립하여, 자신의 윔블던 기록을 뛰어넘을 대만 소년이 나타나기를 기다리고 있다.'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
 tags: ['스포츠', '테니스', '올림픽', '윔블던', '프로테니스']
 readingTime: 7
-lastVerified: '2026-05-07'
+lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/盧彥勳.md'

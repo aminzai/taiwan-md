@@ -5,13 +5,16 @@ date: 2026-03-31
 tags: ['마카이', '단수이', '대만 역사', '의료', '교육', '자연과학']
 subcategory: '역사 인물'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 translatedFrom: 'People/馬偕.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b7d6932f284b6cf0'
 sourceBodyHash: 'sha256:d3315bfee0561cb1'
 translatedAt: '2026-05-13T01:08:20Z'
+featured: false
+lastVerified: 2026-03-31
+lastHumanReview: true
 ---
 
 > **30초 요약:**

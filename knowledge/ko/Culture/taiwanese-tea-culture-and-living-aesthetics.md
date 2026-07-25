@@ -5,16 +5,18 @@ date: 2026-03-24
 tags: ['차 문화', '동정오룡', '고산차', '버블티', '진주밀크티', '농업 문화']
 subcategory: '공예와 미학'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
-readingTime: 12
+author: 'Taiwan.md'
+readingTime: 20
 featured: true
-lastVerified: 2026-03-24
+lastVerified: 2026-07-12
 translatedFrom: 'Culture/台灣茶文化.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:218a1627dd56bfb5'
 sourceBodyHash: 'sha256:ca6d9cb8b6ed52e7'
 translatedAt: '2026-05-17T06:30:00Z'
 image: '/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp'
+lastHumanReview: false
+difficulty: 'intermediate'
 ---
 
 # 황금시대의 여운: 대만 차 문화의 변천과 공예

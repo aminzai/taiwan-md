@@ -15,6 +15,7 @@ sourceCommitSha: f712b7242
 sourceContentHash: sha256:23a33f282c63dd9f
 sourceBodyHash: sha256:b2520a23c500cf3f
 translatedAt: 2026-05-17T05:34:52+08:00
+difficulty: 'beginner'
 ---
 
 # 대만의 혼상제희와 인생예속
@@ -436,7 +437,11 @@ translatedAt: 2026-05-17T05:34:52+08:00
 ---
 
 [^1]: 타이난시 문화국, 〈스서륙세 성인식〉, https://culture.tainan.gov.tw/ (매년 음력 칠월 칠일, 타이난 개궁궐을 중심으로 개최)
+
 [^2]: 문화부 문화재국, 〈민속 활동: 약혼 습속〉, https://www.boch.gov.tw/
+
 [^3]: 행정원 농업부, 〈반자오 문화와 농촌 식문화 계승〉, https://www.moa.gov.tw/; 참고: 린밍덕(林明德), 《대만 속문학 논문집》(대만 학술 관련 출판)
+
 [^4]: 내정부 장례 정보망, https://mort.moi.gov.tw/ (장례 관리 조례 및 각 시·현 서비스 정보 포함)
+
 [^5]: 문화부, 《대만 전통 예속 매뉴얼》, 2019년판, https://www.moc.gov.tw/; 참고: 내정부 민정사 예속 관련 자료, https://www.moi.gov.tw/

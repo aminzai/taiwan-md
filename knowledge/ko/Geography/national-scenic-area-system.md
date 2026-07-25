@@ -5,7 +5,7 @@ date: 2026-03-23
 tags: ['국가풍경구', '관광정책', '환경보전', '지속가능관광', '국토계획']
 subcategory: '생태지리'
 category: 'Geography'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
 translatedFrom: 'Geography/台灣國家風景區系統.md'
@@ -13,6 +13,9 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9369d7f73b449799'
 sourceBodyHash: 'sha256:efc3d350be263a65'
 translatedAt: '2026-04-14T19:29:12+08:00'
+lastVerified: 2026-03-23
+lastHumanReview: false
+difficulty: 'intermediate'
 ---
 
 # 대만 국가풍경구 시스템

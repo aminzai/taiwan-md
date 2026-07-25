@@ -5,7 +5,7 @@ date: 2026-03-21
 tags: [인물, 주쭝칭, 음악가, 타악기, 교육, 공연예술]
 subcategory: '예술과 디자인'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'People/朱宗慶.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0eba5bba0f89e085'
 sourceBodyHash: 'sha256:7f55711687ee2aed'
 translatedAt: '2026-04-14T19:24:22+08:00'
+lastVerified: 2026-03-21
+lastHumanReview: true
 ---
 
 # 주쭝칭 (朱宗慶)

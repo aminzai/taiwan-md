@@ -1,15 +1,15 @@
 ---
 title: '모단사 사건: 석문 협곡에서의 문명 충돌과 주권 각성'
 description: '1874년, 해상 재난으로 촉발된 군사 행동은 타이완 남단의 석문 협곡을 근대 동아시아 질서의 중심지로 만들었다. 이는 일본 제국의 팽창 시험대였을 뿐만 아니라, 청조(淸朝)가 변방 방어에서 적극적 통치로 운명을 전환하는 결정적인 계기가 되었다.'
-date: '2026-07-17'
+date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: 'Colonialism and Empire'
 tags: ['모단사 사건', '타이완 역사', '청일 관계', '국제법', '원주민']
-readingTime: '12'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/牡丹社事件.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:91f467d8cc029b74'

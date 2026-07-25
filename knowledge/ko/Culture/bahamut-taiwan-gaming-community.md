@@ -6,7 +6,7 @@ tags:
   ['ACG', '게임', '애니메이션', '커뮤니티', '대만 인터넷', '서브컬처', '포럼']
 subcategory: '인터넷과 디지털 문화'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 8
 lastVerified: 2026-04-05
@@ -15,6 +15,7 @@ sourceCommitSha: 'f5975a22'
 sourceContentHash: 'sha256:6af04295a71690eb'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
 translatedAt: '2026-04-14T07:55:26+08:00'
+lastHumanReview: false
 ---
 
 # 바하무트

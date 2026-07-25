@@ -13,12 +13,12 @@ tags:
     '담자면',
   ]
 subcategory: '주식과 면 요리'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Editorial Team'
 readingTime: 15
 category: 'Food'
 featured: true
 lastVerified: 2026-03-24
-lastHumanReview: false
+lastHumanReview: true
 translatedFrom: 'Food/台灣麵食文化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7aeb090ae7f880d7'
@@ -26,6 +26,7 @@ sourceBodyHash: 'sha256:07d9c3b482846ce9'
 translatedAt: '2026-04-14T04:09:26+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg/960px-Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'intermediate'
 ---
 
 # 타이완 면 음식 문화: 미국 원조 밀가루에서 국민 음식까지의 70년 서사시

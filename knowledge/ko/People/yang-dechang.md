@@ -10,9 +10,9 @@ tags:
   - '칸느 영화제'
   - '도시 영화'
 subcategory: '電影與戲劇'
-author: 'Taiwan.md Contributors'
+author: 'Taiwan.md'
 featured: true
-lastVerified: 2026-03-19
+lastVerified: 2026-07-05
 lastHumanReview: false
 translatedFrom: 'People/楊德昌.md'
 sourceCommitSha: 'fa062cc1'

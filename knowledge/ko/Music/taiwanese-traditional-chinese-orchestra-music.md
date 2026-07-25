@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: '전통음악'
 category: 'Music'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: false
 lastVerified: 2026-04-03

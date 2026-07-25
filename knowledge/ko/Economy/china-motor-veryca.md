@@ -1,13 +1,13 @@
 ---
 title: '중화 Veryca: 대만 경제를 떠받친 파차이처'
 description: '1988년 자체 개발한 「Varica」에서 20년 동안 경상용차 시장을 제패한 「Veryca」까지, 중화자동차는 어떻게 일본 Minicab을 현지화하여 대만 골목과 거리에서 가장 익숙한 경제적 버팀목으로 변화시켰는가?'
-date: '2026-06-01'
+date: 2026-06-01
 author: 'Taiwan.md Contributors'
 category: 'Economy'
 subcategory: '企業列傳'
 tags: ['중화자동차', '상용차', '대만 경제', '자동차 산업', '파차이처']
 readingTime: 6
-lastVerified: '2026-06-01'
+lastVerified: 2026-06-01
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/中華菱利.md'

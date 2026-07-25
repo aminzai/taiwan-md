@@ -5,7 +5,7 @@ date: 2026-03-23
 tags: ['전연령통합', '무장벽여행', '초고령사회', '가족문화', '사회적회복력']
 subcategory: '무장벽과 통합'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'alstontsai0816'
 readingTime: 12
 featured: false
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8a4d3295bf443494'
 sourceBodyHash: 'sha256:be2327c5c3e0748e'
 translatedAt: '2026-04-14T05:40:02+08:00'
+lastHumanReview: false
 ---
 
 > **30초 요약:**

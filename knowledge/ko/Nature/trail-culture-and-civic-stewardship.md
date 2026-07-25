@@ -6,13 +6,15 @@ tags: ['자연', '등산로', '시민과학', '생태보전']
 subcategory: '국립공원과 등산로'
 category: 'Nature'
 readingTime: 8
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 translatedFrom: 'Nature/台灣步道文化與公民守護.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:6a877621bb6ceb6f'
 sourceBodyHash: 'sha256:855af6d5f189b0bd'
 translatedAt: '2026-05-17T05:33:00Z'
+lastVerified: 2026-03-19
+lastHumanReview: false
 ---
 
 # 대만의 등산로 문화와 시민 보호 운동
@@ -156,7 +158,11 @@ GPS 추적 시스템은 등산로 이용 현황을 정확히 모니터링하여 
 ## 참고 자료
 
 [^1]: [천리 등산로 협회 연혁 - iTrail](https://itrail.tw/aboutus/important-events) — 천리 등산로 운동의 2006년 4월 23일 발의, 협회 법인 2011년 6월 8일 설립 확인.
+
 [^2]: [천리 등산로 협회 공식 홈페이지](https://www.tmitrail.org.tw/) — 협회 취지, 이중 제로 정책, 황우슝의 등산로 보전 이념.
+
 [^3]: [iTrail 스마트 등산로 플랫폼](https://itrail.tw/) — 2024년 출시된 등산로 상태 보고 플랫폼. 첫 해에 15,000건 이상의 보고가 등록되었다.
+
 [^4]: [신베이시 단란 고도 - 신베이시 정부](https://trails.ntpc.gov.tw/) — 단란 고도 북·중·남 세 노선 소개와 복원 계획.
+
 [^5]: [천리 등산로 20년: 길 하나의 탄생 - 미소 대만](https://smiletaiwan.cw.com.tw/article/9059) — 천리 등산로 협회의 20년 추진 과정 보도.

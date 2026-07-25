@@ -5,7 +5,8 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Nature'
 subcategory: '保育與環境'
-tags: ['해양 보전', '해양 오염', '해양 폐기물', '해양 위원회', '지속 가능한 어업']
+tags:
+  ['해양 보전', '해양 오염', '해양 폐기물', '해양 위원회', '지속 가능한 어업']
 readingTime: 15
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +16,7 @@ sourceCommitSha: 1d54cbe52
 sourceContentHash: sha256:3725125046bb0302
 sourceBodyHash: sha256:c208c01efc93c70e
 translatedAt: 2026-05-20T05:08:30+08:00
+difficulty: 'intermediate'
 ---
 
 # 대만 해양 오염 관리 및 보전 과제
@@ -580,14 +582,25 @@ translatedAt: 2026-05-20T05:08:30+08:00
 ## 참고 문헌
 
 [^1]: [해양 폐기물 통계 자료 - 해양 보전망](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — 황야보호협회 2016-2023년 해변 정화 활동 자료 통계.
+
 [^2]: [대만 해양 미세플라스틱 조사 - 중앙연구원 생물다양성연구센터](https://www.oca.gov.tw/) — 대만 주변 해역 미세플라스틱 농도 조사 보고서.
+
 [^3]: [「해양 보전법」 삼독 통과 - 그린피스 대만](https://www.greenpeace.org/taiwan/update/35872/) — 「해양 보전법」 2024년 7월 12일 삼독 통과 확인.
+
 [^4]: [해양 위원회 해양 보전청](https://www.oca.gov.tw/) — 「대만 해양 보전 백서」 2024년판.
+
 [^5]: [「해양 보전법」 주요 정책 - 행정원](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — 행정원 해양 보전법 정책 설명.
+
 [^6]: [1년간의 해양 폐기물 신속 조사, 대만 해안 오염의 진실 폭로 - 내셔널 지오그래픽](https://www.natgeomedia.com/environment/article/content-8745.html) — 대만 해안 쓰레기 밀도 조사 데이터.
+
 [^7]: [해양 폐기물에 대해 반드시 알아야 할 10가지 - 청양환경컨설팅](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — 청양환경컨설팅 2020년 해저 쓰레기 밀도 조사.
+
 [^8]: [「해양 보전법」은 더 이상 미룰 수 없다 - 그린피스 대만](https://www.greenpeace.org/taiwan/update/30154/) — 민간 단체의 해양 보전 입법 추진 경위.
+
 [^9]: [해양 폐기물 이해 - 해양 세계](https://www.oceanworld.com.tw/load_page/get_education_page/4) — 해양 폐기물 유형 및 발생원 분석.
+
 [^10]: [「바다, 무슨 '플라스틱'이야 ── 대만 해안 쓰레기 총점검」- 그린피스](https://www.greenpeace.org/taiwan/update/15198/) — 대만 해안 쓰레기 종류 및 분포 조사.
+
 [^11]: [소류구 바다거북 보전 성과 - 대만 라오구위 협회](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — 소류구 바다거북 보전 모델 및 성과.
+
 [^12]: [2024년 역사상 최초 전국 대규모 산호 백화 - 우리의 섬](https://ourisland.pts.org.tw/content/7392) — 2020년 대만 산호 백화 조사 보고서.

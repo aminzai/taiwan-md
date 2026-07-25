@@ -19,7 +19,7 @@ tags:
   - '쥐쓰 미디어 그룹'
   - '미디어 리터러시'
 subcategory: '디자인과 미디어'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
 lastHumanReview: false

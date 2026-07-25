@@ -5,7 +5,7 @@ date: 2026-03-22
 tags: [경제, 기업, 대립광전, 광학 산업, 정밀 제조, 애플 공급망, 아키텍처 혁신]
 subcategory: '기업 열전'
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 15
 translatedFrom: 'Economy/台灣企業：大立光電.md'
 lastVerified: 2026-03-22
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:74469a54ad5b9ae3'
 sourceBodyHash: 'sha256:4ac8e9cdef3a165c'
 translatedAt: '2026-04-14T08:48:46+08:00'
+featured: false
+lastHumanReview: false
 ---
 
 # 대립광전(大立光電): 장인 정신이 아키텍처 혁명을 만났을 때

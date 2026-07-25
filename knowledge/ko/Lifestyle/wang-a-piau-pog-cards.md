@@ -1,7 +1,7 @@
 ---
 title: '왕자표: 선거 전단지에서 어린 시절 전쟁터까지, 타이완 기억의 전투 카드'
 description: '1950년대, 타이완 학童들이 손에 쥔 원형 카드에는 천막극·만화 인물이 인쇄되어 있었으며, 교정 안에서 치열한 대결을 펼쳤다. 일본의 "면자" 게임에서 영감을 얻고, 플라스틱 산업의 번영으로 소재가 변천하면서, 왕자표는 세대를 초월한 집단 기억을 담고, 타이완 사회·문화의 변화를 반영한다.'
-date: '2026-04-27'
+date: 2026-04-27
 category: 'Lifestyle'
 subcategory: '休閒與娛樂'
 tags:
@@ -13,9 +13,9 @@ tags:
   - '선거'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: '2026-04-27'
+lastVerified: 2026-04-27
 lastHumanReview: false
-readingTime: '10'
+readingTime: 10
 translatedFrom: 'Lifestyle/尪仔標.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:20a6968836a636ac'

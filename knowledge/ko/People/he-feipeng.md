@@ -5,7 +5,7 @@ date: 2026-03-26
 tags: ['시티 퍼블리셔', '출판업', '디지털 전환', '자만(自慢)']
 subcategory: '디지털·미디어'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 7
 featured: false
 translatedFrom: 'People/何飛鵬.md'
@@ -13,6 +13,8 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:c6c5b08befa8584a'
 sourceBodyHash: 'sha256:65be42b8cac6c9ca'
 translatedAt: '2026-05-16T22:20:00Z'
+lastVerified: 2026-03-26
+lastHumanReview: false
 ---
 
 > **30초 요약:** 1987년 허페이펑은 《비즈니스위클리(商業周刊)》를 창간했지만 첫 7년 동안 해마다 수천만 타이완 달러의 적자를 냈다. 오늘날 그가 세운 시티 퍼블리셔 그룹(城邦媒體集團)은 대만 최대 출판 왕국일 뿐 아니라, 디지털 전환의 파도 속에서 살아남은 몇 안 되는 레거시 미디어 중 하나다. 그의 이야기는 대만 인쇄 미디어가 디지털 충격을 버텨낸 생존기 그 자체다.

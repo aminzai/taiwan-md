@@ -5,15 +5,16 @@ date: 2026-04-18
 tags: ['님피아', '드래그퀸', 'LGBTQ+', '성평등', '대만문화', '루폴드래그레이스']
 category: 'People'
 subcategory: '文化生活'
-author: 'Taiwan.md'
+author: 'idlccp1984'
 readingTime: 10
-lastVerified: 2026-05-02
+lastVerified: 2026-04-18
 lastHumanReview: false
 translatedFrom: 'People/妮妃雅.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
 translatedAt: '2026-05-02T09:00:00+08:00'
+featured: false
 ---
 
 > **30초 개요:** 2024년, 대만의 드래그 퀸 님피아 윈드(Nymphia Wind)가 전 세계가 주목하는 《루폴 드래그 레이스》 우승을 차지하며 이 영예를 얻은 첫 대만인이 되었습니다. 그녀의 성공은 대만 드래그 예술을 국제 무대로 끌어올렸을 뿐 아니라, '성평등 교육의 날'과 우연히 겹치면서 대만의 다양성과 포용 정신을 세계에 보여주었습니다. 지하 파티에서 총통부까지, 님피아의 이야기는 대만 성소수자 집단의 약 30년에 걸친 자기 권한 부여 역사의 한 단면입니다. 그녀는 '바나나'를 기호로 삼아 개인의 생애 경험과 대만 문화를 깊이 결합하여, 대만의 존재와 자신감을 세계에 큰 소리로 선언했습니다.

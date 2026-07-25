@@ -5,7 +5,7 @@ date: 2026-04-29
 tags: ['종교의 자유', '인권', '양안 관계', '파룬궁']
 category: 'Society'
 subcategory: '종교와 신앙'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false

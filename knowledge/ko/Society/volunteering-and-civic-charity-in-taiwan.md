@@ -5,7 +5,7 @@ date: 2026-03-28
 tags: ['자원봉사', '공익단체', '자제', 'NPO', '지역사회 만들기', '이야기 엄마']
 subcategory: '지역사회와 일상'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: false
 translatedFrom: 'Society/台灣志工文化與公益參與.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:47c6a7bb7a1ac1e1'
 sourceBodyHash: 'sha256:edcd412e8178b727'
 translatedAt: '2026-05-25T21:07:07Z'
+lastHumanReview: true
 ---
 
 > **30초 개요:** 대만에는 등록된 자원봉사자가 110만 명 이상이며, 매년 1억 2천만 시간 이상의 무보수 봉사를 제공한다. 화롄 정사에서 30명의 주부가 매일 5마오(角)씩 저축하며 시작한 자제(慈濟)는 이제 전 세계 128개국에 지부를 두고 있고, 전국에 9,000개 가까운 환경 재활용 거점, 학교의 이야기 엄마들, 지역사회의 노인 도시락 배달대까지 — 자원봉사는 대만의 '미덕'이 아니라 대만의 '기반 시설'이다.

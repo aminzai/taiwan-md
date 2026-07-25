@@ -1,7 +1,7 @@
 ---
 title: '호봉: 산골마을을 구한 렌즈가 유기묘 양식장을 키웠고, TNVR이 수습한 것은 관광이 마무리하지 못한 선의였다'
 description: '2009년 사진작가 젠페이링(캣 레이디)이 신베이 핑시선(平溪線) 구간에 위치한 1990년 루이산(瑞三) 광업 폐광 후 19년간 잊혀진 산골마을에 발을 들였다. 그녀의 렌즈는 호봉을 2013년 CNN이 선정한 세계 6대 고양이 명소로 만들었다. 그러나 "고천국(고천당)"이라는 이름은 대만 최대 유기묘 양식장을 낳았다 — 2012년 고양이 전염병 발생, 2013년 최소 10건의 학대 사건, 2022년 유기묘 사건 벌금 11만 신달러. 2014년 캣 레이디는 물러나며 "고양이를, 나를, 호봉을 끊임없이 소비한다"는 말을 남겼다. 2026년 1월 TNVR은 200-300마리를 30여 마리로 줄였고, 미러 위클리는 "촌락 소멸" 프레임으로 보도했다. 그러나 사라진 것은 고양이 마을이 아니라 "단일 인플루언서 IP로 지탱한 지역 창생 모델"이었다.'
-date: '2026-05-27'
+date: 2026-05-27
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 tags:
@@ -16,10 +16,10 @@ tags:
     '인플루언소 패러독스',
   ]
 subcategory: '城市與人文地理'
-readingTime: '17'
-lastVerified: '2026-05-27'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 17
+lastVerified: 2026-05-27
+lastHumanReview: false
+featured: false
 translatedFrom: 'Geography/猴硐.md'
 sourceCommitSha: '11b9ab5c'
 sourceContentHash: 'sha256:da37ca4aa7f65da7'

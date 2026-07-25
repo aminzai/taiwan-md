@@ -21,7 +21,7 @@ tags:
   - '평안희'
   - '여성문학'
 subcategory: '문학과 시인 / 하카 문화인'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 canonical-order: 120
 lastVerified: 2026-07-12
@@ -118,7 +118,7 @@ _신푸의 우줘류 고택 — 같은 고향 선배 작가의 네트워크가 �
 이것이 〈지인(紙人)〉의 신앙의 어휘와 나란히 놓이면 유난히 찌른다. 종이 인형은 가을바람이 불면 흔들린다. 그녀는 "내 몸은 그릇, 내 마음은 신전"이라 쓰고, 종이 인형으로 가득 찬 세계 속에서 "진짜 사람"을 찾으려 한다.[^11] 기독교인 여성 시인이 민간의 축제를 해체하는 것은 문화 전쟁의 화제를 만들기 위해서가 아니다. **누가 기꺼이 감내하기를 요구받고, 누가 연극을 볼 자격을 지니는가**를 묻기 위해서다.
 
 ![먀오리현 퉁뤄 일대의 하카 전통 합원(合院) 건축. 하카어 시의 물질적인 세계는 단순한 "향토의 기호"가 아니라, 마을과 제사와 극장과 일상의 구어가 함께 키운 생활의 장이다.](/article-images/people/dupan-hakka-compound-tongluo.webp)
-_하카의 전통 합원(먀오리현 퉁뤄) — 〈평안희〉와 〈중원절〉의 민속적인 장면을 이해하려면, 먼저 극장과 공청(公廳)을 관광의 기호에서 생활의 윤리의 장으로 되돌려야 한다. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg)._
+_하카의 전통 합원(먀오리현 퉁뤄) — 〈평안희〉와 〈중원절〉의 민속적인 장면을 이해하려면, 먼저 극장과 공청(公廳)을 관광의 기호에서 생활의 윤리의 장으로 되돌려야 한다. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg).\_
 
 ## 계엄 해제 뒤에야, 모어는 "집에서 말하는 것"에서 "종이에 쓰는 것"이 되었다
 

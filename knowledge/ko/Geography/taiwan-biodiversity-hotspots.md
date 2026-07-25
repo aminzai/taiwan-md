@@ -5,7 +5,7 @@ date: 2026-03-21
 tags: ['생태', '생물다양성', '고유종', '보전', '국립공원']
 subcategory: '생태 지리'
 category: 'Geography'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
@@ -13,6 +13,9 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
 translatedAt: '2026-04-14T19:23:57+08:00'
+lastVerified: 2026-03-21
+lastHumanReview: true
+difficulty: 'beginner'
 ---
 
 # 대만의 생태 다양성 핫스팟

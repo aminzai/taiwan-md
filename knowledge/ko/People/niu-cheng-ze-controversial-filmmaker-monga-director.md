@@ -5,7 +5,7 @@ date: 2026-03-19
 tags: ['뉴청쩌', '감독', '배우', '맹갑', '논란']
 subcategory: '영화와 드라마'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: false
 translatedFrom: 'People/鈕承澤.md'
@@ -13,6 +13,8 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:03252333a42bc60e'
 sourceBodyHash: 'sha256:decf157a216cec86'
 translatedAt: '2026-05-17T06:30:00Z'
+lastVerified: 2026-03-19
+lastHumanReview: false
 ---
 
 # 뉴청쩌 (鈕承澤): 재능과 논란이 공존한 영화인
@@ -144,8 +146,13 @@ translatedAt: '2026-05-17T06:30:00Z'
 ## 참고자료
 
 [^1]: 위촨미디어(芋傳媒) 〈뉴청쩌 성폭력 사건 최고법원 판결 확정 징역 4년〉, https://taronews.tw/, 2021년 9월
+
 [^2]: 사법원 법학자료검색시스템, 뉴청쩌 성폭력 사건 판결문, https://judgment.judicial.gov.tw/
+
 [^3]: 중앙통신사(中央社) 〈뉴청쩌 성폭력 혐의 타이베이 지방법원 1심 유죄 4년〉, https://www.cna.com.tw/, 2020년 4월
+
 [^4]: 문화부 대만 영상 산업 성평등 정책, https://www.moc.gov.tw/
+
 [^5]: 부녀신지기금회, MeToo 운동과 대만 사회 캠페인 자료, https://www.awakening.org.tw/
+
 [^6]: 위키백과 ‘鈕承澤’ 항목, https://zh.wikipedia.org/zh-tw/%E9%88%95%E6%89%BF%E6%BE%A4

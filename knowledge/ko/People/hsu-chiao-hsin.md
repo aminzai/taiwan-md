@@ -16,6 +16,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8f69e3146e67bf4f'
 sourceBodyHash: 'sha256:c36ec4a8304568ae'
 translatedAt: '2026-05-03T23:14:06+08:00'
+difficulty: 'intermediate'
 ---
 
 # 서교신: 아침식사 집 딸에서 「8000억 군사 구매」 의원이 되기까지, 유행을 타는 젊은 세대

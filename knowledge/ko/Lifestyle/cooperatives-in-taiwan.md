@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0fc2fc46b99c9535'
 sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
 translatedAt: 2026-05-01T22:19:01+08:00
+featured: false
 ---
 
 # 학교 앞 사라진 민주 실험과 고기빵 향기: 소비자협동조합

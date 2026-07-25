@@ -1,7 +1,7 @@
 ---
 title: '채워진 항구 위를 걷다: 타이난 중서구의 다섯 가지 길거리 음식'
 description: '국화가와 해안로 아래에는 청대 오조항의 하천 유적이 있다; 소고기국, 실목어 죽, 뱀장어 이면, 돼지심 겨울국수, 각각의 길거리 음식은 시간·위치·재료가 400년 항구 노동자의 생존 논리를 남긴 화석이다.'
-date: '2026-06-30'
+date: 2026-06-30
 category: 'Food'
 tags:
   - '타이난'
@@ -14,9 +14,9 @@ tags:
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: '2026-06-30'
+lastVerified: 2026-06-30
 lastHumanReview: false
-readingTime: '8'
+readingTime: 8
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:ba0e98c9d772c0f4'

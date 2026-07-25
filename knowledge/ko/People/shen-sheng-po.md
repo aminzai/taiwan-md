@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: '예술 및 디자인'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 translatedFrom: 'People/沈聖博.md'
@@ -21,6 +21,8 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
 translatedAt: '2026-05-16T22:20:00Z'
+lastVerified: 2026-03-23
+lastHumanReview: false
 ---
 
 # 선성보 (Shen Sheng-bo)

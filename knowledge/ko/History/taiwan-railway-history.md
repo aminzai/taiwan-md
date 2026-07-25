@@ -1,7 +1,7 @@
 ---
 title: '대만 철도사: 폐병철도, 검은 머리 기관차, 그리고 외국 이름을 잃어버린 계보'
 description: '일본인이 「폐병철도」라고 욕하던 엉망진창의 길은 어떻게 백여 년 사이 매일 20만 명을 실어 나르는 고속 동맥이 되었는가. 류밍촨이 초빙한 독일·영국 기술자들은 훗날 일본인에 의해 처음부터 다시 갈아엎어졌고, 하세가와 긴스케의 종관선은 전후 대만철도에 의해 이름과 번호가 바뀌었다. 세대마다 앞선 세대의 기록을 주석으로 밀어냈다. 외국 이름들은 줄곧 벗겨져 나갔고, 남은 것은 대만어의 「오타우아」「화차아」, 쥐광·쯔창·푸싱이라는 정치 구호뿐이었다. 마침내 푸유마·타로코 세대에 이르러서야 원주민 지명이 다시 철로 위에 깔렸다.'
-date: '2026-03-24'
+date: 2026-03-24
 author: 'Taiwan.md'
 category: 'History'
 subcategory: '社會與日常史'
@@ -18,7 +18,7 @@ tags:
     '외국인 기술자',
   ]
 readingTime: 16
-lastVerified: '2026-05-11'
+lastVerified: 2026-05-11
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/台灣鐵道史.md'
@@ -30,6 +30,7 @@ image: '/article-images/history/tra-taitung-line-fireman-1970s.webp'
 imageCredit: '周永富（提供者）'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg'
+difficulty: 'beginner'
 ---
 
 # 대만 철도사

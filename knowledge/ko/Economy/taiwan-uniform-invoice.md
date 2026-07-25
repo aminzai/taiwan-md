@@ -12,10 +12,10 @@ tags:
     사회복지,
     디지털거버넌스,
   ]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-05-01
-readingTime: 16
-lastVerified: 2026-05-02
+readingTime: 14
+lastVerified: 2026-07-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/發票.md'

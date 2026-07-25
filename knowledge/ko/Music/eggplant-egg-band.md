@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: '팝 음악'
 category: 'Music'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false
 translatedFrom: 'Music/茄子蛋.md'
@@ -21,6 +21,8 @@ sourceCommitSha: 'ce7f10f8'
 sourceContentHash: 'sha256:1be7230ba8a26470'
 sourceBodyHash: 'sha256:448d367a49551ee8'
 translatedAt: '2026-05-09T14:31:08Z'
+lastVerified: 2026-04-05
+lastHumanReview: false
 ---
 
 # 가지달걀 EggPlantEgg

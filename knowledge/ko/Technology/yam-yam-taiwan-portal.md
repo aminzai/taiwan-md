@@ -14,10 +14,10 @@ tags:
     '타이완 인터넷사',
     '천정란',
   ]
-readingTime: '10'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 10
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/蕃薯藤.md'
 sourceCommitSha: '781e16434'
 sourceContentHash: 'sha256:a165c276f6d4407a'

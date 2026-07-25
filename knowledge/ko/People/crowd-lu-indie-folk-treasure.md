@@ -19,7 +19,7 @@ tags:
   ]
 category: 'People'
 subcategory: '음악과 공연'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 12
 translatedFrom: 'People/盧廣仲.md'
@@ -27,6 +27,8 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'
 translatedAt: '2026-05-16T22:20:00Z'
+lastVerified: 2026-04-07
+lastHumanReview: true
 ---
 
 > **30초 요약:** 루관중(盧廣仲), 1985년 타이난 런더(仁德) 출생. 대학 1학년 때 야식을 사러 가다 버스에 다리가 치여 독학으로 기타를 배웠다. 2008년 데뷔, 2009년 금곡상 최우수 신인상 수상 후 8년의 공백기. 2017년 《꽃반짝 남자 어른이 되다(花甲男孩轉大人)》에서 7분 원테이크 제문(祭文) 장면으로 업계를 충격에 빠뜨리며 금종상 2관왕을 차지했다. 2020년 〈네 이름을 새겼어(刻在我心底的名字)〉로 금마상 최우수 영화음악상 수상—35세에 대만 역사상 최연소 삼관왕이 됐다. 2026년 콘서트 티켓은 1분 만에 매진됐고, 암표 가격은 최고 6만 타이완달러에 달했다.

@@ -1,7 +1,7 @@
 ---
 title: "'쩡보언: 웃음의 지점은 계산했지만, 사회는 계산하지 못했다'"
 description: '1990년생 쩡보언은 젠궈중학 책걸상 위의 이어폰에서 출발해, 국립대만대학교 외국어문학·심리학 복수전공, 런던대학교 뇌와 마음 과학, 파리 제6대학교 통합생물학 석사 과정을 거쳐 박사과정 지원을 앞두고 스탠드업 코미디로 방향을 틀었다. 그는 셰정하오와 사타이어 엔터테인먼트를 공동 창업해, 대만 토크쇼를 코미디 클럽 카미디의 Open Mic에서 1만 3천 명 규모의 타이베이 아레나까지 밀어 올렸다. 동시에 신경과학자다운 정밀함으로 정난룽 농담, 배달원 영상, 오락세 소송에 담긴 사회적 감정의 무게를 잘못 계산했다.'
-date: '2026-05-13'
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '數位與媒體'
@@ -15,8 +15,8 @@ tags:
     '표현의 자유',
     '오락세',
   ]
-readingTime: '22'
-lastVerified: '2026-05-13'
+readingTime: 22
+lastVerified: 2026-05-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/曾博恩.md'

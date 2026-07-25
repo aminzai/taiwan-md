@@ -5,7 +5,7 @@ date: 2026-03-21
 tags: ['인물', '리위안저', '노벨상', '화학', '과학자', '중앙연구원', '대만']
 category: 'People'
 subcategory: '과학과 학술'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: true
 translatedFrom: 'People/李遠哲.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c7cb9c37ad53a48c'
 sourceBodyHash: 'sha256:d9744718376b888a'
 translatedAt: '2026-04-14T19:24:35+08:00'
+lastVerified: 2026-03-21
+lastHumanReview: true
 ---
 
 # 리위안저

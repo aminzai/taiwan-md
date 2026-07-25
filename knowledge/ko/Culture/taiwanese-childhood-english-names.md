@@ -1,7 +1,7 @@
 ---
 title: '타이완인의 어린 시절 영어 이름: Mary, Kevin과 보습학원 교사의 명명권'
 description: '보습학원에서 책장을 넘기던 순간부터 여권 로마자 표기, 스타벅스 카운터까지, 그 이름은 한 번도 당신이 고른 것이 아니었다. 1983년 Hess, 1987년 Sesame Street English의 "NO CHINESE, ENGLISH PLEASE"에서 2024년 입법원의 법 개정으로 단독 부족명 표기가 허용되기까지의 명명사를 따라가며, 문제를 다시 그 30초의 정지로 돌려놓는다.'
-date: '2026-06-17'
+date: 2026-06-17
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '語言與命名'
@@ -17,7 +17,7 @@ tags:
     '창씨개명',
   ]
 readingTime: 18
-lastVerified: '2026-06-17'
+lastVerified: 2026-06-17
 lastHumanReview: false
 featured: true
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
@@ -25,6 +25,7 @@ sourceCommitSha: 'cfce444ae'
 sourceContentHash: 'sha256:5ec68902a1c50e0d'
 sourceBodyHash: 'sha256:efeadcec0add04bc'
 translatedAt: '2026-06-18T00:36:09+08:00'
+difficulty: 'intermediate'
 ---
 
 # 타이완인의 어린 시절 영어 이름: Mary, Kevin과 보습학원 교사의 명명권

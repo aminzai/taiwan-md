@@ -5,7 +5,7 @@ date: 2026-03-20
 tags: [원주민족, 토지정의, 전통영역, 전환적정의, 원전회, 토지권리]
 subcategory: '인권과 평등'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
 translatedFrom: 'Society/台灣原住民族土地正義與傳統領域.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '1e674def'
 sourceContentHash: 'sha256:28b04fa76413100e'
 sourceBodyHash: 'sha256:4f732aefea1fd604'
 translatedAt: '2026-04-14T05:40:02+08:00'
+lastHumanReview: false
 ---
 
 # 대만 원주민족의 토지 정의와 전통 영역

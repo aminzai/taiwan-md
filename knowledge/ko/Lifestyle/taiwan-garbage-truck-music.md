@@ -5,7 +5,7 @@ date: 2026-03-24
 tags: ['쓰레기차', '도시 사운드스케이프', '환경 정책', '대만 일상', '문화 상징']
 subcategory: '도시 생활'
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 7
 featured: false
 lastVerified: 2026-03-24
@@ -14,6 +14,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:e97d739884de9be4'
 sourceBodyHash: 'sha256:2afb135f1c4dd795'
 translatedAt: '2026-05-16T22:20:00Z'
+lastHumanReview: false
 ---
 
 # 고전음악이 쓰레기차 CM송이 된 날: 대만의 가장 낭만적인 환경 혁명

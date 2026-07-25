@@ -16,10 +16,10 @@ tags:
     'DEPART',
   ]
 subcategory: '當代音樂人'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 date: 2026-04-28
 readingTime: 22
-lastVerified: 2026-05-02
+lastVerified: 2026-04-28
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/蔡健雅.md'

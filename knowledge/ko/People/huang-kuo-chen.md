@@ -6,7 +6,7 @@ tags:
   ['교육', '독해 리터러시', '핀쉐탕', '독해력', '교육 혁신', '리터러시 교육']
 subcategory: '교육과 사회'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 5
 featured: false
 translatedFrom: 'People/黃國珍.md'
@@ -14,6 +14,8 @@ sourceCommitSha: 'df2e7558'
 sourceContentHash: 'sha256:4ca80675bb1a1122'
 sourceBodyHash: 'sha256:2b34fd0038a36214'
 translatedAt: '2026-04-15T17:32:22+08:00'
+lastVerified: 2026-03-20
+lastHumanReview: false
 ---
 
 # 황궈전: 타이완 아이들에게 "다 읽기"가 아닌 "제대로 읽기"를 가르치다

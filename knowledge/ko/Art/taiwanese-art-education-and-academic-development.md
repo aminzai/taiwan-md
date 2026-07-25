@@ -1,13 +1,13 @@
 ---
 title: '대만 예술교육과 대학 제도의 발전'
 description: '사범계 체제에서 전문 예술대학에 이르기까지, 대만 예술교육의 제도 변혁과 인재 양성'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Art'
 subcategory: '策展與教育'
 tags: ['예술교육', '미술학과', '예술대학', '교원 양성', '대학 제도 발전']
 readingTime: 11
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/台灣藝術教育與學院發展.md'
@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:352ce3febb583c17'
 sourceBodyHash: 'sha256:aaeb81e5f1416586'
 translatedAt: '2026-05-17T05:34:52+08:00'
+difficulty: 'intermediate'
 ---
 
 # 대만 예술교육과 대학 제도의 발전
@@ -483,7 +484,11 @@ AI 생성 도구의 보급은 예술교육에 이중의 충격을 주고 있다.
 ## 참고자료
 
 [^1]: [국립 타이베이 예술대학](https://w3.tnua.edu.tw/) — 공식 웹사이트 및 학교사 자료
+
 [^2]: [국립 타이난 예술대학](https://www.tnnua.edu.tw/) — 학교사 문헌과 운영 연혁
+
 [^3]: [국립 대만예술대학](https://www.ntua.edu.tw/) — 역사 연혁과 단과대학 소개
+
 [^4]: [국립 대만사범대학 미술학과](https://www.art.ntnu.edu.tw/) — 학과 발전사와 교육과정 정보
+
 [^7]: [대만 예술교육관](https://www.arte.gov.tw/) — 예술교육 정책 연구 자료

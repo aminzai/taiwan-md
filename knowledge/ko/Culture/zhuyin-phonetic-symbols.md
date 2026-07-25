@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:60ed5696349fd181'
 sourceBodyHash: 'sha256:220255acfc6a8977'
 translatedAt: '2026-05-20T05:08:30+08:00'
+difficulty: 'beginner'
 ---
 
 # 주음부호: 대만만의 고유한 문자 암호
@@ -130,6 +131,9 @@ translatedAt: '2026-05-20T05:08:30+08:00'
 ## 참고 자료
 
 [^1]: 중화민국 교육부, 《주음부호 교육 지침》, 2024년판, https://language.moe.gov.tw/
+
 [^2]: 위키백과, 〈주음부호〉 항목, https://zh.wikipedia.org/wiki/注音符號
+
 [^3]: 중화민국 교육부 국어추행위원회, 《주음부호 연혁》, 1978년; 교육부 어문성취망 https://language.moe.gov.tw/
+
 [^6]: 교육부 국어추행위원회, 〈주음부호 분류: 성모 21개(ㄅㄆㄇㄈ 등), 개음 3개(ㄧㄨㄩ), 운모 13개〉, https://language.moe.gov.tw/; 교육부 국어사전 참조, https://dict.revised.moe.edu.tw/

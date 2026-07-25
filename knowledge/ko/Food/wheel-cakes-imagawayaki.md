@@ -1,13 +1,13 @@
 ---
 title: '전륜병(車輪餅) : 일제강점기 「이마가와야키(今川燒)」에서 만단(萬丹) 팥으로 이어진 대만 정체성의 궤적'
 description: '2026년 일어난 「팥빵(紅豆餅) 논쟁」이 언어 정체성 갈등을 촉발했다. 에도시대에 기원을 두고 일제강점기에 전래된 고급 간식이 1960년대 핑둥(屏東) 만단에서 팥 재배에 성공한 후, 「이마가와야키」에서 대만 거리에서 가장 서민적인 동전 간식으로 거듭나기까지의 여정을 조명한다.'
-date: '2026-04-28'
+date: 2026-04-28
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '台灣小吃'
 tags: ['전륜병', '팥빵', '만단', '대만 소식', '이마가와야키', '식문화']
-readingTime: '12'
-lastVerified: '2026-04-28'
+readingTime: 12
+lastVerified: 2026-04-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/車輪餅.md'

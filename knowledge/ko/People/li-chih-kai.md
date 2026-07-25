@@ -6,7 +6,7 @@ tags:
   ['인물', '리즈카이', '체조', '올림픽', '은메달', '운동선수', '안마', '대만']
 subcategory: '스포츠'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'People/李智凱.md'
 readingTime: 10
 featured: false
@@ -14,6 +14,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
 translatedAt: '2026-04-14T19:24:28+08:00'
+lastVerified: 2026-03-21
+lastHumanReview: true
 ---
 
 # 리즈카이 (李智凱)

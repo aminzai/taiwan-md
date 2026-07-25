@@ -1,15 +1,15 @@
 ---
 title: '금마상부터 한빛연습까지: 타이완 남성의 집단적 성인식과 생존 훈련'
 description: "1945년 이후 타이완의 병역은 3년에서 4개월로 단축되었다가, 2024년에 다시 1년제로 복귀했다. 수백만 명이 관련된 이 집단 기억은 단순히 '모두 다 똑같은'이라는 구호가 아니라, 회색 지대(gray zone)에 놓인 이 섬의 생존 긴장감 그 자체이다."
-date: '2026-07-17'
+date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '사회제도'
 tags: ['병역', '국방', '의무복무', '한빛연습', '금마상']
-readingTime: '12'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'Society/當兵.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:58596add4d279eb3'

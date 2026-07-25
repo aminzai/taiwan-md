@@ -5,7 +5,7 @@ date: 2026-03-18
 tags: ['삵', '보전', '로드킬', '서식지', '먀오리', '멸종위기종', '생태']
 subcategory: '야생동물'
 category: 'Nature'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 translatedFrom: 'Nature/台灣石虎保育.md'
@@ -13,6 +13,8 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:bbca77501c197a81'
 sourceBodyHash: 'sha256:76487fd0d26564e6'
 translatedAt: '2026-05-17T05:33:00Z'
+lastVerified: 2026-03-30
+lastHumanReview: true
 ---
 
 # 대만 삵 보전
@@ -174,9 +176,13 @@ translatedAt: '2026-05-17T05:33:00Z'
 ## 참고자료
 
 [^1]: [먀오리 삵 보전 자치조례 - 환경정보센터](https://e-info.org.tw/node/221882) — 먀오리현 삵 보전 자치조례 2019년 12월 10일 3독 통과 확인.
+
 [^2]: [워워: ㅛ! 그러다 내가 육포가 됐어—로드킬 특집](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — 2017~2023년 삵 로드킬 통계.
+
 [^3]: [농업부 삵 생태 지급 방안](https://www.moa.gov.tw/) — 삵 친환경 농업 지급 계획 설명.
+
 [^4]: [농업부 생물다양성연구소(생다소)](https://www.tbri.gov.tw/) — 삵 인공번식 계획 및 보전 연구.
+
 [^5]: [워워: 멸종 이전 — 대만 삵 특집](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — 대만 삵 보전 현황 종합 보도.
 
 심화 자료:

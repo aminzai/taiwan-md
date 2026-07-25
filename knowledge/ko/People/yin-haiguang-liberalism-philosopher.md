@@ -14,7 +14,7 @@ tags:
     '원저우 거리',
     '중국 문화의 전망',
   ]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-05-02
 featured: false
 readingTime: 14

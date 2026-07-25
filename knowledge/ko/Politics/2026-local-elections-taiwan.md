@@ -15,8 +15,8 @@ tags:
     '인지전',
     'AI허위정보',
   ]
-readingTime: 16
-lastVerified: 2026-05-27
+readingTime: 18
+lastVerified: 2026-07-10
 lastHumanReview: false
 featured: true
 translatedFrom: Politics/2026 九合一選舉.md

@@ -1,16 +1,16 @@
 ---
 title: '천등(天燈): 1820년 평안을 알리는 신호, 2019년 326킬로그램의 산림 쓰레기, 같은 평계(平溪) 사람들이 짊어진 두 개의 정체성'
 description: '1820년대, 호(胡) 씨 가문이 십분료(十分寮)에서 평안을 알리는 첫 번째 천등을 띄웠다. 200년 후인 2019년 원절(元宵節), 미국 자원봉사자들이 2시간 동안 평계 철도 주변에서 326킬로그램의 천등 잔해를 수거했다. 벌기도 하고, 손해도 보고, 치우기도 한다 — 천등 협회 이사장은 호 씨이고, 집이 불탄 피해자도 호 씨이며, 오래된 거리 노점상 88세 채(蔡) 할머니와 기륜하(基隆河) 수호 연맹 천젠즈(陳建志)는 같은 시냇물을 마신다. 2025년 자치 조례가 삼독을 통과하고, 평계 사람들은 축제 전환의 네 번째 길을 시도하고 있다.'
-date: '2026-05-27'
+date: 2026-05-27
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '節慶與禮俗'
 tags:
   ['천등', '평계', '십분', '원절', '지속가능 관광', '무형문화유산', '축제 전환']
-readingTime: '18'
-lastVerified: '2026-05-27'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 18
+lastVerified: 2026-05-27
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/天燈.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:f8bd2efe9c0ce5ef'

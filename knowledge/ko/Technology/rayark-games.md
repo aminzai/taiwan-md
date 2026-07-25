@@ -1,7 +1,7 @@
 ---
 title: '레이아 게임즈: 미학으로 세운 음악 제국과 그 14년의 균열'
 description: '2012년 타이완대 전기정보학원 출신 젊은이 여섯 명은 3,000만 대만달러를 모아 《Cytus》를 만들었고, 한 달 만에 14개국 순위 1위에 올랐다. 14년 뒤 그들에게는 Deemo 애니메이션, 11년째 미인도 상태인 Implosion 애니메이션, 2026년 2월 유지보수 모드에 들어간 Sdorica, 2020년 ICE 모스 부호 사건 이후 중국 시장을 지키기 위해 직원을 절연한 선택이 남았다. 미학은 레이아를 세계에 보이게 했지만, 또한 그들이 음악이 아닌 모든 장에서 넘어지게 했다.'
-date: '2026-04-25'
+date: 2026-04-25
 author: 'zaious'
 category: 'Technology'
 subcategory: '社群與數位文化'
@@ -23,7 +23,7 @@ tags:
     'Mozarc',
   ]
 readingTime: 20
-lastVerified: '2026-05-26'
+lastVerified: 2026-05-26
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/雷亞遊戲.md'

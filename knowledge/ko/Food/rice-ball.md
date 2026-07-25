@@ -1,7 +1,7 @@
 ---
 title: '판퇀: 아침의 「수면제」에서 유럽과 미국에서 폭발적 인기를 얻은 「타이완식 부리토」까지'
 description: '청대의 찹쌀 음식 문화에서 장난 지방 츠판의 해협을 건넌 변용에 이르기까지, 타이완식 판퇀은 독특한 「묵은 유탸오」와 「손으로 쥐는 공법」으로 타이완 아침 식사의 영혼이 되었다. 이 글은 그 역사적 전사, 제작 공예, 현대적 창의 맛, 그리고 국제적 화제를 불러일으킨 「탄수화물 혼미 문화」를 깊이 있게 분석한다.'
-date: '2026-06-28'
+date: 2026-06-28
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '主食與米麵'
@@ -16,7 +16,7 @@ tags:
     '찹쌀 음식',
   ]
 readingTime: 15
-lastVerified: '2026-06-28'
+lastVerified: 2026-06-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/飯糰.md'

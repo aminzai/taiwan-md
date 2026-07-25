@@ -1,7 +1,7 @@
 ---
 title: '어조: 이름은 길거리 분식 같은데, 소리는 사람 패는 하드코어'
 description: '2019년 12월 31일, 어조(Fish Stick)는 해의 마지막 날에 첫 정규 앨범 《치본(Antidote)》을 발매했다. 서립(臺北市立中正高中) 동창 세 명이 2011년 말부터 2019년까지, 다섯 명에서 세 명으로 축소되고, 2016년 지구춘랑대상(地球春浪大賞) 4위, 상하이 춘랑 초청 공연을 거치며 — "교훈은 없다"고 말하면서 내지르는 모든 노래가 어떤 선언보다도 직설적이었다.'
-date: '2026-04-27'
+date: 2026-04-27
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '音樂與表演'
@@ -22,8 +22,8 @@ tags:
     '춘랑',
     '밴드',
   ]
-readingTime: '8'
-lastVerified: '2026-04-27'
+readingTime: 8
+lastVerified: 2026-04-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/魚條.md'

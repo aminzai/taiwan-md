@@ -1,7 +1,7 @@
 ---
 title: '타이완 악기 제조업: 후리 색소폰에서 글로벌 음악 공장까지'
 description: '타이완 악기 제조업의 발전 과정을 탐구한다. 후리 색소폰의 글로벌 지배적 위치부터 기타 주문생산 왕국, 그리고 오르골 제조의 정밀 공정에 이르기까지, 타이완이 어떻게 주문생산에서 자체 브랜드로 전환해 왔는지를 살펴본다.'
-date: 2026-03-19
+date: 2026-07-17
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '樂器與製造'
@@ -14,8 +14,8 @@ tags:
     '제조업',
     '타이완 공예',
   ]
-readingTime: 13
-lastVerified: 2026-03-19
+readingTime: 22
+lastVerified: 2026-07-17
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/台灣樂器製造.md'

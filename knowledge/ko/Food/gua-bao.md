@@ -1,12 +1,12 @@
 ---
 title: '과바오: 푸저우의 호교저우에서 BAO London의 미쉐린 기호까지'
 description: '1927년 신주 지역 신사 황왕청의 일기에서 「호교저우」는 웨이야 식탁 위에서 직공을 위로하던 간식이었다. 백 년 뒤, 런던 Soho Lexington Street의 줄은 같은 접힌 밀가루 음식을 기다리고 있었고, 미쉐린 가이드는 그것을 빕 구르망에 올렸다. 하얗고 통통하게 접힌 이 간식에는 타이완 400년의 푸저우 이민사, 토지공 웨이야의 노자 의례, 그리고 타이베이에서 런던으로 건너간 한 예술가가 그것을 어떻게 국제 식탁에 올렸는지가 함께 들어 있다.'
-date: '2026-05-16'
+date: 2026-05-16
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '經典小吃'
 tags: ['간식', '야시장', '웨이야', '푸저우', 'BAO London', '타이완 음식']
-lastVerified: '2026-05-16'
+lastVerified: 2026-05-16
 lastHumanReview: false
 featured: true
 translatedFrom: 'Food/刈包.md'

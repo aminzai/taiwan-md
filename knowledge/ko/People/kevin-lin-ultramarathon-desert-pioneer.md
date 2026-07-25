@@ -5,7 +5,7 @@ date: 2026-03-22
 tags: ['인물', '울트라마라톤', '극지탐험', '스포츠', '사하라사막', '대만의빛']
 subcategory: '스포츠'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 7
 featured: false
 translatedFrom: 'People/林義傑.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8741429d614846be'
 sourceBodyHash: 'sha256:3713eaac6b565ca6'
 translatedAt: '2026-05-13T01:08:20Z'
+lastVerified: 2026-03-22
+lastHumanReview: false
 ---
 
 > **30초 요약：** 린 이제. 초등학교 때 체육 선생님으로부터 "선배보다 빠르게 뛰면 안 된다"는 경고를 들었던 말라깽이 소년이 2006년 인류 역사상 처음으로 사하라 사막을 도보로 횡단한 세 명 중 하나가 됐다. 111일 동안 7,500km를 달리며 신발 11켤레를 갈아신었고, 나중에야 그들을 호위했던 군인들이 귀환 길에 전원 피살됐다는 사실을 알게 됐다.

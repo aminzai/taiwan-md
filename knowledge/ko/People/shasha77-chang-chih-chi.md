@@ -9,7 +9,7 @@ author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 10
 lastVerified: 2026-04-20
-lastHumanReview: 2026-04-20
+lastHumanReview: true
 translatedFrom: People/張志祺.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b7728f29d3dbc9e2'

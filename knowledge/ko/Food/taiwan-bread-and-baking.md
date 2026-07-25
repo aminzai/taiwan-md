@@ -4,7 +4,7 @@ description: '우바오춘의 세계 챔피언에서 85도씨의 글로벌 확�
 date: 2026-03-19
 tags: ['빵', '제과', '우바오춘', '타이완식빵', '85도씨']
 subcategory: '제과와 디저트'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 category: 'Food'
 lastVerified: 2026-03-19

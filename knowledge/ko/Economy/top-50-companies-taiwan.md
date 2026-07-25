@@ -1,7 +1,7 @@
 ---
 title: '대만 50대 기업: 호국신산이 하나의 표를 떠받치고, 단일 장애점의 국가도 떠받친다'
 description: '2026년 5월 19일, TSMC 한 회사의 시가총액은 대만 가권지수 전체의 31.51%, 대만 주식시장 총시가총액의 약 40%를 차지했다. 50대 기업을 합치면 하나의 GDP를 떠받치지만, 그중 한 회사가 이 GDP의 운명을 사실상 붙들고 있다. 전자 36%, 금융 25%, 전통 산업 10%. 이른바 ‘전자·금융·전통 산업’의 삼각 구도는 실제로는 전자 산업 한 다리가 몸의 절반을 지탱하는 구조다. 닝샤 야시장에서 젠슨 황과 장중머우가 함께 사진을 찍었던 그 밤부터, 카이쉬안 3로 새벽의 32명 사망 사건까지, 이 순위표는 대만의 대체 불가능한 척추이자 가장 취약한 단일 장애점이다.'
-date: '2026-05-20'
+date: 2026-05-20
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: 'Economy'
@@ -19,7 +19,7 @@ tags:
     '집중도',
   ]
 readingTime: 18
-lastVerified: '2026-05-20'
+lastVerified: 2026-05-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣前50大企業.md'

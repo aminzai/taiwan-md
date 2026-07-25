@@ -5,7 +5,7 @@ date: 2026-03-20
 tags: ['수자원', '저수지', '물 부족', '수리 공사', '기후 변화']
 subcategory: '수문과 수자원'
 category: 'Geography'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 11
 featured: false
 translatedFrom: 'Geography/台灣水庫與水資源管理.md'
@@ -13,6 +13,9 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:58cfc27dba0ac67b'
 sourceBodyHash: 'sha256:4e6245b3f0401bec'
 translatedAt: '2026-04-14T19:29:12+08:00'
+lastVerified: 2026-03-20
+lastHumanReview: false
+difficulty: 'beginner'
 ---
 
 # 대만의 저수지와 수자원 관리

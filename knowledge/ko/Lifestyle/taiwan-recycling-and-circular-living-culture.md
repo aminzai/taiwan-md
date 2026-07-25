@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: '도시 생활'
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'p3nchan'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-23
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:692a1090832374e5'
 sourceBodyHash: 'sha256:258baccfb653bebb'
 translatedAt: '2026-04-14T04:35:32+08:00'
+lastHumanReview: true
 ---
 
 # 쓰레기차를 쫓는 섬: 대만의 쓰레기 위기에서 재활용 기적으로

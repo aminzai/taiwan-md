@@ -5,7 +5,7 @@ date: 2026-03-29
 tags: ['슬래시', '긱 경제', '임금', '집값', '청년 취업']
 subcategory: '세대와 사회'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'p3nchan'
 readingTime: 8
 translatedFrom: 'Society/台灣斜槓世代.md'
 lastVerified: 2026-03-29
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bdd6bcaeb167f0b4'
 sourceBodyHash: 'sha256:cfe750f00aea3ad6'
 translatedAt: '2026-04-14T05:53:10+08:00'
+lastHumanReview: false
 ---
 
 > 대만의 25~35세 청년들은 아무도 선언하지 않은 생존 실험을 겪고 있다. 임금 중위수는 3만 8천 달러에 머물러 있는데 타이베이 원룸 월세는 1만 4천 달러부터 시작한다. 정규직 하나로는 부족해서 퇴근 후 배달 앱을 켜고, 주말에는 프리랜서 작업을 하고, 늦은 밤 영상을 편집한다. 이것은 '슬래시 트렌드'가 아니라, 구조적 어려움이 짜낸 생존 전략이다.

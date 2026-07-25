@@ -1,13 +1,13 @@
 ---
 title: '대만 하천 체계와 수문 특성: 짧고 급한 흐름과 계절 변화의 수문지리'
 description: '줘수이시에서 가오핑시까지, 대만의 독특한 하천 체계를 살피며 섬의 지형이 대만의 수문 특성을 어떻게 형성했는지 이해한다'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Geography'
 subcategory: '水文與水資源'
 tags: ['지리', '하천', '수문', '줘수이시', '가오핑시', '단수이허', '수자원']
 readingTime: 11
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Geography/台灣河川系統與水文特色.md'
@@ -301,8 +301,13 @@ translatedAt: '2026-05-20T05:08:30+08:00'
 ## 참고 자료
 
 [^1]: 수리서, [《대만 주요 하천 기본 자료》](https://www.wra.gov.tw/cp.aspx?n=3164).
+
 [^2]: 수리서 제4하천분서, [《줘수이시 유역 소개》](https://www.wra.gov.tw/wra04/cp.aspx?n=10967).
+
 [^3]: 위키백과, [〈줘수이시〉](https://zh.wikipedia.org/zh-tw/%E6%BF%81%E6%B0%B4%E6%BA%AA), [〈가오핑시〉](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E5%B1%8F%E6%BA%AA), [〈단수이허〉](https://zh.wikipedia.org/zh-tw/%E6%B7%A1%E6%B0%B4%E6%B2%B3).
+
 [^4]: 중앙기상서, [《대만 수문기상 자료》](https://www.cwa.gov.tw/).
+
 [^5]: 농업부 농촌발전 및 수토보전서, [《대만 하천 지형과 수문 특성》](https://www.swcb.gov.tw/).
+
 [^6]: 한린 클라우드 학원, [《대만 하천 지리 자료》](https://www.ehanlin.com.tw/).

@@ -1,13 +1,13 @@
 ---
 title: '천젠런: SARS 위생서장, 부총통, 제31대 행정원장'
 description: '1951년 6월 6일 가오슝현 치산진에서 태어난 천젠런은 국제적으로 저명한 역학자이다. 2003년 SARS 기간 행정원 위생서 서장을 맡았고, 2016-2020년 제14대 부총통을 지냈으며, 2023년 1월 31일 제31대 행정원장에 취임해 2024년 5월 20일 퇴임하고 줘룽타이에게 인계했다.'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '政治與民主'
 tags: ['정치와 민주주의', '부총통', '행정원장', '역학', '공중보건', '방역']
 readingTime: 7
-lastVerified: '2026-05-07'
+lastVerified: 2026-05-07
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/陳建仁.md'

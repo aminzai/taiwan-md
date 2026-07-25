@@ -4,7 +4,7 @@ description: 대만의 쫑쯔(粽子)는 하나의 음식이 아니라 네 가�
 date: 2026-04-05
 tags: [단오절, 음식문화, 민난, 하카, 외성인, 원주민, 명절음식]
 subcategory: '명절 음식'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: true
 readingTime: 7
 category: Food

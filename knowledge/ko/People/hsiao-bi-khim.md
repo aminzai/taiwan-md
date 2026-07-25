@@ -15,6 +15,7 @@ sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
 translatedAt: '2026-06-12T00:53:03+08:00'
+difficulty: 'intermediate'
 ---
 
 # 샤오메이친(蕭美琴)

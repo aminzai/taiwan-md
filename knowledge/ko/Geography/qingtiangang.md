@@ -1,7 +1,7 @@
 ---
 title: '칭톈강: 초원, 벙커, 물소가 벌인 백년의 줄다리기'
 description: "케타갈란족의 사냥터에서 청대 '허난용'의 주둔지로, 일제강점기 다이레이토게 목장의 번성에서 장징궈가 '칭톈강'이라 명명한 군사적 함의에 이르기까지, 이 화산 초원은 타이베이 시민의 뒷마당일 뿐 아니라 군사, 목축, 생태 보전, 인간과 물소의 공존이라는 여러 의지가 백 년 동안 충돌해 온 현장이다. 2020년 겨울의 물소 폐사 사건은 국립공원 관리에서 '인간과 소의 분리' 정책이 초래한 깊은 대가와, 인간과 자연의 공존을 둘러싼 영원한 물음을 드러냈다."
-date: '2026-05-16'
+date: 2026-05-16
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '地形與地質'
@@ -19,7 +19,7 @@ tags:
     '문화 경관',
   ]
 readingTime: 15
-lastVerified: '2026-05-16'
+lastVerified: 2026-05-16
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/擎天崗.md'
@@ -28,6 +28,7 @@ sourceContentHash: 'sha256:31abc64732b1d18e'
 sourceBodyHash: 'sha256:dee2015d5a88f548'
 translatedAt: '2026-05-17T05:06:52+08:00'
 ---
+
 # 칭톈강: 초원, 벙커, 물소가 벌인 백년의 줄다리기
 
 ## 30초 개관

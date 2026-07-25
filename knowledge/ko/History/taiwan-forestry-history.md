@@ -14,7 +14,7 @@ tags:
     '세계사적 관점',
     '지정학',
   ]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 15
 lastVerified: 2026-03-25
 translatedFrom: 'History/台灣森林開發史.md'
@@ -22,6 +22,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8069998f1aa354c8'
 sourceBodyHash: 'sha256:55bbc4efed5f30a9'
 translatedAt: '2026-04-14T04:54:47+08:00'
+featured: false
+lastHumanReview: false
 ---
 
 > 우리의 귀중한 산림을 가져간 것은 누구인가? 답은 당신이 생각하는 것과 다를 수 있다.

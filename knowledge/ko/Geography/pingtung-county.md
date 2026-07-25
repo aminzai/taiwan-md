@@ -1,7 +1,7 @@
 ---
 title: '핑둥현: 국가 운명의 전환은 이곳에서 일어났지만, 타이베이는 거의 기억하지 않았다'
 description: '1874년 5월 22일, 일본 중좌 사쿠마 사마타가 150명을 이끌고 스먼 협곡으로 잠입했고, 파이완족 두목 아루구 부자가 전사했다. 이 전투는 청 조정의 대만 통치 정책을 뒤집어 놓았고, 선바오전이 와서 헝춘현을 설치했으며, 1883년에는 어롼비 등대가 세워졌다. 78만 명은 핑둥현 33개 향진시에 흩어져 살고, 5개 원주민족과 하카 류두이 6개 향진이 함께 산다. 2009년 새벽 4시 반, 린볜 수문은 더 이상 버티지 못했다. 대만을 바꾼 역사는 이 반도에서 두 차례 출발했지만, 수도가 기억하는 것은 컨딩 춘나뿐이다.'
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -23,7 +23,7 @@ tags:
     '22개 현시 시리즈',
   ]
 readingTime: 15
-lastVerified: '2026-05-18'
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/屏東縣.md'

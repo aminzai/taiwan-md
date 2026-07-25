@@ -16,9 +16,9 @@ tags:
     'AAMA',
     '사회기업',
   ]
-lastVerified: '2026-07-15'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-15
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/AAMA台北搖籃計畫.md'
 sourceCommitSha: '2e6738999'
 sourceContentHash: 'sha256:c03fa77efb2f6e8c'

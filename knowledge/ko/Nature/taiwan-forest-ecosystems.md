@@ -6,13 +6,15 @@ category: 'Nature'
 tags: ['산림 생태', '수직 분포', '대만삼나무', '편백', '운무대', '생물다양성']
 subcategory: '생태계'
 readingTime: 15
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 translatedFrom: 'Nature/台灣森林生態系.md'
 sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:07db67d659e5f36c'
 sourceBodyHash: 'sha256:cfc05d83f5b3a542'
 translatedAt: '2026-04-14T10:34:15+08:00'
+lastVerified: 2026-03-23
+lastHumanReview: true
 ---
 
 # 대만의 산림 생태계

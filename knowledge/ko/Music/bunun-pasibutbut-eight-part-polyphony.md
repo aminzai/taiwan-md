@@ -5,7 +5,7 @@ date: 2026-04-01
 tags: ['부눙족', '원주민 음악', '원주민족', '배음', '무형문화유산', '대만 문화']
 subcategory: '전통 및 민족 음악'
 category: 'Music'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-04-01
 lastHumanReview: true

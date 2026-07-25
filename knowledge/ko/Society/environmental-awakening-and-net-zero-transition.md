@@ -5,7 +5,7 @@ date: 2026-03-21
 tags: ['환경 보호', '지속 가능한 발전', '탄소중립', '순환 경제', '기후 변화']
 subcategory: '사회 운동'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: true
 translatedFrom: 'Society/環保與永續發展.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
 translatedAt: '2026-04-14T06:03:39+08:00'
+lastHumanReview: true
 ---
 
 # 환경 보호와 지속 가능한 발전: 섬의 녹색 각성

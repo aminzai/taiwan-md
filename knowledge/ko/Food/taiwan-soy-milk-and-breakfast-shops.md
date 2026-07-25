@@ -4,7 +4,7 @@ description: '1955년 산둥 출신 노병이 용허 다리 앞에서 두유 수
 date: 2026-03-29
 tags: ['두유', '아침식당', '용허두유', '사오빙유탸오', '단빙', '군인촌 음식']
 subcategory: '음료 문화'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: true
 category: 'Food'

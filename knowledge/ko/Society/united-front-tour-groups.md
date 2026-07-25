@@ -4,7 +4,7 @@ description: '2024년 6월 보터왕(波特王)이 중공의 대만 유튜버 10
 date: 2026-05-02
 tags: ['통전', '인지전', '양안관계', '인플루언서 정치', '민주주의 탄력성']
 subcategory: '양안관계'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 category: 'Society'
 readingTime: 25
 lastVerified: 2026-05-02
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:6189acad34e81f7d'
 sourceBodyHash: 'sha256:a81371a8c3c242ce'
 translatedAt: '2026-05-03T00:00:00+08:00'
+featured: false
 ---
 
 > **30초 개요:**

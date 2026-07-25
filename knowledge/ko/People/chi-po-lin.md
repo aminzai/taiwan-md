@@ -6,7 +6,7 @@ tags:
   ['인물', '치보린', '다큐멘터리', '대만을 보다', '감독', '공중촬영', '환경']
 subcategory: '예술과 창작'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'People/齊柏林.md'
@@ -14,6 +14,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2842e6333688b98f'
 sourceBodyHash: 'sha256:272da240ae5fe1df'
 translatedAt: '2026-04-15T17:32:28+08:00'
+lastVerified: 2026-03-25
+lastHumanReview: true
 ---
 
 # 치보린

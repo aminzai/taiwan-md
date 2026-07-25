@@ -4,7 +4,7 @@ description: '1981년 5월 28일 새벽, 매우 전선이 타오주먀오와 대
 date: 2026-05-02
 tags: ['기후', '수자원', '과학사', '재해']
 category: 'Nature'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false

@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e096cf547c4b743c'
 sourceBodyHash: 'sha256:94870d211f5fa515'
 translatedAt: '2026-05-13T01:08:20Z'
+difficulty: 'intermediate'
 ---
 
 # 계린롄: 천수만 계열 상장에서 한국옥 제명을 요구한 부주석까지

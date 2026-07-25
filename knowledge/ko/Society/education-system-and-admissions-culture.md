@@ -1,20 +1,22 @@
 ---
-title: "교육제도와 입시 문화"
-description: "대학입학시험 제도에서 12년 국민기본교육까지, 대만 교육이 경쟁과 다양성 사이에서 어떻게 균형을 모색하는가"
+title: '교육제도와 입시 문화'
+description: '대학입학시험 제도에서 12년 국민기본교육까지, 대만 교육이 경쟁과 다양성 사이에서 어떻게 균형을 모색하는가'
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Society"
-subcategory: "교육"
-tags: ["교육", "입시", "12년 국민기본교육", "기술직업교육", "교육개혁", "경쟁문화"]
+author: 'Taiwan.md'
+category: 'Society'
+subcategory: '교육'
+tags:
+  ['교육', '입시', '12년 국민기본교육', '기술직업교육', '교육개혁', '경쟁문화']
 readingTime: 14
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Society/教育制度與升學文化.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:0a7458b73a859fea"
-sourceBodyHash: "sha256:b2b271a1c8432769"
-translatedAt: "2026-05-20T05:08:30+08:00"
+translatedFrom: 'Society/教育制度與升學文化.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:0a7458b73a859fea'
+sourceBodyHash: 'sha256:b2b271a1c8432769'
+translatedAt: '2026-05-20T05:08:30+08:00'
+difficulty: 'intermediate'
 ---
 
 # 교육제도와 입시 문화
@@ -185,9 +187,13 @@ AI 맞춤형 학습, VR 수업, 온라인 강좌가 교육 현장을 변화시�
 - [자학교](/society/雜學校) — 318 학생 운동 이후 성장한 대안 교육 축제로, 입시주의 밖의 체제 외 상상이 구체화된 현장이다.
 
 [^1]: 교육부 통계처, 〈고등교육 입학 통계〉, https://stats.moe.gov.tw/
+
 [^2]: 교육부, 〈12년 국민기본교육 정책 설명〉, https://www.moe.gov.tw/
+
 [^3]: 교육부, 〈108 교육과정 총강〉, https://www.naer.edu.tw/
+
 [^4]: OECD, 〈PISA 2022 Results〉, https://www.oecd.org/pisa/
+
 [^5]: 교육부 통계처, 〈교육 통계 조회망〉, https://stats.moe.gov.tw/
 
 ## 참고 문헌

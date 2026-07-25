@@ -6,7 +6,7 @@ tags:
   ['인물', '다이쯔잉', '배드민턴', '세계 1위', '올림픽', '운동선수', '타이완']
 subcategory: '스포츠'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'People/戴資穎.md'
 readingTime: 15
 featured: true
@@ -14,6 +14,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
 translatedAt: '2026-04-17T10:33:16+08:00'
+lastVerified: 2026-03-21
+lastHumanReview: true
 ---
 
 # 다이쯔잉

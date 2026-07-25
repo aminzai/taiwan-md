@@ -1,11 +1,11 @@
 ---
 title: '대만의 지역 사회와 리(里) 문화'
 description: '가장 기층의 민주적 실천에서 지역 사회 조성의 사회 혁신까지'
-date: 2026-03-19
+date: 2026-03-18
 tags: ['리린 제도', '지역 사회 조성', '사회 대학', '시민 참여', '지방 자치']
 subcategory: '사회 운동'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cd7ff91fe48a2538'
 sourceBodyHash: 'sha256:04d1aee034c97e89'
 translatedAt: '2026-04-14T05:53:10+08:00'
+lastHumanReview: false
 ---
 
 # 대만의 지역 사회와 리(里) 문화

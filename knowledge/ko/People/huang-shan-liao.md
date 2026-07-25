@@ -26,6 +26,7 @@ translatedAt: '2026-06-16T16:55:29Z'
 image: '/article-images/people/huang-shan-liao-portrait-2025.webp'
 imageCredit: '鏡週刊（fair use editorial commentary）'
 imageLicense: 'Fair use editorial commentary'
+featured: true
 ---
 
 # Huang Shan-liao: No one looked at the champion's clothes, so he started selling 'one-line comfort'

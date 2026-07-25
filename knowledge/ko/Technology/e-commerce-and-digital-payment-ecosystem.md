@@ -16,7 +16,7 @@ tags:
   ]
 subcategory: '디지털과 인터넷'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: true
 readingTime: 12
 lastVerified: 2026-04-06
@@ -25,6 +25,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e6d4ecca5e8c9269'
 sourceBodyHash: 'sha256:8a4126afbbcc2d61'
 translatedAt: '2026-04-14T07:15:07+08:00'
+lastHumanReview: false
 ---
 
 # 대만 전자상거래와 디지털 결제: 하나의 섬에서 벌어진 세 번의 전쟁

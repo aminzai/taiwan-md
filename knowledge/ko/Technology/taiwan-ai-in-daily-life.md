@@ -5,7 +5,7 @@ date: 2026-03-29
 tags: ['AI', '인공지능', 'LINE', '스마트 의료', '스마트 농업', '일상 기술']
 subcategory: '커뮤니티와 디지털 문화'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
+author: 'p3nchan'
 readingTime: 8
 featured: false
 translatedFrom: 'Technology/台灣AI日常.md'
@@ -14,6 +14,7 @@ sourceCommitSha: 'dbb8d44c'
 sourceContentHash: 'sha256:7da35707a5ff83dd'
 sourceBodyHash: 'sha256:21f036f1bf71fe83'
 translatedAt: '2026-04-14T06:47:03+08:00'
+lastHumanReview: false
 ---
 
 > 동네 내과 의원에서 의사가 25초 만에 과거엔 20분이 걸렸던 당뇨 위험 평가를 끝냈다. 편의점 직원은 3분 만에 예전엔 15분 걸리던 신선식품 발주를 마쳤다. LINE으로 문의한 고객 서비스에 답장을 보낸 건 사람이 아니었다. 대만 사람들은 매일 수십 번씩 AI와 상호작용하지만, 이 사실을 의식하는 사람은 거의 없다.

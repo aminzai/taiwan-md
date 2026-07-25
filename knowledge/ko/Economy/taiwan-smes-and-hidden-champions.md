@@ -5,15 +5,16 @@ date: 2026-03-24
 tags: [중소기업, 히든챔피언, 제조업, OEM, 글로벌공급망, 가족기업, 창업정신]
 subcategory: '경제 발전'
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 14
 featured: true
 translatedFrom: 'Economy/台灣中小企業與隱形冠軍.md'
-lastVerified: 2026-03-24
+lastVerified: 2026-07-25
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:51e4bbc49efeda40'
 sourceBodyHash: 'sha256:a547cd2ed92973fa'
 translatedAt: '2026-04-14T08:16:50+08:00'
+lastHumanReview: false
 ---
 
 # 대만 중소기업과 히든 챔피언

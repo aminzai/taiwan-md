@@ -13,6 +13,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:041d66a77659bdef'
 sourceBodyHash: 'sha256:d2c0d3b4dad31bc9'
 translatedAt: 2026-05-01T22:19:01+08:00
+featured: false
 ---
 
 > **30초 개요:**

@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: '스포츠 문화'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 lastVerified: 2026-03-27
 translatedFrom: 'Culture/巧固球.md'
@@ -21,6 +21,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:01a29994f0cdcf17'
 sourceBodyHash: 'sha256:620db6741686fb51'
 translatedAt: '2026-04-14T07:55:26+08:00'
+featured: false
+lastHumanReview: false
 ---
 
 ## 기원과 대만 전래

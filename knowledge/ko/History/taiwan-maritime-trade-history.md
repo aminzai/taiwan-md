@@ -4,7 +4,7 @@ description: '대항해시대의 타이완, 국제무역 중심지에서 해양 
 date: 2026-03-20
 tags: ['해양무역', '대항해시대', '국제무역', '해적', '항구도시']
 subcategory: '선사시대와 원주민'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 9
 category: 'History'
@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
 translatedAt: '2026-04-14T04:54:47+08:00'
+lastHumanReview: false
 ---
 
 # 타이완 해양무역사

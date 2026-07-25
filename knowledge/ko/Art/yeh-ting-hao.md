@@ -1,7 +1,7 @@
 ---
 title: '예팅하오: 기술의 “부정확한” 사용으로 예기치 못한 음상 예술을 끌어낸 예술가, 43세에 하나의 생태계를 남기다'
 description: '1981년 타오위안에서 태어나 푸런대학교 응용미술학과에서 컴퓨터 애니메이션을 전공하고, 타이베이예술대학교 과학기술예술연구소를 졸업했다. 친구들은 모두 그를 PUTA라고 불렀다. 2007년 실성제 창립 참여, 2013년 야오중한과 음상 듀오 HH 결성, 2017년 TouchDesignerTW 공동 운영, 2018년 노이즈 플루이드 인수에 이르기까지 그는 줄곧 한 가지 일을 해왔다. 도구를 해체해 더 많은 사람이 쓰게 하는 일이다. 2024년 11월 12일, 43세의 나이로 일찍 세상을 떠난 그가 남긴 것은 개인 작품 목록이 아니라 대만 음상 예술의 하나의 생태계였다.'
-date: '2026-05-22'
+date: 2026-05-22
 author: 'Taiwan.md Contributors'
 category: 'Art'
 subcategory: '聲音與新媒體藝術'
@@ -24,7 +24,7 @@ tags:
     '오디오비주얼',
   ]
 readingTime: 22
-lastVerified: '2026-05-22'
+lastVerified: 2026-05-22
 lastHumanReview: false
 featured: false
 translatedFrom: 'Art/葉廷皓.md'

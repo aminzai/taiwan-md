@@ -4,7 +4,7 @@ description: '2018년 미쉐린이 타이완에 상륙한 지 8년, 419개 레�
 date: 2026-03-23
 tags: ['미쉐린', '파인다이닝', '스타레스토랑', '타이완음식', '외식산업']
 subcategory: '파인다이닝'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md 編輯團隊'
 readingTime: 12
 featured: true
 category: 'Food'

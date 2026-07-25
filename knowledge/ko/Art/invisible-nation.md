@@ -1,7 +1,7 @@
 ---
 title: "'보이지 않는 국가: 한 미국 감독이 7년 동안 셔터를 눌러, 세계가 보지 않기로 한 섬을 찍었다'"
 description: "2025년 6월 타이완 극장가에서 한 미국인이 만든 다큐멘터리가 3,700만 신타이완달러를 넘기며 타이완 다큐멘터리 영화사 흥행 3위에 올랐다. 바네사 호프는 7년 동안, 다섯 차례 차이잉원을 밀착 인터뷰하며 유엔에서 축출되고, 수교국이 22개국에서 12개국으로 줄었으며, 올림픽에서는 오직 '중화 타이베이'라고만 불릴 수 있는 섬을 카메라 앞으로 밀어냈다. 그러나 가장 큰 의문을 받은 것은 타이완을 '보이게' 하려는 이 영화가 정작 누구를 프레임 밖에 남겨두었는가였다. 보인다는 것은 언제나 하나의 행위이지, 하나의 지위가 아니다."
-date: '2026-06-13'
+date: 2026-06-13
 author: 'Taiwan.md'
 category: 'Art'
 subcategory: '紀錄片'
@@ -15,9 +15,9 @@ tags:
     '주권',
     'Invisible Nation',
   ]
-lastVerified: '2026-06-13'
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-06-13
+lastHumanReview: false
+featured: true
 translatedFrom: 'Art/看不見的國家.md'
 sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:3ae429b55b3339f0'

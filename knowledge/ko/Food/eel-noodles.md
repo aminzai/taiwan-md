@@ -1,16 +1,16 @@
 ---
 title: '27초의 정밀함: 타이난 스켄어우이미엔(장어우동)의 일치하 기원과 리아오 가문의 계승'
 description: '타이난 스켄어우이미엔(장어우동)의 핵심 기술은 하나의 숫자, 27초에 있다. 장어를 냄비에 넣고 꺼내기까지 이 시간을 넘기면 살이 질겨지고 비린내가 나며, 결국 한 냄비 전체가 망가진다. 이 요리는 일치하 시기 사카리바 시장에서 탄생했으며, 리아오 빙난과 리아오 훠툈 형제는 푸저우 장인으로부터 기술을 배워 타이난 연못의 야생 장어를 일본인의 뱀장어 대신 사용해 백년 명성을 떨쳤다.'
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'Food'
 tags:
   ['타이난', '장어우동', '중시구', '사카리바', '일치하', '리아오 가문', '소식']
 subcategory: '클래식 소식'
-readingTime: '7'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 7
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'Food/鱔魚意麵.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:6060b205f72b8e41'

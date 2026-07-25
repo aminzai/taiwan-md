@@ -15,6 +15,7 @@ sourceCommitSha: f712b7242
 sourceContentHash: sha256:0f2cf9fae60042d8
 sourceBodyHash: sha256:62570a25d7db63f6
 translatedAt: 2026-05-17T05:34:52+08:00
+difficulty: 'intermediate'
 ---
 
 # 언어 다양성과 모국어 문화
@@ -262,7 +263,11 @@ translatedAt: 2026-05-17T05:34:52+08:00
 ## 참고 자료
 
 [^1]: 행정원 객가위원회, 「전국 객가 인구 및 언어 기초 자료 조사 연구」, 2020, https://www.hakka.gov.tw/chhakka/app/artwebsite?module=artwebsite&id=126&serno=null; 조사 기관과 연도에 따라 대만어 사용 비율은 67~72% 사이이며, 본문은 비교적 최신 통계치를 채용함
+
 [^2]: 원주민위원회, 「원주민 언어 사용 현황 조사 보고서」, 2021, https://www.cip.gov.tw/zh-tw/news/data-list/C30C260FE2AC91E5/index.html; 아미족 등록 인구 약 21만 명이나, 유창하게 부족 언어를 사용하는 인구는 이 수치보다 훨씬 낮음
+
 [^3]: 황선범(黃宣範), 「언어, 사회와 집단 의식」, 삼민서국(三民書局)
+
 [^4]: 이임계(李壬癸), 「대만 남도어족의 집단과 이주」, https://www.books.com.tw/products/0010493437
+
 [^5]: 「국가언어발전법(2019)」, https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143) — 대만어, 객가어, 원주민 언어 등을 국가 언어로 확립, 객가위원회(https://www.hakka.gov.tw/), 원주민위원회(https://www.apc.gov.tw/) 관련 출판물

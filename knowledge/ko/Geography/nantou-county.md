@@ -35,6 +35,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_i
 imageCredit: Wikimedia Commons contributor
 imageLicense: CC BY-SA 3.0
 imageSource: https://commons.wikimedia.org/wiki/File:Sun_Moon_Lake_in_Twilight.JPG
+featured: false
 ---
 
 # Nantou County: The Only County Not Bordering the Sea, Where the Epicenter of the 921 Earthquake Lies at Its Center

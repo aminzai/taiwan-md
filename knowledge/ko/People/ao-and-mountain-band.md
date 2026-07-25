@@ -22,13 +22,14 @@ category: 'People'
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
 readingTime: 16
-lastVerified: 2026-05-02
-lastHumanReview: false
+lastVerified: 2026-04-18
+lastHumanReview: true
 translatedFrom: 'People/凹與山.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:fb2f6f7aedcd6d81'
 sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
 translatedAt: '2026-05-02T08:59:00+08:00'
+featured: false
 ---
 
 > **30초 개요:** 요여산(凹與山, Our Shame)은 대만의 일렉트로닉 포크 듀오로, 보컬 샤오아오(Estelle H)와 드러머 Isan으로 구성됩니다. 두 사람은 고등학교 밴드 동아리에서 만났고, 대학 시절 어쿠스틱 포크 편성으로 2015년 **진사오상 창작 부문 1등**(〈친애하는〉 어쿠스틱 데모 버전)을 차지했습니다. 졸업 후 두 사람은 모두 IT 회사에 들어갔습니다. 2018년 겨울, 본래 '웨이샤오아오'라 불리던 포크 밴드 이름을 '요여산'으로 바꾸고, 샤오아오는 신디사이저를 사고 Isan은 패드로 바꾸면서 일렉트로닉 포크(Folktronica)로 전환했습니다. 2019년 EP 《모든 좋은 일이 일어날 것이다》를 발표했고, 믹싱은 일본 금상 프로듀서 AKNIT을 영입했습니다. 2022년 첫 정규 앨범 《Modern Problem》은 **진음상 13회 최우수 얼터너티브 팝과 신인상 양 부문**에 노미네이트되었고, 영문 곡이 60%를 차지했습니다. 2025년 8월 4일 두 번째 앨범 《Hidden Album》을 발표했고, 국제 제작팀에는 영국 그래미 믹싱 엔지니어 Jay Reynolds, 미국 그래미 엔지니어 Brian Elgin(Dua Lipa, Lana Del Rey 협업), 일본 ASOBOiSM, 프랑스 Odd People Club이 포함됩니다. 주제는 '기술의 불안'에서 '기술에 가려진 인간의 그림자'—자해, 금기의 사랑, 가상화폐 사기, 여성의 신체 경험—로 전환되었습니다. 그중 〈Miffy〉는 사회운동가 천메이후이에게 헌정. 2026년 1월 4일 《Hidden Album》 동명 콘서트가 예정되어 있습니다.

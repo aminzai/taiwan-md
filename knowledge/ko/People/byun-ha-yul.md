@@ -14,7 +14,7 @@ tags:
     '패션 시스터즈',
     'CPBL',
   ]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/邊荷律.md'
@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:860b8c0055b0c881'
 sourceBodyHash: 'sha256:34601056f655cc89'
 translatedAt: '2026-05-17T05:33:00Z'
+lastHumanReview: false
 ---
 
 > **30초 요약:** 변하율은 CTBC 브라더스 패션 시스터즈의 한국 주력 멤버 중 하나다. 2026년 시즌 전후 공개 인터뷰에서 그녀는 WBC와 대만에서의 심정뿐 아니라 가족의 건강 상황이 자신의 감정에 어떻게 영향을 주는지도 설명했다—덕분에 논의가 「무대 매력」에서 「노동과 가족의 긴장」으로 확장되었다.

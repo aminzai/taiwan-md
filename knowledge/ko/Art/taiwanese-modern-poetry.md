@@ -5,7 +5,7 @@ date: 2026-03-23
 tags: ['문학', '시', '현대시', '향토 문학']
 subcategory: '문학'
 category: 'Art'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 6
 featured: false
 translatedFrom: 'Art/台灣現代詩.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:76772688d61c205f'
 sourceBodyHash: 'sha256:444e69e75502ca5e'
 translatedAt: '2026-06-16T17:10:38Z'
+lastHumanReview: false
 ---
 
 # 대만 현대시: 뜻밖의 향토화 예언

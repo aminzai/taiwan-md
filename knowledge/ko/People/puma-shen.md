@@ -1,7 +1,7 @@
 ---
 title: '선보양: 그는 중국의 인지전을 연구했고, 나중에 중국은 그를 위성 지도 위에 그려 넣었다'
 description: '2021년 선보양은 전략학자 허청후이와 함께 흑곰학원을 공동 창립했고, 차오싱청은 6억 신타이완달러를 기부해 지원했으며, 목표는 3년 안에 민방위 지원자 300만 명을 훈련하는 것이었다. 2024년 2월 민주진보당 비례대표 입법위원 신분으로 국회에 입성했다. 2025년 10월 28일, 그는 중국이 「국가분열죄」로 입건 수사한 최초의 타이완 민선 정치인이 되었고, CCTV는 「신상 털기」 특집을 붙여 「다음은 바로 너다」라고 경고했다. 2026년 새해 첫날 중국 웨이보 계정은 상업용 위성으로 타이베이에 있는 그의 자택과 근무지 좌표를 공개했다; 그는 밸런타인데이를 프랑스로 향하는 비행기 안에서 보냈다. 5월 13일 민주진보당은 그를 타이베이 시장 후보로 공식 공천했는데, 그가 출마하려는 곳은 바로 위성 지도에 좌표가 표시된 그 도시였다.'
-date: '2026-04-27'
+date: 2026-04-27
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '政治人物'
@@ -16,7 +16,7 @@ tags:
     '민주주의 방위',
   ]
 readingTime: 18
-lastVerified: '2026-06-21'
+lastVerified: 2026-06-21
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/沈伯洋.md'
@@ -28,6 +28,7 @@ image: /article-images/people/puma-shen-election-2024.webp
 imageCredit: 曾成訓 / Flickr
 imageLicense: CC BY 2.0
 imageSource: https://commons.wikimedia.org/wiki/File:Puma_Shen_in_2024_Taiwan_general_election.jpg
+difficulty: 'intermediate'
 ---
 
 # 선보양: 그는 중국의 인지전을 연구했고, 나중에 중국은 그를 위성 지도 위에 그려 넣었다

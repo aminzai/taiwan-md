@@ -5,7 +5,7 @@ date: 2026-04-11
 tags: ['양안관계', '국공회담', '정리원', '시진핑', '지정학', '정치', '2026']
 subcategory: '민주주의와 정치'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 14
 featured: true
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
@@ -19,6 +19,8 @@ sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'
 sourceBodyHash: 'sha256:3d0acbeaa8a56355'
 translatedAt: '2026-06-10T16:42:09Z'
+lastHumanReview: false
+difficulty: 'advanced'
 ---
 
 # 2026 정시회담: 국공 지도자 10년 만의 재회, 단 10분

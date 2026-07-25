@@ -5,7 +5,7 @@ date: 2026-03-27
 tags: [민간신앙, 전통공예, 쟈오베이]
 subcategory: '종교와 민속'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 lastVerified: 2026-03-27
 translatedFrom: 'Culture/擲筊.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f8a1e86f13d5a657'
 sourceBodyHash: 'sha256:ef724755039c89a7'
 translatedAt: '2026-04-14T08:05:20+08:00'
+featured: false
+lastHumanReview: false
 ---
 
 > **30초 요약:**

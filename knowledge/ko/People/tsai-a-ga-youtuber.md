@@ -4,16 +4,17 @@ description: "2022년 대만 첫 백만 인플루언서 차이아거가 집을 �
 category: 'People'
 tags:
   ['차이아거', '차이타오궤이', 'YouTuber', '사회복지사', '사회복지', '대만문화']
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 date: 2026-04-23
 readingTime: 12
-lastVerified: 2026-05-02
+lastVerified: 2026-04-23
 lastHumanReview: false
 translatedFrom: 'People/蔡阿嘎.md'
 sourceCommitSha: 'f5975a22'
 sourceContentHash: 'sha256:2fc7b754782e2c72'
 sourceBodyHash: 'sha256:3835f3eeb33c205d'
 translatedAt: '2026-05-02T09:03:00+08:00'
+featured: false
 ---
 
 > **30초 개요:**

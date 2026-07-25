@@ -1,7 +1,7 @@
 ---
 title: '수벙: 한 개의 만두 가게로 40년간 타이완 혁명을 양육하다'
 description: "수벙(본명 시초회)은 중국에서 중공을 위한 지하 정보원을 했으나 토지 개혁 살육을 직접 목격하고 환멸을 느껴 타이완으로 돌아와 장제스를 암살하려다 실패하고 일본으로 밀입국했다. 그는 도쿄 이케부쿠로에 '신진미'라는 면가게를 열어 낮에는 만두를 팔고 밤에는 타이완 역사를 기록했으며, 이 가게 수입으로 40년간 타이완 독립운동을 지원하고 타이완인 400년사라는 타이완 민족 의식을 일깨우는 저서를 집필했다."
-date: '2026-07-10'
+date: 2026-07-10
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '정치와 사회운동'
@@ -13,8 +13,8 @@ tags:
   - '타이완인 400년사'
   - '타이완 민족주의'
   - '역사'
-readingTime: '13'
-lastVerified: '2026-07-10'
+readingTime: 13
+lastVerified: 2026-07-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/史明.md'

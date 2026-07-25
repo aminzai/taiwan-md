@@ -4,7 +4,7 @@ description: '대항해 시대부터 현대까지, 각 시대 각 민족이 이 
 date: 2026-03-17
 tags: ['인용구', '역사', '문학', '문화']
 category: 'About'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: true
 translatedFrom: 'About/看見台灣引言集.md'
@@ -12,6 +12,8 @@ sourceCommitSha: '0f8fae0a'
 sourceContentHash: 'sha256:4cbaa3c9a8d422dd'
 sourceBodyHash: 'sha256:0d8842cfba541dc2'
 translatedAt: '2026-05-25T21:07:07Z'
+lastVerified: 2026-03-19
+lastHumanReview: true
 ---
 
 # 대만을 보다 — 역사 속 대만의 인상

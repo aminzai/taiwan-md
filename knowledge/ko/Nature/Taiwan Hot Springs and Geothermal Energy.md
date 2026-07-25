@@ -12,7 +12,7 @@ tags:
   - '온천 문화'
 subcategory: '지질과 지열'
 category: 'Nature'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 15
 featured: false
 translatedFrom: 'Nature/台灣溫泉與地熱.md'
@@ -20,6 +20,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c950b0e6980af7aa'
 sourceBodyHash: 'sha256:76aaf6bdf8e233fe'
 translatedAt: '2026-04-14T10:48:03+08:00'
+lastVerified: 2026-03-23
+lastHumanReview: false
 ---
 
 # 대만의 온천과 지열

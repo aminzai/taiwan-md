@@ -15,6 +15,7 @@ sourceCommitSha: f712b7242
 sourceContentHash: sha256:5fcedd0ad0dc94f7
 sourceBodyHash: sha256:92c2111bcaaae7c8
 translatedAt: 2026-05-22T05:08:46+08:00
+difficulty: 'intermediate'
 ---
 
 # 대만 농업 경관과 산업 분포

@@ -6,7 +6,7 @@ tags:
   ['고산생태', '빙하유존종', '대만삼나무', '고산식물', '생물다양성', '기후변화']
 subcategory: '생태계'
 category: 'Nature'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 11
 featured: false
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
@@ -14,6 +14,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f8dc834054c6b8b9'
 sourceBodyHash: 'sha256:3d618da70d40426c'
 translatedAt: '2026-04-14T10:55:17+08:00'
+lastVerified: 2026-03-20
+lastHumanReview: false
 ---
 
 # 대만 고산 생태계와 빙하기 유존종

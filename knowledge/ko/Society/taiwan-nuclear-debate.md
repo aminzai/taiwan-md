@@ -1,7 +1,7 @@
 ---
 title: '타이완과 원자력 논의: 탈핵은 한때 민주화 운동의 공통 언어였으나, 기후 위기가 모든 진영의 판을 다시 짰다'
 description: '2025년 8월, 434만 명이 「핵3 재가동」 찬성표를 던져 74%를 얻었지만, 투표율이 문턱을 넘지 못해 패배로 계산되었다. 40년 동안 세 차례 국민투표를 거치며, 타이완은 탈핵 합의에서 비핵 가원으로 나아갔다가 다시 석 달 만에 스스로 꺼 둔 원자로를 재가동의 길로 밀어 넣었다. 이 논쟁은 이미 「원자력이 좋은가 나쁜가」라는 양자택일을 넘어섰다. 핵폐기물은 10만 년 동안 안정되어야 하고, 탄소 감축은 10년 안에 달성해야 하며, 전력 부족은 바로 지금의 문제인 상황에서 한 사회가 시간 압력이 서로 반대인 일을 어떻게 결정할 것인가의 문제다.'
-date: '2026-06-07'
+date: 2026-06-07
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '能源與環境政策'
@@ -18,9 +18,9 @@ tags:
     '란위',
     '에너지 안보',
   ]
-lastVerified: '2026-06-07'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-06-07
+lastHumanReview: false
+featured: false
 translatedFrom: 'Society/台灣與核能的討論.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:644a9c58c9027809'

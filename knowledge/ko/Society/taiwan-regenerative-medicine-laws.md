@@ -1,7 +1,7 @@
 ---
 title: '재생의료 이중법 × mRNA 30년: 두 종류의 구명 약물은 어떻게 국가 관리로 편입되었나'
 description: '2023년 Karikó와 Weissman이 노벨상을 받은 날은, 그녀가 펜실베이니아대학교에서 강등된 지 꼭 28년이 되는 때였다. 2021년 9월 2일 BNT 첫 물량 93만 회분이 타오위안공항에 도착한 순간은, 그녀가 1997년 복사기 앞에서 Weissman과 마주친 지 이미 24년이 지난 때였다. 이 글은 「2024년 재생의료 이중법」과 「mRNA 30년의 고초」라는 두 축을 나란히 놓고, 헝가리 이민 여성 과학자의 곰 인형에서 타오위안 과학단지의 클린룸까지, 국가가 완전히 다른 두 종류의 구명 약물, 곧 세포와 분자를 어떻게 관리 체계 안으로 편입하는지 살펴본다.'
-date: '2026-05-19'
+date: 2026-05-19
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '人權與平等'
@@ -17,7 +17,7 @@ tags:
     'GMP',
   ]
 readingTime: 22
-lastVerified: '2026-05-19'
+lastVerified: 2026-05-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'

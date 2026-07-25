@@ -1,15 +1,15 @@
 ---
 title: '대만 기업: 아세르 — 미소 곡선을 그린 사람, 스스로 양단에 서기 가장 어려웠던 이'
 description: '1992년, 스진융은 아세르 내부에 위로 열린 곡선을 그으며 대만 제조업 전체에 경고했다. "부가가치 최저의 조립 중간단계에 갇히지 말고, 연구개발과 브랜드 양단으로 가라." 이 문장은 대만을 30년 동안 영향력 있게 해왔다. 그러나 선을 그린 사람 스스로 브랜드 단으로 돌진하는 길에서 세 번이나 쓰러졌다—2000년 대분가를 강요당했고, 2011년 세계 2위로 치솟은 후 재고가 폭주했으며, 2013년 1년 만에 205억 위안 손실을 내며 68세의 창립자를 복귀시켰다. 당시 그가 잘라낸 가장 비관시되던 하청 파트너 위스트론은 AI 시대에 미소 곡선의 정점에 올랐다.'
-date: '2026-03-20'
+date: 2026-03-20
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '企業列傳'
 tags: ['경제', '기업', '개인용 컴퓨터', '브랜드', '글로벌화', '미소 곡선']
-readingTime: '13'
-lastVerified: '2026-07-06'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 13
+lastVerified: 2026-07-06
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/台灣企業：宏碁.md'
 sourceCommitSha: 'beb07b8e'
 sourceContentHash: 'sha256:cd395bed8d239f41'

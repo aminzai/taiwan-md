@@ -1,7 +1,7 @@
 ---
 title: '반도체 산업: RCA 기술 이전에서 질화 갈륨과 양자 패키징까지, 50년 재료 혁명'
 description: '타이완의 호국신산은 파운드리로 세계 첨단 공정을 제패했지만, 고속 충전기 안의 질화 갈륨, AI 칩 아래의 CoWoS, 큐비트 위의 희석 냉동기까지, 다음 50년의 재료과학 전장은 이제 막 펼쳐지기 시작했다.'
-date: '2026-03-17'
+date: 2026-03-17
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: '半導體與硬體'
@@ -19,7 +19,7 @@ tags:
     '재료과학',
   ]
 readingTime: 22
-lastVerified: '2026-05-19'
+lastVerified: 2026-05-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'Technology/半導體產業.md'
@@ -31,6 +31,7 @@ image: '/article-images/technology/silicon-vs-gan-charger-2025.webp'
 imageCredit: '4300streetcar'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Silicon_vs_GaN_30W_USB-C_chargers.jpg'
+difficulty: 'intermediate'
 ---
 
 # 반도체 산업: RCA 기술 이전에서 질화 갈륨과 양자 패키징까지, 50년 재료 혁명

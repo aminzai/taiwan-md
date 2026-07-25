@@ -28,6 +28,7 @@ sourceCommitSha: 'fef3e119'
 sourceContentHash: 'sha256:96f1d5630278a964'
 sourceBodyHash: 'sha256:57937e9b25b2f462'
 translatedAt: 2026-06-07T02:26:08+08:00
+difficulty: 'beginner'
 ---
 
 # 리양

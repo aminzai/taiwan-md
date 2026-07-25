@@ -1,15 +1,15 @@
 ---
 title: '통일기업 — 13세 공장 소년이 세운 대만 식품 제국'
 description: '38세 고칭위안이 무에서 시작해 연매출 6,576억 달러의 제국을 쌓기까지'
-date: 2026-03-21
+date: 2026-07-13
 tags: [경제, 기업, 식품업, 유통업, 브랜드 경영]
 subcategory: '기업 열전'
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 translatedFrom: 'Economy/台灣企業：統一企業.md'
-lastVerified: 2026-03-21
+lastVerified: 2026-07-13
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:3fb7c059831bdebb'
 sourceBodyHash: 'sha256:481f2cb6cfdcbd21'
@@ -18,6 +18,7 @@ image: '/article-images/economy/seven-eleven-taiwan-storefront-2024.webp'
 imageCredit: 'Solomon203 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:7-Eleven_Nanjing_Store_front_view_20240214.jpg'
+lastHumanReview: false
 ---
 
 > **30초 요약:** 1967년, 38세의 고칭위안(高清愿)이 대남(台南) 쉐자(學甲)에서 통일기업을 창업했다. 밀가루 공장에서 출발해 2024년 매출 6,576억 신대만달러로 사상 최고 기록을 경신했다. 통일은 라면만 파는 회사가 아니다. 1980년 첫 번째 7-ELEVEN 창안(長安) 매장이 문을 열면서 '24시간 편의'는 대만만의 독특한 문화 코드로 자리잡았다.

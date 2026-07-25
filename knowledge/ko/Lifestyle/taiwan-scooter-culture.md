@@ -5,7 +5,7 @@ date: 2026-03-25
 tags: [생활, 오토바이, 摩托車, Gogoro, KYMCO, SYM, 전기 오토바이, 교통]
 subcategory: '교통과 이동'
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: true
 lastVerified: 2026-03-25
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:6e1ce0a29ebd4e81'
 sourceBodyHash: 'sha256:5fa0068bcb11d00b'
 translatedAt: '2026-04-14T04:35:32+08:00'
+lastHumanReview: false
 ---
 
 # 대만의 오토바이 문화

@@ -5,13 +5,15 @@ date: 2026-03-23
 category: 'People'
 subcategory: '음악 및 공연'
 tags: ['음악', '팝 음악', '재즈', '슈퍼스타탄생', '골든멜로디어워드', '우신']
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 translatedFrom: 'People/蕭敬騰.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:fb71e3bcf0475f2e'
 sourceBodyHash: 'sha256:6b96e9e6687dd8c3'
 translatedAt: '2026-05-17T06:30:00Z'
+lastVerified: 2026-03-23
+lastHumanReview: true
 ---
 
 # 잠 샤오: 대만 팝 음악의 전설

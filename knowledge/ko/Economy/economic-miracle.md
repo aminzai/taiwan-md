@@ -6,8 +6,8 @@ author: Taiwan.md
 category: Economy
 subcategory: '經濟發展'
 tags: ['Economy', '대만 경제', '중소기업', '과학단지', '반도체']
-readingTime: 10
-lastVerified: 2026-03-23
+readingTime: 15
+lastVerified: 2026-07-18
 lastHumanReview: true
 featured: false
 translatedFrom: Economy/經濟奇蹟.md

@@ -17,14 +17,16 @@ tags:
   ]
 subcategory: '팝 음악'
 category: 'Music'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12min
-featured: true
+featured: false
 translatedFrom: 'Music/五月天.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2d73cb00a5f5d254'
 sourceBodyHash: 'sha256:7f6b080a953be003'
 translatedAt: '2026-04-14T09:55:38+08:00'
+lastVerified: 2026-04-13
+lastHumanReview: true
 ---
 
 # 메이데이 (五月天)

@@ -5,7 +5,15 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '民主與政治'
-tags: ['사회운동', '시민 참여', '민주주의', '야생백합 학생운동', '해바라기 운동', '사회개혁']
+tags:
+  [
+    '사회운동',
+    '시민 참여',
+    '민주주의',
+    '야생백합 학생운동',
+    '해바라기 운동',
+    '사회개혁',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +23,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:3135e379b382138b'
 sourceBodyHash: 'sha256:8080c3b51d96ed0a'
 translatedAt: '2026-05-20T05:08:30+08:00'
+difficulty: 'intermediate'
 ---
 
 # 사회운동과 시민 참여
@@ -290,9 +299,13 @@ translatedAt: '2026-05-20T05:08:30+08:00'
 - [해저 케이블: 실리콘 방패 위에서는 보이지만 생명선 아래에서는 보이지 않는다](/technology/海底電纜) — 해저 케이블 7법 입법, 핑둥 공동방위 플랫폼, 훙타이 58호 사법 첫 사례는 시민사회 압력이 국가안보 기반시설 입법을 추진한 축선을 보여 준다
 
 [^1]: 허밍슈, 「야생백합 학생운동 사료」, 『학생운동 세대: 야생백합에서 해바라기까지』 수록, https://www.books.com.tw/products/0010642379
+
 [^2]: 샤오신황(편), 『대만의 새로운 사회운동』, 쥐류도서, https://www.books.com.tw/products/0010479654
+
 [^3]: 사법원, 「석자 제748호 해석 시행법」, https://cons.judicial.gov.tw/
+
 [^4]: 대만환경정보협회, 「반듀폰 사건의 전말」, https://e-info.org.tw/
+
 [^5]: 사법원, 「대법관 석자 제748호 해석」, https://cons.judicial.gov.tw/
 
 ## 참고 자료

@@ -1,18 +1,19 @@
 ---
 title: '랴오훙기(廖鴻基): 포경선에서 난류 표류까지, 생명으로 타이완 해역을 재는 해양 작가'
 description: '랴오훙기는 1992년 전직하여 어부의 삶을 살았으며, 흑조해양문화교육재단을 설립하고 「흑조101」과 「향고래 π 프로젝트」를 통해 타이완인의 해양 시각을 재정립한 현대 해양문학과 생태보전의 핵심 추진자이다.'
-date: '2026-04-29'
+date: 2026-04-29
 author: 'idlccp1984'
 category: 'People'
 tags: ['해양문학', '흑조(黑潮)', '고래·돌고래 보전', '화롄(花蓮)', '향고래']
-readingTime: '12'
-lastVerified: '2026-04-29'
+readingTime: 12
+lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: 'People/廖鴻基.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
 translatedAt: '2026-05-01T22:19:01+08:00'
+featured: false
 ---
 
 # 랴오훙기(廖鴻基)

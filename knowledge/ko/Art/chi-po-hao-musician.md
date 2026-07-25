@@ -1,7 +1,7 @@
 ---
 title: '치포하오: 경제학에서 소리로 들어선 사람, 알고리즘으로 한 가지를 묻다 - 당신은 정말 듣고 있는가'
 description: '치포하오(Pohao Chi)는 1989년생 음향 예술가, 작곡가, 큐레이터이다. 국립대만대학교 경제학과를 졸업하고 런던 골드스미스 대학교에서 음악 석사학위를 받았으며, 2021년 MIT Art, Culture and Technology 석사과정 재학 중 Harold and Arlene Schnitzer Prize 시각예술 부문 1등상을 수상했다. 2014년에는 타이베이 미술상에 입선하고, 국립대만미술관의 지원으로 네덜란드 로테르담 V2 레지던시에 참여했으며, 클라우드 게이트의 「방랑자 계획」에도 선정되었다. 2015년에는 허시 회랑을 따라 1,000킬로미터 넘게 이동했고, 2017년에는 Zone Sound Creative를 설립했다. 2025년에는 C-LAB DIVERSONICS에서 《朗誦者 2.0》을 발표하고, 《Cybernetics of Waterscape》로 Ars Electronica 2025 Polyphony 대만관에 선정되었다. 2026년 3월에는 파리 IRCAM Forum Workshops에 참여했으며, 같은 해 4월 《Life in Motion》이 로스앤젤레스 The Music Center에서 전시되었다. 그는 알고리즘, GPS, AI 합성 음성으로 세계를 측정하지만, 끝내 같은 질문을 붙든다. 「듣기」라는 행위에는 아직 자기 의지가 남아 있는가.'
-date: '2026-04-21'
+date: 2026-04-21
 author: 'Taiwan.md Contributors'
 category: 'Art'
 subcategory: '聲音藝術'
@@ -26,7 +26,7 @@ tags:
     'The Music Center',
   ]
 readingTime: 16
-lastVerified: '2026-05-15'
+lastVerified: 2026-05-15
 lastHumanReview: true
 featured: false
 translatedFrom: 'Art/紀柏豪.md'

@@ -4,7 +4,7 @@ description: '간장소스, 사차소스, 달콤매운 소스, 두반장 등 타
 date: 2026-03-20
 tags: ['소스', '조미료', '음식문화', '타이완맛', '발효식품']
 subcategory: '식재료와 조미료'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 7
 category: 'Food'
 featured: false
@@ -17,6 +17,7 @@ sourceBodyHash: 'sha256:165e3d5c431f4c83'
 translatedAt: '2026-04-14T04:09:26+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Deep_dish_pizza%2C_homemade%2C_with_tomato_paste_and_a_little_soy_sauce%2C_mixed_vegetables%2C_chicken%2C_stewed_beef%2C_mozzarella%2C_and_cheddar_cheeses_-_Massachusetts.jpg/960px-Deep_dish_pizza%2C_homemade%2C_with_tomato_paste_and_a_little_soy_sauce%2C_mixed_vegetables%2C_chicken%2C_stewed_beef%2C_mozzarella%2C_and_cheddar_cheeses_-_Massachusetts.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'beginner'
 ---
 
 # 타이완 소스와 조미료

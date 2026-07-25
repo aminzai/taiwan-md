@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
 translatedAt: '2026-05-16T22:35:46Z'
+featured: false
 ---
 
 # 대만 수달: 금문 유라시아 수달의 고립된 섬 생존기와 본조의 조용한 소멸

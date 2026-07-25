@@ -1,13 +1,13 @@
 ---
 title: '천준량: 시적 디자이너, 동양 미학의 현대적 번역자'
 description: '천준량은 1958년 타이난에서 태어나 29세에 「프리이미지 디자인」(Freeimage Design)을 설립하였으며, 업계에서 「시적 디자이너」로 불린다. 그는 서예, 여백, 동양적 이미지를 통해 현대 디자인 언어를 재해석하였으며, 작품 영역은 출판 제본, 기업 아이덴티티, 국가 행사에 이른다. 2005년 「천원지방」 국만 식기 시리즈가 마카오 디자인 비엔날레 심사위원 대상을 수상하였다. 오랫동안 디자인 교육에 헌신해 온 그는 1980년대 이후 대만에서 가장 영향력 있는 그래픽 디자이너 중 한 명이다.'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '藝術與設計'
 tags:
   ['디자이너', '그래픽 디자인', '디자인 교육', '프리이미지', '시적 디자이너']
-lastVerified: '2026-05-13'
+lastVerified: 2026-05-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳俊良.md'

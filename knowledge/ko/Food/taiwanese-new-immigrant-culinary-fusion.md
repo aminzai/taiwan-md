@@ -4,7 +4,7 @@ description: '태국식 쏨땀이 타이완의 달콤짭짤한 맛을 만날 때
 date: 2026-03-20
 tags: ['신주민음식', '동남아요리', '문화융합', '다문화음식', '이민자문화']
 subcategory: '민족 음식'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md 編輯團隊'
 readingTime: 10
 featured: true
 category: 'Food'

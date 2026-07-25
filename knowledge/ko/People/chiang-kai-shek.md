@@ -5,7 +5,7 @@ date: 2026-03-31
 tags: [정치, 역사, 계엄, 전환적 정의, 냉전]
 subcategory: '정치 인물'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'People/蔣中正.md'
 readingTime: 18
 featured: false
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ad64f216ed170575'
 sourceBodyHash: 'sha256:447dc5d1bea38591'
 translatedAt: '2026-04-14T19:25:05+08:00'
+lastVerified: 2026-03-31
+lastHumanReview: false
 ---
 
 > **30초 요약:** 장제스(1887–1975)는 타이완을 26년간 통치했다. 계엄령은 38년간(1949–1987) 지속됐으며, 세계사에서 가장 오래 지속된 계엄 중 하나다. 그는 한편으로 토지 개혁과 9년 의무교육을 추진하며 타이완 경제 도약의 기초를 놓았고, 다른 한편으로는 2·28 사건에서 군대를 파견해 진압을 명령하고 백색 테러 시기에 수천 명의 처형을 주도했다. 같은 인물이 남긴 두 개의 정반대 역사 기록은 지금도 타이완 사회의 논쟁거리다.

@@ -19,7 +19,7 @@ tags:
   - '다즈'
   - '런런유궁롄'
 subcategory: '음악과 공연'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
@@ -152,7 +152,7 @@ _다즈 공식 MV: 〈인(人)〉. MV에는 달라이 라마 14세가 출연하�
 
 ## 이미지 출처
 
-- 히어로 이미지의 다즈 사진: 嘉義市政府, Wikimedia Commons, 성명표시 라이선스(정부 웹사이트 데이터 개방 선언). 원 파일: [全國獨嘉三日跨年祭 力邀金鐘雙主持（大支）](https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg).
+- 히어로 이미지의 다즈 사진: 嘉義市政府, Wikimedia Commons, 성명표시 라이선스(정부 웹사이트 데이터 개방 선언). 원 파일: [全國獨嘉三日跨年祭 力邀金鐘雙主持（大支）](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>).
 - MC HotDog의 2012년 공연 사진: 邱鈺鋒, Wikimedia Commons, CC BY-SA 4.0. 원 파일: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
 
 ## 참고 자료

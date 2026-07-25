@@ -1,15 +1,15 @@
 ---
 title: '린취웨이: 국제 수상 실체 보드게임 브랜드에서 20만 크리에이터 소프트웨어 플랫폼까지'
 description: '린취웨이(Chi-Wei Lin, 온라인상에서는 CW로 통함)는 대만의 기업가이다. 2014년 그의 교육용 보드게임은 미국의 "Parents'' Choice Awards"에서 레고를 제치고 은메달을 수상했다. 10년 후 그가 설립한 Portaly는 대만 최대의 크리에이터 비즈니스 플랫폼으로 자리 잡았으며, 20만 명이 이를 활용해 영향력을 수익으로 전환했다. 2025년부터 흑자를 기록했으며, 유료 마케팅 없이 유기적 PLG(제품 주도 성장)로 성장했다. 전통 산업에서 소프트웨어로, 다시 AI로 영역을 넓히며 매번 제로베이스에서 재학습했다. 그는 항상 동일한 일을 해왔다: 다른 사람이 한 것을 다른 것으로 바꾸고, 그 방법을 공개적으로 공유하는 것이다.'
-date: '2026-06-17'
+date: 2026-06-17
 author: 'CW Lin (林啟維)'
 category: 'People'
 subcategory: '科技與企業'
 tags: ['창업', 'Portaly', 'PLG', 'AI', 'SaaS', '크리에이터 경제']
-readingTime: '7'
-lastVerified: '2026-07-03'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 7
+lastVerified: 2026-07-03
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/林啟維.md'
 sourceCommitSha: 'cfaa22a5d'
 sourceContentHash: 'sha256:82817fc4c48a612b'

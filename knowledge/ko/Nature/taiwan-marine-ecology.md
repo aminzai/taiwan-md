@@ -15,7 +15,7 @@ tags:
   - 해양 과학
 subcategory: '야생동물'
 category: 'Nature'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 15
 featured: false
 translatedFrom: 'Nature/台灣海洋生態.md'
@@ -23,6 +23,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:34ef5e8d367bee9d'
 sourceBodyHash: 'sha256:d270d18b5c4f802e'
 translatedAt: '2026-04-14T10:48:03+08:00'
+lastVerified: 2026-03-23
+lastHumanReview: false
 ---
 
 # 대만의 해양 생태

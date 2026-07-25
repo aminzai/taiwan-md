@@ -1,15 +1,15 @@
 ---
 title: '농업 기술과 정밀 농업'
 description: '대만이 어떻게 전통 농업에서 고도화된 정밀 농업으로 전환하여 농업의 기적을 창조했는가'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '농업 경제'
 tags: ['정밀 농업', '농업 기술', '난초', '파인애플 감', '스마트 농업']
-readingTime: '11'
-lastVerified: '2026-03-19'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 11
+lastVerified: 2026-03-19
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/農業科技與精緻農業.md'
 sourceCommitSha: '369298aba'
 sourceContentHash: 'sha256:19b72b95becb40d7'

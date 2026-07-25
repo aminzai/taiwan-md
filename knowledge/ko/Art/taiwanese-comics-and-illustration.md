@@ -25,6 +25,7 @@ sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:5275019358614716'
 sourceBodyHash: 'sha256:dd1128570e96c06e'
 translatedAt: '2026-05-24T05:06:32+08:00'
+difficulty: 'beginner'
 ---
 
 # 대만 만화

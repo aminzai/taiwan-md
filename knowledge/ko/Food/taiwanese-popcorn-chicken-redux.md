@@ -6,7 +6,7 @@ tags:
   ['옌수지', '시엔수지', '길거리 음식', '야시장', '튀김', '야식 문화', '바질']
 subcategory: '전통 길거리 음식'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-06-26
 translatedFrom: 'Food/台灣鹽酥雞.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '539c393a'
 sourceContentHash: 'sha256:ff821213812f38cb'
 sourceBodyHash: 'sha256:e39ae3ebbe8cb44c'
 translatedAt: '2026-06-27T00:35:00Z'
+lastHumanReview: true
 ---
 
 > **30초 요약:** 옌수지(鹽酥雞)는 대만을 대표하는 서민 튀김 요리다. 1975년 천팅즈(陳廷智)가 타이베이 시먼딩에서 첫 노점을 열었으며, 독특한 양념 레시피와 후추소금, 바질 잎으로 튀긴 닭 조각은 삽시간에 입소문을 탔다[^1]. 50년이 지난 지금 옌수지 노점은 골목 구석구석에 자리 잡고 있으며, CNN은 두 차례나 이것을 "대만에서 반드시 먹어야 할 음식"으로 선정했다[^2]. 하지만 옌수지의 진짜 매력은 맛 자체보다 그 존재 방식에 있다 — 가게도, 간판도 없이 포장마차 하나, 기름 한 솥, 바질 한 움큼으로 영업하는 '심야 기반 시설'.

@@ -13,15 +13,16 @@ tags:
     '편의점커피',
   ]
 subcategory: '음료 문화'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 category: 'Food'
 lastVerified: 2026-03-23
-lastHumanReview: false
+lastHumanReview: true
 translatedFrom: 'Food/台灣咖啡產業.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bf3c7b57d2ee1eb5'
 sourceBodyHash: 'sha256:9eb2ce39000f61fe'
 translatedAt: '2026-04-14T03:55:14+08:00'
+featured: false
 ---
 
 # 타이완 커피 산업

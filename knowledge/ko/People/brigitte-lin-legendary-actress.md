@@ -5,13 +5,16 @@ date: 2026-03-19
 tags: ['린 칭샤', '배우', '경요 영화', '동방불패', '화어 영화']
 subcategory: '영화와 드라마'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 translatedFrom: 'People/林青霞.md'
 sourceCommitSha: '7415dcaa'
 sourceContentHash: 'sha256:2b4a824289c241f9'
 sourceBodyHash: 'sha256:12badc0094297f08'
 translatedAt: '2026-05-17T05:33:00Z'
+featured: false
+lastVerified: 2026-03-19
+lastHumanReview: false
 ---
 
 # 린 칭샤: 순정 여신에서 무협 전설로
@@ -91,7 +94,11 @@ translatedAt: '2026-05-17T05:33:00Z'
 - [동방불패 — 홍콩 영화금상장 협회](https://www.hkfaa.com/) — 클래식 작품 평가
 
 [^1]: 위키백과 〈린 칭샤〉 항목: 쑹 춘수는 감독이며, 그녀에게 《창밖》(1973) 주연을 제안했다. https://zh.wikipedia.org/wiki/林青霞
+
 [^2]: 《창밖》(1973)은 쑹 춘수 감독의 작품이며, 린 칭샤가 처음 주연을 맡았고, 경요 동명 소설을 원작으로 한다. 대만 영화 데이터베이스 작품 자료: https://taiwancinema.bamid.gov.tw/
+
 [^3]: 린 칭샤는 1994년 6월 29일 홍콩 사업가 싱 리위안과 결혼한 뒤 연예계에서 물러났다. 관련 보도는 위키백과 「린 칭샤」 항목 참조 <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
+
 [^4]: 《소오강호II 동방불패》(1992)는 서극 감독 작품으로, 린 칭샤가 동방불패를 연기하며 홍콩 필름 아카이브가 소장한다. https://www.filmarchive.gov.hk/
+
 [^5]: 린 칭샤 저 《창 안과 창 밖》, 천지도서, 2011년. 본 책은 그녀의 주요 산문집으로 문학계의 긍정적 평가를 받았다. <https://www.books.com.tw/products/0010512315>

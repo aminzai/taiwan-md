@@ -6,7 +6,7 @@ tags:
   ['로봇', '정밀기계', '반도체', 'AI', '산업전환', '하이윈', 'NCAIR', '2026']
 subcategory: '기술 산업'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 13
 featured: true
 translatedFrom: 'Technology/台灣機器人產業.md'
@@ -15,6 +15,8 @@ sourceCommitSha: '38412654'
 sourceContentHash: 'sha256:727c897f10782c2b'
 sourceBodyHash: 'sha256:3b63599a42d7872a'
 translatedAt: '2026-06-02T00:40:00+08:00'
+lastHumanReview: false
+difficulty: 'intermediate'
 ---
 
 # 대만 로봇 산업

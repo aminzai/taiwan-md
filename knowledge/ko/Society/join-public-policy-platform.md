@@ -1,7 +1,7 @@
 ---
 title: '공공정책 네트워크 참여 플랫폼: ‘제안하기’에서 시작된 디지털 민주주의 피트니스룸'
 description: '2015년에 출시된 JOIN 플랫폼은 미국 백악관 청원 사이트를 참고해 ‘5,000명 동의’라는 문턱을 설정하고, 암 환자와 고등학생도 직접 정부 결정을 흔들 수 있게 하여 타이완 디지털 민주주의의 대표 실험장으로 자리매김했다.'
-date: '2026-06-19'
+date: 2026-06-19
 category: 'Society'
 tags:
   - '디지털 민주주의'
@@ -14,9 +14,9 @@ tags:
 subcategory: '민주와 정치'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: '2026-06-19'
+lastVerified: 2026-06-19
 lastHumanReview: false
-readingTime: '15'
+readingTime: 15
 translatedFrom: 'Society/公共政策網路參與平臺.md'
 sourceCommitSha: '194696f07'
 sourceContentHash: 'sha256:e50c6305fdf357b3'

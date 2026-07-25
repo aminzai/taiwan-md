@@ -1,7 +1,7 @@
 ---
 title: '린유자(林宥嘉): 만점 25점의 〈Creep〉에서 완벽할 필요가 없음을 인정하기까지의 17년'
 description: '2007년 7월 6일, 스무 살의 린유자는 Radiohead의 〈Creep〉로 《슈퍼 스타 광장(超級星光大道)》 1회 만점 25점 우승을 차지했다. 이후 세 차례 금상(金曲獎) 남자 가수상에 도전했으나 모두 실패했고, 2018년부터 과민성 대장증후군으로 6년간 활동을 중단했다. 2024년 《왕 러브, 로드(王 Love, Lord)》에서 네 명의 프로듀서 중 한 명으로 직접 참여한 후에야 그는 이렇게 말했다: "과거의 저는 까다로웠고, 항상 최고의 모습을 보여주고 싶었습니다." 17년이 걸려서야 배운 한 가지는 완벽을 쫓지 않는 것이다.'
-date: '2026-04-20'
+date: 2026-04-20
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '流行音樂'
@@ -16,14 +16,15 @@ tags:
   - '가수'
   - '프로듀서'
   - '핑둥'
-readingTime: '10'
-lastVerified: '2026-05-18'
+readingTime: 10
+lastVerified: 2026-05-18
 lastHumanReview: false
 translatedFrom: 'People/林宥嘉.md'
 sourceCommitSha: 'b358c802'
 sourceContentHash: 'sha256:81084f8c4d60488a'
 sourceBodyHash: 'sha256:e37ed40c36801365'
 translatedAt: '2026-05-01T20:54:10+08:00'
+featured: false
 ---
 
 > **30초 개요:**

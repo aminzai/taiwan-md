@@ -14,7 +14,7 @@ tags:
     '푸방 엔젤스',
     'CPBL',
   ]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/南珉貞.md'
@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:6b588911c485c4d9'
 sourceBodyHash: 'sha256:3582a490ea4120f2'
 translatedAt: '2026-05-17T06:30:00Z'
+lastHumanReview: false
 ---
 
 > **30초 요약:** 남민정의 키워드는 ‘바이럴 스파이크’가 아니라 ‘머물렀다’다. 그녀는 푸방에서 시즌을 넘겨 높은 가시 슬롯을 지켰고, 대만 한국 서포트를 일회성 버즈에서 예측 가능한 프로 루틴으로 바꿨다.

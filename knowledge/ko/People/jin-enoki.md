@@ -15,7 +15,7 @@ tags:
     '뉴미디어',
     '대만',
   ]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/金針菇.md'
@@ -24,6 +24,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:a4d0a0070adaa30d'
 sourceBodyHash: 'sha256:4b10f11517195560'
 translatedAt: '2026-05-17T05:33:00Z'
+lastHumanReview: false
 ---
 
 > **30초 요약:** 김(통칭 ‘금침구’)은 구장 한국 서포트가 아니다——원거리 크리에이터다. 중국어로 대만 생활을 기록해 ‘대만의 한국인’을 정주행 가능한 장르로 만들었고, 단일 영상·이벤트를 넘어선 영향력을 가진다.

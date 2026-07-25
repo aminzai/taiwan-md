@@ -6,12 +6,14 @@ category: 'History'
 subcategory: '선사시대와 원주민'
 tags: ['원주민족', '정명운동', '정체성', '사회운동', '문화보존']
 featured: false
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
 sourceCommitSha: '1e674def'
 sourceContentHash: 'sha256:5abb3efb22ea6c92'
 sourceBodyHash: 'sha256:93eb4a0251be6dd2'
 translatedAt: '2026-04-14T04:54:47+08:00'
+lastVerified: 2026-03-29
+lastHumanReview: false
 ---
 
 # 타이완 원주민족 역사와 정명운동

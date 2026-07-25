@@ -1,7 +1,7 @@
 ---
 title: '대만 드론 산업: 타이중 장난감 비행기에서 블루 리스트까지, 한 장의 입장권이 레이후에게 돌아온 날'
 description: '2025년 9월 21일, 레이후 테크놀로지(雷虎科技)의 Overkill FPV 자폭 드론이 미국 국방부 블루 리스트(Blue UAS Cleared List) 인증을 통과했다. 대만 최초이자, 현재까지 유일한 대만 기업이다. 전체 리스트에는 39개 기체 플랫폼과 165개 부품이 올라 있으며, 대만은 그중 단 하나의 자리를 차지하고 있을 뿐이다. 2026년 4월 미국 초당파 상원의원 4명이 공동으로 「Blue Skies for Taiwan Act」를 발의하여 대만 업체에 대한 패스트트랙 구축을 요구했다. 법안의 존재 자체가 한 폭로하는 것이 있다: 대만의 진입이 너무 느려서 미국 스스로가 문턱을 낮추기 위해 입법을 해야 했다는 사실이다. 타이중에서 46년간 무선 조종 장난감 비행기를 만들어 온 한 회사가 오하이오주에 두 번째 공장을 건설할 계획을 세우고 있다.'
-date: '2026-04-08'
+date: 2026-04-08
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: 'Technology'
@@ -15,8 +15,8 @@ tags:
     'AI',
     'Blue UAS',
   ]
-readingTime: '16'
-lastVerified: '2026-05-10'
+readingTime: 16
+lastVerified: 2026-05-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/台灣無人機產業.md'

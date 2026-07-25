@@ -5,7 +5,7 @@ date: 2026-03-24
 tags: ['큐레이터', '현대미술', '문화 구축', '미술관', '예술 담론']
 subcategory: '현대미술'
 category: 'Art'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-24
@@ -14,6 +14,7 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:01e74babf94ac8da'
 sourceBodyHash: 'sha256:859c873057ee681d'
 translatedAt: '2026-05-13T01:08:20Z'
+lastHumanReview: false
 ---
 
 # 대만의 큐레이터와 예술 문화 구축

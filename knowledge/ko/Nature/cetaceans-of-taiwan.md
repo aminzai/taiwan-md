@@ -15,13 +15,16 @@ tags:
   ]
 subcategory: '야생동물'
 category: 'Nature'
-author: 'Taiwan.md Translation Team'
+author: '海女'
 readingTime: 12
 translatedFrom: 'Nature/臺灣的鯨豚.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:fa8568c6d129180a'
 sourceBodyHash: 'sha256:7c0ff1bf77404541'
 translatedAt: '2026-05-17T05:33:00Z'
+featured: false
+lastVerified: 2026-03-19
+lastHumanReview: false
 ---
 
 # 대만의 고래와 돌고래
@@ -130,9 +133,15 @@ translatedAt: '2026-05-17T05:33:00Z'
 ## 참고 자료
 
 [^1]: [중화흰돌고래 개체수 조사 - The News Lens 관건평론](https://www.thenewslens.com/article/255968) — 중화흰돌고래 2025년 최신 조사 개체군 약 45~50마리, 60% 이상 외상 보유 확인.
+
 [^2]: [고래류 보전 계획 - 해양위원회 해양보전서](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — 해보서 중화흰돌고래 및 고래류 보전 계획 공고판.
+
 [^3]: [친환경 고래 관광 가이드 - 해양위원회 해양보전서](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — 대만 고래 관광 생태관광 규범.
+
 [^4]: [중화고래류협회](https://www.whale.org.tw/) — 대만 고래류 연구와 보전을 추진하는 민간 단체.
+
 [^5]: [구로시오해양문화교육재단](https://www.kuroshio.org.tw/newsite/) — 화롄 고래류 연구와 시민 과학 추진 기관.
+
 [^6]: [대만만야심족생태협회](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — 중화흰돌고래 보전 옹호 단체.
+
 [^7]: [해양위원회 해양보전서](https://www.oca.gov.tw/) — 대만 해양 보전 주관기관. 고래류 서식지 보호와 개발 규제를 추진.

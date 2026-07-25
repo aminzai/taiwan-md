@@ -28,6 +28,7 @@ image: '/article-images/technology/alphafold-cbln1-structure-2025.webp'
 imageCredit: 'BQUB25-UPoch (own work, AlphaFold + PyMOL)'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png'
+difficulty: 'advanced'
 ---
 
 # 대만 인공지능 발전과 미래 전략: 하드웨어 입장권은 얻었다, 다음 전장은 어디인가

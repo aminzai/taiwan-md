@@ -6,7 +6,7 @@ category: People
 subcategory: '팝 문화'
 tags:
   ['팝 문화', '안지현', '한국', '치어리딩', 'TSG 호크스', '윙 스타즈', '가오슝']
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13
 translatedFrom: 'People/安芝儇.md'
@@ -15,6 +15,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:b13816d98f58f322'
 sourceBodyHash: 'sha256:56208a71719992d2'
 translatedAt: '2026-05-17T05:33:00Z'
+lastHumanReview: false
 ---
 
 > **30초 요약:** 2023년 타이강이 CPBL에 들어왔을 때 안지현은 윙 스타즈 체계에 합류해 오랫동안 앞줄에 서 왔다. 2026년 5월 타이강이 타이베이 돔으로 무대를 옮긴 기간, 언론은 「오른쪽 어깨 탈구」 등 부상 서사로 그녀가 사이드 라인과 경기 후 공연을 어떻게 조정하는지를 보도했다. 인기 외국인 응원단도 신체적 위험과 일정 압박을 마주해야 함을 보여준다.

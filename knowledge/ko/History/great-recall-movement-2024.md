@@ -2,11 +2,11 @@
 title: '대면직(大罷免)'
 description: '2025년, 타이완 시민사회는 역사상 최대 규모의 면직(罷免) 행동을 전개하여 논쟁적인 법안을 추진한 국민당 의원들을 겨냥하고, 입법원(立法院)의 권력 불균형을 시정하고자 했다. 최종적으로 세 차례의 투표가 모두 부결되면서, 타이완 직접민주주의의 대규모 실천이자 시험이 되었다.'
 date: 2026-04-13
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'History'
 tags: ['면직', '국민당', '시민행동', '입법원', '양안관계', '2025']
-lastVerified: 2026-04-13
-lastHumanReview: true
+lastVerified: 2026-07-16
+lastHumanReview: false
 featured: true
 translatedFrom: History/大罷免.md
 sourceCommitSha: '4b6d28c5'
@@ -17,6 +17,8 @@ image: '/article-images/history/recall-bluebird-legislative-yuan-2024.webp'
 imageCredit: 'Fujifilmuser Taiwan'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20240528-8_A_look_in_front_of_the_legislative_yuan.jpg'
+readingTime: 22
+difficulty: 'intermediate'
 ---
 
 > **30초 개요:**

@@ -25,6 +25,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:eb7e3bede251836b'
 sourceBodyHash: 'sha256:8ae89739a53e0a1f'
 translatedAt: '2026-05-01T22:19:01+08:00'
+featured: false
 ---
 
 # 수초혜: 「충충충」의 그림자 아래, 법률과 디테일로 신베이를 기획하는 큐레이터

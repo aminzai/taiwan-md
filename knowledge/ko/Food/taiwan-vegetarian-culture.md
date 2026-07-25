@@ -4,7 +4,7 @@ description: '채식 인구 비율 세계 3위, 불교 채식 전통에서 현�
 date: 2026-03-19
 tags: ['채식', '불교', '채식고기', '자제공덕회', '채식식당']
 subcategory: '음식 철학'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 category: 'Food'

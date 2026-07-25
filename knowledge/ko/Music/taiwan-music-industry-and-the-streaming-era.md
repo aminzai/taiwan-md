@@ -1,13 +1,21 @@
 ---
 title: '대만 음악 산업과 스트리밍 시대: 레코드 매장에서 디지털 플랫폼으로의 전환 여정'
 description: '대만 음악 산업이 레코드 매장 황금시대를 거쳐 불법 복제 위기를 극복하고, 세계 최초의 합법 스트리밍 플랫폼 KKBOX를 개발하여, 오늘날 Spotify, Apple Music과 공존하는 디지털 음악 생태계를 이룩하기까지의 과정을 탐구한다'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '獨立與搖滾'
-tags: ['음악 산업', '스트리밍 음악', 'KKBOX', '디지털 음악', '레코드 매장', '인디 음악']
-readingTime: '15'
-lastVerified: '2026-03-19'
+tags:
+  [
+    '음악 산업',
+    '스트리밍 음악',
+    'KKBOX',
+    '디지털 음악',
+    '레코드 매장',
+    '인디 음악',
+  ]
+readingTime: 15
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/台灣音樂產業與串流時代.md'
@@ -219,12 +227,21 @@ Spotify의 장점은 다음과 같다:
 ## 참고 자료
 
 [^1]: 五月天 2001년 앨범은 《인생해해(人生海海)》이며, 《제2인생(第二人生)》은 2011년에 발매되었다. [五月天 위키백과 항목](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%9C%88%E5%A4%A9) 참조
+
 [^2]: [KKBOX 공식 웹사이트](https://www.kkbox.com/) — KKBOX 발전 과정과 서비스 소개
+
 [^3]: [《대만 음악 산업 발전사》, 문화부 영화 및 대중음악 산업국](https://www.bamid.gov.tw/) — 공식 산업 통계 자료
+
 [^4]: [《스트리밍 음악이 대만 음악 생태를 바꾸다》, INSIDE, 2020](https://www.inside.com.tw/article/21245-streaming-music-taiwan) — 스트리밍 음악 시장 분석
+
 [^5]: [《KKBOX 창립자 린관춘》, 비즈니스 위클리, 2018](https://www.businessweekly.com.tw/focus/blog/3007895) — KKBOX 창립자 인터뷰
+
 [^6]: [《Spotify의 대만 시장 진출 전략 분석》, 브레인 매거진, 2014](https://www.brain.com.tw/news/articlecontent?ID=19234) — 국제 플랫폼 경쟁 분석
+
 [^7]: [《초동무파당: 인디 음악의 디지털 성공학》, 더뉴스렌즈, 2017](https://www.thenewslens.com/article/68492) — 인디 음악 사례 분석
+
 [^8]: [《대만 음악 스트리밍 시장 조사 보고서》, 산업정보연구소 MIC, 2021](https://mic.iii.org.tw/aisp/reports.aspx?id=CDOC20210324001) — 시장 데이터 통계
+
 [^9]: [《COVID-19가 대만 음악 산업에 미친 영향》, 문화부, 2021](https://www.moc.gov.tw/information_250_137321.html) — 팬데믹 영향 분석
+
 [^10]: [《디지털 음악 저작권과 분배 메커니즘》, 대만 음악 저작권 협회](http://www.must.org.tw/) — 저작권 분배 메커니즘 설명

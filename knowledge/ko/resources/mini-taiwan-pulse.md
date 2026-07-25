@@ -8,6 +8,11 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:409b7d5c9d0f3bbd'
 sourceBodyHash: 'sha256:215016d553b05404'
 translatedAt: 2026-05-01T22:19:01+08:00
+author: 'Taiwan.md'
+featured: false
+lastVerified: 2026-03-22
+lastHumanReview: false
+category: 'resources'
 ---
 
 # Mini Taiwan Pulse — 대만 교통 실시간 3D 시각화 🌐

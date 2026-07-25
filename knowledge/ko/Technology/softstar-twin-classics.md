@@ -1,7 +1,7 @@
 ---
 title: '대우쌍검: 그 오후 당신은 DOS 창에서 울었다'
 description: '1995년 7월, 320×200 해상도의 DOS 게임 하나가 수백만 명의 플레이어로 하여금 처음으로 가상의 인물 때문에 눈물을 흘리게 했다. 선협기전과 현원검, 타이베이 네이후에서 벼려 나온 두 자루의 검은 중문권 세계에 대해 "RPG가 무엇이 될 수 있는가"에 대한 상상 자체를 정의했다.'
-date: '2026-04-23'
+date: 2026-04-23
 author: 'zaious'
 category: 'Technology'
 subcategory: '社群與數位文化'
@@ -16,10 +16,10 @@ tags:
     'DOMO',
     '대만게임',
   ]
-readingTime: '16'
-lastVerified: '2026-04-23'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 16
+lastVerified: 2026-04-23
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/大宇雙劍.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:99d1ed1be7085b4c'

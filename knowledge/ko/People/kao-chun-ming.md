@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: '정치와 민주주의'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'People/高俊明.md'
@@ -23,6 +23,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:eaeba845240b369e'
 sourceBodyHash: 'sha256:b37aec09305a898c'
 translatedAt: '2026-04-15T17:32:22+08:00'
+lastVerified: 2026-03-22
+lastHumanReview: false
 ---
 
 > **30초 요약:** 가오쥔밍 목사(1929-2019)는 메이리다오 사건 도주자 스밍더를 숨겨준 혐의로 4년 복역했다. 두 사람은 그 전까지 공개 석상에서 멀찌감치 마주친 것이 전부인 거의 낯선 사이였다. 도덕적 의무와 현실적 위험이 충돌했을 때 그가 선택한 것은 전자였다. 이것은 그 신앙의 선택에 관한 이야기다.

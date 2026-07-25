@@ -19,7 +19,7 @@ tags:
   - '시먼딩'
   - '전자담배'
 subcategory: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
 lastHumanReview: false

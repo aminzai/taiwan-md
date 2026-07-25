@@ -5,7 +5,7 @@ date: 2026-03-28
 tags: ['건축', '문화', '역사', '원주민', '일제시대']
 subcategory: '건축'
 category: 'Art'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: true
 readingTime: 15
 translatedFrom: 'Art/台灣建築.md'
@@ -14,6 +14,7 @@ sourceCommitSha: 'eac12cd9'
 sourceContentHash: 'sha256:211251c042500a3e'
 sourceBodyHash: 'sha256:41c2c3ee5e118612'
 translatedAt: '2026-07-03T16:37:31Z'
+lastHumanReview: true
 ---
 
 # 대만 건축: 문화 교차의 입체 서사시

@@ -5,13 +5,15 @@ date: 2026-03-20
 tags: ['디지털영상', '애니메이션', '시각효과', '문화창작산업', '영상산업']
 subcategory: '디지털 엔터테인먼트'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
 lastVerified: 2026-03-20
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:692543a60baf3299'
 sourceBodyHash: 'sha256:bb5064886298647d'
 translatedAt: '2026-04-14T06:57:58+08:00'
+featured: false
+lastHumanReview: true
 ---
 
 # 대만 디지털 영상 및 애니메이션 산업

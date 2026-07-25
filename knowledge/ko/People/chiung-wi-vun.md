@@ -5,13 +5,15 @@ date: 2026-03-23
 category: 'People'
 subcategory: '학술 및 교육'
 tags: ['언어학자', '대만어 문학 운동', '모어 교육', '베트남 연구']
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 translatedFrom: 'People/蔣為文.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:46faaa4a99788548'
 sourceBodyHash: 'sha256:161cfe479ea8068c'
 translatedAt: '2026-04-14T19:25:05+08:00'
+lastVerified: 2026-03-23
+lastHumanReview: true
 ---
 
 > **30초 요약:** 장웨이원(蔣為文)은 대만어 문학 운동의 가장 급진적인 추진자로, 2011년 대만 문학관에서 "대만 작가가 대만어가 아닌 중국어로 창작하는 것은 수치스럽다!"는 피켓을 들고 황춘밍(黃春明)의 강연을 방해하며 전국적인 논쟁을 불러일으켰다. 단장대학 기계공학과를 졸업한 이 학자는 이후 대만에서 손꼽히는 베트남어 전문가가 되었으며, 현재 국립성공대학교(成大) 대만문학과 학과장을 맡고 있다. 그는 30년에 걸쳐 언어는 단순한 도구가 아니라 민족 정체성의 핵심 전장임을 증명했다.

@@ -1,11 +1,11 @@
 ---
 title: '왜 대만은 자체 지식 기반이 필요한가'
 description: 'AI 모델이 인간의 언어로 타인이 쓴 이야기를 말할 때, 대만인은 어떻게 자신의 이야기가 바뀌지 않도록 할 수 있을까?'
-date: 2026-03-19
+date: 2026-07-17
 tags: ['AI', '정보전', '오픈소스', 'SSOT', '지식주권', '대만']
 category: 'About'
-author: 'Taiwan.md Translation Team'
-readingTime: 8
+author: 'Taiwan.md'
+readingTime: 18
 translatedFrom: 'About/為什麼台灣需要自己的知識庫.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:62ec81a90f901dec'
@@ -13,6 +13,9 @@ sourceBodyHash: 'sha256:352de879384e19e9'
 translatedAt: '2026-06-16T17:10:38Z'
 image: /article-images/about/taiwan-md-homepage-2026.webp
 imageCredit: 'Taiwan.md 首頁 · taiwan.md · CC BY-SA 4.0'
+featured: false
+lastVerified: 2026-07-17
+lastHumanReview: false
 ---
 
 # 왜 대만은 자체 지식 기반이 필요한가

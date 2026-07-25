@@ -32,6 +32,7 @@ image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:FreeCAD_1.0_Dark_BIM_Example.png'
+featured: true
 ---
 
 # Taiwan's BIM and Construction Tech: Twelve Years of Case-by-Case Government Push Rewritten by an 18-Month Protocol

@@ -5,12 +5,15 @@ date: 2026-03-22
 tags: [인물, 정치인, 여성운동, 부총통, 메이리다오 사건]
 subcategory: '정치와 민주주의'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'People/呂秀蓮.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4f2e975be9df55bf'
 sourceBodyHash: 'sha256:e2af78942d7ac0ac'
 translatedAt: '2026-05-13T01:08:20Z'
+featured: false
+lastVerified: 2026-03-22
+lastHumanReview: false
 ---
 
 > **30초 요약:** 1979년 뤼슈렌은 메이리다오 사건으로 징역 12년을 선고받았다. 그리고 2000년, 그녀는 중화권 최초의 여성 부총통이 되었다. 타이완 여성운동의 선구자인 그녀는 20년에 걸쳐 감옥에서 총통부까지 걸어오며, 권위주의에서 민주주의로의 완전한 전환을 직접 증언했다.

@@ -1,7 +1,7 @@
 ---
 title: '타이완 과일 왕국'
 description: '과일 왕국의 명성 아래 수입 과일 연간 생산액이 302억 신기록을 세우는 사이, 국내 생산량은 10년간 20% 감소 — 달콤한 명성 뒤에 숨겨진 냉혹한 현실'
-date: 2026-03-24
+date: 2026-07-08
 tags:
   [
     '과일',
@@ -17,10 +17,10 @@ tags:
   ]
 subcategory: '식재료와 조미료'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
-readingTime: 8
+author: 'Taiwan.md'
+readingTime: 16
 featured: true
-lastVerified: 2026-03-24
+lastVerified: 2026-07-08
 lastHumanReview: false
 translatedFrom: 'Food/台灣水果王國.md'
 sourceCommitSha: '4b6d28c5'
@@ -30,6 +30,7 @@ translatedAt: '2026-04-14T03:55:14+08:00'
 image: '/article-images/food/fruit-kingdom-mango-fangliao-2009.webp'
 imageCredit: '陳偉城栽種、屏東枋寮 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 2.0'
+difficulty: 'intermediate'
 ---
 
 # 타이완 과일 왕국

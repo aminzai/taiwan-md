@@ -1,7 +1,7 @@
 ---
 title: '딩타이펑: 기름가게에서 미쉐린까지, 샤오룽바오 한 알은 어떻게 세계인의 입맛을 사로잡았나'
 description: '1958년, 양빙이는 타이베이에 딩타이펑 기름가게를 세웠다. 업종 전환과 2대 경영자 양지화의 운영을 거치며, 딩타이펑은 엄격한 ‘18주름 21그램’ 기준과 사람 중심의 서비스 철학으로 타이완의 샤오룽바오를 국제 무대에 올렸고, 미쉐린 스타급 외식의 전설이 되었다.'
-date: '2026-06-25'
+date: 2026-06-25
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '精緻餐飲'
@@ -18,7 +18,7 @@ tags:
     '음성 관리',
   ]
 readingTime: 15
-lastVerified: '2026-06-25'
+lastVerified: 2026-06-25
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/鼎泰豐.md'

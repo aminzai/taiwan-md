@@ -5,7 +5,7 @@ date: 2026-03-24
 category: 'Economy'
 tags: ['Economy', '기업', '해운업', '물류', '국제 무역']
 subcategory: '기업 열전'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 9
 featured: false
 lastVerified: 2026-03-24
@@ -14,6 +14,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:8bed402beaecae31'
 sourceBodyHash: 'sha256:97f9ec5722ee27b9'
 translatedAt: '2026-05-17T06:30:00Z'
+lastHumanReview: false
 ---
 
 > **30초 요약**

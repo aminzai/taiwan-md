@@ -29,6 +29,7 @@ sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:2f12f91cbf28ef93'
 sourceBodyHash: 'sha256:f96db07a5b8f044c'
 translatedAt: '2026-06-10T16:42:09Z'
+featured: false
 ---
 
 > **30-Second Overview:** Whyte (real name Lin Zhiyi, born 1994, from Hsinchu Xiangshan) won the Best New Artist award at the 32nd Golden Melody Awards on August 21, 2021[^10]. On the same night, Hebe Tien won Best Female Artist, and Doggy won Best Male Artist. What made Whyte's speech go viral was her words to the national audience: "**Please don't be afraid**."[^11] She stated on stage: graduated from Hsinchu Girls' High School, entered the Department of Medicine at the Medical College of the National Defense Medical University and studied for nine years (including one year of suspension in her junior year, including one year of delayed graduation; the originally two-year internship took three years because she did not follow doctors for consultations), completed intern physician training, and obtained a Bachelor of Medicine degree[^29]. On the track where Taiwan's best students compete, she pressed the pause button midway: first, the year of suspension where she worked three jobs a day[^5], then released her first song "Cazzo" in 2019[^7], released _A Bedroom of One's Own_ in 2020[^9], and when she won the award, she was still wearing a mask in the operating room as an intern physician during the day[^25]. Then she didn't go back to be a doctor.

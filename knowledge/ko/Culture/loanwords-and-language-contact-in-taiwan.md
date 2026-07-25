@@ -5,7 +5,7 @@ date: 2026-03-23
 tags: ['언어학', '사회언어학', '대만 문화', '언어 접촉', '외래어']
 subcategory: '언어와 문자'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 translatedFrom: 'Culture/台灣外來語與語言接觸.md'
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:eec4f271a84a1f94'
 sourceBodyHash: 'sha256:8e1b986c4cf0a1f3'
 translatedAt: '2026-06-16T17:19:04Z'
+lastHumanReview: false
 ---
 
 > **30초 개요:** 대만인이 가장 자주 비판하는 '외래어' 현상, 그런데 사실 대만 자체가 세계에서 가장 성공적인 외래어 융합 실험실이다. 일제강점기의 '도시락(便當)', 세계화의 'OK', 오늘날 논쟁 중인 '동영상(視頻)'까지, 이 섬은 다섯 겹의 언어 접촉사를 고스란히 담고 있다. 틱톡이 '중공어 경찰(支語警察)'을 불러냈지만, 언어학은 우리에게 이렇게 말한다. 모든 외래어는 하나의 관계가 남긴 흔적이라고.

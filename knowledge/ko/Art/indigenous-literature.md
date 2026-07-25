@@ -5,14 +5,16 @@ date: 2026-03-24
 tags: ['문학', '원주민', '구전 문학', '오스트로네시아어족', '문화 부흥']
 subcategory: '문학'
 category: 'Art'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 7
 translatedFrom: 'Art/原住民文學.md'
-lastVerified: '2026-03-24'
+lastVerified: 2026-03-24
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c3ce92b18e6d1aeb'
 sourceBodyHash: 'sha256:621573191262d79d'
 translatedAt: '2026-06-16T17:10:38Z'
+featured: false
+lastHumanReview: false
 ---
 
 # 원주민 문학

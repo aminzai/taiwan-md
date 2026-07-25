@@ -19,8 +19,8 @@ subcategory: '音樂'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 16
-lastVerified: 2026-05-02
-lastHumanReview: false
+lastVerified: 2026-04-20
+lastHumanReview: true
 featured: true
 translatedFrom: 'People/鄧麗君.md'
 sourceCommitSha: '4b6d28c5'

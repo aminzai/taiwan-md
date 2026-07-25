@@ -6,7 +6,7 @@ tags:
   ['초록 신호등', '보행자 신호', '교통 디자인', '타이완 문화', '도시 디자인']
 subcategory: '도시 문화'
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 6
 featured: false
 lastVerified: 2026-03-24
@@ -15,6 +15,7 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:0e8351a88b984c1d'
 sourceBodyHash: 'sha256:83cbb50293e2fd70'
 translatedAt: '2026-04-14T04:41:25+08:00'
+lastHumanReview: false
 ---
 
 ## 달리는 기적

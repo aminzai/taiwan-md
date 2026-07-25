@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: '전통 산업'
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 13
 featured: true
 lastVerified: 2026-04-11
@@ -24,6 +24,8 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
 translatedAt: '2026-04-14T08:16:50+08:00'
+lastHumanReview: false
+difficulty: 'intermediate'
 ---
 
 # 대만 공작기계 산업

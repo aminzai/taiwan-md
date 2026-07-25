@@ -1,7 +1,7 @@
 ---
 title: '장위수: 〈임상강의〉로 식민지의 병폐를 진단한 의사'
 description: '1921년 의사 장위수가 〈임상강의〉를 발표하며 타이완을 「세계 문화의 저능아」로의인화하고, 병인을 지적 영양실조로 진단했다. 그는 타이완문화협회와 최초의 합법 정당인 타이완민중당을 창립했으며, 일생에 열여러 차례 투옥되었고, 다안병원과 춘풍득의루 사이에서 각성의 네트워크를 엮어 「동포는 단결해야 하며, 단결에 진정한 힘이 있다」는 실천적 유산을 남겼다.'
-category: History
+category: 'People'
 tags:
   [
     '장위수',
@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0f3a996ef981d6ff'
 sourceBodyHash: 'sha256:d65332102dab634a'
 translatedAt: 2026-05-01T22:19:01+08:00
+featured: false
 ---
 
 > **30초 개요:**

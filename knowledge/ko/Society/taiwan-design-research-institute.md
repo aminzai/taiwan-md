@@ -1,7 +1,7 @@
 ---
 title: '타이완 디자인연구원: 보건소와 투표용지 안에 디자인을 슬그머니 밀어 넣은 그 기관'
 description: '2022년 타이베이 MRT 중산역 매표 구역이 개조된 뒤, 누군가는 “잘 만들었다. 앞으로는 만들지 말라”는 댓글을 남겼다. 골든핀 디자인 어워드, 수백만 명이 찾는 디자인 전시, 국제 순위로 살아남아 온 한 기관이 가장 큰 승부수를 건 곳은 오히려 당신이 “느끼지 못하는” 장소다. 시즈의 보건소 대기 공간, 당신 손에 들린 그 투표용지의 글꼴 같은 곳이다. “Made in Taiwan이 모조품의 대명사”였던 시절에서 “디자인력이 곧 국력”이라는 말에 이르기까지, 타이완 디자인연구원은 이 하청 생산의 섬이 물건의 생김새를 스스로 결정할 수 있음을 증명하려 한다. 정부가 시민과 만나는 방식까지 포함해서다.'
-date: '2026-06-04'
+date: 2026-06-04
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '設計與公共治理'
@@ -16,7 +16,7 @@ tags:
     '골든핀 디자인 어워드',
   ]
 readingTime: 16
-lastVerified: '2026-06-04'
+lastVerified: 2026-06-04
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣設計研究院.md'

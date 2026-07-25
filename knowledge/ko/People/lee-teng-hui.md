@@ -5,13 +5,16 @@ date: 2026-03-22
 tags: ['인물', '정치', '민주화', '총통']
 category: 'People'
 subcategory: '정치와 민주주의'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 translatedFrom: 'People/李登輝.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b7406ab07a0d09c2'
 sourceBodyHash: 'sha256:5c229e19645654a0'
 translatedAt: '2026-04-14T19:24:35+08:00'
+featured: false
+lastVerified: 2026-03-22
+lastHumanReview: false
 ---
 
 > **30초 요약:** 일제강점기에 태어나 일본어로 자란 농업경제학 박사가, 결국 화인 세계 최초의 민주 지도자가 되었다. 그는 12년에 걸쳐 대만을 권위주의 체제에서 민주 정치로 평화롭게 전환시켰다. 그 대가는 대만해협 미사일 위기 촉발과 "검은 금 대부"라는 비판이었다.

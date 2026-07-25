@@ -5,7 +5,7 @@ date: 2026-03-26
 tags: [관성제군, 은주공, 행천궁, 민간신앙, 사원문화]
 subcategory: '종교와 민속'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 10
 lastVerified: 2026-03-26
 translatedFrom: 'Culture/關聖帝君信仰.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
 translatedAt: '2026-04-14T08:05:20+08:00'
+featured: false
+lastHumanReview: false
 ---
 
 # 관성제군(關聖帝君): 패장이 어떻게 대만의 만능신이 되었는가
