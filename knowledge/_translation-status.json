@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T03:10:48+08:00",
-    "zhCommitHead": "8096ea4e9",
+    "lastUpdated": "2026-07-26T03:22:16+08:00",
+    "zhCommitHead": "5652063df",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 865,
-        "fresh": 229,
+        "fresh": 230,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 625,
+        "missing": 624,
         "orphan": 0
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 375,
+        "fresh": 377,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 478,
+        "missing": 476,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 228,
+        "fresh": 230,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 636,
+        "missing": 634,
         "orphan": 0
       },
       "ru": {
         "total_zh": 865,
-        "fresh": 260,
+        "fresh": 261,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 604,
+        "missing": 603,
         "orphan": 0
       }
     },
@@ -4238,7 +4238,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/mega-financial-holding-global-banking-network.md",
+          "translatedFrom": "Economy/台灣企業：兆豐金控.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:19522eee779cb1b5",
+          "sourceBodyHash": "sha256:b25853bdf381bcc3",
+          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -6261,7 +6272,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/largan-precision-when-craftsmanship-meets-architectural-revolution.md",
+          "translatedFrom": "Economy/台灣企業：大立光電.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:74469a54ad5b9ae3",
+          "sourceBodyHash": "sha256:4ac8e9cdef3a165c",
+          "translatedAt": "2026-07-26T02:07:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -6915,8 +6937,8 @@
           "sourceContentHash": "sha256:917f1503c2ff61d8",
           "sourceBodyHash": "sha256:8336e4cef45a1444",
           "translatedAt": "2026-07-26T02:07:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d641e34e",
+          "translationLastModified": "2026-07-26T03:10:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -8257,8 +8279,8 @@
           "sourceContentHash": "sha256:f64751a4a51b546a",
           "sourceBodyHash": "sha256:9631152a90e28115",
           "translatedAt": "2026-07-26T02:07:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d641e34e",
+          "translationLastModified": "2026-07-26T03:10:49+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -8496,8 +8518,8 @@
           "sourceContentHash": "sha256:8bed402beaecae31",
           "sourceBodyHash": "sha256:97f9ec5722ee27b9",
           "translatedAt": "2026-07-26T02:07:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d641e34e",
+          "translationLastModified": "2026-07-26T03:10:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -11700,8 +11722,8 @@
           "sourceContentHash": "sha256:8cc121a9cccbf90a",
           "sourceBodyHash": "sha256:98feb4bab36f053f",
           "translatedAt": "2026-07-26T02:07:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d641e34e",
+          "translationLastModified": "2026-07-26T03:10:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -12163,8 +12185,8 @@
           "sourceContentHash": "sha256:e6d4ecca5e8c9269",
           "sourceBodyHash": "sha256:8a4126afbbcc2d61",
           "translatedAt": "2026-07-26T00:16:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d641e34e",
+          "translationLastModified": "2026-07-26T03:10:49+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -13451,8 +13473,8 @@
           "sourceContentHash": "sha256:fc8499d85802cbbd",
           "sourceBodyHash": "sha256:04d95f993c4d6e33",
           "translatedAt": "2026-07-26T00:16:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d641e34e",
+          "translationLastModified": "2026-07-26T03:10:49+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -13690,8 +13712,8 @@
           "sourceContentHash": "sha256:f8c3d1432bd47fe6",
           "sourceBodyHash": "sha256:48b4e5475f2d12a8",
           "translatedAt": "2026-07-26T00:16:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d641e34e",
+          "translationLastModified": "2026-07-26T03:10:49+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -17078,7 +17100,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/into-the-cellar-taiwan-game-podcast.md",
+          "translatedFrom": "Technology/不入地窖焉能睡覺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d882a7c06037e89c",
+          "sourceBodyHash": "sha256:abaef255e91e930b",
+          "translatedAt": "2026-07-26T02:07:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/into-the-cellar-taiwan-game-podcast.md",
@@ -19341,7 +19374,7 @@
           "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
-          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "translatedAt": "2026-07-25T21:33:45+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -21649,7 +21682,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/traditional-arts-of-taiwan.md",
+          "translatedFrom": "Art/台灣傳統藝術.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8199dcc4edeb2fce",
+          "sourceBodyHash": "sha256:de7228ea44ad062e",
+          "translatedAt": "2026-07-26T02:07:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -22205,8 +22249,8 @@
           "sourceContentHash": "sha256:409b7d5c9d0f3bbd",
           "sourceBodyHash": "sha256:215016d553b05404",
           "translatedAt": "2026-07-26T02:07:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d641e34e",
+          "translationLastModified": "2026-07-26T03:10:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -32828,8 +32872,8 @@
           "sourceContentHash": "sha256:dea3707ce0e0d446",
           "sourceBodyHash": "sha256:d825f2de734a7bac",
           "translatedAt": "2026-07-26T02:07:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d641e34e",
+          "translationLastModified": "2026-07-26T03:10:49+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -49057,7 +49101,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/shasha77-chang-chih-chi.md",
+          "translatedFrom": "People/張志祺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceBodyHash": "sha256:8df8bda804d8ffe0",
+          "translatedAt": "2026-07-25T21:33:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/shasha77-chang-chih-chi.md",
@@ -50375,8 +50430,8 @@
           "sourceContentHash": "sha256:be33318bbff736f0",
           "sourceBodyHash": "sha256:972eef53b5601304",
           "translatedAt": "2026-07-26T02:07:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d641e34e",
+          "translationLastModified": "2026-07-26T03:10:49+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "fresh",
@@ -75722,8 +75777,8 @@
           "sourceContentHash": "sha256:d67f3581051e39e8",
           "sourceBodyHash": "sha256:50386f161e8d186f",
           "translatedAt": "2026-07-26T00:16:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d641e34e",
+          "translationLastModified": "2026-07-26T03:10:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -79134,7 +79189,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/military-dependents-village-cuisine.md",
+          "translatedFrom": "Food/台灣眷村菜.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:7463882ad93990e3",
+          "sourceBodyHash": "sha256:c6f4891abde841e9",
+          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
