@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-3-VERIFY'
 description: 'REWRITE v9 stage contract — Stage 3：事實鐵三角 / FACTCHECK / story atom / spine sync / 成品總驗三關（原子重驗 fan-out）'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.0'
-last_updated: 2026-07-16
-last_session: '2026-07-16-newsroom-orchestration（v9.0 拆檔：自 REWRITE-PIPELINE v8.0 verbatim 搬移，行數守恆）'
+current_version: 'v9.4'
+last_updated: 2026-07-25
+last_session: '2026-07-25-外送專法（v9.4：Step 3.6.2 順稿移交總編室閱讀節奏席＋新增 Step 3.6.4 orchestrator 自修收件紀律）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -41,7 +41,7 @@ footnote-claim 綁定反查（腳註真的支撐它掛著的句子嗎）。官�
 輸出：逐條 {atom｜來源｜verdict: ✅/⚠️/❌｜證據}。禁改文章。
 ```
 
-3.7 總編探針 prompt：[EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md) §總編室（五探針）。
+3.7 總編探針 prompt：[EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md) §總編室（**六探針**，v9.4 起含閱讀節奏＝原 Step 3.6.2 順稿）。
 
 ## 交付條件（stage 完成的定義）
 
@@ -261,11 +261,31 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 
 > **儀器化（2026-06-10）**：drift (1) 與 (4) 已升 `article-health.py --check=quote-fidelity` plugin（in `rewrite-stage-3-5` profile，soft-launch WARN）——QF1 把文中每句帶腳註的「」引語逐字比對 frontmatter `researchReport` 的 SSOT 全文（抓縮寫/改句型/換字），QF2 列出全文 superlative 原子（首位/唯一/第一）當 fan-out 優先驗證清單。dogfood：嘻哈饒舌 0 誤報、複雜生活節 surface 4 條 legacy 引語債、無 report 文章優雅 skip。drift (2) 詮釋 gloss 與 (3) footnote 綁定仍靠 verifier fan-out（語意層，工具到不了）。
 
-#### Step 3.6.2: 順稿（閱讀感 + 呼吸感 + 紀實文學感）
+#### Step 3.6.2: 順稿（閱讀感 + 呼吸感 + 紀實文學感）→ **v9.4 移交總編室閱讀節奏席**
 
-外科手術疊幾輪之後縫線會留疤——成品**從頭到尾重讀一次**，per [EDITORIAL §段落呼吸 + §段與段的呼吸](../editorial/EDITORIAL.md)：
+> **⚠️ 這一關不由主 session 親做（2026-07-25 改）**。派 Step 3.7 總編室**探針 5 閱讀節奏**
+> （Sonnet，乾淨 context），prompt 在 [EDITORIAL-ROOM-PROMPTS §探針 5 專屬](EDITORIAL-ROOM-PROMPTS.md)。
+> 產物併入 `{slug}-chief-review.md`，走 `editorial-room-health.py` 同一個 gate。
+>
+> **派出前主 session 必做一件事**：跑 `python3 scripts/tools/prose-flow.py {article_path}`，
+> 把逐節表整段貼進席位 prompt（席位需要形狀當材料，但判斷要它自己做）。
+>
+> **為什麼移交**：本 step 的第一句話從 v7.0 起就是「外科手術疊幾輪之後縫線會留疤——
+> 成品從頭到尾重讀一次」。它預言正確，但被指派給**全場唯一讀不了新鮮的那個讀者**。
+> 主 session 剛決定過每一句話該長什麼樣，理由跟句子是一起生的，重讀時理由會先替
+> 句子辯護一次。**順稿需要的不是深 context，是沒有 context**。
+> 誕生事件：外送專法 ship 時 `--profile=rewrite-stage-4` hard=0 warn=0，哲宇冷讀
+> callout「文段太長／閱讀順暢感掉了／後段幾乎沒有資訊圖表」，三句都對。
+> 完整診斷＋門檻校準：[reports/design-prose-flow-station-2026-07-25.md](../../reports/design-prose-flow-station-2026-07-25.md)。
+
+席位要看的判準（canonical 仍在此，per [EDITORIAL §段落呼吸 + §段與段的呼吸](../editorial/EDITORIAL.md)）：
 
 - **段落牆**：單段 > 280 字拆段（worked example：蛋堡＋寶哥段 340 字拆三段）
+- **長段密度**（v9.4 新增）：單節內 ≥ 200 字段落佔比 > 35% = 一面牆，即使沒有任何一段破 280。
+  窒息感來自密度，不只來自峰值。已儀器化為 `paragraph-rhythm` R5（WARN，全站校準 1.7% 觸發率）
+- **資料密但無視覺**：資料量（數字／金額／比例／時序／多方對照）超過散文能承載的節，
+  該有 viz 模組。**此項刻意不做閘門**——校準顯示任何門檻都會打中 35–60% 的文章，
+  等於描述語料庫常態而非異常；交由席位判斷（設計否決記錄見上引報告 §三 C）
 - **framing 詞硬接**：「值得一提的是」「順帶一提」「耐人尋味的是」「這裡需要…」整批清掉，改 narrative bridge
 - **文章機械自述**：「得單獨給 X 一個段落」這類 writer 對自己結構的旁白，刪
 - **一致性殘渣**：30 秒概覽與 description 是否還跟修正後的正文一致（「畢業」vs 休學、被正文砍掉的場景是否還留在 description）；結尾排比的指涉是否 dangling（正文已刪的支線還留在結尾）；策展人筆記裡是否還引用已勘誤的舊事實
@@ -282,15 +302,38 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 
 **三關全過才算成品 ship。已 ship 後觸發（讀者 callout）→ 三關照跑，修正以 `heal:` commit 補。**
 
+#### Step 3.6.4: orchestrator 自修的收件紀律（v9.4 新增）🔁
+
+> **主 session 親手改動 prose ≥ 2 段 → 該節必重跑量測，並進入下一輪外部尺。
+> 不得以「我自己重讀一次」代替。**
+
+我對派出去的 agent 有制度化的不信任（先落檔、再驗真偽、claim 只是線索，REFLEXES #31）；
+對自己只有意願上的不信任。而意願在「我正在修東西」的時候最薄——那正是防備關掉的時刻。
+
+2026-07-25 外送專法一天內三次實證，**全部由外部尺接住、無一由自檢接住**：
+
+| 我做了什麼                                                                                                    | 誰接住                       |
+| ------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 在寫手零違規的稿子上加了 1 個對位句型 ＋ 5 個破折號                                                           | `article-health` check       |
+| 寫進「連死亡都只值 542 元」——一個我自造的等式，而該段「不可滑成情緒槓桿」的警告是我兩小時前親手寫進投影藍圖的 | 總編室冷讀探針               |
+| 壓一個 warn 造出另一個 warn，連續三次（合併→牆／拆段→切碎／補論證→牆）                                        | 儀器，且每次都是下一輪才發現 |
+
+第三列是本 step 存在的直接原因：**編輯粒度是段落，閘門粒度是全檔**。
+全檔 warn 歸零就往下走，從來沒有回頭看那一節整體變成什麼樣子 → 局部最佳化打地鼠。
+
+**操作**：`prose-flow.py {article}` 只看被動過的那一節；形狀變差就地修，
+變好才往下。累積 ≥ 3 輪自修 → 觸發 Step 3.6 全套（含閱讀節奏席）重跑。
+
 ---
 
 ---
 
 ### Step 3.7: 總編對抗總評（v9.0 新增）🗞️ — A 級／大眾文 HARD，standard WARN
 
-成品層最後一道外部尺：**不看藍圖、不看研究報告**，模擬冷讀總編。4-5 個平行 Sonnet 探針
-（門面兌現／逐段主軸服務／H2 載體還原／連結成網／＋政治敏感題加開立體地愛），各自乾淨
-context、falsification 姿態。主編（主 session）匯流裁決，落
+成品層最後一道外部尺：**不看藍圖、不看研究報告**，模擬冷讀總編。5-6 個平行 Sonnet 探針
+（門面兌現／逐段主軸服務／H2 載體還原／連結成網／**閱讀節奏**／＋政治敏感題加開立體地愛），
+各自乾淨 context、falsification 姿態。**閱讀節奏席即 Step 3.6.2 順稿**（v9.4 移交，
+派出前先跑 `prose-flow.py` 把逐節表貼進 prompt）。主編（主 session）匯流裁決，落
 `reports/editorial-room/{slug}-chief-review.md`（`room: chief`，schema 同編輯室），
 `editorial-room-health.py` gate，≤7 必改。與 Step 3.6 同 round 可平行——3.6 驗事實原子，
 3.7 驗「作為一篇報導成不成立」。

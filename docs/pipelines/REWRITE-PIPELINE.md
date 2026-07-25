@@ -149,7 +149,8 @@ upstream_canonical:
 | **Title+desc spine sync**               | Stage 3    | **所有 article（含 EVOLVE）**                        | manual: title 冒號三明治 + desc 吃進核心矛盾                                                                                                                                                                                                                                                                                                                                          | 不 commit                  |
 | **校正焦慮掃描** 🧱                     | Stage 3    | **callout-triggered EVOLVE**                         | Step 3.2-bis: backstop 自檢句 + grep 校正型句式 + 論點脊椎自檢                                                                                                                                                                                                                                                                                                                        | **不 commit**              |
 | **Source-fidelity gate (Stage 2.5)** 🔬 | Stage 2.5  | **A 級 / fresh-writer EVOLVE 長文 / 含外部來源引用** | (1) fetch 被引用來源 artifact 逐字比對（WebFetch/curl，不只比 research report）(2) frontmatter title+desc+30 秒概覽 門面句 source-fidelity (3) fresh-writer 長文 fact-check agent pass（structure gate ≠ 事實對）                                                                                                                                                                     | 不覆蓋 canonical / 不 ship |
-| **成品總驗三關** 🔍                     | Stage 3 終 | **A 級/大眾文/勘誤後/手術疊 ≥3 輪**                  | Step 3.6: 原子重驗 verifier fan-out（引號逐字 diff + 詮釋 gloss + footnote 綁定 + writer 自漂移）+ 順稿 + 視覺同步；修正 append research report §audit                                                                                                                                                                                                                                | 不 ship（已 ship 則 heal） |
+| **成品總驗三關** 🔍                     | Stage 3 終 | **A 級/大眾文/勘誤後/手術疊 ≥3 輪**                  | Step 3.6: 原子重驗 verifier fan-out（引號逐字 diff + 詮釋 gloss + footnote 綁定 + writer 自漂移）+ 順稿（**v9.4 移交 3.7 閱讀節奏席**）+ 視覺同步；修正 append research report §audit                                                                                                                                                                                                 | 不 ship（已 ship 則 heal） |
+| **orchestrator 自修收件** 🔁            | 任何時候   | **主 session 親改 prose ≥ 2 段**                     | Step 3.6.4：該節必重跑 `prose-flow.py` 並進下一輪外部尺，不得以「我自己重讀一次」代替；累積 ≥3 輪自修 → 觸發 Step 3.6 全套重跑（REFLEXES #69(h)）                                                                                                                                                                                                                                     | 不 ship                    |
 | Format check 7 維度                     | Stage 4    | 所有 article                                         | article-health.py --profile=rewrite-stage-4                                                                                                                                                                                                                                                                                                                                           | pre-commit hook            |
 | word-count ≥ 4500                       | Stage 4    | depth article                                        | article-health.py --check=word-count                                                                                                                                                                                                                                                                                                                                                  | pre-commit hook            |
 | 多語 visual smoke                       | Stage 4    | i18n 改動                                            | 6 步 bash                                                                                                                                                                                                                                                                                                                                                                             | revert commit              |
@@ -280,13 +281,29 @@ upstream_canonical:
 
 **外部尺是主整合者深度的配對品**：靈魂深＋材料深必然帶同源盲區（#65f——大罷免案：主編自己的合成誤標一路帶進投影，被乾淨 context 炎上席接住），主編親手寫的每個產物必過非作者對抗席；席位產出是線索，裁決回到有材料的主編。
 
+**留／派判準表**（v9.4，2026-07-25 外送專法 dogfood）。分界不是難度，是**這件事需要的是深 context 還是沒有 context**：
+
+| 工作                     | 留／派                  | 判準                                                              |
+| ------------------------ | ----------------------- | ----------------------------------------------------------------- |
+| 核心矛盾判定／投影論點   | **主 session**          | 靈魂深；外送專法此項曾被官方逐字推翻一次，不可外包                |
+| 主編匯流裁決             | **主 session**          | 編輯室鐵律：席位是線索，裁決回到有材料的人                        |
+| spine 型別判定           | **主 session ＋觀察者** | §自主權邊界                                                       |
+| 比對覆蓋／ship           | **主 session**          | 材料深                                                            |
+| **閱讀節奏冷讀（順稿）** | **Sonnet**              | 需要的是**沒有** context——主 session 剛決定過每句話該長什麼樣     |
+| 事實原子重驗             | **Sonnet**              | falsification 姿態對「別人的東西」才有效                          |
+| **逐節量測取數**         | **工具**                | 確定性工作不該用推論 token 付帳（外送專法一天現寫四次一次性腳本） |
+| **儀器假陽性修復**       | **Sonnet**              | 判準明確、有回歸測試可驗收                                        |
+| **裁決後的文字施工**     | **Sonnet**              | 決定在哪裡拆是手藝；拆本身是機械                                  |
+
+⚠️ 第三列的教訓另有一層：**該是工具的東西不要派 agent**。派 agent 做確定性量測＝把一次性推論當成基礎設施，下次還要再派一次。
+
 ### Workflow adapter 實測條款（2026-07-16 大罷免全程驗證）
 
 contract＝環境無關 SSOT；「**一個 stage 的天然平行段＝一個 workflow**」（1A 研究／1B persona／2B/2E 席／3.5 verifier／3.7 探針），主 session 在 workflow 之間收件＋親跑 gate＋裁決。操作紀律三條：(1) script 開頭必加 `typeof args === 'string' ? JSON.parse(args) : args` guard（W1：args 可能字串化抵達）；(2) `ok.length === 0 → throw` fail-loud（W2：額度全滅會偽裝成 completed+dropped，#82 變體）；(3) **agent 依契約自落檔 repo ＋ schema 只回結構化摘要**——通知截斷時 journal.jsonl 是 raw 的家。單 agent 站（0 觀點／2C 寫手）用 plain Agent。深案：[reports/dogfood-v9-first-run-2026-07-16.md](../../reports/dogfood-v9-first-run-2026-07-16.md)。
 
 ### Run profiles（Q4 拍板，quality-max 方向）
 
-- **standard**（預設）：1 投影＋2B 三席/2E 兩席＋1 寫手＋單輪 checker fan-out＋3.7 五探針（A 級）。
+- **standard**（預設）：1 投影＋2B 三席/2E 兩席＋1 寫手＋單輪 checker fan-out＋3.7 **六探針**（A 級；v9.4 加開閱讀節奏席＝原 Step 3.6.2 順稿，派出前主 session 先跑 `prose-flow.py` 貼逐節表）。
 - **flagship**（S 級／政治敏感／預期大眾題，逐項 opt-in）：盲雙投影 judge-panel＋（可選）雙寫手 best-of＋persona 兩階段（研究後 gap-audit＋成品後 reception simulation）＋高風險 atom 雙鏡片 verifier until-dry＋隔夜冷讀＋D+30 re-audit。判斷節點（投影／主編／比對覆蓋／ship）永遠主 session，不可平行化替代。
 
 ---

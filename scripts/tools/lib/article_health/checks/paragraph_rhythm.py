@@ -38,6 +38,17 @@ Rules:
     密度偏高。健康帶 1.2–2.0 (陳建年 1.48 / 周蕙 1.76 密度皆帶內)
   - **R3-HARD media density > 2.5 / 1k CJK AND 段落 median < 55**：HARD — visual
     倚賴 + 段落原子化雙信號 = 真 atomization drift (雙信號結構不變)
+  - **R5 單 H2 節內長段密度 > 35%**：WARN (2026-07-25 誕生)——單一 H2 節內
+    ≥200 CJK 字的 prose 段落，佔該節 prose 段落數比例 > 35%，且該節 prose 段落數
+    ≥ 5，才觸發（避免短節 1/2 段就誤判）。誕生事件：外送專法 ship 後觀察者
+    callout「文段太長、閱讀順暢感掉了」，但 R4（單段 > 280 字）在 ship 前是
+    hard=0 warn=0 —— 追下去發現問題段落全落在 200–275 字，R4 抓得到「一段 340
+    字的怪物」，抓不到「連續八段每段兩百多字」；窒息感來自**密度**，不只來自
+    **峰值**。校準語料：全站 715 篇 zh-TW / 3308 個 ≥5 段的 H2 節，節內 ≥200 字
+    段落佔比分布 p50=0% p75=0% p90=5% p95=17% p99=25% 全站 max=57%；門檻 >35%
+    （約 p99.5）命中 14 節 / 11 篇（1.7%），交叉驗證命中前三名 台灣美食總覽
+    57%／Shopping Design 50%／曾博恩 43%，其中前兩篇是獨立於本次分析、早已被
+    讀者 callout 過的文章。
 
 Skipped paths:
   - Hub pages (knowledge/{Category}/_*.md)
@@ -96,6 +107,17 @@ TW_MODULE_CEILING_DISCOUNT_CAP = 13
 # 媒體密度 band 校準於 depth article (設研院/天下/黃魚鴞)；短頁 / gallery / showcase
 # (如 視覺化模組型錄，prose 1k 字以模組為主體) density 失真 → 不適用 band。
 MEDIA_BAND_MIN_CJK = 1500
+# R5 長段密度：單 H2 節內 ≥200 字 prose 段落佔該節 prose 段落數比例。2026-07-25
+# 外送專法 ship 後觀察者 callout「文段太長」，追下去發現 R4 (單段>280) 抓不到
+# 「連續多段 200-275 字」的密度型窒息感。校準 (全站 715 篇 zh-TW / 3308 個
+# ≥5 段的 H2 節)：節內 ≥200 字段落佔比 p50=0% p75=0% p90=5% p95=17% p99=25%
+# max=57%。門檻 >35% (約 p99.5) → 14 節 / 11 篇 (1.7%)；>40% → 3 節 / 3 篇
+# (0.5%)。取 >35%，命中前三名 台灣美食總覽 57% / Shopping Design 50% /
+# 曾博恩 43%，前兩篇獨立於本次分析、早已被讀者 callout 過。門檻已校準完，
+# 不自行調整。
+PARA_HEAVY_CJK = 200  # CJK — 單段 ≥ 此視為「長段」
+HEAVY_RATIO_WARN = 0.35  # 長段佔該節 prose 段落數比例上限
+HEAVY_MIN_PARAS = 5  # 該節至少要有這麼多 prose 段落才判定（避免短節誤判）
 
 
 _RE_CJK = re.compile(r"[一-鿿㐀-䶿]")
@@ -264,28 +286,39 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         if first_h2_match:
             lead_body = body[: first_h2_match.start()]
             lead_paragraphs = _split_paragraphs(lead_body)
+            lead_prose_count = 0
             for p in lead_paragraphs:
+                if not _is_prose_block(p):
+                    continue
+                lead_prose_count += 1
                 cjk = _count_cjk(p)
-                if cjk >= 5:
-                    all_paragraphs_cjk.append(cjk)
+                all_paragraphs_cjk.append(cjk)
                 if cjk > PARA_WALL_MAX:
                     walls.append((cjk, p.strip().replace("\n", " ")[:26]))
             if lead_paragraphs:
-                per_section_counts.append(
-                    ("[lead]", sum(1 for p in lead_paragraphs if _is_prose_block(p)))
-                )
+                per_section_counts.append(("[lead]", lead_prose_count))
+            # R5 不納入 lead — 只有 H2 節算（per 任務規格）。
+
+    heavy_sections: list[tuple[str, int, int, float]] = []  # (title, heavy, prose, ratio)
 
     for title, section_body in sections:
         paragraphs = _split_paragraphs(section_body)
-        per_section_counts.append(
-            (title, sum(1 for p in paragraphs if _is_prose_block(p)))
-        )
-        for p in paragraphs:
+        prose_paragraphs = [p for p in paragraphs if _is_prose_block(p)]
+        per_section_counts.append((title, len(prose_paragraphs)))
+        section_cjks: list[int] = []
+        for p in prose_paragraphs:
             cjk = _count_cjk(p)
-            if cjk >= 5:
-                all_paragraphs_cjk.append(cjk)
+            all_paragraphs_cjk.append(cjk)
+            section_cjks.append(cjk)
             if cjk > PARA_WALL_MAX:
                 walls.append((cjk, p.strip().replace("\n", " ")[:26]))
+        # ── R5: 節內長段密度 ──
+        prose_count = len(section_cjks)
+        if prose_count >= HEAVY_MIN_PARAS:
+            heavy_count = sum(1 for c in section_cjks if c >= PARA_HEAVY_CJK)
+            ratio = heavy_count / prose_count
+            if ratio > HEAVY_RATIO_WARN:
+                heavy_sections.append((title, heavy_count, prose_count, ratio))
 
     if not all_paragraphs_cjk:
         return
@@ -354,6 +387,32 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             editorial_ref="EDITORIAL.md §段落呼吸 (R4 牆 2026-06-07)",
             fix_suggestion=(
                 "在自然轉折處 (話題切換 / 因果推進 / 引語前) 把過長段落拆成 2 段；"
+                "拆完每半段仍應 ≥ 55 字 (別 atomize 成 R1)。"
+            ),
+        )
+
+    # ── R5: 長段密度 — 節內 ≥200 字 prose 段落佔比 > 35% (2026-07-25 外送專法 callout) ──
+    # 抓 R4 抓不到的另一種窒息感：不是「一段特別長」，是「一節裡連續多段都偏長」。
+    if heavy_sections:
+        heavy_sections.sort(key=lambda x: x[3], reverse=True)
+        names = "、".join(
+            f"§{t} {h}/{p}={r:.0%}" for t, h, p, r in heavy_sections[:3]
+        )
+        more = f" 等 {len(heavy_sections)} 節" if len(heavy_sections) > 3 else ""
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=(
+                f"長段密度過高 (R5): {len(heavy_sections)} 個 H2 節內 "
+                f"≥{PARA_HEAVY_CJK} 字長段佔該節 prose 段落比例 > {HEAVY_RATIO_WARN:.0%} — "
+                f"{names}{more}。單段可能都沒超過 R4 牆門檻 ({PARA_WALL_MAX} 字)，"
+                f"但連續多段偏長的密度堆疊仍造成閱讀窒息感。"
+            ),
+            line=1,
+            snippet=f"heavy_sections={len(heavy_sections)}",
+            editorial_ref="EDITORIAL.md §段落呼吸 (R5 長段密度 2026-07-25)",
+            fix_suggestion=(
+                "在自然轉折處把節內部分長段拆成 2 段，把長段佔比壓回 35% 以下；"
                 "拆完每半段仍應 ≥ 55 字 (別 atomize 成 R1)。"
             ),
         )

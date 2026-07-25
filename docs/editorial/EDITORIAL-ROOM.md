@@ -3,9 +3,9 @@ title: 'EDITORIAL-ROOM'
 description: '編輯室對抗 canonical — 投影後／正文後乾淨 context 分席審稿；主編裁決；結構外部尺'
 type: 'editorial-canonical'
 status: 'canonical'
-current_version: 'v1.1'
-last_updated: 2026-07-16
-last_session: '2026-07-16-newsroom-orchestration（v1.1 攻防輪＋總編室，睨 GAN 提案＋哲宇 directive）'
+current_version: 'v1.2'
+last_updated: 2026-07-25
+last_session: '2026-07-25-外送專法（v1.2 總編室加開閱讀節奏席＝REWRITE Step 3.6.2 順稿移交）'
 sister_docs:
   - 'PROJECTION.md'
   - 'EDITORIAL.md'
@@ -86,7 +86,8 @@ fresh writer 寫正文
 
 ### 正文事實室（包 B = 既有 3.6）
 
-原子重驗 / 順稿 / 視覺同步——不重寫規則，pointer 到 [REWRITE Step 3.6](../pipelines/REWRITE-PIPELINE.md)。
+原子重驗 / 視覺同步——不重寫規則，pointer 到 [REWRITE Step 3.6](../pipelines/REWRITE-PIPELINE.md)。
+**順稿已於 v1.2 移出本室**，改由總編室閱讀節奏席執行（見下 §總編室）。
 
 > **結構席參考彈藥（2026-07-16 補）**：regex 抓不到、只能人判的 AI 腔一族——說教深度腔（「說到底／本質上」開頭的儀式句）、金句公式（「X 是 Y 的 Z」硬鑄格言）、假坦白鉤子（「說真的／老實說」報備式停頓）、戲劇性短句轟炸、刻意換詞循環、句長過勻。判準與正反例見 [speak-human-tw patterns #13/#17-20/#29](https://github.com/Raymondhou0917/speak-human-tw)（MIT，Raymond Hou）；per OBSERVER-QUEUE #15 決策精神，這些維持人判不造 plugin。特別警惕：#17-20 常是「去 AI 味時被誤加上去的假人味」。
 
@@ -204,17 +205,26 @@ rounds: 1
 **與 2.5-R 的分工**：2.5-R 驗「正文有沒有執行藍圖」（對圖施工驗收）；總編室**不看藍圖**，
 只拿成品＋標題，模擬一個冷讀的總編：這篇作為報導成不成立。
 
-**平行探針**（Sonnet ×4-5，各自乾淨 context，falsification prompt，禁讀藍圖與研究報告）：
+**平行探針**（Sonnet ×5-6，各自乾淨 context，falsification prompt，禁讀藍圖與研究報告）：
 
-| 探針             | 問題                                                                                                   |
-| ---------------- | ------------------------------------------------------------------------------------------------------ |
-| 門面兌現         | 標題／description 承諾的觀點，正文中段有沒有真的賺到？（門面句是最弱面——Shopping Design 摘要尾句教訓） |
-| 逐段主軸服務     | 每個 H2 段落對全篇主軸的扣回；抓「京都研究」式前後無脈絡的斷裂段（吸菸室教訓）                         |
-| H2 載體還原      | 每個小標過主–述–賓還原＋可指載體（[EDITORIAL §小標題](EDITORIAL.md)）                                  |
-| 連結成網         | footnote／cross-link／延伸閱讀是否構成支撐主軸的網，還是裝飾                                           |
-| 立體地愛（條件） | 政治敏感／人物題加開：MANIFESTO §13 檢驗                                                               |
+| 探針                 | 問題                                                                                                   |
+| -------------------- | ------------------------------------------------------------------------------------------------------ |
+| 門面兌現             | 標題／description 承諾的觀點，正文中段有沒有真的賺到？（門面句是最弱面——Shopping Design 摘要尾句教訓） |
+| 逐段主軸服務         | 每個 H2 段落對全篇主軸的扣回；抓「京都研究」式前後無脈絡的斷裂段（吸菸室教訓）                         |
+| H2 載體還原          | 每個小標過主–述–賓還原＋可指載體（[EDITORIAL §小標題](EDITORIAL.md)）                                  |
+| 連結成網             | footnote／cross-link／延伸閱讀是否構成支撐主軸的網，還是裝飾                                           |
+| **閱讀節奏**（v1.2） | 哪一節讀起來窒息？哪一節資料密到散文承載不住卻沒有視覺？外科手術的縫線疤在哪？                         |
+| 立體地愛（條件）     | 政治敏感／人物題加開：MANIFESTO §13 檢驗                                                               |
 
-**匯流**：主編（永遠主 session）收五路探針，落
+> **閱讀節奏席為什麼一定要在這裡，不能留在主 session**（v1.2，2026-07-25 外送專法）：
+> REWRITE Step 3.6.2 順稿寫了「外科手術疊幾輪之後縫線會留疤——成品從頭到尾重讀一次」，
+> 但把它指派給主 session ＝ 指派給全場**唯一讀不了新鮮的那個讀者**。主 session 剛決定過
+> 每一句話該長什麼樣，理由跟句子是一起生的，重讀時理由會先替句子辯護一次。
+> **順稿需要的不是深 context，是沒有 context**。誕生事件：外送專法 ship 時所有閘門
+> hard=0 warn=0，哲宇讀完 callout「文段太長／順暢感掉了／後段沒圖表」，三句都對。
+> 完整診斷與門檻校準：[reports/design-prose-flow-station-2026-07-25.md](../../reports/design-prose-flow-station-2026-07-25.md)。
+
+**匯流**：主編（永遠主 session）收六路探針，落
 `reports/editorial-room/{slug}-chief-review.md`（`room: chief`），≤7 必改，同 gate 三態。
 
 ---
@@ -230,5 +240,6 @@ rounds: 1
 
 ---
 
+_v1.2 | 2026-07-25 — 總編室加開第六探針「閱讀節奏」；REWRITE Step 3.6.2 順稿從主 session 移交本席。觸發：外送專法 ship 時閘門全綠但哲宇冷讀 callout 段落牆與後段圖表空白，追因發現順稿被指派給全場唯一讀不了新鮮的讀者。_
 _v1.1 | 2026-07-16 — 攻防輪（記者答辯一輪）＋總編室（成品層平行探針對抗總評）；睨 GAN 提案與「總編是平行漣漪」洞察落地。_
 _v1.0 | 2026-07-15 — dogfood Shopping Design 投影／正文結構室。_
