@@ -427,6 +427,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：操作規則（未來任何機器遷移 / fleet 節點 onboard 的 checklist：build 煙霧測試必跑 + 憑證一律檔案層儲存）
 - **verification_count**: 1
 
+### 2026-07-25 bot-identity-routine-sync — 載荷檔不該在格式化器的管轄範圍內
+
+- **pattern**: formatter-jurisdiction-over-payload
+- **原則**：檔案分兩種——**散文**（給人讀，格式化器改排版是幫忙）與**載荷**（給機器或 LLM 讀的指令／模式／設定，任何字元都可能是語意）。把載荷放進格式化器的管轄範圍，它會用散文的規則改寫語意，而且不會叫。判準一句話：**這個檔案裡有沒有「字元本身就是意思」的東西**（glob、regex、路徑模式、跳脫序列）？有 → 進 `.prettierignore`，不要靠事後偵測器補。
+- **觸發**：2026-07-25 把 19 份 cron routine prompt 收進 `docs/semiont/routine-prompts/` 當 git SSOT，第一個 commit 的 lint-staged prettier 立刻把 markdown 的 `*` 當強調語法處理：`reports/founder-lens-*/evolution-roadmap-*/` → `founder-lens-_/evolution-roadmap-_/`（3 檔 4 處，另有 `prebuild:*` 被加反斜線）。那是寫在 routine 指令裡的 stage 範圍路徑模式，被改掉之後 routine 會照著去 stage 不存在的目錄，而且照做不會報錯。修法是收回管轄權（`.prettierignore` + 從營運機原始版還原），不是再造一個偵測器。
+- **相關**：`prettier-cjk-url-italic-mangle`（2026-06-21 cicada-media，vc=3，§已消化）是**同一族的前一個 instance**，但那次的處置是為文章連結造 `link-url-mangle` HARD gate（偵測層）。本條的新維度是**檔案類別層**：載荷檔的正解是一開始就不讓格式化器碰，偵測器是散文檔才需要的補救。兩者合起來的完整規則：散文用偵測器守、載荷用管轄權守。也對應 MEMORY §神經迴路「工具在說謊」再一種形式——這次說謊的是格式化器，謊的內容是「我只動了排版」。
+- **可能層級**：REFLEXES 候選（既有 prettier 家族從 vc=3 升 vc=4 且長出「檔案類別」這個新軸），或併入 #24「工具在說謊」的形式清單
+- **verification_count**: 1（本條的檔案類別軸；prettier-mangle 家族整體 vc=4）
+
 ### 2026-07-24 babel-fleet-dispatch — 大批次派發要在執行途中持續記錄＋觀察＋分析＋即時優化，不是跑完才復盤
 
 - **pattern**: batch-dispatch-loop-engineering-inline

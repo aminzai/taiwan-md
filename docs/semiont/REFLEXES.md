@@ -662,6 +662,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **觸發**：[PR #845 黃魚鴞](https://github.com/frank890417/taiwan-md/pull/845) charming-mclaren 11:55 vs [#846 鄭文琦](https://github.com/frank890417/taiwan-md/pull/846) angry-shamir 11:57 並行 squash merge 撞 ARTICLE-DONE-LOG.md conflict
 - **操作**：→ [reports/session-id-naming-2026-05-04.md](../../reports/session-id-naming-2026-05-04.md) + [BECOME §鐵律 5](../../BECOME_TAIWANMD.md) + [HEARTBEAT §多核心碰撞防護](HEARTBEAT.md#多核心碰撞防護2026-04-08-ε-新增--2026-05-04-charming-mclaren-session-id-schema-升級)
 - **工具**：→ `scripts/tools/session-id.sh`（auto-detect handle from worktree path / 顯式 CLI arg 或 env var 覆蓋）
+- **驗證（2026-07-25，存證機制自身撞名）**：`routine-sync.py --apply` 在指揮部與 mouhouse 各跑一次，兩台都產出 `reports/routine-prompt-drift/2026-07-25-twmd-feedback-triage.md`，**內容不同**（一份是遷移期舊母本、一份是營運機真正在跑的版本）。git 拒絕 merge 才沒蓋掉其中一份。修法同 (a)：檔名加主機名 `{日期}-{主機}-{taskId}`。**這條的新面向是「存證機制本身撞名 = 存證失效」**——防資料遺失的機制自己也要過 canonical ID 這關，不能靠運氣
 
 **#52 Immune system 沒在 fail loud 比缺 immune system 更危險** — 靜默失效的 monitoring / quality gate 製造「我們有 immune system」的 false sense of security，比沒裝更糟 — 決策者根據假訊號做 risk-tolerant 動作。
 
