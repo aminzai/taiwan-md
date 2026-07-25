@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-26
-last_session: '2026-07-26-041852-twmd-self-evolve-weekly (REFLEXES #73(e) SOP 落地 + routine-liveness-check.py 兩處補registrations，3 real ship)'
+last_session: '2026-07-26-052751-twmd-embeddings-nightly (bge-m3 12 語 6326 向量 0 fail，verify PASS)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -310,3 +310,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-26 | 021837-twmd-weekly-report-sun | W30 週體檢：五面診斷＋修復桶1兩項＋roadmap roll 至新版＋10 章節週報寄出（bcc=14） | maintainer-daily 假警報是「名字的替身」——session-id 不符讓字串比對抓不到已完成的工作 | [→](memory/2026-07-26-021837-twmd-weekly-report-sun.md) |
 | 2026-07-26 | 031527-twmd-distill-weekly | W30 distill：§未消化 27→2，加 REFLEXES #83/#84 + 6 fold + 5 MEMORY；index rollup 79→40 | 四例並排才看出共病：檢查器彼此沒共用一把尺 | [→](memory/2026-07-26-031527-twmd-distill-weekly.md) |
 | 2026-07-26 | 041852-twmd-self-evolve-weekly | W30 self-evolve：distill 40 分鐘前才清倉，改抓「反射已 canonical 未落地」與「腳本自訂規則被自己違反」兩類真實 ship（3 commit） | 儀器自己寫的規則（新 routine 誕生必補登記表）也會被自己違反，vc=1 也值得順手核對 | [→](memory/2026-07-26-041852-twmd-self-evolve-weekly.md) |
+| 2026-07-26 | 052751-twmd-embeddings-nightly | bge-m3 nightly 12 語 6326 向量 0 fail、verify PASS；本機命中；rebase 過 22 commits 落後推送成功 | commit 範本屬名寫死久了會漂離事實，跑的是誰就寫誰 | [→](memory/2026-07-26-052751-twmd-embeddings-nightly.md) |
