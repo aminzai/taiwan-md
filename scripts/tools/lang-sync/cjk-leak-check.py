@@ -119,6 +119,10 @@ def scan_file(path: Path, lang: str = None):
                 body = body[end_fm + 3:]
         body = re.sub(r"\[[^\]]*\]\([^)]*\)", "", body)          # [text](url)
         body = re.sub(r"^\[\^[^\]]+\]:.*$", "", body, flags=re.MULTILINE)  # [^n]: ...
+        # 裸 URL（第八家族 2026-07-25）：wikipedia.org/zh-tw/台灣傳統市場 這類
+        # 含中文 path 的合法引用 URL 不在 markdown 連結語法裡時，上面兩條剝不到，
+        # 中文字元被當成正文洩漏。URL 裡的中文永遠是合法的（引用目標的一部分）。
+        body = re.sub(r"https?://\S+", "", body)
 
         gloss_spans = legit_spans(body)
         for m in CJK_RUN_RE.finditer(body):
@@ -137,6 +141,7 @@ def scan_file(path: Path, lang: str = None):
     for rx in LEGIT_ZH_SPANS:
         scan = rx.sub("", scan)
     scan = re.sub(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\([^)]*\)", "", scan)
+    scan = re.sub(r"https?://\S+", "", scan)   # 裸 URL 同豁免（第八家族）
     for marker in ZH_ONLY_MARKERS:
         c = scan.count(marker)
         if c:

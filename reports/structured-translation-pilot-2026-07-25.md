@@ -177,3 +177,26 @@ python3 scripts/tools/lang-sync/structured-translate.py <zh_path> \
 ```
 
 不寫入 `knowledge/`，不進 git。工具本體 `scripts/tools/lang-sync/structured-translate.py` 與本報告是本次唯二進 repo 的變更。
+
+---
+
+## Production 首日裁決附記（16:00，主 session）
+
+兩輪對照後 structured 退回 pilot 席位，cloud 產線切回整篇式。數據：第一輪
+structured 33% vs whole 44%；v2 三刀修復（URL multiset 驗證／頑固 chunk 硬中止
+／exit code 接通）後第二輪 structured 30%，速率崩至 19/hr。
+
+**退回原因**（非否定架構，是 production 化門檻未過）：
+
+1. **chunk 驗證與 gate 之間仍有縫**——29 個 leak fail 到達 gate，多數被
+   HEAD-restore 沒留樣本，來源未完全定位（假設：Phase N 腳註與 Phase F tags
+   不在 chunk 驗證覆蓋內；待驗證）。chunk 驗證必須成為 gate 的完整前置判準
+   才能省下游成本，做一半反而兩頭付費。
+2. **硬中止在高延遲 backend 上代價過高**——免費雲端一篇 400 秒起，重試兩次
+   後中止等於 20 分鐘零產出。低延遲本地 GPU 適合這個策略，免費雲端不適合。
+3. **對照組其實夠好**——整篇式配 passthrough heal 之後 44%，結構類 fail
+   已被 heal 機械修復吃掉大半，structured 的邊際效益比設計時預估小。
+
+**留下的資產**：三個結構驗證思路（URL multiset／腳註編號集合／幻覺定義行攔截）
+已在 pilot 證實可行；裸 URL 第八假陽性家族因本輪覆盤現形並修復（兩引擎同受益）。
+下一階段若回攻：先把 chunk 驗證做成 gate 的完整鏡像，且只在本地 GPU 跑。
