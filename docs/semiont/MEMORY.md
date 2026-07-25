@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-24
-last_session: '2026-07-24-164626-manual (CI/CD 復原 + dispatcher v3 硬化 + OpenRouter 探勘)'
+last_updated: 2026-07-26
+last_session: '2026-07-26-021837-twmd-weekly-report-sun (W30 週體檢 + 10 章節週報寄出)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -341,3 +341,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-26 | 001546-manual | 外送專法順稿（牆 9→0、圖表 6→11）＋順稿升格總編室第六探針、新增 R5 長段密度與 Step 3.6.4 orchestrator 自修收件紀律 | 規則被指派給讀不了新鮮的讀者等於沒有規則；設計兩條閘門，校準完兩條都撤 | [→](memory/2026-07-26-001546-manual.md) |
 | 2026-07-26 | 002131-manual | 建 twmd-routine-sync + 退休三條註冊 + founder-lens-weekly 對齊 disabled | live-state 快照過期會製造假漂移，動手前先跟真實 list 交叉核對 | [→](memory/2026-07-26-002131-manual.md) |
 | 2026-07-26 | 011231-twmd-news-lens-weekly | W30 三源交叉：301 關稅+巴紐撤館兩條時事 REACTIVE＋7 條候選線 propose 0（出口關閉） | 英文 metadata 缺口連續三週確認為結構性訊號，非單次雜訊 | [→](memory/2026-07-26-011231-twmd-news-lens-weekly.md) |
+| 2026-07-26 | 021837-twmd-weekly-report-sun | W30 週體檢：五面診斷＋修復桶1兩項＋roadmap roll 至新版＋10 章節週報寄出（bcc=14） | maintainer-daily 假警報是「名字的替身」——session-id 不符讓字串比對抓不到已完成的工作 | [→](memory/2026-07-26-021837-twmd-weekly-report-sun.md) |
