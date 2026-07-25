@@ -269,11 +269,29 @@ fi
 echo ""
 
 # ────────────────── Step 11 — verify dashboard freshness ──────────────────
-# REFLEXES #43: 每個 public/api/dashboard-*.json 都必須有今天的 mtime，否則 generator 漏跑了
+# REFLEXES #43: 每個 public/api/dashboard-*.json 都必須有今天的 mtime，否則 generator 漏跑了。
+# dashboard-analytics 另驗 lastUpdated；mtime 只能證明檔案被碰過，不能證明 fresh
+# sense cache 最終留在檔內。若 prebuild / parallel actor 把內容覆回舊快照，當場重生。
 echo -e "${GRN}[11/14]${RST} verify dashboard freshness..."
 TODAY=$(date +%Y-%m-%d)
 STALE_COUNT=0
 STALE_LIST=""
+
+ANALYTICS_FILE="public/api/dashboard-analytics.json"
+ANALYTICS_DATE=$(python3 -c 'import json,sys; print((json.load(open(sys.argv[1])).get("lastUpdated") or "")[:10])' "$ANALYTICS_FILE" 2>/dev/null || true)
+if [ "$ANALYTICS_DATE" != "$TODAY" ]; then
+  echo -e "${YEL}⚠️  dashboard-analytics content stale ($ANALYTICS_DATE) — rerun sense-cache merge${RST}"
+  python3 scripts/tools/generate-dashboard-analytics.py >/tmp/dashboard-analytics-step11.log 2>&1 || true
+  ANALYTICS_DATE=$(python3 -c 'import json,sys; print((json.load(open(sys.argv[1])).get("lastUpdated") or "")[:10])' "$ANALYTICS_FILE" 2>/dev/null || true)
+  if [ "$ANALYTICS_DATE" != "$TODAY" ]; then
+    STALE_COUNT=$((STALE_COUNT + 1))
+    STALE_LIST="$STALE_LIST   ❌ dashboard-analytics.json — lastUpdated ${ANALYTICS_DATE:-missing}\n"
+  else
+    echo -e "${DIM}   ✓ dashboard-analytics 已從 fresh sense cache 重生${RST}"
+  fi
+  rm -f /tmp/dashboard-analytics-step11.log
+fi
+
 for f in public/api/dashboard-*.json; do
   [ -f "$f" ] || continue
   MTIME_DATE=$(stat -f "%Sm" -t "%Y-%m-%d" "$f" 2>/dev/null || stat -c "%y" "$f" 2>/dev/null | cut -d' ' -f1)
@@ -283,7 +301,7 @@ for f in public/api/dashboard-*.json; do
   fi
 done
 if [ "$STALE_COUNT" -eq 0 ]; then
-  echo -e "${DIM}   ✓ 全部 $(ls public/api/dashboard-*.json | wc -l | tr -d ' ') 個 dashboard JSON 都是今天 mtime${RST}"
+  echo -e "${DIM}   ✓ 全部 $(ls public/api/dashboard-*.json | wc -l | tr -d ' ') 個 dashboard JSON 都是今天 mtime；analytics content=$ANALYTICS_DATE${RST}"
 else
   echo -e "${RED}❌ $STALE_COUNT 個 dashboard 不是今天 mtime（generator 漏跑了？）${RST}"
   echo -e "$STALE_LIST"

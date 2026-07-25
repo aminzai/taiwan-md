@@ -98,7 +98,7 @@ upstream_canonical:
 | git pull rebase 成功        | Step 1     | sync 階段                  | `git pull --rebase origin main`       | hard abort（人類介入）       |
 | 三源 sense-fetch 200        | Step 2     | fetch GA/SC/CF             | per-source HTTP check                 | soft skip + LESSONS entry    |
 | immune v2 6-dim regen       | Step 6     | every refresh              | `generate-dashboard-immune.py`        | Step 11 freshness gate catch |
-| Dashboard mtime fresh       | Step 11    | 整個 refresh 後            | manual stat check                     | REFLEXES #43 silent failure  |
+| Dashboard fresh             | Step 11    | 整個 refresh 後            | mtime + analytics `lastUpdated` check | REFLEXES #43 silent failure  |
 | validate-spore-data 5 check | Step 12    | SSOT consistency           | `validate-spore-data.py`              | 阻 ship + 修補               |
 | sync-spore-links 從 SSOT    | Step 13    | knowledge sporeLinks regen | `sync-spore-links.py`                 | drift = manual override      |
 | 不手寫 knowledge sporeLinks | 全程       | knowledge/\*.md            | manual                                | 會被 Step 12 覆蓋            |
@@ -113,7 +113,7 @@ upstream_canonical:
 1. **Step 1 git sync auto-stash + pop 流程** — 不是「dirty 就 skip pull」，而是 stash + pull + pop（避免 silent stale base）
 2. **Step 6 generate-dashboard-immune.py** — 2026-05-28 wire 修補 5/17 silent stale 11 天；任何新 `public/api/dashboard-*.json` generator 都要在這層 wire（rule of thumb：新 generator 沒進 refresh-data.sh = Step 11 gate 馬上 catch，但 catch ≠ fix）
 3. **Step 7 npm run prebuild 含 8 個 JSON regen** — 不只是 dashboard data，articles / translations / vitals / organism / supporters 全部 regen
-4. **Step 11 verify dashboard freshness gate** — REFLEXES #43 silent failure detection，每個 dashboard-\*.json 必須今天的 mtime；Step 11 catch 之後 routine 不准只 spawn chip，必須當 cycle wire 進來
+4. **Step 11 verify dashboard freshness gate** — REFLEXES #43 silent failure detection，每個 dashboard-\*.json 必須今天的 mtime，analytics 另驗內容日期；Step 11 catch 之後 routine 不准只 spawn chip，必須當 cycle wire 進來
 5. **Step 12 validate-spore-data 5 checks** — SSOT consistency gate，不過不准 ship
 6. **Step 13 sync-spore-links 從 SSOT regen** — 不要手寫 knowledge sporeLinks，會被覆蓋（REFLEXES #38 SSOT drift）
 
@@ -165,7 +165,7 @@ bash scripts/tools/refresh-data.sh
 - git pull 真失敗 → hard abort（人類介入）
 - 任何資料源失敗 → soft skip，心跳繼續用昨天的 cache
 
-**Step 11（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime。任何 stale 表示有 generator 漏跑（REFLEXES #43）。
+**Step 11（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime；`dashboard-analytics.json` 另驗 `lastUpdated` 的日期，若內容被後段流程覆回舊快照就從 fresh sense cache 當場重生。mtime 只能證明檔案被碰過，不能單獨證明內容新鮮。任何 stale 表示有 generator 漏跑或後段覆寫（REFLEXES #43）。
 
 **catch ≠ fix 鐵律**（2026-05-28 誕生；2026-07-05 從 twmd-refresh skill 殼收編 canonical，per dna-audit §S5 業務規則不長殼層）：freshness gate **第 2 次連續 catch 同一個 stale dashboard JSON，必須當 cycle wire fix**——識別 generator → 確認/補 wire 進 refresh-data.sh → commit heal——不准再 spawn chip 推給下個 session。背景：dashboard-immune.json 5/17→5/28 共 11 天 silent stale、22+ cycle 連續 catch 沒 fix，是「Micro mode 不擴張 scope」推 chip 過頭的教訓。
 
@@ -184,7 +184,7 @@ bash scripts/tools/refresh-data.sh
 | 8      | refresh-llms-txt.py                                                                    | public/llms.txt                                              |
 | 9      | update-stats.sh                                                                        | README + stats.json                                          |
 | 10     | extract-build-perf.mjs                                                                 | dashboard-build-perf.json                                    |
-| **11** | **verify dashboard freshness** (REFLEXES #43 gate)                                     | (mtime gate)                                                 |
+| **11** | **verify dashboard freshness** (REFLEXES #43 gate)                                     | (mtime + analytics content gate)                             |
 | **12** | **validate-spore-data.py** (5 checks)                                                  | (SSOT consistency gate)                                      |
 | **13** | **sync-spore-links.py**                                                                | (regen knowledge/\*.md sporeLinks from SSOT)                 |
 | 14     | generate-reports-index.py                                                              | reports/INDEX.md                                             |

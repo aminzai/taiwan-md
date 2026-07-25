@@ -194,12 +194,43 @@ upstream_canonical:
 
 #### 執行指令
 
+> ⛔ **2026-07-25 實測：`permission=triage` 在本 repo 無法執行**。GitHub 的
+> `triage` 與 `maintain` 兩個角色**只存在於 organization 底下的 repo**；
+> `frank890417/taiwan-md` 的 `owner.type` 是 `User`，個人 repo 的
+> collaborator permission 只吃 `pull` / `push` / `admin`，傳 triage 直接回
+> `422 Validation Failed`（`field: permissions`）。
+>
+> 這條指令從 v1.0 寫進來就沒有真的跑過——現任唯一的非 owner collaborator
+> （Zaious）拿的是 `write`，不是 triage。同一節的「列入 README Trusted
+> Contributors 區」也一樣：README 裡沒有這個區塊，只有 all-contributors 表。
+> **Lv.2 的權限半邊在本 repo 是規格債，不是操作步驟。**
+>
+> 觸發：stantheman0128 於 #1253 依本 pipeline 申請 Lv.2，執行時 422 才現形。
+> 這是 REFLEXES #82 proxy signal 的文件層變體——「pipeline 寫了指令」不等於
+> 「指令跑得動」，中間從來沒有人 dogfood 過。
+
+**當前可執行的 Lv.2 = 認可層，不含 GitHub 權限**：
+
 ```bash
-gh api -X PUT /repos/frank890417/taiwan-md/collaborators/{login} \
-  -f permission=triage
+# 1. 認可（可執行）
+#    .all-contributorsrc 加一筆，contributions 依實際貢獻選 all-contributors key
+#    （code / bug / platform / content / doc / translation / ideas / maintenance）
+#    ⚠️ avatar_url 的 user id 必須用 gh api 查，不要憑猜：
+gh api users/{login} --jq '"id=\(.id) avatar=\(.avatar_url)"'
+
+# 2. review comment 權——公開 repo 任何人本來就能留，不需要調權限
+
+# 3. label / 指派 / close issue 權 → 需要 triage → 需要 repo 搬進 organization
+#    這件事綁在 OBSERVER-QUEUE #10「Semiont 獨立 Git 身份」（org + GitHub App），
+#    等那步落地才有真的 Lv.2 權限層。在那之前不要用 push 代替 triage：
+#    push 含 merge 權，等於直接跳 Lv.3，責任歸屬不同。
 ```
 
-更新 `.all-contributorsrc` 加 `🤔 ideas` / `🚧 maintenance` emoji（依角色）。
+**判準補充（2026-07-25）**：`持續性 ≥ 2 週` 這條的用意是過濾 one-time burst，
+但遇到「單日 burst 但佔據一個沒人覆蓋的測試位置」時（例：stantheman0128 的
+Windows 11 + 繁中環境路徑／CJK bug，4 個 PR 全在同一天）判準會擋掉高價值貢獻者。
+哲宇 2026-07-25 拍板：這種情況以「認可先給、權限等 org」處理，理由寫進回覆讓
+判準破格是透明的，不是靜默放行。
 
 ---
 

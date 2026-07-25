@@ -68,8 +68,15 @@ const headings = extractHeadings(content);
         目錄
       </p>
       <ol class="m-0 flex list-none flex-col gap-[0.1rem] p-0">
+        {/* 2026-07-25 (OBSERVER-QUEUE #12 (a) 到期預設「hairline 極簡版」，
+            issue #1212 §1.1「TOC 底色分層或 hairline 分隔線」)：只在 H2 之間
+            放一條髮絲線當節區分隔，H3 不放（避免把子項切碎成清單）。顏色走
+            --color-border token，深淺色自動各自對比，不需要 dark 分支。
+            first:border-t-0 讓第一項上面不掛線。 */}
         {headings.map((h, i) => (
-          <li class={h.level === 3 ? 'pl-2' : ''}>
+          <li
+            class={`${h.level === 3 ? 'pl-2' : 'border-t border-[var(--color-border)] pt-[0.1rem] first:border-t-0 first:pt-0'}`}
+          >
             <a
               href={`#${h.id}`}
               class="toc-link flex items-baseline gap-[0.6rem] rounded-md border-l-2 border-transparent px-[0.6rem] py-[0.42rem] no-underline transition-[background-color,color] duration-150 hover:bg-[rgba(26,60,52,0.05)] hover:text-[#1a3c34] [&.active]:border-l-[#006d77] [&.active]:bg-[rgba(0,109,119,0.06)] [&.active]:text-[#006d77]"

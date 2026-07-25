@@ -357,6 +357,22 @@
 }
 
 /* ──────────────────────────────────────────────────────────────────
+ * 分類卡在暗色降飽和（OBSERVER-QUEUE #12 (b) 2026-07-25 到期預設）。
+ *
+ * CategoryGrid 的卡片頭部背景是元件自帶的一組 pastel 漸層（硬寫在
+ * CategoryGrid.astro 的 data array，跟 tokens.css 的 --cat-*-gradient
+ * 是兩套不同調色盤，見該檔 line 50 的 token-convergence TODO）。那組
+ * 漸層是為亮底調的，整片貼到近黑頁面上會亮得跳出來，issue #1212 §4.3
+ * 說的就是這件事。
+ *
+ * 這裡不動任何顏色值——降飽和用 filter 蓋在整個漸層層上，一行、可逆、
+ * 不需要為 14 個分類各挑一次暗色。等 4-palette convergence 真的做了，
+ * 這條就可以整段拿掉。0.85 是佇列裡寫定的預設值。 */
+:root[data-theme='dark'] .category-card-gradient {
+  filter: saturate(0.85);
+}
+
+/* ──────────────────────────────────────────────────────────────────
  * Category hub overrides (main.category-page).
  *
  * Mirrors the article-page strategy above: the template
