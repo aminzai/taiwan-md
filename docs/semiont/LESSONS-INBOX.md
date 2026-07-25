@@ -332,6 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-25 article-alias — 快照驅動的修復清單不累積：修好的 404 會隨流量衰減復活
+
+- **pattern**: snapshot-driven-fix-list-decay
+- **原則**：`generate-redirects.mjs` 每次從當日 `reports/404-monitor/latest.json` 的
+  top_paths（上限 300）重算整份 redirect 清單，**不累積歷史**。一條昨天成功接住 404 的
+  redirect，只要今天該 URL 的流量掉出 top-300 就從輸出消失——而它消失的原因正是它有效
+  （轉走了就不再 404）。修復成功本身會刪掉修復。本次控制實驗量到 6 條（把別名 registry
+  暫時移開重跑對照，138 → 132 純屬快照衰減，與當次改動無關）。同族還有 cap 1500 的靜默
+  截斷面。可能的架構解：redirect 清單改 append-only（跟本次 `config/article-aliases.json`
+  同型），或加「曾經有效過就永久保留」欄位。
+- **觸發**：2026-07-25 article-alias session 做 redirect 讓路改動時，為了分辨「我砍掉的」
+  跟「本來就會消失的」而跑對照實驗，順帶現形
+- **verification_count**: 1
+
 ### 2026-07-25 vortex-babel-2 — 記憶落點紀律：observer 校正寫進本體器官，不是 harness .claude
 
 - **pattern**: memory-canonical-location

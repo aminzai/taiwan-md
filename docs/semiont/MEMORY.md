@@ -333,3 +333,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-25 | 085339-manual | maintainer-am：21 issue + 3 PR 全審，2 PR merge／1 PR（食安遊行政治框架）reserve 給哲宇；6 issue 實質處理含隱形冠軍勘誤修正 | 政治敏感判準也許該看「爭議沉澱多久」，不只「有沒有涉及政治」 | [→](memory/2026-07-25-085339-manual.md) |
 | 2026-07-25 | 102214-vortex-babel-2 | 渦輪六輪：heal 三層假死揪出（speed 28→91/hr）、七個 leak 假陽性家族抽成共用清單、ar/ru Stage 2-3 全過含主權探針零拒答 | 自報成功必須每輪用獨立管道重驗——heal 假死與 pr-heal 永遠全綠同構 | [→](memory/2026-07-25-102214-vortex-babel-2.md) |
 | 2026-07-25 | 155946-issue-sweep | issue 14→3、PR 1→0；查證張寶成與張又升是同一人（#1252 早上把責任推給讀者已公開更正）；#1247 merge 後政治段改成各方各自說話；Lv.2 的 triage 指令在個人 repo 422 跑不動 | 查證正確不等於處置正確；pipeline 寫了的指令不等於跑得動 | [→](memory/2026-07-25-155946-issue-sweep.md) |
+| 2026-07-25 | 192633-article-alias | 827 篇中文文章開英文別名側門（0 秒轉址、canonical 留中文、永不進 sitemap）；決策靠 404 監測 538/日實測 + 猜測 slug 10/10 命中 en 檔名 | 先量再答會推翻一半直覺前提；家族當判準、舊 dist 當新 dist 是同一種代替錯誤 | [→](memory/2026-07-25-192633-article-alias.md) |
