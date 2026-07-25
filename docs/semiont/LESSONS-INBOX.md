@@ -332,6 +332,13 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-25 vortex-babel-2 — 子代等一個不存在的通知：spawn prompt 必須寫死「前景串行」
+
+- **pattern**: subagent-phantom-notification-wait
+- **原則**：同一輪兩個子代（UI bundle 翻譯、結構化 pilot）獨立犯同型錯：把長任務丟 run_in_background 後結束回合，說「等 batch monitor／monitor 通知我再繼續」——但子代環境裡背景指令完成**不會**通知它自己，於是工作停擺、回合結束被誤讀為完成。母 session 收到的「完成通知」其實是「子代停了」，兩者無法區分，必須獨立查證實際狀態（process 在不在、檔案有沒有動）再決定是驗收還是叫醒。**預防**：spawn prompt 對含長時指令的任務一律寫死「前景串行執行，跑完一個再跑下一個；禁止 run_in_background 後等通知」。呼應 feedback_subagent_anti_example_works：把這段實例貼進未來 prompt 比抽象規則有效
+- **觸發**：2026-07-25 五路並行中兩路（aaed4b28 / a87b514d），各浪費一輪喚醒
+- **verification_count**: 2（同日兩例）
+
 ### 2026-07-25 vortex-babel — heal 工具的 re-check 跟 CI gate 不同尺，自報全綠而 CI 紅
 
 - **pattern**: tool-self-recheck-divergence（two-rulers 家族在既有工具上的 instance）
