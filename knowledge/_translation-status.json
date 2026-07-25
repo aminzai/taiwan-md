@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T23:35:52+08:00",
-    "zhCommitHead": "7b89d3ec4",
+    "lastUpdated": "2026-07-25T23:36:19+08:00",
+    "zhCommitHead": "84983dc6a",
     "totalZh": 864,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 864,
-        "fresh": 226,
+        "fresh": 227,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 637,
+        "missing": 636,
         "orphan": 0
       }
     },
@@ -87902,7 +87902,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/offshore-islands-and-maritime-culture.md",
+          "translatedFrom": "Geography/離島與海洋文化.md",
+          "sourceCommitSha": "a05d24314",
+          "sourceContentHash": "sha256:a5ce1cc1637b843d",
+          "sourceBodyHash": "sha256:3262816e651d35d1",
+          "translatedAt": "2026-07-25T21:33:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
