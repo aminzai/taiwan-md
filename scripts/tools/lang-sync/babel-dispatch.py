@@ -324,6 +324,7 @@ class RunState:
     def __init__(self):
         self.lock = threading.Lock()
         self.pending_ok: dict = defaultdict(int)          # lang -> count since last commit
+        self.pending_since: dict = {}                     # lang -> monotonic time of first pending item
         self.pending_workers: dict = defaultdict(set)     # lang -> {worker labels} since last commit
         self.pending_files: dict = defaultdict(list)      # lang -> [trans_path] since last commit — the
                                                             # ONLY paths git_lock_commit is allowed to add
@@ -515,6 +516,7 @@ def do_commit(lang: str, state: RunState, no_commit: bool, log: Logger) -> None:
         state.pending_ok[lang] = 0
         state.pending_workers[lang] = set()
         state.pending_files[lang] = []
+        state.pending_since.pop(lang, None)
     if n == 0:
         return
     if no_commit:
@@ -651,6 +653,7 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
             state.pending_ok[lang] += 1
             state.pending_workers[lang].add(worker.label)
             state.pending_files[lang].append(trans_path)
+            state.pending_since.setdefault(lang, time.monotonic())
             reached = state.pending_ok[lang] >= commit_every
         if reached:
             do_commit(lang, state, no_commit, log)
@@ -826,15 +829,26 @@ def main() -> None:
             for f in futures:
                 f.result()
 
-        # End-of-round flush: commit whatever's pending even if under threshold.
+        # 2026-07-25 哲宇 callout「中間為啥還是 commit 的那麼散」：原本每輪結束
+        # 無條件 flush 零頭（1-8 篇的 commit 一輪一串），--commit-every 50 形同
+        # 只對單輪內的大批有效。改成跨輪累積：只有零頭放超過 90 分鐘才時間性
+        # flush（防 run 中途死掉時未 commit 的工作懸空太久），其餘累到門檻才出手。
+        FLUSH_AGE_S = 5400
+        now = time.monotonic()
         for lang in list(per_lang_tasks.keys()):
-            do_commit(lang, state, args.no_commit, log)
+            since = state.pending_since.get(lang)
+            if since is not None and now - since >= FLUSH_AGE_S:
+                do_commit(lang, state, args.no_commit, log)
 
         if args.max_articles is not None and total_enqueued >= args.max_articles:
             log(f"max-articles budget ({args.max_articles}) reached after round {round_num} — stopping.")
             break
     else:
         log(f"Reached --rounds limit ({args.rounds}) without exhausting the worklist.")
+
+    # run 結束：把所有語言的零頭一次收乾淨（唯一的無條件 flush 點）
+    for lang in list(state.pending_ok.keys()):
+        do_commit(lang, state, args.no_commit, log)
 
     log("\n===== FINAL STATUS =====")
     final = refresh_status(log)
