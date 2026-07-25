@@ -332,6 +332,21 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-25 vortex-babel — heal 工具的 re-check 跟 CI gate 不同尺，自報全綠而 CI 紅
+
+- **pattern**: tool-self-recheck-divergence（two-rulers 家族在既有工具上的 instance）
+- **原則**：`contributor-pr-heal.py` 修完後自報 `hard=0 warn=0`，但用 CI 實際跑的
+  `article-health --profile=ci-deploy` 獨立驗是 `hard=12`——它漏了 markdown 連結裡
+  URL 尾端的空格這一類，而且 re-check 的判定寬於 ci-deploy。**heal 工具的通過標準
+  必須就是部署閘門的標準**，否則它的「已修好」是一句沒有兌現保證的話，contributor
+  PR 會在 merge 之後才炸。修法候選：heal 的 re-check 一律指定 `--profile=ci-deploy`
+  （跟 deploy.yml 同一個 profile 名），或直接引用 workflow 的那行指令
+- **同日同型**：我自己寫的 heal-passthrough-fields 用字串比而 verify 用 yaml 語意比、
+  ratio band 我用 bytes 比而工具用字元比、leak-check 兩個分支各一套豁免清單。
+  一天七次，**病根都是「檢查器與被檢查物、或工具與工具之間沒有共用那把尺」**
+- **觸發**：2026-07-25 PR #1248（旺旺）merge 後 CI 紅，格式 heal 後仍紅
+- **verification_count**: 3（heal 工具 / passthrough 工具 / ratio band）
+
 ### 2026-07-25 ar/ru 出生 — 人名幻覺的第二型：填空而非混淆
 
 - **pattern**: name-hallucination-gap-filling
