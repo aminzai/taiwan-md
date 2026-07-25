@@ -70,7 +70,7 @@ maintainer 去掉 am/pm 差別（pm 7/8 起已 disabled、空場連 3 週），`
 - [x] ~~19 份 prompt 進 git、`routine-sync.py`、`twmd-routine-sync` skill 與 ROUTINE.md 註 ¹⁸~~
 - [x] ~~指揮部 18 條 twmd 排程清空 + 新增 flywheel-watch 監看 + maintainer 整併一班 + music-media 退休~~
 - [ ] **mouhouse 四件純排程層工作待辦**（額度 5hr 上限，2026-07-25 約 21:40 起 2hr42min 後恢復）：建 `twmd-routine-sync`（cron `30 5 * * *` **本地時間**）／刪 `twmd-maintainer-pm` 與 `twmd-music-media-audit-weekly` 註冊／重 dump `routine-live-state.json`（現存那份還記著 babel enabled=true）。ssh 端能做的都做完了，貼入 prompt 在 `~/taiwan-md-mini-migration/03-mouhouse-pending-2026-07-25.md`。**在建好之前跨機同步要手動 `/twmd-routine-sync`。**
-- [ ] 哲宇的 repo Watch 設定沒查到（現有 token 缺 `notifications` 權限）。換 bot 開 issue 後他會不會收到通知這格仍是未知，下次補 `gh auth refresh -s notifications` 或他自己看一眼
+- [x] ~~哲宇的 repo Watch 設定沒查到~~ → retired by 本 session：哲宇當場用 UI 的 Custom 只訂 Issues（不訂 PR，避開 babel 與 contributor 的 PR 量）。副作用是通知反而變好——GitHub 不通知你自己的動作，所以以前他開的 feedback issue 不會進通知，換成 bot 開之後會
 - [ ] 明天 07:00 feedback-triage 第一次以 App 身份無人值守 fire——驗收看 issue 作者是不是 `app/taiwanmd-semiont`。14 天零事故則併回 OBSERVER-QUEUE #10 Phase 2
 
 ## Beat 5 — 反芻
