@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T19:09:07+08:00",
-    "zhCommitHead": "d0036adcf",
+    "lastUpdated": "2026-07-25T19:10:39+08:00",
+    "zhCommitHead": "6db87a348",
     "totalZh": 864,
     "activeLanguages": [
       "en",
@@ -15641,18 +15641,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Technology/national-cultural-memory-bank.md",
-          "translatedFrom": "Technology/國家文化記憶庫.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:6f90dbf2e1df699d",
-          "sourceBodyHash": "sha256:f903cddb5dedf5bd",
-          "translatedAt": "2026-07-25T15:46:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 15,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -26630,7 +26619,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/thinking-taiwan-forum.md",
+          "translatedFrom": "Society/想想論壇.md",
+          "sourceCommitSha": "4cd497a8f",
+          "sourceContentHash": "sha256:bcaa0405d5ac9323",
+          "sourceBodyHash": "sha256:320656ee0819969f",
+          "translatedAt": "2026-07-25T18:48:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/thinking-taiwan-forum.md",
@@ -74270,8 +74270,8 @@
           "sourceContentHash": "sha256:7aeb090ae7f880d7",
           "sourceBodyHash": "sha256:07d9c3b482846ce9",
           "translatedAt": "2026-07-25T17:25:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6db87a34",
+          "translationLastModified": "2026-07-25T19:09:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -86324,8 +86324,8 @@
           "sourceContentHash": "sha256:9369d7f73b449799",
           "sourceBodyHash": "sha256:efc3d350be263a65",
           "translatedAt": "2026-07-25T17:25:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6db87a34",
+          "translationLastModified": "2026-07-25T19:09:08+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
