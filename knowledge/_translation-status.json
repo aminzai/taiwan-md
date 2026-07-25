@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T09:02:45+08:00",
-    "zhCommitHead": "489f00103",
+    "lastUpdated": "2026-07-25T09:20:25+08:00",
+    "zhCommitHead": "0f2a8cb62",
     "totalZh": 863,
     "activeLanguages": [
       "en",
@@ -59,26 +59,26 @@
       },
       "vi": {
         "total_zh": 863,
-        "fresh": 83,
+        "fresh": 86,
         "stale": 8,
         "metadata_stale": 0,
-        "missing": 772,
+        "missing": 769,
         "orphan": 0
       },
       "id": {
         "total_zh": 863,
-        "fresh": 144,
+        "fresh": 145,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 716,
+        "missing": 715,
         "orphan": 0
       },
       "pt": {
         "total_zh": 863,
-        "fresh": 198,
+        "fresh": 199,
         "stale": 10,
         "metadata_stale": 0,
-        "missing": 655,
+        "missing": 654,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 863,
-        "fresh": 63,
+        "fresh": 65,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 800,
+        "missing": 798,
         "orphan": 0
       },
       "ru": {
         "total_zh": 863,
-        "fresh": 75,
+        "fresh": 77,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 788,
+        "missing": 786,
         "orphan": 0
       }
     },
@@ -12922,18 +12922,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Technology/computex-taipei.md",
-          "translatedFrom": "Technology/Computex.md",
-          "sourceCommitSha": "52389a7cb",
-          "sourceContentHash": "sha256:c2deb4a945d2dc5b",
-          "sourceBodyHash": "sha256:a4c6e70e74235d09",
-          "translatedAt": "2026-07-25T06:33:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 60,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -24939,18 +24928,7 @@
           "status": "missing"
         },
         "hi": {
-          "path": "hi/Society/taiwan-nuclear-debate.md",
-          "translatedFrom": "Society/台灣與核能的討論.md",
-          "sourceCommitSha": "95c3b1afd",
-          "sourceContentHash": "sha256:5d718d4ccb9dca76",
-          "sourceBodyHash": "sha256:b97d2d0eea4b5afe",
-          "translatedAt": "2026-07-25T06:33:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 52,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -26227,7 +26205,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/encyclopedia-of-taiwan.md",
+          "translatedFrom": "Society/臺灣大百科全書.md",
+          "sourceCommitSha": "4cd497a8f",
+          "sourceContentHash": "sha256:dacc755fc6695d56",
+          "sourceBodyHash": "sha256:8ca41487dbdd4aec",
+          "translatedAt": "2026-07-25T07:56:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -47415,7 +47404,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/momofuku-ando-instant-noodle-inventor.md",
+          "translatedFrom": "People/吳百福.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1b59d09fec786013",
+          "sourceBodyHash": "sha256:3e07cf6a17af5d88",
+          "translatedAt": "2026-07-25T07:55:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -60867,7 +60867,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/lim-giong.md",
+          "translatedFrom": "People/林強.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a8fc4383d9d485f8",
+          "sourceBodyHash": "sha256:d49e5d04c317a204",
+          "translatedAt": "2026-07-25T07:56:00+08:00",
+          "translationLastCommit": "0f2a8cb6",
+          "translationLastModified": "2026-07-25T09:14:11+08:00",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -62801,7 +62812,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/he-feipeng.md",
+          "translatedFrom": "People/何飛鵬.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:c6c5b08befa8584a",
+          "sourceBodyHash": "sha256:65be42b8cac6c9ca",
+          "translatedAt": "2026-07-25T07:56:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/he-feipeng.md",
@@ -69352,8 +69374,8 @@
           "sourceContentHash": "sha256:7aeb090ae7f880d7",
           "sourceBodyHash": "sha256:07d9c3b482846ce9",
           "translatedAt": "2026-07-25T07:56:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0f2a8cb6",
+          "translationLastModified": "2026-07-25T09:14:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -70525,7 +70547,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-coffee-culture.md",
+          "translatedFrom": "Food/台灣咖啡文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:547ccdf1b16e61de",
+          "sourceBodyHash": "sha256:a7a3d68abd8527fd",
+          "translatedAt": "2026-07-25T07:56:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -75122,7 +75155,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taiwan-forestry-history.md",
+          "translatedFrom": "History/台灣森林開發史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8069998f1aa354c8",
+          "sourceBodyHash": "sha256:55bbc4efed5f30a9",
+          "translatedAt": "2026-07-25T07:55:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/taiwan-forestry-history.md",
@@ -77299,7 +77343,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taiwan-military-dependents-villages-history.md",
+          "translatedFrom": "History/台灣眷村歷史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:e26ca70cc051b743",
+          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
+          "translatedAt": "2026-07-25T07:55:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/taiwan-military-dependents-villages-history.md",
@@ -79065,7 +79120,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/administrative-divisions-of-taiwan.md",
+          "translatedFrom": "Geography/台灣行政區劃.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:349360e6f67e2293",
+          "sourceBodyHash": "sha256:a900fc355006c673",
+          "translatedAt": "2026-07-25T07:56:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/administrative-divisions-of-taiwan.md",
@@ -85157,7 +85223,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/elder-greeting-images.md",
+          "translatedFrom": "Culture/長輩圖.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a9ec01947f1e86fd",
+          "sourceBodyHash": "sha256:5921893fd25166ac",
+          "translatedAt": "2026-07-25T07:55:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/elder-greeting-images.md",
@@ -86085,7 +86162,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/traditional-festivals-and-celebrations.md",
+          "translatedFrom": "Culture/傳統節慶與慶典.md",
+          "sourceCommitSha": "a05d24314",
+          "sourceContentHash": "sha256:3bac2c2faa70bd6e",
+          "sourceBodyHash": "sha256:325c4509ad66d26d",
+          "translatedAt": "2026-07-25T07:55:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/traditional-festivals-and-celebrations.md",
@@ -90142,7 +90230,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/divine-pig-festival.md",
+          "translatedFrom": "Culture/神豬.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4e7bd6002d83c43b",
+          "sourceBodyHash": "sha256:0f6781254171f7ba",
+          "translatedAt": "2026-07-25T07:56:00+08:00",
+          "translationLastCommit": "0f2a8cb6",
+          "translationLastModified": "2026-07-25T09:14:11+08:00",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/divine-pig-festival.md",
