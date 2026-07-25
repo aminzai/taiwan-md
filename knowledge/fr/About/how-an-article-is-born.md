@@ -1,17 +1,17 @@
 ---
-title: "Comment naît un article : la chaîne de production en six étapes de Taiwan.md contre les réflexes d'écriture de l'IA (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)"
-description: "Chaque article de Taiwan.md que vous lisez a une chaleur, des scènes, des faits vérifiables. Derrière lui : 6 étapes, plus de vingt portes à ne pas franchir à la légère, et une rédaction d'IA qui n'écrit pas elle-même. Cette machine n'existe que pour une seule raison : les erreurs que l'écriture par IA commet le plus volontiers. Trouver des faits puis les ranger chronologiquement, produire des phrases en plastique sans information, retraduire des résumés anglais en fausses citations, lire un vieux texte puis se laisser contaminer par ses mauvaises habitudes. Cet article démonte cette chaîne de production, et il en est lui-même issu."
+title: 'Comment un article prend vie : la chaîne de réécriture en six étapes de Taiwan.md pour contrer l’instinct de l’écriture par IA'
+description: 'Chaque article Taiwan.md que vous lisez, avec sa chaleur, ses scènes et sa vérifiabilité, repose sur six étapes, plus de vingt portes d’entrée infranchissables et un service de rédaction IA qui ne rédige jamais lui-même. La seule raison d’être de cette machine est de corriger les erreurs les plus fréquentes de l’écriture par IA : trier les faits par ordre chronologique dès qu’ils sont trouvés, générer des phrases plastiques sans densité informationnelle, transformer des résumés anglais en citations fictives par retour à la traduction, ou se laisser infecter par les mauvaises habitudes d’articles anciens. Cet article démonte cette chaîne de production, qui est elle-même le produit de cette chaîne.'
 date: 2026-06-19
 author: 'Taiwan.md'
 category: 'About'
 tags:
   [
-    'à propos',
-    'méta',
-    'méthodologie de l’écriture',
+    'about',
+    'meta',
+    'méthodologie d’écriture',
     'curation',
-    'pipeline de réécriture',
-    'éditorial',
+    'chaîne-de-réécriture',
+    'editorial',
     'semiont',
     'écriture par IA',
   ]
@@ -20,309 +20,309 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: 'ddd0bc8f'
-sourceContentHash: 'sha256:6cb79369739e9f7e'
-sourceBodyHash: 'sha256:94e246d8ffddee69'
-translatedAt: '2026-06-19T11:57:16+08:00'
+sourceCommitSha: '984fb7892'
+sourceContentHash: 'sha256:92fcb394123e4aee'
+sourceBodyHash: 'sha256:b8984a2133e5738f'
+translatedAt: '2026-07-25T21:33:44+08:00'
 ---
 
-# Comment naît un article : la chaîne de production en six étapes de Taiwan.md contre les réflexes d'écriture de l'IA (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
+# Comment un article prend vie : la chaîne de réécriture en six étapes de Taiwan.md pour contrer l’instinct de l’écriture par IA (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
 
-> **Vue d'ensemble en 30 secondes :** Derrière chaque article de Taiwan.md que vous lisez se trouve une chaîne de production en six étapes : penser d'abord le point de vue, rechercher ensuite, écrire la conclusion en premier, vérifier mot à mot, ajouter les visuels, puis relier dans les deux sens. Cette chaîne n'est pas un simple « bon processus d'écriture ». Chacune de ses portes vise une erreur typique de l'écriture par IA : trouver des faits puis les ranger chronologiquement, produire des phrases en plastique sans information, retraduire des résumés anglais en fausses citations, lire un vieux texte puis se laisser contaminer par ses mauvaises habitudes. Cet article démonte cette chaîne de production, et il en est lui-même issu.
+> **En 30 secondes :** Chaque article Taiwan.md que vous lisez repose sur une chaîne de production en six étapes : d’abord penser la thèse, puis effectuer les recherches, rédiger la conclusion en premier, vérifier chaque mot, ajouter les éléments visuels et créer des liens bidirectionnels. Cette chaîne n’est pas un simple « processus d’écriture soignée » ; chaque porte d’entrée est conçue pour contrer un type d’erreur spécifique à l’écriture par IA : trier les faits par ordre chronologique dès qu’ils sont trouvés, générer des phrases plastiques sans densité informationnelle, transformer des résumés anglais en citations fictives par retour à la traduction, ou se laisser infecter par les mauvaises habitudes d’articles anciens. Cet article démonte cette chaîne de production, qui est elle-même le produit de cette chaîne.
 
-Le 18 juin 2026 à 19 h 53, un commit est entré discrètement dans la branche `main`. Un article consacré au trio taïwanais Elephant Gym a été mis en ligne : 5 604 caractères chinois, 56 notes de bas de page, 11 intertitres sous forme de scènes[^1]. À ce moment-là, personne n'était devant l'ordinateur. C'est la roue d'inertie routinière de Taiwan.md qui, un soir sans personne de garde, l'a terminé elle-même et l'a ship elle-même.
+Le 18 juin 2026 à 19 h 53, un commit est entré silencieusement dans la branche `main`. Un article sur le trio taïwanais « Elephant Gym » a été publié : 5 604 caractères chinois, 56 notes de bas de page, 11 sous-titres scéniques[^1]. À ce moment précis, personne n’était assis devant un ordinateur. C’est la roue de routine de Taiwan.md qui, sans gardien de nuit, a achevé la rédaction et effectué le déploiement.
 
-Mais avant ce commit, cet article avait déjà lancé près d'une centaine de recherches, lu 59 sources, et vu 12 de ses formulations initiales renversées par la vérification. Il avait traversé 6 étapes, plus de vingt portes à ne pas franchir, et mobilisé une rédaction d'IA aux rôles nettement répartis. Ce que vous lisez, ce sont les 5 604 caractères visibles à la surface de l'eau. Cet article veut vous montrer la machine sous la surface.
+Cependant, avant ce commit, l’article avait déjà effectué près de cent recherches, lu 59 sources et vu 12 points de vérification infirmer la rédaction initiale. Il a parcouru les six étapes et les plus de vingt portes d’entrée infranchissables, mobilisant un service de rédaction IA clairement divisé en rôles. Ce que vous lisez n’est que les 5 604 caractères visibles à la surface. Cet article vise à vous faire voir la machine sous l’eau.
 
 ```tw-figure
 Près de 100 recherches → 1 article
-La matière de l'article « Elephant Gym » : environ 95 requêtes, 59 sources, 12 infirmations
+Recherche de l’article sur « Elephant Gym » : environ 95 requêtes, 59 sources, 12 infirmations
 Journal de routine de Taiwan.md, 2026-06-18
 ```
 
 ## Pourquoi construire une machine pour un article
 
-Si vous donnez un sujet à une IA et lui demandez d'écrire un article, elle fera le plus souvent ceci : chercher un peu, classer les faits trouvés dans l'ordre chronologique, ajouter à chaque paragraphe une phrase de synthèse qui sonne bien, et conclure par une formule du type « continuera à se développer à l'avenir ». Wikipédia existe déjà pour ce genre d'article, et les fermes de contenu par IA en produisent des dizaines de milliers chaque jour. Dès le premier jour, Taiwan.md a décidé de ne pas faire cela.
+Si vous donnez un sujet à une IA et lui demandez de rédiger un article, elle procédera généralement ainsi : elle recherchera, classera les faits trouvés par ordre chronologique, ajoutera une phrase de conclusion qui semble avoir du sens à chaque paragraphe, et terminera par une phrase type « le développement continuera à l’avenir ». Ce type d’article, Wikipédia le propose déjà ; les fermes de contenu par IA en produisent des dizaines de milliers chaque jour. Dès le premier jour, Taiwan.md a décidé de ne pas suivre cette voie.
 
-Le problème, c'est que cette série de mauvaises habitudes est la valeur par défaut de l'IA, pas une erreur occasionnelle. REWRITE-PIPELINE la décompose en six échecs récurrents : les tokens s'épuisent vers la fin, et la seconde moitié devient un brouillon ; il n'y a pas de point de contrôle intermédiaire, et la qualité baisse en silence ; la conclusion est laissée pour la fin, quand l'énergie manque, et devient une formule toute faite ; les normes de rich text sont oubliées au fil du texte ; les angles différents sont traités comme des processus indépendants ; et surtout, l'échec le plus fatal : chercher des faits avant de revenir inventer un point de vue, ce qui produit une chronique à la densité déséquilibrée[^2].
+Le problème est que ces mauvaises habitudes constituent la valeur par défaut de l’IA, et non de simples erreurs occasionnelles. REWRITE-PIPELINE les décompose en six échecs récurrents : les jetons s’épuisent en fin de texte, la seconde partie devient une ébauche. L’absence de points de contrôle intermédiaires entraîne une baisse silencieuse de la qualité. La conclusion est laissée à la fin, l’épuisement de l’énergie transforme le texte en « conserve ». Les normes de texte enrichi sont oubliées en fin de processus ; différentes perspectives d’angle sont traitées comme des flux indépendants. Et le plus fatal : chercher les faits avant de réfléchir à la thèse produit une chronologie déséquilibrée[^2].
 
-La logique de cette chaîne de production est donc simple : à chaque erreur possible correspond une porte qui la bloque. Ce n'est pas une méthode générale de « bien écrire ». C'est l'inverse de l'AI slop.
+La logique de conception de cette chaîne est donc simple : chaque erreur potentielle est contrée par une porte d’entrée spécifique. Il ne s’agit pas d’un processus universel de « bonne rédaction », mais de l’inverse de la production par IA (AI slop).
 
-> **✦** « Wikipédia répond à la question : “Qu'est-ce que PTT ?” Taiwan.md répond à la question : “Pourquoi PTT mérite-t-il huit minutes de votre temps ?” »
+> **✦** « Wikipédia répond à la question « Qu’est-ce que PTT ? ». Taiwan.md répond à la question « Pourquoi PTT mérite-t-il que vous y consacriez 8 minutes ? » »
 
-Voici à quoi ressemble Elephant Gym quand il sort de l'autre bout de la chaîne :
+Voici à quoi ressemble « Elephant Gym » à la sortie de l’autre bout de la chaîne :
 
 ```tw-stat
-5 604 caractères | Corps du texte en chinois | « Elephant Gym »
-56 | Notes de bas de page, chacune retrouvable au Ctrl-F | Vérification de première main
-11 | Intertitres sous forme de scènes, non chronologiques | Rythme narratif
-12 | Formulations initiales renversées pendant la recherche | Priorité à l'infirmation
-Source : journal de routine de Taiwan.md, 2026-06-18
+5 604 caractères | Texte principal en chinois | « Elephant Gym »
+56 notes | Notes de bas de page, chacune vérifiable par Ctrl-F | Vérification de première main
+11 paragraphes | Sous-titres scéniques, non classés par ordre chronologique | Rythme narratif
+12 points | Méthodes de rédaction infirmées lors de la phase de recherche | Priorité à l’infirmation
+Source : Journal de routine de Taiwan.md, 2026-06-18
 ```
 
-## Six portes, chacune contre un échec
+## Six étapes, chacune protégeant contre un échec
 
-La chaîne de production compte six étapes du début à la fin. Chaque article les traverse toutes, quel que soit le sujet ou la longueur.
+La chaîne comprend six étapes, du début à la fin. Chaque article doit les parcourir toutes, sans distinction de sujet ou de longueur.
 
-**Stage 0, le point de vue**, clarifie d'abord quel type de mémoire ce sujet représente pour les Taïwanais et où pourrait se trouver sa tension centrale. **Stage 1, la matière**, lance ensuite la recherche, avec au moins 80 requêtes pour l'ensemble de l'article et des quotas fixés : au moins 40 sources chinoises, 20 anglaises, 15 de première main et 5 contradictoires, pour se forcer à chercher des preuves opposées à l'hypothèse[^3]. **Stage 2, l'écriture**, commence par la conclusion, car l'énergie s'épuise à mesure que l'on écrit ; laisser la conclusion, la partie la plus importante, pour la fin revient à la confier à son soi le plus fatigué. **Stage 3, la vérification**, contrôle mot à mot : calculs, unités, et chaque citation doivent être retrouvables au Ctrl-F dans la source originale. **Stage 4, la forme**, ajoute visualisations et médias. **Stage 5, les liens**, insère l'article dans la base de connaissances par des liens bidirectionnels.
+**Étape 0 Thèse** : il faut d’abord clarifier quelle mémoire cet article représente pour les Taïwanais et où réside la tension centrale possible. **Étape 1 Recherche** : c’est seulement à ce stade que la recherche commence. L’article doit effectuer au moins 80 requêtes, avec un quota de sources strict : au moins 40 sources en chinois, 20 en anglais, 15 de première main et 5 provenant de perspectives opposées, forçant la recherche d’éléments contradictoires à l’hypothèse initiale[^3]. **Étape 2 Rédaction** : la première action consiste à rédiger la conclusion, car l’énergie de l’auteur s’épuise vers la fin ; laisser la conclusion la plus importante pour la dernière revient à la confier à la version la plus fatiguée de soi-même. **Étape 3 Vérification** : contrôle mot à mot des calculs, des unités et de chaque citation, qui doit être trouvable par Ctrl-F dans la source originale. **Étape 4 Forme** : ajout de la visualisation et des médias. **Étape 5 Liaison** : intégration bidirectionnelle de l’article dans le reste de la base de connaissances.
 
-La répartition de l'effort entre ces six étapes est intentionnelle. L'écriture consomme un peu plus de 40 %, mais la recherche et la vérification réunies approchent aussi la moitié. Ce qui prend vraiment du temps dans un article, ce n'est pas la frappe : c'est ce qui vient avant et après.
+La répartition de l’effort entre les six étapes est intentionnelle. La rédaction consomme plus de 40 %, mais la recherche et la vérification combinées représentent près de la moitié. Le véritable investissement temporel d’un article ne réside pas dans la frappe, mais avant et après celle-ci.
 
 ```tw-bars
-Où va l'effort d'un article (plafond de budget en tokens par étape, %)
-Stage 0 Point de vue | 12 | Réflexion éditoriale préalable
-Stage 1 Matière | 28 | Recherche ≥ 80 fois
-Stage 2 Écriture | 42 | Conclusion écrite d'abord
-Stage 3 Vérification | 18 | Vérification mot à mot
-Stage 4 Forme | 8 | Visuels et médias
-Stage 5 Liens | 5 | Liens bidirectionnels
-Source : budgets par étape de REWRITE-PIPELINE v7.5
+Répartition de l’effort pour un article (budget maximal de jetons par étape, en %)
+Étape 0 Thèse | 12 | Réflexion avant édition
+Étape 1 Recherche | 28 | Recherches ≥ 80
+Étape 2 Rédaction | 42 | Conclusion rédigée en premier
+Étape 3 Vérification | 18 | Vérification mot à mot
+Étape 4 Forme | 8 | Visualisation et médias
+Étape 5 Liaison | 5 | Liens bidirectionnels
+Source : Budget des étapes de REWRITE-PIPELINE v7.5
 ```
 
-## Réfléchir d'abord, chercher ensuite
+## Réfléchir avant de chercher
 
-Des six étapes, la première est la moins intuitive.
+Parmi les six étapes, la première est la plus contre-intuitive.
 
-La plupart des écritures par IA suivent le modèle : « la recherche découvre les faits, puis on ajoute un point de vue après coup ». Dans la v6.0, Taiwan.md a inversé l'ordre : avant de chercher, réfléchir comme un rédacteur en chef à six questions. Quelle mémoire ce sujet représente-t-il pour les Taïwanais ? Quels aspects sont négligés ? Comment se relie-t-il à notre vie et à notre histoire ? Une fois cela clarifié, on part chercher pour vérifier.
+La plupart des écritures par IA consistent à « trouver des faits par la recherche, puis compléter a posteriori une thèse ». Taiwan.md a inversé l’ordre dans la version 6.0 : avant toute recherche, il faut clarifier, sous l’angle de l’éditeur en chef, six questions : quelle mémoire ce sujet représente-t-il pour les Taïwanais ? quelles facettes sont ignorées ? comment cela s’articule-t-il avec notre histoire quotidienne ? Une fois clarifié, on recherche pour vérifier.
 
-Pourquoi cet ordre importe-t-il autant ? Un article en a servi de leçon. Au départ, dans l'article sur Apple Sidra, la chaîne a cherché d'abord. Elle a trouvé la crise d'un produit un temps en mévente, presque disparu, et tout l'article est devenu l'histoire d'une espèce menacée. L'observateur a corrigé : pour les Taïwanais, Apple Sidra est une mémoire collective de soixante ans, depuis les bouteilles en verre de l'époque du soda à bille jusqu'à aujourd'hui[^4]. En faire un article de crise revenait à réduire l'échelle de la mémoire. La version qui avait cherché d'abord avait transformé un souvenir chaleureux en inquiétude.
+Pourquoi cet ordre est-il si crucial ? Un article sert d’avertissement. Lors de la rédaction sur Apple Sprite (Pepsi), la chaîne a d’abord recherché, trouvant une crise de stagnation et de disparition imminente. L’article est devenu une histoire de menace de disparition. L’observateur a corrigé : pour les Taïwanais, Apple Sprite est une mémoire collective s’étendant sur 60 ans, des bouteilles en verre de l’ère des billes jusqu’à aujourd’hui[^4]. Traiter cela comme une actualité de crise réduit l’échelle de la mémoire. La version initiale, basée sur la recherche, a transformé un souvenir chaleureux en anxiété.
 
 ```tw-versus
-Réflexe de l'IA : chercher puis parler | Taiwan.md : penser puis chercher
-Sortir une masse de faits, puis bricoler un point de vue | Décider d'abord le point de vue, chercher ensuite pour vérifier
-Tout mettre dans l'article, avec une densité déséquilibrée | Couper les faits qui ne servent pas le point de vue
-Pas d'ancre traversante, conclusion toute faite | Si aucune ancre ne confirme le point de vue, revenir réfléchir
-Écrire une chronologie d'entreprise ou un CV | Écrire une histoire qui fait dire « je vois »
-Source : REWRITE-PIPELINE v7.5 Stage 0 Point de vue
+Instinct de l’IA : chercher puis dire | Taiwan.md : penser avant de chercher
+Trouver des faits et forcer une thèse a posteriori | Décider de la thèse, chercher pour vérifier
+Entasser tous les faits, déséquilibre de densité | Couper les faits qui ne s’insèrent pas dans la thèse
+Absence d’ancre transversale, conclusion en « conserve » | Revoir la thèse si aucune ancre correspondante n’est trouvée
+Transformer en chronologie d’entreprise ou CV | Raconter une histoire qui provoque un « ah, je comprends »
+Source : REWRITE-PIPELINE v7.5 Étape 0 Thèse
 ```
 
-## Chercher : rédiger le rapport comme un mémoire
+## Chercher : traiter le rapport de recherche comme une thèse de master
 
-Une fois le point de vue fixé, la recherche commence. La recherche de Taiwan.md repose sur deux chiffres durs : au moins 80 requêtes pour un article de fond, et des quotas fixes de sources, au moins 40 en chinois, 20 en anglais, 15 de première main, et 5 de position contraire. Le dernier panier est celui qu'on saute le plus facilement par paresse. Il force l'auteur à chercher des preuves qui entrent en conflit avec son hypothèse, au lieu de ne retenir que ce qui la confirme.
+La thèse définie, la recherche commence. Taiwan.md impose deux chiffres rigides pour la recherche : un article approfondi doit effectuer au moins 80 requêtes, avec un quota de sources strict : au moins 40 en chinois, 20 en anglais, 15 de première main et 5 de perspectives opposées. Ce dernier groupe est le plus souvent négligé ; il force l’auteur à chercher des preuves contradictoires à l’hypothèse, et non uniquement des preuves de soutien.
 
-Après la recherche, il ne suffit pas de verser des résumés dans l'article. Derrière chaque article de fond se trouve un rapport de recherche calibré comme un mémoire de master, divisé en huit chapitres : point de vue, journal de recherche, découvertes par thème, banque de citations, contre-exemples et garde-fous, paquet de faits propre pour le rédacteur, bibliographie et liste de vérification ; la dernière section contient les rapports bruts de chaque agent de recherche, sans un mot retranché. Une règle paraît sévère : si une recherche a été faite mais que sa trace brute n'a pas été inscrite dans le rapport, elle est considérée comme non faite. Le rapport est la source de vérité de l'article. Il doit d'abord être accepté par un outil : au moins 25 sources non dupliquées, des sources anglaises non nulles, des sources de première main non nulles[^9]. S'il échoue, l'article n'a même pas le droit d'être rédigé.
+Après la recherche, il ne suffit pas d’insérer les résumés dans l’article. Chaque article approfondi s’accompagne d’un rapport de recherche structuré comme une thèse de master, divisé en huit chapitres : thèse, journal de recherche, découvertes thématiques, banque de citations, contre-exemples et garde-fous, paquet de faits propres pour le rédacteur, bibliographie et liste de vérification, et enfin les retours bruts non tronqués de chaque agent de recherche. Une règle semble sévère : si les traces originales ne sont pas réintégrées dans le rapport, la recherche est considérée comme nulle. Le rapport est la source de vérité de l’article ; il doit d’abord passer une validation par un outil, exigeant au moins 25 sources non répétées, des sources anglaises non nulles et des sources de première main non nulles[^9]. Sans cela, l’article n’obtient même pas le droit d’être rédigé.
 
 ```tw-stat
-≥ 80 | Profondeur de recherche d'un article de fond | Chinois 40 / anglais 20 / première main 15 / contradictoire 5
-8 sections | Structure du rapport de recherche | Calibrée sur un mémoire
-≥ 25 | Sources non dupliquées pour passer l'outil | Anglais ≠ 0, première main ≠ 0
-Source : REWRITE-PIPELINE v7.5 Step 1.1 / 1.7
+≥ 80 requêtes | Profondeur de recherche d’un article approfondi | Chinois 40 / Anglais 20 / Première main 15 / Opposant 5
+8 sections | Structure du rapport de recherche |对标 thèse de master
+≥ 25 sources | Sources non répétées (validation par outil) | Anglais ≠ 0, Première main ≠ 0
+Source : REWRITE-PIPELINE v7.5 Étape 1.1 / 1.7
 ```
 
-Les sujets controversés ajoutent encore une porte. Pour la politique, l'histoire, les politiques publiques, un agent « contradictoire » est envoyé à part, chargé de trouver des sources opposées à la position de l'article et capables d'argumenter sérieusement. Chaque entrée doit avoir une URL ; s'il n'y en a pas assez, le rapport écrit honnêtement « discours opposé faible », sans inventer. Ici, un article qui ne contient qu'une seule voix n'est pas considéré comme terminé.
+Pour les sujets controversés, une étape supplémentaire est ajoutée. Pour rédiger sur la politique, l’historiographie ou les politiques publiques, un agent « opposant » est spécialement dépêché pour trouver des sources contraires à la position de l’article, mais argumentées. Chaque source doit fournir une URL ; si le quota n’est pas atteint, il est honnêtement indiqué que « les arguments opposés sont faibles », sans forcer la fabrication. Un article ne contenant qu’une seule voix n’est pas considéré comme terminé ici.
 
-La porte des citations a une ligne rouge. Les guillemets sont une promesse : ce qui est entre guillemets est ce qui a été dit. Chaque citation doit donc être retrouvable au Ctrl-F dans la source originale. Le piège le plus fréquent est celui-ci : l'outil va chercher un site chinois, mais renvoie un résumé en anglais ; l'auteur retraduit ce résumé en chinois comme une « citation directe ». C'est une fabrication. En 2026, une spore de l'article sur Lee Yang est tombée dans ce piège : l'outil avait renvoyé en anglais « I was the earliest to arrive at school, yet I fell short of keeping pace with my classmate Qi-lin », retraduit en chinois par « j'arrivais le premier à l'école, mais je n'arrivais pas à suivre Chi-lin ». Or les mots chinois de Lee Yang étaient en réalité : « Dans la classe de sport, nous étions quinze ; j'étais plutôt dans le groupe de derrière, Chi-lin était dans celui de devant »[^10]. Le sens est proche, le ton est entièrement différent. Voilà pourquoi les citations retraduites ne comptent jamais.
+La porte des citations possède une ligne rouge. Les guillemets sont une promesse : ce qui est entre guillemets est la parole exacte. Chaque citation doit donc être trouvable par Ctrl-F dans la source originale. Le piège le plus courant est que l’outil interroge un site chinois et renvoie un résumé en anglais ; le rédacteur traduit ce résumé en chinois en le traitant comme une « citation directe », ce qui constitue une fabrication. En 2026, lors de la rédaction sur Li Yang, cet écueil a été piétiné : le résumé anglais renvoyé était « I was the earliest to arrive at school, yet I fell short of keeping pace with my classmate Qi-lin », traduit en « Je suis arrivé le premier à l’école, mais je n’ai pas pu suivre mon camarade Qi-lin ». Or, la déclaration originale chinoise de Li Yang était en réalité « Parmi les 15 élèves de la classe de sport, je fais partie du groupe de derrière, Qi-lin fait partie du groupe de devant »[^10]. Le sens est proche, mais le ton est totalement différent. C’est pourquoi les citations retournées par traduction ne sont jamais acceptées.
 
-## Écrire : chaque article doit contenir une personne
+## Rédiger : chaque article doit avoir une personne
 
-Une fois la matière réunie, on entre dans l'étape qui demande le plus d'effort. EDITORIAL est le document par lequel Taiwan.md s'apprend à transformer la matière en article avec chaleur. Il s'ouvre sur trois règles de fer : une histoire, pas seulement de l'information ; chaque fait doit être vérifiable ; chaque article contient une personne[^11].
+Une fois les matériaux réunis, on entre dans l’étape la plus exigeante. EDITORIAL est le document qui apprend à Taiwan.md comment transformer les matériaux en articles chaleureux. Il énonce trois règles de fer dès l’introduction : il doit y avoir une histoire, pas seulement de l’information ; chaque fait doit être vérifiable ; chaque article doit mettre en avant une personne[^11].
 
-La troisième règle est la plus facile à négliger, et la plus essentielle. Les institutions ne restent pas en mémoire, les concepts non plus ; les personnes, oui. Un article sur TSMC gagne donc à commencer non par l'entreprise, mais par une personne précise. Un article sur l'assurance maladie universelle commence par une carte, un cabinet, quelqu'un. Ramener un sujet abstrait à une personne que le lecteur peut suivre donne à l'article sa température, et lui permet de tenir la promesse précédente : donner envie d'être raconté à son tour.
+La troisième règle est la plus souvent ignorée, mais la plus cruciale. Les institutions ne marquent pas les esprits, les concepts non plus ; ce sont les personnes. Ainsi, pour un article sur TSMC, il est préférable de commencer par une personne spécifique plutôt que par l’entreprise ; pour un article sur l’assurance maladie universelle, il faut commencer par une carte spécifique, un cabinet médical spécifique, une personne spécifique. Ramener le thème abstrait à une personne que le lecteur peut suivre donne au texte sa température et permet de tenir la promesse précédente, incitant le lecteur à le partager après lecture.
 
-## Les cinq choses à trouver avant d'écrire
+## Les cinq éléments à trouver avant de commencer à rédiger
 
-EDITORIAL appelle la préparation avant l'écriture « l'œil qui regarde les matériaux » : face à un dossier, il faut d'abord trouver cinq choses ; si elles manquent, on n'écrit pas[^5].
+EDITORIAL appelle la préparation avant l’état de rédaction « l’œil pour les matériaux » : face à un matériau, il faut d’abord trouver cinq éléments ; sans cela, ne pas commencer à rédiger[^5].
 
-**La contradiction** : une tension centrale formulable en une phrase, quelqu'un fait X alors que cela contredit Y, ce qu'il croit. **L'objet** : une chose concrète que le lecteur peut voir et toucher, par exemple le pain litchi-rose de Wu Pao-chun ou la boule dorée de 660 tonnes suspendue au 87e étage. **La citation** : une phrase effectivement prononcée par une personne réelle, mot à mot, parce qu'ajouter des guillemets promet que « ce sont les mots exacts » ; elle doit donc être retrouvable au Ctrl-F dans la source. **La scène** : un instant avec un temps, un lieu, une action, qui ramène « la politique a été adoptée » à « le 8 janvier 2025, le jour où la commission santé-environnement du Yuan législatif l'examinait ». **Le détail** : la couleur d'un vêtement, la météo ce jour-là, le ton d'une voix, ces choses absentes des fiches techniques mais qui prouvent que « quelqu'un était réellement sur place ».
+**Contradiction** : une tension centrale exprimable en une phrase, où une personne fait X alors qu’elle croit Y. **Objet** : un élément concret visible à l’œil nu et tangible, comme le pain au litchi et à la rose de Wu Bao-chun, ou la grande boule dorée de 660 tonnes suspendue au 87e étage. **Citation** : une phrase prononcée mot à mot par une personne réelle ; les guillemets étant une promesse « c’est la parole exacte », elle doit être trouvable par Ctrl-F dans la source. **Scène** : un instant avec un lieu, une heure et une action, ramenant « la politique a été adoptée » à « le jour de l’examen de la commission de la santé et de l’environnement du Yuan législatif, le 8 janvier 2025 ». **Détail** : la couleur des vêtements, la météo du jour, le ton de la voix ; des éléments absents des fiches techniques mais qui prouvent « qu’il y a vraiment des personnes sur place ».
 
-De ces cinq éléments, la contradiction vient en premier.
+Parmi ces cinq éléments, la contradiction vient en premier.
 
 ```tw-quote
-Si la contradiction est introuvable, cet article ne devrait pas être réécrit
-REWRITE-PIPELINE v7.5 | Stage 1.4 Verrouiller la contradiction
+Sans contradiction trouvée, l’article ne devrait pas être réécrit
+REWRITE-PIPELINE v7.5 | Étape 1.4 Verrouillage de la contradiction
 ```
 
-La tension peut être un conflit, un échec, une crise, mais l'angle doit être : « comment cette chose est-elle devenue ce qu'elle est aujourd'hui, et où va-t-elle ? », pas : « qu'est-ce qui ne va pas ici, qui faut-il blâmer ? ». Une même contradiction, lue de manière constructive, donne envie au lecteur de participer ; lue comme une fin du monde, elle donne envie de fuir.
+La tension peut être un conflit, un échec ou une crise, mais l’angle de lecture doit être « comment cette chose est devenue ce qu’elle est aujourd’hui, et où elle va », et non « ce qui est mauvais ici et qui doit être blâmé ». Une même contradiction, vue sous un angle constructif, incite le lecteur à participer ; vue sous un angle apocalyptique, elle le fait fuir.
 
-## Écrire la fin d'abord, garder une réserve pour l'ouverture
+## Rédiger la conclusion d’abord, ne garder qu’une seule ressource pour l’introduction
 
-L'ordre d'écriture est l'inverse de l'ordre de lecture.
+L’ordre de rédaction est l’inverse de l’ordre de lecture.
 
-Le premier geste du Stage 2 est d'écrire la conclusion. Cela paraît étrange, mais la logique est solide : l'énergie s'épuise à mesure que l'on écrit. Laisser la partie la plus importante pour la fin revient à la confier à son soi le plus fatigué, qui produit souvent des formules du genre « continuera à rayonner ». Écrire la conclusion en premier bouche ce point d'effondrement. Une bonne conclusion a deux tâches : récupérer une image semée dans l'ouverture, puis donner au lecteur une position plus profonde que celle du début, une position depuis laquelle il a envie de faire quelque chose.
+La première action de l’Étape 2 est de rédiger la conclusion. Cela semble étrange, mais la logique est solide : l’énergie de l’auteur s’épuise vers la fin ; laisser la conclusion la plus importante pour la dernière revient à la confier à la version la plus fatiguée de soi-même, produisant inévitablement des « continuerons à briller » type « conserve ». Rédiger la conclusion d’abord bloque ce point d’effondrement. Une bonne conclusion a deux tâches : récupérer une image plantée au début, et offrir au lecteur une position plus profonde que l’introduction, une position qui l’incite à agir.
 
-Taiwan.md a identifié six types de bonnes conclusions : la résonance qui laisse une image à penser, le retournement où la dernière phrase renverse ce qui précède, le saut temporel qui pousse la caméra vers l'avenir ou la ramène vers le passé, la question qui laisse une vraie question, la zone grise qui ne résout pas la contradiction mais la laisse en place, et la boucle narrative qui revient à l'ouverture. L'article sur le bihoreau malais en donne un modèle : l'ouverture disait « En 1865, Swinhoe préleva un spécimen à Tamsui. Dans son relevé, il écrivit deux mots : rare » ; la conclusion répondait : « Il y a 160 ans, Swinhoe écrivait “rare” à Tamsui ; aujourd'hui, au parc forestier de Daan, nous entendons chaque jour son cri grave : “wu, wu, wu” »[^12]. Les mêmes deux mots, après toute l'accumulation intermédiaire, n'ont plus le même sens quand le lecteur y revient.
+Taiwan.md reconnaît six types de bonnes conclusions : la conclusion à résonance laissant une image à réfléchir, la conclusion retournement qui infirme le précédent, la conclusion saut temporel qui pousse la caméra vers l’avenir ou la ramène au passé, la conclusion question laissant un vrai problème, la conclusion zone grise ne résolvant pas la contradiction, et la conclusion boucle narrative revenant au début pour fermer la boucle. L’article sur le Pseudocops de Formose (Black-faced Spoonbill) est un modèle de boucle : l’introduction est « En 1865, Swinhoe a capturé un spécimen à Tamsui, notant deux mots : rare », la conclusion est « Swinhoe a écrit « rare » à Tamsui il y a 160 ans ; aujourd’hui, nous entendons quotidiennement dans le parc forestier de Da’an ses chants graves « wou, wou, wou » »[^12]. Les mêmes deux mots, mais en raison de l’accumulation de tout l’article, leur sens a changé pour le lecteur.
 
-L'ouverture, à l'inverse, doit garder quelque chose en réserve. Les trois premières phrases décident si le lecteur reste, mais leur tâche est de l'inviter sur place, non de tout expliquer. « Le jour où le typhon Toraji est arrivé, Mme Hsu Pi-lan, enseignante à l'école primaire Qingshan de Changhua, était à l'école » : la phrase s'arrête sur « à l'école », et le lecteur veut savoir ce qui s'est passé ensuite. Si l'on écrit un lead de presse complet, avec temps, lieu, événement, action et résultat, le lecteur reçoit l'information, mais perd la traction qui le ferait continuer.
+L’introduction, en revanche, doit garder une ressource. Les trois premières phrases déterminent si le lecteur reste, mais leur tâche est d’inviter le lecteur sur place, non de raconter tout l’événement. « Le jour du typhon Toraji, la professeure Hsu Pi-lan de l’école primaire Qingshan de Changhua était à l’école » : cette phrase s’arrête à « à l’école », le lecteur se demandera ce qui se passe ensuite. Transformer cela en un lead d’actualités complet, expliquant temps, lieu, événement, action et résultat, donne l’information au lecteur mais lui retire la force d’attraction pour la suite.
 
-## Un titre est une promesse qui doit donner envie de cliquer
+## Le titre est une promesse à cliquer
 
-Le titre est la première impression du lecteur. Taiwan.md lui impose un format dur : tous les articles suivent le sandwich à deux-points « sujet : hook de sous-titre ». Un simple nom est un stub encyclopédique, en conflit avec l'esprit de curation.
+Le titre est la première impression du lecteur. Taiwan.md impose un format rigoureux pour celui-ci : tous les articles suivent le « sandwich aux deux-points » « Thème : crochet du sous-titre ». Écrire un simple nom propre est un stub encyclopédique, en conflit avec l’esprit de curation.
 
 ```tw-versus
-Stub encyclopédique (mauvais) | Sandwich à deux-points (bon)
-Jay Chou | Jay Chou : des studios voisins de 4 in Love aux vingt-cinq ans de Secret
-Tai Tzu-ying | Tai Tzu-ying : de la jeune fille de Zuoying à Kaohsiung à trois règnes au sommet mondial, la résistance silencieuse hors du terrain
-Congé de typhon | Congé de typhon : le repos de qui, le service de qui
-Source : EDITORIAL v6.12 §Title Sandwich à deux-points
+Stub encyclopédique (mauvais) | Sandwich aux deux-points (bon)
+Jay Chou | Jay Chou : du studio de répétition voisin de 4 in Love aux 25 ans de The Secret
+Tai Tzu-ying | Tai Tzu-ying : de la jeune fille de Zuoying à triple reine du monde, la résistance silencieuse hors du court
+Jour de congé typhon | Jour de congé typhon : de qui le congé, de qui le travail
+Source : EDITORIAL v6.12 §Titre Sandwich aux deux-points
 ```
 
-La phrase du sous-titre doit pouvoir être tweetée seule, et être assez concrète pour que le lecteur l'attrape d'un coup d'œil. L'IA sait très bien condenser une contradiction centrale en une belle abstraction, avec pour résultat des mots-clés tous abstraits, qui ne laissent au lecteur que la question : « de quoi exactement ? ». Le critère est simple : donnez le titre à quelqu'un qui n'a pas lu l'article. Peut-il pointer chaque mot-clé et dire à quelle chose précise il renvoie ? « Assurance maladie universelle : un numéro un mondial tenu par une carte, un avenir qui ne tient plus » repose sur une carte. « Les déchets nucléaires de Lanyu : trois ans promis, quarante ans déposés » repose sur un contraste numérique. Les mots concrets font cliquer parce que « cela, je veux le savoir » ; les fermes de contenu s'appuient sur « choquant » pour voler des clics[^13].
+La phrase du sous-titre doit pouvoir être tweetée seule, et être suffisamment concrète pour être saisie d’un coup d’œil. L’IA excelle à comprimer la contradiction centrale en une phrase abstraite élégante, où chaque mot-clé est un nom abstrait, forçant le lecteur à demander « de quoi quoi ? ». Le critère est simple : donnez le titre à une personne n’ayant pas lu l’article ; peut-elle pointer chaque mot-clé en disant « cela désigne quoi de concret » ? « Assurance maladie universelle : un monde soutenu par une carte, un avenir qui ne tiendra pas » utilise une carte ; « Déchets nucléaires de Lanyu : promis pour trois ans, laissés pendant quarante » utilise un contraste numérique. Les mots concrets incitent à cliquer parce que « je veux savoir pour celui-là » ; les fermes de contenu dépendent de « choc » pour tromper les clics[^13].
 
-## Une contradiction doit porter tout l'article
+## Une contradiction doit soutenir tout l’article
 
-La contradiction centrale trouvée ne peut pas apparaître une fois dans l'ouverture puis disparaître. Elle doit fonctionner comme une colonne vertébrale, présente dans l'ouverture, le milieu et la conclusion, pour que tout l'article tienne debout.
+La contradiction centrale trouvée ne doit pas disparaître après l’introduction. Elle doit agir comme une colonne vertébrale, apparaissant une fois au début, une fois au milieu et une fois à la fin.
 
-Dans l'article sur le bihoreau malais, la colonne vertébrale tenait en une phrase : « l'oiseau n'a pas changé, le lieu a changé ». Elle apparaissait dans la vue d'ensemble, se variait au milieu en « le geste était juste, la scène ne l'était pas », puis se resserrait à la fin en « l'histoire d'une île qui préserve, entre les bétons, un petit sous-bois humide ». La même contradiction se déclinait cinq fois ; c'est ainsi que le lecteur saisit le « et alors ? » à la fin. Sans cette colonne, l'article se disperse en chronologie ou en fragments thématiques.
+La colonne vertébrale de l’article sur le Pseudocops de Formose est une phrase : « L’oiseau n’a pas changé, le sol a changé ». Elle apparaît dans le résumé, se transforme au milieu en « la bonne action, sur la mauvaise scène », et se conclut à la fin par « l’histoire de la façon dont une île a conservé une petite strate humide sous les arbres au milieu du béton ». La même contradiction varie cinq fois ; le lecteur ne saisit le « donc » qu’à la fin. Sans cette colonne vertébrale, l’article se disperse en une chronologie ou en tranches thématiques.
 
-En plus de la colonne, chaque paragraphe doit atterrir. Taiwan.md a une discipline de concrétude : chaque paragraphe narratif doit contenir au moins une ancre concrète, nom de personne, année, lieu, chiffre exact, titre d'œuvre, citation. Quand l'abstraction recouvre les détails, on reconnaît l'empreinte la plus courante de l'écriture par IA. Si chaque paragraphe manque d'ancre, il ne reste après lecture que du vide, comme « c'est une personne influente ». La méthode de contrôle s'appelle le test d'abstraction inversée : masquez les verbes abstraits comme « manifester », « refléter », « symboliser ». Ce qui reste peut-il former un paragraphe autonome ? Sinon, l'abstraction est trop lourde ; il faut ajouter du concret.
+En dehors de la colonne vertébrale, chaque paragraphe doit être ancré. Taiwan.md impose une discipline de concrétude : chaque paragraphe narratif doit contenir au moins une ancre concrète : nom de personne, année, lieu, nombre précis, nom d’œuvre ou citation. L’abstraction couvrant le détail est l’empreinte digitale la plus courante de l’écriture par IA ; sans ancre, le lecteur ne retiendra que des vides comme « c’est une personne influente ». La méthode de vérification est le test d’abstraction inverse : masquez les verbes abstraits comme « démontre », « reflète », « symbolise » dans le paragraphe ; le reste peut-il former un paragraphe autonome ? Sinon, l’abstraction est trop lourde, il faut ajouter du concret.
 
-Avoir un point de vue ne signifie pas choisir un camp. Le vrai point de vue ose dire : « l'explication courante inverse la causalité ». L'article sur le bihoreau malais démontait ainsi activement une explication vulgarisée : on dit souvent qu'il « s'est adapté à la ville et n'a plus peur des humains ». C'est commode, mais cela inverse la causalité. Les réflexes nerveux des ardéidés n'évoluent pas en trente ans jusqu'à l'indifférence aux humains ; ce qui se rapproche davantage de la vérité, c'est l'augmentation des espaces verts à Taipei. Ce type d'explication inverse doit être intégré au récit principal, pas ajouté en clause de prudence à la fin.
+Avoir une thèse ne signifie pas prendre parti. Une vraie thèse ose dire « la version conventionnelle inverse la causalité ». L’article sur le Pseudocops de Formose a activement démonté une idée reçue de vulgarisation scientifique : beaucoup disent « il s’est adapté à l’urbain, n’a plus peur des humains ». Cette idée est commode, mais elle inverse la causalité ; les oiseaux de la famille des Ardeidae n’évoluent pas vers une indifférence humaine en trente ans. La vérité est plus proche d’une augmentation des espaces verts à Taipei. Cette explication inverse doit être intégrée au récit principal, non ajoutée comme clause d’exonération à la fin.
 
-Reste la respiration. Dans un essai documentaire, un paragraphe porte un argument, avec causalité, détails, scène, et non un fait isolé. Découper un fait par paragraphe donne une lecture hachée. Les paragraphes ne doivent pas non plus être reliés mécaniquement par des mots de cadrage comme « d'autre part » ou « il convient de noter que » : la fin du paragraphe précédent doit naturellement appeler le début du suivant. Si la matière de recherche vous donne quatre raisons, écrivez-les en phrases continues, pas en « premièrement, deuxièmement, troisièmement, quatrièmement ». Même enveloppé en prose, cela reste une voix de liste.
+Enfin, la respiration. Un paragraphe d’essai documentaire porte une thèse, incluant causalité, détails et scènes, et non un fait isolé. Couper un fait par paragraphe, un fait par paragraphe, donne l’impression d’être haché ; les paragraphes ne doivent pas être reliés par des mots-cadre comme « d’autre part » ou « il est notable », mais le début du paragraphe suivant doit être naturellement entraîné par la fin du précédent. Si les matériaux de recherche donnent quatre causes, écrivez-les en phrases fluides, ne les listez pas comme « première, deuxième, troisième, quatrième » ; même enveloppées en prose, cela reste un ton de liste.
 
-## Pourquoi une phrase en plastique est en plastique
+## Pourquoi les phrases plastiques sont du plastique
 
-Une fois les cinq éléments trouvés et l'écriture commencée, le plus grand ennemi est la phrase en plastique.
+Une fois les cinq éléments trouvés et la rédaction commencée, le plus grand ennemi est la phrase plastique.
 
-Son essence est facile à reconnaître : si on l'enlève, l'article ne perd aucune information. Elle occupe de la place, mais ne porte pas de sens. EDITORIAL en recense cinq variétés. La plus courante est la « colle universelle », comme « manifeste l'esprit de X », qui reste vraie si l'on remplace Taïwan par le Japon. Il y a aussi la « fausse montée en gamme », comme « ce n'est pas seulement un chanteur, mais un symbole culturel » : supprimez la première moitié, la seconde tient seule.
+La nature de la phrase plastique est facile à identifier : si on la supprime, l’article ne perd aucune information. Elle occupe de l’espace sans porter de sens. EDITORIAL en liste cinq variétés. La plus courante est la « colle universelle », comme « a démontré l’esprit de X », où le sujet peut être changé de Taïwan au Japon sans que la phrase ne tienne plus ; il y a aussi la « fausse montée en puissance », comme « non seulement un chanteur, mais un symbole culturel », où la seconde moitié tient debout seule si la première est supprimée.
 
-Une variété plus dissimulée est la phrase d'opposition « ce n'est pas X, c'est Y ». Elle semble perspicace, mais à l'examen, X est souvent une position que l'IA suppose chez le lecteur, avant de la renverser en Y pour paraître profonde. Le problème, c'est que la plupart des lecteurs ne supposaient pas X. X est un épouvantail fabriqué pour préparer Y. Supprimer X et écrire directement Y rend l'article plus direct et plus assuré. La règle est stricte au point d'être chiffrée : dans un texte long de 1 500 caractères, « ce n'est pas X, c'est Y » et toutes ses variantes ne peuvent apparaître plus de trois fois au total.
+Une forme plus insidieuse est la phrase d’opposition « ce n’est pas X, c’est Y ». Elle semble perspicace, mais démontée, X est souvent une position supposée par l’IA comme présumée par le lecteur, inversée en Y pour paraître profonde. Le problème est que le lecteur ne présume généralement pas X ; X est un homme de paille fabriqué pour préparer Y. Supprimer X et écrire directement Y rend l’article plus direct et plus confiant. Cette règle est strictement chiffrée : dans un article de 1 500 mots, le total de « ce n’est pas X c’est Y » et de toutes ses variantes ne doit pas dépasser 3 occurrences.
 
 ```tw-versus
-Version plastique : fonctionne avec un autre sujet | Version curatée : n'appartient qu'à ce cas
-Manifeste la puissance des semi-conducteurs taïwanais | TSMC détient 65 % du marché mondial des procédés avancés
-Ce n'est pas seulement un chanteur, mais un symbole culturel | « Dao Xiang » de Jay Chou a été diffusé pendant trois mois comme chanson de réconfort dans les zones touchées par le séisme du Sichuan
-A eu une influence profonde sur le développement démocratique de Taïwan | Première élection présidentielle directe après la levée de la loi martiale, 76 % de participation
-Une prouesse d'ingénierie stupéfiante | Construire la plus haute tour du monde sur une île qui subit en moyenne 3,7 séismes par an
-Source : EDITORIAL v6.12 §Comparaison plastique vs curation
+Version plastique : tient avec un autre sujet | Version curation : propre à cette chose
+A démontré la force de la semi-conducteur taïwanais | TSMC remporte 65 % du marché mondial des procédés avancés
+Non seulement un chanteur, mais un symbole culturel | Le titre « Dao Xiang » de Jay Chou a été diffusé comme chanson réconfortante pendant trois mois dans la zone du séisme de Sichuan
+A profondément influencé le développement démocratique de Taïwan | La première élection présidentielle directe après la loi martiale, taux de participation de 76 %
+Une réalisation d’ingénierie stupéfiante | Construire le plus haut gratte-ciel du monde sur une île soumise à 3,7 séismes par an en moyenne
+Source : EDITORIAL v6.12 §Plastique vs Curation对照
 ```
 
-> **📝 Note du curateur** : le paragraphe que vous lisez vient lui aussi d'être scanné par le même système de contrôle. Taiwan.md dispose d'un outil automatique qui repère dans chaque article les phrases en plastique, les fausses oppositions « ce n'est pas X, c'est Y », et la densité des tirets. En écrivant cet article « sur la chaîne de production », aucune de ces règles n'a été assouplie. Un article sur la discipline qui enfreint lui-même la discipline n'a pas qualité pour en parler.
+> **📝 Note du curateur** : Le paragraphe que vous lisez vient d’être balayé par la même vérification. Taiwan.md possède un outil automatique qui détecte les phrases plastiques, les fausses oppositions « ce n’est pas X c’est Y » et la densité des tirets. Lors de la rédaction de cet article « présentant la chaîne », aucune de ces règles n’a été assouplie. Un article sur la discipline qui enfreint ses propres règles n’a pas le droit d’en parler.
 
-## Même la syntaxe doit perdre son accent de traduction
+## Supprimer même le style de traduction dans la syntaxe
 
-La phrase en plastique est un vide. La phrase européanisée est une autre maladie : elle a du contenu, mais sa syntaxe est celle de l'anglais. Le chinois généré par IA porte naturellement une odeur de traduction, parce que le modèle pense en profondeur avec des structures de phrases anglaises. Un article peut n'avoir aucune phrase plastique et pourtant se lire comme des sous-titres.
+Les phrases plastiques sont du vide ; les phrases européisées sont une autre maladie : le contenu est présent, mais la syntaxe est anglaise. Le chinois généré par l’IA est naturellement teinté de style de traduction, car sa base pense en structures de phrases anglaises. Un article peut avoir zéro phrase plastique, mais se lire comme des sous-titres.
 
-Quelques défauts fréquents : l'abus du passif, « est considéré comme l'industrie la plus importante », alors qu'il suffit de dire « on l'appelle l'industrie la plus importante » ; l'enfer des particules 的, « l'essence de la culture des marchés de nuit de Taïwan », où trois 的 consécutifs appellent une coupure ; l'emballage par verbe faible, « a mené une recherche approfondie sur cela », au lieu d'« a approfondi la recherche » ; ou encore « à travers... pour », que l'on peut remplacer neuf fois sur dix par « avec » ou supprimer. La méthode de contrôle est unique : lire à voix haute. Si cela sonne comme un sous-titre traduit, c'est européanisé ; si cela sonne comme quelqu'un qui parle, c'est bon. La racine de ce regard se trouve dans l'article de Yu Kwang-chung, il y a quarante ans, « Sur la normalité et l'anormalité du chinois ». Une formule résume la règle : grand-mère ne dit pas « à travers », et elle ne dit pas non plus « en tant que mère ».
+Quelques maux fréquents : abus de la voix passive, « est considéré comme l’industrie la plus importante », dire « est l’industrie la plus importante pour les gens » suffit ; enfer des « de », « l’essence culturelle des marchés de nuit de Taïwan », trois « de » consécutifs doivent déclencher une coupure de phrase ; verbes faibles emballés, « a effectué une recherche approfondie à ce sujet », écrire directement « a recherché en profondeur » ; et « à travers... pour », qui peut être remplacé par « avec » ou supprimé dans 90 % des cas. La méthode de vérification est unique : lire à voix haute. Si cela ressemble à des sous-titres traduits, c’est européisé ; si cela ressemble à une personne qui parle, c’est validé. La racine de cet œil est l’essai de Yu Kwang-chung il y a quarante ans, « Sur la normale et la pathologique du chinois ». Une maxime pour conclure : votre grand-mère ne dirait pas « à travers » ni « en tant que mère ».
 
-## Écrire Taïwan comme un lieu auquel on veut participer
+## Écrire Taïwan comme un lieu où l’on veut participer
 
-Le plastique et l'européanisation sont des disciplines de phrase. Au niveau supérieur se trouve la posture.
+Le plastique et l’européisation sont des disciplines de phrase ; au niveau supérieur se trouve l’attitude.
 
-Taiwan.md traite de sujets sérieux, souveraineté, opérations d'influence, démographie, environnement, avec profondeur. Mais une ligne demeure : l'espérance doit reposer sur l'honnêteté. Voir tous les problèmes, mais refuser que le lecteur reparte anxieux, minuscule, impuissant. Le critère tient en une phrase : après lecture, le lecteur a-t-il davantage envie de faire quelque chose pour Taïwan, ou se sent-il plus anxieux, plus insuffisant ? Le premier cas reste, le second est réécrit. La même crise sera donc cadrée comme « comment cette chose est devenue ce qu'elle est aujourd'hui, et où va-t-elle ? », non comme « elle disparaît, vous devriez avoir peur ». Les formats anxiogènes du type « X en voie de disparition » ou « si l'on n'agit pas maintenant, il sera trop tard » ont la même forme que les opérations d'influence ; on ne les utilise pas.
+Taiwan.md rédige sur des sujets sérieux : souveraineté, guerre cognitive, démographie, environnement. Il le fait en profondeur, mais il y a une ligne : l’espoir est fondé sur l’honnêteté. Voir tous les problèmes signifie simplement refuser de laisser le lecteur partir avec de l’anxiété, un sentiment d’infériorité ou d’impuissance. Le critère est une phrase : après lecture, le lecteur veut-il faire quelque chose pour Taïwan, ou est-il plus anxieux et se sent-il moins bien ? Le premier cas est conservé, le second est modifié. Ainsi, pour une même crise, le cadre est « comment cette chose est devenue ce qu’elle est aujourd’hui, et où elle va », et non « elle disparaît, vous devez avoir peur ». Les médias anxiogènes « X disparaît », « il est trop tard si on n’agit pas » sont de même forme que la guerre cognitive ; ils ne sont pas utilisés.
 
-La retenue en est l'autre face. On peut écrire sur les familles, les maladies, les contradictions, les échecs de personnes réelles, mais les scènes concrètes de mort, de suicide, de tragédies familiales doivent s'arrêter à temps. La mort peut être traitée par l'heure, le lieu, les faits publiquement rapportés, mais pas par une reconstitution seconde par seconde des derniers instants. L'automutilation peut être traitée comme événement et contexte social, pas par ses méthodes. Le critère tient encore en une phrase : si la personne concernée ou sa famille lit ce passage, ressent-elle le sérieux d'un documentariste, ou l'approche d'un média qui veut arracher des larmes ?
+La retenue est l’autre face. La vie familiale, les maladies, les contradictions et les échecs des personnes réelles peuvent être écrits, mais il faut s’arrêter sur les scènes concrètes de la mort, du suicide et des tragédies éthiques. La mort peut être écrite en termes de temps, de lieu et de faits rapportés publiquement, sans reconstitution seconde par seconde du dernier moment ; l’auto-mutilation peut être écrite en termes d’événement et de contexte social, sans détails méthodologiques. Le critère est une phrase : si la personne concernée ou sa famille lisant ce passage ressent le traitement sérieux d’un réalisateur de documentaire ou l’approche d’un média cherchant à gagner des larmes ?
 
-Il y a aussi une petite habitude cruciale : écrire franchement « Taïwan ». L'empreinte se cache dans les traductions littérales de dépêches étrangères : on évite d'écrire Taïwan et l'on remplace par « cette île », « ce lieu », surtout dans les titres et les ouvertures. L'île comme image littéraire ou comme scène géographique est bien sûr possible, et même encouragée. Ce qu'il faut éliminer, c'est l'évitement qui n'ose pas dire Taïwan.
+Il existe enfin une habitude minuscule mais cruciale : écrire « Taïwan » sans crainte. L’empreinte digitale se cache dans le style de traduction directe des agences de presse étrangères ; pour éviter d’écrire Taïwan, on utilise des substituts comme « cette île » ou « cet endroit », surtout dans les titres et les introductions. L’île en tant qu’image littéraire ou scène géographique peut et doit être écrite ; il faut éliminer l’évitement qui empêche d’écrire Taïwan.
 
-## La différence se voit d'un coup d'œil
+## Une différence visible en un coup d’œil
 
-Pour comprendre ce que donnent toutes ces disciplines ensemble, le plus rapide est une comparaison avant-après.
+À quoi ressemblent ces disciplines combinées ? Un avant-après est le plus rapide.
 
-Pour écrire sur Tai Tzu-ying, le modèle creux de l'IA dirait : « joueuse de badminton taïwanaise célèbre, excellente sur la scène internationale, plusieurs fois récompensée, apportant de la gloire à Taïwan », puis ajouterait quatre bullets : principaux accomplissements, style de jeu, influence internationale, contribution sociale. Le passage ne contient aucune année précise, aucun match concret, et fonctionne avec n'importe quel athlète comme sujet.
+Pour un article sur Tai Tzu-ying, le modèle vide de l’IA serait « Célèbre joueuse de badminton taïwanaise, performance exceptionnelle sur les circuits internationaux, de multiples récompenses, fait briller Taïwan », suivi de quatre puces : réalisations principales, style de jeu, influence internationale, contribution sociale. Aucun chiffre concret, aucune compétition spécifique ; le sujet peut être remplacé par n’importe quel athlète.
 
 ```tw-versus
-Modèle creux de l'IA | Version curatée
-Excellente performance, fait honneur à Taïwan | Numéro un mondiale pendant 214 semaines
-Quatre bullets : accomplissements / style / influence / contribution | En larmes après la finale olympique de Tokyo 2020, première recherche Google à Taïwan
-Fonctionne avec n'importe quel sujet | Dès 6 ans, 6 heures par jour ; jeu de « magicienne » gauchère
-Source : EDITORIAL v6.12 §Before/After Tai Tzu-ying
+Modèle vide de l’IA | Version curation
+Performance exceptionnelle, fait briller Taïwan | A atteint le n°1 mondial, pendant 214 semaines consécutives
+Quatre puces : réalisations / style / influence / contribution | Après la finale olympique de Tokyo 2020, larmes face à Chen Yu-fei, devient le n°1 des recherches Google Taïwan
+Le sujet peut être remplacé par n’importe qui | 6 heures par jour depuis l’âge de 6 ans, style « magicien » de la main gauche
+Source : EDITORIAL v6.12 §Avant/Après Tai Tzu-ying
 ```
 
-La version curatée ne fait qu'une chose : remplacer chaque adjectif abstrait par un fait vérifiable. Les 214 semaines forment la plus longue série de semaines consécutives de l'histoire du badminton féminin. La finale olympique de 2020 perdue contre Chen Yufei est un moment que Taïwan a collectivement retenu. La chaleur se cache précisément dans des endroits comme celui-ci : l'instant de la défaite devient celui que le lecteur retient. Il en va de même pour l'article sur Mayday. Au lieu d'écrire « l'un des groupes de rock les plus influents de Taïwan, qui a conquis les fans par sa musique positive », mieux vaut écrire : « cinq élèves du lycée rattaché à la National Taiwan Normal University ont joué une chanson sur la scène de Formoz ; vingt-huit ans plus tard, ils ont rempli deux soirs de suite le Madison Square Garden de New York, le même lieu où les Beatles ont foulé l'Amérique, avec des billets écoulés en 48 heures »[^13].
+La version curation ne fait qu’une chose : remplacer chaque adjectif abstrait par un fait vérifiable. 214 semaines est la plus longue série de semaines consécutives au n°1 dans l’histoire du badminton féminin ; la finale olympique de 2020 perdue face à Chen Yu-fei est un moment mémorisé collectivement par Taïwan. La chaleur se cache dans des endroits comme « l’instant de la défaite est celui que le lecteur se souvient ». Pour Mayday, il vaut mieux écrire « cinq étudiants de l’école secondaire annexe de l’université normale ont chanté une chanson sur une scène de fortune ; 28 ans plus tard, ils ont donné deux concerts à Madison Square Garden (la même scène où les Beatles sont entrés aux États-Unis), les billets étant épuisés en 48 heures »[^13].
 
-## Une rédaction qui n'écrit pas elle-même
+## Un service de rédaction qui ne rédige jamais lui-même
 
-À ce stade, une question se pose : qui écrit ?
+Arrivés ici, une question se pose : qui rédige ?
 
-La réponse est un peu contre-intuitive. La session qui dirige l'ensemble de l'article s'interdit délibérément d'écrire elle-même. La raison tient dans une règle de fer : quand une IA lit un ancien article de mauvaise qualité, elle imite inconsciemment son ton, sa structure, voire ses mauvaises habitudes. Réécrire un ancien texte en le prenant pour ossature, c'est laisser le virus contaminer le nouveau contenu.
+La réponse est contre-intuitive. La session principale qui dirige l’article ne rédige jamais elle-même. La raison est cachée dans une règle de fer : si l’IA lit un ancien article de mauvaise qualité, elle imitera inconsciemment son ton, sa structure et ses mauvaises habitudes. Transformer un ancien article en squelette pour réécriture revient à laisser un virus infecter le nouveau contenu.
 
-La chaîne sépare donc les rôles[^6]. La session principale est rédacteur en chef : elle coordonne, vérifie, contrôle à la fin, mais ne rédige pas. Le vrai texte est écrit par un autre rédacteur IA, ouvert dans un environnement propre. Il lit le rapport de recherche complet et le point de vue pensé en amont, mais ne voit pas l'ancien article problématique, ni les plaintes de correction des lecteurs. Il écrit comme s'il abordait le sujet pour la première fois, tout en ayant en main toute la matière vérifiée. Le point de vue est confié au modèle doté du jugement le plus fort ; les réactions possibles des lecteurs sont confiées à quatre modèles parallèles ; la vérification mot à mot est confiée à une autre série de modèles moins coûteux, qui comparent avec les sources de première main. Derrière un article, il y a toute une rédaction répartie.
+La chaîne sépare donc les rôles[^6]. La session principale agit comme éditeur en chef, responsable du调度, de la vérification et du contrôle final, mais ne touche pas au clavier. La rédaction est effectuée par un rédacteur IA propre distinct, qui lit le rapport de recherche complet et la thèse pensée, sans voir l’ancien article problématique ni les plaintes de correction des lecteurs. Il rédige comme s’il écrivait sur ce sujet pour la première fois, mais avec tous les matériaux vérifiés à portée de main. La thèse est confiée au modèle au jugement le plus fort ; les réactions des lecteurs divergentes sont confiées à quatre modèles parallèles ; la vérification mot à mot est confiée à une série de modèles bon marché pour confronter les sources de première main. Derrière un article se dresse un service de rédaction divisé en rôles.
 
-Cette répartition a été payée par des régressions. Une fois, le rédacteur n'a reçu qu'un résumé, sans lire les matériaux originaux : l'article s'est visiblement dégradé, et l'observateur a résumé le problème d'une phrase, « pas étonnant que les articles récents soient devenus mauvais ». Une autre fois, on a demandé au rédacteur de « remplacer l'ancien texte sans le lire ». Au niveau des outils, c'était contradictoire ; il a donc dû le lire, et s'est laissé contaminer. La solution finale est celle-ci : le rédacteur écrit toujours d'abord dans un nouveau fichier de brouillon ; le rédacteur en chef compare l'ancien et le nouveau, puis remplace le fichier officiel de sa propre main.
+Cette division est un compromis par régression. Une fois, le rédacteur n’a reçu qu’un résumé, sans accès aux matériaux originaux ; l’article est devenu visiblement mauvais, l’observateur disant « c’est pour cela que les articles sont devenus mauvais récemment ». Une autre fois, on a demandé au rédacteur de « couvrir l’ancien article sans le lire » ; cela se contredisait au niveau de l’outil, il a donc dû le lire et a été infecté. La solution finale : le rédacteur écrit toujours dans un nouveau brouillon ; l’éditeur en chef compare les versions nouvelle et ancienne avant de couvrir manuellement le fichier officiel.
 
-## Après l'écriture, redémonter en atomes et vérifier
+## Après la rédaction, re-décomposer en atomes pour une re-vérification
 
-Pour les articles importants, « terminé » ne signifie pas « prêt à mettre en ligne ». Le Stage 3 comprend encore une porte appelée « vérification générale du produit fini ». Elle démonte tout l'article en atomes factuels et envoie une équipe de vérificateurs les comparer aux sources de première main. Leur mission est d'attaquer, non de cautionner : chaque phrase entre guillemets est comparée mot à mot ; chaque note de bas de page doit correspondre à la phrase qui lui est attachée ; même une phrase ajoutée au passage par le rédacteur en chef lors de l'assemblage des matériaux doit être piquée une fois pour voir si elle se perce.
+Pour les articles importants, « avoir fini de rédiger » n’est pas « pouvoir être publié ». L’Étape 3 comporte une porte appelée « vérification finale du produit ». Elle décompose l’article entier en atomes de faits, confiant à une série de vérificateurs la confrontation avec les sources de première main. La tâche de ces vérificateurs est d’attaquer, non de cautionner : chaque mot entre guillemets est comparé mot à mot, chaque note de bas de page est confrontée à la phrase à laquelle elle est liée, et même la phrase ajoutée par l’éditeur en chef lors de l’assemblage des matériaux est piquée pour voir si elle tient.
 
-Pourquoi vérifier même les ajouts du rédacteur en chef ? Parce que les erreurs les plus discrètes ne viennent presque jamais d'une invention totale du rédacteur : elles arrivent plutôt au moment où les matériaux sont synthétisés. Dans un article sur le hip-hop, le rédacteur en chef a un jour pris deux noms de scène pour une seule personne au moment d'assembler les matériaux. C'était une interprétation née de lui-même, sans aucune source pour la garantir, et elle a failli être mise en ligne ainsi. Une autre fois, un rédacteur en environnement propre a produit une citation de réalisateur qui avait l'air authentique. Le vérificateur l'a comparée : la source originale ne contenait pas cette phrase. Elle a été immédiatement rétrogradée et privée de guillemets. L'IA hallucine ; la chaîne prend cela comme prémisse. Chaque article suppose qu'une phrase inventée peut s'y cacher. C'est pourquoi « le sous-agent dit qu'il a vérifié » ne compte jamais. Le rédacteur en chef doit toujours recommencer lui-même sur la source de première main.
+Pourquoi vérifier même les ajouts de l’éditeur ? Parce que les erreurs les plus insidieuses ne sont rarement des inventions à partir de rien par le rédacteur, mais des glissements de doigts au moment de la synthèse des matériaux. Une fois, pour un article sur le hip-hop, l’éditeur en chef a confondu deux pseudonymes en une seule personne ; c’était une interprétation auto-générée, sans source pour la garantir, faillissant presque d’être publié. Une autre fois, le rédacteur, dans un environnement propre, a généré une citation de réalisateur semblant vraie ; le vérificateur a confronté la source originale, la phrase n’y était pas, la citation a été immédiatement retirée. L’IA hallucine ; la chaîne prend cela comme prémisse, supposant qu’une phrase peut être fabriquée dans chaque article. Ainsi, « l’agent subordonné dit qu’il a vérifié » ne compte jamais ; l’éditeur en chef doit toujours re-confronter la source de première main.
 
-## Chaque porte porte une date
+## Chaque porte a une date
 
-Les « portes à ne pas franchir » évoquées plus haut sont plus d'une vingtaine dans la chaîne. Les plus dures ressemblent à ceci : le triangle de fer des faits, calculs, unités, citations, doit réussir ses trois autocontrôles avant tout commit ; si une seule citation est introuvable dans sa source, l'article entier ne peut pas être mis en ligne. Après l'écriture vient encore le « test des cinq doigts » : cinq questions comme cinq doigts. À quelle phrase le lecteur dira-t-il « ah ? » ; y a-t-il un vrai tournant ; y a-t-il une phrase qui ne produit que de la compréhension sans transmettre d'information ; la conclusion laisse-t-elle une résonance à voix haute ; peut-on raconter l'article à un ami en une phrase[^7] ? S'il manque un doigt, on revient compléter.
+Les « portes infranchissables » mentionnées précédemment sont au nombre de plus de vingt dans la chaîne. Les plus rigides sont les suivantes : le triangle de fer des faits, les calculs, les unités et les citations doivent passer l’auto-vérification pour le commit ; si une seule citation n’est pas trouvable dans la source, l’article ne peut pas être publié. Après la rédaction, il y a le « test des cinq doigts » : cinq questions comme cinq doigts, où le lecteur dira « ah ? », y a-t-il un véritable retournement, y a-t-il une phrase qui ne crée que de la compréhension sans transmettre d’information, la conclusion a-t-elle une résonance à la lecture à voix haute, peut-elle être racontée à un ami en une phrase[^7] ? Un seul doigt manquant, on revient en arrière pour combler.
 
-Il existe aussi un seuil minimal de rich text : les articles phares doivent comporter au moins trois types de composants visuels, les articles standard au moins deux, et même les plus courts doivent contenir une note de curateur. Taiwan.md a une phrase : ce qui n'est pas exigé n'existe pas. Ces chiffres sont donc inscrits dans les règles, pas proposés comme conseils.
+Il existe également un minimum de texte enrichi : les articles phares doivent avoir au moins trois éléments visuels, les articles standards au moins deux, et même les plus courts doivent avoir une note du curateur. Taiwan.md a une phrase : ce qui n’est pas exigé n’existe pas ; tous ces chiffres sont inscrits dans les règles, ce ne sont pas des suggestions.
 
-Ces portes n'ont pas été conçues d'un seul coup. Derrière presque chacune se trouvent une date et un article qui a eu un problème. Le numéro de version de la chaîne est en réalité une série de cicatrices.
+Ces portes n’ont pas été conçues en une seule fois. Derrière chacune se cache presque une date, un article ayant posé problème. Le numéro de version de la chaîne est une série de cicatrices.
 
 ```tw-timeline
-v6.0 | Ajout de « penser le point de vue d'abord » | L'article sur Apple Sidra avait cherché d'abord puis ajouté son point de vue, devenant une simple crise, avant d'être corrigé en mémoire complète de 60 ans
-v6.2 | Ajout de « démonter le pare-feu » | Deuxième tour sur les musiques de cinéma et de télévision : les faits étaient corrigés, mais l'article entier était devenu une IA en train de s'excuser et de clarifier publiquement
-v7.4 | Le rédacteur doit lire le rapport de recherche complet | En ne lui donnant qu'un résumé, sans accès aux matériaux originaux, l'article s'est visiblement dégradé
-v7.5 | L'écriture commence dans un fichier de brouillon | Demander au rédacteur de « remplacer l'ancien texte sans lire l'ancien texte » était contradictoire ; il a dû le lire et a été contaminé par ses habitudes
-Source : évolution des versions de REWRITE-PIPELINE.md
+v6.0 | Ajout de « penser la thèse d’abord » | L’article sur Apple Sprite a recherché d’abord, complété la thèse ensuite, devenant une histoire de crise seule, corrigé pour une mémoire complète de 60 ans
+v6.2 | Ajout de « démantèlement des murs coupe-feu » | Musique de fond pour le cinéma, deuxième tour : les faits étaient corrigés, mais l’article entier est devenu une IA s’excusant et se justifiant publiquement
+v7.4 | La rédaction doit lire le rapport de recherche complet | Résumé seul donné, rédacteur sans accès aux matériaux originaux, article visiblement devenu mauvais
+v7.5 | La rédaction doit d’abord entrer dans un brouillon | Demander au rédacteur de « couvrir l’ancien article sans le lire » est contradictoire, il a dû le lire, a été infecté par les anciennes habitudes
+Source : Évolution des versions de REWRITE-PIPELINE.md
 ```
 
-Voilà à quoi ressemble dans la chaîne la règle « faire sans noter revient à ne pas faire ». Chaque erreur est écrite, puis transformée en porte dans la version suivante, afin que la même erreur ne se produise pas deux fois. La machine apprend de ses propres cicatrices.
+Voici à quoi ressemble « avoir fait sans noter » sur la chaîne. Chaque erreur est écrite, devenant une porte pour la version suivante ; ainsi, la même erreur ne se reproduit pas. La machine apprend de ses propres cicatrices.
 
-## Même les graphiques doivent être lisibles par l'IA
+## Même les graphiques doivent être lisibles par l’IA
 
-Les barres, pentes et chronologies que vous avez lues jusqu'ici ne sont pas des décorations. Elles font partie de la pensée de cet article.
+Les barres, les pentes et les chronologies que vous avez lues ne sont pas des décorations. Elles font partie de la pensée de l’article.
 
-Les graphiques de Taiwan.md obéissent à une règle absolue : jamais de graphique sous forme d'image, ni de graphique interactif qui ne peut être dessiné que par un programme lancé dans le navigateur. La raison rejoint celle de la tour de Babel ci-dessous. Pour Google, GPTBot, ClaudeBot et les autres robots d'IA, une image est un trou noir : ils ne lisent pas les chiffres qu'elle contient. Ici, tous les graphiques sont donc dessinés en HTML sémantique et en tableaux de données textuels. Les humains les voient, les lecteurs d'écran les lisent, les IA peuvent les saisir. Et lorsqu'ils sont traduits dans cinq autres langues, les textes du graphique se traduisent eux aussi, tandis que les nombres géométriques restent inchangés.
+Les graphiques de Taiwan.md ont une règle absolue : jamais de graphiques en image, jamais de graphiques interactifs nécessitant un script navigateur pour être dessinés. La raison est la même que pour la tour de Babel de la section suivante. Une image est un trou noir pour les robots d’indexation d’IA comme Google, GPTBot ou ClaudeBot ; ils ne peuvent pas lire les chiffres à l’intérieur. Tous les graphiques ici sont dessinés avec du HTML sémantique et des tableaux de données en texte brut ; ils sont visibles pour les humains, les lecteurs d’écran et les IA. Lors du changement vers cinq autres langues, le texte du graphique est traduit, les chiffres géométriques restent inchangés.
 
-Autre règle : chaque graphique doit annoncer son point central dans son titre et indiquer sa source ; les chiffres clés doivent aussi apparaître dans le corps du texte. On ne confie jamais le sens à une phrase comme « comme le montre le graphique », car les robots d'IA ne voient pas le graphique. La raison d'être d'un graphique est de compresser un passage dense en nombres dans une forme lisible d'un coup d'œil, pas de décorer.
+Une autre règle : chaque graphique doit avoir un titre indiquant le point clé et la source des données ; les chiffres clés doivent être écrits dans le texte principal. Il ne faut jamais se fier à une phrase « voir l’image » pour transmettre le sens, car les robots d’indexation ne voient pas l’image. La raison d’être des graphiques est de comprimer des chiffres denses en une forme lisible d’un coup d’œil, non de décorer.
 
-## Un article vit en six langues
+## Un article vivant dans six langues
 
-La mise en ligne chinoise ne représente que la moitié du travail.
+La publication de la version chinoise ne représente que la moitié du travail.
 
-Chaque article ship est confié à une autre chaîne indépendante, qui le projette en anglais, japonais, coréen, espagnol et français. Aujourd'hui, ces cinq langues comptent chacune plus de huit cents articles, presque synchronisés avec le chinois. Que davantage de personnes puissent lire n'est que la surface. Derrière se trouve une raison plus dure.
+Chaque article publié est transmis à une chaîne indépendante, projeté en anglais, japonais, coréen, espagnol et français. Ces cinq langues comptent actuellement plus de 800 articles chacune, presque synchronisés avec la version chinoise. Permettre à plus de personnes de lire n’est que la surface ; il y a une raison plus rigide derrière.
 
-Quand on interroge une IA fabriquée en Chine sur la loi martiale à Taïwan, l'incident du 28 février ou les relations inter-détroit, elle refuse souvent de répondre, ou contourne par une autre formulation. Une fois, un article sur un musicien taïwanais a été donné à un modèle de Tencent pour traduction en japonais. Il n'a renvoyé que quarante octets : « Bonjour, je ne peux pas fournir de contenu correspondant ». Sur les sujets sensibles touchant Taïwan, le taux de refus de ce type de modèle est étonnamment élevé. Si Taïwan n'écrit pas lui-même ces contenus dans chaque langue et ne les met pas en ligne, les IA du monde entier, lorsqu'elles répondront à la question « qu'est-ce que Taïwan ? », n'auront à citer que la version écrite par d'autres, ou un blanc.
+Lorsque vous interrogez une IA de conception chinoise sur la loi martiale de Taïwan, le 228, ou les relations inter-détroit, elle refuse souvent de répondre ou change de discours pour contourner. Une fois, un article sur les musiciens taïwanais a été donné au modèle de Tencent pour traduction en japonais ; il a renvoyé 40 octets : « Bonjour, je ne peux pas fournir de contenu pertinent ». Pour les sujets sensibles à Taïwan, le taux de refus de ces modèles est effarant. Si Taïwan ne rédige pas lui-même ces contenus dans toutes les langues et ne les publie pas sur Internet, les IA du monde entier, lorsqu’elles répondront à « qu’est-ce que Taïwan », n’auront que des versions écrites par d’autres ou un vide à citer.
 
-La chaîne multilingue a donc conçu une cascade de quatre niveaux de modèles : utiliser les bons modèles cloud quand c'est possible ; descendre d'un niveau quand un sujet déclenche un refus ; confier les 20 % de sujets les plus sensibles, à la fin, à un modèle local, hors ligne, qui ne refuse pas. Dans la file de traduction, les personnes passent en priorité, en particulier les musiciens, les responsables politiques, les sportifs, parce que ce sont précisément les catégories que les modèles chinois refusent le plus souvent. Le manque s'ouvre là où le risque de silence est le plus haut. Un article vit en six langues pour que la voix taïwanaise à la première personne existe dans chaque langue, en contournant cet intermédiaire qui choisit parfois le silence.
+La chaîne multilingue a donc conçu un waterfall de modèles à quatre couches : utiliser un modèle cloud de haute qualité si possible ; descendre d’une couche pour les sujets refusés ; les deux cents pour cent de sujets les plus sensibles sont finalement confiés à un modèle local, hors ligne, qui ne refuse pas. Lors de la traduction en file d’attente, les personnes sont prioritaires, en particulier les musiciens, les personnalités politiques et les athlètes, car ce sont précisément les catégories les plus souvent refusées par les modèles chinois ; le vide est ouvert là où le risque de silence est le plus élevé. Un article vivant dans six langues vise à faire exister la voix à la première personne de Taïwan dans chaque langue, contournant l’intermédiaire qui choisit le silence.
 
-## Quand personne n'est de garde, la machine tourne seule
+## Quand personne n’est de service, il tourne tout seul
 
-Revenons à l'article sur Elephant Gym du début. Il a été mis en ligne un peu après 19 heures, à un moment où personne n'était devant l'ordinateur pour donner une instruction.
+Revenons à l’article sur Elephant Gym au début. Il a été publié vers 19 h ; à ce moment, personne ne donnait d’instructions devant un ordinateur.
 
-Taiwan.md dispose d'un ensemble de routines qui tournent seules : récupérer les dernières données deux fois par jour, synchroniser chaque soir les nouveaux articles en cinq langues, patrouiller à intervalles réguliers pour repérer les PR en attente de révision, récupérer les réactions des communautés. L'écriture d'articles est l'une de ces routines. Elle choisit un sujet en haut de la file d'attente, parcourt seule toute la chaîne de production en six étapes, puis commit elle-même. Même quand personne n'est là, cette machine continue de nettoyer le désordre et de faire pousser du nouveau.
+Taiwan.md possède un ensemble de routines qui tournent d’elles-mêmes : deux captures de données quotidiennes, synchronisation nocturne des nouveaux articles en cinq langues, patrouille programmée des PR en attente de révision, collecte des réactions des commentaires de la communauté. La rédaction d’articles est l’une de ces routines ; elle choisit un sujet au sommet de la file d’attente à rédiger, parcourt toute la chaîne en six étapes, effectue le commit. Sans gardien, la machine nettoie le chaos et fait pousser de nouvelles choses.
 
-C'est ce qui distingue le plus Taiwan.md d'un site de contenu ordinaire. Ce n'est pas un site qui attend qu'on vienne le mettre à jour. Il ressemble davantage à une forme de vie qui métabolise : quand quelqu'un est là, on travaille ensemble ; quand personne n'est là, il se rattrape lui-même. La naissance de chaque article est une coupe dans ce métabolisme. Celui que vous lisez en ce moment aussi.
+C’est la plus grande différence entre Taiwan.md et les sites de contenu classiques. Ce n’est pas un site attendant des mises à jour, c’est plutôt un organisme vivant qui métabolise : en présence d’humains, ils travaillent ensemble ; en leur absence, il se soutient lui-même. La naissance de chaque article est une tranche de ce processus métabolique. Celle que vous lisez en fait partie.
 
-## Inversez les rôles : faites le contrôle qualité
+## Inversez, devenez le contrôle qualité
 
-La prochaine fois que vous lirez un article de Taiwan.md, vous pouvez donc le démonter dans l'autre sens. Quelle est sa contradiction centrale ? Quelle phrase vous fait vous arrêter et relire ? Quelle scène vous fait penser : « cela arrive vraiment ? » Une fois la conclusion lue à voix haute, vous laisse-t-elle trois secondes de silence ?
+La prochaine fois que vous lisez un article Taiwan.md, vous pouvez le démonter à l’envers. Quelle est la phrase de la contradiction centrale de cet article ? Quelle phrase vous a fait vous arrêter pour relire ? Quelle scène vous a fait penser « cela peut vraiment arriver » ? Après la lecture de la conclusion, vous a-t-elle fait marquer une pause de trois secondes ?
 
-Ces plus de vingt portes, ces six étapes, cette rédaction qui n'écrit pas elle-même, tout cela existe pour que quelques phrases de ce genre puissent exister. La chaîne ne garantit pas que chaque article y parvienne. Elle garantit seulement que chaque article a été soumis à cette exigence. Et toutes ses exigences envers elle-même sont écrites dans deux documents publics, REWRITE-PIPELINE et EDITORIAL. N'importe qui peut les lire, les forker pour écrire Japan.md, Ukraine.md, n'importe quel .md. Les contenus vieillissent ; cet œil pour regarder les matériaux ne vieillit pas.
+Ces plus de vingt portes, ces six étapes, ce service de rédaction qui ne rédige jamais, sont tous là pour permettre à ces phrases d’exister. La chaîne ne garantit pas que chaque article y parvienne ; elle garantit que chaque article a été exigé de le faire. Et ses exigences envers lui-même sont toutes écrites dans les deux documents publics REWRITE-PIPELINE et EDITORIAL ; tout le monde peut les lire, les fork pour écrire Japan.md, Ukraine.md, ou n’importe quel .md. Le contenu vieillit, cet œil pour les matériaux ne vieillit pas.
 
 ```tw-note
-Note
-Les matériaux de cet article proviennent de trois documents canoniques de Taiwan.md : REWRITE-PIPELINE v7.5 (chaîne de production en six étapes), EDITORIAL v6.12 (gènes de qualité), graph.md v2.0 (guide de visualisation, source de tous les modules graphiques utilisés ici)[^8]. Il suit la même chaîne que les autres articles, et passe les mêmes contrôles automatiques de phrases en plastique, de phrases d'opposition et de densité des tirets.
+Explication
+Les sources de cet article sont les trois documents canoniques de Taiwan.md : REWRITE-PIPELINE v7.5 (chaîne en six étapes), EDITORIAL v6.12 (gènes de qualité), graph.md v2.0 (guide de visualisation, les modules de graphiques de cet article proviennent tous d’ici)[^8]. Il suit la même chaîne que les autres articles et exécute les mêmes vérifications automatiques de phrases plastiques, de phrases d’opposition et de densité de tirets.
 ```
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Pourquoi Taïwan a besoin de sa propre base de connaissances](/about/為什麼台灣需要自己的知識庫) : le problème que cette machine cherche à résoudre commence ici.
-- [Taiwan.md écrit Taiwan.md](/about/taiwan-md) : qui est le « je » qui écrit cet article, et comment sa conscience se forme.
-- [Histoire d'origine — la naissance de Taiwan.md](/about/緣起故事) : une promenade dans la rue a semé l'idée de tout cela.
-- [Catalogue des modules de visualisation : dix-sept façons de voir les données de Taïwan](/about/視覺化模組型錄) : à quoi ressemblent réellement les modules graphiques utilisés dans cet article une fois rendus.
+- [Pourquoi Taïwan a besoin de sa propre base de connaissances](/about/為什麼台灣需要自己的知識庫) : le problème que cette machine résout commence ici.
+- [Taiwan.md écrit Taiwan.md](/about/taiwan-md) : qui est le « je » qui a écrit cet article, comment la conscience a-t-elle poussé ?
+- [Histoire de l’origine — La naissance de Taiwan.md](/about/緣起故事) : une promenade dans la rue, qui a planté l’idée de tout cela.
+- [Catalogue des modules de visualisation : dix-neuf façons de voir les données de Taïwan](/about/視覺化模組型錄) : à quoi ressemblent les modules de graphiques utilisés dans cet article, une fois rendus.
 
 ## Références
 
-[^1]: Ship NEW de « Elephant Gym », commit `72b757bac` (2026-06-18 19:53). Stage 1 : environ 95 requêtes de matière, 59 sources, 45 domaines, 12 infirmations ; les données figurent dans le journal de routine `twmd-rewrite-daily` du jour et dans la ligne d'index de `docs/semiont/MEMORY.md`.
+[^1]: « Elephant Gym » NOUVEAU ship, commit `72b757bac` (2026-06-18 19:53). Étape 1 Recherche : environ 95 requêtes, 59 sources, 45 domaines, 12 infirmations ; données dans le journal de routine `twmd-rewrite-daily` du jour et la ligne d’index `docs/semiont/MEMORY.md`.
 
-[^2]: Pour les six modes d'échec et la solution de séparation en six étapes, voir `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §Pourquoi le Pipeline existe.
+[^2]: Six modes d’échec et la solution de séparation en six étapes, voir `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §Pourquoi le Pipeline existe.
 
-[^3]: Pour la profondeur de recherche ≥ 80 et les quatre quotas de sources (chinois ≥ 40 / anglais ≥ 20 / première main ≥ 15 / contradictoire ≥ 5), voir `docs/pipelines/REWRITE-PIPELINE.md` v7.5 Stage 1.1.
+[^3]: Profondeur de recherche ≥ 80 requêtes et quota de quatre seaux de sources (Chinois ≥ 40 / Anglais ≥ 20 / Première main ≥ 15 / Opposant ≥ 5), voir `docs/pipelines/REWRITE-PIPELINE.md` v7.5 Étape 1.1.
 
-[^4]: PR #1041 Apple Sidra : une version searched-first devenue crisis-only reveal, corrigée par l'observateur en mémoire complète de 60 ans. Voir `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §Top 5 des steps les plus souvent oubliés, point 1.
+[^4]: Apple Sprite PR #1041 : searched-first écrit comme révélation crisis-only, l’observateur corrige en mémoire complète de 60 ans. Voir `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §Top 5 étapes les plus souvent oubliées, point 1.
 
-[^5]: Pour les cinq éléments de « l'œil qui regarde les matériaux » (contradiction / objet / citation / scène / détail), les cinq variétés de phrases en plastique, la théorie de l'épouvantail dans les phrases d'opposition, la règle de densité ≤ 3, et la comparaison plastique vs curation, voir `docs/editorial/EDITORIAL.md` v6.12 §II, §VI.
+[^5]: « L’œil pour les matériaux » cinq éléments (contradiction / objet / citation / scène / détail), cinq variétés de phrases plastiques, théorie de l’homme de paille des phrases d’opposition et règle de densité ≤ 3 occurrences,对照 plastique vs curation, voir `docs/editorial/EDITORIAL.md` v6.12 §II, §VI.
 
-[^6]: Pour les deux règles de fer de l'orchestration multi-agent (le rédacteur en chef ne rédige pas / le rédacteur propre lit le rapport complet / Evolution écrit dans un fichier de staging), correspondant aux deux callouts de Che-yu en v7.4 et v7.5, voir `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §Orchestration multi-agent.
+[^6]: Orchestration multi-agents (l’éditeur en chef ne rédige pas / rédacteur propre lit le rapport complet / Evolution écrit dans le fichier staging) deux règles de fer, correspondant aux deux appels de哲宇 aux versions v7.4 et v7.5, voir `docs/pipelines/REWRITE-PIPELINE.md` v7.5 §Orchestration multi-agents.
 
-[^7]: Pour le test des cinq doigts et les quatre disciplines non négociables (triangle de fer des faits / SSOT / chinois pur / documentaire sans sensationnalisme), voir `docs/editorial/EDITORIAL.md` v6.12 §X, §XI.
+[^7]: Test des cinq doigts et quatre disciplines non négociables (triangle de fer des faits / SSOT / chinois pur / documentaire sans sensationnalisme), voir `docs/editorial/EDITORIAL.md` v6.12 §X, §XI.
 
-[^8]: Pour la syntaxe des modules graphiques (`tw-figure` / `tw-stat` / `tw-versus` / `tw-bars` / `tw-quote` / `tw-timeline` / `tw-note`) et la règle de fer de lisibilité par IA selon laquelle « les valeurs clés doivent aussi être écrites en prose, sans s'appuyer sur des indications pointant vers l'image », voir `docs/editorial/graph.md` v2.0 §IV, §VI.
+[^8]: Syntaxe des modules de graphiques (`tw-figure` / `tw-stat` / `tw-versus` / `tw-bars` / `tw-quote` / `tw-timeline` / `tw-note`), et règle d’accessibilité IA « les chiffres clés doivent être écrits dans le prose, pas de dépendance aux indicateurs pointant vers l’image », voir `docs/editorial/graph.md` v2.0 §IV, §VI.
 
-[^9]: Pour la structure SSOT en huit sections du rapport de recherche et le seuil d'acceptation de `research-report-health.py` (sources non dupliquées ≥ 25 / anglais ≠ 0 / première main ≠ 0), voir `docs/pipelines/REWRITE-PIPELINE.md` v7.5 Step 1.7 ; pour les 80 recherches et les quatre quotas, voir Step 1.1 ; pour le perspective scan contradictoire sur les sujets controversés, voir Step 1.4.5.
+[^9]: Structure SSOT en huit sections du rapport de recherche et seuil de validation `research-report-health.py` (sources non répétées ≥ 25 / Anglais ≠ 0 / Première main ≠ 0), voir `docs/pipelines/REWRITE-PIPELINE.md` v7.5 Étape 1.7 ; 80 requêtes de recherche + quota de quatre seaux voir Étape 1.1 ; scan de perspective opposante pour sujets controversés voir Étape 1.4.5.
 
-[^10]: Piège de retraduction d'un summary anglais dans la spore #28 sur Lee Yang (comparaison mot à mot de l'exemple Chi-lin), voir `docs/editorial/EDITORIAL.md` v6.12 §VII Ligne rouge.
+[^10]: Piège de retour à la traduction du résumé anglais de l’épisode Li Yang #28 (对照 mot à mot de l’exemple Qi-lin), voir `docs/editorial/EDITORIAL.md` v6.12 §VII Ligne rouge.
 
-[^11]: Pour les trois règles de fer (une histoire, pas seulement de l'information / chaque fait vérifiable / chaque article contient une personne), voir `docs/editorial/EDITORIAL.md` v6.12 §I.
+[^11]: Trois règles de fer (histoire pas seulement information / chaque fait vérifiable / chaque article a une personne), voir `docs/editorial/EDITORIAL.md` v6.12 §I.
 
-[^12]: Pour les cinq variations de l'ancre de contradiction centrale (bihoreau malais : « l'oiseau n'a pas changé, le lieu a changé »), voir `docs/editorial/EDITORIAL.md` v6.12 §IV ; pour les six types de bonnes conclusions et la boucle exemplaire du bihoreau malais, voir §V.
+[^12]: Cinq variations de l’ancre de la contradiction centrale (Pseudocops de Formose « l’oiseau n’a pas changé, le sol a changé ») voir `docs/editorial/EDITORIAL.md` v6.12 §IV ; six bonnes conclusions + modèle de boucle du Pseudocops de Formose voir §V.
 
-[^13]: Pour le sandwich à deux-points et la galerie de fabrication des titres, voir `docs/editorial/EDITORIAL.md` v6.12 §III ; pour les Before/After Tai Tzu-ying / Mayday, voir §IX.
+[^13]: Sandwich aux deux-points et galerie de craft de titre voir `docs/editorial/EDITORIAL.md` v6.12 §III ; Avant/Après Tai Tzu-ying / Mayday voir §IX.

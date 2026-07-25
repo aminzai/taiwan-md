@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T02:31:43+08:00",
-    "zhCommitHead": "15c618a27",
+    "lastUpdated": "2026-07-26T02:40:56+08:00",
+    "zhCommitHead": "706fa8aa9",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 865,
-        "fresh": 713,
-        "stale": 146,
+        "fresh": 714,
+        "stale": 145,
         "metadata_stale": 3,
         "missing": 3,
         "orphan": 0
@@ -75,34 +75,34 @@
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 365,
+        "fresh": 366,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 488,
+        "missing": 487,
         "orphan": 0
       },
       "hi": {
         "total_zh": 865,
-        "fresh": 287,
+        "fresh": 289,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 571,
+        "missing": 569,
         "orphan": 0
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 224,
+        "fresh": 225,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 640,
+        "missing": 639,
         "orphan": 0
       },
       "ru": {
         "total_zh": 865,
-        "fresh": 253,
+        "fresh": 256,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 611,
+        "missing": 608,
         "orphan": 0
       }
     },
@@ -3405,7 +3405,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/village-armed-youth.md",
+          "translatedFrom": "Music/農村武裝青年.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eb6f1df3d28721d6",
+          "sourceBodyHash": "sha256:a7bd89eaeb441ced",
+          "translatedAt": "2026-07-26T02:07:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -6854,7 +6865,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwanese-companies-quanta-computer.md",
+          "translatedFrom": "Economy/台灣企業：廣達電腦.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:917f1503c2ff61d8",
+          "sourceBodyHash": "sha256:8336e4cef45a1444",
+          "translatedAt": "2026-07-26T02:07:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -6949,7 +6971,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwanese-companies-realtek-semiconductor.md",
+          "translatedFrom": "Economy/台灣企業：瑞昱半導體.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:bc61864ded99ef44",
+          "sourceBodyHash": "sha256:dec8acb87bfd42a2",
+          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -8380,13 +8413,35 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/evergreen-marine.md",
+          "translatedFrom": "Economy/台灣企業：長榮海運.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8bed402beaecae31",
+          "sourceBodyHash": "sha256:97f9ec5722ee27b9",
+          "translatedAt": "2026-07-26T02:07:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/evergreen-marine.md",
+          "translatedFrom": "Economy/台灣企業：長榮海運.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8bed402beaecae31",
+          "sourceBodyHash": "sha256:97f9ec5722ee27b9",
+          "translatedAt": "2026-07-26T02:07:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -12338,7 +12393,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/tamsui-river-bridge.md",
+          "translatedFrom": "Technology/淡江大橋.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:58ac62b3c0ac9558",
+          "sourceBodyHash": "sha256:2f938b13f0ca156c",
+          "translatedAt": "2026-07-26T02:07:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -17446,18 +17512,16 @@
         "fr": {
           "path": "fr/Art/wang-lien-cheng-artist.md",
           "translatedFrom": "Art/王連晟.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:741aad18a1d94861",
-          "sourceBodyHash": "sha256:5dea26a6c16a0f6c",
-          "translatedAt": "2026-05-01T20:54:17+08:00",
+          "sourceCommitSha": "6bbbf62ba",
+          "sourceContentHash": "sha256:f395cb57343c4ecf",
+          "sourceBodyHash": "sha256:3e275e3c41071f38",
+          "translatedAt": "2026-07-25T21:33:44+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -22737,7 +22801,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/taiwan-parks-and-everyday-leisure.md",
+          "translatedFrom": "Lifestyle/台灣公園與日常休閒.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5627d196edbadc46",
+          "sourceBodyHash": "sha256:fb9597ed5d14a1d1",
+          "translatedAt": "2026-07-26T02:07:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-parks-and-everyday-leisure.md",
@@ -32800,8 +32875,8 @@
           "sourceContentHash": "sha256:bc1d9c831c947934",
           "sourceBodyHash": "sha256:5699382224a6d5e2",
           "translatedAt": "2026-07-26T00:16:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "706fa8aa",
+          "translationLastModified": "2026-07-26T02:31:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -45823,8 +45898,8 @@
           "sourceContentHash": "sha256:9ecf294ab1fe9170",
           "sourceBodyHash": "sha256:4e53d6d0a41114dd",
           "translatedAt": "2026-07-26T02:07:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "706fa8aa",
+          "translationLastModified": "2026-07-26T02:31:43+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -46707,8 +46782,8 @@
           "sourceContentHash": "sha256:1b679db54adf9d80",
           "sourceBodyHash": "sha256:e4792097bdf41668",
           "translatedAt": "2026-07-26T00:16:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "706fa8aa",
+          "translationLastModified": "2026-07-26T02:31:43+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -48136,8 +48211,8 @@
           "sourceContentHash": "sha256:ffd25b21bdd9c278",
           "sourceBodyHash": "sha256:7ce7a4f8a7dcd5c0",
           "translatedAt": "2026-07-26T00:16:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "706fa8aa",
+          "translationLastModified": "2026-07-26T02:31:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -51893,8 +51968,8 @@
           "sourceContentHash": "sha256:566f9f83e753fc69",
           "sourceBodyHash": "sha256:2a6df4f467257ee5",
           "translatedAt": "2026-07-26T00:16:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "706fa8aa",
+          "translationLastModified": "2026-07-26T02:31:43+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -56116,8 +56191,8 @@
           "sourceContentHash": "sha256:4f2e975be9df55bf",
           "sourceBodyHash": "sha256:e2af78942d7ac0ac",
           "translatedAt": "2026-07-26T00:16:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "706fa8aa",
+          "translationLastModified": "2026-07-26T02:31:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -61602,8 +61677,8 @@
           "sourceContentHash": "sha256:1eed0b39727d52a4",
           "sourceBodyHash": "sha256:ecfb49e20d9c0f4b",
           "translatedAt": "2026-07-26T00:16:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "706fa8aa",
+          "translationLastModified": "2026-07-26T02:31:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -76366,8 +76441,8 @@
           "sourceContentHash": "sha256:ba7ff819ca0777d2",
           "sourceBodyHash": "sha256:a157234d7add2561",
           "translatedAt": "2026-07-26T00:16:53+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "706fa8aa",
+          "translationLastModified": "2026-07-26T02:31:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
