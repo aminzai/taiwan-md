@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T01:37:01+08:00",
-    "zhCommitHead": "fab47683c",
+    "lastUpdated": "2026-07-26T01:39:18+08:00",
+    "zhCommitHead": "0b999ce44",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -43,8 +43,8 @@
       },
       "es": {
         "total_zh": 865,
-        "fresh": 715,
-        "stale": 144,
+        "fresh": 716,
+        "stale": 143,
         "metadata_stale": 2,
         "missing": 4,
         "orphan": 0
@@ -67,26 +67,26 @@
       },
       "id": {
         "total_zh": 865,
-        "fresh": 219,
+        "fresh": 220,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 635,
+        "missing": 634,
         "orphan": 0
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 349,
+        "fresh": 350,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 504,
+        "missing": 503,
         "orphan": 0
       },
       "hi": {
         "total_zh": 865,
-        "fresh": 286,
+        "fresh": 287,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 572,
+        "missing": 571,
         "orphan": 0
       },
       "ar": {
@@ -10650,8 +10650,8 @@
           "sourceContentHash": "sha256:9a74d696840dfd44",
           "sourceBodyHash": "sha256:6b0ed5d3cd521366",
           "translatedAt": "2026-07-25T21:33:42+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "0b999ce4",
+          "translationLastModified": "2026-07-26T01:37:02+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -13387,7 +13387,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-television-industry-history.md",
+          "translatedFrom": "Technology/台灣電視產業史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:f8c3d1432bd47fe6",
+          "sourceBodyHash": "sha256:48b4e5475f2d12a8",
+          "translatedAt": "2026-07-26T00:16:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -49671,7 +49682,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/stan-lai-theater-innovation-master.md",
+          "translatedFrom": "People/賴聲川.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:171a521ab055d1cf",
+          "sourceBodyHash": "sha256:eb36a190f4b7ada8",
+          "translatedAt": "2026-07-26T00:16:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -75994,7 +76016,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwan-soy-milk-and-breakfast-shops.md",
+          "translatedFrom": "Food/台灣豆漿與早餐店.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ba7ff819ca0777d2",
+          "sourceBodyHash": "sha256:a157234d7add2561",
+          "translatedAt": "2026-07-26T00:16:53+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -96258,18 +96291,16 @@
         "es": {
           "path": "es/Culture/culinary-class-wars-in-taiwan.md",
           "translatedFrom": "Culture/黑白大廚在台灣.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:31883f60285a57e2",
-          "sourceBodyHash": "sha256:bf7679056e96cbe1",
-          "translatedAt": "2026-06-11T16:38:50Z",
+          "sourceCommitSha": "44bdf7162",
+          "sourceContentHash": "sha256:158a36dc208ac1d9",
+          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
+          "translatedAt": "2026-07-25T21:33:43+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/culinary-class-wars-in-taiwan.md",
