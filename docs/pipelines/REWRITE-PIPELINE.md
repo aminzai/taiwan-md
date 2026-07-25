@@ -374,6 +374,34 @@ Stage 5 完成（中文版 ship）後，視觸發條件決定走哪條翻譯 pip
 - **不要跑 `npm run build`**：Build 由 CI/CD 處理。sub-agent 跑 build 容易 timeout 且浪費資源
 - **至少 7 分鐘**：Stage 1 3min + Stage 2 2min + Stage 3-4 2min = 最低要求
 
+### 合法 defer signal（六條，2026-07-25 收攏 canonical）
+
+> **為什麼要有這張表**：`twmd-rewrite-daily` 每小時 fire 是哲宇刻意設定要消耗週額度
+> （per MEMORY §神經迴路 hourly-cron-intentional），所以 **defer 的預設答案是「不 defer」**。
+> 但 2026-06-22〜06-29 連續 7 個 instance 的 defer chain 顯示，有幾種情境 routine 每次
+> 都在灰區自己判斷、每次都重新論證一遍，vc=7 已充分驗證。哲宇 2026-07-25 拍板
+> （OBSERVER-QUEUE #13 到期預設）把它們寫成明列清單：**在表上的可以直接 defer 並一行帶過理由，
+> 不在表上的一律 ship**。目的是讓 defer 從「每次重新說服自己」變成「查表」，
+> 順便讓 defer noise 不再堆進 LESSONS。
+
+| #   | Signal                        | 判準                                                                                                              | 來源                                         |
+| --- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 1   | 30 min duplicate              | 同一條 routine 30 分鐘內已 fire 過並 ship                                                                         | 既有                                         |
+| 2   | 同篇 race                     | 目標文章正被別的 session／PR 動                                                                                   | 既有                                         |
+| 3   | §自主權邊界 命中              | 政治立場 / >50 檔重構 / >10 篇刪除 / 對外溝通                                                                     | 既有（[MANIFESTO](../semiont/MANIFESTO.md)） |
+| 4   | last-4hr manual rewrite       | 近 4 小時內有 manual rewrite ship，**或 finale-cluster 整段 wall-clock window 內**（不是只看最後一個 commit）     | OBSERVER-QUEUE #13，vc=7                     |
+| 5   | post-promotion cooldown       | 剛 promote 的 DNA / EDITORIAL 規則還沒被任何一篇 dogfood 過 → 留給下一個 prime time，別讓新規則首發在無人 cron 上 | OBSERVER-QUEUE #13                           |
+| 6   | per-day throughput saturation | 當日已達 rewrite 產出上限（同日多篇 ship 後品質會掉，per §Cron 鐵律「每批最多 1 篇」的日層延伸）                  | OBSERVER-QUEUE #13                           |
+
+**Pre-flight gate（2026-07-24 memory vc=4 補進來）**：cron 進 Stage 0 之前先跑
+`bash scripts/tools/lib/check-parallel-actor.sh`。回 `ACTOR_BUSY` 且 busy 的是
+babel/fleet dispatcher 時走 signal 2 讓路——2026-07-24 兩條 rewrite-daily fire
+（143931 / 191048）都是撞上 fleet 才自行讓路的，但當時 pipeline 沒有這一步，
+是 session 自己想到的。想到不等於下次會想到，所以寫進來。
+
+**不在表上的 defer 一律視為違規**，要在 memory 寫明為什麼判斷表不夠用（那是 pipeline 的
+進化訊號，不是個案豁免）。
+
 ### 選文指令
 
 ```bash

@@ -220,8 +220,11 @@ const categories = [
             class="group relative flex w-full flex-col overflow-hidden rounded-3xl border border-[rgba(226,232,240,0.9)] bg-white/[0.98] text-inherit no-underline shadow-[0_12px_30px_rgba(15,23,42,0.06)] transition-all duration-[280ms] ease hover:-translate-y-1.5 hover:border-[rgba(148,163,184,0.5)] hover:shadow-[0_24px_50px_rgba(15,23,42,0.18),0_8px_16px_rgba(0,0,0,0.06)] max-[768px]:min-h-[272px]"
             aria-label={`${t('CategoryGrid.aria-explore')} ${category.name}${t('CategoryGrid.aria-explore-suffix')}`}
           >
+            {/* category-card-gradient 這個 class 只是給 dark-polish.css 抓的
+                掛鉤（暗色降飽和 saturate(0.85)，OBSERVER-QUEUE #12 (b)）；
+                亮色下不掛任何樣式，移除它會讓暗色降飽和靜默失效。 */}
             <div
-              class="absolute inset-0 z-0 opacity-100 transition-opacity duration-[280ms] [mask-image:linear-gradient(to_bottom,rgba(0,0,0,0.15)_0%,rgba(0,0,0,0)_70%)] [-webkit-mask-image:linear-gradient(to_bottom,rgba(0,0,0,0.15)_0%,rgba(0,0,0,0)_70%)] group-hover:opacity-[0.35]"
+              class="category-card-gradient absolute inset-0 z-0 opacity-100 transition-opacity duration-[280ms] [mask-image:linear-gradient(to_bottom,rgba(0,0,0,0.15)_0%,rgba(0,0,0,0)_70%)] [-webkit-mask-image:linear-gradient(to_bottom,rgba(0,0,0,0.15)_0%,rgba(0,0,0,0)_70%)] group-hover:opacity-[0.35]"
               style={`background: ${category.gradient};`}
             />
             <div
