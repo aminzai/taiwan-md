@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-1B-MEDIA'
 description: 'REWRITE v9 stage contract — Step 1.9 全段：深度媒體掃描協議 / 圖片授權矩陣 / transcript / persona 讀者缺口稽核'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.0'
-last_updated: 2026-07-16
-last_session: '2026-07-16-newsroom-orchestration（v9.0 拆檔：自 REWRITE-PIPELINE v8.0 verbatim 搬移，行數守恆）'
+current_version: 'v9.1'
+last_updated: 2026-07-25
+last_session: '2026-07-25-外送專法（v7.8 spine 第三型「多觀點立場議題探討矛盾型」——哲宇 directive，以外送專法 dogfood 校準）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -261,7 +261,8 @@ call PERSONA-PIPELINE:
 1. 🆕 **真缺口** → 起 targeted 增補搜尋（補這個 facet 的事實/場景/引語），把 finding 加進 report §3/§6。**增補後 report 變了，Step 1.9.5 收尾前重跑 [research-report-health gate](REWRITE-STAGE-1A-RESEARCH.md#step-17-研究報告--ssot對標研究所論文標準-)。**
 2. ✅ **已 cover** → 記錄不重複。
 3. ⛔ **超 scope** → 落 `rationale.whats_excluded`。
-4. 🔴 **反向閥門（立體 ≠ 迴避的自我糾正）**：如果 persona（尤其 D 軸挑硬傷/反方）揪出「這篇立體群像其實洗掉了一個真該被尖銳處理的公共爭議」→ 回 [Step 0.1.5](REWRITE-STAGE-0-VIEWPOINT.md#step-015-spine-類型判定v77-重構--立體群像是預設畫布) 重判：要不要把那個爭議升成一個 substantial facet，或（罕見）解鎖矛盾驅動主脊。**這條讓立體 default 不變擋箭牌。**
+4. 🔴 **反向閥門（立體 ≠ 迴避的自我糾正）**：如果 persona（尤其 D 軸挑硬傷/反方）揪出「這篇立體群像其實洗掉了一個真該被尖銳處理的公共爭議」→ 回 [Step 0.1.5](REWRITE-STAGE-0-VIEWPOINT.md#step-015-spine-類型判定v77-重構--立體群像是預設畫布) 重判，**三個合法目的地**（v7.8 從兩個擴為三個）：(i) 把那個爭議升成一個 substantial facet；(ii) **改判第三型「多觀點立場議題探討矛盾型」**——若該題是進行中的公共議題且多方都有正當立場，這通常是正解；(iii)（罕見）解鎖單軸矛盾驅動主脊。**這條讓立體 default 不變擋箭牌。**
+   ⚠️ **為什麼要明列第三個目的地**（2026-07-25 外送專法）：該篇三軸反向閥門都命中，但 Step 0.1.5 的兜底是「拿不準 → 立體群像」，**偵測成功卻沒有轉成重判**，最後是觀察者一句話補上那個目的地。偵測機制有了、目的地沒寫，等於沒接上。
 
 **為什麼放這裡而不是 Stage 0**：冷讀者天生問尖銳問題，放搜尋之前 → 尖角變研究方向 → 脊椎被推向矛盾驅動（施振榮 v1 教訓）。放研究後，同一句尖問變「要不要補一個 facet」而非「整篇該不該講這個」——從定調變補洞，且剛好接住 persona 誕生的 use case（《看不見的國家》ship 後哲宇追問三題＝完成度缺口，正該 ship 前被稽核接住）。
 

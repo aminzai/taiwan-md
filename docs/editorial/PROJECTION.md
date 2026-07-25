@@ -3,9 +3,9 @@ title: 'PROJECTION'
 description: '投影方法論 canonical — 把研究報告投影成一篇有單一論點、連貫脈絡、每個 section 都推進論點又扣回主軸的文章。研究 → 投影邏輯 → 文章 的中間層。'
 type: 'editorial-canonical'
 status: 'canonical'
-current_version: 'v1.0'
-last_updated: 2026-07-13
-last_session: '2026-07-13-214351-manual'
+current_version: 'v1.1'
+last_updated: 2026-07-25
+last_session: '2026-07-25-外送專法（v7.8 spine 第三型「多觀點立場議題探討矛盾型」——哲宇 directive，以外送專法 dogfood 校準）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --check=prose-health'
 sister_docs:
   - 'EDITORIAL.md'
@@ -87,6 +87,7 @@ Stage 0 的主軸句（「Shopping Design 花二十年把設計變成動詞」�
 **論點類型跟 spine 類型綁定**（per [REWRITE-PIPELINE Step 0.1.5](../pipelines/REWRITE-PIPELINE.md) + [REFLEXES #77](../semiont/REFLEXES.md) + [MANIFESTO §13 立體地愛](../semiont/MANIFESTO.md)）：
 
 - **矛盾驅動題**（爭議 / 政策辯論 / 內在張力人物）→ 論點可以是**辯論式的主張**（一個可被反駁的 claim，文章替它辯護）。
+- **多觀點立場議題題**（進行中的公共議題，多方都有正當立場；[Step 0.1.5](../pipelines/REWRITE-STAGE-0-VIEWPOINT.md) 第三型）→ 論點是**「這場爭論的形狀是什麼」＋「誰的帳沒被算」**：矛盾當脊椎，但**不收束成一方勝出**；文章的工作是讓分歧的形狀變得可讀，並指出爭論的重心被放錯在哪。讀者離場時該知道自己還缺哪一塊判斷依據，而不是被推向一個結論。
 - **立體群像題**（受愛戴的機構 / 傳統 / 集體記憶 / 多數人物）→ 論點是**綜合式 / 統合式的洞見**：不對立、不找碴，但**仍然是一個有推進的具體主張**，不是一句慶祝的摘要。立體 ≠ 沒有論點；立體的論點是「這一整群面向，合起來說出了一件什麼樣的事」，而那件事要**在文章裡被一步步兌現**。
 
 **投影對所有題目都要求「推進」；只對真正的爭議題要求「對立」。** 把立體群像題硬找一個辯論論點 = 製造 contrarian thesis = 炎上（金曲獎 v1 教訓）。但立體群像題沒有推進的論點 = 回到面向導覽的老病。兩邊都要避開。
