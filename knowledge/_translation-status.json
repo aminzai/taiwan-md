@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T01:39:18+08:00",
-    "zhCommitHead": "0b999ce44",
+    "lastUpdated": "2026-07-26T01:40:30+08:00",
+    "zhCommitHead": "c6da635c2",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 350,
+        "fresh": 351,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 503,
+        "missing": 502,
         "orphan": 0
       },
       "hi": {
@@ -22415,7 +22415,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/wang-a-piau-pog-cards.md",
+          "translatedFrom": "Lifestyle/尪仔標.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:20a6968836a636ac",
+          "sourceBodyHash": "sha256:b413f755105bbf3c",
+          "translatedAt": "2026-07-26T00:16:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Lifestyle/wang-a-piau-pog-cards.md",
@@ -96295,8 +96306,8 @@
           "sourceContentHash": "sha256:158a36dc208ac1d9",
           "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
           "translatedAt": "2026-07-25T21:33:43+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "c6da635c",
+          "translationLastModified": "2026-07-26T01:39:18+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
