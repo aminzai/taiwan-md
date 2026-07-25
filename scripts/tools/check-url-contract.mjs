@@ -30,7 +30,14 @@
  * 等確認閘門本身沒有 false positive 再考慮在 CI 開 --strict 紅燈。
  */
 
-import { readdirSync, statSync, openSync, readSync, closeSync } from 'node:fs';
+import {
+  readdirSync,
+  statSync,
+  openSync,
+  readSync,
+  closeSync,
+  readFileSync,
+} from 'node:fs';
 import { LANGUAGES, DEFAULT_LANGUAGE } from '../../src/config/languages.mjs';
 import { join, relative, extname, sep } from 'node:path';
 
@@ -411,6 +418,49 @@ function main() {
     examples: missingFromSitemap.slice(0, MAX_EXAMPLES_PER_SOURCE),
   };
 
+  // --- 別名洩漏：英文別名側門一條都不准出現在對外公告面 ---
+  // 2026-07-25 article-alias。別名是給「照我們自己的 URL 文法推網址」的人與
+  // 機器走的側門，canonical 永遠是中文網址。它們不會變成死連結（頁面真的
+  // 存在），要防的是反向風險：把側門公告成正門，讓 Google 把同一篇文章當兩個
+  // URL 收。「永不公告」寫在產生器註解裡是自律，寫在這裡才是閘門
+  // （REFLEXES #15：memory 是自律，canonical gate 才是閘門）。
+  const aliasSet = new Set();
+  try {
+    const raw = readFileSync(
+      join(process.cwd(), 'config/article-aliases.json'),
+      'utf-8',
+    );
+    for (const key of Object.keys(JSON.parse(raw))) {
+      aliasSet.add(normalizeForLookup(`/${key}/`));
+    }
+  } catch {
+    /* registry 不存在（fork / 還沒跑產生器）→ 這節無事可做 */
+  }
+  const aliasLeaks = [];
+  if (aliasSet.size) {
+    for (const sourceName of ['hreflang', 'canonical', 'sitemap']) {
+      for (const [href, file] of announced[sourceName]) {
+        const pathname = toPathnameOrNull(href);
+        if (pathname === null) continue;
+        if (!aliasSet.has(normalizeForLookup(pathname))) continue;
+        aliasLeaks.push({
+          source: sourceName,
+          url: href,
+          file: relative(process.cwd(), file),
+        });
+      }
+    }
+  }
+  result.aliasLeak = {
+    aliasesTracked: aliasSet.size,
+    leaks: aliasLeaks.length,
+    examples: aliasLeaks.slice(0, MAX_EXAMPLES_PER_SOURCE),
+  };
+  // 別名洩漏計進 totalDead 讓 --strict 直接擋 deploy：這條紅燈起步，不走
+  // 黃燈觀察期。反向覆蓋那條黃燈是因為可能誤報；這條的判準是集合包含關係，
+  // 沒有模糊空間，命中就是真的漏了。
+  result.totalDead += aliasLeaks.length;
+
   result.elapsedMs = Date.now() - startedAt;
 
   // --- output ---
@@ -472,6 +522,16 @@ function printHumanReport(result, strict) {
     console.log('--- sitemap 反向覆蓋（文章頁必須全在 sitemap）---');
     console.log(`  缺席: ${c.missing}（黃燈：報告不擋）`);
     for (const ex of c.examples) console.log(`    ✗ ${ex}`);
+    console.log('');
+  }
+
+  if (result.aliasLeak) {
+    const a = result.aliasLeak;
+    console.log('--- 英文別名洩漏（側門不准出現在公告面）---');
+    console.log(`  追蹤別名: ${a.aliasesTracked}`);
+    console.log(`  洩漏: ${a.leaks}${a.leaks ? '（紅燈：計入 dead）' : ''}`);
+    for (const ex of a.examples)
+      console.log(`    ✗ [${ex.source}] ${ex.url}  ← ${ex.file}`);
     console.log('');
   }
 
