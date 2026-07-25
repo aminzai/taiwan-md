@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T17:12:56+08:00",
-    "zhCommitHead": "2b5e7b735",
+    "lastUpdated": "2026-07-25T17:23:23+08:00",
+    "zhCommitHead": "9405dd267",
     "totalZh": 864,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 864,
-        "fresh": 304,
+        "fresh": 303,
         "stale": 8,
         "metadata_stale": 1,
-        "missing": 551,
+        "missing": 552,
         "orphan": 0
       },
       "hi": {
@@ -4361,8 +4361,8 @@
           "sourceContentHash": "sha256:9e85b1332b7523ce",
           "sourceBodyHash": "sha256:aa9670656fd12067",
           "translatedAt": "2026-07-25T12:45:16+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "9405dd26",
+          "translationLastModified": "2026-07-25T17:12:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -6965,8 +6965,8 @@
           "sourceContentHash": "sha256:b0c668da71eb8f7b",
           "sourceBodyHash": "sha256:bda6180b6fe80c7a",
           "translatedAt": "2026-07-25T12:45:16+08:00",
-          "translationLastCommit": "e860007e",
-          "translationLastModified": "2026-05-20T06:14:13+08:00",
+          "translationLastCommit": "9405dd26",
+          "translationLastModified": "2026-07-25T17:12:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -18395,18 +18395,7 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Art/fab-dao.md",
-          "translatedFrom": "Art/FAB DAO與百岳計畫.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:a569386269241d61",
-          "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
-          "translatedAt": "2026-07-25T15:46:05+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
@@ -23341,7 +23330,7 @@
           "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:5c053dd9110acc9b",
           "sourceBodyHash": "sha256:62212c95c5c34acf",
-          "translatedAt": "2026-07-25T15:46:05+08:00",
+          "translatedAt": "2026-07-25T15:39:18+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
@@ -28065,8 +28054,8 @@
           "sourceContentHash": "sha256:1b3e5e3f22f40ead",
           "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
           "translatedAt": "2026-07-25T12:49:28+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "9405dd26",
+          "translationLastModified": "2026-07-25T17:12:56+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -34532,8 +34521,8 @@
           "sourceContentHash": "sha256:3a49c509011ce42d",
           "sourceBodyHash": "sha256:637002941419ff56",
           "translatedAt": "2026-07-25T12:45:16+08:00",
-          "translationLastCommit": "026e5b58",
-          "translationLastModified": "2026-07-25T10:56:52+08:00",
+          "translationLastCommit": "9405dd26",
+          "translationLastModified": "2026-07-25T17:12:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -46210,7 +46199,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/shasha77-chang-chih-chi.md",
+          "translatedFrom": "People/張志祺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b7728f29d3dbc9e2",
+          "sourceBodyHash": "sha256:8df8bda804d8ffe0",
+          "translatedAt": "2026-07-25T15:46:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -47417,18 +47417,7 @@
           "status": "missing"
         },
         "ru": {
-          "path": "ru/People/mavis-fan-singer.md",
-          "translatedFrom": "People/范曉萱.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:be33318bbff736f0",
-          "sourceBodyHash": "sha256:972eef53b5601304",
-          "translatedAt": "2026-07-25T15:46:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 30,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -54338,7 +54327,7 @@
           "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:f9f02c4b8eb59a3c",
           "sourceBodyHash": "sha256:08e93141b3775e8d",
-          "translatedAt": "2026-07-25T15:46:11+08:00",
+          "translatedAt": "2026-07-25T15:39:25+08:00",
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
