@@ -30,6 +30,10 @@ const FALLBACK_CHAIN: Record<string, readonly Lang[]> = {
   id: ['id', 'en', 'zh-TW'] as Lang[],
   pt: ['pt', 'es', 'en', 'zh-TW'] as Lang[],
   hi: ['hi', 'en', 'zh-TW'] as Lang[],
+  // 2026-07-25 route scaffold (ar/ru enabled: false，本次僅接路由 + RTL；
+  // UI 字串 bundle 尚未落地）：缺 key 時同樣英文比中文可讀。
+  ar: ['ar', 'en', 'zh-TW'] as Lang[],
+  ru: ['ru', 'en', 'zh-TW'] as Lang[],
   'zh-TW': ['zh-TW'] as Lang[],
 };
 

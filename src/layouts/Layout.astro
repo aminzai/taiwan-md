@@ -13,6 +13,7 @@ import HeadInlineScripts from '../components/HeadInlineScripts.astro';
 import EventTracker from '../components/EventTracker.astro';
 
 import type { Lang } from '../config/languages';
+import { getLanguage } from '../config/languages';
 
 interface Props {
   title: string;
@@ -66,6 +67,12 @@ interface Props {
 }
 
 const { lang = 'zh-TW' } = Astro.props;
+// Text direction — read from the LANGUAGES registry (SSOT: src/config/languages.ts
+// `dir` field). Every language defaults to 'ltr' unless the registry marks it
+// 'rtl' (2026-07-25: ar is the site's first RTL language). Keeping this a
+// registry lookup instead of a hardcoded list means a future RTL language
+// (e.g. he/fa) only needs the one `dir: 'rtl'` line in languages.ts.
+const dir = getLanguage(lang)?.dir ?? 'ltr';
 const {
   title,
   description = lang === 'zh-TW'
@@ -156,7 +163,7 @@ const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
 ---
 
 <!doctype html>
-<html lang={lang}>
+<html lang={lang} dir={dir}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
