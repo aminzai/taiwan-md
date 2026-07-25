@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T03:32:16+08:00",
-    "zhCommitHead": "d556442f9",
+    "lastUpdated": "2026-07-26T03:40:41+08:00",
+    "zhCommitHead": "c7c25d2c4",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -75,34 +75,34 @@
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 380,
+        "fresh": 381,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 473,
+        "missing": 472,
         "orphan": 0
       },
       "hi": {
         "total_zh": 865,
-        "fresh": 294,
+        "fresh": 295,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 564,
+        "missing": 563,
         "orphan": 0
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 232,
+        "fresh": 233,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 632,
+        "missing": 631,
         "orphan": 0
       },
       "ru": {
         "total_zh": 865,
-        "fresh": 262,
+        "fresh": 263,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 602,
+        "missing": 601,
         "orphan": 0
       }
     },
@@ -4445,7 +4445,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/esun-financial-holding-digital-banking-pioneer.md",
+          "translatedFrom": "Economy/台灣企業：玉山金控.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:3400938387db0838",
+          "sourceBodyHash": "sha256:486e862869561dd4",
+          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -5856,7 +5867,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-enterprise-fubon-financial.md",
+          "translatedFrom": "Economy/台灣企業：富邦金控.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:17799d817d240ba2",
+          "sourceBodyHash": "sha256:1b85009498a2a6bb",
+          "translatedAt": "2026-07-26T02:07:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -9444,8 +9466,8 @@
           "sourceContentHash": "sha256:19b72b95becb40d7",
           "sourceBodyHash": "sha256:966a2693a6cccc59",
           "translatedAt": "2026-07-25T21:33:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7c25d2c",
+          "translationLastModified": "2026-07-26T03:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -9586,8 +9608,8 @@
           "sourceContentHash": "sha256:35a33cde93fda77c",
           "sourceBodyHash": "sha256:3e72d2709a13a90b",
           "translatedAt": "2026-07-25T21:33:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7c25d2c",
+          "translationLastModified": "2026-07-26T03:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -10519,8 +10541,8 @@
           "sourceContentHash": "sha256:34ffbb88716e1c90",
           "sourceBodyHash": "sha256:401833a7ed0b48dd",
           "translatedAt": "2026-07-25T21:33:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7c25d2c",
+          "translationLastModified": "2026-07-26T03:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -25124,7 +25146,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taiwan-mahjong-and-celebrity-shortage.md",
+          "translatedFrom": "Lifestyle/台灣麻將與明星三缺一.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ef208b370e332f10",
+          "sourceBodyHash": "sha256:1f3fd4501700702b",
+          "translatedAt": "2026-07-26T02:07:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -26640,7 +26673,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/tiktok-in-taiwan.md",
+          "translatedFrom": "Society/TikTok.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:dfdfbf0a5674de0a",
+          "sourceBodyHash": "sha256:6054d2cc1d83cb36",
+          "translatedAt": "2026-07-26T02:07:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/tiktok-in-taiwan.md",
@@ -76954,8 +76998,8 @@
           "sourceContentHash": "sha256:0b469697cef600b9",
           "sourceBodyHash": "sha256:9c9d5bf9b829829e",
           "translatedAt": "2026-07-25T21:33:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7c25d2c",
+          "translationLastModified": "2026-07-26T03:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -82065,8 +82109,8 @@
           "sourceContentHash": "sha256:91f467d8cc029b74",
           "sourceBodyHash": "sha256:1f92c860af97938e",
           "translatedAt": "2026-07-25T21:33:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7c25d2c",
+          "translationLastModified": "2026-07-26T03:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -102412,8 +102456,8 @@
           "sourceContentHash": "sha256:92d21a8f6666e1c2",
           "sourceBodyHash": "sha256:036fefb83f0557fd",
           "translatedAt": "2026-07-25T21:33:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c7c25d2c",
+          "translationLastModified": "2026-07-26T03:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
