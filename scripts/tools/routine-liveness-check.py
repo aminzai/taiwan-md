@@ -68,6 +68,8 @@ TAG_PATTERNS: dict[str, list[str]] = {
     "twmd-routine-audit-weekly": ["routine-audit"],
     "twmd-spore-pick-daily": ["spore-pick"],
     "twmd-spore-publish-daily": ["spore-publish"],
+    "twmd-routine-sync": ["twmd-routine-sync"],
+    "twmd-supporters-weekly": ["twmd-supporters-weekly", "supporters"],
     "twmd-music-media-audit-weekly": ["music-media-audit"],
 }
 
