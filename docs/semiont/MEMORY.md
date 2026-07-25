@@ -337,3 +337,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-25 | 211219-bot-identity-routine-sync | feedback routine 改用 GitHub App 開 issue（只給 issues:write）、cron prompt 收進 git、新增 twmd-routine-sync 跨機對賬 | 載荷檔不該讓格式化器碰（prettier 改掉 glob 星號）；存證機制自己也會撞名 | [→](memory/2026-07-25-211219-bot-identity-routine-sync.md) |
 | 2026-07-25 | 231820-manual | 外送專法從 Stage 1B 走到 ship（9,700 字／62 腳註）＋ spine 長出第三型「多觀點立場議題探討矛盾型」進六個 canonical | 九個事實修正沒一個是儀器抓得到的，且全落在我沒親驗一手的區塊 | [→](memory/2026-07-25-231820-manual.md) |
 | 2026-07-25 | 233821-vortex-babel-3 | 開站日下半場：ar/ru 正式上線（開站 10hr 雙破 20%）、兩引擎科學裁決 structured 退回 pilot、四元件語言表補六語、commit 批次三修 | 佔位真值比空值危險——看起來有效的東西擋住修復訊號；敘事層是儀器化後的下個進化面 | [→](memory/2026-07-25-233821-vortex-babel-3.md) |
+| 2026-07-26 | 001546-manual | 外送專法順稿（牆 9→0、圖表 6→11）＋順稿升格總編室第六探針、新增 R5 長段密度與 Step 3.6.4 orchestrator 自修收件紀律 | 規則被指派給讀不了新鮮的讀者等於沒有規則；設計兩條閘門，校準完兩條都撤 | [→](memory/2026-07-26-001546-manual.md) |
