@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T11:20:59+08:00",
-    "zhCommitHead": "427a3d451",
+    "lastUpdated": "2026-07-25T11:21:30+08:00",
+    "zhCommitHead": "cdab7825e",
     "totalZh": 863,
     "activeLanguages": [
       "en",
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 863,
-        "fresh": 172,
+        "fresh": 174,
         "stale": 4,
         "metadata_stale": 1,
-        "missing": 686,
+        "missing": 684,
         "orphan": 0
       },
       "pt": {
         "total_zh": 863,
-        "fresh": 227,
+        "fresh": 228,
         "stale": 8,
         "metadata_stale": 1,
-        "missing": 627,
+        "missing": 626,
         "orphan": 0
       },
       "hi": {
@@ -22443,7 +22443,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/history-of-taiwan-mrt-development.md",
+          "translatedFrom": "Lifestyle/台灣捷運發展史.md",
+          "sourceCommitSha": "976dcae41",
+          "sourceContentHash": "sha256:103cffd41c084886",
+          "sourceBodyHash": "sha256:afbe1eb00070eaa4",
+          "translatedAt": "2026-07-25T10:52:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -30801,7 +30812,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/the-buffet-aunties-intuitive-pricing.md",
+          "translatedFrom": "Society/自助餐阿姨的謎之目測精算能力.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c40e9256e5031f97",
+          "sourceBodyHash": "sha256:b933f7d83c83a92f",
+          "translatedAt": "2026-07-25T10:53:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -55346,7 +55368,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/kuo-chin-fa-taiwanese-singer.md",
+          "translatedFrom": "People/郭金發.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ffef27b2909f9d95",
+          "sourceBodyHash": "sha256:b629819d5dc38d6a",
+          "translatedAt": "2026-07-25T10:53:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/kuo-chin-fa-taiwanese-singer.md",
@@ -60099,8 +60132,8 @@
           "sourceContentHash": "sha256:7bf4114050e0bd18",
           "sourceBodyHash": "sha256:56cd3707ce723649",
           "translatedAt": "2026-07-25T10:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cdab7825",
+          "translationLastModified": "2026-07-25T11:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -62179,8 +62212,8 @@
           "sourceContentHash": "sha256:a0454e71ee2abfe6",
           "sourceBodyHash": "sha256:2bbcd86b693a9ea2",
           "translatedAt": "2026-07-25T10:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cdab7825",
+          "translationLastModified": "2026-07-25T11:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -63775,8 +63808,8 @@
           "sourceContentHash": "sha256:f70240af05eb54ba",
           "sourceBodyHash": "sha256:1077b6698d6359d9",
           "translatedAt": "2026-07-25T10:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cdab7825",
+          "translationLastModified": "2026-07-25T11:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -63928,8 +63961,8 @@
           "sourceContentHash": "sha256:2752c026dbd32f77",
           "sourceBodyHash": "sha256:33817e164492daa0",
           "translatedAt": "2026-07-25T10:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cdab7825",
+          "translationLastModified": "2026-07-25T11:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -65432,8 +65465,8 @@
           "sourceContentHash": "sha256:8741429d614846be",
           "sourceBodyHash": "sha256:3713eaac6b565ca6",
           "translatedAt": "2026-07-25T10:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cdab7825",
+          "translationLastModified": "2026-07-25T11:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -65791,8 +65824,8 @@
           "sourceContentHash": "sha256:2f969547257cfb65",
           "sourceBodyHash": "sha256:b1f0ce92250128c2",
           "translatedAt": "2026-07-25T10:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cdab7825",
+          "translationLastModified": "2026-07-25T11:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -66315,8 +66348,8 @@
           "sourceContentHash": "sha256:f215fbcb32524845",
           "sourceBodyHash": "sha256:f4c6330bca417165",
           "translatedAt": "2026-07-25T10:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cdab7825",
+          "translationLastModified": "2026-07-25T11:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -66457,8 +66490,8 @@
           "sourceContentHash": "sha256:961c8a81a8f8c3f1",
           "sourceBodyHash": "sha256:2b1f54ba6f041643",
           "translatedAt": "2026-07-25T10:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cdab7825",
+          "translationLastModified": "2026-07-25T11:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -69802,8 +69835,8 @@
           "sourceContentHash": "sha256:764c87b479e4e9af",
           "sourceBodyHash": "sha256:6c2df9f7c1f07744",
           "translatedAt": "2026-07-25T10:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cdab7825",
+          "translationLastModified": "2026-07-25T11:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -70059,8 +70092,8 @@
           "sourceContentHash": "sha256:6de8df7e037bf580",
           "sourceBodyHash": "sha256:4ab47a31d7ad3c5f",
           "translatedAt": "2026-07-25T10:53:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cdab7825",
+          "translationLastModified": "2026-07-25T11:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
