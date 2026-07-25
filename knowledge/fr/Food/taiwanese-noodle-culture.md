@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Aliments de base et nouilles'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Editorial Team'
 readingTime: 15
 featured: true
 translatedFrom: 'Food/台灣麵食文化.md'
@@ -25,6 +25,8 @@ sourceBodyHash: 'sha256:07d9c3b482846ce9'
 translatedAt: '2026-04-14T12:29:25+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg/960px-Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: true
+difficulty: 'intermediate'
 ---
 
 # La culture des nouilles à Taïwan : soixante-dix ans d'histoire, de mémoire et d'innovation

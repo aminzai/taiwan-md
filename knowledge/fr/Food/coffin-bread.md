@@ -1,7 +1,7 @@
 ---
 title: 'Le coffin bread : d’un nom de mauvais augure à un mets hybride sino-occidental de Tainan'
 description: 'À la fin des années 1940, dans le Sakariba de Tainan, apparut un en-cas appelé « planche au foie de poulet », bientôt surnommé « coffin bread » en raison de sa forme singulière. Inventé par M. Hsu Liu-yi, ce plat composé de pain de mie frit enveloppant du foie de poulet et une pâte crémeuse fut non seulement un apport nutritif dans la pénurie de l’après-guerre, mais aussi, après avoir été présenté par CNN, une carte de visite internationale de la culture culinaire « hybride sino-occidentale » de Tainan.'
-date: '2026-06-16'
+date: 2026-06-16
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '經典小吃'
@@ -15,7 +15,7 @@ tags:
     'Reportage de CNN',
   ]
 readingTime: 8
-lastVerified: '2026-06-16'
+lastVerified: 2026-06-16
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/棺材板.md'

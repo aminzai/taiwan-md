@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Système de santé'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-24
@@ -21,6 +21,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:bdad2fe4c19ade1d'
 sourceBodyHash: 'sha256:65d8bf2fc8ebb567'
 translatedAt: 2026-05-16T22:27:56Z
+lastHumanReview: false
 ---
 
 ## Prologue : une décision de vie ou de mort en 8 minutes

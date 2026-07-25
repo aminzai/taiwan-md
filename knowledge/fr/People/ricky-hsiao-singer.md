@@ -15,12 +15,13 @@ tags:
   ]
 readingTime: 12
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
 translatedFrom: People/蕭煌奇.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:566f9f83e753fc69'
 sourceBodyHash: 'sha256:2a6df4f467257ee5'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > En 1976, Ricky Hsiao naît à Banqiao. Une cataracte congénitale le rend aveugle à deux reprises. Pourtant, cette expérience de « ne pas voir » devient le terreau fertile de sa musique et de sa vie. Il est non seulement le premier artiste à avoir remporté quatre fois le Golden Melody Award du meilleur chanteur en langue taïwanaise, mais il a également représenté Taïwan aux Jeux paralympiques, décrochant une médaille de bronze en judo. En 1995, il fonde le « Life Line Band », ouvrant la voie à la professionnalisation des musiciens malvoyants. Ces dernières années, avec son humour singulier de « blagues de l'enfer », il a renversé l'image de victimisation associée aux personnes en situation de handicap, prouvant par sa voix et sa philosophie de vie sereine que même dans les ténèbres, on peut vivre la vie la plus éclatante.

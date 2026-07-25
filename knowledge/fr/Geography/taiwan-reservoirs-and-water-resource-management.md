@@ -11,7 +11,7 @@ tags:
     'changement climatique',
   ]
 subcategory: 'Hydrologie et ressources en eau'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 11
 category: 'Geography'

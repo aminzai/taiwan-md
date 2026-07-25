@@ -1,7 +1,7 @@
 ---
 title: 'Les aliments fermentés et la culture de la salaison à Taïwan'
 description: 'Du tofu malodorant au tofu fermenté, exploration des techniques de fermentation uniques et des traditions de salaison de Taïwan'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: '食材與調味'
@@ -15,8 +15,8 @@ tags:
     'techniques traditionnelles',
     'micro-organismes',
   ]
-readingTime: '15'
-lastVerified: '2026-03-19'
+readingTime: 15
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
@@ -26,6 +26,7 @@ sourceBodyHash: 'sha256:b693c93c53efd3dc'
 translatedAt: '2026-05-20T05:08:34+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg/960px-%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'intermediate'
 ---
 
 # Les aliments fermentés et la culture de la salaison à Taïwan

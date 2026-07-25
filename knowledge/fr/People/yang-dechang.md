@@ -2,7 +2,7 @@
 title: 'Yang Dechang'
 description: "Figure centrale du Nouveau Cinéma taïwanais, meilleur réalisateur à Cannes, poète de l'urbanité et de la solitude"
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
+author: 'Taiwan.md'
 category: 'People'
 subcategory: '電影與戲劇'
 tags:
@@ -13,7 +13,7 @@ tags:
     'Festival de Cannes',
     'cinéma urbain',
   ]
-lastVerified: 2026-03-19
+lastVerified: 2026-07-05
 lastHumanReview: false
 featured: true
 translatedFrom: People/楊德昌.md

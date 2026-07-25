@@ -16,8 +16,8 @@ category: 'Society'
 subcategory: 'Médias et expression'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 18
-lastVerified: 2026-05-02
+readingTime: 20
+lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: 'Society/臺灣大百科全書.md'
 sourceCommitSha: 'ce7f10f8'

@@ -5,7 +5,7 @@ date: 2026-03-31
 tags: [société, ethnicité, politique, histoire, identité]
 subcategory: 'Ethnicité et identité'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'Society/台灣省籍矛盾.md'

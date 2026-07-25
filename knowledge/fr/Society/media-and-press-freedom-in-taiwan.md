@@ -22,6 +22,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:2b07b58b99abcb36'
 sourceBodyHash: 'sha256:9e2facc3bed645dd'
 translatedAt: '2026-05-17T05:34:56+08:00'
+difficulty: 'intermediate'
 ---
 
 # Médias taïwanais et liberté de la presse

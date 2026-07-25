@@ -11,7 +11,7 @@ tags:
     'emploi des jeunes',
   ]
 subcategory: 'Générations et société'
-author: 'Taiwan.md Translation Team'
+author: 'p3nchan'
 readingTime: 8
 category: 'Society'
 lastVerified: 2026-03-29

@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9280fef1e637d1d1'
 sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **En bref (30 secondes) :** Le gâteau soleil ne porte pas ce nom depuis toujours. Il trouve son origine dans la « galette au maltose » (麥芽酥餅) de la fin de la dynastie Qing et du début de la République, avant d''évoluer vers sa forme actuelle — croûte fine et feuilletée — grâce aux perfectionnements apportés par le maître pâtissier Wei Qing-hai du district de Beitun à Taichung. En 1964, la mosaïque de tournesols conçue par l''artiste Yan Shui-long pour « Tangen Tang » fut scellée pendant 25 ans, soupçonnée de « propagande en faveur de l''ennemi ». Cet épisode politique a paradoxalement ajouté une dimension légendaire à ce gâteau.

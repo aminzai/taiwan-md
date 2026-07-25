@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1910ee0829efda65'
 sourceBodyHash: 'sha256:def52197e717a6f7'
 translatedAt: '2026-05-13T01:08:41Z'
+lastHumanReview: false
 ---
 
 > **En 30 secondes :** Jiutian Xuannü est la conseillère militaire de la mythologie chinoise qui aida l'Empereur Jaune à vaincre Chiyou. Après avoir traversé le détroit pour Taïwan, elle est devenue la patronne des fabricants d'encens, remplaçante du dieu des amours, déesse porte-bonheur aux examens — une divinité polyvalente à tout faire. Mais le chapitre le plus touchant de son histoire à Taïwan, c'est celui d'un homme nommé Hsu Chen-jung, sur les collines de Dadu à Taichung, qui a utilisé son nom pour recueillir des jeunes abandonnés par l'école, a hissé les troupes de temple au rang d'art de scène jusqu'au Lincoln Center de New York, et a inspiré un film qui a rapporté 320 millions de dollars taïwanais au box-office.

@@ -1,7 +1,7 @@
 ---
 title: 'Je suis OO : la page qui vous appelle « compatriote », gérée depuis une société à Neihu et une instruction IA oubliée'
 description: 'En février 2026, une page locale se présentant comme « Je suis de Taipei » a publié, dans l’une de ses publications, une instruction IA non supprimée : « Supprimer les mots sensibles, renforcer le parler local taïwanais ». En suivant cette piste, on aboutit à une société liée à la famille Lin, installée dans un immeuble de Neihu, qui transforme les informations de CTWANT et de Zhongtian en style « compatriote » et les diffuse via des pages se faisant passer pour des habitants de chaque ville ou comté. Il ne s’agit pas de fake news ; les articles sont réels, mais leur provenance et leurs flux financiers restent invisibles, et les meilleurs spécialistes taïwanais de la guerre cognitive s’exclament : ne vous précipitez pas pour les étiqueter.'
-date: '2026-06-05'
+date: 2026-06-05
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '資訊環境'
@@ -13,7 +13,7 @@ tags:
   - 'environnement informationnel'
   - 'lecture médiatique'
   - 'pages locales'
-lastVerified: '2026-06-05'
+lastVerified: 2026-06-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/我是OO人.md'

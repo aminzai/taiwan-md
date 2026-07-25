@@ -4,7 +4,7 @@ description: "De l'artisan chiaïen Huang Yi-Hsun et sa passion pour les bols en
 category: Culture
 tags: [croyances populaires, artisanat traditionnel, bols divinatoires]
 subcategory: 'Religion et folklore'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-03-27
 readingTime: 8
 lastVerified: 2026-03-27
@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f8a1e86f13d5a657'
 sourceBodyHash: 'sha256:ef724755039c89a7'
 translatedAt: '2026-04-14T19:13:02+08:00'
+featured: false
 ---
 
 > **En 30 secondes :**

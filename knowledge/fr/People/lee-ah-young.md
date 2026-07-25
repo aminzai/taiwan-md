@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:1893791073a1e549'
 sourceBodyHash: 'sha256:c10dde5e8f5a2f8e'
 translatedAt: '2026-05-17T06:15:00Z'
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** Lee Ah-young à Taïwan n'est pas le cas de quelqu'un qui « est devenu très populaire d'un coup », mais plutôt celui de quelqu'un qui « a toujours été là ». Son maintien saison après saison chez Fubon, avec une assiduité et une forte reconnaissance, a transformé les cheerleaders coréennes de sujets de conversation en éléments structurels du contenu sportif.
@@ -37,7 +38,7 @@ Ces dernières années, les Fubon Guardians ont développé leur contenu de dive
 
 Autour de la saison 2026, Fubon a continué de mettre en avant ses cinq piliers coréens comme l'un des axes narratifs clés de la saison. La présence de Lee Ah-young parmi eux signifie que sa valeur a été institutionnalisée, et ne repose plus sur un simple pic de popularité.
 
-Lors de la conférence de presse d'ouverture des Fubon Angels en mars 2026, les médias ont axé leur couverture sur l'apparition conjointe des plusieurs membres coréennes ; dans son compte-rendu des échanges en direct, l'édition numérique du *United Daily News* / *UDN News* note également que Lee Ah-young s'est présentée en chinois et a évoqué son rôle au sein du « groupe international » des Fubon. [Source : United Daily News / UDN News][^6]
+Lors de la conférence de presse d'ouverture des Fubon Angels en mars 2026, les médias ont axé leur couverture sur l'apparition conjointe des plusieurs membres coréennes ; dans son compte-rendu des échanges en direct, l'édition numérique du _United Daily News_ / _UDN News_ note également que Lee Ah-young s'est présentée en chinois et a évoqué son rôle au sein du « groupe international » des Fubon. [Source : United Daily News / UDN News][^6]
 
 ## Caractéristiques de performance et relation avec les fans
 
@@ -62,7 +63,7 @@ L'importance de cette phase réside dans le fait que les cheerleaders coréennes
 
 ## Références / Sources
 
-[^6]: *United Daily News* / *UDN News*, « CPBL / Les cinq renforts coréennes des Fubon Braves apparaissent ensemble — Lee Ju-eun, “je vous ai trop manqués”, fond en larmes d'émotion » (avec compte-rendu de la conférence de presse d'ouverture), 2026-03-25, https://udn.com/news/story/7002/9402487
+[^6]: _United Daily News_ / _UDN News_, « CPBL / Les cinq renforts coréennes des Fubon Braves apparaissent ensemble — Lee Ju-eun, “je vous ai trop manqués”, fond en larmes d'émotion » (avec compte-rendu de la conférence de presse d'ouverture), 2026-03-25, https://udn.com/news/story/7002/9402487
 
 Autres sources vérifiables :
 

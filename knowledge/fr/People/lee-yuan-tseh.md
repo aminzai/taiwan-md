@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Sciences et monde académique'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: true
 lastVerified: 2026-03-21
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c7cb9c37ad53a48c'
 sourceBodyHash: 'sha256:d9744718376b888a'
 translatedAt: '2026-04-14T19:15:40+08:00'
+lastHumanReview: true
 ---
 
 # Lee Yuan-tseh

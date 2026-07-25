@@ -10,8 +10,8 @@ readingTime: 7
 #   whats_excluded: "各張專輯逐年曲目；China Blue成員變動細節；商業收益與演唱會票房"
 #   where_it_hedges: "2025年《純白的起點》和2026年詩詞集以TODO標記，待天機星確認細節"'
 lastVerified: 2026-05-07
-lastHumanReview: 'true'
-featured: 'false'
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/伍佰.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:2dda34fc81c78056'

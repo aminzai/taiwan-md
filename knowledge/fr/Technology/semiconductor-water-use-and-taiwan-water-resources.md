@@ -17,7 +17,7 @@ tags:
   - 'eau régénérée'
   - 'chaîne d’approvisionnement'
 subcategory: 'Semi-conducteurs et matériel'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -184,6 +184,9 @@ C’est là ce qui mérite le plus d’être compris dans l’eau des semi-condu
 ## Références
 
 [^1]: [WIRED: Want to Win a Chip War? You’re Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — Reportage de WIRED en 2023 sur les besoins de la fabrication de semi-conducteurs en eau ultrapure, en traitement de l’eau et en ressources locales, avec mention de la tension entre fabrication de puces et irrigation agricole pendant les sécheresses taïwanaises.
+
 [^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Page officielle de TSMC Arizona, qui expose l’investissement sur le site, le plan des procédés de pointe, le système de récupération de l’eau et les objectifs des installations de régénération de l’eau industrielle ; utilisable comme cas de gouvernance hydrique des usines à l’étranger.
+
 [^3]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Reportage sur l’emploi, le développement local, les ressources hydriques, l’environnement et les controverses sur la sécurité au travail liés à l’expansion du cluster de semi-conducteurs de l’Arizona ; utile pour équilibrer le point de vue des sociétés locales sur les usines à l’étranger.
+
 [^4]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Étudie l’empreinte environnementale de 16 fabricants taïwanais de composants électroniques entre 2015 et 2020 et pose le risque d’une hausse de la consommation d’eau, de l’énergie et des émissions avec la croissance de la production.

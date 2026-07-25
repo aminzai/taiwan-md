@@ -1,7 +1,7 @@
 ---
 title: "Bangka : le lieu le plus animé du Taipei sous les Qing est aujourd'hui le district dont l'âge moyen est le plus élevé à Taipei"
 description: "Le temple Longshan de Bangka, construit en 1738 grâce au financement collectif de migrants des trois districts de Quanzhou, aura 288 ans en 2026, soit 137 ans de plus que la préfecture de Taipei établie par les Qing. En 1853, l'affrontement armé du Dingxiajiaopin repoussa les gens de Tong'an vers Dadaocheng et planta les germes de deux siècles de bifurcation dans le nord de Taïwan. Rebaptisé Wanhua sous la domination japonaise, constitué en district en 1990, porté au cinéma par Doze Niu en 2010 avec Monga, il affiche aujourd'hui un indice de vieillissement de 320,78 %, le plus élevé de toute la ville. Dans cette plus ancienne rue de Taipei, le premier bâton d'encens brûle encore à six heures du matin sur le parvis du temple."
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區 / 台北市萬華區'
@@ -26,7 +26,7 @@ tags:
     'série des quartiers historiques',
   ]
 readingTime: 22
-lastVerified: '2026-05-21'
+lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/艋舺.md'

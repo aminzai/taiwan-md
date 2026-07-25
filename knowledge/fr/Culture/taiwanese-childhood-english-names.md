@@ -1,7 +1,7 @@
 ---
 title: "Les noms anglais des Taïwanais dans l'enfance : Mary, Kevin et le pouvoir de nomination des professeurs de cours privés"
 description: "Des pages tournées dans les cours privés à la romanisation du passeport, puis au comptoir de Starbucks, ce nom n'a jamais été celui que vous aviez choisi. Une histoire de la nomination qui va de Hess en 1983 et du « NO CHINESE, ENGLISH PLEASE » de Sesame Street English en 1987 jusqu'à la réforme législative de 2024 autorisant l'inscription du seul nom autochtone, et qui ramène la question à ces 30 secondes de silence."
-date: '2026-06-17'
+date: 2026-06-17
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '語言與命名'
@@ -17,7 +17,7 @@ tags:
     'politique de changement de nom',
   ]
 readingTime: 18
-lastVerified: '2026-06-17'
+lastVerified: 2026-06-17
 lastHumanReview: false
 featured: true
 translatedFrom: 'Culture/台灣人小時候的英文名字.md'
@@ -25,6 +25,7 @@ sourceCommitSha: 'cfce444ae'
 sourceContentHash: 'sha256:5ec68902a1c50e0d'
 sourceBodyHash: 'sha256:efeadcec0add04bc'
 translatedAt: '2026-06-18T00:36:10+08:00'
+difficulty: 'intermediate'
 ---
 
 # Les noms anglais des Taïwanais dans l'enfance : Mary, Kevin et le pouvoir de nomination des professeurs de cours privés

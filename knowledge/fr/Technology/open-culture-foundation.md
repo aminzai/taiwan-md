@@ -1,7 +1,7 @@
 ---
 title: 'Fondation pour la culture ouverte : aider le groupe le moins contrôlable de Taïwan à faire la chose la plus ennuyeuse'
 description: "En 2020, la carte des masques a été mise en ligne en trois jours. Tout Taïwan se souvient de ce miracle, mais personne ne se souvient de qui a tenu la comptabilité du projet, signé les contrats et géré les assurances sociales. Ce back-end s'appelle la Fondation pour la culture ouverte (OCF) — un mouvement décentralisé qui clame que « personne n'est omniscient », et qui, pour que les hackers restent des hackers, a dû se doter d'une structure capable d'émettre des factures et de rendre un conseil d'administration comptable de ses actes. Dix ans plus tard, ce back-end qui ne voulait qu'aider à tenir les comptes est devenu un nom que l'on évoque à l'international quand Taïwan parle de droits numériques."
-date: '2026-06-03'
+date: 2026-06-03
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: '開源社群'
@@ -15,10 +15,10 @@ tags:
     'Communauté open source',
     'Liberté sur Internet',
   ]
-readingTime: '13'
-lastVerified: '2026-06-04'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 13
+lastVerified: 2026-06-04
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/開放文化基金會.md'
 sourceCommitSha: 'c8e5ac9e'
 sourceContentHash: 'sha256:c4ab423af923a984'

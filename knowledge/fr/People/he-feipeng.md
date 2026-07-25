@@ -5,7 +5,7 @@ date: 2026-03-26
 tags: ['Cité Media', 'édition', 'transformation numérique', 'Ziman']
 subcategory: 'Numérique et médias'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: ~5 min
 featured: false
 lastVerified: 2026-03-26
@@ -14,6 +14,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:c6c5b08befa8584a'
 sourceBodyHash: 'sha256:65be42b8cac6c9ca'
 translatedAt: 2026-05-16T22:21:43Z
+lastHumanReview: false
 ---
 
 > **En 30 secondes :** En 1987, Ho Fei-peng fonde le _Business Weekly_ (_Shangye Zhoukan_). Les sept premières années, le magazine perd plusieurs dizaines de millions de nouveaux dollars taïwanais chaque année. Aujourd'hui, le groupe Cité Media qu'il a bâti est le plus grand empire éditorial de Taïwan — et l'un des rares acteurs traditionnels à avoir traversé la révolution numérique sans couler. Son parcours est une leçon de survie pour toute la presse papier face à l'ère digitale.

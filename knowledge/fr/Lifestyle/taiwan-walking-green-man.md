@@ -11,7 +11,7 @@ tags:
     'design urbain',
   ]
 subcategory: 'Culture urbaine'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 6
 featured: false
 lastVerified: 2026-03-24

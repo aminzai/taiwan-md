@@ -13,11 +13,11 @@ tags:
   ]
 subcategory: 'Artisanat et esthétique'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 difficulty: 'intermediate'
-readingTime: 12
+readingTime: 20
 featured: true
-lastVerified: 2026-03-24
+lastVerified: 2026-07-12
 lastHumanReview: false
 translatedFrom: 'Culture/台灣茶文化.md'
 sourceCommitSha: 'd6e87d07'

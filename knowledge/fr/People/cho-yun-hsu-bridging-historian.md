@@ -1,7 +1,7 @@
 ---
 title: 'Hsu Cho-yun : avec deux doigts, écrire le long fleuve de l’histoire chinoise, les quatre-vingt-quinze ans du grand-oncle maternel de Wang Leehom'
 description: 'Historien né à Xiamen en 1930, arrivé à Taïwan avec le gouvernement nationaliste en 1949 puis à Pittsburgh en 1970, Hsu Cho-yun vécut toute sa vie en fauteuil roulant en raison d’un handicap congénital des membres, mais acheva près de quarante ouvrages en tapant au clavier avec les deux seuls doigts capables d’exercer une pression. Lauréat en 2024 du sixième prix Tang de sinologie, il donna la totalité des 50 millions de dollars taïwanais de dotation pour créer la « bourse Hsu-Sun » ; il était le septième grand-oncle maternel de Wang Leehom et l’oncle de Li Chien-fu. Avant sa mort en août 2025, il laissa cette phrase : « À l’instant où je rendrai mon dernier souffle, je serai encore en train d’apprendre. »'
-date: '2026-05-22'
+date: 2026-05-22
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科學與學術'
@@ -19,7 +19,7 @@ tags:
     'Wang Leehom',
     'Li Chien-fu',
   ]
-lastVerified: '2026-05-22'
+lastVerified: 2026-05-22
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/許倬雲.md'

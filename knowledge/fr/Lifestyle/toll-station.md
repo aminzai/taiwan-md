@@ -1,7 +1,7 @@
 ---
 title: 'Poste de péage : la pause de trois secondes disparue sur l’autoroute'
 description: 'En 1974, le poste de péage de Tâi‑shan inaugure l’ère de la tarification sur les autoroutes de Taïwan. Cette histoire s’étalant sur plus d’un demi‑siècle témoigne non seulement du passage de la comptabilisation manuelle à la facturation électronique, mais aussi des besoins budgétaires après la crise pétrolière, des conditions de travail dans les cabines exposées à des gaz d’échappement brûlants, et de la douleur sociale ressentie lorsque les agents de péage ont vu leur « maison » projetée dans la rue lors de luttes sociales.'
-date: 2026-05-03
+date: 2026-07-19
 category: 'Lifestyle'
 tags:
   [
@@ -19,9 +19,9 @@ tags:
 subcategory: '交通與移動'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-05-03
+lastVerified: 2026-07-19
 lastHumanReview: false
-readingTime: 12
+readingTime: 15
 translatedFrom: 'Lifestyle/收費站.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:51547944c653872d'

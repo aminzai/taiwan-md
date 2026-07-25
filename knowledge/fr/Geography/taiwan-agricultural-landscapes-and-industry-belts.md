@@ -1,11 +1,12 @@
 ---
 title: 'Paysages agricoles et répartition industrielle de Taïwan'
-description: 'L''évolution des paysages agricoles du nord au sud illustre la transition de Taïwan, du « grenier à blé de Taïwan » à l''« agriculture de précision »'
+description: "L'évolution des paysages agricoles du nord au sud illustre la transition de Taïwan, du « grenier à blé de Taïwan » à l'« agriculture de précision »"
 date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Geography'
 subcategory: '氣候與溫泉'
-tags: ['Agriculture', 'Paysages', 'Industrie', 'Sécurité alimentaire', 'Géographie']
+tags:
+  ['Agriculture', 'Paysages', 'Industrie', 'Sécurité alimentaire', 'Géographie']
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +16,7 @@ sourceCommitSha: f712b7242
 sourceContentHash: sha256:5fcedd0ad0dc94f7
 sourceBodyHash: sha256:92c2111bcaaae7c8
 translatedAt: 2026-05-20T05:08:34+08:00
+difficulty: 'intermediate'
 ---
 
 # Paysages agricoles et répartition industrielle de Taïwan
@@ -158,8 +160,13 @@ L'agriculture taïwanassume se transforme, passant du statut de « grenier à bl
 ## Références
 
 [^1]: Département des statistiques du Ministère de l'Agriculture, [《Annuaire statistique de l'agriculture taïwanassume》](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx), 2025.
+
 [^2]: Ministère de l'Agriculture, [Informations sur les politiques et le développement agricoles](https://www.moa.gov.tw/), incluant 《Histoire du développement agricole de Taïwan》 (2023).
+
 [^3]: Gouvernement du comté de Changhua, [Informations sur le développement de l'industrie agricole](https://www.chcg.gov.tw/), incluant 《Rapport sur le développement industriel du grenier à riz du Zhuoshui》 (2024).
+
 [^4]: Gouvernement du comté de Taitung, [Agriculture et développement industriel des peuples autochtones](https://www.taitung.gov.tw/), incluant 《Plan de renaissance de l'agriculture autochtone》 (2025).
+
 [^5]: Administration de l'irrigation agricole du Ministère de l'Agriculture, [Informations historiques sur le système d'irrigation de Jianan](https://www.ia.gov.tw/), incluant 《Centenaire du système d'irrigation de Jianan》 (2020).
+
 [^6]: Département de l'Agriculture du comté de Hualien, [Informations sur le développement de l'agriculture biologique de l'est](https://www.hl.gov.tw/), incluant 《Enquête sur la situation actuelle de l'agriculture biologique de l'est》 (2024).

@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Sciences et Recherche'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 7
 featured: false
 translatedFrom: 'People/郭正光.md'
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
 translatedAt: '2026-04-14T19:19:05+08:00'
+lastHumanReview: false
 ---
 
 # Kuo Cheng-Kuang

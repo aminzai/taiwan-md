@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Culture ethnique'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 14
 featured: false
 translatedFrom: 'Culture/客家文化與語言.md'
@@ -22,6 +22,7 @@ sourceCommitSha: 'a43cf915'
 sourceContentHash: 'sha256:b03d6ffbe269bd62'
 sourceBodyHash: 'sha256:b5324c6cea623600'
 translatedAt: '2026-07-06'
+lastHumanReview: false
 ---
 
 # Culture et langue hakka

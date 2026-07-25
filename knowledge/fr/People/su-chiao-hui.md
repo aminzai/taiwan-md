@@ -25,6 +25,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:eb7e3bede251836b'
 sourceBodyHash: 'sha256:8ae89739a53e0a1f'
 translatedAt: '2026-05-02T01:17:16+08:00'
+featured: false
 ---
 
 # Su Chiao-hui : dans l'ombre du « Chong Chong Chong », la commissaire qui suture New Taipei par le droit et les détails

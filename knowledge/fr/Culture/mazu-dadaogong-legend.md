@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Religion et folklore'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false

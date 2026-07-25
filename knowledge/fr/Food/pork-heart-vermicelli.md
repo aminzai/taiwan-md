@@ -13,7 +13,7 @@ tags:
   - 'Michelin'
   - 'snack'
   - 'abats'
-readingTime: '6'
+readingTime: 6
 lastVerified: 2026-07-02
 lastHumanReview: false
 featured: false

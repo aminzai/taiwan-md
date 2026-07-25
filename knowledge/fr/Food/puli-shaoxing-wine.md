@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9df20812b27208dc'
 sourceBodyHash: 'sha256:8546c2e9468f2766'
 translatedAt: '2026-05-02T11:00:00+08:00'
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** Le vin de Shaoxing est pourtant un alcool local millénaire de Kuaiji, dans le Zhejiang chinois ; Taïwan est le seul endroit au monde à l'avoir brassé en « alcool national », inscrit au menu des banquets d'État, glissé dans les invitations de mariage, utilisé pour braiser les ailes de poulet, cuire les nouilles instantanées, faire des esquimaux[^1][^2]. Mais une question mérite encore plus d'être posée : la distillerie de Puli a été fondée en 1917, mais le premier fût de vin de Shaoxing a dû attendre 1952[^3] — juste après le repli du gouvernement nationaliste à Taïwan. C'est une déclaration politique écrite avec du riz gluant et de l'eau, qui se trouve néanmoins emballée dans la brochure d'une distillerie touristique. Et ce qui la soutient, c'est une source de montagne dont le propriétaire a interdit l'usage pendant 4 ans, contraignant la distillerie à creuser un autre puits pour l'arracher[^4][^5].

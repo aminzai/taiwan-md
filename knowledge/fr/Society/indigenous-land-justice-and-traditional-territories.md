@@ -12,7 +12,7 @@ tags:
     droits fonciers,
   ]
 subcategory: 'Droits humains et égalité'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
 category: Society

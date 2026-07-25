@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Technologie et entrepreneuriat'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 translatedFrom: 'People/陳士駿.md'
@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a7528e9b7062bef0'
 sourceBodyHash: 'sha256:9f3cbb43337753f0'
 translatedAt: '2026-04-14T19:19:36+08:00'
+lastHumanReview: false
 ---
 
 # Steve Chen

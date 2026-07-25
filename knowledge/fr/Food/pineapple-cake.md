@@ -1,7 +1,7 @@
 ---
 title: "Gâteau à l'ananas : des collations électorales au « lingot d'or » taïwanais d'une valeur de production de 25 milliards de dollars NT"
 description: "En 1945, la pâtisserie Yan Xinfafa de Taichung a transformé le gâteau traditionnel « dragon-phénix » en un petit gâteau à l'ananas. De la transition vers la garniture à la courge d'hiver dans les années 1970 face au déclin des exportations, au retour en 2009 de la marque SunnyHills à l'acidité authentique de l'ananas local, ce petit « lingot d'or » a, en quatre-vingts ans, toujours été lié au destin agricole de Taïwan. Aujourd'hui, sa valeur de production annuelle dépasse les 25 milliards de dollars NT et il est devenu la saveur la plus représentative de Taïwan dans l'esprit des visiteurs étrangers."
-date: '2026-04-24'
+date: 2026-04-24
 author: 'Taiwan.md Contributors'
 category: 'Food'
 tags:
@@ -13,8 +13,8 @@ tags:
     'SunnyHills',
     'Yan Xinfafa',
   ]
-readingTime: '8'
-lastVerified: '2026-04-24'
+readingTime: 8
+lastVerified: 2026-04-24
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/鳳梨酥.md'

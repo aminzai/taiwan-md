@@ -23,6 +23,7 @@ sourceCommitSha: d6e87d07
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
 translatedAt: 2026-05-16T22:36:25Z
+featured: false
 ---
 
 # Loutres de Taïwan : survie insulaire de la loutre d'Eurasie à Kinmen et disparition silencieuse sur l'île principale

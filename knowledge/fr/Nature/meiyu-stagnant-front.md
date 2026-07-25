@@ -10,7 +10,7 @@ tags:
     'catastrophes naturelles',
   ]
 category: Nature
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 20
 lastVerified: 2026-05-02

@@ -5,12 +5,15 @@ date: 2026-03-17
 tags: [ressources, gouvernement, officiel, Taiwan.md]
 subcategory: 'Ressources'
 category: 'resources'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'resources/official-websites.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0d481ed818da82f8'
 sourceBodyHash: 'sha256:6713c8a6c615e62a'
 translatedAt: '2026-04-15T17:35:32+08:00'
+featured: false
+lastVerified: 2026-03-17
+lastHumanReview: false
 ---
 
 # Répertoire complet des sites officiels de Taïwan 🏛️

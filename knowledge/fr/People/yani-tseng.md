@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Sport'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-31
@@ -23,6 +23,7 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
 translatedAt: '2026-04-14T19:15:12+08:00'
+lastHumanReview: false
 ---
 
 # Tseng Ya-ni

@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Culture numérique et communautés en ligne'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
+author: 'p3nchan'
 readingTime: 8
 featured: false
 translatedFrom: 'Technology/台灣AI日常.md'
@@ -22,6 +22,7 @@ sourceCommitSha: 'dbb8d44c'
 sourceContentHash: 'sha256:7da35707a5ff83dd'
 sourceBodyHash: 'sha256:21f036f1bf71fe83'
 translatedAt: '2026-04-14T12:32:55+08:00'
+lastHumanReview: false
 ---
 
 > Dans la clinique de quartier au coin de votre rue, le médecin boucle en 25 secondes une évaluation du risque diabétique qui prenait autrefois 20 minutes. L'employé du FamilyMart règle en trois minutes sa commande de plats préparés, là où il fallait en compter quinze. La réponse au message que vous envoyez au service client sur LINE ne vient pas d'un humain. Les habitants de Taïwan interagissent avec l'IA des dizaines de fois par jour — et presque personne ne s'en rend compte.

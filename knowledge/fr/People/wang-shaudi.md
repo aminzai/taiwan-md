@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:585e0e43e012a49f'
 sourceBodyHash: 'sha256:e1c0f0613a0e3a84'
 translatedAt: '2026-05-13T01:08:41Z'
+lastHumanReview: true
 ---
 
 > **En 30 secondes :** Wang Hsiao-ti est l'une des réalisatrices de télévision les plus importantes de Taïwan. En quatre décennies, elle a formé toute une génération d'acteurs et de scénaristes. Son père, le général Wang Sheng, était l'un des piliers du régime de la loi martiale — et pourtant, elle a choisi de donner une voix aux gens ordinaires. Des années 1980 avec _Toute la famille_ jusqu'à la plateforme expérimentale _Phui Theater_ en 2016, son objectif est constant : filmer la dignité des gens du bas de l'échelle et faire de la télévision un acte militant. Prix national des Arts en 2014.

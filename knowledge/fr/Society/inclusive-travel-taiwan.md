@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Accessibilité et inclusion'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'alstontsai0816'
 featured: false
 lastHumanReview: false
 lastVerified: 2026-03-23

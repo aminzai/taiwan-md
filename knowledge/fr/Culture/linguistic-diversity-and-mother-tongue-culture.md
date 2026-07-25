@@ -5,7 +5,15 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '族群文化'
-tags: ['langue', 'langue maternelle', 'taïwanais', 'hakka', 'langues autochtones', 'multiculturalisme']
+tags:
+  [
+    'langue',
+    'langue maternelle',
+    'taïwanais',
+    'hakka',
+    'langues autochtones',
+    'multiculturalisme',
+  ]
 readingTime: 10
 lastVerified: 2026-03-19
 lastHumanReview: true
@@ -15,6 +23,7 @@ sourceCommitSha: f712b7242
 sourceContentHash: sha256:0f2cf9fae60042d8
 sourceBodyHash: sha256:62570a25d7db63f6
 translatedAt: 2026-05-17T05:34:56+08:00
+difficulty: 'intermediate'
 ---
 
 # Diversité linguistique et culture maternelle
@@ -23,7 +32,7 @@ translatedAt: 2026-05-17T05:34:56+08:00
 
 Sur une île de 36 000 km², quatre grandes familles linguistiques coexistent : le mandarin (langue nationale), le taïwanais, le hakka, auxquels s'ajoutent les langues de 16 groupes autochtones, formant ensemble un écosystème linguistique riche et diversifié. Chaque langue incarne la mémoire historique et la sagesse culturelle d'une communauté spécifique. Après des décennies de politiques linguistiques variables, Taïwan est passé de la « suprématie du mandarin » sous le régime autoritaire à la « revitalisation des langues maternelles » dans l'ère démocratique. Aujourd'hui, le pays s'efforce de préserver la diversité linguistique face à la mondialisation et d'explorer les possibilités d'une coexistence multilingue harmonieuse.
 
-Ce phénomène multilingue est le fruit de quatre siècles d'histoire, ainsi que d'une réalité consacrée par la *Loi sur le développement des langues nationales* de 2019. Les langues autochtones appartiennent à la famille austronésienne et constituent un matériau précieux pour l'étude des routes de migration humaine.
+Ce phénomène multilingue est le fruit de quatre siècles d'histoire, ainsi que d'une réalité consacrée par la _Loi sur le développement des langues nationales_ de 2019. Les langues autochtones appartiennent à la famille austronésienne et constituent un matériau précieux pour l'étude des routes de migration humaine.
 
 Le taïwanais, le hakka et le mandarin se mêlent couramment dans la vie urbaine quotidienne. Ce mélange linguistique est un mode de communication propre à la taïwanaise, et non un signe de compétence linguistique insuffisante.
 
@@ -72,7 +81,7 @@ Les sept tons du taïwanais confèrent à la parole une mélodie riche, et l'abo
 De nombreux Taïwanais considèrent que le taïwanais exprime les émotions profondes de manière plus naturelle que le mandarin, ce qui explique son usage persistant lors des réunions familiales et des fêtes de temple.
 
 - **Proverbes et dictons :** abondance de jeux de mots et de proverbes populaires, comme « 一枝草一點露 » (chaque brin de goutte a sa rosée)
-- **Opéra et spectacle traditionnel :** langue principale de l'opéra taïwanais (*gezaixi*) et du théâtre de marionnettes
+- **Opéra et spectacle traditionnel :** langue principale de l'opéra taïwanais (_gezaixi_) et du théâtre de marionnettes
 - **Culture populaire :** médium important pour la musique et les séries télévisées en taïwanais
 
 ### Le hakka
@@ -91,7 +100,7 @@ Le hakka est le deuxième plus grand groupe dialectal de Taïwan. La communauté
 **Langue et culture hakka :**
 
 - **Chansons populaires hakka :** expression importante de la culture musicale traditionnelle
-- **Culture des huit sons (*bayin*) :** ensemble instrumental traditionnel hakka
+- **Culture des huit sons (_bayin_) :** ensemble instrumental traditionnel hakka
 - **Comptines hakka :** véhicule de la sagesse de vie et des valeurs hakka
 
 ### Les langues autochtones
@@ -129,7 +138,7 @@ Le gouvernement nationaliste a mis en œuvre le « mouvement pour la langue nati
 
 ### Après la démocratisation (1987-) : revitalisation des langues maternelles
 
-Dans le cadre du mouvement de localisation à partir des années 1990, l'éducation en langues maternelles est devenue un enjeu majeur. L'enseignement des langues locales a été introduit en 2001, et la *Loi sur le développement des langues nationales* adoptée en 2019 a établi l'égalité de statut entre le taïwanais, le hakka, les langues autochtones et le mandarin.
+Dans le cadre du mouvement de localisation à partir des années 1990, l'éducation en langues maternelles est devenue un enjeu majeur. L'enseignement des langues locales a été introduit en 2001, et la _Loi sur le développement des langues nationales_ adoptée en 2019 a établi l'égalité de statut entre le taïwanais, le hakka, les langues autochtones et le mandarin.
 
 ## Situation linguistique contemporaine et défis
 
@@ -159,7 +168,7 @@ Selon les critères de l'UNESCO pour les langues en danger :
 
 ## Efforts de revitalisation des langues maternelles
 
-L'introduction des cours de langues locales dans les écoles en 2001 et l'adoption de la *Loi sur le développement des langues nationales* en 2019 constituent deux jalons majeurs de la politique de revitalisation des langues maternelles à Taïwan. Quatre axes avancent simultanément : gouvernement, médias, création culturelle et outils numériques, chacun avec ses propres priorités.
+L'introduction des cours de langues locales dans les écoles en 2001 et l'adoption de la _Loi sur le développement des langues nationales_ en 2019 constituent deux jalons majeurs de la politique de revitalisation des langues maternelles à Taïwan. Quatre axes avancent simultanément : gouvernement, médias, création culturelle et outils numériques, chacun avec ses propres priorités.
 
 La chaîne Hakka TV (fondée en 2003) et la chaîne Indigenous TV (fondée en 2005) sont des réalisations concrètes de la revitalisation par les médias, offrant un espace public d'usage linguistique pour chaque communauté.
 
@@ -191,7 +200,7 @@ L'apport de la numérisation mérite une attention particulière : au cours de l
 
 ## Fonctions sociales de l'usage linguistique
 
-### Alternance codique (*code-switching*)
+### Alternance codique (_code-switching_)
 
 Les Taïwanais possèdent généralement des compétences multilingues et alternent naturellement entre les langues selon le contexte, l'interlocuteur et le sujet. Cette alternance codique reflète la division fonctionnelle des différentes langues dans la société.
 
@@ -261,8 +270,12 @@ Il est à noter que l'efficacité des politiques linguistiques met souvent des d
 
 ## Références
 
-[^1]: Conseil des affaires hakka, *Enquête nationale sur la population hakka et les données de base linguistiques*, 2020, https://www.hakka.gov.tw/chhakka/app/artwebsite?module=artwebsite&id=126&serno=null ; selon les différentes agences d'enquête et les années, la proportion d'usage du taïwanais se situe entre 67 et 72 %, cet article retenant les statistiques les plus récentes
-[^2]: Conseil des peuples autochtones, *Rapport d'enquête sur l'usage des langues autochtones*, 2021, https://www.cip.gov.tw/zh-tw/news/data-list/C30C260FE2AC91E5/index.html ; la population enregistrée du groupe Amis est d'environ 210 000 personnes, mais le nombre de locuteurs courants de la langue est bien inférieur à ce chiffre
-[^3]: Huang Xuanfan, [*Langue, société et conscience ethnique*](https://www.sanmin.com.tw/product/index/000219830), Éditions Sanmin
-[^4]: Li Rengui, [*Les groupes ethniques austronésiens de Taïwan : identité et migration*](https://www.books.com.tw/products/0010493437)
-[^5]: [*Loi sur le développement des langues nationales* (2019)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143) — établit le taïwanais, le hakka, les langues autochtones et d'autres langues comme langues nationales ; publications connexes du [Conseil des affaires hakka](https://www.hakka.gov.tw/) et du [Conseil des peuples autochtones](https://www.apc.gov.tw/)
+[^1]: Conseil des affaires hakka, _Enquête nationale sur la population hakka et les données de base linguistiques_, 2020, https://www.hakka.gov.tw/chhakka/app/artwebsite?module=artwebsite&id=126&serno=null ; selon les différentes agences d'enquête et les années, la proportion d'usage du taïwanais se situe entre 67 et 72 %, cet article retenant les statistiques les plus récentes
+
+[^2]: Conseil des peuples autochtones, _Rapport d'enquête sur l'usage des langues autochtones_, 2021, https://www.cip.gov.tw/zh-tw/news/data-list/C30C260FE2AC91E5/index.html ; la population enregistrée du groupe Amis est d'environ 210 000 personnes, mais le nombre de locuteurs courants de la langue est bien inférieur à ce chiffre
+
+[^3]: Huang Xuanfan, [_Langue, société et conscience ethnique_](https://www.sanmin.com.tw/product/index/000219830), Éditions Sanmin
+
+[^4]: Li Rengui, [_Les groupes ethniques austronésiens de Taïwan : identité et migration_](https://www.books.com.tw/products/0010493437)
+
+[^5]: [_Loi sur le développement des langues nationales_ (2019)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143) — établit le taïwanais, le hakka, les langues autochtones et d'autres langues comme langues nationales ; publications connexes du [Conseil des affaires hakka](https://www.hakka.gov.tw/) et du [Conseil des peuples autochtones](https://www.apc.gov.tw/)

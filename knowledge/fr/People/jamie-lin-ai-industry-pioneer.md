@@ -6,9 +6,9 @@ author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
 tags: ['科技與企業', 'Google', '人工智慧', '中研院', 'AI教育']
-readingTime: 7
-lastVerified: 2026-05-07
-lastHumanReview: true
+readingTime: 13
+lastVerified: 2026-07-10
+lastHumanReview: false
 featured: false
 translatedFrom: 'People/簡立峰.md'
 sourceCommitSha: '0f8fae0ae'

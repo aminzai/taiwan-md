@@ -16,7 +16,7 @@ featured: false
 lastHumanReview: false
 readingTime: 12
 lastVerified: 2026-03-29
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'Culture/台灣華語的演化.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2b37211d946c848c'

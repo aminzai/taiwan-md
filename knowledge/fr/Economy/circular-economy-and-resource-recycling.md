@@ -23,6 +23,7 @@ sourceCommitSha: '24efd20f3'
 sourceContentHash: 'sha256:d8fda6edab5e4cc6'
 sourceBodyHash: 'sha256:f3027d8d17d75948'
 translatedAt: '2026-05-15T13:52:06+08:00'
+difficulty: 'intermediate'
 ---
 
 # L’économie circulaire et la réutilisation des ressources à Taïwan

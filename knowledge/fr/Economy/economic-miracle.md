@@ -13,8 +13,8 @@ tags:
     'Parc scientifique',
     'Semi-conducteurs',
   ]
-readingTime: 10
-lastVerified: 2026-03-23
+readingTime: 15
+lastVerified: 2026-07-18
 lastHumanReview: true
 featured: false
 translatedFrom: Economy/經濟奇蹟.md

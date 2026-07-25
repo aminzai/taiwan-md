@@ -1,7 +1,7 @@
 ---
 title: "Des mascottes : de l'ours noir taïwanais au salut par les jeux de mots, une curation culturelle"
 description: "En 2013, la naissance d'« OhBear » a inauguré l'ère des Royaumes combattants des mascottes à Taïwan. De la prolifération des ours noirs à travers l'île, au « Gamin du lait de mer » (虱目魚小子) devenu si laid qu'il a débarqué dans un talk-show américain, en passant par le « Fulibear » (福利熊) générant des centaines de millions de revenus annuels et le « Bravo » (熊讚) auditionné au conseil municipal, les mascottes taïwanaises évoluent d'outils de communication gouvernementaux vers des symboles culturels dotés d'une âme et d'une résonance sociale."
-category: Culture
+category: 'Lifestyle'
 tags:
   [
     mascottes,
@@ -25,6 +25,7 @@ sourceCommitSha: '88b3abd8'
 sourceContentHash: 'sha256:7453fc91529be112'
 sourceBodyHash: 'sha256:0280d05fe808358b'
 translatedAt: 2026-05-01T20:54:17+08:00
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** Taïwan a connu une fascination collective pour l'ours noir, avec des dizaines de mascottes d'apparence quasi identique coexistant simultanément sur l'île. Cependant, entre le « Gamin du lait de mer » devenu si laid qu'il a débarqué dans un talk-show américain, le « Pigeon Pabo » des Postes chinoises qui a conquis le public grâce à sa douceur, et le miracle commercial du « Fulibear » générant des centaines de millions de revenus annuels, les mascottes taïwanaises connaissent une transformation qualitative, passant d'outils « mignons » à des marques de caractère.

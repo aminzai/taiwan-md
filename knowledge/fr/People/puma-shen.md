@@ -1,7 +1,7 @@
 ---
 title: "Puma Shen : il étudiait la guerre cognitive chinoise, puis la Chine l'a placé sur une image satellite"
 description: "En 2021, Puma Shen et le spécialiste de stratégie Ho Cheng-hui ont cofondé la Kuma Academy ; Robert Tsao a donné 600 millions de dollars taïwanais pour la soutenir, avec l'objectif de former trois millions de volontaires de défense civile en trois ans. En février 2024, il est entré au Parlement comme député sans circonscription du Parti démocrate progressiste. Le 28 octobre 2025, il est devenu le premier responsable politique élu taïwanais visé par une enquête ouverte par la Chine pour « crime de sécession » ; CCTV a accompagné l'affaire d'un reportage spécial de « dévoilement » avertissant : « le prochain, ce sera vous ». Le jour du Nouvel An 2026, un compte Weibo chinois a utilisé un satellite commercial pour publier les coordonnées de son domicile et de son lieu de travail à Taipei ; il a passé la Saint-Valentin dans un avion à destination de la France. Le 13 mai, le Parti démocrate progressiste l'a officiellement investi comme candidat à la mairie de Taipei : la ville qu'il brigue est précisément celle dont les coordonnées avaient été marquées sur une image satellite."
-date: '2026-04-27'
+date: 2026-04-27
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '政治人物'
@@ -16,7 +16,7 @@ tags:
     'défense démocratique',
   ]
 readingTime: 18
-lastVerified: '2026-06-21'
+lastVerified: 2026-06-21
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/沈伯洋.md'
@@ -28,6 +28,7 @@ image: /article-images/people/puma-shen-election-2024.webp
 imageCredit: 曾成訓 / Flickr
 imageLicense: CC BY 2.0
 imageSource: https://commons.wikimedia.org/wiki/File:Puma_Shen_in_2024_Taiwan_general_election.jpg
+difficulty: 'intermediate'
 ---
 
 # Puma Shen : il étudiait la guerre cognitive chinoise, puis la Chine l'a placé sur une image satellite

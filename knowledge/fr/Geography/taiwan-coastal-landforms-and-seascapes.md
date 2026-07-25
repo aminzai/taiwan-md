@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Reliefs et géologie'
 category: 'Geography'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 10
 featured: true

@@ -17,7 +17,7 @@ tags:
   ]
 subcategory: 'Faune sauvage'
 category: Nature
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 15
 featured: false
 translatedFrom: 'Nature/台灣海洋生態.md'

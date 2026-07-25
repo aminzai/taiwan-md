@@ -8,12 +8,13 @@ date: 2026-03-23
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 6
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'Art/台灣現代詩.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:76772688d61c205f'
 sourceBodyHash: 'sha256:444e69e75502ca5e'
 translatedAt: '2026-06-16T17:13:36Z'
+featured: false
 ---
 
 # La poésie moderne de Taïwan : une prophétie locale inattendue

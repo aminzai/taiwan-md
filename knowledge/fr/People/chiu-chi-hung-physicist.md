@@ -1,7 +1,7 @@
 ---
 title: "Chiu Chi-hung : de l'échec du Web 2.0 à la refonte de l'écosystème publicitaire taïwanais par la pensée ingénieur"
 description: "Docteur en informatique de l'Université nationale de Jiao Tong, Chiu Chi-hung a tiré les leçons de l'échec du site Web 2.0 funP pour fonder cacaFly (Saint Yang Technology) en 2009. Fort de sa pensée d'ingénieur, il a introduit données et technologie dans le secteur publicitaire, devenant un géant de la représentation publicitaire à Taïwan pour les plateformes internationales telles que Facebook et Google ; parallèlement, en tant que membre du comité décisionnel du Nouveau Parti de la Force du Temps, conseiller municipal de la ville de Taipei et président de la DMA, il a continué de promouvoir l'innovation et la régulation de l'industrie taïwanaise de la publicité numérique."
-date: '2026-04-26'
+date: 2026-04-26
 author: 'Taiwan.md Contributors'
 category: 'People'
 tags:
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1260b9482a373397'
 sourceBodyHash: 'sha256:60f774f7923d2a36'
 translatedAt: '2026-05-01T20:54:17+08:00'
+featured: false
 ---
 
 > **Aperçu en 30 secondes** : Docteur en informatique de l'Université nationale de Jiao Tong, Chiu Chi-hung, surnommé «大河馬» (le Grand Hippopotame), a manifesté dès son plus jeune âge un vif intérêt pour la programmation logicielle. Au lycée, il a obtenu la troisième place à l'Exposition nationale des sciences et a été admis à la faculté d'ingénierie informatique de l'Université nationale de Jiao Tong sur la base d'un « talent spécial » [^4]. En 2006, porté par la vague du Web 2.0, il a cofondé le site communautaire funP (Tui Tui Wang) avec des partenaires. Bien que le site ait connu un succès momentané, il a échoué en 2007 en raison d'un modèle économique flou, brûlant près de vingt millions de dollars taïwanais en trois ans [^8] [^10]. En 2009, il s'est reconstruit à partir des ruines et a fondé cacaFly (Saint Yang Technology), en commençant comme agent publicitaire exclusif de Facebook à Taïwan, puis en obtenant successivement les droits de représentation de Google, LINE, Microsoft, Spotify et d'autres plateformes internationales, tout en créant des filiales telles que adHub, TenMax et BeingDigital, bâtissant ainsi l'écosystème publicitaire numérique local le plus complet de Taïwan [^9] [^11]. Au-delà de ses réalisations commerciales, Chiu Chi-hung s'est également engagé dans la sphère politique, en tant que conseiller municipal de la ville de Taipei et en se portant candidat en 2019 au comité décisionnel du Nouveau Parti de la Force du Temps, cherchant à transformer la politique par la pensée technologique d'un « patron de gauche » [^20] [^21]. Ces dernières années, il s'est activement positionné dans le marketing par intelligence artificielle (IA) et les réseaux médiatiques de la grande distribution (RMN), continuant de piloter la transformation de l'industrie MarTech à Taïwan [^1] [^2] [^3].

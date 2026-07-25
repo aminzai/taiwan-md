@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Préhistoire et peuples autochtones'
 category: 'History'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 lastHumanReview: false

@@ -18,7 +18,7 @@ tags:
   - 'taïwanais'
   - 'CHTHONIC'
 subcategory: 'Industrie musicale'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 canonical-order: 999
 lastVerified: 2026-07-10

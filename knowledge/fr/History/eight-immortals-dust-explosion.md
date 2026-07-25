@@ -1,7 +1,7 @@
 ---
 title: 'Explosion de poussière de Ba Xian : cette nuit-là, la fête colorée qui brûla une cicatrice dans Taïwan'
 description: "Le 27 juin 2015, la Color Party du parc aquatique Formosa Fun Coast provoqua un accident d'explosion de poussière qui stupéfia le monde, à la suite de l'embrasement éclair de poudres en suspension. Cet événement, le plus grave accident collectif de l'histoire de Taïwan après le séisme du 21 septembre 1999, fit 499 brûlés et 15 morts, transforma en profondeur le système taïwanais de médecine d'urgence et accéléra la réforme des règles de sécurité applicables aux grands rassemblements."
-date: '2026-06-16'
+date: 2026-06-16
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '社會與日常史'
@@ -13,10 +13,10 @@ tags:
     'responsabilité juridique',
     'histoire de Taïwan',
   ]
-readingTime: '15'
-lastVerified: '2026-06-16'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 15
+lastVerified: 2026-06-16
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/八仙塵爆.md'
 sourceCommitSha: 'c109869a0'
 sourceContentHash: 'sha256:ac5c1781df041450'

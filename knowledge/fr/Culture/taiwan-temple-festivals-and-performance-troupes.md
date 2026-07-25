@@ -2,24 +2,25 @@
 title: "Les festivals de temple et les troupes de procession à Taïwan : un double mouvement de densité de foi et d'innovation locale"
 description: "Les 12 000 temples de Taïwan forment la plus haute densité de foi au monde. La procession de la Dajia Mazu s''étend sur neuf jours et huit nuits sur environ 340 km, tandis que l''itinéraire de Baishatun Mazu est décidé par le palanquin divin ; les Huit Généraux (八家將) furent réorganisés et perturbés par le mouvement de japonisation (皇民化運動) à la fin de l''ère coloniale japonaise (à partir de 1937), puis renaquirent après-guerre et se répandirent dans tout Taïwan ; le Prince Neza Électro (電音三太子) remodela l''image des divinités au début des années 2000 avec de la musique électronique moderne. La tension culturelle des troupes de procession : le système des Officiers Célestes (官將首) de Xinzhuang coexiste avec le système des Huit Généraux de Tainan ; les quatre grandes traditions folkloriques (procession de Dajia Mazu / procession de Baishatun Mazu / Festival du Roi-Bateau de Donggang / Feux d''artifice de Yanshui / Course aux offrandes de Toucheng / Festival des Morts de Keelung) possèdent chacune des caractéristiques locales ; la densité des festivals de temple n''est pas seulement un phénomène religieux, mais aussi la forme la plus concrète de l''identité locale taïwanaise."
 date: 2026-03-20
-author: "Taiwan.md Contributors"
-category: "Culture"
-subcategory: "宗教與民俗"
-tags: ["廟會", "陣頭", "民間信仰", "電音三太子", "八家將", "媽祖遶境"]
+author: 'Taiwan.md Contributors'
+category: 'Culture'
+subcategory: '宗教與民俗'
+tags: ['廟會', '陣頭', '民間信仰', '電音三太子', '八家將', '媽祖遶境']
 readingTime: 8
 lastVerified: 2026-03-21
 lastHumanReview: true
 featured: false
-translatedFrom: "Culture/台灣廟會與陣頭文化.md"
-sourceCommitSha: "18157ab5d"
-sourceContentHash: "sha256:dd389bc47ee02430"
-sourceBodyHash: "sha256:57fa9edbc965f758"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'Culture/台灣廟會與陣頭文化.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:dd389bc47ee02430'
+sourceBodyHash: 'sha256:57fa9edbc965f758'
+translatedAt: '2026-05-20T05:08:34+08:00'
+difficulty: 'beginner'
 ---
 
 # Les festivals de temple et les troupes de procession à Taïwan
 
-> **En 30 secondes :** Taïwan compte plus de 12 000 temples et accueille des dizaines de milliers de festivals de temple (廟會, *night market* religieux) chaque année.
+> **En 30 secondes :** Taïwan compte plus de 12 000 temples et accueille des dizaines de milliers de festivals de temple (廟會, _night market_ religieux) chaque année.
 > La procession de Dajia Mazu attire 2 millions de participants et génère plus de 4 milliards de TWD. Des Huit Généraux (八家將) venus du Fujian au Prince Neza Électro (電音三太子) innovant des années 1990, les festivals de temple taïwanais mêlent foi traditionnelle et créativité locale,
 > formant une culture folklorique à la fois religieuse et mobilisatrice communautaire.
 
@@ -69,12 +70,12 @@ Contrairement à Dajia Mazu dont l''itinéraire est fixe, la procession de « Ba
 
 **Les quatre grands festivals folkloriques de Taïwan**
 
-| Festival | Lieu | Caractéristiques |
-|------|------|------|
-| Procession de Dajia Mazu | Dajia (Taichung) → Xinguang (Chiayi) | 1,2 million de personnes, neuf jours et huit nuits, 340 km |
-| Festival du Roi-Bateau de Donggang | Donggang (Pingtous) | Tous les trois ans, combustion du bateau royal, « folklore important » du ministère de la Culture |
-| Feux d''artifice de Yanshui | Yanshui (Tainan) | Des milliers de feux tirés simultanément, procession à travers les rangées de pétards, chaque année au Nouvel An lunaire |
-| Course aux offrandes de Toucheng | Toucheng (Yilan) | Tradition de la Fête des Morts, escalade de poteaux enduits de graisse pour saisir les offrandes |
+| Festival                           | Lieu                                 | Caractéristiques                                                                                                         |
+| ---------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| Procession de Dajia Mazu           | Dajia (Taichung) → Xinguang (Chiayi) | 1,2 million de personnes, neuf jours et huit nuits, 340 km                                                               |
+| Festival du Roi-Bateau de Donggang | Donggang (Pingtous)                  | Tous les trois ans, combustion du bateau royal, « folklore important » du ministère de la Culture                        |
+| Feux d''artifice de Yanshui        | Yanshui (Tainan)                     | Des milliers de feux tirés simultanément, procession à travers les rangées de pétards, chaque année au Nouvel An lunaire |
+| Course aux offrandes de Toucheng   | Toucheng (Yilan)                     | Tradition de la Fête des Morts, escalade de poteaux enduits de graisse pour saisir les offrandes                         |
 
 Pendant la procession, chaque village le long du parcours se transforme en lieu de fête. Les habitants installent des autels pour accueillir Mazu, les commerces ferment pour participer à l''événement, les écoles suspendent les cours, les entreprises sponsorisent et accordent des congés à leurs employeurs. Tout le centre de Taïwan est enveloppé pendant neuf jours dans l''atmosphère sacrée de Mazu.
 
@@ -101,10 +102,15 @@ La partie la plus difficile à reproduire de la culture des festivals de temple 
 ## Références
 
 [^1]: [Shi Wanshou : Le peuple des pots de Taïwan | Archives de Taïwan](https://www.th.gov.tw/) — Origine des Huit Généraux au Temple du Dragon Blanc de Tainan et étude des Cinq Seigneurs Spirituels ; contexte du développement local taïwanais.
+
 [^2]: [Huit Généraux — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%85%AB%E5%AE%B6%E5%B0%87) — Confirmation de l''interdiction des troupes de procession des Huit Généraux par la politique de « réorganisation des temples » de la japonisation de 1937, et distinction avec l''incident de Xilai''an de 1915.
+
 [^3]: [Les Huit Généraux sont en réalité très sacrés, une culture propre à Taïwan qui a conquis la France | Laihao](https://www.laihao.com.tw/blog/posts/taiwan-traditional-culture-ba-jia-jiang) — Les Huit Généraux Jishengtang invités en 2023 au 150e anniversaire du Carnaval de Nice.
+
 [^4]: [Officiers Célestes — Wikipédia](https://zh.wikipedia.org/wiki/%E5%AE%98%E5%B0%87%E9%A6%96) — Les Officiers Célestes avec le temple Dizang de Xinzhuang comme source importante, et les différences nord-sud avec les Huit Généraux de Tainan.
+
 [^5]: [Festival international de tourisme et culture de Dajia Mazu | Temple Zhenlan de Dajia](https://www.dajiamazu.org.tw/) — Parcours total d''environ 340 km, neuf jours et huit nuits, traversant Changhua, Yunlin et Chiayi jusqu''au temple Fengtian de Xinguang.
+
 [^6]: [Télévision en ligne de Baishatun Mazu](https://www.baishatun.com.tw/) — L''itinéraire de la procession de Mazu du temple Gongtian de Baishatun est décidé par le palanquin divin, destination le temple Chaotian de Beigang, parcours total d''environ quatre jours.
 
 **Pour aller plus loin**

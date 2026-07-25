@@ -1,29 +1,38 @@
 ---
-title: "Les cérémonies de vie à Taiwan : mariages, funérailles et rites de passage"
-description: "Des douze rites de fiançailles à la culture du *pantang* (banquet de rue), explorez comment les cérémonies de vie taïwanaises trouvent un équilibre entre tradition et modernité"
+title: 'Les cérémonies de vie à Taiwan : mariages, funérailles et rites de passage'
+description: 'Des douze rites de fiançailles à la culture du *pantang* (banquet de rue), explorez comment les cérémonies de vie taïwanaises trouvent un équilibre entre tradition et modernité'
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Culture"
-subcategory: "節慶與禮俗"
-tags: ["Mariage", "Funérailles", "Rites de passage", "Culture du banquet de rue", "Traditions", "Adaptation moderne"]
+author: 'Taiwan.md'
+category: 'Culture'
+subcategory: '節慶與禮俗'
+tags:
+  [
+    'Mariage',
+    'Funérailles',
+    'Rites de passage',
+    'Culture du banquet de rue',
+    'Traditions',
+    'Adaptation moderne',
+  ]
 readingTime: 14
 lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
-translatedFrom: "Culture/台灣婚喪喜慶與人生禮俗.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:23a33f282c63dd9f"
-sourceBodyHash: "sha256:b2520a23c500cf3f"
-translatedAt: "2026-05-17T05:34:56+08:00"
+translatedFrom: 'Culture/台灣婚喪喜慶與人生禮俗.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:23a33f282c63dd9f'
+sourceBodyHash: 'sha256:b2520a23c500cf3f'
+translatedAt: '2026-05-17T05:34:56+08:00'
+difficulty: 'beginner'
 ---
 
 # Les cérémonies de vie à Taiwan : mariages, funérailles et rites de passage
 
 ## Aperçu en 30 secondes
 
-De la cérémonie du *zhōu* (choix d'objet par le nourrisson) à la fête des seize ans (*zuò shíliù suì*), en passant par les douze rites de fiançailles et les funérailles, chaque étape de la vie est marquée et célébrée par des rituels appropriés. Ces cérémonies fusionnent les traditions hakka, hoklo, autochtones et des provinces extérieures, tout en s'adaptant et en innovant au fil de la modernisation.
+De la cérémonie du _zhōu_ (choix d'objet par le nourrisson) à la fête des seize ans (_zuò shíliù suì_), en passant par les douze rites de fiançailles et les funérailles, chaque étape de la vie est marquée et célébrée par des rituels appropriés. Ces cérémonies fusionnent les traditions hakka, hoklo, autochtones et des provinces extérieures, tout en s'adaptant et en innovant au fil de la modernisation.
 
-L'animation des banquets de rue (*pantang*), la réciprocité des enveloppes rouges et blanches, la solennité des rituels traditionnels : tout cela constitue un lien affectif et une identité culturelle uniques à la société taïwanaise.
+L'animation des banquets de rue (_pantang_), la réciprocité des enveloppes rouges et blanches, la solennité des rituels traditionnels : tout cela constitue un lien affectif et une identité culturelle uniques à la société taïwanaise.
 
 Comprendre ces rituels est une porte d'entrée essentielle pour saisir le fonctionnement des relations interpersonnelles à Taiwan : ils marquent la croissance individuelle tout en servant de mécanisme de cohésion communautaire.
 
@@ -35,29 +44,29 @@ Comprendre ces rituels est une porte d'entrée essentielle pour saisir le foncti
 
 « Méi, n'oublie pas de préparer une enveloppe rouge, la fille de ta tante se marie samedi prochain. » Une mère tend une carte d'invitation rouge doré à sa fille. Ce type de conversation est banal dans les familles taïwanaises, mais il porte en lui tout un système complexe et chaleureux de réciprocité sociale.
 
-Les Taïwanais disent « *rénqíng liú yī xiàn, rìhòu hǎo xiāngjiàn* » — « Garde un fil de relation, et tu pourras te revoir à l'avenir ». Cette phrase décrit avec précision l'essence des cérémonies de vie taïwanaises : au-delà du rituel, ce sont des mécanismes de construction et de maintien des liens sociaux. Chaque carte rouge, chaque faire-part de décès est un nœud dans le réseau relationnel, reliant famille, amitié et voisinage.
+Les Taïwanais disent « _rénqíng liú yī xiàn, rìhòu hǎo xiāngjiàn_ » — « Garde un fil de relation, et tu pourras te revoir à l'avenir ». Cette phrase décrit avec précision l'essence des cérémonies de vie taïwanaises : au-delà du rituel, ce sont des mécanismes de construction et de maintien des liens sociaux. Chaque carte rouge, chaque faire-part de décès est un nœud dans le réseau relationnel, reliant famille, amitié et voisinage.
 
-À Taiwan, assister aux mariages et funérailles est un devoir, pas simplement une courtoisie. Manquer un moment important pour autrui signifie qu'on risque de ne pas recevoir de soutien en retour quand on en aura besoin. Cette culture de la réciprocité (*lǐ shàng wǎng lái*) fait de chaque individu un maillon incontournable du réseau communautaire.
+À Taiwan, assister aux mariages et funérailles est un devoir, pas simplement une courtoisie. Manquer un moment important pour autrui signifie qu'on risque de ne pas recevoir de soutien en retour quand on en aura besoin. Cette culture de la réciprocité (_lǐ shàng wǎng lái_) fait de chaque individu un maillon incontournable du réseau communautaire.
 
 Cette culture de la réciprocité fait face à de nouveaux défis dans la société moderne : l'urbanisation éloigne les voisins, les emplois du temps chargés empêchent d'assister à toutes les cérémonies, mais les Taïwanais trouvent toujours un équilibre entre tradition et modernité.
 
 ---
 
-## Du *zhōu* à la fête des seize ans : les rituels de la croissance
+## Du _zhōu_ à la fête des seize ans : les rituels de la croissance
 
 Les cérémonies de vie taïwanaises commencent dès la naissance, chaque étape étant marquée par un rituel spécifique.
 
 ### Naissance et premier mois
 
-**Annonce de la bonne nouvelle (*bào xǐ*) :** Après la naissance, on annonce la nouvelle aux proches. Traditionnellement, on offre du riz au sésame et des œufs, symboles de joie de vivre et d'abondance.
+**Annonce de la bonne nouvelle (_bào xǐ_) :** Après la naissance, on annonce la nouvelle aux proches. Traditionnellement, on offre du riz au sésame et des œufs, symboles de joie de vivre et d'abondance.
 
-**Fête du premier mois (*mǎn yuè jiǔ*) :** Célébration organisée quand le nourrisson atteint un mois. Les proches offrent des bijoux en or, des vêtements et des enveloppes rouges. De nos jours, la fête du premier mois se tient souvent en restaurant, à la fois solennelle et pratique.
+**Fête du premier mois (_mǎn yuè jiǔ_) :** Célébration organisée quand le nourrisson atteint un mois. Les proches offrent des bijoux en or, des vêtements et des enveloppes rouges. De nos jours, la fête du premier mois se tient souvent en restaurant, à la fois solennelle et pratique.
 
-**Rasage du lanugo (*tāi máo*) :** Le premier mois, on rase les cheveux de naissance pour symboliser le renouveau. Les cheveux rasés sont conservés ; certaines familles en font fabriquer un pinceau souvenir.
+**Rasage du lanugo (_tāi máo_) :** Le premier mois, on rase les cheveux de naissance pour symboliser le renouveau. Les cheveux rasés sont conservés ; certaines familles en font fabriquer un pinceau souvenir.
 
-### Le *zhōu* : un jeu pour prédire l'avenir
+### Le _zhōu_ : un jeu pour prédire l'avenir
 
-La cérémonie du *zhōu*, à l'âge d'un an, est l'une des traditions les plus charmantes de Taiwan. On place devant l'enfant divers objets :
+La cérémonie du _zhōu_, à l'âge d'un an, est l'une des traditions les plus charmantes de Taiwan. On place devant l'enfant divers objets :
 
 **Objets traditionnels :**
 
@@ -76,14 +85,14 @@ La cérémonie du *zhōu*, à l'âge d'un an, est l'une des traditions les plus 
 
 Bien que ce ne soit qu'un jeu, les familles commentent toujours le résultat avec délice, et cela devient une histoire familiale.
 
-### La fête des seize ans (*zuò shíliù suì*) : le passage à l'âge adulte à Tainan
+### La fête des seize ans (_zuò shíliù suì_) : le passage à l'âge adulte à Tainan
 
 La cérémonie des seize ans, propre à Tainan, se déroule chaque année le septième jour du septième mois lunaire. Depuis les années 2000, la cérémonie officielle centrée sur le temple Kai-long a pris de l'ampleur d'année en année, devenant une marque culturelle de la ville. Les jeunes de seize ans se rendent au temple pour prier et remercier les divinités protectrices, tout en déclarant qu'ils sont désormais adultes.[^1]
 
 **Déroulement du rituel :**
 
 1. Traverser le pont aux sept étoiles ou passer sous le palanquin divin
-2. Rendre grâce à la divinité protectrice (généralement la Septième Dame, *Qīniáng Mā*)
+2. Rendre grâce à la divinité protectrice (généralement la Septième Dame, _Qīniáng Mā_)
 3. Mordre dans la tête de poule (symbolisant l'adieu à l'enfance)
 4. La famille prépare un festin abondant, le « vin des seize ans »
 
@@ -93,21 +102,21 @@ Ce rituel a pris une signification nouvelle à l'époque moderne : il rappelle a
 
 ## Les douze rites de fiançailles : un contrat sacré d'amour
 
-La cérémonie traditionnelle de fiançailles à Taiwan est complexe et solennelle. Les « douze rites » (*shí'èr lǐ*) en constituent le cœur.[^2] Bien que les jeunes d'aujourd'hui aient simplifié de nombreuses étapes, l'esprit fondamental demeure.
+La cérémonie traditionnelle de fiançailles à Taiwan est complexe et solennelle. Les « douze rites » (_shí'èr lǐ_) en constituent le cœur.[^2] Bien que les jeunes d'aujourd'hui aient simplifié de nombreuses étapes, l'esprit fondamental demeure.
 
 ### Les douze rites traditionnels
 
-**Grandes galettes (*dà bǐng*) :** Symbolisent l'unité, généralement des galettes aux dragons et phénix
-**Petites galettes en boîte (*hé zǐ bǐng*) :** Assortiment de galettes distribué aux proches
-**Galettes de riz soufflé (*mǐ xiāng bǐng*) :** Croquantes et sucrées, symbolisent une vieillesse ensemble
-**Gâteaux *rúyì* :** Que tout se passe comme souhaité
-**Longanes (*fú yuán*) :** Symbolisent la richesse et l'unité familiale
-**Poulets guides (*dài lù jī*) :** Un coq et une poule, guidant vers le nouveau foyer
-**Porc « blanc-or » (*bái jīn zhū ròu*) :** Lard de porc, symbolisant la pureté
+**Grandes galettes (_dà bǐng_) :** Symbolisent l'unité, généralement des galettes aux dragons et phénix
+**Petites galettes en boîte (_hé zǐ bǐng_) :** Assortiment de galettes distribué aux proches
+**Galettes de riz soufflé (_mǐ xiāng bǐng_) :** Croquantes et sucrées, symbolisent une vieillesse ensemble
+**Gâteaux _rúyì_ :** Que tout se passe comme souhaité
+**Longanes (_fú yuán_) :** Symbolisent la richesse et l'unité familiale
+**Poulets guides (_dài lù jī_) :** Un coq et une poule, guidant vers le nouveau foyer
+**Porc « blanc-or » (_bái jīn zhū ròu_) :** Lard de porc, symbolisant la pureté
 **Poisson :** Abondance année après année
 **Riz :** Besoins essentiels, symbolisant l'abondance
-**Offrandes des trois animaux (*sān shēng*) :** Pour le culte des ancêtres
-**Porc divers (*dù zhū / dù cháng*) :** Symbolisent la descendance
+**Offrandes des trois animaux (_sān shēng_) :** Pour le culte des ancêtres
+**Porc divers (_dù zhū / dù cháng_) :** Symbolisent la descendance
 **Bougies et pétards :** Joie et festivité
 
 ### Version simplifiée moderne
@@ -121,9 +130,9 @@ Les jeunes d'aujourd'hui se contentent généralement de « six rites » ou « q
 
 ### Déroulement de la cérémonie de fiançailles
 
-**Service du thé (*fèng chá*) :** La future mariée sert le tea aux futurs beaux-parents et les appelle « papa » et « maman »
+**Service du thé (_fèng chá_) :** La future mariée sert le tea aux futurs beaux-parents et les appelle « papa » et « maman »
 **Pose des bijoux en or :** La belle-mère passe un bracelet et un collier en or à la future mariée
-**Dégestion de boules de riz sucré (*tāngyuán*) :** Toute la famille mange ensemble des boules sucrées, symbolisant l'unité
+**Dégestion de boules de riz sucré (_tāngyuán_) :** Toute la famille mange ensemble des boules sucrées, symbolisant l'unité
 
 L'essentiel de la cérémonie de fiançailles ne réside pas dans l'abondance des objets, mais dans l'expression de la sincérité des deux familles qui s'unissent et des bénédictions pour les jeunes mariés.
 
@@ -139,25 +148,25 @@ La coexistence des deux est la caractéristique de la culture du mariage taïwan
 
 ### Préparatifs avant le mariage
 
-**Installation du lit (*ān chuáng*) :** Le lit de la chambre nuptiale doit être installé à un moment propice, et des enfants des deux sexes doivent rouler dessus, symbolisant la naissance rapide d'un enfant.
+**Installation du lit (_ān chuáng_) :** Le lit de la chambre nuptiale doit être installé à un moment propice, et des enfants des deux sexes doivent rouler dessus, symbolisant la naissance rapide d'un enfant.
 
-**Coiffure rituelle (*shàng tóu*) :** La veille du mariage, le marié et la mariée sont coiffés par un aîné chanceux avec un peigne en bois aux motifs de dragon et phénix, en prononçant des paroles de bon augure.
+**Coiffure rituelle (_shàng tóu_) :** La veille du mariage, le marié et la mariée sont coiffés par un aîné chanceux avec un peigne en bois aux motifs de dragon et phénix, en prononçant des paroles de bon augure.
 
 ### Le jour du mariage
 
-**Culte des ancêtres (*jì zǔ*) :** Avant de partir, le marié rend hommage aux ancêtres pour les informer du mariage.
+**Culte des ancêtres (_jì zǔ_) :** Avant de partir, le marié rend hommage aux ancêtres pour les informer du mariage.
 
-**Cortège nuptial (*yíng qīn*) :** Le marié mène le cortège chez la mariée, généralement en voiture, avec des plaques d'immatriculation portant des chiffres propices.
+**Cortège nuptial (_yíng qīn_) :** Le marié mène le cortège chez la mariée, généralement en voiture, avec des plaques d'immatriculation portant des chiffres propices.
 
-**Jeux d'obstacles (*chuǎng guān*) :** Les demoiselles d'honneur imposent des épreuves amusantes pour que le marié prouve son amour.
+**Jeux d'obstacles (_chuǎng guān_) :** Les demoiselles d'honneur imposent des épreuves amusantes pour que le marié prouve son amour.
 
-**Voile rouge (*gài tóu jīn*) :** La mariée est couverte d'un tissu rouge et conduite par le marié, symbolisant qu'elle suit désormais la famille de son époux.
+**Voile rouge (_gài tóu jīn_) :** La mariée est couverte d'un tissu rouge et conduite par le marié, symbolisant qu'elle suit désormais la famille de son époux.
 
-**Coup de pied à la portière (*tī jiào mén*) :** En descendant de voiture, la mariée donne un léger coup de pied à la portière pour chasser la malchance.
+**Coup de pied à la portière (_tī jiào mén_) :** En descendant de voiture, la mariée donne un léger coup de pied à la portière pour chasser la malchance.
 
-**Passage du brasier (*kuà huǒ pén*) :** Avant d'entrer dans la maison du marié, la mariée traverse un brasier, symbolisant la prospérité.
+**Passage du brasier (_kuà huǒ pén_) :** Avant d'entrer dans la maison du marié, la mariée traverse un brasier, symbolisant la prospérité.
 
-**Prosternation (*bài táng*) :** Salutations au Ciel et à la Terre, aux ancêtres et aux parents. La formule classique « première révérence au Ciel et à la Terre, deuxième révérence aux parents, révérence mutuelle des époux » est encore conservée.
+**Prosternation (_bài táng_) :** Salutations au Ciel et à la Terre, aux ancêtres et aux parents. La formule classique « première révérence au Ciel et à la Terre, deuxième révérence aux parents, révérence mutuelle des époux » est encore conservée.
 
 ### Innovations modernes
 
@@ -169,23 +178,23 @@ La coexistence des deux est la caractéristique de la culture du mariage taïwan
 
 ---
 
-## La culture du *pantang* : l'esthétique du festin à la taïwanaise
+## La culture du _pantang_ : l'esthétique du festin à la taïwanaise
 
-Quand on parle de la culture festive de Taiwan, on ne peut passer sous silence le *pantang* (辦桌) — ces banquets organisés sous des tentes devant le domicile. C'est l'une des cultures culinaires les plus caractéristiques de Taiwan.[^3]
+Quand on parle de la culture festive de Taiwan, on ne peut passer sous silence le _pantang_ (辦桌) — ces banquets organisés sous des tentes devant le domicile. C'est l'une des cultures culinaires les plus caractéristiques de Taiwan.[^3]
 
-Le *pantang* est aussi un mécanisme de mobilisation communautaire : les voisins viennent aider à préparer les plats et à installer la salle, et la famille hôte récompense toute la communauté avec des tables de mets abondants.
+Le _pantang_ est aussi un mécanisme de mobilisation communautaire : les voisins viennent aider à préparer les plats et à installer la salle, et la famille hôte récompense toute la communauté avec des tables de mets abondants.
 
-### Origines et caractéristiques du *pantang*
+### Origines et caractéristiques du _pantang_
 
-**Origines :** La culture du *pantang* remonte à la société agraire ancienne, où les familles aisées organisaient des banquets dans leur cour ou devant leur porte pour les grandes occasions, invitant voisins et proches. Dans les années 1970, avec le décollage économique de Taiwan, cette pratique s'est généralisée à toutes les classes sociales, devenant la forme standard des célébrations.
+**Origines :** La culture du _pantang_ remonte à la société agraire ancienne, où les familles aisées organisaient des banquets dans leur cour ou devant leur porte pour les grandes occasions, invitant voisins et proches. Dans les années 1970, avec le décollage économique de Taiwan, cette pratique s'est généralisée à toutes les classes sociales, devenant la forme standard des célébrations.
 
 **Caractéristiques spatiales :** Pas dans des restaurants haut de gamme, mais sur le trottoir devant la maison, sur la place du temple, dans un parc — de grandes tentes rouges, des tables rondes, des chaises en plastique, créant une atmosphère unique de « banquet de rue ».
 
-**Caractéristiques communautaires :** Le *pantang* est une activité collective du quartier, pas un simple repas. Les voisins viennent spontanément aider, préparant les plats ensemble, installant la salle, accueillant les invités.
+**Caractéristiques communautaires :** Le _pantang_ est une activité collective du quartier, pas un simple repas. Les voisins viennent spontanément aider, préparant les plats ensemble, installant la salle, accueillant les invités.
 
-### Les plats du *pantang* : l'apogée de la cuisine populaire
+### Les plats du _pantang_ : l'apogée de la cuisine populaire
 
-Les plats du *pantang* visent le « copieux et généreux » — portions abondantes, saveurs prononcées, belle présentation :
+Les plats du _pantang_ visent le « copieux et généreux » — portions abondantes, saveurs prononcées, belle présentation :
 
 **Plats classiques :**
 
@@ -196,21 +205,21 @@ Les plats du *pantang* visent le « copieux et généreux » — portions abonda
 5. Vermicelles ou nouilles sautées (plat principal copieux)
 6. Rouleaux de viande frite aux pousses de bambou (cuisine taïwanaise traditionnelle)
 7. Omelette aux radis séchés ou au basilic
-8. *Fó tiào qiáng* (Bouddha franchit le mur) ou bouillon de poule (soupe)
+8. _Fó tiào qiáng_ (Bouddha franchit le mur) ou bouillon de poule (soupe)
 9. Boules de riz frites ou soupe de haricots rouges (dessert)
 10. Plateau de fruits (touche finale)
 
-**Les chefs *pantang* :** Cuisiniers spécialisés dans les banquets de rue, d'une habileté remarquable, capables de préparer des mets délicieux dans des cuisines temporaires rudimentaires. Ils sont d'importants gardiens de la culture culinaire taïwanaise.
+**Les chefs _pantang_ :** Cuisiniers spécialisés dans les banquets de rue, d'une habileté remarquable, capables de préparer des mets délicieux dans des cuisines temporaires rudimentaires. Ils sont d'importants gardiens de la culture culinaire taïwanaise.
 
-### Les évolutions modernes du *pantang*
+### Les évolutions modernes du _pantang_
 
-**Impact de l'urbanisation :** En ville, il est difficile de trouver des espaces adaptés au *pantang*, et beaucoup optent pour les restaurants.
+**Impact de l'urbanisation :** En ville, il est difficile de trouver des espaces adaptés au _pantang_, et beaucoup optent pour les restaurants.
 
-**Considérations sanitaires :** Les exigences modernes en matière de sécurité alimentaire sont plus strictes, et l'hygiène du *pantang* est mieux encadrée.
+**Considérations sanitaires :** Les exigences modernes en matière de sécurité alimentaire sont plus strictes, et l'hygiène du _pantang_ est mieux encadrée.
 
-**Pantang créatif :** Certains jeunes réinterprètent la culture du *pantang* en y intégrant une esthétique moderne, créant un « *pantang* raffiné ».
+**Pantang créatif :** Certains jeunes réinterprètent la culture du _pantang_ en y intégrant une esthétique moderne, créant un « _pantang_ raffiné ».
 
-**Valeur nostalgique :** Pour beaucoup de Taïwanais, le *pantang* représente les souvenirs d'enfance et l'attachement à la terre natale, ce qui lui confère une valeur affective irremplaçable.
+**Valeur nostalgique :** Pour beaucoup de Taïwanais, le _pantang_ représente les souvenirs d'enfance et l'attachement à la terre natale, ce qui lui confère une valeur affective irremplaçable.
 
 ---
 
@@ -220,29 +229,29 @@ Les rites funéraires à Taiwan incarnent le respect de la vie et l'importance a
 
 Ces dernières années, le taux de crémation a dépassé les 90 %, et les sépultures écologiques (en forêt, en mer) se sont développées progressivement depuis les années 2000. Tradition et modernité coexistent dans les choix disponibles.
 
-Les funérailles à Taiwan sont à la fois une affaire familiale et une activité communautaire. Le système des faire-parts de décès, tout comme la culture du *pantang*, mobilise l'ensemble du réseau relationnel pour accompagner une personne dans son dernier voyage.
+Les funérailles à Taiwan sont à la fois une affaire familiale et une activité communautaire. Le système des faire-parts de décès, tout comme la culture du _pantang_, mobilise l'ensemble du réseau relationnel pour accompagner une personne dans son dernier voyage.
 
 ### Déroulement traditionnel des funérailles
 
-**Annonce du décès (*bào sāng*) :** Après le décès, on annonce la nouvelle aux proches. Traditionnellement, tous les rituels doivent être accomplis en 49 jours.
+**Annonce du décès (_bào sāng_) :** Après le décès, on annonce la nouvelle aux proches. Traditionnellement, tous les rituels doivent être accomplis en 49 jours.
 
-**Mise en bière (*rù liàn*) :** On habille et maquille le défunt, puis on le place dans le cercueil. De nos jours, on utilise davantage des chambres froides pour la conservation.
+**Mise en bière (_rù liàn_) :** On habille et maquille le défunt, puis on le place dans le cercueil. De nos jours, on utilise davantage des chambres froides pour la conservation.
 
-**Installation du salon funéraire (*shè líng táng*) :** On amène un salon funéraire à domicile pour recevoir les condoléances. La décoration doit être solennelle et austère, avec généralement un portrait du défunt, des couronnes et un autel.
+**Installation du salon funéraire (_shè líng táng_) :** On amène un salon funéraire à domicile pour recevoir les condoléances. La décoration doit être solennelle et austère, avec généralement un portrait du défunt, des couronnes et un autel.
 
-**Veillée funèbre (*shǒu líng*) :** La famille se relaîne pour veiller le défunt la nuit, l'accompagnant dans son dernier voyage.
+**Veillée funèbre (_shǒu líng_) :** La famille se relaîne pour veiller le défunt la nuit, l'accompagnant dans son dernier voyage.
 
-**Cérémonie d'adieu (*gào bié shì*) :** Les proches se rassemblent pour rendre un dernier hommage. Comprend généralement un hommage familial (présidé par la famille) et un hommage public (auquel assistent les amis).
+**Cérémonie d'adieu (_gào bié shì_) :** Les proches se rassemblent pour rendre un dernier hommage. Comprend généralement un hommage familial (présidé par la famille) et un hommage public (auquel assistent les amis).
 
-**Cortège funèbre (*chū bìn*) :** Le cercueil est conduit au cimetière ou au crématorium. Le cortège traditionnel comprend le fils en deuil, un prêtre taoïste, une fanfare et des voitures fleuries.
+**Cortège funèbre (_chū bìn_) :** Le cercueil est conduit au cimetière ou au crématorium. Le cortège traditionnel comprend le fils en deuil, un prêtre taoïste, une fanfare et des voitures fleuries.
 
 ### Simplifications et innovations modernes
 
-**Contrats de prévoyance funéraire (*shēng qián qìyuē*) :** Pratique répandue depuis les années 1990, où de nombreuses personnes organisent leurs propres funérailles de leur vivant pour soulager leur famille.
+**Contrats de prévoyance funéraire (_shēng qián qìyuē_) :** Pratique répandue depuis les années 1990, où de nombreuses personnes organisent leurs propres funérailles de leur vivant pour soulager leur famille.
 
 **Sépultures écologiques :** L'inhumation en forêt, l'immergence en mer et d'autres méthodes écologiques gagnent en popularité.
 
-**Cérémonie commémorative (*zhuī sī huì*) :** Remplace la cérémonie d'adieu traditionnelle, dans une atmosphère plus chaleureuse et moins lourde.
+**Cérémonie commémorative (_zhuī sī huì_) :** Remplace la cérémonie d'adieu traditionnelle, dans une atmosphère plus chaleureuse et moins lourde.
 
 **Condoléances numériques :** Des plateformes en ligne permettent à ceux qui ne peuvent pas se rendre physiquement d'exprimer leur deuil.
 
@@ -250,7 +259,7 @@ Les funérailles à Taiwan sont à la fois une affaire familiale et une activit�
 
 ### Deuil et interdits
 
-**Tenue de deuil (*xiào fú*) :** Traditionnellement, la famille portait des vêtements de deuil ; de nos jours, on se contente généralement de vêtements noirs et d'un bandeau de deuil.
+**Tenue de deuil (_xiào fú_) :** Traditionnellement, la famille portait des vêtements de deuil ; de nos jours, on se contente généralement de vêtements noirs et d'un bandeau de deuil.
 
 **Interdits :**
 
@@ -273,15 +282,15 @@ Le choix d'un jour propice et la visite au temple pour prier les divinités cons
 
 ### Célébrations d'anniversaire
 
-**Fête des anciens (*zuò shòu*) :** L'anniversaire des personnes de plus de 60 ans est appelé *zuò shòu*. Les enfants préparent des pêches d'immortalité et des nouilles de longévité pour célébrer.
+**Fête des anciens (_zuò shòu_) :** L'anniversaire des personnes de plus de 60 ans est appelé _zuò shòu_. Les enfants préparent des pêches d'immortalité et des nouilles de longévité pour célébrer.
 
-**Variante du *zhōu* :** Les fêtes d'anniversaire modernes mêlent le gâteau occidental et les pêches d'immortalité traditionnelles.
+**Variante du _zhōu_ :** Les fêtes d'anniversaire modernes mêlent le gâteau occidental et les pêches d'immortalité traditionnelles.
 
 ### Rites de déménagement
 
 **Choix du jour :** Le déménagement doit se faire à un moment propice.
-**Culte du Dieu de la Terre (*tǔ dì gōng*) :** Avant d'emménager, on prie le Dieu de la Terre pour la paix.
-**Chauffage de la casserole (*wēn guō*) :** On invite les proches à visiter le nouveau foyer pour lui apporter de la vitalité.
+**Culte du Dieu de la Terre (_tǔ dì gōng_) :** Avant d'emménager, on prie le Dieu de la Terre pour la paix.
+**Chauffage de la casserole (_wēn guō_) :** On invite les proches à visiter le nouveau foyer pour lui apporter de la vitalité.
 
 ### Cérémonies d'inauguration
 
@@ -293,7 +302,7 @@ Le choix d'un jour propice et la visite au temple pour prier les divinités cons
 
 ## La réciprocité sociale : la logique profonde de la culture de l'enveloppe rouge
 
-Dans les cérémonies de vie taïwanaises, l'enveloppe rouge (*hóngbāo*) est un élément quasi incontournable. La culture de l'enveloppe rouge est essentiellement un système complexe d'échange social, l'argent n'étant qu'un médium.
+Dans les cérémonies de vie taïwanaises, l'enveloppe rouge (_hóngbāo_) est un élément quasi incontournable. La culture de l'enveloppe rouge est essentiellement un système complexe d'échange social, l'argent n'étant qu'un médium.
 
 Les étrangers nouvellement arrivés à Taiwan sont souvent déconcertés par la rigueur de cette pratique : lors d'un même mariage, les montants offerts par un parent, un collègue ou un voisin diffèrent, selon un calcul relationnel précis.
 
@@ -301,13 +310,13 @@ Ce calcul existe généralement dans l'esprit des personnes concernées, il est 
 
 ### Types et significations des enveloppes rouges
 
-**Enveloppe rouge pour heureux événements (*xǐ shì hóngbāo*) :** Mariages, premier mois, emménagement, etc. Le montant doit généralement être pair, en évitant les nombres impairs.
+**Enveloppe rouge pour heureux événements (_xǐ shì hóngbāo_) :** Mariages, premier mois, emménagement, etc. Le montant doit généralement être pair, en évitant les nombres impairs.
 
-**Enveloppe blanche (*bái bāo*) :** Contribution funéraire (*diàn yí*), placée dans une enveloppe blanche ou de couleur sobre. Le montant n'a pas à être pair.
+**Enveloppe blanche (_bái bāo_) :** Contribution funéraire (_diàn yí_), placée dans une enveloppe blanche ou de couleur sobre. Le montant n'a pas à être pair.
 
-**Étrennes du Nouan (*yā suì qián*) :** Enveloppe rouge donnée aux enfants pour le Nouvel An, symbolisant les vœux de la nouvelle année.
+**Étrennes du Nouan (_yā suì qián_) :** Enveloppe rouge donnée aux enfants pour le Nouvel An, symbolisant les vœux de la nouvelle année.
 
-**Enveloppe de bourse (*jiǎng xué jīn hóngbāo*) :** Récompense quand un enfant réussit bien à l'école ou est admis dans un bon établissement.
+**Enveloppe de bourse (_jiǎng xué jīn hóngbāo_) :** Récompense quand un enfant réussit bien à l'école ou est admis dans un bon établissement.
 
 ### L'art du montant de l'enveloppe rouge
 
@@ -373,12 +382,12 @@ Ces dernières années, les coutumes des nouveaux immigrants d'Asie du Sud-Est o
 ### Culture hoklo
 
 **Caractéristiques principales :** Importance de la famille, culte des ancêtres, rituels complexes de mariage et funérailles.
-**Cérémonies représentatives :** Les douze rites de fiançailles, la culture du *pantang*, la fête des seize ans.
+**Cérémonies représentatives :** Les douze rites de fiançailles, la culture du _pantang_, la fête des seize ans.
 
 ### Culture hakka
 
 **Caractéristiques principales :** Frugalité, importance de l'éducation, solidarité mutuelle.
-**Cérémonies représentatives :** Le « thé de la mariée » (*shí xīnniáng chá*) dans les mariages hakka, la fête du temple Yimin.
+**Cérémonies représentatives :** Le « thé de la mariée » (_shí xīnniáng chá_) dans les mariages hakka, la fête du temple Yimin.
 
 ### Culture des provinces extérieures
 
@@ -436,7 +445,11 @@ C'est peut-être la valeur la plus précieuse des cérémonies de vie taïwanais
 ---
 
 [^1]: Bureau de la culture de la municipalité de Tainan, « La cérémonie de passage à l'âge adulte des seize ans », https://culture.tainan.gov.tw/ (organisée chaque année le septième jour du septième mois lunaire, centrée sur le temple Kai-long de Tainan)
+
 [^2]: Bureau du patrimoine culturel du ministère de la Culture, « Activités folkloriques : coutumes de fiançailles », https://www.boch.gov.tw/
-[^3]: Ministère de l'Agriculture, « La culture du *pantang* et la transmission culinaire rurale », https://www.moa.gov.tw/ ; voir aussi Lin Mingde, *Essais sur la littérature populaire taïwanaise* (publication académique taïwanaise)
+
+[^3]: Ministère de l'Agriculture, « La culture du _pantang_ et la transmission culinaire rurale », https://www.moa.gov.tw/ ; voir aussi Lin Mingde, _Essais sur la littérature populaire taïwanaise_ (publication académique taïwanaise)
+
 [^4]: Portail d'information sur les funérailles du ministère de l'Intérieur, https://mort.moi.gov.tw/ (incluant la réglementation sur la gestion des funérailles et les informations de service par comté et ville)
-[^5]: Ministère de la Culture, *Manuel des cérémonies traditionnelles taïwanaises*, édition 2019, https://www.moc.gov.tw/ ; voir aussi les informations relatives aux cérémonies du Bureau des affaires civiles du ministère de l'Intérieur, https://www.moi.gov.tw/
+
+[^5]: Ministère de la Culture, _Manuel des cérémonies traditionnelles taïwanaises_, édition 2019, https://www.moc.gov.tw/ ; voir aussi les informations relatives aux cérémonies du Bureau des affaires civiles du ministère de l'Intérieur, https://www.moi.gov.tw/

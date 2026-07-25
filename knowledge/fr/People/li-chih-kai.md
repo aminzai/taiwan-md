@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: 'Sport'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
 translatedAt: '2026-04-14T19:15:26+08:00'
+lastHumanReview: true
 ---
 
 # Li Chih-kai

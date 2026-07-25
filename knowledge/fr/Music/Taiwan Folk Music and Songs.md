@@ -17,7 +17,7 @@ tags:
   ]
 subcategory: 'Musique traditionnelle'
 category: 'Music'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 translatedFrom: 'Music/台灣民謠與歌謠.md'

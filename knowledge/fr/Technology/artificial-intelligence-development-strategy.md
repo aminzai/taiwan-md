@@ -28,6 +28,7 @@ image: '/article-images/technology/alphafold-cbln1-structure-2025.webp'
 imageCredit: 'BQUB25-UPoch (own work, AlphaFold + PyMOL)'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png'
+difficulty: 'advanced'
 ---
 
 # Développement de l’intelligence artificielle à Taïwan et stratégies d’avenir : le ticket matériel est acquis, où se jouera la prochaine bataille ?

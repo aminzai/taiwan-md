@@ -11,7 +11,7 @@ tags:
     'éducation en langue maternelle',
     'études vietnamiennes',
   ]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 readingTime: 8
@@ -20,6 +20,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:46faaa4a99788548'
 sourceBodyHash: 'sha256:161cfe479ea8068c'
 translatedAt: '2026-04-14T19:17:00+08:00'
+lastHumanReview: true
 ---
 
 > **En 30 secondes :** Chiang Wei-bun est le promoteur le plus radical du mouvement d'écriture en langue taïwanaise. En 2011, au Musée national de la littérature taïwanaise, il a brandi une pancarte à l'adresse de l'écrivain Huang Chun-ming : « Les auteurs taïwanais qui créent en chinois plutôt qu'en langue taïwanaise sont une honte ! », déclenchant un débat retentissant dans tout Taïwan. Cet universitaire, diplômé en génie mécanique de l'université Tamkang, est devenu l'un des rares experts du vietnamien à Taïwan et dirige aujourd'hui le département de littérature taïwanaise de l'université nationale Cheng Kung. En trente ans, il a démontré que la langue n'est pas qu'un outil : c'est le champ de bataille central de l'identité nationale.

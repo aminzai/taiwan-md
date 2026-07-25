@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Éducation et société'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-04-06
@@ -23,6 +23,7 @@ sourceCommitSha: 'df2e7558'
 sourceContentHash: 'sha256:259b129f305ff5f9'
 sourceBodyHash: 'sha256:366255e36a4fa0f5'
 translatedAt: '2026-06-16T17:13:36Z'
+lastHumanReview: true
 ---
 
 # Yen Chang-shou : du garçon de bureau au parrain du tourisme, puis il a tout abandonné

@@ -6,7 +6,7 @@ tags:
   [Economy, Entreprise, Transport maritime, Logistique, Commerce international]
 subcategory: "Portraits d'entreprises"
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 9
 featured: false
 lastVerified: 2026-03-24
@@ -15,6 +15,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:8bed402beaecae31'
 sourceBodyHash: 'sha256:97f9ec5722ee27b9'
 translatedAt: '2026-05-17T06:15:00Z'
+lastHumanReview: false
 ---
 
 > **Vue d'ensemble en 30 secondes**

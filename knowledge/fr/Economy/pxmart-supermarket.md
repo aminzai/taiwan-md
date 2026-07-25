@@ -13,6 +13,7 @@ sourceCommitSha: '50617dc1'
 sourceContentHash: 'sha256:25424dad4bf389f3'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **En 30 secondes :** En 1998, le magnat immobilier Lin Min-hsiung reprend la coopérative militaire et civile en perte de vitesse, réduite à 66 points de vente. En tant que « néophyte », il fixe une ligne de survie radicale : « 20 % moins cher, 2 % de marge ». Il se fraye un chemin dans l'enfer concurrentiel entre les supérettes 7-ELEVEn et les géants de la grande distribution. Aujourd'hui, Pxmart est un colosse du commerce avec un chiffre d'affaires dépassant 200 milliards de dollars taïwanais et 1 200 enseignes. Mais les controverses sur sa position monopolistique et les douleurs de sa transition numérique mettent à l'épreuve les vingt prochaines années de cette « plateforme du quotidien ».

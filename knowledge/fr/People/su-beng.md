@@ -13,7 +13,7 @@ tags:
   - 'Histoire de Taïwan en quatre cents ans'
   - 'nationalisme taïwanais'
   - 'histoire'
-readingTime: '13'
+readingTime: 13
 lastVerified: 2026-07-10
 lastHumanReview: false
 featured: false

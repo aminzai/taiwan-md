@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: 'Animaux et éthique'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 18
 lastVerified: 2026-04-10

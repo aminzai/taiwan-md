@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: "Portraits d'entreprises"
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-22
@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:731abae76b18888c'
 sourceBodyHash: 'sha256:5afb6209c3e31868'
 translatedAt: '2026-04-14T19:20:40+08:00'
+lastHumanReview: false
 ---
 
 > **En 30 secondes :** En 1971, un orphelin de guerre investit 30 000 TWD dans un atelier de Xinzhuang.

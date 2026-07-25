@@ -5,7 +5,7 @@ date: 2026-03-17
 tags: ['à propos', 'origines', 'taiwan-md']
 subcategory: 'À propos du projet'
 category: 'About'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 4
 featured: true
 translatedFrom: 'About/緣起故事.md'

@@ -1,7 +1,7 @@
 ---
 title: 'Chiang Wei-shui : le médecin qui diagnostiqua les lésions coloniales par son « Discours clinique »'
 description: "En 1921, le médecin Chiang Wei-shui publia son « Discours clinique », personnifiant Taïwan comme un « enfant attardé de la culture mondiale », diagnostiquant la cause de la maladie comme une malnutrition intellectuelle. Il fonda l'Association culturelle de Taïwan et le premier parti politique légal, le Parti populaire de Taïwan. Emprisonné plus de dix fois au cours de sa vie, il tissa un réseau d'éveil entre l'hôpital Da-an et le restaurant Chunfeng Deyi, laissant en héritage pratique la formule « Les compatriotes doivent s'unir, l'union est une vraie force »."
-category: History
+category: 'People'
 tags:
   [
     'Chiang Wei-shui',
@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0f3a996ef981d6ff'
 sourceBodyHash: 'sha256:d65332102dab634a'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **Aperçu en 30 secondes :**

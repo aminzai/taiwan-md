@@ -17,7 +17,7 @@ tags:
     'saison du poisson volant',
   ]
 subcategory: 'Îles et océan'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-22

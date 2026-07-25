@@ -1,7 +1,7 @@
 ---
 title: 'Le système de bus de Taïwan : quand Hsinchu Bus s’en va, qui vient chercher celles et ceux qui n’ont pas de volant'
 description: 'Le matin du 15 septembre 2024, devant la gare ferroviaire de Tongluo, plus de 30 personnes, des enfants de maternelle à des aînés de 90 ans, sont montées dans le dernier bus 5658 de Hsinchu Bus. De la première ligne exploitée en réseau à Taipei en 1977 aux zones rurales qui ne gardent plus que deux services par jour, de l’âge moyen des conducteurs, 51 ans, au pass mensuel TPASS qui a fait bondir la fréquentation à Hualien de près de 70 %, les bus ont toujours transporté celles et ceux qui n’ont pas le choix : les adolescents qui vont à l’école, les personnes âgées qui ne conduisent pas, les familles sans voiture. Et c’est précisément sous leurs pieds que ces lignes sont en train d’être retirées, une par une.'
-date: '2026-06-25'
+date: 2026-06-25
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
 subcategory: '交通與移動'
@@ -18,7 +18,7 @@ tags:
     'pénurie de conducteurs',
   ]
 readingTime: 24
-lastVerified: '2026-06-25'
+lastVerified: 2026-06-25
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/台灣的公車系統.md'

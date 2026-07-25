@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: 'Histoire et exploration'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-25
@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
 translatedAt: '2026-04-14T19:19:05+08:00'
+lastHumanReview: true
 ---
 
 # Yu Yonghe — Le lettré de Hangzhou au bout du monde

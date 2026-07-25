@@ -5,7 +5,7 @@ date: 2026-03-19
 tags: [nature, sentiers, science citoyenne, conservation écologique]
 subcategory: 'Parcs nationaux et sentiers'
 category: 'Nature'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-19
@@ -14,6 +14,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:6a877621bb6ceb6f'
 sourceBodyHash: 'sha256:855af6d5f189b0bd'
 translatedAt: '2026-05-17T05:33:00Z'
+lastHumanReview: false
 ---
 
 # La culture des sentiers à Taïwan et la garde citoyenne

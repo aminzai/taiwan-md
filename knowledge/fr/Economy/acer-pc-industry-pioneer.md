@@ -13,8 +13,8 @@ tags:
     'Marque',
     'Mondialisation',
   ]
-readingTime: 8
-lastVerified: 2026-03-20
+readingTime: 13
+lastVerified: 2026-07-06
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：宏碁.md'

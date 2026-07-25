@@ -1,7 +1,7 @@
 ---
 title: 'Histoire de la publicité à Taïwan : on oublie ce qui a été vendu, mais on fredonne encore le jingle'
 description: 'En 1968, le jingle du cuiseur à riz électrique Tatung retentit à la télévision ; un demi-siècle plus tard, les Taïwanais peuvent encore enchaîner avec « Tatung Tatung, les produits nationaux sont bons », mais presque personne ne se souvient qu’il s’agissait à l’origine d’une mélodie de Sanyo. Des annonces imprimées du Taiwan Nichi Nichi Shinpō sous la domination japonaise, à l’époque de la loi martiale où les trois seules chaînes liaient l’attention de toute l’île au même canal, jusqu’à 2016, lorsque les dépenses de publicité numérique dépassèrent celles de la télévision : à Taïwan, les publicités dont on se souvient le mieux font souvent oublier le produit vendu, mais laissent derrière elles le son de toute une époque.'
-date: '2026-06-14'
+date: 2026-06-14
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '大眾文化'
@@ -14,7 +14,7 @@ tags:
     'mémoire collective',
   ]
 readingTime: 14
-lastVerified: '2026-06-14'
+lastVerified: 2026-06-14
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/台灣廣告史.md'

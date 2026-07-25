@@ -11,7 +11,7 @@ tags:
     'culture taïwanaise',
     "RuPaul's Drag Race",
   ]
-category: '文化生活'
+category: 'People'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-18

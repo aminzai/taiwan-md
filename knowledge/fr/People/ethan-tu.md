@@ -15,12 +15,13 @@ readingTime: 9
 featured: true
 category: 'People'
 lastVerified: 2026-03-30
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'People/杜奕瑾.md'
 sourceCommitSha: 'ab47ff39'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
 translatedAt: '2026-04-14T19:15:40+08:00'
+lastHumanReview: false
 ---
 
 # Du Yi-Jin

@@ -1,7 +1,7 @@
 ---
 title: 'Liu Ming-chuan : allumer la première lampe électrique de Taïwan, un pionnier de la modernisation lancé entre pouvoir et controverses'
 description: "Du fils d'un contrebandier de sel au premier gouverneur de Taïwan, Liu Ming-chuan, durant ses six années sur l'île, ne se contenta pas de promouvoir le chemin de fer et la poste : il fit aussi briller, dans l'enceinte de Taipei, la première lampe électrique de l'Empire des Qing. Pourtant, sa décision stratégique de « quitter Keelung pour secourir Huwei » ainsi que ses politiques précipitées d'administration des peuples autochtones et de révision fiscale laissèrent aussi, dans le long cours de l'histoire, de profonds débats et des zones d'ombre."
-date: '2026-06-16'
+date: 2026-06-16
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '歷史人物'
@@ -15,7 +15,7 @@ tags:
     'infrastructures électriques',
   ]
 readingTime: 14
-lastVerified: '2026-06-16'
+lastVerified: 2026-06-16
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/劉銘傳.md'

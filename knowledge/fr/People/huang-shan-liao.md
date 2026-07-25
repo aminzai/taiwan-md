@@ -26,6 +26,7 @@ sourceBodyHash: 'sha256:0d3c13e2c5763c28'
 image: '/article-images/people/huang-shan-liao-portrait-2025.webp'
 imageCredit: '鏡週刊（fair use editorial commentary）'
 imageLicense: 'Fair use editorial commentary'
+featured: true
 ---
 
 # Huang Shanliao: No One Looked at the Champion's Clothes, So He Started Selling "One-Sentence Comfort"

@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Musique traditionnelle'
 category: 'Music'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: false
 lastVerified: 2026-04-03
@@ -21,6 +21,7 @@ sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:e1bc3aa8197e4184'
 sourceBodyHash: 'sha256:c0bd2cc77ca9d51c'
 translatedAt: '2026-04-15T17:36:15+08:00'
+lastHumanReview: true
 ---
 
 # La musique nationale taïwanaise : des sons insulaires nés d'instruments chinois

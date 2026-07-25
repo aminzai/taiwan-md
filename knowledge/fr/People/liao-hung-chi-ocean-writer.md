@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 # Liao Hung-chi

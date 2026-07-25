@@ -1,16 +1,16 @@
 ---
 title: "Lin Chi-Wei : d'une marque de jeux de société primée internationalement à une plateforme logicielle pour 200 000 créateurs"
 description: "Lin Chi-Wei (Chi-Wei Lin, couramment appelé CW en ligne) est un entrepreneur taïwanais. En 2014, son jeu de société éducatif a remporté la médaille d'argent aux Parents' Choice Awards aux États-Unis, battant Lego ; dix ans plus tard, sa plateforme Portaly est devenue le plus grand réseau commercial pour créateurs à Taïwan, utilisé par 200 000 personnes pour transformer leur influence en revenus. Rentable depuis 2025, sans aucun marketing payant, elle a grandi grâce à un PLG organique (product-led growth). Passant de l'industrie traditionnelle au logiciel, puis à l'IA, il réapprend à zéro à chaque fois. Il fait toujours la même chose : aider les autres à transformer un produit en un autre, puis partager publiquement la méthode."
-date: '2026-06-17'
+date: 2026-06-17
 author: 'CW Lin (林啟維)'
 category: 'People'
 tags:
   ['Entrepreneuriat', 'Portaly', 'PLG', 'IA', 'SaaS', 'Économie des créateurs']
 subcategory: '科技與企業'
-readingTime: '7'
-lastVerified: '2026-07-03'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 7
+lastVerified: 2026-07-03
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/林啟維.md'
 sourceCommitSha: 'cfaa22a5d'
 sourceContentHash: 'sha256:82817fc4c48a612b'

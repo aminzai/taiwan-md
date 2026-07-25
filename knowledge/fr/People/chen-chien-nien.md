@@ -1,7 +1,7 @@
 ---
 title: 'Chen Chien-nien : le roi des Golden Melody Awards du poste de police, le petit-fils qui fit de la chanson laissée par son grand-père maternel un océan'
 description: 'Né le 1er août 1967 dans la communauté Nanwang, à Beinan, Taitung. Diplômé de l’école de police en 1986, il est affecté à Guanshan, Taitung, et sert dans la police pendant 30 ans et 10 mois. En 1999, à 33 ans, il publie son premier album d’auteur-compositeur, 《海洋》. En 2000, lors de la 11e édition des Golden Melody Awards, il devance Jacky Cheung, Wang Leehom, David Tao et Harlem Yu pour remporter le prix du meilleur chanteur mandarin ; la même année, 〈神話〉 lui vaut aussi le prix de la meilleure composition. Sur la scène de la remise des prix, il est encore policier. En septembre de la même année, il demande sa mutation à Lanyu pour fuir l’agitation, et y reste 17 ans jusqu’à sa retraite. Son grand-père maternel Lu Sen-bao est l’auteur de 〈美麗的稻穗〉 ; il aura fallu trente ans au petit-fils pour saisir ce fil musical.'
-date: '2026-05-17'
+date: 2026-05-17
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '音樂'
@@ -16,10 +16,10 @@ tags:
     'police',
     'auteur-compositeur-interprète',
   ]
-readingTime: '8'
-lastVerified: '2026-05-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 8
+lastVerified: 2026-05-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/陳建年.md'
 sourceCommitSha: 'ac1d187a'
 sourceContentHash: 'sha256:94460ad43105f980'

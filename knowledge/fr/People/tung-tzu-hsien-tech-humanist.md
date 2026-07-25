@@ -1,15 +1,15 @@
 ---
 title: "Tung Tzu-hsien : parti du Taipei Tech, Pegatron devient le plus grand partenaire sous-traitant d'Apple"
 description: "Né le 25 juin 1960, Tung Tzu-hsien est diplômé du département d'électronique du Taipei Tech (aujourd'hui l'Université nationale de technologie de Taipei), et non de la faculté d'électrotechnique de l'NTU. Il rejoint ASUS en 1988, puis dirige la scission le 1er janvier 2008 et fonde Pegatron, devenant sous-traitant d'Apple, Sony et Nintendo. En 2019, il investit dans la librairie Eslite. En 2025, il continue de défendre publiquement une politique énergétique de « coexistence nucléaire et renouvelable »."
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
 tags: ['科技與企業', '和碩聯合', '電子代工', 'ODM', '能源政策']
 readingTime: 7
-lastVerified: '2026-05-07'
-lastHumanReview: 'true'
-featured: 'false'
+lastVerified: 2026-05-07
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/童子賢.md'
 sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:741173e056926b2c'

@@ -6,7 +6,7 @@ tags:
   [ACG, jeux-vidéo, anime, communauté, internet-taïwanais, sous-culture, forum]
 subcategory: 'Internet et culture numérique'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 translatedFrom: 'Culture/巴哈姆特.md'
@@ -15,6 +15,7 @@ sourceCommitSha: 'f5975a22'
 sourceContentHash: 'sha256:6af04295a71690eb'
 sourceBodyHash: 'sha256:01a8577cdb53218c'
 translatedAt: '2026-06-22T00:30:00+08:00'
+lastHumanReview: false
 ---
 
 # Bahamut

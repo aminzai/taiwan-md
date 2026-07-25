@@ -12,7 +12,7 @@ tags:
     'réseaux sociaux',
   ]
 subcategory: 'Communautés et culture numérique'
-author: 'Taiwan.md Translation Team'
+author: 'p3nchan'
 readingTime: 8
 featured: true
 category: 'Technology'

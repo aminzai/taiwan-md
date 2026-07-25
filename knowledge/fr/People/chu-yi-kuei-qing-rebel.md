@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Personnages historiques'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 6
 featured: false
 lastVerified: 2026-03-24
@@ -21,6 +21,7 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:59a6177c37cf5305'
 sourceBodyHash: 'sha256:731cd7121531d2ac'
 translatedAt: '2026-04-14T19:15:12+08:00'
+lastHumanReview: false
 ---
 
 # Zhu Yigui, le « Roi des Canards » : premier chef rebelle à s'être proclamé roi à Taïwan

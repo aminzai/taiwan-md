@@ -15,7 +15,7 @@ tags:
   - XIXe siècle
 image: ''
 featured: true
-author: Taiwan.md Translation Team
+author: 'Taiwan.md'
 lastVerified: 2026-04-12
 lastHumanReview: false
 translatedFrom: 'History/清法戰爭.md'

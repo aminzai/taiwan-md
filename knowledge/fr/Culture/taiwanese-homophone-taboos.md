@@ -11,7 +11,7 @@ tags:
   ]
 subcategory: 'Fêtes et coutumes'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 6
 lastVerified: 2026-03-21
@@ -20,6 +20,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d88f480a1e1f7ae0'
 sourceBodyHash: 'sha256:ab7935ab2e6c6ed8'
 translatedAt: '2026-06-16T17:19:04Z'
+lastHumanReview: false
 ---
 
 > **En 30 secondes** : À Taïwan, l'homophonie entre « quatre » et « mort » a conduit toute la société à éviter collectivement ce chiffre — les ascenseurs passent du 3 au 5, et dans les restaurants, quand on vous demande pour combien de personnes, on répond « 3+1 » plutôt que « 4 ». Dans le même temps, les homophones de bon augure font s'envoler les prix : une plaque d'immatriculation « 8888 » s'est vendue près d'un million de dollars taïwanais, et les enveloppes de mariage obéissent à une arithmétique proprement ésotérique.

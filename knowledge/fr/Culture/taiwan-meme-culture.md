@@ -14,10 +14,10 @@ tags:
     'Soupape de sécurité sociale',
     'Mèmes classiques',
   ]
-readingTime: '12'
-lastVerified: '2026-07-23'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-23
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/台灣迷因.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:21f968d51e24c095'

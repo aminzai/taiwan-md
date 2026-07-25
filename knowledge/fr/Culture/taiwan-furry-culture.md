@@ -5,7 +5,7 @@ date: 2026-04-01
 tags: ['furry', 'sous-culture', 'fursuit', 'culture taïwanaise']
 subcategory: 'Sous-cultures et culture jeunesse'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-01
 translatedFrom: 'Culture/台灣獸迷文化.md'
@@ -13,6 +13,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:fb754fde867da6b6'
 sourceBodyHash: 'sha256:b8b517c948537006'
 translatedAt: '2026-06-16T17:19:04Z'
+lastHumanReview: true
 ---
 
 > **En 30 secondes :** Les furries sont des passionnés de personnages animaux anthropomorphes. La culture furry taïwanaise a germé dans les années 1990 sur les forums BBS lors de la sortie du _Roi Lion_ de Disney, puis s'est développée en souterrain pendant deux décennies avant qu'une première convention officielle ne soit organisée en 2015 — avec environ 50 participants seulement. Dix ans plus tard, en 2025, Infurnity attire 3 251 personnes en une seule édition, 689 fursuits se retrouvent sur la même photo de groupe, et les dons caritatifs atteignent 961 500 dollars taïwanais[^1]. En 2020, Taïwan a même vu naître la Taiwan Furry Interaction Association (TFIA), reconnue officiellement par le ministère de l'Intérieur[^2]. Loin d'être un simple passe-temps marginal, c'est une sphère culturelle à part entière, dotée d'une organisation solide, d'un véritable écosystème économique et d'un engagement social réel.

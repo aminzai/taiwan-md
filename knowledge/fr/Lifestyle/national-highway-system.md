@@ -1,7 +1,7 @@
 ---
 title: 'Autoroutes : de la MacArthur Highway au tunnel de Xueshan, cinquante ans de pouvoir et de vitesse sur les routes nationales taïwanaises'
 description: "En 1964, la MacArthur Highway ne comptait que 23 kilomètres ; aujourd'hui, le réseau autoroutier de Taïwan dépasse les 1 000 kilomètres. De la Chiang Kai-shek Expressway décidée par Chiang Ching-kuo, à la Formosa Highway moquée comme « route politique », au tunnel de Xueshan, l'un des plus difficiles à creuser au monde, jusqu'au système ETC qui a transformé les habitudes de paiement de chaque conducteur — chaque bande d'asphalte enregistre la volonté politique, les limites de l'ingénierie et les résistances populaires du Taïwan d'après-guerre."
-date: 2026-05-03
+date: 2026-07-18
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
 tags:
@@ -13,8 +13,8 @@ tags:
     'péage électronique ETC',
     "Taïwan d'après-guerre",
   ]
-readingTime: 10
-lastVerified: 2026-05-03
+readingTime: 15
+lastVerified: 2026-07-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/高速公路.md'

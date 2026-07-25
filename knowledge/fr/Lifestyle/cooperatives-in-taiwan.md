@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0fc2fc46b99c9535'
 sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
 translatedAt: 2026-05-01T20:54:17+08:00
+featured: false
 ---
 
 # Les coopératives scolaires : l'expérience démocratique disparue aux portes des écoles et le parfum des brioches à la viande

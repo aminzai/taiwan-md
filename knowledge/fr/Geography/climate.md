@@ -5,7 +5,7 @@ date: 2026-03-31
 tags: [géographie, climat, typhons, pluies de prune, changement climatique]
 subcategory: 'Climat et sources thermales'
 category: 'Geography'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31
 lastHumanReview: false

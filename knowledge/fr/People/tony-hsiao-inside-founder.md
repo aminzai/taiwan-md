@@ -16,7 +16,7 @@ subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-27
-lastHumanReview: 2026-04-27
+lastHumanReview: true
 translatedFrom: 'People/蕭上農.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0c7501412dac27dc'

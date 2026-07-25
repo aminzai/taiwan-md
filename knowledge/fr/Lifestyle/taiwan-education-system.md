@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: 'Éducation'
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
 translatedFrom: 'Lifestyle/台灣教育制度.md'
@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4e9ca27840e47d5f'
 sourceBodyHash: 'sha256:0a4c39eae3411ae0'
 translatedAt: '2026-04-15T17:34:49+08:00'
+lastHumanReview: false
 ---
 
 > **En 30 secondes :** En 2022, des affiches « Inscriptions ouvertes — classes de redoublement pour le concours d'entrée » sont réapparues près de la gare centrale de Taipei. Les demandes de renseignements avaient plus que doublé par rapport à l'année précédente. L'ironie est cruelle : Taïwan a passé trente ans à réformer son éducation pour en finir avec « tout se joue en un seul jour » — et voilà que les premiers candidats du nouveau programme retournent d'eux-mêmes dans les salles de cours de préparation. De 100 000 redoublants rue Nanyang en 1981, à seulement 2 500 en 2023, puis au retour des classes de rattrapage en 2022 : ce cycle révèle comment une société débat sans fin de la définition même de l'équité.

@@ -24,6 +24,7 @@ sourceCommitSha: '24efd20f3'
 sourceContentHash: 'sha256:06fbc10ed01b5aa5'
 sourceBodyHash: 'sha256:f5b7d5b360840e4c'
 translatedAt: '2026-05-15T14:23:14+08:00'
+difficulty: 'intermediate'
 ---
 
 # Carte d'identité numérique et gouvernement numérique

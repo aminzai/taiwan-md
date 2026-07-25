@@ -23,6 +23,7 @@ sourceCommitSha: 'dd39065b2'
 sourceContentHash: 'sha256:43806fa3b9658513'
 sourceBodyHash: 'sha256:fe00573219684528'
 translatedAt: '2026-06-12T00:53:43+08:00'
+difficulty: 'intermediate'
 ---
 
 # _Han Kuo-yu_

@@ -25,6 +25,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:7d6b8df8619d617f'
 sourceBodyHash: 'sha256:3ad428e65e8569d6'
 translatedAt: '2026-05-16T22:35:54Z'
+featured: false
 ---
 
 # Quels sont les zoos de Taïwan : le plus ancien n'est pas à Muzha, le plus grand n'est pas qu'un zoo

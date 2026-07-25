@@ -16,6 +16,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:91ce45b4be5f77a7'
 sourceBodyHash: 'sha256:fe5beda00418f863'
 translatedAt: '2026-05-20T05:08:34+08:00'
+difficulty: 'intermediate'
 ---
 
 # Le développement de la sculpture contemporaine à Taïwan

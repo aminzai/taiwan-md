@@ -13,7 +13,7 @@ tags:
     filière bœuf,
   ]
 subcategory: 'Histoire sociale et du quotidien'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-03-25
 readingTime: 9
 featured: false

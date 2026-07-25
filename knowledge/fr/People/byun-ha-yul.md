@@ -14,6 +14,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:860b8c0055b0c881'
 sourceBodyHash: 'sha256:34601056f655cc89'
 translatedAt: 2026-05-17T05:33:00Z
+featured: false
 ---
 
 > **En 30 secondes :** Byun Ha-yul est l'une des cheerleaders coréennes piliers des Passion Sisters des CTBC Brothers. Autour de la saison 2026, elle a, en entretien public, évoqué non seulement la Classique mondiale de baseball et son ressenti à Taïwan, mais aussi la manière dont l'état de santé de membres de sa famille affectait son humeur — déplaçant le débat du « charme scénique » vers les « tensions entre travail et famille ».
@@ -28,7 +29,7 @@ La notoriété de Byun Ha-yul auprès des supporters taïwanais repose sur un st
 
 ## 2026 : humeur et santé familiale en entretien public
 
-Selon un reportage d'*ETtoday Sports Cloud*, lors de la conférence de presse d'avant-saison 2026, Byun Ha-yul a abordé des sujets liés à la Classique mondiale de baseball, indiquant aussi qu'après avoir évolué un certain temps à Taïwan, elle ressentait un attachement profond à cette terre. [Source : ETtoday Sports Cloud / Eastern Broadcasting][^1]
+Selon un reportage d'_ETtoday Sports Cloud_, lors de la conférence de presse d'avant-saison 2026, Byun Ha-yul a abordé des sujets liés à la Classique mondiale de baseball, indiquant aussi qu'après avoir évolué un certain temps à Taïwan, elle ressentait un attachement profond à cette terre. [Source : ETtoday Sports Cloud / Eastern Broadcasting][^1]
 
 Le même reportage rapporte ce qu'elle a déclaré en conférence de presse à propos de son « moral en berne » : elle a expliqué que son grand-père maternel était en mauvaise santé et que sa mère s'inquiétait beaucoup, ce qui la rendait elle aussi très préoccupée par l'état de ses proches. [Source : ETtoday Sports Cloud / Eastern Broadcasting][^1]
 

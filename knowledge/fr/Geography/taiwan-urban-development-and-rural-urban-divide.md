@@ -11,7 +11,7 @@ tags:
     'développement régional',
   ]
 subcategory: 'Géographie urbaine et humaine'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12
 category: 'Geography'

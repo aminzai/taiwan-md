@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:977c64498b20b961'
 sourceBodyHash: 'sha256:71b9d132fec3feff'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **En 30 secondes :** La falaise de Qingshui, sur la côte est de Taïwan, est le produit de la collision violente entre la plaque de mer des Philippines et la plaque eurasienne. Cette paroi verticale vertigineuse, culminant à 2 400 mètres, plonge directement dans l'océan Pacifique. Cette splendeur apparemment éternelle recèle en réalité une fragilité géologique et des défis humains considérables : de l'ouverture de l'ancienne route par Luo Dachun sous la dynastie Qing aux révélations de Chi Po-lin par la photographie aérienne dévoilant les cicatrices environnementales, ce site n'est pas seulement un spectacle géographique — c'est une falaise vivante, porteuse d'histoires humaines, écologiques et culturelles.

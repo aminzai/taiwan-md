@@ -5,7 +5,7 @@ date: 2026-03-31
 tags: [art, peinture, incident du 28 février, Chiayi, période japonaise]
 subcategory: 'Artiste'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-31
@@ -14,6 +14,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
 translatedAt: 2026-05-16T22:21:36Z
+lastHumanReview: false
 ---
 
 > **En 30 secondes :** Le 25 mars 1947, devant la gare de Chiayi, un homme dont les mains tenaient d'ordinaire un pinceau fut ligoté avec du fil de fer et exécuté en public. Il s'appelait Chen Cheng-po. Premier Taïwanais à avoir intégré la grande exposition impériale japonaise avec une peinture à l'huile, il s'était rendu en délégation pour négocier un cessez-le-feu — et n'en était jamais revenu.

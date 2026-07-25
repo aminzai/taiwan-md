@@ -11,7 +11,7 @@ tags:
     "protection de l'environnement",
   ]
 subcategory: 'Écosystèmes'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 8
 featured: true

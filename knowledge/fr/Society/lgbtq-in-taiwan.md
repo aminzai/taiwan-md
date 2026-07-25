@@ -25,6 +25,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2dceb8d4eac7775f'
 sourceBodyHash: 'sha256:693cd449aa89ed1d'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **En 30 secondes :** En 2017, l'interprétation n° 748 du Conseil constitutionnel taïwanais a déclaré que l'absence de protection du mariage entre personnes de même sexe dans le Code civil était inconstitutionnelle, marquant une étape décisive vers la légalisation du mariage homosexuel en Asie. Cette voie arc-en-ciel a été tracée par le combat solitaire de Chi Chia-wei pendant plusieurs décennies, par l'éveil de l'éducation au genre provoqué par l'affaire Yeh Yong-cai, et par le départ regretté du professeur Jacques Picoux, avant d'aboutir à l'adoption d'une loi spéciale en 2019. Fin 2024, plus de 30 000 couples de même sexe avaient enregistré leur mariage dans tout le pays. Aujourd'hui, avec des couples LGBTQ+ comme « Wei Wei et Meng Meng » qui partagent leur quotidien amoureux sur les réseaux sociaux, la compréhension et l'acceptation de la communauté LGBTQ+ par la société taïwanaise continuent de s'approfondir. Toutefois, des questions telles que la loi sur la procréation médicalement assistée, les droits parentaux transnationaux et la législation anti-discrimination restent à perfectionner.

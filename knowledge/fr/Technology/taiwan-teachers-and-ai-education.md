@@ -1,7 +1,7 @@
 ---
 title: "L'IA entre dans les salles de classe : Trois cents agents, pour soutenir des enseignants seuls après la formation"
 description: "En 2026, Xu Tai-ping a mis à disposition une centaine d'agents IA conçus pour environ quatre-vingt enseignants dans un marché partagé. Deux enquêtes taïwanaises révèlent que si neuf décimales de professeurs ont déjà été exposés à l'IA, 95,6 % estiment encore avoir besoin de formation. De la courte session de trois heures au collège Da Jia (Da Jia National School) aux tests « client » (customer) du lycée Nei-hu, en passant par le programme 'Arche des talents' du Ministère de l'Éducation, cet article se demande : les outils sont-ils dans les salles de classe, mais qui soutient les enseignants une fois retournés au travail ? C'est un défi éducatif plus ardu que la simple diffusion d'outils."
-date: '2026-07-20'
+date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Technology'
 subcategory: 'Artificial Intelligence'
@@ -13,14 +13,16 @@ tags:
     'Digital Learning',
     'Generative AI',
   ]
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/台灣教師與AI教學.md'
 sourceCommitSha: 'd95fa9648'
 sourceContentHash: 'sha256:6a85130bd9bb91b0'
 sourceBodyHash: 'sha256:01e8abe40e264468'
 translatedAt: '2026-07-23T23:06:51+08:00'
+image: '/article-images/technology/taiwan-students-digital-learning-2019.webp'
+imageCredit: '褒忠國中 雲端網 / Wikimedia Commons'
 ---
 
 # L'IA entre dans les salles de classe : Trois cents agents, pour soutenir des enseignants seuls après la formation

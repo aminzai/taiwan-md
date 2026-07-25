@@ -1,7 +1,7 @@
 ---
 title: "Du 'Prix de Kinmen' aux exercices Hanwha : le rite d'passage collectif et l'entraînement à la survie des hommes taïwanais"
 description: "De 1945 à aujourd'hui, le service militaire à Taïwan est passé de trois ans à quatre mois, avant de revenir à une année complète en 2024. Cette mémoire collective, impliquant des millions de personnes, n'est pas seulement un ordre codé ('zwei-san-si'), c'est la tension existentielle de l'île dans une zone grise."
-date: '2026-07-17'
+date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '社會制度'
@@ -13,10 +13,10 @@ tags:
     'Exercices Hanwha',
     'Prix de Kinmen',
   ]
-readingTime: '12'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'Society/當兵.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:58596add4d279eb3'

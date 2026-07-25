@@ -1,7 +1,7 @@
 ---
 title: 'Comté de Chiayi : 490 000 habitants prêtent leur visage à Alishan, la préfecture à Taibao est oubliée'
 description: "À cinq heures du matin, les parcs à huîtres au large de Dongshi sont encore dans l'eau, fournissant la moitié des huîtres du pays. À cent kilomètres, Alishan a vu son chemin de fer forestier de 66,6 km ouvrir en 1912. À côté de la gare à grande vitesse de Taibao, le Musée du Palais Sud a mis 15 ans à ouvrir, accueillant 760 000 visiteurs en 2018. En 1991, la préfecture du comté de Chiayi a déménagé de la ville de Chiayi à Taibao, mais le pays entier associe toujours «Chiayi» à la ville. Trente-cinq ans plus tard, 490 000 habitants entourent une ville de 270 000 découpée, avec un indice de vieillissement de 174 % — le plus élevé de Taïwan."
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -17,8 +17,8 @@ tags:
   - 'Puzi'
   - 'Division administrative du comté et de la ville'
   - 'Série des 22 comtés et villes'
-readingTime: '18'
-lastVerified: '2026-05-18'
+readingTime: 18
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/2/29/Tashan_in_morning_glow.jpg

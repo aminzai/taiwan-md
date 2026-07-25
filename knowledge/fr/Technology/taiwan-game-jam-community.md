@@ -3,7 +3,7 @@ title: 'La communauté Game Jam de Taïwan'
 description: "De l'implantation du Global Game Jam à Taïwan à la philosophie du « mauvais goût » du KUSO GAME JAM — comment la communauté Game Jam taïwanaise est devenue, en dix ans, un incubateur et un laboratoire pour l'écosystème du jeu indépendant"
 date: 2026-04-27
 author: 'tppr2046'
-category: '科技'
+category: 'Technology'
 subcategory: '遊戲產業'
 tags: ['jeu', 'jeu indépendant', 'Game Jam', 'communauté', 'KUSO', 'création']
 readingTime: 8

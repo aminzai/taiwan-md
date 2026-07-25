@@ -23,6 +23,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:90f09bc6a0a80e4d'
 sourceBodyHash: 'sha256:396be33a77ed6ba1'
 translatedAt: '2026-05-24T05:06:33+08:00'
+difficulty: 'beginner'
 ---
 
 # La culture de l'encens à Taïwan et la patrie du xiangjiao

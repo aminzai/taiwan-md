@@ -14,7 +14,7 @@ tags:
     'LGBTQ+',
   ]
 subcategory: 'Droits humains et égalité'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12
 featured: true

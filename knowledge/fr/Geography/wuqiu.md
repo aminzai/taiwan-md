@@ -1,7 +1,7 @@
 ---
 title: "Wuqiu : l'île périphérique des îles périphériques, îlot militaire oublié et ombre des déchets nucléaires"
 description: "Wuqiu est le district administratif le plus éloigné de Taïwan, composé de Daqiu et de Xiaoqiu. Cet îlot, administrativement rattaché à Kinmen mais dont la ligne de vie en matière de transport dépend de Taichung, fut autrefois une base de guérilla en première ligne de l'affrontement entre le Kuomintang et le Parti communiste chinois. Cet article analyse en profondeur la portée subjective de la remise en service du phare de Wuqiu, la transmission de la culture de la langue xinghua, ainsi que la controverse, longue de vingt ans, autour d'un référendum sur un site de stockage de déchets nucléaires, afin de montrer la solitude et la résilience de cette île marginale dans le récit national."
-date: '2026-06-25'
+date: 2026-06-25
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '島嶼與海洋'
@@ -13,7 +13,7 @@ tags:
     'phare',
     'administration des zones de guerre',
   ]
-lastVerified: '2026-06-25'
+lastVerified: 2026-06-25
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/烏坵.md'

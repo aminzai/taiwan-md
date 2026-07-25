@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Littérature'
 category: 'Art'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 7
 featured: false
 lastVerified: 2026-03-24
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c3ce92b18e6d1aeb'
 sourceBodyHash: 'sha256:621573191262d79d'
 translatedAt: '2026-06-16T17:13:36Z'
+lastHumanReview: false
 ---
 
 # La littérature des peuples autochtones de Taïwan

@@ -13,7 +13,7 @@ tags:
     'rock',
   ]
 subcategory: 'Musique populaire'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 10
 lastVerified: 2026-04-05

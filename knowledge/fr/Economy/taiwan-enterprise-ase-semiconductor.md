@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: "Portraits d'entreprises"
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
@@ -21,6 +21,7 @@ sourceCommitSha: 'b900f18d'
 sourceContentHash: 'sha256:275d7b3ee56db82a'
 sourceBodyHash: 'sha256:58739438cbba3247'
 translatedAt: '2026-05-25T21:07:36Z'
+lastHumanReview: true
 ---
 
 > **En 30 secondes :** En 1984, une mère et ses deux fils — issus de l'immobilier — ont fait le pari fou de se lancer dans l'assemblage de semi-conducteurs. Quarante ans plus tard, ASE Technology est le premier assembleur-testeur mondial, avec un chiffre d'affaires de 10,1 milliards de dollars en 2024 et une part de marché proche de 45 %. Chaque iPhone, chaque ordinateur portable que vous utilisez passe probablement par leurs mains. ASE, c'est l'entreprise qui « habille » les puces et leur fait passer leur examen médical — un champion invisible, mais indispensable.

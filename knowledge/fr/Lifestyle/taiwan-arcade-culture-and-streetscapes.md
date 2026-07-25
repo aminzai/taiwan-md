@@ -5,7 +5,7 @@ date: 2026-03-20
 tags: ['Mode de vie', 'Arcades couvertes', 'Paysage urbain', 'Culture urbaine']
 subcategory: 'Transports et mobilité'
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true

@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
 translatedAt: 2026-05-01T20:54:17+08:00
+featured: false
 ---
 
 > **En 30 secondes :**

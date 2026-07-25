@@ -22,6 +22,7 @@ sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:c51eb1a165d6a2f5'
 sourceBodyHash: 'sha256:99620fa1348fdcfe'
 translatedAt: '2026-05-15T15:39:40+08:00'
+difficulty: 'intermediate'
 ---
 
 # Sommets insulaires et rivages marins : écologie et paysages des parcs nationaux de Taïwan

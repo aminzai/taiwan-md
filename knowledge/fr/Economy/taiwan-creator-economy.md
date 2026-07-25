@@ -12,7 +12,7 @@ tags:
     'art taïwanais',
   ]
 subcategory: 'Industries culturelles'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false

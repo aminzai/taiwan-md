@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:cdaa1e14237e0765'
 sourceBodyHash: 'sha256:a5f55aca8739dd3e'
 translatedAt: 2026-05-01T20:54:17+08:00
+featured: false
 ---
 
 > **En bref (30 secondes) :** Le macaque de Formose est le seul primate natif de l'île, à l'exception de _Homo sapiens_. Il possède une hiérarchie sociale rigoureuse de type « matrilinéaire héréditaire ». Les conflits entre humains et macaques à l'université Sun Yat-sen et sur le mont Chaishan trouvent leur source dans la pression exercée par le chevauchement des habitats, qui pousse ces animaux hautement intelligents à intégrer le comportement humain dans leur logique de survie. Cet article retrace l'histoire de leur découverte au XIXe siècle, plonge au cœur du pouvoir gouverné par les « reines » et invite à repenser la situation réelle de ces résidents millénaires à l'« ère post-conservation ».

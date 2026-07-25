@@ -13,9 +13,9 @@ tags:
     'mouvement des Chemises rouges contre Chen Shui-bian',
     'dirigeant politique',
   ]
-readingTime: 7
+readingTime: 9
 lastVerified: 2026-05-07
-lastHumanReview: false
+lastHumanReview: true
 featured: false
 translatedFrom: 'People/施明德.md'
 sourceCommitSha: '0f8fae0a'

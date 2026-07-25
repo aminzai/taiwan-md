@@ -16,8 +16,8 @@ tags:
   ]
 readingTime: 7
 lastVerified: 2026-05-07
-lastHumanReview: 'true'
-featured: 'false'
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/楊傳廣.md'
 sourceCommitSha: '0f8fae0a'
 sourceContentHash: 'sha256:f8a43ac4f3c5c945'

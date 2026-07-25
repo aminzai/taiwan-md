@@ -1,7 +1,7 @@
 ---
 title: 'Comté de Miaoli : le comté des Hakka au cou raide, qui a élu en huit ans un magistrat ayant doublé la dette du Trésor départemental'
 description: "Sous l'ère japonaise, le camphre de Miaoli représentait 95 % de la production taïwanaise ; Sanyi a bâti sa sculpture sur bois à partir de souches de camphrier. En 2002, le village de Beigang à Gongguan a accueilli la première Fête des fleurs de tung. En 2008, Liu Cheng-hong a hérité d'un comté endetté de 20,2 milliards de NT$ ; en 2014, à la fin de son mandat, la dette comptable atteignait 67,6 milliards. Entre ces deux chiffres : Feng-min Zhu s'est empoisonnée par pesticide, la pharmacie de la famille Chang a été rasée au bulldozer, le bâtiment circulaire Hakka a coûté 120 millions de NT$ pour devenir un « moustiquaire ». Aujourd'hui, 530 000 personnes vivent dans ce comté où la proportion de Hakka — 62,5 % — est la deuxième plus élevée de Taïwan."
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -17,10 +17,10 @@ tags:
     'Saisiat',
     "Rituel paSta'ay', 'Liu Cheng-hong', 'Série des 22 municipalités et comtés",
   ]
-readingTime: '16'
-lastVerified: '2026-05-18'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 16
+lastVerified: 2026-05-18
+lastHumanReview: false
+featured: false
 translatedFrom: 'Geography/苗栗縣.md'
 sourceCommitSha: 'b457dbbb1'
 sourceContentHash: 'sha256:0d7e5732a8513df0'

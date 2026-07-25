@@ -1,7 +1,7 @@
 ---
 title: 'Les parcs de Taïwan et les loisirs du quotidien'
 description: "Du tai-chi à l'aube aux promenades nocturnes — les parcs de Taïwan comme espaces sociaux intergénérationnels"
-date: 2026-03-19
+date: 2026-03-18
 tags:
   [
     'parcs',
@@ -14,12 +14,13 @@ subcategory: 'Loisirs et divertissement'
 lastVerified: 2026-03-19
 lastHumanReview: false
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5627d196edbadc46'
 sourceBodyHash: 'sha256:fb9597ed5d14a1d1'
 translatedAt: '2026-04-15T17:34:27+08:00'
+featured: false
 ---
 
 # Les parcs de Taïwan et les loisirs du quotidien

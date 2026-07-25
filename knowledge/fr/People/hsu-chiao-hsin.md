@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8f69e3146e67bf4f'
 sourceBodyHash: 'sha256:c36ec4a8304568ae'
 translatedAt: 2026-05-03T23:14:07+08:00
+difficulty: 'intermediate'
 ---
 
 # Hsu Chiao-hsin : de la fille d'un petit-déjeuner à la députée du « plan d'armements de 800 milliards » et la jeunesse par le capital médiatique

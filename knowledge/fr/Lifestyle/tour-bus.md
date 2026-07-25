@@ -1,7 +1,7 @@
 ---
 title: "Les autocars de tourisme : soixante ans de rêves touristiques taïwanais dans une boîte en fer — pourquoi les accidents n'en finissent pas"
 description: "De Yu Liu Julan, devenue receveuse à 14 ans sous l'ère coloniale japonaise, aux Golden Horse Express sur la route transinsulaire en 1959, aux « sauvages » des autoroutes dans les années 1980, jusqu'au renversement mortel du car Butterfly Love à Nangang en 2017 (33 morts), à l'incendie sur la nationale n°1 et la chute dans la vallée de Shanlinxi en 2025, les autocars de tourisme ont porté tous les rêves touristiques de l'après-guerre à Taïwan : pèlerinages, voyages scolaires, excursions d'entreprise. Mais le système du kao-hing (affiliation nominale), la concurrence par les forfaits à bas prix et les journées de travail interminables ont fait de cette boîte en fer l'un des moyens de transport les plus dangereux de l'île. Le nouveau système d'identification des conducteurs, entré en vigueur le 1er janvier 2026, pourra-t-il briser ce cycle ?"
-date: '2026-05-02'
+date: 2026-05-02
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
 subcategory: '交通與移動'
@@ -14,10 +14,10 @@ tags:
     'industrie',
     'culture',
   ]
-readingTime: '12'
-lastVerified: '2026-05-03'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-05-03
+lastHumanReview: false
+featured: false
 translatedFrom: 'Lifestyle/遊覽車.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:2b757d54650fbf73'

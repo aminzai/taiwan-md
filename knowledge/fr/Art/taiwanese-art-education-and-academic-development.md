@@ -1,20 +1,28 @@
 ---
-title: "Éducation artistique et développement académique à Taïwan"
-description: "Du système des écoles normales aux universités d’art spécialisées, les transformations institutionnelles et la formation des talents dans l’éducation artistique taïwanaise"
+title: 'Éducation artistique et développement académique à Taïwan'
+description: 'Du système des écoles normales aux universités d’art spécialisées, les transformations institutionnelles et la formation des talents dans l’éducation artistique taïwanaise'
 date: 2026-03-19
-author: "Taiwan.md"
-category: "Art"
-subcategory: "策展與教育"
-tags: ["éducation artistique", "départements des beaux-arts", "universités d’art", "formation des enseignants", "développement académique"]
+author: 'Taiwan.md'
+category: 'Art'
+subcategory: '策展與教育'
+tags:
+  [
+    'éducation artistique',
+    'départements des beaux-arts',
+    'universités d’art',
+    'formation des enseignants',
+    'développement académique',
+  ]
 readingTime: 11
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Art/台灣藝術教育與學院發展.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:352ce3febb583c17"
-sourceBodyHash: "sha256:aaeb81e5f1416586"
-translatedAt: "2026-05-17T05:34:56+08:00"
+translatedFrom: 'Art/台灣藝術教育與學院發展.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:352ce3febb583c17'
+sourceBodyHash: 'sha256:aaeb81e5f1416586'
+translatedAt: '2026-05-17T05:34:56+08:00'
+difficulty: 'intermediate'
 ---
 
 # Éducation artistique et développement académique à Taïwan
@@ -483,7 +491,11 @@ Les résultats de l’éducation artistique taïwanaise comprennent la formation
 ## Références
 
 [^1]: [國立台北藝術大學](https://w3.tnua.edu.tw/) — Site officiel et documents sur l’histoire de l’université
+
 [^2]: [國立台南藝術大學](https://www.tnnua.edu.tw/) — Documents historiques de l’université et évolution institutionnelle
+
 [^3]: [國立台灣藝術大學](https://www.ntua.edu.tw/) — Historique et présentation des facultés
+
 [^4]: [國立台灣師範大學美術學系](https://www.art.ntnu.edu.tw/) — Histoire du développement du département et informations sur les programmes
+
 [^7]: [台灣藝術教育館](https://www.arte.gov.tw/) — Données de recherche sur les politiques d’éducation artistique

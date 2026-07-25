@@ -14,7 +14,7 @@ tags:
     innovation architecturale,
   ]
 subcategory: "Portraits d'entreprises"
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: false
 translatedFrom: 'Economy/台灣企業：大立光電.md'
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:74469a54ad5b9ae3'
 sourceBodyHash: 'sha256:4ac8e9cdef3a165c'
 translatedAt: '2026-04-14T19:20:40+08:00'
+lastHumanReview: false
 ---
 
 # Largan Precision : quand l'esprit artisan rencontre la révolution architecturale

@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Développement économique'
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 translatedFrom: 'Economy/夜市經濟學.md'
@@ -37,6 +37,7 @@ datasets:
     update_freq: '不定期更新'
     why: '「理論上不該存在的商業模式」被政府列管成正式清單的城市切片'
     verified: 2026-06-10
+lastHumanReview: false
 ---
 
 > Chaque soir à dix-huit heures, 233 000 étals s'illuminent simultanément à Taïwan. Sans marque commune, sans décoration somptueuse, sans même un emplacement fixe — ces petits stands en apparence « peu professionnels » génèrent pourtant près de 400 milliards de TWD par an et font vivre 470 000 familles. C'est le modèle commercial le plus singulier au monde, et la réussite économique la plus emblématique de Taïwan.

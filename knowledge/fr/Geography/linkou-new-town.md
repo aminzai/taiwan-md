@@ -29,6 +29,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bdae42ffe0d36150'
 sourceBodyHash: 'sha256:57cdd81fe5d56c02'
 translatedAt: '2026-05-01T20:54:17+08:00'
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** Autrefois surnommée « ville fantôme », Linkou New Town a connu, en un demi-siècle, une transformation spectaculaire, passant des plantations de terre et des briqueteries à un parc technologique intelligent. Avec l'inauguration de l'aérotrain, cette zone la plus jeune de la ville de New Taipei a vu sa population augmenter de plus de 14 000 habitants en cinq ans, devenant un pôle d'attraction pour les nouveaux résidents du nord de Taïwan. Cependant, les embouteillages sur les autoroutes et le climat humide et froid restent des défis majeurs à ne pas négliger.

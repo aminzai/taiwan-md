@@ -14,7 +14,7 @@ tags:
     transports,
   ]
 subcategory: 'Transports et mobilité'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: true
 category: 'Lifestyle'

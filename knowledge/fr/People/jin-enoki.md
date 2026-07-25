@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:a4d0a0070adaa30d'
 sourceBodyHash: 'sha256:4b10f11517195560'
 translatedAt: '2026-05-17T05:33:00Z'
+featured: false
 ---
 
 > **En 30 secondes :** Jin (金針菇) n'est pas une pom-pom girl coréenne sur un terrain de baseball, mais une créatrice de longue distance sur les plateformes numériques. Elle documente sa vie à Taïwan en mandarin, faisant de « les Coréens à Taïwan » un type de contenu pouvant être suivi sur la durée, dont l'influence dépasse le cadre d'une vidéo ou d'un événement unique.
@@ -54,9 +55,9 @@ Ces épisodes nous rappellent que les créateurs ne font pas que « raconter des
 
 ## 2026 : le single « A Jin-jia » et le récit du « guide de survie à Taïwan »
 
-Fin avril 2026, Jin sort un nouveau morceau dansant, « A Jin-jia » ; la rubrique divertissement du *Liberty Times* rapporte qu'elle s'est entourée du producteur Oliver Kim, dans la continuité de la ligne rythmique des tubes du groupe Energy. Le titre joue sur une homophonie en coréen oral, et les paroles découpent en saynètes les « micro-effondrements » de la vie à Taïwan (feux rouges interminables, tickets de loto perdants, demandes spéciales aux restaurants, etc.) ; le clip retourne dans la rue et au boui-boui de petit-déjeuner pour prolonger son langage visuel de vlogueuse.[^1]
+Fin avril 2026, Jin sort un nouveau morceau dansant, « A Jin-jia » ; la rubrique divertissement du _Liberty Times_ rapporte qu'elle s'est entourée du producteur Oliver Kim, dans la continuité de la ligne rythmique des tubes du groupe Energy. Le titre joue sur une homophonie en coréen oral, et les paroles découpent en saynètes les « micro-effondrements » de la vie à Taïwan (feux rouges interminables, tickets de loto perdants, demandes spéciales aux restaurants, etc.) ; le clip retourne dans la rue et au boui-boui de petit-déjeuner pour prolonger son langage visuel de vlogueuse.[^1]
 
-Cet album poursuit sa démarche : transformer le « quotidien à Taïwan » en texte chantable. Là où *Taipei Love* relevait d'une mobilisation émotionnelle proche de la déclaration, *A Jin-jia* inscrit plus directement les frictions interculturelles dans le hook d'un morceau dansant, en facilitant ainsi le remontage en formats courts et la diffusion sur les réseaux sociaux.[^1]
+Cet album poursuit sa démarche : transformer le « quotidien à Taïwan » en texte chantable. Là où _Taipei Love_ relevait d'une mobilisation émotionnelle proche de la déclaration, _A Jin-jia_ inscrit plus directement les frictions interculturelles dans le hook d'un morceau dansant, en facilitant ainsi le remontage en formats courts et la diffusion sur les réseaux sociaux.[^1]
 
 ## Pourquoi elle est une figure populaire
 

@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:479a8f6f5440400a'
 sourceBodyHash: 'sha256:b005f4ff95b8ed92'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **En 30 secondes :** La carrière politique de Su Tseng-chang est un sprint de quarante ans. Partant de son rôle d'avocat de la défense lors du grand procès de Kaohsiung en 1979, il a successivement occupé les postes de magistrat du comté de Pingtung, de magistrat du comté de Taipei et de Premier ministre à deux reprises. Connu pour son style de leadership affirmé, semblable à un « bulbe électrique », il a démontré une capacité d'exécution remarquable, que ce soit dans la lutte contre la peste porcine africaine ou dans la mise en œuvre du programme « Climatiseur pour chaque classe », tout en suscitant des avis partagés en raison de son caractère tranchant. Cet article vous plongera dans le processus décisionnel de ce Premier ministre « Chong Chong Chong », de ses retournements de situation après des revers politiques à l'empreinte durable de son action gouvernementale, malgré les controverses.

@@ -1,7 +1,7 @@
 ---
 title: "L'ombrelle en papier : de l'objet utilitaire à l'art, un siècle de splendeur de la culture hakka taïwanaise"
 description: "À Meinong, dans le comté de Kaohsiung, une ombrelle en papier apparemment ordinaire porte en elle les vœux hakka de « descendance prospère » et de « plénitude ». Au plus fort du déclin industriel, grâce à la persévérant du maître artisan Lin Xianglin et à un reportage du magazine *Han Sheng*, cet objet du quotidien s'est métamorphosé en une œuvre d'art reconnue à l'international. C'est l'histoire centenaire de l'artisanat traditionnel taïwanais renaissant de ses cendres et trouvant une nouvelle place dans la société moderne."
-date: '2026-04-21'
+date: 2026-04-21
 author: 'Taiwan.md Contributors'
 category: Culture
 subcategory: '客家文化'
@@ -15,14 +15,15 @@ tags:
     'Guang Jin Sheng',
     'Lin Xianglin',
   ]
-readingTime: '10'
-lastVerified: '2026-04-21'
+readingTime: 10
+lastVerified: 2026-04-21
 lastHumanReview: false
 translatedFrom: 'Culture/紙傘.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2b63bb823fbdea45'
 sourceBodyHash: 'sha256:6966802b8bb41d32'
 translatedAt: '2026-06-11T16:39:06Z'
+featured: false
 ---
 
 ## L'ombrelle en papier : de l'objet utilitaire à l'art, un siècle de splendeur de la culture hakka taïwanaise

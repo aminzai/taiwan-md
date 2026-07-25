@@ -2,19 +2,20 @@
 title: "Caractéristiques géographiques et formation de l'île de Taïwan"
 description: "Explorez les caractéristiques géographiques uniques de l'île de Taïwan, de la tectonique des plaques à la structure topographique, et découvrez les mystères naturels de l'île de Formose"
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Geography"
-subcategory: "島嶼與海洋"
-tags: ["géologie", "géographie", "île", "tectonique des plaques", "topographie"]
+author: 'Taiwan.md'
+category: 'Geography'
+subcategory: '島嶼與海洋'
+tags: ['géologie', 'géographie', 'île', 'tectonique des plaques', 'topographie']
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
-translatedFrom: "Geography/台灣島嶼地理特色與形成.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:fd5b44b607710000"
-sourceBodyHash: "sha256:b019853dd2be5b1d"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:fd5b44b607710000'
+sourceBodyHash: 'sha256:b019853dd2be5b1d'
+translatedAt: '2026-05-20T05:08:34+08:00'
+difficulty: 'intermediate'
 ---
 
 # Caractéristiques géographiques et formation de l'île de Taïwan
@@ -65,11 +66,11 @@ Bien que de superficie modeste, Taïwan condense une histoire géologique allant
 
 La structure topographique de Taïwan présente les caractéristiques typiques d'une « île de haute montagne » :
 
-| Type de relief | Altitude | Proportion de superficie | Répartition principale |
-| --- | --- | --- | --- |
-| **Montagnes** | Supérieure à 1 000 m | 29 % | Chaîne centrale, chaîne Xueshan, chaîne Alishan |
-| **Collines et plateaux** | 100 – 1 000 m | 40 % | Collines de Miaoli, collines de Zhudong, plateau de Linkou |
-| **Plaines et bassins** | Inférieure à 100 m | 31 % | Plaine de Jiianan, plaine de Pingtung, bassin de Taipei |
+| Type de relief           | Altitude             | Proportion de superficie | Répartition principale                                     |
+| ------------------------ | -------------------- | ------------------------ | ---------------------------------------------------------- |
+| **Montagnes**            | Supérieure à 1 000 m | 29 %                     | Chaîne centrale, chaîne Xueshan, chaîne Alishan            |
+| **Collines et plateaux** | 100 – 1 000 m        | 40 %                     | Collines de Miaoli, collines de Zhudong, plateau de Linkou |
+| **Plaines et bassins**   | Inférieure à 100 m   | 31 %                     | Plaine de Jiianan, plaine de Pingtung, bassin de Taipei    |
 
 ### Disposition en éventail des chaînes de montagnes
 
@@ -216,7 +217,7 @@ Des études récentes montrent une tendance à la hausse des précipitations jou
 
 ### Stratégies de conservation du territoire
 
-Taïwan a promulgué la *Loi sur la planification du territoire national* en 2015, délimitant des zones de conservation, agricoles et de développement urbain et rural en fonction des conditions topographiques, et limitant l'aménagement dans les zones géologiquement fragiles. La gestion des zones géologiquement sensibles et la loi sur la gestion du littoral établissent respectivement des mécanismes de contrôle pour les glissements de terrain, les failles actives et l'érosion côtière.
+Taïwan a promulgué la _Loi sur la planification du territoire national_ en 2015, délimitant des zones de conservation, agricoles et de développement urbain et rural en fonction des conditions topographiques, et limitant l'aménagement dans les zones géologiquement fragiles. La gestion des zones géologiquement sensibles et la loi sur la gestion du littoral établissent respectivement des mécanismes de contrôle pour les glissements de terrain, les failles actives et l'érosion côtière.
 
 ## Conclusion
 
@@ -227,9 +228,15 @@ Face à la double pression du changement climatique et de l'aménagement humain,
 ## Références
 
 [^1]: Bureau d'études géologiques et de gestion minière, Ministère de l'Économie (2023), [« Introduction à la géologie de Taïwan »](https://www.gsmma.gov.tw/).
+
 [^2]: Administration centrale de la météorologie (2024), [« Statistiques climatiques de Taïwan »](https://www.cwa.gov.tw/).
+
 [^3]: Centre national de topographie et cartographie, Ministère de l'Intérieur (2024), [« Rapport annuel des statistiques de mesure du territoire »](https://www.nlsc.gov.tw/).
+
 [^4]: Wikipédia (2025), [« Géographie de Taïwan »](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E5%9C%B0%E7%90%86).
+
 [^5]: Wikipédia (2022), [« Géologie de Taïwan »](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%9C%B0%E8%B3%AA).
+
 [^6]: Réseau de conservation des paysages de Taïwan, Agence forestière et de conservation de la nature, Ministère de l'Agriculture, [« Composition et caractéristiques des paysages insulaires »](https://landscape.forest.gov.tw/).
+
 [^7]: Sanmin Fuxiao (2025), [« Encyclopédie des connaissances géographiques de Taïwan »](https://www.3people.com.tw/).

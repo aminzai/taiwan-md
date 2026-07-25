@@ -28,6 +28,7 @@ image: '/article-images/people/mona-rudao-seediq-leaders-1931.webp'
 imageCredit: '海老原耕平《霧社討伐寫眞帖》（1931）'
 imageLicense: 'Public domain (PD-Japan-oldphoto)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Mona_Rudao_and_Seediq_tribal_leaders.jpg'
+difficulty: 'advanced'
 ---
 
 # Mona Rudao : le héros antijaponais gravé sur la pièce de vingt dollars, et le monde sans Chine ni Japon

@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Histoire militaire'
 category: 'History'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-24

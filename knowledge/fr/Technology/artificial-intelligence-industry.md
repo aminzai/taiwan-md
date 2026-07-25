@@ -6,7 +6,7 @@ tags:
   ['Technologie', 'IA', 'Intelligence artificielle', 'Industrie technologique']
 subcategory: 'Intelligence artificielle'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: false
 translatedFrom: 'Technology/AI人工智慧產業.md'
@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bc36a1af91d28cb5'
 sourceBodyHash: 'sha256:9d1ac9fec38fa5d4'
 translatedAt: '2026-04-14T12:32:55+08:00'
+lastHumanReview: true
 ---
 
 > **En 30 secondes :** Grâce à TSMC qui fabrique les puces IA de NVIDIA, Taïwan occupe une position stratégique dans la chaîne d'approvisionnement mondiale en matériel IA. Après l'explosion de l'IA générative en 2023, Taïwan est passé de « fabriquer des puces pour les autres » à « comment utiliser l'IA nous-mêmes ». Le gouvernement a lancé quatre grandes stratégies IA, mais près de 70 % des entreprises n'ont pas encore franchi le cap de la transformation par l'IA. Taïwan est en train de pivoter de la sous-traitance matérielle vers l'innovation applicative.

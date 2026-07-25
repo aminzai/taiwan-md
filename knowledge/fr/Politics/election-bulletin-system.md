@@ -15,8 +15,8 @@ tags:
   ]
 readingTime: 10
 lastVerified: 2026-05-27
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'Politics/選舉公報.md'
 sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:dbb211cf0ddd5fb6'

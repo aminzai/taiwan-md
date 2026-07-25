@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Architecture'
 category: 'Art'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 15
 featured: true
 translatedFrom: 'Art/台灣建築.md'
@@ -21,6 +21,7 @@ sourceCommitSha: 'eac12cd9'
 sourceContentHash: 'sha256:211251c042500a3e'
 sourceBodyHash: 'sha256:41c2c3ee5e118612'
 translatedAt: '2026-07-03T16:37:39Z'
+lastHumanReview: true
 ---
 
 # L'architecture de Taïwan : un poème en volumes au carrefour des civilisations

@@ -1,7 +1,7 @@
 ---
 title: 'Dadaocheng : 800 mètres, trois siècles, de Formosa Tea au premier coup de feu du 28 février'
 description: "À cinq heures et demie du matin, la rue Dihua est très calme. La maison de commerce Jinji Tea Company, que Chen Tian-lai ouvrit en 1891 rue Guide, se dresse encore à son emplacement d'origine ; l'encensoir du temple Xia-Hai du dieu de la Cité brûle depuis 167 ans. En 1851, quelques familles ouvrirent ici des boutiques ; en 1853, des gens de Tong'an y arrivèrent en fuyant les violences ; en 1869, le premier lot de 120 000 jin de Formosa Tea partit de Tamsui pour New York ; en 1885, Liu Mingchuan y fonda la première école occidentale de Taïwan ; en 1921, Chiang Wei-shui ouvrit l'hôpital Da'an à Taiping-chō, point de départ politique de l'Association culturelle taïwanaise ; le soir du 27 février 1947, un paquet de cigarettes de contrebande devant le Tianma Tea House alluma l'incident du 28 février. Commerce du thé, école occidentale, puis blessure la plus profonde de Taïwan après-guerre : 800 mètres contiennent trois siècles."
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區 / 台北市大同區'
@@ -25,7 +25,7 @@ tags:
     'série des quartiers historiques',
   ]
 readingTime: 16
-lastVerified: '2026-05-21'
+lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/大稻埕.md'

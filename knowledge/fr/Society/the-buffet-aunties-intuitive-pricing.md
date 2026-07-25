@@ -12,7 +12,7 @@ tags:
     'philosophie de la technique',
   ]
 subcategory: 'Communauté et quotidien'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-03-22
 readingTime: 8
 featured: false

@@ -17,10 +17,10 @@ tags:
 date: 2026-03-23
 readingTime: 12min
 lastVerified: 2026-04-13
-lastHumanReview: '2026-04-13'
+lastHumanReview: true
 subcategory: 'Rock et pop taïwanais'
-author: 'Taiwan.md Translation Team'
-featured: true
+author: 'Taiwan.md'
+featured: false
 translatedFrom: 'Music/五月天.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:2d73cb00a5f5d254'

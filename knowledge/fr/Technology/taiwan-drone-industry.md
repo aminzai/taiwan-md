@@ -1,7 +1,7 @@
 ---
 title: "L'industrie taïwanaise des drones : des avions télécommandés de Taichung à la Blue List, un laissez-passer pour Thunder Tiger"
 description: "Le 21 septembre 2025, le drone suicide Overkill FPV de Thunder Tiger a obtenu la certification Blue UAS Cleared List du département de la Défense des États-Unis — première entreprise taïwanaise, et à ce jour la seule. Sur l'ensemble de la liste, qui compte 39 plateformes complètes et 165 composants, Taïwan n'occupe qu'une seule place. En avril 2026, quatre sénateurs américains bipartisans ont conjointement proposé le Blue Skies for Taiwan Act, exigeant la création d'un accès rapide pour les fabricants taïwanais ; l'existence même de ce projet de loi révèle une chose : Taïwan avance trop lentement, au point que les États-Unis eux-mêmes doivent légiférer pour abaisser les barrières. Une entreprise qui fabrique des avions télécommandés à Taichung depuis quarante-six ans prévoit de construire une deuxième usine dans l'Ohio."
-date: '2026-04-08'
+date: 2026-04-08
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: 'Technology'
@@ -15,8 +15,8 @@ tags:
     'IA',
     'Blue UAS',
   ]
-readingTime: '16'
-lastVerified: '2026-05-10'
+readingTime: 16
+lastVerified: 2026-05-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/台灣無人機產業.md'

@@ -24,6 +24,7 @@ sourceCommitSha: '24efd20f3'
 sourceContentHash: 'sha256:46d9237ef98b45d7'
 sourceBodyHash: 'sha256:9fbe7b79e0934c74'
 translatedAt: '2026-05-15T13:52:06+08:00'
+difficulty: 'intermediate'
 ---
 
 # Politique commerciale internationale de Taïwan : trouver sa place dans la vague de la mondialisation

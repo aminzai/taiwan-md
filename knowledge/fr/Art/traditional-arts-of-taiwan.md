@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Arts du spectacle'
 category: Art
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-24
@@ -25,6 +25,7 @@ sourceBodyHash: 'sha256:de7228ea44ad062e'
 translatedAt: '2026-06-16T17:13:36Z'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Taiwan-Puppet-Show.jpg/800px-Taiwan-Puppet-Show.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: false
 ---
 
 # Les arts traditionnels de Taïwan : l'improbable renaissance d'un théâtre de village en empire culturel

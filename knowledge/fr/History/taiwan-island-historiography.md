@@ -1,13 +1,13 @@
 ---
 title: 'Perspective historiographique de l’île de Taïwan : comment une île gouvernée à répétition a inventé sa propre subjectivité'
 description: 'Taïwan n’est pas la dernière pièce du puzzle des empires continentaux, mais la première pierre d’un réseau maritime du Pacifique. À partir de l’idée de Ts’ao Yung-ho d’« encadrer l’histoire par le lieu », il s’agit de comprendre à nouveaux frais la vitalité de cette île.'
-date: 2026-03-27
+date: 2026-07-10
 author: 'Taiwan.md'
 category: 'History'
 subcategory: '史觀與方法論'
 tags: ['histoire', 'île', 'historiographie', 'Ts’ao Yung-ho', 'océan']
-lastVerified: 2026-03-27
-lastHumanReview: true
+lastVerified: 2026-07-10
+lastHumanReview: false
 featured: true
 translatedFrom: 'History/台灣島史觀.md'
 sourceCommitSha: '01d9d0e73'

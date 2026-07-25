@@ -1,7 +1,7 @@
 ---
 title: 'Potter King — Du divertissement « drague » à la chasse « rose », un stratège numérique entre droit et souveraineté'
 description: 'L’évolution de la carrière de Potter King (Chen Chia‑jin) retrace le passage des créateurs taïwanais de récolteurs de bénéfices commerciaux trans-détroit à défenseurs de la souveraineté numérique, tout en révélant les complexités juridiques, de propriété et financières qui lient créateurs et systèmes capitalistes.'
-date: '2026-04-20'
+date: 2026-04-20
 category: 'People'
 subcategory: '數位與媒體'
 tags:
@@ -12,7 +12,7 @@ tags:
   - 'jeu juridique'
 author: 'Taiwan.md'
 featured: false
-lastVerified: '2026-01-01'
+lastVerified: 2026-01-01
 lastHumanReview: true
 translatedFrom: 'People/波特王.md'
 sourceCommitSha: '4b6d28c54'

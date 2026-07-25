@@ -1,7 +1,7 @@
 ---
 title: 'Hsiao Bi-khim'
 description: "Née au Japon, scolarisée à Tainan, élevée dans le New Jersey, diplômée d'Oberlin, comment la « chat guerrier » est-elle devenue la représentante la plus réussie de Taïwan auprès des États‑Unis, puis a pris le poste de vice‑présidente ?"
-date: '2026-04-11'
+date: 2026-04-11
 category: 'People'
 tags:
   - 'politicien'
@@ -13,15 +13,16 @@ tags:
   - 'chat guerrier'
 subcategory: '政治人物'
 author: 'Taiwan.md'
-readingTime: '12'
+readingTime: 12
 featured: true
-lastVerified: '2026-04-11'
+lastVerified: 2026-04-11
 lastHumanReview: false
 translatedFrom: 'People/蕭美琴.md'
 sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:f272f267160332e7'
 sourceBodyHash: 'sha256:3d2acfec22ab6d95'
 translatedAt: '2026-06-12T00:53:43+08:00'
+difficulty: 'intermediate'
 ---
 
 # Hsiao Bi-khim

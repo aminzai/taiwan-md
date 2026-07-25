@@ -1,7 +1,7 @@
 ---
 title: 'Élections et vie politique partisane à Taïwan'
 description: "Des flammes de l'incident de Zhongli aux 8,17 millions de voix, comment Taïwan a transformé le vote en un demi-siècle, d'un outil de la loi martiale en une foi populaire"
-date: '2026-03-20'
+date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '戰後與威權'
@@ -13,15 +13,16 @@ tags:
     'Mouvement hors-parti',
     'Élection présidentielle directe',
   ]
-readingTime: '18'
-lastVerified: '2026-05-27'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 18
+lastVerified: 2026-05-27
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/台灣選舉與政黨政治.md'
 sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:35594d81e2470e05'
 sourceBodyHash: 'sha256:7e75aac6f994b2f2'
 translatedAt: '2026-05-28T05:08:35+08:00'
+difficulty: 'beginner'
 ---
 
 # Élections et vie politique partisane à Taïwan

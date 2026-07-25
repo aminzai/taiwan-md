@@ -13,7 +13,7 @@ tags:
     'sciences naturelles',
   ]
 subcategory: 'Personnages historiques'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: true

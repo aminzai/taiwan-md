@@ -1,7 +1,7 @@
 ---
 title: "Le bœuf « tempéré » à cinq heures du matin : la chaîne d'approvisionnement et la fraîcheur de la soupe de bœuf de Taïnan"
 description: "La soupe de bœuf de Taïnan est devenue un « plat emblématique » il y a à peine vingt ans, mais la raison pour laquelle elle vaut la peine d'y faire la queue à cinq heures du matin est bien réelle : le bœuf « tempéré » de l'abattoir de Shanhua, une chaîne du froid achevée en quelques heures et ce bouillon d'os de bœuf qui bout depuis l'aube."
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '經典小吃'
@@ -14,10 +14,10 @@ tags:
     'district de Zhongxi',
     'encas de rue',
   ]
-readingTime: '7'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 7
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'Food/牛肉湯.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:28c5ddfd25d93a95'

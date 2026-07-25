@@ -13,7 +13,7 @@ tags:
     risque politique,
   ]
 subcategory: "Portraits d'entreprises"
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-24
@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d6da6fce353b5bfa'
 sourceBodyHash: 'sha256:4d55bf95947dc191'
 translatedAt: '2026-04-14T19:21:16+08:00'
+lastHumanReview: false
 ---
 
 En novembre 2021, une nouvelle ébranle le monde des affaires à Taïwan : le Far Eastern Group écope d'une amende de 474 millions de yuans (soit environ 2,06 milliards de NT$) infligée par les autorités chinoises, au motif de « violations des réglementations environnementales, d'utilisation des terres et de santé au travail ». Tout le monde savait pourtant que cette affaire dépassait largement le cadre réglementaire.

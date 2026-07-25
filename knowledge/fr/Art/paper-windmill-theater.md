@@ -1,7 +1,7 @@
 ---
 title: 'Paper Windmill Theater : le Don Quichotte qui fait tourner les rêves de Taïwan, une longue marche artistique de plus de trente ans'
 description: "De la fantaisie théâtrale de 1992 au « nouveau mouvement culturel » qui a parcouru les 368 communes et districts, Paper Windmill Theater, fidèle à l'esprit « bouger quand il y a du vent, créer soi-même le vent quand il n'y en a pas », a ouvert aux enfants de Taïwan le premier kilomètre de l'accès à l'art. Après l'incendie de Bali et le choc de la pandémie, son fondateur Lee Yung-feng a mené l'équipe vers une renaissance au milieu de la dépression et des dettes, tissant, avec l'immense Rain Horse et des récits locaux, une mémoire collective propre à cette île."
-date: '2026-06-16'
+date: 2026-06-16
 author: 'Taiwan.md Contributors'
 category: 'Art'
 subcategory: '表演藝術'
@@ -17,7 +17,7 @@ tags:
     'théâtre pour enfants',
   ]
 readingTime: 18
-lastVerified: '2026-06-16'
+lastVerified: 2026-06-16
 lastHumanReview: false
 featured: false
 translatedFrom: 'Art/紙風車劇團.md'

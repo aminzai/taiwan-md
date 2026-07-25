@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: "Portraits d'entreprises"
 category: 'Economy'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:917f1503c2ff61d8'
 sourceBodyHash: 'sha256:8336e4cef45a1444'
 translatedAt: '2026-04-14T19:20:58+08:00'
+lastHumanReview: true
 ---
 
 > **En 30 secondes :** En 1987, un incendie d'usine pousse Barry Lam à démissionner de Kinpo Electronics. En 1988, il loue deux étages à Shilin, Taipei, et fonde Quanta Computer avec un capital de départ de 30 millions de dollars taïwanais. Trente-six ans plus tard, Quanta est le plus grand assembleur d'ordinateurs portables au monde, avec un chiffre d'affaires de 1 080 milliards de NT$ en 2023. Un ordinateur portable sur trois dans le monde sort de ses usines. À l'aube de l'ère de l'IA, Quanta se réinvente une fois encore, en devenant le partenaire d'assemblage de serveurs le plus stratégique de NVIDIA.

@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Culture des boissons'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: true
 translatedFrom: 'Food/台灣豆漿與早餐店.md'
@@ -24,6 +24,7 @@ sourceBodyHash: 'sha256:a157234d7add2561'
 translatedAt: '2026-04-14T12:29:25+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Exit_C_of_Doujiang_Station_in_Shaoxing.jpg/960px-Exit_C_of_Doujiang_Station_in_Shaoxing.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: false
 ---
 
 # Le lait de soja et les cafés du matin à Taïwan

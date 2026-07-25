@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Éducation et société'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 5
 featured: false
 translatedFrom: 'People/葉丙成.md'
@@ -22,6 +22,7 @@ sourceCommitSha: 'df2e7558'
 sourceContentHash: 'sha256:340bb6abbf6b93a5'
 sourceBodyHash: 'sha256:f85ae58b5cc5815d'
 translatedAt: '2026-06-16T17:13:36Z'
+lastHumanReview: false
 ---
 
 # Yeh Ping-cheng : d'un cours de probabilités à une révolution pédagogique par le jeu

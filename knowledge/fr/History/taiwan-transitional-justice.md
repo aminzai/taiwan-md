@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Histoire contemporaine'
 category: 'History'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 14
 featured: false
 translatedFrom: 'History/台灣轉型正義.md'

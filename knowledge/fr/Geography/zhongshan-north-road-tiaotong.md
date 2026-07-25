@@ -1,7 +1,7 @@
 ---
 title: 'Tiaotong de Zhongshan Nord : la route vers le sanctuaire tracée par les Japonais a finalement été reprise par les maisons de commerce japonaises'
 description: "Le 17 avril 1923, le prince héritier japonais Hirohito, âgé de 19 ans, quitta la gare de Taipei en calèche et emprunta une route large de 15 mètres vers le sanctuaire de Taïwan à Yuanshan : elle s'appelait la voie de l'émissaire impérial. En 1941, elle fut élargie en boulevard à cinq voies de 40 mètres. En 1945, elle fut rebaptisée « Zhongshan Nord » en mémoire de Sun Yat-sen. En 1951, avec la guerre de Corée, les forces américaines s'installèrent et la section 3 de Zhongshan Nord devint une « concession américaine ». En 1972, après la rupture diplomatique entre la République de Chine et le Japon, les entreprises japonaises ne partirent pas ; en 1979, les forces américaines partirent ; dans les années 1980, les entreprises japonaises reprirent les tiaotong. La route vers le sanctuaire tracée par les Japonais a finalement été reprise par les maisons de commerce japonaises."
-date: '2026-05-21'
+date: 2026-05-21
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '歷史街區'
@@ -25,7 +25,7 @@ tags:
     'Light the Night',
   ]
 readingTime: 24
-lastVerified: '2026-05-21'
+lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/中山北路條通.md'

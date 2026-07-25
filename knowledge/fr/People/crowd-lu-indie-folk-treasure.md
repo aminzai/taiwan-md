@@ -21,7 +21,7 @@ tags:
   ]
 category: 'People'
 subcategory: 'Musique et arts de la scène'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 12
 lastVerified: 2026-04-07
@@ -30,6 +30,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'
 translatedAt: 2026-05-16T22:21:29Z
+lastHumanReview: true
 ---
 
 > **En 30 secondes :** Crowd Lu (盧廣仲), né en 1985 à Rende, Tainan, se fait renverser par un bus lors de sa première année d'université alors qu'il allait acheter un snack de nuit. Cloué au lit, il apprend la guitare en autodidacte. Il débute en 2008, remporte le prix du Meilleur Nouvel Artiste aux Golden Melody Awards en 2009, puis traverse un désert de huit ans sans nomination. En 2017, une scène funèbre de sept minutes en plan-séquence dans la série _Flower Boy Next Door_ fait trembler l'industrie ; il repart avec deux Golden Bell Awards. En 2020, _Your Name Engraved Herein_ lui vaut le Golden Horse de la Meilleure Chanson Originale. À 35 ans, il devient le plus jeune lauréat du Grand Chelem des Trois Prix d'Or de l'histoire de Taïwan. En 2026, les billets de son concert s'écoulent en une minute et les revendeurs réclament jusqu'à 60 000 TWD la place.

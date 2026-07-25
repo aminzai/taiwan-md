@@ -1,7 +1,7 @@
 ---
 title: "Sunset Rollercoaster : d'une photo de fond Photo Booth à Coachella, 14 ans à chanter le crépuscule de Taipei en anglais"
 description: "En 2010, un étudiant de 19 ans choisit au hasard le preset « Sunset Rollercoaster » de Mac Photo Booth comme photo de profil MySpace. Quatorze ans plus tard, ce groupe devient le premier groupe taïwanais invité à Coachella en plus de vingt ans. Tout en anglais, City Pop subtropicale, sans s'appuyer sur un système industriel : à partir d'une simple silhouette de montagnes russes prise au vol, ils ont inventé la manière dont Taïwan s'est le plus fait entendre dans le monde."
-date: '2026-05-23'
+date: 2026-05-23
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '獨立與搖滾'
@@ -16,7 +16,7 @@ tags:
     'Taipei',
   ]
 readingTime: '12min'
-lastVerified: '2026-05-27'
+lastVerified: 2026-05-27
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/落日飛車.md'

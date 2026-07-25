@@ -11,7 +11,7 @@ tags:
     'villes portuaires',
   ]
 subcategory: 'Préhistoire et peuples autochtones'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 9
 category: 'History'

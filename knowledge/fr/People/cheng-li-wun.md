@@ -22,6 +22,7 @@ sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:d7d8adfe5a1c7158'
 translatedAt: 2026-06-10T16:45:50Z
 sourceBodyHash: 'sha256:119c3d104b24e9dd'
+category: 'People'
 ---
 
 # Cheng Li-wen

@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Écosystèmes'
 category: 'Nature'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 11
 featured: false
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'

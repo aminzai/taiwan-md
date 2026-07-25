@@ -1,7 +1,7 @@
 ---
 title: 'Artisanat traditionnel et patrimoine culturel immatériel de Taïwan : la reconnaissance institutionnelle est arrivée, mais les apprentis ont disparu'
 description: 'En décembre 2022, le ministère de la Culture a inscrit Su Qingliang, maître maçon de Kaohsiung âgé de 87 ans, parmi les « trésors nationaux vivants » ; il est mort six mois plus tard. Taïwan n’a intégré les « détenteurs d’un artisanat traditionnel important » dans la Loi sur la préservation du patrimoine culturel qu’en 2005, avec 50 ans de retard sur le Japon et 43 ans sur la Corée. Quand le dispositif a enfin été en place, le système d’apprentissage s’était déjà effondré dans l’industrialisation des années 1970-1980 : parmi plus de 600 maîtres artisans traditionnels, les moins de 50 ans ne sont « qu’une minorité ». Plus la liste s’allonge, moins il reste de personnes capables d’enseigner.'
-date: '2026-05-15'
+date: 2026-05-15
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '傳統工藝'
@@ -19,7 +19,7 @@ tags:
     'Loi sur la préservation du patrimoine culturel',
   ]
 readingTime: 14
-lastVerified: '2026-05-15'
+lastVerified: 2026-05-15
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'

@@ -15,7 +15,7 @@ tags:
     'transformation numérique',
   ]
 subcategory: 'Numérique et internet'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: true
 readingTime: 12
 category: Technology

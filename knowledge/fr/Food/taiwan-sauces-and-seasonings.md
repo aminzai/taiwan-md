@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Ingrédients et assaisonnements'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 7
 featured: false
 translatedFrom: 'Food/台灣醬料與調味.md'
@@ -23,6 +23,8 @@ sourceBodyHash: 'sha256:165e3d5c431f4c83'
 translatedAt: '2026-04-14T12:29:25+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Deep_dish_pizza%2C_homemade%2C_with_tomato_paste_and_a_little_soy_sauce%2C_mixed_vegetables%2C_chicken%2C_stewed_beef%2C_mozzarella%2C_and_cheddar_cheeses_-_Massachusetts.jpg/960px-Deep_dish_pizza%2C_homemade%2C_with_tomato_paste_and_a_little_soy_sauce%2C_mixed_vegetables%2C_chicken%2C_stewed_beef%2C_mozzarella%2C_and_cheddar_cheeses_-_Massachusetts.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: false
+difficulty: 'beginner'
 ---
 
 # Les sauces et condiments de Taïwan

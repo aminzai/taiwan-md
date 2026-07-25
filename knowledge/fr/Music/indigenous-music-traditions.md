@@ -22,6 +22,7 @@ sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:c9aa499e9c84c71a'
 sourceBodyHash: 'sha256:b2e261c439c4d6f4'
 translatedAt: '2026-05-26T05:10:58+08:00'
+difficulty: 'intermediate'
 ---
 
 # Les traditions musicales des peuples autochtones de Taïwan

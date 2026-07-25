@@ -1,7 +1,7 @@
 ---
 title: "L'incident de Mudan : Collision des civilisations et éveil de la souveraineté dans le défilé de Shimen"
 description: "En 1874, une action militaire déclenchée par un naufrage a fait du défilé de Shimen, au sud de Taïwan, le centre névralgique de l'ordre d'Asie de l'Est moderne. Ce fut à la fois une étape d'expansion pour l'Empire japonais et un tournant décisif pour la Cour Qing, forçant celle-ci à passer d'une défense périphérique à une gouvernance active."
-date: '2026-07-17'
+date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: 'Colonialism and Empire'
@@ -13,10 +13,10 @@ tags:
     'Droit international',
     'Autochtones',
   ]
-readingTime: '12'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/牡丹社事件.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:91f467d8cc029b74'

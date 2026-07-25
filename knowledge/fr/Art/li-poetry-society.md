@@ -26,6 +26,8 @@ sourceCommitSha: '65a87b489'
 sourceContentHash: 'sha256:89548c331e33bc3b'
 sourceBodyHash: 'sha256:a39fc5d7615c6869'
 translatedAt: '2026-07-24T10:40:42+08:00'
+image: '/article-images/art/li-poetry-wu-sheng-2016.webp'
+imageCredit: 'Rico Shen via Wikimedia Commons'
 ---
 
 # La Société poétique Li : un groupe contraint d'oublier le japonais, soutenant la revue de poésie chinoise la plus ancienne de Taïwan

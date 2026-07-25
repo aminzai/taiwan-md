@@ -1,7 +1,7 @@
 ---
 title: "Le festival des morts : de la peur d'apaiser les âmes solitaires à une réconciliation collective insulaire"
 description: "Au Taïwan, le festival des morts n'est pas seulement une crainte des esprits ; c'est un récit de survieillant couvrant l'établissement agricole, les conflits et la fusion ethnique. De la réconciliation sanglante de Keelung à la course extrême du 'Qianggu' (sauvetage) à Toucheng, cette fête révèle comment le peuple taïwanais a transformé la peur en un traité de paix sociale."
-date: '2026-07-20'
+date: 2026-07-20
 category: 'Culture'
 tags:
   [
@@ -13,10 +13,10 @@ tags:
   ]
 subcategory: 'Fêtes et coutumes'
 author: 'Taiwan.md Contributors'
-readingTime: '8'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 8
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/中元節.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:92d21a8f6666e1c2'

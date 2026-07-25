@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Démocratie et politique'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'Society/野百合學運.md'
@@ -21,6 +21,7 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:bc1d9c831c947934'
 sourceBodyHash: 'sha256:5699382224a6d5e2'
 translatedAt: 2026-05-16T22:21:10Z
+lastHumanReview: false
 ---
 
 # Le Mouvement du Lys sauvage

@@ -1,7 +1,7 @@
 ---
 title: 'La facture taïwanaise : le bout de papier de 1951 qui a transformé tout un peuple en inspecteurs fiscaux'
 description: "Le 1er janvier 1951, Ren Xian-Qun (任顯群), directeur des finances de la province de Taïwan, imprime un numéro de loterie sur chaque reçu et impose son usage à tous les commerçants. Un reçu de 20 NT$ pour une boisson devient à la fois un justificatif d'achat, un billet de loterie gratuit et un mouchard fiscal. Soixante-dix ans plus tard, il s'est transformé en facture dématérialisée, pilier d'action sociale et terrain d'une controverse algorithmique."
-date: 2026-05-02
+date: 2026-05-01
 tags:
   [
     'facture unifiée',
@@ -13,10 +13,10 @@ tags:
     'gouvernance numérique',
   ]
 category: Economy
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 18
-lastVerified: 2026-05-02
+readingTime: 14
+lastVerified: 2026-07-18
 lastHumanReview: false
 translatedFrom: 'Economy/發票.md'
 sourceCommitSha: '4b6d28c5'

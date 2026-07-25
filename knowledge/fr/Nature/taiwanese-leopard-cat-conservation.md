@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Faune sauvage'
 category: 'Nature'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-30
@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:bbca77501c197a81'
 sourceBodyHash: 'sha256:76487fd0d26564e6'
 translatedAt: '2026-05-17T05:33:00Z'
+lastHumanReview: true
 ---
 
 # Conservation du chat-léopard de Taïwan

@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e36f0dcb06bdb5d7'
 sourceBodyHash: 'sha256:45c225df72a18f73'
 translatedAt: 2026-05-02T01:17:16+08:00
+featured: false
 ---
 
 > **En 30 secondes :** LINE est une application de messagerie née au Japon après le séisme du 11 mars 2011 (séisme de Tōhoku). Lancée la même année à Taïwan, elle a profité de l'arrêt de MSN et du passage à un modèle payant de WhatsApp en 2013 pour s'imposer comme le leader incontesté. Aujourd'hui, son taux de pénétration atteint 93 % chez les 15-65 ans à Taïwan. Des conversations familiales aux « images de bonne intention » (長輩圖, images de vœux envoyées par les aînés), des groupes de travail officiels à LINE Pay et LINE Bank, l'application est devenue une véritable « infrastructure numérique ». Mais cette dépendance massive s'accompagne de controverses : désinformation, piratage de comptes, publicités envahissantes, héritage numérique et position monopolistique, autant de questions qui obligent la société à reconsidérer la dimension publique de ce logiciel commercial.

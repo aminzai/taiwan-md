@@ -21,13 +21,14 @@ tags:
   ]
 readingTime: 15
 lastVerified: 2026-04-14
-lastHumanReview: 2026-04-14
+lastHumanReview: true
 featured: true
 translatedFrom: 'People/李洋.md'
 sourceCommitSha: 'fef3e119'
 sourceContentHash: 'sha256:96f1d5630278a964'
 sourceBodyHash: 'sha256:57937e9b25b2f462'
 translatedAt: '2026-05-01T22:19:06+08:00'
+difficulty: 'beginner'
 ---
 
 # Lee Yang

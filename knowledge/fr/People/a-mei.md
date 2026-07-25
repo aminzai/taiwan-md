@@ -9,7 +9,7 @@ subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08
-lastHumanReview: false
+lastHumanReview: true
 readingTime: 7
 # design_rationale:
 #   why_this_hook: "從1996到2024的數字對比——121萬張首專到大巨蛋5場，數字本身說明了她的跨度。"

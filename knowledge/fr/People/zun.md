@@ -1,7 +1,7 @@
 ---
 title: 'Zun : de « porc aux cheveux jaunes » au million sur deux chaînes, le poids solitaire d’un créateur de 27 ans perçu comme une valeur sûre'
 description: 'En janvier 2018, Zhu Yu’en, 19 ans, est devenu le plus jeune YouTuber taïwanais à atteindre le million d’abonnés. Huit ans plus tard, à 27 ans, sa deuxième chaîne a elle aussi dépassé le million, il a acheté son premier logement, et sa petite amie est l’ingénieure Lauren. Derrière le cadeau que les fans lui ont fait en le qualifiant de « courant pur » se dessine un cas taïwanais : un jeune homme qui porte le stigmate de son frère, le personnage que ses fans projettent sur lui, et sa propre solitude.'
-date: '2026-06-03'
+date: 2026-07-15
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '數位與媒體'
@@ -14,10 +14,10 @@ tags:
     'Life Otaku',
     'courant pur',
   ]
-readingTime: '14'
-lastVerified: '2026-06-03'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 11
+lastVerified: 2026-07-15
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/尊.md'
 sourceCommitSha: 'aeb8b0e4'
 sourceContentHash: 'sha256:0d80278055d155a0'

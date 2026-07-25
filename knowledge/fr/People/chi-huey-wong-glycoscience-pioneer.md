@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Sciences et monde académique'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-31
@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
 translatedAt: 2026-05-16T22:26:08Z
+lastHumanReview: false
 ---
 
 # Chi-Huey Wong

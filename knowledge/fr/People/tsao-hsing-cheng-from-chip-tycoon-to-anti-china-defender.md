@@ -17,13 +17,14 @@ subcategory: '商業與政治'
 author: 'Taiwan.md Contributors'
 category: 'People'
 readingTime: 12
-lastVerified: 2026-05-02
+lastVerified: 2026-04-30
 lastHumanReview: false
 translatedFrom: 'People/曹興誠.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:419cc607d70f325a'
 sourceBodyHash: 'sha256:ae002bb900693bc1'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** Robert Tsao est l'un des pionniers de l'industrie taïwanaise des semi-conducteurs ; United Microelectronics Corporation (UMC), qu'il a fondée, a longtemps formé avec TSMC les « deux barons des plaquettes ». Sa vie est faite de contrastes : autrefois partisan de l'expansion vers la Chine et promoteur d'un référendum sur l'unification, il devient à un âge avancé l'un des défenseurs anti-PCC les plus radicaux de Taïwan, allant jusqu'à donner 3 milliards de NT$ pour financer la défense civile. Cette trajectoire reflète le pivot le plus violent de l'âme d'une élite taïwanaise prise entre menaces géopolitiques et réalité commerciale.

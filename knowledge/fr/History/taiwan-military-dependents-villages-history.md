@@ -11,7 +11,7 @@ tags:
     'rénovation urbaine',
   ]
 subcategory: 'Histoire sociale et quotidienne'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 difficulty: 'intermediate'
 readingTime: 12
 category: 'History'

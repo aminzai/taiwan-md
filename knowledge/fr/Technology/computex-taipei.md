@@ -27,7 +27,7 @@ featured: true
 lastVerified: 2026-06-12
 lastHumanReview: false
 difficulty: 'intermediate'
-readingTime: 32
+readingTime: 28
 image: '/article-images/technology/computex-nangang-floor-2011.webp'
 imageCredit: 'Masaru Kamikura via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'

@@ -1,13 +1,13 @@
 ---
 title: 'Compal Electronics'
 description: "Deuxième plus grand leader mondial de la sous-traitance d'ordinateurs portables, acteur clé de l'industrie ODM taïwanaise"
-date: '2026-03-20'
+date: 2026-03-20
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '企業列傳'
 tags: ['Économie', 'Entreprises', 'Sous-traitance électronique', 'ODM']
 readingTime: 12
-lastVerified: '2026-03-20'
+lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：仁寶電腦.md'

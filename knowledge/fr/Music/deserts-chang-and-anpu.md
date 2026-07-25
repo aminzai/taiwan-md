@@ -16,14 +16,15 @@ tags:
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 category: 'Music'
-readingTime: 15
-lastVerified: 2026-05-02
-lastHumanReview: false
+readingTime: 15min
+lastVerified: 2026-04-13
+lastHumanReview: true
 translatedFrom: 'Music/張懸與安溥.md'
 sourceCommitSha: 'f803d0b6'
 sourceContentHash: 'sha256:27ef434e8d6b0605'
 sourceBodyHash: 'sha256:5705b435f269e6ca'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** Chiao Anpu, qui à 13 ans a écrit « Bao Bei », est devenue, sous le nom de scène « Deserts Chang », une voix emblématique de la musique indépendante taïwanaise. En 2013, lors d'un concert au Royaume-Uni, elle brandit le drapeau de la République de Chine et fut bannie du marché chinois ; en 2015, elle abandonne d'elle-même son nom de scène, disparaît trois ans, puis revient sous son vrai nom, « Anpu ». En 2022, dans l'album _9522_, à quarante ans, elle reprend les chansons écrites à quatorze ans et remporte la Chanson de l'année aux Golden Melody Awards. En 2024, une lettre manuscrite félicitant la fête nationale chinoise brise le cœur des fans taïwanais. La même personne, deux fois perdant son public, pour des raisons exactement inverses.

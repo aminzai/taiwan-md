@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:5948ff9d2aa67b97'
 sourceBodyHash: 'sha256:b16f2be3d2468ceb'
 translatedAt: '2026-05-17T06:15:00Z'
+featured: false
 ---
 
 > **En 30 secondes :** En 2023, elle fait ses débuts officiels dans les stades taïwanais ; en 2024, elle rejoint les WeiChuan Dragons ; en 2026, elle est reconduite comme capitaine des Dragon Beauties. Lee Da-hye n'est pas simplement une pom-pom girl coréenne très populaire : elle est le signe d'une époque où les pom-pom girls coréennes à Taïwan passent du « passage éphémère » à l'« implantation durable ».
@@ -50,7 +51,7 @@ Parallèlement, les attentes des supporters taïwanais à son égard ont évolu�
 
 ## 2026 : créneau d'échange avec la KBO et identité visuelle de l'équipe
 
-Lors de la conférence de presse d'ouverture de la saison 2026, les WeiChuan Dragons ont annoncé un partenariat stratégique avec les LG TWINS de la Ligue coréenne de baseball professionnel (KBO). Selon l'édition numérique du *United Daily News* / *UDN News*, les Dragon Beauties dévoilent un tout nouvel uniforme d'inspiration qipao, dessiné par Lee Da-hye ; les représentantes des pom-pom girls des LG TWINS, présentes à la conférence, ont également présenté le programme d'échange entre les deux équipes, annonçant qu'une journée thématique d'animation conjointe entre les WeiChuan Dragons et les LG Twins aurait lieu les 26 et 27 mai au Taipei Dome. [Source : United Daily News / UDN News][^5]
+Lors de la conférence de presse d'ouverture de la saison 2026, les WeiChuan Dragons ont annoncé un partenariat stratégique avec les LG TWINS de la Ligue coréenne de baseball professionnel (KBO). Selon l'édition numérique du _United Daily News_ / _UDN News_, les Dragon Beauties dévoilent un tout nouvel uniforme d'inspiration qipao, dessiné par Lee Da-hye ; les représentantes des pom-pom girls des LG TWINS, présentes à la conférence, ont également présenté le programme d'échange entre les deux équipes, annonçant qu'une journée thématique d'animation conjointe entre les WeiChuan Dragons et les LG Twins aurait lieu les 26 et 27 mai au Taipei Dome. [Source : United Daily News / UDN News][^5]
 
 ## Son influence sur le développement à Taïwan
 
@@ -74,7 +75,7 @@ C'est aussi pourquoi Lee Da-hye mérite d'être inscrite dans le récit des pers
 
 ## Références / Sources
 
-[^5]: *United Daily News* / *UDN News* (journaliste Chen Wan-ching), « CPBL / Le nouvel uniforme dessiné par Lee Da-hye dévoilé pour la première fois — journée thématique conjointe avec les LG TWINS en mai au Taipei Dome », 2026-03-23, https://udn.com/news/story/7002/9397592
+[^5]: _United Daily News_ / _UDN News_ (journaliste Chen Wan-ching), « CPBL / Le nouvel uniforme dessiné par Lee Da-hye dévoilé pour la première fois — journée thématique conjointe avec les LG TWINS en mai au Taipei Dome », 2026-03-23, https://udn.com/news/story/7002/9397592
 
 Autres sources vérifiables :
 

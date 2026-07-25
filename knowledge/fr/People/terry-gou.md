@@ -2,19 +2,19 @@
 title: "Terry Gou : né à Banqiao en 1950, fondateur d'un empire de la sous-traitance de Hon Hai Plastics (1974) à Fortune 500"
 description: "Né le 18 octobre 1950 à Banqiao, comté de Taipei. En 1974, fonde Hon Hai Plastics avec 100 000 NT$ (10 employés). En 1981, se lance dans les connecteurs PC ; en 1982, l'entreprise est rebaptisée Hon Hai Precision. En juin 2019, cède la présidence à Young Liu. En 2021, la fondation Yongling, avec TSMC et Hon Hai, fait don de 15 millions de doses de vaccin BNT. En 2023, se retire 3 heures avant la clôture des inscriptions en tant que candidat indépendant à la présidentielle. En 2024, 32ᵉ au classement Fortune 500 ; en 2026, première fortune de Taïwan (15,3 milliards USD)."
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "科技與企業"
-tags: ["科技與企業", "鴻海", "製造業", "企業家", "Fortune 500", "永齡基金會"]
-readingTime: 7
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '科技與企業'
+tags: ['科技與企業', '鴻海', '製造業', '企業家', 'Fortune 500', '永齡基金會']
+readingTime: 8
 lastVerified: 2026-05-07
 lastHumanReview: true
 featured: false
-translatedFrom: "People/郭台銘.md"
-sourceCommitSha: "0f8fae0ae"
-sourceContentHash: "sha256:981dd62862f57c30"
-sourceBodyHash: "sha256:6bf98169f185af90"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'People/郭台銘.md'
+sourceCommitSha: '0f8fae0ae'
+sourceContentHash: 'sha256:981dd62862f57c30'
+sourceBodyHash: 'sha256:6bf98169f185af90'
+translatedAt: '2026-05-20T05:08:34+08:00'
 ---
 
 # Terry Gou : né à Banqiao en 1950, fondateur d'un empire de la sous-traitance de Hon Hai Plastics (1974) à Fortune 500

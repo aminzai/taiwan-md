@@ -1,7 +1,7 @@
 ---
 title: "Chia Yung-chieh : l'expérience taïwanaise de conversion du capital social de célébrité en force de mobilisation publique"
 description: "Du début de sa carrière en 2000 dans la série du soir de CTS, à la collecte de 68,04 millions de dollars taïwanais en deux jours en 2021 pour équiper les hôpitaux de première ligne de 252 HFNC, puis à sa nomination en 2024 comme sixième présidente du conseil d'administration de Taipei 101, jusqu'au 25 janvier 2026 où elle a fait grimper Alex Honnold en solo intégral les 508 mètres de Taipei 101 en direct mondial — Chia Yung-chieh a tracé un chemin sans précédent à Taïwan : convertir à plusieurs reprises le capital social de célébrité en force de mobilisation publique transsectorielle, chaque franchissement s'accompagnant d'un volume équivalent de contestations, auquel elle répond par une mobilisation encore plus grande."
-date: '2026-05-02'
+date: 2026-05-02
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '藝術、娛樂與媒體'
@@ -16,9 +16,9 @@ tags:
     'mobilisation publique',
     'Alex Honnold',
   ]
-lastVerified: '2026-05-02'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-05-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/賈永婕.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:a92f6a6b22257ffa'

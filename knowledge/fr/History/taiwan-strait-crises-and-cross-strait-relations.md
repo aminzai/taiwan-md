@@ -20,6 +20,7 @@ sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:fcdf343dc3efa72e'
 sourceBodyHash: 'sha256:8952fca56720f010'
 translatedAt: '2026-05-25T21:07:36Z'
+difficulty: 'advanced'
 ---
 
 # Crise du détroit de Taïwan et évolution des relations inter-détroit

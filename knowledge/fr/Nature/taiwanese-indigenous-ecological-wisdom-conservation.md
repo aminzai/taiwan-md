@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Savoirs écologiques autochtones'
 category: 'Nature'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
 translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d162c579da0f2b9c'
 sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
 translatedAt: '2026-04-14T19:22:26+08:00'
+lastHumanReview: false
 ---
 
 # Les savoirs écologiques des peuples autochtones de Taïwan et la protection de l'environnement

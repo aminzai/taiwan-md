@@ -14,7 +14,7 @@ tags:
     transformation numérique,
   ]
 subcategory: "Portraits d'entreprises"
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: false
 translatedFrom: 'Economy/台灣企業：富邦金控.md'
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
 translatedAt: '2026-04-14T19:20:40+08:00'
+lastHumanReview: true
 ---
 
 # Fubon Financial Holdings : l'empire financier des frères Tsai

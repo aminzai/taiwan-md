@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: 'Après-guerre et autoritarisme'
 category: 'History'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 18
 featured: true
 lastVerified: 2026-05-16

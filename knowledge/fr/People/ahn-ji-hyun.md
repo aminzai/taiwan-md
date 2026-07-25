@@ -23,17 +23,18 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:b13816d98f58f322'
 sourceBodyHash: 'sha256:56208a71719992d2'
 translatedAt: 2026-05-17T05:33:00Z
+featured: false
 ---
 
 > **En 30 secondes :** En 2023, lorsque les TSG Hawks ont intégré la CPBL, Ahn Ji-hyun est entrée dans l'écosystème des Wing Stars et s'est durablement placée au premier rang. En mai 2026, pendant que TSG transférait sa série au Taipei Dome, les médias ont rapporté, sous l'angle d'une « luxation de l'épaule droite », ses ajustements en marge du terrain et lors de prestations d'après-match, illustrant que même les renforts étrangers très populaires doivent composer avec les risques corporels et la pression du calendrier.
 
 Lorsque les TSG Hawks ont construit la première version de leur identité de stade, Ahn Ji-hyun se tenait déjà au premier rang. Elle n'était pas une apparition ponctuelle en cours de saison : des événements de pré-saison aux matchs réguliers, elle a grandi avec le système de l'équipe.
 
-Selon la synthèse d'*ETtoday Sports Cloud* sur la conférence de presse de formation des Wing Stars, lorsque le club a dévoilé son dispositif de renforts coréens, il a également mentionné le rôle de leader d'Ahn Ji-hyun au sein de la formation (le reportage décrit la répartition des rôles avec des intitulés tels que « directrice de cheerleading »). [Source : ETtoday Sports Cloud / Eastern Broadcasting][^1]
+Selon la synthèse d'_ETtoday Sports Cloud_ sur la conférence de presse de formation des Wing Stars, lorsque le club a dévoilé son dispositif de renforts coréens, il a également mentionné le rôle de leader d'Ahn Ji-hyun au sein de la formation (le reportage décrit la répartition des rôles avec des intitulés tels que « directrice de cheerleading »). [Source : ETtoday Sports Cloud / Eastern Broadcasting][^1]
 
 ## Mai 2026 : la série au Taipei Dome et l'ajustement face à la blessure
 
-Selon un reportage de *SETN* daté du 1er mai 2026, les TSG Hawks ont disputé une série thématique au Taipei Dome ; le reportage indique que la membre coréenne des Wing Stars Ahn Ji-hyun, en raison d'une luxation de l'épaule droite, n'a pas pu animer selon le format prévu, et décrit la manière dont elle a adapté ses prestations en marge du terrain et après les matchs, notamment par le chant. [Source : SETN][^2]
+Selon un reportage de _SETN_ daté du 1er mai 2026, les TSG Hawks ont disputé une série thématique au Taipei Dome ; le reportage indique que la membre coréenne des Wing Stars Ahn Ji-hyun, en raison d'une luxation de l'épaule droite, n'a pas pu animer selon le format prévu, et décrit la manière dont elle a adapté ses prestations en marge du terrain et après les matchs, notamment par le chant. [Source : SETN][^2]
 
 L'intérêt de ce type de reportage n'est pas de transformer la blessure en rubrique people, mais de souligner ceci : pendant un calendrier dense, l'état physique des cheerleaders réécrit directement « la prestation que l'on peut filmer ». Pour qui cherche à comprendre la spectacularisation du baseball professionnel taïwanais, c'est une réalité structurelle plus digne d'être consignée que les chorégraphies.
 

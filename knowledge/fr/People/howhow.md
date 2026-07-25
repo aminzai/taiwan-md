@@ -1,7 +1,7 @@
 ---
 title: 'Howhow : l’homme qui a exposé les placements de produit au grand jour, et l’honnêteté de plus en plus coûteuse qu’il porte seul'
 description: 'En 2015, un YouTubeur comptant moins de 100 000 abonnés a été envoyé à New York par Samsung. Il pensait qu’on l’y invitait comme photographe et avait enregistré son contact sous le nom de « grand bienfaiteur ». Chen Tzu-hao allait ensuite transformer, avec une phrase — « Passons directement au placement de produit ! » — la publicité que les créateurs cherchent le plus à dissimuler en sa marque de fabrique, portant seul, comme scénariste, réalisateur, acteur et monteur, une chaîne de 1,54 million d’abonnés. Mais il déteste la solitude et a toujours voulu une équipe ; quant aux vidéos longues auxquelles il tient, elles se situent précisément sur le terrain le plus violemment écrasé par les formats courts.'
-date: '2026-05-13'
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '數位與媒體'
@@ -16,7 +16,7 @@ tags:
     'Savannah College of Art and Design',
   ]
 readingTime: 16
-lastVerified: '2026-06-05'
+lastVerified: 2026-06-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/Howhow.md'

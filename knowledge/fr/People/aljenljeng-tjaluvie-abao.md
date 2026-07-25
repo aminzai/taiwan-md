@@ -1,7 +1,7 @@
 ---
 title: "Abao (Aljenljeng Tjaluvie) : la chanteuse future pop qui a porté la langue paiwan jusqu'à l'album de l'année des Golden Melody Awards"
 description: "En 2020, lors de la 31e cérémonie des Golden Melody Awards, le prix de l'album de l'année a été décerné à *kinakaian — La langue de ma mère*, un album entièrement en langue paiwan mêlant musique électronique. Abao (Aljenljeng Tjaluvie, née en 1981 à Taitung, Jinfeng) a débuté en duo R&B avec Abao & Brandy, puis exercé le métier d'infirmière pendant dix ans. En 2019, avec le producteur Dizparity, elle a transformé la langue autochtone en future pop, réécrivant l'équation « musique autochtone = préservation »."
-date: 2020-04-18
+date: 2026-04-18
 tags:
   [
     Personnalité,

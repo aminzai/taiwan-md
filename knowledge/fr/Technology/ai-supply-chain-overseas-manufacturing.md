@@ -19,7 +19,7 @@ tags:
   - 'Wistron'
   - 'Delta Electronics'
 subcategory: 'Semi-conducteurs et matériel'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -60,7 +60,7 @@ Après les années 1990, beaucoup de sous-traitants électroniques taïwanais on
 
 Mais après 2020, les raisons de sortir ont changé. Les entreprises ne sortent plus seulement pour le prix, mais aussi pour disperser le risque. Les clients américains veulent que leurs produits soient fabriqués aux États-Unis ou dans des pays amis. L’Inde, le Vietnam, la Thaïlande et le Mexique offrent des bases d’assemblage hors de Chine. Le Japon et l’Europe veulent relier de nouveau les semi-conducteurs aux chaînes automobile et industrielle.
 
-On appelle souvent ce changement la réduction des risques, ou *de-risking*. Cela n’équivaut pas nécessairement à un découplage total ni à un retour à un monde où chaque pays fabriquerait tout. Cela ressemble davantage à découper en plusieurs nœuds de secours une chaîne trop concentrée et trop dépendante d’un seul lieu.
+On appelle souvent ce changement la réduction des risques, ou _de-risking_. Cela n’équivaut pas nécessairement à un découplage total ni à un retour à un monde où chaque pays fabriquerait tout. Cela ressemble davantage à découper en plusieurs nœuds de secours une chaîne trop concentrée et trop dépendante d’un seul lieu.
 
 Pour Taïwan, c’est un moment très délicat. Les entreprises taïwanaises ont grandi grâce à la mondialisation, et la réduction des risques les pousse aujourd’hui à se redistribuer.
 
@@ -212,12 +212,21 @@ C’est la question la plus importante des usines de la chaîne d’IA à l’é
 ## Références
 
 [^1]: [AP: Nvidia plans to manufacture AI chips in the US for the first time](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — Reportage d’AP sur la production par NVIDIA des puces Blackwell et de superordinateurs d’IA aux États-Unis, qui nomme TSMC Phoenix, Foxconn Houston, Wistron Dallas et la collaboration de SPIL / Amkor pour l’encapsulation et les tests en Arizona.
+
 [^2]: [AP: OpenAI and Taiwan’s Foxconn to partner in AI hardware design and manufacturing in the US](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — Reportage d’AP sur le partenariat entre OpenAI et Foxconn pour concevoir et fabriquer des racks de centres de données d’IA, avec des produits comprenant câblage, équipements réseau et systèmes d’alimentation, et une mention de la répartition des sites américains de Foxconn.
+
 [^3]: [MySA: Plans move forward on $115M electronics factory in Plano](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — Reportage sur l’extension par Delta Electronics de ses installations de production et de bureaux à Plano (Texas), qui récapitule ses centres de R&D et de production existants, la taille ultérieure du campus et son positionnement de fabrication locale aux États-Unis.
+
 [^4]: [Times of India: Delta Electronics pushes for capacity expansion](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — Reportage sur l’extension de l’usine indienne de Delta Electronics à Krishnagiri, qui explique la demande des clients des télécommunications, des centres de données, des véhicules électriques et de l’industrie, ainsi que son déploiement d’une chaîne localisée en Inde.
+
 [^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — Page officielle de TSMC sur l’Arizona, qui expose l’ampleur de l’investissement à Phoenix, les six usines de plaquettes, les deux installations d’encapsulation avancée, le calendrier N4/N3/N2/A16 et les plans de recyclage de l’eau.
+
 [^6]: [AP: TSMC to make advanced AI computer chips in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — Reportage d’AP sur le projet de TSMC de produire des puces 3 nanomètres dans sa deuxième usine de Kumamoto (Japon), qui récapitule la sécurité économique japonaise et la demande liée à l’IA, à la robotique et à la conduite autonome.
+
 [^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — Site officiel d’ESMC, qui explique qu’il s’agit d’une coentreprise entre TSMC, Bosch, Infineon et NXP destinée à bâtir une usine de plaquettes à Dresde (Allemagne) pour servir les marchés européens de l’industrie, de l’IoT, des télécommunications et de l’automobile.
+
 [^8]: [AP: Biden administration announces $6.6 billion to ensure leading-edge microchips are built in the US](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — Reportage d’AP sur les aides du CHIPS and Science Act américain à l’extension de TSMC en Arizona, qui explique comment le gouvernement américain considère la fabrication de puces de pointe comme une question de sécurité de la chaîne et de sécurité nationale.
+
 [^9]: [TIME : lisez l’entretien intégral du président taïwanais Lai Ching-te](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — Dans la transcription intégrale en chinois publiée par TIME, Lai Ching-te évoque les semi-conducteurs comme industrie de division mondiale du travail et la manière dont le gouvernement considère le déploiement de TSMC et d’autres entreprises de semi-conducteurs aux États-Unis, au Japon et en Europe.
+
 [^10]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — Reportage sur l’emploi, le développement local, les ressources hydriques, l’environnement et les controverses sur la sécurité au travail liés à l’expansion du cluster de semi-conducteurs de l’Arizona ; utile pour équilibrer le regard des sociétés locales sur les usines à l’étranger.

@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Culture des peuples'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
 translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:36ecabdcaffefea4'
 sourceBodyHash: 'sha256:561ea7184d1651ca'
 translatedAt: '2026-06-16T17:13:36Z'
+lastHumanReview: false
 ---
 
 # Carte culturelle des 16 peuples autochtones de Taïwan

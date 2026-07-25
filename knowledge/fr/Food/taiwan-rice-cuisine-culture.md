@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Féculents et céréales'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 translatedFrom: 'Food/台灣米食文化.md'
@@ -24,6 +24,8 @@ sourceBodyHash: 'sha256:2354ee60853945b0'
 translatedAt: '2026-04-14T12:29:25+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Rice_Dumpling_%28Zongzi%29.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: false
+difficulty: 'beginner'
 ---
 
 # La culture du riz à Taïwan

@@ -16,7 +16,7 @@ tags:
     'renaissance gastronomique',
   ]
 subcategory: 'Cuisine des peuples'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'Food/台灣原住民飲食文化.md'
@@ -27,6 +27,8 @@ sourceBodyHash: 'sha256:50386f161e8d186f'
 translatedAt: '2026-04-14T12:31:33+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg/960px-Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: false
+difficulty: 'intermediate'
 ---
 
 # Les saveurs autochtones de Taïwan : trois mille ans de mémoire culinaire

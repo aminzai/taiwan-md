@@ -11,7 +11,7 @@ tags:
     'parcs nationaux',
   ]
 subcategory: 'Géographie écologique'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 8
 category: 'Geography'

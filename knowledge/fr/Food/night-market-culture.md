@@ -6,7 +6,7 @@ tags:
   ['marché de nuit', 'street food', 'culture', 'tourisme', 'vie quotidienne']
 subcategory: 'Scènes culinaires'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true

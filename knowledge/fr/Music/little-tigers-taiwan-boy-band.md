@@ -26,6 +26,7 @@ image: '/article-images/music/little-tigers-xiaoyaoyou-album.webp'
 imageCredit: '© 環球音樂（飛碟唱片原發行）'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://music.apple.com/tw/album/逍遥游-2025-remastered/1847895760'
+difficulty: 'intermediate'
 ---
 
 # Little Tigers : des mélodies achetées, une jeunesse à soi

@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Géologie et géothermie'
 category: Nature
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 12
 featured: false
 translatedFrom: 'Nature/台灣溫泉與地熱.md'
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c950b0e6980af7aa'
 sourceBodyHash: 'sha256:76aaf6bdf8e233fe'
 translatedAt: '2026-04-14T19:22:44+08:00'
+lastHumanReview: false
 ---
 
 # Sources chaudes et géothermie à Taïwan

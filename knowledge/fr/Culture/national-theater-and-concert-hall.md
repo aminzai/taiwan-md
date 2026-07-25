@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1b722cc963da8ad2'
 sourceBodyHash: 'sha256:b8e419f98d87f2d4'
 translatedAt: '2026-05-02T11:00:00+08:00'
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** Inaugurées en 1987, les Deux Salles nationales font partie du complexe commémoratif de Tchang Kaï-chek. Le Théâtre national est coiffé d'une toiture de type wudian (le rang le plus élevé), tandis que la Salle nationale de concert porte une toiture de type xieshan (le rang inférieur) — cette différence d'un cran indique qui occupe quelle place. En 2003, le directeur d'alors, Ju Tzong-ching, a fait démanteler la grille de fer située au croisement de la rue Xinyi. En 2004, l'institution est devenue la première personne morale administrative de Taïwan. La directrice artistique actuelle, Liu Yi-ru, déclare : « Si vous rendez les règles du spectacle aussi compliquées, vous filtrez certains spectateurs dès le départ. » Derrière les murs en bois de la salle de concert se cache un orgue néerlandais Flentrop de 4 172 tuyaux — le premier de Taïwan et, à l'époque, le plus grand d'Asie.

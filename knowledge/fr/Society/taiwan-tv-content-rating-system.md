@@ -12,16 +12,17 @@ tags:
     loi martiale,
     protection de l'enfance,
   ]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-04-08
 readingTime: 15
 lastVerified: 2026-04-08
-lastHumanReview: '2026-04-08'
+lastHumanReview: true
 translatedFrom: 'Society/台灣電視分級制度.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
 translatedAt: '2026-04-14T12:32:34+08:00'
+featured: false
 ---
 
 > **Résumé en 30 secondes :** Le système de classification taïwanais fut longtemps une paire de ciseaux. Avant 1983, les films devaient passer une "inspection" et non une simple classification — la censure politique et morale était la norme. En 1993, la polémique autour de Jurassic Park révéla les lacunes du système à trois niveaux, donnant naissance à la catégorie "Protégé". Aujourd'hui, Taïwan dispose d'un système à cinq niveaux couvrant cinéma, télévision, vidéo et jeux vidéo, transformant l'"interdiction" en "orientation", pour protéger à la fois la diversité audiovisuelle et la sécurité des plus jeunes.

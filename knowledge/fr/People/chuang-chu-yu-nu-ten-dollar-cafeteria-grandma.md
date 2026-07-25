@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
 translatedAt: '2026-05-01T22:19:06+08:00'
+featured: false
 ---
 
 > **En 30 secondes :** Chuang Chu-yu-nu (1920-2015) est une philanthrope taïwanaise célèbre, qui tenait pendant des années un « buffet à dix dollars » sous le pont routier du parc de Kaohsiung. Elle offrait à l'origine des repas gratuits aux dockers de sa région natale, puis, face aux coûts croissants, fit payer dix dollars symboliques, tout en maintenant le principe du « manger à sa faim » sans compter les dépenses. Elle vendit sept propriétés au cours de sa vie pour financer sa générosité. Ses funérailles attirèrent plus de trois mille personnes, et son héritage demeure un symbole chaleureux de la société taïwanaise.

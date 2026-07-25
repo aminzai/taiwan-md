@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Géographie écologique'
 category: 'Geography'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
 featured: true

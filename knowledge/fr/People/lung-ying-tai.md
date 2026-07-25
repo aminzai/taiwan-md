@@ -10,7 +10,7 @@ readingTime: 7
 #   whats_excluded: "《親愛的安德烈》《目送》逐章分析；文化部政策清單；與余秋雨對話細節"
 #   where_it_hedges: "出生地大寮（P0確認）vs 現行文章說左營（已修正）；博士學歷：紐約大學德國文學vs堪薩斯州立大學英文系（待確認，兩說均見於資料）"'
 lastVerified: 2026-05-07
-lastHumanReview: false
+lastHumanReview: true
 featured: false
 translatedFrom: 'People/龍應台.md'
 sourceCommitSha: '0f8fae0a'

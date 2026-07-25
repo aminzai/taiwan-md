@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Numérique et médias'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: '坦克'
 readingTime: 9
 lastVerified: 2026-03-23
 lastHumanReview: false

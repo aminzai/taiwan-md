@@ -13,7 +13,7 @@ tags:
     'barbecue de la mi-automne',
   ]
 subcategory: 'Religion et folklore'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
 featured: true

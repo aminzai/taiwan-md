@@ -18,7 +18,7 @@ tags:
   ]
 lastVerified: 2026-06-18
 lastHumanReview: false
-featured: 'canonical-order: 999'
+featured: false
 translatedFrom: 'Music/大象體操.md'
 sourceCommitSha: '72b757bac'
 sourceContentHash: 'sha256:b924c3fdcb2a3347'

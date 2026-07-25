@@ -1,19 +1,20 @@
 ---
 title: "L'industrie textile de Taïwan : du secteur en déclin au champion invisible des vêtements techniques pour les Jeux Olympiques"
 description: "Comment un industrie traditionnel, autrefois considéré comme une 'industrie en déclin', a transformé sa résilience narrative en créant des tenues technologiques noires pour les équipes nationales lors des JO de Paris 2024, grâce au recyclage de bouteilles PET, aux filets de pêche abandonnés et même à la capture du gaz industriel."
-date: '2026-07-20'
+date: 2026-07-20
 category: 'Economy'
 subcategory: '經濟發展'
 tags: ['紡織業', '隱形冠軍', '奧運', '循環經濟', '遠東新', '儒鴻', '聚陽']
-readingTime: '10'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 10
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/紡織業.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:35a33cde93fda77c'
 sourceBodyHash: 'sha256:3e72d2709a13a90b'
 translatedAt: '2026-07-23T23:06:51+08:00'
+author: 'Taiwan.md Contributors'
 ---
 
 > Aperçu de 30 secondes : L'industrie textile de Taïwan était un moteur économique au XXe siècle, mais elle fut étiquetée comme une « industrie en déclin » dans les années 1990 sous la pression des coûts. Cependant, grâce à une transformation technologique de trois décennies, Taïwan fournit aujourd'hui plus de 70 % des tissus techniques pour le sport au monde entier[^1]. De la "confection à partir de gaz" pour l'équipe de Chine lors des JO de Paris 2024[^2] au fait que 23 des 48 équipes utiliseront du fil taïwanais lors des Jeux Mondiaux de 2026[^3], cette île redéfinit les normes de la mode durable mondiale grâce aux déchets et à la haute technologie.

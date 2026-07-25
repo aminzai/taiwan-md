@@ -1,7 +1,7 @@
 ---
 title: 'Comté de Pingtung : le destin national a basculé ici, et Taipei ne s’en est presque jamais souvenu'
 description: 'Le 22 mai 1874, le lieutenant-colonel japonais Sakuma Samata mena 150 hommes dans la gorge de Shimen ; le chef paiwan Aruqu et son fils y trouvèrent la mort. Cette bataille poussa la cour des Qing à renverser sa politique de gouvernement de Taïwan : Shen Baozhen vint créer le district de Hengchun, et le phare d’Eluanbi fut construit en 1883. Les 780 000 habitants du comté de Pingtung sont répartis dans 33 cantons, bourgs et villes ; cinq peuples autochtones y vivent aux côtés des six communes hakka des Liudui. En 2009, à quatre heures trente du matin, les vannes de Linbian ne tinrent plus. L’histoire qui a changé Taïwan est partie deux fois de cette péninsule, mais ce dont la capitale se souvient ne dépasse guère le Spring Scream de Kenting.'
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -23,7 +23,7 @@ tags:
     'Série des 22 villes et comtés',
   ]
 readingTime: 15
-lastVerified: '2026-05-18'
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/屏東縣.md'

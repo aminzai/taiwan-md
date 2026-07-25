@@ -2,19 +2,28 @@
 title: "Le système éducatif et la culture des examens d'entrée"
 description: "Du système d'examens unifiés à l'éducation nationale de douze ans, comment l'éducation taïwanaise cherche l'équilibre entre compétition et diversité"
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Society"
-subcategory: "教育"
-tags: ["éducation", "examens d'entrée", "éducation nationale de douze ans", "éducation professionnelle et technique", "réforme de l'éducation", "culture de la compétition"]
+author: 'Taiwan.md'
+category: 'Society'
+subcategory: '教育'
+tags:
+  [
+    'éducation',
+    "examens d'entrée",
+    'éducation nationale de douze ans',
+    'éducation professionnelle et technique',
+    "réforme de l'éducation",
+    'culture de la compétition',
+  ]
 readingTime: 14
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Society/教育制度與升學文化.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:0a7458b73a859fea"
-sourceBodyHash: "sha256:b2b271a1c8432769"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'Society/教育制度與升學文化.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:0a7458b73a859fea'
+sourceBodyHash: 'sha256:b2b271a1c8432769'
+translatedAt: '2026-05-20T05:08:34+08:00'
+difficulty: 'intermediate'
 ---
 
 # Le système éducatif et la culture des examens d'entrée
@@ -185,15 +194,19 @@ Comment maintenir la qualité et la compétitivité de l'éducation tout en cré
 - [Za School (雜學校)](society/雜學校) — Une fête de l'éducation alternative née après le mouvement étudiant du 18 mars, offrant un espace concret d'imagination en dehors du système centré sur les examens d'entrée.
 
 [^1]: Département des statistiques du ministère de l'Éducation, « Statistiques d'accès à l'enseignement supérieur », https://stats.moe.gov.tw/
+
 [^2]: Ministère de l'Éducation, « Présentation de la politique d'éducation nationale de douze ans », https://www.moe.gov.tw/
+
 [^3]: Ministère de l'Éducation, « Programme général du programme scolaire 108 », https://www.naer.edu.tw/
+
 [^4]: OCDE, « Résultats PISA 2022 », https://www.oecd.org/pisa/
+
 [^5]: Département des statistiques du ministère de l'Éducation, « Portail de consultation des statistiques éducatives », https://stats.moe.gov.tw/
 
 ## Références
 
-- Huang Zhengjie (黃政傑), *Réflexions sur la réforme de l'éducation à Taïwan* (台灣教育改革的省思), https://www.books.com.tw/products/0010471343
-- Yang Siwei (楊思偉), *Analyse de la politique d'éducation nationale de douze ans* (十二年國民基本教育政策解析) (voir également les recherches associées dans la *Revue d'études éducatives*, https://www.edubook.com.tw/OAtw/File/PDf/49202.pdf)
+- Huang Zhengjie (黃政傑), _Réflexions sur la réforme de l'éducation à Taïwan_ (台灣教育改革的省思), https://www.books.com.tw/products/0010471343
+- Yang Siwei (楊思偉), _Analyse de la politique d'éducation nationale de douze ans_ (十二年國民基本教育政策解析) (voir également les recherches associées dans la _Revue d'études éducatives_, https://www.edubook.com.tw/OAtw/File/PDf/49202.pdf)
 - Documents de politique officiels sur le [site du ministère de l'Éducation](https://www.moe.gov.tw/)
 - Informations et données statistiques des établissements scolaires à tous les niveaux
 - Rapports de recherche et d'évaluation liés à la réforme de l'éducation

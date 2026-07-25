@@ -1,7 +1,7 @@
 ---
 title: 'Du Pan Fang‑ge : trois langues, une pièce de paix'
 description: 'Poétesse Hakka d’une génération transculturelle, descendante d’une famille victime du massacre du 28 février 1947. « Pi‑an‑hsi » transforme le rituel de remerciement en un témoignage de survie sous la terreur blanche — pour ceux dont le régime a volé la langue, la phrase la plus cruelle en langue maternelle est écrite pour leurs proches.'
-date: '2026-07-12'
+date: 2026-07-12
 category: 'People'
 subcategory: '文學與詩人 / 客家文化人'
 tags:
@@ -18,7 +18,7 @@ tags:
 author: 'Taiwan.md'
 featured: false
 canonical-order: 120
-lastVerified: '2026-07-12'
+lastVerified: 2026-07-12
 lastHumanReview: false
 researchReport: 'reports/research/2026-07/杜潘芳格.md'
 viewpoint_formed: true

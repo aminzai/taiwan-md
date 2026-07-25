@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: 'Industries technologiques'
 category: 'Technology'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 13
 featured: true

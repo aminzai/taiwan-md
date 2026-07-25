@@ -1,7 +1,7 @@
 ---
 title: 'Présentation des coiffures taïwanaises : des interdictions capillaires aux mèmes, un reflet des mutations sociales'
 description: "En 1969, le ministère de l'Éducation de la République de Chine imposa le crâne rasé comme norme pour les collégiens. En 2005, Du Zhengsheng, alors ministre de l'Éducation, mit fin définitivement à cette interdiction après une protestation de quatre cents élèves, déclarant : « La coiffure peut-elle déterminer si quelqu'un est bon ou mauvais ? » Le crâne des hommes taïwanais reflète ainsi une transition sociale, de la discipline autoritaire à l'expression individuelle. Le mème « la coupe d'A-Zhi », devenu viral ces dernières années, n'en est que le dernier chapitre."
-date: '2026-05-07'
+date: 2026-05-07
 author: 'Taiwan.md'
 category: 'Lifestyle'
 subcategory: '城市生活'
@@ -13,7 +13,7 @@ tags:
     'vie urbaine',
     'mèmes',
   ]
-lastVerified: '2026-05-07'
+lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/台灣髮型介紹.md'

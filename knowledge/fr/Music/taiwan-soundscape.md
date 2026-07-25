@@ -2,7 +2,7 @@
 title: 'Le paysage sonore de Taïwan'
 description: "De l'« Alice, je t'aime » du camion poubelle au chant polyphonique des Bunun — Découvrez Taïwan à l'oreille"
 date: 2026-03-17
-author: 'Contributors de Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'Music'
 subcategory: 'Musique traditionnelle'
 tags:

@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Histoire militaire'
 category: 'History'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 18
 featured: true
 translatedFrom: 'History/二二八事件.md'

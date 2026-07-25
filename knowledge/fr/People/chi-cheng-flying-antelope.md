@@ -8,7 +8,7 @@ subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
-lastHumanReview: false
+lastHumanReview: true
 readingTime: 7
 # design_rationale:
 #   why_this_hook: "從1968年墨西哥奧運決賽那個瞬間切入——10秒51、一面銅牌、台灣第一。這個時刻是她奔跑生涯的定義點，也讓讀者在第一段就知道她跑出了什麼。"

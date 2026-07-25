@@ -14,8 +14,8 @@ tags:
   - 'néolibéralisme'
   - 'capitalisme académique'
   - "commission de réforme de l'éducation"
-readingTime: 12
-lastVerified: 2026-04-25
+readingTime: 20
+lastVerified: 2026-07-16
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣高等教育擴張與退場.md'

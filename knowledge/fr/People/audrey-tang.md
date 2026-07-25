@@ -1,7 +1,7 @@
 ---
 title: 'Audrey Tang : chacune de ses décisions célèbres a consisté à refuser l’étiquette de « génie »'
 description: 'À 8 ans, elle est frappée par un camarade jusqu’à perdre connaissance ; à 14 ans, elle refuse une admission recommandée au lycée Chien Kuo ; à 24 ans, elle fait son coming out transgenre mais refuse de devenir porte-parole ; à 35 ans, sa première condition pour entrer au gouvernement est « pas de bureau ». Le 2 décembre 2025, à Stockholm, elle reçoit le Right Livelihood Award ; sur scène, elle ne dit pas « je », elle dit « nous ».'
-date: '2026-05-16'
+date: 2026-05-16
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '教育與社會'
@@ -19,7 +19,7 @@ tags:
     'Right Livelihood Award',
   ]
 readingTime: 14
-lastVerified: '2026-05-16'
+lastVerified: 2026-05-16
 lastHumanReview: true
 featured: true
 translatedFrom: 'People/唐鳳.md'

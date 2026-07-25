@@ -12,7 +12,7 @@ tags:
     'Maison du Wistaria',
   ]
 subcategory: 'Artisanat et esthétique'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12
 featured: true

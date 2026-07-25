@@ -1,15 +1,15 @@
 ---
 title: 'Taïwan et Corée du Nord : De quatrième exportateur à la confrontation grise des flottes fantômes'
 description: "Taïwan était le quatrième plus grand pays importateur de Corée du Nord, les bureaux de Pyongyang étaient remplis d'ordinateurs Acer et Hsinchu Sanitary. Cette histoire, allant du commerce chaleureux au blocus total, entremêle l'aide agricole secrète, la contrebande maritime et une lutte profonde pour le renseignement de sécurité nationale."
-date: '2026-07-17'
+date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
 subcategory: '民主與治理'
 tags: ['台灣', '北韓', '貿易', '國安', 'MIT', '走私', '金融', '漁業', '考察']
-readingTime: '15'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 15
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/台灣與北朝鮮關係.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:2a45417c9b5c2cf0'

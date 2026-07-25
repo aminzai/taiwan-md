@@ -1,15 +1,15 @@
 ---
 title: "NET : De l'inventaire d'exportation à la garde-robe nationale, le mystère de cette marque de vêtements locale"
 description: "Fondé en 1991, NET a commencé par les stocks d'exportation du 'Shopping Center de Keelung', et il a résisté pendant trente ans face à la concurrence de la fast fashion. Il n'est pas seulement l'une des marques de vêtements locales avec le plus grand nombre de magasins sur toute Taïwan ; grâce à ses 15 années de « dons en magasin » et au récent litige de propriété concernant le Plaza Est de Keelung, il est devenu un mythe commercial chargé d'émotion pour les Taïwanais."
-date: '2026-07-22'
+date: 2026-07-22
 author: 'Taiwan.md Contributors'
 category: 'Economy'
 subcategory: '企業列傳'
 tags: ['NET', '台灣品牌', '服飾產業', '社會企業', '基隆東岸廣場']
-readingTime: '28'
-lastVerified: '2026-07-22'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 28
+lastVerified: 2026-07-22
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/NET.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:34ffbb88716e1c90'

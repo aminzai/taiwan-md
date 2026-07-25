@@ -1,19 +1,29 @@
 ---
-title: "Chen Shu-chu : une marchande de légumes de Taïdong qui a fait don de dizaines de millions accumulés en cinquante ans de petit commerce"
+title: 'Chen Shu-chu : une marchande de légumes de Taïdong qui a fait don de dizaines de millions accumulés en cinquante ans de petit commerce'
 description: "Une marchande de légumes de Taïdong qui a donné des dizaines de millions de dollars sur cinquante ans, et qui dit simplement : « Je ne suis qu'une vendeuse de légumes. »"
 date: 2026-03-19
-tags: [personnalité, philanthropie, Taïdong, marchande, TIME Magazine, Prix Magsaysay, dons à l'éducation]
+tags:
+  [
+    personnalité,
+    philanthropie,
+    Taïdong,
+    marchande,
+    TIME Magazine,
+    Prix Magsaysay,
+    dons à l'éducation,
+  ]
 subcategory: 'Philanthropie et société'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 6
 featured: false
-translatedFrom: "People/陳樹菊.md"
+translatedFrom: 'People/陳樹菊.md'
 lastVerified: 2026-05-16
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:884e3106e00c3ed4'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
-translatedAt: "2026-05-17T06:15:00Z"
+translatedAt: '2026-05-17T06:15:00Z'
+lastHumanReview: true
 ---
 
 > **En 30 secondes :** Chen Shu-chu, née en 1950, tient un étal de légumes au marché central de Taïdong. À 13 ans, elle quitte l'école pour vendre des légumes après le décès de sa mère lors d'un accouchement difficile. Durant plus de cinquante ans, elle a fait don de plusieurs dizaines de millions de dollars à des écoles, des orphelinats et des hôpitaux. En 2010, le magazine TIME la classe parmi les 100 personnalités les plus influentes du monde — le réalisateur Ang Lee rédige lui-même sa présentation. Venue à New York pour recevoir son prix, elle déclare aux journalistes : « Je ne suis qu'une vendeuse de légumes. »[^1]

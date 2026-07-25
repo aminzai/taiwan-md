@@ -14,7 +14,7 @@ tags:
     'Kuroshio',
   ]
 subcategory: 'Faune sauvage'
-author: 'Taiwan.md Translation Team'
+author: '海女'
 readingTime: 12
 category: 'Nature'
 lastVerified: 2026-03-19
@@ -24,6 +24,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:fa8568c6d129180a'
 sourceBodyHash: 'sha256:7c0ff1bf77404541'
 translatedAt: '2026-05-17T05:33:00Z'
+lastHumanReview: false
 ---
 
 # Les cétacés de Taïwan
@@ -132,9 +133,15 @@ Protéger les cétacés, ce n'est pas seulement défendre une espèce animale. C
 ## Références
 
 [^1]: [Enquête sur la population du dauphin blanc de Chine - The News Lens](https://www.thenewslens.com/article/255968) — Confirme l'estimation 2025 à 45-50 individus, dont plus de 60 % présentent des blessures externes.
+
 [^2]: [Plan de conservation des cétacés - Agence de conservation marine, Conseil des affaires maritimes](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — Version publique du Plan de conservation du dauphin blanc de Chine et des cétacés de l'Agence de conservation marine.
+
 [^3]: [Guide de l'observation responsable des baleines - Agence de conservation marine](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — Référentiel d'écotourisme baleinier à Taïwan.
+
 [^4]: [Association taïwanaise des cétacés](https://www.whale.org.tw/) — Organisation civile qui promeut la recherche et la conservation des cétacés à Taïwan.
+
 [^5]: [Fondation Kuroshio Ocean Education](https://www.kuroshio.org.tw/newsite/) — Institut de recherche cétacée et de science participative basé à Hualien.
+
 [^6]: [Taiwan Wilderness Society](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — Organisation de plaidoyer pour la conservation du dauphin blanc de Chine.
+
 [^7]: [Agence de conservation marine, Conseil des affaires maritimes](https://www.oca.gov.tw/) — Autorité taïwanaise de la conservation marine, en charge de la protection des habitats des cétacés et de la régulation des projets de développement.

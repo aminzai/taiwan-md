@@ -25,6 +25,7 @@ sourceCommitSha: '85926aa3b'
 sourceContentHash: 'sha256:4f2929a499d24ac8'
 sourceBodyHash: 'sha256:87f8032127a53d42'
 translatedAt: '2026-05-24T05:06:33+08:00'
+difficulty: 'beginner'
 ---
 
 # La culture taïwanaise du manga et de l'animation

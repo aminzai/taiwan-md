@@ -15,7 +15,7 @@ tags:
     vélo électrique,
   ]
 subcategory: "Portraits d'entreprises"
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: false
 translatedFrom: 'Economy/台灣企業：巨大機械.md'
@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:59a5006dd9b19748'
 sourceBodyHash: 'sha256:ba1854308daac0e3'
 translatedAt: '2026-04-14T19:20:58+08:00'
+lastHumanReview: false
 ---
 
 # Entreprises taïwanaises : Giant Bicycles

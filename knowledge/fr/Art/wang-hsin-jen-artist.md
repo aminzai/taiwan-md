@@ -21,7 +21,7 @@ author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 15
 lastVerified: 2026-04-20
-lastHumanReview: 2026-04-20
+lastHumanReview: true
 translatedFrom: 'Art/王新仁.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:25ec392b5ce7e019'

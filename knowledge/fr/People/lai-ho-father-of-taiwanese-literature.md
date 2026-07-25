@@ -3,7 +3,7 @@ title: 'Lai Ho : le « Mazu de Changhua » en tenue locale, et sa balance qui ne
 description: "À la veille du Nouvel An de 1943, Lai Ho, médecin renommé de Changhua, brûla comme à son habitude les factures impayées de ses patients les plus démunis. Ce médecin, salué comme le « père de la littérature taïwanaise moderne », sauva des vies au scalpel sous l'oppression coloniale tout combattant l'injustice de sa plume. Son œuvre Une « balance » demeure aujourd'hui un symbole culturel de la résistance taïwanaise face à la violence du pouvoir."
 date: 2026-04-28
 author: 'Taiwan.md Contributors'
-category: History
+category: 'People'
 tags:
   [
     'Lai Ho',
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ea423174510ba903'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **En 30 secondes :** Lai Ho (1894-1943) fut le médecin-écrivain le plus influent de la période coloniale japonaise. D'une main, il maniait le scalpel pour soigner les pauvres, ce qui lui valut les surnoms de « Mazu de Changhua » et de « Ho-tzu Sien » ; de l'autre, il tenait la plume pour fonder la littérature taïwanaise en langue vernaculaire et dénoncer les injustices du régime colonial. Sa vie incarne le combat et la dignité des Taïwanais sous la domination japonaise — en particulier sa tradition annuelle de brûler les dettes de ses patients démunis à chaque Nouvel An, ainsi que ses écrits rédigés en prison, qui restent aujourd'hui un modèle d'éthique médicale et d'engagement humaniste.

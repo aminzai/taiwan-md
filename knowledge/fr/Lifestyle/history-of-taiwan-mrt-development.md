@@ -17,7 +17,7 @@ tags:
     finances,
   ]
 subcategory: 'Transports et mobilité'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md 編輯團隊'
 readingTime: 15
 featured: true
 category: 'Lifestyle'

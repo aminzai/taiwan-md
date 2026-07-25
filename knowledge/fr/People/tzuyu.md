@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Musique et spectacle'
 category: People
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 16
 featured: true
 translatedFrom: 'People/周子瑜.md'
@@ -23,6 +23,7 @@ sourceCommitSha: 'd520299b'
 sourceContentHash: 'sha256:08c9b5bb374704b8'
 sourceBodyHash: 'sha256:4b373fac57d731f0'
 translatedAt: '2026-04-14T19:14:43+08:00'
+lastHumanReview: true
 ---
 
 > **En 30 secondes :** Chou Tzu-yu est née en 1999 à Tainan. À 13 ans, elle quitte sa famille pour devenir stagiaire chez JYP Entertainment. Quarante-sept jours après ses débuts, une caméra la filme pendant huit secondes tenant le drapeau de la République de Chine lors d'une émission coréenne — un internaute chinois fait une capture d'écran. Deux mois plus tard, la veille de l'élection présidentielle taïwanaise, une vidéo de 90 secondes dans laquelle elle présente ses excuses est diffusée. Des chercheurs estiment que cette vidéo a influé sur la décision de 1,34 million de jeunes électeurs[^8]. Depuis, elle n'a jamais prononcé un mot au sujet de ces 90 secondes. Elle a continué à danser, à sortir des albums, à être la danseuse principale et la benjamine de TWICE. Dix ans plus tard, elle est enfin rentrée à Kaohsiung pour lire devant 55 000 personnes une lettre écrite de sa main : « Je ne suis pas partie, non par obéissance ou docilité, mais parce que j'en avais vraiment le désir et l'envie. » Toute la salle a pleuré avec elle.

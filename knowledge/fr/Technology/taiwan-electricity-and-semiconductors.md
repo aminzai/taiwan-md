@@ -17,7 +17,7 @@ tags:
   - 'matériel d’IA'
   - 'chaîne d’approvisionnement'
 subcategory: 'Semi-conducteurs et matériel'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -190,6 +190,9 @@ Les semi-conducteurs ont rendu Taïwan nécessaire au monde. L’électricité l
 ## Références
 
 [^1]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — Rend compte du plan d’économies d’énergie de TSMC sur l’EUV, de l’ordre de grandeur de sa consommation totale et de la proportion d’économies des outils ; utile pour expliquer la coexistence des gains d’efficacité et de la pression sur le total.
+
 [^2]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — Rend compte de l’alerte de l’Association taïwanaise de l’industrie des semi-conducteurs sur la stabilité électrique et l’approvisionnement en renouvelables, et récapitule RE100, la demande d’énergie verte des usines de plaquettes et le risque de transfert à l’étranger.
+
 [^3]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — Étudie l’empreinte environnementale de 16 fabricants taïwanais de composants électroniques entre 2015 et 2020 et pose que l’énergie, l’eau et les émissions augmentent avec la croissance de la production, ainsi que le risque de carbon lock-in.
+
 [^4]: [AP: Taiwan lawmakers survive recall vote; nuclear power referendum fails](https://apnews.com/article/taiwan-recall-vote-nuclear-referendum-2efa596845858a7e4bd89e0c23af39b8) — Reportage d’AP sur le résultat du référendum de 2025 concernant la prolongation de la troisième centrale nucléaire de Taïwan, qui explique aussi comment les partisans du nucléaire intègrent les tarifs et la demande électrique de l’IA à leur argumentaire.

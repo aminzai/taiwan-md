@@ -17,13 +17,14 @@ subcategory: '藝術園區'
 author: 'Taiwan.md'
 category: 'Culture'
 readingTime: 10
-lastVerified: 2026-05-02
-lastHumanReview: false
+lastVerified: 2026-04-19
+lastHumanReview: true
 translatedFrom: 'Culture/國立故宮博物院.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a6a3b3bae8b8f64b'
 sourceBodyHash: 'sha256:a2026a7fcf36b68c'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 # Musée national du Palais : la longue marche centenaire, des caisses sous les bombes aux mirages de l'IA

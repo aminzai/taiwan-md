@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Cinéma et Théâtre'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
@@ -21,6 +21,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:266bd954eeb032d3'
 sourceBodyHash: 'sha256:c06a0cb5b90069e3'
 translatedAt: '2026-05-17T06:15:00Z'
+lastHumanReview: false
 ---
 
 # Guei Lun-Mei : une actrice discrète et d'une rare profondeur

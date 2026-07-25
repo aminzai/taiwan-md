@@ -1,7 +1,7 @@
 ---
 title: 'Pensée archipélagique : replacer Taïwan sur la carte du monde malais'
 description: "Taïwan n'est pas seulement une île isolée aux marges du monde chinois : c'est aussi l'extrémité nord-est du monde malais, le foyer originel des langues austronésiennes et le point de départ de leur diffusion dans le Pacifique. Faites pivoter la carte de 30 degrés vers le sud, et vous verrez apparaître un autre système de coordonnées, parfaitement cohérent mais longtemps omis."
-date: '2026-05-17'
+date: 2026-05-17
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '文化地理'
@@ -14,7 +14,7 @@ tags:
     'peuples autochtones',
     'géographie culturelle',
   ]
-lastVerified: '2026-05-17'
+lastVerified: 2026-05-17
 lastHumanReview: false
 featured: true
 translatedFrom: 'Culture/群島思維.md'

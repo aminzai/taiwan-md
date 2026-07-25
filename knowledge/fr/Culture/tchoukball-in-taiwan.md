@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Culture sportive'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 translatedFrom: 'Culture/巧固球.md'
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:01a29994f0cdcf17'
 sourceBodyHash: 'sha256:620db6741686fb51'
 translatedAt: '2026-06-22T00:30:00+08:00'
+lastHumanReview: false
 ---
 
 ## Origines et introduction à Taïwan

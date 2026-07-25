@@ -1,19 +1,20 @@
 ---
 title: 'Muscle Mountain'
 description: 'Créateur sud-coréen basé à Taïwan, il a bâti son influence communautaire grâce au fitness et à un humour bilingue, puis a introduit des saveurs quotidiennes coréennes dans les supérettes taïwanaises via une collaboration avec Hi-Life.'
-date: 2026-04-15
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: People
 subcategory: '流行人物'
 tags: ['流行人物', '肌肉山山', '韓國', 'YouTuber', '在台韓國人', '超商', '台灣']
 readingTime: 9
-lastVerified: 2026-04-15
+lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: People/肌肉山山.md
 sourceCommitSha: '859d7316'
 sourceContentHash: 'sha256:a9c781639a414788'
 sourceBodyHash: 'sha256:d1cce1c9cb32c2ba'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** Muscle Mountain est un YouTuber sud-coréen installé à Taïwan depuis plusieurs années, qui s'est fait connaître grâce au fitness, à la vie quotidienne et à des interactions bilingues chinois-coréen. Du côté de la distribution taïwanaise, sa collaboration avec Hi-Life (une chaîne de supérettes de proximité) a permis d'intégrer « saveurs de chez soi + protéines » directement dans les rayons.

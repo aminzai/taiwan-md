@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1274f9fb56a6cca0'
 sourceBodyHash: 'sha256:98226e940e464d18'
 translatedAt: 2026-05-03T23:14:07+08:00
+difficulty: 'intermediate'
 ---
 
 # Cho Jung-tai : de l'assistant parlementaire de Hsieh Chang-ting au coordinateur qui refusa de cosigner la loi sur la répartition des recettes fiscales

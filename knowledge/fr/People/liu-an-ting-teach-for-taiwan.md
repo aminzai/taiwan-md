@@ -16,7 +16,7 @@ tags:
   ]
 category: 'People'
 subcategory: 'Éducation et société'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 14
 featured: true
 lastVerified: 2026-04-12
@@ -25,6 +25,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f5a74a02db786491'
 sourceBodyHash: 'sha256:8514a8a697807f6e'
 translatedAt: '2026-04-14T19:14:30+08:00'
+lastHumanReview: false
+difficulty: 'intermediate'
 ---
 
 > **En 30 secondes :** Liu An-Ting est née en 1989 à Taipei et a grandi à Taichung[^1]. Son père, Liu Yi-Chung, a fondé la fondation sociale Lin Ye Sheng ; sa mère, Lin Yi-Rong, est professeure de musique à l'école expérimentale annexe de l'université d'éducation de Taichung et présidente de la fondation caritative Lin Ye Sheng[^2]. En 2008, après avoir obtenu simultanément des admissions à la NTU (département de littérature anglaise et de science politique) et dans dix universités américaines, elle choisit Princeton — avec une bourse complète[^1]. Pendant ses quatre années d'études, elle enseigne dans des salles de classe en terre battue au Ghana, dans des écoles sous tentes en Haïti, dans des prisons pour jeunes adultes aux États-Unis, dans des banlieues défavorisées de Paris et sur des sites de génocide au Cambodge[^3]. À 23 ans, elle démissionne de son poste de consultante à New York et rentre à Taïwan. En 2013, elle lance **Teach For Taiwan (TFT)** avec un capital de 2 000 dollars taïwanais, neuf personnes et huit écoles à Tainan et Taitung[^4]. En 2016, lors de la cérémonie de remise de diplômes de l'université Cheng Kung, sa question — « **Que faites-vous de votre chance ?** » — est partagée des centaines de milliers de fois et devient un slogan collectif pour toute une génération[^5]. Mais sa phrase la plus constante reste : « **Ne me faites pas confiance en tant qu'individu.** »[^6] En 2024, après le dixième anniversaire de TFT, elle passe la présidence du conseil d'administration à Lin Yan-Xi et devient administratrice[^7]. En onze ans, TFT a formé plus de 400 membres du programme dans neuf comtés, 85 écoles, auprès de plus de 7 500 élèves[^8]. Mais le chef-d'œuvre de Liu An-Ting n'est peut-être pas TFT lui-même — c'est **d'avoir pratiqué, dès le premier jour, l'art de s'en aller**.

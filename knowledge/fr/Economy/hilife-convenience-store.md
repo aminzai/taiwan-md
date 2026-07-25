@@ -1,16 +1,16 @@
 ---
 title: "Hi-Life : Du rouge de Guangquan au vert du Liânbāng, la résistance spirituelle du 'troisième supermarché' de Taïwan"
 description: "Comment Hi-Life, le seul des quatre chaînes de convenience à avoir une ascendance purement locale, a trouvé sa voie entre l'écrasement par 7-ELEVEN et FamilyMart ? Une restructuration majeure en 2023 changera-t-elle le génome de cette enseigne historique de 35 ans ?"
-date: '2026-07-21'
+date: 2026-07-21
 author: 'Taiwan.md Contributors'
 category: 'Economy'
 subcategory: '企業列傳'
 tags:
   ['萊爾富', '便利商店', '聯邦集團', '光泉', '數位轉型', '經營權', '零售金融']
-readingTime: '12'
-lastVerified: '2026-07-21'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-21
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/萊爾富.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:16de3ef9123d401b'

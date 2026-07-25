@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Société'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 14
 lastVerified: 2026-04-08

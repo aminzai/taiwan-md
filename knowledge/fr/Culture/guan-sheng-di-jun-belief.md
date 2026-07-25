@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Religion et traditions populaires'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false
 translatedFrom: 'Culture/關聖帝君信仰.md'
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
 translatedAt: '2026-04-14T19:13:14+08:00'
+lastHumanReview: false
 ---
 
 # Guan Yu : comment un général vaincu est devenu le dieu universel de Taïwan

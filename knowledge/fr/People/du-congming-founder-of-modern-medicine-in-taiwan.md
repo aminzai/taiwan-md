@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: 'Personnages historiques'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-31
@@ -24,6 +24,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
 translatedAt: 2026-05-16T22:26:08Z
+lastHumanReview: false
 ---
 
 # Du Cong-ming

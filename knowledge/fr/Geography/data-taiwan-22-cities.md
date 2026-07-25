@@ -1,7 +1,7 @@
 ---
 title: "Taïwan en données, 22 villes et comtés : entre le plus dense et le plus vide, un écart de 151 fois ; entre le plus âgé et le plus jeune, près d'une génération"
 description: "Sur une même île, Taipei, la ville à la plus forte densité de population, compte 8 975 habitants par kilomètre carré, tandis que le comté de Taitung, le moins dense, n'en compte que 59, soit un écart de 151 fois. Nouveau Taipei, le territoire le plus peuplé, compte 4,04 millions d'habitants ; le comté de Lienchiang, le moins peuplé, 13 600, soit un écart de 297 fois. Le comté de Hsinchu, le plus jeune, affiche un taux de vieillissement de 15,08 %, tandis que le comté de Chiayi, le plus âgé, atteint 24,11 %, soit près d'une génération d'écart. À partir des données officielles du Département de l'enregistrement des ménages du ministère de l'Intérieur à la fin de 2025, voici le portrait gradué et vérifiable de toute l'île : sept habitants sur dix concentrés sur trois dixièmes du territoire ; le front avancé du vieillissement situé non pas dans les métropoles, mais dans l'Est, les îles périphériques et les comtés agricoles ; et, dans les 22 villes et comtés de Taïwan sans exception, des décès déjà plus nombreux que les naissances."
-date: '2026-06-06'
+date: 2026-06-06
 author: 'Taiwan.md'
 category: 'Geography'
 subcategory: '人口與區域'
@@ -19,7 +19,7 @@ tags:
     'série des 22 villes et comtés',
   ]
 readingTime: 13
-lastVerified: '2026-06-06'
+lastVerified: 2026-06-06
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/用數據看台灣22縣市.md'

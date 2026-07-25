@@ -14,7 +14,7 @@ tags:
   ]
 category: 'People'
 subcategory: 'Art et création'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 readingTime: 8
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7bf4114050e0bd18'
 sourceBodyHash: 'sha256:56cd3707ce723649'
 translatedAt: '2026-04-14T19:15:40+08:00'
+lastHumanReview: false
 ---
 
 > **En 30 secondes :** Li Mei-shu ne fut pas seulement un peintre primé aux expositions officielles de Taïwan — il est le seul artiste de l'île à avoir dirigé la reconstruction d'un temple traditionnel avec une vision résolument académique. À partir de 1947, il consacra 36 ans à la reconstruction du temple Zushi de Sanxia, créant un phénomène sans précédent d'hybridation entre Orient et Occident, si bien que cet humble sanctuaire rural fut salué comme un « Palais des arts de l'Orient ».

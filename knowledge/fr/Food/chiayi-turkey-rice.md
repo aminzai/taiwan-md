@@ -1,7 +1,7 @@
 ---
 title: "Le riz au dinde de Chiayi : une carte d'identité urbaine à trente yuans"
 description: "Après la Seconde Guerre mondiale, les troupes américaines ont introduit la dinde à Chiayi. Un cuisinier du nom de Lin Tianshou a effiloché la viande de dinde, l'a nappée de sauce braisée et l'a servie sur du riz blanc. Soixante-dix ans plus tard, ce bol de riz à trente yuans est devenu le premier du classement des dix plats emblématiques de Taïwan, élu par l'Agence de l'agriculture et de l'alimentation. Les habitants de Chiayi peuvent se disputer pendant tout le Nouvel An pour savoir « lequel est le meilleur », mais il y a une chose sur laquelle ils ne débattent pas : le riz au dinde, c'est Chiayi."
-date: '2026-04-24'
+date: 2026-04-24
 author: 'zaious'
 category: 'Food'
 subcategory: '地方美食'
@@ -14,8 +14,8 @@ tags:
     'riz au dinde de Pénshui',
     'gastronomie de Chiayi',
   ]
-readingTime: '8'
-lastVerified: '2026-04-24'
+readingTime: 8
+lastVerified: 2026-04-24
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/嘉義火雞肉飯.md'

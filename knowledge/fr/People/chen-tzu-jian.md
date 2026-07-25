@@ -16,12 +16,16 @@ tags:
     'Hello! Puis-je poser une question ?',
     'Séjour à Tokyo',
   ]
-lastHumanReview: '2026-04-20'
+lastHumanReview: true
 translatedFrom: 'People/陳子見.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b4ed377dcae75954'
 sourceBodyHash: 'sha256:5225e3163bb10fe2'
 translatedAt: '2026-05-01T22:19:06+08:00'
+author: 'Taiwan.md'
+date: 2026-04-20
+featured: false
+lastVerified: 2026-01-01
 ---
 
 ## Aperçu en 30 secondes

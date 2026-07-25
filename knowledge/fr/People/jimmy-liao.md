@@ -1,7 +1,7 @@
 ---
 title: "Jimmy Liao : ces images classées comme « thérapeutiques » sont celles qu'un survivant de la leucémie a rapportées d'un bocal de verre"
 description: "En 1995, Liao Fu-pin, directeur artistique publicitaire âgé de 37 ans, reçoit un diagnostic de leucémie aiguë myéloïde et salue ses amis à travers la vitre d'une chambre stérile. Après sa sortie de l'hôpital, ces « petits personnages » qui lui servaient jusque-là à gagner sa vie prennent vie : il commence à dessiner Le Poisson qui souriait, La Lune a oublié, À gauche, à droite, puis Le Métro. Derrière ce dont les Taïwanais se souviennent comme une esthétique de la consolation, une culture de wenqing, la place Jimmy Liao de Luodong à Yilan, se trouve un homme revenu de l'enfer, qui a traduit la mort et la solitude en une forme lisible ; cette œuvre est ensuite devenue un territoire traversant cinéma, comédie musicale, cirque et art public, et faisait encore l'objet d'une exposition spéciale du 25e anniversaire à Hong Kong en 2026."
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '藝術與設計'
@@ -16,7 +16,7 @@ tags:
     'adaptation cinématographique',
   ]
 readingTime: 12
-lastVerified: '2026-06-21'
+lastVerified: 2026-06-21
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/幾米.md'

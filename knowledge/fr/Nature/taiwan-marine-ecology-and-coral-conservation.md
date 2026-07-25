@@ -12,7 +12,7 @@ tags:
     'biodiversité',
   ]
 subcategory: 'Parcs nationaux et sentiers'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 13
 featured: false
 category: 'Nature'

@@ -11,7 +11,7 @@ tags:
     'marketing affilié',
   ]
 subcategory: 'Industrie et économie'
-author: 'Taiwan.md Translation Team'
+author: 'p3nchan'
 readingTime: 8
 category: 'Economy'
 lastVerified: 2026-03-29
@@ -21,6 +21,7 @@ sourceCommitSha: 'cfaa22a5'
 sourceContentHash: 'sha256:3036381a51c763ef'
 sourceBodyHash: 'sha256:ccfe4d55665e1140'
 translatedAt: '2026-04-14T19:21:33+08:00'
+lastHumanReview: false
 ---
 
 > Le marché de la publicité d'influence à Taïwan représente environ 210 millions de dollars — moins de 1 % du marché américain. Pourtant, un créateur taïwanais de taille moyenne gère simultanément 5 à 7 plateformes — YouTube, Instagram, Facebook, Threads, Podcast, blog, LINE — soit presque le double de ses homologues américains de même envergure. Marché minuscule, plateformes ultra-fragmentées, monétisation par affiliation plutôt que par abonnement : les règles du jeu sont totalement différentes.

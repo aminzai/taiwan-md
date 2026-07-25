@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Climat et sources thermales'
 category: 'Geography'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 lastVerified: 2026-03-23
 lastHumanReview: false
@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1c19912f3b7cdf1b'
 sourceBodyHash: 'sha256:ff4a4e3156ba7d86'
 translatedAt: '2026-04-15T17:33:45+08:00'
+featured: false
 ---
 
 > **Vue d'ensemble en 30 secondes :** Taïwan est l'une des chaînes de montagnes les plus jeunes du monde, et pourtant l'île conserve des roches vieilles de plus de 200 millions d'années.

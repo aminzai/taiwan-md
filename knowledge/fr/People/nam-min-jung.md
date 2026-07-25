@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:6b588911c485c4d9'
 sourceBodyHash: 'sha256:3582a490ea4120f2'
 translatedAt: '2026-05-17T06:15:00Z'
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** Le mot-clé associé à Nam Min-jung n'est pas « viralité », c'est « reconduction ». Elle occupe de manière continue des positions à forte visibilité chez Fubon, transformant la présence de cheerleaders sud-coréennes à Taïwan d'un phénomène ponctuel en une routine professionnelle prévisible.
@@ -31,7 +32,7 @@ Elle possède une solide expérience scénique dans le milieu du cheerleading su
 
 En 2026, lorsque Fubon a maintenu sa configuration centrale de cheerleaders sud-coréennes, Nam Min-jung figurait toujours dans l'alignement principal. Cela signifie que son rôle a été institutionnalisé, et qu'il ne s'agit plus d'une simple expérimentation commerciale de court terme.
 
-En mars 2026, dans son article sur la conférence de presse d'ouverture des Fubon Angels, l'édition numérique du *United Daily News* / *UDN News* rapporte que plusieurs membres coréennes, dont Nam Min-jung, ont salué les supporters en chinois, et mentionne notamment qu'elle s'est présentée en taïwanais — autant de détails d'interaction relevés sur place. [Source : United Daily News / UDN News][^6]
+En mars 2026, dans son article sur la conférence de presse d'ouverture des Fubon Angels, l'édition numérique du _United Daily News_ / _UDN News_ rapporte que plusieurs membres coréennes, dont Nam Min-jung, ont salué les supporters en chinois, et mentionne notamment qu'elle s'est présentée en taïwanais — autant de détails d'interaction relevés sur place. [Source : United Daily News / UDN News][^6]
 
 ## Positionnement chez Fubon : un noyau stable
 
@@ -62,7 +63,7 @@ Si la première vague de cheerleaders sud-coréennes relevait de la « nouveaut�
 
 ## Références / Sources
 
-[^6]: *United Daily News* / *UDN News*, « CPBL / Les cinq renforts coréennes des Fubon Braves apparaissent ensemble — Lee Ju-eun, “je vous ai trop manqués”, fond en larmes d'émotion », 2026-03-25, https://udn.com/news/story/7002/9402487
+[^6]: _United Daily News_ / _UDN News_, « CPBL / Les cinq renforts coréennes des Fubon Braves apparaissent ensemble — Lee Ju-eun, “je vous ai trop manqués”, fond en larmes d'émotion », 2026-03-25, https://udn.com/news/story/7002/9402487
 
 Autres sources vérifiables :
 

@@ -13,6 +13,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c876a6c84ad1bc82'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** Le croissant doré de Sanxia, ce cadeau de voyage célèbre dans tout Taïwan, a une histoire bien plus riche qu'on ne le croit. Il ne descend pas du croissant européen, mais a été créé par le maître pâtissier chinois **Luo Fuqing**, inspiré par un « pain philippin » lors d'un voyage en avion, puis perfectionné à son retour à Taïwana en intégrant les techniques de la pâtisserie chinoise. Sa texture unique, résolument « robuste », provient de passages répétés au laminoir pour chasser l'air et d'une cuisson généreuse au beurre, reflétant la quête taïwanaise d'aliments consistants et nourrissants. De la ruelle modeste à la spécialité de la vieille rue, le croissant doré n'est pas qu'un souvenir gustatif : c'est un condensé de la culture locale et du développement commercial de Sanxia, pilier de l'identité olfactive de cette petite ville.

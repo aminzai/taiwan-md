@@ -12,7 +12,7 @@ tags:
   ]
 category: 'Art'
 subcategory: 'Cinéma et télévision'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 7
 featured: false
 lastVerified: 2026-03-30
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:37996f439df838f6'
 sourceBodyHash: 'sha256:0818e9fb5c8333f5'
 translatedAt: '2026-05-13T01:08:41Z'
+lastHumanReview: false
 ---
 
 # Q Series : comment un fabricant d'ordinateurs a planté les graines de la renaissance du drama taïwanais

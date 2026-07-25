@@ -5,7 +5,15 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '民主與政治'
-tags: ['mouvements sociaux', 'participation citoyenne', 'démocratie', 'mouvement étudiant des Lys sauvages', 'mouvement des Tournesols', 'réforme sociale']
+tags:
+  [
+    'mouvements sociaux',
+    'participation citoyenne',
+    'démocratie',
+    'mouvement étudiant des Lys sauvages',
+    'mouvement des Tournesols',
+    'réforme sociale',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,6 +23,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:3135e379b382138b'
 sourceBodyHash: 'sha256:8080c3b51d96ed0a'
 translatedAt: '2026-05-20T05:08:34+08:00'
+difficulty: 'intermediate'
 ---
 
 # Mouvements sociaux et participation citoyenne
@@ -289,16 +298,20 @@ L’expérience des mouvements sociaux à Taïwan montre comment une société p
 - [justfont et le développement des polices de caractères à Taïwan : brève histoire typographique, de vingt-cinq ans de DynaComware aux soixante-seize minutes de Jinxuan](/technology/justfont與台灣字體發展) — autre cas, la même année, où le financement participatif a transformé la perception culturelle, en prolongeant le récit de la société civile du point de vue de l’infrastructure typographique
 - [Câbles sous-marins : visibles au sommet du bouclier de silicium, invisibles sous les lignes vitales](/technology/海底電纜) — la législation des sept lois sur les câbles sous-marins, la plateforme de défense conjointe de Pingtung et le premier précédent judiciaire du Hong Tai 58 montrent l’axe par lequel la pression de la société civile pousse la législation sur les infrastructures de sécurité nationale
 
-[^1]: Ho Ming-sho, « Documents historiques sur le mouvement étudiant des Lys sauvages », dans *Génération des mouvements étudiants : des Lys sauvages aux Tournesols*, https://www.books.com.tw/products/0010642379
-[^2]: Hsiao Hsin-huang (dir.), *Les nouveaux mouvements sociaux de Taïwan*, Chuliu Book, https://www.books.com.tw/products/0010479654
+[^1]: Ho Ming-sho, « Documents historiques sur le mouvement étudiant des Lys sauvages », dans _Génération des mouvements étudiants : des Lys sauvages aux Tournesols_, https://www.books.com.tw/products/0010642379
+
+[^2]: Hsiao Hsin-huang (dir.), _Les nouveaux mouvements sociaux de Taïwan_, Chuliu Book, https://www.books.com.tw/products/0010479654
+
 [^3]: Yuan judiciaire, « Loi d’application de l’interprétation n° 748 », https://cons.judicial.gov.tw/
+
 [^4]: Taiwan Environmental Information Association, « Déroulement de l’incident anti-DuPont », https://e-info.org.tw/
+
 [^5]: Yuan judiciaire, « Interprétation n° 748 des grands juges », https://cons.judicial.gov.tw/
 
 ## Références
 
-- Ho Ming-sho, *[Introduction aux mouvements sociaux](https://www.books.com.tw/products/0010294565)*
-- Hsiao Hsin-huang, *[Les nouveaux mouvements sociaux de Taïwan](https://www.books.com.tw/products/0010479654)*
-- Lin Chia-lung et Zheng Yongnian (dir.), *[Transition et consolidation démocratiques](https://www.books.com.tw/products/0010008479)*
-- *[Génération des mouvements étudiants : des Lys sauvages aux Tournesols](https://www.books.com.tw/products/0010642379)*
+- Ho Ming-sho, _[Introduction aux mouvements sociaux](https://www.books.com.tw/products/0010294565)_
+- Hsiao Hsin-huang, _[Les nouveaux mouvements sociaux de Taïwan](https://www.books.com.tw/products/0010479654)_
+- Lin Chia-lung et Zheng Yongnian (dir.), _[Transition et consolidation démocratiques](https://www.books.com.tw/products/0010008479)_
+- _[Génération des mouvements étudiants : des Lys sauvages aux Tournesols](https://www.books.com.tw/products/0010642379)_
 - Sites officiels de divers groupes de mouvements sociaux et documentaires connexes

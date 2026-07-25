@@ -1,15 +1,15 @@
 ---
 title: "Le système des chefs de village et de quartier : 7 748 élus, l'unité politique la plus locale de Taïwan"
 description: "Le bureau de quartier à cinq heures et demie du matin, une indemnité mensuelle de 45 000 NT$, plus de 60 % sans étiquette partisane — le chef de village ou de quartier est le mandat électif le moins « politique » des élections taïwanaises, et pourtant la preuve la plus complète de la démocratisation de l''île. Du système baojia de l''ère coloniale japonaise à l''élection directe en 1950, ces 7 748 postes — plus nombreux que les 7-Eleven — assurent depuis quatre-vingts ans la gestion locale des relations de proximité."
-date: '2026-05-27'
+date: 2026-05-27
 author: 'Taiwan.md'
 category: 'Politics'
 subcategory: '選舉制度'
 tags: ['村里長', '基層自治', '地方制度法', '日治保甲', '2026選舉']
-readingTime: '12'
-lastVerified: '2026-05-27'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-05-27
+lastHumanReview: false
+featured: false
 translatedFrom: 'Politics/村里長制度.md'
 sourceCommitSha: '837e22b9'
 sourceContentHash: 'sha256:cce4699f9fdc3697'

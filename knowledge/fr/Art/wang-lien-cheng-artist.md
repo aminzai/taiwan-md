@@ -21,7 +21,7 @@ tags:
   ]
 readingTime: 15
 lastVerified: 2026-04-20
-lastHumanReview: 2026-04-20
+lastHumanReview: true
 featured: false
 translatedFrom: 'Art/王連晟.md'
 sourceCommitSha: '4b6d28c5'

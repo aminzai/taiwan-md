@@ -1,20 +1,29 @@
 ---
-title: "Les symboles zhuyin : le code propre à Taïwan"
+title: 'Les symboles zhuyin : le code propre à Taïwan'
 description: "Le seul système de romanisation encore utilisé au quotidien dans le monde — comment les symboles zhuyin, nés il y a un siècle d'une simplification de caractères anciens, sont devenus le code partagé de 23 millions de personnes"
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Culture"
-subcategory: "語言與文字"
-tags: ["zhuyin", "langue", "éducation", "identité culturelle", "méthode de saisie", "ㄅㄆㄇ"]
+author: 'Taiwan.md'
+category: 'Culture'
+subcategory: '語言與文字'
+tags:
+  [
+    'zhuyin',
+    'langue',
+    'éducation',
+    'identité culturelle',
+    'méthode de saisie',
+    'ㄅㄆㄇ',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
-translatedFrom: "Culture/注音符號.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:60ed5696349fd181"
-sourceBodyHash: "sha256:220255acfc6a8977"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'Culture/注音符號.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:60ed5696349fd181'
+sourceBodyHash: 'sha256:220255acfc6a8977'
+translatedAt: '2026-05-20T05:08:34+08:00'
+difficulty: 'beginner'
 ---
 
 # Les symboles zhuyin : le code propre à Taïwan
@@ -129,7 +138,10 @@ En cette époque de changements rapides, les zhuyin nous rappellent que **certai
 
 ## Références
 
-[^1]: Ministère de l'Éducation de la République de Chine, *Guide d'enseignement des symboles zhuyin*, édition 2024, https://language.moe.gov.tw/
+[^1]: Ministère de l'Éducation de la République de Chine, _Guide d'enseignement des symboles zhuyin_, édition 2024, https://language.moe.gov.tw/
+
 [^2]: Wikipédia, article « Symboles zhuyin », https://zh.wikipedia.org/wiki/注音符號
-[^3]: Comité pour la promotion de la langue nationale du ministère de l'Éducation de la République de Chine, *Histoire des symboles zhuyin*, 1978 ; Réseau des réalisations linguistiques du ministère de l'Éducation, https://language.moe.gov.tw/
+
+[^3]: Comité pour la promotion de la langue nationale du ministère de l'Éducation de la République de Chine, _Histoire des symboles zhuyin_, 1978 ; Réseau des réalisations linguistiques du ministère de l'Éducation, https://language.moe.gov.tw/
+
 [^6]: Comité pour la promotion de la langue nationale du ministère de l'Éducation, « Classification des symboles zhuyin : 21 initiales (ㄅㄆㄇㄈ, etc.), 3 médianes (ㄧㄨㄩ), 13 rimes », https://language.moe.gov.tw/ ; voir aussi le Dictionnaire révisé de la langue nationale du ministère de l'Éducation, https://dict.revised.moe.edu.tw/

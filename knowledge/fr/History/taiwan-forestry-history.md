@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Colonialisme et empire'
 category: 'History'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-25

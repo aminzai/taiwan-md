@@ -23,6 +23,7 @@ sourceCommitSha: 'cfaa22a5'
 sourceContentHash: 'sha256:516bf0a6d1966cf7'
 sourceBodyHash: 'sha256:96ee687ae59d6522'
 translatedAt: '2026-05-19T05:08:07+08:00'
+difficulty: 'intermediate'
 ---
 
 > **Aperçu en 30 secondes** : Les zones commerciales périphériques des cinq grands parcs technologiques taïwanais (parc logiciel de Nangang, parc scientifique de Neihu, parc scientifique de Hsinchu, parc scientifique du centre Taïwan, parc scientifique du sud Taïwan) présentent un schéma commun. Avec 20 000 à 30 000 employés, ceux-ci n'apparaissent collectivement que pendant 90 minutes à midi et disparaissent vers 18 h 30 en fin de journée. De nombreux restaurants de la route Sanzhong, de la rue du Parc et de la route Jingmao 2 du parc logiciel de Nangang ont discrètement cessé de servir le dîner pour ne plus ouvrir qu'au déjeuner. Depuis l'ouverture de LaLaport Nangang le 20 mars 2025, même cette stratégie défensive du « déjeuner uniquement » fait face à la concurrence directe des ailes de restauration des centres commerciaux en chaîne.

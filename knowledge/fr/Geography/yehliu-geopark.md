@@ -3,7 +3,7 @@ title: 'Yehliu : sur le cap du Diable, un couronnement et un crépuscule de « r
 description: "En 1962, une fracture accidentelle de la roche a « couronné » la Tête de reine de Yehliu, mais ce site géologique de classe mondiale disparaît à raison de 2 centimètres par an. Du « cap du Diable » (Punto Diablos) des marins espagnols au symbole culturel désormais protégé par tous, l'histoire de Yehliu n'est pas seulement une curiosité géologique : c'est le récit de la manière dont les Taïwanais ont appris à lâcher prise entre les lois implacables de la nature et l'attachement sentimental."
 date: 2026-04-26
 author: 'Taiwan.md Contributors'
-category: Nature
+category: 'Geography'
 tags: [Yehliu, Tête de reine, Géopark, Wanli, Lin Tianzhen]
 readingTime: 8
 lastVerified: 2026-04-26
@@ -13,6 +13,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:061c7b5484113eed'
 sourceBodyHash: 'sha256:e080c9e068d13667'
 translatedAt: '2026-05-16T22:35:54Z'
+featured: false
 ---
 
 > **En bref (30 secondes) :**

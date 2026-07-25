@@ -22,6 +22,7 @@ sourceCommitSha: '24efd20f3'
 sourceContentHash: 'sha256:1e757976bc4f33e4'
 sourceBodyHash: 'sha256:122e66655dc1f0bf'
 translatedAt: '2026-05-15T14:23:14+08:00'
+difficulty: 'intermediate'
 ---
 
 # Déploiement du réseau 5G et transformation numérique à Taïwan

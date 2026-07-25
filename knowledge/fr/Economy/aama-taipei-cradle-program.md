@@ -24,6 +24,8 @@ sourceCommitSha: '2e6738999'
 sourceContentHash: 'sha256:c03fa77efb2f6e8c'
 sourceBodyHash: 'sha256:8e73793f11fceb53'
 translatedAt: '2026-07-24T10:40:42+08:00'
+image: '/article-images/economy/aama-15th-cohort-2026.webp'
+imageCredit: 'AAMA台北搖籃計畫'
 ---
 
 > **30 secondes pour comprendre :** Le Programme Cradle de Taipei AAMA est une présence rare à Taïwan : un programme de mentorat entrepreneurial qui n'investit pas, ne prend pas de parts et ne facture pas de frais de scolarité. Lancé en 2012 par Jan Hung-tze, éditeur de _Digital Times_, et Yen Lou-yow, consultant comptable à la retraite, il permet à des hommes d'affaires expérimentés d'accompagner un entrepreneur en phase de croissance pendant deux ans, en binôme. Il n'accepte qu'une vingtaine de participants par an ; après treize ans, il en est à sa quinzième promotion, mais a déjà fait émerger des noms comme Appier, Social Enterprise Stream et Portaly. Ce qui est le plus contre-intuitif, c'est ce choix : un groupe de personnes qui auraient pu prendre leur retraite pour profiter de la vie a choisi la méthode la plus lente, sans avantage d'échelle, pour transmettre manuellement le savoir-faire difficile à verbaliser de « comment faire grandir une entreprise » à la génération suivante, sans rien attendre en retour.

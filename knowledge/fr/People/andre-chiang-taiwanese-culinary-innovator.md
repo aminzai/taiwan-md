@@ -1,7 +1,7 @@
 ---
 title: 'André Chiang — Le chef qui a choisi de rentrer'
 description: "De Tamkang Commercial and Industrial School au 14e rang mondial, de l'épiphanie des Seychelles au retour à Taipei : André Chiang a tracé, grâce à sa philosophie des huit angles, une nouvelle coordonnée internationale pour la cuisine taïwanaise"
-date: 2026-03-30
+date: 2026-07-17
 tags:
   [
     Personnalités,
@@ -14,10 +14,10 @@ tags:
   ]
 subcategory: 'Gastronomie et artisans'
 category: 'People'
-author: 'Taiwan.md Translation Team'
-readingTime: 9
-featured: false
-lastVerified: 2026-03-30
+author: 'Taiwan.md'
+readingTime: 13
+featured: true
+lastVerified: 2026-07-18
 translatedFrom: 'People/江振誠.md'
 sourceCommitSha: 'fb010188'
 sourceContentHash: 'sha256:5c3f4c327ba8e029'
@@ -27,6 +27,7 @@ image: '/article-images/people/andre-chiang-archi-2025.webp'
 imageCredit: 'archi 藝廚／凱渡廣場酒店提供'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.archipelago.com.tw/restaurant-detail/archi/'
+lastHumanReview: false
 ---
 
 # André Chiang (江振誠)

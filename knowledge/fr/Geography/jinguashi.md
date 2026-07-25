@@ -1,7 +1,7 @@
 ---
 title: 'Jinguashi : les mille soldats britanniques enfermés dans les galeries pour extraire le cuivre, et une montagne d’or qui n’a pas encore été nettoyée'
 description: 'De 1942 à 1945, plus d’un millier de prisonniers de guerre alliés britanniques furent enfermés dans le « 凸鼻仔寮 » de Jinguashi pour extraire du cuivre ; le 23 novembre 1997, les survivants retournèrent sur le site et érigèrent eux‑mêmes un monument commémoratif. Cette ville de montagne, célèbre pour ses mines d’or, doit surtout être rappelée non pas pour l’or, mais pour le conduit de fumée pollué dont le sol dépasse encore les normes de sécurité.'
-date: 2026-05-04
+date: 2026-07-05
 category: 'Geography'
 tags:
   - 'Jinguashi'
@@ -17,7 +17,7 @@ tags:
 subcategory: '東北角・礦業聚落'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-05-04
+lastVerified: 2026-07-05
 lastHumanReview: true
 translatedFrom: 'Geography/金瓜石.md'
 sourceCommitSha: 'f187773fe'
@@ -26,6 +26,7 @@ sourceBodyHash: 'sha256:bbf94bacf1d03bd7'
 translatedAt: '2026-05-18T05:08:09+08:00'
 image: /article-images/geography/jinguashi-13-levels-lighting-2019.webp
 imageCredit: 'Taiwankengo / Wikimedia Commons (CC BY-SA 4.0)'
+readingTime: 24
 ---
 
 > **30 second overview :** la plupart des visiteurs de Jinguashi viennent pour la grande brique d’or de 220 kg du Musée de l’or, ou pour la lampe orange allumée en 2019 au site des Treize Étages[^1][^2]. Mais l’histoire réelle de la montagne ne réside pas dans l’or — de 1942 à 1945, les Japonais y ont enfermé plus d’un millier de prisonniers de guerre alliés, principalement britanniques, dans les galeries de cuivre, qu’ils appelaient « Kinkaseki », tandis que les Taïwanais l’appelaient « 凸鼻仔寮 »[^3][^4]. Le 23 novembre 1997, le Canadien Michael Hurst et 150 survivants ainsi que leurs familles ont érigé un monument commémoratif sur le site original[^3]. Aujourd’hui, les touristes marchent sur le conduit de fumée devenu un lieu de selfie, alors que le sol reste plusieurs fois au-dessus des seuils de sécurité pour l’arsenic et les métaux lourds[^5][^6].

@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4e7bd6002d83c43b'
 sourceBodyHash: 'sha256:0f6781254171f7ba'
 translatedAt: '2026-06-11T16:39:06Z'
+featured: false
 ---
 
 ## Le cochon divin : un siècle de tensions et de transformation entre foi et droits des animaux à Taïwan

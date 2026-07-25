@@ -18,13 +18,14 @@ subcategory: '音樂'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 14
-lastVerified: 2026-05-02
-lastHumanReview: false
+lastVerified: 2026-04-20
+lastHumanReview: true
 translatedFrom: 'People/鄧麗君.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:137ce9f0ad4e78d5'
 sourceBodyHash: 'sha256:d9aced35b5cf6b29'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: true
 ---
 
 # Teresa Teng

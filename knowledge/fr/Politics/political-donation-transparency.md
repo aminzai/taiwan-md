@@ -9,8 +9,8 @@ tags:
   ['政治獻金', '透明度', '監察院', 'g0v', '選舉金流', '2004立法', '2026選舉']
 readingTime: 12
 lastVerified: 2026-05-27
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'Politics/政治獻金透明度.md'
 sourceCommitSha: '837e22b9'
 sourceContentHash: 'sha256:8a7814971a9249c7'

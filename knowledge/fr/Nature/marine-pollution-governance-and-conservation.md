@@ -5,7 +5,14 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Nature'
 subcategory: '保育與環境'
-tags: ['conservation marine', 'pollution marine', 'déchets marins', 'Commission océanique', 'pêche durable']
+tags:
+  [
+    'conservation marine',
+    'pollution marine',
+    'déchets marins',
+    'Commission océanique',
+    'pêche durable',
+  ]
 readingTime: 15
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -15,13 +22,14 @@ sourceCommitSha: '1d54cbe52'
 sourceContentHash: 'sha256:3725125046bb0302'
 sourceBodyHash: 'sha256:c208c01efc93c70e'
 translatedAt: '2026-05-20T05:08:34+08:00'
+difficulty: 'intermediate'
 ---
 
 # Défis de la gouvernance de la pollution marine et de la conservation à Taïwan
 
 ## Aperçu en 30 secondes
 
-Chaque année, les déchets qui affluent dans les eaux territoriales de Taïwan sont principalement constitués de plastique, les bouteilles en PET, les bouchons et les pailles figurant au sommet du classement. La Commission océanique a été créée en 2018, et la *Loi sur la conservation marine* a été adoptée en troisième lecture le 12 juillet 2024, puis est entrée en vigueur le 1er juillet 2025, établissant ainsi les fondements juridiques de la conservation marine.
+Chaque année, les déchets qui affluent dans les eaux territoriales de Taïwan sont principalement constitués de plastique, les bouteilles en PET, les bouchons et les pailles figurant au sommet du classement. La Commission océanique a été créée en 2018, et la _Loi sur la conservation marine_ a été adoptée en troisième lecture le 12 juillet 2024, puis est entrée en vigueur le 1er juillet 2025, établissant ainsi les fondements juridiques de la conservation marine.
 
 La conservation des tortues marines à Liuqiu, la transformation des pêcheries et les politiques de réduction du plastique constituent les trois axes principaux de la promotion du développement durable marin à Taïwan.
 
@@ -51,14 +59,14 @@ Selon les enquêtes menées par l'Agence de conservation marine de la Commission
 
 **Statistiques des principaux types de déchets marins** (d'après les données de nettoyage de plages de la Société de protection des espaces sauvages, 2016-2023) :
 
-| Rang | Type de déchet | Nombre annuel moyen | Part |
-|------|----------------|---------------------|------|
-| 1 | Bouteilles en PET | 37 657 unités | 18,2 % |
-| 2 | Bouchons en plastique | 29 844 unités | 14,4 % |
-| 3 | Pailles | 22 660 unités | 10,9 % |
-| 4 | Sacs en plastique | 21 358 unités | 10,3 % |
-| 5 | Gobelets à emporter | 17 694 unités | 8,5 % |
-| 6 | Vaisselle jetable | 17 392 unités | 8,4 % |
+| Rang | Type de déchet        | Nombre annuel moyen | Part   |
+| ---- | --------------------- | ------------------- | ------ |
+| 1    | Bouteilles en PET     | 37 657 unités       | 18,2 % |
+| 2    | Bouchons en plastique | 29 844 unités       | 14,4 % |
+| 3    | Pailles               | 22 660 unités       | 10,9 % |
+| 4    | Sacs en plastique     | 21 358 unités       | 10,3 % |
+| 5    | Gobelets à emporter   | 17 694 unités       | 8,5 %  |
+| 6    | Vaisselle jetable     | 17 392 unités       | 8,4 %  |
 
 **Analyse des points chauds de pollution** :
 
@@ -110,7 +118,7 @@ La pollution chimique engendrée par le développement industriel constitue un a
 
 La construction du cadre juridique de la conservation marine à Taïwan est un passage d'une gestion fragmentée à une gouvernance unifiée.
 
-La création de la Commission océanique en 2018 a intégré les affaires maritimes auparavant dispersées entre plusieurs ministères ; l'adoption de la *Loi sur la conservation marine* en troisième lecture en 2024 a fourni une base juridique claire à l'ensemble du système de conservation.
+La création de la Commission océanique en 2018 a intégré les affaires maritimes auparavant dispersées entre plusieurs ministères ; l'adoption de la _Loi sur la conservation marine_ en troisième lecture en 2024 a fourni une base juridique claire à l'ensemble du système de conservation.
 
 Ces deux jalons marquent la transition de la gouvernance marine taïwanaise d'une réponse passive à une planification proactive.
 
@@ -135,7 +143,7 @@ Le 28 avril 2018, la Commission océanique a été officiellement créée pour c
 
 ### Processus législatif de la Loi sur la conservation marine
 
-La *Loi sur la conservation marine* a fait l'objet de discussions pendant plusieurs années avant d'être adoptée en troisième lecture le 12 juillet 2024, puis d'entrer en vigueur le 1er juillet 2025 :
+La _Loi sur la conservation marine_ a fait l'objet de discussions pendant plusieurs années avant d'être adoptée en troisième lecture le 12 juillet 2024, puis d'entrer en vigueur le 1er juillet 2025 :
 
 **Contexte législatif** :
 
@@ -568,7 +576,7 @@ L'application d'instruments politiques comprend : la promotion du principe pollu
 
 ## Conclusion
 
-Les efforts de gouvernance de la pollution marine et de conservation à Taïwan se trouvent à un tournant crucial. L'adoption de la *Loi sur la conservation marine* marque l'établissement des fondements juridiques, le modèle de conservation des tortues marines de Liuqiu démontre la force de la participation communautaire, et la transition vers une pêche durable prouve la possibilité d'une synergie entre économie et conservation.
+Les efforts de gouvernance de la pollution marine et de conservation à Taïwan se trouvent à un tournant crucial. L'adoption de la _Loi sur la conservation marine_ marque l'établissement des fondements juridiques, le modèle de conservation des tortues marines de Liuqiu démontre la force de la participation communautaire, et la transition vers une pêche durable prouve la possibilité d'une synergie entre économie et conservation.
 
 Face aux défis mondiaux tels que le changement climatique, l'acidification des océans et la pollution transfrontalière, Taïwan doit progresser simultanément sur trois fronts — innovation technologique, participation sociale et coopération internationale — en combinant l'orientation des politiques gouvernementales et la vitalité de la société civile, pour construire un modèle de conservation marine pouvant servir de référence.
 
@@ -581,14 +589,25 @@ Le cœur de la conservation marine est l'équité intergénérationnelle : les d
 ## Références
 
 [^1]: [Statistiques sur les déchets marins — Réseau de conservation marine](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Statistiques des données de nettoyage de plages de la Société de protection des espaces sauvages, 2016-2023.
+
 [^2]: [Enquête sur les microplastiques marins à Taïwan — Centre de recherche sur la biodiversité, Academia Sinica](https://www.oca.gov.tw/) — Rapport d'enquête sur les concentrations de microplastiques dans les eaux autour de Taïwan.
-[^3]: [Adoption en troisième lecture de la *Loi sur la conservation marine* — Greenpeace Taïwan](https://www.greenpeace.org/taiwan/update/35872/) — Confirmation de l'adoption en troisième lecture de la *Loi sur la conservation marine* le 12 juillet 2024.
-[^4]: [Agence de conservation marine de la Commission océanique](https://www.oca.gov.tw/) — *Livre blanc sur la conservation marine à Taïwan*, édition 2024.
-[^5]: [Politique importante de la *Loi sur la conservation marine* — Yuan exécutif](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Explication de la politique de la *Loi sur la conservation marine* par le Yuan exécutif.
+
+[^3]: [Adoption en troisième lecture de la _Loi sur la conservation marine_ — Greenpeace Taïwan](https://www.greenpeace.org/taiwan/update/35872/) — Confirmation de l'adoption en troisième lecture de la _Loi sur la conservation marine_ le 12 juillet 2024.
+
+[^4]: [Agence de conservation marine de la Commission océanique](https://www.oca.gov.tw/) — _Livre blanc sur la conservation marine à Taïwan_, édition 2024.
+
+[^5]: [Politique importante de la _Loi sur la conservation marine_ — Yuan exécutif](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Explication de la politique de la _Loi sur la conservation marine_ par le Yuan exécutif.
+
 [^6]: [Enquête rapide de dépistage des déchets marins après un an de travail, révélant la vérité de la pollution des côtes taïwanaises — National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Données d'enquête sur la densité des déchets sur les côtes taïwanaises.
+
 [^7]: [10 choses essentielles à savoir sur les déchets marins — Indigo Waters Consulting](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Enquête sur la densité des déchets sous-marins par Indigo Waters Consulting, 2020.
-[^8]: [La *Loi sur la conservation marine* ne peut plus attendre — Greenpeace Taïwan](https://www.greenpeace.org/taiwan/update/30154/) — Processus de plaidoyer des organisations civiles pour la législation sur la conservation marine.
+
+[^8]: [La _Loi sur la conservation marine_ ne peut plus attendre — Greenpeace Taïwan](https://www.greenpeace.org/taiwan/update/30154/) — Processus de plaidoyer des organisations civiles pour la législation sur la conservation marine.
+
 [^9]: [Comprendre les déchets marins — Ocean World](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Analyse des types et sources de déchets marins.
+
 [^10]: [« La mer, c'est quoi ce "plastique" ? — Bilan général des déchets sur les côtes taïwanaises » — Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Enquête sur les types et la distribution des déchets sur les côtes taïwanaises.
+
 [^11]: [Résultats de la conservation des tortues marines à Liuqiu — Association Laoguyu de Taïwan](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Modèle et résultats de la conservation des tortues marines à Liuqiu.
+
 [^12]: [Premier blanchissement massif des coraux à l'échelle nationale en 2024 — Notre Île](https://ourisland.pts.org.tw/content/7392) — Rapport d'enquête sur le blanchissement des coraux à Taïwan en 2020.

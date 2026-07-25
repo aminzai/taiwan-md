@@ -8,7 +8,7 @@ subcategory: '科技與企業'
 tags: ['TSMC', 'semi-conducteurs', 'géopolitique', "leadership d'entreprise"]
 readingTime: 7
 lastVerified: 2026-05-07
-lastHumanReview: false
+lastHumanReview: true
 featured: false
 translatedFrom: 'People/劉德音.md'
 sourceCommitSha: '0f8fae0a'

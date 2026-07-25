@@ -1,7 +1,7 @@
 ---
 title: "La teinture à l'indigo : deux cents ans plus tard, cultiver à nouveau la même plante de *Strobilanthes cusia*"
 description: "En août 1999, Chen Ching-lin a guidé l'atelier de teinture de Sanxia pour produire le premier foulard indigo en plus de soixante-dix ans. De marchandise d'exportation majeure sous la dynastie Qing à seulement dix familles survivantes en 1940, cet art qui exige d'attendre l'action de micro-organismes vivants trouve aujourd'hui à Sanxia, au Zhuoye Cabin de Miaoli, au Bleu de Taiping de Taichung et à Jingliao de Tainan des réponses distinctes. L'objectif de la revitalisation est-il de retrouver une couleur vivante dans une cuve, ou de construire une marque commercialisable ?"
-date: '2026-07-05'
+date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '工藝與美學'
@@ -16,9 +16,9 @@ tags:
   - 'vêtement bleu hakka'
   - 'Chen Ching-lin'
   - 'Cheng Mei-shu'
-lastVerified: '2026-07-05'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-05
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:1670373f1f6c3b4a'

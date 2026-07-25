@@ -28,6 +28,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f7dcaba73d149276'
 sourceBodyHash: 'sha256:af337db2aac9897d'
 translatedAt: 2026-05-01T20:54:17+08:00
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** L'île subtropicale de Taïwan abrite cinq espèces de salamandres, vestiges de l'ère glaciaire. Elles survivent en silence dans les sources de ruisseaux alpins au-dessus de 2 000 mètres d'altitude, leurs yeux ronds et les courbes relevées de leur bouche leur valant le surnom de « sourire ». De la confusion taxonomique d'il y a un siècle aux décennies de recherches acharnées des scientifiques, en passant par le sacrifice ultime de certains d'entre eux, l'histoire des salamandres de Taïwan est un miracle écologique et une réflexion profonde sur la coexistence entre l'humanité et la nature. En 2025, Taiwan Mobile et l'équipe du professeur Zhu Youtian de l'Université nationale de Taïwan ont réussi l'éclosion artificielle, ouvrant une lueur d'espoir pour l'avenir de ces esprits des hautes montagnes.

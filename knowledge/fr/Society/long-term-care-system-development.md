@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Protection sociale'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false

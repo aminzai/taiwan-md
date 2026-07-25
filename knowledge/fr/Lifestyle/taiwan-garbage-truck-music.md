@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Vie urbaine'
 category: 'Lifestyle'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 7
 featured: false
 translatedFrom: 'Lifestyle/台灣垃圾車音樂.md'

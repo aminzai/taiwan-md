@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d00de39e39633054'
 sourceBodyHash: 'sha256:dc8842a4b46a7f80'
 translatedAt: 2026-05-01T20:54:17+08:00
+featured: false
 ---
 
 > **En 30 secondes :** Le cerf sambar de Taïwan (_Rusa unicolor swinhoii_) est le plus grand herbivore de l'île. Autrefois repoussé en haute montagne par la chasse excessive et la destruction de son habitat, il a vu sa population se reconstituer grâce aux efforts de conservation et commence à redescendre en basse altitude, suscitant la polémique du « tueur de forêts ». Les recherches de l'équipe de Yan Shiqing, de l'Université nationale de Pingtung, révèlent que l'écorçage des arbres par le cerf sambar vise principalement l'ingestion de tanins à des fins d'automédication, un comportement qui soulève des questions sur l'équilible complexe de l'écosystème alpin taïwanais et sur la mémoire culturelle des peuples autochtones.

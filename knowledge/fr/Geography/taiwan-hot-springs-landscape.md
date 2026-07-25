@@ -12,7 +12,7 @@ tags:
     'tectonique des plaques',
   ]
 subcategory: 'Climat et sources thermales'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 12
 category: 'Geography'

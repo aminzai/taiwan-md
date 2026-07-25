@@ -1,7 +1,7 @@
 ---
 title: 'Chou Tien-chen : la tête de file du badminton taïwanais hissé au 2e rang mondial'
 description: "Le premier homme à atteindre le 2e rang mondial en simple messieurs et celui qui a vaincu pour la première fois le roi du badminton Lin Dan. D'un début difficile avec dix défaites d'affilée lors de son intégration dans l'équipe nationale, au baptême chrétien après une appendicite perforée, jusqu'au diagnostic précoce de cancer colorectal à 34 ans en mars 2023 : il a opéré et est reparti quelques jours plus tard pour concourir à l'international. Il endure près d'une année de creux avant de se qualifier pour les quarts de finale aux Jeux olympiques de Paris la saison suivante. Chou Tien-chen ne s'appuie pas sur un talent écrasant mais utilise une stratégie dite « usure » (patience), enchaînant des échanges longs, et élève ainsi le niveau maximal que peut atteindre le badminton taïwanais."
-date: '2026-06-29'
+date: 2026-06-29
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: 'Sports'
@@ -15,10 +15,10 @@ tags:
     'Athlète',
     'Taïwan',
   ]
-readingTime: '14'
-lastVerified: '2026-06-29'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 14
+lastVerified: 2026-06-29
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/周天成.md'
 sourceCommitSha: 'dbfc0cd3c'
 sourceContentHash: 'sha256:f45251e967dc33da'

@@ -5,7 +5,7 @@ date: 2026-03-19
 tags: ['Doze Niu', 'cinéma', 'réalisateur', 'acteur', 'Monga', 'controverse']
 subcategory: 'Cinéma et arts dramatiques'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: false
 translatedFrom: 'People/鈕承澤.md'
@@ -14,6 +14,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:03252333a42bc60e'
 sourceBodyHash: 'sha256:decf157a216cec86'
 translatedAt: '2026-05-17T06:15:00Z'
+lastHumanReview: false
 ---
 
 # Doze Niu : le cinéaste entre génie et controverse

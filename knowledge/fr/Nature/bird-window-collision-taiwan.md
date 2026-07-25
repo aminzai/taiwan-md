@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Faune sauvage'
 category: Nature
-author: Taiwan.md Translation Team
+author: 'Taiwan.md Contributor'
 featured: false
 lastHumanReview: false
 lastVerified: 2026-03-23

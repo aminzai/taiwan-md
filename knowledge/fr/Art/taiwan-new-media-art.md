@@ -19,13 +19,14 @@ tags:
   ]
 subcategory: '新媒體與數位藝術'
 lastVerified: 2026-04-04
-lastHumanReview: 2026-04-04
+lastHumanReview: true
 featured: true
 translatedFrom: Art/台灣新媒體藝術.md
 sourceCommitSha: 'ef8fab38'
 sourceContentHash: 'sha256:d196b7664449f36f'
 sourceBodyHash: 'sha256:3affa690cf7b66dc'
 translatedAt: 2026-06-13T00:00:00Z
+author: 'Taiwan.md'
 ---
 
 # L'art des nouveaux médias à Taïwan

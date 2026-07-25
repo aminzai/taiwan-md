@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Éducation et société'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 5
 featured: false
 translatedFrom: 'People/黃國珍.md'
@@ -22,6 +22,7 @@ sourceCommitSha: 'df2e7558'
 sourceContentHash: 'sha256:4ca80675bb1a1122'
 sourceBodyHash: 'sha256:2b34fd0038a36214'
 translatedAt: '2026-04-14T19:20:08+08:00'
+lastHumanReview: false
 ---
 
 # Huang Kuo-chen : apprendre aux enfants de Taïwan à « comprendre » et pas seulement à « finir de lire »

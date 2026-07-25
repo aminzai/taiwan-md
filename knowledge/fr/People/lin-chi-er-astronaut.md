@@ -1,7 +1,7 @@
 ---
 title: "Kjell Lindgren : de la naissance à Taipei à l'orbite basse, le médecin taïwanais d'origine qui jouait de la cornemuse dans l'espace"
 description: "Né à Taipei en 1973, Kjell N. Lindgren est le premier astronaute de la NASA né à Taïwan. Après son diplôme de l'Académie de l'US Air Force, un diagnostic erroné d'asthme lors de l'entraînement en vol mit fin à sa carrière de pilote. Onze ans plus tard, un nouveau test invalida ce diagnostic. Sélectionné parmi 3 565 candidats comme l'un des neuf membres de la 20e promotion d'astronautes de la NASA, il a cumulé 312 jours en orbite. En avril 2026, il est revenu à Taïwan dans le cadre de « Freedom 250 » et a déclaré au Bureau présidentiel : « Ma carrière d'astronaute à la NASA a commencé à Taïwan. »"
-date: '2026-04-24'
+date: 2026-04-24
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '科學與學術'
@@ -13,8 +13,8 @@ tags:
     'Médecine',
     'Histoire migratoire',
   ]
-readingTime: '14'
-lastVerified: '2026-04-28'
+readingTime: 14
+lastVerified: 2026-04-28
 lastHumanReview: false
 image: '/article-images/people/lindgren-emu-2014.webp'
 imageCredit: 'NASA/Bill Stafford'
@@ -25,6 +25,7 @@ sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:386b664532b04d0d'
 sourceBodyHash: 'sha256:85e505009fb05c24'
 translatedAt: '2026-06-16T17:13:36Z'
+featured: false
 ---
 
 > **En 30 secondes :** Kjell N. Lindgren est né à Taipei en 1973. Son père était un officier de l'US Air Force stationné à Ching Chuan Kang (Taichung), et sa mère, Zhang Chuyun, d'origine Wuhan, avait déménagé à Taïwan avec le gouvernement dans son enfance. Il a quitté Taïwan à deux ans et demi, passant son enfance en Angleterre et en Virginie. Après son diplôme de l'Air Force Academy, un diagnostic erroné d'asthme lors de l'entraînement en vol a brisé son rêve de pilote. Il s'est alors tourné vers la médecine. Onze ans plus tard, un examen médical à la NASA a invalidé le diagnostic, et en 2009, il a été sélectionné parmi 3 565 candidats pour la 20e promotion d'astronautes. Il a fait pousser de la laitue romaine rouge dans la Station spatiale internationale (ISS), joué de la cornemuse en plastique en hommage à un ami, et commandé la mission SpaceX Crew-4 « Freedom », cumulant 312 jours 5 heures et 11 minutes en orbite. En avril 2026, il est revenu à Taïwan dans le cadre de « Freedom 250 » et a déclaré au Bureau présidentiel : « Ma carrière d'astronaute à la NASA a commencé à Taïwan. »

@@ -1,13 +1,20 @@
 ---
 title: 'Caractères urbains et cultures régionales'
 description: "De la métropole internationale qu'est Taipei au charme d'ancienne capitale de Tainan, comment les villes de Taïwan façonnent des identités locales singulières"
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Geography'
 subcategory: '城市與人文地理'
-tags: ['villes', 'culture régionale', 'caractéristiques locales', 'développement urbain', 'géographie culturelle']
+tags:
+  [
+    'villes',
+    'culture régionale',
+    'caractéristiques locales',
+    'développement urbain',
+    'géographie culturelle',
+  ]
 readingTime: 12
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Geography/城市特色與區域文化.md'
@@ -15,6 +22,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:9d646e504e06dd7e'
 sourceBodyHash: 'sha256:3ece4cc0080f2397'
 translatedAt: '2026-05-20T05:08:34+08:00'
+difficulty: 'beginner'
 ---
 
 # Caractères urbains et cultures régionales
@@ -302,7 +310,11 @@ Cette diversité urbaine constitue l’un des patrimoines humains les plus singu
 ## Références
 
 [^1]: Département de l’administration des ménages du ministère de l’Intérieur, [système de consultation des statistiques démographiques](https://www.ris.gov.tw/).
+
 [^2]: Université nationale Yang Ming Chiao Tung, [site officiel](https://www.nycu.edu.tw/), comprenant l’histoire de l’université et sa présentation.
+
 [^3]: Administration du tourisme du ministère des Transports et des Communications, [données statistiques sur le tourisme urbain](https://admin.taiwan.net.tw/).
+
 [^4]: Lin Shu-jung et al., [Relire Taïwan : perspectives anthropologiques](https://www.books.com.tw/products/0010659492).
+
 [^5]: Bureaux municipaux de la culture, [publications officielles, exemple du Bureau des affaires culturelles de la ville de Tainan](https://culture.tainan.gov.tw/).

@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Arts et création'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-23
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:42fcc41544e48198'
 sourceBodyHash: 'sha256:13ac312ffbbbdc9b'
 translatedAt: '2026-04-14T19:15:55+08:00'
+lastHumanReview: true
 ---
 
 > **En 30 secondes :** En 1973, Lin Huai-min, romancier de 26 ans sans formation professionnelle en danse, fonde à Taïwan la première compagnie de danse contemporaine professionnelle du monde sinophone : le Cloud Gate Dance Theatre. La troupe restera active sur la scène internationale pendant plus de cinquante ans et sera saluée par le _New York Times_ comme « la compagnie de danse contemporaine la plus importante d'Asie ».

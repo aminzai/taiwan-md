@@ -1,12 +1,12 @@
 ---
 title: 'Mythes autochtones taïwanais : des récits oraux de la création au déluge'
 description: "Les mythes autochtones taïwanais ne sont pas de simples récits anciens : ils constituent des archives vivantes de la mémoire collective et de la transmission culturelle, porteuses d'une sagesse de coexistence avec la nature et d'une vision profonde de la vie."
-date: '2026-04-17'
+date: 2026-04-17
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 tags: ['Autochtones', 'Mythologie', 'Littérature orale', 'Culture taïwanaise']
-readingTime: '8'
-lastVerified: '2026-04-17'
+readingTime: 8
+lastVerified: 2026-04-17
 lastHumanReview: true
 featured: false
 translatedFrom: 'Culture/原住民神話.md'

@@ -17,13 +17,14 @@ subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 category: 'People'
 readingTime: 20
-lastVerified: 2026-05-02
-lastHumanReview: false
+lastVerified: 2026-04-20
+lastHumanReview: true
 translatedFrom: 'People/八炯.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:6599b2ad4c30bd09'
 sourceBodyHash: 'sha256:bc866bec1fdcbd6f'
 translatedAt: '2026-05-02T08:50:00+08:00'
+featured: false
 ---
 
 > **Aperçu en 30 secondes :** Cet article retrace comment l'influenceur taïwanais Pa Chiung (Wen Tzu-yu) est passé de créateur de contenus de voyage à Hualien à commentateur politique aux millions d'abonnés. Sa chaîne « Photographer Diary » révèle les coulisses du front uni du PCC, et a attiré l'attention de la Jamestown Foundation, de Voice of America et d'autres médias internationaux. Malgré des controverses populistes et des affaires judiciaires, il demeure aujourd'hui une voix majeure de la politique en ligne taïwanaise pour contrer les récits du PCC par un « front uni inversé ».

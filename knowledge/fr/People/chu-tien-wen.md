@@ -18,7 +18,7 @@ readingTime: 7
 #   whats_excluded: "各電影完整劇本分析；三三集刊歷年作者名單；學術研究論文清單"
 #   where_it_hedges: "出生地維基記台北（另有高雄鳳山一說，以台北為準）；侯孝賢失智確認時間（P0⚠️待確認具體年份）；首次執導《尋找河神》詳情（P0⚠️待確認）"'
 lastVerified: 2026-05-07
-lastHumanReview: false
+lastHumanReview: true
 featured: false
 translatedFrom: 'People/朱天文.md'
 sourceCommitSha: '0f8fae0a'

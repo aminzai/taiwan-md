@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Gastronomie raffinée'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md 編輯團隊'
 readingTime: 12
 featured: true
 translatedFrom: 'Food/台灣米其林與精緻餐飲.md'
@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5dc9bb02298749c4'
 sourceBodyHash: 'sha256:3ca2a02845451f2c'
 translatedAt: '2026-04-14T12:29:25+08:00'
+lastHumanReview: false
 ---
 
 # Taïwan et le Guide Michelin : le prix des étoiles et la redéfinition de la gastronomie

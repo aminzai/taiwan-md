@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: 'Sites remarquables'
 category: 'Geography'
-author: 'Taiwan.md Translation Team'
+author: 'idlccp02'
 readingTime: 6
 featured: false
 translatedFrom: 'Geography/漯底山.md'
@@ -24,6 +24,7 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:2cef849f8ebc6df7'
 sourceBodyHash: 'sha256:a56d3c9283c22ceb'
 translatedAt: '2026-04-15T17:34:06+08:00'
+lastHumanReview: false
 ---
 
 # Le mont Luodi

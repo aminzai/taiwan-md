@@ -1,7 +1,7 @@
 ---
 title: "Rayark Games : l'empire musical fondé sur l'esthétique, et ses fissures de quatorze ans"
 description: "En 2012, six jeunes issus du Collège d'électrotechnique et d'informatique de l'Université nationale de Taïwan réunissent trente millions de dollars taïwanais pour créer Cytus ; en un mois, le jeu atteint la première place des classements dans 14 pays. Quatorze ans plus tard, ils ont produit l'animation Deemo, laissé l'animation Implosion non livrée depuis onze ans, placé Sdorica en mode maintenance en février 2026, et choisi, après l'affaire du code Morse d'ICE en 2020, de couper les liens avec un employé pour préserver le marché chinois. L'esthétique a rendu Rayark visible dans le monde entier ; elle l'a aussi fait trébucher dans chaque domaine qui n'était pas musical."
-date: '2026-04-25'
+date: 2026-04-25
 author: 'zaious'
 category: 'Technology'
 subcategory: '社群與數位文化'
@@ -23,7 +23,7 @@ tags:
     'Mozarc',
   ]
 readingTime: 20
-lastVerified: '2026-05-26'
+lastVerified: 2026-05-26
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/雷亞遊戲.md'

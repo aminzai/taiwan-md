@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Musique et spectacle vivant'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-23
@@ -22,6 +22,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:fb71e3bcf0475f2e'
 sourceBodyHash: 'sha256:6b96e9e6687dd8c3'
 translatedAt: '2026-05-17T06:15:00Z'
+lastHumanReview: true
 ---
 
 # Jam Hsiao : la voix la plus imprévisible de Taïwan

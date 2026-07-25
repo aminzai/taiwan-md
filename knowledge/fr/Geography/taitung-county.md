@@ -1,7 +1,7 @@
 ---
 title: "Comté de Taitung : deux îles périphériques, l'une a enfermé des prisonniers politiques pendant trente-six ans, l'autre a stocké des déchets nucléaires pendant quarante-deux ans"
 description: "Les 210 000 habitants du comté de Taitung sont dispersés sur 3 515 kilomètres carrés : la plus faible densité du pays, à peine 60 personnes par kilomètre carré, soit un centième de Taipei. Mais ce comté abrite les plus anciens établissements humains de Taïwan (le site de Beinan, il y a 5 300 ans, 1 600 sarcophages de pierre), six peuples autochtones (Amis, Puyuma, Paiwan, Rukai, Bunun, Tao), et la plus forte proportion d'Autochtones de toute l'île, 37,5 %. De 1951 à 1987, Huoshaodao, à Green Island, a détenu des prisonniers politiques pendant trente-six ans. À partir de mai 1982, Longmen, à Lanyu, a commencé à recevoir des déchets nucléaires ; quarante-deux ans plus tard, 97 672 fûts s'y trouvent encore. Le 25 août 1968, sept enfants bunun du village de Hongye ont battu sept à zéro une équipe japonaise d'étoiles du baseball junior du Kansai (et non une équipe championne du monde) : le mythe du baseball comme sport national de Taïwan a commencé par cette tromperie. Deux îles périphériques ont porté le coût d'une île entière."
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md Contributors'
 category: 'Geography'
 subcategory: '縣市'
@@ -21,10 +21,10 @@ tags:
     'Ligne du Sud',
     'Série des 22 villes et comtés',
   ]
-readingTime: '15'
-lastVerified: '2026-05-18'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 15
+lastVerified: 2026-05-18
+lastHumanReview: false
+featured: false
 translatedFrom: 'Geography/台東縣.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:a245e10d3b26ade5'

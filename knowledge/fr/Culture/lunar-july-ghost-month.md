@@ -1,7 +1,7 @@
 ---
 title: "Juillet lunaire : de la peur collective du « portail des esprits ouvert » à la réconciliation douce d'une île"
 description: "En plein été en 2026, les tables communes sont dressées dans les rues de Taïwan. De les flammes de Wanghai Lane à Kaohsiung à la sueur sur les toits solitaires de Toucheng, du « Portail du Tigre ouvert » au temple de Hsinchu à la grandeur des rites funéraires de Da Shi Ye à Minxiong : le septième mois lunaire n'est pas seulement une affaire d'interdits, mais un récit insulaire sur la coexistence, la mémoire et le franchissement des frontières entre le yin et le yang."
-date: '2026-07-20'
+date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: 'Fêtes et coutumes'
@@ -15,10 +15,10 @@ tags:
     'Da Shi Ye de Minxiong',
     'Temple de Chenghuang de Hsinchu',
   ]
-readingTime: '25'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 25
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/農曆七月.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:44ea24edbaea3139'

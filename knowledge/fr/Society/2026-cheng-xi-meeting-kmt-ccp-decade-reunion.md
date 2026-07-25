@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Démocratie et politique'
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 difficulty: 'advanced'
 readingTime: 14
 featured: true

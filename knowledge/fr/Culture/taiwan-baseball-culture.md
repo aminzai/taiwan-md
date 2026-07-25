@@ -3,7 +3,16 @@ title: 'La culture du baseball à Taïwan'
 description: 'De la légende des jeunes joueurs de Hongye aux larmes et à la sueur de la CPBL — comment le baseball est devenu le « sport national » de Taïwan'
 date: 2026-03-18
 category: 'Culture'
-tags: ['baseball', 'CPBL', 'Hongye', 'sport national', 'sport', 'Wang Chien-ming', 'effet Ohtani']
+tags:
+  [
+    'baseball',
+    'CPBL',
+    'Hongye',
+    'sport national',
+    'sport',
+    'Wang Chien-ming',
+    'effet Ohtani',
+  ]
 subcategory: '運動文化'
 author: 'Taiwan.md Contributors'
 readingTime: 10
@@ -15,6 +24,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:9a4380e463583d63'
 sourceBodyHash: 'sha256:ffebfda3574ab04b'
 translatedAt: '2026-05-17T05:34:56+08:00'
+difficulty: 'beginner'
 ---
 
 # La culture du baseball à Taïwan
@@ -145,10 +155,16 @@ Les résultats laissés par le baseball taïwanais sur la scène internationale 
 
 ## Références
 
-[^1]: Liu Chang-de, « L'agitation du drapeau impérial, le cri national : la division internationale du travail dans le baseball et la transformation du discours sportif national », *Taiwanese Sociology Quarterly*, n° 70, 2008, https://www.airitilibrary.com/Publication/Information?publicationID=10219528 ; voir également les travaux de recherche connexes de Liu Chang-de, Faculté de communication de l'Université nationale de Chengchi, https://comm.nccu.edu.tw/PageStaffing/Detail?fid=11123&id=3714
+[^1]: Liu Chang-de, « L'agitation du drapeau impérial, le cri national : la division internationale du travail dans le baseball et la transformation du discours sportif national », _Taiwanese Sociology Quarterly_, n° 70, 2008, https://www.airitilibrary.com/Publication/Information?publicationID=10219528 ; voir également les travaux de recherche connexes de Liu Chang-de, Faculté de communication de l'Université nationale de Chengchi, https://comm.nccu.edu.tw/PageStaffing/Detail?fid=11123&id=3714
+
 [^2]: Wikibase du baseball taïwanais, entrée sur l'histoire du baseball taïwanais, https://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81
+
 [^3]: Wikipédia, « Histoire du baseball taïwanais », « Équipe de jeunes de Hongye », « Ligue professionnelle de baseball chinoise », https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%A3%92%E7%90%83%E5%8F%B2
+
 [^4]: « Comment le baseball est-il devenu le sport national ? L'histoire de Hongye », Kamatiam (histoire populaire), https://kamatiam.org/棒球如何成為國球從紅葉的故事說起/
-[^5]: « Le baseball taïwanais : 30 ans, du scandale des matchs truqués au championnat du monde, comment il porte l'histoire coloniale et l'identité nationale », *CommonWealth Magazine*, https://www.cw.com.tw/article/5132888
+
+[^5]: « Le baseball taïwanais : 30 ans, du scandale des matchs truqués au championnat du monde, comment il porte l'histoire coloniale et l'identité nationale », _CommonWealth Magazine_, https://www.cw.com.tw/article/5132888
+
 [^6]: Archives numériques de l'Académie sinique, dossier thématique « Cent ans d'histoire du baseball », https://digitalarchives.tw/Exhibition/2445/1.html
+
 [^7]: Données historiques du site officiel de la Ligue professionnelle de baseball chinoise, https://www.cpbl.com.tw/

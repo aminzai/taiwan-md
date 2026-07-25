@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Figures historiques'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-27
@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:c09723b8f613b890'
 sourceBodyHash: 'sha256:8cc0f510721f307f'
 translatedAt: '2026-04-14T19:19:21+08:00'
+lastHumanReview: false
 ---
 
 # Koxinga : né au Japon, formé en Chine, mort à Taïwan à trente-sept ans

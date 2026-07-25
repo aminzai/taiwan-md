@@ -31,6 +31,7 @@ image: '/article-images/technology/silicon-vs-gan-charger-2025.webp'
 imageCredit: '4300streetcar'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Silicon_vs_GaN_30W_USB-C_chargers.jpg'
+difficulty: 'intermediate'
 ---
 
 # Industrie des semi-conducteurs : cinquante ans de révolution des matériaux, du transfert technologique de RCA au nitrure de gallium et au packaging quantique

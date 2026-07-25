@@ -11,7 +11,7 @@ tags:
     culture taïwanaise,
   ]
 subcategory: 'Musique'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-03-28
 readingTime: 10
 lastVerified: 2026-03-28
@@ -20,6 +20,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:af8cff27f6cadb30'
 sourceBodyHash: 'sha256:09c26c642594595d'
 translatedAt: '2026-04-14T19:16:13+08:00'
+featured: false
+lastHumanReview: false
 ---
 
 En 1971, dans le quartier de Beitou à Taipei, une odeur de soufre persistante imprégnait l'air. Chiang Shu-hui — connue plus tard sous le nom de scène Chiang Hui — avait 10 ans et circulait déjà entre les cabarets et les hôtels animés. Pour aider sa famille à rembourser les dettes de son père, elle ne touchait que 10 dollars taïwanais par chanson interprétée. Elle ne savait pas encore qu'au cours des quarante années suivantes, elle deviendrait la chanteuse en langue hokkien la plus primée et la plus influente de toute l'histoire musicale de Taïwan.

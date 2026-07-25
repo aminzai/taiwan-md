@@ -13,6 +13,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **En 30 secondes :** Le marché de la fondue taïwanaise représente un chiffre d'affaires annuel de plusieurs dizaines de milliards de dollars. Bien plus qu'un plat national réchauffant en hiver, c'est une culture culinaire appréciée toute l'année. Du _sukiyaki_ de la période coloniale japonaise aux foyers diversifiés apportés par les immigrants d'après-guerre, en passant par les mini-fondues individuelles et les fondues haut de gamme d'aujourd'hui, l'histoire de la fondue taïwanaise reflète les mutations sociales et la fusion des communautés de cette île, pour finalement mijoter une saveur unique : le « goût taïwanais ».

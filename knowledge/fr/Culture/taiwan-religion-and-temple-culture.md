@@ -1,7 +1,7 @@
 ---
 title: 'Les croyances religieuses à Taïwan : un empire de foi né de la peur'
 description: "L'île possédant la plus haute densité de temples au monde et classée deuxième en liberté religieuse en Asie, ses deux croyances les plus répandues — les Rois célestes (Wangye) et la déesse Mazu — trouvent toutes deux leur origine historique dans la peste et la mort. Du XVIIe siècle, lorsque des colons militaires traversaient le détroit de Taïwan avec des idoles liées à leur corps, au rapport 2025 sur la liberté mondiale attribuant à Taïwan un score de 94 ; de l'interdiction du Yiguandao en 1953 à sa légalisation en 1987, première religion à être légalisée après la levée de la loi martiale, en passant par les quatre grands bouddhismes de montagne et l'Église presbytérienne empruntant chacune leur propre voie dans les relations État-religion — la foi taïwanaise ne réside pas dans les écritures, mais dans l'encens du coin de la rue."
-date: '2026-04-28'
+date: 2026-04-28
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '宗教與民俗'
@@ -18,10 +18,10 @@ tags:
     'Église presbytérienne',
     "Temple Bao'an",
   ]
-readingTime: '22'
-lastVerified: '2026-04-28'
-lastHumanReview: 'true'
-featured: 'true'
+readingTime: 22
+lastVerified: 2026-04-28
+lastHumanReview: true
+featured: true
 translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:8d534bf965b094a9'

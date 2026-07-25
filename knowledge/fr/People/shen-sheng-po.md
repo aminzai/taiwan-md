@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Art et design'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-23
@@ -22,6 +22,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
 translatedAt: 2026-05-16T22:21:10Z
+lastHumanReview: false
 ---
 
 # Shen Sheng-Bo

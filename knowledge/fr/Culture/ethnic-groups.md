@@ -14,7 +14,7 @@ tags:
   ]
 subcategory: 'Culture ethnique'
 category: 'Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-30
 translatedFrom: 'Culture/族群（閩南客家原住民外省新住民）.md'
@@ -22,6 +22,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:5bfd9c2eabdc2883'
 sourceBodyHash: 'sha256:acd1d73d033867e1'
 translatedAt: 2026-05-16T22:20:34Z
+lastHumanReview: true
 ---
 
 # Les groupes ethniques de Taïwan

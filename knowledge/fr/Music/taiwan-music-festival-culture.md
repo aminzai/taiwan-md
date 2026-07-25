@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Indépendant et rock'
 category: 'Music'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: true
 readingTime: 10
 lastVerified: 2026-03-29

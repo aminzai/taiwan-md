@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Musiques traditionnelles et ethniques'
 category: 'Music'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-04-01
 lastHumanReview: true

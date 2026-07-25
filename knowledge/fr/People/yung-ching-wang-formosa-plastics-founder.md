@@ -8,8 +8,8 @@ subcategory: '科技與企業'
 tags: ['科技與企業', '台塑集團', '石化工業', '六輕', '企業家']
 readingTime: 7
 lastVerified: 2026-05-07
-lastHumanReview: 'true'
-featured: 'false'
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/王永慶.md'
 sourceCommitSha: '1e180a591'
 sourceContentHash: 'sha256:09b83ca512f814fd'

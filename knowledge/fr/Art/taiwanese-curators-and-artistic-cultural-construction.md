@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Art contemporain'
 category: 'Art'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-24
@@ -21,6 +21,7 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:01e74babf94ac8da'
 sourceBodyHash: 'sha256:859c873057ee681d'
 translatedAt: '2026-05-13T01:08:41Z'
+lastHumanReview: false
 ---
 
 # Les commissaires d'exposition taïwanais et la construction culturelle artistique

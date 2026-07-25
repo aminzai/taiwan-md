@@ -11,7 +11,7 @@ tags:
     'cuisine maritime',
   ]
 subcategory: 'Ingrédients et assaisonnements'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 difficulty: 'beginner'
 readingTime: 8
 category: 'Food'

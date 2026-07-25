@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:65a3ff761ca143a1'
 sourceBodyHash: 'sha256:da607a2f72ce021f'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **En 30 secondes :** Le tofu puant est la nourriture populaire la plus controversée et la plus emblématique de Taïwan. Né d'un heureux hasard sous la dynastie Qing, il a évolué sur l'île pour devenir un savoir-faire unique de « fermentation vivante ». Du tofu à la saumure de Shenkeng, avec sa note fumée, au miracle croustillant de la triple cuisson à Yuli, dans le Hualien, cet article vous fera comprendre pourquoi cette odeur qui fait fuir attire les autorités japonaises en fermentation au-delà des mers, et comment elle est devenue un symbole de la résilience culturelle taïwanaise.

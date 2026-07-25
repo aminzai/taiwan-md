@@ -11,7 +11,7 @@ tags:
     'changement climatique',
   ]
 subcategory: 'Mouvements sociaux'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 featured: true
 category: 'Society'

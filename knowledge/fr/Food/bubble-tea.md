@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: 'Culture des boissons'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false

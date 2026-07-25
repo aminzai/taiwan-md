@@ -5,7 +5,16 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Music'
 subcategory: '流行音樂'
-tags: ['mouvement folklorique', 'chansons folkloriques universitaires', 'Concours Golden Melody', 'Li Shuangze', 'Yang Xian', 'Hu Defu', 'chanter nos propres chansons']
+tags:
+  [
+    'mouvement folklorique',
+    'chansons folkloriques universitaires',
+    'Concours Golden Melody',
+    'Li Shuangze',
+    'Yang Xian',
+    'Hu Defu',
+    'chanter nos propres chansons',
+  ]
 readingTime: 12
 lastVerified: 2026-05-16
 lastHumanReview: true
@@ -15,11 +24,12 @@ sourceCommitSha: '7415dcaa'
 sourceContentHash: 'sha256:e201829436b891a1'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
 translatedAt: '2026-05-17T05:34:56+08:00'
+difficulty: 'beginner'
 ---
 
 # Le mouvement folklorique taïwanais
 
-> **En 30 secondes :** Le 3 décembre 1976, lors d'un concert au collège Tamkang, Li Shuangze fracasse une bouteille de Coca-Cola et lance : « Pourquoi chantons-nous des chansons étrangères ? » — Cet « incident de Tamkang » déclenche le mouvement folklorique taïwanais. En 1975, Yang Xian donne la première de *Nostalgie en quatre vers* au Zhongshan Hall ; Hu Defu introduit des chants ancestraux autochtones ; en 1977, les concours Golden Melody et Folk Style commercialisent le mouvement, donnant naissance à une génération de chanteurs folk : Chyi Yu, Tsai Chin, Ye Jiaxiu, Li Jianfu. Bien que le mouvement s'achève après une décennie, marqué par le départ de talents à l'étranger et la commercialisation, l'esprit de « chanter nos propres chansons » se perpétue jusqu'aux générations de Lo Ta-yu, Cheer Chen et Deserts Chang.
+> **En 30 secondes :** Le 3 décembre 1976, lors d'un concert au collège Tamkang, Li Shuangze fracasse une bouteille de Coca-Cola et lance : « Pourquoi chantons-nous des chansons étrangères ? » — Cet « incident de Tamkang » déclenche le mouvement folklorique taïwanais. En 1975, Yang Xian donne la première de _Nostalgie en quatre vers_ au Zhongshan Hall ; Hu Defu introduit des chants ancestraux autochtones ; en 1977, les concours Golden Melody et Folk Style commercialisent le mouvement, donnant naissance à une génération de chanteurs folk : Chyi Yu, Tsai Chin, Ye Jiaxiu, Li Jianfu. Bien que le mouvement s'achève après une décennie, marqué par le départ de talents à l'étranger et la commercialisation, l'esprit de « chanter nos propres chansons » se perpétue jusqu'aux générations de Lo Ta-yu, Cheer Chen et Deserts Chang.
 
 Le 3 décembre 1976, lors d'un concert au collège Tamkang[^1], un étudiant philippin d'origine chinoise monte sur scène, une bouteille de Coca-Cola à la main, une guitare dans le dos, et interpelle avec colère le public : « Pourquoi chantons-nous des chansons étrangères ? » Il fracasse sa bouteau de Coca-Cola au sol[^2]. Ce bris de verre sera plus tard perçu comme le moment où la colonisation musicale d'une époque se brise. Cet homme s'appelle Li Shuangze, et cet instant est connu sous le nom d'« incident de Tamkang » — le point de départ le plus symbolique du mouvement folklorique taïwanais.
 
@@ -37,7 +47,7 @@ C'est dans ce contexte que « chanter nos propres chansons » cesse d'être un s
 
 ### Yang Xian : le semeur de la chanson folk moderne
 
-Le 6 juin 1975, Yang Xian, étudiant à l'Institut d'océanographie de l'Université nationale de Taïwan, organise au Zhongshan Hall de Taipei un « concert de création folk moderne »[^3]. Il met en musique le poème *Nostalgie en quatre vers* de Yu Kwang-chung et propose pour la première fois le concept de « chanson folk moderne ».
+Le 6 juin 1975, Yang Xian, étudiant à l'Institut d'océanographie de l'Université nationale de Taïwan, organise au Zhongshan Hall de Taipei un « concert de création folk moderne »[^3]. Il met en musique le poème _Nostalgie en quatre vers_ de Yu Kwang-chung et propose pour la première fois le concept de « chanson folk moderne ».
 
 L'innovation de Yang Xian réside dans la fusion de la poésie chinoise moderne avec la folk et la country américaines, créant une forme musicale inédite. Ce concert est considéré comme le point de départ officiel du mouvement folklorique taïwanais, et Yang Xian est depuis surnommé le « père de la chanson folk moderne »[^4].
 
@@ -45,7 +55,7 @@ L'innovation de Yang Xian réside dans la fusion de la poésie chinoise moderne 
 
 Le chanteur autochtone Hu Defu est un autre éveilleur essentiel de ce mouvement[^6]. Ses performances au Columbia Café constituent une transmission culturelle au ralenti. Hu Defu se met à chanter des mélodies ancestrales du peuple Paiyan, offrant pour la première fois aux jeunes urbains l'écoute de la voix la plus originelle et la plus pure de la terre taïwanaise.
 
-En 1974, Hu Defu organise le concert « Beautiful Rice Ears », qui est aussi la scène de la première interprétation publique de *Nostalgie en quatre vers* par Yang Xian, semant les graines du concert du Zhongshan Hall l'année suivante.
+En 1974, Hu Defu organise le concert « Beautiful Rice Ears », qui est aussi la scène de la première interprétation publique de _Nostalgie en quatre vers_ par Yang Xian, semant les graines du concert du Zhongshan Hall l'année suivante.
 
 ### Li Shuangze : le clairon de la révolution
 
@@ -55,7 +65,7 @@ Ce jeune homme, de retour d'un séjour d'études en Espagne et aux États-Unis, 
 
 L'instant où Li Shuangze fracasse sa bouteille de Coca-Cola passe en un clin d'œil d'une explosion émotionnelle personnelle à un symbole de résistance de toute génération contre la colonisation culturelle. Son cri de « chanter nos propres chansons » devient rapidement le slogan spirituel du mouvement des chansons folk universitaires taïwanaises.
 
-🎵 **À écouter** : [*Beautiful Island* de Li Shuangze](https://www.youtube.com/watch?v=4UvWeuzhxHw) — version interprétée par Yang Zu-jun
+🎵 **À écouter** : [_Beautiful Island_ de Li Shuangze](https://www.youtube.com/watch?v=4UvWeuzhxHw) — version interprétée par Yang Zu-jun
 
 ## Les moteurs de la commercialisation : le concours Golden Melody et les restaurants folk occidentaux
 
@@ -69,11 +79,11 @@ Parallèlement, des restaurants folk de style occidental poussent comme des cham
 
 ### La chanson folk intellectuelle
 
-La chanson folk intellectuelle, représentée par Chyi Yu, recherche la fusion de la poésie et de la philosophie. La voix cristalline de Chyi Yu interprète des classiques comme [*L'Olivier*](https://www.youtube.com/watch?v=PGcw9SvHhh0) et *Marchant sous la pluie*, illustrant le côté littéraire de la musique folk.
+La chanson folk intellectuelle, représentée par Chyi Yu, recherche la fusion de la poésie et de la philosophie. La voix cristalline de Chyi Yu interprète des classiques comme [_L'Olivier_](https://www.youtube.com/watch?v=PGcw9SvHhh0) et _Marchant sous la pluie_, illustrant le côté littéraire de la musique folk.
 
 ### La chanson folk rurale
 
-*Le Sentier de campagne* de Ye Jiaxiu, *La Baie de Penghu de grand-mère* de Pan An-bang incarnent la simplicité et la chaleur de la chanson folk rurale. Ces chansons dépeignent le foyer intérieur de chacun, touchant le cœur des voyageurs loin de chez eux.
+_Le Sentier de campagne_ de Ye Jiaxiu, _La Baie de Penghu de grand-mère_ de Pan An-bang incarnent la simplicité et la chaleur de la chanson folk rurale. Ces chansons dépeignent le foyer intérieur de chacun, touchant le cœur des voyageurs loin de chez eux.
 
 ### La chanson folk urbaine
 
@@ -83,9 +93,9 @@ Tsai Chin, Zheng Yi et d'autres représentent le raffinement et la maturité de 
 
 Cette période voit naître d'innombrables classiques :
 
-**[*Le Descendant du dragon*](https://www.youtube.com/watch?v=50dyyevLH6I)** (paroles et musique de Hou Dejian, première interprétation par Li Jianfu) naît en 1978 dans le contexte de la rupture des relations Taïwan-États-Unis, exprimant l'identité nationale et culturelle chinoise — c'est la voix de l'époque chargée du plus grand poids historique du mouvement folk. ***L'Olivier*** (Chyi Yu) transmet le romantisme du désir de liberté à travers « les petits oiseaux qui volent dans le ciel » ; **[*Tendre comme ta douceur*](https://www.youtube.com/watch?v=Yvg3L7RbFHY)** (Tsai Chin) illustre la finesse et la profondeur de l'amour urbain ; ***Le Sentier de campagne*** (Ye Jiaxiu) marie parfaitement nostalgie et innocence ; ***La Baie de Penghu de grand-mère*** (Pan An-bang) inscrit les souvenirs d'enfance et la poésie de l'océan ; ***La Cigale d'automne*** (Yang Fang-yi, Xu Xiao-jing) dépeint la mélancolie des années de jeunesse ; ***Si*** (Shi Bi-wu, Tai Zhao-mei) est une imagination romantique de l'amour.
+**[_Le Descendant du dragon_](https://www.youtube.com/watch?v=50dyyevLH6I)** (paroles et musique de Hou Dejian, première interprétation par Li Jianfu) naît en 1978 dans le contexte de la rupture des relations Taïwan-États-Unis, exprimant l'identité nationale et culturelle chinoise — c'est la voix de l'époque chargée du plus grand poids historique du mouvement folk. **_L'Olivier_** (Chyi Yu) transmet le romantisme du désir de liberté à travers « les petits oiseaux qui volent dans le ciel » ; **[_Tendre comme ta douceur_](https://www.youtube.com/watch?v=Yvg3L7RbFHY)** (Tsai Chin) illustre la finesse et la profondeur de l'amour urbain ; **_Le Sentier de campagne_** (Ye Jiaxiu) marie parfaitement nostalgie et innocence ; **_La Baie de Penghu de grand-mère_** (Pan An-bang) inscrit les souvenirs d'enfance et la poésie de l'océan ; **_La Cigale d'automne_** (Yang Fang-yi, Xu Xiao-jing) dépeint la mélancolie des années de jeunesse ; **_Si_** (Shi Bi-wu, Tai Zhao-mei) est une imagination romantique de l'amour.
 
-🎵 **Sélection de classiques folk** : [*Le Lys sauvage a aussi son printemps* de Pan Yue-yun](https://www.youtube.com/watch?v=GSoLwHTXRmM) ｜ [*Le vent du Pacifique* de Hu Defu](https://www.youtube.com/watch?v=1orwkijmkIU)
+🎵 **Sélection de classiques folk** : [_Le Lys sauvage a aussi son printemps_ de Pan Yue-yun](https://www.youtube.com/watch?v=GSoLwHTXRmM) ｜ [_Le vent du Pacifique_ de Hu Defu](https://www.youtube.com/watch?v=1orwkijmkIU)
 
 ## Le déclin et la transformation d'une époque
 
@@ -93,7 +103,7 @@ Au début des années 1980, le mouvement des chansons folk universitaires taïwa
 
 ### Rupture générationnelle
 
-Les principales figures du mouvement folk partent poursuivre des études à l'étranger ou effectuent leur service militaire après l'obtention de leur diplôme, créant une rupture générationnelle. Yang Xian part aux États-Unis étudier la médecine chinoise après la sortie de *Sortir par la passe de l'Ouest* en 1977 ; Li Shuangze meurt accidentellement en septembre 1977 à l'âge de 28 ans en sauivant un jeune noyé dans la mer à Tamsui — ses deux œuvres laissées de son vivant, *Beautiful Island* et *Jeune Chine*, seront ensuite enregistrées par Yang Zu-jun et Hu Defu[^2]. De nombreux chanteurs folk quittent également la scène musicale, temporairement ou définitivement, en raison de leurs projets de carrière.
+Les principales figures du mouvement folk partent poursuivre des études à l'étranger ou effectuent leur service militaire après l'obtention de leur diplôme, créant une rupture générationnelle. Yang Xian part aux États-Unis étudier la médecine chinoise après la sortie de _Sortir par la passe de l'Ouest_ en 1977 ; Li Shuangze meurt accidentellement en septembre 1977 à l'âge de 28 ans en sauivant un jeune noyé dans la mer à Tamsui — ses deux œuvres laissées de son vivant, _Beautiful Island_ et _Jeune Chine_, seront ensuite enregistrées par Yang Zu-jun et Hu Defu[^2]. De nombreux chanteurs folk quittent également la scène musicale, temporairement ou définitivement, en raison de leurs projets de carrière.
 
 ### Changement du climat social
 
@@ -109,7 +119,7 @@ Bien que le mouvement des chansons folk universitaires ait pris fin, son hérita
 
 ### Lo Ta-yu : l'héritier rebelle de la musique folk
 
-Lo Ta-yu est sans doute l'héritier rebelle le plus important du mouveux folk. Il hérite de l'esprit de « chanter nos propres chansons », mais refuse la douceur et l'innocence de la musique folk, se tournant vers une approche plus incisive et plus critique des réalités sociales. De *Zhihuzheye* à *La Famille*, Lo Ta-yu ouvre une nouvelle ère de la musique pop sinophone.
+Lo Ta-yu est sans doute l'héritier rebelle le plus important du mouveux folk. Il hérite de l'esprit de « chanter nos propres chansons », mais refuse la douceur et l'innocence de la musique folk, se tournant vers une approche plus incisive et plus critique des réalités sociales. De _Zhihuzheye_ à _La Famille_, Lo Ta-yu ouvre une nouvelle ère de la musique pop sinophone.
 
 ### L'ADN de la musique indépendante d'aujourd'hui
 
@@ -147,9 +157,9 @@ La réponse du mouvement folklorique taïwanais est : n'ayez pas peur de créer 
 
 [^1]: [Wiki Tamsui : entrée « Incident de Tamkang »](http://tamsui.dils.tku.edu.tw/wiki/index.php/%E6%B7%A1%E6%B1%9F%E4%BA%8B%E4%BB%B6) — Documentation complète de l'incident de Tamkang du 3 décembre 1976 au collège Tamkang : chronologie, personnages, détails de la scène et impact ultérieur.
 
-[^2]: [Fount Media : « Chanter nos propres chansons » ! Li Shuangze, disparu trop tôt, a influencé plusieurs générations de créateurs](https://www.fountmedia.io/article/104260) — Reportage approfondi sur la vie de Li Shuangze, la scène de l'incident de Tamkang avec la bouteille de Coca-Cola, la création de *Beautiful Island* et *Jeune Chine*, ainsi que son héritage spirituel pour les générations suivantes comme Hu Defu, Yang Xian et Lo Ta-yu.
+[^2]: [Fount Media : « Chanter nos propres chansons » ! Li Shuangze, disparu trop tôt, a influencé plusieurs générations de créateurs](https://www.fountmedia.io/article/104260) — Reportage approfondi sur la vie de Li Shuangze, la scène de l'incident de Tamkang avec la bouteille de Coca-Cola, la création de _Beautiful Island_ et _Jeune Chine_, ainsi que son héritage spirituel pour les générations suivantes comme Hu Defu, Yang Xian et Lo Ta-yu.
 
-[^3]: [Fondation d'échanges du détroit de Taïwan, *Revue Exchange* : article spécial « Quarante ans de musique folk »](https://www.sef.org.tw/article-1-129-5006) — Article rétrospectif long pour le quarantième anniversaire du folk, incluant le moment historique du concert de « création folk moderne » de Yang Xian au Zhongshan Hall le 6 juin 1975, avec la première mise en musique de *Nostalgie en quatre vers* de Yu Kwang-chung.
+[^3]: [Fondation d'échanges du détroit de Taïwan, _Revue Exchange_ : article spécial « Quarante ans de musique folk »](https://www.sef.org.tw/article-1-129-5006) — Article rétrospectif long pour le quarantième anniversaire du folk, incluant le moment historique du concert de « création folk moderne » de Yang Xian au Zhongshan Hall le 6 juin 1975, avec la première mise en musique de _Nostalgie en quatre vers_ de Yu Kwang-chung.
 
 [^4]: [Wikipédia : chansons folk universitaires](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C) — Entrée complète de Wikipédia en chinois sur les « chansons folk universitaires », incluant la désignation historique de Yang Xian comme « père de la chanson folk moderne » et une vue d'ensemble du mouvement folk.
 

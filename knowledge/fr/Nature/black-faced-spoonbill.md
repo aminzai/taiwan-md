@@ -20,6 +20,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8cef581f5392bc2b'
 sourceBodyHash: 'sha256:445b5720cbf0d2d9'
 translatedAt: 2026-05-01T22:19:06+08:00
+featured: false
 ---
 
 > **En bref (30 s) :** La spatule noire était autrefois une espèce en danger critique, avec moins de 300 individus recensés dans le monde. Après trente ans d'efforts transnationaux, sa population dépasse désormais les 7 000 individus, dont plus de 60 % choisissent de passer l'hiver à Taïwan. C'est un modèle de réussite en matière de conservation, mais avec l'augmentation des effectifs, ces hôtes de marque sont contraints de quitter les zones protégées centrales, cherchant de nouveaux habitats sûrs entre panneaux photovoltaïques, chiens errants et botulisme mortel.

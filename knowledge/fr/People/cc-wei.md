@@ -15,7 +15,7 @@ subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08
-lastHumanReview: false
+lastHumanReview: true
 readingTime: 7
 # design_rationale:
 #   why_this_hook: "從交大→耶魯→德儀→台積電的路徑，加上2024年接任董事長——這是一個40年積累的位置，不是空降。"

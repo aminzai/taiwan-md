@@ -20,7 +20,7 @@ tags:
   ]
 readingTime: 12
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
 featured: false
 translatedFrom: People/VH.md
 sourceCommitSha: '4b6d28c5'

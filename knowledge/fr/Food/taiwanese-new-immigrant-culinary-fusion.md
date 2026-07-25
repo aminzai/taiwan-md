@@ -12,7 +12,7 @@ tags:
   ]
 subcategory: 'Gastronomie des communautés ethniques'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md 編輯團隊'
 readingTime: 10
 featured: true
 translatedFrom: 'Food/台灣新住民美食融合.md'
@@ -23,6 +23,7 @@ sourceBodyHash: 'sha256:6806ae061b784232'
 translatedAt: '2026-05-13T01:08:41Z'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pho%2C_popular_Vietnamese_noodle_soup.jpg/960px-Pho%2C_popular_Vietnamese_noodle_soup.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+lastHumanReview: false
 ---
 
 # La fusion culinaire des nouveaux immigrants à Taïwan

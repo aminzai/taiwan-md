@@ -20,6 +20,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
 translatedAt: '2026-05-16T22:35:54Z'
+featured: false
 ---
 
 > **En 30 secondes :** Dans le processus de modernisation de Taïwan, **Sun Yun-suan** (1913-2006) est un nom incontournable. Surnommé « le Premier ministre de toujours », son image publique mêlait la professionnalité d'un technocrate, une intégrité personnelle irréprochable et une détermination audacieuse aux moments charnières de la transition nationale. De la réparation des infrastructures électriques dans les ruines de l'après-guerre à la promotion de l'industrie des semi-conducteurs dans les années 1970 en dépit des oppositions, la vie de Sun Yun-suan constitue presque un récit entrepreneurial de la transformation de Taïwan, de la désolation à la prospérité [^1][^2].

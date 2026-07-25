@@ -17,7 +17,7 @@ tags:
   ]
 category: 'Society'
 subcategory: 'Éducation'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 15
 featured: true

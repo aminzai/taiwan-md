@@ -16,8 +16,8 @@ tags:
 subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-05-23
-lastHumanReview: true
+lastVerified: 2026-07-12
+lastHumanReview: false
 rationale:
   why_this_hook: "Le soir de la défaite du 14 janvier 2012, « vous pouvez pleurer, mais ne perdez pas courage » + 8,17 millions de voix quatre ans plus tard lors de la réélection. C'est l'entrée en matière du biographique qui recèle le renversement le plus saisissant, en écho avec la conclusion « le silence peut aussi être un style de leadership »."
   whats_excluded: "6 camps critiques : Bleu foncé (responsabilité de la dégradation des relations inter-détroit) / Vert foncé (récupération du cadre « République de Chine Taïwan ») / Parti populaire taïwanais (mariage homosexuel par loi spéciale / énergie / réforme judiciaire / prix de l'immobilier) / Progressistes (mariage homosexuel de second rang / suivi des peuples autochtones absent) / Ambiguïté stratégique / Fractions internes du parti. La plupart relèvent « hors du périmètre » (renvoyés à des articles thématiques autonomes) + « contrainte de longueur ». Déjà couvert en prose : critique du mariage homosexuel + peuples autochtones dans § « Les deux signatures » / critique COVID dans § « 817 000 voix » / ruptures diplomatiques + NCC/CtiTV hedge bref dans § « En partant » (per Phase 5 sous-agent dogfood)."
