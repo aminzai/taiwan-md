@@ -72,7 +72,15 @@ def parse_ssot_table():
     if not ROUTINE_SSOT.exists():
         die(f"讀不到 SSOT {ROUTINE_SSOT}")
     tasks = {}
+    in_paused_table = False
     for line in ROUTINE_SSOT.read_text(encoding="utf-8").splitlines():
+        # §⏸️ PAUSED 表裡的每一列都是停用的，即使那一列本身沒有 ⏸️ 字樣。
+        # （2026-07-25 首跑踩到：music-media-audit 躺在 PAUSED 表裡卻被讀成 enabled，
+        #  差點讓 routine 去打開一條哲宇刻意關掉的 task。）
+        if "⏸️ PAUSED" in line:
+            in_paused_table = True
+        elif line.startswith("#"):
+            in_paused_table = False
         if not line.startswith("|"):
             continue
         cells = [c.strip() for c in line.strip().strip("|").split("|")]
@@ -88,7 +96,7 @@ def parse_ssot_table():
                 cron = cm.group(1).strip()
                 break
         row = " ".join(cells)
-        enabled = "⏸️" not in row and "PAUSED" not in row
+        enabled = not in_paused_table and "⏸️" not in row and "PAUSED" not in row
         tasks[m.group(1)] = {"cron": cron, "enabled": enabled, "title": cells[1]}
     return tasks
 
