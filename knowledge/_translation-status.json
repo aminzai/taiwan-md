@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T12:39:12+08:00",
-    "zhCommitHead": "c92b5880f",
+    "lastUpdated": "2026-07-25T12:39:19+08:00",
+    "zhCommitHead": "f13b0990a",
     "totalZh": 863,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 863,
-        "fresh": 121,
+        "fresh": 122,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 741,
+        "missing": 740,
         "orphan": 0
       }
     },
@@ -53246,7 +53246,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chiung-wi-vun.md",
+          "translatedFrom": "People/蔣為文.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:46faaa4a99788548",
+          "sourceBodyHash": "sha256:161cfe479ea8068c",
+          "translatedAt": "2026-07-25T12:13:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
