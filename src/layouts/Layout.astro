@@ -149,8 +149,9 @@ const jfClass = [
   .join(' ');
 
 // Skip-to-content link label, localized by the Layout's lang prop
-// (2026-07-06 design-audit §2.9-1). Keyed by the six site languages;
-// falls back to zh-TW.
+// (2026-07-06 design-audit §2.9-1)。⚠️ 這張表是元件私有的第三套翻譯系統，
+// 新語言出生時不會自動出現在這裡——vi/id/pt/hi 出生一週都掉回 zh 沒人發現，
+// ar/ru 開站日（2026-07-25）才被抓到。加語言記得同步 ReaderSettings.astro。
 const skipLinkLabels: Record<string, string> = {
   'zh-TW': '跳到主要內容',
   en: 'Skip to content',
@@ -158,6 +159,12 @@ const skipLinkLabels: Record<string, string> = {
   ko: '본문으로 건너뛰기',
   es: 'Saltar al contenido',
   fr: 'Aller au contenu',
+  vi: 'Bỏ qua đến nội dung chính',
+  id: 'Langsung ke konten utama',
+  pt: 'Ir para o conteúdo',
+  hi: 'मुख्य सामग्री पर जाएँ',
+  ar: 'الانتقال إلى المحتوى الرئيسي',
+  ru: 'Перейти к основному содержимому',
 };
 const skipLinkLabel = skipLinkLabels[lang] ?? skipLinkLabels['zh-TW'];
 ---

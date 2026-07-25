@@ -12,6 +12,8 @@ const t = useTranslations(lang);
 // translatePath (blind prefix) was retired here for that reason.
 const navHref = (p: string) => resolveStaticHref(lang, p);
 
+// ⚠️ 元件私有語言表——新語言出生不會自動出現在這裡（2026-07-25 ar/ru 開站日
+// 一次補了 vi/id/pt/hi/ar/ru 六語，前四語出生後一直掉回英文沒人發現）。
 // A handful of new site-map labels have no key in src/i18n/ui.ts (which is
 // outside this file's edit territory). They are localized inline for the six
 // supported UI langs, mirroring the existing `lang === 'zh-TW' ? … : …` idiom
@@ -25,6 +27,12 @@ const label = {
     ko: '데이터',
     es: 'Datos',
     fr: 'Données',
+    vi: 'Dữ liệu',
+    id: 'Data',
+    pt: 'Dados',
+    hi: 'डेटा',
+    ar: 'البيانات',
+    ru: 'Данные',
   }),
   organism: L({
     'zh-TW': '生命體',
@@ -33,6 +41,12 @@ const label = {
     ko: '유기체',
     es: 'Organismo',
     fr: 'Organisme',
+    vi: 'Cơ thể sống',
+    id: 'Organisme',
+    pt: 'Organismo',
+    hi: 'जीव',
+    ar: 'الكائن الحي',
+    ru: 'Организм',
   }),
   participate: L({
     'zh-TW': '參與',
@@ -41,6 +55,12 @@ const label = {
     ko: '참여',
     es: 'Participar',
     fr: 'Participer',
+    vi: 'Tham gia',
+    id: 'Berpartisipasi',
+    pt: 'Participar',
+    hi: 'भाग लें',
+    ar: 'المشاركة',
+    ru: 'Участвовать',
   }),
   converter: L({
     'zh-TW': '用語轉換器',
@@ -49,6 +69,12 @@ const label = {
     ko: '용어 변환기',
     es: 'Conversor de términos',
     fr: 'Convertisseur de termes',
+    vi: 'Bộ chuyển đổi thuật ngữ',
+    id: 'Konverter istilah',
+    pt: 'Conversor de termos',
+    hi: 'शब्दावली परिवर्तक',
+    ar: 'محوّل المصطلحات',
+    ru: 'Конвертер терминов',
   }),
   companies: L({
     'zh-TW': '台灣企業',
@@ -57,6 +83,12 @@ const label = {
     ko: '대만 기업',
     es: 'Empresas',
     fr: 'Entreprises',
+    vi: 'Doanh nghiệp Đài Loan',
+    id: 'Perusahaan Taiwan',
+    pt: 'Empresas',
+    hi: 'ताइवानी कंपनियाँ',
+    ar: 'الشركات التايوانية',
+    ru: 'Компании Тайваня',
   }),
   forkGraph: L({
     'zh-TW': '語言分支樹',
@@ -65,6 +97,12 @@ const label = {
     ko: '언어 분기 트리',
     es: 'Árbol de ramas lingüísticas',
     fr: 'Arbre des branches linguistiques',
+    vi: 'Cây nhánh ngôn ngữ',
+    id: 'Pohon cabang bahasa',
+    pt: 'Árvore de ramificações linguísticas',
+    hi: 'भाषा शाखा वृक्ष',
+    ar: 'شجرة فروع اللغات',
+    ru: 'Дерево языковых ветвей',
   }),
   lifetree: L({
     'zh-TW': '生命樹',
@@ -73,6 +111,12 @@ const label = {
     ko: '생명 나무',
     es: 'Árbol de la vida',
     fr: 'Arbre de vie',
+    vi: 'Cây sự sống',
+    id: 'Pohon kehidupan',
+    pt: 'Árvore da vida',
+    hi: 'जीवन वृक्ष',
+    ar: 'شجرة الحياة',
+    ru: 'Древо жизни',
   }),
   anatomy: L({
     'zh-TW': '解剖圖',
@@ -81,6 +125,12 @@ const label = {
     ko: '해부도',
     es: 'Anatomía',
     fr: 'Anatomie',
+    vi: 'Sơ đồ giải phẫu',
+    id: 'Anatomi',
+    pt: 'Anatomia',
+    hi: 'शरीर-रचना',
+    ar: 'التشريح',
+    ru: 'Анатомия',
   }),
   diary: L({
     'zh-TW': '日記',
@@ -89,6 +139,12 @@ const label = {
     ko: '일기',
     es: 'Diario',
     fr: 'Journal',
+    vi: 'Nhật ký',
+    id: 'Buku harian',
+    pt: 'Diário',
+    hi: 'डायरी',
+    ar: 'اليوميات',
+    ru: 'Дневник',
   }),
   manifesto: L({
     'zh-TW': '身份宣言',
@@ -97,6 +153,12 @@ const label = {
     ko: '선언',
     es: 'Manifiesto',
     fr: 'Manifeste',
+    vi: 'Tuyên ngôn',
+    id: 'Manifesto',
+    pt: 'Manifesto',
+    hi: 'घोषणापत्र',
+    ar: 'البيان',
+    ru: 'Манифест',
   }),
   // The following five reuse the same wording as the shared nav.* keys but
   // drop the decorative emoji — design audit §2.4: structural UI positions
@@ -110,6 +172,12 @@ const label = {
     ko: '탐색',
     es: 'Explorar',
     fr: 'Explorer',
+    vi: 'Khám phá',
+    id: 'Jelajahi',
+    pt: 'Explorar',
+    hi: 'खोजें',
+    ar: 'استكشاف',
+    ru: 'Обзор',
   }),
   map: L({
     'zh-TW': '地圖',
@@ -118,6 +186,12 @@ const label = {
     ko: '지도',
     es: 'Mapa',
     fr: 'Carte',
+    vi: 'Bản đồ',
+    id: 'Peta',
+    pt: 'Mapa',
+    hi: 'मानचित्र',
+    ar: 'الخريطة',
+    ru: 'Карта',
   }),
   soundscape: L({
     'zh-TW': '聲景',
@@ -126,6 +200,12 @@ const label = {
     ko: '사운드스케이프',
     es: 'Paisaje sonoro',
     fr: 'Paysage sonore',
+    vi: 'Cảnh quan âm thanh',
+    id: 'Lanskap suara',
+    pt: 'Paisagem sonora',
+    hi: 'ध्वनि-परिदृश्य',
+    ar: 'المشهد الصوتي',
+    ru: 'Звуковой ландшафт',
   }),
   elections: L({
     'zh-TW': '2026 選舉',
@@ -134,6 +214,12 @@ const label = {
     ko: '2026 지방선거',
     es: 'Elecciones 2026',
     fr: 'Élections 2026',
+    vi: 'Bầu cử 2026',
+    id: 'Pemilu 2026',
+    pt: 'Eleições 2026',
+    hi: 'चुनाव 2026',
+    ar: 'انتخابات 2026',
+    ru: 'Выборы 2026',
   }),
   semiont: L({
     'zh-TW': '生命體',
@@ -142,6 +228,12 @@ const label = {
     ko: '세미온트',
     es: 'Semionte',
     fr: 'Sémionte',
+    vi: 'Semiont',
+    id: 'Semiont',
+    pt: 'Semionte',
+    hi: 'सेमियोन्ट',
+    ar: 'سيميونت',
+    ru: 'Семионт',
   }),
   rss: lang === 'zh-TW' ? 'RSS 訂閱' : 'RSS',
 };

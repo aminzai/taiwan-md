@@ -20,6 +20,14 @@ const speechLangMap: Record<string, string> = {
   ja: 'ja-JP',
   ko: 'ko-KR',
   fr: 'fr-FR',
+  vi: 'vi-VN',
+  id: 'id-ID',
+  pt: 'pt-BR',
+  hi: 'hi-IN',
+  ar: 'ar-SA',
+  ru: 'ru-RU',
+  // ⚠️ 元件私有語言表：新語言出生不會自動出現——vi/id/pt/hi 出生後一週、
+  // ar/ru 開站日（2026-07-25）才發現這裡漏了，期間六語頁面全用英語語音朗讀。
 };
 const speechLang = speechLangMap[lang] || 'en-US';
 ---
