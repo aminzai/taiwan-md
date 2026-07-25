@@ -69,6 +69,28 @@ console.log(
   `[sitemap-hreflang-filter] Loaded ${existingUrlSet.size} existing URL paths for hreflang validation`,
 );
 
+// 2026-07-25 article-alias：英文別名網址集合，給 sitemap serialize() 排除用。
+// 別名本身是真實存在的頁面（0 秒轉址殼），所以它不會變成死連結；要防的是
+// 反向風險——把側門公告成正門。詳見 scripts/core/generate-article-aliases.mjs。
+function buildAliasUrlSet() {
+  const set = new Set();
+  const p = './config/article-aliases.json';
+  if (!existsSync(p)) return set;
+  try {
+    for (const key of Object.keys(JSON.parse(readFileSync(p, 'utf-8')))) {
+      set.add(`/${key}/`);
+    }
+  } catch (err) {
+    // 讀壞了要出聲，不要靜默讓別名漏進 sitemap。
+    console.warn('[sitemap-alias-filter] article-aliases.json 讀取失敗：', err);
+  }
+  return set;
+}
+const aliasUrlSet = buildAliasUrlSet();
+console.log(
+  `[sitemap-alias-filter] Loaded ${aliasUrlSet.size} alias URLs to exclude from sitemap`,
+);
+
 // Build sitemap i18n locales map: { 'zh-TW': 'zh-TW', en: 'en', ... }
 const sitemapLocales = Object.fromEntries(
   ENABLED_LANGUAGE_CODES.map((code) => [code, code]),
@@ -149,6 +171,17 @@ export default defineConfig({
       // item.links to only include alternates whose path exists in
       // existingUrlSet (built from src/content/ filesystem scan above).
       serialize(item) {
+        // 2026-07-25 article-alias：英文別名側門一律不進 sitemap。別名是給
+        // 「照著我們自己的 URL 文法推網址」的人跟機器走的側門，不是第二個正門
+        // ——canonical 永遠是中文網址。放進 sitemap 等於請 Google 把同一篇文章
+        // 當兩個 URL 收，正是 2026-07-17 那次 15% 404 率的同科病（站體對外
+        // 公告了自己不打算負責的 URL）。SSOT 是 config/article-aliases.json。
+        try {
+          if (aliasUrlSet.has(decodeURIComponent(new URL(item.url).pathname)))
+            return undefined;
+        } catch {
+          /* malformed URL：交給下面既有的處理 */
+        }
         // Per-URL <lastmod> = real last meaningful edit (content-dates.json,
         // git-derived + cosmetic-filtered). Omit when unknown — never fake.
         // decodeURIComponent: sitemap loc percent-encodes CJK slugs (zh-TW

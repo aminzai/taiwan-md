@@ -28,6 +28,7 @@
  */
 
 import { readFile, writeFile } from 'node:fs/promises';
+import { existsSync, readFileSync } from 'node:fs';
 import { readdir } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -50,6 +51,34 @@ const ALLOWED_FAMILIES = new Set([
   'cross-lang-slug',
   'renamed-or-truncated',
 ]);
+
+// 2026-07-25 article-alias：別名 registry 擁有的網址，這支工具一律讓路。
+//
+// 為什麼不是把 `cross-lang-slug` 整個家族拿掉：那個家族有兩個方向。一邊是
+// 「中文路由 + 英文 slug」（/people/stan-shih），已由 config/article-aliases.json
+// 系統性承接 827 篇；另一邊是反向的「外語路由 + 中文 slug」
+// （/ja/economy/台灣企業：台積電 → /ja/economy/tsmc），別名 registry 完全沒有
+// 覆蓋。整個家族拿掉會把後者那十幾條真 404 重新打開。
+//
+// 所以判準不是家族，是所有權：source 出現在別名 registry = 別名頁會服務它，
+// 這裡就不要再發一份 Astro redirect。兩邊都發的話 Astro `redirects` 會贏，
+// 而它的內建殼目標少了尾斜線，讀者多吃一跳。REFLEXES #38 混維度。
+function loadAliasOwnedPaths() {
+  const p = join(REPO, 'config/article-aliases.json');
+  if (!existsSync(p)) return new Set();
+  try {
+    return new Set(
+      Object.keys(JSON.parse(readFileSync(p, 'utf-8'))).map((k) => `/${k}`),
+    );
+  } catch (err) {
+    console.warn('   ⚠️  article-aliases.json 讀取失敗，本次不排除別名：', err);
+    return new Set();
+  }
+}
+const ALIAS_OWNED = loadAliasOwnedPaths();
+const isAliasOwned = (source) =>
+  ALIAS_OWNED.has(source.replace(/\/$/, '')) ||
+  ALIAS_OWNED.has(decodeURIComponent(source).replace(/\/$/, ''));
 
 // 抄自 scripts/core/generate-lang-switch-map.mjs 的 CATEGORY_FOLDER_TO_SLUG
 // （category 資料夾 → URL slug 對照表）。folder 不在表內時 fallback 用
@@ -288,6 +317,7 @@ async function main() {
     source_equals_target: 0,
     source_duplicates_manual: 0,
     duplicate_source_in_data: 0,
+    owned_by_alias_registry: 0,
     cap_exceeded: 0,
   };
 
@@ -314,6 +344,11 @@ async function main() {
     }
     if (routeTable.has(source)) {
       dropped.source_is_live_page++;
+      continue;
+    }
+    if (isAliasOwned(source)) {
+      // 別名頁已經服務這條網址（而且轉得比 Astro 內建殼好）。
+      dropped.owned_by_alias_registry++;
       continue;
     }
     if (source === target) {
@@ -413,6 +448,9 @@ async function main() {
     `     - target 不在 route 表：${dropped.target_not_in_route_table}`,
   );
   console.log(`     - source 本身已是活頁：${dropped.source_is_live_page}`);
+  console.log(
+    `     - 別名 registry 已擁有：${dropped.owned_by_alias_registry}`,
+  );
   console.log(`     - source === target：${dropped.source_equals_target}`);
   console.log(
     `     - source 跟 manual 條目重複：${dropped.source_duplicates_manual}`,
