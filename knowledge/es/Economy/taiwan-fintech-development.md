@@ -1,166 +1,166 @@
 ---
-title: 'El desarrollo de la tecnología financiera en Taiwán'
-description: 'Un joven prodigio de Wall Street regresó a Taiwán para fundar un sistema de pago móvil; nueve años después, la empresa fue embargada y sus cuentas bancarias tenían menos de mil dólares taiwaneses. Esta no es solo la historia de una persona, sino la de una isla entera atrapada entre la "apertura" y el "descontrol" durante una década de tecnología financiera.'
+title: 'Desarrollo de la tecnología financiera en Taiwán'
+description: "Un prodigio de Wall Street regresa a Taiwán para fundar una plataforma de pagos móviles; nueve años después, su empresa es clausurada y sus cuentas tienen menos de mil yuanes. Esta no es solo la historia de un hombre, sino la década de la tecnología financiera en toda la isla, oscilando entre la 'apertura' y la 'pérdida de control'."
 date: 2026-04-06
+author: 'Taiwan.md'
+category: 'Economy'
+subcategory: 'Finanzas y tecnología'
 tags:
   [
-    'tecnología financiera',
+    'Tecnología financiera',
     'FinTech',
-    'banca digital',
-    'pago móvil',
-    'sandbox regulatorio',
-    'neobanco',
-    'pago electrónico',
+    'Banca digital',
+    'Pagos móviles',
+    'Sandbox regulatorio',
+    'Banca puramente en línea',
+    'Pago electrónico',
   ]
-subcategory: '金融與科技'
-category: Economy
-author: 'Taiwan.md'
-featured: false
 readingTime: 12
 lastVerified: 2026-04-06
 lastHumanReview: false
-translatedFrom: Economy/台灣金融科技發展.md
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:c4241632c676aa85'
-sourceBodyHash: 'sha256:b0709e8ad615db88'
-translatedAt: '2026-05-16T22:20:03Z'
+featured: false
+translatedFrom: 'Economy/台灣金融科技發展.md'
+sourceCommitSha: '879ed9e77'
+sourceContentHash: 'sha256:54da57abafa311d1'
+sourceBodyHash: 'sha256:eb1efaa0a4f468ff'
+translatedAt: '2026-07-25T12:45:16+08:00'
 ---
 
-# El desarrollo de la tecnología financiera en Taiwán
+# Desarrollo de la tecnología financiera en Taiwán
 
-> **Panorama en 30 segundos:** El 10 de julio de 2025, la empresa matriz de JKOPay —la mayor plataforma de pago móvil de Taiwán— fue embargada por un tribunal, y sus cinco cuentas bancarias tenían menos de mil dólares taiwaneses en total. Nueve años antes, su fundador, Hu Yijia, había regresado desde Wall Street prometiendo hacer los pagos en Taiwán tan convenientes como en China. ¿Qué sucedió en el camino? La tecnología financiera taiwanesa comenzó en 2015 con un libro blanco de políticas, atravesó el sandbox regulatorio, la guerra de los pagos móviles, tres neobancos que acumularon pérdidas por 9,000 millones de TWD, y las pruebas del banco central con un nuevo dólar digital taiwanés. Cada paso fue un acto de equilibrio entre "dejar correr la innovación" y "no dejar que se descarrile".
+> **Resumen de 30 segundos:** El 10 de julio de 2025, la empresa matriz de "Jiekou Pay", el mayor servicio de pagos móviles local en Taiwán, fue clausurada por un tribunal; cinco cuentas bancarias sumaban menos de mil yuanes. Hace nueve años, cuando su fundador, Hu Yijia, regresó a Taiwán desde Wall Street, afirmó que quería que los pagos en Taiwán fueran tan convenientes como en China. ¿Qué sucedió en este intervalo? Desde el libro blanco de políticas de 2015, la tecnología financiera de Taiwán ha recorrido un camino que incluye sandboxes regulatorios, guerras de pagos móviles, tres bancos puramente en línea con pérdidas acumuladas de 9.000 millones de yuanes y las pruebas del Banco Central con el nuevo dólar taiwanés digital; cada paso ha sido un equilibrio en la cuerda floja entre "permitir la innovación" y "evitar que se descontrole".
 
 ## El prodigio de Wall Street regresa
 
-En 2015, un joven de poco más de 30 años regresó desde China a Taiwán y fundó JKOPay.
+En 2015, un joven de poco más de 30 años regresó a Taiwán desde China y fundó Jiekou Pay.
 
-Se llamaba Hu Yijia, graduado en matemáticas aplicadas por la Universidad Nacional Chiao Tung, con un máster de la Universidad de Columbia y experiencia como analista de fondos de cobertura en Wall Street, donde ganaba más de diez millones de TWD al año. La prensa lo llamó el "prodigio de Wall Street". Pero lo que lo trajo de vuelta no fue la nostalgia: tras vivir varios años en Suzhou, China, había presenciado de primera mano cómo Alipay y WeChat Pay transformaron los hábitos de consumo de más de mil millones de personas, y quería replicar esa revolución en Taiwán.[^1]
+Se llama Hu Yijia (胡亦嘉), graduado en Matemáticas Aplicadas por la Universidad Nacional de Chien-Nan y con una maestría de la Universidad de Columbia. Trabajó como analista de fondos de cobertura en Wall Street, con un salario anual que superaba los diez millones de yuanes taiwanes. Los medios lo apodaron el "prodigio de Wall Street". Pero no fue la nostalgia lo que lo hizo volver a Taiwán: tras pasar varios años en Suzhou, China, presenció cómo Alipay y WeChat Pay transformaron los hábitos de consumo de más de mil millones de personas, y quiso traer ese mismo cambio a Taiwán.[^1]
 
-Su linaje tampoco era modesto: su abuelo Hu Xin fue jefe de la guardia personal de Chiang Kai-shek, y su padre Hu Dingwu fue presidente del China Development Financial Holding y del Taipei 101. Las conexiones en el mundo financiero las tenía desde que nació.[^2]
+Su origen familiar tampoco era sencillo: su abuelo, Hu Xin, fue jefe de la guardia personal de Chiang Kai-shek; su padre, Hu Ding-wu, fue presidente del consejo de administración de Development Financial Holding y de Taipei 101. Hu Yijia contaba con una red de contactos en el sector financiero desde su nacimiento.[^2]
 
-JKOPay obtuvo su licencia de pago electrónico en 2018 y se lanzó oficialmente, capturando mercado con altas tasas de reembolso. Para 2020, JKOPay ya era la mayor marca local de pago móvil en Taiwán, con más de seis millones de usuarios. Hu Yijia desafió públicamente a LINE Pay y anunció que llevaría a JKOPay al mercado de valores emergentes en 2024 y a la bolsa principal en 2025.[^3]
+Jiekou Pay obtuvo la licencia de pago electrónico en 2018 y comenzó a operar oficialmente, ganando cuota de mercado mediante altas recompensas. Para 2020, Jiekou ya era la marca de pagos móviles más grande en Taiwán, con más de 6 millones de usuarios. Hu Yijia desafió públicamente a LINE Pay y afirmó que planeaba que Jiekou saliera a bolsa en 2024 y se listara en 2025.[^3]
 
-Entonces las cosas empezaron a torcerse.
+Entonces, las cosas empezaron a cambiar.
 
-## El día en que desaparecieron 3,600 millones
+## El día en que desaparecieron 3.600 millones
 
-En 2023, Zhan Jingshao, presidente de la empresa Taishan Enterprise, adquirió el 40% de las acciones de JKOPay Financial Technology por 3,600 millones de TWD. Sin embargo, estalló una batalla por el control interno en Taishan, y la nueva junta directiva entrante impugnó la transacción ante los tribunales.
+En 2023, el presidente de Taishan Enterprise, Zhan Jing-chao, adquirió el 40% de las acciones de Jiekou Financial Technology por 3.600 millones de yuanes. Sin embargo, estalló una disputa por el control operativo dentro de Taishan y el nuevo equipo que tomó la dirección del consejo demandó por esta transacción.
 
-En julio de 2025, el tribunal dictaminó que la transacción era inválida y ordenó a JKOPay Financial Technology la devolución de los 3,600 millones. Al ejecutar el embargo, los funcionarios judiciales descubrieron algo: las cinco cuentas bancarias de JKOPay Financial Technology tenían, en total, menos de mil dólares taiwaneses.[^4]
+En julio de 2025, un tribunal declaró la transacción inválida y ordenó a Jiekou Financial devolver los 3.600 millones. Durante la ejecución de la clausura, el personal del tribunal descubrió algo: las cinco cuentas bancarias de Jiekou Financial sumaban menos de mil yuanes.[^4]
 
-El día del embargo, cerca de 300 empleados fueron notificados de última hora para trabajar desde casa y el letrero de la oficina fue retirado. Posteriormente, Hu Yijia fue acusado por la fiscalía del delito de deslealtad especial, se le restringió la salida del país y, por un tiempo, fue sometido a vigilancia con tobillera electrónica.[^5]
+El día de la clausura, casi 300 empleados fueron notificados para trabajar desde casa y los letreros de la oficina fueron retirados. Posteriormente, Hu Yijia fue procesado por el fiscal por delitos de incumplimiento de deberes especiales, se le restringió la salida del país e incluso estuvo bajo vigilancia con una "esposilla electrónica".[^5]
 
-> **📝 Nota del curador**
-> Los fondos de los usuarios de JKOPay en sí estaban seguros: según la _Ley de Gestión de Instituciones de Pago Electrónico_, todos los saldos almacenados se custodian en cuentas fiduciarias independientes en bancos comisionados, completamente aisladas de las finanzas de la empresa matriz. La Comisión de Supervisión Financiera insistió repetidamente en este punto. Sin embargo, la imagen de "cuentas con menos de mil dólares" ya había dañado gravemente la base de confianza de las startups financieras en Taiwán.
+> **📝 Nota del editor**
+> Los fondos de los usuarios de Jiekou Pay en sí son seguros: según las _Regulaciones de Gestión de Instituciones de Pago Electrónico_, todos los depósitos están custodiados por bancos fideicomisarios en cuentas independientes, totalmente aisladas de las finanzas de la empresa matriz. La Comisión de Supervisión Financiera (FSC) ha enfatizado este punto repetidamente. Sin embargo, la imagen de "menos de mil yuanes en cuenta" dañó gravemente la base de confianza en las nuevas empresas financieras de Taiwán.
 
-Esta no era la primera vez que Hu Yijia chocaba con los reguladores. Ya en 2020, la Comisión de Supervisión Financiera lo multó con tres millones de TWD por siete infracciones relacionadas con el producto "Tuofubao", incluyendo inducción a error de los inversores y socavamiento del gobierno corporativo, y lo destituyó como director de JKOPay Investment Trust. Su respuesta en ese momento fue un ataque público contra la Comisión.[^6]
+No fue la primera vez que Hu Yijia se enfrentaba a los organismos reguladores. Ya en 2020, la FSC sancionó el producto "Tuofubao" por siete infracciones, incluyendo la inducción de inversores y la alteración de la gobernanza corporativa; impuso una multa de 3 millones de yuanes y destituyó a Hu Yijia de su cargo en el consejo de Jiekou Investment. Su respuesta en aquel momento fue un comunicado público contra la FSC.[^6]
 
-La historia de JKOPay es un microcosmos de la década de tecnología financiera en Taiwán: la política abrió la puerta, pero quienes corrieron demasiado rápido no siempre llegaron a salvo.
+La historia de Jiekou es un microcosmos de la década de tecnología financiera en Taiwán: las políticas abrieron la puerta, pero quienes corren demasiado no siempre llegan a salvo.
 
-## Una ley que cambió las reglas del juego
+## Un juego de reglas cambiado por la ley
 
-Volvamos a 2015. Ese año, la Comisión de Supervisión Financiera publicó el _Libro Blanco de Estrategias de Desarrollo FinTech_, declarando la intención de Taiwán de abrazar la tecnología financiera. Dos años después, la _Ley de Experimentos de Innovación en Tecnología Financiera_ fue aprobada por el legislativo: fue la primera ley de su tipo en Asia, convirtiendo a Taiwán en uno de los pocos países del mundo con un marco legal de "sandbox regulatorio".[^7]
+Volvamos a 2015. Ese año, la FSC publicó el _Libro Blanco de Estrategia de Desarrollo de Tecnología Financiera_, declarando que Taiwán abrazaría las FinTech. Dos años después, se aprobó en la Legislatura la _Ley de Experimentación de Innovación en Tecnología Financera_: esta fue la primera ley especial en Asia para este sector, convirtiendo a Taiwán en uno de los pocos países con un marco legal de "sandbox regulatorio".[^7]
 
-La lógica del sandbox es sencilla: si tienes una idea de innovación financiera pero la normativa vigente no lo permite, solicita entrar al sandbox, experimenta en un ámbito limitado; si funciona, se reforma la ley para legalizarlo; si fracasa, no serás sancionado.
+La lógica del sandbox es sencilla: ¿tienes una idea de innovación financiera pero las leyes actuales no lo permiten? Solicita entrar al sandbox para experimentar en un alcance limitado; si tienes éxito, se modificará la ley para que sea legal; si fallas, no serás sancionado.
 
-Suena ideal, pero la ejecución resultó más conservadora de lo esperado.
+Suena bien, pero su ejecución ha sido más conservadora de lo esperado.
 
-Joinvest es uno de los pocos casos de éxito que se graduaron del sandbox: esta empresa opera una plataforma de compra colectiva de bonos que permite a inversores minoristas agrupar fondos para adquirir bonos que normalmente solo están disponibles para inversores institucionales. Entró al sandbox en 2021 y la Comisión reconoció que el proyecto "posee innovación y contribuye a la inclusión financiera", lo que impulsó directamente una reforma de las _Normas de Establecimiento de Firmas de Valores_.[^8]
+Joinvest es uno de los pocos casos exitosos graduados del sandbox: esta empresa opera una plataforma de compra conjunta de bonos, permitiendo que inversores minoristas se unan para comprar bonos que originalmente solo estaban disponibles para profesionales. En 2021, tras entrar en el sandbox y ser aprobada por la FSC por su "naturaleza innovadora y contribución a la inclusión financiera", impulsó directamente la revisión de los _Estándares de Establecimiento de Corredores de Valores_.[^8]
 
-Pero la otra cara de la moneda no es tan alentadora. Tras siete años de funcionamiento del sandbox, el número de experimentos aprobados acumulados no es alto, y los que realmente se "graduaron" y promovieron reformas regulatorias son aún menos. Los críticos señalan que los requisitos de entrada al sandbox taiwanés son demasiado altos, la revisión demasiado lenta y el período de experimentación demasiado corto, convirtiéndolo en un sistema que "parece abierto pero en la práctica es conservador".[^9]
+Pero las cifras del otro lado no son tan alentadoras. En siete años desde el inicio del sandbox, el número de casos aprobados no es elevado, y aún menos han "graduado" impulsando cambios legislativos reales. Los críticos argumentan que el umbral en Taiwán es demasiado alto, la revisión muy lenta y el periodo de experimentación demasiado corto, convirtiéndolo en un sistema que "parece abierto pero es conservador en la práctica".[^9]
 
-> "El sandbox regulatorio de Taiwán es uno de los marcos legales más completos del mundo, pero el problema no está en el marco, sino en la velocidad de ejecución."
+> "El sandbox regulatorio de Taiwán es uno de los marcos legales más completos del mundo, pero el problema no reside en el marco, sino en la velocidad de su ejecución."
 > —Chambers and Partners, _Fintech 2025: Taiwan_[^9]
 
-## La guerra de pagos en el teléfono
+## La guerra de pagos en el móvil
 
-En el Taiwán de 2026, al entrar a cualquier tienda de conveniencia, sacar el teléfono para pagar ya es más común que sacar la billetera.
+En el Taiwán de 2026, entrar en cualquier tienda de conveniencia y sacar el teléfono para pagar es más común que sacar la billetera.
 
-Según estadísticas de la Comisión de Supervisión Financiera, a finales de 2025 el número total de usuarios de cuentas de pago electrónico en la isla alcanzó los 34,45 millones de personas —en una isla de 23 millones de habitantes, esta cifra significa que la mayoría de los adultos tiene al menos una cuenta de pago electrónico. El objetivo gubernamental de alcanzar una "tasa de penetración de pagos móviles del 90% en 2025" se cumplió básicamente.[^10]
+Según estadísticas de la FSC, hasta finales de 2025, el número total de usuarios de cuentas de pago electrónico en todo el país alcanzó los 34,45 millones —en una isla de 23 millones de habitantes, esta cifra significa que la mayoría de los adultos tienen al menos una cuenta de pago electrónico—. El objetivo gubernamental de alcanzar un "90% de penetración de pagos móviles para 2025" se cumplió prácticamente.[^10]
 
-Pero "penetración" no significa "unificación". El mercado de pagos móviles taiwanés es un campo de batalla fragmentado:
+Pero la "penetración" no significa "unificación". El mercado de pagos móviles en Taiwán es una batalla campal:
 
-LINE Pay se consolidó como líder gracias a la base social de LINE, con más de ocho millones de usuarios. iPASS Money (del sistema de tarjetas inteligentes iPASS) aprovechó la infraestructura de billetes electrónicos para alcanzar el primer lugar en número de usuarios. JKOPay, antes de que estallara la controversia, todavía contaba con más de seis millones de usuarios. A esto se suman Fulldiamond Pay, icash Pay, Easy Wallet, Taiwan Pay, Apple Pay y Google Pay: el consumidor promedio tiene tres o cuatro aplicaciones de pago instaladas en su teléfono, y los mostradores de las tiendas están cubiertos de pegatinas con códigos QR de distintas marcas.[^11]
+LINE Pay domina el sector gracias a su base social en LINE, con más de 8 millones de usuarios. iPASS MONEY (de EasyCard) se posicionó como líder en número de usuarios aprovechando la infraestructura de los pases electrónicos. Jiekou Pay contaba con más de 6 millones de usuarios antes del estallido de la controversia. A esto se suman ChaoPay, UniPay, EasyPay, Taiwan Pay, Apple Pay y Google Pay; los consumidores tienen un promedio de tres o cuatro aplicaciones de pago en sus teléfonos, y los mostradores de las tiendas están llenos de códigos QR de diferentes marcas.[^11]
 
-> **💡 ¿Sabías que...?**
-> La fragmentación de los pagos móviles en Taiwán se debe en parte a que las cadenas de tiendas de conveniencia respaldan sus propias plataformas: 7-Eleven promueve OPEN Wallet e icash Pay, mientras que FamilyMart impulsa Fulldiamond Pay. Los territorios de pago de las dos grandes cadenas de supermercados determinan, en cierto modo, qué aplicación lleva la gente en el bolsillo.
+> **💡 ¿Sabías que?**
+> Una de las razones por las que el mercado de pagos móviles en Taiwán está tan fragmentado es que las cadenas de tiendas de conveniencia han tomado bandos: 7-ELEVEN promueve OPEN Wallet e icash Pay, mientras que FamilyMart impulsa UniPay. El mapa de pagos de estas dos grandes cadenas ha determinado, en cierta medida, qué aplicación llevan los taiwaneses en sus bolsillos.
 
-Este panorama es completamente diferente del duopolio chino de "Alipay + WeChat Pay". Taiwán no tiene una superaplicación dominante; en su lugar, hay una multiplicidad de actores —o, para ser más honestos, un archipiélago de feudos. Los consumidores tienen conveniencia (pueden pagar con el teléfono en casi cualquier lugar), pero la eficiencia de integración es baja, y cada empresa quema dinero para ganar cuota de mercado.
+Esto es muy diferente al modelo de "Alipay + WeChat Pay" en China. Taiwán no tiene una única "Súper App" dominante; en cambio, hay una proliferación de opciones —o, para ser más honestos, un dominio fragmentado—. Los consumidores tienen la conveniencia (pueden usar su móvil en cualquier lugar), pero la eficiencia de integración es baja y cada empresa quema dinero para ganar cuota de mercado.
 
-## Tres bancos, una lección de 9,000 millones
+## Tres bancos, 900 millones de yuanes en "matrícula"
 
-En 2021, Taiwán entró en la era de los neobancos.
+En 2021, Taiwán dio la bienvenida al primer año de los bancos puramente en línea (neobancos).
 
-LINE Bank, Rakuten Bank y Next Bank abrieron sus puertas sucesivamente. Su propuesta era "sin ir al banco": apertura de cuentas en línea, depósitos a la vista con altas tasas de interés, servicio las 24 horas, rediseñando la experiencia bancaria tradicional con tecnología.
+LINE Bank, Rakuten Bank y BankRich lanzaron sus servicios sucesivamente. Su propuesta de valor era "no tener que ir al banco": apertura de cuentas en línea, depósitos a plazo con altos intereses y servicio las 24 horas, rediseñando la experiencia bancaria tradicional mediante tecnología.
 
-Cuatro años después, las cifras en el balance eran despiadadas: los tres acumularon pérdidas por más de 9,000 millones de TWD.[^12]
+Cuatro años después, los números en el papel son crudos: las tres instituciones sumaron pérdidas superiores a 9.000 millones de yuanes.[^12]
 
-Pero la historia de las pérdidas se puede leer de distintas maneras. LINE Bank alcanzó 2,29 millones de cuentas, con una relación depósito-préstamo del 85,93%, y en diciembre de 2025 logró el primer beneficio mensual antes de impuestos en la historia de los neobancos taiwaneses: 11 millones de TWD, una cantidad modesta, pero con un enorme significado simbólico. LINE Bank anunció su objetivo de superar los 100 millones de TWD en beneficios anuales en 2026 y compensar las pérdidas acumuladas en tres años y medio.[^13]
+Sin embargo, hay diferentes formas de interpretar esta historia de pérdidas. LINE Bank alcanzó los 2,29 millones de usuarios y un ratio de depósito del 85,93%. En diciembre de 2025, logró por primera vez en la historia de los neobancos en Taiwán un mes con beneficios antes de impuestos —una cifra de 11 millones de yuanes; no es mucho, pero el simbolismo es enorme—. LINE Bank anunció que planea superar los 100 millones de yuanes en ganancias durante todo 2026 y compensar las pérdidas acumuladas en tres años y medio.[^13]
 
-Next Bank, con 550.000 cuentas, y Rakuten Bank, con 320.000, muestran una brecha de tamaño evidente, pero también están reduciendo sus pérdidas. Rakuten Bank se acerca al umbral que exigiría una nueva ampliación de capital y ya está planificando una nueva ronda de financiación.[^14]
+BankRich cuenta con 550.000 usuarios y Rakuten Bank con 320.000; aunque la diferencia de escala es notable, ambos están reduciendo sus pérdidas. Rakuten ya se acerca al límite para una nueva ronda de capitalización y está planificando una ampliación de fondos.[^14]
 
-> **📝 Nota del curador**
-> Las dificultades de los neobancos no son exclusivas de Taiwán. Los bancos retadores en todo el mundo —Monzo en el Reino Unido, Nubank en Brasil— quemaron dinero en su fase inicial para ganar escala. La verdadera pregunta es: el mercado taiwanés tiene solo 23 millones de habitantes, la densidad de bancos tradicionales es de las más altas del mundo (más de una sucursal por kilómetro cuadrado), y los neobancos compiten con 38 bancos comerciales por el mismo grupo de personas. Los 9,000 millones de TWD en pérdidas son el precio de la oportunidad de sobrevivir en un mercado saturado.
+> **📝 Nota del editor**
+> Las dificultades de los neobancos no son exclusivas de Taiwán. Los bancos desafiantes en todo el mundo —como Monzo en el Reino Unido o Nubank en Brasil— quemaron dinero para ganar escala en sus etapas iniciales. El problema real es que el mercado de Taiwán solo tiene 23 millones de personas, la densidad de bancos tradicionales es una de las más altas del mundo (más de un sucursal por kilómetro cuadrado), y los neobancos deben competir con 38 bancos comerciales por el mismo grupo de clientes. Los 9.000 millones de yuanes de "matrícula" son el precio pagado por la oportunidad de sobrevivir en este mercado saturado.
 
-## El dóla digital hakka: la cautela del banco central
+## Moneda digital Hakka: La cautela del Banco Central
 
-Mientras los bancos centrales de todo el mundo investigan las monedas digitales (CBDC), el banco central de Taiwán eligió un camino muy taiwanés.
+Mientras los bancos centrales de todo el mundo estudian las monedas digitales (CBDC), el Banco Central de Taiwán ha tomado un camino muy propio.
 
-En 2025, el banco central, en colaboración con el Ministerio de Desarrollo Digital y el Consejo de Asuntos Hakka, lanzó una prueba del "dóla digital hakka" —no la emisión inmediata de un nuevo dólar taiwanés digital, sino una prueba a pequeña escala en 70 ubicaciones de zonas de desarrollo cultural hakka en 11 condados y ciudades de toda la isla. Los usuarios podían gastar mediante billeteras anónimas desidentificadas, con validez hasta el 30 de junio de 2026.[^15]
+En 2025, el Banco Central colaboró con el Ministerio de Desarrollo Digital y la Comisión de Desarrollo Cultural Hakka para lanzar una prueba de "Moneda Digital Hakka" —no lanzando directamente el nuevo dólar taiwanés digital, sino realizando pruebas a pequeña escala en 70 zonas clave de cultura Hakka en las 11 ciudades del país—. Los usuarios pueden utilizar carteras anónimas y sin identificación para consumir hasta el 30 de junio de 2026.[^15]
 
-La postura del gobernador del banco central, Yang Jinlong, fue consistentemente cautelosa. Señaló que el banco central organizaría múltiples audiencias públicas y foros en 2025 para recoger opiniones de todos los sectores, pero que no había "un cronograma concreto" para la emisión formal de un nuevo dólar taiwanés digital.[^16]
+La actitud del gobernador del Banco Central, Yung Chin-lung, ha sido consistentemente cautelosa. Afirmó que el banco organizará varias audiencias públicas y foros en 2025 para recopilar opiniones de diversos sectores, pero indicó que "no hay un cronograma específico" para la emisión oficial del nuevo dólar taiwanés digital.[^16]
 
-Este ritmo de "probar un poco primero, escuchar las opiniones y luego decidir" contrasta fuertemente con el avance a gran escala del yuan digital en China. El banco central taiwanés no quiere ser pionero; quiere ser el seguidor que no comete errores.
+Este ritmo de "probar en una pequeña zona y escuchar opiniones antes de decidir" contrasta marcadamente con el avance masivo del yuan digital en China. El Banco Central de Taiwán no quiere ser un pionero; prefiere ser un seguidor que no cometa errores.
 
 ## Un experimento financiero en una isla
 
 Han pasado diez años.
 
-¿Cuánto se cumplió de la visión plasmada en el libro blanco de 2015 —convertir a Taiwán en un centro regional de tecnología financiera en Asia-Pacífico? La respuesta es: parcialmente, pero de una manera diferente a la imaginada.
+¿Cuánto de la visión descrita en aquel libro blanco de 2015 —que Taiwán se convertiría en un centro de tecnología financiera en Asia-Pacífico— se ha cumplido? La respuesta es: se ha cumplido parcialmente, pero no de la forma que se imaginó inicialmente.
 
-Los pagos móviles sí se popularizaron, pero no gracias a una superaplicación, sino a través de una guerra de una docena de marcas. Los neobancos sí llegaron, pero los tres juntos no alcanzan siquiera 3,2 millones de cuentas, un porcentaje ínfimo del total de cuentas bancarias en la isla. El sandbox regulatorio sí funciona, pero su tasa de graduación es tan baja que muchos se preguntan si es un trampolín o una vitrina.
+Los pagos móviles se han popularizado, pero no a través de una única "Súper App", sino mediante la competencia entre docenas de marcas. Los neobancos han llegado, pero los tres juntos tienen menos de 3,2 millones de usuarios, una proporción mínima del total de cuentas bancarias en Taiwán. El sandbox regulatorio funciona, pero su baja tasa de graduación hace que uno se pregunte si es un trampolín o simplemente una vitrina de exhibición.
 
-La tormenta de los 3,600 millones en JKOPay dejó algo claro: la mayor tensión de la tecnología financiera taiwanesa nunca fue un problema tecnológico, sino un problema de confianza. Si la regulación es demasiado laxa, se incubará el próximo JKOPay; si es demasiado estricta, la innovación se asfixia dentro del sandbox.
+La tormenta de los 3.600 millones de Jiekou dejó algo claro: la mayor tensión en la tecnología financiera de Taiwán nunca ha sido un problema técnico, sino un problema de confianza. Una regulación demasiado laxa dará lugar al próximo "Jiekou"; una regulación demasiado estricta asfixiará la innovación dentro del sandbox.
 
-En diciembre de 2025, LINE Bank reportó su primer mes rentable, una cantidad tan pequeña que podría ignorarse, pero toda la industria estaba atenta. Hu Yijia llevaba una tobillera electrónica; LINE Bank contaba su primer centavo de ganancia. En la misma isla, en la mismo sector, dos desenlaces radicalmente distintos se desarrollaban simultáneamente.
+En diciembre de 2025, cuando LINE Bank reportó su primer mes de beneficios —una cifra pequeña que podría ignorarse—, toda la industria estaba atenta. Mientras Hu Yijiam llevaba una "esposilla electrónica", LINE Bank contaba sus primeros yuanes de beneficio. En la misma isla, en la misma industria, dos resultados radicalmente diferentes están ocurriendo simultáneamente.
 
-**Lecturas complementarias**:
+**Lecturas relacionadas:**
 
-- [Industria de semiconductores](/technology/半導體產業) — Otro sector taiwanés que arrancó con apoyo político y terminó transformando el panorama global
-- [Ecosistema de startups](/economy/新創生態系) — El panorama completo del ecosistema de startups en Taiwán donde operaba JKOPay
-- [Ecosistema de comercio electrónico y pagos digitales](/technology/電子商務與數位支付生態系) — La infraestructura de comercio electrónico detrás de los pagos móviles
-- [Mercado bursátil y mercados de capital de Taiwán](/economy/台灣股市與資本市場) — De las llamadas telefónicas en la correduría a la inversión periódica desde el teléfono: la evolución de la infraestructura financiera y los mercados de capital
+- [Industria de semiconductores](/technology/semiconductor_industry) — Otro sector en Taiwán que comenzó con apoyo gubernamental y terminó cambiando el panorama global.
+- [Ecosistema de startups](/economy/startup_ecosystem) — Una visión general del entorno de nuevas empresas donde se encuentra Jiekou Pay.
+- [E-commerce y ecosistema de pagos digitales](/technology/e-commerce_and_digital_payment_ecosystem) — La infraestructura de comercio electrónico detrás de los pagos móviles.
+- [Bolsa de valores y mercado de capitales de Taiwán](/economy/taiwan_stock_market_and_capital_market) — Desde el teléfono de disco hasta la inversión periódica en el móvil, la evolución de la infraestructura financiera y el mercado de capitales.
 
 ## Referencias
 
-[^1]: [SET News 〈¡Sin depender de papá! El prodigio de Wall Street cruza a la tecnología, Hu Yijia crea una app de pago móvil〉](https://www.setn.com/News.aspx?NewsID=102101) — Reportaje sobre el trasfondo de Hu Yijia al regresar desde Wall Street para emprender, incluyendo su formación en la Universidad de Columbia y su experiencia en fondos de cobertura.
+[^1]: [SETN News: "¡No depende de su padre! El prodigio de Wall Street entra en el sector tecnológico; Hu Yijia funda una aplicación de pagos móviles".](https://www.setn.com/News.aspx?NewsID=102101) — Reportaje sobre el trasfondo de Hu Yijian al regresar a Taiwán para emprender, incluyendo su formación en la Universidad de Columbia y experiencia en fondos de cobertura.
 
-[^2]: [ETtoday 〈¡Linaje y trayectoria destacables! El "superdotado" de tercera generación rica Hu Yijia abandona un salario de 20 millones para fundar JKOPay〉](https://www.ettoday.net/news/20180326/1138208.htm) — Antecedentes familiares de Hu Yijia: abuelo Hu Xin (jefe de la guardia personal), padre Hu Dingwu (presidente de China Development Financial Holding y del Taipei 101).
+[^2]: [ETtoday: "¡Experiencia familiar destacada! El 'estudiante estrella' Hu Yijian deja un salario de 20 millones para fundar Jiekou Pay".](https://www.ettoday.net/news/20180326/1138208.htm) — Antecedentes familiares de Hu Yijian: su abuelo Hu Xin (jefe de guardia), su padre Hu Ding-wu (presidente de Development Financial y de Taipei 101).
 
-[^3]: [Mirror Media 〈JKOPay lanza un desafío, Hu Yijia se alinea con Taishan para enfrentar a LINE〉](https://www.mirrormedia.mg/story/20190402fin007/) — Estrategia de mercado de JKOPay para desafiar a LINE Pay y planes de salida a bolsa.
+[^3]: [Mirror Media: "Jiekou Pay lanza desafío; Hu Yijian se alía con Taishin para enfrentarse a LINE".](https://www.mirrormedia.mg/story/20190402fin007/) — Estrategia de mercado de Jiekou Pay y planes de salida a bolsa (IPO).
 
-[^4]: [Commercial Times 〈Los 3,600 millones desaparecidos: casi provocan un efecto dominó "donde todos pierden"〉](https://www.ctee.com.tw/news/20250720700014-430301) — En 2025, la transacción de 3,600 millones de TWD entre Taishan y JKOPay Financial Technology fue anulada por el tribunal; al ejecutar el embargo, las cinco cuentas tenían menos de mil dólares taiwaneses.
+[^4]: [China Times: "Los 3.600 millones desaparecidos — casi provoca un efecto dominó de 'pérdidas cruzadas'".](https://www.ctee.com.tw/news/20250720700014-430301) — En julio de 2025, la transacción de acciones entre Taishan y Jiekou Financial fue declarada inválida; en el momento de la clausura, cinco cuentas tenían menos de mil yuanes.
 
-[^5]: [ETtoday 〈El "prodigio de Wall Street" de JKOPay bajo vigilancia con tobillera electrónica, embargado por el conflicto de los 3,600 millones〉](https://www.ettoday.net/news/20250712/2994873.htm) — Detalles sobre la acusación por deslealtad especial, la restricción de salida del país y la vigilancia con tobillera electrónica de Hu Yijia.
+[^5]: [ETtoday: "El 'prodigio de Wall Street' de Jiekou bajo vigilancia con esposilla electrónica tras disputa de 3.600 millones".](https://www.ettoday.net/news/20250712/2994873.htm) — Detalles sobre la acusación de Hu Yijian por incumplimiento de deberes especiales, restricción de salida y monitoreo con esposilla electrónica.
 
-[^6]: [Voice Tank 〈Los 3,600 millones desaparecidos de JKOPay: de la experiencia de pagos en China al "excepcionalismo startup"〉](https://voicettank.org/20250714-1/) — Repaso del historial de sanciones por infracciones del producto "Tuofubao" y los desafíos regulatorios de la Comisión de Supervisión Financiera.
+[^6]: [Thought Tank: "Los 3.600 millones desaparecidos de Jiekou: de la experiencia de pago en China al 'excepcionalismo de las startups'".](https://voicettank.org/20250714-1/) — Revisión del historial de sanciones por incumplimiento de "Tuofubao" y el rigor de supervisión de la FSC.
 
-[^7]: [ICLG, _Fintech Laws and Regulations Report 2025: Taiwan_](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — La _Ley de Experimentos de Innovación en Tecnología Financiera_ de Taiwán entró en vigor en abril de 2018, siendo la primera ley especializada en FinTech de Asia.
+[^7]: [ICLG, _Fintech Laws and Regulations Report 2025: Taiwan_](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — La _Ley de Experimentación de Innovación en Tecnología Financiera_ entró en vigor en abril de 2018 como la primera ley específica para FinTech en Asia.
 
-[^8]: [Global Legal Insights, _Fintech Laws and Regulations 2025: Taiwan_](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — Joinvest, plataforma de compra colectiva de bonos, se graduó del sandbox e impulsó la reforma de las _Normas de Establecimiento de Firmas de Valores_.
+[^8]: [Global Legal Insights, _Fintech Laws and Regulations 2025: Taiwan_](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — La plataforma de compra conjunta de bonos Joinvest se graduó del sandbox e impulsó la revisión de los _Estándares de Establecimiento de Corredores de Valores_.
 
-[^9]: [Chambers and Partners, _Fintech 2025: Taiwan — Trends and Developments_](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — Evaluación de la comunidad jurídica internacional sobre el sandbox regulatorio taiwanés: "marco completo pero velocidad de ejecución insuficiente".
+[^9]: [Chambers and Partners, _Fintech 2025: Taiwan — Trends and Developments_](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — Evaluación del sector legal internacional sobre el "marco completo pero ejecución lenta" del sandbox regulatorio de Taiwán.
 
-[^10]: [Comisión Nacional de Desarrollo 〈La penetración de pagos móviles alcanza un máximo histórico, hacia una nueva vida digital〉](https://www.ndc.gov.tw/nc_27_33762) — El gobierno fijó el objetivo de alcanzar una penetración de pagos móviles del 90% en 2025; el total de usuarios de cuentas de pago electrónico alcanzó los 34,45 millones.
+[^10]: [Dirección de Desarrollo Nacional: "La tasa de penetración de pagos móviles alcanza un nuevo máximo, avanzando hacia una nueva vida en un estado digital".](https://www.ndc.gov.tw/nc_27_33762) — El gobierno fijó el objetivo del 90% para 2025; el número total de usuarios de cuentas de pago electrónico alcanzó los 34,45 millones.
 
-[^11]: [Storm Media 〈¡JKOPay perdió! El pago electrónico favorito de los taiwaneses es este, "7,08 millones de personas lo usan"〉](https://www.storm.mg/lifestyle/11083093) — Clasificación de usuarios de iPASS Money, JKOPay y Fulldiamond Pay, con transacciones mensuales de 3,900 millones de TWD.
+[^11]: [Storm Media: "¡Jiekou perdió! El pago electrónico favorito de los taiwaneses es este, con '7,08 millones de personas usándolo'".](https://www.storm.mg/lifestyle/11083093) — Ranking de usuarios de EasyPay, Jiekou Pay y otros; volumen de transacciones mensuales de 3.900 millones de yuanes.
 
-[^12]: [Storm Media 〈¡Los 3 neobancos de Taiwán "acumulan pérdidas por más de 9,000 millones de TWD"! La Comisión revela las causas clave de las pérdidas〉](https://www.storm.mg/lifestyle/11106859) — A finales de 2025, los tres neobancos acumulaban pérdidas por 9.072 millones de TWD, con datos de cuentas y relación depósito-préstamo de cada uno.
+[^12]: [Storm Media: "¡Los tres neobancos en Taiwán han acumulado pérdidas superiores a 9.000 millones de yuanes! La FSC revela las causas clave".](https://www.storm.mg/lifestyle/11106859) — Hasta finales de 2025, los tres neobancos sumaron pérdidas de 9.072 millones de yuanes; datos sobre número de usuarios y ratio de depósito.
 
-[^13]: [PChome News 〈Los neobancos podrían dejar atrás la era de quemar dinero: LINE Bank logra un beneficio mensual de 11 millones de TWD〉](https://news.pchome.com.tw/finance/cardu/20260304/index-17725686541784241003.html) — LINE Bank logró su primer beneficio mensual antes de impuestos en diciembre de 2025 con 11 millones de TWD, con el objetivo de superar los 100 millones de TWD en beneficios anuales en 2026.
+[^13]: [PChome News: "Los neobancos esperan dejar atrás la etapa de quema de efectivo; LINE Bank reporta beneficios en un mes".](https://news.pchombe.com.tw/finance/cardu/20260304/index-17725686541784241003.html) — LINE Bank logró su primer mes con beneficios antes de impuestos en diciembre de 2025 (11 millones de yuanes), con el objetivo de superar los 100 millones en 2026.
 
-[^14]: [Commercial Times 〈Más de 3 millones de cuentas abiertas pero 8,700 millones en pérdidas acumuladas... los neobancos luchan por ser rentables, este es señalado como el primero en recuperarse〉](https://www.ctee.com.tw/news/20260102700085-439901) — Situación actual de cuentas y planes de ampliación de capital de los tres neobancos; LINE Bank señalado como el más cercano a la recuperación.
+[^14]: [China Times: "Con más de 3 millones de cuentas, aún hay pérdidas acumuladas de 8.700 millones... Los neobancos luchan por la rentabilidad; este es el que se recuperará más rápido".](https://www.ctee.com.tw/news/20260102700085-439901) — Situación actual de cuentas y planes de capitalización para los tres neobancos; LINE Bank destacado como el que se recuperará más rápido.
 
-[^15]: [BlockTempo 〈Informe anual 2025 de la industria de criptomonedas en Taiwán〉](https://www.blocktempo.com/2025-taiwan-cryptocurrency-industry-report/) — El banco central y el Consejo de Asuntos Hakka lanzaron la prueba del "dóla digital hakka", cubriendo 70 ubicaciones en zonas culturales hakkas de 11 condados, con validez hasta junio de 2026.
+[^15]: [BlockTempo: "Informe sobre la industria de criptomonedas en Taiwán 2025".](https://www.blocktempo.com/2025-taiwan-cryptocurrency-industry-report/) — El Banco Central y la Comisión Hakka lanzaron la prueba de "Moneda Digital Hakka" en 70 zonas clave hasta junio de 2026.
 
-[^16]: [XREX 〈¡Llega el "nuevo dólar taiwanés digital"! El banco central lanza una plataforma prototipo de CBDC〉](https://xrex.io/taiwan-cbdc-zh/) — El gobernador del banco central Yang Jinlong señaló que se organizarían audiencias públicas para recoger opiniones, pero que no hay "un cronograma concreto" para la emisión formal.
+[^16]: [XREX: "¡Llega el 'Nuevo Dólar Taiwan'! El Banco Central promueve una plataforma prototipo para CBDC".](https://xrex.io/taiwan-cbdc-zh/) — El gobernador del Banco Central, Yung Chin-lung, indicó que se realizarán audiencias públicas pero no hay un cronograma específico para la emisión oficial.
