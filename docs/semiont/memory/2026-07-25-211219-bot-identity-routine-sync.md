@@ -34,6 +34,18 @@
 
 最後 mouhouse 那筆 `768996602` 是它自己 push 的存證。兩台跑完都印 `✅ 三層一致`。
 
+## 後段：飛輪整併到一台，指揮部改當看門的
+
+哲宇在同一 session 後段追加三個 directive，全部落地在 `686079659`。
+
+指揮部這台的 18 條 twmd 排程全數刪除（prompt 檔留在原地當暖備援，營運機掛了可就地重建）。但刪完會留一個洞：**沒有任何一條 routine 在看飛輪還活著沒有**，而飛輪曾經靜默死 15 天全部儀器無聲，因為那些儀器都跑在飛輪自己身上。所以新增 `twmd-flywheel-watch` 刻意跑在不營運的那台，唯一資訊來源是 `origin/main` 的 commit 紀錄。首跑當場校掉兩種假陽性：weekly 的時刻還沒到、routine 只留 `[semiont] memory:` 收官痕跡沒留 `[routine]` 標記。會亂叫的哨兵等於沒有哨兵。
+
+maintainer 去掉 am/pm 差別（pm 7/8 起已 disabled、空場連 3 週），`music-media-audit-weekly` 一併退休——它的功能早就長進常規路徑：baseline 在 EDITORIAL §媒體編織、閘門在 REWRITE Stage 4 六子步、`article-health` 三個 media 檢查逐篇跑。週度全站盤點是標準還沒立起來時的臨時解。
+
+順手鋪三條之前不存在的路：ROUTINE.md 補 §退休 SOP（原本只有暫停沒有退場）、`routine-prompts/retired/` 讓退場不刪紀錄、`prepare-commit-msg` hook 給每筆 commit 蓋 `Semiont-Node` trailer（哲宇原話「未來那個站的 commit 好像要有地方標記一下是 mouhouse 節點你才好判斷」）。節點名讀 machine-local 檔不寫進 repo，跟 7/25 早先那次把機器細節換成佔位同一條紀律。
+
+過程中修掉自己兩個 bug：`routine-sync.py` 的區塊判定從二態升三態（退休列要整列跳過，不然永遠報 prompt-missing-both——「認字不認表」的第二面），以及排程器 cron 吃**本地時間**不是 UTC（我第一版寫給哲宇的貼入 prompt 寫成 UTC，實測 `0 6 * * *` 跑在 06:09 +0800 才發現）。
+
 ## 收官 checklist
 
 | 檢查項                       | 狀態                                                     |
@@ -56,7 +68,8 @@
 - [x] ~~App 註冊、私鑰輪替、token 工具、端到端與反面測試~~
 - [x] ~~feedback prompt 掛上 App 身份並同步到 mouhouse（該機 dry-run 通過、`gh` 吃 App token 確認）~~
 - [x] ~~19 份 prompt 進 git、`routine-sync.py`、`twmd-routine-sync` skill 與 ROUTINE.md 註 ¹⁸~~
-- [ ] **`twmd-routine-sync` 的排程本體還沒建**。註冊表在 Claude app 的 IndexedDB，ssh 改不了，要 mouhouse 那邊一個 session 用 `mcp__scheduled-tasks__create_scheduled_task` 建（cron `30 21 * * *` UTC = 台北 05:30，model sonnet，prompt 讀 `~/.claude/scheduled-tasks/twmd-routine-sync/SKILL.md` 全文）。貼入 prompt 已備在 `~/taiwan-md-mini-migration/03-routine-sync-task-prompt.md`。**在這步完成之前，跨機同步仍要手動觸發。**
+- [x] ~~指揮部 18 條 twmd 排程清空 + 新增 flywheel-watch 監看 + maintainer 整併一班 + music-media 退休~~
+- [ ] **mouhouse 四件純排程層工作待辦**（額度 5hr 上限，2026-07-25 約 21:40 起 2hr42min 後恢復）：建 `twmd-routine-sync`（cron `30 5 * * *` **本地時間**）／刪 `twmd-maintainer-pm` 與 `twmd-music-media-audit-weekly` 註冊／重 dump `routine-live-state.json`（現存那份還記著 babel enabled=true）。ssh 端能做的都做完了，貼入 prompt 在 `~/taiwan-md-mini-migration/03-mouhouse-pending-2026-07-25.md`。**在建好之前跨機同步要手動 `/twmd-routine-sync`。**
 - [ ] 哲宇的 repo Watch 設定沒查到（現有 token 缺 `notifications` 權限）。換 bot 開 issue 後他會不會收到通知這格仍是未知，下次補 `gh auth refresh -s notifications` 或他自己看一眼
 - [ ] 明天 07:00 feedback-triage 第一次以 App 身份無人值守 fire——驗收看 issue 作者是不是 `app/taiwanmd-semiont`。14 天零事故則併回 OBSERVER-QUEUE #10 Phase 2
 
