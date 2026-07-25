@@ -348,6 +348,19 @@ def main():
     #     Non-CJK-script target (en/es/fr/vi/id/pt/hi/...): flag any zh CJK char.
     #     CJK-script target (ja/ko): kanji/hanja is legitimate, so instead flag
     #     the field being byte-identical to the zh source (real untranslated leftover).
+    # 2026-07-26 第九假陽性家族：description 內的「音譯＋括號漢字」gloss
+    #（吳宗憲、鈊象電子）是 per-language guide 明文要求的編輯選擇，body 掃描
+    # 早有括號/書名號/引號豁免（cjk-leak-check LEGIT_ZH_SPANS），frontmatter
+    # 檢查漏了同一套——模型照 guide 做事反而被判未翻譯。同一把尺原則：
+    # 檢查前先剝除同款合法區間（≤30 字上限同源）。
+    import re as _re
+    _LEGIT = [_re.compile(r"[(（][^()（）]{0,30}[)）]"),
+              _re.compile(r"《[^《》]{0,30}》|〈[^〈〉]{0,30}〉"),
+              _re.compile(r"「[^「」]{0,30}」|『[^『』]{0,30}』")]
+    def _strip_legit(s):
+        for rx in _LEGIT:
+            s = rx.sub("", s)
+        return s
     bad_fields = []
     for f in ("title", "description", "imageAlt"):
         v = en_fm.get(f, "")
@@ -356,7 +369,7 @@ def main():
         if cjk_script_target:
             if zh_fm and v == zh_fm.get(f, object()):
                 bad_fields.append(f"{f}: identical to zh '{v[:30]}'")
-        elif has_cjk(v):
+        elif has_cjk(_strip_legit(str(v))):
             bad_fields.append(f"{f}: '{v[:30]}'")
     if bad_fields:
         add("frontmatter not untranslated", "FAIL",
