@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T01:14:29+08:00",
-    "zhCommitHead": "41ff74900",
+    "lastUpdated": "2026-07-26T01:17:01+08:00",
+    "zhCommitHead": "efb56bdbc",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 865,
-        "fresh": 284,
+        "fresh": 285,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 574,
+        "missing": 573,
         "orphan": 0
       },
       "ar": {
@@ -16203,7 +16203,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-gamers-wildest-moments.md",
+          "translatedFrom": "Technology/台灣玩家的瘋狂時刻.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:03ef929d72a03265",
+          "sourceBodyHash": "sha256:dd0e3abb83d55e63",
+          "translatedAt": "2026-07-26T00:16:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -24858,8 +24869,8 @@
           "sourceContentHash": "sha256:f828da7d0eb39776",
           "sourceBodyHash": "sha256:c0de350ac39dbee0",
           "translatedAt": "2026-07-25T21:33:42+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "efb56bdb",
+          "translationLastModified": "2026-07-26T01:14:29+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
