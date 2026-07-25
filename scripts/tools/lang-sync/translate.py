@@ -57,7 +57,6 @@ from backends import (
     OllamaBackend,
     OpenRouterBackend,
     TranslationBackend,
-    build_translation_prompt,
 )
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -299,18 +298,27 @@ class TranslationCascade:
 #
 # 前處理預防 drift，預防勝於治療：模型看不到的東西就不可能弄壞。單次模型呼叫的
 # 整篇式架構不變（兩引擎裁決結果：整篇式贏過 structured-translate.py 的分段多次
-# call 架構，見 2026-07-25 pilot），只把「模型會弄壞的東西」先卸下：
+# call 架構，見 2026-07-25 pilot），只把「模型會弄壞的東西」先卸下。
 #
+# 2026-07-26 兩級化（見 reports/armored-input-ab-2026-07-26.md §五結論，12 篇
+# zh→vi/ar 真實模型呼叫 A/B 實測）：四個變換依實測結果拆成兩級——
+#
+#   常駐（無旗標，`armor_pre()`/`armor_post()` 對所有呼叫都跑，見 translate_one）：
 #   1. Frontmatter 卸甲 — 只把 title/description/tags 以純文字行送 prompt；
 #      passthrough 欄位（同源 verify-translation.py PASSTHROUGH）與
 #      translatedFrom/sourceCommitSha/... 全部工具端機械組裝，不進 prompt。
+#      實測：passthrough fail 5→0、型別跳脫 WARN 7→0，24 次呼叫零副作用。
 #   2. URL token 化 — body（含腳註定義行）內所有 URL 換成 ⟦Un⟧，post 端還原並
 #      驗證每個 token 恰好出現一次——缺失或重複＝該篇 fail，報 token 編號
 #      （建構性保證：URL 不可能被改壞，只可能整個 token 掉，掉了立刻可測）。
+#      實測：200/200 token 零失手、prompt 縮 46.8%。
+#
+#   仍在 `--armor` 旗標下（洩漏回歸未解，不預設開，見報告 §4.4）：
 #   3. 保留區預標註 — 「」『』《》〈〉span（同源 cjk-leak-check.py
 #      LEGIT_ZH_SPANS）列進指示區聲明「保留原文，其餘一律翻譯」，不改 body 本身。
 #   4. Prompt 減負 — 動態抽 TRANSLATION-<lang>.md 的 TL;DR + ⚠️ 警告子區塊
-#      （人名填空型警告等高風險提醒常年掛在這類標題下）。
+#      （人名填空型警告等高風險提醒常年掛在這類標題下），取代未帶 --armor 時
+#      預設的完整版 canonical guide（load_lang_guide_sections，§1/2/3/6 全段）。
 
 _URL_TOKEN_RE = re.compile(
     r"(!?\[[^\]]*\]\()([^)\s]+)(\))"                      # markdown 連結／圖片的 target
@@ -321,9 +329,11 @@ _URL_TOKEN_RE = re.compile(
 )
 
 
-def _tokenize_urls(text: str) -> tuple[str, list[str]]:
-    """把 text 內所有 URL 換成 ⟦U1⟧…⟦Un⟧，回傳 (換好的文字, [原始URL, ...])
-    （index i 對應 token ⟦U{i+1}⟧，1-indexed 方便直接報號）。"""
+def tokenize_urls(text: str) -> tuple[str, list[str]]:
+    """Transform 2（常駐，2026-07-26 A/B 實測 200/200 token 零失手，見
+    reports/armored-input-ab-2026-07-26.md §4.1）：把 text 內所有 URL 換成
+    ⟦U1⟧…⟦Un⟧，回傳 (換好的文字, [原始URL, ...])（index i 對應 token
+    ⟦U{i+1}⟧，1-indexed 方便直接報號）。對所有呼叫常駐生效，不分 armor 旗標。"""
     urls: list[str] = []
 
     def repl(m: re.Match) -> str:
@@ -339,11 +349,11 @@ def _tokenize_urls(text: str) -> tuple[str, list[str]]:
     return tokenized, urls
 
 
-def _restore_urls(text: str, urls: list[str]) -> tuple[str, list[int]]:
+def restore_urls(text: str, urls: list[str]) -> tuple[str, list[int]]:
     """還原 URL token，回傳 (還原後文字, 有問題的 token 編號列表)。
 
     每個 token 在還原前必須「恰好出現一次」——0 次（模型漏抄）或 ≥2 次
-    （模型複製貼上）都記錄編號，呼叫端據此判該篇 fail。"""
+    （模型複製貼上）都記錄編號，呼叫端據此判該篇 fail。對所有呼叫常駐生效。"""
     bad: list[int] = []
     for i, url in enumerate(urls, start=1):
         token = f"⟦U{i}⟧"
@@ -353,6 +363,30 @@ def _restore_urls(text: str, urls: list[str]) -> tuple[str, list[int]]:
             continue
         text = text.replace(token, url, 1)
     return text, bad
+
+
+def disarm_frontmatter(zh_fm: dict) -> str:
+    """Transform 1（常駐，2026-07-26 A/B 實測 passthrough fail 5→0、型別跳脫
+    WARN 7→0，見 reports/armored-input-ab-2026-07-26.md §4.2）：只把
+    title/description/tags 轉成純文字行（`TITLE:`/`DESC:`/`TAGS:`）回傳，供
+    prompt 使用。passthrough 欄位（同源 verify-translation.py PASSTHROUGH）與
+    sync placeholder（translatedFrom/sourceCommitSha/...）完全不進這個區塊——
+    留給 armor_post() 用工具機械組裝（含撇號雙寫跳脫），模型看不到就不可能
+    憑空改寫或型別漂移。對所有呼叫常駐生效，不分 armor 旗標。"""
+    title = zh_fm.get("title")
+    desc = zh_fm.get("description")
+    tags = zh_fm.get("tags") or []
+    if isinstance(tags, str):
+        tags = [t.strip() for t in tags.split(",") if t.strip()]
+
+    lines: list[str] = []
+    if title is not None:
+        lines.append(f"TITLE: {title}")
+    if desc is not None:
+        lines.append(f"DESC: {desc}")
+    if tags:
+        lines.append(f"TAGS: {', '.join(str(t) for t in tags)}")
+    return "\n".join(lines)
 
 
 def _reserved_spans(body: str, max_examples: int = 30) -> list[str]:
@@ -398,54 +432,35 @@ def load_lang_guide_tldr(lang: str, max_chars: int = 4000) -> str:
     return out
 
 
-def armor_pre(article: dict, zh_content: str, lang: str) -> tuple[str, str, dict]:
-    """裝甲輸入前處理：組出 armor 版 system/user prompt + 還原用的 ctx。
+def armor_pre(article: dict, zh_content: str, lang: str, armor: bool = False) -> tuple[str, str, dict]:
+    """輸入前處理：組出 system/user prompt + 還原用的 ctx。
+
+    2026-07-26 兩級化（reports/armored-input-ab-2026-07-26.md §五結論）：
+    Transform 1（frontmatter 卸甲）+ Transform 2（URL token 化）對「所有」呼叫
+    常駐生效，不看 `armor` 參數——這是 default 路徑跟 `--armor` 路徑共用同一套
+    實作的地方。`armor=True` 只再疊加 Transform 3（保留區預標註）+ Transform 4
+    （prompt 減負 TL;DR，取代預設的完整版 canonical guide）——這兩層洩漏回歸
+    未解，維持在 --armor 旗標下。
 
     丟出 ValueError 代表 zh frontmatter 解析失敗——呼叫端視為翻譯失敗（跟其餘
     hard gate 同待遇，不落盤，不是 armor 專屬的例外路徑）。
     """
     zh_fm, body = parse_zh_frontmatter(zh_content)
 
-    # ---- Transform 1: frontmatter 卸甲 ----
-    title = zh_fm.get("title")
-    desc = zh_fm.get("description")
-    tags = zh_fm.get("tags") or []
-    if isinstance(tags, str):
-        tags = [t.strip() for t in tags.split(",") if t.strip()]
+    # ---- Transform 1（常駐）: frontmatter 卸甲 ----
+    fm_prompt_block = disarm_frontmatter(zh_fm)
 
-    translatable_lines = []
-    if title is not None:
-        translatable_lines.append(f"TITLE: {title}")
-    if desc is not None:
-        translatable_lines.append(f"DESC: {desc}")
-    if tags:
-        translatable_lines.append(f"TAGS: {', '.join(str(t) for t in tags)}")
-    fm_prompt_block = "\n".join(translatable_lines)
+    # ---- Transform 2（常駐）: URL token 化（body 含腳註定義行）----
+    tokenized_body, url_list = tokenize_urls(body)
 
-    # ---- Transform 2: URL token 化（body 含腳註定義行）----
-    tokenized_body, url_list = _tokenize_urls(body)
-
-    # ---- Transform 3: 保留區預標註 ----
-    reserved = _reserved_spans(body)
-    reserved_note = ""
-    if reserved:
-        sample = "、".join(reserved)
-        reserved_note = (
-            "\n\nRESERVED SPANS — these must stay EXACTLY as the original zh-TW "
-            "text (do not translate them), translate everything else in the body:\n"
-            f"{sample}\n"
-        )
-
-    # ---- Transform 4: prompt 減負（guide TL;DR + ⚠️ 警告子區塊）----
-    guide_tldr = load_lang_guide_tldr(lang)
     lang_name = LANG_NAMES.get(lang, lang)
 
-    # Wikilink 對照表——不算四個變換之一，是修補：armor_pre 砍掉整段「manifest
-    # entry JSON」時，連同 wikilink_targets 一起砍掉了，body 裡的 [[X]] 因此
-    # 沒有目標可查（2026-07-26 A/B 實測發現：ar/rural-education-in-taiwan 兩篇
-    # 帶 [[X]] 的文章，armor=on 版 [[X]] 原封不動留在正文，off 版正確解析成
-    # 「翻譯錨字 + 中文括號」或真連結——armor 拿掉的是 frontmatter 冗餘，不該
-    # 連 wikilink 對照表也一起拿掉，這裡補回，維持跟非 armor 路徑同等資訊量）。
+    # Wikilink 對照表——不算四個變換之一，是修補：frontmatter 卸甲砍掉整段
+    # 「manifest entry JSON」時，連同 wikilink_targets 一起砍掉了，body 裡的
+    # [[X]] 因此沒有目標可查（2026-07-26 A/B 實測發現：ar/rural-education-in-taiwan
+    # 兩篇帶 [[X]] 的文章，卸甲版 [[X]] 原封不動留在正文，舊版正確解析成
+    # 「翻譯錨字 + 中文括號」或真連結）。frontmatter 卸甲現在常駐兩條路徑都會
+    # 砍掉那段 JSON，所以這個補丁也常駐兩條路徑都補回，維持跟舊版同等資訊量。
     wikilink_targets = article.get("wikilink_targets") or {}
     wikilink_note = ""
     if wikilink_targets:
@@ -459,10 +474,40 @@ def armor_pre(article: dict, zh_content: str, lang: str) -> tuple[str, str, dict
             "leave a raw `[[X]]` in the output.\n" + "\n".join(wl_lines) + "\n"
         )
 
+    reserved_count = 0
+    if armor:
+        # ---- Transform 3（--armor 旗標）: 保留區預標註 ----
+        reserved = _reserved_spans(body)
+        reserved_count = len(reserved)
+        reserved_note = ""
+        if reserved:
+            sample = "、".join(reserved)
+            reserved_note = (
+                "\n\nRESERVED SPANS — these must stay EXACTLY as the original zh-TW "
+                "text (do not translate them), translate everything else in the body:\n"
+                f"{sample}\n"
+            )
+        # ---- Transform 4（--armor 旗標）: prompt 減負（guide TL;DR + ⚠️ 子區塊）----
+        guide_block = load_lang_guide_tldr(lang)
+        guide_heading = (
+            f"\n\n═══ {lang_name} CANONICAL GUIDE — TL;DR (sovereignty-critical, "
+            "overrides your defaults) ═══\n"
+        )
+    else:
+        # 未帶 --armor：guide 維持既有完整版（§1/2/3/6 + TL;DR，上限 11000 字，
+        # 同源 openrouter-translate.py load_lang_guide_sections）——「prompt 減負」
+        # 是仍在旗標後的 transform 4，不預設縮減。
+        reserved_note = ""
+        guide_block = _or_mod.load_lang_guide_sections(lang)
+        guide_heading = (
+            f"\n\n═══ MANDATORY {lang_name} CANONICAL GUIDE — sovereignty "
+            "(overrides your defaults) ═══\n"
+        )
+
     system = f"""You are a translator for Taiwan.md, an open-source curated knowledge base about Taiwan.
 
-Translate zh-TW content to {lang_name}. This input has been pre-processed ("armored")
-so you never see the parts of the source most likely to get corrupted in translation:
+Translate zh-TW content to {lang_name}. This input has been pre-processed so you
+never see the parts of the source most likely to get corrupted in translation:
 - Frontmatter: you receive ONLY the translatable plain-text lines (TITLE/DESC/TAGS
   below). Do NOT invent, add, or guess any other frontmatter field — a tool
   assembles the rest mechanically after your reply.
@@ -495,11 +540,8 @@ preserved verbatim, reserved spans kept in original zh-TW>
 Output ONLY those four marked sections, nothing else. No commentary, no code fence,
 no reasoning/chain-of-thought, no text before ===TITLE=== or after the body."""
 
-    if guide_tldr:
-        system += (
-            f"\n\n═══ {lang_name} CANONICAL GUIDE — TL;DR (sovereignty-critical, overrides your defaults) ═══\n"
-            + guide_tldr
-        )
+    if guide_block:
+        system += guide_heading + guide_block
 
     user = f"""Translate this zh-TW article to {lang_name}.
 
@@ -515,7 +557,7 @@ no reasoning/chain-of-thought, no text before ===TITLE=== or after the body."""
 
 Output the four ===TITLE===/===DESC===/===TAGS===/===BODY=== sections as instructed."""
 
-    ctx = {"zh_fm": zh_fm, "url_list": url_list, "reserved_count": len(reserved),
+    ctx = {"zh_fm": zh_fm, "url_list": url_list, "reserved_count": reserved_count,
            "prompt_chars": len(system) + len(user)}
     return system, user, ctx
 
@@ -530,8 +572,10 @@ _ARMOR_SECTION_RE = re.compile(
 
 
 def armor_post(raw_output: str, ctx: dict, article: dict) -> tuple[Optional[str], Optional[str]]:
-    """裝甲輸出後處理：把模型的四段回覆機械組回完整 `---frontmatter---\\n\\nbody`
-    檔案內容——跟非 armor 路徑輸出同形狀，好讓既有 hard gate 原樣適用。
+    """輸出後處理：把模型的四段回覆機械組回完整 `---frontmatter---\\n\\nbody`
+    檔案內容——`armor_pre()` 常駐兩層卸甲（frontmatter/URL）用的輸出格式對
+    default 路徑與 --armor 路徑相同，這裡也是共用同一套實作，好讓既有 hard
+    gate 原樣適用。
 
     Returns (assembled_text, error)。error 非 None 時 assembled_text 是 None，
     呼叫端視為該次翻譯失敗，不落盤（跟既有 hard gate 同一套失敗語意）。
@@ -553,7 +597,7 @@ def armor_post(raw_output: str, ctx: dict, article: dict) -> tuple[Optional[str]
     body_out = m.group("body")
 
     # ---- URL token 還原 + 完整性驗證 ----
-    body_restored, bad_tokens = _restore_urls(body_out, ctx["url_list"])
+    body_restored, bad_tokens = restore_urls(body_out, ctx["url_list"])
     if bad_tokens:
         bad_ids = ", ".join(f"U{i}" for i in bad_tokens[:10])
         return None, f"armor: {len(bad_tokens)} URL token(s) missing/duplicated after restore: {bad_ids}"
@@ -594,45 +638,17 @@ def armor_post(raw_output: str, ctx: dict, article: dict) -> tuple[Optional[str]
 
 # ────────────────── Per-article driver ──────────────────
 
-def _repair_missing_frontmatter_fences(output: str) -> str:
-    """Wrap bare YAML frontmatter that local models emit without --- fences.
-
-    Detects outputs that start with `title:` (and other scaffold keys) but omit
-    the opening/closing `---` delimiters. Only repairs when the head block
-    parses as a mapping with `title`; otherwise returns input unchanged so the
-    hard gate can still reject garbage.
-    """
-    text = output.strip()
-    if text.startswith("---"):
-        return text
-    if not re.match(r"^title\s*:", text):
-        return text
-
-    # Prefer first blank line as FM/body split (common ollama shape).
-    parts = re.split(r"\n\s*\n", text, maxsplit=1)
-    if len(parts) != 2:
-        return text
-    fm_block, body = parts[0].strip(), parts[1]
-    try:
-        fm = yaml.safe_load(fm_block)
-        if not isinstance(fm, dict) or "title" not in fm:
-            return text
-    except Exception:  # noqa: BLE001
-        return text
-    return f"---\n{fm_block}\n---\n\n{body}"
-
-
 def translate_one(article: dict, lang: str, cascade: TranslationCascade,
                   dry_run: bool = False, armor: bool = False,
                   ) -> tuple[bool, Optional[str], Optional[str]]:
     """Translate one article via the cascade.
 
-    `armor=True` routes through the armored-input pre/post layer (哲宇
-    2026-07-26 directive) — same single cascade call, but the prompt has had
-    frontmatter/URLs/reserved-spans pre-processed so the model can't corrupt
-    what it never sees. Everything downstream of the cascade call (hard gates,
-    file write) is shared between armor and non-armor — armor only assembles
-    an equivalent `---frontmatter---\\n\\nbody` string before falling through.
+    2026-07-26 兩級化（reports/armored-input-ab-2026-07-26.md）：`armor_pre()` /
+    `armor_post()` 現在對所有呼叫都跑（frontmatter 卸甲 + URL token 化常駐生效，
+    A/B 實測完勝、零副作用），default 路徑與 `--armor` 路徑共用同一套實作，不再
+    分岔成兩套 prompt-building 邏輯。`armor=True` 只控制 armor_pre() 內部是否
+    再疊加保留區預標註 + prompt 減負 TL;DR 這兩個仍在驗證中的變換（洩漏回歸
+    未解，不預設開）。
 
     Returns (success, error_msg, backend_used).
     """
@@ -645,14 +661,10 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
 
     zh_content = zh_full.read_text()
 
-    armor_ctx = None
-    if armor:
-        try:
-            system, user_msg, armor_ctx = armor_pre(article, zh_content, lang)
-        except ValueError as e:
-            return False, f"armor pre-process failed: {e}", None
-    else:
-        system, user_msg = build_translation_prompt(article, zh_content, lang)
+    try:
+        system, user_msg, armor_ctx = armor_pre(article, zh_content, lang, armor=armor)
+    except ValueError as e:
+        return False, f"prompt pre-process failed: {e}", None
 
     if dry_run:
         print(f"DRY RUN: would translate {zh_path} → {out_path}" + (" [armor]" if armor else ""))
@@ -663,24 +675,9 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
     except CascadeExhausted as e:
         return False, str(e), None
 
-    if armor:
-        output, armor_err = armor_post(output, armor_ctx, article)
-        if armor_err:
-            return False, f"{armor_err} via {backend_used} — not saved", backend_used
-    else:
-        # Strip markdown code fence wrapper if present
-        output = output.strip()
-        if output.startswith("```markdown"):
-            output = output[len("```markdown"):].lstrip("\n")
-        elif output.startswith("```"):
-            output = output[3:].lstrip("\n")
-        if output.endswith("```"):
-            output = output[:-3].rstrip("\n")
-
-        # Local LLM (ollama gemma/qwen) often emits bare YAML fields without --- fences
-        # while content is otherwise complete. Repair before hard gate so sovereignty
-        # backbone tier is usable (2026-07-23 dogfood: gemma4:e4b / qwen3.6 both dropped fences).
-        output = _repair_missing_frontmatter_fences(output)
+    output, post_err = armor_post(output, armor_ctx, article)
+    if post_err:
+        return False, f"{post_err} via {backend_used} — not saved", backend_used
 
     # Frontmatter integrity hard gate (2026-07-10 P0-3): 任一 backend（含 fleet raw
     # 輸出）frontmatter 破損就不落盤——缺開頭 fence / 找不到收尾 fence / YAML 不
@@ -751,8 +748,10 @@ def main():
     ap.add_argument("--no-preflight", action="store_true",
                     help="skip the automatic batch-mode preflight probe")
     ap.add_argument("--armor", action="store_true", default=False,
-                    help="裝甲輸入前處理（哲宇 2026-07-26 directive）：frontmatter 卸甲 + "
-                         "URL token 化 + 保留區預標註 + prompt 減負，單次呼叫架構不變。預設關。")
+                    help="裝甲輸入前處理進階層（哲宇 2026-07-26 directive，2026-07-26 兩級化）："
+                         "frontmatter 卸甲 + URL token 化已常駐生效於所有呼叫，不受此旗標控制；"
+                         "本旗標只再疊加保留區預標註 + prompt 減負 TL;DR（洩漏回歸未解）。單次呼叫"
+                         "架構不變。預設關。")
     args = ap.parse_args()
 
     cascade = build_cascade(args.cascade)
