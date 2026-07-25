@@ -3,9 +3,9 @@ title: 'EDITORIAL-ROOM-PROMPTS'
 description: '編輯室分席 subagent copy-paste prompt（禁即興）；與 EDITORIAL-ROOM.md 同步'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v1.0'
-last_updated: 2026-07-15
-last_session: '2026-07-15-editorial-room'
+current_version: 'v1.1'
+last_updated: 2026-07-25
+last_session: '2026-07-25-外送專法（v7.8 spine 第三型「多觀點立場議題探討矛盾型」——哲宇 directive，以外送專法 dogfood 校準）'
 parent_canonical: 'docs/editorial/EDITORIAL-ROOM.md'
 ---
 
@@ -107,6 +107,11 @@ parent_canonical: 'docs/editorial/EDITORIAL-ROOM.md'
 1. 是否 contrarian thesis 硬塞受愛戴題？
 2. 政治／兩岸是否被當脊椎？應否降為中立 facet？
 3. 陰影段是誠實 facet 還是拆穿式脊椎？
+4. **（第三型「多觀點立場議題探討矛盾型」加開三問，v7.8）**：
+   - **政治歸屬之爭有沒有承載 thesis 重量？**（「這件事該記在誰頭上」是噪音，撐不起論證，還會命中 §自主權邊界。應降為一句中立並陳）
+   - **有沒有替沉默代言？**（查不到某一方的聲音時，是如實寫「找不到」＋列可能原因，還是替他們補上動機？）
+   - **陣營內部光譜有沒有被單一發言人收攏？**（用一個工會幹部代表全體外送員、用一個協會代表全體平台，就是把真實的路線之爭消音）
+   - **懷疑標籤是否雙向？**（如果市場派每一則都被標「個人立場、非中立」，勞權端有沒有對等標籤？同一把尺沒有雙向用，讀者一眼看得出來）
 
 輸出：
 ### 炎上倫理

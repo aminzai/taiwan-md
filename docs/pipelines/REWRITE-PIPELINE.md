@@ -4,8 +4,8 @@ description: '文章改寫主流程薄索引（v9.0 router）— spine / Hard Ga
 type: 'pipeline-canonical'
 status: 'canonical'
 current_version: 'v9.0'
-last_updated: 2026-07-16
-last_session: '2026-07-16-newsroom-orchestration（v9.0 索引化：10 個 REWRITE-STAGE-*.md contract 檔 verbatim 拆出，行數守恆 2606=2118+424+64；主檔瘦身為 router；設計 reports/newsroom-orchestration-design-2026-07-16.md）'
+last_updated: 2026-07-25
+last_session: '2026-07-25-外送專法（§五條反射第 5 條同步 spine 三型；第三型 canonical 在 REWRITE-STAGE-0-VIEWPOINT §Step 0.1.5）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -187,7 +187,8 @@ upstream_canonical:
 
 5. **spine 類型先於核心矛盾 🎭**（v7.6 新增）— 所有 article 進 Stage 0.6 前**必判 spine 類型**（[Step 0.1.5](REWRITE-STAGE-0-VIEWPOINT.md#step-015-spine-類型判定v77-重構--立體群像是預設畫布)）：
    - **受愛戴的機構 / 典禮 / 傳統 / 集體記憶 / 地方 / 工藝**（讀者預設情感是欣賞/驕傲/懷念）→ **立體群像 spine（default）**：組織主軸 holding ≥4 facet、慶祝+理解+廣度、爭議當厚度不當主軸。**不逼尖銳核心矛盾**（Step 1.4 改填組織主軸）。
-   - **爭議 / 政策辯論 / 醜聞 / 內在張力人物** → 矛盾驅動 spine（原 Step 1.4 ≤30 字核心矛盾）。
+   - **爭議 / 醜聞 / 內在張力人物** → 矛盾驅動 spine（原 Step 1.4 ≤30 字核心矛盾）。
+   - **進行中的公共議題且多方都有正當立場**（房價／能源／環境／教育／勞動／都更／移民）→ **第三型「多觀點立場議題探討矛盾型」**（v7.8）：矛盾驅動主脊 ＋ 手法 5 多元視角並陳，矛盾結構性且未解、不收束成一方勝出。判準與六條專屬紀律見 [Step 0.1.5](REWRITE-STAGE-0-VIEWPOINT.md#step-015-spine-類型判定v77-重構--立體群像是預設畫布)。
    - **觀點 ≠ 論戰**：欣賞式 / 群像式也是策展觀點。把 beloved 題硬找矛盾 = 製造 contrarian thesis = 論戰化 + 炎上。
    - Stage 0.6 過 SSODT 三讀者測試 + 炎上/政治 self-check（[Step 0.6.7](REWRITE-STAGE-0-VIEWPOINT.md#step-067-立體--炎上--政治立場-self-checkv76-新增-hard-gate)）。**觸發：2026-06-28 金曲獎 v1**（核心矛盾鎖成「官方獎卻把獎給賣不掉/聽不懂/拒領的聲音→跟會讓你消音的市場分道揚鑣」，整篇批判論戰 + 兩岸審查當壓軸）被哲宇 callout「太批判、切入點不對、會炎上、跟立體講好違背」→ v2 改立體群像 + 政治素材純中立紀實。
 
