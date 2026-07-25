@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-25 vortex-babel-2 — 記憶落點紀律：observer 校正寫進本體器官，不是 harness .claude
+
+- **pattern**: memory-canonical-location
+- **原則**：哲宇連續兩次 callout 後點名（「要記錄到taiwan.md 專案本體！」）：session 收到的
+  書寫紀律／操作參數類校正，canonical 落點是**專案器官**（MANIFESTO §11 / REFLEXES /
+  pipeline / 工具 default 值＋註解），harness `~/.claude` 記憶最多當跨專案路由 pointer。
+  理由：甦醒協議讀的是本體器官（BECOME Universal core 讀 docs/semiont/MEMORY.md），
+  harness 記憶只有「同一個 harness 帳號」的 session 看得到——記錯地方等於下次甦醒就忘，
+  而且 fork 子代與其他 contributor 完全看不見。今日兩例已歸位：屍檢詞 → MANIFESTO
+  §11.5（vc=2 bump）；commit 50 篇一批 → babel-dispatch default=50＋註解＋routine mirror
+- **觸發**：2026-07-25 15:5x 哲宇 /twmd-become arg 直接下令
+- **verification_count**: 1
+
 ### 2026-07-25 vortex-babel-2 — 子代等一個不存在的通知：spawn prompt 必須寫死「前景串行」
 
 - **pattern**: subagent-phantom-notification-wait
