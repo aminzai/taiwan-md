@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T01:56:48+08:00",
-    "zhCommitHead": "86f5cf4ec",
+    "lastUpdated": "2026-07-26T02:27:53+08:00",
+    "zhCommitHead": "c6c46900a",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -27,26 +27,26 @@
       },
       "ja": {
         "total_zh": 865,
-        "fresh": 713,
-        "stale": 143,
+        "fresh": 715,
+        "stale": 141,
         "metadata_stale": 3,
         "missing": 6,
         "orphan": 0
       },
       "ko": {
         "total_zh": 865,
-        "fresh": 710,
-        "stale": 148,
+        "fresh": 713,
+        "stale": 145,
         "metadata_stale": 2,
         "missing": 5,
         "orphan": 0
       },
       "es": {
         "total_zh": 865,
-        "fresh": 716,
+        "fresh": 717,
         "stale": 143,
         "metadata_stale": 2,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "fr": {
@@ -59,26 +59,26 @@
       },
       "vi": {
         "total_zh": 865,
-        "fresh": 117,
+        "fresh": 119,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 731,
+        "missing": 729,
         "orphan": 0
       },
       "id": {
         "total_zh": 865,
-        "fresh": 223,
+        "fresh": 224,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 631,
+        "missing": 630,
         "orphan": 0
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 354,
+        "fresh": 362,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 499,
+        "missing": 491,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 221,
+        "fresh": 223,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 643,
+        "missing": 641,
         "orphan": 0
       },
       "ru": {
         "total_zh": 865,
-        "fresh": 248,
+        "fresh": 253,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 616,
+        "missing": 611,
         "orphan": 0
       }
     },
@@ -4964,7 +4964,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-enterprise-chang-chun-petrochemical.md",
+          "translatedFrom": "Economy/台灣企業：長春石化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:52c5476d48498d3c",
+          "sourceBodyHash": "sha256:908aaa826fb63ea3",
+          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -7056,7 +7067,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/delta-electronics-taiwan-power-giant.md",
+          "translatedFrom": "Economy/台灣企業：台達電子.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:731abae76b18888c",
+          "sourceBodyHash": "sha256:5afb6209c3e31868",
+          "translatedAt": "2026-07-26T02:07:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -7495,7 +7517,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-cement-taipower-green-transformation.md",
+          "translatedFrom": "Economy/台灣企業：台泥.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:d4462b5c55abd9d2",
+          "sourceBodyHash": "sha256:144f62335cbc632a",
+          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -7907,7 +7940,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/imei-foods-corporation.md",
+          "translatedFrom": "Economy/台灣企業：義美食品.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:fd10cef889ef4781",
+          "sourceBodyHash": "sha256:3df603cf09cf4177",
+          "translatedAt": "2026-07-26T02:07:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -9240,7 +9284,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/agricultural-technology-and-refined-agriculture.md",
+          "translatedFrom": "Economy/農業科技與精緻農業.md",
+          "sourceCommitSha": "369298aba",
+          "sourceContentHash": "sha256:19b72b95becb40d7",
+          "sourceBodyHash": "sha256:966a2693a6cccc59",
+          "translatedAt": "2026-07-25T21:33:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -9257,7 +9312,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/agricultural-technology-and-refined-agriculture.md",
+          "translatedFrom": "Economy/農業科技與精緻農業.md",
+          "sourceCommitSha": "369298aba",
+          "sourceContentHash": "sha256:19b72b95becb40d7",
+          "sourceBodyHash": "sha256:966a2693a6cccc59",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/agricultural-technology-and-refined-agriculture.md",
@@ -10288,7 +10354,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/net-night-economy-tourism.md",
+          "translatedFrom": "Economy/NET.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:34ffbb88716e1c90",
+          "sourceBodyHash": "sha256:401833a7ed0b48dd",
+          "translatedAt": "2026-07-25T21:33:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/net-night-economy-tourism.md",
@@ -11463,7 +11540,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-open-source-spirit.md",
+          "translatedFrom": "Technology/台灣開源精神.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8cc121a9cccbf90a",
+          "sourceBodyHash": "sha256:98feb4bab36f053f",
+          "translatedAt": "2026-07-26T02:07:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -13209,7 +13297,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/chuanqi-net-and-taiwan-online-gaming.md",
+          "translatedFrom": "Technology/傳奇網路與台灣線上遊戲出海.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:fc8499d85802cbbd",
+          "sourceBodyHash": "sha256:04d95f993c4d6e33",
+          "translatedAt": "2026-07-26T02:07:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -13437,7 +13536,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-television-industry-history.md",
+          "translatedFrom": "Technology/台灣電視產業史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:f8c3d1432bd47fe6",
+          "sourceBodyHash": "sha256:48b4e5475f2d12a8",
+          "translatedAt": "2026-07-26T02:07:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -16800,18 +16910,7 @@
           "reason": "same-commit"
         },
         "hi": {
-          "path": "hi/Technology/into-the-cellar-taiwan-game-podcast.md",
-          "translatedFrom": "Technology/不入地窖焉能睡覺.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:d882a7c06037e89c",
-          "sourceBodyHash": "sha256:abaef255e91e930b",
-          "translatedAt": "2026-07-25T21:33:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 23,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -17290,18 +17389,16 @@
         "ja": {
           "path": "ja/Art/wang-lien-cheng-artist.md",
           "translatedFrom": "Art/王連晟.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:741aad18a1d94861",
-          "sourceBodyHash": "sha256:5dea26a6c16a0f6c",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "sourceCommitSha": "6bbbf62ba",
+          "sourceContentHash": "sha256:f395cb57343c4ecf",
+          "sourceBodyHash": "sha256:3e275e3c41071f38",
+          "translatedAt": "2026-07-25T21:33:42+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/wang-lien-cheng-artist.md",
@@ -19054,7 +19151,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/fab-dao.md",
+          "translatedFrom": "Art/FAB DAO與百岳計畫.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a569386269241d61",
+          "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
+          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Art/fab-dao.md",
@@ -21770,7 +21878,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/resources/official-websites.md",
+          "translatedFrom": "resources/official-websites.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0d481ed818da82f8",
+          "sourceBodyHash": "sha256:6713c8a6c615e62a",
+          "translatedAt": "2026-07-26T00:17:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -22827,7 +22946,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/nightlife-and-ktv-culture.md",
+          "translatedFrom": "Lifestyle/夜生活與KTV文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:3a356e2fbd9898dc",
+          "sourceBodyHash": "sha256:5171611c1ca72679",
+          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -28365,7 +28495,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/history-of-taiwan-school-counseling.md",
+          "translatedFrom": "Society/台灣學校輔導室的前世今生.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:3fa630df33c49cfb",
+          "sourceBodyHash": "sha256:ca46407007f84f25",
+          "translatedAt": "2026-07-26T02:07:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -33424,7 +33565,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/mainlanders-in-taiwan.md",
+          "translatedFrom": "Society/外省人.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:11472ed85277289a",
+          "sourceBodyHash": "sha256:78aa4d7a1743dd44",
+          "translatedAt": "2026-07-26T02:07:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/mainlanders-in-taiwan.md",
@@ -42337,34 +42489,30 @@
         "ja": {
           "path": "ja/Politics/voting-rights-threshold-history.md",
           "translatedFrom": "Politics/投票權門檻歷史.md",
-          "sourceCommitSha": "e957cf7f1",
-          "sourceContentHash": "sha256:3074d2aae1d6b4c8",
-          "sourceBodyHash": "sha256:6e53b65db9794966",
-          "translatedAt": "2026-05-28T05:08:34+08:00",
+          "sourceCommitSha": "488ba3ae2",
+          "sourceContentHash": "sha256:9f186591ee3109a8",
+          "sourceBodyHash": "sha256:a759a5339dd81f4b",
+          "translatedAt": "2026-07-25T21:33:42+08:00",
           "translationLastCommit": "4c23b53c",
           "translationLastModified": "2026-06-10T12:21:10+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Politics/voting-rights-threshold-history.md",
           "translatedFrom": "Politics/投票權門檻歷史.md",
-          "sourceCommitSha": "e957cf7f1",
-          "sourceContentHash": "sha256:3074d2aae1d6b4c8",
-          "sourceBodyHash": "sha256:6e53b65db9794966",
-          "translatedAt": "2026-05-28T05:08:34+08:00",
+          "sourceCommitSha": "488ba3ae2",
+          "sourceContentHash": "sha256:9f186591ee3109a8",
+          "sourceBodyHash": "sha256:a759a5339dd81f4b",
+          "translatedAt": "2026-07-25T21:33:42+08:00",
           "translationLastCommit": "f0168508",
           "translationLastModified": "2026-05-28T09:57:56+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Politics/voting-rights-threshold-history.md",
@@ -45530,7 +45678,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/hsu-shu-ching-olympic-weightlifting-champion.md",
+          "translatedFrom": "People/許淑淨.md",
+          "sourceCommitSha": "0ea5d5d42",
+          "sourceContentHash": "sha256:81d60bf0143f4da3",
+          "sourceBodyHash": "sha256:a8a07476ede69bdb",
+          "translatedAt": "2026-07-26T00:16:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -51133,7 +51292,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/People/zun.md",
+          "translatedFrom": "People/尊.md",
+          "sourceCommitSha": "16c428cd9",
+          "sourceContentHash": "sha256:94b77718dfa4da62",
+          "sourceBodyHash": "sha256:5579d8d02a3f58ac",
+          "translatedAt": "2026-07-25T21:33:43+08:00",
+          "translationLastCommit": "105d6a9f",
+          "translationLastModified": "2026-07-24T15:51:37+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/zun.md",
@@ -54485,8 +54655,8 @@
           "sourceContentHash": "sha256:984fef279b1af05b",
           "sourceBodyHash": "sha256:8e4d8fb8704570d2",
           "translatedAt": "2026-07-26T00:16:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5f3aaa36",
+          "translationLastModified": "2026-07-26T01:56:48+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -57119,18 +57289,16 @@
         "ko": {
           "path": "ko/People/san-mao.md",
           "translatedFrom": "People/三毛.md",
-          "sourceCommitSha": "7415dcaae",
-          "sourceContentHash": "sha256:9d4460760fefc9a2",
-          "sourceBodyHash": "sha256:447085e6a89fcf94",
-          "translatedAt": "2026-05-18T05:08:08+08:00",
+          "sourceCommitSha": "512ce94e8",
+          "sourceContentHash": "sha256:423bfa0c83cbe434",
+          "sourceBodyHash": "sha256:5eacf1a20c5ad4bd",
+          "translatedAt": "2026-07-25T21:33:42+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/san-mao.md",
@@ -74020,7 +74188,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwanese-ice-cream-culture.md",
+          "translatedFrom": "Food/台灣冰品文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:4dac67a4f3297b76",
+          "sourceBodyHash": "sha256:aae5f010fab3924f",
+          "translatedAt": "2026-07-26T02:07:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -75700,7 +75879,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwanese-street-food.md",
+          "translatedFrom": "Food/台灣小吃.md",
+          "sourceCommitSha": "1facb1b9c",
+          "sourceContentHash": "sha256:d44d711c2a614f5f",
+          "sourceBodyHash": "sha256:fc8359a5a9777af0",
+          "translatedAt": "2026-07-25T21:33:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/taiwanese-street-food.md",
@@ -76245,7 +76435,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/tainan-central-west-district-street-food-culture.md",
+          "translatedFrom": "Food/台南中西區美食小吃文化.md",
+          "sourceCommitSha": "93facb6ce",
+          "sourceContentHash": "sha256:0b469697cef600b9",
+          "sourceBodyHash": "sha256:9c9d5bf9b829829e",
+          "translatedAt": "2026-07-25T21:33:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/tainan-central-west-district-street-food-culture.md",
@@ -78386,8 +78587,8 @@
           "sourceContentHash": "sha256:86475082b87388fc",
           "sourceBodyHash": "sha256:a9375147f15627a6",
           "translatedAt": "2026-07-26T00:16:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5f3aaa36",
+          "translationLastModified": "2026-07-26T01:56:48+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -82494,8 +82695,8 @@
           "sourceContentHash": "sha256:e62d0eea59514d87",
           "sourceBodyHash": "sha256:a7df3087b3ccbab6",
           "translatedAt": "2026-07-25T21:33:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5f3aaa36",
+          "translationLastModified": "2026-07-26T01:56:48+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -86906,8 +87107,8 @@
           "sourceContentHash": "sha256:349360e6f67e2293",
           "sourceBodyHash": "sha256:a900fc355006c673",
           "translatedAt": "2026-07-26T00:16:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5f3aaa36",
+          "translationLastModified": "2026-07-26T01:56:48+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -96409,16 +96610,16 @@
         "ko": {
           "path": "ko/Culture/culinary-class-wars-in-taiwan.md",
           "translatedFrom": "Culture/黑白大廚在台灣.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "sourceBodyHash": "",
-          "translatedAt": "",
+          "sourceCommitSha": "44bdf7162",
+          "sourceContentHash": "sha256:158a36dc208ac1d9",
+          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
+          "translatedAt": "2026-07-25T21:33:42+08:00",
           "translationLastCommit": "44bdf716",
           "translationLastModified": "2026-07-23T22:24:59+09:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/culinary-class-wars-in-taiwan.md",
@@ -101474,8 +101675,8 @@
           "sourceContentHash": "sha256:2b63bb823fbdea45",
           "sourceBodyHash": "sha256:6966802b8bb41d32",
           "translatedAt": "2026-07-26T00:16:51+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5f3aaa36",
+          "translationLastModified": "2026-07-26T01:56:48+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
