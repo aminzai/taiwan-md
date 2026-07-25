@@ -1,7 +1,7 @@
 ---
 title: 'AAMA台北揺籃プログラム：定年を迎えることもできた人々が、最も遅い方法で技を次の世代に渡す'
 description: '2012年5月、詹宏志氏と顔漏有氏が人脈を駆使して非公式な組織を立ち上げ、10人のメンターを招いて20人の起業家を支援した。その中に後にAppierを東京証券取引所に上場させた游直翰氏も含まれる。13年間で社企流やPortalyが輩出されたが、投資や株式取得は一切行わず、2年間の1対1指導を通じて「いかに企業を成長させるか」という技を次の世代に渡してきた。ユニコーン工場になることを避け、創設者自身は「道半ばだ」と語る。'
-date: '2026-07-05'
+date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Economy'
 subcategory: '新創經濟'
@@ -16,9 +16,9 @@ tags:
     'AAMA',
     'ソーシャルエンタープライズ',
   ]
-lastVerified: '2026-07-05'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-15
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/AAMA台北搖籃計畫.md'
 sourceCommitSha: 'cfaa22a5d'
 sourceContentHash: 'sha256:5e0729d9b7c768df'

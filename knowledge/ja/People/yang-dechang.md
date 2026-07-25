@@ -2,13 +2,13 @@
 title: '楊德昌'
 description: '台湾新映画運動の核心人物、カンヌ最優秀監督賞受賞、都市の孤独を描く詩人'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
+author: 'Taiwan.md'
 category: 'People'
 subcategory: '電影與戲劇'
 tags: ['監督', '台湾新映画', '楊德昌', 'カンヌ国際映画祭', '都市映画']
-lastVerified: 2026-03-19
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-07-05
+lastHumanReview: false
+featured: true
 translatedFrom: 'People/楊德昌.md'
 sourceCommitSha: 'fa062cc1'
 sourceContentHash: 'sha256:dd210fd225a73bd3'

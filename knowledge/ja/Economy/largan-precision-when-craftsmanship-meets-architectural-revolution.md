@@ -3,7 +3,7 @@ title: '大立光電：工匠精神とアーキテクチャ革命の交差点'
 description: '世界最強のプラスチックレンズ技術を持つ台湾の隠れたチャンピオンは、なぜ技術的に最もリードしていた時に中国の競合にiPhoneの注文を奪われたのか？'
 date: 2026-03-22
 author: 'Taiwan.md Contributors'
-category: economy
+category: 'Economy'
 subcategory: '企業列傳'
 tags:
   [
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:74469a54ad5b9ae3'
 sourceBodyHash: 'sha256:4ac8e9cdef3a165c'
 translatedAt: '2026-05-01T18:02:56+08:00'
+featured: false
 ---
 
 # 大立光電：工匠精神とアーキテクチャ革命の交差点

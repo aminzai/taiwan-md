@@ -1,14 +1,14 @@
 ---
 title: '疫病が消えた後、花火は伝統になった：台湾の祝祭文化の予想外の進化'
 description: '疫病を退散させるために爆竹を鳴らした小さな町の儀式が、140年後に世界で最も危険な民俗祭りの一つへと進化した'
-date: '2026-03-24'
+date: 2026-03-24
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '宗教と民俗'
 tags:
   ['伝統祝祭', '民俗', '媽祖の巡行', '塩水蜂炮', '春節', '中秋のバーベキュー']
-readingTime: '12'
-lastVerified: '2026-03-24'
+readingTime: 12
+lastVerified: 2026-03-24
 lastHumanReview: false
 featured: true
 translatedFrom: 'Culture/傳統節慶與慶典.md'
@@ -16,6 +16,7 @@ sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3bac2c2faa70bd6e'
 sourceBodyHash: 'sha256:325c4509ad66d26d'
 translatedAt: '2026-06-16T17:10:30Z'
+difficulty: 'intermediate'
 ---
 
 # 疫病が消えた後、花火は伝統になった：台湾の祝祭文化の予想外の進化

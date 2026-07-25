@@ -4,7 +4,7 @@ description: '戦後の廃墟から5か月での復電という奇跡、半導�
 date: 2026-04-30
 tags: ['孫運璿', '台湾電力公司', '半導体', '工研院', '十大建設']
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 lastVerified: 2026-04-30
 lastHumanReview: false
@@ -13,6 +13,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:9327b2569000f076'
 sourceBodyHash: 'sha256:b9a6db1720ddc955'
 translatedAt: '2026-05-16T22:35:34Z'
+featured: false
 ---
 
 > **30秒概覧：** 台湾の近代化の歴史において、**孫運璿（そんうんせん）**（1913－2006）は避けて通れない名前です。「永遠の行政院長」と称えられ、テクノクラートとしての専門性、廉潔な人格、そして国家が転換期を迎えた重要な局面での果敢な決断力が、その公的イメージを形作っています。戦後の廃墟での電力復旧に始まり、1970年代に半導体産業を推進した先見の明まで、孫運璿の生涯はほぼそのまま、台湾が荒廃から繁栄へと歩んだ創業の歴史です [^1][^2]。

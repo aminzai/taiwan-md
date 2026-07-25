@@ -21,6 +21,7 @@ sourceCommitSha: '6c2f8ea8d'
 sourceContentHash: 'sha256:374479ea740e2331'
 sourceBodyHash: 'sha256:3af35384af2f52c5'
 translatedAt: '2026-06-09T03:01:48+08:00'
+featured: false
 ---
 
 > **30-Second Overview:** In 1950, a twenty-year-old youth in Qingshui, Taiwan, was arrested because an unknowing visitor mentioned his name. He spent ten years in Green Island Prison. After his release, he founded Taiwan's first children's comic magazine. He lived to be 93 years old, spending the last years of his life asking the same question: "Who exactly killed my friend?" Taiwan's transitional justice revoked guilty verdicts for nearly 6,000 people, yet has still failed to answer his question.

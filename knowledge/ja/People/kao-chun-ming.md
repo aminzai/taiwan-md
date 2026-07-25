@@ -14,7 +14,7 @@ tags:
     '施明德',
   ]
 subcategory: '政治と民主'
-category: people
+category: 'People'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22

@@ -15,8 +15,8 @@ tags:
     '消えたバレンタインデー',
   ]
 lastVerified: 2026-03-19
-lastHumanReview: 'true'
-featured: 'false'
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/陳玉勳.md'
 sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:bc132f506d9946e5'

@@ -3,7 +3,7 @@ title: '廖鴻基（リャオ・ホンジー）：銛漁船から黒潮漂流ま
 description: '廖鴻基は1992年に漁師へと転身し、黒潮海洋文教基金会を設立。「黒潮101」と「マッコウクジラπ計画」を通じて台湾人の海への視点を再定義し、当代の海洋文学と生態保全の重要な推進力となった。'
 category: 'People'
 tags: ['海洋文学', '黒潮', 'クジラ・イルカ保全', '花蓮', 'マッコウクジラ']
-author: 'Taiwan.md Translation Team'
+author: 'idlccp1984'
 date: 2026-04-29
 readingTime: 12
 lastVerified: 2026-04-29
@@ -13,6 +13,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
 translatedAt: '2026-05-01T14:48:26+08:00'
+featured: false
 ---
 
 # 廖鴻基（リャオ・ホンジー）

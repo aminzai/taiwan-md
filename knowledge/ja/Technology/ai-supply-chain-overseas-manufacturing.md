@@ -19,7 +19,7 @@ tags:
   - '緯創'
   - '台達電子'
 subcategory: '半導体とハードウェア'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -212,12 +212,21 @@ TSMC の公式のアリゾナのページは、Phoenix のキャンパスへの�
 ## 参考資料
 
 [^1]: [AP: Nvidia plans to manufacture AI chips in the US for the first time](https://apnews.com/article/nvidia-ai-artificial-intelligence-tariffs-dcf48112ce98a7b61bfd32157359ce2f) — AP 通信による、NVIDIA がアメリカで Blackwell チップと AI スーパーコンピュータを生産することの報道。TSMC Phoenix、Foxconn Houston、Wistron Dallas、および SPIL / Amkor による Arizona でのパッケージング・テストの協働を名指ししている。
+
 [^2]: [AP: OpenAI and Taiwan’s Foxconn to partner in AI hardware design and manufacturing in the US](https://apnews.com/article/openai-foxconn-ai-hon-taiwan-china-b022977e34c23f5f3ddf7522817accfe) — AP 通信による、OpenAI と鴻海が AI データセンターのラックを設計・製造することで提携したという報道。製品にケーブル、ネットワーク機器、電源システムが含まれること、および鴻海のアメリカの施設の分布にも触れている。
+
 [^3]: [MySA: Plans move forward on $115M electronics factory in Plano](https://www.mysanantonio.com/business/article/delta-electronics-plano-20254702.php) — 台達電子が Texas 州 Plano で製造とオフィスの施設を拡張することの報道。既存の研究開発・製造センター、その後のキャンパスの規模、アメリカでの現地製造の位置づけを整理している。
+
 [^4]: [Times of India: Delta Electronics pushes for capacity expansion](https://timesofindia.indiatimes.com/city/chennai/delta-electronics-pushes-for-capacity-expansion/articleshow/123853472.cms) — 台達電子のインド Krishnagiri 工場の拡張の報道。通信、データセンター、電気自動車、産業の顧客の需要と、インドでの現地化されたサプライチェーンの展開を説明している。
+
 [^5]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — TSMC 公式のアリゾナのページ。Phoenix への投資規模、六つのウェハー工場、二つの先進パッケージング施設、N4/N3/N2/A16 の日程、水のリサイクルの計画を説明している。
+
 [^6]: [AP: TSMC to make advanced AI computer chips in Japan](https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5) — AP 通信による、TSMC が日本の熊本の第二工場で3ナノメートルのチップを生産する計画の報道。日本の経済安全保障と、AI、ロボット、自動運転の需要を整理している。
+
 [^7]: [ESMC: European Semiconductor Manufacturing Company](https://www.esmc.eu/) — ESMC の公式サイト。これが TSMC、Bosch、Infineon、NXP の合弁企業であり、ドイツのドレスデンにウェハー工場を建ててヨーロッパの産業、IoT、通信、自動車の市場を支えることを説明している。
+
 [^8]: [AP: Biden administration announces $6.6 billion to ensure leading-edge microchips are built in the US](https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149) — AP 通信による、アメリカの CHIPS and Science Act が TSMC のアリゾナの増産へ補助を出すことの報道。アメリカ政府が先端チップ製造をサプライチェーンの安全と国家安全保障の問題としてどう捉えているかを説明している。
+
 [^9]: [TIME: 台湾総統・頼清徳の『TIME』誌インタビュー全文を読む](https://time.com/6986139/taiwan-president-lai-ching-te-interview-mandarin/) — 『TIME』が掲載した中国語のインタビュー全文の中で、頼清徳が世界的な分業の産業としての半導体について、また TSMC などの半導体企業がアメリカ、日本、ヨーロッパへ展開することを政府がどう見ているかについて語っている。
+
 [^10]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — アリゾナの半導体の集積の拡大がもたらす雇用、地域の発展、水資源、環境、労働者の安全をめぐる論争の報道。海外での工場建設を地域社会の視点からバランスよく見るために使える。

@@ -17,7 +17,7 @@ tags:
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
-lastVerified: '2026-04-30'
+lastVerified: 2026-04-30
 lastHumanReview: false
 image: '/article-images/nature/malayan-night-heron-taipei-foraging-2010.webp'
 imageCredit: 'Dr. Raju Kasambe'

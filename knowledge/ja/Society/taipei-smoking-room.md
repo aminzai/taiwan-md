@@ -19,7 +19,7 @@ tags:
   - '西門町'
   - '電子たばこ'
 subcategory: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13
 lastHumanReview: false

@@ -27,6 +27,7 @@ sourceCommitSha: 'ef8fab38'
 sourceContentHash: 'sha256:d196b7664449f36f'
 sourceBodyHash: 'sha256:3affa690cf7b66dc'
 translatedAt: '2026-06-12T16:38:55Z'
+featured: true
 ---
 
 # Taiwan New Media Art

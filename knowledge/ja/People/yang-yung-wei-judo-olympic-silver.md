@@ -1,7 +1,7 @@
 ---
 title: '楊勇緯'
 description: '2021年東京オリンピック柔道60キロ級銀メダリスト。台湾史上初のオリンピック柔道メダリストであり、同年11月に世界ランキング1位に輝きました。'
-date: '2026-03-21'
+date: 2026-03-21
 tags:
   [
     '人物',
@@ -15,7 +15,7 @@ tags:
     'パイワン族',
   ]
 subcategory: '體育'
-lastVerified: '2026-03-21'
+lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/楊勇緯.md'
 sourceCommitSha: '4b6d28c5'
@@ -23,6 +23,8 @@ sourceContentHash: 'sha256:66a5e0aae1a572b7'
 sourceBodyHash: 'sha256:162f09653edec7c3'
 translatedAt: '2026-05-01T18:09:43+08:00'
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 # 楊勇緯

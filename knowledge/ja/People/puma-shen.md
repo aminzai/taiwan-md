@@ -28,6 +28,7 @@ image: /article-images/people/puma-shen-election-2024.webp
 imageCredit: 曾成訓 / Flickr
 imageLicense: CC BY 2.0
 imageSource: https://commons.wikimedia.org/wiki/File:Puma_Shen_in_2024_Taiwan_general_election.jpg
+difficulty: 'intermediate'
 ---
 
 # 沈伯洋：彼は中国の認知戦を研究し、やがて中国は彼を衛星画像上に描き込みました

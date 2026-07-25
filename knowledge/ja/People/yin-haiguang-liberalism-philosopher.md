@@ -14,7 +14,7 @@ tags:
     '中国文化的展望',
   ]
 category: People
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 14
 lastVerified: 2026-05-02

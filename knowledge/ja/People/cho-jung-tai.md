@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1274f9fb56a6cca0'
 sourceBodyHash: 'sha256:98226e940e464d18'
 translatedAt: '2026-05-03T23:14:06+08:00'
+difficulty: 'intermediate'
 ---
 
 # 卓栄泰：謝長廷の議会助手から財劃法への不副署へ――調整者の軌跡

@@ -4,7 +4,7 @@ description: '1981年5月28日の未明、梅雨前線が桃竹苗と台北で�
 date: 2026-05-02
 tags: ['気候', '水資源', '科学史', '災害']
 category: Nature
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 readingTime: 16
 lastVerified: 2026-05-02

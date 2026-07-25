@@ -1,7 +1,7 @@
 ---
 title: '朴星垠'
 description: '交流ゲストから富邦への正式加入へ。素早い適応力と舞台での安定感で、韓援五本柱の新世代代表として成長しました。'
-date: '2026-05-13'
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '流行人物'
@@ -15,14 +15,15 @@ tags:
     'Fubon Angels',
     '中華職棒',
   ]
-readingTime: '8'
-lastVerified: '2026-05-13'
+readingTime: 8
+lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: 'People/朴星垠.md'
 sourceCommitSha: '859d7316'
 sourceContentHash: 'sha256:887b51489bb209f2'
 sourceBodyHash: 'sha256:f656fc0bb3872e67'
 translatedAt: '2026-05-25T21:07:04Z'
+featured: false
 ---
 
 > **30 秒概要：** 朴星垠は 2026 年に Fubon Angels に正式加入し、富邦の韓援五本柱の一人となりました。彼女のキャリアは非常に明快な軌跡をたどっています。まず台湾のファンに知られ、その後球団のレギュラーメンバーとしてシーズンに組み込まれていったのです。人物の経歴の概略はウィキペディア「朴星垠」項目でも確認できます。[^4]

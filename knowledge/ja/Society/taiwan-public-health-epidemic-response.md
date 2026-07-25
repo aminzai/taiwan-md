@@ -1,13 +1,13 @@
 ---
 title: '台湾の公衆衛生と感染症対策体制'
 description: '2003年、和平病院の封鎖により30名が死亡した。17年後、COVID-19が世界的に大流行した際、台湾はその災難の教訓を活かし、18か月間にわたりコミュニティ感染ゼロを維持した。一つのトラウマが、いかにして島全体の免疫記憶となったのか。'
-date: '2026-04-08'
+date: 2026-04-08
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: 'Society'
 tags: ['公衆衛生', 'SARS', 'COVID-19', '感染症対策', '全民健康保険', '疾管署']
-readingTime: '14'
-lastVerified: '2026-04-08'
+readingTime: 14
+lastVerified: 2026-04-08
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'

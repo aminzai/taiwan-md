@@ -1,7 +1,7 @@
 ---
 title: 'アルミカップの耐心：阿明猪心春雨（ズンフェン）の隔水調理が紡ぐ七十年の哲学'
 description: '台南市保安路72号にある黄賢明（ファン・シェンミン）氏経営の「阿明猪心春雨（ズンフェン）」は午後5時より営業を開始し、毎晩長蛇の列が絶えない。2022年にはミシュラン・ビブ・グルマンに選定された。その核心は食材そのものではなく、調理法にある。安価な労働者のための内臓（下水）である猪心を、アルミカップに入れて湯煎（隔水加熱）し、外側からゆっくりと熱を浸透させる。これにより、生臭さや硬さを排除し、甘味を帯びた猪心に仕上げる。'
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '經典小吃'
@@ -15,10 +15,10 @@ tags:
     '屋台料理（小吃）',
     '内臓（下水）',
   ]
-readingTime: '6'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 6
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'Food/豬心冬粉.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:3bcebca3a70539f8'

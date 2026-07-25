@@ -1,20 +1,21 @@
 ---
-title: "現代の原住民シンガーソングライター"
-description: "張惠妹から舒米恩、桑布伊まで、台湾原住民歌手が現代音楽の中で古い魂をどのように受け継ぎ、独自の現代原住民音楽の風景を創り出しているのかを見ます"
+title: '現代の原住民シンガーソングライター'
+description: '張惠妹から舒米恩、桑布伊まで、台湾原住民歌手が現代音楽の中で古い魂をどのように受け継ぎ、独自の現代原住民音楽の風景を創り出しているのかを見ます'
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Music"
-subcategory: "當代原住民音樂"
-tags: ["原住民歌手", "ポピュラー音楽", "文化融合", "金曲奨", "現代創作"]
+author: 'Taiwan.md'
+category: 'Music'
+subcategory: '當代原住民音樂'
+tags: ['原住民歌手', 'ポピュラー音楽', '文化融合', '金曲奨', '現代創作']
 readingTime: 10
 lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
-translatedFrom: "Music/當代原住民創作歌手.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:63a03cba4dec8d7b"
-sourceBodyHash: "sha256:709d0c8ef67f0111"
-translatedAt: "2026-05-17T05:34:50+08:00"
+translatedFrom: 'Music/當代原住民創作歌手.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:63a03cba4dec8d7b'
+sourceBodyHash: 'sha256:709d0c8ef67f0111'
+translatedAt: '2026-05-17T05:34:50+08:00'
+difficulty: 'beginner'
 ---
 
 # 現代の原住民シンガーソングライター
@@ -349,9 +350,15 @@ Amis 旮亙樂團音樂節は毎年台東・都蘭で開催され、アミ族の
 - [桑布伊 Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A)
 
 [^1]: [呂鈺秀『台灣音樂史』五南文化 2003](https://www.books.com.tw/products/0010906148) — 台湾原住民族音楽の発展に関する学術的通史で、第 1 章は各民族の音楽的特質を詳述しています
+
 [^2]: [原住民族委員会公式サイト](https://www.cip.gov.tw/) — 台湾原住民族の政策、文化資源、民族紹介に関する政府公式プラットフォームです
+
 [^3]: [動力火車 — Wikipedia](https://zh.wikipedia.org/zh-tw/動力火車) — 顏志琳、尤秋興はいずれもパイワン族であり、関連する民族資料はこの項目に記録されています
+
 [^4]: [金曲奨歴代受賞者リスト](https://gma.tavis.tw/) — 陳建年『海洋』は第 11 回（2000 年）最優秀ポピュラー音楽歌唱者男性歌手賞を受賞し、原住民として初めて金曲奨主要賞を制しました
+
 [^5]: [張惠妹 — Wikipedia](https://zh.wikipedia.org/zh-tw/張惠妹) — プユマ族歌手であり、生涯、ディスコグラフィー、アジアの歌姫としての地位に関する完全な記録です
+
 [^6]: [桑布伊 — Wikipedia](https://zh.wikipedia.org/zh-tw/桑布伊) — プユマ族シンガーソングライターであり、霊性を帯びた詩篇的スタイルと金曲奨受賞記録を記載しています
+
 [^7]: [金曲奨歴代受賞者リスト](https://gma.tavis.tw/) — 最優秀原住民語アルバム賞は第 16 回（2005 年）から設立され、歴代受賞資料が完全に収録されています

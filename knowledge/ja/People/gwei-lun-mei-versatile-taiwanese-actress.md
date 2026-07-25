@@ -12,6 +12,8 @@ sourceContentHash: 'sha256:266bd954eeb032d3'
 sourceBodyHash: 'sha256:c06a0cb5b90069e3'
 translatedAt: '2026-05-17T06:35:00Z'
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 # 桂綸鎂：控えめで堅実な実力派女優
@@ -131,7 +133,11 @@ category: People
 - [台湾俳優の国際的発展 — 文化部影視及流行音樂産業局](https://www.bamid.gov.tw/) — 国際協力資料
 
 [^1]: ウィキペディア〈失魂〉の項目：『失魂』（2013）、監督 鍾孟宏、主演 桂綸鎂、張孝全。https://zh.wikipedia.org/wiki/失魂
+
 [^2]: ウィキペディア〈桂綸鎂〉の項目。『藍色大門』『不能說的秘密』『女朋友・男朋友』などの作品記録あり。https://zh.wikipedia.org/wiki/桂綸鎂
+
 [^3]: 『藍色大門』（2002）、監督 易智言、桂綸鎂・陳柏霖主演、複数の国際映画祭に出品。台湾電影網資料：<https://taiwancinema.bamid.gov.tw/Film/Filmcontent/?ContentUrl=12080>
+
 [^4]: 『女朋友・男朋友』（2012）、監督 楊雅喆、第 49 回金馬賞最優秀主演女優賞ノミネート。金馬賞公式サイト：https://www.goldenhorse.org.tw/
+
 [^5]: 『明月幾時有』（2017）、監督 許鞍華、桂綸鎂も出演し、地域を越えた協力を体現した作品。香港電影資料館所蔵：<https://www.filmarchive.gov.hk/tc/web/hkfa/pe-event-2020-11a.html>

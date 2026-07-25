@@ -1,7 +1,7 @@
 ---
 title: '黄氏兄弟：清新というラベルの背後にあった、強制的に広げられた真実と優しさ'
 description: '2017 年の一本のドッキリ動画から始まり、黄氏兄弟は「清新で、ポジティブ」というイメージで YouTube 界に頭角を現しました。しかし 2020 年の強制アウティング報道により、この兄弟はチャンネル登録者数 100 万人超の頂点にいた時期に、カメラの前でプライバシーを解体することを余儀なくされました。それは同時に、台湾社会がジェンダー平等に対して示した、最も優しい集団的応答の一つを思いがけず描き出すことにもなりました。'
-date: '2026-06-01'
+date: 2026-06-01
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '數位與媒體'
@@ -15,7 +15,7 @@ tags:
     '台湾文化',
   ]
 readingTime: 12
-lastVerified: '2026-06-01'
+lastVerified: 2026-06-01
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/黃氏兄弟.md'

@@ -1,20 +1,21 @@
 ---
-title: "都市の特色と地域文化"
-description: "台北の国際都市性から台南の古都情緒まで、台湾の各都市が独自の地域アイデンティティをどのように形づくっているか"
+title: '都市の特色と地域文化'
+description: '台北の国際都市性から台南の古都情緒まで、台湾の各都市が独自の地域アイデンティティをどのように形づくっているか'
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Geography"
-subcategory: "城市與人文地理"
-tags: ["都市", "地域文化", "地域の特色", "都市発展", "文化地理"]
+author: 'Taiwan.md'
+category: 'Geography'
+subcategory: '城市與人文地理'
+tags: ['都市', '地域文化', '地域の特色', '都市発展', '文化地理']
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Geography/城市特色與區域文化.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:9d646e504e06dd7e"
-sourceBodyHash: "sha256:3ece4cc0080f2397"
-translatedAt: "2026-05-20T05:08:29+08:00"
+translatedFrom: 'Geography/城市特色與區域文化.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:9d646e504e06dd7e'
+sourceBodyHash: 'sha256:3ece4cc0080f2397'
+translatedAt: '2026-05-20T05:08:29+08:00'
+difficulty: 'beginner'
 ---
 
 # 都市の特色と地域文化
@@ -302,7 +303,11 @@ translatedAt: "2026-05-20T05:08:29+08:00"
 ## 参考資料
 
 [^1]: 内政部戸政司、[人口統計資料照会システム](https://www.ris.gov.tw/)。
+
 [^2]: 国立陽明交通大学、[公式ウェブサイト](https://www.nycu.edu.tw/)、校史と学校紹介を含む。
+
 [^3]: 交通部観光署、[都市観光統計資料](https://admin.taiwan.net.tw/)。
+
 [^4]: 林淑蓉ほか、[『重讀臺灣：人類學的視野』](https://www.books.com.tw/products/0010659492)。
+
 [^5]: 各都市文化局、[公式出版物（台南市文化局を例として）](https://culture.tainan.gov.tw/)。

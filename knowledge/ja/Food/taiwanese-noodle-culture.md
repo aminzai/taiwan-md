@@ -1,14 +1,14 @@
 ---
 title: '台湾麺食文化'
 description: '戦後眷村（じゅんそん、台湾の外省人住宅団地）から国際舞台に至るまで、台湾の麺食は70年間にわたり米国援助（アメリカの経済援助）の小麦粉を起点に、省籍の記憶と在地の革新を融合させ、移民と故郷の飲食史詩を綴ってきました。'
-date: '2026-03-24'
+date: 2026-03-24
 author: 'Taiwan.md Editorial Team'
 category: 'Food'
 subcategory: '主食與麵食'
 tags:
   ['麺食', '飲食文化', '台湾料理', '外省料理', '眷村文化', '牛肉麺', '担仔麺']
 readingTime: 15
-lastVerified: '2026-03-24'
+lastVerified: 2026-03-24
 lastHumanReview: true
 featured: true
 translatedFrom: 'Food/台灣麵食文化.md'
@@ -18,6 +18,7 @@ sourceBodyHash: 'sha256:07d9c3b482846ce9'
 translatedAt: '2026-05-01T18:09:43+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg/960px-Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'intermediate'
 ---
 
 # 台湾麺食文化：米国援助の小麦粉から国民的美食へ、70年の変遷

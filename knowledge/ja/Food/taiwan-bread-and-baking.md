@@ -1,12 +1,12 @@
 ---
 title: '台湾のパンとベーカリー'
 description: '呉宝春の世界優勝から85°Cの国際展開まで、台湾式パンの独自の魅力を探る'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '烘焙與甜點'
 tags: ['パン', 'ベーカリー', '呉宝春', '台湾式パン', '85°C']
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣麵包與烘焙.md'

@@ -14,6 +14,8 @@ sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:43806fa3b9658513'
 sourceBodyHash: 'sha256:fe00573219684528'
 translatedAt: '2026-06-10T16:41:16Z'
+category: 'People'
+difficulty: 'intermediate'
 ---
 
 # 韓国瑜

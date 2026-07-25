@@ -1,13 +1,13 @@
 ---
 title: '阿神'
 description: '2023年10月15日、300万人のチャンネル登録者を擁するゲーム実況者アシン（阿神）が最後の動画を公開し、14年間の創作活動に幕を下げた。『Minecraft』シリーズで注目を集め、11年間途切れることなく毎日更新する「日更」の神話を打ち立てたこのクリエイターは、絶頂期に引退を選び、かつて「人間らしく生きていなかった」と語り、トップクリエイターがアルゴリズムと自らの命の間で直面する残酷な葛藤を浮き彫りにした。'
-date: 2026-04-19
-author: 'Taiwan.md'
+date: 2026-07-15
+author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '數位與媒體'
 tags: ['YouTuber', 'ゲーム実況', 'Minecraft', 'デジタルメディア']
-lastVerified: 2026-04-19
-lastHumanReview: true
+lastVerified: 2026-07-15
+lastHumanReview: false
 featured: false
 translatedFrom: 'People/阿神.md'
 sourceCommitSha: 4b6d28c54
@@ -18,6 +18,7 @@ image: '/article-images/people/ashan-2026-return-minecraft.webp'
 imageCredit: '阿神官方 YouTube 頻道'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
+readingTime: 18
 ---
 
 ## 阿神：11年間日更し続けた「仕事の機械」から、人生を取り戻すまで

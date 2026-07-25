@@ -1,7 +1,7 @@
 ---
 title: '凹と山：テクノロジー業界のサラリーマン二人がシンセサイザーでオフィスで言えないことを表現する'
 description: '凹と山（Our Shame）は台湾の電気民謡デュオで、メンバーは小凹（ボーカル、シンセサイザー、プロデューサー）とIsan（ドラム、Pad）です。高校の熱音部で出会い、大学時代にアコースティック民謡デュオとして2015年に金韶賞創作部門で優勝しました。卒業後、二人ともテクノロジー業界でサラリーマンとして働きました。2018年冬に元の民謡バンド「魏小凹」の名前を「凹と山」に改名し、小凹がシンセサイザーを、IsanがPadに切り替えて、音楽は電気民謡（Folktronica）へと転向しました。2022年に小凹の親友が亡くなり、全職を辞め、バンドは初のアルバム《Modern Problem》をリリースし、金音賞第13回ベスト・オルタナティブ・ポップとベスト・新人の二部門にノミネートされました。2025年8月4日に二枚目のアルバム《Hidden Album》をリリースし、英国のグラミー賞ミックスエンジニアJay Reynolds、米国のグラミー賞エンジニアBrian Elgin（Dua Lipa、Lana Del Reyと共作）や日本のASOBOiSMなど国際的な協力チームを迎えました。アルバムのテーマは「テクノロジーの不安」（Modern Problem）から「テクノロジーに隠された人間性の陰影」へと転換し、自己傷害、禁断の恋、仮想通貨詐欺、女性の身体経験などを扱っています。その中の一曲〈Miffy〉は社会運動家陳梅慧に敬意を表しています。'
-date: '2026-04-18'
+date: 2026-04-18
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '音楽とパフォーマンス'
@@ -19,9 +19,9 @@ tags:
   - 'Modern Problem'
   - 'Hidden Album'
   - 'シンセサイザー'
-readingTime: '16'
-lastVerified: '2026-04-18'
-lastHumanReview: 'true'
+readingTime: 16
+lastVerified: 2026-04-18
+lastHumanReview: true
 featured: false
 translatedFrom: 'People/凹與山.md'
 sourceCommitSha: '4b6d28c54'

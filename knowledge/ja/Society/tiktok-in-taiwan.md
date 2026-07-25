@@ -1,7 +1,7 @@
 ---
 title: 'TikTok'
 description: '15秒の喜びから見えない認知戦へ――TikTokは、極限まで個人化されたレコメンドと「影海戦術」を通じて、台湾の青少年の世界観と政治的アイデンティティを静かに作り変えている。'
-date: '2026-04-12'
+date: 2026-04-12
 author: 'idlccp1984'
 category: 'Society'
 tags:
@@ -18,13 +18,14 @@ tags:
     '台湾の自信を破壊',
   ]
 readingTime: '10min'
-lastVerified: '2026-04-12'
-lastHumanReview: '2026-04-13'
+lastVerified: 2026-04-12
+lastHumanReview: true
 translatedFrom: 'Society/TikTok.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:dfdfbf0a5674de0a'
 sourceBodyHash: 'sha256:6054d2cc1d83cb36'
 translatedAt: '2026-05-01T18:02:56+08:00'
+featured: false
 ---
 
 > **30秒概要：** TikTokは、単なる動画で知名度を上げるための短尺動画プラットフォームにとどまらず、台湾においては「分散型」の認知実験の場でもある。極限まで個人化されたレコメンドを通じて、ユーザーは知らないうちに他者の政治的アジェンダを自分自身の世界観として内面化してしまう。2025年の調査によると、台湾の15歳から18歳の青少年の7割以上が1日2時間以上をTikTokに費やしており、中国に対する好感度はスワイプする指先とともに静かに上昇し、同時に台湾社会に対するネガティブな印象も深めている。

@@ -19,7 +19,8 @@ author: 'Taiwan.md Contributors'
 date: 2026-04-28
 readingTime: 10
 lastVerified: 2026-04-28
-lastHumanReview: false
+lastHumanReview: true
+featured: false
 ---
 
 > **30秒概覧：**

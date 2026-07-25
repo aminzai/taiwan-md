@@ -1,15 +1,15 @@
 ---
 title: '凌晨5時の温体：台南牛肉湯のサプライチェーンと鮮度'
 description: '台南牛肉湯が「代表的美食」として認知されるまで20年足らずだが、凌晨5時に並ぶ価値がある理由は確実である。善化の屠畜場から届く温体牛、数時間で完結するコールドチェーン、そして朝から沸き続ける牛骨スープの底力。'
-date: '2026-07-02'
+date: 2026-07-02
 author: 'Taiwan.md Contributors'
 category: 'Food'
 tags: ['台南', '牛肉湯', '温体牛', '善化', '中西区', '小吃']
 subcategory: '經典小吃'
-readingTime: '7'
-lastVerified: '2026-07-02'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 7
+lastVerified: 2026-07-02
+lastHumanReview: false
+featured: false
 translatedFrom: 'Food/牛肉湯.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:28c5ddfd25d93a95'

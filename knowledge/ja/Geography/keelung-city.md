@@ -21,7 +21,7 @@ tags:
   ]
 readingTime: 14
 lastVerified: 2026-05-17
-lastHumanReview: true
+lastHumanReview: false
 featured: false
 translatedFrom: Geography/基隆市.md
 sourceCommitSha: '31a05c44'

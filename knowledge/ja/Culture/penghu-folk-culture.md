@@ -8,7 +8,7 @@ subcategory: '離島文化'
 tags: ['澎湖', '元宵節', '乞亀', '離島文化', '宮廟', '民俗', '石滬', '媽祖']
 readingTime: 12
 lastVerified: 2026-04-07
-lastHumanReview: '2026-04-07'
+lastHumanReview: true
 featured: false
 translatedFrom: 'Culture/澎湖民俗文化.md'
 sourceCommitSha: '4b6d28c5'

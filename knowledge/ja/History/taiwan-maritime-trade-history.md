@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
 translatedAt: '2026-05-01T18:02:56+08:00'
+difficulty: 'beginner'
 ---
 
 # 台湾海洋貿易史

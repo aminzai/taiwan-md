@@ -4,7 +4,7 @@ description: '209トンの鉄骨梁が落下し4人の命を奪い、16.4億円�
 date: 2026-03-23
 tags: [MRT, 交通, 台北, 高雄, 桃園, 台中, 都市発展, 生活, 労働安全, 財務]
 subcategory: '交通與移動'
-author: 'Taiwan.md 編集チーム'
+author: 'Taiwan.md 編輯團隊'
 readingTime: 15
 featured: true
 category: 'Lifestyle'

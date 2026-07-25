@@ -1,7 +1,7 @@
 ---
 title: '政治献金の透明性：監察院プラットフォーム、g0vによる可視化、22年間の公開基盤整備'
 description: '監察院の政治献金公開閲覧プラットフォームを開き、候補者の名前を入力すれば、誰からいくら受け取り、どの選挙活動に使ったかを確認できます。この基盤は突然完成したものではありません。2004年の《政治献金法》制定、2008年のプラットフォーム公開、2017年の中央選挙管理委員会と監察院のデータ公開協定、g0vのエンジニアによる10年間の可視化による補完、一つひとつの法律、一つひとつの会計報告書、一人ひとりの市民エンジニアによって築き上げられたものです。'
-date: '2026-05-27'
+date: 2026-05-27
 author: 'Taiwan.md'
 category: 'Politics'
 subcategory: '公民監督'
@@ -15,10 +15,10 @@ tags:
     '2004年立法',
     '2026年選挙',
   ]
-readingTime: '12'
-lastVerified: '2026-05-27'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-05-27
+lastHumanReview: false
+featured: false
 translatedFrom: 'Politics/政治獻金透明度.md'
 sourceCommitSha: '837e22b9'
 sourceContentHash: 'sha256:8a7814971a9249c7'

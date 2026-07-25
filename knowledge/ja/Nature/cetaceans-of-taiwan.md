@@ -1,7 +1,7 @@
 ---
 title: '台湾の鯨豚'
 description: '世界の鯨豚種の3分の1が生息する海域です——かつての捕鯨から現在のホエールウォッチング（賞鯨）へ、台湾はいかにして海洋生態研究の重要拠点へと転換したのでしょうか？'
-date: '2026-03-19'
+date: 2026-03-19
 author: '海女'
 category: 'Nature'
 subcategory: '野生動物'
@@ -16,14 +16,15 @@ tags:
     '中華バンドウイルカ（中華白海豚）',
     '黒潮',
   ]
-readingTime: '12'
-lastVerified: '2026-03-19'
+readingTime: 12
+lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/臺灣的鯨豚.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:fa8568c6d129180a'
 sourceBodyHash: 'sha256:7c0ff1bf77404541'
 translatedAt: '2026-05-17T05:33:00Z'
+featured: false
 ---
 
 # 台湾の鯨豚
@@ -132,9 +133,15 @@ translatedAt: '2026-05-17T05:33:00Z'
 ## 参考資料
 
 [^1]: [中華バンドウイルカの個体群調査 - The News Lens 關鍵評論](https://www.thenewslens.com/article/255968) — 中華バンドウイルカの 2025 年最新調査では個体数約 45～50 頭、6 割以上が外傷を負っていることを確認。
+
 [^2]: [鯨豚保育計畫 - 海洋委員會海洋保育署](https://www.oca.gov.tw/userfiles/A47020000A/files/%E9%AF%A8%E8%B1%9A%E4%BF%9D%E8%82%B2%E8%A8%88%E7%95%AB_%E5%85%AC%E5%91%8A%E7%89%88.pdf) — 海保署による中華バンドウイルカおよび鯨豚保育計畫の公告版。
+
 [^3]: [友善賞鯨指南 - 海洋委員會海洋保育署](https://www.oca.gov.tw/ch/home.jsp?id=192&parentpath=0,6,190) — 台湾の鯨ウォッチングエコツーリズムに関する規範。
+
 [^4]: [中華鯨豚協会](https://www.whale.org.tw/) — 台湾の鯨豚研究と保育を推進する民間組織。
+
 [^5]: [黒潮海洋文教基金会](https://www.kuroshio.org.tw/newsite/) — 花蓮の鯨豚研究と市民科学を推進する機関。
+
 [^6]: [台湾蛮野心足生態協会](https://www.twsousa.org.tw/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91) — 中華バンドウイルカ保育を訴える団体。
+
 [^7]: [海洋委員會海洋保育署](https://www.oca.gov.tw/) — 台湾の海洋保育の主管機関。鯨豚棲息地の保護と開発規制を推進。

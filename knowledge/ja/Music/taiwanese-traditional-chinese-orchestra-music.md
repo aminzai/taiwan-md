@@ -1,14 +1,14 @@
 ---
 title: '台湾国楽——中国楽器の上に育った島の音'
 description: '1949年に海を渡ってきた二胡と琵琶が、70年後の台湾でブヌン族の八部合音を奏でる。台湾国楽はいかにして政治的正統の象徴から、対岸とはまったく異なる音楽の種へと進化したのか。'
-date: 2026-05-02
+date: 2026-04-03
 tags: ['国楽', '伝統音楽', '台北市立国楽団', '民族音楽', '文化融合']
 subcategory: '傳統音樂'
 author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: false
-lastVerified: 2026-05-02
-lastHumanReview: false
+lastVerified: 2026-04-03
+lastHumanReview: true
 category: 'Music'
 translatedFrom: 'Music/台灣國樂.md'
 sourceCommitSha: 'dd39065b'

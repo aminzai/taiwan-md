@@ -1,11 +1,11 @@
 ---
 title: '呉明益'
 description: '国際マンブック賞にノミネートされた初の台湾作家であり、複眼視野を用いて自然と歴史を編み上げる文学詩篇を紡いでいます'
-date: '2026-03-21'
+date: 2026-03-21
 subcategory: '文學'
 tags:
   ['人物', '呉明益', '文学', '自然文学', '東華大学', 'マンブック賞', '小説家']
-lastVerified: '2026-03-21'
+lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/吳明益.md'
 sourceCommitSha: '4b6d28c5'
@@ -13,6 +13,8 @@ sourceContentHash: 'sha256:2752c026dbd32f77'
 sourceBodyHash: 'sha256:33817e164492daa0'
 translatedAt: '2026-05-01T18:09:43+08:00'
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 # 呉明益

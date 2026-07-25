@@ -1,7 +1,7 @@
 ---
 title: '張懸から安溥へ——二つの名前、同じ問い'
 description: '13歳で「宝貝」を書き、32歳で一面の旗のために中国から封じられ、34歳で自らの芸名を殺した。焦安溥は二段階の人生で、すべての台湾人が問い続ける問いに答えました——あなたはいったいどちら側に立つのか、と。'
-date: 2026-05-02
+date: 2026-04-12
 tags:
   [
     'インディー音楽',
@@ -17,9 +17,9 @@ category: 'Music'
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
 featured: false
-readingTime: 15
-lastVerified: 2026-05-02
-lastHumanReview: false
+readingTime: 15min
+lastVerified: 2026-04-13
+lastHumanReview: true
 translatedFrom: 'Music/張懸與安溥.md'
 sourceCommitSha: 'f803d0b6'
 sourceContentHash: 'sha256:27ef434e8d6b0605'

@@ -16,6 +16,7 @@ sourceCommitSha: 'bb3e6a0b'
 sourceContentHash: 'sha256:9aa75ab5aaf39eb6'
 sourceBodyHash: 'sha256:4a2bc57ff97cab00'
 translatedAt: 2026-05-20T05:08:29+08:00
+difficulty: 'intermediate'
 ---
 
 # 台湾産業の転換・高度化：製造大国からイノベーション強国へ

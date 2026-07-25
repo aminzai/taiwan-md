@@ -16,7 +16,7 @@ tags:
     'DEPART',
   ]
 subcategory: '当代音楽人'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-04-28
 readingTime: 22
 featured: true
@@ -25,6 +25,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9474a07c92a4db90'
 sourceBodyHash: 'sha256:f2c2b3c665362b55'
 translatedAt: '2026-05-01T14:48:26+08:00'
+lastVerified: 2026-04-28
+lastHumanReview: false
 ---
 
 # 蔡健雅（ターニャ・チュア）：4度のゴールデン・メロディー女王、シンガポール人が台湾を主戦場にした方法

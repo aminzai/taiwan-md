@@ -1,13 +1,13 @@
 ---
 title: '九天玄女：黄帝の軍師から台湾陣頭少年たちの守護神へ'
 description: '高校卒業の廟会団長が、文建会（文化建設委員会）の審査員に十数年間にわたり屈辱を受け、11年かけて博士号を取得した。それは中退生たちに太鼓を叩かせることも芸術であると証明するためだった。彼の背後に立つのは、四千年前に黄帝に戦い方を教えた女神である。'
-date: '2026-03-27'
+date: 2026-03-27
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '宗教と民俗'
 tags: ['九天玄女', '陣頭', '九天民俗技藝団', '民間信仰', '廟宇文化', '許振栄']
-readingTime: '12'
-lastVerified: '2026-03-27'
+readingTime: 12
+lastVerified: 2026-03-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/九天玄女信仰.md'

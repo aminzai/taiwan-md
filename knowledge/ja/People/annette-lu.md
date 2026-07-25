@@ -2,7 +2,7 @@
 title: '呂秀蓮'
 description: '反逆罪から副大統領へ：華人世界初の女性副大統領の伝奇的な人生'
 date: 2026-03-22
-category: 'people'
+category: 'People'
 subcategory: '政治と民主'
 tags: ['人物', '政治家', '女性運動', '副大統領', '美麗島事件']
 lastVerified: 2026-03-22
@@ -12,6 +12,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:4f2e975be9df55bf'
 sourceBodyHash: 'sha256:e2af78942d7ac0ac'
 translatedAt: '2026-05-13T01:08:16Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 > **30秒概要：** 1979年、呂秀蓮は美麗島事件により懲役12年の判決を受けました。

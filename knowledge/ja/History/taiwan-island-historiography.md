@@ -1,13 +1,13 @@
 ---
 title: '台湾島史観：繰り返し統治されてきた島は、いかにして自らの主体性を発明したのか'
 description: '台湾は大陸帝国の最後のピースではなく、太平洋の海洋ネットワークにおける最初の礎石です。曹永和の「以地範史」から出発し、この島の生命力を改めて理解します。'
-date: 2026-03-27
+date: 2026-07-10
 author: 'Taiwan.md'
 category: 'History'
 subcategory: '史觀與方法論'
 tags: ['歴史', '島嶼', '史観', '曹永和', '海洋']
-lastVerified: 2026-03-27
-lastHumanReview: true
+lastVerified: 2026-07-10
+lastHumanReview: false
 featured: true
 translatedFrom: 'History/台灣島史觀.md'
 sourceCommitSha: '01d9d0e73'

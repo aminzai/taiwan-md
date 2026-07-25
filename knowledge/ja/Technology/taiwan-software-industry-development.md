@@ -1,7 +1,7 @@
 ---
 title: '台湾ソフトウェア産業の発展'
 description: '受託開発の思考からソフトウェアイノベーションへ、台湾はポスト半導体時代にいかに新たなポジションを見出すか'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: '人工智慧'
@@ -12,8 +12,8 @@ tags:
     'デジタルトランスフォーメーション',
     'スタートアップ',
   ]
-readingTime: '12'
-lastVerified: '2026-03-19'
+readingTime: 12
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/台灣軟體產業發展.md'

@@ -13,6 +13,8 @@ sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
 translatedAt: '2026-05-01T19:52:32+08:00'
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 # 李智凱

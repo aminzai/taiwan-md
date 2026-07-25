@@ -12,7 +12,7 @@ tags:
   - 'AI'
   - 'SaaS'
   - 'クリエイターエコノミー'
-readingTime: '7'
+readingTime: 7
 lastVerified: 2026-07-03
 lastHumanReview: false
 featured: false

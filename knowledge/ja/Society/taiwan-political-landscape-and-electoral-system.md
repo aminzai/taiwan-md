@@ -23,6 +23,7 @@ sourceCommitSha: 'dbaf2895'
 sourceContentHash: 'sha256:815fdbbdd8e6757e'
 sourceBodyHash: 'sha256:c04d648a91c00bf4'
 translatedAt: '2026-05-17T05:34:50+08:00'
+difficulty: 'intermediate'
 ---
 
 # 台湾の政治環境と選挙制度

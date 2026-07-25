@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e26ca70cc051b743'
 sourceBodyHash: 'sha256:6ea24f40d826e7d7'
 translatedAt: 2026-05-01T18:02:56+08:00
+difficulty: 'intermediate'
 ---
 
 # 台湾眷村の歴史

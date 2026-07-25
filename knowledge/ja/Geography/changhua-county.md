@@ -21,7 +21,7 @@ tags:
   ]
 readingTime: 16
 lastVerified: 2026-05-18
-lastHumanReview: true
+lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/彰化縣.md'
 sourceCommitSha: '31a05c44'

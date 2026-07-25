@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5501454d0b0366dd'
 sourceBodyHash: 'sha256:7e3bd7915270078d'
 translatedAt: '2026-05-01T19:52:32+08:00'
+difficulty: 'beginner'
 ---
 
 # 台湾温泉の地景

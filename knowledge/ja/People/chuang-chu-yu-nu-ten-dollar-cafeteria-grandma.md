@@ -15,7 +15,7 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-readingTime: '10'
+readingTime: 10
 translatedFrom: 'People/莊朱玉女.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:877ba646499c2433'

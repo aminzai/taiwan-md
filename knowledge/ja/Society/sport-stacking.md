@@ -12,7 +12,7 @@ tags:
     '社会共融',
   ]
 category: 'Society'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 10
 lastVerified: 2026-04-28
 lastHumanReview: false
@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:dea3707ce0e0d446'
 sourceBodyHash: 'sha256:d825f2de734a7bac'
 translatedAt: '2026-05-01T14:48:26+08:00'
+featured: false
 ---
 
 > **30秒概覧：**

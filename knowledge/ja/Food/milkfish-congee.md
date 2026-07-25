@@ -13,7 +13,7 @@ tags:
   - 'オランダ'
   - '軽食'
   - '朝食'
-readingTime: '7'
+readingTime: 7
 lastVerified: 2026-07-02
 lastHumanReview: false
 featured: false

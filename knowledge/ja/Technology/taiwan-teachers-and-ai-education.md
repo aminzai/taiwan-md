@@ -7,13 +7,15 @@ tags: ['人工智慧', 'AI教育', '教師培訓', '數位學習', '生成式AI'
 subcategory: '人工智慧'
 author: 'Taiwan.md Contributors'
 lastVerified: 2026-07-20
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/台灣教師與AI教學.md'
 sourceCommitSha: 'd95fa9648'
 sourceContentHash: 'sha256:6a85130bd9bb91b0'
 sourceBodyHash: 'sha256:01e8abe40e264468'
 translatedAt: '2026-07-23T23:06:50+08:00'
+image: '/article-images/technology/taiwan-students-digital-learning-2019.webp'
+imageCredit: '褒忠國中 雲端網 / Wikimedia Commons'
 ---
 
 # AIが教室に入り込む：三百の代理人と、研修後に孤立する教師たち

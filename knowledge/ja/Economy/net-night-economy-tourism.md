@@ -5,15 +5,16 @@ date: 2026-07-22
 category: 'Economy'
 subcategory: '企業列伝'
 tags: ['NET', '台湾ブランド', 'アパレル産業', '社会企業', '基隆東岸広場']
-readingTime: '28'
+readingTime: 28
 lastVerified: 2026-07-22
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/NET.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:34ffbb88716e1c90'
 sourceBodyHash: 'sha256:401833a7ed0b48dd'
 translatedAt: '2026-07-23T23:06:50+08:00'
+author: 'Taiwan.md Contributors'
 ---
 
 > **30秒概観：** 台湾の地元アパレルブランドNET（主富服装）は1960年代の「婦人商場」に起源を持ち、創業者である黄騰龍（ホアン・テンロン）が率いて転換を図り、ユニクロやザラといった国際的な巨人が台に参入した後も生き残り続けています。NETが最も知られているのはそのデザイン性ではなく、控えめでありながら深い社会責任――弱者たちへの「館内購入寄付」を15年間継続してきた点です。しかし、この普段は目立たない企業が、最近の基隆東岸広場の所有権紛争により政府と法廷で対峙するという珍しい事態に陥り、その「優しさと強靭さ」というブランドの本質を示しています。

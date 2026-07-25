@@ -1,13 +1,13 @@
 ---
 title: '台湾の調味料と味付け'
 description: '醤油膏、沙茶醤、スイートチリソース、豆瓣醤などの台湾特有の調味料は、島の独自の風味の基盤を成し、多様な文化が融合した味付けの哲学を反映しています。'
-date: '2026-03-20'
+date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '食材與調味'
 tags: ['ソース', '調味料', '食文化', '台湾の味', '発酵食品']
 readingTime: 7
-lastVerified: '2026-03-20'
+lastVerified: 2026-03-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣醬料與調味.md'
@@ -17,6 +17,7 @@ sourceBodyHash: 'sha256:165e3d5c431f4c83'
 translatedAt: '2026-05-01T18:09:43+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Deep_dish_pizza%2C_homemade%2C_with_tomato_paste_and_a_little_soy_sauce%2C_mixed_vegetables%2C_chicken%2C_stewed_beef%2C_mozzarella%2C_and_cheddar_cheeses_-_Massachusetts.jpg/960px-Deep_dish_pizza%2C_homemade%2C_with_tomato_paste_and_a_little_soy_sauce%2C_mixed_vegetables%2C_chicken%2C_stewed_beef%2C_mozzarella%2C_and_cheddar_cheeses_-_Massachusetts.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'beginner'
 ---
 
 # 台湾の調味料と味付け

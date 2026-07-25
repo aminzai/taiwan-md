@@ -28,6 +28,7 @@ sourceCommitSha: '380c49d7'
 sourceContentHash: 'sha256:d2852cc419867a37'
 translatedAt: '2026-07-01T16:39:48Z'
 sourceBodyHash: 'sha256:0f8970c54b5cd9d2'
+featured: false
 ---
 
 > **30-Second Overview:** Hebe Tien (born 1983, Hakka from Hsinchu) is a rare "active withdrawer" in the history of Mandarin pop music. In 2001, she formed S.H.E with Selina Ren and Ella Chen, selling over ten million records within a decade[^4]. In 2010, she released her first solo album _To Hebe_, with the poster reading "Super Newcomer After Ten Years Debut"[^6]. From "Angel in the Devil" and "A Little Happiness" to the 2020 album _Unknown_ (collaborated with [Chien-Pai Chen](/people/Chien-Pai Chen)), which won the Best Mandarin Female Singer at the 32nd Golden Melody Awards[^13]—her sales records have been steady from album to album. But in 2020, she declined a Chinese variety show offer rumored to be worth nearly 100 million NTD[^25]; in 2022, she posted a photo of spaghetti on IG[^16]; in 2025, she held her tour in salt fields and airfields without roofs[^19]; in 2026, she told reporters, "It's not a hurdle, but I 'don't want to step' on it"[^21]. An idol cultivated by the idol industry returned the things the industry gave her, piece by piece.

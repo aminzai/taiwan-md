@@ -1,13 +1,13 @@
 ---
 title: '台湾の米食文化'
 description: '年間米消費量が85キロから42キロへ：米の島国における食生活の革命と文化の堅持'
-date: '2026-03-23'
+date: 2026-03-23
 author: 'Taiwan.md Contributors'
 category: 'Food'
 subcategory: '主食與米麵'
 tags: ['米食', '稲米', '伝統文化', '節句食品', '農業', '食生活の変遷']
 readingTime: 12
-lastVerified: '2026-03-23'
+lastVerified: 2026-03-23
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣米食文化.md'
@@ -17,6 +17,7 @@ sourceBodyHash: 'sha256:2354ee60853945b0'
 translatedAt: '2026-05-01T18:09:43+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Rice_Dumpling_%28Zongzi%29.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'beginner'
 ---
 
 # 台湾の米食文化

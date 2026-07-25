@@ -5,7 +5,8 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Music'
 subcategory: '流行音樂'
-tags: ['民歌運動', '校園民歌', '金韻獎', '李雙澤', '楊弦', '胡德夫', '唱自己的歌']
+tags:
+  ['民歌運動', '校園民歌', '金韻獎', '李雙澤', '楊弦', '胡德夫', '唱自己的歌']
 readingTime: 12
 lastVerified: 2026-05-16
 lastHumanReview: true
@@ -15,6 +16,7 @@ sourceCommitSha: '7415dcaa'
 sourceContentHash: 'sha256:e201829436b891a1'
 sourceBodyHash: 'sha256:61e39c0d29fd318e'
 translatedAt: '2026-05-17T05:34:50+08:00'
+difficulty: 'beginner'
 ---
 
 # 台湾民歌運動

@@ -1,7 +1,7 @@
 ---
 title: 'Hello Nico：8年の沈黙の後、「舞台が恋しくなりました」'
 description: '2014年に楽曲〈花〉でStreetVoice（台湾の独立音楽プラットフォーム）年間チャンピオンを獲得、2016年に金曲奨（台湾の音楽アワード）新人賞にノミネートされた台湾の独立バンドは、その後8年間沈黙を続けました。詹宇庭（ジャン・ユティン）は「音楽を作る上で最大の困難は、自分自身と折り合いをつけられないことだ」と語っています。2024年、彼らは《Plan B》を携えて復帰しました。'
-date: '2026-04-20'
+date: 2026-04-20
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '音樂與表演'
@@ -16,7 +16,7 @@ tags:
   - '金曲奨'
   - '台湾音楽'
 readingTime: 8
-lastVerified: '2026-04-20'
+lastVerified: 2026-04-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/Hello-Nico.md'

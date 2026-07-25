@@ -1,7 +1,7 @@
 ---
 title: 'Mini Taiwan Pulse — 台湾交通リアルタイム3D可視化'
 description: 'オープンデータを通じて台湾の鼓動を感じる――航空便の光跡が空を横切り、船舶が海面を行き交い、列車が軌道を駆け抜け、23のレイヤーがこの島の息吹をリアルタイムで表示します。'
-date: '2026-03-22'
+date: 2026-03-22
 tags:
   - 'リソース'
   - 'オープンデータ'
@@ -15,6 +15,11 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:409b7d5c9d0f3bbd'
 sourceBodyHash: 'sha256:215016d553b05404'
 translatedAt: '2026-05-01T18:09:43+08:00'
+author: 'Taiwan.md'
+featured: false
+lastVerified: 2026-03-22
+lastHumanReview: false
+category: 'resources'
 ---
 
 # Mini Taiwan Pulse — 台湾交通リアルタイム3D可視化 🌐

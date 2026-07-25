@@ -13,7 +13,7 @@ tags:
     '黒熊学院',
     '張忠謀',
   ]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-04-30
 readingTime: 12
 lastVerified: 2026-04-30
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:419cc607d70f325a'
 sourceBodyHash: 'sha256:ae002bb900693bc1'
 translatedAt: '2026-05-01T14:48:26+08:00'
+featured: false
 ---
 
 > **30秒でわかる概要：** 曹興誠（ツァオ・シンチェン）は台湾の半導体産業の開拓者の一人です。彼が創設したUMCはかつてTSMCと「ウェハー双雄」と称されました。彼の人生は反転に満ちています：早期には中国進出を提唱して統一住民投票まで主張していたのに、晩年には台湾で最も急進的な反共護台の旗手となり、民間防衛への30億台湾元の寄付まで行いました。この軌跡は、一人の台湾エリートが地政学的脅威と商業的現実の狭間で経験した、最も激しい魂の転向を映し出しています。

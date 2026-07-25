@@ -1,7 +1,7 @@
 ---
 title: '曾博恩：笑いどころは計算できても、社会は読み切れません'
 description: '1990 年生まれの曾博恩は、建国中学の机と椅子の上で聴いたイヤホンから、台湾大学での外文・心理の二専攻、ロンドン大学の脳と心の科学、パリ第六大学の統合生物学修士を経て、博士課程出願の直前にスタンドアップコメディへ転身しました。謝政豪と薩泰爾娛樂を共同創業し、台湾のトークショーをカミディの Open Mic から 1 万 3 千人の台北アリーナ（小巨蛋）へ押し上げましたが、同じ神経科学者の精密さで、鄭南榕ネタ、配達員動画、娯楽税訴訟における社会感情の重さを読み誤りました。'
-date: '2026-05-13'
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '數位與媒體'
@@ -16,7 +16,7 @@ tags:
     '娯楽税',
   ]
 readingTime: 22
-lastVerified: '2026-05-13'
+lastVerified: 2026-05-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/曾博恩.md'

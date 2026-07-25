@@ -12,7 +12,7 @@ tags:
   - '蘭陵劇坊'
   - '子ども芸術'
   - '台湾文化'
-readingTime: '12'
+readingTime: 12
 lastVerified: 2026-04-25
 lastHumanReview: false
 featured: false

@@ -1,13 +1,21 @@
 ---
 title: '「おばさんの朝食店と地域情報ネットワーク」'
 description: '「本当か嘘か、おばさんはただ「イケメン」って呼ぶだけだと思っていた。朝食店のおばさんがどうやって地域全体の情報センターになったのかを書いた」'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '社區與日常'
-tags: ['朝食店', '地域文化', '人情味', 'コンビニエンスストア', '日常生活', '地域ネットワーク']
-readingTime: '8'
-lastVerified: '2026-03-19'
+tags:
+  [
+    '朝食店',
+    '地域文化',
+    '人情味',
+    'コンビニエンスストア',
+    '日常生活',
+    '地域ネットワーク',
+  ]
+readingTime: 8
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/早餐店阿姨與社區情報網.md'
@@ -205,10 +213,14 @@ Spotify は「この曲は実はそんなに良くないよ」とは言いませ
 
 ---
 
-[^1]: Mark Granovetter，〈The Strength of Weak Ties〉，*American Journal of Sociology*，1973，https://www.jstor.org/stable/2776392
+[^1]: Mark Granovetter，〈The Strength of Weak Ties〉，_American Journal of Sociology_，1973，https://www.jstor.org/stable/2776392
+
 [^2]: 経済部統計処，〈卸売・小売・飲食業経営実況調査〉，https://www.moea.gov.tw/MNS/dos/home/Home.aspx
+
 [^3]: 財政部財政資訊中心，〈営利事業家数統計〉，https://www.fia.gov.tw/
+
 [^4]: 報導者，〈台湾の朝食店の消滅と変容〉，https://www.twreporter.org/
+
 [^5]: 台湾光華雑誌，〈台湾朝食文化特集〉，https://www.taiwan-panorama.com/
 
 ## 参考文献
@@ -221,4 +233,4 @@ Spotify は「この曲は実はそんなに良くないよ」とは言いませ
 
 ---
 
-*本記事は三段階の読書深度設計を採用しており、さまざまなニーズの読者に対応しています。さらなる内容の貢献を歓迎します！*
+_本記事は三段階の読書深度設計を採用しており、さまざまなニーズの読者に対応しています。さらなる内容の貢献を歓迎します！_

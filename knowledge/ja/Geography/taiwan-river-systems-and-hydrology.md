@@ -1,13 +1,13 @@
 ---
 title: '台湾の河川システムと水文特性：短く急な流れと季節変化の水文地理'
 description: '濁水渓から高屏渓まで、台湾独自の河川システムを探索し、島嶼地形が台湾の水文特性をどのように形成しているかを理解します'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Geography'
 subcategory: '水文與水資源'
 tags: ['地理', '河川', '水文学', '濁水渓', '高屏渓', '淡水河', '水資源']
 readingTime: 11
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Geography/台灣河川系統與水文特色.md'
@@ -301,8 +301,13 @@ translatedAt: '2026-05-20T05:08:29+08:00'
 ## 参考資料
 
 [^1]: 水利署、[『台湾重要河川基本資料』](https://www.wra.gov.tw/cp.aspx?n=3164)。
+
 [^2]: 水利署第四河川分署、[『濁水渓流域紹介』](https://www.wra.gov.tw/wra04/cp.aspx?n=10967)。
+
 [^3]: ウィキペディア、[「濁水渓」](https://zh.wikipedia.org/zh-tw/%E6%BF%81%E6%B0%B4%E6%BA%AA)、[「高屏渓」](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E5%B1%8F%E6%BA%AA)、[「淡水河」](https://zh.wikipedia.org/zh-tw/%E6%B7%A1%E6%B0%B4%E6%B2%B3)。
+
 [^4]: 中央気象署、[『台湾水文気象資料』](https://www.cwa.gov.tw/)。
+
 [^5]: 農業部農村発展及水土保持署、[『台湾河川地形与水文特性』](https://www.swcb.gov.tw/)。
+
 [^6]: 翰林雲端学院、[『台湾河川地理資料』](https://www.ehanlin.com.tw/)。

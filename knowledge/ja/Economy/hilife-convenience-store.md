@@ -6,15 +6,16 @@ category: 'Economy'
 subcategory: '企業列伝'
 tags:
   ['萊爾富', '便利商店', '聯邦集團', '光泉', '數位轉型', '經營權', '零售金融']
-readingTime: '12'
+readingTime: 12
 lastVerified: 2026-07-21
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/萊爾富.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:16de3ef9123d401b'
 sourceBodyHash: 'sha256:1db4b0d8639cd770'
 translatedAt: '2026-07-23T23:06:50+08:00'
+author: 'Taiwan.md Contributors'
 ---
 
 > **30秒概観：** 1989年に迪化街（ディーホアジエ）で創業したHi-Life（ライルーフ）は、台湾初の、そして現在も4大コンビニエンスストアの中で唯一の純地元ブランドです。それは外資によるライセンス製品ではなく、「郷土愛と世界観」という理念のもとに光泉汪家（クァンチュエン・ワンジャ）が生み出した実りです。店舗数は常に3位か4位に留まっていますが、Hi-Lifeは「年越し食品の事前予約販売」や「多機能事務機」を導入した革新的な先駆者でした。2023年、経営権が光泉汪家から聯邦集團（リェンバン・グループ）へと移ったこの「赤色基調」の老舗コンビニは、「青緑色」の新装へと徐々に姿を変え、金融およびデジタル決済の最前線基地へと変貌を遂げています。この取引は単なる資本の移動ではなく、「地元小売精神」が新時代でいかにして生き残るかという実験なのです。

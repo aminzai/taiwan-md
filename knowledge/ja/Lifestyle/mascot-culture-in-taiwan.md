@@ -26,6 +26,7 @@ sourceCommitSha: '88b3abd8'
 sourceContentHash: 'sha256:7453fc91529be112'
 sourceBodyHash: 'sha256:0280d05fe808358b'
 translatedAt: '2026-06-09T03:07:00+08:00'
+featured: false
 ---
 
 > **30-Second Overview:** Taiwan once fell into a collective obsession with "bears only," with dozens of black bear mascots sharing similar appearances across the island. However, as "Milkfish Boy" became so ugly it appeared on a US talk show, China Post's "Bobo Pigeon" made a comeback with its soft and cute image, and "Welfare Bear" achieved a commercial miracle with hundreds of millions in annual revenue, Taiwan's mascots are undergoing a qualitative shift from "cute tools" to "distinctive brands."

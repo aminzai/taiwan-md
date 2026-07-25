@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:23a33f282c63dd9f'
 sourceBodyHash: 'sha256:b2520a23c500cf3f'
 translatedAt: '2026-05-17T05:34:50+08:00'
+difficulty: 'beginner'
 ---
 
 # 台湾の婚喪喜慶と人生礼俗
@@ -438,7 +439,11 @@ translatedAt: '2026-05-17T05:34:50+08:00'
 ---
 
 [^1]: 台南市政府文化局，〈做十六歲成年禮〉，https://culture.tainan.gov.tw/（毎年旧暦七月七日、台南開隆宮を中心に開催）
+
 [^2]: 文化部文化資產局，〈民俗活動：訂婚習俗〉，https://www.boch.gov.tw/
+
 [^3]: 行政院農業部，〈辦桌文化與農村飲食傳承〉，https://www.moa.gov.tw/；另見林明德，《台灣俗文學論文集》（台湾学術関連出版）
+
 [^4]: 內政部殯葬資訊網，https://mort.moi.gov.tw/（殯葬管理条例および各県市のサービス情報を含む）
+
 [^5]: 文化部，《台灣傳統禮俗手冊》，2019年版，https://www.moc.gov.tw/；另見內政部民政司礼俗関連資料，https://www.moi.gov.tw/

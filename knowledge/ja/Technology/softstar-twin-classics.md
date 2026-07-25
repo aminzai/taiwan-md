@@ -1,7 +1,7 @@
 ---
 title: '大宇ダブルソード：あの午後、あなたは DOS のウィンドウで泣いた'
 description: '1995年7月、320×200解像度の DOS ゲームが、何百万人ものプレイヤーに初めてバーチャルキャラクターのために涙を流させた。仙剣奇侠伝と軒轅剣、台北・内湖から鍛えられた二振りの剣は、中文世界における「RPGとは何であり得るか」という想像を定義した。'
-date: '2026-04-23'
+date: 2026-04-23
 author: 'zaious'
 category: 'Technology'
 subcategory: '社群與數位文化'
@@ -16,10 +16,10 @@ tags:
     'DOMO',
     '台灣遊戲',
   ]
-readingTime: '16'
-lastVerified: '2026-04-23'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 16
+lastVerified: 2026-04-23
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/大宇雙劍.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:99d1ed1be7085b4c'

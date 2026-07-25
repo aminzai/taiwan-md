@@ -24,6 +24,7 @@ sourceCommitSha: '1844f59c5'
 sourceContentHash: 'sha256:b414878c293e15ed'
 sourceBodyHash: 'sha256:63cdc7eebcc0988a'
 translatedAt: '2026-06-09T02:28:23+08:00'
+featured: false
 ---
 
 > **30-Second Overview:** Za School (ZA SHARE) is Taiwan's alternative education carnival, originating from the "Not Very Obedient Education Festival" launched in 2015. Initiated by Su Yang-chih, an ad curator, one year after the 318 Student Movement, the first free two-day event attracted approximately 30,000 visitors but ended with a 7 million NTD loss. In 2016, it was renamed Za School and began selling tickets. By 2017, it occupied the entire Huashan 1914 Cultural and Creative Park, hosting 500 educational innovation units. In 2019, Vice President Chen Chien-jen, State Councilor Tang Feng, and Deputy Minister of Education Fan Hsiu-lv appeared on stage together for the opening. In October 2024, for its 10th anniversary, it co-hosted the "Education World Expo" with IDEC (International Democratic Education Conference), welcoming over 500 educational leaders from 50+ countries. In 2025, the brand was reshaped into EDit, moving to the Taoyuan International Convention Center. Su Yang-chih self-evaluates: "Commercially, it was a total failure; spiritually, it was a huge success" [^1]. But after 11 years, the first half of that statement is no longer true.

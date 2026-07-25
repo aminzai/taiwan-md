@@ -1,20 +1,29 @@
 ---
-title: "社会運動と市民参加"
-description: "野百合から太陽花まで、台湾はいかに社会運動を通じて民主主義を実践し、社会進歩を推進してきたか"
+title: '社会運動と市民参加'
+description: '野百合から太陽花まで、台湾はいかに社会運動を通じて民主主義を実践し、社会進歩を推進してきたか'
 date: 2026-03-18
-author: "Taiwan.md"
-category: "Society"
-subcategory: "民主與政治"
-tags: ["社会運動", "市民参加", "民主主義", "野百合学生運動", "太陽花運動", "社会改革"]
+author: 'Taiwan.md'
+category: 'Society'
+subcategory: '民主與政治'
+tags:
+  [
+    '社会運動',
+    '市民参加',
+    '民主主義',
+    '野百合学生運動',
+    '太陽花運動',
+    '社会改革',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Society/社會運動與公民參與.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:3135e379b382138b"
-sourceBodyHash: "sha256:8080c3b51d96ed0a"
-translatedAt: "2026-05-20T05:08:29+08:00"
+translatedFrom: 'Society/社會運動與公民參與.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:3135e379b382138b'
+sourceBodyHash: 'sha256:8080c3b51d96ed0a'
+translatedAt: '2026-05-20T05:08:29+08:00'
+difficulty: 'intermediate'
 ---
 
 # 社会運動と市民参加
@@ -290,9 +299,13 @@ translatedAt: "2026-05-20T05:08:29+08:00"
 - [海底ケーブル：シリコンシールドの上では見えるが、生命線の下では見えない](/technology/海底電纜) — 海底ケーブル七法の立法、屏東共同防衛プラットフォーム、宏泰58号の司法初事例は、市民社会の圧力が国家安全保障インフラの立法を推進する軸線を示しています
 
 [^1]: 何明修「野百合学生運動史料」、『学運世代：野百合から太陽花まで』所収、https://www.books.com.tw/products/0010642379
+
 [^2]: 蕭新煌（編）『台湾の新しい社会運動』巨流図書、https://www.books.com.tw/products/0010479654
+
 [^3]: 司法院「釈字第748号解釈施行法」、https://cons.judicial.gov.tw/
+
 [^4]: 台湾環境資訊協会「反デュポン事件の経緯」、https://e-info.org.tw/
+
 [^5]: 司法院「大法官釈字第748号解釈」、https://cons.judicial.gov.tw/
 
 ## 参考資料

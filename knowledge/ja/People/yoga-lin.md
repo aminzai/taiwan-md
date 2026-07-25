@@ -24,6 +24,7 @@ sourceCommitSha: 'b358c802'
 sourceContentHash: 'sha256:81084f8c4d60488a'
 sourceBodyHash: 'sha256:e37ed40c36801365'
 translatedAt: 2026-05-01T18:02:56+08:00
+featured: false
 ---
 
 > **30秒概要：**

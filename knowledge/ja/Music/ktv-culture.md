@@ -1,7 +1,7 @@
 ---
 title: '台湾KTV文化：好楽迪・銭櫃から個室社交への時代変遷'
 description: '台湾KTV文化の発展の歩みを探る。日本から導入されたカラオケから本土化された個室文化、好楽迪と銭櫃の競争時代、カラオケランキングがポップカルチャーの指標となった経緯、そしてコロナ禍後の産業変革の課題までを解説します。'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '音楽産業'
@@ -15,8 +15,8 @@ tags:
     'ポップミュージック',
     'ソーシャルカルチャー',
   ]
-readingTime: '12'
-lastVerified: '2026-03-19'
+readingTime: 12
+lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'Music/台灣KTV文化.md'

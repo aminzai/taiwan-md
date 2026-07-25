@@ -1,15 +1,15 @@
 ---
 title: '選挙公報：国家が配布する公平な基準、候補者が自費で行う選挙ビラの分流'
 description: '有権者が投票前に受け取るあの分厚い公報は、1980年から蓄積されてきたデザインの進化です。国家配布 vs 候補者自費という分流ロジックは、「候補者が何を言いたいか」を広告主の影響力から切り離すもので、台湾の民主主義インフラの中で最も安価で最も見過ごされている部分です。'
-date: '2026-05-27'
+date: 2026-05-27
 author: 'Taiwan.md'
 category: 'Politics'
 subcategory: '選舉制度'
 tags: ['選舉公報', '公職人員選舉罷免法', '中選會', '競選文宣', '2026選舉']
-readingTime: '10'
-lastVerified: '2026-05-27'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 10
+lastVerified: 2026-05-27
+lastHumanReview: false
+featured: false
 translatedFrom: 'Politics/選舉公報.md'
 sourceCommitSha: 'e957cf7f1'
 sourceContentHash: 'sha256:dbb211cf0ddd5fb6'

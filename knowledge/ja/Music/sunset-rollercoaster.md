@@ -1,7 +1,7 @@
 ---
 title: 'サンセット・ローラーコースター：一枚のPhoto Booth背景写真からCoachellaへ、台北の夕陽を英語で歌った14年'
 description: '2010年、19歳の学生がMacのPhoto Boothで「Sunset Rollercoaster」のプリセットをMySpaceのプロフィール画像に選んだ。14年後、このバンドはコーチェラ・フェスティバルが創設されて20年以上で初めて大舞台に招待された台湾のバンドとなった。全英語、亜熱帯シティ・ポップ、音楽産業の体制に頼らず、彼らは一枚の何気なく撮ったローラーコースターのシルエットで、台湾が世界に最も聴かれる形を実現した。'
-date: '2026-05-23'
+date: 2026-05-23
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '獨立與搖滾'
@@ -16,9 +16,9 @@ tags:
     '台北',
   ]
 readingTime: '12min'
-lastVerified: '2026-05-27'
-lastHumanReview: 'false'
-featured: 'true'
+lastVerified: 2026-05-27
+lastHumanReview: false
+featured: true
 translatedFrom: 'Music/落日飛車.md'
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:a199eb8f6aa7f0fc'

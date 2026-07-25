@@ -1,12 +1,12 @@
 ---
 title: '夜市文化'
 description: '164の管理対象夜市、台南は平均3.8万人に1つの夜市を擁する——廟埕から国際観光スポットへ'
-date: '2026-03-21'
+date: 2026-03-21
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: '飲食場景'
 tags: ['夜市', '小吃', '文化', '観光', '庶民生活']
-lastVerified: '2026-03-21'
+lastVerified: 2026-03-21
 lastHumanReview: true
 featured: false
 translatedFrom: 'Food/夜市文化.md'

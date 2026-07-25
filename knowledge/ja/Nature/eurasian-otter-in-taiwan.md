@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:06078f29307a4c77'
 sourceBodyHash: 'sha256:cd4c66affdcc4144'
 translatedAt: '2026-05-16T22:35:34Z'
+featured: false
 ---
 
 # 台湾のカワウソ：金門ユーラシアカワウソの孤島サバイバルと本島の静かなる消滅

@@ -19,7 +19,7 @@ tags:
   - '大支'
   - '人人有功練'
 subcategory: '音楽とパフォーマンス'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
@@ -152,7 +152,7 @@ _大支公式MV：〈人〉。MVにはダライ・ラマ14世が出演してい�
 
 ## 画像出典
 
-- ヒーロー画像の大支の写真：嘉義市政府、Wikimedia Commons、姓名標示授權（政府ウェブサイト・データオープン宣言）。原ファイル：[全國獨嘉三日跨年祭 力邀金鐘雙主持（大支）](https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg)。
+- ヒーロー画像の大支の写真：嘉義市政府、Wikimedia Commons、姓名標示授權（政府ウェブサイト・データオープン宣言）。原ファイル：[全國獨嘉三日跨年祭 力邀金鐘雙主持（大支）](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>)。
 - MC HotDog の2012年の公演写真：邱鈺鋒、Wikimedia Commons、CC BY-SA 4.0。原ファイル：[2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg)。
 
 ## 参考資料

@@ -1,7 +1,7 @@
 ---
 title: '埋め立てられた港の上を歩く：台南中西区の五道小吃'
 description: '國華街と海安路の地下には清代五條港の河道遺跡があり、牛肉湯、虱目魚粥、鱔魚意麵、豚心冬粉、各小吃の時間・場所・食材は、四百年にわたる埠頭労働者の生存ロジックが残した化石である。'
-date: '2026-06-30'
+date: 2026-06-30
 category: 'Food'
 tags:
   - '台南'
@@ -14,9 +14,9 @@ tags:
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: '2026-06-30'
+lastVerified: 2026-06-30
 lastHumanReview: false
-readingTime: '8'
+readingTime: 8
 translatedFrom: 'Food/台南中西區美食小吃文化.md'
 sourceCommitSha: '3011828ba'
 sourceContentHash: 'sha256:ba0e98c9d772c0f4'

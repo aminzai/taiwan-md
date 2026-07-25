@@ -1,14 +1,14 @@
 ---
 title: '台湾の楽器製造業：后里サックスから世界の音楽工場へ'
 description: '台湾の楽器製造業の発展の歩みを探る。后里サックスの世界的覇権からギターの代工王国、さらにオルゴールの精密工藝まで、台湾がOEMから自社ブランドへとどのように進化してきたかを紹介します。'
-date: 2026-03-19
+date: 2026-07-17
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '樂器與製造'
 tags:
   ['楽器製造', '后里サックス', 'ギター代工', 'オルゴール', '製造業', '台湾工藝']
-readingTime: 13
-lastVerified: 2026-03-19
+readingTime: 22
+lastVerified: 2026-07-17
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/台灣樂器製造.md'

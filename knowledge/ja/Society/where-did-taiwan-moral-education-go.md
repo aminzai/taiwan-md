@@ -1,7 +1,7 @@
 ---
 title: '台湾の道徳教育はどこへ行ったのか：廃止された授業と20年誰も引き継がなかった責任'
 description: '1993年以前、台湾の小学生は毎週「道徳と健康」の授業を受け、中学生は毎週「公民と道徳」の授業を受けていました。9年一貫課程がこれら2科目を廃止し、道徳を7つの学習領域に「統合」しました。その結果、約60ページにわたる社会領域の課程説明では「道徳」という語がほとんど言及されず、教師の78%が最も強化すべきは道徳教育だと答えましたが、どの科目の教師も自分の責務だとは考えていませんでした。'
-date: '2026-04-25'
+date: 2026-04-25
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '教育'
@@ -14,8 +14,8 @@ tags:
   - '品徳'
   - '価値観'
   - '公民と道徳'
-readingTime: '11'
-lastVerified: '2026-04-25'
+readingTime: 11
+lastVerified: 2026-04-25
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣的道德課去哪了.md'

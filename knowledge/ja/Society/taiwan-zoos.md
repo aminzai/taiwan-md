@@ -25,6 +25,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:7d6b8df8619d617f'
 sourceBodyHash: 'sha256:3ad428e65e8569d6'
 translatedAt: '2026-05-16T22:35:34Z'
+category: 'Society'
 ---
 
 # 台湾にはどんな動物園があるのか：最も古いのは木柵ではなく、最大の動物園も動物園だけではない

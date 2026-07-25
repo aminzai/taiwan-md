@@ -25,6 +25,7 @@ sourceCommitSha: f712b7242
 sourceContentHash: sha256:91ce45b4be5f77a7
 sourceBodyHash: sha256:fe5beda00418f863
 translatedAt: 2026-05-20T05:08:29+08:00
+difficulty: 'intermediate'
 ---
 
 # 台湾現代彫刻の発展

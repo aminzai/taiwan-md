@@ -1,13 +1,13 @@
 ---
 title: '台湾の機械工具産業'
 description: '大肚山黄金縦谷から TMTS 2026 まで、台湾工具機産業のレジリエンス、崩壊、再生、そして2024年に世界第5位から第7位に転落した構造的焦慮について。'
-date: '2026-04-11'
+date: 2026-04-11
 tags:
   ['工具機', '精密機械', '大肚山', '台中', '製造業', 'TMTS', '産業集積', '2026']
 subcategory: '伝統産業'
 author: 'Taiwan.md'
-readingTime: '13'
-lastVerified: '2026-04-11'
+readingTime: 13
+lastVerified: 2026-04-11
 lastHumanReview: false
 featured: true
 translatedFrom: 'Economy/台灣機械工具產業.md'
@@ -16,6 +16,7 @@ sourceContentHash: 'sha256:74fc634acab51c40'
 sourceBodyHash: 'sha256:f5ecba58cc661bc1'
 translatedAt: '2026-05-01T19:52:32+08:00'
 category: Economy
+difficulty: 'intermediate'
 ---
 
 # 台湾の機械工具産業

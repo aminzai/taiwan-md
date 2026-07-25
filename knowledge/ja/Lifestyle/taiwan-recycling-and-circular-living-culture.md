@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:692a1090832374e5'
 sourceBodyHash: 'sha256:258baccfb653bebb'
 translatedAt: '2026-05-01T18:02:56+08:00'
+featured: false
 ---
 
 # ゴミ収集車を追う島：台湾がゴミ危機からリサイクルの奇跡へ

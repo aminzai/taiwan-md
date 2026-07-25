@@ -1,7 +1,7 @@
 ---
 title: '金瓜石：砂金、戦俘、そして未だ洗われぬ砒素土が重なる、一つの山に重ねられた多くの命'
 description: '1942年11月14日、523名の連合軍捕虜が金瓜石の銅鉱坑へ足を踏み入れ、ある者は3年間耐え抜き、ある者は帰らぬ人となった日々が始まった。この山が記憶される方法は、十三層遺跡のオレンジ色の夜景灯、触れることのできる220kgの大金塊、九份へ向かう途中に寄る秘境の海景であることが多い。しかし、同じ山には地元鉱夫が肺と引き換えた金、500人以上の外国捕虜の骨、そして今も復旧が完了していない砒素土が眠っている。これらをすべて見るとき、初めて金瓜石全体が見えてくる。'
-date: '2026-07-05'
+date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Geography'
 subcategory: '東北角・鉱業聚落'
@@ -20,10 +20,10 @@ tags:
   - '勧済堂'
   - '鉱業集落'
   - '日治時代'
-readingTime: '24'
-lastVerified: '2026-07-05'
-lastHumanReview: 'true'
-featured: 'false'
+readingTime: 24
+lastVerified: 2026-07-05
+lastHumanReview: true
+featured: false
 translatedFrom: 'Geography/金瓜石.md'
 sourceCommitSha: '676c8cd6'
 sourceContentHash: 'sha256:36ec0adabddd5612'

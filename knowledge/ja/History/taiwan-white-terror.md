@@ -23,6 +23,7 @@ sourceCommitSha: '6c2f8ea8d'
 sourceContentHash: 'sha256:2745e3b13be3485d'
 sourceBodyHash: 'sha256:c81706526bb2277b'
 translatedAt: '2026-06-09T02:46:20+08:00'
+featured: true
 ---
 
 # Taiwan's White Terror

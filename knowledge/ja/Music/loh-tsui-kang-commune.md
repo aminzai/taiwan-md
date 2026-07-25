@@ -17,7 +17,7 @@ tags:
   ]
 subcategory: '独立音楽とロック'
 category: Music
-readingTime: 10
+readingTime: 10min
 lastVerified: 2026-04-27
 lastHumanReview: false
 translatedFrom: 'Music/濁水溪公社.md'
@@ -25,6 +25,8 @@ sourceCommitSha: 'ac1d187a'
 sourceContentHash: 'sha256:469167869b1ed9c7'
 sourceBodyHash: 'sha256:ba486d59e98b80d0'
 translatedAt: '2026-05-01T14:48:26+08:00'
+author: 'Taiwan.md'
+featured: false
 ---
 
 > **30秒概覧：** 濁水溪公社は1989年に結成された、台湾で最初にパンクをローカル音楽に持ち込んだバンドです。ボーカルの柯仁堅（コー・リンジェン）こと小柯（シャオコー）は1992年に台湾大学内でのある事件に関与したとして除籍され、バンドはその後30年間、地下ライブハウスで演奏し続けました。歌詞は政治家・農民・欲望を歌い、商業的妥協は一切しませんでした。2020年に解散を宣言し、同年初ノミネートで金曲奨最優秀台語アルバムを受賞しました。授賞式の日、柯仁堅は姿を現しませんでした——彼は今、国税局の公務員です。

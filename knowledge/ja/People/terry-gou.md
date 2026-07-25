@@ -6,7 +6,7 @@ author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
 tags: ['科技與企業', '鴻海', '製造業', '企業家', 'Fortune 500', '永齢基金会']
-readingTime: 7
+readingTime: 8
 #   whats_excluded: "管理哲學逐條分析；富士康勞工事件完整調查；MIH合作品牌細節"
 #   where_it_hedges: "辭任董事日期P0⚠️待確認；MIH品牌合作待驗證"'
 lastVerified: 2026-05-07

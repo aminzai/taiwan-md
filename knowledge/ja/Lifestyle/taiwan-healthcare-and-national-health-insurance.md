@@ -1,7 +1,7 @@
 ---
 title: '台湾医療と全民健康保険：99.6% が 12.61% の上で支える世界一'
 description: '1995 年 3 月 1 日の健康保険カードは、尻に火がついた状態で急いで用意されたものでした。6 日前にはカードさえ印刷されていませんでした。30 年後、2,300 万人の受診権は、5.17% の保険料率、10 年来最高の 12.61% に達した看護職離職率、そして 30 年間誰も手をつけられなかった政治的タブーの上に成り立っています。'
-date: '2026-06-04'
+date: 2026-06-04
 author: 'Taiwan.md'
 category: 'Lifestyle'
 subcategory: '醫療與健保'
@@ -18,7 +18,7 @@ tags:
     '健康保険データベース',
   ]
 readingTime: 22
-lastVerified: '2026-06-04'
+lastVerified: 2026-06-04
 lastHumanReview: false
 featured: true
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'

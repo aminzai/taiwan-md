@@ -13,9 +13,9 @@ tags:
     'デジタルガバナンス',
   ]
 category: Economy
-author: 'Taiwan.md Translation Team'
-readingTime: 16
-lastVerified: 2026-05-02
+author: 'Taiwan.md Contributors'
+readingTime: 14
+lastVerified: 2026-07-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/發票.md'

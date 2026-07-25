@@ -23,6 +23,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:860b8c0055b0c881'
 sourceBodyHash: 'sha256:34601056f655cc89'
 translatedAt: 2026-05-17T05:33:00Z
+featured: false
 ---
 
 > **30秒概要：** 辺荷律は中信兄弟 Passion Sisters の韓国出身主力メンバーの一人です。2026 年シーズン前後、公開インタビューで WBC や台湾での心境に加え、家族の健康状態が自身の感情に与える影響について語ったことで、議論は「ステージ上の魅力」から「労働と家族の張力」へと広がりました。

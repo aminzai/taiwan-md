@@ -4,15 +4,16 @@ description: '植民地時代の文明の象徴から今日の国民的美食へ
 category: 'Food'
 tags: ['鍋物', '台湾グルメ', '沙茶醤', '食文化']
 author: 'Taiwan.md Contributors'
-date: '2026-04-18'
-readingTime: '8'
-lastVerified: '2026-04-18'
+date: 2026-04-18
+readingTime: 8
+lastVerified: 2026-04-18
 lastHumanReview: false
 translatedFrom: 'Food/台灣火鍋.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:94b3cc7ad435a8c7'
 sourceBodyHash: 'sha256:e301e6416dd3bfb4'
 translatedAt: '2026-05-01T18:09:43+08:00'
+featured: false
 ---
 
 > **30秒概覽：** 台湾火鍋市場の年産値は数百億台湾ドルに上り、冬季の体を温める国民的美食であるだけでなく、一年中楽しめる食文化です。日治時代の「鋤焼（すき焼き）」から戦後の各省移民がもたらした多様な鍋物、さらに今日の個人用小火鍋や高級鍋まで、台湾火鍋の進化の歴史はこの島の社会変遷と民族融合を映し出し、独自の「台湾らしさ」を醸し出してきました。

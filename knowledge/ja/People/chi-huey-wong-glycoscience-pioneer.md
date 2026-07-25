@@ -14,6 +14,7 @@ sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
 translatedAt: '2026-05-16T22:19:52+00:00'
 category: People
+author: 'Taiwan.md'
 ---
 
 # 翁啟惠

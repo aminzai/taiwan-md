@@ -20,7 +20,7 @@ tags:
   - '丘逢甲'
 featured: true
 author: 'Taiwan.md'
-lastVerified: '2026-04-12'
+lastVerified: 2026-04-12
 lastHumanReview: false
 date: 2026-04-12
 image: ''

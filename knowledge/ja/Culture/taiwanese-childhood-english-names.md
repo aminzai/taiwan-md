@@ -25,6 +25,7 @@ sourceCommitSha: 'cfce444ae'
 sourceContentHash: 'sha256:5ec68902a1c50e0d'
 sourceBodyHash: 'sha256:efeadcec0add04bc'
 translatedAt: '2026-06-18T00:36:09+08:00'
+difficulty: 'intermediate'
 ---
 
 # 台湾人が子どもの頃にもらった英語名：Mary、Kevin と補習班教師の命名権

@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:58cfc27dba0ac67b'
 sourceBodyHash: 'sha256:4e6245b3f0401bec'
 translatedAt: '2026-05-01T19:52:32+08:00'
+difficulty: 'beginner'
 ---
 
 # 台湾のダムと水資源管理

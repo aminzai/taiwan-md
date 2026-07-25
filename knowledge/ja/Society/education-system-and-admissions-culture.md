@@ -1,13 +1,13 @@
 ---
 title: '教育制度と受験文化'
 description: '大学入試統一試験制度から十二年国教へ、台湾の教育が競争と多様性の間でいかに均衡を模索してきたか'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '教育'
 tags: ['教育', '受験', '十二年国教', '技職教育', '教育改革', '競争文化']
-readingTime: '14'
-lastVerified: '2026-03-19'
+readingTime: 14
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Society/教育制度與升學文化.md'
@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:0a7458b73a859fea'
 sourceBodyHash: 'sha256:b2b271a1c8432769'
 translatedAt: '2026-05-20T05:08:29+08:00'
+difficulty: 'intermediate'
 ---
 
 # 教育制度と受験文化
@@ -185,9 +186,13 @@ AI による個別学習、VR 授業、オンラインコースが教育現場�
 - [雑学校](/society/雑学校) — 318 学生運動後に成長したオルタナティブ教育の祭典で、受験主義の外にある制度外の想像力の具体的な現場です。
 
 [^1]: 教育部統計處，〈高等教育入學統計〉，https://stats.moe.gov.tw/
+
 [^2]: 教育部，〈十二年國民基本教育政策說明〉，https://www.moe.gov.tw/
+
 [^3]: 教育部，〈108課綱總綱〉，https://www.naer.edu.tw/
+
 [^4]: OECD，〈PISA 2022 Results〉，https://www.oecd.org/pisa/
+
 [^5]: 教育部統計處，〈教育統計查詢網〉，https://stats.moe.gov.tw/
 
 ## 参考文献

@@ -1,7 +1,7 @@
 ---
 title: '清仏戦争——基隆と淡水の8か月'
 description: '1884年秋、フランス艦隊が基隆港を砲撃し、2000名の海兵隊が上陸して港を占領しました。しかし彼らは7か月をかけても基隆の山々を抜け出すことができませんでした。同じ週、600名のフランス軍水兵が淡水に上陸し、2時間で海上に追い返されました。戦争が終わったとき、フランスはベトナムを得て、台湾を放棄しました。清朝はあわや負けるところでしたが、それゆえに台湾は附属から一つの省へと格上げされたのです。'
-date: 2026-05-02
+date: 2026-04-12
 category: 'History'
 subcategory: '殖民與帝國'
 tags:
@@ -17,7 +17,7 @@ image: ''
 featured: true
 author: 'Taiwan.md'
 readingTime: 13
-lastVerified: 2026-05-02
+lastVerified: 2026-04-12
 lastHumanReview: false
 translatedFrom: 'History/清法戰爭.md'
 sourceCommitSha: '4b6d28c5'

@@ -6,10 +6,10 @@ author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '節慶與禮俗'
 tags: ['中元普渡', '基隆中元祭', '搶孤', '台灣民俗', '歷史']
-readingTime: '8'
-lastVerified: '2026-07-20'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 8
+lastVerified: 2026-07-20
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/中元節.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:92d21a8f6666e1c2'

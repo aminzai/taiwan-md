@@ -17,12 +17,12 @@ tags:
   ]
 category: 'People'
 subcategory: ''
-date: ''
-author: ''
+date: 2026-04-20
+author: 'Taiwan.md'
 readingTime: ''
-lastVerified: ''
-lastHumanReview: '2026-04-20'
-featured: ''
+lastVerified: 2026-01-01
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/陳子見.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:b4ed377dcae75954'

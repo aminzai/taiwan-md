@@ -4,10 +4,10 @@ description: '2025年、台湾の市民社会は史上最大規模の罷免行�
 date: 2026-04-13
 tags: ['罷免', '国民党', '市民行動', '立法院', '両岸関係', '2025']
 category: 'History'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 featured: true
-lastVerified: 2026-04-13
-lastHumanReview: true
+lastVerified: 2026-07-16
+lastHumanReview: false
 translatedFrom: History/大罷免.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:6a3389f4e3aa59c9'
@@ -17,6 +17,8 @@ image: '/article-images/history/recall-bluebird-legislative-yuan-2024.webp'
 imageCredit: 'Fujifilmuser Taiwan'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20240528-8_A_look_in_front_of_the_legislative_yuan.jpg'
+readingTime: 22
+difficulty: 'intermediate'
 ---
 
 > **30秒概要：**  

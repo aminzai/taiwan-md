@@ -1,13 +1,21 @@
 ---
 title: '台湾音楽産業とストリーミング時代：レコード店からデジタルプラットフォームへの変革の道'
 description: '台湾の音楽産業がレコード店の黄金時代を経て、海賊版の危機を乗り越え、世界初の合法的ストリーミングサービスであるKKBOXをいち早く発展させ、今日のSpotifyやApple Musicと共存するデジタル音楽エコシステムに至るまでの変革を探ります'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '独立とロック'
-tags: ['音楽産業', 'ストリーミング音楽', 'KKBOX', 'デジタル音楽', 'レコード店', '独立音楽']
-readingTime: '15'
-lastVerified: '2026-03-19'
+tags:
+  [
+    '音楽産業',
+    'ストリーミング音楽',
+    'KKBOX',
+    'デジタル音楽',
+    'レコード店',
+    '独立音楽',
+  ]
+readingTime: 15
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Music/台灣音樂產業與串流時代.md'
@@ -219,12 +227,21 @@ Spotifyの優位性は以下の通りです。
 ## 参考文献
 
 [^1]: 五月天の2001年アルバムは『人生海海』です。『第二人生』は2011年発売です。詳細は[五月天のウィキペディア記事](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%9C%88%E5%A4%A9)をご参照ください
+
 [^2]: [KKBOX公式ウェブサイト](https://www.kkbox.com/) — KKBOXの沿革とサービス紹介
+
 [^3]: [『台湾音楽産業発展史』、文化部影視及流行音樂産業局](https://www.bamid.gov.tw/) — 公式産業統計資料
+
 [^4]: [『ストリーミング音楽が台湾音楽生態を変える』、INSIDE、2020年](https://www.inside.com.tw/article/21245-streaming-music-taiwan) — ストリーミング音楽市場分析
+
 [^5]: [『KKBOX創業者・林冠群』、商業周刊、2018年](https://www.businessweekly.com.tw/focus/blog/3007895) — KKBOX創業者インタビュー
+
 [^6]: [『Spotifyの台湾市場進出戦略分析』、動脳雑誌、2014年](https://www.brain.com.tw/news/articlecontent?ID=19234) — 国際プラットフォーム競争分析
+
 [^7]: [『草東沒有派對：独立音楽のデジタル成功学』、關鍵評論網、2017年](https://www.thenewslens.com/article/68492) — 独立音楽事例分析
+
 [^8]: [『台湾音楽ストリーミング市場調査報告』、資策会MIC、2021年](https://mic.iii.org.tw/aisp/reports.aspx?id=CDOC20210324001) — 市場データ統計
+
 [^9]: [『COVID-19が台湾音楽産業に与える影響』、文化部、2021年](https://www.moc.gov.tw/information_250_137321.html) — パンデミック影響分析
+
 [^10]: [『デジタル音楽著作権とロイヤリティ分配メカニズム』、台湾音楽著作権協会](http://www.must.org.tw/) — 著作権分配メカニズムの説明

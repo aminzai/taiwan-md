@@ -3,7 +3,7 @@ title: '台湾企業：富邦金控'
 description: '10人から60,000人へ：蔡家兄弟が60年で台湾最大の金融帝国を築いた物語'
 date: 2026-03-22
 author: 'Taiwan.md Contributors'
-category: economy
+category: 'Economy'
 subcategory: '企業列傳'
 tags:
   [
@@ -23,6 +23,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:17799d817d240ba2'
 sourceBodyHash: 'sha256:1b85009498a2a6bb'
 translatedAt: 2026-05-01T18:02:56+08:00
+featured: false
 ---
 
 # 台湾企業：富邦金控

@@ -15,8 +15,8 @@ category: 'Society'
 subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 12
-lastVerified: 2026-04-25
+readingTime: 20
+lastVerified: 2026-07-16
 lastHumanReview: false
 translatedFrom: 'Society/台灣高等教育擴張與退場.md'
 sourceCommitSha: '4b6d28c5'

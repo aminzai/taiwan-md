@@ -18,7 +18,7 @@ tags:
 date: 2026-04-29
 lastVerified: 2026-04-29
 lastHumanReview: false
-author: 'Taiwan.md'
+author: 'idlccp1984'
 featured: false
 readingTime: 13
 translatedFrom: 'Culture/基督教在台灣.md'

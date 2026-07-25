@@ -18,12 +18,13 @@ tags:
 author: 'Taiwan.md Contributors'
 readingTime: 20
 lastVerified: 2026-04-20
-lastHumanReview: '2026-04-20'
+lastHumanReview: true
 translatedFrom: 'People/八炯.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:6599b2ad4c30bd09'
 sourceBodyHash: 'sha256:bc866bec1fdcbd6f'
 translatedAt: '2026-05-01T14:48:26+08:00'
+featured: false
 ---
 
 > **30秒概覧：** 本稿は台湾のインフルエンサー・八炯（バーチョン、本名：溫子渝）が花蓮の旅行クリエイターから、100万人以上の登録者を持つ政治評論家へと転身した経緯を描きます。彼は「攝徒日記（セトウニッキ）」チャンネルで中国共産党の統一戦線の内幕を暴露し、米国シンクタンクのジェームスタウン財団・VOA等の国際メディアの注目を集めています。民粋主義的な論争や法律上の争いを経ても、彼は台湾のネット政治において「逆統一戦線」で中国共産党の言説に対抗する重要な声であり続けています。

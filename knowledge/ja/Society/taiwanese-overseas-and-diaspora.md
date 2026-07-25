@@ -1,12 +1,12 @@
 ---
 title: '台湾海外移民：亡命学生からシリコンバレーのエンジニアまで、200万人の離散地図'
 description: '台湾には今も不在者投票制度がなく、200万人の海外市民は大統領選のたびに戸籍地まで帰国しなければならない。1960年代の留学生による政治的亡命、1982年ロサンゼルスで設立されたFAPAのロビー活動組織、そしてシリコンバレーのエンジニアによる帰郷効果――これは、アイデンティティと行動力をめぐる離散の物語である。'
-date: 2026-05-01
+date: 2026-04-28
 tags: ['海外台灣人', '僑民', '離散社群', '政治', '矽谷', 'FAPA']
 category: 'Society'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-05-01
+lastVerified: 2026-04-28
 lastHumanReview: false
 subcategory: '國際關係'
 translatedFrom: 'Society/台灣海外僑民與離散社群.md'

@@ -1,18 +1,20 @@
 ---
 title: '地形と地質'
 description: '600万年の島には2億年前の古い記憶が秘められています — 世界で最も若い造山帯と最も激しいプレート衝突の奇跡です'
-date: '2026-03-23'
-category: 'geography'
+date: 2026-03-23
+category: 'Geography'
 subcategory: '氣候與溫泉'
 tags: ['地理', '地質', 'プレート運動', '造山運動', '地震', '温泉']
 readingTime: 8
-lastVerified: '2026-03-23'
+lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Geography/地形與地質.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:1c19912f3b7cdf1b'
 sourceBodyHash: 'sha256:ff4a4e3156ba7d86'
 translatedAt: '2026-05-01T18:09:43+08:00'
+author: 'Taiwan.md'
+featured: false
 ---
 
 > **30秒概観：** 台湾は世界で最も若い造山帯の一つでありながら、2億年以上前の古い岩石を同時に保存しています。

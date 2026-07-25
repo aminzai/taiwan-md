@@ -1,7 +1,7 @@
 ---
 title: '鄧麗君（テレサ・テン）——跑馬地の白い鉢巻き、金門のビニール袋の空気、チェンマイの5分の時差'
 description: '1989年5月27日、香港跑馬地。36歳の鄧麗君は頭に「民主万歳」の白い鉢巻きを巻き、胸に「軍管に反対」の手書きの札を掛け、これまで歌ったことのない「我が家は山の向こう側」を歌いました。その日以後、彼女は二度と中国大陸の地を踏みませんでした。雲林の軍人眷村の麗筠から、5度の金門慰問を行った「軍中の恋人」、そして日本有線大賞3連覇の外国人歌手まで——彼女は42年間、優しさを政治的姿勢として歌い続け、最後はチェンマイで、生涯探し続けたあの一袋のきれいな空気を見つけることができませんでした。'
-date: 2026-05-02
+date: 2026-04-20
 tags:
   [
     '人物',
@@ -19,8 +19,8 @@ subcategory: '音樂'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 14
-lastVerified: 2026-05-02
-lastHumanReview: false
+lastVerified: 2026-04-20
+lastHumanReview: true
 featured: true
 translatedFrom: 'People/鄧麗君.md'
 sourceCommitSha: '4b6d28c5'

@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:abb1bddb60e0e0c6'
 sourceBodyHash: 'sha256:85a0db4806eee7dd'
 translatedAt: '2026-05-01T19:52:32+08:00'
+difficulty: 'beginner'
 ---
 
 # 台湾の都市発展と都市・農村格差

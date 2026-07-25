@@ -1,7 +1,7 @@
 ---
 title: '半導体産業：RCA 技術移転から窒化ガリウムと量子封裝への50年の材料革命'
 description: '台湾の護国神山はファウンドリで世界の先進プロセスを制圧しているが、急速充電器の中の窒化ガリウム（GaN）、AIチップの下のCoWoS、量子ビットの上の希釈冷凍機――次の50年の材料科学の戦場はまだ整ったばかりである。'
-date: '2026-03-17'
+date: 2026-03-17
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: '半導體與硬體'
@@ -18,10 +18,10 @@ tags:
     '矽盾',
     '材料科學',
   ]
-readingTime: '22'
-lastVerified: '2026-05-19'
-lastHumanReview: 'true'
-featured: 'true'
+readingTime: 22
+lastVerified: 2026-05-19
+lastHumanReview: true
+featured: true
 translatedFrom: 'Technology/半導體產業.md'
 sourceCommitSha: '31a05c44'
 sourceContentHash: 'sha256:353dd1410e58546f'
@@ -31,6 +31,7 @@ image: '/article-images/technology/silicon-vs-gan-charger-2025.webp'
 imageCredit: '4300streetcar'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Silicon_vs_GaN_30W_USB-C_chargers.jpg'
+difficulty: 'intermediate'
 ---
 
 # 半導体産業：RCA 技術移転から窒化ガリウムと量子封裝への50年の材料革命

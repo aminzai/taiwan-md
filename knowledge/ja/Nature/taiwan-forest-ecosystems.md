@@ -3,7 +3,7 @@ title: '台湾の森林生態系'
 description: '海面から玉山の頂峰までの垂直的な旅で、地球上で最も密集した森林のスペクトルを横断する'
 date: 2026-03-23
 author: 'Taiwan.md'
-category: '自然'
+category: 'Nature'
 subcategory: '生態系統'
 tags: ['森林生態', '垂直分布', '台湾杉', '檜木', '雲霧帯', '生物多様性']
 readingTime: 15

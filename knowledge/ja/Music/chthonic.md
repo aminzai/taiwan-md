@@ -18,7 +18,7 @@ tags:
   - '台湾史'
   - '林昶佐'
 subcategory: 'ヘヴィメタル / 台湾史'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 canonical-order: 999
 lastVerified: 2026-07-10

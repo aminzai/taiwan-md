@@ -1,7 +1,7 @@
 ---
 title: 'マッスル山山'
 description: '台湾在住の韓国人クリエイターが、フィットネスとバイリンガルなユーモアでコミュニティの影響力を蓄積し、Hi-Life（萊爾富）とのコラボレーションで韓国の日常の味覚を台湾のコンビニエンスストアの場面に届けています。'
-date: 2026-04-15
+date: 2026-05-13
 author: 'Taiwan.md Contributors'
 category: People
 subcategory: '流行人物'
@@ -16,13 +16,14 @@ tags:
     '台湾',
   ]
 readingTime: 9
-lastVerified: 2026-04-15
+lastVerified: 2026-05-13
 lastHumanReview: false
 translatedFrom: People/肌肉山山.md
 sourceCommitSha: '859d7316'
 sourceContentHash: 'sha256:a9c781639a414788'
 sourceBodyHash: 'sha256:d1cce1c9cb32c2ba'
 translatedAt: 2026-05-01T18:02:56+08:00
+featured: false
 ---
 
 > **30秒概要：** マッスル山山は、台湾で長年活動している韓国人YouTuberです。フィットネス、日常、そして中国語・韓国語のバイリンガルなやりとりを通じて独自の認知度を築いてきました。台湾の流通チャネルでは、Hi-Life（萊爾富）とのコラボレーションによるデリ（鮮食）やベーカリー商品を通じて、「故郷の味＋タンパク質」をコンビニの棚に並べています。

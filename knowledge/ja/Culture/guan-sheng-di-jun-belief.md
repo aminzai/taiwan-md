@@ -1,19 +1,20 @@
 ---
 title: '関聖帝君：敗軍の将軍はいかにして台湾の万能の神となったか'
 description: '三国時代の武将・関羽は敗れて斬首されたが、台湾では世界に類を見ない「恩主公」信仰体系へと進化した。そして台湾で最も参拝者が多い関帝廟では、一本の線香すら焚くことを許さない。'
-date: '2026-03-26'
+date: 2026-03-26
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '宗教と民俗'
 tags: ['関聖帝君', '恩主公', '行天宮', '民間信仰', '廟文化']
-readingTime: '10'
-lastVerified: '2026-03-26'
+readingTime: 10
+lastVerified: 2026-03-26
 lastHumanReview: false
 translatedFrom: 'Culture/關聖帝君信仰.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
 sourceBodyHash: 'sha256:03854077db2ba606'
 translatedAt: '2026-05-02T01:17:14+08:00'
+featured: false
 ---
 
 # 関聖帝君：敗軍の将軍はいかにして台湾の万能の神となったか

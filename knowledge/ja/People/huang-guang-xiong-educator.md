@@ -1,7 +1,7 @@
 ---
 title: '黄光雄：嘉義の田野に教育学部を築き上げた人物'
 description: '1996年、黄光雄は師範大学（国立台湾師範大学）から嘉義へ南下し、国立中正大学に教育学研究所を創設、後にこれを拡充して教育学部としました。彼は半世紀をかけて西洋のカリキュラム理論を台湾に導入し、質的研究の古典教科書を翻訳、九年一貫課程綱要の研究企画を主催し、さらに多くの学者と共に3年をかけて「尊重と関懷」を核心とする道徳教育プログラムを設計しました。2021年に逝去、享年84歳。'
-date: '2026-04-25'
+date: 2026-04-25
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '教育與社會'
@@ -14,8 +14,8 @@ tags:
   - '師範大学'
   - '質的研究'
   - '道徳教育'
-readingTime: '7'
-lastVerified: '2026-04-25'
+readingTime: 7
+lastVerified: 2026-04-25
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/黃光雄.md'

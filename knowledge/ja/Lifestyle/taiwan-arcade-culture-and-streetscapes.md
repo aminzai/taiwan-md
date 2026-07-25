@@ -1,12 +1,12 @@
 ---
 title: '台湾の騎楼文化と街並み'
 description: '風雨をしのぐ生活の回廊道であり、バイクや屋台、人情が交錯する台湾の街頭の記憶'
-date: '2026-03-20'
+date: 2026-03-20
 author: 'Taiwan.md'
 category: 'Lifestyle'
 subcategory: '交通與移動'
 tags: ['ライフスタイル', '騎楼', '街並み', '都市文化']
-lastVerified: '2026-03-20'
+lastVerified: 2026-03-20
 lastHumanReview: true
 featured: false
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'

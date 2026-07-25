@@ -1,7 +1,7 @@
 ---
 title: '太陽花学運――その30秒の後の12年'
 description: 'ある立法委員が床に伏せて襟元のマイクで30秒間話したことが、24日間の国会占拠、世代の政治覚醒、そして台湾経済が中国から転換する起点となった。12年後、学生が求めた法律は可決されなかったが、彼らは自分たちが何を戦っていたか分からない戦いに勝利した。'
-date: '2026-04-12'
+date: 2026-04-12
 category: 'Society'
 tags:
   - '社会運動'
@@ -11,7 +11,7 @@ tags:
 subcategory: '民主與政治'
 author: 'Taiwan.md'
 featured: true
-lastVerified: '2026-04-12'
+lastVerified: 2026-04-12
 lastHumanReview: false
 translatedFrom: 'Society/太陽花學運.md'
 sourceCommitSha: 'e6c58721'

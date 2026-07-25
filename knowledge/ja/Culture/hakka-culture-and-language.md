@@ -1,13 +1,13 @@
 ---
 title: '客家文化と言語'
 description: '1988年、一群の人々が孫文の写真にマスクをかぶらせてデモ行進を行い、母語を話す権利を取り戻そうとした——彼らは勝ったが、言語は今も消えつつある'
-date: '2026-03-24'
-author: "'Taiwan.md'"
+date: 2026-03-24
+author: 'Taiwan.md'
 category: 'Culture'
 subcategory: "'族群文化'"
 tags: ['客家', '言語', '文化', '硬頸精神', '六堆', '還我母語運動']
-readingTime: '14'
-lastVerified: '2026-04-05'
+readingTime: 14
+lastVerified: 2026-04-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/客家文化與語言.md'

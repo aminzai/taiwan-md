@@ -1,7 +1,7 @@
 ---
 title: '台湾のドローン産業：台中の玩具飛行機からブルーリストへ、一枚の入場券が雷虎に与えられた'
 description: '2025年9月21日、雷虎科技（Thunder Tiger）のOverkill FPV自爆型ドローンが、米国防総省のブルーUASクリアリスト（Blue UAS Cleared List）認証を取得した——台湾初、そして2026年初頭時点で唯一の企業である。リスト全体には39の機体プラットフォームと165のコンポーネントが掲載されており、台湾が占めるのはそのうちの1枠に過ぎない。2026年4月、米国超党派の4名の上院議員が共同で「台湾のための青空法（Blue Skies for Taiwan Act）」を提案し、台湾企業向けのファストトラックの設立を求めた。法案の存在自体が一つの事実を浮き彫りにしている——台湾の参入が遅すぎるため、米国自らが法整備によって障壁を下げざるを得ない状況である。台中で46年間リモコン玩具飛行機を作り続けてきた企業が、オハイオ州に第二工場を建設する計画を進めている。'
-date: '2026-04-08'
+date: 2026-04-08
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: 'Technology'
@@ -15,8 +15,8 @@ tags:
     'AI',
     'Blue UAS',
   ]
-readingTime: '16'
-lastVerified: '2026-05-10'
+readingTime: 16
+lastVerified: 2026-05-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/台灣無人機產業.md'

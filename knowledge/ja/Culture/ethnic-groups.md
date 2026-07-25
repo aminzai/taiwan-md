@@ -1,19 +1,20 @@
 ---
 title: '族群（閩南・客家・原住民・外省・新住民）'
 description: '一つの謝罪の儀式、一万人のデモ、57万の新しい家族——台湾の族群の物語は「多元共生」という四文字よりはるかに複雑です。'
-date: 2026-05-02
+date: 2026-03-30
 tags: ['文化', '族群', '原住民族', '客家', '閩南', '外省', '新住民']
 subcategory: '族群文化'
 author: 'Taiwan.md'
 category: 'Culture'
 readingTime: 12
-lastVerified: 2026-05-02
-lastHumanReview: false
+lastVerified: 2026-03-30
+lastHumanReview: true
 translatedFrom: 'Culture/族群（閩南客家原住民外省新住民）.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:5bfd9c2eabdc2883'
 sourceBodyHash: 'sha256:acd1d73d033867e1'
 translatedAt: '2026-05-16T22:19:52+00:00'
+featured: false
 ---
 
 # 台湾の族群

@@ -11,7 +11,7 @@ tags:
     '台湾文化',
     'ルポールのドラッグクイーンレース',
   ]
-category: '文化生活'
+category: 'People'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-18

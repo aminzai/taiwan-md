@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:7c8e2ae7ead043fa'
 sourceBodyHash: 'sha256:337a7730efae1092'
 translatedAt: '2026-05-01T19:52:32+08:00'
+difficulty: 'intermediate'
 ---
 
 # 生物多様性

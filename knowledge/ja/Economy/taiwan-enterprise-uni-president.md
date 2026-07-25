@@ -1,14 +1,14 @@
 ---
 title: '台湾企業：統一企業'
 description: '38歳の高清愿がゼロから始めた事業、13歳の童工がいかにして6,576億円の収益帝国を築いたか'
-date: 2026-03-21
+date: 2026-07-13
 tags: [Economy, 企業, 食品業, 小売業, ブランド経営]
 subcategory: '企業列伝'
 author: Taiwan.md
 readingTime: 8
 featured: false
-lastVerified: 2026-03-21
-lastHumanReview: true
+lastVerified: 2026-07-13
+lastHumanReview: false
 translatedFrom: Economy/台灣企業：統一企業.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:3fb7c059831bdebb'

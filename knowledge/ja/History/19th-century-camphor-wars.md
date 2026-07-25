@@ -2,7 +2,7 @@
 title: '19世紀の樟脳戦争：世界が求める香りは、原住民の山に眠っていた'
 description: '1864年、スウィンホー（史溫侯）は淡水で3つの数字を記した：6、16、28。樟脳1担（約60キログラム）が産地から香港まで運ばれる間に、価格は約5倍に跳ね上がった。その差額は道台（清朝の地方官職）の懐と、原住民の山に消えた。'
 date: 2026-04-25
-category: '歴史'
+category: 'History'
 subcategory: '植民地と帝国'
 tags:
   - '樟脳'
@@ -13,7 +13,7 @@ tags:
   - 'グローバル貿易'
   - '林業'
   - '19世紀'
-author: 'Taiwan.md 貢献者'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false

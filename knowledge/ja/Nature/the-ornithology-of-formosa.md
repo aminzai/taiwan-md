@@ -17,7 +17,7 @@ tags:
     'Sisil',
   ]
 subcategory: '博物學'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 10
 featured: false
 translatedFrom: 'Nature/福爾摩沙鳥類學.md'
@@ -25,6 +25,8 @@ sourceCommitSha: 'f99a9959'
 sourceContentHash: 'sha256:d1293bcf641ce299'
 sourceBodyHash: 'sha256:44c9000276437d2c'
 translatedAt: '2026-05-01T14:48:26+08:00'
+lastVerified: 2026-04-24
+lastHumanReview: true
 ---
 
 > **30秒で把握：** 1862年4月、青い雉の剥製が猟師によって山から下ろされ、淡水（ダンスイ）に運ばれてきた。

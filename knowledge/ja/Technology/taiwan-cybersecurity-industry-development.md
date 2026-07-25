@@ -22,6 +22,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:2d7d8b8a52c2b0ff'
 sourceBodyHash: 'sha256:11c4d3b5ca02c812'
 translatedAt: '2026-05-17T06:35:00Z'
+difficulty: 'intermediate'
 ---
 
 # 台湾サイバーセキュリティ産業の発展

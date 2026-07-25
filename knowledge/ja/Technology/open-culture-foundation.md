@@ -1,7 +1,7 @@
 ---
 title: 'オープンカルチャーファウンデーション：台湾で最も制御不能な人たちのために、最も退屈な仕事をする'
 description: '2020年、マップマスクが3日で全台湾にサービスを開始し、誰もがその奇跡を覚えているが、誰がプロジェクトの会計処理、契約締結、労保健康保険の手続きを担当したか覚えている人はほとんどいない。その裏方を担っていたのがオープンカルチャーファウンデーション（OCF）である。「誰も万能ではない」と叫ぶ分散型運動が、ハッカーがハッキングを続けられるよう、最終的には請求書を発行し、理事会の監督を受ける財団法人として自らを成長させた。10年後、ただ会計処理を手伝うだけだった裏方こそが、台湾が国際的にデジタル人権を語る際に想起される名前になった。'
-date: '2026-06-03'
+date: 2026-06-03
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: '開源社群'
@@ -15,10 +15,10 @@ tags:
     'オープンソースコミュニティ',
     'インターネットの自由',
   ]
-readingTime: '13'
-lastVerified: '2026-06-04'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 13
+lastVerified: 2026-06-04
+lastHumanReview: false
+featured: false
 translatedFrom: 'Technology/開放文化基金會.md'
 sourceCommitSha: 'c8e5ac9e'
 sourceContentHash: 'sha256:c4ab423af923a984'

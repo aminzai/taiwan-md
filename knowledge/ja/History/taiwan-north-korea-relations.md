@@ -7,10 +7,10 @@ category: 'History'
 subcategory: '民主と統治'
 tags:
   ['台湾', '北朝鮮', '貿易', '安全保障', 'MIT', '密輸', '金融', '漁業', '考察']
-readingTime: '15'
+readingTime: 15
 lastVerified: 2026-07-17
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/台灣與北朝鮮關係.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:2a45417c9b5c2cf0'

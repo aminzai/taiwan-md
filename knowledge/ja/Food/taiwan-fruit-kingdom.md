@@ -1,7 +1,7 @@
 ---
 title: '台湾フルーツ王国'
 description: '「フルーツ王国」の名声の陰で、輸入果物の年間生産額が302億元を突破し過去最高を記録する一方、国産果物の生産量は10年間で2割減少――甘い評判の裏にある過酷な真実'
-date: '2026-03-24'
+date: 2026-07-08
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: '食材與調味'
@@ -18,8 +18,8 @@ tags:
     '農業危機',
     '輸入競争',
   ]
-readingTime: 8
-lastVerified: '2026-03-24'
+readingTime: 16
+lastVerified: 2026-07-08
 lastHumanReview: false
 featured: true
 translatedFrom: 'Food/台灣水果王國.md'
@@ -30,6 +30,7 @@ translatedAt: '2026-05-01T18:09:43+08:00'
 image: '/article-images/food/fruit-kingdom-mango-fangliao-2009.webp'
 imageCredit: '陳偉城栽種、屏東枋寮 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 2.0'
+difficulty: 'intermediate'
 ---
 
 # 台湾フルーツ王国

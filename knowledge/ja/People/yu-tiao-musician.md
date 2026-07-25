@@ -1,7 +1,7 @@
 ---
 title: '魚條（Fish Stick）：名前は屋台の串揚げ、音楽は殴りかかるポスト・ハードコア'
 description: '2019年12月31日、魚条（Fish Stick）は一年最後の日に初の完全版アルバム『治本』をリリースした。台北市立中正高校の同級生3人が、2011年末から2019年まで活動し、5人から3人に縮小、2016年の春浪大賞4位、上海への招待演奏を経験した。「説教はしない」と言いながら、吼えた一曲一曲はどんな声明よりも直球だった。'
-date: 2026-05-01
+date: 2026-04-27
 tags:
   - '人物'
   - '魚條'
@@ -22,7 +22,7 @@ subcategory: 音楽與表演
 author: 'Taiwan.md'
 featured: false
 readingTime: 8
-lastVerified: 2026-05-01
+lastVerified: 2026-04-27
 lastHumanReview: false
 translatedFrom: 'People/魚條.md'
 sourceCommitSha: '4b6d28c5'

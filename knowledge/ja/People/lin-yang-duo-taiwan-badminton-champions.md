@@ -25,6 +25,7 @@ sourceCommitSha: 'c32d210ff'
 sourceContentHash: 'sha256:940cd3ea72960eac'
 sourceBodyHash: 'sha256:4c0e104cb6fe8601'
 translatedAt: '2026-05-20T05:08:29+08:00'
+difficulty: 'beginner'
 ---
 
 # 王齊麟と李洋（麟洋ペア）

@@ -10,7 +10,7 @@ author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 9
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
 translatedFrom: Culture/台灣綜藝.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:a2572613f79ed394'

@@ -8,12 +8,13 @@ author: 'Taiwan.md Contributors'
 date: 2026-04-08
 readingTime: 15
 lastVerified: 2026-04-08
-lastHumanReview: '2026-04-08'
+lastHumanReview: true
 translatedFrom: 'Society/台灣電視分級制度.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d915e5527fc773c5'
 sourceBodyHash: 'sha256:5588123f25ed059d'
 translatedAt: '2026-05-01T18:02:56+08:00'
+featured: false
 ---
 
 > **30秒概要：** 台湾の分級制度は、かつて「はさみ」でした。1983年以前、映画は「分級」ではなく「検閲」を受けなければならず、政治的・道徳的な検閲が常態でした。1993年の『ジュラシック・パーク』が引き起こした恐竜騒動は、台湾に三段階制の限界を認識させ、「保護級」を誕生させました。現在、台湾は映画、テレビ、録画番組、デジタルゲームを網羅する五段階体制を確立し、「上映禁止」を「分流」へと転換し、視聴環境の多様性と安全を守っています。

@@ -3,7 +3,7 @@ title: 'バイキングのおばさんの謎の目測精算能力'
 description: '1962年の台湾初のバイキングレストランはわずか2年で閉店したが、そこから生まれた目測による価格設定技術は、今なおAIが最も再現しにくい人間のスキルである'
 date: 2026-03-22
 author: 'Taiwan.md Contributors'
-category: 'society'
+category: 'Society'
 subcategory: '社區與日常'
 tags:
   [

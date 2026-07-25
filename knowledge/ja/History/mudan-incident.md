@@ -6,10 +6,10 @@ category: 'History'
 tags: ['牡丹社事件', '台湾歴史', '清日関係', '国際法', '原住民']
 subcategory: '植民地と帝国'
 author: 'Taiwan.md Contributors'
-readingTime: '12'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'History/牡丹社事件.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:91f467d8cc029b74'

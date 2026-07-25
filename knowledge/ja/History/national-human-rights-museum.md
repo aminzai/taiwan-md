@@ -1,7 +1,7 @@
 ---
 title: '国家人権博物館：涙の碑に書かれなかった名前'
 description: '1999年の国際人権デー、李登輝は緑島で「涙の碑」を自ら除幕しました。柏楊は28字で、すべての母親が長い夜に流した涙を書き尽くしましたが、加害者の名前は一人も書きませんでした。6年の準備、2018年の看板除幕、2025年の予算凍結。国家が自ら建て、自らが行ったことを記念する博物館です。しかし解厳から39年、一人の加害者も司法裁判を受けていません。'
-date: '2026-05-26'
+date: 2026-05-26
 author: 'Taiwan.md'
 category: 'History'
 subcategory: '戰後與威權'
@@ -21,7 +21,7 @@ tags:
     '人権',
   ]
 readingTime: 16
-lastVerified: '2026-05-26'
+lastVerified: 2026-05-26
 lastHumanReview: false
 featured: true
 translatedFrom: 'History/國家人權博物館.md'

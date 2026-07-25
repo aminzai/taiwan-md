@@ -1,7 +1,7 @@
 ---
 title: '陳俊良：デザイン詩人と東洋美学の現代的翻訳者'
 description: '陳俊良は1958年に台南で生まれ、29歳で「自由落体設計」（Freeimage Design）を設立し、業界から「デザイン詩人」と称されています。書道・余白・東洋的イメージをもって現代のデザイン言語を再解釈し、その作品は出版装幀、企業アイデンティティ、国家的祝祭に及びます。2005年の「天圓地方」国宴食器はマカオデザイン双年展審査員大賞を受賞しました。長年にわたりデザイン教育に尽力し、台湾の1980年代以降を代表するグラフィックデザイナーの一人です。'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '藝術とデザイン'
@@ -13,7 +13,7 @@ tags:
     '自由落体',
     'デザイン詩人',
   ]
-lastVerified: '2026-05-13'
+lastVerified: 2026-05-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳俊良.md'

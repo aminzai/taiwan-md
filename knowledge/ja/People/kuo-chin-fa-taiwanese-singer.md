@@ -4,15 +4,16 @@ description: '大稲埕の靴屋の見習いから宝島の低音歌王へ、郭
 category: 'People'
 tags: ['音楽', '台湾歌謡', '焼肉粽', '低音歌王', '戒厳期の禁止歌曲']
 author: 'Taiwan.md Contributors'
-date: '2026-04-19'
+date: 2026-04-19
 readingTime: 10
-lastVerified: '2026-04-19'
-lastHumanReview: '2026-04-19'
+lastVerified: 2026-04-19
+lastHumanReview: true
 translatedFrom: 'People/郭金發.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
 translatedAt: '2026-05-16T22:35:34Z'
+featured: false
 ---
 
 > **📝 キュレーターのメモ**

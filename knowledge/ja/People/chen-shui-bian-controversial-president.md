@@ -14,7 +14,7 @@ tags:
     '両岸関係',
   ]
 subcategory: '政治と民主主義'
-author: 'Taiwan.md Translation Team'
+author: 'idlccp1984'
 lastVerified: 2026-04-29
 lastHumanReview: false
 featured: false
@@ -24,6 +24,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:d4340432364688a1'
 sourceBodyHash: 'sha256:8dddf05fdbd86410'
 translatedAt: '2026-05-16T22:35:34Z'
+category: 'People'
 ---
 
 # 陳水扁（チェン・シュイビャン）

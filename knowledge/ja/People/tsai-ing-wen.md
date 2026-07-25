@@ -7,8 +7,8 @@ author: 'Taiwan.md'
 featured: false
 tags: [人物, 蔡英文, 大統領, 女性リーダー, 民主主義, 政治, 先住民族]
 subcategory: '政治與民主'
-lastVerified: 2026-05-23
-lastHumanReview: true
+lastVerified: 2026-07-12
+lastHumanReview: false
 rationale:
   why_this_hook: '2012/1/14 敗選の夜「泣いてもいい、気を落としてはいけない」＋4年後689万票で就任。伝記全体で最も反転弧のある入口で、結末「静かさもリーダーシップスタイル」と首尾呼応する。'
   whats_excluded: '6つの批判陣営：深藍（両岸悪化の責任）／深緑（中華民国台湾フレーミングによる取り込み）／民衆党（同婚専法ルート／エネルギー／司法改革／住宅価格）／進歩派（同婚次等／先住民政策の後続欠如）／strategic ambiguity派／党内派閥細節。多数は「範疇外」（独立議題記事で扱う）＋「分量制限」。prose にすでに収録：同婚＋先住民critqueは§「二つの署名」／防疫critiqueは§「817万票」／邦交断絶＋報道自由（中天）のbrief hedgeは§「去るとき」。'

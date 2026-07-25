@@ -1,7 +1,7 @@
 ---
 title: '鄭成功'
 description: '中日混血の海賊の子として生まれ、16年間抗清、9ヶ月で台湾攻略、5ヶ月で建国し、37歳で急死した——その名は今なお四つの政権に争われている'
-date: '2026-03-27'
+date: 2026-03-27
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '歴史人物'
@@ -14,8 +14,8 @@ tags:
     '海上帝国',
     'ゼーランディア城',
   ]
-readingTime: '12'
-lastVerified: '2026-03-27'
+readingTime: 12
+lastVerified: 2026-03-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/鄭成功.md'

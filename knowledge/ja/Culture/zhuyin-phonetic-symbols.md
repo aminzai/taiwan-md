@@ -15,6 +15,7 @@ sourceCommitSha: f712b7242
 sourceContentHash: sha256:60ed5696349fd181
 sourceBodyHash: sha256:220255acfc6a8977
 translatedAt: 2026-05-20T05:08:29+08:00
+difficulty: 'beginner'
 ---
 
 # 注音符号：台湾独自の文字のパスワード
@@ -130,6 +131,9 @@ translatedAt: 2026-05-20T05:08:29+08:00
 ## 参考資料
 
 [^1]: 中華民国教育部、「注音符号教学指引」、2024年版、https://language.moe.gov.tw/
+
 [^2]: ウィキペディア、「注音符号」項目、https://zh.wikipedia.org/wiki/注音符号
+
 [^3]: 中華民国教育部国語推行委員会、「注音符号沿革」、1978年；教育部国語文成就網 https://language.moe.gov.tw/
+
 [^6]: 教育部国語推行委員会、「注音符号分類：声母21個（ㄅㄆㄇㄈ等）、介音3個（ㄧㄨㄩ）、韻母13個」、https://language.moe.gov.tw/；教育部国語辞書を参照、https://dict.revised.moe.edu.tw/

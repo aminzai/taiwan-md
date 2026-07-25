@@ -1,7 +1,7 @@
 ---
 title: '厳長寿：郵便室の使い走りから観光の教父へ、そしてすべてを手放した男'
 description: '高校卒業の学歴。23歳でアメリカン・エキスプレスの郵便室で働き始めた。5年後に総経理に就任。さらに5年後、アジアを代表するホテルの社長となり、「ゲストが車を降りる前に名前を呼ぶ」サービスシステムを考案した。60万部のベストセラー著者。62歳で職を辞し、台東の過疎地で学校を設立。翌年、片方の腎臓を摘出した。78歳で太平洋のほとりに芸術園區を完成させた。'
-date: '2026-04-06'
+date: 2026-04-06
 tags:
   [
     '厳長寿',
@@ -14,8 +14,8 @@ tags:
   ]
 subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
-readingTime: '12'
-lastVerified: '2026-04-06'
+readingTime: 12
+lastVerified: 2026-04-06
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/嚴長壽.md'

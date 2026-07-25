@@ -21,6 +21,7 @@ sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:85252455c0ed43e6'
 translatedAt: '2026-06-10T16:41:16Z'
 sourceBodyHash: 'sha256:5c7fc1f11ad28097'
+featured: true
 ---
 
 # Taiwan's Democratic Transition: The Grave the Autocracy Dug for Itself

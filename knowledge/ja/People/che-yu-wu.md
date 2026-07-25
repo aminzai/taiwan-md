@@ -21,7 +21,7 @@ tags:
   ]
 readingTime: 16
 lastVerified: 2026-04-20
-lastHumanReview: 2026-04-20
+lastHumanReview: true
 featured: true
 translatedFrom: 'People/吳哲宇.md'
 sourceCommitSha: '4b6d28c5'

@@ -1,7 +1,7 @@
 ---
 title: '《Shopping Design》：デザインを選別する雑誌が最後に読者に問うのは、自分自身のこと'
 description: '2006年に創刊し、第1号で「白」をテーマとした『Shopping Design』は、20年をかけて「デザイン」を展示場の専門用語から、店舗を巡りアイテムを選ぶ日常の動詞へと変えた。それが台湾に真に教えたのは、「見極める力」が訓練可能な能力であるということだ。そしてその能力は、年間ベスト100リスト、季刊、カーニバルへと拡大され、さらに親会社の「雑誌出版＋広告サービス」という同一の免許証へと拡張された。つまり、見極め方を教えるこの雑誌が、最後に読者に問う対象は、まさにそれ自身なのである。'
-date: '2026-07-13'
+date: 2026-07-13
 author: 'Taiwan.md'
 category: 'Culture'
 tags:
@@ -14,9 +14,9 @@ tags:
   - '巨思メディアグループ'
   - 'メディアリテラシー'
 subcategory: '設計與媒體'
-lastVerified: '2026-07-13'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-13
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/Shopping Design.md'
 sourceCommitSha: '17b63fe83'
 sourceContentHash: 'sha256:5d83fb5eff7a2309'

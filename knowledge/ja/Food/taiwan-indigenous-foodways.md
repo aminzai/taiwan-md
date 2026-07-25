@@ -1,7 +1,7 @@
 ---
 title: '台湾先住民族の食文化'
 description: 'AKAMEの炎からアミ族の野菜宇宙へ——台湾先住民族の食が三千年を経て再び世界の注目を集めるまで'
-date: '2026-03-29'
+date: 2026-03-29
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: '族群飲食'
@@ -17,8 +17,8 @@ tags:
     '部落キッチン',
     '料理復興',
   ]
-readingTime: '12'
-lastVerified: '2026-03-29'
+readingTime: 12
+lastVerified: 2026-03-29
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣原住民飲食文化.md'
@@ -28,6 +28,7 @@ sourceBodyHash: 'sha256:50386f161e8d186f'
 translatedAt: '2026-05-01T18:02:56+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg/960px-Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+difficulty: 'intermediate'
 ---
 
 # 台湾先住民族の食文化

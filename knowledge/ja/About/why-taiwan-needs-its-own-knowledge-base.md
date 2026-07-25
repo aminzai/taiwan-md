@@ -1,12 +1,12 @@
 ---
 title: 'なぜ台湾には独自の知識ベースが必要なのか'
 description: 'AIモデルが人間の言語で他者が書いた物語を語るとき、台湾人は自分の物語が書き換えられないようにどうすればよいのか？'
-date: 2026-03-19
+date: 2026-07-17
 tags: ['AI', '情報戦', 'オープンソース', 'SSOT', '知識主権', '台湾']
-author: 'Che-Yu Wu'
-readingTime: 8
+author: 'Taiwan.md'
+readingTime: 18
 category: 'About'
-lastVerified: 2026-03-19
+lastVerified: 2026-07-17
 lastHumanReview: false
 translatedFrom: 'About/為什麼台灣需要自己的知識庫.md'
 sourceCommitSha: 'a05d2431'
@@ -15,6 +15,7 @@ sourceBodyHash: 'sha256:352de879384e19e9'
 translatedAt: '2026-06-16T17:10:30Z'
 image: /article-images/about/taiwan-md-homepage-2026.webp
 imageCredit: 'Taiwan.md 首頁 · taiwan.md · CC BY-SA 4.0'
+featured: false
 ---
 
 # なぜ台湾には独自の知識ベースが必要なのか

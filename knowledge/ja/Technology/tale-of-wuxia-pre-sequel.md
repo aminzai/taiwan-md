@@ -8,7 +8,7 @@ subcategory: '社群與數位文化'
 date: 2026-04-25
 lastVerified: 2026-04-25
 lastHumanReview: false
-author: 'Taiwan.md'
+author: 'zaious'
 featured: false
 readingTime: 9
 translatedFrom: 'Technology/活俠傳.md'

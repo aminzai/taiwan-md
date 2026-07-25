@@ -1,19 +1,20 @@
 ---
 title: '「占い竹筊（せんばい）」：50%の確率の向こう側で、神様の声を聞く'
 description: '嘉義の竹頭筊（たけがしらばい）職人・黄奕薰の信念から、屏東慈天宮における連続20回の聖筊（せいばい）で300万ドルの賞金を獲得した伝説まで、台湾の人々と神様との対話における確率と温かさを探ります。'
-date: '2026-03-27'
+date: 2026-03-27
 author: 'Taiwan.md Contributors'
 category: 'Culture'
 subcategory: '宗教與民俗'
 tags: ['民間信仰', '伝統工芸', '占い竹筊（せんばい）']
-readingTime: '8'
-lastVerified: '2026-03-27'
+readingTime: 8
+lastVerified: 2026-03-27
 lastHumanReview: false
 translatedFrom: 'Culture/擲筊.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f8a1e86f13d5a657'
 sourceBodyHash: 'sha256:ef724755039c89a7'
 translatedAt: '2026-05-01T18:02:56+08:00'
+featured: false
 ---
 
 > **30秒でわかる概要：**

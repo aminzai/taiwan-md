@@ -1,7 +1,7 @@
 ---
 title: 'キーボード上の文明衝突：東アジア文字入力法の百年の進化'
 description: '世界中のキーボードが同じ形をしているとき、異なる文明はどのようにして自らの文字を26のアルファベットに詰め込むのか。台湾の注音から韓国の二ボル式まで、入力法は静かな文化防衛戦である'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: '文字とツール'
@@ -17,8 +17,8 @@ tags:
     '東アジア',
     '文字',
   ]
-readingTime: '15'
-lastVerified: '2026-03-19'
+readingTime: 15
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/東亞文字輸入法.md'

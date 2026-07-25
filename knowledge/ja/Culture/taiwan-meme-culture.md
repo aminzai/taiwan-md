@@ -1,13 +1,13 @@
 ---
 title: '社会の傷が集合的癒しへ：台湾ミーム文化の社会的セーフティバルブメカニズム'
 description: '「杰哥不要」から「統神端火鍋」まで、台湾のミームは単なる娯楽ではなく、精巧な社会的ストレス解消システムであり、恥ずかしさ・トラウマ・不安を集合的な癒しの儀式へと変換するものです。'
-date: 2026-03-24
+date: 2026-07-23
 tags: ['ミーム', 'ネット文化', '台湾ローカル', 'PTT', 'ソーシャルメディア']
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
-readingTime: 8
+readingTime: 12
 featured: false
-lastVerified: 2026-03-24
+lastVerified: 2026-07-23
 lastHumanReview: false
 translatedFrom: Culture/台灣迷因.md
 sourceCommitSha: 'f99a9959'

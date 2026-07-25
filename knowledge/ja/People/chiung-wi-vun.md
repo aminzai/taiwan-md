@@ -1,12 +1,12 @@
 ---
 title: '蔣為文：台湾語文運動の水牛戦士'
 description: '機械工学部卒業生が、なぜ最も急進的な台湾語文運動の推進者となったのでしょうか？2011年に黄春明氏への抗議プラカードを掲げたことからベトナム研究の専門家となるまで、蔣為文は行動をもって「言語即ちアイデンティティ」という究極の信念を体現しています。'
-date: '2026-03-23'
+date: 2026-03-23
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '學術與教育'
 tags: ['言語学者', '台湾語文運動', '母語教育', 'ベトナム研究']
-lastVerified: '2026-03-23'
+lastVerified: 2026-03-23
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/蔣為文.md'

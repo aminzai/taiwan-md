@@ -1,7 +1,7 @@
 ---
 title: '史明：一つの餃子店で四十年の台湾革命を支えた'
 description: '史明（本名施朝暉）は中国で中共の地下情報員を務めたが、土改の大量殺戮を目の当たりにして幻滅し、台湾に戻って蔣介石暗殺を密謀した。計画が失敗し日本へ密航した後、東京・池袋に「新珍味」という麺店を開き、昼は餃子を販売し、夜は台湾史を書き続けた。この店の収入で四十年にわたる台湾独立運動を支え、また台湾民族意識を喚起する『台湾人四百年史』を執筆した。'
-date: '2026-07-10'
+date: 2026-07-10
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '政治與社會運動'
@@ -13,8 +13,8 @@ tags:
   - '台湾人四百年史'
   - '台湾民族主義'
   - '歴史'
-readingTime: '13'
-lastVerified: '2026-07-10'
+readingTime: 13
+lastVerified: 2026-07-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/史明.md'

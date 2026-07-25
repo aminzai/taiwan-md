@@ -1,7 +1,7 @@
 ---
 title: '波特王 — 「ナンパ」エンタメから「ピンク」ハンターへ、法と主権の間で格闘するデジタルゲームプレイヤー'
 description: '波特王（陳加晉）の職業人生の変遷は、台湾のクリエイターが両岸の商業利益の収奪者からデジタル主権の防衛者へと転換する過程を記録し、クリエイターと資本システムが長期にわたって絡み合う法的・所有権・財務の複雑性を明らかにします。'
-date: '2026-04-20'
+date: 2026-04-20
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '數位與媒體'
@@ -11,9 +11,9 @@ tags:
   - '認知作戦'
   - 'インフルエンサー権利'
   - '法的ゲーム'
-lastVerified: '2026-01-01'
-lastHumanReview: 'true'
-featured: 'false'
+lastVerified: 2026-01-01
+lastHumanReview: true
+featured: false
 translatedFrom: 'People/波特王.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:f007d55cb9bbfd03'

@@ -16,6 +16,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d371b7109756e14d'
 sourceBodyHash: 'sha256:8d9608a92d5a6a0c'
 translatedAt: '2026-05-03T23:14:06+08:00'
+difficulty: 'intermediate'
 ---
 
 # 盧秀燕：谷関の空気1万瓶から華府の軍購保険論まで――不敗の女王

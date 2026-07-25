@@ -20,7 +20,7 @@ subcategory: '体育'
 author: 'Taiwan.md'
 readingTime: 15
 lastVerified: 2026-04-14
-lastHumanReview: 2026-04-14
+lastHumanReview: true
 featured: true
 category: 'People'
 translatedFrom: 'People/李洋.md'
@@ -28,6 +28,7 @@ sourceCommitSha: 'fef3e119'
 sourceContentHash: 'sha256:96f1d5630278a964'
 sourceBodyHash: 'sha256:57937e9b25b2f462'
 translatedAt: '2026-05-01T18:02:56+08:00'
+difficulty: 'beginner'
 ---
 
 # 李洋

@@ -7,8 +7,8 @@ category: 'People'
 subcategory: '文学'
 tags: ['台湾文史', '蔵書家', '黄震南', '台湾歴史', '活水来冊房']
 lastVerified: 2026-03-20
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'People/黃震南.md'
 sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:e3d5f3c7c92e369d'

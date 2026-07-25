@@ -5,13 +5,16 @@ date: 2026-04-26
 tags: ['肉圓', '彰化グルメ', '北斗', '台湾屋台料理', '戊戌大水害']
 subcategory: '台湾屋台料理'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 translatedFrom: 'Food/肉圓.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:6de8df7e037bf580'
 sourceBodyHash: 'sha256:4ab47a31d7ad3c5f'
 translatedAt: '2026-05-16T22:35:34Z'
+featured: false
+lastVerified: 2026-04-26
+lastHumanReview: false
 ---
 
 > **30秒概覧：**

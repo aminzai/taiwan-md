@@ -2,7 +2,15 @@
 title: "Taiwan's FinTech Development"
 description: "A Wall Street golden boy returned to Taiwan to found a mobile payment service; nine years later, the company was sealed by the court with less than a thousand dollars in bank account deposits. This is not just one person's story, but the story of an entire island's decade-long tug-of-war between 'openness' and 'loss of control' in FinTech."
 date: 2026-04-06
-tags: ['FinTech', 'Digital Banking', 'Mobile Payment', 'Regulatory Sandbox', 'Pure Online Bank', 'Electronic Payment']
+tags:
+  [
+    'FinTech',
+    'Digital Banking',
+    'Mobile Payment',
+    'Regulatory Sandbox',
+    'Pure Online Bank',
+    'Electronic Payment',
+  ]
 subcategory: 'Finance and Technology'
 author: 'Taiwan.md'
 category: 'Economy'
@@ -14,6 +22,7 @@ sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:c4241632c676aa85'
 sourceBodyHash: 'sha256:b0709e8ad615db88'
 translatedAt: '2026-05-16T22:19:52+00:00'
+featured: false
 ---
 
 # Taiwan's FinTech Development
@@ -60,7 +69,7 @@ Joinvest is one of the few successful cases to graduate from the sandbox—this 
 But the numbers on the other side are not so pleasant. Seven years after the sandbox was launched, the number of approved experimental cases is not large, and even fewer have truly "graduated" and driven regulatory amendments. Critics say that Taiwan's sandbox has too high a threshold, too slow an audit process, and too short an experimental period, becoming a system that "looks open but is actually conservative." [^9]
 
 > "Taiwan's regulatory sandbox is one of the most complete legal frameworks in the world, but the problem is not with the framework, but with the speed of execution."
-> ——Chambers and Partners, *Fintech 2025: Taiwan* [^9]
+> ——Chambers and Partners, _Fintech 2025: Taiwan_ [^9]
 
 ## The Mobile Payment War in Smartphones
 
@@ -135,11 +144,11 @@ In December 2025, LINE Bank reported its first month of profit, an amount small 
 
 [^6]: [Voice Tank <Koubei's Vanishing 3.6 Billion: From Chinese Payment Experience to "Startup Exceptionalism">](https://voicettank.org/20250714-1/) — Reviewing Koubei's history of violations and fines for the "Tuo Bao" product and the FSC's regulatory challenges.
 
-[^7]: [ICLG, *Fintech Laws and Regulations Report 2025: Taiwan*](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — Taiwan's "FinTech Innovation and Experimentation Act" took effect in April 2018, becoming Asia's first FinTech special law.
+[^7]: [ICLG, _Fintech Laws and Regulations Report 2025: Taiwan_](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — Taiwan's "FinTech Innovation and Experimentation Act" took effect in April 2018, becoming Asia's first FinTech special law.
 
-[^8]: [Global Legal Insights, *Fintech Laws and Regulations 2025: Taiwan*](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — Joinvest's bond group-buying platform graduated from the sandbox and drove the amendment of the "Securities Dealer Establishment Standards."
+[^8]: [Global Legal Insights, _Fintech Laws and Regulations 2025: Taiwan_](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — Joinvest's bond group-buying platform graduated from the sandbox and drove the amendment of the "Securities Dealer Establishment Standards."
 
-[^9]: [Chambers and Partners, *Fintech 2025: Taiwan — Trends and Developments*](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — International legal community's evaluation of Taiwan's regulatory sandbox as having a "complete framework but insufficient execution speed."
+[^9]: [Chambers and Partners, _Fintech 2025: Taiwan — Trends and Developments_](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — International legal community's evaluation of Taiwan's regulatory sandbox as having a "complete framework but insufficient execution speed."
 
 [^10]: [National Development Council <Mobile Payment Penetration Rate Hits Record High, Moving Towards Digital National New Life>](https://www.ndc.gov.tw/nc_27_33762) — Government set a goal of 90% mobile payment penetration rate by 2025; total electronic payment account users reached 34.45 million.
 

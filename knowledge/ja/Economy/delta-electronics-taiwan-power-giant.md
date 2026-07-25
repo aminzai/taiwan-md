@@ -3,7 +3,7 @@ title: '台湾企業：デルタ電子'
 description: '13歳の戦乱孤児から宇宙の伝説へ：30万台湾ドルで世界の電力産業を再定義した男'
 date: 2026-03-22
 author: Taiwan.md
-category: economy
+category: 'Economy'
 subcategory: '企業列傳'
 tags:
   [

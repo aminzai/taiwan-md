@@ -1,13 +1,13 @@
 ---
 title: '台湾散文'
 description: '外省人の望郷から本土へのアイデンティティへ、男性文人から女性主導の文学風景へ。半世紀にわたり最も生活に身近でありながら最も定義しにくい文学形式は、どのようにして台湾人の感情と記憶の担い手となったのか？'
-date: '2026-03-24'
+date: 2026-03-24
 author: 'Taiwan.md'
 category: 'Art'
 subcategory: '文学'
 tags: ['散文', '文学', '台湾文学史', '女性作家', '生活书写', '自然书写']
-readingTime: '8'
-lastVerified: '2026-03-24'
+readingTime: 8
+lastVerified: 2026-03-24
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/台灣散文.md'

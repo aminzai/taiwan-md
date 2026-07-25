@@ -18,7 +18,7 @@ tags:
   - '先進パッケージング'
   - '台湾のテクノロジー産業'
 subcategory: '半導体とハードウェア'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -195,12 +195,21 @@ AI ハードウェアのサプライチェーンが台湾に与えたのは、�
 ## 参考資料
 
 [^1]: [中央社：黃仁勳「兆元宴」登場 魏哲家劉揚偉林百里等大咖出席](https://www.cna.com.tw/news/afe/202605280300.aspx) — 2026年5月28日の中央社の報道。ジェンスン・フアンが台北で台湾の AI サプライチェーン企業の経営陣を招いて会食したことを伝え、ファウンドリ、パッケージング・テスト、放熱モジュール、電源管理、マザーボード、組み立て受託、ブランドといったサプライチェーンの分類を挙げている。
+
 [^2]: [TSMC Logic Technology](https://www.tsmc.com/english/dedicatedFoundry/technology/logic) — TSMC 公式のロジックプロセス技術のページ。7ナノメートル、5ナノメートル、3ナノメートル、2ナノメートル、A16、A14 といった先端ロジックプロセスと技術ロードマップの説明を掲載している。
+
 [^3]: [TSMC Advanced Packaging Services](https://www.tsmc.com/english/dedicatedFoundry/services/advanced-packaging) — TSMC 公式の先進パッケージングサービスのページ。3DFabric が SoIC、CoWoS、InFO などの前工程・後工程の統合技術を含むことを説明している。
+
 [^4]: [AP: Taiwan takes a further step in production of AI chips with advanced new plant](https://apnews.com/article/1e087e92592b0b9ab7fb20442a5b8dc7) — AP 通信による矽品の台中新工場とジェンスン・フアンの出席の報道。AI チップのサプライチェーンにおける台湾の先進パッケージングの役割について、国際的な視点を提供している。
+
 [^5]: [AP: Taiwan's AI-powered economy soars in the shadow of bubble fears and China threats](https://apnews.com/article/7527bd4bf3089cbd2dab1c530ee61c3e) — AP 通信2026年の報道。AI 需要が台湾の経済成長と輸出を牽引する一方で、AI バブル、地政学的リスク、所得の不平等といった制約も整理しており、バランスを取る素材として適している。
+
 [^6]: [Tom's Hardware: TSMC-led semiconductor association warns of power supply pressure](https://www.tomshardware.com/tech-industry/tmsc-led-semiconductor-association-begs-taiwan-government-for-clean-green-energy-as-demand-skyrockets-fabs-are-struggling-to-keep-up-with-power-needs) — テクノロジーメディアによる、台湾の半導体業界がグリーン電力と安定供給について警鐘を鳴らしたという報道。エネルギーの制約と RE100 の圧力についての二次的な情報源として使えるが、正式な引用にはなお TSIA または公式の原文を追う必要がある。
+
 [^7]: [Tom's Hardware: TSMC reduces peak power consumption of EUV tools by 44%](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reduces-peak-power-consumption-of-euv-tools-by-44-percent-company-to-save-190-million-kilowatt-hours-of-electricity-by-2030) — TSMC の EUV 省電力計画と総使用電力の規模の報道。効率の向上と総量の増加のあいだの緊張を説明するのに適しているが、正式な引用には TSMC のサステナビリティ資料との照合が必要。
+
 [^8]: [WIRED: Want to Win a Chip War? You’re Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED 2023年の報道。半導体製造が超純水と水処理設備を必要とすることを伝え、台湾の干ばつ期における TSMC と農業用水のあいだの緊張にも触れており、本稿の水資源の段落を支えている。
+
 [^9]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — 台湾の電子部品メーカー16社の2015〜2020年の環境フットプリントを研究し、生産量の増加に伴ってエネルギー、水、炭素排出が増えることと carbon lock-in のリスクを提起している。
+
 [^10]: [中央社：劉揚偉：看好下半年輝達 Vera Rubin 出貨](https://www.cna.com.tw/news/afe/202605290100.aspx) — 2026年5月29日の中央社の報道。鴻海会長の劉揚偉が Vera Rubin プラットフォームの出荷、CPO / シリコンフォトニクス、AI サーバーのシステム展示について語っている。

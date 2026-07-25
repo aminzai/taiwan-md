@@ -1,7 +1,7 @@
 ---
 title: 'シャベル超人と島嶼の同時性：台湾の災害ボランティア文化が国族アイデンティティに与える影響'
 description: '2025年の馬太鞍洪水における「シャベル超人」を切り口に、台湾の1999年921集集大地震以来蓄積されてきた災害ボランティア文化、馬太鞍部落の洪水創世神話とコミュニティレジリエンス、慈濟（じさい）モデルと光復現場500メートルに三つあった前線指揮所のマルチヘッド構造を振り返り、陳建年（チェン・チェンニェン）の〈我々は同胞〉がこの洪水の中で具体的な行動になった瞬間を考察する。'
-date: '2026-03-24'
+date: 2026-03-24
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '社會韌性'
@@ -15,8 +15,8 @@ tags:
     'ソーシャルメディア',
     '国族アイデンティティ',
   ]
-readingTime: '14'
-lastVerified: '2026-05-17'
+readingTime: 14
+lastVerified: 2026-05-17
 lastHumanReview: true
 featured: false
 translatedFrom: 'Society/台灣災難志工文化.md'

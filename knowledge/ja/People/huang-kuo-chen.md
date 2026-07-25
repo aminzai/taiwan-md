@@ -1,7 +1,7 @@
 ---
 title: '黃國珍'
 description: '品學堂の創設者であり、台湾の読書リテラシー教育を推進し、「試験には合格できるが思考力を備えていない」という教育の困境を打破すべく尽力しています。'
-date: '2026-03-20'
+date: 2026-03-20
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '教育與社會'
@@ -15,12 +15,14 @@ tags:
     'コンピテンシー教育',
   ]
 readingTime: 5
-lastVerified: '2026-03-20'
+lastVerified: 2026-03-20
 translatedFrom: 'People/黃國珍.md'
 sourceCommitSha: 'df2e7558'
 sourceContentHash: 'sha256:4ca80675bb1a1122'
 sourceBodyHash: 'sha256:2b34fd0038a36214'
 translatedAt: '2026-05-01T18:09:43+08:00'
+featured: false
+lastHumanReview: false
 ---
 
 # 黃國珍：台湾の子どもに「読み終える」だけでなく「読み解く」力を教える

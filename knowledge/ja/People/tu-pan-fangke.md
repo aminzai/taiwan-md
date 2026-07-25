@@ -21,7 +21,7 @@ tags:
   - '平安戲'
   - '女性文学'
 subcategory: '文学と詩人 / 客家文化人'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 featured: false
 canonical-order: 120
 lastVerified: 2026-07-12
@@ -118,7 +118,7 @@ _新埔の呉濁流故居 — 同郷の先輩作家のネットワークが残�
 これが〈紙人〉の信仰の語彙と並べられると、とりわけ突き刺さります。紙の人形は秋の風が吹けば揺れる。彼女は「わたしの身体は器、わたしの心は神殿」と書き、紙の人形で埋め尽くされた世界の中に「本物の人」を探そうとします。[^11] キリスト教徒の女性詩人が民間の祝祭を解体するのは、文化戦争の話題づくりのためではありません。**誰が甘んじることを求められ、誰が芝居を観る資格を持つのか**を問うためです。
 
 ![苗栗県銅鑼あたりの客家の伝統的な合院建築。客家語詩の物質的な世界は単なる「郷土の記号」ではなく、集落、祭祀、芝居小屋、そして日常の話し言葉が共に育てた生活の場である。](/article-images/people/dupan-hakka-compound-tongluo.webp)
-_客家の伝統的な合院（苗栗県銅鑼）— 〈平安戲〉〈中元節〉の民俗的な場面を理解するには、まず芝居小屋と公廳を観光の記号から生活の倫理の場へ還す必要がある。Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg)._
+_客家の伝統的な合院（苗栗県銅鑼）— 〈平安戲〉〈中元節〉の民俗的な場面を理解するには、まず芝居小屋と公廳を観光の記号から生活の倫理の場へ還す必要がある。Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg).\_
 
 ## 戒厳令解除の後、母語はようやく「家で話すもの」から「紙に書くもの」になった
 

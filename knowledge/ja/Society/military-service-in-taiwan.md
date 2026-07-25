@@ -5,15 +5,16 @@ date: 2026-07-17
 category: 'Society'
 subcategory: '社會制度'
 tags: ['兵役', '国防', '義務役', '漢光演習', '金馬獎']
-readingTime: '12'
-lastVerified: '2026-07-17'
-lastHumanReview: 'false'
-featured: 'false'
+readingTime: 12
+lastVerified: 2026-07-17
+lastHumanReview: false
+featured: false
 translatedFrom: 'Society/當兵.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:58596add4d279eb3'
 sourceBodyHash: 'sha256:a4a1f732b1aecff8'
 translatedAt: '2026-07-23T23:06:50+08:00'
+author: 'Taiwan.md Contributors'
 ---
 
 > **30秒概観：** 台湾の兵役制度は、この島が半世紀以上にわたって刻んできた最も深い社会的な印です。戒厳令下の「三年兵」から現代の1年制義務役への回帰まで、これは単なる期間の数字的変動ではなく、地政学的な圧力に直面する台湾の現実的な姿を映し出しています。本稿では、抽選現場での「金馬獎（キンマー・ジャー）」に対する驚きから、スーパーマーケットさえ訓練対象となる現代の戦備現場である漢光演習までを辿り、免役基準、新兵訓練のスケジュール、各種代替役、そして実戦化への転換といった側面を深く分析します。

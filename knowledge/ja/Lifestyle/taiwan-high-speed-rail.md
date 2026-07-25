@@ -16,8 +16,8 @@ tags:
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
-lastVerified: '2026-04-27'
-lastHumanReview: '2026-04-27'
+lastVerified: 2026-04-27
+lastHumanReview: true
 date: 2026-04-19
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: '藍染：二百年後、同じ一株の馬藍を再び植える'
 description: '1999年8月、陳景林の指導により三峡染工坊で70年以上ぶりの青い布が染め上げられた。清代の主要輸出品から1940年には10戸にまで減少したこの、生きた菌を待つ手工芸は、現在、三峡・苗栗・太平・菁寮でそれぞれ異なる答えを生み出している。復興の目的は、生きた色を取り戻すことか、それとも販売できるブランドを見つけることか。'
-date: '2026-07-05'
+date: 2026-07-05
 author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '工藝與美學'
@@ -16,9 +16,9 @@ tags:
   - '客家藍衫'
   - '陳景林'
   - '鄭美淑'
-lastVerified: '2026-07-05'
-lastHumanReview: 'false'
-featured: 'false'
+lastVerified: 2026-07-05
+lastHumanReview: false
+featured: false
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: 'a43cf9153'
 sourceContentHash: 'sha256:1670373f1f6c3b4a'

@@ -13,7 +13,7 @@ tags:
   ]
 subcategory: '飲み物文化'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 translatedFrom: 'Food/台灣咖啡文化.md'
@@ -21,6 +21,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:547ccdf1b16e61de'
 sourceBodyHash: 'sha256:a7a3d68abd8527fd'
 translatedAt: '2026-05-01T14:48:26+08:00'
+lastVerified: 2026-04-06
+lastHumanReview: true
 ---
 
 # 台湾のコーヒー文化：コンビニが年6億杯を売る島

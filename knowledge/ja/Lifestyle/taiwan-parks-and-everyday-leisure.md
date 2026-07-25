@@ -3,7 +3,7 @@ title: '台湾の公園と日常の余暇'
 description: '早朝の太極拳から夜間の散歩まで――台湾の公園が世代を超えた社交の場として果たす役割に関する文化観察'
 subcategory: '休閒與娛樂'
 tags: ['公園', '余暇', '社交文化', '世代を超えた', '日常生活']
-lastVerified: '2026-03-19'
+lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
 sourceCommitSha: '4b6d28c5'
@@ -11,6 +11,9 @@ sourceContentHash: 'sha256:5627d196edbadc46'
 sourceBodyHash: 'sha256:fb9597ed5d14a1d1'
 translatedAt: '2026-05-01T18:09:43+08:00'
 category: Lifestyle
+author: 'Taiwan.md'
+date: 2026-03-18
+featured: false
 ---
 
 # 台湾の公園と日常の余暇

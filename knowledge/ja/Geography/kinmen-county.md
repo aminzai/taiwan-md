@@ -22,7 +22,7 @@ tags:
   ]
 readingTime: 16
 lastVerified: 2026-05-18
-lastHumanReview: true
+lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/金門縣.md'
 sourceCommitSha: '31a05c44'

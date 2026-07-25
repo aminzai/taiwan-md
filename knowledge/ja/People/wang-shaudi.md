@@ -1,12 +1,12 @@
 ---
 title: '王小棣：花甲少年と台湾テレビの優しい革命'
 description: '将軍の子が反抗期の少年になり、反抗期の少年が台湾テレビドラマの教母となる——王小棣は40年にわたって、テレビを撮ることは社会運動になり得ることを証明した'
-date: '2026-03-28'
+date: 2026-03-28
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '藝術と文化人物'
 tags: ['監督', 'テレビ', '映画', '植劇場', '公視', '金鐘賞', 'LGBTQ+']
-lastVerified: '2026-03-28'
+lastVerified: 2026-03-28
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/王小棣.md'

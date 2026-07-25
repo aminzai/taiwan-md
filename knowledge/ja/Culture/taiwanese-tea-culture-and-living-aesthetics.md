@@ -6,8 +6,8 @@ author: 'Taiwan.md'
 category: 'Culture'
 subcategory: '工藝と美学'
 tags: ['茶文化', '凍頂烏龍', '高山茶', '手搖飲', '珍珠奶茶', '農業文化']
-readingTime: 12
-lastVerified: 2026-03-24
+readingTime: 20
+lastVerified: 2026-07-12
 lastHumanReview: false
 featured: true
 translatedFrom: 'Culture/台灣茶文化.md'
@@ -16,6 +16,7 @@ sourceContentHash: 'sha256:218a1627dd56bfb5'
 sourceBodyHash: 'sha256:ca6d9cb8b6ed52e7'
 translatedAt: '2026-05-17T06:35:00Z'
 image: '/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp'
+difficulty: 'intermediate'
 ---
 
 # 黄金時代の残響：台湾茶文化の変遷と工藝

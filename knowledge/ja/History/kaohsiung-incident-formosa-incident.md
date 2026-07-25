@@ -5,7 +5,7 @@ date: 2026-03-31
 tags: ['歴史', '民主化', '人権', '党外運動', '戒厳']
 subcategory: '現代歴史'
 category: 'History'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 14
 featured: false
 translatedFrom: 'History/美麗島事件.md'
@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:b6388def07095d7a'
 sourceBodyHash: 'sha256:023966d5fd73721a'
 translatedAt: '2026-06-13T01:49:53+08:00'
+lastVerified: 2026-03-31
+lastHumanReview: false
 ---
 
 1980年2月28日、林義雄（リン・イーシオン）は台北景美軍法看守所で裁判を待っていました。その日、台北の警察と情報要員は彼の信義路の自宅前で終日見張りに立っていましたが、誰も中に入りませんでした。夕暮れになってようやく発見されたのは——60歳の母、林游阿妹が地下室で13カ所を刺されて倒れており、7歳の双子の娘・林亮均と林亭均は胸から背中に貫通する一刺しを受けて即死していたのです。9歳の長女・林奐均は六カ所の傷を負いながら、背中にランドセルを背負っていたために奇跡的に一命を取り留めました。[^12]

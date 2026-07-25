@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
 translatedAt: '2026-05-01T19:52:32+08:00'
+difficulty: 'beginner'
 ---
 
 # 台湾の生物多様性ホットスポット

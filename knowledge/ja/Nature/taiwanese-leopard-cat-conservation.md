@@ -1,12 +1,12 @@
 ---
 title: '台湾における石虎保全'
 description: '台湾全土で生息数が500匹未満の幽霊猫――最後の在来ネコ科動物が絶滅の淵に立たされている現状'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md Contributors'
 subcategory: '野生動物'
 tags: ['石虎', '保全', '路殺', '生息地', '苗栗', '絶滅危惧種', '生態']
 readingTime: 12
-lastVerified: '2026-03-30'
+lastVerified: 2026-03-30
 lastHumanReview: true
 featured: false
 translatedFrom: 'Nature/台灣石虎保育.md'
@@ -178,9 +178,13 @@ category: Nature
 ## 参考資料
 
 [^1]: [苗栗石虎保育自治條例 - 環境資訊中心](https://e-info.org.tw/node/221882) — 苗栗県石虎保全自治条例が 2019 年 12 月 10 日に三読可決されたことの確認。
+
 [^2]: [窩窩：啪滋！然後我就變成肉乾了——路殺特集](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — 2017～2023 年の石虎路殺記録の統計。
+
 [^3]: [農業部石虎エコ給付方案](https://www.moa.gov.tw/) — 石虎生態に配慮した農法給付計画の説明。
+
 [^4]: [農業部生物多様性研究所（生多所）](https://www.tbri.gov.tw/) — 石虎人工繁殖計画と保全研究。
+
 [^5]: [窩窩：絶滅前——台湾石虎特集](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — 台湾石虎保全の現状を包括的に報じる。
 
 関連リンク：

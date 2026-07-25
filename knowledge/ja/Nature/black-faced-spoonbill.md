@@ -4,15 +4,16 @@ description: '2026年の世界一斉調査でクロツラヘラサギは7,746羽
 category: Nature
 tags: ['クロツラヘラサギ', '生態保全', '生息地の課題', '漁電共生', '台湾の自然']
 author: 'Taiwan.md Contributors'
-date: 2026-05-01
+date: 2026-04-30
 readingTime: 8
-lastVerified: 2026-05-01
+lastVerified: 2026-04-30
 lastHumanReview: false
 translatedFrom: 'Nature/黑面琵鷺.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8cef581f5392bc2b'
 sourceBodyHash: 'sha256:445b5720cbf0d2d9'
 translatedAt: '2026-05-01T14:48:26+08:00'
+featured: false
 ---
 
 > **30秒概観：** クロツラヘラサギ（黒面琵鷺）はかつて世界でわずか300羽足らずまで減少した絶滅危惧種だったが、30年に及ぶ国境を越えた努力によって今や7,000羽を突破し、そのうち6割以上が台湾で越冬することを選んでいる。これは保全成功の模範事例だ。しかし個体数の増加にともない、この優雅な渡り鳥たちはコアとなる保護区から外れた場所へと押し出され、太陽光パネル、野良犬、致死性のボツリヌス菌の間で次の安全な生息地を探し続けている。

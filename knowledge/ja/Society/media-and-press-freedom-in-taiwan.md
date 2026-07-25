@@ -1,13 +1,13 @@
 ---
 title: '台湾のメディアと報道の自由'
 description: '党国支配からメディア戦国時代へ：台湾の報道の自由の民主化の過程とデジタル変革の課題'
-date: '2026-03-18'
+date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: 'メディアと言論'
 tags: ['メディア', '報道の自由', '民主化', 'デジタル変革', 'メディアリテラシー']
-readingTime: '15'
-lastVerified: '2026-03-19'
+readingTime: 15
+lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣媒體與新聞自由.md'
@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:2b07b58b99abcb36'
 sourceBodyHash: 'sha256:9e2facc3bed645dd'
 translatedAt: '2026-05-17T05:34:50+08:00'
+difficulty: 'intermediate'
 ---
 
 # 台湾のメディアと報道の自由
@@ -134,9 +135,13 @@ translatedAt: '2026-05-17T05:34:50+08:00'
 台湾のメディアは、威権的な統制から自由な競争へ、そしてデジタル時代の課題へと歩んできました。この過程は、民主主義深化の複雑さを映し出しています。報道の自由を維持しながら、情報の質とメディアの持続可能性をいかに確保するかは、台湾社会が引き続き直面する重要な課題です。
 
 [^1]: 国境なき記者団（RSF），〈2024年世界報道の自由指数—台湾〉，https://rsf.org/en/country/taiwan
+
 [^2]: 文化部，〈新聞規制の撤廃とメディアの多様化〉，https://nccwp.moc.gov.tw/home/zh-tw/white_paper
+
 [^3]: 台湾ファクトチェックセンター，https://tfc-taiwan.org.tw/
+
 [^4]: 国家通訊傳播委員會（NCC），https://www.ncc.gov.tw/
+
 [^5]: 報導者，https://www.twreporter.org/
 
 ## 参考文献

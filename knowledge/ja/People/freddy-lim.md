@@ -17,7 +17,7 @@ tags:
   - '社会運動'
   - '閃靈'
 subcategory: '音楽と公共人物'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
@@ -187,23 +187,41 @@ _2015年、林昶佐は時代力量の中正・萬華区の立法委員候補と
 ## 注釈
 
 [^1]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — GQ 2016年の人物報道。林昶佐が閃靈のボーカルとして、台湾語と伝統楽器とともに国際的なメタルと政治の視野へ入っていったことを描いています。
+
 [^2]: [大港開唱公式サイト](https://megaportfest.com/) — 公式のイベントサイト。大港開唱の高雄の音楽祭としての現在の位置を確認するために使用。沿革はウィキペディアで相互確認しています。
+
 [^3]: [Meet Freddy Lim, the Death-Metal Star Who Just Became an Elected Official in Taiwan](https://www.gq.com/story/freddy-lim-taiwan-parliament-cthonic) — 同じ GQ の記事。2016年に国際メディアが「メタルのボーカルが国会へ」をどう理解したかの文脈を提供しています。
+
 [^4]: ['We want a fairer society': Freddy Lim, Taiwan's metalhead MP](https://www.theguardian.com/world/2020/aug/17/we-want-a-fairer-society-freddy-lim-taiwan-metalhead-mp) — The Guardian 2020年の報道。再選前後の国際メディアによる彼の公共的な役割の観察を補っています。
+
 [^5]: [從搖滾明星到立法委員，台灣人林昶佐的信念](https://cn.nytimes.com/china/20170531/from-heavy-metal-frontman-to-taiwans-parliament/zh-hant/) — 『ニューヨーク・タイムズ』中国語版 2017年の報道。林昶佐がアンダーグラウンドの音楽シーンから国会へ入り、台湾の国際的な可視性と社会的課題を推し進めた初期の政治段階を記録しています。
+
 [^6]: [Metal-Sänger und Politiker Freddy Lim: „Wir waren nie ,das freie China‘ – wir sind Taiwan“](https://www.tagesspiegel.de/gesellschaft/metal-sanger-und-politiker-freddy-lim-wir-waren-nie-das-freie-china--wir-sind-taiwan-8904460.html) — Der Tagesspiegel 2022年のインタビュー。戒厳令下の教育、台湾語、台湾のアイデンティティ、国際的な語りについての林昶佐の回顧を提供しています。
+
 [^7]: [從人子、人夫到人父 林昶佐：讓愛用另外一種方式延續](https://www.hospice.org.tw/content/3435) — ホスピス財団のインタビュー。父の急逝、娘の誕生、緩和ケア、そしてアルバム『政治』のあいだにある林昶佐の生の経験を補っています。
+
 [^8]: [蓄長髮、畫屍妝…林昶佐7年前以樂團主唱之姿、打敗國民黨軍系老將，寫素人參政傳奇](https://www.businesstoday.com.tw/article/category/80392/post/202201090014/) — 今周刊 2022年の報道。リコール投票前後の政治的な文脈、同性婚などの進歩的な課題、リコールの要件の分析を整理しています。
+
 [^9]: [「大港開唱」前世今生（上）：掌舵手的音樂祭海派人生](https://www.verse.com.tw/article/megaport-festival-01) — VERSE 2022年の報道。2006年の高雄港辺での草創から、2016年以後の Doris と Dani による引き継ぎ、NGO 議題村までの文脈を整理しています。
+
 [^10]: [「大港開唱」前世今生（下）：豈止16年，而是台灣音樂祭歷史的文化總和](https://www.verse.com.tw/article/megaport-festival-02) — VERSE 2022年の報道。野台開唱、マルチステージの国際化、受益者負担、アーティストのバックステージ、台湾のバンド鑑賞文化の底上げという長い線を補っています。
+
 [^11]: [INTERVIEW: Freddy Lim unfolds New Power Party platform](https://www.taipeitimes.com/News/taiwan/archives/2015/06/26/2003621612) — Taipei Times 2015年のインタビュー。閃靈のボーカル、人権の提言者、時代力量の創党者という立場で選挙へ臨んだ文脈を提供しています。
+
 [^12]: [Lim to leave NPP, back Tsai re-election bid](https://www.taipeitimes.com/News/front/archives/2019/08/02/2003719765) — Taipei Times 2019年の報道。林昶佐が時代力量を離れ、無所属として再選を目指し、蔡英文の再選を支持したことを確認しています。
+
 [^13]: [Independent Legislator Freddy Lim survives recall vote](https://focustaiwan.tw/politics/202201090008) — Focus Taiwan/CNA 2022年の報道。リコール投票が賛成票の要件未達により不成立となったことを確認しています。
+
 [^14]: [Freddy Lim to retire from politics, look after family](https://www.taipeitimes.com/News/taiwan/archives/2023/03/18/2003796315) — Taipei Times 2023年の報道。希少疾患を抱える家族の介護を理由に再選を目指さないと表明したことを記録しています。
+
 [^15]: [Independent lawmaker Freddy Lim applies to join DPP](https://focustaiwan.tw/politics/202311270019) — Focus Taiwan/CNA 2023年の報道。民主進歩党への入党申請と、2024年の選挙を支援する準備を確認しています。
+
 [^16]: [Rock star-turned-politician named Taiwan's representative to Finland](https://focustaiwan.tw/politics/202505190024) — Focus Taiwan/CNA 2025年の報道。総統府が林昶佐の駐フィンランド代表就任を発表したことを確認しています。
+
 [^17]: [Chthonic put spin on Taiwan's past](https://www.taipeitimes.com/News/taiwan/archives/2003/09/14/2003067797) — Taipei Times 2003年のインタビュー。閃靈の初期のバンド史、二胡、林投姊、金曲奨の最優秀バンド賞、そして林昶佐がブラックメタルの母体文化への意識を台湾史と民間伝承へどう引き戻したかを記録しています。
+
 [^18]: [ChthoniC promotes Taiwan's UN bid in interview with NPR](https://www.taipeitimes.com/News/taiwan/archives/2007/08/09/2003373320) — Taipei Times 2007年の報道。Ozzfest ツアー期間中に閃靈が英語でアメリカの観客へ台湾の国際参加が阻まれている状況を説明し、〈UNlimited Taiwan〉を歌った文脈を整理しています。
+
 [^19]: [閃靈新歌「護國山」 創作靈感自政治受難者家屬](https://www.cna.com.tw/news/amov/202303010226.aspx) — 中央社 2023年の報道。〈護國山〉の創作の着想、白色テロ受難者の遺族、高一生の一族の記憶を伝え、閃靈の近年の作品が歴史的記憶という主題をどう引き継いでいるかを補っています。
 
 ## 参考資料

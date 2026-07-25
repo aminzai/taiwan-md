@@ -1,14 +1,14 @@
 ---
 title: '台湾の同性婚とジェンダー平等'
 description: '戒厳令時代の囚人からアジア初の同性婚法へ、一人の男性の30年間の奮闘が島の愛の定義をどう書き換えたか'
-date: '2026-03-22'
+date: 2026-03-22
 author: 'Taiwan.md'
 category: 'Society'
 subcategory: '人権と平等'
 tags:
   ['同性婚', 'ジェンダー平等', '人権', '司法', 'アジア初', '祁家威', 'LGBTQ+']
-readingTime: '12'
-lastVerified: '2026-03-22'
+readingTime: 12
+lastVerified: 2026-03-22
 lastHumanReview: false
 featured: true
 translatedFrom: 'Society/台灣同婚與性別平權.md'
@@ -16,6 +16,7 @@ sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:369f015f40df17bd'
 sourceBodyHash: 'sha256:87466d8232d3f86e'
 translatedAt: '2026-05-01T18:02:56+08:00'
+difficulty: 'beginner'
 ---
 
 # 台湾の同性婚とジェンダー平等

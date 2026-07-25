@@ -13,7 +13,7 @@ tags:
     '情報セキュリティ',
     'デジタル遺産',
   ]
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-04-30
 readingTime: 15
 translatedFrom: 'Lifestyle/LINE.md'
@@ -21,6 +21,9 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e36f0dcb06bdb5d7'
 sourceBodyHash: 'sha256:45c225df72a18f73'
 translatedAt: '2026-05-01T14:48:26+08:00'
+featured: false
+lastVerified: 2026-04-30
+lastHumanReview: false
 ---
 
 > **30秒で把握：** LINEは2011年3月11日の東日本大震災後に日本で生まれた通信アプリで、同年台湾に進出した。MSNがサービスを終了し、WhatsAppが有料化に転換した2013年に、かつての王者の座に取って代わった。今日、台湾の15〜65歳の普及率は93%に達し、家族のトーク、シニア向け画像文化（長輩圖）、仕事用グループから、LINE Pay のモバイル決済とLINE Bankのネット専業銀行まで、文字通りの「デジタルインフラ」となっている。しかし高度な依存は、フェイクニュース、アカウント乗っ取り、広告の氾濫、デジタル遺産、市場独占などの問題を伴い、この商業アプリの公共性を社会が問い直すことを迫っている。

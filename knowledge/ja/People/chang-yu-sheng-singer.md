@@ -17,7 +17,7 @@ date: 2026-04-18
 featured: false
 readingTime: 14
 lastVerified: 2026-04-19
-lastHumanReview: 2026-04-19
+lastHumanReview: true
 translatedFrom: People/張雨生.md
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:f4eb416f9486c9fa'

@@ -1,7 +1,7 @@
 ---
 title: '公共政策ネット参加プラットフォーム：『提案』から始まるデジタル民主ジム'
 description: '2015年に開始されたJOINプラットフォームは、米国ホワイトハウスの請願サイトを参考にし、「5,000人の賛同」閾値を設け、がん患者や高校生でも直接政府決定に影響を与えられるようにし、台湾のデジタル民主の旗艦実験場となっています。'
-date: '2026-06-19'
+date: 2026-06-19
 category: 'Society'
 tags:
   - 'デジタル民主'
@@ -14,9 +14,9 @@ tags:
 subcategory: '民主と政治'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: '2026-06-19'
+lastVerified: 2026-06-19
 lastHumanReview: false
-readingTime: '15'
+readingTime: 15
 translatedFrom: 'Society/公共政策網路參與平臺.md'
 sourceCommitSha: '194696f07'
 sourceContentHash: 'sha256:e50c6305fdf357b3'

@@ -1,7 +1,7 @@
 ---
 title: '中正記念堂'
 description: '台北市中心で最も巨大な政治的象徴であり、最も民主的なダンス練習場でもある。権威の聖殿から転換正義の嵐の目へ、この建築は台湾の魂が最も激しく揺れた記録を刻んでいる。'
-date: '2026-04-10'
+date: 2026-04-10
 category: 'History'
 tags:
   [
@@ -14,14 +14,16 @@ tags:
     '信義計画区',
   ]
 subcategory: '戦後と権威主義'
-readingTime: '9'
-lastVerified: '2026-04-10'
+readingTime: 9
+lastVerified: 2026-04-10
 lastHumanReview: false
 translatedFrom: 'History/中正紀念堂.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:69baf41d38c3c7aa'
 sourceBodyHash: 'sha256:3ae76649f6776188'
 translatedAt: '2026-06-13T01:49:53+08:00'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # 中正記念堂

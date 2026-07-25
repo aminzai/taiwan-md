@@ -5,13 +5,16 @@ date: 2026-04-28
 tags: ['賴和', '台湾文学', '彰化', '日本統治時代', '医療史', '社会運動']
 subcategory: '文学と文化人物'
 category: 'People'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 12
 translatedFrom: 'People/賴和.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:ea423174510ba903'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
 translatedAt: '2026-05-01T14:48:26+08:00'
+featured: false
+lastVerified: 2026-04-28
+lastHumanReview: false
 ---
 
 > **30秒概覧：** 賴和（ライ・ホー、1894〜1943年）は日本統治時代に最も影響力を持った医師兼文学者です。一方の手にメスを持って貧しい人々を治療し、「彰化の媽祖（まそ）」「和仔仙（ホーアーシェン）」と慕われました。もう一方の手に筆を持って台湾白話文学を開拓し、植民地支配の不公正を批判しました。毎年大晦日に患者の未払い帳票を燃やす義人の行為も、獄中で書き留めた文字も、今なお台湾の医師倫理と人文精神の模範となっています。

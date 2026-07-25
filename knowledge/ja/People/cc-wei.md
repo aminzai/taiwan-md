@@ -1,13 +1,13 @@
 ---
 title: '魏哲家：1953年、交大電子からイェール博士から台湾積体電路製造（TSMC）董事長兼社長へ'
 description: '1953年生まれ。国立交通大学電子工学部学士・修士、イェール大学電気工学博士。テキサスインスツルメンツ→STマイクロエレクトロニクス→チャータードセミコンダクター→1998年TSMC入社。2012年、劉徳音と共にTSMC共同COO（最高執行責任者）を務める。2018年6月5日、副董事長兼社長に就任。2024年6月4日、劉徳音の退任後、董事長に就任し、現在TSMC董事長兼社長を務めている。'
-date: '2026-03-19'
+date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
 tags: ['科技與企業', '台積電', '半導體', '晶圓代工', '製程技術']
 readingTime: 7
-lastVerified: '2026-05-08'
+lastVerified: 2026-05-08
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/魏哲家.md'

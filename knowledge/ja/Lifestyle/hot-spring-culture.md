@@ -3,7 +3,7 @@ title: '温泉文化'
 description: '軍事療養から世界三大泥泉へ：台湾が意外にも温泉王国になった物語'
 date: 2026-03-22
 author: 'Taiwan.md Contributors'
-category: lifestyle
+category: 'Lifestyle'
 subcategory: '醫療與健保'
 tags:
   ['生活', '温泉', '北投', '礁渓', '関子嶺', '日本統治期', '地質', '癒し文化']
@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5c053dd9110acc9b'
 sourceBodyHash: 'sha256:62212c95c5c34acf'
 translatedAt: '2026-05-01T19:52:32+08:00'
+featured: false
 ---
 
 # 温泉文化：戦争の傷痕から癒しの帝国へ

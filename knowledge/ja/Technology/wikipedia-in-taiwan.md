@@ -15,7 +15,7 @@ subcategory: '社群與數位文化'
 date: 2026-04-29
 lastVerified: 2026-04-29
 lastHumanReview: false
-author: 'Taiwan.md'
+author: 'idlccp1984'
 featured: false
 readingTime: 35
 translatedFrom: 'Technology/維基百科.md'

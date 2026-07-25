@@ -12,7 +12,7 @@ tags:
   - '市民運動'
   - '半導体'
   - '台湾の民主'
-readingTime: '12'
+readingTime: 12
 lastVerified: 2026-04-17
 lastHumanReview: true
 featured: false

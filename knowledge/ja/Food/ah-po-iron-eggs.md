@@ -1,7 +1,7 @@
 ---
 title: '阿婆鐵蛋（アーポーてつたまご）：渡し場「海腳大飯店」での偶然から、淡水で最も硬い集合記憶へ'
 description: '1983年、『民生報』の一記事が淡水「海腳大飯店」の黒い煮卵を一夜で有名にした。海風に繰り返しさらされ、煮るたびに硬くなった「偶然」の美食は、淡水の渡し場の盛衰を見届け、商標争議の中で創始者・阿哖婆と楊碧雲をめぐる歴史の公案を残した。'
-date: 2026-05-01
+date: 2026-04-28
 tags:
   [
     'Food',
@@ -18,7 +18,7 @@ author: Taiwan.md
 category: Food
 readingTime: 10
 featured: false
-lastVerified: 2026-05-01
+lastVerified: 2026-04-28
 lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Iron_eggs_in_Tamsui.jpg/800px-Iron_eggs_in_Tamsui.jpg'
 imageAlt: '淡水の老街に並ぶ深褐色の鉄たまご。質感は固く、艶やかな輝きを持つ'

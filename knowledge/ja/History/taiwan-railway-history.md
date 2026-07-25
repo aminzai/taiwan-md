@@ -30,6 +30,7 @@ image: '/article-images/history/tra-taitung-line-fireman-1970s.webp'
 imageCredit: '周永富（提供者）'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg'
+difficulty: 'beginner'
 ---
 
 # 台湾鉄道史

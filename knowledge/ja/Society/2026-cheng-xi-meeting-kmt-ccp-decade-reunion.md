@@ -23,6 +23,8 @@ sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:3eecc6e30b4626f7'
 translatedAt: '2026-06-10T16:41:16Z'
 sourceBodyHash: 'sha256:3d0acbeaa8a56355'
+featured: true
+difficulty: 'advanced'
 ---
 
 # 2026 Zheng-Xi Meeting: The Ten Minutes of a Decade-Long Reunion Between KMT and CCP Leaders

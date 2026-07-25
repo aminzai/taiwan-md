@@ -1,7 +1,7 @@
 ---
 title: '阿翰：一人で路地全体を演じ切り、また路地の人々から批判を受けた花蓮の青年'
 description: '花蓮出身の青年・曾文翰は、台北芸術大学アニメーション学科を卒業し、阮月嬌、廖麗芳、廖麗珠を通じて、一人で台湾の路地全体を演じました。ところが 2022 年の中元節広告が取り下げられます。彼が演じたベトナム人の嫁という役柄に、本物のベトナム人の嫁たちが抗議したためです。'
-date: '2026-05-11'
+date: 2026-05-11
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: 'Internet'
@@ -19,7 +19,7 @@ tags:
     '金鐘奨',
   ]
 readingTime: 12
-lastVerified: '2026-05-11'
+lastVerified: 2026-05-11
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/阿翰.md'

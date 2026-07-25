@@ -1,13 +1,13 @@
 ---
 title: '楊維哲：微積分から母語へ、数学界のパフォーミング・アーティスト'
 description: '台湾大学数学科名誉教授の楊維哲は、短パン、自転車、台湾語での授業で知られています。著名な画家・楊啓東の子として生まれた彼は、父命に背いて医学を捨て数学へ進み、1997 年には台湾語による授業をめぐって「違憲」論争を引き起こしました。彼は数学オリンピック推進の担い手であるだけでなく、陳文成事件における揺るぎない抵抗者でもあり、生涯を通じて論理と文化的主体性のあいだで「パフォーミング・アート」を実践しました。'
-date: '2026-05-30'
+date: 2026-05-30
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '科學與學術'
 tags: ['数学', '台湾語', '台湾大学', '教育', '楊維哲', '陳文成', '楊啓東']
 readingTime: 12
-lastVerified: '2026-05-30'
+lastVerified: 2026-05-30
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/楊維哲.md'

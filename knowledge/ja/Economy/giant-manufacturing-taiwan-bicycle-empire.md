@@ -3,7 +3,7 @@ title: '台湾企業：巨大機械'
 description: 'アメリカ大手ブランドに見捨てられた下請け工場から、世界の自転車技術標準を策定する見えざる帝国へ'
 date: 2026-03-22
 author: 'Taiwan.md Contributors'
-category: economy
+category: 'Economy'
 subcategory: '企業列傳'
 tags:
   [
@@ -24,6 +24,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:59a5006dd9b19748'
 sourceBodyHash: 'sha256:ba1854308daac0e3'
 translatedAt: 2026-05-01T18:02:56+08:00
+featured: false
 ---
 
 # 台湾企業：巨大機械

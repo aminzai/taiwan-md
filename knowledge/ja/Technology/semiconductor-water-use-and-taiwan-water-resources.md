@@ -17,7 +17,7 @@ tags:
   - '再生水'
   - 'サプライチェーン'
 subcategory: '半導体とハードウェア'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
@@ -184,6 +184,9 @@ The Verge がアリゾナの半導体の集積を報じたときも、チップ�
 ## 参考資料
 
 [^1]: [WIRED: Want to Win a Chip War? You’re Gonna Need a Lot of Water](https://www.wired.com/story/want-to-win-a-chip-war-youre-gonna-need-a-lot-of-water/) — WIRED 2023年の報道。半導体製造が超純水、水処理、地域の水資源を必要とすることを伝え、台湾の干ばつ期におけるチップ製造と農業用水の緊張にも触れている。
+
 [^2]: [TSMC Arizona](https://www.tsmc.com/static/abouttsmcaz/index.htm) — TSMC アリゾナの公式ページ。当該キャンパスへの投資、先端プロセスの計画、水の回収システム、工業用水の再生施設の目標を説明しており、海外での工場建設における水資源のガバナンスの事例として使える。
+
 [^3]: [The Verge: The new silicon valley (literally)](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley) — アリゾナの半導体の集積の拡大がもたらす雇用、地域の発展、水資源、環境、労働者の安全をめぐる論争の報道。海外での工場建設を地域社会の視点からバランスよく見るために使える。
+
 [^4]: [Roussilhe et al.: From Silicon Shield to Carbon Lock-in?](https://arxiv.org/abs/2209.12523) — 台湾の電子部品メーカー16社の2015〜2020年の環境フットプリントを研究し、水の使用、エネルギー、炭素排出が生産量の成長に伴って増えるリスクを提起している。

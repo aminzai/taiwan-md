@@ -12,6 +12,8 @@ sourceContentHash: 'sha256:2b4a824289c241f9'
 sourceBodyHash: 'sha256:12badc0094297f08'
 translatedAt: '2026-05-17T05:33:00Z'
 category: People
+author: 'Taiwan.md'
+featured: false
 ---
 
 # 林青霞：文芸の女神から武侠の伝説へ
@@ -135,7 +137,11 @@ category: People
 - [東方不敗 — 香港電影金像奨協会](https://www.hkfaa.com/) — 古典作品の評価
 
 [^1]: ウィキペディア〈林青霞〉項目：宋存壽は監督で、『窗外』（1973）の主演に招いた。https://zh.wikipedia.org/wiki/林青霞
+
 [^2]: 『窗外』（1973）は宋存壽監督、林青霞主演のデビュー作で、瓊瑤の同名小説の映画化。台湾電影網作品情報：https://taiwancinema.bamid.gov.tw/
+
 [^3]: 林青霞は 1994 年 6 月 29 日に香港の実業家・邢李原と結婚した後に芸能界から距離を置いた。関連報道はウィキペディア「林青霞」項目を参照。<https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
+
 [^4]: 『笑傲江湖 II 東方不敗』（1992）、徐克監督、林青霞が東方不敗を演じる。香港電影資料館所蔵。https://www.filmarchive.gov.hk/
+
 [^5]: 林青霞著『窗裡窗外』、天地圖書、2011 年。エッセイ集として文学界からも好評。<https://www.books.com.tw/products/0010512315>

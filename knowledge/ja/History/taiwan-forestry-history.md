@@ -16,7 +16,7 @@ tags:
   ]
 author: 'Taiwan.md'
 readingTime: 15
-featured: fales
+featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
 translatedFrom: History/台灣森林開發史.md

@@ -1,14 +1,14 @@
 ---
 title: '施振榮'
 description: '千億台湾ドル超の損失を認めた起業メンター、スマイルカーブ背後の失敗哲学'
-date: '2026-03-22'
+date: 2026-03-22
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
 tags: ['人物', '企業家', '科学技術', 'エイサー', 'スマイルカーブ']
-lastVerified: '2026-03-22'
+lastVerified: 2026-07-06
 lastHumanReview: false
-featured: false
+featured: true
 translatedFrom: 'People/施振榮.md'
 sourceCommitSha: 'd6e87d07'
 sourceContentHash: 'sha256:487d1e61a16e9b30'

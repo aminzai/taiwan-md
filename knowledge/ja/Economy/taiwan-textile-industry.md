@@ -5,15 +5,16 @@ date: 2026-07-20
 category: 'Economy'
 subcategory: '經濟發展'
 tags: ['紡織業', '隠形冠軍', '奧運', '循環經濟', '遠東新', '儒鴻', '聚陽']
-readingTime: '10'
+readingTime: 10
 lastVerified: 2026-07-20
-lastHumanReview: 'false'
-featured: 'false'
+lastHumanReview: false
+featured: false
 translatedFrom: 'Economy/紡織業.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:35a33cde93fda77c'
 sourceBodyHash: 'sha256:3e72d2709a13a90b'
 translatedAt: '2026-07-23T23:06:50+08:00'
+author: 'Taiwan.md Contributors'
 ---
 
 > 30秒概覽：台湾の繊維産業は、1960年代には勃興期の柱石でしたが、1990年代にはコスト圧力により「夕暮れの産業」という烙印を押されました。しかし、30年間の技術転換を経て、台湾は現在世界中の運動機能性布地の70%以上を供給しています[^1]。2024年パリ五輪における中華チームの「排ガスによる衣服製造」[^2]から、2026年ワールドカップ（世足）で出場する48チームのうち23チームが台湾産の糸を使用していること[^3]は、この島が廃棄物と先端技術を用いて、世界のサステナブルなファッションの基準を再定義していることを示しています。

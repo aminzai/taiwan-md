@@ -15,6 +15,7 @@ sourceCommitSha: '24efd20f3'
 sourceContentHash: 'sha256:46d9237ef98b45d7'
 sourceBodyHash: 'sha256:9fbe7b79e0934c74'
 translatedAt: '2026-05-15T13:52:05+08:00'
+difficulty: 'intermediate'
 ---
 
 # 台湾の国際貿易政策：グローバル化の潮流の中で位置づけを探る

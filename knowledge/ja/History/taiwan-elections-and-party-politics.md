@@ -15,6 +15,7 @@ sourceCommitSha: e957cf7f1
 sourceContentHash: sha256:35594d81e2470e05
 sourceBodyHash: sha256:7e75aac6f994b2f2
 translatedAt: 2026-05-28T05:08:34+08:00
+difficulty: 'beginner'
 ---
 
 # 台湾の選挙と政党政治

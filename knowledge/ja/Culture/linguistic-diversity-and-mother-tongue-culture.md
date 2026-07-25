@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:0f2cf9fae60042d8'
 sourceBodyHash: 'sha256:62570a25d7db63f6'
 translatedAt: '2026-05-17T05:34:50+08:00'
+difficulty: 'intermediate'
 ---
 
 # 言語的多様性と母語文化
@@ -262,7 +263,11 @@ translatedAt: '2026-05-17T05:34:50+08:00'
 ## 参考資料
 
 [^1]: 行政院客家委員会、「全国客家人口暨言語基礎資料調査研究」、2020年、https://www.hakka.gov.tw/chhakka/app/artwebsite?module=artwebsite&id=126&serno=null；調査機関や年度により、台湾語の使用割合は67〜72%の間で変動し、本稿ではより新しい統計値を採用している
+
 [^2]: 原住民族委員会、「原住民族語言使用状況調査報告」、2021年、https://www.cip.gov.tw/zh-tw/news/data-list/C30C260FE2AC91E5/index.html；アミ族の登録集団人口は約21万人だが、族語を流暢に使用する者はこの数字を大きく下回る
+
 [^3]: 黄宣範、[『言語、社会と族群意識』](https://www.sanmin.com.tw/product/index/000219830)、三民書局
+
 [^4]: 李壬癸、[『台湾南島民族の族群と遷徙』](https://www.books.com.tw/products/0010493437)
+
 [^5]: [国家言語發展法（2019年）](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143) — 台湾語、客家語、原住民語などの言語を国家言語として確立、[客家委員会](https://www.hakka.gov.tw/)、[原住民族委員会](https://www.apc.gov.tw/)関連出版物

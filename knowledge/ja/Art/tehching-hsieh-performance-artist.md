@@ -14,7 +14,7 @@ tags:
     'Pingtung',
   ]
 subcategory: 'Contemporary Art'
-author: 'Taiwan.md'
+author: 'Taiwan.md Contributors'
 category: 'Art'
 readingTime: 16
 lastVerified: 2026-04-20
@@ -24,6 +24,7 @@ sourceCommitSha: 'd520299b'
 sourceContentHash: 'sha256:97f19e04671843c8'
 translatedAt: '2026-06-10T16:41:16Z'
 sourceBodyHash: 'sha256:63227fedc7d1144a'
+featured: false
 ---
 
 ## Tehching Hsieh: The Taiwanese Artist Who Lived 14 Years of Illegal Status as a Performance Art Piece

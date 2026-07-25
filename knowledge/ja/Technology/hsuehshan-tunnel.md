@@ -1,12 +1,12 @@
 ---
 title: '雪山トンネル：「不可能な任務」から台湾工学の血涙の奇跡へ'
 description: '1997 年 12 月 15 日、湧水事故が三百人の命を危うく奪いかけ、さらに建造費十億元の掘削の切り札 TBM を鉄くずにしました。『ブリタニカ百科事典』で世界で最も困難な工事の一つに挙げられたこのトンネルは、単なる交通動脈ではありません。25 人の殉職者と無数の無名の英雄が、鋼より硬い四稜砂岩を掘り抜いて生み出した血涙の奇跡です。'
-date: '2026-04-29'
+date: 2026-04-29
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: '科技園區'
 tags: ['雪山トンネル', '交通建設', '宜蘭', '工学の奇跡', '台湾精神']
-lastVerified: '2026-04-29'
+lastVerified: 2026-04-29
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/雪山隧道.md'

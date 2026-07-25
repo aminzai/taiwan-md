@@ -23,7 +23,7 @@ tags:
   ]
 readingTime: 15
 lastVerified: 2026-05-18
-lastHumanReview: true
+lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/台東縣.md'
 sourceCommitSha: '31a05c44'

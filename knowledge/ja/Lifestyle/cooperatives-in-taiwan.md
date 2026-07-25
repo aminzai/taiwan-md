@@ -5,7 +5,7 @@ category: 'Lifestyle'
 subcategory: '教育'
 tags:
   ['校园文化', '生活協同組合', '台湾の歴史', '労働教育', '民主経済', '少子化']
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 date: 2026-04-30
 readingTime: 12
 translatedFrom: 'Lifestyle/合作社.md'
@@ -13,6 +13,9 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:0fc2fc46b99c9535'
 sourceBodyHash: 'sha256:adf1bdb77e6f4d74'
 translatedAt: '2026-05-01T14:48:26+08:00'
+featured: false
+lastVerified: 2026-04-30
+lastHumanReview: false
 ---
 
 # 生活協同組合：校門口から消えた民主主義の実験と肉まんの香り

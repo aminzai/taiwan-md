@@ -23,7 +23,7 @@ tags:
   ]
 readingTime: 17
 lastVerified: 2026-05-18
-lastHumanReview: true
+lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/新竹縣.md'
 sourceCommitSha: 'fe48ea49'

@@ -15,6 +15,7 @@ sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:352ce3febb583c17'
 sourceBodyHash: 'sha256:aaeb81e5f1416586'
 translatedAt: '2026-05-17T05:34:50+08:00'
+difficulty: 'intermediate'
 ---
 
 # 台湾の芸術教育と学院の発展
@@ -483,7 +484,11 @@ AI生成ツールの普及は、芸術教育に二重の衝撃を与えていま
 ## 参考資料
 
 [^1]: [国立台北芸術大学](https://w3.tnua.edu.tw/) — 公式サイトおよび校史資料
+
 [^2]: [国立台南芸術大学](https://www.tnnua.edu.tw/) — 校史文献と運営沿革
+
 [^3]: [国立台湾芸術大学](https://www.ntua.edu.tw/) — 歴史沿革と学院概要
+
 [^4]: [国立台湾師範大学美術学系](https://www.art.ntnu.edu.tw/) — 学系発展史とカリキュラム情報
+
 [^7]: [台湾芸術教育館](https://www.arte.gov.tw/) — 芸術教育政策研究資料

@@ -14,6 +14,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
 translatedAt: 2026-05-01T18:02:56+08:00
+author: 'Taiwan.md'
 ---
 
 # リー・チャンユー（李昌鈺）

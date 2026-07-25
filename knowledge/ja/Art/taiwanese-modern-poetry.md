@@ -13,6 +13,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:76772688d61c205f'
 sourceBodyHash: 'sha256:444e69e75502ca5e'
 translatedAt: '2026-06-16T17:10:30Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 # 台湾現代詩：予期せぬ本土化の予言

@@ -1,7 +1,7 @@
 ---
 title: '吳宝春：パイワン族の子どもへの約束'
 description: '屏東の農村出身で中学卒業、フランス語は話せない。彼はパリでリチューローズブレッドというパンで世界初のベーカリーマスター金メダルを獲得した――その中には10年前に先住民族の子どもに約束したことが込められている。'
-date: '2026-04-05'
+date: 2026-04-05
 category: 'People'
 tags:
   - '飲食'
@@ -14,9 +14,9 @@ tags:
 subcategory: '餐飲與職人'
 author: 'Taiwan.md'
 featured: true
-lastVerified: '2026-04-05'
+lastVerified: 2026-04-05
 lastHumanReview: false
-readingTime: '7'
+readingTime: 7
 translatedFrom: 'People/吳寶春.md'
 sourceCommitSha: 'fb0101886'
 sourceContentHash: 'sha256:299e6ec6dab64e0a'

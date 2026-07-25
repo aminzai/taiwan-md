@@ -1,7 +1,7 @@
 ---
 title: "Highways: From the MacArthur Highway to the Xueshan Tunnel, Taiwan's 50 Years of Power and Speed"
 description: "The MacArthur Highway, opened in 1964, was only 23 kilometers long; today, Taiwan's national highway network exceeds 1,000 kilometers. From the Zhongshan Expressway approved by Chiang Ching-kuo, the 'political road' (Fu-Hsin Expressway) that was mocked, the world's most difficult-to-dig Xueshan Tunnel, to ETC changing every driver's payment habits—each stretch of asphalt records post-war Taiwan's political will, engineering limits, and civilian resistance."
-date: 2026-05-03
+date: 2026-07-18
 tags:
   [
     'National Highway',
@@ -14,8 +14,8 @@ tags:
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
 subcategory: 'Lifestyle/Highways.md'
-readingTime: 10
-lastVerified: 2026-05-03
+readingTime: 15
+lastVerified: 2026-07-18
 lastHumanReview: false
 translatedFrom: 'Lifestyle/高速公路.md'
 sourceCommitSha: '4b6d28c5'
@@ -26,6 +26,7 @@ image: '/article-images/lifestyle/macarthur-thruway-opening-1964.webp'
 imageCredit: '台灣新生報'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:臺灣第一條高速公路—麥克阿瑟公路通車典禮_01.jpg'
+featured: false
 ---
 
 > **30-Second Overview**

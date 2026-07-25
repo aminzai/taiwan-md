@@ -1,7 +1,7 @@
 ---
 title: '侯孝賢'
 description: 'クローズアップを拒絶しながら世界を征服した映画詩人――反映画文法の映像革命家'
-date: '2026-03-24'
+date: 2026-03-24
 tags:
   [
     '侯孝賢',
@@ -16,7 +16,7 @@ subcategory: '電影與戲劇'
 author: 'Taiwan.md'
 featured: true
 readingTime: 15
-lastVerified: '2026-03-24'
+lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'People/侯孝賢.md'
 sourceCommitSha: '4b6d28c5'

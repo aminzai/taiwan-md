@@ -6,7 +6,7 @@ author: 'Taiwan.md'
 category: 'People'
 subcategory: '文學'
 tags: ['三毛', '散文', 'サハラ', 'ホセ', '橄欖樹', '滾滾紅塵', '流浪文学']
-readingTime: 7
+readingTime: 8
 lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
@@ -135,27 +135,50 @@ translatedAt: '2026-05-18T05:08:08+08:00'
 
 ## 参考文献
 
-[^1]: [ウィキペディア：三毛（作家）](https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)) — 基本伝記、著作年表、文学評価
+[^1]: [ウィキペディア：三毛（作家）](<https://zh.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B_(%E4%BD%9C%E5%AE%B6)>) — 基本伝記、著作年表、文学評価
+
 [^2]: [Chop Suey Club](https://www.chopsueyclub.com/blogs/blog/san-mao) — ホセの生年1951年、年齢差8歳、ドイツ人の婚約者
+
 [^3]: [Diario de Avisos](https://www.diariodeavisos.com/2012/01/cuando-la-tragedia-sepulto-el-arte/) — ホセの溺死場所ラ・パルマ島バルベンテ、日付、引き揚げの詳細
-[^4]: [ウィキペディア：滾滾紅塵（映画）](https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)) — 金馬賞第二十七回八部門受賞一覧
+
+[^4]: [ウィキペディア：滾滾紅塵（映画）](<https://zh.wikipedia.org/wiki/%E6%BB%9A%E6%BB%9A%E7%B4%85%E5%A1%B5_(%E9%9B%BB%E5%BD%B1)>) — 金馬賞第二十七回八部門受賞一覧
+
 [^5]: [ニューヨーク・タイムズ Overlooked](https://www.nytimes.com/2019/10/23/obituaries/sanmao-overlooked.html) — 1500万部の売上、国際的評価
+
 [^6]: [Paper Republic](https://paper-republic.org/pers/mike-fu/) — Bloomsbury英訳本、翻訳者マイク・フー、国家翻訳賞ノミネート
+
 [^7]: [典藏 ARTouch](https://artouch.com/art-views/content-2727.html) — 顧福生の泰安街画室の住所、十ヶ月間の指導、白先勇への推薦
+
 [^8]: [騰訊新聞](https://news.qq.com/rain/a/20240103A07USZ00) — ドイツ人婚約者の心臓病による急死、結婚名刺、睡眠薬服用
+
 [^9]: [放言 Fount Media](https://www.fountmedia.io/article/81860) — 『橄欖樹』原詞の「小さいロバ」「スペインの娘の大きな目」、楊祖珺による改詞、三毛の反応の原文
+
 [^10]: [China Heritage](https://chinaheritage.net/journal/that-olive-tree-in-my-dreams/) — 台湾広電処による『橄欖樹』放送禁止、文化的背景の分析
+
 [^11]: [騰訊新聞](https://news.qq.com/rain/a/20210917A0GH4S00) — 陳田心によるホセ死去時の回顧、三毛が自ら墓を掘ったこと
+
 [^12]: [中国時報](https://www.chinatimes.com/realtimenews/20210212001476-260405) — 王洛賓との関係の経緯、121日間、『待つ——死者への恋の歌』
+
 [^13]: [灼見名家](https://www.master-insight.com/%E6%BB%BE%E6%BB%BE%E7%B4%85%E5%A1%B530%E5%B9%B4) — 厳浩による四十夜の対話の回顧
+
 [^14]: [Yahoo 新聞](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC60-%E6%9C%89%E7%A8%AE%E7%9F%A5%E5%B7%B1%E6%98%AF%E7%B5%95%E4%B8%96%E7%BE%8E%E4%BA%BA%E8%88%87%E7%B5%95%E4%B8%96%E6%89%8D%E5%A5%B3-%E6%9E%97%E9%9D%92%E9%9C%9E%E5%98%86%E6%B2%92%E6%9C%89%E4%B8%89%E6%AF%9B-%E6%88%91%E4%B8%8D%E6%9C%83%E5%BE%97%E9%87%91%E9%A6%AC-022550834.html) — 林青霞「三毛がいなければ、私は金馬賞は取れなかった」
+
 [^15]: [民報](https://www.peoplemedia.tw/news/3f09f931-e786-4fd1-9ba8-542806656113) — 死に至る経緯、四つの説、医師の見解
+
 [^16]: [聯合文学 / PCHome](https://news.pchome.com.tw/magazine/print/cl/unitas/4326/129381120056326015006.htm) — 通俗文学vs純文学の位置づけ、正典化の大師の不在
+
 [^17]: [The World of Chinese](https://www.theworldofchinese.com/2024/01/san-mao-in-gran-canaria/) — Ruta Sanmaoルート、ホセの墓の訪問者名簿の統計（簡体字61% / 繁体字10% / スペイン語21%）
+
 [^18]: [国立台湾歴史博物館](https://women.nmth.gov.tw/?p=19358) — 『撒哈拉の物語』1976年出版による海峡両岸の読書ブーム
+
 [^19]: [国立台湾文学館](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01133) — 「台湾で最も売れており、最も影響力のある文学人」という評価
+
 [^20]: [Google Doodles](https://doodles.google/doodle/sanmaos-76th-birthday/) — 2019年三毛七十六歳誕生日ドゥードル、三毛文学賞1992年設立、Echoという名前の現象
+
 [^21]: [IMDB](https://www.imdb.com/title/tt13199754/) — スペインのドキュメンタリー映画 Sanmao: La novia del desierto (2020)
+
 [^22]: [三立新聞](https://www.setn.com/News.aspx?NewsID=1408845) — 司馬中原2024年1月4日死去、三毛との同月同日、生死の約束
+
 [^23]: [ピッツバーグ大学](https://d-scholarship.pitt.edu/31882/1/Ward_Sandi_San_Mao_Oasis_or_Mirage.pdf) — 三毛のノンフィクションとフィクションの境界を検討する学術論文
+
 [^24]: [大紀元](https://www.epochtimes.com/b5/1/8/22/n227609.htm) — 馬中欣『三毛真相』1996年出版、論争と批判

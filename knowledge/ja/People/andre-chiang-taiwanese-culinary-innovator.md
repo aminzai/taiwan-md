@@ -1,14 +1,14 @@
 ---
 title: '江振誠'
 description: '淡水商工から世界第14位へ、セーシェルでの悟りから台北大直への回帰へ。André Chiangは八角哲学をもって国際飲食界において台湾のシェフたちに新たな座標を打ち立てた'
-date: 2026-03-30
+date: 2026-07-17
 tags: [人物, 江振誠, 名シェフ, ミシュラン, RAW, 飲食, 台湾]
 subcategory: '餐飲與職人'
 category: 'People'
-lastVerified: 2026-03-30
+lastVerified: 2026-07-18
 lastHumanReview: false
-featured: false
-readingTime: 9
+featured: true
+readingTime: 13
 translatedFrom: People/江振誠.md
 sourceCommitSha: 'fb010188'
 sourceContentHash: 'sha256:5c3f4c327ba8e029'
@@ -18,6 +18,7 @@ image: '/article-images/people/andre-chiang-archi-2025.webp'
 imageCredit: 'archi 藝廚／凱渡廣場酒店提供'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.archipelago.com.tw/restaurant-detail/archi/'
+author: 'Taiwan.md'
 ---
 
 # 江振誠（André Chiang）

@@ -2,7 +2,7 @@
 title: '台湾ゲームジャム・コミュニティ：Global Game Jamの台湾上陸からKUSO GAME JAMの「廃作哲学」まで'
 description: '台湾のゲームジャム・コミュニティが10年間でいかにインディーゲームのエコシステムのインキュベーターと試験場へと成長したか——Global Game Jamの台湾への着地から、KUSO GAME JAMが「廃作」を哲学とするまで。'
 date: 2026-04-27
-category: '科技'
+category: 'Technology'
 tags:
   ['ゲーム', 'インディーゲーム', 'ゲームジャム', 'コミュニティ', 'KUSO', '創作']
 subcategory: 'ゲーム産業'

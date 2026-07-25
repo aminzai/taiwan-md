@@ -1,7 +1,7 @@
 ---
 title: '赤燭ゲームス——一枚の符が止められなかった台湾の物語'
 description: '2017年、6人の台湾人が白色テロをテーマにしたホラーゲームを作り、初週でSteamのグローバル売上ランキングに上りました。2019年、続編『還願』は一枚の符のせいで中国に全面封殺され、Steamから今も消えたままです。2024年、彼らは道教パンクのアクションゲーム『九日』で80万本を売り、Sonyインディーゲーム大賞を獲得しました。赤燭の物語はこうです——封殺された者が、作品で戻ってくる。'
-date: 2026-05-02
+date: 2026-04-25
 tags:
   [
     '赤燭ゲームス',
@@ -16,7 +16,7 @@ subcategory: '社群與數位文化'
 author: 'zaious'
 readingTime: 10
 category: 'Technology'
-lastVerified: 2026-05-02
+lastVerified: 2026-04-25
 featured: false
 lastHumanReview: false
 translatedFrom: 'Technology/赤燭遊戲.md'

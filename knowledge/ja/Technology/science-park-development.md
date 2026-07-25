@@ -1,7 +1,7 @@
 ---
 title: '台湾科学園区：一面の水田に賭け、世界の生命線を生み出し、同時に急所にもなりました'
 description: '1979 年、新竹金山面で、IBM から台湾へ戻った技術者の何宜慈が、一面の水田の上にアジア初の科学園区を建設しました。四十五年後、竹科、南科、中科の年間売上高は 5.8 兆を突破し、世界最先端の半導体チップがこの三つの園区で量産されています。しかし、この島にとって最強の護符は、同時に最も脆弱な急所でもあります。一度の干ばつ、一度の停電、一枚の地政学上のカードが、世界のサプライチェーン全体に息をのませるのです。'
-date: '2026-03-25'
+date: 2026-03-25
 author: 'Taiwan.md'
 category: 'Technology'
 subcategory: '半導體與硬體'
@@ -16,10 +16,10 @@ tags:
     'TSMC',
     'シリコン・シールド',
   ]
-readingTime: '18'
-lastVerified: '2026-05-29'
-lastHumanReview: 'false'
-featured: 'true'
+readingTime: 18
+lastVerified: 2026-05-29
+lastHumanReview: false
+featured: true
 translatedFrom: 'Technology/科技園區發展.md'
 sourceCommitSha: '11b9ab5c'
 sourceContentHash: 'sha256:b2e42e39e2b6099a'
@@ -29,6 +29,7 @@ image: '/article-images/technology/hsinchu-science-park-tsmc-fab5-2010.webp'
 imageCredit: 'Peellden'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG'
+difficulty: 'intermediate'
 ---
 
 # 台湾科学園区：一面の水田に賭け、世界の生命線を生み出し、同時に急所にもなりました

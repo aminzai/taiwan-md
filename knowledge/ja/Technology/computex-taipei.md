@@ -44,6 +44,8 @@ image: '/article-images/technology/computex-nangang-floor-2011.webp'
 imageCredit: 'Masaru Kamikura via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Computex_Taipei_sign_inside_of_Taipei_Nangang_Exhibition_Center_20110531.jpg'
+readingTime: 28
+difficulty: 'intermediate'
 ---
 
 # Computex：三大国際コンピュータ見本市のうち二つは幕を閉じ、残る一つは台北で育ちました

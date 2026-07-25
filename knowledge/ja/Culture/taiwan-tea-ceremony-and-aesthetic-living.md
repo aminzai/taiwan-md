@@ -15,6 +15,7 @@ sourceCommitSha: 'd520299b'
 sourceContentHash: 'sha256:493db11be1cffdc3'
 sourceBodyHash: 'sha256:31e39ab99f97ad00'
 translatedAt: '2026-06-16T17:19:04Z'
+difficulty: 'beginner'
 ---
 
 # 台湾茶道と生活美学

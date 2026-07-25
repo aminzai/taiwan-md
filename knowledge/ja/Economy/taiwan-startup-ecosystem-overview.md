@@ -21,6 +21,7 @@ sourceCommitSha: 'cfaa22a5'
 sourceContentHash: 'sha256:4ade9d7e43f9b0c2'
 sourceBodyHash: 'sha256:07a9caf907dd16bd'
 translatedAt: '2026-05-25T21:07:04Z'
+difficulty: 'intermediate'
 ---
 
 # スタートアップ・エコシステム

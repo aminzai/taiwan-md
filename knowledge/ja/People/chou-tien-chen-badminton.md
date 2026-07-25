@@ -1,7 +1,7 @@
 ---
 title: '周天成：台湾羽球一哥、世界2位の高さを振り上げる'
 description: '台湾男子シングルスで初の世界2位、そして初の林丹打破者。国家代表チーム加入後の十連敗の低迷、盲腸炎穿孔後のキリスト教洗礼、2023年34歳で初期大腸癌と診断され手術後数日で出国遠征、約一年の低迷を乗り越え、翌年パリオリンピックでベスト8に進出。周天成は天賦の才能に頼らず、「磨く」というラリー引き寄せ型のプレースタイルで、台湾羽球の可能な高さを次々と押し上げている。'
-date: '2026-06-29'
+date: 2026-06-29
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '體育'
@@ -13,8 +13,8 @@ tags:
   - 'オリンピック'
   - 'アスリート'
   - '台湾'
-readingTime: '14'
-lastVerified: '2026-06-29'
+readingTime: 14
+lastVerified: 2026-06-29
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/周天成.md'

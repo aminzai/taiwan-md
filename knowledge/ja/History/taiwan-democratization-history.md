@@ -21,6 +21,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:5c4c48886e261a1e'
 sourceBodyHash: 'sha256:1ac64c77bbabb1d3'
 translatedAt: '2026-05-02T13:45:56+08:00'
+featured: true
 ---
 
 # Democratization

@@ -15,6 +15,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:e096cf547c4b743c'
 sourceBodyHash: 'sha256:94870d211f5fa515'
 translatedAt: '2026-05-13T01:08:16Z'
+difficulty: 'intermediate'
 ---
 
 # 季麟連：扁系上将から韓国瑜の党籍除名を求める副主席へ

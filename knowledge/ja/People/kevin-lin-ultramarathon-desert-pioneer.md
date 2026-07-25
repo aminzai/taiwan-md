@@ -1,8 +1,8 @@
 ---
 title: '林義傑'
 description: '陸上競技部に拒絶された痩せた少年から、サハラ砂漠を徒歩で横断し歴史を築いた極地ランナーへ'
-date: '2026-03-22'
-category: 'people'
+date: 2026-03-22
+category: 'People'
 tags:
   [
     '人物',
@@ -13,7 +13,7 @@ tags:
     '台湾の誇り',
   ]
 subcategory: '體育'
-lastVerified: '2026-03-22'
+lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'People/林義傑.md'
@@ -21,6 +21,8 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:8741429d614846be'
 sourceBodyHash: 'sha256:3713eaac6b565ca6'
 translatedAt: '2026-05-13T01:08:16Z'
+author: 'Taiwan.md'
+featured: false
 ---
 
 > **30秒概覽：** 林義傑は、小学校で体育教師から「先輩に勝つな」と脅された痩せっぽちの少年でしたが、

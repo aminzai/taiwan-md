@@ -1,7 +1,7 @@
 ---
 title: '漯底山'
 description: '台湾で最も海岸に近い泥火山による悪地形であり、かつての軍事要塞は現在自然公園として整備され、活発な噴泥口と絶景の海沿い歩道を有しています。'
-date: '2026-03-23'
+date: 2026-03-23
 author: 'idlccp02'
 subcategory: '地標'
 tags: ['地理', '自然', '泥火山', '悪地形', '高雄', '弥陀区', '歩道', '軍事遺跡']
@@ -14,6 +14,7 @@ sourceContentHash: 'sha256:2cef849f8ebc6df7'
 sourceBodyHash: 'sha256:a56d3c9283c22ceb'
 translatedAt: '2026-05-01T18:09:43+08:00'
 category: Geography
+lastVerified: 2026-03-23
 ---
 
 # 漯底山

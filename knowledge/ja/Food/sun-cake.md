@@ -5,13 +5,16 @@ date: 2026-04-26
 tags: ['太陽餅', '台中グルメ', '魏清海', '顏水龍', '太陽堂', '麦芽糖']
 subcategory: '台湾菓子・土産菓子'
 category: 'Food'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md'
 readingTime: 8
 translatedFrom: 'Food/太陽餅.md'
 sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:9280fef1e637d1d1'
 sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
 translatedAt: '2026-05-01T14:48:26+08:00'
+featured: false
+lastVerified: 2026-04-26
+lastHumanReview: false
 ---
 
 > **30秒概覧：** 太陽餅（タイヤンビン）は最初からそう呼ばれていたわけではありません。清末民初の「麦芽酥餅（バーガオ・スービン）」が起源で、台中・北屯の職人・魏清海（ウェイ・チンハイ、別名「阿明師」）の改良によって今日の薄い皮とサクサクした食感の姿へと進化しました。1964年、芸術家・顏水龍（ガン・スイロン）が「太陽堂」のためにデザインしたひまわりのモザイク壁画は、「共産主義の宣伝をしている」と疑われ25年間封印されました。この政治的挿話がかえってこの菓子に伝説的な色彩を添えています。

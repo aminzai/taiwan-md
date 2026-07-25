@@ -8,13 +8,14 @@ subcategory: '民主と治理'
 tags: ['両岸関係', '台湾海峡危機', '歴史', '国際関係', '地政学']
 readingTime: 15
 lastVerified: 2026-03-25
-lastHumanReview: true
+lastHumanReview: false
 featured: false
 translatedFrom: History/台海危機與兩岸關係發展.md
 sourceCommitSha: 'dd39065b'
 sourceContentHash: 'sha256:fcdf343dc3efa72e'
 sourceBodyHash: 'sha256:8952fca56720f010'
 translatedAt: '2026-05-25T21:07:04Z'
+difficulty: 'advanced'
 ---
 
 # 台湾海峡危機と両岸関係の発展

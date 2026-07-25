@@ -22,6 +22,7 @@ sourceCommitSha: '4b6d28c5'
 sourceContentHash: 'sha256:bf3c7b57d2ee1eb5'
 sourceBodyHash: 'sha256:9eb2ce39000f61fe'
 translatedAt: '2026-05-01T19:52:32+08:00'
+featured: false
 ---
 
 # 台湾のコーヒー産業

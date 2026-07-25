@@ -1,7 +1,7 @@
 ---
 title: '杜聰明'
 description: '台湾初の医学博士であり、漸進断癮法を考案して17年間で11,498人がアヘン依存を脱却するのを支援し、高雄医学大学の創設者でもあります。'
-date: '2026-03-31'
+date: 2026-03-31
 subcategory: '歷史人物'
 tags:
   [
@@ -14,7 +14,7 @@ tags:
     '日治時期',
     '高雄医学大学',
   ]
-lastVerified: '2026-03-31'
+lastVerified: 2026-03-31
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/杜聰明.md'
@@ -23,6 +23,7 @@ sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
 translatedAt: '2026-05-16T22:19:52+00:00'
 category: People
+author: 'Taiwan.md'
 ---
 
 # 杜聰明

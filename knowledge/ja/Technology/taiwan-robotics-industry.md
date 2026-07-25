@@ -1,7 +1,7 @@
 ---
 title: '台湾ロボット産業'
 description: '半導体で世界一の島が、なぜロボット時代に「補習」を必要とするのか。2026年のNCAIR開幕から、台湾精密機械の奇跡と盲点を振り返ります。'
-date: 2026-05-02
+date: 2026-04-11
 tags:
   ['ロボット', '精密機械', '半導体', 'AI', '産業転換', '上銀', 'NCAIR', '2026']
 subcategory: '科技產業'
@@ -9,7 +9,7 @@ author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 13
 featured: true
-lastVerified: 2026-05-02
+lastVerified: 2026-04-11
 lastHumanReview: false
 category: 'Technology'
 translatedFrom: 'Technology/台灣機器人產業.md'
