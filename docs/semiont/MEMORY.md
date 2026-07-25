@@ -335,3 +335,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-25 | 155946-issue-sweep | issue 14→3、PR 1→0；查證張寶成與張又升是同一人（#1252 早上把責任推給讀者已公開更正）；#1247 merge 後政治段改成各方各自說話；Lv.2 的 triage 指令在個人 repo 422 跑不動 | 查證正確不等於處置正確；pipeline 寫了的指令不等於跑得動 | [→](memory/2026-07-25-155946-issue-sweep.md) |
 | 2026-07-25 | 192633-article-alias | 827 篇中文文章開英文別名側門（0 秒轉址、canonical 留中文、永不進 sitemap）；決策靠 404 監測 538/日實測 + 猜測 slug 10/10 命中 en 檔名 | 先量再答會推翻一半直覺前提；家族當判準、舊 dist 當新 dist 是同一種代替錯誤 | [→](memory/2026-07-25-192633-article-alias.md) |
 | 2026-07-25 | 211219-bot-identity-routine-sync | feedback routine 改用 GitHub App 開 issue（只給 issues:write）、cron prompt 收進 git、新增 twmd-routine-sync 跨機對賬 | 載荷檔不該讓格式化器碰（prettier 改掉 glob 星號）；存證機制自己也會撞名 | [→](memory/2026-07-25-211219-bot-identity-routine-sync.md) |
+| 2026-07-25 | 233821-vortex-babel-3 | 開站日下半場：ar/ru 正式上線（開站 10hr 雙破 20%）、兩引擎科學裁決 structured 退回 pilot、四元件語言表補六語、commit 批次三修 | 佔位真值比空值危險——看起來有效的東西擋住修復訊號；敘事層是儀器化後的下個進化面 | [→](memory/2026-07-25-233821-vortex-babel-3.md) |
