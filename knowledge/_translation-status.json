@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T07:41:20+08:00",
-    "zhCommitHead": "80dcd777d",
+    "lastUpdated": "2026-07-26T07:47:25+08:00",
+    "zhCommitHead": "06a66bd7b",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 865,
-        "fresh": 719,
-        "stale": 141,
+        "fresh": 720,
+        "stale": 140,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 865,
-        "fresh": 248,
+        "fresh": 249,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 606,
+        "missing": 605,
         "orphan": 0
       },
       "pt": {
@@ -83,18 +83,18 @@
       },
       "hi": {
         "total_zh": 865,
-        "fresh": 317,
+        "fresh": 318,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 541,
+        "missing": 540,
         "orphan": 0
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 266,
+        "fresh": 268,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 598,
+        "missing": 596,
         "orphan": 0
       },
       "ru": {
@@ -2227,7 +2227,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/fire-ex.md",
+          "translatedFrom": "Music/滅火器樂團.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ff50a058e16cd318",
+          "sourceBodyHash": "sha256:4b22b6f4b3e09c1b",
+          "translatedAt": "2026-07-26T07:02:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -4306,10 +4317,32 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/giant-manufacturing-taiwan-bicycle-empire.md",
+          "translatedFrom": "Economy/台灣企業：巨大機械.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:59a5006dd9b19748",
+          "sourceBodyHash": "sha256:ba1854308daac0e3",
+          "translatedAt": "2026-07-26T07:02:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/giant-manufacturing-taiwan-bicycle-empire.md",
+          "translatedFrom": "Economy/台灣企業：巨大機械.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:59a5006dd9b19748",
+          "sourceBodyHash": "sha256:ba1854308daac0e3",
+          "translatedAt": "2026-07-26T07:02:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/giant-manufacturing-taiwan-bicycle-empire.md",
@@ -33329,18 +33362,16 @@
         "fr": {
           "path": "fr/Society/taiwan-disaster-volunteer-culture.md",
           "translatedFrom": "Society/台灣災難志工文化.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:2758b5b1f9c739df",
-          "sourceBodyHash": "sha256:5c5a60eea00bbc8d",
-          "translatedAt": "2026-06-16T17:05:54Z",
+          "sourceCommitSha": "ae0bea081",
+          "sourceContentHash": "sha256:c3e60eb6650d8dfb",
+          "sourceBodyHash": "sha256:260082957a9cf952",
+          "translatedAt": "2026-07-26T05:17:37+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -87833,7 +87864,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/linkou-new-town.md",
+          "translatedFrom": "Geography/林口新市鎮.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:bdae42ffe0d36150",
+          "sourceBodyHash": "sha256:57cdd81fe5d56c02",
+          "translatedAt": "2026-07-26T07:02:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 35,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/linkou-new-town.md",
@@ -88301,8 +88343,8 @@
           "sourceContentHash": "sha256:339ea6f63f12308d",
           "sourceBodyHash": "sha256:13a49441594ebd54",
           "translatedAt": "2026-07-26T05:17:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "06a66bd7",
+          "translationLastModified": "2026-07-26T07:41:20+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
@@ -98805,8 +98847,8 @@
           "sourceContentHash": "sha256:158a36dc208ac1d9",
           "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
           "translatedAt": "2026-07-26T05:17:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "06a66bd7",
+          "translationLastModified": "2026-07-26T07:41:20+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
