@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T01:25:00+08:00",
-    "zhCommitHead": "9d20fd220",
+    "lastUpdated": "2026-07-26T01:37:01+08:00",
+    "zhCommitHead": "fab47683c",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -75,34 +75,34 @@
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 348,
+        "fresh": 349,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 505,
+        "missing": 504,
         "orphan": 0
       },
       "hi": {
         "total_zh": 865,
-        "fresh": 285,
+        "fresh": 286,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 573,
+        "missing": 572,
         "orphan": 0
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 216,
+        "fresh": 220,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 648,
+        "missing": 644,
         "orphan": 0
       },
       "ru": {
         "total_zh": 865,
-        "fresh": 244,
+        "fresh": 246,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 620,
+        "missing": 618,
         "orphan": 0
       }
     },
@@ -11893,7 +11893,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/e-commerce-and-digital-payment-ecosystem.md",
+          "translatedFrom": "Technology/電子商務與數位支付生態系.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:e6d4ecca5e8c9269",
+          "sourceBodyHash": "sha256:8a4126afbbcc2d61",
+          "translatedAt": "2026-07-26T00:16:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -12484,8 +12495,8 @@
           "sourceContentHash": "sha256:a7ab7951cc810aea",
           "sourceBodyHash": "sha256:584e7ee9d0c2d903",
           "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -12746,8 +12757,8 @@
           "sourceContentHash": "sha256:692543a60baf3299",
           "sourceBodyHash": "sha256:bb5064886298647d",
           "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -13148,7 +13159,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/chuanqi-net-and-taiwan-online-gaming.md",
+          "translatedFrom": "Technology/傳奇網路與台灣線上遊戲出海.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:fc8499d85802cbbd",
+          "sourceBodyHash": "sha256:04d95f993c4d6e33",
+          "translatedAt": "2026-07-26T00:16:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -14213,8 +14235,8 @@
           "sourceContentHash": "sha256:5d8fd5b2e9fb7126",
           "sourceBodyHash": "sha256:05a2488db4c17ec6",
           "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -14540,8 +14562,8 @@
           "sourceContentHash": "sha256:041d66a77659bdef",
           "sourceBodyHash": "sha256:d2c0d3b4dad31bc9",
           "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -15946,8 +15968,8 @@
           "sourceContentHash": "sha256:6f90dbf2e1df699d",
           "sourceBodyHash": "sha256:f903cddb5dedf5bd",
           "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -16218,7 +16240,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-gamers-wildest-moments.md",
+          "translatedFrom": "Technology/台灣玩家的瘋狂時刻.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:03ef929d72a03265",
+          "sourceBodyHash": "sha256:dd0e3abb83d55e63",
+          "translatedAt": "2026-07-26T00:17:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -16746,8 +16779,8 @@
           "sourceContentHash": "sha256:d882a7c06037e89c",
           "sourceBodyHash": "sha256:abaef255e91e930b",
           "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -16964,8 +16997,8 @@
           "sourceContentHash": "sha256:d29637a833e9cde7",
           "sourceBodyHash": "sha256:31177a634927a74f",
           "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -18487,8 +18520,8 @@
           "sourceContentHash": "sha256:76772688d61c205f",
           "sourceBodyHash": "sha256:444e69e75502ca5e",
           "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -18715,7 +18748,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/taiwanese-theater-and-performing-arts.md",
+          "translatedFrom": "Art/台灣劇場與表演藝術.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:cddfbcb9ade43ff2",
+          "sourceBodyHash": "sha256:0f8dee8662286dcf",
+          "translatedAt": "2026-07-26T00:16:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Art/taiwanese-theater-and-performing-arts.md",
@@ -18741,8 +18785,8 @@
           "sourceContentHash": "sha256:cddfbcb9ade43ff2",
           "sourceBodyHash": "sha256:0f8dee8662286dcf",
           "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -18872,8 +18916,8 @@
           "sourceContentHash": "sha256:c3ce92b18e6d1aeb",
           "sourceBodyHash": "sha256:621573191262d79d",
           "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -18992,8 +19036,8 @@
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
           "translatedAt": "2026-07-26T00:17:01+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -21020,7 +21064,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/qseries-drama-platform.md",
+          "translatedFrom": "Art/植劇場.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:37996f439df838f6",
+          "sourceBodyHash": "sha256:0818e9fb5c8333f5",
+          "translatedAt": "2026-07-26T00:17:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -21232,18 +21287,7 @@
           "reason": "same-commit"
         },
         "hi": {
-          "path": "hi/Art/traditional-arts-of-taiwan.md",
-          "translatedFrom": "Art/台灣傳統藝術.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:8199dcc4edeb2fce",
-          "sourceBodyHash": "sha256:de7228ea44ad062e",
-          "translatedAt": "2026-07-25T21:33:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -23918,7 +23962,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/taiwan-education-system.md",
+          "translatedFrom": "Lifestyle/台灣教育制度.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:4e9ca27840e47d5f",
+          "sourceBodyHash": "sha256:0a4c39eae3411ae0",
+          "translatedAt": "2026-07-26T00:16:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-education-system.md",
@@ -23927,8 +23982,8 @@
           "sourceContentHash": "sha256:4e9ca27840e47d5f",
           "sourceBodyHash": "sha256:0a4c39eae3411ae0",
           "translatedAt": "2026-07-25T21:33:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -24144,7 +24199,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/hot-spring-culture.md",
+          "translatedFrom": "Lifestyle/溫泉文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5c053dd9110acc9b",
+          "sourceBodyHash": "sha256:62212c95c5c34acf",
+          "translatedAt": "2026-07-26T00:16:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/hot-spring-culture.md",
@@ -24153,8 +24219,8 @@
           "sourceContentHash": "sha256:5c053dd9110acc9b",
           "sourceBodyHash": "sha256:62212c95c5c34acf",
           "translatedAt": "2026-07-25T21:33:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -24284,8 +24350,8 @@
           "sourceContentHash": "sha256:0fc2fc46b99c9535",
           "sourceBodyHash": "sha256:adf1bdb77e6f4d74",
           "translatedAt": "2026-07-25T21:33:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -24546,8 +24612,8 @@
           "sourceContentHash": "sha256:ef208b370e332f10",
           "sourceBodyHash": "sha256:1f3fd4501700702b",
           "translatedAt": "2026-07-25T21:33:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -25361,7 +25427,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/line-app-in-taiwan.md",
+          "translatedFrom": "Lifestyle/LINE.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:e36f0dcb06bdb5d7",
+          "sourceBodyHash": "sha256:45c225df72a18f73",
+          "translatedAt": "2026-07-26T00:16:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/line-app-in-taiwan.md",
@@ -25370,8 +25447,8 @@
           "sourceContentHash": "sha256:e36f0dcb06bdb5d7",
           "sourceBodyHash": "sha256:45c225df72a18f73",
           "translatedAt": "2026-07-25T21:33:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -26048,8 +26125,8 @@
           "sourceContentHash": "sha256:dfdfbf0a5674de0a",
           "sourceBodyHash": "sha256:6054d2cc1d83cb36",
           "translatedAt": "2026-07-25T21:33:50+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fab47683",
+          "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -32051,7 +32128,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-youth-career-confusion.md",
+          "translatedFrom": "Society/台灣青年的生涯迷航.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:065fff6d074c6e52",
+          "sourceBodyHash": "sha256:6672f01b9aa7c341",
+          "translatedAt": "2026-07-26T00:16:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-youth-career-confusion.md",
