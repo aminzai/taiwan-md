@@ -82,7 +82,12 @@ def heal(zh_path: Path, trans_path: Path, check_only: bool = False) -> tuple[int
     tr_text = trans_path.read_text(encoding="utf-8")
     tr_parts = parse_fm(tr_text)
     if not zh_parts or not tr_parts:
-        return 1, ["frontmatter 解析失敗"]
+        # 分清是哪一邊壞——2026-07-25 存量清償時五語各報一篇「解析失敗」，
+        # 追下去全是同一個 zh 源（About/台灣官方網站資源.md，全站唯一無
+        # frontmatter 的歷史遺留特例）。訊息不指名哪邊，讀起來像譯文壞了，
+        # 差點往錯的方向修。
+        side = "zh 源" if not zh_parts else "譯文"
+        return 1, [f"frontmatter 解析失敗（{side}：{zh_path.name if not zh_parts else trans_path.name}）"]
     _, zh_body, _ = zh_parts
     head, tr_body, tail = tr_parts
 
