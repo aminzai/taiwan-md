@@ -732,6 +732,108 @@ export const dashboardUI = {
     'dashboard.growth.total': 'संचयी लेख',
     'dashboard.growth.daily': 'प्रतिदिन नए',
   },
+  ar: {
+    // Meta
+    'dashboard.meta.title':
+      'لوحة القيادة — مراقبة الكيان الرقمي في الوقت الفعلي',
+    'dashboard.meta.description':
+      'المراقبة الصحية الفورية للكيان الرقمي Taiwan.md — نظرة عامة على المقالات، صحة الأعضاء، تغطية الترجمة، مؤشرات النمو',
+
+    // Hero
+    'dashboard.hero.title': 'مراقبة الكيان الرقمي في الوقت الفعلي',
+    'dashboard.hero.subtitle': 'غرفة التشريح العلنية لـ Taiwan.md',
+    'dashboard.hero.description':
+      'كل عضو، كل خلية، كل نبضة قلب — مرئية بشفافية.',
+
+    // Vital Signs
+    'dashboard.vitals.title': 'العلامات الحيوية',
+    'dashboard.vitals.heartbeat': 'نبض القلب',
+    'dashboard.vitals.heartbeat.desc': 'مقالات جديدة/محدثة خلال آخر 7 أيام',
+    'dashboard.vitals.cells': 'إجمالي عدد الخلايا',
+    'dashboard.vitals.cells.desc': 'مقالات بالصينية (SSOT)',
+    'dashboard.vitals.immunity': 'المناعة',
+    'dashboard.vitals.immunity.desc': 'نسبة المراجعة البشرية المكتملة',
+    'dashboard.vitals.dna': 'تنوع الحمض النووي',
+    'dashboard.vitals.dna.desc': 'تغطية اللغات',
+    'dashboard.vitals.revision': 'عمق التعديل',
+    'dashboard.vitals.revision.desc': 'متوسط عدد التعديلات لكل مقال',
+    'dashboard.vitals.featured': 'مختار',
+    'dashboard.vitals.featured.desc': 'مقالات تحت الضوء',
+
+    // Article Registry
+    'dashboard.registry.title': 'قائمة المقالات الشاملة',
+    'dashboard.registry.subtitle': 'قائمة كاملة لكل خلية في الكيان الحي',
+    'dashboard.registry.search': 'البحث في المقالات...',
+    'dashboard.registry.filter.category': 'التصنيف',
+    'dashboard.registry.filter.all': 'الكل',
+    'dashboard.registry.filter.reviewed': 'مراجعة بشرية',
+    'dashboard.registry.filter.reviewed.yes': 'تمت المراجعة',
+    'dashboard.registry.filter.reviewed.no': 'لم تتم المراجعة',
+    'dashboard.registry.filter.featured': 'مختار',
+    'dashboard.registry.filter.translation': 'الترجمة',
+    'dashboard.registry.filter.translation.has-en': 'يوجد إنجليزي',
+    'dashboard.registry.filter.translation.missing-en': 'ينقص إنجليزي',
+    'dashboard.registry.col.title': 'العنوان',
+    'dashboard.registry.col.category': 'التصنيف',
+    'dashboard.registry.col.date': 'التاريخ',
+    'dashboard.registry.col.verified': 'موثق',
+    'dashboard.registry.col.reviewed': 'مُراجع',
+    'dashboard.registry.col.words': 'عدد الكلمات',
+    'dashboard.registry.col.tags': 'الوسوم',
+    'dashboard.registry.col.translations': 'اللغات',
+    'dashboard.registry.col.revisions': 'التعديلات',
+    'dashboard.registry.showing': 'عرض',
+    'dashboard.registry.of': '/',
+    'dashboard.registry.articles': 'مقال',
+
+    // Organism Anatomy
+    'dashboard.organism.title': 'تشريح الأعضاء',
+    'dashboard.organism.subtitle': 'حالة صحة كل نظام عضوي',
+    'dashboard.organism.score': 'درجة الصحة',
+    'dashboard.organism.trend.up': 'في ارتفاع',
+    'dashboard.organism.trend.down': 'في انخفاض',
+    'dashboard.organism.trend.stable': 'مستقر',
+
+    // Translation Coverage
+    'dashboard.translation.title': 'تغطية الترجمة',
+    'dashboard.translation.subtitle': 'كم خلية تم نسخها بلغات مختلفة',
+    'dashboard.translation.ssot': 'مصدر الحقيقة الوحيد',
+    'dashboard.translation.full': 'تغطية كاملة',
+    'dashboard.translation.growing': 'في نمو',
+    'dashboard.translation.seedling': 'مرحلة البادرة',
+    'dashboard.translation.legend.aria': 'شرح حالة الترجمة',
+    'dashboard.translation.legend.fresh': 'حديث — متزامن مع النص الصيني الأصلي',
+    'dashboard.translation.legend.stale':
+      'قديم — تم تحديث النص الصيني الأصلي، لكن الترجمة لم تلحق',
+    'dashboard.translation.legend.missing': 'غير مترجم — لم يُترجم بعد',
+    'dashboard.translation.legend.format':
+      'مُترجم / غير مُترجم·قديم (حسب التصنيف)',
+
+    // Immune System
+    'dashboard.immune.title': 'جهاز المناعة',
+    'dashboard.immune.subtitle': 'حالة الدفاع عن الجودة والمهام قيد الانتظار',
+    'dashboard.immune.reviewed': 'مراجعة بشرية',
+    'dashboard.immune.featured': 'مقالات مختارة',
+    'dashboard.immune.verified': 'التحقق الأخير',
+    'dashboard.immune.defense.title': 'خطوط الدفاع',
+    'dashboard.immune.defense.line1': 'quality-scan.sh',
+    'dashboard.immune.defense.line1.desc': 'فحص تلقائي، اعتراض إذا > 4 نقاط',
+    'dashboard.immune.defense.line2': 'مراجعة PR',
+    'dashboard.immune.defense.line2.desc': 'معيار EDITORIAL v4',
+    'dashboard.immune.defense.line3': 'إعادة كتابة الجودة',
+    'dashboard.immune.defense.line3.desc': 'إعادة كتابة بمحفز يدوي',
+    'dashboard.immune.defense.line4': 'تحديث EDITORIAL',
+    'dashboard.immune.defense.line4.desc': 'تطور الجينات الجودة',
+    'dashboard.immune.queue.title': 'قائمة المناعة قيد الانتظار',
+    'dashboard.immune.queue.desc':
+      'المقالات الأكثر احتياجًا للمراجعة البشرية (الأقدم أولًا)',
+
+    // Growth
+    'dashboard.growth.title': 'الخط الزمني للنمو',
+    'dashboard.growth.subtitle': 'تطور الكيان الحي مع مرور الوقت',
+    'dashboard.growth.total': 'المقالات المتراكمة',
+    'dashboard.growth.daily': 'المقالات المضافة يوميًا',
+  },
   'zh-TW': {
     // Meta
     'dashboard.meta.title': 'Dashboard — 數位生命體即時監測',

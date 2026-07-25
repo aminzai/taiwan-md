@@ -310,6 +310,40 @@ export const timelineUI = {
     'timeline.outroContribute': 'एक लेख का योगदान दें',
     'timeline.outroHistory': 'इतिहास श्रेणी देखें',
   },
+  ar: {
+    'timeline.figures': 'وجوه هذه الحقبة',
+    'timeline.prologueSource':
+      'تستند منهجية تقسيم هذه الصفحة إلى «رؤية تاريخ جزيرة تايوان» التي طرحها المؤرخ تساو يونغ-هيو في عام 1990.',
+    'timeline.prologueSourceCta': 'اقرأ هذا المقال',
+    'timeline.outroMap': 'تايوان الجغرافية: الخريطة',
+    'timeline.statEras': 'حقبة',
+    'timeline.statEvents': 'لحظة مفصلية',
+    'timeline.statArticles': 'مقال متصل بالمحور',
+    'timeline.outroLinked': 'مقال متصل بهذا المحور',
+    'nav.timeline': 'تايوان الزمنية',
+    'nav.timeline.subtitle': 'فكّ شفرة الجزيرة عبر الزمن',
+    'timeline.meta.title':
+      'تايوان الزمنية: خط زمني من ما قبل التاريخ إلى الحاضر',
+    'timeline.meta.description':
+      'انزلق من الأعلى إلى الأسفل لفك شفرة كل حقبة في تايوان: أصول الشعوب الأسترونيزية، التنافس بين الهولنديين والأسبان، عهد مينغ تشنغ، الحكم الصيني، الحكم الياباني، حالة الطوارئ، التحول الديمقراطي وحتى العصر المعاصر. كل حقبة تليها مقالات بحثية عميقة.',
+    'timeline.eyebrow': 'من ما قبل التاريخ إلى الحاضر',
+    'timeline.title': 'تايوان الزمنية',
+    'timeline.subtitle':
+      'ترسم الخريطة هذه الجزيرة عبر المكان، وتُفكّ هذه الصفحة شفراتها عبر الزمن. انزلق من عصور ما قبل التاريخ إلى يومنا هذا، حيث تلي كل حقبة مقالات ودراسات.',
+    'timeline.heroNote':
+      'الجزيرة هي المسرح، والإنسان هو البطل — الأنظمة السياسية مجرد ممثلين يأتون ويذهبون.',
+    'timeline.jumpLabel': 'انتقل إلى حقبة معينة',
+    'timeline.events': 'لحظات مفصلية',
+    'timeline.anchorsLabel': 'ابدأ القراءة من هنا',
+    'timeline.articlesLabel': 'مقالات هذه الحقبة',
+    'timeline.desertTitle': 'هذه الفترة رقيقة جدًا',
+    'timeline.desertCta': 'اكتبها معنا',
+    'timeline.outroTitle': 'أنت أيضًا كاتب للتاريخ',
+    'timeline.outroBody':
+      'هذا المحور مُخيط بمقالات الموقع، وهو بعيد كل البعد عن الاكتمال — بعض الحقوب لا تزال شبه فارغة. Taiwan.md هو مخزن معرفي مفتوح المصدر: كل فراغ هو دعوة.',
+    'timeline.outroContribute': 'ساهم بمقال',
+    'timeline.outroHistory': 'تصفح تصنيف التاريخ',
+  },
   'zh-TW': {
     'timeline.figures': '這個時代的臉',
     'timeline.prologueSource':

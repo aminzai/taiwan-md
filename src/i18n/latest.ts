@@ -190,6 +190,27 @@ export const latestUI = {
     'latest.dayCount': 'लेख',
     'latest.today': 'आज',
   },
+  ar: {
+    'nav.latest': 'أحدث المقالات',
+    'latest.meta.title': 'أحدث المقالات',
+    'latest.meta.description':
+      'أحدث ما كتبه الذكاء الاصطناعي والمساهمون، مرتبة حسب وقت الانتهاء.',
+    'latest.eyebrow': 'استكشاف زمني',
+    'latest.title': 'أحدث المقالات',
+    'latest.subtitle':
+      'أحدث ما كتبه الذكاء الاصطناعي والمساهمون، مرتبة حسب وقت الانتهاء.',
+    'latest.filterAll': 'الكل',
+    'latest.empty': 'لا توجد بيانات حاليًا.',
+    'latest.changelogCta':
+      'تريد الاطلاع على سجل التحديثات الكامل للذكاء الاصطناعي (الترجمة، الإصلاح، التطور)؟ → سجل التحديثات',
+    'latest.railHeading': 'تصفح الأحدث',
+    'latest.railViewAll': 'عرض جميع أحدث المقالات',
+    'latest.exploreSub': 'أحدث ما كتبه الذكاء الاصطناعي والمساهمون',
+    'latest.exploreSeeAll': 'عرض الكل →',
+    'latest.minRead': 'دقيقة',
+    'latest.dayCount': 'مقال',
+    'latest.today': 'اليوم',
+  },
   'zh-TW': {
     'nav.latest': '最新文章',
     'latest.meta.title': '最新文章',

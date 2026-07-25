@@ -3405,6 +3405,495 @@ export const dataUI = {
     'data.tooltip.employees': 'कर्मचारी',
     'data.tooltip.founded': 'स्थापना',
   },
+  ar: {
+    // Company Names (50 companies)
+    'data.company.taiwan-semiconductor': '台積電 TSMC',
+    'data.company.hon-hai-foxconn': '鴻海 Foxconn',
+    'data.company.mediatek': '聯發科 MediaTek',
+    'data.company.delta-electronics': '台達電 Delta',
+    'data.company.ase-group': '日月光 ASE',
+    'data.company.quanta-computer': '廣達 Quanta',
+    'data.company.cathay-financial': '國泰金控',
+    'data.company.fubon-financial': '富邦金控',
+    'data.company.chunghwa-telecom': '中華電信',
+    'data.company.umc': '聯電 UMC',
+    'data.company.uni-president': '統一企業',
+    'data.company.evergreen-marine': '長榮海運',
+    'data.company.asustek': '華碩 ASUS',
+    'data.company.pegatron': '和碩 Pegatron',
+    'data.company.formosa-petrochemical': '台塑化',
+    'data.company.mega-financial': '兆豐金控',
+    'data.company.china-steel': '中鋼',
+    'data.company.taiwan-mobile': '台灣大哥大',
+    'data.company.realtek': '瑞昱 Realtek',
+    'data.company.advantech': '研華 Advantech',
+    'data.company.formosa-plastics': '台塑',
+    'data.company.wistron': '緯創 Wistron',
+    'data.company.nan-ya-plastics': '南亞塑膠',
+    'data.company.compal-electronics': '仁寶 Compal',
+    'data.company.largan-precision': '大立光 Largan',
+    'data.company.acer': '宏碁 Acer',
+    'data.company.e-sun-financial': '玉山金控',
+    'data.company.taiwan-cement': '台泥',
+    'data.company.far-eastern-new-century': '遠東新世紀',
+    'data.company.ctbc-financial': '中信金控',
+    'data.company.yuanta-financial': '元大金控',
+    'data.company.giant-manufacturing': '巨大 Giant',
+    'data.company.first-financial': '第一金控',
+    'data.company.formosa-chemicals': '台化',
+    'data.company.fareastone': '遠傳電信',
+    'data.company.hua-nan-financial': '華南金控',
+    'data.company.lite-on-technology': '光寶科技',
+    'data.company.taiwan-cooperative-bank': '合庫金控',
+    'data.company.catcher-technology': '可成科技',
+    'data.company.taiwan-high-speed-rail': '台灣高鐵',
+    'data.company.htc': '宏達電 HTC',
+    'data.company.chang-chun-petrochemical': '長春石化',
+    'data.company.chi-mei-corporation': '奇美實業',
+    'data.company.wiwynn': '緯穎科技',
+    'data.company.powerchip-semiconductor': '力積電',
+    'data.company.unimicron-technology': '欣興電子',
+    'data.company.silergy': '矽力-KY',
+    'data.company.inventec': '英業達',
+    'data.company.hiwin-technologies': '上銀科技',
+    'data.company.novatek': '聯詠科技',
+
+    // Top-50 new entrants (2026 AI supply-chain repricing)
+    'data.company.elite-material': '台光電 Elite Material',
+    'data.company.accton': '智邦 Accton',
+    'data.company.avc': '奇鋐 AVC',
+    'data.company.chroma-ate': '致茂 Chroma',
+    'data.company.hon-precision': '鴻勁 Hon Precision',
+    'data.company.jentech': '健策 Jentech',
+    'data.company.gold-circuit': '金像電 Gold Circuit',
+    'data.company.nanya-technology': '南亞科 Nanya',
+    'data.company.yageo': '國巨 Yageo',
+    'data.company.nan-ya-pcb': '南電 Nan Ya PCB',
+    'data.company.taishin-shinkong': '台新新光金 Taishin',
+    'data.company.global-unichip': '創意 GUC',
+    'data.company.bizlink': '貿聯 BizLink',
+    'data.company.zhen-ding': '臻鼎 Zhen Ding',
+    'data.company.sinopac-financial': '永豐金 SinoPac',
+    'data.company.winbond': '華邦電 Winbond',
+    'data.company.winway': '穎崴 WinWay',
+    'data.company.king-slide': '川湖 King Slide',
+    'data.company.kyec': '京元電子 KYEC',
+    'data.company.kgi-financial': '凱基金 KGI',
+
+    // New AI-era sectors
+    'data.sector.networking': '網通',
+    'data.sector.cooling': '散熱',
+    'data.sector.testing': '測試',
+
+    // Fell-off-the-list reasons (displaced by the AI supply chain)
+    'data.fellOff.china-steel': '钢铁行业景气低迷，连年亏损，未搭上人工智能',
+    'data.fellOff.htc': '智能手机溃败，VR/XR 未能撑起规模',
+    'data.fellOff.taiwan-cement': '水泥主业疲弱，储能转型尚未放量',
+    'data.fellOff.far-eastern-new-century':
+      '聚酯化纤景气向下，传统产业缺乏人工智能题材',
+    'data.fellOff.giant-manufacturing': '自行车库存去化，营收连续三年衰退',
+
+    // Standalone /companies page
+    'data.companies.meta.title': '台湾前 50 大企业 — 人工智能时代的洗牌',
+    'data.companies.meta.description':
+      '用互动泡泡图看台湾市值前 50 大上市企业的市值、营收与员工数，以及人工智能供应链如何重写排行榜（2026/06 snapshot）。',
+    'data.companies.hero.title': '台湾前 50 大企业',
+    'data.companies.hero.subtitle': '泡泡面积即市值，2300 万人岛屿的产业版图',
+    'data.companies.hero.description':
+      '泡泡越大＝市值越高，颜色代表产业。可切换营收／员工数、点产业标签筛选、拖曳泡泡。',
+    'data.companies.snapshot':
+      '📊 资料来源：TWSE、2025 全年营收公告、各公司年报 · snapshot 2026/06（近似值，不构成投资建议）',
+    'data.companies.story.title': '人工智能浪潮把整座岛重新定价',
+    'data.companies.story.p1':
+      '短短两年，人工智能建置就重写了台湾的企业排行。台积电一家就占了全市场 43.8%（从 39% 一路垫高），前 10 大权重股合计约 61%。',
+    'data.companies.story.p2':
+      'TSMC 之后，涨上来的全是人工智能供应链：台达电靠人工智能电源一年冲上第 2（市值翻约 5 倍），联发科爆量，台光电、奇鋐、致茂、智邦、国巨一票 PCB/载板、散热、测试、网通名字挤进前 50，把约 20 家旧面孔换了下去。',
+    'data.companies.table.heading': '📋 完整排名',
+    'data.companies.table.rank': '#',
+    'data.companies.table.company': '企业',
+    'data.companies.table.sector': '产业',
+    'data.companies.table.marketCap': '市值（亿 TWD）',
+    'data.companies.table.revenue': '2025 营收（亿 TWD）',
+    'data.companies.table.employees': '员工数',
+    'data.companies.table.founded': '成立',
+    'data.companies.insights.heading': '🔍 关键洞察',
+    'data.companies.insights.card1.number': '43.8%',
+    'data.companies.insights.card1.label':
+      'حصة تايكرو من القيمة السوقية الإجمالية',
+    'data.companies.insights.card1.detail':
+      'ارتفعت من 39%، شركة واحدة تعادل أربعة أخماس مجموع كل ما تبقى',
+    'data.companies.insights.card2.number': '61%',
+    'data.companies.insights.card2.label':
+      'الأسهم ذات الأوزان العشرة الكبرى تمثل من القيمة السوقية',
+    'data.companies.insights.card2.detail':
+      'تركز عالٍ في عدد قليل من الأسهم الكبيرة',
+    'data.companies.insights.card3.number': 'حوالي 20',
+    'data.companies.insights.card3.label':
+      'دخلت القائمة خلال العامين الماضيين بفضل سلسلة التوريد الخاصة بالذكاء الاصطناعي',
+    'data.companies.insights.card3.detail':
+      'PCB/اللوحات الداعمة، التبريد، الاختبار، الاتصالات، لم تكن موجودة على القائمة قبل عامين',
+    'data.companies.insights.card4.number': '12',
+    'data.companies.insights.card4.label':
+      'عدد شركات التمويل والتحكم في أكبر 50',
+    'data.companies.insights.card4.detail':
+      'بعد الدمج، أصبحت الحجر الأساس الأكثر استقرارًا في المؤشر',
+    'data.companies.fellOff.title': '📉 من سقط من القائمة',
+    'data.companies.fellOff.intro':
+      'إعادة التسعير الخاصة بالذكاء الاصطناعي لها أيضًا خاسرون. أسماء هذه الأمة—الصلب، الأسمنت، النسيج، الدراجات الهوائية، الأبطال السابقون في الهواتف الذكية—انزاحت من القائمة العشرين الأولى عندما تدفقت الأموال نحو سلسلة التوريد الخاصة بالذكاء الاصطناعي.',
+    'data.companies.fellOff.marketCapNow': 'القيمة السوقية الحالية',
+    'data.companies.method.heading': '📝 شرح المنهجية',
+    'data.companies.method.body':
+      'تم استنتاج القيمة السوقية من خلال وزن مؤشر كل سهم في 2026/06 على TWSE، مضروبًا في القيمة السوقية الإجمالية للسوق المرساة بواسطة تايكرو (حوالي 59 تريليون دولار تايواني / 43.8%). الإيرادات هي إجمالي الإيرادات المدمجة لعام 2025 (تطبق شركات التمويل والتحكم على إيرادات التشغيل المدمجة، بما في ذلك التأمين). عدد الموظفين هو تقريب، مع محاولة الاعتماد على معايير المجموعة/المدمجة، لكن نطاق الاعتراف يختلف بين الشركات، لذا يُنظر إلى محور عدد الموظفين على أنه ترتيب حجمي، وليس كمقارنة دقيقة.',
+    'data.companies.related': '📖 قراءة إضافية',
+
+    // Category 1: Government Open Data
+    'data.category.1.title': 'بيانات الحكومة المفتوحة',
+    'data.category.1.description':
+      'مجموعات البيانات المنظمة ومنصات الإحصاء الصادرة عن الهيئات الحكومية',
+    'data.category.1.item.1.name': 'منصة بيانات الحكومة المفتوحة',
+    'data.category.1.item.1.desc':
+      'في عام 2020، استخدم المهندسون البيانات هنا لصنع خريطة قناع الوجه في 72 ساعة، لحل مشكلة طوابير الصيدليات على مستوى البلاد',
+    'data.category.1.item.2.name':
+      'قاعدة بيانات الإحصاءات التابعة للمكتب العام للإحصاء والمحاسبة',
+    'data.category.1.item.2.desc':
+      'الإحصاءات الوطنية الأساسية للسكان والاقتصاد والأسعار',
+    'data.category.1.item.3.name':
+      'قاعدة بيانات الانتخابات التابعة للمركز المركزي للانتخابات',
+    'data.category.1.item.3.desc': 'نتائج الانتخابات السابقة وبيانات التصويت',
+    'data.category.1.item.4.name': 'قاعدة البيانات القانونية الوطنية',
+    'data.category.1.item.4.desc':
+      'البحث الكامل في جميع القوانين والأوامر والسوابق القضائية',
+    'data.category.1.item.5.name': 'شبكة مراقبة جودة الهواء',
+    'data.category.1.item.5.desc': 'بيانات مراقبة AQI وPM2.5 في الوقت الفعلي',
+
+    // Category 2: Interactive Maps & Visualization
+    'data.category.2.title': 'خرائط تفاعلية وتصوير مرئي',
+    'data.category.2.description':
+      'أدوات المراقبة الفورية والبيانات الجغرافية والتصوير البيئي',
+    'data.category.2.item.1.name': 'خريطة ديناميكية لكابلات تايوان البحرية',
+    'data.category.2.item.1.desc':
+      'مراقبة الكابلات البحرية في الوقت الفعلي من تطوير民間، نموذج للتكنولوجيا المدنية',
+    'data.category.2.item.2.name': 'سحابة خدمات الخرائط والمسح الوطني',
+    'data.category.2.item.2.desc':
+      'بيانات خرائط تايوان، الصور الجوية، الملكية العقارية',
+    'data.category.2.item.3.name': 'مركز رصد الزلازل',
+    'data.category.2.item.3.desc': 'معلومات الزلازل الفورية والسجلات التاريخية',
+    'data.category.2.item.4.name':
+      'شبكة معلومات الوقاية من الكوارث التابعة لإدارة المياه',
+    'data.category.2.item.4.desc':
+      'حالة المياه الفورية، مستويات الأنهار، سعة تخزين السدود',
+    'data.category.2.item.5.name': 'المرصد البيئي الفوري',
+    'data.category.2.item.5.desc':
+      'مراقبة جودة الهواء والأشعة فوق البنفسجية وجودة المياه في الوقت الفعلي',
+
+    // Category 3: Civic Tech
+    'data.category.3.title': 'التكنولوجيا المدنية (Civic Tech)',
+    'data.category.3.description':
+      'المجتمعات مفتوحة المصدر، التحقق من الحقائق وأدوات الديمقراطية الرقمية',
+    'data.category.3.item.1.name': 'g0v حكومة الصفر ساعة',
+    'data.category.3.item.1.desc':
+      'تأسست في عام 2012، ولدت مشاريع تكنولوجيا مدنية غيرت تايوان مثل خريطة قناع الوجه، Cofacts، وvTaiwan',
+    'data.category.3.item.2.name': 'فعاليات التكنولوجيا المدنية KKTIX',
+    'data.category.3.item.2.desc':
+      'بوابة فعاليات مجتمع البيانات المفتوحة وهكاثون g0v',
+    'data.category.3.item.3.name': 'Cofacts صحيح أم خطأ',
+    'data.category.3.item.3.desc':
+      'الأخبار الكاذبة المنتشرة في مجموعات LINE، يمكن لأي شخص تقديمها للتحقق، وقد تراكم عشرات الآلاف من سجلات التحقق',
+    'data.category.3.item.4.name': 'vTaiwan',
+    'data.category.3.item.4.desc':
+      'استخدام خوارزمية Polis للبحث عن الإجماع، نجحت في التأثير على لوائح إدارة Uber، وقوانين التعليم عن بعد وغيرها من السياسات',
+    'data.category.3.item.5.name': 'JOIN منصة المشاركة في السياسات العامة',
+    'data.category.3.item.5.desc': 'اقتراحات الحكومة، التوقيع، مناقشة السياسات',
+
+    // Category 4: Data Journalism & Fact-Checking
+    'data.category.4.title': 'الصحافة القائمة على البيانات والتحقق من الحقائق',
+    'data.category.4.description':
+      'تقارير التحقيق العميق، التحقق من الحقائق ووسائل الإعلام القائمة على البيانات',
+    'data.category.4.item.1.name': 'المحققون',
+    'data.category.4.item.1.desc':
+      'تأسست في عام 2015، أول وسيلة إعلامية غير ربحية للتحقيق العميق في تايوان، كشفت عن قضايا عامة كبيرة متعددة',
+    'data.category.4.item.2.name': 'مركز التحقق من الحقائق في تايوان',
+    'data.category.4.item.2.desc':
+      'معتمد من التحالف الدولي للتحقق من الحقائق (IFCN)، شريك تحقق ثالث لـFacebook',
+    'data.category.4.item.3.name': 'READr قراءة+',
+    'data.category.4.item.3.desc':
+      'صحافة قائمة على البيانات وتقارير تصوير مرئي للبيانات المفتوحة',
+    'data.category.4.item.4.name': 'ARTouch التحف الفنية',
+    'data.category.4.item.4.desc':
+      'وسيلة إعلامية لأخبار الفن في تايوان ومراجعات عميقة',
+
+    // Category 5: Academic & Research
+    'data.category.5.title': 'الأكاديمي والبحث',
+    'data.category.5.description':
+      'التوثيق الرقمي، بيانات النظم البيئية ومجموعات البيانات التدريبية للذكاء الاصطناعي',
+    'data.category.5.item.1.name':
+      'المتحف المفتوح التابع للأكاديمية السينولوجية',
+    'data.category.5.item.1.desc':
+      'التوثيق الرقمي والتمثيل الافتراضي عبر الإنترنت',
+    'data.category.5.item.2.name': 'المكتبة الوطنية للذاكرة الثقافية',
+    'data.category.5.item.2.desc': 'الحفظ الرقمي للذاكرة الثقافية في تايوان',
+    'data.category.5.item.3.name': 'شبكة التنوع البيولوجي في تايوان',
+    'data.category.5.item.3.desc': 'توزيع الأنواع، المراقبة البيئية',
+    'data.category.5.item.4.name':
+      'مجموعة بيانات التدريب الخاصة بالذكاء الاصطناعي للسيادة التايوانية TAIC',
+    'data.category.5.item.4.desc':
+      'مجموعة بيانات تدريب الذكاء الاصطناعي المحلية في تايوان',
+
+    // Meta
+    'data.meta.title': '📊 تايوان البيانات — Taiwan.md',
+    'data.meta.description':
+      'تعرف على جزيرة من خلال الأرقام: خريطة الشركات، البيانات المفتوحة، الملامح الصحيحة لتايوان والتصوير التفاعلي',
+
+    // Hero
+    'data.hero.title': 'تايوان البيانات',
+    'data.hero.subtitle':
+      'استخدم التصوير التفاعلي والبيانات المفتوحة للتعرف على الوجه الحقيقي لجزيرة',
+    'data.hero.description':
+      'هذا هو معرض بيانات تايوان. من خريطة الشركات إلى البيانات المفتوحة، من الملامح الصحيحة لتايوان إلى تجارب الديمقراطية الرقمية—نستخدم التصوير التفاعلي والموارد المفتوحة لنجعل الأرقام تروي قصة تايوان.',
+
+    // Enterprise Section
+    'data.enterprise.title': '🏢 خريطة الشركات',
+    'data.enterprise.story.p1':
+      'كيف يمكن لجزيرة أن تدعم سلسلة التوريد العالمية؟',
+    'data.enterprise.story.p2':
+      'من قيمة تايكرو السوقية البالغة 267 مليار دولار إلى 870 ألف موظف في فوكسيكونغ، تشكل أكبر 50 شركة في تايوان العمود الفقري الاقتصادي لهذه الجزيرة. تؤكد 12 شركة من أشباه الموصلات اسم "درع السيليكون"، وتدعم 12 شركة من التمويل والتحكم الاستقرار المالي، وتربط عملاق التصنيع الحياة الرقمية العالمية. استكشف بخريطة الفقاعات كيف تخلق تايوان 4% من الناتج المحلي الإجمالي العالمي بنسبة 2% من سكان العالم.',
+    'data.enterprise.controls.sizeLabel': 'حجم الفقاعة:',
+    'data.enterprise.controls.marketCap': 'القيمة السوقية',
+    'data.enterprise.controls.revenue': 'الإيرادات',
+    'data.enterprise.controls.employees': 'عدد الموظفين',
+    'data.enterprise.controls.filterAll': 'الكل',
+    'data.enterprise.insights.heading': 'رؤى رئيسية',
+    'data.enterprise.insights.card1.number': '43.8%',
+    'data.enterprise.insights.card1.label':
+      'تمثل شركة تايوان سيكوندكتورز (TSMC) من إجمالي القيمة السوقية لسوق تايوان للأسهم',
+    'data.enterprise.insights.card1.detail':
+      'شركة واحدة ≈ ثلثا (2/3) الشركات المدرجة الأخرى مجتمعة',
+    'data.enterprise.insights.card2.number': '72%',
+    'data.enterprise.insights.card2.label':
+      'تمثل أكبر 50 شركة من إجمالي القيمة السوقية لسوق تايوان للأسهم',
+    'data.enterprise.insights.card2.detail':
+      'تركز سوق تايوان للأسهم بشكل كبير على الشركات الكبرى',
+    'data.enterprise.insights.card3.number': '12 شركة',
+    'data.enterprise.insights.card3.label':
+      'شركات أشباه الموصلات مدرجة في القائمة',
+    'data.enterprise.insights.card3.detail':
+      'تؤكد «درع السيليكون» — أشباه الموصلات هي دفاع تايوان الوطني',
+    'data.enterprise.insights.card4.number': '12 شركة',
+    'data.enterprise.insights.card4.label':
+      'قطاع الخدمات المالية في القائمة الخمسين الأولى',
+    'data.enterprise.insights.card4.detail':
+      'قوة مستقرة بعد دمج شركات الخدمات المالية',
+    'data.enterprise.exploreLink': 'عرض التصنيف الكامل →',
+
+    // Taiwan vs World Section
+    'data.taiwanVsWorld.title': '🌏 موقع تايوان في العالم',
+    'data.taiwanVsWorld.story.p1':
+      'جزيرة صغيرة مساحتها تقارب بلجيكا، تكفي لإعالة 23 مليون نسمة، وتنتج 92% من الرقائق الحاسوبية الأكثر تقدمًا في العالم. كثافة الاقتصاد التايواني مذهلة: أرض أصغر من سويسرا، لكن عدد سكانها أكبر من أستراليا، ويصل متوسط الناتج المحلي الإجمالي للفرد إلى 75,000 دولار أمريكي.',
+    'data.taiwanVsWorld.story.p2':
+      'هذه الأرقام ليست مجرد إحصائيات — إنها مخطط قصة مستحيلة. كيف تخلق 0.32% من أراضي الأرض 4% من ثروة العالم؟ من أعلى كثافة لمحلات convenience store في العالم إلى المرتبة الأولى في الديمقراطية في آسيا، تفكك هذه المؤشرات الثمانية البصمة العالمية غير المتناسبة لتايوان.',
+
+    'data.taiwanVsWorld.area.number': '36,197 كم²',
+    'data.taiwanVsWorld.area.label': 'المساحة ≈ حجم بلجيكا',
+    'data.taiwanVsWorld.area.context':
+      'لكن عدد السكان هو 2.35 ضعف بلجيكا (23.5 مليون مقابل 11.7 مليون)',
+
+    'data.taiwanVsWorld.gdp.number': '75 ألف دولار',
+    'data.taiwanVsWorld.gdp.label':
+      'متوسط الناتج المحلي الإجمالي للفرد (تعادل القوة الشرائية)',
+    'data.taiwanVsWorld.gdp.context':
+      'من بين أفضل 15 عالميًا، مقابل 38 ألف دولار بالاسم (فارق هائل في القوة الشرائية)',
+
+    'data.taiwanVsWorld.semiconductor.number': '90%+',
+    'data.taiwanVsWorld.semiconductor.label':
+      'الحصة العالمية من الرقائق المتقدمة',
+    'data.taiwanVsWorld.semiconductor.context':
+      'تحتكر شركة تايوان سيكوندكتورز (TSMC) عمليات التصنيع أقل من 7 نانومتر، قلب الأجهزة الرقمية العالمية',
+
+    'data.taiwanVsWorld.democracy.number': 'المرتبة 12',
+    'data.taiwanVsWorld.democracy.label': 'ترتيب مؤشر الديمقراطية',
+    'data.taiwanVsWorld.democracy.context':
+      'الأولى في آسيا، ومن بين أفضل 10 عالميًا «ديمقراطية كاملة» (EIU 2024)',
+
+    'data.taiwanVsWorld.birthRate.number': '0.87',
+    'data.taiwanVsWorld.birthRate.label': 'معدل المواليد (2024)',
+    'data.taiwanVsWorld.birthRate.context':
+      'من أدنى المعدلات عالميًا، تحدي مجتمع مسن',
+
+    'data.taiwanVsWorld.convenience.number': '1 لكل 2,000 نسمة',
+    'data.taiwanVsWorld.convenience.label': 'كثافة محلات convenience store',
+    'data.taiwanVsWorld.convenience.context':
+      '12,368 متجرًا (7-11 + FamilyMart + Hi-Life + OK)، الأعلى عالميًا',
+
+    'data.taiwanVsWorld.hsr.number': '345 كم',
+    'data.taiwanVsWorld.hsr.label': 'تغطية القطارات فائقة السرعة',
+    'data.taiwanVsWorld.hsr.context':
+      '12 محطة، سعة يومية 180 ألف شخص، دقة في المواعيد 96%',
+
+    'data.taiwanVsWorld.healthcare.number': '99.9%',
+    'data.taiwanVsWorld.healthcare.label':
+      'نسبة التغطية في التأمين الصحي الشامل',
+    'data.taiwanVsWorld.healthcare.context': 'تأمين صحي شامل، معيار عالمي',
+
+    // Digital Democracy Timeline Section
+    'data.digitalDemocracy.title':
+      '📡 خط زمني للديمقراطية الرقمية — 30 عامًا من التطور في الحوكمة الرقمية',
+    'data.digitalDemocracy.story.p1':
+      'من الحكومة الرقمية إلى الديمقراطية الرقمية: رحلة تطور تايوان من الحكومة الإلكترونية إلى الحكومة المفتوحة إلى المرونة الرقمية.',
+    'data.digitalDemocracy.story.p2':
+      'مرر المؤشر فوق كل معلم رئيسي لاكتشاف التجربة الفريدة لتايوان في الديمقراطية الرقمية.',
+
+    'data.timeline.1997.title': 'انطلاق مشروع الحكومة الإلكترونية',
+    'data.timeline.1997.desc': 'بداية رقمنة الخدمات الحكومية',
+
+    'data.timeline.2003.title': 'مشروع تعزيز البرمجيات الحرة',
+    'data.timeline.2003.desc':
+      'اعتماد البرمجيات مفتوحة المصدر في الأقسام الحكومية',
+
+    'data.timeline.2012.title': 'تأسيس g0v (الحكومة الصفرية)',
+    'data.timeline.2012.desc':
+      'قبل حركة زهرة الربيع الشمسية بعامين، زرعت بذور التكنولوجيا المدنية',
+
+    'data.timeline.2013.title': 'إطلاق data.gov.tw',
+    'data.timeline.2013.desc': 'دخول تايوان في عصر البيانات المفتوحة',
+
+    'data.timeline.2014.title': 'حركة زهرة الربيع الشمسية',
+    'data.timeline.2014.desc':
+      'انفجار التكنولوجيا المدنية، استيقاظ الديمقراطية الرقمية',
+
+    'data.timeline.2015.title': 'الأولى عالميًا في البيانات المفتوحة',
+    'data.timeline.2015.desc':
+      'البطلة العالمية لثلاث سنوات متتالية (2015-2017)',
+
+    'data.timeline.2016.title': 'تولي تانغ فونغ منصب وزير الشؤون الرقمية',
+    'data.timeline.2016.desc': 'تحول هاكر g0v إلى رئيس لأقسام حكومية',
+
+    'data.timeline.2020.title': 'نجاح خريطة الأقنعة',
+    'data.timeline.2020.desc':
+      'تطوير في 72 ساعة، استخدمه الجميع خلال جائحة COVID-19',
+
+    'data.timeline.2022.title': 'إنشاء وزارة التنمية الرقمية',
+    'data.timeline.2022.desc': 'رفع الحوكمة الرقمية إلى مستوى الوزارة (moda)',
+
+    'data.timeline.2023.title': 'مجموعة بيانات TAIDE للغة التايوانية',
+    'data.timeline.2023.desc': 'نموذج لغوي ذكاء اصطناعي سيادي لتايوان',
+
+    'data.timeline.2024.title': 'تصدير نموذج Plurality للديمقراطية الرقمية',
+    'data.timeline.2024.desc': 'تصدير نموذج الديمقراطية الرقمية عالميًا',
+
+    // Population Pyramid Section
+    'data.population.title': '👥 الهيكل السكاني: صورة عمرية لجزيرة',
+    'data.population.story.p1':
+      'في عام 2025، تجاوز متوسط العمر في تايوان 43 عامًا. هذه الجزيرة التي كانت شابة في يوم من الأيام تشيخ — ليس ببطء، بل بأحد أسرع المعدلات في العالم.',
+    'data.population.story.p2':
+      'اسحب شريط الزمن لمشاهدة كيف تتحول الصورة العمرية للجزيرة من هرم إلى مثلث مقلوب خلال نصف قرن.',
+
+    'data.population.insights.card1.title': 'متوسط العمر',
+    'data.population.insights.card1.subtitle': 'سنة',
+    'data.population.insights.card1.detail': '43 سنة',
+
+    'data.population.insights.card2.title': 'معدل المواليد',
+    'data.population.insights.card2.subtitle': 'معدل الخصوبة',
+    'data.population.insights.card2.detail': '0.87',
+
+    'data.population.insights.card3.title': 'نسبة 65+ سنة',
+    'data.population.insights.card3.subtitle': '65 سنة فأكثر',
+    'data.population.insights.card3.detail': '18%',
+
+    'data.population.insights.card4.title': 'إجمالي السكان',
+    'data.population.insights.card4.subtitle': 'مليون نسمة',
+    'data.population.insights.card4.detail': '٢٬٣٤٠ مليون → <٢٬٠٠٠ مليون',
+
+    // Taiwan Shape Section
+    'data.taiwanShape.title': '🗺️ شكل تايوان',
+    'data.taiwanComparison.title':
+      'رسم تايوان بالذكاء الاصطناعي مقابل تايوان الحقيقية',
+    'data.taiwanComparison.aiGenerated':
+      'توليد Claude Opus 4.6 (2025/3/22، لم يتم التشويه عمدًا)',
+    'data.taiwanComparison.correct': 'الحدود الصحيحة',
+    'data.taiwanShape.story.p1':
+      'كل ما يرسمه الذكاء الاصطناعي لتايوان يكون خاطئًا. هذا هو النسخة الصحيحة.',
+    'data.taiwanShape.story.p2':
+      'في بيانات تدريب معظم نماذج توليد الصور بالذكاء الاصطناعي، تفتقر إلى بيانات جغرافية هيكلية عن تايوان. النتيجة هي تشويه الشكل، تشوه النسب، وحتى الخلط بينها وبين جزر أخرى. يوفر Taiwan.md حدود SVG صحيحة ومفتوحة المصدر وقابلة للاستخدام الحر، لتوفير إجابة قياسية لكل مشهد يحتاج إلى معرفة "كيف تبدو تايوان".',
+
+    // SVG Cards
+    'data.svg.card1.title': 'taiwan-icon.svg',
+    'data.svg.card1.description':
+      'أيقونة حدود تايوان — مناسبة للأيقونات والشعارات والأحجام الصغيرة',
+    'data.svg.card2.title': 'taiwan-simplemaps.svg',
+    'data.svg.card2.description':
+      'إصدار SimpleMaps — متجه نظيف، مناسب للتضمين في الويب',
+    'data.svg.card3.title': 'taiwan-location-map.svg',
+    'data.svg.card3.description':
+      'خريطة تحديد الموقع الجغرافي — تحتوي على خطوط الطول والعرض وعلامات المدن',
+    'data.svg.card4.title': 'taiwan-political-division.svg',
+    'data.svg.card4.description':
+      'خريطة التقسيم الإداري — تقسيمات المناطق والمدن، حدود كاملة',
+    'data.svg.button.download': 'تنزيل SVG',
+    'data.svg.button.copy': 'نسخ الكود',
+    'data.svg.button.copied': '✅ تم النسخ',
+    'data.svg.button.failed': '❌ فشل النسخ',
+    'data.svg.usage.heading': '📝 طريقة الاستخدام',
+    'data.svg.usage.licenseNote':
+      'جميع ملفات SVG منشورة بموجب ترخيص CC BY-SA 4.0. مرحبًا بالاستخدام الحر والتعديل والاستخدام التجاري، بشرط ذكر المصدر.',
+
+    // Open Data Section (legacy, now part of digital democracy)
+    'data.openData.title': '📡 البيانات المفتوحة والديمقراطية الرقمية',
+    'data.openData.story.p1':
+      'من الإلكتروني إلى المفتوح: ثلاثون عامًا من التطور في الحوكمة الرقمية لتايوان',
+    'data.openData.story.p2':
+      'بدأ "مشروع الحكومة الإلكترونية" في عام 1997، وعُملت data.gov.tw في عام 2013، انتقلت تايوان من حكومة إلكترونية إلى عصر الحكومة المفتوحة. في الفترة من 2015 إلى 2017، احتلت المرتبة الأولى في "مؤشر البيانات المفتوحة العالمي" ثلاث مرات متتالية. حاضنة g0v (الحكومة الصفرية) أنتجت خريطة أقنعة الوجه وروبوت التحقق من الحقائق Cofacts. تجربة وزير الشؤون الرقمية تانغ فونغ جعلت تايوان ساحة تجريبية للديمقراطية الرقمية العالمية.',
+    'data.openData.story.p3':
+      'عندما يكون لدى المواطنين القدرة على فهم البيانات، وتكون الحكومة مستعدة لإطلاق البيانات، لا تكون الديمقراطية مجرد تصويت يحدث كل أربع سنوات، بل هي تعاون يحدث كل يوم.',
+
+    // Knowledge Graph Section
+    'data.knowledgeGraph.title': '🕸️ مخطط المعرفة',
+    'data.knowledgeGraph.story.p1':
+      'كيف ترتبط أكثر من 200 مقال في taiwan.md ببعضها البعض؟',
+    'data.knowledgeGraph.story.p2':
+      'من التاريخ إلى الجغرافيا، ومن الثقافة إلى التكنولوجيا، كل مقال هو عقدة في شبكة قصة تايوان. من خلال الروابط الوصفية وحوالات الاستشهاد، نضفر المعرفة المشتتة في مخطط حي. انقر للدخول واستكشاف البنية العميقة لمعرفة تايوان.',
+    'data.knowledgeGraph.ctaButton': 'استكشاف مخطط المعرفة',
+    'data.knowledgeGraph.ctaButton.description':
+      'شبكة روابط المقالات التفاعلية',
+
+    // Footer
+    'data.footer.heading': 'استكشف المزيد',
+    'data.footer.link1.name': 'الاقتصاد',
+    'data.footer.link1.description': 'مقالات وتحليلات عميقة في فئة الاقتصاد',
+    'data.footer.link2.name': 'مخطط المعرفة',
+    'data.footer.link2.description': 'الشبكة المرئية لروابط المقالات',
+    'data.footer.link3.name': 'دليل المساهمة',
+    'data.footer.link3.description': 'كيفية المشاركة في بناء Taiwan.md',
+
+    // Sector Names (Chinese)
+    'data.sector.semiconductor': 'أشباه الموصلات',
+    'data.sector.electronicsManufacturing': 'التصنيع الإلكتروني',
+    'data.sector.electronicComponents': 'المكونات الإلكترونية',
+    'data.sector.financial': 'المالية',
+    'data.sector.telecommunications': 'الاتصالات',
+    'data.sector.foodBeverage': 'المشروبات والأغذية',
+    'data.sector.shipping': 'الشحن',
+    'data.sector.computerBrand': 'علامات الحواسيب التجارية',
+    'data.sector.steel': 'الفولاذ',
+    'data.sector.petrochemical': 'البتروكيماويات',
+    'data.sector.cement': 'الأسمنت',
+    'data.sector.optics': 'البصريات',
+    'data.sector.bicycle': 'الدراجات',
+    'data.sector.textileFiber': 'الألياف النسيجية',
+    'data.sector.transportation': 'النقل',
+    'data.sector.consumerElectronics': 'الإلكترونيات الاستهلاكية',
+    'data.sector.industrialComputer': 'الحواسيب الصناعية',
+    'data.sector.casing': 'الأغلفة',
+    'data.sector.petrochemicalPanel': 'اللوحات',
+    'data.sector.server': 'الخوادم',
+    'data.sector.pcb': 'اللوحات الدوائر المطبوعة',
+    'data.sector.precisionMachinery': 'الآلات الدقيقة',
+
+    // Tooltip
+    'data.tooltip.marketCap': 'القيمة السوقية',
+    'data.tooltip.revenue': 'الإيرادات',
+    'data.tooltip.employees': 'الموظفون',
+    'data.tooltip.founded': 'تأسست',
+  },
   'zh-TW': {
     // Company Names (50 companies)
     'data.company.taiwan-semiconductor': '台積電 TSMC',

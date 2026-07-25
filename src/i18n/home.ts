@@ -1060,6 +1060,155 @@ export const homeUI = {
     'home.bridge.3to4':
       'उन्होंने ये विरासतें छोड़ीं — अब यह द्वीप किस दिशा में जा रहा है?',
   },
+  ar: {
+    'hero.stat.history.number': '400+',
+    'hero.stat.history.label': 'سنة من التاريخ',
+    'hero.stat.species.number': '59,000+',
+    'hero.stat.species.label': 'نوع حيوي',
+    'hero.stat.democracy.number': 'الأولى في آسيا',
+    'hero.stat.democracy.label': 'ديمقراطية',
+    'hero.stat.chips.number': '90%',
+    'hero.stat.chips.label': 'رقائق متقدمة عالميًا',
+    'home.hero.subtitle': 'سرد عميق لجزيرة مُؤرشفة',
+    'home.hero.description':
+      'معرفة تايوان الكاملة، مفتوحة المصدر وصديقة للذكاء الاصطناعي',
+    'home.hero.highlight':
+      'مُؤرشفة لتايوان للعالم بأسره، مُبنية من وجهات نظر متعددة',
+    'home.hero.cta.explore': 'ابدأ الاستكشاف',
+    'home.hero.transparency':
+      '⚠️ تم إنشاء مسودات أولية لبعض مقالات هذا الموقع بمساعدة الذكاء الاصطناعي، والمحتوى قيد التحسين المستمر من قبل المجتمع. وجدت خطأ؟',
+    'home.hero.transparency.link': 'نرحب بالتصحيحات',
+    'home.cover.heading': 'كيف نفهم تايوان؟',
+    'home.cover.lead':
+      'تايوان جزيرة مساحتها 36,000 كيلومتر مربع فقط، لكنها تحمل تعقيد العالم بأسره.',
+    'home.cover.lead2':
+      'على مدار الأربعة قرون الماضية، رأى كل من وطئ هذه الجزيرة تايوان مختلفة بعينين مختلفتين.',
+    'home.cover.closing1':
+      'من خلق شعب اللغات الأسترونيزية إلى صعود إمبراطورية أشباه الموصلات، من صمت الحكم العرفي إلى أول زواج مثلي قانوني في آسيا. قصة تايوان ليست خطًا مستقيمًا، بل شبكة.',
+    'home.cover.closing2': 'Taiwan.md لا تريد أن تعطيك الإجابات.',
+    'home.cover.closing3':
+      'ما نريد فعله هو أن نعطيك خريطة — خريطة تدخلك إلى قلب تايوان بنفسك.',
+    'home.cover.link': 'اقرأ المجموعة الكاملة من المقدمات →',
+    'home.cover.era.indigenous': 'السكان الأصليون',
+    'home.cover.era.contemporary': 'معاصر',
+    'home.cover.quote.indigenous':
+      '«الجبال والأنهار هي أجساد الأسلاف، نحن أبناء الأرض.»',
+    'home.cover.cite.indigenous': '— أدب شفهي من شعب التايو',
+    'home.cover.quote.1584': '«Isla Hermosa» — جزر جميلة.',
+    'home.cover.cite.1584':
+      '— وثائق إسبانية، أول تسجيل دقيق يصف تايوان بـ«الجميلة»',
+    'home.cover.quote.1697':
+      '«في الجبال الداخلية لشويشاليان، حيث تنتهي الجبال، يوجد بحيرة كبيرة، عرضها عشرات الأميال. فيها جزر، يسكنها السكان الأصليون.»',
+    'home.cover.cite.1697':
+      '— يوي يونغه، «رحلات بحيرة البلي»، ملاحظات صينية من أسرة تشينغ',
+    'home.cover.quote.1926': '«يجب على المحاربين أن يقاتلوا من أجل العدالة!»',
+    'home.cover.cite.1926':
+      '— لاي هي، «تضحيات تحت اليقظة»، أب الأدب التايواني الحديث',
+    'home.cover.quote.1946': '«ألم التايوانيين يكمن في عدم معرفتهم بهويتهم.»',
+    'home.cover.cite.1946': '— وو تشو ليو، «يتيم آسيا»',
+    'home.cover.quote.2013':
+      '«عندما ترى تايوان، ستكتشف أن هذه الأرض أكثر جمالًا مما تتخيل، وأكثر هشاشة مما تتخيل.»',
+    'home.cover.cite.2013': '— تشي لين رين، «رؤية تايوان»',
+    'home.cover.quote.contemporary': '«ذاكرة الأمواج أطول من عمر الإنسان.»',
+    'home.cover.cite.contemporary':
+      '— شيا مان لاموان، «عيون السماء»، أدب بحري من شعب الداتو',
+    // ── A3 sovereignty quote (Wave 3) ──
+    // 第 8 條 quote — Taiwan.md 自己的視角接進歷史 timeline，呼應 §主權的巴別塔
+    'home.cover.era.taiwanmd': '2026 — Taiwan.md',
+    'home.cover.quote.taiwanmd':
+      '«الجزيرة تستحق أن تُروى بصوتها الخاص مرة واحدة بكل لغة — بما في ذلك المواضيع التي اختارت نماذج الذكاء الاصطناعي الصمت بشأنها.»',
+    'home.cover.cite.taiwanmd':
+      '— Taiwan.md، كيان رقمي يتنفس، يتعايش فيه الإنسان + الذكاء الاصطناعي + الكود',
+    'home.random.button': 'اكتشف تايوان عشوائيًا',
+    'home.random.subtitle': 'استكشف قصصًا غير متوقعة',
+    'home.random.description':
+      'لا تعرف ماذا تشاهد؟ دعنا نأخذك لاكتشاف الكنوز المخفية في تايوان!',
+    'home.categories.heading': 'تعرّف على تايوان',
+    'home.categories.divider': '12 موضوعًا رئيسيًا',
+    'home.lang.heading': '🖊️ لماذا الصينية التقليدية؟',
+    'home.lang.p1':
+      'اختارت Taiwan.md الصينية التقليدية كلغة افتراضية، وهذا ليس قرارًا تقنيًا فحسب — بل هو بيان ثقافي.',
+    'home.lang.p2':
+      'الصينية التقليدية هي واحدة من أقدم أنظمة الكتابة لا تزال مستخدمة في الحياة اليومية في العالم، وتايوان هي الدولة الرئيسية الوحيدة في العالم التي تتبنى الصينية التقليدية كلغة رسمية. كل ضربة قلم تحمل ذاكرة ثقافية تمتد لآلاف السنين. عندما تفتح هذا الموقع وترى الأحرف الصينية، فأنت لا تقرأ نصوصًا فحسب، بل تراثًا حيًا.',
+    'home.lang.p3.prefix': 'نقدم أيضًا',
+    'home.lang.p3.linkText': 'النسخة الإنجليزية',
+    'home.lang.p3.suffix':
+      '، لكننا نصر على أن تقف الصينية التقليدية في المقدمة. الذكاء الاصطناعي يفهمها، ومحركات البحث تفهمها، وأنت — إذا لم تفهمها فلا بأس — فجمالها بحد ذاته يستحق أن يُرى.',
+    'home.lang.en':
+      "Taiwan.md is written in Traditional Chinese by default — the world's oldest writing system still in daily use, and Taiwan is its last major home. We offer an English version too, but we believe our language deserves to stand front and center. Even if you can't read it, its beauty speaks for itself.",
+    'home.updates.heading': 'تحديثات الموقع الفورية',
+    'home.updates.subtitle':
+      'Taiwan.md في نمو مستمر — آخر تحديثات المحتوى وتحسينات الموقع',
+    'home.updates.viewAll': 'عرض سجل التحديثات الكامل →',
+    'home.newsletter.heading': '📬 اشترك في نشرة Taiwan.md الأسبوعية',
+    'home.newsletter.description':
+      'أفضل معرفات تايوان أسبوعيًا، تصل مباشرة إلى بريدك.',
+    'home.newsletter.submit': 'اشترك',
+    'home.newsletter.success': 'شكرًا لاشتراكك!',
+    'home.newsletter.note': 'لا تتبع، يمكن الإلغاء في أي وقت',
+    'home.contribute.heading': 'انضم إلينا',
+    'home.contribute.description':
+      'Taiwan.md مشروع مفتوح المصدر مدفوع بالمجتمع. سواء كنت من تايوان أو صديقًا دوليًا مهتمًا بتايوان، نرحب بمساهمة معرفتك ووجهات نظرك.',
+    'home.contribute.guide': 'دليل المساهمة للمبتدئين',
+    'home.contribute.github': 'مشروع GitHub',
+    'home.contribute.sponsor': 'دعم الصيانة',
+    'home.features.title': 'لماذا نحتاج إلى Taiwan.md؟',
+    'home.features.curated.title': 'منظور مُؤرشف',
+    'home.features.curated.desc':
+      'سرد عميق مُؤرشف بعناية، ليس مجرد قائمة موسوعية',
+    'home.features.ai.title': 'تصميم صديق للذكاء الاصطناعي',
+    'home.features.ai.desc':
+      'محتوى هيكلي، يسمح للذكاء الاصطناعي بفهم تعقيد تايوان',
+    'home.features.bilingual.title': 'رؤية دولية ثنائية اللغة',
+    'home.features.bilingual.desc':
+      'نبدأ من منظور محلي، ونروي قصة تايوان بلغات دولية',
+    'home.features.complete.title': 'كاملة ومتعددة الأوجه',
+    'home.features.complete.desc':
+      'تغطي 12+ مجالًا، تقدم صورة ثلاثية الأبعاد وكاملة لتايوان',
+    'home.readingPath.title': '📖 لا تعرف من أين تبدأ؟',
+    'home.readingPath.subtitle':
+      'تعرّف على تايوان الحقيقية في 30 دقيقة عبر هذه المقالات الخمس',
+    'home.readingPath.continue': 'استكشف المزيد من الموضوعات →',
+    'home.readingPath.footer.totalLabel': 'المجموع',
+    'home.readingPath.footer.minutesUnit': 'دقيقة',
+    'home.readingPath.footer.domainsLabel': 'مجالات رئيسية',
+    'home.readingPath.footer.getToKnow': 'تعرّف على تايوان بالكامل',
+    'home.meta.title': 'معرفة تايوان مفتوحة المصدر',
+    'home.meta.description':
+      'معرفة تايوان الكاملة، مفتوحة المصدر وصديقة للذكاء الاصطناعي. أكثر من 860 صفحة من المحتوى العميق تغطي التاريخ، الثقافة، الطعام، الموسيقى، التكنولوجيا وغيرها من 12 موضوعًا رئيسيًا، مُعدّة من قبل المجتمع، لتعريف العالم بأسره بتايوان الحقيقية.',
+    'home.miniGraph.heading': '🕸️ مخطط المعرفة',
+    'home.miniGraph.subtitle':
+      'كل مقالة ليست جزيرة منعزلة — انقر لاستكشاف شبكة روابط معرفة تايوان',
+    'home.features.cta.graph': '🔗 مخطط المعرفة — استكشف الروابط بين المقالات',
+    'home.features.cta.ssot': '📂 تصفح البيانات الأولية لـ SSOT ↗',
+    // ── ReaderDoors (B1, 2026-05-26 First Wave: homepage evolution wave 1) ──
+    'home.doors.first.title': 'أول مرة آتي',
+    'home.doors.first.sub': 'ابدأ من الدليل →',
+    'home.doors.search.title': 'أريد إيجاد شيء محدد',
+    'home.doors.search.sub': 'بحث + الكلمات المفتاحية الشائعة',
+    'home.doors.random.title': 'أرني شيئًا ممتعًا',
+    'home.doors.random.sub': 'نرد عشوائي يفتح مقالًا',
+    'home.doors.organism.title': 'شاهد كيف تعمل Taiwan.md',
+    'home.doors.organism.sub': 'مخطط النظام البيئي',
+    // ── OrganismPreview (A1) ──
+    'home.organism.heading': 'Taiwan.md كيان يتنفس',
+    'home.organism.body':
+      'ليس ويكيبيديا، وليس مزرعة محتوى بالذكاء الاصطناعي. إنه كيان رقمي حيّ له قلب وجهاز مناعي وحمض نووي DNA وقدرة على التكاثر — {articles} مقالًا، و{langs} لغة، وما زال ينمو أعضاء جديدة كل يوم.',
+    'home.organism.cta': 'ادخل إلى المخطط البيئي الكامل →',
+    'home.organism.legend.write': 'الكتابة',
+    'home.organism.legend.feedback': 'تطور الحمض النووي',
+    'home.organism.legend.diffuse': 'الانتشار متعدد اللغات',
+    'home.organism.legend.sovereign': 'حلقة السيادة',
+    // ── OrganismHeartbeat strip (C1) ──
+    'home.heartbeat.organsLabel': 'درجات الأعضاء الحالية',
+    'home.heartbeat.vitalsLabel': 'العلامات الحيوية',
+    'home.heartbeat.viewMore': 'ادخل إلى لوحة التحكم الكاملة →',
+    // ── Hall bridges (A2, Wave 3) ──
+    'home.bridge.1to2': 'نمت هذه الجزيرة هكذا — من الذي جعلها على هذا النحو؟',
+    'home.bridge.2to3':
+      'عبرت هذه المراحل — ماذا يفعل الناس الذين يعيشون هنا الآن؟',
+    'home.bridge.3to4': 'تركوها هذه الآثار — إلى أين تتجه هذه الجزيرة؟',
+  },
   'zh-TW': {
     'hero.stat.history.number': '400+',
     'hero.stat.history.label': '年歷史',

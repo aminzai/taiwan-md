@@ -3612,6 +3612,523 @@ export const resourcesUI = {
     'resources.site.npgov': 'राष्ट्रीय उद्यान पोर्टल',
     'resources.site.taiwanmd': 'Taiwan.md',
   },
+  ar: {
+    // Meta
+    'resources.meta.title': 'دليل الموارد التايوانية - Taiwan.md',
+    'resources.meta.description':
+      'قائمة شاملة للمواقع الرسمية للهيئات الحكومية والمؤسسات الثقافية ومنصات البيانات المفتوحة في تايوان، تقدم بوابة واحدة لمعلومات السياسات والمحتوى الثقافي والبيانات الإحصائية',
+
+    // Hero
+    'resources.hero.title': 'دليل الموارد التايوانية',
+    'resources.hero.subtitle.html':
+      'قائمة شاملة للموارد الرسمية من الهيئات الحكومية والمؤسسات الثقافية وبيانات مفتوحة<br />اطّلع على مصدر المعلومات الأكثر موثوقية في تايوان من مكان واحد',
+
+    // Breadcrumb
+    'resources.breadcrumb.home': 'الرئيسية',
+    'resources.breadcrumb.current': 'الموارد',
+
+    // Core section
+    'resources.core.title': '🏆 الاختيارات الأساسية',
+    'resources.core.desc':
+      'أهم الموارد الرسمية الموثوقة في تايوان المعروضة في الخريطة الذهنية',
+
+    // More section
+    'resources.more.title': '🔍 المزيد من التصنيفات',
+    'resources.more.desc':
+      'تشمل حكومات محلية وجامعات وموارد مفصلة في مجالات مختلفة',
+
+    // Category labels (heroData)
+    'resources.category.government.label': '🏛️ هيئات رسمية',
+    'resources.category.culture.label': '📚 الثقافة والتعليم',
+    'resources.category.tourism.label': '✈️ السياحة والسفر',
+    'resources.category.economy.label': '💼 التكنولوجيا والاقتصاد',
+    'resources.category.media.label': '📰 الإعلام والأخبار',
+    'resources.category.opendata.label': '🌐 البيانات المفتوحة',
+    'resources.category.taiwanmd.label': '📡 متعلق بـ Taiwan.md',
+
+    // Section titles & descriptions
+    'resources.section.localGov.title': '🏙️ الحكومات المحلية',
+    'resources.section.localGov.desc':
+      'المواقع الرسمية لحكومات المدن الست والمقاطعات في تايوان',
+
+    'resources.section.universities.title': '🎓 الجامعات ومراكز البحث',
+    'resources.section.universities.desc':
+      'أفضل الجامعات ومراكز البحث المهمة في تايوان',
+
+    'resources.section.nationalParks.title': '🏔️ الحدائق الوطنية',
+    'resources.section.nationalParks.desc':
+      'إدارات إدارة الحدائق الوطنية والمناطق الطبيعية في تايوان',
+
+    'resources.section.artsCulture.title': '🎭 venues الفنون والثقافة',
+    'resources.section.artsCulture.desc':
+      'المتاحف والمعارض الفنية ومراكز العروض المسرحية المهمة',
+
+    'resources.section.healthcare.title': '🏥 الرعاية الصحية',
+    'resources.section.healthcare.desc':
+      'الهيئات الصحية الرسمية والمؤسسات الطبية المهمة',
+
+    'resources.section.ngoSociety.title':
+      '🤝 المنظمات غير الحكومية / المجتمع المدني',
+    'resources.section.ngoSociety.desc':
+      'المنظمات غير الربحية والجماعات المهمة في المجتمع المدني',
+
+    'resources.section.ministries.title': '🏛️ الوزارات والهيئات',
+    'resources.section.ministries.desc':
+      'مجلس الإدارة التنفيذي (اليوان التنفيذي) والهيئات ذات الصلة',
+
+    'resources.section.companies.title': '🏢 الشركات المهمة',
+    'resources.section.companies.desc':
+      'الشركات الرائدة وشركات التكنولوجيا في تايوان',
+
+    'resources.section.mediaExtra.title': '📺 الإعلام التقليدي',
+    'resources.section.mediaExtra.desc':
+      'وسائل الإعلام الإخبارية الرئيسية والإذاعة والتلفزيون',
+
+    'resources.section.transportation.title': '🚄 النقل والمواصلات',
+    'resources.section.transportation.desc': 'النقل العام وخدمات النقل',
+
+    'resources.section.digitalCulture.title': '💾 الثقافة الرقمية',
+    'resources.section.digitalCulture.desc':
+      'منصات التوثيق الرقمي والتعليم العلمي',
+
+    // Projects
+    'resources.projects.title': '🚀 مشاريع المجتمع',
+    'resources.projects.desc':
+      'الإبداع والحماس القادمان من المجتمع، تعرّف على تايوان عبر البرمجة',
+
+    'resources.projects.food.title': '🍔 خريطة المأكولات',
+    'resources.projects.food.burger.name': 'خريطة برجر تايبيه',
+    'resources.projects.food.burger.desc':
+      'خريطة تفاعلية لتصنيف مطاعم البرجر في تايبيه حسب الجودة (T0-T6)، مع إمكانية التصفية حسب المنطقة الإدارية',
+    'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
+
+    'resources.projects.nightmarket.title': '🌙 دليل الأسواق الليلية',
+    'resources.projects.nightmarket.app.name': 'NightMarketSwift',
+    'resources.projects.nightmarket.app.desc':
+      'تطبيق iOS للأسواق الليلية في تايوان، يضم أكثر من 400 موقع سوق ليلي، مع ساعات العمل وملاحة خرائط جوجل',
+    'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
+
+    'resources.projects.civictech.title': '🗳️ التكنولوجيا المدنية',
+    'resources.projects.civictech.g0v.name': 'g0v حكومة الوقت الصفري',
+    'resources.projects.civictech.g0v.desc':
+      'أكبر مجتمع للتكنولوجيا المدنية في تايوان، يدفع عجلة الشفافية الحكومية وفتح البيانات',
+    'resources.projects.civictech.g0v.tech': 'تقنيات متعددة',
+
+    'resources.projects.civictech.cofacts.name': 'Cofacts هل هذا صحيح حقًا',
+    'resources.projects.civictech.cofacts.desc':
+      'روبوت دردشة للتحقق من الحقائق بالتعاون الجماعي، لمحاربة الأخبار الكاذبة',
+    'resources.projects.civictech.cofacts.tech': 'JavaScript / GraphQL',
+
+    'resources.projects.civictech.disfactory.name':
+      'Disfactory المصانع غير القانونية على الأراضي الزراعية',
+    'resources.projects.civictech.disfactory.desc':
+      'منصة للإبلاغ المدني عن المصانع غير القانونية على الأراضي الزراعية، لحماية الأراضي الزراعية في تايوان',
+    'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
+
+    // CTA & Links
+    'resources.projects.cta.html':
+      'هل لديك مشروع موصى به؟ مرحبًا بكم في تقديم التوصيات عبر <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">مشكلة GitHub</a>!',
+    'resources.projects.github.link': 'GitHub',
+    'resources.backToHome': '← العودة إلى الرئيسية',
+
+    // Mindmap
+    'resources.mindmap.root.label': '🇹🇼 موارد تايوان',
+
+    // Chapter nav labels
+    'resources.nav.governance': 'الحكم',
+    'resources.nav.culture': 'الثقافة',
+    'resources.nav.media': 'الإعلام',
+    'resources.nav.economy': 'الاقتصاد',
+    'resources.nav.community': 'المجتمع',
+
+    // Chapter titles & stories
+    'resources.chapter.government.title': 'بوابة الحكم الوطني',
+    'resources.chapter.government.story':
+      'في فبراير 2020، قام مهندس تايواني بربط مخزون الأقنعة الفوري لـ 6,000 صيدلية خلال عطلة نهاية أسبوع واحدة. شخص واحد، حاسوب محمول واحد، 72 ساعة. كان ذلك ممكنًا لأن مجموعات البيانات الحكومية البالغ عددها أكثر من 50,000 مجموعة على data.gov.tw كانت تنتظر استخدامها من قبل أي شخص في أي وقت. كتبت تايوان "شفافية الحكم" في كل واجهة برمجة تطبيقات قابلة للتنزيل.',
+    'resources.chapter.culture.title': 'قصر الثقافة والمعرفة',
+    'resources.chapter.culture.story':
+      'على مساحة تقل عن 36,000 كيلومتر مربع، تمتلك تايوان 159 جامعة، وأكثر من 500 متحف، و9 حدائق وطنية، من قمة يوشان التي يبلغ ارتفاعها 3,952 مترًا إلى شواطئ الشعاب المرجانية. يضم متحف القصر الوطني في تايبيه ما يقرب من 700,000 قطعة من كنوز الثقافة الصينية، بينما تمثل طقوس المعابد في الأزقة أيضًا تراثًا ثقافيًا حيًا. كثافة ثقافة هذه الجزيرة تتجاوز بكثير حجمها على الخريطة.',
+    'resources.chapter.media.title': 'اسمع صوت تايوان',
+    'resources.chapter.media.story':
+      'في عام 1995، قام طلاب من جامعة تايبيه بتثبيت خادم BBS في السكن الجامعي، وسموه PTT. بعد 30 عامًا، لا يزال منتدى الواجهة النصية الخالصة هو منصة النقاش العام الأكثر تأثيرًا في تايوان. خلال حركة زهرة الشمس في عام 2014، كان PTT أسرع مصدر للمعلومات الفورية وأكثرها اكتمالاً. تتنافس البيئة الإعلامية في تايوان، من الصحف الرئيسية إلى منتديات المستخدمين، على حق الكلام في الديمقراطية.',
+    'resources.chapter.economy.title': 'محرك الاقتصاد والحياة',
+    'resources.chapter.economy.story':
+      'في كل عالمين من الهواتف المحمولة، يستخدم واحد منهما شريحة مُصنعة بواسطة شركة TSMC، وهو ما يصفه علماء الجيوسياسة بـ "درع السيليكون". لكن الشرائح ليست سوى طرف الجبل الجليدي: نظام التأمين الصحي الشامل الذي يغطي 99.9% من السكان، ومتجرสะดวก (كونفينينس ستور) واحد لكل 2.3 كيلومتر مربع، وقطار فائق السرعة (HSR) يستغرق 90 دقيقة فقط للذهاب من تايبيه إلى كاوهسيونغ. ما يدعم الحياة اليومية لـ 23 مليون شخص هو نظام دقيق تشعر به تقريبًا في كل مكان رغم كونه غير مرئي تقريبًا.',
+    'resources.chapter.community.title': 'التكنولوجيا المدنية والمجتمع',
+    'resources.chapter.community.story':
+      'شعار "الحكومة الصفرية" (g0v) هو "لا تسأل لماذا لا أحد يفعل هذا، لأنك أنت ذلك الشخص الذي لا يفعل شيئًا". خريطة أقنعة الوجه، روبوت التحقق من الأخبار المزيفة، ومتتبع وعود الانتخابات، كلها نتجت عن سباقات البرمجة (Hackathons) في عطلة نهاية الأسبوع. في تايوان، يبدو المشاركة المدنية على هذا النحو: كتابة الكود، فتح Issue، وإرسال Pull Request. مشروع Taiwan.md هو أيضًا ثمرة لهذا الروح.',
+
+    // Insight cards
+    'resources.insight.gov.branches.number': '5',
+    'resources.insight.gov.branches.label': 'مؤسسات على مستوى المجالس',
+    'resources.insight.gov.ministries.number': '20+',
+    'resources.insight.gov.ministries.label': 'وزارات وهيئات',
+    'resources.insight.gov.local.number': '22',
+    'resources.insight.gov.local.label': 'حكومات محلية (محافظات ومدن)',
+
+    'resources.insight.culture.universities.number': '159',
+    'resources.insight.culture.universities.label': 'جامعات',
+    'resources.insight.culture.museums.number': '500+',
+    'resources.insight.culture.museums.label': 'متحف',
+    'resources.insight.culture.parks.number': '9',
+    'resources.insight.culture.parks.label': 'حدائق وطنية',
+
+    'resources.insight.media.ptt.number': '200 ألف',
+    'resources.insight.media.ptt.label': 'مستخدم نشط يوميًا على PTT',
+    'resources.insight.media.outlets.number': '100+',
+    'resources.insight.media.outlets.label': 'وسيلة إعلامية',
+    'resources.insight.media.ngo.number': '1000+',
+    'resources.insight.media.ngo.label': 'منظمة غير حكومية',
+
+    'resources.insight.econ.tsmc.number': '92%',
+    'resources.insight.econ.tsmc.label': 'عمليات التصنيع المتقدمة لشركة TSMC',
+    'resources.insight.econ.hsr.number': '99.5%',
+    'resources.insight.econ.hsr.label': 'دقة مواعيد القطار فائق السرعة',
+    'resources.insight.econ.nhi.number': '99.9%',
+    'resources.insight.econ.nhi.label': 'تغطية التأمين الصحي الشامل',
+
+    'resources.insight.community.g0v.number': '2012',
+    'resources.insight.community.g0v.label': 'تأسيس g0v',
+    'resources.insight.community.contributors.number': '10K+',
+    'resources.insight.community.contributors.label': 'مساهم',
+    'resources.insight.community.projects.number': '800+',
+    'resources.insight.community.projects.label': 'مشروع',
+
+    // Subcategory titles
+    'resources.sub.fiveYuan': 'الهيئات الخمس الأساسية',
+    'resources.sub.fiveYuan.desc':
+      'هذه الهيئات الخمس تشكل نظام الفصل الخماسي الفريد في تايوان، وهو نظام لا مثيل له عالميًا.',
+    'resources.sub.ministries': 'الوزارات والهيئات',
+    'resources.sub.ministries.desc':
+      'من وزارة التنمية الرقمية إلى لجنة شؤون السكان الأصليين، لكل وزارة وهيئة منطقة بيانات مفتوحة خاصة بها.',
+    'resources.sub.localGov': 'الحكومات المحلية',
+    'resources.sub.localGov.desc':
+      '22 مدينة ومحافظة، و22 أسلوبًا للحكم المحلي. سباق المدن الذكية في المدن الست يعيد تعريف خدمات المواطنين.',
+    'resources.sub.openData': 'البيانات المفتوحة',
+    'resources.sub.openData.desc':
+      'هنا تبدأ معجزة التكنولوجيا المدنية في تايوان. خريطة أقنعة الوجه، حجز اللقاحات، ومراقبة جودة الهواء، كلها تبدأ من هذه المنصات.',
+    'resources.sub.universities': 'الجامعات المرموقة ومراكز البحث',
+    'resources.sub.universities.desc':
+      'جامعات تايوان لا تدرس فقط. مختبر الحوسبة الكمية في جامعة تايبيه، ومركز أبحاث أشباه الموصلات في جامعة تشينغ كوانغ، هما عقدان مهمان في الشبكة الأكاديمية العالمية.',
+    'resources.sub.museums': 'المتاحف والمكتبات',
+    'resources.sub.museums.desc':
+      'من كرسي الخيزران الأخضر في متحف القصر الوطني إلى مجموعة الكمان في متشي كيم، متاحف تايوان هي أبواب زمنية تعبر عبر العصور.',
+    'resources.sub.venues': 'المراكز الثقافية والفنية والصناعات الإبداعية',
+    'resources.sub.venues.desc':
+      'النظام البيئي الثقافي والفني في تايوان في صعود. كثافة المرافق العالمية المستوى في C-LAB، ومركز المسرح الوطني، ومركز ويويينغ في كاوهسيونغ تجعل نيويورك تشعر بالغيرة.',
+    'resources.sub.parks': 'الحدائق الوطنية والمناطق الطبيعية',
+    'resources.sub.parks.desc':
+      'من ارتفاع 0 متر إلى 3,952 مترًا، تغطي الحدائق الوطنية التسع في تايوان جميع النطاقات المناخية على الأرض. يمكنك المشي من الشعاب المرجانية الاستوائية إلى خط الثلج الجبلي في يوم واحد.',
+    'resources.sub.mainstream': 'الإعلام الرئيسي',
+    'resources.sub.mainstream.desc':
+      'من فتح قيود الصحافة بعد فك الحظر العسكري في عام 1988، إلى منافسة قنوات الأخبار على مدار الساعة اليوم، حرية الإعلام في تايوان لم تأتِ بسهولة.',
+    'resources.sub.digital': 'الإعلام الرقمي الأصلي',
+    'resources.sub.digital.desc':
+      'بينما تكافح وسائل الإعلام التقليدية، يعيد الإعلام الرقمي الأصلي في تايوان تعريف الصحافة. أثبت نموذج "The Reporter" غير الربحي أن التقارير العميقة يمكن أن تعيش دون الاعتماد على الإعلانات.',
+    'resources.sub.ngo': 'المجتمع المدني والمنظمات غير الحكومية',
+    'resources.sub.ngo.desc':
+      'كثافة المنظمات غير الحكومية في تايوان هي الأعلى في آسيا. من البيئة إلى حقوق الإنسان، هذه المنظمات لا تراقب الحكومة فحسب، بل تسبقها في كثير من الأحيان في صياغة السياسات.',
+    'resources.sub.companies': 'قادة الصناعة',
+    'resources.sub.companies.desc':
+      'من شركة TSMC إلى شركة Foxconn، تظهر أسماء هذه الشركات في تقارير سلاسل التوريد في جميع أنحاء العالم.',
+    'resources.sub.transport': 'النقل والمواصلات',
+    'resources.sub.transport.desc':
+      'القطار فائق السرعة في تايوان يجعل الرحلة من تايبيه إلى كاوهسيونغ تستغرق 90 دقيقة فقط. مع مترو الأنظمة، الحافلات ذات النظم الفورية وـ YouBike، النقل العام في تايوان هو البطل الخفي في آسيا.',
+    'resources.sub.healthcare': 'الرعاية الصحية',
+    'resources.sub.healthcare.desc':
+      'التأمين الصحي الشامل: بطاقة واحدة، تغطية بنسبة 99.9%، متوسط وقت انتظار 15 دقيقة. حتى الولايات المتحدة تدرس كيف فعلت تايوان ذلك.',
+    'resources.sub.finance': 'المالية والبيانات',
+    'resources.sub.finance.desc':
+      'بورصة تايوان هي واحدة من أكثر الأسواق شفافية في آسيا. من التقارير المالية للشركات المدرجة إلى بيانات التداول الفورية، كل شيء متاح للجمهور.',
+    'resources.sub.civicTech': 'مشاريع التكنولوجيا المدنية',
+    'resources.sub.foodMaps': 'خريطة الطعام والثقافة',
+
+    // Related articles
+    'resources.related.democracy':
+      'مقالات ذات صلة: التحول الديمقراطي في تايوان',
+    'resources.related.label': 'مقالات ذات صلة',
+    'resources.related.government.1': 'التحول الديمقراطي في تايوان',
+    'resources.related.government.2': 'الانتخابات والسياسة الحزبية',
+    'resources.related.government.3': 'المجتمع المفتوح و g0v',
+    'resources.related.culture.1': 'ثقافة السكان الأصليين',
+    'resources.related.culture.2': 'نظام التعليم',
+    'resources.related.culture.3': 'الحدائق الوطنية',
+    'resources.related.media.1': 'حركة زهرة الربيع',
+    'resources.related.media.2': 'الإعلام وحرية الصحافة',
+    'resources.related.media.3': 'PTT (BBS)',
+    'resources.related.economy.1': 'شركة TSMC',
+    'resources.related.economy.2': 'صناعة أشباه الموصلات',
+    'resources.related.economy.3': 'التأمين الصحي الشامل',
+    'resources.related.community.1': 'المجتمع المفتوح و g0v',
+    'resources.related.community.2': 'الحركات الاجتماعية والمشاركة المدنية',
+    'resources.related.community.3': 'الحكومة الرقمية',
+
+    // Footer stats
+    'resources.stats.collected': 'مصدر تم جمعها',
+    'resources.stats.chapters': 'فصل رئيسي',
+    'resources.stats.subcategories': 'تصنيف فرعي',
+
+    // Search
+    'resources.search.placeholder': 'البحث عن الموارد...',
+
+    // Aria labels
+    'resources.aria.viewGithub': 'عرض مشروع GitHub',
+    'resources.aria.backToTop': 'العودة إلى الأعلى',
+
+    // Reading Guide
+    'resources.guide.title': 'من أين نبدأ',
+    'resources.guide.desc':
+      'تخيل أنك هبطت للتو في تايوان بدون دليل سياحي. "الحكم" يظهر لك نظام التشغيل: كيف تعمل دولة ديمقراطية شابة باستخدام الشفافية المتطرفة. "الثقافة" هي الروح: 500 متحف، و15,000 احتفال معبد سنويًا، و16 لغة للسكان الأصليين، كل ذلك مضغوط في جزيرة أصغر من سويسرا. "الإعلام" يكشف الحوار: منتدى نصي بحت عمره 30 عامًا لا يزال يؤثر في الانتخابات، وأجرأ غرفة أخبار غير ربحية في آسيا موجودة هنا. "الاقتصاد" هو نبض القلب: شركة واحدة تنتج 92% من الرقائق المتقدمة عالميًا، وتكلفة التأمين الصحي الشامل أرخص من فاتحة هاتفك. "المجتمع" هو دعوة للانضمام: انضم إلى مجموعة من المواطنين المفتوحين المصدر الذين يستخدمون هاكاثونات نهاية الأسبوع لبناء أدوات للمواطنين.',
+
+    // Curator Notes
+    'resources.curator.government':
+      '🔍 خلال جائحة كوفيد-19، طوّر مطورون تايوانيون خرائط أقنعة وأنظمة حجز للقاحات في غضون 72 ساعة. وراء هذه السرعة يقف منصة البيانات المفتوحة الحكومية المصنفة ضمن أفضل ثلاث في العالم، مع أكثر من 50,000 مجموعة بيانات، وواجهات برمجة تطبيقات (API) فورية، ومتاحة للجميع. بينما كان مطورو دول أخرى لا يزالون ينتظرون مؤتمرات صحفية حكومية، كان مطورو تايوان يكتبون الأكواد بالفعل.',
+    'resources.curator.culture':
+      '🔍 قلة من يعرفون أن كثافة المتاحف في تايوان من أعلى الكثافات في آسيا. لكن الأرقام هي مجرد سطح، والمميز حقًا هو الثقافة "الحية": أكثر من 15,000 احتفال معبد سنويًا، و16 لغة للسكان الأصليين، ومسابقات الأغاني الجبلية للهاكا. ثقافة تايوان ليست فقط في خزائن الزجاج، بل تمشي في الشوارع.',
+    'resources.curator.media':
+      '🔍 ما مدى تأثير PTT؟ خلال استفتاء عام 2018، أثرت كمية المناقشات في لوحة PTT八卦 (Bagua) مباشرة في معدل الإقبال على التصويت. وجود "The Reporter" (المُرصد) أكثر إثارة للدهشة: تحقيق صحفي يعتمد كليًا على التبرعات، وترشح لعدة سنوات متتالية لجائزة الصحافة الآسيوية. في عصر انتشار الأخبار الكاذبة، تمتلك تايوان في الوقت نفسه أكثر ثقافة للمستخدمين نشاطًا وأجدى مجتمع للتحقق من الحقائق. هذا التناقض نفسه هو حيوية الديمقراطية.',
+    'resources.curator.economy':
+      '🔍 بينما تتجادل الدول حول "قانون الرقائق" بشأن مبلغ الدعم المطلوب، قضت تايوان 30 عامًا في كتابة الإجابة على الرقائق: جزيرة صغيرة بدون نفط أو مناجم حديد، اعتمدت على الكفاءات البشرية وتقنيات النانو للسيطرة على 92% من طاقة إنتاج الرقائق المتقدمة عالميًا. هذا الرقم أضاف كلمة إلى تقارير البنتاغون: "درع السيليكون".',
+    'resources.curator.community':
+      '🔍 استضافت هاكاثونات g0v الشهرية أكثر من 60 دورة، حيث يحضر مئات المهندسين والمصممين وعاملين في المنظمات غير الحكومية طواعية في كل مرة. بدون أجر، وبدون رئيس، فقط بحاسوب محمول ومشكلة يريدون حلها. ولدت خريطة أقنعة الوجه بهذه الطريقة: نهاية أسبوع، بضعة مهندسين، وبيانات فورية من 6,000 صيدلية. صرح وادي السيليكون بـ"تغيير العالم"، ومجتمع المصدر المفتوح في تايوان ينفذه أمامك مباشرة.',
+
+    // Featured site descriptions
+    'resources.featured.dataGov':
+      'منصة البيانات المفتوحة الحكومية المصنفة الأولى عالميًا، مع أكثر من 50,000 مجموعة بيانات، من جودة الهواء إلى مواقع الحافلات الفورية، جميعها للتنزيل المجاني.',
+    'resources.featured.g0vGov':
+      'الحكومة الصفرية: مجتمع تكنولوجيا المواطنين الذي يعيد صياغة الحوكمة. من خرائط أقنعة الوجه إلى vTaiwan، يُمحى الخط الفاصل بين الهاكر وصانعي السياسات.',
+    'resources.featured.legislativeYuan':
+      'برلمان تايوان، البث المباشر للجلسات، وتتبع القوانين، في خط المواجهة الأول للديمقراطية التداولية.',
+
+    'resources.featured.npm':
+      'يحتفظ بأكثر من 700,000 قطعة أثرية تمتد عبر 8000 عام، وهو أحد أعظم مجموعات الفن الصيني في العالم، وقد أطلق معرضه الرقمي الآن.',
+    'resources.featured.ncl':
+      'المكتبة الوطنية وتايوان ومركز الإيداع القانوني، مركز تجميع المعرفة للنشر الوطني.',
+    'resources.featured.npgov':
+      'بوابة الحدائق الوطنية التسعة، من الجبال الشاهقة على ارتفاع 3000 متر إلى الشعاب المرجانية، تغطي التنوع البيولوجي الاستثنائي في تايوان البالغ مساحته 36,000 كيلومتر مربع.',
+
+    'resources.featured.twreporter':
+      'رائد التحقيق الصحفي غير الربحي في العالم الصيني، يتعمق في القضايا البيئية والاجتماعية والسياسية.',
+    'resources.featured.ptt':
+      'أكبر منتدى إنترنت في تايوان. منذ عام 1995، يدفع 200,000 مستخدم نشط يوميًا "ديمقراطية المستخدمين" الفريدة.',
+    'resources.featured.ptsNews':
+      'أخبار التلفزيون العام في تايوان، تقارير مستقلة وعادلة، المعيار الذهبي لصحافة المصلحة العامة.',
+
+    'resources.featured.tsmc':
+      'أكثر شركة أشباه موصلات قيمة في العالم، تنتج 92% من الرقائق المتقدمة التي تقود الذكاء الاصطناعي والهواتف الذكية والحواسيب الفائقة.',
+    'resources.featured.twse':
+      'قلب السوق الرأسمالي في تايوان، مسقط رأس تاسكوم و鸿海 (Foxconn).',
+    'resources.featured.nhi':
+      'التأمين الصحي الشامل الذي يغطي 99.9% من السكان ويستهلك 6.6% فقط من الناتج المحلي الإجمالي، نموذج تدرس له خبراء السياسات الصحية العالمية.',
+
+    'resources.featured.g0v':
+      'أكثر مجتمع تكنولوجيا المواطنين تأثيرًا في العالم، أوجد خرائط أقنعة الوجه لكوفيد-19، ومنصة vTaiwan التداولية، ووزيرًا رقميًا.',
+    'resources.featured.cofacts':
+      'التحقق الجماعي من الحقائق على LINE، حيث يتحقق ملايين المستخدمين بمساعدة الذكاء الاصطناعي من الرسائل المضللة.',
+    'resources.featured.taiwanmd':
+      'هذا المشروع الذي تقرأه الآن، موسوعة تايوان مفتوحة المصدر وتعاونية المجتمع.',
+
+    // Section footer
+    'resources.section.footer.verified': 'آخر تحقق: 2026-03-24',
+    'resources.section.footer.reportLink': 'الإبلاغ عن رابط معطل',
+
+    // Footer / Last updated
+    'resources.footer.lastUpdated': 'آخر تحديث: مارس 2026',
+    'resources.footer.report': 'الإبلاغ عن رابط معطل',
+    'resources.footer.reportUrl':
+      'https://github.com/frank890417/taiwan-md/issues',
+    'resources.footer.stats.total': '200+',
+
+    // Site names
+    'resources.site.president': 'مكتب رئيس جمهورية الصين (تايوان)',
+    'resources.site.executiveYuan': 'المجلس التنفيذي',
+    'resources.site.legislativeYuan': 'المجلس التشريعي',
+    'resources.site.judicialYuan': 'المجلس القضائي',
+    'resources.site.examinationYuan': 'المجلس الامتحاني',
+    'resources.site.controlYuan': 'المجلس الرقابي',
+
+    'resources.site.mofa': 'وزارة الخارجية',
+    'resources.site.moda': 'وزارة التنمية الرقمية',
+    'resources.site.cip': 'لجنة السكان الأصليين',
+    'resources.site.moc': 'وزارة الثقافة',
+    'resources.site.moe': 'وزارة التربية',
+    'resources.site.moea': 'وزارة الاقتصاد',
+    'resources.site.motc': 'وزارة المواصلات',
+    'resources.site.moi': 'وزارة الداخلية',
+    'resources.site.ndc': 'لجنة التنمية الوطنية',
+    'resources.site.mac': 'لجنة الشؤون عبر المضيق',
+    'resources.site.mol': 'وزارة العمل',
+    'resources.site.moenv': 'وزارة البيئة',
+    'resources.site.moa': 'وزارة الزراعة',
+    'resources.site.mnd': 'وزارة الدفاع',
+    'resources.site.moj': 'وزارة العدل',
+    'resources.site.mohw': 'وزارة الصحة والشؤون الاجتماعية',
+    'resources.site.trade': 'إدارة التجارة الدولية بوزارة الاقتصاد',
+    'resources.site.sme': 'إدارة الشركات الصغيرة والمتوسطة والشركات الناشئة',
+    'resources.site.tipo': 'الإدارة العامة للملكية الفكرية بوزارة الاقتصاد',
+    'resources.site.fsc': 'لجنة الإشراف على التنظيم المالي',
+    'resources.site.immigration': 'إدارة الهجرة بوزارة الداخلية',
+    'resources.site.cwa': 'إدارة الأرصاد الجوية المركزية',
+    'resources.site.nstc': 'اللجنة الوطنية للعلوم والتكنولوجيا',
+
+    'resources.site.taipei': 'حكومة مدينة تايبيه',
+    'resources.site.newTaipei': 'حكومة مدينة نيوي تايبيه',
+    'resources.site.taichung': 'حكومة مدينة تايتشونغ',
+    'resources.site.kaohsiung': 'حكومة مدينة غاوشيونغ',
+    'resources.site.tainan': 'حكومة مدينة تاينان',
+    'resources.site.taoyuan': 'حكومة مدينة تاويوان',
+    'resources.site.keelung': 'حكومة مدينة كيلونغ',
+    'resources.site.hsinchu': 'حكومة مدينة هسينتشو',
+    'resources.site.chiayi': 'حكومة مدينة تشيayi',
+    'resources.site.yilan': 'حكومة مقاطعة ييلان',
+    'resources.site.hsinchuCounty': 'حكومة مقاطعة هسينتشو',
+    'resources.site.miaoli': 'حكومة مقاطعة مياولي',
+    'resources.site.changhua': 'حكومة مقاطعة تشانغهوا',
+    'resources.site.nantou': 'حكومة مقاطعة نان تو',
+    'resources.site.yunlin': 'حكومة مقاطعة يونلين',
+    'resources.site.chiayiCounty': 'حكومة مقاطعة تشيayi',
+    'resources.site.pingtung': 'حكومة مقاطعة بينغتونغ',
+    'resources.site.taitung': 'حكومة مقاطعة تاي تونغ',
+    'resources.site.hualien': 'حكومة مقاطعة هوالين',
+    'resources.site.penghu': 'حكومة مقاطعة بنغهو',
+    'resources.site.kinmenGov': 'حكومة مقاطعة جينمن',
+    'resources.site.lienchiang': 'حكومة مقاطعة ليانتشانغ',
+    'resources.site.dataGov': 'منصة البيانات الحكومية المفتوحة',
+    'resources.site.taiwanGov': 'بوابة الحكومة',
+    'resources.site.lawDb': 'قاعدة بيانات القوانين واللوائح الوطنية',
+    'resources.site.g0v': 'حكومة g0v الصفرية',
+
+    'resources.site.ntu': 'جامعة تايوان الوطنية',
+    'resources.site.nthu': 'جامعة تشينغ هوا الوطنية',
+    'resources.site.nycu': 'جامعة يانغ مينغ جياو تونغ الوطنية',
+    'resources.site.ncku': 'جامعة تشينغ كونغ الوطنية',
+    'resources.site.nccu': 'جامعة تشينغ جونغ الوطنية',
+    'resources.site.ntnu': 'جامعة تايوان الوطنية للتعليم',
+    'resources.site.sinica': 'الأكاديمية الصينية',
+    'resources.site.tesd': 'منصة بيانات الأدلة التجريبية للتجربة التايوانية',
+    'resources.site.tcs': 'قاعدة بيانات استطلاعات الإعلام التايوانية',
+    'resources.site.brill': 'موسوعة أبحاث تايوان Brill',
+    'resources.site.itri': 'معهد البحث الصناعي',
+    'resources.site.niar': 'معهد البحوث الوطنية',
+    'resources.site.airitilibrary': 'المكتبة الإلكترونية هواي',
+    'resources.site.ndltd':
+      'نظام إضافة القيمة للمعرفة لأطروحات الماجستير والدكتوراه في تايوان',
+
+    'resources.site.ncl': 'المكتبة الوطنية الوطنية',
+    'resources.site.npm': 'متحف القصر الوطني',
+    'resources.site.ntm': 'متحف تايوان الوطني',
+    'resources.site.nmth': 'متحف تاريخ تايوان الوطني',
+    'resources.site.nmns': 'متحف تايوان الوطني للعلوم الطبيعية',
+    'resources.site.nmmba': 'متحف الحياة البحرية الوطني',
+    'resources.site.nmtl': 'مركز تايوان الوطني للأدب',
+    'resources.site.ntmofa': 'معرض تايوان الوطني للفنون',
+
+    'resources.site.tfam': 'معرض تايبيه للفنون',
+    'resources.site.kmfa': 'معرض كاوهسيونغ للفنون',
+    'resources.site.npacNtt': 'مسرح الأوبرا الوطني في تايشونغ',
+    'resources.site.npacNtch': 'المسرحان الوطنيان',
+    'resources.site.weiwuying': 'مركز وي وي يينغ للفنون',
+    'resources.site.songshan': 'حديقة صن شان الإبداعية',
+    'resources.site.huashan': 'حديقة هوا شان الإبداعية',
+    'resources.site.pier2': 'المنطقة الفنية بير 2',
+    'resources.site.digitalArchives': 'أرشيف تايوان الرقمي',
+    'resources.site.scitechVista': 'حديقة العلوم والتكنولوجيا الكبرى',
+    'resources.site.tcmb': 'المكتبة الرقمية للتراث الثقافي الوطني',
+    'resources.site.taicca': 'معهد TAICCA للترويج الثقافي',
+
+    'resources.site.yushan': 'حديقة يوشان الوطنية',
+    'resources.site.taroko': 'حديقة تاروكو الوطنية',
+    'resources.site.kenting': 'حديقة كينتينغ الوطنية',
+    'resources.site.sheipa': 'حديقة يانغ مينغ شان الوطنية',
+    'resources.site.yangmingshan': 'حديقة يانغ مينغ شان الوطنية',
+    'resources.site.kinmenPark': 'حديقة جينمن الوطنية',
+    'resources.site.taijiang': 'حديقة تاي جيانغ الوطنية',
+    'resources.site.dongsha': 'حديقة دونغشا المرجانية الوطنية',
+    'resources.site.southPenghu': 'حديقة بنغهو الجنوبية الأربع جزر الوطنية',
+    'resources.site.taiwanTourism': 'سياحة تايوان',
+    'resources.site.sunMoonLake': 'منطقة شون مينغ لاو السياحية الوطنية',
+    'resources.site.alishan': 'منطقة علي شان السياحية الوطنية',
+
+    'resources.site.cna': 'وكالة الأنباء المركزية',
+    'resources.site.pts': 'التلفزيون العام',
+    'resources.site.focusTaiwan': 'Focus Taiwan',
+    'resources.site.taiwanToday': 'Taiwan Today',
+    'resources.site.panorama': 'مجلة بانوراما تايوان',
+    'resources.site.rti': 'محطة الإذاعة المركزية',
+    'resources.site.udn': 'شبكة الأخبار الموحدة',
+    'resources.site.ltn': 'التايمز الحرة',
+    'resources.site.tvbs': 'شبكة TVBS الإخبارية',
+    'resources.site.setn': 'شبكة SET الإخبارية',
+    'resources.site.ebc': 'أخبار Eastern Broadcasting Company',
+    'resources.site.commonwealth': 'مجلة التايمز',
+    'resources.site.businesstoday': 'مجلة هذا الأسبوع',
+    'resources.site.businessweekly': 'مجلة الأعمال الأسبوعية',
+
+    'resources.site.twreporter': 'المحققون',
+    'resources.site.taiwanNews': 'Taiwan News',
+    'resources.site.thenewslens': 'عدسة الأخبار',
+    'resources.site.upmedia': 'أخبار علي',
+    'resources.site.storm': 'إعلام العاصفة',
+
+    'resources.site.tahr': 'جمعية تعزيز حقوق الإنسان في تايوان',
+    'resources.site.teia': 'جمعية معلومات البيئة في تايوان',
+    'resources.site.sow': 'جمعية حماية البرية',
+    'resources.site.ocf': 'مؤسسة الثقافة المفتوحة',
+    'resources.site.tfc': 'مركز التحقق من الحقائق في تايوان',
+    'resources.site.twnic': 'مركز المعلومات الشبكية في تايوان',
+    'resources.site.wikimedia': 'جمعية ويكيميديا في تايوان',
+    'resources.site.digitalDiplomacy': 'جمعية الدبلوماسية الرقمية في تايوان',
+
+    'resources.site.tsmc': 'شركة تايوان لتصنيع أشباه الموصلات',
+    'resources.site.umc': 'شركة يونيون كومبوني المحدودة',
+    'resources.site.foxconn': 'مجموعة فوكسكون للتكنولوجيا',
+    'resources.site.delta': 'مجموعة ديلتا للإلكترونيات',
+    'resources.site.taiwanExcellence': 'Taiwan Excellence',
+    'resources.site.cht': 'شركة الاتصالات الصينية',
+    'resources.site.taipower': 'شركة كهرباء تايوان',
+    'resources.site.iii': 'معهد البحث الصناعي',
+    'resources.site.investTaiwan': 'استثمر في تايوان',
+
+    'resources.site.railway': 'سكك حديد تايوان',
+    'resources.site.thsrc': 'سكك حديد تايوان فائقة السرعة',
+    'resources.site.taiwanTrip': 'رحلات تايوان الجيدة',
+    'resources.site.taoyuanAirport': 'مطار تاويوان الدولي',
+    'resources.site.metroTaipei': 'مترو تايبيه',
+    'resources.site.krtc': 'مترو كاوهسيونغ',
+
+    'resources.site.cdc': 'مركز السيطرة على الأمراض',
+    'resources.site.nhi': 'إدارة التأمين الصحي الوطني',
+    'resources.site.ntuh': 'مستشفى جامعة تايوان',
+    'resources.site.vghtpe': 'المستشفى العام الروحي في تايبيه',
+    'resources.site.cgmh': 'نظام تشانغ غونغ الطبي',
+    'resources.site.cmuh': 'مستشفى الجامعة الطبية الصينية',
+    'resources.site.kmuh': 'مستشفى جامعة كاوهسيونغ الطبية',
+
+    'resources.site.stat': 'الإحصاءات الوطنية',
+    'resources.site.twse': 'بورصة تايوان',
+    'resources.site.tpex': 'مركز التداول',
+
+    'resources.site.github': 'مستودع مشروع GitHub',
+    'resources.site.contribute': 'دليل المساهمة',
+    'resources.site.rss': 'اشتراك RSS',
+
+    // New community site names
+    'resources.site.electionMap': 'خريطة الانتخابات في تايوان',
+    'resources.site.maskMap': 'خريطة الكمامات (2020)',
+    'resources.site.goodinfo': 'معلومات أسواق المال الجيدة',
+    'resources.site.ccw': 'تحالف الرقابة المدنية على الكونغرس',
+    'resources.site.thaubing': 'بصمة شفافة',
+    'resources.site.politicalDonation': 'استعلام علني عن التبرعات السياسية',
+    'resources.site.burgerMap': 'خريطة البرغر في تايبيه',
+    'resources.site.nightMarket': 'تطبيق سوق الليل',
+    'resources.site.cofacts': 'Cofacts حقيقي أم مزيف',
+    'resources.site.disfactory':
+      'Disfactory مصانع غير قانونية على الأراضي الزراعية',
+    'resources.site.ptt': 'PTT باتي تياو',
+    'resources.site.ptsNews': 'شبكة أخبار PTS',
+    'resources.site.npgov': 'بوابة الحدائق الوطنية',
+    'resources.site.taiwanmd': 'Taiwan.md',
+  },
   'zh-TW': {
     // Meta
     'resources.meta.title': '台灣資源導覽 - Taiwan.md',

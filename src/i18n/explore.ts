@@ -465,6 +465,68 @@ export const exploreUI = {
     'explore.cta.contribute': 'लेख का योगदान करें',
     'explore.cta.github': 'GitHub पर ब्राउज़ करें',
   },
+  ar: {
+    'explore.meta.title':
+      'استكشف Taiwan.md — تصفح قاعدة المعرفة التايوانية المفتوحة',
+    'explore.meta.description':
+      'تصفح أكثر من 685 مقالًا تايوانيًا مختارًا: التاريخ، الجغرافيا، الثقافة، المأكولات، الفنون، الموسيقى، التكنولوجيا، الطبيعة، الشخصيات، المجتمع، الاقتصاد، الحياة. ابحث، اكتشف، استكشف.',
+
+    'explore.hero.eyebrow': 'قاعدة المعرفة',
+    'explore.hero.title': 'استكشف Taiwan.md',
+    'explore.hero.subtitle':
+      'سرديات عميقة لجزيرة — ابحث، اكتشف، تصفح حسب التصنيف.',
+
+    'explore.search.heading': 'البحث في قاعدة البيانات',
+    'explore.search.placeholder':
+      'ابحث عن كل شيء في تايوان (أشخاص، أماكن، ثقافة، أحداث)',
+    'explore.search.button': 'بحث',
+    'explore.search.random': 'استكشاف عشوائي',
+    'explore.search.randomSubtitle': 'ارمي النرد — اكتشف قصة لم تكن تتوقعها',
+    'explore.hotSearches.label': 'البحث الشائع',
+    'explore.hotSearches.term1': 'أشباه الموصلات',
+    'explore.hotSearches.term2': 'أسواق ليلية',
+    'explore.hotSearches.term3': 'السكان الأصليون',
+    'explore.hotSearches.term4': '28 فبراير',
+    'explore.hotSearches.term5': 'TSMC',
+    'explore.hotSearches.term6': 'شاي اللؤلؤ',
+
+    'explore.stats.articles': 'مقال',
+    'explore.stats.contributors': 'مساهم',
+    'explore.stats.languages': 'لغة',
+    'explore.stats.last30d': 'تم التحديث خلال آخر 30 يومًا',
+
+    'explore.categories.heading': 'تصفح حسب التصنيف',
+    'explore.categories.subtitle': 'اثنا عشر مجالًا، كل منها وجه لجزيرة.',
+
+    'explore.featured.heading': 'مختارات عميقة',
+    'explore.featured.subtitle':
+      'مقالات من الفئة A — هوامش كاملة، اقتباسات متقاطعة، مسارات بحثية قابلة للتتبع.',
+    'explore.featured.viewAll': 'عرض كل المختارات →',
+    'explore.featured.citations': 'اقتباسات',
+    'explore.featured.minRead': 'دقيقة',
+    'explore.popular.heading': 'المقالات الشائعة',
+    'explore.popular.subtitle': 'المقالات الأكثر قراءة خلال آخر 7 أيام.',
+    'explore.popular.views': 'مشاهدة',
+
+    'explore.more.heading': 'طرق أخرى للاستكشاف',
+    'explore.more.graph.title': 'مخطط المعرفة',
+    'explore.more.graph.desc':
+      'استكشف كيف ترتبط كل مقالات ببعضها البعض من خلال الرسم البياني.',
+    'explore.more.graph.cta': 'افتح المخطط →',
+    'explore.more.map.title': 'الخريطة الجغرافية',
+    'explore.more.map.desc': 'ابحث بناءً على موقع المقال على الجزيرة.',
+    'explore.more.map.cta': 'افتح الخريطة →',
+    'explore.more.terminology.title': 'مقارنة المصطلحات',
+    'explore.more.terminology.desc':
+      'جدول مرجعي سريع للمصطلحات المشتركة في قاعدة المعرفة.',
+    'explore.more.terminology.cta': 'افتح جدول المقارنة →',
+
+    'explore.cta.heading': 'لم تجد ما تبحث عنه؟',
+    'explore.cta.body':
+      'Taiwan.md مفتوحة المصدر — يمكن لأي شخص المساهمة بمقال، تصحيح حقيقة، أو ترجمة صفحة.',
+    'explore.cta.contribute': 'ساهم بمقال',
+    'explore.cta.github': 'تصفح على GitHub',
+  },
   'zh-TW': {
     'explore.meta.title': '探索 Taiwan.md — 瀏覽開放的台灣知識庫',
     'explore.meta.description':

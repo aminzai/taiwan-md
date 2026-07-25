@@ -5310,6 +5310,781 @@ export const mapUI = {
     'map.markers.wangLeeOlympicGold.desc':
       'मिडिल स्कूल के सहपाठियों से ओलंपिक स्वर्ण विजेता तक：「लिन-यांग जोड़ी」ने 34 मिनट में चीन को सीधे 2 गेमों में हराकर ताइवान के बैडमिंटन इतिहास का पहला ओलंपिक स्वर्ण पदक जीता',
   },
+  ar: {
+    // Meta
+    'map.meta.title': 'خريطة تايوان Map',
+    'map.meta.description': 'استكشف سياق محتوى Taiwan.md من خلال منظور الخريطة',
+
+    // Hero Section
+    'map.hero.kicker': 'عرض الخريطة',
+    'map.hero.title': 'خريطة تايوان',
+    'map.hero.subtitle':
+      'استكشف ثقافة تايوان ومطبخها وطبيعتها ونقاطها التاريخية من خلال منظور الخريطة.',
+
+    // Controls - Region Filter
+    'map.controls.region.title': 'تصفية المناطق',
+    'map.controls.region.all': 'الكل',
+    'map.controls.region.north': 'الشمال',
+    'map.controls.region.central': 'الوسط',
+    'map.controls.region.south': 'الجنوب',
+    'map.controls.region.east': 'الشرق',
+    'map.controls.region.islands': 'الجزر',
+
+    // Controls - Category Filter
+    'map.controls.category.title': 'تصفية الفئات',
+    'map.controls.category.all': 'الكل',
+    'map.controls.category.food': '🍜 المأكولات',
+    'map.controls.category.history': '📜 التاريخ',
+    'map.controls.category.nature': '🌿 الطبيعة',
+    'map.controls.category.culture': '🎭 الثقافة',
+    'map.controls.category.technology': '💻 التكنولوجيا',
+    'map.controls.category.economy': '📈 الاقتصاد',
+    'map.controls.category.lifestyle': '🏮 نمط الحياة',
+    'map.controls.category.art': '🎨 الفنون',
+    'map.controls.category.geography': '🗺️ الجغرافيا',
+
+    // Route Section
+    'map.route.title': '🗺️ مسارات مختارة',
+    'map.route.normal-mode': 'الوضع العادي',
+
+    // Sidebar - Default
+    'map.sidebar.default.title': '📍 استكشف مقالات تايوان',
+    'map.sidebar.default.hint':
+      'انقر على المقاطعات أو العلامات على الخريطة لاستكشاف المقالات',
+
+    // Sidebar - County
+    'map.sidebar.county.clear': '✕ مسح الاختيار',
+    'map.sidebar.county.articles-count': 'مقالات',
+    'map.sidebar.county.no-articles': 'لا توجد مقالات في هذه المنطقة بعد',
+
+    // Sidebar - Article
+    'map.sidebar.article.back': '← رجوع',
+    'map.sidebar.article.read-more': 'اقرأ المزيد →',
+
+    // Zoom Controls
+    'map.zoom.in': '＋',
+    'map.zoom.out': '－',
+    'map.zoom.reset': '⌂',
+
+    // Tooltips
+    'map.tooltip.county.articles': 'مقال ذو صلة',
+    'map.tooltip.county.click': 'انقر لتصفية هذه المنطقة',
+    'map.tooltip.marker.reading-time': 'دقائق قراءة',
+
+    // Panel (for compatibility)
+    'map.panel.title': 'خريطة معرفة تايوان',
+    'map.panel.stat.points': 'نقطة معرفة',
+    'map.panel.stat.categories': 'تصنيفات',
+    'map.panel.category-distribution': 'توزيع التصنيفات',
+    'map.panel.link.graph': '🕸️ شبكة المعرفة',
+    'map.panel.link.home': '🏠 نظرة عامة على التصنيفات',
+
+    // Category Names (for JS usage)
+    'map.category.history': '📜 التاريخ',
+    'map.category.geography': '🗺️ الجغرافيا',
+    'map.category.culture': '🎭 الثقافة',
+    'map.category.food': '🍜 المأكولات',
+    'map.category.art': '🎨 الفنون',
+    'map.category.music': '🎵 الموسيقى',
+    'map.category.technology': '💻 التكنولوجيا',
+    'map.category.nature': '🌿 الطبيعة',
+    'map.category.people': '👥 الشخصيات',
+    'map.category.society': '⚖️ المجتمع',
+    'map.category.economy': '📈 الاقتصاد',
+    'map.category.lifestyle': '🏮 نمط الحياة',
+
+    // Additional UI text
+    'map.sidebar.more-articles': '⋯ وأخرى',
+    'map.sidebar.more-articles-suffix': 'مقال',
+
+    // Routes
+    'map.routes.nightMarkets.name': '🍜 جولة أسواق الليل',
+    'map.routes.nightMarkets.description':
+      'من الشمال إلى الجنوب، ثقافة أسواق الليل الأكثر تمثيلًا في تايوان',
+    'map.routes.nationalParks.name': '🏔️ جولة الحدائق الوطنية',
+    'map.routes.nationalParks.description':
+      'من الجبال الشاهقة على ارتفاع 3,952 متر إلى الشعاب المرجانية الاستوائية، العجائب الطبيعية في تايوان',
+    'map.routes.historyTrail.name': '📜 آثار التاريخ',
+    'map.routes.historyTrail.description':
+      'من الاستعمار الهولندي إلى الديمقراطية، مررنا بأربعة قرون من تاريخ تايوان',
+    'map.routes.oldStreets.name': '🏮 جولة في الشوارع القديمة',
+    'map.routes.oldStreets.description':
+      'ذاكرة تايوان في شوارع عمرها مئة عام، العمارة هي التاريخ',
+
+    'map.routes.counties22.name': '📍 مقالات عميقة عن 22 مقاطعة ومدينة',
+    'map.routes.counties22.description':
+      'زُر المقالات العميقة الـ 22 عن المقاطعات والمدن في Taiwan.md، من كيتلونغ كنقطة انطلاق إلى شينبيه كنقطة ختامية — لكل مقاطعة ومدينة تناقض جوهري واحد.',
+    'map.counties22.panel.title': '📍 مقالات عميقة عن 22 مقاطعة ومدينة',
+    'map.counties22.panel.hint':
+      'انقر على بطاقة المقاطعة للفتح، أو اختر المقاطعة من الخريطة',
+    'map.counties22.tooltip.openDeep': 'انقر لفتح المقال العميق',
+    'map.counties22.deepCard.badge':
+      '📖 سلسلة الـ 22 مقاطعة ومدينة · مقالات عميقة',
+    'map.counties22.deepCard.cta': 'اقرأ المقال كاملاً →',
+
+    // Night Markets Stops
+    'map.stops.shilinNightMarket.name': 'سوق شيلين الليلي',
+    'map.stops.shilinNightMarket.note':
+      'أكبر سوق سياحي ليلي في جميع أنحاء تايوان، مسقط رأس "الكعكة الكبيرة المحاطة بالكيكة الصغيرة"',
+    'map.stops.raoheNightMarket.name': 'سوق راوه الليلي',
+    'map.stops.raoheNightMarket.note':
+      'المكان المقدس لانتظار طابور كعك الفلفل، المفضلة لدى أهل تايبيه',
+    'map.stops.ningxiaNightMarket.name': 'سوق نينغشيا الليلي',
+    'map.stops.ningxiaNightMarket.note':
+      'أعلى كثافة للأطعمة، شارع للأطعمة الشعبية الموصى به من دليل ميشلان',
+    'map.stops.fengjiaNightMarket.name': 'سوق فنجيا الليلي',
+    'map.stops.fengjiaNightMarket.note':
+      'مختبر الابتكار للأطباق الخفيفة، الجبهة الأمامية لابتكار أسواق تايوان الليلية',
+    'map.stops.huayuanNightMarket.name': 'سوق هوايوان الليلي',
+    'map.stops.huayuanNightMarket.note':
+      'أكبر سوق ليلي في تاينان، احتفال محدود يفتح ثلاثة أيام فقط في الأسبوع',
+    'map.stops.liuheNightMarket.name': 'سوق ليوهي الليلي',
+    'map.stops.liuheNightMarket.note':
+      'سوق ليلي رمزي في كاوهسيونغ، حيث الأسماك والمأكولات البحرية هي البطل',
+
+    // National Parks Stops
+    'map.stops.yangmingshanNationalPark.name': 'الحديقة الوطنية يانغمينغشان',
+    'map.stops.yangmingshanNationalPark.note':
+      'حديقة تايبيه الخلفية، تضاريس بركانية وأسرار الينابيع الساخنة',
+    'map.stops.tarokoNationalPark.name': 'الحديقة الوطنية تاروكو',
+    'map.stops.tarokoNationalPark.note':
+      'وادي الرخام، ظاهرة جيولوجية عالمية المستوى',
+    'map.stops.yushanNationalPark.name': 'حديقة يوشان الوطنية',
+    'map.stops.yushanNationalPark.note':
+      'أعلى قمة في شمال شرق آسيا (3,952 م)، عمود تايوان',
+    'map.stops.alishanScenicArea.name': 'منطقة عليشان السياحية الوطنية',
+    'map.stops.alishanScenicArea.note':
+      'شروق الشمس، بحر السحب، غابات الأشجار القديمة وسكك الحديد الغابية',
+    'map.stops.sunMoonLakeScenicArea.name':
+      'منطقة بحيرة الشمس والقمر السياحية الوطنية',
+    'map.stops.sunMoonLakeScenicArea.note':
+      'أكبر بحيرة طبيعية في تايوان، البحيرة المقدسة لقبيلة شاو',
+    'map.stops.kentingNationalPark.name': 'حديقة كنتينغ الوطنية',
+    'map.stops.kentingNationalPark.note':
+      'أقصى جنوب تايوان، الشعاب المرجانية الاستوائية وشبه جزيرة hengchun',
+
+    // History Trail Stops
+    'map.stops.anpingFort.name': 'قلعة أنبينغ القديمة',
+    'map.stops.anpingFort.note':
+      'بناها الهولنديون عام 1624، أقدم قلعة في تايوان',
+    'map.stops.chikanTower.name': 'برج تشيكان',
+    'map.stops.chikanTower.note':
+      'من قلعة فوكييان الهولندية إلى رمز حكم تشنغ تشنغ كونغ',
+    'map.stops.lukang.name': 'لوكانغ',
+    'map.stops.lukang.note':
+      'المدينة الثانية في تايوان خلال عهد تشينغ، "مقاطعة واحدة، مدينتان، ثلاثة ميناءات"',
+    'map.stops.presidentialOffice.name':
+      'مكتب الرئاسة (مقر الحاكم العام السابق لتايوان)',
+    'map.stops.presidentialOffice.note':
+      'تم بناؤها عام 1919، مركز السلطة العليا في فترة الحكم الياباني',
+    'map.stops.chiangKaiShekMemorialHall.name': 'قاعة تشيانغ كاي شيك التذكارية',
+    'map.stops.chiangKaiShekMemorialHall.note':
+      'رمز الاستبداد ومحور جدال التحول العادل',
+    'map.stops.legislativeYuan.name': 'المجلس التشريعي (حركة زهرة الربيع)',
+    'map.stops.legislativeYuan.note':
+      'موقع حركة طلاب زهرة الربيع عام 2014، علامة فارقة في ديمقراطية تايوان',
+
+    // Old Streets Stops
+    'map.stops.dihuaStreet.name': 'شارع ديهوا',
+    'map.stops.dihuaStreet.note':
+      'قلب داوديانغ، شارع البضائع الشمالية والجنوبية وأعياد رأس السنة',
+    'map.stops.jiufenOldStreet.name': 'شارع جيوفن القديم',
+    'map.stops.jiufenOldStreet.note':
+      'سنوات الذهب في التعدين ومصدر إلهام فيلم "هملت"',
+    'map.stops.lukangOldStreet.name': 'شارع لوكانغ القديم',
+    'map.stops.lukangOldStreet.note':
+      'متحف حي للبيوت القديمة الطوبية والحرف التقليدية',
+    'map.stops.anpingOldStreet.name': 'شارع أنبين القديم',
+    'map.stops.anpingOldStreet.note':
+      'أقدم شارع في تايوان، تراكم تاريخي يمتد لأربعة قرون',
+    'map.stops.qishanOldStreet.name': 'شارع تشيشان القديم',
+    'map.stops.qishanOldStreet.note': 'مجمعات معمارية باروكية في مملكة الموز',
+    'map.stops.tamsuiOldStreet.name': 'شارع تانسيوي القديم',
+    'map.stops.tamsuiOldStreet.note':
+      'غروب الشمس، أغفي، وسحر تاريخي عند مصب نهر تانسيوي',
+
+    // Cities
+    'map.city.taipei': 'تايبيه',
+    'map.city.newTaipei': 'تايبيه الجديدة',
+    'map.city.keelung': 'كيلونغ',
+    'map.city.taoyuan': 'تاويوان',
+    'map.city.hsinchu': 'هسينتشو',
+    'map.city.miaoli': 'مياولي',
+    'map.city.taichung': 'تايchung',
+    'map.city.changhua': 'تشانغهوا',
+    'map.city.nantou': 'نانتو',
+    'map.city.chiayi': 'تشيائي',
+    'map.city.tainan': 'تاينانغ',
+    'map.city.kaohsiung': 'كاوهسيونغ',
+    'map.city.pingtung': 'بينغتونغ',
+    'map.city.yilan': 'ييلان',
+    'map.city.hualien': 'هوالين',
+    'map.city.taitung': 'تايتونغ',
+    'map.city.penghu': 'بنغهو',
+    'map.city.kinmen': 'جينمن',
+
+    // Markers
+    'map.markers.founderCheYuWu.title': 'المؤسس — وو زهييو Che-Yu Wu',
+    'map.markers.founderCheYuWu.desc':
+      'من الكود إلى الشعر: طريق الاختراق الدولي لفنان تايواني',
+    'map.markers.taiwanIndigenousContemporaryArt.title':
+      'الفن المعاصر للسكان الأصليين في تايوان',
+    'map.markers.taiwanIndigenousContemporaryArt.desc':
+      'من الحرف التقليدية إلى الإبداعات المعاصرة، استكشف كيف يعبّر فنانون تايوانيون أصليون عن أصواتهم على المسرح الفني العالمي، ويعيدون تعريف حوار الهوية الأصلية مع الفن المعاصر',
+    'map.markers.taiwanExperimentalNewMediaArt.title':
+      'الفن التجريبي والإعلام الجديد في تايوان',
+    'map.markers.taiwanExperimentalNewMediaArt.desc':
+      'من فن الفيديو إلى التفاعل بالواقع الافتراضي، استكشف التطور المبتكر لفن الإعلام الجديد في تايوان والنظام البيئي للفن التكنولوجي',
+    'map.markers.taiwanArchitecture.title': 'الهندسة المعمارية في تايوان',
+    'map.markers.taiwanArchitecture.desc':
+      'من بيت الحجارة إلى ناطحة السحاب: رحلة معمارية عبر الزمن في جزيرة تايوان',
+    'map.markers.taiwanNewMediaArt.title': 'الفنون الإعلامية الجديدة في تايوان',
+    'map.markers.taiwanNewMediaArt.desc': 'استكشاف ثقافة تايوان وقصصها',
+    'map.markers.taiwanWatercolorCenturyEvolution.title':
+      'التطور المائتي اللون في فن الرسم المائي التايواني',
+    'map.markers.taiwanWatercolorCenturyEvolution.desc':
+      'من إرشادات ستوكاوا كينيتشيرو في حقبة الحكم الياباني، إلى شهرة جيان تشونغ وي المعاصرة على الساحة الدولية، قطع فن الرسم المائي في تايوان مسيرته المائتي اللون ليصبح مركزًا نشطًا للإبداع المائي في آسيا.',
+    'map.markers.taiwanModernPoetry.title': 'الشعر الحديث في تايوان',
+    'map.markers.taiwanModernPoetry.desc':
+      'كيف ولّد التجريب الحداثي، النابع من ثلاثة مكتبات شخصية، بشكل غير متوقع ثورة شعرية ذات طابع محلي أصيل',
+    'map.markers.taiwanContemporarySculpture.title':
+      'تطور النحت المعاصر في تايوان',
+    'map.markers.taiwanContemporarySculpture.desc':
+      'استكشاف مسارات تطور النحت التايواني وروحه الإبداعية، من يانغ يينغ فونغ وجو مينغ إلى الجيل الجديد',
+    'map.markers.taiwanCuratorsArtCulture.title':
+      'المعرضون التايوانيون وبناء الثقافة والفنون',
+    'map.markers.taiwanCuratorsArtCulture.desc':
+      'من المعارض المستقلة إلى نظام المتاحف، كيف يبني معرضو تايوان الخطابات الثقافية للفنون المعاصرة والحوار الدولي',
+    'map.markers.newMediaArt.title': 'الفنون الإعلامية الجديدة',
+    'map.markers.newMediaArt.desc':
+      'الاستكشاف الرائد للفنون الرقمية في تايوان، حيث يندمج العلم والإنسان من المختبر إلى المسرح الدولي',
+    'map.markers.contemporaryTaiwanLiterature.title': 'الأدب التايواني المعاصر',
+    'map.markers.contemporaryTaiwanLiterature.desc':
+      'استكشاف ثقافة تايوان وقصصها',
+    'map.markers.taiwanContemporaryArt.title': 'الفنون التايوانية المعاصرة',
+    'map.markers.taiwanContemporaryArt.desc':
+      'المكانة الفريدة للفنون التايوانية المعاصرة على المسرح العالمي، من متحف الفنون الجميلة في تايبيه إلى جناح تايوان في بينالي البندقية',
+    'map.markers.kinmenGuesthouseMuseum.title': 'متحف كينمن للضيوف المعاصر',
+    'map.markers.kinmenGuesthouseMuseum.desc':
+      'محطة عسكرية من حقبة الحرب الباردة شهدت الفراق واللمّ، استيقظت بعد عشرين عامًا من السكون على يد أب وابنته لتصبح المتحف الموصى به في كائونه الأول من دليل "ليون جارد" في غاوشيونغ.',
+    'map.markers.renjianMagazine.title': 'مجلة رينجيان',
+    'map.markers.renjianMagazine.desc':
+      'العدد 47، على مدى أربع سنوات، ثورة هادئة انطلقت عبر التصوير الفوتوغرافي والنصوص — نقطة انطلاق الأدب التايواني التقريرية',
+    'map.markers.taiwanIndigenousCulture.title':
+      'ثقافة السكان الأصليين في تايوان',
+    'map.markers.taiwanIndigenousCulture.desc':
+      'من التقاليد المتنوعة للستة عشر مجموعة إلى إحياء الفنون المعاصرة، استكشاف الجذور العميقة للثقافة التايوانية الأصلية وتحولاتها الحديثة',
+    'map.markers.taiwan16IndigenousTribes.title':
+      'خريطة ثقافية لستة عشر قبيلة من السكان الأصليين في تايوان',
+    'map.markers.taiwan16IndigenousTribes.desc':
+      'استكشاف المناطق الموزعة للستة عشر مجموعة من السكان الأصليين في تايوان، وأنظمة لغاتهم، والاحتفالات الهامة، والتطورات في الإبداع المعاصر، لفهم المشهد الثقافي المتنوع للسكان الأصليين في تايوان',
+    'map.markers.taiwanNightMarketCulture.title':
+      'ثقافة أسواق الليل والمأكولات الشعبية في تايوان',
+    'map.markers.taiwanNightMarketCulture.desc':
+      'استكشاف عميق الخلفية التاريخية لتشكل ثقافة أسواق الليل في تايوان، وسحرها الفريد، وقصص تاريخية ومعاني ثقافية لأشهر المأكولات الشعبية',
+    'map.markers.taiwanSensibilityKoreanPerspective.title':
+      'الإحساس التايواني: الجمالية التايوانية من منظور كوري',
+    'map.markers.taiwanSensibilityKoreanPerspective.desc':
+      'من مقاطع موسيقى K-pop إلى معرض سيول للكتب، كيف جعلت «اللمسة التايوانية» (대만감성) الشوارع اليومية في تايوان رمزًا جماليًا الأكثر جاذبية في آسيا',
+    'map.markers.taiwanCulturalCreativeParks.title':
+      'تطور المتنزهات الثقافية والإبداعية في تايوان',
+    'map.markers.taiwanCulturalCreativeParks.desc':
+      'من إحياء المباني القديمة إلى تجمعات إبداعية، رحلة تطور المتنزهات الثقافية والإبداعية في تايوان ونماذجها المبتكرة',
+    'map.markers.taiwanOldStreetCulture.title':
+      'ثقافة الشوارع القديمة والمناطق التجارية في تايوان',
+    'map.markers.taiwanOldStreetCulture.desc':
+      'من ازدهار الموانئ في عهد أسرة تشينغ إلى العمارة الباروكية الغربية في حقبة الحكم الياباني، شارع تايوان القديم هو تاريخ شعبي مكتوب بالطوب والقرميد',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.title':
+      'طقوس الشاي والجماليات الحياتية في تايوان',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.desc':
+      'من شاي الكونغ فو إلى جماليات طاولة الشاي، استكشاف كيفية دمج تايوان وتحويلها للابتكار بين ثقافة الشاي الشرقية والجماليات الحياتية المحلية',
+    'map.markers.taiwanStreetArtGraffiti.title':
+      'فن الشارع والجرافيتي في تايوان',
+    'map.markers.taiwanStreetArtGraffiti.desc':
+      'من الجرافيتي تحت الأرض إلى اللوحات الجدارية القانونية، كيف أصبحت جدران المدن مسرحًا لإبداع الفنانين التايوانيين',
+    'map.markers.taiwanIncenseMakingCulture.title':
+      'ثقافة صنع البخور وموطن صناعه في تايوان',
+    'map.markers.taiwanIncenseMakingCulture.desc':
+      'من حرفة صنع العطور الممتدة لقرون في مجتمع يونكسو من جياي، إلى صناعة العطور المنتشرة في جميع أنحاء الجزيرة — مهنة قديمة تجمع بين الإيمان العميق، والحرفية، والإصرار',
+    'map.markers.taiwanHomophoneTaboos.title':
+      'ثقافة المحظورات الصوتية في تايوان: لماذا يتخطى المجتمع بأكمله الطابق الرابع؟',
+    'map.markers.taiwanHomophoneTaboos.desc':
+      'من عدم وجود طابق رابع في المستشفيات إلى بيع لوحة ترخيص السيارة 8888 بأعلى سعر في المزادات، يُعد حساسية التايوانيين تجاه التناغم الصوتي من أعلى مستوياتها في العالم',
+    'map.markers.hakkaCultureLanguage.title': 'ثقافة ولغة الهكا',
+    'map.markers.hakkaCultureLanguage.desc':
+      'روح العناد وجيو تشوان: الإرث الثقافي لشعب الهكا في تايوان والتجديد المعاصر',
+    'map.markers.ethnicGroupsTaiwan.title':
+      'المجموعات العرقية (مينان، الهكا، السكان الأصليون، الخارجيون، المقيمون الجدد)',
+    'map.markers.ethnicGroupsTaiwan.desc':
+      'تنوع المجموعات العرقية في تايوان ليس مجرد نتيجة للتطور التاريخي، بل هو أيضًا المفتاح لفهم المجتمع التايواني المعاصر. إن هيكل المجتمع هذا الذي يتعايش فيه الجميع، هو مصدر الإبداع الثقافي في تايوان، وهو أيضًا أساس مهم لتطوير السياسة الديمقراطية. كيف يمكن، مع احترام الخصائص الثقافية لكل مجموعة عرقية، بناء هوية تايوانية مشتركة، هو موضوع مهم مستمر يواجهه المجتمع التايواني.',
+    'map.markers.chinaSteel.title':
+      'شركة الصين للصلب: قصة الصلب الأسطورية لوزير "الرأس الحديدي" ومشاريع البناء العشرة الكبرى',
+    'map.markers.chinaSteel.desc':
+      'من ذكاء تشاو ياودونغ في التفاوض على التكنولوجيا مع أوروبا وأمريكا، إلى أول دخان أبيض يرتفع من شياوغانغ في كاوهسيونغ، بنى الصلب الصيني العمود الفقري للصناعة الثقيلة في تايوان على مدى 50 عامًا، وهو ألمع جوه في مشاريع البناء العشرة الكبرى',
+    'map.markers.taiwanCement.title':
+      'تايوان للإسمنت: قصة التحول الأخضر لأول شركة مدرجة في تايوان',
+    'map.markers.taiwanCement.desc':
+      'تأسست بورصة تايوان للقيم المالية في عام 1962 من أجلها، ورقم السهم 1101 يرمز إلى أصل سوق الأسهم التايواني. من إدارة عائلة غو على مدى ثلاثة أجيال لمدة 76 عامًا، شهدت أفران الإسمنت في تايوان للإسمنت معجزات البناء في تايوان، والآن تتحول إلى شركة خضراء لمواجهة عصر الحياد الكربوني',
+    'map.markers.tsmc.title': 'شركات تايوان: شركة تايوان لصناعة أشباه الموصلات',
+    'map.markers.tsmc.desc':
+      'الرائد العالمي في تصنيع الرقائق، يمسك بالشريان الحيوي الحاسم للحضارة الرقمية البشرية',
+    'map.markers.chimeiCorporation.title':
+      'شركة تشيمي الصناعية: مملكة أكسيلي من شو ون لون وحلم المتحف',
+    'map.markers.chimeiCorporation.desc':
+      'بدأت من مصنع صغير في رينده، تاينان في عام 1960، بنى شو ون لون مملكة ABS الأكبر في آسيا طوال حياته، وأنشأ أيضًا متحف تشيمي لإعطاء المجتمع. أثبت أن الشركات التايوانية يمكنها الجمع بين النجاح التجاري والاهتمام الإنساني',
+    'map.markers.acer.title':
+      'مجموعة هونداي (Acer) - رائد التغيير في صناعة الحواسيب الشخصية',
+    'map.markers.acer.desc':
+      'رائد الحواسيب الشخصية الذي انطلق من تايتونغ في تايوان، خلق نموذج أعمال "متعدد العلامات التجارية، متعدد القنوات"، وأصبح محرك التغيير في صناعة الحواسيب الشخصية العالمية',
+    'map.markers.giantBicycles.title':
+      'شركات تايوان: giant bicycles (المركبات العملاقة)',
+    'map.markers.giantBicycles.desc':
+      'من العبيد في التصنيع الذين تخلت عنهم الشركات العملاقة الأمريكية إلى الإمبراطورية الخفية التي تحدد معايير تقنية الدراجات الهوائية عالميًا',
+    'map.markers.quantaComputer.title': 'شركة تايوانية: غوانغ داه كومبيوتر',
+    'map.markers.quantaComputer.desc':
+      'من حرائق المصانع إلى ملك الحواسيب المحمولة العالمي، كيف بنى لين باي لي إمبراطورية جديدة في عصر الذكاء الاصطناعي؟',
+    'map.markers.aseGroup.title': 'شركة تايوانية: مجموعة أسيمك سيكوندكتر',
+    'map.markers.aseGroup.desc':
+      'أكبر مصنع في العالم للتغليف والاختبار، لماذا حوّل صاحب الشركة تركيزه إلى أشباه الموصلات؟',
+    'map.markers.esunFinancialHolding.title':
+      'شركة تايوانية: يو شان المالية القابضة',
+    'map.markers.esunFinancialHolding.desc':
+      'من البنك المتخصص في بطاقات الائتمان إلى رائد في الخدمات المالية الرقمية، قصة اختراق أصغر مدير تنفيذي لمجموعة مالية عمره 43 عامًا',
+    'map.markers.changChunPetrochemical.title':
+      'شركة تايوانية: تشانغ تشون للبتروكيماويات',
+    'map.markers.changChunPetrochemical.desc':
+      'من مصنع صغير في تاي نانغ عام 1949 إلى عملاق كيميائي عالمي، قصة البطل الخفي الذي «لا يطرح أسهمًا ولا يقترض أموالًا»',
+    'map.markers.formosaPlasticsGroup.title':
+      'شركة تايوانية: تشانغ رونغ للشحن البحري',
+    'map.markers.formosaPlasticsGroup.desc':
+      'من سفينة مستعملة واحدة إلى إمبراطورية شحن بحري عالمية، أسطورة المياه الزرقاء لتشانغ يونغ فا',
+    'map.markers.taipeiFubon.title':
+      'اقتصاد أسواق الطعام الليلية: معجزة تجارية بدون علامة تجارية',
+    'map.markers.taipeiFubon.desc':
+      'استكشف كيف تخلق أسواق الطعام الليلية في تايوان معجزة اقتصادية بقيمة إنتاج سنوية تقارب 400 مليار دون وجود علامة تجارية أو ديكور أو موقع ثابت',
+    'map.markers.taiwan7Eleven.title': 'صناعة القهوة في تايوان',
+    'map.markers.taiwan7Eleven.desc':
+      'من أصول الزراعة في حقبة الحكم الياباني إلى بطل العالم في سيمبل كافا، تاريخ التطور المئوي لقهوة تايوان',
+    'map.markers.taiwanHighSpeedRail.title':
+      'خريطة الوجبات الخفيفة المحلية في تايوان',
+    'map.markers.taiwanHighSpeedRail.desc':
+      'من دينغ بيان هو في معبد كيتشينغ إلى أقدام الخنزير في وان لوان بينغشي، من كونغ وان في هسينتشو إلى الساكى في تاي تونغ، لكل مدينة حمضها النووي الذوقي الخاص. اتبع خطوات السكان المحليين واكتشف أكثر الوجبات الخفيفة المحلية تمثيلاً في 22 مقاطعة ومدينة في تايوان، واستمتع بأصوات الثقافة الشعبية الأكثر أصالة في الجزيرة.',
+    'map.markers.taiwanSemiconductorIndustry.title':
+      'أطباق تايوان التقليدية: ذكريات ذائقة تختفي',
+    'map.markers.taiwanSemiconductorIndustry.desc':
+      'من دجاج النعناع في جيا يي إلى حساء مخلفات الخضار، الأطباق المميزة لجداتنا تحمل ذكريات العائلة، لكنها تتلاشى ببطء في ظل التحولات الزمنية',
+    'map.markers.taiwanBankingSystem.title':
+      'اندماج المأكولات الجديدة في تايوان',
+    'map.markers.taiwanBankingSystem.desc':
+      'عندما تلتقي الحامض الحار التايلاندي بالحلو المالح التايواني، وعندما تتقابل حساء الفيناميت مع الأطباق المخللة التايوانية، وعندما تحتضن التوابل الإندونيسية المكونات المحلية، تحدث ثورة ذوقية عابرة للحدود في تايوان بهدوء. لا يجلب المقيمون الجدد فقط أطباق بلدانهم الأصلية، بل أيضًا إمكانيات جديدة غنية لثقافة الطعام التايوانية.',
+    'map.markers.taiwanSmes.title': 'مملكة الفواكه التايوانية',
+    'map.markers.taiwanSmes.desc':
+      'من المانغو والليشي إلى الجاك فروت والوا لوف، أسطورة حلوة من تنوع الفواكه الاستوائية والاختراقات التقنية الزراعية',
+    'map.markers.youbikePublicBikeSystem.title':
+      'ثقافة المأكولات البحرية التايوانية',
+    'map.markers.youbikePublicBikeSystem.desc':
+      'توصيل طازج من الموانئ السمكية، وثقافة مطاعم المأكولات البحرية، وأطباق المأكولات البحرية مثل كعكة المحار، مما يعرض خصائص الجزيرة المحاطة بالبحار من جميع الجوانب والتقاليد الغذائية الغنية للمأكولات البحرية في تايوان',
+    'map.markers.taiwanFoodBeverageIndustry.title':
+      'مطعم ميشلان وتناول الطعام الفاخر في تايوان',
+    'map.markers.taiwanFoodBeverageIndustry.desc':
+      'في عام 2018، ظهرت غلاف دليل ميشلان الأحمر لأول مرة بكلمة "تايبيه"، مما يشير إلى دخول صناعة المطاعم التايوانية رسميًا إلى نظام التقييم الدولي. من أكشاك الشوارع إلى المطاعم النجمية، ومن الطعام الشعبي إلى الأطباق الفاخرة، تظهر الثقافة الغذائية التايوانية على المسرح الدولي مظهرًا جذابًا يجمع بين التقليد والابتكار.',
+    'map.markers.taiwanAgriculturalReform.title': 'ثقافة أسواق الليل',
+    'map.markers.taiwanAgriculturalReform.desc':
+      '164 سوق ليل تحت الإشراف، يتوسط تاينان 38 ألفًا拥有一夜市 (يتمتع سوق ليل واحد لكل 38 ألف شخص)، من ساحات المعابد إلى الوجهات السياحية الدولية',
+    'map.markers.taiwanTeaIndustry.title': 'ثقافة الطعام الهكا',
+    'map.markers.taiwanTeaIndustry.desc':
+      'الثقافة الغذائية الغنية والمتنوعة لشعب الهكا، من الرائحة الغنية والكثيفة للشاي المخلوط إلى جو الجبال والغابات لأرزونج الزنجبيل البري، مما يعرض الحكمة الحياتية لشعب الهكا في الادخار والكفاح واستخدام المواد المحلية',
+    'map.markers.taiwanFishingIndustry.title': 'نودلز لحم البقر',
+    'map.markers.taiwanFishingIndustry.desc':
+      'من حنين المهاجرين الخارجيين إلى طعام الشعب الوطني في تايوان، الاندماج الثقافي ونفحات العطر العالمية لنودلز لحم البقر',
+    'map.markers.taiwanFruitIndustry.title': 'ثقافة الشاي',
+    'map.markers.taiwanFruitIndustry.desc':
+      'تطور ثقافة الشاي في تايوان من فن الشاي التقليدي إلى مشروبات الشاي الحديثة، مما يعرض أصناف الشاي الفريدة للجزيرة وثقافة شرب الشاي',
+    'map.markers.taiwanRiceVarieties.title':
+      'على الجزيرة الهزوزة، بنوا برجًا يمكنه الطيران',
+    'map.markers.taiwanRiceVarieties.desc':
+      'على بعد 200 متر فقط من الصدع النشط، يصر الناس في تايوان على بناء أطول ناطحة سحاب في العالم على أكثر الأراضي عدم استقرارًا — ثم صعد مجنون على الأيدي لمدة 91 دقيقة.',
+    'map.markers.nightMarketCulture.title':
+      'المعالم الجغرافية الخمسة الكبرى في تايوان وهيكلها الجغرافي: من السلاسل الجبلية إلى السهول، ملامح الجزيرة',
+    'map.markers.nightMarketCulture.desc':
+      'استكشف الهيكل الجغرافي الفريد لتايوان، من سلسلة جبال المركزية إلى السهول الغربية، وتعرّف على تنوع تضاريس هذه الجزيرة',
+    'map.markers.bubbleTeaGlobalPhenomenon.title':
+      'شبكة النقل والمواصلات في تايوان',
+    'map.markers.bubbleTeaGlobalPhenomenon.desc':
+      'القطارات فائقة السرعة، والمترو، والطرق السريعة، والطيران، تشكّل شبكة نقل ثلاثية الأبعاد تربط أجزاء تايوان',
+    'map.markers.taiwanBeefNoodle.title':
+      'نظام مناطق الجذب السياحي الوطنية في تايوان',
+    'map.markers.taiwanBeefNoodle.desc':
+      'من الزاوية الشمالية الشرقية إلى كيندينغ، تُظهر المناطق السياحية الوطنية الـ 13 في تايوان مناظر طبيعية وثقافية غنية',
+    'map.markers.taiwanHotPotCulture.title':
+      'خصائص وتكوين جغرافيا جزيرة تايوان',
+    'map.markers.taiwanHotPotCulture.desc':
+      'استكشف الخصائص الجغرافية الفريدة لجزيرة تايوان، من حركة الصفائح التكتونية إلى الهيكل التضاريسي، واكتشف الأسرار الطبيعية لجزيرة فورموزا',
+    'map.markers.taiwanFineDining.title':
+      'حركة الصفائح التكتونية والنشاط الزلزالي في تايوان',
+    'map.markers.taiwanFineDining.desc':
+      'استكشاف الخصائص الجيولوجية لتايوان الواقعة عند حدود تقاطع صفيحة أوراسيا وصفيحة بحر الفلبين، والأسباب الكامنة وراء النشاط الزلزالي المتكرر',
+    'map.markers.taiwanStreetFood.title':
+      'السدود وإدارة الموارد المائية في تايوان',
+    'map.markers.taiwanStreetFood.desc':
+      'من أزمة نقص المياه إلى ترسيب السدود، التحديات التي تواجه الموارد المائية في تايوان وصعوبات عدم التوزيع العادل بين الشمال والجنوب',
+    'map.markers.taiwanVegetarianCulture.title':
+      'نظام الأنهار وخصائص الهيدرولوجيا في تايوان: الجريان المائي السريع والقصير والتغيرات الموسمية',
+    'map.markers.taiwanVegetarianCulture.desc':
+      'استكشف نظام الأنهار الفريد في تايوان، من نهر تشويشوي إلى نهر غاوبينغ، وتعرّف على كيفية تشكيل تضاريس الجزيرة للخصائص الهيدرولوجية لتايوان',
+    'map.markers.taiwanCoffeeCulture.title':
+      'التضاريس الساحلية والمناظر البحرية في تايوان',
+    'map.markers.taiwanCoffeeCulture.desc':
+      'من السواحل الخلجية الشمالية إلى السواحل الصدعية الشرقية، تُظهر التضاريس الساحلية المتنوعة والغنية في تايوان براعة حركة الصفائح التكتونية',
+    'map.markers.taiwanSnackCulture.title':
+      'المناظر الحرارية المائية في تايوان',
+    'map.markers.taiwanSnackCulture.desc':
+      'بيتو، تشيبان، جياوشي، التقاء جميل بين الثقافة الحرارية المائية والعلوم الجيولوجية',
+    'map.markers.taiwanSeafoodCulture.title':
+      'مراكز التنوع البيولوجي في تايوان',
+    'map.markers.taiwanSeafoodCulture.desc':
+      'ت擠س 59,000 نوع من الكائنات الحية ضمن 36,000 كيلومتر مربع من الجزيرة، والكثافة أعلى بمئة مرة من المتوسط العالمي',
+    'map.markers.taiwanPineappleCake.title':
+      'مناظر الزراعة والتوزيع الصناعي في تايوان',
+    'map.markers.taiwanPineappleCake.desc':
+      'التغيرات في المناظر الزراعية من الشمال إلى الجنوب، تبرز مسار تحول تايوان من «مخزن الحبوب لتايوان» إلى «الزراعة الدقيقة»',
+    'map.markers.taiwanPorkRibSoup.title':
+      'التطور الحضري والفجوة بين المدينة والريف في تايوان',
+    'map.markers.taiwanPorkRibSoup.desc':
+      'التطور غير المتكافئ بين الريف والمدينة في تايوان تحت هيكلية «المدن الست»، التحول المكاني من تايوان الزراعية إلى تايوان الحضرية',
+    'map.markers.taiwanOysterOmelette.title': 'التضاريس والجيولوجيا',
+    'map.markers.taiwanOysterOmelette.desc':
+      'جزيرة عمرها 6 ملايين سنة، تخفي ذاكرة قديمة عمرها 200 مليون سنة — عجيبة في أصغر نطاق جبلي في العالم وأكثر تصادمات الصفائح تواترًا',
+    'map.markers.taiwanBreakfastCulture.title':
+      'خصائص المدن والثقافة الإقليمية',
+    'map.markers.taiwanBreakfastCulture.desc':
+      'من العاصمة الدولية في تايبيه إلى طابع العاصمة القديمة في تاينان، كيف تشكلت هوية محلية فريدة في مختلف مدن تايوان',
+    'map.markers.taiwanConvenienceStoreFood.title':
+      'ثقافة الجزر النائية والمحيط: من كثافة أحواض الصيد الحجرية الأولى عالميًا إلى القوانين البيئية لموسم أسماك الطيران',
+    'map.markers.taiwanConvenienceStoreFood.desc':
+      'أقل من 600 حوض صيد حجري في العالم، و574 منها في بيسكو. شعب جزيري متخصص في صيد أسماك الطيران، حوّل المحظورات إلى نظام إدارة موارد محيطية دقيق للغاية',
+    'map.markers.dutchSpanishColonialPeriod.title':
+      'حادث 28 فبراير والإرهاب الأبيض: الصدمة والذاكرة في ظل الحكم الاستبدادي لتايوان',
+    'map.markers.dutchSpanishColonialPeriod.desc':
+      'من حادث 28 فبراير عام 1947 إلى نظام الحكم العسكري الذي استمر 38 عامًا، عانت تايوان من عنف الدولة في ظل الحكم الاستبدادي، ولم تبدأ في مواجهة الصدمات التاريخية ودفع العدالة الانتقالية إلا بعد رفع الأحكام العسكرية.',
+    'map.markers.zhengDynastyPeriod.title':
+      'أزمة مضيق تايوان وتطور العلاقات عبر المضيق',
+    'map.markers.zhengDynastyPeriod.desc':
+      'استعراض ثلاث أزمات كبرى في مضيق تايوان ومسار تطور العلاقات عبر المضيق لأكثر من 70 عامًا، لفهم السياق التاريخي للوضع في مضيق تايوان والتحديات المعاصرة',
+    'map.markers.qingDynastyTaiwanHistory.title':
+      'تاريخ التجارة البحرية في تايوان',
+    'map.markers.qingDynastyTaiwanHistory.desc':
+      'تايوان في عصر الملاحة الكبرى، من مركز التجارة الدولية إلى أسطورة صعود وسقوط مملكة القراصنة',
+    'map.markers.japaneseColonialRule.title': 'تاريخ قرى المهاجرين في تايوان',
+    'map.markers.japaneseColonialRule.desc':
+      'من الجيش المنعزل في ميانمار إلى مملكة السياج الخيزراني، كيف أعادت الهجرة الكبرى لـ1.2 مليون شخص تعريف «المنزل»',
+    'map.markers.februaryTwentyEightIncident.title':
+      'تاريخ السكك الحديدية في تايوان',
+    'map.markers.februaryTwentyEightIncident.desc':
+      'من ليو مينغتشوان في عهد أسرة تشينغ إلى الخط الرئيسي في الحقبة اليابانية إلى القطارات فائقة السرعة، كيف شكّلت السكك الحديدية التطور الحضري والذاكرة الثقافية لتايوان',
+    'map.markers.martialLawPeriod.title':
+      'انتقال حكومة الكومينتانغ إلى تايوان وإعادة الإعمار بعد الحرب',
+    'map.markers.martialLawPeriod.desc':
+      'استكشاف الخلفية التاريخية وعملية وتأثير انتقال حكومة الكومينتانغ إلى تايوان عام 1949، وإعادة الإعمار السياسي والاقتصادي والاجتماعي لتايوان بعد الحرب',
+    'map.markers.democratization.title': 'الفترة اليابانية',
+    'map.markers.democratization.desc':
+      'حكم اليابان لتايوان لمدة 50 عامًا بين عامي 1895 و1945، حيث جلب بناءً حديثًا شاملاً وإدارة مؤسسية، مع تطبيق سياسات التنصت التي أثّرت بعمق في تطور المجتمع التايواني',
+    'map.markers.taiwanIndependenceMovement.title': 'الفترة التشينغية',
+    'map.markers.taiwanIndependenceMovement.desc':
+      'حكم أسرة تشينغ لتايوان لمدة حوالي 212 عامًا بين عامي 1683 و1895، من الحكم السلبي إلى البناء النشط، مما وضع الأساس لتقسيمات تايوان الإدارية الحديثة والمجتمع الصيني',
+    'map.markers.taiwanChinaRelations.title':
+      'فترة حكم هونغشي وتشينغ تشونغ-تشينغ',
+    'map.markers.taiwanChinaRelations.desc':
+      'أول حكم استعماري منهجي في تاريخ تايوان، من بناء الهولنديين لقلعة زيلانديا إلى تشينغ تشونغ-تشينغ الذي أسس تايوان، مما وضع الأساس لهجرة الصينيين ونظامهم السياسي',
+    'map.markers.taiwanUsRelations.title': 'ثقافة المتاجر الصغيرة',
+    'map.markers.taiwanUsRelations.desc':
+      'كيف تحولت متاجر تايوان الصغيرة ذات الكثافة الأولى عالميًا من محلات بيع التجزئة إلى نظام تشغيلي كامل لحياة الدولة',
+    'map.markers.taiwanInternationalStatus.title': 'نظام النقل في تايوان',
+    'map.markers.taiwanInternationalStatus.desc':
+      'القطارات فائقة السرعة تعبر الشمال والجنوب في 90 دقيقة، والمترو يشبّك الشرايين الحضرية بكثافة، والدراجات النارية تتنقل بين الأزقة',
+    'map.markers.taiwanHistoricalFigures.title':
+      'ثقافة المتاجر الصغيرة في تايوان',
+    'map.markers.taiwanHistoricalFigures.desc':
+      'مملكة المتاجر الصغيرة ذات الكثافة الأولى عالميًا، مع الابتكارات المحلية لـ 7-11 و FamilyMart، تعيد تعريف نمط الحياة الحديث',
+    'map.markers.taiwanPoliticalFigures.title': 'حدائق تايوان والترفيه اليومي',
+    'map.markers.taiwanPoliticalFigures.desc':
+      'من التاي تشي في الصباح الباكر إلى المشي ليلاً - ملاحظة ثقافية لحدائق تايوان كفضاء اجتماعي يمتد عبر الأجيال',
+    'map.markers.kuomintangHistory.title': 'ثقافة القهوة في تايوان',
+    'map.markers.kuomintangHistory.desc':
+      'كثافة المقاهي المستقلة ضمن أفضل ثلاث دول عالميًا، من حبوب أليشان إلى ثقافة المقاهي المكتبية، علم القهوة في الجزيرة',
+    'map.markers.democraticProgressivePartyHistory.title':
+      'جزيرة مطاردة شاحنات القمامة: من أزمة النفايات إلى معجبة إعادة التدوير في تايوان',
+    'map.markers.democraticProgressivePartyHistory.desc':
+      'مكان كان يُطلق عليه الإعلام الدولي لقب "جزيرة النفايات" في تسعينيات القرن الماضي بسبب وجود 400 مكب نفايات ممتلئًا وشيكًا، استخدم موسيقى بيتهوفن لجعل 23 مليون شخص يطاردون شاحنات القمامة يوميًا، وبعد 30 عامًا تجاوزت نسبة إعادة التدوير معظم الدول الأوروبية',
+    'map.markers.taipeiHistory.title':
+      'تاريخ تطوير مترو تايبيه: نظرية تطور المدينة المكتوبة بالدم والمال',
+    'map.markers.taipeiHistory.desc':
+      'سقوط 209 أطنان من العوارض الفولاذية من السماء وأودى بحياة 4 أشخاص، وتعويضات بقيمة 1.64 مليار دولار تايواني، ولا يزال العمل الأساسي لمترو تايبيه يخسر المال حتى اليوم — التكلفة الحقيقية وراء مترو تايوان بأكمله',
+    'map.markers.taiwanPrehistoricCulture.title':
+      'النظام التعليمي في تايوان: تجربة جزيرة من جحيم الامتحانات الموحدة إلى متاهة التنوع',
+    'map.markers.taiwanPrehistoricCulture.desc':
+      'حاولت تايوان كسر نظام الامتحانات الموحدة على مدار 30 عامًا، لكن أحدث اختبارات التصنيف أدت إلى تضاعف عدد المسجلين في فصول إعادة الاختبار. كيف تخوض جزيرة تجارب اجتماعية متكررة بين ضغط القبول الجامعي والعدالة التعليمية؟',
+    'map.markers.taiwanIndigenousHistory.title':
+      'ثقافة الدراجات النارية في تايوان',
+    'map.markers.taiwanIndigenousHistory.desc':
+      'مملكة جزيرة تحتل مرتبة متقدمة عالميًا في كثافة الدراجات النارية، تطور ثقافي من وسيلة المواصلات إلى نمط الحياة',
+    'map.markers.taiwanMilitaryHistory.title':
+      'ثقافة الممرات المغطاة والمشاهد الشارعية في تايوان',
+    'map.markers.taiwanMilitaryHistory.desc':
+      'ممرات الحياة التي تحمي من الرياح والأمطار، ذكريات الشوارع في تايوان حيث تتشابك الدراجات النارية والباعة المتجرون والروح الإنسانية',
+    'map.markers.taiwanWomenHistory.title':
+      'حياة الليل وثقافة الكاريوكيه (KTV)',
+    'map.markers.taiwanWomenHistory.desc':
+      'من صالات الحجز في تشيان تشوان إلى المطاعم المتأخرة، حياة ليلية في الجزيرة لا تتوقف على مدار 24 ساعة',
+    'map.markers.taiwanEducationHistory.title':
+      'الدين والمعتقدات الشعبية: من إدارة الخوف إلى إمبراطورية الإيمان',
+    'map.markers.taiwanEducationHistory.desc':
+      'تايوان تمتلك أعلى كثافة للمعابد في العالم، ومع ذلك هي الأولى عالميًا في حرية الدين — الحكمة البقاء العسكرية للمهاجرين في القرن السابع عشر مخبأة وراء هذا التناقض',
+    'map.markers.taiwanReligiousHistory.title': 'ثقافة الينابيع الساخنة',
+    'map.markers.taiwanReligiousHistory.desc':
+      'من العلاج العسكري إلى أكبر ينابيع طينية في العالم الثلاث: قصة كيف أصبحت تايوان مملكة الينابيع الساخنة بالصدفة',
+    'map.markers.taiwanMediaHistory.title':
+      'التقاليد الموسيقية للسكان الأصليين في تايوان',
+    'map.markers.taiwanMediaHistory.desc':
+      'استكشاف الثقافة الموسيقية الغنية لـ 16 مجموعة من السكان الأصليين في تايوان، من التراتيل القديمة إلى الآلات الموسيقية التقليدية، وشهد نقلًا ثقافيًا يمتد لآلاف السنين',
+    'map.markers.badmintonChampions.title':
+      'صناعة الآلات الموسيقية في تايوان: من الساكسفون في هولي إلى مصنع الموسيقى العالمي',
+    'map.markers.badmintonChampions.desc':
+      'استكشف مسار تطور صناعة الآلات الموسيقية في تايوان، من الهيمنة العالمية للساكسفون في هولي إلى مملكة التصنيع بالاشتراك في الغيتار، وصولاً إلى الحرف الدقيقة لصناعة صناديق الموسيقى، وكيف انتقلت تايوان من التصنيع بالاشتراك إلى العلامات التجارية الخاصة',
+    'map.markers.baseballCulture.title': 'حركة الموسيقى الشعبية في تايوان',
+    'map.markers.baseballCulture.desc':
+      'من "غناء أغانينا الخاصة" إلى تغيير دائرة الموسيقى الصينية بأكملها — الثورة الثقافية التي قادها الشباب في سبعينيات القرن الماضي',
+    'map.markers.taiwanBasketball.title':
+      'تطور مشهد الموسيقى المستقلة في تايوان',
+    'map.markers.taiwanBasketball.desc':
+      'من الفرق الموسيقية تحت الأرض إلى الموسيقى المستقلة، استكشف المسار التطوري والمعنى الثقافي لتطور الموسيقى غير السائدة في تايوان على مدى ثلاثين عاماً',
+    'map.markers.marathonRunning.title':
+      'ثقافة الموسيقى الإلكترونية وحفلات الرقص في تايوان: من حفلات الراف تحت الأرض إلى المسرح الدولي',
+    'map.markers.marathonRunning.desc':
+      'من ثقافة حفلات الراف في تسعينيات القرن الماضي إلى مهرجان الموسيقى الإلكترونية "Road to Ultra"، كيف انتقلت الموسيقى الإلكترونية في تايوان من تحت الأرض إلى التيار الرئيسي، مما أفرز فرقاً موسيقية مستقلة ودي جيّات على مستوى دولي',
+    'map.markers.taiwanEsports.title':
+      'ثقافة مهرجانات الموسيقى في تايوان: من "Spring Scream" إلى ظاهرة الشباب المنتشرة في كل مكان كحامل ثقافي',
+    'map.markers.taiwanEsports.desc':
+      'استكشف مسار تطور مهرجانات الموسيقى في تايوان من "Spring Scream" و"Ocean Music Festival" إلى "Dagang Kaichang"، وكيف أصبحت حاضنة للفرق المستقلة ومنصة التعبير الأساسية لثقافة الشباب',
+    'map.markers.taiwanOlympics.title':
+      'مشهد الموسيقى المستقلة المعاصر في تايوان',
+    'map.markers.taiwanOlympics.desc':
+      'من العروض تحت الأرض إلى المصفوفة الصناعية، تحليل السياق التطوري للنظام البيئي للموسيقى المستقلة الحديثة في تايوان وتأثيرها الثقافي',
+    'map.markers.taipeiCycle.title':
+      'حكمة البيئة لدى السكان الأصليين في تايوان والحفاظ على البيئة',
+    'map.markers.taipeiCycle.desc':
+      'بحث المعرفة البيئية التقليدية التي تراكمها السكان الأصليون في تايوان على مدى آلاف السنين، وقيمتها وممارساتها المهمة في الحفاظ على البيئة الحديثة',
+    'map.markers.taiwanBetelNutCulture.title': 'ثقافة الجبال والتسلق في تايوان',
+    'map.markers.taiwanBetelNutCulture.desc':
+      '268 قمة جبلية تتجاوز ارتفاعها 3000 متر وثقافة "المئة قمة": تطور رياضة التسلق في تايوان وتحديات الحفاظ على الجبال',
+    'map.markers.taiwanElections.title': 'النظام البيئي للغابات في تايوان',
+    'map.markers.taiwanElections.desc':
+      'من السواحل شبه الاستوائية إلى غابات الصنوبر الجبلية العالية، العالم الغني للغابات في تايوان ضمن الانخفاض الرأسي البالغ 3000 متر',
+    'map.markers.taiwanLgbtCulture.title':
+      'تغير المناخ والتحول نحو صافي الانبعاثات الصفري في تايوان',
+    'map.markers.taiwanLgbtCulture.desc':
+      'تواجه تايوان تأثيرات تغير المناخ، من تكرر حدوث المناخ المتطرف إلى التخطيط السياسي لتحقيق هدف صافي الانبعاثات الصفرية بحلول عام 2050، حيث يتم استكشاف الفرص والتحديات في عملية تحول الطاقة',
+    'map.markers.taiwanMotorcycleCulture.title':
+      'حفظ المحيطات في تايوان: لماذا لم تنقِ النظام الذي استغرق بناؤه 30 عامًا موجة ابيضان المرجان؟',
+    'map.markers.taiwanMotorcycleCulture.desc':
+      'في عام 2020، شهدت المياه الإقليمية لتايوان أكبر موجة ابيضان مرجاني مسجلة في التاريخ. من ليوكيو إلى حاجز الدونشا المرجاني، حتى المرجان داخل المناطق المحمية مات بسبب الحرارة العالية. ما المشكلة التي تكشف عنها؟',
+    'map.markers.taipeiMrt.title':
+      'تحديات حماية المحيطات ومعالجة التلوث في تايوان',
+    'map.markers.taipeiMrt.desc':
+      'في مواجهة النفايات البحرية والصيد الجائر وتغير المناخ، يتم استكشاف الوضع الحالي لتحفظ المحيطات في تايوان، والتحديات والحلول المبتكرة',
+    'map.markers.kaohsiungMrt.title': 'النظام البيئي البحري في تايوان',
+    'map.markers.kaohsiungMrt.desc':
+      'المياه المحمية بحظر شعب داوتو، التي أصبحت بيضاء الآن بسبب الحرارة العالية والضوضاء تحت الماء: عندما تلتقي الحكمة البيئية لآلاف السنين بأزمة المحيطات الحديثة',
+    'map.markers.taichungMrt.title':
+      'النظام البيئي البحري وحفظ الشعب المرجانية في تايوان',
+    'map.markers.taichungMrt.desc':
+      'تايوان محاطة بالبحار من جميع الجهات وتتمتع بنظام بيئي بحري غني، من أزمة ابيضان الشعب المرجانية إلى حفظ الحيتان والدلافين، يتم استكشاف فعالية حماية الحدائق الوطنية البحرية والتحديات المستقبلية',
+    'map.markers.taiwanTrainSystem.title':
+      'الينابيع الساخنة والطاقة الحرارية الأرضية في تايوان',
+    'map.markers.taiwanTrainSystem.desc':
+      'من محطة الطاقة الحرارية الأرضية الفاشلة قبل 30 عامًا إلى حجر البياوتو الفريد في العالم: كيف حولت جزيرة واحدة نار باطن الأرض إلى علاج وطاقة خضراء',
+    'map.markers.taiwanBusSystem.title':
+      'حفظ النمر الآسيوي (القطط البرية) في تايوان',
+    'map.markers.taiwanBusSystem.desc':
+      'القطط الشبحية المتبقية في جميع أنحاء تايوان أقل من 500 فرد — عندما تقترب آخر القطط البرية الأصلية من حافة الانقراض',
+    'map.markers.taiwanInnovationEcosystem.title': 'المانغوس في تايوان',
+    'map.markers.taiwanInnovationEcosystem.desc':
+      'أكثر الثدييات تهريبًا في العالم، وجدت في تايوان منزلًا آمنًا',
+    'map.markers.taiwanMedicalSystem.title':
+      'النظام البيئي الجبلي العالي وآثار العصر الجليدي في تايوان',
+    'map.markers.taiwanMedicalSystem.desc':
+      'استكشاف النظام البيئي الفريد للبيئة الجبلية العالية فوق 3000 متر في تايوان، من التنوب التايواني، وزهرة الكاميليا التايوانية (يوشان)، إلى التنوع البيولوجي الثمين لأنواع البقايا من العصر الجليدي',
+    'map.markers.taiwanEducationSystem.title':
+      'الدب الأسود الآسيوي (دب تايوان) في تايوان',
+    'map.markers.taiwanEducationSystem.desc':
+      'الحرف V الأبيض على صدره هو توقيعها — ملكة الجبال والغابات الأخيرة في تايوان، ومعركتها المستمرة للحفظ',
+    'map.markers.taiwanMusicIndustry.title': 'الحدائق الوطنية',
+    'map.markers.taiwanMusicIndustry.desc':
+      '36,197 كيلومترًا مربعًا مضغوطة في 9 حدائق وطنية، معجزة حفظ طبيعية تتصدر العالم كثافةً',
+    'map.markers.mandarinPopMusic.title': 'حدائق تايوان الوطنية',
+    'map.markers.mandarinPopMusic.desc':
+      'استكشف النظم البيئية الفريدة وقيمة الحفظ في الحدائق الوطنية التسع في تايوان، من السواحل شبه الاستوائية إلى خط الثلج الجبلي العالي',
+    'map.markers.taiwaneseIndieMusic.title': 'الأنواع المميزة',
+    'map.markers.taiwaneseIndieMusic.desc':
+      'تنوع الأنواع المميزة الغني في تايوان، يعكس معجزة التطور في علم الجغرافيا الحيوية للجزيرة وأهمية الحفظ',
+    'map.markers.taiwanRapHipHop.title': 'التنوع البيولوجي',
+    'map.markers.taiwanRapHipHop.desc':
+      'تشكل تايوان 0.025% فقط من مساحة العالم، لكنها تضم أكثر من 50,000 نوع من الكائنات الحية، وتحتل المرتبة 33 عالميًا في غطاء الغابات بنسبة 60.71%',
+    'map.markers.taiwanElectronicMusic.title': 'الحيتان والدلافين في تايوان',
+    'map.markers.taiwanElectronicMusic.desc':
+      'موطن ثلث أنواع الحيتان والدلافين في العالم — من صيد الحيتان في الماضي إلى مشاهدة الحيتان اليوم، كيف تحولت تايوان لتصبح مركزًا للبحوث البيئية البحرية؟',
+    'map.markers.taiwanTraditionalMusic.title': 'ماي تيان',
+    'map.markers.taiwanTraditionalMusic.desc':
+      'من مدرسة شيه دا الثانوية إلى المسرح العالمي، عرّفوا روح الروك الصينية الدائمة للشباب',
+    'map.markers.taiwanFilmIndustry.title': 'وو باي',
+    'map.markers.taiwanFilmIndustry.desc':
+      'أيقونة الروك التايوانية، المرادف للروك المحلي، رسّخ مكانته في الروك من خلال أعمال مثل "غابة النرويج"',
+    'map.markers.newTaiwanCinema.title': 'وو باو تشون',
+    'map.markers.newTaiwanCinema.desc':
+      'بطل مسابقة الخبز العالمية، أبهر العالم بخبز الليتشي والورود، من الريف في بينغتون إلى أرقى حرفيي الخبز في العالم',
+    'map.markers.taiwanDocumentary.title': 'لو شيو ليان',
+    'map.markers.taiwanDocumentary.desc':
+      'من معتقلة سياسية إلى نائبة رئيس: قصة حياة أسطورية لأول نائبة رئيس في العالم الصيني',
+    'map.markers.taiwanAnimationIndustry.title': 'جيمي',
+    'map.markers.taiwanAnimationIndustry.desc':
+      'شاعر الرسم بالصور الذي دافئ العالم بالمجلدات المصورة، جعل كتب الرسوم التوضيحية التايوانية تصل إلى المسرح العالمي',
+    'map.markers.taiwanTelevisionIndustry.title': 'داي تشي ينغ',
+    'map.markers.taiwanTelevisionIndustry.desc':
+      'حاصلة على الرقم القياسي العالمي لـ 214 أسبوعًا كملكة كرة الريشة، من غاووشيانغ تشيانجشن إلى ميدالية الفضية الأولمبية، ملكة الريشة التايوانية',
+    'map.markers.taiwanOttPlatforms.title': 'لي أون',
+    'map.markers.taiwanOttPlatforms.desc':
+      'مؤلفة أعمال "قتل الزوجة" و"الحديقة المبهمة"، رائدة الأدب النسوي في تايوان',
+    'map.markers.taiwanPodcastIndustry.title': 'لي تشي-كاي',
+    'map.markers.taiwanPodcastIndustry.desc':
+      'من "كاى" في سوق الخضار في فيلم "انطلق يا فتى" إلى الميدالية الفضية الأولمبية، حياة لي تشي-كاي التايوانية "أمير المتوازي" التي استمرت ستة عشر عامًا من التقلب',
+    'map.markers.taiwanPublishing.title': 'لي يوان-تشيه',
+    'map.markers.taiwanPublishing.desc':
+      'حائز على جائزة نوبل في الكيمياء عام 1986، أسس مجالًا جديدًا في حركية الكيمياء باستخدام تقنية حزم الجزيئات المتقاطعة، أول حائز على جائزة نوبل في العلوم من تايوان',
+    'map.markers.taiwanBookstoreCulture.title': 'تو تشونغ-مينغ',
+    'map.markers.taiwanBookstoreCulture.desc':
+      'أول دكتور في الطب من تايوان، أبو الطب الحديث في تايوان',
+    'map.markers.taiwanComicMangaIndustry.title': 'لين شو-هاو',
+    'map.markers.taiwanComicMangaIndustry.desc':
+      'من العبقري في جامعة هارفارد إلى بطل الدوري الوطني لكرة السلة (NBA)، اللاعب الأمريكي من أصل تايواني الذي أشعل ظاهرة "لين هيام" عالميًا',
+    'map.markers.taiwanGameIndustry.title': 'لين يي-جييه',
+    'map.markers.taiwanGameIndustry.desc':
+      'من الطفل النحيل الذي رفضته فريق ألعاب القوى، إلى عدّاء القطبين الذي عبر الصحراء الكبرى سيرًا على الأقدام ليصنع التاريخ',
+    'map.markers.nationalPalaceMuseum.title': 'لين يي-شيونغ',
+    'map.markers.nationalPalaceMuseum.desc':
+      'رائد الحركة الديمقراطية، ضحية مذبحة عائلة لين، زعيم حركة معارضة المفاعل النووي الرابع',
+    'map.markers.nationalParks.title': 'يانغ دي-تشانغ',
+    'map.markers.nationalParks.desc':
+      'الشخصية المحورية في حركة السينما الجديدة في تايوان، أفضل مخرج في كان، شاعر العزلة الحضرية',
+    'map.markers.taiwanGeography.title': 'باي شيان-يونغ',
+    'map.markers.taiwanGeography.desc':
+      'مؤلف "أشخاص تايبيه"، عبقري الأدب الحديث وداعم إحياء فن الأوبرا الكونتشو',
+    'map.markers.taiwanClimate.title': 'لو غوانغ-جونغ',
+    'map.markers.taiwanClimate.desc':
+      'مغني وكاتب أغاني وممثل تايواني، حاصل على جائزة "الثلاثية الذهبية" (جائزة金曲، جائزة الجرس الذهبي، جائزة الحصان الذهبي)، يشتهر بصورته الشعبية المميزة وأدائه الصوتي الفريد',
+    'map.markers.taiwanEcosystem.title': 'تشوانج تشي-يوان',
+    'map.markers.taiwanEcosystem.desc':
+      'مؤسس كرة الطاولة، ممثل أولمبي لأربع دورات، بطل وحيد تدرب بصعوبة بمفرده',
+    'map.markers.taiwanEndangeredSpecies.title': 'تساي مينغ-ليانغ',
+    'map.markers.taiwanEndangeredSpecies.desc':
+      'حائز على جائزة الأسد الذهبي في فينيسيا، صيني ماليزي، معلم جمالي للأفلام البطيئة',
+    'map.markers.taiwanMarineEcology.title': 'هسو ون-لونغ',
+    'map.markers.taiwanMarineEcology.desc':
+      'مؤسس مجموعة تشي مي، رجل أعمال، وعازف كمان، وهوية ثلاثية كجامع فنون، ومؤسس متحف تشي مي',
+    'map.markers.taiwanBirdwatching.title': 'هسو فانغ-ي',
+    'map.markers.taiwanBirdwatching.desc':
+      'من فتاة من يي لان إلى الرائدة الأولى في فرقة ماشينغ للرقص، ثم عادت لتأسس فرقة لافانغ للرقص في تايوان — هي تروي أقوى قصة لتايوان عبر جسدها',
+    'map.markers.taiwanHotSprings.title':
+      'لاي تشينغ تي: من عائلة عمال المناجم إلى طبيب الصحة العامة في القصر الرئاسي',
+    'map.markers.taiwanHotSprings.desc':
+      'الرئيس السادس عشر لتايوان، أول شخصية سياسية في التاريخ الدستوري لجمهورية الصين (تايوان) تترشح بنائب الرئيس وتنجح في الانتخابات',
+    'map.markers.taiwanIslands.title': 'قوه شيان تشون',
+    'map.markers.taiwanIslands.desc':
+      'إلهة رفع الأثقال في تايوان، حائزة على ذهبية أولمبياد طوكيو 2021، حافظة لأرقام أولمبية في فئة 59 كيلوغرامًا',
+    'map.markers.taiwanMountains.title': 'تينغ يو شيان',
+    'map.markers.taiwanMountains.desc':
+      'أبو الأغاني التايوانية، مؤلف كلاسيكيات أغاني تايو مثل "نظر إلى ربيع الرياح" و"زهرة زهرة في ليلة ممطرة" و"قلق في ليلة قمرية"',
+    'map.markers.taiwanRivers.title': 'تشونغ لي هيه',
+    'map.markers.taiwanRivers.desc':
+      'مؤلف "أصل الوطن"، أبو الأدب التايواني، محارب أدبي أصر على الإبداع رغم الفقر والمرض',
+    'map.markers.taiwanCoastline.title': 'تشين شو تشو',
+    'map.markers.taiwanCoastline.desc':
+      'أعمال خيرية عادية لبائعة الخضار في تاي دونغ، جسدت معنى الثراء الحقيقي طوال حياتها',
+    'map.markers.taiwanForests.title': 'تشين شوي بيان',
+    'map.markers.taiwanForests.desc':
+      'الرئيس العاشر والحادي عشر، بطل الدور الأول في أول تبديل للحزب الحاكم عام 2000، شخصية مهمة في ديمقراطية تايوان',
+    'map.markers.taiwanNaturalDisasters.title': 'ما يينغ جيوس',
+    'map.markers.taiwanNaturalDisasters.desc':
+      'الرئيس الثاني عشر والثالث عشر، محفز كسر الجليد في علاقات المضيق، موقع اتفاقية التجارة الحرة الاقتصادية (ECFA)',
+    'map.markers.taiwanEarthquakes.title': 'هوانغ تشون مينغ',
+    'map.markers.taiwanEarthquakes.desc':
+      'مؤلف "حورية البحر" و"يوم مشاهدة البحر"، ممثل بارز للأدب المحلي في إيلان',
+    'map.markers.taiwanTyphoons.title':
+      'هوانغ زينان: يوكيو ناكامورا في عالم الكتب ومصدر活水 (مياه حية) لتاريخ وتراث تايوان',
+    'map.markers.taiwanTyphoons.desc':
+      'هوانغ زينان هو باحث في تاريخ وتراث تايوان، وجامع كتب، وروائي. بدأ مسيرته تحت الاسم المستعار Sizumaru على PTT، وأدار صفحة "مكتبة هوانغ شوي لاى" لمشاركة تاريخ تايوان وثقافة الكتب القديمة. له مؤلفات مثل "أكثر التاريخ التايواني إثارة للدهشة في تاريخ تايوان"، ويُعتبر يوكيو ناكامورا في عالم الكتب. انطلق من عائلة书香 في ليوجيو، تشيآي، حيث عمل الأب والابن بتقسيم南北 (الجنوب والشمال) لجمع الوثائق، ساعيًا لجعل التاريخ التايواني الجاد ممتعًا وشائعًا.',
+    'map.markers.sunflowerMovement.title':
+      'الحديقة الحيوانية وأخلاقيات عرض الحيوانات',
+    'map.markers.sunflowerMovement.desc':
+      'من الفيل في القفص إلى جدار قنديل البحر في Xpark — تايوان تعيد تعريف العلاقة بين الإنسان والحيوانات المعروضة',
+    'map.markers.taiwanSocialMovements.title':
+      'العدالة الأرضية للشعوب الأصلية في تايوان والمجالات التقليدية',
+    'map.markers.taiwanSocialMovements.desc':
+      'استكشاف السياق التاريخي لحقوق أراضي الشعوب الأصلية في تايوان، والتطور القانوني، والجدل حول تحديد المجالات التقليدية، وإنجازات لجنة العدالة الانتقالية للشعوب الأصلية',
+    'map.markers.taiwanMarriageEquality.title':
+      'زواج المثليين والمساواة الجندرية في تايوان',
+    'map.markers.taiwanMarriageEquality.desc':
+      'من سجين في فترة الحكم العسكري إلى أول قانون لزواج المثليين في آسيا، كيف غيّر كفاح رجل لمدة 30 عامًا تعريف الحب في الجزيرة',
+    'map.markers.taiwanEnvironmentalJustice.title':
+      'العدالة البيئية والنزاعات المحلية في تايوان',
+    'map.markers.taiwanEnvironmentalJustice.desc':
+      'استكشاف ظاهرة عدم المساواة في توزيع الأعباء البيئية في تايوان، من حرق النفايات إلى النفايات النووية وصناعة البتروكيماويات، تحليل قضايا عدم المساواة البيئية والعدالة الاجتماعية',
+    'map.markers.taiwanCommunityRiCulture.title':
+      'ثقافة المجتمع والري في تايوان',
+    'map.markers.taiwanCommunityRiCulture.desc':
+      'من الممارسة الديمقراطية على أدنى مستوى إلى الابتكار الاجتماعي في بناء المجتمع',
+    'map.markers.taiwanLongTermCare.title':
+      'تطور نظام الرعاية طويلة الأمد في تايوان',
+    'map.markers.taiwanLongTermCare.desc':
+      'أقدم نظام رعاية طويلة الأمد في العالم، لكنه يوجد في نفس الوقت أكبر نظام رعاية خفي',
+    'map.markers.taiwanLaborMovement.title': 'البيئة والتنمية المستدامة',
+    'map.markers.taiwanLaborMovement.desc':
+      'من جزيرة المداخن إلى تايوان صافية الكربون: طريق觉醒 (الاستيقاظ) لحركة البيئة على مدار 40 عامًا',
+    'map.markers.taiwanHousingIssues.title': 'السكن الاجتماعي والعدالة السكنية',
+    'map.markers.taiwanHousingIssues.desc':
+      'كيف يمكن لتايوان تحقيق العدالة السكنية من خلال سياسة السكن الاجتماعي، لتمكين كل فرد من مكان آمن للعيش والعمل',
+    'map.markers.taiwanHealthcareSystem.title': 'تطور الحدائق العلمية والتقنية',
+    'map.markers.taiwanHealthcareSystem.desc':
+      'من حديقة تشو إلى الحديقة الجنوبية، استكشاف مسار تطور الحدائق العلمية في تايوان والمواقع الفريدة للحدائق الثلاثة الكبرى',
+    'map.markers.taiwanImmigration.title': 'صناعة أشباه الموصلات',
+    'map.markers.taiwanImmigration.desc':
+      'من رهان تشانغ تشونغ-مو التاريخي إلى عصر 2 نانومتر: كيف جعلت شركة تاسك (TSMC) من تايوان الشريان الحيوي للتكنولوجيا العالمية',
+    'map.markers.taiwanReligiousDiversity.title':
+      'التضاريس الساحلية وتكوينات المحيط في تايوان',
+    'map.markers.taiwanReligiousDiversity.desc':
+      'عنق رأس الملكة في ييليو يتناقص سمكه بمعدل 0.2 سم سنويًا، وفي يوم من الأيام سينفصل تمامًا - وهذا هو القدر والجمال لتضاريس تايوان الساحلية',
+    'map.markers.taiwanBuddhismTaoism.title':
+      'فن الشاي والحياة الجمالية في تايوان',
+    'map.markers.taiwanBuddhismTaoism.desc':
+      'في ليلة افتتاح مقهى زيتينغلو عام 1981، اجتمع الشخصيات غير المنتمية للحزب والأدباء لتذوق الشاي؛ لم يكن هذا المكان مجرد مقهى شاي، بل كان أيضًا قاعدة سرية لحركة المعارضة',
+    'map.markers.taiwanFolkReligion.title':
+      'الانتخابات في تايوان والسياسة الحزبية',
+    'map.markers.taiwanFolkReligion.desc':
+      'من أعضاء مجلس النواب المحليين عام 1950 إلى تبديل الأحزاب عام 2000، انظر كيف كتبت تايوان معجزة التحول الديمقراطي عبر الأصوات',
+    'map.markers.taiwanChristianity.title':
+      'التطور الحضري والفجوة بين المدينة والريف في تايوان',
+    'map.markers.taiwanChristianity.desc':
+      'من جزيرة زراعية إلى جزيرة حضرية على مدى 70 عامًا، الضوء والظل لتركيز 70٪ من السكان في المدن الست: المقارنة القاسية بين تايونغز المزدهرة ويونلين المتدهورة',
+    'map.markers.taiwanIslamJudaism.title': 'خصائص المدن والثقافة الإقليمية',
+    'map.markers.taiwanIslamJudaism.desc':
+      'من 4.04 مليون نسمة في شمال تايوان إلى 1.85 مليون في تاي نان، انظر كيف شكلت المدن الست شخصياتها الحضرية الخاصة بها خلال التحول الصناعي',
+    'map.markers.kaohsiungIncident.title': 'الديمقراطية',
+    'map.markers.kaohsiungIncident.desc':
+      'الصراع بين الشرطة والسكان في شوارع غاوشيونغ في 10 ديسمبر 1979، أدى في النهاية إلى التحول الديمقراطي في تايوان - ولكن ما هو الثمن الذي دفعه الشباب والحرية؟',
+    'map.markers.wangLeeOlympicGold.title':
+      'وانغ تشي لين ولي يانغ (زوجية لين ويانغ)',
+    'map.markers.wangLeeOlympicGold.desc':
+      'من زملاء الدراسة في المدرسة الثانوية إلى الميداليات الذهبية الأولمبية: هزمت "زوجية لين ويانغ" الصين في ثلاثين دقيقة وأربعين دقيقة دون خسارة أي شوط، مسجلين أول ميدالية ذهبية أولمبية في تاريخ الريشة الطائرة لتايوان',
+  },
   'zh-TW': {
     // Meta
     'map.meta.title': '台灣地圖 Map',

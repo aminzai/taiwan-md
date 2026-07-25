@@ -403,6 +403,84 @@ export const taiwanShapeUI = {
     'taiwanShape.copy.button': 'SVG कॉपी करें',
     'taiwanShape.copy.copied': '✓ कॉपी किया गया',
   },
+  ar: {
+    // Meta
+    'taiwanShape.meta.title':
+      'شكل تايوان — مجموعة بيانات خرائط مفتوحة المصدر: SVG، GeoJSON، TopoJSON',
+    'taiwanShape.meta.description':
+      'بيانات خرائط تايوان مفتوحة المصدر كاملة: حدود SVG، TopoJSON على مستوى المقاطعات والبلدات، أمثلة استخدام لـ D3.js / Leaflet / Python / Vue. الذكاء الاصطناعي يرسم تايوان بشكل خاطئ دائمًا، وهنا الرسم الصحيح.',
+
+    'taiwanShape.hero.kicker': '🗺️ مجموعة بيانات خرائط مفتوحة المصدر',
+    'taiwanShape.hero.title': 'شكل تايوان',
+    'taiwanShape.hero.subtitle':
+      'SVG، GeoJSON، TopoJSON — مجموعة بيانات خرائط مفتوحة المصدر كاملة للمطورين والمصممين والباحثين.',
+
+    'taiwanShape.story.heading': 'لماذا يهم شكل تايوان',
+    'taiwanShape.story.p1':
+      'اطلب من أي أداة ذكاء اصطناعي لرسم تايوان، وستحصل تقريبًا على شيء دائري وممتلئ، يشبه بين الزيتون والبطاطس. تايوان ليست زيتونًا. إنها حبة بطاطس طويلة تمتد على 394 كيلومترًا، مع سلسلة جبال مركزية تمتد من الشمال إلى الجنوب، وأكثر من مئة جزيرة نائية.',
+    'taiwanShape.story.p2':
+      'رسم الشكل بشكل صحيح ليس مجرد تفصيل تصميمي، بل هو قضية هوية. تجمع هذه الصفحة جميع مواد الخرائط مفتوحة المصدر التي نستخدمها في taiwan.md، لتمكين أي شخص من عرض تايوان بدقة في مشاريعه الخاصة.',
+
+    'taiwanShape.comparison.title':
+      '🤖 vs. 🇹🇼 — الذكاء الاصطناعي يخطئ دائمًا، حقًا',
+    'taiwanShape.comparison.aiLabel': 'توليد الذكاء الاصطناعي (خاطئ)',
+    'taiwanShape.comparison.correctLabel': 'النسخة الصحيحة (ويكيبيديا)',
+
+    'taiwanShape.svg.heading': '📐 حدود SVG — تضمين مباشر',
+    'taiwanShape.svg.description':
+      'أربع مجموعات مختارة من ملفات SVG، جميعها مرخصة بموجب CC أو في الملك العام. يمكن إسقاطها مباشرة في أي صفحة ويب أو تطبيق أو تصميم.',
+    'taiwanShape.svg.usageHeading': 'طريقة الاستخدام',
+    'taiwanShape.svg.licenseNote':
+      'جميع ملفات SVG مرخصة بموجب Creative Commons أو في الملك العام. يُفضل ذكر المصدر لكنه ليس إلزاميًا.',
+
+    'taiwanShape.geo.heading':
+      '🌐 TopoJSON — خرائط تفاعلية على مستوى المقاطعات',
+    'taiwanShape.geo.intro1':
+      'إذا كان هدفك هو خرائط تفاعلية — تكبير/تصغير، تمرير الماوس، ملء الألوان بناءً على القيم — فأنت لا تحتاج إلى مسارات SVG، بل تحتاج إلى بيانات إحداثيات جغرافية حقيقية. قمنا بتجميع ملفات TopoJSON المستخرجة من taiwan-vue-components الخاصة بـ Waiting (ترخيص MIT، 2018).',
+    'taiwanShape.geo.intro2':
+      'TopoJSON هو نسخة مضغوطة من GeoJSON: يتم تخزين الحدود المشتركة بين المقاطعات المتجاورة مرة واحدة فقط، مما يصغر حجم الملف بنسبة 80%. يمكن استخدام topojson-client لتحويله فورًا إلى GeoJSON.',
+    'taiwanShape.geo.formatHeading': 'TopoJSON مقابل GeoJSON — أيهما تختار',
+    'taiwanShape.geo.formatTopo':
+      'TopoJSON: حجم ملف صغير، حدود مشتركة للمناطق المتجاورة، مناسب لخرائط الويب التفاعلية.',
+    'taiwanShape.geo.formatGeo':
+      'GeoJSON: تنسيق بسيط، متوافق مباشرة مع Python geopandas وQGIS وأدوات GIS الأخرى.',
+    'taiwanShape.geo.countryHeading': 'حدود البلاد (22 مقاطعة ومدينة)',
+    'taiwanShape.geo.countryDesc':
+      'ملف TopoJSON بحجم حوالي 21 كيلوبايت، يحتوي على 22 مقاطعة ومدينة، كل منها كعنصر (feature) مستقل. نقطة البداية لخرائط choropleth.',
+    'taiwanShape.geo.townsHeading':
+      'بيانات على مستوى البلدات لجميع المقاطعات الـ 22',
+    'taiwanShape.geo.townsDesc':
+      'قمنا بتجميع ملفات TopoJSON على مستوى البلدات لجميع المقاطعات الـ 22، جميعها مستخرجة من مستودع المصدر نفسه.',
+
+    'taiwanShape.codes.heading': '🧭 جدول مطابقة رموز المناطق الإدارية',
+    'taiwanShape.codes.intro':
+      'تستخدم تايوان رموزًا رقمية لتشفير المناطق الإدارية. فيما يلي جدول مطابقة للمناطق الإدارية على مستوى المقاطعات الـ 22 (قاعدة تسمية الملفات: `towns-{code}.json`).',
+    'taiwanShape.codes.codeCol': 'الرمز',
+    'taiwanShape.codes.nameCol': 'المنطقة الإدارية',
+    'taiwanShape.codes.typeCol': 'النوع',
+
+    'taiwanShape.examples.heading': '💻 أمثلة الاستخدام',
+    'taiwanShape.examples.htmlTitle': 'HTML — تضمين ثابت',
+    'taiwanShape.examples.cssTitle': 'CSS — صورة خلفية',
+    'taiwanShape.examples.d3Title': 'D3.js — choropleth تفاعلي',
+    'taiwanShape.examples.pythonTitle': 'Python — geopandas',
+    'taiwanShape.examples.leafletTitle': 'Leaflet — طبقات خرائط البلاط',
+    'taiwanShape.examples.vueTitle': 'Vue — taiwan-vue-components',
+
+    'taiwanShape.others.heading': '📚 مصادر بيانات مفتوحة المصدر أخرى',
+    'taiwanShape.others.intro':
+      'إذا كنت تحتاج إلى أكثر مما تم تجميعه هنا — دقة أعلى، إسقاطات مختلفة، حدود إدارية تاريخية — إليك المصادر التي نوصي بها:',
+
+    'taiwanShape.license.heading': '⚖️ الترخيص والمصادر',
+    'taiwanShape.license.intro':
+      'كل ملف على هذه الصفحة مفتوح المصدر. فيما يلي معلومات المصدر والترخيص الكاملة:',
+
+    'taiwanShape.download.svg': 'تنزيل SVG',
+    'taiwanShape.download.topo': 'تنزيل TopoJSON',
+    'taiwanShape.download.all': 'تنزيل الكل (ZIP)',
+    'taiwanShape.copy.button': 'نسخ SVG',
+    'taiwanShape.copy.copied': '✓ تم النسخ',
+  },
   'zh-TW': {
     // Meta
     'taiwanShape.meta.title':

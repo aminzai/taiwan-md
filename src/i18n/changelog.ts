@@ -174,6 +174,31 @@ export const changelogUI = {
     'changelog.time.hours-ago': ' घंटे पहले',
     'changelog.time.days-ago': ' दिन पहले',
   },
+  ar: {
+    // Meta
+    'changelog.meta.title': 'سجل تحديثات الموقع',
+    'changelog.meta.description':
+      'التاريخ الفوري لتحديثات Taiwan.md، تتبع كل إضافة محتوى وتحسين للموقع.',
+
+    // Header
+    'changelog.header.title': 'سجل تحديثات الموقع',
+    'changelog.header.subtitle':
+      'تتبع كل إضافة محتوى وتحسين للموقع في Taiwan.md',
+    'changelog.header.meta.updates': 'تحديثات',
+    'changelog.header.meta.synced': 'مزامنة تلقائية من',
+
+    // Timeline
+    'changelog.day.updates': 'تحديثات',
+
+    // Locale for date formatting
+    'changelog.locale': 'zh-TW',
+
+    // Relative time
+    'changelog.time.just-now': 'الآن',
+    'changelog.time.minutes-ago': 'منذ دقائق',
+    'changelog.time.hours-ago': 'منذ ساعات',
+    'changelog.time.days-ago': 'منذ أيام',
+  },
   'zh-TW': {
     // Meta
     'changelog.meta.title': '網站更新紀錄',

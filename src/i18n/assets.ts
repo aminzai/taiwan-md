@@ -550,6 +550,86 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
     'assets.script.copied': '✅ कॉपी हो गया',
     'assets.script.failed': '❌ कॉपी नहीं हो सका',
   },
+  ar: {
+    // Meta
+    'assets.meta.title': 'Taiwan SVG — خريطة تايوان المفتوحة المصدر',
+    'assets.meta.description':
+      'خريطة تايوان SVG الصحيحة، مفتوحة المصدر ومتاحة للتحميل مجانًا. صور تايوان التي يرسمها الذكاء الاصطناعي كلها خاطئة، وهذا هو النسخة الصحيحة.',
+
+    // Hero
+    'assets.hero.title': 'Taiwan SVG — خريطة تايوان المفتوحة المصدر',
+    'assets.hero.subtitle':
+      'صور تايوان التي يرسمها الذكاء الاصطناعي كلها خاطئة. وهذا هو النسخة الصحيحة.',
+
+    // Problem section
+    'assets.problem.title':
+      '🤖 لماذا يخطئ الذكاء الاصطناعي دائمًا في رسم تايوان؟',
+    'assets.problem.p1':
+      'تفتقر بيانات التدريب لمعظم نماذج توليد الصور بالذكاء الاصطناعي إلى بيانات جغرافية هيكلية عن تايوان. والنتيجة هي: غالبًا ما تكون أشكال تايوان التي يرسمها الذكاء الاصطناعي مشوّهة، أو غير متناسبة، أو حتى يخلط بينها وبين جزر أخرى.',
+    'assets.problem.p2.html':
+      'يقدم موقع Taiwan.md خريطة تايوان SVG <strong>الصحيحة، والمفتوحة المصدر، والقابلة للاستخدام الحر</strong>، لتوفير إجابة قياسية لكل مشهد يحتاج إلى معرفة "كيف تبدو تايوان".',
+
+    // Card 1: taiwan-icon
+    'assets.card1.title': 'taiwan-icon.svg',
+    'assets.card1.desc':
+      'أيقونة حدود تايوان — مناسبة للأيقونات والشعارات والأحجام الصغيرة',
+    'assets.card1.meta': 'ويكيميديا كومنز · ~6 كيلوبايت · CC',
+
+    // Card 2: taiwan-simplemaps
+    'assets.card2.title': 'taiwan-simplemaps.svg',
+    'assets.card2.desc':
+      'إصدار SimpleMaps — حدود متجهة نظيفة، مناسبة للتضمين في الويب',
+    'assets.card2.meta': 'SimpleMaps · ~5 كيلوبايت',
+
+    // Card 3: taiwan-location-map
+    'assets.card3.title': 'taiwan-location-map.svg',
+    'assets.card3.desc':
+      'خريطة الموقع الجغرافي — تحتوي على خطوط الطول والعرض وعلامات المدن، مناسبة لأغراض الخرائط',
+    'assets.card3.meta': 'ويكيميديا كومنز · ~120 كيلوبايت · CC',
+
+    // Card 4: taiwan-political-division
+    'assets.card4.title': 'taiwan-political-division.svg',
+    'assets.card4.desc':
+      'خريطة التقسيم الإداري — تقسيمات المقاطعات والمدن، حدود إدارية كاملة',
+    'assets.card4.meta': 'ويكيميديا كومنز · ~168 كيلوبايت · CC',
+
+    // Buttons
+    'assets.btn.download': 'تحميل SVG',
+    'assets.btn.copy': 'نسخ كود SVG',
+
+    // Usage section
+    'assets.usage.title': '📝 طريقة الاستخدام',
+    'assets.usage.code': `<!-- التضمين المباشر -->
+<img src="https://taiwan.md/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan" width="200">
+
+<!-- كخلفية CSS -->
+background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
+
+<!-- الاستشهاد في Markdown -->
+![Taiwan](https://taiwan.md/assets/svg/taiwan-icon-wiki.svg)`,
+
+    // License section
+    'assets.license.title': '📄 الترخيص والمصدر',
+    'assets.license.intro.html':
+      'جميع ملفات SVG مُصنَّفة بموجب ترخيص <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. مرحبًا بالاستخدام الحر، والتعديل، والاستخدام التجاري، مع ضرورة ذكر المصدر.',
+    'assets.license.sources.title': 'ذكر المصدر',
+    'assets.license.source1.html':
+      '<strong>taiwan-icon.svg</strong> — المصدر: <a href="https://commons.wikimedia.org/wiki/File:Taiwan-icon.svg" target="_blank">ويكيميديا كومنز: Taiwan-icon.svg</a>، ملك عام (Public Domain)',
+    'assets.license.source2.html':
+      '<strong>taiwan-simplemaps.svg</strong> — المصدر: <a href="https://simplemaps.com/svg/country/tw" target="_blank">SimpleMaps</a>، ترخيص مجاني (يجب ذكر simplemaps.com)',
+    'assets.license.source3.html':
+      '<strong>taiwan-location-map.svg</strong> — المصدر: <a href="https://commons.wikimedia.org/wiki/File:Taiwan_location_map.svg" target="_blank">ويكيميديا كومنز: Taiwan_location_map.svg</a>، CC BY-SA 3.0، المؤلف: NordNordWest',
+    'assets.license.source4.html':
+      '<strong>taiwan-political-division.svg</strong> — المصدر: <a href="https://commons.wikimedia.org/wiki/File:Taiwan_ROC_political_division_map.svg" target="_blank">ويكيميديا كومنز: Taiwan_ROC_political_division_map.svg</a>، CC BY-SA 3.0',
+
+    // CTA section
+    'assets.cta.text': 'اكتشفت مشكلة أو لديك اقتراحات للتحسين؟',
+    'assets.cta.btn': 'ساهم على GitHub',
+
+    // Script messages
+    'assets.script.copied': '✅ تم النسخ',
+    'assets.script.failed': '❌ فشل النسخ',
+  },
   'zh-TW': {
     // Meta
     'assets.meta.title': 'Taiwan SVG — 開放台灣輪廓圖',
