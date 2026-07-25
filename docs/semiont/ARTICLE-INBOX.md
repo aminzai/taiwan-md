@@ -206,23 +206,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 敏感度：在世人物，立體群像預設；他自己的評論文字大量公開，引語一律回原文逐字
 - **Reference**: 讀者提供的兩份國藝會文集（本次已逐字查證）— 〈絕命藝師：那一年我們一起生產、收藏與交易的 NFTs（非同質化代幣）〉現象書寫-視覺藝評專案 2021 年專案 30 萬元 https://archive.ncafroc.org.tw/result?id=d6202f928e134ec686613e75d49a9ef6 ／〈絕命藝師第二季：那一年我們一起打造的 NFTs（非同質化代幣）社群〉2022 年專案 26 萬元 https://archive.ncafroc.org.tw/result?id=5064dab6388f42f6828669365933592b ；ARTouch 張寶成專欄 https://artouch.com/category/artouch-column/yszhang-column ；表演藝術評論台人物頁 https://pareviews.ncafroc.org.tw/characters/a258e50b-8649-4906-8b30-84717b18e8ab
 
-### 外送專法 — 《外送員權益保障及外送平臺管理法》剛上路（哲宇第一優先）
-
-- **Type**: `NEW`
-- **Category**: Society
-- **Path**: knowledge/Society/外送專法.md（建議；寫作時可改 Economy 若主軸偏產業）
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Requested**: 2026-07-24 by 哲宇 directive + branch-analysis (session 2026-07-24-newsroom-404-inbox)
-- **Notes**:
-  - **為什麼這篇 vs 其他／vs 舊「台灣外送經濟」**：觀察者指定第一優先。2026-01-06 三讀、01-21 公布、**07-21 正式施行**——首部外送產業專法（28 條），D+3 時效極強。舊 inbox「台灣外送經濟」是 4 月 dead-cross-ref 順帶缺口（P3），主軸模糊；本篇以**專法＋四方關係（外送員／平台／店家／消費者）**為脊椎，外送經濟史只當背景。斜槓世代已有一段 45 元／1.25 倍，但不足以承載法條與子法攻防
-  - 連結密度：台灣斜槓世代 / 全聯福利中心 / 台灣美食總覽 / 夜市文化 / 台灣手搖飲文化 / 黑白大廚在台灣（5+）
-  - 必驗：正式法名與條數、公布／施行日、最低報酬（45 元、最低工資 1.25 倍）是否被子法細化、禁誤寫「已全面僱傭化」、平台／工會多方聲音
-  - 敏感度：勞動／產業政策；立體群像預設，矛盾驅動僅在真爭議段落
-  - 敘事弧候選：「誰算勞工、誰算平台、誰付代價」——樓地板高度仍在子法與實務裡被吵
-- **Reference**: 勞動部三讀稿 https://www.mol.gov.tw/1607/1632/1633/87384/post ；子法預告 https://www.mol.gov.tw/1607/1632/1633/90425/ ；施行報導 https://udn.com/news/story/7238/9640547
-- **Pre-research**: reports/research/2026-07/外送專法.md
-
 ### 台灣建築 EVOLVE — 總覽 hub 只有 136 行 0 腳註，四份研究報告已備好當素材
 
 - **Type**: `EVOLVE`
