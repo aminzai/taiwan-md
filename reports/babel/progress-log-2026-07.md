@@ -3046,3 +3046,45 @@ endpoint 探活：local 🟢、laptop-4090 🟢、laptop-5090 🔴、desktop-309
 endpoint 探活：local 🟢、laptop-4090 🟢、laptop-5090 🔴、desktop-3090 🟢、mac-m4max 🟢
 
 （babel-pulse 常駐儀器自動快照）
+
+## 2026-07-25T19:33:22+08:00（zh 總數 864）
+
+| 語言 | fresh | stale | missing | 覆蓋率 | Δfresh | Δmissing |
+| ---- | ----: | ----: | ------: | -----: | -----: | -------: |
+| en   |   722 |   108 |      34 |  96.1% |      · |        · |
+| ja   |   710 |   148 |       6 |  99.3% |      · |        · |
+| ko   |   708 |   152 |       4 |  99.5% |      · |        · |
+| es   |   715 |   146 |       3 |  99.7% |     +1 |        · |
+| fr   |   710 |   152 |       2 |  99.8% |     +1 |        · |
+| vi   |   108 |    10 |     746 |  13.7% |      · |        · |
+| id   |   214 |     3 |     647 |  25.1% |     +2 |       -2 |
+| pt   |   322 |     9 |     533 |  38.3% |     +2 |       -2 |
+| hi   |   253 |     5 |     606 |  29.9% |     +3 |       -3 |
+| ar   |   173 |     1 |     690 |  20.1% |     +4 |       -4 |
+| ru   |   197 |     1 |     666 |  22.9% |     +5 |       -5 |
+
+總缺口（stale+missing）：**4672**（▼18 vs 上一筆）
+
+**節點／worker**（ok/fail 為累計；Δ為對上一筆）
+
+| 節點                |  ok | fail | Δok | 平均秒 | 主要 fail                                |
+| ------------------- | --: | ---: | --: | -----: | ---------------------------------------- |
+| fleet:desktop-3090  |  56 |  325 |   · |      — | health×123；verify=1×102                 |
+| fleet:laptop-4090   |  27 |  137 |   · |      — | health×83；verify=None×24                |
+| worker:d3090        |   6 |   15 |   · |  900.2 | no output written by tra×9；verify=4×2   |
+| worker:desktop30901 |  20 |   17 |  +1 |  610.2 | health×8；leak×4                         |
+| worker:desktop30902 |  16 |   21 |  +1 |  613.5 | health×10；leak×5                        |
+| worker:gemma31      |   1 |   34 |   · |    2.2 | no output written by tra×34              |
+| worker:l4090        |   5 |   14 |  +1 |  900.3 | no output written by tra×10；leak×3      |
+| worker:laguna       | 117 |  128 |   · |  211.0 | no output written by tra×65；verify=1×19 |
+| worker:laptop40901  |  16 |   12 |   · |  872.5 | health×7；leak×2                         |
+| worker:laptop40902  |  14 |   13 |  +1 |  893.8 | leak×5；health×4                         |
+| worker:mac          |  71 |  207 |  +3 |  243.2 | leak×120；verify=1×40                    |
+| worker:nemo         | 353 |  583 |  +6 |  103.4 | leak×409；health×74                      |
+| worker:nemo2        | 312 |  503 |  +4 |  106.7 | leak×364；health×71                      |
+| worker:nemo3        | 257 |  344 |  +4 |   99.7 | leak×221；verify=1×55                    |
+| worker:oss20        |  51 |  100 |  +1 |  443.5 | leak×40；no output written by tra×23     |
+
+endpoint 探活：local 🟢、laptop-4090 🟢、laptop-5090 🔴、desktop-3090 🟢、mac-m4max 🟢
+
+⚙️ 哲宇 19:3x 暫停 mouhouse babel routine 避免兩機翻譯衝突——本指揮部（mac+l4090+d3090+OpenRouter 池）單機作業中；mouhouse 恢復時 Stage 0 git pull 會自動繼承今日全部工具進化
