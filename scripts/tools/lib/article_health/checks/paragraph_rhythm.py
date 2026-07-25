@@ -154,6 +154,26 @@ def _strip_for_prose_analysis(text: str) -> str:
     return text
 
 
+def _is_prose_block(p: str) -> bool:
+    """R2 只數散文段落。
+
+    `_strip_for_prose_analysis` 會拿掉 frontmatter / code fence（含 tw-* 視覺化模組）/
+    腳註定義，但**不會**拿掉 markdown 表格、圖片、圖說、HTML embed。R2 早期用
+    `len(paragraphs)` 全數計入，於是「一個 H2 裡放一張對照表」會被算成多一段 prose，
+    對資料密集的文章系統性假陽性（2026-07-25 外送專法：s7 實際 8 段 prose，被報 9）。
+    假陽性會讓真正的切碎訊號被噪音蓋掉，故與 R1/R4 一樣只認有實質中文的散文塊。
+    """
+    s = p.strip()
+    if not s:
+        return False
+    # markdown 表格（含分隔列）／圖片／HTML embed／圖說斜體行
+    if s.startswith(("|", "!", "<")):
+        return False
+    if s.startswith("_") and s.endswith("_"):
+        return False
+    return _count_cjk(s) >= 5
+
+
 def _count_cjk(s: str) -> int:
     return len(_RE_CJK.findall(s))
 
@@ -251,11 +271,15 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 if cjk > PARA_WALL_MAX:
                     walls.append((cjk, p.strip().replace("\n", " ")[:26]))
             if lead_paragraphs:
-                per_section_counts.append(("[lead]", len(lead_paragraphs)))
+                per_section_counts.append(
+                    ("[lead]", sum(1 for p in lead_paragraphs if _is_prose_block(p)))
+                )
 
     for title, section_body in sections:
         paragraphs = _split_paragraphs(section_body)
-        per_section_counts.append((title, len(paragraphs)))
+        per_section_counts.append(
+            (title, sum(1 for p in paragraphs if _is_prose_block(p)))
+        )
         for p in paragraphs:
             cjk = _count_cjk(p)
             if cjk >= 5:
