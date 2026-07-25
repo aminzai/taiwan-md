@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T11:42:39+08:00",
-    "zhCommitHead": "18e5cbc26",
+    "lastUpdated": "2026-07-25T11:44:45+08:00",
+    "zhCommitHead": "10222879c",
     "totalZh": 863,
     "activeLanguages": [
       "en",
@@ -59,18 +59,18 @@
       },
       "vi": {
         "total_zh": 863,
-        "fresh": 93,
+        "fresh": 94,
         "stale": 9,
         "metadata_stale": 1,
-        "missing": 760,
+        "missing": 759,
         "orphan": 0
       },
       "id": {
         "total_zh": 863,
-        "fresh": 174,
+        "fresh": 175,
         "stale": 4,
         "metadata_stale": 1,
-        "missing": 684,
+        "missing": 683,
         "orphan": 0
       },
       "pt": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 863,
-        "fresh": 101,
+        "fresh": 103,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 761,
+        "missing": 759,
         "orphan": 0
       },
       "ru": {
         "total_zh": 863,
-        "fresh": 105,
+        "fresh": 106,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 757,
+        "missing": 756,
         "orphan": 0
       }
     },
@@ -728,7 +728,18 @@
           "diffSummary": "+20 -20"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
+          "translatedFrom": "Music/台灣樂器製造.md",
+          "sourceCommitSha": "b4f3dab63",
+          "sourceContentHash": "sha256:5ffbb5b925e1997f",
+          "sourceBodyHash": "sha256:cda00c8983ea5b23",
+          "translatedAt": "2026-07-25T10:52:16+08:00",
+          "translationLastCommit": "597a2eac",
+          "translationLastModified": "2026-07-25T02:46:40+08:00",
+          "inferred": false,
+          "footnoteDefs": 46,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
@@ -54492,8 +54503,8 @@
           "sourceContentHash": "sha256:af8cff27f6cadb30",
           "sourceBodyHash": "sha256:09c26c642594595d",
           "translatedAt": "2026-07-25T10:53:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10222879",
+          "translationLastModified": "2026-07-25T11:42:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -56244,8 +56255,8 @@
           "sourceContentHash": "sha256:eb7e3bede251836b",
           "sourceBodyHash": "sha256:8ae89739a53e0a1f",
           "translatedAt": "2026-07-25T10:53:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10222879",
+          "translationLastModified": "2026-07-25T11:42:39+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -58456,8 +58467,8 @@
           "sourceContentHash": "sha256:970d28e96a195c6a",
           "sourceBodyHash": "sha256:bfea2eb77a7d1c05",
           "translatedAt": "2026-07-25T10:53:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10222879",
+          "translationLastModified": "2026-07-25T11:42:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -59607,7 +59618,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chen-cheng-po.md",
+          "translatedFrom": "People/陳澄波.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:485587af49d56815",
+          "sourceBodyHash": "sha256:433a66ecaa1d5d52",
+          "translatedAt": "2026-07-25T10:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -61664,7 +61686,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/crowd-lu-indie-folk-treasure.md",
+          "translatedFrom": "People/盧廣仲.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a21c857b64fd8e71",
+          "sourceBodyHash": "sha256:090ff0c53b31ba5d",
+          "translatedAt": "2026-07-25T10:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/crowd-lu-indie-folk-treasure.md",
@@ -65526,7 +65559,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/chen-tzu-jian.md",
+          "translatedFrom": "People/陳子見.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b4ed377dcae75954",
+          "sourceBodyHash": "sha256:5225e3163bb10fe2",
+          "translatedAt": "2026-07-25T10:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -74767,8 +74811,8 @@
           "sourceContentHash": "sha256:fbdfa92c6cd4f978",
           "sourceBodyHash": "sha256:404b899a07fee60d",
           "translatedAt": "2026-07-25T10:53:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10222879",
+          "translationLastModified": "2026-07-25T11:42:39+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -82476,8 +82520,8 @@
           "sourceContentHash": "sha256:58cfc27dba0ac67b",
           "sourceBodyHash": "sha256:4e6245b3f0401bec",
           "translatedAt": "2026-07-25T10:53:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "10222879",
+          "translationLastModified": "2026-07-25T11:42:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -86236,7 +86280,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/how-to-read-the-taiwan-map.md",
+          "translatedFrom": "Geography/台灣地圖怎麼讀.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:098044cbe17d84d6",
+          "sourceBodyHash": "sha256:0dee5d4db7ae7893",
+          "translatedAt": "2026-07-25T10:53:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/how-to-read-the-taiwan-map.md",
