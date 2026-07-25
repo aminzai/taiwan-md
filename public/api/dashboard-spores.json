@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-24T22:43:34.652239Z",
+  "lastUpdated": "2026-07-25T15:55:59.365984Z",
   "schemaVersion": "1.1",
   "totals": {
-    "count": 148,
+    "count": 150,
     "platforms": {
-      "threads": 77,
-      "x": 67,
+      "threads": 78,
+      "x": 68,
       "other": 4
     },
     "languages": {
-      "zh": 141,
+      "zh": 143,
       "en": 7
     },
     "templates": {
-      "B": 49,
+      "B": 51,
       "A": 32,
       "D": 4,
       "A2": 57,
@@ -21,6 +21,38 @@
     }
   },
   "recent": [
+    {
+      "n": 160,
+      "date": "2026-07-25",
+      "platform": "x",
+      "article": "外送專法",
+      "articleSlug": "外送專法",
+      "category": "society",
+      "template": "B 冷知識型／問題入口",
+      "url": "https://x.com/taiwandotmd/status/2081045126898684051",
+      "highlight": "雙單同酬（4.4/8.6公里都90元）；地板 vs 演算法",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
+    {
+      "n": 159,
+      "date": "2026-07-25",
+      "platform": "threads",
+      "article": "外送專法",
+      "articleSlug": "外送專法",
+      "category": "society",
+      "template": "B 冷知識型／問題入口",
+      "url": "https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi",
+      "highlight": "雙單同酬（4.4/8.6公里都90元）；地板 vs 演算法",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
     {
       "n": 158,
       "date": "2026-07-15",
@@ -67,38 +99,6 @@
       "views_latest": 878,
       "engagements_7d": 6,
       "rate_7d": 0.68,
-      "backfilled": true
-    },
-    {
-      "n": 155,
-      "date": "2026-07-14",
-      "platform": "threads",
-      "article": "台北吸菸室",
-      "articleSlug": "台北吸菸室",
-      "category": "society",
-      "template": "B 冷知識型／歷史足跡",
-      "url": "https://www.threads.com/@taiwandotmd/post/DaxYe4Sk52Q",
-      "highlight": "從台北戶外吸菸室回看1937至2026年的菸業、反菸與公共空氣發展足跡；方形production圖、日星字體、六段長文",
-      "views_7d": 705,
-      "views_latest": 705,
-      "engagements_7d": 20,
-      "rate_7d": 2.84,
-      "backfilled": true
-    },
-    {
-      "n": 154,
-      "date": "2026-07-07",
-      "platform": "threads",
-      "article": "柯智棠",
-      "articleSlug": "柯智棠",
-      "category": "People",
-      "template": "A2 立體群像（陌生鋼琴暖弧）",
-      "url": "https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F",
-      "highlight": "卡七年靠換兩個陌生把自己寫回來；立體 re-frame 同步",
-      "views_7d": 3580,
-      "views_latest": 3580,
-      "engagements_7d": 120,
-      "rate_7d": 3.35,
       "backfilled": true
     }
   ],
@@ -217,7 +217,24 @@
       "maxRate": 9.09
     }
   },
-  "backfillWarnings": [],
+  "backfillWarnings": [
+    {
+      "n": 159,
+      "article": "外送專法",
+      "platform": "threads",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi"
+    },
+    {
+      "n": 160,
+      "article": "外送專法",
+      "platform": "x",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://x.com/taiwandotmd/status/2081045126898684051"
+    }
+  ],
   "noUrlHistorical": [
     {
       "n": 1,
@@ -249,11 +266,6 @@
     }
   ],
   "weeklyPulse": [
-    {
-      "week": "2026-W21",
-      "published": 8,
-      "avgViews": 10563
-    },
     {
       "week": "2026-W22",
       "published": 20,
@@ -288,6 +300,11 @@
       "week": "2026-W29",
       "published": 4,
       "avgViews": 1032
+    },
+    {
+      "week": "2026-W30",
+      "published": 2,
+      "avgViews": 0
     }
   ],
   "harvestStatus": [
@@ -1770,6 +1787,26 @@
       "withinHarvestWindow": false,
       "harvestCount": 3,
       "lastHarvest": "2026-07-25 06:41"
+    },
+    {
+      "n": 159,
+      "article": "外送專法",
+      "platform": "threads",
+      "publishDate": "2026-07-25",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
+    },
+    {
+      "n": 160,
+      "article": "外送專法",
+      "platform": "x",
+      "publishDate": "2026-07-25",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
     }
   ]
 }
