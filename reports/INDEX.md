@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-25 06:14
+last_generated: 2026-07-26 06:13
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,32 +12,34 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-25 06:14** · 頂層 \*.md 共 **231** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-26 06:13** · 頂層 \*.md 共 **239** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size      | 用途                                                 |
 | ----------------------- | ----: | --------- | ---------------------------------------------------- |
-| `research/`             |   460 | 20.6 MB   | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
-| `editorial-room/`       |    50 | 339.8 KB  | —                                                    |
+| `research/`             |   461 | 21.1 MB   | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `editorial-room/`       |    51 | 352.7 KB  | —                                                    |
 | `archive/`              |    28 | 372.2 KB  | 歸檔位置 (per audit Layer 4)                         |
 | `article-evolve/`       |    27 | 1003.6 KB | —                                                    |
-| `weekly/`               |    22 | 4.0 MB    | Self-evolve weekly digest                            |
-| `article-projection/`   |    14 | 205.9 KB  | —                                                    |
+| `weekly/`               |    24 | 4.5 MB    | Self-evolve weekly digest                            |
+| `article-projection/`   |    16 | 263.3 KB  | —                                                    |
 | `factcheck/`            |     9 | 98.7 KB   | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB    | —                                                    |
+| `routine-prompt-drift/` |     8 | 22.6 KB   | —                                                    |
+| `babel-quarantine/`     |     7 | 268.0 KB  | —                                                    |
 | `probe/`                |     6 | 69.8 KB   | BECOME §Step 7 探測器報告                            |
 | `babel-jobs/`           |     5 | 246.4 KB  | —                                                    |
 | `babel-patches/`        |     5 | 3.4 MB    | —                                                    |
 | `translation-research/` |     5 | 338.0 KB  | 巴別塔 5 lang research                               |
 | `ab-tests/`             |     4 | 69.2 KB   | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB  | Music 條目 media audit (json + md)                   |
+| `babel/`                |     3 | 624.5 KB  | —                                                    |
+| `news-lens/`            |     3 | 59.0 KB   | —                                                    |
 | `terminology-review/`   |     3 | 1.7 MB    | —                                                    |
-| `404-monitor/`          |     2 | 63.4 KB   | —                                                    |
-| `babel/`                |     2 | 15.7 KB   | —                                                    |
+| `404-monitor/`          |     2 | 73.1 KB   | —                                                    |
 | `fork-census/`          |     2 | 36.2 KB   | —                                                    |
 | `harvest/`              |     2 | 14.3 KB   | Harvest engine 紀錄                                  |
-| `news-lens/`            |     2 | 37.9 KB   | —                                                    |
 | `audit/`                |     1 | 20.7 KB   | —                                                    |
 | `visual/`               |     1 | 5.7 KB    | Visual smoke test 基線 (partial gitignored)          |
 
@@ -95,8 +97,9 @@ type: auto-index
 - `2026-04-13` [ssodt-spore-linkback-plan-2026-04-13](ssodt-spore-linkback-plan-2026-04-13.md)
 - `2026-04-12` [semiont-public-pages-plan-2026-04-12](semiont-public-pages-plan-2026-04-12.md)
 
-### evolution (37)
+### evolution (38)
 
+- `2026-07-26` [evolution-roadmap-2026-07-26](evolution-roadmap-2026-07-26.md) — Evolution Roadmap 2026-07-26
 - `2026-07-23` [idlccp1984-pr-batch-instrument-evolution-2026-07-23](idlccp1984-pr-batch-instrument-evolution-2026-07-23.md) — idlccp1984 PR batch × 儀器進化：小丑魚原則下的 warn+lint+auto-heal
 - `2026-07-19` [evolution-roadmap-2026-07-19](evolution-roadmap-2026-07-19.md) — Evolution Roadmap 2026-07-19
 - `2026-07-18` [design-article-inbox-evolve-mode4-2026-07-18](design-article-inbox-evolve-mode4-2026-07-18.md)
@@ -217,8 +220,15 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (86)
+### ops (93)
 
+- `2026-07-26` [armored-input-ab-2026-07-26](armored-input-ab-2026-07-26.md)
+- `2026-07-25` [design-bot-identity-feedback-triage-2026-07-25](design-bot-identity-feedback-triage-2026-07-25.md) — 讓 feedback routine 用機器身份開 issue
+- `2026-07-25` [design-contributor-node-2026-07-25](design-contributor-node-2026-07-25.md) — Design: 分靈節點（contributor node）— 甦醒後一條 cron，讓貢獻者機器常態幫 Taiwan.md 做事
+- `2026-07-25` [design-prose-flow-station-2026-07-25](design-prose-flow-station-2026-07-25.md) — 順稿席與閱讀節奏儀器化 — 為什麼全綠的文章讀起來是牆
+- `2026-07-25` [design-spine-type-3-public-issue-2026-07-25](design-spine-type-3-public-issue-2026-07-25.md) — spine 第三型設計：多觀點立場議題探討矛盾型
+- `2026-07-25` [language-birth-2026-07-25](language-birth-2026-07-25.md)
+- `2026-07-25` [structured-translation-pilot-2026-07-25](structured-translation-pilot-2026-07-25.md) — 結構化分段翻譯引擎 pilot — 2026-07-25
 - `2026-07-24` [babel-fleet-dispatch-2026-07-24](babel-fleet-dispatch-2026-07-24.md) — babel-fleet-dispatch-2026-07-24
 - `2026-07-24` [design-dashboard-status-section-2026-07-24](design-dashboard-status-section-2026-07-24.md)
 - `2026-07-24` [design-research-fleet-2026-07-24](design-research-fleet-2026-07-24.md)
@@ -314,9 +324,17 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-07 (53 files)
+### 2026-07 (61 files)
 
-- Type breakdown: ops: 29 / evolution: 12 / design: 8 / audit-routine: 2 / audit: 1 / plan: 1
+- Type breakdown: ops: 36 / evolution: 13 / design: 8 / audit-routine: 2 / audit: 1 / plan: 1
+  - `2026-07-26` [armored-input-ab-2026-07-26](armored-input-ab-2026-07-26.md)
+  - `2026-07-26` [evolution-roadmap-2026-07-26](evolution-roadmap-2026-07-26.md)
+  - `2026-07-25` [design-bot-identity-feedback-triage-2026-07-25](design-bot-identity-feedback-triage-2026-07-25.md)
+  - `2026-07-25` [design-contributor-node-2026-07-25](design-contributor-node-2026-07-25.md)
+  - `2026-07-25` [design-prose-flow-station-2026-07-25](design-prose-flow-station-2026-07-25.md)
+  - `2026-07-25` [design-spine-type-3-public-issue-2026-07-25](design-spine-type-3-public-issue-2026-07-25.md)
+  - `2026-07-25` [language-birth-2026-07-25](language-birth-2026-07-25.md)
+  - `2026-07-25` [structured-translation-pilot-2026-07-25](structured-translation-pilot-2026-07-25.md)
   - `2026-07-24` [babel-fleet-dispatch-2026-07-24](babel-fleet-dispatch-2026-07-24.md)
   - `2026-07-24` [design-dashboard-status-section-2026-07-24](design-dashboard-status-section-2026-07-24.md)
   - `2026-07-24` [design-research-fleet-2026-07-24](design-research-fleet-2026-07-24.md)

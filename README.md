@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **860 curated articles** (zh-TW SSOT) across 14 categories — projected to **10 languages** = 8,600 article-versions
+- 📖 **863 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 10,356 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी — 9 languages (2026-07-19 主權的巴別塔擴到九語)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -48,12 +48,12 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 860   |
-| 🇹🇼 Chinese (zh-TW)             | 860   |
-| 🇺🇸 English (en)                | 833   |
-| 🇯🇵 日本語 (ja)                 | 856   |
+| 📄 Total articles (zh-TW SSOT) | 863   |
+| 🇹🇼 Chinese (zh-TW)             | 863   |
+| 🇺🇸 English (en)                | 834   |
+| 🇯🇵 日本語 (ja)                 | 857   |
 | 🇰🇷 한국어 (ko)                 | 859   |
-| 🇪🇸 Español (es)                | 859   |
+| 🇪🇸 Español (es)                | 861   |
 | 🇫🇷 Français (fr)               | 862   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
@@ -62,7 +62,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 | ⭐ GitHub Stars                | 1115  |
 | 🍴 Forks                       | 168   |
 | 📅 Articles last 7 days        | 168   |
-| 📅 Articles last 30 days       | 231   |
+| 📅 Articles last 30 days       | 234   |
 
 <!-- STATS:END -->
 
@@ -545,7 +545,7 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/u/169805?v=4" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />💻 🖋️ 🌍</td>
-    <td align="center"><a href="https://github.com/stantheman0128"><img src="https://avatars.githubusercontent.com/u/79733497?v=4" width="100px;" alt=""/><br /><sub><b>stantheman0128</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/stantheman0128"><img src="https://avatars.githubusercontent.com/u/79733497?v=4" width="100px;" alt=""/><br /><sub><b>Stan Shih</b></sub></a><br />💻 🐛</td>
     <td align="center"><a href="https://github.com/vaiskalivuan"><img src="https://avatars.githubusercontent.com/u/270533697?v=4" width="100px;" alt=""/><br /><sub><b>vaiskalivuan</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/ceruleanstring"><img src="https://avatars.githubusercontent.com/u/265435204?v=4" width="100px;" alt=""/><br /><sub><b>柒藍</b></sub></a><br />🌍</td>
     <td align="center"><a href="https://github.com/gn00295120"><img src="https://avatars.githubusercontent.com/u/30173341?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Wang</b></sub></a><br />💻 🌍</td>

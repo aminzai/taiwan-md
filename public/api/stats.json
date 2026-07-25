@@ -1,12 +1,12 @@
 {
-  "totalArticles": 5434,
-  "totalCategories": 24,
+  "totalArticles": 6556,
+  "totalCategories": 26,
   "estimatedContributors": 67,
-  "totalTags": 5479,
+  "totalTags": 5648,
   "categories": [
     {
       "name": "es",
-      "count": 859
+      "count": 861
     },
     {
       "name": "ko",
@@ -18,23 +18,35 @@
     },
     {
       "name": "en",
-      "count": 833
+      "count": 834
     },
     {
       "name": "ja",
-      "count": 856
+      "count": 857
     },
     {
       "name": "vi",
-      "count": 70
+      "count": 126
     },
     {
       "name": "hi",
-      "count": 75
+      "count": 275
     },
     {
       "name": "History",
       "count": 49
+    },
+    {
+      "name": "id",
+      "count": 235
+    },
+    {
+      "name": "ru",
+      "count": 245
+    },
+    {
+      "name": "ar",
+      "count": 179
     },
     {
       "name": "Politics",
@@ -42,7 +54,7 @@
     },
     {
       "name": "Society",
-      "count": 90
+      "count": 92
     },
     {
       "name": "Food",
@@ -70,7 +82,7 @@
     },
     {
       "name": "Economy",
-      "count": 59
+      "count": 60
     },
     {
       "name": "Technology",
@@ -90,11 +102,7 @@
     },
     {
       "name": "pt",
-      "count": 79
-    },
-    {
-      "name": "id",
-      "count": 79
+      "count": 358
     },
     {
       "name": "resources",
@@ -104,11 +112,11 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 68
+      "count": 71
     },
     {
       "name": "人物",
-      "count": 65
+      "count": 63
     },
     {
       "name": "企業",
@@ -128,7 +136,7 @@
     },
     {
       "name": "半導體",
-      "count": 26
+      "count": 25
     },
     {
       "name": "기업",
@@ -144,10 +152,6 @@
     },
     {
       "name": "AI",
-      "count": 24
-    },
-    {
-      "name": "台灣",
       "count": 24
     },
     {
@@ -171,26 +175,30 @@
       "count": 23
     },
     {
-      "name": "金曲獎",
-      "count": 23
-    },
-    {
       "name": "體育",
       "count": 23
     },
     {
       "name": "文化",
       "count": 23
+    },
+    {
+      "name": "인물",
+      "count": 22
+    },
+    {
+      "name": "奧運",
+      "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 5434,
+    "zh-TW": 6556,
     "en": 0
   },
-  "lastUpdated": "2026-07-24T22:13:52.576Z",
+  "lastUpdated": "2026-07-25T22:13:09.265Z",
   "stars": 1115,
   "forks": 168,
-  "zhPages": 860,
-  "enPages": 833,
-  "totalPages": 860
+  "zhPages": 863,
+  "enPages": 834,
+  "totalPages": 863
 }

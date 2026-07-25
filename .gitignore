@@ -133,6 +133,8 @@ src/content/vi/
 src/content/id/
 src/content/pt/
 src/content/hi/
+src/content/ar/
+src/content/ru/
 
 # Local batch scratch space and logs. Everything here is disposable/recoverable.
 /tmp/
