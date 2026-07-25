@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T11:40:01+08:00",
-    "zhCommitHead": "3f7b31ebf",
+    "lastUpdated": "2026-07-25T11:42:39+08:00",
+    "zhCommitHead": "18e5cbc26",
     "totalZh": 863,
     "activeLanguages": [
       "en",
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 863,
-        "fresh": 172,
+        "fresh": 174,
         "stale": 4,
         "metadata_stale": 1,
-        "missing": 686,
+        "missing": 684,
         "orphan": 0
       },
       "pt": {
         "total_zh": 863,
-        "fresh": 232,
+        "fresh": 233,
         "stale": 8,
         "metadata_stale": 1,
-        "missing": 622,
+        "missing": 621,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 863,
-        "fresh": 100,
+        "fresh": 101,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 762,
+        "missing": 761,
         "orphan": 0
       },
       "ru": {
         "total_zh": 863,
-        "fresh": 104,
+        "fresh": 105,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 758,
+        "missing": 757,
         "orphan": 0
       }
     },
@@ -3679,7 +3679,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/elephant-gymnastics.md",
+          "translatedFrom": "Music/大象體操.md",
+          "sourceCommitSha": "8547b2665",
+          "sourceContentHash": "sha256:7b6c098933713fcd",
+          "sourceBodyHash": "sha256:b2179659aae39566",
+          "translatedAt": "2026-07-25T10:52:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -35747,7 +35758,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Nature/meiyu-stagnant-front.md",
+          "translatedFrom": "Nature/梅雨.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:08c48a6ddad4519e",
+          "sourceBodyHash": "sha256:31c92fd7633ce35e",
+          "translatedAt": "2026-07-25T10:53:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -42384,8 +42406,8 @@
           "sourceContentHash": "sha256:9ecf294ab1fe9170",
           "sourceBodyHash": "sha256:4e53d6d0a41114dd",
           "translatedAt": "2026-07-25T10:53:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18e5cbc2",
+          "translationLastModified": "2026-07-25T11:40:01+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -42504,8 +42526,8 @@
           "sourceContentHash": "sha256:40c8b34419f44594",
           "sourceBodyHash": "sha256:cb29681047e37872",
           "translatedAt": "2026-07-25T10:53:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18e5cbc2",
+          "translationLastModified": "2026-07-25T11:40:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -43125,8 +43147,8 @@
           "sourceContentHash": "sha256:1b679db54adf9d80",
           "sourceBodyHash": "sha256:e4792097bdf41668",
           "translatedAt": "2026-07-25T10:53:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18e5cbc2",
+          "translationLastModified": "2026-07-25T11:40:01+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -43332,8 +43354,8 @@
           "sourceContentHash": "sha256:bc1390f13b2a7b07",
           "sourceBodyHash": "sha256:5621e86f4a6c80eb",
           "translatedAt": "2026-07-25T10:53:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18e5cbc2",
+          "translationLastModified": "2026-07-25T11:40:01+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -43953,8 +43975,8 @@
           "sourceContentHash": "sha256:f272f267160332e7",
           "sourceBodyHash": "sha256:3d2acfec22ab6d95",
           "translatedAt": "2026-07-25T10:53:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18e5cbc2",
+          "translationLastModified": "2026-07-25T11:40:01+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -44269,8 +44291,8 @@
           "sourceContentHash": "sha256:1260b9482a373397",
           "sourceBodyHash": "sha256:60f774f7923d2a36",
           "translatedAt": "2026-07-25T10:53:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18e5cbc2",
+          "translationLastModified": "2026-07-25T11:40:01+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -45293,8 +45315,8 @@
           "sourceContentHash": "sha256:b7d6932f284b6cf0",
           "sourceBodyHash": "sha256:d3315bfee0561cb1",
           "translatedAt": "2026-07-25T10:53:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18e5cbc2",
+          "translationLastModified": "2026-07-25T11:40:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -45802,8 +45824,8 @@
           "sourceContentHash": "sha256:66a5e0aae1a572b7",
           "sourceBodyHash": "sha256:162f09653edec7c3",
           "translatedAt": "2026-07-25T10:53:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18e5cbc2",
+          "translationLastModified": "2026-07-25T11:40:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -47041,8 +47063,8 @@
           "sourceContentHash": "sha256:d1617940aa3ac2f4",
           "sourceBodyHash": "sha256:e0245844724d0a9c",
           "translatedAt": "2026-07-25T10:53:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18e5cbc2",
+          "translationLastModified": "2026-07-25T11:40:01+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -47964,8 +47986,8 @@
           "sourceContentHash": "sha256:1b59d09fec786013",
           "sourceBodyHash": "sha256:3e07cf6a17af5d88",
           "translatedAt": "2026-07-25T10:53:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "18e5cbc2",
+          "translationLastModified": "2026-07-25T11:40:01+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -56216,7 +56238,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/su-chiao-hui.md",
+          "translatedFrom": "People/蘇巧慧.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eb7e3bede251836b",
+          "sourceBodyHash": "sha256:8ae89739a53e0a1f",
+          "translatedAt": "2026-07-25T10:53:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/su-chiao-hui.md",
@@ -59898,7 +59931,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
+          "translatedFrom": "People/曹興誠.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:419cc607d70f325a",
+          "sourceBodyHash": "sha256:ae002bb900693bc1",
+          "translatedAt": "2026-07-25T10:53:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -61623,7 +61667,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/crowd-lu-indie-folk-treasure.md",
+          "translatedFrom": "People/盧廣仲.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a21c857b64fd8e71",
+          "sourceBodyHash": "sha256:090ff0c53b31ba5d",
+          "translatedAt": "2026-07-25T10:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
