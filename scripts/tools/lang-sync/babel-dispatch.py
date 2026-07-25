@@ -530,7 +530,8 @@ def do_commit(lang: str, state: RunState, no_commit: bool, log: Logger) -> None:
 
 def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
                   state: RunState, report: JsonlWriter, freezes: JsonlWriter,
-                  no_commit: bool, commit_every: int, log: Logger) -> None:
+                  no_commit: bool, commit_every: int, log: Logger,
+                  engine: str = "whole") -> None:
     data = json.loads(group_path.read_text(encoding="utf-8"))
     trans_path = data["articles"][0]["en_path"]
 
@@ -542,9 +543,23 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # the literal string "round01" as the target-language name in the
     # translation prompt (caught in the first smoke-test run — 2/2 verify
     # failures, both explained by this bug once inspected).
-    cmd = ["python3", "-u", "scripts/tools/lang-sync/translate.py",
-           "--group", str(group_path), "--lang", lang,
-           "--cascade", worker.cascade_spec, "--no-preflight"]
+    if engine == "structured":
+        # 分段式引擎吃單篇介面（zh_path 相對 knowledge/、backend 單一 spec）。
+        # ollama worker 的 cascade_spec 是裸 "ollama"（模型在 env OLLAMA_MODEL），
+        # structured 端要組回 ollama:<model>；openrouter spec 原樣可用。
+        backend = worker.cascade_spec
+        if backend.split("@")[0] == "ollama":
+            _model = worker_env(worker).get("OLLAMA_MODEL", "")
+            backend = f"ollama:{_model}" if _model else "ollama"
+        cmd = ["python3", "-u", "scripts/tools/lang-sync/structured-translate.py",
+               zh_path, "--lang", lang, "--backend", backend,
+               "--out", trans_path, "--skip-validators"]
+        # --skip-validators：dispatcher 的 verify trio 是唯一裁判；引擎內建
+        # 驗證再跑一次是同一把尺跑兩遍，純浪費。
+    else:
+        cmd = ["python3", "-u", "scripts/tools/lang-sync/translate.py",
+               "--group", str(group_path), "--lang", lang,
+               "--cascade", worker.cascade_spec, "--no-preflight"]
     proc = subprocess.run(cmd, cwd=REPO, env=worker_env(worker), capture_output=True, text=True)
     elapsed = time.monotonic() - t0
 
@@ -655,7 +670,8 @@ def wait_if_frozen(worker: Worker, workers: list, log: Logger) -> None:
 
 def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState,
                  report: JsonlWriter, freezes: JsonlWriter, no_commit: bool,
-                 commit_every: int, log: Logger) -> None:
+                 commit_every: int, log: Logger,
+                 engine: str = "whole") -> None:
     while True:
         wait_if_frozen(worker, workers, log)
         with state.lock:
@@ -666,7 +682,7 @@ def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState
         lang, group_path, zh_path = task
         with state.lock:
             state.in_flight.add(f"{lang}:{zh_path}")
-        process_task(worker, lang, group_path, zh_path, state, report, freezes, no_commit, commit_every, log)
+        process_task(worker, lang, group_path, zh_path, state, report, freezes, no_commit, commit_every, log, engine=engine)
 
 
 # ────────────────────────── main ──────────────────────────
@@ -703,6 +719,11 @@ def main() -> None:
                           "end of each round)")
     ap.add_argument("--max-articles", type=int, default=None, help="global cap across the whole run (smoke tests)")
     ap.add_argument("--no-commit", action="store_true", help="skip git commit (smoke tests)")
+    ap.add_argument("--engine", choices=["whole", "structured"], default="whole",
+                    help="翻譯引擎：whole=整篇式 translate.py（預設）；structured=分段式 "
+                         "structured-translate.py（模型只翻文字、結構由工具持有——"
+                         "passthrough/腳註編號/YAML 三類 fail 構造上不會發生；"
+                         "pilot 6/6 全綠 2026-07-25，見 reports/structured-translation-pilot）")
     ap.add_argument("--priority", choices=["p0", "p1", "all"], default="all",
                      help="p0=missing only, p1=stale+metadata-stale only, all=P0 first then P1 (default)")
     args = ap.parse_args()
@@ -795,7 +816,8 @@ def main() -> None:
         with ThreadPoolExecutor(max_workers=len(workers)) as pool:
             futures = [
                 pool.submit(worker_loop, w, workers, queue, state, report, freezes,
-                            args.no_commit, args.commit_every, log)
+                            args.no_commit, args.commit_every, log,
+                            engine=args.engine)
                 for w in workers
             ]
             for f in futures:
