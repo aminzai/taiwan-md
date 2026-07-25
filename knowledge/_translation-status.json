@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T01:00:54+08:00",
-    "zhCommitHead": "8884ad3c2",
+    "lastUpdated": "2026-07-26T01:14:29+08:00",
+    "zhCommitHead": "41ff74900",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -27,16 +27,16 @@
       },
       "ja": {
         "total_zh": 865,
-        "fresh": 712,
-        "stale": 144,
+        "fresh": 713,
+        "stale": 143,
         "metadata_stale": 3,
         "missing": 6,
         "orphan": 0
       },
       "ko": {
         "total_zh": 865,
-        "fresh": 709,
-        "stale": 149,
+        "fresh": 710,
+        "stale": 148,
         "metadata_stale": 2,
         "missing": 5,
         "orphan": 0
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 865,
-        "fresh": 218,
+        "fresh": 219,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 636,
+        "missing": 635,
         "orphan": 0
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 345,
+        "fresh": 348,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 508,
+        "missing": 505,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 214,
+        "fresh": 216,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 650,
+        "missing": 648,
         "orphan": 0
       },
       "ru": {
         "total_zh": 865,
-        "fresh": 242,
+        "fresh": 243,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 622,
+        "missing": 621,
         "orphan": 0
       }
     },
@@ -10646,18 +10646,16 @@
         "ko": {
           "path": "ko/Technology/taiwan-drone-industry.md",
           "translatedFrom": "Technology/台灣無人機產業.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:de2ace5a9d645535",
-          "sourceBodyHash": "sha256:0efd20b7166e441a",
-          "translatedAt": "2026-06-16T17:14:05Z",
+          "sourceCommitSha": "c2412970f",
+          "sourceContentHash": "sha256:9a74d696840dfd44",
+          "sourceBodyHash": "sha256:6b0ed5d3cd521366",
+          "translatedAt": "2026-07-25T21:33:42+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -19"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/taiwan-drone-industry.md",
@@ -13774,7 +13772,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/ai-hardware-supply-chain.md",
+          "translatedFrom": "Technology/AI硬體供應鏈.md",
+          "sourceCommitSha": "8f5e81ee5",
+          "sourceContentHash": "sha256:96b285db19941653",
+          "sourceBodyHash": "sha256:96ecb5a6142f55f7",
+          "translatedAt": "2026-07-25T21:33:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -15933,7 +15942,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/national-cultural-memory-bank.md",
+          "translatedFrom": "Technology/國家文化記憶庫.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6f90dbf2e1df699d",
+          "sourceBodyHash": "sha256:f903cddb5dedf5bd",
+          "translatedAt": "2026-07-26T00:17:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -21745,18 +21765,7 @@
           "reason": "same-commit"
         },
         "hi": {
-          "path": "hi/resources/mini-taiwan-pulse.md",
-          "translatedFrom": "resources/mini-taiwan-pulse.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:409b7d5c9d0f3bbd",
-          "sourceBodyHash": "sha256:215016d553b05404",
-          "translatedAt": "2026-07-25T21:33:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "status": "missing"
@@ -22217,7 +22226,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/taiwan-youbike-and-micromobility-revolution.md",
+          "translatedFrom": "Lifestyle/台灣YouBike文化與城市微交通革命.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:71377fcdfb99db3b",
+          "sourceBodyHash": "sha256:b4c2bbb618fa4629",
+          "translatedAt": "2026-07-26T00:16:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-youbike-and-micromobility-revolution.md",
@@ -24614,10 +24634,32 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taoyuan-airport.md",
+          "translatedFrom": "Lifestyle/桃園機場.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1479fcc5eaa28fc5",
+          "sourceBodyHash": "sha256:1fbc8f5240a8c4b8",
+          "translatedAt": "2026-07-26T00:16:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/taoyuan-airport.md",
+          "translatedFrom": "Lifestyle/桃園機場.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1479fcc5eaa28fc5",
+          "sourceBodyHash": "sha256:1fbc8f5240a8c4b8",
+          "translatedAt": "2026-07-26T00:16:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/taoyuan-airport.md",
@@ -24812,18 +24854,16 @@
         "ja": {
           "path": "ja/Lifestyle/tour-bus.md",
           "translatedFrom": "Lifestyle/遊覽車.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:2b757d54650fbf73",
-          "sourceBodyHash": "sha256:9e75f80aeb03d94c",
-          "translatedAt": "2026-05-03T21:10:09+08:00",
+          "sourceCommitSha": "42b42a934",
+          "sourceContentHash": "sha256:f828da7d0eb39776",
+          "sourceBodyHash": "sha256:c0de350ac39dbee0",
+          "translatedAt": "2026-07-25T21:33:42+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -20"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/tour-bus.md",
@@ -29190,8 +29230,8 @@
           "sourceContentHash": "sha256:1b3e5e3f22f40ead",
           "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
           "translatedAt": "2026-07-25T21:33:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7ecc1029",
+          "translationLastModified": "2026-07-26T01:00:54+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -46963,7 +47003,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/ahn-ji-hyun.md",
+          "translatedFrom": "People/安芝儇.md",
+          "sourceCommitSha": "859d7316d",
+          "sourceContentHash": "sha256:b13816d98f58f322",
+          "sourceBodyHash": "sha256:56208a71719992d2",
+          "translatedAt": "2026-07-26T00:16:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -52551,7 +52602,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/muscle-mountain.md",
+          "translatedFrom": "People/肌肉山山.md",
+          "sourceCommitSha": "859d7316d",
+          "sourceContentHash": "sha256:a9c781639a414788",
+          "sourceBodyHash": "sha256:d1cce1c9cb32c2ba",
+          "translatedAt": "2026-07-26T00:16:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -84903,8 +84965,8 @@
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
           "translatedAt": "2026-07-25T21:33:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7ecc1029",
+          "translationLastModified": "2026-07-26T01:00:54+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -96007,7 +96069,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-temple-festivals-and-performance-troupes.md",
+          "translatedFrom": "Culture/台灣廟會與陣頭文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:dd389bc47ee02430",
+          "sourceBodyHash": "sha256:57fa9edbc965f758",
+          "translatedAt": "2026-07-26T00:16:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
