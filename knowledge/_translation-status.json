@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T04:56:29+08:00",
-    "zhCommitHead": "4b2493f47",
+    "lastUpdated": "2026-07-26T05:00:36+08:00",
+    "zhCommitHead": "9ff79e76d",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -75,26 +75,26 @@
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 397,
+        "fresh": 398,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 456,
+        "missing": 455,
         "orphan": 0
       },
       "hi": {
         "total_zh": 865,
-        "fresh": 310,
+        "fresh": 311,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 548,
+        "missing": 547,
         "orphan": 0
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 245,
+        "fresh": 246,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 619,
+        "missing": 618,
         "orphan": 0
       },
       "ru": {
@@ -2180,7 +2180,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/fire-ex.md",
+          "translatedFrom": "Music/滅火器樂團.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ff50a058e16cd318",
+          "sourceBodyHash": "sha256:4b22b6f4b3e09c1b",
+          "translatedAt": "2026-07-26T03:58:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -18869,7 +18880,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/no-mans-land-art-platform.md",
+          "translatedFrom": "Art/數位荒原.md",
+          "sourceCommitSha": "a74c440b3",
+          "sourceContentHash": "sha256:f8ec8d5fb97942ca",
+          "sourceBodyHash": "sha256:7bfa784449cb0cb6",
+          "translatedAt": "2026-07-26T03:41:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -26893,7 +26915,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/teach-for-taiwan.md",
+          "translatedFrom": "Society/為台灣而教TFT.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d24206673c791f9a",
+          "sourceBodyHash": "sha256:2ed9c66e6cdd44d6",
+          "translatedAt": "2026-07-26T03:58:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -49831,8 +49864,8 @@
           "sourceContentHash": "sha256:b7728f29d3dbc9e2",
           "sourceBodyHash": "sha256:8df8bda804d8ffe0",
           "translatedAt": "2026-07-25T21:33:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9ff79e76",
+          "translationLastModified": "2026-07-26T04:56:30+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -78031,8 +78064,8 @@
           "sourceContentHash": "sha256:7aeb090ae7f880d7",
           "sourceBodyHash": "sha256:07d9c3b482846ce9",
           "translatedAt": "2026-07-25T21:33:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9ff79e76",
+          "translationLastModified": "2026-07-26T04:56:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -93097,8 +93130,8 @@
           "sourceContentHash": "sha256:1ce94059006f7d31",
           "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
           "translatedAt": "2026-07-26T03:41:22+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9ff79e76",
+          "translationLastModified": "2026-07-26T04:56:30+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -101954,8 +101987,8 @@
           "sourceContentHash": "sha256:21f968d51e24c095",
           "sourceBodyHash": "sha256:758baf07e7746d38",
           "translatedAt": "2026-07-25T21:33:45+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9ff79e76",
+          "translationLastModified": "2026-07-26T04:56:30+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
