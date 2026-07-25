@@ -714,7 +714,10 @@ def main() -> None:
                      help="reverse (default) = process each priority's worklist from the tail "
                           "(anti-collision vs legacy dispatchers, which eat from the head)")
     ap.add_argument("--rounds", type=int, default=50)
-    ap.add_argument("--commit-every", type=int, default=10,
+    # default 50：2026-07-25 哲宇 directive「commit 50 篇 50 篇做好了，不然
+    # 感覺有點洗版 commit history」——多產線 × 每 10 篇一 commit 曾把 git log
+    # 刷成整頁 babel 批次。
+    ap.add_argument("--commit-every", type=int, default=50,
                      help="commit after this many verified-ok files per lang (also flushed at "
                           "end of each round)")
     ap.add_argument("--max-articles", type=int, default=None, help="global cap across the whole run (smoke tests)")

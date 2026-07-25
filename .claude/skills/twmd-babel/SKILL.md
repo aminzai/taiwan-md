@@ -45,7 +45,7 @@ python3 scripts/tools/lang-sync/babel-preflight.py
 ```bash
 python3 scripts/tools/lang-sync/babel-dispatch.py --langs <langs> \
   --worker "本機=ollama:<model>@http://127.0.0.1:11434" \
-  --worker "雲端=openrouter:<model>" --rounds 200 --commit-every 10
+  --worker "雲端=openrouter:<model>" --rounds 200 --commit-every 50
 ```
 
 Stage D（認知層 diary babel）跟 Stage 3 同屬義務範圍，工具鏈走 [REMOTE-GPU-PIPELINE.md](../../../docs/pipelines/REMOTE-GPU-PIPELINE.md)。

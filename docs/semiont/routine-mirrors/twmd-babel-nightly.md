@@ -35,7 +35,7 @@ python3 scripts/tools/lang-sync/status.py
 python3 scripts/tools/lang-sync/babel-dispatch.py --langs <status.py 顯示有缺口的語言> \
   --worker "本機=ollama:<preflight 列出的模型>@http://127.0.0.1:11434" \
   --worker "雲端=openrouter:<pipeline DEFAULT_CASCADE 的模型>" \
-  --rounds 200 --commit-every 10
+  --rounds 200 --commit-every 50
 ```
 
 調度器內建三重 gate、HEAD-restore（gate fail 有舊版就還原不刪除，寧可 stale 也不要 missing）、精確路徑 commit。P2/P2.5 的 diff-patch 與 metadata bump 路徑見 pipeline。
