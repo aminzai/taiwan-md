@@ -36,12 +36,12 @@ python3 /Users/cheyuwu/Projects/taiwan-md/scripts/tools/routine-audit.py --last-
 
 ## Stage 4: 4 lens primary framework
 
-| Lens                         | 找什麼                                                                    |
-| ---------------------------- | ------------------------------------------------------------------------- |
-| **Collision**                | rescue / orphan / handoff chain                                           |
-| **Dormant entropy**          | canonical ↔ production drift（routine prompt 跟 pipeline canonical 漂移） |
-| **Boundary input precision** | ground-truth vs description                                               |
-| **Heal bidirectional**       | over-action / over-ship / over-defer / performative work                  |
+| Lens | 找什麼 |
+|---|---|
+| **Collision** | rescue / orphan / handoff chain |
+| **Dormant entropy** | canonical ↔ production drift（routine prompt 跟 pipeline canonical 漂移）|
+| **Boundary input precision** | ground-truth vs description |
+| **Heal bidirectional** | over-action / over-ship / over-defer / performative work |
 
 ## Stage 5: LESSONS-INBOX vc 累積
 

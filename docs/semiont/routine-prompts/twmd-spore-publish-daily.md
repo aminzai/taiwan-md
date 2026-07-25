@@ -102,7 +102,6 @@ python3 /Users/cheyuwu/Projects/taiwan-md/scripts/tools/article-health.py /Users
 ```
 
 `Rule #14 v2 HARD` — viral spore 第一行**必須**有友善 prefix 之一：
-
 - `你知道嗎？{emoji}` （最強推薦）
 - `你知道嗎，{...}` （舊風格逗號變體仍允許）
 - `欸，{具體事件}` / `欸你{...}`
@@ -120,13 +119,11 @@ Plugin hard=1 → **revise prose 加 prefix，重跑 plugin。不准 `--no-verif
 routine spore-publish-daily **必須**寫 `docs/factory/spore-blueprints/{N}-{slug}.md` blueprint file（含 fence-wrapped 完整 spore prose），不准只在 session memory inline body。觸發背景：周蕙 #103 inline 而非 blueprint → plugin Rule #14 根本沒跑 → silent voice drift through gate。
 
 Blueprint frontmatter 必填：
-
 ```yaml
 spore_number: '#{Threads N} / #{X N+1}'
 template: <A1 / A2 / B / C / D / E-thread / F-站方公開信>
 hook_tier: <1a / 1b / N/A>
 ```
-
 `template: F-...` 或 `hook_tier: N/A` = publicletter family exempt（plugin auto-detect）。
 
 ### 關鍵 anti-pattern（讀 SPORE-WRITING ACK 後仍要 self-check）

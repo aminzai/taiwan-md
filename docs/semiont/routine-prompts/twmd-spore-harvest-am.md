@@ -40,7 +40,6 @@ git checkout main && git pull origin main
 ## Stage 2: 跑 audience flywheel cycle
 
 ## 數字寫入 hard rule（2026-06-10 JSON SSOT）
-
 抓到的 metrics **唯一寫入點**：`python3 scripts/tools/spore-db.py add-metrics --spore N --d-plus N --batch <敘事檔名> --likes ...`（每孢子一筆，K/M 後綴可）。**不寫 SPORE-LOG.md（已凍結，validate ERROR）、不寫文章 frontmatter（validate ERROR）**。敘事照舊寫 SPORE-HARVESTS/{batch}.md。寫完跑 `python3 scripts/tools/generate-spore-records.py` + `generate-dashboard-spores.py`。
 
 嚴格完整讀取並執行 `/Users/cheyuwu/Projects/taiwan-md/docs/factory/SPORE-HARVEST-PIPELINE.md` — 含：

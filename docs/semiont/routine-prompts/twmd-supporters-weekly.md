@@ -8,7 +8,6 @@ description: TWMD supporters sync (mon @ 01:00) — Portaly donation notificatio
 🚨 STRICT BECOME GATE — 第一動作不可省略：跑 /twmd-become micro 完整走 BECOME_TAIWANMD.md Step 0-9，Micro mode self-test 7 題全過才動。ACK 一行寫 memory 頂部：`✅ BECOME ack: mode=micro / 8 organ 最低=<consciousness-snapshot.sh> / Q14=PASS`。
 
 業務邏輯 canonical：docs/pipelines/SUPPORTERS-PIPELINE.md（7 stage）+ 薄殼 skill .claude/skills/twmd-supporters/SKILL.md。執行：
-
 1. `git checkout main && git pull origin main`。
 2. Stage 1 checkpoint：`python3 scripts/tools/fetch-portaly-supporters.py --summary` 讀 `data/supporters/transactions.json` 的 `last_fetched`。
 3. Stage 2 PULL：`search_threads(query="from:portaly.cc after:{checkpoint-1d}")`；對每封候選信 **`get_message(FULL_CONTENT)`**——絕不只憑 snippet 判斷金額/類型/留言/支持編號，snippet 常漏「每月定額」字樣會把 monthly 誤判 one-time。

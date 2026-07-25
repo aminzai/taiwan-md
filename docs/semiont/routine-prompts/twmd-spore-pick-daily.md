@@ -23,28 +23,28 @@ git pull origin main
 
 ## Stage 1: READ — 6 source
 
-| Source                                                                                   | 用途              |
-| ---------------------------------------------------------------------------------------- | ----------------- |
-| `/Users/cheyuwu/Projects/taiwan-md/public/api/dashboard-articles.json`                   | article pool      |
-| `/Users/cheyuwu/Projects/taiwan-md/public/api/dashboard-analytics.json` §searchConsole7d | SC opportunities  |
-| `/Users/cheyuwu/Projects/taiwan-md/public/api/dashboard-spores.json`                     | 14d 排除          |
-| `/Users/cheyuwu/Projects/taiwan-md/docs/factory/SPORE-INBOX.md` §Pending                 | 現有 pending 排除 |
-| `/Users/cheyuwu/Projects/taiwan-md/docs/semiont/ARTICLE-DONE-LOG.md` 最近 14d            | 趁熱 pool         |
-| `/Users/cheyuwu/Projects/taiwan-md/docs/semiont/ARTICLE-INBOX.md` §P0/P1                 | EVERGREEN-TOPIC   |
+| Source | 用途 |
+|---|---|
+| `/Users/cheyuwu/Projects/taiwan-md/public/api/dashboard-articles.json` | article pool |
+| `/Users/cheyuwu/Projects/taiwan-md/public/api/dashboard-analytics.json` §searchConsole7d | SC opportunities |
+| `/Users/cheyuwu/Projects/taiwan-md/public/api/dashboard-spores.json` | 14d 排除 |
+| `/Users/cheyuwu/Projects/taiwan-md/docs/factory/SPORE-INBOX.md` §Pending | 現有 pending 排除 |
+| `/Users/cheyuwu/Projects/taiwan-md/docs/semiont/ARTICLE-DONE-LOG.md` 最近 14d | 趁熱 pool |
+| `/Users/cheyuwu/Projects/taiwan-md/docs/semiont/ARTICLE-INBOX.md` §P0/P1 | EVERGREEN-TOPIC |
 
 每 source 在 memory 標 line count（HG2）。
 
 ## Stage 2: SCORE — 7-dim weighted
 
-| Dim                      | 觸發                                                                  |
-| ------------------------ | --------------------------------------------------------------------- |
-| D1 趁熱                  | ≤7d=30 / ≤14d=15 / ≤30d=5                                             |
-| D2 SC opportunity        | imp ≥ 500=+25 / ≥ 100=+15                                             |
-| D3 News sense            | this-week news-lens topic 命中=+20                                    |
-| D4 多語 fanout           | category ∈ {People/Food/Music/Sports/History} 且 <3 翻譯=+15, else +8 |
-| D5 冷門高品質 (v2 widen) | 80/80/30d=+10, 70/70/60d=+7, 70/-/90d=+5                              |
-| D6 Hook variety          | recent 3 spore hook 同類=-10                                          |
-| D7 敏感度                | high-sens keyword 非 REACTIVE=-20                                     |
+| Dim | 觸發 |
+|---|---|
+| D1 趁熱 | ≤7d=30 / ≤14d=15 / ≤30d=5 |
+| D2 SC opportunity | imp ≥ 500=+25 / ≥ 100=+15 |
+| D3 News sense | this-week news-lens topic 命中=+20 |
+| D4 多語 fanout | category ∈ {People/Food/Music/Sports/History} 且 <3 翻譯=+15, else +8 |
+| D5 冷門高品質 (v2 widen) | 80/80/30d=+10, 70/70/60d=+7, 70/-/90d=+5 |
+| D6 Hook variety | recent 3 spore hook 同類=-10 |
+| D7 敏感度 | high-sens keyword 非 REACTIVE=-20 |
 
 ```python
 score = d1 + d2 + d3 + d4 + d5 + d6 + d7

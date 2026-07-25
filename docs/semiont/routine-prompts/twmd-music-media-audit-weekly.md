@@ -28,7 +28,6 @@ description: [DISABLED 2026-05-25] TWMD music media audit (weekly) — Sat 10:00
 - Stage 4: 跑 /twmd-finale 收官
 
 業務邏輯 canonical:
-
 - docs/editorial/EDITORIAL.md §媒體編織 — baseline + 9 條目類型 × 圖+影片 matrix + 寫前分鏡法
 - docs/pipelines/REWRITE-PIPELINE.md §Step 4.3.6 — 影片 iframe 嵌入 SOP + URL verify 強制步驟
 - scripts/tools/music-media-audit.py — 數據層（baseline matrix sync EDITORIAL，4 tier classifier）
@@ -37,7 +36,6 @@ description: [DISABLED 2026-05-25] TWMD music media audit (weekly) — Sat 10:00
 Skill canonical: .claude/skills/twmd-music-media-audit/SKILL.md
 
 鐵律:
-
 - 直接 push main — audit 純 read-only + report write，無 article 改動風險
 - 不執行 heal — surface backlog 給 observer 跟 manual session 決策
 - 不憑記憶解讀 — 全部數據從 audit script JSON 拿，不在 SKILL 層判斷

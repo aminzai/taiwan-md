@@ -28,11 +28,11 @@ git checkout main && git pull origin main
 
 ## Stage 3: 三源交叉 (DNA #4)
 
-| 源         | 意義              | 信號                                                           |
-| ---------- | ----------------- | -------------------------------------------------------------- |
-| GA4        | 誰來了 + 站內行為 | page_view / scroll / session_duration / conversion             |
-| SC         | 誰想來但沒來      | query position > 10 + impressions > 100 = 高 demand 低 ranking |
-| Cloudflare | 誰在邊緣讀我      | AI crawler hit / cached request / 404 rate spike               |
+| 源 | 意義 | 信號 |
+|---|---|---|
+| GA4 | 誰來了 + 站內行為 | page_view / scroll / session_duration / conversion |
+| SC | 誰想來但沒來 | query position > 10 + impressions > 100 = 高 demand 低 ranking |
+| Cloudflare | 誰在邊緣讀我 | AI crawler hit / cached request / 404 rate spike |
 
 至少 2 源確認的 signal 才升 candidate。
 

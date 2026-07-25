@@ -61,14 +61,14 @@ bash scripts/tools/routine-status.sh
 
 Quality gate 6 條：
 
-| Gate                                                                               | 檢驗  |
-| ---------------------------------------------------------------------------------- | ----- |
-| open issues 都有 status label/assignee                                             | ✅/❌ |
-| open PRs ≤ 5d age 都有 review comment                                              | ✅/❌ |
-| broken-link ratio < THRESHOLD_PERCENT（verify-internal-links.sh canonical，現 7%） | ✅/❌ |
-| build green                                                                        | ✅/❌ |
-| BECOME ACK 一行記憶體頂                                                            | ✅/❌ |
-| 連續空場 ≥ 3 cycle 有 LESSONS entry                                                | ✅/❌ |
+| Gate | 檢驗 |
+|---|---|
+| open issues 都有 status label/assignee | ✅/❌ |
+| open PRs ≤ 5d age 都有 review comment | ✅/❌ |
+| broken-link ratio < THRESHOLD_PERCENT（verify-internal-links.sh canonical，現 7%）| ✅/❌ |
+| build green | ✅/❌ |
+| BECOME ACK 一行記憶體頂 | ✅/❌ |
+| 連續空場 ≥ 3 cycle 有 LESSONS entry | ✅/❌ |
 
 Handoff 三態必寫（pending / blocked / retired）。
 

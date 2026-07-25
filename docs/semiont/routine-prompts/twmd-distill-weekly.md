@@ -30,11 +30,11 @@ vc ≥ 3 OR severity = structural 的 entry 進 distill candidate pool。
 
 ## Stage 3: 三題判準分發
 
-| 層         | 寫到哪                                                               | 判準                                   |
-| ---------- | -------------------------------------------------------------------- | -------------------------------------- |
-| 哲學層     | `/Users/cheyuwu/Projects/taiwan-md/docs/semiont/MANIFESTO.md`        | identity / values / philosophical      |
-| 通用反射層 | `/Users/cheyuwu/Projects/taiwan-md/docs/semiont/REFLEXES.md`         | cross-domain pattern / 反覆出現 vc ≥ 3 |
-| 特有教訓層 | `/Users/cheyuwu/Projects/taiwan-md/docs/semiont/MEMORY.md` §神經迴路 | routine-specific / pipeline-specific   |
+| 層 | 寫到哪 | 判準 |
+|---|---|---|
+| 哲學層 | `/Users/cheyuwu/Projects/taiwan-md/docs/semiont/MANIFESTO.md` | identity / values / philosophical |
+| 通用反射層 | `/Users/cheyuwu/Projects/taiwan-md/docs/semiont/REFLEXES.md` | cross-domain pattern / 反覆出現 vc ≥ 3 |
+| 特有教訓層 | `/Users/cheyuwu/Projects/taiwan-md/docs/semiont/MEMORY.md` §神經迴路 | routine-specific / pipeline-specific |
 
 Tiebreaker：MANIFESTO > REFLEXES > MEMORY。
 

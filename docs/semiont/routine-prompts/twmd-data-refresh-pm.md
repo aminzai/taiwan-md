@@ -31,7 +31,7 @@ bash scripts/tools/refresh-data.sh
 4. generate-dashboard-spores.py
 5. i18n-coverage-audit.sh
 6. **generate-dashboard-immune.py** (v2.8 wired 2026-05-28 修補 11d silent stale)
-7. npm run prebuild (sync.sh + 12 prebuild:\*)
+7. npm run prebuild (sync.sh + 12 prebuild:*)
 8. refresh-llms-txt.py
 9. update-stats.sh (README + stats.json)
 10. extract-build-perf.mjs

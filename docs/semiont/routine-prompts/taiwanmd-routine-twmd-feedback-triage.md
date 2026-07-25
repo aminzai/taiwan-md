@@ -8,15 +8,8 @@ description: （每天 07:00 Asia/Taipei = 23:00 UTC）。把讀者站上回報�
 🚨 STRICT BECOME GATE — 第一動作不可省略：跑 /twmd-become review 完整走 BECOME_TAIWANMD.md Step 0-9，Review mode self-test（含 Q13 anti-bias + Q14 cross-session）全過才動。ACK 一行寫 memory 頂部：`✅ BECOME ack: mode=review / 8 organ 最低=<consciousness-snapshot.sh> / Q13=PASS / Q14=PASS`。
 
 業務邏輯 canonical：docs/pipelines/FEEDBACK-TRIAGE-PIPELINE.md（5 stage）+ 薄殼 skill .claude/skills/twmd-feedback-triage/SKILL.md。執行：
-
 1. `git checkout main && git pull origin main`。
-   1b. **機器身份（2026-07-25 起）**：開 issue 一律用 GitHub App，不要用宿主機登入的哲宇帳號。第 2、3 步的指令前面都要掛 token：
-   ```bash
-   export GH_TOKEN="$(bash scripts/tools/gh-app-token.sh)"   # 換不到會 exit 1，絕不回空字串
-   ```
-   驗一眼身份再往下：`bash scripts/tools/gh-app-token.sh --whoami` 應該印 `{"issues": "write", "metadata": "read"}`。
-   🔴 **`GH_TOKEN` 空掉就停手**——空值會讓 `gh` 安靜退回哲宇身份，issue 掛錯作者而且沒人會叫。
-   為什麼：讀者回報是機械轉錄，作者顯示成維護者等於 §自主權邊界在視覺層漏線；且這條 routine 讀最多不可信文字，不該握有能推 main 的憑證。設計：`reports/design-bot-identity-feedback-triage-2026-07-25.md`。
+1b. 🔴 **機器身份（2026-07-25 起，HG10）**：開 issue 走 GitHub App，不用宿主機登入的哲宇帳號。第 2、3 步之前先掛 token：`export GH_TOKEN="$(bash scripts/tools/gh-app-token.sh)"`（換不到會 exit 1，絕不回空字串）。驗一眼：`bash scripts/tools/gh-app-token.sh --whoami` 應印 `{"issues": "write", "metadata": "read"}`。**GH_TOKEN 空掉就停手**——空值會讓 gh 安靜退回哲宇身份，issue 掛錯作者而且沒人會叫。為什麼：讀者回報是機械轉錄，作者顯示成維護者等於 §自主權邊界在視覺層漏線；這條 routine 讀最多不可信文字，不該握有能推 main 的憑證。評估：reports/design-bot-identity-feedback-triage-2026-07-25.md。
 2. 先 dry-run 看分類：`node scripts/feedback/triage.mjs`（核 HG2 無 email / HG5 spam / HG6 dedupe）。
 3. 確認 OK 才 `node scripts/feedback/triage.mjs --commit` — 讀 Supabase status='new' → spam/dedupe/分類 → `gh issue create`（from-feedback label，只放 display_name 不放 email，讀者文字 verbatim；作者應顯示 `taiwanmd-semiont[bot]`）→ 回寫 status + triage_note → 寫 git 主權 archive `docs/feedback/archive/{YYYY-MM}/{id}.md` + sync issue 留言進 §溝通紀錄。
    需環境變數 SUPABASE_URL + SUPABASE_SERVICE_KEY；未設則 emit「feedback backend 未配置, skip」**不算 fail**（escalation 只看 quality gate）。
