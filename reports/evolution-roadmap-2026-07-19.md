@@ -2,7 +2,7 @@
 title: 'Evolution Roadmap 2026-07-19'
 description: '週體檢 W29（weekly-report 2026-07-19）導出的進化規劃：P0 五項（本週、自主權內）/ P1 兩週結構修補 / P2 哲宇決策佇列 / 30 天方向盤。取代 2026-07-10 版（P0 7/7 全清）成為最新 session 間傳遞的進化計畫。'
 type: 'roadmap'
-status: 'active'
+status: 'archived'
 current_version: 'v1.0'
 last_updated: 2026-07-19
 last_session: '2026-07-19-020000-twmd-weekly-report-sun'
@@ -11,7 +11,10 @@ related:
   - 'evolution-roadmap-2026-07-10.md'
   - 'news-lens/2026-07-19-w29.md'
   - 'birth-battle-2026-07-19.md'
+  - 'evolution-roadmap-2026-07-26.md'
 ---
+
+> **Archived 2026-07-26**：取代版見 [evolution-roadmap-2026-07-26.md](evolution-roadmap-2026-07-26.md)。P0-1（hi 收官）與 P0-3（roadmap roll）已完成且大幅超前（四語出生延伸為六語＋ar/ru 十一語），P0-2（es/fr 保真度清償）未執行，帶進新版繼續。
 
 # 進化規劃 — 2026-07-19
 
