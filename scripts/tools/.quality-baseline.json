@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-24T15:10:56Z",
-  "total": 862,
-  "flagged": 426,
+  "timestamp": "2026-07-25T22:13:12Z",
+  "total": 865,
+  "flagged": 427,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -842,7 +842,7 @@
     {
       "file": "society/台灣斜槓世代.md",
       "score": 6,
-      "reasons": "未人工審核; 塑膠句1個; 破折號5個; 後段清單堆砌33%; 無腳註"
+      "reasons": "未人工審核; 塑膠句1個; 破折號5個; 後段清單堆砌35%; 無腳註"
     },
     {
       "file": "society/台灣司法改革與預防性羈押制度.md",
@@ -853,6 +853,11 @@
       "file": "society/台灣再生醫療雙法沿革從業人員告白.md",
       "score": 4,
       "reasons": "空洞詞7個; 未人工審核; 分號9個"
+    },
+    {
+      "file": "about/台灣官方網站資源.md",
+      "score": 14,
+      "reasons": "bullet密度47%; 年份僅1個; 僅2個URL; 未人工審核; 連續bullet12行; 後段清單堆砌78%; 稀薄段落×5"
     },
     {
       "file": "about/文章如何誕生.md",

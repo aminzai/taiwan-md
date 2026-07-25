@@ -113,11 +113,14 @@
   "/fr/music/zhang-xuan-anpu": "/fr/music/deserts-chang-and-anpu",
   "/en/music/soundscape-of-taiwan": "/en/music/taiwan-soundscape/",
   "/en/music/soundscape-of-taiwan/": "/en/music/taiwan-soundscape/",
-  "/ko/technology/開源社群與g0v/": "/ko/technology/open-source-and-g0v",
-  "/ja/economy/台灣企業：日月光半導體": "/ja/economy/taiwan-enterprise-ase-semiconductor",
-  "/ja/economy/台灣企業：廣達電腦": "/ja/economy/taiwanese-companies-quanta-computer",
-  "/ja/economy/台灣企業：鴻海精密": "/ja/economy/foxconn-precision-industry",
-  "/fr/economy/台灣企業：日月光半導體": "/fr/economy/taiwan-enterprise-ase-semiconductor",
-  "/fr/society/media-and-press-freedom/": "/fr/society/media-and-press-freedom-in-taiwan",
-  "/fr/economy/台灣企業：廣達電腦": "/fr/economy/taiwanese-companies-quanta-computer"
+  "/ja/technology/數位身分證與數位政府/": "/ja/technology/digital-id-and-digital-government",
+  "/ja/lifestyle/台灣醫療與全民健保/": "/ja/lifestyle/taiwan-healthcare-and-national-health-insurance",
+  "/es/lifestyle/台灣醫療與全民健保/": "/es/lifestyle/taiwan-healthcare-and-national-health-insurance",
+  "/es/lifestyle/台灣教育制度/": "/es/lifestyle/taiwan-education-system",
+  "/ko/society/台灣政治環境與選舉制度/": "/ko/society/taiwan-political-landscape-and-electoral-system",
+  "/ko/lifestyle/台灣教育制度/": "/ko/lifestyle/taiwan-education-system",
+  "/ko/history/台灣民主轉型/": "/ko/history/taiwan-democratization",
+  "/ko/technology/PTT批踢踢/": "/ko/technology/ptt-bulletin-board-system",
+  "/ko/society/社會運動與公民參與/": "/ko/society/social-movements-and-civic-participation",
+  "/economy/台灣農業現代化": "/economy/台灣農業現代化發展"
 }
