@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T06:52:25+08:00",
-    "zhCommitHead": "84bbe4da1",
+    "lastUpdated": "2026-07-26T06:55:06+08:00",
+    "zhCommitHead": "c91563c13",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 865,
-        "fresh": 718,
-        "stale": 140,
+        "fresh": 719,
+        "stale": 139,
         "metadata_stale": 1,
         "missing": 6,
         "orphan": 0
@@ -3869,18 +3869,16 @@
         "ja": {
           "path": "ja/Music/elephant-gymnastics.md",
           "translatedFrom": "Music/大象體操.md",
-          "sourceCommitSha": "72b757bac",
-          "sourceContentHash": "sha256:b924c3fdcb2a3347",
-          "sourceBodyHash": "sha256:d8ddf05669c2e6c6",
-          "translatedAt": "2026-06-19T00:37:17+08:00",
+          "sourceCommitSha": "8547b2665",
+          "sourceContentHash": "sha256:7b6c098933713fcd",
+          "sourceBodyHash": "sha256:b2179659aae39566",
+          "translatedAt": "2026-07-26T05:17:36+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 56,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Music/elephant-gymnastics.md",
@@ -87133,8 +87131,8 @@
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
           "translatedAt": "2026-07-26T05:17:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c91563c1",
+          "translationLastModified": "2026-07-26T06:52:25+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -99371,8 +99369,8 @@
           "sourceContentHash": "sha256:44ea24edbaea3139",
           "sourceBodyHash": "sha256:80374ac8eaee4681",
           "translatedAt": "2026-07-26T05:17:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c91563c1",
+          "translationLastModified": "2026-07-26T06:52:25+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -102372,8 +102370,8 @@
           "sourceContentHash": "sha256:21f968d51e24c095",
           "sourceBodyHash": "sha256:758baf07e7746d38",
           "translatedAt": "2026-07-26T05:17:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c91563c1",
+          "translationLastModified": "2026-07-26T06:52:25+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
