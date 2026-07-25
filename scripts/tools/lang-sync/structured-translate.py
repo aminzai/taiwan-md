@@ -83,6 +83,7 @@ cjkleak = _import_module("cjk-leak-check")
 FN_DEF_RE = re.compile(r"(?m)^\[\^([^\]]+)\]:\s*(.*)$")
 FN_CANON_RE = re.compile(r"^\[([^\]]+)\]\(([^)]+)\)(?:\s*—\s*(.*))?$")
 INLINE_FN_REF_RE = re.compile(r"\[\^([^\]]+)\]")
+MD_LINK_URL_RE = re.compile(r"\]\(([^)\s]+)\)")
 EMBEDDED_LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")
 
 TRANSLATABLE_FM_FIELDS = ["title", "description", "tags"]
@@ -611,6 +612,17 @@ def _validate_chunk(zh_chunk: str, out: str, zh_refs: set, lang: str, tmp_dir: P
     hits = _cjk_leak_hits(out, lang, tmp_dir)
     if hits:
         issues.append(f"cjk leak: {hits[0]}")
+    # 2026-07-25 production 首小時發現（張雨生 → hi 等 4 例 verify=1）：模型會
+    # 掉「行內 markdown 連結」——zh 15 個 URL 譯文只剩 9 個。腳註引用有集合
+    # 驗證、URL 沒有，正是設計還沒收編的最後一類結構物。用 multiset 比對
+    # （同一 URL 可合法出現多次），少一個都擋下重試。
+    from collections import Counter
+    zh_urls = Counter(MD_LINK_URL_RE.findall(zh_chunk))
+    out_urls = Counter(MD_LINK_URL_RE.findall(out))
+    if zh_urls != out_urls:
+        missing = list((zh_urls - out_urls).keys())[:3]
+        extra = list((out_urls - zh_urls).keys())[:3]
+        issues.append(f"inline link URL mismatch: missing={missing} extra={extra}")
     return issues
 
 
@@ -895,6 +907,17 @@ def main():
     print(f"  Phase B (body): {metrics['phases']['B']['elapsed_s']}s, "
           f"{len(chunks)} chunk(s), {len(failed_chunks)} still failing after retries")
 
+    # 2026-07-25 production 首小時裁決：重試耗盡仍 fail 的 chunk 原本「照樣
+    # 組裝、讓下游 gate 攔」——結果 dispatcher 白跑 verify trio、寫 quarantine
+    # corpse、HEAD-restore 一整套（leak×5 + health×10 大多源於此）。知道自己
+    # 有病還把成品送檢，是把診斷成本外包給下游。改硬中止：不寫輸出，exit 1，
+    # dispatcher 端走「no output」路徑（保留舊版、退避重排），省整輪 gate。
+    if failed_chunks:
+        print(f"❌ {len(failed_chunks)} chunk(s) failed after retries — aborting, no output written")
+        if args.metrics_out:
+            Path(args.metrics_out).write_text(json.dumps(metrics, ensure_ascii=False, indent=2))
+        return 1
+
     # ── Phase A ──
     t0 = time.time()
     assembled = assemble_article(fm_block, translated_chunks, fn_defs_text)
@@ -936,4 +959,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    # sys.exit 包住——沒有它 return 1 不會變成 exit code，dispatcher 端
+    # 看到 exit 0 + 無輸出會誤判（今天第 N 次：訊號斷在最後一哩）。
+    sys.exit(main())
