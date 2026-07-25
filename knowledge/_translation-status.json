@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-25T12:03:37+08:00",
-    "zhCommitHead": "a801ef352",
+    "lastUpdated": "2026-07-25T12:11:52+08:00",
+    "zhCommitHead": "e56fbe756",
     "totalZh": 863,
     "activeLanguages": [
       "en",
@@ -59,26 +59,26 @@
       },
       "vi": {
         "total_zh": 863,
-        "fresh": 94,
+        "fresh": 96,
         "stale": 9,
         "metadata_stale": 1,
-        "missing": 759,
+        "missing": 757,
         "orphan": 0
       },
       "id": {
         "total_zh": 863,
-        "fresh": 176,
+        "fresh": 180,
         "stale": 4,
         "metadata_stale": 1,
-        "missing": 682,
+        "missing": 678,
         "orphan": 0
       },
       "pt": {
         "total_zh": 863,
-        "fresh": 237,
+        "fresh": 238,
         "stale": 8,
         "metadata_stale": 1,
-        "missing": 617,
+        "missing": 616,
         "orphan": 0
       },
       "hi": {
@@ -3584,7 +3584,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "47d78ce76",
+          "sourceContentHash": "sha256:5406c0a04ed7374f",
+          "sourceBodyHash": "sha256:0794328a7ed72af5",
+          "translatedAt": "2026-07-25T10:52:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -17310,7 +17321,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/no-mans-land-art-platform.md",
+          "translatedFrom": "Art/數位荒原.md",
+          "sourceCommitSha": "a74c440b3",
+          "sourceContentHash": "sha256:f8ec8d5fb97942ca",
+          "sourceBodyHash": "sha256:7bfa784449cb0cb6",
+          "translatedAt": "2026-07-25T10:52:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -30024,8 +30046,8 @@
           "sourceContentHash": "sha256:062fff6d074c6e52",
           "sourceBodyHash": "sha256:6672f01b9aa7c341",
           "translatedAt": "2026-07-25T10:53:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67a08003",
+          "translationLastModified": "2026-07-25T12:03:37+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -30241,8 +30263,8 @@
           "sourceContentHash": "sha256:dea3707ce0e0d446",
           "sourceBodyHash": "sha256:d825f2de734a7bac",
           "translatedAt": "2026-07-25T10:53:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67a08003",
+          "translationLastModified": "2026-07-25T12:03:37+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -30807,8 +30829,8 @@
           "sourceContentHash": "sha256:c40e9256e5031f97",
           "sourceBodyHash": "sha256:b933f7d83c83a92f",
           "translatedAt": "2026-07-25T10:53:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67a08003",
+          "translationLastModified": "2026-07-25T12:03:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -33635,8 +33657,8 @@
           "sourceContentHash": "sha256:95fbaf40f48b2ca2",
           "sourceBodyHash": "sha256:afed06eba24e4811",
           "translatedAt": "2026-07-25T10:53:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67a08003",
+          "translationLastModified": "2026-07-25T12:03:37+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -35742,8 +35764,8 @@
           "sourceContentHash": "sha256:08c48a6ddad4519e",
           "sourceBodyHash": "sha256:31c92fd7633ce35e",
           "translatedAt": "2026-07-25T10:53:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67a08003",
+          "translationLastModified": "2026-07-25T12:03:37+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -36788,8 +36810,8 @@
           "sourceContentHash": "sha256:f7dcaba73d149276",
           "sourceBodyHash": "sha256:af337db2aac9897d",
           "translatedAt": "2026-07-25T10:53:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67a08003",
+          "translationLastModified": "2026-07-25T12:03:37+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -37104,8 +37126,8 @@
           "sourceContentHash": "sha256:f8dc834054c6b8b9",
           "sourceBodyHash": "sha256:3d618da70d40426c",
           "translatedAt": "2026-07-25T10:53:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67a08003",
+          "translationLastModified": "2026-07-25T12:03:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -37213,8 +37235,8 @@
           "sourceContentHash": "sha256:34ef5e8d367bee9d",
           "sourceBodyHash": "sha256:d270d18b5c4f802e",
           "translatedAt": "2026-07-25T10:53:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67a08003",
+          "translationLastModified": "2026-07-25T12:03:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -43345,7 +43367,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/ray-du-english-youtuber.md",
+          "translatedFrom": "People/阿滴.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:bc1390f13b2a7b07",
+          "sourceBodyHash": "sha256:5621e86f4a6c80eb",
+          "translatedAt": "2026-07-25T10:53:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/ray-du-english-youtuber.md",
@@ -43961,8 +43994,8 @@
           "sourceContentHash": "sha256:f272f267160332e7",
           "sourceBodyHash": "sha256:3d2acfec22ab6d95",
           "translatedAt": "2026-07-25T10:53:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67a08003",
+          "translationLastModified": "2026-07-25T12:03:37+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -45605,7 +45638,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/audrey-tang.md",
+          "translatedFrom": "People/唐鳳.md",
+          "sourceCommitSha": "3f1cf8355",
+          "sourceContentHash": "sha256:ab17987177c234a0",
+          "sourceBodyHash": "sha256:223451ab2ee89544",
+          "translatedAt": "2026-07-25T10:52:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 44,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -65791,7 +65835,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/kevin-lin-ultramarathon-desert-pioneer.md",
+          "translatedFrom": "People/林義傑.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8741429d614846be",
+          "sourceBodyHash": "sha256:3713eaac6b565ca6",
+          "translatedAt": "2026-07-25T10:53:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/kevin-lin-ultramarathon-desert-pioneer.md",
@@ -68940,7 +68995,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/oyster-omelet.md",
+          "translatedFrom": "Food/蚵仔煎.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2d7f3f53fc22a03b",
+          "sourceBodyHash": "sha256:dfebf81490e7a3d9",
+          "translatedAt": "2026-07-25T10:53:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/oyster-omelet.md",
@@ -72359,7 +72425,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/taiwan-coffee-culture.md",
+          "translatedFrom": "Food/台灣咖啡文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:547ccdf1b16e61de",
+          "sourceBodyHash": "sha256:a7a3d68abd8527fd",
+          "translatedAt": "2026-07-25T10:53:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/taiwan-coffee-culture.md",
@@ -79750,8 +79827,8 @@
           "sourceContentHash": "sha256:bdae42ffe0d36150",
           "sourceBodyHash": "sha256:57cdd81fe5d56c02",
           "translatedAt": "2026-07-25T10:53:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67a08003",
+          "translationLastModified": "2026-07-25T12:03:37+08:00",
           "inferred": false,
           "footnoteDefs": 35,
           "status": "fresh",
