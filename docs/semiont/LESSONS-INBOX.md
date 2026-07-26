@@ -332,6 +332,44 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-26 vortex-babel — model-language-fit-gap：模型與語言的適配落差可達十倍，且偽裝成「語言難度」
+
+- **原則**：越南語覆蓋率長期墊底（17.6%，落後同期出生的印尼語一大截），看起來像
+  「這個語言比較難翻」或佇列排序問題。按 worker 拆開統計才看見真相：nemotron 翻
+  越南語通過率 2-6%、翻印尼語 19-22%，同一批越南語文章換成 laguna 是 43-71%。
+  同一套閘門、同時段、n≈900。**這是模型與語言的適配落差，不是語言難度或內容品質**。
+  全表掃描後發現弱適配不只一處：gemma4:26b 對韓法西日可用（33-58%），對葡萄牙語
+  0/28、印尼語 1/20、印地語 0% 接近全滅——它在混語佇列裡持續花完整 GPU 時間翻出
+  必被擋下的成品。**操作規則**：任一語言通過率明顯低於同批其他語言時，先按 worker
+  拆開看，不要歸因語言難度；加大重試次數只會讓同一個弱適配再燒一次算力。新模型
+  進池先跑混語小批（每語 8-10 篇）拉出適配表再決定守備範圍。已入
+  [SQUEEZE §模型×語言適配](../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)
+- **可能的跨物種價值**：任何「多 model × 多 target」的派工場景（不只翻譯）都適用——
+  聚合統計會抹平 model×target 的交互作用，只看邊際會把適配問題誤讀成目標難度
+- **verification_count**: 1
+
+### 2026-07-26 vortex-babel — liveness-vs-productivity：存活訊號與生產訊號是兩件事
+
+- **原則**：l4090 專軌的遠端機器離線後，既有 worker freeze 機制正確凍結了它，但
+  該軌**只有一個 worker**，凍結後 round loop 照樣一輪一輪跑任務準備——process 活著、
+  log 持續在長、`ps` 完全正常，實際零產出，一路空轉到第 127 輪才被發現。渦流每輪的
+  健康檢查只量 `ps`，被騙了整整一小時。**修法兩層**：(a) 工具層加連續三輪零產出即
+  結束 run，讓外部監護重新起跑；(b) 監護動作改為「ps ＋ 各 worker 近一小時實際
+  report 記錄數」雙指標，零記錄的 worker 去查 endpoint。跟 REFLEXES #83
+  （self-report 不可信）同源但不同面：那條講「工具說自己成功」，這條講「工具說
+  自己活著」——**活著是最容易通過的自我宣告**
+- **verification_count**: 1
+
+### 2026-07-26 vortex-babel — single-bad-input-kills-batch：一個壞掉的輸入檔不該停掉整批
+
+- **原則**：prepare-batch 偶爾產出格式壞掉的 group 檔（多寫一份 JSON），
+  `collect_and_filter_groups` 解析時當場拋例外，**兩條產線的上百篇佇列一起停擺**。
+  壞的是一個任務檔，代價是整條產線。改成跳過該檔繼續並留可追訊息。與同日修的
+  「靜默吞錯」正好互為反面：一個太吵（單點失敗炸全批）、一個太安靜（失敗被 except
+  吞掉），都不是正確的錯誤處理。**判準**：批次處理中，單項失敗的爆炸半徑應該止於
+  該項；讓整批停擺的例外必須是「繼續下去會產生錯誤結果」那種，不是「這一項讀不懂」
+- **verification_count**: 1
+
 ### 2026-07-26 twmd-maintainer-daily — internal-report-as-unverified-source：自己寫的 corpus 分析報告被當免驗證來源引用，錯誤跨 7 語言複製
 
 - **pattern**: `internal-report-as-unverified-source`
