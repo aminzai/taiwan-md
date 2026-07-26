@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T13:00:10+08:00",
-    "zhCommitHead": "4d0a69d1d",
+    "lastUpdated": "2026-07-26T13:00:58+08:00",
+    "zhCommitHead": "ab0594de4",
     "totalZh": 868,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 868,
-        "fresh": 338,
+        "fresh": 339,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 528,
+        "missing": 527,
         "orphan": 0
       }
     },
@@ -42108,8 +42108,8 @@
           "sourceContentHash": "sha256:cdaa1e14237e0765",
           "sourceBodyHash": "sha256:a5f55aca8739dd3e",
           "translatedAt": "2026-07-26T11:16:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6a9c64f8",
+          "translationLastModified": "2026-07-26T13:00:10+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -56987,7 +56987,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/daptoper-roblox-youtuber.md",
+          "translatedFrom": "People/有感筆電.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5a21ca32e8e63623",
+          "sourceBodyHash": "sha256:2712f87a8f564cdd",
+          "translatedAt": "2026-07-26T12:49:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -64328,8 +64339,8 @@
           "sourceContentHash": "sha256:0f3a996ef981d6ff",
           "sourceBodyHash": "sha256:d65332102dab634a",
           "translatedAt": "2026-07-26T12:49:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6a9c64f8",
+          "translationLastModified": "2026-07-26T13:00:10+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -81101,8 +81112,8 @@
           "sourceContentHash": "sha256:bdb405b92fc10596",
           "sourceBodyHash": "sha256:c6a86f733ba033b1",
           "translatedAt": "2026-07-26T11:16:43+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6a9c64f8",
+          "translationLastModified": "2026-07-26T13:00:10+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
