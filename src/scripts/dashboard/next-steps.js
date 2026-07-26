@@ -1,4 +1,8 @@
-import { LANGUAGE_DISPLAY_NAMES } from '../../config/languages.mjs';
+import {
+  LANGUAGE_DISPLAY_NAMES,
+  ENABLED_LANGUAGE_CODES,
+  DEFAULT_LANGUAGE,
+} from '../../config/languages.mjs';
 import { isEn, langPrefix } from './shared.js';
 
 // ── Next Steps ──
@@ -15,7 +19,13 @@ function renderNextSteps(articles, translations) {
     : '#';
 
   // Card 2: Language with most missing translations
-  const langs = ['en', 'es', 'ja', 'ko'];
+  // Derived from the registry, not written out: the 2026-07-18 de-hardcoding
+  // pass fixed the display-names line directly below and left this array at
+  // four languages, so seven later-born languages never showed up in the
+  // "most missing translations" card at all.
+  const langs = ENABLED_LANGUAGE_CODES.filter(
+    (c) => c !== DEFAULT_LANGUAGE.code,
+  );
   const langNames = LANGUAGE_DISPLAY_NAMES; // SSOT: src/config/languages.mjs（2026-07-18 去硬編碼）
   let maxMissing = 0,
     maxMissingLang = 'en';

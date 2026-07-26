@@ -23,7 +23,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { getArticleFiles, readArticle, getApiPath } from './knowledge.js';
 import { searchArticles } from './search.js';
-import { ensureData } from './ensure-data.js';
+import { ensureData, getDataAgeDays } from './ensure-data.js';
 
 /** Read the CLI version from package.json so MCP serverInfo never drifts. */
 function getCliVersion() {
@@ -235,10 +235,31 @@ export function createTaiwanmdMcpServer() {
         const category = path.basename(path.dirname(f));
         byCategory[category] = (byCategory[category] || 0) + 1;
       }
+      // Freshness belongs in the payload, not in the caller's imagination.
+      // This tool's own description has promised "last-updated timestamps"
+      // since it shipped, while returning none — so a model reading a 97-day-old
+      // knowledge base had no way to know, and neither did the person reading
+      // the model. An answer about Taiwan is only as current as the copy it
+      // came from, so the copy's age travels with it.
+      const ageDays = getDataAgeDays();
       const data = {
         totalArticles: files.length,
         byCategory,
         knowledgePath: files[0] ? path.dirname(path.dirname(files[0])) : null,
+        dataAgeDays: ageDays,
+        dataFreshness:
+          ageDays === null
+            ? 'live-repo'
+            : ageDays >= 60
+              ? 'stale'
+              : ageDays >= 14
+                ? 'aging'
+                : 'fresh',
+        ...(ageDays !== null && ageDays >= 14
+          ? {
+              staleWarning: `This knowledge base snapshot is ${ageDays} days old. Run \`taiwanmd sync\` for current data; treat counts and recent-events answers as dated.`,
+            }
+          : {}),
       };
       return {
         content: [{ type: 'text', text: JSON.stringify(data, null, 2) }],

@@ -9,7 +9,25 @@
 import fs from 'fs';
 import path from 'path';
 import MiniSearch from 'minisearch';
-import { getApiPath } from './knowledge.js';
+import { getApiPath, getLanguageDirs } from './knowledge.js';
+
+// Used when the language registry is unreachable (standalone install, where
+// ~/.taiwanmd has no src/config/). Every language that has ever shipped a URL
+// prefix — over-listing here is harmless (it only skips a path segment), while
+// under-listing silently mislabels categories.
+const FALLBACK_URL_LANG_PREFIXES = new Set([
+  'en',
+  'ja',
+  'ko',
+  'es',
+  'fr',
+  'vi',
+  'id',
+  'pt',
+  'hi',
+  'ar',
+  'ru',
+]);
 
 // In-memory cache for remote article list
 let _remoteArticlesCache = null;
@@ -153,8 +171,12 @@ function fallbackSearch(articles, query, limit) {
 function categoryFromUrl(url) {
   if (!url) return '';
   const parts = url.replace(/^\//, '').split('/');
-  // Skip "en"/"es"/"ja" prefix
-  if (['en', 'es', 'ja', 'ko'].includes(parts[0]) && parts.length > 1) {
+  // Skip a language prefix. Derived from the language registry rather than a
+  // literal, so a newly born language doesn't silently start reporting its
+  // language code as the category (the same drift that left the zh-TW listing
+  // 77% translations from 2026-04 to 07-26).
+  const langDirs = getLanguageDirs() ?? FALLBACK_URL_LANG_PREFIXES;
+  if (langDirs.has(parts[0]) && parts.length > 1) {
     return parts[1];
   }
   return parts[0] || '';

@@ -19,11 +19,17 @@ set -euo pipefail
 
 MODE="${1:-scan}"
 
-# Patterns 來抓 hardcoded language array
+# 已知語言碼（跟 src/config/languages.mjs 對齊；新語言出生時補這裡一個 alternation）
+LANGCODES="en|ja|ko|es|fr|vi|id|pt|hi|ar|ru|de|th"
+
+# Patterns 來抓 hardcoded language array。
+#
+# v2（2026-07-26）：原本三條 pattern 都寫死「開頭必須是 en, ja, ko」，只抓得到
+# 當初觸發它誕生的那個形狀。`new Set(['en','es','ja','ko','resources'])` 三條全
+# 不中——那正是 cli/src/lib/knowledge.js 從四月漏到七月的那一行。改成「任意三個
+# 相鄰的已知語言碼字串」，順序、引號、Set(...) 包裝都不影響命中。
 PATTERNS=(
-  "\\[\\s*['\"]en['\"]\\s*,\\s*['\"]ja['\"]\\s*,\\s*['\"]ko['\"]\\s*\\]"
-  "\\[\\s*['\"]en['\"]\\s*,\\s*['\"]ja['\"]\\s*,\\s*['\"]ko['\"]\\s*,\\s*['\"]fr['\"]"
-  "\\[\\s*['\"]en['\"]\\s*,\\s*['\"]ja['\"]\\s*,\\s*['\"]ko['\"]\\s*,\\s*['\"]es['\"]"
+  "\\[\\s*['\"]($LANGCODES)['\"]\\s*,\\s*['\"]($LANGCODES)['\"]\\s*,\\s*['\"]($LANGCODES)['\"]"
 )
 
 # 允許清單（這些檔案的 hardcoded 語言清單是 SSOT 本體或合理的歷史 mirror）
@@ -31,14 +37,28 @@ ALLOWLIST=(
   "src/config/languages.ts"
   "src/config/languages.mjs"
   "scripts/tools/check-hardcoded-langs.sh"
+  # 真陽性以外的一條：這是 per-language fallback cascade（缺 key 時依序退到哪個
+  # 語言），是有順序的偏好清單，不是語言註冊表。新語言出生時本來就該自己決定
+  # 退階順序，不能從 registry derive。
+  "src/i18n/utils.ts"
 )
+
+# ── 已知債：空的（2026-07-26 當天開單、當天結清）──────────────────────────
+# 擴網當天三個檔案現形（儀表板 registry / next-steps、地圖產生器），先掛號是
+# 因為主樹正在跑巴別塔批次、架新紅燈會擋住別人；同日稍晚全部改成從語言註冊表
+# 推導，掛號隨即撤掉。這個區塊留著當格式：掛號要附行號與日期，還清就刪乾淨，
+# 不要讓豁免在清單裡過夜變成「這裡本來就這樣」。
+# 脈絡：reports/design-taiwanmd-node-app-distribution-2026-07-26.md §九.2
 
 # 收集要掃描的檔案
 if [[ "$MODE" == "--staged" ]]; then
   FILES=$(git diff --cached --name-only --diff-filter=ACM \
     | grep -E '\.(ts|tsx|mjs|cjs|js|astro|sh)$' || true)
 else
-  FILES=$(find src scripts astro.config.mjs \
+  # cli/ 與 workers/ 是分發層（npm 套件、MCP server、遠端 endpoint）。它們不在
+  # 站體的 import 關係裡，所以站體的檢查一路看不到它們——2026-07-26 量到 cli 的
+  # 語言表漏了七個語言、把 2900 筆譯文當中文回給使用者三個月，就是這個盲區。
+  FILES=$(find src scripts cli workers astro.config.mjs \
     -type f \
     \( -name "*.ts" -o -name "*.tsx" -o -name "*.mjs" -o -name "*.cjs" \
        -o -name "*.js" -o -name "*.astro" -o -name "*.sh" \) \

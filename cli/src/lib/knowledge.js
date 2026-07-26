@@ -22,8 +22,89 @@ const STANDALONE_DATA_DIR = path.join(os.homedir(), '.taiwanmd');
 const STANDALONE_KNOWLEDGE_DIR = path.join(STANDALONE_DATA_DIR, 'knowledge');
 const STANDALONE_CACHE_DIR = path.join(STANDALONE_DATA_DIR, 'cache');
 
-// Language subdirectories and special files to exclude from zh-TW article listing
-const EXCLUDED_DIRS = new Set(['en', 'es', 'ja', 'ko', 'resources']);
+// Non-article top-level dirs that are never zh-TW content, whatever the language
+// registry says.
+const NON_ARTICLE_DIRS = new Set(['resources']);
+
+// The 14 real zh-TW category folders. Used as a whitelist when the language
+// registry is unreachable (standalone install), and as the reconciliation target
+// for the registry-derived path. A whitelist can only miss a NEW category (loud,
+// caught by the first article that lands in it); a blacklist misses every NEW
+// LANGUAGE silently — which is exactly what happened between 2026-04 and 07-26,
+// when fr/vi/id/pt/hi/ar/ru were born and 2900 of 3766 "zh-TW" files the CLI
+// reported were actually translations. Same whitelist the remote Worker uses
+// (workers/mcp/src/index.js REAL_CATEGORIES) so both rulers agree — REFLEXES #83.
+const REAL_CATEGORIES = new Set([
+  'About',
+  'Art',
+  'Culture',
+  'Economy',
+  'Food',
+  'Geography',
+  'History',
+  'Lifestyle',
+  'Music',
+  'Nature',
+  'People',
+  'Politics',
+  'Society',
+  'Technology',
+]);
+
+/**
+ * Language directory names to skip, derived from the repo's language registry
+ * (src/config/languages.mjs — the SSOT per ANATOMY §資源地圖) so a newly born
+ * language never needs anyone to remember to update a list here.
+ *
+ * Falls back to null when the registry is unreachable (standalone install,
+ * where ~/.taiwanmd/knowledge has no src/). Callers then use REAL_CATEGORIES.
+ *
+ * @returns {Set<string>|null}
+ */
+let _langDirsCache;
+export function getLanguageDirs() {
+  if (_langDirsCache !== undefined) return _langDirsCache;
+
+  const registry = path.join(REPO_ROOT, 'src', 'config', 'languages.mjs');
+  if (!fs.existsSync(registry)) {
+    _langDirsCache = null;
+    return _langDirsCache;
+  }
+
+  try {
+    // Parsed rather than imported: this module is loaded by the MCP server on
+    // stdio, where a bad dynamic import would corrupt the protocol stream.
+    const src = fs.readFileSync(registry, 'utf-8');
+    const codes = [...src.matchAll(/code:\s*['"]([\w-]+)['"]/g)].map(
+      (m) => m[1],
+    );
+    if (codes.length === 0) {
+      _langDirsCache = null;
+      return _langDirsCache;
+    }
+    // zh-TW is the SSOT and lives at knowledge/{Category}/, not in a lang dir.
+    _langDirsCache = new Set(codes.filter((c) => c !== 'zh-TW'));
+  } catch {
+    _langDirsCache = null;
+  }
+  return _langDirsCache;
+}
+
+/**
+ * Is this top-level dir under knowledge/ a zh-TW article category?
+ * @param {string} name - top-level directory name
+ */
+export function isZhCategoryDir(name) {
+  if (NON_ARTICLE_DIRS.has(name)) return false;
+
+  const langDirs = getLanguageDirs();
+  if (langDirs) return !langDirs.has(name);
+
+  // No registry (standalone): fall back to the whitelist.
+  return REAL_CATEGORIES.has(name);
+}
+
+export { REAL_CATEGORIES };
 
 /**
  * Determine if we are running inside the repo (i.e. ../knowledge/ exists).
@@ -142,10 +223,11 @@ function collectArticleFiles(dir, rootDir, results) {
     const fullPath = path.join(dir, entry.name);
 
     if (entry.isDirectory()) {
-      // Skip language dirs and resources at the top level
+      // At the top level, keep only real zh-TW category dirs (skips every
+      // language dir and resources/, present and future).
       const relativeToRoot = path.relative(rootDir, fullPath);
       const topLevelDir = relativeToRoot.split(path.sep)[0];
-      if (EXCLUDED_DIRS.has(topLevelDir) && relativeToRoot === topLevelDir) {
+      if (relativeToRoot === topLevelDir && !isZhCategoryDir(topLevelDir)) {
         continue;
       }
       collectArticleFiles(fullPath, rootDir, results);
