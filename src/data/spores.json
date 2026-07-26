@@ -1,9 +1,9 @@
 {
-  "_generated": "2026-07-26T10:51:18+08:00",
+  "_generated": "2026-07-27T06:12:09+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 150,
-    "articles": 73,
+    "spores": 152,
+    "articles": 74,
     "withMetrics": 140
   },
   "spores": [
@@ -8516,6 +8516,46 @@
           "shares": 4
         }
       ]
+    },
+    {
+      "id": 161,
+      "slug": "台灣鎢供應鏈",
+      "articlePath": "knowledge/Technology/台灣鎢供應鏈.md",
+      "articleUrl": "/technology/台灣鎢供應鏈/",
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-07-26",
+      "url": "https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb",
+      "template": "B 冷知識型／結構性題目",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
+    },
+    {
+      "id": 162,
+      "slug": "台灣鎢供應鏈",
+      "articlePath": "knowledge/Technology/台灣鎢供應鏈.md",
+      "articleUrl": "/technology/台灣鎢供應鏈/",
+      "lang": "zh",
+      "platform": "x",
+      "date": "2026-07-26",
+      "url": "https://x.com/taiwandotmd/status/2081354251016773702",
+      "template": "B 冷知識型／結構性題目",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
     }
   ],
   "byArticle": {
@@ -8539,6 +8579,7 @@
     "台灣美食總覽": [97, 98],
     "台灣與史瓦帝尼": [61, 62],
     "台灣邦交國與國際外交": [51, 52],
+    "台灣鎢供應鏈": [161, 162],
     "台灣高鐵": [35, 36],
     "周蕙": [103, 104],
     "嚴長壽": [8, 9],

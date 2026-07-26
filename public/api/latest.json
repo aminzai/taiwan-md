@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-07-25T22:13:30.232Z",
+  "_generated": "2026-07-26T22:13:31.659Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -8,9 +8,72 @@
         "desc": "2026 年 7 月 21 日零時，台灣第一部外送專法上路：每一單至少 45 元。當天一名外送員收到兩張單，4.4 公里與 8.6 公里，報酬都是 90 元。從 2019 年國慶連假兩名外送員在路上身亡，走到這 28 條，花了六年。而這部法刻意沒有回答他們到底算不算員工，也沒有碰真正決定收入的那套派單演算法——上路第一週，連地方有幾個人去稽查都還沒有答案。",
         "category": "society",
         "href": "/society/%E5%A4%96%E9%80%81%E5%B0%88%E6%B3%95",
-        "date": "2026-07-26T00:22:39+08:00",
+        "date": "2026-07-26T22:29:00+08:00",
         "readingTime": 17,
         "image": "/article-images/society/foodpanda-rider-keelung-rain-2020.webp"
+      },
+      {
+        "title": "苯駢芘食安事件：知情19天才通報，1,322家店最後才被算進帳",
+        "desc": "2026 年 7 月，中聯油脂一批大豆沙拉油驗出苯駢芘超標四倍，1,322 家下游店家與多校營養午餐受到波及。中聯 6 月 11 日已經知情，直到 6 月 30 日才通報主管機關，那 19 天，法律上很難判它逾期。食安法把「什麼時候該讓你知道」留給業者自己決定，這才是比究責更難修的地方。",
+        "category": "society",
+        "href": "/society/%E8%8B%AF%E9%A7%A2%E8%8A%98%E9%A3%9F%E5%AE%89%E4%BA%8B%E4%BB%B6",
+        "date": "2026-07-26T22:29:00+08:00",
+        "readingTime": 15,
+        "image": "/article-images/society/soybean-oil-meal-beans-2013.webp"
+      },
+      {
+        "title": "鎢：台灣沒有鎢礦，卻煉出全世界都要的粉末，位置比想像中脆弱",
+        "desc": "2026 年 7 月 1 日，兩家握有全球約四分之一六氟化鎢產能的日本工廠永久停產，起點是八個月前一句涉台的國會答詢。台灣不產鎢，卻靠六十年前廢五金年代練出的提煉手藝，接進了晶片與刀刃都繞不開的那一段。手藝是真的，但原料、市場與用途，沒有一樣是台灣單方面決定的。",
+        "category": "technology",
+        "href": "/technology/%E5%8F%B0%E7%81%A3%E9%8E%A2%E4%BE%9B%E6%87%89%E9%8F%88",
+        "date": "2026-07-26T20:59:14+08:00",
+        "readingTime": 20,
+        "image": "/article-images/technology/tungsten-filament-lightbulb-2018.webp"
+      },
+      {
+        "title": "半導體產業：從 RCA 技轉到氮化鎵與量子封裝的 50 年材料革命",
+        "desc": "台灣護國神山靠代工稱霸全球先進製程，但快充頭裡的氮化鎵、AI 晶片下的 CoWoS、量子位元上方的稀釋冷凍機,下一個 50 年的材料科學戰場才剛擺開。",
+        "category": "technology",
+        "href": "/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD",
+        "date": "2026-07-26T19:47:48+08:00",
+        "readingTime": 22,
+        "image": "/article-images/technology/silicon-vs-gan-charger-2025.webp"
+      },
+      {
+        "title": "鄭文琦：把台灣藝術圈推進馬來群島的 12 年",
+        "desc": "2017 年 5 月，馬來西亞藝術家周盈貞抵達台北，成為《數位荒原》駐站第一位藝術家，在發表會放了一段她跟婆婆用潮州話祈福的影片。這個場景是鄭文琦 2011 創辦《數位荒原》的縮影 — 12 年後累積 56 期、384 篇文章、10 冊《群島資料庫》，他用「群島」取代「東南亞」，把台灣藝術圈推向馬來世界，但也撞上了邊陲視角的天花板。",
+        "category": "people",
+        "href": "/people/%E9%84%AD%E6%96%87%E7%90%A6",
+        "date": "2026-07-26T08:48:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "檳榔：從神聖果實到致癌物，一顆果子裡的階級與土地縮影",
+        "desc": "1976年，南投草屯的檳榔攤開啟了「檳榔西施」的時代。這顆曾是原住民神聖祭品、漢人「洗瘴丹」的綠色果實，如今卻因健康與環保爭議，成為台灣社會階級與土地矛盾的縮影。",
+        "category": "society",
+        "href": "/society/%E6%AA%B3%E6%A6%94",
+        "date": "2026-07-26T08:42:18+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "小北百貨：深夜燈火裡的台灣雜貨王，從海產攤到「家長救星」的三十年",
+        "desc": "1994年發跡於台南小北夜市，小北百貨憑藉「24小時營業」與「賣別人不賣的貨」的經營策略，從一家瀕臨倒閉的海產店轉型為全台超過190家門市的五金龍頭。它是家長的深夜救星，也是移工的鄉愁補給站，更是台灣零售業最頑強的生存奇蹟。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%B0%8F%E5%8C%97%E7%99%BE%E8%B2%A8",
+        "date": "2026-07-26T08:42:15+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "八點檔：一支番仔火，燒出台灣客廳的邪典與鄉愁",
+        "desc": "從1990年代的瓊瑤苦情到2000年代的霹靂火迷因，八點檔不僅是台灣人的環境背景音，更是與現實同步的「即拍即播」工業奇蹟。",
+        "category": "culture",
+        "href": "/culture/%E5%85%AB%E9%BB%9E%E6%AA%94",
+        "date": "2026-07-26T08:42:12+08:00",
+        "readingTime": 15,
+        "image": ""
       },
       {
         "title": "台灣的斜槓世代——一人多職的生存與選擇",
@@ -37,15 +100,6 @@
         "href": "/nature/%E5%8F%B0%E7%81%A3%E5%B1%B1%E5%B2%B3%E8%88%87%E7%99%BB%E5%B1%B1%E6%96%87%E5%8C%96",
         "date": "2026-07-25T15:39:17+08:00",
         "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "一鍋油的體溫：2026 年 7 月，苯駢芘與台灣人的集體發燒",
-        "desc": "2026 年 7 月，中聯油脂一批苯駢芘超標的大豆沙拉油流進七大超商與連鎖餐飲，八天累積 53.7 萬則社群聲量。這場風暴刺穿的不只是 360 家下游業者的產品線，而是台灣人十年來把「驗油」外包給連鎖品牌的那條信任鏈。",
-        "category": "society",
-        "href": "/society/%E8%8B%AF%E9%A7%A2%E8%8A%98%E9%A3%9F%E5%AE%89%E4%BA%8B%E4%BB%B6",
-        "date": "2026-07-25T15:33:53+08:00",
-        "readingTime": 8,
         "image": ""
       },
       {
@@ -218,63 +272,27 @@
         "date": "2026-07-19T10:05:46+08:00",
         "readingTime": 16,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/National_Taichung_Theater_20180317.jpg/1280px-National_Taichung_Theater_20180317.jpg"
-      },
-      {
-        "title": "宜蘭縣：兩次選擇了自己的命運，蘭陽平原從此沒回頭",
-        "desc": "1987 年 12 月 13 日晚上，陳定南在華視棚內坐到王永慶對面，把六輕擋在蘭陽平原外。十九年後 2006 年 6 月 16 日，雪山隧道通車，台北到宜蘭的車程從兩小時被砍到 40 分鐘。然後通車十年內這片米倉長出 6,137 棟農舍，每坪地價從 4,000 元跳到 20,000 元，2023 年宜蘭一個縣核發了全台 35% 的農舍建照。一個地方兩次在歷史的關鍵時刻做了選擇，蘭陽平原把代價跟禮物一起收下。",
-        "category": "geography",
-        "href": "/geography/%E5%AE%9C%E8%98%AD%E7%B8%A3",
-        "date": "2026-07-19T10:05:46+08:00",
-        "readingTime": 15,
-        "image": "/article-images/geography/yilan-hero.webp"
-      },
-      {
-        "title": "走在填平的港口上：台南中西區的五道小吃",
-        "desc": "國華街與海安路的地底下是清代五條港的河道遺址；牛肉湯、虱目魚粥、鱔魚意麵、豬心冬粉，每一道小吃的時間、位置與食材，都是四百年碼頭工人的生存邏輯留下的化石。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E5%8D%97%E4%B8%AD%E8%A5%BF%E5%8D%80%E7%BE%8E%E9%A3%9F%E5%B0%8F%E5%90%83%E6%96%87%E5%8C%96",
-        "date": "2026-07-19T10:05:46+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "台灣小吃",
-        "desc": "1987年春水堂的一個失誤，讓珍珠奶茶走進60國市場。台灣小吃從清代移民的生存工具，到今天23.3萬個攤位撐起的4000億產業：它的成功方程式不是精緻化，而是那種「管它的，先試試看」的草根勇氣。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%90%83",
-        "date": "2026-07-19T10:05:46+08:00",
-        "readingTime": 12,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg/960px-East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg"
-      },
-      {
-        "title": "數位荒原：一個沒商業模式的網路藝評平台怎麼活了 12 年",
-        "desc": "2011 年 11 月，鄭文琦在台北一個叫「在地實驗」的舊媒體機構辦了一個沒紙本、沒廣告、沒訂閱費的網路書寫計劃。12 年後它累積 56 期主題、384 篇文章、31 集 podcast、10 冊《群島資料庫》。同期同類型「無紙媒母體 + 無實體空間 + 個人主編 driven」三條件齊備的中文藝評平台沒有同期存活案例。它撐下來靠的是三層 quiet infrastructure 精細疊合：機構母體承接基本成本、公部門專案補單期內容、編輯個人 12 年勞動補剩下的 gap。",
-        "category": "art",
-        "href": "/art/%E6%95%B8%E4%BD%8D%E8%8D%92%E5%8E%9F",
-        "date": "2026-07-19T10:05:46+08:00",
-        "readingTime": null,
-        "image": "/article-images/art/nml-trial-issue-hero-2011.webp"
-      },
-      {
-        "title": "三毛：把逃離寫成自由的人",
-        "desc": "本名陳平，1943年生於重慶，1948年隨家遷台。國中因老師當眾羞辱輟學，七年自閉後重新寫作。1973年與荷西在西屬撒哈拉結婚，散文爆紅，成為戒嚴時代台灣人想像遠方的窗口。1979年荷西潛水意外身亡。1990年編劇《滾滾紅塵》獲金馬八獎。1991年1月4日台北榮民總醫院自縊，享年四十七歲。",
-        "category": "people",
-        "href": "/people/%E4%B8%89%E6%AF%9B",
-        "date": "2026-07-19T10:05:46+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "台灣偏鄉教育：孩子缺的不是勵志故事，是一整套沒有鬆開的支持",
-        "desc": "偏鄉教育不是「山裡的學校比較遠」那麼簡單。從老師流動、混齡教學、交通與住宿，到家庭支持、社區連結與社會對成功的單一想像，真正困難的是一個孩子離開教室後，整套支持系統常常一層一層鬆開。",
-        "category": "society",
-        "href": "/society/%E5%8F%B0%E7%81%A3%E5%81%8F%E9%84%89%E6%95%99%E8%82%B2",
-        "date": "2026-07-19T10:05:46+08:00",
-        "readingTime": 13,
-        "image": ""
       }
     ],
     "en": [
+      {
+        "title": "Taiwan BIM Case Study: One Protocol vs 12 Years of Policy",
+        "desc": "In 2014 Taiwan chose case-by-case BIM adoption. Twelve years on, a Taiwanese developer shipped REVIT_MCP_study. Policy no longer sets the pace alone.",
+        "category": "technology",
+        "href": "/en/technology/taiwan-bim-construction-tech",
+        "date": "2026-07-26T22:34:16+08:00",
+        "readingTime": 22,
+        "image": "/article-images/technology/freecad-bim-example-2024.webp"
+      },
+      {
+        "title": "Cheng Wen-Chi: 12 Years of Pushing Taiwan's Art World into the Malay Archipelago",
+        "desc": "In May 2017, Malaysian artist Okui Lala arrived in Taipei as the first resident artist of No Man's Land, screening a video of herself and her mother-in-law offering blessings in Teochew at her presentation. That scene was a microcosm of what Cheng Wen-Chi had set in motion when he founded No Man's Land in 2011 — 12 years later, 56 issues, 384 articles, and 10 volumes of the Nusantara Archive, using 'archipelago' in place of 'Southeast Asia' to push Taiwan's art world toward the Malay world, while also hitting the ceiling of a peripheral perspective.",
+        "category": "people",
+        "href": "/en/people/cheng-wen-chi",
+        "date": "2026-07-26T08:48:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Taiwan's Mountains and Hiking Culture",
         "desc": "268 peaks above 3,000 meters are packed onto a single island, yet it took Taiwanese people half a century before they were allowed to freely climb their own mountains.",
@@ -526,27 +544,18 @@
         "date": "2026-07-25T10:34:23+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "Islam in Taiwan: From Quanzhou Guo-clan Ancestors to the Faith Mosaic of 300,000 Migrant Workers",
-        "desc": "In 2025, Taiwan's Muslim population surpassed 300,000. The island's Islamic imprint spans four centuries. From the ancestral-sacrifice taboos of the Lukang Guo family clan, to the Eid al-Fitr celebrations filling Taipei Main Station's black-and-white checkered hall, Taiwan is experiencing a faith reconstruction — from 'concealing ancestral origins' to 'a foreign home.'",
-        "category": "culture",
-        "href": "/en/culture/islam-in-taiwan",
-        "date": "2026-07-25T10:34:23+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Jiaobei: Hearing the Voice of the Gods Behind a 50% Probability",
-        "desc": "From Chiayi craftsman Huang Yi-xun's devotion to the 'bamboo-root jiaobei' to the Pingtung Citian Temple legend of 20 consecutive sheng-bei and a NT$3 million prize, this article explores the probability and warmth behind how Taiwanese people communicate with the divine.",
-        "category": "culture",
-        "href": "/en/culture/jiaobei-divination-blocks",
-        "date": "2026-07-25T10:34:23+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "ja": [
+      {
+        "title": "鄭文琦（てん・ぶんき）：台湾のアートシーンを「群島」へと押し進めた12年",
+        "desc": "2017年5月、マレーシアのアーティスト、周盈貞（しゅう・えいてん／オクイ・ララ）が台北に到着した。彼女は『デジタル荒野（No Man's Land）』のレジデンス第1号のアーティストとなり、発表会で義母と潮州語で祈る映像を公開した。この光景は、鄭文琦が2番2011年に設立した『デジタル荒野』の縮図である。12年間で56号、384本の記事、10冊の『群島データベース（Nusantara Archive）』を蓄積。彼は「東南アジア」という言葉の代わりに「群島」を用い、台湾のアートシーンをマレー世界へと押し進めたが、同時に辺境の視点が直面する限界にも突き当たった。",
+        "category": "people",
+        "href": "/ja/people/cheng-wen-chi",
+        "date": "2026-07-26T08:48:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "台湾の山岳と登山文化",
         "desc": "268座の三千メートル級高山が一つの島に押し込まれているのに、台湾人が自由に自分の山に登れるようになるには半世紀を要した",
@@ -807,18 +816,18 @@
         "date": "2026-07-25T10:32:02+08:00",
         "readingTime": 14,
         "image": "/article-images/geography/keelung-hero.webp"
-      },
-      {
-        "title": "金門県：1949年のあの56時間が、金門の75年の運命を決めました",
-        "desc": "金門は厦門の角嶼に最も近い地点でわずか1.8キロ、台北からは358キロ離れています。1387年、江夏侯の周徳興がここに所城を築き、「固若金湯，雄鎮海門」の意を取って名付けました。1949年10月25日午前2時、共軍3個連隊9,086人が古寧頭の浜辺に上陸し、国軍は56時間の激戦の末に撃退しました。1958年8月23日午後5時半から始まった44日間に、151平方キロの島へ474,910発の砲弾が落下し、その後の「単打双不打」はさらに21年続きました。今日、14.5万人が金門に戸籍を置き、午前4時の水頭埠頭では、台北行きの飛行機より厦門行きの船のほうが多く出ています。葉華成の曾孫は、謝罪を求めて67年待ち続けました。",
-        "category": "geography",
-        "href": "/ja/geography/kinmen-county",
-        "date": "2026-07-25T10:32:02+08:00",
-        "readingTime": 16,
-        "image": "/article-images/geography/kinmen-hero.webp"
       }
     ],
     "ko": [
+      {
+        "title": "정원치: 타이완 미술계를 말레이 군도로 이끈 12년",
+        "desc": "2017년 5월, 말레이시아 예술가 저우잉전(周盈貞)이 타이베이에 도착해 《디지털 황무지》의 첫 번째 레지던시 예술가가 되었다. 이 순간은 정원치가 2011년 《디지털 황무지》를 창간한 지 12년 만에 56호, 384편의 글, 10권의 《군도 아카이브》를 축적한 과정의 축소판이다. 그는 '동남아시아' 대신 '군도'라는 개념을 사용하여 타이완 미술계를 말레이 세계로 확장했으나, 변방의 시점에서 한계에 부딪혔다.",
+        "category": "people",
+        "href": "/ko/people/cheng-wen-chi",
+        "date": "2026-07-26T08:48:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "대만의 산악과 등산 문화",
         "desc": "268개의 3천 미터 고산이 하나의 섬에 밀집한 대만, 그런데 대만인들이 자국의 산을 자유롭게 오를 수 있게 된 것은 반세기가 지나서였다",
@@ -1079,25 +1088,25 @@
         "date": "2026-07-25T10:33:05+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "대만 국가풍경구 시스템",
-        "desc": "\"국가급\" 타이틀 아래 펼쳐진 관광 우선 실험: 13개 풍경구는 어떻게 보전과 개발 사이에서 줄타기를 하고 있나",
-        "category": "geography",
-        "href": "/ko/geography/national-scenic-area-system",
-        "date": "2026-07-25T10:33:05+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "fr": [
       {
-        "title": "Montagnes de Taïwan et culture de la randonnée",
-        "desc": "268 sommets dépassant les trois mille mètres entassés sur une île — et pourtant, les Taïwanais ont attendu un demi-siècle avant de pouvoir grimper librement leurs propres montagnes",
+        "title": "Cheng Wen-chi : 12 ans pour pousser le milieu artistique taïwanais vers l'archipel malais",
+        "desc": "En mai 2017, l'artiste malaisienne Okui Lala (Chou Ying-chen) est arrivée à Taipei, devenant la première artiste en résidence de « No Man's Land » (Désert numérique). Lors de sa présentation, elle a diffusé une vidéo où elle récitait des prières en teochew avec sa belle-mère. Cette scène résume le projet que Cheng Wen-chi a lancé en 2011 avec « No Man's Land » — 12 ans plus tard, 56 numéros, 384 articles et 10 volumes de l'« Archive de l'archipel » (Nusantara Archive), il a remplacé le terme « Asie du Sud-Est » par « archipel », orientant le milieu artistique taïwanais vers le monde malais, mais se heurtant aussi au plafond de la vision périphérique.",
+        "category": "people",
+        "href": "/fr/people/cheng-wen-chi",
+        "date": "2026-07-26T08:48:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "Montagnes et culture de l'alpinisme à Taïwan",
+        "desc": "Avec 268 sommets dépassant les 3 000 mètres sur une seule île, les Taïwanais ont attendu un demi-siècle avant de pouvoir librement gravir leurs propres montagnes.",
         "category": "nature",
         "href": "/fr/nature/taiwan-mountains-and-hiking-culture",
         "date": "2026-07-25T15:39:17+08:00",
-        "readingTime": 12,
+        "readingTime": null,
         "image": ""
       },
       {
@@ -1351,18 +1360,18 @@
         "date": "2026-07-25T10:30:51+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "Le mont Luodi",
-        "desc": "La zone de badlands volcanique boueuse la plus proche du littoral de Taïwan — ancienne forteresse militaire reconvertie en parc naturel, avec des bouches d'éjection de boue actives et des sentiers offrant de splendides panoramas sur la mer.",
-        "category": "geography",
-        "href": "/fr/geography/tadian-mountain",
-        "date": "2026-07-25T10:30:51+08:00",
-        "readingTime": 6,
-        "image": ""
       }
     ],
     "es": [
+      {
+        "title": "Cheng Wen-chi: 12 años empujando el arte taiwanés hacia el archipiélago malayo",
+        "desc": "En mayo de 2017, la artista malasia Okui Lala (Chou Ying-chen) llegó a Taipéi como primera artista residente de No Man's Land. En su presentación final proyectó un video en el que ella y su suegra rezaban en dialecto teochew. Ese momento condensa la trayectoria de Cheng Wen-chi, quien fundó No Man's Land en 2011: 12 años después, la plataforma acumula 56 números, 384 artículos y 10 volúmenes del Nusantara Archive. Cheng reemplazó el término \"Sudeste Asiático\" por \"archipiélago\" para orientar el arte taiwanés hacia el mundo malayo, pero también chocó con el techo de una visión periférica.",
+        "category": "people",
+        "href": "/es/people/cheng-wen-chi",
+        "date": "2026-07-26T08:48:38+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "Las montañas de Taiwán y la cultura del montañismo",
         "desc": "268 montañas de más de tres mil metros de altitud comprimidas en una sola isla, y sin embargo los taiwaneses tardaron medio siglo en que les permitieran escalar libremente sus propias montañas",
@@ -1463,8 +1472,8 @@
         "image": ""
       },
       {
-        "title": "Taiwán y Corea del Norte: Del cuarto mayor destino de exportación al campo de batalla gris",
-        "desc": "Taiwán fue el cuarto mayor mercado de exportación para Corea del Norte; las oficinas en Pyongyang exhibían computadoras Acer y sanitarios HCG. Esta historia, desde el comercio entusiasta hasta la prohibición total, entrelaza ayuda agrícola secreta, contrabando marítimo y una profunda lucha de inteligencia de seguridad nacional.",
+        "title": "Taiwán y Corea del Norte: De la cuarta nación exportadora al enfrentamiento en la zona gris de la flota fantasma",
+        "desc": "Taiwán fue en el pasado la cuarta nación de destino de exportaciones de Corea del Norte, con computadoras Acer y sanitarios HCG visibles en las oficinas de Pyongyang. Esta historia, que va desde el comercio intenso hasta el embargo total, entrelaza la asistencia agrícola secreta, el contrabando marítimo y la lucha profunda de la inteligencia de seguridad nacional.",
         "category": "history",
         "href": "/es/history/taiwan-north-korea-relations",
         "date": "2026-07-25T10:29:52+08:00",
@@ -1623,15 +1632,6 @@
         "date": "2026-07-25T10:29:52+08:00",
         "readingTime": 18,
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2017_Fort_San_Domingo.jpg/1280px-2017_Fort_San_Domingo.jpg"
-      },
-      {
-        "title": "Acantilado de Qingshui: cicatriz sublime bajo la colisión de placas y resiliencia vital",
-        "desc": "En 1874, el general de la dinastía Qing Luo Dachun dirigió la excavación del antiguo camino de Suhua, abriendo una ruta escarpada a lo largo de la costa oriental. El Acantilado de Qingshui, una pared vertical compuesta de mármol y gneis, no solo es un microcosmos de la evolución geológica del este de Taiwán, sino también una fuente de inspiración para la flora endémica y la literatura marítima, al tiempo que enfrenta el doble desafío ambiental y de seguridad.",
-        "category": "geography",
-        "href": "/es/geography/qingshui-cliff",
-        "date": "2026-07-25T10:29:52+08:00",
-        "readingTime": 15,
-        "image": ""
       }
     ]
   }

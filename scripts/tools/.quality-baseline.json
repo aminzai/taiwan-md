@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-25T22:13:12Z",
-  "total": 865,
-  "flagged": 427,
+  "timestamp": "2026-07-26T22:13:14Z",
+  "total": 869,
+  "flagged": 430,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -610,6 +610,11 @@
       "reasons": "年份4個; 未人工審核; 塑膠句1個; 後段清單堆砌45%; 稀薄段落×1; 價值上升詞×5"
     },
     {
+      "file": "lifestyle/小北百貨.md",
+      "score": 7,
+      "reasons": "年份4個; 未人工審核; 後段清單堆砌62%; 稀薄段落×1; 品質衰退前17%後9%"
+    },
+    {
       "file": "lifestyle/LINE.md",
       "score": 4,
       "reasons": "空洞詞6個; 未人工審核; 稀薄段落×5"
@@ -733,6 +738,11 @@
       "file": "society/台灣電視分級制度.md",
       "score": 4,
       "reasons": "空洞詞5個; 塑膠句1個; 稀薄段落×4"
+    },
+    {
+      "file": "society/檳榔.md",
+      "score": 13,
+      "reasons": "年份僅0個; 未人工審核; 塑膠句4個; 後段清單堆砌60%; 稀薄段落×1; 品質衰退前20%後6%"
     },
     {
       "file": "society/台灣動物用藥爭議.md",
@@ -2103,6 +2113,11 @@
       "file": "culture/群島思維.md",
       "score": 7,
       "reasons": "空洞詞5個; 未人工審核; 塑膠句1個; 破折號10個; 分號5個; 稀薄段落×1"
+    },
+    {
+      "file": "culture/八點檔.md",
+      "score": 10,
+      "reasons": "未人工審核; 後段清單堆砌82%; 稀薄段落×5; 品質衰退前20%後2%; 無腳註"
     },
     {
       "file": "culture/台灣迷因.md",
