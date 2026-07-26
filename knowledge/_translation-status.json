@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T06:09:53+08:00",
-    "zhCommitHead": "1e29900b8",
+    "lastUpdated": "2026-07-27T06:14:46+08:00",
+    "zhCommitHead": "de41e712b",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -43,8 +43,8 @@
       },
       "es": {
         "total_zh": 869,
-        "fresh": 743,
-        "stale": 121,
+        "fresh": 744,
+        "stale": 120,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 352,
+        "fresh": 353,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 506,
+        "missing": 505,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 553,
+        "fresh": 554,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 303,
+        "missing": 302,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 429,
+        "fresh": 430,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 438,
+        "missing": 437,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 462,
+        "fresh": 463,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 405,
+        "missing": 404,
         "orphan": 0
       }
     },
@@ -13587,7 +13587,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/science-park-development.md",
+          "translatedFrom": "Technology/科技園區發展.md",
+          "sourceCommitSha": "bc725e8c5",
+          "sourceContentHash": "sha256:19e7a45a0852260f",
+          "sourceBodyHash": "sha256:a1d16e29348fc28f",
+          "translatedAt": "2026-07-27T06:10:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -15767,8 +15778,8 @@
           "sourceContentHash": "sha256:53da925e7fa0c8af",
           "sourceBodyHash": "sha256:4be23294d5e61459",
           "translatedAt": "2026-07-27T04:27:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de41e712",
+          "translationLastModified": "2026-07-27T06:09:54+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -19469,8 +19480,8 @@
           "sourceContentHash": "sha256:a528d560e37c40b9",
           "sourceBodyHash": "sha256:1790c4ef1b7a9b20",
           "translatedAt": "2026-07-27T05:39:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de41e712",
+          "translationLastModified": "2026-07-27T06:09:54+08:00",
           "inferred": false,
           "footnoteDefs": 49,
           "status": "fresh",
@@ -27567,7 +27578,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/history-of-taiwan-mrt-development.md",
+          "translatedFrom": "Lifestyle/台灣捷運發展史.md",
+          "sourceCommitSha": "976dcae41",
+          "sourceContentHash": "sha256:103cffd41c084886",
+          "sourceBodyHash": "sha256:afbe1eb00070eaa4",
+          "translatedAt": "2026-07-27T06:10:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -65744,8 +65766,8 @@
           "sourceContentHash": "sha256:8b9c35107127e767",
           "sourceBodyHash": "sha256:e59e32a8f7afc902",
           "translatedAt": "2026-07-27T04:56:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de41e712",
+          "translationLastModified": "2026-07-27T06:09:54+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -76865,8 +76887,8 @@
           "sourceContentHash": "sha256:50eb815f9c92fea3",
           "sourceBodyHash": "sha256:1ab1bdb7f132ff60",
           "translatedAt": "2026-07-27T04:27:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de41e712",
+          "translationLastModified": "2026-07-27T06:09:54+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -91214,7 +91236,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/ten-major-construction-projects.md",
+          "translatedFrom": "History/十大建設.md",
+          "sourceCommitSha": "9ecd20d61",
+          "sourceContentHash": "sha256:c56d8ded11ccacaf",
+          "sourceBodyHash": "sha256:b63c0b30d24f0d0a",
+          "translatedAt": "2026-07-27T06:10:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -92557,7 +92590,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/taiwan-island-historiography.md",
+          "translatedFrom": "History/台灣島史觀.md",
+          "sourceCommitSha": "a1c3748b5",
+          "sourceContentHash": "sha256:584f286b403c0d75",
+          "sourceBodyHash": "sha256:4711da6579afc037",
+          "translatedAt": "2026-07-27T06:10:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -101380,18 +101424,16 @@
         "es": {
           "path": "es/Geography/taiwan-river-systems-and-hydrology.md",
           "translatedFrom": "Geography/台灣河川系統與水文特色.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:1c45b3deb1a24209",
-          "sourceBodyHash": "sha256:04efbae9f862baa5",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "70372d3a0",
+          "sourceContentHash": "sha256:8df5b8e9967c9dc4",
+          "sourceBodyHash": "sha256:8b2b2e4c01c9feb3",
+          "translatedAt": "2026-07-27T05:46:59+08:00",
           "translationLastCommit": "f59e6468",
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/taiwan-river-systems-and-hydrology.md",
@@ -105153,8 +105195,8 @@
           "sourceContentHash": "sha256:ee59ed48db607f3f",
           "sourceBodyHash": "sha256:26d93e9626e6b86e",
           "translatedAt": "2026-07-27T04:27:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "de41e712",
+          "translationLastModified": "2026-07-27T06:09:54+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
