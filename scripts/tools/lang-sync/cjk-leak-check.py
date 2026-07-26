@@ -117,6 +117,11 @@ def scan_file(path: Path, lang: str = None):
             end_fm = body.find("---", 3)
             if end_fm != -1:
                 body = body[end_fm + 3:]
+        # wikilink 的 target 是 zh slug——保留中文是連結能解析的前提，不是洩漏
+        # （第十家族 2026-07-26：`[[濁水溪公社 (झुओ शुई शी गोंगशे)]]` 被判洩漏，
+        # 而那正是 per-language guide 要求的「保留原標題＋附音譯」寫法）。
+        # 必須排在 markdown 連結剝除之前——`[[x]]` 不符合 `[text](url)` 形式。
+        body = re.sub(r"\[\[[^\]]*\]\]", "", body)                 # [[wikilink]]
         body = re.sub(r"\[[^\]]*\]\([^)]*\)", "", body)          # [text](url)
         body = re.sub(r"^\[\^[^\]]+\]:.*$", "", body, flags=re.MULTILINE)  # [^n]: ...
         # 裸 URL（第八家族 2026-07-25）：wikipedia.org/zh-tw/台灣傳統市場 這類
@@ -140,6 +145,7 @@ def scan_file(path: Path, lang: str = None):
     scan = text
     for rx in LEGIT_ZH_SPANS:
         scan = rx.sub("", scan)
+    scan = re.sub(r"\[\[[^\]]*\]\]", "", scan)   # wikilink target 同豁免（第十家族）
     scan = re.sub(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\([^)]*\)", "", scan)
     scan = re.sub(r"https?://\S+", "", scan)   # 裸 URL 同豁免（第八家族）
     for marker in ZH_ONLY_MARKERS:
